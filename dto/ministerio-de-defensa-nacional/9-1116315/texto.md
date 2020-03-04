@@ -218,95 +218,85 @@ Definiciones. Para la aplicación del presente Reglamento se tendrá por:
 
 17) Director: El Director General del Territorio Marítimo y de Marina Mercante.
 
-18) Electrónico: característica de la tecnología que tiene capacidades eléctricas, digitales, magnéticas, inalámbricas, ópticas, electromagnéticas u otras similares;
+18) Embarcadero: Véase atracadero.
 
-19) Embarcadero: Véase atracadero.
+19) Fondo de mar, río o lago: Extensión de suelo comprendido desde la línea de más baja marea, aguas adentro, en el mar, y desde la línea de aguas mínimas en sus bajas normales, aguas adentro, en ríos o lagos. En el caso de las desembocaduras de ríos en lagos o en el mar, el límite del fondo de lago se determinará por la línea de aguas máximas del mismo y el límite del fondo de mar, por la línea de más alta marea.
 
-20) Expediente electrónico: registro almacenado por medios electrónicos, asociado a un procedimiento administrativo determinado, en el que se asientan todos los documentos electrónicos o digitalizados presentados por los interesados, por terceros y por otros órganos públicos, con expresión de la fecha y hora de su recepción, respetando su orden de ingreso. En dicho registro se incorporarán, asimismo, las actuaciones, documentos, decretos y resoluciones que el órgano administrativo remita a los interesados, a terceros o a otros órganos públicos y las notificaciones y comunicaciones a que éstas den lugar, con expresión de la fecha y hora de su envío, en estricto orden de ocurrencia o egreso;
+20) Hangar: Construcción o instalación cerrada o cobertizo ubicado sobre la superficie de las aguas, fijo o flotante, cuyo objeto es resguardar naves.
 
-21) Firma electrónica: cualquier sonido, símbolo o proceso electrónico, que permite al receptor de un documento electrónico identificar, al menos formalmente, a su autor;
+21) Infraestructura portuaria fiscal de apoyo a la pesca artesanal: Obras construidas por el Estado, ubicadas en el borde costero, para ser utilizadas por organizaciones de pescadores artesanales legalmente constituidas, para fines de apoyo a la pesca artesanal o de diversificación productiva, entendiéndose ésta como las actividades económicas o turísticas desarrolladas por dichas organizaciones.
 
-22) Firma electrónica avanzada: aquella certificada por un prestador acreditado, que ha sido creada usando medios que el titular mantiene bajo su exclusivo control, de manera que se vincule únicamente al mismo y a los datos a los que se refiere, permitiendo la detección de cualquier modificación posterior, verificando la identidad del titular e impidiendo que desconozca la integridad del documento y su autoría;
+22) Interés público: Se entenderá que son de interés público los permisos, autorizaciones y concesiones y sus respectivas solicitudes, correspondientes a cualquier órgano de la Administración del Estado. Del mismo modo, se entenderá que son de interés público las concesiones cuyo objeto sirva directamente a la prestación de servicios de utilidad pública.
 
-23) Fondo de mar, río o lago: Extensión de suelo comprendido desde la línea de más baja marea, aguas adentro, en el mar, y desde la línea de aguas mínimas en sus bajas normales, aguas adentro, en ríos o lagos. En el caso de las desembocaduras de ríos en lagos o en el mar, el límite del fondo de lago se determinará por la línea de aguas máximas del mismo y el límite del fondo de mar, por la línea de más alta marea.
+23) Ley sobre Concesiones Marítimas: DFL Nº 340, de 1960, del Ministerio de Hacienda.
 
-24) Hangar: Construcción o instalación cerrada o cobertizo ubicado sobre la superficie de las aguas, fijo o flotante, cuyo objeto es resguardar naves.
+24) Ley Nº 19.880: Ley sobre Bases Generales de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado.
 
-25) Infraestructura portuaria fiscal de apoyo a la pesca artesanal: Obras construidas por el Estado, ubicadas en el borde costero, para ser utilizadas por organizaciones de pescadores artesanales legalmente constituidas, para fines de apoyo a la pesca artesanal o de diversificación productiva, entendiéndose ésta como las actividades económicas o turísticas desarrolladas por dichas organizaciones.
+25) Línea de la playa: Aquella que, de acuerdo con el artículo 594 del Código Civil, señala el deslinde superior de la playa de mar hasta donde llegan las olas en las más altas mareas.
 
-26) Interés público: Se entenderá que son de interés público los permisos, autorizaciones y concesiones y sus respectivas solicitudes, correspondientes a cualquier órgano de la Administración del Estado. Del mismo modo, se entenderá que son de interés público las concesiones cuyo objeto sirva directamente a la prestación de servicios de utilidad pública.
+26) Línea de la playa ofi al: Aquella fi ada por la Dirección, pudiendo solicitar para su determinación, un informe técnico al S.H.O.A. En el caso de que sea necesario modificar una línea de playa oficial, debido a la alteración de la realidad geográfica del sector, la Dirección elevará los antecedentes al Ministerio de Defensa Nacional, a través de la Subsecretaría para las Fuerzas Armadas, para que disponga que se realicen las modificaciones pertinentes.
 
-27) Ley sobre Concesiones Marítimas: DFL Nº 340, de 1960, del Ministerio de Hacienda.
+27) Línea de las aguas máximas en ríos y lagos: Nivel hasta donde llegan las aguas en los ríos o lagos, en sus crecientes normales de invierno y verano. Para su determinación se estará a lo definido por el Ministerio de Bienes Nacionales conforme a los procedimientos establecidos en el DS Nº 609 de 1978, de esa Secretaría de Estado, o en su defecto, a las instrucciones impartidas por la Dirección.
 
-28) Ley Nº 19.880: Ley sobre Bases Generales de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado.
+28) Línea de más baja marea: Línea que representa el nivel mínimo alcanzado por una marea vaciante en el período de sicigias y cuando la luna se encuentra a su menor distancia de la tierra.
 
-29) Línea de la playa: Aquella que, de acuerdo con el artículo 594 del Código Civil, señala el deslinde superior de la playa de mar hasta donde llegan las olas en las más altas mareas.
+29) Línea del límite de terreno de playa: Línea que fija el límite superior de los terrenos de propiedad del Fisco sometidos al control, fiscalización y supervigilancia del Ministerio, ubicada a una distancia de hasta 80 metros, medida desde la línea de la playa de la costa del litoral o desde la línea de aguas máximas en los ríos o lagos, sin considerar para estos efectos los rellenos artificiales hechos sobre la playa o fondos de mar, río o lago.
 
-30) Línea de la playa ofi al: Aquella fi ada por la Dirección, pudiendo solicitar para su determinación, un informe técnico al S.H.O.A. En el caso de que sea necesario modificar una línea de playa oficial, debido a la alteración de la realidad geográfica del sector, la Dirección elevará los antecedentes al Ministerio de Defensa Nacional, a través de la Subsecretaría para las Fuerzas Armadas, para que disponga que se realicen las modificaciones pertinentes.
+30) Línea de relleno: Trazado referencial que determina el deslinde de un relleno artificial respecto a la playa y/o fondo de mar, río o lago.
 
-31) Línea de las aguas máximas en ríos y lagos: Nivel hasta donde llegan las aguas en los ríos o lagos, en sus crecientes normales de invierno y verano. Para su determinación se estará a lo definido por el Ministerio de Bienes Nacionales conforme a los procedimientos establecidos en el DS Nº 609 de 1978, de esa Secretaría de Estado, o en su defecto, a las instrucciones impartidas por la Dirección.
+31) Malecón: Muro o construcción paralela y adosada a la costa o ribera, destinado a la protección de las aguas, al atraque de naves que sirven para la movilización de carga o pasajeros, o que sirve como paseo costero o ribereño.
 
-32) Línea de más baja marea: Línea que representa el nivel mínimo alcanzado por una marea vaciante en el período de sicigias y cuando la luna se encuentra a su menor distancia de la tierra.
+32) Malecón mecanizado: Aquel en que la carga se moviliza por sistemas mecánicos continuos, que arrancan de depósitos ad-hoc ubicados en sus inmediaciones (correas transportadoras, cañerías conductoras, etc.).
 
-33) Línea del límite de terreno de playa: Línea que fija el límite superior de los terrenos de propiedad del Fisco sometidos al control, fiscalización y supervigilancia del Ministerio, ubicada a una distancia de hasta 80 metros, medida desde la línea de la playa de la costa del litoral o desde la línea de aguas máximas en los ríos o lagos, sin considerar para estos efectos los rellenos artificiales hechos sobre la playa o fondos de mar, río o lago.
+33) Malecón semimecanizado: Aquel en que la carga se moviliza por sistemas mecánicos no continuos, sin depósitos ad-hoc (desde carros tolva, por chutes u otros sistemas a buques).
 
-34) Línea de relleno: Trazado referencial que determina el deslinde de un relleno artificial respecto a la playa y/o fondo de mar, río o lago.
+34) Mejora: Cualquier tipo de construcción o instalación que se realice sobre un bien nacional de uso público o fiscal sometido al control, fiscalización y supervigilancia del Ministerio.
 
-35) Malecón: Muro o construcción paralela y adosada a la costa o ribera, destinado a la protección de las aguas, al atraque de naves que sirven para la movilización de carga o pasajeros, o que sirve como paseo costero o ribereño.
+35) Mejora fiscal: Aquella que se haya ejecutado en el borde costero con fondos fiscales. Tendrá la misma clasificación aquella mejora introducida por el concesionario que, adherida al suelo, no se hubiese retirado dentro del plazo establecido en el artículo 91 o se hubiera construido durante un período de ocupación ilegal.
 
-36) Malecón mecanizado: Aquel en que la carga se moviliza por sistemas mecánicos continuos, que arrancan de depósitos ad-hoc ubicados en sus inmediaciones (correas transportadoras, cañerías conductoras, etc.).
+36) Ministerio: Ministerio de Defensa Nacional.
 
-37) Malecón semimecanizado: Aquel en que la carga se moviliza por sistemas mecánicos no continuos, sin depósitos ad-hoc (desde carros tolva, por chutes u otros sistemas a buques).
+37) Molo: Muro o terraplén que desde la costa o ribera se interna en el agua y que sirve para la defensa o abrigo de cierto espacio de agua, pudiendo permitir el atraque de naves para la movilización de carga o pasajeros.
 
-38) Mejora: Cualquier tipo de construcción o instalación que se realice sobre un bien nacional de uso público o fiscal sometido al control, fiscalización y supervigilancia del Ministerio.
+38) Muelle: Construcción o instalación que desde la costa o ribera se interna en el agua y que es apta para el atraque de naves mayores y sirve para la movilización de carga y/o pasajeros hacia o desde tierra.
 
-39) Mejora fiscal: Aquella que se haya ejecutado en el borde costero con fondos fiscales. Tendrá la misma clasificación aquella mejora introducida por el concesionario que, adherida al suelo, no se hubiese retirado dentro del plazo establecido en el artículo 91 o se hubiera construido durante un período de ocupación ilegal.
+39) Muelle mecanizado: Aquel en que la carga se moviliza por sistemas mecánicos continuos, cuyas instalaciones arrancan de depósitos ad-hoc ubicados en tierra (correas transportadoras, cañerías conductoras, etc.).
 
-40) Ministerio: Ministerio de Defensa Nacional.
+40) Muelle semimecanizado: Aquel en que la carga se moviliza por sistemas mecánicos no continuos, ubicados sobre este, pero que no arrancan de depósitos ad-hoc (desde carros tolva, por chutes u otros sistemas a buques).
 
-41) Molo: Muro o terraplén que desde la costa o ribera se interna en el agua y que sirve para la defensa o abrigo de cierto espacio de agua, pudiendo permitir el atraque de naves para la movilización de carga o pasajeros.
+41) Playa de mar: Extensión de tierra que las olas bañan y desocupan alternativamente comprendida entre la línea de más baja marea y la línea de la playa.
 
-42) Muelle: Construcción o instalación que desde la costa o ribera se interna en el agua y que es apta para el atraque de naves mayores y sirve para la movilización de carga y/o pasajeros hacia o desde tierra.
+42) Playa de río o lago: Extensión de suelo que las aguas bañan en sus crecidas normales comprendido entre la línea de aguas mínimas y aguas máximas.
 
-43) Muelle mecanizado: Aquel en que la carga se moviliza por sistemas mecánicos continuos, cuyas instalaciones arrancan de depósitos ad-hoc ubicados en tierra (correas transportadoras, cañerías conductoras, etc.).
+43) Porción de agua: Espacio de mar, río o lago, destinado a mantener cualquier elemento flotante comprendido desde la línea de más baja marea, aguas adentro, en el mar, y desde la línea de aguas mínimas en sus bajas normales, aguas adentro, en río o lagos.
 
-44) Muelle semimecanizado: Aquel en que la carga se moviliza por sistemas mecánicos no continuos, ubicados sobre este, pero que no arrancan de depósitos ad-hoc (desde carros tolva, por chutes u otros sistemas a buques).
+44) Puerto, terminal marítimo o recinto portuario: Es un área litoral delimitada por condiciones físicas o artifi ales que permite la instalación de infraestructura destinada a la entrada, salida, atraque, desatraque, amarre, desamarre y permanencia de naves, y a la realización de operaciones de movilización y almacenamiento de carga, a la prestación de servicios a las naves, cargas, pasajeros o tripulantes, actividades pesqueras, de transporte marítimo, deportes náuticos, turismo, remolque y construcción o reparación de naves.
 
-45) Playa de mar: Extensión de tierra que las olas bañan y desocupan alternativamente comprendida entre la línea de más baja marea y la línea de la playa.
+45) Rampa: Plano inclinado construido desde tierra hacia el fondo de mar, río o lago, destinado a varar naves y artefactos navales, y que sirve para la movilización de carga y/o pasajeros hacia o desde tierra.
 
-46) Playa de río o lago: Extensión de suelo que las aguas bañan en sus crecidas normales comprendido entre la línea de aguas mínimas y aguas máximas.
+46) Rampa de conectividad: Rampa diseñada y construida para la atención de servicios de conectividad, con condiciones de acceso y uso público.
 
-47) Porción de agua: Espacio de mar, río o lago, destinado a mantener cualquier elemento flotante comprendido desde la línea de más baja marea, aguas adentro, en el mar, y desde la línea de aguas mínimas en sus bajas normales, aguas adentro, en río o lagos.
+47) Rejera: Cadena o cable fondeado con anclas o muertos, o amarrada a un punto firme de la costa o ribera, muelle o molo, y que tiene por objeto acoderar o amarrar las naves.
 
-48) Puerto, terminal marítimo o recinto portuario: Es un área litoral delimitada por condiciones físicas o artifi ales que permite la instalación de infraestructura destinada a la entrada, salida, atraque, desatraque, amarre, desamarre y permanencia de naves, y a la realización de operaciones de movilización y almacenamiento de carga, a la prestación de servicios a las naves, cargas, pasajeros o tripulantes, actividades pesqueras, de transporte marítimo, deportes náuticos, turismo, remolque y construcción o reparación de naves.
+48) Rompeolas: Muro o terraplén que, internándose desde la costa o ribera aguas adentro, sirve exclusivamente para la defensa o abrigo de cierto espacio de agua.
 
-49) Rampa: Plano inclinado construido desde tierra hacia el fondo de mar, río o lago, destinado a varar naves y artefactos navales, y que sirve para la movilización de carga y/o pasajeros hacia o desde tierra.
+49) S.H.O.A.: Servicio Hidrográfico y Oceanográfico de la Armada.
 
-50) Rampa de conectividad: Rampa diseñada y construida para la atención de servicios de conectividad, con condiciones de acceso y uso público.
+50) S.I.A.B.C.: Sistema Integrado de Administración del Borde Costero. Sistema informático cuyo propósito es permitir el seguimiento de las etapas del proceso de los diferentes trámites que se relacionan con las concesiones marítimas, a través de internet, manteniendo en una base de datos los antecedentes que conforman el expediente de una solicitud de concesión.
 
-51) Rejera: Cadena o cable fondeado con anclas o muertos, o amarrada a un punto firme de la costa o ribera, muelle o molo, y que tiene por objeto acoderar o amarrar las naves.
+51) Subsecretaría: Subsecretaría para las Fuerzas Armadas.
 
-52) Rompeolas: Muro o terraplén que, internándose desde la costa o ribera aguas adentro, sirve exclusivamente para la defensa o abrigo de cierto espacio de agua.
+52) Terminal marítimo de transferencia de productos líquidos o gaseosos: Fondeadero para naves estanques, que cuenta con instalaciones apropiadas consistentes en cañerías conductoras destinadas a la carga o descarga de productos líquidos o gaseosos.
 
-53) S.H.O.A.: Servicio Hidrográfico y Oceanográfico de la Armada.
-
-54) S.I.A.B.C.: Sistema Integrado de Administración del Borde Costero. Sistema informático cuyo propósito es permitir el seguimiento de las etapas del proceso de los diferentes trámites que se relacionan con las concesiones marítimas, a través de internet, manteniendo en una base de datos los antecedentes que conforman el expediente de una solicitud de concesión.
-
-55) Subsecretaría: Subsecretaría para las Fuerzas Armadas.
-
-56) Terminal marítimo de transferencia de productos líquidos o gaseosos: Fondeadero para naves estanques, que cuenta con instalaciones apropiadas consistentes en cañerías conductoras destinadas a la carga o descarga de productos líquidos o gaseosos.
-
-57) Terreno de playa: Faja de terreno de propiedad del Fisco sometida al control, fiscalización y supervigilancia del Ministerio, de hasta 80 metros de ancho, medida desde la línea de la playa de la costa del litoral y desde la ribera en los ríos o lagos. Para los efectos de determinar la medida señalada, no se considerarán los rellenos artificiales hechos sobre la playa o fondos de mar, río o lago.
+53) Terreno de playa: Faja de terreno de propiedad del Fisco sometida al control, fiscalización y supervigilancia del Ministerio, de hasta 80 metros de ancho, medida desde la línea de la playa de la costa del litoral y desde la ribera en los ríos o lagos. Para los efectos de determinar la medida señalada, no se considerarán los rellenos artificiales hechos sobre la playa o fondos de mar, río o lago.
 
 No perderá su condición de terreno de playa el sector que quede separado por la construcción de caminos, calles, plazas u otros similares. En aquellos títulos de dominio particular que señalan como deslinde el mar, el Océano Pacífico, la marina, la playa, el puerto, la bahía, el río, el lago, la ribera, la costa u otros análogos, debe entenderse que este deslinde se refiere a la línea de la playa.
 
-58) Terreno de playa artifi ial: Faja de terreno de propiedad del Fisco sometida al control, fiscalización y supervigilancia del Ministerio, medida desde la línea de playa hasta la línea de relleno.
+54) Terreno de playa artifi ial: Faja de terreno de propiedad del Fisco sometida al control, fiscalización y supervigilancia del Ministerio, medida desde la línea de playa hasta la línea de relleno.
 
-59) Varadero: Sitio con construcciones o instalaciones apropiadas y características, o sin ellas, destinado a varar naves para ser resguardadas, reparadas o carenadas.
+55) Varadero: Sitio con construcciones o instalaciones apropiadas y características, o sin ellas, destinado a varar naves para ser resguardadas, reparadas o carenadas.
 
-60) Zonificación: Proceso de ordenamiento y planeamiento de los espacios que conforman el borde costero marino, lacustre y fluvial, que tiene por objeto establecer sus múltiples usos, expresados en usos preferentes o excluyentes, graficados de acuerdo a los instructivos dictados por el Ministerio que identifiquen, entre otros aspectos, los límites de extensión, usos y las condiciones y restricciones para su administración, de acuerdo a los criterios de compatibilidad, conforme a los objetivos establecidos en el DS Nº 475 de 1994, del Ministerio de Defensa Nacional, que establece la Política Nacional de Uso del Borde Costero del Litoral de la República. Como resultado del proceso de zonificación, se podrán establecer áreas con usos preferentes que excluyan otros usos incompatibles.
-
-> **Nota.** El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que las normas de los nuevos numerales 18, 20, 21 y 22 del presente artículo, entrarán en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
+56) Zonificación: Proceso de ordenamiento y planeamiento de los espacios que conforman el borde costero marino, lacustre y fluvial, que tiene por objeto establecer sus múltiples usos, expresados en usos preferentes o excluyentes, graficados de acuerdo a los instructivos dictados por el Ministerio que identifiquen, entre otros aspectos, los límites de extensión, usos y las condiciones y restricciones para su administración, de acuerdo a los criterios de compatibilidad, conforme a los objetivos establecidos en el DS Nº 475 de 1994, del Ministerio de Defensa Nacional, que establece la Política Nacional de Uso del Borde Costero del Litoral de la República. Como resultado del proceso de zonificación, se podrán establecer áreas con usos preferentes que excluyan otros usos incompatibles.
 
 ## Título II
 
@@ -504,31 +494,7 @@ Reglas comunes de ordenación del procedimiento
 
 #### Artículo 24
 
-Procedimiento Administrativo Electrónico. Los procedimientos administrativos de solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas mayores, menores y destinaciones así como todos los demás procedimientos regulados en este reglamento, constarán por escrito en documentos electrónicos o digitalizados, a menos que su naturaleza exija otra forma de expresión y constancia o que se configure alguna excepción establecida por la ley o el presente cuerpo reglamentario.
-
-Todas las actuaciones del procedimiento administrativo se registrarán y conservarán, íntegramente y en orden sucesivo, en los respectivos expedientes electrónicos, los que se formarán con los escritos, documentos, resoluciones, decretos y actuaciones, de toda especie, que se presenten o verifiquen en el procedimiento. Ninguna parte o pieza del expediente electrónico podrá ser alterada o eliminada.
-
-Los funcionarios de la Administración del Estado que intervengan en la tramitación de los procedimientos a los que se refiere el presente artículo deberán utilizar la respectiva plataforma electrónica y registrar, íntegra y fielmente en ella, todas las gestiones administrativas de iniciación, instrucción y finalización del procedimiento.
-
-Se prohíbe el tratamiento masivo de datos personales contenidos en el sistema de tramitación electrónica de concesiones marítimas. La infracción a lo dispuesto en este inciso será sancionada de conformidad a lo establecido en la ley Nº 19.628.
-
-Quedarán exceptuados de la tramitación administrativa electrónica establecida en el presente artículo, únicamente los procedimientos regulados en los artículos 33 a 43, del título IV, y el artículo 79, de este reglamento, que establecen normas sobre la tramitación de las solicitudes de permisos, autorizaciones y destinaciones con fines estratégicos.
-
-> **Nota.** NOTA 2 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que el presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
-
-#### Artículo 24 bis
-
-Uso de la plataforma electrónica. La presentación de todos los formularios, solicitudes y documentos relativos a los procedimientos administrativos señalados en el artículo precedente, se hará por vía electrónica a través de la plataforma de tramitación electrónica del Ministerio.
-
-Los documentos electrónicos presentados por los interesados deberán cumplir con lo establecido en la ley Nº 19.799 sobre documentos electrónicos, firma electrónica y servicios de identificación de dicha firma.
-
-Los documentos que presenten los interesados, cuyo formato original no sea electrónico, deberán incorporarse al expediente electrónico mediante copias digitalizadas ingresadas directamente en la plataforma.
-
-La autenticidad y conformidad de los documentos originales y sus copias digitalizadas presentadas según lo indicado en el inciso precedente, se comprobará de acuerdo al procedimiento establecido en las normas legales y reglamentarias pertinentes. Toda vulneración a la autenticidad y conformidad de las copias digitalizadas respecto a los documentos originales en papel, dará lugar a las responsabilidades y sanciones establecidas en el ordenamiento jurídico.
-
-Sin perjuicio de lo establecido en los incisos precedentes, las personas que no puedan utilizar las plataformas informáticas o no dispongan de los medios electrónicos indispensables para su uso, podrán efectuar las presentaciones dentro del procedimiento administrativo en papel. En ese caso, corresponderá al funcionario que reciba dichas presentaciones, la obligación de digitalizar y agregar, inmediatamente, al respectivo expediente electrónico los documentos recibidos, así como de conservar, custodiar y remitir a la Subsecretaría los instrumentos originales.
-
-> **Nota.** NOTA 3 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que el presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
+Cómputo de plazos. Los plazos de días establecidos en el presente Reglamento serán de días hábiles, en los términos previstos en el artículo 25 de la Ley Nº 19.880.
 
 #### Artículo 25
 
@@ -558,29 +524,15 @@ Gratuidad del procedimiento. Todos los procedimientos de concesión marítima so
 
 Capacidad de actuación y representación en el procedimiento. Cualquier persona tendrá capacidad para actuar en los procedimientos regulados por el presente Reglamento en los términos dispuestos por el artículo 20 de la Ley Nº 19.880, sin necesidad de contar con patrocinio de abogado ni de entidad alguna.
 
-Asimismo, el interesado podrá actuar por medio de apoderado, confiriéndole poder a cualquier persona mediante escritura pública o documento privado suscrito ante notario o mediante firma electrónica avanzada.
-
-Las presentaciones efectuadas a través de la plataforma electrónica destinada al efecto, se entenderán suscritas por el usuario que las remite, sin necesidad de contener su firma manuscrita, sirviendo la Clave Única del Estado como firma electrónica simple.
-
-> **Nota.** NOTA 4 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que el inciso segundo y tercero del presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
+Asimismo, el interesado podrá actuar por medio de apoderado, confiriéndole poder a cualquier persona mediante escritura pública o documento privado suscrito ante notario.
 
 #### Artículo 29
 
-Domicilio y dirección de correo electrónico. En su primera presentación los interesados deberán designar un domicilio y una dirección de correo electrónico, bajo su responsabilidad, para efectos de la notificación de los actos que se dicten en los procedimientos regulados en el presente reglamento.
-
-Los interesados deberán informar al Ministerio, a través de la plataforma electrónica, o por escrito, ante la Capitanía de Puerto respectiva o el Ministerio, tratándose de las personas a las que se refiere el inciso final del artículo 44, si se produce algún cambio en el domicilio o en la dirección de correo electrónico designados en su primera presentación. En caso contrario, éstos se considerarán subsistentes para todos los efectos legales.
-
-> **Nota.** NOTA 5 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que el presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
+Cambio de domicilio. El interesado deberá informar por escrito a la Capitanía de Puerto y al Ministerio si se produce algún cambio en el domicilio designado en la solicitud. En caso contrario, este se considerará subsistente para todos los efectos legales.
 
 #### Artículo 30
 
-Notificación electrónica, La notificación de las providencias de mero trámite, informes, dictámenes y otros actos similares, que se pronuncien en los procedimientos señalados en el artículo 24, será electrónica y se efectuará mediante correo dirigido a la dirección de correo electrónico designado por el interesado al efecto, que contendrá el texto íntegro de dichas actuaciones.
-
-Las notificaciones electrónicas se entenderán practicadas a contar del día siguiente al de su expedición.
-
-Sin perjuicio de lo anterior, las decisiones definitivas del procedimiento, así como las que resuelven recursos administrativos, se notificarán personalmente o por carta certificada, sin perjuicio de lo establecido en el artículo 47 de la ley Nº 19.880.
-
-> **Nota.** NOTA 6 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que el presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
+Notificación electrónica. El interesado podrá expresar en cualquier momento, en un escrito dirigido a la Subsecretaría, su voluntad de ser notificado mediante comunicación electrónica de las actuaciones y resoluciones del procedimiento administrativo de solicitud de concesión marítima, indicando para ello, bajo su responsabilidad, una dirección de correo electrónico habilitada. En este supuesto, se entenderá notificado a partir del día siguiente al envío del correo electrónico. Sin perjuicio de lo anterior, el acto terminal del procedimiento así como los que resuelven recursos administrativos, solo se notificarán personalmente o por carta certificada.
 
 #### Artículo 31
 
@@ -704,25 +656,17 @@ Inicio del procedimiento
 
 #### Artículo 44
 
-Inicio del procedimiento. Las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas mayores, menores y destinaciones deberán ser presentadas por los interesados a través de la plataforma electrónica habilitada para tales efectos, adjuntando los antecedentes establecidos en los artículos 49, 50, 51, 52 o 53 del presente Reglamento, según corresponda al tipo de solicitud.
+Inicio del procedimiento. La solicitud de concesión mayor o menor o destinación marítima deberá ser presentada por el interesado en la Capitanía de Puerto correspondiente al lugar solicitado, en un expediente en dos ejemplares, con los antecedentes establecidos en los artículos 49, 50, 51, 52 o 53 del presente Reglamento, según corresponda al tipo de solicitud.
 
-Se considerará como fecha de inicio del procedimiento, aquélla consignada en el certificado de recepción de antecedentes, el que será emitido por la plataforma antes señalada.
-
-El acceso a la plataforma será por medio de la Clave Única del Estado. La información necesaria para obtener y utilizar la Clave Única del Estado se encontrará disponible en el sitio web del Ministerio.
-
-Las personas que no puedan acceder a la plataforma del Ministerio o no dispongan de los medios electrónicos indispensables para su uso, podrán presentar las solicitudes señaladas en el inciso primero de este artículo, ante la Capitanía de Puerto correspondiente al lugar en que se encuentren los bienes nacionales pedidos en concesión. En ese caso, corresponderá a la Autoridad Marítima la obligación de digitalizar y agregar, inmediatamente, al respectivo expediente electrónico, los documentos recibidos, así como su remisión a la Subsecretaría, certificando la recepción de los mismos.
-
-> **Nota.** NOTA 7 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que el presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
+Se considerará como fecha de inicio de la tramitación aquella que se estampe en el certificado de recepción del expediente que será entregado al momento de presentación del mismo ante la Capitanía de Puerto, sin perjuicio de lo que se resuelva respecto de su admisibilidad. En dicho certificado, deberá señalarse la fecha y hora de ingreso del expediente.
 
 #### Artículo 45
 
-Examen de admisibilidad. Una vez presentada la solicitud a través de la plataforma electrónica habilitada para tales efectos, la Subsecretaría verificará, en un plazo no superior a 20 días, que la solicitud reúna los requisitos previstos por el artículo 30 de la ley Nº 19.880; que se hayan acompañado todos los antecedentes reglamentarios; que los planos estén confeccionados de acuerdo con las normas técnicas y con las instrucciones que al efecto imparta la Dirección; y que exista correspondencia entre la solicitud, los antecedentes presentados y los respectivos planos.
+Examen de admisibilidad. Una vez presentado el expediente, el Capitán de Puerto lo ingresará al S.I.A.B.C. y verificará en coordinación con la Subsecretaría, en un plazo no superior a 20 días, que la solicitud reúna los requisitos previstos por el artículo 30 de la ley Nº 19.880; que se hayan acompañado todos los antecedentes reglamentarios; que los planos estén confeccionados de acuerdo con las normas técnicas y con las instrucciones que al efecto imparta la Dirección; y que exista correspondencia entre la solicitud, los antecedentes presentados y los respectivos planos.
 
 En el caso de la solicitud de renovación, se revisará, además, que esta corresponda a la concesión que se solicita renovar y que se encuentre al día en el pago de renta y/o tarifa.
 
-Si la solicitud cumple con lo señalado en los incisos precedentes, se declarará admisible.
-
-> **Nota.** NOTA 8 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que los incisos primero y tercero del presente artículo, entrarán en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
+Si la solicitud cumple con lo señalado en los incisos precedentes, el Capitán de Puerto la declarará admisible, devolviendo al interesado un ejemplar del expediente debidamente visado, fechado y con indicación del número de trámite.
 
 #### Artículo 46
 
@@ -730,19 +674,17 @@ Corrección de antecedentes. Si la solicitud no reúne los requisitos señalados
 
 #### Artículo 47
 
-Suprimido.
-
-> **Nota.** NOTA 9 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece sobre lo dispuesto para el presente artículo, que entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
+Remisión del expediente a la Subsecretaría. Admitida a trámite la solicitud, la Autoridad Marítima remitirá a la Subsecretaría el expediente y la publicación del extracto cuando corresponda, luego de elaborado el informe a que se refiere el artículo 56.
 
 #### Artículo 48
 
 Complementación o aclaración de antecedentes. Si, declarada admisible la solicitud y luego de recibido el expediente en la Subsecretaría, se advierte que algún antecedente reglamentario se encuentra incompleto o incorrecto, se concederá al interesado un plazo para subsanarlo.
 
+El solicitante deberá efectuar lo anterior mediante carta complementaria dirigida a la Subsecretaría, en el plazo que se fije al efecto. Sin embargo, si la complementación o aclaración de antecedentes implica la presentación de un nuevo plano, este deberá ser visado en la Capitanía de Puerto.
+
 El interesado podrá solicitar a la Subsecretaría la ampliación del plazo antes de su vencimiento por motivo fundado, acompañando los antecedentes que la justifiquen.
 
 En el caso de que el interesado no subsane las observaciones formuladas por la Subsecretaría dentro del plazo fijado al efecto, podrá denegarse su solicitud o declararse el abandono del procedimiento, según lo dispuesto en la Ley Nº 19.880.
-
-> **Nota.** NOTA 10 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que el presente artículo, en cuanto a su inciso suprimido, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
 
 ### Párrafo 2º
 
@@ -752,7 +694,7 @@ Requisitos de la solicitud
 
 Requisitos de la solicitud de otorgamiento y de modificación sustancial de concesión marítima mayor. El expediente de solicitud de otorgamiento de concesión marítima mayor deberá contener los siguientes documentos:
 
-a) Formulario de solicitud dirigida al Ministerio, disponible en la plataforma electrónica respectiva, en el cual se indique, en forma, precisa lo siguiente:
+a) Formulario de solicitud dirigido al Ministerio, de acuerdo a formato obtenido del S.I.A.B.C. o de la plataforma electrónica respectiva que también se encontrará disponible en las Capitanías de Puerto, en el cual se indique en forma precisa lo siguiente:
 
 i) Nombre completo o razón social del solicitante, nacionalidad, domicilio, profesión u oficio y rol único tributario o nacional. En el caso de las personas jurídicas deberá indicarse, además, el nombre completo, nacionalidad, profesión u oficio, domicilio y rol único nacional de quien actúe en su representación.
 
@@ -774,7 +716,7 @@ Cuando el objeto de la concesión conlleve el desarrollo de actividades gravadas
 
 vi) Si la concesión se solicita a título oneroso o gratuito. En este último caso, deberá acreditar el cumplimiento de los requisitos previstos en el artículo 134. Si el peticionario estuviere exento total o parcialmente del pago de rentas y/o tarifas por concesiones marítimas o goza de franquicias tributarias, deberá indicarlo en su solicitud, acompañando la documentación que así lo acredite;
 
-b) Plano en soporte digital en el formato que determine la Dirección, coincidente con la solicitud presentada, de acuerdo a las instrucciones que para tal efecto imparta la Dirección, con la representación del área solicitada, individualizando cada sector según su objeto y sus tramos según su naturaleza, de acuerdo con lo indicado en el punto iv) de la letra a) precedente.
+b) Plano en papel y en soporte digital en el formato que determine la Dirección, coincidente con la solicitud presentada, de acuerdo a las instrucciones que para tal efecto imparta la Dirección, con la representación del área solicitada, individualizando cada sector según su objeto y sus tramos según su naturaleza, de acuerdo con lo indicado en el punto iv) de la letra a) precedente.
 
 Se deberá ilustrar en el plano la línea de playa oficial y la línea del límite del terreno de playa, ambas aprobadas por resolución de la Dirección, así como la línea de más baja marea y la línea de relleno, según corresponda.
 
@@ -802,15 +744,19 @@ j) Autorización de la Subsecretaría de Pesca y Acuicultura si la solicitud tie
 
 k) En el caso que se pretenda desarrollar obras, deberá acompañarse un anteproyecto indicando los plazos en que se ejecutarán y el capital que se invertirá y señalando en forma separada el presupuesto de la construcción de aquellas;
 
-l) Las solicitudes de organizaciones de pescadores artesanales legalmente constituidas, que tengan por objeto amparar actividades propias de la pesca artesanal, deberán acompañar un Programa de Gestión, aprobado por el Servicio Nacional de Pesca y Acuicultura; y,
+l) Las solicitudes de organizaciones de pescadores artesanales legalmente constituidas, que tengan por objeto amparar actividades propias de la pesca artesanal, deberán acompañar un Programa de Gestión, aprobado por el Servicio Nacional de Pesca y Acuicultura;
 
-m) Las solicitudes de organizaciones de pescadores artesanales legalmente constituidas, sobre infraestructura portuaria fiscal de apoyo a la pesca artesanal, deberán acompañar un Programa de Mantenimiento y Conservación de las Obras Portuarias, establecido por la Dirección de Obras Portuarias del Ministerio de Obras Públicas y el Programa de Administración de las obras solicitadas en concesión, aprobado por el Servicio Nacional de Pesca y Acuicultura.
+m) Las solicitudes de organizaciones de pescadores artesanales legalmente constituidas, sobre infraestructura portuaria fiscal de apoyo a la pesca artesanal, deberán acompañar un Programa de Mantenimiento y Conservación de las Obras Portuarias, establecido por la Dirección de Obras Portuarias del Ministerio de Obras Públicas y el Programa de Administración de las obras solicitadas en concesión, aprobado por el Servicio Nacional de Pesca y Acuicultura; y,
+
+n) Extracto de la solicitud con las menciones indicadas en el artículo 66, para su visación por parte de la Capitanía de Puerto.
+
+> **Nota.** NOTA 11 Las modificaciones dispuestas por los numerales 4), 5) de XXI del decreto N° 183, Defensa, publicado el 04.03.2020, a las letras l y m del presente artículo se encuentran incorporadas en su versión del 01.06.2020.
 
 #### Artículo 50
 
 Requisitos de la solicitud de otorgamiento y de modificación sustancial de concesión marítima menor o destinación. El expediente de solicitud de concesión marítima menor o destinación, en lo que le sea aplicable, deberá contener los siguientes documentos:
 
-a) Formulario de solicitud dirigida al Ministerio, disponible en la plataforma electrónica respectiva, en el cual se indique en forma precisa lo siguiente:
+a) Formulario de solicitud dirigido al Ministerio, de acuerdo a formato obtenido del S.I.A.B.C. o de la plataforma electrónica respectiva que también se encontrará disponible en las Capitanías de Puerto, en el cual se indique en forma precisa lo siguiente:
 
 i) Nombre completo o razón social del solicitante, nacionalidad, domicilio, profesión u oficio y rol único tributario o nacional. En el caso de las personas jurídicas deberá indicarse, además, el nombre completo, nacionalidad, profesión u oficio, domicilio y rol único nacional de quien actúe en su representación.
 
@@ -832,7 +778,7 @@ Cuando el objeto de la concesión conlleve el desarrollo de actividades gravadas
 
 vi) Si la concesión se solicita a título oneroso o gratuito. En este último caso, deberá acreditar el cumplimiento de los requisitos previstos en el artículo 134 del presente Reglamento. Si el peticionario estuviere exento total o parcialmente del pago de rentas y/o tarifas por concesiones marítimas o goza de franquicias tributarias, deberá indicarlo en su solicitud, acompañando la documentación que así lo acredite.
 
-b) Plano en soporte digital en el formato que determine la Dirección, coincidente con la solicitud presentada, de acuerdo a las instrucciones que para tal efecto imparta la Dirección, con la representación del área solicitada, individualizando cada sector según su objeto y sus tramos según su naturaleza, de acuerdo con lo indicado en el punto iv) de la letra a) precedente.
+b) Plano en papel y en soporte digital en el formato que determine la Dirección, coincidente con la solicitud presentada, de acuerdo a las instrucciones que para tal efecto imparta la Dirección, con la representación del área solicitada, individualizando cada sector según su objeto y sus tramos según su naturaleza, de acuerdo con lo indicado en el punto iv) de la letra a) precedente.
 
 Se deberá ilustrar en el plano la línea de la playa, la línea de más baja marea, la línea de relleno y la línea del límite del terreno de playa, según corresponda.
 
@@ -864,17 +810,21 @@ i) Autorización de la Subsecretaría de Pesca y Acuicultura si la solicitud tie
 
 j) En el caso que se pretenda desarrollar obras, deberá acompañarse un anteproyecto indicando los plazos de ejecución y el capital que se invertirá y señalando en forma separada el presupuesto de la construcción de aquellas;
 
-k) Las solicitudes de organizaciones de pescadores artesanales legalmente constituidas, que tengan por objeto amparar actividades propias de la pesca artesanal, deberán acompañar un Programa de Gestión, aprobado por el Servicio Nacional de Pesca y Acuicultura; y,
+k) Las solicitudes de organizaciones de pescadores artesanales legalmente constituidas, que tengan por objeto amparar actividades propias de la pesca artesanal, deberán acompañar un Programa de Gestión, aprobado por el Servicio Nacional de Pesca y Acuicultura;
 
-l) Las solicitudes de organizaciones de pescadores artesanales legalmente constituidas, sobre infraestructura portuaria fiscal de apoyo a la pesca artesanal, deberán acompañar un Programa de Mantenimiento y Conservación de las Obras Portuarias, establecido por la Dirección de Obras Portuarias del Ministerio de Obras Públicas y el Programa de Administración de las obras solicitadas en concesión, aprobado por el Servicio Nacional de Pesca y Acuicultura.
+l) Las solicitudes de organizaciones de pescadores artesanales legalmente constituidas, sobre infraestructura portuaria fiscal de apoyo a la pesca artesanal, deberán acompañar un Programa de Mantenimiento y Conservación de las Obras Portuarias, establecido por la Dirección de Obras Portuarias del Ministerio de Obras Públicas y el Programa de Administración de las obras solicitadas en concesión, aprobado por el Servicio Nacional de Pesca y Acuicultura; y
+
+m) Extracto de la solicitud con las menciones indicadas en el artículo 66, para su visación por parte de la Capitanía de Puerto.
 
 Tratándose de destinaciones marítimas que el Servicio Nacional de Pesca y Acuicultura solicite de conformidad a lo preceptuado en la Ley Nº 21.027, se prescindirá de los documentos exigidos en las letras j), k) y l) de este artículo.
+
+> **Nota.** NOTA 12 Las modificaciones dispuestas por los numerales 3)y 4) de XXII del decreto N° 183, Defensa, publicado el 04.03.2020, a las letras k) y l) del presente artículo se encuentran incorporadas en su versión del 01.09.2020.
 
 #### Artículo 51
 
 Requisitos de la solicitud de renovación. La solicitud de renovación de una concesión mayor o menor o destinación marítima se presentará con una antelación mínima de 6 meses antes de su vencimiento y con una anticipación no mayor a dos años, tratándose de concesiones mayores, y un año, tratándose de concesiones menores o destinaciones marítimas, acompañando los siguientes antecedentes:
 
-a) Formulario de solicitud dirigida al Ministerio, disponible en la plataforma electrónica respectiva, en el cual se indique en forma precisa el nombre completo o razón social del solicitante, nacionalidad, domicilio, profesión u oficio y rol único tributario o nacional. En el caso de las personas jurídicas deberá indicarse, además, el nombre completo, nacionalidad, profesión u oficio, domicilio y rol único nacional de quien actúe en su representación.
+a) Formulario de solicitud dirigido al Ministerio, de acuerdo a formato obtenido del S.I.A.B.C. o en la plataforma electrónica respectiva que también se encontrará disponible en las Capitanías de Puerto, en el cual se indique en forma precisa el nombre completo o razón social del solicitante, nacionalidad, domicilio, profesión u oficio y rol único tributario o nacional. En el caso de las personas jurídicas deberá indicarse, además, el nombre completo, nacionalidad, profesión u oficio, domicilio y rol único nacional de quien actúe en su representación.
 
 Si el solicitante es persona natural, deberá adjuntar copia de su cédula de identidad vigente. Si es persona jurídica, deberá acompañarse copia del rol único tributario de esta y de la cédula de identidad vigente de quien la represente en la solicitud. Conjuntamente con lo anterior, deberá acreditarse su existencia legal y vigencia, así como la personería vigente de quien o quienes concurren en su representación, documentos que no podrán tener una antigüedad superior a un año contado desde la fecha de presentación de la solicitud.
 
@@ -890,11 +840,9 @@ f) Comprobante de pago de renta y/o tarifa correspondiente al último formulario
 
 g) Informe de la Empresa Portuaria respectiva, tratándose de solicitudes de renovación de concesiones localizadas en recintos que administren las Empresas Portuarias creadas en virtud de la ley Nº 19.542, en conformidad con lo dispuesto por el artículo único transitorio del DFL Nº 1 de 1998, del Ministerio de Transportes y Telecomunicaciones, que adecua disposiciones legales aplicables a las Empresas Portuarias creadas por la ley Nº 19.542.
 
-h) SUPRIMIDA.
+h) Extracto de la solicitud con las menciones indicadas en el artículo 66, para su visación por parte de la Capitanía de Puerto.
 
 i) Certificado emitido por la Secretaría Regional Ministerial de Obras Públicas según lo establecido en los artículos 49, letra h), o 50, letra g), según sea el caso.
-
-> **Nota.** NOTA 12.1 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que la letra a), párrafo primero y letra d) del presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
 
 #### Artículo 52
 
@@ -904,7 +852,7 @@ Requisitos de la solicitud de renovación con modificación. La solicitud de ren
 
 Requisitos de la solicitud de modificación no sustancial. El expediente de solicitud de modificación no sustancial de concesión mayor o menor o destinación marítima deberá contener los siguientes documentos:
 
-a) Formulario de solicitud dirigida al Ministerio, disponible en la plataforma electrónica respectiva, en el cual se indique en forma precisa el nombre completo o razón social del solicitante, nacionalidad, domicilio, profesión u oficio y rol único tributario o nacional. En el caso de las personas jurídicas, deberá indicarse además el nombre, nacionalidad, profesión u oficio, domicilio y rol único nacional de quien actúe en su representación.
+a) Formulario de solicitud dirigido al Ministerio, de acuerdo a formato obtenido del S.I.A.B.C. o en la plataforma electrónica respectiva que también se encontrará disponible en las Capitanías de Puerto, en el cual se indique en forma precisa el nombre completo o razón social del solicitante, nacionalidad, domicilio, profesión u oficio y rol único tributario o nacional. En el caso de las personas jurídicas, deberá indicarse además el nombre, nacionalidad, profesión u oficio, domicilio y rol único nacional de quien actúe en su representación.
 
 Si el solicitante es persona natural, deberá adjuntar copia de su cédula de identidad vigente. Si es persona jurídica, deberá acompañarse copia del RUT de esta y de la cédula de identidad vigente de quien la represente en la solicitud. Conjuntamente con lo anterior, deberá acreditarse su existencia legal y vigencia, así como la personería vigente de quien o quienes concurren en su representación, documentos que no podrán tener una antigüedad superior a seis meses contados desde la fecha de presentación de la solicitud.
 
@@ -912,7 +860,7 @@ b) Indicar el número y fecha del decreto que otorgó la concesión que se solic
 
 c) Comprobante de pago de renta y/o tarifa correspondiente al último formulario de pago emitido.
 
-d) Si la modificación consiste en el cambio del objeto de la concesión, en el sentido de desarrollar una actividad diferente a la autorizada, se deberá cumplir con lo establecido en el artículo 49, letra a), numeral v) o artículo 50, letra a), numeral v) de este Reglamento, según corresponda. Además, será necesario acompañar un certificado de la Dirección de Obras Municipales correspondiente, cuando la solicitud comprenda playa o terreno de playa urbanos, indicando si las actividades que se pretenden ejecutar se ajustan al uso de suelo establecido en el plan regulador vigente, si lo hubiere; cuando se trate de playa o terrenos de playa, terrenos de playa ubicados en sectores rurales, un certificado de la Secretaría Regional Ministerial de Vivienda y Urbanismo, respecto de si las actividades que se pretenden ejecutar se ajustan al uso de suelo.
+d) Si la modificación consiste en el cambio del objeto de la concesión, en el sentido de desarrollar una actividad diferente a la autorizada, se deberá cumplir con lo establecido en el artículo 49, letra a), numeral v) o artículo 50, letra a), numeral v) de este Reglamento, según corresponda. Además, será necesario acompañar un certificado de la Dirección de Obras Municipales correspondiente, cuando la solicitud comprenda playa o terreno de playa urbanos, indicando si las actividades que se pretenden ejecutar se ajustan al uso de suelo establecido en el plan regulador vigente, si lo hubiere; cuando se trate de terrenos de playa ubicados en sectores rurales, un certificado de la Secretaría Regional Ministerial de Vivienda y Urbanismo, respecto de si las actividades que se pretenden ejecutar se ajustan al uso de suelo.
 
 e) Si la modificación tiene por objeto la instalación de centros de acopio dentro de la misma superficie otorgada, deberá presentar la autorización de la Subsecretaría de Pesca y Acuicultura.
 
@@ -927,8 +875,6 @@ La solicitud deberá señalar claramente lo que se pretende modificar y los moti
 Las solicitudes reguladas en el presente artículo podrán ser presentadas hasta 6 meses antes del vencimiento de la concesión, con excepción de aquellas que tengan únicamente como finalidad cambiar la razón social del titular de la concesión, las que podrán ser requeridas en cualquier tiempo.
 
 Sin perjuicio de lo establecido en el inciso anterior, aquellas solicitudes que pretendan modificar el plazo para el cumplimiento de alguna de las obligaciones establecidas en el decreto deberán presentarse, además, antes del vencimiento de dicho plazo, salvo caso fortuito o fuerza mayor, el que deberá ser acreditado.
-
-> **Nota.** NOTA 13 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que la letra a), párrafo primero y letra d) del presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
 
 ### Párrafo 3º
 
@@ -948,19 +894,21 @@ Valor de los informes. El contenido de los informes no tendrá carácter vincula
 
 #### Artículo 56
 
-Conglomerado Informe Técnico. La Dirección, en el plazo de 30 días contados desde que se declare admisible la solicitud, elaborará un informe que considerará, al menos, los siguientes aspectos:
+Conglomerado informe técnico. La Dirección, en el plazo de 45 días desde que se declara admisible la solicitud, elaborará un informe que considerará, al menos, los siguientes aspectos:
 
-a) Sobreposición con concesiones marítimas o con solicitudes en trámite.
+a) Sobreposición con concesiones marítimas u otras afectaciones, o con solicitudes de estas.
 
-b) Potencial afectación a la seguridad de la navegación y de la vida humana en el mar.
+b) Compatibilidad del proyecto de acuerdo con la Zonificación Regional del Borde Costero, si la hubiere.
 
-c) Tratándose de modificación sustancial y no sustancial, transferencia, cesión de uso, arriendo o renovación, si el concesionario ha dado cumplimiento al objeto de la concesión y a las obligaciones establecidas en el decreto, remitiéndose registro gráfico de las obras construidas. En el caso de que existan sectores que no involucren la construcción de obras, se deberá remitir registro gráfico de los mismos, en su caso.
+c) Procedencia de establecer, en el decreto de concesión, el sometimiento a las disposiciones del Reglamento para el Control de la Contaminación Acuática, sin perjuicio de lo establecido en otros cuerpos legales o reglamentarios.
 
-d) La existencia y el período de ocupación irregular y cualquier otra información de terreno que se estime como relevante para mejor resolver.
+d) Potencial afectación a la seguridad de la navegación y de la vida humana en el mar.
 
-La Dirección agregará su informe al respectivo expediente electrónico, a través de la plataforma de tramitación electrónica y, tratándose de transferencias, modificaciones y renovaciones acompañará, además, copia de la notificación del decreto de concesión y del acta de entrega.
+e) Tratándose de modificación sustancial, transferencia, cesión de uso, arriendo o renovación, si el concesionario ha dado cumplimiento al objeto de la concesión y a las obligaciones establecidas en el decreto, remitiéndose registro gráfico de las obras construidas. En caso de que existan sectores que no involucren la construcción de obras, se deberá remitir registro gráfico de los mismos, en su caso.
 
-> **Nota.** NOTA 14 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que el presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
+f) La existencia y el período de ocupación irregular.
+
+La Dirección remitirá su informe a la Subsecretaría a través del S.I.A.B.C. o de la plataforma electrónica respectiva y, tratándose de transferencias, modificaciones y renovaciones, acompañará copia de la notificación del decreto de concesión y del acta de entrega.
 
 #### Artículo 57
 
@@ -1000,13 +948,11 @@ Régimen de publicidad de la solicitud y oposición
 
 #### Artículo 65
 
-Publicidad de la solicitud. La Subsecretaría elaborará un extracto de las solicitudes de otorgamiento, renovación y modificación sustancial de concesiones mayores, menores y destinaciones marítimas, de conformidad a lo establecido en el artículo 66, que se publicará en su sitio web, dentro de los 15 días siguientes a la declaración de admisibilidad.
+Publicidad de la solicitud. El extracto de la solicitud presentado por el interesado, deberá ser visado por la Capitanía de Puerto al momento de admitir la solicitud a tramitación, debiendo ser remitido por la Autoridad Marítima a la Subsecretaría junto con el informe conglomerado dentro del plazo indicado en el artículo 56. La Subsecretaría deberá publicar el extracto en el sitio electrónico que disponga al efecto, dentro de los 15 días siguientes a su recepción.
 
-Tratándose de solicitudes de concesiones marítimas mayores, además, el interesado deberá publicar, a su costa, el extracto en un diario o periódico de circulación regional o local o, en caso de no existir, en un diario o periódico de circulación nacional, dentro del plazo de 45 días contados desde la declaración de admisibilidad.
+Tratándose de solicitudes de concesiones marítimas mayores, además, el interesado deberá publicar, a su costa, el extracto en un diario o periódico de circulación regional o local o, en caso de no existir, en un diario o periódico de circulación nacional, dentro de los 45 días contados desde que se declara admisible a trámite la solicitud.
 
-En el caso de que la publicación a que hace referencia el inciso precedente, no contenga las menciones mínimas establecidas en el artículo 66, se aplicará lo dispuesto en el artículo 31 de la ley Nº 19.880.
-
-> **Nota.** NOTA 15 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que el presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
+En caso de que el extracto no cumpla con los requisitos establecidos en el artículo siguiente, se aplicará lo dispuesto en el artículo 31 de la ley Nº 19.880.
 
 #### Artículo 66
 
@@ -1026,13 +972,13 @@ f) Breve descripción de las obras que se encuentran construidas en el espacio s
 
 g) Indicación de que los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto respectiva;
 
-> **Nota.** NOTA 16 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que lo dispuesto para la letra h) e inciso final suprimidos del presente artículo, entrarán en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
+h) Indicación de haber sido visado el extracto por la Capitanía de Puerto respectiva.
+
+La Subsecretaría instruirá a las Capitanías de Puerto acerca del formato que deberá tener el extracto para efectos de su visación.
 
 #### Artículo 67
 
-Presentación de la publicación del extracto de la solicitud de concesión mayor. El solicitante deberá agregar al expediente electrónico de concesión marítima mayor, copia de la publicación del extracto dentro de los 10 días siguientes a la fecha en que ésta haya tenido lugar. En caso de haberse omitido la publicación o de haberse efectuado ésta de manera extemporánea, se denegará la solicitud.
-
-> **Nota.** NOTA 17 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que el presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
+Presentación de la publicación del extracto de la solicitud de concesión mayor. El solicitante deberá acompañar al expediente de concesión marítima mayor en la Capitanía de Puerto respectiva, copia de la publicación del extracto dentro de los 10 días siguientes a que ella tenga lugar. La Subsecretaría denegará la solicitud en caso de no haberse efectuado la publicación o haberse publicado fuera de plazo.
 
 #### Artículo 68
 
@@ -1042,19 +988,13 @@ Sin perjuicio de lo anterior, el Ministerio podrá denegar una solicitud de conc
 
 Para tal efecto, cualquier interesado en los términos del artículo 21 de la ley Nº 19.880, podrá formular oposición a la solicitud dentro del plazo de 30 días, contado desde la fecha de publicación del extracto a que se refiere el artículo 66. En el caso de las concesiones mayores, el plazo se contará desde la última publicación que se efectúe.
 
-La oposición deberá cumplir los requisitos establecidos en el artículo 30 de la ley Nº 19.880, estar dirigida al Ministerio y presentarse a través de la plataforma electrónica respectiva, acompañando antecedentes que fundamenten la existencia del derecho o interés legítimo invocado y el perjuicio alegado.
-
-No obstante lo preceptuado en el inciso precedente, tratándose de las personas señaladas en el inciso final del artículo 44, el escrito de oposición podrá ser presentado, excepcionalmente, en formato de papel, directamente en la Subsecretaría o en la Capitanía de Puerto correspondiente. En este último caso, la Autoridad Marítima deberá digitalizar los documentos y agregarlos al respectivo expediente electrónico, de manera inmediata, dando aviso de ese hecho a la Subsecretaría y remitiéndole los antecedentes originales en el plazo máximo de 72 horas. Las oposiciones incoadas en la forma señalada, se entenderán presentadas en la fecha de su recepción en la Capitanía de Puerto respectiva.
+La oposición deberá cumplir los requisitos establecidos en el artículo 30 de la ley Nº 19.880 y estar dirigida a la Subsecretaría, pudiendo ser presentada tanto en las dependencias de esta como en la Capitanía de Puerto correspondiente, la que deberá informar de ella a la Subsecretaría dentro de las 72 horas siguientes a su recepción y remitirla en el más breve plazo posible. En este caso, la oposición se entenderá presentada en la fecha de su recepción en la Capitanía de Puerto respectiva. Asimismo, deberá estar acompañada de antecedentes que fundamenten el derecho o interés legítimo del oponente y el perjuicio invocado.
 
 Las oposiciones presentadas de forma extemporánea o que adolezcan de manifiesta falta de fundamento o no estén acompañadas de los antecedentes que la sustenten, serán declaradas inadmisibles.
 
-> **Nota.** NOTA 18 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que los incisos cuarto y quinto nuevos del presente artículo, entrarán en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
-
 #### Artículo 69
 
-Traslado de la oposición. Deducida la oposición, la Subsecretaría notificará al solicitante con el objeto de hacerle presente que cuenta con el plazo de 20 días contados desde la notificación para formular sus alegaciones respecto de la oposición o, si lo estima conveniente a sus intereses, intentar un acuerdo con el oponente, término en que se suspenderá la tramitación de la solicitud. En el evento de alcanzar un acuerdo, este deberá constar en escritura pública o instrumento autorizado ante notario y deberá ser agregado al respectivo expediente electrónico a través de la plataforma electrónica dentro del plazo antes indicado.
-
-> **Nota.** NOTA 19 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que el presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
+Traslado de la oposición. Deducida la oposición, la Subsecretaría notificará al solicitante con el objeto de hacerle presente que cuenta con el plazo de 20 días contados desde la notificación para formular sus alegaciones respecto de la oposición o, si lo estima conveniente a sus intereses, intentar un acuerdo con el oponente, término en que se suspenderá la tramitación de la solicitud. En el evento de alcanzar un acuerdo, este deberá constar en escritura pública o instrumento autorizado ante notario y deberá ser remitido por el solicitante a la Capitanía de Puerto respectiva dentro del plazo antes indicado.
 
 #### Artículo 70
 
@@ -1128,13 +1068,11 @@ Ejecución de rellenos en el sector concesionado o destinado. La ejecución de r
 
 Ejecución de obras o actividades. Los concesionarios deberán iniciar las obras comprendidas en la concesión o la actividad objeto de esta, según corresponda, dentro de los 60 días siguientes a la fecha de suscripción del acta de entrega o en el plazo que por motivo fundado, señale el acto administrativo que la otorgó. Las construcciones o instalaciones deberán quedar terminadas en el plazo que indique el decreto respectivo.
 
-Sin perjuicio de lo anterior, el Ministerio podrá, por motivos fundados, ampliar el plazo para el inicio y/o término de las obras cuando fuese solicitado antes del vencimiento del plazo original, a través de una solicitud de modificación del decreto de concesión que deberá ser presentada en la plataforma electrónica respectiva. A la solicitud respectiva deberán acompañarse los antecedentes y documentos que justifiquen la ampliación del plazo y acreditar que se encuentra al día en los pagos de las rentas y/o tarifas correspondientes.
+Sin perjuicio de lo anterior, el Ministerio podrá, por motivos fundados, ampliar el plazo para el inicio y/o término de las obras cuando fuese solicitado antes del vencimiento del plazo original, a través de una solicitud de modificación del decreto de concesión presentada en la Capitanía de Puerto que corresponda. A la solicitud respectiva deberán acompañarse los antecedentes y documentos que justifiquen la ampliación del plazo y acreditar que se encuentra al día en los pagos de las rentas y/o tarifas correspondientes.
 
 Entre dichos antecedentes deberá considerarse un cronograma que detalle una proyección de los plazos, a partir de la resolución de la solicitud, dentro de los cuales se desarrollarán las obras y actividades contempladas en el objeto de la concesión. La Autoridad Marítima deberá incorporar al expediente una copia de la carta de notificación del decreto y del acta de entrega de la concesión.
 
 El Ministerio resolverá la solicitud de ampliación de plazo con el mérito de los antecedentes presentados, sin perjuicio de solicitar los informes que estime pertinentes para emitir su pronunciamiento. En casos calificados en que se acredite la ocurrencia de caso fortuito o fuerza mayor, el Ministerio podrá otorgar un nuevo plazo para el inicio y/o término de obras o actividades cuando sean solicitados luego de su vencimiento.
-
-> **Nota.** NOTA 20 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que el inciso segundo del presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
 
 #### Artículo 82
 
@@ -1256,11 +1194,9 @@ c) Que la transferencia se solicite, a lo menos, 12 meses antes del vencimiento 
 
 #### Artículo 95
 
-Tramitación de la solicitud de autorización de transferencia. La solicitud de transferencia de una concesión marítima se presentará a través de la plataforma electrónica mediante el respectivo formulario que deberá ser suscrito por el concesionario y el interesado, manifestando su voluntad de transferir y adquirir la concesión, respectivamente, individualizados ambos en la forma señalada en la letra a), numeral i), del artículo 49.
+Tramitación de la solicitud de autorización de transferencia. La solicitud de transferencia de una concesión marítima se presentará ante la Capitanía de Puerto dirigida al Ministerio, de acuerdo a formulario obtenido del S.I.A.B.C. o de la plataforma electrónica respectiva que también se encontrará disponible en las Capitanías de Puerto, mediante una presentación conjunta que debe ser firmada por el concesionario y el interesado en orden a transferir y adquirir la concesión, respectivamente, individualizados ambos en la forma señalada en la letra a), numeral i), del artículo 49.
 
 Para estos efectos, se deberá acompañar copia del contrato correspondiente, otorgado por escritura pública o autorizado ante notario, en el cual se deberá indicar que el mismo está sujeto a la condición suspensiva de que la transferencia sea autorizada por el Ministerio.
-
-> **Nota.** NOTA 21 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que el inciso primero del presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
 
 #### Artículo 96
 
@@ -1292,11 +1228,9 @@ c) Que la autorización se solicite, a lo menos, 12 meses antes del vencimiento 
 
 #### Artículo 99
 
-Tramitación de la solicitud de arrendamiento o cesión de uso. Los concesionarios que deseen arrendar o ceder el uso de todo o parte de una concesión marítima mayor o menor, deberán presentar dicha petición a través de la plataforma electrónica, solicitando autorización para celebrar el contrato respectivo e indicando el plazo por el que se pretende arrendar o ceder el uso de la concesión. En ella, los peticionarios deberán individualizarse en la forma señalada en la letra a), numeral i), del artículo 49.
+Tramitación de la solicitud de arrendamiento o cesión de uso. Los concesionarios que deseen arrendar o ceder el uso de todo o parte de una concesión marítima mayor o menor, lo manifestarán por escrito a la Capitanía de Puerto, mediante una solicitud conjunta del concesionario y del interesado dirigida al Ministerio, de acuerdo a formulario obtenido del S.I.A.B.C. o de la plataforma electrónica respectiva que también se encontrará disponible en las Capitanías de Puerto, requiriendo autorización para celebrar el contrato respectivo e indicando el plazo por el que se pretende arrendar o ceder el uso de la concesión. En ella, los peticionarios deberán individualizarse en la forma señalada en la letra a), numeral i), del artículo 49.
 
 En el caso de las concesiones marítimas solicitadas para desarrollar proyectos o actividades que por su naturaleza involucren el arrendamiento o cesión de uso de sus espacios o construcciones, la solicitud de autorización de arrendamiento o cesión de uso podrá ser efectuada solo por el requirente, sin necesidad de individualizar al potencial arrendatario o cesionario de uso.
-
-> **Nota.** NOTA 22 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que el inciso primero del presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
 
 #### Artículo 100
 
@@ -1334,9 +1268,7 @@ Los Capitanes de Puerto y el personal bajo sus órdenes, en el desempeño de sus
 
 Iniciación por denuncia. Cualquier persona podrá denunciar las infracciones o incumplimientos a las obligaciones cometidos por los concesionarios ante la Capitanía de Puerto.
 
-La denuncia deberá formularse a través de la plataforma electrónica respectiva, individualizando al denunciante, la fecha y lugar de presentación, y contener una descripción de los hechos concretos que se estiman constitutivos de infracción o incumplimiento y, de ser posible, identificar al presunto infractor, la fecha y lugar de comisión.
-
-> **Nota.** NOTA 23 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que el inciso segundo del presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
+La denuncia deberá formularse por escrito, individualizar al denunciante, señalar la fecha y lugar de presentación, y contener una descripción de los hechos concretos que se estiman constitutivos de infracción o incumplimiento y, de ser posible, identificar al presunto infractor, la fecha y lugar de comisión.
 
 ### Párrafo 2º
 
@@ -1360,15 +1292,11 @@ Tratándose de los permisos o autorizaciones, la caducidad se dispondrá por res
 
 #### Artículo 107
 
-Instrucción del procedimiento. Corresponderá a las Capitanías de Puerto incoar los procedimientos de caducidad, agregando al respectivo expediente electrónico todos los antecedentes que motivan la instrucción del trámite, las actuaciones efectuadas por la Autoridad, así como un informe en que se contengan los elementos de mérito relevantes para resolver. Asimismo, se deberá agregar al expediente electrónico un escrito de requerimiento o formulación de cargos en contra del concesionario, en el que se expondrá, de manera clara y precisa, los hechos y las disposiciones legales y/o reglamentarias y/o del decreto o resolución que se estiman infringidas. En especial, la Dirección deberá fundamentar los motivos por los que el incumplimiento o la infracción pueden ser calificados como graves, de conformidad a lo establecido en el artículo 7º de la Ley de Concesiones Marítimas. Del mismo modo, deberá agregarse al expediente electrónico, copia del decreto de concesión, su renovación y modificaciones, si las hubiere, la constancia de notificación y el acta de entrega. Los antecedentes mencionados podrán consistir en documentos, actas de inspección, fotografías, imágenes satelitales o cualquier otro medio apto para producir fe, así como las notificaciones efectuadas al concesionario.
-
-> **Nota.** NOTA 24 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que el presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
+Remisión de antecedentes. Junto con iniciar el trámite de caducidad, la Capitanía de Puerto remitirá a la Subsecretaría el expediente que contendrá todos los antecedentes que den cuenta de los hechos que motivan el inicio del trámite, las gestiones adoptadas y un informe que detalle los aspectos y circunstancias relevantes para resolver el procedimiento. Asimismo, deberá acompañar el requerimiento o formulación de cargos al interesado, que identificará de manera clara y precisa los hechos y las disposiciones legales y/o reglamentarias y/o del decreto o resolución que se consideren infringidas, así como los elementos que den cuenta de su comisión. En especial, la Dirección deberá fundamentar los motivos por los que el incumplimiento o la infracción fueron calificados como graves, en atención a lo dispuesto en el inciso segundo del artículo 7º de la Ley de Concesiones Marítimas. Del mismo modo, deberá remitirse copia del decreto de concesión, su renovación y modificaciones si las hubiere, la constancia de notificación y el acta de entrega. Los antecedentes mencionados podrán consistir en documentos, actas de inspección, fotografías, imágenes satelitales o cualquier otro medio apto para producir fe, así como las notificaciones efectuadas al concesionario, lo que deberá remitirse debidamente visado y fechado por el Capitán de Puerto.
 
 #### Artículo 108
 
-Examen de antecedentes. La Subsecretaría examinará los antecedentes agregados al expediente electrónico de caducidad, pudiendo requerir que se complementen o se subsanen deficiencias de procedimiento.
-
-> **Nota.** NOTA 25 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que el presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
+Examen de antecedentes. Una vez recibidos los antecedentes la Subsecretaría los examinará, pudiendo requerir que se complementen o se subsanen deficiencias de procedimiento.
 
 #### Artículo 109
 
@@ -1386,9 +1314,7 @@ d) Expresar el apercibimiento de que, si no formula descargos dentro de plazo, s
 
 #### Artículo 110
 
-Descargos. Los descargos deberán ser presentados a través de la plataforma electrónica y agregados al respectivo expediente electrónico, pudiendo acompañarse, por parte del concesionario, las pruebas que estime pertinentes.
-
-> **Nota.** NOTA 26 El artículo segundo transitorio del decreto N° 183, Defensa, publicado el 04.03.2020, sobre entrada en vigencia y aplicación de las normas que establecen el procedimiento administrativo electrónico a las solicitudes de concesiones marítimas menores destinaciones y demás procedimientos regulados en el presente decreto, establece que el presente artículo, entrará en vigencia a contar del primer día del sexto mes siguiente al de su publicación en el Diario Oficial, fecha a partir de la cual se aplicarán a todas las solicitudes de otorgamiento, modificación, renovación, transferencia, arriendo o cesión de uso de concesiones marítimas menores, destinaciones marítimas y demás procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el presente Reglamento sobre Concesiones Marítimas.
+Descargos. Los descargos se efectuarán por escrito y podrán presentarse en la oficina de partes de la Subsecretaría, o remitirse a esta última mediante carta certificada, en cuyo caso se considerarán presentados en la fecha de recepción en la oficina de correos correspondiente al domicilio del remitente. Al escrito de descargos podrán acompañarse las pruebas que se estimen pertinentes.
 
 #### Artículo 111
 
