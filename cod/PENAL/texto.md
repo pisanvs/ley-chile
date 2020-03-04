@@ -4188,6 +4188,8 @@ Si alguno de los delitos señalados en los artículos 361, 363, 365 bis, 366, 36
 
 El que, con ocasión de violación, cometiere además homicidio en la persona de la víctima, será castigado con presidio perpetuo a presidio perpetuo calificado.
 
+Si el autor del delito descrito en el inciso anterior es un hombre y la víctima una mujer, el delito tendrá el nombre de violación con femicidio.
+
 #### Artículo 372 ter
 
 <!-- parte:9736829 -->
@@ -4330,7 +4332,7 @@ El tercero que impidiere la inscripción, ante un oficial civil, de un matrimoni
 
 CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS.
 
-### I. Del homicidio
+### I. Del parricidio
 
 #### Artículo 390
 
@@ -4338,13 +4340,65 @@ CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS.
 
 El que, conociendo las relaciones que los ligan, mate a su padre, madre o hijo, a cualquier otro de sus ascendientes o descendientes o a quien es o ha sido su cónyuge o su conviviente, será castigado, como parricida, con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
 
-Si la víctima del delito descrito en el inciso precedente es o ha sido la cónyuge o la conviviente de su autor, el delito tendrá el nombre de femicidio.
+§1 bis.
+
+Del femicidio
+
+#### Artículo 390 bis
+
+<!-- parte:10105367 -->
+
+El hombre que matare a una mujer que es o ha sido su cónyuge o conviviente, o con quien tiene o ha tenido un hijo en común, será sancionado con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
+
+La misma pena se impondrá al hombre que matare a una mujer en razón de tener o haber tenido con ella una relación de pareja de carácter sentimental o sexual sin convivencia.
+
+#### Artículo 390 ter
+
+<!-- parte:10105368 -->
+
+El hombre que matare a una mujer en razón de su género será sancionado con la pena de presidio mayor en su grado máximo a presidio perpetuo.
+
+Se considerará que existe razón de género cuando la muerte se produzca en alguna de las siguientes circunstancias:
+
+1.- Ser consecuencia de la negativa a establecer con el autor una relación de carácter sentimental o sexual.
+
+2.- Ser consecuencia de que la víctima ejerza o haya ejercido la prostitución, u otra ocupación u oficio de carácter sexual.
+
+3.- Haberse cometido el delito tras haber ejercido contra la víctima cualquier forma de violencia sexual, sin perjuicio de lo dispuesto en el artículo 372 bis.
+
+4.- Haberse realizado con motivo de la orientación sexual, identidad de género o expresión de género de la víctima.
+
+5.- Haberse cometido en cualquier tipo de situación en la que se den circunstancias de manifiesta subordinación por las relaciones desiguales de poder entre el agresor y la víctima, o motivada por una evidente intención de discriminación.
+
+#### Artículo 390 quáter
+
+<!-- parte:10105369 -->
+
+Son circunstancias agravantes de responsabilidad penal para el delito de femicidio, las siguientes:
+
+1. Encontrarse la víctima embarazada.
+
+2. Ser la víctima una niña o una adolescente menor de dieciocho años de edad, una mujer adulta mayor o una mujer en situación de discapacidad en los términos de la ley N° 20.422.
+
+3. Ejecutarlo en presencia de ascendientes o descendientes de la víctima.
+
+4. Ejecutarlo en el contexto de violencia física o psicológica habitual del hechor contra la víctima.
+
+#### Artículo 390 quinquies
+
+<!-- parte:10105370 -->
+
+Tratándose del delito de femicidio, el juez no podrá aplicar la circunstancia atenuante de responsabilidad penal prevista en el N° 5 del artículo 11.
+
+§1 ter.
+
+Del homicidio
 
 #### Artículo 391
 
-<!-- parte:9672667 -->
+<!-- parte:10105372 -->
 
-El que mate a otro Y no esté comprendido en el artículo anterior, será penado:
+El que mate a otro y no esté comprendido en los artículos 390, 390 bis y 390 ter, será penado:
 
 1.° Con presidio mayor en su grado máximo a presidio perpetuo, si ejecutare el homicidio con alguna de las circunstancias siguientes:
 
@@ -4362,7 +4416,7 @@ Quinta.- Con premeditación conocida.
 
 #### Artículo 392
 
-<!-- parte:9672668 -->
+<!-- parte:10105373 -->
 
 Cometiéndose un homicidio en riña o pelea y no constando el autor de la muerte, pero sí los que causaron lesiones graves al occiso, se impondrá a todos éstos la pena de presidio menor en su grado máximo.
 
@@ -4370,11 +4424,9 @@ Si no constare tampoco quienes causaron lesiones graves al ofendido, se impondr�
 
 #### Artículo 393
 
-<!-- parte:9672669 -->
+<!-- parte:10105374 -->
 
 El que con conocimiento de causa prestare auxilio a otro para que se suicide, sufrirá la pena de presidio menor en sus grados medio a máximo, si se efectúa la muerte.
-
-.
 
 ### II. Del infanticidio
 
@@ -4562,13 +4614,13 @@ Se impondrán las penas generales de este Código para los casos de homicidio y 
 
 3.° Al combatiente que faltare a las condiciones esenciales concertadas por los padrinos.
 
-### V. Disposiciones comunes a los párrafos I, III y IV de este título
+### V. Disposiciones comunes a los párrafos 1, 1 bis, 1 ter, 3 y 4 de este Título
 
 #### Artículo 410
 
 <!-- parte:9672690 -->
 
-En los casos de homicidio o lesiones a que se refieren los párrafos I, III y IV del presente título, el ofensor, a más de las penas que en ellos se establecen, quedará obligado:
+En los casos de homicidio o lesiones a que se refieren los párrafos 1, 1 bis, 1 ter, 3 y 4 del presente título, el ofensor, a más de las penas que en ellos se establecen, quedará obligado:
 
 1.° A suministrar alimentos a la familia del occiso.
 
