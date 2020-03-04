@@ -1,0 +1,37 @@
+PRORROGA EL PLAZO DE POSTERGACIÓN DE PERMISOS DE SUBDIVISIÓN, LOTEO O URBANIZACIÓN Y DE CONSTRUCCIONES, DISPUESTO POR EL DECRETO ALCALDICIO Nº 1.418 DE LA MUNICIPALIDAD DE HUALPÉN, DE 2019
+
+Núm. 137 exenta.- Concepción, 19 de febrero de 2020.
+
+Vistos:
+
+El DFL Nº 458, de 1975, Ley General de Urbanismo y Construcciones (en adelante, LGUC); el DS Nº 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones (en adelante, OGUC); la circular DDU 175, del 14.11.2006, sobre planificación urbana, instrumentos de planificación territorial, postergación de permisos y prórrogas; la ley Nº 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado; la resolución Nº 7, de la Contraloría General de la República, de 2019, que fija normas sobre exención del trámite de toma de razón; el DS Nº 397 (V. y U.) de 1976, Reglamento Orgánico de las Secretarías Regionales Ministeriales de Vivienda y Urbanismo; y el decreto exento Nº 81 (V. y U.), 2014, que deroga el decreto Nº 201 (V. y U.), de 2007, y fija orden de subrogación del cargo que indica
+
+Considerando:
+
+1) Que, el inciso 1º del artículo 117 LGUC, prescribe: "Los permisos de subdivisión, loteo o urbanización predial y de construcciones podrán postergarse hasta por un plazo de tres meses, cuando el sector de ubicación del terreno esté afectado por estudios sobre modificaciones del Plan Regulador Intercomunal o comunal, aprobados por resolución del Alcalde. Esta postergación deberá ser informada previa y favorablemente por la Secretaría Regional correspondiente del Ministerio de la Vivienda y Urbanismo". Añade el inciso 2º de dicha norma: "En caso necesario, el citado plazo de tres meses podrá ser prorrogado hasta completar un máximo de doce meses. La prórroga se dispondrá por decreto supremo del Ministerio de Vivienda y Urbanismo dictado "por orden del Presidente de la República" o por resolución del Secretario Regional Ministerial de Vivienda y Urbanismo respectivo, según se trate de estudios sobre modificaciones de un Plan Regulador Intercomunal o de un Plan Regulador Comunal, en su caso. Tanto el decreto supremo como la resolución se publicarán en el Diario Oficial y en algún diario de los de mayor circulación en la comuna".
+
+2) Que, por su parte, la circular DDU 175, del 14.11.2006, señala que, tratándose de postergaciones solicitadas a raíz de cambios normativos menores que afecten solo a sectores puntuales y a materias acotadas, "para autorizar una prórroga se debe contar con la certeza técnica de que, en el período de prórroga otorgado, se pueda dar término y promulgar el estudio sobre las modificaciones del Plan Regulador Intercomunal o Comunal, según sea el caso".
+
+3) Que, mediante el oficio Ord. Nº 2.866, del 03.10.2019, esta Seremi informó previa y favorablemente la postergación de los permisos de subdivisión, loteo o urbanización predial y de construcciones, hasta por un plazo de tres meses, propuesta por la Municipalidad de Hualpén, respecto del Santuario de la Naturaleza Península de Hualpén, comprendido en el polígono graficado en el informe adjunto al referido oficio.
+
+4) Que, la Municipalidad de Hualpén, por el decreto alcaldicio Nº 1.418, del 21.10.2019, publicado en el Diario Oficial el 07.12.2019, postergó por el plazo de tres meses el otorgamiento de los permisos de subdivisión, loteo o urbanización predial y de construcciones, respecto de la referida zona.
+
+5) Que, mediante su oficio Ord. Nº 8, del 06.01.2020, la Municipalidad de Hualpén solicitó a esta Seremi prorrogar, por 9 meses, el plazo de postergación de los permisos de subdivisión, loteo o urbanización predial y de construcciones, dispuesto por el decreto alcaldicio Nº 1.418, del 21.10.2019, señalando al efecto que "mientras no se apruebe el Plan Regulador Comunal, para evitar el deterioro ambiental del Santuario de la Naturaleza Península de Hualpén, se hace necesario continuar con la postergación de todas las tipologías de permisos, hasta enterar el plazo máximo de doce meses que permite la legislación vigente". Añade el informe técnico adjunto a dicho oficio, suscrito con fecha 31.12.2019 por el Asesor Urbanista de la Municipalidad, que, con fecha 13.12.2019, se inició un tercer proceso de consulta pública, debido a que el Concejo Municipal acogió nuevas afectaciones que inciden sobre el Santuario de la Naturaleza Península de Hualpén, por lo cual el nuevo Plan Regulador Comunal respectivo no será aprobado dentro del plazo de postergación dispuesto por la Municipalidad.
+
+6) Que, el Departamento de Desarrollo Urbano e Infraestructura (DDUI), de esta Seremi, por medio de memorándum Nº 22 DDUI, del 17.02.2020, estimó procedente la prórroga solicitada, en base a lo expuesto en informe técnico adjunto a dicho memorándum, de acuerdo al cual, en el marco de la aprobación del Plan Regulador Comunal, el Concejo Municipal de Hualpén ha acogido observaciones realizadas por los interesados, que involucran nuevas afectaciones desconocidas por la comunidad. Por tal motivo, se inició un nuevo proceso de consulta pública, ajustado a lo señalado en el artículo 43 de la LGUC, que extenderá el plazo de aprobación del Plan Regulador más allá de los tres meses establecidos inicialmente para la postergación de permisos. Agrega el informe que el proceso de aprobación se encuentra hoy en la etapa de recepción de observaciones, estimándose que el cumplimiento de los restantes requisitos previstos en el artículo 43 LGUC, determinaría que el nuevo Plan Regulador Comunal estaría en condiciones de ser promulgado en el mes de septiembre de 2020.
+
+7) Que, por consiguiente, y en cumplimiento de lo dispuesto en el artículo 117 LGUC y en la circular DDU 175, del 14.11.2006, se cuenta con la certeza técnica de que la prórroga de la postergación de permisos, permitirá dar término y promulgar el Plan Regulador Comunal de Hualpén.
+
+Por lo expuesto, procede dictar la siguiente
+
+Resolución:
+
+1) Prorrógase, a partir del 08.03.2020, por 9 meses o hasta la fecha de entrada en vigencia de la modificación del Plan Regulador Comunal de Hualpén en trámite, siempre que no exceda de dicho lapso, el plazo de postergación de los permisos de subdivisión, loteo o urbanización predial y de construcciones, dispuesto por el decreto alcaldicio Nº 1.418, de la Municipalidad de Hualpén, del 21.10.2019, publicado en el Diario Oficial el 07.12.2019, respecto de las zonas singularizadas en el considerando Nº 3 del presente acto administrativo.
+
+2) Publíquese el presente acto administrativo en el Diario Oficial y en el "Diario Concepción".
+
+> **Nota.** El N° 1 de la resolución 797 exenta, Vivienda, publicada el 07.12.2020, dispone el aumento, a partir del 09.12.2020, por 4 meses o hasta la fecha de entrada en vigencia del Plan Regulador Comunal de Hualpén en trámite, siempre que no exceda de dicho lapso, de la prórroga dispuesta por la presente resolución.
+
+Anótese, notifíquese, publíquese y archívese.- Miguel Ángel Hernández Aguayo, Secretario Regional Ministerial de Vivienda y Urbanismo Región del Biobío (S).
+
+Lo que transcribo a Ud. para su conocimiento y fines pertinentes.- Eduardo Canessa Díaz, Encargado Unidad de Administración, Ministro de Fe.
