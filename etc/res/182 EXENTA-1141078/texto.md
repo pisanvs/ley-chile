@@ -50,9 +50,13 @@ Resuelvo:
 
 Reconózcase, en el marco del "Acuerdo de Reconocimiento Mutuo de Títulos y Grados entre la República de Chile y el Reino Unido de Gran Bretaña e Irlanda del Norte", los títulos (qualifications) o grados académicos universitarios de pregrado obtenidos en las universidades de Reino Unido de Gran Bretaña e Irlanda del Norte que se indican a continuación:
 
+.
+
 #### Artículo segundo
 
 Reconózcase, en el marco del "Acuerdo de Reconocimiento Mutuo de Títulos y Grados entre la República de Chile y el Reino Unido de Gran Bretaña e Irlanda del Norte", los títulos (qualifications) o grados académicos universitarios de postgrado obtenidos en las universidades de Reino Unido de Gran Bretaña e Irlanda del Norte que se indican a continuación:
+
+.
 
 #### Artículo tercero
 
