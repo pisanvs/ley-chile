@@ -60,15 +60,13 @@ Otórgase a la Subsecretaría de Salud Pública facultades extraordinarias para 
 
 1. Efectuar la contratación del personal de acuerdo a lo establecido en el artículo 10 del Código Sanitario, además de otros mecanismos de contratación previstos en la legislación vigente y realizar los traslados del personal que se requiera desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.
 
-Lo dispuesto en el inciso precedente, se organizará acorde al personal requerido conforme a las instrucciones, protocolos y estrategias definidas por el nivel central, tanto para la prevención y trazabilidad del COVID-19 como para gestionar los efectos de la pandemia en la atención de salud.
-
-2. Efectuar la adquisición directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia por montos hasta 5.000 UTM, la cual, de acuerdo a lo establecido en el artículo 8º letra c) de la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestación de Servicios, quedará liberada de los procedimientos de licitación, sin perjuicio de su publicación posterior en el portal www.mercadopublico.cl.
+2. Efectuar la adquisición directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia, la cual, de acuerdo a lo establecido en el artículo 8º letra c) de la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestación de Servicios, quedará liberada de los procedimientos de licitación, sin perjuicio de su publicación posterior en el portal www.mercadopublico.cl.
 
 3. Disponer la realización de trabajos extraordinarios para el personal de su dependencia, de acuerdo a lo establecido en los artículos 66 y 70 de la ley Nº 18.834, cuyo texto actualizado, refundido y coordinado fue fijado por el DFL Nº 29, de 2004, del Ministerio de Hacienda, que aprueba el Estatuto Administrativo.
 
 4. En forma excepcional y mientras se mantenga la alerta sanitaria, podrá contratar a ex funcionarios que se hayan acogido a los beneficios de incentivo al retiro establecidos en las leyes Nº 20.612, Nº 20.707, Nº 20.921 y Nº 20.986, no siéndoles aplicables respecto de la contratación que por este acto se autoriza ni por el tiempo que se extienda la contingencia que la motiva, las prohibiciones que las leyes referidas contienen.
 
-5. Suprimido.
+5. Disponer la contratación de estudiantes que estén cursando sexto año en adelante de la carrera de Medicina impartida por las Universidades reconocidas oficialmente en Chile, y de estudiantes que estén cursando el séptimo semestre en adelante de las carreras de Enfermería, Obstetricia y Puericultura, Tecnología Médica, Kinesiología y Sicología, impartidas por las Universidades reconocidas oficialmente en Chile.
 
 6. Coordinar la distribución de los productos farmacéuticos y elementos de uso médico que se requieran para satisfacer la demanda de la población.
 
@@ -78,31 +76,19 @@ Lo dispuesto en el inciso precedente, se organizará acorde al personal requerid
 
 9. Ordenar el uso obligatorio de mascarillas y otros dispositivos médicos afines en medios de transporte, salas de clases, lugares de trabajos y, en general, en cualquier otro lugar de acceso público o donde exista aglomeración de personas.
 
-10. Disponer el precio máximo a pagar por parte de la población general de determinados productos farmacéuticos, dispositivos médicos, elementos e insumos sanitarios, así como de prestaciones de salud y servicios sanitarios, como asimismo, todos los bienes y servicios necesarios para atender las necesidades sanitarias.
-
-11. Suprimido.
-
-12. Realizar importación directa de medicamentos, insumos y dispositivos médicos que sean necesarios para el cumplimiento de las facultades que se entregan al sector salud mediante este decreto. En dicho contexto, podrá en el caso de productos importados, y en virtud de prácticas internacionales de comercio, eximirse de una o más obligaciones contenidas en la ley 19.886.
-
-13. Realizar la transferencia de dominio, a título gratuito, de bienes muebles adquiridos para hacer frente la epidemia de Covid-19, a aquellos servicios públicos que ejecuten acciones de salud relacionadas directamente con la utilización de dichos bienes. Asimismo, se podrá realizar la transferencia de dominio, a título gratuito, de dichos bienes muebles, a aquellos servicios públicos que promuevan el desarrollo de actividades académicas, científicas, de investigación o innovación, y que sean útiles en el ámbito de la salud, en los casos en que no se puedan continuar empleando, ya sea por renovación o utilización de otras alternativas. La transferencia se realizará mediante resolución exenta de la Subsecretaría, sin más trámite. Dicha resolución deberá individualizar en forma detallada el o los bienes a enajenar y el Servicio adquirente del dominio.
-
-14. Aceptar transferencias de dominio a título gratuito, de bienes muebles destinados a hacer frente a la epidemia de COVID-19. La aceptación se realizará mediante resolución exenta de la Subsecretaría, sin más trámite, la cual deberá individualizar en forma detallada el o los bienes aceptados.
-
 #### Artículo 2º bis
 
 Otórgase a la Subsecretaría de Redes Asistenciales facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
 
 1. Efectuar la contratación del personal de acuerdo a lo establecido en el artículo 10 del Código Sanitario, además de otros mecanismos de contratación previstos en la legislación vigente y realizar los traslados del personal que se requiera desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.
 
-Lo dispuesto en el inciso precedente, se organizará acorde al personal requerido conforme a las instrucciones, protocolos y estrategias definidas por el nivel central, tanto para la prevención y trazabilidad del COVID-19 como para gestionar los efectos de la pandemia en la atención de salud.
-
-2. Efectuar la adquisición directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia, la cual, de acuerdo a lo establecido en el artículo 8º letra c) de la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestación de Servicios, quedará liberada de los procedimientos de licitación, sin perjuicio de su publicación posterior en el portal www.mercadopublico.cl. Para celebrar contratos cuyo monto sea igual o superior a 5000 UTM, se requerirá previamente la visación de la División de Finanzas y Administración Interna de la Subsecretaría de Salud Pública.
+2. Efectuar la adquisición directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia, la cual, de acuerdo a lo establecido en el artículo 8º letra c) de la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestación de Servicios, quedará liberada de los procedimientos de licitación, sin perjuicio de su publicación posterior en el portal www.mercadopublico.cl.
 
 3. Disponer la realización de trabajos extraordinarios para el personal de su dependencia, de acuerdo a lo establecido en los artículos 66 y 70 de la ley Nº 18.834, cuyo texto actualizado, refundido y coordinado fue fijado por el DFL Nº 29, de 2004, del Ministerio de Hacienda, que aprueba el Estatuto Administrativo.
 
 4. En forma excepcional y mientras se mantenga la alerta sanitaria, podrá contratar a ex funcionarios que se hayan acogido a los beneficios de incentivo al retiro establecidos en las leyes Nº 20.612, Nº 20.707, Nº 20.921 y Nº 20.986, no siéndoles aplicables respecto de la contratación que por este acto se autoriza ni por el tiempo que se extienda la contingencia que la motiva, las prohibiciones que las leyes referidas contienen.
 
-5. Suprimido.
+5. Disponer la contratación de estudiantes que estén cursando sexto año en adelante de la carrera de Medicina impartida por las Universidades reconocidas oficialmente en Chile, y de estudiantes que estén cursando el séptimo semestre en adelante de las carreras de Enfermería, Obstetricia y Puericultura, Tecnología Médica, Kinesiología y Sicología, impartidas por las Universidades reconocidas oficialmente en Chile.
 
 6. Coordinar la distribución de los productos farmacéuticos y elementos de uso médico que se requieran para satisfacer la demanda de la población.
 
@@ -110,19 +96,7 @@ Lo dispuesto en el inciso precedente, se organizará acorde al personal requerid
 
 8. Autorizar provisoriamente hospitales de implementación acelerada, tales como hospitales de campaña o modulares, con anterioridad a la obtención de permisos, autorizaciones y certificados que correspondan, de acuerdo a la normativa aplicable. Estos hospitales deberán estar bajo dependencia de algún otro centro asistencial autorizado previamente por la autoridad sanitaria. En ningún caso dicha autorización podrá extenderse más allá de la vigencia de este decreto.
 
-9. Suprimido.
-
-10. Coordinar la red asistencial del país, de prestadores públicos y privados. Para lo anterior, podrá solicitar de los establecimientos públicos y de los establecimientos privados, la facilitación, a los precios previamente convenidos, del otorgamiento de prestaciones asistenciales que no puedan postergarse sin grave perjuicio, o que han sido postergadas por causa de la pandemia.
-
-11. Autorizar que en la red pública y privada, aquellos tratamientos de uso periódico para enfermedades crónicas, que son prescritos con dosis para periodos quincenales o mensuales, puedan prescribirse con la dosis necesaria para hasta tres meses, siempre que las condiciones de dispensación, conservación o suministro del medicamento lo permitan.
-
-12. Realizar importación directa de medicamentos, insumos y dispositivos médicos que sean necesarios para el cumplimiento de las facultades que se entregan al sector salud mediante este decreto. En dicho contexto, podrá en el caso de productos importados, y en virtud de prácticas internacionales de comercio, eximirse de una o más obligaciones contenidas en la ley 19.886.
-
-13. Disponer el precio máximo a pagar por parte de la población general de determinados dispositivos médicos, elementos e insumos sanitarios, así como de prestaciones de salud y servicios sanitarios, como asimismo, todos los bienes y servicios necesarios para atender las necesidades sanitarias en la red asistencial de salud.
-
-14. Realizar la transferencia de dominio, a título gratuito, de bienes muebles adquiridos para hacer frente la epidemia de Covid-19, a aquellos servicios públicos que ejecuten acciones de salud relacionadas directamente con la utilización de dichos bienes. Asimismo, se podrá realizar la transferencia de dominio, a título gratuito, de dichos bienes muebles, a aquellos servicios públicos que promuevan el desarrollo de actividades académicas, científicas, de investigación o innovación, y que sean útiles en el ámbito de la salud, en los casos en que no se puedan continuar empleando, ya sea por renovación o utilización de otras alternativas. La transferencia se realizará mediante resolución exenta de la Subsecretaría, sin más trámite. Dicha resolución deberá individualizar en forma detallada el o los bienes a enajenar y el Servicio adquirente del dominio.
-
-15. Aceptar transferencias de dominio a título gratuito, de bienes muebles destinados a hacer frente a la epidemia de COVID-19. La aceptación se realizará mediante resolución exenta de la Subsecretaría, sin más trámite, la cual deberá individualizar en forma detallada el o los bienes aceptados.
+9. Asimismo, podrá autorizar, provisionalmente, para la entrega de prestaciones de salud, a inmuebles que no estén autorizados como establecimientos asistenciales, en las mismas condiciones señaladas en el numeral anterior. Dichas prestaciones deberán garantizar la seguridad del paciente, siendo proporcionales al equipamiento, personal y adecuaciones con las que cuente el inmueble que por este numeral se autoriza.
 
 #### Artículo 3º
 
@@ -132,15 +106,13 @@ Otórgase a las Secretarías Regionales Ministeriales de Salud del país, facult
 
 2. Efectuar la contratación del personal de acuerdo a lo establecido en el artículo 10 del Código Sanitario, además de otros mecanismos de contratación previstos en la legislación vigente y realizar los traslados del personal que se requiera desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.
 
-Lo dispuesto en el inciso precedente, se organizará acorde al personal requerido conforme a las instrucciones, protocolos y estrategias definidas por el nivel central, tanto para la prevención y trazabilidad del COVID-19 como para gestionar los efectos de la pandemia en la atención de salud.
-
-3. Efectuar la adquisición directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia, la cual, de acuerdo a lo establecido en el artículo 8º letra c) de la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestación de Servicios, quedará liberada de los procedimientos de licitación, sin perjuicio de su publicación posterior en el portal www.mercadopublico.cl. Para celebrar contratos cuyo monto sea superior a 1000 UTM, se requerirá previamente la visación de la División de Finanzas y Administración Interna de la Subsecretaría de Salud Pública.
+3. Efectuar la adquisición directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia, la cual, de acuerdo a lo establecido en el artículo 8º letra c) de la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestación de Servicios, quedará liberada de los procedimientos de licitación, sin perjuicio de su publicación posterior en el portal www.mercadopublico.cl.
 
 4. Disponer la realización de trabajos extraordinarios para el personal de su dependencia, de acuerdo a lo establecido en los artículos 66 y 70 de la ley Nº18.834, cuyo texto actualizado, refundido y coordinado fue fijado por el DFL Nº 29, de 2004, del Ministerio de Hacienda, que aprueba el Estatuto Administrativo.
 
 5. En forma excepcional y mientras se mantenga la alerta sanitaria, podrá contratar a ex funcionarios que se hayan acogido a los beneficios de incentivo al retiro establecidos en las leyes Nº 20.612, Nº 20.707, Nº 20.921 y Nº 20.986, no siéndoles aplicables respecto de la contratación que por este acto se autoriza ni por el tiempo que se extienda la contingencia que la motiva, las prohibiciones que las leyes referidas contienen.
 
-6. Arrendar vehículos para ejercer las facultades que por este decreto se otorgan y autorizar a funcionarios de su dependencia para que, en el cumplimiento de sus funciones, de forma temporal, y sin rendir caución en los términos establecidos en el artículo 7º del decreto ley Nº 799, de 1974, usen vehículos de propiedad de la Subsecretaría de Salud Pública y asignados a la Secretaría Regional Ministerial de Salud. El arrendamiento de vehículos deberá sujetarse al monto máximo de 100 UTM.
+6. Arrendar vehículos para ejercer las facultades que por este decreto se otorgan y autorizar a funcionarios de su dependencia para que, en el cumplimiento de sus funciones, de forma temporal, y sin rendir caución en los términos establecidos en el artículo 7º del decreto ley Nº 799, de 1974, usen vehículos de propiedad de la Subsecretaría de Salud Pública y asignados a la Secretaría Regional Ministerial de Salud.
 
 7. Requerir el auxilio de la fuerza pública de la Unidad de Carabineros de Chile más cercana, en conformidad al artículo 8º del Código Sanitario, para asistir, si fuere necesario, a la Secretaría Regional Ministerial de Salud en sus labores fiscalizadoras así como en aquellas acciones que fueran necesarias para hacer frente a la emergencia descrita en los considerandos.
 
@@ -158,9 +130,9 @@ Lo dispuesto en el inciso precedente, se organizará acorde al personal requerid
 
 14. Localizar a quienes hayan estado en contacto con personas sospechosas o afectadas por el nuevo coronavirus 2019.
 
-15. Denegar la entrada al país u ordenar el aislamiento de ciudadanos extranjeros no residentes en Chile, sospechosos o afectados por el nuevo coronavirus 2019.
+15. Denegar la entrada al país de ciudadanos extranjeros no residentes en Chile, sospechosos o afectados por el nuevo coronavirus 2019.
 
-16. Suprimido.
+16. Denegar la entrada en las zonas afectadas por el nuevo coronavirus 2019 a las personas no afectadas.
 
 17. Suspender las clases en establecimientos educacionales y las actividades masivas en espacios cerrados.
 
@@ -178,21 +150,11 @@ Lo dispuesto en el inciso precedente, se organizará acorde al personal requerid
 
 24. Entregar, a título gratuito u oneroso, medicamentos, dispositivos médicos u otros elementos sanitizadores a grupos objetivos previamente definidos por esta autoridad sanitaria.
 
-25. Suprimido.
+25. Instalar, de forma gratuita, dispositivos de dispensación de alcohol gel u otros sanitizantes de manos en lugares de acceso público o donde exista aglomeración de personas.
 
-26. Suprimido.
+26. Realizar acciones educativas en instituciones, empresas, asociaciones y organizaciones de la sociedad civil para informar a la comunidad de las medidas que se deben adoptar para evitar el contagio en lugares de trabajo.
 
-27. Suprimido.
-
-28. Suprimido.
-
-29. Poner a disposición de la población residencias sanitarias para efectuar el aislamiento de personas bajo sospecha de estar infectadas o infectadas, cuya condición clínica lo permita.
-
-30. Suprimido.
-
-31. Disponer la contratación de estudiantes que estén cursando sexto año en adelante de la carrera de Medicina impartida por las Universidades reconocidas oficialmente en Chile, y de estudiantes que estén cursando el séptimo semestre en adelante de las carreras de Enfermería, Obstetricia y Puericultura, Tecnología Médica, Kinesiología y Sicología, impartidas por las Universidades reconocidas oficialmente en Chile.
-
-32. Autorizar la contratación y ejercicio de médicos titulados en el extranjero cuyo título no esté revalidado o habilitado en Chile.
+27. Realizar acciones educativas en colegios y universidades para informar a los alumnos, profesores y personal general de las medidas que se deben adoptar para evitar el contagio en establecimientos educacionales.
 
 #### Artículo 4º
 
@@ -200,11 +162,7 @@ Otórgase a los Servicios de Salud del país, facultades extraordinarias para di
 
 1. Efectuar la contratación del personal de acuerdo a lo establecido en el artículo 10 del Código Sanitario, además de otros mecanismos de contratación previstos en la legislación vigente y realizar los traslados del personal que se requiera desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.
 
-Lo dispuesto en el inciso precedente, se organizará acorde al personal requerido conforme a las instrucciones, protocolos y estrategias definidas por el nivel central, tanto para la prevención y trazabilidad del COVID-19 como para gestionar los efectos de la pandemia en la atención de salud.
-
 2. Efectuar la adquisición directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia, la cual, de acuerdo a lo establecido en el artículo 8º letra c) de la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestación de Servicios, quedará liberada de los procedimientos de licitación, sin perjuicio de su publicación posterior en el portal www.mercadopublico.cl.
-
-Los Servicios de Salud deberán informar mensualmente a la Subsecretaría de Redes Asistenciales el total de las compras realizadas que sean equivalentes a montos iguales o superiores a 5000 UTM.
 
 3. Disponer la realización de trabajos extraordinarios para el personal de su dependencia, de acuerdo a lo establecido en los artículos 66 y 70 de la ley Nº18.834, cuyo texto actualizado, refundido y coordinado fue fijado por el DFL Nº 29, de 2004, del Ministerio de Hacienda, que aprueba el Estatuto Administrativo. Asimismo, podrá disponer la realización de trabajos extraordinarios al personal que percibe la asignación de turno.
 
@@ -220,7 +178,7 @@ Los Servicios de Salud deberán informar mensualmente a la Subsecretaría de Red
 
 9. Reasignar servicios clínicos y unidades de apoyo de la Red Asistencial de Salud.
 
-10. Suprimido.
+10. Suspender las cirugías electivas y programadas, que no sean de urgencia.
 
 11. Coordinar, de acuerdo a las instrucciones que le imparta el Subsecretario de Redes Asistenciales, la red asistencial de prestadores públicos y privados que se encuentre dentro del territorio de su competencia. Para lo anterior podrá solicitar de los establecimientos públicos que no pertenezcan a la Red Asistencial del Servicio de Salud y de los establecimientos privados, la facilitación, a los precios previamente convenidos, del otorgamiento de prestaciones asistenciales que no puedan postergarse sin grave perjuicio.
 
@@ -228,13 +186,7 @@ Los Servicios de Salud deberán informar mensualmente a la Subsecretaría de Red
 
 13. Difundir las medidas sanitarias en medios de comunicación masivos.
 
-14. Autorizar la contratación y ejercicio de médicos y enfermeras y enfermeros titulados en el extranjero cuyo título no esté revalidado o habilitado en Chile.
-
-15. Dar en arrendamiento, a prestadores privados, dispositivos médicos, sin más trámite que el acto administrativo por el cual se autoriza dicho arrendamiento.
-
-16. Podrán autorizar a quienes se hayan acogido al beneficio del artículo 44 de la ley Nº 15.076, a desempeñarse en servicios de guardia nocturna y en días domingo y festivos, previo consentimiento de los profesionales funcionarios respectivos.
-
-17. Podrán destinar la totalidad de las 22 horas semanales referidas en el artículo 3º del decreto 2.207 de 1993, del Ministerio de Salud, a trabajos asistenciales.
+14. Autorizar la contratación y ejercicio de médicos titulados en el extranjero cuyo título no esté revalidado o habilitado en Chile.
 
 #### Artículo 5º
 
@@ -260,8 +212,6 @@ Otórgase al Fondo Nacional de Salud, facultades extraordinarias para disponer, 
 
 2. Efectuar la adquisición directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia, la cual, de acuerdo a lo establecido en el artículo 8º letra c) de la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestación de Servicios, quedará liberada de los procedimientos de licitación, sin perjuicio de su publicación posterior en el portal www.mercadopublico.cl.
 
-Lo anterior incluye la compra de servicios para la atención de COVID-19 y sus efectos o secuelas, y para las atenciones de salud que han sido postergadas por causa de la pandemia.
-
 3. Disponer la realización de trabajos extraordinarios para el personal de su dependencia, de acuerdo a lo establecido en los artículos 66 y 70 de la ley Nº18.834, cuyo texto actualizado, refundido y coordinado fue fijado por el DFL Nº 29, de 2004, del Ministerio de Hacienda, que aprueba el Estatuto Administrativo.
 
 4. Difundir las medidas sanitarias en medios de comunicación masivos.
@@ -286,10 +236,6 @@ Otórgase a la Central Nacional de Abastecimiento de los Servicios de Salud, fac
 
 8. Realizar importación directa de medicamento e insumos médicos que sean necesarios para el cumplimiento de las facultades que se entregan al sector salud mediante este decreto. En dicho contexto, podrá, en el caso de productos importados, y en virtud de prácticas internacionales de comercio, eximirse de una o más obligaciones contenidas en la ley 19.886.
 
-9. Podrá proveer de productos farmacéuticos, dispositivos médicos, elementos e insumos sanitarios y de protección del virus SARS-CoV-2 que se requieran por los organismos y servicios públicos creados por ley.
-
-Los referidos organismos podrán solicitar a la Central los productos sanitarios referidos. La Central evaluará la solicitud y, en caso de ser aprobada, procederá a la provisión de los productos sanitarios según las reglas generales y a lo dispuesto en el presente decreto de alerta sanitaria.
-
 #### Artículo 8º
 
 Otórgase a la Superintendencia de Salud, facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
@@ -302,20 +248,6 @@ Otórgase a la Superintendencia de Salud, facultades extraordinarias para dispon
 
 4. Difundir las medidas sanitarias en medios de comunicación masivos.
 
-5. Supervisar y fiscalizar el cumplimiento de las medidas administrativas de coordinación de todos los centros asistenciales del país, públicos y privados, que disponga la Subsecretaría de Redes Asistenciales, así como respecto de cualquier directriz técnica que emita el Ministerio de Salud para enfrentar la alerta sanitaria provocada por el Coronavirus Covid-19, sin perjuicio de las facultades de fiscalización y sanción que al respecto pueda ejercer la Secretaría Regional Ministerial de Salud respectiva, según lo dispuesto en el Libro X del Código Sanitario.
-
-6. Dictar, a través de la Intendencia de Prestadores, las instrucciones generales y particulares a los prestadores institucionales de salud, que se estimen necesarias para apoyar el cumplimiento de las medidas administrativas y técnicas dispuestas por la Subsecretaría de Redes Asistenciales.
-
-7. Inscribir en el Registro de Prestadores Individuales de Salud, a los médicos titulados en el extranjero cuyo título no esté revalidado o habilitado en Chile, de conformidad a lo dispuesto en el Nº 14 del Artículo 4º del presente decreto, informados a la Superintendencia por los Servicios de Salud.
-
-8. Dictar instrucciones generales y particulares a Entidades Acreditadoras, disponer la prórroga de la vigencia de la acreditación de los prestadores institucionales y fijar nuevos plazos para la solicitud de reacreditación de los mismos.
-
-#### Artículo 8° bis
-
-En lo referido a la adquisición directa de bienes, servicios o equipamiento que sean necesarios para el manejo de la urgencia, deberá procurarse la preeminencia del interés general por sobre el individual en el desempeño de la función pública. En particular, todos los funcionarios que presten servicios para la Administración en cualquier modalidad, deberán dar estricto cumplimiento a lo contenido en la ley N° 20.880 sobre probidad en la función pública y prevención de los conflictos de intereses, en el Manual de Adquisiciones del Ministerio de Salud, con especial énfasis a lo dispuesto Título 7 literal B, de este último instrumento, y en el Dictamen N° 2453, de 2018, de la Contraloría General de la República, que imparte instrucciones sobre el cumplimiento del principio de probidad en la contratación pública de suministro de bienes muebles y prestación de servicios.
-
-El jefe superior del servicio respectivo, deberá impartir instrucciones dentro del plazo de 10 días hábiles contados desde la publicación del presente decreto, con el objeto de velar por el debido y correcto cumplimiento de lo dispuesto en el inciso anterior.
-
 #### Artículo 9º
 
 Los servicios públicos y demás organismos de la Administración del Estado, en el ámbito de sus respectivas competencias, y otras entidades públicas o privadas deberán proporcionar la colaboración y ejecutar las acciones que les sean requeridas por los órganos señalados en los artículos precedentes, para el cumplimiento de las facultades extraordinarias que se han dispuesto en el presente acto y las demás acciones que dichas autoridades estimen necesarias para enfrentar esta emergencia.
@@ -324,11 +256,7 @@ Lo anterior, de conformidad con lo señalado en los convenios que previamente se
 
 #### Artículo 10º
 
-Los efectos de este decreto tendrán vigencia hasta el 31 de marzo de 2023, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que estas no mejoren.
-
-#### Artículo 11º
-
-Déjase constancia que el incumplimiento de las medidas impuestas por la autoridad en virtud de este decreto serán fiscalizadas y sancionadas según lo dispuesto en el Libro X del Código Sanitario, así como en lo dispuesto en el Código Penal, cuando corresponda.
+Los efectos de este decreto tendrán vigencia durante un año, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que estas no mejoren.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Jaime Mañalich Muxi, Ministro de Salud.
 
