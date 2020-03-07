@@ -30,7 +30,7 @@ Resuelvo:
 
 a. Registro de Establecimientos Pecuarios. Corresponde al registro en el cual se identifica un establecimiento a través del Rol Único Pecuario (RUP), se mantienen los datos de aquellos establecimientos pecuarios donde existen animales en forma temporal o permanente y la individualización de las personas que los manejan, sean titulares o mandatarios de ellos.
 
-b. Declaración de Existencia de Animales (DEA). Corresponde al registro de existencias de todos los animales por especie y categoría de cada establecimiento pecuario.
+b. Declaración de Existencia de Animales (DEA). Corresponde al registro de existencia de todos los animales por especie y categoría de cada establecimiento pecuario e ingreso de dicha información en el Sistema de Información Pecuaria Oficial.
 
 c. Identificación Animal Oficial. Corresponde al proceso que permite identificar oficialmente a un animal mediante la aplicación de un Dispositivo de Identificación Individual Oficial (DIIO), vincularlo al establecimiento donde se realizó esta actividad y registrar dicha información en el Sistema de Información Pecuaria Oficial.
 
@@ -44,7 +44,13 @@ a) Centro de faenamiento de autoconsumo (CFA): Lugar ubicado en un sector aislad
 
 b) Control fronterizo: Corresponde a establecimientos ubicados en áreas del espacio terrestre con una naturaleza y regulación especial, derivada de su ubicación y funciones. Se trata de instalaciones, tales como aeropuertos, puertos y pasos fronterizos terrestres.
 
-c) Dispositivo de Identificación Individual Oficial (DIIO): Corresponde a un ''arete" o "bolo ruminal" de material plástico donde se registra un número oficial único e irrepetible. El DIIO con sistema de radiofrecuencia (RFID) puede incluir dos componentes: un dispositivo visual tipo paleta (macho-hembra) y un dispositivo tipo botón (macho-hembra), que deberá contener un chip con radiofrecuencia (RFID), o bien, sólo un dispositivo tipo botón (macho-hembra), que deberá contener un chip con radiofrecuencia (RFID), según las especificaciones técnicas y especies que determine el Servicio. El DIIO tipo bolo ruminal está conformado por un dispositivo visual tipo paleta (macho-hembra), un dispositivo tipo botón (macho-hembra) que deberá contener un chip con radiofrecuencia (RFID) y un dispositivo tipo bolo ruminal con RFID. Excepcionalmente, el Servicio permitirá el uso de DIIO visual aplicados en animales antes del 1 de septiembre de 2013, el cual incluye dos componentes: un dispositivo visual tipo paleta (macho-hembra) y un dispositivo visual tipo botón (macho-hembra).
+c) Dispositivo de Identificación Individual Oficial (DIIO): Corresponde a un arete o un bolo ruminal, con número oficial único e irrepetible impreso y sistema de identificación con radiofrecuencia (RFID) incorporado. El tipo arete, de material plástico, puede estar conformado por:
+
+- **a)** un dispositivo visual tipo paleta (macho-hembra) y un dispositivo tipo botón con RFID (macho-hembra);
+
+- **b)** sólo un dispositivo tipo botón con RFID (macho-hembra); o
+
+- **c)** sólo un dispositivo tipo rectangular con RFID (macho-hembra). El tipo bolo ruminal está conformado por: un dispositivo visual tipo paleta (macho-hembra) y un dispositivo tipo bolo ruminal con RFID. Estos dispositivos deben cumplir con las especificaciones técnicas que determine el Servicio.
 
 d) Establecimiento pecuario o establecimiento: Corresponde a todo lugar donde existan animales vivos, en forma temporal o permanente, destinados a reproducción, crianza, producción, actividades cuyo fin sea la comercialización de sus productos o subproductos, autoconsumo, faena o sacrificio, exhibición, actividades deportivas o de recuperación y rehabilitación.
 
@@ -94,15 +100,15 @@ s) Trazabilidad de nacimiento: Estado que adquiere un animal cuando ha sido iden
 
 4.5. El Servicio, por razones sanitarias, podrá registrar y asignar RUP a todo establecimiento que requiera identificar, pudiendo completar el FIE sin la firma del titular.
 
-5. Todo titular de un establecimiento pecuario registrado con RUP deberá efectuar la declaración de existencia de animales mediante el Formulario de Declaración de Existencia de Animales (FDEA) en cualquier Oficina del Servicio o a través de su funcionalidad electrónica en el Sistema de Información Pecuaria Oficial, cuando los Programas Oficiales así lo exijan.
+5. Todo titular de establecimiento pecuario registrado con RUP debe realizar la declaración de existencia de animales (DEA) del establecimiento, mediante el Formulario de Declaración de Existencia de Animales (FDEA) disponible en cualquier oficina del Servicio o mediante funcionalidad electrónica del Sistema de Información Pecuaria oficial.
 
-5.1. La información declarada corresponderá a la dotación de animales, por especie y categoría, presente en el establecimiento.
+5.1. Para todo establecimiento, el titular debe realizar la DEA anualmente, en el período comprendido entre el 1° de agosto y el 30 de noviembre, ambos inclusive.
 
-5.2. El FDEA no constituye título de dominio o propiedad respecto a los animales declarados.
+5.2. Los datos contenidos en la DEA deben corresponder a la dotación de los animales presentes en el establecimiento al momento de realizar la declaración, detallados por especie y por categoría.
 
-5.3. La declaración de animales tendrá vigencia de un año a contar de la última declaración realizada.
+5.3. La DEA no constituye título de dominio o propiedad respecto a los animales declarados.
 
-5.4. Se exceptúan de declarar existencias todos aquellos recintos que concentren animales en forma temporal, tales como: mataderos, centros de faenamiento de autoconsumo, ferias, establecimientos que realicen eventos deportivos o recreacionales y controles fronterizos.
+5.4. Se exceptúan de realizar la DEA los mataderos, centros de faenamiento de autoconsumo, ferias ganaderas, controles fronterizos y establecimientos que sólo realizan eventos deportivos o recreacionales.
 
 6. Será responsabilidad del titular identificar a los animales existentes en el establecimiento, con el sistema de identificación que determine el Servicio según especie (DIIO o lote).
 
@@ -114,11 +120,13 @@ s) Trazabilidad de nacimiento: Estado que adquiere un animal cuando ha sido iden
 
 7.3. El DIIO no deberá ser reutilizado, alterado, adulterado, copiado, falsificado ni retirado durante toda la vida del animal. Cualquiera de los hechos anteriores hará perder la condición de trazable del animal, sin perjuicio de las sanciones correspondientes.
 
-8. Los mataderos y CFA no podrán recibir ni beneficiar ganado, sin que previamente hayan recepcionado el o los Formularios de Movimiento Animal, ya sea en su formato papel o en su funcionalidad electrónica, que comprueben la procedencia del ganado que será beneficiado.
+8. Los mataderos y CFA no podrán recibir ni beneficiar ganado, sin que previamente hayan recepcionado el o los Formularios de Movimiento Animal (FMA), ya sea en su formato papel o en su funcionalidad electrónica, que comprueben la procedencia del ganado que será beneficiado.
 
-8.1. Los mataderos y CFA deberán entregar al Servicio, el primer día hábil de la semana siguiente a la faena, el o los Formularios de Movimiento Animal recepcionados.
+8.1. Los mataderos y CFA deberán entregar a la Oficina SAG correspondiente a su jurisdicción, el primer día hábil de la semana siguiente a la faena, el o los FMA recepcionados. Sin perjuicio de lo anterior, estos establecimientos podrán conservar una copia digital o impresa de dichos FMA.
 
-8.2. En el caso de los animales beneficiados que tengan Dispositivo de Identificación Individual Oficial (DIIO), el matadero y CFA deberán realizar la verificación de la correspondencia de los números de cada DIIO respecto a lo registrado en el FMA. En caso de detectar irregularidades en la información contenida en el FMA, el matadero y CFA deberán registrar las diferencias en el recuadro "Observaciones" del mismo Formulario de Movimiento Animal, lo cual será verificado por el Servicio.
+8.2. En el caso de los animales beneficiados que tengan Dispositivo de Identificación Individual Oficial (DIIO), los mataderos y CFA deberán realizar la verificación de la correspondencia de los números de cada DIIO respecto a lo registrado en el FMA. En caso de detectar irregularidades en la información contenida en el FMA, los mataderos y CFA deberán registrar las diferencias en el recuadro 'Observaciones' del mismo FMA, lo que será verificado por el Servicio.
+
+8.3. Los mataderos y CFA deberán incorporar en sus registros de faena los folios del FMA asociados a cada lote de faena.
 
 9. Para apoyar la implementación del Programa Oficial de Trazabilidad Animal, el Servicio podrá establecer Convenios de Colaboración con las Instituciones que éste determine. Ambas partes involucradas establecerán de manera conjunta las actividades a ejecutar en el marco del Programa.
 
@@ -128,15 +136,15 @@ s) Trazabilidad de nacimiento: Estado que adquiere un animal cuando ha sido iden
 
 10.2. Cuando en un mismo medio de transporte se efectúen movimientos de animales desde distintos establecimientos de origen y hacia distintos establecimientos de destino, se deberá completar un FMA por cada uno de los movimientos.
 
-10.3. Las ferias no podrán recibir ni rematar animales sin que previamente hayan recepcionado el o los FMA, ya sea en su formato papel o en su funcionalidad electrónica.
+10.3. Las ferias no podrán recibir ni rematar animales, sin que previamente hayan recepcionados el o los FMA, ya sea en su formato papel o en su funcionalidad electrónica. Además, no podrán recibir ni rematar animales que no cuenten con DIIO, para aquellas especies en que esté establecida la identificación individual oficial.
 
-10.4. Las ferias de ganado tendrán la obligación de entregar a la Oficina del Servicio de su jurisdicción los FMA de procedencia del ganado vendido a más tardar el día siguiente a la transacción.
+10.4. Las ferias de ganado tendrán la obligación de entregar a la oficina del Servicio de su jurisdicción, los FMA de procedencia del ganado vendido, a más tardar el día hábil siguiente al día del remate. Sin perjuicio de lo anterior, las ferias podrán mantener una copia digital o impresa de los FMA recepcionados.
 
-11. Los titulares de medialunas o lugares de rodeo deberán verificar que los animales cuenten con el FMA a su ingreso y serán los responsables de entregar el FMA de salida una vez finalizado el evento. Para tal efecto, deberán solicitar al Servicio con, a lo menos, 15 días hábiles de anticipación a la realización del evento los FMA necesarios adjuntando la nómina de propietarios que aporten ganado o que participen en el rodeo.
+11. Los titulares de medialunas o lugares de rodeo, deberán verificar que los animales cuenten con el FMA a su ingreso y serán los responsables de entregar el FMA de salida una vez finalizado el evento. Para tal efecto, deberán solicitar al Servicio con, a lo menos 15 días de anticipación a la realización del evento, los FMA necesarios adjuntando la nómina de propietarios que aporten ganado o que participen en el rodeo.
 
-12. En el caso de establecimientos que se encuentren bajo restricciones de movimiento por aplicación de los Programas Oficiales del Servicio, se restringirá la entrega de FMA, salvo autorización del Servicio.
+11.1 Los animales que participen en estos eventos deberán encontrarse identificados con DIIO y registrados en el Sistema de Información Pecuaria oficial, para aquellas especies en que esté establecida la identificación individual oficial.
 
-13. Los formatos de Formularios de Movimiento Animal (FMA) deberán cumplir las siguientes especificaciones técnicas:
+12. Los formatos de Formularios de Movimiento Animal (FMA) deberán cumplir las siguientes especificaciones técnicas:
 
 a. El FMA formato papel deberá contener la siguiente información:
 
@@ -186,15 +194,23 @@ ix. Fecha de recepción en la Oficina del Servicio.
 
 c. Las Ferias podrán generar e imprimir el FMA de salida de dicho recinto desde sus sistemas informáticos, si cumplen con todas las especificaciones técnicas del FMA formato electrónico, descritas en la letra b) precedente.
 
-14. Sólo los titulares de establecimientos pecuarios inscritos en el Programa o su mandatario podrán solicitar el FMA en formato papel en las Oficinas del Servicio o en Carabineros. Para tal efecto, el solicitante deberá cumplir lo siguiente:
+13. Sólo los titulares de establecimientos pecuarios inscritos en el programa o su mandatario, podrán solicitar el FMA en formato papel en las oficinas del Servicio o en Carabineros.
 
-a. Presentar su cédula de identidad al momento de requerir el o los FMA.
+13.1. El titular o su mandatario deberá presentar su cédula de identidad al momento de requerir el o los FMA y firmar las colillas de recepción del FMA.
 
-b. Firmar la colilla de recepción del FMA, la que deberá ser conservada por la Institución que lo entrega, llevándose el original y las dos primeras copias.
+13.2. Sólo se entregará el FMA para establecimientos pecuarios que cuenten con la DEA vigente.
 
-15. Al momento de llevarse a efecto el movimiento animal, el titular del establecimiento o quién éste autorice deberá completar correctamente el FMA.
+13.3. Se entregará un máximo de cinco FMA por RUP. En caso de no retorno de estos al Servicio, sólo se realizará la entrega de un FMA por RUP.
 
-16. El FMA en formato papel será autocopiativo, en un original, dos copias y una colilla, debiendo ser distribuido de la siguiente manera:
+13.4. Cuando el titular requiera más de cinco FMA por RUP, deberá emitir FMA formato electrónico a través del Sistema de Información Pecuaria oficial.
+
+13.5. En caso de pérdida, destrucción o cualquier causa que provoque inhabilidad de los FMA, el titular deberá informar al Servicio los números de folio inhabilitados y las causas.
+
+13.6. Se restringirá la entrega de FMA a establecimientos que se encuentren bajo restricciones de movimiento de animales por aplicación de programas oficiales, salvo autorización de la Dirección Regional del Servicio respectiva.
+
+14. Al momento de llevarse a efecto el movimiento animal, el titular del establecimiento o quién éste autorice deberá completar correctamente el FMA.
+
+15. El FMA en formato papel será autocopiativo, en un original, dos copias y una colilla, debiendo ser distribuido de la siguiente manera:
 
 i. Original: Deberá ser entregado por el titular o mandatario del establecimiento de origen en la Oficina del Servicio correspondiente a su jurisdicción. El plazo de entrega será de un máximo de cinco días hábiles posteriores a la salida de los animales.
 
@@ -204,9 +220,9 @@ iii. Copia 2: Permanecerá en el establecimiento de origen.
 
 iv. Colilla de recepción FMA: Permanecerá en la Institución que entrega el formulario.
 
-17. En caso de utilizar el FMA formato electrónico, el movimiento quedará registrado automáticamente en el establecimiento de destino. El titular o mandatario tendrá un plazo de cinco días hábiles para rechazar o modificar el movimiento por vía electrónica; posterior a este plazo deberá acercarse a la Oficina del Servicio de su jurisdicción con la copia del FMA. Lo anterior, no aplicará a establecimientos de destino PABCO A, donde el titular o mandatario deberá aceptar, rechazar o modificar el movimiento vía electrónica. El FMA formato electrónico deberá ser impreso en duplicado, debiendo ser distribuido de la siguiente manera: una copia acompañará el transporte de los animales y deberá permanecer en el establecimiento de destino, y la otra permanecerá en el establecimiento de origen.
+16. En caso de utilizar el FMA formato electrónico, el movimiento quedará registrado automáticamente en el establecimiento de destino. El titular o mandatario tendrá un plazo de 5 días para rechazar o modificar el movimiento por vía electrónica; posterior a este plazo deberá concurrir a la oficina del Servicio de su jurisdicción con la copia del FMA. El FMA formato electrónico deberá ser impreso en duplicado, debiendo ser distribuido de la siguiente manera: una copia acompañará el transporte de los animales y deberá permanecer en el establecimiento de destino, y la otra permanecerá en el establecimiento de origen.
 
-18. Sin perjuicio de lo establecido en el Reglamento sobre Protección del Ganado, el transportista, durante todo el transporte, deberá cumplir con las siguientes obligaciones:
+17. Sin perjuicio de lo establecido en el Reglamento sobre Protección del Ganado, el transportista, durante todo el transporte, deberá cumplir con las siguientes obligaciones:
 
 a. Llevar consigo el FMA que señale la procedencia de los animales y entregarlo en el establecimiento de destino.
 
@@ -214,8 +230,8 @@ b. Verificar que los animales que transporta tengan aplicado el DIIO, según la 
 
 c. Registrar en el FMA en "Observaciones" la muerte, pérdida de animales o caídas de DIIO que se produzcan durante el transporte.
 
-19. Las infracciones a las normas del Programa Oficial de Trazabilidad Animal serán sancionadas según el DFL RRA Nº 16, de 1963, la Ley Nº 19.162 y la Ley Nº 18.755.
+18. Las infracciones a las normas del Programa Oficial de Trazabilidad Animal serán sancionadas según el DFL RRA Nº 16, de 1963, la Ley Nº 19.162 y la Ley Nº 18.755.
 
-20. Derógase la resolución Nº 1.546, de 2014, de este Servicio, que Actualiza el Programa Oficial de Trazabilidad Animal.
+19. Derógase la resolución Nº 1.546, de 2014, de este Servicio, que Actualiza el Programa Oficial de Trazabilidad Animal.
 
 Anótese, comuníquese y publíquese.- Óscar Humberto Camacho Inostroza, Director Nacional (S) Servicio Agrícola y Ganadero.
