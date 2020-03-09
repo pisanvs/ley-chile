@@ -1,0 +1,11 @@
+ACUERDO ADOPTADO POR EL CONSEJO DEL BANCO CENTRAL DE CHILE EN SU SESIÓN ORDINARIA Nº 2288
+
+Certifico que el Consejo del Banco Central de Chile, en su Sesión Ordinaria Nº 2288, celebrada el 5 de marzo de 2020, adoptó el siguiente Acuerdo:
+
+2288-01-200305 – Modifica Acuerdo N° 1456-02-090115 y el Capítulo 1.2 de la Primera Parte del Compendio de Normas Monetarias y Financieras del Banco Central de Chile.
+
+1. Dejar sin efecto lo dispuesto en el numeral II del Acuerdo de Consejo N° 1456-02-090115, que contempla la exigencia a los Corredores de Bolsa y Agentes de Valores que deseen participar en el Mercado Primario de instrumentos de deuda de títulos del Banco Central de Chile, de otorgar una boleta bancaria de garantía en favor de este, para caucionar el fiel cumplimiento de las obligaciones de pago o entrega que el respectivo intermediario de valores asuma con el Banco Central de Chile, en su carácter de participante autorizado de dicho Mercado Primario.
+
+2. Modificar el Capítulo 1.2 de la Primera Parte del Compendio de Normas Monetarias y Financieras del Banco Central de Chile, suprimiendo en la letra b) de los numerales 16, Letra A y 10, Letra B, ambos de su Sección I; y en el numeral 17, Letra A de su Sección II; el siguiente párrafo: "En todo caso, tratándose de corredores de bolsa o agentes de valores de que trata la Ley N° 18.045 de Mercado de Valores, y en el evento que la instrucción de transferencia de fondos antes referida no sea liquidada, se deja constancia que el Banco Central de Chile procederá a hacer efectiva la garantía que el respectivo agente hubiere constituido conforme al Numeral II del Acuerdo de Consejo N° 1456-02-090115, para responder del fiel cumplimiento de las obligaciones asumidas con el Instituto Emisor en carácter de participante autorizado del Mercado Primario, caución cuyo cobro se imputará, en esa circunstancia, a la avaluación anticipada de perjuicios prevista en este numeral.".
+
+Santiago, 5 de marzo de 2020.- Juan Pablo Araya Marco, Ministro de Fe.
