@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA, A LA "I. MUNICIPALIDAD DE PRIMAVERA"
+
+Mediante decreto exento Nº E-90, de 13 de febrero de 2020, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "I. Municipalidad de Primavera", RUT Nº 69.251.300-2, el inmueble fiscal que más adelante se singulariza, correspondiente al Lote Baz-1, ubicado en el Sector Bahía Azul, comuna de Primavera, provincia de Tierra del Fuego, Región de Magallanes y de la Antártica Chilena; enrolado en el Servicio de Impuestos Internos con el Nº 635-69; inscrito a favor del Fisco de Chile, a mayor cabida que rola a fojas 80 vta. Nº 104, en el Registro de Propiedad del Conservador de Bienes Raíces de Magallanes, correspondiente al año 1978; singularizado en el Plano 12302-1970-C.R.; con una superficie de 1,16 ha. La Concesión se otorga por un plazo de 10 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble para la ejecución y habilitación de un proyecto consistente en la construcción de infraestructura para equipamiento comunitario a fin de ampliar los servicios de información, seguridad y control de ingreso y salida a la Isla de Tierra del Fuego. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Francisca Navarro Barriga, Jefa División Jurídica.
