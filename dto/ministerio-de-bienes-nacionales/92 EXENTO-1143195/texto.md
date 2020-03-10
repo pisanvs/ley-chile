@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA DE INMUEBLE FISCAL EN LA REGIÓN DE TARAPACÁ, A "EMPRESA DE TRANSMISIÓN ELÉCTRICA TRANSEMEL S.A."
+
+Mediante decreto exento Nº E-92, de 13 de febrero de 2020, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa, a "Empresa de Transmisión Eléctrica Transemel S.A.", RUT Nº 96.893.220-9, el inmueble fiscal ubicado en Ruta A-616, Km. 8,5, a 5 km. de la ciudad de Iquique, Sector El Boro, comuna de Alto Hospicio, provincia de Iquique, Región de Tarapacá; enrolado en el Servicio de Impuestos Internos con el Nº 5393-3; amparado por inscripción global a nombre del Fisco a fs. 1071 Nº 1746, del Registro de Propiedad del Conservador de Bienes Raíces de Iquique, correspondiente al año 2011; singularizado en el Plano Nº 01107-3.580-C.U.; con una superficie de 30.567,65 m2. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública, de concesión. La renta concesional anual será de UF 880,35.-
+
+La Concesión se otorga para ejecutar en el inmueble concesionado un proyecto de la ampliación de la Subestación Eléctrica Cóndores de 220 kV, para la extensión de la barra principal existente y la instalación de una segunda sección de barra, de manera de permitir una configuración de interruptor y medio, dando cumplimiento a todos los requisitos técnicos que correspondan de acuerdo a las instrucciones del Ministerio de Energía y la Comisión Nacional de Energía. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Francisca Navarro Barriga, Jefa División Jurídica.
