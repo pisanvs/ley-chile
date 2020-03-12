@@ -80,7 +80,7 @@ El Consejo de Auditoría Interna General de Gobierno estará integrado por los s
 
 5) José Monsalve Assef.
 
-6) José Tomás Ruiz-Tagle.
+6) Carlos Ríos Canales.
 
 #### Artículo quinto
 
