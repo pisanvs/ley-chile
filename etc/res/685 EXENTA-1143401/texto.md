@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 685, de 24 de enero de 2020, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se aprueba programa de enseñanza para obtención de Licencia de Conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores y Servicios Rep-Car SpA", de propiedad de la sociedad del mismo nombre, RUT Nº 76.993.924-5, cuyo representante legal y director es el señor René Miguel Estobar Pinochet, RUT Nº 7.060.314-4, ubicada en Avenida Pedro de Valdivia Nº 1783, local E, comuna de Providencia. Horas pedagógicas autorizadas a la referida Escuela son ocho horas teóricas y catorce horas prácticas, con un total de veintidós horas pedagógicas.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
