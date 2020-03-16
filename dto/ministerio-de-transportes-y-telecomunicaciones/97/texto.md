@@ -26,6 +26,8 @@ Las Municipalidades que se autorice para otorgar licencias de conductor, de acue
 
 Los Departamentos de Tránsito y Transporte Público Municipales, practicarán a través de sus Gabinetes Técnicos los exámenes de los postulantes para verificar su idoneidad física y síquica y sus conocimientos teóricos y prácticos sobre conducción y legislación de tránsito.
 
+El municipio deberá proporcionar información oportuna a través de los distintos medios que el municipio utiliza, Web, electrónico, en papelería u otro, a los postulantes respecto del proceso administrativo del otorgamiento de licencias de conductor y características de los exámenes.
+
 #### Artículo 5°
 
 Los Gabinetes Técnicos Municipales, a través de su personal médico practicarán los exámenes necesarios para evaluar las condiciones físicas y síquicas del postulante.
@@ -245,6 +247,12 @@ El examen práctico tiene por objeto comprobar:
 - Su comportamiento y reacciones frente a los diversos factores que intervienen en el tránsito y su capacidad de adaptación a las contingencias de la circulación, con especial atención en las de seguridad.
 
 Tratándose de la evaluación de conocimientos prácticos de conducción para la obtención de la licencia de conductor No Profesional Clase B, el examen tendrá una duración mínima de 25 minutos, en los cuales el postulante deberá recorrer, a lo menos un trayecto de 5 kilómetros. Éste se estructurará en dos etapas de conducción, una primera etapa de conducción libre y otra de conducción guiada. Se entenderá por conducción libre, aquella que realiza el postulante en forma autónoma sin recibir instrucciones por parte del examinador dirigiéndose a algún punto determinado de común acuerdo con el examinador municipal. Esta etapa tendrá una duración entre 10 a 15 minutos. Se entenderá por conducción guiada, aquella que realiza el postulante siguiendo las indicaciones entregadas por el examinador para dirigirse a un destino previamente establecido. El municipio deberá definir puntos de origen y de destino dentro de los límites comunales entre los cuales se realizará el examen práctico, siendo éstos de público conocimiento.
+
+No obstante, tratándose de las evaluaciones de conocimientos prácticos de conducción para la obtención de la licencia de conductor no profesional Clase C y para la obtención de licencia de conductor no profesional Clase C, restringida para triciclos motorizados de carga, los exámenes estarán compuestos de dos etapas. En la primera etapa se evaluará el conocimiento y cumplimiento de las normas de seguridad asociadas a la conducción del vehículo cuya conducción permite dicha clase de licencia y la capacidad para desplazarlo con el motor apagado y estacionarlo sobre su soporte. En la segunda etapa se evaluará la posición correcta del postulante sobre el vehículo, su control del equilibrio, su capacidad de coordinar el uso de varios controles (acelerador, embrague y freno), según corresponda, y su habilidad de detenerse en un lugar determinado.
+
+El municipio deberá habilitar un recinto o espacio en la vía pública de uso exclusivo para la realización de estos exámenes durante la jornada destinada para ello, con el fin de disponer un circuito compuesto por diferentes maniobras que permitan evaluar los aspectos señalados anteriormente. Este recinto o espacio en la vía pública deberá contar con una superficie en buen estado, de asfalto u hormigón, con las condiciones de seguridad que permitan la realización de los exámenes. La superficie deberá tener una dimensión mínima de 70 metros de largo por 7 metros de ancho.
+
+Las características físicas del o los circuitos para la evaluación de los conocimientos prácticos de conducción para la obtención de la licencia de conductor no profesional Clase C y para la obtención de licencia de conductor no profesional Clase C restringida para triciclos motorizados de carga, a implementar por los municipios, serán definidas por la Subsecretaría de Transportes mediante resolución.
 
 El examen práctico de conducción debe rendirse en el tipo de vehículo a cuya conducción se opta.
 

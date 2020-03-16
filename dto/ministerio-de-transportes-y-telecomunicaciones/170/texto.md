@@ -12,7 +12,7 @@ Para el otorgamiento de licencias de conductor las Municipalidades deberán cump
 
 En la calificación de la idoneidad moral a que se refieren los artículos 13, Nº 1; 14 y 15 de la Ley de Tránsito, se deberán considerar las condenas que registren los postulantes a licencia, por las siguientes causas;
 
-1.- Por infracción a la ley 17.105, sobre Alcoholes, Bebidas Alcohólicas y Vinagres y a la ley 19.366, sobre Tráfico Ilícito de Estupefacientes y Sustancias Sicotrópicas;
+1.- Por infracción a la ley 17.105, sobre Alcoholes, Bebidas Alcohólicas y Vinagres y a la ley 20.000, sobre Tráfico Ilícito de Estupefacientes y Sustancias Sicotrópicas;
 
 2.- Por delitos o cuasidelitos para cuya perpetración se hubiere utilizado o conducido un vehículo;
 
@@ -648,6 +648,8 @@ El examen constará de 35 preguntas aleatorias, 3 de las cuales tendrán doble p
 
 A petición del interesado, el examen teórico para postular a una licencia de conductor Clase B podrá ser rendido en idioma inglés, rigiéndose éste por las normas de los incisos 7º y 8º anteriores.
 
+Si el interesado postula a una licencia de conductor Clase C para conducir triciclos motorizados de carga, deberá rendir un examen teórico simplificado, el cual contendrá 20 preguntas y se aprobará con un mínimo de 15 respuestas correctas; rigiéndose, además, por la norma del inciso 7° anterior.
+
 La puesta en marcha del examen teórico informatizado en los Gabinetes Técnicos Municipales deberá ser aprobada, mediante resolución, por el Secretario Regional Ministerial de Transportes y Telecomunicaciones competente, previa constatación de su funcionamiento.
 
 Las municipalidades deberán aplicar el examen teórico informatizado, en caso contrario, el Ministerio de Transportes y Telecomunicaciones deberá suspender la autorización para otorgar las licencias de conductor Profesional Clases A y Clases B y C de acuerdo al artículo 9º de la Ley de Tránsito.
@@ -664,65 +666,101 @@ En los exámenes prácticos de conducción establecidos por el Decreto Supremo N
 
 I.- Condiciones Generales
 
-A.- Para licencias Clase A1 y A2 obtenidas antes del 8 de marzo de 1997, y para licencia profesional Clase A1, A2, A3, A4 y A5
+A.- Para licencias Clase A1 y A2 obtenidas antes del 8 de marzo de 1997, y para las licencias profesionales Clase A1, A2, A3, A4 y A5:
 
-1.- Arranques reiterados con suavidad;
+1. Ingreso a la circulación.
 
-2.- Cambio de sentido en espacio limitado;
+2. Control de velocidad.
 
-3.- Estacionamiento en línea;
+3. Llegada a una intersección.
 
-4.- Salida de estacionamiento;
+4. Ingreso a una intersección.
 
-5.- Circulación por un pasillo estrecho;
+5. Cambio de pista.
 
-6.- Detención con suavidad;
+6. Uso de señalizadores.
 
-7.- Detención al borde de la cuneta.
+7. Viraje a la derecha sin semáforo.
 
-B.- Para la Licencia Clase C
+8. Viraje a la izquierda sin semáforo.
 
-1.- Zig-Zag entre conos;
+9. Separación con otros vehículos.
 
-2.- Describir en un espacio reducido curvas y contracurvas;
+10. Adelantamiento y sobrepaso.
 
-3.- Circular en una franja recta en espacio reducido;
+11. Viraje a la derecha con semáforo.
 
-4.- Describir una curva cerrada, y
+12. Viraje a la izquierda con semáforo.
 
-5.- Aceleración y frenado de emergencia.
+13. Arranques reiterados con suavidad.
 
-C.- Para licencias Clase A1 y A2 obtenidas antes del 8 de marzo de 1997; para licencia profesional Clase A1, A2, A3, A4 y A5, y licencia no profesional Clase C
+14. Cambio de sentido en espacio limitado.
 
-1.- Ingreso a la circulación;
+15. Detenciones.
 
-2.- Control de velocidad;
+a) Detención con suavidad.
 
-3.- Llegada a una intersección;
+b) Detención al borde de la cuneta.
 
-4.- Ingreso a una intersección;
+16. Estacionamiento en línea.
 
-5.- Cambio de pista;
+17. Salida de estacionamiento.
 
-6.- Usos de señalizadores;
+18. Circulación por un pasillo estrecho.
 
-7.- Viraje a la derecha sin semáforo;
+B.- Para la Licencia Clase C. El examen práctico de conducción destinado a la obtención de la licencia de conductor no profesional Clase C controlará, en dos etapas, las siguientes aptitudes del postulante para la conducción del vehículo que corresponda y de manera secuencial:
 
-8.- Viraje a la izquierda sin semáforo;
+Etapa 1: Maniobras y comprobaciones en vehículo con motor apagado:
 
-9.- Separación con otros vehículos;
+1.1. Identificación de documentos del vehículo;
 
-10.- Adelantamiento y sobrepaso;
+1.2. Uso correcto del casco;
 
-11.- Detenciones;
+1.3. Identificación y activación de luces, bocina, señalizadores y frenos;
 
-12.- Virajes a la derecha con semáforo, y
+1.4. Desplazamiento junto con el vehículo en línea recta;
 
-13.- Virajes a la izquierda con semáforo.
+1.5. Desplazamiento junto con el vehículo en curva, evitando un obstáculo;
+
+1.6. Desplazamiento junto con el vehículo en línea recta, y
+
+1.7. Estacionar el vehículo sobre su soporte.
+
+Etapa 2: Maniobras en vehículo con motor encendido:
+
+2.1. Zigzag entre conos;
+
+2.2. Desplazamiento en trayectoria curva formando figura de ocho;
+
+2.3. Describir curvas y contracurvas sucesivas;
+
+2.4. Circular en una franja recta en espacio reducido;
+
+2.5. Frenado progresivo y detención en lugar establecido;
+
+2.6. Circular en trayectoria recta evitando un obstáculo;
+
+2.7. Describir una curva cerrada;
+
+2.8. Circular en trayectoria recta, y
+
+2.9. Frenado progresivo y detención en lugar establecido.
+
+El postulante deberá realizar la totalidad de las maniobras Nºs 2.6, 2.7, 2.8 y 2.9, en un tiempo máximo de treinta y cinco segundos.
+
+Si el interesado desea obtener licencia de conductor Clase C, restringida para conducir triciclos motorizados de carga, deberá realizar la totalidad de las maniobras de la Etapa 1 y las maniobras Nºs. 2.1, 2.4 y 2.5 de la Etapa 2.
+
+La evaluación del examen práctico de conducción para obtener la licencia no profesional Clase C y para obtener la licencia de conductor no profesional Clase C para la conducción de triciclos motorizados de carga se realizará considerando los errores cometidos durante la conducción, los que se clasificarán en reprobatorios graves y leves, según se indica en el artículo 10 ter.
+
+El postulante deberá ser evaluado en todas y cada una de las maniobras, comprobaciones y etapas del examen, salvo en el caso que el postulante cometa un error reprobatorio. En caso que el postulante no realice una de las maniobras, comprobaciones o etapas, el examen deberá ser reanudado desde dicha maniobra, comprobación o etapa no realizada.
+
+Los exámenes prácticos de conducción establecidos por el decreto supremo Nº 97 de 1984, del Ministerio de Transportes y Telecomunicaciones, no podrán realizarse si el vehículo no cumple con los requisitos legales y reglamentarios que permitan su circulación de manera segura. De la misma manera, el examen no podrá realizarse si el postulante no cumple con las reglamentaciones respecto del uso de elementos de seguridad no provistos por el vehículo. En estos casos, el examen deberá ser postergado hasta que sea posible acreditar el cumplimiento de los requisitos antes mencionados.
+
+C.- Eliminada.
 
 II.- Conductas
 
-Para licencias Clase A1 y A2 obtenidas antes del 8 de marzo de 1997; para licencia profesional Clase A1, A2, A3, A4 y A5, y licencia no profesional Clase C
+Para licencias Clase A1 y A2 obtenidas antes del 8 de marzo de 1997; para licencia profesional Clase A1, A2, A3, A4 y A5,
 
 1.- Comportamiento ante semáforo;
 
@@ -758,7 +796,7 @@ En el caso de postulantes a licencia especial Clase F, los conocimientos prácti
 
 El examen práctico de conducción Clase B evaluará las aptitudes del postulante para la conducción de un vehículo motorizado, considerando los errores cometidos en la conducción, los que se clasifican en reprobatorios, graves y leves según se indica en el artículo 10º bis.
 
-En ningún caso, el municipio, al definir el recorrido, podrá dejar de considerar las circunstancias que permitan evaluar el comportamiento del postulante ante un cruce peatonal, señal Pare, señal Ceda el Paso, semáforo y sus habilidades para estacionar.
+El municipio, al definir el recorrido para el examen práctico conducente a obtener la licencia de conductor, ya sea que se trate de una licencia profesional como no profesional deberá considerar las circunstancias que permitan evaluar el comportamiento del postulante ante un cruce peatonal, señal Pare, señal Ceda el Paso, semáforo y las habilidades para estacionar en forma longitudinal, transversal (aculatado) o en diagonal, en un lugar habilitado y con espacio suficiente para ejecutar la maniobra.
 
 #### Artículo 10°
 
@@ -771,8 +809,6 @@ maniobras correctas
 A1 otorgada antes del 8 de marzo de 1997 25 de 30
 
 A2 otorgada antes del 8 de marzo de 1997 24 de 30
-
-No Profesional C 21 de 28
 
 Clase de Licencia Profesional Nº mínimo de
 
@@ -816,91 +852,171 @@ Son errores leves:
 
 5. Iniciar marcha con la puerta abierta o mal cerrada.
 
-6. Subir, forzar o golpear fuertemente la cuneta al cambiar de pista.
+6. No dejar de señalizar una vez efectuado el cambio de pista.
 
-7. No dejar de señalizar una vez efectuado el cambio de pista.
+7. No señalizar virajes, incorporaciones a la circulación, salidas de la circulación o señalizarlas erróneamente.
 
-8. No señalizar virajes, incorporaciones a la circulación, salidas de la circulación o señalizarlas erróneamente.
+8. No dejar de señalizar una vez efectuado un viraje, una incorporación o una salida de la circulación.
 
-9. No dejar de señalizar una vez efectuado un viraje o una incorporación a la circulación.
+9. Subir a la cuneta o solera con alguna de las ruedas al virar.
 
-10. Subir a la cuneta con alguna de las ruedas al virar.
+10. Estacionar dejando una separación respecto a la cuneta mayor a 30 cm y/o una distancia inferior a 60 cm entre vehículos.
 
-11. Estacionar dejando una separación respecto a la cuneta mayor a 30 cm y/o una distancia inferior a 60 cm entre vehículos.
+11. No activar freno de estacionamiento luego de finalizar el estacionamiento.
 
-12. Detener o estacionar el vehículo en doble fila.
+12. Subir, forzar o golpear fuertemente la cuneta o solera al estacionar.
 
-13. No activar freno de estacionamiento luego de finalizar el estacionamiento.
+13. No respetar líneas de pistas, bordes de calzada, líneas de detención demarcadas o imaginarias y achurados.
 
-14. Subir, forzar o golpear fuertemente la cuneta al estacionar.
+14. Circular en una relación de marcha no adecuada en función de la velocidad, el vehículo y las circunstancias del tránsito y la vía o circular con la caja de cambios en posición neutra.
 
-15. No señalizar un viraje en U o señalizarlo erróneamente.
+15. Utilizar bocina sin motivo justificado o donde su uso esté prohibido.
 
-16. No respetar líneas de pistas, bordes de calzada, líneas de detención demarcadas o imaginarias y achurados.
+16. No identificar los mandos del vehículo (limpiaparabrisas, luces, bocina).
 
-17. Circular en una relación de marcha no adecuada en función de la velocidad, el vehículo y las circunstancias del tráfico y la vía.
+17. Conducir de forma brusca o a saltos.
 
-18. Utilizar bocina sin motivo justificado.
+18. No observar el tráfico durante el examen.
 
-19. No identificar los mandos del vehículo (limpiaparabrisas, luces, bocina).
+19. No controlar el vehículo en vías con inclinación.
 
-20. Conducir de forma brusca o a saltos.
+20. Detención del motor del vehículo durante la conducción por mal uso de embrague, freno, acelerador, sin obstaculizar el tránsito de otros usuarios de las vías.
 
-21. No observar el tráfico durante el examen.
+21. No identificar los elementos de seguridad del vehículo: chaleco reflectante, extintor, triángulo reflectante y neumático de repuesto.
+
+22. No detener el motor luego de finalizar el estacionamiento.
+
+23. Realizar maniobra de retroceso donde no esté permitido.
+
+24. Mantener pedal del embrague accionado mientras su uso no sea necesario.
+
+25. Posicionarse incorrectamente sobre la calzada.
+
+26. En una vía inclinada, no estacionar el vehículo con las ruedas delanteras giradas hacia la cuneta o la calzada, según se trate de bajada o subida, respectivamente.
 
 Son errores graves:
 
-1. Realizar incorporación a la circulación, viraje o cambio de pista obstaculizando a los demás usuarios que cuentan con prioridad, sin generar riesgo de accidente.
+1. Realizar incorporación a la circulación, salida de la circulación, viraje o cambio de pista obstaculizando a los demás usuarios que cuentan con prioridad, sin generar riesgo de accidente.
 
-2. Cambiar sorpresivamente de pista obstruyendo la circulación.
+2. No señalizar al cambiarse de pista o señalizar erróneamente.
 
-3. No señalizar al cambiarse de pista o señalizar erróneamente.
+3. Sobrepasar o adelantar en paso de peatones y cruces no regulados.
 
-4. Sobrepasar o adelantar en paso de peatones y cruces no regulados.
+4. Adelantar generando riesgo para los vehículos que transitan en sentido contrario.
 
-5. Adelantar generando riesgo para los vehículos que transitan en sentido contrario.
+5. Ingresar a una intersección sin tener el espacio suficiente para no bloquear el cruce.
 
-6. Ingresar a intersección sin tener el espacio suficiente, obstaculizando el tránsito de otros vehículos y peatones.
+6. Abrir la puerta y descender del vehículo sin observar.
 
-7. Abrir la puerta y descender del vehículo sin observar.
+7. No respetar señal de prioridad "Ceda el Paso".
 
-8. No respetar señal de prioridad "Ceda el Paso" (vertical o demarcación).
+8. No respetar señales de prohibición, restricción y obligación.
 
-9. No respetar señales de prohibición, restricción y obligación.
+9. Circular sin encender luces correspondientes cuando su uso sea obligatorio o necesario.
 
-10. Sobrepasar sostenidamente el eje central de la calzada, generando riesgo para los otros usuarios de la vía.
+10. Confundir: embrague, freno, acelerador, según corresponda.
 
-11. Circular sin encender luces correspondientes cuando su uso sea obligatorio o necesario.
+11. Soltar momentáneamente las dos manos del volante o conducir con una mano en el volante, excepto cuando sea necesario para realizar alguna acción propia de la conducción.
 
-12. Confundir pedales: embrague, freno, acelerador.
+12. Conducir el vehículo contra el sentido del tránsito.
 
-13. Soltar momentáneamente las dos manos del volante, siempre que no exista pérdida de dominio.
+13. Circular sin mantener una distancia razonable y prudente respecto de otros usuarios de las vías.
 
-14. Conducir el vehículo contra el sentido del tránsito.
+14. No respetar el derecho preferente de paso de peatones, ciclistas y otros vehículos.
 
-15. Circular sin mantener una distancia razonable y prudente respecto de otros usuarios de las vías.
+15. Detener o estacionar el vehículo donde no esté permitido.
 
-16. Manipular elementos electrónicos y/o la radio del vehículo durante el examen.
+16. Detención del motor del vehículo durante la conducción por mal uso de embrague, freno, acelerador, obstaculizando el tránsito de otros usuarios de las vías.
 
-17. No respetar el derecho preferente de paso de peatones, ciclistas y otros vehículos.
+17. Adelantar en zonas donde no esté permitida esta maniobra.
+
+18. Conducir a una velocidad que interfiere con el tránsito normal de otros vehículos.
+
+19. Demorar más de tres minutos en ejecutar la maniobra de estacionamiento.
+
+20. Mojar a peatones o ciclistas.
+
+21. Realizar viraje desde una pista en la que no esté permitido este movimiento.
 
 Son errores reprobatorios:
 
-1. No usar cinturón de seguridad (conductor y pasajeros).
+1. No usar cinturón de seguridad (conductor y pasajeros). Poner en movimiento el vehículo sin que todos los ocupantes de éste utilicen el cinturón de seguridad correctamente.
 
-2. Realizar incorporación a la vía, viraje o cambio de pista obligando a que los usuarios con prioridad modifiquen su trayectoria, generando riesgo de accidente.
+2. Realizar incorporación a la circulación, salida de la circulación, viraje o cambio de pista obligando a que los usuarios con prioridad modifiquen su trayectoria, generando riesgo de accidente.
 
-3. Sobrepasar por la berma.
+3. No detenerse ante una luz roja o señal de prioridad "Pare".
 
-4. No detenerse ante una luz roja o señal de prioridad "Pare".
+4. Golpear con el vehículo a personas, animales, vehículos u otros elementos.
 
-5. Golpear a personas, animales, vehículos u otros elementos.
+5. Sobrepasar la velocidad máxima permitida en la vía.
 
-6. Perder el control del vehículo.
+6. Desobedecer las señales u órdenes de tránsito de un integrante de Carabineros.
 
-7. Sobrepasar la velocidad máxima permitida en la vía.
+7. Manipular elementos electrónicos como teléfonos celulares, dispositivos de geolocalización, radio, y otros similares que generen distracción al postulante a conductor durante el examen.
 
-8. Desobedecer las señales u órdenes de tránsito de un integrante de Carabineros.
+#### Artículo 10º ter
+
+Para la obtención de la licencia de conductor No Profesional Clase C será causal de reprobación del examen práctico de conducción el incurrir o acumular, durante el desarrollo del examen, errores de acuerdo al siguiente criterio:
+
+- Incurrir en un error reprobatorio. En este caso se dará por finalizado el examen sin necesidad de cumplir con las maniobras del circuito restantes;
+
+- Acumular dos errores graves o más;
+
+- Acumular seis errores leves o más;
+
+- Acumular un error grave y a lo menos tres errores leves.
+
+Son errores leves:
+
+1. No identificar correctamente los documentos obligatorios para el tránsito de un vehículo, señalados en los artículos 51 y 89 del decreto con fuerza de ley Nº 1, de 2007, de Transportes y Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito.
+
+2. No ser capaz de colocar el vehículo que se permita conducir con licencia Clase C no restringida o restringida, según corresponda, sobre el soporte o dejarla caer al intentarlo.
+
+3. No ajustar espejos retrovisores antes de iniciar por primera vez la conducción del examen.
+
+4. Insistir en la puesta en marcha con el motor encendido.
+
+5. No adoptar la postura correcta en el vehículo.
+
+6. Topar, botar o mover un elemento señalizador del circuito de su posición original.
+
+7. Apoyar uno o ambos pies en el suelo durante la conducción.
+
+8. No seguir la trayectoria establecida en el circuito.
+
+9. Sobrepasar en no más de cinco segundos el tiempo establecido para las maniobras 2.6, 2.7, 2.8 y 2.9 de la etapa 2.
+
+10. Detención del motor durante la conducción por mal manejo de los controles del vehículo (embrague, freno, acelerador).
+
+11. Detenerse posicionando la rueda delantera del vehículo que se permita conducir con licencia Clase C no restringida o restringida, según corresponda, a uno o más metros antes del lugar establecido para ello en el circuito.
+
+Son errores graves:
+
+1. No identificar los mandos del vehículo: luces, señalizadores y bocina.
+
+2. Caída del postulante y/o del vehículo en etapa 1.
+
+3. No recoger el soporte del vehículo al iniciar la marcha en la primera conducción del examen.
+
+4. Circular sin encender las luces correspondientes.
+
+5. Sobrepasar en más de cinco segundos y no más de diez segundos, el tiempo establecido para las maniobras 2.6, 2.7, 2.8 y 2.9 de la etapa 2.
+
+6. Soltar momentáneamente una o ambas manos del manillar (manubrio).
+
+Son errores reprobatorios:
+
+1. No usar el casco o no abrocharlo o ajustarlo incorrectamente.
+
+2. Caída del postulante y/o del vehículo en etapa 2.
+
+3. No detenerse o hacerlo posicionando la rueda delantera del vehículo a más de 50 centímetros del lugar establecido para ello en el circuito.
+
+4. Sobrepasar en más de diez segundos el tiempo establecido para las maniobras 2.6, 2.7, 2.8 y 2.9 de la etapa 2.
+
+5. Golpear a personas, animales o a otros vehículos con el vehículo.
+
+6. Manipular elementos electrónicos como teléfonos celulares, dispositivos de geolocalización y otros similares que generen distracción al postulante a conductor durante el examen.
 
 #### Artículo 11°
 
@@ -908,13 +1024,15 @@ Para calificarse los requisitos a que se refiere el artículo 13, de la Ley de T
 
 Además de las causales de los artículos 13, 14 y 14 bis. de dicha Ley, no se concederá licencia a quien no acredite, mediante los exámenes referidos, su idoneidad física y síquica y los conocimientos teóricos y prácticos repectivos.
 
-No obstante, antes de resolverse en definitiva sobre la concesión de la licencia requerida, el médico podrá reexaminar por una vez mas al postulante rechazado en un primer examen, en un plazo que determinará. Por su parte, el interesado podrá repetir por una vez, en su caso, sus exámenes teórico y práctico, en un plazo no superior a veinticinco días del primero.
+No obstante, antes de resolverse en definitiva sobre la concesión de la licencia requerida, el médico podrá reexaminar por una vez mas al postulante rechazado en un primer examen, en un plazo que determinará. Por su parte, el interesado podrá repetir por una vez, en su caso, sus exámenes teórico y práctico, en un plazo no superior a veinticinco días hábiles del primero. El proceso antes señalado resultará también aplicable cada vez que se presente una nueva solicitud luego de haberse denegado la concesión de la licencia por causas susceptibles de ser solucionadas, según los términos dispuestos en el artículo 17 del decreto con fuerza de ley Nº 1, de 2007, de Transportes y Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito.
 
 Siempre deberán realizarse todos los exámenes correspondientes para las evaluaciones físicas y síquicas, no obstante haber sido reprobado el postulante en alguna de ellas.
 
 Los exámenes teóricos serán eliminatorios y, por consiguiente, los postulantes reprobados no serán admitidos al examen práctico. Asimismo, quienes no sean aprobados en los exámenes físico-síquico no serán admitidos al examen práctico.
 
-Pasados los plazos de reexamen sin la concurrencia del postulante o si persiste la reprobación, deberá denegarse la concesión de licencia.
+Durante la realización de los exámenes que verifican idoneidad física y síquica y conocimientos teóricos y prácticos, no se permitirá la utilización de teléfonos móviles o cualquier otro sistema de intercomunicación, ni la de equipos, aparatos, o sistemas de captación, grabación, recepción o transmisión de datos o información, ni de manuales ni documentos impresos.
+
+Pasados los plazos de reexamen sin la concurrencia del postulante, si persiste la reprobación o si el postulante incumple lo establecido en el inciso anterior, deberá denegarse la concesión de licencia.
 
 #### Artículo 12°
 
@@ -924,13 +1042,13 @@ a. Estar en posesión de la licencia de conductor Clase A1 o A2 obtenidas antes 
 
 b. Acreditar Cuarto Año de Enseñanza Media, o su equivalente;
 
-c. Haber efectuado un programa de capacitación en materia de normativa y seguridad de tránsito de a lo menos, 45 horas cronológicas y uno de mecánica automotriz básica de al menos 10 horas cronológicas; impartidos por un organismo de capacitación debidamente reconocido por el Estado, y
+c. Haber aprobado un programa de capacitación en materia de normativa y seguridad de tránsito de a lo menos, 45 horas cronológicas y uno de mecánica automotriz básica de al menos 10 horas cronológicas; impartidos por un organismo de capacitación debidamente reconocido por el Estado, y
 
 d. Acreditar la aprobación de un curso de formación de examinadores, de a lo menos 60 horas cronológicas, impartido por un organismo de capacitación debidamente reconocido por el Estado.
 
 Sin perjuicio de lo anteriormente señalado, los funcionarios municipales que evalúen los conocimientos prácticos de conducción deberán acreditar, cada 5 años, participación en cursos de capacitación que digan relación con materia de seguridad vial y transporte.
 
-Los funcionarios municipales que practiquen los exámenes teóricos, deberán cumplir las condiciones establecidas en las letras b) y c) precedentes.
+Los funcionarios municipales que practiquen los exámenes teóricos, deberán cumplir la condición establecida en la letra b) precedente.
 
 #### Artículo 13°
 
