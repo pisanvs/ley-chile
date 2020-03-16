@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 9, de 06 de febrero de 2020, se desistió de la expropiación del lote Nº9, expropiado mediante Decreto MOP. (Exento) Nº 3169, de 04 de diciembre de 2012, para la obra: "Mejoramiento Canal de Prolongación D'Agostini Punta Arenas, Comuna de Punta Arenas, Región de Magallanes y de la Antártica Chilena", por cuanto, dicho lote fue eliminado por Resolución Expropiaciones Fiscalía (Exenta) Nº7, de 21 de enero de 2020, por no ser necesaria la expropiación.
