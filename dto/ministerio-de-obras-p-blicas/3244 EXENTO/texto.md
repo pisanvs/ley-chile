@@ -64,6 +64,8 @@ Arica:
 
 . El tramo urbano de la Ruta A-27, desde Rotonda Adolfo Arenas hasta el límite urbano Oriente; a través de Senador Humberto Palza.
 
+. El sistema vial urbano que interconecta las Rutas 5 y A-27, dentro de los límites urbanos, a través de calle El Tranque, atravieso Río San José y calle Guillermo Sánchez.
+
 4º Las calles o avenidas declaradas caminos públicos en el presente decreto, sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Laurence Golborne Riveros, Ministro de Obras Públicas.
