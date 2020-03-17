@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LAS ACTIVIDADES DE "OPERARIO DE FUNDICIÓN" Y "ALBAÑIL OFICIAL REFRACTARIO FUNDICIÓN", DESARROLLADA PARA EL EMPLEADOR "CODELCO CHILE DIVISIÓN EL TENIENTE"
+
+Por resolución exenta Nº 75, de 28 de febrero de 2020, el Director Nacional (S) del Instituto de Previsión Social, aprobó solicitud presentada por don Luis Miguel Moreno Cantillana, para calificar como Trabajo Pesado la labor de "Operario de Fundición" y "Albañil Oficial Refractario Fundición", desempeñadas para el empleador "Codelco Chile División El Teniente", e incorpórense al Listado Oficial de Actividades e Industrias Diversas calificadas como Trabajo Pesado, correspondiendo aplicar una rebaja de edad de 2x5 (dos por cada cinco años de labores pesadas), beneficio que le permite impetrar su jubilación por vejez, con rebaja en la edad.-
+
+Pedro Bahamondes Yáñez.
