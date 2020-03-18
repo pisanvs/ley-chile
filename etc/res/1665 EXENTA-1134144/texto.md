@@ -38,7 +38,73 @@ Resolución:
 
 2. Los plazos correspondientes a los procesos y fases de postulación y selección de este llamado, serán los siguientes:
 
-.
+Hitos Responsable Fecha inicial Fecha final
+
+del proceso
+
+Definición SEREMI Publicación 28-08-2019
+
+de factores MINVU Llamado
+
+regionales
+
+de selección
+
+Certifica- SEREMI Publicación 28-08-2019
+
+ción de MINVU Llamado
+
+Condominios
+
+Económicos
+
+Digitación EP 29-08-2019 11-09-2019
+
+de las pos-
+
+tulaciones
+
+Habilita- SERVIU- 12-09-2019 11-10-2019
+
+ción de las SEREMI
+
+postulacio- MINVU
+
+nes
+
+Comunica- SEREMI 14-10-2019 16-10-2019
+
+ción de MINVU
+
+resultados
+
+etapa de
+
+Habilita-
+
+ción
+
+Presenta- EP 17-10-2019 18-10-2019
+
+ción de
+
+los
+
+Proyectos
+
+Revisión y SERVIU 21-10-2019 17-01-2020
+
+Califica-
+
+ción de los
+
+Proyectos
+
+Selección MINVU Fecha de 31-03-2020
+
+de benefi- Calificación
+
+ciarios de Proyectos
 
 3. La condición de Condominio objeto de atención del programa, será acreditada por la Seremi Minvu correspondiente, en atención a los requisitos señalados en el artículo 89, numeral 2, del DS Nº 27 (V. y U.), de 2016.
 
@@ -90,19 +156,21 @@ Los factores regionales de selección, correspondientes al 40% de la ponderació
 
 Regiones Monto (UF)
 
-Antofagasta 15.000
+Antofagasta 16.752,98
 
-Valparaíso 40.000
+Valparaíso 45.130,86
 
-Los Ríos 11.500
+Región Metropolitana 121.914,32
 
-Región Metropolitana 143.417
+Los Ríos 12.172,86
 
-Total 209.917
+Total 195.971,02
 
 La Subsecretaría de Vivienda y Urbanismo, mediante resoluciones, podrá reasignar estos recursos entre regiones a fin de garantizar la completa asignación de los subsidios del presente llamado.
 
 10. Los subsidios que se otorguen conforme al presente llamado, se imputarán a los recursos dispuestos en 2019 para las regiones de Antofagasta, Atacama, Valparaíso, Los Ríos y Región Metropolitana, en el Programa de Mejoramiento de Viviendas y Barrios, regulado por el DS N° 27 (V. y U.), de 2016.
+
+> **Nota.** La letra a) del numeral 1 de la Resolución 433 Exenta, Vivienda, publicada el 18.03.2020, modifica la presente norma en el sentido de revocar a contar de la fecha de la citada norma, la facultad delegada a los Secretarios Regionales Ministeriales de Vivienda y Urbanismo.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Guillermo Rolando Vicente, Ministro de Vivienda y Urbanismo Subrogante.
 
