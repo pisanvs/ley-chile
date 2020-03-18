@@ -116,4 +116,30 @@ Publíquese en el Diario Oficial, comuníquese por medio de un aviso en un lugar
 
 Para constancia se levanta acta que firman los señores Ministros y la Secretaria suplente que autoriza.
 
+V.- Vista de causas a través de sistema de videoconferencia
+
+Vigesimosexto.- El Tribunal podrá realizar audiencias a través de un sistema de videoconferencia con la finalidad de dar continuidad al deber constitucional de resolver las causas puestas a su conocimiento, debiendo velar, en todo momento, por la vigencia de los derechos y garantías procesales de los litigantes.
+
+Los alegatos desarrollados por videoconferencia tienen por finalidad conectar directamente, con el Pleno o la respectiva Sala, al abogado que se encuentra imposibilitado de asistir físicamente a la audiencia en que se efectúe la vista de la causa, habiendo manifestado previamente su voluntad de comparecer a través de este medio oportunamente.
+
+Vigesimoséptimo.- La Secretaría del Tribunal, a través de la Unidad de Informática, habilitará un sistema comunicacional idóneo que permita a la Sala o al Pleno conocer en su integridad el alegato que será desarrollado a través de este medio, debiendo realizar la coordinación necesaria con el Tribunal en el que se realizará la comparecencia efectiva del abogado, privilegiándose, conforme a la disponibilidad y factibilidad técnica, que éste se desarrolle en alguna de las Cortes de Apelaciones del país.
+
+Vigesimoctavo.- Con el propósito de hacer efectivo este derecho, la parte deberá solicitarlo por escrito con una anticipación de cuarenta y ocho horas respecto de la hora de inicio de la sesión en que se realizará la vista de la causa, solicitud que deberá ser resuelta por el Presidente del Tribunal o de la Sala respectiva, derivando su concreción, de aceptarse la petición, a la Secretaría, a través de la Unidad de Informática.
+
+La resolución que se pronuncie a este respecto, deberá notificarse el día anterior a la vista de la causa.
+
+Cuando una parte solicite para sí participar en una vista de causa mediante videoconferencia, la otra parte no podrá oponerse a dicha forma de comparecencia.
+
+El Tribunal no podrá obligar a las partes a participar de un alegato o audiencia mediante videoconferencia.
+
+Vigesimonoveno.- La aplicación de las disposiciones contenidas en este Título dependerá de las condiciones técnicas y materiales disponibles en el territorio en que se encuentra físicamente el litigante que ha solicitado alegar mediante videoconferencia.
+
+Sin perjuicio de lo anterior, y en casos fundados que así lo requieran, el Tribunal podrá utilizar mecanismos alternativos que garanticen la comunicación con las partes litigantes y el registro de la audiencia. La solicitud que se formule será resuelta por el Presidente del Tribunal o de la Sala, según corresponda, y deberá presentarse con una anticipación mínima de cuarenta y ocho horas al día y hora agendado para la celebración de la audiencia.
+
+Trigésimo.- Un ministro de fe del Tribunal desde donde se encuentre la parte que participa a través de videoconferencia acreditará su identidad, lo que comunicará, previo al inicio del alegato, al Relator de la causa.
+
+Trigesimoprimero.- Continuará rigiendo respecto del abogado que solicite alegar por sistema de videoconferencia el anuncio ante el Relator de la causa, ya sea de forma verbal, por escrito, en los términos señalados en la disposición decimotercera de este auto acordado, o a través de cualquier mecanismo que le permita al Relator tomar conocimiento de la voluntad de la parte de hacer ejercicio de este derecho.
+
+Trigesimosegundo.- El Presidente del Tribunal resolverá las incidencias que se presenten en la implementación y desarrollo de la vista de causas con alegatos por videoconferencia, en lo no regulado en este Título.
+
 Marcelo Venegas P. (Presidente), Juan Colombo C., Raúl Bertelsen R., Hernán Vodanovic S., Mario Fernández B., Marisol Peña T., Enrique Navarro B., Francisco Fernández F., Carlos Carmona S. y Marta de la Fuente O. (Secretario suplente).
