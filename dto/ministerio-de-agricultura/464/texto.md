@@ -556,7 +556,7 @@ Para utilizar en las etiquetas las menciones a que se refiere el artículo 2° d
 
 #### Artículo 13°
 
-El Director Nacional del Servicio Agrícola y Ganadero podrá celebrar convenios, de acuerdo a lo dispuesto en el decreto supremo N° 138, de 1986, del Ministerio de Agricultura, con personas jurídicas del sector público o privado para que, a través de sus laboratorios, puedan efectuar las acciones de certificación de vinos con denominación de origen, las que se denominarán empresas certificadoras autorizadas.
+El Director Nacional del Servicio Agrícola y Ganadero podrá celebrar convenios, de acuerdo a lo dispuesto en el decreto supremo Nº 138, de 1986, del Ministerio de Agricultura, con personas jurídicas del sector público o privado para que, a través de sus laboratorios, puedan efectuar las acciones de certificación de vinos señalados en el artículo 2º del presente reglamento, las que se denominarán empresas certificadoras autorizadas.
 
 #### Artículo 14°
 
@@ -568,7 +568,9 @@ b) Verificar y certificar todo lo que diga relación con cepajes, año de cosech
 
 c) Verificar y certificar todo lo relacionado con la expresión "Embotellado en Origen", tanto de viñas como de cooperativas adscritas al sistema.
 
-d) Llevar un registro de las viñas y cooperativas vitivinícolas que suscriban convenio con la empresa certificadora autorizada, respecto de lo indicado en las letras a), b) y c) precedentes.
+d) Verificar y certificar todo lo relacionado con vinos elaborados con uva de mesa.
+
+e) Llevar un registro de las viñas y cooperativas vitivinícolas que suscriban convenio con la empresa certificadora autorizada, respecto de lo indicado en las letras a), b), c) y d) precedentes.
 
 #### Artículo 15°
 
