@@ -36,209 +36,201 @@ Decreto:
 
 Declárase estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio chileno por un plazo de 90 días desde la publicación del presente decreto en el Diario Oficial, de conformidad a lo dispuesto en el artículo 8º de la ley 18.415.
 
-> **Nota.** El artículo primero del Decreto 269, Interior, publicado el 16.06.2020, prorroga el estado de excepción constitucional de catástrofe, por calamidad pública, declarado en el territorio chileno por la presente norma, y sus modificaciones, por un plazo adicional de 90 días, a contar del vencimiento del período previsto en el presente acto administrativo.
-
-> **Nota.** NOTA 1 El artículo primero del Decreto 400, Interior, publicado el 12.09.2020, prorroga el estado de excepción constitucional de catástrofe, por calamidad pública, declarado en el territorio chileno por la presente norma, y sus modificaciones, por un plazo adicional de 90 días, a contar del vencimiento del periodo previsto en el decreto supremo 269, Interior, publicado el 16.06.2020.
-
-> **Nota.** NOTA 2 El artículo primero del Decreto 646, Interior, publicado el 12.12.2020, prorroga el estado de excepción constitucional de catástrofe, por calamidad pública, declarado en el territorio chileno por la presente norma, y sus modificaciones, por un plazo adicional de 90 días, a contar del vencimiento del periodo previsto en el decreto supremo 400, Interior, publicado el 16.06.2020.
-
-> **Nota.** NOTA 3 El artículo primero del Decreto 72, Interior, publicado el 13.03.2021, prorroga el estado de excepción constitucional de catástrofe, por calamidad pública, declarado en el territorio chileno por la presente norma, y sus modificaciones, hasta el 30 de junio de 2021, a contar del vencimiento del período previsto en el decreto supremo Nº 646, Interior, publicado el 12.12.2020, de conformidad a la aprobación comunicada por Of. Nº 16.344, de 11 de marzo de 2021, de la H. Cámara de Diputados, en los términos señalados.
-
 #### Artículo segundo
 
 Desígnanse como Jefes de la Defensa Nacional a los miembros de las Fuerzas Armadas que se indican a continuación:
 
 REGIÓN DE ARICA Y PARINACOTA
 
-Institución : Ejército
+Institución Ejército
 
-Grado : General de Brigada
+Grado General de Brigada
 
-Apellidos : Altamirano Campos
+Apellidos CUELLAR Loyola
 
-Nombre : Guillermo Yury
+Nombre Luis
 
-RUN : 11.535.151-6
+RUN 11.565.532-9
 
 REGIÓN DE TARAPACÁ
 
-Institución : Armada
+Institución Ejército
 
-Grado : Vicealmirante
+Grado General de División
 
-Apellidos : Marcic Conley
+Apellidos PAIVA Hernández
 
-Nombre : Yerko Iván
+Nombre Guillermo
 
-RUN : 8.882.710-4
+RUN 9.618.180-9
 
 REGIÓN DE ANTOFAGASTA
 
-Institución : Fuerza Aérea
+Institución Fuerza Aérea
 
-Grado : General de Brigada Aérea (A)
+Grado General de Brigada Aérea (A)
 
-Apellidos : Nadeau Pavéz
+Apellidos AGUIRRE Gamboa
 
-Nombre : Pedro Andrés
+Nombre José
 
-RUN : 11.472.471-8
+RUN 8.469.860-1
 
 REGIÓN DE ATACAMA
 
-Institución : Ejército
+Institución Ejército
 
-Grado : Coronel
+Grado General de Brigada
 
-Apellidos : Salgado Bahamondes
+Apellidos HEYERMANN Ríos
 
-Nombre : Álvaro Mauricio
+Nombre Enrique
 
-RUN : 10.283.459-3
+RUN 9.301.648-3
 
 REGIÓN DE COQUIMBO
 
-Institución : Ejército
+Institución Ejército
 
-Grado : Coronel
+Grado General de Brigada
 
-Apellidos : Sagas Díaz
+Apellidos ONETTO Jara
 
-Nombre : Luis Alejandro
+Nombre Pablo
 
-RUN : 14.282.430-2
+RUN 10.717.197-5
 
 REGIÓN DE VALPARAÍSO
 
-Institución : Armada
+Institución Armada
 
-Grado : Contraalmirante
+Grado Contraalmirante
 
-Apellidos : NAVAJAS Santini
+Apellidos MARCIC Conley
 
-Nombre : Ramiro
+Nombre Yerko Iván
 
-RUN : 9.056.738-1
+RUN 8.882.710-4
 
-REGIÓN METROPOLITANA DE SANTIAGO
+REGIÓN METROPOLITANA
 
-Institución : Ejército
+Institución Ejército
 
-Grado : General de División
+Grado General de División
 
-Apellidos : De la Cerda Rodríguez
+Apellidos RICOTTI Velásquez
 
-Nombre : Juan Cristóbal
+Nombre Carlos
 
-RUN : 10.181.092-5
+RUN 9.913.132-2
 
 REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS
 
-Institución : Ejército
+Institución Ejército
 
-Grado : General de Brigada
+Grado General de Brigada
 
-Apellidos : Amengual Escobar
+Apellidos JACQUE Falcón
 
-Nombre : Patricio Gabriel
+Nombre Jorge
 
-RUN : 10.534.643-3
+RUN 9.769.190-8
 
 REGIÓN DEL MAULE
 
-Institución : Ejército
+Institución Ejército
 
-Grado : Coronel
+Grado General de Brigada
 
-Apellidos : Ovando Alarcón
+Apellidos VAN DE MAELE Silva
 
-Nombre : Luis Alberto
+Nombre Patrice
 
-RUN : 9.717.338-9
+RUN 10.202.951-8
 
 REGIÓN DE ÑUBLE
 
-Institución : Ejército
+Institución Ejército
 
-Grado : Coronel
+Grado General de Brigada
 
-Apellidos : Bagatello Ortega
+Apellidos VIAL Maceratta
 
-Nombre : Jeffrey Mason
+Nombre Cristian
 
-RUN : 10.293.687-6
+RUN 11.840.650-8
 
 REGIÓN DEL BIOBÍO
 
-Institución : Armada
+Institución Armada
 
-Grado : Contraalmirante
+Grado Contraalmirante
 
-Apellidos : ESPINOZA Sapunar
+Apellidos HUBER Vio
 
-Nombre : Patricio
+Nombre Carlos Ernesto
 
-RUN : 9.890.861-7.
+RUN 8.377.850-4
 
 REGIÓN DE LA ARAUCANÍA
 
-Institución : Ejército
+Institución Ejército
 
-Grado : General de Brigada
+Grado General de Brigada
 
-Apellidos : Núñez Morales
+Apellidos MERICQ Guila
 
-Nombre : Marcelo Francisco
+Nombre Patricio
 
-RUN : 9.028.592-0
+RUN 7.689.765-4
 
 REGIÓN DE LOS RÍOS
 
-Institución : Ejército
+Institución Ejército
 
-Grado : General de Brigada
+Grado General de Brigada
 
-Apellidos : Sánchez Cros
+Apellidos SÁNCHEZ Cros
 
-Nombre : Guillermo Enrique
+Nombre Guillermo
 
-RUN : 10.855.946-2
+RUN 10.855.946-2
 
 REGIÓN DE LOS LAGOS
 
-Institución : Fuerza Aérea
+Institución Fuerza Aérea
 
-Grado : General de Brigada Aérea (A)
+Grado General de Brigada Aérea (A)
 
-Apellidos : Eguía Calvo
+Apellidos EGUÍA Calvo
 
-Nombre : Cristian Rodrigo
+Nombre Cristian
 
-RUN : 7.763.816-4
+RUN 7.763.816-4
 
 REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO
 
-Institución : Ejército
+Institución Ejército
 
-Grado : General de Brigada
+Grado General de Brigada
 
-Apellidos : Pérez Astorga
+Apellidos MORALES Burotto
 
-Nombre : Luis Felipe
+Nombre Joaquín
 
-RUN : 10.347.468-K
+RUN 10.224.478-8
 
 REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA
 
-Institución : Ejército
+Institución Ejército
 
-Grado : General de Brigada
+Grado General de División
 
-Apellidos : Estévez Valencia
+Apellidos VENTURA Sancho
 
-Nombre : Sergio Alejandro
+Nombre Rodrigo
 
-RUN : 10.549.329-0.
+RUN 9.904.776-3
 
 #### Artículo tercero
 
@@ -256,7 +248,7 @@ En el ejercicio de sus funciones, los Jefes de la Defensa Nacional tendrán toda
 
 6) Establecer condiciones para la celebración de reuniones en lugares de uso público, de conformidad a las instrucciones del Presidente de la República;
 
-7) Impartir directamente instrucciones a todos los funcionarios del Estado, de sus empresas o de las municipalidades que se encuentren en la zona, con el exclusivo propósito de subsanar los efectos de la calamidad pública, y, en particular, para una adecuada implementación de las medidas sanitarias adoptadas.;
+7) Impartir directamente instrucciones a todos los funcionarios del Estado, de sus empresas o de las municipalidades que se encuentren en la zona, con el exclusivo propósito de subsanar los efectos de la calamidad pública, conforme a las instrucciones del Presidente de la República;
 
 8) Difundir por los medios de comunicación social las informaciones necesarias para dar tranquilidad a la población;
 
