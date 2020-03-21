@@ -30,6 +30,10 @@ QUINTO.- Las tablas del Pleno y de las Salas serán publicadas a más tardar a l
 
 SEXTO.- Las causas se verán en el día señalado, salvo que por falta de quórum, por agotarse el tiempo fijado para la audiencia, por suspensión de la vista de la causa o por ordenarlo el Tribunal o una de sus Salas, en ambos casos por resolución fundada, deban suspenderse.
 
+En casos excepcionales debidamente calificados, la participación de los Ministros en ejercicio a la sesión podrá realizarse presencialmente o por vía remota, tanto si la vista versa sobre cuestiones de admisión a trámite o de admisibilidad, como en los demás casos. También podrán participar de manera remota el Secretario y el Relator, en el ejercicio de sus respectivas funciones en la vista de la causa.
+
+El Ministro que requiera participar por vía remota así lo comunicará al Presidente del Tribunal o de la Sala, según sea el caso, con suficiente antelación al inicio de la sesión correspondiente.
+
 Al inicio de cada sesión o durante su transcurso, el Presidente del Tribunal o el de la Sala respectiva determinará las causas que no se verán por cualquiera de los motivos indicados, lo cual se hará constar por el relator designado para el conocimiento de la causa en el respectivo expediente.
 
 SÉPTIMO.- Si, concluida la hora de audiencia, queda pendiente alguna causa y no se acuerda prorrogar aquélla en el acto, se continuará con ella en la sesión inmediatamente siguiente, a continuación de las causas que tuvieren preferencia.
@@ -93,6 +97,8 @@ DECIMONOVENO.- Preguntas. Durante los alegatos o una vez finalizados y antes de 
 VIGÉSIMO.- Minutas. Al término de la audiencia, los abogados podrán dejar a disposición del Tribunal una minuta de sus alegatos.
 
 VIGESIMOPRIMERO.- Constancias. Concluida la vista, el relator dejará constancia en el proceso acerca de si los abogados que se anunciaron para alegar efectivamente lo hicieron. Hará constar, asimismo, si se acompañó minuta de alegatos.
+
+Junto con lo anterior, el Relator certificará los Ministros que asistieron a la vista de la causa, alegatos de admisión a trámite o admisibilidad, según proceda, y la modalidad en que cada uno participó en la sesión respectiva.
 
 VIGESIMOSEGUNDO.- Continuación de la vista. La vista de las causas que, excepcionalmente, dada su extensión y complejidad, no haya podido ser concluida en la audiencia respectiva y quede con relación o alegatos pendientes, deberá proseguirse en la audiencia más próxima que señale el Presidente del Tribunal o de la Sala, según corresponda.
 
