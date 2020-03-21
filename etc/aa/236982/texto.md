@@ -20,6 +20,10 @@ Los Ministros del Tribunal tendrán la precedencia correspondiente a la antigüe
 
 Cesará respecto de los Ministros la obligación de asistencia a las sesiones del Tribunal si se encontraren haciendo uso de permiso, licencia o feriado, concedidos en conformidad a las normas del presente Auto Acordado.
 
+En casos excepcionales debidamente calificados, la participación de los Ministros en ejercicio a la sesión podrá realizarse presencialmente o por vía remota, tanto si la vista versa sobre cuestiones de admisión a trámite o de admisibilidad, como en los demás casos. También podrán participar de manera remota el Secretario y el Relator, en el ejercicio de sus respectivas funciones en la vista de la causa.
+
+El Ministro que requiera participar por vía remota así lo comunicará al Presidente del Tribunal o de la Sala, según sea el caso, con suficiente antelación al inicio de la sesión correspondiente.
+
 #### Artículo 4º
 
 Corresponderá al Presidente del Tribunal resolver las solicitudes sobre permisos, licencias y feriados.
