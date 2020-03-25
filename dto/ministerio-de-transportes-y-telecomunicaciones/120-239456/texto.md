@@ -26,9 +26,9 @@ Considerando:
 
 Decreto :
 
-1º Autorízase a la Empresa de los Ferrocarriles del Estado para suprimir y proceder al levante de las vías férreas correspondientes al ramal ferroviario de Purén a Lebu, desde el kilómetro 26,325 hasta el kilómetro 142,8 Los Sauces a Lebu, y que se compone de las fajas vías y estaciones que se detallan en el anexo adjunto, el que se entiende formar parte integrante del presente Decreto.
+1º Autorízase a la Empresa de los Ferrocarriles del Estado para suprimir y proceder al levante de las vías férreas correspondientes al ramal ferroviario de Purén a Lebu, desde el kilómetro 26,325 hasta el kilómetro 143,0 Los Sauces a Lebu, y que se compone de las fajas vías y estaciones que se detallan en el anexo adjunto, el que se entiende formar parte integrante del presente Decreto.
 
-2º Facúltase a la citada empresa para que levante, desarme y retire todos los bienes que conforman la vía férrea desde el kilómetro 26,325 hasta el kilómetro 142,8 del ramal ferroviario Purén a Lebu, sean éstos muebles o inmuebles por adherencia o destinación, además de las construcciones y edificaciones.
+2º Facúltase a la citada empresa para que levante, desarme y retire todos los bienes que conforman la vía férrea desde el kilómetro 26,325 hasta el kilómetro 143,0 del ramal ferroviario Purén a Lebu, sean éstos muebles o inmuebles por adherencia o destinación, además de las construcciones y edificaciones.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Javier Etcheberry Celhay, Ministro de Transportes y Telecomunicaciones.
 
