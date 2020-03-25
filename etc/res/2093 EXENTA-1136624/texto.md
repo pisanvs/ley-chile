@@ -156,7 +156,7 @@ d) Acondicionamiento térmico y Eficiencia Energética: hasta 120 UF.
 
 De los recursos disponibles
 
-28. Los recursos involucrados para la selección de postulantes al presente Llamado, ascienden a un total de 47.802 UF.
+28. Los recursos involucrados para la selección de postulantes al presente Llamado, ascienden a un total de 27.500,32 UF.
 
 .
 
