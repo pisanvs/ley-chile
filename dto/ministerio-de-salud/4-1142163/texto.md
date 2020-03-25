@@ -76,6 +76,10 @@ Otórgase a la Subsecretaría de Salud Pública facultades extraordinarias para 
 
 9. Ordenar el uso obligatorio de mascarillas y otros dispositivos médicos afines en medios de transporte, salas de clases, lugares de trabajos y, en general, en cualquier otro lugar de acceso público o donde exista aglomeración de personas.
 
+10. Disponer el precio máximo a pagar por parte de la población general de determinados productos farmacéuticos, dispositivos médicos, elementos e insumos sanitarios, así como de prestaciones de salud y servicios sanitarios, como asimismo, todos los bienes y servicios necesarios para atender las necesidades sanitarias.
+
+11. Limitar el número máximo de los bienes y servicios señalados que podrán ser vendidos y entregados a cada persona por los establecimientos de venta o prestación de servicios.
+
 #### Artículo 2º bis
 
 Otórgase a la Subsecretaría de Redes Asistenciales facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
@@ -97,6 +101,10 @@ Otórgase a la Subsecretaría de Redes Asistenciales facultades extraordinarias 
 8. Autorizar provisoriamente hospitales de implementación acelerada, tales como hospitales de campaña o modulares, con anterioridad a la obtención de permisos, autorizaciones y certificados que correspondan, de acuerdo a la normativa aplicable. Estos hospitales deberán estar bajo dependencia de algún otro centro asistencial autorizado previamente por la autoridad sanitaria. En ningún caso dicha autorización podrá extenderse más allá de la vigencia de este decreto.
 
 9. Asimismo, podrá autorizar, provisionalmente, para la entrega de prestaciones de salud, a inmuebles que no estén autorizados como establecimientos asistenciales, en las mismas condiciones señaladas en el numeral anterior. Dichas prestaciones deberán garantizar la seguridad del paciente, siendo proporcionales al equipamiento, personal y adecuaciones con las que cuente el inmueble que por este numeral se autoriza.
+
+10. Coordinar la red asistencial del país, de prestadores públicos y privados. Para lo anterior, podrá solicitar de los establecimientos públicos y de los establecimientos privados, la facilitación, a los precios previamente convenidos, del otorgamiento de prestaciones asistenciales que no puedan postergarse sin grave perjuicio.
+
+11. Autorizar que en la red pública y privada, aquellos tratamientos de uso periódico para enfermedades crónicas, que son prescritos con dosis para periodos quincenales o mensuales, puedan prescribirse con la dosis necesaria para hasta tres meses, siempre que las condiciones de dispensación, conservación o suministro del medicamento lo permitan.
 
 #### Artículo 3º
 
@@ -257,6 +265,10 @@ Lo anterior, de conformidad con lo señalado en los convenios que previamente se
 #### Artículo 10º
 
 Los efectos de este decreto tendrán vigencia durante un año, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que estas no mejoren.
+
+#### Artículo 11º
+
+Déjase constancia que el incumplimiento de las medidas impuestas por la autoridad en virtud de este decreto serán fiscalizadas y sancionadas según lo dispuesto en el Libro X del Código Sanitario, así como en lo dispuesto en el Código Penal, cuando corresponda.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Jaime Mañalich Muxi, Ministro de Salud.
 
