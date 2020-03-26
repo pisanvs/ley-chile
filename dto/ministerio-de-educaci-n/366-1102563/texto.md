@@ -88,7 +88,7 @@ Para acceder a esta bonificación, los asistentes de la educación que se desemp
 
 a) Haber cumplido 60 o más años de edad, si son mujeres, y 65 o más años de edad, si son hombres, al 30 de junio de 2014.
 
-b) Haber cumplido o cumplir 60 años de edad si son mujeres, y 65 años de edad si son hombres entre el 1º de julio de 2014 y el 30 de junio de 2022, ambas fechas inclusive.
+b) Haber cumplido o cumplir 60 años de edad si son mujeres, y 65 años de edad si son hombres entre el 1º de julio de 2014 y el 31 de diciembre de 2025, ambas fechas inclusive.
 
 #### Artículo 6º
 
@@ -96,9 +96,31 @@ La remuneración que servirá de base para el cálculo de la bonificación por r
 
 #### Artículo 7º
 
-Podrán acceder a la bonificación por retiro voluntario hasta un total de 9.000 beneficiarios, distribuidos de acuerdo a la siguiente tabla de cupos anuales:
+Podrán acceder a la bonificación por retiro voluntario hasta un total de 12.000 beneficiarios, distribuidos de acuerdo a la siguiente tabla de cupos anuales:
 
-.
+Año Cupos
+
+2016 878
+
+2017 878
+
+2018 1.000
+
+2019 1.561
+
+2020 1.561
+
+2021 1.561
+
+2022 1.561
+
+2023 1.000
+
+2024 1.000
+
+2025 1.000
+
+TOTAL 12.000
 
 Los cupos que no hubieren sido utilizados entre los años 2016 al 2018, ambos incluidos, incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
 
@@ -110,7 +132,7 @@ Los trabajadores que presten servicios en las instituciones señaladas en el art
 
 #### Artículo 9º
 
-Se abrirán siete procesos de postulación para la asignación de los cupos dispuestos en el artículo 7º, del presente reglamento.
+Se abrirán diez procesos de postulación para la asignación de los cupos dispuestos en el artículo 7º, del presente reglamento.
 
 #### Artículo 10
 
@@ -134,13 +156,13 @@ En este primer proceso de postulación, también se considerarán las postulacio
 
 #### Artículo 11
 
-En el segundo, tercero, cuarto, quinto y sexto proceso de postulación se asignarán 878, 1.000, 1.561, 1.561 y 1.561, cupos respectivamente, más aquellos adicionales que se encuentren disponibles conforme al artículo 7º de este reglamento, en caso de haberlos.
+En el segundo, tercero, cuarto, quinto, sexto, séptimo, octavo y noveno proceso de postulación se asignarán 878, 1.000, 1.561, 1.561, 1.561, 1.561, 1.000 y 1.000 cupos, respectivamente, más aquellos adicionales que se encuentren disponibles conforme al artículo 7° de este reglamento, en caso de haberlos.
 
 Las postulaciones correspondientes al segundo proceso se efectuarán a contar del 60° día hábil posterior a la publicación de este reglamento y durante los 30 días hábiles siguiente a dicha data.
 
-Durante los años 2018, 2019, 2020 y 2021, se desarrollará el tercer al sexto proceso respectivamente. A dichos procesos se deberá postular entre el 2 de enero y el 31 de julio del año en que el o la postulante cumple la edad exigida en la ley.
+Durante los años 2018, 2019, 2020, 2021, 2022, 2023 y 2024, se desarrollará el tercer al noveno proceso respectivamente. A dichos procesos se deberá postular entre el 2 de enero y el 31 de julio del año en que el o la postulante cumple la edad exigida en la ley.
 
-Al segundo, tercero, cuarto, quinto y sexto proceso podrán postular:
+Al segundo, tercero, cuarto, quinto, sexto, séptimo, octavo y noveno proceso podrán postular:
 
 a) En el caso de las mujeres asistentes de la educación señaladas en las letras a) y b) del artículo 5º de este reglamento, que entre el 1º de enero y el 31 de diciembre del año de postulación cumplan entre 60 y 67 años de edad.
 
@@ -160,29 +182,29 @@ d) A su vez, las mujeres y los hombres asistentes de la educación del artículo
 
 #### Artículo 13
 
-En el séptimo proceso de postulación se asignarán 1.561 cupos y los adicionales que existan disponibles conforme al artículo 7º de este reglamento, en caso de haberlos. A los cupos antedichos, se podrá postular entre el 2 de enero y el 30 de junio del año 2022. En dicho proceso podrán postular:
+En el décimo proceso de postulación se asignarán 1.000 cupos y los adicionales que existan disponibles conforme al artículo 7° de este reglamento, en caso de haberlos. A los cupos antedichos, se podrá postular entre el 2 de enero y el 31 de julio del año 2025. En dicho proceso podrán postular:
 
-a) En el caso de las mujeres asistentes de la educación, que entre el 1º de enero y el 30 de junio de 2022 cumplan entre 60 y 65 años de edad.
+a) En el caso de las mujeres, aquellas que entre el 1° de enero y el 31 de diciembre de 2025 cumplan entre 60 y 65 años de edad.
 
-b) En el caso de las mujeres asistentes, que entre el 1º de enero y el 30 de junio de 2022 cumplan 66 o 67 años de edad.
+b) En el caso de las mujeres, aquellas que entre el 1° de enero y el 31 de diciembre del año 2025 cumplan 66 o 67 años de edad.
 
-c) En el caso de los hombres asistentes de la educación que entre el 1º de enero y el 30 de junio de 2022 cumplan 65 años de edad.
+c) En el caso de los hombres, aquellos que entre el 1° de enero y el 31 de diciembre del año 2025 cumplan 65 años de edad.
 
-d) En el caso de los hombres asistentes de la educación que entre el 1º de enero y el 30 de junio de 2022 cumplan 66 o 67 años de edad.
+d) En el caso de los hombres, aquellos que entre el 1° de enero y el 31 de diciembre del año 2025 cumplan 66 o 67 años de edad.
 
 #### Artículo 14
 
 Los beneficios a que tendrán derecho los hombres y las mujeres asistentes de la educación a que se refiere el artículo anterior serán los siguientes:
 
-a) Las mujeres trabajadoras indicadas en el artículo anterior que participen del séptimo proceso de postulación a la bonificación por retiro voluntario y cumplan entre 60 y 65 años de edad entre el 1º de enero y el 30 de junio de 2022 siempre que hagan efectiva su renuncia en el plazo indicado en el artículo 27 de este reglamento, tendrán derecho a la totalidad de la bonificación por retiro voluntario que les corresponda, y a la bonificación adicional por antigüedad regulada en el Título III de este reglamento, siempre que cumplan con los respectivos requisitos.
+a) Las mujeres trabajadoras indicadas en el artículo anterior que participen del décimo proceso de postulación a la bonificación por retiro voluntario y cumplan entre 60 y 65 años de edad entre el 1º de enero y el 31 de diciembre de 2025 siempre que hagan efectiva su renuncia en el plazo indicado en el artículo 27 de este reglamento, tendrán derecho a la totalidad de la bonificación por retiro voluntario que les corresponda, y a la bonificación adicional por antigüedad regulada en el Título III de este reglamento, siempre que cumplan con los respectivos requisitos.
 
-b) Los hombres trabajadores indicados en el artículo anterior que participen del séptimo proceso de postulación a la bonificación por retiro voluntario y cumplan 65 años de edad entre el 1º de enero y el 30 de junio de 2022; siempre que hagan efectiva su renuncia en el plazo indicado en el artículo 27 de este reglamento, tendrán derecho a la totalidad de la bonificación por retiro voluntario que les corresponda, y a la bonificación adicional por antigüedad regulada en el Título III de este reglamento, siempre que cumplan con los respectivos requisitos.
+b) Los hombres trabajadores indicados en el artículo anterior que participen del décimo proceso de postulación a la bonificación por retiro voluntario y cumplan 65 años de edad entre el 1º de enero y el 31 de diciembre de 2025; siempre que hagan efectiva su renuncia en el plazo indicado en el artículo 27 de este reglamento, tendrán derecho a la totalidad de la bonificación por retiro voluntario que les corresponda, y a la bonificación adicional por antigüedad regulada en el Título III de este reglamento, siempre que cumplan con los respectivos requisitos.
 
-c) Las mujeres trabajadoras y los hombres trabajadores indicados en el artículo anterior que participen del séptimo proceso de postulación y cumplan 66 años de edad entre el 1º de enero y el 30 de junio de 2022, sólo tendrán derecho a recibir la totalidad de la bonificación por retiro voluntario que corresponda, siempre que cumplan con los respectivos requisitos.
+c) Las mujeres trabajadoras y los hombres trabajadores indicados en el artículo anterior que participen del décimo proceso de postulación y cumplan 66 años de edad entre el 1º de enero y el 31 de diciembre de 2025, sólo tendrán derecho a recibir la totalidad de la bonificación por retiro voluntario que corresponda, siempre que cumplan con los respectivos requisitos.
 
-d) A su vez, las mujeres trabajadoras y los hombres trabajadores indicados en el artículo anterior que participen del séptimo proceso de postulación a la bonificación por retiro voluntario y cumplan 67 años de edad entre el 1º de enero y el 30 de junio de 2022, sólo tendrán derecho a recibir la mitad de la bonificación por retiro voluntario que corresponda, siempre que cumplan con los respectivos requisitos.
+d) A su vez, las mujeres trabajadoras y los hombres trabajadores indicados en el artículo anterior que participen del décimo proceso de postulación a la bonificación por retiro voluntario y cumplan 67 años de edad entre el 1º de enero y el 31 de diciembre de 2025, sólo tendrán derecho a recibir la mitad de la bonificación por retiro voluntario que corresponda, siempre que cumplan con los respectivos requisitos.
 
-Aquellas mujeres asistentes que cumplan entre 60 y 65 años de edad, entre el 1º de enero y el 30 de junio de 2022, de ser beneficiarias de un cupo, deberán hacer efectiva su renuncia voluntaria, a más tardar, el 1º de marzo del año siguiente a aquel en que cumplan 65 años de edad, conservando los cupos obtenidos durante dicho período.
+Aquellas mujeres asistentes que cumplan entre 60 y 65 años de edad, entre el 1º de enero y el 31 de diciembre de 2025, de ser beneficiarias de un cupo, deberán hacer efectiva su renuncia voluntaria, a más tardar, el 1º de marzo del año siguiente a aquel en que cumplan 65 años de edad, conservando los cupos obtenidos durante dicho período.
 
 #### Artículo 15
 
@@ -240,19 +262,23 @@ Las entidades empleadoras remitirán las postulaciones recibidas a la Subsecreta
 
 #### Artículo 20
 
-Anualmente, la Subsecretaría de Educación asignará los cupos mediante resolución, donde se individualizará a los beneficiarios correspondientes a cada proceso de postulación, en virtud de lo establecido en el artículo siguiente de este reglamento.
+La Subsecretaría de Educación asignará los cupos mediante resolución, donde se individualizará a los beneficiarios correspondientes a cada proceso de postulación, en virtud de lo establecido en el artículo siguiente de este reglamento.
 
 #### Artículo 21
 
 En el caso de haber un mayor número de postulantes que cupos disponibles en un año, la Subsecretaría de Educación procederá a adjudicar los cupos conforme a los siguientes criterios de priorización:
 
-a) Aquellos de mayor edad de acuerdo a la fecha de nacimiento;
+a) En primer término, los trabajadores regidos por el Código del Trabajo que se desempeñen en los Departamentos de Administración de Educación Municipal (DAEM), en las Direcciones de Educación Municipal (DEM) y el personal que cumple funciones relacionadas con la administración del servicio educacional en las corporaciones municipales señaladas en el artículo 1°, siempre que se desempeñen en comunas en que el servicio educacional deba ser traspasado a un Servicio Local de Educación Pública en el año siguiente al respectivo proceso de postulación.
 
-b) En igualdad de condiciones de edad, se priorizarán según el mayor número de años de servicio contados desde el ingreso a la primera entidad empleadora, en caso de ser más de una, y;
+b) En segundo lugar, aquellos de mayor edad.
 
-c) De persistir la igualdad, se priorizará, según el mayor número de días de licencias médicas cursadas, correspondientes a los 365 días anteriores al proceso de postulación.
+c) En igualdad de condiciones de edad, se priorizarán según el mayor número de años de servicio contados desde el ingreso a la primera entidad empleadora, en caso de ser más de una, y;
+
+d) De persistir la igualdad, se priorizará, según el mayor número de días de licencias médicas cursadas, correspondientes a los 365 días anteriores al proceso de postulación.
 
 La Subsecretaría de Educación procederá a la priorización de los postulantes que cumplen los requisitos para acceder a la bonificación por retiro voluntario, ordenados de acuerdo a los criterios precedentemente indicados.
+
+Sin perjuicio de lo establecido en el artículo 26 de este Reglamento, los trabajadores que se encuentren en la situación establecida en el literal a) de este artículo y que resulten beneficiarios de un cupo, no podrán desistirse de su renuncia voluntaria.
 
 #### Artículo 22
 
@@ -312,7 +338,9 @@ b) Para el segundo período de postulación, esto es, cuando los asistentes post
 
 c) Para el tercer período de postulación, esto es, cuando los asistentes postulen en el proceso correspondiente al año en que cumplan los 67 años de edad, sean hombres o mujeres, deberán hacer efectiva su renuncia voluntaria a más tardar el día en que cumplan los 67 años de edad o dentro de los noventas días corridos siguientes a la notificación de que accedieron a un cupo.
 
-Las mujeres asistentes, que cumplan entre los 60 y 65 años de edad, entre el 1º de enero y el 30 de junio de 2022, deberán hacer efectiva su renuncia a más tardar hasta el 1º de marzo del año siguiente a aquel en que cumplan 65 años de edad.
+Las mujeres asistentes, que cumplan entre los 60 y 65 años de edad, entre el 1º de enero y el 31 de diciembre de 2025, deberán hacer efectiva su renuncia a más tardar hasta el 1º de marzo del año siguiente a aquel en que cumplan 65 años de edad.
+
+En el caso de los trabajadores y trabajadoras cuya función se relacione directamente con la administración del servicio educacional, cuando éste deba ser traspasado a un Servicio Local de Educación Pública, éstos podrán postular sólo hasta el proceso correspondiente al año anterior a aquel en que deba realizarse el traspaso y recibirán los beneficios que correspondan de conformidad a la ley.
 
 #### Artículo 28
 
@@ -337,6 +365,8 @@ Sin perjuicio de lo señalado en los artículos precedentes, la renuncia volunta
 Una vez asignado un cupo, y en el tiempo que media hasta el pago total de dicha bonificación, el empleador no podrá poner término unilateralmente a la relación laboral por una causa diferente al retiro voluntario, salvo por alguna de las causales establecidas en el artículo 160 del Código del Trabajo, las que deberán ser debidamente acreditadas.
 
 Con todo, si el sostenedor solicitó recursos al Ministerio de Educación para el pago de la bonificación, ya sea por concepto de anticipo de subvención de escolaridad, u otros recursos administrados por aquél, el término de la relación laboral deberá materializarse a más tardar en el plazo de 3 meses contados desde la transferencia de estos recursos.
+
+No obstante lo establecido en el inciso primero de este artículo, el trabajador podrá solicitar que se ponga término a la relación laboral por causas justificadas tales como enfermedad grave u otras, desde el momento en que se le notifique la resolución que lo determine como beneficiario. Caso en el cual, el empleador deberá informar de dicha situación al Ministerio de Educación, el que por su parte deberá determinar la fecha en que se pagarán los beneficios correspondientes a la bonificación por retiro voluntario. Durante el período entre que se pone término a la relación laboral y el pago efectivo de la bonificación, el trabajador no percibirá remuneración alguna.
 
 #### Artículo 32
 
@@ -410,7 +440,7 @@ f) Certificado del Secretario Municipal que dé cuenta del acuerdo del Concejo M
 
 #### Artículo 39
 
-El Ministerio de Educación fijará los montos del anticipo de los recursos a transferir para financiar la bonificación por retiro voluntario, mediante una resolución, visada por la Dirección de Presupuestos del Ministerio de Hacienda, que deberá señala,r al menos, lo siguiente:
+El Ministerio de Educación fijará los montos del anticipo de los recursos a transferir para financiar la bonificación por retiro voluntario, mediante una resolución, que deberá señalar al menos, lo siguiente:
 
 a) Montos que deban transferirse a los empleadores del sector municipal;
 
