@@ -1706,7 +1706,7 @@ Del procedimiento para elaborar una Nueva Constitución Política de la Repúbli
 
 Del Plebiscito Nacional.
 
-Tres días después de la entrada en vigencia de este artículo, el Presidente de la República convocará mediante un decreto supremo exento a un plebiscito nacional para el día 26 de abril de 2020.
+Tres días después de la entrada en vigencia de este artículo, el Presidente de la República convocará mediante un decreto supremo exento a un plebiscito nacional para el día 25 de octubre de 2020.
 
 En el plebiscito señalado, la ciudadanía dispondrá de dos cédulas electorales. La primera contendrá la siguiente pregunta: "¿Quiere usted una Nueva Constitución?". Bajo la cuestión planteada habrá dos rayas horizontales, una al lado de la otra. La primera línea tendrá en su parte inferior la expresión "Apruebo" y la segunda, la expresión "Rechazo", a fin de que el elector pueda marcar su preferencia sobre una de las alternativas.
 
@@ -1724,7 +1724,7 @@ Los canales de televisión de libre recepción deberán destinar gratuitamente t
 
 El Tribunal Calificador de Elecciones conocerá del escrutinio general y proclamará aprobadas las cuestiones que hayan obtenido más de la mitad de los sufragios válidamente emitidos. Para estos efectos, los votos nulos y blancos se considerarán como no emitidos. El proceso de calificación del plebiscito nacional deberá quedar concluido dentro de los treinta días siguientes a la fecha de éste. La sentencia de proclamación del plebiscito será comunicada dentro de los tres días siguientes de su dictación al Presidente de la República y al Congreso Nacional.
 
-Si la ciudadanía hubiere aprobado elaborar una Nueva Constitución, el Presidente de la República deberá convocar, mediante decreto supremo exento, dentro de los cinco días siguientes a la comunicación a que alude el inciso anterior, a elección de los miembros de la Convención Mixta Constitucional o Convención Constitucional, según corresponda. Esta elección se llevará a cabo el mismo día que se verifiquen las elecciones de alcaldes, concejales y gobernadores regionales correspondientes al año 2020.
+Si la ciudadanía hubiere aprobado elaborar una Nueva Constitución, el Presidente de la República deberá convocar, mediante decreto supremo exento, dentro de los cinco días siguientes a la comunicación a que alude el inciso anterior, a elección de los miembros de la Convención Mixta Constitucional o Convención Constitucional, según corresponda. Esta elección se llevará a cabo el día 11 de abril de 2021.
 
 #### Artículo 131
 
@@ -2044,7 +2044,13 @@ VIGESIMOSÉPTIMA.- No obstante lo dispuesto en el artículo 94 bis, los actuales
 
 Quienes están actualmente en funciones no podrán ser propuestos para un nuevo período, si con dicha prórroga superan el plazo total de diez años en el desempeño del cargo.
 
-VIGÉSIMO OCTAVA.- La primera elección por sufragio universal en votación directa de los gobernadores regionales se verificará en la oportunidad que señale la ley orgánica constitucional a que aluden los incisos cuarto y quinto del artículo 111 y una vez promulgada la ley que establezca un nuevo procedimiento de transferencia de las competencias a las que se refiere el artículo 114.
+VIGÉSIMO OCTAVA.- No obstante lo dispuesto en el artículo 83 del decreto con fuerza de ley N° 1-19.175, de 2005, del Ministerio del Interior, que fija el texto refundido, coordinado y sistematizado de la ley N° 19.175, orgánica constitucional de Gobierno y Administración Regional, la primera elección de Gobernadores Regionales se realizará el día 11 de abril de 2021.
+
+En caso de existir una segunda votación en los términos señalados en el inciso quinto del artículo 111 de la Constitución, ésta se realizará el cuarto domingo después de efectuada la primera, según lo dispuesto en el inciso segundo del artículo 98 bis del decreto con fuerza de ley Nº1-19.175, de 2005, del Ministerio del Interior, que fija el texto refundido, coordinado, sistematizado y actualizado de la ley Nº 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional.
+
+No obstante lo dispuesto en el artículo 99 bis del decreto con fuerza de ley citado en el inciso anterior, el periodo del primer gobernador regional electo en la elección señalada en el inciso primero comenzará a computarse el día 10 de junio de 2021, en el que el Gobernador Regional asumirá sus funciones en conformidad a la disposición citada y su mandato durará hasta el día 6 de enero de 2025.
+
+Las inhabilidades establecidas en las letras a), b), c) y d) del artículo 23 ter del decreto con fuerza de ley señalado en el inciso primero, serán aplicables a quienes hubieren tenido las calidades o cargos mencionados dentro del lapso comprendido entre el 25 de octubre de 2019 al día de la elección.
 
 El período establecido en el inciso segundo del artículo 113 podrá ser adecuado por la ley orgánica constitucional señalada en los incisos cuarto y quinto del artículo 111 para que los períodos de ejercicio de gobernadores regionales y consejeros regionales coincidan. Esta modificación requerirá, para su aprobación, del voto favorable de las tres quintas partes de los diputados y senadores en ejercicio.
 
@@ -2100,7 +2106,39 @@ Si de la aplicación de esta regla no se lograre el equilibrio de género, se re
 
 En ningún caso procederá reasignación alguna respecto de los ciudadanos independientes que resulten electos fuera de lista. Sin embargo, éstos se considerarán con el objeto de establecer el cumplimiento de la paridad o diferencia mínima entre sexos a que alude el numeral 1.
 
-En el caso de que la ciudadanía elija la opción de Convención Mixta Constitucional en el plebiscito nacional del domingo 26 de abril del año 2020, serán aplicables las normas de la presente disposición transitoria para la elección de todos los ciudadanos electos por la ciudadanía para dicha Convención Mixta Constitucional.
+En el caso de que la ciudadanía elija la opción de Convención Mixta Constitucional en el plebiscito nacional del domingo 25 de octubre del año 2020, serán aplicables las normas de la presente disposición transitoria para la elección de todos los ciudadanos electos por la ciudadanía para dicha Convención Mixta Constitucional.
+
+TRIGÉSIMA SEGUNDA. Por el plazo de un año a contar de la publicación de la presente reforma, la Cámara de Diputados y el Senado podrán funcionar por medios telemáticos una vez declarada una cuarentena sanitaria o un estado de excepción constitucional por calamidad pública que signifique grave riesgo para la salud o vida de los habitantes del país o de una o más regiones, que les impida sesionar, total o parcialmente, y mientras este impedimento subsista.
+
+Para ello se requerirá el acuerdo de los Comités que representen a los dos tercios de los integrantes de la respectiva cámara. Ellas podrán sesionar, votar proyectos de ley y de reforma constitucional y ejercer sus facultades exclusivas.
+
+El procedimiento telemático deberá asegurar que el voto de los parlamentarios sea personal, fundado e indelegable.
+
+TRIGÉSIMA TERCERA.- Déjase sin efecto la convocatoria al plebiscito nacional realizada por el Presidente de la República mediante decreto supremo exento, de conformidad a la ley N° 21.200.
+
+Tres días después de la publicación en el Diario Oficial de la presente reforma constitucional, el Presidente de la República convocará, mediante un decreto supremo exento, al plebiscito nacional señalado en el artículo 130, para el día 25 de octubre de 2020.
+
+Los acuerdos adoptados por el Consejo Nacional de Televisión, y las sentencias de reclamación dictadas por el Tribunal Calificador de Elecciones a que se refiere el inciso sexto del artículo 130, que fueron pronunciadas con anterioridad a la presente reforma constitucional, continuarán vigentes y serán plenamente aplicables al plebiscito nacional del 25 de octubre de 2020.
+
+TRIGÉSIMA CUARTA.- No obstante lo dispuesto en el artículo 106 de la ley Nº 18.695, orgánica constitucional de Municipalidades, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 1, de 2006, del Ministerio del Interior, la próxima elección municipal se realizará el día domingo 11 de abril de 2021.
+
+Prorrógase el mandato de los alcaldes y concejales en ejercicio a la fecha de publicación de la presente reforma constitucional, hasta el 24 de mayo de 2021.
+
+Las inhabilidades establecidas en las letras a) y b) del artículo 74 del decreto con fuerza de ley señalado en el inciso primero serán aplicables a quienes hubieren tenido las calidades o cargos mencionados dentro del lapso comprendido entre el 25 de octubre de 2019 al día de la elección.
+
+No obstante lo dispuesto en el artículo 83 del decreto con fuerza de ley señalado en el inciso primero, el periodo de los alcaldes y concejales que resulten electos en la elección señalada en el inciso primero comenzará a computarse el día 24 de mayo de 2021, día en que asumirán sus funciones en conformidad a la disposición citada y su mandato durará hasta el día 6 de diciembre de 2024.
+
+TRIGÉSIMA QUINTA.- No obstante lo dispuesto en los incisos tercero y cuarto del artículo 3 del decreto con fuerza de ley N° 1, de 2017, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley N° 20.640, que establece el sistema de elecciones primarias para la nominación de candidatos a Presidente de la República, parlamentarios, gobernadores regionales y alcaldes, las próximas elecciones primarias para la nominación de candidatos a cargos de gobernador regional y alcalde, para efectos de la elección de 11 de abril de 2021, se realizarán el 29 de noviembre de 2020.
+
+TRIGÉSIMA SEXTA.- Sin perjuicio de lo dispuesto en los incisos cuarto y sexto del artículo 5 del decreto con fuerza de ley N° 2, de 2017, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.700, orgánica constitucional de Votaciones Populares y Escrutinios; los candidatos a convencional constituyente, gobernador regional, alcalde y concejal incluidos por un partido político requerirán no haber sido afiliado a otro partido político en el lapso comprendido entre el 26 de octubre de 2019 hasta el vencimiento del plazo para declarar candidaturas.
+
+Los candidatos independientes a convencional constituyente, vayan o no en lista de independientes o asociados a un partido político; gobernador regional, alcalde y concejal no podrán haber estado afiliados a un partido político dentro del lapso comprendido entre el 26 de octubre de 2019 hasta el vencimiento del plazo para declarar candidaturas.
+
+TRIGÉSIMA SÉPTIMA.- Se reanudarán las inscripciones en el Registro Electoral que provengan de solicitudes de acreditación de avecindamiento conforme al artículo 6°, las actualizaciones de las circunstancias contenidas en las letras a) a la e) del artículo 13 y las modificaciones señaladas en el artículo 23, todas del decreto con fuerza de ley N° 5, de 2017, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.556, orgánica constitucional de sistema de inscripciones electorales y Servicio Electoral, en la fecha de publicación de la presente reforma constitucional.
+
+No obstante lo dispuesto en el artículo 29 del decreto con fuerza de ley mencionado, la suspensión de inscripciones, actualizaciones y modificaciones del Registro Electoral se efectuará ciento cuarenta días antes del plebiscito señalado en el artículo 130.
+
+Para la elaboración de los padrones electorales y nómina de inhabilitados a que hace referencia el título II del mencionado decreto con fuerza de ley, se estará a lo prescrito en dicho título y en el título III.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Eduardo Dockendorff Vallejos, Ministro Secretario General de la Presidencia.-Francisco Vidal Salinas, Ministro del Interior.- Ignacio Walker Prieto, Ministro de Relaciones Exteriores.- Jaime Ravinet de la Fuente, Ministro de Defensa Nacional.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción y Presidente de la Comisión Nacional de Energía.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Sergio Bitar Chacra, Ministro de Educación.- Luis Bates Hidalgo, Ministro de Justicia.- Jaime Estévez Valencia, Ministro de Obras Públicas y de Transportes y Telecomunicaciones.- Jaime Campos Quiroga, Ministro de Agricultura.- Yerko Ljubetic Godoy, Ministro del Trabajo y Previsión Social.- Pedro García Aspillaga, Ministro de Salud.- Alfonso Dulanto Rencoret, Ministro de Minería.- Sonia Tschorne Berestescky, Ministra de Vivienda y Urbanismo y de Bienes Nacionales.- Osvaldo Puccio Huidobro, Ministro Secretario General de Gobierno.- Yasna Provoste Campillay, Ministra de Planificación.
 
