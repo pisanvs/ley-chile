@@ -374,7 +374,19 @@ Si el lugar de cuarentena es aprobado o rechazado se deberá dictar en ambos cas
 
 2.7. La dictación de la resolución que autoriza Cuarentena Posentrada y lo referente al proceso de importación relacionado con la oficina SAG Punto de Ingreso se encuentran descritos en la normativa vigente que establece los requisitos para el ingreso de material vegetal a Cuarentena Posentrada.
 
-2.8. El envío del material cuarentenado será recepcionado por la oficina SAG de destino en la Estación Cuarentenaria 2 autorizada, instancia en la cual se verificarán las condiciones de resguardo del envío y de aislamiento del lugar autorizado; procediéndose a realizar la inspección física de los materiales.
+2.8. El envío del material cuarentenado será recepcionado por la Oficina SAG de destino en la Estación Cuarentenaria 2 autorizada, instancia en la cual se verificarán las condiciones de resguardo del envío y de aislamiento del lugar autorizado; procediéndose a realizar la inspección física de los materiales.
+
+Previo establecimiento de la cuarentena, el material vegetal de propagación que ingrese a una Estación Cuarentenaria 2, con excepción de las plantas que ingresen con sustrato, deberá recibir un tratamiento de inmersión contra insectos y ácaros, el cual deberá cumplir con las siguientes condiciones:
+
+. Los productos deberán estar registrados por el SAG y autorizados para la especie vegetal, de acuerdo a lo especificado en la respectiva etiqueta.
+
+. Los productos deberán ser efectivos para el control de huevos, ninfas y adultos.
+
+. El tratamiento deberá aplicarse bajo la supervisión de inspectores del SAG.
+
+Para el caso de plantas que ingresen al país en sustrato, la aplicación podrá realizarse por aspersión, posterior al establecimiento de la cuarentena, bajo supervisión del SAG.
+
+Los casos especiales, que por razones técnicas u operativas no puedan cumplir con este requerimiento, y que estén plenamente justificados, serán evaluados por el SAG para definir las medidas alternativas más adecuadas que permitan alcanzar el objetivo establecido.
 
 2.9. Una vez recepcionado conforme el envío por parte del Servicio, la Contraparte Técnica está en condiciones de proceder al establecimiento del material, condición que da inicio al periodo de cuarentena (verificación fitosanitaria). El establecimiento deberá ser informando por escrito al Inspector de cuarentena.
 

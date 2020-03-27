@@ -106,6 +106,12 @@ Los portainjertos deberán cumplir con la normativa vigente establecida para los
 
 La información sobre el nombre y características de las variedades será manejada en forma confidencial por la ECA, y mantendrá un estricto y riguroso control de la rotulación e identificación del material durante toda su permanencia en ella.
 
+Previo establecimiento de la cuarentena, el material vegetal de propagación que ingrese a la Estación Cuarentenaria Agrícola (ECA) del SAG, con excepción de las plantas que ingresen con sustrato, deberá recibir un tratamiento de inmersión contra insectos y ácaros, el cual será aplicado por personal del SAG.
+
+Para el caso de plantas que ingresen al país en sustrato, la aplicación será mediante aspersión, posterior al establecimiento de la cuarentena.
+
+Los casos especiales, que por razones técnicas u operativas no puedan cumplir con este requerimiento, y que estén plenamente justificados, serán evaluados por el SAG para definir las medidas alternativas más adecuadas que permitan alcanzar el objetivo establecido.
+
 2.7. La Contraparte Técnica del SAG tendrá la posibilidad de ingresar a la ECA en dos oportunidades, durante el periodo de la cuarentena, evaluándose caso a caso los ingresos adicionales solicitados por éste, los que deberán ser autorizados previamente por un profesional de la ECA. Los ingresos se encontrarán asociados preferentemente a la recepción o injertación del material importado y al período de crecimiento activo previo al término de la cuarentena, a objeto de conocer el estado de los materiales cuarentenados e informarse de las acciones que serán adoptadas por el Servicio.
 
 La Contraparte Técnica podrá solicitar por escrito la adopción de condiciones especiales de manejo, las cuales podrán ser validadas o no por los profesionales de la ECA, dependiendo de los efectos que estos manejos pudieran tener sobre el material vegetal y/o las posibles plagas cuarentenarias asociadas.

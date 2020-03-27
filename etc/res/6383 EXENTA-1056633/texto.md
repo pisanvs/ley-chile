@@ -164,6 +164,20 @@ g. Estar presente durante la recepción e inspección del envío.
 
 h. La Contraparte Técnica deberá estar presente en las actividades descritas en las letras c, f y g del presente numeral, con excepción de la letras f. y g. para el caso de los materiales que ingresan a la ECA del Servicio.
 
+20 bis. Todo material vegetal de propagación que ingrese a cuarentena de posentrada Absoluta o Predial deberá recibir un tratamiento de inmersión contra insectos y ácaros, el cual deberá cumplir con las siguientes condiciones:
+
+. Para el caso de ramillas, estacas y esquejes, con y sin raíz, y plantas a raíz desnuda el tratamiento deberá ser aplicado previo al establecimiento de la cuarentena.
+
+. Para el caso de plantas que ingresen en sustrato, la aplicación podrá realizarse por aspersión, posterior al establecimiento.
+
+. Los insecticidas y acaricidas utilizados deberán estar registrados por el SAG y autorizados para la especie vegetal, de acuerdo a lo estipulado en la respectiva etiqueta.
+
+. Los insecticidas y acaricidas deberán ser efectivos para el control de huevos, ninfas y adultos.
+
+. El tratamiento deberá aplicarse bajo la supervisión de inspectores del SAG.
+
+Los casos especiales, que por razones técnicas u operativas no puedan cumplir con este requerimiento, y que estén plenamente justificados, serán evaluados por el SAG para definir las medidas alternativas más adecuadas que permitan alcanzar el objetivo establecido.
+
 21. El material ingresado bajo Cuarentena Posentrada deberá dar cumplimiento a la normativa fitosanitaria vigente establecida para viveros de plantas nacionales. La detección de una plaga establecida en la normativa de viveros será evaluada caso a caso para determinar las medidas fitosanitarias concordantes con las establecidas para los materiales nacionales.
 
 22. La detección de plaga cuarentenaria durante el desarrollo de la Cuarentena Posentrada, esté o no asociada a la especie vegetal en la normativa vigente, podrá implicar la destrucción de todo el envío o parte de éste, y la adopción de otras medidas fitosanitarias necesarias para evitar el escape y dispersión al medio de la plaga detectada, medidas que serán determinadas previo análisis y evaluación de cada caso por parte del Servicio, siendo la ejecución de estas medidas de cargo del importador. La medida de destrucción deberá ser instruida mediante resolución emitida por el Servicio.
