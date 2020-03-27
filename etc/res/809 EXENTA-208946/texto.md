@@ -8,19 +8,13 @@ Los roedores de laboratorio que se importen al país, deben venir amparados por 
 
 La certificación sanitaria debe acreditar que se cumplen las siguientes condiciones sanitarias o condiciones equivalentes y establecer las vacunaciones y tratamientos a que han sido sometidos los animales:
 
-1. Los animales provienen de colonias protegidas (Barrier Colonies) y libres de enfermedades virales como Ectromelia, virus Sendai, Coriomeningitis linfocítica, Encefalitis de California, Fiebres Hemorrágicas Argentina (de Junín) y Boliviana (Tifus negro) y de las siguientes enfermedades bacterianas:
+1. Los animales deben provenir de colonias protegidas (Barrier Colonies) y libres de enfermedades virales como ectromelia, virus Sendai y coriomeningitis linfocítica, y de las siguientes enfermedades bacterianas: salmonellosis, tularemia, leptospirosis, pseudotuberculosis y fiebre de mordedura de rata. Además, en el laboratorio de origen de los animales no se han presentado las siguientes enfermedades zoonóticas: encefalitis de California, fiebres hemorrágicas Argentina (de Junín) y boliviana (tifus negro).
 
-Salmonellosis, Tularemia, Leptospirosis, Pseudotuberculosis y Fiebre de mordedura de rata.
+2. Dentro de los 30 días que preceden al embarque, los animales deben haber sido sometidos a un examen coproparasitario y una observación directa en fondo negro para parásitos externos (piojos: Polyplax serrata y ácaros como Miobia musculi, Radfordia affinis, Miocoptes musculinus y Psorergates simplex) estableciendo hasta donde sea posible que están libres de enfermedades de este tipo.
 
-2. Los animales han sido sometidos a tratamientos antiparasitarios, internos y externos, dentro de los 30 días que preceden al embarque, estableciendo hasta donde sea posible que están libres de enfermedades de este tipo, realizándose un examen coproparasitario previo al embarque y una observación directa en fondo negro para parásitos externos (piojos: polyplax serrata y ácaros de sarna como Miobia musculi, Radfordia affinis, Miocoptes musculinis y Psorergates simplex).
+### 3. Eliminado
 
-### 3. Los animales han sido tratados con
-
-antiparasitarios externos e internos dentro de los 30 días previos al embarque.
-
-### 4. Al momento del embarque los animales no
-
-presentaron signos de enfermedades, ni evidencia de parásitos externos.
+4. Al momento del despacho los animales no presentaron signos de enfermedades, ni evidencia de parásitos externos.
 
 5. Si los animales son genéticamente modificados, deberán cumplir además con las disposiciones vigentes en estas materias.
 
@@ -29,5 +23,9 @@ presentaron signos de enfermedades, ni evidencia de parásitos externos.
 7. El importador deberá acreditar su condición de laboratorio de investigación o diagnóstico y cumplir con condiciones que aseguren la adecuada mantención de los animales.
 
 8. Al arribo al país los animales serán sometidos a un período cuarentenario de 21 días como mínimo, durante el cual se realizarán exámenes de laboratorio y necropsia de todos los animales que lleguen muertos o mueran durante este período, el costo de esta prueba será de cargo del importador.
+
+9.- Al ingreso al país, los interesados, junto con el certificado sanitario, deben presentar la Resolución de autorización de fauna silvestre exótica emitida por la División de Recursos Naturales Renovables del SAG.
+
+10.- Si la especie a importar está incluida en los apéndices de la Convención CITES, los interesados deberán dar cumplimiento a las exigencias de la misma y a la normativa vigente en la materia.
 
 Anótese, transcríbase y publíquese.- Fernando Peña Royo, Director Nacional (S).
