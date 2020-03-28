@@ -16,21 +16,19 @@ Decreto:
 
 Decláranse como Normas Oficiales de la República de Chile, las siguientes normas chilenas con su respectivo código y título de identificación:
 
-NCh398/4.Of2008 Tuberías y accesorios de
+NCh398/4.Of2008 Tuberías y accesorios
 
-polietileno (PE) para agua potable
+de polietileno (PE)
 
-- Requisitos - Parte 4: Métodos de
+para agua potable
+
+- Requisitos -
+
+Parte 4: Métodos de
 
 unión.
 
-NCh3151/1.Of2008 Sistemas de tuberías para
-
-instalaciones de agua fría y
-
-caliente: Polipropileno (PP) -
-
-Parte 1: Tuberías.
+NCh3151/1.Of2008 Derogado.
 
 #### Artículo 2°
 

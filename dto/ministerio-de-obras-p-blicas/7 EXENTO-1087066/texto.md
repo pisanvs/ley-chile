@@ -22,49 +22,81 @@ Decreto:
 
 Declárense como Normas Oficiales de la República de Chile a las siguientes normas chilenas con su respectivo código y título de identificación:
 
-NCh 691-2015 Agua potable - Producción, conducción,
+NCh 691-2015 Agua potable - Producción,
 
-almacenamiento y distribución - Requisitos
+conducción, almacenamiento
+
+y distribución - Requisitos
 
 de diseño.
 
-NCh 759-2014 Válvula de admisión y descarga para estanques
+NCh 759-2014 Válvula de admisión y
 
-y conectores de inodoros - Requisitos.
+descarga para estanques
 
-NCh 2313/6-2015 Aguas residuales - Métodos de análisis - Parte
+y conectores de
 
-6: Determinación de aceites y grasas.
+inodoros - Requisitos.
 
-NCh 3350/1-2014 Sistema de tuberías plásticas para alcantarillado
+NCh 2313/6-2015 Aguas residuales -
 
-sanitario enterrado sin presión - Sistema de
+Métodos de análisis -
 
-tuberías de paredes estructuradas de
+Parte 6: Determinación
 
-polietileno (PE) - Parte 1: Tuberías con pared
+de aceites y grasas.
 
-interna lisa y externa no lisa, Tipo C.
+NCh 3350/1-2014 Sistema de tuberías
 
-NCh 3353-201 Ingeniería sanitaria - Separadores de grasas-
+plásticas para
 
-Principios de diseño, características funcionales,
+alcantarillado
+
+sanitario enterrado
+
+sin presión - Sistema
+
+de tuberías de
+
+paredes estructuradas
+
+de polietileno (PE) -
+
+Parte 1: Tuberías con
+
+pared interna lisa
+
+y externa no lisa,
+
+Tipo C.
+
+NCh 3353-201 Ingeniería sanitaria -
+
+Separadores de grasas-
+
+Principios de diseño,
+
+características funcionales,
 
 ensayo, marcado.
 
-NCh 3354-2014 Ingeniería sanitaria - Alcantarillado de aguas
+NCh 3354-2014 Ingeniería sanitaria -
 
-servidas - Limpieza de una red de alcantarillado.
+Alcantarillado de aguas
 
-NCh 3366-2014 Uniones domiciliarias de alcantarillado en tuberías
+servidas - Limpieza de
 
-de polietileno de alta densidad (PEAD) - Requisitos.
+una red de alcantarillado.
 
-NCh 3151/2-2015 Sistema de tuberías plásticas para instalaciones
+NCh 3366-2014 Uniones domiciliarias de
 
-de agua fría y caliente - Polipropileno (PP) -
+alcantarillado en tuberías
 
-Parte 2: Accesorios.
+de polietileno de alta
+
+densidad (PEAD) - Requisitos.
+
+NCh 3151/2-2015 Derogado.
 
 El Instituto Nacional de Normalización deberá enviar tres ejemplares de dichas normas, debidamente certificadas en conformidad con el texto oficial de la Contraloría General de la República y, además, proporcionar gratuitamente el mismo número de ejemplares al Ministerio que las declara Normas Chilenas Oficiales de la República y a la Biblioteca Nacional.
 
