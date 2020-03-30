@@ -10416,7 +10416,7 @@ Conforme lo establece el inciso tercero del artículo 56 de la Ley General de Ba
 
 De acuerdo con lo dispuesto en el artículo 34 de la Ley General de Bancos, que hace extensivo a los bancos extranjeros que operan en Chile las leyes y reglamentos que rigen a los bancos nacionales, las instituciones financieras extranjeras que actúan en nuestro país están igualmente sujetas a la prohibición de disminuir el capital básico y patrimonio efectivo de su agencia en Chile, si con ello infringen el artículo 66 de la ley.
 
-Si bien las agencias de bancos extranjeros no reparten dividendos, dichas instituciones, conforme lo establece el inciso final del artículo 47 de la Ley General de Bancos, están facultadas para remesar al exterior sus utilidades líquidas con autorización previa de esta Superintendencia y con sujeción a las disposiciones legales vigentes y a las demás normas que rigen la materia. Sin embargo, a este respecto, cabe hacer presente que la autorización de este Organismo para el envío al exterior de remesas no implica de modo alguno que un banco extranjero pueda disminuir el capital y reservas radicados en el país, si con ello vulnera alguna de las proporciones del artículo 66 de la Ley General de Bancos.
+Si bien las agencias de bancos extranjeros no reparten dividendos, dichas instituciones, conforme lo establece el inciso final del artículo 47 de la Ley General de Bancos, están facultadas para remesar al exterior sus utilidades líquidas con autorización previa de esta Comisión y con sujeción a las disposiciones legales vigentes y a las demás normas que rigen la materia. Sin embargo, a este respecto, cabe hacer presente que la autorización de esta Comisión para el envío al exterior de remesas no implica de modo alguno que un banco extranjero pueda disminuir el capital y reservas radicados en el país, si con ello vulnera alguna de las proporciones del artículo 66 de la Ley General de Bancos.
 
 ### II. ACTIVO TOTAL Y ACTIVOS PONDERADOS POR RIESGO
 
@@ -10546,7 +10546,7 @@ Más de cinco años 10.0%
 
 Hoja 8
 
-Esta Superintendencia, eventualmente, modificará esos factores en función de cambios persistentes en las volatilidades subyacentes.
+Esta Comisión, eventualmente, modificará esos factores en función de cambios persistentes en las volatilidades subyacentes.
 
 Los contratos de derivados sobre tasas de interés o inflación incluyen swaps de tasas de interés en una misma moneda, acuerdos de tasa forward, futuros sobre tasas de interés, opciones compradas sobre tasas de interés, seguros de inflación e instrumentos similares.
 
@@ -10560,7 +10560,7 @@ En aquellos contratos derivados en que se establezca la obligación de liquidar 
 
 Para aquellos contratos derivados que tengan múltiples intercambios del monto nocional, los factores deberán ser multiplicados por el número de pagos que resten hasta su vencimiento. En tanto, para aquellos que contengan amortización de capital en determinados periodos, el monto adicional corresponderá a la suma de cada monto de amortización ponderado por el respectivo factor de conversión correspondiente al plazo residual de cada una de esas amortizaciones.
 
-La eventual existencia de cláusulas no incluidas en los párrafos anteriores, obliga a las entidades a aplicar criterios orientados a una correcta determinación del monto adicional, así como a mantener todos los respaldos e información pertinentes que permitan su posterior evaluación por parte de esta Superintendencia.
+La eventual existencia de cláusulas no incluidas en los párrafos anteriores, obliga a las entidades a aplicar criterios orientados a una correcta determinación del monto adicional, así como a mantener todos los respaldos e información pertinentes que permitan su posterior evaluación por parte de esta Comisión.
 
 3.2. Acuerdos de compensación bilateral.
 
@@ -10592,7 +10592,7 @@ Noc : Monto Nocional de los instrumentos derivados incluidos en el acuerdo de co
 
 Fc : Factor de conversión aplicable a cada contrato incluido en el acuerdo de compensación.
 
-El banco deberá mantener a disposición de esta Superintendencia toda la documentación que respalde la determinación del "equivalente de crédito" al amparo de las presentes normas, incluyendo todos los antecedentes de los respectivos acuerdos de compensación y contratos de derivados.
+El banco deberá mantener a disposición de esta Comisión toda la documentación que respalde la determinación del "equivalente de crédito" al amparo de las presentes normas, incluyendo todos los antecedentes de los respectivos acuerdos de compensación y contratos de derivados.
 
 3.3. Compensación de instrumentos derivados mediante una Entidad de Contraparte Central.
 
@@ -10627,6 +10627,18 @@ Del mismo modo, se podrá deducir también el valor razonable (neto de costos de
 Hoja 11
 
 En el caso de instrumentos derivados compensados y liquidados a través de una ECC, no corresponde descontar de la exposición las garantías individuales o cualquier otro tipo de caución equivalente, enteradas por las instituciones participantes; así como tampoco aquellas aportadas a uno o más fondos de garantía de carácter solidario, destinadas a asegurar el cumplimiento de las obligaciones de los participantes, cuando las garantías otorgadas individualmente resulten insuficientes.
+
+4. Garantías constituidas a favor de terceros bajo el amparo de un contrato marco
+
+Cuando se trate de operaciones con derivados celebrados bajo el amparo de un contrato marco de compensación bilateral, según lo indicado en el numeral 3.2 del Título II de este Capítulo, en que el valor razonable neto de las posiciones compensadas es negativo, se podrá deducir de las garantías constituidas en virtud del contrato dicho monto, a fin de determinar el activo sujeto a ponderación por riesgo, si las garantías cumplen con las siguientes condiciones:
+
+a) Existe una base legal fundada para concluir que el marco de compensación es aplicable también a las garantías constituidas en cada una de las jurisdicciones respectivas, independientemente de si la contraparte es insolvente o ha sido declarada en liquidación o quiebra;
+
+b) El banco es capaz de determinar en todo momento aquellos derechos y obligaciones que están sujetos a compensación; y
+
+c) Que se trate de aquellos depósitos e instrumentos en garantía definidos en el numeral 3.5 del del Título II de este Capítulo. Los títulos de deuda constituidos en garantía deberán ser considerados a su valor razonable, según los criterios definidos en el Capítulo 7-12 de esta Recopilación Actualizada de Normas.
+
+Para estos efectos, será la entidad bancaria la que en todo momento deberá tener disponible los antecedentes que justifiquen el cumplimiento de las condiciones anteriores.
 
 ## Capítulo 12-3
 
