@@ -430,6 +430,10 @@ transitorio.- El presente reglamento, comenzará a regir en un plazo de dos año
 
 transitorio.- Los extintores portátiles que hayan sido certificados con anterioridad a la entrada en vigencia del presente reglamento podrán ser comercializados en el territorio nacional solo durante los primeros ciento cincuenta días de entrada en vigencia del presente reglamento.
 
+#### Artículo tercero
+
+transitorio: A contar de la entrada en vigencia del presente reglamento, los servicios técnicos dispondrán de seis meses para dar cumplimiento a la certificación establecida en el artículo 25.
+
 #### Artículo segundo
 
 Derógase el decreto Nº 369, de 1996, del entonces Ministerio de Economía, Fomento y Reconstrucción, a partir de la entrada en vigencia del presente reglamento.
