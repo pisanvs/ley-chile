@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MAYOR
+
+Decreto supremo Nº 449, de fecha 17 de diciembre de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Corpesca S.A., RUT 96.893.820-7, primera renovación de concesión marítima mayor, con vencimiento el 30 junio del año 2030, sobre un sector de Terreno de Playa, Playa, fondo de mar y porción de agua, en el lugar denominado Barrio Industrial, comuna de Mejillones, provincia y Región de Antofagasta, con una superficie total de 3.425,467 m2, trámite SIABC Nº 41.706. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 23º 5' 36,37" S - 70º 25' 33,92" W. El objeto de esta concesión marítima, en los sectores otorgados es continuar amparando un área de resguardo; tres cañerías aductoras de agua de mar; tres cañerías conductoras de pescado y tres pontones bomba de hasta 1.500 TRG. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Mejillones. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Marcelo González González, Capitán de Corbeta LT, Capitán de Puerto Mejillones.
