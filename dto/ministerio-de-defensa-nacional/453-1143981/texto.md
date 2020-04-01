@@ -1,0 +1,7 @@
+TRANSFERENCIA DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 453, de fecha 17 de diciembre de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, correspondiente al SIABC Nº 42630, se autorizó transferencia de concesión marítima menor a la Sra. Dolores Vicent Ubilla, RUN Nº 15.643.088-9, al Sr. Rodrigo Peña Mora, RUN Nº 13.012.655-3 y a la Sra. Claudia Quiquincha Devia, RUN Nº 8.720.698-K, otorgada mediante decreto supremo Nº 401 de fecha 30 de agosto de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, sobre un sector de terreno de playa, con el objeto de continuar usufructuando y amparando dos casas de veraneo familiar y se encuentra ubicado en el lugar denominado Caleta El Horno, comuna de Mejillones, Provincia y Región de Antofagasta, con vencimiento al 30 de junio del año 2027. Las obras existentes corresponden a una casa de veraneo y la concesión abarca una superficie total de 400 m2.
+
+Los antecedentes del decreto referido se encuentran a disposición del público en la Capitanía Puerto de Mejillones. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Marcelo González González, Capitán de Corbeta LT, Capitán de Puerto Mejillones.
