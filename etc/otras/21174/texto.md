@@ -236,7 +236,7 @@ Hasta el 31 de diciembre del año de la publicación en el Diario Oficial de est
 
 #### Artículo tercero
 
-Para efectos de lo dispuesto en el artículo 1 de esta ley, el traspaso de los saldos que corresponda efectuar al Fondo Plurianual para las Capacidades Estratégicas de la Defensa y al Fondo de Contingencia Estratégico deberá materializarse dentro del plazo de cuarenta y ocho y de seis meses, respectivamente, contado desde la fecha de entrada en vigencia del artículo 4 de esta ley, conforme a las instrucciones que impartan conjuntamente los Ministros de Defensa Nacional y de Hacienda.
+Para efectos de lo dispuesto en el artículo 1 de esta ley, el traspaso de los saldos que corresponda efectuar al Fondo Plurianual para las Capacidades Estratégicas de la Defensa y al Fondo de Contingencia Estratégico deberá materializarse dentro del plazo de cuarenta y ocho y de veinticuatro meses, respectivamente, contado desde la fecha de entrada en vigencia del artículo 4 de esta ley, conforme a las instrucciones que impartan conjuntamente los Ministros de Defensa Nacional y de Hacienda.
 
 #### Artículo cuarto
 

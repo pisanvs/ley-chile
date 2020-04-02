@@ -446,7 +446,7 @@ Se entiende por administración de fondos, para los efectos de este decreto ley,
 
 El sistema antes citado operará sobre la base de recaudaciones y de asignaciones globales de recursos, las que se efectuarán a través de la Cuenta Unica Fiscal, abierta en el Banco del Estado de Chile, formada por la cuenta principal y las subsidíarias.
 
-La cuenta principal se destinará al ingreso de las recaudaciones y al egreso de los giros globales. Estos últimos deberán depositarse en las cuentas subsidiarias pertenecientes a los respectivos servicios.
+La cuenta principal se destinará al ingreso de las recaudaciones y al egreso de los giros globales. Estos últimos deberán depositarse en las cuentas que correspondan. Todas las recaudaciones deberán ser transferidas a la cuenta principal de la Cuenta Única Fiscal, según lo instruya el Ministro de Hacienda.
 
 #### Artículo 7°
 
