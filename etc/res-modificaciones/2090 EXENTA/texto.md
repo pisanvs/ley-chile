@@ -52,8 +52,6 @@ Mediante resolución del Director del Serviu respectivo, se determinarán los mo
 
 > **Nota.** NOTA 1 La letra c del numeral 1° de la Resolución 591 Exenta, Vivienda, publicada el 03.04.2020, modifica la presente norma en el sentido de reemplazar en la tabla inserta las filas Nº 2 y 39 del cuadro Construcción en Sitio Propio , por las que la citada norma indica.
 
-> **Nota.** NOTA 3 La letra a. del numeral 1 de Resolución 1499 Exenta, Vivienda, publicada el 21.10.2020, dispone reemplazar en los cuadros de Construcción en Sitio Propio, en la fila 5, de las columnas Provincia y Comuna, insertos en los resuelvo 2, 3 de la presente norma los topónimos "Itata y Cobquecura", por "Diguillín y Pinto", y, asimismo, ordena reemplazar en la fila 5 de la nómina del anexo de la presente norma, la comuna de Cobquecura por Pinto, respectivamente. Por su parte, la letra b. de la citada Resolución, dispone adicionar para el proyecto El Refugio, código 153840, de la Región de Ñuble, la suma de 30 Unidades de Fomento, por concepto de subsidio de habilitación y 12 Unidades de Fomento, por concepto de Asistencia Técnica.
-
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
