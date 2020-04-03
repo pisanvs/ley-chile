@@ -78,8 +78,6 @@ Alternativa Individual
 
 > **Nota.** El literal a) del numeral 1° de la Resolución 582 Exenta, Vivienda, publicado el 03.04.2020, modifica el resuelvo 3 de la presente norma en el sentido de reemplazar en la tabla "Construcción en Sitio Propio", por las filas que la citada norma indica, asimismo el literal d) modifica la tabla Construcción en Sitio Propio" del anexo el cual no fue publicado por lo que no se ha podido actualizar.
 
-> **Nota.** NOTA 1 El numeral 1° de la Resolución 908 Exenta, Vivienda, publicada el 13.06.2020, modifica la presente norma en el sentido de adicionar al proyecto Comité de Vivienda Sitio Propio para Vivir Mejor 3, Código 152604, de la comuna de Quillota de la Región de Valparaíso, la suma de 33 Unidades de Fomento, por concepto de subsidio de habilitación.
-
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
