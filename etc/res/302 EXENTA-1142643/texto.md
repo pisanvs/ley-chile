@@ -20,15 +20,15 @@ Resolución:
 
 1. Llámase a postulación para el otorgamiento de Subsidios para Proyectos para la Vivienda, del Capítulo Segundo, del DS Nº 27 (V. y U.), de 2016, que reglamenta el Programa de Mejoramiento de Viviendas y Barrios, a todas las regiones del país.
 
-2. Los plazos correspondientes a los procesos y fases de postulación y selección de este llamado, serán los siguientes:
+2. Los plazos correspondientes a los procesos, fases de postulación y selección de este llamado, serán los siguientes:
 
-a. Digitación de las postulaciones: desde el 24 de febrero al 6 de abril de 2020.
+a) Digitación de las postulaciones: desde el 24 de febrero al 11 de mayo de 2020.
 
-b. Habilitación de las postulaciones y Comunicación de resultados: desde el 7 de abril hasta el 16 de abril de 2020. En caso de requerirse el período de digitación podrá prorrogarse dentro del plazo de la Habilitación de las Postulaciones.
+b) Habilitación de las postulaciones y Comunicación de resultados: desde el 15 de mayo hasta el 1 de junio de 2020. En caso de requerirse, el período de digitación podrá prorrogarse dentro del plazo de la Habilitación de las Postulaciones.
 
-c. Presentación, Revisión y Calificación de los proyectos: desde el 17 de abril al 28 de mayo de 2020.
+c) Presentación, Revisión y Calificación de los proyectos: desde el 2 de junio al 17 de julio de 2020.
 
-d. A partir del 29 de mayo de 2020, se inicia el proceso de Selección de las postulaciones del presente llamado.
+d) A partir del 20 de julio de 2020, se inicia el proceso de Selección de las postulaciones del presente llamado.
 
 3. Los recursos disponibles para la selección de proyectos de este llamado, serán los siguientes montos por región.
 
@@ -65,6 +65,8 @@ c. Viviendas cuyo avalúo fiscal vigente al momento de la postulación, sea igua
 12. Para cumplir con lo señalado en el número 2) del Artículo 34, del DS Nº 27 (V. y U.) de 2016, respecto de que la Entidad Patrocinante no cuente con servicios y/o productos de Asistencia Técnica que no hayan sido ejecutados, respecto de proyectos DS Nº 255 (V. y U.) de 2006, la Entidad Patrocinante, deberá efectuar una declaración jurada indicando que no cuenta con servicios y/o productos de Asistencia Técnica pendientes de dicho tipo de proyectos.
 
 13. Los subsidios habitacionales que se otorguen conforme a esta resolución se imputarán a los Recursos del año 2020 del Programa de Mejoramiento de Viviendas y Barrios, regulado por el DS Nº 27 (V. y U.) de 2016.
+
+14. Respecto de las exigencias de reuniones de difusión / información, de capacitación o de trabajo en general con las familias y/o los representantes de los grupos y/o comités habitacionales, señaladas en los servicios y actividades de la resolución Ex. N° 1.237 (V. y U.) de 2019, que norma la Prestación de Servicios de Asistencia Técnica y Fiscalización Técnica de Obras del DS N° 27 (V. y U.) de 2016, y que forman parte de las actividades que debe desarrollar la Entidad Patrocinante con las familias pertenecientes a los grupos que postulan al presente llamado, se debe señalar que su ejecución no será obligatoria en la forma establecida en dicha normativa, pudiendo ser reemplazadas éstas por otras vías o mecanismos de participación no presencial, incluyendo a lo menos, en el caso de la difusión y capacitación, la preparación y entrega de material escrito atingente al Programa –y al proyecto específico a desarrollar–, al o los representantes legales del grupo, en el número y copias equivalentes al número de familias del proyecto. Del mismo modo, cuando sea factible, podrá proporcionarse información de forma virtual al o los representantes de las familias, actividades todas que deberán ser previamente aprobadas por Serviu. Tratándose de la aprobación del proyecto, cada familia deberá entregar un documento aprobatorio del mismo, mediante un formato que deberá proporcionarlo el comité, con la firma de cada uno de los beneficiarios del proyecto, sea esto directamente a la EP o a través del o los representantes del grupo.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Guillermo Rolando Vicente, Ministro de Vivienda y Urbanismo Subrogante .
 
