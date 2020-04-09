@@ -92,6 +92,4 @@ El puntaje total del grupo será la sumatoria simple de los factores identificad
 
 16. En todo aquello no regido por el presente llamado, se aplicarán las disposiciones que correspondan contenidas en el del decreto supremo N° 255 (V. y U.), de 2006.
 
-> **Nota.** El numeral 1° de la Resolución 1037 Exenta, Vivienda, publicada el 24.08.2020, asigna nuevos recursos por un total de 55.398,00 UF, destinados a complementar el proceso de selección del Llamado Regional en condiciones especiales año 2019 establecido por la presente norma, para el desarrollo de proyectos de Mejoramiento de la Vivienda, Título II, con la finalidad de beneficiar a las familias postulantes calificadas como "hábiles" del sector de Bajos de Mena.
-
 Anótese, publíquese en el Diario Oficial y archívese.- Boris Golppi Rojas, Secretario Regional Ministerial Metropolitano de Vivienda y Urbanismo.
