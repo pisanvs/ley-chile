@@ -34,7 +34,7 @@ a. El plantel de procedencia ha mantenido un programa de control sanitario, el c
 
 b. El plantel de procedencia ha mantenido un programa de control de vectores vigente.
 
-c. Durante los 90 días previos al embarque, en el plantel de procedencia y en los predios no se han presentado evidencias clínicas de enfermedades transmisibles que afectan a la especie: Anemia infecciosa equina, Encefalomielitis equina (Este, Oeste y Venezuela), Rabia, Piroplasmosis, Surra o mal de caderas (Tripanosoma evansii), Influenza equina, Metritis contagiosa equina, Salmonelosis (Salmonella abortus equi), Arteritis viral equina, Rinoneumonitis equina (Herpes virus Tipo I y Tipo IV), Encefalitis Japonesa y Enfermedad de Borna.
+c. Durante los 90 días previos al embarque, en el plantel de procedencia y en los predios vecinos dentro de un radio de 10 kilómetros no se han presentado evidencias clínicas de enfermedades transmisibles que afectan a la especie: Anemia infecciosa equina, Encefalomielitis equina (Este, Oeste y Venezuela), Rabia, Piroplasmosis, Surra o mal de caderas (Tripanosoma evansii), Influenza equina, Metritis contagiosa equina, Salmonelosis (Salmonella abortus equi), Arteritis viral equina, Rinoneumonitis equina (Herpes virus Tipo I y Tipo IV), Encefalitis Japonesa y Enfermedad de Borna.
 
 d. Los equinos permanecieron en una explotación en que durante seis meses anteriores al embarque no se señaló ninguna manifestación clínica ni serológica de Muermo.
 
@@ -58,7 +58,7 @@ ii. Arteritis viral equina:
 
 Machos enteros no vacunados:
 
-. Prueba de seroneutralización con resultado negativo o título menor o igual a 1:2 en una muestra de sangre colectada el día 7 del periodo de aislamiento.
+. Prueba de seroneutralización con resultado negativo o título menor a 1:4 en una muestra de sangre colectada el día 7 del periodo de aislamiento.
 
 Machos enteros vacunados:
 
@@ -78,7 +78,7 @@ Machos castrados o hembras:
 
 O bien;
 
-. Prueba de seroneutralización con resultados menor o igual a 1:2 dentro de los 21 días previos al embarque.
+. Prueba de seroneutralización con resultados menor a 1:2 dentro de los 21 días previos al embarque.
 
 O bien;
 
