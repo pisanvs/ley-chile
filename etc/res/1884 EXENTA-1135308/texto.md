@@ -36,8 +36,6 @@ f. A partir del 11 de febrero de 2020 se iniciará el proceso de Selección de l
 
 3. Los recursos disponibles para la selección de proyectos de este llamado, serán los siguientes montos por región.
 
-.
-
 Con estos montos se definirá el número de postulantes que deberán presentar las Carpetas de sus proyectos al Serviu. Asimismo, tendrán que presentar sus carpetas, los postulantes de la lista de espera señalada en el segundo párrafo del numeral 2 del Artículo 27 del DS Nº 27 (V. y U.) de 2016, que se determinará con el equivalente al 25% de los recursos dispuestos en el presente llamado, no obstante, si el número de proyectos no calificados supera dicho porcentaje, podrán aumentar los postulantes de la lista de espera hasta completar los recursos disponibles.
 
 Si una vez concluido el proceso señalado quedaren recursos disponibles, mediante resoluciones que el Ministro de Vivienda y Urbanismo dicte al efecto, se podrán redistribuir los recursos señalados en la tabla precedente total o parcialmente.
