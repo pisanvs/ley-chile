@@ -20,7 +20,7 @@ Cuando el país o la zona de origen se encuentra reconocida como libre de Fiebre
 
 1.1 DEL PAIS O ZONA DE PROCEDENCIA
 
-1.1.1 El país o la zona de procedencia está declarado libre de Fiebre Aftosa sin vacunación, Peste Bovina, Pleuroneumonía Contagiosa Bovina ante la Organización Mundial de Sanidad Animal (OIE) y reconocida por Chile esta condición sanitaria.
+1.1.1 El país o la zona de procedencia está declarado libre de Fiebre Aftosa sin vacunación, Pleuroneumonía Contagiosa Bovina ante la Organización Mundial de Sanidad Animal (OIE) y reconocida por Chile esta condición sanitaria.
 
 1.1.2 El Servicio Veterinario Oficial del país de procedencia cuenta con el reconocimiento del SAG y ha sido evaluado favorablemente en cuanto a su estructura, organización e información zoosanitaria, que dan garantías del eficaz cumplimiento de las exigencias sanitarias establecidas por Chile, de acuerdo a las disposiciones vigentes al respecto.
 
@@ -96,7 +96,7 @@ Las carnes que provienen de países o zonas reconocidos por Chile como libres de
 
 2.2.3 Provienen de una población de rebaños que ha sido sometida a vigilancia de Fiebre Aftosa, para determinar ausencia de circulación viral con pruebas recomendadas internacionalmente y con un número de muestras obtenidas de acuerdo a un diseño estadístico representativo. El país exportador deberá enviar al SAG una vez al año un reporte que entregue detalles del diseño de muestreo aplicado, así como los resultados obtenidos.
 
-2.2.4 Los bovinos de los cuales proceden las carnes han sido inspeccionados pre y post mortem y reconocidos como libres de enfermedades de riesgo para la salud animal.
+2.2.4 Los bovinos de los cuales proceden las carnes han sido inspeccionados pre y post mortem y reconocidos como libres de enfermedades de riesgo para la salud animal. La inspección post mortem, deberá incluir las patas y manos, las que se presentarán limpias, para examen del rodete coronario y el espacio interdigital y en la cabeza se realizará adicionalmente el examen de ollares y boca de los bovinos que originan los productos con destino a Chile.
 
 2.3 DE LAS PLANTAS FAENADORAS Y CENTRALES DE DESPOSTE
 
@@ -122,7 +122,7 @@ Las carnes que provienen de países o zonas reconocidos por Chile como libres de
 
 2.4.3 Después de la maduración, la carne refrigerada será mantenida a temperaturas entre 0° y 4°C, y a temperaturas inferiores a -12°C, las congeladas
 
-2.4.4 Sólo podrán importarse carnes en cortes sin hueso, carnes molidas, picadas, trimming y hamburguesas, todas desprovistas de ganglios.
+2.4.4 Sólo podrán importarse carnes en cortes sin hueso, carnes molidas, picadas, trimming y hamburguesas, todas desprovistas de ganglios. No podrá importarse la cabeza, incluidos sus partes blandas, como los músculos, laringe, faringe, lengua y nódulos linfáticos asociados.
 
 2.4.5 Las carnes han permanecido almacenadas en cámaras separadas de otras carnes destinadas a países que tengan exigencias sanitarias inferiores a las de Chile.
 
@@ -178,7 +178,7 @@ Cumple las condiciones del párrafo 2.3
 
 Las carnes congeladas deberán ser mantenidas a temperaturas inferiores a -12ºC
 
-3.4.4. Sólo podrán importarse carnes en cortes sin hueso, excluyéndose carne picada, trimming, hamburguesas y carne molida en todas sus formas y despostes.
+3.4.4. Sólo podrán importarse carnes en cortes sin hueso. No podrá importarse carne picada, trimming, hamburguesas y carne molida en todas sus formas y despostes, ni tampoco la cabeza y sus partes blandas, como los músculos, laringe, faringe, lengua y nódulos linfáticos asociados.
 
 3.4.5 Las carnes deben estar desprovistas de ganglios y grasa de cobertura, aceptándose un máximo de 3% de grasa visible recortable con una tolerancia de 2%. Sólo en el lomo liso y lomo vetado (músculo longisimus dorsi porción toráxica y lumbar) se aceptará un 5% de grasa visible recortable con una tolerancia de un 3%.
 
