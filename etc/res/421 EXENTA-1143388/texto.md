@@ -48,25 +48,15 @@ Para efectos del presente llamado, las tipologías señaladas en el párrafo pre
 
 2. Los recursos involucrados por Región, para la selección de postulantes según alternativa, son los siguientes:
 
-.
-
 3. Dispónese que, atendidas las circunstancias que afectan al país actualmente, los antecedentes de postulación de los proyectos podrán ser presentados en formato digital, debiendo cumplir con los requisitos y plazos establecidos en el presente llamado, los que serán validados por el Serviu en la forma que se dispondrá especialmente para ello y que será informada oportunamente a través de resolución del Director de Serviu. Con todo, para proceder a la calificación del proyecto, el Serviu podrá solicitar la entrega en un solo acto de los antecedentes físicos del proyecto, con posterioridad a la selección, y en forma previa al inicio de obras.
 
 4. Podrán ser ingresados al Serviu para su calificación, proyectos habitacionales correspondientes a la tipología de Pequeño Condominio, regulada en la letra d), del artículo 9 del DS N° 49 (V. y U.), de 2011, que se desarrollen en un predio urbano preexistente de hasta 1.000 metros cuadrados, y en el cual se construyan hasta 12 soluciones habitacionales, siempre y cuando la densidad neta de los proyectos sea igual o superior a 100 viviendas por hectárea y que, a su vez, el lote no sea parte de una o más etapas colindantes o consecutivas que conformen conjuntamente un proyecto mayor.
-
-La densidad señalada en el inciso precedente, no será exigible en los casos en que, en el predio en que se desarrolle el proyecto, se incremente con el número de viviendas existentes en éste, aun cuando se contemple su demolición y reposición.
 
 Además, para las tipologías de Pequeño Condominio no será exigible que el grupo organizado postulante se constituya como persona jurídica, de acuerdo a lo establecido en el inciso segundo del artículo 7 del DS N° 49 (V. y U.), de 2011.
 
 5. El número de proyectos seleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el Resuelvo 2., para cada alternativa señalada, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones y/o ajustes de marco presupuestario que serán aprobados mediante resolución.
 
 6. Los postulantes al presente llamado deben acreditar haber enterado el siguiente ahorro mínimo, conforme la calificación socioeconómica que presenten a la fecha de su incorporación al proyecto:
-
-6 bis. La certificación del ahorro que se señala en el penúltimo inciso del artículo 39 del DS Nº 49 (V. y U.), de 2011, se podrá producir en fecha posterior al ingreso de los antecedentes del grupo organizado al Sistema Informático respectivo. De esta forma, el proyecto obtendrá su Certificado de Proyecto Ingresado, con lo que se dará inicio a su proceso de evaluación, aun cuando las familias no cumplan con el ahorro mínimo a que se refiere el resuelvo 6. de esta resolución.
-
-Para hacer efectivo lo anterior, en el módulo informático del sistema Umbral, en la pestaña de ahorro, deberá marcarse la casilla "condición especial de ahorro" e ingresar el número y fecha de la resolución que establece el presente llamado.
-
-Con todo, para la obtención del Certificado de Calificación del proyecto, deberá acreditarse la totalidad del ahorro, mínimo y adicional si corresponde, en cada una de las libretas de ahorro de los postulantes. El cumplimiento del ahorro deberá ser informado por la Entidad Patrocinante del Proyecto, vía correo electrónico, al Serviu respectivo, el cual deberá verificar lo señalado y proceder, si corresponde, a calificar el Proyecto.
 
 7. Todos los antecedentes de los postulantes, incluyendo la conformación del núcleo familiar y las condiciones de la vivienda habitada, serán consultados directamente del Registro Social de Hogares respectivo. Para efectos de estimar puntaje en la selección, conforme el artículo 24 del DS N° 49 (V. y U.), de 2011; de no contar con información de caracterización socioeconómica actualizada, los postulantes no obtendrán puntaje por este factor.
 
@@ -88,7 +78,7 @@ e) Obras de acceso a la vivienda, tales como escaleras exteriores y/o rampas, pr
 
 Con todo, el incremento mencionado en este Resuelvo, será incompatible con el monto individual de hasta 130 Unidades de Fomento dispuesto en el tercer inciso de la letra h), del artículo 35 del DS N° 49 (V. y U.), de 2011.
 
-11. Los proyectos de las tipologías Densificación Predial y Pequeño Condominio que incluyan unidades de vivienda de dos o más pisos, podrán acceder al subsidio complementario de Densificación en Altura, mencionado en el inciso primero de la letra d), del artículo 35, del DS Nº 49 (V. y U.), de 2011, cumpliendo solamente con el requisito establecido en el numeral 4. de dicho inciso, en cuanto a tratarse de un condominio acogido a la Ley Nº 19.537, Sobre Copropiedad Inmobiliaria, y cumplir con las superficies mínimas establecidas en el cuadro inserto en el inciso primero del resuelvo 18 de la presente resolución.
+11. Los proyectos de las tipologías en Densificación Predial y Pequeño Condominio que incluyan unidades de vivienda de dos o más pisos, podrán acceder al subsidio complementario de Densificación en Altura, mencionado en el inciso primero de la letra d), del artículo 35, del DS N° 49 (V. y U.), de 2011, cumpliendo solamente con los requisitos establecidos en los numerales 3. y 4. ahí indicados, y con las superficies mínimas establecidas en el cuadro inserto en el inciso primero del Resuelvo 17 de la presente resolución. Para los efectos del cumplimiento de lo establecido en el numeral 3. antes mencionado, los proyectos deberán cumplir con la densidad mínima de viviendas por hectárea indicada en la resolución exenta N° 2.478 (V. y U.), de 2015, salvo que en el predio donde se desarrolle el proyecto, haya existido una vivienda que esté siendo reemplazada con el proyecto.
 
 Además, se permitirá a los proyectos de las tipologías en Densificación Predial y Pequeño Condominio, acceder a las 40 Unidades de Fomento adicionales establecidas en el segundo inciso de la letra d), del artículo 35, del DS N° 49 (V. y U.), de 2011, cumpliendo solamente con el requisito establecido en el numeral 3. del primer inciso del mismo artículo.
 
@@ -211,8 +201,6 @@ Los antecedentes que se ingresen al Serviu para efectos de obtener la calificaci
 28. Opcionalmente a los antecedentes para acreditar disponibilidad de terreno para postulantes de la tipología de Densificación Predial a que alude la letra k) del artículo 3 del DS N° 49 (V. y U.), de 2011, podrá presentarse Copia de la inscripción en el Conservador de Bienes Raíces del instrumento público mediante el cual se hubiere constituido usufructo o derecho real de uso por el propietario del terreno, incluso si se tratare de una sucesión hereditaria de la que el mismo postulante forme parte, sobre una determinada porción del mismo, a favor de éste.
 
 Tratándose de proyectos de las tipologías de pequeño Condominio y Densificación Predial, aun cuando postulen con los antecedentes a que alude el número 2. y 4. de la letra l), o número 1. de la letra k), del artículo 3 del DS N° 49 (V. y U.), de 2011, respectivamente, podrán ser calificados en forma definitiva, salvo que se configuren las otras condiciones para la calificación condicionada que establece el reglamento y el presente llamado.
-
-Los requisitos exigidos en las letras j), k) y l), del artículo 3, y en la letra h), del artículo 10, del DS 49 (V. y U.), de 2011, correspondientes a la disponibilidad de terreno y sus factibilidades, respectivamente, que deben cumplir quienes postulen a la modalidad de Construcción en Sitio propio, Densificación Predial, o Pequeño Condominio, podrán acreditarse mediante instrumentos emitidos hasta con un año de anticipación a la fecha de postulación.
 
 29. Tratándose de proyectos en que el valor del permiso de edificación se encuentre incluido en el presupuesto, el Serviu podrá otorgar anticipos a cuenta del pago del subsidio para su financiamiento, luego de emitida la resolución que otorga los subsidios habitacionales, contra presentación de la orden de ingreso o documento emitido por el municipio para el pago del permiso de edificación. El Serviu transferirá en forma directa al municipio respectivo el valor del permiso de edificación.
 
