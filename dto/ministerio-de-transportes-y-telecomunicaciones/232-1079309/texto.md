@@ -122,6 +122,8 @@ Explotador de aeronaves: Persona natural o jurídica que utiliza la aeronave por
 
 Gestión de riesgos: Aplicación sistemática de procedimientos y métodos de trabajo que proporcionan a los organismos encargados de la inspección la información necesaria para atender movimientos o envíos que representan un riesgo.
 
+Información anticipada sobre pasajeros (API): Sistema de comunicación electrónica mediante el cual el explotador de aeronaves captura los datos biográficos y detalles del vuelo del pasajero y miembro de la tripulación y los transmite a la Subsecretaría del Interior, antes y/o después de la salida del vuelo.
+
 Inicio del viaje: El punto en que la persona inició su viaje, sin tener en cuenta ningún aeropuerto en el que haya hecho una parada en tránsito directo, ya sea en un vuelo directo o en un vuelo de enlace, si no salió de la zona de tránsito directo del aeropuerto en cuestión.
 
 Inspector de la aviación civil: Es una persona que se encarga de inspeccionar la seguridad operacional, la seguridad de la aviación u otros aspectos directamente relacionados con las operaciones del transporte aéreo, de acuerdo con las instrucciones del organismo competente.
@@ -156,13 +158,13 @@ Provisiones transportadas a bordo: Artículos, ya sea desechables o destinados p
 
 Publicación de Información Aeronáutica (AIP Chile): Publicación expedida por Chile, que contiene información aeronáutica de carácter duradero, indispensable para la navegación aérea.
 
+Registro de nombres de los pasajeros (PNR): Sistema de comunicación electrónica por el cual el explotador de aeronaves captura los datos proporcionados por el pasajero al sistema de control de reservas y registro de vuelo, y los transmite a la Subsecretaría del Interior, en conjunto con los datos API, antes y/o después de la salida del vuelo.
+
 Repuestos: Artículos, incluso motores y hélices, para reparación y de recambio, con miras a su montaje en las aeronaves.
 
 Riesgo para la salud pública: La probabilidad de que se produzca un evento que pueda afectar adversamente la salud de poblaciones humanas y, en particular, de que se propague internacionalmente o pueda suponer un peligro grave y directo.
 
 Reglamento Sanitario Internacional (RSI 2005): Reglamento Sanitario Internacional, promulgado por DS 230, de 2008, del Ministerio de Relaciones Exteriores.
-
-Sistema de información anticipada sobre los pasajeros (API): Sistema de comunicaciones electrónicas mediante el cual los datos requeridos se recopilan y transmiten a los organismos encargados del control migratorio antes de la salida o llegada del vuelo en el aeropuerto correspondiente.
 
 Sociedad Concesionaria o concesionario: La sociedad con la que se celebra el Contrato de Concesión de la infraestructura aeroportuaria correspondiente.
 
@@ -192,53 +194,69 @@ Las normas y procedimientos que se establecen en el presente reglamento se aplic
 
 1.2.1 Los organismos competentes, adoptarán las medidas tendientes a incentivar que:
 
-a) el tiempo requerido para la realización de los controles
+a) el tiempo requerido para la realización de
 
-fronterizos relativos a las personas y a la aeronave y al
+los controles fronterizos relativos a las
 
-levante o despacho de la carga se límite al mínimo en la
+personas y a la aeronave y al levante o
 
-medida de lo posible;
+despacho de la carga se límite al mínimo en
 
-b) se limite al mínimo, en la medida de lo posible, todo
+la medida de lo posible;
 
-inconveniente causado por la aplicación de los requisitos
+b) se limite al mínimo, en la medida de lo
+
+posible, todo inconveniente causado por la
+
+aplicación de los requisitos
 
 administrativos y de control;
 
-c) el intercambio de la información pertinente entre los organismos
+c) el intercambio de la información pertinente
 
-competentes, explotadores y aeropuertos se fomente y promueva
+entre los organismos competentes,
 
-en la mayor medida posible, y
+explotadores y aeropuertos se fomente y
 
-d) se alcancen niveles óptimos de seguridad, accesibilidad, y se
+promueva en la mayor medida posible, y
 
-cumpla con la normativa.
+d) se alcancen niveles óptimos de seguridad,
 
-Lo anterior, es sin perjuicio de las medidas que se adopten por
+accesibilidad, y se cumpla con la
 
-los distintos organismos con competencia en la materia, en
+normativa.
 
-conformidad a la normativa vigente.
+Lo anterior, es sin perjuicio de las
+
+medidas que se adopten por los distintos
+
+organismos con competencia en la materia,
+
+en conformidad a la normativa vigente.
 
 1.2.2 Los organismos involucrados en los aspectos relacionados con la Facilitación (FAL) propenderán a:
 
-a) utilizar la gestión de riesgos en la aplicación de los
+a) utilizar la gestión de riesgos en la
 
-procedimientos de control fronterizo para el levante o despacho
+aplicación de los procedimientos de control
+
+fronterizo para el levante o despacho
 
 de mercancías;
 
-b) desarrollar una tecnología de la información eficaz para
+b) desarrollar una tecnología de la
 
-aumentar la eficiencia y efectividad de sus procedimientos en
+información eficaz para aumentar la
 
-los aeropuertos, y
+eficiencia y efectividad de sus
 
-c) elaborar procedimientos de presentación de datos con antelación
+procedimientos en los aeropuertos, y
 
-a la llegada, a fin de acelerar el levante o despacho.
+c) elaborar procedimientos de presentación
+
+de datos con antelación a la llegada,
+
+a fin de acelerar el levante o despacho.
 
 1.2.3 Las disposiciones contenidas en el presente Reglamento, no impedirán la aplicación de la legislación nacional en lo que respecta a las medidas de seguridad de la aviación u otros controles que sean necesarios.
 
@@ -274,21 +292,29 @@ En el caso de la existencia de una zona afectada por una Emergencia de Salud Pú
 
 2.2.4 Con sujeción a la capacidad tecnológica, los documentos para la entrada y salida de aeronaves se aceptarán cuando se presenten:
 
-a) en forma electrónica, transmitidos a un sistema de información
+a) en forma electrónica, transmitidos a un
 
-de los organismos competentes, en el evento de que éste se
+sistema de información de los organismos
+
+competentes, en el evento de que éste se
 
 encuentre habilitado y en funcionamiento.
 
-b) en forma impresa, producidos o transmitidos electrónicamente; o
+b) en forma impresa, producidos o transmitidos
 
-c) en forma impresa, llenados manualmente y siguiendo los formatos
+electrónicamente; o
 
-descritos en este Reglamento, en particular, la "Declaración
+c) en forma impresa, llenados manualmente y
 
-general" (Apéndice 1), el "Manifiesto de pasajeros"
+siguiendo los formatos descritos en este
 
-(Apéndice 2) y el "Manifiesto de carga" (Apéndice 3).
+Reglamento, en particular, la "Declaración
+
+general" (Apéndice 1), el "Manifiesto
+
+de pasajeros" (Apéndice 2) y el "Manifiesto
+
+de carga" (Apéndice 3).
 
 2.2.5 Cuando se requiera una declaración general se considerará la información referida a los elementos indicados en el Apéndice 1.
 
@@ -300,9 +326,9 @@ general" (Apéndice 1), el "Manifiesto de pasajeros"
 
 2.2.9 Por lo que respecta a los suministros cargados o descargados de una aeronave, la información requerida en la lista de suministros no excederá de:
 
-a) la información indicada en el encabezamiento del modelo de
+a) la información indicada en el encabezamiento
 
-manifiesto de carga;
+del modelo de manifiesto de carga;
 
 b) el número de unidades de cada producto; y
 
@@ -374,37 +400,47 @@ Los organismos competentes adoptarán medidas para que cuando haya contaminació
 
 2.6.6 La DGAC, para aquellos vuelos que soliciten autorización previa:
 
-a) establecerá procedimientos mediante los cuales se dé curso
+a) establecerá procedimientos mediante los
 
-rápido a esas solicitudes;
+cuales se dé curso rápido a esas
 
-b) siempre que sea posible, otorgará dichos permisos, por un
+solicitudes;
 
-período de tiempo determinado o respecto a cierto número de
+b) siempre que sea posible, otorgará dichos
+
+permisos, por un período de tiempo
+
+determinado o respecto a cierto número de
 
 vuelos; y
 
-c) no percibirá honorarios, derechos ni impuestos por el
+c) no percibirá honorarios, derechos ni
 
-otorgamiento de tales permisos.
+impuestos por el otorgamiento de tales
+
+permisos.
 
 2.6.7 La DGAC, cuando corresponda, otorgará permiso para ingresar al territorio de Chile, sobrevolarlo o hacer escalas técnicas y/o comerciales a las aeronaves extranjeras que así lo requieran, para lo cual se deberán indicar los siguientes datos:
 
 a) Nombre del explotador y/o Estado;
 
-b) Nacionalidad, matrícula y tipo de la aeronave;
+b) Nacionalidad, matrícula y tipo de la
 
-c) Fecha del vuelo y hora de llegada al primer punto de escala
+aeronave;
 
-en Chile;
+c) Fecha del vuelo y hora de llegada al
 
-d) Aeropuertos de escala previstos en el territorio nacional;
+primer punto de escala en Chile;
+
+d) Aeropuertos de escala previstos en el
+
+territorio nacional;
 
 e) Peso máximo de despegue de la aeronave; y
 
-f) Objeto del vuelo, número de pasajeros y naturaleza y cantidad
+f) Objeto del vuelo, número de pasajeros y
 
-de la carga.
+naturaleza y cantidad de la carga.
 
 2.6.8 La DGAC publicará, en el AIP Chile, el tiempo mínimo requerido con antelación a los vuelos para procesar las solicitudes de autorizaciones previas, a las que se hace referencia en 2.6.7.
 
@@ -418,11 +454,17 @@ de la carga.
 
 a) nombre del explotador;
 
-b) nacionalidad, matrícula y tipo de la aeronave;
+b) nacionalidad, matrícula y tipo de la
 
-c) fecha del vuelo y de llegada al primer punto de escala en Chile;
+aeronave;
 
-d) aeropuertos de escala previstos en el territorio nacional; y
+c) fecha del vuelo y de llegada al primer
+
+punto de escala en Chile;
+
+d) aeropuertos de escala previstos en el
+
+territorio nacional; y
 
 e) peso máximo de despegue de la aeronave.
 
@@ -430,9 +472,15 @@ e) peso máximo de despegue de la aeronave.
 
 a) nacionalidad, matrícula y tipo de aeronave;
 
-b) dirección postal y nombre de la persona o entidad por cuya cuenta y riesgo se realiza el vuelo; y
+b) dirección postal y nombre de la persona o
 
-c) fecha y hora aproximada del sobrevuelo del territorio de Chile.
+entidad por cuya cuenta y riesgo se
+
+realiza el vuelo; y
+
+c) fecha y hora aproximada del sobrevuelo del
+
+territorio de Chile.
 
 2.6.13 La DGAC aceptará la información contenida en el plan de vuelo como aviso previo adecuado de llegada, siempre que esta información se reciba como mínimo con dos horas de antelación a la llegada, y el aterrizaje se efectúe en el aeropuerto previamente designado.
 
@@ -470,11 +518,13 @@ Entrada y salida de personas y de su equipaje
 
 3.3.3 Los organismos competentes establecerán controles apropiados para la totalidad del proceso de solicitud, otorgamiento y expedición de documentos de viaje.
 
+3.3.4 La PDI notificará prontamente a la OIPC-Interpol, el robo, extravío y revocación de documentos de viaje expedidos por el Servicio Nacional de Registro Civil e Identificación, proveyendo la información precisa para su inclusión en la SLTD.
+
 3.4. DOCUMENTOS DE VIAJE
 
-3.4.1 Los organismos competentes emitirán únicamente documentos de viaje de lectura mecánica, pudiendo utilizarse otros mecanismos de tecnología más avanzada. Lo anterior, no tiene por objeto excluir la emisión de pasaportes o documentos de viajes provisionales que no sean de lectura mecánica, de validez limitada, en casos calificados o de emergencia debidamente justificados.
+3.4.1 Los organismos competentes emitirán únicamente documentos de viaje de lectura mecánica, pudiendo utilizarse otros mecanismos de tecnología más avanzada. Asimismo, serán al menos de lectura mecánica los documentos de viaje para refugiados y personas apátridas, en conformidad con las especificaciones del Doc OACI 9303 de la OACI.
 
-3.4.2 Los organismos competentes, establecerán procedimientos para la solicitud de expedición, renovación o reemplazo de pasaportes y pondrán a disposición de los solicitantes la información que describa sus requisitos.
+3.4.2 Los organismos competentes, establecerán procedimientos para la solicitud de expedición, renovación o reemplazo de documentos de viaje y pondrán a disposición de los solicitantes la información que describa sus requisitos.
 
 3.4.3 Los organismos competentes, expedirán documentos de viaje individuales para cada persona, sea cual fuere su edad.
 
@@ -510,7 +560,7 @@ Cuando se exija por el organismo competente prueba de vacunación o profilaxis, 
 
 3.9.1 Cuando sea solicitado, los organismos competentes asistirán a los explotadores de aeronaves en la evaluación de los documentos de viaje presentados por los pasajeros a fin de prevenir fraude y abusos.
 
-3.9.2 Los explotadores de aeronaves deberán tomar las precauciones necesarias con los pasajeros que embarcan, para velar que estén premunidos de documentos idóneos para el tránsito y los exigidos en el país de destino, de acuerdo a la respectiva calidad de ingreso.
+3.9.2. Al embarque, los explotadores de aeronaves o la compañía que opera en su nombre, tomarán las precauciones necesarias para velar por que los pasajeros, según su calidad de ingreso, estén premunidos de los documentos exigidos para el tránsito e ingreso al país de destino, de acuerdo a la normativa vigente. Se entenderá por "precauciones necesarias", para estos efectos, la verificación de que cada persona porte un documento de viaje válido, y el visado o permiso de residencia cuando corresponda, requerido para permanecer en tránsito o ingresar al país de destino, efectuada por personal adecuadamente capacitado para velar por la detección de toda irregularidad.
 
 3.9.3 Los organismos competentes retendrán o incautarán, según corresponda, los documentos de viaje fraudulentos, falsificados o imitados, así como los documentos de viaje presentados por una persona pretendiendo ser su titular legítimo sin serlo y comunicarán el hecho a la autoridad competente para expedir tales documentos o a la misión diplomática del país correspondiente residente en Chile. Lo anterior es sin perjuicio de la remisión de todos los antecedentes al Ministerio Público, junto con la denuncia de los hechos que dieron origen a la retención o incautación.
 
@@ -532,7 +582,7 @@ Los organismos competentes, efectuarán la inspección de los documentos de viaj
 
 3.11.4 Los explotadores de aeronaves deberán reembarcar, por su propia cuenta, en el menor tiempo posible y sin responsabilidad para el Estado, a los pasajeros y tripulantes cuyo ingreso sea rechazado por carecer de documentación o no estar en regla la que tuvieren, sin perjuicio de las sanciones que les correspondan de acuerdo a la normativa vigente. La misma obligación tendrán con respecto a los tripulantes extranjeros que queden en el territorio nacional sin contar con la debida autorización.
 
-3.11.5 En el caso que Chile implemente un sistema de información anticipada sobre los pasajeros (API), en el marco de su normativa interna, los organismos competentes considerarán los estándares internacionales reconocidos para la transmisión de información anticipada sobre los pasajeros.
+3.11.5 Derogada.
 
 3.11.6 Los organismos competentes, realizarán las gestiones para que en la medida de lo posible, los documentos de identidad de un visitante sean examinados, solamente una vez dentro del aeropuerto, en el momento de la entrada y en el momento de la salida.
 
@@ -540,7 +590,7 @@ Los organismos competentes, efectuarán la inspección de los documentos de viaj
 
 3.11.8 Los organismos competentes que expidan visados por un número limitado de entradas indicarán de forma apropiada, clara y que no sea despectiva, cada vez que se utilice el visado. Lo anterior, a fin de que su titular, cualquier explotador de aeronaves o las autoridades competentes de un Estado puedan determinar su validez rápidamente y sin emplear medios especiales.
 
-3.11.9 Después de la presentación individual por los pasajeros y la tripulación de sus pasaportes u otros documentos de viaje oficiales, los funcionarios inspectores pertenecientes a los organismos competentes, excepto en casos especiales, devolverán inmediatamente los documentos, una vez examinados.
+3.11.9 Después de la presentación individual por los pasajeros y la tripulación de sus documentos de viaje, los funcionarios inspectores pertenecientes a los organismos competentes, excepto en casos especiales, devolverán inmediatamente los documentos, una vez examinados.
 
 3.12 PROCEDIMIENTOS Y REQUISITOS DE TRÁNSITO
 
@@ -569,6 +619,12 @@ Los organismos competentes, efectuarán la inspección de los documentos de viaj
 3.15 ASISTENCIA DE EMERGENCIA/VISADOS DE ENTRADA EN CASOS DE FUERZA MAYOR
 
 Los organismos competentes establecerán medidas para que a los pasajeros en tránsito que se encuentren imprevistamente retrasados debido a la cancelación o el retraso de un vuelo se les permita salir del aeropuerto con la finalidad de alojarse, en conformidad a la normativa vigente.
+
+3.16 Niños, Niñas y Adolescentes
+
+3.16.1 Los explotadores de aeronaves requerirán que los niños y niñas con una edad inferior a cinco años viajen siempre en compañía de una persona adulta, legalmente habilitada para transportarlos fuera del país.
+
+3.16.2 Los explotadores de aeronaves establecerán un programa de capacitación para su personal sobre el tratamiento que debe darse a niños, niñas y adolescentes que viajen sin la compañía de una persona adulta, a fin de que se asegure en el transporte el resguardo de su interés superior.
 
 ## Capítulo 4
 
@@ -630,69 +686,95 @@ El SNA dispondrá de procedimientos para la presentación de una declaración de
 
 4.4.4 Los organismos competentes dispondrán lo necesario para el levante o despacho de mercancías según procedimientos de aduana simplificados, siempre que:
 
-a) el valor de las mercancías sea inferior a un valor máximo por
+a) el valor de las mercancías sea inferior
 
-debajo del cual no se recauden derechos o impuestos a la
+a un valor máximo por debajo del cual
+
+no se recauden derechos o impuestos a la
 
 importación;
 
-b) las mercancías estén sujetas a derechos e impuestos a la
+b) las mercancías estén sujetas a derechos
 
-importación cuyo importe sea inferior al mínimo fijado por el
+e impuestos a la importación cuyo importe
+
+sea inferior al mínimo fijado por el
 
 Estado para fines de recaudación; o
 
-c) el valor de las mercancías sea inferior a los valores límite
+c) el valor de las mercancías sea inferior
 
-especificados por debajo de los cuales las mercancías puedan
+a los valores límite especificados por
 
-ser objeto de levante o despacho inmediatamente, sobre la
+debajo de los cuales las mercancías puedan
 
-base de una sencilla declaración y el pago de los derechos e
+ser objeto de levante o despacho
 
-impuestos a la importación aplicables, o dando a la aduana
+inmediatamente, sobre la base de una
 
-la seguridad de que se efectuará dicho pago; o
+sencilla declaración y el pago de los
 
-d) las mercancías hayan sido importadas por una persona
+derechos e impuestos a la importación
 
-autorizada y sean de un determinado tipo.
+aplicables, o dando a la aduana
+
+la seguridad de que se efectuará dicho
+
+pago; o
+
+d) las mercancías hayan sido importadas por
+
+una persona autorizada y sean de un
+
+determinado tipo.
 
 4.4.5 Los organismos competentes permitirán que las mercancías que se hayan descargado de una aeronave en un aeropuerto se trasladen a cualquier recinto de depósito aduanero para fines de despacho. Los procedimientos de aduanas relativos a tal traslado serán los más simplificados posibles.
 
 4.4.6 Cuando por causa de error, emergencia o inaccesibilidad a la llegada, las mercancías no se descarguen en el lugar de destino previsto, los organismos competentes no impondrán sanciones, multas u otros cargos similares siempre que:
 
-a) el explotador de la aeronave o su agente autorizado notifique
+a) el explotador de la aeronave o su agente
 
-este hecho a la aduana, dentro del plazo límite establecido
+autorizado notifique este hecho a la aduana,
+
+dentro del plazo límite establecido
 
 en la normativa aduanera;
 
-b) se dé una razón válida por la que no pudieron descargarse las
+b) se dé una razón válida por la que no
 
-mercancías, que resulte aceptable para la aduana;
+pudieron descargarse las mercancías,
 
-c) el manifiesto de carga se enmiende debidamente; y
+que resulte aceptable para la aduana;
 
-d) se disponga de las mercancías conforme a las normas aduaneras
+c) el manifiesto de carga se enmiende
 
-pertinentes.
+debidamente; y
+
+d) se disponga de las mercancías conforme a
+
+las normas aduaneras pertinentes.
 
 4.4.7 Cuando por causa de error o problemas de tramitación, las mercancías se descarguen en un aeropuerto sin que figuren en el manifiesto de carga, los organismos competentes no impondrán sanciones, multas u otros cargos similares siempre que:
 
-a) el explotador o su agente autorizado notifique este hecho a
+a) el explotador o su agente autorizado
 
-la Aduana, dentro del plazo límite fijado;
+notifique este hecho a la Aduana,
 
-b) se dé una razón válida por la que no se informó de las
+dentro del plazo límite fijado;
 
-mercancías, que resulte aceptable para la Aduana;
+b) se dé una razón válida por la que no
 
-c) el manifiesto de carga se enmiende debidamente; y
+se informó de las mercancías, que
 
-d) se disponga de las mercancías conforme a las normas aduaneras
+resulte aceptable para la Aduana;
 
-pertinentes.
+c) el manifiesto de carga se enmiende
+
+debidamente; y
+
+d) se disponga de las mercancías conforme
+
+a las normas aduaneras pertinentes.
 
 Cuando corresponda y siempre que se cumplan los requisitos previstos, se facilitará la expedición de las mercancías a su lugar de destino correcto.
 
@@ -768,6 +850,8 @@ Personas no admisibles y expulsadas
 
 5.2.9 Los organismos competentes no impedirán la salida de la aeronave de un explotador mientras esté pendiente que se determine la admisibilidad de alguno de los pasajeros que llegan en esa aeronave. Sin perjuicio de lo anterior, el explotador deberá reembarcar a la persona declarada no admisible en el menor plazo posible.
 
+5.2.10 Cuando el retiro de una persona no admisible se relacione con un niño, niña o adolescente que viaja sin la compañía de un adulto, la autoridad que ordena el retiro tomará las medidas apropiadas que aseguren su interés superior en el punto de salida, de tránsito o destino.
+
 5.3. PERSONAS EXPULSADAS O DEPORTADAS
 
 5.3.1. La PDI notificará al afectado la orden de expulsión y le indicará además el nombre del país de destino.
@@ -776,11 +860,15 @@ Personas no admisibles y expulsadas
 
 5.3.3. La PDI comunicará y coordinará con los explotadores de aeronaves el retiro de una persona expulsada. Asimismo, se pondrá a disposición de aquellos tan pronto como sea posible:
 
-a) toda la información pertinente que permita al explotador de
+a) toda la información pertinente que permita
 
-aeronaves disponer medidas de seguridad para el vuelo, y
+al explotador de aeronaves disponer
 
-b) los nombres y nacionalidades del personal de escolta.
+medidas de seguridad para el vuelo, y
+
+b) los nombres y nacionalidades del personal
+
+de escolta.
 
 5.3.4. El explotador de aeronaves o piloto al mando tendrán derecho a denegar el transporte de la persona deportada a bordo de determinado vuelo cuando existan inquietudes razonables relacionadas con la seguridad operacional o la protección del vuelo en cuestión.
 
@@ -795,6 +883,8 @@ b) los nombres y nacionalidades del personal de escolta.
 Asimismo, se admitirá en el territorio nacional a una persona expulsada de otro Estado que tenga residencia válida en Chile.
 
 5.3.9. Al determinar que una persona expulsada debe ser escoltada y el itinerario comprende una escolta en un Estado intermedio cuando así se exija por éste, los organismos competentes se cerciorarán de que la escolta permanezca con la persona expulsada hasta su destino final, a menos que se hayan convenido una forma alternativa de cumplimiento, antes de la llegada, entre las autoridades y el explotador de aeronaves participante en el lugar de tránsito.
+
+5.3.10 Cuando el retiro de una persona deportada se relacione con un niño, niña o adolescente que viaja sin la compañía de un adulto, la autoridad que ordena la deportación tomará las medidas apropiadas que aseguren su interés superior en el punto de salida, de tránsito o destino.
 
 5.4 OBTENCIÓN DE UN DOCUMENTO DE VIAJE SUSTITUTIVO
 
@@ -1006,6 +1096,28 @@ Los organismos competentes establecerán un plan nacional de aviación, para afr
 
 8.8.4 La autoridad aeronáutica en coordinación con los organismos competentes, prestarán toda la asistencia necesaria, tal como hacer los arreglos para el transporte y el despacho de aduanas para la repatriación de los restos mortales a sus países de origen, a solicitud de los familiares de los fallecidos o del explotador de la aeronave que ha sufrido el accidente.
 
+## Capítulo 9
+
+Sistemas de intercambio de datos de pasajeros
+
+9.1 DATOS DEL SISTEMA API
+
+9.1.1 El Ministerio del Interior y Seguridad Pública, a través de la Subsecretaría del Interior, ajustará el sistema a las normas técnicas reconocidas internacionalmente, en conformidad a lo previsto en el Convenio de Aviación Civil Internacional y sus anexos.
+
+9.1.2 Al especificar la información de identificación sobre los pasajeros y miembros de la tripulación que ha de transmitirse, la Subsecretaría del Interior sólo exigirá la información contenida en los DVLM o DVLM electrónicos. Toda información exigida se ajustará a las especificaciones que figuran en las orientaciones OMA/IATA/OACI sobre API para los mensajes UN/EDIFACT PAXLST. Toda forma de comunicación entre las partes afectadas, se basará en estándares de ciberseguridad definidos por el Ministerio del Interior y Seguridad Pública.
+
+Asimismo, los elementos de los datos requeridos serán solo los determinados en el mensaje UN/EDIFACT PAXLST, salvo que se incorporen elementos adicionales mediante el proceso de solicitud de mantenimiento de datos (DMR) de la OMA.
+
+9.1.3 El intercambio de datos API deberá, en la mayor medida posible, limitar la carga operacional y administrativa a los explotadores de aeronaves, mejorando al mismo tiempo la facilitación de los pasajeros, siempre resguardando los estándares de seguridad del Ministerio del Interior y Seguridad Pública.
+
+9.1.4 Una vez implementado un sistema API, no podrá exigirse adicionalmente a los explotadores de aeronaves un manifiesto de pasajeros impreso.
+
+9.2 DATOS DEL SISTEMA PNR
+
+9.2.1 El Ministerio del Interior y Seguridad Pública, a través de la Subsecretaría dei Interior, ajustará los requisitos de información de datos y su tratamiento a las versiones actualizadas de las Directrices sobre PNR de OACI y textos de orientación sobre la utilización de los mensajes de OMA.
+
+9.2.2 Para la transferencia de datos PNR, el Ministerio del Interior y Seguridad Pública, a través de la Subsecretaría del Interior, adoptará e implantará el mensaje PNRGOV basado en el EDIFACT como método primario para la transferencia de datos entre el explotador de aeronave y la Subsecretaría del Interior, a fin de garantizar la interoperabilidad mundial.
+
 .
 
 APÉNDICE 6
@@ -1127,6 +1239,10 @@ Conforme lo establece el DS 165, de 1980, del Ministerio de Transportes y Teleco
 La constitución y funcionamiento de los Comités FAL correspondientes a cada aeropuerto, están sujetos a las instrucciones que imparta la Dirección General de Aeronáutica Civil.
 
 Con motivo de las visitas que expertos en materia de facilitación de la Secretaría de la Organización de Aviación Civil Internacional, OACI, efectúen al país, siempre que sea posible, deberá disponerse lo necesario para que dichos expertos participen en las reuniones de la Comisión Nacional de Facilitación del Transporte Aéreo Internacional.".
+
+> **Nota.** Las letras A,), B) y C) del numeral 5 del Decreto 1, Transportes, publicado el 13.04.2020. modifica el acápite "Acrónimos" de la presente norma, en el sentido de incorporar entre los acrónimos "FAO" y "JAC" el siguiente, nuevo: "IATA: Asociación Internacional de Transporte Aéreo."; asimismo, dispone incorporar entre los acrónimos "OACI" y "OMS" los siguientes, nuevos: "OIPC-Interpol: Organización Internacional de Policía Criminal - Policía Internacional."."OMA: Organización Mundial de Aduana."; y, finalmente, ordena incorporar entre los acrónimos "RSI 2005" y "SNA" el siguiente, nuevo: "SLTD: Base de datos sobre documentos de viaje robados y extraviados, administrada por OIPC-Interpol.", respectivamente.
+
+> **Nota.** NOTA 1 El numeral 6 del Decreto 1, Transportes, publicado el 13.04.2020, dispone reemplazar el formulario del Apéndice 2 "Manifiesto de Pasajeros", por aquel que la citada norma indica.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Andrés Gómez-Lobo Echenique, Ministro de Transportes y Telecomunicaciones.
 
