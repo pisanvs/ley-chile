@@ -30,7 +30,7 @@ b) Firmar oficios y documentos dirigidos a los Servicios Públicos en las materi
 
 c) Firmar oficios y comunicaciones dirigidos a las personas naturales o jurídicas que han contratado con el Instituto. No obstante, se excluyen aquellos oficios o comunicaciones que impliquen el término de los servicios, liberación de obligaciones o disminución de garantías.
 
-d) Resolver las solicitudes de devoluciones de arancel, siempre que éstas se funden en diferencias entre el arancel y el monto efectivamente enterado.
+d) Resolver las solicitudes de devoluciones de arancel, cuando estas sean de montos iguales y inferiores a los $500.000.- (quinientos mil pesos), así como también cuando estas se funden en diferencias entre el arancel y el monto efectivamente pagado por el usuario.
 
 e) Resolver las solicitudes de exención de arancel, previa instrucción emitida por la Dirección del Instituto.
 
@@ -50,9 +50,11 @@ e) Emitir oficio con instrucción al Banco Estado para la generación de operaci
 
 ### III. Deléganse en la Jefatura del Subdepartamento de Abastecimiento las siguientes facultades:
 
-a) Firmar y endosar los documentos mercantiles de transporte de mercaderías requeridos en los procesos de importaciones.
+a) Dictar resoluciones y sus modificaciones que aprueben adquisiciones o contraten servicios, por un monto no superior a 15 unidades tributarias mensuales, todo con excepción de la contratación de estudios e investigaciones.
 
-b) Firmar los oficios enviados a los proveedores del Instituto, en el contexto de la evaluación anual de proveedores que dicho Subdepartamento debe realizar.
+b) Firmar y endosar los documentos mercantiles de transporte de mercaderías requeridos en los procesos de importaciones.
+
+c) Firmar los oficios enviados a los proveedores del Instituto, en el contexto de la evaluación anual de proveedores que dicho Subdepartamento debe realizar.
 
 ### IV. Delégase en la Jefatura del Subdepartamento de Gestión y Desarrollo de Personas las siguientes facultades:
 
@@ -127,6 +129,8 @@ f) Firmar el oficio dirigido a la Secretaría Regional Ministerial de Salud resp
 g) Resolver las solicitudes de inscripción de fabricantes, exportadores, importadores o distribuidores de dispositivos médicos.
 
 h) Emitir los informes de cumplimiento de las obligaciones de tecnovigilancia y emitir las resoluciones que derivan de dichos informes.
+
+i) Autorizar las bodegas de dispositivos médicos.
 
 ### XV. Deléganse en la Jefatura del Departamento Agencia Nacional de Medicamentos, las siguientes facultades:
 
@@ -230,9 +234,15 @@ d) Emitir las resoluciones que exclusivamente denieguen el acceso a la informaci
 
 e) En materia de sumarios sanitarios, dictar y modificar el acto administrativo por el cual se ordena la instrucción del proceso en cuestión, designar al funcionario que hará las veces de fiscal, y modificar dicha designación, cuando proceda.
 
+f) Resolver los sumarios sanitarios, salvo en aquellos procedimientos en que la sanción a aplicar sea la de cancelación de los permisos concedidos.
+
+g) Resolver los recursos de reposición y otras impugnaciones de todo tipo, presentadas en el contexto de procesos sumariales sanitarios, salvo en aquellos procedimientos en que la sanción aplicada haya sido la cancelación de los permisos concedidos.
+
+h) Resolver los recursos de reposición y otras impugnaciones de todo tipo que se presenten contra actos emanados de este Instituto, con excepción de lo señalado en la letra c) del número XXI de la parte resolutiva de la presente resolución.
+
 XXV. Delégase en todos los funcionarios que ejerzan la labor de fiscalía en los sumarios sanitarios, la emisión de memorandos y oficios destinados a recabar información relacionada con la investigación que tienen a su cargo. Del mismo modo, estos funcionarios podrán dictar resoluciones que abran términos probatorios y resuelvan solicitudes de ampliaciones de plazos sobre los mismos.
 
-XXVI. Delégase en la jefatura de la Oficina de Informaciones, Reclamos y Sugerencias la facultad de derivar directamente a los responsables las solicitudes de acceso a la información que se presenten al Instituto, en conformidad a la ley N° 20.285, sobre acceso a la información pública.
+XXVI. Delégase en la jefatura de la Oficina de Informaciones, Reclamos y Sugerencias la facultad de derivar directamente a los responsables las solicitudes de acceso a la información que se presenten al Instituto, en conformidad a la ley N° 20.285, sobre acceso a la información pública y de solicitar prórroga al Consejo para la Transparencia, respecto de cualquier trámite ante dicha entidad.
 
 XXVII. Delégase en todas las jefaturas de Departamento, Subdepartamento, Unidades, Secciones y Oficinas la facultad de conceder o denegar el uso de permiso administrativo; permisos de salida; autorización del uso de horas compensatorias; autorizar cometidos funcionarios que no impliquen gastos; autorizar el uso del derecho a feriado o postergarlo; autorizar la acumulación del feriado al año siguiente de su(s) subordinado(s), sobre los que ejecuten supervisión directa.
 
