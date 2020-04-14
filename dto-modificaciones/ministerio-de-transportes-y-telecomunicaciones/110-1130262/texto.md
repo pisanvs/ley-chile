@@ -40,7 +40,7 @@ c) Modifícase su numeral 3°, en lo siguiente:
 
 #### Artículo transitorio
 
-El presente decreto entrará en vigencia 12 meses contados desde su publicación en el Diario Oficial. No obstante, la obligación de emitir C.H.I., electrónicos para los fabricantes, armadores, importadores o sus representantes de los vehículos definidos en el decreto supremo N° 104, de 2000, del Ministerio de Transportes y Telecomunicaciones, el indicado plazo será de 24 meses contados desde la publicación del presente decreto. En el plazo que medie entre la publicación y la entrada en vigencia del presente decreto, los fabricantes, armadores, importadores o sus representantes podrán, en forma voluntaria, comenzar a emitir C.H.I., electrónicos, de acuerdo al procedimiento y en la forma y con las características establecidas en el presente reglamento.
+El presente decreto entrará en vigencia 15 meses contados desde su publicación en el Diario Oficial. No obstante, la obligación de emitir C.H.I., electrónicos para los fabricantes, armadores, importadores o sus representantes de los vehículos definidos en el decreto supremo N° 104, de 2000, del Ministerio de Transportes y Telecomunicaciones, el indicado plazo será de 24 meses contados desde la publicación del presente decreto. En el plazo que medie entre la publicación y la entrada en vigencia del presente decreto, los fabricantes, armadores, importadores o sus representantes podrán, en forma voluntaria, comenzar a emitir C.H.I., electrónicos, de acuerdo al procedimiento y en la forma y con las características establecidas en el presente reglamento.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
 
