@@ -1,4 +1,4 @@
-ORDENA A LOS TITULARES DE DERECHOS DE APROVECHAMIENTO DE AGUAS SUBTERRÁNEAS CUYOS PUNTOS DE CAPTACIÓN SE ENCUENTRAN EN LA CUENCA SALAR DE COPOSA, COMUNA DE PICA, PROVINCIA DEL TAMARUGAL, REGIÓN DE TARAPACÁ, INSTALAR Y MANTENER SISTEMAS DE MEDICIÓN Y DE TRANSMISIÓN DE EXTRACCIONES EFECTIVAS
+ORDENA A LOS TITULARES DE DERECHOS DE APROVECHAMIENTO DE AGUAS SUBTERRÁNEAS CUYOS PUNTOS DE CAPTACIÓN SE ENCUENTRAN EN LA SUBSUBCUENCA SALAR DE COPOSA, COMUNA DE PICA, PROVINCIA DEL TAMARUGAL, REGIÓN DE TARAPACÁ, INSTALAR Y MANTENER SISTEMAS DE MEDICIÓN Y DE TRANSMISIÓN DE EXTRACCIONES EFECTIVAS
 
 Núm. 373 exenta.- Iquique, 4 de diciembre de 2019.
 
@@ -36,15 +36,15 @@ Considerando:
 
 7. Que, conforme a los principios de eficiencia y eficacia contenida en el precepto antes señalado, las características geográficas de la Región de Tarapacá y la necesidad de promover el conocimiento y acercamiento de la función pública a la comunidad, es que se vuelve necesario realizar las debidas gestiones que permitan la efectiva implementación de la ya indicada resolución.
 
-8. Que, por los motivos anteriores, la instrucción de definición contenida en la resolución D.G.A. Nº 1.238 del año 2019 (Exenta), será desarrollada de manera gradual en la presente región, comenzado su aplicación en la Cuenca del Salar de Coposa, declarada como Área de Restricción para Nuevas Extracciones de Aguas Subterráneas, mediante Res. D.G.A. Nº 655 de fecha 10 de julio de 2002, y conforme a los términos contenidos en la parte resolutiva de este acto administrativo.
+8. Que, por los motivos anteriores, la instrucción de definición contenida en la resolución D.G.A. Nº 1.238 del año 2019 (Exenta), será desarrollada de manera gradual en la presente región, comenzado su aplicación en la Subsubcuenca Salar de Coposa, declarada como Área de Restricción para Nuevas Extracciones de Aguas Subterráneas, mediante Res. D.G.A. Nº 655 de fecha 10 de julio de 2002, y conforme a los términos contenidos en la parte resolutiva de este acto administrativo.
 
 Resuelvo:
 
-1. Ordénase a los titulares de derechos de aprovechamiento de aguas subterráneas, cuyos puntos de captación se encuentran ubicados en la Cuenca Salar de Coposa, Comuna de Pica, Provincia del Tamarugal, instalar y mantener un Sistema de Medición y un Sistema de Transmisión de Extracciones Efectivas en todas las obras de captación de aguas subterráneas autorizadas, conforme los estándares contenidos en esta resolución.
+1. Ordénase a los titulares de derechos de aprovechamiento de aguas subterráneas, cuyos puntos de captación se encuentran ubicados en la Subsubcuenca Salar de Coposa, Comuna de Pica, Provincia del Tamarugal, instalar y mantener un Sistema de Medición y un Sistema de Transmisión de Extracciones Efectivas en todas las obras de captación de aguas subterráneas autorizadas, conforme los estándares contenidos en esta resolución.
 
 2. La instalación y mantención de los dispositivos correspondientes al Sistema de Medición y Sistema de Transmisión, debe efectuarse para cada obra de captación autorizada y cumpliendo las condiciones técnicas establecidas en la resolución D.G.A. Nº 1.238 (Exenta), de fecha 21 de junio de 2019, disponible en el sitio web institucional (www.dga.cl), la cual forma parte integrante de la presente resolución para todos los efectos legales, y asimismo, en conformidad con los Estándares que se describen a continuación:
 
-Cuadro Nº 1. Estándares para los derechos de aprovechamiento de aguas subterráneas cuyos puntos de captación se encuentran ubicados en la Provincia del Tamarugal, comuna de Pica, Cuenca Salar de Coposa.
+Cuadro Nº 1. Estándares para los derechos de aprovechamiento de aguas subterráneas cuyos puntos de captación se encuentran ubicados en la Provincia del Tamarugal, comuna de Pica, Subsubcuenca Salar de Coposa.
 
 .
 
@@ -88,6 +88,6 @@ Cuadro Nº 2. Máxima antigüedad documento de calibración o contrastación don
 
 20. Publíquese la presente resolución por una vez en el Diario Oficial los días 1 o 15 siguientes a su dictación, o el día hábil inmediato, si aquéllos fuesen feriados, lo cual se considerará como notificación suficiente para todos los efectos legales.
 
-21. Comuníquese la presente resolución al Sr. Intendente de la Región de Tarapacá; al Sr. Director General de Aguas; al Sr. Gobernador de la Provincia del Tamarugal; al Sr. Seremi de Obras Públicas de la Región de Tarapacá; al Sr. Alcalde de la Comuna de Pica; a los Sres/as. Jefes/as de las Divisiones, Departamentos y Unidades de la Dirección General de Aguas; a la Dirección de Obras Hidráulicas de la Región de Tarapacá a afectos de que ésta informe a las Organizaciones de APR constituidas en la Cuenca del Salar de Coposa; y a las demás Oficinas de la Dirección General de Aguas que corresponda.
+21. Comuníquese la presente resolución al Sr. Intendente de la Región de Tarapacá; al Sr. Director General de Aguas; al Sr. Gobernador de la Provincia del Tamarugal; al Sr. Seremi de Obras Públicas de la Región de Tarapacá; al Sr. Alcalde de la Comuna de Pica; a los Sres/as. Jefes/as de las Divisiones, Departamentos y Unidades de la Dirección General de Aguas; a la Dirección de Obras Hidráulicas de la Región de Tarapacá a afectos de que ésta informe a las Organizaciones de APR constituidas en la Subsubcuenca Salar de Coposa; y a las demás Oficinas de la Dirección General de Aguas que corresponda.
 
 Anótese, publíquese y comuníquese.- Claudio Olivares Santelices, Director Regional de Aguas Región de Tarapacá.
