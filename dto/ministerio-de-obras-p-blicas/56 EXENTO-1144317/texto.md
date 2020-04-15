@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 56 de 23 de marzo de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 72, Rol de avalúo 238-14, comuna de Purén, superficie 2.336 m2., para la obra MEJORAMIENTO EN RUTA R-42, SECTOR PURÉN - LUMACO, TRAMO KM. 1,80000 A KM. 24,70000, COMUNAS DE PURÉN Y LUMACO, PROVINCIA DE MALLECO, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por ENEDINA DEL CARMEN CID RAMÍREZ, PAULA ANDREA LAGOS CARRASCO y PATRICIO FERNANDO CASAGRANDE ULLOA, fijó el valor de tasación con fecha 10 de septiembre de 2013, acordándose la indemnización con su propietario JOSÉ AGUSTÍN MELIN TRAMOLAO, en la cantidad de $3.085.382.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
