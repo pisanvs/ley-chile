@@ -478,65 +478,49 @@ graecum origen adicionales
 
 6. Se aceptarán como tratamientos de fumigación las siguientes alternativas:
 
-6.1 Contra Trogoderma granarium (Coleoptera: Dermestidae) para todas las especies de granos que tienen corno requisito esta plaga:
+6.1 Contra Trogoderma granarium (Coleoptera: Dermestidae) para todas las especies de granos que tienen como requisito esta plaga:
 
-FUMIGANTE: BROMURO DE METILO (presión atmosférica normal)
+PRODUCTO: Bromuro de Metilo (presión atmosférica normal)
 
-Dosis Tiempo de Temperatura del
+.
 
-Exposición Producto
-
-(gr/m3) (horas) (°C)
-
-40 12 32,2 o más
-
-56 12 26,5 - 32,1
-
-72 12 21,0 - 26,4
-
-96 12 15,5 - 20,9
-
-120 12 10,0 - 15,4
-
-144 12 4,5 - 9,9
+USDA/APHIS/PPQ. Manual de Tratamiento. T302-e-3-MB.
 
 6.2 Contra Trogoderma granarium (Coleoptera: Dermestidae), sólo para granos de cebada (Hordeum vulgare) para maltear:
 
 6.2.1 Para envíos a granel:
 
-FUMIGANTE: FOSFINA (presión atmosférica normal)
+FUMIGANTE: Fosfina (presión atmosférica normal)
 
-Dosis Tiempo de Temperatura mínima
+.
 
-(grPH3/m3) Exposición del Producto
-
-(días) (°C)
-
-8 11 16,0 o más
-
-9 15 11,0 - 15,9
-
-10 21 10,0 - 10,9
+EPPO Standard PM 10/22
 
 6.2.2 Para envíos en contenedores:
 
-FUMIGANTE: FOSFINA (presión atmosférica normal)
+FUMIGANTE: Fosfina (presión atmosférica normal)
 
-Dosis Tiempo de Temperatura mínima
-
-(grPH3/m3) Exposición del Producto
-
-(días) (°C)
-
-6 6 20,1 o más
-
-7 11 16,0 - 20,0
-
-8 15 11,0 - 15,9
-
-9 21 10,0 - 10,9
+EPPO Standard PM 10/22
 
 6.2.3 Para el caso de granos de cebada (Hordeum vulgare) para maltear que provengan de un país de origen que no cuente con las capacidades para cumplir con los tratamientos fitosanitarios propuestos en los puntos 6.2.1 y 6.2.2, se evaluará la posibilidad de aplicación de permisos específicos de importación caso a caso, en los cuales se contemplarán medidas a aplicar en destino, resguardo u otras que el Servicio estime convenientes.
+
+6.3 Contra insectos de la Familia Bruchidae y Prostephanus truncatus (Coleoptera Bostrichidae).
+
+PRODUCTO: Fosfamina (presión atmosférica normal)
+
+.
+
+FAO, Manual de fumigación para control de insectos.
+
+6.4 Contra Tribollum madens (Coleoptera: Tenebrionidae):
+
+PRODUCTO: Bromuro de Metilo (presión atmosférica normal)
+
+.
+
+USDA/APHIS/PPQ. Manual de Tratamiento. T302-e-1-MB.
+
+6.5 En aquellos casos en que se soliciten tratamientos contra Trogoderma granarium e insectos de la Familia Bruchidae, será válido el tratamiento que se exige contra Trogoderma granarium.
 
 7. Para el ingreso de granos provenientes de orígenes distintos a los señalados expresamente o no regulados en la presente resolución, el servicio, a petición del interesado, fijará los requisitos fitosanitarios de importación, de acuerdo al resultado del Análisis del Riesgo de Plagas.
 
@@ -577,5 +561,7 @@ En caso que se detecten en el envío la presencia de semillas de malezas cuarent
 > **Nota.** NOTA 8 El numeral 1 de la Resolución 5055 Exenta, Agricultura, publicada el 06.09.2011, modifica la presente norma en el sentido de agregar al resuelvo número 3, las especies de granos para consumo, orígenes y requisitos que se listan a continuación, en el orden que alfabéticamente corresponda a cada grano, con su respectivo origen y requisito: Grano Origen Requisitos Raps Argentina Sin declaraciones adicionales (Brassica napus) Amapola Estados Los envío deberán venir (Papaver Miembros fumigados contra somniferum) de la Trogoderma granarium (Col. Comunidad Desmestidae) con producto, Europea dosis y tiempo de exposición establecidos en el punto 6 de la Resolución Nº 2.677 de 1999.
 
 > **Nota.** NOTA 9 El numeral 3 de la Resolución 5055 Exenta, Agricultura, publicada el 06.09.2011, ordena agregar en el resuelvo número 3, "Argentina" como nuevo origen del grano Guizotia abyssinica.
+
+> **Nota.** NOTA 10 El numeral 1 del número 1 de la Resolución 2381 Exenta, Agricultura, publicada el 15.04.2020, dispone agregar en el resuelvo número 3 de la presente norma, para la especie "Raps (Brassica napus L.)" el siguiente origen, en orden alfabético, y su requisito que se indica a continuación:GRANO ORIGEN REQUISITOSRaps (Brassi- Canadá Fumigación contraca napus L.) Tribolium madens, con producto, dosis y tiempo de exposición establecido en el punto 6 de esta Resolución.
 
 Anótese, comuníquese y publíquese.- Orlando Morales Valencia, Director Nacional (S).
