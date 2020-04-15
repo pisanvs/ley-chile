@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 26 de 20 de marzo de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno 162, 163 y 164, Rol de avalúo 2168-127, comuna de Ancud, superficies 224, 364 y 833 m2. respectivamente, para la obra MEJORAMIENTO RUTAS W-135-125, SECTOR: RAMPA CHACAO-LINAO, COMUNA DE ANCUD, PROVINCIA DE CHILOE, REGION DE LOS LAGOS. La comisión de peritos, integrada por CHRISTIAN EMIL RAUCH YAÑEZ, LEOPOLDO RAMÓN SCHUMACHER GUARDA y JUAN SAMUEL BARRIENTOS BAHAMONDE, fijó el valor de tasación con fechas 20 de julio de 2017 lotes 162 y 163 y 15 de septiembre de 2017 el lote 164, acordándose la indemnización con su propietaria IDA DEL CARMEN MERCADO VARGAS, en la cantidad de $44.569.877.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
