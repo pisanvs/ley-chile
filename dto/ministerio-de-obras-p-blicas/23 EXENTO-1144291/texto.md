@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 23 de 20 de marzo de 2020, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno 153 y 153-C, comuna de Licantén, Roles de avalúo 168-138 y 168-141, superficies 1.439 y 3.054 m2. respectivamente, para la obra MEJORAMIENTO Y CONSTRUCCIÓN CAMINO COSTERO NORTE SECTOR BOYERUCA CRUCE RUTA J-60, COMUNA DE LICANTÉN, PROVINCIA DE CURICÓ, REGIÓN DEL MAULE. La comisión de peritos, integrada por PATRICIO ULISES DURÁN MARCOS, PAULA SOLEDAD GONZÁLEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, fijó el valor de tasación con fecha 26 de marzo de 2018, acordándose la indemnización con su propietaria CARMEN AMANDA ORMAZÁBAL BARRIOS, en la cantidad de $58.976.979.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
