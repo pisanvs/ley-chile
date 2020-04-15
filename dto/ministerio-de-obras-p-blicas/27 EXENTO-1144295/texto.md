@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 27 de 20 de marzo de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 9, Rol de avalúo 732-6, comuna de Quintero, superficie 140 m2., para la obra MEJORAMIENTO RUTA F-216, SECTOR: VALLE ALEGRE -CRUCE RUTA F-30-E, COMUNA DE QUINTERO, PROVINCIA DE VALPARAISO, REGION DE VALPARAISO. La comisión de peritos, integrada por MANUEL HERNÁN DÍAZ FARFÁN, RAMÓN ENRIQUE DOMINGO LABARCA y MARIA ISABEL RIOS MARCUELLO, fijó el valor de tasación con fecha 11 de diciembre de 2017, acordándose la indemnización con sus propietarios DAVID ANDRÉS LÓPEZ RODRIGUEZ Y OTRA, en la cantidad de $2.963.429.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
