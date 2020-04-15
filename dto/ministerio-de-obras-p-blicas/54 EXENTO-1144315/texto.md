@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por decreto MOP (Exento) N° 54 de 23 de marzo de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 180-A, Rol de avalúo 201-10, comuna de Lumaco, superficie 207 m2., para la obra MEJORAMIENTO RUTA R-42 CAMINO PURÉN - LUMACO, IX REGIÓN, COMUNAS DE PURÉN - LUMACO, PROVINCIA DE MALLECO, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por YASCHALA MARIBEL YAÑEZ RIFFO, PAULA ANDREA LAGOS CARRASCO Y EVALDO ROBERTO CONTRERAS ROA, fijó el valor de tasación con fecha 30 de octubre de 2015, acordándose la indemnización con su propietaria ELSA RIVERA MENDOZA, en la cantidad de $630.518.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2186, de 1978.
+
+Fiscalía MOP.
