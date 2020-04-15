@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por decreto MOP (Exento) N° 45 de 23 de marzo de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 2, Rol de avalúo 2581-2, comuna de Chiguayante, superficie 1.503 m2., para la obra AMPLIACIÓN CONEXIÓN VIAL CONCEPCIÓN - CHIGUAYANTE, ETAPA 2, COMUNA DE CHIGUAYANTE, PROVINCIA DE CONCEPCIÓN, REGIÓN DEL BIOBÍO. La comisión de peritos, integrada por ROXANA CECILIA ABARZÚA GAJARDO, CONSUELO LORETO ZULOAGA SANHUEZA y MARÍA PAMELA MAC-GUIRE ACEVEDO, fijó el valor de tasación con fecha 20 de noviembre de 2018, acordándose la indemnización con su propietaria MARÍA LUISA MÜLLE-WIEHOFF FELMER, en la cantidad de $550.675.912.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2186, de 1978.
+
+Fiscalía MOP.
