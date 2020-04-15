@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 61 de 23 de marzo de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 112-A, Rol de avalúo 1179-31, comuna de Ancud, superficie 23 m2., para la obra MEJORAMIENTO RUTAS W-135-125, SECTOR: RAMPA CHACAO-LINAO, COMUNA DE ANCUD Y QUEMCHI, PROVINCIA DE CHILOE, REGION DE LOS LAGOS. La comisión de peritos, integrada por CHRISTIAN EMIL RAUCH YAÑEZ, LEOPOLDO RAMÓN SCHUMACHER GUARDA y JUAN SAMUEL BARRIENTOS BAHAMONDE, fijó el valor de tasación con fecha 16 de marzo de 2018, acordándose la indemnización con su propietario JOSÉ FLORINDO ALMONACID ALMONACID, en la cantidad de $1.026.898.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
