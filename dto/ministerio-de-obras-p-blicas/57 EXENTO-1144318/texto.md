@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por decreto MOP (Exento) N° 57 de 23 de marzo de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 72, 73, 74 y 77, Rol de avalúo 206-308, comuna de Toltén, superficies 1.656, 394, 201 y 1.529 m2. respectivamente, para la obra MEJORAMIENTO RUTA S-70 S: POCOYAN - PUENTE PEULE, COMUNA DE TOLTÉN, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, YASCHALA MARIBEL YÁÑEZ RIFFO Y MARÍA SOLEDAD NÚÑEZ ARROYO, fijó el valor de tasación con fecha 21 de diciembre de 2015, acordándose la indemnización con sus propietarios YOLANDA AMELIA JIMÉNEZ JARAMILLO Y OTROS, en la cantidad de $10.019.150.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2186, de 1978.
+
+Fiscalía MOP.
