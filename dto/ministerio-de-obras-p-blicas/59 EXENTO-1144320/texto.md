@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 59 de 23 de marzo de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 158-B, Rol de avalúo 2167-101, comuna de Ancud, superficie 651 m2., para la obra MEJORAMIENTO RUTAS W-135-125, SECTOR: RAMPA CHACAO-LINAO, COMUNA DE ANCUD Y QUEMCHI, PROVINCIA DE CHILOE, REGION DE LOS LAGOS. La comisión de peritos, integrada por CHRISTIAN EMIL RAUCH YAÑEZ, LEOPOLDO RAMON SCHUMACHER GUARDA y JUAN SAMUEL BARRIENTOS BAHAMONDE, fijó el valor de tasación con fecha 20 de julio de 2017, acordándose la indemnización con su propietario ADONIS DIDIER QUIDIANTE SOTO, en la cantidad de $1.754.858.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2186, de 1978.
+
+Fiscalía MOP.
