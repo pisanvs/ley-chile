@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 42 de 23 de marzo de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 4, Rol de avalúo 73-9, comuna de Río Hurtado, superficie 287 m2., para la obra MEJORAMIENTO CBI RUTA D-595 SECTOR SERON-HURTADO, COMUNA DE RIO HURTADO, PROVINCIA DE LIMARI, REGIÓN DE COQUIMBO. La comisión de peritos, integrada por PABLO JAVIER FLORES SALINAS, LUIS FELIPE MUÑOZ CARVAJAL y MAURICIO ANDRES ANDUEZA PEREZ, fijó el valor de tasación con fecha 31 de mayo de 2019, acordándose la indemnización con su propietaria INES DEL ROSARIO VIGORENA DIAZ, en la cantidad de $2.338.669.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
