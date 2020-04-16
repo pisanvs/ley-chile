@@ -60,6 +60,8 @@ El Consejo de Observadores estará conformado por las siguientes personas:
 
 8) Rodrigo Javier Delgado Mocarquer, RUN 8.771.203-6.
 
+9) Ramón Aguilar Vera, RUN 3.906.342-5.
+
 Los Observadores desempeñarán sus funciones ad honórem.
 
 #### Artículo 4°
