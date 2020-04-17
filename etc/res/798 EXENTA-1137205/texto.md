@@ -174,6 +174,14 @@ En el caso de los proyectos que ingresen a Serviu en la modalidad de Subsidio a 
 
 16. Los recursos disponibles para efectuar la selección de proyectos en Condominios Sociales que resulten certificados como Copropiedades Objeto del Programa, serán los siguientes:
 
+Región Monto Total (U.F.)
+
+O'Higgins, 1ª selección 60.000,0
+
+O'Higgins, selección complementaria 38.664,0
+
+Total 98.664,0
+
 De existir saldos luego de la selección, estos quedarán a disposición de nivel central para su redistribución, a fin de asegurar la completa asignación de los recursos del programa.
 
 En la resolución de selección se identificará aquellos condominios insertos en conjuntos habitacionales que, en virtud de las resoluciones citadas en los vistos N° 4, 5, 6 o 7 de esta resolución, se encuentran en barrios seleccionados por el Programa de Recuperación de Barrios.
