@@ -60,6 +60,8 @@ b. Contribuyentes del impuesto de primera categoría cuyo ingreso anual no exced
 
 10) Facúltase a la Tesorería General de la República y al Servicio de Impuestos Internos para condonar, total o parcialmente, los intereses aplicables respecto de pagos de cuotas de impuesto territorial efectuadas fuera de plazo, hasta el 30 de septiembre de 2020.
 
+11) Prorrógase hasta el 31 de julio de 2020 para los contribuyentes que tributan en base a renta presunta la fecha del procedimiento para optar por tributar sobre la base de renta efectiva demostrada según contabilidad completa que establece el párrafo 3° del N° 4 del artículo 34 de la Ley sobre Impuesto a la Renta, respecto de las rentas obtenidas en el ejercicio 2019. Para estos efectos, facúltase al Servicio de Impuestos Internos para que, mediante resolución, determine el procedimiento para que los contribuyentes realicen las actuaciones requeridas para que tributen conforme con la opción ejercida.
+
 #### Artículo 2º
 
 Dispóngase que las medidas y procedimientos contenidos en el presente acto administrativo, estarán vigentes por el plazo de doce meses y hasta que se extingan todos sus efectos, contado desde la declaración de zonas afectadas por catástrofe a las 346 comunas correspondientes a las 16 regiones del país, de acuerdo a lo dispuesto en el decreto supremo Nº 107, de 2020, del Ministerio del Interior y Seguridad Pública.
