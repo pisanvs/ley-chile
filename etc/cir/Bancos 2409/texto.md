@@ -10390,6 +10390,8 @@ d) Cuando la suma de los activos correspondientes a inversiones minoritarias en 
 
 e) Se agrega el monto correspondiente al "nterés no controlador" según lo indicado en el Compendio de Normas Contables. No obstante, si dicho monto fuera superior al 20% del capital básico, se sumará sólo el importe equivalente a ese porcentaje.
 
+Podrá sumarse a las provisiones adicionales a que se refiere la letra b), dentro del límite del 1,25 % allí señalado, un monto de hasta el 15% de las garantías que amparan los activos ponderados por riesgo, las garantías que correspondan a avales o reafianzamientos otorgados por el Fisco de Chile, CORFO y el FOGAPE.
+
 En concordancia con lo indicado en la letra d), para los efectos de la ponderación por riesgo de que trata el N° 2 del título II de este Capítulo, se clasificarán en categoría 5 los activos que correspondan a inversiones minoritarias en sociedades de apoyo al giro, como asimismo el monto de las inversiones minoritarias en otras sociedades hasta un tope de el 5% del capital básico.
 
 3.2. Aplicación del patrimonio no consolidado.
@@ -10416,7 +10418,7 @@ Conforme lo establece el inciso tercero del artículo 56 de la Ley General de Ba
 
 De acuerdo con lo dispuesto en el artículo 34 de la Ley General de Bancos, que hace extensivo a los bancos extranjeros que operan en Chile las leyes y reglamentos que rigen a los bancos nacionales, las instituciones financieras extranjeras que actúan en nuestro país están igualmente sujetas a la prohibición de disminuir el capital básico y patrimonio efectivo de su agencia en Chile, si con ello infringen el artículo 66 de la ley.
 
-Si bien las agencias de bancos extranjeros no reparten dividendos, dichas instituciones, conforme lo establece el inciso final del artículo 47 de la Ley General de Bancos, están facultadas para remesar al exterior sus utilidades líquidas con autorización previa de esta Comisión y con sujeción a las disposiciones legales vigentes y a las demás normas que rigen la materia. Sin embargo, a este respecto, cabe hacer presente que la autorización de esta Comisión para el envío al exterior de remesas no implica de modo alguno que un banco extranjero pueda disminuir el capital y reservas radicados en el país, si con ello vulnera alguna de las proporciones del artículo 66 de la Ley General de Bancos.
+Si bien las agencias de bancos extranjeros no reparten dividendos, dichas instituciones, conforme lo establece el inciso final del artículo 47 de la Ley General de Bancos, están facultadas para remesar al exterior sus utilidades líquidas con autorización previa de esta Comisión y con sujeción a las disposiciones legales vigentes y a las demás normas que rigen la materia. Sin embargo, a este respecto, cabe hacer presente que la autorización de este Organismo para el envío al exterior de remesas no implica de modo alguno que un banco extranjero pueda disminuir el capital y reservas radicados en el país, si con ello vulnera alguna de las proporciones del artículo 66 de la Ley General de Bancos.
 
 ### II. ACTIVO TOTAL Y ACTIVOS PONDERADOS POR RIESGO
 
