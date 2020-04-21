@@ -446,7 +446,7 @@ Las Distribuidoras deberán hacer efectivos los pagos a las correspondientes Dis
 
 Una vez publicado el Cuadro de Pago de Saldos por parte del Coordinador, los Suministradores deberán emitir las facturas correspondientes en un plazo máximo de 3 días hábiles. En dicha factura sólo podrán incluir el mencionado pago de Saldos.
 
-Las Distribuidoras deberán hacer efectivos los pagos a sus correspondientes Suministradores, o en el caso de verificarse una cesión a sus cesionarios, de acuerdo a lo establecido en el Cuadro de Pago de Saldos señalado en el artículo 18 precedente, a más tardar, 3 días hábiles contados desde la emisión de la factura correspondiente. Asimismo, las Distribuidoras deberán informar a la Comisión los pagos realizados en virtud del Cuadro de Pago de Saldos, conforme al formato que para ello establezca la Comisión.
+Las Distribuidoras deberán hacer efectivos los pagos a sus correspondientes Suministradores, o en el caso de verificarse una cesión a sus cesionarios, de acuerdo a lo establecido en el Cuadro de Pago de Saldos señalado en el artículo 18 precedente, a más tardar, 6 días hábiles desde la publicación del Cuadro de Pago de Saldos, antes señalado. Asimismo, las Distribuidoras deberán informar a la Comisión los pagos realizados en virtud del Cuadro de Pago de Saldos, conforme al formato que para ello establezca la Comisión.
 
 #### Artículo 20°
 
@@ -458,7 +458,7 @@ En caso que del resultado de dicha proyección se estime que los pagos proyectad
 
 Adicionalmente, si los informes técnicos señalados en el inciso segundo del presente artículo determinan que la acumulación total de Saldos ha superado el límite de Saldos de 1.350 millones de dólares, deberá aplicarse lo dispuesto en el último inciso del artículo 15.
 
-Sin perjuicio de lo anterior, con el fin de asegurar el pago total de los Saldos a más tardar el 31 de diciembre de 2027, en el informe técnico se podrá establecer, durante el período anual de 2027, montos de Saldos a ser pagados por los Distribuidores a sus correspondientes Suministradores, sin necesidad de que se constate la existencia de un Excedente Total de las Distribuidoras.
+Sin perjuicio de lo anterior, con el fin de asegurar el pago total de los Saldos a más tardar el 31 de diciembre de 2027, en el informe técnico se podrá establecer, durante el período anual de 2027, montos de Saldos a ser pagados por los Distribuidores a sus correspondientes Suministradores, sin necesidad de que se constate la existencia de un Excedente Semestral de las Distribuidoras.
 
 #### Artículo 21°
 
