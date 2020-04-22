@@ -22,13 +22,13 @@ El Ministerio de Relaciones Exteriores otorgará pasaportes diplomáticos y ofic
 
 #### Artículo 3º
 
-Estarán autorizados para otorgar los pasaportes a que se refiere el presente decreto, el Subsecretario de Relaciones Exteriores, el Director General de Asuntos Consulares e Inmigración, los funcionarios en que éste delegue y el Jefe de la Unidad responsable de estos pasaportes.
+Estarán autorizados para otorgar los pasaportes a que se refiere el presente decreto, el Subsecretario de Relaciones Exteriores, el Director General de Asuntos Consulares, Inmigración y de Chilenos en el Exterior, los funcionarios en que éste delegue y el Jefe de la Unidad responsable de estos pasaportes.
 
 #### Artículo 4º
 
 El Ministerio de Relaciones Exteriores otorgará "Pasaporte Diplomático" a las siguientes personas de nacionalidad chilena:
 
-a) Presidente y ex Presidentes de la República, y sus respectivos cónyuges, aun cuando enviudaren;
+a) Presidente y ex Presidentes de la República, y sus respectivos cónyuges, aun cuando enviudaren, o sus convivientes civiles y el sobreviviente de éstos;
 
 b) Senadores y Diputados en ejercicio; ex Presidentes del Senado y de la Cámara de Diputados que hayan ejercido dichos cargos por, a lo menos, dos años;
 
@@ -56,7 +56,7 @@ m) Subsecretarios de Estado y otros altos funcionarios con rango de Subsecretari
 
 n) Embajadores, Funcionarios de Carrera del Servicio Exterior; Directores y Subdirectores; Funcionarios Directivos y Profesionales de la Secretaría y Administración General hasta el grado 8 de la Escala Unica de Sueldos inclusive, del Ministerio de Relaciones Exteriores, de sus Servicios Públicos Dependientes y Relacionado;
 
-ñ) Agregados señalados en el artículo 4º y 5º del decreto con fuerza de ley Nº 33 de 1979 del Ministerio de Relaciones Exteriores; funcionarios directivos, profesionales, técnicos y administrativos del Ministerio de Relaciones Exteriores, de sus servicios públicos dependientes y relacionado, sin distinción de grado, cuando viajen al exterior en comisiones de servicio o destinados a una Misión de Chile.
+ñ) Agregados señalados en el artículo 4º y 5º del decreto con fuerza de ley Nº 33 de 1979 del Ministerio de Relaciones Exteriores; agregados indicados en los artículos 30 N° 6, 40 N° 7 y 42 de la ley N° 21.080; funcionarios directivos, profesionales, técnicos y administrativos del Ministerio de Relaciones Exteriores, de sus servicios públicos dependientes y relacionado, sin distinción de grado, cuando viajen al exterior en comisiones de servicio o destinados a una Misión de Chile.
 
 o) Delegados de Chile a conferencias internacionales;
 
@@ -68,11 +68,11 @@ r) Agregados y observadores militares, navales y aéreos, agregados policiales, 
 
 s) Presidentes o representantes, y secretarios ejecutivos de organismos internacionales.
 
-t) Ex - funcionarios (as) de los grados de Embajador, Ministro Consejero y Consejero de la Planta del Servicio Exterior; con más de veinticinco años de servicio y sus cónyuges, aun cuando enviudaren. Ex - funcionarios directivos, profesionales y técnicos de la Secretaría y Administración General, hasta el grado 6 de la Escala Unica de Sueldos, con más de veinticinco años de servicio.
+t) Ex - funcionarios (as) de los grados de Embajador, Ministro Consejero y Consejero de la Planta del Servicio Exterior; con más de veinticinco años de servicio y sus cónyuges, aun cuando enviudaren, o sus convivientes civiles y el sobreviviente de éstos. Ex - funcionarios directivos, profesionales y técnicos de la Secretaría y Administración General, hasta el grado 6 de la Escala Unica de Sueldos, con más de veinticinco años de servicio.
 
 Todo lo anterior, salvo en caso de destitución.
 
-u) Cónyuges cualquiera sea su nacionalidad, de las personas incluidas en las letras: b), c), d), respecto del Alto Representante de las Iglesias Evangélicas, e),
+u) Cónyuges o convivientes civiles, cualquiera sea su nacionalidad, de las personas incluidas en las letras: b), c), d), respecto del Alto Representante de las Iglesias Evangélicas, e),
 
 - **f)** g), h), i), j), k), l), m), n), q),
 
@@ -104,17 +104,17 @@ h) Personal al servicio particular de los funcionarios destinados a prestar serv
 
 #### Artículo 6º
 
-El Subsecretario de Relaciones Exteriores podrá, en casos calificados, disponer el otorgamiento de pasaportes diplomáticos y oficiales a otras personas no contempladas en los artículos precedentes, únicamente cuando deban viajar al exterior en cumplimiento de funciones oficiales. Esta facultad debe ser ejercida por dicha autoridad por medio de una instrucción escrita dirigida al Director Consular y de Inmigración.
+El Subsecretario de Relaciones Exteriores podrá, en casos calificados, disponer el otorgamiento de pasaportes diplomáticos y oficiales a otras personas no contempladas en los artículos precedentes, únicamente cuando deban viajar al exterior en cumplimiento de funciones oficiales. Esta facultad debe ser ejercida por dicha autoridad por medio de una instrucción escrita dirigida al Director General de Asuntos Consulares, Inmigración y de Chilenos en el Exterior.
 
 #### Artículo 7º
 
 Para los efectos de otorgamiento de pasaportes que correspondan de acuerdo a la categoría del titular, conforme al artículo 4º, letras n), ñ), r), s) y v) y artículo 5º, letra f), se concederá pasaporte a las siguientes personas, aun cuando tengan nacionalidad extranjera:
 
-a) Cónyuge del funcionario titular, que lo acompañe y/o resida con él (ella) durante el período de su misión en el exterior,
+a) Cónyuge o conviviente civil del funcionario titular, que lo acompañe y/o resida con él (ella) durante el período de su misión en el exterior,
 
-b) Hijos (as) solteros (as) de ambos cónyuges o de uno de ellos hasta los 18 años de edad y los mayores de esta edad hasta el 31 de diciembre del año en que cumplan 24 años de edad, solteros, que sean estudiantes en la enseñanza media, técnica, especializada o superior; y los de cualquier edad que padezcan de una incapacidad física o mental, que les obligue a mantener la dependencia del titular y lo acompañen durante el período de su misión en el exterior.
+b) Hijos (as) solteros (as) de ambos cónyuges o de uno de ellos, o de ambos convivientes civiles o de uno de ellos hasta los 18 años de edad y los mayores de esta edad hasta el 31 de diciembre del año en que cumplan 24 años de edad, solteros, que sean estudiantes en la enseñanza media, técnica, especializada o superior; y los de cualquier edad que padezcan de una incapacidad física o mental, que les obligue a mantener la dependencia del titular y lo acompañen durante el período de su misión en el exterior.
 
-c) Padre y/o madre del titular y/o de su cónyuge, que sean cargas familiares y que los acompañen o residan con el titular durante el período de su misión en el exterior.
+c) Padre y/o madre del titular y/o de su cónyuge y/o de su conviviente civil, que sean cargas familiares y que los acompañen o residan con el titular durante el período de su misión en el exterior.
 
 #### Artículo 8º
 
@@ -122,7 +122,7 @@ Para obtener pasaporte diplomático u oficial, según corresponda, se deberán c
 
 a) Comparecencia personal del requirente, para la entrega y confirmación de sus datos, registro de su huella digital, fotografía y firma en presencia de la autoridad expedidora. Si se encuentra en el exterior, deberá realizar lo anterior en presencia del funcionario autorizado en la Embajada o Consulado de Chile que corresponda.
 
-b) Documento de identidad vigente.
+b) Cédula de identidad chilena vigente.
 
 c) Decreto o resolución de nombramiento para acreditar cargos en la Administración del Estado de Chile.
 
@@ -132,7 +132,7 @@ e) ELIMINADO.
 
 f) ELIMINADO.
 
-g) Certificado de carga familiar que acredite que los padres del funcionario titular son carga de éste o de su cónyuge.
+g) Certificado de carga familiar que acredite que los padres del funcionario titular o del cónyuge o del conviviente civil son carga de alguno de éstos.
 
 h) ELIMINADO.
 
@@ -140,7 +140,7 @@ i) Certificado de cargas familiares, de estudios o de incapacidad para los hijos
 
 j) Autorización para viajar al extranjero, en el caso de los menores de 18 años de edad, conforme a lo dispuesto en el artículo 49 de la ley Nº 16.618 o el artículo 35 de la ley Nº 19.620, según corresponda.
 
-Las copias de los decretos y/o resoluciones en trámite a que se refiere el presente artículo, deben presentarse debidamente autenticadas por una autoridad responsable, conteniendo su firma original y un timbre de la institución, con la frase: "Este documento es copia fiel del original que se encuentra en trámite".
+Las copias de los decretos y/o resoluciones en trámite a que se refiere el presente artículo, deben presentarse debidamente autenticadas por una autoridad responsable, conteniendo su número, fecha, su firma original y un timbre de la institución, con la frase: "Este documento es copia fiel del original que se encuentra en trámite".
 
 La Unidad encargada de otorgar los pasaportes, deberá llevar un registro diario de los mismos, para un debido control y ordenamiento.
 
@@ -178,11 +178,15 @@ Cuando se pierdan las condiciones señaladas en las letras a) o b) del presente 
 
 Los pasaportes oficiales serán retirados a sus titulares al ingreso a Chile, por la Policía Internacional, quién los devolverá al Ministerio de Relaciones Exteriores donde permanecerán en custodia.
 
+En los documentos otorgados a las personas mencionadas en el artículo 5° letras a), b), c), d) y e) se podrá estampar un timbre que señale "Este pasaporte no será retirado al ingreso de su titular al país.".
+
+Dicho timbre también podrá ser estampado en el pasaporte, en casos excepcionales a solicitud de la autoridad de la institución que comisione al funcionario al exterior, por medio de un documento oficial dirigido al Director General de Asuntos Consulares, Inmigración y de Chilenos en el Exterior, quien resolverá si otorga dicha autorización.
+
 #### Artículo 12º
 
 El Ministerio de Relaciones Exteriores cobrará por otorgar pasaportes diplomáticos y oficiales las tarifas que se fijen por Decreto Supremo de acuerdo a las disposiciones legales y reglamentarias vigentes.
 
-Estarán exentos del pago de los derechos por otorgamiento de pasaportes diplomáticos y oficiales los funcionarios del Ministerio de Relaciones Exteriores y de sus Servicios Públicos Dependientes, sus cónyuges, hijos (as) solteros (as) de ambos cónyuges o de uno de ellos hasta el 31 de diciembre del año en que cumplan 24 años de edad y los padres de los aludidos funcionarios y de sus cónyuges, que sean cargas familiares.
+Estarán exentos del pago de los derechos por otorgamiento de pasaportes diplomáticos y oficiales los funcionarios del Ministerio de Relaciones Exteriores y de sus Servicios Públicos Dependientes, sus cónyuges o sus convivientes civiles, hijos (as) solteros (as) de ambos cónyuges o de uno de ellos, o de ambos convivientes civiles o de uno de ellos hasta el 31 de diciembre del año en que cumplan 24 años de edad y los padres de los aludidos funcionarios y de sus cónyuges o convivientes civiles, que sean cargas familiares.
 
 #### Artículo 13º
 
