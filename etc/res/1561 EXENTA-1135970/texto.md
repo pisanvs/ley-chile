@@ -20,7 +20,7 @@ Considerando:
 
 Resolución:
 
-1. Autorízase a la empresa Importadora de Tabacos Nady Basti Ltda., para la comercialización en el país de las marcas de productos de tabaco Amsterdamer, Mac Baren y Raw, en las variedades y formato indicados en la presente resolución, por cuanto se da cumplimiento a lo dispuesto en la normativa vigente.
+1º Autorízase a la empresa Importadora de Tabacos Nady Basti Ltda., para la comercialización en el país de las marcas de productos de tabaco Amsterdamer, Mac Baren, Pueblo y Raw, en las variedades y formato indicados en la presente resolución, por cuanto se da cumplimiento a lo dispuesto en la normativa vigente.
 
 Anótese y publíquese.- Jaime Mañalich Muxi, Ministro de Salud.
 
