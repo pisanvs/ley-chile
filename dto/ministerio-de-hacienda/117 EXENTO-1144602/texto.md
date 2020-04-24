@@ -1,0 +1,31 @@
+APLICA REBAJAS DE DERECHOS DE ADUANA PARA LA IMPORTACIÓN DE AZÚCAR CRUDA, AZÚCAR REFINADA GRADOS 1 Y 2, Y AZÚCAR REFINADA GRADOS 3 Y 4, Y SUBESTÁNDARES
+
+Núm. 117 exento.- Santiago, 16 de abril de 2020.
+
+Vistos:
+
+Lo dispuesto en la ley Nº 18.525; en la ley Nº 19.897; en el decreto supremo Nº 831, de 2003, del Ministerio de Hacienda, modificado por el decreto supremo Nº 1.936, de 2014, del Ministerio de Hacienda; en el decreto supremo Nº 19, de 2001, del Ministerio Secretaría General de la Presidencia; en el decreto supremo Nº 544, de 2019, del Ministerio del Interior y Seguridad Pública; en la resolución Nº 7, de 2019, de la Contraloría General de la República, y en los antecedentes adjuntos.
+
+Considerando:
+
+1.- Que, la política del Supremo Gobierno en materia de productos agrícolas básicos, tiene por objeto establecer un margen razonable de fluctuación de los precios internos en relación a los precios internacionales de tales productos.
+
+2.- Que, para cumplir con dicho objetivo, es indispensable aplicar rebajas a las sumas que corresponda pagar por derechos ad valórem del Arancel General a la importación de azúcar cruda, azúcar refinada grados 1 y 2, y azúcar refinada grados 3 y 4 y subestándares, desde el 1 de mayo de 2020 al 31 de mayo de 2020.
+
+3.- Que, de conformidad a lo comunicado por la Oficina de Estudios y Políticas Agrarias del Ministerio de Agricultura, mediante correo electrónico de 16 de abril de 2020.
+
+Decreto:
+
+1. Aplícase, a contar del 1 de mayo de 2020 y hasta el 31 de mayo de 2020, el siguiente derecho específico a la importación de azúcar, por cuanto su precio de referencia se ubica por debajo de la banda vigente:
+
+Azúcar cruda = USD 0,004 US$/kg.
+
+2. Aplícanse, a contar del l de mayo de 2020 y hasta el 31 de mayo de 2020, las siguientes rebajas a las sumas que corresponda pagar por derechos ad valórem del Arancel Aduanero a la importación de azúcar refinada de los grados 1 y 2, y azúcar refinada de los grados 3 y 4, y subestandares, por cuanto el precio de referencia se ubica por sobre el techo de la banda vigente:
+
+3. Determínase que las importaciones a que se refieren los numerales precedentes corresponderán a las mercancías que se clasifican en las posiciones arancelarias que a continuarion se indican.
+
+4. Determínase que las rebajas establecidas en los numerales 1 y 2 del presente decreto exento, en ningún caso podrán exceder del monto que corresponda pagar por concepto de derechos ad valórern del Arancel Aduanero por la importación de dichas mercancías, considerando cada importación individualmente y teniendo como base el valor CIF de las mercancías comprendidas en la respectiva operación.
+
+Anótese, publíquese y archívese.- Por orden del Presidente de la República, Ignacio Briones Rojas, Ministro de Hacienda.
+
+Lo que transcribo a usted para su conocimiento.- Saluda Atte. a usted, Francisco Moreno Guzmán, Subsecretario de Hacienda.
