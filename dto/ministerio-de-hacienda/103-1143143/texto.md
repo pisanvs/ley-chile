@@ -64,6 +64,8 @@ h) Reapertura de la serie de bonos emitidos en virtud de la letra
 
 - **i)** del artículo 4º del mismo decreto, hasta por un monto total máximo de diez millones novecientas mil UFs (10.900.000 UFs);
 
+Con todo, el monto total a colocar no podrá ser superior al equivalente en pesos a quinientos cincuenta millones seiscientos veintitrés mil novecientos diecinueve dólares de los Estados Unidos (US$550.623.919), utilizando para estos efectos el tipo de cambio observado y el valor de la UF en la fecha de publicación de este decreto.
+
 En uso de esta facultad, cualquiera de las autoridades antes mencionadas podrá celebrar, otorgar, ejecutar o suscribir todos los actos y contratos que sean necesarios para proceder a la emisión, el registro, la colocación, el depósito y la enajenación de los Bonos, incluyendo el pago de los gastos operativos en que se incurra, así como para establecer cualquier otro aspecto requerido para llevar a cabo las operaciones de endeudamiento que se autorizan, tales como: contrato o contratos de colocación, por el cual instituciones financieras se obligarán a colocar los bonos y, eventualmente, adquirirlos, y el contrato de agencia fiscal o sus modificaciones (fiscal agency agreement), o contrato de emisión similar (indenture) y otros contratos de agencia que, entre otros, regularán estas operaciones, solicitudes de registro ante organismos administrativos y/o bolsas de valores, que incluyan la emisión y colocaciones de Bonos.
 
 #### Artículo 2º
