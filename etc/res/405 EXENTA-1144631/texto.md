@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 405 EXENTA, DE 16 DE MARZO DE 2020
+
+Por resolución exenta N° 405, de 16 de marzo de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Maule, se aprobó el gabinete técnico creado e instalado por la Ilustre Municipalidad de Longaví, que tendrá su lugar de funcionamiento en 1 Oriente N° 224, Longaví. Y se autorizó a la I. Municipalidad de Longaví para otorgar licencias de conductor. La I. Municipalidad de Longaví deberá suspender el otorgamiento de licencias de conductor, de acuerdo a lo señalado en el decreto con fuerza de ley N° 1, del 29 de octubre de 2007, que fija texto refundido, coordinado y sistematizado de la Ley de Tránsito N° 18.290 y sus reglamentos. En todo caso la I. Municipalidad precedentemente individualizada deberá suspender el otorgamiento de Licencias de Conductor, en el evento de faltarle alguno de los requisitos que hicieron posible la presente autorización.-
+
+Carlos Palacios Maldonado, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Maule.
