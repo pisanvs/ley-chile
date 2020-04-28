@@ -1,0 +1,49 @@
+DISPONE EXTENSIÓN DE LA VIGENCIA DE LOS CERTIFICADOS DE VERIFICACIÓN Y DE CALIBRACIÓN DE LOS EQUIPOS E INSTRUMENTOS DE MUESTREO Y MEDICIÓN QUE INDICA
+
+Núm. 600 exenta.- Santiago, 14 de abril de 2020.
+
+Visto:
+
+Lo dispuesto en la ley orgánica de la Superintendencia del Medio Ambiente (en adelante, LOSMA); la ley Nº 19.880, que Establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; en el decreto con fuerza de ley Nº 1-19.653, de 2000, que fija el texto, refundido, coordinado y sistematizado de la ley Nº18.575, de Bases Generales de la Administración del Estado; la ley Nº 19.300, sobre Bases Generales del Medio Ambiente; el decreto con fuerza de ley Nº 3, de 11 de septiembre de 2010, del Ministerio Secretaría General de la Presidencia, que Fija la Planta de la Superintendencia del Medio Ambiente; en el Gab. Pres. Nº 003, de 16 de marzo de 2020; en el oficio circular Nº 10, de 18 de marzo de 2020, del Ministerio del Interior; en el decreto supremo Nº 31, de 8 de octubre de 2019, del Ministerio del Medio Ambiente, que nombra a Cristóbal de la Maza Guzmán en el cargo de Superintendente del Medio Ambiente; en la resolución exenta Nº 424, de 12 de mayo de 2017, de la Superintendencia del Medio Ambiente, que fija la organización interna de la Superintendencia del Medio Ambiente, y sus modificaciones; y en la resolución Nº 7, de 26 de marzo de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de Toma de Razón.
+
+Considerando:
+
+1. El decreto supremo Nº 4, de 5 enero de 2020, del Ministerio de Salud, que decretó alerta sanitaria otorgando facultades extraordinarias a dicha cartera por Emergencia de Salud Pública de Importancia Internacional (ESPII) por brote del nuevo coronavirus (en adelante, Covid-19), el que fue modificado por el decreto supremo Nº 10, de 24 de marzo del Ministerio de Salud.
+
+2. El Ministerio de Salud, a través de los oficios Nº 671, Nº 749 y Nº 750, de marzo de 2020, informó e instruyó respecto a las diversas acciones relacionadas con protocolos y medidas para enfrentar el coronavirus.
+
+3. Con fecha 11 de marzo de 2020, la Organización Mundial de la Salud calificó el brote de Covid-19 como una pandemia global, lo que implica una amenaza para todos los habitantes del territorio de nuestro país, por el riesgo de contagio del virus y la consiguiente afectación a la salud de las personas que ello trae consigo.
+
+4. Mediante el oficio Gab. Pres. Nº 003, de 16 de marzo de 2020, se adoptaron medidas que han restringido reuniones masivas de personas, así como otras que han redundado es adoptar acciones preventivas que han flexibilizado el ejercicio de las labores de las personas, limitando así también viajes, medios de transporte, entre otras medidas.
+
+5. Por decreto supremo Nº 104, de 18 de marzo de 2020, del Ministerio del Interior, se declaró estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile, el que fue modificado por el decreto supremo 106, de 19 de marzo de este año y complementado por el decreto supremo Nº 107, del 20 de marzo del corriente, que declara como zonas afectadas por catástrofe a todas las comunas del país.
+
+6. A mayor abundamiento, a través de las resoluciones exentas Nº 180, Nº 183, Nº 188, Nº, Nº 200, Nº 202; Nº 208; Nº 212; Nº 217; Nº 218; Nº 227; Nº 236; Nº 241; y Nº 244, todas de 2020, del Ministerio de Salud, ordenó la aplicación de diversas medidas sanitarias por brote de Covid-19, que alteran -con diversos niveles de intensidad- el libre desplazamiento de la población.
+
+7. En el marco de lo expuesto, el Instituto de Salud Pública dictó la resolución exenta Nº 1.271, de 2 de abril de 2020, mediante la que "Determina prestaciones del Instituto de Salud Pública de Chile que se mantendrán vigentes mientras dure la pandemia por Covid-19 en el país".
+
+En el resuelvo tercero del citado acto administrativo, el Instituto de Salud Pública dispuso que "como contrapartida de lo que se ha señalado en la presente resolución, las demás prestaciones que efectúa el Instituto de Salud Pública de Chile se encontrarán temporalmente suspendidas".
+
+8. En este contexto, mediante correo electrónico de 8 de abril de este año, el jefe de la Sección Tecnologías en el Trabajo del Departamento de Salud Ocupacional del Instituto de Salud Pública informó que "las prestaciones relacionadas con la verificación de la calibración de los equipos e instrumentos de medición fueron suspendidas desde el lunes 16/03/20".
+
+9. Esta decisión de suspensión de prestación de servicios por parte del Instituto de Salud Pública impacta directamente en el sistema ETFA que administra esta Superintendencia, toda vez que dicho instituto es prestador único en Chile para la verificación y calibración de los equipos e instrumentos indicados en los puntos 3.1 y 4.2 de la resolución exenta Nº 128, de 2019, que fija los plazos en los cuales las entidades técnicas de fiscalización ambiental que hacen muestreos o mediciones en alcances relacionados con el componente aire-emisiones atmosféricas de fuentes fijas y aire-ruido deben realizar la verificación y calibración de sus equipos e instrumentos.
+
+10. Así las cosas, dado que el Instituto de Salud Pública ha suspendido la verificación y calibración de los equipos e instrumentos que aplique, indicados en los puntos 3.1 y 4.2 de la resolución exenta Nº 128, de 2019, se producirá el vencimiento de los certificados de verificación y de calibración, lo que traerá como consecuencia que las entidades técnicas de fiscalización ambiental autorizadas para la realización de muestreos o mediciones se vean impedidas de emitir informes de resultados válidos para la SMA, lo que ciertamente producirá un entorpecimiento mayor para el cumplimiento de las tareas de fiscalización que la ley ha encomendado a este servicio.
+
+11. Por su parte, la Contraloría General de la República, mediante dictamen contenido en oficio Nº 3.610, de 17 de marzo de 2020, señaló que "A la luz de lo prescrito por el artículo 45 del Código Civil, norma de derecho común y de carácter supletorio, el caso fortuito constituye una situación de excepción que, en diversos textos normativos, permite adoptar medidas especiales, liberar de responsabilidad, eximir del cumplimiento de ciertas obligaciones y plazos, o establecer modalidades especiales de desempeño, entre otras consecuencias que en situaciones normales no serían permitidas por el ordenamiento jurídico".
+
+El mismo documento agrega que, en atención a que el brote de Covid-19 debe ser considerado un caso fortuito, "...los jefes superiores de los servicios se encuentran facultados para suspender los plazos en los procedimientos administrativos o para extender su duración, sobre la base de la situación de caso fortuito que se viene produciendo".
+
+12. Constituyendo la pandemia de Covid-19 un caso fortuito en razón de la cual el Instituto de Salud Pública dictó la resolución exenta Nº 1.271, de 2020, que de manera directa suspende la verificación y calibración de los equipos e instrumentos de muestreo y medición, cuyo plazo de verificación y calibración se establecen en la resolución exenta Nº 128, de 2019, de este origen, este Superintendente se ve en el imperativo de extender el plazo de vigencia de los certificados de verificación y calibración de los mismos, a fin que este servicio pueda dar continuidad a las actividades de fiscalización que la ley le ha encomendado.
+
+13. Así, de acuerdo a lo manifestado en los puntos considerativos precedentes y en virtud de los principios de eficiencia y eficacia previstos en los artículos 3° y 5° de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado y que rigen el actuar de los órganos de la administración del Estado, a resolver lo siguiente
+
+Resuelvo:
+
+Primero: Extiéndese la vigencia de los certificados de verificación y de calibración de los equipos e instrumentos de muestreo y medición señalados en los puntos 3.1 y 4.2 de la resolución exenta Nº 128, de 2019, para todas las entidades técnicas de fiscalización ambiental autorizadas para la realización de muestreos o mediciones en los alcances relacionados con el componente aire-emisiones atmosféricas de fuentes fijas y aire-ruido, por el lapso comprendido entre el 16 de marzo de 2020 -fecha en la que el Instituto de Salud Pública dejó de verificar y calibrar equipos e instrumentos de muestreo o medición- y el 16 de julio de 2020, ambas fechas inclusive.
+
+Segundo: Extiéndese la vigencia de los certificados de verificación y de calibración de los equipos e instrumentos de muestreo y medición de la Superintendencia del Medio Ambiente no comprendidos en el listado de la resolución exenta Nº 1.271, de 2 de abril de 2020, que "Determina prestaciones del Instituto de Salud Pública de Chile que se mantendrán vigentes mientras dure la pandemia por Covid-19 en el país", que venzan entre el 16 de marzo de 2020 -fecha en la que el Instituto de Salud Pública dejó de verificar y calibrar equipos e instrumentos de muestreo y medición- y el 16 de julio de 2020, ambas fechas inclusive, en atención a que ello es necesario para que esta Superintendencia pueda dar continuidad a las actividades de fiscalización que la ley le ha encomendado.
+
+Tercero: Notifíquese conforme lo dispuesto en el artículo 48 letras a) y b) de la ley Nº 19.880, mediante la publicación de ésta en el Diario Oficial, sin perjuicio que excepcionalmente esta resolución entrará en vigencia desde esta fecha.
+
+Anótese, cúmplase, publíquese en el Diario Oficial y archívese.- Cristóbal de la Maza Guzmán, Superintendente del Medio Ambiente.
