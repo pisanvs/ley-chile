@@ -30,6 +30,8 @@ Resolución:
 
 1. Apruébense los Criterios Regionales de Selección, para la postulación de proyectos del Capítulo Primero, Equipamiento Comunitario, del Programa de Mejoramiento de Viviendas y Barrios, del llamado a postulación regulado por la resolución exenta Nº 330, de fecha 20.02.2020, los cuales se detallan a continuación:
 
+.
+
 2. El puntaje máximo por el ítem factores regionales corresponderá a 100 puntos, los cuales ponderarán un 40% del total de puntaje del proyecto a ser postulado de acuerdo a lo indicado en el artículo 72 del DS Nº27 (V. y U.) de 2016.
 
 3. Publíquese en el Diario Oficial de conformidad a lo que establece el artículo 48 letra b), de la ley Nº 19.880.
