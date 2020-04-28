@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 889 EXENTA, DE 2020, DICTADA POR EL MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES
+
+Por resolución exenta Nº 889, de 22 de abril de 2020, del Ministerio de Transportes y Telecomunicaciones, se extienden los plazos para el concurso que busca proveer servicios para operar la Unidad de Negocios Nº 10, cuyas bases de postulación fueron aprobadas por la resolución exenta Nº 3.629, de 2019, de este Ministerio, en el marco de las condiciones de operación del Perímetro de Exclusión establecido en el Gran Valparaíso, aprobadas por resolución exenta Nº 1.745, de 2019, del Ministerio de Transportes y Telecomunicaciones. Copia íntegra de la resolución y de los plazos y fecha de postulación, pueden ser consultados directamente en www.dtpr.gob.cl.-
+
+Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
