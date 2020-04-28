@@ -1,0 +1,5 @@
+RESOLUCIÓN N° 198 EXENTA, DE FECHA 03.04.2020 QUE "AUTORIZA TRAMITACIÓN EXCEPCIONAL DE DENUNCIAS RELACIONADAS CON CASOS CRÍTICOS QUE SE VERIFIQUEN DURANTE LA EMERGENCIA DE SALUD PÚBLICA DERIVADA DEL BROTE DE COVID 19"
+
+Con fecha 3 de abril de 2020, la Superintendencia de Educación dictó la resolución exenta N° 198, que "Autoriza tramitación excepcional de denuncias relacionadas con casos críticos que se verifiquen durante la emergencia de salud pública derivada del brote de covid 19", la cual aprueba el procedimiento especial de gestión de denuncias covid 19 que se adjunta a dicha resolución. La resolución referida comenzará a regir desde la su publicación en extracto en el Diario Oficial y estará disponible íntegramente en la página web institucional www.supereduc.cl.-
+
+Daniella Maureira Arrizaga, Jefa Departamento de Fiscalización de Procesos Educativos.
