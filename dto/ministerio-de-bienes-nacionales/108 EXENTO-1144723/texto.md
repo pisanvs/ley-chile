@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN METROPOLITANA, A LA "FUNDACIÓN EDUCACIONAL PARA EL DESARROLLO INTEGRAL DE LA NIÑEZ"
+
+Mediante decreto exento Nº E-108 de 5 de marzo de 2020, el Ministerio de Bienes Nacionales otorgó en concesión gratuita, a la "Fundación Educacional para el Desarrollo Integral de la Niñez", RUT Nº 70.574.900-0, el inmueble fiscal correspondiente al Lote 5B, ubicado en calle Federico Errázuriz Nº 788, comuna de Pudahuel, provincia de Santiago, Región Metropolitana; enrolado en el Servicio de Impuestos Internos con el Nº 5702-13; inscrito a nombre del Fisco que rola a fs. 19.039 Nº 11.085, del Registro de Propiedad del Conservador de Bienes Raíces de Santiago, correspondiente al año 1989; singularizado en el Plano Nº 13124-677C.U.; con una superficie de 2.250 m2. La concesión se otorga por un plazo de 8 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para destinar el inmueble para el funcionamiento del Jardín Infantil dependiente de la Fundación Integra. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.-
+
+Autoriza extracto.- Francisca Navarro Barriga, Jefa División Jurídica.
