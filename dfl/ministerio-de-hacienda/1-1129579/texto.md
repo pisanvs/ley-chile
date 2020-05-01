@@ -264,7 +264,7 @@ La promoción de los funcionarios de la Comisión será dispuesta mediante el me
 
 #### Artículo 34
 
-La promoción se efectuará por concurso interno en las plantas de profesionales y técnicos, de fiscalizadores, de administrativos, y de auxiliares, así como para los cargos a contrata correspondientes a dichos estamentos. Los concursos respectivos serán preparados y realizados por la Unidad de Gestión y Desarrollo de Personas de la Comisión. El llamado a concurso se dispondrá mediante una resolución del Presidente de la Comisión, y deberá contener las bases del concurso, la que deberá ser difundida dentro de los tres días siguientes a su expedición.
+La promoción se efectuará por concurso interno en las plantas de profesionales y técnicos, de fiscalizadores, de jefaturas - analistas bancarios, de administrativos, y de auxiliares, así como para los cargos a contrata correspondientes a dichos estamentos. Los concursos respectivos serán preparados y realizados por la Unidad de Gestión y Desarrollo de Personas de la Comisión. El llamado a concurso se dispondrá mediante una resolución del Presidente de la Comisión, y deberá contener las bases del concurso, la que deberá ser difundida dentro de los tres días siguientes a su expedición.
 
 Las bases del concurso de promoción, deberán contener, a lo menos, el calendario de realización y los factores de selección con su respectiva ponderación.
 
@@ -569,6 +569,26 @@ El personal de planta de la Comisión, durante el primer año de vigencia del pr
 Los funcionarios que hagan uso del derecho señalado en el inciso anterior, podrán computar los años de servicios continuos prestados en calidad de titular de un cargo de planta y a contrata en la mencionada Superintendencia y en la Comisión, para efectos del cálculo de la indemnización señalada en el artículo 63. Para tales efectos, los años de servicios prestados en la Superintendencia de Valores y Seguros se considerarán en un cincuenta por ciento. A dichos funcionarios se les aplicarán las demás normas sobre cálculo y límites de la referida indemnización.
 
 El personal que hubiere renunciado al cargo del que era titular, conforme a lo dispuesto en el inciso primero, mantendrá la asignación de antigüedad que tenga reconocida, así como el tiempo computable para dicho reconocimiento.
+
+#### Artículo quinto
+
+Respecto del personal traspasado desde la Superintendencia de Bancos e Instituciones Financieras a la Comisión para el Mercado Financiero en virtud del decreto con fuerza de ley N° 2, de 2019, del Ministerio de Hacienda, su jornada ordinaria de trabajo se distribuirá de acuerdo al mecanismo aplicable a la fecha del traspaso señalada en dicho decreto con fuerza de ley.
+
+#### Artículo sexto
+
+En tanto no se aplique al personal traspasado desde la Superintendencia de Bancos e Instituciones Financieras a la Comisión para el Mercado Financiero el reglamento a que se refiere el artículo 49 de este decreto con fuerza de ley, deberá aplicarse la siguiente tabla de homologación de la lista de calificaciones, según corresponda:
+
+.
+
+El reglamento a que se refiere el inciso primero del artículo 49 de este decreto con fuerza de ley, dispondrá a partir de cuándo será aplicable al personal traspasado desde la Superintendencia de Bancos e Instituciones Financieras a la Comisión para el Mercado Financiero.
+
+#### Artículo séptimo
+
+La causal de cese en el cargo establecida en la letra l) del artículo 58 de este decreto con fuerza de ley, no será aplicable al personal traspasado desde la Superintendencia de Bancos e Instituciones Financieras a la Comisión para el Mercado Financiero en virtud del decreto con fuerza de ley N° 2, de 2019, del Ministerio de Hacienda, que haya obtenido una jubilación, pensión o renta vitalicia en un régimen previsional en relación al respectivo cargo público hasta la fecha de entrada en vigencia del presente Estatuto para dicho personal traspasado. Asimismo, la citada causal no se aplicará a aquellos funcionarios traspasados que, a la fecha de entrada en vigencia del presente Estatuto para dicho personal, tengan 60 o más años, en el caso de los hombres, o 55 o más años en el caso de las mujeres.
+
+#### Artículo octavo
+
+A los funcionarios extranjeros traspasados desde la Superintendencia de Bancos e Instituciones Financieras a la Comisión para el Mercado Financiero en virtud del decreto con fuerza de ley N° 2, de 2019, del Ministerio de Hacienda, cuyo nombramiento se haya efectuado de acuerdo a lo dispuesto en el literal a) del artículo 6° del decreto con fuerza de ley N° 1.383, de 1975, del Ministerio de Hacienda, se les seguirán aplicando los requisitos vigentes a la época de su contratación.
 
 Anótese, tómese razón, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
 
