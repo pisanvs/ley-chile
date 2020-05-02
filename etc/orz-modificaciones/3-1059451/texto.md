@@ -46,7 +46,11 @@ d) Los permisos que exijan otras leyes especiales, según sea el caso.
 
 #### Artículo 2º
 
-La Municipalidad de Peñalolén -no obstante las exigencias contempladas en el artículo anterior- podrá además otorgar patente provisoria en forma inmediata con informe favorable del Director/a de Obras, respecto de actividades gravadas con patente municipal que pretendan desarrollarse en edificaciones sin recepción definitiva parcial o total.
+La municipalidad, no obstante las exigencias contempladas en el artículo anterior, podrá otorgar patente provisoria en forma inmediata con informe emitido por la Dirección de Obras Municipales, sobre el emplazamiento y zonificación según instrumento de planificación territorial vigente, y los permisos de edificación y/o recepciones otorgados para el predio donde se emplace el giro declarado. Dicho informe no reemplaza la verificación de las condiciones de funcionamiento, labor que se hará dentro de los plazos establecidos en la ley de rentas municipales.
+
+Sin perjuicio de lo anterior, el interesado deberá aportar la acreditación de los antecedentes y/o autorizaciones legales, tributarias, sanitarias, gas, eléctricos, de aguas y alcantarillado, que en cada caso en particular se requieren conforme al giro solicitado.
+
+Asimismo, el beneficiario extenderá una declaración jurada simple en la que se obliga a cumplir con aquellas autorizaciones durante el período de duración de la patente provisoria; la municipalidad, en caso de verificar el incumplimiento de aquellas normas, podrá dejar sin efecto la patente en forma inmediata.
 
 #### Artículo 3º
 
