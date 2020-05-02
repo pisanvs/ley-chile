@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº89, de 27 de marzo de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e) y 105° del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP Nº206 de 1960, se expropiaron los lotes de terreno Nos 1 y 4, para la obra: AMPLIACION CONEXIÓN VIAL CONCEPCION-CHIGUAYANTE, ETAPA 2, que figura a nombre de BUROTTO MANETTI ADOLFO Y OTRO y MUNOZ DADE NELSON, roles de avalúo 2581-1 y 2584-1, Comuna de CHIGUAYANTE, REGIÓN DEL BIOBÍO, superficies 1.776 y 847 m2 respectivamente. La Comisión de Peritos integrada por ROXANA CECILIA ABARZUA GAJARDO, CONSUELO LORETO ZULOAGA SANHUEZA y MARIA PAMELA MAC-GUIRE ACEVEDO, mediante informe de tasación de 20 de noviembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $557.018.655 para el lote Nº1, y $160.698.454 para el lote Nº4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
