@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°124, de 27 de marzo de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 89 y 90, para la obra: MEJORAMIENTO RUTA 7 SUR, CUESTA EL TRARO COCHRANE - LAGUNA ESMERALDA, que figuran a nombre de VERA ZUNIGA NELSON, roles de avalúo 211-3, Comuna de COCHRANE, REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, superficies 4.920 y 2.883 m2. respectivamente. La Comisión de Peritos integrada por SERGIO JEREMIAS ORDENES SALINAS, NICOLÁS ALEJANDRO ALARCÓN SÁNCHEZ y HANDY CAMPOS SEPULVEDA, mediante informe de tasación de 16 de febrero de 2019, fijó el monto de la indemnización provisional en la cantidad de $14.688.000, para el lote N°89 y $8.864.200, para el lote N°90. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
