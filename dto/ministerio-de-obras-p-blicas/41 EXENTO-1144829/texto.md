@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 41 de 23 de marzo de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e), y 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropió el lote de terreno N° 139, para la obra: MEJORAMIENTO EN RUTA R-42 CAMINO PURÉN - LUMACO, que figura a nombre de LLEBUL CABEZA EMILIA ISABEL, rol de avalúo 1199-110, Comuna de PURÉN, REGIÓN DE LA ARAUCANÍA, superficie 473 m2. La Comisión de Peritos integrada por YASCHALA MARIBEL YÁÑEZ RIFFO, PAULA ANDREA LAGOS CARRASCO y EVALDO ROBERTO CONTRERAS ROA, mediante informe de tasación de fecha 23 de diciembre de 2013, complementada por acta de fecha 29 de septiembre de 2017, fijó el monto de la indemnización provisional en la cantidad de $4.268.540.- para el lote N° 139. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
