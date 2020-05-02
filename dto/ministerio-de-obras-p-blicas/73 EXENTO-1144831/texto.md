@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº73, de 27 de marzo de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 2, para la obra: PROYECTO DE AGUA POTABLE RURAL QUILIMARI, que figura a nombre de MEDEZ MARTIZ OTILIA MARGARITA, rol de avalúo 284-168, Comuna de LOS VILOS, REGIÓN DE COQUIMBO, superficie 320 m2. La Comisión de Peritos integrada por PABLO JAVIER FLORES SALINAS, MIGUEL ANGEL RUIZ VALENZUELA y ANA ROSA DEL CARMEN SILVA GIL, mediante informe de tasación de 14 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $3.840.000, para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
