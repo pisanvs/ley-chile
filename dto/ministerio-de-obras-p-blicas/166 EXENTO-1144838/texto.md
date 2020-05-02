@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 166, de 31 de marzo de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 41-C, para la obra: REPOSICION RUTA A-133, SECTOR EL BUITRE-LAS MAITAS, que figura a nombre de MALTRY PHILIP CHARLES, rol de avalúo 3410-190, Comuna de ARICA, REGION DE ARICA Y PARINACOTA, superficie 113 m2. La Comisión de Peritos integrada por ANGELICA YANETT SEURA ROJAS, PATRICIA ANGELICA MORALES RIVERA y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de fecha 29 de julio de 2016, fijó el monto de la indemnización provisional en la cantidad de $21.577.000 para el lote Nº41-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
