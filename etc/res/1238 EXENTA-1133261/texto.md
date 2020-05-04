@@ -118,7 +118,9 @@ La instalación de un Data Logger permitirá tener un respaldo de las mediciones
 
 El Data Logger deberá contar con un mecanismo que permita acceder desde un computador portátil a la lectura y descarga de la información almacenada. El Data Logger que se instale deberá encontrarse configurado a la hora UTC-4(¹).
 
-Se podrá prescindir de la instalación de un Data Logger si el flujómetro y sensor de nivel tiene incorporado internamente un sistema de registro con capacidad suficiente para respaldar al menos los últimos 3 años de datos, y cuente con los puertos adecuados para conectar la antena o cable transmisor (cuando corresponda) y computador.
+Se podrá prescindir de la instalación de un data logger si el flujómetro y el sensor de nivel tienen incorporado internamente un sistema de registro con capacidad suficiente para respaldar al menos 3 años de datos, permitan la extracción de los datos desde un computador portátil y puedan transmitir los registros directamente al Centro de Control.
+
+Los Usuarios de Aguas integrantes de una Comunidad de Aguas Subterráneas registrada en el Registro Público de Organizaciones de Usuarios del Catastro Público de Aguas, podrán prescindir de la instalación de un data logger en la medida que el flujómetro y el sensor de nivel puedan transmitir los registros directamente a un Centro de Control administrado por dicha comunidad.
 
 La Dirección General de Aguas podrá en cualquier momento concurrir a la obra de captación y rescatar directamente la información respaldada en el Data Logger o directamente desde el sensor.
 
@@ -170,7 +172,7 @@ Registro de la Obra en el Software DGA de Monitoreo de Extracciones Efectivas (M
 
 La administración y gestión de la información de extracciones efectivas, se realizará por medio del Software DGA de Monitoreo de Extracciones Efectivas (M.E.E.), el cual corresponde a una plataforma tecnológica desarrollada y administrada por la Dirección General de Aguas, con el propósito de que los titulares de aprovechamiento de aguas registren sus obras de captación, los derechos asociados, y entreguen la información de las extracciones que se realizan en la obra.
 
-El titular de derecho de aprovechamiento o quién él mandate para hacerlo, antes de comenzar a remitir la información de extracciones, deberá registrar la obra de captación en el Software DGA de Monitoreo de Extracciones Efectivas (M.E.E.), que otorgará un "Código de Obra", el que, como se señala en el Cuadro Nº 4, deberá estar indicado junto a los datos de extracciones que se remitan a la DGA para identificar a qué punto de captación o restitución que corresponden.
+El titular de derecho de aprovechamiento o quien él mandate para hacerlo, a través de un documento que acredite poder de representación y que debe ser acompañado en el Software DGA de Monitoreo de Extracciones Efectivas (M.E.E.), antes de comenzar a remitir la información de extracciones, deberá registrar la obra de captación en dicho software, que otorgará un "Código de Obra", el que, como se señala en el Cuadro Nº 4, deberá individualizarse junto a los datos de extracciones que se remitan a la DGA para identificar a qué punto de captación o restitución corresponden.
 
 Esta plataforma requiere autenticarse con clave única y recibe los datos de las extracciones que se realicen en la obra, mediante la carga de datos por archivo (Excel), formulario (interfaz de carga) o vía servicio web (telemetría), según el estándar que le corresponda.
 
@@ -214,7 +216,9 @@ Centro de Control. Corresponde al sitio donde se recopilan los datos medidos en 
 
 El titular de derechos de aprovechamiento de aguas deberá emplear un Centro de Control, preferentemente de la Organización de Usuarios de Aguas a la que pertenece, aunque puede ser propio o de un tercero que le preste el servicio.
 
-En el Centro de Control se deberá respaldar los datos medidos de niveles freáticos y totalizador y los datos de caudales ya sea medidos o calculados de al menos los últimos tres años, indicando fecha y hora de medición. La DGA cuando lo estime pertinente, podrá requerir y solicitar la información que se obtenga.
+En el caso que el flujómetro no mida directamente caudales y el data logger no tenga la capacidad tecnológica de entregar un valor inmediato de caudal, este parámetro deberá obtenerse en el Centro de Control, a partir del volumen de agua extraído o restituido, según sea el caso, en el lapso de tiempo que corresponda según la frecuencia de medición ordenada.
+
+En el Centro de Control se deben respaldar los datos medidos (totalizador y nivel freático) y los de caudales (medidos u obtenidos) de a lo menos los últimos tres años, indicando la fecha y la hora de medición. La DGA, cuando lo estime pertinente, podrá requerir acceso y copia de los datos respaldados en el Centro de Control, debiendo el Usuario de Aguas dar dicho acceso y copia de forma inmediata ya sea virtual o físicamente en el mismo Centro de Control.
 
 Transmisión al Software DGA de Monitoreo de Extracciones Efectivas.
 
@@ -331,5 +335,13 @@ Dichos titulares, deberán comenzar a transmitir por Formulario al Software de M
 8. Publíquese la presente resolución por una sola vez en el Diario Oficial, los días 1 o 15, o el primer día hábil siguiente, si aquellos fueran feriados.
 
 9. Comuníquese la presente resolución a los Sres. Jefes de División, Departamento y Unidades de la Dirección General de Aguas, a los Directores Regionales de Aguas y a las demás oficinas de la Dirección General de Aguas que corresponda.
+
+10. Téngase presente que para aquellos titulares de derechos de aprovechamientos de aguas subterráneas que se les ordene instalar y mantener sistemas de medición y transmisión de Monitores de Extracciones Efectivas, que no tengan obras de captación habilitadas, es decir, no cuenten con las instalaciones que hacen posible la efectiva extracción de aguas a que se tiene derecho, tales como: bombas de extracción, ya sea móviles o fijas, instalaciones mecánicas, eléctricas, tuberías, u otros, no le será obligatorio instalar un Sistema de Medición ni de Transmisión, hasta que habilite la obra. De todas formas deberá registrar la obra en el Software DGA de Monitoreo de Extracciones Efectivas en el plazo que corresponda según el caudal del derecho de aprovechamiento de aguas. Una vez que habilite la obra de captación, antes de comenzar su ejercicio deberá tener instalado los Sistemas de Medición y Transmisión según el Estándar que le corresponda al caudal de la suma de todos los derechos de aprovechamientos de aguas subterráneas que se ejercen en dicha obra de captación, para luego paralelamente al ejercicio del derecho comenzar las Transmisiones según el Estándar respectivo.
+
+11. Ordénase a aquellos titulares de derechos de aprovechamiento de aguas que se encuentren dentro del Estándar Menor, realizar la medición de enero dentro de los primeros 10 días corridos de dicho mes y la medición de diciembre dentro de los últimos 10 días corridos de dicho mes.
+
+12. Ordénase a aquellos titulares de derechos de aprovechamiento de aguas que se encuentren dentro del Estándar Caudales Muy Pequeños realizar la primera medición del año dentro de los primeros 10 días corridos de enero y la última medición del año dentro de los últimos 10 días corridos de diciembre. El primer año de instalado el sistema deberá medir solo en diciembre.
+
+13. Téngase presente que la Dirección General de Aguas tiene la facultad de solicitar y requerir información cada vez que lo estime, en su calidad de ente regulador, conforme lo establece el artículo 173 Nº 1 del Código de Aguas y demás artículos pertinentes de dicho cuerpo legal.
 
 Anótese, publíquese y comuníquese.- Óscar Cristi Marfil, Director General de Aguas.
