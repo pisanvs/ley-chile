@@ -74,7 +74,7 @@ c) la ubicación de las instalaciones;
 
 d) las características técnicas de las instalaciones; y,
 
-e) el plazo de inicio y finalización de las obras y el plazo de inicio del servicio.
+e) el plazo de inicio del servicio.
 
 Los elementos señalados precedentemente, serán modificables por decreto supremo a solicitud de la parte interesada, con excepción de las letras c) y d), que se modificarán por resolución de la Subsecretaría, en ambos casos conforme a lo dispuesto en el artículo 8º del presente Reglamento. Con todo, la incorporación de nuevas torres soporte de antenas y sistemas radiantes o el traslado de alguna de las ya autorizadas, se efectuará mediante decreto supremo, de acuerdo al procedimiento establecido en el citado artículo 8º.
 
@@ -86,7 +86,7 @@ El Ministro, en casos graves y urgentes y por resolución fundada, podrá accede
 
 #### Artículo 6º
 
-Las solicitudes de concesión se presentarán, conforme al formato que a dicho fin apruebe por resolución la Subsecretaría, directamente ante el Ministerio, acompañando a tal efecto un proyecto técnico con el detalle pormenorizado de la ubicación y características técnicas de las instalaciones, indicando el tipo y la zona de servicio y los plazos para la ejecución de las obras e inicio del servicio, y adjuntando los demás antecedentes exigidos por las disposiciones legales y reglamentarias pertinentes. En el proyecto técnico deberá señalarse la capacidad máxima que puede soportar la infraestructura que se pretende instalar, así como las medidas antisísmicas y de seguridad de que gozará la misma, conforme a la normativa aplicable, y, en su caso, las características de los accesos a la infraestructura.
+Las solicitudes de concesión se presentarán, conforme al formato que a dicho fin apruebe por resolución la Subsecretaría, directamente ante el Ministerio, acompañando a tal efecto un proyecto técnico con el detalle pormenorizado de la ubicación y características técnicas de las instalaciones, indicando el tipo y la zona de servicio y el plazo para el inicio del servicio, y adjuntando los demás antecedentes exigidos por las disposiciones legales y reglamentarias pertinentes. En el proyecto técnico deberá señalarse la capacidad máxima que puede soportar la infraestructura que se pretende instalar, así como las medidas antisísmicas y de seguridad de que gozará la misma, conforme a la normativa aplicable, y, en su caso, las características de los accesos a la infraestructura.
 
 La Subsecretaría, dentro de los 30 días siguientes a la fecha de recepción de la solicitud de concesión, deberá emitir un informe respecto de ésta, considerando el cumplimiento de los requisitos formales y técnicos de carácter legal y reglamentario.
 
@@ -114,7 +114,7 @@ El adquirente quedará sometido a las mismas obligaciones que la concesionaria.
 
 #### Artículo 8º
 
-Las solicitudes de modificación de concesión se presentarán al Ministerio, debiendo adjuntarse un proyecto técnico con el detalle pormenorizado de las nuevas instalaciones o la modificación de las ya autorizadas, indicando los plazos para la ejecución de las obras e inicio del servicio y adjuntando los demás antecedentes exigidos por las disposiciones legales y reglamentarias pertinentes.
+Las solicitudes de modificación de concesión se presentarán al Ministerio, debiendo adjuntarse un proyecto técnico con el detalle pormenorizado de las nuevas instalaciones o la modificación de las ya autorizadas, indicando el plazo para el inicio del servicio y adjuntando los demás antecedentes exigidos por las disposiciones legales y reglamentarias pertinentes.
 
 La Subsecretaría, dentro de los 30 días siguientes a la fecha de recepción de la solicitud de modificación de la concesión, deberá emitir un informe respecto de ésta, considerando el cumplimiento de los requisitos formales y técnicos de carácter legal y reglamentario.
 
@@ -147,6 +147,8 @@ El Concesionario de Infraestructura deberá incluir en su solicitud de recepció
 La Subsecretaría tendrá un plazo de 30 días, contados desde la fecha de presentación de la solicitud por el interesado para ejecutar la recepción de las obras e instalaciones.
 
 Si no se procede a la recepción de obras en el plazo indicado en el inciso anterior, los concesionarios podrán poner en servicio las obras e instalaciones, sin perjuicio que la Subsecretaría de Telecomunicaciones proceda a recibirlas con posterioridad.
+
+Para el caso de que la solicitud de recepción de obras recaiga sobre infraestructura consistente en ductos o bien en torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones, la autorización de la Subsecretaría se otorgará con el solo mérito de la recepción de obras practicada por la autoridad competente para recibirlas. Con todo, las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones que sólo requieran avisos de instalación conforme a los artículos 116 bis F, 116 bis G y 116 bis H del decreto con fuerza de ley Nº 458 de 1975, del Ministerio de Vivienda y Urbanismo, que aprueba nueva Ley General de Urbanismo y Construcciones, así como también toda otra infraestructura de telecomunicaciones distinta a la señalada en este inciso, se recibirán conforme a las reglas generales indicadas precedentemente.
 
 Lo dispuesto en los incisos anteriores no procederá respecto de aquellas modificaciones a la concesión que no requieran aprobación, según lo dispuesto en el inciso cuarto del artículo 5º del presente reglamento.
 
