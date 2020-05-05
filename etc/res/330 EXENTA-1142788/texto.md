@@ -54,6 +54,8 @@ El proceso de Revisión y Calificación de los Proyectos, contemplará una insta
 
 6. El llamado considera 2 selecciones, cuyos plazos de procesos y fases de postulación correspondientes a la 1ª selección son los siguientes:
 
+.
+
 Los plazos de la segunda selección son los detallados a continuación:
 
 Para cada selección se dispondrá del 50% del total de los recursos señalados en la tabla del resuelvo siguiente de la presente resolución exenta.
@@ -68,7 +70,7 @@ Si una vez concluido el proceso señalado quedaren recursos disponibles, mediant
 
 9. Los proyectos de Construcción de Edificaciones Comunitarias, podrán postular presentando anteproyecto aprobado por la DOM. La Entidad Patrocinante dispondrá de 60 días corridos, contados desde la fecha de la publicación en el Diario Oficial de la resolución de selección, para presentar al Serviu el Permiso de Edificación correspondiente e iniciar obras.
 
-10. La Organización postulante deberá presentar el Acta donde conste la aprobación del proyecto de acuerdo al quórum establecido en sus estatutos.
+10. Respecto de las exigencias de las actas de reuniones de difusión, información o de trabajo en general con las organizaciones comunitarias, señaladas en el Anexo Adjunto, no serán obligatorias en la forma establecida en la normativa de Asistencia Técnica, pudiendo ser reemplazadas por otras vías o mecanismos de participación no presencial, incluyendo entre estas, en el caso de la difusión, la preparación y entrega a los representantes legales del grupo de material escrito atingente al Capítulo, en el número y copias equivalentes al número de socios de la organización. Del mismo modo, cuando sea factible, podrá proporcionarse información de forma virtual a los representantes de la organización postulante. Tratándose de la aprobación del proyecto, deberán entregar un documento aprobatorio del mismo, mediante formato que será proporcionado al comité por el Serviu, cuyo número de firmas deberá respetar el quórum establecido en sus estatutos.
 
 11. La inscripción en el Conservador de Bienes Raíces de la prohibición de gravar y enajenar la propiedad, señalada en el artículo 67 del DS Nº 27 (V. y U.), de 2016, deberá constituirse durante la ejecución del proyecto, requiriéndose para el pago final del subsidio.
 
@@ -77,6 +79,10 @@ Si una vez concluido el proceso señalado quedaren recursos disponibles, mediant
 13. El segundo proceso de selección será nacional mediante resolución del Ministro de Vivienda y Urbanismo, en atención a los recursos disponibles, los que podrán redistribuirse y/o aumentarse por provincia y por región, y a los factores señalados en el artículo 72, del DS Nº 27 (V. y U.), de 2016, aquellos proyectos que postulen al presente llamado y resulten calificados por Serviu.
 
 14. Los subsidios que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para cada región en el Programa regulado por el DS Nº 27 (V. y U.), de 2016, correspondiente al año 2020.
+
+> **Nota.** El numeral 1.2 del número 2 de la de Resolución 705 Exenta, Vivienda, publicada el 05.05.2020 dispone reemplazar en el cuadro de la segunda selección del Resuelvo 6 de la presente norma, en la columna "Responsables" en la fila 3 el texto "Serviu / Minvu" por "Seremi / Minvu" y en la fila 7 el texto "Seremi" por "Minvu".
+
+> **Nota.** NOTA 1 El numeral 1.3 del número 2 de la de Resolución 705 Exenta, Vivienda, publicada el 05.05.2020, ordena reemplazar en el cuadro inserto en el Resuelvo Nº 7 de la presente norma, en el recuadro "Santiago 5" correspondiente a los recursos de las provincias de la Región Metropolitana de Santiago, a las comunas de Lo Barnechea, Vitacura y Las Condes.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Guillermo Rolando Vicente, Ministro de Vivienda y Urbanismo Subrogante.
 
