@@ -52,7 +52,7 @@ Deberá poseer las capacidades técnicas suficientes de acuerdo al objeto del in
 
 De resultar adjudicado, antes de la transferencia de los recursos, el/la Beneficiario/a Ejecutor/a deberá acreditar el cumplimiento de las normas laborales y tributarias aplicables a Corfo para la entrega de subsidios.
 
-El Comité podrá verificar esta información directamente con los organismos pertinentes, entendiendo que el/la Beneficiario/a Ejecutor/a consiente en ello por el solo hecho de la postulación al instrumento.
+Sercotec podrá verificar esta información directamente con los organismos pertinentes entendiendo que el beneficiario/a consiente en ello por el sólo hecho de la postulación al instrumento.
 
 BENEFICIARIOS/AS ATENDIDOS/AS
 
@@ -80,7 +80,7 @@ Las evaluaciones se realizarán de conformidad con los criterios que se indicar�
 
 No podrán ser recomendados para su aprobación aquellos que obtengan una evaluación total inferior a 7 o que en uno de sus criterios obtengan una calificación inferior a 5.
 
-Los criterios de evaluación serán los siguientes:
+Los criterios de evaluación y su ponderación serán los siguientes:
 
 ### 4. MODELO DE ADMINISTRACIÓN
 
@@ -104,7 +104,7 @@ Todo gasto deberá detallarse y guardar relación con el Plan de Trabajo y los r
 
 ### 6. COSTO DE ADMINISTRACIÓN
 
-El Comité de Desarrollo Productivo Regional pagará además a los Agentes Operadores Intermediarios, por la evaluación, supervisión, seguimiento y administración del proyecto, hasta un 15% del monto del cofinanciamiento.
+Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por la evaluación, supervisión y administración del proyecto, hasta un 15% del monto del cofinanciamiento otorgado.
 
 Si un proyecto termina anticipadamente o el Agente Operador Intermediario incumpliere sus obligaciones, el Director Ejecutivo del Comité de Desarrollo Productivo Regional deberá determinar fundadamente el monto o porcentaje de pago por este concepto.
 
@@ -140,7 +140,7 @@ El proyecto deberá contener, al menos, la siguiente información:
 
 El conocimiento y decisión sobre la asignación de recursos para la ejecución del proyecto corresponde al Consejo Directivo del Comité de Desarrollo Productivo Regional, actuando en pleno o subcomités, según corresponda, el que podrá aprobar estos proyectos y asignar el cofinanciamiento para su ejecución o rechazarlos.
 
-El Director Ejecutivo dictará el o los actos administrativos que ejecuten los Acuerdos adoptados y ordene la transferencia de los fondos a los AOI.
+El Director Ejecutivo dictará el o los actos administrativos que ejecuten los acuerdos adoptados.
 
 Ejecución del Proyecto.
 
