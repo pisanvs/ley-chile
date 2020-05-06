@@ -42,7 +42,7 @@ Personas naturales sin inicio de actividades en primera categoría ante el Servi
 
 De resultar adjudicado, antes de la transferencia de los recursos, los beneficiarios/as deberán acreditar el cumplimiento de las normas laborales y tributarias aplicables a Corfo para la entrega de subsidios.
 
-El Comité podrá verificar esta información directamente con los organismos pertinentes, entendiendo que el/la beneficiario/a consiente en ello por el solo hecho de la postulación al instrumento.
+Sercotec podrá verificar esta información directamente con los organismos pertinentes, entendiendo que el beneficiario/a consiente en ello por el solo hecho de la postulación al instrumento.
 
 ### 3. ETAPAS Y PLAZOS
 
@@ -72,7 +72,9 @@ Las evaluaciones se realizarán de conformidad con los criterios que se indicar�
 
 No podrán ser recomendados para su aprobación aquellos que obtengan una evaluación total inferior a 7 o que en uno de sus criterios obtengan una calificación inferior a 5.
 
-Los criterios de evaluación serán los siguientes:
+Los criterios de evaluación y su ponderación serán los siguientes:
+
+.
 
 ### 5. MODELO DE ADMINISTRACIÓN
 
@@ -98,7 +100,7 @@ Será requisito previo al inicio de la ejecución del Plan de Trabajo que el/la 
 
 ### 7. COSTO DE ADMINISTRACIÓN
 
-El Comité de Desarrollo Productivo Regional pagará a los Agentes Operadores Intermediarios, por la evaluación, supervisión y administración de la Etapa de Desarrollo, hasta $535.000.- (quinientos treinta y cinco mil pesos) por beneficiario/a.
+Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por la evaluación, supervisión y administración de la Etapa de Desarrollo hasta $535.000.- (quinientos treinta y cinco mil pesos) por beneficiario/a.
 
 Si un proyecto termina anticipadamente o el Agente Operador Intermediario incumpliere sus obligaciones, el Director Ejecutivo del Comité de Desarrollo Productivo Regional deberá determinar fundadamente el monto o porcentaje de pago por este concepto.
 
@@ -106,11 +108,11 @@ Si un proyecto termina anticipadamente o el Agente Operador Intermediario incump
 
 Este instrumento, para la selección de sus beneficiarios, operará mediante el mecanismo de Concurso, que permite postular durante un plazo fijo, situación que será comunicada mediante un aviso a través de la página web del Comité, el que deberá contener la fecha y hora de cierre de las postulaciones, un correo electrónico al cual dirigir las consultas y el sistema o medio disponible para realizar las postulaciones.
 
-El Programa será postulado por el Agente Operador Intermediario y comprende los siguientes procesos:
+Los AOI deberán presentar el Programa a Sercotec, y comprende los siguientes procesos:
 
 8.1 Fase de Presentación y aprobación del Programa.
 
-El Programa será presentado al Consejo Directivo del Comité de Desarrollo Productivo Regional para su conocimiento y decisión.
+El Programa que el AOI presente a Sercotec, deberá contener, al menos, la siguiente información.
 
 El Programa deberá contener, al menos, la siguiente información:
 
@@ -128,9 +130,9 @@ El Programa deberá contener, al menos, la siguiente información:
 
 - Plazo de ejecución.
 
-El conocimiento y decisión sobre la asignación de recursos para la ejecución del Programa corresponde al Consejo Directivo del Comité de Desarrollo Productivo Regional, actuando en pleno o subcomité, según corresponda, el que podrá aprobarlos y asignar el cofinanciamiento para su ejecución o rechazarlos.
+Sercotec, tras evaluar el Programa presentado por el AOI, presentará el mismo al Consejo Directivo del Comité de Desarrollo Productivo Regional, con su recomendación de aprobación o rechazo, Consejo que actuando en Pleno o en subcomité, según corresponda, podrá aprobarlos y asignar el cofinanciamiento para su ejecución o rechazarlos.
 
-El Director Ejecutivo dictará el o los actos administrativos que ejecuten los Acuerdos adoptados y ordene la transferencia de los fondos a los AOI.
+El Director Ejecutivo dictará el o los actos administrativos que ejecuten los acuerdos adoptado.
 
 8.2 Etapa de Selección de Beneficiarios y Empresas Consultoras.
 
