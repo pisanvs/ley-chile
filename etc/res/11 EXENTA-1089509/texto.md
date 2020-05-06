@@ -46,7 +46,7 @@ No podrán ser beneficiarios/as de este instrumento las cooperativas de ahorro y
 
 De resultar adjudicado, antes de la transferencia de los recursos, el/la Beneficiario/a deberá acreditar el cumplimiento de las normas laborales y tributarias aplicables a Corfo para la entrega de subsidios.
 
-El Comité podrá verificar esta información directamente con los organismos pertinentes, entendiendo que el/la Beneficiario/a consiente en ello por el solo hecho de la postulación al instrumento.
+Sercotec podrá verificar esta información directamente con los organismos pertinentes, entendiendo que el beneficiario/a consiente en ello por el sólo hecho de la postulación al instrumento.
 
 ### 3. ETAPAS Y PLAZOS
 
@@ -100,7 +100,7 @@ No se podrán financiar impuestos recuperables ni gastos de operación, salvo qu
 
 ### 6. COSTO DE ADMINISTRACIÓN
 
-El Comité de Desarrollo Productivo Regional pagará al AOI hasta $4.000.000.- (cuatro millones de pesos) durante la Etapa de Desarrollo, por año y por proyecto, por concepto de evaluación, supervisión, seguimiento y administración.
+Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por la evaluación, supervisión y administración de la Etapa de Desarrollo, hasta la suma de $4.000.000.- (cuatro millones de pesos) por año y por proyecto..
 
 Si un proyecto termina anticipadamente o el Agente Operador Intermediario incumpliere sus obligaciones, el Director Ejecutivo del Comité de Desarrollo Productivo Regional deberá determinar fundadamente el monto o porcentaje de pago por este concepto.
 
@@ -113,6 +113,16 @@ Las evaluaciones para las Etapas de Análisis de Factibilidad y de Desarrollo se
 No podrán ser recomendados para su aprobación o renovación aquellos que obtengan una evaluación total inferior a 7 o que en uno de sus criterios obtengan una calificación inferior a 5.
 
 Los criterios de evaluación para la Etapa de Análisis de Factibilidad serán los siguientes:
+
+.
+
+Los criterios de evaluación para la Etapa de Desarrollo serán los siguientes:
+
+.
+
+Los criterios de evaluación para la primera y segunda renovación de la Etapa de Desarrollo serán los siguientes:
+
+.
 
 ### 8. POSTULACIÓN, ASIGNACIÓN Y TRANSFERENCIAS DE FONDOS
 
@@ -130,13 +140,13 @@ Para los años posteriores la decisión sobre el mecanismo de postulación será
 
 Las postulaciones se harán a través de un Agente Operador Intermediario, quien determinará si los/las postulantes son elegibles.
 
-El AOI informará por escrito al Director Ejecutivo sobre la elegibilidad de los/las postulantes y de su evaluación del proyecto.
+El AOI informará por escrito a Sercotec sobre la elegibilidad de los/las postulantes y de su evaluación del proyecto.
 
-El Director Ejecutivo emitirá su recomendación técnica, para que el proyecto sea presentado al Consejo Directivo del Comité de Desarrollo Productivo Regional para su conocimiento y decisión.
+Sercotec revisará que las/los postulantes cumplan con los requisitos de elegibilidad y emitirá su recomendación técnica para que el proyecto sea presentado al Consejo Directivo del Comité para su conocimiento y decisión.
 
-El conocimiento y decisión sobre la asignación de recursos para la ejecución del proyecto corresponde al Consejo Directivo del Comité de Desarrollo Productivo Regional, actuando en pleno o subcomité, según corresponda, el que podrá aprobar estos proyectos y asignar el cofinanciamiento para su ejecución o rechazarlos.
+El conocimiento y decisión sobre la asignación de recursos para la ejecución del proyecto corresponde al Consejo Directivo del Comité de Desarrollo Productivo Regional, actuando en pleno o en subcomité, según corresponda, el que podrá aprobar estos proyectos y asignar el cofinanciamiento para su ejecución o rechazarlos.
 
-El Director Ejecutivo dictará el o los actos administrativos que ejecuten los acuerdos adoptados y ordenen la transferencia de los fondos a los Agentes Operadores Intermediarios.
+El Director Ejecutivo dictará el o los actos administrativos que ejecuten los acuerdos adoptados
 
 No se podrá modificar el objetivo general de un proyecto.
 
