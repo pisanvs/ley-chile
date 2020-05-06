@@ -1526,7 +1526,7 @@ g. Plazo para la apertura y evaluación de las ofertas;
 
 h. El plazo máximo del Coordinador para resolver la licitación y adjudicar la obra.
 
-6. Los procesos de licitación y adjudicación de las obras de ampliación del presente decreto deberán estar finalizados dentro del plazo máximo de ocho meses, contados desde la realización del respectivo llamado a licitación que se refiere el numeral 1 del presente artículo.
+6. Los procesos de licitación y adjudicación de las obras de ampliación del presente decreto deberán estar finalizados dentro del plazo máximo de ocho meses, contados desde la realización del respectivo llamado a licitación que se refiere el numeral 1 del presente artículo. Lo anterior no será aplicable a las siguientes obras de ampliación contenidas en los numerales 2.5.22, Ampliación en S/E El Manzano, y 2.5.26, Seccionamiento Línea 1x66 kV Hualañé - Parronal en S/E Mataquito, del artículo primero del presente decreto.
 
 7. Las bases de licitación podrán diferenciar los requisitos técnicos, financieros, plazos del proceso, u otras materias de las establecidas en el numeral 3 del presente artículo, según la naturaleza, complejidad o magnitud de las obras a licitar.
 
