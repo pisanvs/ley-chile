@@ -126,7 +126,7 @@ El aporte del Beneficiario será pecuniario.
 
 ### 6. COSTO DE ADMINISTRACIÓN Y SEGUIMIENTO
 
-El Comité de Desarrollo Productivo Regional pagará a los Agentes Operadores Intermediarios, por la evaluación, supervisión y administración hasta el 15% (quince por ciento) del cofinanciamiento aprobado para el proyecto, con un tope no inferior a $500.000.- (quinientos mil pesos) y no superior de $2.000.000.- (dos millones de pesos) por proyecto.
+Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por la evaluación, supervisión y administración hasta el 15% (quince por ciento) del cofinanciamiento aprobado para el proyecto, con un tope no inferior a $500.000.- (quinientos mil pesos) y no superior a $2.000.000.- (dos millones de pesos) por proyecto.
 
 Si un proyecto termina anticipadamente o el Agente Operador Intermediario incumpliere sus obligaciones, el Director Ejecutivo del Comité de Desarrollo Productivo Regional deberá determinar fundadamente el monto o porcentaje de pago por este concepto.
 
@@ -138,7 +138,9 @@ La evaluación se realizará, de conformidad con los criterios que se indicarán
 
 No podrá ser recomendado para su aprobación aquel que obtenga una evaluación total inferior a 7 o que en uno de sus criterios obtengan una calificación inferior a 5.
 
-Los criterios de evaluación para el o los proyectos serán los siguientes:
+Los criterios de evaluación para la selección de los beneficiarios y su ponderación serán los siguientes:
+
+.
 
 Evaluación Agente Operador Intermediario y Consultor.
 
@@ -148,7 +150,7 @@ Los antecedentes mínimos que se le requerirán a un Agente son los siguientes:
 
 - Equipo profesional que el Agente dispondrá para la administración del proyecto, actividades que compromete y monto de recursos que solicita para administración y seguimiento del proyecto.
 
-Los criterios de evaluación para la selección del Agente y el o la consultora y su ponderación son los siguientes:
+Los criterios de evaluación y su ponderación para la selección del Agente Operador Intermediario y la Consultora, son los siguientes:
 
 .
 
@@ -176,7 +178,7 @@ La evaluación del Proyecto se realizará por el Comité de Desarrollo Productiv
 
 El conocimiento y decisión sobre la selección del proyecto le corresponde al Consejo Directivo del Comité de Desarrollo Productivo Regional, actuando en pleno o subcomité, según corresponda. Podrá aprobar por mayoría simple el Proyecto y asignar su cofinanciamiento, aprobarlo con condiciones de adjudicación, enviarlo a reformulación o rechazarlo. A su vez, junto con pronunciarse sobre el proyecto, también le corresponderá al Consejo Directivo la decisión sobre la selección del Agente Operador Intermediario y del Consultor, así como la asignación de los recursos, actuando en pleno o subcomité, según corresponda.
 
-El Director Ejecutivo dictará la resolución que ejecuta el acuerdo del órgano colegiado y dispone la transferencia de los recursos al Agente Operador Intermediario, lo que marca el cierre del proceso de postulación y el inicio de su ejecución, en la modalidad correspondiente.
+El Director Ejecutivo dictará el o los actos administrativos que ejecuten los acuerdos adoptados.
 
 Desarrollo del Proyecto.
 
@@ -184,7 +186,7 @@ La Etapa 1: Mejoramiento de la gestión y elaboración de un Plan de Desarrollo 
 
 Esta etapa finaliza con aprobación por el Agente Operador Intermediario del informe final que debe realizar el/la Consultor/a y, si corresponde, de la propuesta de implementación para la Etapa 2: Mejorar la imagen comercial de la Feria.
 
-La Etapa 2: Mejorar la imagen comercial de la Feria comienza con la aprobación por el Agente Operador Intermediario del informe final señalado en el párrafo precedente, que debe realizar el/la Consultor/a.
+En el marco del Plan de Acción Anual del Comité, aprobado por su Consejo Directivo, Sercotec revisará que las Ferias postulantes cumplan con los requisitos de elegibilidad y remitirá su recomendación técnica al Consejo Directivo del Comité de Desarrollo Productivo Regional para su conocimiento y decisión.
 
 Las actividades a desarrollar en esta etapa serán asistidas por el Agente Operador Intermediario.
 
