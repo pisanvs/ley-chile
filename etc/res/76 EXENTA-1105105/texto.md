@@ -140,7 +140,7 @@ Modalidad 3 de Creación y Desarrollo: tope máximo de hasta $10.000.000.- (diez
 
 ### 6. COSTOS DE ADMINISTRACIÓN
 
-Por la evaluación, supervisión, y administración de cada Proyecto, además se pagará un monto máximo del 15% del costo total del cofinanciamiento otorgado por el Comité de Desarrollo Productivo Regional.
+Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por la evaluación, supervisión y administración de cada proyecto, un monto máximo de 15% del costo total de cofinanciamiento otorgado por éste.
 
 Si un proyecto termina anticipadamente o el Agente Operador Intermediario incumpliere sus obligaciones, el Director Ejecutivo del Comité de Desarrollo Productivo Regional deberá determinar fundadamente el monto o porcentaje de pago por este concepto.
 
@@ -149,6 +149,8 @@ Si un proyecto termina anticipadamente o el Agente Operador Intermediario incump
 Las evaluaciones se realizarán de conformidad con los criterios que se indicarán más adelante, asignándosele una nota de 1 a 10, donde 1 es la más baja y 10 la más alta. La evaluación se realizará en base a números enteros.
 
 No podrán ser recomendados para su aprobación aquellos que obtengan una evaluación total inferior a 7 o que en uno de sus criterios obtengan una calificación inferior a 5.
+
+Los criterios de evaluación y su ponderación para los Proyectos serán los siguientes:
 
 .
 
@@ -160,11 +162,13 @@ Los interesados postularán a través de un Agente Operador Intermediario de su 
 
 El Agente Operador Intermediario analizará los requisitos de elegibilidad, determinando si los postulantes cumplen con lo establecido en el numeral 3 de este Reglamento, emitiendo además una recomendación con respecto al cumplimiento de los criterios de evaluación.
 
+Sercotec revisará la labor de análisis realizada por el Agente, evaluará los proyectos, y remitirá su recomendación técnica al Consejo Directivo del Comité para su conocimiento y decisión.
+
 La evaluación del Proyecto se realizará por el Comité de Desarrollo Productivo Regional, para cuyos efectos podrá contar con la colaboración de entidades externas.
 
 El Consejo Directivo del Comité de Desarrollo Productivo Regional, actuando en pleno o subcomité, según corresponda, podrá aprobar por mayoría simple el Proyecto y asignar su cofinanciamiento, aprobarlo con condiciones de adjudicación, enviarlo a reformulación o rechazarlo.
 
-El Director Ejecutivo dictará la resolución que ejecuta el acuerdo y dispone la transferencia de los recursos al Agente Operador Intermediario, lo que marca el cierre del proceso de postulación y el inicio de su ejecución, en la modalidad correspondiente.
+El Director Ejecutivo dictará el o los actos administrativos que ejecuten los acuerdos adoptados, lo que marca el cierre del proceso de postulación, y el inicio de su ejecución, en la modalidad correspondiente
 
 Una vez aprobado el Proyecto, el/los beneficiario/s deberán firmar un contrato con una de la/s empresa/s consultora/s individualizadas en la postulación.
 
