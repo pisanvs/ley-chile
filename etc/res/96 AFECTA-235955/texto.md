@@ -556,7 +556,7 @@ turístico temporal.
 
 Zona R4: Restricción por faja vial.
 
-Zona R5: Restricción por línea férrea.
+Zona R5: ELIMINADO.
 
 Zona R6: Restricción por Vertedero.
 
@@ -2118,29 +2118,7 @@ de edificación.
 
 ZONA R5: Restricción por Infraestructura Ferroviaria (asociada a línea férrea).
 
-Estas zonas están conformadas por los terrenos urbanos ubicados en los bordes de la línea férrea. Su objetivo es proteger las áreas urbanas respecto de los impactos que la línea férrea genera y a su vez constituir áreas de reserva para posibles ampliaciones de la línea férrea (cambios de andén, áreas de detención, etc.).
-
-Usos de suelo permitidos: Areas verdes a nivel
-
-Vecinal y Comunal, paseos
-
-peatonales, ciclovías y
-
-similares.
-
-Usos de suelo prohibidos: Todos los usos no
-
-mencionados como
-
-permitidos.
-
-Normas de Edificación No se permite
-
-subdivisión.
-
-No se permite ningún tipo
-
-de edificación.
+ELIMINADO.
 
 ZONA R6: Restricción por Vertedero.
 
@@ -2609,3 +2587,5 @@ h.- Entorno: Conjunto de elementos o rasgos de carácter físico, o cultural y p
 i.- Impacto Ambiental: Se utilizará la definición establecida en la Ley Nº 19.300 sobre Bases del Medio Ambiente, como también aquellos conceptos definidos allí y los indicados en los reglamentos de dicha ley relacionados con los estudios y evaluaciones de impactos ambientales.
 
 Jorge Vargas González, Alcalde I. Municipalidad de Pichilemu.- Jaime García Ramírez, Secretario Municipal I. Municipalidad de Pichilemu.- Jeovans Valdivia Rojas, Director de Obras I. Municipalidad de Pichilemu.
+
+> **Nota.** El N° 1 del Decreto N° 1336 Exento, M. de Pichilemu, publicado el 07.05.2020, aprueba una serie de modificaciones a la presente norma, específicamente en el Sector Ex Estación de Ferrocarriles, según se indica en Plano PRC-EFP-1, Memoria Explicativa y Ordenanza adjunta en el referido decreto, pero que no es posible incorporarlas en el presente texto actualizado, según lo ordenan los N° 1, 2, 3, 4 y 5 de la Ordenanza adjunta en el citado decreto modificatorio, en razón de no tener coincidencia los textos.
