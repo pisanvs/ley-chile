@@ -74,6 +74,8 @@ Además, podrán ordenar a un laboratorio de producción autorizado, la elaborac
 
 Podrán instalarse farmacias móviles itinerantes, en las localidades y con la periodicidad y horarios que determine la autoridad sanitaria en el acto de su autorización sanitaria, destinadas al expendio al público de productos farmacéuticos, que se regirán por las disposiciones especiales que se contemplan en esta reglamentación y en subsidio por aquellas que son aplicables a las demás farmacias. Estas farmacias no podrán adquirir ni expender productos psicotrópicos o estupefacientes, elaborar productos farmacéuticos de carácter oficinal o magistral, fraccionar envases clínicos de productos farmacéuticos ni realizar las actividades a las que se refiere el siguiente artículo 9º.
 
+Las farmacias podrán expender medicamentos a través de medios electrónicos. Para estos efectos, deberán cumplir con las disposiciones del Título VI bis y demás que les sean aplicables de este reglamento.
+
 #### Artículo 9°
 
 Las farmacias podrán realizar bajo la responsabilidad de su Director Técnico, los análisis clínicos, químicos o bioquímicos u otros procedimientos que se determinen mediante resolución de la Subsecretaría de Salud.
@@ -212,6 +214,8 @@ El texto y formato de las infografías obligatorias serán aprobados por resoluc
 
 . "Para información de medicamentos y su uso racional visite www.ispch.cl y www.minsal.cl.
 
+En el caso de aquellas farmacias que realicen expendio de medicamentos a través de medios electrónicos, se regirán por lo dispuesto en el Título VI bis del presente reglamento.
+
 #### Artículo 18°
 
 Las farmacias deberán poseer los siguientes Registros Oficiales:
@@ -254,6 +258,8 @@ Las recetas despachadas de productos de venta restringida deberán foliarse corr
 
 El Registro de reclamos estará destinado a que el público deje constancia de sus observaciones, y se hallará permanentemente a su disposición.
 
+En el caso de aquellas farmacias que realicen expendio de medicamentos a través de medios electrónicos, el Registro deberá estar a disposición del público a través de la página web de la farmacia. En dicho registro electrónico, se podrá dejar constancia de las observaciones de los usuarios, así como consultar los reclamos que en él consten.
+
 ### Párrafo III
 
 Del Personal, sus Obligaciones y Responsabilidades
@@ -286,7 +292,7 @@ f) Extender copia de las recetas de medicamentos cuya condición de venta sea "R
 
 g) Velar porque el sistema de almacenamiento de los productos farmacéuticos asegure su conservación, estabilidad y calidad;
 
-h) DEROGADA;
+h) Velar que el despacho a domicilio asegure la conservación, estabilidad y calidad de los productos farmacéuticos;
 
 i) Adiestrar al personal auxiliar y supervisar el correcto desempeño de las funciones que en éste se deleguen;
 
@@ -596,6 +602,8 @@ Para estos efectos, se deberá contar con procedimientos documentados sobre al m
 
 E.- En la dispensación que realice el Director Técnico del establecimiento, o quien éste supervise, de medicamentos que hayan sido fraccionados deberá entregar, de forma verbal, la información al paciente o adquirente acerca del producto que adquiere, incluyendo las correspondientes instrucciones de administración, según la prescripción que se trate. Además, deberá entregar junto con los productos dispensados, los respectivos folletos de información al paciente, autorizados en el registro sanitario.
 
+Tratándose de expendio de medicamentos fraccionados, a través de medios electrónicos, el director técnico o a quien éste supervise, deberá enviar, junto con los productos, los respectivos folletos de información.
+
 #### Artículo 40
 
 F.- El Ministerio de Salud evaluará la implementación y cumplimiento de los artículos 40 a 40 E.
@@ -833,6 +841,8 @@ b) Medicamentos de venta bajo receta médica que se señalan en el Título X del
 c) Elementos médico-quirúrgicos, de primeros auxilios y de curación.
 
 Los almacenes farmacéuticos podrán instalarse de manera independiente, con acceso a vías de uso público, o como un espacio circunscrito dentro de otro establecimiento.
+
+Los almacenes farmacéuticos podrán expender medicamentos a través de medios electrónicos. Para estos efectos, deberán cumplir con las disposiciones del Título VI bis y demás que les sean aplicables de este reglamento y conciliables con, considerando la naturaleza de los medios por los cuales realizan el expendio.
 
 La dirección técnica de estos establecimientos estará a cargo de un práctico de farmacia, quien deberá desempeñarla durante todo su horario de funcionamiento, siendo su ejercicio incompatible en el mismo horario, con la de otro establecimiento farmacéutico.
 
@@ -1099,6 +1109,122 @@ Les quedará prohibido a los Depósitos de Productos Farmacéuticos la confecci�
 #### Artículo 87°
 
 Los Directores Técnicos y los propietarios de los establecimientos mencionados en este Título serán responsables del cumplimiento de las disposiciones contenidas en el decreto supremo 435, de 1981, del Ministerio de Salud, en lo que les fuere pertinente.
+
+## Título VI — BIS
+
+Del expendio de medicamentos por medios electrónicos
+
+#### Artículo 87°
+
+A.- Del expendio de medicamentos por medios electrónicos. El expendio de medicamentos al público podrá hacerse por medios electrónicos, por las farmacias y los almacenes farmacéuticos.
+
+Para ello se requerirá autorización de comercialización ante el Instituto de Salud Pública, la que se otorgará si existe el cumplimiento de las leyes y reglamentos aplicables.
+
+La autorización referida en el inciso anterior será indefinida a menos que la autoridad sanitaria resuelva lo contrario fundadamente o el autorizado comunique al Instituto de Salud Pública su intención de dejar sin efecto la autorización.
+
+#### Artículo 87º
+
+B.- Requisitos para la autorización. Para obtener la autorización de comercialización de medicamentos mediante medios electrónicos, se deberá cumplir con las siguientes condiciones:
+
+1. Con la autorización de instalación o funcionamiento. según el establecimiento de que se trate.
+
+2. Contar con un sitio electrónico, a cualquier título, que sirva de soporte para la comercialización de medicamentos. El sitio electrónico que se trate deberá cumplir, en todo momento, con la presente normativa.
+
+3. Contar con un servicio de entrega, sea directamente o el servicio otorgado por un tercero, el cual cumpla con las condiciones de mantenimiento indicado en la monografía de los productos farmacéuticos.
+
+#### Artículo 87º
+
+C.- De las importaciones. Las importaciones de productos farmacéuticos que se realicen para el expendio por medios electrónicos deberán cumplir con las disposiciones relativas a la materia contenidas en el decreto supremo Nº 3, de 2010, del Ministerio de Salud, reglamento del sistema nacional de control de los productos farmacéuticos de uso humano o el que lo reemplace.
+
+#### Artículo 87º
+
+D.- Petitorio Farmacéutico. Quienes expendan medicamentos mediante medios electrónicos estarán obligados a tener disponibilidad permanente de los productos señalados en el Petitorio Farmacéutico del que trata el artículo 101 del Código Sanitario.
+
+#### Artículo 87º
+
+E.- Del expendio según condición de venta. Los establecimientos autorizados para el expendio electrónico de medicamentos podrán dispensar medicamentos de Venta Directa sin exigir la receta médica.
+
+En el caso de aquellos medicamentos cuya condición de venta es receta simple, el expendio se hará previa comunicación de la receta al establecimiento. Para cumplir con este requisito podrá ponerse a disposición del establecimiento una receta médica electrónica o una copia digitalizada de una receta emitida por medios físicos. En el caso de la receta médica electrónica, el expendedor deberá verificar que se cumplan con los requisitos del artículo 101 del Código Sanitario. Respecto a la copia digitalizada de una receta emitida por medios físicos, además de los requisitos del artículo señalado, quien expende el medicamento deberá verificar la correspondencia entre el soporte físico y la digitalización de este.
+
+En los casos de los medicamentos que requieren receta retenida, el expendio podrá efectuarse a través de receta médica electrónica, o bien, a través de una copia digitalizada de una receta física. En el caso que se trate de una copia digitalizada, la receta física deberá entregarse al momento de la recepción del producto farmacéutico por parte del consumidor.
+
+Los medicamentos cuya condición de venta es "receta-cheque" no están comprendidos entre aquellos que pueden expenderse por medios electrónicos.
+
+#### Artículo 87º
+
+F.- Dispensación de medicamentos que deben demostrar bioequivalencia. Si el medicamento es de aquellos que deben demostrar bioequivalencia, el sitio web ofrecerá la alternativa de comprar cualquiera de aquellos que son bioequivalentes del mismo. Este ofrecimiento deberá ocurrir antes de que finalice la compra del producto.
+
+#### Artículo 87º
+
+G.- Información necesaria para el expendio. Quien solicite medicamentos por vía electrónica deberá informar su nombre, apellido, teléfono de contacto, correo electrónico y dirección.
+
+#### Artículo 87º
+
+H.- Despacho. El paquete de despacho deberá proteger adecuadamente el producto, estar sellado y etiquetado con, al menos, la siguiente información:
+
+a. Datos del requirente y dirección.
+
+b. Datos de contacto del establecimiento que despachó el pedido.
+
+c. Indicación de condiciones especiales de transporte.
+
+El transporte deberá realizarse de manera que se asegure que los productos no sufran ninguna alteración ni merma de su calidad.
+
+El transporte podrá realizarse por terceros. Sin perjuicio de lo anterior, la responsabilidad sanitaria por los productos despachados será siempre del establecimiento autorizado para el expendio de medicamentos. Esto, sin perjuicio de las acciones del derecho común para obtener la indemnización de los perjuicios causados.
+
+#### Artículo 87º
+
+I.- Devolución. Los establecimientos deberán informar las condiciones para la devolución de los productos, de acuerdo a lo establecido en las disposiciones de la ley 19.496.
+
+Sin perjuicio de lo anterior, no podrán realizarse devoluciones de medicamentos cuya condición de almacenamiento sea bajo refrigeración, salvo que el producto no corresponda al requerido o esté dañado al momento de su recepción. En estos casos, los productos devueltos deberán ser destruidos.
+
+#### Artículo 87º
+
+J.- Información de precios. La información de los precios de los productos farmacéuticos que se encuentren disponibles para su expendio, deberá ser suministrada de forma clara, oportuna, transparente y veraz. Se prohíbe cualquier expresión o forma de presentación de la información que induzca a error o engaño al consumidor, que favorezca el uso de un producto por sobre otro o impida la comparación entre dos o más alternativas.
+
+#### Artículo 87º
+
+K.- Información del producto farmacéutico. El sitio electrónico deberá contener, al menos, la siguiente información para cada uno de los productos exhibidos:
+
+1. Fotografía del envase secundario del producto farmacéutico.
+
+2. Nombre del producto farmacéutico.
+
+3. Nombre del principio activo bajo su denominación común internacional.
+
+4. Forma farmacéutica.
+
+5. Dosis por forma farmacéutica.
+
+6. Precio por producto fraccionado.
+
+7. Precio.
+
+#### Artículo 87º
+
+L.- Información farmacéutica. El sitio electrónico en el cual se comercialicen los medicamentos deberá contener infografías que promuevan el uso racional de medicamentos, advertencias sobre el adecuado uso y dosificación de los medicamentos con condición de venta directa, reacciones adversas a medicamentos e información relacionada con números telefónicos de líneas existentes que provean información toxicológica de forma gratuita, como el centro de asistencia remota del Ministerio de Salud.
+
+Las infografías serán aprobadas por el Ministerio de Salud y puestas a disposición en un sitio electrónico oficial del Estado dispuesto para ello.
+
+#### Artículo 87º
+
+M.- Información reglamentaria. El sitio electrónico deberá contar con un enlace de acceso directo al siguiente material:
+
+1. Reglamento de Farmacias, Droguerías, Almacenes Farmacéuticos, Botiquines y Depósitos Autorizados, aprobado mediante decreto supremo Nº 466, de 1984, del Ministerio de Salud, o el que lo reemplace.
+
+2. Reglamento del Sistema Nacional de Control de Productos Farmacéuticos de Uso Humano, aprobado mediante decreto supremo Nº 3, de 2010, del Ministerio de Salud, o el que lo reemplace.
+
+#### Artículo 87º
+
+N.- De la protección de datos. La receta y su contenido, los análisis y exámenes de laboratorios clínicos y los servicios prestados relacionados con la salud serán reservados y considerados datos sensibles sujetándose a lo establecido en la ley 19.628 o la que la reemplace.
+
+Los establecimientos que efectúen expendio de medicamentos a través de medios electrónicos deberán resguardar la seguridad y confidencialidad de los datos personales a los que tengan acceso. En consecuencia, deberán ceñirse en todo momento a las disposiciones de las leyes 19.628, 20.584 y demás leyes y reglamentos que sean aplicables en la materia.
+
+#### Artículo 87º
+
+Ñ.- De la publicidad y presentación de los productos. Los sitios electrónicos de los establecimientos que expendan medicamentos en conformidad a este Título no podrán realizar publicidad de medicamentos en otros términos a lo dispuesto por el artículo 100 del Código Sanitario. Asimismo, no podrán presentar la información sobre los productos que venden de manera que induzcan a error o engaño, o que favorezca la venta de un producto sobre otro.
+
+Lo anterior no obsta a la indicación de beneficios otorgados al consumidor final a través de convenios, acuerdos u otros similares que signifiquen rebajas o descuentos en los precios. Estos descuentos o rebajas deberán estar establecidos en forma genérica y en ningún caso podrán constituir incentivo para privilegiar el uso de uno o más productos determinados.
 
 ## Título VII
 

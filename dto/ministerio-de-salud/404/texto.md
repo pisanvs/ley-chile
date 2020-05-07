@@ -320,13 +320,15 @@ En caso de anularse una o más recetas, el profesional deberá hacer entrega de 
 
 #### Artículo 26°
 
-La receta cheque y la receta retenida deberán ser extendidas íntegramente de puño y letra por el médico cirujano y en ellas se anotarán en forma clara y completa los antecedentes indicados en el respectivo formulario, sin dejar espacios en blanco ni enmendaduras. En caso de ser el paciente menor de edad y no tener cédula de identidad, el médico dejará el espacio correspondiente al número de la cédula en blanco y consignará junto al nombre del menor y entre paréntesis, la edad del mismo, en años cumplidos.
+La receta cheque y la receta retenida deberán ser extendidas íntegramente por el médico cirujano y en ellas se anotarán en forma clara y completa los antecedentes indicados en el respectivo formulario, sin dejar espacios en blanco ni enmendaduras. En caso de ser el paciente menor de edad y no tener cédula de identidad, el médico dejará el espacio correspondiente al número de la cédula en blanco y consignará junto al nombre del menor y entre paréntesis, la edad del mismo, en años cumplidos.
 
 Asimismo, la receta cheque deberá extenderse en original y duplicado y el profesional que lo haga registrará en el talón correspondiente los datos que en él se indican.
 
 En cada receta podrá prescribirse un sólo producto estupefaciente en la dosis necesaria para un paciente, indicándose las cantidades en letras y números, su dosis diaria y la clave correspondiente al producto, según el código que haya fijado el Ministerio de Salud por resolución.
 
 La receta cheque y la receta retenida tendrán una validez de treinta días contados desde la fecha en que ellas sean extendidas.
+
+En el caso de la venta a través de medios electrónicos con receta retenida, se estará a lo dispuesto en el Título VI bis del decreto Nº 466, de 1984, del Ministerio de Salud, que aprueba Reglamento de farmacias, droguerías, almacenes farmacéuticos, botiquines y depósitos autorizados.
 
 #### Artículo 27°
 
