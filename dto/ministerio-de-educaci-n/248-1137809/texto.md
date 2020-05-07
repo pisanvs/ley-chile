@@ -30,7 +30,7 @@ Que, habiéndose dado pleno cumplimiento a las exigencias legalmente establecida
 
 Decreto:
 
-1° Nómbrase, a contar de la fecha del presente decreto, a don Christian Elías Quezada Ruiz, cédula de identidad N° 11.859.870-9, en el cargo de Rector del Centro de Formación Técnica Estatal de la Región de Magallanes y de la Antártica Chilena, en calidad de funcionario público sujeto a contrato de trabajo, por un periodo de cuatro (4) años.
+1° Nómbrase, a contar de la fecha del presente decreto, a don Christian Elías Quezada Ruiz, cédula de identidad N° 12.930.299-2, en el cargo de Rector del Centro de Formación Técnica Estatal de la Región de Magallanes y de la Antártica Chilena, en calidad de funcionario público sujeto a contrato de trabajo, por un periodo de cuatro (4) años.
 
 2° El Rector individualizado precedentemente, por razones impostergables de buen servicio, asumirá sus funciones a contar de la fecha de su nombramiento, sin esperar la total tramitación del presente decreto.
 
