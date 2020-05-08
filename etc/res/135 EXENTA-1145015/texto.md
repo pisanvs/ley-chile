@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE GIRADORA LOCAL Nº 10085076, DEL BANCO SCOTIABANK CHILE, SUCURSAL PROVIDENCIA, ABIERTA PARA EL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL PROVIDENCIA INSTITUTO DE PREVISIÓN SOCIAL, EN LOS FUNCIONARIOS QUE INDICA
+
+Por resolución exenta Nº 135, de 8 de abril de 2020, el Director Nacional del Instituto de Previsión Social delegó la facultad de girar cheques, retirar talonarios, cartolas, cheques protestados y documentos desde la casilla, dar órdenes de no pago y efectuar la ratificación y publicación de los documentos en caso de pérdida, hurto o robo de un cheque o talonarios de cheques, para efectos de operar la cuenta corriente denominada Giradora Local Nº 10085076, del Banco Scotiabank Chile, abierta en la Oficina Principal del referido Banco, destinada al pago de beneficios previsionales y gastos del Centro de Atención Previsional Integral IPS Providencia.-
+
+Patricio Coronado Rojo.
