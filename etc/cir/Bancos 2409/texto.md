@@ -5654,6 +5654,8 @@ De acuerdo con lo indicado en el artículo 65 de la Ley General de Bancos, las o
 
 Por consiguiente, los bancos que deban constituir reserva técnica por los pasivos que mantengan al cierre del respectivo día, deducirán del importe neto de canje de las obligaciones a la vista de que trata el N° 3 de este Capítulo, el monto neto que de las mismas obligaciones se computa para constituir dicha reserva técnica según lo indicado en el Capítulo 4-2 de esta Recopilación, excepto el importe de las cuentas de ahorro a plazo con giro incondicional, el que será deducido de las obligaciones a plazo a que se refiere el N° 4 precedente. Esta última deducción quedará sujeta a la condición de que el monto de la reserva técnica constituida sea superior al importe de las cuentas de ahorro a plazo que se deduce. En caso contrario, se deducirá sólo la parte por la que se haya constituido reserva técnica.
 
+Asimismo, de acuerdo con lo dispuesto por el Banco Central de Chile en el párrafo final del N° 6 de la letra A.1 del Título I del citado Capítulo 3.1, se podrá rebajar de las obligaciones a plazo el remanente que se origine cuando el monto de las obligaciones afectas a reserva técnica a ser deducido sea superior a las obligaciones a la vista en moneda nacional afectas a encaje.
+
 ### 6. Excedentes de encaje
 
 Los excedentes de encaje en moneda nacional no pueden utilizarse para cubrir déficit de encaje en dólares de los Estados Unidos de América. A su vez, los excedentes de encaje en dólares de los Estados Unidos de América, no se pueden emplear para cubrir déficit de encaje en moneda chilena.
@@ -5738,7 +5740,11 @@ Por consiguiente, en un período de encaje regirán dos tipos de paridades fijas
 
 ### 9. Disposición transitoria
 
-No obstante lo dispuesto en numeral 8.2 de este Capítulo, desde el período de encaje que se inicia el 9 de octubre de 2008 hasta el que concluye el 8 de febrero de 2010, el encaje en moneda extranjera se podrá constituir también en euros, yenes japoneses o moneda nacional, todas ellas medidas por su equivalente en dólares según las paridades indicadas en el numeral 8.3 precedente."
+No obstante lo dispuesto en numeral 8.2 de este Capítulo, en concordancia con el Acuerdo N° 2294E-01- 200318 del Consejo del Banco Central de Chile, y en los términos dispuestos en la Carta Circular Bancos N°640 de 8 de abril de 2020 de ese Instituto Emisor, desde el período de encaje que se inicia el 9 de marzo de 2020 y hasta el que concluye el día 8 de septiembre de 2020, el encaje en moneda extranjera se podrá constituir también en euros o yenes japoneses, todas ellas medidas por su equivalente en dólares según las paridades indicadas en el numeral 8.3 precedente.
+
+Asimismo, y conforme a lo establecido en el citado Acuerdo N° 2294E-01-200318, durante dicho periodo los excedentes de encaje en moneda nacional a que se refiere el número 6 podrán utilizarse para cubrir déficit de encaje en cualquier moneda extranjera, convertidos por su equivalente en dólares según las paridades indicadas en el citado numeral 8.3.
+
+Para efectos de reporte, el encaje mantenido en bancos del exterior en euros y yenes japoneses deberá ser identificado con el código provisional "03" en el campo 5 (Tipo de saldo diario informado) del archivo C30 del Manual del Sistema de Información. Igualmente, mientras rija la disposición transitoria que permite constituir el encaje en moneda extranjera con moneda chilena, el encaje mantenido con esa moneda se incluirá por su equivalente en dólares, identificándolo con el código 3 (Otras monedas extranjeras expresadas en dólares USA) en el campo 3 (Moneda), al igual que el constituido con euros o yenes, en concordancia con lo que se indica en la actual disposición transitoria de las instrucciones de dicho archivo.
 
 ## Capítulo 4-2
 
