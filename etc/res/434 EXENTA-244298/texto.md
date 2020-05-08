@@ -18,19 +18,19 @@ Resuelvo:
 
 3. Déjase constancia que la presente autorización se mantendrá en tanto se cumplan las siguientes condiciones:
 
-A) Hará uso de este terminal la siguiente línea con su servicio Troncal:
+A) Hará uso de este terminal la siguiente línea con su servicio Troncal (T) y Variante (V-1):
 
-Ident. de Servicio: Folio Nº 132 (Línea Nº 5).
+Identificación de Servicio: Línea Nº 5.
 
-Responsable: Sind. Trabaj. Indep. Taxis Colect. Puente Claro.
+Responsable: Puente Claro SpA. RUT: 77.007.825-3.
 
 Tipo de Servicio: Taxi Colectivo Urbano - Talca.
 
-B) El responsable de la Línea que utiliza el terminal corresponde al presidente y representante Legal del Sindicato de Trabajadores Independientes de taxis colectivos Línea Nº 5 "Puente Claro", de Talca, Sr. Juan Manuel Rojas Pérez, cédula de identidad Nº 8.063.562-1.
+B) El responsable de la Línea que utiliza el terminal corresponde al representante legal de la sociedad Puente Claro SpA., Sr. Juan Manuel Rojas Pérez, cédula nacional de identidad Nº 8.063.562-1.
 
 C) El terminal podrá ser utilizado por una cantidad máxima de 60 taxis colectivos, conforme a las Tablas 8 y 9 establecidas en el texto del DS Nº 207/04, del Ministerio de Vivienda y Urbanismo.
 
-D) El funcionario encargado de la administración del Terminal será el Sr. Juan Manuel Rojas Pérez, cédula de identidad Nº 8.063.562-1, domiciliado en calle 8 1/2 Sur A N° 2602, de la comuna de Talca.
+D) El funcionario encargado de la administración del Terminal, será el Sr. Juan Manuel Rojas Pérez, cédula nacional de identidad Nº 8.063.562-1, domiciliado en calle 8 1/2 Sur A Nº 2602, de la comuna de Talca.
 
 4. No podrá acceder al terminal cuyo funcionamiento se autoriza, el público usuario de los vehículos.
 
