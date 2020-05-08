@@ -212,6 +212,8 @@ i) Becas de estudio: Bienestar podrá otorgar, en caso de extrema necesidad econ
 
 j) Por vacaciones: Se podrá otorgar al afiliado una ayuda anual en dinero, por concepto de vacaciones, cuando haga uso del mismo.
 
+k) Por Acuerdo de Unión Civil: Se podrá conceder una ayuda a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieran afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio.
+
 ### 3. PRÉSTAMOS
 
 #### Artículo 18
