@@ -316,15 +316,15 @@ ARTÍCULOS TRANSITORIOS:
 
 #### Artículo primero
 
-El presente decreto entrará en vigencia desde su publicación en el Diario Oficial, no obstante, las municipalidades contarán con un plazo de 30 días corridos, contados desde la publicación, para la implementación de las modificaciones relativas al examen de conocimientos prácticos para optar a licencia de conductor no profesional Clase B.
+El presente decreto entrará en vigencia desde su publicación en el Diario Oficial, no obstante, las municipalidades contarán con un plazo de 120 días corridos, contados desde la publicación, para la implementación de las modificaciones relativas al examen de conocimientos prácticos para optar a licencia de conductor no profesional Clase B.
 
-Las modificaciones relativas a los exámenes teóricos que deberán rendir los postulantes a conductor de la licencia no profesional Clase C, para la conducción de triciclos motorizados de carga, entrarán en vigencia en un plazo de 60 días corridos, contados desde la publicación.
+Las modificaciones relativas a los exámenes teóricos que deberán rendir los postulantes a conductor de la licencia no profesional Clase C, para la conducción de triciclos motorizados de carga, entrarán en vigencia en un plazo de 150 días corridos, contados desde la publicación.
 
-Las municipalidades, dentro de un plazo de 180 días corridos, deberán implementar las modificaciones al examen de conocimientos prácticos para postulantes a licencia de conductor no profesional Clase C y para postulantes a licencia de conductor no profesional Clase C restringida para la conducción de triciclos motorizados de carga.
+Las municipalidades, dentro de un plazo de 270 días corridos, deberán implementar las modificaciones al examen de conocimientos prácticos para postulantes a licencia de conductor no profesional Clase C y para postulantes a licencia de conductor no profesional Clase C restringida para la conducción de triciclos motorizados de carga.
 
 #### Artículo segundo
 
-La nueva exigencia establecida en la letra c) del artículo 12 del decreto supremo Nº170, de 1985, del Ministerio de Transportes y Telecomunicaciones, sólo será exigible a los nuevos funcionarios municipales que sean habilitados para evaluar exámenes prácticos de conducción, a partir de 30 días corridos contados desde la fecha de publicación del presente decreto.
+La nueva exigencia establecida en la letra c) del artículo 12 del decreto supremo Nº170, de 1985, del Ministerio de Transportes y Telecomunicaciones, sólo será exigible a los nuevos funcionarios municipales que sean habilitados para evaluar exámenes prácticos de conducción, a partir de 120 días corridos contados desde la fecha de publicación del presente decreto.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
 
