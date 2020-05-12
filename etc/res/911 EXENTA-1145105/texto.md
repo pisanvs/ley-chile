@@ -1,0 +1,71 @@
+COMPLEMENTA EL DECRETO SUPREMO Nº 251, DE 1998, DEL MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES INCORPORANDO LA MODALIDAD E-LEARNING PARA LOS CURSOS QUE EFECTÚEN LAS ESCUELAS DE CONDUCTORES PROFESIONALES O CLASE A
+
+Núm. 911 exenta.- Santiago, 28 de abril de 2020.
+
+Vistos:
+
+Lo dispuesto en la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por DFL Nº 1 de 2000, del Ministerio Secretaría General de la República; en el DFL Nº 1, de 2007, del Ministerio de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito; en el decreto supremo Nº 251, de 1998, del Ministerio de Transportes y Telecomunicaciones, que establece normas para las Escuelas de Conductores Profesionales o Clase A; en el decreto supremo Nº 122, de 2012, del Ministerio de Transportes y Telecomunicaciones, que aprueba reglamento de curso teórico y práctico especial que contempla el uso de simuladores de inmersión total para la obtención de las licencias de conductor profesional clases A-3 y A-5; en la resolución Nº 7, de 2019, de la Contraloría General de la República; y la demás normativa aplicable.
+
+Considerando:
+
+1. Que, el DFL Nº 1, de 2007, del Ministerio de Transportes y Telecomunicaciones, citado en el visto, en sus artículos 31 y siguientes, regula las Escuelas de Conductores, distinguiendo entre Escuelas de Conductores de Clase A, para conductores profesionales, y no profesionales y de Clase B, para postulantes de licencia no profesional, de Clase C o especial Clase D o de varias a la vez.
+
+2. Que, la citada ley indica que para obtener el reconocimiento oficial, las escuelas de conductores profesionales deberán entregar a la autoridad regional, el Secretario Regional Ministerial de Transportes y Telecomunicaciones, los planes y programas que elaboren para cumplir los objetivos establecidos en la ley, deberán además señalar la infraestructura, equipamiento, elementos de docencia, calificación, títulos, especialidad y experiencia del personal docente, y el lugar o los lugares donde funcionará la Escuela.
+
+3. Que, agrega la citada ley, que los planes y programas de estudio serán determinados libremente debiendo considerarse adecuados para el cumplimiento con los objetivos básicos establecidos en el artículo 33 de dicho cuerpo legal.
+
+4. Que, en el inciso final del referido artículo 33, indica lo siguiente: "Sin perjuicio de la libertad señalada en el inciso precedente, el Ministerio de Transportes y Telecomunicaciones establecerá, en un reglamento, la duración del curso y contenidos mínimos prácticos y teóricos que habrá de considerar el programa del curso especial especificado en el número 5) del artículo 13, incluyendo el mínimo de horas de conducción por alumno en vehículo y el mínimo y máximo de horas en simulador, las cuales en ningún caso podrán superar un 30 por ciento del total de horas de conducción, y todas las materias relacionadas con su debida instrucción.".
+
+5. Que, en cumplimiento de dicho mandato legal se dictó el decreto supremo Nº 251, de 1998, del Ministerio de Transportes y Telecomunicaciones, que establece normas para las escuelas de conductores profesionales o Clase A, publicado en el Diario Oficial el 9 de febrero de 1999.
+
+6. Que, teniendo presente, que el cuerpo normativo referido en el inciso anterior, estableció en el inciso segundo de su artículo 3º que "las escuelas que deseen ser autorizadas para impartir el Curso Teórico y Práctico Especial que contemple el uso de Simuladores de Inmersión Total deberán cumplir con los requisitos que señalan los respectivos reglamentos, en cuanto a contenidos y duración mínima del curso y características y especificaciones técnicas del simulador.". Por lo que con fecha 9 de julio de 2012, se dictó el decreto supremo Nº 122, de este Ministerio, que aprobó el reglamento de curso teórico y práctico especial que contempla el uso de simuladores de inmersión total para la obtención de las licencias de conductor profesional clases A-3 y A-5.
+
+7. Que, el artículo 20 del decreto supremo Nº 251, ya citado, señala que "El Ministerio de Transportes y Telecomunicaciones podrá dictar las resoluciones e impartir los instructivos que complementen este decreto de acuerdo a sus facultades.".
+
+8. Que, teniendo presente los avances en las formas de comunicación y la conveniencia de incorporar las enseñanzas a distancia o e-learning, como una modalidad para impartir los conocimientos teóricos contemplados en los programas de enseñanza que desarrollan las escuelas de conductores profesionales resulta necesario complementar el decreto supremo Nº 251, de 1998, en los términos que a continuación se detallan.
+
+Resuelvo:
+
+1. Compleméntase el decreto supremo Nº 251, de 1998, del Ministerio de Transportes y Telecomunicaciones en el sentido de permitir que los conocimientos teóricos y prácticos, siempre y cuando no consideren conducción, de los cursos que efectúen las escuelas de conductores profesionales, o Clase A, puedan ser impartidos en la modalidad e-learning, cumpliendo con los siguientes requisitos:
+
+a) Se entenderá por e-learning una modalidad de ejecución de cursos de enseñanza a distancia, a través de internet, que permite a los alumnos de las escuelas de conductores profesionales desarrollar el proceso de enseñanza - aprendizaje de manera integrada, utilizando redes virtuales con recursos informáticos de comunicación y producción, provistas a través de las herramientas disponibles en una plataforma de gestión de aprendizaje y en la que los alumnos pueden estar temporal y geográficamente dispersos.
+
+b) El acceso a dicho curso será a través de una plataforma tecnológica computacional, que deberá operar con un instructor o personal docente que deberá estar presente durante las clases, en la medida que la plataforma lo requiera y que asistirá a los alumnos en sus dificultades tanto de percepción de los contenidos del curso, como aquellas de carácter tecnológico en el seguimiento del mismo, adicionalmente, estas y otras consultas de carácter tecnológico podrán ser atendidas a través de una mesa de ayuda técnica. La plataforma deberá contar, a lo menos, con las siguientes herramientas: funcionalidad, que permita a los alumnos dejar mensajes o consultas, y al personal docente poder responderlas (chat, módulo de consultas, correo electrónico u otro similar), para realizar los contactos requeridos para el desarrollo del curso con el instructor o tutor y las consultas con la mesa de ayuda; agenda o calendarización de actividades, para dar a conocer los hitos necesarios para el normal desarrollo del curso y los tiempos mínimos o recomendados para las distintas actividades contempladas en el mismo; de seguimiento, para establecer las entradas y salidas de los alumnos, la cantidad de ingresos y tiempos de permanencia dentro de un ambiente, grados de participación, y niveles de avance.
+
+c) Los recursos mínimos a considerar para la plataforma, de manera de garantizar el aprendizaje de los postulantes a licencia profesional en un entorno virtual serán: bases de datos, que al menos almacene el avance de los alumnos, asistencia, aprobación de módulos, accesos y salidas de las sesiones, tanto de los instructores como de los alumnos, y que permita ser auditada; chat; cuestionarios o test; lecciones; tareas; paquetes multimedia (scorm, videos, otros); reportes estadísticos y trazabilidad de los alumnos. La plataforma, además, puede contar con elementos adicionales que no se mencionan en el listado, como, por ejemplo, un foro de discusión.
+
+d) Accesoriamente, la escuela de conductores profesionales deberá entregar la dirección de internet con los accesos temporales respectivos, para la revisión y aprobación correspondiente. Deberá comunicar requerimientos tecnológicos mínimos para el seguimiento del curso, como los estándares de atención al alumno, expresados en horarios de atención del instructor o personal docente, de la mesa de ayuda, disponibilidad de acceso, entre otros.
+
+e) Con respecto a los módulos de enseñanza, estos deberán efectuarse en un plazo de tiempo determinado por cada institución. Asimismo, no se podrá pasar al módulo siguiente sin haber aprobado el módulo anterior. La aprobación de cada módulo debe quedar sujeta a una evaluación que debe realizarse a través de la plataforma. Finalmente, los resultados de cada evaluación deben quedar registrados en la base de datos que se indica en el punto c).
+
+f) De acuerdo a lo dispuesto en el artículo 12 del decreto supremo Nº 251, de 1998, del Ministerio de Transportes y Telecomunicaciones, la duración mínima de la enseñanza teórica y práctica para los cursos Al, A2 y A4 es de 150 horas; y de 132 horas para los cursos A3 y A5.
+
+g) La horas máximas que las escuelas podrán desarrollar en modalidad e-learning no podrán superar el 80% de las horas de enseñanza teórica y práctica indicadas en la letra f) anterior, debiendo distribuir esta modalidad en hasta un 35% de horas teóricas y un 65% en horas de instrucción práctica. Para estos efectos, las horas de instrucción práctica referidas anteriormente son aquellas de trabajo de los alumnos con los manuales y ejercicios relativos a instrucción práctica que son aprobados en los planes y programas correspondientes. Para lo anterior, no se considera la conducción práctica en la vía. El porcentaje restante deberá considerar clase prácticas presenciales y de condicción.
+
+h) Para los casos de los cursos teóricos y prácticos especiales regulados por el decreto supremo Nº 122, de 2012, de este Ministerio, la duración de las horas teóricas en modalidad e-learning para las clases A3, podrá ser de hasta 75 horas y de hasta 108 horas para clases prácticas que se puedan efectuar bajo modalidad e-learning, excluyendo por tanto, aquellas consideradas como prácticas, de acuerdo al artículo 3º letra B del referido decreto supremo, es decir, aquellas de conducción en el simulador o en el vehículo, que se realicen de forma colectiva, ya sea a bordo del vehículo como pasajero u observando como otro alumno opera el simulador. Para las clases A5, las clases teóricas vía plataforma podrán ser de 85 horas y clases prácticas modalidad e-learning será de 123 horas.
+
+2. Los interesados deberán presentar su solicitud para ejecutar los cursos de instrucción bajo la modalidad de e-learning ante la Secretaría Regional Ministerial de Transportes y Telecomunicaciones respectiva, para ser autorizadas, complementariamente a la aprobación o modificación de los planes y programas. Para su autorización se debe presentar la identificación del curso que se desea realizar en formato e-learning, el detalle de los módulos del curso indicando el nombre y número de horas de cada módulo según los planes y programas previamente autorizados, que deberá contemplar lo siguiente:
+
+a) Para la forma de ejecución e-learning por cada módulo se deberá indicar el formato de ejecución. Distinguiendo entre sincrónico, entendiéndolo como aquellos sistemas que permiten que los estudiantes pregunten a su docente o compañeros preguntas de manera instantánea a través de la mensajería instantánea; asincrónico, que implica un trabajo de curso proporcionado a través de la web, e-mail y tableros de mensajes que luego son publicados a través de este forum on line; y ambos. Además de tipo de actividades y/o recursos y la identificación de los instructores o personal docente que cumplirán con las funciones de relatores de los cursos.
+
+i. Si la escuela opta por la modalidad sincrónica, lo mínimo que debe contemplar en la realización de cada módulo, es que cada clase sea grabada en la plataforma a utilizar por la escuela, para que pueda ser revisada en forma posterior por los participantes.
+
+ii. Si la escuela opta por la modalidad asincrónica, la escuela deberá incluir: actividades prácticas distintas para cada aprendizaje (análisis de casos, resolución de problemas, en otras); actividades que permitan la interacción del participante con la plataforma; herramientas didácticas distintas que serán utilizadas para trabajar los diferentes contenidos de cada aprendizaje esperado (presentaciones, tutoriales, videos interactivos, entre otros). Además, el curso debe estar diseñado para que pueda ser realizado desde distintos dispositivos como computador de escritorio, computador personal, teléfono y tablet.
+
+Asimismo, deberá detallarse si los módulos se ejecutarán en una plataforma de la escuela. Con todo, el curso deberá ser ejecutado íntegramente en una de las dos plataformas y no mezclar módulos en distintas plataformas. Para ello, la escuela deberá cumplir como mínimo con las siguientes condiciones:
+
+i. Incluir en la información el tipo de actividad.
+
+ii. Nombre de la actividad.
+
+iii. Permitir la lectura de información, por parte de las Secretarías Regionales Ministeriales de Transportes y Telecomunicaciones correspondientes, a los servidores de bases de datos, de la plataforma de las escuelas, donde se registra la información de ejecución de los cursos (servidores internos o nube de datos).
+
+iv. Entregar un acceso de Supervisor a las Secretarías Regionales Ministeriales de Transportes y Telecomunicaciones, para monitorear dentro de la plataforma la realización y actividades del curso durante su ejecución.
+
+b) La plataforma deberá medir los siguientes indicadores para asegurar el aprendizaje de los alumnos: Aprobación de las evaluaciones; porcentaje de avance (progreso); y tiempo de conectividad (mínimo 40%).
+
+c) La aprobación de los cursos corresponde a la medición de los aprendizajes obtenidos por los participantes será de acuerdo a una tabla de 0 a 100%, para determinar el logro de los módulos será de un 75% para optar a la licencia requerida en concordancia a los cursos a realizar por el alumno, de acuerdo a lo dispuesto en el artículo 12, del referido decreto supremo Nº 251.
+
+3. La presente resolución entrará en vigencia desde su fecha de publicación en el Diario Oficial.
+
+Anótese y publíquese.- Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
