@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 125, de fecha 21 de enero 2020, de esta Secretaría Regional, se aprobaron los planes y programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores "Quality Work", cuyo propietario es la sociedad "Ramírez y Ortega Capacitaciones Limitada", representada legalmente por don Héctor Francisco Ramírez Medina. La Escuela de Conductores tendrá como Director a don Héctor Francisco Ramírez Medina, y su sede estará ubicada en calle Francisco Gana N° 620, ciudad y comuna de Rancagua. Las horas pedagógicas autorizadas a la referida Escuela son 8 teóricas, 12 prácticas, con un total de 20 horas pedagógicas.-
+
+Hans González González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
