@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 19, de fecha 15 de abril de 2020, de esta Secretaría Regional, se aprobaron los planes y programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores denominada "Organización Técnica de Capacitación Ortecap Jerez e Hijos y Compañía Limitada", de propiedad de la sociedad del mismo nombre, RUT Nº 76.099.995-4, con nombre de fantasía "Ortecap Jerez Ltda.", cuyo representante legal es don Eduardo Andrés Jerez Soto. La Escuela de Conductores tendrá como Director a don Eduardo Andrés Jerez Soto, y su sede estará ubicada en calle Arturo Prat Nº 495-A, de la ciudad y comuna de Yungay, Región de Ñuble. Las horas pedagógicas autorizadas a la referida Escuela son 8 teóricas, y 12 prácticas, con un total de 20 horas pedagógicas.-
+
+Bárbara Kopplin Lanata, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Ñuble.
