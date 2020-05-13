@@ -292,7 +292,9 @@ Se deberá impedir el acceso de las plagas a los desechos. Inmediatamente despu�
 
 #### Artículo 41
 
-Deberá establecerse para todo establecimiento de producción, elaboración y transformación de alimentos un calendario de limpieza y desinfección permanente, con atención especial a las zonas, equipos y materiales de más alto riesgo. Todo el personal de aseo deberá estar capacitado en técnicas de limpieza.
+Todo establecimiento de producción, elaboración y transformación de alimentos deberá establecer un programa de limpieza y, de ser necesario, de desinfección, a fin de asegurar que todas las partes de la instalación presenten una adecuada limpieza, de la forma como señala la letra a) del artículo 14 de este reglamento. Dicho programa deberá especificar superficies, elementos del o los equipos y utensilios que han de limpiarse; responsabilidad de tareas particulares; métodos y frecuencia de la limpieza; medidas de vigilancia de la misma y, de ser necesario, de la desinfección, para asegurar su idoneidad y eficacia. La necesidad de desinfección de superficies, elementos del equipo y utensilios se deberá evaluar de acuerdo a las materias primas, condición de éstas, procesos, productos y peligros que estén asociados a los mismos o que, razonablemente, se presuma que puedan estarlo.
+
+Todo el personal de aseo deberá estar capacitado en técnicas de limpieza y desinfección, según corresponda a los procedimientos aplicados en la instalación. Se deberán mantener registros de las capacitaciones realizadas
 
 #### Artículo 42
 
@@ -342,9 +344,7 @@ De los requisitos de higiene del personal
 
 #### Artículo 52
 
-La dirección del establecimiento será responsable de que todas las personas que manipulen alimentos, reciban una instrucción adecuada y continua en materia de manipulación higiénica de los mismos e higiene personal.
-
-Cualquier persona que trabaje a cualquier título y, aunque sea ocasionalmente, en un establecimiento donde se elaboren, almacenen, envasen, distribuyan o expendan alimentos, deberá mantener un estado de salud que garantice que no representa riesgo de contaminación de los alimentos que manipule.
+La dirección del establecimiento será responsable de que todas las personas que manipulen alimentos reciban una instrucción adecuada y continua en materia de manipulación higiénica de los mismos e higiene personal. Se deberán mantener registros de tales instrucciones, su calendarización, programas, listas de asistencia y evaluaciones, si corresponde.
 
 #### Artículo 53
 
@@ -672,7 +672,7 @@ Se prohíbe el transporte de leches o sus envases vacíos junto a animales, dete
 
 #### Artículo 94
 
-En aquellas localidades donde no rijan las disposiciones de la Ley Nº 4.869 sobre pasteurización, los productores que expendan directamente al público, deben cumplir con los siguientes requisitos:
+Cuando los productores expendan leche directamente al público, deben cumplir los siguientes requisitos:
 
 a) contar con un local de ventas autorizado;
 
@@ -2698,9 +2698,9 @@ Se regirán por las disposiciones del presente reglamento la higienización, el 
 
 #### Artículo 198
 
-Leche sin otra denominación, es el producto de la ordeña completa e ininterrumpida de vacas sanas, bien alimentadas y en reposo, exenta de calostro. Las leches de otros animales se denominarán según la especie de que proceden, como también los productos que de ellas se deriven.
+Leche es la secreción mamaria normal exenta de calostro, de animales lecheros, obtenida mediante uno o más ordeños, sin ningún tipo de adición o extracción, destinada al consumo en forma de leche líquida o a su elaboración ulterior.
 
-> **Nota.** El Art. transitorio del DTO 214, Salud, publicado el 04.02.2006, dispuso que la modificación introducida al presente artículo rige a contar de 180 días desde su publicación.
+Para efectos de etiquetado, leche sin otra denominación, es el producto de la vaca. Las leches provenientes de otros animales se denominarán según la especie de la que proceden, como también los productos que de ella se deriven
 
 #### Artículo 199
 
@@ -2710,7 +2710,7 @@ Pasteurización es el procedimiento por el que se somete uniformemente la totali
 
 #### Artículo 200
 
-La pasteurización de la leche será obligatoria en aquellas localidades en que el Presidente de la República lo haya así decretado, de acuerdo a la Ley Nº4.869 del 4 de Agosto de 1930, como asimismo la de los productos derivados de ella y mencionados en este Título destinados al consumo humano.
+La pasteurización de la leche o la aplicación de otros tratamientos microbicidas para su higienización será obligatoria en todo el país, como asimismo la de los productos derivados de ella y mencionados en este Título destinados al consumo humano, con la excepción señalada en el artículo 207.
 
 #### Artículo 201
 
@@ -2744,7 +2744,7 @@ Además, en el caso específico de la leche de vaca, las siguientes característ
 
 f) peso específico: 1.028 a 1.034 a 20°C;
 
-g) índice crioscópico: -0,53 a -0,57 "Horvet" o 0,512 a -0,550 °C;
+g) Índice crioscópico: -0,53 a -0,57 "Horvet" o -0,512 a -0,550 °C".
 
 h) pH: 6,6 a 6,8;
 
@@ -2757,34 +2757,6 @@ j) sólidos no grasos: 82,5 gramos por litro, como mínimo.
 ### Párrafo II
 
 De los requisitos de la leche
-
-#### Artículo 203
-
-Las características de la leche serán las siguientes:
-
-a) caracteres organolépticos normales;
-
-b) exenta de materias extrañas;
-
-c) peso específico : 1.028 a 1.034 a 20ºC;
-
-d) índice crioscópico : - 0,53 a - 0,57 "Horvet" ó
-
-- 0,512 a - 0,550 ºC;
-
-e) pH: 6,6, a 6,8;
-
-f) acidez : 12 a 21 ml de hidróxido de sodio 0,1 N/100 ml de leche;
-
-g) sólidos no grasos : 82,5 gramos por litro, como mínimo;
-
-h) exenta de sangre y pus;
-
-i) exenta de antisépticos, antibióticos y neutralizantes.
-
-Los residuos de plaguicidas y otras sustancias nocivas para la salud no deberán exceder los límites establecidos por el Ministerio de Salud;
-
-j) sus requisitos microbiológicos y su contenido de materia grasa, serán los que determina este reglamento en cada caso.
 
 #### Artículo 204
 
@@ -2868,7 +2840,7 @@ Pruebas de aceptación o rechazo:
 
 a) eberán corresponder a las características estipuladas en el artículo 203;
 
-b) alcohol 68% v/v;
+b) alcohol entre 68% v/v y 75% v/v".
 
 En el caso de que la leche sea aceptada por la planta y deba ser sometida a clasificación, podrán efectuarse las siguientes pruebas:
 
@@ -2880,19 +2852,17 @@ c) detección de inhibidores;
 
 d) células somáticas.
 
-#### Artículo 207
-
-La leche cruda deberá ser pasteurizada inmediatamente después de su recepción o conservarse a una temperatura no superior a 4ºC.
-
 ### Párrafo III
 
 De la pasteurización de la leche
 
 #### Artículo 207
 
-Las leches crudas deberán ser pasteurizadas inmediatamente después de su recepción o conservarse a una temperatura no superior a 4°C.
+Las leches crudas deberán ser sometidas a tratamientos microbicidas, tales como: pasteurización, temperatura ultra alta, centrifugación, esterilización u otros, inmediatamente después de su recepción en la planta o conservarse por tiempos y temperaturas que impidan la multiplicación bacteriana de modo de dar cumplimiento a lo dispuesto en los artículos 61 y 62 del presente reglamento. Para lo anterior, las plantas que reciban leche deberán mantener registros sobre las validaciones realizadas que demuestren que tales relaciones de tiempo-temperatura impiden la multiplicación bacteriana y de las verificaciones del cumplimiento de esos tiempos y temperaturas conforme a lo dispuesto en el artículo 69 de este reglamento.
 
-> **Nota.** El Art. transitorio del DTO 214, Salud, publicado el 04.02.2006, dispuso que la modificación introducida al presente artículo rige a contar de 180 días desde su publicación.
+Se entiende por tratamientos microbicidas las medidas de control que reducen sustancialmente o eliminan el número de microorganismos presentes en los alimentos.
+
+Los tratamientos microbicidas señalados anteriormente no serán exigibles cuando los productores expendan leche directamente al público en las condiciones señaladas en el artículo 94 del presente reglamento".
 
 #### Artículo 208
 
@@ -4346,25 +4316,47 @@ De la miel
 
 #### Artículo 393
 
-La denominación de "miel", o "miel de abeja" o "miel virgen", está sólo y exclusivamente reservada para designar el producto natural elaborado por la abeja Apis melífera, con el néctar de las flores y exudados de plantas aromáticas.
+Se entiende por "miel" la sustancia dulce natural producida por abejas Apis mellifera a partir del néctar de las plantas o de secreciones de partes vivas de éstas o de excreciones de insectos succionadores de plantas que quedan sobre partes vivas de las mismas y que las abejas recogen, transforman y combinan con sustancias específicas propias, y depositan, deshidratan, almacenan y dejan en el panal para que madure y añeje.
 
-En consecuencia, no constituyen ni pueden calificarse como miel, los productos apícolas, tales como polen y jalea real, que se comercializarán como alimentos previa declaración de su composición respectiva y que deberán justificar las propiedades nutricionales que en cada caso se les atribuya, si así se hiciere.
+"Miel de flores" o "miel de néctar" es la miel que procede del néctar de las plantas.
 
-Podrá denominarse como "miel de palma" al producto viscoso, amarillo oscuro y muy dulce, obtenido por concentración de savia de palma chilena (jubea chilensis). El producto no deberá contener saborizantes/aromatizantes, preservantes, edulcorantes no nutritivos y/o colorantes artificiales.
+"Miel de mielada" es la miel que procede principalmente de excreciones que los insectos succionadores (Hemiptera) dejan sobre las partes vivas de las plantas o de secreciones de partes vivas de las mismas.
 
-> **Nota.** El Art. segundo del DTO 68, Salud, publicado el 23.01.2006, dispuso que la modificación introducida al presente artículo rige a contar de 180 días después de su publicación.
+La miel se compone esencialmente de diferentes azúcares, predominantemente fructosa y glucosa, además de otras sustancias como ácidos orgánicos, enzimas y partículas sólidas derivadas de la recolección. El color de la miel varía de casi incoloro a pardo oscuro. Su consistencia puede ser fluida, viscosa, o total o parcialmente cristalizada. El sabor y el aroma varían, pero derivan de la planta de origen.
+
+La miel deberá cumplir con las siguientes restricciones y características:
+
+a) No contener ningún ingrediente adicional, incluidos los aditivos alimentarios u otra sustancia que no sea definida como miel.
+
+b) No contener ninguna materia, sabor, aroma o mancha objetables que hayan sido absorbidas desde materias extrañas durante su procesamiento y almacenamiento.
+
+c) No haber comenzado a fermentar o producir efervescencia.
+
+d) No haber sido sometida a extracción de polen ni ningún constituyente particular de la miel, excepto cuando sea imposible evitarlo para garantizar la ausencia de materias extrañas, inorgánicas u orgánicas.
+
+e) No deberá calentarse ni elaborarse la miel de forma tal que se modifique su composición esencial y/o se menoscabe su calidad.
+
+f) No se deberán utilizar tratamientos químicos o bioquímicos para influir en la cristalización de la miel.
+
+g) Debe contener como máximo 20% de agua, con excepción de las mieles descritas en la norma del Codex Alimentarius para la miel "Norma para la Miel CODEX STAN 12-1981", de acuerdo a su última versión, para las cuales regirá el valor según corresponda.
+
+h) Debe contener no menos de 60 gramos de fructosa más glucosa por 100 gramos de miel o 45 gramos de fructosa más glucosa por 100 gramos de miel de mielada o mezclas de miel de mielada con miel de flores.
+
+i) Debe contener no más de 5 gramos de sacarosa por 100 gramos de miel con excepción de las mieles descritas en la norma del Codex Alimentarius para la miel "Norma para la Miel CODEX STAN 12-1981", de acuerdo a su última versión, para las cuales regirá el valor que corresponda.
+
+j) No debe contener más de 0,1 gramo de sólidos insolubles en agua por 100 gramos de miel obtenida mediante la centrifugación de los panales desoperculados, sin larvas, u obtenida mediante el drenaje de los panales desoperculados, sin larvas, o no contener más de 0,5 gramo de sólidos insolubles en agua por 100 gramos de miel obtenida mediante el prensado de los panales, sin larvas.
+
+Los envases de miel destinados al consumidor final deberán rotular en su cara principal la siguiente frase: "Este producto no debe ser consumido por menores de 12 meses". Las características de las letras deberán corresponder a lo establecido en el artículo 115, letra c), números 1 y 2, de este reglamento.
+
+#### Artículo 393 bis
+
+Se entenderá por "polen corbicular" el conglomerado de polen extraído desde las flores por la abeja de la especie Apis mellifera, la cual mezcla y aglutina con secreciones salivales y néctar, para ser depositadas en forma de gránulos redondeados en las corbículas de su tercer par patas traseras y transportadas a la colmena. Para efectos de rotulación, se aceptará el uso de la denominación "polen", "polen de abeja", "polen granulado" u otro que informe a los consumidores sobre la naturaleza de este producto, resguardando el cumplimiento del artículo 110 del presente reglamento.
+
+Se entenderá por "jalea real" la sustancia cremosa semifluida de color blanco amarillento, de sabor ácido, ligeramente picante, la cual es producida por la acción combinada de la glándula hipofaringeas y por la glándula mandibulares de las abejas nodrizas de la especie Apis mellifera
 
 #### Artículo 394
 
-La miel líquida o cristalizada, deberá tener las características siguientes:
-
-a) contener como máximo 18% de agua, 5% de sacarosa, 8% de dextrina, 0,8% de cenizas, 0,2% de acidez expresada en ácido fórmico y 40 mg/kg de hidroximetil furfural y contener como mínimo 70% de azúcares invertidos y una actividad diastásica de 8 en la escala de Goethe. Su peso específico estará comprendido entre 1,400 y 1,600 a 20ºC;
-
-b) no contener polen, cera u otras materias insolubles en agua, en proporción superior al 1%, calculado en base seca;
-
-c) no contener azúcar invertido artificial, insectos, sus fragmentos o sus estados evolutivos, pelos de animales ni sustancias extrañas a su composición natural, tales como edulcorantes naturales o artificiales, materias aromáticas, almidón, goma, gelatina, sustancias preservadoras y colorantes;
-
-d) no estar fermentada ni caramelizada y estar exenta de hongos visibles.
+Podrá denominarse como "miel de palma" al producto dulce, viscoso y de color caramelo oscuro, obtenido por concentración de savia de palma chilena (Jubea chilensis). El producto no deberá contener saborizantes/aromatizantes, preservantes, espesantes y/o colores artificiales.
 
 ## Título XVIII
 
