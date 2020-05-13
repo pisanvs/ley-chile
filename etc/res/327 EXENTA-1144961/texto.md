@@ -134,11 +134,7 @@ La medida de este numeral empezará a regir a contar de las 22:00 horas del día
 
 Exceptúase de la prohibición antedicha las inhumaciones e incineraciones de cadáveres, así como cualquier otra actividad cuyas consecuencias sanitarias la hagan impostergable.
 
-9. Reitérese la prohibición de celebrar eventos deportivos, profesionales y aficionados, según lo dispuesto en el numeral 28 de la resolución exenta Nº 217, de 2020, del Ministerio de Salud.
-
-Se entenderá por evento deportivo cualquier actividad que congregue a más de 10 personas en un recinto o establecimiento, considerando toda la extensión de aquellos.
-
-Asimismo, prohíbase el desarrollo de cualquier actividad deportiva en espacios cerrados destinados a dichas prácticas, que usualmente se encuentran abiertos al público general.
+### 9. Deja sin Efecto
 
 10. Instrúyase a las autoridades sanitarias la difusión de las medidas sanitarias por los medios de comunicación masivos.
 
