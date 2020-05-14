@@ -178,11 +178,11 @@ Institución Ejército
 
 Grado General de Brigada
 
-Apellidos MERICQ Guila
+Apellidos SEPÚLVEDA Díaz
 
-Nombre Patricio
+Nombre Luis
 
-RUN 7.689.765-4
+RUN 8.858.558-5
 
 REGIÓN DE LOS RÍOS
 
@@ -248,7 +248,7 @@ En el ejercicio de sus funciones, los Jefes de la Defensa Nacional tendrán toda
 
 6) Establecer condiciones para la celebración de reuniones en lugares de uso público, de conformidad a las instrucciones del Presidente de la República;
 
-7) Impartir directamente instrucciones a todos los funcionarios del Estado, de sus empresas o de las municipalidades que se encuentren en la zona, con el exclusivo propósito de subsanar los efectos de la calamidad pública, conforme a las instrucciones del Presidente de la República;
+7) Impartir directamente instrucciones a todos los funcionarios del Estado, de sus empresas o de las municipalidades que se encuentren en la zona, con el exclusivo propósito de subsanar los efectos de la calamidad pública, y, en particular, para una adecuada implementación de las medidas sanitarias adoptadas.;
 
 8) Difundir por los medios de comunicación social las informaciones necesarias para dar tranquilidad a la población;
 
