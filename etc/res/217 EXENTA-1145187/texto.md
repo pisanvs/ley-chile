@@ -1,0 +1,5 @@
+RESOLUCIÓN N° 217 EXENTA, DE FECHA 29.04.2020, QUE "DISPONE LA PRÓRROGA DEL PLAZO DE SUSPENSIÓN DE PROCEDIMIENTOS ADMINISTRATIVOS EDUCACIONALES QUE INDICA"
+
+Con fecha 29 de abril de 2020, la Superintendencia de Educación dictó la resolución exenta N° 217, que "Dispone la prórroga del plazo de suspensión de procedimientos administrativos educacionales que indica", la cual amplía el plazo de prórroga de los procedimientos administrativos educacionales al 15 de mayo de 2020. Atendida la emergencia sanitaria, la resolución referida comenzará a regir desde la fecha de su dictación sin perjuicio de su publicación en extracto en el Diario Oficial y estará disponible íntegramente en la página web institucional www.supereduc.cl.-
+
+Daniella Maureira Arrizaga, Jefa Departamento de Fiscalización de Procesos Educativos.
