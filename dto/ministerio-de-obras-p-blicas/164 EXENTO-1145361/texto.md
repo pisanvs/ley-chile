@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 164 de 27 de marzo de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DEL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 185 y 186, Rol de avalúo 155-52, comuna de Quemchi, superficie 2.050 y 597 m2. respectivamente, para la obra MEJORAMIENTO RUTA W-175, SECTOR: LINAO - QUEMCHI, COMUNA DE QUEMCHI, PROVINCIA DE CHILOÉ, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRÉS ECHEVERRÍA CAMPO Y CARMEN PILAR RÍOS MARCUELLO, fijó el valor de tasación con fecha 04 de julio de 2017, acordándose la indemnización con su propietario JOSÉ ENERICO VERA BUSTAMANTE en la cantidad de $9.217.918.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
