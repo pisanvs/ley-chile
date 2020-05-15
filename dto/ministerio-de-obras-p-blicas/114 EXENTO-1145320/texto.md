@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 114 de 27 de marzo de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno 1 y 2, Rol de avalúo 334-35, comuna de Nacimiento, superficies 3.642 y 3.694 m2. respectivamente, para la obra CONSTRUCCION PLAZA PEAJE SAN ROQUE, RUTA 156 DE LA MADERA, COMUNA DE NACIMIENTO, PROVINCIA DE BIOBÍO, REGIÓN DEL BIOBÍO, La comisión de peritos, integrada por VALESKA CAROLINA ALÉ GOÑI, ROXANA CECILIA ABARZÚA GAJARDO y VICTOR MARCELO SOTO TRONCOSO, fijó el valor de tasación con fecha 04 de septiembre de 2018, acordándose la indemnización con sus propietarios LUBIO ENOCH MEDINA HIDALGO Y OTROS, en la cantidad de $35.145.741.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
