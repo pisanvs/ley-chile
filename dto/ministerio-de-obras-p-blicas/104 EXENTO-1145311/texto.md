@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 104 de 27 de marzo de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 10, 11, 12, 13, 14, 15, 16 y 17, Rol de avalúo 2464-2, comuna de Valdivia, superficies 2.550, 2.462, 907, 8.858, 758, 721, 1.607 y 262 m2., para la obra MEJORAMIENTO CBI STA ELVIRA - EL ARENAL - SAN JAVIER TRAMO 2, COMUNA DE VALVIDIA, PROVINCIA DE VALDIVIA, REGION DE LOS RIOS. La comisión de peritos, integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, YASCHALA MARIBEL YAÑEZ RIFFO y MARIA SOLEDAD NUÑEZ ARROYO y fijó el valor de tasación con fecha 16 de septiembre de 2016, acordándose la indemnización con su propietaria AGRÍCOLA LAS PARCELAS LIMITADA, en la cantidad de $215.598.704.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
