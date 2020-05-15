@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 186, de 03 de abril de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 60-A, 60-B y 60-C, para la obra: MEJORAMIENTO Y CONSTRUCCIÓN CAMINO CURANILAHUE - NACIMIENTO POR BAJO LOS RÍOS, que figuran a nombre de BENAVENTE BENAVENTE BENITO, roles de avalúo 318-24, Comuna de NACIMIENTO, REGIÓN DEL BIOBÍO, superficies 5.623, 3.293 y 2.236 m2 respectivamente. La Comisión de Peritos integrada por MARÍA PAMELA MAC-GUIRE ACEVEDO, VALERIA DEL CARMEN MARDONEZ LEMA y DORY GISELA DONOSO SALGADO, mediante informe de tasación de 10 de julio de 2019, fijó el monto de la indemnización provisional en la cantidad de $17.694.460 para el lote N° 60-A, $12.474.860 para el lote N° 60-B, y $10.347.720 para el lote N° 60-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
