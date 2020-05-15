@@ -36,6 +36,12 @@ Resolución:
 
 8. Establécese que el monto de subsidio base para los proyectos que participen del presente llamado, será de 330 Unidades de Fomento, al que se le aplicará el factor multiplicador definido en la resolución exenta Nº 1.874 (V. y U.), de 2015, según la comuna donde se ubique el proyecto.
 
+8 bis. La certificación del ahorro que se señala en el penúltimo inciso del artículo 39 del DS Nº 49 (V. y U.), de 2011, se podrá producir en fecha posterior al ingreso de los antecedentes del grupo organizado al Sistema Informático respectivo. De esta forma, el proyecto obtendrá su Certificado de Proyecto Ingresado, con lo que se dará inicio a su proceso de evaluación, aun cuando las familias no cumplan con el ahorro mínimo a que se refiere el resuelvo 7., o el ahorro mayor al mínimo que exija el proyecto.
+
+Para hacer efectivo lo anterior, en el módulo informático del sistema Umbral, en la pestaña de ahorro, deberá marcarse la casilla "condición especial de ahorro" e ingresar el número y fecha de la resolución que establece el presente llamado.
+
+Con todo, para la obtención del Certificado de Calificación del proyecto, deberá acreditarse la totalidad del ahorro, mínimo y adicional si corresponde, en cada una de las libretas de ahorro de los postulantes. El cumplimiento del ahorro deberá ser informado por la Entidad Patrocinante del Proyecto, vía correo electrónico, al Serviu respectivo, el cual deberá verificar lo señalado y proceder, si corresponde, a calificar el Proyecto.
+
 9. Los proyectos que se emplacen en zonas donde se encuentren vigentes Planes de Descontaminación Atmosférica podrán incrementar su subsidio base en hasta 80 Unidades de Fomento, cuando requieran un mayor financiamiento para la ejecución de las indicaciones del referido plan o, en caso que esto no ocurra, cuando apliquen las normas que dicte este Ministerio para dicho efecto, las que estarán publicadas en el sitio web del Ministerio de Vivienda y Urbanismo, en la sección Fechas de Postulaciones.
 
 A su vez, aquellos proyectos que se desarrollan en áreas declaradas latentes o saturadas y que deban ingresar al Sistema de Evaluación de Impacto Ambiental, conforme lo establece el DS Nº 40, del Ministerio del Medio Ambiente, del año 2013, podrán optar a 40 UF adicionales para la ejecución de las exigencias resultantes de esa evaluación, destinadas a mitigar la emisión de material particulado.

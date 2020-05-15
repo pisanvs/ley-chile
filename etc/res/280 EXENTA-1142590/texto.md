@@ -68,6 +68,12 @@ El número de proyectos seleccionados alcanzará hasta el número de subsidios s
 
 Sin perjuicio de lo anterior, el monto de subsidio base para las regiones y comunas que a continuación se identifican, será el siguiente, al que se le aplicará el factor multiplicador definido en la resolución exenta N° 1.874 (V. y U.), de 2015.
 
+15 bis. La certificación del ahorro que se señala en el penúltimo inciso del artículo 39 del DS Nº 49 (V. y U.), de 2011, se podrá producir en fecha posterior al ingreso de los antecedentes del grupo organizado al Sistema Informático respectivo. De esta forma, el proyecto obtendrá su Certificado de Proyecto Ingresado, con lo que se dará inicio a su proceso de evaluación, aun cuando las familias no cumplan con el ahorro mínimo a que se refiere el resuelvo 10. y el resuelvo 13. de esta resolución.
+
+Para hacer efectivo lo anterior, en el módulo informático del sistema Umbral, en la pestaña de ahorro, deberá marcarse la casilla "condición especial de ahorro", e ingresar el número y fecha de la resolución que establece el presente llamado.
+
+Con todo, para la obtención del Certificado de Calificación del proyecto, deberá acreditarse la totalidad del ahorro, mínimo y adicional si corresponde, en cada una de las libretas de ahorro de los postulantes. El cumplimiento del ahorro deberá ser informado por la Entidad Patrocinante del Proyecto, vía correo electrónico, al Serviu respectivo, el cual deberá verificar lo señalado y proceder, si corresponde, a calificar el Proyecto.
+
 16. El Serviu, deberá consignar en el respectivo módulo informático denominado "Aporte adicional Convenio Gore", aquellos proyectos que cuenten con financiamiento adicional proveniente del Gobierno Regional, en las regiones con convenios de programación vigentes.
 
 La complementación de los montos de subsidios con los aportes señalados, estará sujeta a la disponibilidad de recursos en el programa autorizado por la resolución exenta conjunta entre el Ministerio de Vivienda y Urbanismo y el Ministerio de Hacienda, a que hace referencia el visto b), de la presente resolución.

@@ -58,6 +58,12 @@ Además, para las tipologías de Pequeño Condominio no será exigible que el gr
 
 6. Los postulantes al presente llamado deben acreditar haber enterado el siguiente ahorro mínimo, conforme la calificación socioeconómica que presenten a la fecha de su incorporación al proyecto:
 
+6 bis. La certificación del ahorro que se señala en el penúltimo inciso del artículo 39 del DS Nº 49 (V. y U.), de 2011, se podrá producir en fecha posterior al ingreso de los antecedentes del grupo organizado al Sistema Informático respectivo. De esta forma, el proyecto obtendrá su Certificado de Proyecto Ingresado, con lo que se dará inicio a su proceso de evaluación, aun cuando las familias no cumplan con el ahorro mínimo a que se refiere el resuelvo 6. de esta resolución.
+
+Para hacer efectivo lo anterior, en el módulo informático del sistema Umbral, en la pestaña de ahorro, deberá marcarse la casilla "condición especial de ahorro" e ingresar el número y fecha de la resolución que establece el presente llamado.
+
+Con todo, para la obtención del Certificado de Calificación del proyecto, deberá acreditarse la totalidad del ahorro, mínimo y adicional si corresponde, en cada una de las libretas de ahorro de los postulantes. El cumplimiento del ahorro deberá ser informado por la Entidad Patrocinante del Proyecto, vía correo electrónico, al Serviu respectivo, el cual deberá verificar lo señalado y proceder, si corresponde, a calificar el Proyecto.
+
 7. Todos los antecedentes de los postulantes, incluyendo la conformación del núcleo familiar y las condiciones de la vivienda habitada, serán consultados directamente del Registro Social de Hogares respectivo. Para efectos de estimar puntaje en la selección, conforme el artículo 24 del DS N° 49 (V. y U.), de 2011; de no contar con información de caracterización socioeconómica actualizada, los postulantes no obtendrán puntaje por este factor.
 
 8. El monto de subsidio base para los proyectos que participen del presente llamado, será el indicado en la siguiente tabla según su tipología, al que se le aplicará el factor multiplicador definido en la resolución exenta N° 1.874 (V. y U.), de 2015, según la comuna donde se ubique el proyecto:
