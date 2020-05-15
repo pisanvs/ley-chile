@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 141, de 27 de marzo de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno 2 y 3, Rol de avalúo 103-168, Comuna de Palena, superficies 200 y 22 m2., para la obra: CONSERVACIÓN RED VIAL REGIÓN DE LOS LAGOS 2012-2014, PUENTE LA CULEBRA, COMUNA Y PROVINCIA DE PALENA, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por CHRISTIAN EMIL RAUCH YÁÑEZ, LEOPOLDO RAMÓN SCHUMACHER GUARDA y JUAN SAMUEL BARRIENTOS BAHAMONDE, fijó el valor de tasación con fecha 16 de junio de 2017, acordándose la indemnización con su propietario LEÓN EDGARDO ROA SOTO, en la cantidad total de $2.039.585.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
