@@ -382,6 +382,8 @@ El puntaje correspondiente al ámbito Intersectorialidad, se asignará a cada po
 
 26. Los recursos involucrados para la selección ascienden a un total de 1.190.292 U.F. y su distribución regional, según modalidad o tipología, será la siguiente:
 
+.
+
 Los recursos indicados en el cuadro anterior podrán disminuir o aumentar con cargo a los recursos asignados para el Programa de Habitabilidad Rural del año 2019, por resolución del Ministro de Vivienda y Urbanismo, como también podrá determinarse su redistribución por tipología de proyecto y/o por región, de acuerdo a la necesidad de cada región.
 
 27. El número de postulantes seleccionados en cada región, alcanzará hasta el número de subsidios susceptibles de ser financiados con los recursos regionales previstos en el resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras.
