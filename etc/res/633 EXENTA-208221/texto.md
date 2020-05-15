@@ -220,13 +220,11 @@ Litchi chinensis Sin Declaración Adicional
 
 (Litchi)
 
-Malus domestica Apple proliferation
+Malus spp. Candidatus Phytoplasma mali
 
-(Manzano) phytoplasma
+Cherry rasp leaf virus
 
-Apple stem grooving
-
-virus (ASGV)
+Erwinia amylovora
 
 Manguifera indica Sin Declaración Adicional
 
