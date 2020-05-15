@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 130, de 27 de marzo de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 226, Rol de avalúo 3218-636, Comuna de San Juan de La Costa, superficie 1.694 m2., para la obra: REPOSICIÓN PAVIMENTO RUTA U-40, SECTOR: OSORNO - INTERSECCIÓN RUTA U-52, COMUNA DE SAN JUAN DE LA COSTA, PROVINCIA DE OSORNO, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRÉS ECHEVERRÍA CAMPO y CARMEN PILAR RÍOS MARCUELLO, fijó el valor de tasación con fecha 14 de septiembre de 2018, acordándose la indemnización con su propietaria MARISOL DE LAS MERCEDES ANDRADE LLAITUL, en la cantidad total de $32.591.869.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
