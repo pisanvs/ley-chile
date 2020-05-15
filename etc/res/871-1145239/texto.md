@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 871 de 15 de abril de 2020, el Serviu Región de Los Lagos ordenó expropiación lote terreno N° 10 para la ejecución Proyecto "Mejoramiento Avenida Ejército, Tramo Yuraszeck - Seminario, comuna de Puerto Montt", Provincia de Llanquihue, Región de Los Lagos, que figura a nombre de Almonacid Delgado Ester, rol de avalúo según SII N° 770-1, comuna de Puerto Montt, superficie de 322,26 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher G., Enrique Hoelck A. y Raúl Palma L., designados por resolución exenta N° 2897 de 17 de septiembre de 2019, fijó con fecha 15 de octubre de 2019 el valor provisional de la indemnización en la suma de $62.887.610. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7° del decreto Ley N° 2186.-
+
+Director Serviu Región de Los Lagos.
