@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 29 de 20 de marzo de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 83, Rol de avalúo 557-277, comuna de Linares, superficie 180 m2., para la obra CAMINO MEJORAMIENTO RUTA L-45, SECTOR ESCUELA LLEPO - EL PEÑASCO, TRAMO KILÓMETRO 13,10000 A KM. 20,13700; COMUNA DE LINARES, PROVINCIA DE LINARES, REGIÓN DEL MAULE. La comisión de peritos, integrada por PAULA SOLEDAD GONZÁLEZ ORTEGA, ALICIA BÁRBARA FLORES PACHECO y RODRIGO ANTONIO SILVA LAZO, fijó el valor de tasación con fecha 24 de enero de 2014, acordándose la indemnización con sus propietarios GARY OLMOS MUÑOZ Y OTROS, en la cantidad de $941.586.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
