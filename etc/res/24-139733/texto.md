@@ -12,7 +12,7 @@ R e s u e l v o:
 
 #### Artículo 59 bis
 
-del D.S. Nº 212/92, mediante el cual todo servicio interurbano de transporte de pasajeros con recorridos de más de cinco horas de duración tiene la obligación de confeccionar un listado con la nómina de pasajeros que transporta, será el denominado "Nómina de Pasajeros" y deberá ser llenado a través de una planilla digital, que se incluye como anexo a esta resolución y que se entiende formar parte de ella.
+del D.S. Nº 212/92, mediante el cual todo servicio interurbano de transporte de pasajeros con recorridos de más de cinco horas de duración tiene la obligación de confeccionar un listado con la nómina de pasajeros que transporta, será el denominado "Nómina de Pasajeros" y deberá ser llenado a través de una planilla digital o a través de una planilla escrita a mano, que se incluye como anexo a esta resolución y que se entiende formar parte de ella.
 
 2.- El servicio deberá requerir a cada pasajero todos los datos que considera la referida nómina. Si el pasajero se niega a proporcionar uno o más de los datos solicitados el servicio se limitará a consignar en la nómina esta situación.
 
