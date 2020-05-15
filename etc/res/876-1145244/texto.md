@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 876, de 15 de abril de 2020, el Serviu Región de Los Lagos ordenó expropiación lote terreno N° 37 para la ejecución Proyecto "Mejoramiento Avenida Ejército, Tramo Yuraszeck - Seminario, comuna de Puerto Montt", provincia de Llanquihue, Región de Los Lagos, que figura a nombre de Droguett Arriazaga Sonia Hellen, Rol de avalúo según SII N° 7-1, comuna de Puerto Montt, superficie de 180,64 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher G., Enrique Hoelck A. y Raúl Palma L., designados por resolución exenta N° 2.897, de 17 de septiembre de 2019, fijó con fecha 15 de octubre de 2019 el valor provisional de la indemnización en la suma de $335.532.000. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7° del decreto ley N° 2.186.-
+
+Director Serviu Región de Los Lagos.
