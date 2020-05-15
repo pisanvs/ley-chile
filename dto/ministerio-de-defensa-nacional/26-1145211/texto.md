@@ -1,0 +1,5 @@
+CUARTA RENOVACIÓN CON MODIFICACIÓN DE CONCESIÓN MARÍTIMA MAYOR
+
+DS Nº 26, 24 febrero 2020, Ministerio Defensa Nacional otorgó Rodrigo Mauricio Prieto Smythe, chileno, divorciado, factor de comercio, RUT 7.115.389-4 domiciliado Pullehue Nº 46, cuarta renovación con modificación concesión marítima mayor, SIABC Nº 41096, sector playa, playa Reñaca (sector uno), comuna Viña del Mar, provincia y Región de Valparaíso, superficie 267,41 m2, objeto: continuar amparando sector playa destinado explotación comercial con infraestructura y equipos atención público temporada verano; construcción mirador abierto libre acceso público y cúpula cristal transparente destinada cafetería-bar todo el año y faja de playa de 116,45 mts2. instalación jardines y muretes, coordenada inicial vértice "A" latitud 32º58'14,165"S. y longitud 71º32'42,733"O. Antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto Valparaíso.
+
+Visación Capitán de Puerto de Valparaíso, Capitán de Fragata LT, Ricardo Alcaíno Trincado.
