@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 83 de 27 de marzo de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 1, Rol de avalúo 289-61, comuna de Empedrado, superficie 527 m2., para la obra CONSERVACION RED VIAL REGION DEL MAULE (2018-2020), PUENTE SAUZAL, RUTA M-40, COMUNAS DE CAUQUENES Y EMPEDRADO, PROVINCIAS DE CAUQUENES Y TALCA, REGIÓN DEL MAULE. La comisión de peritos, integrada por JHANNE DARIOLETTE MEZA IBAR, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, fijó el valor de tasación con fecha 13 de septiembre de 2018, acordándose la indemnización con su propietario ALEJANDRO ANTONIO CANCINO HORMAZÁBAL, en la cantidad de $3.077.952.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
