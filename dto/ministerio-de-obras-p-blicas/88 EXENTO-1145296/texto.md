@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 88, de 27 de marzo de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 181-C-1, Rol de avalúo 173-97, Comuna de Calbuco, superficie 192 m2., para la obra: MEJORAMIENTO RUTA V-815, TRAMO: BIF. ILQUE - CRUCE RUTA V-85, COMUNAS DE PUERTO MONTT Y CALBUCO, PROVINCIA DE LLANQUIHUE, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por NELSON BERNARDO TURRA TURRA, CHRISTIAN EMIL RAUCH YÁÑEZ y NELSON FABIÁN IGOR FLORES, fijó el valor de tasación con fecha 30 de septiembre de 2016, acordándose la indemnización con su propietaria HERMINIA OYARZÚN VELÁSQUEZ, en la cantidad total de $950.202.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
