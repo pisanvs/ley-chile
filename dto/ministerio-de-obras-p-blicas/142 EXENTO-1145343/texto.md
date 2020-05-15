@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento Nº 142, de 27 de marzo de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 165, Rol de avalúo 2217-905, Comuna de Osorno, superficie 109 m2., para la obra: REPOSICIÓN PAVIMENTO RUTA U-40, SECTOR: OSORNO INTERSECCIÓN RUTA U-52, COMUNA DE OSORNO, SAN JUAN DE LA COSTA, PROVINCIA DE OSORNO, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRÉS ECHEVERRÍA CAMPO y CARMEN PILAR RIOS MARCUELLO, fijó el valor de tasación con fecha 04 de mayo de 2018, acordándose la indemnización con su propietaria LUZ ARLETTE ARAYA SEPÚLVEDA, en la cantidad total de $1.509.315.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
