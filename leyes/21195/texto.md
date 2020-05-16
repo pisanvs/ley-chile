@@ -48,6 +48,10 @@ Además, el infractor deberá restituir las sumas indebidamente percibidas, reaj
 
 El plazo para reclamar por el no otorgamiento del bono a que se refiere esta ley será de un año, contado desde la publicación de esta ley.
 
+#### Artículo 8
+
+El plazo para el cobro del bono será de doce meses contado desde la emisión del pago y se entenderá que se renuncia a éste si no se solicita su cobro dentro del referido plazo.
+
 #### Artículo transitorio
 
 El mayor gasto fiscal que represente la aplicación de esta ley se financiará con cargo a la Partida del Tesoro Público.".

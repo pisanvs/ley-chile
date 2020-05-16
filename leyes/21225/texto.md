@@ -60,6 +60,10 @@ Además, el infractor deberá restituir las sumas indebidamente percibidas, reaj
 
 El plazo para reclamar por el no otorgamiento del bono establecido en esta ley será de un año, contado desde la publicación de ésta.".
 
+#### Artículo 9
+
+El plazo para el cobro del bono será de doce meses contado desde la emisión del pago y se entenderá que se renuncia a éste si no se solicita su cobro dentro del referido plazo.
+
 #### Artículo segundo
 
 Autorízase al Ministro de Hacienda para que, mediante uno o más decretos expedidos bajo la fórmula "Por orden del Presidente de la República", efectúe, durante los doce meses siguientes a la publicación de la presente ley en el Diario Oficial y previo informe favorable de la Comisión para el Mercado Financiero, un aporte extraordinario de capital al Banco del Estado de Chile, por un monto de hasta 500.000.000 de dólares, moneda de los Estados Unidos de América, o su equivalente en moneda nacional, en una o más transferencias. Este aporte se financiará con cargo a activos disponibles en el Tesoro Público, dentro de los cuales se incluyen los recursos provenientes del Fondo de Estabilización Económica y Social.
