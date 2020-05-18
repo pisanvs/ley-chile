@@ -1900,27 +1900,37 @@ de Daños y Necesidades Infraestructura y
 
 Servicios (EDANIS) y la Planilla Única de
 
-Recepción, Entrega y Disponibilidad de Elementos
+Recepción, Entrega y Disponibilidad de
 
-de Socorro (REDES). La Ficha Básica de
+Elementos de Socorro (REDES). Corresponde al
 
-Emergencia (FIBE) es un documento cuya
+Ministerio de Desarrollo Social y Familia, a
 
-administración reside en la Subsecretaría
+través de la Subsecretaría de Servicios Sociales,
 
-de Servicios Sociales del Ministerio de
+la confección y elaboración de la Ficha Básica
 
-Desarrollo Social (MDS), quien coordina su
+de Emergencia (FIBE) y de la Ficha Básica de
 
-aplicación en conjunto con los municipios
+Emergencia Hídrica (FIBEH), aplicable para el
 
-afectados y cuyo análisis es entregado
+déficit hídrico, cuyos formatos y Guías de
 
-periódicamente a la Oficina Nacional de
+Aplicación serán confeccionadas y aprobadas
 
-Emergencia para la toma de decisiones
+mediante acto administrativo, los cuales
 
-asociada a la respuesta a la emergencia.
+deberán ser comunicados a todas las
+
+municipalidades, gobernaciones, intendencias,
+
+la Oficina Nacional de Emergencia o su sucesor
+
+legal, al Ministerio del Interior y
+
+Seguridad Pública, otros ministerios y a
+
+los servicios públicos relacionados.
 
 El propósito de estos instrumentos es normalizar
 
@@ -1963,6 +1973,72 @@ destructivo.
 Los instructivos específicos se incluyen en
 
 Anexo.
+
+Los datos personales recopilados por la
+
+aplicación de la Ficha Básica de Emergencia y
+
+la Ficha Básica de Emergencia Hídrica, serán
+
+administrados por el Ministerio de Desarrollo
+
+Social y Familia, a través de la Subsecretaría
+
+de Servicios Sociales, en calidad de responsable
+
+del registro respectivo. Dicha Subsecretaría
+
+podrá hacer tratamiento de los datos
+
+recopilados, y de las demás bases de datos a
+
+las que acceda respecto de las materias de su
+
+competencia, con la finalidad de levantar
+
+informes de apoyo a la toma de decisiones
+
+sectoriales en cada una de las etapas del ciclo
+
+de manejo del riesgo incluidas las de
+
+rehabilitación y reconstrucción. Los demás
+
+órganos de la Administración del Estado que
+
+cuenten con competencias para la atención de
+
+la emergencia, y siempre que estén legalmente
+
+facultados para ello, podrán acceder a los
+
+datos contenidos en FIBE y en la FIBEH con la
+
+finalidad de apoyar la toma de decisiones en
+
+cada una de las fases del ciclo de manejo del
+
+riesgo, así como también para evaluar la entrega
+
+de bienes y servicios para la atención de la
+
+emergencia. El tratamiento de los datos
+
+personales contenidos en ambas fichas, deberán
+
+ser realizados por los Órganos de la
+
+Administración del Estado que accedan a ellos,
+
+velando por el resguardo de los derechos y
+
+garantías de los titulares de los datos
+
+personales, de conformidad a lo dispuesto en
+
+la ley Nº 19.628, Sobre Protección de la Vida
+
+Privada, y demás normas aplicables.
 
 6. Flujo de Información de Emergencia y el Deber de Informar
 
@@ -2054,49 +2130,35 @@ REDES actualizada, referente a elementos de
 
 socorro.
 
-Las Fichas Básicas de Emergencia, FIBE,
+Tanto la FIBE, la FIBEH como los EDANIS y REDES,
 
-como los informes de daños de
+deben permanecer disponibles y ser utilizados
 
-infraestructura y servicios, EDANIS,
+en la municipalidad respectiva. Copias de estos
 
-que respaldan la información consignada
+documentos, pueden ser requeridas por
 
-en los informes ALFA o DELTA, deben
+autoridades superiores o sectoriales como
 
-permanecer disponibles y ser utilizados
+antecedentes específicos y válidos para
 
-en la municipalidad respectiva. Copia de
+elaborar, por ejemplo, un plan de rehabilitación
 
-estos documentos, pueden ser requeridas
+o reconstrucción a nivel regional. Será la
 
-por autoridades superiores o sectoriales
+municipalidad respectiva quien deberá desplegar
 
-como antecedentes específicos y válidos
+las acciones necesarias para el levantamiento
 
-para elaborar, por ejemplo, un plan de
+de la información a través de la FIBE. En
 
-rehabilitación o reconstrucción a nivel
+aquellas emergencias derivadas por déficit
 
-regional. La Ficha Básica de Emergencia
+hídrico, el municipio deberá aplicar la FIBEH
 
-(FIBE) es un documento cuya administración
+en coordinación con el Ministerio de Desarrollo
 
-reside en la Subsecretaría de Servicios
-
-Sociales del Ministerio de Desarrollo
-
-Social (MDS), quien coordina su aplicación
-
-en conjunto con los municipios afectados
-
-y cuyo análisis es entregado periódicamente
-
-a la Oficina Nacional de Emergencia para la
-
-toma de decisiones asociada a la respuesta
-
-a la emergencia.
+Social y Familia.
 
 7.2. Nivel Provincial
 
@@ -2180,43 +2242,39 @@ ocurrencia de emergencias o desastres en las
 
 respectivas Municipalidades.
 
-Ante la ocurrencia de un evento destructivo
+Ante la ocurrencia de un evento destructivo de
 
-que requiera la conformación de equipos de
+nivel provincial, que requiera la conformación
 
-trabajo a nivel provincial para apoyar la
+de equipos de trabajo a nivel provincial para
 
-gestión de evaluación de daños y necesidades
+apoyar la gestión de evaluación de daños y
 
-en las comunas afectadas, el Director o
+necesidades en las comunas afectadas, el
 
-Encargado Provincial de Protección Civil y
+Director o Encargado Provincial de Protección
 
-Emergencia velará para que estos equipos
+Civil y Emergencia velará para que estos
 
-trabajen coordinadamente con las municipalidades
+equipos trabajen coordinadamente con las
 
-y ocupen los formatos FIBE y EDANIS, incluidos
+municipalidades y ocupen los formatos FIBE o
 
-en el presente manual. La Ficha Básica de
+FIBEH, según corresponda. Será la municipalidad
 
-Emergencia (FIBE) es un documento cuya
+respectiva quien deberá desplegar las acciones
 
-administración reside en la Subsecretaría de
+necesarias para el levantamiento de la
 
-Servicios Sociales del Ministerio de Desarrollo
+información a través de dichos formularios. En
 
-Social (MDS), quien coordina su aplicación en
+aquellas emergencias derivadas por el déficit
 
-conjunto con los municipios afectados y cuyo
+hídrico, el municipio deberá aplicar la FIBEH
 
-análisis es entregado periódicamente a la
+en coordinación con el Ministerio de Desarrollo
 
-Oficina Nacional de Emergencia para la toma
-
-de decisiones asociada a la respuesta a la
-
-emergencia
+Social y Familia.
 
 7.3. Nivel Regional
 
@@ -2296,45 +2354,35 @@ satisfacer necesidades de información a la
 
 opinión pública.
 
-Ante la ocurrencia de un evento destructivo
+Ante la ocurrencia de un evento destructivo de
 
-que requiera la conformación de Equipos de
+nivel regional, que requiera la conformación de
 
-Trabajo a nivel regional para apoyar la
+equipos de trabajo a nivel regional para apoyar
 
-gestión de evaluación de daños y necesidades
+la gestión de evaluación de daños y necesidades
 
 en las comunas afectadas, el Director Regional
 
 de Protección Civil y Emergencia en conjunto
 
-con el SEREMI de Desarrollo Social velará
+con el Secretario Regional Ministerial de
 
-para que estos equipos trabajen coordinadamente
+Desarrollo Social y Familia velará para que
 
-con las municipalidades y ocupen los formatos
+estos equipos trabajen coordinadamente con las
 
-FIBE y EDANIS, incluidos en el presente
+municipalidades y apliquen la FIBE o FIBEH y
 
-manual. La Ficha Básica de Emergencia (FIBE)
+EDANIS, según corresponda. En aquellas
 
-es un documento cuya administración reside
+emergencias derivadas por el déficit hídrico,
 
-en la Subsecretaría de Servicios Sociales
+el municipio deberá aplicar la FIBEH en
 
-del Ministerio de Desarrollo Social (MDS),
+coordinación con el Ministerio de Desarrollo
 
-quien coordina su aplicación en conjunto
-
-con los municipios afectados y cuyo análisis
-
-es entregado periódicamente a la Oficina
-
-Nacional de Emergencia para la toma de
-
-decisiones asociada a la respuesta a la
-
-emergencia.
+Social y Familia.
 
 La siguiente figura resume el flujo de
 
@@ -2352,11 +2400,9 @@ ANEXOS
 
 3. FORMATO E INSTRUCTIVO INFORME DE EMERGENCIA GRAVE O DESASTRE: INFORME DELTA
 
-4. FORMATO Y GUIA PARA EL USO DE LA FICHA BASICA DE EMERGENCIA: FICHA FIBE
+4. FORMATO Y GUIA PARA EL USO DEL INFORME UNICO DE EVALUACION DE DAÑOS Y NECESIDADES INFRAESTRUCTURA Y SERVICIOS: INFORME EDANIS
 
-5. FORMATO Y GUIA PARA EL USO DEL INFORME UNICO DE EVALUACION DE DAÑOS Y NECESIDADES INFRAESTRUCTURA Y SERVICIOS: INFORME EDANIS
-
-6. FORMATO Y GUIA PARA EL USO DE LA PLANILLA UNICA DE RECEPCION, ENTREGA Y DISPONIBILIDAD DE ELEMENTOS DE SOCORRO: PLANILLA REDES
+5. FORMATO Y GUIA PARA EL USO DE LA PLANILLA UNICA DE RECEPCION, ENTREGA Y DISPONIBILIDAD DE ELEMENTOS DE SOCORRO: PLANILLA REDES
 
 Plan DEDO$
 
