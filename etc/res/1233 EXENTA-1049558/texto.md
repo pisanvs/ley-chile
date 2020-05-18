@@ -34,7 +34,7 @@ i. Que, en el caso de contener harina de carne y
 
 hueso de origen rumiante, dicho ingrediente es
 
-originario de un pa�s libre de Scrapie y que es
+originario de un país libre de Scrapie y que es
 
 reconocido por la OIE como de riesgo
 
@@ -120,9 +120,7 @@ inferior a m.
 
 Estos resultados deben indicarse en el
 
-certificado sanitario oficial, o bien adjuntarse
-
-en los protocolos correspondientes.
+certificado sanitario oficial.
 
 vi. En el caso de contener ingredientes de origen
 
@@ -182,31 +180,49 @@ a cuero bovino, en cuyo caso deberán cumplir con
 
 los puntos iv y vi de la letra c.
 
-ii. Que en su preparación han sido sometidos a una
+ii. En el caso de productos de origen porcino, que
 
-temperatura tal que permita alcanzar los 90ºC en
+en su preparación han sido sometidos a una
 
-el centro del producto; o bien a algún otro
+temperatura mínima de 90º C durante, por lo
 
-tratamiento que dé garantías de que no
+menos, 60 minutos; o bien a una temperatura
 
-constituye un riesgo sanitario, el cual deberá
+mínima de 121° C durante, por lo menos, 10
 
-ser evaluado por el Servicio.
+minutos a una presión absoluta de 3 bares;
 
-iii. Que cada partida de producción ha sido sometida
+o bien a algún otro tratamiento que haya
 
-a análisis microbiológico para detección de
+demostrado ser efectivo en la destrucción de los
 
-Salmonella, el cual debe dar como resultado la
+agentes etiológicos de la PPA y PPC, el
 
-ausencia en 25 gr. (n=5, c=0, m=0, M=0). Dicho
+cual deberá ser evaluado por el Servicio. En
 
-resultado debe indicarse en el certificado
+el caso de productos originados a partir de
 
-sanitario oficial, o bien adjuntarse en los
+otras especies animales, que en su preparación
 
-protocolos correspondientes.
+han sido sometidos a una temperatura tal que
+
+permita alcanzar los 90ºC en el centro del
+
+producto; o bien a algún otro tratamiento que
+
+dé garantías de que no constituye un riesgo
+
+sanitario, el cual deberá ser evaluado por el
+
+Servicio.
+
+iii. Que, cada partida de producción ha sido sometida
+
+a análisis microbiológico, el cual debe cumplir
+
+con al menos los niveles señalados en el resuelvo
+
+2.c.v.
 
 f. Los alimentos completos o suplementos que no contienen ingredientes de origen animal, deberán cumplir con los niveles de micotoxinas según la normativa vigente. Además, los productos que contengan semillas, deberán cumplir con las exigencias sanitarias vigentes para especies agrícolas.
 
