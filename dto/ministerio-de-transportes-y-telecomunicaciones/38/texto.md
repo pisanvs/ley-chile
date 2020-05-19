@@ -38,9 +38,9 @@ Mientras los niños se encuentren descendiendo o subiendo al vehículo, se deber
 
 El transporte escolar no podrá realizarse en un tiempo de viaje superior a una hora, desde la casa o domicilio del escolar y el colegio o viceversa, sin perjuicio que pueda retrasarse debido a las condiciones especiales de vialidad y niveles de tránsito vehicular, o por razones de fuerza mayor o caso fortuito, situaciones que deberán ser informadas a los padres o apoderados.
 
-#### Artículo 6°
+#### Artículo 6º
 
-Cuando ocasionalmente se realice transporte de escolares en viajes especiales de carácter interurbano, deberá efectuarse en vehículos que cumplan con las normas del Art. 10 del presente decreto, y contar con la presencia de un adulto acompañante por cada diez niños transportados o fracción de diez. Para estos efectos, se entenderá por "transporte interurbano" el que corresponde al concepto definido para servicios interurbanos de transporte público de pasajeros en el artículo 6°, letra c), del D.S. N° 212/92, del Ministerio de Transportes y Telecomunicaciones.
+Los vehículos inscritos en el Registro Nacional de Servicios de Transporte Remunerado de Escolares podrán, excepcionalmente, efectuar transporte privado remunerado de pasajeros, durante los períodos de vacaciones escolares o suspensión de clases, siempre que no se afecte la correcta y oportuna prestación del servicio de transporte escolar al que se encuentren adscritos los vehículos y que den cumplimiento a la normativa establecida en el decreto supremo Nº 80, de 2004 del Ministerio de Transportes y Telecomunicaciones. Los períodos de vacaciones escolares o de suspensión de clases, serán aquellos definidos, por el Ministerio de Educación, el Ministerio de Salud o la autoridad que corresponda, según las materias de su competencia.
 
 #### Artículo 7°
 
@@ -138,19 +138,9 @@ La antigüedad se calculará restando al año en que se realiza el cómputo, el 
 
 #### Artículo 11°
 
-Para los vehículos destinados a servicios de transporte escolar con anterioridad a la publicación del presente decreto, las disposiciones del artículo 10° entrarán en vigencia el 1° de marzo de 1994 si su antiguedad es de 10 o más años y, para los de menor antiguedad, desde el 1° de enero del año en que cumplan con ésta. Los vehículos que se incorporen a estos servicios con posterioridad deberán cumplir con las disposiciones del artículo 10°.
-
-En ciudades o localidades de menos de 50.000 habitantes, con vías sin factores especiales de riesgo, el Secretario Regional Ministerial de Transportes y Telecomunicaciones competente podrá, por resolución, previo informe de Carabineros y de la Municipalidad respectiva, eximir de los requisitos de las letras a) y b) y del ancho mínimo de pasillo del artículo 10° a los vehículos de transporte escolar citados primeramente en el inciso anterior.
-
-La norma del inciso segundo del artículo 3° se hará exigible a partir del 1° de marzo de 1994 para la generalidad de los vehículos de transporte escolar.
-
-El requisito de la letra a) del artículo 9°, en lo que se refiere al cumplimiento de la norma chilena indicada, se hará exigible a contar del 01 de marzo de 1994 para los vehículos destinados a transporte escolar con anterioridad al 01 de octubre de 1992. Para los que se incorporen a los servicios de transporte escolar posteriormente, dicho requisito regirá desde su incorporación.
-
-#### Artículo 12°
-
 Derógase el decreto N° 129-86, del Ministerio de Transportes y Telecomunicaciones, publicado en el Diario Oficial del 27 de octubre de 1986.
 
-#### Artículo 13°
+#### Artículo 12°
 
 Los vehículos que presten servicios de transporte remunerado de escolares, podrán exhibir en el exterior de su carrocería avisos publicitarios, los que deberán inscribirse exclusivamente sobre su costado izquierdo o derecho o ambos, dentro de un rectángulo imaginario de dimensiones máximas de 80 centímentros de ancho y 60 centímetros de alto, localizado en la parte central del respectivo costado y bajo los bordes inferiores de las ventanas. Los avisos sólo podrán ser de material flexible adhesivo o pintarse sobre la carrocería en el área señalada, estando expresamente prohibido el uso de elementos rígidos de tipo metálico, plástico, maderas u otros, adosados a ella. No se admitirán publicitar productos tales como bebidas alcohólicas, cigarrillos, o cualquier otro producto o servicio dirigido sólo a mayores de edad, con excepción de productos o servicios financieros, y de mantención, accesorios o repuestos de vehículos.
 

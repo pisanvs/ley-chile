@@ -48,11 +48,7 @@ El servicio de transporte de turistas deberá ser prestado directamente por un o
 
 #### Artículo 4º
 
-Los vehículos inscritos en el Registro Nacional de Transporte Escolar, podrán excepcionalmente efectuar sólo durante los períodos de vacaciones escolares transporte privado remunerado de pasajeros, previo otorgamiento de la correspondiente autorización especial a que se refiere el artículo 8º del presente reglamento, la que sólo procederá una vez que se acredite el cumplimiento de las exigencias establecidas en el presente reglamento y siempre que no se afecte la correcta y oportuna prestación del servicio de transporte escolar al que se encuentra adscrito el vehículo. La referida autorización especial deberá ser solicitada por el interesado, con al menos 30 días corridos de anticipación a la fecha en que desee comenzar a prestar el servicio de transporte privado remunerado de pasajeros, además de consignar en la solicitud correspondiente, la fecha de inicio y término del período, el cual podrá tener como máximo 60 días corridos continuos. En caso que la fecha de inicio del período, fuera anterior al vencimiento de los treinta días antes indicados, la autorización tendrá como fecha de inicio, aquella que resulte de agregar 30 días corridos a la fecha de presentación de la solicitud
-
-Los períodos de vacaciones escolares, quedarán definidos, según la normativa del Ministerio de Educación que rija en la materia.
-
-La referida autorización especial, regirá por el plazo de un año, contado desde su otorgamiento, para los períodos de vacaciones escolares correspondientes. Dentro de dichos períodos que, para los efectos de esta autorización, no excederán de 100 días corridos, debiendo considerarse en forma continua los meses de enero y febrero de cada año, en tanto, los períodos de vacaciones escolares que se encuentren comprendidos entre los meses de marzo a diciembre de cada año, no podrán exceder en su conjunto el plazo máximo de 40 días corridos. En todo caso el plazo de un año de la autorización especial, quedará condicionado a la vigencia del seguro a que se refiere el artículo 23 del presente reglamento, autorización que podrá ser solicitada por el empresario de transporte remunerado de escolares a la Secretaría Regional respectiva en cualquier mes del año.
+Los vehículos inscritos en el Registro Nacional de Servicios de Transporte Remunerado de Escolares podrán, excepcionalmente, realizar servicios de transporte privado remunerado de pasajeros, siempre que cumplan con la normativa establecida en el presente decreto, en el decreto supremo Nº 38, de 1992, del Ministerio de Transportes y Telecomunicaciones, o aquél que lo reemplace, que esta actividad se realice durante los períodos de vacaciones escolares o suspensión de clases, y que no se afecte la correcta y oportuna prestación del servicio de transporte escolar al que se encuentren adscritos los vehículos. Los períodos de vacaciones escolares o de suspensión de clases, serán aquellos definidos por el Ministerio de Educación, el Ministerio de Salud o la autoridad que corresponda, según las materias de su competencia.
 
 #### Artículo 5º
 
@@ -70,15 +66,11 @@ Para prestar servicios de transporte privado remunerado de pasajeros, el interes
 
 En el caso de servicios rurales e interurbanos cuyo recorrido exceda los límites de una región, los interesados deberán presentar la respectiva solicitud ante la Secretaría Regional correspondiente al domicilio del solicitante.
 
-La autorización especial a que se refiere el artículo siguiente deberá ser solicitada ante la Secretaria Regional donde se encuentra inscrito el respectivo servicio o vehículo, según corresponda.
-
 Las Secretarías Regionales podrán otorgar autorizaciones provisorias, tratándose de la incorporación a un servicio de un vehículo nuevo o de un vehículo recientemente adquirido. Esto podrá otorgarse sólo respecto de solicitudes para autorizaciones generales y tendrán una vigencia de 30 días corridos, contados desde la fecha en que se practiquen, prorrogables por 30 días más, las que caducarán sin más trámite, al vencimiento del plazo o al otorgarse la autorización general definitiva, cualquiera de las dos circunstancias que ocurra primero.
 
 #### Artículo 8º
 
-Las autorizaciones que se otorguen podrán tener carácter general o especial. Las autorizaciones especiales se otorgarán respecto de vehículos inscritos en el registro a que se refiere el artículo 4º de este reglamento y habilitarán para la realización de transporte privado remunerado de pasajeros durante los períodos de vacaciones escolares.
-
-INCISO SEGUNDO DEROGADO.
+Las autorizaciones que se otorguen en el marco del presente decreto sólo tendrán el carácter de general, pudiendo diferenciar entre los distintos tipos de servicios que se regulan.
 
 #### Artículo 9º
 
@@ -110,7 +102,7 @@ Nombre, domicilio y licencia que lo autorice para conducir el vehículo que corr
 
 a) Tipo de servicio que se prestará: urbano, rural, interurbano o de turismo.
 
-b) Tipo de solicitud presentada, según sea de carácter general o especial.
+b) Tipo de solicitud presentada.
 
 #### Artículo 10º
 
@@ -128,7 +120,7 @@ Una vez dictada la resolución de autorización a que se refieren los artículos
 
 3. Tipo de servicio que presta;
 
-4. Carácter general o especial de la autorización, indicando período de vigencia, y
+4. El período de vigencia de la autorización, y
 
 5. Fecha de otorgamiento de la autorización.
 
@@ -202,7 +194,7 @@ En todo caso, esta antigüedad no se aplicará a los vehículos señalados en el
 
 b) Contar con ventanas a ambos costados del vehículo y todos los vidrios deberán permitir una perfecta visibilidad desde y hacia el interior del vehículo. El requisito consistente en contar con ventanas a ambos costados, no será exigible a los vehículos anfibios definidos en el artículo precedente.
 
-c) En el caso de servicios interurbanos, los vehículos deberán contar, además, con un tacógrafo que registre, a lo menos, las variaciones de velocidad entre 0 y 120 km/h, el tiempo de marcha y detención y la distancia recorrida. Dichas funciones podrán ser efectuadas por equipos electrónicos de registro, los que deberán cumplir con las exigencias establecidas en la resolución Nº 137, de 1997, del Ministerio de Transportes y Telecomunicaciones. El responsable del servicio deberá mantener en su poder, por un plazo mínimo de 60 días, los documentos registradores o los archivos computacionales con la información recolectada del vehículo, los que deberán estar a disposición de Carabineros e inspectores municipales y fiscales. Este requisito no será aplicable a los vehículos señalados en los incisos segundo, tercero y cuarto del artículo 16º, ni a los vehículos inscritos en el Registro Nacional de Transporte Escolar, que presten servicios de transporte privado remunerado de pasajeros con la correspondiente autorización especial.
+c) En el caso de servicios interurbanos, los vehículos deberán contar, además, con un tacógrafo que registre, a lo menos, las variaciones de velocidad entre 0 y 120 km/h, el tiempo de marcha y detención y la distancia recorrida. Dichas funciones podrán ser efectuadas por equipos electrónicos de registro, los que deberán cumplir con las exigencias establecidas en la resolución Nº 137, de 1997, del Ministerio de Transportes y Telecomunicaciones. El responsable del servicio deberá mantener en su poder, por un plazo mínimo de 60 días, los documentos registradores o los archivos computacionales con la información recolectada del vehículo, los que deberán estar a disposición de Carabineros e inspectores municipales y fiscales. Este requisito no será aplicable a los vehículos señalados en los incisos segundo, tercero y cuarto del artículo 16º.
 
 d) DEROGADA.
 
@@ -240,7 +232,7 @@ Los conductores de vehículos destinados al transporte privado remunerado de pas
 
 #### Artículo 23º
 
-El responsable del servicio de transporte privado remunerado de pasajeros estará obligado a cumplir lo descrito en la ley Nº 16.744, que establece normas sobre accidentes del trabajo y enfermedades profesionales, además de contratar directa o indirectamente y mantener vigente en todo momento, un seguro para el personal de conducción, para cubrir los riesgos por los montos mínimos de cobertura que se definen a continuación:
+El responsable del servicio de transporte privado remunerado de pasajeros estará obligado a contratar directa o indirectamente y mantener vigente en todo momento, un seguro para el o los conductores del servicio, para cubrir los riesgos por los montos mínimos de cobertura que se definen a continuación:
 
 Causa Monto
 
@@ -296,11 +288,9 @@ c) Haber obtenido la autorización mediante presentación de documentación inex
 
 d) Por acumulación de tres suspensiones en un año, o cinco en dos años, contados desde la primera suspensión;
 
-e) Por prestarse el transporte privado remunerado de pasajeros con la autorización especial a que se refiere el artículo 4º de este reglamento, fuera de los períodos de vacaciones escolares.
+e) Eliminado.
 
 Una vez revocada la autorización, por las situaciones señaladas en las letras a) a la d) anteriores,la persona responsable del servicio no podrá solicitar autorización alguna para efectuar transporte privado remunerado, antes de dos años contados desde la fecha de su revocación, sin perjuicio de lo que en definitiva resuelvan los tribunales competentes.
-
-Si procediere la revocación por la situación señalada en la letra e) anterior, el empresario de transporte remunerado de escolares, no podrá solicitar nuevamente dicha autorización especial, sino transcurrido un año desde que se encuentre firme la resolución que dispuso dicha revocación.
 
 #### Artículo 30º
 
