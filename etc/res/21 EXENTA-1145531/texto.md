@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 21 EXENTA, DE 2020
+
+Mediante resolución exenta Nº 21, de fecha 29-04-2020, de esta Secretaría Regional, se aprobaron los planes y programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores "Milenium Capacita Limitada", de propiedad de la sociedad del mismo nombre, RUT Nº 76.990.592-8, cuyo representante legal es doña Carolina Andrea Daza Yáñez. La Escuela de Conductores tendrá como Director a don Dámaso Guzmán Sepúlveda, y su sede estará ubicada en calle Balmaceda Nº 135, de la ciudad y comuna de San Carlos, Región de Ñuble. Las horas pedagógicas autorizadas a la referida Escuela son 12 teóricas y 13 prácticas, con un total de 25 horas pedagógicas.-
+
+Bárbara Kopplin Lanata, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Ñuble.
