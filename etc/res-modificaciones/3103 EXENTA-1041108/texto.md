@@ -312,7 +312,7 @@ Especialmente se verificará dicho cumplimiento durante el proceso de recepción
 
 Para efectos de lo antes señalado, los órganos de la Administración del Estado, particularmente aquellos que deban evacuar autorizaciones que digan relación con la instalación de antenas o que tengan alguna participación en ello, prestarán toda la colaboración que sea necesaria para el adecuado cumplimiento de las funciones de fiscalización derivadas de la presente norma, informando a la Subsecretaría de cualquier anomalía que detecten en el ejercicio de sus funciones.
 
-Disposición Transitoria: El primer informe de medición, a que se refiere el artículo 5º de la presente norma, deberá remitirse a la Subsecretaría por las concesionarias de Radiodifusión Sonora incluyendo todas las antenas ubicadas en localidades urbanas y rurales y para las antenas de las concesionarias de Radiodifusión Televisiva ubicadas en localidades rurales, en el mes de julio de 2015.
+Disposición Transitoria: El informe de medición correspondiente al año 2020, a que se refiere el artículo 5º de la presente norma, deberá remitirse a la Subsecretaria de Telecomunicaciones por las concesionarias de servicio público de telefonía, de transmisión de datos y servicios públicos del mismo tipo, con las mediciones de cada una de las antenas en operación, que contenga las actualizaciones de las mediciones correspondientes a las nuevas antenas instaladas o modificadas en los últimos 12 meses anteriores a marzo de cada año, el plazo para remitir dicho informe será el mes de septiembre de 2020.
 
 Anótese, regístrese y publíquese en el Diario Oficial.- Jorge Atton Palma, Subsecretario de Telecomunicaciones.
 
