@@ -20,7 +20,7 @@ Decreto:
 
 Introdúzcanse las siguientes modificaciones al decreto supremo N°1.383, de 2006, modificado por el decreto supremo N°1.618, de 2012, ambos del Ministerio de Hacienda, que delega la representación de Fisco para la inversión de los recursos fiscales que indica, designa al Banco Central de Chile en carácter de Agente Fiscal y modifica el decreto supremo N°1.009, de 1978, del Ministerio de Hacienda:
 
-1. Agrégase en el inciso primero del artículo 12, luego de la frase "del Fondo de Estabilización Económico y Social", lo siguiente: ", del Fondo de Contingencia Estratégico".
+1. Agrégase en el inciso primero del artículo 1, luego de la frase "del Fondo de Estabilización Económico y Social", lo siguiente: ", del Fondo de Contingencia Estratégico".
 
 2. Reemplázase en la letra a) del artículo 4°, la frase "conforme a lo señalado en el decreto que regule la licitación respectiva y a las Directrices de Ejecución que se impartan conforme a éste" por la siguiente: "conforme a lo señalado en el presente decreto y a las Directrices de Ejecución que se impartan para estos efectos".
 
