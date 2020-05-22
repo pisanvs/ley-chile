@@ -1,0 +1,5 @@
+EXTRACTO
+
+Claudia Teresa Sandoval Gallegos, en su calidad de Secretaria Municipal (S) de la Ilustre Municipalidad de Maipú, a través del decreto alcaldicio Nº 3.360 DAP, de fecha 30 de diciembre de 2019, con domicilio en Avda. Primera Transversal Nº 1940, primer piso, certifica: que por decreto alcaldicio Nº 3.526, de fecha 3 de septiembre de 2019, se otorgó un plazo de cuarenta y cinco días hábiles a la Sociedad Inversiones Cordillera SpA, Rol Único Tributario Nº 76.677.914-k, en su calidad de dueña, para proceder a la limpieza y cierre perimetral del inmueble ubicado en avenida Santa Elena Nº 675, correspondiente al lote Nº 5 de la división de la Parcela Nº 3, de la Hijuela Nº 2 del Fundo Lo Espejo del Carmen, comuna de Maipú; en virtud del artículo 2.5.1, de la Ordenanza de la Ley General de Urbanismo y Construcciones; y el artículo 58 bis, del decreto ley Nº 3.063, Sobre Rentas Municipales; bajo el apercibimiento legal de ser declarada como propiedad abandonada.-
+
+Claudia Teresa Sandoval Gallegos, Secretaria Municipal (S).
