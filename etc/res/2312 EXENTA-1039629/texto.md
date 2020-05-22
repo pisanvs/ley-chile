@@ -16,11 +16,13 @@ Establécense los siguientes requisitos fitosanitarios de importación para vare
 
 1.1. El material procede de un programa de producción
 
-bajo certificación oficial o de Viveros o Centros
+bajo certificación oficial o de Viveros o
 
-Repositorios de germoplasma, que se encuentren
+Centros Repositorios de germoplasma,
 
-bajo el control del Organismo Fitosanitario
+que se encuentren bajo el control
+
+del Organismo Fitosanitario
 
 Oficial del país de origen (DGSA).
 
@@ -28,13 +30,13 @@ Oficial del país de origen (DGSA).
 
 inmersión con insecticidas para el control de
 
-Thaumastocoris peregrinus (Hem.: Thaumastocoridae)
+Ctenarytaina spatulata (Hem.: syllidae), el que
 
-y Ctenarytaina spatulata (Hem.: Psyllidae), el que
+debe estar señalado en la sección
 
-debe estar señalado en la sección correspondiente
+correspondiente a tratamiento del
 
-a tratamiento del Certificado Fitosanitario,
+Certificado Fitosanitario,
 
 indicando el producto y dosis utilizadas.
 
@@ -56,21 +58,27 @@ fimbriata y Quambalaria eucalypti.
 
 . Embalados en envases nuevos de primer uso,
 
-cerrados, resistentes a la manipulación, factibles
+cerrados, resistentes a la manipulación,
 
-de sellar y etiquetados o rotulados de acuerdo a
+factibles de sellar y etiquetados o
 
-normativa vigente.
+rotulados de acuerdo a normativa
 
-. Los materiales de acondicionamiento destinados a
+vigente.
 
-amortiguar o conservar la humedad deben
+. Los materiales de acondicionamiento
 
-corresponder a materiales tales como turba, musgo
+destinados a amortiguar o conservar
 
-esfangíneo, vermiculita, perlita o geles
+la humedad deben corresponder
 
-higroscópicos, de acuerdo a normativa vigente.
+a materiales tales como turba,
+
+musgo esfangíneo, vermiculita,
+
+perlita o geles higroscópicos,
+
+de acuerdo a normativa vigente.
 
 3. Cada partida será inspeccionada por el Servicio en el puerto de ingreso para la verificación física y documental de los requisitos fitosanitarios establecidos. Si durante la inspección se detectan plagas distintas a las mencionadas en esta resolución, se evaluará mediante un Análisis de Riesgo de Plagas (ARP), si las mismas cumplen con el criterio de Plaga Reglamentada, aplicándose las medidas fitosanitarias de manejo del riesgo, acordes con el riesgo identificado.
 

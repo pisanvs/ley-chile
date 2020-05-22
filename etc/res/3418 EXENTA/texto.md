@@ -266,11 +266,9 @@ libre de Merodon equestris
 
 y Ditylenchus dipsaci.
 
-Gladiolus spp. (excepto La partida se encuentra
+Gladiolus spp. (excepto
 
-Gladiolus segetum) libre de Uromyces
-
-tranversalis.
+Gladiolus segetum)
 
 Hemerocallis spp. La partida se encuentra
 
