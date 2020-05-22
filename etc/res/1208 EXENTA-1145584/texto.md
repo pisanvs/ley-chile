@@ -1,0 +1,7 @@
+DISPONE SUSPENSIÓN DE LA OBLIGACIÓN DEL USO DE CÁMARAS EN EL SECTOR ARTESANAL POR CAUSA DE FUERZA MAYOR DERIVADA DE LA PANDEMIA DEL CORONAVIRUS COVID-19
+
+Por resolución exenta N° 1.208, de 5 de mayo de 2020, de esta Subsecretaría, se dispone la suspensión durante la vigencia del estado de excepción constitucional, de catástrofe por calamidad pública, declarado el 18 de marzo de 2020, por decreto supremo N° 104, de dicha fecha, del Ministerio del Interior y Seguridad Pública, y el tiempo en que este sea prorrogado, si es el caso, las obligaciones contenidas en los artículos 64 I y 64 J, de la Ley General de Pesca y Acuicultura, así como aquellas establecidas en el DS N° 76, de 2017, del Ministerio de Economía, Fomento y Turismo, que aprueba Reglamento del dispositivo de registro de imágenes para detectar y registrar descarte, únicamente respecto de los armadores de embarcaciones artesanales de una eslora igual o superior a 15 metros, y de los patrones y tripulaciones de dichas embarcaciones artesanales.
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 5 de mayo de 2020.- Román Zelaya Ríos, Subsecretario de Pesca y Acuicultura.
