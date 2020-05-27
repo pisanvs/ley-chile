@@ -8,7 +8,7 @@ Lo dispuesto en la ley Nº 10.262 del Ministerio del Interior, que faculta al Pr
 
 Decreto:
 
-1.- Autorízase a la entidad denominada "Voluntarias de Hospital Damas de Rojo", para realizar una colecta pública en todas las regiones del país, el día 27 de marzo del año 2020.
+1.- Autorízase a la entidad denominada "Voluntarias de Hospital Damas de Rojo", para realizar una colecta pública en todas las regiones del país, el día viernes 4 de diciembre de 2020.
 
 2.- Las utilidades que se generen producto de esta colecta, serán destinadas a la compra de pijamas, útiles de aseo, zapatillas de levantarse, medicamentos, recetas, exámenes, pañales infantiles y de adultos, sillas de ruedas, camillas, baños especiales individuales, desayunos, las que son entregadas gratuitamente a las personas que se encuentran hospitalizadas, y carecen de recursos económicos.
 
