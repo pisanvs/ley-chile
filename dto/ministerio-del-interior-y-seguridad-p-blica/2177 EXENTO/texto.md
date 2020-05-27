@@ -8,7 +8,7 @@ Lo dispuesto en la ley N° 10.262, del Ministerio del Interior, que faculta al P
 
 Decreto:
 
-1.- Autorízase a la entidad denominada "Corporación Nacional del Cáncer", para realizar una colecta pública en todo el territorio nacional, el día viernes 3 de abril de 2020.
+1.- Autorízase a la entidad denominada "Corporación Nacional del Cáncer", para realizar una colecta pública en todo el territorio nacional, el día viernes 18 de diciembre de 2020.
 
 2.- Las utilidades, producto de esta colecta, serán destinadas a financiar medicamentos, pañales, oxígeno y personal contratado para las casas de acogida a nivel nacional, como también, tratamientos de quimioterapia de protocolos no cubiertos por la reforma de salud.
 
