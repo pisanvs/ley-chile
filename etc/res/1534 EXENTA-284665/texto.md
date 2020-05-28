@@ -1422,4 +1422,112 @@ emergencia, por ejemplo,
 
 de Carabineros de Chile.
 
+1481 Fono Emergencia La recepción de llamadas
+
+La Cisterna atendidas por un operador
+
+(a) de la Dirección de
+
+Seguridad Pública de la
+
+Ilustre Municipalidad de
+
+La Cisterna, respecto de
+
+situaciones de seguridad
+
+y/o emergencia ciudadana
+
+que ocurran en dicha
+
+comuna. De esta manera se
+
+efectuará la coordinación
+
+con los organismos de
+
+emergencia respectivos,
+
+pudiendo gestionar el
+
+envío oportuno de un
+
+móvil hacia el lugar de
+
+la emergencia, en caso
+
+de ser necesario, o
+
+bien facilitando la
+
+labor de otros organismos
+
+de emergencia, por
+
+ejemplo de Carabineros
+
+de Chile, Bomberos y/o
+
+ambulancias.
+
+1482 Fono Emergencia Las llamadas serán
+
+Licantén recepcionadas en la
+
+oficina de Seguridad,
+
+Emergencia y Prevención
+
+(SEP) de la Ilustre
+
+Municipalidad de Licantén,
+
+respecto de situaciones
+
+de emergencias y seguridad
+
+ciudadana que ocurran en
+
+dicha comuna. De esta
+
+manera, las llamadas serán
+
+canalizadas por medio del
+
+despliegue territorial al
+
+lugar de la emergencia,
+
+siendo éstas de diversa
+
+índole: por ejemplo
+
+accidentes de tránsito,
+
+emergencias en el espacio
+
+público, incendios y
+
+catástrofes naturales. Además
+
+se coordinará con otros
+
+organismos de emergencia
+
+para la atención de
+
+éstas. Asimismo, se recibirán
+
+denuncias de víctimas de
+
+delitos, actividades
+
+irregulares en espacio
+
+público, problemáticas de
+
+convivencia vecinal y
+
+comunitaria.
+
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
