@@ -1512,9 +1512,11 @@ b) Características de la edificación existente con su volumetría, coeficiente
 
 c) Usos de suelo existentes.
 
-2. Memoria explicativa, que contenga los fundamentos de la proposición.
+d) Los aspectos urbanísticos relevantes del entorno con el objeto de apreciar su contexto urbano.
 
-3. Ordenanza del Plan, en la que se determinen las nuevas características de la zona, entre ellas el aspecto urbanístico de los usos de suelo, trazados viales, densidades, líneas de edificación, sistemas de agrupamiento, coeficientes y alturas de edificación.
+2. Memoria explicativa, que contenga los fundamentos de la proposición, la que deberá sustentarse en el catastro de la situación existente en la zona y los aspectos urbanísticos relevantes del entorno, debiendo justificar la necesidad de reformar la planificación y de fundamentar las nuevas características que se proponen en ella considerando su contexto urbano. La nueva realidad urbanística deberá estar orientada a la revitalización de la zona cuando esta, claramente, no ha alcanzado el objetivo de desarrollo planificado originalmente o, a su mejor aprovechamiento, cuando la situación de contexto dé cuenta, de una manera meridiana, de una subutilización de su potencial urbanístico.
+
+3. Ordenanza del Plan, en la que se determinen las nuevas características de la zona, entre ellas, los nuevos usos de suelo, trazados viales, densidades, líneas de edificación, sistemas de agrupamiento, coeficientes y alturas de edificación.
 
 4. Planos que grafiquen las nuevas condiciones de la zona.
 
