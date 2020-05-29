@@ -22,31 +22,59 @@ Déjanse sin efecto las resoluciones administrativas exentas N°s 1.232, de 2016
 
 #### Artículo segundo
 
-Asígnase para uso del señor Subsecretario de Economía y Empresas de Menor Tamaño, el vehículo que a continuación se individualiza, para el desempeño de las labores propias de su cargo:
+Asígnase para uso del señor Subsecretario de Economía y Empresas de Menor Tamaño, el vehículo que a continuación se individualiza para el desempeño de labores propias de su cargo:
 
-.
+Tipo de Vehículo Sedan
+
+Marca Mazda
+
+Modelo All New Mazda 6 SDN GT 2.5L 6AT
+
+N° de Patente LXFR39-5
+
+N° Chasis JM7GL4S30K1309958
+
+N° Motor PY21251073
+
+Color Plata metalizado
+
+Año 2019
 
 #### Artículo tercero
 
-Asígnanse al vehículo individualizado precedentemente los siguientes conductores:
+Asígnase al vehículo individualizado precedentemente los siguientes conductores:
 
-.
+RUT Nombre
+
+10.837.675-9 Jorge Fuenzalida Berríos
+
+9.902.826-2 Valerio Silva González
+
+15.360.165-8 Mauricio Chanalet Jeria
+
+7.629.680-4 Mario Matamala Molina
+
+12.887.436-4 Henry Toro Palacios
+
+8.122.972-4 Roberto del Carmen Rivera Martínez
+
+Los conductores previamente individualizados rindieron caución, de acuerdo a lo establecido en el artículo 7° del decreto ley N° 799, de 1979, del Ministerio del Interior.
 
 #### Artículo cuarto
 
-El vehículo individualizado en el artículo 2° de esta presente resolución deberá ser guardado, una vez finalizada la jornada de trabajo, en alguno de los siguientes recintos:
+El vehículo individualizado previamente deberá ser guardado, una vez finalizada la jornada de trabajo, en alguno de los siguientes recintos:
 
-a) Estacionamiento institucional, ubicado en Avenida Libertador Bernardo O'Higgins N° 1449, Santiago.
+a) Estacionamiento institucional ubicado en Avenida Libertador Bernardo O'Higgins N° 1449, Santiago.
 
-b) Domicilio conductor Jorge Fuenzalida Berrios, ubicado en calle Curalaba N° 488, Villa Ciudad Jardín, comuna de Maipú, Santiago.
+b) Domicilio conductor Jorge Fuenzalida Berríos ubicado en calle Curalaba N° 0488, villa Ciudad Jardín, Comuna de Maipú, Santiago.
 
-c) Domicilio conductor Valerio Silva González, ubicado en calle Lo Encalada N° 1961, Villa Canadá, comuna de Ñuñoa, Santiago.
+c) Domicilio conductor Valerio Silva González ubicado en calle Lo Encalada N° 1961, villa Canadá, Comuna de Ñuñoa, Santiago.
 
-d) Domicilio conductor Mauricio Chanalet Jeria, ubicado en calle Valenzuela N° 449, comuna de Recoleta, Santiago.
+d) Domicilio conductor Mauricio Chanalet Jeria ubicado en calle Venezuela N° 449, comuna de Recoleta, Santiago.
 
-e) Domicilio conductor Mario Matamala Molina, ubicado en calle Víctor Manuel N° 1442, Santiago.
+e) Domicilio conductor Mario Matamala Molina ubicado en calle Víctor Manuel N° 1442, comuna de Santiago, Santiago.
 
-f) Domicilio conductor Roberto Rivera Martínez, ubicado en Llico N° 399, comuna de San Joaquín, Santiago.
+f) Domicilio conductor Roberto del Carmen Rivera Martínez ubicado en Avenida Llico 399, comuna de San Joaquín, Santiago.
 
 Los conductores podrán estacionar el vehículo en su domicilio solamente cuando se encuentren autorizados por su jefatura directa.
 
@@ -58,11 +86,39 @@ Asimismo, el vehículo en cuestión no se encuentra obligado a llevar el disco d
 
 #### Artículo sexto
 
-Asígnase para el uso de la Unidad de Servicios Generales de la Subsecretaría de Economía y Empresas de Menor Tamaño el vehículo que a continuación se individualiza, para el desempeño de las labores propias de dicha unidad:
+Asígnase para las labores operativas de la Unidad de Servicios Generales de la Subsecretaría de Economía y Empresas de Menor Tamaño, los vehículos que a continuación se singularizan:
 
-VEHÍCULO 2:
+Tipo de Vehículo Minibús
 
-.
+Marca Mercedes Benz
+
+Modelo VITTO 110 CDI
+
+N° de Patente HGCF 65-5
+
+N° Chasis WSF639703E3859090
+
+N° Motor 65194031995229
+
+Color Blanco
+
+Año 2015
+
+Tipo de Vehículo Automóvil
+
+Marca Hyundai
+
+Modelo Azera HG GLS 3.0 AUT
+
+N° de Patente DKDJ 53-K
+
+N° Chasis KMHFH41HBCA050684
+
+N° Motor G6DEBA696164
+
+Color Plateado Gris
+
+Año 2012
 
 #### Artículo séptimo
 
