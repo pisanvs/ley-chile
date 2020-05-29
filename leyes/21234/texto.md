@@ -1,10 +1,18 @@
-LEY NUM. 20.009
+LEY NÚM. 21.234
 
-ESTABLECE UN RÉGIMEN DE LIMITACIÓN DE RESPONSABILIDAD PARA TITULARES O USUARIOS DE TARJETAS DE PAGO Y TRANSACCIONES ELECTRÓNICAS EN CASO DE EXTRAVÍO, HURTO, ROBO O FRAUDE.
+LIMITA LA RESPONSABILIDAD DE LOS TITULARES O USUARIOS DE TARJETAS DE PAGO Y TRANSACCIONES ELECTRÓNICAS EN CASO DE EXTRAVÍO, HURTO, ROBO O FRAUDE
 
-Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente proyecto de ley originado en moción del Honorable senador señor Manuel José Ossandón Irarrázabal y de los ex senadores señora Lily Pérez San Martín y señor Eugenio Tuma Zedán,
 
 Proyecto de ley:
+
+#### Artículo 1°
+
+Modifícase la ley Nº 20.009, que limita la responsabilidad de los usuarios de tarjetas de crédito por operaciones realizadas con tarjetas extraviadas, hurtadas o robadas, de la siguiente forma:
+
+1) Reemplázase la denominación de la ley por la siguiente: "Establece un régimen de limitación de responsabilidad para titulares o usuarios de tarjetas de pago y transacciones electrónicas en caso de extravío, hurto, robo o fraude.".
+
+2) Reemplázanse los artículos 1º al 5º por los siguientes títulos y artículos:
 
 ## Título I
 
@@ -140,14 +148,28 @@ Los emisores deberán bloquear todos aquellos medios de pago que se encuentren i
 
 #### Artículo 11
 
-Las entidades emisoras señaladas en el artículo 1 de la presente ley deberán informar semestralmente, en sus respectivos sitios electrónicos, acerca del número de usuarios afectados por casos cubiertos por el presente cuerpo legal, señalando los montos involucrados y los plazos en que hayan dado respuesta o cumplimiento a sus obligaciones. Además, deberán enviar la información de manera desagregada a la Comisión para el Mercado Financiero.
+Las entidades emisoras señaladas en el artículo 1 de la presente ley deberán informar semestralmente, en sus respectivos sitios electrónicos, acerca del número de usuarios afectados por casos cubiertos por el presente cuerpo legal, señalando los montos involucrados y los plazos en que hayan dado respuesta o cumplimiento a sus obligaciones. Además, deberán enviar la información de manera desagregada a la Comisión para el Mercado Financiero.".
 
-#### Artículo 4º
+#### Artículo 2°
 
-El tarjetahabiente no tendrá responsabilidad por las operaciones realizadas con posterioridad al aviso o noticia entregada al emisor, sin perjuicio de la responsabilidad penal que corresponda.
+Intercálase en la letra a) del inciso primero del artículo 27 de la ley Nº 19.913, entre la expresión "en relación al inciso final del artículo 467 del Código Penal" y la coma que le sigue, lo siguiente: "; el artículo 7 de la ley Nº 20.009".".
 
-Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 
-Santiago, 18 de marzo de 2005.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción.
+Santiago, 20 de mayo de 2020.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Ignacio Briones Rojas, Ministro de Hacienda.- Lucas Palacios Covarrubias, Ministro de Economía, Fomento y Turismo.- Hernán Larraín Fernández, Ministro de Justicia y Derechos Humanos.
 
-Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., María Eugenia Wagner Brizzi, Subsecretaria de Hacienda.
+Lo que transcribo a usted para su conocimiento.- Saluda Atte. a usted, Francisco Moreno Guzmán, Subsecretario de Hacienda.
+
+Tribunal Constitucional
+
+Proyecto de ley que modifica la ley Nº 20.009, que limita la responsabilidad de los usuarios de tarjetas de crédito por operaciones realizadas con tarjetas extraviadas, hurtadas o robadas, en lo relativo a la responsabilidad del usuario y del emisor en casos de uso fraudulento de estos medios de pago, correspondiente al boletín Nº 11.078-03
+
+El Secretario subrogante del Tribunal Constitucional, quien suscribe, certifica que el Honorable Senado envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control de constitucionalidad respecto de su artículo 5, contenido en el numeral 2) del artículo 1º de la iniciativa legal, y por sentencia de 6 de mayo de 2020, en los autos Rol 8640-2020-CPR;
+
+Se declara:
+
+I. Que la disposición prevista en el artículo 5, inciso tercero, segunda parte, contenido en el numeral 2) del artículo 1°, del proyecto de ley remitido, que señala "[...] podrá ejercer ante el Juez de Policía Local todas las acciones que emanan de esta ley, siendo competente aquel que corresponda a la comuna del domicilio del usuario.", es conforme con la Constitución Política.
+
+II. Que este Tribunal Constitucional no emite pronunciamiento en examen preventivo de constitucionalidad, por no versar sobre materias propias de ley orgánica constitucional, de las restantes disposiciones del proyecto de ley.
+
+Santiago, 6 de mayo de 2020.- Sebastián López Magnasco, Secretario (S).
