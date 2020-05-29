@@ -144,7 +144,7 @@ De los Proyectos Definitivos
 
 De los recursos disponibles
 
-25. Los recursos involucrados para la selección de postulantes al presente Llamado, ascienden a un total de 150.000 UF y su distribución regional será la siguiente:
+25. Los recursos involucrados para la selección de postulantes al presente llamado, ascienden a un total de 269.353,52 UF y su distribución regional, será la siguiente:
 
 .
 
