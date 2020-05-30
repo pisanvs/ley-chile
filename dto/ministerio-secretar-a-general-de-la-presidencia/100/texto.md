@@ -2128,11 +2128,15 @@ En ningún caso procederá reasignación alguna respecto de los ciudadanos indep
 
 En el caso de que la ciudadanía elija la opción de Convención Mixta Constitucional en el plebiscito nacional del domingo 25 de octubre del año 2020, serán aplicables las normas de la presente disposición transitoria para la elección de todos los ciudadanos electos por la ciudadanía para dicha Convención Mixta Constitucional.
 
-TRIGÉSIMA SEGUNDA. Por el plazo de un año a contar de la publicación de la presente reforma, la Cámara de Diputados y el Senado podrán funcionar por medios telemáticos una vez declarada una cuarentena sanitaria o un estado de excepción constitucional por calamidad pública que signifique grave riesgo para la salud o vida de los habitantes del país o de una o más regiones, que les impida sesionar, total o parcialmente, y mientras este impedimento subsista.
+TRIGÉSIMA SEGUNDA. Por el plazo de un año a contar de la publicación de la presente reforma, la Cámara de Diputados, el Senado y el Congreso Pleno, este último para efectos de lo dispuesto en los artículos 24 y 56 bis, podrán funcionar por medios telemáticos una vez declarada una cuarentena sanitaria o un estado de excepción constitucional por calamidad pública que signifique grave riesgo para la salud o vida de los habitantes del país o de una o más regiones, que les impida sesionar, total o parcialmente, y mientras este impedimento subsista.
 
-Para ello se requerirá el acuerdo de los Comités que representen a los dos tercios de los integrantes de la respectiva cámara. Ellas podrán sesionar, votar proyectos de ley y de reforma constitucional y ejercer sus facultades exclusivas.
+Para las sesiones de las cámaras se requerirá el acuerdo de los Comités que representen a los dos tercios de los integrantes de la respectiva cámara. Ellas podrán sesionar, votar proyectos de ley y de reforma constitucional y ejercer sus facultades exclusivas.
 
 El procedimiento telemático deberá asegurar que el voto de los parlamentarios sea personal, fundado e indelegable.
+
+En los casos del Congreso Pleno, a que se refiere el inciso primero, los Presidentes de ambas Corporaciones acordarán la dependencia del Congreso Nacional en la que se cumplirán estas obligaciones, quiénes podrán concurrir presencialmente a esas sesiones y si éstas deben realizarse de manera total o parcialmente telemática.
+
+La cuenta del estado administrativo y político de la Nación ante el Congreso Pleno a que se refiere el inciso tercero del artículo 24, el año 2020 se realizará el día 31 de julio.
 
 TRIGÉSIMA TERCERA.- Déjase sin efecto la convocatoria al plebiscito nacional realizada por el Presidente de la República mediante decreto supremo exento, de conformidad a la ley N° 21.200.
 
