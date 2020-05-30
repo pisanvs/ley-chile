@@ -30,13 +30,13 @@ Resolución:
 
 2. En virtud del presente llamado se seleccionarán 10 localidades, que se distribuirán regionalmente según la siguiente tabla:
 
-3. Las propuestas de localidades a intervenir por el Programa, serán presentadas por los municipios respectivos, conforme al formato indicado por el MINVU para estos efectos, en las oficinas de la Secretaría Regional Ministerial de Vivienda y Urbanismo correspondiente, en adelante seremi, hasta las 13:00 horas del día 28 de mayo de 2020, o a través de la plataforma digital que el Ministerio disponga al efecto.
+3. Las propuestas de localidades a intervenir por el Programa, serán presentadas por los municipios respectivos, conforme al formato indicado por el MINVU para estos efectos, en las oficinas de la Secretaría Regional Ministerial de Vivienda y Urbanismo correspondiente, en adelante seremi, hasta las 13:00 horas del día 11 de junio de 2020, o a través de la plataforma digital que el Ministerio disponga al efecto.
 
-4. A contar de la fecha de recepción de las propuestas, y hasta el día 4 de junio de 2020, el Encargado del Programa para Pequeñas Localidades de la seremi respectiva o quien el seremi designe si no lo hubiere, realizará el Examen de Admisibilidad de las mismas, conforme a los requisitos de postulación establecidos en la siguiente tabla:
+4. A contar de la fecha de recepción de las propuestas, y hasta el día 18 de junio de 2020, el Encargado del Programa para Pequeñas Localidades de la seremi respectiva o quien el seremi designe si no lo hubiere, realizará el Examen de Admisibilidad de las mismas, conforme a los requisitos de postulación establecidos en la siguiente tabla:
 
 Se calificará la propuesta de postulación de la localidad como Admisible si cumple con el 100% de los criterios señalados, en caso contrario, se calificará como No Admisible.
 
-5. Desde la fecha que se declare con calificación admisible la propuesta de postulación de la localidad, y hasta el 11 de junio de 2020, la Comisión Evaluadora revisará los antecedentes que respalden la factibilidad técnica de la intervención conforme a los siguientes criterios:
+5. Desde la fecha que se declare con calificación admisible la propuesta de postulación de la localidad, y hasta el 25 de junio de 2020, la Comisión Evaluadora revisará los antecedentes que respalden la factibilidad técnica de la intervención conforme a los siguientes criterios:
 
 En dicho período, la Seremi podrá solicitar aclaraciones al municipio respecto de los antecedentes de la propuesta. El encargado del Programa para Pequeñas Localidades de la región, o quien el Seremi designe si no lo hubiere, coordinará dicho proceso.
 
@@ -46,11 +46,11 @@ La Comisión Técnica Evaluadora estará integrada por un mínimo de tres (3) y 
 
 En caso de ausencia, el Secretario Regional Ministerial de Vivienda y Urbanismo podrá designar a un suplente. La comisión será presidida por el Encargado del Programa para Pequeñas Localidades, quien convocará, y sesionará con la mayoría de sus integrantes, y su calificación ponderará el 70% del puntaje total para la selección de nuevas localidades.
 
-6. Las localidades calificadas como elegibles, integrarán un listado que será presentado por parte de la Comisión Evaluadora a una Mesa Regional, que evaluará hasta el 18 de junio de 2020 los antecedentes que respalden la localidad propuesta, conforme a los siguientes criterios:
+6. Las localidades calificadas como elegibles, integrarán un listado que será presentado por parte de la Comisión Evaluadora a una Mesa Regional, que evaluará hasta el 2 de julio de 2020 los antecedentes que respalden la localidad propuesta, conforme a los siguientes criterios:
 
 La Mesa Regional estará compuesta por el Intendente, el Secretario Regional del Ministerio de Desarrollo Social, el Secretario Regional del Ministerio de Economía, Fomento y Turismo, el Secretario Regional del Ministerio de Obras Públicas, el Secretario Regional del Ministerio de Vivienda y Urbanismo, el Jefe Regional de la Subsecretaría de Desarrollo Regional y Administrativo y el Encargado del Programa para Pequeñas Localidades de la Seremi respectiva o quienes ellos designen.
 
-La Mesa Regional ser� presidida por el Secretario Regional del Ministerio de Vivienda y Urbanismo quien convocará, y sesionará con la mayoría de sus integrantes, y su calificación ponderará el 30% del puntaje total de selección de nuevas localidades.
+La Mesa Regional será presidida por el Secretario Regional del Ministerio de Vivienda y Urbanismo quien convocará, y sesionará con la mayoría de sus integrantes, y su calificación ponderará el 30% del puntaje total de selección de nuevas localidades.
 
 7. Si, siguiendo este procedimiento, existe un empate entre localidades propuestas, estas se priorizarán de acuerdo a la cantidad de población beneficiada por el Programa.
 
