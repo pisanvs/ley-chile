@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto (Exento) MOP N° 355 de 19 de mayo de 2020, se tuvo por desistida la expropiación del lote de terreno N°116, ordenada por Decreto (Exento) MOP N° 539 de 8 de julio de 2019, para la obra "Relicitación Concesión Camino Nogales - Puchuncaví, Sector: Sector 1 (Ruta F-20), Subsector: Plaza Peaje - Fin Cuesta, Km 6.500,00 al Km 19.000,00", Región de Valparaíso, comuna de Puchuncaví. La publicación se efectúa en cumplimiento a lo dispuesto en los artículos 7° y 32° del Decreto Ley N° 2186, de 1978.
