@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°176, de 03 de abril de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL MOP N°206 de 1960, se expropiaron los lotes de terreno N°s. 47, 48 y 49, para la obra: MEJORAMIENTO RUTA Y-65, PORVENIR - MANANTIALES, ETAPA I, que figuran a nombre de GYSLING RIV JUAN JUVENTINO, roles de avalúo 640-10, 640-10 y 640-11, Comuna de PRIMAVERA, REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA, superficies 2.789, 6.379 y 5.368 m2. respectivamente. La Comisión de Peritos integrada por RODRIGO JAIME FERNÁNDEZ DUBROCK, CLAUDIA PATRICIA GALLARDO OJEDA y HUGO JOSÉ MANSILLA CÁRDENAS, mediante informe de tasación de 21 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $2.321.200, para el lote N°47, $5.103.200, para el lote N°48 y $5.244.400, para el lote N°49. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
