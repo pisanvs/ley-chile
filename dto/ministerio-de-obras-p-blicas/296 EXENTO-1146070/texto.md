@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento Nº 296, de 28 de abril de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP Nº 850 de 1997, se expropiaron los lotes de terreno 2 y 4, Rol de avalúo 2211-8, Comuna de Osorno, superficies 665 y 78 m2., para la obra: CONSERVACIÓN RED VIAL REGIÓN DE LOS LAGOS 2012 - 2014 (PUENTE HUILMA), PROVINCIA DE OSORNO, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por CARLOS EUGENIO MERA SANTIBAÑEZ, NELSON BERNARDO TURRA TURRA y LORETO DEL CARMEN ARAYA MATUS, fijó el valor de tasación con fecha 23 de septiembre de 2013, acordándose la indemnización con sus propietarios GISELA HELGA SCHNAIDT MEISEL Y OTRO, en la cantidad total de $1.134.345.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
