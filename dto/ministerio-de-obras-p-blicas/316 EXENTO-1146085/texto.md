@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 316, de 28 de abril de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 91-A, Rol de avalúo 574-64, Comuna de Teodoro Schmidt, superficie 621 m2., para la obra: MEJORAMIENTO RUTA S-46, S-618 SECTOR: PTO. DOMINGUEZ - HUALPIN, COMUNAS SAAVEDRA Y TEODORO SCHMIDT, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, MARÍA SOLEDAD NÚÑEZ ARROYO y YASCHALA MARIBEL YÁÑEZ RIFFO, fijó el valor de tasación con fecha 13 de mayo de 2019, acordándose la indemnización con sus propietarios JORGE ALEJANDRO HUINCAGUELO HUENCHUMAN Y OTROS, en la cantidad total de $1.889.968.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
