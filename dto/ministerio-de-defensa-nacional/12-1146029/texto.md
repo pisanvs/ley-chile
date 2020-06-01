@@ -1,0 +1,7 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MAYOR
+
+Decreto supremo N° 12 de fecha 31 de enero de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la ilustre Municipalidad de Quellón, RUT: N° 69.203.700-3, concesión marítima mayor, a título gratuito, sobre playa, con vigencia hasta el 31 de diciembre de 2034, sobre un sector denominado Puerto de Quellón, comuna de Quellón, Provincia de Chiloé, Región de Los Lagos, con una superficie de mil novecientos ochenta y nueve coma nueve metros cuadrados (1.989,9 m2), la que fue tramitada con el SIABC N° 36.532. A modo de referencia se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en amparar la construcción y operación del Mercado Costanera de Quellón, y el plazo contemplado para su ejecución es de 60 días siguientes a la fecha de suscripción del acta de entrega de la concesión marítima y quedar terminada dentro de los doce meses posteriores a su fecha de inicio. Los antecedentes a la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Quellón. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Quellón, 7 de mayo de 2020.- Claudio Zúñiga Vásquez, Capitán de Corbeta LT, Capitanía de Puerto de Quellón.
