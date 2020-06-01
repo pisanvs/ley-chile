@@ -1,0 +1,5 @@
+MODIFICACIÓN NO SUSTANCIAL DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 25, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, de fecha 24 de febrero de 2020, modifica al decreto supremo Nº 36, del 11 de enero de 2018, con vencimiento el 31 de diciembre de 2022, el cual otorgó Concesión Marítima Menor a la señora Verónica del Carmen Abarca Lagos, RUN Nº 9.597.624-7, sobre un sector de terreno de playa, ubicado en el lugar denominado El Ensueño, comuna de Cartagena, Provincia de San Antonio, Región de Valparaíso, según coordenada geográfica: Latitud 33º32'20,90", Longitud 71º36'08,56", reemplazando el párrafo 3.- inciso 2 de la parte dispositiva, donde dice "quedar terminadas dentro de los 9 meses posteriores a la fecha de inicio" por "quedar terminadas dentro de los 17 meses posteriores a la fecha de inicio". Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de San Antonio. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Cristián Peña Flores, Capitán de Fragata LT , Capitán de Puerto de San Antonio.
