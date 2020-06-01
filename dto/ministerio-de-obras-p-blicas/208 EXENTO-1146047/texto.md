@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°208, de 16 de abril de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 62 y 63, para la obra: MEJORAMIENTO RUTA Y-65, PORVENIR - MANANTIALES, ETAPA I, que figuran a nombre de SOC REAL Y COMPANIA LIMITADA, roles de avalúo 640-30, Comuna de PRIMAVERA, REGION DE MAGALLANES Y DE LA ANTÁRTICA CHILENA, superficies 1.042 y 4.205 m2. respectivamente. La Comisión de Peritos integrada por BEATRIZ VERA MONTAÑA, WALTER GASTON OJEDA AGUILAR y JOSÉ LUIS SUBIABRE AGUILAR, mediante informe de tasación de 21 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $687.720, para el lote N°62 y $2.607.100, para el lote N°63. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
