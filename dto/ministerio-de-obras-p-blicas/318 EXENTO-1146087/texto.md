@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 318, de 28 de abril de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 53, Rol de avalúo 485-138, Comuna de Loncoche, superficie 26 m2., para la obra: MEJORAMIENTO RUTA S-785 - T, SECTOR PUENTE PAYA - PUENTE HUIÑOCO II, COMUNA DE LONCOCHE, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por MARÍA SOLEDAD NÚÑEZ ARROYO, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YÁÑEZ RIFFO, fijó el valor de tasación con fecha 10 de mayo de 2019, acordándose la indemnización con su propietario CARLOS ENRIQUE RIVAS FERRADA, en la cantidad total de $1.976.883.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
