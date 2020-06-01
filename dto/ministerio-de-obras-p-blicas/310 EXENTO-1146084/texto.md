@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento Nº 310, de 28 de abril de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 13-G, Rol de avalúo 155-50, Comuna de Cochamó, superficie 8.136 m2., para la obra: CONSTRUCCIÓN CAMINO PUELO - PASO EL BOLSON, COMUNA DE COCHAMÓ, PROVINCIA DE LLANQUIHUE, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por LEOPOLDO RAMÓN SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA y JUAN SAMUEL BARRIENTOS BAHAMONDE, fijó el valor de tasación con fecha 21 de octubre de 2016, acordándose la indemnización con su propietario AUGUSTO RUBERLINDO MÜLLER CONTRERAS, en la cantidad total de $4.775.274.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
