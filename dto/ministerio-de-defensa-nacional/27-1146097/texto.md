@@ -1,0 +1,7 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 27, de fecha 24 de febrero de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Salmoconcesiones S.A., RUT 96.603.640-0, concesión marítima menor, con vencimiento el 31 de diciembre de 2024, sobre un sector de Playa y Porción de Agua, en el sector denominado Chuyaquén, Río Maullín, Comuna de Maullín, Provincia de Llanquihue, Región de Los Lagos, con una superficie 41,43 m², para el sector 1 - tramo 2 y de 21,92 m², para el sector 1 - tramo 1, la que fue tramitada con el SIABC N° 37027. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en amparar un atracadero flotante para el apoyo de embarcaciones menores, embarque y desembarque de personal. Las obras del atracadero flotante consisten en un pasillo metálico galvanizado en frío, con flotadores incorporados de plásticos y el plazo contemplado para su ejecución es de 1 mes. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Maullín. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Raúl Valverde Bórquez, Capitán de Corbeta LT.
