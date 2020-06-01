@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 349, de fecha 9 de septiembre de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Sra. Ana Isabel Barril Epuin, RUN 8.768.915-8, tercera renovación de concesión marítima menor, con vencimiento el 30 de junio del año 2028, sobre un sector de playa, en el lugar denominado Playa Grande de Pucón, en el Lago Villarrica, comuna de Pucón, provincia de Cautín, Región de la Araucanía, con una superficie total de 229 m2, la que fue tramitada con el SIABC 35.043. El objeto consiste en continuar usufructuando y amparando la construcción y habilitación, existente, de un local comercial y una zona de baño público. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Lago Villarrica. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Héctor Rojas Martín, Capitán de Corbeta LT, Capitán de Puerto Lago Villarrica.
