@@ -66,7 +66,9 @@ c) Reemplazar el cuadro contenido en el resuelvo 9, por el siguiente:
 
 3. Apruébanse los montos y nóminas de beneficiarios de subsidios correspondientes al llamado a postulación dispuesto mediante la resolución exenta Nº 1.665 (V. y U.), de fecha 18 de julio de 2019, y sus modificaciones, adjuntas como anexo de la presente resolución y cuyos resultados se presentan sintetizados en el siguiente cuadro de resumen:
 
-4. Impútese el total de 195.971,02 Unidades de Fomento asignadas por la presente resolución exenta, a los recursos autorizados en el Programa de Mejoramiento de Viviendas y Barrios del año 2019, dispuestos para la atención de Condominios de Viviendas Económicas, de las cuales 172.150,36 Unidades de Fomento corresponden a subsidio de obras y 23.820,66 Unidades de Fomento corresponden a Asistencia Técnica.
+.
+
+4. Impútese el total de 193.445,18 Unidades de Fomento asignadas por la presente resolución exenta, a los recursos autorizados en el Programa de Mejoramiento de Viviendas y Barrios del año 2019, dispuestos para la atención de Condominios de Viviendas Económicas, de las cuales 169.627,78 Unidades de Fomento corresponden a subsidio de obras y 23.817,40 Unidades de Fomento corresponden a Asistencia Técnica.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
@@ -79,3 +81,5 @@ Nómina de Comunidades de Copropietarios Seleccionadas, Llamado para Condominios
 a) Financiamiento del Proyecto
 
 b) Financiamiento Servicios y Productos de Asistencia Técnica
+
+> **Nota.** La letra b del numeral 1 de la Reolución 851 Exenta, Vivienda, publicada el 02.06.2020, modifica la presente norma en el sentido de reemplazar los anexos "Nómina de Comunidades de Copropietarios Seleccionadas, Llamado para Condominios de Vivienda Económica 2019 (DS N° 27/2016, Capítulo Tercero) - a) Financiamiento del Proyecto y b) Financiamiento Servicios y Productos de Asistencia Técnica", sin embargo los citados anexos no fueron publicados.
