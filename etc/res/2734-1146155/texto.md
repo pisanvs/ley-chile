@@ -1,0 +1,9 @@
+CERTIFICADO Nº 242
+
+Certifico: Que por escritura pública de fecha 26 de marzo de 2020, otorgada ante la Notario de Santiago doña Nancy de la Fuente Hernández, con domicilio en Huérfanos Nº 1117, oficina 1014, Santiago, se redujo el acta de la Junta Extraordinaria de Accionistas de Seguros de Vida Suramericana S.A., celebrada con fecha 18 de marzo de 2020, ante la Notario titular ya individualizada.
+
+Que por resolución exenta Nº 2.734, de 30 de abril de 2020, de la Comisión para el Mercado Financiero, se aprobó la reforma de los estatutos de Seguros de Vida Suramericana S.A., que consiste en:
+
+Aumentar el capital social de $20.363.000.000.-, dividido en 20.363.000 acciones nominativas, sin valor nominal, todas de una misma serie y de igual valor, de los cuales se encuentra íntegramente suscrito y pagado el monto de $16.363.000.000.-, dividido en 16.363.000 acciones nominativas, sin valor nominal, todas de una misma serie y de igual valor, a $35.363.000.000.- dividido en 35.363.000 acciones nominativas, sin valor nominal, todas de una misma serie y de igual valor. Este aumento se hará efectivo con la suscripción y pago de 4.000.000 acciones, que se encuentran pendientes, por un monto de $4.000.000.000.-, que deberán suscribirse y pagarse en el plazo de 3 años a contar del 18 de abril de 2018 y mediante la emisión de 15.000.000 de acciones de pago, correspondiente a $15.000.000.000.-, a ser suscritas y pagadas en el plazo de 3 años a contar del 18 de marzo de 2020. Se modifica el artículo quinto y el artículo primero transitorio. Demás estipulaciones en escritura extractada.
+
+Santiago, 30 de abril de 2020.- Por orden del Consejo de la Comisión para el Mercado Financiero, Gerardo Bravo Riquelme, Secretario General.
