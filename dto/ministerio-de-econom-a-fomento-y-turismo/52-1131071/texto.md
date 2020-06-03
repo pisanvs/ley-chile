@@ -36,7 +36,7 @@ Los acuerdos antes referidos deberán constar por escrito, no constituir abuso p
 
 Definiciones. Sin perjuicio de lo establecido en la ley N° 19.983, para efectos del presente reglamento se entenderá por:
 
-a) Acuerdo: Documento en que las partes, excepcionalmente y de común acuerdo, establecen un plazo de pago excepcional de la o las facturas, que excede los 30 días corridos contados desde su recepción. Dicho acuerdo deberá constar por escrito, ser suscrito por quienes concurran a él y no constituir un abuso para el acreedor.
+a) Acuerdo: Documento en que las partes, excepcionalmente y de común acuerdo, establecen un plazo de pago excepcional de la o las facturas, que excede los 30 días corridos contados desde su recepción. Dicho acuerdo deberá constar por escrito, ser suscrito por quienes concurran a él y no constituir un abuso para el acreedor, de acuerdo a lo dispuesto en el artículo 3º del presente reglamento.
 
 b) Método de autenticación: Contraseña electrónica entregada por el Estado a los ciudadanos, para la realización de trámites en línea, que defina mediante resolución la Subsecretaría de Economía y Empresas de Menor Tamaño.
 
@@ -44,7 +44,7 @@ c) Código de inscripción: Número de inscripción del Acuerdo en el Registro d
 
 d) Comprador o beneficiario del servicio: Aquel que recibe la factura emitida por el vendedor o prestador del servicio y debe inscribir el Acuerdo en el Registro de Acuerdos con Plazo de Pago Excepcional.
 
-e) Formulario: Documento electrónico que contiene los datos del Acuerdo señalados en el artículo 2° de la ley N° 19.983 y en este reglamento. El Formulario podrá ser de inscripción, modificación, rectificación o cancelación.
+e) Formulario: Documento electrónico que contiene los datos del Acuerdo señalados en el artículo 2° de la ley N° 19.983 y en este reglamento. El Formulario podrá ser de inscripción, inscripción especial, modificación, rectificación o cancelación.
 
 f) Inscripción: Incorporación de los datos del Formulario de inscripción en el Registro de Acuerdos con Plazo de Pago Excepcional.
 
@@ -60,7 +60,11 @@ k) Registro: Registro de Acuerdos con Plazo de Pago Excepcional, que llevará el
 
 #### Artículo 3°
 
-Las partes podrán, excepcionalmente y mediante la suscripción de un Acuerdo, establecer un plazo de pago excepcional de la o las facturas respectivas que exceda los 30 días corridos contados desde la recepción de las mismas. El comprador o beneficiario del servicio deberá inscribir dicho Acuerdo en el Registro, debiendo para ello completar el Formulario de inscripción con la información contenida en el Acuerdo, según lo establece el presente reglamento.
+Las partes podrán, excepcionalmente y mediante la suscripción de un Acuerdo, establecer un plazo de pago excepcional de la o las facturas respectivas que exceda los 30 días corridos contados desde la recepción de las mismas.
+
+Sin perjuicio de lo anterior, dichos Acuerdos no podrán celebrarse en casos en que participen, por una parte, empresas de menor tamaño, según se definen en la ley Nº 20.416, como vendedoras o prestadoras de servicios y, por otra, empresas que superen el valor más alto de los ingresos anuales indicados en la referida ley, como compradoras o beneficiarias del bien o servicio. Excepcionalmente, estos Acuerdos podrán pactarse, si el plazo de pago de la factura que exceda el establecido en el inciso primero, es en beneficio de la empresa de menor tamaño acreedora, y solo en aquellos casos que contemplen la realización de pruebas, pagos anticipados, parcializados o por avances.
+
+El comprador o beneficiario del servicio deberá inscribir dicho Acuerdo en el Registro, debiendo para ello completar el Formulario de inscripción con la información contenida en el Acuerdo, según lo establece el presente reglamento.
 
 ## Título II
 
@@ -102,7 +106,9 @@ En todo caso, cualquiera sea el plazo convenido por las partes, no producirán e
 
 4. Establezcan un plazo de pago contado desde una fecha distinta de la recepción de la factura.
 
-5. Las demás que establezcan las leyes.
+5. Tengan por objetivo retrasar el plazo de pago de la factura, estableciendo pagos parcializados, salvo en las excepciones a que se refiere el inciso segundo del artículo 3 del presente reglamento.
+
+6. Las demás que establezcan las leyes.
 
 #### Artículo 7
 
@@ -118,7 +124,7 @@ De los Formularios del Registro
 
 #### Artículo 9
 
-Características de los Formularios. Los Formularios de inscripción, modificación, rectificación y cancelación estarán disponibles en la plataforma digital del Registro, que para estos efectos llevará el Ministerio. Los Formularios deberán ser completados por el comprador o beneficiario del servicio, de forma electrónica, utilizando para tales efectos el método de autenticación.
+Características de los Formularios. Los Formularios de inscripción, inscripción especial, modificación, rectificación y cancelación estarán disponibles en la plataforma digital del Registro, que para estos efectos llevará el Ministerio. Los Formularios deberán ser completados por el comprador o beneficiario del servicio, de forma electrónica, utilizando para tales efectos el método de autenticación.
 
 #### Artículo 10
 
@@ -136,6 +142,10 @@ e) La vigencia del Acuerdo.
 
 f) La materia de las facturas sujetas al Acuerdo.
 
+#### Artículo 10 bis
+
+Formulario de inscripción especial. Para la Inscripción de un Acuerdo en caso que el comprador o beneficiario del bien o servicio sea una empresa que supere el valor más alto de los ingresos anuales indicados en la ley Nº 20.416, y que haya celebrado el Acuerdo con una empresa de menor tamaño, según se define en la referida ley, como vendedora o prestadora del servicio, el comprador o beneficiario del bien o servicio deberá completar las menciones contenidas en el Formulario de inscripción especial, el que contendrá, además de las menciones establecidas en el artículo anterior, una mención especial en la que se deberá señalar si el beneficio de la empresa de menor tamaño se trata de la realización de pruebas, pagos anticipados, parcializados o por avances, en los términos señalados en el inciso segundo del artículo 3 del presente reglamento. Sin perjuicio de lo anterior, este Formulario de inscripción especial tendrá el mismo tratamiento que el Formulario de inscripción a que se hace referencia en el presente reglamento.
+
 #### Artículo 11
 
 Declaraciones juradas. Para efectos de la Inscripción del Acuerdo, el comprador o beneficiario del servicio deberá aceptar las siguientes declaraciones juradas, las que estarán disponibles en el Registro:
@@ -146,6 +156,10 @@ b) Declaración jurada en la que el comprador o beneficiario del servicio indica
 
 c) Declaración jurada en la que el comprador o beneficiario del servicio señala que el Acuerdo no contiene cláusulas o estipulaciones que intenten demorar indebidamente el pago de la factura al vendedor o prestador del servicio, según lo establecido en el artículo 6 del presente reglamento.
 
+#### Artículo 11 bis
+
+Declaración jurada especial. Sin perjuicio de lo establecido en el artículo anterior, para efectos de la Inscripción del Acuerdo mediante un Formulario de inscripción especial, el comprador o beneficiario del bien o servicio que sea una empresa que supere el valor más alto de los ingresos anuales indicados en la ley Nº 20.416, y que haya celebrado el Acuerdo con una empresa de menor tamaño, según se define en la referida ley, como vendedora o prestadora del servicio, deberá aceptar una declaración jurada en la que señale que el plazo de pago pactado es en beneficio de la empresa de menor tamaño, y que contempla la realización de pruebas, pagos anticipados, parcializados o por avances, en los términos señalados en el inciso segundo del artículo 3 del presente reglamento.
+
 #### Artículo 12
 
 De los Formularios de modificación, rectificación y cancelación. Se podrá modificar, rectificar o cancelar la Inscripción de un Acuerdo en el Registro, completando el Formulario correspondiente e indicando el motivo, según sea el caso.
@@ -154,7 +168,7 @@ El Formulario de modificación, rectificación o cancelación deberá contener l
 
 a) El Código de inscripción del Formulario de inscripción que se modifica, rectifica o cancela.
 
-b) El motivo de la cancelación de la Inscripción, o los términos en los cuales se está modificando o rectificando ésta, el que deberá tener relación con el contenido señalado en el artículo 10 de este reglamento.
+b) El motivo de la cancelación de la Inscripción, o los términos en los cuales se está modificando o rectificando ésta, el que deberá tener relación con el contenido señalado en el artículo 10 o, en su caso, con el artículo 10 bis, ambos del presente reglamento.
 
 Sin perjuicio de lo anterior, el comprador o beneficiario del servicio que incorpore en el Registro un Formulario de modificación, rectificación o cancelación, deberá aceptar, a su vez, las declaraciones juradas señaladas en el artículo 11 letras
 
@@ -172,7 +186,7 @@ Del Registro y de la Inscripción de los Acuerdos
 
 #### Artículo 13
 
-Normas generales. El Registro es único, rige para todo el territorio de la República y deberá estar permanentemente actualizado, de manera de asegurar la veracidad y oportunidad de la información incorporada en él.
+Normas generales. El Registro es único, rige para todo el territorio de la República y deberá estar permanentemente actualizado, de manera de asegurar la veracidad y oportunidad de la información incorporada en él. La información contenida en el Registro, en lo que se refiere a los compradores o beneficiarios del servicio, la existencia del Acuerdo y el plazo de pago, será de carácter y acceso público.
 
 #### Artículo 14
 
@@ -191,10 +205,6 @@ De las notificaciones. Una vez incorporado el Formulario de Inscripción en el R
 Emisión de certificados. El Ministerio emitirá, a solicitud de alguna de las Partes del Acuerdo, certificados en los que consten la fecha de la Inscripción; las menciones del Formulario de inscripción; y si dicha Inscripción ha sido objeto de modificación, rectificación o cancelación.
 
 Los certificados deberán ser suscritos mediante firma electrónica avanzada por el Subsecretario de Economía y Empresas de Menor Tamaño, o por quien éste delegue dicha facultad, en conformidad a la ley N° 19.799.
-
-#### Artículo transitorio
-
-En conformidad a lo dispuesto en el artículo primero transitorio de la ley N° 21.131, durante los veinticuatro primeros meses de publicada en el Diario Oficial, el plazo máximo de pago será de sesenta días corridos contado desde la recepción de la factura. En consecuencia, durante dicho periodo, las referencias que se hacen en este reglamento al plazo de treinta días corridos, se entenderán referidas al plazo de sesenta días corridos recién mencionado.
 
 Anótese, tómese razón y publíquese.- ANDRÉS CHADWICK PIÑERA, Vicepresidente de la República.- José Ramón Valente Vias, Ministro de Economía, Fomento y Turismo.
 
