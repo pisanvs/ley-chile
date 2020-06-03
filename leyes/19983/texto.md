@@ -18,7 +18,9 @@ La obligación de pago del saldo insoluto contenido en la factura deberá ser cu
 
 En casos excepcionales, las partes podrán establecer de común acuerdo un plazo que exceda el referido en el inciso anterior, siempre que dicho acuerdo conste por escrito, sea suscrito por quienes concurran a él y no constituya abuso para el acreedor.
 
-Estos acuerdos deberán ser inscritos dentro del plazo de cinco días hábiles siguientes a la celebración del mismo, en un registro que llevará al efecto el Ministerio de Economía, Fomento y Turismo, identificando a los contratantes, su rubro o actividad económica, fecha de celebración y plazo de pago, en la forma que establezca el reglamento.
+Sin perjuicio de lo anterior, dichos acuerdos no podrán celebrarse en casos en que participen, por una parte, empresas de menor tamaño, según se definen en la ley N° 20.416, como vendedoras o prestadoras de servicios y, por otra, empresas que superen el valor más alto de los ingresos anuales indicados en la referida ley, como compradoras o beneficiarias del bien o servicio. Excepcionalmente, estos acuerdos podrán pactarse, si el plazo de pago de la factura que exceda el establecido en el inciso primero, es en beneficio de la empresa de menor tamaño acreedora, y solo en aquellos casos que contemplen realización de pruebas, pagos anticipados, parcializados o por avances.
+
+Estos acuerdos deberán ser inscritos dentro del plazo de cinco días hábiles siguientes a la celebración del mismo, en un registro que llevará al efecto el Ministerio de Economía, Fomento y Turismo, identificando a los contratantes, su rubro o actividad económica, fecha de celebración y plazo de pago, en la forma que establezca el reglamento. La información contenida en el registro, en lo que se refiere a los compradores o beneficiarios del servicio, la existencia del acuerdo y el plazo de pago, será de carácter y acceso público.
 
 Las estipulaciones referentes al plazo de pago excepcional o que no cumplan con todos los requisitos exigidos por esta norma, contenidas en los acuerdos que no hayan sido inscritos en conformidad al inciso anterior, se tendrán por no escritas y regirá como plazo de pago el de treinta días establecido en el inciso primero.
 
@@ -32,7 +34,9 @@ En todo caso, cualquiera sea el plazo convenido por las partes, no producirán e
 
 4. Establezcan un plazo de pago contado desde una fecha distinta de la recepción de la factura.
 
-5. Las demás que establezcan las leyes.
+5. Tengan por objetivo retrasar el plazo de pago de la factura, estableciendo pagos parcializados, salvo en las operaciones a que se refiere el inciso tercero.
+
+6. Las demás que establezcan las leyes.
 
 En ausencia de mención expresa en la factura y su copia transferible del plazo de pago, se entenderá que debe ser pagada dentro de los treinta días corridos siguientes a la recepción de la factura.
 
