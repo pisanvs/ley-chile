@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 145 EXENTA, DE 28 DE ABRIL DE 2020
+
+Por resolución exenta N° 145, de 28 de abril de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se dispuso el aumento de la vigencia de los certificados de inscripción en el Registro Nacional de Servicios de Transporte Público Remunerado de Pasajeros extendidos a la fecha de publicación del extracto de la resolución exenta N° 890 de 2020, del Ministerio de Transportes y Telecomunicaciones para los buses inscritos en los servicios urbanos regidos por la resolución exenta N° 2.246 de 2005, del mismo Ministerio, hasta el 4 de noviembre de 2021 o bien hasta la entrada en vigencia de un perímetro de exclusión en la zona geográfica del Gran Concepción, cualquiera de los dos hechos que ocurra primero.-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
