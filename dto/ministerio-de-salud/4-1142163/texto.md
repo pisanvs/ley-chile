@@ -80,6 +80,8 @@ Otórgase a la Subsecretaría de Salud Pública facultades extraordinarias para 
 
 11. Limitar el número máximo de los bienes y servicios señalados que podrán ser vendidos y entregados a cada persona por los establecimientos de venta o prestación de servicios.
 
+12. Realizar importación directa de medicamentos, insumos y dispositivos médicos que sean necesarios para el cumplimiento de las facultades que se entregan al sector salud mediante este decreto. En dicho contexto, podrá en el caso de productos importados, y en virtud de prácticas internacionales de comercio, eximirse de una o más obligaciones contenidas en la ley 19.886.
+
 #### Artículo 2º bis
 
 Otórgase a la Subsecretaría de Redes Asistenciales facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
@@ -105,6 +107,10 @@ Otórgase a la Subsecretaría de Redes Asistenciales facultades extraordinarias 
 10. Coordinar la red asistencial del país, de prestadores públicos y privados. Para lo anterior, podrá solicitar de los establecimientos públicos y de los establecimientos privados, la facilitación, a los precios previamente convenidos, del otorgamiento de prestaciones asistenciales que no puedan postergarse sin grave perjuicio.
 
 11. Autorizar que en la red pública y privada, aquellos tratamientos de uso periódico para enfermedades crónicas, que son prescritos con dosis para periodos quincenales o mensuales, puedan prescribirse con la dosis necesaria para hasta tres meses, siempre que las condiciones de dispensación, conservación o suministro del medicamento lo permitan.
+
+12. Realizar importación directa de medicamentos, insumos y dispositivos médicos que sean necesarios para el cumplimiento de las facultades que se entregan al sector salud mediante este decreto. En dicho contexto, podrá en el caso de productos importados, y en virtud de prácticas internacionales de comercio, eximirse de una o más obligaciones contenidas en la ley 19.886.
+
+13. Disponer el precio máximo a pagar por parte de la población general de determinados dispositivos médicos, elementos e insumos sanitarios, así como de prestaciones de salud y servicios sanitarios, como asimismo, todos los bienes y servicios necesarios para atender las necesidades sanitarias en la red asistencial de salud.
 
 #### Artículo 3º
 
@@ -163,6 +169,8 @@ Otórgase a las Secretarías Regionales Ministeriales de Salud del país, facult
 26. Realizar acciones educativas en instituciones, empresas, asociaciones y organizaciones de la sociedad civil para informar a la comunidad de las medidas que se deben adoptar para evitar el contagio en lugares de trabajo.
 
 27. Realizar acciones educativas en colegios y universidades para informar a los alumnos, profesores y personal general de las medidas que se deben adoptar para evitar el contagio en establecimientos educacionales.
+
+28. Encomendar las funciones dispuestas en el Título I del Libro X del Código Sanitario a funcionarios de otros servicios públicos y funcionarios municipales, que se encuentren en comisión de servicio en la Secretaría Regional Ministerial de Salud.
 
 #### Artículo 4º
 
@@ -255,6 +263,14 @@ Otórgase a la Superintendencia de Salud, facultades extraordinarias para dispon
 3. Disponer la realización de trabajos extraordinarios para el personal de su dependencia, de acuerdo a lo establecido en los artículos 66 y 70 de la ley Nº18.834, cuyo texto actualizado, refundido y coordinado fue fijado por el DFL Nº 29, de 2004, del Ministerio de Hacienda, que aprueba el Estatuto Administrativo.
 
 4. Difundir las medidas sanitarias en medios de comunicación masivos.
+
+5. Supervisar y fiscalizar el cumplimiento de las medidas administrativas de coordinación de todos los centros asistenciales del país, públicos y privados, que disponga la Subsecretaría de Redes Asistenciales, así como respecto de cualquier directriz técnica que emita el Ministerio de Salud para enfrentar la alerta sanitaria provocada por el Coronavirus Covid-19, sin perjuicio de las facultades de fiscalización y sanción que al respecto pueda ejercer la Secretaría Regional Ministerial de Salud respectiva, según lo dispuesto en el Libro X del Código Sanitario.
+
+6. Dictar, a través de la Intendencia de Prestadores, las instrucciones generales y particulares a los prestadores institucionales de salud, que se estimen necesarias para apoyar el cumplimiento de las medidas administrativas y técnicas dispuestas por la Subsecretaría de Redes Asistenciales.
+
+7. Inscribir en el Registro de Prestadores Individuales de Salud, a los médicos titulados en el extranjero cuyo título no esté revalidado o habilitado en Chile, de conformidad a lo dispuesto en el Nº 14 del Artículo 4º del presente decreto, informados a la Superintendencia por los Servicios de Salud.
+
+8. Dictar instrucciones generales y particulares a Entidades Acreditadoras, disponer la prórroga de la vigencia de la acreditación de los prestadores institucionales y fijar nuevos plazos para la solicitud de reacreditación de los mismos.
 
 #### Artículo 9º
 
