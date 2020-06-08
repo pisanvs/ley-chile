@@ -156,11 +156,9 @@ d) Acondicionamiento térmico y Eficiencia Energética: hasta 120 UF.
 
 De los recursos disponibles
 
-26. Los recursos involucrados para la selección de postulantes al presente llamado, ascienden a un total de 1.196.771 UF y su distribución regional, según tipología será la siguiente:
+26. Los recursos involucrados para la selección de postulantes al presente Llamado, ascienden a un total de 2.590.948,334 UF, y su distribución regional, según tipología, será la siguiente:
 
 .
-
-Los recursos indicados en el cuadro anterior, podrán disminuir o aumentar con cargo a los recursos asignados para el Programa de Habitabilidad Rural del año 2019, por resolución del Ministro de Vivienda y Urbanismo, como también podrá determinarse su redistribución por tipología de proyecto y/o por región, de acuerdo a la necesidad de cada región.
 
 27. El número de postulantes seleccionados en cada región será determinado de acuerdo a la cantidad de subsidios susceptibles de financiar con los recursos indicados en el resuelvo anterior, incluidos los respectivos servicios de asistencia técnica y fiscalización técnica de obras.
 
