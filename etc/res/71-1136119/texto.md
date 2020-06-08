@@ -96,9 +96,7 @@ b) Aprobar iniciativas de apoyo al emprendimiento, a la innovación empresarial 
 
 c) Supervisar y evaluar la implementación de sus distintos planes o políticas. Para estos efectos, podrá proponer estrategias y acciones específicas, como la contratación de consultorías y auditorías externas, entre otras.
 
-d) Aprobar la distribución, entre los distintos instrumentos, de los recursos disponibles para transferencias corrientes en el presupuesto del Comité.
-
-e) Autorizar la celebración y modificación de convenios con entidades, públicas y privadas, nacionales y extranjeras, que comprometan aportes de dinero por parte del Comité.
+d) Autorizar la celebración y modificación de convenios con entidades, públicas y privadas, nacionales y extranjeras, que comprometan aportes de dinero por parte del Comité.
 
 #### Artículo 6°
 
