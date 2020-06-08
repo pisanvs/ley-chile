@@ -40,6 +40,10 @@ Mediante resolución del Director del Serviu respectivo, se determinarán los mo
 
 4. Los recursos comprometidos en el resuelvo 2 de la presente resolución, para los proyectos seleccionados en el concurso a que se llamó por resolución exenta Nº 2.516 (V. y U.), de 2019, cuyo cierre de postulación se efectuó el día 26 de diciembre de 2019, se resumen en el siguiente cuadro para cada región del país participante, incluyendo la suma total de familias beneficiadas y Unidades de Fomento comprometidas, considerando los montos de subsidio de los proyectos, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obra.
 
+.
+
+> **Nota.** Las letras a) y b) del numeral 1 de la Resolución 888 Exenta, Vivienda, publicada el 08.06.2020, disponen reemplazar en la tabla inserta en el resuelvo 2 de la presente norma, las filas N° 1 y total, asimismo, ordena reemplazar en la tabla inserta en el resuelvo 3 de la presente norma, la fila N° 1, por aquella que la citada norma respectivamente indica. Por su parte, la letra d) de la Resolución 888 Exenta, Vivienda, publicada el 08.06.2020 dispone modificar la tabla inserta del Anexo Único, sin embargo, la presente norma ha sido publicada sin Anexo único, razón por la cual no se actualiza.
+
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
