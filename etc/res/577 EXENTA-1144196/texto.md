@@ -24,7 +24,7 @@ Resolución:
 
 2. Se realizarán procesos de selección respecto de cada una de las fechas señaladas en el resuelvo anterior, considerando todos los proyectos de esa Provincia, calificados para dichos efectos, hasta agotar la totalidad de los recursos dispuestos.
 
-3. Los recursos destinados para la selección de postulantes al presente llamado, ascienden a 100.000 Unidades de Fomento.
+3. Los recursos destinados para la selección de postulantes al presente llamado, ascienden a 301.282 Unidades de Fomento.
 
 4. El número de proyectos seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos señalados en el resuelvo 3., incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse ajustes que serán sancionados mediante resolución.
 
