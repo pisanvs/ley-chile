@@ -24,7 +24,7 @@ Las personas que postulen como titulares vía internet a través de los medios e
 
 4. La cantidad de familias a seleccionar se distribuirán regionalmente según la tabla que se presenta a continuación, pudiendo practicarse redistribuciones o modificaciones de recursos que serán sancionadas mediante resolución.
 
-5. Los recursos a seleccionar en cada proceso ascenderán a 340.000 Unidades de Fomento. En caso que en el último proceso de selección quedaren recursos disponibles, se podrá seleccionar por el saldo total.
+5. Los recursos a seleccionar en cada proceso ascenderán a un porcentaje equivalente de los recursos indicados en el resuelvo 3. precedente. En caso de quedar recursos disponibles en el último proceso de selección, se podrá seleccionar por el saldo total.
 
 6. El monto mensual de la renta de arrendamiento que se podrá acordar en los contratos que se celebren por los beneficiarios del presente llamado en todo el país, no podrá superar las 11 Unidades de Fomento, según el valor que tenga ésta a la fecha de la suscripción del contrato, a excepción de los contratos que se celebren en todas las comunas de las regiones de Aysén del General Carlos Ibáñez del Campo y de Magallanes y de la Antártica Chilena, así como en las comunas de Arica y Camarones de la Región de Arica y Parinacota, de Iquique y Alto Hospicio de la Región de Tarapacá, de Antofagasta y Calama de la Región de Antofagasta, de Copiapó de la Región de Atacama, de Isla de Pascua y Juan Fernández de la Región de Valparaíso, en que el monto de la renta de arrendamiento podrá ser de hasta 13 Unidades de Fomento.
 
