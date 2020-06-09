@@ -176,6 +176,8 @@ a los Comandantes en Jefe de las Fuerzas Armadas, de conformidad al artículo 22
 
 22. Fijación de áreas apropiadas para el ejercicio de la acuicultura.
 
+23. Autorización para que los Institutos, Escuelas y Organismos Educacionales impartan Instrucción Premilitar.
+
 ### IV. MINISTERIO DE OBRAS PUBLICAS
 
 1. Facultad de declarar caminos públicos las calles o avenidas que unan caminos públicos, contenida en el artículo 25º del D.F.L. Nº 850, de 1997, del Ministerio de Obras Públicas.
