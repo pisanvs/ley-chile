@@ -1,0 +1,33 @@
+DEJA SIN EFECTO LA RESOLUCIÓN Nº 136 EXENTA, DE 2018, DE LA SUBSECRETARÍA DE ENERGÍA Y DELEGA EN EL FUNCIONARIO QUE INDICA, LA FACULTAD DE ACTUAR COMO MINISTRO DE FE Y CERTIFICADOR DE LAS FIRMAS ELECTRÓNICAS AVANZADAS, EN EL ÁMBITO DE APLICACIÓN DE LA LEY Nº 19.799 Y SU REGLAMENTO
+
+Núm. 66 exenta.- Santiago, 29 de mayo de 2020.
+
+Vistos:
+
+Lo dispuesto en la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, en su texto refundido, coordinado y sistematizado, fijado mediante DFL Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia; en la Ley Nº 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado; en el decreto ley Nº 2.224, de 1978, que Crea el Ministerio de Energía y la Comisión Nacional de Energía; en la Ley Nº 19.799, sobre Documentos Electrónicos, Firma Electrónica y Servicios de Certificación de dicha Firma, y su reglamento establecido por el decreto supremo Nº 181, de 2002, del Ministerio de Economía, Fomento y Reconstrucción; en los decretos exentos Nº 508, del Ministerio Secretaría General de la Presidencia y Nº 202, del Ministerio de Energía, ambos de 2017, que aprueban Convenio de Firma Electrónica Avanzada para Autoridades y Funcionarios, suscrito el 1 de marzo de 2017, entre el Ministerio Secretaría General de la Presidencia y el Ministerio de Energía; y en la resolución Nº 7, de 2019, de la Contraloría General de la República, y
+
+Considerando:
+
+1. Que, los artículos 6º y 7º de la Ley Nº 19.799, sobre Documentos Electrónicos, Firma Electrónica y Servicios de Certificación de dicha Firma, disponen que los órganos del Estado podrán ejecutar o realizar actos, celebrar contratos y expedir cualquier documento dentro del ámbito de su competencia, suscribiéndolos por medio de firma electrónica, teniendo la misma validez y efectos que los expedidos por escrito y en soporte papel, excepto aquellos respecto de los cuales la Constitución Política de la República o la ley exija una solemnidad que no sea susceptible de cumplirse mediante documento electrónico, o que requiera la concurrencia personal de la autoridad o de algún funcionario. Con todo, para que tengan la calidad de instrumento público o surtan los efectos propios de éste, deberán suscribirse mediante firma electrónica avanzada.
+
+2. Que, por otra parte, de conformidad a lo dispuesto por el artículo 9º de la Ley Nº 19.799, la certificación de las firmas electrónicas avanzadas de las autoridades o funcionarios de los Órganos del Estado se realizará por los respectivos ministros de fe.
+
+3. Que, el artículo 24 de la Ley Nº 18.575, ya referida, establece que los Subsecretarios son los jefes superiores de las Subsecretarías y que entre sus funciones está la de actuar como ministros de fe.
+
+4. Que, para propender a la eficiencia en el uso de los recursos, se estimó necesario iniciar la implementación de tramitación electrónica y uso de firma electrónica avanzada, en las actuaciones de competencia del Ministerio de Energía y de su Subsecretaría, que se enmarquen dentro del ámbito de la Ley Nº 19.799 y su reglamento, a excepción de aquellas materias reguladas por normas especiales, como acontece respecto de los procedimientos que corresponden a otros Órganos del Estado, como, por ejemplo, la Contraloría General de la República.
+
+5. Que, de acuerdo a lo señalado en el considerando precedente, el Ministerio Secretaría General de la Presidencia junto con el Ministerio de Energía, con fecha 1 de marzo de 2017, celebraron el "Convenio de firma electrónica avanzada para autoridades y funcionarios", aprobado mediante los decretos exentos Nº 508, del Ministerio Secretaría General de la Presidencia, y Nº 202, del Ministerio de Energía, ambos del año 2017.
+
+6. Que, revistiendo el Subsecretario de Energía la calidad de Jefe de la Subsecretaría de Energía y ministro de fe, para precaver dualidad de funciones en los casos en que a esta autoridad corresponde la resolución de asuntos y la firma de actos, contratos y demás documentos que, en lo sucesivo, se defina que revistan el carácter de electrónicos, se estima procedente delegar este último rol, en lo relativo a la certificación prevista en el artículo 9º de la Ley Nº 19.799, a excepción de aquellas materias reguladas por normas especiales.
+
+7. Que, asimismo, para propender a la eficiencia de la tramitación electrónica de esta Secretaría de Estado, se estima procedente delegar el rol de ministro de fe en lo relativo a la certificación prevista en el artículo 9º de la Ley Nº 19.799, respecto de actuaciones que correspondan a la resolución o firma del Ministro de Energía y de los funcionarios que ejerzan funciones delegadas, en lo relativo a resolución de asuntos, firma de actos, contratos y demás documentos que, en lo sucesivo, se defina revistan el carácter de electrónicos, a excepción de aquellas materias reguladas por normas especiales.
+
+8. Que, el artículo 41 de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, ya referida, prevé la posibilidad de delegar el ejercicio de las atribuciones y facultades propias, bajo los requisitos y términos dispuestos en dicho artículo y en razón de ello mediante la resolución exenta Nº 136, de 2018, de la Subsecretaría de Energía, se delegó la facultad de actuar como ministro de fe en un funcionario determinado, siendo necesario dejar sin efecto ese acto administrativo y delegar nuevamente esa facultad.
+
+Resuelvo:
+
+I. Déjase sin efecto la resolución exenta Nº 136, de 29 de octubre de 2018, de la Subsecretaría de Energía, que delega en el funcionario que indica, la facultad de actuar como ministro de fe y certificador de las firmas electrónicas avanzadas, en el ámbito de aplicación de la Ley Nº 19.799 y su reglamento.
+
+II. Delégase en don Martín Sotomayor Mesa, Jefe de la División de Administración y Finanzas de la Subsecretaría de Energía, la facultad de actuar como ministro de fe, en lo relativo a la certificación prevista en el artículo 9º de la Ley Nº 19.799, respecto de las actuaciones del Ministro de Energía, del Subsecretario de Energía y de los funcionarios que ejerzan funciones delegadas, en lo relativo a resolución de asuntos y firma de actos, contratos y demás documentos que, en lo sucesivo, se defina revistan el carácter de electrónicos, a excepción de aquellas materias reguladas por normas especiales.
+
+Anótese, publíquese y archívese.- Loreto Cortés Alvear, Jefa División Jurídica, Subsecretaría de Energía.
