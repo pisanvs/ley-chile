@@ -12,7 +12,7 @@ Disposiciones Generales
 
 #### Artículo 1°
 
-El presente reglamento establece las condiciones sanitarias en que debe efectuarse la distribución, la preparación de fórmulas magistrales y oficinales y el expendio de productos farmacéuticos, alimentos de uso médico en Farmacias, Almacenes Farmacéuticos, Droguerías, Depósitos de Productos Farmacéuticos humanos, veterinarios y dentales y botiquines.
+El presente reglamento establece las condiciones sanitarias en que debe efectuarse la distribución, la preparación de fórmulas magistrales y oficinales, el fraccionamiento y el expendio de productos farmacéuticos, alimentos de uso médico en Farmacias, Almacenes Farmacéuticos, Droguerías, Depósitos de Productos Farmacéuticos humanos, veterinarios y dentales y botiquines, según corresponda.
 
 #### Artículo 2°
 
@@ -70,7 +70,7 @@ Del Dominio, Instalación, Funcionamiento y Cierre.
 
 Farmacia es todo establecimiento o parte de él, destinado a la venta de productos farmacéuticos y alimentos de uso médico; a la confección de productos farmacéuticos de carácter oficinal y a los que se preparen extemporáneamente conforme a fórmulas magistrales prescritas por profesionales legalmente habilitados; y al fraccionamiento de envases clínicos de productos farmacéuticos, conforme a las normas que se indican en el presente reglamento.
 
-Además, podrán ordenar a un laboratorio de producción autorizado, la elaboración de productos farmacéuticos y cosméticos, para su venta en el establecimiento, e importar productos farmacéuticos, alimentos de uso médico y cosméticos en conformidad a las disposiciones reglamentarias pertinentes.
+Además, podrán ordenar a un laboratorio de producción autorizado, la elaboración de productos farmacéuticos y cosméticos, para su venta en el establecimiento, adquirir para su dispensación productos farmacéuticos en envases clínicos e importar productos farmacéuticos, alimentos de uso médico y cosméticos en conformidad a las disposiciones reglamentarias pertinentes.
 
 Podrán instalarse farmacias móviles itinerantes, en las localidades y con la periodicidad y horarios que determine la autoridad sanitaria en el acto de su autorización sanitaria, destinadas al expendio al público de productos farmacéuticos, que se regirán por las disposiciones especiales que se contemplan en esta reglamentación y en subsidio por aquellas que son aplicables a las demás farmacias. Estas farmacias no podrán adquirir ni expender productos psicotrópicos o estupefacientes, elaborar productos farmacéuticos de carácter oficinal o magistral, fraccionar envases clínicos de productos farmacéuticos ni realizar las actividades a las que se refiere el siguiente artículo 9º.
 
@@ -130,11 +130,33 @@ De los Requisitos que Deben Reunir sus Instalaciones
 
 La planta física de una farmacia deberá contar con un local debidamente circunscrito, y con el equipamiento que asegure el almacenamiento y conservación adecuada de los productos farmacéuticos y la elaboración de productos farmacéuticos y cosméticos en su caso, según las normas que fije el Ministerio de Salud, debiendo cumplir las condiciones sanitarias y ambientales mínimas de los lugares de trabajo dispuestas en el decreto supremo 78, de 9 de febrero de 1983, del Ministerio de Salud.
 
-Para la elaboración de productos farmacéuticos D de carácter oficinal o magistral la farmacia deberá contar con un recetario en sección aparte diferenciada de las otras secciones, que permita y facilite la mantención de condiciones higiénicas adecuadas y permanentes. Sus instalaciones, equipos, instrumentos y demás implementos deberán ser adecuados para el tipo de fórmulas magistrales u oficinales que se preparen.
+Para la elaboración de productos farmacéuticos de carácter oficinal o magistral la farmacia deberá contar con un recetario en sección aparte diferenciada de las otras secciones, que permita y facilite la mantención de condiciones higiénicas adecuadas y permanentes. Sus instalaciones, equipos, instrumentos y demás implementos deberán ser adecuados para el tipo de fórmulas magistrales u oficinales que se preparen.
 
 Deberá mantener en una estantería exclusiva y bajo llave los estupefacientes, productos psicotrópicos y los venenos, sin perjuicio de adoptar, cuando corresponda, las medidas necesarias para prevenir su hurto, robo, sustracción o extravío.
 
+Además, la farmacia deberá contar con el servicio de fraccionamiento, sea por ella misma o mediante servicio prestado por un tercero.
+
+En caso que el fraccionamiento sea realizado por un tercero, este deberá ser autorizado previamente por la Secretaría Regional Ministerial de Salud, debiendo dar cumplimiento al artículo 14 bis y a todas las normas que se aplican para el fraccionamiento realizado por el mismo establecimiento, señaladas en el presente reglamento.
+
 En el caso de las farmacias itinerantes, el vehículo deberá contar con el equipamiento que asegure el almacenamiento, control de temperatura y conservación adecuada de los medicamentos y con la señalética apropiada, que permita su inequívoca identificación como establecimiento de expendio de farmacéutico.
+
+#### Artículo 14 bis
+
+Para el fraccionamiento, se deberá contar con un sector circunscrito, debidamente diferenciado de las otras secciones del establecimiento y destinado exclusivamente a la ejecución del fraccionamiento.
+
+El acceso al sector de fraccionamiento se encontrará restringido al público en general.
+
+El sector deberá disponer de una superficie de material liso e impermeable, de fácil limpieza y desinfección. Asimismo, tener acceso directo a un lavamanos y contar con los instrumentos y demás implementos de uso exclusivo que sean necesarios para los procedimientos a ejecutar, considerando el tipo y forma del medicamento a fraccionar.
+
+En el caso que las labores de fraccionamiento sean realizadas en forma simultánea por dos o más personas, deberá contar con estaciones de trabajo que aseguren la independencia de cada operación. Las estaciones deberán estar separadas entre sí por una barrera física de material liso e impermeable, de fácil limpieza y desinfección.
+
+La labor de fraccionamiento deberá realizarse por producto mediante un proceso continuo, lo que incluye la recolección de los materiales y el medicamento a fraccionar, así como la extracción de las unidades requeridas y su disposición en el envase destinado al paciente.
+
+Antes de proceder con una segunda operación, la superficie de trabajo debe quedar despejada y los productos sobrantes del procedimiento anterior deben ser almacenados en su envase respectivo u otro adecuado, debiendo evitar en todo momento confusiones, intercambios o contaminación.
+
+Sólo podrán fraccionarse envases de medicamentos cuya fecha de expiración, al momento del expendio, sea superior a los seis meses.
+
+El personal que desarrolle labores de fraccionamiento deberá ajustarse a los procedimientos respectivos.
 
 #### Artículo 14
 
@@ -246,6 +268,44 @@ Las mismas anotaciones hará el profesional que lo reemplace, en caso de ausenci
 
 c) Registrar los motivos fundados de las ausencias del Químico Farmacéutico dentro de su jornada laboral.
 
+#### Artículo 19
+
+A.- El registro de fraccionamiento de envases podrá ser físico o digital y deberá indicar el fraccionamiento realizado por cada receta dispensada.
+
+Este registro permitirá la trazabilidad de los productos dispensados y el establecimiento que realice la venta de medicamentos deberá mantenerlo actualizado y disponible para su fiscalización. Será responsable de éste el Director Técnico respectivo.
+
+El registro de fraccionamiento de envases deberá considerar, al menos, los siguientes datos:
+
+1. Nº correlativo y año asignado en la farmacia para cada fraccionamiento.
+
+2. Fecha del fraccionamiento.
+
+3. Nombre, RUT y teléfono del paciente.
+
+4. Nombre y RUT del prescriptor.
+
+5. Medicamento prescrito.
+
+6. Datos del producto:
+
+i. Denominación común internacional y nombre de fantasía, si lo hubiere.
+
+ii. Forma farmacéutica y dosis.
+
+iii. Cantidad.
+
+7. Nº o números de registro sanitario del medicamento.
+
+8. Nº o números de lote del medicamento.
+
+9. Fecha de vencimiento del medicamento según lote.
+
+10. Nombre del químico farmacéutico que efectuó o supervisó el fraccionamiento.
+
+11. Nombre de la persona que realizó el fraccionamiento, si fuere diferente del anterior.
+
+Los registros no podrán ser alterados con enmiendas, ni dejar espacios en blanco entre las anotaciones. Sin perjuicio de lo anterior, podrán realizarse las correcciones que se requieran, dejando la evidencia de la misma y la firma del que autorizó el cambio o anulación del registro.
+
 #### Artículo 20°
 
 En los Registros de Estupefacientes y de Productos Psicotrópicos el Director Técnico, efectuará las anotaciones que para cada caso señalan el artículo 18° de los decretos supremos 404 y 405, de 2 de noviembre de 1983, del Ministerio de Salud.
@@ -303,6 +363,8 @@ k) Retirar de circulación los productos farmacéuticos a la fecha de su vencimi
 l) Mantener al día los Registros indicados en el Párrafo II del Título II del presente reglamento, y
 
 m) Comunicar por escrito al Director del Servicio de Salud respectivo el horario en que ejercerá sus funciones.
+
+El Director Técnico señalado en la letra e) se entenderá referido a un químico-farmacéutico o farmacéutico, cuando el fraccionamiento sea realizado mediante convenio con un tercero.
 
 #### Artículo 25°
 
@@ -464,9 +526,9 @@ A El propietario, el director técnico y el auxiliar de la farmacia en que se ex
 
 #### Artículo 40
 
-El fraccionamiento de envases de medicamentos deberá ser efectuado por el director técnico o supervisado por éste cuando la actividad sea realizada por otro profesional o por auxiliares de farmacia.
+El fraccionamiento de envases de medicamentos deberá ser efectuado por el Director Técnico o químico farmacéutico, según sea el caso, o supervisado por éste cuando la actividad sea realizada por otro profesional o por auxiliares de farmacia.
 
-Para efectos de este reglamento, se entenderá por fraccionamiento de envases de medicamentos, el proceso por el cual el Director Técnico o a quien éste supervise, extrae desde un envase clínico el número de unidades posológicas que se requieran, de acuerdo a la prescripción emitida por un profesional competente, para su dispensación al paciente, y entregándole información y orientación sobre el tratamiento indicado.
+Para efectos de este reglamento, se entenderá por fraccionamiento de envases de medicamentos, el proceso por el cual el Director Técnico o químico farmacéutico, según sea el caso, o a quien éste supervise, extrae desde un envase clínico el número de unidades posológicas que se requieran, de acuerdo a la prescripción emitida por un profesional competente, para su dispensación al paciente, y entregándole información y orientación sobre el tratamiento indicado.
 
 El fraccionamiento procederá en medicamentos cuyo envase primario contenga de manera separada cada unidad posológica, ya sea conteniendo una o varias dosis del producto farmacéutico que se trate.
 
@@ -490,21 +552,7 @@ Queda prohibido fraccionar productos de combinación, productos oncológicos, ra
 
 #### Artículo 40
 
-A.- Para fraccionar, la farmacia deberá contar en su planta física con un sector circunscrito, debidamente diferenciado de las otras secciones del establecimiento y destinado exclusivamente a la ejecución de los procedimientos respectivos.
-
-El acceso al sector de fraccionamiento se encontrará restringido al público en general.
-
-El sector deberá disponer de una superficie de material liso e impermeable, de fácil limpieza y desinfección. Asimismo, tener acceso directo a un lavamanos y contar con los instrumentos y demás implementos de uso exclusivo que sean necesarios para los procedimientos a ejecutar, considerando el tipo y forma del medicamento a fraccionar.
-
-En el caso que las labores de fraccionamiento sean realizadas en forma simultánea por dos o más personas, la farmacia deberá contar con estaciones de trabajo que aseguren la independencia de cada operación. Las estaciones deberán estar separadas entre sí por una barrera física de material liso e impermeable, de fácil limpieza y desinfección.
-
-La labor de fraccionamiento deberá realizarse por producto mediante un proceso continuo, lo que incluye la recolección de los materiales y el medicamento a fraccionar, así como la extracción de las unidades requeridas y su disposición en el envase destinado al paciente.
-
-Antes de proceder con una segunda operación, la superficie de trabajo debe quedar despejada y los productos sobrantes del procedimiento anterior deben ser almacenados en su envase respectivo u otro adecuado; debiendo evitar en todo momento confusiones, intercambios o contaminación.
-
-Sólo podrán fraccionarse envases de medicamentos cuya fecha de expiración, al momento del expendio, sea superior a los seis meses.
-
-El personal que desarrolle labores de fraccionamiento deberá ajustarse a los procedimientos respectivos.
+A.- Eliminado.
 
 #### Artículo 40
 
@@ -538,45 +586,11 @@ Todo envase de un producto fraccionado deberá contener la siguiente frase: "Par
 
 #### Artículo 40
 
-C.- En los establecimientos donde se fraccione deberán existir registros, físicos o digitales, por cada receta dispensada, los que serán de responsabilidad del Director Técnico respectivo. Este registro permitirá la trazabilidad de los productos dispensados y deberá mantenerse actualizado y disponible para su fiscalización.
-
-El registro de fraccionamiento de envases deberá considerar al menos los siguientes datos:
-
-1. Nº correlativo/año asignado en la farmacia para cada fraccionamiento.
-
-2. Fecha del fraccionamiento.
-
-3. Nombre, RUT y teléfono del paciente.
-
-4. Nombre y RUT del prescriptor.
-
-5. Medicamento prescrito.
-
-6. Datos del producto:
-
-i. Denominación común internacional y nombre
-
-de fantasía, si lo hubiere
-
-ii. Forma farmacéutica y dosis.
-
-iii. Cantidad.
-
-7. Nº o Números de registro sanitario del medicamento.
-
-8. Nº o Números de lote del medicamento.
-
-9. Fecha de vencimiento del medicamento según lote.
-
-10. Nombre del químico farmacéutico que efectuó o supervisó el fraccionamiento.
-
-11. Nombre de la persona que realizó el fraccionamiento, si fuere diferente del anterior.
-
-Los registros no podrán ser alterados con enmiendas, ni dejar espacios en blanco entre las anotaciones; sin perjuicio que se realicen las correcciones que se requieran, dejando la evidencia de la misma y la firma del que autorizó el cambio y/o anulación del registro.
+C.- Eliminado.
 
 #### Artículo 40
 
-D.- El Director Técnico de la farmacia deberá velar por la correcta ejecución de cada una de las actividades de fraccionamiento que se realicen; debiendo existir para ello procedimientos establecidos y conocidos por su personal.
+D.- El Director Técnico o químico farmacéutico, según sea el caso, de la farmacia deberá velar por la correcta ejecución de cada una de las actividades de fraccionamiento que se realicen; debiendo existir para ello procedimientos establecidos y conocidos por su personal.
 
 Para estos efectos, se deberá contar con procedimientos documentados sobre al menos las siguientes materias:
 
@@ -600,13 +614,13 @@ Para estos efectos, se deberá contar con procedimientos documentados sobre al m
 
 #### Artículo 40
 
-E.- En la dispensación que realice el Director Técnico del establecimiento, o quien éste supervise, de medicamentos que hayan sido fraccionados deberá entregar, de forma verbal, la información al paciente o adquirente acerca del producto que adquiere, incluyendo las correspondientes instrucciones de administración, según la prescripción que se trate. Además, deberá entregar junto con los productos dispensados, los respectivos folletos de información al paciente, autorizados en el registro sanitario.
+E.- En la dispensación que realice el Director Técnico del establecimiento, químico farmacéutico o quien éste supervise, de medicamentos que hayan sido fraccionados deberá entregar, de forma verbal, la información al paciente o adquirente acerca del producto que adquiere, incluyendo las correspondientes instrucciones de administración, según la prescripción que se trate. Además, deberá entregar junto con los productos dispensados, los respectivos folletos de información al paciente, autorizados en el registro sanitario.
 
 Tratándose de expendio de medicamentos fraccionados, a través de medios electrónicos, el director técnico o a quien éste supervise, deberá enviar, junto con los productos, los respectivos folletos de información.
 
 #### Artículo 40
 
-F.- El Ministerio de Salud evaluará la implementación y cumplimiento de los artículos 40 a 40 E.
+F.- El Ministerio de Salud evaluará la implementación y cumplimiento de los artículos 14 bis, 19 A y 40 a 40 E.
 
 A tal efecto y de acuerdo con el artículo 47 del Código Sanitario, el Ministerio, mediante una norma técnica, establecerá los datos estadísticos de relevancia para la realización de dicha evaluación. Respecto de los cuales el Instituto de Salud Pública de Chile le proporcionará información de acuerdo a los antecedentes que recabe semestralmente de las farmacias, en el ejercicio de su función de control sanitario de los productos farmacéuticos.
 
@@ -672,7 +686,7 @@ De la Información de precios
 
 #### Artículo 45
 
-A.- Las Farmacias deberán garantizar en materia de expendio de productos farmacéuticos, la transparencia, el acceso a la información y la veracidad de la misma. Para estos efectos, informarán los precios de los productos y las demás características relevantes que más adelante se regulan.
+A.- Las Farmacias deberán garantizar en materia de expendio de productos farmacéuticos, la transparencia, el acceso a la información y la veracidad de la misma. Para estos efectos, informarán los precios de los productos por envase y por cada unidad posológica y las demás características relevantes que más adelante se regulan.
 
 #### Artículo 45
 
@@ -784,7 +798,7 @@ Deberá mantener en una estantería exclusiva y bajo llave los estupefacientes, 
 
 #### Artículo 50°
 
-La droguería deberá contar con un sistema de control de calidad, tanto de las drogas o materias primas que adquiere, fracciona y distribuye, como de los productos farmacéuticos que importe y distribuye, en conformidad a lo dispuesto en el Título V del reglamento del Sistema Nacional de Control de Productos Farmacéuticos, Alimentos de Uso Médico y Cosméticos.
+La droguería deberá contar con un sistema de control de calidad, tanto de las drogas o materias primas que adquiere, fracciona por sí o por un tercero, y distribuye, como de los productos farmacéuticos que importe y distribuye, en conformidad a lo dispuesto en el Título V del reglamento del Sistema Nacional de Control de Productos Farmacéuticos, Alimentos de Uso Médico y Cosméticos.
 
 En los envases de cada partida de drogas o materia prima analizada, se inscribirá el número del boletín de análisis respectivo.
 
@@ -804,7 +818,7 @@ En las droguerías, el Director Técnico o su reemplazante, cuando procediere, s
 
 a) Intervenir en la adquisición y responder de la tenencia, custodia y expendio de estupefacientes y productos psicotrópicos y demás sujetos a controles legales especiales;
 
-b) Del fraccionamiento de drogas;
+b) Del fraccionamiento de drogas, sea por sí mismo o mediante convenio con un tercero;
 
 d) Velar porque el sistema de almacenamiento de las drogas y de los productos farmacéuticos asegure su conservación, estabilidad y calidad;
 
@@ -854,7 +868,7 @@ Cuando el Director Técnico deba ausentarse por motivos justificados dentro de s
 
 A los almacenes farmacéuticos y a los almacenes farmacéuticos complementarios les estará estrictamente prohibida la adquisición y venta de productos farmacéuticos no autorizados en el artículo anterior.
 
-De la misma manera, a estos establecimientos les estará estrictamente prohibido la preparación y el despacho de fórmulas magistrales y oficinales, así como el fraccionamiento de envases de medicamentos.
+De la misma manera, a estos establecimientos les estará estrictamente prohibido la preparación y el despacho de fórmulas magistrales y oficinales.
 
 Todas las recetas que prescriban productos farmacéuticos indicados en el Título X del presente reglamento o productos farmacéuticos complementarios, según sea el caso, que sean despachadas en el establecimiento deberán archivarse en orden correlativo o cronológico, y mantenerse a disposición de la autoridad sanitaria.
 
@@ -891,6 +905,8 @@ INCISOS ELIMINADOS.
 #### Artículo 61°
 
 La planta física de un almacén farmacéutico deberá estar en un local debidamente circunscrito y que permita asegurar el almacenamiento y conservación adecuada de los productos farmacéuticos.
+
+Además, el almacén farmacéutico que quisiera contar con el servicio de fraccionamiento, sea por el mismo o mediante servicio prestado por un tercero, deberá cumplir con lo establecido en el artículo 14 inciso quinto y 14 bis del presente reglamento, sobre condiciones para el fraccionamiento.
 
 Estos establecimientos exhibirán en la parte exterior del local el rótulo o letrero "Almacén Farmacéutico" con su nombre comercial.
 
@@ -936,11 +952,13 @@ Asimismo, les serán aplicables a los almacenes farmacéuticos las normas señal
 
 #### Artículo 64
 
-El Almacén Farmacéutico deberá poseer los siguientes registros oficiales:
+El Almacén Farmacéutico deberá poseer los siguientes registros oficiales, para efecto de los artículos 19, 19 A y 22, según corresponda:
 
-a) De inspección, para los efectos señalados en el artículo 19, y
+a) De inspección,
 
-b) De reclamos, para lo señalado en el artículo 22.
+b) De fraccionamiento de envases, cuando correspondiere, y
+
+c) De reclamos.
 
 Estos registros deberán estar foliados y previamente autorizados por el Instituto de Salud Pública de Chile, debiendo mantenerse a su disposición en todo momento y circunstancia.
 
@@ -958,13 +976,15 @@ a) Despachar personalmente las recetas médicas que prescriban productos sujetos
 
 b) Velar porque el sistema de almacenamiento de los productos farmacéuticos asegure su conservación, estabilidad y calidad;
 
-c) Adiestrar al personal auxiliar y supervisar su correcto desempeño;
+c) Supervisar el fraccionamiento de medicamentos, cuando corresponda;
 
-d) Supervisar que en todo momento el funcionamiento y actividades del almacén farmacéutico se desarrollen dentro del marco de la legislación sanitaria vigente y que se cumplan todas las instrucciones que emanan de la autoridad sanitaria en relación con los almacenes farmacéuticos;
+d) Adiestrar al personal auxiliar y supervisar su correcto desempeño;
 
-e) Retirar de circulación los productos farmacéuticos a la fecha de su vencimiento, y
+e) Supervisar que en todo momento el funcionamiento y actividades del almacén farmacéutico se desarrollen dentro del marco de la legislación sanitaria vigente y que se cumplan todas las instrucciones que emanan de la autoridad sanitaria en relación con los almacenes farmacéuticos;
 
-f) Mantener al día el archivo de recetas mencionado en el artículo 57°.
+f) Retirar de circulación los productos farmacéuticos a la fecha de su vencimiento, y
+
+g) Mantener al día el archivo de recetas mencionado en el artículo 57°.
 
 Las mismas responsabilidades descritas en el inciso precedente, serán asumidas por el Práctico de Farmacia del Almacén Farmacéutico Complementario, a quien corresponderá el despacho personal de los productos farmacéuticos complementarios, en el caso de que tengan esa condición de venta.
 
@@ -1327,5 +1347,17 @@ Lo dispuesto en el artículo 28° del presente reglamento, no obstará a que los
 #### Artículo 2°
 
 Asimismo, la exigencia establecida en la letra a) del artículo 28° de este reglamento no afectará a quienes a la fecha de su vigencia hayan sido autorizados para desempeñarse como Auxiliares de 1er. o 2do. grado, de acuerdo con el decreto supremo 428, de 1975, del Ministerio de Salud Pública y sus modificaciones posteriores.
+
+#### Artículo 3º
+
+Sin perjuicio de las facultades fiscalizadoras de la autoridad sanitaria, las farmacias, droguerías, botiquines y almacenes farmacéuticos que se encuentren autorizados en conformidad a este reglamento, no requerirán una nueva autorización para ejecutar el fraccionamiento de medicamentos. El presente decreto entrará en vigencia según se dispone a continuación:
+
+1. Al sexto mes de publicado el presente decreto, en el caso de farmacias o droguerías que no se encuentren comprendidas dentro de aquellas de las que trata el inciso segundo del artículo 2º de la ley 20.416.
+
+2. Al noveno mes de publicado el presente decreto, tratándose de farmacias o droguerías catalogadas como medianas empresas según lo dispuesto en el inciso segundo del artículo 2º de la ley Nº 20.416.
+
+3. Al primer año de publicado el decreto, en el caso de farmacias o droguerías que sean calificadas como microempresas o pequeñas empresas conforme a lo dispuesto en el inciso segundo del artículo 2º de la ley Nº 20.416.
+
+Para el cálculo de los ingresos anuales de los que trata el inciso segundo del artículo 2º de la ley 20.416, se considerarán todos los ingresos que haya obtenido la cadena de que se trate. Para estos efectos, se entenderá que forman parte de la misma cadena, aquellos establecimientos que comparten el nombre principal y tengan similares signos distintivos, aunque la propiedad de los locales pertenezca a distintas personas.
 
 Anótese, tómese razón, comuníquese, publíquese e insértese en la Recopilación oficial de Reglamentos de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE.- Winston Chinchón, Ministro de Salud.
