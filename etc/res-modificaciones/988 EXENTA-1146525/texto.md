@@ -1,16 +1,30 @@
-APRUEBA REGLAMENTO DE USO DE FRENTES DE ATRAQUE DE LA EMPRESA PORTUARIA SAN ANTONIO
+MODIFICA RESOLUCIÓN N° 442 EXENTA, DE 1999, QUE APRUEBA REGLAMENTO DE USO DE FRENTES DE ATRAQUE DE LA EMPRESA PORTUARIA SAN ANTONIO EN EL SENTIDO QUE INDICA
 
-Núm. 442 exenta.- Santiago, 30 de marzo de 1999.- Visto: Artículo 22 de la ley Nº 19.542; la carta Nº 140 de 15 de marzo de 1999, dirigida al Sr. Ministro de Transportes y Telecomunicaciones por el Sr. Gerente General de la Empresa Portuaria San Antonio.
+Núm. 988 exenta.- Santiago, 15 de mayo de 2020.
 
-Considerando: La exigencia que impone la ley Nº 19.542 para que cada empresa cuente con un reglamento interno de uso de frentes de atraque para cada puerto de su competencia, el que debe ser propuesto por ella al Ministerio de Transportes y Telecomunicaciones para su aprobación, rechazo o modificación.
+Visto:
 
-R e s u e l v o:
+Lo dispuesto en el artículo 22 de la ley N°19.542, que moderniza el sector portuario estatal; la resolución exenta N°442, de 30 de marzo de 1999, del Ministerio de Transportes y Telecomunicaciones, que aprobó el Reglamento de Uso de Frentes de Atraque de la Empresa Portuaria San Antonio; el decreto exento N°1.802, de 2017, del Ministerio de Transportes y Telecomunicaciones, que imparte lineamientos de política portuaria y criterios de buenas prácticas aplicables al sistema portuario estatal de la ley N°19.542; la ley N°18.482; el decreto ley N° 2.222, de 1978; la carta N°21 de 23 de enero de 2019, del Gerente General de la Empresa Portuaria San Antonio; el oficio PDL N°498-9244, de 20 de noviembre de 2019, del Ministerio de Transportes y Telecomunicaciones; la carta N°122 de 25 de febrero de 2020, del Gerente General de la Empresa Portuaria San Antonio; la resolución N°7, de 2019, de la Contraloría General de la República, que fija normas sobre exención de trámite de toma de razón, y la demás normativa aplicable.
 
-Apruébase el Reglamento de Uso de Frentes de Atraque propuesto por la Empresa Portuaria San Antonio, con las modificaciones que se han introducido en este Ministerio, las que se incorporan a su texto, el que se adjunta a la presente resolución, para los efectos que se disponga su publicación en el Diario Oficial.
+Considerando:
 
-Anótese y publíquese.- Claudio Hohmann Barrientos, Ministro de Transportes y Telecomunicaciones.
+1.- La exigencia que impone la ley N°19.542, mediante su artículo 22, para que cada empresa cuente con un reglamento interno de uso de frentes de atraque para cada puerto de su competencia, el que debe ser propuesto por ella al Ministerio de Transportes y Telecomunicaciones para su aprobación, rechazo o modificación.
 
-Lo que transcribo para su conocimiento.- Saluda a Ud., Patricia Muñoz Villela, Jefe Depto. Administrativo.
+2.- La competencia de las Empresas Portuarias estatales, establecida mediante el artículo 8°, numeral 4°, de la ley N°19.542, para elaborar y supervisar el cumplimiento de la reglamentación necesaria para el funcionamiento de los puertos y terminales que administren, incluido el reglamento de uso de frentes de atraque que establece el artículo 22.
+
+3.- Los lineamientos para la actualización de los Reglamentos de Uso de Frentes de Atraque impartidos por el Ministerio de Transportes y Telecomunicaciones, el 29 de diciembre de 2017, a las Empresas Portuarias estatales en el marco de las metas sobre la materia establecidas en los respectivos Planes de Gestión Anual 2018, mediante los cuales se busca amparar y reforzar el desarrollo tecnológico de los diferentes eslabones de la cadena portuaria, así como la capacidad de coordinación de las diferentes actividades, ejercida por las Empresas Portuarias.
+
+4.- Los Lineamientos sobre Política Portuaria y Criterios de Buenas Prácticas aplicables al Sistema Portuario Estatal de la ley N°19.542 impartidos mediante el decreto exento N°1.802 del Ministerio de Transportes y Telecomunicaciones, de 28 de septiembre de 2017, que tienen como objetivo reforzar el rol coordinador de las Empresas Portuarias sobre las actividades, marítimas y terrestres, que se realizan en los respectivos recintos portuarios y áreas que administran bajo cualquier título.
+
+5.- La necesidad, prevista en el artículo 3° de la ley N°19.542, que los puertos y terminales que administren las Empresas Portuarias serán de uso público y prestarán servicios en forma continua y permanente.
+
+6.- Lo establecido en el artículo 6° del decreto ley N°2.222 de 1978, que señala que los Gobernadores Marítimos y Capitanes de Puerto desempeñarán sus funciones como delegados del Director, y serán los encargados de fiscalizar el cumplimiento de las disposiciones legales o reglamentarias dentro de su territorio jurisdiccional.
+
+7.- La evolución de la industria logístico-portuaria hacia una estructura de servicios prestados en red por parte de diversos actores, que refuerza el rol coordinador de la Empresa Portuaria, a fin de impulsar el funcionamiento globalmente eficiente y competitivo de la cadena logística, hechos de los que da cuenta la Minuta de 28 de octubre de 2019, emanada del Programa de Desarrollo Logístico de la Subsecretaría de Transportes.
+
+Resuelvo:
+
+Modifícase la resolución exenta N°442, de 1999, que aprobó el Reglamento de Uso de Frentes de Atraque presentado por la Empresa Portuaria San Antonio, en el sentido de reemplazarlo por el texto que por este acto se aprueba y transcribe a continuación:
 
 REGLAMENTO DE USO DE FRENTES DE ATRAQUE DE EMPRESA PORTUARIA SAN ANTONIO
 
@@ -423,3 +437,7 @@ Es el aprovisionamiento de agua, energía eléctrica, comunicación, combustible
 i) DE APOYO A LA FISCALIZACIÓN
 
 Es permitir a los Servicios Públicos competentes el acceso libre y gratuito a las instalaciones de la Empresa para que den cumplimiento a sus funciones de fiscalización.
+
+Anótese y publíquese en el Diario Oficial.- Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., José Luis Domínguez Covarrubias, Subsecretario de Transportes.
