@@ -1,16 +1,30 @@
-APRUEBA REGLAMENTO DE USO DE FRENTES DE ATRAQUE DE LA EMPRESA PORTUARIA SAN ANTONIO
+MODIFICA RESOLUCIÓN N° 442 EXENTA, DE 1999, QUE APRUEBA REGLAMENTO DE USO DE FRENTES DE ATRAQUE DE LA EMPRESA PORTUARIA SAN ANTONIO EN EL SENTIDO QUE INDICA
 
-Núm. 442 exenta.- Santiago, 30 de marzo de 1999.- Visto: Artículo 22 de la ley Nº 19.542; la carta Nº 140 de 15 de marzo de 1999, dirigida al Sr. Ministro de Transportes y Telecomunicaciones por el Sr. Gerente General de la Empresa Portuaria San Antonio.
+Núm. 988 exenta.- Santiago, 15 de mayo de 2020.
 
-Considerando: La exigencia que impone la ley Nº 19.542 para que cada empresa cuente con un reglamento interno de uso de frentes de atraque para cada puerto de su competencia, el que debe ser propuesto por ella al Ministerio de Transportes y Telecomunicaciones para su aprobación, rechazo o modificación.
+Visto:
 
-R e s u e l v o:
+Lo dispuesto en el artículo 22 de la ley N°19.542, que moderniza el sector portuario estatal; la resolución exenta N°442, de 30 de marzo de 1999, del Ministerio de Transportes y Telecomunicaciones, que aprobó el Reglamento de Uso de Frentes de Atraque de la Empresa Portuaria San Antonio; el decreto exento N°1.802, de 2017, del Ministerio de Transportes y Telecomunicaciones, que imparte lineamientos de política portuaria y criterios de buenas prácticas aplicables al sistema portuario estatal de la ley N°19.542; la ley N°18.482; el decreto ley N° 2.222, de 1978; la carta N°21 de 23 de enero de 2019, del Gerente General de la Empresa Portuaria San Antonio; el oficio PDL N°498-9244, de 20 de noviembre de 2019, del Ministerio de Transportes y Telecomunicaciones; la carta N°122 de 25 de febrero de 2020, del Gerente General de la Empresa Portuaria San Antonio; la resolución N°7, de 2019, de la Contraloría General de la República, que fija normas sobre exención de trámite de toma de razón, y la demás normativa aplicable.
 
-Apruébase el Reglamento de Uso de Frentes de Atraque propuesto por la Empresa Portuaria San Antonio, con las modificaciones que se han introducido en este Ministerio, las que se incorporan a su texto, el que se adjunta a la presente resolución, para los efectos que se disponga su publicación en el Diario Oficial.
+Considerando:
 
-Anótese y publíquese.- Claudio Hohmann Barrientos, Ministro de Transportes y Telecomunicaciones.
+1.- La exigencia que impone la ley N°19.542, mediante su artículo 22, para que cada empresa cuente con un reglamento interno de uso de frentes de atraque para cada puerto de su competencia, el que debe ser propuesto por ella al Ministerio de Transportes y Telecomunicaciones para su aprobación, rechazo o modificación.
 
-Lo que transcribo para su conocimiento.- Saluda a Ud., Patricia Muñoz Villela, Jefe Depto. Administrativo.
+2.- La competencia de las Empresas Portuarias estatales, establecida mediante el artículo 8°, numeral 4°, de la ley N°19.542, para elaborar y supervisar el cumplimiento de la reglamentación necesaria para el funcionamiento de los puertos y terminales que administren, incluido el reglamento de uso de frentes de atraque que establece el artículo 22.
+
+3.- Los lineamientos para la actualización de los Reglamentos de Uso de Frentes de Atraque impartidos por el Ministerio de Transportes y Telecomunicaciones, el 29 de diciembre de 2017, a las Empresas Portuarias estatales en el marco de las metas sobre la materia establecidas en los respectivos Planes de Gestión Anual 2018, mediante los cuales se busca amparar y reforzar el desarrollo tecnológico de los diferentes eslabones de la cadena portuaria, así como la capacidad de coordinación de las diferentes actividades, ejercida por las Empresas Portuarias.
+
+4.- Los Lineamientos sobre Política Portuaria y Criterios de Buenas Prácticas aplicables al Sistema Portuario Estatal de la ley N°19.542 impartidos mediante el decreto exento N°1.802 del Ministerio de Transportes y Telecomunicaciones, de 28 de septiembre de 2017, que tienen como objetivo reforzar el rol coordinador de las Empresas Portuarias sobre las actividades, marítimas y terrestres, que se realizan en los respectivos recintos portuarios y áreas que administran bajo cualquier título.
+
+5.- La necesidad, prevista en el artículo 3° de la ley N°19.542, que los puertos y terminales que administren las Empresas Portuarias serán de uso público y prestarán servicios en forma continua y permanente.
+
+6.- Lo establecido en el artículo 6° del decreto ley N°2.222 de 1978, que señala que los Gobernadores Marítimos y Capitanes de Puerto desempeñarán sus funciones como delegados del Director, y serán los encargados de fiscalizar el cumplimiento de las disposiciones legales o reglamentarias dentro de su territorio jurisdiccional.
+
+7.- La evolución de la industria logístico-portuaria hacia una estructura de servicios prestados en red por parte de diversos actores, que refuerza el rol coordinador de la Empresa Portuaria, a fin de impulsar el funcionamiento globalmente eficiente y competitivo de la cadena logística, hechos de los que da cuenta la Minuta de 28 de octubre de 2019, emanada del Programa de Desarrollo Logístico de la Subsecretaría de Transportes.
+
+Resuelvo:
+
+Modifícase la resolución exenta N°442, de 1999, que aprobó el Reglamento de Uso de Frentes de Atraque presentado por la Empresa Portuaria San Antonio, en el sentido de reemplazarlo por el texto que por este acto se aprueba y transcribe a continuación:
 
 REGLAMENTO DE USO DE FRENTES DE ATRAQUE DE EMPRESA PORTUARIA SAN ANTONIO
 
@@ -20,17 +34,25 @@ Objetivos y ámbito de aplicación
 
 #### Artículo 1
 
+<!-- parte:10128149 -->
+
 El presente Reglamento contiene las normas que regulan la relación entre la Empresa Portuaria, en adelante la Empresa, los particulares y los concesionarios, entre sí y con los usuarios de servicios en los frentes de atraque que involucren actividades asociadas a las funciones que se indican en el Capítulo V de este Reglamento, conforme lo establece la ley N°19.542.
 
 #### Artículo 2
+
+<!-- parte:10128150 -->
 
 La Empresa velará por el funcionamiento armónico del conjunto de frentes de atraque del puerto, tomando en cuenta la infraestructura disponible y su operación eficiente.
 
 #### Artículo 3
 
+<!-- parte:10128151 -->
+
 Todos quienes realicen alguna actividad en el recinto portuario o en los bienes que administre la Empresa a cualquier título, en adelante "Área de la Empresa", incluyendo, pero no limitado a, concesionarios, arrendatarios, usuarios, servicios públicos, prestadores de servicio o particulares, en adelante "Usuarios", deberán someterse a las normas y procedimientos que se establecen en el presente Reglamento, cuyo cumplimiento será controlado por la Empresa.
 
 #### Artículo 4
+
+<!-- parte:10128152 -->
 
 Las normas del presente Reglamento se aplicarán sin perjuicio de las atribuciones legales de la Subsecretaría para las Fuerzas Armadas, de la Dirección General del Territorio Marítimo y de la Marina Mercante, del Ministerio de Defensa Nacional y de los demás órganos de la Administración del Estado. Del mismo modo, también les serán aplicables los Tratados Internacionales suscritos por el Estado que afecten a la Empresa y las obligaciones contenidas en ellos.
 
@@ -42,13 +64,19 @@ De los roles de la Empresa
 
 #### Artículo 5
 
+<!-- parte:10128155 -->
+
 La Empresa elaborará y supervisará el cumplimiento de las normas y/o procedimientos de control y coordinación que serán aplicables al Área de la Empresa. Estas normas y/o procedimientos se orientan a lograr un desarrollo armónico y sustentable en el largo plazo, así como un uso eficiente y no discriminatorio de la infraestructura disponible, de manera de satisfacer las necesidades de atención requeridas por los usuarios del puerto en forma oportuna y expedita. Todo lo anterior estará contenido en el Reglamento de Coordinación.
 
 #### Artículo 6
 
+<!-- parte:10128156 -->
+
 Los terminales portuarios deberán prestar los servicios contenidos en sus respectivos manuales en la forma allí expresada, esto es, continua y permanentemente.
 
 #### Artículo 7
+
+<!-- parte:10128157 -->
 
 El Reglamento de Coordinación contendrá normas y/o procedimientos relativos a las siguientes materias:
 
@@ -72,21 +100,31 @@ Asimismo, en coherencia con lo establecido en la reglamentación interna y los c
 
 #### Artículo 8
 
+<!-- parte:10128158 -->
+
 Los Usuarios deberán dar cabal cumplimiento a las normas y/o procedimientos que establezcan el Reglamento de Coordinación y la legislación vigente respectiva.
 
 #### Artículo 9
+
+<!-- parte:10128159 -->
 
 Los Usuarios deberán proporcionar oportunamente toda aquella información que les sea solicitada por la Empresa para el debido cumplimiento de las atribuciones que le competen en virtud de la ley. El Reglamento de Coordinación contendrá la modalidad en virtud de la cual la Empresa requerirá dicha información.
 
 #### Artículo 10
 
+<!-- parte:10128160 -->
+
 Las funciones de coordinación a que se refiere el artículo 7 precedente, serán sin perjuicio de lo señalado en el artículo 49 de la ley N°19.542, que faculta al Ministerio de Transportes y Telecomunicaciones para dictar normas de coordinación de los organismos públicos en el puerto.
 
 #### Artículo 11
 
+<!-- parte:10128161 -->
+
 La Empresa, en su rol coordinador, velará porque la infraestructura portuaria sea usada con observancia de las restricciones que establezca para su cuidado e indemnidad.
 
 #### Artículo 12
+
+<!-- parte:10128162 -->
 
 Los Usuarios serán responsables de los daños que, por su culpa o la de sus agentes o dependientes, se causen a personas, infraestructura, instalaciones o equipos que administre la Empresa o a los bienes o mercancías depositadas bajo su responsabilidad.
 
@@ -94,13 +132,19 @@ Los Usuarios serán responsables de los daños que, por su culpa o la de sus age
 
 #### Artículo 13
 
+<!-- parte:10128164 -->
+
 La Empresa, en su rol de coordinación, tendrá la facultad de citar a los Usuarios que determine, o a sus representantes, así como a los organismos públicos que intervienen al interior del Área de la Empresa, para que participen en "Reuniones de Coordinación", las que serán presididas por quien designe la Empresa.
 
 #### Artículo 14
 
+<!-- parte:10128165 -->
+
 Las "Reuniones de Coordinación" tendrán por objeto coordinar y programar el orden de entrada y salida al puerto de las naves, embarcaciones, artefactos navales, los vehículos de transporte terrestre, equipos y maquinarias. Esta coordinación y programación se hará de manera que las naves puedan ser atendidas de acuerdo a la programación de atraque y zarpe establecida para cada frente de atraque. Esta reunión constituirá, además, la instancia de acuerdos y actualizaciones previas al Acta de Coordinación definitiva. Los Usuarios deberán acatar los acuerdos que se adopten en la respectiva Reunión de Coordinación.
 
 #### Artículo 15
+
+<!-- parte:10128166 -->
 
 Los Usuarios que requieran hacer uso temporal de áreas comunes destinadas a funciones operativas que formen parte del Área de la Empresa, deberán presentar un programa al efecto y regirse por la reglamentación pertinente, según los procedimientos establecidos en el Reglamento de Coordinación.
 
@@ -109,6 +153,8 @@ Los Usuarios que requieran hacer uso temporal de áreas comunes destinadas a fun
 A) Rol Coordinador Marítimo
 
 #### Artículo 16
+
+<!-- parte:10128169 -->
 
 La Empresa, en su rol coordinador, podrá requerir a la Autoridad Marítima que, en cumplimiento de sus facultades, ordene el desatraque de una nave cuando su permanencia en el muelle respectivo afecte la eficiencia operacional en virtud de una cualquiera de las siguientes causales:
 
@@ -128,13 +174,19 @@ De no dar cumplimiento a la orden de desatraque en el plazo fijado, se multará 
 
 #### Artículo 17
 
+<!-- parte:10128170 -->
+
 Los actores participantes de la coordinación marítima, tales como agencias de naves o de muellaje, deberán dar cumplimiento a los requisitos y condiciones que sean exigidos por la Empresa o sus concesionarios en su Reglamento de Servicios o Manuales de Servicios, según corresponda, para la ejecución de la planificación, agendamiento y todas las actividades necesarias para el debido funcionamiento de los procesos de importación, exportación y otras operaciones.
 
 #### Artículo 18
 
+<!-- parte:10128171 -->
+
 Las agencias de naves que actúan en representación del armador deberán atender y supervigilar las faenas de carga y descarga en virtud de lo señalado en el artículo 923, numeral 8°, del Código de Comercio. Para ello, deberán entregar la información que solicite la Empresa antes de la recalada y zarpe de la nave que representen, a objeto de coordinar oportunamente la programación o reprogramación relativa al área marítima común del puerto.
 
 #### Artículo 19
+
+<!-- parte:10128172 -->
 
 La Empresa, en su rol coordinador, podrá solicitar a la Autoridad Marítima la actualización de los requerimientos mínimos que deben cumplir las embarcaciones dispuestas por las agencias de naves destinadas a los Prácticos, de manera de mejorar el buen funcionamiento del Puerto en el marco de las normativas vigentes, considerando su condición oceánica.
 
@@ -142,29 +194,43 @@ B) Rol Coordinador Terrestre
 
 #### Artículo 20
 
+<!-- parte:10128174 -->
+
 Como manifestación del servicio continuo y no discriminatorio, los terminales deberán recibir y despachar camiones para descarga y carga de mercancías de acuerdo a los criterios establecidos en el Reglamento de Coordinación.
 
 #### Artículo 21
+
+<!-- parte:10128175 -->
 
 Los Usuarios, incluyendo a los transportistas de carga -independientemente del medio de transporte empleado- así como los demás particulares que requieran gestionar su ingreso al Área de la Empresa, deberán cumplir con los procedimientos y condiciones establecidas, contar con permisos vigentes emitidos por la autoridad competente y presentar la información requerida mediante el Reglamento de Coordinación, Reglamento de Servicios o Manuales de Servicios, según corresponda. En todo momento deberán respetar las normas legales respectivas, así como las disposiciones de áreas e instalaciones para controles, libre tránsito y estacionamientos que establezca la autoridad pertinente.
 
 #### Artículo 22
 
+<!-- parte:10128176 -->
+
 La Empresa dispondrá de mecanismos virtuales para que los agentes de aduana o sus empleados hagan entrega de la documentación pertinente a cada transportista, los que serán considerados como únicos dispositivos habilitados para tales efectos. En caso que algún evento, asociado a dicho mecanismo virtual, impida la entrega de documentación en tal formato, la Empresa dispondrá de mecanismos presenciales para tales efectos. Conforme a lo anterior, la Empresa regulará las condiciones de prestación de este servicio y podrá prohibir que la operación se efectúe en áreas no habilitadas, estableciendo sanciones en caso de infracción que serán definidas en el Reglamento de Coordinación, en coherencia con lo establecido en los contratos de la Empresa Portuaria con Usuarios del Área de la Empresa.
 
 #### Artículo 23
+
+<!-- parte:10128177 -->
 
 Los actores de la cadena logística portuaria deberán conectarse o integrarse a los sistemas de operación y coordinación de la Empresa. Las especificaciones técnicas que deberán cumplirse serán explicitadas en el Reglamento de Coordinación, así como las consecuencias que se produzcan para quienes no cuenten con tales interfaces.
 
 #### Artículo 24
 
+<!-- parte:10128178 -->
+
 Las empresas de transporte que accedan al Área de la Empresa deberán cumplir con los requisitos mínimos del transporte, trámites de enrolamiento y los procedimientos establecidos en los Reglamentos de Coordinación y de Servicios, o en los Manuales de Servicio, según corresponda. En caso de incumplimiento, la Empresa denegará el acceso del medio de transporte al Área de la Empresa y determinará su ubicación en un área de espera destinada a efectos de regularizar su condición, pudiendo existir costos asociados para el actor responsable del incumplimiento.
 
 #### Artículo 25
 
+<!-- parte:10128179 -->
+
 Los servicios de transporte terrestre, tanto de entrega como de retiro a los terminales portuarios, sólo podrán acceder a las áreas comunes del Área de la Empresa en los horarios establecidos y debidamente informados por la Empresa mediante las plataformas indicadas en el Reglamento de Coordinación.
 
 #### Artículo 26
+
+<!-- parte:10128180 -->
 
 De acuerdo a lo establecido en la reglamentación interna de la Empresa y los contratos entre la Empresa y Usuarios del Área de la Empresa, los actores de la cadena logística portuaria cuya actividad comercial requiera de la coordinación operativa con las actividades del puerto deberán proporcionar mensualmente indicadores de operación y los datos utilizados para su cálculo, que permitan a la Empresa evaluar la calidad del servicio prestado y definir las eventuales sanciones referidas en el contrato. Los niveles mínimos de servicio exigidos serán definidos por la Empresa mediante el Reglamento de Coordinación o de Servicios, según correspondiere.
 
@@ -176,29 +242,43 @@ De la prestación de servicios en cada frente de atraque
 
 #### Artículo 27
 
+<!-- parte:10128183 -->
+
 Los servicios que presta la Empresa en el Área de la Empresa, así como las normas y procedimientos que rigen su prestación, se encuentran contenidos en el Reglamento de los Servicios, en adelante "Reglamento".
 
 #### Artículo 28
+
+<!-- parte:10128184 -->
 
 Cada uno de los servicios que presta un titular de una concesión portuaria, en adelante "Concesionario", que involucren actividades relacionadas con las funciones que se indican en el Capítulo V "Identificación y Definición de Funciones", así como las normas y procedimientos que rigen para su prestación se encontrarán identificados en el Manual de los Servicios, en adelante el "Manual", que oportunamente dicte el titular. Lo anterior será sin perjuicio de los demás servicios que incorpore el Concesionario al Manual.
 
 #### Artículo 29
 
+<!-- parte:10128185 -->
+
 Sin perjuicio de lo señalado en el artículo anterior, la Empresa podrá también exigir que cuente con su correspondiente Manual a cualquier particular que preste servicios y/o desarrolle actividades relacionadas con las funciones que se indican en el Capítulo V.
 
 #### Artículo 30
+
+<!-- parte:10128186 -->
 
 El Reglamento y los Manuales serán de conocimiento público y establecerán las normas y procedimientos según las que los particulares, concesionarios y usuarios podrán acceder a los servicios que se presten en el Área de la Empresa.
 
 #### Artículo 31
 
+<!-- parte:10128187 -->
+
 Las normas y procedimientos que se establezca en el Reglamento y en los Manuales se orientarán a otorgar un trato no discriminatorio a los usuarios de los frentes, un uso eficiente de la infraestructura y un desarrollo armónico y sustentable en el largo plazo de la actividad portuaria.
 
 #### Artículo 32
 
+<!-- parte:10128188 -->
+
 El Reglamento y los manuales deberán estar en concordancia con las normas y obligaciones que se establece en el presente Reglamento de Uso de Frentes de Atraque y en los Tratados Internacionales suscritos por el Estado que afecten a la Empresa.
 
 #### Artículo 33
+
+<!-- parte:10128189 -->
 
 Los Usuarios deberán respetar las normas y procedimientos que se establezca en el Reglamento y en los Manuales respectivos.
 
@@ -206,25 +286,37 @@ Los Usuarios deberán respetar las normas y procedimientos que se establezca en 
 
 #### Artículo 34
 
+<!-- parte:10128191 -->
+
 Los Concesionarios serán responsables de elaborar sus respectivos Manuales. Estos Manuales, así como sus modificaciones, deberán contar con un certificado extendido por un auditor técnico externo, calificado, que acredite que las normas y procedimientos establecidos se atienen a la prescripción legal de no permitirse conductas discriminatorias por parte del Concesionario.
 
 #### Artículo 35
+
+<!-- parte:10128192 -->
 
 Los usuarios que requieran servicios tienen derecho a exigir que su prestación se haga conforme a las normas y procedimientos establecidos en el Reglamento o el Manual respectivo.
 
 #### Artículo 36
 
+<!-- parte:10128193 -->
+
 Los Concesionarios deberán entregar a la Empresa, previamente a su entrada en vigencia, los Manuales, y sus modificaciones, debidamente certificadas. Los Manuales que sean requeridos por la Empresa a otros particulares también deberán estar debidamente certificados y se someterán a este mismo procedimiento de entrega.
 
 #### Artículo 37
+
+<!-- parte:10128194 -->
 
 Los Manuales y sus modificaciones, debidamente certificados, entrarán en vigencia sólo después de ser aprobados por la Empresa y de transcurridos 30 días desde la puesta en conocimiento de los usuarios. El Manual vigente deberá estar a disposición de todo usuario que lo requiera para su consulta, incluyendo su publicación en el portal web del Concesionario o Usuario.
 
 #### Artículo 38
 
+<!-- parte:10128195 -->
+
 La Empresa se reserva el derecho de solicitar, en todo momento, un informe de un auditor técnico externo, calificado, para que verifique si las normas y procedimientos de todo o parte del Manual o de sus modificaciones se atienen a la prescripción legal de no permitir conductas discriminatorias por parte del Concesionario.
 
 #### Artículo 39
+
+<!-- parte:10128196 -->
 
 En el evento que el citado informe señale que las normas y procedimientos auditados no cumplen la prescripción señalada en el artículo anterior, el Concesionario deberá hacer las correspondientes adecuaciones al Manual y/o a sus modificaciones, en los términos que señale dicho informe.
 
@@ -232,13 +324,19 @@ En el evento que el citado informe señale que las normas y procedimientos audit
 
 #### Artículo 40
 
+<!-- parte:10128198 -->
+
 El Reglamento y los Manuales incluirán, a lo menos, los siguientes elementos: la identificación de cada uno de los servicios prestados, la forma, contenido y oportunidad en que puede ser solicitado cada servicio, la descripción del procedimiento que se empleará para el procesamiento de las solicitudes de prestación del servicio, la forma y oportunidad en que el usuario puede desistirse de la solicitud de servicio, la descripción de la forma en que será prestado el servicio, las actividades que éste incluye, los recursos involucrados y las tarifas aplicables.
 
 #### Artículo 41
 
+<!-- parte:10128199 -->
+
 El Reglamento y los Manuales establecerán que los usuarios tienen libertad para contratar los servicios que se preste por la Empresa, los particulares y concesionarios en el Área de la Empresa.
 
 #### Artículo 42
+
+<!-- parte:10128200 -->
 
 El Reglamento y los Manuales, cuando corresponda, tomarán en cuenta las disposiciones siguientes:
 
@@ -256,17 +354,25 @@ A) De la Atención a las Naves
 
 #### Artículo 43
 
+<!-- parte:10128201 -->
+
 El Reglamento y los Manuales de los concesionarios que exploten la infraestructura de un frente de atraque, establecerán normas y procedimientos destinados a una atención eficiente y de no discriminación arbitraria de las naves.
 
 #### Artículo 44
+
+<!-- parte:10128202 -->
 
 El Reglamento y los Manuales, cuando corresponda, establecerán las normas y procedimientos que se utilizarán para realizar la programación del atraque de las naves al frente de atraque respectivo.
 
 #### Artículo 45
 
+<!-- parte:10128203 -->
+
 La programación del atraque de las naves se hará en base a reglas de prioridad técnicas objetivas, orientadas a un uso técnico-económico eficiente de los sitios y a asegurar un trato no discriminatorio de los usuarios.
 
 #### Artículo 46
+
+<!-- parte:10128204 -->
 
 Para cada una de las reglas de prioridad se establecerán las normas y procedimientos aplicables. Estas normas y procedimientos fijarán, a lo menos, los siguientes aspectos respecto de cada regla de prioridad:
 
@@ -282,29 +388,43 @@ e) Oportunidad y condiciones en que podrá alterarse la programación.
 
 #### Artículo 47
 
+<!-- parte:10128205 -->
+
 Sin perjuicio de lo señalado en el artículo anterior, el Reglamento y el Manual del concesionario respectivo contemplarán, al menos, las normas y procedimientos para programar el atraque de naves utilizando como regla de prioridad el estricto orden de arribo de las naves al puerto.
 
 #### Artículo 48
+
+<!-- parte:10128206 -->
 
 En caso que la Empresa o el Concesionario contemple más de una regla de prioridad para un mismo sitio, el Reglamento y el Manual señalarán el orden, forma y criterio con el que se aplicará cada regla de prioridad.
 
 #### Artículo 49
 
+<!-- parte:10128207 -->
+
 La programación del atraque de naves la efectuará la Empresa o el Concesionario, según corresponda, de acuerdo a las normas, procedimientos y reglas de prioridad establecidas en el Reglamento o el Manual de los Servicios, según corresponda. El resultado de la programación de atraque de naves estará a disposición de los usuarios que lo soliciten.
 
 #### Artículo 50
+
+<!-- parte:10128208 -->
 
 El Reglamento y el Manual respectivo establecerá la forma, oportunidad y contenido de la información que los usuarios deberán entregar a la Empresa o al Concesionario, según corresponda, requerida para realizar la programación del atraque de las naves.
 
 #### Artículo 51
 
+<!-- parte:10128209 -->
+
 Cuando una nave se encuentre ejecutando operaciones de transferencia en el frente de atraque y deba abandonarlo por razones de defensa nacional o seguridad, mantendrá su prioridad de atraque una vez que desaparezcan las causales que motivaron su desatraque, salvo que el representante de la nave, de común acuerdo con la Empresa o el Concesionario, según corresponda, decidan algo distinto.
 
 #### Artículo 52
 
+<!-- parte:10128210 -->
+
 Las naves deberán cumplir la programación establecida por la Empresa o el Concesionario, según corresponda, de acuerdo a la coordinación señalada en el Capítulo II de este Reglamento de Uso de Frentes de Atraque.
 
 #### Artículo 53
+
+<!-- parte:10128211 -->
 
 La Empresa o el Concesionario, según corresponda, mantendrán expedito el delantal del sitio cuando no haya operación de naves.
 
@@ -312,29 +432,43 @@ B) De la Atención a la Carga
 
 #### Artículo 54
 
+<!-- parte:10128212 -->
+
 El Reglamento y los Manuales de los concesionarios que exploten la infraestructura de un frente de atraque, contendrán las normas y procedimientos para la adecuada atención de la carga.
 
 #### Artículo 55
+
+<!-- parte:10128213 -->
 
 El Reglamento y los Manuales, cuando corresponda, establecerán las normas y procedimientos de coordinación de los particulares y concesionarios que presten servicios de movilización de carga en el frente de atraque respectivo.
 
 #### Artículo 56
 
+<!-- parte:10128214 -->
+
 La Empresa o el Concesionario, según corresponda, establecerá en el Reglamento o en el respectivo Manual, las normas y procedimientos que utilizará para asignar, al menos, las vías de circulación y las áreas del frente de atraque que se destinen a la realización de funciones establecidas en el Capítulo V.
 
 #### Artículo 57
+
+<!-- parte:10128215 -->
 
 La Empresa o el Concesionario, según corresponda, definirán, al menos, las vías de circulación y áreas de almacenamiento, acopio, depósito comercial y porteo, en la oportunidad, con la superficie y por el período de tiempo que se requiera para cumplir la programación del atraque de naves, las cuales deberán mantenerse actualizadas e informadas a la Empresa, al menos mensualmente.
 
 #### Artículo 58
 
+<!-- parte:10128216 -->
+
 La Empresa o el Concesionario, cuando corresponda, establecerá en el Reglamento o en el respectivo Manual, las exigencias que deberán cumplir los particulares y concesionarios que presten servicios de estiba/desestiba, embarque/desembarque y porteo, a fin de asegurar la atención expedita de las naves.
 
 #### Artículo 59
 
+<!-- parte:10128217 -->
+
 La Empresa podrá definir velocidades mínimas de transferencia de carga para cada frente de atraque.
 
 #### Artículo 60
+
+<!-- parte:10128218 -->
 
 Las normas y procedimientos que se dicten sobre la prestación de servicios de Almacenamiento y Acopio se atendrán a lo que dispone el artículo 5° inciso 2° de la ley N°19.542 y el artículo 1° del DFL N°1 de 1998, del Ministerio de Transportes y Telecomunicaciones.
 
@@ -342,11 +476,15 @@ C) De la Atención de Pasajeros
 
 #### Artículo 61
 
+<!-- parte:10128219 -->
+
 La Empresa o el Concesionario, según corresponda, contemplará en su respectivo Reglamento o Manual, normas y procedimientos que aseguren la calidad de los servicios que hayan de prestarse a los pasajeros al interior del frente de atraque y que velen por su integridad.
 
 D) De la Provisión de Suministros Básicos y otros Servicios
 
 #### Artículo 62
+
+<!-- parte:10128220 -->
 
 Las normas y procedimientos que se apliquen a la provisión de suministros básicos y otros servicios se atendrán de conformidad a las normas de seguridad pertinentes y contarán con las autorizaciones legales y reglamentarias que procedan.
 
@@ -354,13 +492,19 @@ E) De las Reuniones de Programación de Atraque de Naves y/o Faenas de Movilizac
 
 #### Artículo 63
 
+<!-- parte:10128221 -->
+
 Sin perjuicio de lo señalado en las letras A y B anteriores, la Empresa o el Concesionario que explote la infraestructura del frente de atraque, tendrá la facultad de citar a los particulares, concesionarios y usuarios o representantes, así como a organismos y Servicios Públicos que operen en los frentes de atraque, para que participen en reuniones de programación del atraque de las naves y/o de las faenas de movilización de carga.
 
 #### Artículo 64
 
+<!-- parte:10128222 -->
+
 Las reuniones de programación serán presididas por el representante que designe la Empresa o el Concesionario, según corresponda, y tendrá por objeto coordinar la operación de las naves, los vehículos de transporte terrestre, equipos y maquinarias en los frentes de atraque, de manera de lograr que las naves puedan ser atendidas de acuerdo a la programación de atraque y zarpes definida en esa reunión. Los particulares, concesionarios y usuarios deberán acatar los acuerdos que se adopten en la respectiva reunión de programación.
 
 #### Artículo 65
+
+<!-- parte:10128223 -->
 
 Los particulares, concesionarios y usuarios deberán proporcionar oportunamente la información exigida en el Reglamento o Manual, que sea necesaria para llevar a cabo la programación a que se refieren los dos artículos anteriores.
 
@@ -370,13 +514,19 @@ De los reclamos de los Usuarios
 
 #### Artículo 66
 
+<!-- parte:10128225 -->
+
 Los Usuarios del Área de la Empresa podrán someter al conocimiento y/o resolución del Gerente General de la Empresa las controversias que se susciten con los Concesionarios respecto de la prestación de los servicios contratados con éstos, sin perjuicio de las demás acciones que les confiere la ley.
 
 #### Artículo 67
 
+<!-- parte:10128226 -->
+
 La Empresa o el Concesionario dispondrán de los mecanismos virtuales necesarios para que los Usuarios del Área de la Empresa manifiesten sus reclamos, los cuales deberán ser reportados a la Empresa en la forma que establezca el Reglamento de Coordinación.
 
 #### Artículo 68
+
+<!-- parte:10128227 -->
 
 La Empresa podrá sancionar a los Concesionarios y particulares que infrinjan las normas y/o procedimientos establecidos en los respectivos reglamentos y/o manuales. En el caso de los concesionarios, las sanciones serán establecidas en las bases de licitación y contratos respectivos; y en el caso de los particulares, en el respectivo manual que haya exigido y aprobado la Empresa. Las sanciones y multas serán las establecidas en tales instrumentos.
 
@@ -385,6 +535,8 @@ La Empresa podrá sancionar a los Concesionarios y particulares que infrinjan la
 Identificación y definición de funciones
 
 #### Artículo 69
+
+<!-- parte:10128229 -->
 
 Para los efectos de este reglamento se identifican y definen las siguientes funciones:
 
@@ -423,3 +575,7 @@ Es el aprovisionamiento de agua, energía eléctrica, comunicación, combustible
 i) DE APOYO A LA FISCALIZACIÓN
 
 Es permitir a los Servicios Públicos competentes el acceso libre y gratuito a las instalaciones de la Empresa para que den cumplimiento a sus funciones de fiscalización.
+
+Anótese y publíquese en el Diario Oficial.- Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., José Luis Domínguez Covarrubias, Subsecretario de Transportes.
