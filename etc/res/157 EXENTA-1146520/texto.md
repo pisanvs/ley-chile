@@ -1,0 +1,33 @@
+DISPONE DESALOJO ADMINISTRATIVO DE TODO CERCO EMPLAZADO EN FORMA ILEGAL EN INMUEBLES FISCALES DE LAS COMUNAS DE VALLENAR, FREIRINA, HUASCO Y ALTO DEL CARMEN, PROVINCIA DE HUASCO, REGIÓN DE ATACAMA, EXCEPTUANDO LOS INMUEBLES FISCALES DEL BORDE COSTERO DE LA REGIÓN DE ATACAMA
+
+Núm. 157 exenta.- Vallenar, 5 de junio de 2020.
+
+Vistos:
+
+Estos antecedentes; las normas establecidas en el DL 1.939/77 y sus modificaciones, sobre Adquisición, Administración y Disposición de los Bienes del Estado; Ley 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional, y DFL Nº 22 que fija el texto de la ley Orgánica del Servicio de Gobierno Interior de la República; ley 19.880 que establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; la resolución Nº 7 y 8, de fecha 26 de marzo de 2019 de la Contraloría General de la República, publicada en el Diario Oficial con fecha 29 de marzo de 2019, decreto 204 del 17 de mayo del año 2019, que designa Gobernadora de la Provincia de Huasco.
+
+Considerando:
+
+1.- Que, constituye un hecho público y notorio que la Región de Atacama ha sido objeto de la presencia de masivos asentamientos originados por ocupaciones ilegales en terrenos de dominio fiscal, con el propósito de situar, en general, instalaciones para uso habitacional o viviendas, muchas de ellas de precaria construcción, hecho que tiene una larga data y de continuo crecimiento. Se trata de edificaciones correspondientes a asentamientos humanos de población residente en la región, de origen ilegal, construidas por particulares al margen de la planificación territorial, revistiendo al tenor de lo dispuesto en el artículo 19 del DL 1.939/79, la categoría de ocupantes ilegales.
+
+Estas ocupaciones principian, de preferencia, en algunos sectores aledaños a poblaciones urbanizadas, en general sin suministro de servicios básicos, especialmente agua potable, y energía eléctrica, unido a la problemática sanitaria que ello significa. En otros casos, haciendo uso de las instalaciones de las empresas de suministro de servicios eléctricos para obtener energía en forma ilegal, muchas veces causando perjuicios en la alimentación de estos a los habitantes de las poblaciones debidamente emplazadas (clientes regulados), con los peligros de cortes de energía e incendios ante la precariedad de las conexiones al margen de toda normativa vigente.
+
+2.- Que, en general, la dinámica de estas ocupaciones ilegales principia en zonas loteadas en forma irregular, ya sea en forma independiente o bien muchas veces de forma concertada, en agrupaciones que se organizan para tal efecto. Luego estos lotes, demarcados en su perímetro, con elementos notorios a la vista como cal, tiza u otro similar, en forma incipiente da inicio a la instalación de cercos precarios con palos o maderas en sus vértices, hasta lograr el cierre total del perímetro sea con alambres, planchas, lonas u otros, y que evidencian el límite de cada uno de estos lotes ocupados ilegalmente, como etapa previa a la construcción y/o instalación de las respectivas mejoras o casas prefabricadas. Luego de la "consolidación" de la ocupación ilegal, a modo de resguardo, el ocupante ilegal eventualmente efectúa mejoras en su ámbito de resguardo, instalando cierres con materiales sólidos, como fierros, cementos y maderas trabajadas e instaladas en forma continua, dificultando el acceso a cualquier otra persona ajena al ocupante y su grupo humano cercano.
+
+3.- A raíz de la suma de este tipo de asentamientos, los que lamentablemente se han visto incrementados en los últimos años en forma considerable, y sus nocivos efectos en el orden territorial en la Región y los riesgos que para la propia población implica, hemos sido requeridos por la Secretaría Regional Ministerial de Bienes Nacionales de la Región de Atacama, como Cartera de Estado que tiene dentro de sus facultades y obligaciones, la de administrar el patrimonio fiscal, solicitándonos efectuar, apenas advertida una ocupación ilegal en alguno de los pasos iniciales descritos en el considerando anterior, el retiro inmediato de los indicados materiales de cierre sin más trámite, evitando de esta forma la consolidación de la ocupación ilegal, constituyendo por tanto una medida preventiva, eficiente y eficaz.
+
+4.- Que, la ley 19.880 que establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado, contempla en su articulado principios rectores que son aplicables, que puede aportar a la prevención en la solución de la problemática de las ocupaciones ilegales, dentro de los cuales se encuentra el Principio de la no formalización, en el cual se dispone que el procedimiento administrativo debe desarrollarse con sencillez y eficacia y en este caso evitar perjuicios a la propiedad fiscal. Aplica a su vez otros principios en pos de dar efectividad a esta solución acortando los tiempos a los ocupantes ilegales para consolidar sus ocupaciones, tal como el de economía procedimental, con máxima economía de medios con eficacia, evitando trámites dilatorios.
+
+5.- Que en este mismo sentido y conforme a resolución exenta Nº 408 de fecha 20 de agosto de 2019, publicada legalmente en el Diario Oficial con fecha 26 de agosto de 2019, se dispuso en uso de las facultades legales de esta repartición el desalojo administrativo de todo cerco emplazado en forma ilegal en inmuebles Fiscales del Borde Costero de la Región de Atacama, por lo que se excluyen de la presente resolución los cercos emplazados en dichos inmuebles Fiscales.
+
+Teniendo presente:
+
+Lo señalado en la normativa vigente.
+
+Resuelvo:
+
+1.- Ejecútese, a partir de la fecha de la presente resolución, las medidas necesarias tendientes a desalojar la totalidad de cercos emplazados en propiedad Fiscal de las Comunas de Vallenar, Freirina, Huasco y Alto del Carmen, Provincia de Huasco, Región de Atacama (Exceptuando los cercos emplazados de forma ilegal en inmuebles Fiscales del Borde costero de la Región de Atacama), que revistan la calidad de ocupaciones ilegales conforme lo establece el artículo 19 del DL 1.939/77, tomando el debido resguardo de la propiedad fiscal, y de esta forma evitar la consolidación de nuevas ocupaciones ilegales.
+
+2.- Publíquese la presente en el Diario Oficial, de conformidad a lo dispuesto en el artículo 48 de la ley 19.880 del año 2003.
+
+Anótese, comuníquese, cúmplase y dese cuenta en su oportunidad.- Nelly Teresa Galeb Bou, Gobernadora Provincial de Huasco.
