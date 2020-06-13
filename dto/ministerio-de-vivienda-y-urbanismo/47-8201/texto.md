@@ -10048,7 +10048,7 @@ Se exceptuarán de esta obligación los predios existentes con una vivienda y qu
 
 #### Artículo 6
 
-2.3. En las viviendas sociales la puerta de acceso de los edificios colectivos o de las viviendas unifamiliares no podrá distar más de 30 m de una vía de tránsito público o espacio público, medida desde el correspondiente deslinde del terreno común.
+2.3. En las viviendas sociales la puerta de acceso de los edificios colectivos o de las viviendas unifamiliares no podrá distar más de 50 m del acceso a una vía de tránsito público o espacio público. Dicha distancia se medirá a través del recorrido peatonal entre ambos puntos.
 
 #### Artículo 6
 
@@ -10090,29 +10090,85 @@ Para solicitar las autorizaciones de los conjuntos de viviendas de que trata est
 
 #### Artículo 6
 
-2.9. En áreas urbanas, los predios con una vivienda social o los lotes provenientes de Operaciones Sitio que hayan sido urbanizados por los antecesores legales de los Servicios de Vivienda y Urbanización, cuya superficie no sea inferior a 100 metros cuadrados, podrán subdividirse en dos y/o contemplar la construcción de una segunda vivienda social sin que le sean aplicables las normas del Instrumento de Planificación Territorial, de igual forma, cuando los predios tengan una superficie no inferior a 150 metros cuadrados podrán subdividirse hasta tres y/o contemplar la construcción de hasta dos viviendas sociales más. Las condiciones de subdivisión predial, como asimismo, el distanciamiento entre las viviendas que se construyan en los sitios resultantes de la subdivisión o que sin mediar subdivisión se acojan al régimen de copropiedad inmobiliaria, serán de iniciativa del arquitecto autor del proyecto, sin perjuicio del cumplimiento de las condiciones de habitabilidad dispuestas en los artículos 4.1.1., 4.1.2. y 4.1.3. de esta Ordenanza.
+2.9. En áreas urbanas, a los proyectos que se emplacen en predios con una vivienda económica o en lotes provenientes de Operaciones Sitio que hayan sido urbanizados por los antecesores legales de los Servicios de Vivienda y Urbanización, no les serán aplicables las normas del Instrumento de Planificación Territorial, siempre y cuando se trate de proyectos que se construyan con financiamiento total o parcial de los Programas Habitacionales del Ministerio de Vivienda y Urbanismo y cumplan con las disposiciones de este artículo.
 
-Las edificaciones que se acojan al presente artículo no podrán exceder la altura de edificación, ni la longitud total del deslinde común con el predio vecino al proyecto, que se indican en la siguiente tabla:
+En los predios señalados se podrá efectuar lo siguiente:
 
-ALTURA DE EDIFICACION PORCENTAJE MAXIMO
+1. Subdividir el predio y contemplar la construcción simultánea de hasta 3 nuevas viviendas económicas adicionales a la vivienda existente, o
 
-DE ADOSAMIENTO
+2. Construir hasta 3 nuevas viviendas económicas adicionales a la vivienda existente, sin mediar subdivisión, debiendo en todo caso acogerse al régimen de copropiedad inmobiliaria.
 
-Desde 2,0 y hasta 3,5 metros 70%
+En ambos casos, se deberá dar cumplimiento a lo señalado en la siguiente tabla:
 
-Sobre 3,5 metros y hasta
+Superficie Predio Máximo de Lotes resultantes de la
 
-6,0 metros 60%
+Original Subdivisión o cantidad de Viviendas
 
-Sin perjuicio de lo anterior, para la aplicación de la tabla contenida en este artículo, la suma de los adosamientos de distinta altura no podrá ser superior al 70% del deslinde común con el vecino.
+No inferior a 100 m2 2
 
-El porcentaje de adosamiento y la altura máxima de adosamiento podrá excederse, en este último caso, pudiendo llegar hasta los 7,5 metros de altura, previa autorización expresa del propietario del predio vecino, suscrita ante Notario.
+No inferior a 150 m2 3
+
+No inferior a 200 m2 4
+
+Excepcionalmente, se podrán construir proyectos de vivienda de edificación colectiva que contemplen hasta un máximo de 12 unidades, incluida la existente, si la hubiere, en tanto no superen una densidad neta de 220 viviendas/hectárea y no exista subdivisión predial de por medio.
+
+En aquellos casos que el Instrumento de Planificación Territorial exija antejardín, éste podrá rebajarse, de ser el caso, hasta un mínimo de 2 metros. En caso de sitios esquina, se podrá rebajar el antejardín sólo por uno de sus frentes.
+
+Las edificaciones que se acojan al presente artículo podrán tener una altura de hasta 3 pisos más mansarda, pudiendo esta última constituirse como parte de una unidad, o en una o más unidades en sí mismas, en tanto dé cumplimiento a las condiciones de habitabilidad contenidas en el Capítulo 1 del Título 4 de esta Ordenanza y no excedan los 3,5 m de altura libre interior.
+
+Asimismo, las edificaciones podrán adosarse en los deslindes del predio original de acuerdo a la siguiente tabla:
+
+Altura total de Altura de Porcentaje Máximo de
+
+la Edificación Adosamiento Adosamiento
+
+1 piso Hasta 3,5 m 60%
+
+2 pisos Hasta 6,0 m 60%
+
+3 pisos o 3 pisos Hasta 9,0 m 50%
+
+más mansarda
+
+Los porcentajes de adosamiento de la edificación señalados en la tabla precedente, se deberán aplicar uniformemente en toda la altura de adosamiento.
+
+Podrán autorizarse porcentajes mayores de adosamiento a los señalados en la tabla precedente, previa autorización expresa del propietario del predio vecino, suscrita ante Notario. Con todo, el adosamiento no podrá en ningún caso ocupar el antejardín.
+
+No obstante, cuando el adosamiento coincida con una edificación existente aprobada con mayor porcentaje de adosamiento, se podrá contemplar una mayor longitud, siempre que no sobrepase la edificación vecina existente.
 
 El adosamiento deberá inscribirse dentro de un ángulo no superior a 45 grados sexagesimales, aplicado en el deslinde, desde la altura máxima de adosamiento permitida.
 
-La tramitación del permiso para las viviendas a que se refiere este artículo y la recepción definitiva de sus edificaciones, como también la regularización de la primera vivienda y sus ampliaciones, que se emplacen en el área urbana o rural, se efectuará conforme al procedimiento dispuesto en esta Ordenanza para las obras menores, sin que les sean aplicables las normas de los instrumentos de planificación territorial respectivos.
+Las condiciones de subdivisión predial, como, asimismo, el distanciamiento y agrupamiento entre las viviendas que se construyan en los sitios resultantes de la subdivisión o que sin mediar subdivisión se acojan al régimen de copropiedad inmobiliaria, serán de iniciativa del arquitecto autor del proyecto, sin perjuicio del cumplimiento de las condiciones de habitabilidad dispuestas en el Capítulo 1 del Título 4 de esta Ordenanza, que le sean aplicables.
 
-Lo señalado en el inciso precedente será aplicable también a los casos que se establecen en el inciso segundo del artículo 6.2.4. de esta Ordenanza.
+Por otra parte, los proyectos que se acojan al presente artículo deberán respetar un distanciamiento mínimo de 3 m en fachadas con vano y 1,4 m en fachadas sin vano en toda la altura de la edificación. En las fachadas en que existan tramos con vanos y otros sin vanos los distanciamientos se aplicarán a cada tramo por separado.
+
+Los proyectos que se acojan al presente artículo, deberán contemplar 1 estacionamiento por cada 3 unidades de vivienda.
+
+No les serán aplicables las disposiciones contenidas en el penúltimo párrafo del numeral 1 del artículo 2.3.3. de esta Ordenanza a los proyectos de viviendas que se acojan al presente artículo, en tanto contemplen un estacionamiento para automóviles por cada dos unidades de vivienda.
+
+En cualquiera de los casos descritos en los dos incisos anteriores, uno de los estacionamientos deberá ser destinado a personas con discapacidad, conforme las dimensiones y excepciones contenidas en el inciso décimo del artículo 2.4.2., de esta Ordenanza.
+
+Para el cumplimiento de la obligación de estacionamientos podrá ocuparse hasta 1/3 de la superficie destinada a antejardín.
+
+Los proyectos de edificación colectiva, que se acojan a este artículo, deberán considerar una superficie mínima de patio, conforme a la siguiente tabla:
+
+Cantidad de Viviendas Superficie de Patio
+
+Hasta 4 viviendas 36 m2
+
+5 a 12 viviendas 60 m2
+
+La superficie destinada a patio será la resultante de la suma del antejardín y las áreas de dominio común, descontadas las superficies de estacionamiento, estén o no estos últimos emplazados en todo o parte del antejardín, las azoteas o terrazas, las superficies correspondientes a los distanciamientos menores a 1,4 m y las circulaciones interiores de la edificación.
+
+La tramitación del permiso para las viviendas a que se refiere el inciso segundo de este artículo, incluida la regularización de la primera vivienda y sus ampliaciones, si las hubiese, se efectuará conforme al procedimiento dispuesto en el numeral 1, literal A, del artículo 5.1.4. de esta Ordenanza para las obras menores.
+
+Asimismo, la tramitación del permiso para las edificaciones colectivas a que se refiere el inciso cuarto del presente artículo, se efectuará conforme a lo dispuesto en el artículo 5.1.6. de la presente Ordenanza.
+
+En todos los casos, al momento de solicitar los respectivos permisos, deberá adjuntarse la certificación del Servicio de Vivienda y Urbanización que corresponda, que acredite que las viviendas nuevas corresponden a proyectos que se construirán con financiamiento total o parcial de dichos Programas Habitacionales.
+
+Lo señalado en el inciso vigésimo de este artículo será aplicable también a los casos que se establecen en el inciso segundo del artículo 6.2.4. de esta Ordenanza.
+
+A los proyectos referidos en este artículo no les será aplicable lo dispuesto en el artículo 5.1.25. de esta Ordenanza, no obstante, cuando se trate de proyectos que incluyan 3 pisos más mansarda, corresponderá la contratación de un Revisor de Proyecto de Cálculo Estructural
 
 ## Capítulo 3
 
