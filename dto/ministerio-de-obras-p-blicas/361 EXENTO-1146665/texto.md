@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº361, de 19 de mayo de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 19-3, para la obra: CONCESION ACCESO VIAL AEROPUERTO ARTURO MERINO BENÍTEZ PASARELA PEATONAL VOLCAN LASCAR KM.4.600,00 A KM. 5.000,00, que figura a nombre de GONZALEZ ALARCON DESIDERIO LEAND, rol de avalúo 7770-1, Comuna de PUDAHUEL, REGION METROPOLITANA DE SANTIAGO, superficie 49 m2. La Comisión de Peritos integrada por MARIA CRISTINA CAMUS PALACIOS, PAOLA ANDREA DOMINGO PORCELLA y GUSTAVO EDUARDO PICERO GARCIA, mediante informe de tasación de 24 de julio de 2019, fijó el monto de la indemnización provisional en la cantidad de $13.975.000 para el lote Nº19-3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+.
