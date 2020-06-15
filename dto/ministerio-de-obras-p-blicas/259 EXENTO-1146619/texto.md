@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 259 de 28 de abril de 2020, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, Art. 15 inciso 2° y 22 N° 1 del Decreto N° 900 de 31 de octubre de 1996, se expropió el lote de terreno 71, Rol de avalúo 174-24, comuna de Puchuncaví, superficie 1.694 m2., para la obra RELICITACIÓN CONCESIÓN CAMINO NOGALES - PUCHUNCAVÍ SECTOR: SECTOR 1 (RUTA F-20) SUBSECTOR: PLAZA PEAJE - FIN CUESTA, TRAMO: KM. 6.500,00 AL KM. 19.000,00, COMUNA DE PUCHUNCAVÍ, PROVINCIA DE VALPARAÍSO, REGIÓN DE VALPARAÍSO. La comisión de peritos, integrada por DORY GISELA DONOSO SALGADO, CARMEN ANDREA ALARCÓN MONTECINO y MUFIDA VIOLA ABUAWAD ELÍAS, fijó el valor de tasación con fecha 13 de mayo de 2019, acordándose la indemnización con su propietaria NICODEMA DEL CARMEN CISTERNAS VEGAS, en la cantidad de $3.107.631.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
