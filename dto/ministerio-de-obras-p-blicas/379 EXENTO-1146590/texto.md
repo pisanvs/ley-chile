@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 379 de 19 de mayo de 2020, se modificó y se tuvo por desistida parcialmente la expropiación del lote de terreno Nº 19A, ordenada por Decreto Exento MOP Nº 1774 de 22 de diciembre de 2017, para la obra "Construcción Embalse Las Palmas", Región de Valparaíso, comuna de Petorca. Lo anterior, en el sentido de que la superficie del lote Nº 19A se redujo a 16.359 m2. En todo lo no modificado, se mantiene plenamente vigente el Decreto Exento MOP Nº 1774 de 22 de diciembre de 2017. La publicación se efectúa en cumplimiento a lo dispuesto en los artículos 7º y 32º del Decreto Ley Nº 2186 de 1978.
