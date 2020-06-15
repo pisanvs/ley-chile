@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 357 de 19 de mayo de 2020, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, Art. 15 inciso 2° y 22 N° 1 del Decreto N° 900 de 31 de octubre de 1996, se expropió el lote de terreno 21-B, Rol de avalúo 1171-83, comuna de Nogales, superficie 1.086 m2., para la obra RELICITACIÓN CONCESIÓN CAMINO NOGALES - PUCHUNCAVÍ SECTOR: SECTOR 1 (RUTA F-20), SUBSECTOR: RUTA 5 NORTE - PLAZA PEAJE, KM 0.000,00 AL KM 6.500,00, COMUNA DE NOGALES, PROVINCIA DE QUILLOTA, REGIÓN DE VALPARAÍSO. La comisión de peritos, integrada por RICARDO ANTONIO STRICKLER ARELLANO, VALERIA FRANCISCA MADARIAGA TORDECILLA y CARMEN PILAR RÍOS MARCUELLO, fijó el valor de tasación con fecha 31 de julio de 2019, acordándose la indemnización con su propietaria MÓNICA JANETT TORRES HERNÁNDEZ, en la cantidad de $6.204.558.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
