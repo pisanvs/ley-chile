@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 394, de 1 de junio de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, lo señalado en el artículo 10 de la Ley N° 18.772, se expropió para METRO S.A el lote de terreno N° 117L7, para la obra: PROYECTO LÍNEA 7 METRO S.A., que figura a nombre de DURANDIN LAVANCHY PATRICK MIGUEL, rol de avalúo 287-30, Comuna de SANTIAGO, REGION METROPOLITANA DE SANTIAGO, superficie 958,95 m2. La Comisión de Peritos integrada por MARIA CRISTINA CAMUS PALACIOS, PATRICIO ANTONIO RIVERA CASTRO e ITSANG LU CHEN, mediante informe de tasación de 9 de septiembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $461.010.000.- para el lote N°117L7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
