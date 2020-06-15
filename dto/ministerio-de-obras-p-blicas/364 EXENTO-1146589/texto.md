@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 364 de 19 de mayo de 2020, se tuvo por desistida la expropiación de los lotes de terreno Nºs 2 y 3, ordenada por Decreto Exento MOP Nº 1690 de 21 de noviembre de 2018 y por Decreto Exento MOP Nº 71 de 21 de marzo de 2019, para la obra "Concesión internacional Ruta 5, Tramo: Talca - Chillán. Sector: Calle de Servicio Poniente Las Tinajas. Km. 348.960,00 al Km. 350.050,00", Región del Maule, comuna de Parral. La publicación se efectúa en cumplimiento a lo dispuesto en los artículos 7º y 32º del Decreto Ley Nº 2186, de 1978.
