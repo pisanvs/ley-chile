@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº325, de 30 de abril de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 95, para la obra: REPOSICION PAVIMENTO RUTA U-40, SECTOR: OSORNO - INTERSECCION RUTA U-52, que figura a nombre de BANCO SANTANDER CHILE, rol de avalúo 2215-34, Comuna de OSORNO, REGIÓN DE LOS LAGOS, superficie 1.005 m2. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRES ECHEVERRIA CAMPO y CARMEN PILAR RIOS MARCUELLO, mediante informe de tasación de 20 de octubre de 2017, fijó el monto de la indemnización provisional en la cantidad de $4.808.040, para el lote Nº95. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
