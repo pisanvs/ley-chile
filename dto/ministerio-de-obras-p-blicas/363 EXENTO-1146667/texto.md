@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto (Exento) MOP Nº363, de 19 de mayo de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP Nº206 de 1960, se expropió el lote de terreno Nº 142, para la obra: RELICITACIÓN CONCESIÓN CAMINO NOGALES - PUCHUNCAVÍ, SECTOR: SECTOR 1 (RUTA F-20), SUBSECTOR: PLAZA PEAJE - FIN CUESTA, TRAMO: KM 6.500,00 AL KM 19.000,00, que figura a nombre de FARIAS OLIVARES SEGUNDO DAMIAN, rol de avalúo 163-26, Comuna de PUCHUNCAVI, REGIÓN DE VALPARAÍSO, superficie 896 m2. La Comisión de Peritos integrada por LORETO ISABEL HERNANDEZ RIOS, RICARDO ANTONIO STRICKLER ARELLANO y MARCELO GABRIEL OYARZO SALDIAS, mediante informe de tasación de 13 de marzo de 2019, fijó el monto de la indemnización provisional en la cantidad de $4.605.000 para el lote Nº142. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+.
