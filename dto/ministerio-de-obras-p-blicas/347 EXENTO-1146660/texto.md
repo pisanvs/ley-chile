@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°347, de 08 de mayo de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.136-B4 y 136-B5, para la obra: MEJORAMIENTO RUTA K-275, SECTOR LAS TRANCAS-PARQUE INGLES, que figura a nombre de INVERSIONES SANTA CLAUDIA LTDA y CAMPOS JORQUERA NICODEMUS, roles de avalúo 164-305 y 27-365, Comuna de RIO CLARO, REGION DEL MAULE, superficies 231 y 6.630 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 13 de septiembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $3.343.100 para el lote N°136-B4, y $23.567.000 para el lote N°136-B5. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
