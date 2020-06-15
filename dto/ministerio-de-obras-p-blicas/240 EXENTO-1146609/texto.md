@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°240, de 24 de abril de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 311, 329-A y 335, para la obra: AMPLIACION REPOSICION RUTA V-85. SECTOR: HUITO - CALBUCO, que figuran a nombre de ESCUELA G 826 YALE, BARRIA HUEMUSUMUY FRANCISCO OBRIEL y GERMONT S A, roles de avalúo 165-19, 167-72 y 167-51, Comuna de CALBUCO, REGIÓN DE LOS LAGOS, superficies 1.366, 2.905 y 226 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, PATRICIA ANGELICA MORALES RIVERA y ANDRÉS ECHEVERRIA CAMPO, mediante informe de tasación de 11 de marzo de 2019, fijó el monto de la indemnización provisional en la cantidad de $14.612.470, para el lote N°311, $12.015.980, para el lote N°329-A y $2.729.000, para el lote N°335. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
