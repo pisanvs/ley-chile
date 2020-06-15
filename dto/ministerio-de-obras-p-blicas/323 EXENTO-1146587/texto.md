@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 323, de 30 de abril de 2020, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº1193, de 28 de septiembre de 2018, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº106, expropiado con motivo de la obra: "Mejoramiento Rutas W-135-125, Sector: Rampa Chacao - Linao, Comuna de Ancud, Provincia de Chiloé, Región de Los Lagos. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 17 de junio de 2015, complementada por acta de 15 de noviembre de 2016, ascendente a la cantidad de $6.894.600, para el lote Nº106.
