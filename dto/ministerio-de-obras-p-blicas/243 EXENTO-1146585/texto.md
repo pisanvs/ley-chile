@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 243, de 24 de abril de 2020, se modificó el numeral segundo del Decreto Exento MOP. Nº756, de 15 de septiembre de 2016, quedando de la siguiente forma: lotes Nºs 33 y 35, ubicados en la comuna de Porvenir, figuran a nombre de CALCUTTA VIOLIC ATILIO ALEJANDRO, según rol de avalúo 601-14, superficies 3.221 y 74 m2. Compleméntese el informe de tasación emitido el 27 de noviembre de 2015, mediante acta emanada de la misma comisión de 12 de enero de 2018.
