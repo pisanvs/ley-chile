@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 1.718, de fecha 25 de mayo de 2020, se ordenó la expropiación Parcial, conforme a las normas del decreto ley N° 2.186, de 1978, del denominado Lote N°1-A, correspondiente al inmueble ubicado en Concha y Toro 3459, Rol de Avalúo N° 3400-15 de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Serv. de Salud Metrop. Suroriente, con una superficie aproximada de 8.738,62 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Construcción Conexión Vial Gabriela El Peñón". La Comisión de Peritos integrada por los señores Pablo Berríos Pirnat, Arquitecto; Nicolás Romero Morales, Ingeniero en Ejecución y Señora Yazmín Balboa Rojas, Constructor Civil, mediante informe de fecha 19 de mayo de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $3.897.649.310.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.-
+
+Director Serviu Metropolitano.
