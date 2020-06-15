@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 281 de 28 de abril de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 223, Rol de avalúo 108-44, comuna de Limache, superficie 12 m2., para la obra REPOSICION PUENTE LO CHAPARRO EN RUTA F-10-G, COMUNA DE LIMACHE, PROVINCIA DE MARGA MARGA, REGION DE VALPARAISO. La comisión de peritos, integrada por CLAUDIA PAOLA ARELLANO GÓMEZ, ENRIQUE ANDRÉS RAMOS GUZMÁN y LUIS PABLO PADILLA VERGARA, fijó el valor de tasación con fecha 30 de junio de 2016, acordándose la indemnización con su propietario ROLANDO FABIÁN VERDEJO ESCOBAR, en la cantidad de $1.751.622.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
