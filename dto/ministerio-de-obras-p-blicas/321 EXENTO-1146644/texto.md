@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 321 de 29 de abril de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, Art. 15 inciso 2º y 22 Nº 1 del Decreto Nº 900 de 31 de octubre de 1996, se expropió el lote de terreno 32-1, Rol de avalúo 228-88, comuna de La Reina, superficie 346 m2., para la obra CONCESIÓN AMÉRICO VESPUCIO ORIENTE. TRAMO AV. EL SALTO - PRINCIPE DE GALES. SECTOR 2: PUENTE CENTENARIO - PRINCIPE DE GALES, COMUNA DE LA REINA, PROVINCIA DE SANTIAGO, REGIÓN METROPOLITANA DE SANTIAGO. La comisión de peritos, integrada por CLAUDIO GONZALO DURÁN MASSARDO, MARIA CRISTINA CAMUS PALACIOS e ITSANG LU CHEN, fijó el valor de tasación con fecha 19 de julio de 2019, acordándose la indemnización con su propietaria INMOBILIARIA PRINCIPE DE GALES S.A., en la cantidad de $507.086.497.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
