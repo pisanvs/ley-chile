@@ -1,0 +1,7 @@
+OCTAVA RENOVACIÓN Y TRANSFERENCIA TOTAL DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 504, del 27 de diciembre de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorga la Octava Renovación y Transferencia Total a Manuel Ernesto Zamorano Godoy, RUN: 9.247.597-2, otorga concesión marítima menor, con vencimiento el 31 de diciembre de 2024, sobre un sector de terreno de playa y uso de mejora fiscal, en el lugar denominado Caleta Abtao, Balneario Juan López, Manzana N° 11, Sitio N° 3, comuna de Antofagasta, provincia de Antofagasta, Región de Antofagasta, con una superficie total de 248,34,4 m2, la que fue tramitada con el SIABC Nos 38.638 y 43.208. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto de esta concesión marítima es continuar amparando la construcción existente como una casa habitación de veraneo familiar. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Antofagasta. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Por orden del Sr. Capitán de Puerto, Giovanni Grassi Fuentes, Teniente 1° LT, Subjefe, Capitanía de Puerto de Antofagasta.
