@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 228, de 22 de abril de 2020, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP N° 492, de 28 de junio de 2019, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N° 95, expropiado con motivo de la obra: CAMINO REPOSICIÓN PAV. RUTA K-25, SECTOR MOLINA - LOS ROBLES, TRAMO KILÓMETRO 0,90000 A KM. 14,66293, COMUNAS MOLINA - RÍO CLARO, PROVINCIA CURICÓ - TALCA REGIÓN DEL MAULE. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 9 de agosto de 2013, ascendente a la cantidad $122.700.- para el lote N° 95.
