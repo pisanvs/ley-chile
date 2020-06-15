@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 343, de 08 de mayo de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 2, 3, 4 y 5, para la obra: MEJORAMIENTO RUTA L-45, SECTOR EL PEÑASCO-RETEN LOS HUALLES, que figuran a nombre de OLATE ZENTENO RAMON SUC, rol de avalúo 557-72, Comuna de LINARES, REGION DEL MAULE, superficies 872, 2.929, 263 y 111 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 29 de marzo de 2019, fijó el monto de la indemnización provisional en la cantidad de $3.564.600 para el lote Nº2, $6.150.900 para el lote Nº3, $1.125.350 para el lote Nº4, y $233.100 para el lote Nº5. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
