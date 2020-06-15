@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 251 de 24 de abril de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 1-A, Rol de avalúo 102-59, comuna de Coihueco, superficie 409 m2., para la obra MEJORAMIENTO RUTA N-51 Y N-47, SECTOR COIHUECO - PINTO, COMUNA DE COIHUECO, PROVINCIA DE PUNILLA, REGION DE ÑUBLE. La comisión de peritos, integrada por ROXANA CECILIA ABARZÚA GAJARDO, GONZALO ANDRÉS SUAZO FIGUEROA y MARIA PAMELA MAC-GUIRE ACEVEDO, fijó el valor de tasación con fecha 19 de septiembre de 2018, acordándose la indemnización con su propietario CARLOS DANIEL LAGOS FERRADA, en la cantidad de $3.081.682.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
