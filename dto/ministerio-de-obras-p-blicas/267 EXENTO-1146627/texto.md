@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 267 de 28 de abril de 2020, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, Art. 15 inciso 2° y 22 N° 1 del Decreto N° 900 de 31 de octubre de 1996, se expropió el lote de terreno 2, Rol de avalúo 2087-904, comuna de Melipilla, superficie 199 m2., para la obra AUTOPISTA SANTIAGO - SAN ANTONIO SECTOR: CALLE DE SERVICIO LAS OSTALAZAS TRAMO: KM. 66.660,00 A KM. 67.400,00, COMUNA DE MELIPILLA, PROVINCIA DE MELIPILLA, REGIÓN METROPOLITANA DE SANTIAGO. La comisión de peritos, integrada por JESÚS FERNANDO DÍAZ PASMIÑO, ANDRÉS ECHEVERRÍA CAMPO y ANDRÉS ANÍBAL RISSO CAAMAÑO, fijó el valor de tasación con fecha 22 de enero de 2019, acordándose la indemnización con sus propietarios JUAN PATRICIO FLORES COFRÉ Y OTRO, en la cantidad de $9.762.761.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
