@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº341, de 08 de mayo de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 63-D, para la obra: CONSTRUCCION RUTA PRECORDILLERANA, SECTOR RUTA L-11 - RUTA L-535 - PUENTE ACHIBUENO, que figura a nombre de GUZMAN GATICA JUAN MAXIMILIANO, rol de avalúo 567-197, Comuna de LINARES, REGION DEL MAULE, superficie 1.002 m2. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y RODRIGO ALEXIS ESCOBAR FERNANDEZ, mediante informe de tasación de 21 de octubre de 2019, fijó el monto de la indemnización provisional en la cantidad de $15.193.700 para el lote Nº63-D. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
