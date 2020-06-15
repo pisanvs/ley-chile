@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 276 de 28 de abril de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 181-A, Rol de avalúo 183-42, comuna de Quillón, superficie 51 m2., para la obra REPOSICION RUTA 148, SECTOR: CRUCE RUTA 5 - PUENTE QUEIME, COMUNA DE QUILLON, PROVINCIA DE DIGUILLIN, REGIÓN DE ÑUBLE. La comisión de peritos, integrada por VALESKA CAROLINA ALÉ GOÑI, MARIA PAMELA MAC-GUIRE ACEVEDO y VALERIA DEL CARMEN MARDONEZ LEMA, fijó el valor de tasación con fecha 07 de septiembre de 2018, acordándose la indemnización con su propietaria KARINA ANDREA CONCHA GONZALEZ, en la cantidad de $804.348.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
