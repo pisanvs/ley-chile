@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 395, de 1 de junio de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP Nº206 de 1960, lo señalado en el artículo 10º de la Ley Nº 18.772, se expropió para METRO S.A el lote de terreno Nº 98L7, para la obra: PROYECTO LÍNEA 7 METRO S.A., que figura a nombre de SALAS SEPULVEDA ALEJANDRO JESUS, rol de avalúo 760-9, Comuna de RENCA, REGIÓN METROPOLITANA DE SANTIAGO, superficie 1.387,52 m2. La Comisión de Peritos integrada por PATRICIA VERONICA ZAVALA CONTRERAS, HUGO ANDRES MARIN AVENDAÑO y ANDRES ANIBAL RISSO CAAMAÑO, mediante informe de tasación de fecha 21 de diciembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $541.250.300.- para el lote Nº98L7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186. de 1978.
+
+Fiscalía MOP.
