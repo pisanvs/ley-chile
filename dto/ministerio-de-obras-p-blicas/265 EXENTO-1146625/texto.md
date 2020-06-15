@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 265 de 28 de abril de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP Nº 850 de 1997, Art. 15 inciso 2º y 22 Nº 1 del Decreto Nº 900 de 31 de octubre de 1996, se expropió el lote de terreno 9-1, Rol de avalúo 7765-19, comuna de Pudahuel, superficie 106 m2., para la obra CONCESION ACCESO VIAL AEROPUERTO ARTURO MERINO BENÍTEZ PASARELA PEATONAL CORDILLERA KM. 4.100,00 A KM. 4.600,00, COMUNA DE PUDAHUEL, PROVINCIA DE SANTIAGO, REGIÓN METROPOLITANA DE SANTIAGO. La comisión de peritos, integrada por MARIA CRISTINA CAMUS PALACIOS, PAOLA ANDREA DOMINGO PORCELLA y GUSTAVO EDUARDO PICERO GARCÍA, fijó el valor de tasación con fecha 29 de julio de 2019, acordándose la indemnización con su propietaria INVERSIONES E INMOBILIARIA EL TRANSITO S.A., en la cantidad de $15.866.665.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
