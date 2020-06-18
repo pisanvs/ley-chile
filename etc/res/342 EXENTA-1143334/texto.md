@@ -24,7 +24,9 @@ Resolución:
 
 1. Llámase a postulación en condiciones especiales a la población adulto mayor de más de 60 años de edad, para el otorgamiento de subsidios habitacionales del Programa de Subsidio de Arriendo de Vivienda, conforme a las disposiciones del DS N° 52 (V. y U.), de 2013.
 
-2. Las postulaciones se recibirán a partir del 10 de marzo y hasta el 18 de mayo de 2020, ambas fechas inclusive, efectuándose un único proceso de selección a partir del cierre del respectivo proceso de postulación. En este período los Servicios de Vivienda y Urbanización (Serviu) procederán directamente, o a través de los medios electr�nicos que se establezcan al efecto, a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deban acompañarlas. Asimismo, los Serviu de todas las regiones podrán recibir solicitudes de postulación a través de las entidades públicas con las que tenga convenio para tales efectos.
+2. Las postulaciones se recibirán a partir del 10 de marzo y hasta el 18 de mayo de 2020, ambas fechas inclusive, efectuándose un único proceso de selección a partir del cierre del respectivo proceso de postulación. En este período los Servicios de Vivienda y Urbanización (Serviu) procederán directamente, o a través de los medios electrónicos que se establezcan al efecto, a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deban acompañarlas. Asimismo, los Serviu de todas las regiones podrán recibir solicitudes de postulación a través de las entidades públicas con las que tenga convenio para tales efectos.
+
+Se realizarán dos procesos de selección con los postulantes que hubieren efectuado válidamente su postulación, el primero a partir del 30 de abril de 2020 y el segundo a partir del 27 de julio de 2020. Los postulantes que no sean seleccionados en el primer proceso de selección mantendrán su calidad de postulantes y serán considerados para el segundo proceso de selección.
 
 3. Para postular al llamado a que se refiere el número 1 de esta resolución exenta, los postulantes deberán ser adulto mayor de más de 60 años al momento de postular, o cumplirlos durante este año calendario. Lo anterior se acreditará presentando Cédula de Identidad vigente o que vaya a vencer durante el año 2020.
 
@@ -45,6 +47,8 @@ Resolución:
 7. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS N° 52 (V. y U.), de 2013, será de hasta 213.000 UF. correspondientes a 1.000 subsidios, que se distribuirán regionalmente según la tabla que se presenta a continuación, pudiendo practicarse redistribuciones o modificaciones de recursos que serán sancionadas mediante resolución:
 
 8. El monto mensual de la renta de arrendamiento que se podrá acordar en los contratos que se celebren por los beneficiarios del presente llamado en todo el país, no podrá superar las 11 UF, según el valor que tenga ésta a la fecha de la suscripción del contrato, a excepción de los contratos que se celebren en todas las comunas de las regiones de Aysén y Magallanes y las comunas de Arica, Camarones, Iquique, Alto Hospicio, Antofagasta, Calama, Copiapó, Isla de Pascua y Juan Fernández, en que el monto de la renta de arrendamiento podrá ser de hasta 13 UF.
+
+> **Nota.** El numeral 2 de la Resolución 941 Exenta, Vivienda, publicada el 18.06.2020, dispone reanudar la recepción de postulaciones al llamado dispuesto por la presente norma, a contar del 15 de junio y hasta el 27 de julio, ambas fechas inclusive.
 
 Anótese, publíquese y archívese.- Guillermo Rolando Vicente, Ministro de Vivienda y Urbanismo Subrogante.
 
