@@ -2906,9 +2906,21 @@ Si a consecuencia de cualquiera de los delitos señalados en los cuatro artícul
 
 Si alguno de tales hechos punibles se cometiere por imprudencia temeraria o por mera negligencia con infracción de los reglamentos respectivos, las penas serán de presidio menor en su grado mínimo o multa de seis a veinte unidades tributarias mensuales.
 
-#### Artículo 318°
+#### Artículo 318
 
-El que pusiere en peligro la salud pública por infracción de las reglas higiénicas o de salubridad, debidamente publicadas por la autoridad, en tiempo de catástrofe, epidemia o contagio, será penado con presidio menor en su grado mínimo o multa de seis a veinte unidades tributarias mensuales.
+El que pusiere en peligro la salud pública por infracción de las reglas higiénicas o de salubridad, debidamente publicadas por la autoridad, en tiempo de catástrofe, epidemia o contagio, será penado con presidio menor en su grado mínimo a medio o multa de seis a doscientas unidades tributarias mensuales.
+
+Será circunstancia agravante de este delito cometerlo mediante la convocatoria a espectáculos, celebraciones o festividades prohibidas por la autoridad sanitaria en tiempo de catástrofe, pandemia o contagio.
+
+En los casos en que el Ministerio Público solicite únicamente la pena de multa de seis unidades tributarias mensuales, se procederá en cualquier momento conforme a las reglas generales del procedimiento monitorio, siendo aplicable lo previsto en el artículo 398 del Código Procesal Penal. Tratándose de multas superiores se procederá de acuerdo con las normas que regulan el procedimiento simplificado.
+
+#### Artículo 318 bis
+
+El que, en tiempo de pandemia, epidemia o contagio, genere, a sabiendas, riesgo de propagación de agentes patológicos con infracción de una orden de la autoridad sanitaria, será sancionado con la pena de presidio menor en su grado medio a máximo, y multa de veinticinco a doscientas cincuenta unidades tributarias mensuales.
+
+#### Artículo 318 ter
+
+El que, a sabiendas y teniendo autoridad para disponer el trabajo de un subordinado, le ordene concurrir al lugar de desempeño de sus labores cuando éste sea distinto de su domicilio o residencia, y el trabajador se encuentre en cuarentena o aislamiento sanitario obligatorio decretado por la autoridad sanitaria, será castigado con presidio menor en sus grados mínimo a medio y una multa de diez a doscientas unidades tributarias mensuales por cada trabajador al que se le hubiere ordenado concurrir.
 
 #### Artículo 319
 
