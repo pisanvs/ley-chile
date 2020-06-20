@@ -162,11 +162,19 @@ e) Copia simple de la Ficha Escolar de cada uno de los alumnos; y
 
 f) Certificado del oficial a cargo de la Unidad donde realiza su Servicio Militar, o certificado del médico tratante que acredite la existencia de la enfermedad que le impidió asistir al establecimiento educacional, o certificado de defunción, o el que corresponda si fuere otra causal homologable, en los casos del artículo 9º.
 
-La solicitud a que se refiere la letra e) del artículo 7º anterior, deberá ser presentada a través de los formularios electrónicos que establezca para estos efectos el Ministerio de Educación. Sólo en casos excepcionales, debidamente calificados por el Secretario Regional Ministerial de Educación correspondiente, podrá presentarse la solicitud y sus documentos ante este último, quien los remitirá a la Subsecretaría de Educación.
+La solicitud a que se refiere la letra
+
+- **e)** del artículo 7º anterior, deberá ser presentada a través de los formularios electrónicos que establezca para estos efectos el Ministerio de Educación asimismo deberá procederse con los antecedentes indicados en las letras a),
+
+- **b)** c),
+
+- **e)** de esta disposición, adjuntándose a través de la misma postulación en línea. Sólo en casos excepcionales, debidamente calificados por el Secretario Regional Ministerial de Educación correspondiente, podrá presentarse la solicitud y sus documentos ante este último, quien los remitirá a la Subsecretaría de Educación.
 
 #### Artículo 13
 
 La Subsecretaría de Educación deberá verificar que la documentación señalada en el artículo anterior se encuentra completa, que ha sido otorgada por quien corresponda y que se recibió dentro de plazo y ordenará el pago de la subvención anual educacional pro-retención a los respectivos sostenedores mediante resolución.
+
+Para la verificación y certificación de la documentación acompañada por los sostenedores a que se refiere el inciso anterior, la Subsecretaría de Educación podrá utilizar los medios tecnológicos necesarios y que estén a su disposición
 
 No podrá procederse al pago de la subvención anual educacional pro-retención, cuando falte alguna documentación o exista error en cuanto al obligado a otorgarla o en cuanto al causante de dicha subvención o si la solicitud se presentó fuera de plazo. En especial, la falsedad de los datos consignados constituye infracción grave de aquellas contempladas en el artículo 50 del DFL Nº 2, de 1998 de Educación.
 
