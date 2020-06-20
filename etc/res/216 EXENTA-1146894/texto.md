@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 216 EXENTA, DE 12 DE MARZO DE 2020
+
+Por resolución exenta N° 216, de 12 de marzo de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Magallanes y de la Antártica Chilena, se modifica la resolución exenta N° 194, de 14 de marzo de 2016, de esta Secretaría Regional Ministerial, que aprobó los Planes y Programas de Enseñanza de la Escuela de Conductores Profesionales, Capacitaciones Avansur Limitada, incorporando una nueva sede, ubicada en calle Bernardo O'Higgins N° 1263, de la ciudad de Puerto Natales, se impartirán los cursos conducentes a la obtención de licencia de conductor profesional clase A-2 y A-4.-
+
+Marco Antonio Mella Bórquez, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Magallanes y de la Antártica Chilena.
