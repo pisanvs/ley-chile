@@ -36,7 +36,11 @@ Dichos montos fueron calculados conforme a la resolución exenta Nº 1.875 (V. y
 
 Mediante resolución del Director del Serviu respectivo, se determinarán los montos definitivos de Asistencia Técnica, cuando corresponda otorgar los incrementos que la resolución exenta Nº 1.875 (V. y U.), de 2015, establece en las letras e), g), h), i), j) y k) del número 3 de su artículo 3º.
 
-3. Los montos de subsidios asignados mediante la presente resolución, ascendentes a 3.034.499,93 Unidades de Fomento, se imputarán a los recursos dispuestos para el año 2020, para el Programa Fondo Solidario de Elección de Vivienda de las regiones de Coquimbo, Valparaíso, Libertador General Bernardo O'Higgins, Maule, Biobío, Araucanía, Los Lagos y Metropolitana de Santiago, según el siguiente detalle:
+3. Los montos de subsidios asignados mediante la presente resolución, ascendentes a 3.034.639,93 Unidades de Fomento, se imputarán a los recursos dispuestos para el año 2020, para el Programa Fondo Solidario de Elección de Vivienda de las regiones de Coquimbo, Valparaíso, Libertador General Bernardo O'Higgins, Maule, Biobío, Araucanía, Los Lagos y Metropolitana de Santiago, según el siguiente detalle:
+
+> **Nota.** La letra a del numeral 1° de la Resolución 953 Exenta, Vivienda, publicada el 20.06.2020, modifica la presente norma en el sentido de sustituir en la fila 2, columna Financiamiento Total, de la tabla, el guarismo "261.029,50" por "261.169,50".
+
+> **Nota.** NOTA 1 La letra b del numeral 1° de la Resolución 953 Exenta, Vivienda, publicada el 20.06.2020, modifica la presente norma en el sentido de sustituir el guarismo "3.034.499,93" por "3.034.639,93" y en la fila Valparaíso, en la columna Subtotal Subsidios destinados al Proyecto la cifra "757.254" por "757.394" y en la columna Monto Total Subsidios UF la cifra "784.943,20" por "785.083,20".
 
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
