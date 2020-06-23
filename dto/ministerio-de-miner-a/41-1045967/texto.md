@@ -140,6 +140,10 @@ cc. Servicio: El Servicio Nacional de Geología y Minería.
 
 dd. Vida Útil del Proyecto Minero: Aquel cálculo que se efectúa en función de las reservas demostradas, probadas más probables, certificadas por una persona competente en recursos y reservas mineras de acuerdo a las disposiciones de la ley N° 20.235, en relación con los niveles anuales de extracción de mineral.
 
+Sin perjuicio de lo anterior, para aquellas empresas mineras cuyo fin sea la extracción o beneficio de uno o más yacimientos mineros, y cuya capacidad de extracción de mineral sea superior a diez mil toneladas brutas (10.000 t) mensuales por faena minera, e inferior o igual a quinientas mil toneladas brutas (500.000 t) mensuales por faena minera, la vida útil del proyecto minero corresponderá al cálculo que se efectúe en función de los recursos minerales medidos, indicados e inferidos, certificados por una Persona Competente en Recursos y Reservas Mineras, conforme al Estudio de Diagnóstico, establecido en el Código para la Certificación de Prospectos de Exploración, Recursos y Reservas Mineras, de acuerdo a las disposiciones de la ley Nº 20.235.
+
+Por su parte, el cálculo de la vida útil de proyectos de hidrocarburos será certificado por una Persona Competente en Recursos y Reservas Mineras, de acuerdo a las disposiciones de la ley Nº 20.235, con experiencia en evaluación de recursos y reservas de hidrocarburos.
+
 ## Título II
 
 Presentación y Aprobación del Plan de Cierre
@@ -169,6 +173,8 @@ Los Planes de Cierre que se sometan a aprobación del Servicio tendrán carácte
 #### Artículo 11
 
 Procedimientos. Los Planes de Cierre de Faenas Mineras se someterán a la aprobación del Servicio a través del procedimiento de aplicación general o simplificada, según corresponda. La Empresa Minera no podrá iniciar la operación de la Faena Minera o instalación minera sin contar previamente con esta aprobación.
+
+Las notificaciones se practicarán por correo electrónico, a la dirección que se señala en la presentación respectiva, salvo que el titular manifieste su voluntad de ser notificado por carta certificada, lo que se deberá ajustar a lo dispuesto en la ley Nº 19.880 y sus respectivas modificaciones.
 
 ## Capítulo II
 
@@ -524,6 +530,10 @@ Se someterán igualmente a este procedimiento, las exploraciones y las prospecci
 
 Estructura del Plan de Cierre Simplificado. El proyecto de Plan de Cierre Simplificado que se presente al Servicio para su aprobación, deberá observar la estructura establecida en las guías metodológicas que dicte el Servicio para tales efectos. Con todo, el proyecto deberá contener al menos los aspectos descritos en el artículo 16 de la ley.
 
+Sin perjuicio de lo anterior, respecto a los planes de cierre de este tipo de empresas mineras, cuya capacidad de extracción de mineral no sea superior a cinco mil toneladas brutas (5.000 t) mensuales por faena minera y que carezcan de planta de producción, depósito de relaves o de ripios de lixiviación, se dará cumplimiento a esta obligación presentando una declaración que contenga los antecedentes relativos a la individualización de la faena minera y de la Empresa Minera, y que especifique las medidas de cierre referidas sólo al desmantelamiento, cierre de accesos, señalizaciones y medidas de estabilidad física de depósitos de estériles o botaderos.
+
+Sin embargo, en caso de contar con una o más plantas de producción, depósito de relave o de ripios de lixiviación, deberán también declararse las siguientes medidas y acciones: desenergización de instalaciones; retiro de materiales y repuestos; manejo de residuos o desechos peligrosos, industriales o domésticos; protección de estructuras remanentes; establecimiento de canales perimetrales y un sistema de evacuación de aguas; compactación de berma de coronamiento; cubrimiento con material que evite la erosión; adopción de medidas de estabilidad física para el muro del tranque y construcción de zanjas interceptoras, según corresponda.
+
 #### Artículo 30
 
 Procedimiento de revisión. Los proyectos de Plan de Cierre sometidos al procedimiento simplificado, deberán someterse a las normas de tramitación y aprobación dispuestas para el procedimiento de aplicación general, en todo aquello que sea pertinente conforme a la ley y al presente Reglamento.
@@ -836,7 +846,7 @@ Se entenderá que el Auditor Externo es idóneo cuando acredite, al menos, a ple
 
 a) Título profesional relacionado con las ciencias vinculadas a la industria minera.
 
-b) Acreditar un mínimo de 10 años de experiencia en el área de la industria minera.
+b) Acreditar un mínimo de 5 años de experiencia en el área de la industria minera.
 
 2. Sociedades profesionales o personas jurídicas
 
@@ -884,7 +894,7 @@ Actualización Periódica. Con el mérito del informe de las auditorías periód
 
 #### Artículo 67
 
-Actualización Extraordinaria. Con el mérito del informe de las Auditorías Extraordinarias o Voluntarias y de lo resuelto mediante resolución fundada, el Servicio podrá ordenar a la Empresa Minera que actualice sus Planes de Cierre, sea que se rijan por el procedimiento de aplicación general o simplificado. Estas actualizaciones serán procedentes, entre otros, en los siguientes casos:
+Actualización Extraordinaria. Con el mérito del informe de las Auditorías Extraordinarias o Voluntarias y de lo resuelto mediante resolución fundada, el Servicio podrá ordenar a la Empresa Minera que actualice sus Planes de Cierre, sea que se rijan por el procedimiento de aplicación general o simplificado. Estas actualizaciones serán además procedentes, sin necesidad de auditoría previa, entre otros, en los siguientes casos:
 
 a) Con ocasión de modificaciones sustanciales del Proyecto Minero original.
 
@@ -942,11 +952,11 @@ En caso que el Servicio requiera de mayor información a objeto de resolver sobr
 
 #### Artículo 73
 
-Incumplimiento. Si con el mérito del informe final de auditoría se constatara un incumplimiento en las obligaciones contenidas en el Plan de Cierre, el Servicio ordenará las medidas correctivas pertinentes, fijando un plazo prudencial para su cumplimiento.
+Incumplimiento que determina la ejecución de la garantía financiera. Si con el mérito del informe final de auditoría, o en ejercicio de las facultades fiscalizadoras del Servicio conforme el artículo 38 de la ley se constatara un incumplimiento en las obligaciones contenidas en el Plan de Cierre, el Servicio ordenará las medidas correctivas pertinentes, fijando un plazo prudencial para su cumplimiento.
 
 Una vez cumplido el plazo otorgado, y no habiéndose ejecutado las medidas correctivas ordenadas, el Servicio, mediante resolución fundada, podrá ejercer las medidas y aplicar las sanciones que correspondan.
 
-Si el incumplimiento versare sobre materias cuya calificación estuviere contenida en la Resolución de Calificación Ambiental e incidiere en la determinación del incumplimiento total o parcial del Plan de Cierre, respecto de materias medio ambientales, el Servicio deberá resolver, previo informe vinculante de la Superintendencia de Medio Ambiente, la que deberá informar en un plazo de 15 días.
+En el caso que se constate un incumplimiento en los términos del artículo 44 número 1 de la Ley o de abandono de la faena, el Servicio podrá proceder a declarar derechamente el incumplimiento, sin necesidad de medidas correctivas, sin perjuicio de su facultad para aplicar las sanciones que correspondan.
 
 El Servicio resolverá el incumplimiento y notificará dicha resolución a la Empresa Minera mediante carta certificada.
 
@@ -1018,7 +1028,7 @@ El valor del Plan de Cierre, debidamente aprobado por el Servicio, constituirá 
 
 Siempre que ocurra una quiebra que involucre una faena o instalación minera, el síndico deberá informar de la misma al Director antes de la celebración de la primera junta de acreedores.
 
-En todo lo demás se aplicarán las reglas comunes dispuestas en el Libro IV del Código de Comercio.
+En todo lo demás se aplicarán las reglas comunes dispuestas en la Ley Nº 20.720, que Sustituye el Régimen Concursal Vigente por una Ley de Reorganización y Liquidación de Empresas y Personas, y Perfecciona el Rol de la Superintendencia del Ramo.
 
 ## Título VIII
 
@@ -1124,7 +1134,11 @@ Constitución de la Garantía. La Garantía de cumplimiento deberá constituirse
 
 #### Artículo 101
 
-Disposición de la Garantía. Los instrumentos A1 elegidos para la constitución de la Garantía, deberán ser tomados a nombre y a favor de la Empresa Minera, y puestos a disposición del Servicio, debidamente endosados en garantía, cuando corresponda, atendida su naturaleza, para caucionar el cumplimiento de la obligación de Cierre.
+Disposición de la Garantía. Los instrumentos A1 elegidos para la constitución de la Garantía, con excepción de las pólizas de garantía, deberán ser tomados a nombre y a favor de la Empresa Minera, y puestos a disposición del Servicio, debidamente endosados en garantía, cuando corresponda, atendida su naturaleza, para caucionar el cumplimiento de la obligación de Cierre. La póliza de garantía deberá ser tomada o contratada a nombre y en beneficio del Servicio, quien será considerado el asegurado para todos los efectos legales y contractuales que correspondan.
+
+En el caso que la empresa minera opte por una póliza de garantía, ésta deberá ser emitida utilizando un condicionado general que haya sido incorporado al depósito de pólizas de la Comisión para el Mercado Financiero, como "Póliza de Seguro de Garantía a Primer Requerimiento para Cierre de Faenas Mineras" y cuyo texto, así como sus respectivos adicionales, sea aprobado previamente por el Servicio a través de resolución publicada por éste. El texto de la póliza no podrá contener ninguna limitación para su cobro y posterior pago, siendo suficiente la mera notificación del requerimiento de pago del Servicio al asegurador, todo en los términos de la categoría A.1) del artículo 52 de la ley, siendo, por tanto, solo exigible para su pago por parte del asegurador que el requerimiento contenga la identificación de la póliza, del asegurado y del monto reclamado. Por lo tanto, no será requisito para el pago de la suma reclamada iniciar un procedimiento de liquidación en los términos dispuesto en el artículo 61 del DFL Nº 251, de 1931, y el decreto supremo Nº 1.055, de 2012, ambos del Ministerio de Hacienda. De esta manera, se entiende que para los efectos de su cobro y pago, la póliza de garantía operará como una boleta de garantía bancaria.
+
+La suma asegurada deberá ser pagada por la respectiva compañía de seguros dentro del plazo pactado en la respectiva póliza, no pudiendo ser este superior a 30 días corridos desde su notificación y reclamación al asegurador. El asegurador deberá indemnizar al Servicio la totalidad de los costos de las medidas y actividades que dejó de cumplir la Empresa Minera, de acuerdo a la resolución que el Servicio dicte de conformidad con el artículo 44 de la ley, hasta el monto asegurado.
 
 Los instrumentos A2 y A3 elegidos para la constitución de la Garantía, deberán ser puestos a disposición del Servicio, debidamente endosados en garantía o entregados en otra forma de caución que permita al Servicio ejecutarla, según corresponda, de acuerdo a su naturaleza.
 
@@ -1132,13 +1146,17 @@ La Garantía se dispondrá en los términos y plazos señalados en el artículo 
 
 #### Artículo 102
 
-Idoneidad y suficiencia de la Garantía. La idoneidad y suficiencia de la Garantía será calificada en conjunto por el Servicio y la Superintendencia de Valores y Seguros de acuerdo a la naturaleza de los instrumentos propuestos y en conformidad a lo dispuesto en el artículo 54 de la ley.
+Idoneidad y suficiencia de la Garantía. La idoneidad y suficiencia de la Garantía será calificada, de acuerdo a la naturaleza de los instrumentos propuestos, en conformidad a lo dispuesto en el artículo 54 de la ley.
 
 Se entenderá que la Garantía es suficiente cuando el monto de los instrumentos que la componen permita asegurar el valor presente de los costos de implementación de todas las medidas de Cierre aprobadas por el Servicio, considerando, a lo menos, los costos de implementación del Cierre, las medidas de seguimiento y control requeridas para la etapa de Post Cierre, los costos de administración de este Plan y sus contingencias.
 
 Se entenderá que la Garantía es idónea cuando los instrumentos que la componen cumplan con las exigencias descritas en el artículo 52 de la ley y puedan ser valorizados, caucionados o endosados en garantía con el fin de asegurar su real ejecución y liquidación.
 
-Sin perjuicio de lo anterior, la Superintendencia de Valores y Seguros podrá dictar las normas de carácter general que estime convenientes para regular esta materia, dentro del ámbito de su competencia.
+La clasificación de riesgo de las aseguradoras que emitan pólizas de seguro de garantía a primer requerimiento, deberá practicarse por alguna de las sociedades clasificadoras de riesgo que operan en Chile y que sean reconocidas por la Comisión para el Mercado Financiero y que analizan el nivel de riesgo de las compañías que emiten dichas pólizas, siendo la clasificación exigida para estos efectos BBB o superior.
+
+Lo anterior de conformidad a lo dispuesto en el artículo 20 bis del decreto con fuerza de ley Nº 251, de 1931, del Ministerio de Hacienda.
+
+Sin perjuicio de lo anterior, la Comisión para el Mercado Financiero podrá dictar las normas de carácter general que estime convenientes para regular esta materia, dentro del ámbito de su competencia.
 
 ## Capítulo III
 
@@ -1148,15 +1166,13 @@ Administración y Custodia de las Garantías
 
 Administración y custodia de los Instrumentos. Los instrumentos que hubieren sido propuestos por la Empresa Minera como Garantía y aprobados por el Servicio, deberán ser administrados y custodiados de la siguiente forma:
 
-a) Instrumentos A1: los instrumentos A1 deberán ser entregados en custodia al Depósito Central de Valores, cuando corresponda, o depositarse en una institución financiera autorizada para tales efectos.
+a) Instrumentos A1: los instrumentos A1, con excepción de las pólizas de garantía deberán ser entregados en custodia al Depósito Central de Valores, cuando corresponda, o depositarse en una institución financiera autorizada para tales efectos.
 
-La administración, renovación, sustitución y reemplazo de los mismos corresponderá a la Empresa Minera, la que deberá informar al Servicio su identidad y vigencia, mediante la remisión de copias digitales de los certificados de las instituciones antes descritas, que acrediten las características y montos de los instrumentos respectivos.
+La administración, renovación, sustitución y reemplazo de todos los instrumentos categoría A.1) corresponde a la Empresa Minera, la que deberá solicitar al Servicio la autorización correspondiente para realizar cambios o alteraciones a su identidad y vigencia, mediante la remisión de copias digitales de los certificados de las instituciones antes descritas, que acrediten las características y montos de los instrumentos respectivos. Dicha autorización se dictará mediante resolución fundada del Servicio.
 
-b) Instrumentos A2: Los instrumentos A2 podrán ser entregados en custodia a aquellas entidades de depósito y custodia de valores reguladas por la ley N° 18.876, o depositarse en una institución financiera autorizada para tales efectos en la forma señalada en la letra a) precedente.
+La administración, renovación, sustitución y reemplazo de los mismos corresponderá a la Empresa Minera, la que deberá exhibir copia auténtica de sus balances y estados financieros, auditados por alguna institución de aquellas inscritas en la Comisión para el Mercado Financieros.
 
-La administración, renovación, sustitución y reemplazo de los mismos corresponderá a la Empresa Minera, la que deberá exhibir copia auténtica de sus balances y estados financieros, auditados por alguna institución de aquellas inscritas en la Superintendencia de Valores y Seguros.
-
-Sólo podrán presentar al efecto, aquellos balances y estados financieros auditados por Empresas de Auditoría Externa, reguladas en el Título XXVIII de la ley N° 18.045, inscritas en el Registro de Empresas de Auditoría Externa que mantiene la Superintendencia de Valores y Seguros, y deberán corresponder al ejercicio anual del período que termina el 31 de diciembre del año inmediatamente anterior al de su presentación.
+Sólo podrán presentar al efecto, aquellos balances y estados financieros auditados por Empresas de Auditoría Externa, reguladas en el Título XXVIII de la ley N° 18.045, inscritas en el Registro de Empresas de Auditoría Externa que mantiene la Comisión para el Mercado Financiero, y deberán corresponder al ejercicio anual del período que termina el 31 de diciembre del año inmediatamente anterior al de su presentación.
 
 c) Instrumentos A3: Los instrumentos A3 serán custodiados por el Servicio, de acuerdo a la naturaleza del instrumento de que se trate.
 
@@ -1320,7 +1336,7 @@ Liberación de Responsabilidad. La entrega íntegra de los recursos y la consecu
 
 #### Artículo 122
 
-Administración del Fondo. La administración del Fondo corresponderá a una institución profesional en la administración de activos financieros, de aquellas acreditadas por la Superintendencia de Valores y Seguros, y seleccionada mediante licitación, de acuerdo a normas objetivas y públicas que contemplen la materia, contenidos y demás características definidas por la ley.
+Administración del Fondo. La administración del Fondo corresponderá a una institución profesional en la administración de activos financieros, de aquellas acreditadas por la Comisión para el Mercado Financiero, y seleccionada mediante licitación, de acuerdo a normas objetivas y públicas que contemplen la materia, contenidos y demás características definidas por la ley.
 
 #### Artículo 123
 
@@ -1359,6 +1375,12 @@ Revisión de la presentación. El Servicio revisará y se pronunciará sobre la 
 Aprobada la valorización, la Empresa Minera otorgará y pondrá la Garantía a disposición del Servicio en la forma y plazo señalados en el artículo cuarto transitorio de la ley.
 
 Cumplida la obligación establecida en el inciso precedente, las Empresas Mineras quedarán sometidas a la ley y al presente Reglamento.
+
+Las empresas que se hayan acogido al régimen indicado en este artículo deberán actualizar sus planes de cierre, en lugar de realizar la primera auditoría periódica del artículo 18 de la ley, en el mismo plazo de cinco años señalado en dicha disposición. Esto es sin perjuicio del deber de auditar periódicamente, en adelante, sus planes de cierre de conformidad a la ley. Lo anterior no afectará las facultades fiscalizadoras del Servicio.
+
+Para estos efectos, el programa de auditorías a que hace referencia el artículo 44 de este Reglamento será también de actualizaciones.
+
+Las actualizaciones periódicas que corresponda hacer conforme este artículo deberán aplicarse respecto de toda la faena, salvo que la empresa justifique que ello no es necesario en cuanto a los aspectos técnicos y financieros del plan de cierre y post cierre.
 
 #### Artículo tercero
 
