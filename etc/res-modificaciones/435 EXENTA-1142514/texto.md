@@ -36,8 +36,6 @@ Reemplázase en el artículo primero, de la anotada resolución Nº 1.884, en lo
 
 Derogado.
 
-> **Nota.** El artículo segundo de la Resolución 202102906 Exenta, Economía, publicada el 06.12.2021, dispone modificar el presente artículo en virtud del contenido del artículo primero de la citada norma. Sin embargo, dicha actualización no se puede efectuar en razón de que esta parte se encuentra derogada.
-
 #### Artículo cuarto
 
 Modifícase el artículo primero, Nº 13, de la resolución Nº 1.884, en el sentido de eliminar de la lista de conductor al ex funcionario de la Secretaría Regional Ministerial de Economía, Fomento y Turismo, de la Región de los Lagos a don Patricio Eliacer Raipan (por cese de funciones), en consecuencia, los conductores de la Región de los Lagos son los que se indican, quedando el texto definitivo de la forma que se indica:
