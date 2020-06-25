@@ -42,8 +42,6 @@ Reemplázase en el artículo primero, de la anotada resolución Nº 1.884, en lo
 
 Derogado.
 
-> **Nota.** El artículo segundo de la Resolución 202102906 Exenta, Economía, publicada el 06.12.2021, dispone modificar el presente artículo en virtud del contenido del artículo primero de la citada norma. Sin embargo, dicha actualización no se puede efectuar en razón de que esta parte se encuentra derogada.
-
 #### Artículo cuarto
 
 <!-- parte:10101741 -->
