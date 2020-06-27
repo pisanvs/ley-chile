@@ -208,7 +208,23 @@ xxxiv. Siembra directa: Actividad destinada a establecer plantas de especies aut
 
 xxxv. Zanja de infiltración: Corresponde a una obra manual o mecanizada, para el control del escurrimiento, construida para controlar procesos erosivos y favorecer el establecimiento del enriquecimiento ecológico, la plantación suplementaria y/o la regeneración natural establecida en zonas áridas o semiáridas. Se excluye la construcción de zanjas en suelos no estructurados, tales como trumaos, arenales y dunas.
 
-3.- CONSIDERACIONES PARA LA APLICACIÓN DE LA TABLA DE VALORES
+3.- TABLA DE VALORES, QUE DETERMINA EL MONTO DE LA BONIFICACIÓN POR CONCEPTO DE ASESORÍA PROFESIONAL QUE ES NECESARIA PARA LA REALIZACIÓN DE LAS ACTIVIDADES BONIFICABLES A QUE SE REFIERE LA LEY N° 20.283, SOBRE RECUPERACIÓN DEL BOSQUE NATIVO Y FOMENTO FORESTAL.
+
+.
+
+Consideraciones sobre actividad de asesoría profesional:
+
+i. Se podrá bonificar por los montos indicados en la tabla precedente, la asesoría profesional que sea necesaria para la realización de alguna de las actividades bonificables del artículo 22 de la ley N° 20.283, de conformidad con lo dispuesto el reglamento de dicha ley y lo detallado en este instrumento.
+
+ii. La asesoría profesional, que corresponde realizar a los profesionales a que se refiere el artículo 7° de la ley N° 20.283, se desagrega en:
+
+a) Asistencia técnica en terreno, que comprende la capacitación y supervisión para la ejecución de las actividades bonificables aprobadas en el plan de manejo que corresponda.
+
+b) Elaboración de estudios técnicos, que comprende la elaboración del plan de manejo, definido en el artículo 2° de la ley N° 20.283, y/o de los informes de ejecución de actividades bonificables, señalados en el artículo 29 del mismo texto legal.
+
+iii. La bonificación por concepto de asesoría profesional podrá pagarse total o parcialmente. En caso de que uno de los componentes de la asesoría profesional haya sido efectuada por la Corporación Nacional Forestal, este monto se descontará al momento que se determine el pago de la bonificación pertinente.
+
+4.- CONSIDERACIONES PARA LA APLICACIÓN DE LA TABLA DE VALORES
 
 Las consideraciones y precisiones de carácter técnico, asociadas a las definiciones de las actividades precedentes, estarán contenidas en las respectivas Bases Técnicas de los Concursos del Fondo de Conservación y Manejo Sustentable del Bosque Nativo.
 
