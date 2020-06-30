@@ -208,7 +208,13 @@ La sentencia que imponga pena de prisión será notificada en persona al condena
 
 Se entenderá practicada la notificación por carta certificada, al quinto día contado desde la fecha de su recepción por la oficina de Correos respectiva, lo que deberá constar en un Libro que, para tal efecto, deberá llevar el secretario. Si la carta certificada fuere devuelta por la oficina de correos por no haberse podido entregar al destinatario, se adherirá al expediente. Lo anterior es sin perjuicio de la aplicación de las reglas generales sobre nulidad procesal.
 
+Cualquiera de las partes podrá solicitar para sí una forma de notificación electrónica, la que el tribunal podrá aceptar si cuenta con los medios idóneos para ello y si, en su opinión, resulta suficientemente eficaz y no causa indefensión. La notificación se entenderá practicada a partir del momento mismo del envío. Cuando esta forma de notificación sea aceptada por el tribunal, será válida para todas las resoluciones dictadas durante el proceso, con excepción de las notificaciones previstas en el inciso primero del artículo 8 y en el inciso segundo del presente artículo.
+
+Los Juzgados de Policía Local deberán publicitar en el sitio de internet de la municipalidad correspondiente y en un lugar visible del oficio del tribunal las cuentas de correo electrónico u otras cuentas o dominios específicos de medios tecnológicos de los que se valdrán para practicar las notificaciones electrónicas, además de individualizarlos en las resoluciones que se pronuncien sobre las propuestas que se le formulen conforme a lo dispuesto en el inciso anterior.
+
 De toda notificación se dejará testimonio en el proceso.
+
+Para los efectos de la notificación electrónica, el Juzgado de Policía Local deberá haber informado a la Corte de Apelaciones respectiva las cuentas de correo electrónico u otras cuentas o dominios específicos de medios tecnológicos de los que se valdrá para practicar las notificaciones electrónicas.
 
 > **Nota.** El artículo 1º transitorio de la LEY 19676, dispone que las modificaciones introducidas a este artículo entrarán en vigencia seis meses después de su publicación.
 
