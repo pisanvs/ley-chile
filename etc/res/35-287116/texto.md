@@ -26,45 +26,13 @@ Resuelvo :
 
 a) Tarifa Servicios Puros:
 
-Tarifa Alimentador Adulto (Taa) $ 500 (quinientos
-
-pesos)
-
-Tarifa Troncal Adulto $ 500 (quinientos
-
-pesos)
-
-Tarifa Metro Valle $ 520 (quinientos
-
-veinte pesos)
-
-Tarifa Metro Período Punta $ 580 (quinientos
-
-ochenta pesos)
-
-Tarifa Metro Baja $ 480 (cuatrocientos
-
-ochenta pesos)
-
-Escolar Sup. y Media Alimentador $160 (ciento sesenta
-
-pesos)
-
-Escolar Sup. y Media Troncal $160 (ciento sesenta
-
-pesos)
-
-Escolar Sup. y Media Metro Período
-
-Punta, Baja y Valle $160 (ciento sesenta
-
-pesos)
-
-Escolar Básica $ 0 (cero pesos)
+.
 
 Los valores contenidos en la presente tabla serán los que sirvan de base para la aplicación del procedimiento de ajuste de tarifas, contenido en el Artículo 14 literal a) de la ley N° 20.378 y el decreto supremo N° 140, de 2009, del Ministerio de Transportes y Telecomunicaciones, y del procedimiento de determinación de nivel de tarifas establecido en el artículo 14 literal c) y artículo 15 de la ley N° 20.378.
 
-La tarifa Metro baja comprende el período entre las 6:00:00 y 6:29:59 horas, y entre las 20:45:00 y las 23:00:00 horas, de lunes a viernes, excepto festivos. La tarifa Metro Período Punta comprende el período entre las 7:00:00 y 8:59:59 horas y entre las 18.00:00 y las 19:59:59 horas, de lunes a viernes, excepto festivos. El resto de los horarios y de los días corresponde a la tarifa Metro Valle.
+La Tarifa Metro Baja comprende el período entre las 6:00:00 y las 6:59:59 horas, y entre las 20:45:00 y las 23:00:00 horas, de lunes a viernes, excepto festivos. La Tarifa Metro Período Punta comprende el período entre las 7:00:00 y las 8:59:59 horas y entre las 18:00:00 y las 19:59:59 horas, de lunes a viernes, excepto festivos. El resto de los horarios y de los días corresponde a la Tarifa Metro Valle.
+
+La Tarifa Trenes Baja comprende el período entre las 6:00:00 y las 6:59:59 horas, y entre las 20:45:00 y las 23:00:00 horas, de lunes a viernes, excepto festivos. La Tarifa Trenes Período Punta comprende el período entre las 7:00:00 y las 8:59:59 horas y entre las 18:00:00 y las 19:59:59 horas, de lunes a viernes, excepto festivos. El resto de los horarios y de los días corresponde a la Tarifa Trenes Valle.
 
 b) Tarifas Servicios Integrados:
 
@@ -77,6 +45,10 @@ Si el usuario durante las etapas del viaje lo realiza a través de diferentes co
 c) Tarifa Metro Pensionado:
 
 La Tarifa Metro Pensionado corresponderá a la Tarifa Escolar Superior y Media Metro Período Punta, Baja y Valle. Esta Tarifa regirá para las mujeres mayores de 60 años y los hombres mayores de 65 años que perciban una pensión previsional, asistencial o una jubilación, y se aplicará en Metro en período Valle, Baja y Punta, o en los períodos que los sustituyan, en forma ilimitada.
+
+d) Tarifa Integrada Adulto Mayor de 65 años o más:
+
+La Tarifa Integrada Adulto Mayor de 65 años o más corresponderá a la mitad de la Tarifa Buses Adulto vigente al 1° de noviembre de 2019. Esta Tarifa regirá para las personas de 65 años o más, y se aplicará en Buses, Metro y Tren Alameda-Nos, en período Valle, Baja y Punta, o en los períodos que los sustituyan, en forma ilimitada. El valor del trasbordo corresponderá a $0 (cero pesos), siempre y cuando no se hayan realizado más de dos trasbordos y que el tiempo entre la primera y la última validación no supere los 120 minutos.
 
 2º Déjanse sin efecto las Resoluciones Exentas Nº44 y N°45, ambas de 2007, del Ministerio de Transportes y Telecomunicaciones.
 
