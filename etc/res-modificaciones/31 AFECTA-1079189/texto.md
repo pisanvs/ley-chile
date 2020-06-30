@@ -264,9 +264,9 @@ iii. Plazo de las operaciones.
 
 Lo anterior, en base a las tablas contenidas en los párrafos siguientes.
 
-El monto de la contragarantía que se haya constituido o se vaya a constituir sobre una obligación, se determinará por la IGR sobre la base de lo indicado en la normativa sobre la materia emanada de la SBIF o la que la complemente o reemplace, y podrá ser constituida, como máximo, dentro de los 180 días corridos siguientes a la solicitud de cobertura. Sin perjuicio de lo anterior, la IGR contará con un plazo adicional de 60 días corridos tratándose de contragarantías que digan relación con la constitución de hipotecas.
+El monto de la contragarantía que se haya constituido o se vaya a constituir sobre una obligación, se determinará por la IGR sobre la base de lo indicado en la normativa sobre la materia emanada de la Comisión para el Mercado Financiero (que integró las atribuciones de la Superintendencia de Bancos e Instituciones Financieras), o la que la complemente o reemplace, y podrá ser constituida, como máximo, dentro de los 270 días corridos siguientes a la solicitud de cobertura.
 
-Para todos los efectos de este Programa, respecto de la valorización de las contragarantías, ellas deberán contar con tasaciones efectuadas por entidades externas de la IGR, o bien facturas de dichos bienes, con una fecha de una antigüedad no mayor a 180 días corridos desde la emisión del Certificado de Fianza o del primer Certificado de Fianza acogido a esta cobertura, en el caso que dicha contragarantía esté relacionada a más de un Certificado de Fianza. El incumplimiento de este último requisito determinará la pérdida de la cobertura de CORFO a los Certificados de Fianza respectivos.
+Para todos los efectos de este Programa, respecto de la valorización de las contragarantías, ellas deberán contar con tasaciones efectuadas por entidades externas de la IGR, o bien facturas de dichos bienes, con una fecha de una antigüedad no mayor a 240 días corridos desde la emisión del Certificado de Fianza o del primer Certificado de Fianza acogido a esta cobertura, en el caso que dicha contragarantía esté relacionada a más de un Certificado de Fianza. El incumplimiento de este último requisito determinará la pérdida de la cobertura de CORFO a los Certificados de Fianza respectivos.
 
 El incumplimiento de la obligación de constitución de la contragarantía dentro del plazo vigente para tal efecto, hará perder la cobertura otorgada a esa operación, debiendo la IGR, en consecuencia, acudir al pago del siniestro con sus propios recursos.
 
@@ -368,7 +368,7 @@ La IGR deberá informar a CORFO el pago de la comisión realizado el mismo día 
 
 10. Procedimiento de pago de la cobertura y Recuperaciones posteriores al pago de la Cobertura.
 
-En caso de que el acreedor haya requerido a la IGR el pago del Certificado de Fianza por incumplimiento del/la deudor/a principal, la IGR, para hacer efectivo el desembolso de la cobertura de CORFO, deberá presentar a la Corporación, dentro del plazo máximo de 425 días corridos, contados desde el requerimiento del acreedor, una solicitud de pago escrita, acompañando una "Declaración Jurada Simple" del Gerente General o de quien esté autorizado para actuar frente a CORFO para este efecto.
+En caso de que el acreedor haya requerido a la IGR el pago del Certificado de Fianza por incumplimiento del/la deudor/a principal, la IGR, para hacer efectivo el desembolso de la cobertura de CORFO, deberá presentar a la Corporación, dentro del plazo máximo de 500 días corridos, contados desde el requerimiento del acreedor, una solicitud de pago escrita, acompañando una "Declaración Jurada Simple" del Gerente General o de quien esté autorizado para actuar frente a CORFO para este efecto.
 
 10.1 Antecedentes para el pago de la cobertura.
 
@@ -408,9 +408,9 @@ Para el caso de que el Acuerdo de Ejecución de la Persona Deudora sea aprobado,
 
 Si no se llegare a un Acuerdo de Ejecución de la Persona Deudora o bien éste sea impugnado, y siendo acogida dicha impugnación, deberán acompañarse los antecedentes que dieron lugar a la propuesta de liquidación de los bienes, junto con la Resolución Judicial de liquidación respectiva, dictada por el Tribunal Competente.
 
-Para el caso en que el deudor de la obligación solicitare un Procedimiento Concursal de Reorganización de la Empresa Deudora, con el objeto de obtener una reprogramación de la deuda original, se entenderá ampliado el plazo de 425 días corridos para el cobro de la Cobertura durante todo el período comprendido en la Protección Financiera Concursal.
+Para el caso en que el deudor de la obligación solicitare un Procedimiento Concursal de Reorganización de la Empresa Deudora, con el objeto de obtener una reprogramación de la deuda original, se entenderá ampliado el plazo de 500 días corridos para el cobro de la Cobertura durante todo el período comprendido en la Protección Financiera Concursal.
 
-Para el caso en que el deudor de la obligación solicitare un Procedimiento Concursal de Renegociación de la Persona Deudora, con el objeto de obtener una reprogramación de la deuda original, se entenderá ampliado el plazo de 425 días corridos para el cobro de la Cobertura durante todo el período comprendido en los efectos de la Resolución de Admisibilidad del Procedimiento de Renegociación de la Persona Deudora, comprendidos en el artículo 264 de la Ley Nº 20.720.
+Para el caso en que el deudor de la obligación solicitare un Procedimiento Concursal de Renegociación de la Persona Deudora, con el objeto de obtener una reprogramación de la deuda original, se entenderá ampliado el plazo de 500 días corridos para el cobro de la Cobertura durante todo el período comprendido en los efectos de la Resolución de Admisibilidad del Procedimiento de Renegociación de la Persona Deudora, comprendidos en el artículo 264 de la Ley Nº 20.720.
 
 10.2 Pago de la Cobertura.
 
@@ -420,7 +420,7 @@ La cobertura se otorgará sobre el saldo de capital insoluto al momento del requ
 
 Para efectos del pago de la obligación para con el deudor principal, la Institución de Garantía Recíproca únicamente podrá optar por la forma de pago establecida en el artículo 14 letra b) de la Ley Nº 20.179.
 
-La Gerencia revisará los antecedentes presentados y efectuará el pago o solicitará antecedentes que, conforme a las disposiciones legales, reglamentarias o administrativas establecidas en el programa o de aquellas estipuladas en los contratos de participación respectivos, se pueda ver obligada a requerir para resolver la formalización del pago de la cobertura, de conformidad con los criterios de elegibilidad y los procedimientos establecidos para el cobro del Certificado de Fianza acogido a la cobertura, dentro de los 45 días hábiles siguientes a la solicitud de pago presentada. La IGR, una vez notificada, contará con 30 días hábiles para solucionar la objeción o requerimiento a su solicitud de pago de la cobertura, el que será resuelto dentro del plazo de 30 días hábiles por la Corporación, contado desde el ingreso de los antecedentes complementarios acompañados por la IGR.
+La Gerencia revisará los antecedentes presentados y efectuará el pago o solicitará antecedentes que, conforme a las disposiciones legales, reglamentarias o administrativas establecidas en el programa o de aquellas estipuladas en los contratos de participación respectivos, se pueda ver obligada a requerir para resolver la formalización del pago de la cobertura, de conformidad con los criterios de elegibilidad y los procedimientos establecidos para el cobro del Certificado de Fianza acogido a la cobertura, dentro de los 60 días hábiles siguientes a la solicitud de pago presentada. La IGR, una vez notificada, contará con 60 días hábiles para solucionar la objeción o requerimiento a su solicitud de pago de la cobertura, el que será resuelto dentro del plazo de 60 días hábiles por la Corporación, contado desde el ingreso de los antecedentes complementarios acompañados por la IGR.
 
 En caso de no efectuarse la complementación dentro del plazo indicado para la IGR, la Gerencia podrá rechazar el pago de la cobertura.
 
@@ -454,7 +454,7 @@ De esta manera, siempre existirá la liquidez suficiente para el eventual pago d
 
 10.5 Recuperaciones posteriores al pago de la cobertura.
 
-La IGR que, habiendo recibido el pago de una cobertura, obtenga una recuperación total o parcial del monto solicitado a CORFO, deberá informar dicha situación dentro de los 10 días hábiles siguientes a la obtención del recupero.
+La IGR que, habiendo recibido el pago de una cobertura, obtenga una recuperación total o parcial del monto solicitado a CORFO, deberá informar dicha situación dentro de los 15 días hábiles siguientes a la obtención del recupero.
 
 Las recuperaciones pueden originarse, tanto de aquellas provenientes de la liquidación de contragarantías constituidas por deudores o deudoras cuyas deudas fueron pagadas por la IGR al acreedor, como de aquellas provenientes de las acciones judiciales iniciadas en contra de dichos deudores o deudoras para obtener los recuperos, incluyendo dentro de estas últimas los equivalentes jurisdiccionales que pongan término al juicio de cobranza respectivo.
 
@@ -480,7 +480,7 @@ La información generada por las disposiciones de este número podrá ser revisa
 
 No procederá el pago de la cobertura en los siguientes casos, según corresponda:
 
-a) Si se requiere el pago de la cobertura a CORFO habiendo transcurrido más de 425 días corridos contados desde la notificación del siniestro del Certificado de Fianza por parte del acreedor a la IGR.
+a) Si se requiere el pago de la cobertura a CORFO habiendo transcurrido más de 500 días corridos contados desde la notificación del siniestro del Certificado de Fianza por parte del acreedor a la IGR.
 
 b) La IGR incumplió con su obligación de pagar las comisiones a CORFO, si éstas fueran procedentes.
 
@@ -488,7 +488,7 @@ c) Cuando la IGR no entregue a CORFO, en los plazos requeridos, la información 
 
 d) Si el Certificado de Fianza y/o el/la Beneficiario/a Final no reunían los requisitos de elegibilidad establecidos en el presente Programa.
 
-e) Si el Certificado de Fianza fue informado como certificado con contragarantía, y ésta no alcanzaba el valor mínimo señalado en la Tabla Nº 2 del numeral 7º, o la contragarantía no se constituyó dentro del plazo de 180 días corridos contados desde la solicitud de cobertura, salvo que exista la debida prórroga de 60 días corridos para el caso de contragarantías hipotecarias.
+e) Si el Certificado de Fianza fue informado como certificado con contragarantía, y ésta no alcanzaba el valor mínimo señalado en la Tabla Nº 2 del numeral 7º, o la contragarantía no se constituyó dentro del plazo de 270 días corridos contados desde la solicitud de cobertura.
 
 f) Si la IGR, debiendo concurrir al pago del Certificado de Fianza, no paga el diferencial que le corresponde al acreedor.
 
