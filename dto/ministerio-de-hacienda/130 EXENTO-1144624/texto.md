@@ -48,9 +48,9 @@ BENEFICIARIOS
 
 Personas Elegibles
 
-Podrán optar a financiamientos con Garantías COVID-19 las personas, naturales o jurídicas, que sean empresarios o empresas y cuyas ventas netas anuales no excedan de 1.000.000 de Unidades de Fomento (en adelante, "UF").
+Podrán optar a financiamientos con Garantías COVID-19 las personas, naturales o jurídicas, que sean empresarios o empresas y cuyas ventas netas anuales no excedan de 1.000.000 de Unidades de Fomento (en adelante, "UF"). Para efectos de este Reglamento, se entenderán comprendidos dentro del concepto de empresas o empresarios, a los sostenedores de establecimientos educacionales de educación parvularia, básica y media y a las instituciones de educación superior.
 
-Para efectos de este Reglamento, se entenderán por "empresas" a los postulantes que tengan esa calidad al momento de solicitar un financiamiento con Garantía COVID-19, de acuerdo con lo que se establece en el artículo 3.
+Asimismo, para efectos de este Reglamento, se entenderán por "empresas" a los postulantes que tengan esa calidad al momento de solicitar un financiamiento con Garantía COVID-19, de acuerdo con lo que se establece en el artículo 3.
 
 #### Artículo 3
 
@@ -82,7 +82,7 @@ d. Empresas Grandes II: Empresas cuyas ventas netas anuales superen las 600.000 
 
 Destino de los Financiamientos
 
-Los recursos provenientes de los financiamientos con Garantías COVID-19 solamente podrán ser utilizados para cubrir necesidades de capital de trabajo de la empresa, incluyendo, entre otros, pago de remuneraciones y obligaciones previsionales, arriendos, suministros y facturas pendientes de liquidación, obligaciones tributarias, boletas de garantía, gastos de seguros, gastos asociados al otorgamiento de Líneas, y cualquier otro gasto que sea indispensable para el funcionamiento de ésta. En particular, no podrán utilizarse los recursos de dichos financiamientos para el pago de dividendos, retiro de utilidades, préstamos a personas relacionadas, hasta el segundo grado de consanguinidad en caso de ser personas naturales o de conformidad al artículo 100 de la Ley Nº 18.045, de Mercado de Valores, en caso de personas jurídicas, o cualquier otra forma de retiro de capital por parte de el o los dueños de la empresa.
+Los recursos provenientes de los financiamientos con Garantías COVID-19 solamente podrán ser utilizados para cubrir necesidades de capital de trabajo de la empresa, incluyendo, entre otros, pago de remuneraciones y obligaciones previsionales, arriendos, rentas de leasing, mercaderías y suministros, incluyendo aquellos documentados a través de cartas de crédito de importación, y facturas pendientes de liquidación, obligaciones tributarias, boletas de garantía, gastos de seguros, gastos asociados al otorgamiento de Líneas, y cualquier otro gasto que sea indispensable para el funcionamiento de ésta. En particular, no podrán utilizarse los recursos de dichos financiamientos para el pago de dividendos, retiro de utilidades, préstamos a personas relacionadas, hasta el segundo grado de consanguinidad en caso de ser personas naturales o de conformidad al artículo 100 de la Ley Nº 18.045, de Mercado de Valores, en caso de personas jurídicas, o cualquier otra forma de retiro de capital por parte de el o los dueños de la empresa.
 
 Asimismo, no podrán usarse los fondos de financiamientos con la Garantía COVID-19 para amortizar, pre-pagar o refinanciar créditos vigentes o vencidos que la empresa solicitante tenga al momento de solicitar el financiamiento, ya sea en forma directa o indirecta. Tampoco podrán destinarse para la adquisición de activos fijos, salvo el reemplazo de activos esenciales para el funcionamiento de la empresa.
 
@@ -154,6 +154,8 @@ Atendiendo a la finalidad de las Líneas, el total de los financiamientos efecti
 
 Para efectos de cumplir con los límites de este artículo, el Administrador del FOGAPE podrá facilitar una consulta de límites máximos, en los mismos términos del inciso tercero del artículo 3 del presente Reglamento.
 
+> **Nota.** El numeral 3 del número 1 del Decreto 193 Exento, Hacienda, publicado el 30.06.2020, modifica el cuadro inserto en el presente artículo, en el sentido de eliminar las dos primeras filas, a continuación de "Empresas con ventas netas de IVA anuales hasta:" y "Límite máximo de financiamiento:".
+
 #### Artículo 13
 
 Límites de Cobertura de Garantía COVID-19 por Segmento
@@ -180,15 +182,15 @@ Cada institución financiera será responsable por la decisión de otorgar finan
 
 Finalmente, los financiamientos que cuenten con la Garantía COVID-19, deberán cumplir con las siguientes condiciones copulativas:
 
-a) El plazo de dichos financiamientos será entre 24 y 48 meses, incluido en dicho plazo al menos 6 meses de gracia para el pago de la primera cuota, las que deberán ser iguales y sucesivas, sin perjuicio de la posibilidad de otorgar flexibilidades intermedias que vayan en beneficio del deudor, tales como, a modo ejemplar: actividades con flujos de ingresos estacionales o variables, como el sector agrícola, inmobiliario, entre otros.
+a) El plazo de dichos financiamientos será entre 24 y 48 meses, incluido en dicho plazo al menos 6 meses de gracia para el pago de la primera cuota, las que deberán ser iguales y sucesivas, sin perjuicio de la posibilidad de otorgar flexibilidades intermedias que vayan en beneficio del deudor, tales como, a modo ejemplar: actividades con flujos de ingresos estacionales o variables, como el sector agrícola, inmobiliario, entre otros. El mencionado periodo de gracia será calculado en base a meses de 30 días, por tanto, éste no podrá tener una duración menor a 180 días.
 
 b) Las instituciones financieras no podrán establecer costo alguno para el pre-pago de estas obligaciones.
 
 c) Cada institución financiera deberá ofertar condiciones estándares y homogéneas para cada uno de los segmentos de empresas a que hace referencia el artículo 13 precedente del presente Reglamento. Para aquellas instituciones, incluyendo sus filiales, que pueden acceder a financiamiento del Banco Central de Chile, la tasa de interés anual y nominal no podrá, en ningún caso, exceder la tasa de política monetaria de dicha entidad, vigente al momento del otorgamiento del financiamiento, más 300 puntos base (3% nominal anual).
 
-d) La institución financiera otorgante del financiamiento con Garantía COVID-19 deberá reprogramar los créditos comerciales vigentes en cuotas, que la empresa solicitante mantenga con ésta al momento de otorgar el nuevo financiamiento con Garantía COVID-19. Dicha reprogramación deberá considerar una postergación de cualquier amortización de capital que venza en los 6 meses siguientes al momento de otorgar el nuevo financiamiento con Garantía COVID-19, pudiendo, en todo caso, mantener el cobro de intereses, de acuerdo a las mismas condiciones originalmente pactadas en el crédito postergado. Asimismo, no podrá iniciar procedimientos concursales de liquidación conforme a la Ley Nº 20.720, juicios ejecutivos o ejecuciones de cualquier clase, respecto de los créditos comerciales vigentes de las empresas solicitantes, por un plazo de 6 meses contados desde el otorgamiento del nuevo financiamiento con Garantía COVID-19. La mencionada institución financiera tampoco podrá iniciar procedimientos concursales de liquidación conforme a la Ley Nº 20.720, juicios ejecutivos o ejecuciones de cualquier clase, respecto de aquellas empresas que hayan contratado financiamiento con Garantía COVID-19 con otras instituciones financieras.
+d) La institución financiera otorgante del financiamiento con Garantía COVID-19 deberá reprogramar los créditos comerciales vigentes en cuotas, que la empresa solicitante mantenga con ésta al momento de otorgar el financiamiento con Garantía COVID-19. Dicha reprogramación deberá considerar una postergación de cualquier amortización de capital que venza en los 6 meses siguientes al momento de otorgar el financiamiento con Garantía COVID-19, pudiendo, en todo caso, mantener el cobro de intereses, de acuerdo a las mismas condiciones originalmente pactadas en el crédito postergado. Asimismo, no podrá iniciar procedimientos concursales de liquidación conforme a la Ley Nº 20.720, juicios ejecutivos o ejecuciones de cualquier clase, respecto de los créditos comerciales vigentes de las empresas solicitantes, por un plazo de 6 meses contados desde el otorgamiento del financiamiento con Garantía COVID-19. La mencionada institución financiera tampoco podrá iniciar procedimientos concursales de liquidación conforme a la Ley Nº 20.720, juicios ejecutivos o ejecuciones de cualquier clase, respecto de aquellas empresas que hayan contratado financiamiento con Garantía COVID-19 con otras instituciones financieras, por un plazo de 6 meses contados desde el otorgamiento de dicho financiamiento. Los requisitos y obligaciones del presente literal solo serán aplicables respecto del primer financiamiento con Garantía Covid-19 que se le otorgue a cada empresa
 
-e) Las postergaciones a que se refiere el literal anterior no procederán para otros financiamientos vigentes, tales como operaciones de créditos rotativos o contingentes, cartas de comercio exterior, factoraje, boletas de garantía, operaciones de leasing y otros similares que calificará CMF. En estos casos, la institución financiera respectiva no podrá modificar las condiciones de líneas de crédito que mantenía vigentes con el cliente al 1 de abril de 2020.
+e) Las postergaciones a que se refiere el literal anterior no procederán para financiamientos otorgados de conformidad a los artículos séptimo y octavo transitorios de la Ley Nº 20.845, u otros financiamientos vigentes, tales como operaciones de créditos rotativos o contingentes, cartas de comercio exterior, factoraje, boletas de garantía, operaciones de leasing y otros similares que calificará CMF. En estos casos, la institución financiera respectiva no podrá modificar las condiciones de líneas de crédito que mantenía vigentes con el cliente al 1 de abril de 2020. Asimismo, tampoco procederá la reprogramación de créditos cuando la empresa solicitante del financiamiento con Garantía Covid-19 declare expresamente, de forma oral o escrita, que le fue informado que tiene el derecho a reprogramar sus créditos vigentes y que renuncia a ese derecho. Corresponderá a la institución financiera otorgante acreditar la respectiva declaración a través de documentos escritos, grabaciones de voz u otros medios físicos o digitales.
 
 f) No podrán ser otorgados a micro o pequeñas empresas que se hayan encontrado en situación de mora en el sistema bancario superior a 30 días al 31 de octubre de 2019. No podrán ser otorgados a empresas medianas y grandes (I y II) que se hayan encontrado en situación de mora en el sistema bancario superior a 30 días al 31 de marzo de 2020. Dichas restricciones no serán aplicables cuando las empresas micro, pequeñas, medianas y grandes (I y II) hayan dejado de estar en mora al momento de solicitar el financiamiento con Garantía COVID-19.
 
@@ -256,17 +258,11 @@ DEDUCIBLES, COMISIONES Y GASTOS DE OPERACIÓN
 
 #### Artículo 21
 
-Deducibles de Pago de Garantías COVID-19
+Deducibles de Pago de Garantías Covid-19
 
-El Administrador del Fondo podrá establecer un monto máximo de deducible que deberá soportar cada institución financiera para el pago de las Garantías COVID-19 asociadas a los financiamientos otorgados para cada tipo de empresas según su tamaño de ventas netas, que no podrá superar:
+El Administrador del Fondo podrá establecer el monto de deducible que deberá soportar cada institución financiera para el pago de las Garantías Covid-19 asociadas a los financiamientos otorgados, el cual no podrá superar el 2,5% del total de los saldos garantizados por el Fondo a la respectiva institución financiera.
 
-a) Para financiamientos otorgados a empresas con ventas netas anuales de hasta 25.000 UF: El 5% del total de los saldos garantizados por el Fondo a la respectiva institución financiera.
-
-b) Para financiamientos otorgados a empresas con ventas netas anuales superiores a 25.000 UF y de hasta 100.000 UF: El 3,5% del total de los saldos garantizados por el Fondo a la respectiva institución financiera.
-
-c) Para financiamientos otorgados a empresas con ventas netas anuales superiores a 100.000 UF: El 2,5% del total de los saldos garantizados por el Fondo a la respectiva institución financiera.
-
-Este deducible se aplicará a todos los créditos pertenecientes a cada categoría de empresas, de acuerdo a lo establecido en el artículo 13 del presente Reglamento, que hayan sido cubiertos por las licitaciones de Líneas de Garantía COVID-19.
+No obstante lo anterior, no existirá deducible respecto de Garantías Covid-19 que caucionen financiamientos que se otorguen a empresas con ventas netas anuales de hasta 100.000 UF, siempre y cuando dichas empresas no tengan deudas vigentes, o solo tengan deudas de financiamientos con Garantía Covid-19, con la institución financiera al momento de la solicitud del financiamiento con Garantía Covid-19. La institución financiera podrá acreditar esta última condición mediante la emisión de una liquidación de deuda de la empresa solicitante, en la cual deberá constar que esta última no mantiene deudas con la institución financiera a la fecha de la solicitud del financiamiento con Garantía Covid-19.
 
 #### Artículo 22
 
