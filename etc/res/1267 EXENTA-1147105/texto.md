@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 1.267 de fecha 08/06/2020, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote N° 50-0 consistente en "Inmueble ubicado en el lugar Puente Chispa, Tromén, comuna de Temuco, de forma triangular, de una superficie de 2,10 hectáreas", Rol de avalúo 4025-900001, comuna de Temuco. La superficie a expropiar aproximada es de 30,97 metros cuadrados, de aparente dominio de Inmobiliaria Pocuro Sur SpA (respecto a lo no transferido) y Copropiedad Inmobiliaria de "Condominio Altavista", ubicado en Av. Luis Durand N°02930. Comisión de Peritos integrada por Alberto Arenas Pizarro, Arquitecto, Constanza Miohevic González, Ingeniero Constructor y Marcela Melo Rodríguez, Arquitecta, fijó monto de indemnización provisional en $27.907.772, según Informe N° 50-0 de fecha 01/06/2020, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
