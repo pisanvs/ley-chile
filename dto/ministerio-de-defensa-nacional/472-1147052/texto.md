@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 472, de 24 de diciembre de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Corpesca S.A., RUT 96.893.820-7, Segunda Renovación de concesión marítima menor, con vencimiento el 31 de diciembre de 2024, sobre un sector de Playa y fondo de mar, en el lugar denominado Barrio Industrial el Colorado, comuna y provincia de Iquique, Región de Tarapacá, con una superficie total de 1.459,2 m2, la que fue tramitada con el SIABC Nº 43.181. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 20º 12' 8,92" S - 70º 08' 29,38" W. El objeto consiste en continuar amparando la instalación de una cañería conductora de combustible y una cañería conductora de agua potable. Las obras existentes consisten en una cañería conductora de combustible y una cañería conductora de agua potable. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Iquique. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Felipe Torres Silva, Capitán de Corbeta LT, Capitán de Puerto de Iquique.
