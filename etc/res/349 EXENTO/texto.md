@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 349, de 14 de mayo de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 17-C, para la obra: REPOSICIÓN RUTA A-27, SAN MIGUEL AZAPA KM 12,000 AL KM 32,000, que figura a nombre de AYCA MAMANI RENE MARCOS, rol de avalúo 3420-447, Comuna de ARICA, REGIÓN DE ARICA Y PARINACOTA, superficie 419 m2. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMAN THEODULOZ, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y DIEGO ANDRES ROZAS GALLARDO, mediante informe de tasación de fecha 20 de agosto de 2019, fijó el monto de la indemnización provisional en la cantidad de $90.583.000.- para el lote Nº17-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
