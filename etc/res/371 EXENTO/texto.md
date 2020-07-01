@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 371, de 19 de mayo de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropió el lote de terreno N° 114, para la obra: MEJORAMIENTO RUTA W-175 SECTOR: LINAO - QUEMCHI, que figura a nombre de CÁRDENAS BARRÍA ALBERTO, rol de avalúo 161-24, Comuna de QUEMCHI, REGIÓN DE LOS LAGOS, superficie 1.159 m2. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRÉS ECHEVERRÍA CAMPO y CARMEN PILAR RÍOS MARCUELLO, mediante informe de tasación de 28 de junio de 2017, fijó el monto de la indemnización provisional en la cantidad de $3.984.100, para el lote N° 114. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
