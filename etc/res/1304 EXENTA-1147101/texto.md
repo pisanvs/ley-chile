@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.304, 16 de junio de 2020, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Caleta Coliumo, Rol de Avalúo N° 410-26, comuna de Tomé, en una superficie de 6.943,91 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-38.053-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida Coliumo, comuna de Tomé, Región del Biobío", conforme artículo 51 ley N° 16.391 y DL Nº 2.186. Comisión Peritos integrada por constructor civil María Soledad Silva Hernández, arquitecto Alexander Boye Trenit e ingeniero civil Orlando Paredes Vásquez, según informe de fecha 9 de diciembre 2019, fijó monto provisional indemnización en $108.930.485, más reajuste del artículo 5º del DL 2.186 de 1978, que dan la cifra de $110.411.940, pagadera de contado.
+
+Director (S) Serviu Región del Biobío.
