@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº385, de 27 de mayo de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.1, 5 y 6, para la obra: MEJORAMIENTO RUTA C-495, SECTOR LA FRAGUA-JUNTA DE VALERIANO, que figuran a nombre de OCAYO ROJAS AURELIO, GODOY CAMPILLAY ANTONIA PURISIMA y GOMEZ ARAYA ANGEL DARWIN, roles de avalúo 894-15, 894-13 y 895-9, Comuna de ALTO DEL CARMEN, REGIÓN DE ATACAMA, superficies 601, 263 y 73 m2. respectivamente. La Comisión de Peritos integrada por NORMAN ESTANISLAO CALDERON PONTIGGIA, XIMENA ELIANA PEÑALOZA HERRERO y CLAUDIO ANDRES CONCHA GROSSI, mediante informe de tasación de 18 de noviembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $5.006.310, para el lote Nº1, $476.030, para el lote Nº5 y $265.130, para el lote Nº6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
