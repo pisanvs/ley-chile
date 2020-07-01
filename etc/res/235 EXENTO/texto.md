@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 235, de 24 de abril de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 5 y 9, para la obra: MEJORAMIENTO PASADA URBANA RUTAS 5 Y A-27, SECTOR ROTONDA ARENAS - LIMITE URBANO ORIENTE, que figuran a nombre de ALVAREZ MARIN FERNANDO JAVIER y OSSANDON CASTILLO ELIAS HUMBERTO, roles de avalúo 10001-17 y 10000-64, Comuna de ARICA, REGION DE ARICA Y PARINACOTA, superficies 133 y 137 m2., respectivamente. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMAN THEODULOZ, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y VALENTINA ANDREA CHACALTANA SIMS, mediante informes de tasación de fecha 22 de marzo de 2019, fijó el monto de las indemnizaciones provisionales en las cantidades de $26.923.000.- para el lote Nº5, y $34.533.000.- para el lote Nº9. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
