@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 384, de 27 de mayo de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 23, 24, 37 y 38, para la obra: MEJORAMIENTO RUTA C-495, SECTOR LA FRAGUA-JUNTA DE VALERIANO, que figuran a nombre de COMUNIDAD AGRÍCOLA LOS HUASCO ALTIN, rol de avalúo 903-49, Comuna de ALTO DEL CARMEN, REGIÓN DE ATACAMA, superficies 92, 95, 62 y 51 m2. respectivamente. La Comisión de Peritos integrada por NORMAN ESTANISLAO CALDERÓN PONTIGGIA, XIMENA ELIANA PEÑALOZA HERRERO y CLAUDIO ANDRÉS CONCHA GROSSI, mediante informe de tasación de 18 de noviembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $27.600, para el lote N° 23, $28.500, para el lote N° 24, $68.600, para el lote N° 37 y $36.300, para el lote N° 38. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
