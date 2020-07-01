@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 1.360 de fecha 19/06/2020, conforme al artículo 51 Ley 16.391, DL 2.186/1978 y DS 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Calle Alvarado entre Francisco Pizarro y Huichahue, Padre Las Casas", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote N° 03-0 "Un retazo de terreno que es parte de media hectárea en el lugar Conunhueno, Padre las Casas, hoy calle Francisco Pizarro seiscientos noventa y cuatro de la comuna de Padre Las Casas", Rol de avalúo 2076-48. La superficie a expropiar aproximada es de 8,84 metros cuadrados, de aparente dominio de Nelson Iván Berríos Valdés. Comisión de Peritos designada al efecto, fijó monto de Indemnización Provisional en $1.640.677, según Informe N° 03-0 de fecha 16/06/2019, pagadero Contado.
+
+Director (S) Serviu Región de la Araucanía.
