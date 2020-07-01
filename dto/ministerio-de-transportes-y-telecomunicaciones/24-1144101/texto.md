@@ -22,7 +22,19 @@ Decreto:
 
 #### Artículo 1º
 
-Extiéndase en dos meses la vigencia de los Certificados de Revisión Técnica y de Verificación de Emisiones Contaminantes, otorgados en el territorio nacional por alguna de las plantas de revisión técnica, a los vehículos que, de conformidad con lo señalado en el calendario que se establece en el inciso 2º del artículo 7º del decreto supremo Nº 156, de 1990, del Ministerio de Transportes y Telecomunicaciones, deban efectuar dicho trámite en los meses de abril y mayo de 2020, correspondientes a los dígitos 1 y 2, en los términos que se establecen en el siguiente calendario:
+Extiéndase en cinco y cuatro meses, respectivamente, la vigencia de los Certificados de Revisión Técnica y de Verificación de Emisiones Contaminantes, otorgados en el territorio nacional por alguna de las plantas de revisión técnica, a los vehículos que, de conformidad con lo señalado en el calendario que se establece en el inciso 2º del artículo 7º del decreto supremo Nº 156, de 1990, del Ministerio de Transportes y Telecomunicaciones, deban efectuar dicho trámite en los meses de abril y mayo de 2020, correspondientes a los dígitos 1 y 2, en los términos que se establecen en el siguiente calendario:
+
+Último Dígito de Nuevo calendario
+
+la Placa Patente Revisión Técnica
+
+1 septiembre 2020
+
+2 septiembre 2020
+
+#### Artículo 1º bis
+
+Extiéndase la vigencia de los Certificados de Revisión Técnica y de Verificación de Emisiones Contaminantes, otorgados en el territorio nacional por alguna de las plantas de revisión técnica, a los vehículos que, de conformidad con lo señalado en el calendario que se establece en el inciso 2º del artículo 7º del decreto supremo Nº 156, de 1990, del Ministerio de Transportes y Telecomunicaciones, deban efectuar dicho trámite en los meses de junio, julio, agosto, septiembre, octubre y noviembre de 2020, correspondientes a los dígitos 3, 4, 5, 6, 7 y 8, en los términos que se establecen en el siguiente calendario:
 
 .
 
