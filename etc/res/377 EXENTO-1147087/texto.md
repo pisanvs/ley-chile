@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº377, de 19 de mayo de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.13 y 14, para la obra: CAMINO PUELO - PASO EL BOLSON, SECTOR: SEGUNDO CORRAL - LAGO INFERIOR, que figuran a nombre de ARRIAGADA REYES JUAN ANGEL y MULLER CONTRERAS BERTA LUCIA, roles de avalúo 158-468 y 158-467, Comuna de COCHAMO, REGIÓN DE LOS LAGOS, superficies 2.040 y 6.269 m2. respectivamente. La Comisión de Peritos integrada por LEOPOLDO RAMON SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA y JUAN SAMUEL BARRIENTOS BAHAMONDE, mediante informe de tasación de 18 de abril de 2018, fijó el monto de la indemnización provisional en la cantidad de $4.080.000, para el lote Nº13 y $12.538.000, para el lote Nº14. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP
