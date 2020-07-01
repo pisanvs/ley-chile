@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°370, de 19 de mayo de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 15-B, para la obra: MEJORAMIENTO CBI RUTA V-155, FRUTILLAR BAJO (F.PAV)-QUILANTO, FRUTILLAR, que figura a nombre de HARBART HORSTMANN BETTINA ALEXIA Y, rol de avalúo 242-80, Comuna de FRUTILLAR, REGIÓN DE LOS LAGOS, superficie 690 m2. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRES ECHEVERRIA CAMPO y CHRISTIAN EMIL RAUCH YAÑEZ, mediante informe de tasación de 11 de julio de 2019, fijó el monto de la indemnización provisional en la cantidad de $6.641.795, para el lote N°15-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
