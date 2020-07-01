@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 435, de 22 de junio de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c) y 14º letra e) del DFL. MOP. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP, Nº 206 de 1960; artículo 10 de la Ley Nº 18.772, se expropió para la EMPRESA DE TRANSPORTE DE PASAJEROS METRO S.A., el lote de terreno Nº 37L7, para la obra: PROYECTO LÍNEA 7 METRO S.A., que figura a nombre de ESSO INDUSTRIAL LTDA Y OTRO, rol de avalúo 120-12, Comuna de QUINTA NORMAL, REGION METROPOLITANA DE SANTIAGO, superficie 1.544,65 m2. La Comisión de Peritos integrada por YAZMIN MERCEDES BALBOA ROJAS, PAULINA LORENA JADUE ZAROR y LORENA ELIZABETH GAJARDO ALARCON, mediante informe de tasación de fecha 21 de junio de 2019, fijó el monto de la indemnización provisional en la cantidad de $1.335.730.550 para el lote Nº37L7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
