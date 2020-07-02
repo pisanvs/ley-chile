@@ -1170,6 +1170,20 @@ Déjase sin efecto la prohibición de enajenar, ceder y transferir a que se refi
 
 Autorízase al Consejo de la Corporación de Fomento de la Producción para condonar el saldo de capital, reajuste e intereses que los adquirentes del fundo "San Ramón", ubicado en la comuna de Ercilla, provincia de Malleco, Novena Región, de la Araucanía, le adeudaren a la fecha de publicación de esta ley, facultándose asimismo al Vicepresidente Ejecutivo de dicha Corporación para suscribir los documentos y requerir los alzamientos y cancelaciones necesarias.".
 
+#### Artículo 17
+
+Prorrógase el período por el cual fueron elegidos los miembros de las directivas de las comunidades y asociaciones indígenas a que se refieren los artículos 9 y siguientes y 36 y 37 de la presente ley, que cumplan el plazo por el cual fueron designados durante la vigencia del estado de excepción constitucional de catástrofe, por calamidad pública, declarado por decreto supremo N° 104, de 18 de marzo de 2020, del Ministerio del Interior y Seguridad Pública, y en el tiempo en que éste fuere prorrogado, si es el caso, o que lo hayan cumplido en los tres meses anteriores a su declaración.
+
+Los miembros de las directivas señalados en el inciso anterior continuarán en sus cargos, como máximo, hasta tres meses después de que el estado de excepción constitucional de catástrofe, por calamidad pública, declarado por decreto supremo N° 104, de 18 de marzo de 2020, del Ministerio del Interior y Seguridad Pública, o su prórroga, haya finalizado, plazo en el cual se deberá realizar el proceso eleccionario correspondiente. En caso de que el estado de excepción constitucional de catástrofe se prorrogue parcialmente en una o más regiones del país, la suspensión afectará solamente a dichas regiones.
+
+La prórroga dispuesta en este artículo no tendrá aplicación en aquellos casos en que las comunidades y asociaciones indígenas ya hubieren elegido, o elijan con posterioridad a la publicación de la presente ley, nuevos miembros de las directivas durante el espacio temporal a que se refiere el inciso primero, ni tampoco para el caso de miembros de directivas que hayan sido impugnadas por manejo irregular de recursos en el ejercicio de su cargo que sea constitutivo de delito y que hayan sido formalmente denunciados ante autoridad competente, al 18 de marzo de 2020.
+
+#### Artículo 18
+
+Prorrógase el respectivo período para el cual fueron designados los actuales representantes indígenas a que se refiere el artículo 41 letra d) de la presente ley, de conformidad al decreto supremo N° 26, de 2016, del Ministerio de Desarrollo Social, y que hubieren cumplido el plazo por el cual fueron designados durante la vigencia del estado de excepción constitucional de catástrofe, por calamidad pública, declarado por decreto supremo N° 104, de 2020, prorrogado por decreto supremo N° 269, de 2020, ambos del Ministerio del Interior y Seguridad Pública, y en el tiempo en que éste fuere prorrogado, si es el caso.
+
+El proceso de proposición de los representantes indígenas mencionados en la letra d) del artículo 41 de la presente ley se deberá realizar dentro de los tres meses siguientes de que el estado de excepción constitucional de catástrofe, por calamidad pública, declarado por decreto supremo N° 104, de 18 de marzo de 2020, del Ministerio del Interior y Seguridad Pública, o su prórroga, haya finalizado en todas las regiones del país.
+
 Habiéndose cumplido con lo establecido en el N°1° del Artículo 82 de la Constitución Política de la República, y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
 Nueva Imperial, 28 de septiembre de 1993.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Sergio Molina Silva, Ministro de Planificación y Cooperación.- Enrique Correa Ríos, Ministro Secretario General de Gobierno.- Juan Agustín Figueroa Yávar, Ministro de Agricultura.- Eduardo Jara Miranda, Ministro de Bienes Nacionales (S).- Francisco Cumplido Cereceda, Ministro de Justicia.
