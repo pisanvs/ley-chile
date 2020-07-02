@@ -82,6 +82,8 @@ Otórgase a la Subsecretaría de Salud Pública facultades extraordinarias para 
 
 12. Realizar importación directa de medicamentos, insumos y dispositivos médicos que sean necesarios para el cumplimiento de las facultades que se entregan al sector salud mediante este decreto. En dicho contexto, podrá en el caso de productos importados, y en virtud de prácticas internacionales de comercio, eximirse de una o más obligaciones contenidas en la ley 19.886.
 
+13. Realizar la transferencia de dominio, a título gratuito, de bienes muebles adquiridos para hacer frente la epidemia de Covid-19, a aquellos servicios públicos que ejecuten acciones de salud relacionadas directamente con la utilización de dichos bienes. La transferencia se realizará mediante resolución exenta de la Subsecretaría, sin más trámite. Dicha resolución deberá individualizar en forma detallada el o los bienes a enajenar y el Servicio adquirente del dominio.
+
 #### Artículo 2º bis
 
 Otórgase a la Subsecretaría de Redes Asistenciales facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
@@ -111,6 +113,8 @@ Otórgase a la Subsecretaría de Redes Asistenciales facultades extraordinarias 
 12. Realizar importación directa de medicamentos, insumos y dispositivos médicos que sean necesarios para el cumplimiento de las facultades que se entregan al sector salud mediante este decreto. En dicho contexto, podrá en el caso de productos importados, y en virtud de prácticas internacionales de comercio, eximirse de una o más obligaciones contenidas en la ley 19.886.
 
 13. Disponer el precio máximo a pagar por parte de la población general de determinados dispositivos médicos, elementos e insumos sanitarios, así como de prestaciones de salud y servicios sanitarios, como asimismo, todos los bienes y servicios necesarios para atender las necesidades sanitarias en la red asistencial de salud.
+
+14. Realizar la transferencia de dominio, a título gratuito, de bienes muebles adquiridos para hacer frente la epidemia de Covid-19, a aquellos servicios públicos que ejecuten acciones de salud relacionadas directamente con la utilización de dichos bienes. La transferencia se realizará mediante resolución exenta de la Subsecretaría, sin más trámite. Dicha resolución deberá individualizar en forma detallada el o los bienes a enajenar y el Servicio adquirente del dominio.
 
 #### Artículo 3º
 
@@ -172,6 +176,8 @@ Otórgase a las Secretarías Regionales Ministeriales de Salud del país, facult
 
 28. Encomendar las funciones dispuestas en el Título I del Libro X del Código Sanitario a funcionarios de otros servicios públicos y funcionarios municipales, que se encuentren en comisión de servicio en la Secretaría Regional Ministerial de Salud.
 
+29. Administrar las relaciones contractuales con los establecimientos que presten servicios como residencias sanitarias, obrando como contraparte técnica, jurídica y económica de los derechos y obligaciones que deriven de éstas, incluidos aquellos que ya hubieren iniciado su ejecución. Para ello, dictará una resolución exenta en la cual da cuenta de que asume la administración de dichos contratos en los términos señalados.
+
 #### Artículo 4º
 
 Otórgase a los Servicios de Salud del país, facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
@@ -203,6 +209,8 @@ Otórgase a los Servicios de Salud del país, facultades extraordinarias para di
 13. Difundir las medidas sanitarias en medios de comunicación masivos.
 
 14. Autorizar la contratación y ejercicio de médicos titulados en el extranjero cuyo título no esté revalidado o habilitado en Chile.
+
+15. Dar en arrendamiento, a prestadores privados, dispositivos médicos, sin más trámite que el acto administrativo por el cual se autoriza dicho arrendamiento.
 
 #### Artículo 5º
 
