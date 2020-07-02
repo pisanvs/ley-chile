@@ -424,8 +424,6 @@ e. Licitación
 
 La licitación de esta obra quedará condicionada a la declaración en construcción del Parque Eólico Calbuco o un proyecto de generación de, al menos, 40 MW a conectarse en la S/E Ilque en el nivel de tensión 110 kV.
 
-> **Nota.** El literal a del numeral 3.1.1 del Nº 3.1 del Decreto 276 Exento, Energía, publicado el 02.12.2025, elimina la obra de expansión "Nueva S/E Seccionadora Ilque" descrita en el numeral 2.8 del presente decreto exento.
-
 #### Artículo Segundo
 
 Fíjase la siguiente obra nueva, referida al Sistema de Transmisión Nacional, que como parte del Plan de Expansión Anual de la Transmisión correspondiente al año 2018, debe someterse al proceso de Estudio de Franjas, regulado en el artículo 93° de la Ley, en los doce meses siguientes. Así como su correspondiente descripción, valor de inversión referencial y costos anuales de operación, mantenimiento y administración referenciales, y las demás condiciones y términos para su licitación, ejecución y explotación, la que deberá llevarse a cabo una vez concluido el Estudio de Franjas, fijada la correspondiente franja preliminar y cumplida la condición señalada en el numeral 1.1, literal e) del presente artículo.
@@ -475,8 +473,6 @@ El COMA referencial se establece en 18,82 millones de dólares (1,6% del V.I. re
 e. Licitación
 
 La licitación de esta obra quedará condicionada a que una vez publicado el decreto que fija la franja preliminar contenido en el artículo 94° de la Ley, se verifique que la presente obra resulte igualmente recomendable con la metodología y requisitos vigentes en el último Informe Técnico Definitivo del Plan de Expansión Anual de Transmisión que se haya emitido previo a la fecha en que deba darse inicio a la referida licitación.
-
-> **Nota.** El artículo primero del Decreto 163 Exento, Energía, publicado el 01.09.2020, modifica la presente norma en el sentido de revocarla parcialmente en lo relativo a someter a estudio de franjas el proyecto "Nueva Línea de Transmisión Eléctrica Kimal - Lo Aguirre".
 
 #### Artículo Tercero
 
@@ -621,8 +617,6 @@ El Coordinador deberá emitir informes periódicos de ejecución de las obras ad
 26. Las bases deberán establecer que la responsabilidad directa por el cumplimiento de la normativa ambiental aplicable a los proyectos es de los proponentes que resulten adjudicados y que, en consecuencia, éstos deben contemplar el cumplimiento de estos aspectos al formular los plazos de ejecución de los proyectos.
 
 Asimismo, las bases de licitación deberán establecer que todos los costos derivados del cumplimiento de la normativa ambiental aplicable a los proyectos, son de cargo de los adjudicatarios y que ellos deberán internalizarlos en sus ofertas económicas.
-
-> **Nota.** El artículo quinto del Decreto 163 Exento, Energía, publicado el 01.09.2020, modifica la presente norma en el sentido eliminar los plazos que indica establecidos en los numerales 1, 5 y 18 del presente artículo, para efectos de la licitación del proyecto "Nueva Línea de Transmisión Eléctrica Kimal - Lo Aguirre.
 
 Anótese, publíquese y archívese.- Por orden del Presidente de la República, Juan Carlos Jobet Eluchans, Ministro de Energía.
 
