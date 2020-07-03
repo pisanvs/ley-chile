@@ -1,0 +1,5 @@
+INSTRUYE SOBRE LAS MODIFICACIONES INTRODUCIDAS POR LA LEY N° 21.210
+
+Extracto de circular del Servicio de Impuestos Internos N° 44, del 26 de junio de 2020, que instruye sobre las modificaciones introducidas por la Ley N° 21.210, Moderniza la Legislación Tributaria, a los artículos 6° letra A) N° 2 y B), N° 4, 56, 26 bis, 98, 99, 100 bis, 111 bis y 165 del Código Tributario, en materia de ejercicio de la facultad de condonar total o parcialmente los intereses penales por la mora en el pago de los impuestos, facultad de aplicación e interpretación de las normas tributarias, procedimiento de consulta en materia de medidas antielusión, aplicación de normas penales tributarias e instruye sobre el beneficio extraordinario consagrado en el artículo treinta y tres transitorio de la referida ley.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl).
