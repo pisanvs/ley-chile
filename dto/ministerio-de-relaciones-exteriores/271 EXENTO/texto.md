@@ -22,13 +22,13 @@ Decreto:
 
 Primero: La subrogación del cargo de Director General de Promoción de Exportaciones, en caso de vacancia o bien de ausencia, o impedimento del titular, será ejercida, en el siguiente orden de prelación, por los Directores pertenecientes a la Planta de la referida Dirección General a quienes, en cada caso, se les haya asignado el desempeño de las funciones que a continuación se indican:
 
-### 1. Director(a) de la Dirección Nacional
+1. Director(a) titular de la Dirección de Asuntos Jurídicos, grado 3° EUS, de la Planta de Directivos de la Dirección General de Promoción de Exportaciones.
 
-### 2. Director(a) de la Dirección de Asuntos Jurídicos
+2. Director(a) titular de la Dirección Nacional, grado 3° EUS, de la Planta de Directivos de la Dirección General de Promoción de Exportaciones.
 
-### 3. Director(a) de la Dirección Administrativa
+3. Director(a) titular de la Dirección Administrativa, grado 3° EUS, de la Planta de Directivos de la Dirección General de Promoción de Exportaciones.
 
-### 4. Director(a) Regional Zona Centro-Norte
+4. Director(a) Regional titular Zona Centro-Norte, grado 4° EUS, de la Planta de Directivos de la Dirección General de Promoción de Exportaciones.
 
 Segundo: El mencionado orden de subrogación operará tratándose de personal titular del segundo nivel jerárquico de la planta directiva de la Dirección General de Promoción de Exportaciones, nombrados a través del Sistema de Alta Dirección Pública o de conformidad a lo establecido en el artículo quinto transitorio de la ley 21.080.
 
