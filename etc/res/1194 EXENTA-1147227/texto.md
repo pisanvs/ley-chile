@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.194 EXENTA, 16 DE JUNIO DE 2020, DEL MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES
+
+Por resolución exenta N° 1.194, de 16 de junio de 2020, del Ministerio de Transportes y Telecomunicaciones, se ha aprobado el "Instructivo Técnico para Apoyar la Gestión del Médico de los Gabinetes Técnicos Municipales Autorizados para Otorgar Licencias de Conductor" y sus Anexos de conformidad con las facultades establecidas en el artículo 3° bis del decreto supremo N° 170, de 1985, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, correspondiente al Reglamento para el Otorgamiento de Licencias de Conductor. La resolución incluye cuatro Anexos que corresponden a: Anexo 1: Declaración de Estado de Salud, Anexo 2: Entrevista Médica, Anexo 3: Ficha Oftalmológica y Anexo 4: Ficha Médico Tratante/Especialista. Copia íntegra de la resolución puede ser consultada directamente en la página web www.mtt.gob.cl.-
+
+Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
