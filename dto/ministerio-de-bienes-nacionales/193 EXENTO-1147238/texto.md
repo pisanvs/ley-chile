@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "SOLARCENTURY CHILE SpA"
+
+Mediante decreto exento N° 193, de 26 de junio de 2020, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Solarcentury Chile SpA", RUT N° 76.409.628-2, el inmueble fiscal denominado "María Elena Noreste", ubicado en la intersección de la ruta 5 con la ruta 24, en el sector de la subestación eléctrica Encuentro, comuna de María Elena, provincia de Tocopilla, Región de Antofagasta, singularizado en el Plano N° 02302-4530 C.R., de una superficie de 801,08 hectáreas, enrolado en el Servicio de Impuestos Internos bajo el Rol N° 6700-63, amparado por la inscripción global a nombre del Fisco que rola a fojas 4 N° 2 del Registro de Propiedad del año 2015 del Conservador de Bienes Raíces de María Elena. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de U.F. 6.584,88.-; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Martín Aro Greene, Jefe de División Jurídica (S).
