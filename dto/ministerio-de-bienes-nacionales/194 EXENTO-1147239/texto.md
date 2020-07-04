@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "EDF EN CHILE HOLDING SpA"
+
+Mediante decreto exento N° 194, de 26 de junio de 2020, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "EDF en Chile Holding SpA", RUT N° 76.380.025-3, del inmueble fiscal denominado "Reserva Eólica Taltal Noroeste", se encuentra ubicado aprox. 70 km al noreste de la ciudad de Taltal, ruta 5 km 1200, comuna de Taltal, provincia y Región de Antofagasta, singularizado en el Plano N° 02104-9217-C.R., de una superficie de 2626,04 hectáreas, enrolado en el Servicio de Impuestos Internos bajo el Rol N° 5000-26, amparado por la inscripción global a nombre del Fisco que rola a fojas 46 N° 45 del Registro de Propiedad del año 2015 del Conservador de Bienes Raíces de Taltal. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de UF 25.856.-; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Martín Aro Greene, Jefe de División Jurídica (S).
