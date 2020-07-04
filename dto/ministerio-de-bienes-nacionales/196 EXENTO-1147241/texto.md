@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "ENEL GREEN POWER CHILE S.A."
+
+Mediante decreto exento Nº 196, de 26 de junio de 2020, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Enel Green Power Chile S.A.", RUT Nº 76.412.562-2, del inmueble fiscal denominado "Sector Subestación Andes", ubicado aprox. 2,1 km al este de intersección de la ruta B-55 con la ruta B-241 comuna, provincia y región de Antofagasta, singularizado en el plano 02101-9202 C.R., de una superficie de 1115,59 hectáreas, amparado por una inscripción global a nombre del Fisco de Chile que rola a fojas 3509 Nº 3776 del registro de propiedad del año 2014 del Conservador de Bienes Raíces de Antofagasta, enrolado ante el Servicio de Impuestos Internos con el rol de avalúo 49000-6. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de U.F. 8.888.-; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Martín Aro Greene, Jefe de División Jurídica (S).
