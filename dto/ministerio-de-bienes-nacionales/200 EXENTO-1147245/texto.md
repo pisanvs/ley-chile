@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ATACAMA, A "SONNEDIX CHILE HOLDING SpA"
+
+Mediante decreto exento Nº 200 de 26 de junio de 2020, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Sonnedix Chile Holding SpA", RUT Nº 76.336.436-4, del inmueble fiscal denominado "Estación Pedro Montt poniente", ubicado en el camino de acceso s/Nº Ruta Interior C-115-B km. 24, lugar Pampa Austral, de la comuna y provincia de Chañaral, Región de Atacama, singularizado en el Plano Nº 03201-2894-C.R., de una superficie de 261,92 hectáreas, enrolado en el Servicio de Impuestos Internos bajo el Rol Nº 7000-35, amparado por la inscripción global a nombre del Fisco que rola a fojas 111 vta. Nº 105 del Registro de Propiedad del año 1996 del Conservador de Bienes Raíces de Diego de Almagro, y a fojas 46 Nº 53 del Registro de Propiedad del año 1940, del Conservador de Bienes Raíces de Chañaral. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de U.F. 4.570,00; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Martín Aro Greene, Jefe de División Jurídica (S).
