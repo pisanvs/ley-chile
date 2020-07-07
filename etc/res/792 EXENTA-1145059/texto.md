@@ -34,8 +34,6 @@ Resolución:
 
 No obstante, si la cantidad de postulaciones a la fecha del cierre del llamado es inferior a la cantidad de subsidios susceptibles de ser financiados con los recursos dispuestos en esta resolución, la División de Política Habitacional podrá realizar una redistribución del saldo de estos recursos para destinarlos a otros llamados del mismo programa.
 
-Los recursos para el segundo proceso de selección se informarán en la resolución de selección del primer proceso.
-
 5. La tipología de proyecto posible de atender mediante este llamado corresponderá a Proyectos de Habitabilidad de la Vivienda que tengan relación con obras de reparación de la envolvente de la vivienda. Esto es, el arregle necesario de la cubierta para asegurar la estanquidad de ésta frente a agentes externos como agua y viento. Otras partidas posibles de considerar corresponden a la incorporación de canaletas, forros, bajadas de aguas lluvia, entre otros elementos relevantes.
 
 6. El monto de subsidio que se otorgará en el presente llamado será de 37 UF por concepto de subsidio base, más 3 UF por los respectivos honorarios por concepto de Asistencia Técnica.
@@ -60,11 +58,23 @@ El beneficiario arrendatario no podrá requerir al arrendador al pago de las mej
 
 7.6. El ahorro mínimo exigido para postular a este llamado será de 1 UF. Dicho ahorro será depositado en Serviu, que lo aplicará al pago de la Asistencia Técnica.
 
+Dicho ahorro deberá ser depositado por las familias que resulten seleccionadas en una cuenta especial que el Serviu destine al efecto. Los depósitos deberán efectuarse en dicha cuenta entre el día lunes y hasta el día miércoles de la semana posterior a la fecha de publicación en el Diario Oficial de la resolución de selección. Si el postulante seleccionado, no efectúa el depósito en esas fechas se entenderá que el ahorro no fue enterado y será excluido de la nómina de selección, según lo señalado en el Artículo 11 del DS N° 255 (V. y U.) de 2006. En caso de liberarse recursos producto de esta exclusión, el Seremi podrá efectuar una selección complementaria, con las familias no beneficiadas, respetando el orden de prelación establecido.
+
+Con los recursos depositados en la forma indicada en el inciso anterior, el Serviu efectuará el primer pago de 1 UF al PSAT por los Servicios de Asistencia Técnica prestados al postulante mediante transferencia bancaria. Para el pago de la Asistencia Técnica, no se exigirá la presentación de una Boleta de Garantía por parte del PSAT.
+
 7.7. Para proceder a la selección del llamado se aplicarán los factores de puntajes señalados en la letra a) del artículo 28 del DS Nº 255 (V. y U.), de 2006, y será por estricto orden de prelación hasta completar los recursos asignados a la región.
 
 7.8. Solo se podrá postular de forma individual a los subsidios de este llamado.
 
-7.9. Los antecedentes para postular podrán ser presentados en formato digital al Serviu para su revisión, cuando la Entidad Patrocinante así lo requiera por escrito. No obstante lo señalado, el Serviu podrá solicitar posteriormente su presentación en formato físico (papel), los que deberán presentarse en la oportunidad que se requiera para ello.
+7.9. Los antecedentes para postular podrán ser presentados en formato digital al Serviu para su revisión, cuando la Entidad Patrocinante así lo requiera por escrito. Dentro de los antecedentes a presentar se entenderá que el presupuesto reemplazará la presentación del proyecto definido en la letra i) del Artículo 16 del DS N° 255 (V. y U.) de 2006. No obstante, el Serviu solicitará la presentación en formato físico (papel) y con las firmas correspondientes de los siguientes documentos de postulación:
+
+a) El contrato de prestación de Servicios de Asistencia Técnica entre el PSAT y el beneficiario;
+
+b) El presupuesto de los materiales de construcción asociados a las obras que, según el diagnóstico, deben ejecutarse para la reparación de la envolvente. Este presupuesto sólo incluirá los valores referenciales y la cubicación de los materiales, excluyendo la mano de obra, y aplicará un IVA del 19%.
+
+c) Otros documentos requeridos por Serviu, por ejemplo, formulario de postulación, diagnóstico, declaración jurada de propiedad, etc.
+
+Dichos documentos deberán ser presentados junto con el ahorro de las familias y antes de que Serviu efectúe el pago de la primera parte de la Asistencia Técnica.
 
 7.10. Los subsidios entregados por este llamado serán compatibles con eventuales futuros beneficios del Programa de Protección del Patrimonio Familiar u otros programas de mejoramiento de la vivienda, siempre que no se trate del mismo tipo de proyecto u obras a realizar. Además, quienes hayan sido beneficiarios anteriormente de un subsidio de mejoramiento, podrán postular al presente llamado mientras no se hayan ejecutado obras del mismo tipo o se trate del mismo tipo de proyecto ya ejecutado.
 
@@ -96,7 +106,7 @@ El beneficiario arrendatario no podrá requerir al arrendador al pago de las mej
 
 11.1. Los interesados deberán dirigirse a las EP, ya sean municipales o privadas, las que efectuarán el diagnóstico del estado de la techumbre de la vivienda. Si el diagnóstico considera que se requiere reparación, los postularán al presente llamado. Dicho diagnóstico podrá ser efectuado con información y material fotográfico enviado por el beneficiario y analizado por la EP.
 
-11.2. Luego de aprobada la nómina de beneficiarios por resolución de selección, los beneficiarios podrán acercarse a Serviu, donde se procederá a la entrega de una tarjeta individualizada con los datos del beneficiario. El subsidio se liberará en una sola carga, permitiendo realizar hasta un máximo de 4 compras de materiales y herramientas de construcción en centros ferreteros u otros comercios destinados a su venta.
+11.2 Luego de aprobada la nómina de selección mediante resolución, el PSAT entregará al Serviu los documentos firmados según lo señalado en el resuelvo 7.9. precedente. Además, los beneficiarios deberán depositar su ahorro en el período señalado en el resuelvo 7.6. precedente. Luego de cumplir estos pasos el beneficiario podrá acercarse a Serviu, donde se procederá a la entrega de una tarjeta personalizada con sus datos. El subsidio se liberará en una sola carga, permitiendo al beneficiario realizar hasta un máximo de 4 compras de materiales y herramientas de construcción en centros ferreteros u otros comercios destinados a su venta.
 
 Al momento de recibir la tarjeta, el beneficiario deberá suscribir ante el Serviu una declaración jurada que deberá contener las siguientes estipulaciones:
 
@@ -120,7 +130,7 @@ Los establecimientos en los cuales podrán ser adquiridos los materiales de cons
 
 12.1.3. Estar en conocimiento del listado de materiales y herramientas que podrá vender a las familias beneficiadas con este subsidio, el cual se adjunta como anexo, según se indica en el numeral 9 de la presente resolución.
 
-12.1.4. Vender solamente los materiales autorizados en la lista a que se refiere el punto precedente y/o aquellos autorizados por Serviu mediante resoluciones regionales. Adicionalmente, comprometerse a vender a los beneficiarios solo los materiales que vengan detallados en el presupuesto que ellos presenten, el cual habrá sido elaborado por la EP/PSAT y aprobado por Serviu.
+12.1.4. Vender solamente los materiales autorizados en la lista a que se refiere el punto precedente y/o aquellos autorizados por Serviu mediante resoluciones regionales.
 
 12.1.5. Declarar conocer la documentación requerida por Serviu para realizar el cobro de las ventas realizadas, la cual se encuentra detallada en la presente resolución.
 
