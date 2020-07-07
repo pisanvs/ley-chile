@@ -20,7 +20,7 @@ La necesidad de atender los Equipamientos Comunitarios que presenten un alto niv
 
 Resolución:
 
-1. Llámase a postulación nacional a Organizaciones Comunitarias y Juntas de Vecinos, para el otorgamiento de subsidios del Programa de Mejoramiento de Viviendas y Barrios correspondientes a los tipos de proyectos señalados en el Capítulo Primero, Proyectos para el Equipamiento Comunitario, artículo 64 del DS Nº 27 (V. y U.), de 2016.
+1. Llámase a postulación nacional a Organizaciones Comunitarias y Juntas de Vecinos, para el otorgamiento de subsidios del Programa de Mejoramiento de Viviendas y Barrios correspondientes a los tipos de proyectos señalados en el Capítulo Primero, Proyectos para el Equipamiento Comunitario, artículo 64 del DS N° 27 (V. y U.), de 2016. Para la segunda selección se excluye la postulación de proyectos de Construcción de Edificaciones Comunitarias.
 
 2. Las postulaciones serán colectivas y se realizarán a través de Organizaciones Comunitarias y Juntas de Vecinos, regidas por la ley Nº 19.418, sobre Juntas de Vecinos y demás Organizaciones Comunitarias, cuyo texto refundido, coordinado y sistematizado fue fijado por DS Nº 58, de Interior, de 1997.
 
@@ -50,35 +50,33 @@ Las carpetas ingresadas a Serviu, una vez habilitada la postulación, además de
 
 El proceso de Revisión y Calificación de los Proyectos, contemplará una instancia de observaciones, en virtud de la cual el Serviu, comunicará a la Entidad Patrocinante las inconformidades detectadas y la fecha en que deberá reingresarse el proyecto subsanado. Asimismo, podrá solicitar antecedentes que a su juicio sean necesarios para validar la postulación. Si persistieren inconformidades tras el reingreso, Serviu deberá excluir dicho proyecto del proceso de selección.
 
-5. Los Criterios Regionales de Selección, deberán estar establecidos mediante resolución del Seremi a más tardar al 28 de febrero de 2020.
+5. Los Criterios Regionales de Selección, deberán ser establecidos mediante resolución de los Seremi Minvu.
 
-6. El llamado considera 2 selecciones, cuyos plazos de procesos y fases de postulación correspondientes a la 1ª selección son los siguientes:
-
-.
+6. El llamado considera 2 selecciones, cuyos plazos de procesos y fases de postulación correspondientes a la 1° selección son los siguientes:
 
 Los plazos de la segunda selección son los detallados a continuación:
 
-Para cada selección se dispondrá del 50% del total de los recursos señalados en la tabla del resuelvo siguiente de la presente resolución exenta.
-
 7. Los recursos disponibles para efectuar la selección de proyectos, que incluyen el monto del subsidio más la asistencia técnica respectiva, se distribuirán provincialmente según lo señalado en la siguiente tabla:
 
-Con estos montos se definirá el número de postulantes que deberán presentar las carpetas de sus proyectos al Serviu. Asimismo, tendrán que presentar sus carpetas, los postulantes de la lista de espera señalada en el segundo párrafo del numeral 2 del artículo 27 del DS Nº 27 (V. y U.), de 2016, que se determinará con el equivalente al 20% de los recursos dispuestos en el presente llamado, no obstante, si el número de proyectos no calificados supera dicho porcentaje, podrán aumentar los postulantes de la lista de espera hasta completar los recursos disponibles.
+Con estos montos se definirá el número de postulantes que deberán presentar las carpetas de sus proyectos al Serviu. Asimismo, tendrán que presentar sus carpetas, los postulantes de la lista de espera señalada en el segundo párrafo del numeral 2 del artículo 27 del DS N° 27 (V. y U.) de 2016, que para la primera selección de este llamado será el total de los proyectos digitados.
 
 Si una vez concluido el proceso señalado quedaren recursos disponibles, mediante resoluciones que el Ministro de Vivienda y Urbanismo dicte al efecto, se podrán redistribuir los recursos señalados en la tabla precedente total o parcialmente.
 
 8. Si los aportes adicionales son efectuados por municipalidades, se deberá presentar el Acta del Concejo Municipal en que conste la aprobación de destinar dichos recursos al proyecto en caso de resultar seleccionado, el que deberá ser enterado hasta 45 días corridos desde la fecha de selección.
 
+Según lo indicado en el artículo 20 del DS N°27 (V. y U.), de 2016, en relación a los aportes adicionales expresados en pesos, para calcular la proyección de reajuste se aplicará los valores establecidos en la resolución exenta N° 415 (V. y U.), de fecha 10 de marzo de 2020.
+
 9. Los proyectos de Construcción de Edificaciones Comunitarias, podrán postular presentando anteproyecto aprobado por la DOM. La Entidad Patrocinante dispondrá de 60 días corridos, contados desde la fecha de la publicación en el Diario Oficial de la resolución de selección, para presentar al Serviu el Permiso de Edificación correspondiente e iniciar obras.
 
 10. Respecto de las exigencias de las actas de reuniones de difusión, información o de trabajo en general con las organizaciones comunitarias, señaladas en el Anexo Adjunto, no serán obligatorias en la forma establecida en la normativa de Asistencia Técnica, pudiendo ser reemplazadas por otras vías o mecanismos de participación no presencial, incluyendo entre estas, en el caso de la difusión, la preparación y entrega a los representantes legales del grupo de material escrito atingente al Capítulo, en el número y copias equivalentes al número de socios de la organización. Del mismo modo, cuando sea factible, podrá proporcionarse información de forma virtual a los representantes de la organización postulante. Tratándose de la aprobación del proyecto, deberán entregar un documento aprobatorio del mismo, mediante formato que será proporcionado al comité por el Serviu, cuyo número de firmas deberá respetar el quórum establecido en sus estatutos.
 
+Para el ingreso de carpetas de proyectos habilitados para revisión, los Serviu podrán aceptar Cédulas de Identidad y certificados de personalidad jurídica vencidos, otorgando como plazo para presentar dichos documentos vigentes hasta el inicio de obras, para los proyectos que resulten seleccionados.
+
 11. La inscripción en el Conservador de Bienes Raíces de la prohibición de gravar y enajenar la propiedad, señalada en el artículo 67 del DS Nº 27 (V. y U.), de 2016, deberá constituirse durante la ejecución del proyecto, requiriéndose para el pago final del subsidio.
 
-12. Delégase en los Secretarios Regionales Ministeriales de Vivienda y Urbanismo la facultad de seleccionar, en el primer proceso de selección indicado en el resuelvo 6., mediante resolución, en atención al financiamiento disponible y a los factores señalados en el artículo 72, del DS Nº 27 (V. y U.), de 2016, aquellos proyectos que postulen al presente llamado y resulten calificados por Serviu.
+12. Las selecciones serán a nivel nacional mediante resolución del Ministro de Vivienda y Urbanismo, en atención a los recursos disponibles, los que podrán redistribuirse y/o aumentarse por provincia y por región, y a los factores señalados en el artículo 72, del DS Nº 27 (V. y U.), de 2016, aquellos proyectos que postulen al presente llamado y resulten calificados por Serviu.
 
-13. El segundo proceso de selección será nacional mediante resolución del Ministro de Vivienda y Urbanismo, en atención a los recursos disponibles, los que podrán redistribuirse y/o aumentarse por provincia y por región, y a los factores señalados en el artículo 72, del DS Nº 27 (V. y U.), de 2016, aquellos proyectos que postulen al presente llamado y resulten calificados por Serviu.
-
-14. Los subsidios que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para cada región en el Programa regulado por el DS Nº 27 (V. y U.), de 2016, correspondiente al año 2020.
+13. Los subsidios que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para cada región en el Programa regulado por el DS Nº 27 (V. y U.), de 2016, correspondiente al año 2020.
 
 > **Nota.** El numeral 1.2 del número 2 de la de Resolución 705 Exenta, Vivienda, publicada el 05.05.2020 dispone reemplazar en el cuadro de la segunda selección del Resuelvo 6 de la presente norma, en la columna "Responsables" en la fila 3 el texto "Serviu / Minvu" por "Seremi / Minvu" y en la fila 7 el texto "Seremi" por "Minvu".
 
