@@ -1,0 +1,47 @@
+PROHÍBE CIRCULACIÓN DE CAMIONES DESDE Y HACIA EL PUERTO DE LA CIUDAD DE ARICA POR MOTIVOS QUE INDICA
+
+Núm. 256 exenta.- Arica, 16 de abril de 2020.
+
+Vistos:
+
+Lo dispuesto en la ley Nº 18.059; los artículos 107º, 113º y 161 del DFL Nº 1 de 2007, de los Ministerios de Justicia y Transportes y Telecomunicaciones, que fija texto refundido, coordinado y sistematizado de la ley Nº 18.059 de Tránsito; el decreto supremo Nº 83 de 1985, y sus modificaciones, del Ministerio de Transportes y Telecomunicaciones, relativo a las Redes Viales Básicas, y las resoluciones N°s. 59, de 1985 y 39, de 1992, ambas del Ministerio de Transportes y Telecomunicaciones; la resolución Nº 890/17 y resolución Nº 1.127/19, ambas de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Arica y Parinacota; resolución Nº 7 de 2019 de la Contraloría General de la República y demás normativa aplicable.
+
+Considerando:
+
+1. Que según lo prescrito en el artículo 113 del DFL Nº 1 de 2007, citado en Vistos, el Ministerio de Transportes y Telecomunicaciones podrá prohibir por causa justificada la circulación de todo tipo de vehículos o de tipos específicos de estos, por determinadas vías públicas; facultad que ha sido delegada en los Secretarios Regionales Ministeriales de Transportes y Telecomunicaciones, mediante resolución Nº 59 de 1985 del aludido Ministerio.
+
+2. Que la estructura y expansión del parque vehicular por tipo de vehículo, distribución, número de vehículos con tecnología catalítica y no catalítica, su composición y tipo de motor, han desarrollado el parque vehicular en la ciudad de Arica, de tal forma, que la tasa de variación anual es de un 7.2%, desde el año 2008 hasta el año 2018, según lo dispuso el INE en su Informe Parque Vehicular de 2018. En el mismo estudio, señala que del universo del parque indicado, 2.787 vehículos corresponden a vehículos de carga en el año 2008. Transporte de carga que para el año 2018 fue 4.733 (mismo estudio). De acuerdo al mismo Informe, el crecimiento del transporte vehicular significó disponer, en el año 2018, el equivalente a 4,6 vehículos motorizados por cada 10 habitantes de 18 o más años en la región, mientras que a nivel país existe una cantidad de 3,6 vehículos por cada 10 habitantes de la misma edad.
+
+Para el año en análisis el transporte de carga en circulación, período 2008-2018, se tiene que el camión simple es la categoría con mayor participación dentro de los transportes de cargas con un 38,7% del total. Le sigue remolque y semirremolque con 28,6%, en tercer lugar el tractocamión y camión agrícola con 24,3%, otros con un solo 8,4%.
+
+3. Que durante el último período, la circulación de camiones, -entendiendo por tal al vehículo motorizado de carga, manifiestamente concebido y acondicionado para el transporte de mercaderías, provisto de cabina y carrocería, con capacidad de carga útil de más de 2.000 kilos. Se entiende por capacidad de carga útil el peso de la carga que puede transportar el vehículo, según especificaciones técnicas de fábrica- (definición que deberá aplicarse en todo el presente acto administrativo) con distintos tipos de cargas dentro de la ciudad de Arica, se ha incrementado considerablemente, puesto que la mayoría de los vehículos pesados, tiene al puerto de Arica como destino final o inicial en el traslado de mercaderías, generando congestión en las vías más importantes de la ciudad.
+
+4. Que, la condición descrita afecta directamente a la comunidad, teniendo presente que la gran cantidad de vehículos de carga pesada, que circulan por las diferentes avenidas y calles de la ciudad implica un mayor riesgo de accidentabilidad. Es necesario mencionar, tomando como base el aumento del volumen de la carga, que Bolivia movió durante el año 2018 por el puerto de Arica 1.522.972.-, 8 toneladas más que el año 2005. También, en promedio en estos 15 años el porcentaje de carga boliviana que se ha movido por las calles de Arica es el 65,72%, según lo establecido en la Memoria de EPA del 2005.
+
+5. Que, según las estadísticas del Servicio Nacional de Aduanas de Chile, en el año 2014, en la Avanzada de Chungará entraron 85.701 vehículos de carga bolivianos y 1.579 vehículos de carga chilenos transitando hacia la ciudad de Arica, siendo el 82% los vehículos bolivianos. En el año 2019, ingresaron por la Avanzada de Chungará 91.046 camiones de carga, de los cuales solo 909 fueron camiones chilenos, por lo tanto el 90% equivale a vehículos bolivianos de carga pesada, en tanto se consigna un incremento de aproximadamente 6.000 camiones bolivianos más entre el año 2014 y el año 2019. Consecuencia de aquello, resulta imperioso aminorar las consecuencias de lo señalado, específicamente; la reducción de congestión por mayor flujo de camiones sobre la red vial, disminuir el menor costo de reparación y mantención vial y controlar la polución del aire y la contaminación acústica.
+
+6. Que, de acuerdo a la proyección vial urbana establecida en el Plan Regulador vigente de la ciudad de Arica, señala que el desarrollo urbano habitacional se proyecta hacia el sector norte de la ciudad, ante los altos niveles de saturación vehicular que se genera en la actualidad, en los diferentes ejes de circulación en sentido de norte a sur y viceversa, sumado que los camiones con carga o vacíos se dirigen o vienen desde el puerto, tomando vías altamente saturadas, lo que obliga resguardar y ordenar la circulación de camiones, además de minimizar el riesgo de accidentes.
+
+7. Que, en virtud de lo dispuesto por la Constitución Política de la República, la cual indica, que es deber del Estado dar protección a la población, y le corresponde la coordinación y control de las acciones para asegurarlas, debe tenerse en vista, no solo la protección de la comunidad en general, sino que además, la seguridad de los trabajadores directamente relacionados con las operaciones portuarias del puerto de la ciudad de Arica. Así las cosas, para cumplir con el mandato constitucional, se requiere que el tránsito de camiones hacia y desde el puerto de Arica independientemente de la modalidad de la carga transportada o por transportar; se ejecute por una sola vía dentro del radio urbano. Medida que se aplicará todos los días del mes, en todos los horarios, comenzando a regir a contar de la fecha de publicación de la presente resolución en el Diario Oficial, cuyo término está dispuesto hasta el martes 30 de junio de 2021. Plazo que podrá ser prorrogado o modificado, de acuerdo a las circunstancias que esté viviendo el país.
+
+8. Que la modificación del periplo en que transitan los vehículos de carga en rutas hacia y desde el puerto de Arica, no afecta al sistema de transporte público de pasajeros, ni al tránsito normal de carga pesada que no tienen como destino final o principal el puerto de Arica, así como tampoco al tránsito vehicular privado.
+
+9. Que en consecuencia, existe una causa justificada en los términos del artículo Nº 113 del DFL Nº 1 de 2007, de los Ministerios de Transportes y Telecomunicaciones y Justicia que fija el texto refundido, coordinado y sistematizado de la Ley del Tránsito, citado en Vistos, para disponer la medida que se establece en el presente acto administrativo.
+
+Resuelvo:
+
+1.- Prohíbase la circulación de vehículos de carga del tipo camión simple, remolque, semirremolque y tractocamión, según lo detallado en el considerando segundo, párrafo 2º de la presente resolución, provenientes desde los Complejos Fronterizos de Chungará y Visviri, siguiendo por la Ruta 11 CH, Rotonda Los Libertadores, Ruta A 5 Norte, Rotonda Juan Guillen Canales, que transporten diferentes tipos de cargas, en todas sus modalidades, con destino y salida del puerto de Arica de acuerdo a las razones invocadas en los distintos considerandos de la presente resolución, en las vías ubicadas al interior de la ciudad de Arica, excluyendo las siguientes: Avda. Santiago Arata, Avda. Luis Beretta Porcel, Avda. Chile, Avda. Máximo Lira.
+
+2.- Dispóngase la siguiente ruta para el tránsito de los vehículos señalados en el resuelvo anterior de la siguiente ruta que se señala a continuación:
+
+a) Hacia el puerto de Arica: Complejos Fronterizos de Chungará y Visviri, Ruta 11 Ch, Rotonda Los Libertadores, Ruta A 5 Norte, Rotonda Juan Guillen Canales, Avda. Santiago Arata, Avda. Luis Beretta Porcel, Avda. Chile, Avda. Máximo Lira.
+
+b) Saliendo del puerto de Arica: Avda. Máximo Lira, Avda. Chile, Avda. Luis Beretta Porcel, Avda. Santiago Arata, Rotonda Juan Guillen Canales, Ruta A 5 Norte, Rotonda Los Libertadores, Ruta 11 Ch, Complejos Fronterizos de Chungará y Visviri.
+
+3.- Aplíquese la medida adoptada, de acuerdo a las facultades contenidas en la resolución Nº 39 de 1992 del Ministerio de Transportes y Telecomunicaciones, durante todos los días de la semana hasta el 30 de junio de 2021.
+
+4.- Carabineros de Chile, en uso de sus facultades, podrá adoptar en forma transitoria, medidas que ordenen el tránsito de vehículos o su estacionamiento en la vía pública cuando las circunstancias especiales lo hagan necesario.
+
+5.- La presente resolución exenta entrará en vigencia a contar de la fecha de su publicación en el Diario Oficial.
+
+Anótese y publíquese.- Alfredo Araya Aguirre, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Arica y Parinacota.
