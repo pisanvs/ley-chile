@@ -714,7 +714,9 @@ Para ser elegido senador se requiere ser ciudadano con derecho a sufragio, haber
 
 Se entenderá que los diputados tienen, por el solo ministerio de la ley, su residencia en la región correspondiente, mientras se encuentren en ejercicio de su cargo.
 
-Las elecciones de diputados y de senadores se efectuarán conjuntamente. Los parlamentarios podrán ser reelegidos en sus cargos.
+Las elecciones de diputados y de senadores se efectuarán conjuntamente.
+
+Los diputados podrán ser reelegidos sucesivamente en el cargo hasta por dos períodos; los senadores podrán ser reelegidos sucesivamente en el cargo hasta por un período. Para estos efectos se entenderá que los diputados y senadores han ejercido su cargo durante un período cuando han cumplido más de la mitad de su mandato.
 
 Las vacantes de diputados y las de senadores se proveerán con el ciudadano que señale el partido político al que pertenecía el parlamentario que produjo la vacante al momento de ser elegido.
 
@@ -1532,7 +1534,7 @@ Derogado
 
 El consejo regional será un órgano de carácter normativo, resolutivo y fiscalizador, dentro del ámbito propio de competencia del gobierno regional, encargado de hacer efectiva la participación de la ciudadanía regional y ejercer las atribuciones que la ley orgánica constitucional respectiva le encomiende.
 
-El consejo regional estará integrado por consejeros elegidos por sufragio universal en votación directa, de conformidad con la ley orgánica constitucional respectiva. Durarán cuatro años en sus cargos y podrán ser reelegidos. La misma ley establecerá la organización del consejo regional, determinará el número de consejeros que lo integrarán y su forma de reemplazo, cuidando siempre que tanto la población como el territorio de la región estén equitativamente representados.
+El consejo regional estará integrado por consejeros elegidos por sufragio universal en votación directa, de conformidad con la ley orgánica constitucional respectiva. Durarán cuatro años en sus cargos y podrán ser reelegidos sucesivamente en el cargo hasta por dos períodos. La misma ley establecerá la organización del consejo regional, determinará el número de consejeros que lo integrarán y su forma de reemplazo, cuidando siempre que tanto la población como el territorio de la región estén equitativamente representados.
 
 El consejo regional podrá fiscalizar los actos del gobierno regional. Para ejercer esta atribución el consejo regional, con el voto conforme de un tercio de los consejeros regionales presentes, podrá adoptar acuerdos o sugerir observaciones que se transmitirán por escrito al gobernador regional, quien deberá dar respuesta fundada dentro de treinta días.
 
@@ -1594,7 +1596,7 @@ Administración Comunal
 
 #### Artículo 118
 
-La administración local de cada comuna o agrupación de comunas que determine la ley reside en una municipalidad, la que estará constituida por el alcalde, que es su máxima autoridad, y por el concejo.
+La administración local de cada comuna o agrupación de comunas que determine la ley reside en una municipalidad, la que estará constituida por el alcalde, que es su máxima autoridad, y por el concejo. Los alcaldes serán elegidos por sufragio universal de conformidad a la ley orgánica constitucional de municipalidades, durarán cuatro años en sus cargos y podrán ser reelegidos sucesivamente en el cargo hasta por dos períodos.
 
 La ley orgánica constitucional respectiva establecerá las modalidades y formas que deberá asumir la participación de la comunidad local en las actividades municipales.
 
@@ -1614,7 +1616,7 @@ La ley determinará la forma y el modo en que los ministerios, servicios públic
 
 #### Artículo 119
 
-En cada municipalidad habrá un concejo integrado por concejales elegidos por sufragio universal en conformidad a la ley orgánica constitucional de municipalidades. Durarán cuatro años en sus cargos y podrán ser reelegidos. La misma ley determinará el número de concejales y la forma de elegir al alcalde.
+En cada municipalidad habrá un concejo integrado por concejales elegidos por sufragio universal en conformidad a la ley orgánica constitucional de municipalidades. Durarán cuatro años en sus cargos y podrán ser reelegidos sucesivamente en el cargo hasta por dos períodos. La misma ley determinará el número de concejales y la forma de elegir al alcalde.
 
 El concejo será un órgano encargado de hacer efectiva la participación de la comunidad local, ejercerá funciones normativas, resolutivas y fiscalizadoras y otras atribuciones que se le encomienden, en la forma que determine la ley orgánica constitucional respectiva.
 
@@ -1669,6 +1671,10 @@ Las leyes orgánicas constitucionales respectivas establecerán las causales de 
 Con todo, cesarán en sus cargos las autoridades mencionadas que hayan infringido gravemente las normas sobre transparencia, límites y control del gasto electoral, desde la fecha que lo declare por sentencia firme el Tribunal Calificador de Elecciones, a requerimiento del Consejo Directivo del Servicio Electoral. Una ley orgánica constitucional señalará los casos en que existe una infracción grave.
 
 Asimismo, quien perdiere el cargo de gobernador regional, de alcalde, consejero regional o concejal, de acuerdo a lo establecido en el inciso anterior, no podrá optar a ninguna función o empleo público por el término de tres años, ni podrá ser candidato a cargos de elección popular en los dos actos electorales inmediatamente siguientes a su cesación.
+
+#### Artículo 125 bis
+
+Para determinar el límite a la reelección que se aplica a los gobernadores regionales, consejeros regionales, alcaldes y concejales, se considerará que han ejercido su cargo durante un período cuando hayan cumplido más de la mitad de su mandato.
 
 #### Artículo 126
 
