@@ -820,6 +820,160 @@ empresa de mayor capacidad instalada.
 
 En caso que un cliente con opción tarifaria con cargo adicional de invierno hubiere sido sujeto de los pagos a que se refiere el Artículo 45º por variaciones de consumo practicadas en los meses de octubre a abril, el límite de invierno que se establezca para el cliente en función de los consumos en los meses indicados se calculará substituyendo el consumo efectivo de cada mes afecto a pago por el respectivo consumo de referencia determinado para el cliente en el mes correspondiente.
 
+Capítulo 10:
+
+Establece las condiciones para la realización de ofertas por aumentos de consumo, que tengan por objeto la realización de reconversiones energéticas residenciales.
+
+#### Artículo 64º
+
+Principios generales de aplicación. Los generadores que suministren energía eléctrica a usuarios finales sujetos a regulación de precios podrán realizar ofertas, a través de la empresa concesionaria de servicio público de distribución, a aquellos usuarios cuya tarifa de electricidad vigente sea de carácter residencial, con el objeto de incentivar aumentos de consumo a través de la realización de reconversiones para transición energética residencial, en conformidad a las normas que se establecen en el presente capítulo.
+
+Tales ofertas podrán ser realizadas por generadores que cuenten con contrato de suministro con la empresa concesionaria de distribución para el abastecimiento de usuarios regulados del área de concesión en la que esté ubicado el usuario final destinatario final de la oferta y que, en virtud de dicho contrato, suministren energía durante el período de vigencia de la oferta. Los aumentos temporales de consumo se imputarán al contrato de suministro del generador correspondiente, los cuales no podrán ser modificados con objeto de esta resolución.
+
+Para estos efectos, se considerarán aumentos temporales de consumo todos aquellos que se realicen durante el período definido en la estrategia de reconversión energética residencial del Ministerio de Energía, cuya realización se enmarque dentro de las condiciones y objetivos establecidos por ésta.
+
+Todos aquellos costos adicionales que se relacionen con la implementación y operación del sistema de incentivos para aumentos de consumo que tengan por objeto la reconversión para transición energética residencial serán de cargo de los generadores que realicen las ofertas.
+
+#### Artículo 65º
+
+Ámbito de aplicación de las ofertas. Las ofertas que realicen los generadores con el fin de incentivar aumentos de consumo por transición energética residencial deberán realizarse en el marco de las estrategias que defina el Ministerio de Energía para el buen funcionamiento y desarrollo del sector, especialmente aquellas vinculadas al consumo y uso eficiente de la energía. Las ofertas a las que se refiere el presente capítulo serán aplicables únicamente en las zonas en que se cumplan las condiciones establecidas previamente por el Ministerio de Energía para la implementación de la estrategia respectiva. Para efectos de aplicación de este capítulo, se considerarán al menos los siguientes aspectos de la estrategia de reconversión energética residencial del Ministerio de Energía: la zona en la cual aplica dicha estrategia, el período de vigencia de aplicación de la estrategia en dicha zona y el o los energéticos en los cuales se focaliza la reconversión.
+
+Para efectos de medir los aumentos de consumo que se realicen por aplicación de dichas estrategias, se deberá instalar un sistema de medición que permita diferenciar fehacientemente los consumos provenientes de equipos asociados a las estrategias de transición energética residencial definidas por el Ministerio de Energía. Asimismo, dicho sistema deberá permitir la posterior asignación de los correspondientes aumentos de consumo de manera tal que facilite la facturación por parte de la concesionaria de servicio público de distribución y el correcto funcionamiento del mercado.
+
+#### Artículo 66º
+
+Condiciones de las ofertas y obligaciones de los generadores. Las concesionarias de servicio público de distribución ubicadas en aquellas zonas sujetas a estrategias de reconversión energética residencial del Ministerio de Energía deberán realizar llamados públicos para presentar ofertas de aumento de consumo para ese fin, cuyo objetivo será determinar el descuento por unidad de aumento de consumo aplicable a la boleta o factura de sus usuarios finales que accedan al mecanismo de incentivo.
+
+Las ofertas deberán materializarse como un descuento en el monto facturado al usuario final en la boleta de suministro eléctrico de la empresa concesionaria de servicio público de distribución respectiva. Para tales efectos, las ofertas realizadas por los generadores serán estandarizadas, debiendo especificar un Precio de Oferta y un Volumen de Oferta. El período de vigencia de las ofertas se extenderá por el período de meses que establezca las condiciones del llamado para presentación de ofertas, el cual al menos estará comprendido entre los meses de abril y octubre del o los correspondientes años que sean definidos por la Comisión en las condiciones del llamado para presentación de ofertas, que en cualquier caso no podrá ser superior al período de duración de la estrategia establecida por el Ministerio de Energía.
+
+El Precio de Oferta será igual al valor unitario que un generador se compromete a descontar en su factura por cada kilowatt-hora de aumento de consumo que realicen los usuarios finales que acceden al mecanismo de incentivo y que le sea asignado. Puesto que el presente mecanismo de ofertas destinado a los usuarios finales se formula a través de las empresas distribuidoras, el descuento del Precio de Oferta se realiza a la empresa distribuidora, la cual deberá traspasar dicha oferta al usuario final como un descuento en su boleta o factura, de conformidad a lo establecido en el presente capítulo. El Precio de Oferta se establecerá en pesos por kilowatt-hora.
+
+Por su parte, el Volumen de Oferta corresponde al monto total de energía anual y a nivel de usuario final, que el generador pone a disposición de la empresa distribuidora para suministrar los aumentos de consumo que accedan a su Precio de Oferta. El Volumen de Oferta no podrá ser superior al Volumen Máximo establecido por la Comisión para cada generador en el correspondiente proceso de presentación de ofertas, y para cada año correspondiente.
+
+Asimismo, un mismo generador podrá efectuar más de una oferta en un mismo llamado para presentación de ofertas. Tales ofertas podrán contar con Precios de Oferta diferentes entre sí, pero deberán resguardar que la suma de los correspondientes Volúmenes de Oferta no supere el Volumen Máximo establecido para el respectivo generador.
+
+Las condiciones del llamado para presentación de ofertas serán elaboradas por la Comisión, y deberán especificar, al menos, la fecha de presentación de las ofertas, los formatos en que deben ser entregadas las ofertas, los plazos de asignación de ofertas, el período de años de vigencia del abastecimiento de aumentos de consumo, el volumen total de energía que se requiera para reconversiones energéticas residenciales en cada año del referido período y la distribución mensual del requerimiento anual de energía. Adicionalmente, las condiciones del llamado para presentación de ofertas deberán establecer el Volumen Máximo de energía anual que puede ofertar cada generador en dicho proceso, el cual será determinado en virtud de los excedentes de suministro esperados de los contratos del respectivo generador para el año correspondiente. Para tales efectos, la Comisión determinará el Volumen Máximo a partir de las proyecciones de consumo de los usuarios regulados para el correspondiente año, los volúmenes de energía contratados de la correspondiente empresa distribuidora para el correspondiente año, los factores esperados de pérdidas de energía asociados al correspondiente sistema de transmisión zonal y los correspondientes factores de expansión de pérdidas de energía de alta y baja tensión, establecidos en el decreto que fija las fórmulas tarifarias de distribución vigente.
+
+El volumen total de energía que se requiera para reconversiones energéticas residenciales será determinado por el Ministerio de Energía para la correspondiente zona e informado a la Comisión previo al llamado para presentar ofertas. Asimismo, en cada proceso de presentación de ofertas la Comisión deberá especificar el Valor Mínimo de Precio de Ofertas de descuento, el cual será fijado en virtud del costo esperado de abastecimiento eléctrico para que ocurra la reconversión energética residencial. Sólo podrán participar del proceso de asignación de ofertas aquellas cuyo Precio de Oferta de descuento sea mayor o igual al Valor Mínimo de Precio de Ofertas.
+
+Las condiciones del llamado para presentación de ofertas también podrán establecer una fórmula de actualización de los Precios de Oferta de descuento.
+
+Una vez presentadas las ofertas, serán asignadas aquellas ofertas de mayor Precio de Oferta de descuento hasta completar el volumen total de energía dispuesto para ser ofertado. La empresa distribuidora deberá publicar todos los antecedentes de las ofertas recibidas y su asignación a los respectivos oferentes en un plazo no superior a 5 días posteriores al acto de asignación.
+
+#### Artículo 67º
+
+Condiciones mínimas y solución de medición. Los usuarios finales que deseen optar al sistema de incentivos descritos en este capítulo deberán estar ubicados en las zonas definidas por el Ministerio de Energía en conformidad a la estrategia de recambio energético residencial. Adicionalmente, deberán contar con una tarifa de carácter residencial.
+
+Para que un usuario final pueda acceder a las ofertas de descuento por aumentos de consumo por reconversión energética residencial, deberá contar con la solución de medición necesaria para determinar dichos aumentos de consumos y realizar la declaración a la que se refiere el artículo 72º.
+
+La empresa distribuidora deberá verificar previamente la existencia de un sistema de medición destinado a medir los aumentos de consumos por reconversión energética residencial, en adelante "Solución de Medición". Dicha Solución de Medición debe encontrarse vinculada únicamente a la medición de los consumos de los equipos asociados a la reconversión energética residencial, y contar con uno o más limitadores de potencia dimensionados para dicha solución. La medida que se obtenga a partir de la Solución de Medición implementada deberá cumplir, al menos, con las siguientes características:
+
+a) Error máximo admisible de 1%;
+
+b) Resolución temporal horaria; y
+
+c) Comunicación remota de datos.
+
+La conexión de otros equipos de consumo eléctrico a la Solución de Medición con el objeto de acceder a los descuentos por aumentos de consumo por reconversión energética residencial podrá ser verificada por la Superintendencia de Electricidad y Combustibles, pudiendo esta última instruir a la concesionaria de distribución a no aplicar los descuentos por aumentos de consumo a los que se refiere esta resolución.
+
+Tanto los equipos de consumo como la instalación interior que permita la conexión de dichos equipos a la Solución de Medición, deberán contar con las certificaciones de acuerdo a las disposiciones emitidas por la Superintendencia de Electricidad y Combustibles.
+
+Asimismo, la empresa distribuidora deberá disponer de medidas de referencia para cada usuario final de manera de poder monitorear y verificar que los aumentos de consumo correspondan a los asociados a la estrategia de reconversión energética residencial, por lo cual deberá mantener un registro del consumo promedio anual del usuario que emita la declaración señalada en el artículo 72º, de acuerdo a las mediciones registradas el año calendario anterior en conformidad a los requisitos establecidos en el artículo 1-13 de la Norma Técnica de Calidad de Servicio para Sistemas de Distribución o el que en el futuro la reemplace. Diferencias superiores a 20% del consumo regulado normal mensual del usuario final respecto de dichos consumos, podrá originar la fiscalización por parte de la Superintendencia de Electricidad y Combustibles, para lo cual la empresa distribuidora deberá enviar mensualmente tales registros a la Superintendencia y a la Comisión.
+
+#### Artículo 68º
+
+Aumentos de Consumo. De conformidad a lo establecido en el artículo 67º, el equipamiento eléctrico de reconversión energética residencial debe encontrarse vinculado a una Solución de Medición que registra sus consumos de manera separada e independiente del resto de los consumos que efectúa el usuario final. En consecuencia, para los efectos del presente capítulo, se entenderá por aumento de consumo originado por la reconversión por transición energética residencial, a todo aquel consumo registrado mediante la Solución de Medición.
+
+Los descuentos por aumentos de consumo a que se refiere este capítulo deberán ser identificables por el usuario final a través de la respectiva boleta o factura que emita la empresa distribuidora correspondiente.
+
+#### Artículo 69º
+
+Determinación del incentivo. Una vez asignadas las ofertas para satisfacer aumentos de consumo por reconversión energética residencial a que se refiere el artículo 66º anterior, la empresa distribuidora ofrecerá a sus usuarios finales un precio único de Descuento por unidad de aumento de consumo, el cual corresponderá al promedio de los Precios de Oferta asignados para el correspondiente período, ponderados por los Volúmenes de Oferta asignados.
+
+Los usuarios finales que deseen acceder al mecanismo de oferta por aumento de consumo del presente capítulo 10, deberán cumplir con las condiciones establecidas en el artículo 67º y entregar la declaración jurada a la empresa distribuidora señalado en el artículo 72º. Cada usuario final que haya cumplido con las señaladas condiciones recibirá en su boleta o factura un descuento equivalente a la medición de su aumento de consumo valorizado al precio del descuento de la empresa distribuidora. La boleta o factura, o en un anexo de ésta, deberá explicitar claramente la operación de descuento efectuada, indicando el aumento de consumo producto de la reconversión, el precio del descuento en pesos por kilowatt-hora, y el descuento total aplicado en pesos.
+
+No obstante la aplicación de un precio de descuento único, la asignación del volumen total de energía proveniente de aumentos de consumo mensuales efectivamente medidos, será asignado entre los generadores cuyas ofertas hayan sido asignadas de acuerdo con el orden de mérito de sus Precios de Oferta. De conformidad a lo anterior, la empresa distribuidora asignará los aumentos de consumo contabilizados del mes, en primer lugar, a la oferta de mayor Precio de Oferta de descuento, mientras no supere la fracción mensual del Volumen de Oferta. Dicha fracción equivale a la proporción de la distribución mensual del mes respectivo, establecida en las condiciones del llamado para presentación de ofertas, aplicada sobre el Volumen de Oferta anual de la correspondiente oferta. Sólo una vez que se haya asignado completamente la fracción mensual del Volumen de Oferta, el remanente de aumentos de consumos mensuales medido se asignará a la oferta de segundo mayor Precio de Oferta de descuento, hasta completar su fracción mensual del Volumen de Oferta, repitiéndose así el proceso con las siguientes ofertas en orden descendente del Precio de Oferta, hasta asignar la totalidad del volumen de energía de aumentos de consumo del respectivo mes. En caso que, concluido el procedimiento anterior, aún quedara un remanente de aumentos de consumos mensuales sin asignar, éste será asignado entre todos los generadores con ofertas asignadas, a prorrata de sus Volúmenes de Oferta.
+
+Debido a la asignación por orden de mérito de los aumentos de consumo, en cada período mensual de facturación del generador, la empresa distribuidora deberá calcular la diferencia entre los aumentos de consumo totales contabilizados en el correspondiente período mensual, valorizados al precio del descuento promedio único aplicado por la empresa distribuidora y la suma de los montos de aumentos de consumo mensuales asignados a los distintos generadores, valorizados al Precio de Oferta respectivo. Dicha diferencia será devuelta a los usuarios finales que acceden al mecanismo de incentivos, a través de un descuento en la boleta o factura siguiente, adicional al señalado en el segundo inciso del presente artículo, a prorrata de los aumentos de consumo de cada usuario final durante mes anterior.
+
+La empresa distribuidora deberá poner a disposición de sus usuarios finales el descuento resultante del mecanismo de incentivo para aumentos de consumo, y deberá facilitar la suscripción de la declaración jurada señalada en el artículo 72º, mediante medios digitales o físicos. Asimismo, la empresa distribuidora podrá, voluntariamente, descontar el cargo por potencia adicional de invierno, u otros cargos que ésta defina, para estos aumentos de consumo. Tales descuentos adicionales no podrán ser considerados costos de cargo al generador que realice la oferta, relacionados con la implementación del sistema de incentivos para aumentos de consumo a que se refiere el artículo 71º.
+
+La empresa distribuidora no podrá negar acceder al mecanismo de descuento a quien lo solicite y cumpla con los requisitos establecidos en este capítulo. La empresa distribuidora deberá encargarse de la gestión de publicidad del mecanismo, publicando al menos las ofertas respectivas en su sitio web. Adicionalmente, deberá publicitar el mecanismo mediante medios físicos y digitales de manera tal que los usuarios finales destinatarios de las ofertas tengan acceso a ellas y a la información necesaria para evaluar las ofertas respectivas y su conveniencia.
+
+#### Artículo 70º
+
+Condiciones de facturación. Corresponderá a las empresas de distribución determinar los aumentos de consumo originados por la reconversión energética de los usuarios a que se refiere el presente capítulo, así como el monto equivalente de descuento a aplicar a cada usuario conforme a las ofertas que se encuentren vigentes.
+
+Asimismo, corresponderá a las empresas distribuidoras imputar a los generadores cuyas ofertas hayan sido asignadas según lo establecido en el artículo 69º, los montos agregados de aumentos de consumo que hayan efectuado los usuarios que accedieron al mecanismo de incentivos para reconversión energética. Esta asignación se realizará para efectos de la facturación a pagar por el suministro de los generadores, así como para el cómputo de las correspondientes transferencias resultantes del balance económico de energía y potencia entre generadores que determine el Coordinador Eléctrico Nacional, en conformidad al artículo 72º-3 de la ley.
+
+Los aumentos de consumo medidos en cada hora a través de la Solución de Medición se distribuirán entre los generadores cuyas ofertas hayan sido asignadas, de manera proporcional al volumen de energía asignada según el artículo 69°. Para estos efectos, la asignación horaria de los aumentos de consumo se realizará sin restricción al período horario de abastecimiento de los bloques de suministro originalmente contratados.
+
+La asignación de los suministros entre los distintos generadores de la empresa distribuidora se realizará considerando lo siguiente:
+
+i) Se totalizarán los aumentos de consumo mensuales originados por la reconversión energética de los usuarios finales asignados a cada generador de conformidad a lo establecido en el artículo 69º, y serán referidos a las subestaciones primarias utilizando los factores de expansión de pérdidas de energía de alta y baja tensión correspondientes, establecidos en el decreto que fija las fórmulas tarifarias de distribución vigente.
+
+ii) Para cada generador, los valores señalados en el numeral anterior serán distribuidos entre las distintas subestaciones primarias, a prorrata de los consumos regulados totales medidos en dichas subestaciones primarias. La asignación de estos aumentos de consumo resultantes de cada generador será utilizada para efectos del cómputo de retiros en el balance de energía y potencia que realiza el Coordinador, como también para efectos de la facturación del suministro correspondiente a estos aumentos de consumo en los respectivos Puntos de Compra.
+
+iii) Para cada subestación primaria, el consumo regulado normal, entendido éste como aquel consumo regulado descontando los aumentos de consumo por reconversión energética residencial, se determinarán como la diferencia entre el consumo regulado total de energía mensual medido a nivel de la subestación primaria y los montos de energía provenientes de los aumentos de consumo determinados según el numeral anterior. Dicho consumo regulado normal deberá ser asignado entre los distintos generadores con contrato de suministro vigente, de conformidad a la normativa vigente, particularmente según las normas establecidas en el Reglamento de Licitaciones.
+
+iv) Los consumos regulados de potencia de cada subestación primaria serán asignados entre los distintos generadores a prorrata de la energía asignada a cada generador, tanto por concepto de consumo regulado normal de energía como por aumentos de consumo de energía, de conformidad a los numerales anteriores y la normativa vigente.
+
+v) Para efectos de la facturación de los aumentos de consumo por parte de los generadores, los montos de energía y potencia a nivel de subestaciones primarias de cada generador, determinados según los numerales ii) y iv) anteriores, deberán ser referidos a los correspondientes Puntos de Compra de conformidad a lo establecido en la normativa vigente.
+
+vi) Si el generador contara con más de un contrato de suministro vigente con la empresa distribuidora, los montos de energía y potencia por concepto de aumentos de consumo de cada Punto de Compra se distribuirán entre los distintos contratos, a prorrata del suministro anual contratado.
+
+vii) Los montos de energía y potencia por concepto de aumentos de consumo determinados en cada Punto de Compra serán valorizados a los precios del contrato en el referido Punto de Compra para efectos de la facturación. Adicionalmente, se deberán considerar los descuentos o pagos señalados en el artículo 71º. Cabe señalar, en consistencia con lo anterior, que los suministros facturados por concepto de aumentos de consumo no considerarán la contabilización de saldos a ser remunerados de conformidad a la ley Nº 21.185.
+
+viii) El generador deberá efectuar la facturación asociada a los aumentos de consumo en una factura separada de aquella asociada al abastecimiento del consumo regulado normal de la empresa distribuidora.
+
+ix) De conformidad a lo dispuesto en el artículo 69º, el monto anual asignado por aumentos de consumo a un generador podrá, eventualmente, resultar mayor que su Volumen de Oferta asignado para el correspondiente año según el artículo 66º.
+
+x) No obstante lo anterior, las empresas distribuidoras deberán resguardar que el monto total anual de energía facturado por cada generador, considerando tanto los consumos regulados normales de energía como los aumentos temporales de consumo asignados, no supere el monto de energía anual contratado por el mismo.
+
+#### Artículo 71º
+
+Costos de responsabilidad del oferente. Los costos eficientes relacionados con la implementación y operación del sistema de incentivos por aumentos de consumo serán de cargo de los generadores que realicen la ofertas.
+
+Para tales efectos, el generador deberá descontar de su factura a la empresa distribuidora un monto equivalente al total de los aumentos de consumo mensuales de energía originados por la reconversión energética residencial que le han sido asignados en virtud de su oferta y determinados conforme al artículo 69º, valorizados al correspondiente Precio de Oferta de descuento asignado.
+
+Adicionalmente, el generador deberá descontar o cargar en su facturación, según sea el caso, un monto equivalente a la energía total facturada por aumentos de consumo en cada Punto de Compra, valorizada a la diferencia entre el precio de energía del contrato en el referido Punto de Compra y el precio de nudo de energía en nivel de distribución de la correspondiente empresa distribuidora, este último reducido por el factor de expansión de pérdidas de energía del correspondiente sistema de transmisión zonal. En caso de que dicho monto resulte positivo, el generador deberá descontarlo de su facturación mensual, mientras que, en caso de resultar negativo, el valor absoluto será adicionado a la facturación realizada a la distribuidora, de modo tal que la operación del sistema de incentivos no represente ningún costo ni tampoco un exceso de recaudación por compras de energía y potencia para la empresa distribuidora. Asimismo, el generador deberá pagar o cargar, según sea el caso, un monto equivalente a la potencia total facturada por aumentos de consumo en cada Punto de Compra, valorizada a la diferencia entre el precio de facturación de la potencia del generador en el referido Punto de Compra y el precio de nudo de la potencia en nivel de distribución de la correspondiente empresa distribuidora, este último reducido por el factor de expansión de pérdidas de potencia del correspondiente sistema de transmisión zonal.
+
+A su vez, las empresas de distribución facturarán a sus generadores asignados con aumentos de consumo originados por la reconversión energética residencial, los costos asociados a la implementación y operación del señalado sistema de ofertas. Estos costos estarán asociados los costos incurridos por las empresas distribuidoras en el desarrollo de las actividades de realización de llamados para presentación de ofertas, gestión de declaraciones juradas de usuarios finales, publicidad del mecanismo de incentivos, verificación de la existencia de la Solución de Medición, facturación de los aumentos de consumo y monitoreo y reporte de consumos. No formarán parte de los costos de implementación y operación del sistema de incentivos aquellos relacionados con los equipos de consumo asociados a la reconversión energética residencial, ni las instalaciones eléctricas interiores que se dispongan en la propiedad, así como tampoco aquellos relacionados con la Solución de Medición, los cuales serán de cargo del usuario final y se remunerarán en conformidad a la normativa vigente. Asimismo, los costos de adecuación de las redes de distribución serán de cargo de la empresa distribuidora. Se distinguirán dos tipos de costo:
+
+a) Costo mensual que significa la contratación y/o pago de un recurso distinto a los existentes en la empresa distribuidora, y que debe acreditarse conforme un valor facturado.
+
+b) Costo mensual por cliente que accede al mecanismo de incentivos, que incurra la empresa distribuidora por el mayor uso de en sus recursos.
+
+Los costos señalados serán presupuestados y definidos por la distribuidora antes del llamado para la presentación de ofertas, y podrán establecerse fórmulas de indexación, que reflejen la variación de valorización de dichos costos mientras dure el período de vigencia de las ofertas respectivas.
+
+El presupuesto de costos deberá ser representativo de costos eficientes y deberá ser aprobado por la Comisión. Dicho presupuesto de costos sólo podrá contemplar costos adicionales a los que la empresa distribuidora incurriría de no existir ofertas específicas para reconversión energética residencial. En particular, no se incluirán costos asociados a la puesta en marcha y mantención de los mecanismos que permiten hacer operativas las disposiciones de la presente resolución. Para la elaboración del presupuesto de costos respectivo, las concesionarias de distribución deberán considerar las economías de ámbito y escala que puedan aprovechar. La Comisión deberá publicar en su página web e informar dichos costos a todos aquellos generadores que suministren a la empresa distribuidora respectiva.
+
+Los costos derivados de la implementación de ofertas señalados en la letra a) anterior y los costos señalados en la letra b) multiplicados por el número de usuarios finales que acceden al mecanismo de incentivos, serán remunerados por los generadores, a prorrata de los aumentos de consumo asignados a cada generador.
+
+Al momento de informar los costos a remunerar por los generadores que corresponda, la distribuidora deberá adjuntar las facturas correspondientes a la componente señalada en la letra a), si fuere el caso.
+
+#### Artículo 72º
+
+Condiciones para determinar la existencia de aumentos de consumo para reconversión energética residencial. El usuario final que opte al mecanismo de incentivos de aumentos de consumo para reconversión energética residencial deberá presentar una declaración jurada en la cual manifieste el cumplimiento de las siguientes condiciones mínimas que permitan determinar la existencia de dichos aumentos:
+
+i) Contar con una opción tarifaria de carácter residencial;
+
+ii) Número de cliente al cual está asociado su consumo;
+
+iii) La voluntad de realizar una reconversión energética por al menos el período que determine la estrategia del Ministerio de Energía;
+
+iv) No tener boletas o facturas impagas al momento de emitir la declaración;
+
+v) Los equipos que utilizará con el fin exclusivo de reconversión energética residencial y sus características técnicas;
+
+vi) Que acepta el término anticipado del mecanismo de incentivos de aumento de consumo en caso de que se alteren los circuitos, Solución de Medición, o se realice cualquier otro acto fraudulento que tenga por objeto ampliar de manera ilegítima el ámbito de aplicación de los incentivos referidos y sea así declarado por la Superintendencia;
+
+vii) Que renuncia voluntariamente a acceder a las ofertas por reducciones o aumentos de consumo reguladas en el capítulo 3.1 y 3.2 de la presente resolución, con el fin de evitar una doble contabilización de incentivos.
+
+La presentación de esta declaración jurada por parte del usuario final a la empresa distribuidora respectiva deberá ir acompañada de la entrega de fotografías digitales donde se puedan constatar los equipos y las características técnicas señaladas en el numeral v) anterior. Adicionalmente, se deberá declarar si para la conexión de los equipos de consumo asociados a la reconversión energética se requieren adecuaciones de las instalaciones eléctricas interiores, en cuyo caso se deberá disponer de las certificaciones requeridas por la Superintendencia de Electricidad y Combustibles que permitan comprobar que dichas instalaciones cumplen con la normativa eléctrica vigente.
+
+Asimismo, la presentación de esta declaración jurada por parte del usuario final será entendida como una aceptación tácita de las ofertas asignadas en conformidad a lo establecido en el presente capítulo. La empresa distribuidora deberá poner a disposición de los usuarios los medios físicos o digitales para efectuar esta declaración. Sin perjuicio de lo anterior, la empresa distribuidora no podrá recibir nuevas declaraciones juradas de usuarios finales cuando el monto total de aumentos de consumos contabilizados en el mes anterior supere la suma total de las fracciones mensuales del Volumen de Oferta asignados del mes correspondiente.
+
 Disposiciones Transitorias
 
 #### Artículo 1º
@@ -841,6 +995,28 @@ Cuando se cursen ofertas dirigidas al grupo de consumo de una empresa distribuid
 #### Artículo 3º
 
 Para aquellas empresas de distribución que posean contratos de suministro vigentes, suscritos antes de la publicación de la Ley 20.018 del 19 mayo del 2005, que no especifiquen la proporción de suministro destinada a sus clientes regulados y no regulados, deberá entenderse, a efectos de aplicar los procedimientos a los que se refiere el Capítulo 5 de esta resolución, que cada uno de estos contratos abastece a ambos tipos de clientes a prorrata de la energía total suministrada por la distribuidora a cada tipo en el año calendario inmediato anterior a la oferta respectiva. Para ello, las empresas distribuidoras deberán informar los consumos totales referidos a los puntos de suministro respectivos de ambos tipos de cliente y su prorrata a la Dirección de Peajes del CDEC respectivo de acuerdo a lo establecido en el numeral 8 del artículo 49º de la presente resolución..
+
+#### Artículo 4º
+
+transitorio: La solución de medición referida en el artículo 67º de esta resolución, podrá reemplazarse por un método de estimación de aumentos de consumo por un período de 2 años, contados desde que inicie la vigencia del primer descuento por unidad de aumento de consumo establecido por la empresa distribuidora en aplicación de lo dispuesto por la estrategia de reconversión energética residencial del Ministerio de Energía en la zona respectiva y lo señalado en el capítulo 10. Para estos efectos, el aumento de consumo mensual asociado a recambio energético residencial se estimará considerando el consumo total medido en el domicilio correspondiente, restando un consumo referencial que corresponderá al promedio de los consumos realizados durante el mismo mes en los 2 años inmediatamente anteriores. Si no existiera alguno de estos registros, el registro faltante será reemplazado por el promedio de consumo de los 3 meses inmediatamente anteriores. Para el segundo año de aplicación de la solución de estimación se considerarán los mismos consumos de referencia estimados.
+
+Se tendrá entonces:
+
+Aumento de Consumo = ConsumoTotal - Consumo Ref
+
+donde,
+
+Aumento de Consumo: Aumento de consumo estimado por reconversión energética del usuario residencial, en kWh.
+
+ConsumoTotal: Consumo total medido mensual del usuario residencial, en kWh.
+
+ConsumoRef: Consumo referencial del usuario final, determinado a partir de los registros de consumo históricos, en kWh.
+
+Con el fin de verificar la correcta estimación de los aumentos de consumo, la empresa distribuidora podrá definir un consumo tipo de los equipos declarados por el usuario respectivo según lo establecido en el artículo 72º, considerando sus características técnicas y uso. En caso que el usuario no esté conforme con la estimación realizada por la empresa distribuidora, podrá recurrir a la Superintendencia, quien definirá el consumo tipo que deberá utilizarse.
+
+Si se detectaran diferencias superiores al 30% entre el aumento de consumo y el consumo tipo, la empresa distribuidora informará a la Superintendencia con el fin que esta última pueda ejercer sus funciones fiscalizando las instalaciones del usuario respectivo y determine si se cumplen las características técnicas de los equipos declarados por el usuario en conformidad a lo establecido en el inciso anterior. En caso que no se cumplan dichas condiciones, la Superintendencia podrá instruir a la empresa distribuidora a no aplicar los descuentos por aumentos de consumo a los que se refiere este capítulo.
+
+A efectos de imputar al generador el aumento de consumo determinado, y mientras se utilice la estimación de medición contenida en esta disposición, se entenderá que éste se distribuye de manera uniforme a lo largo de todo el período de facturación del usuario final para efectos del balance económico entre generadores referido en el artículo 72°-3 de la Ley.
 
 #### Artículo Segundo
 
