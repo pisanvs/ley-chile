@@ -154,6 +154,12 @@ Séptimo: Delégase en el Jefe de la División Fiscalización, la facultad de su
 
 6. Oficios circulares de instrucciones sobre materias de competencia de la División Fiscalización.
 
+7. Oficios de certificación de equipos de telecomunicaciones.
+
+8. Oficios dirigidos a suscriptores de servicio público y telefónico y limitado de televisión y a concesionarios y permisionarios de servicios de telecomunicaciones, con el objeto informar el estado de sus denuncias.
+
+9. Oficios requiriendo el auxilio de la fuerza pública conforme al artículo 39 bis de la ley Nº 18.168.
+
 #### Artículo octavo
 
 <!-- parte:9334172 -->
@@ -174,13 +180,7 @@ Noveno: Delégase en el Jefe del Departamento Análisis y Planificación, la fac
 
 <!-- parte:9334174 -->
 
-Décimo: Delégase en el Jefe del Departamento de Operaciones, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
-
-1. Oficios de certificación de equipos de telecomunicaciones.
-
-2. Oficios dirigidos a suscriptores de servicio público telefónico y limitado de televisión y a concesionarios y permisionarios de servicios de telecomunicaciones, con el objeto informar el estado de sus denuncias.
-
-3. Oficios requiriendo el auxilio de la fuerza pública conforme al artículo 39 bis de la ley Nº 18.168.
+Décimo: Eliminado.
 
 #### Artículo décimo primero
 
