@@ -126,6 +126,12 @@ Séptimo: Delégase en el Jefe de la División Fiscalización, la facultad de su
 
 6. Oficios circulares de instrucciones sobre materias de competencia de la División Fiscalización.
 
+### 7. Oficios de certificación de equipos de telecomunicaciones
+
+8. Oficios dirigidos a suscriptores de servicio público y telefónico y limitado de televisión y a concesionarios y permisionarios de servicios de telecomunicaciones, con el objeto informar el estado de sus denuncias.
+
+9. Oficios requiriendo el auxilio de la fuerza pública conforme al artículo 39 bis de la ley Nº 18.168.
+
 Octavo: Delégase en el Jefe del Departamento Gestión de Reclamos, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos que se señalan a continuación:
 
 1. Resoluciones que resuelvan en definitiva las insistencias de los reclamos que se deduzcan por usuarios en virtud de lo dispuesto en el Título II del Reglamento sobre Tramitación y Resolución de Reclamos de Servicios de Telecomunicaciones, que correspondan a insistencias que se resuelvan mediante un pronunciamiento individual o, en el caso de diversos usuarios contra una misma compañía, mediante una sola resolución.
@@ -134,13 +140,7 @@ Octavo: Delégase en el Jefe del Departamento Gestión de Reclamos, la facultad 
 
 Noveno: Delégase en el Jefe del Departamento Análisis y Planificación, la facultad de efectuar la liquidación de las multas ordenadas por el Ministerio de Transportes y Telecomunicaciones dentro del proceso de cargos a que se refiere el artículo 36 A de la ley Nº 18.168.
 
-Décimo: Delégase en el Jefe del Departamento de Operaciones, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
-
-### 1. Oficios de certificación de equipos de telecomunicaciones
-
-2. Oficios dirigidos a suscriptores de servicio público telefónico y limitado de televisión y a concesionarios y permisionarios de servicios de telecomunicaciones, con el objeto informar el estado de sus denuncias.
-
-3. Oficios requiriendo el auxilio de la fuerza pública conforme al artículo 39 bis de la ley Nº 18.168.
+Décimo: Eliminado.
 
 Décimo primero: Delégase en el Jefe de la División Jurídica, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
 
