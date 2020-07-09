@@ -76,8 +76,6 @@ b. Los machos enteros deben contar con un examen andrológico completo de aptitu
 
 ### 3. Derogado
 
-> **Nota.** El numeral 2° de la Resolución 3957 Exenta, Agricultura, publicada el 09.07.2020, posterga la entrada en vigencia de la presente norma por un periodo de 12 meses, a contar de la publicación de la citada norma.
-
-> **Nota.** NOTA 1 El numeral 2° de la Resolución 6663 Exenta, Agricultura, publicada el 03.11.2020, establece la entrada en vigencia de la presente norma, en todos los territorios donde el Ministerio de Salud implemente la aplicación desde el paso 3 en adelante, de la estrategia de desconfinamiento de la pandemia por Covid-19.
+> **Nota.** El numeral 2° de la Resolución 3957 Exenta, Agricultura, publicada el 09.07.2020, posterga la entrada en vigencia de la la presente norma por un periodo de 12 meses, a contar de la publicación de la citada norma.
 
 Anótese, comuníquese y publíquese.- Horacio Bórquez Conti, Director Nacional, Servicio Agrícola y Ganadero.
