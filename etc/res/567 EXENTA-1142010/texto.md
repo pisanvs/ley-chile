@@ -22,10 +22,20 @@ Fíjase para el año 2020 el calendario nacional de examinación para los niños
 
 .
 
+> **Nota.** Las letras a y b del artículo 1° de la Resolución 2845 Exenta, Educación, publicada el 11.07.2020, modifica la presente norma en el sentido de reemplazar en todos los cuadros del plazo final para inscripción en Oficinas Ayuda MINEDUC, donde dice : "martes 18 de agosto de 2020" debe decir : "lunes 31 de agosto de 2020", asimismo reemplazar en todos los cuadros del Período de Aplicación: Donde dice: "Desde: Miércoles, 10 de junio de 2020 Hasta: Viernes, 19 de junio de 2020", debe decir : "Desde: Miércoles, 5 de agosto de 2020 Hasta: Viernes, 14 de agosto de 2020"
+
 #### Artículo 2°
 
 Podrán eximirse de las fechas fijadas para la examinación establecida en este calendario, las regiones cuya condición y/o contexto geográfico ameriten su aplicación en otras fechas, situación que deberá ser informada oportunamente a la Coordinación Nacional de Normativa y de Educación de Personas Jóvenes y Adultas, ambas de la División de Educación General, para su análisis, una vez autorizada mediante oficio firmado por el Jefe de la División de Educación General que lo formalice y posteriormente refrendada mediante el acto administrativo de la respectiva Secretaría Regional Ministerial de Educación.
 
 Las autorizaciones de cambio en las fechas deberán ser informadas a las oficinas de Ayuda Mineduc, para que sean publicadas en el enlace electrónico respectivo con información del proceso.
+
+#### Artículo 3º
+
+Las Secretarías Regionales Ministeriales de Educación podrán modificar la fecha de inscripción para el segundo período de examinación, considerando la realidad territorial, situación que deberá ser informada oportunamente a la Coordinación Nacional de Normativa y a la Coordinación Nacional de Educación de Personas Jóvenes y Adultas, ambas de la División de Educación General del Ministerio de Educación, para su análisis, una vez autorizada vía oficio firmado por el Jefe de la División de Educación General que lo formalice. Dichas modificaciones deberán ser refrendadas por una resolución emanada de la respectiva Secretaría Regional Ministerial de Educación.
+
+#### Artículo 4º
+
+El Jefe de la División de Educación General, podrá autorizar la examinación fuera de los plazos antes mencionados para menores de edad, que por razones fundadas no se pudieron presentar dentro del período establecido, previa verificación de los antecedentes que acrediten y justifiquen dicha solicitud.
 
 Anótese y publíquese.- Raúl Figueroa Salas, Subsecretario de Educación.
