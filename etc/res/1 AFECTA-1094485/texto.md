@@ -98,9 +98,11 @@ a. El subsidio base cubrirá el 40% de la prima neta cobrada en la respectiva p�
 
 b. El subsidio base incluirá, además, un subsidio de un monto fijo equivalente a UF 1 por cada póliza de seguro o contrato de cobertura.
 
-c. A su vez, se recibirá un subsidio adicional, expresado como porcentaje la prima neta, para los siguientes casos, que son acumulativos:
+c. A su vez, se recibirá un subsidio adicional, expresado como porcentaje de la prima neta, para los siguientes casos, que son acumulativos:
 
-c.1. Contratación colectiva o referida por un aglutinador de demanda: 10% de subsidio adicional para las siguientes condiciones alternativas:
+c.1. Contratación colectiva o referida por un aglutinador de demanda:
+
+4% de subsidio adicional para las siguientes condiciones alternativas:
 
 . Pólizas o contratos de cobertura contratados colectivamente acorde la fórmula prevista bajo el artículo 517 del Código de Comercio, o
 
@@ -108,21 +110,21 @@ c.1. Contratación colectiva o referida por un aglutinador de demanda: 10% de su
 
 Para efecto de lo antes previsto, serán considerados aglutinadores de demanda aquellas entidades que postulen y sean calificadas como tales por el Consejo Directivo de Agroseguros, acorde su facultad para establecer las políticas para el otorgamiento del subsidio general.
 
-c.2. Renovación: 10% de subsidio adicional para aquellas pólizas o contratos de cobertura cuyo asegurado haya tomado, durante la temporada agrícola inmediatamente anterior, al menos una póliza de seguro que cumpla con lo indicado en el punto 1.4 del presente Reglamento, o al menos un contrato de cobertura que cumpla con lo indicado en el punto 1.6 del presente Reglamento.
+c.2. Recontrataciones anuales: Hasta 10% de subsidio adicional para aquellos asegurados que hayan contratado previamente pólizas o contratos de cobertura, que cumplan respectivamente con lo indicado en el punto 1.4 o con lo indicado en el punto 1.6 del presente Reglamento. Dicho porcentaje tendrá lugar cuando se hayan contratado pólizas o contratos de cobertura durante cinco temporadas agrícolas, continuas o alternadas, dentro de un lapso de diez temporadas agrícolas contabilizadas desde aquella en que efectúa la última contratación. Por cada temporada agrícola a contar de la segunda contratación tendrá una bonificación de 2% de subsidio acumulable hasta enterar el 10%. Así, el asegurado que haya recontratado sólo una vez en el lapso antes indicado tendrá la bonificación adicional de 2% y quien lo haya efectuado en cinco oportunidades alcanzará hasta el 10%.
 
-Para los efectos del presente literal se entiende que una temporada agrícola es el intervalo de tiempo de un año que comienza el 1° de mayo de un año calendario y se extiende hasta el 30 de abril del año siguiente.
+Para los efectos del presente literal se entiende que una temporada agrícola es el intervalo de tiempo de un año que comienza el 1º de mayo de un año calendario y se extiende hasta el 30 de abril del año siguiente.
 
-c.3 Productos nuevos: 10% de subsidio adicional para aquellas pólizas o contratos de cobertura que representen nuevas coberturas, las que serán determinadas por el Consejo Directivo de Agroseguros, y gozarán de la categoría de nuevas, durante el plazo de 24 meses, contados desde la fecha de la resolución que ejecuta el Acuerdo del señalado Consejo que aprueba sus respectivas normas de suscripción.
-
-Dada su orientación a sumar nuevos beneficiarios productores de productos nuevos, los efectos del presente literal se entienden excluyentes con los previstos en el literal anterior, de modo tal que no podrá acumularse incremento de subsidio por renovación e incremento de subsidio por productos nuevos.
+c.3. Monto asegurado: 5% de subsidio adicional para aquellas pólizas o contratos de cobertura contratados por productores cuyos montos asegurados o cubiertos no superen la cantidad de UF 1.000 por cada póliza o contrato de cobertura contratado.
 
 c.4. Cereales: 5% de subsidio adicional para aquellas pólizas, cuyo cultivo asegurado corresponda a uno de los cereales asegurables: sea arroz, avena grano, cebada grano, maíz grano, trigo, triticales, centeno, quinoa u otro cereal que pueda incorporarse por Acuerdo del Consejo Directivo de Agroseguros.
 
-c.5. Zonas extremas: 5% de subsidio adicional para aquellas pólizas o contratos de cobertura cuya materia asegurada esté ubicada en una de las comunas situadas dentro de las zonas extremas determinadas por la ley N° 20.655, esto es, dentro de las Regiones I, XV, XI, XII, además de las Provincias de Chiloé y Palena.
+c.5. Zonas extremas: 5% de subsidio adicional para aquellas pólizas o contratos de cobertura cuya materia asegurada esté ubicada en una de las comunas situadas dentro de las zonas extremas determinadas por la ley Nº 20.655, esto es, dentro de las Regiones I, XV, XI, XII, además de las Provincias de Chiloé y Palena.
 
-El subsidio total por póliza de seguro o contrato de cobertura no podrá sobrepasar el 70% de la prima neta cobrada en el respectivo instrumento, más el subsidio fijo de UF 1. Lo anterior no obsta a las condiciones especiales que, con relación al Programa Especial de Apoyo a la Contratación del Seguro Agrícola, PACSA, para beneficiarios de Indap, se prevén en el numeral 7 de las presentes Normas Reglamentarias.
+Sin perjuicio de lo anterior, el subsidio total por póliza de seguro o contrato de cobertura no podrá sobrepasar el 98% de la prima neta, incluido el subsidio fijo de UF 1 por póliza o contrato.
 
-d. El monto total del subsidio general que cada beneficiario reciba por la contratación de pólizas de seguro agrícola de cualquier tipo y/o contratos de cobertura de precios y tipo de cambio, no podrá ser superior a UF 80 por póliza o contrato. Excepcionalmente, el monto total del subsidio del Estado para el Seguro Forestal no podrá ser superior a UF 80 por beneficiario por cada temporada agrícola.
+d. El monto total del subsidio general que cada beneficiario reciba por la contratación de pólizas de seguro agrícola de cualquier tipo, y/o contratos de cobertura de precios y tipo de cambio, no podrá ser superior a UF 80 por póliza o contrato. Excepcionalmente, el monto total del subsdio del Estado para el Seguro Forestal no podrá ser superior a UF 80 por beneficiario y por póliza, con máximo de una póliza por cada beneficiario, por temporada agrícola.
+
+El monto total del subsidio general que cada beneficiario reciba por la contratación de pólizas de seguro agrícola de cualquier tipo, y/o contratos de cobertura de precios y tipo de cambio, no podrá ser superior a UF 90 por cada beneficiario o RUT, por cada temporada agrícola.
 
 Para los efectos del presente literal se entiende que una temporada agrícola es el intervalo de tiempo de un año que comienza el 1º de mayo de un año calendario y se extiende hasta el 30 de abril del año siguiente.
 
@@ -182,13 +184,7 @@ Agroseguros, en forma directa o a través de un tercero, podrá efectuar inspecc
 
 La utilización del subsidio general en operaciones no elegibles dará lugar a la aplicación, por parte del Consejo de Agroseguros, de una multa a la Compañía Aseguradora o a la "I.C.C." infractora de hasta (10) diez veces el valor del subsidio incorrectamente pagado. El Acuerdo de Consejo de Agroseguros que aplique la multa será puesto en ejecución por Resolución del Director Ejecutivo del Comité.
 
-### 7. Normas Transitorias
-
-7.1. Adicionalmente a lo contemplado en el numeral 2, letra a y c, hasta el 31 de diciembre 2018, habrá un porcentaje adicional de subsidio para aquellos beneficiarios del Instituto de Desarrollo Agropecuario, Indap, que no cuenten con el Programa Especial de Apoyo a la Contratación del Seguro Agrícola, PACSA, de dicho Instituto.
-
-7.2. Este porcentaje adicional para los beneficiarios de Indap, antes definidos, variará conforme el porcentaje de la Prima Neta subsidiada por los conceptos del numeral 2, letra a y c, alcanzando hasta un 48,93% de la Prima Neta".
-
-- En lo demás se mantiene vigente y sin alteraciones la mencionada resolución (A) Nº 1, de 2016.
+### 7. Eliminado
 
 3° Este Reglamento comenzará a regir a partir de la total tramitación de la presente Resolución y de su publicación en el Diario Oficial.
 
