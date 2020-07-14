@@ -26,20 +26,12 @@ Resolución:
 
 2° Defínanse los siguientes factores o criterios regionales de prelación, de acuerdo a lo dispuesto en el artículo 94, numeral 2, del DS N° 27 (V. y U.), de 2016, y su modificación, para Proyectos de Mejoramiento de Bienes Comunes en Condominios de Vivienda Social, de acuerdo a uno o más factores constructivos, sociales, geográficos, económicos y/o culturales de relevancia, así como aquellos derivados de las orientaciones de la política general, para realizar la habilitación y selección de proyectos, que se detallan en la siguiente tabla:
 
-.
-
 3° Defínanse los siguientes factores o criterios regionales de prelación, de acuerdo a lo dispuesto en el artículo 94, numeral 3, del DS N° 27 (V. y U.), de 2016 y su modificación, para Proyectos de Mejoramiento de Bienes Comunes en Condominios de Vivienda Social, de acuerdo a uno o más factores constructivos, sociales, geográficos, económicos y/o culturales de relevancia, así como aquellos derivados de las orientaciones de la política general, para realizar la habilitación y selección de proyectos, que se detallan en la siguiente tabla:
-
-.
 
 4° Distribúyanse los recursos disponibles en conformidad al resuelvo 10 de la resolución exenta N° 814 (V. y U.), de 2020, para la Región de Ñuble, y con la finalidad de garantizar la completa asignación de los recursos del presente llamado de acuerdo a lo dispuesto en el resuelvo 8 letra b), para Condominios de Viviendas Sociales y Condominios de Viviendas Económicas, según las cantidades señaladas en el cuadro siguiente:
 
-.
-
-5° Establécese que, en el caso de no recibir ingreso de proyectos para Condominios de Viviendas Económicas, los recursos asignados a esa modalidad se redistribuirán y serán traspasados a la selección de proyectos de Condominios de Viviendas Sociales.
+5° Establécese que, en el caso de no recibir ingresos de proyectos para Condominios de Viviendas Sociales o para Condominios de Viviendas Económicas, los recursos asignados en ambas modalidades podrán ser redistribuidos y traspasados ya sea a la selección de proyectos de Condominios de Viviendas Sociales o a la Selección de proyectos de Condominios de Viviendas Económicas, según corresponda.
 
 6° Dispóngase como plazo para la presentación de expedientes, para participar en el proceso de certificación de copropiedad, que podrán ser objeto del llamado dispuesto por resolución exenta N° 814 (V. y U.), de 2020, en conformidad a lo dispuesto en el artículo 89 del DS N° 27 (V. y U.), de 2016, y su modificación, los que deberán ser ingresados en Oficina de Partes de esta Seremi, ubicada en calle Maipón N° 342 interior, comuna de Chillán, el que a continuación se detalla:
-
-.
 
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese oportunamente.- Carlos Urrestarazu Carrión, Secretario Regional Ministerial de Vivienda y Urbanismo Región de Ñuble.
