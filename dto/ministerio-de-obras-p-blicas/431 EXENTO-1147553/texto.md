@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 431, de 12 de junio de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 85-A y 86-A, para la obra: CONSTRUCCION MEJOR. RUTA 201-CH SECTOR: COÑARIPE - PELLAIFA, que figuran a nombre de AGRICOLA LAS VERTIENTES SPA, rol de avalúo 197-1, Comuna de PANGUIPULLI, REGION DE LOS RÍOS, superficies 955 y 252 m2 respectivamente. La Comisión de Peritos integrada por MARLENE TERESA RIOS MARCUELLO, CARMEN PILAR RIOS MARCUELLO y JUAN ANDRES TEPPER LAVANDEROS, mediante informes de tasación de fecha 18 de marzo de 2019, fijó el monto de las indemnizaciones provisionales en las cantidades de $3.762.700.- para el lote Nº85-A, y $791.280.- para el lote Nº86-A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
