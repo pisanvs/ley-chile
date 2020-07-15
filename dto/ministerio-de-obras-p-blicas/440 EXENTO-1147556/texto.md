@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 440, de 22 de junio de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº 206 de 1960, se expropió el lote de terreno Nº 15, para la obra: CONSTRUCCION SEGUNDO ACCESO A SAN JOSE DE LA MARIQUINA, que figura a nombre de VICARIATO APOSTOLICO ARAUCANIA, rol de avalúo 8-3, Comuna de MARIQUINA, REGION DE LOS RÍOS, superficie 9.384 m2. La Comisión de Peritos integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, YASCHALA MARIBEL YAÑEZ RIFFO y MARIA SOLEDAD NUÑEZ ARROYO, mediante informe de tasación de fecha 19 de diciembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $602.193.000.- para el lote Nº15. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
