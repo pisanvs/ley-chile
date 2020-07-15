@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº389, de 27 de mayo de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.105 y 116, para la obra: MEJORAMIENTO Y CONSTRUCCION CAMINO COSTERO NORTE SECTOR BOYERUCA CRUCE RUTA J-60, que figuran a nombre de BELTRAN JOFRE INES y CIA INMOB E INV ROJAS DUQUE Y CIA, roles de avalúo 152-3 y 151-473, Comuna de VICHUQUEN, REGIÓN DEL MAULE, superficies 6.425 y 2.392 m2. respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 08 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $7.997.625, para el lote Nº105 y $2.786.680, para el lote Nº116. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
