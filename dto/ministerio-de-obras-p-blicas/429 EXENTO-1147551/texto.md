@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 429, de 12 de junio de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 28 y 29, para la obra: MEJORAMIENTO RUTA Y-65, PORVENIR - MANANTIALES, ETAPA 1, que figuran a nombre de SUC SANTIAGO SEKULOVIC JURUN, roles de avalúo 640-4, Comuna de PRIMAVERA, REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA, superficies 479 y 151 m2. respectivamente. La Comisión de Peritos integrada por RODRIGO JAIME FERNÁNDEZ DUBROCK, CLAUDIA PATRICIA GALLARDO OJEDA y HUGO JOSÉ MANSILLA CÁRDENAS, mediante informe de tasación de 20 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $718.500, para el lote N° 28 y $226.500, para el lote N° 29. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
