@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº426, de 12 de junio de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 113, para la obra: MEJORAMIENTO RUTA K-275, SECTOR LAS TRANCAS-PARQUE INGLES, que figura a nombre de BUSTAMANTE SAAVEDRA GERMAN, rol de avalúo 27-524, Comuna de RIO CLARO, REGIÓN DEL MAULE, superficie 145 m2. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 21 de noviembre de 2017, fijó el monto de la indemnización provisional en la cantidad de $1.980.450, para el lote Nº113. La indemnización se pagará al contado, La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
