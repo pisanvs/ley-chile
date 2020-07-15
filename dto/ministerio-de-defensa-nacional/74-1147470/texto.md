@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 74, de fecha 25 de febrero de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Astilleros Arica S.A., RUT 94.283.000-9, concesión marítima menor con vencimiento al 31 de diciembre del año 2024, sobre un sector de Terreno de Playa, en el lugar denominado Puerto de Arica, comuna y provincia de Arica, Región de Arica y Parinacota, con una superficie total de 279,01 m2, la que fue tramitada con el SIABC Nº 35.864. A modo referencial se señala(n) la(s) siguiente(s) coordenada(s) geográfica(s): 18º 28' 22,02" - 70º 19' 00,08". El objeto consiste en amparar un estacionamiento para personal de la empresa y áreas verdes. El plazo contemplado para su ejecución es de doce meses, posteriores a su fecha de inicio. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Arica. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Jorge Vergara Moraga, Capitán de Corbeta LTTC.
