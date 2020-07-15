@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 455, de 26 de junio de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP, Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº 206 de 1960, artículo 10 de la Ley Nº 18.772, se expropió para la EMPRESA DE TRANSPORTE DE PASAJEROS METRO S.A. el lote de terreno Nº 27L7, para la obra: PROYECTO LÍNEA 7 METRO S.A., que figura a nombre de INMOBILIARIA E INVERSIONES ESCOC, rol de avalúo 63151-20, Comuna de CERRO NAVIA, REGION METROPOLITANA DE SANTIAGO, superficie 1.190,39 m2. La Comisión de Peritos integrada por RODRIGO ALEXIS ESCOBAR FERNANDEZ, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y ANDRES ANIBAL RISSO CAAMAÑO, mediante informe de tasación de 25 de abril de 2019, fijó el monto de la indemnización provisional en la cantidad de $831.018.740 para el lote Nº 27L7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
