@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº346, de 08 de mayo de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 35 y 41, para la obra: CONSTRUCCIÓN RUTA PRECORDILLERANA, SECTOR RUTA L-11 - RUTA L-535 - PUENTE ACHIBUENO, que figuran a nombre de ANDRADES VILLAGRA BERNARDA DEL C. y PALMA CACERES RODRIGO S, roles de avalúo 552-190 y 567-101, Comuna de LINARES, REGIÓN DEL MAULE, superficies 161 y 1.423 m2. respectivamente. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y RODRIGO ALEXIS ESCOBAR FERNANDEZ, mediante informe de tasación de 21 de octubre de 2019, fijó el monto de la indemnización provisional en la cantidad de $37.199.650, para el lote Nº35 y $189.303.950, para el lote Nº41. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
