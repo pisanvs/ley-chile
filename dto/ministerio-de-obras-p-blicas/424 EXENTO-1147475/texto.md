@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto (Exento) MOP Nº 424 de 12 de junio de 2020, se modificó el Decreto (Exento) MOP Nº 1727 de 21 de noviembre de 2018, respecto del lote de terreno Nº 340, para la obra MEJORAMIENTO RUTA K-705, SECTOR CR. RUTA K-715 - VILCHES ALTO, TRAMO KM. 11,70000 a KM. 27,23000, Región del Maule, como a continuación se indica: 1.-Se aprobó la modificación efectuada al plano y cuadro de expropiación elaborados por la Dirección de Vialidad del lote Nº 340; 2.-Se modificó el numeral segundo del Decreto (Exento) MOP Nº 1727 de 21 de noviembre de 2018, respecto del propietario del lote Nº 340 y el rol de avalúo, a ARAVENA CASTRO Y OTROS, rol de avalúo 230-71, comuna de San Clemente; 3.-Se complementó el Informe de Tasación de fecha 25 de mayo de 2016 con acta de fecha 10 de julio de 2019 del Jefe Unidad de Expropiaciones Dirección de Vialidad Región del Maule. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
