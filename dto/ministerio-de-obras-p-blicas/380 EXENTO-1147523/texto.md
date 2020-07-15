@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°380, de 27 de mayo de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.51 y 52, para la obra: AMPLIACIÓN RUTA H-27 CARRETERA EL COBRE, que figuran a nombre de AGRÍCOLA EL CAPITÁN LIMITADA y AGRÍCOLA CARIPOCO LTDA, roles de avalúo 104-279 y 104-202, Comuna de MACHALÍ, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficies 3.290 y 2.059 m2 respectivamente. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMAN THEODULOZ, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y PATRICIA VERONICA ZAVALA CONTRERAS, mediante informe de tasación de 06 de mayo de 2019, fijó el monto de la indemnización provisional en la cantidad de $248.108.000, para el lote N°51 y $148.795.000, para el lote N°52. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
