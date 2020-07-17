@@ -36,7 +36,7 @@ b) Diálogos Participativos Ciudadanos: Entendidas como instancias de encuentro 
 
 #### Artículo 3º
 
-Las Consultas se realizarán de manera informada, pluralista y representativa. Las opiniones recogidas serán evaluadas y ponderadas, informándose, de manera general o especifica respecto de los motivos que explican la consideración o rechazo.
+Las Consultas se realizarán de manera informada, pluralista y representativa. Las opiniones recogidas serán publicadas de manera íntegra en el portal de la Subsecretaría y evaluadas y ponderadas por la Subsecretaría en su conjunto y con los demás antecedentes tenidos a la vista, pero no serán vinculantes.
 
 #### Artículo 4º
 
@@ -56,19 +56,23 @@ El mecanismo que se utilizará para invitar a las personas a participar de la pr
 
 #### Artículo 7º
 
-En dicha Ventanilla los ciudadanos podrán encontrar:
+En dicha Ventanilla se podrán encontrar, de acuerdo a la metodología de cada consulta en particular, los antecedentes de contexto de la misma, que podrán consistir en alguno o varios de los siguientes:
 
-a) Documento de Propuesta de la autoridad;
+a) Borrador normativo o documento de propuesta de la autoridad, en su caso.
 
-b) Un Resumen del tema de interés ciudadano;
+b) Resumen del tema de interés.
 
-c) Las razones del por qué el tema es puesto a discusión;
+c) Las razones del por qué el tema es puesto a discusión.
 
-d) Un espacio para poder opinar, proponer y preguntar sobre el tema en discusión.
+d) Consultas generales y/o específicas sobre las que se considere relevante obtener la opinión de los participantes.
+
+e) Cualquier otro que se estime pertinente para el objetivo de la consulta.
+
+En la Ventanilla, también de acuerdo a la metodología de cada consulta en particular, se contendrá uno o varios espacios para poder opinar, proponer y efectuar sugerencias sobre el tema en discusión, pudiendo efectuarse indicaciones de cara a la adecuada formulación de las mismas.
 
 #### Artículo 8º
 
-Todos los interesados podrán participar en la Consulta, sean personas jurídicas o naturales, debiendo inscribirse para dar su opinión en el banner que se dispondrá para tal efecto en el sitio web de la Subsecretaría, a contar de la fecha de publicación de la convocatoria a Consulta en el Diario Oficial y durante 10 días hábiles. El sistema tratará los datos de manera confidencial.
+Todos los interesados podrán participar en la Consulta, sean personas jurídicas o naturales, directamente en la Ventanilla de Opinión dispuesta para dichos fines, a contar de la fecha que al efecto disponga la resolución que convoque la Consulta, que se publicará en la página web de Subtel, y hasta la fecha dispuesta para el cierre de la misma.
 
 #### Artículo 9º
 
@@ -76,15 +80,15 @@ Todas las opiniones serán públicas en su integridad y cualquier solicitud de r
 
 #### Artículo 10º
 
-El anuncio de la apertura de la ventanilla de opinión se hará a los menos con 7 días de anticipación en el mismo sitio web.
+La resolución que convoque la consulta establecerá la duración de la misma y el momento a partir del cual estará abierta la Ventanilla de Opinión.
 
 #### Artículo 11º
 
-El plazo en que la Ventanilla se mantendrá abierta será de 30 días corridos, plazo en el cual los interesados podrán hacer sus presentaciones.
+El plazo en que la Ventanilla se mantendrá abierta será de 30 días corridos, plazo en el cual los interesados podrán hacer sus presentaciones. Sin embargo, para casos justificados, en los que la urgencia de la materia o la naturaleza de la consulta lo ameriten, se podrá mantener abierta la Ventanilla por un plazo inferior o superior, según se indique en la resolución que convoque la consulta.
 
 #### Artículo 12º
 
-Una vez finalizado el plazo de apertura de la Ventanilla, la Subsecretaría procederá a la ponderación, evaluación y análisis de estas para elaborar las respectivas respuestas, las que podrán informarse de manera general o específica, según se estime pertinente, respecto de los motivos que explican la consideración de la misma.
+Derogado.
 
 Anótese, comuníquese y publíquese.- Jorge Atton Palma, Subsecretario de Telecomunicaciones.
 
