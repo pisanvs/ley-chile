@@ -1,4 +1,4 @@
-AUTORIZA INCORPORACIÓN DE ESPECIES Y MODIFICA CONCESIÓN DE ACUICULTURA
+OTORGA CONCESIÓN DE ACUICULTURA
 
 1.- Resolución N° 3.000, del 9 de diciembre de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Acuícola Cordillera Limitada, sociedad chilena, RUT N° 76.787.060-4, con domicilio en calle Decher 161, Puerto Varas, concesión de acuicultura de porción de agua y fondo de mar, solicitud 207121252, del 7 de noviembre de 2007, ubicada en Sur Estero Córdova, Isla Desolación, comuna de Punta Arenas, provincia de Magallanes, Región de Magallanes y la Antártica Chilena, individualizada en la ubicación señalada en los Planos 97-2019-AC y 98-2019-AC, visados por la Autoridad Marítima de Punta Arenas.
 
