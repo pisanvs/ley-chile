@@ -178,6 +178,12 @@ Otórgase a las Secretarías Regionales Ministeriales de Salud del país, facult
 
 29. Administrar las relaciones contractuales con los establecimientos que presten servicios como residencias sanitarias, obrando como contraparte técnica, jurídica y económica de los derechos y obligaciones que deriven de éstas, incluidos aquellos que ya hubieren iniciado su ejecución. Para ello, dictará una resolución exenta en la cual da cuenta de que asume la administración de dichos contratos en los términos señalados.
 
+30. Transferir a las entidades administradoras de establecimientos de atención primaria de salud, los recursos necesarios para que estos efectúen la trazabilidad de las personas contagiadas con Covid-19 y sus contactos. La transferencia se realizará mediante acto administrativo de la Subsecretaría de Salud Pública, a través de la Secretaría Regional Ministerial del territorio que corresponda, y contendrá las condiciones, obligaciones y demás se deban cumplir para la correcta ejecución y rendición de los recursos transferidos.
+
+31. Disponer la contratación de estudiantes que estén cursando sexto año en adelante de la carrera de Medicina impartida por las Universidades reconocidas oficialmente en Chile, y de estudiantes que estén cursando el séptimo semestre en adelante de las carreras de Enfermería, Obstetricia y Puericultura, Tecnología Médica, Kinesiología y Sicología, impartidas por las Universidades reconocidas oficialmente en Chile.
+
+32. Autorizar la contratación y ejercicio de médicos titulados en el extranjero cuyo título no esté revalidado o habilitado en Chile.
+
 #### Artículo 4º
 
 Otórgase a los Servicios de Salud del país, facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
@@ -211,6 +217,10 @@ Otórgase a los Servicios de Salud del país, facultades extraordinarias para di
 14. Autorizar la contratación y ejercicio de médicos titulados en el extranjero cuyo título no esté revalidado o habilitado en Chile.
 
 15. Dar en arrendamiento, a prestadores privados, dispositivos médicos, sin más trámite que el acto administrativo por el cual se autoriza dicho arrendamiento.
+
+16. Podrán autorizar a quienes se hayan acogido al beneficio del artículo 44 de la ley Nº 15.076, a desempeñarse en servicios de guardia nocturna y en días domingo y festivos, previo consentimiento de los profesionales funcionarios respectivos.
+
+17. Podrán destinar la totalidad de las 22 horas semanales referidas en el artículo 3º del decreto 2.207 de 1993, del Ministerio de Salud, a trabajos asistenciales.
 
 #### Artículo 5º
 
