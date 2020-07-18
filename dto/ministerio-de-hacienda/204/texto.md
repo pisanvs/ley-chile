@@ -318,7 +318,23 @@ u) Bonos emitidos en virtud de la letra
 
 - **i)** del artículo 3º del mismo decreto;
 
-v) Bonos emitidos en virtud del artículo 1º del decreto supremo Nº 1.287, de 2016, del Ministerio de Hacienda, con fecha 1 de septiembre de 2016 y con vencimiento el 28 de febrero de 2021, de conformidad con las letras f) e i) del artículo 6º del mismo decreto; y
+v) Bonos emitidos en virtud del artículo 1º del decreto supremo Nº 1.287, de 2016, del Ministerio de Hacienda, con fecha 1 de septiembre de 2016 y con vencimiento el 28 de febrero de 2021, de conformidad con las letras f) e i) del artículo 6º del mismo decreto;
+
+w) Bonos 8emitidos en virtud de la letra
+
+- **a)** del artículo 1° del decreto supremo Nº 452, de 2018, del Ministerio de Hacienda, con fecha 1 de marzo de 2018 y con vencimiento el 1 de marzo de 2023, de conformidad con las letras
+
+- **f)** e
+
+- **i)** del artículo 4° del mismo decreto; y,
+
+x) Bonos emitidos en virtud de la letra
+
+- **e)** del artículo 1° del decreto supremo Nº 452, de 2018, del Ministerio de Hacienda, con fecha 1 de marzo de 2018 y con vencimiento el 1 de marzo de 2023, de conformidad con las letras
+
+- **f)** e
+
+- **i)** del artículo 4° del mismo decreto.
 
 En uso de la facultad establecida en el inciso primero del artículo 1º del presente decreto, cualquiera de las autoridades antes mencionadas podrá celebrar, otorgar, ejecutar o suscribir todos los actos y contratos que sean necesarios para proceder a 1a emisión, registro, colocación, enajenación, pago anticipado y depósito de bonos, así como para establecer cualquier otro aspecto requerido para llevar a cabo las operaciones de endeudamiento y Pago Anticipado que se autorizan, incluyendo el pago de los gastos operativos en que se incurra, tales como: contratos de colocación, por el cual las instituciones financieras se obligarán a colocar los Bonos y, eventualmente, adquirirlos; contratos de agencia fiscal o sus modificaciones (fiscal agency agreement) o contratos de emisión similar (indenture) y otros contratos de agencia que, entre otros, regularán estas operaciones, solicitudes de registro ante organismos administrativos y/o bolsas de valores, que incluyan la emisión y colocaciones de los Bonos.
 
