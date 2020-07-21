@@ -430,7 +430,7 @@ Oenothera biennis
 
 Oenothera missouriensis
 
-Oenothera pallisa
+Oenothera pallida
 
 Oenothera speciosa Onagraceae
 
@@ -1093,5 +1093,7 @@ de Fosfina o
 Fosfuro de
 
 Hidrogeno) 4 Mayor a 26.
+
+> **Nota.** El numeral 1.2 del numero 1° de la Resolución 4595 Exenta, Agricultura, publicada el 27.07.2020, modifica la presente norma en el sentido de agregar al resuelvo Nº 1, de acuerdo al orden alfabético que corresponda, las especies de semillas ornamentales provenientes de cualquier origen, sin declaraciones adicionales que la citada norma indica.
 
 Anótese, comuníquese y publíquese.- Oscar Enrique Concha Díaz, Director Nacional (S).

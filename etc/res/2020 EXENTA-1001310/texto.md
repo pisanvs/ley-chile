@@ -24,8 +24,6 @@ Aster novae-angliae Asteraceae
 
 Baileya multiradiata Asteraceae
 
-Banksia spp. Protaceae
-
 Beaucarnea recurvata Liliaceae
 
 Centaurea moschata (Sin.:
