@@ -3564,6 +3564,8 @@ Si los hechos a que se refieren los artículos anteriores de este párrafo se ej
 
 Asimismo, si los hechos a que se refieren los artículos anteriores de este párrafo se ejecutan en contra de un menor de dieciocho años de edad, adulto mayor o persona en situación de discapacidad, por quienes tengan encomendado su cuidado, la pena señalada para el delito se aumentará en un grado.
 
+De la misma forma, si los hechos a que se refieren el numeral 2° del artículo 397 y el artículo 399 se ejecutaren en contra de miembros de los Cuerpos de Bomberos en ejercicio de sus funciones, la pena señalada para el delito se aumentará en un grado.
+
 #### Artículo 401
 
 Las lesiones menos graves inferidas a guardadores, sacerdotes o personas constituidas en dignidad o autoridad pública, serán castigadas siempre con presidio o relegación menores en sus grados mínimos a medios.
