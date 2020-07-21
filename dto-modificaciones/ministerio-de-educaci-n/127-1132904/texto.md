@@ -240,7 +240,7 @@ a) Elemento mixto: Para determinar el monto a recibir por cada universidad por e
 
 1.- Aporte Artículo 3° DFL (Ed.) N° 4, de 1981 (AFI), 2016: Para cada universidad se considerará el mismo monto que les haya sido asignado por concepto de AFI 2016, de acuerdo al decreto N° 5, de 2016, del Ministerio de Educación, y sus modificaciones, reajustado en un 3%.
 
-2.- Plan de mejoramiento para el fortalecimiento de las Pedagogías: El monto total a distribuir por el presente numeral será de M$7.200.000, el cual será asignado de acuerdo con los parámetros descritos a continuación:
+2.- Plan de mejoramiento para el fortalecimiento de las Pedagogías: El monto total a distribuir por el presente numeral será de M$4.000.000, el cual será asignado de acuerdo con los parámetros descritos a continuación:
 
 1. Universidades con Oferta de Pregrado de Pedagogías:
 
@@ -478,7 +478,7 @@ f.4.- El monto correspondiente a cada universidad beneficiaria se obtendrá medi
 
 El monto total que a cada universidad beneficiaria le corresponderá por concepto de "Complejidad institucional", se determinará mediante la suma de los montos obtenidos por ésta en los literales a, b, c, d, e y f del presente numeral.
 
-4.- Aporte para universidades que hayan suscrito convenios de colaboración académica - administrativo para planes de nivelación y reubicación de instituciones en cierre: a las universidades que en virtud del convenio de colaboración respectivo, suscrito en el año anterior al cálculo, se hagan cargo de los estudiantes de instituciones en cierre, respetando sus mallas curriculares y avance académico, y titulándolos por la institución en cierre, se les asignarán M$100.000 por cada institución en cierre.
+4.- Universidades tutoras de nuevos centros de formación técnica estatales, creados por la ley Nº 20.910, con oferta académica en el año del presente cálculo: A las universidades que hayan sido designadas, mediante el acto administrativo correspondiente, como tutoras de un centro de formación técnica estatal creado a través de la ley Nº 20.910, se le asignarán M$ 50.000 por cada institución tutelada, que tenga oferta académica en el año del presente cálculo.
 
 b) Elemento de desempeño: El monto a distribuir por el presente elemento se determinará mediante la diferencia entre los siguientes numerales:
 
