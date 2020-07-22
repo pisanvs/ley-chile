@@ -246,35 +246,37 @@ Este tercer informe técnico será revisado por la Unidad de Reingreso y Reinser
 
 Todos los Informes Técnicos y de Rendición de Cuentas deberán ser entregados en las fechas establecidas y de acuerdo con los formatos enviados.
 
-10.4. Informe de seguimiento del proceso de reinserción y la trayectoria educativa de los participantes
+De las nóminas de seguimiento del proceso de reinserción y la trayectoria educativa de los participantes y su contenido
 
-Cada institución deberá enviar una nómina inicial con caracterización de los/las participantes durante el primer mes de ejecución del proyecto, la que deberá ser consistente con la cantidad de participantes comprometidos en el proyecto (cobertura) y los criterios establecidos en las Bases Técnicas.
+Sin perjuicio de los informes descritos anteriormente, cada institución deberá enviar una nómina inicial con la caracterización de los/las participantes durante los cuatro primeros meses de ejecución del proyecto, la que deberá ser consistente con la cantidad de participantes comprometidos en el proyecto (cobertura) y los criterios establecidos en las Bases Técnicas.
 
-En esta nómina puede existir una diferencia negativa máximo de un 20% de los participantes comprometidos (cobertura), nómina que deberá ser completada dentro de los 4 meses de ejecución del proyecto e informados en el "primer informe de seguimiento del proceso de reinserción y la trayectoria educativa de los participantes".
+En esta nómina inicial puede existir una diferencia negativa máxima de un 50% de los participantes comprometidos (cobertura), nómina que deberá ser completada dentro de los primeros 5 meses de ejecución del proyecto e informados en la "primera nómina de seguimiento del proceso de reinserción y la trayectoria educativa de los participantes".
 
-Tres meses después de entregada la nómina inicial las instituciones deberán enviar el Primer Informe de Seguimiento del Proceso de Reinserción-Reingreso y la Trayectoria Escolar de las y los participantes, y así sucesivamente.
+Cuatro meses después de entregada la nómina inicial las instituciones deberán enviar la Primera Nómina de Seguimiento del Proceso de Reinserción-Reingreso y la Trayectoria Escolar de las y los participantes, y así cada tres meses.
 
-Este informe indica los avances y dificultades en el cumplimiento de las metas establecidas para cada participante y los ajustes respecto al plan de continuidad de estudios, si los hubiera.
+Esta nómina indica los avances y dificultades en el cumplimiento de las metas establecidas para cada participante y los ajustes respecto al plan de continuidad de estudios, si los hubiera.
 
-Se permitirá rectificar la nómina de participantes sólo una vez por semestre, lo que deberá ser consignado en el último informe de seguimiento que corresponde a cada semestre y justificando las causas de quienes no continúen en el proyecto.
+Se permitirá rectificar la nómina de participantes sólo una vez por semestre, lo que deberá ser consignado en la última nómina de seguimiento que corresponde a cada semestre y justificando las causas de quienes no continúen en el proyecto.
 
 Respecto al ajuste de nóminas se deberán considerar los siguientes criterios:
 
 a) Proyectos de Reinserción:
 
-I. En el caso de participantes que se matriculan en un establecimiento educacional, la institución ejecutora deberá mantener un seguimiento de al menos 3 meses. Durante este período los/las participantes aún se considerarán incorporados en el proyecto.
+I. En el caso de participantes que se matriculan en un establecimiento educacional, la institución ejecutora deberá mantener un seguimiento de al menos 3 meses. Durante este periodo los/las participantes aún se considerarán incorporados en el proyecto.
 
-II. En el caso de participantes que abandonan el proceso de reinserción, el porcentaje no podrá ser mayor al 20% de los participantes en cada semestre. Porcentajes mayores deberán ser justificados y aprobados por la División de Educación General del Mineduc, a través de la Unidad de Reingreso y Reinserción de Mineduc.
+II. En el caso de participantes que abandonan el proceso de reinserción, el porcentaje no podrá ser mayor al 50% de los participantes en cada semestre. Porcentajes mayores deberán ser justificados y aprobados por la División de Educación General del Mineduc, a través de la Unidad de Reingreso y Reinserción de Mineduc.
 
-### III. Los/las participantes que dejan los proyectos antes del mes 12 de ejecución, inclusive, deberán ser reemplazados
+### III. Los/Las participantes que dejan los proyectos antes del mes 12 de ejecución, inclusive, deberán ser reemplazados
 
 b) Aulas de Reingreso:
 
-I. Las nóminas iniciales pueden incluir hasta un 20% de participantes no matriculados en el Establecimiento Educacional, respecto de los cuales deberá establecerse un plan para su incorporación a éste.
+I. Las nóminas iniciales pueden incluir hasta un 50% de participantes no matriculados en el Establecimiento Educacional, respecto de los cuales deberá establecerse un plan para su incorporación a éste.
 
-II. En el caso de participantes que abandonan el proceso de Reingreso, el porcentaje no podrá ser mayor al 20% de los participantes en cada semestre. Porcentajes mayores deberán ser justificados y aprobados por la División de Educación General del Mineduc, a través de la Unidad de Reingreso y Reinserción de Mineduc.
+II. En el caso de participantes que abandonan el proceso de Reingreso, el porcentaje no podrá ser mayor al 50% de los participantes en cada semestre. Porcentajes mayores deberán ser justificados y aprobados por la División de Educación General del Mineduc, a través de la Unidad de Reingreso y Reinserción de Mineduc.
 
-### III. Los/las participantes que dejan los proyectos antes del mes 12 de ejecución, inclusive, deberán ser reemplazados
+### III. Los/Las participantes que dejan los proyectos antes del mes 12 de ejecución, inclusive, deberán ser reemplazados
+
+10.4. Eliminado.
 
 11. RENDICIÓN DE CUENTAS
 
