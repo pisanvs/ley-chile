@@ -460,8 +460,6 @@ Llamados en Condiciones Especiales
 
 Sin perjuicio de lo señalado en el artículo anterior, el Ministro de Vivienda y Urbanismo podrá efectuar o autorizar a la SEREMI, mediante resoluciones fundadas, la realización de llamados a procesos de selección en condiciones especiales. Dichas resoluciones establecerán cuáles de los requisitos, impedimentos, condiciones y exigencias señaladas en este reglamento serán obligatorias de satisfacer para participar en dicho proceso y/o cuales requisitos, impedimentos, condiciones y exigencias podrán ser eximidas, liberadas, condicionadas o modificadas.
 
-Sin perjuicio de lo señalado en el inciso anterior, el Minvu o el Seremi, previa autorización escrita del Ministro de Vivienda y Urbanismo, podrán efectuar mediante resoluciones fundadas llamados a procesos de selección en condiciones especiales en la alternativa individual, para seleccionar familias que pertenezcan hasta el 50% más vulnerable de la población nacional de conformidad con la información que se obtenga por aplicación del Instrumento de Caracterización Socioeconómica a que se refiere el artículo 5° de la Ley N°20.379, para los efectos de incorporarse solo a proyectos seleccionados mediante el DS N° 19 (V. y U.), de 2016. Dichas resoluciones establecerán los montos de ahorro y subsidios así como los precios máximos de vivienda, conforme a lo señalado en el artículo 3° letra a) del DS N° 19 (V. y U.), de 2016 y los requisitos, impedimentos, condiciones y exigencias señaladas en el presente Reglamento que serán obligatorias de satisfacer para participar en dicho proceso y/o cuáles requisitos, impedimentos, condiciones y exigencias podrán ser eximidas, liberadas, condicionadas o modificadas.
-
 #### Artículo 22
 
 De los Puntajes

@@ -30,9 +30,11 @@ El Ministerio de Vivienda y Urbanismo (Minvu) otorgará un subsidio habitacional
 
 Las familias beneficiarias de este Programa podrán aplicar el subsidio habitacional regulado por el presente Reglamento a la adquisición de viviendas de proyectos seleccionados conforme a lo establecido en este decreto.
 
-Este Programa se aplicará a viviendas de proyectos sin inicio de obras, localizados en terrenos privados o en terrenos de propiedad municipal. No obstante, el Ministro de Vivienda y Urbanismo, a solicitud del Secretario Regional Ministerial de Vivienda y Urbanismo, en adelante también el Seremi, podrá autorizar mediante resoluciones fundadas, la aplicación de este Programa en terrenos de propiedad del Servicio de Vivienda y Urbanización, en adelante Serviu, los que deberán cumplir con todos los requisitos y condiciones establecidos en el presente Reglamento y además, con aquellos que se definan mediante resolución del Seremi, en que se fijarán las condiciones y características para la presentación de los proyectos y la obligación del Serviu para transferir el terreno a la entidad desarrolladora cuyo proyecto resulte seleccionado, mediante una carta compromiso suscrita al efecto.
+Este Programa se aplicará a viviendas de proyectos sin inicio de obras, localizados en terrenos privados o en terrenos de propiedad municipal. No obstante, el Ministro de Vivienda y Urbanismo, a solicitud del Secretario Regional Ministerial de Vivienda y Urbanismo, en adelante también el Seremi, podrá autorizar mediante resoluciones fundadas, la aplicación de este Programa en terrenos de propiedad del Servicio de Vivienda y Urbanización, en adelante Serviu, los que deberán cumplir con todos los requisitos y condiciones establecidos en el presente Reglamento y además, con aquellos que se definan mediante resolución del Seremi, en que se fijarán las condiciones y características para la presentación de los proyectos, la incorporación de familia y la obligación del Serviu para transferir el terreno a la entidad desarrolladora cuyo proyecto resulte seleccionado, mediante una carta compromiso suscrita al efecto.
 
-Mediante resolución del Ministro de Vivienda y Urbanismo, se efectuarán los llamados a presentación de proyectos habitacionales regulados por este decreto, en que se establecerá, entre otros, el número de subsidios destinados a los proyectos, su forma de distribución regional, las fechas de presentación y cierre del llamado, las condiciones de aplicación del subsidio y todas aquellas operaciones o actos que incidan en la aplicación práctica de este Reglamento.
+Mediante resolución del Ministro de Vivienda y Urbanismo, se efectuarán los llamados a presentación de proyectos habitacionales regulados por este decreto, en que se establecerá, entre otros, el número de subsidios destinados a los proyectos, su forma de distribución regional y/o provincial y/o comunal, las fechas de presentación y cierre del llamado, las condiciones de aplicación del subsidio y todas aquellas operaciones o actos que incidan en la aplicación práctica de este Reglamento. Adicionalmente, mediante circulares del Subsecretario de Vivienda y Urbanismo podrán impartirse instrucciones a los Serviu para la aplicación y/o aclaración de las disposiciones del presente Reglamento.
+
+El Ministro de Vivienda y Urbanismo podrá autorizar, mediante resoluciones fundadas, la realización de llamados a postulación en condiciones especiales. En esta resolución se establecerán los requisitos, condiciones y exigencias señalados en este Reglamento que serán obligatorios para participar en dicho llamado y/o los requisitos, condiciones, exigencias e impedimentos que podrán ser eximidos, modificados o liberados. Los recursos que se destinen a los llamados especiales a que se refiere este inciso no podrán exceder del 50% del respectivo programa anual.
 
 Extraordinariamente, previa solicitud escrita del Seremi, el Ministro de Vivienda y Urbanismo podrá autorizar la realización de llamados a ser aplicados en la Región respectiva, o en provincias o comunas de esa Región.
 
@@ -42,15 +44,17 @@ Definiciones.
 
 Para los efectos de este Reglamento, se entenderá por:
 
-a) Comisión Evaluadora: La encargada de evaluar los proyectos habitacionales que se presenten en el marco del presente Reglamento, la que estará integrada por hasta tres funcionarios del Serviu, dos funcionarios de la Secretaría Regional Ministerial de Vivienda y Urbanismo, en adelante la Seremi, y hasta dos funcionarios del Minvu. La designación de los integrantes de la comisión evaluadora se realizará mediante resolución del Director Serviu, del Seremi o del Subsecretario de Vivienda y Urbanismo, según corresponda. La comisión evaluadora verificará que los proyectos cumplan con todos los requisitos y antecedentes indicados en el Párrafo III del presente Reglamento.
+a) Comisión Evaluadora: La encargada de evaluar los proyectos habitacionales que se presenten en el marco del presente Reglamento, la que estará integrada por hasta dos funcionarios del Serviu, hasta dos funcionarios de la Secretaría Regional Ministerial de Vivienda y Urbanismo, en adelante la Seremi, y hasta dos funcionarios del Minvu. La designación de los integrantes de la comisión evaluadora se realizará mediante resolución del Director Serviu, del Seremi o del Subsecretario de Vivienda y Urbanismo, según corresponda. La comisión evaluadora verificará que los proyectos cumplan con todos los requisitos y antecedentes indicados en el Párrafo III del presente Reglamento.
 
 b) Entidad Desarrolladora: Corresponderá a personas naturales o a personas jurídicas, tales como empresas constructoras, inmobiliarias, cooperativas abiertas de vivienda, corporaciones y fundaciones, que presenten proyectos habitacionales a este Programa para su desarrollo y/o ejecución.
 
-c) Familias Vulnerables: Las que sean beneficiarias de un subsidio del Programa Fondo Solidario de Vivienda en modalidad Adquisición de Viviendas Existentes, regulado por el Título XV del Capítulo Primero del DS N°174 (V. y U.), de 2005; del Fondo Solidario de Elección de Vivienda, regulado por el DS N°49 (V. y U.), de 2011; del Programa de Segunda Oportunidad, regulado por la resoluciones exentas N° 262 y N° 8.761 (V. y U.), ambas de 2013; del Título I, Tramo 1, del Sistema Integrado de Subsidio Habitacional, regulado por el DS N°1 (V. y U.), de 2011, o los beneficiarios de subsidios de llamados efectuados a partir del año 2014, en cualquiera de dichos Programas Habitacionales, destinados a la atención de damnificados como consecuencia de sismos o catástrofes, en zonas que el Ministerio del Interior ha declarado como afectadas por tales catástrofes conforme a la ley N° 16.282, cuyo texto refundido fue fijado por el DS N° 104 de Interior de 1997; o las familias que resulten seleccionadas en llamados especiales regulados por reglamentos de programas de subsidio habitacional vigentes, que pertenezcan hasta el 50% más vulnerable de la población nacional de conformidad con la información que se obtenga por aplicación del Instrumento de Caracterización Socioeconómica a que se refiere el artículo 5° de la ley N°20.379.
+c) Familias Vulnerables: Las que sean beneficiarias de un subsidio del Programa Fondo Solidario de Elección de Vivienda, regulado por el DS N°49 (V. y U.), de 2011; del Título I tramo 1 del Sistema Integrado de Subsidio Habitacional, regulado por el DS N°1 (V. y U.), de 2011; del Programa de Regeneración de Conjuntos Habitacionales de Viviendas Sociales, regulado por el DS N° 18 (V y U.), de 2017, o del Programa de Segunda Oportunidad, regulado por las resoluciones exentas N°262 y N°8.761 (V. y U.), ambas de 2013; los beneficiarios de subsidios de llamados efectuados a partir del año 2014, en cualquiera de dichos Programas Habitacionales, destinados a la atención de damnificados como consecuencia de sismos o catástrofes, en zonas que el Ministerio del Interior haya declarado como afectadas por catástrofe conforme al DS N° 104 (Interior), de 1977, que fija el texto refundido, coordinado y sistematizado del Título I de la ley N° 16.282, o las familias hábiles no seleccionadas, que se incorporen a los proyectos según lo señalado en el Artículo 19° del presente Reglamento, que pertenezcan hasta el 50% más vulnerable de la población nacional, en base a la información que se obtenga por aplicación del Instrumento de Caracterización Socioeconómica a que se refiere el artículo 5° de la ley N°20.379.
 
 d) Familias de Sectores Medios: Las que corresponden a familias de más del 50% hasta el 90% más vulnerable de la población nacional de conformidad a la información que se obtenga por la aplicación del instrumento de caracterización socioeconómica, que postulen a este Programa o que sean beneficiarios de un subsidio del Sistema Integrado de Subsidio Habitacional, del Título I, Tramo 2, o del Título II, regulados por el DS N°1 (V. y U.), de 2011. También se entenderán como familias de sectores medios aquellas de hasta el 50% más vulnerable de la población nacional según el instrumento de caracterización socioeconómica, que opten por adquirir una vivienda destinada a familias de sectores medios, debiendo cumplir con las condiciones y requisitos exigidos para estas familias.
 
-e) Subsidio habitacional o subsidio: Es una ayuda estatal directa, que se otorga por una sola vez al beneficiario, sin cargo de restitución por parte de éste, y que constituye un complemento del ahorro que necesariamente deberá tener el beneficiario para financiar la adquisición de una vivienda económica, el que se complementará con los bonos establecidos en el presente Reglamento.
+e) Proyectos de Integración Social y Territorial: Proyectos habitacionales que cumplen con los requisitos y condiciones del presente Reglamento y que han sido aprobados en alguno de los llamados regulados por este Programa.
+
+f) Subsidio habitacional o subsidio: Es una ayuda estatal directa, que se otorga por una sola vez al beneficiario, sin cargo de restitución por parte de éste, y que constituye un complemento del ahorro que necesariamente deberá tener el beneficiario para financiar la adquisición de una vivienda económica, el que se complementará con los bonos establecidos en el presente Reglamento.
 
 ### Párrafo II — Del Monto del Subsidio y de los Bonos.
 
@@ -60,21 +64,49 @@ Precio de la Vivienda, Montos de Subsidio Habitacional y Ahorro Mínimo.
 
 El monto de este subsidio será el señalado en las tablas siguientes, expresado en Unidades de Fomento, según el tipo de familia de que se trate y la comuna o localidad de emplazamiento del respectivo proyecto habitacional, el que se complementará, cuando corresponda, con los bonos a que se refieren los artículos 4° y 5° de este Reglamento.
 
-a) Para las familias vulnerables, los montos de subsidio y el ahorro mínimo, expresado en UF, exigido para postular, en los llamados a que se refiere el artículo 17 del presente decreto, serán los siguientes:
+a) Montos de subsidio y ahorro mínimo para familias vulnerables.
 
-Estos montos de subsidio se calcularán con dos decimales.
-
-En el caso de familias vulnerables que sean asignatarias de un subsidio habitacional sin aplicar, éste se homologará al subsidio habitacional señalado en la tabla precedente, no siendo necesario que enteren el monto del ahorro mínimo indicado en dicha tabla.
-
-b) Para las familias de sectores medios los montos de subsidio y el ahorro mínimo exigido para postular, según el precio máximo de vivienda, expresados todos en UF, serán los siguientes:
+Para las familias vulnerables, los montos de subsidio y el ahorro mínimo, expresado en UF, exigido para participar a través de la modalidad prevista en el artículo 19° del presente decreto, serán los siguientes:
 
 .
 
-(*) En que "P" corresponde al precio de la vivienda. Los montos de subsidio se calcularán con dos decimales.
+Estos montos de subsidio se calcularán con dos decimales.
+
+En el caso de familias vulnerables que sean asignatarias de un subsidio habitacional sin aplicar, éste se homologará al subsidio habitacional señalado en la tabla precedente. El ahorro exigido corresponderá al acreditado al momento de la postulación al llamado mediante el cual obtuvo el beneficio.
+
+En el caso de familias vulnerables que resulten beneficiadas de acuerdo al procedimiento establecido en el artículo 19°, el ahorro exigido corresponderá al acreditado en su postulación al último llamado realizado en el Programa respectivo.
+
+b) Montos de subsidio y ahorro mínimo para familias de sectores medios.
+
+Para las familias de sectores medios los montos de subsidio y el ahorro mínimo exigido para postular, según el precio máximo de vivienda, expresados todos en UF, serán los siguientes:
+
+.
+
+Las familias de sectores medios requerirán un ahorro mínimo de 50 U.F. para adquirir una vivienda de hasta 1.400 U.F., en el caso de viviendas emplazadas en las zonas definidas en la letra
+
+- **a)** de la tabla inserta en la letra
+
+- **b)** del artículo 3° o de hasta las 1.500 UF para viviendas emplazadas en las zonas definidas en las letras b),
+
+- **c)** y
+
+- **d)** de la tabla inserta en la letra
+
+- **b)** del artículo 3°. El ahorro mínimo requerido para adquirir una vivienda de más de 1.400 U.F., en el caso de viviendas emplazadas en las zonas definidas en la letra
+
+- **a)** de la tabla inserta en la letra
+
+- **b)** del artículo 3° o de más de 1.500 U.F. para viviendas emplazadas en las zonas definidas en las letras b),
+
+- **c)** y
+
+- **d)** de la tabla inserta en la letra
+
+- **b)** del artículo 3°, será de 100 U.F.
 
 En el caso de familias de sectores medios que hayan sido asignatarias de un subsidio habitacional sin aplicar, éste se homologará al subsidio habitacional señalado en la tabla precedente, pudiendo aplicarlo a viviendas de hasta el valor máximo indicado en ella, no siendo necesario que enteren el monto del ahorro mínimo indicado en dicha tabla.
 
-En caso que en un proyecto se hubiese completado el porcentaje de viviendas destinadas a las Familias Vulnerables, los beneficiarios de subsidio del Título I, Tramo 1, del Sistema Integrado de Subsidio Habitacional, regulado por el DS N° 1 (V. y U.), de 2011, podrán ser considerados como Familias de Sectores Medios en la medida que cumplan las condiciones para financiar su vivienda con recursos adicionales o crédito hipotecario, pudiendo aplicarlo a viviendas cuyo precio no exceda las 1.400 UF, emplazadas en las zonas señaladas en la letra a) de la tabla precedente, y de 1.600 UF en viviendas emplazadas en las zonas indicadas en las letras b), c) y d), de la misma tabla. En este caso accederán a los montos de subsidio señalados en la tabla precedente o mantendrán el monto del subsidio ya obtenido, según les sea más conveniente, no siendo necesario que enteren el ahorro mínimo indicado en dicha tabla.
+En caso que en un proyecto se hubiese completado el porcentaje de viviendas destinadas a las Familias Vulnerables, los beneficiarios de subsidio del Título I, Tramo 1, del Sistema Integrado de Subsidio Habitacional, regulado por el DS N° 1 (V. y U.), de 2011, podrán ser considerados como Familias de Sectores Medios en la medida que cumplan las condiciones para financiar su vivienda con recursos adicionales o crédito hipotecario, pudiendo aplicarlo a viviendas cuyo precio no exceda las 1.400 UF, emplazadas en las zonas señaladas en la letra a) de la tabla precedente, y de 1.500 UF en viviendas emplazadas en las zonas indicadas en las letras b), c) y d), de la misma tabla. En este caso accederán a los montos de subsidio señalados en la tabla precedente o mantendrán el monto del subsidio ya obtenido, según les sea más conveniente, no siendo necesario que enteren el ahorro mínimo indicado en dicha tabla.
 
 Mediante resolución fundada del Ministro de Vivienda y Urbanismo, con aprobación de la Dirección de Presupuestos del Ministerio de Hacienda, se podrá establecer un factor multiplicador que ajuste el monto y/o fórmula de cálculo del subsidio a que se refieren las tablas contenidas en las letras a) y b) del presente artículo. Dicho factor representará las variaciones en el costo de los materiales de construcción, el valor de la mano de obra, el costo del suelo, y en general aquellos aspectos estacionarios o permanentes que incidan en el costo local y/o regional de construcción o adquisición de la vivienda objeto de este programa.
 
@@ -86,19 +118,37 @@ Mediante resoluciones del Ministro de Vivienda y Urbanismo se fijarán las área
 
 Cada beneficiario que haya participado en las actividades del Plan de Integración Social organizadas por la Entidad Desarrolladora, recibirá un subsidio adicional de hasta 5 UF, que el Serviu pagará a dicha Entidad, en la medida que se verifique la participación del beneficiario en cada actividad.
 
+Al momento de incorporarse o postular al Proyecto Habitacional, el interesado deberá declarar su compromiso con el proyecto y obligarse a participar en el Plan de Integración Social que llevará a efecto la Entidad Desarrolladora, mediante formato proporcionado por el Minvu.
+
 Adicionalmente, las familias vulnerables obtendrán un subsidio adicional de hasta 10 Unidades de Fomento, para el pago de los aranceles que correspondan para cubrir costos de escrituración, notaría e inscripción en el Conservador de Bienes Raíces, conforme a los gastos que rindan. Para el pago de este subsidio adicional se deberán presentar las respectivas boletas o facturas en que estén señalados los montos gastados, junto a los demás antecedentes exigidos para el pago del subsidio.
+
+d) Subsidio para acondicionamiento de viviendas destinadas a personas con discapacidad.
+
+En los casos en que como consecuencia de una discapacidad ya sea del postulante o de algún integrante del núcleo familiar, situación que se deberá acreditar mediante la inscripción en el Registro Nacional de la Discapacidad a que se refiere el artículo 55 de la Ley N°20.422, que Establece Normas Sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad, se requiriera acondicionar una vivienda que contribuya a paliar las limitaciones que lo afectan y ésta exceda la cantidad de viviendas de este tipo señaladas en el proyecto seleccionado, el subsidio base se incrementará hasta en 80 Unidades de Fomento, debiendo igualmente la vivienda cumplir con los requerimientos establecidos en la resolución que aprueba los Requisitos Técnicos para Proyectos del Programa de Integración Social y Territorial.
+
+De aplicarse el subsidio citado precedentemente, el precio máximo de la vivienda, establecido en las letras a) y b) anteriores, se incrementará en hasta 80 U.F.
 
 #### Artículo 4°
 
 Bono de Integración Social.
 
-El bono de integración social para las familias beneficiarias de este Programa se otorgará siempre que el proyecto al que aplicará el subsidio habitacional haya sido aprobado conforme a lo señalado en el artículo 12° del presente Reglamento. El plazo para incorporar a las familias vulnerables será hasta la fecha de recepción municipal del proyecto. Para obtener este bono se deberá respetar el porcentaje de integración social propuesto en la presentación del proyecto y sancionado mediante la resolución de selección de proyectos a que se refiere el artículo 13° del presente Reglamento.
+El bono de integración social para las familias beneficiarias de este Programa se otorgará siempre que el proyecto al que aplicará el subsidio habitacional haya sido aprobado conforme a lo señalado en el artículo 12° del presente Reglamento. El plazo para incorporar a las familias vulnerables y familias de sectores medios que adquieran viviendas entre las 1.200 y las 1.400 UF, en el caso de viviendas emplazadas en las zonas definidas en la letra
+
+- **a)** de la tabla inserta en la letra
+
+- **b)** del artículo 3°, o entre las 1.300 y las 1.500 U.F., para viviendas emplazadas en las zonas definidas en las letras b),
+
+- **c)** y
+
+- **d)** de la tabla inserta en la letra
+
+- **b)** del artículo 3°, será hasta la fecha de recepción municipal del proyecto. Para obtener este bono se deberán respetar los porcentajes de integración social propuestos en la presentación del proyecto y sancionado mediante la resolución de selección de proyectos a que se refiere el artículo 13° del presente Reglamento.
 
 Los montos del bono de integración social serán los siguientes:
 
 a) Bono de Integración para familias vulnerables:
 
-Para las familias vulnerables el bono de integración social corresponderá a la diferencia entre el precio de la vivienda y el monto de subsidio, más el ahorro de las familias, más el bono por captación de subsidios, si corresponde, no pudiendo exceder de 240 UF.
+Para las familias vulnerables el bono de integración social corresponderá a la diferencia entre el precio de la vivienda y el monto de subsidio, más el ahorro de las familias, más el bono por captación de subsidios, si corresponde, no pudiendo exceder de 250 UF.
 
 b) Bono de Integración para familias de sectores medios:
 
@@ -106,7 +156,17 @@ El bono de integración social para familias de sectores medios será el siguien
 
 .
 
-En caso que el proyecto obtenga recepciones parciales de viviendas, otorgadas por las Direcciones de Obras Municipales correspondientes, el cálculo del bono de integración se efectuará a la fecha de la primera recepción parcial, sobre el total de viviendas del proyecto.
+En caso que la Entidad Desarrolladora haya cumplido con la incorporación de familias vulnerables, y de familias de sectores medios que adquieran viviendas entre las 1.200 y las 1.400 U.F., emplazadas en las zonas definidas en la letra
+
+- **a)** de la tabla inserta en la letra
+
+- **b)** del artículo 3°, o entre las 1.300 y 1.500 U.F. para viviendas emplazadas en las zonas definidas en las letras b),
+
+- **c)** y
+
+- **d)** de la tabla inserta en la letra
+
+- **b)** del artículo 3°, antes de la fecha de la recepción municipal, total o parcial, podrá solicitar al Serviu la emisión de la resolución de asignación de subsidios a que se refiere el artículo 18° del presente Reglamento, siempre que el proyecto haya sido ejecutado de acuerdo a lo aprobado mediante la resolución de selección de proyectos a que se refiere el artículo 13° de este decreto.
 
 En caso que la Entidad Desarrolladora haya cumplido con la incorporación de familias vulnerables antes de la fecha de la recepción municipal, total o parcial, podrá solicitar al Serviu la emisión de la resolución de asignación de subsidios a que se refiere el artículo 19° del presente Reglamento, siempre y cuando el proyecto haya sido ejecutado de acuerdo a lo aprobado mediante la resolución de selección de proyectos a que se refiere el artículo 13° del presente Reglamento.
 
@@ -116,15 +176,17 @@ Bono por Captación de Subsidios.
 
 Las familias podrán beneficiarse del bono por captación de subsidios, el que se determinará de acuerdo a los porcentajes de familias vulnerables y de sectores medios que se integren al proyecto y que hayan sido beneficiados con un subsidio habitacional; este bono será adicional al bono de integración social. Los montos del bono por captación de subsidios para familias vulnerables y de sectores medios serán los siguientes, de acuerdo a los porcentajes indicados:
 
+.
+
 Para determinar el bono por captación de subsidios, se considerarán los subsidios captados hasta la fecha de recepción municipal del proyecto. En caso que el proyecto obtenga una recepción parcial, el cálculo del bono por captación de subsidios se efectuará con la demanda captada a la fecha de la primera recepción parcial de viviendas, otorgada por las Dirección de Obras Municipales correspondiente, sobre el total de viviendas del proyecto.
 
-Si la Entidad Desarrolladora, habiendo cumplido con la incorporación de familias vulnerables, solicita al Serviu la emisión de la resolución de asignación de subsidios a que se refiere el artículo 19° del presente Reglamento, antes de la fecha de la recepción municipal, total o parcial, el bono de captación será calculado a la fecha de esa solicitud.
+Si la Entidad Desarrolladora, habiendo cumplido con la incorporación de familias vulnerables, solicita al Serviu la emisión de la resolución de asignación de subsidios a que se refiere el artículo 18° del presente Reglamento, antes de la fecha de la recepción municipal, total o parcial, el bono de captación será calculado a la fecha de esa solicitud.
 
 #### Artículo 6°
 
 Restitución de bonos.
 
-Si transcurrido el plazo de 18 meses señalado en el inciso cuarto del artículo 15°, o de su prórroga si corresponde, no se cumple con los porcentajes de familias vulnerables y/o con los porcentajes de captación de subsidios determinados previamente, será la Entidad Desarrolladora la que deberá restituir el monto equivalente al bono de integración social y/o al bono de captación de subsidios en el monto que corresponda, en un plazo máximo de 60 días corridos luego de vencido dicho plazo. En ningún caso la restitución de los bonos se les cobrará a las familias beneficiarias, por no ser de responsabilidad de éstas el no cumplimiento de los porcentajes mínimos exigidos en el presente Reglamento.
+Si transcurrido el plazo de 24 meses señalado en el inciso quinto del artículo 15°, o de su prórroga si corresponde, no se cumple con los porcentajes de familias vulnerables y/o con los porcentajes de captación de subsidios determinados previamente, será la Entidad Desarrolladora la que deberá restituir el monto equivalente al bono de integración social y/o al bono de captación de subsidios en el monto que corresponda, en un plazo máximo de 60 días corridos luego de vencido dicho plazo. En ningún caso la restitución de los bonos se les cobrará a las familias beneficiarias, por no ser de responsabilidad de éstas el no cumplimiento de los porcentajes mínimos exigidos en el presente Reglamento.
 
 ### Párrafo III — De los Proyectos Habitacionales.
 
@@ -136,11 +198,57 @@ Los proyectos habitacionales que postulen a este Programa deberán cumplir con l
 
 a) El precio de venta máximo de las viviendas será de:
 
-i) Hasta 2.200 UF para viviendas emplazadas en todas las regiones, provincias y comunas del país, excepto en las señaladas en la letra ii) del presente inciso.
+i) Hasta 2.200 UF para viviendas emplazadas en todas las regiones, provincias y comunas del país, excepto en las señaladas en el numeral ii) del presente inciso.
 
-ii) Hasta 2.400 UF para viviendas emplazadas en las regiones de Arica y Parinacota, de Tarapacá, de Antofagasta, de Atacama, en la Provincia de Chiloé, en territorios incluidos en el plan de desarrollo para territorios rezagados del Ministerio del Interior y Seguridad Pública, conforme al DS N° 1.116 , de ese Ministerio, de 2014, en las regiones de Aysén del General Carlos Ibáñez del Campo y de Magallanes y Antártica Chilena, en la Provincia de Palena y en las comunas de Isla de Pascua y de Juan Fernández.
+ii) Hasta 2.600 UF para viviendas emplazadas en las regiones de Arica y Parinacota, de Tarapacá, de Antofagasta, de Atacama, en la Provincia de Chiloé, en territorios incluidos en el plan de desarrollo para territorios rezagados del Ministerio del Interior y Seguridad Pública, conforme al DS N° 1.116 , de ese Ministerio, de 2014, en las regiones de Aysén del General Carlos Ibáñez del Campo y de Magallanes y Antártica Chilena, en la Provincia de Palena y en las comunas de Isla de Pascua y de Juan Fernández.
 
-b) Los proyectos deberán incluir a lo menos un 20% de viviendas destinadas a familias vulnerables, de acuerdo a lo señalado en el artículo 2°, y hasta un máximo de 40% en comunas desde 40.000 habitantes, o hasta un máximo de 60% en comunas de menos de 40.000 habitantes, acorde a la población comunal al año vigente, según las proyecciones del Instituto Nacional de Estadísticas (INE). El porcentaje de viviendas propuesto en la presentación del proyecto y sancionado en la resolución de selección de proyectos a que se refiere el artículo 13° del presente Reglamento, deberá ser vendido a familias vulnerables con aplicación del subsidio habitacional, de no ser así, la Entidad Desarrolladora deberá hacer devolución del bono de integración y captación, si corresponde, sin perjuicio de la aplicación de las sanciones establecidas en el artículo 31° del presente Reglamento.
+b) Los proyectos deberán incluir a lo menos los siguientes porcentajes de distribución de viviendas:
+
+i. Un 25% y hasta un máximo de un 40% de viviendas destinadas a familias vulnerables, en comunas desde 40.000 habitantes, o hasta un máximo de 60% de viviendas en comunas de menos de 40.000 y hasta 20.000 habitantes, según los datos del último censo de población de que se disponga, o la actualización o proyección de población que publique el Instituto Nacional de Estadísticas (INE) para el año del llamado a postulación de proyectos de este Programa. Por resolución fundada, el Seremi podrá autorizar la presentación de proyectos en comunas de menos de 20.000 habitantes, lo que deberá justificar en base a la demanda habitacional existente en estas comunas, pudiendo considerar hasta un máximo de 60% de viviendas destinadas a familias vulnerables. Estas resoluciones podrán dictarse hasta 30 días corridos antes de la fecha de cierre del periodo de postulación.
+
+ii. Un 15% de viviendas destinadas a familias de sectores medios, cuyo rango de precio oscile entre las 1.200 y las 1.400 U.F., en el caso de viviendas emplazadas en las zonas definidas en la letra
+
+- **a)** de la tabla inserta en la letra
+
+- **b)** del artículo 3°, o entre las 1.300 y las 1.500 U.F. para viviendas emplazadas en las zonas definidas en las letras b),
+
+- **c)** y
+
+- **d)** de la tabla inserta en la letra
+
+- **b)** del artículo 3°.
+
+iii. Un 20% de viviendas destinadas a familias de sectores medios, cuyo rango de precio oscile entre más de 1.500 U.F. y las 2.200 U.F., en el caso de viviendas emplazadas en las zonas definidas en la letra
+
+- **a)** de la tabla inserta en la letra
+
+- **b)** del artículo 3°, o entre más de 1.600 y las 2.600 U.F. para viviendas emplazadas en las zonas definidas en las letras b),
+
+- **c)** y
+
+- **d)** de la tabla inserta en la letra
+
+- **b)** del artículo 3°.
+
+El porcentaje de viviendas para familias vulnerables propuesto en la presentación del proyecto, y aprobado en la resolución de selección de proyectos a que se refiere el artículo 13° del presente Reglamento, deberá ser vendido con aplicación del subsidio habitacional. De no ser así, la Entidad Desarrolladora deberá hacer devolución del bono de integración y captación, si corresponde, sin perjuicio de lo dispuesto en el artículo 31° del presente Reglamento.
+
+c) El Ministro de Vivienda y Urbanismo podrá definir, a solicitud del Seremi correspondiente, las comunas o zonas de comunas centrales y pericentrales, entendidas estas últimas como zonas vinculadas a centros o sub-centros de la ciudad, bien conectadas a los centros de trabajo, equipamiento y servicios, con acceso a espacios públicos y adecuada accesibilidad, o algunas de las zonas de interés público establecidas en la resolución N°863 (V. y U.), de 2018, o la que la reemplace a complemente, en las que se podrán desarrollar proyectos en el marco de este Reglamento que consideren un porcentaje de viviendas cuyo precio de venta exceda los máximos señalados en la letra a) precedente. Este porcentaje será fijado en la resolución del llamado correspondiente, pero en todo caso no podrá superar el 40% del total de las viviendas del proyecto.
+
+Las viviendas cuyo precio de venta supere el máximo señalado en la letra a) precedente no serán objeto de subsidio.
+
+No obstante, mediante resolución fundada, el Ministro de Vivienda y Urbanismo podrá autorizar para estas zonas un precio de vivienda, para venta mediante la aplicación de un subsidio, de hasta 2.400 U.F., en el caso de viviendas emplazadas en las zonas definidas en la letra
+
+- **a)** de la tabla inserta en la letra
+
+- **b)** del artículo 3°, y de hasta 2.800 U.F. para viviendas emplazadas en las zonas definidas en las letras b),
+
+- **c)** y
+
+- **d)** de la tabla inserta en la letra
+
+- **b)** del artículo 3°, cuyo monto de subsidio corresponderá a lo señalado en la tabla de la letra
+
+- **b)** del artículo 3° del presente decreto, según corresponda la zona de emplazamiento de la vivienda.
 
 #### Artículo 8°
 
@@ -172,39 +280,55 @@ f) Especificaciones técnicas de las edificaciones, incluyendo las del equipamie
 
 g) Ficha Informativa del Proyecto, de acuerdo a formato proporcionado por el Minvu.
 
+h) Certificado de Informaciones Previas.
+
+i) Plan Maestro de Desarrollo Inmobiliario: En caso de proyectos pertenecientes a una etapa de un desarrollo inmobiliario mayor que considere otros proyectos a ejecutar en el futuro, se debe presentar un plano que permita a la Comisión Evaluadora revisar y evaluar el programa general, contexto total (área de influencia), que tenga en cuenta continuidad de la vialidad, acceso a servicios, reserva de áreas para equipamiento y áreas verdes acorde a la escala del barrio, en relación a las distintas etapas a desarrollar.
+
+j) En el caso de proyectos acogidos a la Ley N°19.537, Sobre Copropiedad Inmobiliaria, los proyectos deberán adjuntar:
+
+. Estimación de costos operativos y mantención de condominios
+
+. Estrategias propuestas en el diseño del proyecto y su fase operativa para la disminución del valor de los gastos comunes.
+
+k) Propuesta de eficiencia energética en formato tipo, proporcionado por el Minvu.
+
+l) Archivo digital con todos los documentes que conforman el expediente del proyecto.
+
+Las Entidades Desarrolladoras que participen del llamado deberán ingresar en los sistemas electrónicos dispuestos al efecto, los datos e información gráfica del proyecto que permita visualizar sus características principales, incorporando a lo menos un archivo .kmz; el Certificado de Informaciones Previas; una presentación del proyecto en formato PDF que contenga la imagen aérea del terreno en el barrio, imágenes digitales del conjunto, de las viviendas, del plano de entremezcla de éstas, y otras características del proyecto que la Entidad Desarrolladora estime importante de relevar. Podrán señalar también un correo electrónico al cual se notifiquen las actuaciones derivadas de la ejecución del Programa.
+
 #### Artículo 10°
 
 Condiciones que deben cumplir los proyectos habitacionales.
 
 Para aplicar el subsidio regulado por el presente Reglamento, los proyectos habitacionales o cada una de las etapas de éstos que formen parte de un permiso de edificación de un proyecto de arquitectura y urbanización mayor y que sean presentadas como proyecto habitacional a este Programa, deberán cumplir con las siguientes condiciones:
 
-1. No exceder un tamaño máximo de 300 viviendas.
+1. No exceder de 300 viviendas. En el caso de comunas de hasta 40.000 habitantes, no se podrán presentar dos etapas consecutivas en un mismo llamado, tratándose de proyectos desarrollados en terrenos de propiedad del Serviu, el máximo de viviendas se definirá en la resolución del llamado correspondiente, de acuerdo a las características del terreno.
 
 2. Los terrenos donde se desarrollarán los proyectos, deberán estar ubicados dentro del límite urbano fijado por el respectivo instrumento de planificación territorial.
 
 3. Para la aprobación definitiva de los proyectos, estos deberán estar ubicados dentro del territorio operacional de la empresa sanitaria correspondiente y/o presentar Convenio de Prestación de Servicios otorgado por la empresa sanitaria.
 
-4. Los proyectos presentados deberán estar localizados en zonas con acceso a servicios de la comuna, que se detallan a continuación:
+4. Los proyectos presentados deberán estar localizados en zonas con acceso a servicios de la comuna, a través de una vía con calidad de bien nacional de uso público, que se detallan a continuación:
 
 a. Que el establecimiento educacional más cercano cuente con a lo menos dos niveles de educación (pre-básica y/o básica y/o media) y se encuentre ubicado a una distancia recorrible peatonalmente no mayor a 1.000 metros, medidos desde el punto más cercano del terreno.
 
-b. Que el establecimiento de nivel parvulario más cercano se encuentre ubicado a una distancia recorrible peatonalmente no mayor a 1.000 metros, medidos desde el punto más cercano del terreno.
+b. Que el establecimiento de educación preescolar más cercano se encuentre ubicado a una distancia recorrible peatonalmente no mayor a 1.000 metros, medidos desde el punto más cercano del terreno.
 
 c. Que el establecimiento de salud (de atención primaria o de nivel superior) más cercano, se encuentre ubicado a una distancia recorrible peatonalmente no mayor a 2.500 metros, medidos desde el punto más cercano del terreno.
 
-d. Que la vía más cercana al terreno por la cual circula un servicio de transporte público, se encuentre a una distancia recorrible peatonalmente no mayor a 500 metros, medidos desde el punto más cercano del terreno.
+d. Que la vía más cercana al terreno por la cual circula un servicio de transporte público, se encuentre a una distancia recorrible peatonalmente no mayor a 400 metros, medidos desde el punto más cercano del terreno.
 
-e. Que el equipamiento comercial, deportivo o cultural existente (de escala mediana) más cercano, según los artículos 2.1.33 y 2.1.36 de la Ordenanza General de Urbanismo y Construcciones, se encuentre ubicado a una distancia recorrible peatonalmente no mayor a 2.500 metros, medidos desde el punto más cercano del terreno.
+e. Que el equipamiento comercial, deportivo o cultural existente de uso público de escala mediana más cercano, según los artículos 2.1.33. y 2.1.36. de la Ordenanza General de Urbanismo y Construcciones, se encuentra ubicado a una distancia recorrible peatonalmente no mayor a 2.000 metros, medidos desde el punto más cercano del terreno.
 
 f. Que el área verde pública (de superficie mayor a 5.000 metros cuadrados) más cercana, existente o proyectada en el instrumento territorial correspondiente, se encuentre ubicada a una distancia recorrible peatonalmente no mayor a 1.000 metros, medidos desde el punto más cercano del terreno.
 
 g. Que el terreno se encuentre a una distancia no superior a 200 metros de una vía de servicio o de rango superior existente, y con acceso directo a ella a través de una vía cuya urbanización esté ejecutada al 100% o que considere su ejecución al 100% como parte del proyecto presentado.
 
-Si el proyecto se ubica en comunas desde 40.000 habitantes, deberá cumplir como mínimo con seis (6) de los requisitos señalados en el punto 4 del presente artículo y si el proyecto se ubica en comunas de menos de 40.000 habitantes, deberá cumplir como mínimo con cinco (5) de los requisitos antes señalados.
+Si el proyecto se ubica en comunas desde 40.000 habitantes, deberá cumplir como mínimo con seis (6) de los requisitos señalados en el punto 4 del presente artículo y si el proyecto se ubica en comunas de menos de 40.000 habitantes, deberá cumplir como mínimo con cinco (5) de los requisitos antes señalados. En todo caso, el requisito establecido en la letra g. precedente deberá ser cumplido en todos los proyectos.
 
 Los requisitos mencionados en los puntos 2, 3 y 4 deberán ser acreditados por la Entidad Desarrolladora mediante planimetrías en que se grafiquen los distanciamientos y emplazamientos y/o documentos emitidos por algún organismo público competente o, en casos debidamente justificados, por un organismo privado. En todos los casos se deberán adjuntar planimetrías o imágenes georreferenciadas. La comisión evaluadora podrá solicitar al Serviu o Seremi correspondiente, la verificación de esta información.
 
-5. Todas las viviendas del proyecto deberán cumplir con lo señalado en la resolución exenta N° 4.832 (V. y U.), de 2012, y su modificación, que aprueba la "Tabla de Espacios y Usos Mínimos para el Mobiliario del DS N° 1 e Itemizado Técnico para proyectos del Título I del DS N° 1", en relación a espacios y usos mínimos para el mobiliario e Itemizado Técnico. Respecto de los recintos de closet, deberán quedar conformados al menos en fondo, altura, divisiones laterales y horizontales, además se debe respetar la cantidad de módulos, pudiendo modificar su ubicación para uno de los dormitorios, a excepción del dormitorio principal.
+5. Todas las viviendas del proyecto deberán cumplir con los Requisitos Técnicos para Proyectos del Programa de Integración Social y Territorial que se aprueben por resolución del Ministro de Vivienda y Urbanismo.
 
 Para las viviendas destinadas a familias vulnerables, específicamente tratándose de casas, se deberá considerar una superficie mínima edificada de 47 m2; tratándose de departamentos, se deberá considerar una superficie mínima edificada de 52 m2.
 
@@ -212,13 +336,39 @@ Para el cálculo de la superficie edificada de todas las viviendas del proyecto,
 
 El Programa arquitectónico de las viviendas destinadas a familias vulnerables deberá contemplar como mínimo cuatro (4) recintos conformados: dos dormitorios (que deberán corresponder al dormitorio principal y segundo dormitorio), una zona de estar-comedor-cocina y un baño.
 
-El Programa arquitectónico de las viviendas destinadas a familias de sectores medios deberá incluir como mínimo tres (3) recintos conformados: un dormitorio como mínimo (que deberá corresponder al dormitorio principal), una zona de estar-comedor-cocina y un baño.
+El Programa arquitectónico de las viviendas destinadas a familias de sectores medios deberá incluir como mínimo tres (3) recintos conformados: un dormitorio como mínimo (que deberá corresponder al dormitorio principal), una zona de estar-comedor-cocina y un baño. No obstante, las unidades que consideren el programa arquitectónico mínimo, no podrán sobrepasar el 25% de las viviendas cuyo valor supere las 1.400 U.F., en el caso de viviendas emplazadas en las zonas definidas en la letra
+
+- **a)** de la tabla inserta en la letra
+
+- **b)** del artículo 3°, o las 1.500 U.F. para viviendas emplazadas en las zonas definidas en las letras b),
+
+- **c)** y
+
+- **d)** de la tabla inserta en la letra
+
+- **b)** del artículo 3°. Para viviendas cuyo rango de precio oscila entre las 1.200 y las 1.400 UF, las cuales se encuentren emplazadas en las zonas definidas en la letra
+
+- **a)** de la tabla inserta en la letra
+
+- **b)** del artículo 3°, o entre las 1.300 y las 1.500 UF en los casos de viviendas emplazadas en las zonas definidas en las letras b),
+
+- **c)** y
+
+- **d)** de la tabla de la letra
+
+- **b)** del artículo 3°, el programa arquitectónico deberá contemplar como mínimo cuatro (4) recintos conformados: dos dormitorios, que deberán corresponder al dormitorio principal y segundo dormitorio, una zona de estar-comedor-cocina y un baño.
+
+Las unidades correspondientes al porcentaje de viviendas para venta por sobre el precio máximo, que se señalan en la letra c) del artículo 7° del presente Reglamento, quedarán eximidas de cumplir con el programa arquitectónico mínimo señalado anteriormente.
+
+Las unidades de vivienda acondicionadas para recibir a personas con discapacidad asociada a movilidad reducida, deberán emplazarse de manera estratégica en el conjunto, considerando acceso directo a equipamiento, áreas verdes y cercanía a vías de acceso y a servicios. Además, deberá considerar sólo una planta en e1 caso de viviendas unifamiliares, o emplazarse en pisos con acceso a nivel de la calle, en caso de vivienda colectiva.
+
+El proyecto deberá considerar obligatoriamente una vivienda acondicionada para personas con discapacidad asociada a movilidad reducida, la que deberá destinarse a una familia de hasta el 50% más vulnerable de la población, que tenga entre sus integrantes a una persona inscrita en el Registro Nacional de la Discapacidad a que se refiere el artículo 55 de la Ley N°20.422, que Establece Normas Sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad, priorizando a aquellas con discapacidad asociada a movilidad reducida.
 
 Las viviendas unifamiliares deberán considerar cierros entre unidades de viviendas que permitan delimitar el predio con una altura mínima de 1,80 m, además de cierros hacia bienes nacionales de uso público (independiente de si se instalan o no sobre la línea oficial u otra instancia), o hacia bienes comunes en copropiedades tipo B; estos dos últimos deberán contemplar a lo menos un 70% de transparencia, una puerta de acceso peatonal independiente y permitir el acceso vehicular a través de un portón de 2,5 m lineales por vivienda, como mínimo. El estándar de los cierros debe ser idéntico para todas las viviendas del proyecto.
 
 6. Cuando se trate de edificios colectivos de vivienda, todas las fachadas del edificio, así como las escaleras cuando se encuentren adosadas exteriormente al volumen del edificio, deberán contener vanos y/o aperturas que permitan el control visual hacia el exterior, siempre que la normativa aplicable al terreno donde se emplace el proyecto admita tal cantidad de aperturas. Además, deben evitarse obstáculos o barreras arquitectónicas en el acceso a cada departamento.
 
-7. En relación al equipamiento y áreas verdes, se deberá cumplir con lo establecido en el artículo 46 del DS N° 1 (V. y U.), de 2011, considerando también los requerimientos del Ítem 3 de la Tabla de Factores y Puntajes, contenida en el artículo 11° del presente Reglamento. No obstante, los proyectos o las etapas de éste que formen parte de un permiso de edificación de un proyecto de arquitectura y urbanización mayor y que sean presentadas como proyecto habitacional a este Programa, deberán incorporar la ejecución del equipamiento y áreas verdes exigidas por el presente decreto dentro de cada etapa presentada.
+7. En relación al equipamiento y áreas verdes, se deberá cumplir con lo establecido en la resolución que apruebe los Requisitos Técnicos para Proyectos del Programa de Integración Social y Territorial, considerando también los requerimientos del Ítem 3 de la Tabla de Factores y Puntajes, contenida en el artículo 11° del presente Reglamento. No obstante, los proyectos o las etapas de éste que formen parte de un permiso de edificación de un proyecto de arquitectura y urbanización mayor y que sean presentadas como proyecto habitacional a este Programa, deberán incorporar la ejecución del equipamiento y áreas verdes exigidas por el presente decreto dentro de cada etapa presentada.
 
 #### Artículo 11°
 
@@ -236,11 +386,13 @@ Con todo, el Ministro de Vivienda y Urbanismo podrá, en casos calificados y med
 
 Revisión y Aprobación de los Proyectos Habitacionales.
 
-Los proyectos deberán ser revisados por el Serviu con anterioridad a la sesión de la comisión evaluadora, a objeto de verificar el cumplimiento de los requisitos establecidos en el presente Reglamento. Aquellos proyectos que no presenten alguno de los antecedentes indicados en el artículo 9° o no cumplan con alguno de los requisitos, condiciones o factores establecidos en los artículos 10° y 11°, quedarán excluidos del proceso de selección, salvo que se les haya exceptuado de su cumplimiento.
+Todos los proyectos deberán ser revisados por la Seremi y el Serviu con anterioridad a la sesión de la Comisión Evaluadora, incluidos los que se desarrollen en terrenos del Serviu, a objeto de verificar el cumplimiento de la normativa urbana aplicable y los requisitos establecidos tanto en la resolución del llamado como en el presente Reglamento. Si producto de la revisión de los proyectos la Seremi y/o el Serviu formulan observaciones, éstas deberán presentarse ante la Comisión Evaluadora junto a los antecedentes del proyecto.
 
-Los proyectos que superen la etapa a que se refiere el inciso anterior serán revisados por la comisión evaluadora, incluso aquellos que se desarrollen en terrenos del Serviu. Si producto de la revisión de los proyectos, la comisión evaluadora formula observaciones, las entidades desarrolladoras tendrán diez días hábiles para subsanarlas, contados desde la notificación de las observaciones por parte del Serviu respectivo. En caso que no se cumpla con dicho plazo, los proyectos se entenderán rechazados y no participarán del proceso de selección.
+La Comisión Evaluadora revisará los proyectos, junto con las observaciones que hubiere formulado la Seremi y/o el Serviu. Si como consecuencia de la revisión, la Comisión Evaluadora formula observaciones, las Entidades Desarrolladoras tendrán diez días hábiles para subsanarlas, contados desde su notificación por parte del Serviu respectivo. En caso que las Entidades Desarrolladoras no subsanen las observaciones informadas por Serviu o no cumplan con dicho plazo, los proyectos se entenderán rechazados y no participarán del proceso de selección.
 
-Para ser elegibles, los proyectos deberán contabilizar un puntaje final de 200 puntos como mínimo. Los proyectos que sean rechazados no obtendrán puntaje final. La comisión evaluadora sancionará la aprobación de los proyectos elegibles mediante el Acta de Evaluación correspondiente, según formato definido por el Minvu. La prelación de los proyectos será publicada en la página web del Minvu.
+Para ser elegibles, los proyectos deberán contabilizar como mínimo un puntaje final de 250 puntos. Los proyectos que sean rechazados por no cumplir con los requisitos mínimos no obtendrán puntaje final. La Comisión Evaluadora seleccionará los proyectos elegibles mediante el Acta de Evaluación correspondiente, según formato definido por al Minvu.
+
+En cada región un funcionario designado por resolución del Director del Serviu, actuará como Coordinador Regional del Programa, quien será el encargado de coordinar su implementación en esta y de realizar tanto las gestiones como el seguimiento necesario para el cumplimiento de los requisitos establecidos en este Reglamento.
 
 #### Artículo 13°
 
@@ -252,11 +404,13 @@ La selección de los proyectos se realizará conforme al orden de prelación que
 
 En caso que dos o más proyectos empaten en puntaje, se dará prioridad al proyecto con mayor puntaje en el punto "1. Localización"; luego al proyecto con mayor puntaje en el punto "3. Diseño del Conjunto Habitacional" y en caso de mantenerse el empate se considerará el mayor puntaje en el punto "4. Tipologías de Viviendas".
 
-El Minvu dictará una resolución con la nómina de proyectos seleccionados.
+El Minvu dictará una resolución que aprobará la nómina de los proyectos seleccionados, los elegibles en lista de espera, y los rechazados, ordenados según corresponda, la que será publicada en su página web y en el Diario Oficial.
+
+Con los proyectos elegibles que no resulten seleccionados, se confeccionará una lista de espera de proyectos por orden de prelación, la que se determinará de acuerdo a lo señalado en los incisos segundo y tercero de este artículo, lista que correrá en caso de que alguno de los proyectos seleccionados resulte eliminado por no cumplir con los plazos establecidos en el presente Reglamento o sea retirado por renuncia por la Entidad Desarrolladora, lo que deberá ser informado al Serviu, el que procederá a dejar sin efecto el convenio y hará efectivas las garantías que correspondan. Para reemplazar el proyecto eliminado o renunciado, se considerarán los proyectos de la misma región, teniendo en cuenta su lugar en la lista de espera de acuerdo al orden de prelación, y en caso que no hubiesen proyectos en la región, se considerará la lista de espera a nivel nacional de acuerdo al orden de prelación de los proyectos.
 
 Por resolución del Ministro de Vivienda y Urbanismo se podrán efectuar las redistribuciones de recursos que correspondan, según las necesidades de las regiones en relación a los proyectos presentados.
 
-Con los proyectos elegibles que no resulten seleccionados, se confeccionará una lista de espera de proyectos por orden de prelación, la que se determinará de acuerdo a lo señalado en los incisos segundo y tercero de este artículo; lista que correrá en caso de que alguno de los proyectos seleccionados resulte eliminado por no cumplir con los plazos establecidos en el presente Reglamento o sea retirado por renuncia por la Entidad Desarrolladora, lo que deberá ser informado al Serviu, el que procederá a dejar sin efecto el convenio y hará efectivas las garantías que correspondan. Para reemplazar el proyecto eliminado o renunciado, se considerarán los proyectos de la misma región, teniendo en cuenta su lugar en la lista de espera de acuerdo al orden de prelación, y en caso que no hubiesen proyectos en la región, se considerará la lista de espera a nivel nacional de acuerdo al orden de prelación de los proyectos.
+Las Entidades Desarrolladoras cuyos proyectos hayan resultado seleccionados no podrán ceder o transferir dicho proyecto a otra entidad. Excepcionalmente, en casos justificados, el Serviu podrá autorizar la cesión o transferencia del proyecto con posterioridad al inicio de las obras y siempre que estas registren un avance igual o superior al 30%, lo que será verificado por el Serviu.
 
 ### Párrafo IV — Convenios con Entidades Desarrolladoras e Inicio de Obras.
 
@@ -268,6 +422,8 @@ El Serviu tendrá un plazo de 30 días corridos, a partir de la fecha de la tota
 
 En el convenio deberá constar, a lo menos: la aprobación del proyecto; la empresa constructora que ejecutará las obras del proyecto; la cantidad de viviendas que integran el proyecto; la cantidad de viviendas destinadas a familias vulnerables y de sectores medios; el plazo para la recepción definitiva correspondiente al total de las viviendas del proyecto; los requisitos exigidos al proyecto; las sanciones en caso que no se ejecute el proyecto en los términos en que fue aprobado, de acuerdo a lo señalado en artículo 31° del presente Reglamento; y demás actos que incidan en la aplicación práctica de lo dispuesto en la resolución que llame a postulación de proyectos y en el presente Reglamento. Los convenios serán aprobados por resolución del Director Serviu.
 
+El Serviu dispondrá de un plazo de 15 días hábiles a partir de la fecha de suscripción del convenio a que alude el inciso primero precedente, para la total tramitación de la resolución que lo aprueba. Dicha resolución deberá ser notificada a las entidades desarrolladoras dentro de los cinco días hábiles posteriores a su total tramitación.
+
 El Minvu estará facultado para publicitar en todo el país, por los medios que estime conveniente, la información correspondiente a los proyectos, para la adecuada difusión e información a los interesados en la adquisición de las viviendas que integran dichos proyectos.
 
 Además, el Minvu podrá entregar a las Entidades Desarrolladoras que hayan suscrito convenio para los efectos del presente Reglamento, la información de los postulantes que lo hubieren autorizado.
@@ -278,9 +434,11 @@ Inicio de Obras y Recepción Municipal.
 
 El plazo máximo para iniciar obras no podrá exceder de 90 días corridos, contados desde la fecha de la resolución que aprueba el convenio suscrito entre el Serviu y la Entidad Desarrolladora. En todo caso, las obras no se entenderán iniciadas mientras no se cuente con el permiso de edificación del proyecto, entregado por la DOM.
 
+Tratándose de proyectos en terrenos de propiedad del Serviu, el plazo para el inicio de obras, citado en el inciso precedente, se contará desde la inscripción de la escritura de transferencia del terreno a la Entidad Desarrolladora responsable del proyecto, en el Conservador de Bienes Raíces respectivo. Esta transferencia se realizará una vez obtenido el correspondiente permiso de edificación.
+
 El plazo para el inicio de las obras podrá prorrogarse, por razones fundadas calificadas por el Director del Serviu, por una sola vez, por un máximo de hasta 60 días corridos. La Entidad Desarrolladora deberá comunicar el inicio de las obras al Serviu, lo que deberá ser verificado por este.
 
-También por razones fundadas, calificadas por el Director Serviu, se podrá otorgar un nuevo plazo a la Entidad Desarrolladora para iniciar obras, por una sola vez, el que en todo caso no podrá exceder de 180 días, contados desde la fecha de la resolución que aprueba el convenio a que se refiere el inciso primero precedente.
+También por razones fundadas, calificadas por el Director Serviu, se podrá otorgar un nuevo plazo a la Entidad Desarrolladora para iniciar obras, por una sola vez, el que en todo caso no podrá exceder de 180 días, contados desde la fecha de la resolución que aprueba el convenio a que se refiere el inciso primero precedente; en el caso de terrenos de propiedad municipal, el nuevo plazo será de hasta 240 días corridos. Tratándose de terrenos de propiedad de Serviu, el nuevo plazo se contará desde la fecha de inscripción en el Conservador de Bienes Raíces de la escritura de transferencia del terreno a la Entidad Desarrolladora responsable del proyecto.
 
 El plazo para la recepción municipal del total de las viviendas del proyecto será de hasta 24 meses, el que se contará a partir del primer día del mes siguiente al de la fecha del inicio de las obras. Dicho plazo podrá prorrogarse en una sola oportunidad por hasta 180 días, mediante resolución fundada del Seremi.
 
@@ -288,31 +446,55 @@ Si cumplidos los plazos señalados en el inciso anterior el proyecto aún no cue
 
 El Serviu deberá verificar el inicio de las obras y de forma mensual, su avance conforme a lo programado y el cumplimiento del proyecto aprobado y sus especificaciones técnicas, en relación a las exigencias técnicas del presente decreto y las características del proyecto, registrando en el libro de obras y en el sistema informático dispuesto por el Minvu, la visita y cualquier modificación al proyecto que altere las condiciones de aprobación, la que deberá ser informada al Serviu, el que deberá analizar la pertinencia y evaluar la modificación propuesta, que en ningún caso deberá ir en desmedro del proyecto aprobado.
 
-### Párrafo V — De la Postulación al Subsidio, los Llamados, la Incorporación de Beneficiarios y la Asignación de Subsidios.
+### Párrafo V — De la incorporación de Beneficiarios, la Postulación al Subsidio y la Asignación de Subsidios.
 
 #### Artículo 16°
 
-Postulación al subsidio.
+Incorporación de Familias Vulnerables y de Sectores Medios que Cuentan con Subsidio.
 
-Una vez seleccionado el proyecto y suscrito el convenio a que se refiere el artículo 14° de este Reglamento, la Entidad Desarrolladora podrá realizar la postulación de las familias interesadas en dicho proyecto, las que deberán cumplir con lo siguiente:
+Una vez seleccionado el proyecto, suscrito el convenio señalado en el artículo 14° y cuando las obras registren un avance igual o superior al 10%, el que deberá ser verificado por el Serviu, la Entidad Desarrolladora podrá efectuar el ingreso de familias beneficiarias de un subsidio habitacional obtenido con anterioridad a la incorporación al proyecto, en alguno de los programas de vivienda del Minvu mencionados en las letras c) y d) del artículo 2° del presente Reglamento, pudiendo operar mediante los sistemas electrónicos que disponga el Minvu para tales fines.
 
-a) Presentar una Declaración de Núcleo, en el formulario que el Serviu respectivo proveerá para estos efectos. Todas las personas que sean invocadas por el postulante como miembros de su núcleo familiar deberán contar con Cédula Nacional de Identidad, o Cédula de Identidad para Extranjeros y Certificado de Permanencia Definitiva, según sea el caso, y entregar fotocopia de ellos, y ninguno de ellos podrá estar afecto a alguno de los impedimentos que se señalan en la letra b) de este artículo.
+Mediante resoluciones del Ministro de Vivienda y Urbanismo se regulará un sistema electrónico de inscripción y selección alternativo al descrito en el inciso anterior, y se fijarán las condiciones para la inscripción de familias vulnerables, las cuales podrán ser priorizadas atendida la antigüedad de los subsidios; cantidad de postulaciones efectuadas por el beneficiario a los Programas del DS N° 49, en la modalidad de postulación individual, o del DS N° 1, Título I tramo 1, ambos de Vivienda y Urbanismo, de 2011; la comuna o agrupación de comunas de residencia y/o preferencia, entre otros. En este sistema podrán inscribirse directamente los beneficiarios de subsidio o concurrir a las oficinas del Serviu para tales efectos. En la resolución en que se disponga el llamado se podrán definir las regiones y comunas en las que se aplicará lo dispuesto en el presente inciso.
 
-Deberán presentar, además, una Declaración Jurada de Postulación, acerca de la necesidad de la obtención del subsidio para acceder a una vivienda, de la veracidad de la información proporcionada, y del conocimiento respecto a las obligaciones y prohibiciones señaladas en el DS N° 1 (V. y U.), de 2011.
+Las viviendas cuyo rango de precio oscila entre las 1.200 y las 1.400 UF, en el caso de viviendas emplazadas en las zonas definidas en la letra
 
-b) No podrán postular a este subsidio el interesado o alguno de los integrantes del grupo familiar declarado que se encuentre en algunas de las siguientes situaciones:
+- **a)** de la tabla inserta en la letra
 
-1. Si el interesado, su cónyuge, conviviente civil o conviviente, o algún otro miembro del grupo familiar declarado, se encuentra postulando a otro programa habitacional.
+- **b)** del artículo 3°, o entre las 1.300 y las 1 .500 U.F. para viviendas emplazadas en las zonas definidas en las letras b),
+
+- **c)** y
+
+- **d)** de la tabla inserta en la letra
+
+- **b)** del artículo 3°, solo podrán ser adquiridas por familias que cuenten con un subsidio habitacional del DS N° 1 (V. y U.), de 2011, obtenido con anterioridad a la incorporación de la familia al Proyecto de Integración Social. Estas viviendas también podrán ser adquiridas por familias sin subsidio que postulen conforme a lo señalado en los artículos 17° y 18° del presente Reglamento, y que cuenten con dos o más integrantes en su núcleo familiar, de acuerdo a la información proporcionada por el Registro Social de Hogares, con la salvedad de postulantes inscritos en el Registro Nacional de la Discapacidad, y/o de 60 años o más, quienes podrán ingresar al proyecto de manera unipersonal.
+
+#### Artículo 17°
+
+Postulación al Subsidio por Familias de Sectores Medios.
+
+Una vez seleccionado el proyecto y suscrito el convenio a que se refiere el artículo 14° de este Reglamento y cuando las obras registren un avance igual o superior al 10%, el que deberá ser verificado por el Serviu, la Entidad Desarrolladora podrá realizar la postulación de las familias de sectores medios, interesadas en dicho proyecto, pudiendo operar mediante los sistemas electrónicos que disponga el Minvu para tales fines, quienes deberán cumplir con lo siguiente:
+
+a) Presentar una Declaración de Núcleo en el formulario que el Serviu respectivo proveerá para estos efectos. Todas las personas que sean invocadas por el postulante como miembros de su núcleo familiar deberán contar con Cédula Nacional de Identidad, o Cédula de Identidad para Extranjeros y Certificado de Permanencia Definitiva, según sea el caso, debiendo entregar fotocopia de estos documentos. Ninguno de ellos podrá estar afecto a alguno de los impedimentos que se señalan en la letra b) de este artículo.
+
+Serán considerados como integrantes del núcleo familiar del postulante, el cónyuge, conviviente civil o conviviente y los hijos, que estén incluidos en el Registro Social de Hogares del postulante, aun cuando éste no los haya individualizado en su Declaración.
+
+Solo se permitirá una postulación por Instrumento de Caracterización Socioeconómica.
+
+Deberán presentar, además, una Declaración Jurada de Postulación, referida a la necesidad de la obtención del subsidio para acceder a una vivienda, de la veracidad de la información proporcionada, y del conocimiento respecto de las obligaciones y prohibiciones señaladas en el DS N° 1 (V. y U.), de 2011.
+
+b) No podrá postular a este subsidio el interesado, si él o alguno de los integrantes de su núcleo familiar declarado en el instrumento de caracterización socioeconómica se encuentra en algunas de las siguientes situaciones:
+
+1. Si el interesado, su cónyuge, conviviente civil o conviviente, o algún otro miembro del núcleo familiar declarado, se encuentra postulando a otro programa habitacional del Minvu, salvo que se trate de postulaciones a programas que no estén dirigidos a la adquisición o construcción de una vivienda.
 
 2. La conformación del núcleo familiar del postulante a este Programa no debe invocar a personas que hayan resultado beneficiadas en procesos de selección anteriores de cualquier programa habitacional del Minvu, salvo tratándose de beneficios que no estén dirigidos a la adquisición o construcción de una vivienda.
 
-3. Si el interesado, su cónyuge o conviviente civil, o algún otro integrante del núcleo familiar, fuesen propietarios o asignatarios de una vivienda o de una infraestructura sanitaria, aun cuando la asignación provenga de una cooperativa; si hubiesen obtenido del Serviu, o de sus antecesores legales, o de las Municipalidades, o del Ministerio de Bienes Nacionales, o a través de los mecanismos del Impuesto Habitacional, una vivienda, o una infraestructura sanitaria, o un sitio, salvo que el terreno haya sido declarado como no apto para la construcción; como también si hubiesen adquirido o construido una vivienda con aplicación de un subsidio habitacional o de una subvención municipal, a través de cualesquiera de los sistemas que regulan o hayan regulado dichos beneficios, o con financiamiento proveniente de un préstamo habitacional obtenido del Serviu o de sus antecesores legales, sea directamente o a través de cooperativas de vivienda. Todas estas prohibiciones regirán aunque la vivienda hubiere sido transferida y/o hubieren restituido el subsidio directo o indirecto obtenidos.
+3. Si el interesado, su cónyuge, conviviente civil o conviviente, u otro integrante del núcleo familiar, fuesen propietarios o asignatarios de una vivienda o de una infraestructura sanitaria, aun cuando la asignación provenga de una cooperativa; si hubiesen obtenido del Serviu, o de sus antecesores legales, o de las municipalidades, o del Ministerio de Bienes Nacionales, o a través de los mecanismos del Impuesto Habitacional, una vivienda, o una infraestructura sanitaria, o un sitio, salvo que el terreno haya sido declarado como no apto para la construcción; como también si hubiesen adquirido o construido una vivienda con aplicación de un subsidio habitacional o de una subvención municipal, a través de cualquiera de los sistemas que regulan o hayan regulado dichos beneficios, o con financiamiento proveniente de un préstamo habitacional obtenido del Serviu o de sus antecesores legales, sea directamente o a través de cooperativas de vivienda. Todas estas prohibiciones regirán, aunque la vivienda hubiere sido transferida y/o hubieren restituido el subsidio directo o indirecto obtenidos.
 
-No regirán las prohibiciones señaladas en el número 3 precedente, en los siguientes casos:
+No regirán las prohibiciones señaladas en el número 3. precedente, en los siguientes casos:
 
-i. Cuando la vivienda o infraestructura sanitaria hubiere resultado totalmente destruida, o hubiere quedado inhabitable a consecuencia de sismos, incendios, inundaciones, termitas u otras causales que no sean imputables al interesado, en cada caso debidamente certificada por la autoridad competente.
+i. Cuando la vivienda o infraestructura sanitaria hubiere resultado totalmente destruida, o hubiere quedado inhabitable a consecuencia de sismos, incendios, inundaciones, termitas u otras causas que no sean imputables al interesado, en cada caso debidamente certificada por la autoridad competente.
 
-ii. Cuando el interesado o su cónyuge o conviviente civil invoque su condición de persona reconocida como víctima en el Informe de la Comisión Nacional sobre Prisión Política y Tortura designada por DS N° 1.040, de Interior, de 2004 y hubiere perdido el dominio de la vivienda o infraestructura sanitaria a que se refiere este número con anterioridad al 28 de noviembre de 2004, fecha en que se dio a conocer al país el informe aludido, o de persona reconocida como víctima en la nómina elaborada por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, mencionada en el inciso cuarto del artículo 3° transitorio de la ley N° 20.405 y, con anterioridad al 31 de agosto de 2011 hubiere perdido el dominio de la vivienda o infraestructura sanitaria a que se refiere el número 3 precedente.
+ii. Cuando el interesado o su cónyuge o conviviente civil invoque su condición de persona reconocida como víctima en el informe de la Comisión Nacional sobre Prisión Política y Tortura, designada por el DS N° 1.040, de Interior, de 2003, y hubiere perdido el dominio de la vivienda o infraestructura sanitaria a que se refiere este número con anterioridad al 28 de noviembre de 2004, fecha en que se dio a conocer al país el informe aludido; o invoque su condición de persona reconocida como víctima en la nómina elaborada por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, mencionada en el inciso cuarto del artículo 3° transitorio de la ley N° 20.405, y con anterioridad al 31 de agosto de 2011 hubiere perdido el dominio de la vivienda o infraestructura sanitaria a que se refiere el número 3. precedente.
 
 iii. Cuando el interesado casado bajo el régimen de sociedad conyugal que hubiere anulado su matrimonio o se hubiere divorciado, no se hubiere adjudicado la vivienda o infraestructura sanitaria al practicarse la liquidación de la sociedad conyugal y hubiere renunciado a recibir una compensación equivalente, o hubiere restituido al Serviu el 50% del subsidio habitacional recibido, conforme a la liquidación practicada por ese Servicio, debidamente actualizada a la fecha de la restitución.
 
@@ -322,51 +504,143 @@ v. Cuando el interesado hubiere anulado su matrimonio o se hubiere divorciado de
 
 vi. Cuando el interesado hubiere anulado su matrimonio o se hubiere divorciado y sea la mujer quien adquirió la vivienda o infraestructura sanitaria con su patrimonio reservado según el artículo 150 del Código Civil, y ella hubiera optado por renunciar a los gananciales una vez efectuada la liquidación de la sociedad conyugal.
 
-vii. Cuando la mujer casada bajo régimen de sociedad conyugal, a la disolución de esta por haberse anulado el matrimonio o haberse divorciado, hubiere optado por renunciar a los gananciales, en los términos del artículo 1783 del Código Civil.
+vii. Cuando la mujer casada bajo régimen de sociedad conyugal, a la disolución de ésta por haberse anulado el matrimonio o haberse divorciado, hubiere optado por renunciar a los gananciales, en los términos del artículo 1783 del Código Civil.
 
-viii. Cuando el postulante casado se encuentre separado de hecho y acredite haber iniciado el trámite de divorcio, mediante copia autorizada de la demanda con constancia de su notificación. Sin embargo, para el pago del subsidio deberá acreditarse la subinscripción de la sentencia de divorcio al margen de la respectiva inscripción de matrimonio y que el postulante no se hubiere adjudicado la vivienda o infraestructura sanitaria y hubiere renunciado a recibir una compensación equivalente o hubiere restituido al Serviu el 50% del total del subsidio recibido, conforme a la liquidación practicada por el Serviu debidamente actualizada a la fecha de la restitución. Quienes postulen en esta situación, no podrán invocar al cónyuge como integrante del núcleo familiar.
+viii. Cuando el postulante casado se encuentre separado de hecho y acredite haber iniciado el trámite de divorcio, mediante copia autorizada de la demanda con constancia de su notificación. Sin embargo, para el pago del subsidio deberá acreditarse la subinscripción de la sentencia de divorcio al margen de la respectiva inscripción de matrimonio y que el postulante no se hubiere adjudicado la vivienda o infraestructura sanitaria y hubiere renunciado a recibir una compensación equivalente o hubiere restituido al Serviu el 50% del total del subsidio recibido, conforme a la liquidación practicada por el Serviu, debidamente actualizada a la fecha de la restitución. Quienes postulen en esta situación no podrán invocar al cónyuge como integrante del núcleo familiar.
 
-ix. Cuando el conviviente del postulante tenga vivienda o beneficio asociado a su nombre y que el usufructo de esa vivienda lo tenga el cónyuge del conviviente, lo que deberá ser acreditado con el instrumento legal correspondiente.
-
-#### Artículo 17°
-
-Llamado y Selección de Familias Vulnerables.
-
-Si transcurrido un año desde la fecha de la publicación de la resolución de la selección de los proyectos en el Diario Oficial, las entidades desarrolladoras aún no completasen el número de viviendas destinadas a las familias vulnerables beneficiarias con subsidio habitacional, lo que será chequeado mediante los sistemas electrónicos que disponga el Minvu para tales efectos, el Minvu o la Seremi mediante resoluciones que se publicarán en el Diario Oficial, podrán formular uno o más llamados especiales regulados por reglamentos de programas de subsidio habitacional vigentes, para familias que pertenezcan hasta el 50% más vulnerable de la población nacional de conformidad con la información que se obtenga por aplicación del Instrumento de Caracterización Socioeconómica, los montos de ahorro y subsidios así como los precios máximos de vivienda serán los establecidos en la letra a) del artículo 3° del presente Reglamento.
-
-Los beneficiarios de estos llamados especiales podrán aplicar los subsidios solo en proyectos seleccionados a través de este decreto. Estos subsidios no serán considerados para el cálculo de los Bonos de Captación.
+ix. Cuando el conviviente del postulante tenga vivienda o beneficio asociado a su nombre y el usufructo de esa vivienda lo tenga el cónyuge del conviviente, lo que deberá ser acreditado con el instrumento legal correspondiente.
 
 #### Artículo 18°
 
-Incorporación de Familias.
+Asignación de Subsidios a Familias de Sectores Medios.
 
-Una vez seleccionado el proyecto y suscrito el convenio señalado en el artículo 14°, la Entidad Desarrolladora podrá efectuar la incorporación de familias beneficiarias de un subsidio habitacional obtenido en alguno de los programas de vivienda del Minvu mencionados en el artículo 2° del presente Reglamento, y la reserva de subsidios para su asignación solo para familias de sectores medios, las que deberán cumplir con lo señalado en el artículo 16° de este decreto, pudiendo operar al efecto mediante los sistemas electrónicos que disponga el Minvu para tales fines.
+Una vez verificado por el Minvu a través de los medios electrónicos de que disponga para tales fines, que los postulantes cumplen con lo establecido en el artículo 17, se procederá a la asignación de subsidios, que será aprobada por resolución del Director del Serviu respectivo, previa verificación de la correcta ejecución, es decir, conforme a las características y condiciones con que fue seleccionado. En caso de proyectos con recepciones municipales parciales, sólo se podrán presentar a cobro el número de subsidios que correspondan a las viviendas recepcionadas.
 
-En caso de la asignación de subsidios a familias de sectores medios, en la respectiva escritura de compraventa deberá quedar consignado el ahorro que destinará a la adquisición de la vivienda, debiendo ser como mínimo el señalado en la tabla de la letra b) del artículo 3° de este decreto, siendo de responsabilidad de la entidad desarrolladora el cumplimiento del requisito de ahorro.
+En caso de la asignación de subsidios a familias de sectores medios, en la respectiva escritura de compraventa deberá quedar consignado el ahorro que destinará a la adquisición de la vivienda, debiendo ser como mínimo el señalado en el artículo 3° de este decreto, siendo responsabilidad de la Entidad Desarrolladora verificar el cumplimiento del requisito de ahorro.
+
+Si con posterioridad a la fecha de recepción municipal, quedasen viviendas disponibles en los respectivos proyectos, podrán incorporarse familias de sectores medios y familias beneficiarias de subsidio de alguno de los Programas citados en la letra d) del artículo 2°, manteniendo los beneficios de este Reglamento, hasta 24 meses después de la fecha de recepción municipal total. A partir de la fecha señalada anteriormente, los beneficios de este reglamento se aplicarán sólo a beneficiarios de subsidio del DS N° 1 (V. y U.), de 2011, sin que sea aplicable el subsidio señalado en los artícuIos 64 y 67 de dicho reglamento, referido a un Proyecto de Integración Social, calificado como tal por el Serviu respectivo.
+
+Solo a partir de 18 meses después de la fecha de la recepción municipal total, las viviendas disponibles podrán ser vendidas sin la aplicación de un subsidio.
 
 #### Artículo 19°
 
-Asignación de Subsidios a Familias de Sectores Medios.
+Incorporación de Familias Vulnerables en Proyectos con Viviendas Disponibles.
 
-La asignación de subsidios a los postulantes que cumplan con los requisitos señalados en el artículo 16°, será sancionada por resolución del Director del Serviu respectivo.
+Si transcurridos 12 meses desde la fecha del inicio de obras, las Entidades Desarrolladoras aún no completasen los cupos disponibles de viviendas destinadas a familias vulnerables, podrán solicitar al serviu la incorporación de aquellas que hayan postulado a los Programas del DS N°49, en la modalidad de postulación individual, o del DS N°1, Título I tramo 1, ambos de Vivienda y Urbanismo, de 2011, y que cumpliendo los requisitos no resultaron beneficiadas por disponibilidad de recursos, siempre que a la fecha de la incorporación al sistema informático pertenezcan hasta el 50% más vulnerable de la población nacional y cuenten con un núcleo familiar de dos o más integrantes, a excepción de postulantes inscritos en el Registro Nacional de la Discapacidad, y/o de 60 años o más, que hayan participado en dicha postulación, quienes podrán incorporarse al proyecto de manera unipersonal. Para estos efectos, el Serviu emitirá una nómina por orden de prelación con los postulantes hábiles no seleccionados del último llamado en la respectiva región, tanto del DS N°49 como del DS N°1, Título I tramo 1, ambos de Vivienda y Urbanismo, de 2011, en cuyo caso el porcentaje máximo a destinar a cada programa será del 60% de la nómina. Dicha nómina podrá ser priorizada por el Serviu respectivo, considerando la información existente en el sistema informático de postulación, referida a la o las comunas y/o provincias de residencia o de preferencia de las familias, y/o factores referidos a las características y condicionas de las familias, para la posterior asignación de subsidios.
 
-La resolución de asignación de subsidios podrá ser emitida una vez que el Serviu haya verificado que el proyecto ha sido ejecutado de acuerdo a lo aprobado mediante la resolución de selección de proyectos a que se refiere el artículo 13° del presente Reglamento, especialmente lo referente a la distribución de familias y tipologías de viviendas.
+Si algún postulante beneficiado conforme a este artículo no acepta o renuncia al beneficio, deberá informarlo al Serviu. En este caso se podrá emitir una nueva nómina hasta completar los cupos disponibles. En forma excepcional, en caso de producirse una renuncia con posterioridad a la obtención de la recepción final, se podrá reemplazar a dicho beneficiario con algún postulante que forme parte de la nómina señalada en el inciso precedente, respetando el orden de prelación.
 
-Si con posterioridad a la fecha de recepción municipal, quedasen viviendas disponibles en los proyectos a que se refiere este Reglamento, podrán incorporarse familias de sectores medios y beneficiarios de subsidio de alguno de los Programas citados en la letra d) del artículo 2°, manteniendo los beneficios de este Reglamento, hasta 18 meses después de la fecha de recepción municipal; o ser vendidas sin la aplicación de un subsidio.
+Las familias beneficiadas a través de esta modalidad podrán aplicar el subsidio sólo al proyecto al cual fueron incorporadas en el sistema informático. Estos subsidios no serán considerados para el cálculo del Bono por Captación. El ahorro exigido a estas familias será el indicado en el artículo 3°, letra a) del presente decreto y deberá estar acreditado al momento de la incorporación en el proyecto.
+
+Los recursos para atender a las familias indicadas anteriormente se imputarán a los destinados al presente Programa Habitacional.
 
 #### Artículo 20°
 
-Caducidad de la reserva.
+Caducidad de las Inscripciones.
 
-Si se excediere el plazo antes fijado para la recepción municipal de las obras, se producirá la caducidad automática de la reserva de los subsidios correspondientes que se hubiere efectuado, se dejarán sin efecto los bonos aplicados al proyecto y se hará efectiva la boleta bancaria de garantía que cauciona el crédito de enlace, si lo hubiere.
+Si se excediere el plazo fijado para la recepción municipal total de las obras, se producirá la caducidad automática de las inscripciones de las familias a las viviendas del proyecto, y se hará efectiva la garantía que cauciona el préstamo de enlace, si lo hubiere.
 
 #### Artículo 21°
 
 Renuncia al Proyecto Habitacional.
 
-Si con posterioridad a la fecha de recepción municipal se produce la renuncia de uno o más beneficiarios de subsidio y a consecuencia de esas renuncias no se cumple el porcentaje de familias vulnerables y/o se disminuye el porcentaje de captación de subsidios previamente determinado, la Entidad Desarrolladora podrá efectuar reemplazos hasta 18 meses después de la fecha de recepción municipal, siempre que el reemplazante sea un beneficiario de subsidio.
+Si con posterioridad a la fecha de recepción municipal se produce la renuncia de uno o más beneficiarios de subsidio, y a consecuencia de esas renuncias no se cumple el porcentaje de familias vulnerables y/o se disminuye el porcentaje de captación de subsidios previamente determinado, la Entidad Desarrolladora podrá efectuar reemplazos hasta 24 meses después de la fecha de recepción municipal, siempre que el reemplazante sea un beneficiario de subsidio.
 
-Si una familia de aquellas a que se refiere el artículo 2° de este Reglamento, renuncia o se desiste de la reserva de una vivienda después de la fecha de recepción municipal del proyecto, quedará impedida de reservar y adquirir una vivienda en otros proyectos seleccionados en el marco de este Reglamento. Tratándose de beneficiarios de subsidios asignados conforme al presente Reglamento, se producirá la caducidad automática del subsidio.
+Si una familia de aquellas a que se refieren las letras c) y d) del artículo 2° de este Reglamento, renuncia al proyecto después de la fecha de su recepción municipal, quedará impedida de adquirir una vivienda en otros proyectos desarrollados en el marco de este Programa, a excepción de las familias que al momento de la renuncia ingresen los antecedentes pertinentes que acrediten no ser sujetos de crédito hipotecario, ser víctimas de violencia intrafamiliar, un cambio de residencia por motivos laborales o padecer alguna enfermedad catastrófica.
+
+### Párrafo V — De la incorporación de Beneficiarios, la Postulación al Subsidio y la Asignación de Subsidios.
+
+#### Artículo 16°
+
+Incorporación de Familias Vulnerables y de Sectores Medios que Cuentan con Subsidio.
+
+Una vez seleccionado el proyecto, suscrito el convenio señalado en el artículo 14° y cuando las obras registren un avance igual o superior al 10%, el que deberá ser verificado por el Serviu, la Entidad Desarrolladora podrá efectuar el ingreso de familias beneficiarias de un subsidio habitacional obtenido con anterioridad a la incorporación al proyecto, en alguno de los programas de vivienda del Minvu mencionados en las letras c) y d) del artículo 2° del presente Reglamento, pudiendo operar mediante los sistemas electrónicos que disponga el Minvu para tales fines.
+
+Mediante resoluciones del Ministro de Vivienda y Urbanismo se regulará un sistema electrónico de inscripción y selección alternativo al descrito en el inciso anterior, y se fijarán las condiciones para la inscripción de familias vulnerables, las cuales podrán ser priorizadas atendida la antigüedad de los subsidios; cantidad de postulaciones efectuadas por el beneficiario a los Programas del DS N° 49, en la modalidad de postulación individual, o del DS N° 1, Título I tramo 1, ambos de Vivienda y Urbanismo, de 2011; la comuna o agrupación de comunas de residencia y/o preferencia, entre otros. En este sistema podrán inscribirse directamente los beneficiarios de subsidio o concurrir a las oficinas del Serviu para tales efectos. En la resolución en que se disponga el llamado se podrán definir las regiones y comunas en las que se aplicará lo dispuesto en el presente inciso.
+
+Las viviendas cuyo rango de precio oscila entre las 1.200 y las 1.400 UF, en el caso de viviendas emplazadas en las zonas definidas en la letra
+
+- **a)** de la tabla inserta en la letra
+
+- **b)** del artículo 3°, o entre las 1.300 y las 1 .500 U.F. para viviendas emplazadas en las zonas definidas en las letras b),
+
+- **c)** y
+
+- **d)** de la tabla inserta en la letra
+
+- **b)** del artículo 3°, solo podrán ser adquiridas por familias que cuenten con un subsidio habitacional del DS N° 1 (V. y U.), de 2011, obtenido con anterioridad a la incorporación de la familia al Proyecto de Integración Social. Estas viviendas también podrán ser adquiridas por familias sin subsidio que postulen conforme a lo señalado en los artículos 17° y 18° del presente Reglamento, y que cuenten con dos o más integrantes en su núcleo familiar, de acuerdo a la información proporcionada por el Registro Social de Hogares, con la salvedad de postulantes inscritos en el Registro Nacional de la Discapacidad, y/o de 60 años o más, quienes podrán ingresar al proyecto de manera unipersonal.
+
+#### Artículo 17°
+
+Postulación al Subsidio por Familias de Sectores Medios.
+
+Una vez seleccionado el proyecto y suscrito el convenio a que se refiere el artículo 14° de este Reglamento y cuando las obras registren un avance igual o superior al 10%, el que deberá ser verificado por el Serviu, la Entidad Desarrolladora podrá realizar la postulación de las familias de sectores medios, interesadas en dicho proyecto, pudiendo operar mediante los sistemas electrónicos que disponga el Minvu para tales fines, quienes deberán cumplir con lo siguiente:
+
+a) Presentar una Declaración de Núcleo en el formulario que el Serviu respectivo proveerá para estos efectos. Todas las personas que sean invocadas por el postulante como miembros de su núcleo familiar deberán contar con Cédula Nacional de Identidad, o Cédula de Identidad para Extranjeros y Certificado de Permanencia Definitiva, según sea el caso, debiendo entregar fotocopia de estos documentos. Ninguno de ellos podrá estar afecto a alguno de los impedimentos que se señalan en la letra b) de este artículo.
+
+Serán considerados como integrantes del núcleo familiar del postulante, el cónyuge, conviviente civil o conviviente y los hijos, que estén incluidos en el Registro Social de Hogares del postulante, aun cuando éste no los haya individualizado en su Declaración.
+
+Solo se permitirá una postulación por Instrumento de Caracterización Socioeconómica.
+
+Deberán presentar, además, una Declaración Jurada de Postulación, referida a la necesidad de la obtención del subsidio para acceder a una vivienda, de la veracidad de la información proporcionada, y del conocimiento respecto de las obligaciones y prohibiciones señaladas en el DS N° 1 (V. y U.), de 2011.
+
+b) No podrá postular a este subsidio el interesado, si él o alguno de los integrantes de su núcleo familiar declarado en el instrumento de caracterización socioeconómica se encuentra en algunas de las siguientes situaciones:
+
+1. Si el interesado, su cónyuge, conviviente civil o conviviente, o algún otro miembro del núcleo familiar declarado, se encuentra postulando a otro programa habitacional del Minvu, salvo que se trate de postulaciones a programas que no estén dirigidos a la adquisición o construcción de una vivienda.
+
+2. La conformación del núcleo familiar del postulante a este Programa no debe invocar a personas que hayan resultado beneficiadas en procesos de selección anteriores de cualquier programa habitacional del Minvu, salvo tratándose de beneficios que no estén dirigidos a la adquisición o construcción de una vivienda.
+
+3. Si el interesado, su cónyuge, conviviente civil o conviviente, u otro integrante del núcleo familiar, fuesen propietarios o asignatarios de una vivienda o de una infraestructura sanitaria, aun cuando la asignación provenga de una cooperativa; si hubiesen obtenido del Serviu, o de sus antecesores legales, o de las municipalidades, o del Ministerio de Bienes Nacionales, o a través de los mecanismos del Impuesto Habitacional, una vivienda, o una infraestructura sanitaria, o un sitio, salvo que el terreno haya sido declarado como no apto para la construcción; como también si hubiesen adquirido o construido una vivienda con aplicación de un subsidio habitacional o de una subvención municipal, a través de cualquiera de los sistemas que regulan o hayan regulado dichos beneficios, o con financiamiento proveniente de un préstamo habitacional obtenido del Serviu o de sus antecesores legales, sea directamente o a través de cooperativas de vivienda. Todas estas prohibiciones regirán, aunque la vivienda hubiere sido transferida y/o hubieren restituido el subsidio directo o indirecto obtenidos.
+
+No regirán las prohibiciones señaladas en el número 3. precedente, en los siguientes casos:
+
+i. Cuando la vivienda o infraestructura sanitaria hubiere resultado totalmente destruida, o hubiere quedado inhabitable a consecuencia de sismos, incendios, inundaciones, termitas u otras causas que no sean imputables al interesado, en cada caso debidamente certificada por la autoridad competente.
+
+ii. Cuando el interesado o su cónyuge o conviviente civil invoque su condición de persona reconocida como víctima en el informe de la Comisión Nacional sobre Prisión Política y Tortura, designada por el DS N° 1.040, de Interior, de 2003, y hubiere perdido el dominio de la vivienda o infraestructura sanitaria a que se refiere este número con anterioridad al 28 de noviembre de 2004, fecha en que se dio a conocer al país el informe aludido; o invoque su condición de persona reconocida como víctima en la nómina elaborada por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, mencionada en el inciso cuarto del artículo 3° transitorio de la ley N° 20.405, y con anterioridad al 31 de agosto de 2011 hubiere perdido el dominio de la vivienda o infraestructura sanitaria a que se refiere el número 3. precedente.
+
+iii. Cuando el interesado casado bajo el régimen de sociedad conyugal que hubiere anulado su matrimonio o se hubiere divorciado, no se hubiere adjudicado la vivienda o infraestructura sanitaria al practicarse la liquidación de la sociedad conyugal y hubiere renunciado a recibir una compensación equivalente, o hubiere restituido al Serviu el 50% del subsidio habitacional recibido, conforme a la liquidación practicada por ese Servicio, debidamente actualizada a la fecha de la restitución.
+
+iv. Cuando el interesado hubiere anulado su matrimonio o se hubiere divorciado de un beneficiario, con quien se encontraba casado bajo régimen de separación total de bienes.
+
+v. Cuando el interesado hubiere anulado su matrimonio o se hubiere divorciado de un beneficiario con quien se encontraba casado bajo régimen de participación en los gananciales, siempre que no se hubiere adjudicado la vivienda.
+
+vi. Cuando el interesado hubiere anulado su matrimonio o se hubiere divorciado y sea la mujer quien adquirió la vivienda o infraestructura sanitaria con su patrimonio reservado según el artículo 150 del Código Civil, y ella hubiera optado por renunciar a los gananciales una vez efectuada la liquidación de la sociedad conyugal.
+
+vii. Cuando la mujer casada bajo régimen de sociedad conyugal, a la disolución de ésta por haberse anulado el matrimonio o haberse divorciado, hubiere optado por renunciar a los gananciales, en los términos del artículo 1783 del Código Civil.
+
+viii. Cuando el postulante casado se encuentre separado de hecho y acredite haber iniciado el trámite de divorcio, mediante copia autorizada de la demanda con constancia de su notificación. Sin embargo, para el pago del subsidio deberá acreditarse la subinscripción de la sentencia de divorcio al margen de la respectiva inscripción de matrimonio y que el postulante no se hubiere adjudicado la vivienda o infraestructura sanitaria y hubiere renunciado a recibir una compensación equivalente o hubiere restituido al Serviu el 50% del total del subsidio recibido, conforme a la liquidación practicada por el Serviu, debidamente actualizada a la fecha de la restitución. Quienes postulen en esta situación no podrán invocar al cónyuge como integrante del núcleo familiar.
+
+ix. Cuando el conviviente del postulante tenga vivienda o beneficio asociado a su nombre y el usufructo de esa vivienda lo tenga el cónyuge del conviviente, lo que deberá ser acreditado con el instrumento legal correspondiente.
+
+#### Artículo 18°
+
+Asignación de Subsidios a Familias de Sectores Medios.
+
+Una vez verificado por el Minvu a través de los medios electrónicos de que disponga para tales fines, que los postulantes cumplen con lo establecido en el artículo 17, se procederá a la asignación de subsidios, que será aprobada por resolución del Director del Serviu respectivo, previa verificación de la correcta ejecución, es decir, conforme a las características y condiciones con que fue seleccionado. En caso de proyectos con recepciones municipales parciales, sólo se podrán presentar a cobro el número de subsidios que correspondan a las viviendas recepcionadas.
+
+En caso de la asignación de subsidios a familias de sectores medios, en la respectiva escritura de compraventa deberá quedar consignado el ahorro que destinará a la adquisición de la vivienda, debiendo ser como mínimo el señalado en el artículo 3° de este decreto, siendo responsabilidad de la Entidad Desarrolladora verificar el cumplimiento del requisito de ahorro.
+
+Si con posterioridad a la fecha de recepción municipal, quedasen viviendas disponibles en los respectivos proyectos, podrán incorporarse familias de sectores medios y familias beneficiarias de subsidio de alguno de los Programas citados en la letra d) del artículo 2°, manteniendo los beneficios de este Reglamento, hasta 24 meses después de la fecha de recepción municipal total. A partir de la fecha señalada anteriormente, los beneficios de este reglamento se aplicarán sólo a beneficiarios de subsidio del DS N° 1 (V. y U.), de 2011, sin que sea aplicable el subsidio señalado en los artícuIos 64 y 67 de dicho reglamento, referido a un Proyecto de Integración Social, calificado como tal por el Serviu respectivo.
+
+Solo a partir de 18 meses después de la fecha de la recepción municipal total, las viviendas disponibles podrán ser vendidas sin la aplicación de un subsidio.
+
+#### Artículo 19°
+
+Incorporación de Familias Vulnerables en Proyectos con Viviendas Disponibles.
+
+Si transcurridos 12 meses desde la fecha del inicio de obras, las Entidades Desarrolladoras aún no completasen los cupos disponibles de viviendas destinadas a familias vulnerables, podrán solicitar al serviu la incorporación de aquellas que hayan postulado a los Programas del DS N°49, en la modalidad de postulación individual, o del DS N°1, Título I tramo 1, ambos de Vivienda y Urbanismo, de 2011, y que cumpliendo los requisitos no resultaron beneficiadas por disponibilidad de recursos, siempre que a la fecha de la incorporación al sistema informático pertenezcan hasta el 50% más vulnerable de la población nacional y cuenten con un núcleo familiar de dos o más integrantes, a excepción de postulantes inscritos en el Registro Nacional de la Discapacidad, y/o de 60 años o más, que hayan participado en dicha postulación, quienes podrán incorporarse al proyecto de manera unipersonal. Para estos efectos, el Serviu emitirá una nómina por orden de prelación con los postulantes hábiles no seleccionados del último llamado en la respectiva región, tanto del DS N°49 como del DS N°1, Título I tramo 1, ambos de Vivienda y Urbanismo, de 2011, en cuyo caso el porcentaje máximo a destinar a cada programa será del 60% de la nómina. Dicha nómina podrá ser priorizada por el Serviu respectivo, considerando la información existente en el sistema informático de postulación, referida a la o las comunas y/o provincias de residencia o de preferencia de las familias, y/o factores referidos a las características y condicionas de las familias, para la posterior asignación de subsidios.
+
+Si algún postulante beneficiado conforme a este artículo no acepta o renuncia al beneficio, deberá informarlo al Serviu. En este caso se podrá emitir una nueva nómina hasta completar los cupos disponibles. En forma excepcional, en caso de producirse una renuncia con posterioridad a la obtención de la recepción final, se podrá reemplazar a dicho beneficiario con algún postulante que forme parte de la nómina señalada en el inciso precedente, respetando el orden de prelación.
+
+Las familias beneficiadas a través de esta modalidad podrán aplicar el subsidio sólo al proyecto al cual fueron incorporadas en el sistema informático. Estos subsidios no serán considerados para el cálculo del Bono por Captación. El ahorro exigido a estas familias será el indicado en el artículo 3°, letra a) del presente decreto y deberá estar acreditado al momento de la incorporación en el proyecto.
+
+Los recursos para atender a las familias indicadas anteriormente se imputarán a los destinados al presente Programa Habitacional.
+
+#### Artículo 20°
+
+Caducidad de las Inscripciones.
+
+Si se excediere el plazo fijado para la recepción municipal total de las obras, se producirá la caducidad automática de las inscripciones de las familias a las viviendas del proyecto, y se hará efectiva la garantía que cauciona el préstamo de enlace, si lo hubiere.
 
 ### Párrafo VI — Del Crédito Hipotecario.
 
@@ -506,11 +780,13 @@ Si, encontrándose próxima la expiración de la vigencia de la garantía que ca
 
 El préstamo podrá restituirse contra el pago del subsidio o con cargo a los subsidios presentados a cobro, siempre que el Serviu hubiese autorizado su pago, descontando el monto adeudado del subsidio a pagar. Lo anterior deberá efectuarse dentro del plazo máximo de 36 meses señalado en el presente artículo; de lo contrario se hará efectiva la garantía que lo cauciona. Esta forma de pago del préstamo de enlace sólo podrá ser ejercida por quien, de conformidad al convenio, esté facultado para percibir el pago de los subsidios.
 
+Las viviendas correspondientes al porcentaje pare venta por sobre el precio máximo que se señale en la resolución del llamado correspondiente, conforme lo indicado en la letra c) del artículo 7° del presente Reglamento, no podrán ser consideradas por el Serviu para efectos de otorgar el préstamo de enlace.
+
 #### Artículo 29°
 
 Pago de Subsidio.
 
-El Serviu pagará el subsidio en pesos, moneda nacional, al valor que tenga la Unidad de Fomento a la fecha de su pago efectivo, a quien se indique en el convenio a que se refiere el artículo 14° del presente decreto, dentro del plazo de 18 meses contados desde la fecha de recepción municipal del proyecto, de acuerdo al procedimiento establecido en el artículo 32 y a las letras a), b), c) y d) del artículo 33, ambos del DS N° 1 (V. y U.), de 2011, en lo que fuera procedente.
+El Serviu pagará el subsidio contra su presentación a cobro, en pesos, moneda nacional, al valor que tenga la Unidad de Fomento a la fecha de su pago efectivo, a quien se indique en el convenio a que se refiere el artículo 14° del presente decreto. Tratándose de beneficiarios que se incorporen al proyecto conforme a los procedimientos establecidos en los artículos 17°, 18° y 19°, del presente Reglamento, el subsidio deberá ser presentado a cobro dentro del plazo de 27 meses contados desde la fecha de la recepción municipal del total de las viviendas del proyecto, de acuerdo al procedimiento establecido en el artículo 32 y en las letras a), b), c) y d) del artículo 33, ambos del DS N°1 (V. y U.), de 2011, en lo que fuera procedente.
 
 Por resolución fundada, el Director del Serviu podrá, por una sola vez, prorrogar u otorgar un nuevo plazo por hasta 180 días para presentar a cobro los subsidios.
 
@@ -518,21 +794,39 @@ En caso de fallecimiento del titular del subsidio habitacional se aplicará lo d
 
 No tendrán derecho a cobrar el subsidio habitacional, si el beneficiario o los integrantes del núcleo familiar declarado, con posterioridad a su postulación a una vivienda de un proyecto seleccionado y hasta la fecha de la respectiva escritura de compraventa, hubieren adquirido una vivienda o sitio a cualquier título, aunque lo hubieren transferido posteriormente, o hubieren sido beneficiados con un subsidio habitacional, o los que hubieren obtenido una infraestructura sanitaria de las Instituciones del Sector Vivienda o de las Municipalidades.
 
+También se encontrará impedido de cobrar el subsidio el beneficiario que, con posterioridad a su postulación y hasta la fecha de la respectiva escritura de compraventa, hubiere celebrado matrimonio o acuerdo de unión civil, o conviviere con una persona que sea propietaria, o hubiere adquirido ya sea él, su cónyuge, conviviente civil o conviviente, una vivienda o sitio a cualquier título, aunque lo hubiesen transferido posteriormente; hubiere sido beneficiado con un subsidio habitacional para la compra de una vivienda; o hubiere obtenido una infraestructura sanitaria de las instituciones del Sector Vivienda o de las Municipalidades.
+
 Tampoco tendrán derecho a cobrar el subsidio las personas que habiendo tenido derechos en comunidad sobre una vivienda al postular al subsidio, o habiéndolos tenido su cónyuge, no acreditaren, mediante la correspondiente escritura pública inscrita, que han hecho cesión de sus derechos en esa comunidad.
 
 #### Artículo 30°
 
-Obligaciones y prohibiciones.
+Obligaciones y Prohibiciones.
 
-En razón del subsidio recibido, la vivienda que se adquiera quedará sujeta a las obligaciones y prohibiciones a que se refiere el artículo 39 del DS N° 1 (V. y U.), de 2011.
+En razón del subsidio recibido, la vivienda que se adquiera de conformidad a este Reglamento, deberá ser habitada personalmente por el beneficiario del subsidio y/o su núcleo familiar, de acuerdo a la información que se obtenga del Servicio de Registro Civil e Identificación, a lo menos durante 20 años, en el caso de viviendas adquiridas con subsidio para familias vulnerables, de acuerdo a lo indicado en la letra c), del artículo 2° y a lo menos durante 10 años, en el caso de viviendas adquiridas con subsidio para familias de sectores medios, según lo dispuesto en la letra d) del artículo 2°, del presente decreto.
 
-En caso de incumplimiento de dicha normativa, se aplicará al beneficiario infractor lo establecido en el artículo 40 del DS N° 1 (V. y U.), de 2011, en lo que fuera procedente.
+Para los efectos de lo dispuesto en el inciso anterior, se entenderá por vivienda habitada la que constituya morada habitual del beneficiario o de alguna de las personas que integran su núcleo familiar.
+
+Asimismo, durante un plazo de 20 años o de 10 años, según el subsidio con que se adquiera la vivienda, el beneficiario no podrá enajenar la vivienda ni celebrar acto o contrato alguno que importe cesión del uso y goce de la misma, sea a título gratuito u oneroso.
+
+Los plazos de las prohibiciones antes señaladas, se contarán a partir de su inscripción en el Conservador de Bienes Raíces respectivo.
+
+Las prohibiciones antes señaladas se inscribirán en el respectivo registro del Conservador de Bienes Raíces competente. Transcurrido los plazos indicados se procederá a su alzamiento al solo requerimiento del interesado.
+
+El Serviu autorizará la enajenación de la vivienda antes del cumplimiento de los plazos establecidos, en cada caso, bajo la condición que la venta se realice a personas beneficiarias de un subsidio para la adquisición de una vivienda, y que se aplique, en lo que corresponda, el procedimiento de autorización de venta y alzamiento anticipado de las prohibiciones, de acuerdo a lo señalado en el artículo 41 del DS N°1 (V. y U.), de 2011, o que se restituya el o los subsidios recibidos al valor de la Unidad de Fomento vigente a la fecha de la restitución, quedando además, en estos casos, impedido de postular a los Programas de Subsidio Habitacional del Minvu. El nuevo adquirente de esta vivienda quedará sujeto a las prohibiciones establecidas en el presente artículo, según aplique un subsidio para familias vulnerables o de sectores medios.
+
+La infracción por parte del beneficiario de cualquiera de las obligaciones y prohibiciones antes señaladas, como asimismo de alguna de las establecidas en el presente Reglamento, dará derecho al Serviu para exigir la restitución de la totalidad de los dineros recibidos por concepto de subsidios, al valor de la Unidad de Fomento vigente a la fecha de la restitución.
 
 #### Artículo 31°
 
 Infracciones.
 
-En caso que la Entidad Desarrolladora no cumpla con la ejecución, término y venta de las viviendas a las familias, o que no cumpla con lo establecido en este Reglamento, por alguna causa que le sea imputable, determinada en el procedimiento correspondiente, se aplicará al efecto el inciso cuarto del artículo 40 del DS N° 1 (V. y U.), de 2011.
+En caso de infracción por parte del beneficiario a las normas del presente Reglamento, se dejará sin efecto la respectiva solicitud de postulación, o se excluirá al infractor de la nómina de seleccionados, o se producirá la caducidad del subsidio, o deberá restituirse la totalidad de los dineros recibidos por concepto de subsidios y bonos, todos al valor de la U.F. vigente a la fecha de la restitución, según corresponda, salvo que esté previsto un efecto diferente para una determinada infracción.
+
+Si las solicitudes, documentos anexos a ellas, u otros instrumentos exigidos por este Reglamento, adolecieren de inexactitud, se aplicará lo dispuesto en el inciso anterior.
+
+Los efectos en caso de infracciones que sean imputables a la Entidad Desarrolladora o en caso que ésta no cumpla con la ejecución del proyecto o que no cumpla con lo establecido en el presente Reglamento, quedarán establecidos en el convenio que suscriba dicha Entidad con el Serviu, de acuerdo a lo señalado en el artículo 14° de este decreto.
+
+Las medidas antes señaladas se aplicarán mediante resoluciones del Secretario Regional Ministerial de Vivienda y Urbanismo, en base el procedimiento establecido en la ley N° 19.880.
 
 #### Artículo segundo
 
