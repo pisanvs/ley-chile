@@ -48,7 +48,15 @@ Extiéndase la vigencia de los Certificados de Revisión Técnica y de Verificac
 
 Extiéndase en dos meses, a partir de la fecha de vencimiento, la vigencia de los Certificados de Revisión Técnica y de Verificación de Emisiones Contaminantes, de los vehículos cuyas revisiones técnicas se efectúan cada 6 (seis) meses, de conformidad con lo dispuesto en el inciso 1º del artículo 7º del decreto supremo Nº 156, de 1990, del Ministerio de Transportes y Telecomunicaciones, y que originalmente venzan durante los meses de marzo a mayo del presente año, ambos inclusive.
 
+No obstante lo anterior, tratándose de vehículos de transporte público remunerado de pasajeros y vehículos de transporte escolar, cuyas revisiones técnicas vencieron originalmente durante los meses de abril y mayo de 2020, la vigencia de sus Certificados de Revisión Técnica y de Verificación de Emisiones Contaminantes se extenderá en cuatro meses a partir de la fecha de vencimiento.
+
 #### Artículo 3°
+
+<!-- parte:10138476 -->
+
+Extiéndase en dos meses, a partir de la fecha de vencimiento, la vigencia de los Certificados de Revisión Técnica y de Verificación de Emisiones Contaminantes de los vehículos de transporte público remunerado de pasajeros y vehículos de transporte escolar cuyas revisiones técnicas originalmente venzan durante los meses de junio y julio de 2020.
+
+#### Artículo 4°
 
 <!-- parte:10113261 -->
 
