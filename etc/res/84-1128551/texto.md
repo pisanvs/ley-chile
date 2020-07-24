@@ -56,7 +56,7 @@ Los directores de Servicio de Salud deberán notificar a la entidad administrado
 
 El monto del aporte estatal se determina aplicando a un aporte general y básico, los criterios de incremento o rebaja, según corresponda, señalados en el artículo 49 de la ley N° 19.378 en la proporción y forma que a continuación se indican:
 
-a) Aporte básico unitario homogéneo. Corresponde al per cápita basal, por beneficiario inscrito en los establecimientos municipales de atención primaria de salud de cada comuna, que corresponde a $6.329.- (seis mil trescientos veintinueve pesos).
+a) Aporte básico unitario homogéneo. Corresponde al per cápita basal, por beneficiario inscrito en los establecimientos municipales de atención primaria de salud de cada comuna, que corresponde a $6.471 (seis mil cuatrocientos setenta y un pesos).
 
 b) Incremento del per cápita basal. El per cápita basal se incrementará en base a los siguientes criterios:
 
