@@ -18,7 +18,7 @@ Decreto:
 
 1.- Establécese que la remuneración mensual de los Directores de la Corporación Nacional del Cobre de Chile-Codelco será la cantidad de $4.126.340 (cuatro millones ciento veintiséis mil trescientos cuarenta pesos), por concepto de asistencia a las sesiones de Directorio. Para que proceda el pago de la remuneración se requerirá la asistencia de al menos a una sesión de Directorio por mes calendario.
 
-2.- Establécese, para el Presidente del Directorio, una remuneración mensual única de $8.752.678 (ocho millones doscientos cincuenta y dos mil seiscientos setenta y ocho pesos).
+2.- Establécese, para el Presidente del Directorio, una remuneración mensual única de $8.252.678 (ocho millones doscientos cincuenta y dos mil seiscientos setenta y ocho pesos).
 
 3.- Determínase, además, que en el caso de los Directores que deban integrar el Comité de Directores, sea aquel a que se refiere el artículo 50 bis) de la ley Nº 18.046 u otro distinto que establezcan los estatutos de Codelco, estos deberán recibir la suma única adicional mensual de $1.375.445.- (un millón trescientos setenta y cinco mil cuatrocientos cuarenta y cinco pesos) por su participación en ellos, cualquiera sea el número de los comités en los que participen. Adicionalmente, quien presida el Comité de Directores deberá recibir una remuneración única mensual por concepto de participación en comités en los que participen. Adicionalmente, quien presida el Comité de Directores deberá recibir una remuneración única mensual por concepto de participación en comités de $2.750.893.- (dos millones setecientos cincuenta mil ochocientos noventa y tres pesos).
 
