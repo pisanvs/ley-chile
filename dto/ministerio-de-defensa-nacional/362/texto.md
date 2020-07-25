@@ -194,9 +194,7 @@ Realizar actividades de control de tránsito aéreo bajo la supervisión directa
 
 (d) Certificación Médica Aeronáutica: La que corresponda de acuerdo a lo establecido en el Reglamento pertinente;
 
-(e) Competencia Lingüística: Estar capacitado para leer, hablar, escribir y entender el idioma español y poseer la Certificación de Competencia Lingüística en idioma inglés conforme lo establecido por la OACI al nivel 4 "Operacional" como mínimo; y
-
-Tratándose de personal de las Fuerzas Armadas, el requisito establecido en la letra (b) precedente se entenderá cumplido con el Título Técnico de Nivel Superior otorgado por sus respectivos establecimientos educacionales. Adicionalmente, dicho personal deberá tener aprobado un curso de especialización en la Escuela Técnica Aeronáutica que lo habilite para desempeñarse en control de tránsito aéreo no militar, sin perjuicio de lo dispuesto en el numeral 65.19.
+(e) Competencia Lingüística: Estar capacitado para leer, hablar, escribir y entender el idioma español y poseer la Certificación de Competencia Lingüística en idioma inglés conforme lo establecido por la OACI al nivel 4 "Operacional" como mínimo.
 
 65.105 Experiencia reciente y renovación de la licencia
 
