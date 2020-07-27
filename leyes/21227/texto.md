@@ -106,6 +106,8 @@ Para efecto del pago de las pensiones alimenticias debidas por ley, que hayan si
 
 No se aplicarán las normas del presente Título I a las trabajadoras que se encuentren gozando del fuero laboral a que hace referencia el artículo 201 del Código del Trabajo.
 
+Sin perjuicio de lo anterior, el empleador propenderá a ofrecer a las trabajadoras embarazadas adecuar sus modalidades de trabajo presencial a otras más apropiadas para el cuidado de su proceso de gestación.
+
 #### Artículo 6 ter
 
 En el evento de que el empleador pusiere término al contrato de trabajo luego de haberse acogido a las prestaciones de esta ley, las indemnizaciones a que se refieren los artículos 163, 163 bis, 168, 169, 170 y 171 del Código del Trabajo deberán considerar como base de cálculo la última remuneración mensual devengada por el trabajador, según los artículos 163 y 172 del Código del Trabajo.
