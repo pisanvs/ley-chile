@@ -1,0 +1,39 @@
+INICIA PROCEDIMIENTO PARA DEJAR SIN EFECTO LA RESOLUCIÓN Nº 339 EXENTA DE 18 DE FEBRERO DE 2020, COMPLEMENTANDO LO RESUELTO MEDIANTE RESOLUCIÓN Nº 1.138 EXENTA DE 3 DE JUNIO DE 2020, POR MOTIVO QUE INDICA
+
+Núm. 1.343 exenta.- Valparaíso, 8 de julio de 2020.
+
+Vistos:
+
+Carta de doña Mariana Isabel Aravena Friz de fecha 7 de febrero de 2020; resolución exenta Nº 2.560 de fecha 16 de diciembre de 2011; resolución exenta Nº 9.838 de fecha 22 de octubre de 2015; resolución exenta Nº 3.583 de fecha 9 de agosto de 2019; resolución exenta Nº 4.199 de fecha 5 de septiembre de 2019 y resolución exenta Nº 5.320 de fecha 20 de noviembre de 2019, todas del Servicio Nacional de Pesca y Acuicultura; Sentencia en causa rol Nº 2560 de la Corte de Apelaciones de Concepción de fecha 3 de junio de 2019; Informe Técnico Nº 3666 de fecha 30 de marzo de 2020; Hoja de Envío/P. A/Nº 166470 de fecha 7 de mayo de 2020; la resolución exenta Nº 1.138 de 3 de junio de 2020, publicada en el DO el 12 de junio de 2020; el DFL Nº 5 de 1983 y sus modificaciones; el decreto Nº 430, de 1991, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 18.892 y sus modificaciones, Ley General de Pesca y Acuicultura, y el decreto supremo Nº 388, de 1995 y sus modificaciones del Ministerio de Economía, Fomento y Turismo; ley Nº 19.880, que Establece Bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado; y la resolución Nº 7 y N° 8 de 2019 de la Contraloría General de la República.
+
+Considerando:
+
+Que, con fecha 3 de junio de 2019, la Tercera Sala de la Corte de Apelaciones de Concepción, en causa rol Nº 2560-2018, resolvió recurso de apelación deducido por doña Mariana Isabel Aravena Friz, cédula de identidad Nº 8.462.839-5 en contra de sentencia definitiva en causa rol C-2654-2016 caratulada "Aravena/Pino" del 2º Juzgado Civil de Talcahuano, declarando resuelto el contrato de reemplazo celebrado con fecha 4 de agosto de 2011 entre doña Mariana Isabel Aravena Friz, ya individualizada, como reemplazada y don Jorge Maximiliano Pino Alarcón, cédula de identidad Nº 12.704.233-0, como reemplazante.
+
+Que, el tribunal de alzada, funda su decisión en que se dio por acreditado en causa rol C-2654-2016 caratulada "Aravena/Pino" del 2º Juzgado Civil de Talcahuano, el incumplimiento de don Jorge Maximiliano Pino Alarcón, en su calidad de reemplazado, consistente en no pagar el precio estipulado en el contrato de reemplazo por el cual se le vendió, cedió y transfirió la inscripción en el Registro Artesanal RPA Nº 957367, correspondiente a la embarcación "Adriana VIII", matrícula Nº 2626 de Coronel y así como la inscripción RPA Nº 20957 en las categorías de armador artesanal y pescador artesanal propiamente tal.
+
+Que, el referido trámite se realizó por doña Mariana Isabel Aravena Friz, cédula de identidad Nº 8.462.839-5, como reemplazada y don Jorge Maximiliano Pino Alarcón, cédula de identidad Nº 12.704.233-0, como reemplazante, solicitud de reemplazo total respecto de la inscripción en el Registro Artesanal RPA Nº 957367, correspondiente a la embarcación "Adriana VIII", matrícula Nº 2626 de Coronel y de la inscripción RPA Nº 20957 en las categorías de armador artesanal y pescador artesanal propiamente tal.
+
+Que, mediante resolución exenta Nº 2.560 de fecha 16 de diciembre de 2011, citada en vistos, se resolvió la mentada solicitud, en el sentido de acogerla.
+
+Que, a la fecha de la mencionada resolución, se acreditó ante el tribunal de alzada, que el precio del contrato de reemplazo en cuestión no había sido pagado por el reemplazado, incumpliendo la cláusula segunda del mismo contrato de reemplazo que establece que el plazo para que se pague el precio se cuenta desde que la inscripción que se enajena aparezca inscrita en el Registro Pesquero Artesanal a nombre del comprador.
+
+Que, sin perjuicio de lo anterior, la decisión del Tribunal afecta una serie de actos de este Servicio, así como derechos de terceros involucrados, teniendo en cuenta que en autos no se dictó ninguna medida cautelar que tuviera por objeto la prohibición de celebrar actos y contratos respecto de la embarcación objeto del trámite.
+
+Que, en razón de lo anterior, con fecha 3 de junio de 2020, mediante resolución exenta Nº 1.138, citada en vistos, este Servicio inició procedimiento para dejar sin efecto las resoluciones exentas Nº 2.560 de 16 de diciembre de 2011, Nº 9.838 de 22 de octubre de 2015, Nº 3.583 de 9 de agosto de 2019, Nº 4.199 de 5 de septiembre de 2019 y Nº 5.320 de 20 de noviembre de 2019.
+
+Que, revisados los antecedentes relativos al objeto de la referida sentencia, se pudo constatar que se excluyó del análisis la resolución exenta Nº 339 de 18 de febrero de 2020, la cual acogió el trámite de reemplazo parcial entre don Omar Antonio Bustos Fernández como reemplazante y doña Yanira Cristina Bustos Fernández como reemplazante, respecto de la embarcación Sin Comentario, RPA Nº 968709, continuadora legal de la embarcación "Adriana VIII", matrícula Nº 2626 de Coronel.
+
+Que, atendido a que la decisión del Tribunal que este Servicio debe cumplir, implica la afectación de derechos de al menos el Sr. Omar Antonio Bustos Velozo y doña Yanira Cristina Bustos Fernández, es que se otorgará un plazo de 10 días hábiles, contados desde la notificación del presente acto, para que los afectados puedan ejercer las acciones legales que estimen pertinentes ante los Tribunales de Justicia en resguardo de sus derechos.
+
+Que, transcurrido el plazo de 10 días, el Servicio procederá a ejecutar la sentencia del Tribunal, retrotrayéndose el estado de cosas como si no se hubiera celebrado el reemplazo entre doña Mariana Isabel Aravena Fritz y don Jorge Maximiliano Pino Alarcón, quedando por lo tanto la inscripción RPA Nº 20957 de la embarcación "Adriana VIII", matrícula Nº 2626 de Coronel a nombre de la primera, incluyendo su inscripción en la categoría de Pescador propiamente tal.
+
+Resuelvo:
+
+1.- Iníciase procedimiento para dejar sin efecto la resolución exenta Nº 339 de 18 de febrero de 2020, la cual acogió el trámite de reemplazo parcial entre don Omar Antonio Bustos Fernández como reemplazado y doña Yanira Cristina Bustos Fernández como reemplazante, respecto de la embarcación Sin Comentario, RPA Nº 968709, con motivo de la sentencia dictada por la I. Corte de Apelaciones de Concepción, en causa rol Nº 2560 de 3 de junio de 2019 que declaró resuelto el contrato de reemplazo celebrado con fecha 4 de agosto de 2011 entre doña Mariana Isabel Aravena Friz, ya individualizada, como reemplazada y don Jorge Maximiliano Pino Alarcón, cédula de identidad Nº 12.704.233-0, como reemplazante.
+
+2.- Confiérase el plazo de 10 días hábiles administrativos de conformidad con la ley 19.880, a don Omar Antonio Bustos Velozo y doña Yanira Cristina Bustos Fernández, y demás interesados para que, tomando conocimiento del presente procedimiento, ejerzan las acciones pertinentes ante los Tribunales de Justicia, el referido plazo comenzará a correr desde la publicación del presente acto en el Diario Oficial.
+
+3.- La presente resolución podrá ser impugnada por la interposición de los recursos de reposición y jerárquico, contemplados en el artículo 59º de la ley 19.880, ante este Servicio y dentro del plazo de 5 días hábiles contado desde la respectiva notificación, sin perjuicio de la aclaración del acto dispuesta en el artículo 62º del citado cuerpo legal y de las demás acciones y recursos que correspondan de acuerdo con la normativa vigente.
+
+Anótese, comuníquese, notifíquese y publíquese a texto íntegro en el Diario Oficial.- Alicia Gallardo Lagno, Directora Nacional, Servicio Nacional de Pesca y Acuicultura.
