@@ -12,9 +12,13 @@ Créanse los Establecimientos Penitenciarios que se señalan a continuación, ub
 
 a) Centro de Detención Preventiva (CDP)
 
-b) Centro de Cumplimiento Penitenciario (CCP) c) Centro Penitenciario Femenino (CPF)
+b) Centro de Cumplimiento Penitenciario (CCP)
 
-d) Unidad Especial de Alta Seguridad (UEAS) e) Unidad de Cuidados Especiales (UCE)
+c) Suprimida.
+
+d) Unidad Especial de Alta Seguridad (UEAS)
+
+e) Unidad de Cuidados Especiales (UCE)
 
 #### Artículo 2º
 
