@@ -270,7 +270,7 @@ En aquellos casos en que el prestador evaluado se encontrare en situación de se
 
 #### Artículo 29
 
-La verificación del cumplimiento del plan de corrección aprobado, se efectuará en un nuevo proceso de evaluación, dirigido solamente a esta materia y cuyo arancel corresponderá a la mitad del correspondiente al proceso de acreditación que lo causó.
+La verificación del cumplimiento del plan de corrección aprobado, se efectuará en un nuevo proceso de evaluación, dirigido solamente a esta materia. Este arancel corresponderá a un cuarto del correspondiente al proceso de acreditación que lo causó y el recargo por distancia a que se refiere el inciso final del artículo 35 será de 15 UTM.
 
 Esta nueva evaluación será solicitada por el prestador en el plazo de diez días hábiles contados desde el vencimiento del plan de corrección, si así no lo hiciere o el procedimiento fracasare el prestador quedará no acreditado y, en consecuencia, la Intendencia cancelará su inscripción en el registro correspondiente.
 
@@ -284,7 +284,7 @@ Las entidades acreditadoras y el Secretario Regional Ministerial de Salud, en su
 
 #### Artículo 31
 
-Para el exclusivo efecto del pago de los aranceles correspondientes, se considerará prestador institucional de atención cerrada a aquel que cuente con autorización sanitaria otorgada en conformidad a la normativa aplicable a los hospitales y clínicas, todos los demás se entenderán ser de atención abierta.
+Para el exclusivo efecto del pago de los aranceles correspondientes, se considerará prestador institucional de atención cerrada a aquel que cuente con autorización sanitaria otorgada en conformidad a la normativa aplicable a los hospitales y clínicas, y de atención específica a aquel que cuente con autorización sanitaria expresa para funcionar de forma separada a un prestador institucional. Todos los demás se entenderán ser de atención abierta.
 
 #### Artículo 32
 
@@ -331,6 +331,20 @@ a) De alta complejidad: 180 UTM
 b) De mediana complejidad: 160 UTM
 
 c) De baja complejidad: 140 UTM
+
+C. Atención Específica:
+
+a) De Atención Psiquiátrica Cerrada: 150 UTM
+
+b) Centros de Diálisis: 160 UTM
+
+c) Centros de Tratamiento y Rehabilitación de personas con consumo perjudicial o dependencia a alcohol o drogas: 70 UTM
+
+d) Servicios de Esterilización: 140 UTM
+
+e) Servicios de Quimioterapia Ambulatoria: 160 UTM
+
+f) Servicios de Radioterapia: 180 UTM
 
 ### II. Estándares específicos:
 
