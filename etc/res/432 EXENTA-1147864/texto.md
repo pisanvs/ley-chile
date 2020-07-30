@@ -1,0 +1,5 @@
+DECLARA FORMALMENTE ABIERTO EL PROCESO DE OTORGAMIENTO O RENOVACIÓN DE PERMISO DE OPERACIÓN PARA CASINOS DE JUEGO
+
+Por resolución exenta Nº 432, de 27 de julio de 2020, Superintendencia de Casinos de Juego declara formalmente abierto el proceso de otorgamiento o renovación de permiso de operación para casinos de juego. Las Bases Técnicas podrán ser descargadas del sitio http://betchile.scj.cl/apertura-del-proceso/ o retiradas en las dependencias de la Superintendencia, ubicadas en calle Morandé Nº 360, piso 11, comuna de Santiago. La descarga o retiro de Bases Técnicas podrá efectuarse desde el 27 de julio de 2020 hasta el 17 de enero de 2021. Se fija como fecha de entrega de las ofertas técnicas y económicas el lunes 18 de enero de 2021, a las 10:00 hrs., en el Hotel Gran Palace, calle Huérfanos Nº 1178, comuna de Santiago.
+
+Santiago, 27 de julio de 2020.- Vivien Villagrán Acuña, Superintendenta de Casinos de Juego.
