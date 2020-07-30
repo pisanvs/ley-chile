@@ -6,7 +6,7 @@ Visto:
 
 1. Lo dispuesto en el decreto supremo Nº 1.426, de 2012, del Ministerio de Hacienda, que modifica el decreto supremo N° 793, de 2004, que autoriza a Corfo para contraer obligaciones indirectas, coberturas o subsidios contingentes que se indican, cuyo texto refundido se encuentra aprobado por decreto supremo N° 996, de 2011, y que en su artículo segundo aprueba un nuevo texto refundido, en cuyo artículo 7° bis, inciso final, dispone: "La Corporación de Fomento de la Producción podrá contraer obligaciones indirectas, coberturas y subsidios contingentes, hasta ocho veces el monto de cada fondo, según lo definido en el artículo primero, sin perjuicio de lo cual la Corporación podrá, para cualquiera de los Fondos de Cobertura de Riesgo señalados en el inciso primero, determinar un apalancamiento menor, en función del riesgo de las carteras que cuenten con cobertura Corfo".
 
-2. La resolución (A) N° 13, de 2014, de Corfo, que fijó el nuevo texto refundido del Reglamento de "Comités de Créditos de la Corporación de Fomento de la Producción".
+2. La Resolución (A) Nº 57, de 2014, de Corfo, que fijó el nuevo texto refundido del Reglamento de "Comités de Créditos de la Corporación de Fomento de la Producción".
 
 3. El Acuerdo de Consejo N° 3.041, de 2019, que "Modifica Acuerdo de Consejo N° 2.042, de 1999, modificado por Acuerdos de Consejo N° 2.450, de 2007, N° 2 617, de 2010 y N° 2.784, de 2013, sobre "Comité Ejecutivo de Créditos - CEC", de Corfo".
 
@@ -18,7 +18,7 @@ Resuelvo:
 
 1º Ejecútase el Acuerdo de Consejo N° 3.041, de 2019, que "Modifica Acuerdo de Consejo N° 2.042, de 1999, modificado por Acuerdos de Consejo N° 2.450, de 2007, N° 2.617, de 2010 y N° 2.784, de 2013, sobre "Comité Ejecutivo de Créditos - CEC", de Corfo".
 
-2° Modifícase la resolución (A) N° 13, de 2014, de Corfo, que fijó el nuevo texto refundido del Reglamento de "Comités de Créditos de la Corporación de Fomento de la Producción", en el sentido de incorporar los siguientes párrafos quinto, sexto y séptimo, al numeral 3° de la letra A, del Resuelvo 3°:
+2° Modifícase la Resolución (A) Nº 57, de 2014, de Corfo, que fijó el nuevo texto refundido del Reglamento de "Comités de Créditos de la Corporación de Fomento de la Producción", en el sentido de incorporar los siguientes párrafos quinto, sexto y séptimo, al numeral 3° de la letra A, del Resuelvo 3°:
 
 "El Comité Ejecutivo de Créditos tendrá un Secretario de Actas, función que será desempeñada por un funcionario designado por el Fiscal de Corfo.
 
