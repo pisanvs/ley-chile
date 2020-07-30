@@ -96,7 +96,7 @@ i. La comuna de Puerto Montt
 
 En consecuencia, las localidades señaladas anteriormente entrarán al "Paso 1: Cuarentena" del que trata el Capítulo II de la resolución exenta Nº 591, de 2020, del Ministerio de Salud.
 
-La medida establecida en este numeral empezará a regir a las 22:00 horas del día 28 de julio de 2020, a excepción de las comunas de La Serena, Coquimbo y Puerto Montt, para las que regirá desde las 22:00 horas del día 29 de julio de 2020.
+La medida establecida en este numeral empezará a regir a las 05:00 horas del día 28 de julio de 2020, a excepción de las comunas de La Serena, Coquimbo y Puerto Montt, para las que regirá desde las 22:00 horas del día 29 de julio de 2020.
 
 La medida dispuesta en este numeral regirá de manera indefinida hasta que la situación epidemiológica así lo haga aconsejable.
 
