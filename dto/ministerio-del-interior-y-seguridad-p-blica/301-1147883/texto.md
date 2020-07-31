@@ -1,0 +1,29 @@
+AUTORIZA A MUNICIPALIDADES PARA DISPONER PRÓRROGA DE PAGO DE PATENTE QUE INDICA
+
+Núm. 301.- Santiago, 22 de julio de 2020.
+
+Visto:
+
+Lo establecido en los artículos 32 Nº6 de la Constitución Política de la República; en el decreto con fuerza de ley Nº 1-19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en el decreto Nº 4, de 2020, del Ministerio de Salud, que decreta alerta sanitaria por el periodo que se señala y otorga facultades extraordinarias que indica por emergencia de salud pública de importancia internacional (ESPII) por brote del nuevo coronavirus (2019-NCOV), y sus modificaciones; en el artículo 3º del decreto supremo Nº 104, de 1977, del Ministerio del Interior, que fijó el texto refundido, coordinado y sistematizado del Título I de la ley Nº 16.282, sobre disposiciones permanentes para casos de sismos o catástrofes; en el decreto supremo Nº 107, de 2020, del Ministerio del Interior y Seguridad Pública, que declara como zonas afectadas por catástrofe a las comunas que indica; en la ley Nº 18.695, Orgánica Constitucional de Municipalidades, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 1, de 2006, del Ministerio del Interior; en la ley Nº 21.207, que contempla diversas medidas tributarias y financieras destinadas a apoyar a las micros, pequeñas y medianas empresas; en el artículo primero de la ley Nº 19.925, sobre expendio y consumo de bebidas alcohólicas; en el decreto Nº 2.385, de 1996, del Ministerio del Interior, que fija texto refundido y sistematizado del decreto ley Nº 3.063, de 1979, sobre rentas municipales; y en la resolución Nº 7, de 2019, de la Contraloría General de la República.
+
+Considerando:
+
+1.- Que, con ocasión del brote de Covid-19 que afecta al país, calificado como pandemia por la Organización Mundial de la Salud, S.E. el Presidente de la República, a través del decreto supremo Nº 107, de 2020, del Ministerio del Interior y Seguridad Pública, declaró a las 346 comunas, correspondientes a las dieciséis regiones del país, como zonas afectadas por la catástrofe, en los términos de las disposiciones vigentes del Título I de la ley Nº 16.282, cuyo texto fue refundido, coordinado y sistematizado por el decreto supremo Nº 104, de 1977, del Ministerio del Interior.
+
+2.- Que, a su turno, la autoridad sanitaria, mediante distintas resoluciones exentas del Ministerio de Salud, ha dispuesto una serie de medidas en diversas comunas del país, orientadas a resguardar la salud de la población y a prevenir el contagio de Covid-19, tales como prohibiciones de desplazamiento, cuarentenas, cordones sanitarios y aduanas sanitarias.
+
+3.- Que, estas medidas de aislamiento restringen el normal desarrollo de las actividades particulares y comerciales de los habitantes de la mayoría de las comunas del país, generándoles graves problemas de carácter económico.
+
+4.- Que, de acuerdo al artículo 33 del decreto Nº 2.385, de 1996, del Ministerio del Interior, las patentes de los establecimientos de expendio de bebidas alcohólicas serán clasificadas y otorgadas en la forma que determine la ley Nº 19.925, sobre expendio y consumo de bebidas alcohólicas. Lo anterior, sin perjuicio de quedar afectos a la contribución que dispone el artículo 24 de dicho decreto, referido a las patentes comerciales, y a las normas de la ley Nº 18.695, en lo que fueren pertinentes.
+
+5.- Que, en virtud de lo señalado en el artículo 3º letra d) de la ley Nº 16.282, cuyo texto fue fijado por el decreto supremo Nº 104, de 1977, del Ministerio del Interior, el Presidente de la República podrá, por decreto supremo fundado, autorizar a los organismos correspondientes para que puedan fijar nueva fecha de pago o prórrogas de los impuestos de cualquier clase que graven la propiedad, las personas o sus rentas, actos o contratos que sean devengados en la zona afectada, así como condonar los intereses penales, multas y sanciones.
+
+6.- Que, de conformidad al inciso segundo del artículo 5º del artículo primero de la ley Nº 19.925, el valor de las patentes de alcoholes deberá ser pagado por semestres anticipados, en los meses de enero y julio de cada año. No obstante, en el contexto actual, se hace necesario adoptar medidas excepcionales y extraordinarias destinadas a enfrentar esta situación de emergencia e implementarlas en las zonas afectadas por la catástrofe, correspondiendo a cada municipio determinar, según las circunstancias de cada comuna y de su propia situación financiera, la factibilidad de adoptar las medidas excepcionales y extraordinarias que se proponen por este acto.
+
+Decreto:
+
+Autorízase a los alcaldes de las comunas declaradas como zonas afectadas por catástrofe para que, previo acuerdo del concejo municipal respectivo, puedan por una sola vez, prorrogar el pago de las patentes otorgadas en conformidad a lo dispuesto en la ley Nº 19.925, sobre expendio y consumo de bebidas alcohólicas, cuyo valor para el segundo semestre no haya sido pagado al 31 de julio de 2020, en dos cuotas, iguales y reajustadas. La primera cuota se pagará junto al pago que corresponde al primer semestre de 2021 y, la segunda, junto al pago que corresponde al segundo semestre de 2021, conforme a lo establecido en el inciso 2º del artículo 5º del artículo primero de la ley Nº 19.925.
+
+Anótese, tómese razón, comuníquese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Gonzalo Blumel Mac-Iver, Ministro del Interior y Seguridad Pública.- Ignacio Briones Rojas, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Juan Francisco Galli Basili, Subsecretario del Interior.
