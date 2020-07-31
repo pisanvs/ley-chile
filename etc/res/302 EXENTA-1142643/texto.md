@@ -20,25 +20,45 @@ Resolución:
 
 1. Llámase a postulación para el otorgamiento de Subsidios para Proyectos para la Vivienda, del Capítulo Segundo, del DS Nº 27 (V. y U.), de 2016, que reglamenta el Programa de Mejoramiento de Viviendas y Barrios, a todas las regiones del país.
 
-2. Los plazos correspondientes a los procesos, fases de postulación y selección de este llamado, serán los siguientes:
+2. Para el presente llamado se realizarán dos procesos de selección, siempre que tras el primer proceso queden recursos disponibles del programa para el año.
 
-a) Digitación de las postulaciones: desde el 24 de febrero al 11 de mayo de 2020.
+a) Los plazos correspondientes al primer proceso de selección, serán los siguientes:
 
-b) Habilitación de las postulaciones y Comunicación de resultados: desde el 15 de mayo hasta el 1 de junio de 2020. En caso de requerirse, el período de digitación podrá prorrogarse dentro del plazo de la Habilitación de las Postulaciones.
+- Digitación de las postulaciones: desde el 24 de febrero al 22 de mayo de 2020.
 
-c) Presentación, Revisión y Calificación de los proyectos: desde el 2 de junio al 17 de julio de 2020.
+- Habilitación de las postulaciones y Comunicación de resultados: desde el 25 de mayo hasta el 11 de junio de 2020. En caso de requerirse, el período de digitación podrá prorrogarse dentro del plazo de la habilitación de las postulaciones.
 
-d) A partir del 20 de julio de 2020, se inicia el proceso de Selección de las postulaciones del presente llamado.
+- Presentación, Revisión y Calificación de los proyectos: desde el 12 de junio al 17 de agosto de 2020. Dentro de dicho plazo, Serviu informará a los postulantes la fecha en que solicitará el ingreso en formato digital del proyecto y la fecha del ingreso del documento con la firma del postulante.
 
-3. Los recursos disponibles para la selección de proyectos de este llamado, serán los siguientes montos por región.
+- Selección de las postulaciones: desde el 18 de agosto de 2020.
 
-Además de los montos señalados, se destinarán recursos específicos para financiar los subsidios de Ampliación de Nuevo Dormitorio a comunas con altos índices de viviendas con hacinamiento según los datos del último censo. Los montos por región se distribuirán a cada comuna, según la demanda. Se remitirá a las regiones el detalle de las Juntas de Vecinos de estas comunas donde se concentra los mayores índices de viviendas con hacinamiento para enfocar los recursos en ellas, e invitar a las Entidades Patrocinantes a desarrollar proyectos para atender este problema. La condición de hacinamiento de la vivienda a postular se verificará mediante los datos del RSH y se corroborará mediante la aplicación del diagnóstico técnico constructivo.
+b) Los plazos correspondientes al segundo proceso de selección, serán los siguientes:
 
-Si tras efectuar la selección de este llamado no se utilizaran la totalidad de los recursos destinados a la Ampliación de Nuevo Dormitorio por hacinamiento, estos se aplicarán a una próxima selección del Capítulo Segundo que se efectuará durante el presente año. Las comunas y su distribución de recursos para este efecto son:
+- Digitación de las postulaciones: desde el 1 septiembre al 28 de septiembre de 2020.
 
-Con estos montos se definirá el número de postulantes que deberán presentar las Carpetas de sus proyectos al Serviu. Asimismo, tendrán que presentar sus carpetas, los postulantes de la lista de espera señalada en el segundo párrafo del numeral 2 del Artículo 27 del DS Nº 27 (V. y U.) de 2016, que se determinará con el equivalente a aproximadamente un 33% de los recursos dispuestos en el presente llamado, no obstante, si el número de proyectos no calificados supera dicho porcentaje, podrán aumentar los postulantes de la lista de espera hasta completar los recursos disponibles.
+- Habilitación de las postulaciones y Comunicación de resultados: desde el 29 de septiembre hasta el 9 de octubre de 2020. En caso de requerirse, el período de digitación podrá prorrogarse dentro del plazo de la habilitación de las postulaciones.
 
-Si una vez concluido el proceso señalado quedaren recursos disponibles, mediante resoluciones que el Ministro de Vivienda y Urbanismo dicte al efecto, se podrán redistribuir los recursos señalados en la tabla precedente.
+- Presentación, Revisión y Calificación de los proyectos: desde el 13 de octubre al 27 de noviembre de 2020. En caso de requerirse, el período de Habilitación podrá prorrogarse.
+
+- Selección de las postulaciones: a partir del 30 de noviembre de 2020, se iniciará el proceso de Selección de las postulaciones del presente llamado.
+
+3. Los recursos disponibles para el primer proceso de selección de proyectos de este llamado, serán los siguientes montos por región.
+
+.
+
+Además de los montos señalados en el cuadro anterior, se destinarán recursos específicos para financiar los subsidios de Ampliación de Nuevo Dormitorio en comunas con altos índices de viviendas con hacinamiento según los datos del último censo. Los montos por región se distribuirán a cada comuna, según la demanda. Se remitirá a las regiones el detalle de las zonas de estas comunas donde se concentran los mayores índices de viviendas con hacinamiento para enfocar los recursos en ellas, e invitar a las Entidades Patrocinantes a desarrollar proyectos para atender este problema. La condición de hacinamiento de la vivienda a postular se verificará mediante los datos del RSH y se corroborará mediante la aplicación del diagnóstico técnico constructivo.
+
+Si tras efectuar la selección de este llamado no se utilizaran la totalidad de los recursos destinados a la Ampliación de Nuevo Dormitorio por hacinamiento, estos se aplicarán al segundo proceso de selección. Las comunas y su distribución de recursos para este efecto son:
+
+.
+
+Con estos montos se definirá el número de postulantes que deberán presentar las Carpetas de sus proyectos al Serviu. Asimismo, la lista de espera señalada en el segundo párrafo del numeral 2 del artículo 27 del DS Nº 27 (V. y U.) de 2016, corresponderá al resto de los postulantes no preseleccionados en el presente llamado, quienes igualmente deberán presentar sus carpetas a Serviu.
+
+Si una vez concluidos los procesos señalados en el resuelvo 2. de la presente resolución, quedaren recursos disponibles, mediante resoluciones que el Ministro de Vivienda y Urbanismo dicte al efecto, se podrán redistribuir los recursos señalados en las tablas precedentes.
+
+El número de proyectos seleccionados en el primer proceso de postulación de este llamado para cada región alcanzará hasta la cantidad de subsidios susceptibles de ser financiados con los recursos disponibles, incluidos los servicios de asistencia técnica que correspondan. Se podrá disminuir los recursos del presente llamado o aumentarlos con cargo a los recursos asignados para el Programa de Mejoramiento de Viviendas y Barrios del año 2020, por resolución del Ministro de Vivienda y Urbanismo.
+
+Asimismo, mediante resolución del Ministro de Vivienda y Urbanismo, se definirán los recursos para financiar los subsidios incluidos los servicios de asistencia técnica que correspondan, para el segundo proceso de selección.
 
 4. El número de proyectos seleccionados en cada Región alcanzará hasta la cantidad de subsidios suceptibles de financiar con los recursos disponibles destinados a este llamado, incluidos los servicios de asistencia técnica que correspondan. Se podrá disminuir los recursos del presente llamado o aumentarlos con cargo a los recursos asignados para el Programa de Mejoramiento de Viviendas y Barrios del año 2020, por resolución del Ministro de Vivienda y Urbanismo.
 
@@ -66,7 +86,11 @@ c. Viviendas cuyo avalúo fiscal vigente al momento de la postulación, sea igua
 
 13. Los subsidios habitacionales que se otorguen conforme a esta resolución se imputarán a los Recursos del año 2020 del Programa de Mejoramiento de Viviendas y Barrios, regulado por el DS Nº 27 (V. y U.) de 2016.
 
-14. Respecto de las exigencias de reuniones de difusión / información, de capacitación o de trabajo en general con las familias y/o los representantes de los grupos y/o comités habitacionales, señaladas en los servicios y actividades de la resolución Ex. N° 1.237 (V. y U.) de 2019, que norma la Prestación de Servicios de Asistencia Técnica y Fiscalización Técnica de Obras del DS N° 27 (V. y U.) de 2016, y que forman parte de las actividades que debe desarrollar la Entidad Patrocinante con las familias pertenecientes a los grupos que postulan al presente llamado, se debe señalar que su ejecución no será obligatoria en la forma establecida en dicha normativa, pudiendo ser reemplazadas éstas por otras vías o mecanismos de participación no presencial, incluyendo a lo menos, en el caso de la difusión y capacitación, la preparación y entrega de material escrito atingente al Programa –y al proyecto específico a desarrollar–, al o los representantes legales del grupo, en el número y copias equivalentes al número de familias del proyecto. Del mismo modo, cuando sea factible, podrá proporcionarse información de forma virtual al o los representantes de las familias, actividades todas que deberán ser previamente aprobadas por Serviu. Tratándose de la aprobación del proyecto, cada familia deberá entregar un documento aprobatorio del mismo, mediante un formato que deberá proporcionarlo el comité, con la firma de cada uno de los beneficiarios del proyecto, sea esto directamente a la EP o a través del o los representantes del grupo.
+14. Respecto de las exigencias de reuniones de difusión / información, de capacitación o de trabajo en general con las familias y/o los representantes de los grupos y/o comités habitacionales, señaladas en los servicios y actividades de la resolución Ex. N° 1.237 (V. y U.) de 2019, que norma la Prestación de Servicios de Asistencia Técnica y Fiscalización Técnica de Obras del DS N° 27 (V. y U.) de 2016, y que forman parte de las actividades que debe desarrollar la Entidad Patrocinante con las familias pertenecientes a los grupos que postulan al presente llamado, se debe señalar que su ejecución no será obligatoria en la forma establecida en dicha normativa, pudiendo ser reemplazadas éstas por otras vías o mecanismos de participación no presencial, incluyendo a lo menos, en el caso de la difusión y capacitación, la preparación y entrega de material escrito atingente al Programa –y al proyecto específico a desarrollar–, al o los representantes legales del grupo, en el número y copias equivalentes al número de familias del proyecto. Se definirá un documento único, donde el postulante firme una vez por todos los documentos que lo requieran, por ejemplo, la aprobación del proyecto, el diagnóstico, la declaración de ser propietario, etc.
+
+15. Los proyectos de ampliación de nuevo dormitorio cuyos postulantes presenten problemas de hacinamiento, y dentro del grupo familiar se encuentren menores de 15 años de edad, duplicarán su puntaje en el segundo proceso de selección.
+
+16. Para calcular el puntaje señalado en las tablas del artículo 80 del DS Nº 27 (V. y U.) de 2016, respecto de la antigüedad de la vivienda, se permitirá presentar además del certificado de recepción definitiva de la vivienda, el certificado de avalúo fiscal detallado del inmueble emitido por el Servicio de Impuestos Internos o la copia de la escritura siempre que en ella se señale el año de construcción y su superficie.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Guillermo Rolando Vicente, Ministro de Vivienda y Urbanismo Subrogante .
 
