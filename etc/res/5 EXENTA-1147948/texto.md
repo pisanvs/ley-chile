@@ -1,0 +1,5 @@
+RESOLUCIÓN EXENTA N° 2020/PA/05/0328, DE FECHA 16 DE JUNIO DE 2020, QUE ORDENA INSTRUIR PROCESO ADMINISTRATIVO Y ACTA DE FISCALIZACIÓN N° 200500408, DE FECHA 26 DE MAYO DE 2020
+
+La Superintendencia de Educación, atendida la exclusión de suspensión resuelta en las resoluciones exentas N° 262, N° 263 y N° 264, todas de fecha 10 de junio de 2020, por resolución exenta N° 2020/PA/05/0328, de fecha 16 de junio de 2020, ordenó instruir proceso administrativo al establecimiento educacional English College, R.B.D. N° 16896-3, de la comuna de Viña del Mar, cuya entidad sostenedora es la Sociedad Educacional San Gabriel Ltda., RUT N° 76.225.602-9. Resuelvo: 1. Instrúyase Proceso Administrativo al establecimiento educacional denominado English College, R.B.D. N° 16896-3, por los hechos consignados en acta de fiscalización N° 200500408, de fecha 26 de mayo de 2020. 2.- Desígnese Fiscal Instructor a doña Renata Silva, correo electrónico renata.silva@supereduc.cl. 3.- Notifíquese la presente resolución. -
+
+Sybil Abarca Carvajal, Encargada Jurídica Superintendencia de Educación Región de Valparaíso.
