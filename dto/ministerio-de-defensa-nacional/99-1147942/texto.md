@@ -1,0 +1,5 @@
+MODIFICACIÓN NO SUSTANCIAL DE CONCESIÓN MARÍTIMA MAYOR
+
+Decreto supremo N° 99, de fecha 25 de febrero de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Amadas, otorgó a Mantoverde S.A., RUT N° 77.020.457-7, Modificación No Sustancial de la concesión marítima mayor otorgada por decreto supremo N° 533, de fecha 5 de agosto de 2011, modificado por DS N° 1.009, de fecha 23 de diciembre de 2011, con vencimiento el 31 de diciembre de 2021. La modificación requerida consiste en Cambio de Razón Social del Titular (Nombre y Rut). Los sectores requeridos corresponden a Terreno de Playa, Playa, Fondo de Mar y Porción de Agua, y se encuentran ubicados en el lugar denominado Punta Roca Baja, comuna de Chañaral, Provincia de Chañaral, Región de Atacama. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Ricardo Henríquez Kremer, Teniente Primero LT, Capitán de Puerto de Chañaral.
