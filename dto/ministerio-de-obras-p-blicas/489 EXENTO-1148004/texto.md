@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 489, de 26 de junio de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 140, Rol de avalúo 618-204, Comuna de Nueva Imperial, superficie 304 m2., para la obra: MEJORAMIENTO CAMINO BÁSICO INTERMEDIO MAQUEHUE - BOROA - PUENTE RAGÑINTULEUFU, COMUNAS DE PADRE LAS CASAS Y NUEVA IMPERIAL, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por CLAUDIO HERNÁN ANGULO SOTOMAYOR, EVALDO ROBERTO CONTRERAS ROA y PABLO ALEX MANSILLA ARAVENA, fijó el valor de tasación con fecha 21 de octubre de 2019, acordándose la indemnización con su propietaria ELBA ALEJANDRA MARIHUAN CAYUQUEO, en la cantidad total de $2.275.632.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
