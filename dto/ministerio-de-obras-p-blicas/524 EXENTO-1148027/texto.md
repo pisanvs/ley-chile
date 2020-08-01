@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 524, de 7 de julio de 2020, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14º letra e), y 105º del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206, de 1960, se expropiaron los lotes de terreno Nºs. 122 y 123, para la obra: "Mejoramiento Rutas S-464 y S-488: Almagro -Barros Arana", que figuran a nombre de SUC. INAIPIL INAIPIL FRANCISCO y SUC. HUINCALES O HUIRCALES PENA VIC, roles de avalúo 622-353 y 622-350, Comuna de Teodoro Schmidt, Región de La Araucanía, superficies 1.549 m2 y 1.706 m2, respectivamente. La Comisión de Peritos integrada por Pablo Alex Mansilla Aravena, Claudio Hernan Angulo Sotomayor y Handy Ghislaine Campos Sepulveda, mediante informe de tasación de fecha 13 de julio de 2015, fijó el monto de las indemnizaciones provisionales en las cantidades de $1.433.120.-, para el lote Nº122 y $1.581.280.-, para el lote Nº123. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
