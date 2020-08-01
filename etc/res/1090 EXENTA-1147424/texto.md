@@ -34,13 +34,13 @@ f) Los correos electrónicos de fecha 10 de julio de 2020, que dan cuenta de la 
 
 Resolución:
 
-1. Llámase a postulación en condiciones especiales a los arrendatarios que, siendo parte de la población de hasta el 90% más vulnerable del país según su Registro Social de Hogares, su contrato de trabajo se haya suspendido, hayan quedado cesantes o sus ingresos hayan disminuido en a lo menos un 30%, para el otorgamiento de subsidios habitacionales del Programa de Subsidio de Arriendo de Vivienda, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013. Los Servicios de Vivienda y Urbanización (Serviu) procederán directamente, o a través de los medios electrónicos que se establezcan al efecto, a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deban acompañarlas.
+1. Llámase a postulación en condiciones especiales a los arrendatarios que, contando con Registro Social de Hogares, su contrato de trabajo se haya suspendido, hayan quedado cesantes o sus ingresos hayan disminuido en a lo menos un 30%, para el otorgamiento de subsidios habitacionales del Programa de Subsidio de Arriendo de Vivienda, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013. Los Servicios de Vivienda y Urbanización (Serviu) procederán directamente, o a través de los medios electrónicos que se establezcan al efecto, a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deban acompañarlas.
 
 2. Las postulaciones se recibirán a partir de la fecha de publicación en el Diario Oficial de la presente resolución y hasta el 24 de agosto de 2020, efectuándose tres procesos de selección. Quienes no sean considerados en una selección, continuarán postulando y podrán ser contemplados en el siguiente proceso.
 
 3. Para postular al llamado a que se refiere el numeral 1. de esta resolución exenta, los postulantes deberán cumplir con las siguientes condiciones:
 
-3.1. Pertenecer hasta el 90% más vulnerable de la población nacional según su Registro Social de Hogares (RSH).
+3.1. Contar con Registro Social de Hogares (RSH).
 
 3.2. Acreditar su cesantía o disminución de al menos 30% en los montos de ingresos mediante uno de los siguientes documentos:
 
@@ -52,7 +52,7 @@ Resolución:
 
 3.2.4. Informe emitido por el Servicio de Impuestos Internos respecto de los seis últimos meses de boletas de honorarios.
 
-3.3. Contar con Núcleo Familiar para lo que deberá presentar Declaración de Núcleo Familiar o Convivencia en formato definido por el Minvu. Las personas que sean declaradas por el postulante como miembros de su núcleo familiar deberán formar parte de su Registro Social de Hogares. No podrán presentarse postulaciones unipersonales con excepción de los adultos mayores y las personas con discapacidad, situación que se deberá acreditar mediante la inscripción en el Registro Nacional de la Discapacidad a que se refiere el artículo 55 de la Ley Nº 20.422, que Establece Normas Sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad.
+3.3. Contar con Núcleo Familiar el que será verificado en el RSH. No se exigirá esta condición a los adultos mayores y a las personas con discapacidad, siempre que dicha condición esté contemplada en su RSH.
 
 3.4. Presentar contrato de arriendo vigente, en el que podrá ser arrendatario el postulante o alguno de los integrantes del núcleo familiar declarado.
 
@@ -64,9 +64,9 @@ Resolución:
 
 4.2. Haber sido celebrado con anterioridad al 31 de mayo de 2020.
 
-4.3. La renta de arrendamiento pactada no podrá exceder la suma de $400.000 (cuatrocientos mil pesos) mensuales. En el caso de las regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Aysén del General Carlos Ibáñez del Campo y Magallanes y de la Antártica Chilena, la renta de arrendamiento podrá ser de hasta $500.000 (quinientos mil pesos) mensuales.
+4.3. La renta de arrendamiento pactada no podrá exceder la suma de $600.000 (seiscientos mil pesos) mensuales.
 
-4.4. Contener con la individualización del arrendatario y del arrendador (nombre y cédula de identidad).
+4.4. Contener la individualización del arrendatario y del arrendador (nombre y cédula de identidad).
 
 5. Respecto de la vivienda objeto del contrato se requerirá entregar los siguientes datos y acompañar los documentos que se indican a continuación:
 
@@ -74,23 +74,31 @@ Resolución:
 
 5.2. Número de rol de avalúo.
 
-5.3. Declaración jurada por el arrendador extendida en formato tipo proporcionado por el Minvu, en la que, junto con manifestar que es dueño de la vivienda y que ésta no se encuentra sujeta a embargo, se compromete a participar en el marco de este Llamado.
+5.3 Declaración jurada por el arrendador otorgada, mediante formato tipo aportado por el Minvu, en la que junto con manifestar que es dueño de la vivienda, que ésta cuenta con Recepción Municipal y que no se encuentra sujeta a embargo, se compromete a participar en el marco de este Llamado. El Serviu podrá solicitar antecedentes adicionales que permitan verificar la veracidad de las declaraciones. En caso de comprobarse por parte del Serviu, falsedad en la declaración jurada, el arrendador incurrirá en las penas del Artículo 210 del Código Penal.
 
-5.4. Contar con Recepción Municipal lo que se acreditará con copia de la escritura pública a través de la cual el arrendador adquirió el inmueble, cuando en ésta conste su recepción. En caso de viviendas construidas por los Serviu o sus antecesores legales, bastará la certificación extendida por el mismo servicio. En caso que no conste la Recepción Municipal, el Serviu solicitará antecedentes adicionales que permitan verificarla.
+5.4. Eliminado.
 
-6. Los postulantes al presente llamado serán eximidos de los siguientes requisitos y liberados de las condiciones que se indican, establecidos en el DS N° 52 (V. y U.), de 2013:
+6. Los postulantes al presente llamado serán eximidos de los siguientes requisitos y liberados de las condiciones que se indican, establecidos en el DS Nº 52 (V. y U.), de 2013:
 
-6.1. De los montos y límites en el valor del subsidio establecidos en el artículo 5°.
+6.1. Del límite en el valor del subsidio establecido en el artículo 5º.
 
-6.2. De contar con el ahorro mínimo dispuesto en el artículo 6°.
+6.2. De contar con el ahorro mínimo dispuesto en el artículo 6º.
 
-6.3. De que el núcleo familiar se conforme de acuerdo a lo dispuesto en la letra e., del artículo 16.
+6.3. De lo dispuesto en la letra e., del artículo 16, salvo respecto a la necesidad de contar con Núcleo Familiar el que, sin embargo, no deberá estar conformado en la forma que indica.
 
 6.4. De contar con ingresos familiares dispuesto en la letra f., del artículo 16.
 
-6.5. Del impedimento de contar con certificado de subsidio habitacional vigente, condición establecida en la letra f. del artículo 21.
+6.5. De la prohibición de estar en el RSH de otro Núcleo Familiar postulante al presente llamado, dispuesta en la letra a. del artículo 21.
 
-6.6. De la prohibición relativa a estar postulando a otro programa habitacional, establecida en la letra g. del artículo 21.
+6.6. Del impedimento de ser propietario de una vivienda, establecido en la letra b. del artículo 21.
+
+6.7. De la restricción de contar con beneficio habitacional anterior, conforme a lo dispuesto en la letra d. del artículo 21.
+
+6.8. De la limitación de ser beneficiario del Programa de Subsidio de Arriendo de Vivienda, dispuesta en la letra e. del artículo 21.
+
+6.9. Del impedimento de contar con certificado de subsidio habitacional vigente, condición establecida en la letra f. del artículo 21.
+
+6.10. De la prohibición relativa a estar postulando a otro programa habitacional, establecida en la letra g. del Artículo 21.
 
 7. Se podrá postular con cédulas de identidad vencidas durante el año 2020 o con comprobante de cédula de identidad en trámite de renovación.
 
@@ -104,13 +112,15 @@ Resolución:
 
 12. El arrendador podrá presentar la declaración jurada que se indica en resuelvo 5.3 de la presente resolución o copia simple del certificado de dominio vigente, no aplicándose la exigencia de presentar en original el certificado de dominio vigente dispuesto en la letra a. del artículo 37, del DS N° 52 (V. y U.), de 2013.
 
-13. El monto mensual máximo del subsidio destinado a cada beneficiado será de 5,2 Unidades de Fomento (UF), por un monto total de 15,6 UF.-. Se otorgará por un período de tres meses.
+13. El monto mensual máximo del subsidio destinado a cada beneficiado será de hasta $250.000.- (doscientos cincuenta mil pesos) en su equivalente a Unidades de Fomento (UF) a la fecha del pago, por un monto total de hasta $750.000.- (setecientos cincuenta mil pesos), este valor se ajustará de manera que siempre exista un copago mínimo de un 30% de la renta de arrendamiento fijada en el contrato. Se otorgará por un período de tres meses.
 
-14. El monto total de los recursos que se destinarán al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de hasta 392.000 UF, correspondientes a 25.000 subsidios, los que se distribuirán según la tabla que se presenta a continuación, pudiendo practicarse mediante resolución modificaciones, o incrementos de recursos, así como ser redistribuidos en las regiones incluidas en este llamado:
+14. El monto total de los recursos que se destinarán al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de hasta 392.165 UF, correspondientes a 18.750 subsidios, los que se distribuirán según la tabla que se presenta a continuación, pudiendo practicarse mediante resolución modificaciones, o incrementos de recursos, así como ser redistribuidos en las regiones incluidas en este llamado:
 
 .
 
-15. Establécese que, en todo aquello que no se encuentre regulado por el presente llamado, se aplicará lo dispuesto en el DS Nº 52 (V. y U.), de 2013, y sus modificaciones, que reglamenta el Programa de Subsidio de Arriendo de Vivienda.
+15. Establécese que no se considerarán los factores de puntajes dispuestos en las letras g., h. e i. del artículo 25 del DS Nº 52 (V. y U.), de 2013, y se otorgará un puntaje adicional de 100 puntos a quienes no hayan sido beneficiados con el Ingreso Familiar de Emergencia, dispuesto en la ley Nº 21.230, del Ministerio de Desarrollo Social y Familia, de 2020.
+
+16. Establécese que, en todo aquello que no se encuentre regulado por el presente llamado, se aplicará lo dispuesto en el DS Nº 52 (V. y U.), de 2013, y sus modificaciones, que reglamenta el Programa de Subsidio de Arriendo de Vivienda.
 
 Anótese, publíquese y archívese.- Guillermo Rolando Vicente, Ministro de Vivienda y Urbanismo Subrogante.
 
