@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°447, de 22 de junio de 2020 y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 39 y 40, para la obra: MEJORAMIENTO RUTA C-495, SECTOR LA FRAGUA-JUNTA DE VALERIANO, que figuran a nombre de IBARRA MORAGA MARIA LORENA roles de avalúo 912-25, Comuna de ALTO DEL CARMEN, REGIÓN DE ATACAMA, superficies 301 y 407 m2. respectivamente. La Comisión de Peritos integrada por NORMAN ESTANISLAO CALDERON PONTIGGIA, XIMENA ELIANA PEÑALOZA HERRERO y CLAUDIO ANDRES CONCHA GROSSI, mediante informe de tasación de 18 de noviembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $638.150, para el lote N°39 y $991.550, para el lote N°40. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
