@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº450, de 22 de junio de 2020 y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 12, para la obra: MEJORAMIENTO PAVIMENTO RUTA G-814 LEYDA - CUNCUMEN, que figura a nombre de AGRICOLA LOS VALLES S.A., rol de avalúo 9053-67, Comuna de SAN ANTONIO, REGIÓN DE VALPARAÍSO, superficie 1.929 m2. La Comisión de Peritos integrada por BERNARDO LUIS VERA MANDAKOVIC, CARMEN PILAR RIOS MARCUELLO y MARCELO GABRIEL OYARZO SALDIAS, mediante informe de tasación de 21 de abril de 2018, fijó el monto de la indemnización provisional en la cantidad de $14.189.800, para el lote Nº12. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
