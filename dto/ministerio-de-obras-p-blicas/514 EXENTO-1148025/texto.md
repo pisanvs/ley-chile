@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 514, de 7 de julio de 2020 y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c) y 14° letra e) del DFL. MOP. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N° 206 de 1960; artículo 12° de la Ley N° 18.777, se expropió para ESSBIO S.A., el lote de terreno N° 1, para la obra: HABILITACION FUENTE RÍO CURANILAHUE Q: 20 L/S, que figura a nombre de FORESTAL ARAUCO S A, rol de avalúo 503-1, Comuna de CURANILAHUE, REGION DEL BIOBÍO, superficie 5.077,11 m2. La Comisión de Peritos integrada por LEONARDO EUGENIO FASCE CASANUEVA, JULIO DENIS LEPEZ ANZIANI y ALEXANDER THEODOR BOYE TRENIT, mediante informe de tasación de fecha 29 de febrero de 2016, fijó el monto de la indemnización provisional en la cantidad de $108.512.846.- para el lote N°1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
