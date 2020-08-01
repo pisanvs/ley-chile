@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 102, de 25 de febrero de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Sr. Augusto Amado Álvarez Vera, RUT 8.730.279-2, concesión marítima menor, con vencimiento el 31 de diciembre de 2024 sobre un sector de Playa y Porción de Agua, en el lugar denominado Caleta Rilan Sur, al sur de Isla Lev, comuna de Castro, Provincia de Chiloé, Región de Los Lagos, con una superficie total de 140 m2 en Playa y de 1224 m2 en Porción de Agua, la que fue tramitada con el SIABC Nº 43195. A modo referencial se señalan las siguientes coordenadas geográficas: 42º32'21.45" S, 73º38'22.17" O y 42º32'28.73" S, 73º38'14.57" O. El objeto consiste en instalar y operar una marina. Las obras consisten en instalar un atracadero flotante metálico y 4 boyas de amarre y el plazo contemplado para su ejecución es de 4 meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Castro. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Roque Núñez Cabrera, Capitán de Corbeta LT, Capitán de Puerto de Castro.
