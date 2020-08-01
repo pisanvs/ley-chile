@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº527, de 07 de julio de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 3, para la obra: CONSTRUCCION ENLACE EL VERGEL RUTA 60-CH (CAMINO LA POLVORA), que figura a nombre de MOLINA ROGAT JULIO CESAR, rol de avalúo 9260-1, Comuna de VALPARAÍSO, REGIÓN DE VALPARAÍSO, superficie 412 m2. La Comisión de Peritos integrada por ENRIQUE ANDRÉS RAMOS GUZMÁN, JUAN ARMANDO SALAS URZUA y NORMAN ESTANISLAO CALDERON PONTIGGIA, mediante informe de tasación de 06 de agosto de 2018, fijó el monto de la indemnización provisional en la cantidad de $12.092.200, para el lote Nº3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
