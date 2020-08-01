@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 481, de 26 de junio de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 1-A, Rol de avalúo 1154-401, Comuna de Puerto Varas, superficie 775 m2., para la obra: MEJORAMIENTO RUTA V-69, SECTOR RALUN - COCHAMO, COMUNA DE COCHAMO, PROVINCIA DE LLANQUIHUE, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRÉS ECHEVERRÍA CAMPO y CARMEN PILAR RÍOS MARCUELLO, fijó el valor de tasación con fecha 11 de diciembre de 2017, acordándose la indemnización con su propietaria TERESITA DEL NIÑO JESÚS REYES OYARZÚN, en la cantidad total de $7.683.723.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
