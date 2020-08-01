@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 508, de 26 de junio de 2020, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 81-B, Rol de avalúo 148-183, Comuna de Cochamó, superficie 370 m2., para la obra: MEJORAMIENTO RUTA V-69, SECTOR RALÚN - COCHAMÓ, COMUNA DE COCHAMÓ, PROVINCIA DE LLANQUIHUE, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRÉS ECHEVERRÍA CAMPO y CARMEN PILAR RÍOS MARCUELLO, fijó el valor de tasación con fecha 11 de diciembre de 2017, acordándose la indemnización con su propietario JOSÉ ANDRÉS FLORES DONOSO, en la cantidad total de $1.488.786.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
