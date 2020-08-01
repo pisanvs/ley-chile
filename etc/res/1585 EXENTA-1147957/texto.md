@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.585, 24 de julio de 2020, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación de un inmueble ubicado en P Clemente Korda 77, Rol de Avalúo Nº 351-28, comuna de Concepción, de aparente dominio de Muñoz Rebolledo Freddy y otra, superficie parcial afecta a expropiación de terreno es de 44,70 m2 (Lote 2) y expropiación total de edificaciones (a) 141,86 = 141,86 m2, según Plano S8R 38879-1, para la ejecución de las obras del proyecto "Mejoramiento PAR Vial Collao-General Novoa", comuna de Concepción, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto don Juan Felipe King Domínguez, arquitecta Carolina Andrea Contreras Tapia y la arquitecta doña Carolina del Pilar Zuloaga Sanhueza, según informe de fecha 26.05.2020, fijó monto provisional indemnización en $67.485.359.-
+
+Director Serviu Región del Biobío.
