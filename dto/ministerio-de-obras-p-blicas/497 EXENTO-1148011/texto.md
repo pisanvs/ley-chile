@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº497, de 26 de junio de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº10, para la obra: MEJORAMIENTO RUTA F-216 SECTOR: VALLE ALEGRE - CRUCE RUTA F-30-E, que figura a nombre de OCHOA DISSELKOEN HUGO RENATO, rol de avalúo 732-7, Comuna de QUINTERO, REGIÓN DE VALPARAÍSO, superficie 493 m2. La Comisión de Peritos integrada por MANUEL HERNÁN DÍAZ FARFÁN, RAMÓN ENRIQUE DOMINGO LABARCA y MARIA ISABEL RIOS MARCUELLO, mediante informe de tasación de 11 de diciembre de 2017, fijó el monto de la indemnización provisional en la cantidad de $3.797.400, para el lote Nº10. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
