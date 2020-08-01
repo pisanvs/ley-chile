@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 470, de 26 de junio de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 9-D, Rol de avalúo 2166-69, Comuna de Ancud, superficie 157 m2., para la obra: MEJORAMIENTO RUTA W-175, SECTOR: LINAO QUEMCHI, COMUNAS DE QUEMCHI Y ANCUD, PROVINCIA DE CHILOÉ, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, OMAR IGNACIO GÓMEZ FIGUEROA e INGRID BETRIZ CONTRERAS NEIRA, fijó el valor de tasación con fecha 25 de julio de 2016, acordándose la indemnización con su propietaria BLANCA LILIANA CÁRDENAS RYKS, en la cantidad total de $896.095.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
