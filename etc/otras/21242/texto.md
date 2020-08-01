@@ -76,15 +76,17 @@ Para efectos de esta ley, el Servicio de Impuestos Internos y el Servicio de Tes
 
 #### Artículo 5
 
-El beneficio establecido en esta ley no estará afecto a impuesto alguno, no se sujetará a ninguna retención de carácter administrativa, no será compensado por el Servicio de Tesorerías conforme a lo dispuesto en el artículo 6 del decreto con fuerza de ley N° 1, de 1994, del Ministerio de Hacienda, que fija el texto refundido, coordinado, sistematizado y actualizado del Estatuto Orgánico del Servicio de Tesorerías, ni será embargable. Lo anterior, salvo que se trate de pensiones alimenticias debidas por ley y judicialmente decretadas, en que el Servicio de Tesorerías, una vez que haya sido notificado de la respectiva resolución que ordena la retención o el embargo, estará facultado para retener hasta un 50% del beneficio.
+El beneficio establecido en esta ley no estará afecto a impuesto alguno, no se sujetará a ninguna retención de carácter administrativa, no será compensado por el Servicio de Tesorerías conforme a lo dispuesto en el artículo 6 del decreto con fuerza de ley N° 1, de 1994, del Ministerio de Hacienda, que fija el texto refundido, coordinado, sistematizado y actualizado del Estatuto Orgánico del Servicio de Tesorerías, tampoco le serán aplicables los descuentos a que se refiere el artículo 3º del decreto con fuerza de ley Nº 707, de 1982, del Ministerio de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley sobre Cuentas Corrientes Bancarias y Cheques, ni será embargable. Lo anterior, salvo que se trate de pensiones alimenticias debidas por ley y judicialmente decretadas, en que el Servicio de Tesorerías, una vez que haya sido notificado de la respectiva resolución que ordena la retención o el embargo, estará facultado para retener hasta un 50% del beneficio.
 
 #### Artículo 6
 
-El beneficio se reintegrará ante el Servicio de Tesorerías, en tres cuotas anuales y sucesivas, sin multas ni intereses. La primera cuota anual corresponderá a un 20% del beneficio total obtenido y cada una de las dos cuotas anuales restantes, corresponderán a un 40% del beneficio total obtenido. Al reintegro del beneficio se le descontará el subsidio que corresponda en conformidad al artículo 8. Las cuotas que corresponda pagar se reajustarán conforme a la variación del Índice de Precios al Consumidor, en el período comprendido entre el último día del mes anterior al que el trabajador independiente recibió el beneficio respectivo y el último día del mes anterior al pago.
+El beneficio se reintegrará ante el Servicio de Tesorerías, en cuatro cuotas anuales y sucesivas, sin multas ni intereses. La primera cuota anual corresponderá a un 10% del beneficio total obtenido y cada una de las 3 cuotas anuales restantes, corresponderán a un 30% del beneficio total obtenido. Al reintegro del beneficio se le descontará el subsidio que corresponda en conformidad al artículo 8. Las cuotas que corresponda pagar se reajustarán conforme a la variación del Índice de Precios al Consumidor, en el período comprendido entre el último día del mes anterior al que el trabajador independiente recibió el beneficio respectivo y el último día del mes anterior al pago.
 
-Las cuotas de reintegro se pagarán en el proceso de declaración anual de impuesto a la renta conforme al artículo 65 de la Ley sobre Impuesto a la Renta, debiendo enterarse la primera cuota en el proceso que se lleve a cabo en el año 2022.
+Las cuotas de reintegro se pagarán en el proceso de declaración anual de impuesto a la renta conforme al artículo 65 de la Ley sobre Impuesto a la Renta, debiendo enterarse la primera cuota en el proceso que se lleve a cabo en el año 2022. Quedarán obligados a presentar la referida declaración, mientras mantengan un saldo pendiente por devolver, todas las personas que accedan al beneficio.
 
-En caso de mora en el pago de las cuotas del reintegro, a dichas cantidades se les aplicará una tasa de interés equivalente a la tasa de endeudamiento del Fisco en el mismo plazo. Dicha tasa será fijada anualmente por la Dirección de Presupuestos mediante resolución exenta, la que deberá ser publicada en el Diario Oficial.
+Las cuotas anuales de devolución que establece este artículo serán contingentes al ingreso de los trabajadores independientes, sin perjuicio de hacer pagos anticipados. Dicho pago contingente corresponderá, para cada cuota anual, a un monto máximo que no excederá de un 5% de sus rentas que forman parte de la declaración anual de impuesto a la renta en conformidad al artículo 65 de la Ley sobre Impuesto a la Renta en que se realiza la devolución de una cuota. En caso de que por la aplicación de este tope máximo los beneficiarios mantengan un saldo del beneficio pendiente de devolución en forma posterior al pago de la cuarta cuota anual, dicho saldo será condonado.
+
+En caso de mora en el pago de las cuotas del reintegro, a dichas cantidades se les aplicará una tasa de interés equivalente a la tasa de endeudamiento del Fisco en el mismo plazo. Dicha tasa será fijada anualmente por la Dirección de Presupuestos mediante resolución exenta, la que deberá ser publicada en el Diario Oficial. Las cuotas morosas del beneficiario no podrán ser condonadas conforme a las reglas del inciso anterior.
 
 El Servicio de Impuestos Internos comunicará al Servicio de Tesorerías, en el mismo plazo que establece el artículo 97 de la Ley sobre Impuesto a la Renta, la individualización de los trabajadores independientes que deban pagar reintegros, el cálculo del monto del reintegro, las cantidades pagadas por concepto de reintegro y los montos adeudados por dicho concepto.
 
@@ -94,9 +96,9 @@ El Servicio de Impuestos Internos podrá ejercer la facultad establecida en el n
 
 #### Artículo 7
 
-Para efectos de imputar al pago de las cuotas establecidas en el artículo anterior, sobre las rentas generadas a partir del 1° de julio de 2021 y mientras se mantenga un saldo pendiente por reintegrar, se le realizará al trabajador independiente una retención adicional, o deberá realizar un pago provisional mensual adicional, de dos puntos porcentuales en la misma forma establecida en los artículos 74 N° 2 y 84 letra b) de la Ley sobre Impuesto a la Renta, respecto de las rentas que perciba gravadas conforme al artículo 42 N° 2 de la Ley sobre Impuesto a la Renta. Para estos efectos, los dos puntos porcentuales de retención adicional que establece este artículo se realizarán por sobre los porcentajes establecidos en el artículo quinto transitorio de la ley Nº 21.133.
+Para efectos de imputar al pago de las cuotas establecidas en el artículo anterior, sobre las rentas generadas a partir del 1° de septiembre de 2021 y mientras se mantenga un saldo pendiente por reintegrar, se le realizará al trabajador independiente una retención adicional, o deberá realizar un pago provisional mensual adicional, de tres puntos porcentuales en la misma forma establecida en los artículos 74 N° 2 y 84 letra b) de la Ley sobre Impuesto a la Renta, respecto de las rentas que perciba gravadas conforme al artículo 42 N° 2 de la Ley sobre Impuesto a la Renta. Para estos efectos, los tres puntos porcentuales de retención adicional que establece este artículo se realizarán por sobre los porcentajes establecidos en el artículo quinto transitorio de la ley Nº 21.133.
 
-Los dos puntos porcentuales de retención adicional que establece este artículo se destinarán íntegra y exclusivamente a la devolución del beneficio, sin que modifiquen en forma alguna los órdenes de prelación o preferencia respecto del pago al que se destinan, de acuerdo a la ley, las retenciones y pagos realizados conforme a los artículos 74 N° 2, 84 letra b), 88 y 89 de la Ley sobre Impuesto a la Renta. En caso que, en los años que corresponda la retención de los dos puntos porcentuales adicionales que establece este artículo, se realice sólo una parte de las retenciones y pagos que correspondan conforme a los artículos 74 N° 2, 84 letra b), 88 y 89 de la Ley sobre Impuesto a la Renta, aumentado por los dos puntos porcentuales, la imputación al pago del beneficio se realizará aplicando al monto total retenido y pagado un porcentaje equivalente a lo que representen los puntos porcentuales adicionales en el total de la retención que corresponda realizar.
+Los tres puntos porcentuales de retención adicional que establece este artículo se destinarán íntegra y exclusivamente a la devolución del beneficio, sin que modifiquen en forma alguna los órdenes de prelación o preferencia respecto del pago al que se destinan, de acuerdo a la ley, las retenciones y pagos realizados conforme a los artículos 74 N° 2, 84 letra b), 88 y 89 de la Ley sobre Impuesto a la Renta. En caso que, en los años que corresponda la retención de los tres puntos porcentuales adicionales que establece este artículo, se realice sólo una parte de las retenciones y pagos que correspondan conforme a los artículos 74 N° 2, 84 letra b), 88 y 89 de la Ley sobre Impuesto a la Renta, aumentado por los tres puntos porcentuales, la imputación al pago del beneficio se realizará aplicando al monto total retenido y pagado un porcentaje equivalente a lo que representen los puntos porcentuales adicionales en el total de la retención que corresponda realizar.
 
 En caso que resultare un exceso respecto de las cantidades que determina la ley que corresponde imputar y pagar con cargo a las retenciones y pagos que establecen los artículos 74 N° 2, 84 letra b), 88 y 89 de la Ley sobre Impuesto a la Renta, dicho exceso se imputará al reintegro del beneficio y sólo el remanente, luego de aquella imputación, se devolverá al trabajador independiente.
 
@@ -112,7 +114,7 @@ ii. El subsidio será equivalente al 50% de la cantidad que corresponda a la dif
 
 iii. El subsidio será equivalente al 40% de la cantidad que corresponda a la diferencia de comparar el Ingreso Mensual con el Ingreso Promedio Mensual, por cada mes respecto del cual se reciba el beneficio, para aquellos trabajadores independientes que, de la división señalada en el inciso anterior, les resulte una cantidad superior a $400.000 e igual o inferior a $500.000. En todo caso, dicho subsidio tendrá un tope máximo de $100.000.
 
-Durante el proceso de declaración anual de impuesto a la renta, que establece el artículo 65 de la Ley sobre Impuesto a la Renta, del año 2021, el Servicio de Impuestos Internos informará a todos los trabajadores independientes que hayan accedido al beneficio establecido en esta ley, el monto del subsidio que les corresponda, y el monto total que deberán reintegrar en las tres cuotas anuales que establece en el artículo 6.
+Durante el proceso de declaración anual de impuesto a la renta, que establece el artículo 65 de la Ley sobre Impuesto a la Renta, del año 2021, el Servicio de Impuestos Internos informará a todos los trabajadores independientes que hayan accedido al beneficio establecido en esta ley, el monto del subsidio que les corresponda, y el monto total que deberán reintegrar en las cuatro cuotas anuales que establece en el artículo 6.
 
 #### Artículo 9
 
@@ -132,11 +134,13 @@ Los recursos que el Estado destine para financiar el beneficio que regula esta l
 
 #### Artículo 11
 
+Los trabajadores independientes que obtuvieran un beneficio mayor al que les corresponda en conformidad a esta ley, según lo determine el Servicio de Impuestos Internos, deberán reintegrar dicho exceso en el proceso de declaración anual de impuesto a la renta conforme al artículo 65 de la Ley sobre Impuesto a la Renta, siguiente a dicha determinación. Para estos efectos se aplicarán las normas sobre reajustabilidad e intereses establecidas en el artículo 53 del Código Tributario y la sanción que contempla el artículo 97 Nº 11 del mismo Código, en caso de que se haya obtenido un beneficio mayor por causa imputable al beneficiario.
+
 Las personas que obtuvieren el beneficio establecido en esta ley mediante simulación o engaño y quienes, de igual forma, obtuvieren un beneficio mayor al que les corresponda, serán sancionadas con reclusión menor en su grado mínimo a medio. Igual sanción será aplicable a quienes faciliten los medios para la comisión de tales delitos. Lo anterior, sin perjuicio de restituir al Fisco, a través del Servicio de Tesorerías, las sumas indebidamente percibidas, las que se convertirán en unidades de fomento al día de la percepción y se restituirán al valor de dicha unidad al día de la restitución.
 
 #### Artículo 12
 
-Otórganse al Servicio de Impuestos Internos las atribuciones y facultades para la habilitación de una plataforma para solicitar el beneficio que contempla la presente ley, para la verificación de la procedencia del beneficio y las demás funciones que sean necesarias para su aplicación.".
+Otórganse al Servicio de Impuestos Internos las atribuciones y facultades para la habilitación de una plataforma para solicitar el beneficio que contempla la presente ley, para la verificación de la procedencia del beneficio y las demás funciones que sean necesarias para su aplicación. Para estos efectos, el Servicio de Impuestos Internos, conforme a las normas del Código Tributario, podrá realizar notificaciones, comunicaciones, interpretar e impartir instrucciones, hacer efectivo lo señalado en el artículo 11 y demás actuaciones que sean pertinentes para cumplir con la finalidad de otorgar y determinar el beneficio que contempla esta ley.
 
 #### Artículo segundo
 
@@ -173,6 +177,40 @@ transitorio.- Con el fin de financiar la presente ley, autorízase a comprometer
 Los recursos fiscales aportados deberán ser reintegrados al Fisco, de acuerdo con lo señalado en los artículos 7 y 9 contenidos en el artículo primero de esta ley. Sin perjuicio de lo anterior, constituirá mayor gasto fiscal lo dispuesto en el inciso segundo del artículo 10 contemplado en el mismo artículo.
 
 El mayor gasto fiscal que represente la aplicación del artículo 8 contenido en el artículo primero de la presente ley se financiará en su primer año presupuestario de vigencia con cargo a la partida del Tesoro Público.".
+
+#### Artículo cuarto
+
+transitorio.- Establécese que se hará aplicable a los trabajadores independientes que cumplan los requisitos copulativos que contemplan los artículos 1 y 2 del artículo primero de la presente ley, por una sola vez, el Aporte Fiscal que contempla el artículo 4 de la ley que establece un financiamiento con aporte fiscal para la protección de los ingresos de la clase media en los casos que indica, el que se podrá solicitar dentro del primer mes de vigencia de dicha ley, determinado conforme a lo establecido en este artículo. Para tales efectos, se aplicarán las siguientes reglas:
+
+1) Forma en que se determina el Aporte Fiscal.
+
+El Aporte Fiscal se determinará aplicando una Escala de Aporte Fiscal, según el promedio mensual conforme al Nº 1) del artículo 2 de la ley que establece el aporte fiscal según se describe en el enunciado de este artículo.
+
+La Escala de Aporte Fiscal será la siguiente:
+
+i) Para beneficiarios cuyo promedio mensual sea una cantidad igual o mayor a $400.000 y hasta $1.500.000, el Aporte Fiscal será de $500.000.
+
+ii) Para beneficiarios cuyo promedio mensual sea una cantidad sobre $1.500.000 y hasta $1.600.000, el Aporte Fiscal será de $400.000.
+
+iii) Para beneficiarios cuyo promedio mensual sea una cantidad sobre $1.600.000 y hasta $1.700.000, el Aporte Fiscal será de $300.000.
+
+iv) Para beneficiarios cuyo promedio mensual sea una cantidad sobre $1.700.000 y hasta $1.800.000, el Aporte Fiscal será de $200.000.
+
+v) Para beneficiarios cuyo promedio mensual sea una cantidad sobre $1.800.000 y hasta $2.000.000, el Aporte Fiscal será de $100.000.
+
+vi) Para beneficiarios cuyo promedio mensual sea una cantidad que exceda de $2.000.000, no tendrán derecho al Aporte Fiscal que contempla este artículo.
+
+2) Solicitud y compatibilidad del Aporte Fiscal con el beneficio para trabajadores independientes que contempla esta ley.
+
+La solicitud del Aporte Fiscal que contempla este artículo se realizará por el trabajador independiente ante el Servicio de Impuestos Internos, en la forma que contempla el artículo 4 del artículo primero de la presente ley.
+
+En caso que el trabajador independiente solicite el Aporte Fiscal, será en reemplazo del subsidio contemplado en el artículo 8 del artículo primero de la presente ley.
+
+Los montos mensuales que se hayan solicitado y recibido como beneficio por el trabajador independiente en forma previa a la entrada en vigencia de este artículo transitorio no obstarán a que pueda solicitar el Aporte Fiscal. En este último caso, los montos ya recibidos por el trabajador independiente quedarán sujetos al reintegro que contempla el artículo 6 del artículo primero de esta ley.
+
+Excepcionalmente, los trabajadores independientes que no sean beneficiarios del Aporte Fiscal o no lo soliciten, tendrán derecho a realizar una solicitud adicional del beneficio que se determina conforme al artículo 3º del artículo primero de esta ley, el cual deberá ser solicitado dentro del primer mes de vigencia de este artículo, considerando, para ese efecto que, excepcionalmente y en caso de ser aplicable, el Beneficio Máximo Mensual puede contemplar dos solicitudes mensuales. La solicitud de este beneficio adicional no computará para efectos de determinar el tope máximo de tres meses que se refiere los artículos 1º y 3º del artículo primero de esta ley.
+
+En caso que un beneficiario o causante del Ingreso Familiar de Emergencia conforme a lo establecido en la ley Nº 21.230 solicite el Aporte Fiscal, el monto total del Ingreso Familiar de Emergencia que le corresponda recibir a su hogar, considerando tanto lo que ya recibió como lo que recibirá hasta el 31 de agosto de 2020, se computará como parte del monto del Aporte Fiscal para efecto de su cálculo. En consecuencia, de la cantidad del Aporte Fiscal que otorga la ley que establece un financiamiento con aporte fiscal para la protección de los ingresos de la clase media en los casos que indica se deberá descontar el referido monto total del Ingreso Familiar de Emergencia. Lo anterior no regirá para los hogares beneficiarios del artículo 5 de la ley Nº 21.230.
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 
