@@ -310,7 +310,7 @@ Quedarán exentos en forma automática del pago del 100% de la tarifa de aseo do
 
 2. Aquellos cuyo grupo familiar esté integrado por discapacitado, enfermo catastrófico o postrado severo, siempre que mantenga Registro Social de Hogares (RSH) vigente en la comuna.
 
-3. Aquellos jefes(a) de hogar cuyo grupo familiar se encuentre comprendido en el Tramo 1 del Registro Social de Hogares, esto es, hogares calificados en el 40% de menores ingresos o mayor vulnerabilidad.
+3. Aquellos jefes(as) de hogar afectos al pago de derechos de aseo domiciliario en forma directa a la Municipalidad, que sean propietarios de inmuebles registrados en el Servicio de Impuestos Internos al primer semestre del año 2020 y cuyo grupo familiar se encuentre comprendido hasta el 3er. grupo del Registro Social de Hogares, esto es, hogares calificados hasta 60% de menores ingresos o mayor vulnerabilidad. Esta exención, para los nuevos beneficiados, operará a contar de la segunda cuota correspondiente al año 2020 en forma automática conforme a los antecedentes que dispone la Municipalidad.
 
 #### Artículo 37
 
