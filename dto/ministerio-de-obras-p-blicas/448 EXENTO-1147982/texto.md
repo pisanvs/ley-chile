@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°448, de 22 de junio de 2020 y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 41 y 45, para la obra: MEJORAMIENTO RUTA C-495, SECTOR LA FRAGUA-JUNTA DE VALERIANO, que figuran a nombre de VARGAS VILLALBA DINKA LIZ Y OTROS y ARCOS CAMPILLAY GRACIELA C, roles de avalúo 912-11 y 912-26, Comuna de ALTO DEL CARMEN, REGIÓN DE ATACAMA, superficies 67 y 138 m2. respectivamente. La Comisión de Peritos integrada por NORMAN ESTANISLAO CALDERON PONTIGGIA, XIMENA ELIANA PEÑALOZA HERRERO y CLAUDIO ANDRES CONCHA GROSSI, mediante informe de tasación de 18 de noviembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $658.950, para el lote N°41 y $420.100, para el lote N°45. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
