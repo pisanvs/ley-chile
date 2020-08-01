@@ -56,13 +56,21 @@ La presente obligación no aplica a las empresas y contratos que fueron enviados
 
 3. Forma y lugar de entrega de los Contratos.
 
-Los contratos indicados en el numeral anterior deberán ser entregados a través de la Oficina de Partes de la Comisión, en sobre cerrado caratulado "Reservado - Información de Contrato de Gas", con los datos de la empresa en su reverso. Además, se deberá adjuntar el nombre y datos de contacto de la persona responsable de los contratos para ser consultada durante el proceso de análisis de los mismos.
+Los contratos indicados en el numeral anterior deberán ser enviados a la Comisión Nacional de Energía mediante su envío por correo electrónico a la casilla cgarcia@cne.cl, indicando el nombre y datos de contacto de la persona responsable de los contratos para ser consultada durante el proceso de análisis de estos.
+
+Alternativamente, los contratos podrán ser incorporados, por los plazos a que se refiere el numeral 4 siguiente, en alguna plataforma de almacenamiento de datos. El vínculo asociado a la plataforma de almacenamiento de datos que contenga los contratos deberá ser enviado al profesional del departamento de hidrocarburos de esta Comisión Carlos García (cgarcia@cne.cl), cada vez que se deba informar un contrato, y con una clave de acceso individual indicada en el mismo correo electrónico, además de la indicación del nombre y datos de contacto de la persona responsable de los contratos para ser consultada durante el proceso de análisis de estos.
 
 4. Tratamiento de la información contenida en los contratos por parte de la Comisión.
 
-En atención al imperativo legal establecido en el inciso tercero del artículo 12° del DL N° 2.224, esta Comisión adoptará las medidas de resguardo para el tratamiento de la información contenida en los contratos a objeto de asegurar su confidencialidad. Para tales efectos, se dispondrán las medidas pertinentes con el objeto de regular los términos y condiciones en que se efectuará la recepción, revisión, análisis y supresión de los archivos que contengan los referidos contratos.
+En atención al imperativo legal establecido en el inciso tercero del artículo 12º del DL 2.224, esta Comisión adoptará las medidas de resguardo para el tratamiento de la información contenida en los contratos a objeto de asegurar su confidencialidad. Para tales efectos, se dictarán las normas internas pertinentes con el objeto de regular los términos y condiciones en que se efectuará la recepción, revisión, análisis y devolución de los respectivos contratos.
 
-No obstante lo anterior, el plazo para la supresión de los archivos enviados de conformidad a lo dispuesto en el numeral 3 precedente, no excederá el plazo de 40 días hábiles siguientes a su recepción tratándose de los contratos señalados en el numeral 1, y de 60 días hábiles tratándose de los contratos señalados en el numeral 2.
+No obstante lo anterior, el plazo de devolución de los contratos señalados en el Nº1, no excederá el plazo de 40 días hábiles siguientes a su recepción, y de 60 días hábiles tratándose de los contratos señalados en el Nº2.
+
+Para estos efectos, la Comisión dará aviso vía correo electrónico a la persona responsable de los contratos, individualizada conforme lo indicado en el numeral 3, acerca de la disponibilidad de los contratos para su devolución. La persona que efectúe dicho trámite deberá contar con un poder simple otorgado por el representante legal de la empresa, en el cual se le faculte expresamente a efectuar el retiro de los documentos entregados.
+
+La entrega de los contratos será por medio de sobre cerrado y se registrará por medio de un acta de entrega donde se indicará la fecha de entrega, la identificación de quien retira los documentos, la copia del poder simple entregado por la empresa y el nombre de la empresa a quien representa.
+
+En su defecto, la respectiva empresa podrá solicitar la devolución de los contratos a través de correo certificado.
 
 5. De la Veracidad de la Información.
 
