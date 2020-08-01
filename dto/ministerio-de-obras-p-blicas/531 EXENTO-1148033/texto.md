@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 531, de 7 de julio de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N° 206 de 1960, se expropió el lote de terreno N° 1, para la obra: SISTEMA DE AGUA POTABLE RURAL PUMALAL, que figura a nombre de AGRICOLA Y GANADERA VALLE HERMOS, rol de avalúo 570-514, Comuna de LAUTARO, REGION DE LA ARAUCANÍA, superficie 172 m2. La Comisión de Peritos integrada por PATRICIA ANGÉLICA MORALES RIVERA, EVALDO ROBERTO CONTRERAS ROA y SONIA CATALINA GALLEGOS BLANCH, mediante informe de tasación de fecha 18 de marzo de 2019, fijó el monto de la indemnización provisional en la cantidad de $3.440.000.- para el lote N°1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
