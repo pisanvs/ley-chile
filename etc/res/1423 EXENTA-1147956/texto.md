@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.423, 3 de julio 2020, Serviu Región del Biobío ordenó expropiación parcial de terreno, ubicado en Coliume C Medi, Rol de Avalúo N° 410-19, comuna de Tomé, de aparente dominio de Reyes Reyes Alfredo, superficie de 7.328-57 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-38.054-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida Coliumo" comuna de Tomé, Región del Biobío", conforme artículo 51 ley Nº 16.391 y DL N° 2.186. Comisión Peritos integrada por constructor civil María Soledad Silva Hernández, por arquitecto Alexander Boye Trenit y por ingeniero civil Orlando Paredes Vásquez, según informe de fecha 25.05.2020, fijó monto provisional indemnización en $114.640.821.-
+
+Director (S) Serviu Región del Biobío.
