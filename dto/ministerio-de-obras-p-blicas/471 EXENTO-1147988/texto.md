@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 471, de 26 de junio de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 2 y 2-A, Rol de avalúo 151-119, Comuna de Puerto Octay, superficies 5.385 y 533 m2., para la obra: CONSERVACIÓN RED VIAL REGIÓN DE LOS LAGOS (2018 - 2020), EMERGENCIA PUENTE CANCURA RUTA U-55-V, COMUNA DE OSORNO, PUERTO OCTAY, PROVINCIA DE OSORNO, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por LEOPOLDO RAMON SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA y JUAN SAMUEL BARRIENTOS BAHAMONDE, fijó el valor de tasación con fecha 26 de septiembre de 2018 (lote 2) y con fecha 14 de noviembre de 2018 (lote 2-A), acordándose la indemnización con su propietaria AGRÍCOLA Y ÁRIDOS CANCURA SPA, en la cantidad total de $63.117.679.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
