@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 523 de 7 de julio de 2020, se modificó el Decreto (Exento) MOP. N° 378 de 27 de mayo de 2019, respecto del lote N° 86-D, para la obra REPOSICIÓN RUTA A - 133, SECTOR EL BUITRE - LAS MAITAS, como a continuación se indica: 1.- Se modificó el numeral segundo del Decreto MOP. (Exento) N° 378 de 27 de mayo de 2019, en la parte que se refiere al nombre del aparente propietario y el rol de avalúo, a MIRANDA HERRERA MUGUEL AMADOR, rol de avalúo 3420-392, comuna de ARICA; 2.- Se aprobó la modificación efectuada al plano y cuadro de expropiación elaborados por la Dirección de Vialidad; y 3.-Se complementó el Informe de Tasación de fecha 29 de julio de 2016, con acta complementaria de fecha 10 de junio de 2020, elaborada por la Jefa del Subdepartamento de Expropiaciones Dirección de Vialidad Región de Arica y Parinacota. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
