@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 484 de 26 de junio de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 50, Rol de avalúo 3212-500, comuna de Padre Las Casas, superficie 613 m2., para la obra MEJORAMIENTO CAMINO BASICO INTERMEDIO MAQUEHUE - BOROA - PUENTE RAGÑINTULEUFU, COMUNAS DE PADRE LAS CASAS Y NUEVA IMPERIAL, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por CLAUDIO HERNÁN ANGULO SOTOMAYOR, EVALDO ROBERTO CONTRERAS ROA y PABLO ALEX MANSILLA ARAVENA, fijó el valor de tasación con fecha 09 de septiembre de 2019, acordándose la indemnización con sus propietarios FLORINDA LIEMPE MELINAO Y OTROS, en la cantidad de $3.657.362.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
