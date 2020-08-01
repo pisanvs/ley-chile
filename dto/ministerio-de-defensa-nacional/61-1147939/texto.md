@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 61, de fecha 25 de febrero de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Aguas Claras S.A., RUT 96.509.550-0, concesión marítima menor, con vencimiento el 31 de diciembre de 2024, sobre un sector de playa, en el lugar denominado Detif, Isla Lemuy, comuna de Puqueldón, Provincia de Chiloé, Región de Los Lagos, con una superficie total de 212,99 m2, la que fue tramitada con el SIABC Nº 34.782. A modo referencial se señala la siguiente coordenada geográfica: Latitud S 42º 40' 51,39" y Longitud W 73º 34' 36,24". El objeto consiste en permitir la instalación de un atracadero flotante para operar las embarcaciones menores que trasladen al personal desde y hacia los centros de cultivo en el área. Las obras consisten en un atracadero flotante y el plazo contemplado para su ejecución es de seis meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Chonchi. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Sebastián Reyes Aedo, Teniente 1º LT, Capitán de Puerto de Chonchi.
