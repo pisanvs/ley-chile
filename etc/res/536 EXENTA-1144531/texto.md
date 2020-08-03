@@ -36,13 +36,11 @@ b) Cooperativas Cerradas de Vivienda constituidas conforme al DFL N°5, de Econo
 
 c) Cooperativas Abiertas de Vivienda constituidas conforme al DFL N°5, de Economía, de 2003. Para efectos de llevar adelante el proyecto deberán identificar a lo menos a 3 postulantes que actuarán como encargados ante el Serviu y la Entidad Patrocinante. En estos casos, la cooperativa podrá asumir la labor de Entidad Patrocinante si cuenta con Convenio Marco vigente.
 
-Los grupos organizados que postulen deberán contar con una Entidad Patrocinante con convenio marco vigente en la región correspondiente, la que deberá digitar en el Sistema Umbral que mantiene el Minvu las postulaciones respectivas, e ingresar los antecedentes que se exigen en el presente llamado, obteniendo un Comprobante de Postulación Aceptada en dicho sistema, al 30 de septiembre y al 26 de noviembre de 2020.
+Los grupos organizados que postulen deberán contar con una Entidad Patrocinante con convenio marco vigente en la región correspondiente, la que deberá digitar en el Sistema Umbral que mantiene el Minvu las postulaciones respectivas, e ingresar los antecedentes que se exigen en el presente llamado, obteniendo un Comprobante de Postulación Aceptada en dicho sistema, al día 30 de septiembre de 2020.
 
 Las Entidades Patrocinantes municipales podrán presentar postulaciones al presente llamado, actuando en coordinación con otra Entidad Patrocinante para el desarrollo del proyecto y la ejecución de obras. Corresponderá al Serviu determinar los montos a pagar a cada una de estas Entidades por concepto de honorarios por la prestación de Servicios de Asistencia Técnica, de acuerdo a la resolución exenta N° 1.875 (V . y U.), de 2015, y al Resuelvo 11 de esta resolución.
 
 3. Los recursos involucrados para la selección de grupos postulantes por Región, comuna y área, según corresponda, son los siguientes:
-
-.
 
 El número de grupos a seleccionar en cada Región alcanzará hasta el número de subsidios susceptibles de ser financiados con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de Asistencia Técnica y Fiscalización Técnica de Obras, pudiendo practicarse redistribuciones y/o aumentos, los que serán sancionados mediante resolución.
 
@@ -76,8 +74,6 @@ f) Informe de compra de el o los terrenos, indicando los montos de subsidio y ah
 
 g) Informe técnico relativo a las condiciones del terreno, incluyendo una descripción de su topografía, de las condiciones geotécnicas considerando los antecedentes y referencias con que se cuente, de las servidumbres y/o gravámenes si existiesen, y en general de condiciones que pudieran afectar el desarrollo posterior del proyecto. El Serviu podrá contrastar la información señalada y rechazar la postulación de terrenos que fundadamente, a su juicio no cuenten con aptitud técnica para el desarrollo del proyecto dentro del esquema de financiamiento del llamado.
 
-Los antecedentes señalados serán evaluados por el Serviu en un plazo de hasta 20 días hábiles contados desde la fecha del Comprobante de Postulación Aceptada, incluso con posterioridad al cierre correspondiente, pudiendo emitir observaciones que deberán ser comunicadas a la Entidad Patrocinante, quien tendrá un plazo máximo de 10 días hábiles para su subsanación. A partir de la respuesta de la Entidad Patrocinante, el Serviu contará con 5 días hábiles para aprobar o rechazar la postulación, lo que deberá ser informado a aquella y a la División de Política Habitacional. Las postulaciones rechazadas en el cierre del 30 de septiembre podrán mantener su ingreso al sistema y, de corregir los antecedentes que produjeron el rechazo, postular nuevamente al cierre del 26 de noviembre de 2020.
-
 5.3. Las postulaciones serán presentadas en las oficinas y horarios que disponga el Serviu, e ingresadas en el sistema informático del Minvu, debiendo indicar expresamente que se acompañan en el marco del presente llamado especial, incluyendo polígono KMZ. Solo en los casos de los terrenos que resulten seleccionados para compra, los Serviu deberán incorporar la información del terreno en el Sistema de Bienes Inmuebles Serviu, Sibis (catastro "En Estudio").
 
 5.4. Todos los terrenos presentados deberán ser tasados conforme a lo dispuesto en el inciso quinto del artículo 19. del DS N° 49, no procediendo la exención a la tasación señalada en dicho artículo. La tasación la efectuará el Serviu durante el proceso de evaluación de las postulaciones, y será informada a la División de Política Habitacional para la aplicación del puntaje señalado en la letra a) del numeral 6.1 del Resuelvo 6. siguiente.
@@ -86,7 +82,7 @@ Si el valor del terreno presentado en el Contrato de Promesa de Compraventa no c
 
 5.5. Las familias postulantes al presente llamado deberán acreditar un ahorro correspondiente al monto que resulte de aplicar el procedimiento indicado en la letra a) del resuelvo 7. de esta resolución. No obstante el resultado que arroje dicho cálculo, las familias pertenecientes al 40% de la población nacional más vulnerable, según el Registro Social de Hogares, deberán acreditar un monto mínimo de 10 Unidades de Fomento, y las familias postulantes que superen el 40% señalado, acreditar un monto mínimo de 15 Unidades de Fomento, aun cuando el resultado del cálculo señalado sea inferior a estos montos.
 
-En los casos en que el ahorro total que deberán presentar cada una de las familias supere las 40 Unidades de Fomento para familias pertenecientes al 40% de la población nacional más vulnerable, según el Registro Social de Hogares, y 45 Unidades de Fomento tratándose de familias sobre dicho tramo, podrán postular acreditando a lo menos dichos montos, debiendo acreditar el saldo pendiente al momento de la compraventa del terreno, previo al ingreso del proyecto al Serviu. Cumplido el plazo de 9 meses para el ingreso del proyecto al Serviu a que alude la letra b) del numeral 9.1 del resuelvo 9 de esta resolución, sin que se haya verificado la compraventa del terreno, el Serviu podrá, como requisito para acceder a la prórroga allí señalada, exigir a la Entidad Patrocinante el reemplazo de las familias que no han acreditado el saldo de ahorro requerido para la respectiva compraventa
+En los casos en que el ahorro total que deberán presentar cada una de las familias supere las 40 Unidades de Fomento para familias pertenecientes al 40% de la población nacional más vulnerable, según el Registro Social de Hogares, y 45 Unidades de Fomento tratándose de familias sobre dicho tramo, el Director del Serviu podrá autorizar la postulación de las familias acreditando a lo menos dichos montos, debiendo acreditarse el saldo pendiente al momento de la compraventa del terreno, previo al ingreso del proyecto al Serviu. Cumplido el plazo de 9 meses para el ingreso del proyecto al Serviu a que alude la letra b) del numeral 9.1 del resuelvo 9 de esta resolución, sin que se haya verificado la compraventa del terreno, el Serviu podrá, como requisito para acceder a la prórroga allí señalada, exigir a la Entidad Patrocinante el reemplazo de las familias que no han acreditado el saldo de ahorro requerido para la respectiva compraventa.
 
 5.6. Los proyectos a desarrollar en los terrenos que se adquieran por medio del presente llamado podrán incluir como máximo 300 viviendas, en los que, a lo menos un 90% de ellas, cumpla con la densidad neta mínima de viviendas por hectárea a que se refiere el inciso segundo de la letra d), del artículo 35 del DS N° 49 (V. y U.), de 2011, definida en la resolución exenta N° 2.478 (V. y U.), de 2015, y sus modificaciones.
 
@@ -122,9 +118,9 @@ El cálculo del subsidio para la compra de terrenos colindantes por parte de un 
 
 Para acceder a este subsidio, el o los terrenos a adquirir deberán cumplir copulativamente con las siguientes condiciones:
 
-i. Emplazarse en el área urbana y contar con norma urbanística vigente para el desarrollo del proyecto habitacional. Sin perjuicio de lo anterior, tratándose de áreas contenidas al interior del anillo conformado por las Avenidas Circunvalación Américo Vespucio y Ossa, en la ciudad de Santiago, Región Metropolitana, podrán considerarse terrenos emplazados en áreas de extensión urbana.
+i. Emplazarse dentro del área urbana y contar con norma urbanística vigente para el desarrollo del proyecto habitacional.
 
-ii. Que el terreno se encuentre a una distancia no superior a 200 metros de una vía de servicio o de rango superior existente, y con acceso directo a ella a través de una vía cuya urbanización esté ejecutada al 100%, o que considere su ejecución al 100% como parte del proyecto presentado. Opcionalmente para proyectos que consideren un máximo de 70 viviendas, el terreno podrá deslindar con una vía local.
+ii. Que el terreno se encuentre a una distancia no superior a 200 metros de una vía de servicio o de rango superior existente, y con acceso directo a ella a través de una vía cuya urbanización esté ejecutada al 100%, o que considere su ejecución al 100% como parte del proyecto presentado.
 
 iii. Que el o los establecimientos de educación existentes más cercanos, que en conjunto cuenten con los niveles educacionales operativos de pre-básica, básica y media, se encuentren ubicados a una distancia recorrible peatonalmente no mayor a 1.000 metros, medidos desde el punto más cercano del terreno donde se desarrollará el proyecto.
 
@@ -132,7 +128,7 @@ iv. Que el establecimiento de salud primaria o de nivel superior de atención ex
 
 v. Los terrenos ubicados en la Área 2 de la Región Metropolitana deberán cumplir además con al menos 4 de los indicadores señalados en la siguiente tabla:
 
-Las condiciones para la obtención del presente subsidio serán verificadas por el Serviu respectivo, durante el proceso de revisión de las postulaciones, mediante los medios electrónicos o plataformas georreferenciadas de que disponga. Igualmente, el Serviu podrá aprobar incrementos de hasta el 10% en las distancias señaladas en el cuadro precedente, cuando a su juicio los terrenos presenten condiciones adecuadas de localización, relativas a cercanía a otro tipo de bienes y servicios urbanos.
+Las condiciones para la obtención del presente subsidio serán verificadas por la Seremi respectiva, durante el proceso de revisión de las postulaciones mediante un Informe del Departamento de Desarrollo Urbano e Infraestructura que se remitirá por vía electrónica al Serviu. Las distancias señaladas deberán ser corroboradas por la Seremi mediante los mecanismos de que ésta disponga, validándose que se efectúen a través de medios electrónicos o plataformas georreferenciadas. Igualmente, en el informe señalado, la Seremi podrá aprobar incrementos hasta el 10% en las distancias señaladas en el cuadro precedente, cuando a su juicio los terrenos presenten condiciones adecuadas de localización, relativas a cercanía a otro tipo de bienes y servicios urbanos.
 
 Las viviendas financiadas con la aplicación del presente subsidio estarán afectas a la prohibición a que alude el artículo 60 del DS N° 49 (V. y U.), de 2011, por un plazo de 15 años.
 
@@ -191,10 +187,6 @@ c) El 60% restante, una vez desarrolladas las actividades que establece la resol
 11.5. Los honorarios de Asistencia Técnica correspondientes al servicio "Gestión Legal", se incrementarán con un monto adicional, de acuerdo a la relación entre la tasación del terreno y el precio, según el cuadro siguiente:
 
 12. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de postulaciones seleccionadas. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
-
-> **Nota.** El N° 1 de la Resolución 443 Exenta, Vivienda, publicada el 13.04.2021, modifica la resolución 1739 Exenta, publicada el 12.12.2020, en el sentido de de reemplazar la tabla de su resuelvo 1, que a su vez reemplaza la tabla del resuelvo N° 3 de la presente norma, en los términos que la citada norma indica.
-
-> **Nota.** NOTA 1 El literal a) del numeral 1° de la Resolución 580 Exenta, Vivienda, publicada el 11.05.2021, modifica la resolución 113 Exenta, publicada el 13.02.2021, en el sentido de reemplazar el cuadro inserto en el resuelvo 1, que a su vez reemplaza la tabla del resuelvo N° 3 de la presente norma, en los términos que la citada norma indica.
 
 Anótese, comuníquese, publíquese y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
