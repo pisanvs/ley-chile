@@ -30,7 +30,7 @@ Resolución:
 
 3.2. Ser destinado hasta en un 60% a la compra de materiales de construcción, mediante la tarjeta habilitada para tales efectos, y hasta en un 40% para el pago de los servicios de construcción o mano de obra.
 
-4. El monto destinado para este llamado será de 200.000 UF y el número de proyectos seleccionados alcanzará hasta la cantidad de subsidios susceptibles de ser financiados con los recursos disponibles, incluidos los servicios de Asistencia Técnica que correspondan. La distribución regional de estos recursos es la siguiente:
+4. El monto destinado para este llamado será de 308.537 UF y el número de proyectos seleccionados alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles, incluidos los servicios de Asistencia Técnica que correspondan. La distribución regional de estos recursos es la siguiente:
 
 No obstante, si la cantidad de postulaciones a la fecha del cierre del llamado es inferior a la cantidad de subsidios susceptibles de ser financiados con los recursos dispuestos en esta resolución, la División de Política Habitacional podrá realizar una redistribución del saldo de estos recursos para destinarlos a otros llamados del mismo programa.
 
@@ -176,7 +176,7 @@ Con este informe se podrán cancelar los honorarios de Asistencia Técnica corre
 
 17.2. Copia de Factura o Boleta, con el detalle y cantidad de materiales entregados, y en caso de no constar en estos, deberá acompañarse copia de la correspondiente Guía de Despacho, debiendo estar firmada por el beneficiario como forma de acreditar la recepción conforme de los materiales.
 
-Serviu deberá revisar el detalle de las boletas y/o facturas presentadas por el proveedor y solo pagará aquellos materiales de construcción autorizados en la lista a que se refiere el punto 10 de la presente resolución, y verificando a la vez, que estos coincidan con los materiales indicados en el presupuesto elaborado por la EP.
+Serviu deberá revisar el detalle de las boletas y/o facturas presentadas por el proveedor y solo pagará aquellos materiales de construcción autorizados en la Tabla a que se refiere el punto 10 de la presente resolución.
 
 En caso que algunos de los elementos detallados en la boleta o factura no se encuentren incluidos en el listado a que se refiere el inciso precedente, dicho documento podrá ser pagado igualmente, sin embargo, serán descontados los materiales de la boleta o factura que no se encuentren comprendidos en dicho listado y no se considerarán en la liquidación del monto a pagar.
 
