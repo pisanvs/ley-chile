@@ -8,7 +8,7 @@ Lo dispuesto en la Ley Nº 10.262 del Ministerio del Interior, que faculta al Pr
 
 Decreto:
 
-1.- Autorízase a la entidad denominada "Fundación Vida Compartida" para realizar una colecta pública en las regiones de Tarapacá, Antofagasta, Atacama, Coquimbo, Valparaíso, Metropolitana, Maule, Biobío, Los Ríos, Los Lagos y Magallanes, los días 12 y 13 de junio del año 2020.
+1.- Autorízase a la entidad denominada "Fundación Vida Compartida" para realizar una colecta pública en las regiones de Tarapacá, Antofagasta, Atacama, Coquimbo, Valparaíso, Metropolitana, Maule, Biobío, Los Ríos, Los Lagos y Magallanes, los días sábado 7 y domingo 8 de noviembre de 2020.
 
 2.- Las utilidades que se generen producto de esta colecta, serán destinadas a mejorar los servicios de los centros pertenecientes a la institución solicitante en los siguientes ámbitos: alimentación, consumos básicos, material educativo y de capacitación, vestuario, salud, gastos de administración y de campaña, mantención y reparación de infraestructura, pólizas de garantías para la ejecución de proyectos, entre otros.
 
