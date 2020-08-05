@@ -48,7 +48,7 @@ Definiciones
 
 ACTUACIÓN HUMANA:
 
-Capacidades y limitaciones humanas que repercuten en la seguridad y eficiencia de las operaciones aeronáuticas.
+Capacidades y limitaciones humanas que repercuten en la seguridad operacional y eficiencia de las operaciones aeronáuticas.
 
 AMPERE (A):
 
@@ -270,9 +270,7 @@ volumen litro L 1 L = 1 dm(3) = 10-3m3
 
 _______________________________________________________
 
-( ) = Para la conversión, véase la Tabla B-1 del
-
-Capítulo 2 del DAP 05 01.
+( ) = Para la conversión, véase DAP 05 01.
 
 _______________________________________________________
 
@@ -319,12 +317,6 @@ vertical pies por
 minuto ft. min
 
 _______________________________________________________
-
-(*) = Para fines de planificación, cualquier fecha de
-
-terminación de estas unidades, no será anterior
-
-al 31 de Diciembre de 1990.
 
 (**) Altitud, elevación, altura.
 
@@ -616,7 +608,7 @@ absorbida por el freno MJ
 
 4.15 velocidad vertical m/s ft/min
 
-4.16 velocidad del viento km/h kt
+4.16 velocidad del viento m/s kt
 
 5.- CONSUMO.
 
