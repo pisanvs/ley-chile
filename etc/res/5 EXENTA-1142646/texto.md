@@ -30,7 +30,7 @@ Desígnese en el Comité Técnico Especial o de Emergencia de proyectos denomina
 
 1.- Benjamín Maturana Almarza, como representante de la Subsecretaría de Ciencia, Tecnología, Conocimiento e Innovación.
 
-2.- María Ignacia Donoso Bernales, como representante de la Subsecretaría de Economía y Empresas de Menor Tamaño.
+2.- Julio Pertuze Salas, como representante de la Subsecretaría de Economía y Empresas de Menor Tamaño.
 
 3.- Fernando Hentzchel Martínez, como representante de la Gerencia de Capacidades Tecnológicas de la Corfo.
 
