@@ -56,6 +56,10 @@ k) Servicio: Servicio Nacional de Pesca.
 
 l) Subsecretaría: Subsecretaría de Pesca.
 
+m) Certificador de sistemas de mortalidad: persona natural o jurídica, encargada de certificar que los sistemas o equipos de extracción, desnaturalización y almacenamiento de la mortalidad cumplen con las capacidades exigidas conforme el artículo 4ºA del RAMA.
+
+n) Entidad de muestreo: persona natural o jurídica, encargada de confeccionar un acta de levantamiento de información en terreno, que dé cuenta que las muestras o información levantada en terreno se realizaron dando fiel cumplimiento a la metodología de muestreo dictada por resolución exenta Nº 3.612 de 2009 de la Subsecretaría o la normativa que la reemplace.
+
 ## Título II
 
 De la organización y administración
@@ -74,35 +78,15 @@ d) Suspender o eliminar del registro a quienes pierdan uno o más de los requisi
 
 e) Mantener en su sitio de dominio electrónico la siguiente información actualizada:
 
-i. nómina de las personas inscritas en el
+i. Nómina de las personas inscritas en el
 
-registro, indicando nombre o razón social y,
+registro, indicando nombre o razón
 
-cuando corresponda, de sus socios,
+social, domicilio de la persona inscrita,
 
-representantes legales y profesionales
+fecha de vigencia en el registro y
 
-autorizados para suscribir instrumentos de
-
-evaluación ambiental, sanitaria y realizar
-
-certificaciones en representación de la
-
-persona jurídica; domicilio del inscrito;
-
-fecha, número y categoría de la
-
-correspondiente inscripción. En caso de
-
-corresponder la inscripción en más de una
-
-categoría, el número asignado en cada una de
-
-ellas y, si procede, las licitaciones que se
-
-ha adjudicado el inscrito para elaboración de
-
-INFA;
+categoría correspondiente a la inscripción;
 
 ii. nómina de las personas que han sido
 
@@ -138,9 +122,13 @@ b) Certificador de desinfección;
 
 c) Consultor ambiental;
 
-d) Entidad de análisis, y
+d) Entidad de análisis;
 
-e) Laboratorio de diagnóstico.
+e) Laboratorio de diagnóstico;
+
+f) Certificador de sistemas de mortalidad; y,
+
+g) Entidad de muestreo.
 
 Los instrumentos de evaluación ambiental y sanitaria y las certificaciones sólo serán válidos para los efectos de la ley y sus reglamentos cuando emanen de las personas inscritas en la categoría correspondiente de acuerdo al presente reglamento, salvo en los casos en que en virtud del artículo 122 bis el Servicio elabore por sí mismo los instrumentos de evaluación ambiental a que se refiere dicha disposición. Una misma persona podrá inscribirse en más de una categoría siempre que cumpla con los requisitos exigidos en cada una de ellas, debiendo así solicitarlo al Servicio.
 
@@ -176,7 +164,7 @@ b) Contar con experiencia de un año en materias marinas, limnológicas o ambien
 
 #### Artículo 9º
 
-Las entidades de análisis deberán contar con acreditación conforme a la norma técnica Nch 17.025:2005 ante el Sistema Nacional de Acreditación administrado por el Instituto Nacional de Normalización o el que lo reemplace y con alcance de la resolución a que se refiere el artículo 16 del RAMA.
+Las entidades de análisis deberán contar con acreditación conforme a la norma técnica Nch 17.025:2005 o su equivalente ante el Sistema Nacional de Acreditación administrado por el Instituto Nacional de Normalización o el que lo reemplace y con alcance de la resolución a que se refiere el artículo 16 del RAMA.
 
 #### Artículo 10º
 
@@ -188,17 +176,33 @@ b) Contar con una distribución apropiada de espacios, equipos y personal, separ
 
 c) Disponer de sistemas de registro y archivo de información referente a recepción, manejo y datos de las muestras, antecedentes de las especies hidrobiológicas y de su centro de origen, signología y diagnóstico clínico, metodología y resultados de los diagnósticos presuntivos y confirmativos, antibiograma y profesionales involucrados en el diagnóstico;
 
-d) Contar con acreditación conforme a la norma técnica Nch 17.025:2005 ante el Sistema Nacional de Acreditación administrado por el Instituto Nacional de Normalización o el que lo reemplace.
+d) Contar con acreditación conforme a la norma técnica Nch 17.025:2005 o su equivalente ante el Sistema Nacional de Acreditación administrado por el Instituto Nacional de Normalización o el que lo reemplace.
+
+#### Artículo 11
+
+Los certificadores de sistemas de mortalidad deberán cumplir con los siguientes requisitos:
+
+a) Contar con un título profesional o grado académico de duración no inferior a ocho semestres, que incluya materias de ingeniería, tales como cálculo o dimensionamiento de sistemas o tratamientos de residuos o desechos; y,
+
+b) Contar con experiencia de al menos un año en materias relacionadas con procesos industriales (gestión y tratamiento de procesos orgánicos) y en materias relacionadas con cálculos o dimensionamiento de sistemas o tratamientos de residuos o desechos.
+
+#### Artículo 12
+
+Las entidades de muestreo deberán cumplir los siguientes requisitos:
+
+a) Contar con un título técnico de duración no inferior a cuatro semestres, relacionado con materias marinas, limnológicas o ambientales; y,
+
+b) Contar con experiencia profesional de al menos un año, en materias de toma de muestras en terreno de sedimento en ambientes acuáticos.
 
 ## Título IV
 
 Del procedimiento de inscripción
 
-#### Artículo 11
+#### Artículo 13
 
 Para solicitar la inscripción en cualquiera de las categorías del registro, el Servicio pondrá a disposición un formulario electrónico, en el que se deberá indicar, bajo declaración de veracidad de los antecedentes proporcionados, lo siguiente:
 
-a) Identificación del solicitante: nombre, RUT, profesión, domicilio, nacionalidad, correo electrónico, teléfono y fax, si corresponde; en el caso de personas jurídicas, razón social, individualización de el o los representantes legales y socios, señalando el nombre, RUT, profesión, domicilio y nacionalidad de cada uno de ellos;
+a) Identificación del solicitante: nombre, RUT, profesión, domicilio, región, nacionalidad, correo electrónico y teléfono, en el caso de personas jurídicas, razón social, individualización de el o los representantes legales y socios, señalando el nombre, RUT, profesión, domicilio, región y nacionalidad de cada uno de ellos;
 
 b) Formación profesional: en los casos que corresponda, título profesional o grado académico obtenido en una universidad o instituto profesional reconocido por el Estado o en una universidad extranjera con reconocimiento o revalidación por la Universidad de Chile o el Ministerio de Relaciones Exteriores; cursos de especialización, estudios de post grado o post título en el área relacionada con la categoría, si corresponde;
 
@@ -272,9 +276,9 @@ Las personas que soliciten la inscripción deberán adjuntar al formulario, prev
 
 a) Copia del RUT del solicitante;
 
-b) Copia electrónica de la cartola tributaria dispuesta por el Servicio de Impuestos Internos;
+b) Copia electrónica de la cartola tributaria o su equivalente dispuesta por el Servicio de Impuestos Internos;
 
-c) Copia del documento en que conste la personería del representante legal vigente a la fecha de inscripción y de su RUT;
+c) Copia del RUT y documento en que conste la personería del representante legal con una vigencia no superior a 6 meses;
 
 d) Certificado de título profesional o grado académico de una universidad o instituto profesional reconocido por el Ministerio de Educación. En el caso que el título o grado hubiese sido obtenido en una universidad extranjera, se acreditará mediante certificado de reconocimiento o revalidación otorgado por la Universidad de Chile o por el Ministerio de Relaciones Exteriores. En el caso de estudios de post grado o post título se deberá adjuntar el certificado respectivo.
 
@@ -282,15 +286,15 @@ Sin perjuicio de lo anterior, el solicitante podrá ingresar los documentos en p
 
 La veracidad de la información proporcionada es de exclusiva responsabilidad del solicitante de la inscripción.
 
-#### Artículo 12
+#### Artículo 14
 
-En los casos de las categorías de entidades de análisis de las variables ambientales y de los laboratorios de diagnóstico de enfermedades de especies hidrobiológicas, además de lo señalado en el artículo anterior, deberán adjuntarse, en formato electrónico, el certificado emitido por el INN que dé cuenta de la acreditación conforme a la norma chilena 17.025:2005 y dos copias controladas del manual de calidad.
+En los casos de las categorías de entidades de análisis de las variables ambientales y de los laboratorios de diagnóstico de enfermedades de especies hidrobiológicas, además de lo señalado en el artículo anterior, deberán adjuntarse, en formato electrónico, el certificado emitido por el INN que dé cuenta de la acreditación conforme a la norma chilena 17.025:2005 o su equivalente y dos copias controladas del manual de calidad.
 
-#### Artículo 13
+#### Artículo 15
 
 La solicitud de inscripción será presentada al Servicio, el que deberá revisar, en el plazo de quince días hábiles, si la solicitud cuenta con la totalidad de los antecedentes exigidos conforme a la categoría en que se solicita la inscripción. En caso de no reunir la totalidad de los antecedentes, se requerirá al solicitante para que en el plazo de veinte días hábiles complemente la solicitud. Si vencido este plazo no se han acompañado los antecedentes requeridos, la solicitud será devuelta, sin más trámite.
 
-#### Artículo 14
+#### Artículo 16
 
 Admitida a trámite la solicitud, deberá acogerse o rechazarse por resolución fundada, en el plazo de treinta días hábiles.
 
@@ -304,7 +308,7 @@ c) cédula de identidad o RUT y domicilio del inscrito, y
 
 d) en caso de configurarse, vinculaciones constatadas conforme al artículo 21.
 
-#### Artículo 15
+#### Artículo 17
 
 Serán causales de rechazo de la solicitud de inscripción las siguientes:
 
@@ -312,7 +316,7 @@ a) No contar con los años de experiencia exigidos, conforme a la categoría cor
 
 b) No contar con los cursos de patología y epidemiología, en el caso del certificador de la condición sanitaria;
 
-c) No contar con acreditación vigente conforme a la norma chilena 17.025:2005;
+c) No contar con acreditación vigente conforme a la norma chilena 17.025:2005 o su equivalente;
 
 d) Haber sido el solicitante sancionado tres veces en el último año por infracciones a la normativa de acuicultura;
 
@@ -324,19 +328,19 @@ En el caso de haberse solicitado la inscripción en más de una categoría y se 
 
 Contra la resolución que rechaza la inscripción, podrán interponerse los recursos administrativos que proceden de conformidad con la ley Nº 19.880, que establece las Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado.
 
-#### Artículo 16
+#### Artículo 18
 
 En los casos que al momento de la inscripción se encontrare en trámite un procedimiento judicial o administrativo en contra del solicitante por infracciones a la normativa de acuicultura referida a la prestación de servicios de la categoría correspondiente, el inscrito deberá informar al Servicio acerca del resultado al término definitivo del procedimiento respectivo, entendiéndose por tal, al momento de no existir recursos administrativos o judiciales pendientes o vencidos los plazos para interponerlos.
 
 En el evento que el procedimiento respectivo implicara la configuración de una tercera infracción a la normativa de acuicultura antes señalada dentro del último año, se suspenderá la inscripción por resolución del Servicio.
 
-#### Artículo 17
+#### Artículo 19
 
 Tratándose de personas jurídicas, deberá acompañarse al registro copia de todo antecedente o documento que implique una modificación de la información proporcionada al Servicio por el solicitante, dentro del plazo de un mes de haberse producido. El no cumplimiento de este requisito no suspenderá la inscripción, salvo que constatada por el Servicio esta circunstancia y requerido el inscrito para que regularice la situación dentro del plazo de un mes, se mantenga el incumplimiento.
 
 Las personas jurídicas deberán comunicar al Servicio el retiro de cualquiera de sus profesionales autorizados para suscribir por ella los instrumentos de evaluación ambiental o sanitaria o las certificaciones establecidas en la ley o sus reglamentos. Mientras no se comunique dicha circunstancia al Servicio, la persona jurídica mantendrá su responsabilidad por la suscripción de los instrumentos que realice el profesional en el tiempo intermedio entre su retiro de la persona jurídica y la comunicación al Servicio.
 
-#### Artículo 18
+#### Artículo 20
 
 La inscripción tendrá vigencia por un plazo de 3 años y se renovará a petición del interesado por períodos iguales, salvo que se configure una causal de suspensión o eliminación del registro.
 
@@ -344,7 +348,7 @@ En el caso de personas jurídicas, antes de la fecha de vencimiento, deberá aco
 
 En caso que la inscripción en el registro se encuentre vencida y no se hayan cumplido los requisitos para su renovación, no se podrán suscribir los instrumentos ambientales ni sanitarios ni se podrán realizar las certificaciones establecidas en la ley y sus reglamentos para los cuales sea requisito la inscripción en el registro.
 
-#### Artículo 19
+#### Artículo 21
 
 Mientras se encuentre vigente la inscripción, las personas inscritas podrán solicitar su ampliación a otra categoría siempre que cumplan con los requisitos correspondientes y adjunten los documentos específicos correspondientes a la nueva categoría, sin que sea necesario adjuntar los documentos que ya se encuentren acompañados a la inscripción de la anterior categoría.
 
@@ -352,17 +356,17 @@ Mientras se encuentre vigente la inscripción, las personas inscritas podrán so
 
 De las obligaciones de las personas inscritas en el registro
 
-#### Artículo 20
+#### Artículo 22
 
 Las personas inscritas en el registro deberán cumplir con las siguientes obligaciones:
 
-a) remitir al Servicio copia fidedigna de los instrumentos elaborados, pudiendo ser en formato digital, dentro del plazo de cinco días contados desde su emisión;
+a) remitir al Servicio copia fidedigna de los instrumentos elaborados, pudiendo ser en formato digital, dentro del plazo de cinco días contados desde su emisión salvo que una normativa específica indique otro plazo;
 
 b) garantizar su independencia e imparcialidad para realizar las evaluaciones ambientales, sanitarias o certificaciones;
 
 c) mantener la confidencialidad de los resultados o certificaciones;
 
-d) mantener personal calificado para realizar las labores a que postulan;
+d) mantener personal calificado para realizar las labores específicas de cada categoría;
 
 e) mantener equipos y materiales adecuados para la labor a realizar, conforme las exigencias de los reglamentos de la ley;
 
@@ -374,21 +378,29 @@ h) informar oportunamente al Servicio de cualquier modificación relativa a las 
 
 i) dar cumplimiento a las obligaciones establecidas para el ejercicio de sus actividades en la ley y sus reglamentos.
 
-#### Artículo 21
+#### Artículo 23
 
 No se considerarán válidos para los efectos de la ley y el reglamento los instrumentos de evaluación ambiental o sanitaria o certificaciones realizadas por personas inscritas en el registro referidas a centros de cultivo de que sean titulares o exploten a cualquier título o respecto de servicios que hayan sido contratados por personas vinculadas al inscrito. Asimismo, el Servicio no podrá encomendar a personas vinculadas al titular o a quien explota la concesión a cualquier título, la elaboración de la INFA correspondiente en ejercicio de la facultad a que se refiere el artículo 122 bis de la ley.
 
 Se entenderá por personas vinculadas las personas naturales que tengan la calidad de cónyuge o pariente hasta el tercer grado de consanguinidad y segundo de afinidad inclusive o quienes sean directores, gerentes, administradores, ejecutivos principales o liquidadores de la sociedad, así como toda entidad controlada, directa o indirectamente, por cualquiera de ellos; sus socios, si se trata de una sociedad de personas, sea que participen directamente o a través de otra persona vinculada, sea ésta natural o jurídica; las sociedades de personas que tengan uno o más socios en común, directamente o en la forma señalada precedentemente; las entidades del grupo empresarial al que pertenece la sociedad; las personas jurídicas que tengan, respecto de la sociedad, la calidad de matriz, coligante, filial o coligada a que se refiere el Título VIII de la ley Nº 18.046, sobre sociedades anónimas, y toda persona que, por sí sola o con otras con que tenga acuerdo de actuación conjunta, puede designar al menos un miembro de la administración de la sociedad o controle un 10% o más del capital o del derecho a voto.
 
+#### Artículo 24
+
+Los certificadores de los sistemas mortalidad y las entidades de muestreo deberán, en el ejercicio de sus actividades, dar cumplimiento a las metodologías que se establezcan por resolución de la Subsecretaría, previo informe técnico.
+
+La entidad de muestreo solo podrá tomar y derivar a las entidades de análisis las muestras de sedimento para su posterior análisis, debiendo elaborar y acompañar a las mismas el acta de levantamiento de información de terreno.
+
+La entidad de muestreo no podrá, bajo ninguna circunstancia, realizar el análisis de las muestras in situ, así como tampoco podrá realizar la medición de variables in situ, como por ejemplo pH/redox, variables de columna de agua o cualquier otra.
+
 ## Título VI
 
 De la suspensión y de la eliminación del registro
 
-#### Artículo 22
+#### Artículo 25
 
 La inscripción se suspenderá a partir de la fecha de vencimiento de la acreditación ante el INN en los casos de las entidades de análisis y los laboratorios de diagnóstico y por el plazo que transcurra hasta que se presente al Servicio el certificado que dé cuenta de la renovación de dicha acreditación.
 
-#### Artículo 23
+#### Artículo 26
 
 Son causales de suspensión del registro hasta por el plazo de un año:
 
@@ -406,7 +418,7 @@ f) No remitir al Servicio copia fidedigna de los instrumentos elaborados dentro 
 
 En los casos de los laboratorios de diagnóstico, si de conformidad con el reglamento a que se refiere el artículo 86 de la ley se obtienen resultados desfavorables en las rondas interlaboratorios o se detecta cualquier irregularidad, se suspenderá la inscripción del laboratorio afectado mientras no se identifique y corrija el error.
 
-#### Artículo 24
+#### Artículo 27
 
 Son causales de suspensión del registro hasta por el plazo de dos años:
 
@@ -414,7 +426,7 @@ a) Haber sido sancionado por tres infracciones a la normativa de acuicultura en 
 
 b) Incurrir en la reiteración del incumplimiento de las metodologías y procedimientos establecidos en la normativa vigente.
 
-#### Artículo 25
+#### Artículo 28
 
 Son causales de suspensión del registro hasta por un plazo de cinco años:
 
@@ -422,7 +434,7 @@ a) Haberse puesto término al contrato para la elaboración de las INFAs encarga
 
 b) Elaborar instrumentos de evaluación ambiental o sanitaria o emitir certificaciones en los casos exigidos por la ley y sus reglamentos respecto de centros de cultivo de que sean titulares o prestar servicios de evaluación ambiental o sanitaria o de certificación destinados a centros de cultivo cuyos titulares sean personas vinculadas al inscrito en los términos del artículo 21.
 
-#### Artículo 26
+#### Artículo 29
 
 Son causales de eliminación del registro:
 
@@ -432,13 +444,13 @@ b) Certificar hechos inexistentes o falsos;
 
 c) Incurrir en falsificación o adulteración de documentos que sean esenciales en la evaluación ambiental o sanitaria o certificación, según corresponda.
 
-#### Artículo 27
+#### Artículo 30
 
 El plazo de suspensión en los casos señalados en los artículos 23, 24 y 25 será determinado por el Servicio atendiendo al tipo de infracción y al entorpecimiento que dicha infracción haya provocado al ejercicio de sus funciones.
 
 El Servicio aplicará la suspensión o eliminación de la inscripción en el registro mediante resolución fundada y previa audiencia al inscrito. Para tales efectos, se someterá, en lo que sea procedente, a las disposiciones la ley Nº 19.880 que establece las Bases de los Procedimientos Administrativos que rigen los actos de los órganos de la Administración del Estado.
 
-#### Artículo 28
+#### Artículo 31
 
 La suspensión del registro afectará a la persona jurídica y a sus socios personalmente considerados, quienes no podrán inscribirse en el registro por el plazo de suspensión, ya sea directamente o a través de otra persona jurídica de la que forman parte.
 
