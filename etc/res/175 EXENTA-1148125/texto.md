@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "PARQUE EÓLICO CABRERO"
+
+De conformidad con lo dispuesto en el artículo 94 del DS N° 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta N° 175, de fecha 22 de julio de 2020, la Directora Regional del Servicio de Evaluación Ambiental de la Región del Biobío ha resuelto dar inicio a un proceso de participación ciudadana por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto: "Parque Eólico Cabrero", cuyo proponente es Wind 3 SpA.
+
+El proyecto considera la construcción y operación de diecisiete (17) aerogeneradores para la generación de electricidad, en la comuna de Cabrero. La potencia nominal es de 92,5 MW, y la energía se conducirá e interconectará a través de una línea de media tensión soterrada hasta una línea de convergencia común que pasará por un sistema de almacenaje de 20 MW; a su vez, este último se conectará a una línea de media tensión soterrada que va a transportar el exceso de energía a una subestación que se emplaza a 4,5 km al sur del Proyecto en el sector de Charrúa, para su incorporación al SEN. Se estima una vida útil de 30 años.
+
+Para conocimiento de la comunidad, cualquier persona natural o jurídica podrá realizar observaciones al proyecto, según lo dispuesto en el artículo 95 del DS N° 40/2012 y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental, de 20 días hábiles, contados a partir del día hábil siguiente de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Biobío, ubicadas en calle Lincoyán 145, Concepción, en horario de atención entre las 8:30 a 13:30 horas, en días hábiles de lunes a viernes, así como también podrá acceder a ella a través del sitio web www.sea.gob.cl.-
+
+Silvana Suanes Araneda, Directora Regional, Servicio de Evaluación Ambiental Región del Biobío.
