@@ -18,7 +18,7 @@ Resuelvo:
 
 #### Artículo 1°
 
-Créase un Consejo Asesor denominado "Consejo Asesor de Género para el Sistema Nacional de Ciencia, Tecnología, Conocimiento e Innovación", en adelante "el Consejo", el que tendrá por objeto asesorar a la Subsecretaria de Ciencia, Tecnología, Conocimiento e Innovación en el diseño, implementación y seguimiento de una Política de Género que permita construir un sistema nacional de producción de conocimiento sin brechas de género.
+Créase un Consejo Asesor denominado "Consejo Asesor para la Igualdad de Género en Ciencia, Tecnología, Conocimiento e Innovación". en adelante "el Consejo", el que tendrá por objeto asesorar a la Subsecretaria de Ciencia, Tecnología, Conocimiento e Innovación en el diseño, implementación y seguimiento de una Política de Género que permita construir un sistema nacional de producción y transferencia de conocimiento, sin brechas de género.
 
 #### Artículo 2°
 
@@ -36,27 +36,29 @@ d. Asesorar permanentemente a la Subsecretaria durante la implementación y segu
 
 El Consejo estará integrado por los siguientes miembros:
 
-a) El (la) Subsecretario(a) de Ciencia, Tecnología, Conocimiento e Innovación, quien lo presidirá
+a) El (La) Subsecretario(a) de Ciencia, Tecnología, Conocimiento e Innovación, quien lo presidirá.
 
-b) Miriam Lorena Henríquez Viñas
+b) El (La) Subsecretario(a) de la Mujer y Equidad de Género.
 
-c) José Miguel Benavente Hormazábal
+c) Miriam Lorena Henríquez Viñas.
 
-d) Adrián Palacios Vargas
+d) José Miguel Benavente Hormazábal.
 
-e) Verónica Undurraga Schüler
+e) Adrián Palacios Vargas.
 
-f) Yanira Andrea Zúñiga Añazco
+f) Verónica Undurraga Schüler.
 
-g) María Paz Epelman Medel
+g) Yanira Andrea Zúñiga Añazco.
 
-h) Claudio Alberto Olea Azar
+h) María Paz Epelman Medel.
 
-i) Ana María Montoya Squif
+i) Claudio Alberto Olea Azar.
 
-j) María Cecilia Hidalgo Tapia
+j) Ana María Montoya Squif.
 
-Asistirán como invitados(as) permanentes a las sesiones del Consejo el (la) Subsecretario(a) de la Mujer y Equidad de Género, el (la) Subsecretario(a) de Educación Superior, el (la) Director(a) Nacional de la Agencia Nacional de Investigación y Desarrollo y una Secretaria Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación, designada por la Subsecretaria, invitados que sólo tendrán derecho a voz.
+k) María Cecilia Hidalgo Tapia.
+
+Asistirán como invitados(as) permanentes a las sesiones del Consejo, el (la) Subsecretario(a) de Educación Superior, el (la) Director(a) Nacional de la Agencia Nacional de Investigación y Desarrollo, una Secretaria Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación, designada por la Subsecretaria y la Directora Ejecutiva de la Corporación Comunidad Mujer, invitados que sólo tendrán derecho a voz.
 
 #### Artículo 4°
 
