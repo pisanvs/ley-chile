@@ -34,13 +34,13 @@ f) Los correos electrónicos de fecha 10 de julio de 2020, que dan cuenta de la 
 
 Resolución:
 
-1. Llámase a postulación en condiciones especiales a los arrendatarios que, contando con Registro Social de Hogares, su contrato de trabajo se haya suspendido, hayan quedado cesantes o sus ingresos hayan disminuido en a lo menos un 30%, para el otorgamiento de subsidios habitacionales del Programa de Subsidio de Arriendo de Vivienda, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013. Los Servicios de Vivienda y Urbanización (Serviu) procederán directamente, o a través de los medios electrónicos que se establezcan al efecto, a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deban acompañarlas.
+1. Llámase a postulación en condiciones especiales a los arrendatarios que, contando o no con Registro Social de Hogares, su contrato de trabajo se haya suspendido, hayan quedado cesantes o sus ingresos hayan disminuido en a lo menos un 30%, para el otorgamiento de subsidios habitacionales del Programa de Subsidio de Arriendo de Vivienda, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013. Los Servicios de Vivienda y Urbanización (Serviu) procederán directamente, o a través de los medios electrónicos que se establezcan al efecto, a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deban acompañarlas.
 
 2. Las postulaciones se recibirán a partir de la fecha de publicación en el Diario Oficial de la presente resolución y hasta el 24 de agosto de 2020, efectuándose tres procesos de selección. Quienes no sean considerados en una selección, continuarán postulando y podrán ser contemplados en el siguiente proceso.
 
 3. Para postular al llamado a que se refiere el numeral 1. de esta resolución exenta, los postulantes deberán cumplir con las siguientes condiciones:
 
-3.1. Contar con Registro Social de Hogares (RSH).
+3.1. En los casos en que el postulante no cuente con Registro Social de Hogares (RSH), sus ingresos no deben superar los $2.000.000.- (dos millones de pesos).
 
 3.2. Acreditar su cesantía o disminución de al menos 30% en los montos de ingresos mediante uno de los siguientes documentos:
 
@@ -52,7 +52,7 @@ Resolución:
 
 3.2.4. Informe emitido por el Servicio de Impuestos Internos respecto de los seis últimos meses de boletas de honorarios.
 
-3.3. Contar con Núcleo Familiar el que será verificado en el RSH. No se exigirá esta condición a los adultos mayores y a las personas con discapacidad, siempre que dicha condición esté contemplada en su RSH.
+3.3. Contar con Núcleo Familiar, el que será verificado en el RSH. En caso de no contar con Registro Social de Hogares RSH, deberá ingresar en la solicitud de postulación a todos los integrantes de su núcleo familiar indicando su nombre, edad, parentesco y número de cédula de identidad. No se exigirá esta condición a los adultos mayores y a las personas que declaren tener discapacidad adjuntando la respectiva credencial de discapacidad.
 
 3.4. Presentar contrato de arriendo vigente, en el que podrá ser arrendatario el postulante o alguno de los integrantes del núcleo familiar declarado.
 
@@ -108,7 +108,7 @@ Resolución:
 
 10. Los beneficiarios de este llamado podrán postular a llamados regulares y/o especiales del Programa de Subsidio de Arriendo de Vivienda, pudiendo aplicar su nuevo beneficio una vez caducado el beneficio otorgado por este llamado.
 
-11. Las viviendas arrendadas por los postulantes al presente llamado estarán exentas del requisito de contar como mínimo con tres recintos, establecido en la letra c. del artículo 10 del DS N° 52 (V. y U.), de 2013.
+11. Las viviendas arrendadas por los postulantes al presente llamado estarán exentas del requisito de contar como mínimo con tres recintos y de la condición de no estar afecta a prohibición de arriendo en favor del Serviu, establecidos en las letras c. y g., del artículo 10 del DS Nº 52 (V. y U.), de 2013.
 
 12. El arrendador podrá presentar la declaración jurada que se indica en resuelvo 5.3 de la presente resolución o copia simple del certificado de dominio vigente, no aplicándose la exigencia de presentar en original el certificado de dominio vigente dispuesto en la letra a. del artículo 37, del DS N° 52 (V. y U.), de 2013.
 
@@ -118,7 +118,7 @@ Resolución:
 
 .
 
-15. Establécese que no se considerarán los factores de puntajes dispuestos en las letras g., h. e i. del artículo 25 del DS Nº 52 (V. y U.), de 2013, y se otorgará un puntaje adicional de 100 puntos a quienes no hayan sido beneficiados con el Ingreso Familiar de Emergencia, dispuesto en la ley Nº 21.230, del Ministerio de Desarrollo Social y Familia, de 2020.
+15. Establécese que no se considerarán los factores de puntajes dispuestos en las letras f., g., h. e i., del artículo 25 del DS Nº 52 (V. y U.), de 2013 y, para el caso de los postulantes que no cuenten con RSH, no se considerarán, además, los puntajes dispuestos en las letras b., k. y l., del mismo artículo mencionado.
 
 16. Establécese que, en todo aquello que no se encuentre regulado por el presente llamado, se aplicará lo dispuesto en el DS Nº 52 (V. y U.), de 2013, y sus modificaciones, que reglamenta el Programa de Subsidio de Arriendo de Vivienda.
 
