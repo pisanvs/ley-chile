@@ -1530,4 +1530,162 @@ convivencia vecinal y
 
 comunitaria.
 
+1483 Fono Emergencia Teno Las llamadas serán
+
+recepcionadas por
+
+personal encargado
+
+de la seguridad
+
+de la Ilustre
+
+Municipalidad de
+
+Teno, respecto
+
+de situaciones
+
+de emergencias y
+
+seguridad ciudadana
+
+que ocurran en
+
+dicha comuna. De
+
+esta manera, las
+
+llamadas serán
+
+canalizadas por
+
+medio del envío
+
+de móviles hacia
+
+el lugar de la
+
+emergencia,siendo
+
+éstas de diversa
+
+índole: accidentes
+
+de tránsito,
+
+emergencias en el
+
+espacio público,
+
+incendios y
+
+catástrofes
+
+naturales, además
+
+se coordinará
+
+con otros organismos
+
+de emergencia
+
+para la atención
+
+de éstas. Asimismo,
+
+se recibirán
+
+denuncias de víctimas
+
+de delitos,
+
+actividades irregulares
+
+en espacio público,
+
+problemáticas de
+
+convivencia vecinal y
+
+comunitaria, que
+
+requieran una acción
+
+oportuna.
+
+1484 Fono Emergencia
+
+Curicó Las llamadas serán
+
+recepcionadas
+
+por la oficina del
+
+Call Center
+
+Municipal, ubicada
+
+al interior del
+
+edificio de la Ilustre
+
+Municipalidad de Curicó,
+
+respecto de situaciones
+
+de emergencia, orden
+
+público y seguridad.
+
+De esta manera,
+
+permitirá a los
+
+vecinos de la comuna
+
+tener un acceso
+
+rápido y directo
+
+a los dispositivos
+
+de respuesta,
+
+además del despliegue
+
+territorial frente
+
+a los operativos,
+
+acciones,trámites
+
+e información para
+
+la comunidad, en
+
+cuanto a los servicios
+
+que entrega la
+
+Municipalidad.
+
+1485 Fono Emergencia
+
+Quilicura Servicio de emergencia
+
+en ayuda a los vecinos
+
+a través del envío de
+
+móviles en terreno
+
+y atención de
+
+emergencias
+
+comunales de
+
+todo tipo.
+
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
