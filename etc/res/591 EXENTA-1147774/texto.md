@@ -278,11 +278,7 @@ Déjase constancia que esta medida comenzó a regir el día 24 de marzo de 2020 
 
 Esta medida tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
 
-46. Postérganse las cirugías electivas cuyo retraso no signifique un riesgo grave para la salud del paciente, salvo aquellas que cumplan con alguna de las siguientes condiciones:
-
-a. Sean cirugías mayores ambulatorias.
-
-b. Sean cirugías cuya hospitalización prevista no exceda de una noche.
+### 46. Eliminado
 
 47. Las medidas de este acápite tendrán el carácter de indefinidas, hasta que las condiciones epidemiológicas permitan su suspensión.
 
@@ -348,9 +344,9 @@ Dicho instructivo contempla, además, las formas y condiciones para la obtenció
 
 En el caso de los domicilios particulares, no se contabilizará al grupo familiar que vive en la misma residencia, pudiendo acudir simultáneamente 5 personas adicionales a este.
 
-61. Se autorizan las actividades deportivas, con un máximo de 10 personas para aquellas actividades que sean de naturaleza colectiva. Estas actividades solo podrán realizarse en parques urbanos, áreas silvestres protegidas y otros afines, y en lugares abiertos de acceso libre y gratuito al público.
+61. Se autorizan las actividades deportivas en lugares públicos y privados. Para aquellas actividades que sean de naturaleza colectiva, podrán concentrarse un máximo de 10 personas. Estas actividades solo podrán realizarse en lugares abiertos.
 
-Las actividades señaladas en este numeral no podrán contar con público.
+Las actividades señaladas en este numeral no podrán contar con público. No está permitido el uso de camarines o lugares cerrados que no sean absolutamente esenciales para el adecuado funcionamiento de las actividades deportivas que se realicen en los lugares abiertos de un establecimiento.
 
 Asimismo, podrán realizar actividades deportivas aquellas personas que cuentan con la autorización a la que hace referencia el numeral 40 del Capítulo I.
 
@@ -362,7 +358,7 @@ Asimismo, podrán realizar actividades deportivas aquellas personas que cuentan 
 
 64. Se autorizan las actividades deportivas en lugares públicos y privados. Para aquellas actividades que sean de naturaleza colectiva, podrán concentrarse un máximo de 5 personas en lugares cerrados y 25 personas en lugares abiertos.
 
-Las actividades señaladas en este numeral no podrán contar con público.
+Las actividades señaladas en este numeral no podrán contar con público. No está permitido el uso de camarines o lugares cerrados que no sean absolutamente esenciales para el adecuado funcionamiento de las actividades deportivas del establecimiento.
 
 Asimismo, podrán realizar actividades deportivas aquellas personas que cuentan con la autorización a la que hace referencia el numeral 40 el Capítulo I.
 
