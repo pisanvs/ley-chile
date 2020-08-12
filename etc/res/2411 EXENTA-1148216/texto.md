@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 2.411, de fecha 26 de julio de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, que produce efectos desde su fecha de dictación, se prohíbe el día 27 de julio del presente año, por episodio crítico de preemergencia ambiental por material particulado respirable MP10 y MP2,5, adicionalmente a lo establecido por resolución exenta Nº 1.555 de 2020, de la misma Secretaría Regional, la circulación de vehículos motorizados que se señalan en siguiente cuadro; encontrándose exceptuados de esta restricción todos los vehículos aludidos en el Resuelvo 2° de la resolución exenta Nº 1.555, de 2020, ya citada:
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana de Santiago (S).
