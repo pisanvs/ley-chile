@@ -96,7 +96,49 @@ Los siguientes son los instrumentos de acceso de aplicación general cuya ponder
 
 1. Notas de Enseñanza Media (en adelante, NEM): La nota de egreso de enseñanza media se obtiene promediando las notas finales de cada año escolar en que el postulante haya sido promovido al curso superior y aproximando este resultado al segundo decimal. Luego, este promedio se transforma a un puntaje estándar, en adelante Puntaje NEM, comparable con los de las pruebas de admisión, mediante tablas de conversión. Cada modalidad educativa tiene su propia tabla de conversión.
 
+Cabe señalar que existen tablas de conversión diferenciadas por cada modalidad educativa: Humanista-Científica diurna, vespertina nocturna y Técnico-Profesional. Estas tablas se encuentran disponibles en la Plataforma Electrónica Única del Sistema de Acceso.
+
 2. Ranking de Notas: Considera el rendimiento académico de un estudiante en relación con su contexto educativo. Es un instrumento que busca beneficiar a quienes tienen un comportamiento académico destacado en su contexto. El puntaje de este instrumento es a lo menos igual al Puntaje NEM.
+
+Para realizar el cálculo y obtener el Puntaje Ranking, en primera instancia se deberá considerar si: a. El postulante cursó toda la Enseñanza Media en el mismo establecimiento educacional; b. El postulante aprobó cursos en distintos establecimientos, o c. El postulante corresponde a un caso especial.
+
+a. Postulantes que hayan cursado la Enseñanza Media en el mismo establecimiento educacional.
+
+Para calcular el Puntaje Ranking es necesario considerar información académica sobre el estudiante y sobre su contexto educativo. La información del estudiante es el Promedio Acumulado de notas, y la información sobre su contexto es el Promedio Histórico y el Promedio Máximo Histórico. El Promedio Acumulado de notas corresponde al promedio de las notas con que un estudiante aprobó cada curso de la enseñanza media. Por su parte, el Promedio Histórico corresponde al promedio de los Promedios Acumulados de tres generaciones anteriores a la fecha de egreso del estudiante. Finalmente, el Promedio Máximo Histórico se obtiene del promedio de los Promedios Acumulados máximos en cada una de las tres generaciones anteriores a la fecha de egreso del estudiante. El Promedio Máximo Histórico se expresa en dos decimales sin aproximación y siempre será mayor al Promedio Histórico, a menos que ocurriera la poco probable situación que todos los estudiantes tengan los mismos Promedios Acumulados.
+
+De este modo, el cálculo del Puntaje Ranking para los postulantes que hayan cursado la Enseñanza Media en el mismo establecimiento educacional, se efectúa considerando las siguientes alternativas:
+
+i. Promedio Acumulado ≤ Promedio Histórico: el Puntaje Ranking será igual al Puntaje NEM del estudiante.
+
+ii. Promedio Histórico < Promedio Acumulado ≤ Promedio Máximo Histórico: En este escenario el Puntaje Ranking es mayor que el Puntaje NEM y aumenta linealmente con el Promedio Acumulado hasta 850 puntos. Los 850 puntos se obtienen cuando el Promedio Acumulado es igual al Promedio Máximo Histórico. La relación entre el Promedio Acumulado y el Puntaje Ranking es descrita por la ecuación 1:
+
+Puntaje Ranking: b + m x Promedio Acumulado
+
+La pendiente m de una institución dada se calcula utilizando el Puntaje Ranking máximo (PRmax) que es 850 para todas las instituciones, el Puntaje NEM de un estudiante cuyo Promedio Acumulado es igual al Promedio Histórico (PN hist), el Promedio Máximo Histórico (N hmax) y el Promedio Histórico (N his). La ecuación 2 representa la fórmula de cálculo:
+
+Por su parte, el intercepto b está determinado por la fórmula de cálculo representada en la ecuación 3:
+
+iii. Promedio Máximo Histórico < Promedio Acumulado: un estudiante con Promedio Acumulado mayor al Promedio Máximo Histórico de su institución obtendrá 850 en Puntaje Ranking.
+
+b. Postulantes que hayan aprobado cursos en distintos establecimientos educacionales.
+
+En el caso de un postulante que cursó su Enseñanza Media en distintos establecimientos, la forma de calcular el Puntaje Ranking será distinta, pues se debe considerar la información académica de los distintos contextos educativos en que el estudiante estuvo. El contexto educativo en que cursó una mayor cantidad de cursos tendrá una mayor influencia en el Puntaje Ranking del estudiante. En términos generales, se calcula un Puntaje Ranking por institución y luego se calcula el promedio de estos puntajes considerando la cantidad de cursos que se aprobaron en cada institución. El Puntaje Ranking en cada institución educativa se calcula de la misma manera descrita en el punto anterior, aunque para esto es necesario adecuar el Promedio Acumulado, Promedio Histórico y Promedio Máximo Histórico al caso en que un estudiante curse y apruebe solo algunos cursos de la enseñanza media en un establecimiento educacional.
+
+El Promedio Acumulado es el promedio de las notas con que un estudiante aprobó cursos consecutivos en una institución. Por ejemplo, un estudiante que realizó primero medio en una institución "X1" y segundo, tercero y cuarto medio en otra institución "X2" tendrá dos Promedios Acumulados. Por otro lado, el Promedio Histórico es el promedio de los Promedios Acumulados de las tres generaciones anteriores al año en que el estudiante aprobó cursos consecutivos. Asimismo, el Promedio Máximo Histórico es el promedio entre los máximos Promedios Acumulados de cada una de las tres generaciones anteriores. Finalmente, la Longitud de Contexto Educativo es la cantidad de cursos consecutivos aprobados por un estudiante en cada contexto educativo.
+
+El Puntaje Ranking de un estudiante, en cada establecimiento que estuvo, se calcula de la misma manera descrita en el caso anterior. Es decir, en cada establecimiento, se compara el Promedio Acumulado del estudiante con el Promedio Histórico y el Promedio Máximo Histórico para determinar la forma de asignar el Puntaje Ranking. Una vez calculados los puntajes ranking de un estudiante en cada uno de los establecimientos en que estuvo, se calcula su Puntaje Ranking. De esta manera, el Puntaje Ranking quedará determinado por la ecuación 3:
+
+c. Postulantes con casos especiales.
+
+Existen casos especiales en que los procedimientos descritos en las letras b) y c) precedentes para asignar Puntaje Ranking son modificados en virtud de las situaciones especiales que a continuación se señalan:
+
+i. Si un establecimiento educacional tiene menos de 30 egresados en las últimas tres generaciones, se agrupará con establecimientos similares. Luego de ser agrupados, este conjunto de establecimientos se trata como uno y se aplica el procedimiento descrito en la letra a) precedente de asignación de puntaje. Los criterios utilizados para determinar que dos o más establecimientos son similares, son: región, modalidad educativa y dependencia del establecimiento.
+
+ii. Si algún establecimiento no tiene egresados en una o dos de las tres generaciones anteriores, pero hay más de 30 egresados entre la o las generaciones que sí tuvieron egresados, entonces se aplica el procedimiento descrito en el literal a) de asignación de Puntaje Ranking, considerando únicamente la o las generaciones con egresados.
+
+iii. Si un postulante rindió exámenes libres, su Puntaje Ranking se asignará comparando su desempeño académico con un establecimiento Científico-Humanista vespertino.
+
+iv. Si un postulante cursó parte de la enseñanza media en el extranjero y cuenta con Puntaje NEM, se le asignará su Puntaje NEM como Puntaje Ranking en aquellos cursos aprobados en el extranjero. Este puntaje será asociado a un contexto educativo. Luego su Puntaje Ranking será el promedio ponderado por la cantidad de cursos aprobados en los distintos contextos educativos, como fue descrito anteriormente.
 
 3. Prueba de admisión universitaria de Matemáticas: Destinada a medir los conocimientos y competencias necesarias para un adecuado desempeño académico; es de carácter obligatorio para la postulación establecida en este capítulo.
 
