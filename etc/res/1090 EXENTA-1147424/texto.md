@@ -52,7 +52,7 @@ Resolución:
 
 3.2.4. Informe emitido por el Servicio de Impuestos Internos respecto de los seis últimos meses de boletas de honorarios.
 
-3.3. Contar con Núcleo Familiar, el que será verificado en el RSH. En caso de no contar con Registro Social de Hogares RSH, deberá ingresar en la solicitud de postulación a todos los integrantes de su núcleo familiar indicando su nombre, edad, parentesco y número de cédula de identidad. No se exigirá esta condición a los adultos mayores y a las personas que declaren tener discapacidad adjuntando la respectiva credencial de discapacidad.
+3.3. En caso de contar con Núcleo Familiar, ingresar en la solicitud de postulación a todos los integrantes de su núcleo familiar indicando su nombre, edad, parentesco y número de cédula de identidad.
 
 3.4. Presentar contrato de arriendo vigente, en el que podrá ser arrendatario el postulante o alguno de los integrantes del núcleo familiar declarado.
 
@@ -84,7 +84,7 @@ Resolución:
 
 6.2. De contar con el ahorro mínimo dispuesto en el artículo 6º.
 
-6.3. De lo dispuesto en la letra e., del artículo 16, salvo respecto a la necesidad de contar con Núcleo Familiar el que, sin embargo, no deberá estar conformado en la forma que indica.
+6.3. De contar con el Núcleo Familiar dispuesto en la letra e., del artículo 16.
 
 6.4. De contar con ingresos familiares dispuesto en la letra f., del artículo 16.
 
