@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 195 EXENTA, DE 2020
+
+Resolución exenta N° 195, de 22 de julio de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, aprueba Contrato Ad-Referéndum de Concesión 7 para operar una Planta Revisora Clase B en la comuna de Concepción y una Planta Revisora Clase AB en la comuna de Curanilahue, en la Región del Biobío, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío y el concesionario "Algoritmos y Mediciones Ambientales SpA", con fecha 27 de abril de 2020, cuya vigencia es de ocho años, contados desde la publicación del presente extracto en el Diario Oficial.-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
