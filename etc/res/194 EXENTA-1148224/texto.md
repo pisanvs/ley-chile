@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 194 EXENTA, DE 2020
+
+Resolución exenta Nº 194, de 22 de julio de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, aprueba Contrato Ad-Referéndum de Concesión 1 para operar una Planta Revisora Clase AB en la comuna de Concepción, una Planta Revisora Clase AB en la comuna de Chiguayante y una Planta Revisora Clase AB en la comuna de Coronel, en la Región del Biobío, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío y el concesionario "Dekra Revisión Técnica SpA", con fecha 27 de abril de 2020, cuya vigencia es de ocho años contados desde la publicación del presente extracto en el Diario Oficial.-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
