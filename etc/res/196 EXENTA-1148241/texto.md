@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO "PROCEDIMIENTO DEVOLUCIONES VOLUNTARIAS DE BONOS OTORGADOS POR EL ESTADO BONO DE EMERGENCIA COVID-19, APORTE FAMILIAR PERMANENTE, BONO AYUDA FAMILIAR, INGRESO FAMILIAR DE EMERGENCIA (IFE), Y OTROS", VERSIÓN 1
+
+Por resolución exenta N° 196, de 29 de julio de 2020, el Director Nacional del Instituto de Previsión Social, aprobó para este Instituto el documento denominado "Procedimiento Devoluciones Voluntarias de Bonos Otorgados por el Estado Bono de Emergencia Covid-19, Aporte Familiar Permanente, Bono Ayuda Familiar, Ingreso Familiar de Emergencia (IFE), y Otros", Versión 1, cuyo objetivo es establecer un procedimiento específico para los beneficiarios y beneficiarias que voluntariamente soliciten devolver bonos otorgados por el Estado, tales como los indicados u otro beneficio que se establezca por ley, el legislador encomiende al IPS el pago y que la administración de los mismos sea asignada a otras entidades de la Administración del Estado.-
+
+Patricio Coronado Rojo.
