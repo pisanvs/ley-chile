@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 21 EXENTA, DE FECHA 14 DE ENERO DE 2019
+
+Por resolución exenta Nº 21, de fecha 14 de enero de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se resolvió modificar la resolución exenta N° 278, de 22 de junio de 2017, de esta Secretaría Regional Ministerial, reemplazándose el numeral 1° de la parte resolutiva, por lo siguiente: "1° Otórgase Reconocimiento Oficial a la Escuela de Conductores Profesionales "Escuela de Conductores Automóvil Club de Chile Limitada", RUT N° 77.323.230-K, representada legalmente por el señor José Manuel Martínez Vásquez, RUT N° 23.548.779-9, para impartir cursos conducentes a la obtención de licencias de conductor profesional clases A-2, A-3, A-4, y A-5, en el domicilio ubicado en calle Caupolicán N° 85 y taller mecánico ubicado en Avenida Manuel Rodríguez N° 1149, ambos de la comuna de Concepción". En lo no modificado por este acto, se mantiene íntegramente vigente la resolución exenta N° 278, de 2017.-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
