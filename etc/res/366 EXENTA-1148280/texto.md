@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 366 EXENTA, DE 31 DE JULIO DE 2019
+
+Por resolución exenta Nº 366, de fecha 31 de julio de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se resolvió modificar la resolución exenta Nº 166, de 23 de agosto de 2007, de esta Secretaría Regional Ministerial, en razón del cambio de domicilio de la Escuela de Conductores Clase B, Automóvil Club de Chile Limitada, reemplazándose el Resuelvo Nº 1, por el siguiente: "1.- Apruébase, el programa de enseñanza a la Escuela de Conductores Clase B, Automóvil Club de Chile Limitada, RUT 77.323.230-K, representada por don Juan Carlos Jerez Guirao, que tendrá como Director a don Manlio Francisco Landahur Flores, para impartir cursos conducentes a la obtención de licencias de conductor Clase B, en el domicilio ubicado en calle Caupolicán Nº 85, de la comuna de Concepción.".-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío
