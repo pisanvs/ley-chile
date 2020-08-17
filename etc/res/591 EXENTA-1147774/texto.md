@@ -50,17 +50,23 @@ CAPÍTULO I. DE LAS MEDIDAS SANITARIAS GENERALES
 
 2. Sin perjuicio de lo dispuesto precedentemente, instrúyase a las Secretarías Regionales Ministeriales de Salud del país la instalación de aduanas sanitarias y realización de controles sanitarios en todos aquellos puntos de entrada al país, además de puertos, aeropuertos y terminales de buses que se encuentren en su región.
 
-3. Las aduanas sanitarias entregarán y controlarán los pasaportes sanitarios. La conservación y exhibición a la autoridad competente del pasaporte sanitario será obligatorio para las personas a quienes se les entregue, sea de forma física o digital.
+No obstante las facultades de fiscalización propias de la autoridad competente, los trabajadores y prestadores de servicios que laboren en empresas de transporte aéreo, marítimo, terrestre o ferroviario, deberán solicitar la exhibición del pasaporte sanitario a los pasajeros de todos los servicios interregionales que hayan sido abordados en recintos donde no esté implementada una aduana sanitaria. No se permitirá abordar al medio de transporte a aquella persona que no cuente con o se niegue a exhibir un pasaporte sanitario que lo autorice a viajar, y a acreditar su identidad.
 
-La autoridad sanitaria podrá limitar el desplazamiento a través de una aduana sanitaria cuando las condiciones sanitarias de la persona así lo hagan aconsejable.
+3. Las aduanas sanitarias entregarán y controlarán los pasaportes sanitarios. La conservación y exhibición a la autoridad competente del pasaporte sanitario será obligatoria para las personas a quienes se les entregue, sea de forma física o digital.
 
-Asimismo, en las aduanas sanitarias se verificará el cumplimiento de las medidas dispuestas en esta resolución, en particular aquellas que dicen relación con las cuarentenas o aislamientos que deben cumplir determinadas personas.
+Las personas que exhiban su pasaporte sanitario podrán desplazarse a través de una aduana sanitaria, incluidas aquellas que se encuentren en carreteras y autopistas del país.
+
+No obstante lo anterior, la autoridad sanitaria podrá limitar el desplazamiento a través de una aduana sanitaria cuando las condiciones sanitarias de la persona así lo hagan aconsejable.
+
+Asimismo, en las aduanas sanitarias se verificará el cumplimiento de las medidas dispuestas en esta resolución, en particular, la prohibición de desplazamiento que afecta a aquellas personas que deben cumplir con las cuarentenas o aislamientos que ha dispuesto la autoridad sanitaria.
 
 ### II. Aislamientos en razón a horarios determinados
 
 4. Prohíbase a los habitantes de la República salir a la vía pública, como medida de aislamiento, entre las 22:00 y 05:00 horas, salvo aquellas personas que cuenten con salvoconductos individuales o permisos que lo autoricen en virtud del Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 17.811, del 24 de julio de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Esta medida será ejecutada de acuerdo a las instrucciones que impartan al efecto los Jefes de la Defensa Nacional de las distintas regiones.
 
 Déjase constancia que la medida de este numeral comenzó a regir desde las 22:00 horas del día 22 de marzo de 2020 y será aplicada por un plazo indefinido, hasta que las condiciones epidemiológicas permitan su suspensión.
+
+Asimismo, se prohíbe la realización o participación en eventos y actividades sociales y recreativas en el horario señalado en el párrafo primero de este numeral, en los mismos términos que establece el numeral 36.
 
 ### III. Aislamientos o cuarentenas a poblaciones determinadas
 
@@ -262,6 +268,12 @@ Sin perjuicio de lo dispuesto precedentemente, la Secretaría Regional Ministeri
 
 43. Prohíbase la recalada en todos los puertos chilenos de cruceros de pasajeros. Déjase constancia que la medida de este numeral comenzó a regir desde el día 15 de marzo y será aplicada hasta el 30 de septiembre de 2020, pudiendo prorrogarse si lo hacen necesarias las condiciones epidemiológicas.
 
+43. Bis. Dispóngase que los buses de transporte público de pasajeros que presten servicio interurbano y entre regiones deberán confeccionar y portar una nómina de los pasajeros que transportan. Dicha obligación será exigible en aquellos viajes cuya duración exceda las 2 horas.
+
+La nómina de la que trata el párrafo anterior deberá contener los nombres y apellidos de los pasajeros, su número de cédula de identidad o pasaporte y sus números de teléfono de contacto, así como el número de asiento utilizado por cada uno de ellos. Esta nómina estará, en todo caso, afecta a las disposiciones de las leyes Nº 19.628 y Nº 20.584, en lo que fuera aplicable.
+
+Esta nómina deberá ser puesta a disposición de la autoridad sanitaria si esta así lo requiere.
+
 44. Dispóngase que los habitantes de la República deberán continuar residiendo en su domicilio particular habitual. En consecuencia, prohíbase el desplazamiento de personas hacia otros lugares de residencia distintos a su domicilio particular habitual.
 
 Exceptúanse de la medida de este numeral a las personas mayores de 65 años y los enfermos crónicos. Sin perjuicio de lo anterior, en caso que estas personas decidan permanecer en un lugar distinto a su domicilio particular habitual, deberán estar en cuarentena por un tiempo indefinido.
@@ -334,6 +346,10 @@ Los 5 pasos de los que trata el párrafo anterior son los siguientes:
 
 Dicho instructivo contempla, además, las formas y condiciones para la obtención de los permisos de desplazamiento por parte de las personas exceptuadas del cumplimiento de la medida de aislamiento o cuarentena.
 
+57 bis. En los centros dependientes del Servicio Nacional de Menores, tanto de administración directa como de organismos colaboradores, se observará la siguiente regla:
+
+a. Se permitirá a los niños, niñas y adolescentes hacer uso del permiso especial dispuesto en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 19.563, del 13 de agosto de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+
 ### III. Paso 2: Transición
 
 58. Se entenderá que una localidad está en Transición, cuando la autoridad sanitaria haya dispuesto por resolución, la cuarentena de dicha localidad sólo con efecto durante los días sábados, domingos y festivos.
@@ -350,6 +366,12 @@ Las actividades señaladas en este numeral no podrán contar con público. No es
 
 Asimismo, podrán realizar actividades deportivas aquellas personas que cuentan con la autorización a la que hace referencia el numeral 40 del Capítulo I.
 
+61 bis. En los centros dependientes del Servicio Nacional de Menores, tanto de administración directa como en los organismos colaboradores, se observarán las siguientes reglas:
+
+a. Se permiten hasta tres salidas semanales por cada niño, niña o adolescente, previa autorización y con la supervisión de la dirección de la residencia o centro.
+
+b. Se permiten visitas de vínculos significativos de los niños, niñas y adolescentes a petición de ellas y ellos o de dichas personas.
+
 ### IV. Paso 3: Preparación
 
 62. Las localidades que estén en Preparación, no estarán sujetas a cuarentenas. A dichas localidades se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, con las modificaciones que se señalan en los numerales siguientes.
@@ -361,6 +383,14 @@ Asimismo, podrán realizar actividades deportivas aquellas personas que cuentan 
 Las actividades señaladas en este numeral no podrán contar con público. No está permitido el uso de camarines o lugares cerrados que no sean absolutamente esenciales para el adecuado funcionamiento de las actividades deportivas del establecimiento.
 
 Asimismo, podrán realizar actividades deportivas aquellas personas que cuentan con la autorización a la que hace referencia el numeral 40 el Capítulo I.
+
+64 bis. En los centros dependientes del Servicio Nacional de Menores, tanto de administración directa como en los organismos colaboradores, se observarán las siguientes reglas:
+
+a. Se permiten hasta cinco salidas semanales por cada niño, niña o adolescente, con la supervisión de la dirección de la residencia o centro.
+
+b. Se permiten visitas de vínculos significativos de los niños, niñas y adolescentes a petición de ellas y ellos o de dichas personas.
+
+c. Se permiten salidas con fines laborales a adolescentes de residencias que se encuentren en proceso de preparación para la vida independiente y a adolescentes que se encuentren en centros privativos de libertad que estén realizando labores en virtud de sus programas de intervención.
 
 ### V. Paso 4: Apertura Inicial
 
@@ -380,6 +410,16 @@ Asimismo, podrán realizar actividades deportivas aquellas personas que cuentan 
 
 69 bis. Se permite el funcionamiento de los establecimientos de educación parvularia, básica y media, previa autorización de reanudación de clases presenciales de la Secretaría Regional Ministerial de Educación correspondiente, debiendo cumplirse con la normativa, instrucciones y protocolos emitidos por el Ministerio de Salud, con el objeto de asegurar las condiciones sanitarias de los establecimientos educacionales.
 
+69 ter. En los centros dependientes del Servicio Nacional de Menores, tanto de administración directa como en los organismos colaboradores, se observarán las siguientes reglas:
+
+a. Se permite a cada niño, niña o adolescente salir, previa autorización y supervisión de la dirección de la residencia o el centro.
+
+b. Se permiten visitas de vínculos significativos de los niños, niñas y adolescentes, a petición de ellas y ellos o de dichas personas.
+
+c. Se permiten salidas con fines laborales a adolescentes de residencias que se encuentren en proceso de preparación para la vida independiente y a adolescentes que se encuentren en centros privativos de libertad que estén realizando labores en virtud de sus programas de intervención.
+
+d. Se permiten, a los niños, niñas y adolescentes, salir con fines educacionales, en la medida en que los establecimientos educacionales a los que los niños, niñas y adolescentes se encuentren inscritos se encuentren operativos.
+
 ### VI. Paso 5: Apertura Avanzada
 
 70. Las localidades que estén en Apertura Avanzada, no estarán sujetas a cuarentenas. A dichas localidades se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, con las siguientes modificaciones:
@@ -390,7 +430,7 @@ b. Se permitirá la realización o participación en eventos y actividades socia
 
 c. No hay restricción a la actividad deportiva. Permite público con un máximo de 50% de su capacidad.
 
-d. Se levanta cuarentena y prohibición de visitas para centros del Servicio Nacional de Menores, establecida en el numeral 7 de la presente resolución.
+d. Se levantan las restricciones en los centros dependientes del Servicio Nacional de Menores, tanto de administración directa como en los organismos colaboradores.
 
 e. Se levanta cuarentena y prohibición de visitas para los Establecimientos de Larga Estadía de Adultos Mayores, establecida en el numeral 6 de la presente resolución.
 
