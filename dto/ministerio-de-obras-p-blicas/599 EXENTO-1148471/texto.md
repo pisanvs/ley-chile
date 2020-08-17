@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 599, de 22 de julio de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y el DFL MOP N° 206, de 1960, se expropió el lote de terreno 3, Rol de avalúo 52-501, Comuna de Punitaqui, superficie 2.950 m2., para la obra: SISTEMA DE AGUA POTABLE RURAL LAS RAMADAS, COMUNA DE PUNITAQUI, PROVINCIA DE LIMARI, REGION DE COQUIMBO. La comisión de peritos, integrada por NICOLÁS ALEJANDRO ALARCÓN SÁNCHEZ, PAULINA LORENA JADUE ZAROR y CAROLINA CLAUDIA VERDEJO DÍAZ, fijó el valor de tasación con fecha 06 de abril de 2019, acordándose la indemnización con sus propietarios PATRICIA ALEJANDRA ARAYA CASTRO Y OTROS, en la cantidad de $28.124.434.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
