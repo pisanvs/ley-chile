@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 586 de 22 de julio de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno 33-A y 34-A, superficies 83 y 100 m2., Roles de avalúo 59-106 y 59-117 respectivamente, comuna de Romeral, para la obra MEJORAMIENTO RUTA J-55 SECTOR: LA UNION - LOS QUEÑES, COMUNA DE ROMERAL, PROVINCIA DE CURICO, REGION DEL MAULE. La comisión de peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, fijó el valor de tasación con fecha 01 de agosto de 2017, acordándose la indemnización con sus propietarios MARCO ANTONIO DEL RÍO ANABALÓN Y OTROS, en la cantidad de $2.428.904.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
