@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 593, de 22 de julio de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropió el lote de terreno N° 102, para la obra: MEJORAMIENTO RUTA K-275, SECTOR LAS TRANCAS-PARQUE INGLÉS, que figura a nombre de GRACIELA ELIANA ROJAS MANCILLA, rol de avalúo 194-12, Comuna de RÍO CLARO, REGIÓN DEL MAULE, superficie 135 m2. La Comisión de Peritos integrada por PATRICIO ULISES DURÁN MARCOS, PAULA SOLEDAD GONZÁLEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 21 de noviembre de 2017, fijó el monto de la indemnización provisional en la cantidad de $1.153.750, para el lote N° 102. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
