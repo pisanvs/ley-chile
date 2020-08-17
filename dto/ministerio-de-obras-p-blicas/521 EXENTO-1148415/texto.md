@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 521 de 7 de julio de 2020, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 13 para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO CHILLÁN - COLLIPULLI CALLE DE SERVICIO ORIENTE, DESDE EL SUR ENLACE MONTEAGUILA, Región del Biobío, a nombre EMPRESA DE LOS FERROCARRILES DEL ESTADO, conforme inscripción dominio Fs. 417 N° 413, CBR Yumbel, Año 1995, comuna de Cabrero, superficie 424 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 331 de 15 de noviembre de 2019, integrada por Constanza Camila Vásquez Muñoz, Claudio Alejandro García Schlie y Miguel Juan Fernández Cádiz, fijó con fecha 31 de diciembre de 2019, el valor provisional de la indemnización en la cantidad de $1.383.900 para el lote N° 13. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
