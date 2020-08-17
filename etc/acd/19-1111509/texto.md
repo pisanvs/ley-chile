@@ -58,7 +58,7 @@ a. Inicio y admisibilidad, para dar impulso al procedimiento administrativo se r
 
 . Todas las diligencias detalladas en el punto anterior, deberán realizarse en un plazo máximo de 10 días hábiles.
 
-b. Emplazamiento
+b. Emplazamiento y Prueba
 
 . El Panel habiendo tomado conocimiento de la posible comisión de una infracción, decide en esa misma sesión si procede citar a la empresa objeto de investigación para que realice sus descargos, o bien determina fundadamente que no corresponde continuar con la investigación, o lo deja para resolución en la siguiente sesión si requiere más antecedentes o una discusión más prolongada.
 
@@ -67,6 +67,8 @@ b. Emplazamiento
 . Si el Panel decide que la empresa efectúe por escrito sus descargos, en cuyo caso se entenderá que se cumple con la audiencia previa, el Vicepresidente Ejecutivo mediante oficio notificará esta circunstancia.
 
 Los descargos deberán presentarse al Panel dentro de los 10 días hábiles siguientes a la notificación del oficio a que alude el párrafo anterior.
+
+De ser necesario, se procederá a la apertura de un período de prueba conforme a lo establecido en la ley Nº 19.880.
 
 c. Resolución
 
