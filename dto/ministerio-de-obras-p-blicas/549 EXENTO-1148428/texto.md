@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº549, de 15 de julio de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.36-A y 38-A, para la obra: MEJORAMIENTO Y CONSTRUCCION CAMINO CURANILAHUE - NACIMIENTO POR BAJO LOS RIOS, que figuran a nombre de CID ELGUETA DERGICA LEONOR y MARTINEZ SALAZAR ULDARICIO DEL R, roles de avalúo 318-66 y 318-67, Comuna de NACIMIENTO, REGIÓN DEL BIOBÍO, superficies 847 y 434 m2 respectivamente. La Comisión de Peritos integrada por MARIA PAMELA MAC-GUIRE ACEVEDO, VALERIA DEL CARMEN MARDONEZ LEMA y DORY GISELA DONOSO SALGADO, mediante informe de tasación de 10 de julio de 2019, fijó el monto de la indemnización provisional en la cantidad de $4.476.940 para el lote Nº36-A, y $2.452.106 para el lote Nº38-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
