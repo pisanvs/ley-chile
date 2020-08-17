@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 109 de fecha 07/08/2020, conforme al artículo 51 Ley 16.391, D.L. 2.186/1978 y D.S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", SERVIU Región de la Araucanía ordenó la expropiación del Lote N° 223-0. "Inmueble urbano consistente en terreno de equipamiento de cuatrocientos cuarenta y dos coma sesenta y cuatro metros cuadrados, ubicado en Pasaje Reloncaví, número trescientos sesenta y dos, Lote B, Población Reloncaví, Temuco, según plano S-IX-T Nº setecientos cuarenta y cinco, aprobado por la Dirección de Obras Municipales de Temuco de fecha catorce Febrero Dos mil ocho, comuna de Temuco, Rol de avalúo 2646-30. La superficie a expropiar aproximada es de 442,64 metros cuadrados, de aparente dominio de Ministerio Evangelístico Yo Soy El Que Soy, Éxodo Tres: Catorce. Comisión de Peritos designada al efecto, fijó monto de Indemnización Provisional en $63.725.273.- según informe N° 223-0 de fecha 01/08/2020, pagadero Contado.-
+
+Director SERVIU Región de la Araucanía.
