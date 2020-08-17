@@ -112,7 +112,7 @@ h) En el numeral 10.6, denominado "Causales de no pago de la cobertura", reempl�
 
 5º En todo lo no modificado por esta resolución, se mantienen vigente y sin alteraciones los Reglamentos de los instrumentos "Fogain", "Cobex", "Pro Inversión" y "Cobertura IGR".
 
-6º Las modificaciones aprobadas por el presente acto administrativo se aplicarán a todas las operaciones que cumplan los siguientes requisitos: (i) tengan cobertura de los programas Fogain, Pro Inversion, Cobex, o Cobertura IGR, (ii) se presenten, o ya se hayan presentado, a cobro a Corfo, y (iii) caigan, o hayan caído, en mora en cualquier momento desde el 1º de octubre de 2019 hasta el 31 de diciembre de 2020.
+6º Las modificaciones aprobadas por el presente acto administrativo tendrán el siguiente ámbito temporal de aplicación: (i) los literales a) y b) de los resuelvos 1º, 2º y 3º, se aplicarán a todas las reprogramaciones que sean celebradas hasta el 31 de diciembre de 2020; y (ii) todas las demás modificaciones se aplicarán a las operaciones que se presenten a cobro a Corfo hasta el 31 de diciembre de 2020.
 
 Anótese, tómese razón, publíquese y archívese.- Pablo Terrazas Lagos, Vicepresidente Ejecutivo.- Naya Flores Araya, Fiscal Suplente.
 
