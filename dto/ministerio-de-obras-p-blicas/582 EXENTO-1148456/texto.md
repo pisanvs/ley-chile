@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 582, de 22 de julio de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 79-B y 82-A, Rol de avalúo 12210-49, Comuna de Hualaihué, superficies 841 y 2.619 m2., para la obra: MEJORAMIENTO RUTA 7 SECTOR: HORNOPIREN - PICHANCO, COMUNA DE HUALAIHUÉ, PROVINCIA DE PALENA, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRÉS ECHEVERRIA CAMPO y CARMEN PILAR RÍOS MARCUELLO, fijó el valor de tasación con fecha 21 de noviembre de 2018, acordándose la indemnización con su propietaria JAVIERA ROCÍO CAMPOS TORO, en la cantidad total de $4.224.305.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
