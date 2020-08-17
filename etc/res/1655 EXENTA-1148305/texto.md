@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.655 del 4 de agosto de 2020, Serviu Región del Biobío ordenó expropiación parcial de inmueble ubicado en Avenida Coliumo ST 6 1011 Coliumo, Rol de Avalúo 1434-9, comuna de Tomé, de aparente dominio de Mosocoso Torres Pablo Lorenzo. La superficie afecta a expropiación parcial es de 14,04 m2 de terreno y 0,00 m2 de expropiación de edificación, conforme a plano de expropiación S8R 39154-1 del mes de marzo de 2020, para la ejecución de la obra Mejoramiento Avenida Coliumo, comuna de Tomé, conforme artículo 51 ley 16.391 y DL 2186. Comisión Peritos integrada por el constructor civil María Soledad Silva Hernández, el arquitecto Alexander Theodor Boyer Trenit y el ingeniero civil Orlando Javier Paredes Vásquez, según informe de fecha 09.06.2020, que fijó monto provisional en $359.284.-, pagadero de contado.-
+
+Director Subrogante Serviu Región del Biobío.
