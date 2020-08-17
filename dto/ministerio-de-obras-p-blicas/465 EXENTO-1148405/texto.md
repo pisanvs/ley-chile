@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 465 de 26 de junio de 2020, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 15 para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO CHILLÁN - COLLIPULLI CALLE DE SERVICIO CABRERO ORIENTE, Región del Biobío, que figura a nombre de MELGAREJO SOTO LUIS NOLBERTO, rol de avalúo 206-69 de la comuna de Cabrero, superficie 2.178 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 324 de 15 de noviembre de 2019, integrada por Angélica Yanett Seura Rojas, Patricio Antonio Rivera Castro y Omar Ignacio Gómez Figueroa, fijó con fecha 27 de diciembre de 2019, el valor provisional de la indemnización en la cantidad de $9.365.400 para el lote N° 15. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
