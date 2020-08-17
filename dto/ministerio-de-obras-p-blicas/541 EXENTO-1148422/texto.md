@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº541, de 15 de julio de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 2, para la obra: SISTEMA DE AGUA POTABLE RURAL EL PEÑASCO - LLEPO, que figura a nombre de POBLETE BRAVO JAVIER LEONIDAS, rol de avalúo 557-199, Comuna de LINARES, REGION DEL MAULE, superficie 104 m2. La Comisión de Peritos integrada por DORY GISELA DONOSO SALGADO, JUAN ANDRES TEPPER LAVANDEROS y LORENA ELIZABETH GAJARDO ALARCON, mediante informe de tasación de 19 de diciembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $757.600 para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
