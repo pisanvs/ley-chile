@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.553, de 21 de julio de 2020, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Los Carrera 2222, Rol de Avalúo Nº 351-27, comuna de Concepción, de aparente dominio de Sociedad Inmobiliaria y de Inver. en una superficie de 109,47 m2 de terreno y 185,37 m2 de edificación (137,92 m2 edificación (a), 36,75 m2 edificación (b) y 10,70 m2 edificación (c)), dentro de polígono y linderos señalados plano de expropiación S8R-38.455-1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao/General Novoa, comuna de Concepción", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos Integrada por arquitecto Juan Felipe King Domínguez, arquitecto Carolina Contreras Tapia y arquitecto Carolina Zuloaga Sanhueza, según informe de fecha 28 de mayo 2020, fijó monto provisional indemnización en $162.044.718, pagadera de contado.-
+
+Director (S) Serviu Región del Biobío.
