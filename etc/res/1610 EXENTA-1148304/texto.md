@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Exenta 1.610, 28 de julio de 2020, Serviu Región del Biobío ordenó expropiación parcial de terreno de un inmueble ubicado en Av. Coliumo 2135 Los Morros Coliumo, Rol de Avalúo N° 1409-94, comuna de Tomé, de aparente dominio de Cea González Roxana Andrea, superficie parcial afecta a expropiación de terreno de 150,95 m2(Lote 5) y expropiación de edificación 0,00 m2, según plano S8R 39004-1, para la ejecución de las obras del Proyecto "Mejoramiento Avenida Coliumo" comuna de Tomé, Región del Biobío, conforme artículo 51 Ley N° 16.391 y D.L. N° 2.186. Comisión Peritos integrada por Constructor Civil María Soledad Silva Hernández, por el Arquitecto Alexander Boye Trenit y por el Ingeniero Civil Orlando Paredes Vásquez, según informe de fecha 11.06.2020, fijó monto provisional indemnización en $3.389.813.-
+
+Director Serviu Región del Biobío.
