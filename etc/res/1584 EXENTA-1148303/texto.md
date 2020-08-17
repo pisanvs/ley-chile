@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.584, 24 de julio 2020, Serviu Región del Biobío ordenó expropiación parcial de terreno, ubicado en Padre C Korda 2262, Rol de Avalúo Nº 351-29, comuna de Concepción, de aparente dominio de Martínez Ulloa Gisela y otro., superficie de 18.12 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-38.880-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida Par- Vial Collao- General Novoa", comuna de Concepción, Región del Biobío", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Juan Felipe King Domínguez, por el arquitecto Carolina Andrea Contreras Tapia, y por el arquitecto Carlina del Pilar Zuloaga Sanhueza, según informe de fecha 26.05.2020, fijó monto provisional indemnización en $7.664.982.-
+
+Director (S) Serviu Región del Biobío.
