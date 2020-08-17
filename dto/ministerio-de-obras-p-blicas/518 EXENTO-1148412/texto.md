@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto (Exento) MOP Nº 518 de 07 de julio de 2020, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 2 para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO CHILLÁN - COLLIPULLI RAMAL ACCESO VEHICULAR NOR - PONIENTE, PASO SUPERIOR SANTA CLARA, Región de Ñuble, que figura a nombre de ESSBIO S.A., rol de avalúo 848-27 de la comuna de Bulnes, superficie 106 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 326 de 15 de noviembre de 2019, integrada por Patricia Angélica Morales Rivera, Valeria Francisca Madariaga Tordecilla y Claudio Gonzalo Durán Massardo, fijó con fecha 30 de diciembre de 2019, el valor provisional de la indemnización en la cantidad de $2.972.000 para el lote Nº 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
