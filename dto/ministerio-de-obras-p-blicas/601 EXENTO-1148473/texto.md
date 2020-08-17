@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 601, de 27 de julio de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c) y 14° letra e) del DFL. MOP. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N° 206 de 1960; artículo 10 de la Ley N° 18.772, se expropió para la EMPRESA DE TRANSPORTE DE PASAJEROS METRO S.A., el lote de terreno N° 97L7, para la obra: PROYECTO LÍNEA 7 METRO S.A., que figura a nombre de SOTO ALBORNOZ CLAUDIO ANDRES, rol de avalúo 760-26, Comuna de RENCA, REGIÓN METROPOLITANA DE SANTIAGO, superficie 216,86 m2. La Comisión de Peritos integrada por ANDRES ANIBAL RISSO CAAMAÑO, PATRICIA VERONICA ZAVALA CONTRERAS y HUGO ANDRES MARIN AVENDAÑO, mediante informe de tasación de 25 de abril de 2019, fijó el monto de la indemnización provisional en la cantidad de $56.167.900.- para el lote N°97L7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
