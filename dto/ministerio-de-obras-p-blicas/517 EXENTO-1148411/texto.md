@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto (Exento) MOP N° 517 de 07 de julio de 2020, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 3 para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO CHILLÁN - COLLIPULLI RAMAL ACCESO VEHICULAR NOR - PONIENTE, PASO SUPERIOR SANTA CLARA, Región de Ñuble, a nombre EMPRESA DE FERROCARRILES DEL ESTADO, conforme inscripción dominio Fs.806 vta. N°876, CBR Bulnes, Año 1991, comuna de Bulnes, superficie 903 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 327 de 15 de noviembre de 2019, integrada por Patricia Angélica Morales Rivera, Valeria Francisca Madariaga Tordecilla y Claudio Gonzalo Durán Massardo, fijó con fecha 30 de diciembre de 2019, el valor provisional de la indemnización en la cantidad de $23.937.000 para el lote N° 3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
