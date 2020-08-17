@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 595 de 22 de julio de 2020, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 76, Rol de avalúo 59-334, comuna de Romeral, superficie 420 m2., para la obra MEJORAMIENTO RUTA J-55 SECTOR: LA UNIÓN - LOS QUEÑES, COMUNA DE ROMERAL, PROVINCIA DE CURICÓ, REGIÓN DEL MAULE. La comisión de peritos integrada por PATRICIO ULISES DURÁN MARCOS, RODRIGO ANTONIO SILVA LAZO y PAULA SOLEDAD GONZÁLEZ ORTEGA, fijó el valor de tasación con fecha 31 de marzo de 2015, acordándose la indemnización con su propietaria MILDA CRISTINA PEÑAILILLO DE LA JARA, en la cantidad de $4.428.426.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
