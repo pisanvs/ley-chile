@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 272 EXENTA, DE 9 DE ABRIL 2020
+
+Por resolución exenta N° 272, de 9 de abril de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Magallanes y de la Antártica Chilena, se modifica la resolución exenta N° 196, de 14 de marzo de 2016, de esta Secretaría Regional Ministerial, que aprobó los Planes y Programas de Enseñanza de la Escuela de Conductores Clase B, Capacitaciones Avansur Limitada, incorporando una nueva sede, ubicada en calle Bernardo O'Higgins N° 1263, de la ciudad de Puerto Natales, cuyo Director responsable será don Alejandro Enrique San Martín Turra, cédula nacional de identidad N° 14.096.174-4.-
+
+Marco Antonio Mella Bórquez, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Magallanes y de la Antártica Chilena.
