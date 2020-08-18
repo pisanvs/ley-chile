@@ -60,15 +60,15 @@ Frecuencia Modulada.
 
 Región de Atacama.
 
-Superficie delimitada por una
+Superficie delimitada por
 
-intensidad de campo mayor
+una intensidad de campo
 
-o igual que 54 dB (μV/m),
+mayor o igual que 54 dB
 
-referida al punto de emisión
+(μV/m), referida al punto
 
-de la señal.
+de emisión de la señal.
 
 - Período de la concesión : 25 años.
 
@@ -76,7 +76,9 @@ de la señal.
 
 - Plazo término de obras : 15 días.
 
-- Plazo inicio de transmisiones : 60 días.
+- Plazo inicio de
+
+transmisiones : 60 días.
 
 - Potencia : 100 W.
 
@@ -90,7 +92,9 @@ CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
 
 - Diagrama de Radiación : Direccional.
 
-- Ganancia : 7,6 dBd de ganancia máxima.
+- Ganancia : 7,6 dBd de ganancia
+
+máxima.
 
 - Polarización : Vertical.
 
@@ -98,25 +102,29 @@ CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
 
 - Nº Antenas : 2.
 
-- Altura del centro de radiación : 20 m.
+- Altura del centro de
+
+radiación : 20 m.
 
 - Restricción : La altura del terreno sobre
 
 el nivel del mar, donde se
 
-ubicará el sistema radiante,
+ubicará el sistema
 
-no debe ser mayor a 200 m.
+radiante, no debe
 
-- Arreglo de antenas de acuerdo a la siguiente tabla:
+ser mayor a 200 m.-
+
+Arreglo de antenas de acuerdo a la siguiente tabla:
 
 .
 
 - Largo de cable alimentador : 21 m.
 
-- Pérdidas en cables, conectores y : 0,8 dB.
+- Pérdidas en cables,
 
-otros
+conectores y otros : 0,8 dB.
 
 - Diagrama de radiación horizontal de acuerdo a la siguiente tabla:
 
@@ -124,13 +132,19 @@ otros
 
 UBICACIÓN DE LAS INSTALACIONES
 
-- Ubicación del Estudio, Planta : Cerro Huasco s/nº, comuna de Huasco,
+- Ubicación del : Cerro Huasco s/nº, comuna
 
-Transmisora y Sistema Radiante Región de Atacama.
+Estudio, Planta de Huasco, Región de
 
-- Coordenadas Geográficas : 28º 29' 13'' Latitud Sur.
+Transmisora y Sistema Atacama.
 
-71º 09' 58'' Longitud Oeste.
+Radiante
+
+- Coordenadas Geográficas : 28º 29' 10'' Latitud Sur.
+
+71º 09' 48'' Longitud
+
+Oeste.
 
 Datum WGS84.
 
