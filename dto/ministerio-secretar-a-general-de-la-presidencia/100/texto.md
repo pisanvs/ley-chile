@@ -1490,6 +1490,8 @@ Existirá un organismo autónomo, con patrimonio propio, de carácter técnico, 
 
 El Banco Central sólo podrá efectuar operaciones con instituciones financieras, sean públicas o privadas. De manera alguna podrá otorgar a ellas su garantía, ni adquirir documentos emitidos por el Estado, sus organismos o empresas.
 
+Sin perjuicio de lo anterior, en situaciones excepcionales y transitorias, en las que así lo requiera la preservación del normal funcionamiento de los pagos internos y externos, el Banco Central podrá comprar durante un período determinado y vender, en el mercado secundario abierto, instrumentos de deuda emitidos por el Fisco, de conformidad a lo establecido en su ley orgánica constitucional.
+
 Ningún gasto público o préstamo podrá financiarse con créditos directos o indirectos del Banco Central.
 
 Con todo, en caso de guerra exterior o de peligro de ella, que calificará el Consejo de Seguridad Nacional, el Banco Central podrá obtener, otorgar o financiar créditos al Estado y entidades públicas o privadas.
@@ -2199,6 +2201,10 @@ La entrega de los fondos acumulados y autorizados de retirar se efectuará de la
 La implementación del sistema de transferencias de fondos y otras medidas que se efectúen en virtud de esta disposición no tendrán costo alguno para los afiliados. Además, las administradoras de fondos de pensiones deberán enviar a la Superintendencia de Pensiones todo antecedente del cumplimiento de las medidas que se efectúen con motivo de la aplicación de la presente disposición, y al Banco Central cuando corresponda.
 
 La observancia, fiscalización y sanción de las obligaciones de las administradoras de fondos de pensiones contenidas en la presente disposición, le corresponderá a la autoridad competente dentro de sus atribuciones legales.
+
+CUADRAGÉSIMA. La reforma constitucional al artículo 109 empezará a regir una vez que entre en vigencia la ley que introduce modificaciones a la ley N° 18.840, Orgánica Constitucional del Banco Central de Chile, que regulará el ejercicio de la nueva facultad que se le otorga al Banco Central.
+
+> **Nota.** La ley 21265, publicada el 08.09.2020, modifica el artículo 27 de la ley 18840 que regula el ejercicio de la nueva facultad que se le otorga al Banco Central, en virtud de la ley 21253 publicada el 20.08.2020.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Eduardo Dockendorff Vallejos, Ministro Secretario General de la Presidencia.-Francisco Vidal Salinas, Ministro del Interior.- Ignacio Walker Prieto, Ministro de Relaciones Exteriores.- Jaime Ravinet de la Fuente, Ministro de Defensa Nacional.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción y Presidente de la Comisión Nacional de Energía.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Sergio Bitar Chacra, Ministro de Educación.- Luis Bates Hidalgo, Ministro de Justicia.- Jaime Estévez Valencia, Ministro de Obras Públicas y de Transportes y Telecomunicaciones.- Jaime Campos Quiroga, Ministro de Agricultura.- Yerko Ljubetic Godoy, Ministro del Trabajo y Previsión Social.- Pedro García Aspillaga, Ministro de Salud.- Alfonso Dulanto Rencoret, Ministro de Minería.- Sonia Tschorne Berestescky, Ministra de Vivienda y Urbanismo y de Bienes Nacionales.- Osvaldo Puccio Huidobro, Ministro Secretario General de Gobierno.- Yasna Provoste Campillay, Ministra de Planificación.
 
