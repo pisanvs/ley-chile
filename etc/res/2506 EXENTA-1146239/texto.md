@@ -32,7 +32,7 @@ Resuelvo:
 
 #### Artículo 1°
 
-Determínase para el año 2021 los siguientes alumnos en calidad de prioritarios, para todas las regiones del país, que serán beneficiarios de la subvención escolar preferencial, de acuerdo a lo dispuesto en el artículo 2° de la ley N° 20.248 y que se encuentran individualizados en el listado contenido en el archivo del CD folio N° 01/2021 - Alumnos Prioritarios con firma electrónica avanzada de la Coordinadora Nacional de Tecnología del Ministerio de Educación, que se acompaña en el anexo y que se forma parte integrante de la presente resolución.
+Determínase para el año 2021, los siguientes alumnos en calidad de prioritarios, para todas las regiones del país, que serán beneficiarios de la Subvención Escolar Preferencial, de acuerdo con lo dispuesto en el artículo 2° de la ley N° 20.248, y que se encuentran individualizados en los listados contenidos en los archivos de los CDs. Folios N° 01/2021-Alumnos Prioritarios y N° 03/2021 Acoge, ambos con firma electrónica avanzada de la Coordinadora Nacional de Tecnología de la División de Planificación y Presupuesto, del Ministerio de Educación, que se acompañan en el anexo y que forman parte integrante de la presente resolución.
 
 #### Artículo 2°
 
