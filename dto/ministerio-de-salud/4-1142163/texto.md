@@ -270,6 +270,10 @@ Otórgase a la Central Nacional de Abastecimiento de los Servicios de Salud, fac
 
 8. Realizar importación directa de medicamento e insumos médicos que sean necesarios para el cumplimiento de las facultades que se entregan al sector salud mediante este decreto. En dicho contexto, podrá, en el caso de productos importados, y en virtud de prácticas internacionales de comercio, eximirse de una o más obligaciones contenidas en la ley 19.886.
 
+9. Podrá proveer de productos farmacéuticos, dispositivos médicos, elementos e insumos sanitarios y de protección del virus SARS-CoV-2 que se requieran por los organismos y servicios públicos creados por ley.
+
+Los referidos organismos podrán solicitar a la Central los productos sanitarios referidos. La Central evaluará la solicitud y, en caso de ser aprobada, procederá a la provisión de los productos sanitarios según las reglas generales y a lo dispuesto en el presente decreto de alerta sanitaria.
+
 #### Artículo 8º
 
 Otórgase a la Superintendencia de Salud, facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
