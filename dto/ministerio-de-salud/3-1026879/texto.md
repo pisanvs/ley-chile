@@ -1640,7 +1640,7 @@ DEL PROCEDIMIENTO APLICABLE A LA SOLICITUD DE REGISTRO.
 
 La solicitud de registro sanitario, conjuntamente con los antecedentes que deben acompañarse según el tipo de producto farmacéutico, será presentada al Instituto de Salud Pública en los formularios aprobados, previo pago del arancel correspondiente.
 
-Dicha solicitud se hará constar en un expediente, escrito o electrónico, en el que se asentarán los documentos presentados por los interesados, con expresión de la hora y fecha de presentación, otorgándose un número de referencia para su ingreso y seguimiento, previo pago del arancel correspondiente a la primera fase de admisibilidad de la solicitud.
+Dicha solicitud se hará constar en un expediente, escrito o electrónico, que deberá ordenarse de acuerdo al formato que apruebe el Director del Instituto mediante resolución. En el referido expediente se asentarán los documentos presentados por los interesados, con expresión de la hora y fecha de presentación, otorgándose un número de referencia para su ingreso y seguimiento, previo pago del arancel correspondiente a la primera fase de admisibilidad de la solicitud.
 
 #### Artículo 44º
 
@@ -1654,11 +1654,7 @@ Si se determina que la solicitud no es admisible, la resolución que así lo est
 
 #### Artículo 46º
 
-Al declararse la admisibilidad del procedimiento de registro, se remitirán los antecedentes a la dependencia correspondiente, la que procederá al desglose de los antecedentes técnicos y administrativos, acompañados, para su análisis, por separado.
-
-Tratándose de los antecedentes administrativos a que se refiere el número 10 del artículo 29º, serán previamente analizados por la unidad de asesoria jurídica.
-
-Los antecedentes técnicos referidos a los requisitos de la información técnica, de la calidad farmacéutica y de seguridad y eficacia, como asimismo aquellos particulares que según el caso sean procedentes de acuerdo al tipo de producto farmacéutico y que correspondan según el párrafo anterior, serán desglosados y remitidos a las dependencias técnicas especializadas, los que serán evaluados en conformidad al presente reglamento.
+Al declararse la admisibilidad del procedimiento de registro, se remitirán los antecedentes a la dependencia correspondiente, de acuerdo a la naturaleza de los mismos, para su posterior análisis, por separado.
 
 #### Artículo 47º
 
@@ -1710,9 +1706,9 @@ En el evento que la evaluación practicada recomendare la denegación del regist
 
 - Insuficiencia de los antecedentes o estudios presentados: se notificará al interesado con el fin de que aporte mayores antecedentes dentro del plazo de 30 días hábiles, y de ser dichos nuevos antecedentes suficientes para garantizar las condiciones señaladas precedentemente, se concederá el registro sanitario.
 
-En el evento que tales nuevos antecedentes no fueren presentados dentro del plazo otorgado o de que, presentados en tiempo, fueren nuevamente evaluados como insuficientes, el Instituto solicitará directa y fundadamente al Ministerio de Salud su pronunciamiento respecto de la denegación del registro.
+En el evento que tales nuevos antecedentes no fueren presentados dentro del plazo otorgado o que, presentados en tiempo, fueren nuevamente evaluados como insuficientes, el Instituto procederá con la denegación del registro sanitario, mediante resolución fundada que así lo establezca, la que será notificada al requirente.
 
-El Ministerio tendrá el plazo de 10 días hábiles para emitir su informe acerca de la denegación propuesta, comunicándolo al Instituto para que éste proceda a dictar la resolución fundada que así lo establezca, la que será notificada al requirente.
+Sin perjuicio de lo anterior y dentro del plazo de 6 meses posteriores a la fecha de notificación de la denegación, el solicitante podrá iniciar un nuevo procedimiento de registro, acompañando en su solicitud los antecedentes, aclaraciones y correcciones que sean necesarias para superar las causales de la denegatoria. En este caso, el Instituto tendrá el plazo de 3 meses para verificar los antecedentes anteriores, evaluar los nuevos y de ser suficientes, conceder el respectivo registro sanitario.
 
 #### Artículo 50º
 
@@ -1730,11 +1726,13 @@ DE LOS PROCEDIMIENTOS ESPECIALES DE REGISTRO.
 
 #### Artículo 51º
 
-El procedimiento ordinario de registro sanitario podrá ser abreviado con el fin de reducir los plazos de tramitación establecidos, basándose en una resolución del Ministerio de Salud, fundada en la concurrencia de alguna de las siguientes circunstancias:
+El procedimiento ordinario de registro sanitario podrá ser abreviado con el fin de reducir los plazos de tramitación establecidos, de oficio o a petición del interesado, fundándose en la concurrencia de alguna de las siguientes circunstancias:
 
 1) Que el producto farmacéutico sea necesario para ser distribuido a la población en cumplimiento de planes o programas de salud aprobados por el Ministerio, en los que se aborden determinadas situaciones de riesgo sanitario o patologías específicas y que están destinados a determinados grupos de personas, en el marco de los intereses de salud pública nacionales.
 
 2) Que el producto farmacéutico haya sido incluido en la nómina de los productos incorporados al Formulario Nacional de Medicamentos, evento en el cual el interesado deberá utilizar las monografías del Formulario para acelerar la tramitación del registro.
+
+Una vez cumplido los requisitos señalados precedentemente, el Instituto dictará la resolución que acoge la solicitud de registro al procedimiento abreviado.
 
 El Instituto procederá a la reducción de los plazos establecidos para el registro sanitario, atendida la etapa de tramitación en que se encuentre. En todo caso, el procedimiento total no podrá exceder de cuatro meses.
 
@@ -1753,6 +1751,8 @@ En el caso de un producto farmacéutico de liberación no convencional que sea e
 3. Cuando se trate de un producto farmacéutico que sea equivalente farmacéutico de uno ya registrado y que se encuentre en los listados de principios activos a los cuales se les ha exigido demostrar su equivalencia terapéutica, caso en el cual deberán presentarse los estudios correspondientes que la norma especifica indique.
 
 4. Cuando se trate de un producto fabricado en el país con el fin exclusivo de ser exportado, que de acuerdo a la normativa chilena sea considerado como producto farmacéutico y que acredite que en el país de destino sea considerado como producto alimenticio, mediante documento emitido por su autoridad sanitaria, podrá ser omitida la presentación de los antecedentes que dicen relación con la seguridad y eficacia, salvo que mediante resolución fundada el Instituto determine la necesidad de contar con todos o algunos de aquellos antecedentes.
+
+El plazo total para la resolución de la solicitud que se tramite mediante el procedimiento simplificado de registro será de 5 meses desde el ingreso de la solicitud.
 
 #### Artículo 53º
 
@@ -1783,6 +1783,48 @@ b) Ausencia de indicación terapéutica particular en el proyecto de rotulado gr
 c) Estar constituida por una sola sustancia homeopática, en un grado de dilución que garantice la inocuidad del medicamento, y
 
 d) La sustancia homeopática que compone el producto farmacéutico debe ser obtenida a partir de sustancias o materias primas de origen vegetal, animal, mineral o químico que se encuentren descritas en farmacopeas reconocidas, conforme a un procedimiento de fabricación homeopático que también se encuentre descrito en dichos textos.
+
+3º Del procedimiento acelerado de registro.
+
+#### Artículo 54º
+
+A.- Aquellos medicamentos que estén registrados en Agencias Reguladoras de Medicamentos de Alta Vigilancia podrán someterse al procedimiento acelerado de registro.
+
+Para solicitar el procedimiento acelerado de registro, el requirente deberá indicar en su solicitud la existencia de un registro sanitario o autorización de uso otorgada por alguna de las Agencias Reguladoras señaladas en el inciso primero. Esta deberá ser en la misma indicación terapéutica cuya autorización se solicita.
+
+Una vez certificada la existencia de registro sanitario o autorización de venta en alguna de las agencias del artículo 54º C, cumpliendo los requisitos de este párrafo, el medicamento será registrado por el Instituto sin más trámite.
+
+#### Artículo 54º
+
+B.- Con el objeto de obtener el registro sanitario del medicamento, el solicitante que opte por el procedimiento de registro acelerado deberá presentar los mismos antecedentes de respaldo entregados a la Agencia Reguladora que otorgó el registro, junto al Certificado de Producto Farmacéutico. La revisión que realice el Instituto deberá tener en consideración lo ya analizado por la respectiva Agencia.
+
+#### Artículo 54º
+
+C.- Se considerarán Agencias Reguladoras de Medicamentos de Alta Vigilancia las siguientes:
+
+I. Aquellas definidas como agencias reguladoras estrictas (stringentregulatoryauthorities) en el Anexo 5 del "WHO ExpertCommitteeonSpecificationsforPharmaceuticalPreparations - WHO TechnicalReport Series, Nº 986 - Forfy-eighthReport" y sus modificaciones posteriores.
+
+II. Aquellas calificadas en Nivel IV en el Sistema de Evaluación de Autoridades Reguladoras Nacionales de Medicamentos de la Organización Panamericana de la Salud.
+
+### III. Los miembros de la "PharmaceuticalInspection Co-operationScheme" (PIC/S)
+
+#### Artículo 54º
+
+D.- Para productos farmacéuticos reconocidos por las Agencias Regulatorias especificadas precedentemente, se reconocerán las autorizaciones y certificaciones de éstas, tales como Buenas Prácticas de Manufactura (GMP) y estudios de bioequivalencia.
+
+#### Artículo 54º
+
+E.- Siempre que no se requieran complementos, rectificaciones, aclaraciones o enmiendas por parte del solicitante, la tramitación acelerada no podrá exceder de tres meses contados desde que es recibida la solicitud con todos los antecedentes.
+
+#### Artículo 54º
+
+F.- Con todo, el registro sanitario conforme a este procedimiento sólo podrá ser concedido en la medida que no haya sido denegado en una o más Agencias de alta vigilancia sanitaria.
+
+#### Artículo 54º
+
+G.- No podrán acogerse a este procedimiento de registro los productos biológicos. Esto podrá ser exceptuado a través de una resolución fundada del Ministro de Salud. Esta resolución podrá exceptuar a determinados productos biológicos o a una categoría de ellos.
+
+Asimismo, no podrá utilizarse este procedimiento cuando existan razones de salud pública respecto a un determinado producto farmacéutico o categoría de productos. Esta circunstancia se calificará a través de una resolución fundada del Ministro de Salud.
 
 PÁRRAFO QUINTO:
 
@@ -1882,7 +1924,9 @@ A petición del titular del registro sanitario el Instituto, mediante resolució
 
 8. Indicaciones terapéuticas, esquemas terapéuticos, modificación de grupo etáreo y nueva vía de administración, las que serán sometidas a la evaluación técnica pertinente, conforme al procedimiento ordinario de registro sanitario de especialidades farmacéuticas.
 
-9. Cualquier otra, a excepción de aquellas que alteren la naturaleza e identidad de la especialidad farmacéutica, vale decir, aquellas que digan relación con el principio activo, su dosis, su forma farmacéutica o cuando la modificación altere su sistema de liberación. En estos últimos casos se requerirá de otro registro.
+9. Cambio del fabricante del producto farmacéutico o de los principios activos; así como modificaciones del proceso productivo.
+
+10. Cualquier otra, a excepción de aquellas que alteren la naturaleza e identidad de la especialidad farmacéutica, vale decir, aquellas que digan relación con el principio activo, su dosis, su forma farmacéutica o cuando la modificación altere su sistema de liberación. En estos últimos casos se requerirá de otro registro.
 
 #### Artículo 66º
 
@@ -1908,7 +1952,13 @@ En los casos de registros sanitarios concedidos en virtud de una licencia se est
 
 #### Artículo 69º
 
-En los casos en que se requiera el cambio de la titularidad y otras modificaciones de registro sanitario, se procederá a resolverlas conjuntamente, a menos que se requiera un cambio de fabricante, en cuyo caso se deberá solicitar un nuevo registro.
+En los casos en que se requiera el cambio de la titularidad y otras modificaciones de registro sanitario, se procederá a resolverlas conjuntamente.
+
+#### Artículo 69º
+
+A.- En los casos que se requiera la autorización de un nuevo fabricante de un medicamento, manteniendo el ya autorizado, solo deberán presentarse ante el instituto los antecedentes que acrediten la implementación del proceso productivo mediante transferencia tecnológica y un sistema de gestión de la calidad similar a aquel productor ya autorizado previamente. De ser suficientes los antecedentes presentados, el Instituto asignará un nuevo número de registro sanitario, manteniendo los demás aspectos ya autorizados previamente.
+
+Sin perjuicio de lo anterior y mediante resolución fundada, el Instituto podrá requerir nuevos antecedentes, estudios o aplicar todas o algunas de las demás exigencias de registro sanitario.
 
 #### Artículo 70º
 
@@ -3311,6 +3361,10 @@ No requerirán demostrar bioequivalencia las especialidades farmacéuticas conte
 Asimismo, por decreto del Ministerio se aprobará la norma técnica que establezca los criterios técnicos necesarios para determinar los productos farmacéuticos que requieran demostrar equivalencia terapéutica.
 
 Las normas y demás procedimientos para la realización de los estudios de biodisponibilidad así como los estudios de equivalencia terapéutica, en los casos que correspondan, serán establecidos por decreto del Ministerio, lo que podrá hacer a proposición del Instituto.
+
+#### Artículo 221 bis
+
+Se entenderá que han demostrado su equivalencia terapéutica aquellos productos farmacéuticos que hayan certificado dicha condición ante alguna de las Agencias Reguladoras de Medicamentos de Alta Vigilancia a las que se alude en el artículo 54º C. De la misma manera, se entenderá que han demostrado su equivalencia terapéutica aquellos productos farmacéuticos que hayan sido precalificados por la Organización Mundial de la Salud como tal.
 
 ## Título XI
 
