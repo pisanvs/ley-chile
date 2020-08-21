@@ -1,0 +1,5 @@
+SE APRUEBA MODIFICACIÓN DE CONTRATO DE ARRIENDO SUSCRITO EL 06.03.2020, CON LA SOCIEDAD INMOBILIARIA PAREDES LI YAU LTDA. RESPECTO DEL INMUEBLE DE PROPIEDAD DE ESTA ÚLTIMA, UBICADO EN AVENIDA ALMIRANTE JUAN JOSÉ LATORRE N° 516-520, OFICINA C, DE LA CIUDAD DE MEJILLONES, DE LA REGIÓN DE ANTOFAGASTA
+
+Por resolución exenta I N° 9, de 17 de julio de 2020, la jefatura del Departamento Administración e Inmobiliaria aprobó la "Modificación Contrato de Arriendo", suscrito con fecha 7 de junio de 2020, entre el Instituto de Previsión Social y la Sociedad Inmobiliaria Paredes Li Yau Ltda., por medio del cual las partes acuerdan modificar el Contrato de Arrendamiento, de fecha 6 de marzo de 2020, aprobado por resolución exenta I N° 5, de 12 de marzo de 2020, cambiando el espacio donde funciona el Centro de Atención Previsional Integral Mejillones.-
+
+Roberto Lagos Flores.
