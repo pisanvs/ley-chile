@@ -62,7 +62,7 @@ Asimismo, en las aduanas sanitarias se verificará el cumplimiento de las medida
 
 ### II. Aislamientos en razón a horarios determinados
 
-4. Prohíbase a los habitantes de la República salir a la vía pública, como medida de aislamiento, entre las 22:00 y 05:00 horas, salvo aquellas personas que cuenten con salvoconductos individuales o permisos que lo autoricen en virtud del Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 17.811, del 24 de julio de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Esta medida será ejecutada de acuerdo a las instrucciones que impartan al efecto los Jefes de la Defensa Nacional de las distintas regiones.
+4. Prohíbase a los habitantes de la República salir a la vía pública, como medida de aislamiento, entre las 23:00 y 05:00 horas, salvo aquellas personas que cuenten con salvoconductos individuales o permisos que lo autoricen en virtud del Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 19.563, del 13 de agosto de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Esta medida será ejecutada de acuerdo a las instrucciones que impartan al efecto los Jefes de la Defensa Nacional de las distintas regiones.
 
 Déjase constancia que la medida de este numeral comenzó a regir desde las 22:00 horas del día 22 de marzo de 2020 y será aplicada por un plazo indefinido, hasta que las condiciones epidemiológicas permitan su suspensión.
 
