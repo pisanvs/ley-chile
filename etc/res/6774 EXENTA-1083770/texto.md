@@ -200,7 +200,7 @@ c. Las Ferias podrán generar e imprimir el FMA de salida de dicho recinto desde
 
 13.2. Sólo se entregará el FMA para establecimientos pecuarios que cuenten con la DEA vigente.
 
-13.3. Se entregará un máximo de cinco FMA por RUP. En caso de no retorno de estos al Servicio, sólo se realizará la entrega de un FMA por RUP.
+13.3. Se entregará un máximo de cinco FMA por RUP. En caso de no retorno de estos al Servicio, sólo se realizará la entrega de un FMA por el RUP. La señalada entrega no procederá si el titular no retorna los FMA previamente entregados o aclara debidamente, a juicio del Servicio, lo sucedido con ellos.
 
 13.4. Cuando el titular requiera más de cinco FMA por RUP, deberá emitir FMA formato electrónico a través del Sistema de Información Pecuaria oficial.
 
@@ -233,5 +233,7 @@ c. Registrar en el FMA en "Observaciones" la muerte, pérdida de animales o caí
 18. Las infracciones a las normas del Programa Oficial de Trazabilidad Animal serán sancionadas según el DFL RRA Nº 16, de 1963, la Ley Nº 19.162 y la Ley Nº 18.755.
 
 19. Derógase la resolución Nº 1.546, de 2014, de este Servicio, que Actualiza el Programa Oficial de Trazabilidad Animal.
+
+20. El titular de establecimiento pecuario tiene la obligación de entregar al Servicio toda la información fidedigna referente al Programa Oficial de Trazabilidad Animal, debiendo demostrar, por todos los medios de prueba que considera la legislación vigente, que lo notificado o registrado en el Sistema de Información Pecuaria Oficial corresponde a lo que ocurre en su(s) establecimiento(s) y con sus animales.
 
 Anótese, comuníquese y publíquese.- Óscar Humberto Camacho Inostroza, Director Nacional (S) Servicio Agrícola y Ganadero.
