@@ -10364,9 +10364,7 @@ c) Se deduce el monto de todos los activos que correspondan a "goodwill".
 
 d) Cuando la suma de los activos correspondientes a inversiones minoritarias en sociedades distintas de empresas de apoyo al giro sea superior al 5% del capital básico, se deducirá la cantidad en que aquella suma exceda ese porcentaje.
 
-e) Se agrega el monto correspondiente al "nterés no controlador" según lo indicado en el Compendio de Normas Contables. No obstante, si dicho monto fuera superior al 20% del capital básico, se sumará sólo el importe equivalente a ese porcentaje.
-
-Podrá sumarse a las provisiones adicionales a que se refiere la letra b), dentro del límite del 1,25 % allí señalado, un monto de hasta el 15% de las garantías que amparan los activos ponderados por riesgo, las garantías que correspondan a avales o reafianzamientos otorgados por el Fisco de Chile, CORFO y el FOGAPE.
+e) Se agrega el monto correspondiente al "Interés no controlador" según lo indicado en el Compendio de Normas Contables. No obstante, si dicho monto fuera superior al 20% del capital básico, se sumará sólo el importe equivalente a ese porcentaje.
 
 En concordancia con lo indicado en la letra d), para los efectos de la ponderación por riesgo de que trata el N° 2 del título II de este Capítulo, se clasificarán en categoría 5 los activos que correspondan a inversiones minoritarias en sociedades de apoyo al giro, como asimismo el monto de las inversiones minoritarias en otras sociedades hasta un tope de el 5% del capital básico.
 
@@ -10446,7 +10444,9 @@ a) Instrumentos financieros emitidos o garantizados por el Fisco de Chile. Se en
 
 b) Instrumentos financieros en moneda de su país de origen, emitidos o garantizados por Estados o bancos centrales de países extranjeros, siempre que los instrumentos en esas monedas estén calificados en primera categoría de riesgo por una empresa calificadora internacional, incluida en la nómina del Capítulo 1-12 de esta Recopilación Actualizada de Normas.
 
-c) El monto de los créditos que sean objeto de la garantía estatal establecida en la Ley N° 20.027. Cabe recordar que de acuerdo a lo definido en el artículo 6 bis de la citada Ley, aquella porción del crédito que no cuente con dicha garantía se incluirá en la Categoría 5.
+c) El monto de los créditos que sean objeto de la garantía estatal establecida en la Ley N° 20.027. Cabe recordar que de acuerdo a lo definido en el artículo 6 bis de la citada Ley, aquella porción del crédito que no cuente con dicha garantía se incluirá en la Categoría 5. Así como, los montos de créditos que sean garantizados por el Fisco de Chile.
+
+d) Otros montos de créditos, en aquella parte que cuente con garantías otorgadas por CORFO y el FOGAPE.
 
 2.3. Categoría 3.
 
