@@ -176,7 +176,7 @@ c) Requisitos de la instalación
 
 2. Que, se indique que las instalaciones eléctricas de las Ofertas al Proyecto deben dar cumplimiento a las especificaciones técnicas que se indican en el Artículo 16, DS2, para Proyectos de alumbrado público de vías vehiculares y, en el Artículo 17 del DS51, para Proyectos de alumbrado público de vías para tránsito peatonal.
 
-3. Que, se indique que las Ofertas al Proyecto deben cumplir con lo dispuesto en el decreto supremo Nº 109, de 2018, del Ministerio de Energía, que aprueba reglamento de seguridad de las instalaciones eléctricas destinadas a la producción, transporte, prestación de servicios complementarios, sistemas de almacenamiento y distribución de energía eléctrica.
+3. Que, se indique que las Ofertas al Proyecto deben cumplir con lo dispuesto en el decreto supremo Nº 8, de 2019, de Ministerio de Energía, que aprueba reglamento de seguridad de las instalaciones de consumo de energía eléctrica.
 
 4. Que, los conductores eléctricos que conecten la luminaria con la red de alumbrado público sean nuevos y de sección mínima de 2,5mm2. Asimismo, dichos conductores deben ser resistentes a los rayos ultravioleta en caso de que no se encuentren canalizados. Se deberá solicitar que el cumplimiento de este requerimiento sea validado a través del catálogo/ficha técnica del fabricante.
 
