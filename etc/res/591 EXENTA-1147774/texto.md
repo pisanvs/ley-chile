@@ -248,13 +248,21 @@ c. Mantener en todas las entradas señalética que indique las obligaciones y re
 
 36. Prohíbase la realización o participación en eventos y actividades sociales y recreativas. Por evento se entenderá toda convocatoria no habitual, ya sea pública o privada, en lugar y horario determinado, que produce concentración de personas.
 
+Sin perjuicio de lo dispuesto precedentemente, para las actividades deportivas se estará a lo dispuesto en el numeral 40 de esta resolución y a lo establecido en el Capítulo II de la misma, en conformidad al paso en que se encuentre la localidad que corresponda.
+
 37. Dispóngase el cierre de cines, teatros, y lugares análogos. Déjase constancia que esta medida se encuentra vigente desde el día 15 de mayo de 2020 y tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
 
 38. Dispóngase el cierre de gimnasios abiertos al público. Déjase constancia que esta medida se encuentra vigente desde el día 15 de mayo de 2020 y tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
 
 39. Dispóngase el cierre de pubs, discotecas, cabarés, clubes nocturnos y lugares análogos. Déjase constancia que esta medida se encuentra vigente desde el día 15 de mayo de 2020 y tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión
 
-40. Prohíbanse las actividades deportivas. Podrán realizar actividades deportivas, aquellas personas que cuenten con la autorización correspondiente de la autoridad competente, que para estos efectos será la Subsecretaría del Interior del Ministerio del Interior y Seguridad Pública.
+### 40. Prohíbanse las actividades y eventos deportivos
+
+No obstante lo anterior, podrán realizar actividades o eventos deportivos, aquellas personas que cuenten con la autorización correspondiente de la Subsecretaría del Interior del Ministerio del Interior y Seguridad Pública.
+
+La Subsecretaría del Interior podrá autorizar actividades o eventos deportivos cualquiera sea el Paso en la que se encuentre la localidad donde se realicen. Las actividades o eventos deportivos autorizados en virtud de este numeral deberán cumplir con las medidas dispuestas en el correspondiente protocolo, elaborado por el Ministerio del Deporte.
+
+En el caso del fútbol profesional, se deberá contar con un permiso, otorgado por el Departamento de Estadio Seguro del Ministerio de Interior y Seguridad Pública, para la utilización del estadio que corresponda. Para estos efectos, deberá contar con la autorización previa de la Secretaría Regional Ministerial de Salud que corresponda, en la que se dé cuenta del cumplimiento de las condiciones sanitarias exigidas y el máximo de aforo del estadio.
 
 Esta medida tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
 
@@ -336,13 +344,13 @@ Los 5 pasos de los que trata el párrafo anterior son los siguientes:
 
 ### 5. Paso 5: Apertura avanzada
 
-55. Para el desplazamiento de personas desde y hacia localidades que se encuentren en cuarentena, se estará a lo dispuesto en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 17.811, del 24 de julio de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Lo mismo regirá para el desplazamiento de personas desde y hacia localidades que se encuentren en Transición, los días sábado, domingo y festivos.
+55. Para el desplazamiento de personas desde y hacia localidades que se encuentren en cuarentena, se estará a lo dispuesto en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 19.563, del 13 de agosto de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Lo mismo regirá para el desplazamiento de personas desde y hacia localidades que se encuentren en Transición, los días sábado, domingo y festivos.
 
 ### II. Paso 1: Cuarentena
 
 56. A las localidades que estén en cuarentena se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, además de las cuarentenas determinadas por la autoridad sanitaria a dicha localidad.
 
-57. Exceptúase de la obligación de cumplir cuarentena establecida en una determinada localidad, a las personas que se encuentren en las circunstancias que se señalan en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 17.811, del 24 de julio de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+57. Exceptúase de la obligación de cumplir cuarentena establecida en una determinada localidad, a las personas que se encuentren en las circunstancias que se señalan en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 19.563, del 13 de agosto de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
 Dicho instructivo contempla, además, las formas y condiciones para la obtención de los permisos de desplazamiento por parte de las personas exceptuadas del cumplimiento de la medida de aislamiento o cuarentena.
 
