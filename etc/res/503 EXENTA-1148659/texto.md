@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 503 EXENTA, DE 11 DE MAYO DE 2020
+
+Por resolución exenta Nº 503, de 11 de mayo de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Maule, se resolvió: 1.- Suspender el plazo de 18 meses establecido en el procedimiento de reemplazo de los vehículos tipo taxi regulado en el artículo 73º bis del decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, mientras se mantenga el estado de excepción constitucional de catástrofe decretado o su prórroga. 2.- Atendido lo dispuesto en el artículo 52º de la ley Nº 19.880, la presente resolución surtirá efectos a contar de la fecha de la declaración de estado de excepción constitucional de catástrofe.-
+
+Carlos Palacios Maldonado, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Maule.
