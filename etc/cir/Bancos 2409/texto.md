@@ -19854,7 +19854,7 @@ a) Nombre completo y RUT del deudor.
 
 b) Importe de la deuda directa que no fue pagada por el deudor en el mes precedente.
 
-En ningún caso podrán incluirse como morosas las deudas cuyos créditos no consten de un título ejecutivo, por las mismas razones dadas en el Capítulo 18-5 de esta Recopilación.
+En ningún caso podrán incluirse como morosas las deudas cuyos créditos no consten de un título ejecutivo, por las mismas razones dadas en el Capítulo 18-5 de esta Recopilación. Tampoco podrán remitirse aquellas deudas para fines educacionales, que de conformidad a lo dispuesto por la Ley N°21.214, que modificó el artículo 17 de la Ley N°19.628, sobre protección de la vida privada, no pueden ser comunicadas.
 
 Los bancos que opten por enviar estas nóminas quedan obligadas a: a) mantener siempre el envío mensual de la nómina; y, b) incluir en cada nómina todos los deudores que cumplan las condiciones anteriormente señaladas, sin discriminar entre ellos. Con todo, se excluirán de las nóminas los deudores que hayan solucionado su morosidad antes del envío de la respectiva nómina.
 
