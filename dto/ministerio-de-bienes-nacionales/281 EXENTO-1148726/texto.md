@@ -1,0 +1,11 @@
+OTORGA, MODIFICA Y COMPLEMENTA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, AL "SERVICIO NACIONAL DEL ADULTO MAYOR"
+
+Mediante decreto exento Nº E-281, de 15 de mayo de 2020, modificado por el decreto exento Nº 300 de 17 de agosto de 2020, ambos del Ministerio de Bienes Nacionales se otorgó en Concesión Gratuita, al "Servicio Nacional del Adulto Mayor", RUT Nº 61.961.000-8, el inmueble fiscal signado como Lote 9c, ubicado en calle Glaciar San Rafael Nº 3195 (ex Calle 9), Sector Escuela Agrícola, comuna y provincia de Coyhaique, Región de Aysén del General Carlos Ibáñez del Campo; enrolado en el Servicio de Impuestos Internos con el Nº 5090-4; amparado por inscripción en mayor cabida a nombre del Fisco que rola a fs. 571 Nº 454, del Registro de Propiedad del Conservador de Bienes Raíces de Coyhaique, correspondiente al año 1991; singularizado en el Plano Nº 11101-1294-C.U., archivado en el Registro de Propiedad del Conservador de Bienes Raíces de Coyhaique del año 2016, con el Nº 158 letra b; con una superficie de 8.195,07 m2. La concesión se otorga por un plazo de 20 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble a la construcción y funcionamiento del Establecimiento de Larga Estadía para Adultos Mayores de la Región de Aysén del General Carlos Ibáñez del Campo, a cargo del Servicio Nacional del Adulto Mayor y transitoriamente para ser usado como centro de entrega de prestaciones de salud, por parte del Servicio de Salud Aysén, por el tiempo que se prolongue el estado de emergencia sanitaria en la Región, siendo de cargo de dicho Servicio, los gastos de mantención del inmueble durante ese periodo.
+
+El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión y su modificación. Los decretos con sus textos íntegros se encuentran disponibles en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
