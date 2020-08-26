@@ -12,7 +12,7 @@ Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguient
 
 - De los diputados señores Boris Barrera Moreno, Renato Garín González, Hugo Gutiérrez Gálvez, Daniel Núñez Arancibia, Alexis Sepúlveda Soto, Raúl Soto Mardones y señora Alejandra Sepúlveda Orbenes, boletín N° 13.354-03.
 
-- De los diputados señores Arturo Longton Herrera, Francisco Eguiguren Correa, Frank Sauerbaum Muñoz, Pablo Prieto Lorca, Gonzalo Fuenzalida Figueroa, Hugo Rey Martínez, Alejandro Santana Tirachini, Cristóbal Urruticoechea Ríos y señoras Erika Olivera de la Fuente y Ximena Ossandón Irarrázabal, boletín N° 13.355-03.
+- De los diputados señores Andrés Longton Herrera, Francisco Eguiguren Correa, Frank Sauerbaum Muñoz, Pablo Prieto Lorca, Gonzalo Fuenzalida Figueroa, Hugo Rey Martínez, Alejandro Santana Tirachini, Cristóbal Urruticoechea Ríos y señoras Erika Olivera de la Fuente y Ximena Ossandón Irarrázabal, boletín N° 13.355-03.
 
 - De los diputados señores Hugo Rey Martínez, Sebastián Keitel Bianchi, Andrés Celis Montt, Frank Sauerbaum Muñoz y Alexis Sepúlveda Soto, boletín N° 13.356-03.
 
