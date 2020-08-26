@@ -20,7 +20,7 @@ La necesidad de atender los Equipamientos Comunitarios que presenten un alto niv
 
 Resolución:
 
-1. Llámase a postulación nacional a Organizaciones Comunitarias y Juntas de Vecinos, para el otorgamiento de subsidios del Programa de Mejoramiento de Viviendas y Barrios correspondientes a los tipos de proyectos señalados en el Capítulo Primero, Proyectos para el Equipamiento Comunitario, artículo 64 del DS N° 27 (V. y U.), de 2016. Para la segunda selección se excluye la postulación de proyectos de Construcción de Edificaciones Comunitarias.
+1. Llámase a postulación nacional a Organizaciones Comunitarias y Juntas de Vecinos, para el otorgamiento de subsidios del Programa de Mejoramiento de Viviendas y Barrios correspondientes al Capítulo Primero, Proyectos para el Equipamiento Comunitario, considerando la postulación de todos los tipos de proyectos señalados en el artículo 64 del DS N° 27 (V. y U.), de 2016, con excepción de la segunda selección donde se excluye la postulación de proyectos de Construcción de Edificaciones Comunitarias.
 
 2. Las postulaciones serán colectivas y se realizarán a través de Organizaciones Comunitarias y Juntas de Vecinos, regidas por la ley Nº 19.418, sobre Juntas de Vecinos y demás Organizaciones Comunitarias, cuyo texto refundido, coordinado y sistematizado fue fijado por DS Nº 58, de Interior, de 1997.
 
@@ -50,21 +50,33 @@ Las carpetas ingresadas a Serviu, una vez habilitada la postulación, además de
 
 El proceso de Revisión y Calificación de los Proyectos, contemplará una instancia de observaciones, en virtud de la cual el Serviu, comunicará a la Entidad Patrocinante las inconformidades detectadas y la fecha en que deberá reingresarse el proyecto subsanado. Asimismo, podrá solicitar antecedentes que a su juicio sean necesarios para validar la postulación. Si persistieren inconformidades tras el reingreso, Serviu deberá excluir dicho proyecto del proceso de selección.
 
-5. Los Criterios Regionales de Selección, deberán ser establecidos mediante resolución de los Seremi Minvu.
+5. Los Criterios Regionales de Selección, serán establecidos mediante resolución de los Seremi Minvu. En el caso de la tercera selección estos criterios no serán considerados.
 
-6. El llamado considera 2 selecciones, cuyos plazos de procesos y fases de postulación correspondientes a la 1° selección son los siguientes:
+6. El llamado considera 3 selecciones, cuyos plazos de procesos y fases de postulación correspondientes a la 1° selección son los siguientes:
+
+.
 
 Los plazos de la segunda selección son los detallados a continuación:
 
+.
+
+Los plazos de la tercera selección son los detallados a continuación:
+
+.
+
+En caso de requerirse, el período de digitación podrá prorrogarse dentro del plazo de la habilitación de postulaciones. Esta condición también será aplicable a la segunda selección.
+
 7. Los recursos disponibles para efectuar la selección de proyectos, que incluyen el monto del subsidio más la asistencia técnica respectiva, se distribuirán provincialmente según lo señalado en la siguiente tabla:
 
-Con estos montos se definirá el número de postulantes que deberán presentar las carpetas de sus proyectos al Serviu. Asimismo, tendrán que presentar sus carpetas, los postulantes de la lista de espera señalada en el segundo párrafo del numeral 2 del artículo 27 del DS N° 27 (V. y U.) de 2016, que para la primera selección de este llamado será el total de los proyectos digitados.
+Con estos montos se definirá el número de postulantes que deberán presentar las carpetas de sus proyectos al Serviu. Asimismo, tendrán que presentar sus carpetas, los postulantes de la lista de espera señalada en el segundo párrafo del numeral 2 del Artículo 27 del DS N° 27 (V. y U.), de 2016, que para todas las selecciones de este llamado será el total de los proyectos digitados.
 
 Si una vez concluido el proceso señalado quedaren recursos disponibles, mediante resoluciones que el Ministro de Vivienda y Urbanismo dicte al efecto, se podrán redistribuir los recursos señalados en la tabla precedente total o parcialmente.
 
 8. Si los aportes adicionales son efectuados por municipalidades, se deberá presentar el Acta del Concejo Municipal en que conste la aprobación de destinar dichos recursos al proyecto en caso de resultar seleccionado, el que deberá ser enterado hasta 45 días corridos desde la fecha de selección.
 
-Según lo indicado en el artículo 20 del DS N°27 (V. y U.), de 2016, en relación a los aportes adicionales expresados en pesos, para calcular la proyección de reajuste se aplicará los valores establecidos en la resolución exenta N° 415 (V. y U.), de fecha 10 de marzo de 2020.
+Según lo indicado en el artículo 20 del DS N° 27 (V. y U.), de 2016, en relación a los aportes adicionales expresados en pesos, para calcular la proyección de reajuste se aplicará al momento de ingresar a Serviu los instrumentos señalados, el valor de la UF correspondiente al último día hábil del mes que se señala en la tabla siguiente:
+
+.
 
 9. Los proyectos de Construcción de Edificaciones Comunitarias, podrán postular presentando anteproyecto aprobado por la DOM. La Entidad Patrocinante dispondrá de 60 días corridos, contados desde la fecha de la publicación en el Diario Oficial de la resolución de selección, para presentar al Serviu el Permiso de Edificación correspondiente e iniciar obras.
 
