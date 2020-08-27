@@ -1546,7 +1546,9 @@ G) EN LA JEFATURA DEL DEPARTAMENTO DE CIUDADANÍA CULTURAL
 
 En ningún caso podrá autorizarse la distribución al público mediante venta, o cualquier otra transferencia de propiedad del original o de los ejemplares de su interpretación o ejecución.
 
-2) Suscribir y modificar acuerdos de cooperación sin transferencia de recursos, con personas naturales y/o jurídicas públicas o privadas para la realización de actividades sin fines de lucro en el espacio que ocupa el Centro de Extensión.
+2) Suscribir y modificar acuerdos de cooperación y colaboración sin transferencia de recursos, con personas naturales y/o jurídicas públicas o privadas para la realización de actividades sin fines de lucro en el espacio que ocupa el Centro de Extensión.
+
+3) Suscribir, aprobar y modificar convenios de cooperación y colaboración sin transferencia de recursos con personas naturales y/o jurídicas -públicas o privadas- para la realización de actividades sin fines de lucro cuya gestión sea competencia del Departamento de Ciudadanía Cultural o la dependencia que le suceda en sus funciones.
 
 #### Artículo segundo
 
