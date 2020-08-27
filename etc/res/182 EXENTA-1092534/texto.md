@@ -86,6 +86,8 @@ El cofinanciamiento del Comité para Asesorías Empresariales Especializadas no 
 
 El cofinanciamiento del Comité para Certificaciones consistirá en un reembolso de hasta un 70% de su valor, por una vez, con un tope de hasta $1.500.000.- (un millón quinientos mil pesos).
 
+En caso que se declare un Estado de Excepción Constitucional, de emergencia o de catástrofe, en la forma dispuesta en la ley Nº 18.415, Orgánica Constitucional de Estados de Excepción, o se declare zonas afectadas de sismo o catástrofe, en virtud de lo dispuesto en la ley Nº 16.282, sobre Disposiciones Permanentes para Casos de Sismos o Catástrofes, se podrán realizar convocatorias en las que el financiamiento del Comité podrá llegar hasta el 100% del costo total del Proyecto.
+
 6.- COSTO DE ADMINISTRACIÓN.
 
 Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por concepto de evaluación, supervisión, seguimiento y administración, los siguientes montos:
@@ -181,5 +183,7 @@ Para estos efectos se considerarán aspectos sustanciales el aumento del monto o
 La aprobación de los proyectos, la asignación de recursos y su ejecución deberán ajustarse a las disposiciones del presente Reglamento y a las instrucciones que imparta el Comité de Desarrollo Productivo Regional, en relación a los procedimientos.
 
 > **Nota.** La letra f) del numeral 2° de la Resolución 355 Exenta, Economía, publicada 31.10.2017, modifica la presente norma en el sentido de reemplazar el numeral 8 denominado "Anticipo, Garantías y Rendiciones", sin embargo, no se encuentra disponible en su texto el referido numeral con esta denominación, razón por la cual no se ha podido efectuar su actualización.
+
+> **Nota.** NOTA 1 El numeral 2 de la Resolución 224 Exenta, Economía, publicada el 27.08.2020, modifica el número 5 "Monto del Cofinanciamiento", de la presente norma, en el sentido de ingresar un párrafo cuarto, pasando el actual a ser quinto. Sin embargo, en el texto de este número solamente están contenidos tres párrafos, razón por la cual se incorpora el párrafo a continuación de este último.
 
 Anótese, regístrese en el Comité de Desarrollo Productivo Regional del Biobío, CORFO y publíquese en el Diario Oficial.- Juan Mardones Alarcón, Director Ejecutivo Comité de Desarrollo Productivo Regional del Biobío.
