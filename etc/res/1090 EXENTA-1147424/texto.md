@@ -36,7 +36,7 @@ Resolución:
 
 1. Llámase a postulación en condiciones especiales a los arrendatarios que, contando o no con Registro Social de Hogares, su contrato de trabajo se haya suspendido, hayan quedado cesantes o sus ingresos hayan disminuido en a lo menos un 30%, para el otorgamiento de subsidios habitacionales del Programa de Subsidio de Arriendo de Vivienda, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013. Los Servicios de Vivienda y Urbanización (Serviu) procederán directamente, o a través de los medios electrónicos que se establezcan al efecto, a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deban acompañarlas.
 
-2. Las postulaciones se recibirán a partir de la fecha de publicación en el Diario Oficial de la presente resolución y hasta el 24 de agosto de 2020, efectuándose tres procesos de selección. Quienes no sean considerados en una selección, continuarán postulando y podrán ser contemplados en el siguiente proceso.
+2. Las postulaciones se recibirán a partir de la fecha de publicación en el Diario Oficial de la presente resolución y hasta el 24 de septiembre de 2020, efectuándose tres procesos de selección. Quienes no sean considerados en una selección, continuarán postulando y podrán ser contemplados en el siguiente proceso.
 
 3. Para postular al llamado a que se refiere el numeral 1. de esta resolución exenta, los postulantes deberán cumplir con las siguientes condiciones:
 
@@ -51,6 +51,8 @@ Resolución:
 3.2.3. Tres (3) liquidaciones de sueldo o boletas de honorarios, o bien a través del anexo de modificación del contrato de trabajo y/o cualquier otro documento en el que conste de manera fehaciente la modificación de las condiciones laborales.
 
 3.2.4. Informe emitido por el Servicio de Impuestos Internos respecto de los seis últimos meses de boletas de honorarios.
+
+3.2.5 Tratándose de postulantes adultos mayores jubilados, éstos no requerirán acreditar cesantía o disminución de al menos 30% en los montos de ingresos, debiendo presentar comprobante de pago de pensión de vejez.
 
 3.3. En caso de contar con Núcleo Familiar, ingresar en la solicitud de postulación a todos los integrantes de su núcleo familiar indicando su nombre, edad, parentesco y número de cédula de identidad.
 
