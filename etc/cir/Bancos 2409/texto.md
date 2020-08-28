@@ -8002,7 +8002,7 @@ OPERACIONES DE FACTORAJE.
 
 ### 1. Autorización para efectuar operaciones de factoraje
 
-Los bancos que deseen incluir las operaciones de factoraje dentro de su giro, deberán solicitar por escrito la autorización de esta Superintendencia, debiendo cumplir con los requisitos establecidos para el efecto en el artículo 72 de la Ley General de Bancos.
+Los bancos que deseen incluir las operaciones de factoraje dentro de su giro, deberán solicitar por escrito la autorización de esta Comisión, debiendo cumplir con los requisitos establecidos para el efecto en el artículo 72 de la Ley General de Bancos.
 
 Para acreditar el cumplimiento de esos requisitos legales y proporcionar la información necesaria para otorgar la respectiva autorización, los bancos interesados deberán entregar los antecedentes que se detallan en el anexo de este Capítulo.
 
@@ -8013,6 +8013,8 @@ Los plazos para la tramitación de la autorización y los eventuales rechazos de
 Las operaciones de factoraje que puede realizar un banco, comprenden la gestión de cobro de créditos en comisión de cobranza o en su propio nombre como cesionaria de tales créditos y el anticipo de fondos sobre esos créditos. Además, incluye la asunción de los riesgos de insolvencia de los obligados al pago.
 
 Cualesquiera sean los instrumentos con que se documenten los créditos y los contratos con que se formalicen los servicios, cesiones de derechos o garantías, las operaciones de factoraje deben circunscribirse a los créditos originados en las ventas de bienes o prestación de servicios no financieros, efectuadas por las personas naturales o jurídicas con que se pacte la operación de factoraje, o por cuenta de cuyos compradores se a sume el compromiso de pago.
+
+Asimismo, se podrán descontar documentos, emitidos física o electrónicamente, cedidos por terceros, distintos de las personas señaladas en el párrafo anterior, en la medida que se trate de facturas cedidas de acuerdo a las disposiciones de la Ley N°19.983, que regula la transferencia y otorga merito ejecutivo a copia de la factura, debiendo el banco cerciorarse que se cumplan las condiciones de irrevocabilidad de su aceptación definidas en el artículo 3° de la citada ley.
 
 Se entenderá que corresponden a actividades derivadas de las operaciones principales antes descritas, el registro o gestión de cuentas, el análisis y clasificación de potenciales compradores, la investigación de mercados, el asesoramiento en materias legales, etc., siempre que no signifiquen asumir las decisiones comerciales o financieras por cuenta de los clientes y se circunscriban a la actividad que originan los créditos.
 
@@ -8027,6 +8029,10 @@ Cuando se garantice el pago de las obligaciones que a sume un comprador, los mon
 ### 4. Información sobre las operaciones
 
 Las deudas por operaciones de factoraje no serán informadas para efectos de lo dispuesto en el artículo 14 de la Ley General de Bancos y en el Capítulo 18- 5 de esta Recopilación, como tampoco serán incluidas en la demás información sobre deudores o relativas a tasas de interés, salvo que se exija expresamente su inclusión en las instrucciones del Manual del Sistema de Información.
+
+### 5. Normas contables
+
+Todas las operaciones de factoraje deben ser tratadas como colocaciones comerciales, debiendo observarse las normas dispuestas al efecto en el numeral 4.3 del Capítulo B-1 del Compendio de Normas Contables, tanto en lo que respecta a las provisiones por riesgo de crédito, como por su clasificación en los modelos de información periódica.
 
 ANEXO
 
