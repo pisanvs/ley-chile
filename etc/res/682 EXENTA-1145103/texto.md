@@ -46,7 +46,11 @@ Resuelvo:
 
 ### 3. Establézcase, como nuevos montos de transferencias a terceros:
 
+.
+
 ### 4. Establézcase, como nuevos montos de gastos operacionales:
+
+.
 
 5. Publíquese la presente resolución exenta en el Diario Oficial y en el sitio web institucional, sin desmedro de otras medidas de publicidad que se estimaren procedentes.
 
