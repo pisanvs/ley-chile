@@ -10,7 +10,7 @@ Considerando:
 
 Resuelvo:
 
-1º.- Autorízase a que servicios rurales de locomoción colectiva de la X Región de Los Lagos, prestados con buses de una capacidad igual o superior a 30 asientos, cuyos recorridos sean de una longitud de más de 50 Km., puedan transportar hasta un máximo de 20 pasajeros de pie.
+1º.- Deja sin Efecto.
 
 2º.- Derógase la resolución exenta Nº 40 de 1993, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la X Región.
 
