@@ -54,7 +54,7 @@ Primero: Declárese zona de riesgo sanitario, por la situación actual del siste
 
 <!-- parte:10134692 -->
 
-Segundo: Déjase establecido que la Municipalidad de Curarrehue deberá implementar todas las medidas conducentes a asegurar que la salud de la población de la comuna de Curarrehue no se vea afectada por la situación sanitaria descrita precedentemente.
+Segundo: Déjase establecido que la Municipalidad de Curarrehue, deberá implementar todas las medidas sanitarias de mitigación conducentes a asegurar que la salud de la población de la comuna de Curarrehue, ante un eventual colapso y mal funcionamiento del sistema de alcantarillado de la referida comuna.
 
 #### Artículo tercero
 
