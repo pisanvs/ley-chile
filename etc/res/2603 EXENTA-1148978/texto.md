@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.603, de fecha 19 de agosto de 2020, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 666-134, correspondiente al inmueble ubicado en Pje. Socoroma 505 Block B Dp 12V Parinacota, Rol de Avalúo Nº 666-134, de la Comuna de Quilicura, Región Metropolitana, de aparente dominio de Sáez Silva Graciela Margarita, con una superficie aproximada de 43,63 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Habilitación de Terrenos, Población Parinacota, comuna de Quilicura". La Comisión de Peritos integrada por los señores Andrés Schulz Villanueva, Arquitecto; Jesús Díaz Pasmiño, Ingeniero Civil, y Gabriel Pantoja Rivera, Ingeniero Agrónomo, mediante Informe de fecha 29 de mayo de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $21.366.305, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
