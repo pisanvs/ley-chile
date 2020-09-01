@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.654, de 4 de agosto 2020, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Avda. Coliumo 901, Caleta del Medio, Rol de Avalúo N° 1435-1, comuna de Tomé, de aparente dominio de Osorio Vergara María Julia, en una superficie de 49,81 m2 de terreno, dentro de polígono y linderos señalados en el plano S8R-39.155-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida Coliumo", comuna de Tomé, Región del Biobío, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por constructor civil María Soledad Silva Hernández, por arquitecto Alexander Boye Trenit y por ingeniero civil Orlando Paredes Vásquez, según informe de fecha 19 de junio 2020, fijó monto provisional indemnización en $1.621.469, pagadera de contado.-
+
+Director (S) Serviu Región del Biobío.
