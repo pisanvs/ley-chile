@@ -72,10 +72,4 @@ b) Para el caso de ramas, ramillas y hojas, debe cumplir lo establecido en el pu
 
 16. Las transgresiones o incumplimientos de las medidas que se disponen serán sancionadas de acuerdo a lo dispuesto en el decreto ley Nº 3.557, de 1980, sobre Protección Agrícola, y por la Ley Nº 18.755, Orgánica del Servicio Agrícola y Ganadero.
 
-> **Nota.** El Nº 1 de la Resolución 2085 Exenta, Agricultura, publicada el 28.12.2023, dispone ampliar el área bajo cuarentena, para el control obligatorio de la plaga Lecptocybe invasa, en un radio de 10 kilómetros respecto de los lugares de detección de la plaga que se indican, de acuerdo a la tabla inserta en la citada norma.
-
-> **Nota.** NOTA 1 El Nº 1 de la Resolución 2526 Exenta, Agricultura, publicada el 28.12.2023, dispone ampliar el área bajo cuarentena, para el control obligatorio de la plaga Lecptocybe invasa, en un radio de 10 kilómetros respecto de los lugares de detección de la plaga que se indican, de acuerdo a la tabla inserta en la citada norma.
-
-> **Nota.** NOTA 2 El Nº 1 de la Resolución 2976 Exenta, Agricultura, publicada el 03.01.2024, dispone ampliar el área bajo cuarentena, para el control obligatorio de la plaga Lecptocybe invasa, en un radio de 10 kilómetros respecto de los lugares de detección de la plaga que se indican, de acuerdo a la tabla inserta en la citada norma.
-
 Anótese, comuníquese y publíquese.- Ángel Sartori Arellano, Director Nacional (TyP).
