@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.582, de fecha 18 de agosto de 2020, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 668-261, correspondiente al inmueble ubicado en Sn Luis 540 Block B DP 23 V Parinacota, Rol de Avalúo Nº 668-261, de la comuna de Quilicura, Región Metropolitana, de aparente dominio de Reyes Solís María Melania, con una superficie aproximada de 46,63 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto "Habilitación de terrenos Población Parinacota, comuna de Quilicura". La comisión de peritos integrada por la señora Constanza González Vergara, arquitecto; señora Vilma Espinoza Zapatel, ingeniero civil y señora, Mónica Conejeros Rudloff, ingeniero agrónomo, mediante informe de fecha 31 de mayo de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $19.148.429, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
