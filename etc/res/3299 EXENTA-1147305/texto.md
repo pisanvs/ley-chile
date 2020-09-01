@@ -46,7 +46,7 @@ Resolución:
 
 Primero: Declárese zona de riesgo sanitario, por la situación actual del sistema de alcantarillado, a la comuna de Curarrehue, atendido lo expuesto en los Vistos y Considerando de la presente resolución.
 
-Segundo: Déjase establecido que la Municipalidad de Curarrehue deberá implementar todas las medidas conducentes a asegurar que la salud de la población de la comuna de Curarrehue no se vea afectada por la situación sanitaria descrita precedentemente.
+Segundo: Déjase establecido que la Municipalidad de Curarrehue, deberá implementar todas las medidas sanitarias de mitigación conducentes a asegurar que la salud de la población de la comuna de Curarrehue, ante un eventual colapso y mal funcionamiento del sistema de alcantarillado de la referida comuna.
 
 Tercero: Publíquese la presente resolución en el Diario Oficial y en la página web de esta Secretaría Regional Ministerial de Salud.
 
