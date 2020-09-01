@@ -1,0 +1,7 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 97, de fecha 25 de febrero de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Pesquera Marmag SpA, RUT 76.768.356-1, concesión marítima menor, con vencimiento el día 31 de diciembre de 2024, sobre un sector de terreno de playa, en el lugar denominado 1 km, Caleta Eugenia S/N, comuna de Cabo de Hornos, Provincia de Antártica Chilena, Región de Magallanes y Antártica Chilena, con una superficie total de 1553,46 m2, la que fue tramitada con el SIABC Nº 41606. A modo referencial se señala la siguiente coordenada geográfica. Latitud 54º55'48,05" S, Longitud 67º34'27,76"W. El objeto de esta concesión marítima, sobre el sector otorgado, consiste en demoler dos mejoras fiscales que se encuentran en estados ruinosos y abandonados y posteriormente, construir dos nuevos galpones que serán utilizados como planta de procesos pesqueros.
+
+Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Puerto Williams. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.- 25 de agosto de 2020.-
+
+Gerardo Velásquez Cerda, Capitán de Corbeta LT, Capitán de Puerto de Puerto Williams.
