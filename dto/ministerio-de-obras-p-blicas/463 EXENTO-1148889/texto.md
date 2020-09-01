@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 463 de 26 de junio de 2020, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 21-1 para la obra: CONCESIÓN VIAL PUENTE INDUSTRIAL SECTOR D: ZONA DE AMORTIGUACIÓN, Región del Biobío, que figura a nombre de SALGADO FERNANDO SUC., rol de avalúo 15009-47 de la comuna de San Pedro de la Paz, superficie 7.872 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 283 de 27 de septiembre de 2019, integrada por Marcelo Gabriel Oyarzo Saldías, Handy Ghislaine Campos Sepúlveda y Patricia Cecilia Palacios González, fijó con fecha 21 de octubre de 2019, el valor provisional de la indemnización en la cantidad de $64.396.000 para el lote Nº 21-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
