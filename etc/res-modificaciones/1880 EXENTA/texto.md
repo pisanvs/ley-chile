@@ -1,0 +1,7 @@
+MODIFICA RESOLUCIÓN Nº 25 EXENTA DE 2020, DE ESTA SUBSECRETARÍA
+
+Por resolución exenta Nº 1.880, de 26 de agosto de 2020, de esta Subsecretaría, modifícase la resolución exenta Nº 25 de 2020, que estableció la distribución de la fracción artesanal de las pesquerías artesanales de Merluza común correspondiente al Área Sur de la Región del Libertador General Bernardo O'Higgins, y Áreas Norte 1, Norte 2 y Sur de la Región del Maule, sometidas al Régimen Artesanal de Extracción individualmente, en el sentido de descontar 704 kilogramos de la asignación individual autorizada a la embarcación artesanal "El Viejo Rola", RPA 966699, perteneciente al Área Norte 1 de la Región del Maule, en virtud de lo señalado en la parte considerativa de la resolución extractada y lo dispuesto en la resolución exenta Nº 671 de fecha 6 de septiembre de 2019, de la Dirección Regional de Pesca y Acuicultura, Región del Maule, y en el artículo 55 Ñ de la Ley General de Pesca y Acuicultura.
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 26 de agosto de 2020.- Román Zelaya Ríos, Subsecretario de Pesca y Acuicultura.
