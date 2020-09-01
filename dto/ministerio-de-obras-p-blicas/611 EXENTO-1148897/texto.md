@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº611, de 30 de julio de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.111 y 113, para la obra: MEJORAMIENTO RUTA L-32, SECTOR PUENTE MARIMAURA - CRUCE RUTA 126, que figuran a nombre de GARRIDO VALENCIA TERESA DE LA LU Y, roles de avalúo 269-50, Comuna de SAN JAVIER, REGIÓN DEL MAULE, superficies 3.549 y 76 m2. respectivamente. La Comisión de Peritos integrada por ALICIA BARBARA FLORES PACHECO, GABRIEL ANTONIO PANTOJA RIVERA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 28 de octubre de 2019, fijó el monto de la indemnización provisional en la cantidad de $11.222.250, para el lote Nº111 y $209.000, para el lote Nº113. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978,
+
+Fiscalía MOP.
