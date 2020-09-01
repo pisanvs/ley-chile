@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.601, de fecha 19 de agosto de 2020, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº668-247, correspondiente al inmueble ubicado en Sn. Luis 540 Block A DP 13 V Parinacota, Rol de Avalúo N° 668-247, de la Comuna de Quilicura, Región Metropolitana, de aparente dominio de Bernal Martínez Marialy Beatriz, con una superficie aproximada de 43,12 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Habilitación de Terrenos, Población Parinacota, Comuna de Quilicura". La Comisión de Peritos integrada por los señores Andrés Schulz Villanueva, arquitecto; Jesús Díaz Pasmiño, ingeniero civil y Gabriel Pantoja Rivera, ingeniero agrónomo, mediante Informe de fecha 29 de mayo de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $19.384.558, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
