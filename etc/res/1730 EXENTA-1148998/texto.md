@@ -1,0 +1,7 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.730 del 11 de agosto de 2020, Serviu Región del Biobío ordenó expropiación parcial de inmueble ubicado en Los Carrera 2278, Rol de Avalúo Nº 351-30 y 351-32 al 351-38, comuna de Concepción, de aparente dominio de Castillo Basaul Luis Antonio, Fabre Vergnes Ana Adriana, Rissetti Paredes Patricia del Ca, Salas Aldi Julio Enrique, Melo Zuniga Pedro, Bustos Rojas Carla Ester, Carrasco Migueles Maritza Ximena, de la Harpe Iturra María Eugenia. La superficie afecta expropiación parcial es mediante derecho cuotativo correspondiente a un 26,90 m2 de superficie de terreno y 0,00 m2 de edificación, enmarcados en el polígono A-B-C-D-E-F-A del plano S8R-39201- 1, para la ejecución de la obra "Mejoramiento PAR Vial Callao - General Novoa", comuna de Concepción, Región del Biobío, conforme artículo 51 ley 16.391 y DL 2186. Comisión Peritos integrada por el constructor civil María Soledad Silva Hernández, el arquitecto Juan Felipe King Domínguez, por el arquitecto Carolina Andrea Contreras Tapia y por arquitecto Carolina del Pilar Zuloaga Sanhueza, según informe de fecha 10.06.2020, que fijó monto provisional en $12.898.956.- pagadero de contado, correspondiendo a cada aparente propietario lo siguiente:
+
+.
+
+Director Subrogante, Serviu Región del Biobío.
