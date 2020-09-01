@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.707, 07 de agosto de 2020, Serviu Región del Biobío ordenó expropiación parcial de terreno, ubicado en Cam Nonguen 080 Ferroviaria, Rol de Avalúo N° 4001-17, comuna de Concepción, de aparente dominio de Ravanal Mendoza Rosa, superficie de 18.12 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-38.832-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida Par- Vial Collao- General Novoa" comuna de Concepción, Región del Biobío", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por el arquitecto Francesca Antonella Vives Figueroa, por el arquitecto Rubén Carlos Muñoz Vera, por arquitecto Patricia Cecilia Palacios González, según informe de fecha 19.06.2020, fijó monto provisional indemnización en $3.719.154.-
+
+Director (S) Serviu Región del Biobío.
