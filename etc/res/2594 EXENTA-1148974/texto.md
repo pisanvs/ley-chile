@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.594, de fecha 19 de agosto de 2020, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº666-133, correspondiente al inmueble ubicado en Pje. Socoroma 505 Block B DP 11 V Parinacota, Rol de Avalúo N° 666-133, de la Comuna de Quilicura, Región Metropolitana, de aparente dominio de Díaz Mancilla Marcia Betty, con una superficie aproximada de 43,12 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Habilitación de Terrenos, Población Parinacota, Comuna de Quilicura". La Comisión de Peritos integrada por los señores Andrés Schulz Villanueva, Arquitecto; Jesús Díaz Pasmiño, ingeniero civil y Gabriel Pantoja Rivera, ingeniero agrónomo, mediante informe de fecha 29 de mayo de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $21.584.037, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
