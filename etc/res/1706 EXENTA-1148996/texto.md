@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.706, 7 de agosto de 2020, Serviu Región del Biobío ordenó expropiación parcial de terreno, ubicado en Av. Coliumo 2104, Coliumo, Rol de Avalúo N° 1419-17, comuna de Tomé, de aparente dominio de Sanhueza Andrade Viviana Jeannet, superficie de 10,59 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-39.000-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida Coliumo" comuna de Tomé, Región del Biobío", conforme artículo 51 Ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por constructor civil María Soledad Silva Hernández, por el arquitecto Alexander Boye Trenit y por el ingeniero civil Orlando Paredes Vásquez, según informe de fecha 19.06.2020, fijó monto provisional indemnización en $300.640.-
+
+Director (S) Serviu Región del Biobío.
