@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.580, de fecha 18 de agosto de 2020, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 666-121, correspondiente al inmueble ubicado en Pje. Socoroma 505 Block A DP 11 V Parinacota, Rol de Avalúo Nº 666-121, de la Comuna de Quilicura, Región Metropolitana, de aparente dominio de Juan Hernán Sánchez Mellado, con una superficie aproximada de 43,63 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación de Terrenos, Población Parinacota, comuna de Quilicura". La Comisión de Peritos integrada por los señores Roberto Söhrens Camus, Arquitecto; Armando Pinochet Landeros, Constructor Civil y Marlene Ríos Marcuello, Ingeniero Agrónomo, mediante Informe de fecha 24 de mayo de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $22.612.216, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
