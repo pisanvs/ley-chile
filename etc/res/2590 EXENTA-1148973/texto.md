@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.590, de fecha 19 de agosto de 2020, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado lote Nº666-122, correspondiente al inmueble ubicado en Pje. Socoroma 505 Block A DP 12 V Parinacota, Rol de Avalúo Nº 666-122, de la comuna de Quilicura, Región Metropolitana, de aparente dominio de Lara Bustamante Carlos Alberto, con una superficie aproximada de 43,12 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Habilitación de terrenos, Población Parinacota, comuna de Quilicura". La comisión de peritos integrada por los señores Roberto Söhrens Camus, arquitecto; Armando Pinochet Landeros, constructor civil y Marlene Ríos Marcuello, ingeniero agrónomo, mediante informe de fecha 24 de mayo de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $20.931.904, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
