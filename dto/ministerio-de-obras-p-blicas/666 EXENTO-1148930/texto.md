@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 666, de 13 de agosto de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c) y 14º letra e) del DFL. MOP. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº 206 de 1960; artículo 10 de la Ley Nº 18.772, se expropió para la EMPRESA DE TRANSPORTE DE PASAJEROS METRO S.A., el lote de terreno Nº 95L7, para la obra: PROYECTO LÍNEA 7 METRO S.A., que figura a nombre de JUANET EINERSEN JUAN LUIS Y OTRA, rol de avalúo 3405-4, Comuna de VITACURA. REGION METROPOLITANA DE SANTIAGO, superficie 5.602,51 m2. La Comisión de Peritos integrada por PEDRO IGNACIO ZEGERS RIESCO, SONIA CATALINA GALLEGOS BLANCH e ITSANG LU CHEN, mediante informe de tasación de fecha 01 de octubre de 2019, fijó el monto de la indemnización provisional en la cantidad de $11.310.993.550.- para el lote Nº95L7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
