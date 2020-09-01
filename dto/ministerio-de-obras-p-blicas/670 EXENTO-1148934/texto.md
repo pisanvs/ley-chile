@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 670, de 13 de agosto de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c) y 14° letra e) del DFL. MOP. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N° 206 de 1960; lo prescrito en el Decreto Ley N° 2186, de 1978; lo señalado en el artículo 12° de la Ley N° 18.777, se expropió para la empresa ECONSSA CHILE S.A., el lote de terreno N° 01, para la obra: NUEVA PLANTA ELEVADORA DE AGUAS SERVIDAS TOCOPILLA, que figura a nombre de ESSO INDUSTRIAL LTDA Y OT, rol de avalúo 1512-1, Comuna de ANTOFAGASTA, REGION DE ANTOFAGASTA, superficie 982 m2. La Comisión de Peritos integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, ANDRES ECHEVERRÍA CAMPO, y JUAN ANDRES TEPPER LAVANDEROS, mediante informe de tasación de 25 de septiembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $462.995.000.- para el lote N°01. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
