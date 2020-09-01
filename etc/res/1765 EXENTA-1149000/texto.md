@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.765, 14 de agosto de 2020, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación de un inmueble ubicado en Cam Nonguen 070 Ferroviaria, Rol de Avalúo N° 4001-18, comuna de Concepción, de aparente dominio de Castro Acuna Abelardo, superficie afecta expropiación parcial de terreno es de 47,88 m2 (Lote 163) y expropiación total de edificación (a) 16,47 m2, según Plano S8R 38831-1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao-General Novoa", comuna de Concepción, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecta Francesca Vives Figueroa, arquitecto Rubén Muñoz Vera y la arquitecta doña Patricia Palacios González, según informe de fecha 19.06.2020, fijó monto provisional indemnización en $14.444.901.-
+
+Director Serviu Región del Biobío.
