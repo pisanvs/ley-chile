@@ -1,0 +1,5 @@
+DERECHOS DE AGUAS COMUNA DE COINCO
+
+El Servicio Agrícola y Ganadero, mediante resolución exenta N° 4.804, de 17 de julio de 2020, conforme al Artículo 5° Transitorio Código de Aguas, complementa la resolución exenta N° 2.347, de 10 de noviembre de 1987, del Servicio Agrícola y Ganadero que aprueba el Estudio Técnico de División de Derechos de Aprovechamiento de Aguas de los predios "Hijuela Número Uno del Plano de Hijuelación de la Hacienda Chillehue, Potrero El Molino y camino a Chillehue" e "Hijuela Tres de la Hijuelación de la Hacienda Chillehue, Potrero El Molino y camino a Chillehue" y del Proyecto de Parcelación "Chillehue" de la comuna de Coinco, Provincia del Cachapoal, Sexta Región, hoy del Libertador Bernardo O'Higgins, en el sentido de establecer que el Estero El Molino, es el álveo desde el cual se captan los derechos de aprovechamiento de aguas provenientes de los Canales El Molino, Nogales y El Membrillo y que son de carácter consuntivo, de ejercicio permanente y continuo y además establecer que son superficiales y corrientes.
+
+Publicación hecha conforme artículo 13° ley N° 18.377.- Director Nacional.
