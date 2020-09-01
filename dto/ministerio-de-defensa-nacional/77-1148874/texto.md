@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 77 de fecha 25 de febrero de 2020, de Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Juan Carlos Díaz Retamal, RUT: 16.857.072-4, Concesión Marítima Menor, con vencimiento 31 de diciembre de 2024, sobre un sector de terreno de playa en el lugar denominado Playa Los Gringos, comuna de Constitución, provincia de Talca, Región del Maule, con una superficie de 277,76 M2, la que fue tramitada con el SIABC N° 36124, a modo referencial se señala la siguiente coordenada geográfica. Latitud 35°19'35,23"S, longitud 72°25'40,20"W. El objeto consiste en permitir la construcción y habilitación de un restaurante y el plazo contemplado para su ejecución es de 7 meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Constitución. El presente extracto se encuentra visado por la Autoridad Marítima antes señalada.-
+
+Luis Romero Morales, Teniente 1° LT, Capitán de Puerto de Constitución.
