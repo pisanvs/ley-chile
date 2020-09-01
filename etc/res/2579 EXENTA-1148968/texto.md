@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.579, de fecha 18 de agosto de 2020, se ordenó la expropiación total, conforme a las normas del decreto ley N° 2.186, de 1978, del denominado Lote N° 668-256, correspondiente al inmueble ubicado en SN Luis 540 Block B Dp 22 V Parinacota, Rol de Avalúo N° 668-256, de la comuna de Quilicura, Región Metropolitana, de aparente dominio de Godoy Baeza Sandra Jacqueline, con una superficie aproximada de 43,63 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación de Terrenos Población Parinacota, Comuna de Quilicura". La Comisión de Peritos integrada por la señora Constanza González Vergara, arquitecto; señora Vilma Espinoza Zapatel, ingeniero civil y señora Mónica Conejeros Rudloff, ingeniero agrónomo, mediante informe de fecha 31 de mayo de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $19.348.429, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.-
+
+Directora Serviu Metropolitano.
