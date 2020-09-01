@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº (56, y 14/04/2020), del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a (Ricardo Javier Azócar Rojas), (15.782.539-9), concesión marítima (menor). Con vencimiento, sobre un sector de terreno de playa, en el lugar denominado Playa Vega de Los Patos, comuna de Constitución, provincia de Talca, Región de Maule, con una superficie total de 115,71 mts2, la que fue tramitada con el SIABC Nº 34534. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): Vértice E Latitud: 35º19'40,59" Longitud 72º25'46,67". El objetivo consiste en escuela de surf, restaurant y jardinería. Las obras consisten en (escuela de surf, restaurant y jardineras) y el plazo contemplado para su ejecución es de 3 meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Constitución. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Luis Romero Morales, Teniente 1º LT, Capitán de Puerto de Constitución.
