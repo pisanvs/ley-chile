@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.589, de fecha 19 de agosto de 2020, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 666-136, correspondiente al inmueble ubicado en Pje. Socoroma 505 Block B DP 22 V Parinacota, Rol de Avalúo Nº 666-136, de la comuna de Quilicura, Región Metropolitana, de aparente dominio de Conejeros Herrera Eglemina del C, con una superficie aproximada de 43,63 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación de Terrenos, Población Parinacota, comuna de Quilicura". La Comisión de Peritos integrada por los señores Andrés Schulz Villanueva, Arquitecto; Jesús Díaz Pasmiño, Ingeniero Civil y Gabriel Pantoja Rivera, Ingeniero Agrónomo, mediante Informe de fecha 29 de mayo de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $21.716.109, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
