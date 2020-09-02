@@ -36,7 +36,7 @@ b) Cooperativas Cerradas de Vivienda constituidas conforme al DFL N°5, de Econo
 
 c) Cooperativas Abiertas de Vivienda constituidas conforme al DFL N°5, de Economía, de 2003. Para efectos de llevar adelante el proyecto deberán identificar a lo menos a 3 postulantes que actuarán como encargados ante el Serviu y la Entidad Patrocinante. En estos casos, la cooperativa podrá asumir la labor de Entidad Patrocinante si cuenta con Convenio Marco vigente.
 
-Los grupos organizados que postulen deberán contar con una Entidad Patrocinante con convenio marco vigente en la región correspondiente, la que deberá digitar en el Sistema Umbral que mantiene el Minvu las postulaciones respectivas, e ingresar los antecedentes que se exigen en el presente llamado, obteniendo un Comprobante de Postulación Aceptada en dicho sistema, al día 30 de septiembre de 2020.
+Los grupos organizados que postulen deberán contar con una Entidad Patrocinante con convenio marco vigente en la región correspondiente, la que deberá digitar en el Sistema Umbral que mantiene el Minvu las postulaciones respectivas, e ingresar los antecedentes que se exigen en el presente llamado, obteniendo un Comprobante de Postulación Aceptada en dicho sistema, al 30 de septiembre y al 26 de noviembre de 2020.
 
 Las Entidades Patrocinantes municipales podrán presentar postulaciones al presente llamado, actuando en coordinación con otra Entidad Patrocinante para el desarrollo del proyecto y la ejecución de obras. Corresponderá al Serviu determinar los montos a pagar a cada una de estas Entidades por concepto de honorarios por la prestación de Servicios de Asistencia Técnica, de acuerdo a la resolución exenta N° 1.875 (V . y U.), de 2015, y al Resuelvo 11 de esta resolución.
 
@@ -118,7 +118,7 @@ El cálculo del subsidio para la compra de terrenos colindantes por parte de un 
 
 Para acceder a este subsidio, el o los terrenos a adquirir deberán cumplir copulativamente con las siguientes condiciones:
 
-i. Emplazarse dentro del área urbana y contar con norma urbanística vigente para el desarrollo del proyecto habitacional.
+i. Emplazarse en el área urbana y contar con norma urbanística vigente para el desarrollo del proyecto habitacional. Sin perjuicio de lo anterior, tratándose de áreas contenidas al interior del anillo conformado por las Avenidas Circunvalación Américo Vespucio y Ossa, en la ciudad de Santiago, Región Metropolitana, podrán considerarse terrenos emplazados en áreas de extensión urbana.
 
 ii. Que el terreno se encuentre a una distancia no superior a 200 metros de una vía de servicio o de rango superior existente, y con acceso directo a ella a través de una vía cuya urbanización esté ejecutada al 100%, o que considere su ejecución al 100% como parte del proyecto presentado.
 
@@ -187,6 +187,8 @@ c) El 60% restante, una vez desarrolladas las actividades que establece la resol
 11.5. Los honorarios de Asistencia Técnica correspondientes al servicio "Gestión Legal", se incrementarán con un monto adicional, de acuerdo a la relación entre la tasación del terreno y el precio, según el cuadro siguiente:
 
 12. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de postulaciones seleccionadas. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+
+> **Nota.** La letra b) del numeral 1 de la Resolución 1286 Exenta, Vivienda, publicada el 02.09.2020, dispone reemplazar en el cuadro inserto en el Resuelvo 3 de la presente norma, en el área definida para las comunas de San Pedro de la Paz y Chiguayante, la expresión "Metro de Valparaíso" por "Biotrén".
 
 Anótese, comuníquese, publíquese y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
