@@ -3144,9 +3144,9 @@ La Defensoría estará sujeta a las normas del decreto ley N° 1.263, de 1975, d
 
 #### Artículo 3
 
-La Defensoría tendrá por objeto principal velar por la protección y resguardo de los derechos de los contribuyentes, en las materias de tributación fiscal interna, cobro administrativo o judicial de obligaciones tributarias en dinero y tributación aduanera. En el ejercicio de sus atribuciones legales, la Defensoría deberá velar especialmente por la protección y resguardo de los derechos de los más vulnerables y de las micro, pequeñas y medianas empresas.
+La Defensoría tendrá por objeto principal velar por la protección y resguardo de los derechos de los contribuyentes, en las materias de tributación fiscal interna. En el ejercicio de sus atribuciones legales, la Defensoría deberá velar especialmente por la protección y resguardo de los derechos de los más vulnerables y de las micro, pequeñas y medianas empresas.
 
-Para efectos de lo establecido en la presente ley, se entenderá por "contribuyente" aquel definido en el numeral 5° del artículo 8 del Código Tributario. Asimismo, se entenderá por "derechos de los contribuyentes" aquellos establecidos en el párrafo cuarto del título preliminar del Código Tributario, en el artículo 17 de la ley N° 19.880, el derecho a la seguridad jurídica y las garantías constitucionales en materia tributaria.
+Para efectos de lo establecido en la presente ley, se entenderá por "contribuyente" aquel definido en el numeral 5° del artículo 8 del Código Tributario. Asimismo, se entenderá por "derechos de los contribuyentes" aquellos establecidos en el artículo 8 bis del Código Tributario, en el artículo 17 de la ley N° 19.880, el derecho a la seguridad jurídica y las garantías constitucionales en materia tributaria.
 
 La Defensoría deberá observar en el ejercicio de sus funciones los principios de responsabilidad, eficiencia, eficacia, coordinación, impulsión de oficio, control, probidad, transparencia y publicidad administrativa.
 
@@ -3156,7 +3156,7 @@ Para el cumplimiento de su objeto, le corresponderá a la Defensoría las siguie
 
 a) Velar por la protección de los derechos de los contribuyentes, la observancia del principio de legalidad y, en general, asegurar el respeto del estado de derecho. Adicionalmente, en el ejercicio de sus funciones, la Defensoría promoverá el cumplimiento íntegro por parte de los contribuyentes de las obligaciones administrativas y tributarias que les correspondan en conformidad con la normativa legal vigente.
 
-b) Orientar y acompañar a los contribuyentes en las materias de su competencia, especialmente en el cumplimiento de sus obligaciones tributarias, los recursos disponibles en materia de tributación fiscal interna, y los posibles cursos de acción y medidas para cumplir con los requerimientos realizados por el Servicio de Impuestos Internos y por el Servicio de Tesorerías respecto del cobro de los impuestos fiscales y del impuesto territorial, así como las actuaciones del Servicio Nacional de Aduanas en materia de tributación aduanera.
+b) Orientar a los contribuyentes en las materias de su competencia, especialmente sobre los recursos disponibles en materia de tributación fiscal interna, y los posibles cursos de acción y medidas para cumplir con los requerimientos realizados por el Servicio de Impuestos Internos.
 
 c) Conocer las quejas de los contribuyentes afectados por actos administrativos, acciones u omisiones del Servicio de Impuestos Internos, que puedan significar una vulneración de los derechos de los contribuyentes o la ley, así como también aquellos que signifiquen una limitación en el ejercicio de actividades económicas tales como la restricción a la emisión de documentos, presentación de declaraciones de impuesto, rectificaciones u otras similares.
 
@@ -3164,7 +3164,7 @@ d) Emitir, cuando corresponda, recomendaciones públicas no vinculantes respecto
 
 e) Disponer, conforme a sus facultades legales, que se lleven a cabo estudios, análisis y revisiones para resolver las quejas de los contribuyentes.
 
-f) Representar ante el Servicio de Impuestos Internos a los contribuyentes indicados en el artículo 44 en la interposición y tramitación de todo tipo de peticiones y recursos administrativos destinados a asegurar la protección de los derechos de los contribuyentes y la aplicación de la ley. Asimismo, podrá representar a los contribuyentes ante el Servicio de Tesorerías y ante el Servicio Nacional de Aduanas en la tramitación del recurso el resguardo de sus derechos ante acciones u omisiones realizadas por dichos organismos.
+f) Representar ante el Servicio de Impuestos Internos a los contribuyentes indicados en el artículo 44 en la interposición y tramitación de recursos administrativos destinados a asegurar la protección de los derechos de los contribuyentes y la aplicación de la ley.
 
 g) Actuar como tercero en los procedimientos de mediación entre los contribuyentes y el Servicio de Impuestos Internos, fomentando la aproximación y cooperación entre las partes, e instándolas a llegar a acuerdo.
 
@@ -3174,39 +3174,23 @@ i) Realizar o encomendar la realización de estudios que identifiquen problemas 
 
 j) Informar al Ministerio de Hacienda propuestas de modificaciones a la normativa tributaria fiscal interna destinadas a resolver problemas generales del ordenamiento tributario o proteger los derechos de los contribuyentes. Asimismo, deberá informar al Congreso Nacional sobre normas o interpretaciones que puedan afectar los derechos de los contribuyentes, en particular, durante la tramitación de proyectos de ley.
 
-k) Informar al Servicio de Impuestos Internos, Servicio de Tesorerías y Servicio Nacional de Aduanas la existencia de prácticas que afecten los derechos de los contribuyentes, y proponer modificaciones a las mismas.
+k) Informar al Servicio de Impuestos Internos la existencia de prácticas que afecten los derechos de los contribuyentes, y proponer modificaciones a las mismas.
 
 l) Solicitar al Servicio de Impuestos Internos para que, en el ejercicio de sus facultades, se pronuncie o aclare materias de interés público.
 
 m) Emitir opiniones técnicas respecto de la normativa tributaria fiscal interna previa solicitud del Servicio de Impuestos Internos o del Ministerio de Hacienda.
 
-n) Coordinar reuniones periódicas con el Servicio de Impuestos Internos, el Servicio de Tesorerías y el Servicio Nacional de Aduanas para efectos de promover la cooperación entre ambas instituciones.
+n) Coordinar reuniones periódicas con el Servicio de Impuestos Internos para efectos de promover la cooperación entre ambas instituciones.
 
 o) Solicitar al Servicio de Impuestos Internos para que señale cuál es la interpretación administrativa vigente ante la existencia de dos o más oficios que contengan criterios no concordantes sobre una materia.
 
-p) Promover el estudio, enseñanza y difusión de la normativa tributaria, en especial, los derechos de los contribuyentes, el cumplimiento de las obligaciones tributarias, las facultades y atribuciones de las autoridades administrativas, y los recursos y procedimientos disponibles para reclamar de los actos que vulneren dichos derechos.
+p) Promover el estudio, enseñanza y difusión de la normativa tributaria, en especial, los derechos de los contribuyentes, las facultades y atribuciones de las autoridades administrativas, y los recursos y procedimientos disponibles para reclamar de los actos que vulneren dichos derechos.
 
 q) Adoptar todas las medidas de publicidad necesarias con el objeto de informar a los contribuyentes sobre sus derechos.
 
 r) Fomentar y difundir el cumplimiento tributario, el pago de los impuestos, la presentación de declaraciones y, en general, la observancia de toda clase de obligaciones legales y administrativas que apliquen a los contribuyentes. Para dichos efectos, la Defensoría podrá ejercer todas las acciones de difusión que estime pertinentes para promover una cultura contributiva basada en el cumplimiento tributario y el respeto de los derechos de los contribuyentes.
 
 s) Las demás funciones y atribuciones que las leyes señalen.
-
-t) Solicitar al Servicio de Impuestos Internos y a la Tesorería General de la República la entrega de la información disponible y que la Defensoría del Contribuyente requiera para el cumplimiento de sus funciones.
-
-El Servicio de Impuestos Internos y el Servicio de Tesorerías deberán proporcionar esta información oportunamente.
-
-La Defensoría del Contribuyente podrá requerir al Servicio de Impuestos Internos y al Servicio de Tesorerías datos personales e información que sea indispensable para cumplir con los servicios que se encuentren en el ámbito de sus competencias. En su requerimiento la Defensoría deberá indicar expresa y detalladamente la información que solicita y los fines para los cuales será empleada. El Servicio de Impuestos Internos o el Servicio de Tesorerías, según sea el caso, informará, en el ámbito de su competencia, de acuerdo con los antecedentes que consten en sus registros. Dicha información podrá ser solicitada y entregada, mediante una plataforma informática que resguarde su integridad y fidelidad.
-
-Para los efectos antes señalados, no regirá lo establecido en el inciso segundo del artículo 35 del Código Tributario.
-
-El personal de la Defensoría del Contribuyente que tome conocimiento de la información tributaria reservada estará obligado en los mismos términos establecidos por el artículo 25. El incumplimiento de este deber hará aplicables las sanciones administrativas que correspondan, sin perjuicio de las sanciones establecidas en el Párrafo 8 del Título V del Libro Segundo del Código Penal.
-
-u) Representar judicialmente ante los Tribunales Tributarios y Aduaneros y tribunales superiores de justicia, a los contribuyentes indicados en el artículo 44, respecto del reclamo contenido en el Párrafo 2º del título III del Libro III del Código Tributario y en el artículo 129 K del decreto con fuerza de ley N° 30, de 2005, del Ministerio de Hacienda que aprueba el texto refundido, coordinado y sistematizado del decreto con fuerza de ley de Hacienda N° 213, de 1953, sobre Ordenanza de Aduanas.
-
-v) Realizar estudios cuantitativos y cualitativos, explorando distintas interseccionalidades que permitan detectar problemas y proponer soluciones en temas relacionados con el ejercicio de los derechos y la promoción de la educación y el cumplimiento tributario de las y los contribuyentes.
-
-> **Nota.** El artículo séptimo transitorio de la ley 21713, publicada el 24.10.2024, dispone que las modificaciones incorporadas por su artículo 7 al presente artículo, en los literales f), k), n), u) y v) entrarán en vigencia el 01.01.2025, con excepción de las modificaciones de los literales b) y p) y el nuevo literal t), que conforme al artículo final de la referida ley, entrarán en vigencia el 01.11.2024.
 
 ## Título II
 
@@ -3264,9 +3248,7 @@ m) Presidir las reuniones ordinarias y extraordinarias del Consejo;
 
 n) Proponer el proyecto de presupuesto anual de la Defensoría, y
 
-o) Dar cuenta de su gestión ante la Comisión de Hacienda del Senado, de forma anual.
-
-p) Las demás atribuciones que las leyes señalen.
+o) Las demás atribuciones que las leyes señalen.
 
 ### Párrafo III
 
@@ -3480,17 +3462,13 @@ Servicios prestados por la Defensoría
 
 ### Párrafo I
 
-Orientación y Acompañamiento
+Orientación
 
 #### Artículo 33
 
 Los contribuyentes podrán solicitar a la Defensoría orientación respecto de cualquier acto, hecho u omisión del Servicio de Impuestos Internos que vulnere o desconozca la ley o los derechos de los contribuyentes. Asimismo, los contribuyentes podrán solicitar orientación respecto de la forma en que deben dar cumplimiento a los requerimientos del Servicio de Impuestos Internos.
 
-Asimismo, los contribuyentes podrán solicitar orientación respecto a la cobranza administrativa y judicial de las obligaciones tributarias efectuada por el Servicio de Tesorerías, las excepciones que se puedan interponer, los convenios de pagos a los que se puedan acoger y en general, respecto de todas las acciones que se pueden adoptar en este procedimiento, respecto del cobro de los impuestos fiscales del impuesto y territorial.
-
 La orientación consistirá en entregar al contribuyente la información y ayuda necesaria para permitirle una adecuada comprensión del problema, y presentarle una propuesta con las posibles vías de acción y los pasos a seguir para dar solución al mismo o para cumplir con los requerimientos de la autoridad. En dicha propuesta, la Defensoría indicará las facultades o servicios con los que podrá apoyar al contribuyente.
-
-El acompañamiento consistirá en realizar acciones y planes de educación y formación a aquellos contribuyentes que inician sus operaciones para permitirles comprender y cumplir correctamente sus obligaciones tributarias con el objetivo de disminuir los errores involuntarios e introducirlos al sistema tributario.
 
 #### Artículo 34
 
@@ -3558,9 +3536,7 @@ Representación administrativa
 
 #### Artículo 43
 
-La Defensoría podrá representar a los contribuyentes en la interposición y tramitación ante el Servicio de Impuestos Internos de todo tipo de peticiones y recursos administrativos establecidos en el N° 7 letra A y N° 5 letra B del artículo 6°, el inciso segundo del artículo 8° bis y el artículo 123 bis del Código Tributario.
-
-La Defensoría podrá también representar a los contribuyentes ante el Servicio de Tesorerías y el Servicio Nacional de Aduanas en aquellos recursos administrativos que permitan el resguardo de sus derechos ante actuaciones u omisiones realizadas por dichos organismos.
+La Defensoría podrá representar a los contribuyentes en la interposición y tramitación ante el Servicio de Impuestos Internos de los recursos administrativos establecidos en el N° 7 letra A y N° 5 letra B del artículo 6°, el inciso segundo del artículo 8° bis y el artículo 123 bis del Código Tributario.
 
 #### Artículo 44
 
@@ -3580,11 +3556,11 @@ La Defensoría podrá abstenerse de representar a contribuyentes en caso que fun
 
 #### Artículo 46
 
-La Defensoría deberá efectuar todas las gestiones necesarias para la interposición, tramitación y seguimiento de los recursos y peticiones a que hace referencia el artículo 43, hasta su total conclusión.
+La Defensoría deberá efectuar todas las gestiones necesarias para la interposición, tramitación y seguimiento de los recursos a que hace referencia el artículo 43, hasta su total conclusión.
 
 #### Artículo 47
 
-En las peticiones y recursos administrativos en que la Defensoría represente a los contribuyentes, su interposición y tramitación se realizará por medios electrónicos.
+En los recursos administrativos en que la Defensoría represente a los contribuyentes, su interposición y tramitación se realizará por medios electrónicos.
 
 El Servicio de Impuestos Internos emitirá la normativa administrativa que corresponda para efectos de establecer y dar curso a lo dispuesto en este artículo.
 
@@ -3600,7 +3576,7 @@ La Defensoría no se encontrará obligada a prestar el servicio en aquellos caso
 
 #### Artículo 49
 
-La mediación procederá cuando el contribuyente estuviere en desacuerdo con la calificación jurídica o de hecho de los elementos contenidos en los actos emitidos por el Servicio de Impuestos Internos durante un procedimiento de fiscalización o con ocasión de cualquier otro tipo de actuación en el ejercicio de sus facultades, en la totalidad o parte de los elementos de una liquidación, giro o resolución, que incidan en el pago de impuestos, o en los elementos que sirven de base para determinarlo.
+La mediación procederá cuando el contribuyente estuviere en desacuerdo con la calificación jurídica o de hecho de los elementos contenidos en los actos emitidos por el Servicio de Impuestos Internos durante un procedimiento de fiscalización, en la totalidad o parte de los elementos de una liquidación, giro o resolución, que incidan en el pago de impuestos, o en los elementos que sirven de base para determinarlo.
 
 #### Artículo 50
 
@@ -3622,7 +3598,7 @@ La declaración de mediación frustrada se efectuará por resolución. En ella, 
 
 La solicitud de servicio de mediación podrá presentarse en cualquier momento, desde la fecha de la notificación o solicitud de antecedentes, y siempre que no se hubiere interpuesto el recurso de reclamación establecido en el artículo 124 del Código Tributario.
 
-En el evento que el servicio de mediación se solicite encontrándose pendiente el recurso de reposición administrativa establecido en el artículo 123 bis o la resolución de una petición bajo el procedimiento establecido en el número 5º de la letra B. del artículo 6 del Código Tributario, se entenderá que el procedimiento de mediación suplirá la audiencia descrita en la letra e) de la disposición señalada, siempre que ésta no se hubiere llevado a cabo previamente.
+En el evento que el servicio de mediación se solicite encontrándose pendiente el recurso de reposición administrativa establecido en el artículo 123 bis del Código Tributario, se entenderá que el procedimiento de mediación suplirá la audiencia descrita en la letra e) de la disposición señalada, siempre que ésta no se hubiere llevado a cabo previamente.
 
 #### Artículo 53
 
@@ -3634,11 +3610,7 @@ El Servicio de Impuestos Internos deberá participar, a lo menos, en la primera 
 
 #### Artículo 54
 
-El Director Regional del Servicio de Impuestos Internos que corresponda deberá designar un abogado para que represente al referido Servicio en el procedimiento de mediación.
-
-El abogado que represente al Servicio deberá pronunciarse en la audiencia señalada en el artículo anterior sobre la propuesta de acuerdo presentada por la Defensoría y deberá aceptarla o rechazarla. Cuando se acepte la propuesta deberá señalar expresamente los fundamentos de hecho y de derecho en que se basa y las condiciones para dicha aceptación.
-
-Los criterios para la proposición, negociación y aceptación de las bases de acuerdo se deberán regir por la resolución que para estos efectos dictará el Director de Impuestos Internos.
+El Director Regional del Servicio de Impuestos Internos que corresponda deberá designar un abogado para que represente al referido Servicio en el procedimiento de mediación. El Director Regional deberá regular mediante resolución fundada los criterios generales para la proposición, negociación y aceptación de bases de acuerdo.
 
 #### Artículo 55
 
@@ -3656,18 +3628,6 @@ Obtenida la aprobación definitiva del proyecto de transacción, la Defensoría 
 
 La transacción celebrada en conformidad a este artículo será confidencial, tendrá la calidad de instrumento público para todos los efectos legales, aplicará solo al caso concreto y tendrá efecto de cosa juzgada.
 
-#### Artículo 57 bis
-
-La Defensoría podrá representar a los contribuyentes señalados en el artículo 44 en la interposición y tramitación ante los tribunales de justicia del reclamo por vulneración de derechos establecido en el párrafo 2º del Título III del Libro III del Código Tributario y en el artículo 129 K del decreto con fuerza de ley N° 30, de 2005, del Ministerio de Hacienda que Aprueba el texto refundido, coordinado y sistematizado del decreto con fuerza de ley de Hacienda N° 213, de 1953, sobre Ordenanza de Aduanas.
-
-#### Artículo 57 ter
-
-Cuando las pretensiones carezcan de mérito jurídico o no existan los antecedentes suficientes para su interposición o tramitación, la Defensoría podrá abstenerse de representar judicialmente a contribuyentes, mediante resolución fundada.
-
-#### Artículo 57 quáter
-
-En los juicios que represente a un contribuyente, la Defensoría deberá efectuar todas las gestiones necesarias para la interposición, tramitación y ejecución del reclamo por vulneración de derechos establecido en el párrafo 2º del Título III del Libro III del Código Tributario y en el artículo 129 K del decreto con fuerza de ley N° 30, de 2005, del Ministerio de Hacienda, que aprueba el texto refundido, coordinado y sistematizado del decreto con fuerza de ley de Hacienda N° 213, de 1953, sobre Ordenanza de Aduanas, hasta su total conclusión. En este sentido, podrá interponer todos los recursos ordinarios y extraordinarios que contempla dicho procedimiento, conciliar en los términos del artículo 132 bis del Código Tributario y proponer bases de un avenimiento extrajudicial ante el Director del Servicio de Impuestos Internos, según lo dispone el artículo 132 ter del Código Tributario.
-
 ## Título VI
 
 Otros servicios y atribuciones
@@ -3678,7 +3638,7 @@ Solicitud de opinión técnica
 
 #### Artículo 58
 
-La Defensoría podrá, previa solicitud de un contribuyente de aquellos señalados en la parte final del artículo tercero, entregar su opinión técnica respecto de la aplicación de una o más normas tributarias a un caso particular contenido en una liquidación, giro o en cualquier actuación administrativa del Servicio de Impuestos Internos, en que el contribuyente tenga un interés directo comprometido.
+La Defensoría podrá, previa solicitud de un contribuyente, entregar su opinión técnica respecto de la aplicación de una o más normas tributarias a un caso particular controvertido por el Servicio de Impuestos Internos, contenido en una liquidación, giro o resolución, o en cualquier otro acto administrativo.
 
 #### Artículo 59
 
@@ -3726,8 +3686,6 @@ Si la autoridad del Servicio de Impuestos Internos que corresponda rechaza las m
 
 La Defensoría podrá publicar el informe y la comunicación establecida en este artículo, los que podrán ser presentados como antecedentes en los procedimientos administrativos y judiciales que correspondan.
 
-La Defensoría podrá, asimismo, informar a la Comisión de Hacienda del Senado el resultado de los oficios o comunicaciones que hubiere efectuado al Servicio de Impuestos Internos, Servicio Nacional de Aduanas y Servicio de Tesorerías en virtud del presente párrafo.
-
 ### Párrafo III
 
 Propuestas de modificación de normativa tributaria
@@ -3772,33 +3730,31 @@ La opinión que emita en ejercicio de esta facultad no tendrá efecto vinculante
 
 ### Párrafo VI
 
-Reuniones con el Servicio de Impuestos Internos, el Servicio de Tesorerías y el Servicio Nacional de Aduanas
+Reuniones con el Servicio de Impuestos Internos
 
 #### Artículo 70
 
-La Defensoría deberá celebrar reuniones periódicas con las autoridades del Servicio de Impuestos Internos, el Servicio de Tesorerías y el Servicio Nacional de Aduanas para promover la cooperación entre ambas instituciones. En dichas reuniones se podrán analizar problemas y situaciones que afecten los derechos de los contribuyentes o la legalidad vigente, realizar sugerencias respecto de actos, programas o criterios o discutir sobre cualquier materia de interés público dentro de la esfera de su competencia.
-
-En especial se deberán realizar reuniones donde se acuerden las medidas de coordinación y cooperación entre la Defensoría y la Subdirección de Asistencia del Contribuyente del Servicio de Impuestos Internos para fomentar la educación de los contribuyentes. Las medidas de coordinación y cooperación deberán ser publicadas en la página de internet de ambos organismos.
+La Defensoría deberá celebrar reuniones periódicas con las autoridades del Servicio de Impuestos Internos para promover la cooperación entre ambas instituciones. En dichas reuniones se podrán analizar problemas y situaciones que afecten los derechos de los contribuyentes o la legalidad vigente, realizar sugerencias respecto de actos, programas o criterios o discutir sobre cualquier materia de interés público dentro de la esfera de su competencia.
 
 #### Artículo 71
 
-Podrán participar en las reuniones, previa autorización o convocatoria por parte de cualquiera de las instituciones referidas en el artículo anterior, representantes de contribuyentes, colegios técnicos, universidades, asociaciones de consumidores, asociaciones gremiales, sindicatos, y otros grupos de contribuyentes.
+Podrán participar en las reuniones, previa autorización o convocatoria por parte de la Defensoría o el Servicio de Impuestos Internos, representantes de contribuyentes, colegios técnicos, universidades, asociaciones de consumidores, asociaciones gremiales, sindicatos, y otros grupos de contribuyentes.
 
 #### Artículo 72
 
 Las reuniones podrán ser de carácter ordinario o extraordinario.
 
-Las reuniones de carácter ordinario deberán ser celebradas en forma trimestral, de acuerdo con el calendario de reuniones aprobado anualmente por la Defensoría y los organismos señalados en el artículo 70.
+Las reuniones de carácter ordinario deberán ser celebradas en forma trimestral, de acuerdo con el calendario de reuniones aprobado anualmente por la Defensoría y el Servicio de Impuestos Internos.
 
 Por su parte, las reuniones extraordinarias podrán tener lugar en cualquier tiempo, previo acuerdo de la Defensoría y el Servicio de Impuestos Internos, y siempre que a su juicio existan circunstancias que afecten gravemente los derechos de los contribuyentes.
 
 #### Artículo 73
 
-La Defensoría determinará en conjunto con los organismos señalados en el artículo 70 los temas a tratar en cada una de las reuniones. Por su parte, los contribuyentes podrán proponer a la Defensoría materias de discusión y análisis, quien podrá considerarlas para efectos de la elaboración de la tabla.
+La Defensoría determinará en conjunto con el Servicio de Impuestos Internos los temas a tratar en cada una de las reuniones. Por su parte, los contribuyentes podrán proponer a la Defensoría materias de discusión y análisis, quien podrá considerarlas para efectos de la elaboración de la tabla.
 
 #### Artículo 74
 
-El Director del Servicio de Impuestos Internos, el Tesorero General de la República o el Director del Servicio Nacional de Aduanas podrán asistir a las reuniones citadas por la Defensoría personalmente o nombrando a un reemplazante en aquellos casos en que se encuentre impedido de asistir.
+El Director Nacional del Servicio de Impuestos Internos podrá asistir a las reuniones citadas por la Defensoría personalmente o nombrando a un reemplazante en aquellos casos en que se encuentre impedido de asistir.
 
 La Defensoría podrá solicitar la participación voluntaria de funcionarios determinados en atención a los temas que se tratarán en la reunión.
 
@@ -4554,7 +4510,7 @@ Artículo trigésimo cuarto transitorio.- La Defensoría del Contribuyente, entr
 
 I.- Facúltase al Presidente de la República para que, dentro del plazo de un año contado desde la fecha de publicación de la presente ley, mediante uno o más decretos con fuerza de ley expedidos por intermedio del Ministerio de Hacienda establezca las normas necesarias para:
 
-1) Fijar las plantas de personal; determinar los grados y niveles de la Escala de Fiscalizadores que se asignen a dichas plantas; el número de cargos para cada grado y planta; los requisitos generales y específicos para el ingreso y promoción de dichos cargos; sus denominaciones y los niveles jerárquicos, para efectos de la aplicación de lo dispuesto en el artículo 8º de la ley Nº18.834, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº29, de 2004, del Ministerio de Hacienda. Además, podrá establecer las normas para el encasillamiento en las plantas que fije.
+1) Fijar las plantas de personal; determinar los grados y niveles de la Escala Única de Sueldos que se asignen a dichas plantas; el número de cargos para cada grado y planta; los requisitos generales y específicos para el ingreso y promoción de dichos cargos; sus denominaciones y los niveles jerárquicos, para efectos de la aplicación de lo dispuesto en el artículo 8º de la ley Nº18.834, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº29, de 2004, del Ministerio de Hacienda. Además, podrá establecer las normas para el encasillamiento en las plantas que fije.
 
 2) Fijar la estructura orgánica de la Defensoría, establecer las unidades funcionales internas, determinar las funciones y responsabilidades de los funcionarios y otras normas necesarias para el adecuado funcionamiento de la Defensoría;
 
