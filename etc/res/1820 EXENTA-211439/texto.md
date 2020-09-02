@@ -34,9 +34,13 @@ Los Condominios de Viviendas Sociales podrán postular al Programa de Pavimentac
 
 De acuerdo a lo dispuesto en el Art. 8º de la ley Nº20.234, se podrá postular a este Programa para la pavimentación de calles, pasajes y/o aceras pertenecientes a loteos acogidos al procedimiento de regularización normado en el artículo 4º de la misma ley, que hayan obtenido certificado de recepción provisoria, o pertenecientes a loteos declarados en situación irregular en conformidad con la ley Nº16.741 que de acuerdo al artículo 5º de la ley Nº20.234 cuenten con urbanización suficiente y hayan obtenido certificado de recepción definitiva, parcial o total. En ambos casos, los certificados deben ser extendidos por el respectivo Director de Obras Municipales.
 
+Los proyectos de pavimentación que pertenezcan al Programa de Asentamientos Precarios y se acojan a este procedimiento para postular al Programa de Pavimentación Participativa, deberán corresponder a la estrategia de intervención "Radicación a partir de un proyecto de urbanización y consolidación barrial", lo que deberá ser debidamente acreditado.
+
 Los proyectos que tengan por objeto sólo la pavimentación o repavimentación de aceras, podrán postular únicamente en el caso en que dichas aceras pertenezcan a calles que se encuentren con sus calzadas pavimentadas.
 
 Se eximen de la aplicación de esta condición las comunas insulares de Isla de Pascua y archipiélago de Juan Fernández, pertenecientes a la V Región, atendida su situación de aislamiento.
+
+Los Condominios de Viviendas Económicas podrán postular al Programa de Pavimentación Participativa para la pavimentación o repavimentación de sus calles, pasajes y/o aceras interiores. Esta postulación deberá cumplir con los mismos requisitos exigidos a los Comités de Pavimentación. Para estos efectos, se considerarán "Viviendas Económicas" las que cumplan con los requisitos señalados en el Artículo 6.1.2. de la Ordenanza General de Urbanismo y Construcciones y en el Artículo 1° del DFL N° 2, de 1959, del Ministerio de Hacienda, sobre Plan Habitacional.
 
 2º.- Los interesados en participar en los procesos de selección que efectúen las Secretarías Regionales Ministeriales de Vivienda y Urbanismo, deberán concurrir a inscribirse a través de grupos organizados, denominados Comités de Pavimentación, que tengan representante legal o mandatario que los represente con facultades suficientes, que actuarán en nombre y representación de cada integrante que postula por su intermedio.
 
@@ -112,7 +116,7 @@ de la Municipalidad.
 
 Estarán exentos de efectuar el aporte financiero que requiere el presente Programa, los "Comités de Pavimentación muy Vulnerables", calificados como tales por la respectiva municipalidad. La calificación de "Comité de Pavimentación muy Vulnerable" procederá respecto de aquellos Comités en que a lo menos el 50% de las familias que lo integran se encuentren calificadas en el "Tramo 1" del Registro Social de Hogares. Para estos efectos, la municipalidad deberá adjuntar a la postulación el informe social que respalde y fundamente la calificación de "Comité de Pavimentación muy Vulnerable" firmado por el Alcalde respectivo, junto con la nómina de las familias que lo integran, indicando el Tramo en que cada una califica en el Registro Social de Hogares.
 
-Igualmente estarán exentos de realizar el aporte financiero que requiere este Programa, los Comités de Pavimentación que pertenezcan a cualquiera de los Barrios priorizados en el Programa Recuperación de Barrios, por el Programa Pequeñas Localidades, por el Programa de Protección del Patrimonio Familiar o por el Programa de Mejoramiento de Viviendas y Barrios y la respectiva Municipalidad en relación a dichos proyectos.
+Igualmente estarán exentos de realizar el aporte financiero que requiere este Programa, los Comités de Pavimentación que pertenezcan a cualquiera de los Barrios priorizados en el Programa Recuperación de Barrios, por el Programa Pequeñas Localidades, por el Programa de Protección del Patrimonio Familiar, por el Programa de Mejoramiento de Viviendas y Barrios, por el Programa de Espacios Públicos o por el Programa de Asentamientos Precarios y la respectiva Municipalidad en relación a dichos proyectos.
 
 e) Indicación del monto total del aporte que efectuará el Municipio, que no podrá ser inferior al señalado a continuación: Región
 
@@ -295,62 +299,6 @@ RÍO CLARO 6 CAUQUENES 0
 SAN CLEMENTE 8 PELLUHUE 6
 
 MAULE 7 CHANCO 5
-
-REGIÓN VIII DEL BÍO BÍO
-
-CHILLÁN 7 TOMÉ 0
-
-CHILLÁN VIEJO 5 FLORIDA 5
-
-SAN CARLOS 6 HUALQUIL 7
-
-ÑIQUÉN 5 CORONEL 5
-
-SAN FABIÁN 0 LOTA 0
-
-COIHUECO 0 SANTA JUANA 5
-
-PINTO 0 LEBU 0
-
-SAN IGNACIO 0 ARAUCO 7
-
-EL CARMEN 0 CURANILAHUE 0
-
-PEMUCO 0 LOS ALAMOS 0
-
-YUNGAY 6 CAÑETE 6
-
-BULNES 5 CONTULMO 0
-
-QUILLÓN 5 TIRÚA 0
-
-RANQUIL 5 LOS ANGELES 7
-
-PORTEZUELO 0 CABRERO 7
-
-COELEMU 7 TUCAPEL 5
-
-TREHUACO 5 ANTUCO 5
-
-COBQUECURA 5 QUILLECO 0
-
-QUIRIHUE 0 SANTA BÁRBARA 6
-
-NINHUE 0 QUILLACO 0
-
-SAN NICOLÁS 0 MULCHÉN 0
-
-CONCEPCIÓN 7 NEGRETE 0
-
-SAN PEDRO DE LA PAZ 7 NACIMIENTO 0
-
-CHIGUAYANTE 6 LAJA 7
-
-TALCAHUANO 8 SAN ROSENDO 5
-
-PENCO 6 YUMBEL 8
-
-HUALPÉN 5 ALTO BÍO-BÍO 0
 
 REGIÓN IX DE LA ARAUCANÍA
 
@@ -754,7 +702,7 @@ Si la postulación a repavimentación es de aceras exclusivamente, deberá cumpl
 
 De acuerdo a lo anterior, podrán postular a repavimentación calzadas o aceras continuas, en donde se cumplan las condiciones señaladas en tramos independientes de 100 metros de largo o entre cruces de vías.
 
-Cuando el proyecto de pavimentación se localice en algunos de los sectores del Programa Recuperación de Barrios, del Programa Pequeñas Localidades, del Programa de Protección del Patrimonio Familiar, o del Programa de Mejoramiento de Viviendas y Barrios, el puntaje final obtenido conforme al presente literal, será ponderado por 1.2.
+Cuando el proyecto de pavimentación se localice en algunos de los sectores del Programa Recuperación de Barrios, del Programa Pequeñas Localidades, del Programa de Protección del Patrimonio Familiar, del Programa de Mejoramiento de Viviendas y Barrios, del Programa de Espacios Públicos o del Programa de Asentamientos Precarios, el puntaje final obtenido conforme al presente literal, será ponderado por 1.2.
 
 h) Vulnerabilidad del Comité: Obtendrá 30 puntos el "Comité de Pavimentación muy Vulnerable", según lo dispuesto en el inciso tercero de la letra d) del número 3º de la presente Resolución. Los restantes Comités que no cumplan con esta condición tendrán cero puntos por este factor.
 
@@ -913,6 +861,16 @@ transitorio: Durante el año 2019 la recepción de postulaciones municipales en 
 #### Artículo 18°
 
 transitorio: Durante el año 2019 la recepción de postulaciones municipales en la Secretaría Regional Ministerial de Vivienda y Urbanismo para participar en el 29° Proceso de Selección de Proyectos tendrá como fecha de cierre el día viernes 15 de noviembre de la presente anualidad.
+
+#### Artículo 19°
+
+transitorio: Durante el año 2020 la recepción de postulaciones municipales en el Servicio de Vivienda y Urbanización y en la Secretaría Regional Ministerial de Vivienda y Urbanismo para participar en el 30° Proceso de Selección de Proyectos respectivamente tendrán como fecha de cierre el día lunes 30 de noviembre y el día miércoles 30 de diciembre de la presente anualidad.
+
+#### Artículo 20°
+
+transitorio: En la gestión de postulaciones al 30° llamado y en vista de la necesaria documentación de respaldo que requiere la participación de los vecinos integrantes de los Comités de Pavimentación, con gestiones presenciales, firmas, reuniones, tales como: constituir el Comité de Pavimentación; gestión de los proyectos de pavimentación; actividades para reunir el ahorro requerido; firma de Certificados y de Actas; y teniendo en consideración las restricciones existentes de reunión y de desplazamientos, y la necesidad de evitar o minimizar la exposición de los vecinos al Virus Covid-19 y su propagación, producto de la pandemia que afecta al país, estas gestiones y actividades podrán ser realizadas y firmadas por el representante legal del Comité de Pavimentación o de la Organización Vecinal con personalidad jurídica mandatada para estos efectos.
+
+Asimismo, y mientras, dure la pandemia y las restricciones asociadas, las actividades de participación ciudadana contempladas realizar durante la ejecución de las obras de pavimentación correspondientes a los proyectos seleccionados, como reuniones de inicio y término de las obras, reuniones de información y coordinación durante su ejecución, responder encuesta de satisfacción, podrán ser asumidas por el representante legal del Comité de Pavimentación o de la Organización Vecinal, con personalidad jurídica mandatada para estos efectos, o por la directiva del Comité de Pavimentación.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
