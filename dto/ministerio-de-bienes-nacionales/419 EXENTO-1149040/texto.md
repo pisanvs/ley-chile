@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA DE INMUEBLE FISCAL EN LA REGIÓN DE COQUIMBO, A "LA SERENA OCHO SpA"
+
+Mediante decreto exento Nº E-419 de 25 de agosto de 2020, el Ministerio de Bienes Nacionales otorgó en concesión onerosa directa, a "La Serena Ocho SpA", RUT Nº 76.866.061-1, el inmueble fiscal compuesto por los Lotes ETP-2-C-1, ETP-2-C-2, ETP-2-C-3, ETP-2-C-4, ETP-2-C-5 y ETP-2-C-6, ubicados en Estancia Torres y Páez, aproximadamente a 92 Km. al noreste de la ciudad de La Serena, cuyo acceso se realiza a través de la Ruta 5, desde la ciudad de La Serena en dirección norte, accediendo a la Ruta C-541 hasta el punto de acceso, en la comuna de La Higuera, provincia de Elqui, Región de Coquimbo; enrolado en el Servicio de Impuestos Internos con los pre roles Nº 80-10, Nº 80-11, Nº 80-12, Nº 80-13, Nº 80-14, Nº 80-15, respectivamente; amparados por la inscripción global a nombre del Fisco que rola a Fojas 6 Nº 6 del Registro de Propiedad del Conservador de Bienes Raíces de La Serena, correspondiente al año 1969; de una superficie total de 183,91 hectáreas; singularizados en el Plano Nº 04104-12.710-C.R. La concesión se otorga por un plazo de 35 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta concesional anual será de U.F. 3.991.
+
+La concesión se otorga para a fin de ejecutar en el inmueble concesionado un proyecto de Energía Renovable No Convencional (ERNC). El contrato de concesión deberá suscribirse dentro del plazo de 30 días hábiles, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
