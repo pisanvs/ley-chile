@@ -776,8 +776,6 @@ a) Calicatas:
 
 . En el caso de edificios de más de 5 niveles, se debe aplicar las indicaciones de carácter constructivo establecidas en el DS 60 Minvu. En caso de 5 o menos niveles, se debe aplicar los siguientes detalles:
 
-.
-
 2.6. MUROS Y ELEMENTOS ESTRUCTURALES CON ENTRAMADOS VERTICALES DE MADERA O ACERO
 
 2.6.1. Madera
@@ -1528,7 +1526,7 @@ d. Para la cocina se deja el arranque equipado con su correspondiente válvula d
 
 4.6. RED INTERNA DE TELECOMUNICACIONES (RIT)
 
-. Todo proyecto de edificación de vivienda deberá considerar las instalaciones mínimas necesarias para cobijar las redes de telecomunicaciones de la forma que se especifica en reglamento Subtel respectivo.
+Se ejecutarán cuando corresponda, de acuerdo a lo establecido en la Ley General de Telecomunicaciones y en el reglamento respectivo, aprobado mediante decreto N° 167, de 2016, del Ministerio de Transportes y Telecomunicaciones o el que lo reemplace.
 
 ### 5. OBRAS EXTERIORES
 
