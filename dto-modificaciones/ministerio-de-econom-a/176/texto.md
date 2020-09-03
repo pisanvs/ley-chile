@@ -12,6 +12,8 @@ Prohíbese a contar del año 1984, la extracción, tenencia, posesión, industri
 
 Esta prohibición no regirá en la XII Región.
 
+Para la Región de Los Ríos, el período de veda biológica será desde el día 1 de septiembre hasta el día 31 de octubre de cada año, ambas fechas inclusive.
+
 #### Artículo 2º
 
 Para efectuar el transporte y comercialización de choritos provenientes de la XII Región al resto del país, durante el período de veda estacional establecido en el artículo precedente, se requerirá para efectos de control. acreditar su procedencia, mediante facturas, guías de despacho o guías de libre tránsito, visadas por el Servicio Nacional de Pesca.
