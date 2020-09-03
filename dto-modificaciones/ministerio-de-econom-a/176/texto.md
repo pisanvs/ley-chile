@@ -14,6 +14,8 @@ Prohíbese a contar del año 1984, la extracción, tenencia, posesión, industri
 
 Esta prohibición no regirá en la XII Región.
 
+Para la Región de Los Ríos, el período de veda biológica será desde el día 1 de septiembre hasta el día 31 de octubre de cada año, ambas fechas inclusive.
+
 #### Artículo 2º
 
 <!-- parte:7331822 -->
