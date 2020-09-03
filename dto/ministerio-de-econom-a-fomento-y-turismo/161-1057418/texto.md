@@ -16,15 +16,15 @@ Decreto:
 
 Créase a partir del año 2014, el Premio Nacional de innovación, en adelante "el Premio", el cual tendrá por objetivo conceder un reconocimiento público a aquellas personas que se hubieren destacado por su excelencia, creatividad y aporte en el ámbito de la innovación.
 
-#### Artículo 2º
+#### Artículo 2°
 
-El premio será gestionado por el Ministerio de Economía, Fomento y Turismo, en adelante "el Ministerio", quien determinará, cada año la integración del jurado y sus respectivas categorías, mediante resolución del Ministro de Economía, Fomento y Turismo, quien además presidirá el jurado.
+El premio será gestionado por el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, en adelante 'el Ministerio', quien determinará, cada año la integración del jurado y sus respectivas categorías, mediante resolución del Ministro de Ciencia, Tecnología, Conocimiento e Innovación, quien lo presidirá. En todo caso, el jurado estará siempre integrado, entre otros, por el Ministro de Economía, Fomento y Turismo o quien éste designe en su representación.
 
-El premio será otorgado en el mes de noviembre de cada año.
+El premio será otorgado una vez por año, en la fecha que se determine en el acto administrativo que corresponda.
 
-#### Artículo 3º
+#### Artículo 3°
 
-El Ministerio podrá mandatar, previo concurso público, la gestión y/u organización de la premiación a un organismo público o privado sin fines de lucro, el que será designado por el Ministro de Economía, Fomento y Turismo, mediante resolución fundada.
+El Ministerio podrá mandatar, previo concurso público, la gestión y/u organización de la premiación a un organismo público o privado sin fines de lucro, el que será designado por el Ministro de Ciencia, Tecnología, Conocimiento e Innovación mediante resolución fundada.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Félix de Vicente Mingo, Ministro de Economía, Fomento y Turismo.
 
