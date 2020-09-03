@@ -84,7 +84,7 @@ La Modalidad Especial, a su vez, contemplará dos variantes de operación:
 
 (ii) Modalidad Especial Indígena: focalizada en las comunidades, cooperativas, o empresas con componente mayoritariamente indígena.
 
-Los Intermediarios que operen en la Modalidad Especial no podrán participar de la Modalidad General.
+Los Intermediarios que operen en la Modalidad Especial no podrán participar de la Modalidad General. Sin perjuicio de lo anterior, los Intermediarios Financieros a los cuales el Comité Ejecutivo de Créditos de Corfo haya aprobado solicitudes de préstamos durante el año 2020, en cualquiera de las modalidades de refinanciamiento establecidas en el numeral 7 del Reglamento del Programa, podrán cursar operaciones a los/as beneficiarios/as finales, bajo las condiciones transitorias establecidas en los literales a) y e) precedentes, hasta el 31 de diciembre de 2021.
 
 ### 6. REQUISITOS DE ELEGIBILIDAD DE LOS INTERMEDIARIOS
 
