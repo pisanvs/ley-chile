@@ -36,6 +36,10 @@ Fíjase para el año 2020 el calendario nacional de examinación para las person
 
 .
 
+### IV. PROGRAMAS DE ALFABETIZACIÓN
+
+.
+
 Podrán eximirse de los períodos de aplicación establecidos en este calendario, las regiones cuya condición y/o contexto geográfico ameriten su aplicación en otras fechas, situación que deberá ser informada oportunamente a la Coordinación Nacional de Educación de Personas Jóvenes y Adultas de la División de Educación General, para su análisis y revisión de los procesos internos en cuanto a su factibilidad, emitiendo un oficio firmado por el Jefe de la División de Educación General que lo formalice y posteriormente ser refrendada mediante el acto administrativo de la respectiva Secretaría Regional Ministerial de Educación.
 
 Anótese y publíquese.- Raúl Figueroa Salas, Subsecretario de Educación.
