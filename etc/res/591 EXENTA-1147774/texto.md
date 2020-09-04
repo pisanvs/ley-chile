@@ -62,7 +62,7 @@ Asimismo, en las aduanas sanitarias se verificará el cumplimiento de las medida
 
 ### II. Aislamientos en razón a horarios determinados
 
-4. Prohíbase a los habitantes de la República salir a la vía pública, como medida de aislamiento, entre las 23:00 y 05:00 horas, salvo aquellas personas que cuenten con salvoconductos individuales o permisos que lo autoricen en virtud del Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 19.563, del 13 de agosto de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Esta medida será ejecutada de acuerdo a las instrucciones que impartan al efecto los Jefes de la Defensa Nacional de las distintas regiones.
+4. Prohíbase a los habitantes de la República salir a la vía pública, como medida de aislamiento, entre las 23:00 y 05:00 horas, salvo aquellas personas que cuenten con salvoconductos individuales o permisos que lo autoricen en virtud del Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 23.853, del 31 de agosto de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Esta medida será ejecutada de acuerdo a las instrucciones que impartan al efecto los Jefes de la Defensa Nacional de las distintas regiones.
 
 Déjase constancia que la medida de este numeral comenzó a regir desde las 22:00 horas del día 22 de marzo de 2020 y será aplicada por un plazo indefinido, hasta que las condiciones epidemiológicas permitan su suspensión.
 
@@ -70,17 +70,7 @@ Asimismo, se prohíbe la realización o participación en eventos y actividades 
 
 ### III. Aislamientos o cuarentenas a poblaciones determinadas
 
-5. Dispóngase que todas las personas mayores de 75 años deben permanecer en cuarentena, es decir, en sus domicilios habituales.
-
-Sin perjuicio de lo dispuesto precedentemente, autorízase a las personas mayores de 75 años a salir de sus domicilios, por un máximo de una hora al día, conforme se señala a continuación:
-
-a. Aquellas personas mayores de 75 años que residan en una localidad que se encuentre en el Paso 1-Cuarentena o en el Paso 2-Transición, conforme a lo señalado en el Capítulo II de esta resolución, podrán salir de sus domicilios hasta una distancia de 200 metros a la redonda, solo los días lunes, jueves y sábado entre las 10:00 y las 12:00 horas, o entre las 15:00 y las 17:00 horas.
-
-b. Aquellas personas mayores de 75 años que residan en una localidad que, conforme al Capítulo II de la presente resolución, no se encuentren en los pasos señalados en el literal a precedente, podrán salir de sus domicilios durante, cualquier día de la semana, entre las 10:00 y las 12:00 horas o entre las 15:00 y las 17:00 horas.
-
-Las personas mayores de 75 años que hagan uso de la autorización señalada deberán cumplir con todas las medidas sanitarias vigentes, no ingresar ni circular por lugares cerrados y deberán portar su carnet de identidad. Podrán ser acompañados por una persona, quien deberá cumplir con las mismas medidas señaladas.
-
-La autorización referida en este numeral comenzará a regir a las 05:00 horas del día 25 de julio de 2020, y tendrá carácter indefinido, hasta que las condiciones epidemiológicas permitan su suspensión.
+### 5. Eliminado
 
 6. Dispóngase la cuarentena de todos los residentes de Establecimientos de Larga Estadía de Adultos Mayores.
 
@@ -121,6 +111,14 @@ Esta medida tendrá el carácter de indefinida, hasta que las condiciones epidem
 11. Dispóngase que las personas que ingresen al país, sin importar el país de origen, deben cumplir con la medida de cuarentena por 14 días. Esta medida tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
 
 La circunstancia de contar con un resultado negativo en un test de PCR para SARS-CoV-2 no eximirá a la persona del cumplimiento total de la cuarentena dispuesta en este numeral.
+
+La Secretaría Regional Ministerial de Salud de la región por donde se efectúe el ingreso al país, podrá excepcionar de lo dispuesto en los dos párrafos precedentes a la persona que así lo solicite, siempre que adjunte lo siguiente:
+
+a) Una declaración jurada indicando el motivo de su ingreso y las razones por las cuales dicho ingreso es impostergable e incompatible con el cumplimiento de una cuarentena de 14 días; y,
+
+b) El resultado negativo de un test PCR para SARS-Cov-2. La toma de este examen deberá realizarse en territorio nacional y será de responsabilidad de quien quiera hacer uso de esta excepción;
+
+Durante la tramitación de la autorización sanitaria de la que trata el párrafo anterior, el solicitante deberá permanecer en cuarentena o aislamiento.
 
 12. Dispóngase que las personas que sean caracterizadas como caso probable deberán permanecer en aislamiento por 14 días desde la fecha de inicio de los síntomas.
 
@@ -316,6 +314,8 @@ Al precio señalado anteriormente se le aplicará la bonificación que correspon
 
 52. Fíjase el precio máximo a pagar por el arriendo de monitor de paciente por día en $20.125 (IVA incluido), según lo dispuesto en la resolución Nº 418, de 2020, de la Subsecretaría de Salud Pública.
 
+52 bis. Fíjase el precio máximo a pagar por el arriendo de cascos CPAP y de cánulas nasales de alto flujo según lo dispuesto en la resolución exenta Nº 505, de 2020, de la Subsecretaría de Redes Asistenciales, del Ministerio de Salud.
+
 ### XII. Disposiciones generales
 
 53. Reitérase la disposición de traslado a lugares especialmente habilitados para el cumplimiento de medidas de aislamiento o cuarentena a:
@@ -344,19 +344,19 @@ Los 5 pasos de los que trata el párrafo anterior son los siguientes:
 
 ### 5. Paso 5: Apertura avanzada
 
-55. Para el desplazamiento de personas desde y hacia localidades que se encuentren en cuarentena, se estará a lo dispuesto en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 19.563, del 13 de agosto de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Lo mismo regirá para el desplazamiento de personas desde y hacia localidades que se encuentren en Transición, los días sábado, domingo y festivos.
+55. Para el desplazamiento de personas desde y hacia localidades que se encuentren en cuarentena, se estará a lo dispuesto en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 23.853, del 31 de agosto de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Lo mismo regirá para el desplazamiento de personas desde y hacia localidades que se encuentren en Transición, los días sábado, domingo y festivos.
 
 ### II. Paso 1: Cuarentena
 
 56. A las localidades que estén en cuarentena se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, además de las cuarentenas determinadas por la autoridad sanitaria a dicha localidad.
 
-57. Exceptúase de la obligación de cumplir cuarentena establecida en una determinada localidad, a las personas que se encuentren en las circunstancias que se señalan en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 19.563, del 13 de agosto de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+57. Exceptúase de la obligación de cumplir cuarentena establecida en una determinada localidad, a las personas que se encuentren en las circunstancias que se señalan en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 23.853, del 31 de agosto de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
 Dicho instructivo contempla, además, las formas y condiciones para la obtención de los permisos de desplazamiento por parte de las personas exceptuadas del cumplimiento de la medida de aislamiento o cuarentena.
 
 57 bis. En los centros dependientes del Servicio Nacional de Menores, tanto de administración directa como de organismos colaboradores, se observará la siguiente regla:
 
-a. Se permitirá a los niños, niñas y adolescentes hacer uso del permiso especial dispuesto en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 19.563, del 13 de agosto de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+a. Se permitirá a los niños, niñas y adolescentes hacer uso del permiso especial dispuesto en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 23.853, del 31 de agosto de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
 ### III. Paso 2: Transición
 
@@ -364,9 +364,7 @@ a. Se permitirá a los niños, niñas y adolescentes hacer uso del permiso espec
 
 59. A las localidades que estén en Transición se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, con las modificaciones que se especifican en los numerales siguientes, que sólo tendrán efecto los días lunes a viernes exceptuando festivos.
 
-60. Se permitirá la realización o participación en eventos y actividades sociales y recreativas con un máximo de 5 personas en lugares cerrados y 10 personas en lugares abiertos, debiendo cumplirse con lo establecido en los acápites V y VI del Capítulo I de la presente resolución.
-
-En el caso de los domicilios particulares, no se contabilizará al grupo familiar que vive en la misma residencia, pudiendo acudir simultáneamente 5 personas adicionales a este.
+60. Se permitirá la realización o participación en eventos y actividades sociales y recreativas con un máximo de 10 personas en lugares cerrados y 20 personas en lugares abiertos, debiendo en todo momento cumplirse con lo establecido en los acápites V y VI del Capítulo I de la presente resolución.
 
 61. Se autorizan las actividades deportivas en lugares públicos y privados. Para aquellas actividades que sean de naturaleza colectiva, podrán concentrarse un máximo de 10 personas. Estas actividades solo podrán realizarse en lugares abiertos.
 
@@ -384,7 +382,7 @@ b. Se permiten visitas de vínculos significativos de los niños, niñas y adole
 
 62. Las localidades que estén en Preparación, no estarán sujetas a cuarentenas. A dichas localidades se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, con las modificaciones que se señalan en los numerales siguientes.
 
-63. Se permitirá la realización o participación en eventos y actividades sociales y recreativas con un máximo de 50 personas, debiendo cumplirse con lo establecido en los acápites V y VI del Capítulo I de la presente resolución.
+63. Se permitirá la realización o participación en eventos y actividades sociales y recreativas con un máximo de 25 personas en lugares cerrados y 50 personas en lugares abiertos, debiendo en todo momento cumplirse con lo establecido en los acápites V y VI del Capítulo I de la presente resolución.
 
 64. Se autorizan las actividades deportivas en lugares públicos y privados. Para aquellas actividades que sean de naturaleza colectiva, podrán concentrarse un máximo de 5 personas en lugares cerrados y 25 personas en lugares abiertos.
 
@@ -400,11 +398,13 @@ b. Se permiten visitas de vínculos significativos de los niños, niñas y adole
 
 c. Se permiten salidas con fines laborales a adolescentes de residencias que se encuentren en proceso de preparación para la vida independiente y a adolescentes que se encuentren en centros privativos de libertad que estén realizando labores en virtud de sus programas de intervención.
 
+64 ter. Se permite la atención de público en restaurantes, cafés y análogos, solo en lugares abiertos, hasta el 25% de su capacidad o guardando una distancia mínima de dos metros lineales entre mesas. Para efectos de este numeral, se entenderá como lugar abierto aquel que no tiene techo, o aquel que, teniendo techo, cuenta con más del 50 % de su perímetro sin muros.
+
 ### V. Paso 4: Apertura Inicial
 
 65. Las localidades que estén en Apertura Inicial, no estarán sujetas a cuarentenas. A dichas localidades se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, con las modificaciones que se señalan en los numerales siguientes.
 
-66. Se permitirá la realización o participación en eventos y actividades sociales y recreativas con un máximo de 50 personas, debiendo cumplirse con lo establecido en los acápites V y VI del Capítulo I de la presente resolución.
+66. Se permitirá la realización o participación en eventos y actividades sociales y recreativas con un máximo de 50 personas en lugares cerrados y 100 personas en lugares abiertos, debiendo en todo momento cumplirse con lo establecido en los acápites V y VI del Capítulo I de la presente resolución.
 
 67. Se autorizan las actividades deportivas en lugares públicos y privados. Para aquellas actividades que sean de naturaleza colectiva, podrán concentrarse un máximo de 10 personas en lugares cerrados y 50 personas en lugares abiertos.
 
@@ -414,7 +414,7 @@ Asimismo, podrán realizar actividades deportivas aquellas personas que cuentan 
 
 68. Se permite el funcionamiento de cines, teatros y análogos, hasta el 25% de su aforo máximo, sin venta ni consumo de bebidas y alimentos.
 
-69. Se permite la atención de público en restaurantes, cafés y análogos, hasta el 25% de su capacidad o guardando una distancia mínima de dos metros lineales entre mesas.
+69. Se permite la atención de público en restaurantes, cafés y análogos, hasta el 50% de su capacidad o guardando una distancia mínima de dos metros lineales entre mesas.
 
 69 bis. Se permite el funcionamiento de los establecimientos de educación parvularia, básica y media, previa autorización de reanudación de clases presenciales de la Secretaría Regional Ministerial de Educación correspondiente, debiendo cumplirse con la normativa, instrucciones y protocolos emitidos por el Ministerio de Salud, con el objeto de asegurar las condiciones sanitarias de los establecimientos educacionales.
 
@@ -432,9 +432,9 @@ d. Se permiten, a los niños, niñas y adolescentes, salir con fines educacional
 
 70. Las localidades que estén en Apertura Avanzada, no estarán sujetas a cuarentenas. A dichas localidades se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, con las siguientes modificaciones:
 
-a. Se levanta la cuarentena para adultos sobre 75 años.
+a. Eliminado.
 
-b. Se permitirá la realización o participación en eventos y actividades sociales y recreativas con un máximo de 150 personas, debiendo cumplirse con lo establecido en los acápites V y VI del Capítulo I de la presente resolución.
+b. Se permitirá la realización o participación en eventos y actividades sociales y recreativas con un máximo de 100 personas en lugares cerrados y 200 personas en lugares abiertos, debiendo en todo momento cumplirse con lo establecido en los acápites V y VI del Capítulo I de la presente resolución.
 
 c. No hay restricción a la actividad deportiva. Permite público con un máximo de 50% de su capacidad.
 
@@ -442,13 +442,13 @@ d. Se levantan las restricciones en los centros dependientes del Servicio Nacion
 
 e. Se levanta cuarentena y prohibición de visitas para los Establecimientos de Larga Estadía de Adultos Mayores, establecida en el numeral 6 de la presente resolución.
 
-f. Se permite el funcionamiento de cines, teatros y análogos, hasta el 75% de su aforo máximo, permitiéndose la venta y consumo de bebidas y alimentos.
+f. Se permite el funcionamiento de cines, teatros y análogos, hasta el 75% de su aforo máximo, permitiéndose la venta y consumo de bebidas y alimentos. En ningún caso podrá excederse el aforo dispuesto en el literal b de este numeral.
 
-g. Se permite la atención de público en restaurantes, cafés y análogos, hasta un máximo de un 75% de su aforo máximo.
+g. Se permite la atención de público en restaurantes, cafés y análogos, hasta un máximo de un 75% de su aforo máximo. En ningún caso podrá excederse el aforo dispuesto en el literal b de este numeral.
 
-h. Se permite funcionamiento de pubs, discotecas y análogos con un máximo de 50% de su capacidad.
+h. Se permite funcionamiento de pubs, discotecas y análogos con un máximo de 50% de su capacidad. En ningún caso podrá excederse el aforo dispuesto en el literal b de este numeral.
 
-i. Se permite funcionamiento de gimnasios abiertos al público con un máximo de un 50% de su capacidad.
+i. Se permite funcionamiento de gimnasios abiertos al público con un máximo de un 50% de su capacidad. En ningún caso podrá excederse el aforo dispuesto en el literal b de este numeral.
 
 j. Se permite el traslado a la segunda vivienda, solo cuando ésta se encuentre, también, en una localidad que esté en Apertura Avanzada.
 
