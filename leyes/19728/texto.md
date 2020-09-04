@@ -134,7 +134,7 @@ la Cuenta Individual por Cesantía
 
 Los afiliados tendrán derecho a una prestación por cesantía, en los términos previstos en este párrafo, siempre que reúnan los siguientes requisitos:
 
-a) Que el contrato de trabajo haya terminado por alguna de las causales señaladas en los artículos 159, 160 y 161, o por aplicación del inciso primero del artículo 171, todos del Código del Trabajo.
+a) Que el contrato de trabajo haya terminado por alguna de las causales señaladas en los artículos 159, 160, 161 y 163 bis, o por aplicación del inciso primero del artículo 171, todos del Código del Trabajo.
 
 b) Que el trabajador con contrato indefinido registre en la Cuenta Individual por Cesantía un mínimo de 12 cotizaciones mensuales continuas o discontinuas, desde su afiliación al Seguro o desde la fecha en que se devengó el último giro a que hubieren tenido derecho conforme a esta ley.
 
@@ -164,25 +164,25 @@ El monto de la prestación por cesantía durante los meses que se indican en la 
 
 Meses Porcentaje promedio remuneración
 
-últimos 6 o 12 meses de cotizaciones
+últimos 6 o 12 meses de cotizaciones,
 
 según corresponda
 
-Primero 50%
+Primero 70%
 
-Segundo 45%
+Segundo 55%
 
-Tercero 40%
+Tercero 45%
 
-Cuarto 35%
+Cuarto 40%
 
-Quinto 30%
+Quinto 35%
 
-Sexto 25%
+Sexto 30%
 
 Séptimo o
 
-Superior 20%
+Superior 30%
 
 El último mes de prestación a que tenga derecho el trabajador podrá ser inferior al porcentaje indicado en la tabla precedente y corresponderá al saldo pendiente de la Cuenta Individual por Cesantía. En todo caso, si el último giro a que tiene derecho el trabajador, de acuerdo a la tabla del inciso segundo, es igual o inferior al 20% del monto del giro anterior, ambos giros se pagarán conjuntamente.
 
@@ -258,13 +258,13 @@ Tendrán derecho a recibir prestaciones del Fondo de Cesantía Solidario los tra
 
 a) Registrar 12 cotizaciones mensuales en el Fondo de Cesantía Solidario desde su afiliación al Seguro o desde que se devengó el último giro a que hubieren tenido derecho conforme a esta ley, en los últimos 24 meses anteriores contados al mes del término del contrato. Sin embargo, las tres últimas cotizaciones realizadas deben ser continuas y con el mismo empleador.
 
-b) Que el contrato de trabajo termine por alguna de las causales previstas en los números 4, 5 y 6 del artículo 159 o del artículo 161, ambos del Código del Trabajo;
+b) Que el contrato de trabajo termine por alguna de las causales previstas en los números 4, 5 y 6 del artículo 159 o de los artículos 161 y 163 bis, todos del Código del Trabajo;
 
 c) Que los recursos de su cuenta individual por cesantía sean insuficientes para obtener una prestación por cesantía por los períodos, porcentajes y montos señalados en el artículo siguiente, y
 
 d) Encontrarse cesante al momento de la solicitud.
 
-Con todo, un trabajador no podrá recibir prestaciones, con cargo al Fondo de Cesantía Solidario, más de dos veces en un período de 5 años.
+Sin perjuicio de lo establecido en el artículo siguiente, un trabajador no podrá recibir más de diez pagos de prestaciones financiadas parcial o totalmente con cargo al Fondo de Cesantía Solidario, en un período de cinco años.
 
 El derecho a percibir la prestación cesará por el solo ministerio de la ley, una vez obtenido un nuevo empleo por el beneficiario.
 
@@ -272,9 +272,9 @@ El derecho a percibir la prestación cesará por el solo ministerio de la ley, u
 
 El monto de la prestación por cesantía durante los meses que se indican en la primera columna, corresponderá al porcentaje del promedio de las remuneraciones devengadas por el trabajador en los doce meses anteriores al del término de la relación laboral, que se indica en la segunda columna. El beneficio estará afecto a los valores superiores e inferiores para cada mes, a que aluden las columnas tercera y cuarta, respectivamente:
 
-Meses Porcentaje Valor Superior Valor Inferior
+Meses Porcentaje Valor Valor
 
-promedio
+promedio Superior Inferior
 
 remuneración
 
@@ -282,17 +282,33 @@ remuneración
 
 meses
 
-Primero 50% $190.000 $88.000
+Primero 70% $525.000 $157.500
 
-Segundo 45% $171.000 $73.000
+Segundo 55% $412.500 $123.750
 
-Tercero 40% $152.000 $64.000
+Tercero 45% $337.500 $101.250
 
-Cuarto 35% $133.000 $56.000
+Cuarto 40% $300.000 $ 90.000
 
-Quinto 30% $114.000 $48.000
+Quinto 35% $262.500 $ 78.750
 
-En el caso de los trabajadores contratados a plazo fijo, o para una obra, trabajo o servicio determinado, la prestación por cesantía a que se refiere este artículo se extenderá hasta el segundo mes, con los porcentajes y valores superiores e inferiores señalados para los meses cuarto y quinto en la tabla establecida en el inciso anterior.
+En el caso de los trabajadores contratados a plazo fijo, o para una obra, trabajo o servicio determinado, la prestación por cesantía a que se refiere este artículo se extenderá hasta el tercer mes, con los porcentajes y valores superiores e inferiores señalados en la tabla siguiente:
+
+Meses Porcentaje Valor Valor
+
+promedio Superior Inferior
+
+remuneración
+
+últimos 12
+
+meses
+
+Primero 50% $375.000 $112.500
+
+Segundo 40% $300.000 $ 90.000
+
+Tercero 35% $262.500 $ 78.750
 
 Aquellos beneficiarios que estén percibiendo el quinto giro con cargo al Fondo de Cesantía Solidario tendrán derecho a un sexto y séptimo giro de prestación, cada vez que la tasa nacional de desempleo publicada por el Instituto Nacional de Estadísticas exceda en 1 punto porcentual el promedio de dicha tasa, correspondiente a los cuatro años anteriores publicados por ese Instituto, que se pagará de acuerdo a la siguiente tabla:
 
@@ -306,13 +322,15 @@ REMUNERACIÓN
 
 MESES
 
-SEXTO 25% $95.000.- $40.000.-
+SEXTO 30% $225.000 $67.500
 
-SÉPTIMO 25% $95.000.- $40.000.-
+SÉPTIMO 30% $225.000 $67.500
 
-En el caso de los trabajadores contratados a plazo fijo, o para una obra, trabajo o servicio determinado, cuando se presenten las condiciones de desempleo señaladas en el inciso anterior y se encuentren percibiendo el segundo giro, tendrán derecho a un tercer y cuarto giro, con un beneficio igual al correspondiente al sexto y séptimo mes que señala la tabla del inciso tercero de este artículo, respectivamente.
+En el caso de los trabajadores contratados a plazo fijo, o para una obra, trabajo o servicio determinado, cuando se presenten las condiciones de desempleo señaladas en el inciso anterior y se encuentren percibiendo el tercer giro, tendrán derecho a un cuarto y quinto giro, con un beneficio igual al correspondiente al sexto y séptimo mes que señala la tabla del inciso tercero de este artículo, respectivamente.
 
-Los valores inferiores y superiores establecidos en los incisos primero y tercero, se reajustarán el 1º de febrero de cada año, en el 100% de la variación que haya experimentado en el año calendario anterior el Indice de Precios al Consumidor, determinado por el Instituto Nacional de Estadísticas o por el organismo que lo reemplace. Además, dichos valores inferiores y superiores se reajustarán en la misma oportunidad antes indicada, en el 100% de la variación que haya experimentado en el año calendario anterior, el Índice de Remuneraciones Reales determinadas por el mencionado Instituto. Dichos valores serán reajustados por el índice de remuneraciones antes indicado, siempre que su variación sea positiva.
+Los giros adicionales señalados en los incisos tercero y cuarto no se considerarán para el número máximo de pagos de prestaciones a que se refiere el inciso segundo del artículo 24.
+
+Los valores inferiores y superiores establecidos en los incisos primero, segundo y tercero, se reajustarán el 1º de marzo de cada año, en el 100% de la variación que haya experimentado en el año calendario anterior el Indice de Precios al Consumidor, determinado por el Instituto Nacional de Estadísticas o por el organismo que lo reemplace. Además, dichos valores inferiores y superiores se reajustarán en la misma oportunidad antes indicada, en el 100% de la variación que haya experimentado en el año calendario anterior, el Índice de Remuneraciones Reales determinadas por el mencionado Instituto. Dichos valores serán reajustados por el índice de remuneraciones antes indicado, siempre que su variación sea positiva.
 
 En el caso de trabajadores que, durante los últimos doce meses, hubiesen percibido una o más remuneraciones correspondientes a jornadas parciales, deberá efectuarse un ajuste de los valores superiores e inferiores a que se refiere este artículo en forma proporcional a la jornada promedio mensual de los últimos doce meses.
 
@@ -326,6 +344,10 @@ Un reglamento dictado por el Ministerio del Trabajo y Previsión Social y suscri
 
 Los programas señalados en el inciso primero serán ejecutados por las Oficinas de Información Laboral del artículo 73 de la ley N° 19.518 y por entidades privadas, que cumplan con los requisitos que establezca el reglamento.
 
+#### Artículo 25 ter
+
+El Fondo de Cesantía Solidario aportará a la cuenta de capitalización individual obligatoria para pensiones de los beneficiarios que hayan optado por dicho Fondo, el monto equivalente al 10% de la prestación por cesantía que les corresponda recibir de acuerdo al artículo 25. El aporte a que se refiere este artículo deberá ser enterado por la Sociedad Administradora del Fondo y no estará afecto al cobro de comisiones por parte de la Administradora de Fondos de Pensiones correspondiente.
+
 #### Artículo 26
 
 El valor total de los beneficios a pagar con cargo al Fondo de Cesantía Solidario en un mes determinado, no podrá exceder el 20% del valor acumulado en el Fondo al último día del mes anterior.
@@ -338,11 +360,29 @@ Las personas que obtuvieren mediante simulación o engaño prestaciones con carg
 
 #### Artículo 28
 
-No habrá derecho a la prestación prevista en este párrafo o cesará la concedida, según el caso, si el cesante rechazare, sin causa justificada, la ocupación que le ofrezca la respectiva Oficina Municipal de Intermediación Laboral, y siempre y cuando ella le hubiere permitido ganar una remuneración igual o superior al 50% de la última devengada en el empleo anterior.
+El beneficiario no tendrá derecho a las prestaciones previstas en este párrafo, o cesarán las concedidas, según el caso y para cada evento de cesantía, si no busca de manera efectiva un empleo. Para estos efectos se considerará que el beneficiario no busca de manera efectiva un empleo cuando:
 
-Tampoco habrá derecho a prestación o cesará la concedida, en su caso, si el beneficiario rechazare una beca de capacitación ofrecida y financiada por el Servicio Nacional de Capacitación y Empleo, en los términos previstos en el reglamento.
+a) No se inscribiere en la Bolsa Nacional de Empleo.
 
-Asimismo, no habrá derecho a las prestaciones de este párrafo o cesarán las concedidas, si el cesante no se inscribiera en la Bolsa Nacional de Empleo.
+b) No postulare, reiteradamente y sin causa justificada, a una oportunidad de empleo que se encuentre disponible según le informare la respectiva Oficina Municipal de Intermediación Laboral o la Bolsa Nacional de Empleo.
+
+c) No concurriere, reiteradamente y sin causa justificada, a entrevistas de empleo debidamente intermediadas por las mismas instituciones a que se refiere la letra anterior.
+
+d) Rechazare, sin causa justificada, una oportunidad de empleo intermediada o la capacitación ofrecida por la respectiva oficina Municipal de Intermediación Laboral o la Bolsa Nacional de Empleo.
+
+e) Rechazare, sin causa justificada, una beca de capacitación ofrecida y financiada por el Servicio Nacional de Capacitación y Empleo.
+
+Para los efectos del inciso anterior, serán consideradas como causas justificadas del beneficiario, causas de similar entidad, tales como:
+
+a) Padecer alguna enfermedad o discapacidad que le impida desarrollar el empleo ofrecido.
+
+b) Residir en una localidad distante del lugar donde se realice la entrevista de empleo, donde deba desempeñarse el respectivo empleo o donde se realice la capacitación ofrecida.
+
+c) El empleo o beca de capacitación ofrecidos no guardan relación con las habilidades o destrezas del empleo anterior u ocasionan un serio menoscabo a su condición laboral o a sus estudios profesionales, universitarios o técnicos.
+
+d) El empleo ofrecido no le permita percibir una remuneración igual o superior al 50% de la última devengada en el empleo anterior.
+
+Sin perjuicio de lo anterior, un reglamento expedido por el Ministerio del Trabajo y Previsión Social, que deberá ser suscrito por el Ministro de Hacienda, establecerá los criterios y condiciones para determinar la procedencia de las causas justificadas a que se refiere este artículo, así como los requisitos, procedimiento y mecanismos para acreditar su concurrencia y, en general, toda norma para la correcta aplicación de esta disposición.
 
 #### Artículo 29
 
@@ -428,7 +468,7 @@ El personal de la Superintendencia deberá guardar absoluta reserva y secreto de
 
 #### Artículo 34
 
-B.- Las Subsecretarías de Hacienda, de Evaluación Social y del Trabajo y la Dirección de Presupuestos, estarán facultados para exigir los datos personales contenidos en la Base de Datos a que se refiere el artículo 34 y la información que fuere necesaria para el ejercicio de sus funciones a la Sociedad Administradora de Fondos de Cesantía. En tal caso, el tratamiento y uso de los datos personales que efectúen los organismos antes mencionados quedarán dentro del ámbito de control y fiscalización de dichos servicios.
+B.- Las Subsecretarías de Hacienda, de Servicios Sociales, de Evaluación Social, del Trabajo y de Previsión Social, la Superintendencia de Seguridad Social, el Banco Central y la Dirección de Presupuestos, estarán facultados para exigir los datos personales contenidos en la Base de Datos a que se refiere el artículo 34 y la información que fuere necesaria para el ejercicio de sus funciones a la Sociedad Administradora de Fondos de Cesantía. En tal caso, el tratamiento y uso de los datos personales que efectúen los organismos antes mencionados quedarán dentro del ámbito de control y fiscalización de dichos servicios.
 
 Los organismos públicos antes señalados y su personal deberán guardar absoluta reserva y secreto de la información de que tomen conocimiento y abstenerse de usar dicha información en beneficio propio o de terceros. Para efectos de lo dispuesto en el inciso segundo del artículo 125 de la ley N° 18.834, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 29, de 2005, del Ministerio de Hacienda, se estimará que los hechos que configuren infracciones a esta disposición vulneran gravemente el principio de probidad administrativa, sin perjuicio de las demás sanciones y responsabilidades que procedan. Asimismo, le serán aplicadas las sanciones establecidas en el inciso sexto del artículo 34 de la presente ley.
 
@@ -626,9 +666,7 @@ La Comisión deberá emitir cada año, dentro de los dos meses siguientes a la r
 
 #### Artículo 58
 
-A.- Los recursos del Fondo de Cesantía y del Fondo de Cesantía Solidario se invertirán en los instrumentos financieros, operaciones y contratos que el artículo 45 del decreto ley Nº 3.500, de 1980, autoriza para los Fondos de Pensiones y en contratos de promesas de suscripción y pago, de cuotas de fondos de inversión a que hace referencia el inciso sexto del artículo 48 del citado decreto ley.
-
-> **Nota.** El Artículo 3º transitorio de la Ley 20328, publicada el 30.01.2009, dispuso que la modificación introducida al presente artículo rige desde el primer día del mes siguiente a aquel en que se tramiten totalmente las modificaciones al Contrato de Administración del Seguro de Cesantía, las que fueron aprobadas por el Decreto 97, Trabajo, publicado el 30 de octubre de 2009.
+A.- Los recursos del Fondo de Cesantía Solidario se invertirán en los instrumentos financieros, operaciones y contratos que el artículo 45 del decreto ley N° 3.500, de 1980, autoriza para los Fondos de Pensiones y en contratos de promesas de suscripción y pago de cuotas de fondos de inversión, a que se refiere el inciso sexto del artículo 48 del citado decreto ley. Por su parte, los recursos del Fondo de Cesantía se invertirán en los instrumentos financieros, operaciones y contratos establecidos en las letras a) a la m) y en la letra ñ) del primer artículo citado, así como en los contratos de promesas antes señalados.
 
 #### Artículo 58
 
@@ -640,15 +678,15 @@ B.- Las inversiones con recursos de los Fondos de Cesantía deberán sujetarse a
 
 Se entenderá por inversión en el extranjero aquella a la que alude el párrafo tercero del número 2), del inciso decimoctavo del artículo 45 del decreto ley N° 3.500, de 1980.
 
-3) El límite máximo para la inversión en moneda extranjera sin cobertura cambiaria que podrá mantener la Sociedad Administradora no podrá ser inferior al 10% ni superior al 15% del Fondo de Cesantía y al 25% y 35% del Fondo de Cesantía Solidario, respectivamente.
+3) El límite máximo para la suma de las inversiones en los instrumentos que se señalan en los números 1, 2, 3, 4, 6 y 7 del inciso segundo del artículo 58C de la presente ley, no podrá ser inferior al diez por ciento ni superior al veinte por ciento del valor del Fondo de Cesantía Solidario. Tratándose del Fondo de Cesantía, el límite máximo para la suma de las inversiones en los instrumentos antes señalados, no podrá superar el 5% del valor del Fondo. La Superintendencia de Pensiones podrá excluir de la determinación de porcentajes máximos de inversión contemplada en este número a los instrumentos, operaciones y contratos de cada tipo señalados en la letra k) del inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980 y podrá incluir otros instrumentos, operaciones y contratos de carácter financiero que aquella autorice, aludidos en la letra j) del inciso segundo del citado artículo.
 
-4) El límite máximo para la suma de las inversiones en los instrumentos que se señalan en los números 1, 2, 3, 4, 6 y 7 del inciso segundo del artículo 58C de la presente ley y en las letras e), f), g),
+4) El límite máximo para la suma de las inversiones contempladas en la letra
 
-- **i)** y
+- **n)** del inciso segundo del artículo 45 del decreto ley N° 3.500, más las inversiones en cuotas de fondos de inversión de la letra
 
-- **k)** del inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980, cuyo emisor tenga menos de tres años de operación, no podrá ser inferior al diez por ciento ni superior al veinte por ciento del valor del Fondo de Cesantía Solidario. Tratándose del Fondo de Cesantía, el límite máximo para la suma de las inversiones en los instrumentos antes señalados, no podrá superar el 5% del valor del Fondo. La Superintendencia de Pensiones podrá excluir de la determinación de porcentajes máximos de inversión contemplada en este número a los instrumentos de cada tipo señalados en la letra
+- **h)** cuando sus carteras se encuentren constituidas preferentemente por las inversiones citadas en la letra n), no podrá ser superior al 5% del valor del Fondo de Cesantía Solidario. El Régimen de Inversión establecerá los casos en que se entenderá que la cartera de los fondos de inversión de la letra
 
-- **k)** del inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980.
+- **h)** se considerará constituida preferentemente por las inversiones citadas en la letra n), todas del inciso segundo del artículo 45 del referido decreto ley.
 
 El límite máximo para la suma de las inversiones en los instrumentos señalados en las letras
 
@@ -658,31 +696,31 @@ El límite máximo para la suma de las inversiones en los instrumentos señalado
 
 - **j)** y
 
-- **k)** cuando sean representativos de capital, señalados en el inciso segundo del artículo 45, más el monto de los aportes comprometidos mediante los contratos a que se refiere el artículo 48, ambos del decreto ley N° 3.500, de 1980, será de un 5% y 30% del valor de los Fondos de Cesantía y Cesantía Solidario, respectivamente. Se excluirá para el cálculo de este límite la inversión en títulos representativos de índices de los instrumentos de la letra j), las cuotas de fondos de inversión y fondos mutuos de las letras
+- **k)** cuando sean representativos de capital, señalados en el inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980, será de un 5% y 30% del valor de los Fondos de Cesantía y Cesantía Solidario, respectivamente. Se excluirá para el cálculo de este límite la inversión en títulos representativos de índices de los instrumentos de la letra j), las cuotas de fondos de inversión y fondos mutuos de las letras
 
 - **h)** y j), del mencionado artículo 45, cuando sus carteras de inversiones se encuentren constituidas preferentemente por títulos de deuda.
 
-Los Fondos de Cesantía podrán adquirir títulos de las letras b), c), d), e), f), i), y títulos de deuda de la letra j), señalados en el inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980, cuando cuenten con al menos dos clasificaciones de riesgo iguales o superiores a BBB y nivel N-3, a que se refiere el artículo 105 del citado cuerpo legal, elaboradas por diferentes clasificadoras privadas; y acciones de la letra g) que cumplan con los requisitos a que se refiere el inciso siguiente. Asimismo, podrán adquirir cuotas de fondos de inversión y de fondos mutuos señalados en la letra h), y títulos representativos de capital de la letra j), que estén aprobadas por la Comisión Clasificadora de Riesgo a que se refiere el artículo 99 del mencionado decreto ley. De igual forma podrán adquirir instrumentos de la letra k), autorizados por la Superintendencia de Pensiones y cuando ésta lo requiera, por la Comisión Clasificadora de Riesgo.
+Los Fondos de Cesantía podrán adquirir títulos de las letras b), c), d), e), f), i), ñ) y títulos de deuda de la letra j), señalados en el inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980, cuando cuenten con al menos dos clasificaciones de riesgo iguales o superiores a BBB y nivel N-3, a que se refiere el artículo 105 del citado cuerpo legal, elaboradas por diferentes clasificadoras privadas; y acciones de la letra g) que cumplan con los requisitos a que se refiere el inciso siguiente. Asimismo, podrán adquirir cuotas de fondos de inversión y de fondos mutuos señalados en la letra h), y títulos representativos de capital de la letra j), que estén aprobadas por la Comisión Clasificadora de Riesgo a que se refiere el artículo 99 del mencionado decreto ley. De igual forma podrán adquirir instrumentos, operaciones y contratos de la letra k) y aquellos a que se refiere la última oración de la letra j), autorizados por la Superintendencia de Pensiones y cuando ésta lo requiera, por la Comisión Clasificadora de Riesgo.
 
 Las acciones a que se refiere la letra g) del inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980 podrán ser adquiridas por los Fondos de Cesantía cuando el emisor cumpla con los requisitos mínimos que serán determinados en el Régimen de Inversión de los Fondos de Cesantía. Aquellas acciones que no cumplan con los requisitos anteriores podrán ser adquiridas por los Fondos de Cesantía cuando éstas sean clasificadas en primera clase por al menos dos entidades clasificadoras de riesgo a las que se refiere la ley N° 18.045.
 
-Los Fondos de Cesantía podrán adquirir los títulos de las letras b), c), d), e), f), g), h), i), y j) del inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980, que cumplan con lo establecido en el Régimen de Inversión, aunque no cumplan con los requisitos establecidos en los incisos tercero y cuarto, precedentes, siempre que la inversión se ajuste a los límites especiales que fije el citado Régimen para estos efectos.
+Los Fondos de Cesantía podrán adquirir los títulos de las letras b), c), d), e), f), g), h), i), j) y ñ) del inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980, que cumplan con lo establecido en el Régimen de Inversión, aunque no cumplan con los requisitos establecidos en los incisos tercero y cuarto, precedentes, siempre que la inversión se ajuste a los límites especiales que fije el citado Régimen para estos efectos.
 
 > **Nota.** El Artículo 3º transitorio de la Ley 20328, publicada el 30.01.2009, dispuso que la modificación introducida al presente artículo rige desde el primer día del mes siguiente a aquel en que se tramiten totalmente las modificaciones al Contrato de Administración del Seguro de Cesantía, las que fueron aprobadas por el Decreto 97, Trabajo, publicado el 30 de octubre de 2009.
 
 #### Artículo 58
 
-C.- Sin perjuicio de lo señalado en el artículo precedente, el Régimen de Inversión de los Fondos de Cesantía podrá establecer otros límites máximos en función del valor de los Fondos de Cesantía, para los instrumentos, operaciones y contratos del inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980.
+C.- Sin perjuicio de lo señalado en el artículo precedente, el Régimen de Inversión de los Fondos de Cesantía podrá establecer otros límites máximos en función del valor de los Fondos de Cesantía, para los instrumentos, operaciones y contratos del inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980. Asimismo, el Régimen deberá establecer límites máximos para la inversión en moneda extranjera sin cobertura cambiaria que podrá mantener la Administradora de Fondos de Cesantía respecto de cada Fondo, así como la definición de cobertura cambiaria, debiendo contar con informe previo favorable del Banco Central de Chile.
 
 Entre otros, corresponderá al Régimen de Inversión establecer límites máximos respecto de los instrumentos u operaciones que se señalan en los números 1) al 9) siguientes:
 
-1) Instrumentos a que se refieren las letras b), c), d), e), f), i), j) y k), estas dos últimas cuando se trate de instrumentos de deuda, del inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980, clasificados en categoría BB, B y nivel N-4 de riesgo, según corresponda, a que se refiere el artículo 105 de dicho decreto ley, que cuenten con sólo una clasificación de riesgo efectuada por una clasificadora privada, la cual en todo caso deberá ser igual o superior a las categorías antes señaladas, o que cuyas clasificaciones hayan sido rechazadas por la Comisión Clasificadora de Riesgo;
+1) Instrumentos a que se refieren las letras b), c), d), e), f), i), j) y k), estas dos últimas cuando se trate de instrumentos de deuda y ñ), del inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980, clasificados en categoría BB, B y nivel N-4 de riesgo, según corresponda, a que se refiere el artículo 105 de dicho decreto ley, que cuenten con sólo una clasificación de riesgo efectuada por una clasificadora privada, la cual en todo caso deberá ser igual o superior a las categorías antes señaladas, o que cuyas clasificaciones hayan sido rechazadas por la Comisión Clasificadora de Riesgo;
 
-2) Instrumentos a que se refieren las letras b), c), d), e), f), i), j) y k), estas dos últimas cuando se trate de instrumentos de deuda, del inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980, que tengan clasificación inferiores a B y nivel N-4, según corresponda y aquellos que no cuenten con clasificación de riesgo;
+2) Instrumentos a que se refieren las letras b), c), d), e), f), i), j) y k), estas dos últimas cuando se trate de instrumentos de deuda y ñ), del inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980, que tengan clasificación inferiores a B y nivel N-4, según corresponda y aquellos que no cuenten con clasificación de riesgo;
 
 3) Acciones a que se refiere la letra g) del inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980, que no cumplan con los requisitos establecidos en el inciso cuarto del artículo 58B y cuotas de fondos de inversión y cuotas de fondos mutuos a que se refiere la letra h) del citado artículo 45, no aprobadas por la Comisión Clasificadora de Riesgo;
 
-4) Acciones a que se refiere la letra g) del inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980, que sean de baja liquidez; más cuotas de fondos de inversión a que se refiere la letra h) del citado artículo, más el monto de los aportes comprometidos mediante los contratos a que se refiere el inciso sexto del artículo 48 del decreto ley N° 3.500, de 1980, cuando estos instrumentos sean de baja liquidez;
+4) Acciones a que se refiere la letra g) del inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980, que sean de baja liquidez; más cuotas de fondos de inversión a que se refiere la letra h) del citado artículo, cuando estos instrumentos sean de baja liquidez;
 
 5) Aportes comprometidos mediante los contratos de promesa y suscripción de pago de cuotas de fondos de inversión;
 
@@ -721,6 +759,8 @@ En lo no previsto por el Régimen de Inversión de los Fondos de Cesantía, se e
 5) Que contemple criterios de diversificación en su conformación, respecto de a lo menos, emisores, naturaleza de instrumentos y mercados.
 
 La Superintendencia podrá revisar la composición de las carteras de inversión referenciales cada 36 meses y someterla a la consideración del Consejo Técnico de Inversiones a que se refiere el artículo 58H, si los numerales del inciso anterior experimentan variaciones significativas.
+
+El Régimen de Inversión deberá establecer la medida de la volatilidad de la diferencia entre la rentabilidad del Fondo respectivo y su cartera referencial.
 
 > **Nota.** El Artículo 3º transitorio de la Ley 20328, publicada el 30.01.2009, dispuso que la modificación introducida al presente artículo rige desde el primer día del mes siguiente a aquel en que se tramiten totalmente las modificaciones al Contrato de Administración del Seguro de Cesantía, las que fueron aprobadas por el Decreto 97, Trabajo, publicado el 30 de octubre de 2009.
 
@@ -800,7 +840,7 @@ Del Sistema de Información Laboral y la Bolsa Nacional de Empleo
 
 #### Artículo 61
 
-Créanse el Sistema de Información Laboral y la Bolsa Nacional de Empleo, a cargo del Ministerio del Trabajo y Previsión Social, cuyos objetivos serán aumentar la empleabilidad y facilitar la reinserción laboral de los trabajadores cesantes afiliados al Seguro de Cesantía.
+Créanse el Sistema de Información Laboral y la Bolsa Nacional de Empleo, a cargo del Ministerio del Trabajo y Previsión Social, cuyos objetivos serán aumentar la empleabilidad y facilitar la reinserción laboral de los trabajadores cesantes mayores de 18 años de edad.
 
 #### Artículo 62
 
@@ -808,33 +848,33 @@ El Sistema de Información Laboral entregará información sobre el mercado labo
 
 #### Artículo 63
 
-La Bolsa Nacional de Empleo será un instrumento destinado a facilitar la búsqueda y el ofrecimiento de vacantes de empleo para los trabajadores cesantes afiliados al Seguro.
+La Bolsa Nacional de Empleo será un instrumento destinado a facilitar la búsqueda y el ofrecimiento de vacantes de empleo para los trabajadores cesantes mayores de 18 años de edad.
 
-Los trabajadores cesantes afiliados al Seguro que se inscriban en la Bolsa Nacional de Empleo podrán ofrecer la prestación de servicios laborales y acceder a la base de datos de vacantes de trabajo. A su vez, los empleadores que se registren en la mencionada Bolsa podrán ofrecer vacantes de trabajo y buscar trabajadores para dichos puestos de trabajo.
+Los trabajadores cesantes mayores de 18 años de edad que se inscriban en la Bolsa Nacional de Empleo podrán ofrecer la prestación de servicios laborales y acceder a la base de datos de vacantes de trabajo. A su vez, los empleadores que se registren en la mencionada Bolsa podrán ofrecer vacantes de trabajo y buscar trabajadores para dichos puestos de trabajo.
 
-El administrador de la Bolsa Nacional de Empleo deberá comunicar las oportunidades de capacitación y de trabajos disponibles a los beneficiarios del Fondo de Cesantía Solidario y a aquellos que dejaron de percibir las prestaciones del artículo 25 que se mantengan cesantes, según el orden de prioridad que establezca el índice de empleabilidad, elaborado por la Subsecretaría del Trabajo.
+El administrador de la Bolsa Nacional de Empleo deberá comunicar a los cesantes inscritos las oportunidades de capacitación y de empleos disponibles, según el orden de prioridad que establezca el índice de empleabilidad elaborado por la Subsecretaría del Trabajo.
 
-El administrador de la Bolsa Nacional de Empleo deberá mantener una base de datos de los trabajadores sujetos al seguro, con los registros necesarios para la operación de la mencionada Bolsa que incluirá el registro general de información del trabajador, el índice de empleabilidad del trabajador mencionado en el inciso anterior, el registro de aquellos empleadores que ofrezcan vacantes de trabajo y los demás que determine la Subsecretaría del Trabajo, de acuerdo a lo establecido en las bases de licitación.
+Igualmente, deberá mantener una base de datos de los trabajadores inscritos, con información del trabajador y su índice de empleabilidad, como asimismo de aquellos empleadores que ofrezcan vacantes de trabajo y los demás registros que determine la Subsecretaría del Trabajo, de acuerdo a lo establecido en las bases de licitación.
 
-El Servicio Nacional de Capacitación y Empleo, las Oficinas de Información Laboral del artículo 73 de la ley Nº 19.518, otros servicios públicos y las entidades privadas que ejecuten los programas señalados en el artículo 25 bis, podrán acceder a las bases de datos del administrador de la Bolsa Nacional de Empleo para el ejercicio de sus funciones.
+La Subsecretaría del Trabajo, el Servicio Nacional de Capacitación y Empleo, las Oficinas de Información Laboral del artículo 73 de la ley Nº 19.518, otros servicios públicos y las entidades privadas que ejecuten los programas señalados en el artículo 25 bis, podrán acceder a las bases de datos del administrador de la Bolsa Nacional de Empleo para el ejercicio de sus funciones.
 
 #### Artículo 64
 
 La administración de la Bolsa Nacional de Empleo será adjudicada mediante una licitación pública. La licitación y la adjudicación del servicio se realizarán por los Ministerios del Trabajo y Previsión Social y de Hacienda.
 
-La entidad administradora de la Bolsa Nacional de Empleo tendrá derecho a una retribución de cargo del Fondo de Cesantía Solidario.
+La entidad administradora de la Bolsa Nacional de Empleo tendrá derecho a una retribución cuyo financiamiento será de cargo del Fondo de Cesantía Solidario y del Servicio Nacional de Capacitación y Empleo, en la proporción que se establezca en un reglamento emitido en conjunto por los Ministerios del Trabajo y Previsión Social y de Hacienda.
 
-Extinguido el contrato de administración de la Bolsa Nacional de Empleo por las causas establecidas en las bases de licitación, la entidad que estuviere prestando el servicio que ella otorga, deberá transferir a la Subsecretaría del Trabajo o a quien ésta determine, dicha Bolsa y las bases de datos que forman parte de ella, permitiendo la continuidad del servicio.
+Extinguido el contrato de administración de la Bolsa Nacional de Empleo por las causas establecidas en las bases de licitación, la entidad que estuviere prestando el servicio deberá transferir a la Subsecretaría del Trabajo o a quién ésta determine los sistemas informáticos y las bases de datos utilizadas, para permitir la continuidad de dicho servicio.
 
-El que, durante el período de vigencia del contrato señalado en el inciso anterior o con posterioridad a él, haga uso de la información incluida en la Bolsa Nacional de Empleo para un fin distinto al establecido en este artículo, será sancionado con las penas que se establecen en el inciso sexto del artículo 34, sin perjuicio de las demás sanciones que establezcan las bases de licitación y el contrato respectivo.
+El que, durante el período de vigencia del contrato señalado en el inciso anterior o con posterioridad a él, haga uso de la información incluida en la Bolsa Nacional de Empleo para un fin distinto al establecido en esta ley, será sancionado con las penas que se establecen en el inciso sexto del artículo 34, sin perjuicio de las demás sanciones que establezcan las bases de licitación y el contrato respectivo.
 
-La entidad administradora de la Bolsa Nacional de Empleo que durante el traspaso de la concesión provoque un daño no fortuito a las bases de datos que forman parte de ella, o niegue u obstaculice su entrega o la otorgue en forma incompleta, será sancionado de conformidad a lo que establezcan las bases de licitación y el contrato respectivo.
+El que durante el traspaso de la administración de la Bolsa Nacional de Empleo provoque un daño no fortuito a las bases de datos que forman parte de ella, o niegue u obstaculice su entrega o la otorgue en forma incompleta, será sancionado con las penas que se contemplan en el inciso sexto del artículo 34, sin perjuicio de la aplicación a la entidad administradora de dicha Bolsa de las sanciones que establezcan las bases de licitación y el contrato respectivo.
 
 La supervigilancia, control y fiscalización de la entidad que administre la Bolsa Nacional de Empleo corresponderá al Servicio Nacional de Capacitación y Empleo, sin perjuicio de las facultades de la Superintendencia de Pensiones en relación con la fiscalización a la Sociedad Administradora respecto de la administración del Fondo de Cesantía Solidario.
 
 #### Artículo 65
 
-Las Oficinas de Información Laboral para el ejercicio de las funciones establecidas en el artículo 78 de la ley N° 19.518 deberán utilizar la información que otorgue la Bolsa Nacional de Empleo.
+Las Oficinas de Información Laboral para el ejercicio de las funciones establecidas en el artículo 73 de la ley N° 19.518 deberán utilizar la información que otorgue la Bolsa Nacional de Empleo.
 
 Disposiciones Transitorias
 
