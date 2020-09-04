@@ -30,7 +30,7 @@ Que en atención a las razones precedentemente expuestas, se ha dispuesto instit
 
 Decreto:
 
-Institúyese el día 18 de octubre de cada año como el Día Nacional de las Frutas y Verduras.
+Institúyese el día 8 de octubre de cada año como el Día Nacional de las Frutas y Verduras.
 
 Anótese, tómese razón, regístrese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Carlos Furche G., Ministro de Agricultura.
 
