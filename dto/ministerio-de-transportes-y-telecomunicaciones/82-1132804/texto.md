@@ -44,15 +44,25 @@ Decreto:
 
 ELEMENTOS DE LA ESENCIA DE LA CONCESIÓN
 
-- Tipo de servicio :Radiodifusión Sonora en Frecuencia Modulada.
+- Tipo de servicio :Radiodifusión Sonora
 
-- Zona de servicio :Localidad de Empedrado, Región del Maule.
+en Frecuencia Modulada.
 
-Superficie delimitada por una intensidad
+- Zona de servicio :Localidad de Empedrado,
 
-de campo mayor o igual que 54 dB (μV/m),
+Región del Maule.
 
-referida al punto de emisión de la señal.
+Superficie delimitada
+
+por una intensidad
+
+de campo mayor o igual
+
+que 54 dB (μV/m),
+
+referida al punto de
+
+emisión de la señal.
 
 - Período de la concesión :25 años.
 
@@ -60,7 +70,7 @@ referida al punto de emisión de la señal.
 
 - Plazo término de obras :15 días.
 
-- Plazo inicio de transmisiones : 60 días.
+- Plazo inicio de transmisiones :60 días.
 
 - Potencia :50 W.
 
@@ -74,9 +84,13 @@ CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
 
 - Diagrama de Radiación :Direccional.
 
-- Ganancia :9,98 dBd de ganancia máxima sin tilt
+- Ganancia :9,98 dBd de ganancia
 
-y 9,38 dBd de ganancia en el plano
+máxima sin tilt
+
+y 9,38 dBd de ganancia
+
+en el plano
 
 horizontal.
 
@@ -96,7 +110,9 @@ horizontal.
 
 - Largo de cable alimentador :24 m.
 
-- Pérdidas en cables, conectores y otros :1,23 dB.
+- Pérdidas en cables,
+
+conectores y otros :1,23 dB.
 
 - Diagrama de radiación horizontal de acuerdo a la siguiente tabla:
 
@@ -104,23 +120,29 @@ horizontal.
 
 UBICACIÓN DE LAS INSTALACIONES
 
-- Ubicación del Estudio Principal :7 Oriente B, 2 y 3 Norte N° 1380, comuna
+- Ubicación del Estudio :7 Oriente B, 2 y 3
 
-de Talca, Región del Maule
+Norte N° 1380, comuna
 
-- Coordenadas Geográficas :35° 25'29" Latitud Sur, 71° 39'21"
+Principal de Talca, Región
 
-Longitud Oeste.
+del Maule
+
+- Coordenadas :35° 25'29" Latitud Sur,
+
+Geográficas 71° 39'21" Longitud Oeste.
 
 Datum WGS 84
 
-- Ubicación del Estudio Alternativo, :Manuel Rodríguez N° 340, comuna de Empedrado,
+- Ubicación del Estudio :Manuel Rodríguez s/n,
+
+Alternativo, comuna de Empedrado,
 
 Planta Transmisora y Sistema Radiante Región del Maule
 
-- Coordenadas Geográficas :35° 35'28" Latitud Sur, 72°16'42" Longitud
+- Coordenadas Geográficas :35° 35'28" Latitud Sur,
 
-Oeste.
+72°16'42" Longitud Oeste.
 
 Datum WGS 84.
 
