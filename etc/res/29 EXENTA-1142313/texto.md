@@ -1,6 +1,6 @@
 APRUEBA LA SOLICITUD DE ACREDITACIÓN DE LA SOCIEDAD PETRINOVIC CENTRO DE EVALUACIONES PSICOSENSOMÉTRICAS SPA
 
-Núm. 29 exenta.- Santiago, 5 de febrero de 2019.
+Núm. 29 exenta.- Santiago, 5 de febrero de 2020.
 
 Vistos:
 
@@ -16,7 +16,7 @@ Considerando:
 
 4. Que, mediante Acuerdo N° 820 de 2020, adoptado en la centésima décima sexta ordinaria, de 22 de enero de 2020, el órgano colegiado de la Comisión resolvió acreditar a la solicitante, como Centro de Evaluación y Certificación de Competencias Laborales, por un período de tres años contados desde la notificación del presente acto administrativo.
 
-5. Que, la sociedad Petrinovic Centro de Evaluaciones Psicosensométricas SpA suscribió el 5 de febrero de 2019, un Acta de Compromiso, en que se compromete a cumplir las obligaciones, compromisos, prohibiciones, restricciones e inhabilidades que la ley N° 20.267 y sus reglamentos establecen para asegurar la idoneidad, competencia e imparcialidad de los Centros de Evaluación y Certificación de Competencias Laborales.
+5. Que, la sociedad Petrinovic Centro de Evaluaciones Psicosensométricas SpA suscribió el 5 de febrero de 2020, un Acta de Compromiso, en que se compromete a cumplir las obligaciones, compromisos, prohibiciones, restricciones e inhabilidades que la ley N° 20.267 y sus reglamentos establecen para asegurar la idoneidad, competencia e imparcialidad de los Centros de Evaluación y Certificación de Competencias Laborales.
 
 Resuelvo:
 
