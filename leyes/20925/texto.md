@@ -52,7 +52,7 @@ No podrán ser beneficiarias de esta bonificación las empresas de menor tamaño
 
 De los procedimientos para acceder a la bonificación. La bonificación se obtendrá habiendo postulado en forma previa a un programa o a un concurso público conforme a los artículos siguientes.
 
-En ningún caso se financiará más de tres veces:
+En ningún caso se financiará más de cinco veces:
 
 a) El repoblamiento del mismo sector del área sometida a un plan de manejo.
 

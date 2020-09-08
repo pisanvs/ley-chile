@@ -212,7 +212,7 @@ En el plazo máximo de dieciocho meses, contado desde la fecha de publicación d
 
 En el plazo de dos años, contado desde la publicación de esta ley, se dictará el reglamento a que se refiere el artículo 64 I de la Ley General de Pesca y Acuicultura, el que considerará los resultados del programa de investigación mencionado en el artículo 7º A de dicho texto normativo.
 
-Las obligaciones contenidas en los artículos 64 E y 64 F de la Ley General de Pesca y Acuicultura, que pasan a ser artículos 64 I y 64 J, serán exigibles para los armadores de embarcaciones artesanales de una eslora igual o superior a 15 metros, en el plazo de 3 años contado desde la publicación en el Diario Oficial del reglamento que regule tal actividad.
+Las obligaciones contenidas en los artículos 64 E y 64 F de la Ley General de Pesca y Acuicultura, que pasan a ser artículos 64 I y 64 J, serán exigibles para los armadores de embarcaciones artesanales de una eslora igual o superior a 15 metros, a partir del 1 de enero de 2024.
 
 Mientras no se dicte el reglamento a que alude el inciso anterior, quedarán suspendidas las obligaciones establecidas en los artículos 64 I y 64 J de la Ley General de Pesca y Acuicultura, así como la aplicación de las sanciones contenidas en el artículo 111 B del mencionado cuerpo legal.".
 
