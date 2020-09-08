@@ -16,7 +16,7 @@ De los documentos gravados
 
 Grávase con el impuesto que se indica las siguientes actuaciones y documentos que den cuenta de los actos jurídicos, contratos y otras convenciones que se señalan:
 
-1) El protesto de cheques por falta de fondos, afecto a un impuesto de 1% del monto del cheque, con un mínimo de $5.459 y con un máximo de una unidad tributaria mensual.
+1) El protesto de cheques por falta de fondos, afecto a un impuesto de 1% del monto del cheque, con un mínimo de $3.982 y con un máximo de una unidad tributaria mensual.
 
 2) DEROGADO.
 
@@ -84,7 +84,13 @@ Para los efectos del presente artículo, se incluirán entre los documentos nece
 
 INCISO PRIMERO DEROGADO
 
-Las actas de protesto de cambio y pagarés a la orden estarán afectos únicamente a un impuesto de un 1% sobre su monto con un mínimo de $5.459 y con un máximo de una unidad tributaria mensual.
+Las actas de protesto de cambio y pagarés a la
+
+orden estarán afectos únicamente a un impuesto de un
+
+1% sobre su monto con un mínimo de $ 3.982 y con un
+
+máximo de una unidad tributaria mensual.
 
 ## Título II
 
