@@ -278,6 +278,10 @@ De las normas Generales
 
 El Banco podrá otorgar financiamiento o refinanciamiento sólo a las empresas bancarias y sociedades financieras. De manera alguna podrá otorgar a ellas su garantía, ni adquirir documentos emitidos por el Estado, sus organismos o empresas.
 
+Sin perjuicio de lo anterior, el Banco, en situaciones excepcionales y transitorias determinadas por el Consejo mediante acuerdo fundado, adoptado con el voto favorable de al menos cuatro consejeros, podrá, cuando así lo requiera la preservación del normal funcionamiento de los pagos internos y externos, comprar durante un período determinado en el mercado secundario abierto, para fines de provisión de liquidez, instrumentos de deuda emitidos por el Fisco. Además, para estos efectos, se citará especialmente al Ministro de Hacienda a la sesión respectiva, quien podrá ejercer las facultades establecidas en el artículo 19 de esta ley.
+
+Los instrumentos a que se refiere el inciso precedente serán enajenados por el Banco en el mercado abierto, en la oportunidad y de acuerdo a los términos y condiciones que el Consejo determine.
+
 Ningún gasto público o préstamo podrá financiarse con créditos directos o indirectos del Banco.
 
 Con todo, en caso de guerra exterior o de peligro de ella, que calificará el Consejo de Seguridad Nacional mediante oficio secreto, el Banco podrá obtener, otorgar o financiar crédito al Estado y entidades públicas o privadas.
