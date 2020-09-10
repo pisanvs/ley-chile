@@ -592,9 +592,9 @@ d) Incumplimiento sobreviniente de los requisitos establecidos en el artículo 3
 
 DISPOSICIÓN FINAL
 
-#### Artículo transitorio
+#### Artículo primero
 
-Las personas que hayan realizado cursos dictados con anterioridad a la entrada en vigencia del presente reglamento para desarrollar correctamente cada una de las fases de una entrevista investigativa videograbada y de una declaración judicial, tanto en Chile como en el extranjero, podrán solicitar su acreditación como entrevistadores conforme a las siguientes reglas:
+transitorio. Las personas que hayan realizado cursos dictados con anterioridad a la entrada en vigencia del presente reglamento para desarrollar correctamente cada una de las fases de una entrevista investigativa videograbada y de una declaración judicial, tanto en Chile como en el extranjero, podrán solicitar su acreditación como entrevistadores conforme a las siguientes reglas:
 
 a) La persona interesada deberá remitir al Ministerio de Justicia y Derechos Humanos los antecedentes académicos de las instancias formativas en que hubiera participado, los que acrediten experiencia práctica, si la tuviese, y aquella información referida en el artículo 38 del reglamento. Respecto de los literales b) y c) del artículo 38, estos antecedentes deberán ser emitidos por la entidad que impartió aquellas actividades formativas en que hubiere participado.
 
@@ -603,6 +603,16 @@ b) El Ministerio de Justicia y Derechos Humanos evaluará los antecedentes en re
 c) La autoridad podrá requerir aclaración de los antecedentes a la persona interesada a fin de complementar la solicitud y, asimismo, podrá solicitar la opinión técnica a la Comisión Permanente de Coordinación del Sistema de Justicia Penal.
 
 d) El procedimiento de acreditación especial estará abierto a las solicitudes dentro del plazo de cinco meses desde publicado en el Diario Oficial el presente reglamento.
+
+#### Artículo segundo
+
+transitorio: Tratándose de las personas acreditadas como entrevistadores, de conformidad a lo previsto en el título VI del presente Reglamento, con anterioridad a la fecha de entrada en vigencia del decreto supremo N° 58, de 2020, del Ministerio de Justicia y Derechos Humanos, se aplicarán las siguientes disposiciones:
+
+La primera acreditación como entrevistador, tendrá una vigencia de dos años y tres meses desde la notificación de la respectiva resolución.
+
+El primer ciclo del programa de formación continua deberá completarse dentro de los dos años siguientes a la notificación de la resolución que acredite a la persona interesada como entrevistador y deberá contemplar, al menos, dos instancias de práctica con retroalimentación experta.
+
+En todo lo demás, resultarán plenamente aplicables las disposiciones contenidas en el decreto supremo N° 471, de 2018, del Ministerio de Justicia y Derechos Humanos.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Juan José Ossa Santa Cruz, Ministro de Justicia y Derechos Humanos (S).
 
