@@ -748,19 +748,15 @@ El viudo o divorciado o quien hubiere anulado su matrimonio por cuya negligencia
 
 #### Artículo 128
 
-Cuando un matrimonio haya sido disuelto o declarado nulo, la mujer que está embarazada no podrá pasar a otras nupcias antes del parto, o (no habiendo señales de preñez) antes de cumplirse los doscientos setenta días subsiguientes a la disolución o declaración de nulidad.
-
-Pero se podrán rebajar de este plazo todos los días que hayan precedido inmediatamente a dicha disolución o declaración, y en los cuales haya sido absolutamente imposible el acceso del marido a la mujer.
+Derogado.
 
 #### Artículo 129
 
-El oficial del Registro Civil correspondiente no permitirá el matrimonio de la mujer sin que por parte de ésta se justifique no estar comprendida en el impedimento del artículo precedente.
+Derogado.
 
 #### Artículo 130
 
 Cuando por haber pasado la madre a otras nupcias se dudare a cuál de los dos matrimonios pertenece un hijo, y se invocare una decisión judicial de conformidad a las reglas del Título VIII, el juez decidirá, tomando en consideración las circunstancias. Las pruebas periciales de carácter biológico y el dictamen de facultativos serán decretados si así se solicita.
-
-Serán obligados solidariamente a la indemnización de todos los perjuicios y costas ocasionados a terceros por la incertidumbre de la paternidad, la mujer que antes del tiempo debido hubiere pasado a otras nupcias, y su nuevo marido.
 
 ## Título VI
 
@@ -1129,6 +1125,8 @@ Se presumen hijos del marido los nacidos después de la celebración del matrimo
 No se aplicará esta presunción respecto del que nace antes de expirar los ciento ochenta días subsiguientes al matrimonio, si el marido no tuvo conocimiento de la preñez al tiempo de casarse y desconoce judicialmente su paternidad. La acción se ejercerá en el plazo y forma que se expresa en los artículos 212 y siguientes. Con todo, el marido no podrá ejercerla si por actos positivos ha reconocido al hijo después de nacido.
 
 Regirá, en cambio, la presunción de paternidad respecto del nacido trescientos días después de decretada la separación judicial, por el hecho de consignarse como padre el nombre del marido, a petición de ambos cónyuges, en la inscripción de nacimiento del hijo.
+
+Si la mujer contrae sucesivamente dos matrimonios y da a luz un niño después de celebrado el segundo, se presumirá hijo del actual marido, cualquiera que sea el plazo que haya transcurrido desde la disolución del primer matrimonio, sin perjuicio del derecho del actual marido para desconocer esta paternidad si se dan los supuestos previstos en el inciso segundo. Desconocida así la paternidad, se presumirá padre al marido del antecedente matrimonio, siempre que el niño haya nacido dentro de los trescientos días siguientes a su disolución.
 
 La paternidad así determinada o desconocida podrá ser impugnada o reclamada, respectivamente, de acuerdo con las reglas establecidas en el Título VIII.
 
@@ -11154,6 +11152,8 @@ A falta o insuficiencia de todos los bienes señalados, podrá perseguir su cré
 
 6) Por el pacto de separación de bienes.
 
+7) Por disolución del matrimonio en el caso previsto por el numeral 5° del artículo 42 de la Ley de Matrimonio Civil, contenida en el artículo primero de la ley N° 19.947.
+
 ## Título XXIII
 
 DE LA COMPRAVENTA
@@ -16852,6 +16852,14 @@ Sin embargo, en las sucesiones de extranjeros los bienes situados en el exterior
 
 El impuesto que se hubiera pagado en el extranjero por los bienes colacionados en el inventario servirá de abono contra el impuesto total que se adeude en Chile. No obstante, el monto del impuesto de esta ley no podrá ser inferior al que hubiera correspondido en el caso de colacionarse en el inventario sólo los bienes situados en Chile.
 
+Para los efectos de la presente ley, se entenderá por donación lo dispuesto en el artículo 1.386 del Código Civil.
+
+Si, por aplicación de las reglas anteriores, resulta gravada en Chile una donación celebrada en el extranjero, el donatario podrá utilizar como crédito contra el impuesto a las donaciones que deba pagar en Chile el impuesto que gravó la donación y haya sido pagado en el extranjero. El exceso de crédito contra el impuesto que se deba pagar en Chile no dará derecho a devolución.
+
+Para los efectos de esta ley, se considerarán donaciones aquellos actos o contratos celebrados en el extranjero y que, independientemente de las formalidades o solemnidades exigidas en el respectivo país, cumpla lo dispuesto en el artículo 1.386 del Código Civil. Asimismo, sólo podrán imputarse en Chile como crédito aquellos impuestos pagados en el extranjero que tengan una naturaleza similar al impuesto establecido en esta ley.
+
+El crédito por los impuestos pagados en el extranjero se calculará de acuerdo a la paridad cambiaria entre la moneda nacional y la moneda extranjera correspondiente. Para efectos de la paridad cambiaria se estará a lo dispuesto en el párrafo segundo de la letra a) número 7 del artículo 41 A de la Ley sobre Impuesto a la Renta, contenida en el decreto ley 824 de 1974.
+
 #### Artículo 2
 
 º El impuesto se aplicará sobre el valor líquido de cada asignación o donación, con arreglo a la siguiente escala progresiva:
@@ -16872,7 +16880,7 @@ La cantidad que resulte del párrafo inmediatamente anterior sobre las asignacio
 
 La cantidad que resulte del párrafo inmediatamente anterior sobre las asignaciones de mil doscientas unidades tributarias anuales, y por la cantidad que exceda de esta suma, 25%.
 
-Las asignaciones por causa de muerte que correspondan al cónyuge y a cada ascendiente, o adoptante, o a cada hijo, o adoptado, o a la descendencia de ellos, o conviviente civil sobreviviente, estarán exentas de este impuesto en la parte que no exceda de cincuenta unidades tributarias anuales. Las donaciones que se efectúen a las personas señaladas estarán exentas de este impuesto en la parte que no exceda de cinco unidades tributarias anuales. En consecuencia, la escala a que se refiere el inciso primero de este artículo, se aplicará desde su primer tramo a las cantidades que excedan de los mínimos exentos.
+Las asignaciones por causa de muerte que correspondan al cónyuge y a cada ascendiente, o adoptante, o a cada hijo, o adoptado, o a la descendencia de ellos, o conviviente civil sobreviviente, estarán exentas de este impuesto en la parte que no exceda de cincuenta unidades tributarias anuales. Las donaciones que se efectúen a las personas señaladas estarán exentas de este impuesto en la parte que no exceda de cinco unidades tributarias anuales. En consecuencia, la escala a que se refiere el inciso primero de este artículo, se aplicará desde su primer tramo a las cantidades que excedan de los mínimos exentos. Con todo, si deferida la asignación y pagado efectivamente el impuesto, fallece el sobreviviente dentro del plazo de 5 años contado desde el fallecimiento del cónyuge o conviviente civil, la parte de los bienes del sobreviviente que corresponda a los legitimarios de ambos, que se deban afectar con el impuesto establecido en esta ley, estará exento del mismo respecto de tales legitimarios, hasta el valor equivalente en unidades tributarias mensuales a la parte de los bienes del primer causante que hayan pagado efectivamente el impuesto, sea que dicho pago se haya realizado dentro del plazo legal o vencido este.
 
 La unidad tributaria a que se refiere este artículo será la que rija al momento de la delación de la herencia o de la insinuación de la donación según el caso.
 
@@ -16881,6 +16889,8 @@ Cuando los asignatarios o donatarios tengan con el causante un parentesco colate
 Cuando los asignatarios o donatarios tengan con el causante o donante, respectivamente, un parentesco colateral de segundo tercero, o cuarto grado, se aplicará la escala indicada en el inciso primero recargada en un 20%, y el recargo será de un 40% si el parentesco entre el causante o donante y el asignatario o donatario fuere más lejano o no existiere parentesco alguno.
 
 El impuesto determinado de acuerdo con las normas de este artículo se expresará en unidades tributarias mensuales según su valor vigente a la fecha de la delación de la respectiva asignación o de la insinuación de la donación, y se pagará según su valor en pesos a la fecha en que se efectúe el pago del tributo. Las sumas que se hubieren pagado provisionalmente se expresarán en unidades tributarias mensuales según su valor vigente a la fecha de pago, para los efectos de imputarlas al monto del impuesto definitivo expresado también en unidades tributarias mensuales.
+
+Una vez determinado el impuesto a pagar por aplicación de las reglas generales, los asignatarios o donatarios que se encuentren inscritos en el Registro Nacional de Discapacidad tendrán derecho a una rebaja del 30% del monto del impuesto determinado, con un tope anual de 8.000 unidades de fomento.
 
 #### Artículo 3
 
@@ -16955,6 +16965,12 @@ Si el marido donare bienes de la sociedad conyugal, reservando del usufructo par
 #### Artículo 8
 
 º Cuando el gravamen conque se defiera una asignación o se haga una donación consista en un fideicomiso en favor de un tercero, se deducirá del acervo sujeto al pago del impuesto la mitad del valor de la cosa sobre la cual el fideicomiso se constituye.
+
+En caso de fallar la condición y se consolide la propiedad en el patrimonio del propietario fiduciario, este deberá sumar su valor y pagar el impuesto sobre el total de la cosa, a la fecha de la consolidación, con deducción de la suma o sumas de impuestos ya pagadas.
+
+Por el contrario, si se cumple la condición y se verifica la restitución a favor del fideicomisario, este deberá pagar el impuesto por el total del valor líquido de la cosa a la fecha de la restitución, con deducción de la suma o sumas ya pagadas por concepto de impuestos.
+
+Para los efectos de este artículo, la suma o sumas pagadas por concepto de impuesto en la constitución del fideicomiso serán convertidas a unidades tributarias mensuales a la fecha del referido pago y se imputarán contra el impuesto que se determine con motivo de consolidarse la propiedad o cumplirse la condición, según corresponda. Asimismo, el impuesto deberá pagarse dentro del plazo establecido en el artículo 50, contado desde que se consolide la propiedad o se cumpla la condición.
 
 #### Artículo 9
 
@@ -17044,6 +17060,12 @@ Cuando, a juicio del Servicio, la pensión pareciere excesiva, podrá pedir a la
 
 7. Las asignaciones hereditarias que cedan en favor de alguna de las entidades consideradas beneficiarias, para los efectos de la Ley de Donaciones con Fines Culturales, contenida en el articulo 8º de la ley Nº18.985, sea que ellas consistan en una cantidad de dinero, que se paguen de una sola vez o en forma periódica, o bien en especies.
 
+8.° Las donaciones que realicen las personas naturales con recursos que han cumplido su tributación conforme a la Ley sobre Impuesto a la Renta y destinadas a cualquier fin, hasta el 20% de su renta neta global a que se refiere el artículo 55 de la Ley sobre Impuesto a la Renta, o de las rentas del artículo 42 N° 1, en el caso de los contribuyentes del impuesto único de segunda categoría, correspondiente al año anterior a la donación. Para tales efectos, dentro de la base podrán considerar los ingresos no renta obtenidos el año comercial anterior sin perjuicio que el monto anual de esta exención no podrá superar el equivalente a 250 unidades tributarias mensuales determinadas al término del ejercicio comercial. En caso que estas donaciones se efectúen a los legitimarios en uno o varios ejercicios comerciales, todas las donaciones se acumularán en los términos del artículo 23 hasta por un lapso de 10 años comerciales, para cuyo efecto el legitimario deberá informar las donaciones conforme al siguiente inciso.
+
+Las donaciones efectuadas en el respectivo ejercicio deberán ser informadas, dentro de los dos meses siguientes al 31 de diciembre de cada año, mediante medios electrónicos en la forma que determine el Servicio de Impuestos Internos mediante resolución. El incumplimiento de este deber de información dentro del plazo señalado, importará la aplicación de una multa equivalente a una unidad tributaria anual por cada año o fracción de retraso en informar con tope de 6 unidades tributarias anuales.
+
+A falta de regla especial, las asignaciones y donaciones de que tratan los números 1, 2, 3, 6 y 8 de este artículo estarán liberadas del trámite de la insinuación. Asimismo, estarán liberadas del trámite de insinuación las donaciones efectuadas por sociedades anónimas abiertas, siempre que sean acordadas en junta de accionistas y se efectúen a entidades no relacionadas conforme al número 17 del artículo 8° del Código Tributario.
+
 #### Artículo 19
 
 Quedan derogadas todas las disposiciones legales que establezcan exenciones no contempladas en el artículo anterior.
@@ -17122,7 +17144,7 @@ Publicaciones e inscripciones
 
 #### Artículo 29
 
-Los Conservadores, en los cinco primeros días hábiles de cada mes, deberán enviar al Servicio, una nómina de las inscripciones de posesiones efectivas que hayan practicado en el mes anterior, indicando en ella el nombre del causante, la fecha de la inscripción y los nombres de los herederos.
+Los Conservadores, en los cinco primeros días hábiles de cada mes, deberán enviar al Servicio, una nómina de las inscripciones de posesiones efectivas que hayan practicado en el mes anterior, indicando en ella el nombre del causante, la fecha de la inscripción y los nombres de los herederos. Los conservadores deberán enviar electrónicamente dichas nóminas. El envío fuera de plazo será sancionado con la multa dispuesta en el artículo 70 de esta ley.
 
 #### Artículo 30
 
@@ -17192,7 +17214,7 @@ DE LOS VALORES EN CUSTODIA Y EN DEPOSITO
 
 Toda persona natural o jurídica que se ocupe habitualmente de dar en arriendo cajas de seguridad, cumplirá con las siguientes obligaciones:
 
-a) Presentar en los meses de enero y junio al Servicio, una declaración respecto a las cajas de seguridad arrendadas en sus oficinas o sucursales, indicando en ella el número de la caja y por orden alfabético, el nombre y apellido del arrendatario y su domicilio;
+a) Remitir anualmente, por medios electrónicos, información relativa a las cajas de seguridad, sea que las tenga arrendadas en Chile o en sus oficinas o sucursales en el extranjero, indicando en ella el número de la caja, rol único tributario, nombre y apellido o razón social del arrendatario;
 
 b) Llevar un repertorio alfabético en el que se anoten los mismos datos;
 
@@ -17276,7 +17298,9 @@ g) Los vehículos serán considerados por el valor de tasación vigente a la fec
 
 #### Artículo 46 bis
 
-Los bienes respecto de los cuales esta ley no establece regla de valoración, serán considerados en su valor corriente en plaza. Para el ejercicio de la facultad establecida en el artículo 64 del Código Tributario, el Servicio de Impuestos Internos deberá citar al contribuyente dentro de los sesenta días siguientes a la presentación de la declaración del impuesto o de la exención del mismo.
+Los bienes respecto de los cuales esta ley no establece regla de valoración, serán considerados en su valor corriente en plaza.
+
+En los casos en que los bienes se valoricen conforme con este artículo, el Servicio deberá proceder al giro inmediato del impuesto, con el sólo mérito de los antecedentes aportados en la declaración del mismo.
 
 > **Nota.** El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
@@ -17308,11 +17332,13 @@ DEL PAGO DEL IMPUESTO Y DE LAS GARANTIAS
 
 #### Artículo 50
 
-El impuesto deberá declararse y pagarse simultáneamente dentro del plazo de dos años, contado desde la fecha en que la asignación se defiera.
+El impuesto deberá declararse y pagarse simultáneamente dentro del plazo de dos años, contado desde la fecha en que la asignación se defiera. Para estos efectos, presentada la declaración del impuesto, y con el sólo mérito de los antecedentes presentados, el Servicio deberá proceder al giro inmediato del mismo, sin perjuicio de ejercer posteriormente sus facultades de fiscalización. En el caso del giro inmediato a que se refiere el artículo 46 bis, y dentro de los sesenta días siguientes de presentada la declaración, el Servicio podrá citar al contribuyente para ejercer la facultad establecida en el artículo 64 del Código Tributario, pudiendo liquidar y girar las diferencias que determine.
 
-Si el impuesto no se declarare y pagare dentro del plazo de dos años, se adeudará, después del segundo año, el interés penal indicado en el artículo 53 del Código Tributario.
+Si el impuesto no se declarare y pagare dentro del plazo de dos años, se adeudará, después del segundo año, el interés penal indicado en el artículo 53 del Código Tributario. Con todo, el pago del impuesto podrá diferirse en cuotas anuales pagaderas en tres años. Para tal efecto, los contribuyentes deberán, dentro del plazo señalado en el inciso primero de este artículo, presentar la solicitud de diferimiento del pago ante el Servicio, en cuyo caso se deberá aplicar el reajuste establecido en el inciso primero del artículo 53 del Código Tributario y el interés mensual del contemplado en el inciso tercero de dicho artículo sobre el monto reajustado. Las cuotas se contarán por años completos. El contribuyente que solicite esta modalidad no podrá solicitar la condonación de los intereses. Cada cuota de impuesto deberá pagarse, por cada asignatario, hasta el 31 de diciembre de cada año calendario, correspondiendo la primera cuota al año en que se resuelve la solicitud. Si uno o más herederos no paga cualquiera de las anualidades dentro de la fecha indicada, el o los herederos que no pagaron las anualidades señaladas deberán pagar el impuesto insoluto hasta el 30 de marzo del año calendario siguiente al incumplimiento.
 
 Estos intereses no se aplicarán a aquellos interesados que paguen dentro del plazo el impuesto correspondiente a sus asignaciones.
+
+En caso de cesión del derecho real de herencia, el cesionario será responsable, conforme a las reglas generales, por la declaración y pago del impuesto de no haberse efectuado previamente por el cedente.
 
 > **Nota.** El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
@@ -17334,7 +17360,9 @@ Cuando se ejercite este derecho y el monto de la contribución aproximada sea in
 
 #### Artículo 52
 
-La declaración y pago del impuesto a las donaciones deberá efectuarla el donatario. El tribunal no podrá autorizar la donación en tanto no se acredite el pago del impuesto. Tratándose de donaciones liberadas del trámite de la insinuación, el impuesto deberá pagarse dentro del mes siguiente a aquel en que se perfeccione el respectivo contrato.
+La declaración y pago del impuesto a las donaciones deberá efectuarla el donatario. El tribunal no podrá autorizar la donación en tanto no se acredite el pago del impuesto. Tratándose de donaciones liberadas del trámite de la insinuación, el impuesto deberá pagarse dentro del mes siguiente a aquel en que se perfeccione el respectivo contrato. Para estos efectos, presentado el escrito sobre autorización judicial de una donación que deba insinuarse, el donatario podrá presentar su declaración de impuesto, debiendo el Servicio proceder al giro inmediato del mismo.
+
+En caso que el donatario pague el impuesto y, en definitiva, el juez no autorice la donación, o autorizada la misma no se realice, el donatario podrá solicitar su restitución conforme lo dispuesto en el artículo 126 del Código Tributario.
 
 > **Nota.** El artículo 23 de la LEY 19903, publicada el 10.10.2003, dispone que comenzará a regir seis meses después de su publicación.
 
@@ -17358,7 +17386,7 @@ Se exceptuarán de lo dispuesto en este artículo, las escrituras de partición 
 
 El pago de impuesto podrá garantizarse con depósitos en dinero a la orden judicial, prenda sobre valores mobiliarios, fianza hipotecaria o primera hipoteca. Podrá aceptarse segunda hipoteca si el primer acreedor fuera alguna institución hipotecaria, regida por la ley de 29 de agosto de 1855, y la deuda esté al día. Podrán aceptarse, también, otras garantías calificadas por el Servicio.
 
-Dentro de los cinco días siguientes al otorgamiento de toda escritura pública, sobre garantía del impuesto de herencia, el notario respectivo deberá enviar al Servicio una copia autorizada de ella en papel simple, la cual tendrá el valor de primera copia para todos los efectos legales.
+Dentro de los cinco días siguientes al otorgamiento de toda escritura pública, sobre garantía del impuesto de herencia, el notario respectivo deberá enviar al Servicio de manera electrónica los datos que este señale mediante resolución.
 
 Igual obligación tendrán los Conservadores respecto de las inscripciones que practiquen de esas escrituras.
 
@@ -17382,7 +17410,7 @@ Los herederos, los árbitros partidores y los albaceas con tenencia de bienes, e
 
 #### Artículo 60
 
-La declaración y pago simultáneo de los impuestos que establece esta ley se hará de conformidad a las normas que fije el Servicio de Impuestos Internos, pudiendo, incluso, determinar que respecto de asignaciones o donaciones que estuvieren exentas de impuesto, no se presente la declaración.
+La declaración y pago simultáneo de los impuestos que establece esta ley se hará de conformidad a las normas que fije el Servicio de Impuestos Internos, pudiendo, incluso, determinar que respecto de asignaciones o donaciones que estuvieren exentas de impuesto, no se presente la declaración. El Servicio pondrá a disposición de los contribuyentes los medios tecnológicos necesarios a fin que declaren y paguen los impuestos establecidos en esta ley, así como para cumplir las diversas obligaciones de informar. Al efecto, se habilitará una carpeta tributaria electrónica en el sitio personal del contribuyente.
 
 Asimismo, el Servicio de Impuestos Internos establecerá la forma en que se acreditará el pago del impuesto o la circunstancia de resultar exento, para todos los efectos legales.
 
@@ -17416,11 +17444,11 @@ La liquidación del impuesto conforme a este artículo no importará un pronunci
 
 #### Artículo 64
 
-Las personas que figuren como partes en los actos o contratos a que se refieren los artículos precedentes de este capítulo, a quienes se les compruebe una actuación dolosa encaminada a burlar el impuesto y aquellas que, a sabiendas, se aprovechen del dolo, serán sancionadas de acuerdo con el N.º 4º del artículo 97 del Código Tributario.
+Las personas que figuren como partes en los actos o contratos a que se refieren los artículos precedentes de este capítulo, a quienes se les compruebe una actuación dolosa encaminada a burlar el impuesto y aquellas que, a sabiendas, se aprovechen del dolo, serán sancionadas de acuerdo con el N.º 4º del inciso primero del artículo 97 del Código Tributario.
 
 Serán solidariamente responsables del pago del impuesto y de las sanciones pecuniarias que correspondan, todas las personas que hayan intervenido dolosamente como partes en el respectivo acto o contrato.
 
-Si con motivo de las investigaciones que el Servicio practique en cumplimiento de las disposiciones precedentes, se probare la intervención dolosa de algún profesional, será sancionado con las mismas penas, sean ellas pecuniarias o corporales, que procedan en contra de las partes del respectivo acto o contrato.
+Si con motivo de la recopilación de antecedentes que el Servicio practique en cumplimiento de las disposiciones precedentes, se probare la intervención dolosa de algún profesional, será sancionado con las mismas penas, sean ellas pecuniarias o corporales, que procedan en contra de las partes del respectivo acto o contrato.
 
 INCISO DEROGADO
 

@@ -74,11 +74,7 @@ La persona que, teniendo la patria potestad de un hijo o la guarda de otra, quie
 
 #### Artículo 11
 
-Cuando un acuerdo de unión civil haya expirado, la mujer que está embarazada no podrá contraer matrimonio con un varón distinto ni celebrar un nuevo acuerdo antes del parto, o, no habiendo señales de preñez, antes de cumplirse los doscientos setenta días subsiguientes a la expiración del acuerdo.
-
-Pero se podrán rebajar de este plazo todos los días que hayan precedido inmediatamente a dicha expiración y en los cuales haya sido absolutamente imposible el acceso del conviviente varón a la mujer.
-
-El oficial del Registro Civil correspondiente no permitirá la celebración del matrimonio o del nuevo acuerdo sin que por parte de la mujer se justifique no estar comprendida en el impedimento precedente.
+Derogado.
 
 ## Título III
 
@@ -158,7 +154,7 @@ El conviviente civil tendrá legitimación activa para reclamar las indemnizacio
 
 #### Artículo 21
 
-Para efectos de la presunción de paternidad, en caso de convivientes civiles de distinto sexo se estará a las normas que la regulan en el artículo 184 del Código Civil.
+Para efectos de la presunción de paternidad, en caso de convivientes civiles de distinto sexo se estará a las normas que la regulan en el artículo 184 del Código Civil. Lo anterior también se aplicará tratándose de acuerdos de unión civil sucesivos, de matrimonio seguido de acuerdo de unión civil y de acuerdo de unión civil seguido de matrimonio.
 
 ## Título V
 
