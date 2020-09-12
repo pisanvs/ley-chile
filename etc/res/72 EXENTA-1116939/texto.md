@@ -58,7 +58,7 @@ Fíjase el siguiente procedimiento para el otorgamiento del auspicio necesario p
 
 4. Tratándose de un espectáculo o reunión o de la programación de una serie de espectáculos o reuniones, que se desarrollen en dos o más regiones del país, la solicitud deberá ser presentada ante la Subsecretaría de las Culturas y las Artes. Del mismo modo, será facultad de la Subsecretaría de las Culturas y las Artes otorgar el auspicio para los espectáculos y reuniones artísticas, culturales, teatrales, musicales o poéticas, de danza, u otras equivalentes que organice y patrocine el Ministerio de las Culturas, las Artes y el Patrimonio.
 
-5. La presentación de la solicitud de auspicio, deberá efectuarse con una antelación mínima de veinte días hábiles a la fecha de la realización del espectáculo o reunión. Para el caso de espectáculos o reuniones a realizarse en diversas regiones del país, dicho plazo será computado respecto de la primera de las presentaciones que se llevará a cabo en el territorio nacional. En el caso que la solicitud corresponda a la programación de una serie de espectáculos o reuniones, el plazo se computará respecto de la primera de ellas que se ejecute en el territorio nacional,
+5. La presentación de la solicitud de auspicio podrá efectuarse hasta el día de realización del evento o espectáculo inclusive, en la medida que se haga con anterioridad a su realización. Para el caso de espectáculos o reuniones a realizarse en diversas regiones del país, dicho plazo será computado respecto de la primera de las presentaciones que se llevará a cabo en el territorio nacional. En el caso que la solicitud corresponda a la programación de una serie de espectáculos o reuniones, el plazo se computará respecto de la primera de ellas que se ejecute en el territorio nacional.
 
 6. En las Secretarías Regionales Ministeriales de las Culturas, las Artes y el Patrimonio y en la Subsecretaría de las Culturas y las Artes existirán formularios que consignarán los requisitos y documentación que deberán cumplir y acompañar los peticionarios, de acuerdo a lo establecido en la presente resolución y a la naturaleza de los respectivos espectáculos o reuniones. Dichos formularios como mínimo deberán contener la Información sobre:
 
@@ -86,9 +86,17 @@ k) Constancia del poder de representación de quien firma a nombre de la entidad
 
 7. Para el otorgamiento del auspicio de que trata la presente resolución, el Secretario Regional Ministerial de las Culturas, las Artes y el Patrimonio o el Subsecretario de las Culturas y las Artes, según corresponda, deberá considerar los criterios contemplados en el artículo primero y segundo del presente acto administrativo.
 
-8. El respectivo Secretario Regional Ministerial de las Culturas, las Artes y el Patrimonio o el Subsecretario de las Culturas y las Artes, según corresponda, con los antecedentes recibidos y revisados conforme al formulario a que se refiere el numeral 6, evaluará la solicitud de auspicio, debiendo emitir la resolución fundada que lo confiere o rechace, con una anticipación mínima de dos días hábiles a la fecha de realización informada en la solicitud, del espectáculo o reunión.
+8. El respectivo Secretario Regional Ministerial de las Culturas, las Artes y el Patrimonio o el Subsecretario de las Culturas y las Artes, según corresponda, una vez recibida la solicitud y sus antecedentes, gozará del plazo de 10 días hábiles para resolver fundadamente la solicitud, ya sea acogiéndola o rechazándola.
+
+Si durante el período de examen de la solicitud, la autoridad detecta errores u omisiones respecto de algún antecedente formal, en los términos señalados en los numerales anteriores, deberá indicárselo al solicitante mediante un acto de comunicación formal, suscrito por la Jefa de Gabinete del Subsecretario de las Culturas y las Artes, en el medio de notificación que el solicitante haya dispuesto al efecto en el formulario de solicitud de auspicio.
+
+Una vez notificado, el solicitante gozará del plazo de cinco días hábiles para subsanar los errores denunciados por la autoridad. Una vez subsanados los errores, o transcurrido el plazo sin que el solicitante los haya subsanado, la autoridad gozará de 10 días hábiles para resolver definitivamente la solicitud.
+
+Sin perjuicio de la facultad de la autoridad para solicitar la complementación de antecedentes formales en cada solicitud, la responsabilidad del cumplimiento de cada uno de los requisitos para el otorgamiento del auspicio contenido en esta resolución radica esencialmente en cada solicitante.
 
 9. El Subsecretario de las Culturas y las Artes emitirá un reporte anual sobre los auspicios otorgados de conformidad a lo señalado en la presente resolución, el que deberá remitir al Ministro de las Culturas, las Artes y el Patrimonio, al Subsecretario de Hacienda, a las Comisiones de Hacienda y de Educación y Cultura del Senado y a las Comisiones de Hacienda y de Educación de la Cámara de Diputados.
+
+> **Nota.** Los artículos primero y cuarto de la Resolución 1320 exenta, Cultura, publicada el 12.09.2020, establecen que las modificaciones realizadas a los numerales 5 y 8 del presente artículo sólo serán aplicables mientras se encuentre vigente el decreto Nº 4, de 2020, Salud, que declara alerta sanitaria.
 
 #### Artículo tercero
 
