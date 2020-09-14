@@ -332,7 +332,7 @@ Para tales efectos, dichos montos serán determinados al 31 de octubre de 2019, 
 
 Asimismo, la contabilización de Saldos deberá adicionar la suma total de las Diferencias por Compras del correspondiente Contrato para una ventana de tiempo de 6 meses correspondiente al mismo semestre del año anterior al de la vigencia de la respectiva fijación tarifaria. Aquellas serán determinadas por el Coordinador de conformidad a lo dispuesto en el artículo 17° de la resolución N° 703, ajustadas a una misma base monetaria conforme las variaciones mensuales del IPC y convertidos en dólares de acuerdo al tipo de cambio establecido en el artículo 6° de la resolución N° 703.
 
-La contabilización de Saldos de cada Contrato deberá descontar el pago de Saldos producto de lo dispuesto en el artículo 18, convertido en dólares de acuerdo al promedio mensual del dólar observado de los Estados Unidos de América del respectivo mes de facturación publicado por el Banco Central de Chile.
+La contabilización de Saldos de cada Contrato deberá descontar el pago de Saldos producto de lo dispuesto en el Artículo 18, convertido en dólares de acuerdo con el dólar observado de los Estados Unidos de América publicado por el Banco Central de Chile del sexto día hábil siguiente al día de publicación del Cuadro de Pago de Saldos referido en el inciso tercero del artículo 18.
 
 Los decretos PNP semestrales deberán detallar: i) los Saldos totales acumulados de cada Contrato, y; ii) los Saldos generados en el periodo semestral anterior. En ambos casos, los montos se informarán en dólares de los Estados Unidos de América, identificando la Distribuidora y el Suministrador del respectivo contrato.
 
@@ -428,7 +428,7 @@ En caso que la suma total de los balances positivos sea igual o superior a la su
 
 #### Artículo 18°
 
-En caso de que el resultado de los balances definido de acuerdo al artículo 17 muestre la existencia de un Excedente Semestral de las Distribuidoras, un monto equivalente a dicho excedente será pagado al conjunto de Suministradores que cuenten con Saldos según el registro señalado en el artículo 13, a prorrata del monto de Saldos de cada Suministrador, por parte de las Distribuidoras de sus correspondientes contratos.
+En caso de que el resultado de los balances definido de acuerdo al artículo 17 muestre la existencia de un Excedente Semestral de las Distribuidoras, un monto equivalente a dicho excedente será pagado al conjunto de Suministradores que cuenten con Saldos según el registro señalado en el artículo 13, a prorrata del monto de Saldos de cada Suministrador, por parte de las Distribuidoras de sus correspondientes contratos. El pago de cada Suministrador de acuerdo a lo señalado anteriormente deberá irse imputando al pago de Saldos de manera cronológica, pagándose de los Saldos más antiguos a los más nuevos.
 
 Para tales efectos, el informe técnico determinará en excedente de cada Distribuidora como la porción en la que contribuye cada Distribuidora en el Excedente Semestral de las Distribuidoras. Cada Distribuidora deberá transferir su excedente entre las distintas Distribuidoras, a prorrata del Saldo total adeudado por éstas.
 
