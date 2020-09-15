@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº653, de 05 de agosto de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL MOP Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 125 y 126, para la obra: MEJORAMIENTO RUTA L-32, SECTOR PUENTE MARIMAURA - CRUCE RUTA 126, que figuran a nombre de BAZAN DEL CAMPO LUIS D, rol de avalúo 269-85, comuna de SAN JAVIER, REGION DEL MAULE, superficies 5.549 y 1.752 m2 respectivamente. La Comisión de Peritos integrada por ALICIA BARBARA FLORES PACHECO, GABRIEL ANTONIO PANTOJA RIVERA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 07 de octubre de 2019, fijó el monto de la indemnización provisional en la cantidad de $16.390.500 para el lote Nº 125, y $5.005.000 para el lote Nº 126. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
