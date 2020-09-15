@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº605, de 27 de julio de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL MOP Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP Nº206 de 1960, se expropió el lote de terreno Nº 42, para la obra: MEJORAMIENTO CAMINO BASICO INTERMEDIO H-721, I-111 PELEQUEN-POLONIA, que figura a nombre de VALDES TOLEDO JUAN FRANCISCO, rol de avalúo 277-225, comuna de SAN FERNANDO, REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficie 269 m2. La Comisión de Peritos integrada por ANDRES RAINER SCHULZ VILLANUEVA, ALEJANDRO GREGORIO PADILLA HENRIQUEZ y MARLENE TERESA RÍOS MARCUELLO, mediante informe de tasación de 09 de febrero de 2017, fijó el monto de la indemnización provisional en la cantidad de $3.090.000 para el lote Nº42. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
