@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.636, de fecha 21 de agosto de 2020, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado lote Nº666-135, correspondiente al inmueble ubicado en Pje. Socoroma 505 Block B DP 21 V Parinacota, Rol de Avalúo Nº 666-135, de la comuna de Quilicura, Región Metropolitana, de aparente dominio de Fernández Rojas Yesica Alejandra, con una superficie aproximada de 43,12 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Habilitación de terrenos, población Parinacota, comuna de Quilicura". La comisión de peritos integrada por los señores Andrés Schulz Villanueva, arquitecto; Jesús Díaz Pasmiño, ingeniero civil y Gabriel Pantoja Rivera, ingeniero agrónomo, mediante informe de fecha 29 de mayo de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $21.234.037, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
