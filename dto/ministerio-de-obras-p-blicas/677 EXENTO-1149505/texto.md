@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 677, de 13 de agosto de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropió el lote de terreno N° 308-D, para la obra: AMPLIACIÓN REPOSICIÓN RUTA V-85, SECTOR: HUITO - CALBUCO, que figura a nombre de ALVARADO VARGAS JULIA Y OTROS, rol de avalúo 173-132, Comuna de CALBUCO, REGIÓN DE LOS LAGOS, superficie 1.768 m2. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, PATRICIA ANGÉLICA MORALES RIVERA y ANDRÉS ECHEVERRÍA CAMPO, mediante informe de tasación de 15 de febrero de 2019, fijó el monto de la indemnización provisional en la cantidad de $111.027.000, para el lote N° 308-D. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
