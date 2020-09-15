@@ -1,0 +1,9 @@
+NOTIFICACIÓN RESOLUCIÓN Nº 51 EXENTA, DE FECHA 25 DE AGOSTO DE 2020, QUE RESUELVE LA SOLICITUD DE INVALIDACIÓN ADMINISTRATIVA PRESENTADA EN CONTRA LA RESOLUCIÓN Nº 19 EXENTA, DE FECHA 28 DE MAYO DE 2019, DE LA COMISIÓN DE EVALUACIÓN DE LA REGIÓN DE LOS RÍOS, QUE CALIFICA AMBIENTALMENTE FAVORABLE EL PROYECTO "HACIENDA ESTANCILLA"
+
+De conformidad con lo dispuesto en los artículos 45 y 48 letra c) de la Ley Nº 19.880 que "Establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado", se comunica que mediante resolución exenta Nº 51 de fecha 25 de agosto de 2020, la Comisión de Evaluación de la Región de Los Ríos, resolvió rechazar la solicitud de invalidación presentada por el señor Ricardo Hernández Medina, por sí y en representación de la Junta de Vecinos Torobayo y otros, en contra la resolución exenta Nº 19, de fecha 28 de mayo de 2019, de la Comisión de Evaluación de la Región de Los Ríos, que califica ambientalmente favorable la Declaración de Impacto Ambiental del Proyecto "Hacienda Estancilla", del Titular Inmobiliaria Hacienda Cau Cau S.A.
+
+El texto íntegro de la resolución antes singularizada, se encuentra disponible en el expediente administrativo de evaluación ambiental del Proyecto "Hacienda Estancilla", al cual se puede acceder por medio del sitio web: < www.sea.gob.cl <; o bien, directamente por medio del siguiente enlace: < https://bit.ly/32a9Zds <.
+
+Se hace presente que contra la resolución exenta Nº 51, de fecha 25 de agosto de 2020, se podrá deducir los recursos contemplados en la ley Nº 19.880, sin perjuicio de las demás formas de revisión de los actos administrativos establecidos en la ley.-
+
+Karina Bastidas Torlaschi, Directora Regional, Servicio de Evaluación Ambiental, Secretaria de la Comisión de Evaluación Región de Los Ríos.
