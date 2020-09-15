@@ -14,8 +14,6 @@ Decreto:
 
 - Don José Francisco Moreno Guzmán, RUT Nº 13.241.766-0, Subsecretario de Hacienda, como Gobernador Suplente por Chile ante el Banco Interamericano de Desarrollo y la Corporación Interamericana de Inversiones.
 
-- Don Rodrigo Andrés Cerda Norambuena, RUT Nº 12.454.621-4, Director de Presupuestos, como Gobernador Suplente por Chile ante el Banco Internacional de Reconstrucción y Fomento.
-
 2.- Deróganse los decretos supremos de Hacienda Nº 462, de 2014; Nº 637, de 2015; y Nº 1.255, de 2017.
 
 3.- Por razones impostergables de buen servicio, las personas que se designan deberán asumir sus funciones en la fecha que se señala, sin esperar la total tramitación del presente decreto.
