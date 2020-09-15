@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.630, de fecha 21 de agosto de 2020, se ordenó la expropiación Total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 666-123, correspondiente al inmueble ubicado en Pje. Socoroma 505 Block A DP 21 V Parinacota, Rol de Avalúo N° 666-123, de la Comuna de Quilicura, Región Metropolitana, de aparente dominio de Mesa Gálvez Luzmenia del Carmen, con una superficie aproximada de 43,63 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Habilitación de Terrenos, Población Parinacota, Comuna de Quilicura". La Comisión de Peritos integrada por los señores Andrés Schulz Villanueva, Arquitecto; Jesús Díaz Pasmiño, Ingeniero Civil y Gabriel Pantoja Rivera, Ingeniero Agrónomo, mediante Informe de fecha 29 de mayo de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $21.366.109, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
