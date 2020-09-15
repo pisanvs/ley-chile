@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.644, de fecha 21 de agosto de 2020, se ordenó la expropiación total, conforme a las normas del decreto Ley Nº 2.186 de 1978, del denominado Lote Nº 668-242, correspondiente al inmueble ubicado en Sn Luis 540 Block A DP 12V Parinacota, Rol de Avalúo Nº 668-242, de la Comuna de Quilicura, Región Metropolitana, de aparente dominio de López Molina Hugo Iván, con una superficie aproximada de 43,12 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Habilitación de Terrenos, Población Parinacota, Comuna de Quilicura". La Comisión de Peritos integrada por los señores Andrés Schulz Villanueva, Arquitecto; Jesús Díaz Pasmiño, Ingeniero Civil y Gabriel Pantoja Rivera, Ingeniero Agrónomo, mediante Informe de fecha 29 de mayo de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $18.784.558, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto Ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
