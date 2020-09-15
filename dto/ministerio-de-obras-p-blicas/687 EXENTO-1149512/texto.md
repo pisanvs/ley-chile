@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 687, de 13 de agosto de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 339-A y 341, para la obra: AMPLIACION REPOSICION RUTA V-85, SECTOR: HUITO - CALBUCO, que figuran a nombre de EVENS MONEVA KARINA SOLANGE y GERMONT SA, roles de avalúo 167-139 y 167-48, Comuna de CALBUCO, REGIÓN DE LOS LAGOS, superficies 101 y 23.648 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, PATRICIA ANGÉLICA MORALES RIVERA y ANDRÉS ECHEVERRÍA CAMPO, mediante informe de tasación de 16 de mayo de 2019, fijó el monto de la indemnización provisional en la cantidad de $600.100, para el lote N° 339-A y $77.920.160, para el lote N° 341. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
