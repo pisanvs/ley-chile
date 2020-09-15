@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 1.883, del 4 de septiembre de 2020, Serviu Región del Biobío ordenó expropiación parcial de inmueble ubicado en Av. Ignacio Collao 1683 LT 4 C Cam Bulnes, Rol de Avalúo N° 320-28, comuna de Concepción, de aparente dominio de Mario Patricio Muñoz Montecinos Ser. De. La superficie afecta a expropiación parcial de terreno es 139,48 m2 y 5,76 m2 total de edificación (a), conforme a plano de expropiación S8R-38828-M, para la ejecución de la obra "Mejoramiento Avenida Par Vial Collao - General Novoa", comuna de Concepción, conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Andrés Javier Tobar Beluzán, por el arquitecto Ricardo Pedro Conrado Echeverría Hohmann y por arquitecto Victoria Eugenia García Silvera, según informe de fecha 18.06.2020, que fijó monto provisional en $26.343.630.-, pagadero de contado.-
+
+Director Subrogante Serviu Región del Biobío.
