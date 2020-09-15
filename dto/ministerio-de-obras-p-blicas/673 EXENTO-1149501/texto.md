@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 673, de 13 de agosto de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 48 y 50, para la obra: REPOSICION RUTA 181-CH CURACAUTIN - MALALCAHUELLO, que figuran a nombre de AGUIRRE SIMUNOVIC ALVARO GONZALO y AGUIRRE SIMUNOVIC ANDREA ALICIA, roles de avalúo 206-282 y 206-225, comuna de CURACAUTIN, REGION DE LA ARAUCANÍA, superficies 3.343 y 1.084 m2 respectivamente. La Comisión de Peritos integrada por CLAUDIO HERNAN ANGULO SOTOMAYOR, EVALDO ROBERTO CONTRERAS ROA, y PABLO ALEX MANSILLA ARAVENA, mediante informes de tasación de fecha 9 de noviembre de 2018, fijó el monto de las indemnizaciones provisionales en las cantidades de $29.747.500.- para el lote Nº48, y $9.980.000.- para el lote Nº50. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2.186, de 1978.
+
+Fiscalía MOP.
