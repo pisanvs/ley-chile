@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº676, de 13 de agosto de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 291, 292 y 296, para la obra: AMPLIACION REPOSICION RUTA V-85, SECTOR: HUITO - CALBUCO, que figuran a nombre de CABERO VARGAS CARLOS, CABERO VARGAS CARLOS e INVERSIONES TULPEBLUME SPA., roles de avalúo 165-51, 165-51 y 751-4, Comuna de CALBUCO, REGIÓN DE LOS LAGOS, superficies 92, 174 y 1.523 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, PATRICIA ANGELICA MORALES RIVERA y ANDRES ECHEVERRIA CAMPO, mediante informe de tasación de 22 de febrero de 2019, fijó el monto de la indemnización provisional en la cantidad de $2.294.200, para el lote Nº291, $2.810.154, para el lote Nº292 y $6.518.320, para el lote Nº296. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
