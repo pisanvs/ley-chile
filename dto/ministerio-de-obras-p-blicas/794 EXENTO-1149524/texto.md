@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 794, de 2 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c) y 14º letra e) del DFL, MOP. Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº 206 de 1960; artículo 10 de la Ley Nº 18.772, se expropió para la EMPRESA DE TRANSPORTE DE PASAJEROS METRO S.A, el lote de terreno Nº 58L7, para la obra: PROYECTO LÍNEA 7 METRO S.A., que figura a nombre de BCO DE CHILE, rol de avalúo 25-48, Comuna de PROVIDENCIA, REGION METROPOLITANA DE SANTIAGO, superficie 235,38 m2. La Comisión de Peritos integrada por CARLOS ALBERTO MONTECINOS GALLEGUILLOS, MARIA IGNACIA LARENAS CASSONE y VICTORIA ADRIANA BLANCO COSTA, mediante informe de tasación de fecha 27 de julio de 2020, fijó el monto de la indemnización provisional en la cantidad de $2.633.044.580.- para el lote Nº58L7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
