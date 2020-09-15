@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.674, de fecha 21 de agosto de 2020, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 668-264, correspondiente al inmueble ubicado en Sn Luis 540 Block B Dp 34 V Parinacota, Rol de Avalúo Nº 668-264, de la comuna de Quilicura, Región Metropolitana, de aparente dominio de Videla Gatica Claudia Andrea de las, con una superficie aproximada de 43,12 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Habilitación de Terrenos, Población Parinacota, comuna de Quilicura". La Comisión de Peritos integrada por los señores Constanza González Vergara, Arquitecto; Vilma Espinoza Zapatel, Ingeniero Civil y Mónica Conejeros Rudloff, Ingeniero Agrónomo, mediante Informe de fecha 31 de mayo de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $18.634.558, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
