@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº675, de 13 de agosto de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 318-A, para la obra: AMPLIACION REPOSICION RUTA V-85, SECTOR: HUITO - CALBUCO, que figura a nombre de CABERO ALMONACID JOSE, rol de avalúo 173-30, Comuna de CALBUCO, REGIÓN DE LOS LAGOS, superficie 485 m2. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, PATRICIA ANGELICA MORALES RIVERA y ANDRES ECHEVERRIA CAMPO, mediante informe de tasación de 09 de febrero de 2019, fijó el monto de la indemnización provisional en la cantidad de $71.416.000, para el lote Nº318-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
