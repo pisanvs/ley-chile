@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.638, de fecha 21 de agosto de 2020, se ordenó la expropiación Total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 668-249, correspondiente al inmueble ubicado en San Luis 540 A dp 23 V Parinacota, Rol de Avalúo N° 668-249, de la Comuna de Quilicura, Región Metropolitana, de aparente dominio de Vergara Zuniga Luisa Del Carmen, con una superficie aproximada de 43,12 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Habilitación de Terrenos, Población Parinacota, Comuna de Quilicura". La comisión de peritos integrada por los señores Constanza González Vergara, Arquitecto; Vilma Espinoza Zapatel, Ingeniero Civil y Mónica Conejeros Rudloff, Ingeniero Agrónomo, mediante Informe de fecha 31 de mayo de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $20.284.558, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
