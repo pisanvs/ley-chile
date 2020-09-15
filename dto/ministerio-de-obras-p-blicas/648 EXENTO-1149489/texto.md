@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº648, de 05 de agosto de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL MOP Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL MOP Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 436, 437 y 438, para la obra: REPOSICION PAVIMENTO RUTA L-111-11, SECTOR COLBUN-PANIMAVIDA -LINARES, que figura a nombre de BASOALTO AGURTO HUGO Y OTRO, JONES HADDAD ADOLFO ESTEBAN y VALDES PALMA CLAUDIO MIGUEL, roles de avalúo 547-8, 547-73 y 540-355, comuna de LINARES, REGION DEL MAULE, superficies 153, 157 y 347 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 09 de octubre de 2019, fijó el monto de la indemnización provisional en la cantidad de $2.777.300 para el lote Nº436, $1.507.180 para el lote Nº437, y $3.819.280 para el lote Nº438. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2.186, de 1978.
+
+Fiscalía.
