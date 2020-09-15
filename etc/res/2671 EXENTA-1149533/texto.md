@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.671, de fecha 21 de agosto de 2020, se ordenó la expropiación total. conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote N° 668-248, correspondiente al inmueble ubicado en Sn. Luis 540 Bock A DP 14V Parinacota, Rol de Avalúo Nº 668-248, de la comuna de Quilicura, Región Metropolitana, de aparente dominio de Durán Sepúlveda Julia del Carmen, con una superficie aproximada de 43,63 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Habilitación de terrenos, Población Parinacota, comuna de Quilicura". La comisión de peritos integrada por los señores Constanza González Vergara, arquitecto; Vilma Espinoza Zapatel, ingeniero civil y Mónica Conejeros Rudloff, ingeniero agrónomo, mediante informe de fecha 31 de mayo de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $19.048.429, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
