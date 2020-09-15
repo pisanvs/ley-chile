@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº609, de 27 de julio de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c). 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.1 y 2, para la obra: REPOSICION PUENTE DUQUECO, que figuran a nombre de VELASQUEZ ANTONACOS CARLOS ALEXI Y, roles de avalúo 531-1, Comuna de QUILLECO, REGION DEL BIOBIO, superficies 52 y 403 m2 respectivamente. La Comisión de Peritos integrada por CONSUELO LORETO ZULOAGA SANHUEZA, GONZALO ANDRÉS SUAZO FIGUEROA y MARIA PAMELA MAC-GUIRE ACEVEDO, mediante informe de tasación de 05 de noviembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $113.404 para el lote Nº1, y $706.290 para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
