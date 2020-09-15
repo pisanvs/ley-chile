@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº647, de 05 de agosto de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 27, 27-A y 30, para la obra: MEJORAMIENTO RUTA L-45, SECTOR EL PEÑASCO-RETEN LOS HUALLES, que figuran a nombre de REYES VILLAR BENICIO, rol de avalúo 557-81, comuna de LINARES, REGION DEL MAULE, superficies 1.687, 242 y 61 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 16 de agosto de 2019, fijó el monto de la indemnización provisional en la cantidad de $11.099.630 para el lote Nº27, $2.407.580 para el lote Nº27-A, y $407.390 para el lote Nº30. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2.186, de 1978.
+
+Fiscalía MOP.
