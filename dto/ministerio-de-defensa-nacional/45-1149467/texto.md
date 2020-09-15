@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 45, de 25 de febrero de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Pesquera Friosur S.A., RUT 86.577.500-8, concesión marítima menor con uso de Mejora Fiscal, con vencimiento al 31 de diciembre del año 2024, sobre un sector de terreno de playa, playa, fondo de mar y uso de mejora fiscal, en el lugar denominado Bahía de Chacabuco, comuna y provincia de Aysén, Región de Aysén del General Carlos Ibáñez del Campo, con una superficie total de 77,67 m2., la que fue tramitada con el SIABC N° 32.667. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 45°27'41,59" - 72°49'27,58". El objeto consiste en amparar la instalación existente de una cañería aductora de agua de mar y una sala de bombas. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Chacabuco. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Felipe Zambrano Irribarra, Capitán de Corbeta LT, Capitán de Puerto Chacabuco.
