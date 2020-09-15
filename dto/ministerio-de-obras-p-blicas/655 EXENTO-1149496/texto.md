@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°655, de 05 de agosto de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP Nº206 de 1960, se expropió el lote de terreno Nº 112, para la obra: MEJORAMIENTO RUTA L-32, SECTOR PUENTE MARIMAURA – CRUCE RUTA 126, que figura a nombre de QUIERO ZUNIGA ROSALIA E, rol de avalúo 276-56, comuna de SAN JAVIER, REGION DEL MAULE, superficie 710 m2. La Comisión de Peritos integrada por ALICIA BARBARA FLORES PACHECO, GABRIEL ANTONIO PANTOJA RIVERA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 28 de octubre de 2019, fijó el monto de la indemnización provisional en la cantidad de $3.994.500 para el lote Nº 112. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2.186, de 1978.
+
+Fiscalía MOP.
