@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°688, de 13 de agosto de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL MOP Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 48 y 49 para la obra: MEJORAMIENTO RUTA L-45, SECTOR EL PEÑASCO-RETEN LOS HUALLES, que figuran a nombre de CASTRO LABRA JULIO ISIDRO, rol de avalúo 557-60, comuna de LINARES, REGION DEL MAULE, superficies 237 y 78 m2 respectivamente. La Comisión de Peritos integrada por ALICIA BARBARA FLORES PACHECO, GABRIEL ANTONIO PANTOJA RIVERA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 30 de diciembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $1.134.600 para el lote Nº48, y $261.400 para el lote Nº49. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
