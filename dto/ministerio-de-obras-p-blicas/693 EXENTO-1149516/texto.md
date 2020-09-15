@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) N°693, de 13 de agosto de 2020 y en base a la facultad otorgada por los artículos 3° letra a), 10 letra c), 14 letra e) y 105 del D.F.L. M.O.P. N°850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP N°206, de 1960, se expropiaron los lotes de terreno N°s. 36 y 37, para la obra: "Mejoramiento Ruta F-50, Sector Lo Orozco - Quilpue, Tramo 1: Km. 0,00000 a Km. 11,90000", que figuran a nombre de SOCIEDAD AGRICOLA DON MANUEL, rol de avalúo 177-143, Comuna de Casablanca, Región de Valparaíso, superficies 159 y 3.699 m2. respectivamente. La Comisión de Peritos integrada por PEDRO MARIO ALMONACID COLIN, IRMA ELIANA DÍAZ RIVEROS y CLAUDIA ARELLANO GÓMEZ, mediante informe de tasación de 16 de enero de 2015, fijó el monto de la indemnización provisional en la cantidad de $939.600, para el lote N°36 y $14.778.600, para el lote N°37. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
