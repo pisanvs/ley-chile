@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº656, de 05 de agosto de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL MOP Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL MOP Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 119 y 123, para la obra: MEJORAMIENTO RUTA L-32, SECTOR PUENTE MARIMAURA - CRUCE RUTA 126, que figura a nombre de SAAVEDRA VERGARA MAURICIO LUIS y YANEZ VERGARA HERIBERTO ANTONIO, roles de avalúo 276-84 y 276-60, comuna de SAN JAVIER, REGION DEL MAULE, superficies 252 y 12.826 m2 respectivamente. La Comisión de Peritos integrada por ALICIA BA RBARA FLORES PACHECO, GABRIEL ANTONIO PANTOJA RIVERA y RODRIGO A NTONIO SILVA LAZO, mediante informe de tasación de 28 de octubre de 2019, fijó el monto de la indemnización provisional en la cantidad de $1.317.000 para el lote Nº119, y $39.876.000 para el lote Nº123. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscalía MOP.
