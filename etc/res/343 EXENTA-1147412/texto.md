@@ -50,6 +50,8 @@ Resuelvo:
 
 2. Los plazos correspondientes a los procesos y fases de postulación y selección de este llamado, serán los siguientes:
 
+.
+
 3. La condición de Condominio objeto de atención del Programa será acreditada por la Seremi Minvu Región Antofagasta, en atención a los requisitos señalados en el artículo 89 del DS Nº 27 (V. y U.), de 2016.
 
 Para el proceso de certificación, el Prestador de Servicios de Asistencia Técnica (PSAT) o Entidad Patrocinante podrá ingresar los antecedentes mediante el Sistema Informático de Certificación de Copropiedades dispuesto por el Ministerio de Vivienda y Urbanismo, o a través del ingreso de un expediente que contenga los antecedentes que permitan acreditar la condición de Condominio Objeto del Programa. En ambas instancias los antecedentes deberán ser suficientes para identificar las características generales del conjunto habitacional y la copropiedad; el diagnóstico físico constructivo, a fin de establecer los niveles de deterioro existentes en los bienes comunes y el diagnóstico socio-jurídico, que tiene por objeto identificar la existencia de los órganos de administración de la copropiedad y las características organizativas entre copropietarios y residentes.
@@ -121,6 +123,8 @@ b) El proceso de Revisión y Calificación de Proyectos descrito en el Artículo
 12. En todo aquello no regulado en el presente llamado, se aplicarán las disposiciones contenidas en el DS Nº 27 (V. y U.), de 2016.
 
 13. Los subsidios que se otorguen conforme al presente Llamado, se imputarán a los recursos dispuestos en el año 2020 para la Región de Antofagasta, Programa de Mejoramiento de Viviendas y Barrios, regulado por el DS Nº 27 (V. y U.), de 2016.
+
+> **Nota.** El numeral II de la Resolución 472 Exenta, Vivienda, publicada el 16.09.2020, dispone reemplazar en la presente norma, debido a la emergencia sanitaria, "la letra E del acto primigenio", sin embargo, omite especificar en que parte del texto debe ser reemplazado, es por esta razón que no se ha podido llevar a cabo.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Julio Santander Fuentes, Secretario Ministerial de Vivienda y Urbanismo Región de Antofagasta.
 
