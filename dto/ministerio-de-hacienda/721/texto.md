@@ -1,0 +1,23 @@
+DEJA SIN EFECTO NOMBRAMIENTO QUE INDICA COMO JUEZ DEL TRIBUNAL DE CONTRATACIÓN PÚBLICA, EN CALIDAD DE SUPLENTE
+
+Núm. 721.- Santiago, 4 de mayo de 2020.
+
+Visto:
+
+Lo dispuesto en los artículos 24 y 32 N°10 de la Constitución Política de la República de Chile; en el DFL N° 7.912, de 1927, del Ministerio del Interior, y sus modificaciones; en el DFL N° 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que Fija texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en el artículo 86 del DFL N° 29, de 2004, del Ministerio de Hacienda, que Fija texto refundido, coordinado y sistematizado de la ley N° 18.834, sobre Estatuto Administrativo; en el artículo 261 del Código Orgánico de Tribunales; en el artículo 22 de la ley N° 19.886, de Bases sobre contratos administrativos de suministro y prestación de servicios; en el decreto supremo N° 423, de 23 de abril de 2019, del Ministerio de Hacienda; en el Auto Acordado sobre funcionamiento del Tribunal de Contratación Pública, de la Excelentísima Corte Suprema; en el oficio N° 29, de 23 de enero de 2019, del Sr. Presidente de la Corte Suprema, que Remite antecedentes y terna para Juez suplente del Tribunal de Contratación Pública, así consignados en el Acta N° 11-2019; en el oficio ordinario N° 1958, de 10 de octubre de 2019, del Ministerio de Hacienda; en el oficio N° 2.086, de 23 de enero de 2020 y en el dictamen N° 3.386, de 6 de febrero de 2020, ambos de la Contraloría General de la República; en la Carta del Sr. Fernando Roberto Ortiz Alvarado, de 29 de enero de 2020, recibida en esta Secretaría de Estado en la misma fecha y el Certificado de 4 de mayo de 2020, del Secretario del Tribunal de Contratación Pública; y, en la resolución N° 6, de 2019, de la Contraloría General de la República.
+
+Considerando:
+
+1. Que, mediante decreto supremo N° 423, de 23 de abril de 2019, del Ministerio de Hacienda, se nombró a don Fernando Roberto Ortiz Alvarado, cédula nacional de identidad N° 6.365.395-0, como abogado integrante del Tribunal de Contratación Pública, en calidad de suplente, en conformidad a lo establecido en el artículo 22 de la ley N° 19.886, de Bases sobre contratos administrativos de suministro y prestación de servicios, por el periodo que en dicho acto se señala.
+
+2. Que, la Contraloría General de la República cursó con alcance el decreto supremo individualizado en el numeral precedente, a través del oficio N° 2.086, de 23 de enero de 2020. En síntesis, el órgano de Control señaló que el nombramiento del Sr. Ortiz Alvarado no se efectuó como abogado integrante suplente del Tribunal de Contratación Pública, sino en la calidad de juez suplente de dicho tribunal y que, de acuerdo a lo establecido en el artículo 261 del Código Orgánico de Tribunales en concordancia con el artículo 86 del DFL N° 29, de 2004, del Ministerio de Hacienda, que Fija texto refundido, coordinado y sistematizado de la ley N° 18.834, sobre Estatuto Administrativo "(...) al asumir el Señor Ortiz Alvarado en el cargo de juez suplente, cesará, por el solo ministerio de la ley, en el empleo a contrata que desempeña en el Servicio de Salud Metropolitano Oriente".
+
+3. Que, el Sr. Fernando Roberto Ortiz Alvarado, mediante carta de 29 de enero de 2020, recibida en esta Secretaría de Estado en la misma fecha, comunicó al Sr. Ministro de Hacienda su decisión de no asumir en el cargo de Juez Suplente del Tribunal de Contratación Pública, por las razones que ahí expone; y, señaló además que no ha prestado el juramento o promesa ante el Presidente del Tribunal de Contratación Pública, en conformidad a lo señalado en el artículo 2° del Auto Acordado sobre funcionamiento del Tribunal de Contratación Pública, lo cual consta en Certificado de 4 de mayo de 2020, del Secretario de ese Tribunal.
+
+Decreto:
+
+Déjase sin efecto el decreto supremo N° 423, de 23 de abril de 2019, del Ministerio de Hacienda, por el cual se nombró al Sr. Fernando Roberto Ortiz Alvarado, cédula nacional de identidad N° 6.365.395-0, como juez integrante del Tribunal de Contratación Pública, en calidad de suplente, en conformidad a lo establecido en el artículo 22 de la ley N° 19.886, de Bases sobre contratos administrativos de suministro y prestación de servicios, por haber manifestado el Sr. Ortiz Alvarado, su voluntad de no asumir el cargo.
+
+Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Ignacio Briones Rojas, Ministro de Hacienda.- Hernán Larraín Fernández, Ministro de Justicia y Derechos Humanos.
+
+Lo que transcribo a usted para su conocimiento.- Saluda Atte. a usted, Francisco Moreno Guzmán, Subsecretario de Hacienda.
