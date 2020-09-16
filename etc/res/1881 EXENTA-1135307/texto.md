@@ -52,6 +52,8 @@ Las carpetas ingresadas a Serviu, una vez habilitada la postulación, además de
 
 El proceso de Revisión y Calificación de los Proyectos, contemplará una instancia de observaciones, en virtud de la cual el Serviu, comunicará a la Entidad Patrocinante las inconformidades detectadas y la fecha en que deberá reingresarse el proyecto subsanado. Asimismo, podrá solicitar antecedentes que a su juicio sean necesarios para validar la postulación. Si persistieren inconformidades tras el reingreso, Serviu deberá excluir dicho proyecto del proceso de selección.
 
+Para calcular la proyección de reajuste de los aportes adicionales expresados en pesos una vez ingresados al Serviu los antecedentes señalados, se aplicará el valor de la UF correspondiente al último día hábil del mes de junio de 2020, conforme lo indicado en el artículo 20 del DS Nº 27 (V. y U.), de 2016.
+
 5. Los Criterios Regionales de Selección, deberán estar establecidos mediante resolución del Seremi a más tardar al 23 de agosto de 2019.
 
 6. Los plazos correspondientes a los procesos y fases de postulación y selección de este llamado serán los siguientes:
@@ -62,7 +64,7 @@ Con estos montos se definirá el número de postulantes que deberán presentar l
 
 Si una vez concluido el proceso señalado quedaren recursos disponibles, mediante resoluciones que el Ministro de Vivienda y Urbanismo dicte al efecto, se podrán redistribuir los recursos señalados en la tabla precedente total o parcialmente.
 
-8. Si los aportes adicionales son efectuados por municipalidades, se deberá presentar el Acta del Concejo Municipal en que conste la aprobación de destinar dichos recursos al proyecto en caso de resultar seleccionado, el que deberá ser enterado hasta 45 días corridos desde la fecha de selección.
+8. Si los aportes adicionales son efectuados por municipalidades, se deberá presentar el Acta del Concejo Municipal en que conste la aprobación de destinar dichos recursos al proyecto en caso de resultar seleccionado, el que deberá ser presentado a Serviu antes del inicio de obras.
 
 9. Los proyectos de Construcción de Edificaciones Comunitarias, podrán postular presentando anteproyecto aprobado por la DOM. La Entidad Patrocinante dispondrá de 60 días corridos, contados desde la fecha de la publicación en el Diario Oficial de la resolución de selección, para presentar al Serviu el Permiso de Edificación correspondiente e iniciar obras.
 
