@@ -22,7 +22,11 @@ Resolución:
 
 1. Llámase a postulación nacional extraordinaria de proyectos del Programa de Protección del Patrimonio Familiar, regulado por el Nº 255 (V. y U.), de 2006, en su Título II, Mejoramiento de la Vivienda, destinados a financiar la adquisición de materiales de construcción para reparación de la cubierta, para mejorar problemas de filtración por lluvias en sus viviendas, o para la incorporación de canaletas, forros, bajadas de aguas lluvia, entre otros elementos relevantes.
 
-2. El presente llamado considera un proceso de selección detallado en el siguiente cuadro:
+2. El presente llamado considera 2 procesos de selección para todas las regiones del país según el siguiente detalle:
+
+- Primera Selección: cierre el 19 de junio de 2020.
+
+- Segunda Selección: cierre el 12 de noviembre de 2020.
 
 3. La postulación será de carácter individual y el subsidio podrá ser aplicado en alguna de las siguientes modalidades:
 
@@ -30,7 +34,9 @@ Resolución:
 
 3.2. Ser destinado hasta en un 60% a la compra de materiales de construcción, mediante la tarjeta habilitada para tales efectos, y hasta en un 40% para el pago de los servicios de construcción o mano de obra.
 
-4. El monto destinado para este llamado será de 308.537 UF y el número de proyectos seleccionados alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles, incluidos los servicios de Asistencia Técnica que correspondan. La distribución regional de estos recursos es la siguiente:
+4. El monto de recursos destinados para este llamado será de 587.114 UF y el número de proyectos seleccionados alcanzará hasta la cantidad de subsidios susceptibles de ser financiados con los recursos disponibles, incluidos los servicios de Asistencia Técnica que correspondan para cada selección. La distribución regional de estos recursos es la siguiente:
+
+.
 
 No obstante, si la cantidad de postulaciones a la fecha del cierre del llamado es inferior a la cantidad de subsidios susceptibles de ser financiados con los recursos dispuestos en esta resolución, la División de Política Habitacional podrá realizar una redistribución del saldo de estos recursos para destinarlos a otros llamados del mismo programa.
 
@@ -40,7 +46,7 @@ No obstante, si la cantidad de postulaciones a la fecha del cierre del llamado e
 
 7. Establécense para el presente llamado las siguientes condiciones especiales:
 
-7.1. Como Viviendas Objeto del Programa se considerarán las señaladas en el artículo 3º del DS Nº 255 (V. y U.), de 2006, conforme a las certificaciones establecidas en la letra e) del artículo 21, del reglamento ya señalado.
+7.1. Se considerarán como Viviendas Objeto del Programa para efectos del presente llamado, además de las señaladas en el artículo 3º del DS Nº 255 (V. y U.), de 2006, carácter que se acreditará conforme a las certificaciones establecidas en la letra e) del artículo 21, del reglamento ya señalado, las viviendas con avalúo fiscal de hasta 950 UF. Además, se entenderán como viviendas construidas por Serviu cualquier vivienda cuya adquisición haya sido financiada total o parcialmente con un subsidio habitacional entregado por las Instituciones del Sector Vivienda.
 
 7.2. Sólo podrán ser objeto de mejoramiento las viviendas unifamiliares, entendidas como tales aquellas que, independientemente de su sistema de agrupamiento, no correspondan a Condominios de Viviendas Sociales.
 
@@ -56,7 +62,7 @@ El beneficiario arrendatario no podrá requerir al arrendador al pago de las mej
 
 7.5. En el caso de sucesiones, solo podrá postular un integrante de esta y siempre que no cuente con una segunda propiedad con destino habitacional.
 
-7.6. El ahorro mínimo exigido para postular a este llamado será de 1 UF. Dicho ahorro será depositado en Serviu, que lo aplicará al pago de la Asistencia Técnica.
+7.6. El ahorro mínimo exigido para postular a este llamado será de 1 UF. Dicho ahorro será depositado en una cuenta de ahorro, el que se aplicará al pago de los Servicios de Asistencia Técnica. Si el postulante seleccionado no cuenta con el referido ahorro, no podrá postular. Las familias autorizarán al PSAT a girar dicho ahorro para el pago de la primera parte de los Servicios de Asistencia Técnica prestados, referidos a la Organización de la Demanda, y Postulación, una vez que el proyecto sea seleccionado y previa autorización de Serviu. Para el pago de los Servicios de Asistencia Técnica, no se exigirá la presentación de una Boleta de Garantía por parte del PSAT.
 
 Dicho ahorro deberá ser depositado por las familias que resulten seleccionadas en una cuenta especial que el Serviu destine al efecto. Los depósitos deberán efectuarse en dicha cuenta entre el día lunes y hasta el día miércoles de la semana posterior a la fecha de publicación en el Diario Oficial de la resolución de selección. Si el postulante seleccionado, no efectúa el depósito en esas fechas se entenderá que el ahorro no fue enterado y será excluido de la nómina de selección, según lo señalado en el Artículo 11 del DS N° 255 (V. y U.) de 2006. En caso de liberarse recursos producto de esta exclusión, el Seremi podrá efectuar una selección complementaria, con las familias no beneficiadas, respetando el orden de prelación establecido.
 
@@ -144,6 +150,26 @@ Los establecimientos en los cuales podrán ser adquiridos los materiales de cons
 
 12.4. Registrar en el sistema informático del Minvu los datos de la venta realizada y, con ello, imprimir en forma inmediata el comprobante que le entregará el sistema informático con los datos de la operación y un código de validación de la misma, el cual deberá ser firmado por el beneficiario y por la persona que realiza la venta de los materiales y herramientas.
 
+12.5 Para efectuar el cobro a Serviu de boletas o facturas que digan relación con la venta de los materiales o servicios que se realicen mediante una modalidad no presencial, tales como compra telefónica o por internet, el proveedor de materiales de construcción deberá presentar los siguientes documentos:
+
+- La boleta o factura de la compra.
+
+- El comprobante de venta emitido por el sistema, que en este caso no deberá venir firmado por el beneficiario.
+
+- Fotografía de la cédula de identidad del beneficiario, solo por el lugar en el que aparece su foto y la correspondiente firma.
+
+- Copia simple de la tarjeta virtual del beneficiario.
+
+- Fotografía de una declaración jurada simple firmada por el beneficiario, extendida en los siguientes términos:
+
+"Declaración Jurada
+
+Yo...................... (nombre del beneficiario), RUT Nº..................... (del beneficiario), he adquirido materiales en la ferretería.................. (nombre del proveedor de materiales), por un monto de $............................ con fecha.....................
+
+(Firma del Beneficiario)".
+
+Esta declaración puede ser extendida de puño y letra del beneficiario.
+
 13. Una vez activada la tarjeta, la familia podrá acercarse a un establecimiento comercial que se encuentre en Convenio con Serviu, para realizar la compra de materiales correspondiente a la primera parte del presupuesto elaborado por la EP.
 
 El beneficiario podrá realizar un máximo de hasta 4 compras de materiales de construcción, en un mismo establecimiento o en establecimientos distintos, no pudiendo superar estas compras, el monto máximo asignado para el subsidio.
@@ -196,6 +222,14 @@ Contando con lo anterior, Serviu procederá a pagar en un solo acto al prestador
 
 21. Los subsidios a que se refiere la presente resolución, tendrán una vigencia de 10 meses a contar de la fecha de la resolución de selección.
 
+22. Para definir el número máximo personas a ser atendidas por la EP, según su categoría, 4 beneficiarios de este llamado se contarán como 1 para esos fines, dado que las acciones de las EP en este llamado son menores que las que debe llevar a cabo en postulaciones regulares.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
+
+Atendido que los trabajos a ejecutar en las viviendas son menores y de carácter puntual, las herramientas a adquirir deberán ser de tipo manual, no aceptándose la compra de herramientas eléctricas.
+
+Se deja establecido también, que se permitirá sean utilizados como tapacanes los elaborados con tablas de madera, de fibrocemento o de otros materiales.
+
+> **Nota.** El numeral 2.1 del número 2 de la Resolución 1354 Exenta, Vivienda, publicada el 16.09.2020, complementa el listado de materiales señalado en el Resuelvo 9 de la presente norma, en el sentido que la citada norma indica.
