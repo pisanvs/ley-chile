@@ -86,9 +86,9 @@ De los establecimientos penitenciarios
 
 #### Artículo 11
 
-Se denominan genéricamente establecimientos penitenciarios, los recintos donde deban permanecer custodiadas las personas privadas de libertad en razón de detención y mientras están puestas a disposición del Tribunal pertinente; las personas sometidas a prisión preventiva y las personas condenadas al cumplimiento de penas privativas de libertad.
+Se denominan genéricamente establecimientos penitenciarios, los recintos donde deban permanecer custodiadas las personas privadas de libertad en razón de detención y mientras están puestas a disposición del Tribunal pertinente; las personas sometidas a prisión preventiva y las personas condenadas al cumplimiento de penas privativas de libertad, todas las cuales estarán sujetas a la atención, vigilancia y custodia de la Administración, según corresponda.
 
-Corresponden también a esta denominación las dependencias destinadas al seguimiento, asistencia y control de los condenados que, por un beneficio legal o reglamentario, se encuentren en el medio libre.
+Corresponden también a esta denominación los establecimientos destinados al cumplimiento de las penas sustitutivas, los destinados al control de los beneficios legales y reglamentarios que se ejecuten en el sistema abierto, como, asimismo, las dependencias que brindan apoyo postpenitenciario a las personas que hubiesen dado cumplimiento a su condena y las que supervisan y controlan la libertad condicional.
 
 Los establecimientos penitenciarios serán administrados por Gendarmería de Chile.
 
@@ -152,7 +152,9 @@ En los establecimientos en que se ejecute un contrato de concesiones, se estará
 
 #### Artículo 20
 
-Los establecimientos penitenciarios destinados al seguimiento, asistencia y control de los condenados que por un beneficio legal o reglamentario se encuentren en el medio libre, se denominan Centros de Reinserción Social (C.R.S.).
+Los establecimientos penitenciarios destinados fundamentalmente al seguimiento, asistencia y control de las personas condenadas a penas sustitutivas, se denominan Centros de Reinserción Social. Dichos establecimientos podrán además realizar el seguimiento, asistencia y control de las personas condenadas que se encuentren haciendo uso del beneficio de libertad condicional, así como también, de aquellas que estén en proceso de eliminación de antecedentes penales, en aquellos casos en que los Centros de Apoyo para la Integración Social, que se establecen en el inciso siguiente, no tengan cobertura.
+
+Los establecimientos penitenciarios destinados fundamentalmente al seguimiento, asistencia y acompañamiento a las personas que, habiendo cumplido sus condenas, requieran de apoyo para su reinserción social, a través de la entrega de oferta programática, así como los destinados al seguimiento, asistencia y control de las personas condenadas que se encuentren haciendo uso del beneficio de libertad condicional y de aquellas que estén en proceso de eliminación de antecedentes penales, se denominan Centros de Apoyo para la Integración Social.
 
 #### Artículo 21
 
