@@ -1,0 +1,5 @@
+DEJA SIN EFECTO A CONTAR DEL 24.08.2020 LA RESOLUCIÓN EXENTA Nº 102, DE 23.03.2020, QUE SUSPENDIÓ EL FUNCIONAMIENTO PRESENCIAL DE LA RED DE CENTROS DE ATENCIÓN PREVISIONAL INTEGRAL DEL INSTITUTO DE PREVISIÓN SOCIAL QUE INDICA Y ESTABLECIÓ LA MODALIDAD DE FUNCIONAMIENTO DE LA RED DE CENTROS DE ATENCIÓN PREVISIONAL INTEGRAL DE ESTE SERVICIO, POR RAZONES QUE SEÑALA
+
+Por resolución exenta Nº 223, de 21 de agosto de 2020, el Director Nacional del Instituto de Previsión Social, deja sin efecto, a contar del 1 de septiembre de 2020, la resolución exenta Nº 102, de 23 de marzo de 2020, sobre funcionamiento de la Red IPS.-
+
+Patricio Coronado Rojo, Director Nacional.
