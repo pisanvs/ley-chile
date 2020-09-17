@@ -52,7 +52,7 @@ Las letras bancarias y los vales vistas dados en pago de tarifas o derechos debe
 
 #### Artículo 110
 
-Toda orden de ingreso girada por la Autoridad Marítima deberá ser pagada dentro del plazo en que ella se indique, el que no podrá exceder de 10 días hábiles a contar de su emisión. En caso de mora, el usuario estará afecto a un interés penal del 0.05 por ciento por cada día de atraso y hasta la fecha del pago efectivo.
+Toda orden de ingreso girada por la Autoridad Marítima deberá ser pagada dentro del plazo en que ella se indique, el que no podrá exceder de 10 días hábiles a contar de su emisión. Sin embargo, ante hechos constitutivos de caso fortuito o fuerza mayor, derivados de situaciones de emergencia, catástrofe o calamidad pública, el Director, mediante resolución fundada, podrá aumentar el plazo para el pago de dicha obligación, hasta por 30 días hábiles adicionales, término que podrá prorrogarse por un máximo de 30 días hábiles, por una vez, de mantenerse la situación que originó el aumento de plazo. En caso de mora, el usuario estará afecto a un interés penal del 0.05 por ciento por cada día de atraso y hasta la fecha de pago efectivo.
 
 Transcurrido 30 días contados desde el vencimiento del pago sin que éste se hubiere efectuado, el Director podrá proceder a su cobro ejecutivo, y si así lo determinare, se aplicará el procedimiento indicado en el Título V del Libro III del Código Tributario.
 
