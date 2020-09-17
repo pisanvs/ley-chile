@@ -1,0 +1,5 @@
+APRUEBA EL CONVENIO DE COLABORACIÓN PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, SUSCRITO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y GENDARMERÍA DE CHILE
+
+Por resolución exenta Nº 231, de 27 de agosto de 2020, el Director Nacional del Instituto de Previsión Social, aprobó el "Convenio de Colaboración para la Prestación de Servicios de Atención", suscrito el 18 de agosto de 2020, entre el Instituto de Previsión Social y Gendarmería de Chile cuyo objeto es que Gendarmería podrá, a través de los profesionales de las respectivas Unidades Técnicas Locales, recabar los antecedentes y documentos donde consten los poderes para cobrar y percibir prestaciones pagadas por el IPS, por parte de beneficiarios recluidos en los establecimientos penitenciarios de su competencia, con el fin de que el IPS proceda a la autorización correspondiente para acceder a aquellas, a través de sus apoderados convenientemente designados.-
+
+Patricio Coronado Rojo, Director Nacional.
