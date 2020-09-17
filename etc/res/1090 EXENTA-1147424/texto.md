@@ -116,7 +116,7 @@ Resolución:
 
 13. El monto mensual máximo del subsidio destinado a cada beneficiado será de hasta $250.000.- (doscientos cincuenta mil pesos) en su equivalente a Unidades de Fomento (UF) a la fecha del pago, por un monto total de hasta $750.000.- (setecientos cincuenta mil pesos), este valor se ajustará de manera que siempre exista un copago mínimo de un 30% de la renta de arrendamiento fijada en el contrato. Se otorgará por un período de tres meses.
 
-14. El monto total de los recursos que se destinarán al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de hasta 392.165 UF, correspondientes a 18.750 subsidios, los que se distribuirán según la tabla que se presenta a continuación, pudiendo practicarse mediante resolución modificaciones, o incrementos de recursos, así como ser redistribuidos en las regiones incluidas en este llamado:
+14. El monto total de los recursos que se destinarán al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de hasta 1.300.000 UF, correspondientes a 50.000 subsidios, los que se distribuirán según la tabla que se presenta a continuación, pudiendo practicarse mediante resolución modificaciones, o incrementos de recursos, así como ser redistribuidos en las regiones incluidas en este llamado:
 
 .
 
