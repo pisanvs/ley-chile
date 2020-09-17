@@ -1,0 +1,5 @@
+SE APRUEBA "MODIFICACIÓN DE CONTRATO DE COMODATO", SUSCRITO EL 13.08.2020, ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL INSTITUTO DE SEGURIDAD LABORAL, RESPECTO DEL INMUEBLE UBICADO EN LA INTERSECCIÓN DE LAS CALLES SUCRE Nº 311 Y WASHINGTON Nº 2712, COMUNA DE ANTOFAGASTA
+
+Por resolución exenta I Nº 10, de 27 de agosto de 2020, el Jefe del Departamento Administración e Inmobiliaria del Instituto de Previsión Social, aprobó la modificación del Contrato de Comodato suscrita con fecha 13.08.2020, entre el Instituto de Previsión Social y el Instituto de Seguridad Laboral, por medio de la cual las partes acuerdan modificar el Contrato de Comodato, de fecha 14 de marzo de 2012, aprobado por resolución exenta Nº 205 del 8 de mayo de 2012, de la Dirección Nacional del Instituto de Previsión Social, en los términos establecidos en la Cláusula Tercera del documento que se aprueba por el presente acto administrativo.- Roberto Lagos Flores, Jefe Departamento Administración e Inmobiliaria.
+
+Alexander Suárez Olivares, Jefe (S) Departamento Secretaría General y Transparencia, Instituto de Previsión Social.
