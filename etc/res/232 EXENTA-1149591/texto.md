@@ -1,0 +1,5 @@
+APRUEBA EL "CONVENIO DE COLABORACIÓN PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN", SUSCRITO ENTRE EL MINISTERIO DE DESARROLLO SOCIAL Y FAMILIA Y EL INSTITUTO DE PREVISIÓN SOCIAL
+
+Por resolución exenta Nº 232, de 27 de agosto de 2020, el Director Nacional del Instituto de Previsión Social, aprobó el "Convenio de Colaboración para la Prestación de Servicios de Atención", suscrito el 10 de marzo de 2020, entre el Instituto de Previsión Social y Ministerio de Desarrollo Social y Familia cuyo objeto es generar acciones de coordinación y colaboración mutua en el cumplimiento de los fines de las instituciones comparecientes, que contribuyan al mejoramiento de las condiciones de cobertura, información y realización de servicios del Estado para la ciudadanía, conforme a sus respectivas competencias y por el cual las partes acuerdan que se otorgarán las atenciones que indica a los usuarios del Ministerio, a través de la red de canales del IPS, con las particularidades, condiciones y términos que se expresen en cada caso.-
+
+Patricio Coronado Rojo, Director Nacional.
