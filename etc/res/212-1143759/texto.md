@@ -1,4 +1,4 @@
-DETERMINA CANTIDADES MÍNIMAS NECESARIAS DE PATROCINANTES DE CANDIDATURAS INDEPENDIENTES PARA ELECCIONES DE GOBERNADORES REGIONALES Y MUNICIPALES, A REALIZARSE EL AÑO 2020
+DETERMINA CANTIDADES MÍNIMAS NECESARIAS DE PATROCINANTES DE CANDIDATURAS INDEPENDIENTES PARA ELECCIONES DE GOBERNADORES REGIONALES Y MUNICIPALES, A REALIZARSE EL AÑO 2021
 
 Núm. O-212.- Santiago, 17 de marzo de 2020.
 
@@ -12,7 +12,7 @@ c) La facultad que confiere la letra e) del artículo 69, de la ley N° 18.556.
 
 Resuelvo:
 
-1º Determínase para efectos de las elecciones de Gobernadores Regionales y Municipales que se celebrarán el domingo 25 de octubre de 2020, las cantidades mínimas necesarias de patrocinantes de una candidatura independiente:
+1º Determínase para efectos de las elecciones de Gobernadores Regionales y Municipales que se celebrarán el domingo 11 de abril de 2021, las cantidades mínimas necesarias de patrocinantes de una candidatura independiente:
 
 GOBERNADORES REGIONALES
 
