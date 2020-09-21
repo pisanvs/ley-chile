@@ -20,11 +20,15 @@ Decreto:
 
 #### Artículo primero
 
-Apru�base la Norma Técnica Nº 208, para el "Almacenamiento y Transporte de Medicamentos Refrigerados y Congelados".
+Apruébase la Norma Técnica Nº 208, para el "Almacenamiento y Transporte de Medicamentos Refrigerados y Congelados".
 
 La Norma Técnica aprobada por este decreto, la cual se adjunta y se entiende formar parte integrante del mismo, consta de 20 páginas.
 
-Esta Norma Técnica es aplicable a los establecimientos sanitariamente autorizados que realizan las actividades de almacenamiento y distribución de este tipo de productos, tales como, laboratorios farmacéuticos, droguerías, depósitos de productos farmacéuticos de uso humano, depósitos de vacunas e inmunoglobulinas, farmacias, botiquines y recetarios magistrales siendo un complemento de la Norma Técnica Nº 147, del Ministerio de Salud, para las particularidades que estos productos representan.
+Esta Norma Técnica es aplicable a los establecimientos sanitariamente autorizados que realizan las actividades de almacenamiento y distribución de este tipo de productos, tales como, laboratorios farmacéuticos, droguerías, depósitos de productos farmacéuticos de uso humano, depósitos de vacunas e inmunoglobulinas, siendo un complemento de la Norma Técnica Nº 147, del Ministerio de Salud, para las particularidades que estos productos representan.
+
+Esta norma técnica no será aplicable a las farmacias, botiquines y recetarios magistrales.
+
+> **Nota.** Los numerales 3 y 4 del artículo primero del Decreto 49 Exento, Salud, publicado el 21.09.2020, disponen modificar en la presente norma el apartado II "Alcances". Sin embargo, no se ha podido realizar la actualización por no encontrarse disponible en su texto tal apartado.
 
 #### Artículo segundo
 
