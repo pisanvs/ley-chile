@@ -1,0 +1,5 @@
+RESOLUCIÓN N° 243 EXENTA, DE FECHA 29.05.2020, QUE "DISPONE PRÓRROGA DEL PLAZO DE SUSPENSIÓN DE PROCEDIMIENTOS ADMINISTRATIVOS QUE INDICA"
+
+Con fecha 29 de mayo de 2020, la Superintendencia de Educación dictó la resolución exenta N° 243, que "Dispone prórroga del plazo de suspensión de procedimientos administrativos que indica", la cual dispone extender la suspensión de los procedimientos administrativos educacionales y plazos dispuestos en la resolución exenta N° 180, de 26 marzo de 2020, prorrogada por la resolución exenta N° 217, de 29 de abril de 2020, y por la resolución exenta N° 231, de 13 de mayo de 2020, todas del Superintendente de Educación. La suspensión se extenderá hasta el día 20 de junio inclusive, con la posibilidad de prorrogar dicha medida. Atendida la emergencia sanitaria, la resolución referida comenzará a regir desde la fecha de su dictación, sin perjuicio de su publicación en extracto en el Diario Oficial y estará disponible íntegramente en la página web institucional www.supereduc.cl.-
+
+Francisco Trejo O., Jefe Departamento Jurídico.
