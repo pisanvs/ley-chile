@@ -1,0 +1,5 @@
+RESOLUCIÓN Nº 368 EXENTA DE FECHA 19.06.2020, QUE "DISPONE PRÓRROGA DEL PLAZO DE SUSPENSIÓN DE PROCEDIMIENTOS ADMINISTRATIVOS QUE INDICA"
+
+Con fecha 19 de junio de 2020, la Superintendencia de Educación dictó la resolución exenta Nº 368, que "Dispone prórroga del plazo de suspensión de procedimientos administrativos que indica", la cual dispone extender la suspensión de los procedimientos administrativos educacionales y plazos dispuestos en la resolución exenta Nº 180, de 26 marzo de 2020, prorrogada por las resoluciones exentas Nº 217 de 29 de abril de 2020, Nº 231 de 13 de mayo de 2020, y Nº 243 de 29 de mayo de 2020, todas del Superintendente de Educación. La suspensión se extenderá hasta el día 4 de julio inclusive, con la posibilidad de prorrogar dicha medida. Atendida la emergencia sanitaria, la resolución referida comenzará a regir desde la fecha de su dictación, sin perjuicio de su publicación en extracto en el Diario Oficial y estará disponible íntegramente en la página web institucional www.supereduc.cl.-
+
+Francisco Trejo O., Jefe Departamento Jurídico
