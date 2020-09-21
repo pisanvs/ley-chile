@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.183 EXENTA, DE 2020
+
+La resolución exenta Nº 2.183, de 7 de septiembre de 2020, del Director Nacional del Servicio Nacional de Capacitación y Empleo, introdujo modificaciones al "Instructivo para la autorización excepcional de la reanudación de la ejecución de las acciones de capacitación en modalidad presencial, financiadas a través del Fondo Nacional de Capacitación, el Programa de Becas Laborales o los Programas Extrapresupuestarios, en comunas que no estén declaradas en cuarentena", aprobado por resolución exenta Nº 1.718, de 19 de junio de 2020; y fijó el texto actualizado y refundido del instructivo que pasó a denominarse "Instructivo para la autorización excepcional de la reanudación e inicio de la ejecución de las acciones de capacitación en modalidad presencial, que sean financiadas a través del Fondo Nacional de Capacitación, o del Programa de Becas Laborales o de Programas Extrapresupuestarios, en comunas declaradas en pasos de apertura inicial y apertura avanzada".
+
+El texto íntegro de la resolución exenta Nº 2.183 de 7 de septiembre de 2020, está disponible en línea, en el sitio web oficial del Servicio Nacional de Capacitación y Empleo, www.sence.cl.
+
+Santiago, 9 de septiembre de 2020.- Juan Manuel Santa Cruz Campaña, Director Nacional, Servicio Nacional de Capacitación y Empleo.
