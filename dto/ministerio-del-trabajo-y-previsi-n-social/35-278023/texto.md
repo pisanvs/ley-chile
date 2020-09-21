@@ -10,7 +10,7 @@ Apruébase el siguiente Reglamento para el Servicio de Bienestar del Gobierno Re
 
 ## Título I
 
-Objetivos del Servicio de Bienestar
+DEL OBJETIVO Y FINES
 
 #### Artículo 1°
 
@@ -46,7 +46,7 @@ Los representantes de los afiliados serán designados por éstos en votación di
 
 #### Artículo 5°
 
-El Consejo Administrativo sesionará ordinariamente cada tres meses, en el día y hora que fijen sus miembros. Las citaciones de sus miembros para las sesiones ordinarias y para las extraordinarias las hará por escrito el Presidente del Consejo Administrativo con una anticipación mínima de cinco y dos días hábiles, respectivamente. De las deliberaciones y acuerdos se dejará constancia en el Libro de Actas, que al efecto deberá llevar el Secretario.
+El Consejo celebrará una sesión ordinaria cada dos meses en el día y fecha que fijen sus miembros. La citación la hará por escrito el jefe del Servicio de Bienestar, con una anticipación mínima de cinco días hábiles, respectivamente. Las sesiones extraordinarias se efectuarán, cuando proceda conforme al artículo 23º del Reglamento General, y serán citadas por escrito por el Presidente del Consejo, con una anticipación mínima de 5 días hábiles.
 
 Aprobada el acta anterior, será firmada por el Presidente, el Secretario y los miembros presentes.
 
@@ -184,9 +184,7 @@ El plazo para el pago de estos préstamos no podrá ser superior a 36 meses y su
 
 #### Artículo 11°
 
-Para conceder un préstamo, el Consejo Administrativo deberá considerar especialmente, las posibilidades de recuperación de los dineros prestados. Además será requisito indispensable la constitución de la garantía de dos codeudores solidarios que sean funcionarios de planta de la Institución; y su solvencia será calificada por el Consejo Administrativo.
-
-Para solicitar cualquier tipo de préstamo, el afiliado deberá tener por lo menos 6 meses de afiliación ininterrumpida al Servicio de Bienestar, con excepción del préstamo habitacional que requerirá a lo menos un año de afiliación ininterrumpida.
+Para conceder un préstamo, el Consejo Administrativo deberá considerar especialmente la recuperación de los dineros prestados. Además, será requisito indispensable la constitución de la garantía de dos deudores solidarios que sean funcionarios de planta o a contrata, con al menos cinco renovaciones; y su solvencia será calificada por el Consejo Administrativo.
 
 #### Artículo 12°
 
@@ -212,7 +210,9 @@ El Servicio de Bienestar podrá financiar con cargo a sus propios recursos, de a
 
 #### Artículo 15°
 
-El Servicio de Bienestar podrá celebrar y financiar la festividad de Navidad para sus afiliados y cargas familiares, siempre que sus recursos presupuestarios lo permitan.
+El Servicio de Bienestar podrá celebrar y financiar la festividad de Navidad y Fiestas Patrias para sus afiliados y cargas familiares, siempre que sus recursos presupuestarios lo permitan.
+
+El Servicio de Bienestar podrá entregar un "Bono de Cumpleaños" a cada socio, siempre que sus recursos presupuestarios lo permitan.
 
 #### Artículo 16°
 
