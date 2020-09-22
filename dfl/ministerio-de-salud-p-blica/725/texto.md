@@ -866,7 +866,7 @@ Lo dispuesto en este artículo no obsta a que las farmacias puedan dar a conocer
 
 El propietario, el director técnico y el auxiliar de la farmacia en que se expenda un medicamento diferente del indicado en la receta, contraviniendo lo dispuesto en el presente artículo, serán sancionados conforme a lo dispuesto en el Libro Décimo.
 
-En los casos en que se emita receta electrónica, ésta deberá constar en un documento electrónico suscrito por parte del facultativo autorizado en esta ley mediante firma electrónica avanzada conforme lo dispuesto en la ley N° 19.799.
+En los casos en que se emita receta electrónica, ésta deberá constar en un documento electrónico suscrito por parte del facultativo autorizado en esta ley según lo dispuesto en el reglamento.
 
 El reglamento establecerá las situaciones y casos en que se podrá exceptuar la aplicación de lo dispuesto en el inciso primero, tales como ruralidad, ubicación geográfica, disponibilidad tecnológica u otras situaciones de similar naturaleza.
 
