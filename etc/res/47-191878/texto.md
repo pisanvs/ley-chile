@@ -260,7 +260,7 @@ De acuerdo a sus usos estas zonas se dividen en: Habitacionales, de equipamiento
 
 Zonas Habitacionales : C; H1; H2; H3 Zonas de Equipamiento: AV; E; E1; E2; E3; E4; CEM; D;
 
-D1; PU; PL; PA; PASEO; T1; T2; T3 Zonas Industriales : I1; I2
+D1; PU; PL; PA; PASEO; T1; T2; T3 Zonas Industriales: I1; I2
 
 b) Areas de Extensión Urbana: Son las áreas planificadas externas a las áreas consolidadas capaces de recibir el crecimiento en extensión previsto para el centro poblado en los 30 años siguientes a la aprobación del Plan.
 
@@ -280,7 +280,15 @@ Nª 1.157 de 1931, Ministerio de Fomento, Ley General de Ferrocarriles: FFCC.
 
 . Protección de Quebradas y Laderas: Son las zonas que corresponden a la quebrada Barriles y a las laderas de la montaña que encierra la ciudad de Tocopilla por el este, las cuales deben protegerse en orden a impedir su erosión: RQ y RL.
 
-. Protección de Trazados de Líneas de Alta Tensión y Ductos de Gas: Son las zonas que comprende la franja de terrenos destinados a protección de los tendidos de redes eléctricas y trazado de gas, en orden de asegurar su funcionamiento, impedir obstáculos que los interfieran y evitar riesgos a las personas de acuerdo a la Norma NSEG 5 E.N. 71, de la Superintendencia de Servicios Eléctricos y de Gas (Reglamento de Instalaciones Eléctricas de Corrientes Fuertes), y en el Manual ML-A3.1 de 1977, de ENDESA (Distancias Mínimas y Faja de Seguridad y Servidumbre Líneas de Transmisión): RIS. Lo anterior incluye DTO 103, VIVIENDA las condiciones asociadas a la servidumbre para el Art. 2 c) trazado de gasoducto, de acuerdo a lo establecido D.O. 11.07.2008 por D. S. N° 138 de 10 de febrero de 2000, del Ministerio de Bienes Nacionales.
+. Protección de Trazados de Líneas de Alta Tensión y Ductos de Gas: Son las zonas que comprende la franja de terrenos destinados a protección de los tendidos de redes eléctricas y trazado de gas, en orden de asegurar su funcionamiento, impedir obstáculos que los interfieran y evitar riesgos a las personas de acuerdo a la Norma NSEG 5 E.N. 71, de la Superintendencia de Servicios Eléctricos y de Gas (Reglamento de Instalaciones Eléctricas de Corrientes Fuertes), y en el Manual ML-A3.1 de 1977, de ENDESA (Distancias Mínimas y Faja de Seguridad y Servidumbre Líneas de Transmisión): RIS. Lo anterior incluye las condiciones asociadas a la servidumbre para el trazado de gasoducto, de acuerdo a lo establecido por D. S. N° 138 de 10 de febrero de 2000, del Ministerio de Bienes Nacionales.
+
+. Áreas de Riesgo
+
+AR1. Área inundable o potencialmente inundables por proximidad a ríos y quebradas
+
+AR2. Área propensa a avalanchas, rodados, aluviones o erosiones acentuadas
+
+AR3. Zonas o terrenos con riesgos generados por la actividad o intervención humana
 
 #### Artículo 23º
 
@@ -882,6 +890,14 @@ En esta franja no se permitirá ningún otro tipo de uso, sólo se aceptará la 
 
 Sin perjuicio de las normas establecidas en la presente Artículo, en las zonas H3 y EH4 se podrán emplazar conjuntos de viviendas sociales asignadas a grupos organizados y que cuenten con subsidio habitacional, en terrenos de hasta 200 m2 de superficie,
 
+ÁREAS DE RIESGO
+
+El uso del área urbana se encuentra restringido en las áreas de riesgo geográficamente determinadas en el plano código PRCT-MOD2015 y son las siguientes:
+
+.
+
+Las normas urbanísticas aplicables a los proyectos localizados en estas áreas que cumplan los requisitos establecidos en el inciso quinto del artículo 2.1.17 de la Ordenanza General de Urbanismo y Construcciones, serán las correspondientes a la zona donde se emplaza el proyecto según los planos que las grafican.
+
 NOTA:
 
 La letra d) del Art. 2 del DTO 103, Vivienda, publicado el 11.07.2008, modificó los cuadros contenidos en las Zonas H3 y EH4 del Art. 25, los que no se han incorporado por restricciones técnicas, por lo que no se ha podido componer su texto actualizado.
@@ -1021,3 +1037,11 @@ Aprobación Gobierno Regional II Región de Antofagasta.- Hernán Peralta Corté
 > **Nota.** NOTA 6 El Artículo 7º de la Resolución 79, Vivienda, publicada con fecha 28.09.2010 ordenó modificar el cuadro "Normas Específicas Subdivisión Predial y de Edificación" de la Zona H3, del artículo 25º, del Capítulo IV de la Ordenanza del Plan Regulador Comunal de Tocopilla, en el sentido de sustituir en la fila correspondiente a "Altura Máxima" la expresión "7.50 m", por "10.50 m".
 
 > **Nota.** NOTA 7 El Artículo 8º de la Resolución 79, Vivienda, publicada con fecha 28.09.2010 ordenó reemplazar para el área situada en la zona "E" comprendida entre las calles Serrano por el Norte, San Martín por el Sur, Arturo Prat por el Oriente y Barros Arana por el Poniente, las normas de uso de suelo permitidos, uso de suelo prohibidos y normas específicas de subdivisión predial y edificación, por las correspondientes a la zona "E2", definidas en el artículo 25º de la Ordenanza del Plan Regulador Comunal de Tocopilla, de conformidad a lo graficado en el plano TOC-05, denominado "Modificación Plan Regulador Comunal de Tocopilla, Sector Centro, entre calles Arturo Prat y San Martín", que se aprueba por el artículo 1º del presente decreto.
+
+> **Nota.** NOTA 8 El artículo 3° del Decreto 752 Exento, Municipalidad de Tocopilla, publicado el 22.09.2020, modifica la presente norma en el sentido de agregar la zona AV1 y la zona T8 a las Zonas de Equipamiento y la zona I3 a las Zonas Industriales.
+
+> **Nota.** NOTA 9 EL artículo 6 del Decreto 752 Exento, Municipalidad de Tocopilla, publicado el 22.09.2020, modifica la presente norma en el sentido de agregar en el artículo 25 la Zona AV1, la Zona AV2, la Zona T8, y la Zona I3, con sus respectivas normas urbanísticas.
+
+> **Nota.** NOTA 10 EL artículo 7 del Decreto 752 Exento, Municipalidad de Tocopilla, publicado el 22.09.2020, modifica el artículo 31 de la presente norma en el sentido de eliminar del cuadro de vialidad estructurante de la ciudad de Tocopilla las dos filas referidas a la vía Miraflores.
+
+> **Nota.** NOTA 11 EL artículo 8 del Decreto 752 Exento, Municipalidad de Tocopilla, publicado el 22.09.2020, modifica el artículo 31 de la presente norma en el sentido de agregar al cuadro de vialidad estructurante de la ciudad de Tocopilla las vías y sus características determinadas en el cuadro: Modificación Plan regulador comunal de Tocopilla, zona urbana industrial no consolidada.
