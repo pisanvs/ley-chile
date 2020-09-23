@@ -44,19 +44,15 @@ En su postulación, los postulantes deberán informar una dirección de correo e
 
 El ingreso de antecedentes al sistema informático de postulación en línea, en ningún caso significará una postulación hábil.
 
-4. El sistema informático alertará si el postulante no cumple algún requisito, o está afecto a algún impedimento de postulación, establecido en el reglamento del Programa.
+4. El sistema informático alertará si el postulante no cumple algún requisito, está afecto a algún impedimento de postulación o requiere alguna acreditación especial, de acuerdo a lo establecido en el reglamento del Programa.
 
-Sin perjuicio de lo anterior, el postulante podrá continuar su proceso de postulación en línea, aceptando que acreditará en forma posterior el cumplimiento de los requisitos allí señalados, de acuerdo al siguiente procedimiento:
+Sin perjuicio de lo anterior, el postulante podrá continuar su proceso de postulación, acompañando en forma digital los documentos que le sean solicitados durante el proceso o requeridos en forma posterior mediante correo electrónico postulacionds49@minvuconecta.cl.
 
-4.1. Mediante el correo electrónico postulacionds49@minvuconecta.cl, el Minvu o Serviu solicitará al postulante remitir, en un plazo de 5 días corridos, los documentos que acrediten el cumplimiento de cada requisito que no fue posible validar en línea, o que le permitan eximirse del impedimento detectado.
+Los Serviu validarán los documentos que adjunte cada postulante, debiendo pronunciarse en los casos observados, respecto de la habilidad de la postulación, a más tardar el día 21 de octubre de 2020.
 
-4.2. El postulante deberá adjuntar los documentos requeridos vía Formulario de Atención Ciudadana. Para facilitar el proceso, el Minvu activará el trámite 'Validación complementaria de postulación en línea' por 5 días corridos luego del envío de la notificación de subsanación a través del correo electrónico señalado en punto 4.1.
+De requerir el Serviu, mediante el correo electrónico señalado, algún documento para su revisión, el postulante deberá remitirlo por la misma vía u otro medio electrónico que se disponga al efecto, dentro de 5 días corridos. Con todo, no podrá sobrepasar la fecha indicada.
 
-4.3. Si transcurrido el plazo señalado el postulante no da respuesta satisfactoria, o los documentos adjuntos al formulario indicado son insuficientes, la postulación quedará inhábil.
-
-4.4. Los Serviu mediante el sistema CMR SIAC validarán los documentos que adjunte cada postulante contactado vía correo electrónico, debiendo pronunciarse respecto de la habilidad de la postulación a más tardar el día 21 de octubre de 2020, registrando el resultado de esta evaluación en el sistema informático Umbral y finalizando el trámite activado por el postulante en el sistema CRM-SIAC.
-
-4.5. Sin perjuicio de lo señalado, el Minvu podrá realizar consultas directas a las instituciones que validan requisitos de postulación o acreditan la obtención de puntaje para la postulación, no siendo exigidas las certificaciones en caso que éstas sean verificadas con los organismos correspondientes.
+Sin perjuicio de lo señalado, el Minvu podrá realizar consultas directas a las instituciones que validan requisitos de postulación o que acreditan los factores para la obtención de puntaje, no siendo exigidas las certificaciones en caso que éstas sean verificadas con los organismos correspondientes.
 
 5. Para la selección, se realizará un proceso de revisión de los factores de puntaje que presenta cada postulante, tanto los indicados en el artículo 24 del DS Nº 49 (V. y U.), de 2011, como los señalados en la presente resolución, determinando una primera prelación. Los postulantes que se encuentren dentro de corte de puntaje para resultar seleccionados, y que sean inhábiles por tener pendiente la acreditación del cumplimiento de requisitos, serán contactados de la forma que señala el Resuelvo anterior, pudiendo en caso que no se obtenga respuesta, avanzar con el mismo procedimiento de prelación hasta conformar la lista definitiva de postulantes a seleccionar.
 
@@ -72,7 +68,7 @@ c) Los derechos en comunidad, según lo establecido en la letra f) del artículo
 
 d) La calidad indígena conforme a la ley Nº 19.253, cuando el postulante no acredite grupo familiar, según lo establecido en la letra h) del artículo 4, del DS Nº 49 (V. y U.), de 2011.
 
-e) Para acreditar que el inmueble del cual es propietario el postulante, su cónyuge o conviviente o alguno de los otros miembros de su núcleo familiar declarado, se encuentra declarado inhabitable o el sitio no es apto para la construcción, según lo establecido en la letra a) del artículo 5, del DS Nº 49 (V. y U.), de 2011.
+e) Para acreditar que el sitio del cual es propietario el postulante, su cónyuge o conviviente o alguno de los otros miembros de su núcleo familiar declarado, no es apto para la construcción, a fin de configurar lo señalado en la letra b) del artículo 4, del DS Nº 49 (V. y U.), de 2011.
 
 f) Para que el postulante que cuente con un subsidio anterior acredite que dicho beneficio está asociado a su cónyuge, y se encuentra separado de hecho y ha iniciado el trámite de divorcio, según lo establecido en la letra g) del artículo 5, del DS Nº 49 (V. y U.), de 2011.
 
@@ -80,7 +76,7 @@ g) Para acreditar la inscripción en el Registro Nacional de Bomberos Voluntario
 
 h) Para adjuntar el certificado que acredite su calidad de funcionario de recintos penitenciarios, otorgado por Gendarmería de Chile a fin de obtener el puntaje señalado en el inciso séptimo de la letra a) del artículo 24 del DS Nº 49 (V. y U.), de 2011, referido a pertenecer a las Plantas de Suboficiales y Gendarmes, o de Profesionales funcionarios, de Profesionales, de Técnicos, de Administrativos y de Auxiliares, de Gendarmería de Chile.
 
-i) Para la validación de estado civil del postulante o algún miembro de su núcleo familiar declarado, mediante el certificado de matrimonio, viudez o de acuerdo de unión civil, según corresponda.
+i) Para la validación de estado civil del postulante o algún miembro de su núcleo familiar declarado, mediante el certificado de matrimonio, certificado de defunción del cónyuge, de acuerdo de unión civil, o copia autorizada de la demanda de divorcio con constancia de notificación, según corresponda.
 
 8. Para postular al presente llamado, los interesados deberán pertenecer al 40% más vulnerable de la población nacional, según Registro Social de Hogares. Todos los antecedentes de los postulantes, incluyendo la conformación del núcleo familiar y las condiciones de la vivienda habitada, serán consultados directamente de dicho Registro.
 
