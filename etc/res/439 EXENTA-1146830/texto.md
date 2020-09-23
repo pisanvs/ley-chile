@@ -42,6 +42,8 @@ Resolución:
 
 .
 
+A su vez, se exime el plazo para la acreditación del ahorro establecido en el artículo Nº 15 del DS Nº 27 (V. y U.), de 2016, y se establece que al momento de presentar la carpeta de postulación a Serviu, este ahorro debe estar acreditado.
+
 3. La condición de condominio objeto de atención del programa, será acreditada por la Seremi Minvu correspondiente, en atención a los requisitos señalados en el artículo 89 del DS N° 27 (V. y U.), de 2016.
 
 Para iniciar el proceso de postulación, las comunidades de copropietarios y residentes, interesadas en postular, deberán presentar en la Secretaría Regional Ministerial de Vivienda y Urbanismo Región del Libertador General Bernardo O'Higgins, un expediente que contenga los antecedentes que permitan acreditar la condición de condominio objeto del llamado, el diagnóstico del déficit o deterioro físico y la consecuente priorización de obras a ser financiadas.
@@ -102,7 +104,7 @@ j) Identificación de la cantidad de recursos requeridos mediante subsidio, con 
 
 8. En atención a lo dispuesto en el Artículo 3 del DS N° 27 (V. y U.), de 2016, en el marco del presente llamado, se establece lo siguiente:
 
-a. El proceso de Habilitación de las postulaciones, descrito en el Artículo 27, numeral 2, podrá definir una lista de espera con proyectos cuyo monto de financiamiento a subsidiar sea equivalente al 20% de los recursos dispuestos en el resuelvo 11 del presente llamado.
+a) El proceso de Habilitación de las postulaciones, descrito en el artículo Nº 27, numeral 2, podrá definir una lista de espera con todos los proyectos que no hayan sido preseleccionados, de acuerdo al monto disponible del llamado, a fin de contar con la calificación de todos los proyectos.
 
 b. El proceso de Revisión y Calificación de Proyectos descrito en el Artículo 27, numeral 4, de dicho reglamento, considerará solo una instancia de observaciones, mediante la cual Serviu comunicará a la Entidad Patrocinante las inconformidades detectadas y la fecha en que deberá reingresarse el proyecto subsanado. Si persistieren inconformidades tras el reingreso, Serviu deberá excluir dicho proyecto del proceso de selección.
 
@@ -140,6 +142,8 @@ De existir saldos luego de la selección, estos quedarán a disposición de nive
 
 13. Los subsidios que se otorguen conforme al presente llamado, se imputarán a los recursos dispuestos en 2020 para la Región del Libertador General Bernardo O'Higgins, en el Programa de Mejoramiento de Viviendas y Barrios, regulado por el DS N° 27 (V. y U.), de 2016.
 
+14.- En atención al contexto de emergencia sanitaria, para condominios de vivienda social y económicos, no será exigible lo establecido en el artículo 92 del DS Nº 27 (V. y U.), de 2016, cuando se constate, en el caso de condominios sociales, el acuerdo por escrito de la mayoría simple de los derechos en el condominio respecto a la aprobación del proyecto. En el caso de condominios económicos, se deberá constatar el acuerdo por escrito de a lo menos el 5% de los derechos en el condominio respecto a la aprobación del proyecto, únicamente para proyectos de mejoramiento del Programa.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Francisco Javier Ravanal González, Secretario Regional Ministerial de Vivienda y Urbanismo Región del Libertador General Bernardo O'Higgins.
 
 ANEXO: Contenidos Presentación de Proyectos a Serviu
@@ -150,9 +154,9 @@ a) Antecedentes para Revisión de Aspectos Técnicos:
 
 a. Ficha resumen antecedentes vivienda, con nombre y firma de representante legal de Egis.
 
-b. Carátula de postulación colectiva, para proceso de postulación no es necesario con firma. Será exigible firmado por presidente o administrador una vez seleccionado el proyecto.
+b. Eliminado.
 
-c. Certificación emitida por la Seremi. El proyecto técnico presentado Debe coincidir con lo certificado.
+c. Eliminado.
 
 d. Archivo Fotográfico Digital, debe graficar la situación original del entorno y del equipamiento comunitario a intervenir.
 
@@ -174,7 +178,7 @@ l. Plano de Loteo aprobado por CBR o Plano con timbre DOM, debe indicar claramen
 
 m. Certificado de Informes Previos vigente emitido por DOM (cuando corresponda).
 
-n. Permiso de edificación.
+n. Permiso edificación cuando proceda.
 
 o. Especificaciones Técnicas.
 
@@ -186,11 +190,11 @@ r. Declaración Jurada simple donde manifieste no tener ampliaciones irregulares
 
 s. Copia de Certificado de Recepción Municipal que acredite que la superficie original y año de la vivienda.
 
-t. Permiso de Edificación (proyectos de ampliación).
+t. Permiso edificación cuando proceda (proyectos de ampliación).
 
 u. Copia de Contrato de Construcción.
 
-v. Acta de la asamblea de aprobación del proyecto técnico y social, claramente detallado, acta según formato.
+v. Medio de verificación que acredite el acuerdo de los copropietarios para la aprobación del proyecto técnico y social, claramente detallado (Acta según formato).
 
 w. Formato de cumplimiento de Estándares Técnicos mínimos (Res. Ex. 2880 del 05.05.2016). Sólo si se complementa subsidio base con subsidio Adicional de Acond. Térmico o Eficiencia energética.
 
@@ -200,11 +204,13 @@ y. Factibilidad de Servicios (dotación, boleta, factibilidad, etc), en caso de 
 
 z. Autorización jurada simple del jefe de hogar (ocupante) que permita el ingreso a la unidad por parte de la constructora para realizar los trabajos (cuando corresponda).
 
+z.1) Acreditación para solicitar incrementos.
+
 b) Antecedentes para Revisión de Aspectos Administrativos y Socio Familiares:
 
 a. Ficha resumen antecedentes vivienda (Formato Serviu), con nombre y firma de representante legal de EGIS.
 
-b. Certificación emitida por la Seremi (Resolución).
+b. Eliminado.
 
 c. Certificado de avalúo fiscal simple. Para acreditación de rol de propiedad.
 
@@ -212,11 +218,11 @@ d. Acta de asamblea de copropietarios, debe constar la aprobación del reglament
 
 e. Fotocopia RUT de la copropiedad.
 
-f. Carátula de postulación colectiva, para proceso de postulación no es necesario con firma. Será exigible firmado por presidente o administrador una vez seleccionado el proyecto.
+f. Eliminado.
 
 g. Resumen Presupuesto de obras (DS 27), debe estar firmado por el contratista, Representante Legal del Grupo y EGIS, incluir fecha.
 
-h. Declaración que acredite que se enterarán los ahorros, y aportes de terceros (si correspondiere) al momento de la selección. Para este proceso se podrá presentar el documento Serviu, no siendo exigible en este momento el Depósito a Plazo en original, el cual deberán presentar sólo los proyectos seleccionados de forma posterior.
+h. Comprobante que acredite el ahorro (copia). Se solicitará el documento original una vez que el proyecto sea seleccionado.
 
 i. Fotocopia vigente cédula de identidad del representante legal del grupo. Por situación de pandemia Covid 19 según decreto N° 32 del 18 de marzo de 2020.
 
@@ -231,6 +237,8 @@ m. Certificado de Vigencia de la Constructora o Contratista (www.registrostecnic
 n. Nómina de Contratos de Obras de cualquier naturaleza que esté ejecutando el contratista.
 
 o. Declaración Jurada Simple de los ocupantes para acceder a su inmuble en caso que la ejecución de la obra lo requiera. Será exigible para proyectos seleccionados.
+
+o) Autorización jurada simple del jefe de hogar (ocupante) que permita el ingreso a la unidad por parte de la constructora para realizar los trabajos (cuando corresponda).
 
 c) Antecedentes para Revisión de Aspectos Jurídicos:
 
@@ -264,9 +272,9 @@ n. Certificado de inscripción vigente de la Empresa Constructora.
 
 o. Informe de estado situación de la empresa constructora.
 
-p. Fotocopia cédula de identidad de los integrantes del grupo.
+p. Eliminado.
 
-q. Autorización jurada simple del Jefe de hogar (ocupante) que permita el ingreso a la unidad por parte de la constructora para realizar los trabajos.
+q. Eliminado.
 
 d) Antecedentes sociales (Res. Ex 1.237 del 24.05.2020)
 
@@ -313,3 +321,9 @@ h. Contrato de Asistencia Técnica, debe estar suscrito por EGIS y comité.
 i. Carta suscrita por EGIS, donde manifiesta compromiso de gestionar ingreso de Boleta de Garantía post conocimiento de selección del proyecto.
 
 j. Convenio Serviu - Cooperativa Cerrada de Vivienda, regulada por el DFL N° 5 del Ministerio de Economía de 2003 (cuando corresponda).
+
+> **Nota.** El Anexo de la Resolución 712 Exenta, publicado el 23.09.2020, modifica en la letra a) del presente anexo, Antecedentes para Revisión de Aspectos Técnicos, en el sentido de señalar: "se elimina: b) y c) será en enviado por Seremi", razón por la cual se actualiza el presente texto dejando la referida letra c) en los términos señalados.
+
+> **Nota.** NOTA 1 El Anexo de la Resolución 712 Exenta, publicado el 23.09.2020, modifica en la letra b) del presente anexo, Antecedentes para Revisión de Aspectos Administrativos y Socio Familiares, en el sentido de señalar: "Se elimina: b) será enviado por Seremi y f)", razón por la cual se actualiza el presente texto dejando la referida letra b) en los términos señalados.
+
+> **Nota.** NOTA 2 El Anexo de la Resolución 712 Exenta, Vivienda, publicado el 23.09.2020, modifica la presente norma en el sentido de agregar una letra o) en el literal b) Antecedentes para Revisión de Aspectos Administrativos y Socio Familiares de su anexo, Contenidos Presentación de Proyectos a Serviu. Sin embargo, la presente norma ya contenía una letra o, razón por la cual se agrega inmediatamente después de la primera.
