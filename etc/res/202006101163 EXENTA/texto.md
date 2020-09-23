@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN LA DECLARACIÓN DE IMPACTO AMBIENTAL "PARQUE FOTOVOLTAICO EL MIRLO"
+
+De conformidad con lo dispuesto en el artículo 30 bis de la Ley N° 19.300 sobre Bases Generales del Medio Ambiente, y del artículo 94 del DS N° 40/2012 que aprueba el Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que mediante la resolución exenta N° 202006101163 del 10 de septiembre de 2020, dictada por la Dirección Regional del Servicio de Evaluación Ambiental de la Región del Libertador General Bernardo O'Higgins, se ha resuelto dar inicio a un proceso de participación ciudadana, por un plazo de 20 días hábiles, en el contexto de la evaluación de la Declaración de Impacto Ambiental del Proyecto "Parque Fotovoltaico El Mirlo", a emplazarse en la comuna de Malloa, Provincia del Cachapoal, Región del Libertador General Bernardo O'Higgins.
+
+Por lo anterior, a partir del día hábil siguiente a la publicación de este aviso, y por un plazo de 20 días hábiles, cualquier persona natural o jurídica interesada, podrá realizar sus observaciones al Proyecto a través del Portal de Participación Ciudadana en línea, al cual se puede acceder a través del siguiente link de internet: https://www.sea.gob.cl/participacion-ciudadana-y-consulta-indigena.
+
+Adicionalmente, se informa que el expediente íntegro del referido Proyecto, así como el texto íntegro de la resolución antes individualizada, pueden ser conocidos en línea a través del siguiente link de internet: www.sea.gob.cl o en la oficina de la Dirección Regional del Servicio de Evaluación Ambiental, ubicada en calle Campos N° 241, piso 7, Rancagua, teléfonos (56-72) 2229770 - 2239106.
+
+Finalmente, se hace presente que el proyecto "Parque Fotovoltaico El Mirlo", origina la apertura de esta Participación Ciudadana, por cuanto su tipología de ingreso a evaluación genera cargas ambientales, en conformidad a los artículos 3 y 94 del DS N° 40/2012.-
+
+Pedro Pablo Miranda Acevedo, Director Regional del Servicio de Evaluación Ambiental, Región del Libertador General Bernardo O'Higgins.
