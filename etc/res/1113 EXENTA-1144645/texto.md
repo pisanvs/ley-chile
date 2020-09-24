@@ -22,7 +22,7 @@ Resuelvo:
 
 #### Artículo 1º
 
-Declárase como de desempeño de excelencia para los años 2020 y 2021 y, en consecuencia, beneficiarios de la subvención establecida en el artículo 15 de la ley Nº 19.410, a los siguientes establecimientos educacionales subvencionados que se individualizan en el listado contenido en el archivo con firma electrónica avanzada del CD con caratulado "Copia de Base seleccionados SNED 2020-2021", firmado por el Jefe de la División de Educación General, que se acompaña en anexo y que forma parte integrante de la presente resolución.
+Declárase como de desempeño de excelencia para los años 2020 y 2021 y, en consecuencia, beneficiarios de la subvención establecida en el artículo 15 de la ley Nº 19.410, a los siguientes establecimientos educacionales subvencionados que se individualizan en los listados contenidos en los archivos con firma electrónica avanzada del CD con caratulado 'Copia de Base seleccionados SNED 2020-2021' y del CD caratulado 'EE REX 1era modificación SNED RL', ambos firmados por el Jefe de la División de Educación General, que se acompañan en anexo y que forman parte integrante de la presente resolución.
 
 #### Artículo 2º
 
@@ -42,6 +42,6 @@ Téngase presente que la transferencia que se devengue para el año 2021, quedar
 
 #### Artículo 6º
 
-Por razones de economía, eficiencia y de buen servicio, el anexo que contiene la nómina de establecimientos educacionales subvencionados beneficiarios de la subvención por desempeño de excelencia será distribuido en formato digital, por medio de una copia del CD a que refiere el artículo 1º.
+Por razones de economía, eficiencia y de buen servicio, el anexo que contiene la nómina de establecimientos educacionales subvencionados beneficiarios de la subvención por desempeño de excelencia será distribuido en formato digital, por medio de una copia de los CD a los que se refiere el Artículo 1° del presente acto administrativo.
 
 Anótese, comuníquese y publíquese.- Raimundo Larraín Hurtado, Subsecretario de Educación (S).
