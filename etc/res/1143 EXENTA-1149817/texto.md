@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.143 EXENTA, DE 21 DE AGOSTO DE 2020
+
+Por resolución exenta Nº 1.143, de fecha 21 de agosto de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Antofagasta, se autorizó el funcionamiento del terminal no urbano para servicios de locomoción colectiva prestado mediante buses, ubicado en Avenida Arturo Prat Nº 2155, de la comuna de Tocopilla, Región de Antofagasta, inmueble concesionado a la Sociedad de Inversiones e Infraestructura S.A. El administrador del terminal o los funcionarios que al efecto designe el Alcalde, deberán dar cumplimiento a lo establecido en la Ordenanza Municipal aprobada mediante decreto exento Nº 792, de 20 de agosto de 2020, de la I. Municipalidad de Tocopilla.-
+
+Juan Enrique Jara Opazo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Antofagasta.
