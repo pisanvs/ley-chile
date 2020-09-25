@@ -122,6 +122,14 @@ Operación nocturna
 
 Es la operación entre las horas locales de puesta y salida del sol.
 
+Área Urbana Consolidada.
+
+Es la superficie que identifica la densidad de población y la concentración espacial de estructuras físicas, como construcciones, infraestructura vial y viviendas, conforme a la definición del Instituto Nacional de Estadísticas (INE) en el contexto de los resultados del Censo 2017. Se representa por un polígono imaginario que mantiene o aumenta su crecimiento durante un periodo de tiempo.
+
+Área Rural.
+
+Es el área que no es Área Urbana Consolidada.
+
 1.5 Estructura del Sistema
 
 El sistema está basado en la explotación de una estación de radiodifusión, que comprende los estudios donde se genera la señal, planta transmisora y sistema radiante, si existe un radioenlace estudio-planta, éste también formará parte del sistema.
@@ -222,9 +230,9 @@ Además, conforme a lo establecido en la nota 31 del Cuadro de Atribución de Ba
 
 La zona de servicio para las concesiones del Servicio de Radiodifusión Sonora en Frecuencia Modulada, excluidas las del Servicio de Radiodifusión Comunitaria Ciudadana de Libre Recepción, es la zona geográfica en torno a la planta transmisora delimitada por el contorno donde la intensidad de campo eléctrico de la señal es igual a 500 µV/m (54 dBµV/m). Las zonas al exterior del citado contorno, que por particularidades topográficas tengan un valor de intensidad de campo eléctrico igual o superior al señalado, no serán consideradas parte de la zona de servicio y, por ende, no tendrán protección contra interferencias.
 
-La zona de servicio para las concesiones del Servicio de Radiodifusión Comunitaria Ciudadana de Libre Recepción es la zona geográfica en torno a la planta transmisora delimitada por el contorno donde la intensidad de campo eléctrico de la señal es igual a los valores señalados en la siguiente tabla, dependiendo de la población de la(s) localidad(es) en que se encuentre la zona de servicio:
+La zona de servicio para las concesiones del Servicio de Radiodifusión Comunitaria Ciudadana de Libre Recepción corresponde a la zona geográfica en torno a la planta transmisora delimitada por el contorno donde la intensidad de campo eléctrico de la señal es igual a 54 dB (µV/m) en las áreas rurales y de 74 dB (µV/m) en las áreas urbanas consolidadas.
 
-La información de población que se debe utilizar para la aplicación de la tabla anterior, estará disponible en la página www.subtel.cl.
+La información de los polígonos de áreas urbanas consolidadas, estará disponible en la página web institucional de Subtel www.subtel.gob.cl.
 
 Las zonas al exterior del citado contorno, que por particularidades topográficas tengan un valor de intensidad de campo eléctrico igual o superior al señalado, no serán consideradas parte de la zona de servicio y, por ende, no tendrán protección contra interferencias.
 
@@ -352,33 +360,33 @@ Los niveles de protección para este servicio, son aplicados por la Unión Inter
 
 Todo cambio de ubicación de la planta transmisora y la ubicación y características técnicas del sistema radiante, sólo podrá efectuarse previa modificación de la concesión mediante la dictación del decreto correspondiente.
 
-2.5.1 Frecuencia Modulada por Ondas Métricas, FM (incluida la Radiodifusión Comunitaria Ciudadana de Libre Recepción).
+2.5.1 Frecuencia Modulada por Ondas Métricas, FM.
 
-El cálculo de la zona de servicio se realizará de acuerdo al procedimiento establecido en el Apéndice 1. Por consiguiente, el criterio de aceptación de las solicitudes de modificación de ubicación de planta transmisora y/o de las características técnicas del sistema radiante, se sujeta a las siguientes condiciones:
+El cálculo de la zona de servicio se realizará de acuerdo al procedimiento establecido en el Apéndice.
 
-- El nuevo emplazamiento de la planta transmisora
+1. El criterio de aceptación de las solicitudes de modificación de ubicación de planta transmisora y/o de las características técnicas del sistema radiante, se sujeta a las siguientes condiciones:
 
-debe estar siempre al interior de la zona de
+a) El nuevo emplazamiento de la planta transmisora debe estar siempre al interior de la zona de servicio definida en el decreto que otorgó la concesión.
 
-servicio definida en el decreto que otorgó la
+b) La zona de servicio propuesta debe cubrir a lo menos el 70% de la zona de servicio definida en el decreto que otorgó la concesión, excluido el mar, y podrá aumentar en caso de ser técnicamente factible, como máximo un 30%, por cada radial empleado para determinar la zona de servicio.
 
-concesión.
+c) Para aquellas concesiones de frecuencia modulada otorgadas hasta el 05.09.2011, se podrá utilizar el cálculo de la zona de servicio definida en el decreto que otorgó la concesión, obtenido con el método de predicción de zona de servicio establecido en la Recomendación UIT-R P.370 o Recomendación UIT-R P.1546-4, complementada por la Recomendación UIT-R P.1812-1.
 
-- La zona de servicio propuesta debe cubrir a lo
+d) En caso de utilizar como zona de servicio original la obtenida con el método de predicción de zona de servicio Recomendación UIT-R P.370, se considerará a ésta como la zona de servicio máxima, esto es, sin el aumento del 30% por cada radial.
 
-menos el 70% de la zona de servicio definida en
+e) Para aquellos casos en que la zona de servicio propuesta no cumpla la condición de cubrir a lo menos el 70% de la zona de servicio definida en el decreto que otorgó la concesión, excluido el mar, por razones geográficas y de ubicación de la planta transmisora, se aceptará la modificación siempre que mantenga la cobertura de las zonas pobladas originales.
 
-el decreto que otorgó la concesión,para estos
+f) Para aquellos casos en que la zona de servicio original, obtenida con el método de predicción de zona de servicio establecido en la Recomendación UIT-R P.1546-4, complementada por la Recomendación UIT-R P.1812-1, presente un contorno irregular, como ejemplo, de estrella, la obligación establecida en el literal b) precedente podrá reemplazarse, a solicitud fundada de la concesionaria, por la que la zona de servicio propuesta debe mantener la cobertura de las zonas pobladas originales y la variación de las superficies cubiertas no debe variar en más de un 30%.
 
-fines excluido el mar, y podrá aumentar en caso
+2.5.2 Radiodifusión Comunitaria Ciudadana, RCC.
 
-de ser técnicamente factible, como máximo un 30%,
+El cálculo de la zona de servicio se realizará de acuerdo al procedimiento establecido en el Apéndice
 
-por cada radial empleado para determinar la zona
+1. El criterio de aceptación de las solicitudes de modificación de ubicación de planta transmisora y/o de las características técnicas del sistema radiante, se sujeta a las siguientes condiciones:
 
-de servicio.
+a) La zona de servicio propuesta debe cubrir a lo menos el 70% de la zona de servicio definida en el decreto que otorgó la concesión, excluido el mar, pudiendo instalar la planta transmisora fuera de la zona originalmente autorizada y exceder los límites comunales conforme al ámbito de acción comunitaria de la entidad concesionaria y sujeto a los respectivos análisis de factibilidad técnica.
 
-2.5.2 Eliminado.
+b) Se podrá modificar la potencia en el transmisor, siempre que se mantenga la potencia radiada dentro de los rangos definidos en la ley Nº 20.433, quedando su autorización sujeta a factibilidad técnica y la no afectación de la zona de servicio de otros concesionarios, así como al cumplimiento de las demás disposiciones establecidas en la misma ley.
 
 2.5.3 Amplitud Modulada por Ondas Hectométricas, AM.
 
@@ -412,7 +420,15 @@ Para el cálculo, se aplicará el procedimiento establecido en las Acta Finales 
 
 La determinación de las señales interferentes es realizada por la Unión Internacional de Telecomunicaciones UIT, en conformidad a lo establecido en el procedimiento de coordinación internacional, artículo S12 del Reglamento de Radiocomunicaciones.
 
+2.8 A fin de garantizar la prestación de un mejor servicio y óptimo uso de los recursos, los parámetros técnicos de las concesiones deberán cumplir, tanto para el otorgamiento como para su modificación, con los siguientes requisitos:
+
+.
+
+Sin perjuicio de lo anterior, la Subsecretaría de Telecomunicaciones podrá establecer en las bases de los concursos de radiodifusión sonora otras restricciones específicas como, entre otras, a la ubicación y cota del terreno donde se pueden emplazar las plantas transmisoras, a fin de garantizar la factibilidad técnica y la operación libre de interferencias.
+
 > **Nota.** El artículo transitorio de la RES 1117 Exenta, Transportes, publicada el 23.09.2000, estableció que aquel concesionario que haya presentado una solicitud de modificación para este servicio con anterioridad a la entrada en vigencia de esa norma y cuyo extracto haya sido publicado oportunamente en el D.O., se regirá por la presente norma, sin sujeción a la presente modificación.
+
+> **Nota.** NOTA 1 La disposición transitoria de la Resolución 1488 Exenta, Transportes, publicada el 25.09.2020, estableció que conforme a la modificación que dispuso por medio de la letra b) del resuelvo de la citada norma al punto 2.3.1 de la presente norma, se asimilará el nivel de intensidad de campo que define la zona de servicio de las concesiones de radiodifusión comunitaria ciudadana vigentes a la fecha de publicación de esta norma, al valor que se obtiene según la planta transmisora esté ubicada dentro o fuera de un área urbana consolidada.
 
 Anótese y publíquese en el Diario Oficial.- Juanita Gana Quiroz, Subsecretaria de Telecomunicaciones.
 
