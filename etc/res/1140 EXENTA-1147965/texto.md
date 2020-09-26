@@ -32,7 +32,7 @@ Resolución:
 
 1. Llámase a proceso de selección para el otorgamiento de subsidios del Programa Habitacional Fondo Solidario de Elección de Vivienda, regulado por el DS Nº 49 (V. y U.), de 2011, y sus modificaciones, en todas las regiones del país, en la alternativa de postulación individual, para operaciones de adquisición de vivienda construida, o para la asociación o adscripción a una vivienda de la nómina de oferta, hasta agotar la totalidad de los recursos dispuestos para cada Región, según corresponda, de acuerdo al cuadro inserto en el Resuelvo 2. de esta resolución.
 
-Las postulaciones al presente llamado solo podrán efectuarse por vía electrónica, mediante el sistema informático que se dispondrá al efecto, entre los días 22 y 30 de septiembre de 2020, ambas fechas inclusive.
+Las postulaciones al presente llamado solo podrán efectuarse por vía electrónica, mediante el sistema informático que se dispondrá al efecto, entre los días 25 de septiembre y 7 de octubre de 2020, ambas fechas inclusive.
 
 2. Los recursos dispuestos para la selección de postulantes, por Región del país, son los siguientes:
 
@@ -48,7 +48,7 @@ El ingreso de antecedentes al sistema informático de postulación en línea, en
 
 Sin perjuicio de lo anterior, el postulante podrá continuar su proceso de postulación, acompañando en forma digital los documentos que le sean solicitados durante el proceso o requeridos en forma posterior mediante correo electrónico postulacionds49@minvuconecta.cl.
 
-Los Serviu validarán los documentos que adjunte cada postulante, debiendo pronunciarse en los casos observados, respecto de la habilidad de la postulación, a más tardar el día 21 de octubre de 2020.
+Los Serviu validarán los documentos que adjunte cada postulante, debiendo pronunciarse en los casos observados, respecto de la habilidad de la postulación, a más tardar el día 30 de octubre de 2020.
 
 De requerir el Serviu, mediante el correo electrónico señalado, algún documento para su revisión, el postulante deberá remitirlo por la misma vía u otro medio electrónico que se disponga al efecto, dentro de 5 días corridos. Con todo, no podrá sobrepasar la fecha indicada.
 
