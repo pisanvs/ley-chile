@@ -310,6 +310,8 @@ Zona B4: Equipamientos - 4
 
 Zona B5: Equipamientos - 5 (Cementerio)
 
+Zona B7: Equipamiento - 7
+
 Zona BCD1: Equipamientos, Actividades
 
 Productivas.
@@ -1022,6 +1024,46 @@ Coeficiente de
 
 Ocupación de Suelo : 0,2
 
+Zona B7: Equipamiento - 7
+
+USOS DE SUELO PERMITIDOS:
+
+- Equipamiento: Comercio; Esparcimiento; Salud, excepto Cementerios y Crematorios.
+
+- Espacio Público y Área Verde
+
+USOS DE SUELO PROHIBIDOS:
+
+- Residencial.
+
+- Equipamiento: Científico; Culto y Cultura; Deporte; Educación; Salud del tipo Cementerios y Crematorios; Seguridad; Servicios, excepto Servicios Artesanales y Profesionales, y Social.
+
+- Actividades productivas.
+
+- Infraestructura: Sanitaria del tipo rellenos sanitarios y estaciones exclusivas de transferencia de residuos.
+
+NORMAS DE SUBDIVISIÓN Y EDIFICACIÓN:
+
+- Superficie de Subdivisión Predial Mínima:2.500 m2
+
+- Sistemas de Agrupamiento: Aislado
+
+- Altura Máxima de Edificación: 3,5 metros
+
+- Coeficiente de Constructibilidad:0,3
+
+- Coeficiente de Constructibilidad paraSegún art. 2.1.30 y 2.1.31
+
+Espacio Público y Área Verde: de la O.G.U.C.
+
+- Coeficiente de ocupación de Suelo0,3
+
+- Coeficiente de Ocupación de Suelo paraSegún art. 2.1.30 y 2.1.31
+
+Espacio Público y Área Verde: de la O.G.U.C.
+
+- Antejardín 2 metros
+
 ZONA BCD1: Zona Equipamiento - Actividades Productivas-
 
 USOS DE SUELO PERMITIDOS:
@@ -1641,3 +1683,5 @@ ICH-07 Antiguo lavadero de Carbón, ubicado Boca Lebu
 ZCM ZONA DE PROTECCIÓN POR CEMENTERIO MAPUCHE
 
 Zona de condición especial: Para cualquier tipo de intervención que se requiera ejecutar en esta zona, deberá ser aprobada por el Consejo de Monumentos Nacionales, antes de ser ingresado a la Dirección de Obras Municipales.
+
+> **Nota.** El numeral 1° del Decreto 6704, Municipalidad de Lebu, publicado el 23.10.2018, modifica la presente norma en el sentido de agregar la Zona BA-C "Barrio Antiguo - Sector Consistorial", en el área comprendida entre las calles Freire por el norte, Saavedra y José Joaquín Pérez por el oriente, Ramírez y Andrés Bello por el sur y Mackay por el poniente.
