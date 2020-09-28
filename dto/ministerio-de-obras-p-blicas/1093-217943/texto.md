@@ -134,19 +134,19 @@ c) Contratos Regionales
 
 Autoridades Modificación en UTM
 
-Jefe Oficina Regional
+Jefe de Oficina Regional
 
-con V°B° Igual o Superior a 5.000
+con V°B° Igual o Superior a 15.000
 
-Director General Inferior a 7.500
+de Director General Inferior a 30.000
 
-Jefe Oficina Regional
+Jefe de Oficina Regional
 
 con V°B°
 
-Director Nacional Inferior a 5.000
+de Director Nacional Inferior a 15.000
 
-Jefe Oficina Regional
+Jefe de Oficina Regional
 
 con V°B° Seremi Inferior a 2.500
 
