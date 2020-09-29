@@ -34,7 +34,7 @@ Resuelvo:
 
 1° Desígnese como Jefe de la Oficina Regional de Tarapacá a don Ariel Sergio Pliscoff Castillo, RUN 15.373.293-0, profesional a contrata, asimilado a grado 6° de la planta de personal de la Superintendencia del Medio Ambiente.
 
-2° Desígnese que durante la ausencia, impedimento o vacancia del cargo de Jefe de la Oficina Regional de Tarapacá, la subrogancia será ejercida por doña Tamara Monserrat González González, profesional a contrata, asimilado a grado 10° de la planta de personal de la Superintendencia del Medio Ambiente.
+2° Derogado .
 
 3° Asígnase funciones directivas a la funcionaria individualizada en el punto resolutivo primero de este acto administrativo, a fin de que ejerza las funciones que corresponden a la Oficina Regional de Tarapacá, consignadas en la resolución exenta N° 424, de 2017, que fija la organización interna de la Superintendencia del Medio Ambiente, así como todas aquellas que expresamente le corresponde desarrollar en su calidad de jefatura, de acuerdo a la legislación vigente y las demás que le encomiende o delegue el jefe superior del Servicio.
 
