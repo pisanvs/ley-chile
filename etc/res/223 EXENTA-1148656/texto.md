@@ -196,7 +196,15 @@ Disposiciones transitorias
 
 PRIMERO: Para los efectos de verificar los requisitos de los artículos 1º, 4º o 5º de la ley Nº 21.230, en los términos de los incisos primero y tercero del artículo tercero de la presente resolución, se estará a lo señalado en los artículos primero transitorio de la ley Nº 21.243 y primero transitorio de la ley Nº 21.251.
 
+DISPOSICIÓN TRANSITORIA: Las modificaciones establecidas en los puntos IV y V podrán aplicarse a todos los casos en que resulte procedente, cuando el respectivo pago esté pendiente, aun cuando dicha situación haya ocurrido con anterioridad a la publicación del presente acto administrativo.
+
+> **Nota.** El artículo primero de la Resolución 250 Exenta, Desarrollo Social, publicada el 29.09.2020, dispone modificar la Resolución 187 Exenta publicada 03.07.2020, que fija el texto refundido de la Resolución 138, publicada el 20.05.2020, en el sentido se agregar una disposición transitoria. Sin embargo, la Resolución 223 Exenta, publicada el 24.08.2020, refunde nuevamente la citada Resolución 138, es por esta razón que se efectúa en la presente norma la actualización indicada.
+
 SEGUNDO: En caso que el Ministerio de Hacienda, mediante uno o más decretos expedidos bajo la fórmula "Por orden del Presidente de la República" y suscritos además por el Ministro de Desarrollo Social y Familia, extendiera el Ingreso Familiar de Emergencia a un quinto y sexto aporte, en los términos del inciso cuarto del artículo 5 bis de la ley Nº 21.230, a dichos aportes les resultarán aplicables las normas del presente acto administrativo, con excepción de su artículo tercero, salvo en lo señalado en su inciso primero relativo a personas que cambian de hogar.
+
+DISPOSICIÓN TRANSITORIA: Las modificaciones establecidas en los puntos IV y V podrán aplicarse a todos los casos en que resulte procedente, cuando el respectivo pago esté pendiente, aun cuando dicha situación haya ocurrido con anterioridad a la publicación del presente acto administrativo.
+
+> **Nota.** El artículo primero de la Resolución 250 Exenta, Desarrollo Social, publicada el 29.09.2020, dispone modificar la Resolución 187 Exenta publicada 03.07.2020, que fija el texto refundido de la Resolución 138, publicada el 20.05.2020, en el sentido se agregar una disposición transitoria. Sin embargo, la Resolución 223 Exenta, publicada el 24.08.2020, refunde nuevamente la citada Resolución 138, es por esta razón que se efectúa en la presente norma la actualización indicada.
 
 Anótese y publíquese.- Alejandra Candia Díaz, Subsecretaria de Evaluación Social.
 
