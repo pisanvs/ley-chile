@@ -66,7 +66,9 @@ Los plazos de la tercera selección son los detallados a continuación:
 
 En caso de requerirse, el período de digitación podrá prorrogarse dentro del plazo de la habilitación de postulaciones. Esta condición también será aplicable a la segunda selección.
 
-7. Los recursos disponibles para efectuar la selección de proyectos, que incluyen el monto del subsidio más la asistencia técnica respectiva, se distribuirán provincialmente según lo señalado en la siguiente tabla:
+7. Los recursos disponibles para efectuar la selección de proyectos, que incluyen el monto del subsidio más la asistencia técnica respectiva, se distribuirán según lo señalado en la siguiente tabla:
+
+.
 
 Con estos montos se definirá el número de postulantes que deberán presentar las carpetas de sus proyectos al Serviu. Asimismo, tendrán que presentar sus carpetas, los postulantes de la lista de espera señalada en el segundo párrafo del numeral 2 del Artículo 27 del DS N° 27 (V. y U.), de 2016, que para todas las selecciones de este llamado será el total de los proyectos digitados.
 
