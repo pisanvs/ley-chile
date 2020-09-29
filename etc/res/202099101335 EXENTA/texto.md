@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "PARQUE SOLAR GUINDO SANTO"
+
+De conformidad con lo dispuesto en el artículo 94 del DS Nº40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta Nº 202099101335, de fecha 4 de mayo de 2020, la Directora Regional del Servicio de Evaluación Ambiental de la Región de Ñuble ha resuelto dar inicio a un proceso de participación ciudadana por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley Nº 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto: "Parque Solar Guindo Santo", cuyo proponente es Empresa Eléctrica Guindo Santo SpA.
+
+El Proyecto se sitúa en la Región de Ñuble y se localiza en la provincia de Diguillín, comuna de Yungay y, particularmente, en el sector de Los Mayos. El proyecto consiste en la construcción y operación de un parque fotovoltaico destinado a la generación de energía eléctrica a partir de la tecnología solar fotovoltaica, cuya potencia nominal será de 9 MW. La vida útil del proyecto es de 25 años.
+
+Para conocimiento de la comunidad, cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del DS Nº 40/2012 y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental de 20 días hábiles, contados a partir del día hábil siguiente de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido a través del sitio web www.sea.gob.cl, así como también podrá acceder a ella en las oficinas de la Dirección Regional del SEA Ñuble, ubicadas en calle Vega de Saldías 645, Chillán, en horario de atención entre las 10:00 a 13:00 hrs., en días hábiles de lunes a viernes.-
+
+Any Andrea Riveros Aliaga, Directora Regional, Servicio de Evaluación Ambiental Región de Ñuble.
