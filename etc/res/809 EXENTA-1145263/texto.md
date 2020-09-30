@@ -56,7 +56,9 @@ Resolución:
 
 1.4 Proyectos de Acondicionamiento Térmico de la Vivienda, para viviendas emplazadas en zonas de las comunas vinculadas a los Planes de Descontaminación Atmosférica (PDA) a que se refieren los decretos citados en los Vistos 3), 4), 5), 6), 7), 8), 9), 10), 11) y 12) de la presente resolución, excepto en la Región del Libertador General Bernardo O'Higgins, donde sólo se abordarán las comunas o partes de éstas emplazadas en la zona térmica 3, los que se regirán por lo señalado en el resuelvo 8 de esta resolución exenta.
 
-2. Las fechas de cierre de las postulaciones de este llamado serán, la primera el 8 de julio, la segunda el 7 de septiembre y la última el 30 de noviembre de 2020, pudiendo cada Serviu definir en cuál de estas fechas participará. Sólo podrán participar en estas selecciones las familias cuyos proyectos hayan sido calificados antes de las fechas de cierre informadas.
+2. Las fechas de cierre de las postulaciones de este llamado serán, la primera el 8 de julio, la segunda el 7 de septiembre y la última el 15 de diciembre de 2020, pudiendo cada Serviu definir en cuál de estas fechas participará. Sólo podrán participar en estas selecciones las familias cuyos proyectos hayan sido calificados antes de las fechas de cierre informadas.
+
+Además, de forma extraordinaria en el último proceso de postulación para la Línea de Acondicionamiento Térmico para zonas con Planes de Descontaminación Atmosférica, los Serviu que registren volúmenes de postulación superiores en un 25% a los que se registraron en el año anterior, podrán solicitar el ingreso de las carpetas de proyectos que no requieran regularización de las viviendas desde la Segunda semana de septiembre, y de las que consideren regularización, a partir de la primera semana de octubre. Si no tienen esos niveles de postulación, se deberá permitir el ingreso de este tipo de proyectos hasta la última semana de octubre.
 
 3. Los montos totales de recursos para este llamado son los que se señalan en el siguiente cuadro:
 
@@ -370,7 +372,7 @@ Tratándose de la aprobación del proyecto o de la conformidad con las obras, ca
 
 19. Desde la segunda selección de este llamado se podrán postular proyectos del Título II, Mejoramiento de la Vivienda, que consideren proyectos de Obras de Innovación de Eficiencia Energética que se destinen al recambio en la vivienda, de calefactores a leña por un calefactor eficiente, en las zonas con Planes de Descontaminación Atmosférica (PDA) vigentes, debiendo tenerse en consideración las siguientes condiciones:
 
-a) El monto máximo de subsidio para reemplazar el antiguo calefactor a leña y la instalación del nuevo calefactor eficiente, será de hasta 44 UF por familia, incluida la Asistencia Técnica.
+a) El monto máximo de subsidio para reemplazar el antiguo calefactor a leña y la instalación del nuevo calefactor eficiente, será de hasta 44 UF por familia, incluida la Asistencia Técnica, que será de 2 UF.
 
 b) Las características técnicas de los Calefactores y las condiciones de las empresas serán definidas por resolución de la Seremi correspondiente.
 
