@@ -396,6 +396,70 @@ nonies: Los vehículos motorizados livianos que sean mecánicamente aptos para c
 
 El Ministerio de Transportes y Telecomunicaciones publicará para los modelos de vehículos homologados, el estándar superior reconocido.
 
+#### Artículo 4º
+
+decies: Los vehículos motorizados livianos, deberán cumplir con lo estipulado en las letras a) o b) del presente artículo, según la norma que el fabricante, armador, importador o sus representantes soliciten al momento de la homologación, de acuerdo con lo que se señala a continuación:
+
+a) Los límites indicados en la Tabla 1 y la Tabla 2, son aplicables a los vehículos que allí se indican.
+
+Dichos límites deberán ser garantizados para una durabilidad de 160.000 kilómetros (km) de uso, por las mismas personas e instituciones y de la misma forma indicada en el artículo 3º del decreto supremo Nº 54, de 1997, del Ministerio de Transportes y Telecomunicaciones, que dispone normas sobre homologación de vehículos.
+
+Tabla 1. Vehículos livianos con motor de encendido por chispa Euro 6b, Euro 6c(¹)
+
+.
+
+*Peso en vacío +100 kg.
+
+** MP y NP se aplicará únicamente a los vehículos equipados con motores de inyección directa. Para el cumplimiento de la norma Euro 6b el límite será 6,0 x 1012
+
+______________
+
+(1) Para efectos de la presente norma, las nomenclaturas que se indican corresponden a los siguientes conceptos: CO: monóxido de carbono; NO x: óxidos de nitrógenos; HCT: hidrocarburos totales; HCNM: hidrocarburos no metánicos; MP: material particulado; NP: número de partículas.
+
+Tabla 2. Vehículos livianos con motor de encendido por compresión Euro 6b, Euro 6c
+
+.
+
+*Peso en vacío +100 kg.
+
+Las mediciones deberán efectuarse conforme a las condiciones normalizadas de medición estipuladas por la Comunidad Europea en el Reglamento 715/2007, modificado por el Reglamento 692/2008 o los que los reemplacen o los modifiquen.
+
+Los límites de emisión indicados en la Tabla 1 y Tabla 2, para los vehículos que allí se señalan, serán exigibles en las fechas que a continuación se indican:
+
+Primera fase: Los nuevos modelos de vehículos motorizados livianos, cuya primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, se solicite después de transcurridos 24 meses desde la publicación en el Diario Oficial del presente decreto, y para todos los modelos de vehículos motorizados livianos, cuya primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, se solicite transcurridos 30 meses, contados de la misma forma, solo podrán circular por el territorio nacional si son mecánicamente aptos para cumplir con los niveles máximos de emisión indicados en las Tablas 1 y 2, Euro 6b, ciclo New European Driving Cycle (NEDC).
+
+Segunda fase: Los modelos de vehículos motorizados livianos, cuya primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, se solicite transcurridos 48 meses, contados desde la publicación en el Diario Oficial del presente decreto, solo podrán circular por el territorio nacional, si son mecánicamente aptos para cumplir con los niveles máximos de emisión de las Tablas 1 y 2, Euro 6c, ciclo Worldwide Harmonized Light Vehicles Test Procedure (WLPT).
+
+Para que entre en vigencia la obligación de la segunda fase, deberá existir disponibilidad de combustibles con contenido de azufre de 10 ppm máximo, en todo el país, con al menos 6 meses de anticipación a la entrada en vigencia de dicha obligación. Para lo anterior, el Ministerio de Energía determinará la fecha de disponibilidad del combustible señalado, mediante decreto supremo dictado a lo menos 15 meses antes de la entrada en vigencia de la segunda fase.
+
+Excepcionalmente, en caso de que a la fecha de entrada en vigencia de la obligación señalada para la segunda fase, no exista disponibilidad de combustibles con contenido de azufre de 10 ppm máximo, el plazo podrá prorrogarse hasta por 12 meses.
+
+b) Los límites de emisión señalados en la Tabla 3, siguiente, serán aplicables a todos los vehículos independientemente del tipo de combustible que utilicen.
+
+La durabilidad de 150.000 millas, para cada conjunto de emisiones de escape, señalado en la Tabla 3, deberá ser acreditada por las mismas personas e instituciones y de la misma forma indicada en el artículo 3º del decreto supremo Nº 54, de 1997, del Ministerio de Transportes y Telecomunicaciones, que dispone normas sobre homologación de vehículos.
+
+Tabla 3. Vehículos livianos con motor encendido por chispa y motor con encendido por compresión
+
+.
+
+Las normas señaladas en la tabla anterior serán exigibles en las fechas que a continuación se indican:
+
+Primera fase: Los nuevos modelos de vehículos motorizados livianos, cuya primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, se solicite después de transcurridos 24 meses desde la publicación en el Diario Oficial del presente decreto y, para todos los modelos de vehículos motorizados livianos, cuya primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, se solicite transcurridos 30 meses, contados de la misma forma, solo podrán circular por el territorio nacional, si son mecánicamente aptos para cumplir con los niveles máximos de emisión de la Tabla 3, bin 125.
+
+Segunda fase: Los modelos de vehículos motorizados livianos, cuya primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, se solicite después de transcurridos 48 meses desde la publicación en el Diario Oficial del presente decreto, solo podrán circular por el territorio nacional, si son mecánicamente aptos para cumplir con los niveles máximos de emisión de la Tabla 3, bin 70.
+
+Para que entre en vigencia la obligación de la segunda fase, deberá existir disponibilidad de combustibles con contenido de azufre de 10 ppm máximo, en todo el país, con al menos 6 meses de anticipación a la entrada en vigencia de dicha obligación. Para lo anterior, el Ministerio de Energía deberá determinar la fecha de disponibilidad del combustible señalado, mediante decreto supremo dictado a lo menos 15 meses antes de la entrada en vigencia de la segunda fase.
+
+Excepcionalmente, en caso de que a la fecha de entrada en vigencia de la obligación señalada para la segunda fase, no exista disponibilidad de combustibles con contenido de azufre de 10 ppm máximo, el plazo podrá prorrogarse hasta por 12 meses.
+
+Las mediciones se efectuarán conforme a las condiciones normalizadas de medición estipuladas por la Agencia de Protección Ambiental de los Estados Unidos de Norteamérica (USEPA), en el llamado "Code of Federal Regulation" título 40, parte 86-Control of air pollution from new vehicle engines, método FTP-75.
+
+Para efectos del presente decreto se considerarán nuevos modelos, aquellos vehículos respecto de los cuales se solicite una nueva homologación de emisiones, acorde con lo dispuesto en el decreto supremo Nº 54, de 1997, del Ministerio de Transportes y Telecomunicaciones, a partir del mes 24 contado desde la fecha de publicación en el Diario Oficial del presente decreto.
+
+#### Artículo 4º
+
+undecies: Transcurridos 24 meses desde la publicación del presente decreto, el Ministerio del Medio Ambiente iniciará la revisión de los límites máximos de emisión aplicables a vehículos livianos para establecer los límites de emisión de la norma Euro 6d y sus equivalentes en la norma de la Agencia de Protección Ambiental de los Estados Unidos de Norteamérica (USEPA).
+
 #### Artículo 5
 
 Para efectos de la medición de las emisiones, dependiendo de la norma que el fabricante, armador, importador o sus representantes soliciten al momento de la homologación, las condiciones normalizadas serán las siguientes:
