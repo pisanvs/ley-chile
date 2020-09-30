@@ -1,0 +1,5 @@
+RESOLUCIÓN EXENTA Nº 180 DE FECHA 26.03.2020 QUE "DISPONE LA SUSPENSIÓN DE LOS PROCEDIMIENTOS ADMINISTRATIVOS EDUCACIONALES QUE INDICA"
+
+Con fecha 26 de marzo de 2020, la Superintendencia de Educación dictó la resolución exenta Nº 180, que "Dispone la suspensión de los procedimientos administrativos educacionales que indica", la cual indica los procedimientos administrativos educacionales que serán suspendidos entre el 26 de marzo de 2020 y el 30 de abril de 2020, con la posibilidad de prorrogar dicha medida. Atendida la emergencia sanitaria, la resolución referida comenzará a regir desde la fecha de su dictación sin perjuicio de su publicación en extracto en el Diario Oficial y estará disponible íntegramente en la página web institucional www.supereduc.cl.-
+
+Mauricio Irarrázabal Cerpa, Fiscal, Superintendencia de Educación.
