@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 830, de 02 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 57, para la obra: CONEXIÓN VIAL RUTA 78 HASTA RUTA 68, que figura a nombre de INMOBILIARIA DOS B I LTDA, rol de avalúo 1195-414, Comuna de MAIPU, Provincia de SANTIAGO, REGION METROPOLITANA DE SANTIAGO, superficie 33.716 m2. La Comisión de Peritos integrada por CARLOS ALBERTO MONTECINOS GALLEGUILLOS, MUFIDA VIOLA ABUAWAD ELIAS y GABRIEL ANTONIO PANTOJA RIVERA, mediante informe de tasación de 29 de abril de 2020, fijó el monto de la indemnización provisional en la cantidad de $1.691.990.000 para el lote Nº57. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
