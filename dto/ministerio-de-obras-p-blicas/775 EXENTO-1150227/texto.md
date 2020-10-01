@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 775 de 27 de agosto de 2020, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote 61-C, Rol de avalúo 244-718, comuna de Panguipulli, superficie 1.130 m2., para la obra MEJORAMIENTO RUTAS 203-201 CH SECTOR: PANGUIPULLI - COÑARIPE II, COMUNA DE PANGUIPULLI, PROVINCIA DE VALDIVIA, REGIÓN DE LOS RÍOS. La comisión de peritos, integrada por MARÍA SOLEDAD NÚÑEZ ARROYO, MARÍA ISABEL DE JESÚS RÍOS MARCUELLO y PATRICIO FERNANDO CASAGRANDE ULLOA, fijó el valor de tasación con fecha 23 de enero de 2019, acordándose la indemnización con sus propietarios ERWIN ENRIQUE LEAL MILLANGUIR Y OTROS en la cantidad total de $13.785.730.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
