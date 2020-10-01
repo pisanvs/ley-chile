@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 790, de 27 de agosto de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 16-B, Rol de avalúo 603-282, Comuna de Nueva Imperial, superficie 247 m2., para la obra: CAMINO MEJORAMIENTO RUTA S-222, HUALACURA LOS BOLDOS, SECTOR HUALACURA LOS BOLDOS, TRAMO KM. 0,000 A KM. 13,49200, COMUNA DE NUEVA IMPERIAL, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos integrada por CÉSAR NOLBERTO CAMPOS VERGARA, EVALDO ROBERTO CONTRERAS ROA y PABLO ALEJANDRO SEPÚLVEDA GÓMEZ, fijó el valor de tasación con fecha 05 de septiembre de 2017, acordándose la indemnización con su propietaria FRANCISCA ÑANCO PICHULMAN en la cantidad total de $1.344.403.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
