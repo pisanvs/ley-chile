@@ -38,7 +38,7 @@ Vistos:
 
 17. La resolución exenta Nº 739 (V. y U.), de fecha 27 de abril de 2020, que autoriza a los Secretarios Regionales Ministeriales de Vivienda y Urbanismo para efectuar Llamados especiales correspondientes al Capítulo III: Proyectos para Condominios de Vivienda, del decreto supremo Nº 27 (V. y U.), de 2016, en las regiones para las regiones de Antofagasta, Metropolitana, del Libertador Bernardo O'Higgins, de la Araucanía y de Los Lagos.
 
-18. La resolución exenta Nº 241, de fecha 2 de abril de 2020, del Ministerio de Vivienda y Urbanismo, que define generar una selección complementaria para los proyectos hábiles no seleccionados del último llamado de 2019, a fin de cerrar la atención del DS Nº 255 (V. y U.), 2016.
+18. La resolución exenta N° 730 de fecha 27 de abril de 2020 del Ministerio de Vivienda y Urbanismo, que define generar una selección complementaria para los proyectos hábiles no seleccionados del último Llamado de 2019, a fin de cerrar la atención del DS N°255 (V. y U.), 2006.
 
 19. La resolución exenta Nº 821, de fecha 13.05.2020, del Ministerio de Vivienda y Urbanismo, que adopta medidas excepcionales de gestión que indica respecto de proyectos en actual ejecución de los Programas de Protección del Patrimonio Familiar, y de Mejoramiento de Vivienda y Barrios, regulados por los DS Nº 255, de 2006, y 27, de 2016, ambos de Vivienda y Urbanismo.
 
@@ -73,6 +73,8 @@ Resolución:
 1. Llámese a postulación para el otorgamiento de subsidios correspondientes al Capítulo Tercero: Proyectos para Condominios de Viviendas, del Programa de Mejoramiento de Viviendas y Barrios, regulado por el DS Nº 27 (V. y U.), de 2016, a Condominios de Viviendas Sociales calificados como objeto de atención del programa, según lo establecido en el Artículo 4, Condominios Objeto del Programa, del citado reglamento, y certificaciones reguladas por el DS Nº 255/2016, otorgadas entre los años 2017 y 2019, que se encuentren emplazados en la Región Metropolitana, y consideren obras correspondientes a Mejoramiento de Bienes Comunes edificados y/o ampliación de la vivienda en copropiedad.
 
 2. Los plazos correspondientes a los procesos y fases de postulación y selección de este llamado, serán los siguientes:
+
+.
 
 3. Para habilitar la Certificación de Condominio objeto, esta Secretaría Regional de Vivienda y Urbanismo, ha dispuesto un ingreso digital en el contexto del Estado de Excepción Constitucional de Catástrofe, por Calamidad Pública, declarado en el territorio de Chile. Mediante esta plataforma, las comunidades de copropietarios y residentes interesadas en postular deberán presentar un expediente digital que contenga los antecedentes que permitan acreditar la condición de condominio objeto del llamado. Dicho expediente, deberá ser presentado por una Entidad Patrocinante (EP), según lo indica el Artículo 34 del DS Nº 27 (V. y U.), de 2016.
 
@@ -130,11 +132,17 @@ ii) Subsidio a la Comunidad de Copropietarios: Las copropiedades formalizadas co
 
 Para el presente Llamado, el plazo establecido para la actualización de antecedentes será:
 
+.
+
 10. El proceso de postulación de los proyectos se realizará conforme las etapas que describe el Artículo 27, numeral 1, 2, 3 y 4 del DS Nº 27 (V. y U.), de 2016, considerando lo siguiente:
 
 a) Fase de Digitación de las postulaciones: será responsabilidad de las Entidades Patrocinantes, ingresar completa y correctamente los antecedentes de los postulantes y del proyecto en el Sistema habilitado por Serviu. Además, será responsabilidad de las EP verificar su capacidad máxima y digitar las postulaciones en base lo establecido en el numeral 1 del Artículo 34 del DS Nº 27 (V. y U.). El plazo correspondiente a esta fase será el siguiente:
 
+.
+
 b) Fase de Habilitación de las postulaciones: a la nómina de postulantes válidos emitida por Serviu en la fase anterior, esta Secretaría Regional de Vivienda y Urbanismo, aplicará los factores de selección nacional según el Artículo 94, numeral 1 del DS Nº 27 (V. y U.), de 2016. Además, aplicará los factores regionales establecidos en resuelvo 14 de la presente resolución en estricto orden de prioridad y según la disponibilidad presupuestaria, definiendo así la nómina de postulantes habilitados para presentar proyectos a Serviu Metropolitano. Así mismo, la Seremi, definirá una lista de espera con proyectos habilitados hasta enterar los recursos disponibles para el proceso de selección, cuyo monto de financiamiento a subsidiar sea equivalente al 40% de los recursos establecidos en el resuelvo 12 del presente llamado. Acogiéndose a la facultad del Secretario Ministerial de Vivienda y Urbanismo Metropolitano, y en atención al financiamiento disponible, se establecerá mediante resolución exenta la nómina y el orden de prelación de copropiedades que cumplan con los requisitos válidos de acuerdo a los puntajes Nacionales y Regionales de las postulaciones que resulten habilitadas por Serviu-Seremi para la siguiente etapa. El plazo correspondiente a esta fase será el siguiente:
+
+.
 
 Una vez comunicados los resultados de los proyectos habilitados y en lista de espera, éstos deberán acreditar el ahorro mínimo establecido en el Artículo 88 del DS Nº 27 (V. y U.), de 2016, antes del ingreso de proyecto en Serviu Metropolitano de la Fase Presentación de los Proyectos.
 
@@ -170,11 +178,15 @@ j) Identificación de la cantidad de recursos requeridos mediante subsidio, con 
 
 El plazo correspondiente a esta fase será el siguiente:
 
+.
+
 Los proyectos presentados a Serviu que cumplan lo establecido en el resuelvo 7, cuando hayan sido beneficiados anteriormente con un subsidio regulado por el decreto supremo Nº 255 (V. y U.), de 2006, solo podrán presentar partidas para la ejecución de obras diferentes de aquellas para las cuales recibieron un subsidio anterior.
 
 Los proyectos presentados a Serviu que por resolución de Condominio objeto vigente contengan partidas aprobadas de subsidio de Acondicionamiento Térmico y/o Iluminación Fotovoltaica, deberán ceñirse a las exigencias contenidas en las resoluciones que norman los estándares técnicos para los referidos tipos de obras, citadas en los Vistos 9 y 10 del presente llamado.
 
 d) Fase Revisión y Calificación de Proyectos: El Serviu revisará las factibilidades técnicas, administrativas, legales y sociales únicamente de proyectos habilitados por resolución Seremi de V. y U., ciñéndose estrictamente la elaboración de los proyectos a las partidas prioritarias establecidas por resolución de Condominio objeto de la Seremi. Esta fase, considerará solo una instancia de observaciones, mediante la cual Serviu comunicará a la Entidad Patrocinante las inconformidades detectadas y la fecha en que deberá reingresarse el proyecto subsanado. Si persistieren inconformidades tras el reingreso, Serviu deberá excluir dicho proyecto del proceso de selección e informar a la Entidad Patrocinante el rechazo del mismo. El plazo correspondiente a esta fase será el siguiente:
+
+.
 
 En el caso de los proyectos habilitados que ingresen a Serviu en la modalidad de Subsidio a la Familia y que correspondan a certificaciones válidas según el resuelvo 7 de la presente resolución, las EP deberán identificar en la presentación de los Antecedentes Sociales y Jurídicos, al técnico o profesional del área jurídica que será responsable y estará a cargo de conducir las acciones correspondientes al proceso de formalización de la copropiedad.
 
@@ -184,9 +196,13 @@ Una vez dictada la resolución de proyectos hábiles seleccionados correspondien
 
 12. Los recursos disponibles para efectuar la selección de proyectos será el siguiente:
 
+.
+
 La Subsecretaría de Vivienda y Urbanismo, mediante resoluciones, podrá reasignar estos recursos entre regiones a fin de garantizar la completa asignación de los subsidios del presente llamado.
 
 13. Considerando los recursos establecidos en el resuelvo precedente, se identifica los montos que serán destinados a la selección de: Condominios Sociales que conforman la demanda general del programa; Condominios Sociales insertos en conjuntos habitacionales que, en virtud de las resoluciones exentas citadas en el Visto 7 y 8 de la presente resolución, se encuentran en los barrios seleccionados por el Programa de Recuperación de Barrios y Condominios Sociales de Interés Regional:
+
+.
 
 En caso de resultar excedentes de recursos en alguna de las líneas de atención del cuadro precedente o del Llamado de Condominios de Vivienda Económica, estas podrán ser reasignadas por decisión de la comisión evaluadora.
 
@@ -194,15 +210,29 @@ En caso de resultar excedentes de recursos en alguna de las líneas de atención
 
 a) Criterios regionales para la selección de Demanda General:
 
+.
+
 b) Criterios regionales para la selección de copropiedades emplazadas en Polígono de Recuperación de Barrios correspondientes al período 2014 - 2020.
+
+.
 
 c) Criterios regionales para la selección de copropiedades de Interés Regional Plan Integral:
 
+.
+
 d) Criterios regionales para la selección de copropiedades de Interés Regional Ampliaciones:
+
+.
+
+Nota 2: Se incrementará en puntos según corresponda (1,75, 3,5, 5,25 o 7) los proyectos pertenecientes a los cuadros de las letras b), c) y d), con los mismos criterios de puntaje la letra a), los proyectos de copropiedades que registren postulación anterior consignada en resolución exenta N° 262 Seremi RM (V. y U.) de fecha 4 de febrero de 2020 o planilla de proyectos calificados de Serviu Metropolitano.
+
+Nota 3: Los proyectos consignados en anexos 1 y 2, que registren postulación anterior consignada en resolución exenta N° 262 Seremi RM (V. y U.) de fecha 4 de febrero 2020 o planilla de proyectos calificados 2019 de Serviu Metropolitano, y que registren cambio de prestador en la actual postulación, será considerada como copropiedad no postulada anteriormente y será evaluada como nueva postulación.
 
 15. Apruébese el documento "Focalización Intervención Regional en Condominios Sociales CCSS 2020", que establece la metodología de aplicación de los criterios regionales, y entiéndase este documento como parte integrante de la presente resolución, el cual se incorpora como Anexo constituyente de la misma.
 
 16. Establécese las siguientes copropiedades de los conjuntos habitacionales de la Región Metropolitana como "Condominios de Interés Regional" en el marco del presente Llamado en condiciones especiales 2020:
+
+.
 
 Establécese, además que la demanda habilitada en certificación del conjunto San Miguel 4 que ha sido seleccionada en intervención por el Programa de Recuperación de Barrios, pero que a su vez forma parte de Copropiedades emplazadas dentro de zona prioritaria, Plan Integral (Sector Bajos de Mena), sea abordada presupuestariamente por esta última.
 
@@ -252,6 +282,8 @@ d) El pago final se efectuará una vez sea acreditado el término de los servici
 
 26. Establézcase a lo menos, los siguientes productos para Copropiedad Inmobiliaria de acuerdo a la resolución Nº 1.237 (V. y U.), de 24.05.2019, según modalidad de postulación y selección:
 
+.
+
 Los honorarios correspondientes a la tabla precedente se pagarán según lo establecido resolución Nº 1.237 (V. y U.), de 2019, una vez que Serviu verifique la realización y cumplimiento de la totalidad de los servicios que establezca el llamado a postulación, previo de Oficio de la Seremi que exprese la conformidad de cumplimiento de la totalidad de componentes descritos en este resuelvo.
 
 27. Los montos de Asistencia Técnica, procedimientos e hitos de pago, serán aquellos establecidos en la resolución Nº 1.237 (V. y U.), de 2019.
@@ -259,5 +291,9 @@ Los honorarios correspondientes a la tabla precedente se pagarán según lo esta
 28. La Seremi, en coordinación con el Serviu, tendrán la facultad de conocer y verificar todos los procedimientos realizados por las EP en el marco del presente llamado, pudiendo requerir documentación, proyectos, modificaciones de proyecto y/o contrato, así como todos los antecedentes necesarios para velar por la correcta implementación del Programa. Asimismo, podrá generar las orientaciones generales y/o específicas necesarias, dirigidas a propiciar una adecuada implementación regional del Programa.
 
 29. En todo aquello no regulado por el presente llamado, se aplicarán las disposiciones contenidas en el decreto supremo Nº 27 (V. y U.), de 2016.
+
+> **Nota.** El resuelvo N° 3 de la Resolución 1124 Exenta, Vivienda, publicada el 01.10.2020, modifica la presente norma en el sentido de reemplazar los plazos establecidos en los cuadros de los resuelvos 10.b); 10.c) y 10.d), como consecuencia del reemplazo del cuadro contenido en el resuelvo N° 2 de la presente norma, ordenado en el resuelvo N° 1 de la citada resolución.
+
+> **Nota.** NOTA 1 El resuelvo N° 5 de la Resolución 1124 Exenta, Vivienda, publicada el 01.10.2020, modifica la presente norma en el sentido de complementar el último inciso del resuelvo 16., agregando el conjunto Mamiña II.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Manuel José Errázuriz Tagle, Secretario Regional Ministerial Metropolitano de Vivienda y Urbanismo.
