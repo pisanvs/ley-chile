@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 722, de 21 de agosto de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL MOP N°206 de 1960, se expropiaron los lotes de terreno N°s. 70 y 71, para la obra: MEJORAMIENTO TORO BAYO-CURIÑANCO EN RUTA T-340, que figuran a nombre de VALLE RIOS ABEL DARIO y VALLE RIOS MIGUEL PLACIDO, roles de avalúo 2438-242 y 2438-243, Comuna de VALDIVIA, REGIÓN DE LOS RÍOS, superficies 277 y 168 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informes de tasación de fecha 31 de julio de 2017, fijó el monto de las indemnizaciones provisionales en las cantidades de $2.391.300.- para el lote N°70, y $3.049.700.- para el lote N°71. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
