@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 432 de fecha 08/09/2020, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Expropiación Lote Empresas de Ferrocarriles del Estado, Galvarino", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Terrenos que conforman el Recinto Estación Galvarino, ubicado en la comuna de Galvarino, Novena Región, de una superficie de ciento nueve mil quinientos setenta y cuatro metros cuadrados, Sin Rol de Avalúo, comuna de Galvarino. La superficie a expropiar aproximada es de 26.409,92 metros cuadrados, de aparente dominio Empresas de Los Ferrocarriles del Estado. Comisión de Peritos integrada por don Claudio Alejandro Romo Sanhueza, doña Constanza Victoria Hilda Mihoevic González y don Eduardo Antonio Yáñez Insunza, fijó monto de Indemnización Provisional en $106.799.925.- según Informe Nº 01-0B de fecha 01/09/2020, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
