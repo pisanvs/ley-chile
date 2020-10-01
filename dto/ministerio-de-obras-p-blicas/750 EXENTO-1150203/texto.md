@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°750, de 27 de agosto de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL MOP N°206 de 1960, se expropiaron los lotes de terreno N°s. 323-A, 324-A, 325-A y 326-A, para la obra: AMPLIACION REPOSICION RUTA V-85, SECTOR: HUITO - CALBUCO, que figuran a nombre de CABERO CABERO CARLOS, rol de avalúo 173-18, Comuna de CALBUCO, REGIÓN DE LOS LAGOS, superficies 239, 2.281, 811 y 269 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, PATRICIA ANGELICA MORALES RIVERA y ANDRES ECHEVERRIA CAMPO, mediante informe de tasación de 11 de marzo de 2019, fijó el monto de la indemnización provisional en la cantidad de $4.809.000, para el lote N°323-A, $17.252.680, para el lote N°324-A, $42.683.020, para el lote N°325-A y $2.398.290, para el lote N°326-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
