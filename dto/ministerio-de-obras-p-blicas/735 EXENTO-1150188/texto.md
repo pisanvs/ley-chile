@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento Nº 735, de 27 de agosto de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 105, Rol de avalúo 194-8, Comuna de Río Claro, superficie 57 m2., para la obra: MEJORAMIENTO RUTA K-275, SECTOR LAS TRANCAS - PARQUE INGLÉS, COMUNAS DE MOLINA Y RÍO CLARO, PROVINCIAS DE CURICÓ Y TALCA, REGIÓN DEL MAULE. La comisión de peritos, integrada por PATRICIO ULISES DURÁN MARCOS, PAULA SOLEDAD GONZÁLEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO , fijó el valor de tasación con fecha 21 de noviembre de 2017, acordándose la indemnización con su propietario FRANCISCO JAVIER ROJAS BRAVO en la cantidad total de $2.717.898.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
