@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°741, de 27 de agosto de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c). 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 46, para la obra: MEJORAMIENTO RUTA C-495, SECTOR LA FRAGUA-JUNTA DE VALERIANO, que figura a nombre de RAUL DEL ROSARIO FLORES GARATE, rol de avalúo 8020-5, Comuna de ALTO DEL CARMEN, REGIÓN DE ATACAMA, superficie 366 m2. La Comisión de Peritos integrada por NORMAN ESTANISLAO CALDERON PONTIGGIA, XIMENA ELIANA PEÑALOZA HERRERO y CLAUDIO ANDRES CONCHA GROSSI, mediante informe de tasación de 18 de noviembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $991.900, para el lote N°46. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
