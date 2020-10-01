@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°705, de 21 de agosto de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL MOP N°206 de 1960, se expropió el lote de terreno N° 19, para la obra: MEJORAMIENTO RUTA C-495, SECTOR LA FRAGUA-JUNTA DE VALERIANO, que figura a nombre de TORRES PORTILLA ALIDA ANTONIA Y OTR, rol de avalúo 898-26, Comuna de ALTO DEL CARMEN, REGIÓN DE ATACAMA, superficie 31 m2. La Comisión de Peritos integrada por NORMAN ESTANISLAO CALDERON PONTIGGIA, XIMENA ELIANA PEÑALOZA HERRERO y CLAUDIO ANDRES CONCHA GROSSI, mediante informe de tasación de 18 de noviembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $82.150, para el lote N°19. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
