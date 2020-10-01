@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº740, de 27 de agosto de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP, Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.120-A, 120-B y 122-A, para la obra: REPOSICION PUENTE PELUMPEN EN RUTA F-660., que figuran a nombre de VARELA FIGUEROA CARLOS, roles de avalúo 261-115, Comuna de OLMUE, REGIÓN DE VALPARAÍSO, superficies 276, 186 y 50 m2. respectivamente. La Comisión de Peritos integrada por CLAUDIA PAOLA ARELLANO GÓMEZ, PEDRO MARIO OSVALDO ALMONACID COLÍN y VICTORIA ADRIANA BLANCO COSTA, mediante informe de tasación de 30 de agosto de 2019, fijó el monto de la indemnización provisional en la cantidad de $1.959.600, para el lote Nº120-A, $1.762.600, para el lote Nº120-B y $355.000, para el lote Nº122-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
