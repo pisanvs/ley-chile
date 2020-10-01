@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 778 de 27 de agosto de 2020, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno 43 y 46, Rol de avalúo 318-54, comuna de Nacimiento, superficies 1.797 y 1.638 m2. respectivamente, para la obra MEJORAMIENTO Y CONSTRUCCIÓN CAMINO CURANILAHUE-NACIMIENTO POR BAJO LOS RÍOS, COMUNA DE NACIMIENTO, PROVINCIA DE BIOBÍO, REGIÓN DEL BIOBÍO. La comisión de peritos, integrada por MARIA PAMELA MAC-GUIRE ACEVEDO, VALERIA DEL CARMEN MARDONEZ LEMA y DORY GISELA DONOSO SALGADO, fijó el valor de tasación con fecha 14 de noviembre de 2018, acordándose la indemnización con su propietaria MARTINA DEL ROSARIO SALAZAR PARRA en la cantidad total de $17.323.895.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
