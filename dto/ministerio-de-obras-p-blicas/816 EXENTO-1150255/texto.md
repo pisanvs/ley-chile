@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°816, de 02 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL MOP N°206 de 1960, se expropiaron los lotes de terreno N°s. 6, 11 y 156, para la obra: MEJORAMIENTO RUTA L-45, SECTOR EL PEÑASCO-RETEN LOS HUALLES, que figura a nombre de URRUTIA GARATE NORA PAMELA, URRUTIA OLATE GERMAN Y OTROS y CANANLES GARCIA CLARA LUZ Y OTROS, roles de avalúo 557-504, 557-94 y 554-615, Comuna de LINARES, REGION DEL MAULE, superficies 166, 86 y 177 m2 respectivamente. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 03 de julio de 2020, fijó el monto de la indemnización provisional en la cantidad de $607.800 para el lote N°6, $343.800 para el lote N°11, y $1.491.350 para el lote N°156. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
