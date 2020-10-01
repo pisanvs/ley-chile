@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 715, de 21 de agosto de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y del DFL. MOP. Nº206, de 1960, se expropió el lote de terreno Nº11, para la obra "Construcción Rta 7.S: Pichanco - Sta Barbara (Expropiación Varios Tramos", Tramo Huinay - Leptepú", que figura a nombre de AGRICOLA GANADERA Y FORESTAL ALERCE, rol de avalúo 102-256, Comuna de Chaitén, Región de Los Lagos, superficie 14.952 m2. La Comisión de Peritos integrada por NELSON BERNARDO TURRA TURRA, JUAN CELESTINO GIOVANNINI MANSILLA y LEOPOLDO RAMÓN SCHUMACHER GUARDA, mediante informe de tasación de 03 de julio de 2013, fijó el monto de la indemnización provisional en la cantidad de $7.476.000.- para el lote Nº 11. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
