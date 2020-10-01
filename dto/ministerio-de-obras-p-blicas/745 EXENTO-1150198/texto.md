@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 745 de 28 de agosto de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DEL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno 3, 6 y 10, Rol de avalúo 271-22, Comuna de Quintero, superficies 4.693, 3.300 y 170 m2. respectivamente, para la obra MEJORAMIENTO RUTA F-190 S: VALLE ALEGRE - PUCHUNCAVI, COMUNAS DE PUCHUNCAVI, QUINTERO, PROVINCIA DE VALPARAÍSO, REGIÓN DE VALPARAISO. La comisión de peritos, integrada por MARCELO GABRIEL OYARZO SALDÍAS, ROBERTO LUIS SEBASTIÁN HERNÁNDEZ y PATRICIO ANTONIO RIVERA CAMPOS, fijó el valor de tasación con fecha 01 de febrero de 2017, acordándose la indemnización con su propietaria INVERSIONES RIO PERDIDO S.A. en la cantidad total de $32.947.169.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
