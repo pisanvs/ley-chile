@@ -24,7 +24,7 @@ Estarán sujetos al Seguro los trabajadores dependientes que inicien o reinicien
 
 El inicio de la relación laboral de un trabajador no sujeto al Seguro generará la incorporación automática a éste y la obligación de cotizar en los términos establecidos en el artículo 5º.
 
-Lo dispuesto en esta ley no regirá respecto de los trabajadores de casa particular, los sujetos a contrato de aprendizaje, los menores de 18 años de edad hasta que los cumplan y los pensionados, salvo que, en el caso de estos últimos, la pensión se hubiere otorgado por invalidez parcial.
+Lo dispuesto en esta ley no regirá respecto de los trabajadores sujetos a contrato de aprendizaje, los menores de 18 años de edad hasta que los cumplan y los pensionados, salvo que, en el caso de estos últimos, la pensión se hubiere otorgado por invalidez parcial o se trate de trabajadores de casa particular.
 
 La incorporación de un trabajador al Seguro no autorizará al empleador a pactar, ya sea por la vía individual o colectiva, una reducción del monto de las indemnizaciones por años de servicios contempladas en el artículo 163 del Código del Trabajo.
 
@@ -44,13 +44,15 @@ Del Financiamiento del Seguro.
 
 El Seguro se financiará con las siguientes cotizaciones:
 
-a) Un 0,6% de las remuneraciones imponibles, de cargo del trabajador con contrato de duración indefinida.
+a) Un 0,6% de las remuneraciones imponibles, de cargo del trabajador con contrato de duración indefinida con,excepción de los trabajadores de casa particular.
 
 b) Un 2,4% de las remuneraciones imponibles, en el caso de los trabajadores con contrato de duración indefinida y un 3% de las remuneraciones imponibles para los trabajadores con contrato a plazo fijo, o por obra, trabajo o servicio determinado. Ambos, de cargo del empleador.
 
+En el caso de los trabajadores de casa particular, se financiará con un 3,0% de las remuneraciones imponibles de cargo del empleador, sin distinguir la duración del contrato.
+
 c) Un aporte del Estado que ascenderá anualmente a un total de 225.792 unidades tributarias mensuales, las que se enterarán en 12 cuotas mensuales de 18.816 unidades tributarias mensuales.
 
-Con todo, si el contrato a plazo fijo se hubiere transformado en contrato de duración indefinida, el trabajador quedará afecto a la cotización prevista en la letra a) y el empleador a la establecida en la letra b) de este artículo para los contratos de duración indefinida, a contar de la fecha en que se hubiere producido tal transformación, o a contar del día siguiente al vencimiento del período de quince meses a que alude el N°4 del artículo 159 del Código del Trabajo, según corresponda.
+Con todo, si el contrato a plazo fijo se hubiere transformado en contrato de duración indefinida, el trabajador quedará afecto a la cotización prevista en la letra a) y el empleador a la establecida en la letra b) de este artículo para los contratos de duración indefinida, a contar de la fecha en que se hubiere producido tal transformación, o a contar del día siguiente al vencimiento del período de quince meses a que alude el N°4 del artículo 159 del Código del Trabajo, según corresponda. Lo dispuesto en este inciso no será aplicable a los contratos de trabajadores de casa particular.
 
 Para todos los efectos legales, las cotizaciones referidas en las letras a) y b) precedentes tendrán el carácter de previsionales.
 
@@ -77,6 +79,8 @@ Las cotizaciones a que se refiere el inciso precedente deberán efectuarse sobre
 #### Artículo 9º
 
 La cotización prevista en la letra a) del artículo 5º y la parte de la cotización de cargo del empleador prevista en la letra b) del mismo artículo, que represente el 1,6% y 2,8%, de la remuneración imponible del trabajador de contrato a plazo indefinido y de contrato a plazo fijo, o por obra, trabajo o servicio determinado, respectivamente, se abonarán en una cuenta personal de propiedad de cada afiliado, que se abrirá en la Sociedad Administradora, la que se denominará "Cuenta Individual por Cesantía".
+
+En el caso de los trabajadores de casa particular, la Cuenta Individual por Cesantía a que se refiere el inciso precedente se financiará con la parte de la cotización de cargo del empleador que represente un 2,2% de la remuneración imponible del trabajador.
 
 Estas cotizaciones deberán enterarse durante un período máximo de once años en cada relación laboral. No obstante, la cotización de cargo del empleador destinada al Fondo de Cesantía Solidario, deberá enterarse mientras se mantenga vigente la relación laboral.
 
@@ -136,7 +140,7 @@ Los afiliados tendrán derecho a una prestación por cesantía, en los términos
 
 a) Que el contrato de trabajo haya terminado por alguna de las causales señaladas en los artículos 159, 160, 161 y 163 bis, o por aplicación del inciso primero del artículo 171, todos del Código del Trabajo.
 
-b) Que el trabajador con contrato indefinido registre en la Cuenta Individual por Cesantía un mínimo de 12 cotizaciones mensuales continuas o discontinuas, desde su afiliación al Seguro o desde la fecha en que se devengó el último giro a que hubieren tenido derecho conforme a esta ley.
+b) Que el trabajador con contrato indefinido o el trabajador de casa particular con independencia de la duración de su contrato registre en la Cuenta Individual por Cesantía un mínimo de 12 cotizaciones mensuales continuas o discontinuas, desde su afiliación al Seguro o desde la fecha en que se devengó el último giro a que hubieren tenido derecho conforme a esta ley.
 
 c) En el caso del trabajador con contrato a plazo fijo o por obra, trabajo o servicio determinado, deberá registrar en la Cuenta Individual por Cesantía un mínimo de 6 cotizaciones mensuales continuas o discontinuas, desde su afiliación al Seguro o desde la fecha en que se devengó el último giro a que hubieren tenido derecho conforme a esta ley, y
 
@@ -144,7 +148,7 @@ d) Encontrarse cesante al momento de la solicitud de la prestación.
 
 #### Artículo 13
 
-Si el contrato terminare por las causales previstas en el artículo 161 del Código del Trabajo, el afiliado tendrá derecho a la indemnización por años de servicios prevista en el inciso segundo del artículo 163 del mismo cuerpo legal, calculada sobre la última remuneración mensual definida en el artículo 172 del mismo, con un límite máximo de trescientos treinta días de remuneración, a menos que se haya pactado, individual o colectivamente, una superior, caso en el cual se aplicará esta última.
+Si el contrato terminare por las causales previstas en el artículo 161 del Código del Trabajo, el afiliado tendrá derecho a la indemnización por años de servicios prevista en el inciso segundo del artículo 163 del mismo cuerpo legal, sin perjuicio de lo dispuesto en el inciso quinto del referido artículo, calculada sobre la última remuneración mensual definida en el artículo 172 del mismo, con un límite máximo de trescientos treinta días de remuneración, a menos que se haya pactado, individual o colectivamente, una superior, caso en el cual se aplicará esta última.
 
 Se imputará a esta prestación la parte del saldo de la Cuenta Individual por Cesantía constituida por las cotizaciones efectuadas por el empleador más su rentabilidad, deducidos los costos de administración que correspondan, con cargo a las cuales el asegurado pueda hacer retiros en la forma que señala el artículo 15.
 
@@ -160,7 +164,7 @@ Establécese la siguiente modalidad de retiro de fondos de la Cuenta Individual 
 
 Tratándose de trabajadores que cesan su relación laboral por alguna de las causales señaladas en los números 4, 5 y 6 del artículo 159 y en el artículo 161 del Código del Trabajo, tendrán derecho a realizar tantos giros mensuales de su Cuenta Individual por Cesantía como su saldo de dicha Cuenta les permita financiar, de acuerdo a los porcentajes expresados en la segunda columna de la tabla establecida en el inciso siguiente.
 
-El monto de la prestación por cesantía durante los meses que se indican en la primera columna, corresponderá al porcentaje indicado en la segunda columna, que se refiere al promedio de las remuneraciones devengadas por el trabajador en los últimos 12 meses, en que se registren cotizaciones anteriores al término de la relación laboral para aquellos que se encuentren contratados con duración indefinida. Tratándose de trabajadores con contrato a plazo fijo o por obra, trabajo o servicio determinado se considerará el promedio de las remuneraciones devengadas por él en los últimos 6 meses en que se registren cotizaciones anteriores al término de la relación laboral.
+El monto de la prestación por cesantía durante los meses que se indican en la primera columna, corresponderá al porcentaje indicado en la segunda columna, que se refiere al promedio de las remuneraciones devengadas por el trabajador en los últimos 12 meses, en que se registren cotizaciones anteriores al término de la relación laboral para aquellos que se encuentren contratados con duración indefinida o para los trabajadores de casa particular. Tratándose de trabajadores con contrato a plazo fijo o por obra, trabajo o servicio determinado se considerará el promedio de las remuneraciones devengadas por él en los últimos 6 meses en que se registren cotizaciones anteriores al término de la relación laboral.
 
 Meses Porcentaje promedio remuneración
 
@@ -252,6 +256,8 @@ Cesantía Solidario
 
 La restante cotización del empleador a que se refiere la letra b) del artículo 5º, esto es el 0,8% y 0,2% de las remuneraciones imponibles del trabajador de contrato a plazo indefinido y de contrato a plazo, o para una obra, trabajo o servicio determinado, respectivamente, y el aporte fiscal a que se refiere la letra c) del mismo artículo, ingresarán a un fondo denominado Fondo de Cesantía Solidario, que deberá mantener la Sociedad Administradora, para los efectos de otorgar las prestaciones por cesantía, en conformidad a los artículos siguientes.
 
+En el caso de los trabajadores de casa particular, la restante cotización del empleador a que se refiere la letra b) del artículo 5º que ingresará al Fondo de Cesantía Solidario, corresponderá a un 0,8% de las remuneraciones imponibles del trabajador, con independencia de la duración del contrato.
+
 #### Artículo 24
 
 Tendrán derecho a recibir prestaciones del Fondo de Cesantía Solidario los trabajadores que cumplan los siguientes requisitos:
@@ -333,6 +339,8 @@ Los giros adicionales señalados en los incisos tercero y cuarto no se considera
 Los valores inferiores y superiores establecidos en los incisos primero, segundo y tercero, se reajustarán el 1º de marzo de cada año, en el 100% de la variación que haya experimentado en el año calendario anterior el Indice de Precios al Consumidor, determinado por el Instituto Nacional de Estadísticas o por el organismo que lo reemplace. Además, dichos valores inferiores y superiores se reajustarán en la misma oportunidad antes indicada, en el 100% de la variación que haya experimentado en el año calendario anterior, el Índice de Remuneraciones Reales determinadas por el mencionado Instituto. Dichos valores serán reajustados por el índice de remuneraciones antes indicado, siempre que su variación sea positiva.
 
 En el caso de trabajadores que, durante los últimos doce meses, hubiesen percibido una o más remuneraciones correspondientes a jornadas parciales, deberá efectuarse un ajuste de los valores superiores e inferiores a que se refiere este artículo en forma proporcional a la jornada promedio mensual de los últimos doce meses.
+
+Serán aplicables a los trabajadores de casa particular las disposiciones del presente artículo, con excepción de los incisos segundo y cuarto.
 
 La responsabilidad del Fondo de Cesantía Solidario operará una vez agotados los recursos de la Cuenta individual por Cesantía.
 
@@ -494,7 +502,7 @@ Durante la vigencia del contrato, la Sociedad Administradora deberá asegurar la
 
 La Sociedad Administradora podrá celebrar contratos de prestación de servicios con entidades externas, según lo que al respecto establezcan las Bases de Licitación y el contrato de administración del Seguro.
 
-La Superintendencia de Pensiones y la Dirección de Presupuestos deberán realizar cada tres años un estudio actuarial que permita evaluar la sustentabilidad del Seguro de Cesantía, en especial del Fondo de Cesantía Solidario. Asimismo, este estudio deberá realizarse cada vez que se proponga una modificación a las prestaciones otorgadas por este seguro, exceptuando el reajuste contemplado en el artículo 25 de la presente ley. Dicho estudio deberá considerar un análisis sobre los aportes y usos de los Fondos de Cesantía, diferenciado según se trate de trabajadores con contrato indefinido o con contrato a plazo fijo o para una obra, trabajo o servicio determinado. El estudio actuarial será público.
+La Superintendencia de Pensiones y la Dirección de Presupuestos deberán realizar cada tres años un estudio actuarial que permita evaluar la sustentabilidad del Seguro de Cesantía, en especial del Fondo de Cesantía Solidario. Asimismo, este estudio deberá realizarse cada vez que se proponga una modificación a las prestaciones otorgadas por este seguro, exceptuando el reajuste contemplado en el artículo 25 de la presente ley. Dicho estudio deberá considerar un análisis sobre los aportes y usos de los Fondos de Cesantía, diferenciado según se trate de trabajadores con contrato indefinido o con contrato a plazo fijo o para una obra, trabajo o servicio determinado, en ambos casos considerando a los trabajadores de casa particular. El estudio actuarial será público.
 
 La duración del contrato será fijada en las respectivas Bases de Licitación, sin que en ningún caso pueda ser superior a diez años
 

@@ -2474,7 +2474,7 @@ La indemnización a que se refiere este artículo será compatible con la sustit
 
 Lo dispuesto en los incisos anteriores no se aplicará en el caso de terminación del contrato de los trabajadores de casa particular, respecto de los cuales regirán las siguientes normas:
 
-a) Tendrán derecho, cualquiera que sea la causa que origine la terminación del contrato, a una indemnización a todo evento que se financiará con un aporte del empleador, equivalente al 4,11% de la remuneración mensual imponible, la que se regirá, en cuanto corresponda, por las disposiciones de los artículos 165 y 166 de este Código, y
+a) Tendrán derecho, cualquiera que sea la causa que origine la terminación del contrato, a una indemnización a todo evento que se financiará con un aporte del empleador, equivalente al 1,11% de la remuneración mensual imponible, la que se regirá, en cuanto corresponda, por las disposiciones de los artículos 165 y 166 de este Código, y
 
 b) La obligación de efectuar el aporte tendrá una duración de once años en relación con cada trabajador, plazo que se contará desde el 1º de enero de 1991, o desde la fecha de inicio de la relación laboral, si ésta fuere posterior. El monto de la indemnización quedará determinado por los aportes correspondientes al período respectivo, más la rentabilidad que se haya obtenido de ellos.
 
@@ -3273,6 +3273,8 @@ c) se ejecute en horario nocturno;
 d) se realice en horas extraordinarias de trabajo, y
 
 e) la autoridad competente declare inconveniente para el estado de gravidez.
+
+Igualmente, si durante el período de embarazo la autoridad declarara el estado de excepción constitucional de catástrofe, por calamidad pública, con ocasión de una epidemia o pandemia a causa de una enfermedad contagiosa, el empleador deberá ofrecer a la trabajadora, durante el tiempo que dure el referido estado de excepción constitucional, la modalidad de trabajo a distancia o teletrabajo, de conformidad con el Capítulo IX del Título II del Libro I de este Código, sin reducción de remuneraciones, en la medida que la naturaleza de sus funciones lo permita y la trabajadora consienta en ello. Si la naturaleza de las funciones de la trabajadora no es compatible con la modalidad de trabajo a distancia o teletrabajo, el empleador, con acuerdo de ella y sin reducir sus remuneraciones, la destinará a labores que no requieran contacto con público o con terceros que no desempeñen funciones en el lugar de trabajo, siempre que ello sea posible y no importe menoscabo para la trabajadora.
 
 #### Artículo 203
 
