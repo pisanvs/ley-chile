@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 743 de 27 de agosto de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno 151, 168, 169 y 170, Roles de avalúo 1178-57 (lote 151) y 1178-58 (lotes 168, 169 y 170) comuna de Ancud, superficies 1.356, 494, 2.462 y 2.662 m2 respectivamente, para la obra MEJORAMIENTO RUTAS W-135-125, SECTOR: RAMPA CHACAO - LINAO, COMUNAS DE ANCUD Y QUEMCHI, PROVINCIA DE CHILOE, REGION DE LOS LAGOS. La comisión de peritos, integrada por CHRISTIAN EMIL RAUCH YAÑEZ, LEOPOLDO RAMON SCHUMACHER GUARDA y JUAN SAMUEL BARRIENTOS BAHAMONDE, fijó el valor de tasación con fecha 20 de julio de 2017 (lote 151) y con fecha 15 de septiembre de 2017 (lotes 168, 169 y 170), acordándose la indemnización con sus propietarios INÉS DEL CARMEN ÁGUILA CONTRERAS Y OTROS, en la cantidad de $22.999.028.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
