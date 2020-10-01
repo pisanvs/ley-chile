@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 810, de 2 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 2-A y 2-B, para la obra: CONSERVACIÓN RED VIAL LOS RÍOS (2015-2016-2017), RUTA 206-CH, SECTOR BETONERA, que figuran a nombre de JARAMILLO GONZÁLEZ ALFONSO ALAMIRO, rol de avalúo 295-7, Comuna de PAILLACO, REGIÓN DE LOS RÍOS, superficies 2.146 y 1.203 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YÁÑEZ RIFFO, MARÍA SOLEDAD NÚÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informes de tasación de fechas 10 de mayo de 2019 y 15 de mayo de 2019, fijó el monto de las indemnizaciones provisionales en las cantidades de $4.338.200.- para el lote N° 2-A, y $2.628.850.- para el lote N° 2-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
