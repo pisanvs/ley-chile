@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MAYOR
+
+Decreto supremo N° 151, de fecha 13 de abril de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Portuaria Cabo Froward S.A., RUT: 96.723.320-K, concesión marítima mayor, con vencimiento el 30 de diciembre de 2034, sobre un sector de playa y fondo de mar, en el lugar denominado sector Puchoco, comuna de Coronel, Provincia de Concepción, Región del Biobío, con una superficie total de 1.724,73 m2, la que fue tramitada con el SIABC N° 28359. A modo de referencia se señala la siguiente coordenada geográfica: Latitud 37°01'43,11" S; Longitud 73°10'36,22". El objeto consiste en amparar la construcción y uso de un rompeolas y una rampa. Las obras consisten en un enrocado de coraza y carpeta de rodado de hormigón de 10 cm de espesor y el plazo contemplado para su ejecución es de 30 meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Coronel. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Coronel, 14 de agosto de 2020.- Cristian Vidal Elías, Capitán de Corbeta LT, Capitán de Puerto de Coronel.
