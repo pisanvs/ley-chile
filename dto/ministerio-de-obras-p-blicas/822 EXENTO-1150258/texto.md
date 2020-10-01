@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 822, de 2 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° V850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° V15.840 y del DFL MOP N° 206 de 1960, se expropió el lote de terreno N° 3, para la obra: MEJORAMIENTO TORO BAYO-CURIÑANCO EN RUTA T-340, que figura a nombre de ZUNIGA LOPEZ MARCELO FRANCISCO Y OT, rol de avalúo 3200-90, Comuna de VALDIVIA, REGIÓN DE LOS RÍOS, superficie 130 m2. La Comisión de Peritos integrada por YASCHALA MARIBEL YÁÑEZ RIFFO, MARÍA SOLEDAD NÚÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de fecha 20 de julio de 2017, fijó el monto de la indemnización provisional en la cantidad de $7.854.600.- para el lote N° 3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
