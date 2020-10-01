@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 856, de 10 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c) y 14° letra e) del DFL. MOP. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N° 206 de 1960; artículo 10 de la Ley N° 18.772, se expropió para la EMPRESA DE TRANSPORTE DE PASAJEROS METRO S.A., el lote de terreno N° 34L7, para la obra: PROYECTO LÍNEA 7 METRO S.A., que figura a nombre de SHELL CHILE S A C E I, rol de avalúo 3214-2, Comuna de QUINTA NORMAL, REGIÓN METROPOLITANA DE SANTIAGO, superficie 3.019,33 m2. La Comisión de Peritos integrada por ANGELICA YANETT SEURA ROJAS, PATRICIA VERONICA ZAVALA CONTRERAS y PATRICIA ANGELICA MORALES RIVERA, mediante informe de tasación de fecha 23 de julio de 2020, fijó el monto de la indemnización provisional en la cantidad de $2.336.575.760.- para el lote N° 34L7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
