@@ -1,0 +1,9 @@
+DISPONE ACUMULACIÓN QUE INDICA Y OTORGA CUARTA RENOVACIÓN CON MODIFICACIÓN DE CONCESIÓN MARÍTIMA MENOR, SOBRE UN SECTOR DE TERRENO DE PLAYA, EN LA COMUNA DE PUCHUNCAVÍ, AL SR. JOSÉ TOMÁS CASTRO PÉREZ
+
+Decreto supremo Nº 105, del 3 de marzo del año 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, decretó acumulación de los procedimientos administrativos identificados con los SIABC Nº 34.643 correspondiente a solicitud de modificación de concesión marítima y Nº 41.896 correspondiente a solicitud de renovación de concesión marítima, ambos respecto del DS Nº 575/2013, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, y otorgó al Sr, José Tomás Castro Pérez, RUN Nº 4.745.734-3, cuarta renovación con modificación de concesión marítima menor que disfrutaba por DS Nº 575, del 7 de noviembre de 2013, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, en el lugar denominado Balneario de Maitencillo, comuna de Puchuncaví, provincia y Región de Valparaíso, sobre un sector de terreno de playa, con una superficie de 19 metros cuadrados y ubicado en la coordenada latitud S 32º 38' 55,74" longitud W 71º 26' 19,49". El objeto de esta concesión marítima, en el sector otorgado, es continuar amparando la construcción existente de una noria para captación de agua potable.
+
+Concesión marítima tramitada mediante los SIABC Nº 34.643 y Nº 41.896: Los antecedentes de ambas solicitudes se encuentran a disposición del público en la Capitanía de Puerto de Quintero.
+
+El presente extracto se encuentra visado por la Capitanía de Puerto anteriormente señalada.-
+
+Mario Besoain Fuentes, Capitán de Fragata LT, Capitán de Puerto de Quintero y Papudo.
