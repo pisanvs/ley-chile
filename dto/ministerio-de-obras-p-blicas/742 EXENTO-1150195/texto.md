@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento Nº 742, de 27 de agosto de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 100-A, Rol de avalúo 475-2, Comuna de Constitución, superficie 59 m2., para la obra: REPOSICIÓN PAVIMENTO RUTA M-50 SECTOR: PELLINES - CRUCE VIÑALES, COMUNA DE CONSTITUCIÓN, PROVINCIA DE TALCA, REGIÓN DEL MAULE. La comisión de peritos, integrada por PATRICIO ULISES DURÁN MARCOS, PAULA SOLEDAD GONZÁLEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO , fijó el valor de tasación con fecha 26 de agosto de 2019, acordándose la indemnización con su propietaria MARTA ANDREA BARRIOS DÍAZ en la cantidad total de $1.497.405.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
