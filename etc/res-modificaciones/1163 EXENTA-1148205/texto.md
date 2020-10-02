@@ -46,9 +46,13 @@ Asimismo, todos los documentos que requieran el visto bueno del grupo organizado
 
 3. Apruébase la nómina de proyectos seleccionados con su respectivo financiamiento total, para el otorgamiento de subsidios del Programa Habitacional Fondo Solidario de Elección de Vivienda en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos, en las regiones de Coquimbo, Valparaíso, Ñuble, Biobío, Araucanía y Los Lagos, correspondiente al proceso de selección cuyo cierre de postulación se efectuó el día 28 de mayo de 2020, del llamado efectuado por resolución exenta N° 584 (V. y U.), de 2020:
 
+.
+
 El detalle de los recursos comprometidos por concepto de subsidio base y subsidios complementarios para cada uno de los proyectos seleccionados en el presente Resuelvo y que por este acto se asignan, se informa en la nómina que se adjunta como anexo y forma parte integrante de la presente resolución.
 
 4. El monto del subsidio asignado de conformidad con el cuadro del Resuelvo 3. de esta resolución comprende los siguientes valores por concepto de Servicios de Asistencia Técnica, de Labores de Fiscalización Técnica de Obra y pago de Aranceles al Conservador de Bienes Raíces:
+
+.
 
 Dichos montos fueron calculados conforme a la resolución exenta N° 1.875 (V. y U.), de 2015, mencionada en el visto f) de la presente resolución:
 
@@ -59,6 +63,8 @@ ii. En el caso de la Fiscalización Técnica de Obras, de acuerdo a la totalidad
 Mediante resolución del Director del Serviu respectivo, se determinarán los montos definitivos de Asistencia Técnica, cuando corresponda otorgar los incrementos que la resolución exenta N° 1.875 (V. y U.), de 2015, establece en las letras e), g), h), i), j) y k) del número 3 de su artículo 3°.
 
 5. Los recursos comprometidos en el Resuelvo 3. de la presente resolución, para los proyectos seleccionados en el concurso a que se llamó por resolución exenta N° 584 (V. y U.), de 2020, cuyo cierre de postulación se efectuó el día 28 de mayo de 2020, se resumen en el siguiente cuadro para cada región del país, incluyendo la suma total de familias beneficiadas y las Unidades de Fomento comprometidas, considerando los montos de subsidio de los proyectos, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras:
+
+.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
