@@ -42,6 +42,8 @@ Por lo anterior y sin perjuicio de otras disposiciones de este Código, son acto
 
 Ningún empleador podrá condicionar la contratación de trabajadores a la ausencia de obligaciones de carácter económico, financiero, bancario o comercial que, conforme a la ley, puedan ser comunicadas por los responsables de registros o bancos de datos personales; ni exigir para dicho fin declaración ni certificado alguno. Exceptúanse solamente los trabajadores que tengan poder para representar al empleador, tales como gerentes, subgerentes, agentes o apoderados, siempre que, en todos estos casos, estén dotados, a lo menos, de facultades generales de administración; y los trabajadores que tengan a su cargo la recaudación, administración o custodia de fondos o valores de cualquier naturaleza.
 
+Ningún empleador podrá condicionar la contratación de un trabajador o trabajadora, su permanencia o renovación de contrato, o la promoción o movilidad en su empleo, al hecho de no padecer o no haber padecido cáncer, ni exigir para dichos fines certificado o examen alguno.
+
 Lo dispuesto en los incisos tercero y cuarto de este artículo y las obligaciones que de ellos emanan para los empleadores, se entenderán incorporadas en los contratos de trabajo que se celebren.
 
 Corresponde al Estado amparar al trabajador en su derecho a elegir libremente su trabajo y velar por el cumplimiento de las normas que regulan la prestación de los servicios.
@@ -6105,6 +6107,10 @@ En caso de optar por la indemnización a que se refiere el inciso anterior, ést
 El juez de la causa, en estos procesos, podrá requerir el informe de fiscalización a que se refiere el inciso cuarto del artículo 486.
 
 Si de los mismos hechos emanaren dos o más acciones de naturaleza laboral, y una de ellas fuese la de tutela laboral de que trata este Párrafo, dichas acciones deberán ser ejercidas conjuntamente en un mismo juicio, salvo si se tratare de la acción por despido injustificado, indebido o improcedente, la que deberá interponerse subsidiariamente. En este caso no será aplicable lo dispuesto en el inciso primero del artículo 488. El no ejercicio de alguna de estas acciones en la forma señalada importará su renuncia.
+
+#### Artículo 489 bis
+
+El despido de un trabajador, declarado como discriminatorio por basarse en el padecimiento de cáncer, será siempre considerado grave para los efectos de lo señalado en el inciso cuarto del artículo anterior.
 
 #### Artículo 490
 
