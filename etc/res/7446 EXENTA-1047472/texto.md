@@ -46,9 +46,9 @@ k. Semilla corriente de papa: Es la que sin ser certificada cumple con los requi
 
 Los productores interesados deberán declarar domicilio comercial, en una de las regiones que constituyan el área libre de plagas cuarentenarias de la papa.
 
-5. Los productores inscritos en el registro de productores de semilla corriente de papa, deberán presentar anualmente la solicitud de inscripción de sus semilleros en la oficina SAG correspondiente a la ubicación del predio donde se establezcan estos semilleros. Los productores, además, deberán cumplir con la inscripción dispuesta en la resolución que regula el área libre de plagas cuarentenarias de la papa.
+5. Los productores inscritos en el registro de productores de semilla corriente de papa, deberán informar, anualmente a la oficina SAG correspondiente a la ubicación del predio donde se establezcan sus semilleros, los antecedentes requeridos, a través del formulario Solicitud Inscripción de Semilleros Corrientes de Papa, por cada predio y en un plazo no superior a 30 días después de la fecha de plantación.
 
-La solicitud deberá presentarse en el formulario oficial por predio y anualmente, en un plazo no superior a 30 días después de la plantación.
+Los productores además, deberán cumplir con la inscripción dispuesta en la resolución que regula el área libre de plagas cuarentenarias de la papa.
 
 Cada semillero será identificado por un código o número, que incluirá a lo menos el año de producción y que será otorgado por la oficina SAG donde esté ubicado el predio, el cual deberá utilizarse para identificar el semillero en el predio.
 
