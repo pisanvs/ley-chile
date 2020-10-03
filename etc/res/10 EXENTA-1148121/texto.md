@@ -62,7 +62,7 @@ Límites y cronograma de aplicación:
 
 El estándar mínimo de eficiencia energética se establecerá de manera gradual, y en base a la métrica de "Im/W" (lúmenes / Watt) para las ampolletas o lámparas clasificadas de uso general, o para uso doméstico definidos en el Alcance, de la siguiente manera:
 
-- Eficiencia mínima en 40 Im/W, desde el 1 de enero de 2021.
+- Eficiencia mínima en 40 Im/W, desde el 1 de mayo de 2021.
 
 - Eficiencia mínima en 70 Im/W, desde el 1 de enero de 2023.
 
@@ -70,7 +70,7 @@ El estándar mínimo de eficiencia energética se establecerá de manera gradual
 
 Lo anterior implica que:
 
-- A partir del 1 de enero de 2021 no se podrán comercializar aquellas lámparas que tengan un rendimiento menor a 40 Im/W;
+- A partir del 1 de mayo de 2021 no se podrán comercializar aquellas lámparas que tengan un rendimiento menor a 40 Im/W;
 
 - A partir del 1 de enero de 2023 no se podrán comercializar aquellas lámparas que tengan un rendimiento menor a 70 Im/W;
 
