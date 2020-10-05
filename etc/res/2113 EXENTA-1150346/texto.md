@@ -1,0 +1,5 @@
+RECHAZA SOLICITUDES DE CONCESIONES DE ACUICULTURA QUE INDICA
+
+Por resolución exenta N° 2.113, de 30 de septiembre de 2020, de esta Subsecretaría, recházanse las solicitudes individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura, de este Ministerio.
+
+Valparaíso, 30 de septiembre de 2020.- Román Zelaya Ríos, Subsecretario de Pesca y Acuicultura.
