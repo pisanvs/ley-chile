@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE ATACAMA, AL "COMITÉ DE AGUA POTABLE RURAL DE ALTO DEL CARMEN"
+
+Mediante decreto exento Nº E-464, de 15 de septiembre de 2020, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita al "Comité de Agua Potable Rural de Alto del Carmen", RUT Nº 65.077.930-4, el inmueble fiscal ubicado en Sector Vivero, comuna de Alto del Carmen, provincia del Huasco, Región de Atacama, enrolado en el Servicio de Impuestos Internos con el Nº 847-1, singularizado en el Plano Nº 03302-856-CR, con una superficie de 285,11 m2; y el inmueble fiscal ubicado en calle 31 de Enero s/n, comuna de Alto del Carmen, provincia del Huasco, Región de Atacama, enrolado en el Servicio de Impuestos Internos con el Nº 1005-4; singularizado en el Plano Nº 03302-857-CR, con una superficie de 416,55 m2; ambos amparados por la inscripción global a nombre del Fisco que rola a fojas 11 Nº 6 del Registro de Propiedad del Conservador de Bienes Raíces de Vallenar, correspondiente al año 1945. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para utilizar los inmuebles fiscales, en la construcción y funcionamiento de un estanque, planta captadora y distribuidora de agua potable rural, en la comuna de Alto del Carmen, debiendo mantener habilitado y en perfecto estado todas las dependencias necesarias para el cumplimiento de sus funciones. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
