@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN METROPOLITANA, A LA "I. MUNICIPALIDAD DE ESTACIÓN CENTRAL"
+
+Mediante decreto exento Nº E-449, de 3 de septiembre de 2020, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "I. Municipalidad de Estación Central", RUT Nº 69.254.300-9, los inmuebles fiscales singularizados como Resto del Lote 50, ubicado en calle Obispo Javier Vásquez Valencia Nº 3987; enrolado en el Servicio de Impuestos Internos con el Nº 594-43; inscrito en mayor cabida a nombre del Fisco a fojas 59196 Nº 57446, en el Registro de Propiedad del Conservador de Bienes Raíces de Santiago, correspondiente al año 2005; y Lote 51, ubicado en calle Obispo Javier Vásquez Valencia Nº 3985; enrolado en el Servicio de Impuestos Internos con el Nº 594-42; inscrito a nombre del Fisco a fojas 37426 Nº 59949, en el Registro de Propiedad del Conservador de Bienes Raíces de Santiago, correspondiente al año 2007; con una superficie de 158,00 m2.; ambos singularizados en el Plano Nº 13106-6305-C.U.; la concesión se otorga por un plazo de 10 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para destinar los inmuebles para la ejecución del proyecto denominado Plaza Bolsillo. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
