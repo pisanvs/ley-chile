@@ -34,13 +34,13 @@ a) Los plazos correspondientes al primer proceso de selección, serán los sigui
 
 b) Los plazos correspondientes al segundo proceso de selección, serán los siguientes:
 
-- Digitación de las postulaciones: desde el 1 septiembre al 28 de septiembre de 2020.
+- Digitación de las postulaciones: desde el 1 septiembre al 5 de octubre de 2020, pudiendo superponerse al proceso de Habilitación de las postulaciones y comunicación de los resultados.
 
-- Habilitación de las postulaciones y Comunicación de resultados: desde el 29 de septiembre hasta el 9 de octubre de 2020. En caso de requerirse, el período de digitación podrá prorrogarse dentro del plazo de la habilitación de las postulaciones.
+- Habilitación de las postulaciones y Comunicación de resultados: desde el 6 de septiembre hasta el 15 de octubre de 2020. En caso de requerirse, el período de digitación podrá prorrogarse dentro del plazo de la habilitación de las postulaciones.
 
-- Presentación, Revisión y Calificación de los proyectos: desde el 13 de octubre al 27 de noviembre de 2020. En caso de requerirse, el período de Habilitación podrá prorrogarse.
+- Presentación, Revisión y Calificación de los proyectos: desde el 16 de octubre al 2 de diciembre de 2020. En caso de requerirse, el período de Habilitación podrá prorrogarse.
 
-- Selección de las postulaciones: a partir del 30 de noviembre de 2020, se iniciará el proceso de Selección de las postulaciones del presente llamado.
+- Selección de las postulaciones: a partir del 3 de diciembre de 2020, se iniciará el proceso de Selección de las postulaciones del presente llamado.
 
 3. Los recursos disponibles para el primer proceso de selección de proyectos de este llamado, serán los siguientes montos por región.
 
@@ -71,6 +71,8 @@ b. Viviendas construidas por Serviu o sus antecesores legales.
 c. Viviendas cuyo avalúo fiscal vigente al momento de la postulación, sea igual o inferior a 950 UF considerando el valor del terreno y el valor de las construcciones.
 
 6. Los tipos de proyectos y obras que podrán participar de este llamado son los de Mejoramiento y Ampliación de la Vivienda del Capítulo Segundo del DS Nº 27 (V. y U.), de 2016. Sin perjuicio de lo anterior, en los proyectos de Mejoramiento de la Vivienda, no se podrá postular a Obras de Mantención, ni al incremento de Solución Sanitaria Particular.
+
+Para el segundo proceso de postulación de este llamado, se permitirá que el estándar térmico exigido para las ampliaciones corresponda a lo dispuesto en el 4.1.10. de la Ordenanza General de Urbanismo y Construcciones o a lo señalado en el Itemizado Técnico Constructivo.
 
 7. Podrán postular individualmente a este llamado las personas que se encuentren hasta el Tramo del 60% según CSE del RSH. En el caso de postulación grupal, a lo menos el 60% de los postulantes deben cumplir dicha condición pudiendo el 40% restante estar en cualquier tramo de CSE según el RSH.
 
