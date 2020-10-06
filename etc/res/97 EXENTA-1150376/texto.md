@@ -1,0 +1,35 @@
+IMPUTA SALDOS A FAVOR QUE INDICA AL EJERCICIO DE CÁLCULO DEL PRESUPUESTO ANUAL PARA LA REALIZACIÓN DE ESTUDIOS DE FRANJAS PARA EL AÑO 2021
+
+Núm. 97 exenta.- Santiago, 30 de septiembre de 2020.
+
+Vistos:
+
+Lo dispuesto en el artículo 9º letra h) del DL Nº 2.224, de 1978, que crea el Ministerio de Energía y la Comisión Nacional de Energía; en el decreto con fuerza de ley Nº 4/20.018, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 1, de Minería de 1982, Ley General de Servicios Eléctricos, en materia de energía eléctrica, y sus modificaciones posteriores, en adelante e indistintamente la "Ley" o "Ley General de Servicios Eléctricos"; en la ley Nº 21.192, de Presupuesto para el Sector Público correspondiente al año 2020; en el decreto supremo Nº 139, de 2016, del Ministerio de Energía, que aprueba reglamento para la determinación de Franjas Preliminares para Obras Nuevas de los Sistemas de Transmisión, en adelante e indistintamente "el Reglamento de Franjas"; en el decreto supremo Nº 44, de 2017, que aprueba reglamento del Panel de Expertos establecido en la Ley General de Servicios Eléctricos, deroga el decreto supremo Nº 181, de 2004, del Ministerio de Economía, Fomento y Reconstrucción, e introduce modificaciones a los decretos que indica; en la resolución exenta Nº 127, de fecha 30 de septiembre de 2019, de la Subsecretaría de Energía, que aprueba imputación de saldos a favor que indica al ejercicio de cálculo del presupuesto anual para la realización del estudio de franjas para el año 2020 y aprueba presupuesto del Panel de Expertos para el año 2020; en la resolución exenta Nº 713, de 18 de noviembre de 2019, de la Comisión Nacional de Energía, que fija y comunica cargo por servicio público para el año 2020; en el decreto supremo Nº 07 A, de 2019, del Ministerio de Energía, que nombra a don Francisco Javier López Díaz como Subsecretario de Energía; y, en la resolución Nº 7, de 2019, de la Contraloría General de la República.
+
+Considerando:
+
+1. Que, el artículo 212-13 de la Ley dispone que el presupuesto del Coordinador, del Panel de Expertos y de los Estudios de Franjas que establece el artículo 93 de la misma, serán financiados por la totalidad de los usuarios finales, libres y sujetos a fijación de precios, a través de un cargo por servicio público, el que será fijado anualmente por la Comisión Nacional de Energía, mediante una resolución exenta e informado antes del 19 de noviembre de cada año, con el objeto de que el cargo señalado sea incorporado en las respectivas boletas o facturas a partir del mes de diciembre del año anterior del período presupuestario correspondiente;
+
+2. Que, de conformidad a lo dispuesto en el inciso cuarto del artículo 212-13 de la Ley, el Coordinador deberá repartir los ingresos recaudados a prorrata de los respectivos presupuestos anuales de dicho organismo, del Panel de Expertos y el elaborado por la Subsecretaría de Energía para el Estudio de Franja;
+
+3. Que, asimismo, y conforme a lo prescrito en el inciso quinto del artículo 212-13 de la Ley, los saldos a favor o en contra que se registren en un año determinado deberán imputarse al ejercicio de cálculo del presupuesto correspondiente del año siguiente;
+
+4. Que, en lo que se refiere al Estudio de Franja y conforme al artículo 93 de la Ley, el procedimiento para la determinación de franjas preliminares se realiza a través de uno o más Estudios de Franja, los que serán licitados, adjudicados y supervisados por el Ministerio de Energía, y su financiamiento se establecerá a través de un presupuesto anual elaborado por la Subsecretaría de Energía, el que será financiado conforme a lo señalado en el artículo 212-13 del mismo cuerpo legal. A su vez, y conforme al artículo 20 del Reglamento de Franjas, una vez aprobado el presupuesto de los Estudios de Franja por la Subsecretaría de Energía, éste será remitido a la Comisión Nacional de Energía a más tardar en el mes de septiembre de cada año para los efectos de la fijación del cargo por servicio público;
+
+5. Que, mediante resolución exenta Nº 127, de 30 de septiembre de 2019, de la Subsecretaría de Energía, se imputó como presupuesto para financiar los contratos que deriven de los correspondientes procedimientos licitatorios de Estudios de Franja para el período enero - diciembre de 2020, los saldos registrados a favor de la Subsecretaría de Energía, y que equivalen a la suma de $2.596.907.053. Así, conforme lo dispuesto en la misma resolución, se dejó constancia que el cargo por servicio público correspondiente al año 2020, no debía considerar montos adicionales a los saldos antes mencionados, para los procesos de estudios de franja;
+
+6. Que, de acuerdo a los antecedentes que obran en poder de esta Subsecretaría, a esta fecha, no se han efectuado gastos destinados a financiar los contratos que se derivarían de los Estudios de Franja, y en el caso de requerirse financiamiento para aquellos contratos que serán ejecutados durante el ejercicio correspondiente al año 2021, esta Subsecretaría de Estado cuenta con saldos a favor suficientes para el financiamiento de los mismos, de modo tal que el presupuesto requerido proyectado para el periodo en cuestión es de $0;
+
+7. Que, a esta fecha, existe un saldo de $2.596.907.053 a favor de la Subsecretaría de Energía, correspondiente a la parte de la recaudación del cargo por servicio público del periodo diciembre 2017 - noviembre de 2018, el que deberá ser imputado al ejercicio correspondiente al año 2021 para el financiamiento del presupuesto anual de los Estudios de Franja que correspondería ejecutar durante el año 2021.
+
+Resuelvo:
+
+Primero : Impútese como presupuesto para financiar los contratos que deriven de los correspondientes procedimientos licitatorios de Estudios de Franja para el período enero - diciembre de 2021, los saldos registrados a favor de la Subsecretaría de Energía, hasta la suma de $2.596.907.053, correspondiente a la proporción del cargo por servicio público obtenido con motivo de lo recaudado durante el periodo diciembre 2017 a noviembre de 2018 para el financiamiento del Estudio de Franja, en cumplimiento de lo dispuesto en el artículo 212-13 de la Ley General de Servicios Eléctricos.
+
+El cargo por servicio público correspondiente al año 2021, no deberá considerar montos adicionales a los saldos antes mencionados, para los procesos de Estudios de Franja.
+
+Segundo: Publíquese la presente resolución en el sitio web institucional y en el Diario Oficial, de conformidad a las normas legales y reglamentarias aplicables.
+
+Tercero: Remítase la presente resolución a la Comisión Nacional de Energía dentro de los cinco días siguientes a su dictación, para efectos de la fijación del cargo por servicio público al que se refiere el artículo 212-13 de la Ley General de Servicios Eléctricos, ya singularizada.
+
+Anótese, publíquese y archívese.- Francisco López Díaz, Subsecretario de Energía.
