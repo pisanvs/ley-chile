@@ -1328,6 +1328,14 @@ Las entidades que al 4 de mayo del 2003 tengan el carácter de uniones de cooper
 
 La ley 19.832 entró en vigencia el 4 de mayo del 2003.
 
+#### Artículo 12
+
+Las cooperativas que hayan obtenido un saldo favorable durante el ejercicio económico 2019, por acuerdo del Consejo de Administración o decisión del gerente administrador, según corresponda, podrán distribuir el excedente entre sus socios, ya sea mediante la emisión de cuotas de participación liberadas de pago o mediante la entrega en dinero en efectivo. Para ello deberán cumplir previamente las obligaciones establecidas en el artículo 38 de la presente ley, en relación con el remanente.
+
+Para llevar a cabo dicha distribución, las cooperativas deberán contar con el informe favorable de sus estados financieros por parte de la junta de vigilancia o del inspector de cuentas, según corresponda. Las cooperativas de importancia económica, conforme al artículo 109 de esta ley, deberán contar adicionalmente con el informe favorable del auditor externo.
+
+Lo anterior deberá entenderse sin perjuicio de la responsabilidad establecida en los artículos 25 y 26 de la presente ley.
+
 Tómese razón, comuníquese y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Alvaro Díaz Pérez, Ministro de Economía, Fomento y Reconstrucción (S.).
 
 Lo que transcribe para su conocimiento.- Saluda atentamente a usted, Andrea Butelmann Peisajoff, Subsecretaria de Economía, Fomento y Reconstrucción (S.).
