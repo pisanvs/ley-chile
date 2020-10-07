@@ -36,6 +36,4 @@ El Polígono involucra el Sector "Los Arrayanes" de la comuna de Copiapó y est�
 
 4. El Servicio Agrícola y Ganadero podrá determinar un plan de trabajo con metas parciales fijando las medidas, la oportunidad y la eficiencia necesaria para lograr su completa ejecución.
 
-> **Nota.** Los numerales 1 y 2 de la Resolución 232 Exenta, Agricultura. publicada el 15.06.2021, modifican la presente norma en el sentido de levantar las restricciones cuarentenarias por polilla del racimo de la vid (Lobesia botrana), en el área reglamentada que incorporó parcialmente la comuna de Copiapó, denominada "Los Arrayanes", Región de Atacama, asimismo revoca parcialmente la presente norma en lo que dice relación a área reglamentada para Lobesia botrana.
-
 Anótese y transcríbase.- Mei Siu Maggi Achu, Directora Regional Región de Atacama, Servicio Agrícola y Ganadero.
