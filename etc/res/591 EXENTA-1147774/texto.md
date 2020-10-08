@@ -52,7 +52,7 @@ CAPÍTULO I. DE LAS MEDIDAS SANITARIAS GENERALES
 
 No obstante las facultades de fiscalización propias de la autoridad competente, los trabajadores y prestadores de servicios que laboren en empresas de transporte aéreo, marítimo, terrestre o ferroviario, deberán solicitar la exhibición del pasaporte sanitario a los pasajeros de todos los servicios interregionales que hayan sido abordados en recintos donde no esté implementada una aduana sanitaria. No se permitirá abordar al medio de transporte a aquella persona que no cuente con o se niegue a exhibir un pasaporte sanitario que lo autorice a viajar, y a acreditar su identidad.
 
-3. Las aduanas sanitarias entregarán y controlarán los pasaportes sanitarios. La conservación y exhibición a la autoridad competente del pasaporte sanitario será obligatoria para las personas a quienes se les entregue, sea de forma física o digital.
+3. Las aduanas sanitarias controlarán los pasaportes sanitarios. La conservación y exhibición a la autoridad competente del pasaporte sanitario será obligatoria para las personas a quienes se les entregue, sea de forma física o digital.
 
 Las personas que exhiban su pasaporte sanitario podrán desplazarse a través de una aduana sanitaria, incluidas aquellas que se encuentren en carreteras y autopistas del país.
 
@@ -62,7 +62,7 @@ Asimismo, en las aduanas sanitarias se verificará el cumplimiento de las medida
 
 ### II. Aislamientos en razón a horarios determinados
 
-4. Prohíbase a los habitantes de la República salir a la vía pública, como medida de aislamiento, entre las 23:00 y 05:00 horas, salvo aquellas personas que cuenten con salvoconductos individuales o permisos que lo autoricen en virtud del Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 23.853, del 31 de agosto de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Esta medida será ejecutada de acuerdo a las instrucciones que impartan al efecto los Jefes de la Defensa Nacional de las distintas regiones.
+4. Prohíbase a los habitantes de la República salir a la vía pública, como medida de aislamiento, entre las 23:00 y 05:00 horas, salvo aquellas personas que cuenten con salvoconductos individuales o permisos que lo autoricen en virtud del Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 22.727, del 24 de septiembre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Esta medida será ejecutada de acuerdo a las instrucciones que impartan al efecto los Jefes de la Defensa Nacional de las distintas regiones.
 
 Déjase constancia que la medida de este numeral comenzó a regir desde las 22:00 horas del día 22 de marzo de 2020 y será aplicada por un plazo indefinido, hasta que las condiciones epidemiológicas permitan su suspensión.
 
@@ -84,9 +84,9 @@ Déjase constancia que esta medida comenzó a regir desde el día 15 de marzo de
 
 8. Dispóngase que las personas diagnosticadas con Covid-19 a través de un test PCR para el virus SARS-CoV-2 deben cumplir un aislamiento de acuerdo a los siguientes criterios:
 
-a. Si el paciente presenta síntomas, el aislamiento será por 14 días desde la fecha de inicio de los síntomas.
+a. Si el paciente presenta síntomas, el aislamiento será por 11 días desde la fecha de inicio de los síntomas.
 
-b. Si el paciente no presenta síntomas, el aislamiento será por 14 días desde la toma de muestra del test PCR.
+b. Si el paciente no presenta síntomas, el aislamiento será por 11 días desde la toma de muestra del test PCR.
 
 9. Dispóngase que las personas que se hayan realizado el test PCR para determinar la presencia de Covid-19, deben cumplir un aislamiento hasta que les sea notificado el resultado.
 
@@ -120,15 +120,31 @@ b) El resultado negativo de un test PCR para SARS-Cov-2. La toma de este examen 
 
 Durante la tramitación de la autorización sanitaria de la que trata el párrafo anterior, el solicitante deberá permanecer en cuarentena o aislamiento.
 
-12. Dispóngase que las personas que sean caracterizadas como caso probable deberán permanecer en aislamiento por 14 días desde la fecha de inicio de los síntomas.
+11. Bis. Para efectos de esta resolución, se entenderá como caso sospechoso:
 
-Se entenderá como caso probable aquellas personas que han estado expuestas a un contacto estrecho de un paciente confirmado con Covid-19, en los términos del numeral 10 de esta resolución, y que presentan al menos uno de los síntomas de la enfermedad del Covid-19 señalados en el numeral siguiente.
+a) aquella persona que presenta un cuadro agudo de infección respiratoria aguda que presente al menos dos de los síntomas señalados en el numeral 13, o bien,
 
-No será necesaria la toma de examen PCR para las personas que se encuentren contempladas en la descripción del párrafo anterior. Sin perjuicio de lo anterior, si la persona habiéndose realizado el señalado examen PCR hubiera obtenido un resultado negativo en este, deberá completar igualmente el aislamiento en los términos dispuestos precedentemente.
+b) aquella persona que presenta una infección respiratoria aguda grave que requiere hospitalización.
 
-Asimismo, se considerará caso probable a aquellas personas sintomáticas que, habiéndose realizado un examen PCR para SARS-CoV-2, este arroja un resultado indeterminado.
+12. Dispóngase que las personas que sean caracterizadas como caso probable deberán permanecer en aislamiento por 11 días a partir de la fecha de inicio de síntomas.
 
-Esta medida tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
+Se entenderá por caso probable cualquiera de las siguientes hipótesis:
+
+a. Caso probable por resultado de laboratorio: aquella persona que cumple con la definición de caso sospechoso conforme al numeral 11 bis de la presente resolución, en el cual el resultado de la PCR es indeterminado, o bien tiene una prueba antigénica para SARS-CoV-2 positiva.
+
+b. Caso probable por nexo epidemiológico: aquella persona que cumple los requisitos señalados a continuación:
+
+i) ha estado en contacto estrecho con una persona diagnosticada con Covid-19 según lo dispuesto en el numeral 10 de esta resolución, y
+
+ii) desarrolla fiebre según lo dispuesto en el numeral 13, letra a) de esta resolución o desarrolla al menos dos síntomas de los señalados en dicho numeral 13 dentro de los primeros 14 días posteriores al contacto.
+
+No será necesaria la toma de examen PCR para las personas que cumplan los criterios de caso probable por nexo epidemiológico. Si por cualquier motivo, un caso probable por nexo epidemiológico se realiza un examen de PCR para SARS-CoV-2 y este resulta positivo, deberá cumplir con lo dispuesto en el numeral 8 de esta resolución. Por el contrario, si el resultado es negativo o indeterminado, se seguirá considerando caso probable y deberá mantener aislamiento hasta completar los 11 días desde la fecha de inicio de síntomas.
+
+c. Caso probable por imágenes: caso sospechoso conforme al numeral 11 bis de la presente resolución, con resultado de test PCR para SARS-CoV-2 negativo, pero que cuenta con una tomografía computarizada de tórax con imágenes características de Covid-19 definidas así por un médico en la conclusión diagnóstica.
+
+d. Caso probable por síntomas: aquella persona que presenta pérdida brusca y completa del olfato (anosmia) o del sabor (ageusia) sin causa que lo explique.
+
+La medida dispuesta en este numeral tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
 
 13. Para efectos de esta resolución, son síntomas de la enfermedad del Covid-19 los siguientes:
 
@@ -212,6 +228,8 @@ Se entiende por superficie útil de un recinto cerrado, a la superficie construi
 
 Se exceptúa de lo dispuesto en este numeral, a aquellos recintos donde se realizan actividades reguladas específicamente en el Capítulo I, acápite IX y Capítulo II de la presente resolución, donde aplicarán las restricciones particulares de aforo que se definan para dichos casos.
 
+Déjase constancia que lo dispuesto en este numeral no se aplica a los establecimientos asistenciales de salud, los que se rigen por sus normas particulares.
+
 26. Dispóngase que en aquellos lugares donde, por la naturaleza de los servicios que se prestan, se formen filas, se deberá demarcar la distancia, de un metro lineal, que debe existir entre cada persona. Esta obligación deberá cumplirse ya sea que la fila se forme dentro o fuera del local, cumpliendo con lo establecido en el numeral anterior. En el caso que la demarcación deba hacerse en la vía pública, esta deberá ser fácilmente removible.
 
 27. Las medidas dispuestas en este acápite tendrán el carácter de indefinido, hasta que las condiciones epidemiológicas permitan su suspensión.
@@ -248,7 +266,7 @@ c. Mantener en todas las entradas señalética que indique las obligaciones y re
 
 Sin perjuicio de lo dispuesto precedentemente, para las actividades deportivas se estará a lo dispuesto en el numeral 40 de esta resolución y a lo establecido en el Capítulo II de la misma, en conformidad al paso en que se encuentre la localidad que corresponda.
 
-37. Dispóngase el cierre de cines, teatros, y lugares análogos. Déjase constancia que esta medida se encuentra vigente desde el día 15 de mayo de 2020 y tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
+37. Dispóngase el cierre al público de cines, teatros, y lugares análogos. Déjase constancia que esta medida se encuentra vigente desde el día 15 de mayo de 2020 y tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
 
 38. Dispóngase el cierre de gimnasios abiertos al público. Déjase constancia que esta medida se encuentra vigente desde el día 15 de mayo de 2020 y tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
 
@@ -268,11 +286,11 @@ Esta medida tendrá el carácter de indefinida, hasta que las condiciones epidem
 
 Déjase constancia que esta medida se encuentra vigente desde el día 15 de mayo de 2020 y tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
 
-42. Dispóngase la suspensión presencial de las clases en todos los jardines infantiles y establecimientos educacionales del país, pudiendo continuar la prestación del servicio educacional de manera remota, conforme a los criterios que establezca el Ministerio de Educación, hasta que las condiciones sanitarias permitan el levantamiento de esta medida.
+42. Dispóngase la suspensión presencial de las clases en todos los establecimientos de educación parvularia, básica y media, pudiendo continuar la prestación del servicio educacional de manera remota, conforme a los criterios que establezca el Ministerio de Educación, hasta que las condiciones sanitarias permitan el levantamiento de esta medida.
 
 Sin perjuicio de lo dispuesto precedentemente, la Secretaría Regional Ministerial de Educación respectiva podrá levantar individualmente esta medida por establecimientos, niveles o cursos. Para ello, el Ministerio de Salud informará previamente la factibilidad sanitaria de esta medida y entregará al Ministerio de Educación la normativa, instrucciones y protocolos emitidos por el Ministerio de Salud con el objeto de asegurar las condiciones sanitarias de los establecimientos. Asimismo, la Secretaría Regional Ministerial de Salud correspondiente supervisará el cumplimiento de dicha normativa.
 
-43. Prohíbase la recalada en todos los puertos chilenos de cruceros de pasajeros. Déjase constancia que la medida de este numeral comenzó a regir desde el día 15 de marzo y será aplicada hasta el 30 de septiembre de 2020, pudiendo prorrogarse si lo hacen necesarias las condiciones epidemiológicas.
+43. Prohíbase la recalada en todos los puertos chilenos de cruceros de pasajeros. Déjase constancia que la medida de este numeral comenzó a regir desde el día 15 de marzo y será aplicada hasta el 1º de diciembre de 2020, pudiendo prorrogarse si lo hacen necesarias las condiciones epidemiológicas.
 
 43. Bis. Dispóngase que los buses de transporte público de pasajeros que presten servicio interurbano y entre regiones deberán confeccionar y portar una nómina de los pasajeros que transportan. Dicha obligación será exigible en aquellos viajes cuya duración exceda las 2 horas.
 
@@ -289,6 +307,8 @@ Asimismo, exceptúanse de la medida de este numeral a aquellas personas que no p
 Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir sus obligaciones laborales en un lugar distinto al de su residencia habitual.
 
 Déjase constancia que esta medida comenzó a regir el día 24 de marzo de 2020 a las 22:00 horas, y tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
+
+Lo dispuesto en el párrafo primero de este numeral no aplicará a los habitantes de localidades que se encuentren en los Pasos 3, 4 y 5, en conformidad con el Capítulo II de la presente resolución y que se desplacen entre localidades que estén en los Pasos 3, 4 y 5. Con todo, quienes se desplacen entre las señaladas localidades deberán contar con sus pasaportes sanitarios y con el permiso correspondiente otorgado en virtud del Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 22.727, del 24 de septiembre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
 ### X. Medidas administrativas
 
@@ -344,19 +364,19 @@ Los 5 pasos de los que trata el párrafo anterior son los siguientes:
 
 ### 5. Paso 5: Apertura avanzada
 
-55. Para el desplazamiento de personas desde y hacia localidades que se encuentren en cuarentena, se estará a lo dispuesto en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 23.853, del 31 de agosto de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Lo mismo regirá para el desplazamiento de personas desde y hacia localidades que se encuentren en Transición, los días sábado, domingo y festivos.
+55. Para el desplazamiento de personas desde y hacia localidades que se encuentren en cuarentena, se estará a lo dispuesto en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 22.727, del 24 de septiembre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Lo mismo regirá para el desplazamiento de personas desde y hacia localidades que se encuentren en Transición, los días sábado, domingo y festivos.
 
 ### II. Paso 1: Cuarentena
 
 56. A las localidades que estén en cuarentena se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, además de las cuarentenas determinadas por la autoridad sanitaria a dicha localidad.
 
-57. Exceptúase de la obligación de cumplir cuarentena establecida en una determinada localidad, a las personas que se encuentren en las circunstancias que se señalan en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 23.853, del 31 de agosto de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+57. Exceptúase de la obligación de cumplir cuarentena establecida en una determinada localidad, a las personas que se encuentren en las circunstancias que se señalan en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 22.727, del 24 de septiembre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
 Dicho instructivo contempla, además, las formas y condiciones para la obtención de los permisos de desplazamiento por parte de las personas exceptuadas del cumplimiento de la medida de aislamiento o cuarentena.
 
 57 bis. En los centros dependientes del Servicio Nacional de Menores, tanto de administración directa como de organismos colaboradores, se observará la siguiente regla:
 
-a. Se permitirá a los niños, niñas y adolescentes hacer uso del permiso especial dispuesto en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 23.853, del 31 de agosto de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+a. Se permitirá a los niños, niñas y adolescentes hacer uso del permiso especial dispuesto en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 22.727, del 24 de septiembre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
 ### III. Paso 2: Transición
 
@@ -450,7 +470,7 @@ h. Se permite funcionamiento de pubs, discotecas y análogos con un máximo de 5
 
 i. Se permite funcionamiento de gimnasios abiertos al público con un máximo de un 50% de su capacidad. En ningún caso podrá excederse el aforo dispuesto en el literal b de este numeral.
 
-j. Se permite el traslado a la segunda vivienda, solo cuando ésta se encuentre, también, en una localidad que esté en Apertura Avanzada.
+j. Eliminado.
 
 k. Se permite el funcionamiento de los establecimientos de educación parvularia, básica y media, previa autorización de reanudación de clases presenciales de la Secretaría Regional Ministerial de Educación correspondiente, debiendo cumplirse con la normativa, instrucciones y protocolos emitidos por el Ministerio de Salud, con el objeto de asegurar las condiciones sanitarias de los establecimientos educacionales.
 
