@@ -1,0 +1,15 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO "PARQUE FOTOVOLTAICO PARRONAL"
+
+De conformidad con lo dispuesto en el artículo 94 del DS Nº 40/2012, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta Nº 225 de fecha 1 de octubre de 2020, la Directora Regional del Servicio de Evaluación Ambiental de la Región de la Araucanía (SEA Araucanía), ha resuelto dar inicio a un proceso de participación ciudadana, por un plazo de 20 días hábiles, en la evaluación ambiental de la Declaración de Impacto Ambiental del proyecto "Parque Fotovoltaico Parronal", cuyo titular es Sol del Sur 8 SpA, y el cual se emplazaría en la comuna de Renaico, Provincia de Malleco, Región de la Araucanía.
+
+Por lo anterior, cualquier persona natural o jurídica interesada, podrá realizar observaciones al proyecto según lo dispuesto en el art. 95 del DS N° 40/2012, en relación con los artículos 90 y 91, del mismo cuerpo legal, y tendrá un plazo legal de 20 días hábiles contados desde el día hábil siguiente a la fecha de la presente publicación para efectuarlas, de acuerdo a lo establecido en el artículo 30 bis de la Ley Nº 19.300 sobre Bases Generales del Medio Ambiente. Las observaciones deberán ser ingresadas al SEA a través de la oficina de partes del Servicio de Evaluación Ambiental de la Región de la Araucanía o a través del correo electrónico oficinapartes.sea.araucania@sea.gob.cl o a través del Portal de Participación Ciudadana en línea, al cual se accede a través del sitio web: https://www.sea.gob.cl/participacion-ciudadana-y-consulta-indigena.
+
+Se hace presente que el texto íntegro de la resolución antes individualizada, y del expediente administrativo del proyecto, puede ser conocido en:
+
+. Dirección Regional del SEA, ubicada en calle España 460, piso 11 (Edificio Centro Plaza), Temuco.
+
+. Sitio web www.sea.gob.cl.
+
+Finalmente, se hace presente que el proyecto "Parque Fotovoltaico Parronal", origina la apertura de esta Participación Ciudadana, por cuanto su tipología de ingreso a evaluación genera cargas ambientales, en conformidad al artículo 3 y 94 del DS Nº40/2012.-
+
+Andrea Flies Lara, Directora Regional del Servicio de Evaluación Ambiental de la Región de la Araucanía.
