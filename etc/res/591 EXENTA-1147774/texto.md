@@ -78,6 +78,14 @@ El acceso a dichos centros estará restringido a las personas estrictamente nece
 
 Déjase constancia que la medida de este numeral comenzó a regir a las 05:00 horas del día 3 de abril de 2020 y tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
 
+Sin perjuicio de lo dispuesto precedentemente, todos los residentes de los Establecimientos que se encuentren emplazados en localidades que estén en los Pasos 2, 3 y 4 de los que trata el Capítulo II de esta resolución, podrán recibir 2 personas como visitantes, dos veces a la semana.
+
+Asimismo, los residentes de los Establecimientos, que se encuentren en el supuesto señalado en el párrafo anterior, podrán salir de estos, dos veces a la semana, hasta un radio de 200 metros a la redonda durante dos horas cada vez.
+
+Se permitirá, asimismo, el ingreso de nuevos residentes a los Establecimientos ubicados en localidades que se encuentren en los Pasos 2, 3, 4 y 5 de los que trata en Capítulo II de esta resolución.
+
+Para la aplicación de lo dispuesto en este numeral deberán observarse los protocolos, resoluciones y circulares que dicte al efecto la autoridad sanitaria, así como las normas particulares de cada uno de los Pasos en los que se encuentre la localidad donde se emplaza el Establecimiento.
+
 7. Instrúyase al Servicio Nacional de Menores disponer la cuarentena de los establecimientos de su dependencia. Asimismo, se instruye a dicho servicio público tomar las medidas sanitarias que sean necesarias para evitar el contagio de los niños, niñas y adolescentes bajo su cuidado.
 
 Déjase constancia que esta medida comenzó a regir desde el día 15 de marzo de 2020 y tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
@@ -448,11 +456,13 @@ c. Se permiten salidas con fines laborales a adolescentes de residencias que se 
 
 d. Se permiten, a los niños, niñas y adolescentes, salir con fines educacionales, en la medida en que los establecimientos educacionales a los que los niños, niñas y adolescentes se encuentren inscritos se encuentren operativos.
 
+69 quáter. Se permitirá el funcionamiento de los Centros de Día para adultos mayores que estén emplazados en localidades que se encuentren en este paso.
+
 ### VI. Paso 5: Apertura Avanzada
 
 70. Las localidades que estén en Apertura Avanzada, no estarán sujetas a cuarentenas. A dichas localidades se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, con las siguientes modificaciones:
 
-a. Eliminado.
+a. Se permitirá el funcionamiento de los Centros de Día para adultos mayores que estén emplazados en localidades que se encuentren en este paso.
 
 b. Se permitirá la realización o participación en eventos y actividades sociales y recreativas con un máximo de 100 personas en lugares cerrados y 200 personas en lugares abiertos, debiendo en todo momento cumplirse con lo establecido en los acápites V y VI del Capítulo I de la presente resolución.
 
@@ -470,7 +480,7 @@ h. Se permite funcionamiento de pubs, discotecas y análogos con un máximo de 5
 
 i. Se permite funcionamiento de gimnasios abiertos al público con un máximo de un 50% de su capacidad. En ningún caso podrá excederse el aforo dispuesto en el literal b de este numeral.
 
-j. Eliminado.
+j. Se permitirá el funcionamiento de los clubes y uniones comunales de adultos mayores que estén emplazados en localidades que se encuentren este paso.
 
 k. Se permite el funcionamiento de los establecimientos de educación parvularia, básica y media, previa autorización de reanudación de clases presenciales de la Secretaría Regional Ministerial de Educación correspondiente, debiendo cumplirse con la normativa, instrucciones y protocolos emitidos por el Ministerio de Salud, con el objeto de asegurar las condiciones sanitarias de los establecimientos educacionales.
 
