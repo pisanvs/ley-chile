@@ -50,11 +50,11 @@ b. Seleccionar mediante resolución aquellos proyectos postulados, en atención 
 
 Región Monto (UF)
 
-Región del Biobío 180.000
+Región del Biobío 731.063
 
-Total 180.000
+Total 731.063
 
-3. La selección correspondiente al llamado regional a postulación que faculta el resuelvo 1 de la presente resolución, deberá efectuarse hasta el 31 de agosto de 2020.
+3. La selección correspondiente al llamado regional a postulación que faculta el resuelvo 1 de la presente resolución, deberá efectuarse hasta el 13 de octubre de 2020.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
