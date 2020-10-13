@@ -24,7 +24,7 @@ La necesidad de dar cumplimiento a lo preceptuado en el artículo 26, incisos 1�
 
 Decreto:
 
-1. Fíjase para regir en el primer semestre del año 2020, las Tasas de Derecho a las solicitudes y diligencias relacionadas con la ley Nº 17.798, sobre Control de Armas y Elementos Similares, de acuerdo al siguiente detalle:
+1. Fíjase para regir en el segundo semestre del año 2020, las Tasas de Derecho a las solicitudes y diligencias relacionadas con la ley Nº 17.798, sobre Control de Armas y Elementos Similares, de acuerdo al siguiente detalle:
 
 2. Las solicitudes mencionadas precedentemente deberán ser presentadas por ítem a las Autoridades Fiscalizadoras nombradas en el Art. 4º de la ley Nº 17.798.
 
@@ -58,7 +58,9 @@ Las solicitudes correspondientes a los demás ítems, serán resueltas por las p
 
 6. Las armas de fuego inscritas para uso de colección, estén operacional o no, tendrán el mismo cobro en las tasas de derechos que un arma inscrita para otro uso.
 
-7. Las Tasas de Derechos indicadas precedentemente regirán desde la publicación del presente decreto supremo; su vigencia expirará con la publicación del decreto supremo correspondiente al segundo semestre de 2020.
+7. Las Tasas de Derechos indicadas precedentemente regirán desde la publicación del presente decreto supremo; su vigencia expirará con la publicación del decreto supremo correspondiente al primer semestre de 2021.
+
+> **Nota.** La letra b) del artículo único del Decreto 740 Exento, publicado el 13.10.2020, modifica la presente norma en el sentido de agregar en su numeral I, Ítem 23, a continuación de la letra c), la siguiente letra:d) Inscribir o renovar bodega de almacenamiento de productos químicos: 1. Hasta 100 kgs. $29.480.- 2. Sobre 100 y hasta 1000 kgs. $40.590.- 3. Sobre 1000 kgs. $51.340.-
 
 Anótese, comuníquese y publíquese en el Diario Oficial y Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros y Policía de Investigaciones de Chile.- Alberto Espina Otero, Ministro de Defensa Nacional.- Ignacio Briones Rojas, Ministro de Hacienda.
 
