@@ -70,6 +70,8 @@ c) Se permitirá la postulación de personas en calidad de arrendatarios u ocupa
 
 9.3) La obtención de un subsidio destinado a la atención de este tipo de proyectos a través de este llamado, no será impedimento para obtener otros subsidios correspondientes a los Títulos I, II y III del Programa de Protección del Patrimonio Familiar, siempre que no postule al mismo tipo de obra. Además, las personas que hayan sido beneficiadas anteriormente con un subsidio de Mejoramiento de la Vivienda o Ampliación de la Vivienda, no tendrán impedimento para postular y ser beneficiados en este llamado, siempre que no se trate del mismo tipo de obra.
 
+9.4) Para calcular el puntaje señalado en el artículo 21, letra n.3) del DS Nº 255 (V. y U.), de 2006, respecto de la antigüedad de la vivienda, se permitirá presentar el certificado de avalúo fiscal detallado del inmueble emitido por el Servicio de Impuestos Internos o la copia de la escritura siempre que en ella se señale el año de construcción y su superficie.
+
 10) El presupuesto disponible para este llamado a postulación nacional extraordinaria en condiciones especiales para el desarrollo de proyectos en su modalidad Título II, Mejoramiento de la Vivienda y Título III, Ampliación de la Vivienda, del Programa de Protección del Patrimonio Familiar regulado por el DS Nº 255 (V. y U.) de 2006, en los casos de las viviendas afectadas por plagas de xilófagos en las regiones del Biobío, Los Lagos y Los Ríos, será el siguiente:
 
 Dicho presupuesto global incluye el monto del subsidio más el monto de la asistencia técnica respectiva.
