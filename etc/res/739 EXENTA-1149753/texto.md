@@ -48,4 +48,32 @@ V. Establézcase que el aparato calefactor deberá ser instalado según las reco
 
 ### VI. Publíquese el presente acto administrativo en el Diario Oficial
 
+VI. Solamente podrán seleccionarse calefactores de empresas que cuenten con aparatos que cumplan con alguna de las opciones y características técnicas señaladas en la Res. exenta Nº 739, de fecha 9 de septiembre de 2020. Además de lo anterior, las empresas proveedoras de calefactores deberán haber participado con equipos instalados en el marco de los llamados de los años: Res. exenta N° 658 del 15/07/2016, Res. exenta Nº 555 del 16/06/2017, Res. exenta N° 456 del 13/06/2018 y/o Res. exenta Nº 298 del 08/04/2019; Res. exenta Nº 1.221, del 07/10/2019, realizados por el Ministerio del Medio Ambiente para el recambio de calefactores en la Región del Libertador General Bernardo O'Higgins, bajo el plan de Descontaminación Atmosférica. Lo anterior deberá ser debidamente acreditado ante Serviu.
+
+Además, se deberá cumplir con los siguientes requisitos, a indicar al momento del ingreso del proyecto a Serviu:
+
+1) Nombre y/o razón social de la empresa proveedora y RUT.
+
+2) Dirección, correo electrónico y teléfono del servicio técnico autorizado existente en la región.
+
+3) Informar listado de instaladores autorizados (credencial respectiva, RUN, nombre) de la marca del calefactor.
+
+4) Especificaciones técnicas en español de equipos que cumplan las características señaladas en el llamado.
+
+5) El costo de instalación detallado, que deberá considerar lo siguiente:
+
+5.1.- Visita técnica y evaluación realizada por técnico acreditado de empresa, donde se deberá verificar la factibilidad técnica para la instalación del nuevo calefactor y las obras necesarias para su funcionamiento en caso de corresponder. Además, se deberán señalar costos de funcionamiento promedio al beneficiario.
+
+5.2.- La desinstalación y retiro del calefactor antiguo, los ductos de evacuación de gases existentes y accesorios, e instalación inmediata del nuevo calefactor (en un mismo paso), así como también sus ductos de evacuación de gases, accesorios y el combustible necesario para la puesta en marcha y el funcionamiento en el período de prueba del equipo.
+
+5.3.- El calefactor retirado y sus accesorios, deberán ser chatarrizados en lugar autorizado por resolución sanitaria respectiva para estos efectos. Se deberá acreditar debidamente ante Serviu.
+
+5.4.- El calefactor se instalará preferentemente en el lugar donde se encontraba el antiguo aparato a leña. De producirse un cambio de posición, se privilegiará una zona que cumpla con las recomendaciones del fabricante, además, la nueva ubicación deberá entregar la mejor distribución de calor dentro de la vivienda.
+
+5.5.- Certificado de conformidad y aceptación firmado por el instalador y el beneficiario con detalles de la instalación.
+
+5.6.- Ofrecer una capacitación al beneficiario para la utilización y mantención del nuevo calefactor y entrega de manual de operación del calefactor en idioma español.
+
+> **Nota.** El numeral 1 de la Resolución 798 Exenta, Vivienda, publicada el 14.10.2020, complementa la presente norma incorporando un nuevo numeral VI.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Francisco Javier Ravanal González, Secretario Regional Ministerial de Vivienda y Urbanismo Región del Libertador General Bernardo O'Higgins.
