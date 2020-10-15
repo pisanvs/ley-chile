@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.047, de 29 de septiembre 2020, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Collao 1659, Rol de Avalúo N° 320-27, comuna de Concepción, de aparente dominio de Cía de Petróleos de Chile COPEC, en una superficie de 799,55 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-38.450-2, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao/General Novoa, comuna de Concepción", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Claudia Marzullo García, arquitecto Daniela Cortez Moraga y arquitecto Priscilla Encalada Rueda, según informe de fecha 22 de julio 2020, fijó monto provisional indemnización, más reajuste del artículo 5° DL 2.186, en $152.435.998, pagadera de contado.-
+
+Director (S) Serviu Región del Biobío.
