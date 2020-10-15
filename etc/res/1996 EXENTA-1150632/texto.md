@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.996, 24 de septiembre de 2020, Serviu Región del Biobío ordenó expropiación parcial de terreno de un inmueble ubicado en Hijuela 5, Coliumo, Rol de Avalúo N° 410-308, comuna de Tomé, de aparente dominio de Novoa Cid Paz Lilian, superficie parcial afecta a expropiación de terreno de 28,69 m2 (Lote 7) y expropiación de edificación 0,00 m2, según plano S8R 39150-1, para la ejecución de las obras del Proyecto "Mejoramiento Avenida Coliumo" comuna de Tomé, Región del Biobío, conforme artículo 51 ley N° 16.391 y DL. N° 2.186. Comisión Peritos integrada por Arquitecto don Leonardo Fasce Casanueva, por el Arquitecto Alexander Boye Trenit y por el Arquitecto don Andrés Tobar Beluzán, según informe de fecha 21.08.2020, fijó monto provisional indemnización en $2.669.140, más una suma de $2.669 por concepto de reajuste del artículo 5° del DL. 2186 de 1976, que arroja un valor total de $2.671.809.-
+
+Director Serviu Región del Biobío.
