@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 835, de 10 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 2 y 3, para la obra: CONSERVACIÓN RED VIAL REGIÓN DE LA ARAUCANIA (2018-2020), SECTOR PUENTE QUILLEM Y ACCESOS, que figuran a nombre de Forestal Mininco S.A. y FORESTAL EL ASTILLERO LIMITADA, roles de avalúo 583-210 y 583-44, Comuna de VICTORIA, REGION DE LA ARAUCANÍA, superficies 136 y 202 m2 respectivamente. La Comisión de Peritos integrada por CLAUDIO HERNÁN ANGULO SOTOMAYOR, EVALDO ROBERTO CONTRERAS ROA y PABLO ALEX MANSILLA ARAVENA, mediante informes de tasación de fecha 15 de mayo de 2019, fijó el monto de las indemnizaciones provisionales en las cantidades de $331.000.- para el lote Nº2, y $866.500.- para el lote Nº3. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
