@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº806, de 02 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 4, 5 y 6, para la obra: REPOSICION PUENTE NEGRO Nº2 EN RUTA W-315, que figuran a nombre de MELERO GONZALEZ JIMENA LEONOR, roles de avalúo 1189-63, Comuna de ANCUD, REGIÓN DE LOS LAGOS, superficies 135, 813 y 3.519 m2. respectivamente. La Comisión de Peritos integrada por LEOPOLDO RAMON SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA y JUAN SAMUEL BARRIENTOS BAHAMONDE, mediante informe de tasación de 04 de julio de 2019, fijó el monto de la indemnización provisional en la cantidad de $121.500, para el lote Nº4, $731.700, para el lote Nº5 y $3.167.100, para el lote Nº6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
