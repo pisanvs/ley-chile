@@ -1,0 +1,7 @@
+OTORGAMIENTO CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 510, del 21 de diciembre de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Trusal S.A. RUT Nº 96.566.740-7, primera renovación con modificación de concesión marítima menor, con vencimiento el 30 de junio de 2028, sobre un sector de playa, fondo de mar y porción de agua, en el lugar denominado sector Isla Cabuco, sector Punta Caicaén, comuna de Calbuco, provincia de Llanquihue, Región de Los Lagos, con una superficie total de playa de 9.789,46 m2, fondo de mar 271,28 m2 y la porción de agua tiene un superficie de 426,711 m2. La renovación fue tramitada con el trámite SIABC Nº 34956. A modo de referencia se señalan las siguientes coordenadas geográficas:
+
+El objeto de esta concesión marítima, sobre los sectores otorgados, es continuar amparando una infraestructura de apoyo a la actividad acuícola, consistente en un arrastradero para embarcaciones menores de 50 TRG., áreas de mantención de las naves, área de maniobras y trabajo, reparaciones de balsas-jaulas, construcción de un atracadero flotante mecanizado para el atraque de naves de hasta 50 TRG., una cañería conductora de peces y una cañería conductora de alimento para peces. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Calbuco. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Jonathan Dimter Muñoz, Capitán de Corbeta LT, Capitán de Puerto de Calbuco.
