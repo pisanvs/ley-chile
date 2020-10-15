@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 848, de 10 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº 206 de 1960, se expropiaron los lotes de terreno Nºs. 145 y 146, para la obra: MEJORAMIENTO RUTAS S-464 y S-488: ALMAGRO-BARROS ARANA, que figuran a nombre de NAVARRETE SUAREZ CARMEN LUZ, rol de avalúo 622-16, Comuna de NUEVA IMPERIAL, REGION DE LA ARAUCANÍA, superficies 1.159 y 6.814 m2 respectivamente. La Comisión de Peritos integrada por ELENA PILAR FRITZ AGÜERO, PAULA ANDREA LAGOS CARRASCO y EVALDO ROBERTO CONTRERAS ROA, mediante informes de tasación de 27 de julio de 2015, actas complementarias, ambas de fecha 7 de diciembre de 2017, fijó el monto de las indemnizaciones provisionales en las cantidades de $4.104.100.- para el lote Nº145, y $11.180.600.- para el lote Nº 146. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
