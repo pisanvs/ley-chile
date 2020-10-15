@@ -1,0 +1,11 @@
+ADJUDICACIÓN DE CONCESIÓN DE SERVICIOS SANITARIOS A EMPRESA DE SERVICIOS SANITARIOS SAN ISIDRO S.A.
+
+Por decreto supremo número 94 del Ministerio de Obras Públicas, de fecha 27 de agosto de 2020 tramitada con fecha 16 de septiembre de 2020, se adjudicó a la Empresa de Servicios Sanitarios San Isidro S.A., RUT Nº 96.889.730-6, domiciliada en calle Lynch Nº 998, comuna de Temuco, Región de La Araucanía, la ampliación de las Concesiones de Producción y Distribución de Agua Potable y de Recolección y Disposición de Aguas Servidas, destinadas a la atención del sector denominado "Poeta Teófilo Cid" de la localidad de Labranza, comuna de Temuco, Región de la Araucanía. La zona de concesión o territorio operacional de los servicios de distribución de agua potable y de recolección de aguas servidas corresponderá a un área de aproximadamente 9,96 hectáreas que se encuentra identificada y delimitada en el plano denominado "Tema: Ampliación Sector Teófilo Cid Poeta Teófilo Cid - Labranza Provincia: Cautín Comuna: Temuco Localidad: Labranza del plan de desarrollo, que forma parte integrante del presente decreto.
+
+En el primer establecimiento correspondiente al año 2023 se considera dar servicio a 527 arranques de agua potable y la misma cantidad de uniones domiciliarias de alcantarillado, lo que se mantendrá igual hacia el final del periodo año 2033.
+
+El servicio público de producción de agua potable para la concesión que se amplía por este decreto, será abastecido por las fuentes que se indican en el numeral 3.1 letra a) de la respectiva ficha de antecedentes técnicos (FAT) sobre las cuales la concesionaria tiene los derechos que se individualizan en los informes de títulos respectivos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el artículo 26º del DS MOP 1.199/04, y se encuentran afectos a la concesión. Las demás condiciones de prestación de los servicios otorgados en la concesión, son las establecidas en la Ficha de Antecedentes Técnicos (FAT) Nº SC 09-35 G, que forma parte integrante del decreto extractado.
+
+Demás antecedentes constan en decreto extractado, el que fue reducido a escritura pública con fecha 25 de septiembre de 2020 en la Notaría de Temuco de don Héctor Efraín Basualto Bustamante.
+
+Santiago, octubre 2020.- Jorge Rivas Chaparro, Superintendente de Servicios Sanitarios.
