@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.998 del 24 de septiembre de 2020, Serviu Region del Biobío ordenó expropiación parcial de inmueble ubicado en El Corral Coliumo (Caleta Coliumo), Rol de Avalúo 410-29, comuna de Tomé, de aparente dominio de Cabrera Badilla Nicolás del Tránsito. La superficie afecta a expropiación parcial es de 125,38 m2 de terreno y 0,00 m2 de expropiación de edificación, conforme a plano de expropiación S8R 39152-1 del mes de mayo de 2020, para la ejecución de la obra Mejoramiento Avenida Coliumo, comuna de Tomé, conforme artículo 51 ley 16.391 y DL 2186. Comisión Peritos integrada por el arquitecto Leonardo Eugenio Fasce Casanueva, el arquitecto Alexander Theodor Boyer Trenit y el arquitecto Andrés Javier Tobar Beluzán, según informe de fecha 21.08.2020, que fijó monto provisional en $2.654.815.-, pagadero de contado.-
+
+Director subrogante Serviu Región del Biobío.
