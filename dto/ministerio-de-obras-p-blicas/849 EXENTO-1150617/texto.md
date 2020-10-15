@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 849, de 10 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº 206 de 1960, se expropiaron los lotes de terreno Nºs. 109 y 111. para la obra: MEJORAMIENTO RUTAS S-464 y S-488: ALMAGRO-BARROS ARANA, que figuran a nombre de MILLAQUEO QUINTREQUEO ELVIRA DEL Y, rol de avalúo 622-192, Comuna de TEODORO SCHMIDT, REGION DE LA ARAUCANIA, superficies 248 y 941 m2 respectivamente. La Comisión de Peritos integrada por PABLO ALEX MANSILLA ARAVENA, CLAUDIO HERNÁN ANGULO SOTOMAYOR, y HANDY GHISLAINE CAMPOS SEPULVEDA, mediante informes de tasación de 13 de julio de 2015, complementado por actas, ambas de fecha 25 de septiembre de 2017, fijó el monto de las indemnizaciones provisionales en las cantidades de $393.240.- para el lote Nº109, y $1.203.080.- para el lote Nº 111. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
