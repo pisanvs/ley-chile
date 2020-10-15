@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº819, de 02 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 8 y 10, para la obra: CAMINO PUELO - PASO EL BOLSON, SECTOR: SEGUNDO CORRAL - LAGO INFERIOR, que figuran a nombre de NUNEZ VERA MARIA ORFELINA, roles de avalúo 158-176, Comuna de COCHAMO, REGIÓN DE LOS LAGOS, superficies 6.501 y 25.059 m2. respectivamente. La Comisión de Peritos integrada por LEOPOLDO RAMON SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA y JUAN SAMUEL BARRIENTOS BAHAMONDE, mediante informe de tasación de 18 de abril de 2018, fijó el monto de la indemnización provisional en la cantidad de $9.751.500, para el lote Nº8 y $50.118.000, para el lote Nº10. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el articulo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
