@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 850, de 10 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº 206 de 1960, se expropiaron los lotes de terreno Nºs. 84 y 88, para la obra: MEJORAMIENTO RUTA S-785 -T,SECTOR PUENTE PAYA-PUENTE HUIÑOCO II, que figuran a nombre de CORPORACION IGLESIA CRISTIANA EV y OLIVARES SANHUEZA EDITA DEL CARM Y, roles de avalúo 492-128 y 492-74, Comuna de LONCOCHE, REGION DE LA ARAUCANÍA, superficies 754 y 263 m2 respectivamente. La Comisión de Peritos integrada por MARIA SOLEDAD NUÑEZ ARROYO, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informes de tasación de fecha 27 de mayo de 2019, fijó el monto de las indemnizaciones provisionales en las cantidades de $2.101.450.- para el lote Nº84, y $1.405.900.- para el lote Nº88. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
