@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.677, de fecha 21 de agosto de 2020, se ordenó la expropiación total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 666-138, correspondiente al inmueble ubicado en Pje. Socoroma 505 Block B DP. 32 V Parinacota Rol de Avalúo N° 666-138, de la Comuna de Quilicura, Región Metropolitana, de aparente dominio de Inostroza Palma Purísima Andrea, con una superficie aproximada de 43,63 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación de Terrenos Población Parinacota, Comuna de Quilicura". La Comisión de Peritos integrada por el señor Andrés Schulz Villanueva, arquitecto; señor Jesús Díaz Pasmiño, ingeniero civil, y señor Gabriel Pantoja Rivera, ingeniero agrónomo, mediante informe de fecha 29 de mayo de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $21.616.109, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
