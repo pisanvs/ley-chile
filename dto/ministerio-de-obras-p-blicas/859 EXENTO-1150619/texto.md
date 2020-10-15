@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 859, de 28 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c) y 14º letra e) del DFL. MOP. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº 206 de 1960; artículo 10 de la Ley Nº 18.772, se expropió para la EMPRESA DE TRANSPORTE DE PASAJEROS METRO S.A., el lote de terreno Nº 4L7, para la obra: PROYECTO LÍNEA 7 METRO S.A., que figura a nombre de ALVAREZ GUTIERREZ MARIA EUGENIA Y O, rol de avalúo 760-32, Comuna de RENCA, REGION METROPOLITANA DE SANTIAGO, superficie 403,80 m2. La Comisión de Peritos integrada por ANDRES ANIBAL RISSO CAAMAÑO, PATRICIA VERONICA ZAVALA CONTRERAS y HUGO ANDRES MARIN AVENDAÑO, mediante informe de tasación de fecha 25 de abril de 2019. fijó el monto de la indemnización provisional en la cantidad de $126.071.500.- para el lote Nº4L7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el articulo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
