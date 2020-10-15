@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 836, de 10 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 1 y 2, para la obra: CONSERVACIÓN RED VIAL, REGIÓN DE LA ARAUCANIA (2018-2020), SECTOR PUENTE EL ROSARIO Y ACCESOS, que figuran a nombre de FORESTAL EL ASTILLERO LIMITADA, rol de avalúo 538-5, Comuna de VICTORIA, REGION DE LA ARAUCANIA, superficies 164 y 507 m2 respectivamente. La Comisión de Peritos integrada por MARIA SOLEDAD NUÑEZ ARROYO, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informes de tasación de fecha 2 de julio de 2019, fijó el monto de las indemnizaciones provisionales en las cantidades de $475.240.- para el lote Nº1, y $1.268.120.- para el lote Nº2. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
