@@ -1,0 +1,7 @@
+RENOVACIÓN DE DESTINACIÓN MARÍTIMA
+
+Decreto exento N° 644, de fecha 13 de julio de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, para el Servicio Nacional de Pesca, Rut N° 60.701.002-1, Tercera Renovación de Destinación Marítima, con vencimiento el 30 de junio de 2035, sobre un sector de Fondo de Mar y Porción de Agua, en el lugar denominado Carrizal Bajo, comuna de Huasco, Provincia de Huasco, Región de Atacama, con una superficie total de 1.193.700 m2, la que fue tramitada con el SIABC N° 37257. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en continuar operando un área de manejo y explotación de recursos bentónicos, según lo establecido en la ley N° 18.892, Ley General de Pesca y Acuicultura y sus modificaciones; y el DS N° 355 de 1995, del Ministerio de Economía, Fomento y Reconstrucción, reglamento sobre áreas de manejo y explotación de recursos bentonicos. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Huasco. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Huasco, 26 de agosto de 2020.- Lorenzo Panes Ramírez, Capitán de Corbeta OM LT, Capitán de Puerto de Huasco.
