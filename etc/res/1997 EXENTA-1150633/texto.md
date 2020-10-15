@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.997, 24 de septiembre 2020, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación del inmueble ubicado en Av. Coliumo 1025 ST 4 Coliumo, Rol de Avalúo Nº 1434-11, comuna de Tomé, de aparente dominio de Torres Garrido Maricela del Carm. y otros. La parte a expropiar tiene la superficie afecta expropiación parcial es de 15,47 m2 de terreno (Lote 12) y expropiación total de edificación de 18,90 m2. y cuyos linderos particulares, enmarcados en el polígono A-B-C-D del plano S8R-39153-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida Coliumo" comuna de Tomé, Región del Biobío, conforme artículo 51 ley Nº 16391 y DL Nº 2.186. Comisión Peritos integrada por los arquitectos Leonardo Fasce Casanueva, Alexander Boye Trenit y Andrés Tobar Beluzán, que fijó el monto de la indemnización provisional por la expropiación en la suma de $1.426.191.- más una suma de $1.426.- por concepto de reajuste del artículo 5º del DL 2186 de 1978, que dan la cifra de $1.427.617.-
+
+Director (S) Serviu Región del Biobío.
