@@ -1,0 +1,5 @@
+RESOLUCIÓN EXENTA N° 2020/PA/09/0293 DE FECHA 1 DE SEPTIEMBRE DE 2020 QUE APRUEBA PROCESO ADMINISTRATIVO
+
+La Superintendencia de Educación, por resolución exenta N° 2020/PA/09/0293, de fecha 1 de septiembre de 2020, del Director Regional de la Superintendencia de Educación de la Región de la Araucanía, aprueba proceso administrativo al sostenedor Entidad Individual Educacional Chango, RUT N° 65.096.275-3, bajo cuya dependencia se encuentra el establecimiento educacional Escuela Particular Chango, RBD N° 6545, de la comuna de Carahue. Resolviendo: 1. Apruébase proceso administrativo ordenado instruir mediante resolución exenta N° 2019/PA/09/437, de fecha 2 de octubre de 2019, de la encargada Regional de Fiscalización, a la entidad sostenedora, sancionándose con Privación Temporal y Parcial de la Subvención de un 1% y por 4 meses.
+
+2. Notifíquese la presente resolución. 3. Archívese.
