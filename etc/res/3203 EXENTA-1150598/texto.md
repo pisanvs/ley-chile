@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 3.203 EXENTA, DE 23 DE SEPTIEMBRE DE 2020
+
+Por resolución exenta Nº 3.203, de fecha 23 de septiembre de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se modificó resolución exenta Nº 1.967, de 26 de septiembre de 2007, de la misma Secretaría Regional Ministerial de Transportes y Telecomunicaciones, que otorgó reconocimiento oficial a la Escuela de Conductores Profesionales "Condutec", sólo en el sentido de reconocer el cambio de dirección del taller mecánico y estacionamientos de la Escuela a "José María Caro Nº 330, ambos de la comuna de Peñaflor.". En todo lo no modificado, se mantienen íntegramente vigentes demás estipulaciones aprobadas por resolución exenta Nº 1.967, de 26 de septiembre de 2007, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
