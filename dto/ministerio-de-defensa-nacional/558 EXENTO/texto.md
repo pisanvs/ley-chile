@@ -1,0 +1,7 @@
+OTORGAMIENTO DE DESTINACIÓN MARÍTIMA
+
+Decreto exento N° 558 de fecha 16 de junio de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, para el Servicio Nacional de Pesca, Rut N° 60.701.002-1, Destinación Marítima, con vencimiento el 30 de junio de 2035, sobre un sector de Fondo de Mar y Porción de Agua, en el lugar denominado La Reina, comuna de Freirina, Provincia de Huasco, Región de Atacama, con una superficie total de 2.056.400 m2, la que fue tramitada con el SIABC N° 44507. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en continuar operando un área de manejo y explotación de recursos bentónicos, según lo establecido en la ley N° 18.892, Ley General de Pesca y Acuicultura y sus Modificaciones; y el DS N° 355 de 1995, del Ministerio de Economía, Fomento y Reconstrucción, Reglamento Sobre Áreas de Manejo y Explotación de Recursos Bentónicos. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Huasco. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Huasco, 26 de agosto de 2020.- Lorenzo Panes Ramírez, Capitán de Corbeta OM LT, Capitán de Puerto de Huasco.
