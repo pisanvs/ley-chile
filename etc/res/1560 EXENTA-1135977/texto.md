@@ -52,6 +52,8 @@ LÍMITES MÁXIMOS DE RESIDUOS DE MEDICAMENTOS VETERINARIOS EN ALIMENTOS DESTINAD
 
 .
 
+.</REFERENCIA>.
+
 Tercero: Además de las sustancias descritas en la presente resolución, tampoco se deben detectar residuos de las sustancias prohibidas por el Servicio Agrícola y Ganadero, salvo que se especifiquen límites máximos residuales para ciertos casos.
 
 Cuarto: Déjase sin efecto la resolución exenta Nº 551, de 2014, del Ministerio de Salud, desde la entrada en vigencia del presente acto administrativo.
