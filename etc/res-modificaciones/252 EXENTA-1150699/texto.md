@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN Nº 268 EXENTA, DE 06.08.2019, DE ESTA DIRECCIÓN NACIONAL, QUE DESIGNÓ AL SUBDIRECTOR DE SISTEMAS DE INFORMACIÓN Y ADMINISTRACIÓN COMO SUJETO PASIVO DE LA LEY Nº 20.730, QUE REGULA EL LOBBY Y LA GESTIÓN DE INTERESES PARTICULARES ANTE AUTORIDADES Y FUNCIONARIOS Y DESIGNÓ ASISTENTE TÉCNICO
+
+Por resolución exenta Nº 252, de 10 de septiembre de 2020, el Director Nacional del Instituto de Previsión Social modificó el resuelvo Nº 2 de su resolución exenta Nº 268, de 6 de agosto de 2019, que designó como Sujeto Pasivo de la Ley Nº 20.730 al Subdirector de Sistemas de Información y Administración, don Pedro Rubén Bahamondes Yáñez, en el sentido de designar como Asistentes Técnicos a las funcionarias doña Cecilia Alejandra Sepúlveda Moya, Profesional grado 5º EUS, y doña Cecilia Gómez Castro, Técnico grado 12 EUS, quienes tendrán que colaborar en la gestión, carga de datos y registro de la agenda pública del referido directivo en la Plataforma de la Ley del Lobby.-
+
+Patricio Coronado Rojo, Director Nacional.
