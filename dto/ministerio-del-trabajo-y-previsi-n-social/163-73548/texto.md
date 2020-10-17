@@ -272,6 +272,8 @@ d) Préstamos para vivienda:
 
 Para optar a estos préstamos, los afiliados no deben ser propietarios de otras viviendas. El monto a otorgar no podrá ser superior a 20 U.F. y deberá descontarse en un plazo máximo de 24 meses.
 
+Para complementar el ahorro previo para la vivienda, lo que debe estar debidamente certificado con la libreta de ahorro correspondiente asociada a algún Banco comercial y a nombre del Socio titular del Servicio.
+
 Podrá otorgarse un préstamo paralelo a los establecidos en las letras a), b), c) y d) siempre y cuando se cumplan las siguientes tres condiciones:
 
 - El préstamo paralelo sea solicitado por una causal distinta a la del préstamo vigente.
@@ -318,7 +320,7 @@ El Bienestar podrá organizar y financiar en beneficio de los afiliados y de sus
 
 #### Artículo 12º
 
-El Bienestar podrá organizar y financiar, según lo determine el Consejo, la celebración de la fiesta de Navidad para los afiliados y sus cargas familiares, Día del Niño, de la Madre, del Padre o de la Familia y Promoción del Servicio de Bienestar a través de actividades recreativas, saludables, expositivas, según lo determine el Consejo Administrativo. Asimismo podrá colaborar en la organización y financiamiento de la celebración de las Fiestas Patrias, según lo determine el Consejo.
+El Bienestar podrá organizar y financiar, según lo determine el Consejo, la celebración de la fiesta de Navidad para los afiliados y sus cargas familiares, Día del niño, de la madre, del padre o de la familia y promoción del Servicio de Bienestar a través de actividades recreativas, saludables, expositivas. Asimismo, podrá colaborar en la organización y financiamiento de la celebración de las Fiestas Patrias, "como igualmente y en la medida que los recursos lo permitan, realizar la celebración del Día del Socio, en el mes de abril de cada año".
 
 ## Título IV
 
@@ -460,7 +462,7 @@ En el caso de los funcionarios que se acogen a jubilación, este plazo comenzar�
 
 #### Artículo 25º
 
-Las cuotas mensuales que los afiliados deben pagar en virtud de préstamos, compras por convenios con empresas, o cualquier beneficio reembolsable, no podrán exceder en total del 30% de su remuneración mensual imponible para pensiones o pensión de jubilación, según corresponda.
+Las cuotas mensuales que los afiliados deben pagar en virtud de préstamos, compras por convenios con empresas, o cualquier beneficio reembolsable, no podrán exceder en total del 15% de su remuneración mensual, entendida por ésta el total de emolumentos de carácter fijo que tienen derecho a percibir, sin considerar descuentos legales, lo cual será evaluado por el jefe de Servicio o quien lo subrogue.
 
 #### Artículo transitorio
 
