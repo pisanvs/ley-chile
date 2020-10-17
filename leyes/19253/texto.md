@@ -16,7 +16,7 @@ Principios Generales
 
 El Estado reconoce que los indígenas de Chile son los descendientes de las agrupaciones humanas que existen en el territorio nacional desde tiempos precolombinos, que conservan manifestaciones étnicas y culturales propias siendo para ellos la tierra el fundamento principal de su existencia y cultura.
 
-El Estado reconoce como principales etnias indígenas de Chile a: la Mapuche, Aimara, Rapa Nui o Pascuenses, la de las comunidades Atacameñas, Quechuas, Collas y Diaguita del norte del país, las comunidades Kawashkar o Alacalufe y Yámana o Yagán de los canales australes. El Estado valora su existencia por ser parte esencial de las raíces de la Nación chilena, así como su integridad y desarrollo, de acuerdo a sus costumbres y valores.
+El Estado reconoce como principales etnias indígenas de Chile a: la Mapuche, Aimara, Rapa Nui o Pascuenses, la de las comunidades Atacameñas, Quechuas, Collas, Diaguita y Chango del norte del país, las comunidades Kawashkar o Alacalufe y Yámana o Yagán de los canales australes. El Estado valora su existencia por ser parte esencial de las raíces de la Nación chilena, así como su integridad y desarrollo, de acuerdo a sus costumbres y valores.
 
 Es deber de la sociedad en general y del Estado en particular, a través de sus instituciones respetar, proteger y promover el desarrollo de los indígenas, sus culturas, familias y comunidades, adoptando las medidas adecuadas para tales fines y proteger las tierras indígenas, velar por su adecuada explotación, por su equilibrio ecológico y propender a su ampliación.
 
@@ -128,9 +128,9 @@ c) Cesiones gratuitas de dominio efectuadas conforme a la ley N° 4.169, de 1927
 
 d) Otras formas que el Estado ha usado para ceder, regularizar, entregar o asignar tierras a indígenas, tales como, la ley N° 16.436, de 1966; decreto ley N° 1.939, de 1977, y decreto ley N° 2.695, de 1979, y
 
-e) Aquellas que los beneficiarios indígenas de las leyes N° 15.020, de 1962, y N° 16.640, de 1967, ubicadas en las Regiones VIII, IX y X, inscriban en el Registro de Tierras Indígenas, y que constituyan agrupaciones indígenas homogéneas lo que será calificado por la Corporación.
+e) Aquellas que los beneficiarios indígenas de las leyes N° 15.020, de 1962, y N° 16.640, de 1967, ubicadas en las Regiones II, III, IV, V, VIII, IX y X, inscriban en el Registro de Tierras Indígenas, y que constituyan agrupaciones indígenas homogéneas lo que será calificado por la Corporación.
 
-2° Aquellas que históricamente han ocupado y poseen las personas o comunidades mapuches, aimaras, rapa nui o pascuenses, atacameñas, quechuas, collas, kawashkar y yámana, siempre que sus derechos sean inscritos en el Registro de Tierras Indígenas que crea esta ley, a solicitud de las respectivas comunidades o indígenas titulares de la propiedad.
+2° Aquellas que históricamente han ocupado y poseen las personas o comunidades mapuches, aimaras, rapa nui o pascuenses, atacameñas, quechuas, collas, diaguitas, changos, kawashkar y yámana, siempre que sus derechos sean inscritos en el Registro de Tierras Indígenas que crea esta ley, a solicitud de las respectivas comunidades o indígenas titulares de la propiedad.
 
 3° Aquellas que, proviniendo de los títulos y modos referidos en los números precedentes, se declaren a futuro pertenecientes en propiedad a personas o comunidades indígenas por los Tribunales de Justicia.
 
@@ -924,13 +924,19 @@ c) Tierras patrimoniales de propiedad de varias Comunidades Indígenas, tales co
 
 #### Artículo 64
 
-Se deberá proteger especialmente las aguas de las comunidades Aimaras y Atacameñas. Serán considerados bienes de propiedad y uso de la Comunidad Indígena establecida por esta ley, las aguas que se encuentren en los terrenos de la comunidad, tales como los ríos, canales, acequias y vertientes, sin perjuicio de los derechos que terceros hayan inscrito de conformidad al Codigo General de Aguas.
+Se deberá proteger especialmente las aguas de las comunidades Aimaras y Atacameñas. Serán considerados bienes de propiedad y uso de la Comunidad Indígena establecida por esta ley, las aguas que se encuentren en los terrenos de la comunidad, tales como los ríos, canales, acequias, pozos de agua dulce y vertientes, sin perjuicio de los derechos que terceros hayan inscrito de conformidad al Codigo General de Aguas.
 
 No se otorgarán nuevos derechos de agua sobre lagos, charcos, vertientes, ríos y otros acuíferos que surten a las aguas de propiedad de varias Comunidades Indígenas establecidas por esta ley sin garantizar, en forma previa, el normal abastecimiento de agua a las comunidades afectadas.
 
 #### Artículo 65
 
 La Corporación, sin perjuicio de lo establecido en las normas del Fondo de Tierras y Aguas Indígenas, incentivará programas especiales para la recuperación y repoblamiento de pueblos y sectores actualmente abandonados de las etnias aimara y atacameña.
+
+#### Artículo 65 bis
+
+Son changos las comunidades costeras ubicadas principalmente desde la II a la V Región.
+
+Se procurará proteger especialmente el hábitat de este pueblo originario, constituido por el borde costero, playas, islas y roqueríos, como asimismo la biodiversidad y ecosistemas marinos que garantizan su desarrollo y supervivencia.
 
 ### Párrafo 3°
 
