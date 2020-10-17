@@ -1,0 +1,5 @@
+APRUEBA CONTRATO DE COMODATO DE FECHA 01.09.2020, SUSCRITO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL SERVICIO DE SALUD VIÑA DEL MAR -QUILLOTA, RESPECTO DEL INMUEBLE DE PROPIEDAD DEL INSTITUTO DENOMINADO "RECINTO RECREACIONAL REÑACA IPS", EMPLAZADO EN EL INMUEBLE UBICADO EN CALLE EDMUNDO ELUCHANS Nº 400, DE LA COMUNA Y CIUDAD DE VIÑA DEL MAR, SEGÚN SE INDICA
+
+Por resolución exenta I Nº 13, de 10 de septiembre de 2020, el jefe del Departamento de Administración e Inmobiliaria del Instituto de Previsión Social aprobó el documento Contrato de Comodato de fecha 01.09.2020, entre el Instituto de Previsión Social y el Servicio de Salud Viña del Mar-Quillota, por medio del cual el Instituto entrega en comodato dieciocho cabañas y sus instalaciones del "Recinto Recreacional Reñaca IPS", ubicado en calle Edmundo Eluchans Nº 400, de la comuna y ciudad de Viña del Mar, en los términos que indica.-
+
+Roberto Rodrigo Lagos Flores.
