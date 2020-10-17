@@ -118,15 +118,7 @@ Esta medida tendrá el carácter de indefinida, hasta que las condiciones epidem
 
 11. Dispóngase que las personas que ingresen al país, sin importar el país de origen, deben cumplir con la medida de cuarentena por 14 días. Esta medida tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
 
-La circunstancia de contar con un resultado negativo en un test de PCR para SARS-CoV-2 no eximirá a la persona del cumplimiento total de la cuarentena dispuesta en este numeral.
-
-La Secretaría Regional Ministerial de Salud de la región por donde se efectúe el ingreso al país, podrá excepcionar de lo dispuesto en los dos párrafos precedentes a la persona que así lo solicite, siempre que adjunte lo siguiente:
-
-a) Una declaración jurada indicando el motivo de su ingreso y las razones por las cuales dicho ingreso es impostergable e incompatible con el cumplimiento de una cuarentena de 14 días; y,
-
-b) El resultado negativo de un test PCR para SARS-Cov-2. La toma de este examen deberá realizarse en territorio nacional y será de responsabilidad de quien quiera hacer uso de esta excepción;
-
-Durante la tramitación de la autorización sanitaria de la que trata el párrafo anterior, el solicitante deberá permanecer en cuarentena o aislamiento.
+No estarán obligadas a guardar cuarentena las personas que cuenten con un resultado negativo de un Test PCR para SARS-CoV-2. Si el test se ha realizado en el extranjero, este no deberá tener una antigüedad superior a 72 horas contadas desde el momento de ingreso a Chile. El test realizado en el extranjero debe ser por un laboratorio reconocido por la autoridad sanitaria de dicho país.
 
 11. Bis. Para efectos de esta resolución, se entenderá como caso sospechoso:
 
@@ -318,6 +310,14 @@ Déjase constancia que esta medida comenzó a regir el día 24 de marzo de 2020 
 
 Lo dispuesto en el párrafo primero de este numeral no aplicará a los habitantes de localidades que se encuentren en los Pasos 3, 4 y 5, en conformidad con el Capítulo II de la presente resolución y que se desplacen entre localidades que estén en los Pasos 3, 4 y 5. Con todo, quienes se desplacen entre las señaladas localidades deberán contar con sus pasaportes sanitarios y con el permiso correspondiente otorgado en virtud del Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 22.727, del 24 de septiembre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
+44 bis. Se autoriza la realización de oficios religiosos, ritos y ceremonias de las distintas comunidades religiosas en sus respectivos cultos en las localidades que se encuentren en Paso 2, 3, 4 o 5, sujeto a las siguientes reglas:
+
+a. Los oficios, ritos o ceremonias no podrán exceder las dos horas de duración.
+
+b. El aforo máximo de los espacios donde se efectúe el oficio, rito o ceremonia, ya sean cerrados o abiertos, no podrá exceder de una persona por cada 4 metros cuadrados útiles.
+
+c. Deberá darse estricto cumplimiento a las demás medidas sanitarias, según el paso en que se encuentre la localidad donde se emplaza el espacio en que se celebra el oficio, rito o ceremonia. En ningún caso podrá celebrarse un oficio, rito o ceremonia en localidades que se encuentren en cuarentena, ya sea en Paso 1 o Paso 2 durante los fines de semana y feriados.
+
 ### X. Medidas administrativas
 
 45. Dispóngase que el Subsecretario de Redes Asistenciales efectúe la coordinación clínica de todos los centros asistenciales del país, públicos y privados.
@@ -440,7 +440,19 @@ Las actividades señaladas en este numeral no podrán contar con público.
 
 Asimismo, podrán realizar actividades deportivas aquellas personas que cuentan con la autorización a la que hace referencia el numeral 40 del Capítulo I.
 
-68. Se permite el funcionamiento de cines, teatros y análogos, hasta el 25% de su aforo máximo, sin venta ni consumo de bebidas y alimentos.
+68. Se permite el funcionamiento de cines, teatros y análogos, sin venta ni consumo de bebidas y alimentos, hasta el 50% de su aforo y guardando una distancia mínima de un metro entre los asistentes.
+
+68 bis. Se permite el funcionamiento de gimnasios abiertos al público, sujeto a las siguientes reglas:
+
+a. No está permitido el uso de camarines ni lugares cerrados que no sean absolutamente esenciales para el adecuado funcionamiento de las actividades deportivas del gimnasio.
+
+b. La distancia entre las máquinas de ejercicios deberá ser de un mínimo de 2 metros entre ellas.
+
+c. El aforo en la sala de máquinas no podrá superar 1 persona cada 10 metros cuadrados.
+
+d. En el caso de clases grupales, no podrá haber más de 10 personas en cada sala, distanciadas al menos 2 metros entre ellas.
+
+e. Se deberán establecer horarios de atención diferenciados. Cada asistente podrá permanecer máximo 1 hora en el gimnasio, período en el cual sólo podrá hacer uso de una sala o asistir a una clase grupal. Entre cada turno, el gimnasio deberá sanitizar las salas y ventilarlas por 30 minutos.
 
 69. Se permite la atención de público en restaurantes, cafés y análogos, hasta el 50% de su capacidad o guardando una distancia mínima de dos metros lineales entre mesas.
 
