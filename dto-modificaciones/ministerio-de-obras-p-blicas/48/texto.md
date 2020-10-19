@@ -814,6 +814,10 @@ ambiental
 
 9.8 Gestión Ambiental
 
+10.- ÁREA ASESORÍA
+
+10.1 Gestión Comunitaria y Operativa
+
 CUADRO 2-A
 
 Requisitos de Experiencia para Primera Categoría
@@ -991,6 +995,10 @@ a legislación ambiental 1.000 130
 9.7 Monitoreo y vigilancia ambiental 1.000 130
 
 9.8 Gestión ambiental 1.000 130
+
+10.- ÁREA ASESORÍA
+
+10.1 Gestión Comunitaria y Operativa 1.000 130
 
 CUADRO 2-B
 
@@ -1245,6 +1253,20 @@ Profesionales o Técnicos que acrediten la especialidad.
 9.8 Gestión Ambiental.
 
 Profesionales que acrediten la especialidad.
+
+10.- ÁREA ASESORÍA
+
+10.1 Gestión Comunitaria y Operativa. Ingenieros
+
+Civiles, Asistentes Sociales, Antropólogos,
+
+Trabajadores Sociales,Sicólogos,
+
+Sociólogos, Ingenieros Comerciales,
+
+Contadores Auditores y profesionales
+
+que acrediten la especialidad.
 
 CUADRO 2-C
 
