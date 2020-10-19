@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta N° 3.247, de 29 de septiembre de 2020, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se aprueba programa de enseñanza para obtención de Licencia de Conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores Cool Drive Puente Alto", cuyo propietario y director es el señor Francisco Javier Ferrada San Martín, RUT N° 16.280.651-3, ubicada en Avenida Concha y Toro N° 3955, local 20, comuna de Puente Alto. Las horas pedagógicas autorizadas a la referida Escuela son ocho horas teóricas y trece horas prácticas, con un total de veintiuna horas pedagógicas.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
