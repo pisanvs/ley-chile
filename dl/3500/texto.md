@@ -1324,7 +1324,7 @@ Por inversión en el extranjero se entenderá la inversión que se efectúe en t
 
 - **n)** del inciso segundo, más las inversiones en cuotas de fondos de inversión de la letra
 
-- **h)** cuando sus carteras se encuentren constituidas preferentemente por las inversiones citadas en la letra n), no podrá ser inferior al 5% ni superior al 15% del valor del Fondo, para cada Tipo de Fondo A, B, C, D y E. El Régimen de Inversión establecerá los casos en que se entenderá que la cartera de los fondos de inversión de la letra
+- **h)** cuando sus carteras se encuentren constituidas preferentemente por las inversiones citadas en la letra n), no podrá ser inferior al 5% ni superior al 20% del valor del Fondo, para cada Tipo de Fondo A, B, C, D y E. El Régimen de Inversión establecerá los casos en que se entenderá que la cartera de los fondos de inversión de la letra
 
 - **h)** se considerará constituida preferentemente por las inversiones citadas en la letra n).
 
@@ -1970,7 +1970,7 @@ El contrato de seguro de renta vitalicia se perfecciona mediante la aceptación 
 
 Efectuado el traspaso a la Compañía de Seguros respectiva, entrará en vigencia el contrato y ésta será exclusivamente responsable y obligada al pago de las rentas vitalicias y pensiones de sobrevivencia contratadas, al afiliado y a sus beneficiarios, cuando corresponda.
 
-Los afiliados que contraten una renta vitalicia mayor o igual al cien por ciento de la pensión máxima con aporte solidario y al setenta por ciento del promedio de las remuneraciones percibidas y rentas declaradas, calculado según lo establecido en el artículo 63, una vez pagada la prima a la compañía de seguros, podrán disponer libremente del excedente que quedare en la cuenta de capitalización individual. Tratándose de afiliados declarados inválidos se considerará el setenta por ciento del ingreso base.
+Los afiliados que contraten una renta vitalicia mayor o igual a 12 unidades de fomento y al setenta por ciento del promedio de las remuneraciones percibidas y rentas declaradas, calculado según lo establecido en el artículo 63, una vez pagada la prima a la compañía de seguros, podrán disponer libremente del excedente que quedare en la cuenta de capitalización individual. Tratándose de afiliados declarados inválidos se considerará el setenta por ciento del ingreso base.
 
 Sin perjuicio de lo anterior, el afiliado podrá siempre disponer de dicho excedente, para incrementar el monto de la pensión que estuviere percibiendo. En tal caso, transferirá el excedente a la compañía de seguros con la cual hubiere contratado la renta vitalicia, debiendo celebrar un nuevo contrato de seguro.
 
@@ -1986,21 +1986,7 @@ Los afiliados o beneficiarios de pensión que opten por contratar una renta vita
 
 Renta Vitalicia Inmediata con Retiro Programado es aquella modalidad de pensión por la cual el afiliado contrata con una Compañía de Seguros de Vida una Renta Vitalicia Inmediata con una parte del saldo de la cuenta de capitalización individual, acogiéndose con la parte restante a la modalidad de Retiro Programado. En este caso, la pensión corresponderá a la suma de los montos percibidos por cada una de las modalidades. Sólo podrán optar por esta modalidad aquellos afiliados que puedan obtener una renta vitalicia inmediata que sea igual o mayor que la pensión básica solidaria de vejez.
 
-Bajo esta modalidad de pensión tendrán derecho a
-
-retirar excedente de libre disposición los afiliados que obtengan una pensión mayor o igual al cien por ciento de la
-
-pensión máxima con aporte solidario y al setenta por
-
-ciento del promedio de las remuneraciones percibidas
-
-y rentas declaradas, calculado según lo establecido en
-
-el artículo siguiente. Tratándose de afiliados
-
-declarados inválidos se considerará el setenta por
-
-ciento del ingreso base.
+Bajo esta modalidad de pensión tendrán derecho a retirar excedente de libre disposición los afiliados que obtengan una pensión mayor o igual a 12 unidades de fomento y al setenta por ciento del promedio de las remuneraciones percibidas y rentas declaradas, calculado según lo establecido en el artículo siguiente. Tratándose de afiliados declarados inválidos se considerará el setenta por ciento del ingreso base.
 
 No obstante lo establecido en el inciso tercero del artículo 23, los afiliados que seleccionen la modalidad de pensión definida en este artículo, y que contraten una Renta Vitalicia Inmediata constante que cumpla con los requisitos señalados en el inciso anterior, podrán optar por cualquiera de los Fondos de la Administradora, con aquella parte del saldo con la que se acogen a la modalidad de retiro programado.
 
@@ -2044,13 +2030,13 @@ Dicho cálculo deberá ajustarse anualmente, a contar de la fecha en que fue det
 
 En todo caso, el afiliado podrá optar, durante el período de renta temporal, por retirar una suma inferior, como también por que su renta temporal mensual sea ajustada al cien por ciento del valor de la pensión básica solidaria de vejez, en el caso en que el afiliado no cumpla los requisitos para acceder al sistema de pensiones solidarias.
 
-El afiliado que hubiere contratado una renta vitalicia diferida mayor o igual al cien por ciento de la pensión máxima con aporte solidario y al menos igual al setenta por ciento del promedio de sus remuneraciones percibidas y rentas declaradas, calculado según lo establecido en el artículo 63 o del ingreso base cuando se trate de afiliados declarados inválidos, y mientras la renta temporal que percibiere fuere mayor o igual a dicha renta vitalicia, podrá optar por disponer libremente del excedente de su cuenta de capitalización individual por sobre los fondos necesarios para financiar la renta temporal convenida con la Administradora.
+El afiliado que hubiere contratado una renta vitalicia diferida mayor o igual a 12 unidades de fomento y al menos igual al setenta por ciento del promedio de sus remuneraciones percibidas y rentas declaradas, calculado según lo establecido en el artículo 63 o del ingreso base cuando se trate de afiliados declarados inválidos, y mientras la renta temporal que percibiere fuere mayor o igual a dicha renta vitalicia, podrá optar por disponer libremente del excedente de su cuenta de capitalización individual por sobre los fondos necesarios para financiar la renta temporal convenida con la Administradora.
 
 > **Nota.** El artículo 5º de la LEY 18.646, publicada el 29.08.1987, dispuso que las modificaciones introducidas al presente artículo entrarán en vigencia el día primero del mes siguiente a aquel en que se cumplan ciento veinte días de publicada.
 
 > **Nota.** NOTA 1: El artículo 1º Transitorio de la LEY 19934, publicada 21.02.2004, dispone que las modificaciones al presente artículo entrarán en vigencia ciento ochenta días después de su publicación.
 
-> **Nota.** NOTA 2: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que las modificaciones introducidas al presente artículo rigen a contar del primer día del séptimo mes siguiente al de su publicación.
+> **Nota.** NOTA 2: El artículo trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que las modificaciones introducidas al presente artículo rigen a contar del primer día del séptimo mes siguiente al de su publicación.
 
 ### Párrafo 3º
 
@@ -2070,7 +2056,7 @@ El afiliado que haga uso de la opción de retiro programado, para quien el saldo
 
 Se entenderá por saldo mínimo requerido el capital necesario para pagar, al afiliado y a sus beneficiarios, de acuerdo con los porcentajes establecidos en el artículo 58, una pensión equivalente al setenta por ciento del promedio de remuneraciones a que se refiere el artículo 63 o al setenta por ciento del ingreso base, cuando se trate de afiliados declarados inválidos.
 
-No obstante, el saldo mínimo requerido deberá ser mayor o igual que el capital necesario para pagar al afiliado el equivalente al cien por ciento de la pensión máxima con aporte solidario y la proporción de ésta que corresponda a cada beneficiario, vigente al momento del cálculo. Con todo, el saldo mínimo no podrá ser inferior al requerido para financiar una pensión que cumpla los requisitos antes definidos, en la modalidad de renta vitalicia inmediata sin condiciones especiales de cobertura, la que se determinará sobre la base del costo por unidad de pensión promedio de las ofertas seleccionables por el afiliado, recibidas a través del sistema de consultas.
+No obstante, el saldo mínimo requerido deberá ser mayor o igual que el capital necesario para pagar al afiliado el equivalente a 12 unidades de fomento y la proporción de ésta que corresponda a cada beneficiario, vigente al momento del cálculo. Con todo, el saldo mínimo no podrá ser inferior al requerido para financiar una pensión que cumpla los requisitos antes definidos, en la modalidad de renta vitalicia inmediata sin condiciones especiales de cobertura, la que se determinará sobre la base del costo por unidad de pensión promedio de las ofertas seleccionables por el afiliado, recibidas a través del sistema de consultas.
 
 El capital necesario a que se refieren los dos incisos anteriores se calculará de la forma que señala el inciso segundo de este artículo.
 
@@ -2078,7 +2064,7 @@ El capital necesario a que se refieren los dos incisos anteriores se calculará 
 
 > **Nota.** NOTA 1: El artículo 1º Transitorio de la LEY 19934, publicada 21.02.2004, dispone que las modificaciones al presente artículo entrarán en vigencia ciento ochenta días después de su publicación.
 
-> **Nota.** NOTA 2: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que las modificaciones introducidas al presente artículo rigen a contar del primer día del séptimo mes siguiente al de su publicación.
+> **Nota.** NOTA 2: El artículo trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que las modificaciones introducidas al presente artículo rigen a contar del primer día del séptimo mes siguiente al de su publicación.
 
 ### Párrafo 4º — De las Pensiones de Invalidez
 
@@ -2508,7 +2494,7 @@ D.- El Servicio de Impuestos Internos calculará anualmente las cotizaciones que
 
 #### Artículo 92
 
-E.- Para los efectos del seguro de invalidez y sobrevivencia, el trabajador independiente que hubiese efectuado sus cotizaciones obligatorias conforme al artículo siguiente, por una renta imponible anual de un monto igual o superior al equivalente a siete ingresos mínimos mensuales, tendrá una cobertura anual de ese seguro desde el día 1 de mayo del año en que pagó las cotizaciones hasta el día 30 de abril del año siguiente a dicho pago. En el caso que dicha renta imponible sea de un monto inferior al antes indicado, el independiente que cotice según esta modalidad, estará cubierto por el mencionado seguro en el número de meses que resulte de multiplicar 12 por la razón entre el número de cotizaciones equivalentes a ingresos mínimos mensuales y siete, contados desde el 1 de mayo del año en que pagó las cotizaciones. En todo caso, sea cual fuere el monto de la cotización enterada, el trabajador siempre estará cubierto en el mes de mayo del año en que efectúe el pago. Mediante una norma de carácter general la Superintendencia de Pensiones regulará la forma de realizar el mencionado cálculo.
+E.- Para los efectos del seguro de invalidez y sobrevivencia, el trabajador independiente que hubiese efectuado sus cotizaciones obligatorias conforme al artículo siguiente tendrá una cobertura anual de ese seguro desde el día 1 de julio del año en que pagó las cotizaciones hasta el día 30 de junio del año siguiente a dicho pago. De igual manera, estarán cubiertos aquellos trabajadores independientes que realicen pagos de cotizaciones, de acuerdo a lo establecido en los incisos tercero y cuarto del artículo 90 y en el inciso cuarto del artículo 92, en el mes anterior al siniestro.
 
 #### Artículo 92
 

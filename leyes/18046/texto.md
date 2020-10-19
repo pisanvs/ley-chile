@@ -262,11 +262,11 @@ El plazo para suscribir y pagar las acciones por parte de los trabajadores dentr
 
 #### Artículo 25
 
-Las opciones para suscribir acciones de aumento de capital de la sociedad y de debentures convertibles en acciones de la sociedad emisora, o de cualquiera otros valores que confieran derechos futuros sobre estas acciones, deberán ser ofrecidas, a lo menos por una vez, preferentemente a los accionistas a prorrata de las acciones que posean. En la misma proporción serán distribuidas las acciones liberadas emitidas por la sociedad.
+Las opciones para suscribir acciones de aumento de capital de la sociedad, incluido el acordado para la emisión de debentures convertibles en acciones de la sociedad emisora, o de cualquiera otros valores que confieran derechos futuros sobre estas acciones, deberán ser ofrecidas, a lo menos por una vez, preferentemente a los accionistas a prorrata de las acciones que posean. En la misma proporción serán distribuidas las acciones liberadas emitidas por la sociedad.
 
 Este derecho es esencialmente renunciable y transferible.
 
-El derecho de preferencia de que trata este artículo deberá ejercerse o transferirse dentro del plazo de 30 días contado desde que se publique la opción en la forma y condiciones que determine el Reglamento.
+El derecho de preferencia de que trata este artículo deberá ejercerse o transferirse dentro del plazo de 30 días contado desde que se publique la opción en la forma y condiciones que determine el Reglamento. La renuncia se podrá efectuar en la misma junta de accionistas en que se acuerde el aumento de capital o emisión de debentures o valores convertibles en acciones, o en la forma y condiciones que determine el Reglamento.
 
 #### Artículo 26
 
@@ -728,11 +728,11 @@ Las juntas convocadas en virtud de la solicitud de accionistas o de la Comisión
 
 #### Artículo 59
 
-La citación a la junta de accionistas se efectuará por medio de un aviso destacado que se publicará, a lo menos, por tres veces en días distintos en el periódico del domicilio social que haya determinado la junta de accionistas o, a falta de acuerdo o en caso de suspensión o desaparición de la circulación del periódico designado, en el Diario Oficial, en el tiempo, forma y condiciones que señale el Reglamento.
+La citación a la junta de accionistas se efectuará por medio de un aviso destacado que se publicará, a lo menos, por tres veces en días distintos en el periódico del domicilio social que haya determinado la junta de accionistas o, a falta de acuerdo o en caso de suspensión o desaparición de la circulación del periódico designado, en el Diario Oficial, con una anticipación mínima de diez días a la fecha de la celebración de la junta, en la forma y condiciones que señale el Reglamento.
 
-En las sociedades anónimas abiertas, además, deberá enviarse una citación por correo a cada accionista con una anticipación mínima de quince días a la fecha de la celebración de la junta, la que deberá contener una referencia a las materias a ser tratadas en ella e indicación de la forma de obtener copias íntegras de los documentos que fundamentan las diversas opciones sometidas a su voto, los que deberán además ponerse a disposición de los accionistas en el sitio en Internet de las sociedades que dispongan de tales medios.
+En las sociedades anónimas abiertas, además, con la misma anticipación mínima y en la forma que establezca la Comisión por norma de carácter general, deberá difundirse el hecho que se realizará una junta de accionistas, con indicación de la fecha, una referencia a las materias a ser tratadas en ella e indicación de la forma de obtener copias íntegras de los documentos que fundamentan las diversas opciones sometidas a su voto, los que deberán, además, ponerse a disposición de los accionistas en el sitio web de las sociedades que dispongan de tales medios.
 
-La omisión de la obligación a que se refiere el inciso anterior no afectará la validez de la citación, pero los directores, liquidadores y gerente de la sociedad infractora responderán de los perjuicios que causaren a los accionistas, no obstante las sanciones administrativas que la Superintendencia pueda aplicarles.
+La omisión de la obligación a que se refiere el inciso anterior no afectará la validez de la citación, pero los directores, liquidadores y gerente de la sociedad infractora responderán de los perjuicios que causaren a los accionistas, no obstante las sanciones administrativas que la Comisión pueda aplicarles.
 
 #### Artículo 60
 
@@ -760,11 +760,11 @@ Siempre que la ley ordene a un accionista emitir su voto de viva voz, se entende
 
 #### Artículo 63
 
-Las sociedades anónimas abiertas deberán comunicar a la Superintendencia la celebración de toda junta de accionistas, con una anticipación no inferior a quince días.
+Las sociedades anónimas abiertas deberán comunicar a la Comisión para el Mercado Financiero la celebración de toda junta de accionistas, con una anticipación no inferior a diez días.
 
-La Superintendencia, en las sociedades anónimas abiertas, podrá suspender por resolución fundada la citación a junta de accionistas y la junta misma, cuando fuere contraria a la ley, a los reglamentos o a los estatutos.
+La Comisión, en las sociedades anónimas abiertas, podrá suspender por resolución fundada la citación a junta de accionistas y la junta misma, cuando fuere contraria a la ley, a los reglamentos o a los estatutos.
 
-La Superintendencia podrá hacerse representar en toda junta de una sociedad sometida a su control, con derecho a voz y en ella su representante resolverá administrativamente sobre cualquiera cuestión que se suscite, sea con relación a la calificación de poderes o a cualquiera otra que pueda afectar la legitimidad de la junta o la validez de sus acuerdos.
+La Comisión podrá hacerse representar en toda junta de una sociedad sometida a su control, con derecho a voz y en ella su representante resolverá administrativamente sobre cualquiera cuestión que se suscite, sea con relación a la calificación de poderes o a cualquiera otra que pueda afectar la legitimidad de la junta o la validez de sus acuerdos.
 
 #### Artículo 64
 

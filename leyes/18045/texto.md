@@ -10,9 +10,7 @@ Objetivos de la ley, fiscalización y definiciones
 
 #### Artículo 1°
 
-A las disposiciones de la presente ley queda sometida la oferta pública de valores y sus respectivos mercados e intermediarios, los que comprenden las bolsas de valores, los corredores de bolsa y los agentes de valores; los emisores e instrumentos de oferta pública y los mercados secundarios de dichos valores dentro y fuera de las bolsas, aplicándose este cuerpo legal a todas aquellas transacciones de valores que tengan su origen en ofertas públicas de los mismos o que se efectúen con intermediación por parte de corredores o agentes de valores.
-
-Asimismo, esta ley norma el mercado de las acciones de las sociedades anónimas y sociedades en comandita en las que a lo menos, el 10% de su capital suscrito pertenece a un mínimo de 100 accionistas, excluidos los que individualmente o a través de otras personas naturales o jurídicas, excedan dicho porcentaje, o que tienen 500 accionistas o más.
+A las disposiciones de la presente ley queda sometida la oferta pública de valores y sus respectivos mercados e intermediarios, los que comprenden las bolsas de valores, los corredores de bolsa y los agentes de valores; las sociedades anónimas abiertas; los emisores e instrumentos de oferta pública y los mercados secundarios de dichos valores dentro y fuera de las bolsas, aplicándose este cuerpo legal a todas aquellas transacciones de valores que tengan su origen en ofertas públicas de los mismos o que se efectúen con intermediación por parte de corredores o agentes de valores.
 
 Las transacciones de valores que no sean de aquellas a que se refiere el inciso primero del presente artículo, tendrán el carácter de privadas y quedarán excluidas de las disposiciones de esta ley, excepto en los casos en que ésta se remita expresamente a ellas.
 
@@ -26,17 +24,13 @@ Para los efectos de esta ley, se entenderá por valores cualesquiera títulos tr
 
 Las disposiciones de la presente ley no se aplican a los valores emitidos o garantizados por el Estado, por las instituciones públicas centralizadas o descentralizadas y por el Banco Central de Chile.
 
-La Superintendencia podrá eximir de algunas de las obligaciones establecidas en esta ley, a las entidades cuyas finalidades se relacionen exclusivamente con actividades deportivas o de beneficencia y sólo mientras mantenga esta especial característica.
-
-Asimismo, la Superintendencia, mediante resolución fundada, podrá eximir aquellas entidades cuyas finalidades se relacionen exclusivamente con actividades educacionales, de la obligación de información o de los sistemas de control contables establecidos o que puedan establecerse en virtud de esta ley.
-
 #### Artículo 4°
 
 Se entiende por oferta pública de valores la dirigida al público en general o a ciertos sectores o a grupos específicos de éste.
 
-La Superintendencia podrá, en caso de duda, determinar mediante resolución de carácter general si ciertos tipos de oferta de valores constituyen ofertas públicas.
+La Comisión, mediante norma de carácter general, podrá establecer que determinados tipos de ofertas de valores no constituyen ofertas públicas, en consideración al número y tipo de inversionistas a los cuales se dirigen, los medios a través de los cuales se comunican o materializan y el monto de los valores ofrecidos.
 
-Asimismo, la Superintendencia podrá eximir ciertas ofertas públicas del cumplimiento de alguno de los requisitos de la presente ley, mediante resoluciones de carácter general.
+Asimismo, la Comisión podrá eximir ciertas ofertas públicas del cumplimiento de alguno de los requisitos de la presente ley, mediante normas de carácter general.
 
 Los emisores que estén en liquidación no podrán hacer oferta pública de valores excepto si se tratare de sus propias acciones.
 
@@ -48,7 +42,7 @@ a) Mercado secundario formal: aquél en que los compradores y vendedores están 
 
 b) Instrumentos únicos: aquellos emitidos individualmente y que por su naturaleza no son susceptibles de conformar una serie;
 
-c) Instrumentos seriados: el conjunto de instrumentos que guardan relación entre sí por corresponder a una misma emisión y que poseen idénticas características en cuanto a su fecha de vencimiento, tasa de interés, tipo de amortización, condiciones de rescate, garantías y tipo de reajuste, y
+c) Instrumentos seriados: el conjunto de instrumentos que guardan relación entre sí por corresponder a una misma emisión y que poseen idénticas características en cuanto a su fecha de vencimiento, tasa de interés, tipo de amortización, condiciones de rescate, garantías, preferencias y tipo de reajuste, y
 
 d) Accionista minoritario: toda persona que por sí sola o en conjunto con otras con las que tenga acuerdo de actuación conjunta, posea menos del 10% de las acciones con derecho a voto de una sociedad, siempre que dicho porcentaje no le permita designar un director.
 
@@ -58,6 +52,16 @@ a) que el giro principal de las entidades sea la realización de inversiones fin
 
 b) que el volumen de transacciones, naturaleza de sus activos u otras características, permita calificar de relevante su participación en el mercado.
 
+f) Inversionistas calificados: a los inversionistas institucionales e intermediarios de valores en operaciones de cuenta propia, como también aquellas personas naturales o jurídicas que realicen habitualmente operaciones con valores por montos significativos o bien que por su profesión, actividad o patrimonio quepa presumir que poseen un conocimiento acabado del funcionamiento del mercado de valores. La Superintendencia, mediante norma de carácter general, fijará las condiciones y parámetros que determinen que estas personas califican como inversionistas de esta clase.
+
+g) Valores de presencia bursátil: aquellos que cumplan con los requisitos establecidos para tales efectos por la Superintendencia a través de una norma de carácter general, los que deberán responder a condiciones que, de acuerdo a la Superintendencia, sean indicativas de la liquidez de los valores o de la profundidad de los mercados en que se negocien los valores en cuestión, a efectos de propiciar una correcta formación de precios.
+
+Dichos requisitos deberán tener en consideración elementos tales como el volumen, periodicidad, número de cedentes, adquirentes u oferentes, cuantía u otras circunstancias semejantes relativas a las transacciones o cotizaciones de los valores. Con todo, dichos valores deberán tener una presencia ajustada igual o superior a veinticinco por ciento. Para estos efectos, se determinará la presencia ajustada de la siguiente forma: (a) dentro de los últimos ciento ochenta días hábiles bursátiles, se determinará el número de días en que las transacciones bursátiles totales diarias hayan alcanzado un monto mínimo definido por la Superintendencia a través de norma de carácter general, el cual no podrá ser inferior al equivalente en pesos a mil unidades de fomento; (b) dicho número será dividido por ciento ochenta, y el cuociente así resultante se multiplicará por cien, quedando expresado en porcentaje.
+
+Asimismo, tales requisitos podrán establecer la condición de presencia bursátil en virtud de contratos que aseguren la existencia diaria de ofertas de compra y venta de los valores, por la cuantía, tiempo y condiciones que defina la Superintendencia.
+
+Las referencias que se hagan a acciones, títulos o, en general, valores de transacción, cotización o presencia bursátil, contenidas en leyes, decretos, reglamentos, resoluciones, estatutos o cualquier otro cuerpo normativo, se entenderán hechas a aquellos que posean la condición de presencia bursátil en virtud de lo dispuesto en este artículo. Asimismo, las referencias que se hagan en las leyes o en otros cuerpos legales a la normativa mediante la cual la Superintendencia de Valores y Seguros determinará qué valores son de transacción o presencia bursátil, se entenderán hechas a la norma de carácter general que emita aquélla en uso de las facultades conferidas en este artículo.
+
 > **Nota.** El artículo DECIMO de la LEY 18660, publicada el 20.10.1987, dispone que las modificaciones que ella introduce a la presente norma, entrarán en vigencia el primer día del segundo mes siguiente al de su publicación.
 
 ## Título II
@@ -66,29 +70,31 @@ Del Registro de Valores y de la información
 
 #### Artículo 5°
 
-La Superintendencia llevará un Registro de Valores el cual estará a disposición del público.
+La Comisión llevará un Registro de Valores el cual estará a disposición del público.
 
-En el Registro de Valores se inscribirán:
+En el Registro de Valores se deberán inscribir:
 
 a) Los emisores de valores de oferta pública;
 
 b) Los valores que sean objeto de oferta pública;
 
-c) Las acciones de las sociedades a que se refiere el inciso segundo del artículo 1°, y
+c) Las acciones de las sociedades anónimas que tengan 500 o más accionistas o, a lo menos, el 10% de su capital suscrito pertenezca a un mínimo de 100 accionistas, excluidos los que individualmente o a través de otras personas naturales o jurídicas, excedan dicho porcentaje, y
 
-d) Las acciones emitidas por sociedades que voluntariamente así lo soliciten.
+d) Las acciones emitidas por sociedades anónimas que voluntariamente así lo soliciten o que por obligación legal deban registrarlas.
+
+La solicitud de inscripción de un emisor en el registro de valores deberá estar necesariamente acompañada de una solicitud de inscripción de los valores que dicho emisor ofrecerá públicamente. Sin embargo, no estarán obligados a ofrecer los valores inscritos sino hasta después que transcurra un año desde su registro.
 
 #### Artículo 6°
 
 Sólo podrá hacerse oferta pública de valores cuando éstos y su emisor, hayan sido inscritos en el Registro de Valores.
 
-La inscripción de los valores y sociedades a que se refiere el inciso segundo del artículo 1°, deberá efectuarse dentro de los sesenta días siguientes a la fecha en que se haya cumplido alguno de los requisitos allí mencionados.
+La inscripción de las acciones a que se refiere la letra c) del artículo 5°, deberá efectuarse dentro de los sesenta días siguientes a la fecha en que se haya cumplido alguno de los requisitos allí mencionados.
 
 #### Artículo 7°
 
-Cualquier sociedad anónima podrá inscribir voluntariamente sus acciones en el Registro. La inscripción voluntaria somete a la sociedad inscrita a todas las disposiciones de esta ley y sus normas complementarias.
+Las personas que por disposición legal deban quedar sometidas a la fiscalización, al control o a la vigilancia de la Comisión y no sean de aquellas a que se refiere el inciso primero del artículo 1º, no estarán obligadas a inscribirse en el Registro de Valores. Sin embargo, las personas antes indicadas deberán cumplir con las obligaciones de información que les impongan las leyes.
 
-La primera oferta pública de acciones de una sociedad anónima que voluntariamente se haya inscrito en el Registro de Valores, deberá colocar en el público, al menos, un 10% del total de las acciones emitidas.
+La Comisión establecerá, por norma de carácter general, la información que las entidades indicadas en el inciso anterior, que no sean emisoras de valores, deberán proporcionar a la Comisión y al público en general. Dicha información no podrá exceder la que se exige a los emisores de valores, tanto en contenido como en periodicidad, forma y publicidad, sin perjuicio de las facultades de la Comisión para efectuar requerimientos adicionales que se expliquen por la necesidad de supervisar específicamente el tipo de actividad de la entidad o la industria que ella integra. Para ello, la Comisión podrá determinar que las entidades informantes se inscriban en registros especiales fijando, por norma de carácter general, los requisitos para ello.
 
 #### Artículo 8°
 
@@ -110,6 +116,14 @@ Sin perjuicio de lo señalado en los incisos anteriores, tratándose de títulos
 
 > **Nota.** El Art. 1° transitorio de la LEY 19768, publicada el 07.11.2001, dispuso que la presente modificación entrará en vigencia el primer día del mes siguiente a aquel en el cual se cumplan noventa días desde su publicación.
 
+#### Artículo 8° ter
+
+Los títulos de deuda que emitan emisores ya inscritos en el Registro de Valores y que cumplan con las características o condiciones que establezca la Comisión para el Mercado Financiero mediante norma de carácter general, ya sea respecto del emisor, la emisión, la colocación o del inversionista al que se dirige la oferta, entre otras, podrán acogerse a la modalidad de registro automático establecido en este artículo.
+
+Para tal efecto, el emisor deberá acompañar a su solicitud de inscripción automática, la o las clasificaciones de riesgo a que se refiere el artículo 8° bis de esta ley, el ejemplar de la escritura pública exigido por los artículos 104 o 137 de la misma, según el tipo de título del cual se trate, y el resto de la documentación que la Comisión para el Mercado Financiero establezca, mediante norma de carácter general, respecto de los títulos de deuda o línea de títulos de deuda y, en su caso, de las modificaciones respectivas.
+
+A partir del día hábil siguiente de efectuado el pago de derechos por la solicitud de inscripción, quedarán inscritos en el Registro de Valores por el solo ministerio de la ley, los títulos de deuda de emisores inscritos cuya petición y pago de los derechos correspondientes sea efectuada a través del sistema o procedimiento de inscripción automática que la Comisión para el Mercado Financiero establezca para tal efecto.
+
 #### Artículo 9°
 
 La inscripción en el Registro de Valores obliga al emisor a divulgar en forma veraz, suficiente y oportuna toda información esencial respecto de sí mismo, de los valores ofrecidos y de la oferta.
@@ -122,31 +136,33 @@ De la información continua y reservada
 
 #### Artículo 10
 
-Las entidades inscritas en el Registro de Valores quedarán sujetas a esta ley y a sus normas complementarias y deberán proporcionar a la Superintendencia y al público en general la misma información a que están obligadas las sociedades anónimas abiertas y con la periodicidad, publicidad y en la forma que se exige a éstas.
+Las entidades inscritas en el Registro de Valores quedarán sujetas a esta ley y a sus normas complementarias y deberán proporcionar la información que establece la ley a la Superintendencia y al público en general con la periodicidad, publicidad y en la forma que la Superintendencia determine por norma de carácter general.
 
-Asimismo, y sin perjuicio de lo dispuesto en el inciso anterior, las entidades comprendidas en él deberán divulgar en forma veraz, suficiente y oportuna, todo hecho o información esencial respecto de ellas mismas y de sus negocios al momento que él ocurra o llegue a su conocimiento.
+Asimismo, y sin perjuicio de lo dispuesto en el inciso anterior, las entidades comprendidas en él deberán divulgar en forma veraz, suficiente y oportuna, todo hecho o información esencial respecto de ellas mismas y de sus negocios al momento que él ocurra o llegue a su conocimiento. Será responsabilidad del directorio de cada entidad adoptar una norma interna que contemple los procedimientos, mecanismos de control y responsabilidades que aseguren dicha divulgación. La norma respectiva, deberá ajustarse a la norma de carácter general que dicte la Superintendencia.
 
 No obstante lo dispuesto en el inciso anterior, con la aprobación de las tres cuartas partes de los directores en ejercicio podrá darse el carácter de reservado a ciertos hechos o antecedentes que se refieran a negociaciones aún pendientes que al conocerse puedan perjudicar el interés social. Tratándose de emisores no administrados por un directorio u otro órgano colegiado, la decisión de reserva debe ser tomada por todos los administradores.
 
-Las decisiones y acuerdos a que se refiere el inciso anterior deberán ser comunicados a la Superintendencia al día siguiente hábil a su adopción.
+Las decisiones y acuerdos a que se refiere el inciso anterior deberán ser comunicados a la Superintendencia al día siguiente a su adopción por los medios tecnológicos que habilite la Superintendencia.
 
 Los que dolosa o culpablemente califiquen o concurran con su voto favorable a declarar como reservado un hecho o antecedente, de aquellos a que se refiere el inciso tercero de este artículo, responderán en la forma y términos establecidos en el artículo 55 de esta ley.
 
 #### Artículo 11
 
-Las citaciones a juntas de accionistas o a asambleas de socios que se efectúen por entidades distintas a las sociedades anónimas, pero sujetas a la fiscalización de la Superintendencia de conformidad a la presente ley, deberán a lo menos ser enviadas por correo a cada asociado, con una anticipación mínima de 15 días a la fecha en que se celebrará la reunión respectiva y deberán contener una referencia a las materias a ser tratadas en ella.
+Las citaciones a juntas de accionistas o a asambleas de socios que se efectúen por emisores de valores de oferta pública distintos de las sociedades anónimas, deberán a lo menos ser enviadas por correo a cada asociado, con una anticipación mínima de 10 días a la fecha en que se celebrará la reunión respectiva y deberán contener una referencia a las materias a ser tratadas en ella.
 
-El no envío de la referida comunicación no producirá la nulidad de la citación, pero la sociedad infractora quedará sujeta a las sanciones que la Superintendencia pueda aplicar y responderá de los perjuicios que le hubiere causado a sus asociados.
+El no envío de la referida comunicación no producirá la nulidad de la citación, pero la sociedad infractora quedará sujeta a las sanciones que la Comisión pueda aplicar y responderá de los perjuicios que le hubiere causado a sus asociados.
 
 #### Artículo 12
 
-Las personas que directamente, o a través de otras personas naturales o jurídicas posean el 10% o más del capital suscrito de una sociedad cuyas acciones se encuentren inscritas en el Registro de Valores, o que a causa de una adquisición de acciones lleguen a tener dicho porcentaje, y los directores, liquidadores, ejecutivos principales, gerente general y gerentes, en su caso, de dichas sociedades cualesquiera sea el número de acciones que posean, deberán informar a la Superintendencia y a cada una de las bolsas de valores del país en que la sociedad tenga valores registrados para su cotización, de toda adquisición, directa o indirecta o enajenación de acciones que efectúen de esa sociedad, dentro de los dos días hábiles bursátiles siguientes al de la transacción o transacciones respectivas.
+Las personas que directamente o a través de otras personas naturales o jurídicas, posean el 10% o más del capital suscrito de una sociedad anónima abierta, o que a causa de una adquisición de acciones lleguen a tener dicho porcentaje, como asimismo los directores, liquidadores, ejecutivos principales, administradores y gerentes de dichas sociedades, cualesquiera sea el número de acciones que posean, directamente o a través de otras personas naturales o jurídicas, deberán informar a la Comisión y a cada una de las bolsas de valores del país en que la sociedad tenga valores registrados para su cotización, de toda adquisición o enajenación que efectúen de acciones de esa sociedad. Igual obligación regirá respecto de toda adquisición o enajenación que efectúen de contratos o valores cuyo precio o resultado dependa o esté condicionado, en todo o en parte significativa, a la variación o evolución del precio de dichas acciones. La comunicación deberá enviarse a más tardar al día siguiente que se ha materializado la operación, por los medios tecnológicos que indique la Comisión mediante norma de carácter general.
 
 Adicionalmente, los accionistas mayoritarios deberán informar en la comunicación que ordena este artículo, si las adquisiciones que han realizado obedecen a la intención de adquirir el control de la sociedad o, en su caso, si dicha adquisición sólo tiene el carácter de inversión financiera.
 
+La Comisión determinará, mediante norma de carácter general, los medios a través de los cuales se deberá enviar la información que establece este artículo.
+
 #### Artículo 13
 
-La Superintendencia determinará, mediante norma de carácter general, los medios alternativos a través de los cuales las sociedades fiscalizadas podrán enviar o poner a disposición de sus accionistas y demás inversionistas, los documentos, información y comunicaciones que establece esta ley.
+La Comisión determinará, mediante norma de carácter general, los medios alternativos a través de los cuales los emisores podrán enviar o poner a disposición de sus accionistas y demás inversionistas, los documentos, información y comunicaciones que establece esta ley.
 
 #### Artículo 14
 
@@ -156,13 +172,13 @@ La Superintendencia, mediante resolución fundada, podrá suspender hasta por 30
 
 la cancelación de la inscripción de un valor en el Registro de Valores procederá en los casos siguientes:
 
-a) En el caso de acciones cuando el emisor así lo solicite porque durante el curso de los 6 meses precedentes la sociedad no ha reunido los requisitos establecidos en el inciso segundo del artículo 1 de la presente ley;
+a) En el caso de acciones cuando el emisor no ha reunido los requisitos establecidos en la letra c) del inciso segundo del artículo 5° de la presente ley durante el curso de los 6 meses precedentes;
 
-b) Cuando un emisor inscrito voluntariamente lo solicite, siempre que no cumpla con alguna de las condiciones que hacen obligatoria la inscripción;
+b) Cuando los valores hubiesen sido inscritos voluntariamente y así lo solicite su emisor, salvo que corresponda a algún caso de inscripción obligatoria;
 
-c) Cuando la Superintendencia lo resuelva de acuerdo a lo establecido en el artículo 14;
+c) Cuando la Comisión lo resuelva de acuerdo a lo establecido en el artículo 14;
 
-d) Cuando la Superintendencia, en caso grave y por resolución fundada así lo determine, en razón de que:
+d) Cuando la Comisión en caso grave y por resolución fundada así lo determine, en razón de que:
 
 1. Se hubiere obtenido la inscripción por medio de informaciones o antecedentes falsos;
 
@@ -172,31 +188,45 @@ d) Cuando la Superintendencia, en caso grave y por resolución fundada así lo d
 
 4. El valor no cumpla con los requisitos que hicieron necesaria su inscripción.
 
-e) Los derechos conferidos por el valor inscrito se hayan extinguido totalmente. Las resoluciones que la Superintendencia dicte de conformidad a la letra c) del presente artículo también serán reclamables ante la Corte de Apelaciones de Santiago, de acuerdo al procedimiento establecido en el Título V del decreto ley N° 3.538, de 1980.
+e) Los derechos conferidos por el valor inscrito se hayan extinguido totalmente. Las resoluciones que la Comisión dicte de conformidad a la letra c) del presente artículo también serán reclamables ante la Corte de Apelaciones de Santiago, de acuerdo al procedimiento establecido en el Título V del decreto ley N° 3.538, de 1980.
 
 ## Título IV
 
-De la emisión de títulos de deuda a largo plazo
+DE LAS TRANSACCIONES SOBRE VALORES DE OFERTA PÚBLICA
 
 #### Artículo 16
 
-DEROGADO
+Los emisores de valores de oferta pública, deberán adoptar una política que establezca normas, procedimientos, mecanismos de control y responsabilidades, conforme a las cuales los directores, gerentes, administradores y ejecutivos principales, así como las entidades controladas directamente por ellos o a través de terceros, podrán adquirir o enajenar valores de la sociedad o valores cuyo precio o resultado dependa o esté condicionado, en todo o en parte significativa, a la variación o evolución del precio de dichos valores.
+
+Dicha política podrá imponer, entre otras, las siguientes limitaciones a las personas indicadas en el inciso anterior:
+
+a) Una prohibición total y permanente de efectuar cualquiera de las operaciones indicadas en el inciso anterior.
+
+b) Una prohibición transitoria, por períodos definidos por el directorio en atención a las actividades, eventos o procesos de la entidad, durante el cual deberán abstenerse de realizar cualquiera de las operaciones indicadas en el inciso anterior.
+
+c) Una prohibición permanente de adquirir y enajenar, o de enajenar y posteriormente adquirir, los valores indicados en el inciso anterior, si entre tales operaciones no hubiere transcurrido a lo menos un plazo determinado de días hábiles bursátiles.
+
+En los casos indicados en las letras anteriores, así como en los demás que pueda adoptar la política interna de cada entidad, se podrá establecer que la violación de la prohibición genere para el infractor, además de los efectos laborales que correspondan, la obligación de pagar, a la entidad respectiva, una multa equivalente a: i) un porcentaje de la operación o ii) el monto total de la ganancia obtenida o la pérdida evitada. La aplicación de esta multa no obstará a la aplicación de las sanciones legales que sean procedentes cuando además se haya infringido la ley.
+
+Las normas adoptadas por el directorio o administrador en conformidad a este artículo, y sus correspondientes modificaciones, deberán ser puestas en conocimiento del público, mediante un aviso insertado en un diario de circulación nacional o bien en su sitio en Internet, cuando cuenten con este medio.
 
 #### Artículo 17
 
-DEROGADO
+Los directores, gerentes, administradores y ejecutivos principales, así como las entidades controladas directamente por ellos o a través de otras personas, deberán informar a cada una de las bolsas de valores del país en que el emisor se encuentre registrado, su posición en valores de éste y de las entidades del grupo empresarial de que forme parte. Esta información deberá proporcionarse dentro de tercer día hábil cuando las personas asuman su cargo o sean incorporadas al registro público indicado en el artículo 68, cuando abandonen el cargo o sean retiradas de dicho registro, así como cada vez que dicha posición se modifique en forma significativa.
 
 #### Artículo 18
 
-DEROGADO
+Las personas indicadas en el artículo 16 deberán, además, informar mensualmente y en forma reservada, al directorio o administrador del emisor, su posición en valores de los proveedores, clientes y competidores más relevantes de la entidad, incluyendo aquellos valores que posean a través de entidades controladas directamente o a través de terceros. El directorio o administrador del emisor determinará quiénes estarán comprendidos en las mencionadas calidades, debiendo al efecto formar una nómina reservada que mantendrá debidamente actualizada.
 
 #### Artículo 19
 
-DEROGADO
+La Superintendencia, mediante norma de carácter general, definirá casos que puedan eximirse de la aplicación de las restricciones indicadas en el artículo 16.
+
+Asimismo, la Superintendencia determinará, mediante norma de carácter general, los criterios mínimos y las excepciones que se deberán considerar en la preparación y presentación de la información contemplada en el artículo 17, como asimismo la oportunidad y forma en que ella se le deberá remitir.
 
 #### Artículo 20
 
-DEROGADO
+Las sociedades anónimas abiertas informarán a la Comisión y a las bolsas de valores en que se transen sus acciones, las adquisiciones y enajenaciones de sus acciones que efectúen sus personas relacionadas, en la forma y con la periodicidad que determine la Comisión mediante norma de carácter general.
 
 #### Artículo 21
 
@@ -214,7 +244,7 @@ Del Mercado Secundario
 
 El mercado secundario de valores estará organizado como sigue:
 
-a) Todas las acciones que de conformidad a esta ley deban inscribirse en el Registro de Valores deben también registrarse en una bolsa de valores, la que no podrá rechazar dicha inscripción.
+a) Todas las acciones que de conformidad a esta ley deban inscribirse en el Registro de Valores deben también registrarse en una bolsa de valores, la que no podrá rechazar dicha inscripción, en la medida que se ajusten a las normas dictadas en conformidad con el artículo 44 letra e). El registro de las acciones en una bolsa de valores deberá solicitarse dentro de los once meses siguientes a la fecha de la inscripción de dichas acciones en el Registro de Valores.
 
 b) Las acciones de sociedades no inscritas en el Registro de Valores no podrán ser cotizadas ni transadas diariamente en bolsa. Asimismo, los agentes de valores no podrán participar en la intermediación de estos valores y los corredores de bolsa sólo podrán hacerlo en pública subasta en la forma dispuesta en esta letra.
 
@@ -226,11 +256,11 @@ c) Las acciones inscritas en el Registro de Valores sólo podrán ser intermedia
 
 Los bancos y sociedades financieras que de acuerdo con sus facultades reciban órdenes de sus clientes para comprar o vender este tipo de acciones deberán ejecutar dichas órdenes a través de un corredor de bolsa.
 
-Sin perjuicio de lo dispuesto en los incisos anteriores, los corredores de bolsa y los agentes de valores que participen en una oferta pública de acciones de una nueva emisión podrán, por un período de 180 días a contar de la fecha del Registro en la Superintendencia de dicha emisión, efectuar fuera de bolsa las transacciones necesarias para llevar adelante la oferta.
+Sin perjuicio de lo dispuesto en los incisos anteriores, los corredores de bolsa y los agentes de valores que participen en una oferta pública de acciones de una nueva emisión podrán, por un período de 180 días a contar de la fecha del Registro en la Comisión de dicha emisión, efectuar fuera de bolsa las transacciones necesarias para llevar adelante la oferta.
 
-Previo registro en la Superintendencia, podrá utilizarse el sistema establecido en el inciso anterior y por igual lapso, para la colocación mediante oferta pública de una cantidad de acciones igual o superior al 10% del capital suscrito de una sociedad anónima abierta, sea que aquellas pertenezcan a una o varias personas. La Superintendencia, mediante norma de carácter general, establecerá la información mínima a presentar para el registro referido.
+Previo registro en la Comisión, podrá utilizarse el sistema establecido en el inciso anterior y por igual lapso, para la colocación mediante oferta pública de una cantidad de acciones igual o superior al 10% del capital suscrito de una sociedad anónima abierta, sea que aquellas pertenezcan a una o varias personas. La Comisión, mediante norma de carácter general, establecerá la información mínima a presentar para el registro referido.
 
-d) Otros valores distintos de las acciones, que estén inscritos en el Registro, podrán ser intermediados por cualquier corredor de bolsa o agente de valores registrado en la Superintendencia, o por los bancos y sociedades financieras, de acuerdo a sus facultades legales. Las transacciones; de estos valores podrán efectuarse dentro de las bolsas, por corredores de bolsa, sólo cuando hayan sido aceptados a cotización por la bolsa respectiva.
+d) Otros valores distintos de las acciones, que estén inscritos en el Registro, podrán ser intermediados por cualquier corredor de bolsa o agente de valores registrado en la Comisión, o por los bancos y sociedades financieras, de acuerdo a sus facultades legales. Las transacciones; de estos valores podrán efectuarse dentro de las bolsas, por corredores de bolsa, sólo cuando hayan sido aceptados a cotización por la bolsa respectiva.
 
 e) La intermediación de valores a que se refiere el inciso segundo del artículo 3° de la presente ley y los emitidos por bancos e instituciones financieras se sujetará a las normas establecidas en las letras precedentes.
 
@@ -256,11 +286,11 @@ Sin embargo, quedarán sujetos a todas las otras disposiciones de la presente le
 
 #### Artículo 26
 
-Para ser inscritos en el Registro de Corredores de Bolsa y Agentes de Valores los interesados deberán acreditar, a satisfacción de la Superintendencia, lo siguiente:
+Para ser inscritos en el Registro de Corredores de Bolsa y Agentes de Valores los interesados deberán acreditar, a satisfacción de la Comisión, lo siguiente:
 
 a) ser mayor de edad;
 
-b) haber aprobado el cuarto año medio o estudios equivalentes y acreditar los conocimientos suficientes de la intermediación de valores. En caso de agentes de valores, dicha acreditación se efectuará en la forma y periodicidad que establezca la Superintendencia mediante norma de carácter general. En caso de corredores de bolsa, la acreditación se efectuará ante la bolsa respectiva, cumpliendo con las exigencias que establezca la Superintendencia mediante norma de carácter general. Dichas normas deberán considerar la experiencia en la intermediación de valores como un antecedente relevante al momento de evaluar la suficiencia de los conocimientos a que se refiere esta letra;
+b) haber aprobado el cuarto año medio o estudios equivalentes y acreditar los conocimientos suficientes de la intermediación de valores. En caso de agentes de valores, dicha acreditación se efectuará en la forma y periodicidad que establezca la Comisión mediante norma de carácter general. En caso de corredores de bolsa, la acreditación se efectuará ante la bolsa respectiva, cumpliendo con las exigencias que establezca la Comisión mediante norma de carácter general. Dichas normas deberán considerar la experiencia en la intermediación de valores como un antecedente relevante al momento de evaluar la suficiencia de los conocimientos a que se refiere esta letra;
 
 c) poseer una oficina instalada para desarrollar las actividades de intermediario de valores;
 
@@ -272,11 +302,11 @@ f) no haber sido cancelada su inscripción en el Registro de Corredores de Bolsa
 
 g) No haber sido condenado ni encontrarse bajo acusación formulada en su contra por delitos establecidos por la presente ley, que atenten en contra del patrimonio o de la fe pública, o que tengan asignados una pena aflictiva;
 
-h) no haber sido declarado en quiebra, e
+h) no tener la calidad de deudor en un procedimiento concursal de liquidación, e
 
-i) cualquier otro requisito que la Superintendencia determine por medio de normas de carácter general.
+i) cualquier otro requisito que la Comisión determine por medio de normas de carácter general.
 
-La Superintendencia, por medio de normas de carácter general, establecerá los medios y la forma en que los interesados deberán acreditar las circunstancias enumeradas en el presente artículo y los antecedentes que con tal fin deberán acompañar a sus solicitudes de inscripción.
+La Comisión, por medio de normas de carácter general, establecerá los medios y la forma en que los interesados deberán acreditar las circunstancias enumeradas en el presente artículo y los antecedentes que con tal fin deberán acompañar a sus solicitudes de inscripción.
 
 #### Artículo 27
 
@@ -344,9 +374,9 @@ e) Proporcionar los demás antecedentes que a juicio de la Superintendencia sean
 
 #### Artículo 33
 
-Las transacciones de valores en que participen corredores de bolsa o agentes de valores, deberán ajustarse a las normas y procedimientos establecidos en la ley, a los que determine la Superintendencia por instrucciones de general aplicación, y en su caso, conforme a lo dispuesto en los estatutos y reglamentos internos de las bolsas de valores o de las asociaciones de agentes de valores de que sean miembros.
+Las transacciones de valores en que participen corredores de bolsa o agentes de valores, deberán ajustarse a las normas y procedimientos establecidos en la ley, a los que determine la Superintendencia por instrucciones de general aplicación, y en su caso, conforme a lo dispuesto en los estatutos y reglamentos internos de las bolsas de valores o de las asociaciones de agentes de valores de que sean miembros. Sin perjuicio de ello, los corredores de bolsa y agentes de valores deberán, además, definir, hacer pública y mantener debidamente actualizadas, normas que rijan los procedimientos, mecanismos de control y responsabilidades que les serán aplicables en el manejo de la información que obtuvieren de las decisiones de adquisición, enajenación y aceptación o rechazo de ofertas específicas de sus clientes, así como de cualquier estudio, análisis u otro antecedente que pueda incidir en la oferta o demanda de valores en cuya transacción participen. Estas normas y sus modificaciones deberán ajustarse a los requisitos mínimos que fije la Superintendencia mediante norma de carácter general
 
-Toda orden para efectuar una operación de bolsa se entenderá respecto del comitente, efectuada sobre la base de que éste queda sujeto a los reglamentos de la bolsa respectiva aprobados por la Superintendencia.
+Toda orden para efectuar una operación de bolsa se entenderá respecto del comitente, efectuada sobre la base de que éste queda sujeto a su política interna y a los reglamentos de la bolsa respectiva, aprobados por la Superintendencia.
 
 Los corredores de bolsa y los agentes de valores que actúen en la compraventa de valores, quedan personalmente obligados a pagar el precio de la compra o a hacer la entrega de los valores vendidos y en caso alguno se les admitirá la excepción de falta de provisión. Estos intermediarios no pueden compensar las sumas que recibieren para comprar valores, ni el precio que se les entregare de los vendidos por él, con las cantidades que les deba su cliente, comprador o vendedor.
 
@@ -538,7 +568,7 @@ c) No haber sido sancionado por la Superintendencia con la medida de suspensión
 
 d) No haber sido condenado por los delitos establecidos en la presente ley, por delito económico a que se refiere el decreto ley N° 280, de 1974 y, en general, por delitos que merezcan pena aflictiva, y
 
-e) No haber sido declarado en quiebra o no haber celebrado convenios judiciales o extrajudiciales con sus acreedores.
+e) No tener la calidad de deudor en un procedimiento concursal de liquidación o de reorganización.
 
 En caso de duda respecto del cumplimiento de cualquiera de los requisitos o exigencias a que se refiere este artículo, resolverá la Superintendencia administrativamente y sin ulterior recurso.
 
@@ -596,9 +626,9 @@ De la información en la obtención de control
 
 #### Artículo 54
 
-Toda persona que, directa o indirectamente, pretenda tomar el control de una sociedad anónima que haga oferta pública de sus acciones, cualquiera sea la forma de adquisición de las acciones, comprendiéndose incluso la que pudiese realizarse por suscripciones directas o transacciones privadas, deberá previamente informar tal hecho al público en general.
+Toda persona que, directa o indirectamente, pretenda tomar el control de una sociedad anónima abierta, cualquiera sea la forma de adquisición de las acciones, comprendiéndose incluso la que pudiese realizarse por suscripciones directas o transacciones privadas, deberá previamente informar tal hecho al público en general.
 
-Para los fines señalados en el inciso anterior, se enviará una comunicación escrita en tal sentido a la sociedad anónima que se pretende controlar, a las sociedades que sean controladoras y controladas por la sociedad cuyo control se pretende obtener, a la Superintendencia y a las bolsas en donde transen sus valores. Con igual objeto, se publicará un aviso destacado en 2 diarios de circulación nacional. La comunicación y la publicación antes mencionadas deberán efectuarse, a lo menos, con diez días hábiles de anticipación a la fecha en que se pretenda perfeccionar los actos que permitan obtener el control de la sociedad anónima respectiva y, en todo caso, tan pronto se hayan iniciado negociaciones tendientes a lograr su control, mediante la entrega de información y documentación de esa sociedad.
+Para los fines señalados en el inciso anterior, se enviará una comunicación escrita en tal sentido a la sociedad anónima que se pretende controlar, a las sociedades que sean controladoras y controladas por la sociedad cuyo control se pretende obtener, a la Superintendencia y a las bolsas en donde transen sus valores. Con igual objeto, se publicará un aviso destacado en 2 diarios de circulación nacional y en el sitio en Internet de las entidades que pretendan obtener el control, de disponer de tales medios. La comunicación y la publicación antes mencionadas deberán efectuarse, a lo menos, con diez días hábiles de anticipación a la fecha en que se pretenda perfeccionar los actos que permitan obtener el control de la sociedad anónima respectiva y, en todo caso, tan pronto se hayan formalizado negociaciones tendientes a lograr su control o tan pronto se haya entregado información o documentación reservada de esa sociedad
 
 El contenido de la comunicación y de la publicación señaladas en el inciso anterior será determinado por la Superintendencia, mediante instrucciones de general aplicación y contendrá al menos, el precio y demás condiciones esenciales de la negociación a efectuarse.
 
@@ -606,7 +636,7 @@ La infracción de este artículo no invalidará la operación, pero otorgará a 
 
 #### Artículo 54
 
-A.- Dentro de los dos días hábiles siguientes a la fecha en que se perfeccionen los actos o contratos mediante los cuales se obtenga el control de una sociedad que haga oferta pública de sus acciones, deberá publicarse un aviso en el mismo diario en que se haya efectuado la publicación señalada en el artículo anterior, que dé cuenta de ello y enviarse una comunicación en tal sentido a las personas señaladas en el inciso segundo del artículo 54.
+A.- Dentro de los dos días hábiles siguientes a la fecha en que se perfeccionen los actos o contratos mediante los cuales se obtenga el control de una sociedad anónima abierta, deberá publicarse un aviso en el mismo diario en que se haya efectuado la publicación señalada en el artículo anterior, que dé cuenta de ello y enviarse una comunicación en tal sentido a las personas señaladas en el inciso segundo del artículo 54.
 
 #### Artículo 54
 
@@ -662,11 +692,9 @@ c) Los corredores de bolsa y agentes de valores que den certificaciones falsas s
 
 d) Los contadores y auditores que dictaminen falsamente sobre la situación financiera de una persona sujeta a obligación de registro de conformidad a esta ley.
 
-e) Las personas que infrinjan las prohibiciones consignadas en los artículos 52, 53, inciso primero del artículo 85 y letras a), d), e) y h) del artículo 162,de esta ley.
+e) Las personas que infrinjan las prohibiciones consignadas en los artículos 52, 53, inciso primero del artículo 85 y letras a), d), e) y h) del artículo 162 de esta ley.
 
 f) Los directores, administradores y gerentes de un emisor de valores de oferta pública, cuando efectuaren declaraciones maliciosamente falsas en la respectiva escritura de emisión de valores de oferta pública, en el prospecto de inscripción, en los antecedentes acompañados a la solicitud de inscripción, en las informaciones que deban proporcionar a las Superintendencias de Valores y Seguros o de Bancos e Instituciones Financieras en su caso, o a los tenedores de valores de oferta pública o en las noticias o propaganda divulgada por ellos al mercado.
-
-Si las personas a que se refiere esta letra fueren condenadas por sentencia ejecutoriada a las penas señaladas en este artículo, sufrirán como pena accesoria la de inhabilitación por cinco o diez años según lo determine el tribunal, para desempeñar los cargos de director, administrador, gerente o liquidador de una sociedad anónima abierta o de cualquiera otra sociedad o entidad emisora de valores de oferta pública o que se encuentre sujeta a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras, o a la de Administradoras de Fondos de Pensiones.
 
 g) Los socios, administradores y, en general cualquier persona que en razón de su cargo o posición en las sociedades clasificadoras, se concertare con otra persona para otorgar una clasificación que no corresponda al riesgo de los títulos que clasifique.
 
@@ -684,7 +712,7 @@ c) Los que sin estar legalmente autorizados utilicen las expresiones reservadas 
 
 d) Los socios, administradores y, en general cualquier persona que en razón de su cargo o posición en las sociedades clasificadoras, tenga acceso a información reservada de los emisores clasificados y revele el contenido de dicha información a terceros;
 
-e) Las personas a que se refiere el artículo 166 que al efectuar transacciones u operaciones de valores de oferta pública, de cualquier naturaleza en el mercado de valores o en negociaciones privadas, para sí o para terceros, directa o indirectamente, usaren deliberadamente información privilegiada;
+e) Las personas a que se refiere el artículo 166 que al efectuar transacciones u operaciones de valores de oferta pública, de cualquier naturaleza en el mercado de valores o en negociaciones privadas, para sí o para terceros, directa o indirectamente, usaren deliberadamente información privilegiada; INCISO SUPRIMIDO
 
 f) Los que defraudaren a otros adquiriendo acciones de una sociedad anónima abierta, sin efectuar una oferta pública de adquisición de acciones en los casos que ordena esta ley;
 
@@ -696,17 +724,23 @@ i) Los que indebidamente utilizaren en beneficio propio o de terceros valores en
 
 j) El que deliberadamente elimine, altere, modifique, oculte o destruya registros, documentos, soportes tecnológicos o antecedentes de cualquier naturaleza, impidiendo o dificultando con ello la fiscalización de la Superintendencia.
 
-A las personas a que se refieren las letras b), e), f), g), h), i) y j), precedentes, se les aplicará accesoriamente la pena de inhabilitación a que se refiere el inciso segundo de la letra f) del artículo anterior.
+INCISO DEROGADO
 
 > **Nota.** El artículo DECIMO de la LEY 18660, publicada el 20.10.1987, dispone que las modificaciones que ella introduce a la presente norma, entrarán en vigencia el primer día del segundo mes siguiente al de su publicación.
 
 #### Artículo 61
 
-Las personas que con el objeto de inducir a error en el mercado difundieren noticias falsas o tendenciosas, aun cuando no persiguieren con ello obtener ventajas o beneficios para sí o terceros sufrirán las penas de presidio menor en sus grados mínimo a medio.
+El que con el objeto de inducir a error en el mercado de valores difunda información falsa o tendenciosa, aun cuando no persiga con ello obtener ventajas o beneficios para sí o terceros, sufrirá la pena de presidio menor en sus grados mínimo a medio.
+
+La pena señalada en el inciso precedente se aumentará en un grado, cuando la conducta descrita la realice el que en razón de su cargo, posición, actividad o relación, en la Superintendencia o en una entidad fiscalizada por ella, pudiera poseer o tener acceso a información privilegiada.
+
+#### Artículo 61 bis
+
+En los delitos contemplados en los artículos 59, 60 y 61, además de las penas allí previstas, se podrá imponer la pena accesoria de inhabilitación especial para el ejercicio de la profesión, si el autor ha actuado prevaleciéndose de su condición profesional; o la de inhabilitación especial de cinco a diez años para desempeñarse como gerente, director, liquidador o administrador a cualquier título de una sociedad o entidad sometida a fiscalización de la Superintendencia respectiva.
 
 #### Artículo 62
 
-Se presume fraudulenta la quiebra de un corredor de bolsa o de un agente de valores producida por incumplimiento de contratos que provengan de operaciones sobre valores ejecutados por cuenta propia, siempre que a consecuencia de las pérdidas provenientes de esas operaciones no pueda satisfacer el cumplimiento de las que ejecutare por cuenta de sus comitentes.
+DEROGADO
 
 #### Artículo 63
 
@@ -744,13 +778,35 @@ Las comisiones que puedan cobrarse por colocación o intermediación de valores 
 
 #### Artículo 67
 
-En caso de quiebra de un emisor de valores, los créditos de los terceros acreedores de la sociedad, cualquiera sea la clase a que pertenezcan, prevalecerán sobre los que posean los socios de la entidad emisora en contra de ésta proveniente de una disminución de capital que hubieren acordado y será aplicable el artículo 76 de Ley de Quiebras respecto de los pagos ya efectuados a éstos.
+En caso de que un emisor de valores
+
+tenga la calidad de deudor en un procedimiento
+
+concursal de liquidación, los créditos de los
+
+terceros acreedores de la sociedad, cualquiera
+
+sea la clase a que pertenezcan, prevalecerán
+
+sobre los que posean los socios de la entidad
+
+emisora en contra de ésta proveniente de una
+
+disminución de capital que hubieren acordado y
+
+será aplicable lo dispuesto en el artículo 287
+
+de la Ley de Reorganización y Liquidación
+
+de Activos de Empresas y Personas respecto de
+
+los pagos ya efectuados a éstos.
 
 #### Artículo 68
 
-La Superintendencia llevará un registro público de presidentes, directores, gerentes, ejecutivos principales, administradores y liquidadores de las entidades sujetas a su vigilancia. Para este efecto, dichas entidades dentro del plazo de tercero día hábil de ocurrido el hecho deberán comunicarle todo nombramiento, vacancia o reemplazo que se produzca respecto de esos cargos. Las designaciones que consten de dicho registro se considerarán vigentes para todos los efectos judiciales y extrajudiciales concernientes a simples accionistas o terceros de buena fe.
+La Superintendencia llevará un registro público de presidentes, directores, gerentes, ejecutivos principales, administradores y liquidadores de las entidades sujetas a su vigilancia. Para este efecto, será responsabilidad del directorio de dichas entidades entregar a la Superintendencia el listado de personas que integrarán el registro público y dar aviso de cualquier modificación que le afecte dentro del plazo de tercero día hábil de ocurrido el hecho. Las designaciones que consten de dicho registro se considerarán vigentes para todos los efectos judiciales y extrajudiciales concernientes a simples accionistas o terceros de buena fe.
 
-Se entenderá por ejecutivo principal a cualquier persona que tenga facultades relevantes de representación o decisión en la sociedad en materias propias del giro, independientemente de la denominación que se les otorgue.
+Se entenderá por ejecutivo principal a cualquier persona natural que tenga la capacidad de determinar los objetivos, planificar, dirigir o controlar la conducción superior de los negocios o la política estratégica de la entidad, ya sea por sí solo o junto con otros. En el desempeño de las actividades precedentemente señaladas no se atenderá a la calidad, forma o modalidad laboral o contractual bajo la cual el ejecutivo principal esté relacionado a la entidad, ni al título o denominación de su cargo o trabajo, independientemente de la denominación que se les otorgue.
 
 #### Artículo 69
 
@@ -1104,7 +1160,7 @@ a) Las entidades del grupo empresarial al que pertenece la sociedad;
 
 b) Las personas jurídicas que tengan, respecto de la sociedad, la calidad de matriz, coligante, filial o coligada, en conformidad a las definiciones contenidas en la ley N° 18.046;
 
-c) Quienes sean directores, gerentes, administradores o liquidadores de la sociedad, y sus cónyuges o sus parientes hasta el segundo grado de consanguinidad o afinidad, y
+c) Quienes sean directores, gerentes, administradores, ejecutivos principales o liquidadores de la sociedad, y sus cónyuges o sus parientes hasta el segundo grado de consanguinidad, así como toda entidad controlada, directamente o a través de otras personas, por cualquiera de ellos, y
 
 d) Toda persona que, por sí sola o con otras con que tenga acuerdo de actuación conjunta, pueda designar al menos un miembro de la administración de la sociedad o controle un 10% o más del capital o del capital con derecho a voto si se tratare de una sociedad por acciones.
 
@@ -1126,9 +1182,7 @@ No se considerará relacionada a la sociedad una persona por el sólo hecho de p
 
 Las entidades fiscalizadas por la Superintendencia proporcionarán a ésta y al público información acerca de las operaciones con sus personas relacionadas.
 
-Las sociedades anónimas que tengan inscritas sus acciones en el Registro de Valores informarán a la Superintendencia y a las bolsas de valores las transacciones de sus acciones que efectúen sus personas relacionadas.
-
-La Superintendencia determinará la forma, contenido y periodicidad de la información requerida en los incisos precedentes.
+La Superintendencia determinará la forma, contenido y periodicidad de la información requerida en el inciso precedente.
 
 > **Nota.** El artículo DECIMO de la LEY 18660, publicada el 20.10.1987, dispone que las modificaciones que ella introduce a la presente norma, entrarán en vigencia el primer día del segundo mes siguiente al de su publicación.
 
@@ -1220,7 +1274,7 @@ Si las actuaciones judiciales del representante no requirieran del acuerdo previ
 
 El representante indicado en este artículo, deberá actuar también judicialmente en defensa del interés individual de uno o más de los tenedores de bonos, cuando éstos así se lo solicitaran por escrito, si se produjera alguna de las situaciones descritas en el inciso tercero del artículo 120 ya citado. En este evento, el representante estará legalmente investido de las facultades ordinarias del mandato judicial ya referidas, y de las especiales que le confieran expresamente sus mandantes.
 
-En las demandas y demás gestiones judiciales que entable o en que participe el representante en interés colectivo de los tenedores de bonos, incluidas las peticiones y actuaciones que pueda efectuar con ocasión de la quiebra del emisor o en convenios judiciales o extrajudiciales relacionados con ésta o con su eventual ocurrencia, deberá expresar la voluntad mayoritaria de sus representados pero no necesitará acreditar esta circunstancia, conforme a lo dispuesto en el artículo precedente.
+En las demandas y demás gestiones judiciales que entable o en que participe el representante en interés colectivo de los tenedores de bonos, incluidas las peticiones y actuaciones que pueda efectuar con ocasión de la dictación de la resolución de reorganización o resolución de liquidación del emisor, deberá expresar la voluntad mayoritaria de sus representados pero no necesitará acreditar esta circunstancia, conforme a lo dispuesto en el artículo precedente.
 
 En todas las actuaciones judiciales y extrajudiciales a que se refiere el inciso anterior, se considerará de pleno derecho que el representante actúa por una sola persona, ya sea como demandante, parte o interesado, cuyos derechos y obligaciones expresan el conjunto de los que corresponden a sus representados, bastando expresar en los instrumentos correspondientes la calidad en que participa, sin que deba individualizar a sus mandantes. No obstante lo anterior, para los quórum de constitución y de acuerdos de cualquier clase de reunión de que se trate, se considerará que dicho representante tiene el mismo número de votos o el porcentaje que le corresponda a cada uno de los tenedores de bonos de la emisión que representa. Ello deberá certificarse por un notario público, en vista del Registro de títulos de tenedores de bonos, si existiere, o de los títulos o certificados de depósito de los mismos.
 
@@ -1314,7 +1368,11 @@ Cuando se hicieran exigibles las obligaciones caucionadas por las prendas legale
 
 Cumplidos los requisitos que se señalan en los incisos precedentes, los tenedores de bonos, podrán pagarse del monto íntegro de sus créditos, reajustes, intereses y costos de cobranza, con preferencia a cualquiera otra obligación, incluidos los derivados de los créditos de primera clase a que se refiere el artículo 2472 del Código Civil y de cualquiera otra al que leyes especiales le otorgaren preferencia especial, exceptuándose exclusivamente los privilegios establecidos en los artículos 105 y 106 de este título para el pago de las costas arbitrales y la remuneración del representante de los tenedores de bonos.
 
-En la ejecución de las obligaciones garantizadas con valores afectados por esta prenda especial, se aplicará respecto de los tenedores de bonos, lo dispuesto en favor de los bancos por el artículo 6° de la ley N° 4287, de 1928. En caso de quiebra del emisor, el dinero y valores pignorados quedarán excluidos de la masa de bienes del fallido y estos acreedores serán pagados sin aguardar las resultas de la quiebra y sin que sea necesario efectuar ninguna de las reservas que previene la ley 18.175, especialmente en su artículo 149. El representante de los tenedores de bonos podrá, sin más trámite, ejercer los procedimientos de realización de la prenda aludidos en el inciso anterior y pagar a sus representados en la proporción correspondiente.
+En la ejecución de las obligaciones garantizadas con
+
+valores afectados por esta prenda especial, se aplicará
+
+respecto de los tenedores de bonos, lo dispuesto en favor de los bancos por el artículo 6° de la ley N° 4287, de 1928. En caso que un emisor de valores tenga la calidad de deudor en un procedimiento concursal de liquidación, el dinero y valores pignorados quedarán excluidos de la masa de bienes del deudor y estos acreedores serán pagados sin aguardar las resultas del procedimiento concursal de liquidación y sin que sea necesario efectuar ninguna de las reservas que previene el artículo 135 de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas. El representante de los tenedores de bonos podrá, sin más trámite, ejercer los procedimientos de realización de la prenda aludidos en el inciso anterior y pagar a sus representados en la proporción correspondiente.
 
 De iguales derechos a los establecidos en los incisos precedentes gozarán el o los tenedores de bonos que actuaren judicialmente de manera individual, cuando ello fuere procedente.
 
@@ -1362,7 +1420,9 @@ Los bonos vencidos por sorteos, rescate o expiración del plazo de su vencimient
 
 El incumplimiento por el emisor de cualesquiera de las obligaciones que se le imponen en los incisos precedentes, facultará a cualquier tenedor de bono afectado para demandar el cobro de las deudas pendientes en su favor, sin que para ello se requiera el acuerdo previo de los demás acreedores de la emisión.
 
-La interposición de demandas que persigan la exigibilidad y cobro anticipado de uno o más bonos de una emisión, sea por mora en el pago de cualquiera de ellos, por infracción de las demás obligaciones consignadas en los resguardos establecidos en la escritura de emisión o por cualquiera otra causa, sólo podrá decidirse por la junta de tenedores de bonos con el quórum a que se refiere el inciso primero del artículo 124 del presente título. De igual acuerdo previo requerirá la interposición de demandas destinadas a que se declare judicialmente la resolución del contrato de emisión, con indemnización de perjuicios; la petición de declaración de quiebra del emisor, la presentación de proposiciones de convenios extrajudiciales o judiciales preventivos de este deudor con sus acreedores y su participación en ellos, cualquiera sea quien los proponga, y, en general, cualquiera otra petición o actuación judicial que comprometa el interés colectivo de los tenedores de bonos de una emisión.
+La interposición de demandas que persigan la exigibilidad y cobro anticipado de uno o más bonos de una emisión, sea por mora en el pago de cualquiera de ellos, por infracción de las demás obligaciones consignadas en los resguardos establecidos en la escritura de emisión o por cualquiera otra causa, sólo podrá decidirse por la junta de tenedores de bonos con el quórum a que se refiere el inciso primero del artículo 124 del presente título. De igual acuerdo previo requerirá la interposición de demandas destinadas a que se declare judicialmente la resolución del contrato de emisión, con indemnización de perjuicios; la solicitud de inicio de un procedimiento
+
+concursal de liquidación o de reorganización de este deudor con sus acreedores y su participación en ellos, cualquiera sea quien los proponga, y, en general, cualquiera otra petición o actuación judicial que comprometa el interés colectivo de los tenedores de bonos de una emisión.
 
 En las situaciones a que se refiere el inciso precedente las demandas pertinentes deberán interponerse por el representante de los tenedores de bonos y el título ejecutivo, en su caso, deberá ser complementado por una copia del acta de la junta respectiva, reducida a escritura pública por dicho representante.
 
@@ -1484,13 +1544,27 @@ Sin perjuicio de lo establecido en el inciso primero, la emisión de títulos de
 
 ## Título XVIII
 
-De las sociedades securitizadoras
+De las Sociedades Securitizadoras y de la Emisión de Títulos de Deuda de Securitización
 
 #### Artículo 132
 
-Las sociedades a que se refiere este título, se constituirán como anónimas especiales y su objeto exclusivo será la adquisición de los créditos a que se refiere el artículo 135, la adquisición de derechos sobre flujos de pago y la emisión de títulos de deuda, de corto o largo plazo. Cada emisión originará la formación de patrimonios separados del patrimonio común de la emisora. Para los efectos anteriores se entenderá por flujo de pago toda obligación, existente o que se genere en el futuro, de pagar una o más sumas de dinero por la adquisición o el uso de bienes o por la prestación de servicios.
+Las sociedades a que se refiere este título, se constituirán como anónimas especiales y su objeto exclusivo será la adquisición de los activos a que se refiere el artículo 135, la adquisición de derechos sobre flujos de pago, la emisión de títulos de deuda, de corto o largo plazo, y las demás actividades complementarias o afines que les autorice la Superintendencia. Cada emisión originará la formación de patrimonios separados del patrimonio común de la emisora, salvo en el caso de la emisión por línea, en el cual todas las emisiones con cargo a la misma integrarán un solo patrimonio separado. Para los efectos anteriores se entenderá por flujo de pago toda obligación, existente o que se genere en el futuro, de pagar una o más sumas de dinero por la adquisición o el uso de bienes o por la prestación de servicios.
 
-Estas sociedades deberán incluir en su nombre la expresión "securitizadora" y se sujetarán a las normas establecidas en los artículos 126 y siguientes de la ley N° 18.046 y, previo a obtener la autorización de su existencia, deberán comprobar ante la Superintendencia un capital pagado en dinero efectivo no inferior al equivalente a diez mil unidades de fomento. Durante su vigencia, el patrimonio común no podrá ser inferior al indicado precedentemente, ni podrá, el 50% de este mínimo legal, estar afecto a gravámenes, prohibiciones o embargos o integrado por bonos adquiridos en virtud de lo dispuesto en el inciso siguiente. Los bonos subordinados emitidos por los patrimonios separados, una vez adicionados a la inscripción los certificados contemplados en los artículos 137 y 137 bis, podrán ser adquiridos por la sociedad emisora de los mismos. En tal caso, no se considerarán para los efectos de acreditar existencia o permanencia del patrimonio mínimo exigido por este artículo.
+Estas sociedades deberán incluir en su nombre la expresión "securitizadora" y se sujetarán a las normas establecidas en los artículos 126 y siguientes de la ley N° 18.046 y, previo a obtener la autorización de su existencia, deberán comprobar ante la Superintendencia un capital pagado en dinero efectivo no inferior al equivalente a diez mil unidades de fomento. Durante su vigencia, el patrimonio común no podrá ser inferior al indicado precedentemente, ni podrá, el 50% de este mínimo legal, estar afecto a gravámenes, prohibiciones o embargos o integrado por bonos adquiridos en virtud de lo dispuesto en el inciso siguiente.
+
+Los bonos subordinados emitidos por los patrimonios separados, una vez adicionados a la inscripción los certificados contemplados en los artículos 137 y 137 bis, podrán ser adquiridos por la sociedad emisora de los mismos. En tal caso, no se considerarán para los efectos de acreditar existencia o permanencia del patrimonio mínimo exigido por este artículo.
+
+#### Artículo 132 bis
+
+La emisión de instrumentos regulada por este Título podrá efectuarse mediante la emisión de títulos de deuda por monto fijo, por línea de títulos de deuda de securitización o a través de programas de emisión de los establecidos en el artículo 144 bis.
+
+Se entenderá que la emisión es por línea de títulos cuando las colocaciones individuales vigentes no superen el monto total y el plazo de la línea inscrita en la Superintendencia. El contrato de emisión de títulos de deuda de securitización por línea deberá contener las cláusulas generales aplicables a todas las emisiones que se efectúen con cargo a ella, en tanto las escrituras de colocación deberán considerar las condiciones específicas de cada colocación.
+
+Las colocaciones que se efectúen con cargo a una línea deberán considerar la incorporación de activos al patrimonio separado, los cuales deberán ser de la misma naturaleza que los activos que conforman este último, y no podrán desmejorar el grado de inversión vigente de los títulos emitidos con anterioridad por el patrimonio separado, lo cual deberá ser certificado por el representante de los tenedores de título de deuda.
+
+Sólo se podrá hacer una nueva emisión con cargo a la línea una vez que se hayan enterado los activos integrantes de las emisiones que se hubieren efectuado con anterioridad, en la forma establecida en el inciso cuarto del artículo 137.
+
+La Superintendencia, mediante norma de carácter general, regulará el procedimiento de emisión de títulos por línea, las menciones mínimas que deberán contener los contratos de emisión por línea y las escrituras de colocación.
 
 #### Artículo 133
 
@@ -1510,7 +1584,7 @@ Para el cumplimiento de su objeto social, la sociedad podrá adquirir letras hip
 
 Para los efectos de este título se entenderá que los contratos, créditos y derechos o sus títulos revisten el carácter de transferibles, incluso si existieran entre esos bienes, créditos nominativos, en cuyo caso su adquisición, transferencia, o constitución en garantía podrá efectuarse por endoso colocado a continuación, al margen o al dorso del documento en que constaren, cualesquiera fuere la forma en que se hubieran extendido originalmente, aplicándose en lo que fueran compatibles, las normas del párrafo 2 del Título I de la ley 18.092 sobre Letras de Cambios y Pagarés.
 
-Asimismo, para los efectos de este título, la transferencia o cesión de los contratos, créditos y derechos, o de sus títulos, será oponible a los deudores de éstos, desde la fecha de la escritura de otorgamiento del contrato de emisión con formación de patrimonio separado o de sus escrituras complementarias en que se individualicen o determinen. Desde esa fecha, los deudores no podrán oponer al cesionario otras excepciones que las personales que tengan en su contra, siéndole inoponible a éste toda otra excepción, cualquiera sea su origen o naturaleza.
+Asimismo, para los efectos de este título, la transferencia o cesión de los contratos, créditos y derechos, o de sus títulos, será oponible a los deudores de éstos, desde la fecha de la escritura de otorgamiento del contrato de emisión con formación de patrimonio separado o de sus escrituras complementarias, o de las escrituras de colocación en que se individualicen o determinen. Desde esa fecha, los deudores no podrán oponer al cesionario otras excepciones que las personales que tengan en su contra, siéndole inoponible a éste toda otra excepción, cualquiera sea su origen o naturaleza.
 
 Lo dispuesto en los dos incisos anteriores también será aplicable a las transferencias o enajenaciones de los contratos, créditos, derechos o de sus títulos efectuadas a entidades o personas, constituidas en Chile o en el extranjero, que los adquieran con el propósito de efectuar emisiones de títulos de deuda securitizados destinados a ser colocados exclusivamente en el extranjero. Dichos títulos no se inscribirán en el Registro de Valores.
 
@@ -1524,31 +1598,35 @@ El Banco Central de Chile, previo informe de la Superintendencia de Bancos e Ins
 
 #### Artículo 137
 
-En el contrato de emisión de títulos de deuda con formación de patrimonio separado, deberán individualizarse o determinarse, según su naturaleza, los bienes, contratos, créditos y derechos que lo integran. Si en el contrato no se les puede individualizar o determinar, se deberán indicar sus principales características, su grado de homogeneidad, su número, el plazo en que se adquirirán y las demás menciones que la Superintendencia determine mediante norma de carácter general, e individualizarlos o determinarlos en una o más escrituras complementarias. Dichos instrumentos se anotarán al margen del contrato de emisión de títulos de deuda con formación de patrimonio separado. Copia de la escritura se enviará a la Superintendencia, dentro de los cinco días siguientes a su otorgamiento, para su incorporación a la inscripción de la emisión en el Registro de Valores.
+En el contrato de emisión de títulos de deuda con formación de patrimonio separado, o en las respectivas escrituras de colocación, según corresponda, deberán individualizarse o determinarse, según su naturaleza, los bienes, contratos, créditos y derechos que lo integran. Si en el contrato de emisión o en la escritura de colocación no se les puede individualizar o determinar, se deberán indicar sus principales características, su grado de homogeneidad, su número, el plazo en que se adquirirán y las demás menciones que la Superintendencia determine mediante norma de carácter general, e individualizarlos o determinarlos en una o más escrituras complementarias. Dichos instrumentos y las escrituras de colocación se anotarán al margen del contrato de emisión de títulos de deuda. Copia de las escrituras se enviarán a la Superintendencia, dentro de los cinco días siguientes a su otorgamiento, para su incorporación a la inscripción de la emisión en el Registro de Valores.
 
-Otorgado el contrato de emisión de títulos de deuda con formación de patrimonio separado, las obligaciones representativas de éstos integran de pleno derecho el pasivo de éste.
+Otorgado el contrato de emisión de títulos de deuda con formación de patrimonio separado o la escritura de colocación, según corresponda, las obligaciones representativas de éstos integran de pleno derecho el pasivo de éste.
 
-Los bienes, contratos, créditos y derechos individualizados o determinados en la escritura de otorgamiento del contrato de emisión con formación de patrimonio separado o en las escrituras complementarias, integrarán de pleno derecho el activo de éste, desde la fecha de la respectiva escritura en que se les individualice o determine, de acuerdo con lo dispuesto en el inciso primero de este artículo.
+Los bienes, contratos, créditos y derechos individualizados o determinados en la escritura de otorgamiento del contrato de emisión, en las escrituras complementarias, o en las escrituras de colocación, integrarán de pleno derecho el activo de éste, desde la fecha de la respectiva escritura en que se les individualicen o determinen, de acuerdo con lo dispuesto en el inciso primero de este artículo, con excepción de los bienes raíces y demás bienes cuya propiedad está sujeta a registro, los cuales se integrarán al activo una vez cumplidas las formalidades que establece la ley.
 
-La sociedad securitizadora no podrá gravar, enajenar ni prometer gravar o enajenar, los bienes, contratos, créditos o derechos individualizados o determinados en el contrato de emisión o en sus escrituras complementarias, sin el consentimiento del representante de los tenedores de títulos de deuda, quien podrá autorizar o requerir la sustitución de tales bienes, contratos, créditos y derechos, siempre que los nuevos activos reúnan características similares a aquellos que sustituyan, según se establezca en el respectivo contrato.
+La sociedad securitizadora no podrá gravar, enajenar ni prometer gravar o enajenar, los bienes, contratos, créditos o derechos individualizados o determinados en el contrato de emisión, en sus escrituras complementarias, o en las escrituras de colocación, sin el consentimiento del representante de los tenedores de títulos de deuda, quien podrá autorizar o requerir la sustitución de tales bienes, contratos, créditos y derechos, siempre que los nuevos activos reúnan características similares a aquellos que sustituyan, según se establezca en el respectivo contrato. En caso de sustituciones, se deberá proceder de la forma establecida en el inciso séptimo del artículo 137 bis.
 
-Sólo se entenderá cumplida la obligación de entero del activo del patrimonio separado por la sociedad, cuando se adicione a la inscripción el certificado que al efecto deba otorgar el representante de los tenedores de títulos de deuda, en el que conste que los bienes que conforman el activo se encuentran debidamente aportados y en custodia, libre de gravámenes, prohibiciones o embargos, que se han cumplido los otros requisitos determinados en la escritura de emisión o en las escrituras complementarias y, en su caso, que se han constituido los aportes adicionales pactados. Si no procediere la custodia de tales bienes, el contrato de emisión de títulos de deuda con formación de patrimonio separado deberá expresar fundadamente esta circunstancia, y señalar otras medidas de resguardo y vigilancia que se adoptarán en relación con los bienes que conforman el activo del patrimonio separado.
+Sólo se entenderá cumplida la obligación de entero del activo del patrimonio separado por la sociedad, cuando se adicione a la inscripción el certificado que al efecto deba otorgar el representante de los tenedores de títulos de deuda, en el que conste que los bienes que conforman el activo se encuentran debidamente aportados y en custodia, libre de gravámenes, prohibiciones o embargos, que se han cumplido los otros requisitos determinados en la escritura de emisión, y en su caso, que se han constituido los aportes adicionales pactados. Si no procediere la custodia de tales bienes, el contrato de emisión de títulos de deuda deberá expresar fundadamente esta circunstancia, y señalar otras medidas de resguardo y vigilancia que se adoptarán en relación con los bienes que conforman el activo del patrimonio separado.
 
 Una vez adicionado el certificado a que se refiere el inciso anterior, corresponderá a la sociedad cobrar y percibir el pago por los títulos de deuda que haya emitido, integrando el patrimonio común.
 
-Si el certificado no ha sido adicionado, corresponderá al representante de los tenedores de títulos de deuda cobrar y percibir dicho pago, directamente si éste es un banco o institución financiera, o por medio de alguna de estas instituciones, si no tuviere tal carácter, ingresando estos recursos al respectivo patrimonio separado.
+Si el certificado no ha sido adicionado a la respectiva emisión, corresponderá al representante de los tenedores de títulos de deuda cobrar y percibir dicho pago, directamente si éste es un banco o institución financiera o por medio de alguna de estas instituciones, si no tuviere tal carácter, ingresando estos recursos al respectivo patrimonio separado.
+
+Lo dispuesto en los incisos anteriores se aplicará a cada una de las emisiones que se hagan con cargo a una línea. En estos casos, los activos que integren una nueva emisión deberán mantenerse segregados del resto de los activos del patrimonio separado, hasta que se otorgue el certificado de entero de dicha emisión. Una vez otorgado dicho certificado, los nuevos activos aportados se integrarán a los demás activos del patrimonio separado.
 
 #### Artículo 137 bis
 
-El representante de los tenedores de bonos podrá invertir los recursos que reciba en virtud de lo establecido en el artículo anterior, en instrumentos financieros de renta fija, clasificados como mínimo en categoría ''A'' o ''N-2'' de riesgo por dos clasificadoras privadas, o emitidos o garantizados por el Estado hasta su total extinción y cuyos vencimientos deberán considerar las oportunidades de desembolso de estos recursos por la constitución de los patrimonios separados.
+El representante de los tenedores de bonos podrá invertir los recursos que reciba en virtud de lo establecido en el inciso séptimo del artículo 137, en instrumentos financieros de renta fija, clasificados como mínimo en categoría ''A'' o ''N-2'' de riesgo por dos clasificadoras privadas, o emitidos o garantizados por el Estado hasta su total extinción y cuyos vencimientos deberán considerar las oportunidades de desembolso de estos recursos por la constitución de los patrimonios separados.
 
 Los valores en que el representante de los tenedores de bonos invierta los recursos que administre, deberán ser mantenidos en depósito en las entidades privadas de depósito y custodia de valores a que se refiere la ley Nº 18.876, en conformidad a sus disposiciones, o en bancos o en sociedades financieras, de acuerdo a lo dispuesto en el decreto con fuerza de ley Nº 3, de 1997, Ley General de Bancos.
 
-El dinero percibido por el cobro de los títulos de deuda efectuado por el representante de los tenedores de los mismos y los intereses, beneficios y ganancias de capital que devenguen su inversión, deberá ser aplicado primeramente al pago de los créditos que han generado la constitución de gravámenes o garantías, contra la cancelación y alzamiento de éstas o al pago de los bienes, contratos, créditos y derechos a adquirir. Asimismo, cuando procediera, ese dinero y sus incrementos se aplicará al pago de los aportes adicionales pactados en la escritura. Cumplido lo anterior, y agregado el certificado referido a la inscripción pertinente, el remanente por los títulos de deuda emitidos será pagado a la sociedad, ingresando al patrimonio común.
+El dinero percibido por el cobro de los títulos de deuda efectuado por el representante de los tenedores de los mismos y los intereses, beneficios y ganancias de capital que devenguen su inversión, deberá ser aplicado primeramente al pago de los créditos que han generado la constitución de gravámenes o garantías, contra la cancelación y alzamiento de éstas o al pago de los bienes, contratos, créditos y derechos a adquirir. Asimismo, cuando procediera, ese dinero y sus incrementos se aplicará al pago de los aportes adicionales pactados en la correspondiente escritura. Cumplido lo anterior, y agregado el certificado referido a la inscripción pertinente, el remanente por los títulos de deuda emitidos será pagado a la sociedad, ingresando al patrimonio común.
 
-Si dentro de los 60 días contados desde el inicio de colocación de la emisión, el representante de los tenedores de títulos no otorgare el certificado por encontrarse los bienes del patrimonio separado afectos con gravámenes, prohibiciones o embargos o, por no estar éstos debidamente aportados o por no haberse otorgado los aportes adicionales pactados, este patrimonio entrará en liquidación aplicándose a su respecto, las normas sobre liquidación de patrimonios separados, salvo que la Superintendencia prorrogue dicho plazo hasta por 90 días.
+Si dentro de los 90 días contados desde el inicio de colocación de la emisión, el representante de los tenedores de títulos no otorgare el certificado por encontrarse los bienes del patrimonio separado afectos con gravámenes, prohibiciones o embargos o, por no estar éstos debidamente aportados o por no haberse otorgado los aportes adicionales pactados, este patrimonio entrará en liquidación aplicándose a su respecto, las normas sobre liquidación de patrimonios separados, salvo que la Superintendencia prorrogue dicho plazo hasta por 90 días.
 
-Pendiente el otorgamiento del certificado de formación de patrimonio separado, la sociedad podrá sustituir uno o más bienes, contratos, créditos y derechos por otros activos que reúnan características similares a aquellos que sustituyen, según se establezca en el respectivo contrato de emisión de títulos de deuda con formación de patrimonio separado; modificar dicho contrato con el objeto de reducir la emisión al monto efectivamente colocado a dicha fecha o proceder al rescate anticipado de todo o parte de los bonos efectivamente colocados mediante el procedimiento establecido en el contrato de emisión.
+En las colocaciones posteriores a la primera emisión con cargo a una línea de títulos, la no emisión del certificado de entero, en el plazo determinado previamente, no significará la liquidación del patrimonio separado y, en consecuencia, no afectará a los tenedores de títulos vigentes emitidos con anterioridad por el patrimonio separado. En estos casos, se procederá a la liquidación de los activos de dicha emisión en la forma que se determine en el contrato de emisión.
+
+Pendiente el otorgamiento del certificado de entero del patrimonio separado, o de la emisión respectiva en caso de emisiones por línea, la sociedad podrá sustituir uno o más bienes, contratos, créditos y derechos por otros activos que reúnan características similares a aquellos que sustituyen, según se establezca en el respectivo contrato de emisión; modificar dicho contrato, o las respectivas escrituras de colocación, con el objeto de reducir la emisión al monto efectivamente colocado a dicha fecha o proceder al rescate anticipado de todo o parte de los títulos correspondientes a la última colocación efectivamente colocados mediante el procedimiento establecido en el contrato de emisión.
 
 La sustitución de bienes, contratos, créditos y derechos o la reducción de la emisión al monto efectivamente colocado, deberá efectuarse por escritura pública anotada al margen de la escritura de emisión. Copia de la escritura se enviará a la Superintendencia, dentro de los 5 días siguientes a su otorgamiento, para su anotación en el registro de la emisión.
 
@@ -1562,7 +1640,17 @@ El derecho de prenda general de los tenedores de títulos de deuda emitidos por 
 
 Los acreedores del patrimonio separado están conformados exclusivamente por los tenedores de títulos de deuda que integran la emisión respectiva y, en su caso, por el custodio de los valores del patrimonio, el representante de los tenedores de títulos y el administrador de los activos del patrimonio, por las remuneraciones que se les adeuden.
 
-No obstante lo dispuesto en los incisos anteriores, en la escritura de emisión se podrá autorizar a los acreedores del patrimonio separado para que puedan cobrar, en cualquier circunstancia, el saldo impago de sus créditos sobre el patrimonio común, concurriendo con los demás acreedores generales. En tal evento, y en caso de declararse la quiebra de la sociedad, los acreedores del patrimonio separado se considerarán también valistas en ese patrimonio común, si no se hubieran pagado sus acreencias con el patrimonio separado y siempre que sus créditos n hubieran sido garantizados especialmente mediante pactos o cauciones específicas por la sociedad.
+No obstante lo dispuesto en los incisos anteriores, en la escritura de emisión se podrá autorizar a los acreedores del patrimonio separado para que puedan cobrar, en cualquier circunstancia, el saldo impago de sus créditos sobre el patrimonio común, concurriendo con
+
+los demás acreedores generales. En tal evento, y en caso
+
+que la sociedad tenga la calidad de deudor en un
+
+procedimiento concursal de liquidación, los acreedores
+
+del patrimonio separado se considerarán también valistas
+
+en ese patrimonio común, si no se hubieran pagado sus acreencias con el patrimonio separado y siempre que sus créditos no hubieran sido garantizados especialmente mediante pactos o cauciones específicas por la sociedad. Sin perjuicio de lo anterior, la Superintendencia podrá autorizar mediante norma de carácter general que el contrato de emisión contemple obligaciones por concepto de adquisición de los activos que integrarán el patrimonio separado. Dichas obligaciones podrán ser contraídas únicamente con la o las entidades que hayan aportado, originado o vendido los activos que integrarán el patrimonio separado, las cuales podrán ser pagadas cumpliendo la prelación establecida en el contrato de emisión.
 
 #### Artículo 139
 
@@ -1582,7 +1670,7 @@ El representante de los tenedores de deuda no podrá denegar el retiro del patri
 
 Estas sociedades podrán administrar directamente los bienes integrantes de los patrimonios separados que posean o encargar esta gestión a un banco, sociedad financiera, administradora de mutuos hipotecarios endosables de que trata el artículo 21 bis del decreto con fuerza de ley 251, de 1931, u otras entidades que autorice la Superintendencia.
 
-Los títulos de crédito y valores que integren el activo de los patrimonios separados deberán ser entregados en custodia a bancos, sociedades financieras, empresas de depósito y custodia de valores u otras entidades expresamente autorizadas por la ley.
+Los títulos de crédito y valores que integren el activo de los patrimonios separados deberán ser entregados en custodia a bancos, sociedades financieras, empresas de depósito y custodia de valores u otras entidades expresamente autorizadas por la ley o por la Superintendencia.
 
 #### Artículo 142
 
@@ -1616,7 +1704,7 @@ c) Las obligaciones de información que tendrán el representante de tenedores d
 
 #### Artículo 144 bis
 
-La Superintendencia podrá autorizar, mediante norma de carácter general, emisiones de bonos con formación de patrimonios separados utilizando un procedimiento que contemple una escritura pública general que establezca la realización de dos o más emisiones, con cargo a activos de una misma naturaleza y bajo similares condiciones, dentro de un período determinado de tiempo, no superior a dos años y que contenga las cláusulas generales aplicables a todas las emisiones del período y otra que considere las condiciones específicas de la emisión, ambas suscritas por la sociedad emisora y por el representante de los tenedores de bonos. Las menciones propias de cada escritura serán determinadas por la Superintendencia en la norma de carácter general que autorice el procedimiento para este tipo de emisiones.
+La Comisión podrá autorizar, mediante norma de carácter general, emisiones de bonos con formación de patrimonios separados utilizando un procedimiento que contemple una escritura pública general que establezca la realización de dos o más emisiones, con cargo a activos de una misma naturaleza y bajo similares condiciones, dentro de un período determinado de tiempo, no superior al determinado en la respectiva escritura pública general y que contenga las cláusulas generales aplicables a todas las emisiones del período y otra que considere las condiciones específicas de la emisión, ambas suscritas por la sociedad emisora y por el representante de los tenedores de bonos. Las menciones propias de cada escritura serán determinadas por la Comisión en la norma de carácter general que autorice el procedimiento para este tipo de emisiones.
 
 La escritura pública general podrá estipular que uno o más de los sucesivos patrimonios separados que se formen en virtud de lo establecido en este artículo, se incorporarán dentro de los 30 días siguientes al entero de su activo, a uno de los patrimonios separados ya formados, siempre que se hayan cumplido los requisitos determinados en la escritura pública general y que el resultado de la operación no desmejore el grado de inversión vigente de los títulos emitidos por este último, hechos que deberán ser certificados por el representante de los tenedores de título de deuda.
 
@@ -1630,15 +1718,17 @@ Una vez pagados los títulos de deuda emitidos contra un patrimonio separado, lo
 
 #### Artículo 146
 
-La quiebra de la sociedad sólo afectará a su patrimonio común y no originará la quiebra de los patrimonios separados que haya constituido.
+En el caso que la sociedad tenga la calidad de deudor en un procedimiento concursal de liquidación, dicho procedimiento sólo afectará su
 
-Un patrimonio separado no podrá ser declarado en quiebra en caso alguno, sino que sólo entrará en liquidación cuando concurra respecto de él alguna de la causales que habrían dado origen a la quiebra.
+patrimonio común y no generará un procedimiento concursal de liquidación para los patrimonios separados que haya constituido.
 
-La quiebra de la sociedad emisora y de su patrimonio común, importará la liquidación del o de los patrimonios separados que haya constituido. La liquidación de uno o más de éstos no acarreará la quiebra de la sociedad, ni la liquidación de los otros patrimonios separados.
+Un patrimonio separado no podrá ser objeto de un procedimiento concursal de liquidación en caso alguno, sino que sólo entrará en liquidación cuando concurra respecto de él alguna de la causales que habrían dado origen al procedimiento concursal de liquidación.
 
-Cuando la sociedad fuere declarada en quiebra, el representante respectivo de los tenedores de títulos o quien designe la junta de tenedores de títulos de deuda, administrará y liquidará los patrimonios separados.
+La calidad de deudor en un procedimiento concursal de liquidación de la sociedad emisora y de su patrimonio común, importará la liquidación del o de los patrimonios separados que haya constituido. La liquidación de uno o más de éstos no acarreará el inicio de un procedimiento concursal de liquidación de la sociedad, ni la liquidación de los otros patrimonios separados.
 
-Dentro del plazo de tres meses contado desde la fecha en que quede ejecutoriada la resolución que declare la quiebra de la sociedad, sólo podrá decidirse la enajenación de cada patrimonio separado como unidad patrimonial conforme a lo prescrito en el artículo 150, requiriéndose el acuerdo conjunto del liquidador del patrimonio separado y del Síndico que administre la sociedad. A falta de acuerdo y sin otro trámite que la audiencia de las partes, decidirá el juez que conozca de la quiebra.
+En el caso de que la sociedad emisora y su patrimonio común se encuentren sometidos a un procedimiento concursal de liquidación, el representante respectivo de los tenedores de títulos o quien designe la junta de tenedores de títulos de deuda, administrará y liquidará los patrimonios separados.
+
+Dentro del plazo de tres meses contado desde la fecha en que quede ejecutoriada la resolución que decrete el inicio del procedimiento concursal de liquidación, sólo podrá decidirse la enajenación de cada patrimonio separado como unidad patrimonial conforme a lo prescrito en el artículo 150, requiriéndose el acuerdo conjunto del liquidador del patrimonio separado y del liquidador que administre la sociedad. A falta de acuerdo y sin otro trámite que la audiencia de las partes, decidirá el juez que conozca de la quiebra.
 
 Si no fuere posible enajenar cada patrimonio separado como unidad patrimonial dentro del plazo indicado en el inciso anterior, el liquidador podrá proceder conforme a lo establecido en los artículos 148 y siguientes del presente Título.
 
@@ -1648,7 +1738,7 @@ En la liquidación de un patrimonio separado, será liquidador el representante 
 
 Los regímenes de administración y de custodia continuarán aplicándose a los activos sujetos a ellos, mientras no sean liquidados en la forma que se indica en este título. La liquidación de un patrimonio separado no acarrea la terminación automática de los correspondientes contratos de administración o de custodia, sin perjuicio de la facultad del liquidador para ponerles término.
 
-Los gastos de la liquidación de un patrimonio separado deben ser pagados con cargo a los bienes que lo integran o con los bienes del patrimonio común cuando ello se origine por quiebra de la sociedad securitizadora. Para tal efecto éstos se considerarán como créditos valistas.
+Los gastos de la liquidación de un patrimonio separado deben ser pagados con cargo a los bienes que lo integran o con los bienes del patrimonio común en el caso que la sociedad securitizadora tenga la calidad de deudor en un procedimiento concursal de liquidación. Para tal efecto éstos se considerarán como créditos valistas.
 
 #### Artículo 148
 
@@ -1710,135 +1800,55 @@ Para los efectos de lo dispuesto en el artículo 31 de la Ley sobre Impuesto a l
 
 Las comisiones y otras remuneraciones que las sociedades a que se refiere este Título, paguen a terceros por la administración y custodia de los bienes integrantes de los patrimonios separados que posean, en los términos que dispone el inciso primero del artículo 141, estarán exentas del Impuesto al Valor Agregado establecido en el decreto ley N° 825, de 1974.
 
-## Título XIX — De la Cámara de Compensación
+#### Artículo 153 bis
 
-#### Artículo 154
+En todo lo no previsto en el presente título se aplicarán supletoriamente las normas contenidas en el Título XVI de la presente ley.
 
-Las bolsas de valores podrán constituir o formar parte de una Cámara de Compensación, la que tendrá por objeto ser la contraparte de todas las compras y ventas de contratos de futuro, de opciones de valores y de otros de similar naturaleza que les autorice la Superintendencia, que se efectúen en la respectiva bolsa, a partir del registro de dichas operaciones en la mencionada Cámara.
+## Título XIX — Derogado
 
-Asimismo, la Cámara administrará, controlará y liquidará las operaciones, posiciones abiertas, cuentas corrientes, márgenes y saldos disponibles que efectúen y mantengan clientes y corredores en estos mercados.
+De la Cámara de Compensación
 
-#### Artículo 155
+#### Artículo 154°
 
-Las Cámaras estarán sujetas a las siguientes reglas: a) Deberán constituirse como sociedades anónimas especiales de conformidad a lo establecido en el artículo 126 de la ley N° 18.046, y les serán aplicables en lo que no fueren incompatibles con las disposiciones de la presente ley, las normas aplicables a las sociedades anónimas abiertas y las normas de carácter general dictadas por la Superintendencia. En su nombre deberán incluir la expresión "Cámara de Compensación";
+(DEROGADO)
 
-b) Tendrán como objeto exclusivo el indicado en el artículo anterior;
+#### Artículo 155°
 
-c) El capital mínimo pagado, expresado en pesos, no podrá ser inferior al equivalente en dinero efectivo, a quince mil unidades de fomento;
+(DEROGADO)
 
-d) Tendrán un directorio integrado por 5 miembros a lo menos, que podrán ser o no accionistas, pudiendo ser reelegidos;
+#### Artículo 156°
 
-a) Las acciones serán nominativas y sin valor nominal;
+(DEROGADO)
 
-f) Sólo podrán estar constituidas por bolsas de valores y sus respectivos corredores;
+#### Artículo 157°
 
-g) Tendrán un tribunal arbitral integrado por a lo menos 3 miembros, encargado de aplicar las medidas disciplinarias que contemplen sus estatutos y las que se indican en esta ley; sin perjuicio de las otras facultades que a éste se le otorguen en el estatuto; y
+(DEROGADO)
 
-h) A lo menos 30% de las utilidades de cada ejercicio se destinará a formar un Fondo de Contingencia, que tendrá por objeto cubrir obligaciones pendientes derivadas de operaciones registradas en la Cámara. Lo anterior será obligatorio hasta que el Fondo sea equivalente al capital y reservas de la cámara.
+#### Artículo 158°
 
-#### Artículo 156
+(DEROGADO)
 
-Las Cámaras tendrán las siguientes funciones: a) Emitir y registrar los contratos de las operaciones de futuro y de opciones y ser la contraparte de los mismos;
+#### Artículo 159°
 
-b) Recibir de los corredores los márgenes iniciales, dineros y valores correspondientes y acreditar los mismos en las respectivas cuentas corrientes.
+(DEROGADO)
 
-Los márgenes que constituyan los contratantes con una cámara de compensación, para responder de sus obligaciones, especialmente la de cubrir las diferencias de precios que se produzcan en los contratos de futuros y opciones, se podrán constituir transfiriéndole en dominio el bien respectivo, que se detentará por la cámara a nombre propio. Cuando fuere necesario hacer efectivo dichos márgenes, la cámara los realizará extrajudicialmente, actuando como señor y dueño, pero rindiendo cuenta como encargada fiduciaria de su contraparte. Lo anterior es sin perjuicio de lo dispuesto en el artículo 179 de la presente ley;
+#### Artículo 160°
 
-c) Actualizar diariamente las posiciones abiertas de los clientes, debiendo ajustar los márgenes, establecer las variaciones diarias de precios y cargar o abonar a cada cuenta corriente las pérdidas o ganancias correspondientes;
+(DEROGADO)
 
-d) informar a los corredores la falta o el exceso de margen y de los saldos de las cuentas corrientes de sus clientes, al igual que la necesidad que éstos completen el margen, cuando corresponda;
+## Título XX — De la responsabilidad de las sociedades administradoras de fondos fiscalizados por la Superintendencia DEROGADO.
 
-e) Ordenar a los corredores el cierre parcial o total de las posiciones abiertas de sus clientes por no cumplir éstos con los requerimientos de margen o coberturas;
+#### Artículo 161°
 
-f) Liquidar, en la fecha de vencimiento, las posiciones abiertas del contrato que vence, disminuyendo el margen correspondiente y cargando o abonando las pérdidas o ganancias producidas, y
+(DEROGADO)
 
-g) Las demás que establezca la reglamentación interna de la respectiva cámara con la autorización de la Superintendencia.
+#### Artículo 162°
 
-#### Artículo 157
+(DEROGADO)
 
-Con el solo registro de una operación en la Cámara, se entienden celebrados los contratos de futuro y de opciones en su caso, entre la Cámara y cada una de las partes de la respectiva negociación.
+#### Artículo 163°
 
-Los contratos registrados no podrán ser posteriormente transferidos. Toda cesión, traspaso u otro acto de comercio deberá ejecutarse mediante un nuevo contrato.
-
-#### Artículo 158
-
-Las garantías especiales comprendidas en cada contrato serán liberadas en el momento en que las operaciones se hayan liquidado por cumplimiento de sus condiciones. En aquellos casos de liquidación en parcialidades, las garantías se liberarán en forma proporcional a la liquidación.
-
-#### Artículo 159
-
-Sin perjuicio de las facultades de la Superintendencia, el Tribunal Arbitral de la Cámara de Compensación podrá aplicar a los corredores que operen en la Cámara las sanciones de amonestación por escrito, multa de 50 a 500 unidades de fomento, a beneficio del respectivo fondo de contingencia, suspensión temporal de hasta por 30 días y expulsión de la Cámara, siempre que incurra en alguna de las siguientes infracciones:
-
-1) Incumplimiento de las obligaciones que se deriven de los contratos registrados en la Cámara que se transen por su intermedio.
-
-2) No constituir oportunamente los márgenes generales o especiales que se exijan para los contratos registrados en la Cámara o no constituir las garantías particulares que ésta establezca.
-
-3) Proporcionar a la Cámara datos o informes incompletos o erróneos sobre los contratos que intermedian o sobre su situación financiera.
-
-4) infringir las normas de operaciones de la Cámara establecida en sus estatutos o en el Reglamento interno.
-
-Quienes hubieran sido sancionados por el Tribunal Arbitral podrán solicitar, dentro de los cinco días hábiles siguientes a la notificación de la medida, revisión de la sanción ante el directorio de la Cámara.
-
-#### Artículo 160
-
-Corresponde a la Superintendencia fiscalizar y supervigilar el funcionamiento y actuaciones de las Cámaras de Compensación que se establezcan, de acuerdo a las facultades y atribuciones que le confieren esta ley, su ley orgánica y las demás leyes de su competencia, en especial, las referidas a las bolsas de valores.
-
-Para establecer y operar una cámara de compensación, se requerirá la autorización previa de la Superintendencia, quien aprobará sus reglamentos y normas que se dicten para su funcionamiento y en su caso, las modificaciones a los mismos.
-
-Dicho Organismo estará facultado para rechazar o proponer modificaciones a los proyectos de reglamentos y normas, dentro de un plazo de 90 días contados desde su presentación. En los casos en que la Superintendencia proponga modificaciones, el transcurso del plazo se suspenderá desde la fecha de la comunicación que contenga dicha proposición y sólo se reanudará cuando se haya cumplido con dicho trámite.
-
-Subsanados los defectos o atendidas las observaciones formuladas, en su caso, y vencido el plazo anteriormente indicado, la Superintendencia deberá autorizar los reglamentos o normas presentados, dentro del quinto día.
-
-## Título XX
-
-De la responsabilidad de las sociedades administradoras
-
-de fondos fiscalizados por la Superintendencia
-
-#### Artículo 161
-
-La sociedad administradora de cualquier fondo fiscalizado por la Superintendencia, deberá efectuar todas las gestiones que sean necesarias, con el cuidado y la diligencia que los hombres emplean ordinariamente en sus propios negocios, para cautelar la obtención de una adecuada combinación de rentabilidad y seguridad de las inversiones del fondo.
-
-La sociedad administrará cada fondo, atendiendo exclusivamente a la mejor conveniencia de éste y a que todas y cada una de las operaciones de adquisición y enajenación de activos que efectúe por cuenta del mismo, se hagan en el mejor interés del fondo.
-
-La administradora responderá hasta de la culpa leve por los perjuicios que causaren al fondo por incumplimiento de cualquiera de sus obligaciones.
-
-La administradora podrá demandar a las personas que le hubieran ocasionado perjuicio al fondo, pudiendo reclamar indemnizaciones por los daños causados, en juicio sumario.
-
-La sociedad administradora estará obligada a indemnizar al fondo por los perjuicios que ella o cualquiera de sus dependientes o personas que le presten servicios le causaren, como consecuencia de la ejecución u omisión, según corresponda, de cualquiera de las actuaciones prohibidas a que se refiere este artículo y el 162. Las personas antes mencionadas que hubieran participado en tales actuaciones serán solidariamente responsables del reembolso, que incluirá el daño emergente y el lucro cesante.
-
-Los auditores externos de la administradora deberán pronunciarse acerca de los mecanismos de control interno que ésta se imponga, para velar por el fiel cumplimiento de este artículo y las prohibiciones a que se refiere el artículo 162, como también sobre los sistemas de información y archivo, para registrar el origen, destino y oportunidad de las transacciones que se efectúen con los recursos de cada fondo.
-
-#### Artículo 162
-
-Son contrarias a la presente ley y las siguientes actuaciones u omisiones, en su caso, efectuadas por las administradoras:
-
-a) las operaciones realizadas con los bienes del fondo para obtener beneficios, directos o indirectos;
-
-b) el cobro de cualquier servicio al fondo, no autorizado por la ley, el contrato o los reglamentos internos, o en plazos y condiciones distintas a las que en ellos se establezca;
-
-c) el cobro al fondo de cualquier servicio prestado por personas relacionadas a la administradora del mismo;
-
-d) la utilización en beneficio propio o ajeno, de información relativa a operaciones por realizar por el fondo, con anticipación a que éstas se efectúen;
-
-e) la comunicación de información esencial relativa a la adquisición, enajenación o mantención de activos por cuenta del fondo, a personas distintas de aquellas que estrictamente deban participar en la operaciones respectivas, en representación de la administradora o del fondo;
-
-f) la adquisición de activos que haga la administradora para sí, dentro de los 5 días siguientes a la enajenación de éstos, efectuada por ella, por cuenta del fondo, si el precio de compra es inferior al existente antes de dicha enajenación. Tratándose de activos de baja liquidez, este plazo será de 60 días;
-
-g) la enajenación de activos propios que haga la administradora dentro de los 5 días siguientes a la adquisición de éstos por cuenta del fondo, si el precio es superior al existente antes de dicha adquisición. Tratándose de activos de baja liquidez, este plazo será de 60 días;
-
-h) la adquisición o enajenación de bienes por cuenta del fondo en que actúe para sí como cedente o adquirente la administradora o un fondo privado, de los del Título VII de la ley Nº 18.815, bajo su administración o de una sociedad relacionada a ella. Asimismo, la adquisición o enajenación de bienes por cuenta del fondo a personas relacionadas con la administradora o a fondos administrados por ella o por sociedades relacionadas, salvo que ésta se lleve a cabo en mercados formales, conforme a los requisitos y condiciones que establezca la Superintendencia, mediante norma de carácter general, e
-
-i) las enajenaciones o adquisiciones de activos que efectúe la administradora, si resultaren ser más ventajosas para ésta que las respectivas enajenaciones o adquisiciones de éstos, efectuadas en el mismo día, por cuenta del fondo. Salvo si se entregaran al fondo, dentro de los dos días siguientes al de la operación, la diferencia de precio correspondiente.
-
-Para los efectos de este Título, la expresión administradora comprenderá también cualquier persona que participe en las decisiones de inversión del fondo o que en razón de su cargo o posición, tenga acceso a información de las inversiones del fondo. Se entenderá por activos, aquellos que sean de la misma especie, clase, tipo, serie y emisor.
-
-Se entenderá por activos de baja liquidez aquellos que no se transan frecuentemente y en volúmenes significativos de los mercados secundarios formales. La Superintendencia determinará por norma de carácter general los activos de baja liquidez.
-
-No obstante las sanciones administrativas, civiles y penales que correspondan y el derecho a reclamar perjuicios, los actos o contratos realizados en contravención a las prohibiciones anteriormente señaladas, se entenderán válidamente celebrados.
-
-#### Artículo 163
-
-Mediante norma de carácter general, la Superintendencia determinará los activos de baja liquidez en que no podrán invertir su patrimonio las sociedades administradoras de fondos fiscalizadas por ella.
+(DEROGADO)
 
 ## Título XXI
 
@@ -1848,49 +1858,51 @@ De la información privilegiada
 
 Para los efectos de esta ley, se entiende por información privilegiada cualquier información referida a uno o varios emisores de valores, a sus negocios o a uno o varios valores por ellos emitidos, no divulgada al mercado y cuyo conocimiento, por su naturaleza, sea capaz de influir en la cotización de los valores emitidos, como asimismo, la información reservada a que se refiere el artículo 10 de esta ley.
 
-También se entenderá por información privilegiada, la que se tiene de las operaciones de adquisición o enajenación a realizar por un inversionista institucional en el mercado de valores.
+También se entenderá por información privilegiada, la que se posee sobre decisiones de adquisición, enajenación y aceptación o rechazo de ofertas específicas de un inversionista institucional en el mercado de valores.
 
 #### Artículo 165
 
-Cualquier persona que en razón de su cargo, posición, actividad o relación tenga acceso a información privilegiada, deberá guardar estricta reserva y no podrá utilizarla en beneficio propio o ajeno, ni adquirir para sí o para terceros, directa o indirectamente, los valores sobre los cuales posea información privilegiada.
+Cualquier persona que en razón de su cargo, posición, actividad o relación con el respectivo emisor de valores o con las personas señaladas en el artículo siguiente, posea información privilegiada, deberá guardar reserva y no podrá utilizarla en beneficio propio o ajeno, ni adquirir o enajenar, para sí o para terceros, directamente o a través de otras personas los valores sobre los cuales posea información privilegiada.
 
 Asimismo, se les prohíbe valerse de la información privilegiada para obtener beneficios o evitar pérdidas, mediante cualquier tipo de operación con los valores a que ella se refiera o con instrumentos cuya rentabilidad esté determinada por esos valores. Igualmente, se abstendrán de comunicar dicha información a terceros o de recomendar la adquisición o enajenación de los valores citados, velando para que esto tampoco ocurra a través de subordinados o terceros de su confianza.
 
-No obstante lo dispuesto precedentemente, los intermediarios de valores que tengan la información privilegiada a que se refiere el artículo anterior, podrán hacer operaciones respecto de los valores a que ella se refiere, por cuenta de terceros, no relacionados a ellos, siempre que la orden y las condiciones específicas de la operación provenga del cliente, sin asesoría ni recomendación del corredor.
+No obstante lo dispuesto precedentemente, los intermediarios de valores que posean la información privilegiada a que se refiere el artículo anterior, podrán hacer operaciones respecto de los valores a que ella se refiere, por cuenta de terceros, no relacionados a ellos, siempre que la orden y las condiciones específicas de la operación provenga del cliente, sin asesoría ni recomendación del intermediario, y la operación se ajuste a su norma interna, establecida de conformidad al artículo 33.
 
 Para los efectos del inciso segundo de este artículo, las transacciones se entenderán realizadas en la fecha en que se efectúe la adquisición o enajenación, con independencia de la fecha en que se registren en el emisor.
 
 #### Artículo 166
 
-Se presume que tienen acceso a información privilegiada, las siguientes personas:
+Se presume que poseen información privilegiada las siguientes personas:
 
-a) Los directores, gerentes, administradores y liquidadores del emisor o del inversionista institucional, en su caso;
+a) Los directores, gerentes, administradores, ejecutivos principales y liquidadores del emisor o del inversionista institucional, en su caso.
 
-b) Las personas indicadas en la letra a) precedente, que se desempeñen en una sociedad que tenga la calidad de matriz o coligante controlador, de la emisora de cuyos valores se trate, o del inversionista institucional en su caso; c) Las personas controladoras o sus representantes, que realicen operaciones o negociaciones tendientes a la enajenación del control, y
+b) Las personas indicadas en la letra a) precedente, que se desempeñen en el controlador del emisor o del inversionista institucional, en su caso.
 
-d) Los directores, gerente, administradores, apoderados, asesores financieros u operadores, de intermediarios de valores.
+c) Las personas controladoras o sus representantes, que realicen operaciones o negociaciones tendientes a la enajenación del control.
 
-Tratándose de las personas indicadas en la letra d) del inciso precedente, la presunción señalada se entenderá referida exclusivamente a la información privilegiada definida en el inciso segundo del artículo 164, y también respecto de la información que tuvieren sobre la colocación de acciones de primera emisión que les hubiere sido encomendada.
+d) Los directores, gerentes, administradores, apoderados, ejecutivos principales, asesores financieros u operadores de intermediarios de valores, respecto de la información del inciso segundo del artículo 164 y de aquella relativa a la colocación de valores que les hubiere sido encomendada.
 
-También se presume que tienen información privilegiada, en la medida que puedan tener acceso directo al hecho objeto de la información, las siguientes personas:
+También se presume que poseen información privilegiada, en la medida que tuvieron acceso directo al hecho objeto de la información, las siguientes personas:
 
-a) Los auditores externos e inspectores de cuenta del emisor, así como los socios y administradores de las sociedades de auditoría;
+a) Los ejecutivos principales y dependientes de las empresas de auditoría externa del emisor o del inversionista institucional, en su caso.
 
-b) Los socios, administradores y miembros de los consejos de clasificación de las sociedades clasificadoras de riesgo, que clasifiquen valores del emisor o a este último;
+b) Los socios, gerentes administradores y ejecutivos principales y miembros de los consejos de clasificación de las sociedades clasificadoras de riesgo, que clasifiquen valores del emisor o a este último.
 
-c) Los dependientes que trabajen bajo la dirección o supervisión directa de los directores, gerentes, administradores o liquidadores del emisor o del inversionista institucional;
+c) Los dependientes que trabajen bajo la dirección o supervisión directa de los directores, gerentes, administradores, ejecutivos principales o liquidadores del emisor o del inversionista institucional, en su caso.
 
-d) Las personas que presten servicios de asesorías permanente o temporal al emisor;
+d) Las personas que presten servicios de asesorías permanente o temporal al emisor o inversionista institucional, en su caso, en la medida que la naturaleza de sus servicios les pueda permitir acceso a dicha información.
 
-e) Los funcionarios públicos dependientes de las instituciones que fiscalicen a emisores de valores de oferta pública o a fondos autorizados por ley, y f) Los cónyuges o parientes hasta el segundo grado de consaguinidad o afinidad, de las personas señaladas en la letra a) del inciso primero.
+e) Los funcionarios públicos dependientes de las instituciones que fiscalicen a emisores de valores de oferta pública o a fondos autorizados por ley.
+
+f) Los cónyuges o convivientes de las personas señaladas en la letra a) del inciso primero, así como cualquier persona que habite en su mismo domicilio.
 
 #### Artículo 167
 
-Los directores, gerentes, administradores, asesores que presten servicios a la sociedad, o personas que en razón de su cargo o posición, hayan tenido o tengan acceso a información privilegiada, estarán obligados a dar cumplimiento a las normas de este Título aunque hayan cesado en el cargo respectivo.
+Las personas que en razón de su cargo o posición, posean, hayan tenido o tengan acceso a información privilegiada, obtenida directamente del emisor o inversionista institucional, en su caso, o a través de las personas indicadas en el artículo anterior, estarán obligadas a dar cumplimiento a las normas de este Título aunque hayan cesado en la relación o posición respectiva.
 
 #### Artículo 168
 
-Los intermediarios de valores cuyos directores, administradores, apoderados, gerentes u operadores de rueda, participen en la administración de un emisor de valores de oferta pública, mediante su desempeño como directores, administradores, gerentes o liquidadores de este último, o de su matriz o coligante, quedarán obligados a informar a sus clientes de esta situación en la forma que determine la Superintendencia y deberán abstenerse de realizar para sí o para terceros relacionados, cualquier operación o transacción de acciones emitidas por dicho emisor.
+Los intermediarios de valores cuyos directores, administradores, apoderados, gerentes ejecutivos principales u operadores de rueda, participen en la administración de un emisor de valores de oferta pública, mediante su desempeño como directores, administradores, gerentes ejecutivos principales o liquidadores de este último, o de su matriz o coligante, quedarán obligados a informar a sus clientes de esta situación en la forma que determine la Comisión y deberán abstenerse de realizar para sí o para terceros relacionados, cualquier operación o transacción de acciones emitidas por dicho emisor.
 
 Se exime de la prohibición señalada precedentemente a aquellos intermediarios que sean sociedades filiales del emisor de acciones, siempre que ambos tengan exclusivamente en común directores y éstos no participen directamente en sus decisiones de intermediación.
 
@@ -1902,23 +1914,23 @@ Las actividades de intermediarios de valores y las de las personas que dependen 
 
 Asimismo, la administración y gestión de inversiones y, en especial, las decisiones de adquisición, mantención o enajenación de instrumentos para la administradora y los fondos que ésta administre, deberán ser realizados en forma separada, independiente y autónoma de cualquier otra función de la misma naturaleza o de intermediación de valores, asesoría financiera, gestión y otorgamiento de créditos, respecto de otros. Esta limitación no obstará para que las administradoras de fondos, exclusivamente en las actividades propias de sus giro, puedan compartir recursos o medios para realizarlas.
 
-Los directores, administradores, gerentes, apoderados, asesores financieros, operadores de mesas de dinero u operadores de rueda de un intermediario de valores, no podrán participar en la administración de una Administradora de Fondos de terceros autorizada por ley.
+Los directores, administradores, gerentes, apoderados, ejecutivos principales asesores financieros, operadores de mesas de dinero u operadores de rueda de un intermediario de valores, no podrán participar en la administración de una Administradora de Fondos de terceros autorizada por ley.
 
 > **Nota.** El Artículo Sexto de la LEY 19389, publicada el 18.05.1995, ordenó suspender la vigencia de lo dispuesto en el presente, por un plazo de 90 días, a contar de su publicación.
 
 #### Artículo 170
 
-Los auditores externos que auditen los estados financieros de inversionistas institucionales o de los intermedios de valores, deberán pronunciarse acerca de los mecanismos de control interno que aquéllos y éstos se impongan, para velar por el fiel cumplimiento de las normas de este Título, como también sobre los sistemas de información y archivo, para registrar el origen, destino y oportunidad de las transacciones que se efectúen con los recursos propios y de terceros que administren o intermedien, en su caso.
+Los auditores externos que auditen los estados financieros de inversionistas institucionales o de los intermedios de valores, deberán pronunciarse acerca de los mecanismos de control interno que aquéllos y éstos se impongan, para velar por el fiel cumplimiento de las normas de este Título y de lo dispuesto en el inciso primero del artículo 33, como también sobre los sistemas de información y archivo, para registrar el origen, destino y oportunidad de las transacciones que se efectúen con los recursos propios y de terceros que administren o intermedien, en su caso.
 
-La Superintendencia, mediante norma de carácter general, determinará la información que deberán mantener los inversionistas institucionales y los intermediarios de valores para el cumplimiento de las disposiciones de este Título, y los archivos y registros que deberán llevar en relación a las transacciones con recursos propios, las de sus personas relacionadas y las efectuadas con recursos de terceros que administren.
+La Comisión, mediante norma de carácter general, determinará la información que deberán mantener los inversionistas institucionales y los intermediarios de valores para el cumplimiento de las disposiciones de este Título, y los archivos y registros que deberán llevar en relación a las transacciones con recursos propios, las de sus personas relacionadas y las efectuadas con recursos de terceros que administren.
 
 La información contenida en esos archivos hará fe en contra de los obligados a llevarlos.
 
 #### Artículo 171
 
-Sin perjuicio de lo dispuesto en el artículo anterior, las personas que participen en las decisiones y operaciones de adquisición y enajenación de valores para inversionistas institucionales e intermediarios de valores y aquellas que, en razón de su cargo o posición, tengan acceso a la información respecto de las transacciones de estas entidades, deberán informar a la dirección de su empresa, de toda adquisición o enajenación de valores que ellas hayan realizado, dentro de las 24 horas siguientes a la de la transacción excluyendo para estos efectos los depósitos a plazo y los valores de las instituciones y entidades a que se refieren los incisos segundo, tercero y cuarto del artículo 3° de esta ley.
+Sin perjuicio de lo dispuesto en el artículo anterior, las personas que participen en las decisiones y operaciones de adquisición y enajenación de valores para inversionistas institucionales e intermediarios de valores y aquellas que, en razón de su cargo o posición, tengan acceso a la información respecto de las transacciones de estas entidades, deberán informar a la dirección de su empresa, de toda adquisición o enajenación de valores de oferta pública que ellas hayan realizado, dentro de las 24 horas siguientes a la de la transacción excluyendo para estos efectos los depósitos a plazo.
 
-La empresa deberá informar a la Superintendencia en la forma y oportunidad que ésta determine, acerca de las transacciones realizadas por todas las personas indicadas, cada vez que esas transacciones alcancen un monto equivalente en dinero a 500 unidades de fomento.
+La empresa deberá informar a la Comisión en la forma y oportunidad que ésta determine, acerca de las transacciones realizadas por todas las personas indicadas, cada vez que esas transacciones alcancen un monto equivalente en dinero a 500 unidades de fomento.
 
 #### Artículo 172
 
@@ -1994,6 +2006,12 @@ Los agentes de valores, corredores de bolsa, bolsas de valores, bancos, o cualqu
 
 Las personas indicadas en el inciso anterior que mantengan en su custodia valores de terceros, deberán abrir una cuenta destinada al depósito de dichos valores en una empresa de depósito y custodia de valores regulada por la ley N° 18.876. No obstante lo anterior, en el caso que los dueños de dichos valores así lo requieran, el intermediario deberá abrir cuentas individuales a nombre de aquéllos.
 
+Las personas antes indicadas podrán ejercer el derecho a voto de los valores bajo su custodia únicamente si han sido autorizados expresamente para ello por el titular al momento de constituirse la referida custodia. En caso de no contar con dicha autorización, sólo podrán votar si han requerido instrucciones específicas al titular y en aquellos temas respecto de los cuales efectivamente las hubieren recibido. Para ello, podrán dividir su voto incluso en situaciones distintas de las elecciones de directores y deberán indicar expresamente al votar cada una de las materias sometidas a consideración de los inversionistas, el número total de acciones propias por las que votan y el número total de acciones por cuenta de terceros que votan a favor, en contra o respecto de las que no recibieron instrucciones. Las instrucciones de los dueños deberán constar en un registro reservado sujeto al control de la Comisión, que contendrá la información y deberá conservarse por el tiempo que ésta determine mediante norma de carácter general.
+
+Los valores que no puedan ser votados conforme a lo dispuesto en el inciso anterior se considerarán, no obstante, en el cálculo del quórum de asistencia en el caso de entidades que no hayan adoptado mecanismos de votación a distancia autorizados por la Comisión.
+
+Las personas a que se refiere este artículo sólo podrán ejercer el voto de los valores bajo su custodia a través de sus representantes legales, sus empleados especialmente facultados para ello o sus propios abogados, y no podrán delegarlo en caso alguno a favor de terceros ajenos a ellas.
+
 En los juicios en que se persiga la responsabilidad de alguna de las personas indicadas en el inciso primero o la ejecución forzada de las obligaciones de éstas con terceros o con depositantes, no se podrá, en caso alguno, embargar, ni decretar medidas prejudiciales o precautorias u otras limitaciones al dominio respecto de los valores que les hubieren sido entregados en depósito. Sin embargo, podrán decretarse tales medidas, de conformidad a las reglas generales, cuando se trate de obligaciones personales de los terceros que le hayan entregado valores en depósito, respecto de los valores de propiedad del tercero respectivo.
 
 En ningún caso se podrán embargar ni decretar las medidas mencionadas en el inciso anterior respecto de aquellos valores que se mantengan en depósito que sirvan de respaldo a la emisión de valores representativos de los mismos, mientras mantengan tal calidad.
@@ -2030,7 +2048,9 @@ Se entenderán comprendidos para los efectos de este título, dentro del concept
 
 Corresponderá al Banco Central de Chile, en los casos y forma señaladas en la ley Nº 18.840, Orgánica Constitucional del Banco Central, determinar las normas aplicables a las operaciones de cambios internacionales que se originen como consecuencia de la aplicación de las disposiciones de este Título.
 
-Los valores extranjeros y los CDV sólo podrán expresarse en las monedas extranjeras que autorice el Banco Central de Chile y en dichas monedas deberán transarse en el mercado nacional, considerándose para todos los efectos legales como títulos extranjeros. A estas operaciones les será aplicable lo previsto en el artículo 39 del párrafo octavo del Título III de la Ley Orgánica Constitucional del Banco Central de Chile, cualquiera fuere la naturaleza del título.
+Los valores extranjeros y los CDV sólo podrán expresarse en las monedas extranjeras que autorice el Banco Central de Chile, como también en moneda corriente nacional siempre que su pago se efectúe en una moneda extranjera autorizada; y en dichas monedas extranjeras deberán transarse en el mercado nacional, considerándose los referidos instrumentos para todos los efectos legales como títulos extranjeros. A estas operaciones les será aplicable lo previsto en el artículo 39 del párrafo octavo del Título III de la Ley Orgánica Constitucional del Banco Central de Chile, cualquiera fuere la naturaleza del título.
+
+Asimismo, y para efectos de la oferta pública de valores extranjeros en el país, el Banco Central de Chile podrá autorizar que los referidos instrumentos se transen y sean pagaderos en moneda corriente nacional, sujeto a los requisitos y condiciones que determine, caso en el cual no tendrá aplicación lo dispuesto en el inciso final del artículo 197.
 
 #### Artículo 185
 
@@ -2126,27 +2146,29 @@ De la Oferta Pública de Adquisición de Acciones
 
 #### Artículo 198
 
-Se entenderá que oferta pública de adquisición de acciones es aquella que se formula para adquirir acciones de sociedades anónimas que hagan oferta pública de sus acciones o valores convertibles en ellas, que por cualquier medio ofrezcan a los accionistas de aquéllas adquirir sus títulos en condiciones que permitan al oferente alcanzar un cierto porcentaje de la sociedad y en un plazo determinado.
+Se entenderá que oferta pública de adquisición de acciones es aquella que se formula para adquirir acciones de sociedades anónimas abiertas o valores convertibles en ellas, que por cualquier medio ofrezcan a los accionistas de aquéllas adquirir sus títulos en condiciones que permitan al oferente alcanzar un cierto porcentaje de la sociedad y en un plazo determinado.
 
-El oferente podrá hacer la oferta por acciones de sociedades anónimas que hagan oferta pública de sus acciones, por valores convertibles en ellas o por ambos. En todo caso, la oferta por unos no obliga a formular oferta por los otros.
+El oferente podrá hacer la oferta por acciones de sociedades anónimas abiertas, por valores convertibles en ellas o por ambos.
+
+En todo caso, la oferta por unos no obliga a formular oferta por los otros.
 
 Las disposiciones de este Título se aplicarán tanto a las ofertas que se formulen voluntariamente como a aquellas que deban realizarse conforme a la ley.
 
 Cada vez que en este Título se hable de acciones como objeto de la oferta, dicha expresión comprenderá también los valores convertibles en acciones; y cuando se haga referencia a una oferta, se entenderá que se refiere a una oferta pública de adquisición de acciones.
 
-La Superintendencia podrá eximir del cumplimiento de una o más normas de este Título, a aquellas ofertas de hasta un 5% del total de las acciones emitidas de una sociedad, cuando ellas se realicen en bolsa y a prorrata para el resto de los accionistas, conforme a la reglamentación bursátil que para este efecto apruebe la Superintendencia.
+La Comisión podrá eximir del cumplimiento de una o más normas de este Título, a aquellas ofertas de hasta un 5% del total de las acciones emitidas de una sociedad, cuando ellas se realicen en bolsa y a prorrata para el resto de los accionistas, conforme a la reglamentación bursátil que para este efecto apruebe la Comisión.
 
-Las personas que efectúen ofertas públicas de adquisición de acciones, los organizadores y los administradores de la oferta quedarán sujetos en relación con esas ofertas a la fiscalización de la Superintendencia.
+Las personas que efectúen ofertas públicas de adquisición de acciones, los organizadores y los administradores de la oferta quedarán sujetos en relación con esas ofertas a la fiscalización de la Comisión.
 
 #### Artículo 199
 
-Deberán someterse al procedimiento de oferta contemplado en este Título, las siguientes adquisiciones de acciones, directas o indirectas, de una o más series, emitidas por una sociedad que haga oferta pública de las mismas:
+Deberán someterse al procedimiento de oferta contemplado en este Título, las siguientes adquisiciones de acciones, directas o indirectas, de una o más series, emitidas por una sociedad anónima abierta:
 
-a) Las que permitan a una persona tomar el control de una sociedad;
+a) Las que permitan tomar el control de una sociedad;
 
-b) La oferta que el controlador deba realizar de acuerdo a lo dispuesto en el artículo 69 ter de la ley Nº 18.046, siempre que en virtud de una adquisición llegue a controlar dos tercios o más de las acciones emitidas con derecho a voto de una sociedad o de la serie respectiva, y
+b) La oferta que el controlador deba realizar de acuerdo a lo dispuesto en el 199 bis, siempre que en virtud de una adquisición llegue a controlar dos tercios o más de las acciones emitidas con derecho a voto de una sociedad o de la serie respectiva, y
 
-c) Si una persona pretende adquirir el control de una sociedad que tiene a su vez el control de otra que haga oferta pública de sus acciones, y que represente un 75% o más del valor de su activo consolidado, deberá efectuar previamente una oferta a los accionistas de esta última conforme a las normas de este Título, por una cantidad no inferior al porcentaje que le permita obtener su control.
+c) Si se pretende adquirir el control de una sociedad que tiene a su vez el control de otra sociedad anónima abierta, y que represente un 75% o más del valor de su activo consolidado, se deberá efectuar previamente una oferta a los accionistas de esta última conforme a las normas de este Título, por una cantidad no inferior al porcentaje que le permita obtener su control.
 
 Se exceptúan de las normas precedentes, las siguientes operaciones:
 
@@ -2156,17 +2178,29 @@ Se exceptúan de las normas precedentes, las siguientes operaciones:
 
 3) Las que se produzcan como consecuencia de una fusión;
 
-4) Las adquisiciones por causa de muerte, y 5) Las que provengan de enajenaciones forzadas.
+4) Las adquisiciones por causa de muerte, y
+
+5) Las que provengan de enajenaciones forzadas.
 
 Para los efectos de lo dispuesto en el Nº 2 del inciso anterior, se entenderá por:
 
 i) Precio de mercado de una acción, aquel que resulte de calcular el promedio ponderado de las transacciones bursátiles, que se hayan realizado entre el nonagésimo día hábil bursátil y el trigésimo día hábil bursátil anteriores a la fecha en que deba efectuarse la adquisición, e
 
-ii) Precio sustancialmente superior al de mercado, aquel valor que exceda al indicado en la letra precedente en un porcentaje que determinará una vez al año la Superintendencia, mediante norma de carácter general, y que no podrá ser inferior al 10% ni superior al 15%.
+ii) Precio sustancialmente superior al de mercado, aquel valor que exceda al indicado en la letra precedente en un porcentaje que determinará una vez al año la Comisión, mediante norma de carácter general, y que no podrá ser inferior al 10% ni superior al 15%.
 
-La Superintendencia determinará, mediante instrucciones de general aplicación, las condiciones mínimas que deberán reunir las acciones para ser consideradas con presencia bursátil. En todo caso, de la aplicación de estas instrucciones no podrá resultar que queden excluidas sociedades en las cuales pudiere invertir un fondo mutuo, de acuerdo a las normas que le sean aplicables a éstos.
+La Comisión determinará, mediante instrucciones de general aplicación, las condiciones mínimas que deberán reunir las acciones para ser consideradas con presencia bursátil. En todo caso, de la aplicación de estas instrucciones no podrá resultar que queden excluidas sociedades en las cuales pudiere invertir un fondo mutuo, de acuerdo a las normas que le sean aplicables a éstos.
 
 Para los efectos del presente Título, se considerarán como directas aquellas adquisiciones de acciones por personas que actúen concertadamente o bajo un acuerdo de actuación conjunta.
+
+#### Artículo 199 bis
+
+Si como consecuencia de cualquier adquisición, una persona o grupo de personas con acuerdo de actuación conjunta alcanza o supera los dos tercios de las acciones emitidas con derecho a voto de una sociedad anónima abierta, deberá realizar una oferta pública de adquisición por las acciones restantes, dentro del plazo de 30 días, contado desde la fecha de aquella adquisición.
+
+Dicha oferta deberá hacerse a un precio no inferior al que correspondería en caso de existir derecho a retiro.
+
+De no efectuarse la oferta en el plazo señalado y sin perjuicio de las sanciones aplicables al incumplimiento, nacerá para el resto de los accionistas el derecho a retiro en los términos del artículo 69 de la ley Nº 18.046. En este caso, se tomará como fecha de referencia para calcular el valor a pagar, el día siguiente al vencimiento del plazo indicado en el inciso primero.
+
+No regirá la obligación establecida en el inciso primero, cuando se alcance el porcentaje ahí referido como consecuencia de una reducción de pleno derecho del capital, por no haber sido totalmente suscrito y pagado un aumento dentro del plazo legal, o a causa de una oferta pública de adquisición de acciones válidamente efectuada por la totalidad de las acciones de la sociedad. Tampoco será aplicable en los casos en que el referido porcentaje se alcance a consecuencia de las operaciones indicadas en el inciso segundo del artículo 199.
 
 #### Artículo 200
 
@@ -2174,7 +2208,7 @@ El accionista que haya tomado el control de una sociedad no podrá, dentro de lo
 
 #### Artículo 201
 
-Si dentro del plazo que media entre los 90 días anteriores a la vigencia de la oferta y hasta los 120 días posteriores a la fecha de publicación del aviso de aceptación dispuesto en el artículo 212, el oferente, directa o indirectamente, haya adquirido o adquiriese de las mismas acciones comprendidas en la oferta en condiciones de precio más beneficiosas que las contempladas en ésta, los accionistas que las hubieren vendido tendrán derecho a exigir la diferencia de precio o el beneficio de que se trate, considerando el valor más alto que se haya pagado. En tales casos, el oferente y las personas que se hubieren beneficiado serán obligadas solidariamente al pago.
+Si dentro del plazo que media entre los 30 días anteriores a la vigencia de la oferta y hasta los 90 días posteriores a la fecha de publicación del aviso de aceptación dispuesto en el artículo 212, el oferente, directa o indirectamente, haya adquirido o adquiriese de las mismas acciones comprendidas en la oferta en condiciones de precio más beneficiosas que las contempladas en ésta, los accionistas que le hubieren vendido antes o en la oferta tendrán derecho a exigir la diferencia de precio o el beneficio de que se trate, considerando el valor más alto que se haya pagado. En tales casos, el oferente y las personas que se hubieren beneficiado serán obligadas solidariamente al pago.
 
 Durante el período de vigencia de la oferta, el oferente no podrá adquirir acciones objeto de la oferta a través de transacciones privadas o en bolsas de valores, nacionales o extranjeras, sino a través del procedimiento establecido en este Título.
 
@@ -2186,7 +2220,7 @@ El aviso deberá contener los antecedentes esenciales para su acertada inteligen
 
 #### Artículo 203
 
-El oferente deberá poner a disposición de los interesados, a contar de la fecha del aviso de inicio y durante la vigencia de la oferta, un prospecto que contenga todos los términos y condiciones de la oferta. Una copia del prospecto deberá estar a disposición del público en las oficinas de la sociedad por cuyas acciones se hace la oferta, en la oficina del oferente o en la de su representante, si lo hubiere, como asimismo de las sociedades que sean controladas por aquélla y que hagan oferta pública de sus acciones, de la Superintendencia y de las bolsas de valores. En la misma fecha en que se publiquen los avisos de inicio de la oferta, el oferente deberá remitir copias del prospecto a la Superintendencia y a las bolsas de valores.
+El oferente deberá poner a disposición de los interesados, a contar de la fecha del aviso de inicio y durante la vigencia de la oferta, un prospecto que contenga todos los términos y condiciones de la oferta. Una copia del prospecto deberá estar a disposición del público en las oficinas de la sociedad por cuyas acciones se hace la oferta, en la oficina del oferente o en la de su representante, si lo hubiere, como asimismo de las sociedades anónimas abiertas que sean controladas por aquélla, de la Comisión y de las bolsas de valores. En la misma fecha en que se publiquen los avisos de inicio de la oferta, el oferente deberá remitir copias del prospecto a la Comisión y a las bolsas de valores.
 
 El prospecto deberá contener, al menos, las siguientes menciones:
 
@@ -2210,7 +2244,7 @@ i) Individualización completa y domicilio del tercero que el oferente hubiere d
 
 j) Individualización completa y domicilio de las personas y profesionales independientes que han asesorado al oferente para la formulación de su oferta.
 
-k) Las demás que disponga la Superintendencia, mediante normas de carácter general.
+k) Las demás que disponga la Comisión, mediante normas de carácter general.
 
 #### Artículo 204
 
@@ -2238,7 +2272,7 @@ Contra las resoluciones que dicte el árbitro no procederá recurso alguno.
 
 #### Artículo 205
 
-La vigencia de la oferta será establecida por el oferente mediante la fijación de un plazo, que no podrá ser inferior a 20 días ni superior a 30 días, salvo que la sociedad tenga inscritas en sus registros a entidades depositarias, en cuyo caso el plazo será de 30 días.
+La vigencia de la oferta será establecida por el oferente mediante la fijación de un plazo, que no podrá ser inferior a 20 días ni superior a 30 días, salvo que la sociedad tenga inscritas en sus registros a entidades depositarias, en cuyo caso el plazo será de 30 días, sin perjuicio de lo dispuesto en el inciso segundo del artículo 206. Tanto el primero como el último día del plazo comenzarán y terminarán, respectivamente, a la apertura y cierre del mercado bursátil en que se encuentren registrados los valores de la oferta.
 
 Sin perjuicio de lo anterior, el oferente podrá prorrogar la oferta por una sola vez y por un mínimo de 5 días y hasta por 15 días adicionales. Esta prórroga deberá comunicarse a los interesados antes del vencimiento de la oferta, mediante un aviso publicado en un mismo día, en los diarios en los cuales se efectuaron las publicaciones del aviso de inicio.
 
@@ -2247,6 +2281,8 @@ Sin perjuicio de lo anterior, el oferente podrá prorrogar la oferta por una sol
 Durante la vigencia de una oferta, podrán presentarse otras ofertas respecto de las mismas acciones a que se refieren las disposiciones anteriores.
 
 Estas ofertas se regirán por las normas de este Título y sólo tendrán valor cuando sus respectivos avisos de inicio se publiquen, al menos, con 10 días de anticipación al vencimiento del plazo de la oferta inicial. Los avisos de inicio de las ofertas competidoras deberán publicarse en la misma forma dispuesta en el artículo 202.
+
+Cuando una oferta se hubiere materializado a través de una bolsa de valores, las ofertas competidoras deberán realizarse bajo el mismo procedimiento y tener su misma fecha de vencimiento. Cuando la oferta no se haya efectuado a través de una bolsa de valores, las ofertas competidoras podrán fijar su fecha de vencimiento libremente, de acuerdo con las normas del presente título. Sin embargo, en caso de prórroga de la primera oferta, las ofertas competidoras solamente se podrán prorrogar, de acuerdo al artículo anterior, por un plazo tal que coincida con el vencimiento de la prórroga de la primera oferta, de modo que todas ellas terminen en una misma fecha.
 
 No podrán participar en las nuevas ofertas simultáneas las personas naturales o jurídicas interesadas como oferentes en aquellas que estén vigentes.
 
@@ -2322,7 +2358,7 @@ Si fueren intermediadas por corredores fuera de bolsa, éstos deberán informar 
 
 #### Artículo 217
 
-Las sociedades anónimas que hagan oferta pública de sus valores estarán autorizadas para registrar dichos valores en el extranjero, con el objeto de permitir su oferta, cotización y transacción en los mercados internacionales.
+Los emisores de valores de oferta pública estarán autorizados para registrar dichos valores en el extranjero, con el objeto de permitir su oferta, cotización y transacción en los mercados internacionales.
 
 #### Artículo 218
 
@@ -2338,191 +2374,221 @@ El depositario de los certificados representativos de los valores, votará en ju
 
 La infracción de las instrucciones o de la ausencia de las mismas, no invalidará el voto que se haya emitido, pero hará responsable al depositario de los perjuicios causados a los titulares de los certificados.
 
-## Título XXVII
+## Título XXVII — DE LAS ADMINISTRADORAS GENERALES DE FONDOS DEROGADO.
 
-DE LAS ADMINISTRADORAS GENERALES DE FONDOS
+#### Artículo 220°
 
-#### Artículo 220
+(DEROGADO)
 
-Se entenderá por Administradoras Generales de Fondos, en adelante administradoras, a aquellas sociedades anónimas especiales que se constituyan para la administración de fondos mutuos regidos por el decreto ley Nº 1.328 de 1976, fondos de inversión regidos por la ley Nº 18.815, fondos de inversión de capital extranjero regidos por la ley Nº 18.657, fondos para la vivienda regidos por la ley Nº 19.281 y cualquier otro tipo de fondo cuya fiscalización sea encomendada a la Superintendencia.
+#### Artículo 221°
 
-Estas administradoras podrán administrar uno o más tipos o especies de fondos de los referidos en este artículo, y realizar otras actividades complementarias que les autorice la Superintendencia.
+(DEROGADO)
 
-#### Artículo 221
+#### Artículo 222°
 
-La administración de los fondos se hará a nombre de cada uno de ellos, por cuenta y riesgo de sus aportantes o titulares de las cuotas o de las cuentas en su caso, de acuerdo con las características propias de cada uno, establecidas en las normas especiales que los rigen.
+(DEROGADO)
 
-#### Artículo 222
+#### Artículo 223°
 
-Las administradoras tendrán derecho a ser remuneradas por la administración de cada fondo, de acuerdo a lo que se establece en la ley especial que rige al fondo de que se trate.
+(DEROGADO)
 
-#### Artículo 223
+#### Artículo 224°
 
-Las administradoras estarán sujetas a las siguientes normas especiales:
+(DEROGADO)
 
-a) Se forman, existen y prueban de conformidad a lo establecido en el artículo 126 de la ley 18.046, siéndoles aplicables lo dispuesto en los artículos 127, 128 y 129 de la misma ley;
+#### Artículo 225°
 
-b) Su nombre deberá contener la frase
+(DEROGADO)
 
-"Administradora General de Fondos", no siendo necesario incluir en ella la alusión a cada tipo de fondo administrado;
+#### Artículo 226°
 
-c) Tendrán como objeto exclusivo las actividades a que se refiere el artículo 220 de esta ley;
+(DEROGADO)
 
-d) Su fiscalización corresponderá a la Superintendencia, la cual ejercerá esta función con las atribuciones y facultades que le otorga su Ley Orgánica, como asimismo, con las mismas atribuciones y facultades de que está investida para fiscalizar y sancionar a las sociedades anónimas abiertas, a las compañías de seguros y a las sociedades que administran exclusivamente alguno de los tipos de los fondos de su objeto; y
+#### Artículo 227°
 
-e) Les serán aplicables las disposiciones de esta ley, de la ley Nº 18.046 y las leyes especiales de cada uno de los fondos que administren, así como también aquellas disposiciones contenidas en los reglamentos de las leyes correspondientes. Además, se regirán por las normas que se establezcan en los reglamentos internos y contratos de administración de cada fondo que administren, según correspondiere, y por las instrucciones que, a su respecto, dicte la Superintendencia.
+(DEROGADO)
 
-Se reserva el uso de la expresión "Administradora General de Fondos", a aquellas sociedades que tienen como objeto exclusivo las actividades a que se refiere el artículo 220 de esta ley. En consecuencia, ninguna persona natural o jurídica que no se hubiere constituido conforme a las disposiciones de este Título, como Administradora General de Fondos, podrá arrogarse la calidad de tal, o utilizar este nombre en su razón social.
+#### Artículo 228°
 
-#### Artículo 224
+(DEROGADO)
 
-La responsabilidad por la función de administración es indelegable, sin perjuicio de que las administradoras puedan conferir poderes especiales o celebrar contratos por servicios externos para la ejecución de determinados actos, negocios o actividades necesarias para el cumplimiento del giro.
+#### Artículo 229°
 
-Cuando se trate de la contratación de servicios externos, en el reglamento interno o en el contrato de administración del fondo, según correspondiere, deberá constar claramente la facultad de la administradora para llevar a cabo dichos contratos. Asimismo, deberá señalarse en el reglamento interno o en el contrato de administración, en su caso, si los gastos derivados de las contrataciones serán de cargo de la administradora o del fondo de que se trate y, en este último caso, la forma y política de distribución de tales gastos. Sin embargo cuando dicha contratación consista en administración de cartera de recursos del fondo, los gastos derivados de estas contrataciones serán de cargo de la administradora.
+(DEROGADO)
 
-#### Artículo 225
+#### Artículo 230°
 
-Las administradoras, para obtener la autorización de su existencia, deberán comprobar ante la Superintendencia un capital pagado, en dinero efectivo, no inferior al equivalente a 10.000 unidades de fomento.
+(DEROGADO)
 
-En todo momento, estas sociedades deberán mantener un patrimonio, a lo menos, equivalente al indicado en el inciso anterior.
+#### Artículo 231°
 
-No obstante, si por cualquier causa se produjere una pérdida o variación que afectare el cumplimiento del requerimiento patrimonial antes referido, la administradora deberá informar de este hecho a la Superintendencia dentro de los 2 días hábiles siguientes de producido el mismo, y estará obligada a restablecer los déficit producidos dentro del plazo que fije la Superintendencia, el cual no podrá ser superior a 90 días, salvo que la Superintendencia prorrogue este plazo hasta por otros 90 días.
+(DEROGADO)
 
-El patrimonio de las administradoras se determinará en la forma que establezca la Superintendencia, mediante norma de carácter general.
+#### Artículo 232°
 
-#### Artículo 226
+(DEROGADO)
 
-Las administradoras deberán constituir una garantía en beneficio del fondo para asegurar el cumplimiento de sus obligaciones por la administración de fondos de terceros, previo al funcionamiento de cada fondo que administren y hasta su total extinción. Dicha garantía será por un monto inicial de 10.000 unidades de fomento, y podrá constituirse en dinero efectivo, boleta bancaria o póliza de seguro, en la forma y condiciones que establezca la Superintendencia, mediante norma de carácter general.
+#### Artículo 233°
 
-Sin perjuicio de lo anterior, el monto de la garantía deberá actualizarse anualmente, para cada fondo, de manera que dicho monto sea siempre equivalente, a lo menos, al indicado en el inciso anterior o al 1% del patrimonio promedio diario del fondo de que se trate, correspondiente al año calendario anterior a la fecha de su actualización, si este último resultare mayor.
+(DEROGADO)
 
-#### Artículo 227
+#### Artículo 234°
 
-Las administradoras deberán designar a un banco como representante de los beneficiarios de la garantía a que se refiere el artículo anterior, quien, a este respecto, sólo desempeñará las siguientes funciones:
+(DEROGADO)
 
-a) Si la garantía consistiere en depósitos de dinero, la entrega del dinero se hará al representante de los beneficiarios.
+#### Artículo 235°
 
-b) Si la garantía consistiere en boleta bancaria o póliza de seguros, el representante de los beneficiarios será el tenedor de los documentos justificativos de la misma. El banco o compañía de seguros otorgante, deberá pagar el valor exigido por tal representante a su simple requerimiento y hasta su monto garantizado.
+(DEROGADO)
 
-No obstante lo dispuesto en la letra b) precedente y sin que sea necesario acreditarlo a las entidades otorgantes, el representante de los beneficiarios de boletas de garantía, para hacerlas efectivas, deberá ser notificado judicialmente del hecho de haberse interpuesto demanda en contra de la administradora caucionada.
+#### Artículo 236°
 
-El dinero proveniente de la realización de la boleta bancaria quedará en prenda de pleno derecho en sustitución de esa garantía, manteniéndose en depósitos reajustables por el representante hasta que cese la obligación de mantener la garantía.
+(DEROGADO)
 
-#### Artículo 228
+#### Artículo 237°
 
-La Superintendencia dispondrá de un plazo de 30 días, contado desde la fecha de presentación de la solicitud y antecedentes respectivos para pronunciarse sobre ellos. Este plazo se suspenderá si la Superintendencia, mediante comunicación escrita, pidiere información adicional al peticionario o le solicitare modificar la petición o rectificar sus antecedentes por no ajustarse a las disposiciones legales, reglamentarias o administrativas vigentes, reanudándose tan solo cuando se haya cumplido dicho trámite.
+(DEROGADO)
 
-Subsanados los defectos o atendidas las observaciones formuladas en su caso, y vencido el plazo a que se refiere el inciso precedente, la Superintendencia aprobará el reglamento interno o los textos tipo de los contratos, según corresponda.
+#### Artículo 238°
 
-Con todo, transcurridos 60 días contados desde la presentación de la solicitud, el peticionario podrá solicitar que ésta se resuelva con los antecedentes que obran en poder de la Superintendencia. En tal circunstancia, la Superintendencia dentro de 5 días hábiles contados desde la petición referida, resolverá aprobando o rechazando la solicitud, en este último caso por resolución fundada. Si no se pronunciare dentro de este plazo, se entenderá rechazada la solicitud.
+(DEROGADO)
 
-#### Artículo 229
+## Título XXVIII
 
-Los directores y ejecutivos principales de la administradora deberán cumplir con los siguientes requisitos:
+DE LAS EMPRESAS DE AUDITORÍA EXTERNA
 
-a) Ser mayor de edad;
+#### Artículo 239
 
-b) Haber aprobado el cuarto año medio o acreditar estudios equivalentes;
+Para los efectos de esta ley, las empresas de auditoría externa son sociedades que, dirigidas por sus socios, prestan principalmente los siguientes servicios a los emisores de valores y demás personas sujetas a la fiscalización de la Comisión:
 
-c) No estar sometido a proceso o no haber sido condenado por los delitos establecidos en la presente ley o que merezcan pena aflictiva, y
+a) Examinan selectivamente los montos, respaldos y antecedentes que conforman la contabilidad y los estados financieros.
 
-d) No haber sido declarado en quiebra o no haber celebrado convenios judiciales o extrajudiciales con sus acreedores.
+b) Evalúan los principios de contabilidad utilizados y la consistencia de su aplicación con los estándares relevantes, así como las estimaciones significativas hechas por la administración.
 
-La Superintendencia, por norma de carácter general, establecerá los medios y la forma en que los interesados deberán acreditar las circunstancias enumeradas en el presente artículo y los antecedentes que con tal fin deberán acompañar.
+c) Emiten sus conclusiones respecto de la presentación general de la contabilidad y los estados financieros, indicando con un razonable grado de seguridad, si ellos están exentos de errores significativos y cumplen con los estándares relevantes en forma cabal, consistente y confiable.
 
-#### Artículo 230
+Las referencias hechas en esta u otras leyes a auditores externos inscritos en el registro de la Comisión o a expresiones similares, deberán entenderse efectuadas a las empresas de auditoría externa que se encuentren inscritas en el Registro de Empresas de Auditoría Externa que llevará la Comisión de conformidad con el presente Título, en adelante el "Registro".
 
-Las administradoras acreditarán ante la Superintendencia, previo al inicio de sus funciones, el fiel cumplimiento de todas las formalidades que para su constitución establece este Título y deberán tener aprobado un reglamento general de fondos; el reglamento interno para cada fondo y, en su caso, inscrito el contrato de administración de a lo menos un fondo, conjuntamente con el contrato de suscripción de cuotas y el facsímil de título de las mismas, cuando correspondiere.
+Toda empresa de auditoría externa podrá prestar sus servicios a los emisores de valores y a las sociedades anónimas abiertas y especiales, siempre que ella, los socios que suscriban los informes de auditoría, los encargados de dirigir la auditoría y todos los miembros del equipo de auditoría, tengan independencia de juicio respecto de la entidad auditada y cumplan con las disposiciones de este título.
 
-El reglamento general de fondos deberá a lo menos contener normas en relación a la forma y porcentaje de prorrateo de los gastos de administración entre los distintos fondos; la forma y proporción en que se liquidarán los excesos de inversión señalados en el artículo 232 de esta ley; la forma en que se resolverán los conflictos que pudieren producirse entre fondos de distinta naturaleza, sus participes o la administración de los mismos; los beneficios especiales de los partícipes de fondos en relación al rescate de cuotas y su inmediato aporte en otro fondo administrado por la misma administradora y cualquier otra mención que se determine.
+#### Artículo 240
 
-Para iniciar la administración de un nuevo fondo la Superintendencia deberá aprobar previamente el reglamento interno del mismo, el texto tipo del contrato de suscripción de cuotas, los facsímiles de los títulos de cuotas o inscriba el contrato de administración, según sea el tipo de fondo de que se trate; todo ello, en conformidad con las disposiciones contenidas en cada una de las leyes y reglamentos que los rigen.
+Las empresas de auditoría externa quedarán sometidas a la fiscalización de la Comisión en lo referido a los servicios de auditoría externa, los que sólo podrán prestar previa inscripción en el Registro y mientras se encuentren inscritas en él.
 
-#### Artículo 231
+La Comisión deberá efectuar la inscripción en el Registro una vez que la empresa de auditoría externa acredite el cumplimiento de los requisitos legales y de reglamentación interna.
 
-La contabilidad y registro de las operaciones de la administradora deberá llevarse separadamente de cada uno de los fondos que administre. Asimismo, las operaciones de cada fondo serán efectuadas por la administradora a nombre de aquél, el cual será el titular de los instrumentos representativos de las inversiones realizadas y de los bienes adquiridos, los que se registrarán y contabilizarán en forma separada de las operaciones realizadas por la administradora con sus recursos propios, y de las operaciones de otros fondos que administre.
+Las empresas de auditoría externa, al solicitar su inscripción en el Registro, deberán acompañar copia de su reglamento interno, en el que se establecerán, a lo menos, las siguientes materias relativas a la actividad de la empresa: (i) las normas de procedimiento, control y análisis de auditoría; (ii) las normas de confidencialidad, manejo de información privilegiada o reservada y la solución de conflictos de intereses, y (iii) las normas de independencia de juicio e idoneidad técnica del personal encargado de la dirección y ejecución de la auditoría externa. La Comisión, mediante norma de carácter general, podrá regular los contenidos esenciales de dichas normas, los estándares mínimos de idoneidad técnica y sus formas de acreditación.
 
-La sociedad administradora del fondo deberá encargar a una empresa de depósito de valores regulada por la ley Nº 18.876 el depósito de aquellos instrumentos que sean valores de oferta pública susceptibles de ser custodiados. La Superintendencia, mediante norma de carácter general, establecerá los títulos no susceptibles de ser custodiados por parte de las referidas empresas. Asimismo, podrá autorizar, en casos calificados, que todos o un porcentaje de los instrumentos del fondo sean mantenidos en depósito en otra institución autorizada por ley.
+La inscripción a que se refieren los incisos anteriores podrá ser cancelada cuando la Comisión así lo resuelva, mediante resolución fundada y previa audiencia de la empresa de auditoría externa afectada, por haber incurrido ésta en algunas de las siguientes situaciones:
 
-La Superintendencia establecerá, mediante norma de carácter general, la forma en que deberá llevarse la custodia y depósito, cuando se trate de valores extranjeros.
+a) Dejar de cumplir con alguno de los requisitos necesarios para la inscripción. La Comisión, en casos calificados, podrá otorgar al interesado un plazo para subsanar el incumplimiento, el que en ningún caso podrá exceder de 120 días.
 
-#### Artículo 232
+b) Dejar de desempeñar la función de auditoría externa, en los términos señalados en el artículo 239 de esta ley, por más de un año.
 
-En caso que una sociedad administre más de un tipo de fondo, las inversiones de éstos en acciones de sociedades anónimas abiertas y otras acciones inscritas en el Registro de Valores de la Superintendencia respectiva; en acciones de transacción bursátil, emitidas por sociedades o corporaciones extranjeras cuya emisión haya sido registrada como valor de oferta pública en el extranjero; en valores convertibles en acciones de una sociedad; en cuotas de fondos de inversión; en cuotas de fondos de inversión extranjeros cerrados; y en cuotas de fondos mutuos, consideradas en conjunto, no podrán permitir el control directo o indirecto del respectivo emisor.
+c) Encontrarse un socio en alguna de las situaciones señaladas en el artículo 241 y mantenerse en ella por más de noventa días.
 
-Los excesos de inversión que, en virtud del inciso anterior, se produzcan por causas ajenas a la administradora, deberán eliminarse dentro del plazo de tres años de originados. Si los excesos se debieran a causas imputables a la administradora, deberán eliminarse dentro de los seis meses siguientes de producidos, cuando los valores o instrumentos sean de transacción bursátil, o hasta dentro de doce meses, si los excesos correspondieran a valores o instrumentos que no la tengan.
+Además, dicha inscripción podrá ser cancelada o suspendida hasta por el plazo de un año en la misma forma señalada en el inciso anterior, cuando las empresas de auditoría externa sean responsables de:
 
-En caso que dos o más administradoras generales de fondos o especiales para un tipo de fondo, pertenezcan a un mismo grupo empresarial, las inversiones de los fondos administrados por éstas, en conjunto, deberán dar cumplimiento al requisito establecido en el inciso primero.
+a) Incurrir en infracciones graves o reiteradas a las obligaciones o prohibiciones que le imponen esta ley, sus normas complementarias u otras disposiciones que los rijan.
 
-En todo caso, las limitaciones legales de inversión deberán ser observadas para cada tipo de fondo en particular, de acuerdo con la ley y reglamentación especial que los rige.
+b) Realizar transacciones incompatibles con las sanas prácticas de los mercados de valores.
 
-#### Artículo 233
+#### Artículo 241
 
-Las administradoras podrán decidir la fusión, división o transformación de fondos, en la forma que se establezca en los respectivos reglamentos internos. En todo caso, deberá señalarse el quórum para dichos acuerdos y la forma en que se informará a los partícipes.
+No podrán ser socios de una empresa de auditoría:
 
-#### Artículo 234
+a) Quienes sean funcionarios o trabajadores bajo contrato de trabajo o a honorarios del Banco Central de Chile, de la Superintendencia y de las Superintendencias de Bancos e Instituciones Financieras y de Pensiones, así como quienes se encuentren afectos a las inhabilidades y prohibiciones establecidas en los artículos 35 y 36 de la ley Nº 18.046, exceptuando las labores docentes o académicas que puedan quedar incluidas en el N° 4 del citado artículo 35.
 
-La administradora deberá informar en forma veraz, suficiente y oportuna a los partícipes de los fondos y al público en general, sobre las características esenciales de los fondos que administra, considerando, la política de inversión de cada uno de ellos; mercado al cual están dirigidos; estructura de sus carteras de inversiones; evolución de la rentabilidad de sus cuotas; remuneración de la sociedad por su administración; estructura de comisiones y gastos de operación que se pueden atribuir al fondo; y sobre cualquier otro hecho relevante relacionado con la administración. Dicha información deberá ser difundida por los medios de comunicación que señale la Superintendencia, mediante norma de carácter general, señalándose claramente el tipo de fondo de que se trate.
+b) Quien haya sido sancionado grave o reiteradamente por la Superintendencia de conformidad al decreto ley Nº 3.538, de 1980, o al decreto con fuerza de ley Nº 251, del año 1931, del Ministerio de Hacienda; o condenado de conformidad a los artículos 59 a 61 de esta ley o al artículo 134 de la ley Nº 18.046;
 
-Asimismo, será obligación de la administradora divulgar oportunamente cualquier hecho o información esencial respecto de sí misma o de los fondos que administre, en los términos de los artículos 9º y 10 de la presente ley.
+c) Quien haya sido sancionado grave o reiteradamente por la Superintendencia de Bancos e Instituciones Financieras o por la Superintendencia de Pensiones.
 
-#### Artículo 235
+d) Quien, al tiempo de ejecutarse los hechos, fuera controlador o administrador de una persona jurídica sancionada de conformidad a las normas citadas en las letras b) y c) precedentes.
 
-La administradora deberá enviar a la Superintendencia, en las oportunidades que ésta determine, todos los datos que requiera para imponerse del estado de la administración de los fondos, de los ingresos producidos y las inversiones y gastos realizados; y, en general, de la forma en que cumple con las obligaciones estatutarias, legales, reglamentarias y las administrativas que les imparta.
+e) Los administradores de bancos e instituciones financieras, bolsas de valores, intermediarios de valores o de cualquier inversionista institucional y las personas que, directamente o a través de otras personas naturales o jurídicas, posean el 5% o más de su capital.
 
-#### Artículo 236
+#### Artículo 242
 
-Los directores de la administradora, sin perjuicio de las obligaciones señaladas en la Ley sobre Sociedades Anónimas, estarán obligados a velar por que:
+Las empresas de auditoría externa podrán desarrollar actividades distintas de las señaladas en el artículo 239, siempre que no comprometan su idoneidad técnica o independencia de juicio en la prestación de los servicios de auditoría externa, y previo cumplimiento de su reglamento interno.
 
-a) la administradora cumpla con lo dispuesto en el reglamento interno de cada fondo;
+Con todo, las empresas de auditoría externa no podrán prestar simultáneamente y respecto de una misma entidad de las indicadas en el inciso primero del artículo 239, servicios de auditoría externa y cualquiera de los servicios indicados a continuación:
 
-b) la información para los aportantes sea suficiente, veraz y oportuna;
+a) Auditoría interna.
 
-c) las inversiones, valorizaciones u operaciones de los fondos se realicen de acuerdo con este Título, con la ley especial que los rige, con su reglamento, con el reglamento interno correspondiente o el contrato, en su caso;
+b) Desarrollo o implementación de sistemas contables y de presentación de estados financieros.
 
-d) cada uno de los partícipes de un mismo fondo, reciban un trato igualitario, evitando que la administradora privilegie a unos sobre otros, y e) las operaciones y transacciones que se efectúen, sean sólo en el mejor interés del fondo de que se trate y en beneficio exclusivo de los partícipes del mismo.
+c) Teneduría de libros.
 
-Para dar cumplimiento a lo señalado en el inciso anterior, en las sesiones ordinarias de directorio, deberá dejarse constancia del tratamiento de las materias antes descritas y de los acuerdos adoptados.
+d) Tasaciones, valorizaciones y servicios actuariales que impliquen el cálculo, estimación o análisis de hechos o factores de incidencia económica que sirvan para la determinación de montos de reservas, activos u obligaciones y que conlleven un registro contable en los estados financieros de la entidad auditada.
 
-#### Artículo 237
+e) Asesoría para la colocación o intermediación de valores y agencia financiera. Para estos efectos, no se entenderán como asesoría aquellos servicios prestados por exigencia legal o regulatoria en relación con la información exigida para casos de oferta pública de valores.
 
-En las elecciones del directorio de las sociedades, cuyas acciones hayan sido adquiridas con recursos de los fondos de estas administradoras, éstas no podrán votar por las siguientes personas:
+f) Asesoría en la contratación y administración de personal y recursos humanos.
 
-a) Los accionistas que tengan el control de la sociedad o sus personas relacionadas;
+g) Patrocinio o representación de la entidad auditada en cualquier tipo de gestión administrativa o procedimiento judicial y arbitral, excepto en fiscalizaciones y juicios tributarios, siempre que la cuantía del conjunto de dichos procedimientos sea inmaterial de acuerdo a los criterios de auditoría generalmente aceptados. Los profesionales que realicen tales gestiones no podrán intervenir en la auditoría externa de la persona que defiendan o representen.
 
-b) Los accionistas de la administradora que posean el 10% o más de sus acciones, o sus personas relacionadas; y
+En las sociedades anónimas abiertas, solamente cuando así lo acuerde el directorio, previo informe del comité de directores, de haberlo, se permitirá la contratación de la empresa de auditoría externa para la prestación de servicios que, no estando incluidos en el listado anterior, no formen parte de la auditoría externa.
 
-c) Los directores o ejecutivos de la administradora, o de alguna sociedad del grupo empresarial a que ella pertenezca.
+#### Artículo 243
 
-Las administradoras podrán actuar concertadamente entre sí o con accionistas que no estén afectos a las restricciones contempladas en este artículo. No obstante lo anterior, no podrán realizar ninguna gestión que implique participar o tener injerencia en la administración de la sociedad en la cual hayan elegido uno o más directores.
+Se presume que carecen de independencia de juicio respecto de una sociedad auditada, las siguientes personas naturales que participen de la auditoría externa:
 
-Las prohibiciones contenidas en el inciso anterior y en las letras b) y c) del inciso primero de este artículo, no se aplicarán respecto de aquellas acciones de propiedad de fondos de inversión regidos por la ley N° 18.815 o de fondos de inversión de capital extranjero regidos por la ley N° 18.657
+a) Las relacionadas con la entidad auditada en los términos establecidos en el artículo 100.
 
-Sin perjuicio de lo establecido en la letra a) del inciso primero, las administradoras podrán votar por personas que se desempeñen como directores en una sociedad del grupo empresarial al que pertenezca la sociedad en la que se elige directorio, cuando las personas cumplan con lo siguiente:
+b) Las que tengan algún vínculo de subordinación o dependencia, o quienes presten servicios distintos de la auditoría externa a la entidad auditada o a cualquier otra de su grupo empresarial.
 
-a) Ser persona cuya única relación con el controlador del grupo empresarial, provenga de su participación en el directorio de una o más sociedades del mencionado grupo.
+c) Las que posean valores emitidos por la entidad auditada o por cualquier otra entidad de su grupo empresarial o valores cuyo precio o resultado dependa o esté condicionado, en todo o en parte significativa, a la variación o evolución del precio de dichos valores. Se considerará para los efectos de esta letra, los valores que posea el cónyuge y también las promesas, opciones y los que haya recibido éste en garantía.
 
-b) Que la persona no haya accedido a los directorios mencionados en la letra a), con el apoyo decisivo del controlador del grupo empresarial o de sus personas relacionadas.
+d) Los trabajadores de un intermediario de valores con contrato vigente de colocación de títulos de la entidad auditada y las personas relacionadas de aquél.
 
-Se entenderá que un director ha recibido apoyo decisivo del controlador cuando, al sustraer de su votación los votos provenientes de aquél o de sus personas relacionadas, no hubiese resultado electo.
+e) Las que tengan o hayan tenido durante los últimos doce meses una relación laboral o relación de negocios significativa con la entidad auditada o con alguna de las entidades de su grupo empresarial, distinta de la auditoría externa misma o de las otras actividades realizadas por la empresa de auditoría externa de conformidad con la presente ley.
 
-En caso que la persona elegida esté afecta a las restricciones de este artículo, o se inhabilitare por cualquier causa, cesará de pleno derecho en el cargo, debiendo asumir definitivamente el suplente si lo hubiere, o aquel reemplazante habilitado que designe el directorio.
+f) Los socios de la empresa de auditoría externa, cuando conduzcan la auditoría de la entidad por un período que exceda de 5 años consecutivos.
 
-#### Artículo 238
+#### Artículo 244
 
-Disuelta la administradora por revocación de la autorización de existencia o por cualquier otra causa, se procederá a su liquidación y a la de los fondos que administre, salvo lo dispuesto en el inciso sexto de este artículo.
+Se entenderá que una empresa de auditoría externa no tiene independencia de juicio respecto de una entidad auditada en los siguientes casos:
 
-La liquidación de la administradora será practicada por la Superintendencia, con todas las facultades que la ley Nº 18.046 le confiere a los liquidadores de las sociedades anónimas.
+a) Si tiene, directamente o a través de otras personas naturales o jurídicas, una significativa relación contractual o crediticia, activa o pasiva, con la entidad auditada o con alguna de las entidades de su grupo empresarial, distinta de la auditoría externa propiamente tal o de las demás actividades permitidas de conformidad al artículo 242.
 
-La liquidación de los fondos respectivos la practicará, también, la Superintendencia, actuando por cuenta y riesgo de los partícipes, aportantes o titulares de cuotas y en su exclusivo interés, estando investida de todas las facultades necesarias para la adecuada realización de los bienes del fondo.
+b) Si, en forma directa o a través de otras entidades, posee valores emitidos por la entidad auditada o por cualquier otra entidad de su grupo empresarial.
 
-Las liquidaciones serán practicadas por el Superintendente, por alguno de los funcionarios de su dependencia, o por medio de un delegado de él; siendo los gastos de liquidación, en todo caso, de cargo de la administradora.
+c) Si ha prestado directamente o a través de otras personas, cualquiera de los servicios prohibidos de conformidad a lo establecido por el artículo 242 en forma simultánea a la auditoría externa.
 
-Sin perjuicio de lo anterior, la Superintendencia podrá autorizar a la administradora para que practique su propia liquidación, o la de los fondos que administre.
+#### Artículo 245
 
-La Superintendencia, sea o no con ocasión de la disolución de la administradora, podrá autorizar el traspaso de la administración de los fondos a otra sociedad de igual giro o del giro exclusivo del respectivo fondo, en las condiciones que determine.
+En el evento que exista o sobrevenga una causal de falta de independencia de juicio de las que se describen en los artículos precedentes, la empresa de auditoría externa deberá informar de ello al directorio o al órgano de administración de la entidad auditada y no podrá prestar o continuar prestando sus servicios de auditoría externa, salvo en las siguientes circunstancias:
 
-Declarada la quiebra de una administradora, el Superintendente o la persona que lo reemplace, actuará como síndico con todas las facultades que al efecto confiere a los síndicos la ley Nº 18.175, en cuanto fueren compatibles con las disposiciones de este Título.
+a) En los casos del artículo 243, cuando las personas afectadas sean separadas del equipo de auditoría y se apliquen medidas correctivas que aseguren el reestablecimiento de la independencia de juicio respecto de la sociedad auditada, o
+
+b) En caso que sobrevenga alguna de las causales relativas a falta de independencia del artículo 244 y ésta no fuera subsanada dentro de los 30 días siguientes a dicho informe, la empresa de auditoría externa podrá seguir prestando los servicios contratados para el ejercicio en curso.
+
+#### Artículo 246
+
+A las empresas de auditoría externa les corresponde especialmente examinar y expresar su opinión profesional e independiente sobre la contabilidad, inventario, balance y otros estados financieros conforme a las Normas de Auditoría de General Aceptación y las instrucciones que imparta la Comisión, en su caso. Adicionalmente a lo señalado en el artículo 239, las empresas de auditoría externa deberán:
+
+a) Señalar a la administración de la entidad auditada y al comité de directores, en su caso, las deficiencias que se detecten dentro del desarrollo de la auditoría externa en la adopción y mantenimiento de prácticas contables, sistemas administrativos y de auditoría interna, identificar las discrepancias entre los criterios contables aplicados en los estados financieros y los criterios relevantes aplicados generalmente en la industria en que dicha entidad desarrolla su actividad, así como, en el cumplimiento de las obligaciones tributarias de la sociedad y la de sus filiales incluidas en la respectiva auditoría.
+
+b) Comunicar a los organismos supervisores pertinentes cualquier deficiencia grave a que se refiere el literal anterior y que, a juicio de la empresa auditora, no haya sido solucionada oportunamente por la administración de la entidad auditada, en cuanto pueda afectar la adecuada presentación de la posición financiera o de los resultados de las operaciones de la entidad auditada.
+
+c) Informar a la entidad auditada, dentro de los dos primeros meses de cada año, si los ingresos obtenidos de ella, por sí sola o junto a las demás entidades del grupo al que ella pertenece, cualquiera sea el concepto por el cual se hayan recibido tales ingresos, e incluyendo en dicho cálculo aquellos obtenidos a través de sus filiales y matriz, superan el 15% del total de ingresos operacionales de la empresa de auditoría externa correspondientes al año anterior. En el caso de las sociedades anónimas abiertas, tras dicho aviso, los servicios de auditoría externa sólo podrán ser renovados por la junta ordinaria de accionistas por dos tercios de las acciones con derecho a voto y así en todos los ejercicios siguientes, mientras los ingresos de la empresa de auditoría externa superen el porcentaje indicado.
+
+#### Artículo 247
+
+Sólo para los fines de la auditoría externa, la entidad auditada deberá poner a disposición de la empresa de auditoría externa toda la información necesaria para efectuar dicho servicio, incluyendo todos los libros, registros, documentos y antecedentes de la entidad y de sus filiales, en su caso.
+
+En caso que la información puesta a su disposición sea confidencial o sujeta a reserva, la empresa de auditoría externa deberá mantenerla en secreto y será responsable de la revelación o utilización impropia que sus dependientes hagan respecto de ella.
+
+#### Artículo 248
+
+Toda opinión, certificación, informe o dictamen de la empresa de auditoría externa deberá fundarse en técnicas y procedimientos de auditoría que otorguen un grado razonable de confiabilidad, proporcionen elementos de juicio suficientes, y su contenido sea veraz, completo y objetivo.
+
+La empresa de auditoría externa deberá mantener, por a lo menos seis años contados desde la fecha de la emisión de tales opiniones, certificaciones, informes o dictámenes, todos los antecedentes que le sirvieron de base para su elaboración. La Comisión, mediante una norma de carácter general, podrá establecer medios y condiciones de archivo y custodia de tales antecedentes. En ningún caso podrán destruirse los documentos que digan relación directa o indirecta con alguna controversia o litigio pendiente.
+
+El informe de auditoría externa de las entidades domiciliadas en Chile deberá ser suscrito a lo menos por el socio con domicilio y residencia en Chile que condujo la auditoría. Cuando sean citados, cualquiera que haya firmado los informes de auditoría deberá concurrir a las juntas de accionistas para responder las consultas que se le formulen respecto de su informe y respecto de las actividades, procedimientos, constataciones, recomendaciones y conclusiones, que sean pertinentes. La Comisión podrá autorizar mecanismos que permitan cumplir la obligación antedicha por medios de comunicación que garanticen la fidelidad y simultaneidad de sus opiniones.
+
+#### Artículo 249
+
+Las empresas de auditoría externa, en la prestación de sus servicios de auditoría externa, y las personas que en su nombre participen en dicha auditoría, responderán hasta de la culpa leve por los perjuicios que causaren.
 
 DISPOSICIONES TRANSITORIAS
 

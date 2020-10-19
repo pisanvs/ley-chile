@@ -68,7 +68,13 @@ k) SUPRIMIDO.
 
 #### Artículo 2°
 
-DEROGADO.
+Las compañías no podrán efectuar disminuciones de capital ni distribuir dividendos si con ello dejan de cumplir los requerimientos patrimoniales y de solvencia establecidos en los artículos 1° y 15 de esta ley. De igual manera, no podrán efectuar disminuciones de capital las compañías que presenten una razón de fortaleza patrimonial, definido como patrimonio sobre el patrimonio de riesgo requerido, inferior a 1,2 veces. La distribución de dividendos se sujetará a las siguientes reglas:
+
+a) Si la razón de fortaleza patrimonial fuere mayor o igual a 1,1 veces y menor a 1,2 veces, la compañía podrá repartir como máximo el 50% de las utilidades.
+
+b) Si la razón de fortaleza patrimonial fuere menor a 1,1 veces, la compañía no podrá repartir dividendos.
+
+Esta disposición predominará sobre cualquier otra establecida a este respecto, incluida la del artículo 79 de la ley N° 18.046.
 
 ## Título I
 
@@ -246,13 +252,11 @@ DEROGADO.
 
 El límite máximo de endeudamiento total en relación al patrimonio de las compañías del primer grupo no podrá ser superior a 5 veces. Asimismo, para las compañías del segundo grupo, dicho límite será igual a 15 veces.
 
-Sin embargo, la Superintendencia mediante normas de aplicación general sólo podrá establecer límites de endeudamiento total en relación al patrimonio, superiores a los del inciso anterior para las compañías del segundo grupo, cuando exista razón fundada para ello, condicionado a que cada modificación esté vigente durante al menos un año y que dicho cambio no sea superior a una vez el patrimonio. Con todo, la relación máxima de endeudamiento total para las compañías del segundo grupo no podrá exceder de 20 veces el patrimonio.
+Sin embargo, la Comisión para el Mercado Financiero mediante normas de aplicación general sólo podrá establecer límites de endeudamiento total en relación al patrimonio, superiores a los del inciso anterior para las compañías del segundo grupo, cuando exista razón fundada para ello, condicionado a que cada modificación esté vigente durante al menos un año y que dicho cambio no sea superior a una vez el patrimonio. Con todo, la relación máxima de endeudamiento total para las compañías del segundo grupo no podrá exceder de 20 veces el patrimonio.
 
-Para las compañías de uno u otro grupo, el total de las deudas contraídas con terceros, que no generen reservas técnicas de seguros, en ningún caso podrá exceder de una vez el patrimonio.
+Para las compañías de uno u otro grupo, el total de las deudas contraídas con terceros, que no generen reservas técnicas de seguros, en ningún caso podrá exceder de 1,5 veces el patrimonio. El rango de posibles valores que podrá tomar dicho endeudamiento será fijado por la Comisión para el Mercado Financiero, mediante norma de carácter general. En todo caso, el límite que se fije no podrá ser inferior a una vez el patrimonio. La mencionada norma establecerá las bases técnicas para la medición del endeudamiento en las aseguradoras, para efectos de la aplicación de este límite. En tanto no se emita la norma, el límite será de 1 vez el patrimonio.
 
 La reserva de valor del fondo, señalada en el Nº 6. del artículo 20, estará sujeta a un límite de endeudamiento total equivalente a siete veces el límite referido en el inciso primero.
-
-> **Nota.** La referencia a la "Superintendencia" debe entenderse hecha a la "Comisión para el Mercado Financiero", en conformidad con lo dispuesto en el artículo 67 de la ley 21000 publicada el 23.02.2017
 
 #### Artículo 16
 
@@ -442,7 +446,7 @@ g) Crédito no vencido por prima devengada otorgado a las compañías cedentes d
 
 Las inversiones señaladas precedentemente, para ser representativas de reservas técnicas y patrimonio de riesgo, deberán cumplir los siguientes requisitos:
 
-1. Los instrumentos de la letra b) del Nº 1 deberán encontrarse clasificados, de conformidad a lo dispuesto en la ley Nº 18.045, en al menos categoría de riesgo BBB o N-3, según corresponda a instrumentos de largo o corto plazo, respectivamente;
+1. Los instrumentos de la letra b) del Nº 1 deberán encontrarse clasificados, de conformidad a lo dispuesto en la ley Nº 18.045, según lo establezca la Comisión para el Mercado Financiero, de acuerdo a norma de carácter general;
 
 2. Los instrumentos de las letras
 
@@ -478,7 +482,7 @@ La inversión en los distintos tipos de instrumentos o activos representativos d
 
 a) Entre un 5% y un 10% del total para los bonos sin plazo fijo de vencimiento contemplados en la letra b) del artículo 21;
 
-b) 5% del total, para la suma de la inversión en los instrumentos de la letra c) del Nº 1, que no se encuentren inscritos en el Registro de Valores de la Superintendencia, o que estando inscritos, no cuenten con clasificación de riesgo conforme a la ley Nº 18.045, o ésta sea inferior a BBB o N-3, según corresponda. Se exceptuarán de este límite, aquellos instrumentos emitidos por empresas nacionales, fuera del país, que cuenten con clasificación de riesgo internacional igual o superior a BBB;
+b) 5% del total, para la suma de la inversión en los instrumentos de la letra c) del Nº 1, que no se encuentren inscritos en el Registro de Valores de la Comisión para el Mercado Financiero, o que, estando inscritos, no cuenten con clasificación de riesgo conforme a la ley Nº 18.045, o que esta clasificación de riesgo sea inferior a la que defina la Comisión para el Mercado Financiero, de acuerdo a norma de carácter general. Se exceptuarán de este límite, aquellos instrumentos emitidos por empresas nacionales, fuera del país, que cuenten con clasificación de riesgo internacional igual o superior a BBB. No obstante lo anterior, la Comisión para el Mercado Financiero podrá excluir de este límite a ciertos instrumentos que no se encuentren inscritos en el mencionado Registro, siempre que éstos cumplan con las condiciones que para este propósito aquélla establezca por una norma de carácter general;
 
 c) entre un 3% y un 5% del total, según lo establezca la Superintendencia por norma de carácter general, para la suma de la inversión en los instrumentos de la letra d) del Nº 1;
 
@@ -494,7 +498,7 @@ h) 10% del total, en aquellos fondos de inversión de la letra c) del Nº2;
 
 i) Derogado.
 
-j) 5% del total, para la suma de la inversión en los instrumentos de las letras a) y b) del Nº3, que presenten clasificación de riesgo internacional, inferior a BBB o N-3, o su equivalente según corresponda a instrumentos de largo y corto plazo, respectivamente;
+j) 5% del total, para la suma de la inversión en los instrumentos de las letras a) y b) del Nº 3, que presenten una clasificación de riesgo internacional que sea inferior a la que defina la Comisión para el Mercado Financiero, de acuerdo a norma de carácter general;
 
 k) Para la suma de la inversión en instrumentos de las letras c), d) y e) del Nº 3, la Superintendencia, mediante norma de carácter general, establecerá los porcentajes máximos posibles de invertir. No obstante, el porcentaje máximo de inversión para los instrumentos antes mencionados no podrá ser inferior al diez por ciento de las reservas técnicas y patrimonio de riesgo de las compañías;
 
@@ -510,7 +514,7 @@ a) 25% del total, para la suma de la inversión en aquellos instrumentos compren
 
 - **b)** y
 
-- **c)** del Nº1, que presenten clasificación de riesgo igual o inferior a BBB o N-3, según corresponda a instrumentos de largo y corto plazo, o que, en el caso de instrumentos de la letra
+- **c)** del Nº 1, que presenten una clasificación de riesgo que sea inferior a la que defina la Comisión para el Mercado Financiero, de acuerdo a norma de carácter general, o que, en el caso de instrumentos de la letra
 
 - **c)** del Nº 1, no presenten clasificación de riesgo;
 
@@ -618,9 +622,7 @@ Tratándose de seguros con cuenta de inversión, la Superintendencia podrá ampl
 
 #### Artículo 24 bis
 
-Si una inversión representativa de reservas técnicas o de patrimonio de riesgo o un conjunto de ellas sobrepasaren alguno de los límites de diversificación establecidos en esta ley, el exceso no será aceptado como respaldo de dichas reservas ni del patrimonio de riesgo. Tampoco serán aceptadas aquellas inversiones que dejaren de cumplir los requisitos señalados en esta ley para ser representativas de reservas técnicas. Sin embargo, si tal hecho se produjere exclusivamente por un cambio de clasificación de riesgo, las inversiones afectadas podrán seguir respaldando reservas técnicas y patrimonio de riesgo por un plazo no superior a seis meses a contar de la fecha del cambio. Sin embargo, el 50% de ellas podrá seguir sirviendo de respaldo por un período adicional de seis meses. En caso de adquirir nuevos instrumentos de éstos durante dicho período, la compañía no podrá usarlos para respaldar sus reservas técnicas y patrimonio de riesgo.
-
-INCISO DEROGADO.
+Si una inversión representativa de reservas técnicas o de patrimonio de riesgo o un conjunto de ellas sobrepasaren alguno de los límites de diversificación establecidos en esta ley, el exceso no será aceptado como respaldo de dichas reservas ni del patrimonio de riesgo. Tampoco serán aceptadas aquellas inversiones que dejaren de cumplir los requisitos señalados en esta ley para ser representativas de reservas técnicas y patrimonio de riesgo. Sin embargo, si el exceso por sobre alguno de los límites de diversificación o la pérdida de representatividad, se produjeren por causas no imputables a la compañía, el exceso o las inversiones afectadas, podrán seguir respaldando las reservas técnicas y el patrimonio de riesgo, por un plazo no superior a seis meses, a contar de la fecha en que se produjo el exceso o el cambio en la clasificación de riesgo, según corresponda. Dicho plazo podrá prorrogarse una sola vez, por un plazo máximo de seis meses, por resolución fundada de la Comisión para el Mercado Financiero. Transcurrido el plazo original o la prórroga, según sea el caso, el exceso o las inversiones afectadas no serán aceptadas como respaldo de reservas técnicas ni de patrimonio de riesgo. Si el exceso de inversión es imputable a la compañía, dicho exceso no será aceptado como respaldo de reservas técnicas ni de patrimonio de riesgo. De igual manera, en caso de adquirir la compañía nuevos instrumentos que no cumplan con el requisito de clasificación de riesgo durante dicho período, la compañía no podrá usarlos para respaldar sus reservas técnicas y patrimonio de riesgo. Lo anterior, es sin perjuicio de las sanciones que por dichos incumplimientos la Comisión para el Mercado Financiero pudiere aplicar.
 
 #### Artículo 25
 
