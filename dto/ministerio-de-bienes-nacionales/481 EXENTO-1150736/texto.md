@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DEL BIOBÍO, A LA "JUNTA DE VECINOS Nº 5 POBLACIÓN SANTA MARÍA DE GUADALUPE, SECTOR Nº 1, POLVORÍN"
+
+Mediante decreto exento Nº E-481 de 1 de octubre de 2020, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "Junta de Vecinos Nº 5 Población Santa María de Guadalupe, Sector Nº 1, Polvorín", RUT Nº 65.797.030-1, el inmueble fiscal correspondiente al Lote 50 de la manzana R.F., ubicado en calle Til Til Nº 1161, Población Santa María de Guadalupe (ex Sector Polvorín 1), Lota Alto, comuna de Lota, provincia de Concepción, Región del Biobío; enrolado en el Servicio de Impuestos Internos con el Nº 599-3; inscrito en mayor cabida a nombre del Fisco que rola a fs. 287 Nº 322, del Registro de Propiedad del Conservador de Bienes Raíces de Lota, correspondiente al año 1999; singularizado en el Plano Nº 08106-3429-C.U.; con una superficie de 282,72 m2. La Concesión se otorga por un plazo de 8 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble para continuar con el funcionamiento de la Sede Social de la Junta de Vecinos Nº 5 de la Población Santa María de Guadalupe, Sector Nº 1, Polvorín y realizar el cierre perimetral del inmueble. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza Extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
