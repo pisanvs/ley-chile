@@ -48,13 +48,29 @@ Considerando:
 
 Resuelvo:
 
-1. Reintégrense los montos cobrados por concepto de derecho de remate a los titulares de las pólizas liquidadas entre el 1 de marzo de 2020 y el 9 de septiembre de 2020, en consecuencia a la suspensión de remates señaladas en los considerando 6º, 7º, 8º, 9º, 10º y 11º de la presente resolución.
+1. Reintégrense los montos cobrados por concepto de derecho de remate a los titulares de las pólizas liquidadas entre el 1 de marzo de 2020 y el 9 de septiembre de 2020, en consecuencia, a la suspensión de remates señaladas en los considerandos 6º, 7º, 8º, 9º, 10º y 11º de la presente resolución, correspondiente a un monto de $145.642.802, según el siguiente detalle:
 
-2. Téngase presente que la devolución de los montos indicados en el considerando anterior, será realizada a través del depósito masivo en la Cuenta Rut de cada usuario al cual le fue cobrado el derecho de remate entre el 1 de marzo de 2020 y el 9 de septiembre de 2020, la cual será realizada el día 8 de octubre de 2020.
+2. Téngase presente que la devolución de los montos indicados en el considerando anterior, será realizada mediante carga masiva, mediante el depósito a través de transferencia electrónica en la Cuenta Bancaria de cada usuario al cual le fue cobrado el derecho de remate entre el 1 de marzo de 2020 y el 9 de septiembre de 2020, la cual será realizada el día 8 de octubre de 2020.
 
-3. Téngase presente que para los casos en los cuales no fuese posible realizar el depósito de los montos indicados en el considerando 1) mediante la carga masiva señalada en el considerando anterior, Dicrep dispondrá del pago de manera presencial de los montos señalados en la unidad de crédito donde cada usuario realizó la liquidación del crédito.
+3. Téngase presente que para los casos en los cuales no fuese posible realizar el depósito por transferencia electrónica en la cuenta bancaria del usuario por carga masiva, la Dicrep dispondrá en la página web del Servicio http://www.dipres.cl una aplicación web para que los usuarios consulten el estado de la devolución. Los usuarios que tengan su devolución rechazada, podrán ingresar en la misma aplicación su cuenta bancaria personal para que la Dicrep efectúe la devolución mediante transferencia electrónica.
 
-4. Téngase presente que la Dirección General del Crédito Prendario Dicrep, habilitará un Banner especial en su web institucional www.dicrep.cl, donde cada usuario podrá consultar sobre el monto correspondiente a la devolución, el estado en el cual se encuentra, y en los casos que corresponda el ingreso de datos personales para la gestión del reintegro indicado.
+En el caso que sea rechazada dicha transferencia electrónica, el usuario podrá solicitar la devolución por caja en la Unidad de Crédito respectiva.
+
+4. Déjase establecido que, para efecto del control y seguimiento de la devolución del derecho de remate realizada por el Departamento de Crédito, los Departamentos, Subdepartamentos y Unidades de Crédito deberán realizar lo siguiente:
+
+° El Sub Departamento Informática deberá remitir planilla en el formato definido por el Banco Estado al Departamento de Contabilidad para que éste efectúe la carga masiva en el Banco Estado de manera que se realice el pago mediante transferencia electrónica.
+
+° El Departamento de Contabilidad, remitirá reporte recibido del Banco Estado al Sub Departamento de Informática con copia al Departamento de Crédito, con la información de las devoluciones realizadas y rechazados por transferencia electrónica.
+
+° El Departamento de Contabilidad diariamente deberá bajar archivo txt y Excel en módulo del OCP para efectuar carga masiva de las solicitudes de devolución, para efecto de cagarla y efectuar la devolución por transferencia electrónica en el Banco Estado. Durante el proceso de carga masiva, deberá estar bloqueado cualquiera opción y requerimiento de devolución, mientras no se actualice la información del estado de devolución.
+
+° El Departamento de Contabilidad, remitirá reporte recibido del Banco Estado al Sub Departamento de Informática con copia al Departamento de Crédito, con la información de las devoluciones realizadas y rechazadas por transferencia electrónica.
+
+° El Sub Departamento Informática deberá mantener actualizado con la información de las devoluciones realizadas y rechazadas asociadas a transferencias electrónicas proporcionada por el Departamento de Contabilidad, el cual debe estar disponible permanentemente para consulta del Departamento de Crédito, los Administradores, los Contadores y Cajeros de las Unidades de Crédito.
+
+° Para el caso que la devolución al usuario se realice por la caja de la Unidad de Crédito, este deberá solicitar comprobante en la OIRS de la Unidad de Crédito, para posteriormente, solicite y se efectué por caja, la devolución en dinero en efectivo, debiendo registrar el cajero dicha operación en el OCP como pagada.
+
+° Diariamente el cajero, realizará cuadratura de caja con la información extraída del OCP..
 
 5. Déjase establecido que será el Departamento de Contabilidad de la Dirección General del Crédito Prendario, quien estará a cargo de la formulación, diseño y control del procedimiento que permita la devolución de los montos señalados en el considerando anterior a los usuarios que corresponda.
 
