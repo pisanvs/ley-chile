@@ -2692,6 +2692,20 @@ Respecto de la calificación, la Comisión (ERDA) podrá mantener o rectificar l
 
 Una vez emitida el acta por la Comisión (ERDA), la Autoridad competente sancionará la liquidación anticipada del contrato".
 
+#### Artículo 13
+
+Durante los años 2020, 2021 y 2022, las Direcciones podrán autorizar en las Bases Administrativas, la subcontratación de hasta un 50% de las obras con subcontratistas inscritos o no inscritos en el Registro de Contratistas de Obras Públicas. Asimismo, podrán autorizar la participación de contratistas inscritos en la categoría inmediatamente inferior a aquella requerida según el valor de la obra.
+
+Además, para este periodo, en las Bases Administrativas se podrán establecer los siguientes plazos mínimos entre la publicación del llamado y la apertura de las propuestas, según el valor estimado de la obra:
+
+I.- De un costo total estimado menor a 1.000 UTM: 10 días.
+
+II.- De un costo total estimado entre 1.000 y menos de 20.000 UTM: 15 días.
+
+III.- De un costo total estimado entre 20.000 y 80.000 UTM: 25 días.
+
+IV.- De un costo total estimado mayor a 80.000 UTM: 35 días.
+
 Anótese, tómese razón, publíquese e insértese en la recopilación oficial de la Contraloría General de la República.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Javier Etcheberry Celhay, Ministro de Obras Públicas.
 
 Lo que transcribo a Ud., para su conocimiento.- Saluda atentamente a Ud., Clemente Pérez Errazúriz, Subsecretario de Obras Públicas.
