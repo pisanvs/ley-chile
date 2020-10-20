@@ -62,13 +62,13 @@ Los encargados del orden público se constituirán en los recintos de votación 
 
 Para el cumplimiento de la función de mantener el orden público, los efectivos de las Fuerzas Armadas estarán a lo dispuesto en el decreto supremo Nº 285, de 24 de septiembre de 2020, del Ministerio de Defensa Nacional, que "Imparte Normas de Comportamiento para las Fuerzas Armadas en Plebiscitos y Procesos Eleccionarios" y Carabineros de Chile observará lo establecido en la circular Nº 1.832, de 2019, de la Dirección General de Carabineros, sobre "Uso de Fuerza: Actualiza instrucciones al respecto" y en la Orden General Nº 2.635, de 2019 y Orden General Nº 2.780, de 2020, ambas de la Dirección General de Carabineros, sobre "Protocolos para el mantenimiento del orden público".
 
-a. Funcionamiento sedes de las organizaciones comunitarias de carácter territorial y funcional de la comuna:
+a) Funcionamiento de las sedes:
 
-Sólo podrán funcionar las sedes de las organizaciones comunitarias de carácter territorial y funcional de la comuna, declaradas con a lo menos quince días de anticipación al plebiscito, esto es al día 10 de octubre de 2020 (artículo 167, Ley Nº 18.700), y únicamente para efectos de realizar las actividades indicadas en el numeral 3 siguiente. Por ende, las sedes oficiales de los partidos políticos y aquellas sedes de las organizaciones comunitarias de carácter territorial y funcional de la comuna, no declaradas, no podrán funcionar el día del plebiscito.
+Sólo podrán funcionar las sedes de partidos políticos, parlamentarios independientes, y las organizaciones de la sociedad civil, declaradas con a lo menos quince días de anticipación al plebiscito, esto es, el 10 de octubre de 2020 (artículo 167, Nº 18.700), y únicamente para las actividades indicadas en la letra c) siguiente. Por ende, las sedes de partidos políticos, parlamentarios independientes, y las organizaciones de la sociedad civil, no declaradas, no podrán funcionar el día del plebiscito.
 
-El Ministerio Público y los Jefes de Fuerza podrán inspeccionar dichas sedes, declaradas según lo dispuesto en el artículo 167 de la Ley Nº 18.700, con fin de establecer si en ellas se practicare el cohecho de electores, si existieren armas o explosivos o se realizaren actividades de propaganda. Deberán llevar a cabo iguales investigaciones en cualquier lugar en que se denuncie la práctica de cohecho, encierro de electores o actividades de propaganda electoral (artículo 129 de la Ley Nº 18.700).
+El Ministerio Público y los Jefes de Fuerza podrán inspeccionar dichas sedes, declaradas según lo dispuesto en el artículo 167 de la ley Nº 18.700, con el fin de establecer si en ellas se practicare el cohecho de electores, si existieren armas o explosivos o se realizaren actividades de propaganda. Deberán llevar a cabo iguales investigaciones en cualquier lugar en que se denuncie la práctica de cohecho, encierro de electores o actividades de propaganda electoral (artículo 129 de la ley Nº 18.700).
 
-Comprobada la comisión o preparación de alguna de esas infracciones, el juez de garantía, a requerimiento del fiscal, dispondrá la clausura del local. En tales casos, se incautarán los elementos destinados a las referidas actividades (artículo 129 de la Ley Nº 18.700).
+Comprobada la comisión o preparación de alguna de esas infracciones, el juez de garantía, a requerimiento del fiscal, dispondrá la clausura del local. En tales casos, se incautarán los elementos destinados a las referidas actividades (artículo 129 de la ley Nº 18.700).
 
 b. Las sedes declaradas deberán situarse a una distancia no inferior a doscientos metros de los locales en que funcionaren Mesas Receptoras de Sufragios (artículo 167, Ley Nº 18.700):
 
@@ -86,11 +86,11 @@ ii. Seguir los escrutinios conforme al artículo 185 de la Ley Nº 18.700.
 
 En ningún caso podrán las sedes indicadas realizar propaganda electoral o política, atender electores en el día del plebiscito o realizar reuniones de carácter político antes del cierre de las mesas de votación.
 
-c. Secretarías u oficinas de propaganda de las organizaciones comunitarias de carácter territorial y funcional de la comuna:
+c) Secretarías u oficinas de propaganda:
 
-Cualquier local público o privado en el cual se realicen actividades de propaganda electoral o se desarrollen reuniones de esa naturaleza, permanecerán cerradas durante el período comprendido entre las 00:00 horas del segundo día anterior al acto electoral, esto es, del día viernes 23 de octubre de 2020, hasta cuatro horas después de haberse cerrado la votación en las Mesas Receptoras de Sufragios; salvo aquellas en que se realice alguna de las actividades indicadas en el artículo 168 de la Ley Nº 18.700 (artículo 127, Ley Nº 18.700).
+Cualquier local público o privado en el cual se realicen actividades de propaganda electoral o se desarrollen reuniones de esa naturaleza, permanecerán cerrados durante el periodo comprendido entre las 00:00 horas del segundo día anterior al acto electoral, esto es, del día viernes 23 de octubre de 2020, hasta cuatro horas después de haberse cerrado la votación en las Mesas Receptoras de Sufragios; salvo aquellas en que se realice alguna de las actividades indicadas en el artículo 168 de la ley Nº 18.700 (artículo 127, ley Nº 18.700).
 
-El Jefe de Fuerza encargado del orden público, clausurará cualquier local público o privado que se destinare a este fin en el período señalado en el numeral anterior, debiendo incautarse el material encontrado, el que se pondrá, junto con el acta respectiva, a disposición del Ministerio Público (artículos 127 y 129, Ley Nº 18.700).
+El Jefe de Fuerza encargado del orden público, clausurará cualquier local público o privado que se destinare a este fin en el período señalado en el numeral anterior, debiendo incautarse el material encontrado, el que se pondrá, junto con el acta respectiva, a disposición del Ministerio Público (artículos 127 y 129, ley Nº 18.700).
 
 d. Establecimientos comerciales que expenden bebidas alcohólicas:
 
@@ -232,29 +232,35 @@ p. Independencia e inviolabilidad:
 
 Las Juntas Electorales, las Mesas Receptoras y los Colegios Escrutadores obrarán con entera independencia de cualquiera otra autoridad; sus miembros son inviolables y no obedecerán órdenes que les impidan ejercer sus funciones. Sin embargo, estarán sujetos a la fiscalización del Servicio Electoral, para lo cual deberán ceñirse, en el cumplimiento de sus funciones, a las instrucciones sobre procedimiento que dicho Servicio imparta (artículo 164, Ley Nº 18.700).
 
-q. De los apoderados:
+q) De los Apoderados:
 
-Solo las organizaciones comunitarias de carácter funcional y territorial de la comuna, podrán designar apoderados con derecho a voz, pero sin voto, para que asistan a las actuaciones que establece la Ley Nº 18.700, de las respectivas Juntas Electorales, Mesas Receptoras de Sufragios, Colegios Escrutadores, Oficinas Electorales que funcionen en los locales de votación, Tribunales Electorales Regionales y Tribunal Calificador de Elecciones.
+Los partidos políticos y parlamentarios independientes, y las organizaciones de la sociedad civil, podrán designar un apoderado con derecho a voz, pero sin voto, para que asista a las actuaciones que establece la ley Nº 18.700, de las respectivas Juntas Electorales, Mesas Receptoras de Sufragios, Colegios Escrutadores, Oficinas Electorales que funcionen en los locales de votación, Tribunales Electorales Regionales y Tribunal Calificador de Elecciones.
 
-Los apoderados en los plebiscitos comunales serán designados por sorteo en representación de las diversas posiciones, por las organizaciones comunitarias de carácter territorial y funcional inscritas en el registro a que se refiere el artículo 170 de la Ley Nº 18.700, y de las actividades relevantes de cada comuna, que se encuentren inscritas en el registro respectivo de cada municipalidad. Sólo se admitirá en cada mesa un apoderado por cada posición (artículo 170, Ley Nº 18.700).
+Los apoderados en los plebiscitos nacionales que se desempeñen como apoderados generales de local, titular o suplente, ante las Juntas Electorales, Colegios Escrutadores, Tribunales Electorales y Tribunal Calificador de Elecciones, serán nombrados a través de un poder autorizado ante notario que se les otorgue por los encargados electorales referidos en el artículo 10 de la ley Nº 18.700.
 
-Visto lo anterior, se adoptarán las siguientes medidas:
+Los Presidentes y/o Secretarios Generales de los Partidos, el parlamentario independiente que corresponda, y el representante de las organizaciones de la sociedad civil podrán declarar en las Direcciones Regionales del Servel un encargado regional titular y un suplente, hasta el día 22 de octubre de 2020, conforme lo dispone el artículo 10 de la ley Nº 18.700, que tendrá por finalidad designar al apoderado general que oficiará también como tal ante la Oficina Electoral en el respectivo local de votación.
+
+Cabe hacer presente que los nombramientos de apoderados que corresponden a los encargados electorales del artículo 10, serán efectuados por el presidente y el secretario del órgano intermedio colegiado regional del partido o por el parlamentario independiente, en su caso.
+
+En el caso de los apoderados de mesa y los apoderados ante la oficina electoral del local de votación, servirá de título suficiente un poder simple otorgado por un apoderado general, sea titular o suplente, que esté presente en el local de votación.
+
+También podrá designarse un apoderado general titular y uno suplente por cada recinto en que funcionaren mesas receptoras de sufragios, para la atención de los apoderados de mesas.
+
+Visto lo anterior, y en atención a las medidas sanitarias dispuestas en el Protocolo Sanitario Servel, se adoptarán las siguientes medidas:
 
 - Sólo podrá asistir un máximo de 4 apoderados, uno por opción, a las actuaciones de cada Mesa Receptora de Sufragios.
 
 - Sólo podrá asistir un apoderado por cada comando y partidos políticos, parlamentarios independientes y organizaciones de la sociedad civil debidamente inscritas que no concurran en comandos, a presenciar las actuaciones de las Juntas Electorales y de los Colegios Escrutadores.
 
-- En sus actuaciones los apoderados deberán dar estricto cumplimiento a las medidas sanitarias dispuestas en este Protocolo Sanitario de Servel.
+- En sus actuaciones los apoderados deberán dar estricto cumplimiento a las medidas sanitarias dispuestas por el Ministerio de Salud y el Protocolo Sanitario de Servel, referido.
 
-También podrá designarse un Apoderado General por cada recinto en que funcionarán Mesas Receptoras de Sufragios, para la atención de los Apoderados de Mesa.
+Los apoderados generales de local, de mesa y ante la oficina electoral del local, se identificarán con una credencial durante el día del plebiscito, que señale al candidato o partido que representan y que deberán portar a la vista, en el pecho. Podrán también contar con una carpeta para guardar su material de trabajo.
 
-Los Apoderados se identificarán con una credencial que señale la categoría del apoderado, nombre del local, de la organización que representa, nombre y RUN del apoderado y la firma del apoderado general del Local de votación, y que deberán portar a la vista en el pecho, todo ello de conformidad con la resolución Nº 418, de fecha 4 de septiembre de 2019, del Servicio Electoral.
+Los apoderados tendrán derecho a instalarse en los locales de votación o a una distancia de un metro y medio de los miembros de las Mesas Receptoras, en las Juntas Electorales, Colegios Escrutadores u Oficinas Electorales o Tribunales Electorales, observar los procedimientos, formular las objeciones que estimen convenientes y, cuando corresponda, exigir que se deje constancia de ellas en las actas respectivas; verificar u objetar la identidad de los electores y, en general, tendrán derecho a todo lo que conduzca al desempeño de sus mandatos.
 
-Los apoderados tendrán derecho a instalarse en los locales de votación o al lado de los miembros de las Mesas Receptoras, en las Juntas Electorales, Colegios Escrutadores u Oficinas Electorales o Tribunales Electorales, observar los procedimientos, formular las objeciones que estimen convenientes y, cuando corresponda, exigir que se deje constancia de ellas en las actas respectivas; verificar u objetar la identidad de los electores y, en general, tendrán derecho a todo lo que conduzca al desempeño de sus mandatos (artículo 173, Ley Nº 18.700).
+La Junta, Mesa o Colegio, deberá hacer constar en acta los hechos cuya mención pida cualquier apoderado, y no podrá denegar el testimonio por motivo alguno (artículo 173, ley Nº 18.700).
 
-La Junta, Mesa o Colegio, deberá hacer constar en acta los hechos cuya mención pida cualquier Apoderado, y no podrá denegar el testimonio por motivo alguno (artículo 173, Ley Nº 18.700).
-
-Si en una Mesa Receptora de Sufragios se constituyeren como Apoderados individuos que no invistan el título suficiente, el Presidente de la Mesa podrá requerir el auxilio de la fuerza encargada del orden público para hacerlo salir, correspondiendo al Jefe de Fuerza dar satisfacción al requerimiento (artículo 135, Ley Nº 18.700).
+Si en una Mesa Receptora de Sufragios se constituyeren como apoderados individuos que no invistan el título suficiente, el Presidente de la Mesa podrá requerir el auxilio de la fuerza encargada del orden público para hacerlo salir, correspondiendo al Jefe de Fuerza dar satisfacción al requerimiento (artículo 135, ley Nº 18.700).
 
 r. Oficina Electoral:
 
