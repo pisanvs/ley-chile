@@ -244,7 +244,7 @@ Presidente de la República
 
 Presidente del Senado
 
-Presidente de la Excelentísima Corte Suprema de Justicia
+Presidente de la Excelentísima Corte Suprema
 
 Presidente de la Cámara de Diputados
 
@@ -264,7 +264,7 @@ Presidente del Banco Central
 
 Presidente del Tribunal Calificador de Elecciones
 
-Presidente del Consejo Directivo del Servicio Electoral.
+Presidente del Consejo Directivo del Servicio Electoral
 
 Ministros de Estado:
 
@@ -282,7 +282,7 @@ Ministros de Estado:
 
 - Economía, Fomento y Turismo
 
-- Desarrollo Social y Familia
+- Desarrollo Social
 
 - Educación
 
@@ -308,13 +308,13 @@ Ministros de Estado:
 
 - Medio Ambiente
 
-- Deporte
+- Del Deporte
 
-- Mujer y Equidad de Género
+- De la Mujer y Equidad de Género
 
-- Culturas, las Artes y el Patrimonio
+- De las Culturas, las Artes y el Patrimonio
 
-- Ciencia, Tecnología, Conocimiento e Innovación
+- De Ciencia, Tecnología, Conocimiento e Innovación
 
 Decano del Cuerpo Diplomático
 
@@ -334,7 +334,7 @@ Jefe del Estado Mayor Conjunto de las Fuerzas Armadas
 
 Vicepresidente del Senado
 
-Vicepresidente de la Cámara de Diputados
+Vicepresidentes de la Cámara de Diputados
 
 Senadores en orden alfabético
 
@@ -350,15 +350,13 @@ Defensor Nacional
 
 Presidente del Consejo de Defensa del Estado
 
-Subcontralor General de la República.
+Subcontralor General de la República
 
 Subsecretarios de Estado:
 
 - Interior
 
 - Relaciones Exteriores
-
-- Relaciones Económicas Internacionales
 
 - Desarrollo Regional y Administrativo
 
@@ -376,7 +374,7 @@ Subsecretarios de Estado:
 
 - Economía y Empresas de Menor Tamaño
 
-- Pesca y Acuicultura
+- Pesca
 
 - Turismo
 
@@ -384,13 +382,7 @@ Subsecretarios de Estado:
 
 - Servicios Sociales
 
-- Niñez
-
 - Educación
-
-- Educación Parvularia
-
-- Educación Superior
 
 - Justicia
 
@@ -418,19 +410,21 @@ Subsecretarios de Estado:
 
 - Bienes Nacionales
 
-- Energía
+-Energía
 
 - Medio Ambiente
 
 - Deportes
 
-- Mujer y la Equidad de Género
+- De la Mujer y la Equidad de Género
 
-- Culturas y las Artes
+- De las Culturas y las Artes
 
-- Patrimonio Cultural
+- Del Patrimonio Cultural
 
-- Ciencia, Tecnología, Conocimiento e Innovación
+- De Ciencia, Tecnología, Conocimiento e Innovación
+
+Subdirector del Consejo Nacional de la Cultura y las Artes
 
 Presidente del Consejo Directivo del Consejo para la Transparencia
 
@@ -438,9 +432,7 @@ Director del Instituto Nacional de Derechos Humanos
 
 Defensor de los Derechos de la Niñez
 
-Gobernador Regional de la Región Metropolitana
-
-Delegado Presidencial Regional de la Región Metropolitana
+Intendente de la Región Metropolitana
 
 Alcalde de Santiago
 
@@ -452,7 +444,7 @@ Comandante General de la Guarnición de Ejército de la Región Metropolitana
 
 Embajadores chilenos
 
-Embajadores eméritos
+Embajadores Eméritos
 
 Generales de División, Vicealmirantes, Generales de Aviación
 
@@ -478,7 +470,7 @@ Vicepresidente Ejecutivo de la Corporación de Fomento de la Producción
 
 Presidente del Instituto de Chile
 
-Delegados Presidenciales Provinciales de la Región Metropolitana
+Gobernadores Provinciales de la Región Metropolitana
 
 Directores del Ministerio de Relaciones Exteriores con grado o rango de Embajador
 
@@ -506,7 +498,7 @@ Generales de Brigada, Contraalmirantes, Generales de Brigada Aérea
 
 Generales de Carabineros y Prefecto Inspector de la Policía de Investigaciones de Chile
 
-Rectores de universidades
+Rectores de Universidades
 
 Secretario del Senado
 
@@ -566,9 +558,7 @@ Terceros Secretarios chilenos.
 
 B. En los actos y ceremonias oficiales celebradas en Regiones y Provincias, sin perjuicio de que las autoridades contempladas precedentemente mantengan la ubicación que les corresponde cuando asistan, la precedencia de las autoridades regionales será la siguiente:
 
-Gobernador Regional
-
-Delegado Presidencial Regional
+Intendente Regional
 
 Senadores de la Circunscripción por antigüedad
 
@@ -580,7 +570,7 @@ Contralor Regional
 
 Fiscal Regional del Ministerio Público
 
-Delegado Presidencial Provincial
+Gobernador Provincial
 
 Secretarios Regionales Ministeriales
 
@@ -716,7 +706,7 @@ Todas aquellas autoridades que detenten una o más calidades serán consideradas
 
 <!-- parte:9780624 -->
 
-Si el Presidente de la República no asistiere será representado por el Ministro de Estado que correspondiere según el orden de precedencia señalado anteriormente y, en ausencia de Ministros de Estado, por el Delegado Presidencial Regional o el Delegado Presidencial Provincial y, a falta de ellos, por la principal autoridad civil, según sea el caso.
+Si el Presidente de la República no asistiere será representado por el Ministro de Estado que correspondiere según el orden de precedencia señalado anteriormente y, en ausencia de Ministros de Estado, por el Intendente Regional o el Gobernador Provincial y, a falta de ellos, por la principal autoridad civil, según sea el caso.
 
 En caso de ausencia del Presidente del Senado, será representado por el Vicepresidente del Senado o por el Senador más antiguo de la Circunscripción que estuviere presente o, si no asiste Senador alguno de ésta, por el Senador más antiguo que concurra.
 
