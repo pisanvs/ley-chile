@@ -144,7 +144,7 @@ b) Fase de Habilitación de las postulaciones: a la nómina de postulantes váli
 
 .
 
-Una vez comunicados los resultados de los proyectos habilitados y en lista de espera, éstos deberán acreditar el ahorro mínimo establecido en el Artículo 88 del DS Nº 27 (V. y U.), de 2016, antes del ingreso de proyecto en Serviu Metropolitano de la Fase Presentación de los Proyectos.
+Se deberá acreditar el ahorro mínimo establecido en el artículo 88 del DS Nº 27 (V. y U.) de 2016 relativo a dichos proyectos, previo al proceso de selección, una vez que el Serviu Metropolitano haya calificado e informado los proyectos que están habilitados y en lista de espera.
 
 c) Fase Presentación de los Proyectos: en atención al Artículo 22, numeral 4, del DS Nº 27 (V. y U.), de 2016, los tipos de proyectos a presentar en el presente Llamado serán:
 
