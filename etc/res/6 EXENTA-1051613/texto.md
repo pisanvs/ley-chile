@@ -116,7 +116,7 @@ a) Características Generales
 
 El programa debe estar conformado por un cuerpo de académicos con grado de doctor o competencia equivalente y una trayectoria adecuada y demostrable en la disciplina o área de estudio del doctorado. Debe diferenciar claramente a los académicos de acuerdo a las funciones que desempeñan en docencia, dirección de tesis y gestión administrativa:
 
-i. Claustro de profesores: que debe demostrar dedicación proporcional a las actividades de docencia, dirección de tesis y administración del doctorado. Debe estar conformado al menos por siete académicos con jornada completa en la institución y con líneas de investigación activas en el ámbito de especialización del programa, demostrables a través de publicaciones y participación activa en proyectos de investigación. Se evaluará la contribución científica y académica a través de las orientaciones de productividad, definidas por los respectivos Comités de Área de la Comisión.
+i. Claustro de profesores: que debe demostrar dedicación proporcional a las actividades de docencia, dirección de tesis y administración del doctorado. Debe estar conformado al menos por siete académicos con jornada completa en la institución y con líneas de investigación activas en el ámbito de especialización del programa, demostrables a través de publicaciones y participación activa en proyectos de investigación. La Comisión ponderará la contribución científica y académica, utilizando como referente las orientaciones de productividad individual y grupal vigentes.
 
 ii. Profesores colaboradores: académicos que tienen una dedicación parcial al programa, como por ejemplo, profesores de asignaturas específicas.
 
@@ -274,7 +274,7 @@ a) Características Generales
 
 El programa debe estar conformado por un cuerpo de académicos que cuenten, al menos, con el grado de magíster y, preferentemente, el grado de doctor y que presenten una trayectoria adecuada y demostrable en la disciplina o área de estudio del programa. El magíster debe diferenciar claramente a los académicos de acuerdo a las funciones que desempeñan en docencia, dirección de tesis y gestión administrativa:
 
-i. Claustro de profesores: que debe demostrar dedicación proporcional a las actividades de docencia, dirección de tesis y administración del programa. Debe estar conformado, al menos, por cuatro académicos con jornada completa en la institución y con líneas de investigación activas en el ámbito de especialización del magíster, demostrables a través de publicaciones y participación activa en proyectos de investigación. Se evaluará la contribución científica y académica a través de las orientaciones de productividad, definidas por los respectivos Comités de Área de la Comisión.
+i. Claustro de profesores: que debe demostrar dedicación proporcional a las actividades de docencia, dirección de tesis y administración del programa. Debe estar conformado, al menos, por cuatro académicos con jornada completa en la institución y con líneas de investigación activas en el ámbito de especialización del magíster, demostrables a través de publicaciones y participación activa en proyectos de investigación. La Comisión ponderará la contribución científica y académica, utilizando como referente las orientaciones de productividad individual y grupal vigentes.
 
 ii. Profesores colaboradores: académicos que tienen una dedicación parcial al programa, como por ejemplo, profesores de asignaturas específicas.
 
@@ -432,7 +432,7 @@ a) Características Generales
 
 El programa debe estar conformado por un cuerpo de académicos que cuenten, al menos, con el grado de magíster y que presenten una trayectoria adecuada y demostrable en la disciplina o área de estudio del programa. El programa debe diferenciar claramente a los académicos de acuerdo a las funciones que desempeñan en docencia, dirección de tesis y gestión administrativa:
 
-i. Núcleo: o cuerpo estable de profesores, que debe demostrar dedicación proporcional a las actividades de docencia, dirección de tesis y administración del programa. Debe estar conformado al menos por cuatro académicos con jornada completa en la institución y con líneas de trabajo especializadas. Se evaluará la contribución científica, académica y/o profesional, a través de las orientaciones de productividad, definidas por los respectivos Comités de Área de la Comisión.
+i. Núcleo: o cuerpo estable de profesores, que debe demostrar dedicación proporcional a las actividades de docencia, dirección de tesis y administración del programa. Debe estar conformado al menos por cuatro académicos con jornada completa en la institución y con líneas de trabajo especializadas. La Comisión ponderará la contribución científica, académica y/o profesional, utilizando como referente las orientaciones de productividad individual y grupal vigentes.
 
 ii. Profesores colaboradores: esto es, académicos que tienen una dedicación parcial al programa, como por ejemplo, profesores de asignaturas específicas.
 
