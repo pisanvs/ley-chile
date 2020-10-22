@@ -1,0 +1,7 @@
+MODIFICA COMPENDIO DE NORMAS ADUANERAS Y SUS ANEXOS EN MATERIA DE REGLAS DE COMPRAVENTA INTERNACIONAL PUBLICADAS POR LA CÁMARA DE COMERCIO INTERNACIONAL (INCOTERMS)
+
+Mediante resolución exenta N° 2.684, de 1 de septiembre de 2020, del Director Nacional de Aduanas, se modifican las instrucciones de llenado de la Declaración de Ingreso, en su numeral 10.4 apartados I y III y en el segundo párrafo del numeral 15 del apartado 1; las instrucciones de llenado del Documento Único de Salida, en su numeral 10.6 apartado I y IV y se agrega un segundo párrafo al numeral 14 de los apartados I y IV, correspondientes a los Anexos 18 y 35 respectivamente, y se sustituye la Tabla de Códigos del Anexo 51-21 correspondiente a "Cláusulas de Compraventa", a objeto de renovar las instrucciones relativas a cláusulas de compraventa de las operaciones de comercio internacional, a partir de las nuevas reglas estandarizadas y publicadas por la Cámara de Comercio Internacional Incoterms 2020.
+
+El texto íntegro de la resolución se encuentra publicado en el sitio web del Servicio Nacional de Aduanas (www.aduana.cl).
+
+Valparaíso, 1 de septiembre de 2020.- José Ignacio Palma Sotomayor, Director Nacional de Aduanas.
