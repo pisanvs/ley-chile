@@ -246,11 +246,11 @@ durante catástrofes
 
 naturales.
 
-139 Informaciones La recepción de llamadas por
+139 Informaciones La recepción de llamadas
 
-Policiales personal de Carabineros de
+Policiales por personal de Carabineros
 
-Chile para la atención de
+de Chile para la atención de
 
 Consultas relativas a la
 
@@ -486,13 +486,17 @@ Número Servicio de Emergencia Para tener acceso a
 
 atendidas por personal
 
-del Servicio de Atención
+del Servicio de
 
-de Seguridad y
+Atención de
 
-Emergencia Ciudadana de
+Seguridad
 
-la Municipalidad de
+y Emergencia
+
+Ciudadana
+
+de la Municipalidad de
 
 Zapallar, respecto de
 
@@ -502,29 +506,43 @@ emergencia que ocurran
 
 en dicha comuna.
 
-1416 Fono Emergencia La Florida La recepción de llamadas
+1416 Fono Emergencia La recepción de
 
-atendidas por personal de
+La Florida llamadas
 
-la Municipalidad de La
+atendidas por personal
 
-Florida, respecto de
+de la Municipalidad
 
-situaciones de emergencia
+de La Florida,
+
+respecto de
+
+situaciones de
+
+emergencia
 
 que ocurran en dicha
 
 comuna.
 
-1417 Fono Emergencia Huechuraba La recepción de llamadas
+1417 Fono Emergencia La recepción de
 
-atendidas por personal de
+Huechuraba llamadas
 
-la Municipalidad de
+atendidas por
 
-Huechuraba, respecto de
+personal de
 
-situaciones de emergencia
+la Municipalidad
+
+de Huechuraba,
+
+respecto de
+
+situaciones de
+
+emergencia
 
 que ocurran en dicha
 
@@ -532,15 +550,21 @@ comuna.
 
 NÚMERO SERVICIO DE EMERGENCIA PARA TENER ACCESO A
 
-1412 FONODROGAS de SENDA La recepción de llamadas
+1412 FONODROGAS de SENDA La recepción
 
-atendidas por personal
+de llamadas
 
-del Servicio Nacional
+atendidas por
 
-para la Prevención y
+personal
 
-Rehabilitación del
+del Servicio
+
+Nacional
+
+para la Prevención
+
+y Rehabilitación del
 
 Consumo de Drogas y
 
@@ -572,27 +596,33 @@ en dicha comuna.
 
 1409 Fono Emergencia Temuco La recepción de llamadas
 
-atendidas por personal del
+atendidas por personal
 
-Departamento de Seguridad
+del Departamento
+
+de Seguridad
 
 e Información de la
 
-Municipalidad de Temuco,
+Municipalidad de
 
-respecto de situaciones
+Temuco, respecto de
+
+situaciones
 
 de emergencia que ocurran
 
 en dicha comuna.
 
-NÚMERO SERVICIO DE EMERGENCIA PARA TENER ACCESO A
+1415 Fono Emergencia El La recepción de
 
-1415 Fono Emergencia El La recepción de llamadas
+Quisco llamadas
 
-Quisco atendidas por personal de
+atendidas por personal
 
-la Unidad de Inspección
+de la Unidad de
+
+Inspección
 
 y Vigilancia de la
 
@@ -600,7 +630,9 @@ Municipalidad de El
 
 Quisco, respecto de
 
-situaciones de emergencia
+situaciones de
+
+emergencia
 
 que ocurran en dicha
 
@@ -608,7 +640,9 @@ comuna.
 
 NÚMERO SERVICIO DE EMERGENCIA PARA TENER ACCESO A
 
-1418 Fono Emergencia Maipú La recepción de llamadas
+1418 Fono Emergencia Maipú La recepción
+
+de llamadas
 
 atendidas por personal
 
@@ -622,13 +656,17 @@ que ocurran en dicha
 
 comuna.
 
-1419 Fono Emergencia La recepción de llamadas
+1419 Fono Emergencia La recepción de
 
-La Reina atendidas por personal
+La Reina llamadas
+
+atendidas por personal
 
 de la Central de
 
-Operaciones de Emergencia
+Operaciones de
+
+Emergencia
 
 de la Municipalidad de
 
@@ -636,7 +674,9 @@ La Reina, respecto de
 
 situaciones de emergencia
 
-que ocurran en dicha comuna.
+que ocurran en dicha
+
+comuna.
 
 1420 Fono Emergencia La recepción de llamadas
 
@@ -644,31 +684,45 @@ Coquimbo atendidas por personal de
 
 la Dirección de Seguridad
 
-Ciudadana de la Municipalidad
+Ciudadana de la
+
+Municipalidad
 
 de Coquimbo, respecto de
 
-situaciones de emergencia que
+situaciones de
 
-ocurran en dicha comuna.
+emergencia que
+
+ocurran en dicha
+
+comuna.
 
 1421 Fono Emergencia La recepción de llamadas
 
-Lampa atendidas por personal del
+Lampa atendidas por personal
 
-Departamento de Seguridad de
+del Departamento de
 
-la Municipalidad de Lampa,
+Seguridad de
 
-respecto de situaciones de
+la Municipalidad de
 
-emergencia que ocurran en
+Lampa, respecto
+
+de situaciones de
+
+emergencia que
+
+ocurran en
 
 dicha comuna.
 
-1423 Fono Emergencia La recepción de llamadas
+1423 Fono Emergencia La recepción de
 
-Viña del Mar atendidas por personal
+Viña del Mar llamadas
+
+atendidas por personal
 
 del Departamento
 
@@ -676,11 +730,15 @@ de Seguridad Ciudadana
 
 de la Municipalidad de
 
-Viña del Mar,respecto
+Viña del Mar,
 
-de situaciones de
+respecto
 
-emergencia que ocurran
+de situaciones
+
+de emergencia
+
+que ocurran
 
 en dicha comuna.
 
@@ -688,15 +746,25 @@ en dicha comuna.
 
 Parral atendidas por personal del
 
-Departamento de Seguridad
+Departamento de
 
-Ciudadana de la Municipalidad
+Seguridad
 
-de Parral, respecto de
+Ciudadana de la
 
-situaciones de emergencia
+Municipalidad
 
-que ocurran en dicha comuna.
+de Parral,
+
+respecto de
+
+situaciones de
+
+emergencia
+
+que ocurran en
+
+dicha comuna.
 
 1425 Fono Emergencia La recepción de llamadas
 
@@ -716,21 +784,33 @@ en dicha comuna.
 
 Buin atendidas por personal
 
-de la Unidad de Inspección
+de la Unidad de
+
+Inspección
 
 y Vigilancia del
 
-Departamento de Seguridad
+Departamento de
 
-Vecinal, denominado "BUIN
+Seguridad
 
-SEGURO", de la Municipalidad
+Vecinal, denominado
+
+"BUIN
+
+SEGURO", de la
+
+Municipalidad
 
 de Buin, respecto de
 
-situaciones de emergencia
+situaciones de
 
-que ocurran en dicha comuna.
+emergencia
+
+que ocurran en
+
+dicha comuna.
 
 1427 Fono Emergencia La recepción de llamadas
 
@@ -742,7 +822,9 @@ y Seguridad Pública de la
 
 Municipalidad de Castro,
 
-respecto de situaciones de
+respecto de
+
+situaciones de
 
 emergencia que ocurran
 
@@ -750,17 +832,21 @@ en dicha comuna.
 
 1428 Fono Emergencia La recepción de llamadas
 
-Dalcahue atendidas por personal del
+Dalcahue atendidas por personal
 
-Área de Emergencias y
+del Área de Emergencias
 
-Servicios Medioambientales
+y Servicios
+
+Medioambientales
 
 de la Municipalidad de
 
 Dalcahue, respecto de
 
-situaciones de emergencia
+situaciones de
+
+emergencia
 
 que ocurran en dicha
 
@@ -772,27 +858,33 @@ atendidas por personal de
 
 1429 Fono Emergencia la Dirección de Seguridad
 
-Vicuña Pública de la Municipalidad
+Vicuña Pública de la
+
+Municipalidad
 
 de Vicuña, respecto
 
-de situaciones de emergencia
+de situaciones de
 
-que ocurran en dicha
+emergencia que ocurran
 
-comuna.
+en dicha comuna.
 
 1440 Fono Emergencia La recepción de llamadas
 
 Recoleta atendidas por personal
 
-del Área de Emergencias y
+del Área de Emergencias
 
-Seguridad Pública de la
+y Seguridad Pública
 
-Municipalidad de Recoleta,
+de la Municipalidad
 
-respecto de situaciones de
+de Recoleta,
+
+respecto de
+
+situaciones de
 
 emergencia que ocurran
 
@@ -804,7 +896,9 @@ La Pintana atendidas por personal
 
 de la Municipalidad
 
-de La Pintana,respecto
+de La Pintana,
+
+respecto
 
 de situaciones de
 
@@ -836,29 +930,39 @@ nacional.
 
 atendidas por
 
-personal de la Municipalidad
-
-de Machalí
-
-respecto de situaciones de
-
-emergencia que ocurran en
-
-dicha comuna.
-
-1444 Fono Emergencia Macul La recepción de llamadas
-
-atendidas por personal del
-
-Área de Emergencias y
-
-Seguridad Pública de la
+personal de la
 
 Municipalidad
 
-de Macul, respecto de
+de Machalí
 
-situaciones de
+respecto de situaciones
+
+de emergencia que
+
+ocurran en
+
+dicha comuna.
+
+1444 Fono Emergencia Macul La recepción de
+
+llamadas
+
+atendidas por
+
+personal del
+
+Área de Emergencias
+
+y Seguridad
+
+Pública de la
+
+Municipalidad
+
+de Macul, respecto
+
+de situaciones de
 
 emergencia que ocurran
 
@@ -866,65 +970,99 @@ en dicha comuna.
 
 1445 Fono Emergencia La recepción de llamadas
 
-Ñuñoa atendidas por personal de la
+Ñuñoa atendidas por personal de
 
-Municipalidad de Ñuñoa,
+la Municipalidad de
 
-respecto de situaciones de
+Ñuñoa,
 
-emergencia que ocurran
+respecto de situaciones
+
+de emergencia que
+
+ocurran
 
 en dicha comuna.
 
-1446 Fono Emergencia La recepción de llamadas
+1446 Fono Emergencia La recepción de
 
-La Granja atendidas por personal de la
+La Granja llamadas
 
-Unidad de Seguridad Pública
+atendidas por personal
 
-de la Municipalidad de La
+de la Unidad de
+
+Seguridad
+
+Pública de la
+
+Municipalidad de La
 
 Granja, respecto de
 
-situaciones de emergencia
+situaciones de
 
-que ocurran en dicha comuna.
+emergencia
+
+que ocurran en dicha
+
+comuna.
 
 1447 Fono Emergencia La recepción de llamadas
 
-Santa María atendidas porpersonal de la
+Santa María atendidas por
 
-Central de Monitoreo de
+personal de
 
-Seguridad y Emergencia de la
+la Central de Monitoreo
 
-Municipalidad de Santa
+de Seguridad y
 
-María, respecto de
+Emergencia de
 
-situaciones de emergencia
+la Municipalidad de
 
-que ocurran en dicha comuna.
+Santa María, respecto
 
-1448 Fono Emergencia La recepción de llamadas
+de situaciones de
 
-Pucón atendidas por personal del
+emergencia
 
-Área de Emergencias y
+que ocurran en dicha
 
-Seguridad Pública de la
+comuna.
 
-Municipalidad de Pucón,
+1448 Fono Emergencia La recepción de
 
-respecto de situaciones de
+Pucón llamadas atendidas
 
-emergencia que ocurran en
+por personal del
+
+Área de Emergencias
+
+y Seguridad Pública
+
+de la
+
+Municipalidad de
+
+Pucón,
+
+respecto de
+
+situaciones de
+
+emergencia que
+
+ocurran en
 
 dicha comuna.
 
-1449 Fono Emergencia Padre La recepción de llamadas
+1449 Fono Emergencia Padre La recepción de
 
-Hurtado atendidas por personal
+Hurtado llamadas atendidas
+
+por personal
 
 de Dirección de
 
@@ -934,135 +1072,201 @@ de la Municipalidad
 
 de Padre Hurtado,
 
-respecto de situaciones
+respecto de
 
-de emergencia que ocurran
+situaciones
+
+de emergencia que
+
+ocurran
 
 en dicha comuna.
 
-1450 Fono Emergencia La recepción de llamadas
+1450 Fono Emergencia La recepción
 
-Pichilemu atendidas por personal
-
-del Departamento de Seguridad
-
-Ciudadana de la Municipalidad
-
-de Pichilemu, respecto de
-
-situaciones de emergencia que
-
-ocurran en dicha comuna.
-
-1451 Fono Emergencia Valdivia La recepción de llamadas
+Pichilemu de llamadas
 
 atendidas por personal
 
-del Área de Emergencias y
+del Departamento de
 
-Seguridad Pública de la
+Seguridad Ciudadana
 
-Municipalidad de Valdivia,
+de la Municipalidad
 
-respecto de situaciones
+de Pichilemu,
 
-de emergencia que ocurran
+respecto de
+
+situaciones de
+
+emergencia que
+
+ocurran en dicha
+
+comuna.
+
+1451 Fono Emergencia Valdivia La recepción de
+
+llamadas atendidas
+
+por personal
+
+del Área de Emergencias
+
+y Seguridad Pública
+
+de la Municipalidad
+
+de Valdivia,
+
+respecto de
+
+situaciones
+
+de emergencia que
+
+ocurran
 
 en dicha comuna.
 
-1452 Fono Emergencia La recepción de llamadas
+1452 Fono Emergencia La recepción de
 
-Melipilla atendidas por personal
+Melipilla llamadas atendidas
 
-de seguridad y emergencias
+por personal
 
-de la Municipalidad de
+de seguridad y
 
-Melipilla, respecto de
+emergencias
 
-situaciones de emergencia
+de la Municipalidad
 
-que ocurran en dicha
+de Melipilla,
+
+respecto de
+
+situaciones de
+
+emergencia
+
+que ocurran en
+
+dicha
 
 comuna.
 
-1453 Fono Emergencia La recepción de llamadas
+1453 Fono Emergencia La recepción de
 
-Renca atendidas por personal de
+Renca llamadas atendidas
 
-seguridad y emergencias de
+por personal de
 
-la Municipalidad de Renca,
+seguridad y
 
-respecto de situaciones de
+emergencias de
 
-emergencia que ocurran en
+la Municipalidad de
 
-dicha comuna.
+Renca, respecto de
 
-1454 Fono Emergencia La recepción de llamadas
+situaciones de
 
-Panguipulli atendidas por personal del
+emergencia que ocurran
+
+endicha comuna.
+
+1454 Fono Emergencia La recepción de
+
+Panguipulli llamadas atendidas
+
+por personal del
 
 Área de Emergencias y
 
-Seguridad Pública de la
+Seguridad Pública
 
-Municipalidad de
+de la Municipalidad
 
-Panguipulli,
+de Panguipulli,
 
-respecto de situaciones de
+respecto de
 
-emergencia que ocurran en
+situaciones de
+
+emergencia que
+
+ocurran en
 
 dicha comuna.
 
-1455 Fono Emergencia La recepción de llamadas
+1455 Fono Emergencia La recepción de
 
-Servicio Nacional para orientación a víctimas
+Servicio Nacional llamadas para
 
-de la Mujer y la de violencia contra la
+de la Mujer y la orientación a víctimas
 
-Equidad de Género mujer difundido por el
+Equidad de Género de violencia contra
 
-Servicio Nacional de la
+la mujer difundido
 
-Mujer y la Equidad de
+por el Servicio
 
-Género, a nivel nacional.
+Nacional de la
 
-1456 Fono Emergencia San La recepción de llamadas
+Mujer y la Equidad
 
-Miguel atendidas por personal de
+de Género, a
 
-la Corporación Municipal
+nivel nacional.
 
-de San Miguel, respecto de
+1456 Fono Emergencia San La recepción de
 
-situaciones de emergencia
+Miguel llamadas atendidas
+
+por personal de
+
+la Corporación
+
+Municipal
+
+de San Miguel,
+
+respecto de
+
+situaciones de
+
+emergencia
 
 que ocurran en dicha
 
 comuna.
 
-1466 Fono Emergencia La recepción de llamadas
+1466 Fono Emergencia La recepción de
 
-Parque Metropolitano atendidas por personal de
+Parque Metropolitano llamadas atendidas
 
-de Santiago la Central de Cámaras del
+de Santiago por personal de la
+
+Central de Cámaras del
 
 Parque Metropolitano de
 
 Santiago, respecto de
 
-situaciones de emergencia
+situaciones de
 
-que ocurran en dicho parque.
+emergencia
 
-1457 Fono Emergencia La recepción de llamadas
+que ocurran en dicho
 
-La Serena atendidas por personal de
+parque.
+
+1457 Fono Emergencia La recepción de
+
+La Serena llamadas atendidas
+
+por personal de
 
 la Sala Espejo de la
 
@@ -1070,15 +1274,17 @@ Central de Cámaras de
 
 Televigilancia de
 
-la Municipalidad de La
+la Municipalidad
 
-Serena,
+de La Serena,
 
-respecto de situaciones de
+respecto de
 
-emergencia que ocurran en
+situaciones de
 
-dicha comuna.
+emergencia que ocurran
+
+en dicha comuna.
 
 1488 Fono Emergencia La recepción de llamadas
 
@@ -1126,51 +1332,79 @@ emergencia que ocurran
 
 en dicha comuna.
 
-1459 Fono Emergencia La recepción de llamadas
+1459 Fono Emergencia La recepción de
 
-Limache atendidas por personal
+Limache llamadas atendidas
+
+por personal
 
 del Departamento de
 
 Seguridad Pública de la
 
-Municipalidad de Limache,
+Municipalidad de
 
-respecto de situaciones de
+Limache,
 
-emergencia que ocurran en
+respecto de
+
+situaciones de
+
+emergencia que
+
+ocurran en
 
 dicha comuna.
 
-1460 Fono Emergencia Cerro La recepción de llamadas
+1460 Fono Emergencia Cerro La recepción de
 
-Navia atendidas por personal
+Navia llamadas atendidas
 
-del Área de Emergencias y
+por personal
 
-Seguridad Pública de la
+del Área de
 
-Municipalidad de Cerro Navia,
+Emergencias y
 
-respecto de situaciones
+Seguridad Pública
 
-de emergencia que ocurran
+de la Municipalidad
+
+de Cerro Navia,
+
+respecto de
+
+situaciones
+
+de emergencia
+
+que ocurran
 
 en dicha comuna.
 
-1461 Fono Emergencia La recepción de llamadas
+1461 Fono Emergencia La recepción de
 
-Peñalolén atendidas por personal del
+Peñalolén llamadas atendidas
 
-Área de Emergencias y
+por personal del
 
-Seguridad Pública de la
+Área de Emergencias
 
-Municipalidad de Peñalolén,
+y Seguridad
 
-respecto de situaciones de
+Pública de la
 
-emergencia que ocurran en
+Municipalidad de
+
+Peñalolén,
+
+respecto de
+
+situaciones de
+
+emergencia que
+
+ocurran en
 
 dicha comuna.
 
@@ -1194,7 +1428,7 @@ Molina, respecto de
 
 situaciones de
 
-seguridady/o
+seguridad y/o
 
 emergencia ciudadana
 
@@ -1206,21 +1440,35 @@ comuna.
 
 San Pedro de atendidas por operadores
 
-la Paz e la Unidad de Departamento
+la Paz e la Unidad de
 
-de Seguridad, Convivencia
+Departamento
 
-y Protección Ciudadana de
+de Seguridad,
 
-la Ilustre Municipalidad de
+Convivencia
+
+y Protección
+
+Ciudadana de
+
+la Ilustre
+
+Municipalidad de
 
 San Pedro de la Paz,
 
-respecto De situaciones de
+respecto De
 
-seguridad y/o emergencia
+situaciones de
 
-ciudadana que ocurran en
+seguridad y/o
+
+emergencia
+
+ciudadana que
+
+ocurran en
 
 dicha comuna.
 
@@ -1256,69 +1504,103 @@ de la Unidad de Seguridad
 
 Ciudadana de la Ilustre
 
-Municipalidad de Algarrobo,
+Municipalidad de
 
-respecto de situaciones de
+Algarrobo,
 
-seguridad y/o emergencia
+respecto de
 
-ciudadana que ocurran en
+situaciones de
+
+seguridad y/o
+
+emergencia
+
+ciudadana que
+
+ocurran en
 
 dicha comuna.
 
-1467 Fono Emergencia La recepción de llamadas
+1467 Fono Emergencia La recepción de
 
-Pedro Aguirre Cerda atendidas por operadores
+Pedro Aguirre Cerda llamadas atendidas
 
-del Área de Emergencias y
+por operadores
 
-Seguridad Pública de la
+del Área de
 
-Ilustre Municipalidad
+Emergencias y
 
-de Pedro Aguirre Cerda,
+Seguridad Pública
 
-respecto de situaciones de
+de la Ilustre
 
-seguridad y/o emergencia
+Municipalidad
+
+de Pedro Aguirre
+
+Cerda,
+
+respecto de
+
+situaciones de
+
+seguridad y/o
+
+emergencia
 
 ciudadana que ocurran
 
 en dicha comuna.
 
-1468 Fono Emergencia La recepción de llamadas
+1468 Fono Emergencia La recepción de
 
-Colina tendidas por operadores
+Colina llamadas tendidas por
 
-de la Central de Cámaras
+operadores
 
-Colina de la Ilustre
+de la Central de
 
-Municipalidad de Colina,
+Cámaras
 
-respecto de situaciones
+Colina de la
+
+Ilustre
+
+Municipalidad de
+
+Colina,
+
+respecto de
+
+situaciones
 
 de seguridad y/o
 
 emergencia
 
-ciudadana que ocurran en
+ciudadana que
+
+ocurran en
 
 dicha comuna.
 
-1515 Fono emergencia El servicio tiene por
+1515 Fono emergencia El servicio tiene
 
-"Línea libre" de objeto entregar a todos
+"Línea libre" de por objeto entregar
 
-la Subsecretaría de los niños, niñas y
+la Subsecretaría de a todos los niños,
 
-la Niñez adolescentes
+la Niñez niñas y adolescentes
 
 atención telefónica de
 
 ayuda profesional
 
-en donde sean escuchados
+en donde sean
+
+escuchados
 
 y puedan recibir
 
@@ -1326,7 +1608,9 @@ orientación
 
 ante sus problemas y
 
-vulneraciones, respetando
+vulneraciones,
+
+respetando
 
 permanentemente su
 
@@ -1340,31 +1624,45 @@ excepto en la Región
 
 de Atacama.
 
-1469 Fono Emergencia La recepción de llamadas
+1469 Fono Emergencia La recepción de
 
-Independencia atendidas en la Sala
+Independencia llamadas atendidas
 
-Remota de Televigilancia
+en la Sala Remota
+
+de Televigilancia
 
 y Comunicaciones,
 
-dependiente de la oficina
+dependiente de la
 
-de Seguridad Pública de
+oficina
 
-la Ilustre Municipalidad
+de Seguridad
+
+Pública de
+
+la Ilustre
+
+Municipalidad
 
 de Independencia,
 
-respecto de situaciones
+respecto de
+
+situaciones
 
 de seguridad y/o
 
-emergencia ciudadana que
+emergencia
+
+ciudadana que
 
 ocurran en dicha
 
-comuna. De esta manera,
+comuna. De esta
+
+manera,
 
 las llamadas serán
 
@@ -1380,9 +1678,11 @@ lugar de la emergencia
 
 requerida.
 
-1480 Fono Emergencia La recepción de llamadas
+1480 Fono Emergencia La recepción de
 
-Linares atendidas por un operador
+Linares llamadas atendidas
+
+por un operador
 
 (a)el Departamento de
 
@@ -1404,11 +1704,13 @@ cuando sea necesario,
 
 las llamadas serán
 
-canalizadas por medio del
+canalizadas por medio
 
-envío oportuno de un
+del envío oportuno
 
-móvil hacia el lugar de
+de un móvil hacia
+
+el lugar de
 
 la emergencia y así
 
@@ -1420,13 +1722,17 @@ otros organismos de
 
 emergencia, por ejemplo,
 
-de Carabineros de Chile.
+de Carabineros de
 
-1481 Fono Emergencia La recepción de llamadas
+Chile.
 
-La Cisterna atendidas por un operador
+1481 Fono Emergencia La recepción de
 
-(a) de la Dirección de
+La Cisterna llamadas atendidas
+
+por un operador(a)
+
+de la Dirección de
 
 Seguridad Pública de la
 
@@ -1508,15 +1814,19 @@ emergencias en el espacio
 
 público, incendios y
 
-catástrofes naturales. Además
+catástrofes naturales.
 
-se coordinará con otros
+Además se coordinará con
 
-organismos de emergencia
+otros organismos de
+
+emergencia
 
 para la atención de
 
-éstas. Asimismo, se recibirán
+éstas. Asimismo, se
+
+recibirán
 
 denuncias de víctimas de
 
@@ -1566,7 +1876,7 @@ de móviles hacia
 
 el lugar de la
 
-emergencia,siendo
+emergencia, siendo
 
 éstas de diversa
 
@@ -1687,5 +1997,141 @@ emergencias
 comunales de
 
 todo tipo.
+
+1486 Fono Emergencia Las llamadas serán
+
+Coronel recibidas por personal
+
+de la Central Comunal
+
+de Emergencias de la
+
+Ilustre
+
+Municipalidad de
+
+Coronel, respecto
+
+de situaciones
+
+de emergencias y
+
+seguridad ciudadana
+
+que ocurran en
+
+dicha comuna. De esta
+
+manera, las llamadas
+
+serán canalizadas por
+
+medio del despliegue
+
+territorial al lugar
+
+de la emergencia con
+
+patrullaje preventivo
+
+de seguridad ciudadana.
+
+Además se coordinará
+
+con otros organismos de
+
+emergencia para la
+
+atención de éstas.
+
+1487 Fono Emergencia Las llamadas serán
+
+Puente Alto recibidas por personal
+
+de la Oficina
+
+de Seguridad Ciudadana
+
+de la Ilustre
+
+Municipalidad de Puente
+
+Alto, respecto de
+
+situaciones de
+
+emergencias y seguridad
+
+ciudadana que ocurran
+
+en dicha comuna. De esta
+
+manera, las llamadas
+
+serán canalizadas por
+
+medio del despliegue
+
+territorial al lugar
+
+de la emergencia con
+
+patrullaje preventivo
+
+de seguridad ciudadana.
+
+Además se coordinará
+
+con otros organismos
+
+de emergencia para
+
+la atención de éstas.
+
+1489 Fono Emergencia Las llamadas serán
+
+San Clemente recibidas por personal
+
+del Departamento de
+
+Seguridad Ciudadana
+
+de la Ilustre
+
+Municipalidad de
+
+Puente Alto, respecto
+
+de situaciones de
+
+emergencias y seguridad
+
+ciudadana que ocurran
+
+en dicha comuna. De
+
+esta manera, las
+
+llamadas serán
+
+canalizadas
+
+por medio del despliegue
+
+territorial al lugar de
+
+la emergencia con
+
+patrullaje preventivo
+
+de seguridad ciudadana.
+
+Además se coordinará
+
+con otros organismos
+
+de emergencia para la
+
+atención de éstas.
 
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
