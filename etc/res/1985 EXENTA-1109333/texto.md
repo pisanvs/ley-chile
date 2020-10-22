@@ -186,15 +186,31 @@ j) Otros equipos que cumplan con lo que se establece a continuación:
 
 j.1) Operen en las bandas de frecuencias 2.400 a 2.483,5 MHz; 5.250 a 5.350 MHz; 5.470 a 5.725 MHz y 5.725 a 5.850 MHz, con una potencia máxima radiada de 1 W y con técnicas de espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que funcionen con un ancho de banda mínimo de 10 MHz y permitan la compartición de frecuencias.
 
-También podrán operar en la banda de frecuencias 5.150 a 5.250 MHz, con una potencia máxima radiada de 250 mW y una densidad de potencia máxima radiada que no exceda 10 mW/MHz en cualquier banda de 1 MHz. Además, los equipos deberán emplear alguna de las técnicas de compartición de frecuencias antes señaladas. La operación de los equipos estará restringida al interior de recintos cerrados (casas, edificios, oficinas, fábricas, almacenes, etc.).
+También podrán operar en la banda de frecuencias 5.150 a 5.250 MHz, con una potencia máxima radiada de 1 W y una densidad de potencia máxima radiada que no exceda 17 mW/MHz en cualquier banda de 1 MHz. Además, los equipos deberán emplear alguna de las técnicas de compartición de frecuencias antes señaladas. La operación de los equipos estará restringida al interior de recintos cerrados (casas, edificios, oficinas, fábricas, almacenes, etc.).
+
+Los equipos de acceso, también aludidos como AP, de baja potencia, que operen en la banda de frecuencias 5.925 a 7.125 MHz, deberán ser para uso exclusivo en interiores y cumplir con los siguientes requisitos de potencia de transmisión:
+
+- PIRE máxima de 30 dBm.
+
+- Densidad espectral máxima de 5 dBm / MHz.
+
+Los equipos AP de baja potencia solamente podrán contar con antenas integradas, las que no podrán ser sean removibles ni reemplazables, así como tampoco podrán tener conectores que permitan conectar antenas externas adicionales. Asimismo, no podrán operar con baterías internas ni poseer espacios para su instalación.
+
+Los dispositivos terminales de usuarios que están asociados con el equipo AP de baja potencia, deben funcionar con los siguientes niveles de potencia:
+
+- PIRE máxima de 24 dBm.
+
+- Densidad espectral máxima de -1 dBm / MHz.
 
 Los equipos que cumplan con las características señaladas en el presente literal, también podrán ser empleados para la provisión de conectividad a internet con fines no comerciales. No obstante lo anterior, los equipos de radiocomunicaciones empleados para los mismos fines antes señalados que no cumplan con lo establecido en este literal, deberán contar con la autorización correspondiente, conforme a lo establecido en las normas técnicas que regulan el uso de las respectivas bandas de frecuencias.
 
 j.2) Operen en las siguientes frecuencias o bandas de frecuencias con una intensidad de campo eléctrico o potencia máxima radiada que no exceda los valores que se indican a continuación:
 
-Frecuencias o bandas Intensidad de campo eléctrico
+Frecuencias o bandas Intensidad de
 
-de frecuencias o potencia
+de frecuencias campo eléctrico
+
+o potencia
 
 9 a 490 kHz 2.400/f (kHz) µV/m
 
@@ -214,9 +230,9 @@ metros
 
 88 a 108 MHz 50 nW
 
-49,82 a 49,89 MHz 10 mV/m a
+49,82 a 49,89 MHz 10 mV/m a 3
 
-3 metros
+metros
 
 218 a 222 MHz 45 mW
 
@@ -338,7 +354,7 @@ Derógase la resolución exenta N° 755, de 2005, de la Subsecretaría de Teleco
 
 #### Artículo 6º
 
-Los laboratorios que realicen las pruebas y elaboren los reportes (test reports) presentados en las solicitudes de certificación deberán poseer al menos dos acreditaciones internacionales, de modo de asegurar calidad y objetividad de las mediciones. Dichas acreditaciones deberán estar estampadas en una o más hojas de los reportes que acompañan la documentación presentada al momento de solicitar la respectiva certificación.
+Los laboratorios que realicen las pruebas y elaboren los reportes (test reports) presentados en las solicitudes de certificación deberán poseer al menos una acreditación internacional, de modo de asegurar calidad y objetividad de las mediciones. Dichas acreditaciones deberán estar estampadas en una o más hojas de los reportes que acompañan la documentación presentada al momento de solicitar la respectiva certificación.
 
 Anótese y publíquese en el Diario Oficial.- Rodrigo Ramírez Pino, Subsecretario de Telecomunicaciones,
 
