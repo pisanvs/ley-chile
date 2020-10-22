@@ -62,11 +62,13 @@ Asimismo, en las aduanas sanitarias se verificará el cumplimiento de las medida
 
 ### II. Aislamientos en razón a horarios determinados
 
-4. Prohíbase a los habitantes de la República salir a la vía pública, como medida de aislamiento, entre las 23:00 y 05:00 horas, salvo aquellas personas que cuenten con salvoconductos individuales o permisos que lo autoricen en virtud del Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 22.727, del 24 de septiembre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Esta medida será ejecutada de acuerdo a las instrucciones que impartan al efecto los Jefes de la Defensa Nacional de las distintas regiones.
+4. Prohíbase a los habitantes de la República salir a la vía pública, como medida de aislamiento, entre las 23:00 y 05:00 horas, salvo aquellas personas que cuenten con salvoconductos individuales o permisos que lo autoricen en virtud del Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 25.535, de 20 de octubre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Esta medida será ejecutada de acuerdo a las instrucciones que impartan al efecto los Jefes de la Defensa Nacional de las distintas regiones.
 
 Déjase constancia que la medida de este numeral comenzó a regir desde las 22:00 horas del día 22 de marzo de 2020 y será aplicada por un plazo indefinido, hasta que las condiciones epidemiológicas permitan su suspensión.
 
 Asimismo, se prohíbe la realización o participación en eventos y actividades sociales y recreativas en el horario señalado en el párrafo primero de este numeral, en los mismos términos que establece el numeral 36.
+
+> **Nota.** El N° 1 de la Resolución 880 Exenta, Salud, publicada el 22.10.2020, dispone que la medida dispuesta en este numeral regirá excepcionalmente los días 24, 25 y 26 de octubre, de la siguiente forma: i. entre las 23:00 horas del día 24 de octubre de 2020 y las 04:00 horas del día 25 de octubre de 2020. ii. entre las 01:00 horas y las 05:00 horas del día 26 de octubre.
 
 ### III. Aislamientos o cuarentenas a poblaciones determinadas
 
@@ -116,9 +118,17 @@ Se entenderá por contacto estrecho aquella persona que ha estado en contacto co
 
 Esta medida tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
 
-11. Dispóngase que las personas que ingresen al país, sin importar el país de origen, deben cumplir con la medida de cuarentena por 14 días. Esta medida tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
+11. Dispóngase que las personas que ingresen al país, sin importar el país de origen, y la región de destino, deben cumplir con la medida de cuarentena por 14 días. Esta medida tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
 
-No estarán obligadas a guardar cuarentena las personas que cuenten con un resultado negativo de un Test PCR para SARS-CoV-2. Si el test se ha realizado en el extranjero, este no deberá tener una antigüedad superior a 72 horas contadas desde el momento de ingreso a Chile. El test realizado en el extranjero debe ser por un laboratorio reconocido por la autoridad sanitaria de dicho país.
+No estarán obligadas a guardar cuarentena las personas que cuenten con un resultado negativo de un Test PCR para SARS-CoV-2. Sin perjuicio de lo anterior, estas personas quedarán en un periodo de vigilancia de viajeros por los 14 días siguientes a su ingreso. En dicho periodo la autoridad sanitaria podrá solicitarles, en cualquier momento, los antecedentes de su viaje, del Test PCR presentado, y sus condiciones de salud.
+
+Para efectos de eximirse de la medida dispuesta en el primer párrafo de este numeral, el resultado del Test PCR realizado en el extranjero sólo podrá presentarse ante la autoridad sanitaria al ingresar al país, y no podrá tener una antigüedad mayor a 72 horas desde la toma de muestra.
+
+El Test PCR realizado en el extranjero, debe realizarse por un laboratorio reconocido por la autoridad sanitaria de la localidad de origen.
+
+En caso de que el Test PCR realizado en Chile reporte un resultado negativo, la persona estará autorizada para finalizar la cuarentena desde la recepción del resultado, para lo cual deberá dar cumplimiento a las instrucciones que dicte la autoridad sanitaria al respecto.
+
+Independiente de la realización o resultado del Test PCR, aquellos viajeros que tienen por lugar de destino una región distinta a la de ingreso a Chile podrán continuar con su viaje durante las primeras 24 horas después del ingreso al país en medios de transporte públicos o privados, cumpliendo con todas las medidas sanitarias que sean pertinentes.
 
 11. Bis. Para efectos de esta resolución, se entenderá como caso sospechoso:
 
@@ -308,15 +318,29 @@ Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir 
 
 Déjase constancia que esta medida comenzó a regir el día 24 de marzo de 2020 a las 22:00 horas, y tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
 
-Lo dispuesto en el párrafo primero de este numeral no aplicará a los habitantes de localidades que se encuentren en los Pasos 3, 4 y 5, en conformidad con el Capítulo II de la presente resolución y que se desplacen entre localidades que estén en los Pasos 3, 4 y 5. Con todo, quienes se desplacen entre las señaladas localidades deberán contar con sus pasaportes sanitarios y con el permiso correspondiente otorgado en virtud del Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 22.727, del 24 de septiembre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+Lo dispuesto en el párrafo primero de este numeral no aplicará a los habitantes de localidades que se encuentren en los Pasos 3, 4 y 5, en conformidad con el Capítulo II de la presente resolución y que se desplacen entre localidades que estén en los Pasos 3, 4 y 5. Con todo, quienes se desplacen entre las señaladas localidades deberán contar con sus pasaportes sanitarios y con el permiso correspondiente otorgado en virtud del Instructivo para permisos de desplazamiento del que trata el oficio ordinario N� 25.535, de 20 de octubre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
-44 bis. Se autoriza la realización de oficios religiosos, ritos y ceremonias de las distintas comunidades religiosas en sus respectivos cultos en las localidades que se encuentren en Paso 2, 3, 4 o 5, sujeto a las siguientes reglas:
+44 bis. Se autoriza la realización de oficios, ritos y ceremonias en las localidades que se encuentren en Paso 2, 3, 4 o 5, sujeto a las siguientes reglas:
 
 a. Los oficios, ritos o ceremonias no podrán exceder las dos horas de duración.
 
 b. El aforo máximo de los espacios donde se efectúe el oficio, rito o ceremonia, ya sean cerrados o abiertos, no podrá exceder de una persona por cada 4 metros cuadrados útiles.
 
-c. Deberá darse estricto cumplimiento a las demás medidas sanitarias, según el paso en que se encuentre la localidad donde se emplaza el espacio en que se celebra el oficio, rito o ceremonia. En ningún caso podrá celebrarse un oficio, rito o ceremonia en localidades que se encuentren en cuarentena, ya sea en Paso 1 o Paso 2 durante los fines de semana y feriados.
+c. Deberá darse estricto cumplimiento a las demás medidas sanitarias, según el paso en que se encuentre la localidad donde se emplaza el espacio en que se celebra el oficio, rito o ceremonia. En ningún caso podrá celebrarse un oficio, rito o ceremonia en localidades que se encuentren en cuarentena, o en Paso 2 durante los fines de semana y feriados. Sin perjuicio de lo anterior, los funerales se regirán por sus normas especiales.
+
+d. Los asistentes deberán permanecer en una ubicación fija la mayoría del tiempo de duración de la actividad.
+
+e. No se permite el consumo de alimentos ni bebidas.
+
+f. Sin perjuicio de lo dispuesto en el literal b, los aforos máximos de los lugares donde se realicen los oficios, ritos y ceremonias, según el Paso que se trate, en conformidad al Capítulo II de la presente resolución, serán los siguientes:
+
+i. Paso 2 - Transición: 10 personas en un lugar cerrado y 20 personas en un lugar abierto, exceptuándose los fines de semana y festivos, en los que no está permitido la realización de oficios, ritos o ceremonias.
+
+ii. Paso 3 - Preparación: 50 personas en un lugar cerrado y 100 personas en un lugar abierto.
+
+iii. Paso 4 - Apertura Inicial: 100 personas en un lugar cerrado y 200 personas en un lugar abierto.
+
+iv. Paso 5 - Apertura Avanzada: 200 personas en un lugar cerrado y 400 personas en un lugar abierto.
 
 ### X. Medidas administrativas
 
@@ -372,19 +396,19 @@ Los 5 pasos de los que trata el párrafo anterior son los siguientes:
 
 ### 5. Paso 5: Apertura avanzada
 
-55. Para el desplazamiento de personas desde y hacia localidades que se encuentren en cuarentena, se estará a lo dispuesto en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 22.727, del 24 de septiembre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Lo mismo regirá para el desplazamiento de personas desde y hacia localidades que se encuentren en Transición, los días sábado, domingo y festivos.
+55. Para el desplazamiento de personas desde y hacia localidades que se encuentren en cuarentena, se estará a lo dispuesto en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 25.535, de 20 de octubre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Lo mismo regirá para el desplazamiento de personas desde y hacia localidades que se encuentren en Transición, los días sábado, domingo y festivos.
 
 ### II. Paso 1: Cuarentena
 
 56. A las localidades que estén en cuarentena se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, además de las cuarentenas determinadas por la autoridad sanitaria a dicha localidad.
 
-57. Exceptúase de la obligación de cumplir cuarentena establecida en una determinada localidad, a las personas que se encuentren en las circunstancias que se señalan en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 22.727, del 24 de septiembre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+57. Exceptúase de la obligación de cumplir cuarentena establecida en una determinada localidad, a las personas que se encuentren en las circunstancias que se señalan en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 25.535, de 20 de octubre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
 Dicho instructivo contempla, además, las formas y condiciones para la obtención de los permisos de desplazamiento por parte de las personas exceptuadas del cumplimiento de la medida de aislamiento o cuarentena.
 
 57 bis. En los centros dependientes del Servicio Nacional de Menores, tanto de administración directa como de organismos colaboradores, se observará la siguiente regla:
 
-a. Se permitirá a los niños, niñas y adolescentes hacer uso del permiso especial dispuesto en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 22.727, del 24 de septiembre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+a. Se permitirá a los niños, niñas y adolescentes hacer uso del permiso especial dispuesto en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 25.535, de 20 de octubre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
 ### III. Paso 2: Transición
 
@@ -393,6 +417,8 @@ a. Se permitirá a los niños, niñas y adolescentes hacer uso del permiso espec
 59. A las localidades que estén en Transición se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, con las modificaciones que se especifican en los numerales siguientes, que sólo tendrán efecto los días lunes a viernes exceptuando festivos.
 
 60. Se permitirá la realización o participación en eventos y actividades sociales y recreativas con un máximo de 10 personas en lugares cerrados y 20 personas en lugares abiertos, debiendo en todo momento cumplirse con lo establecido en los acápites V y VI del Capítulo I de la presente resolución.
+
+Un recinto podrá albergar más de un evento o actividad social y recreativa en simultáneo, siempre que cuente con muros u otras barreras físicas que aíslen todas las instalaciones requeridas por cada evento o actividad. Asimismo, deberán establecerse ingresos y salidas separadas para cada evento o actividad, ya sea en tiempo o espacio. Cada uno de estos eventos estará sujeto al aforo máximo dispuesto en el párrafo precedente.
 
 61. Se autorizan las actividades deportivas en lugares públicos y privados. Para aquellas actividades que sean de naturaleza colectiva, podrán concentrarse un máximo de 10 personas. Estas actividades solo podrán realizarse en lugares abiertos.
 
@@ -411,6 +437,8 @@ b. Se permiten visitas de vínculos significativos de los niños, niñas y adole
 62. Las localidades que estén en Preparación, no estarán sujetas a cuarentenas. A dichas localidades se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, con las modificaciones que se señalan en los numerales siguientes.
 
 63. Se permitirá la realización o participación en eventos y actividades sociales y recreativas con un máximo de 25 personas en lugares cerrados y 50 personas en lugares abiertos, debiendo en todo momento cumplirse con lo establecido en los acápites V y VI del Capítulo I de la presente resolución.
+
+Un recinto podrá albergar más de un evento o actividad social y recreativa en simultáneo, siempre que cuente con muros u otras barreras físicas que aíslen todas las instalaciones requeridas por cada evento o actividad. Asimismo, deberán establecerse ingresos y salidas separadas para cada evento o actividad, ya sea en tiempo o espacio. Cada uno de estos eventos estará sujeto al aforo máximo dispuesto en el párrafo precedente.
 
 64. Se autorizan las actividades deportivas en lugares públicos y privados. Para aquellas actividades que sean de naturaleza colectiva, podrán concentrarse un máximo de 5 personas en lugares cerrados y 25 personas en lugares abiertos.
 
@@ -433,6 +461,8 @@ c. Se permiten salidas con fines laborales a adolescentes de residencias que se 
 65. Las localidades que estén en Apertura Inicial, no estarán sujetas a cuarentenas. A dichas localidades se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, con las modificaciones que se señalan en los numerales siguientes.
 
 66. Se permitirá la realización o participación en eventos y actividades sociales y recreativas con un máximo de 50 personas en lugares cerrados y 100 personas en lugares abiertos, debiendo en todo momento cumplirse con lo establecido en los acápites V y VI del Capítulo I de la presente resolución.
+
+Un recinto podrá albergar más de un evento o actividad social y recreativa en simultáneo, siempre que cuente con muros u otras barreras físicas que aíslen todas las instalaciones requeridas por cada evento o actividad. Asimismo, deberán establecerse ingresos y salidas separadas para cada evento o actividad, ya sea en tiempo o espacio. Cada uno de estos eventos estará sujeto al aforo máximo dispuesto en el párrafo precedente.
 
 67. Se autorizan las actividades deportivas en lugares públicos y privados. Para aquellas actividades que sean de naturaleza colectiva, podrán concentrarse un máximo de 10 personas en lugares cerrados y 50 personas en lugares abiertos.
 
@@ -477,6 +507,8 @@ d. Se permiten, a los niños, niñas y adolescentes, salir con fines educacional
 a. Se permitirá el funcionamiento de los Centros de Día para adultos mayores que estén emplazados en localidades que se encuentren en este paso.
 
 b. Se permitirá la realización o participación en eventos y actividades sociales y recreativas con un máximo de 100 personas en lugares cerrados y 200 personas en lugares abiertos, debiendo en todo momento cumplirse con lo establecido en los acápites V y VI del Capítulo I de la presente resolución.
+
+Un recinto podrá albergar más de un evento o actividad social y recreativa en simultáneo, siempre que cuente con muros u otras barreras físicas que aíslen todas las instalaciones requeridas por cada evento o actividad. Asimismo, deberán establecerse ingresos y salidas separadas para cada evento o actividad, ya sea en tiempo o espacio. Cada uno de estos eventos estará sujeto al aforo máximo dispuesto en el párrafo precedente.
 
 c. No hay restricción a la actividad deportiva. Permite público con un máximo de 50% de su capacidad.
 
