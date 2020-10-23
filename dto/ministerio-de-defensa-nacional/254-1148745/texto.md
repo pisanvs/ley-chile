@@ -108,11 +108,11 @@ Institución Ejército
 
 Grado General de Brigada
 
-Apellidos Heyermann Ríos
+Apellidos Valdivia Concha
 
-Nombre Enrique
+Nombre Rodrigo
 
-RUN 9.301.648-3
+RUN 9.743.174-4
 
 REEMPLAZANTE
 
@@ -120,11 +120,11 @@ Institución Ejército
 
 Grado General de Brigada
 
-Apellidos Valdivia Concha
+Apellidos Heyermann Ríos
 
-Nombre Rodrigo
+Nombre Enrique
 
-RUN 9.743.174-4
+RUN 9.301.648-3
 
 REGIÓN DE COQUIMBO
 
@@ -134,9 +134,11 @@ Institución Ejército
 
 Grado General de Brigada
 
-Apellidos Onetto Jara Nombre Pablo
+Apellidos Van de Maele Silva
 
-RUN 10.717.197-5
+Nombre Patrice
+
+RUN 10.202.951-8
 
 REEMPLAZANTE
 
@@ -144,11 +146,11 @@ Institución Ejército
 
 Grado General de Brigada
 
-Apellidos Vallejos Martínez
+Apellidos Onetto Jara
 
-Nombre Osvaldo
+Nombre Pablo
 
-RUN 9.979.567-0
+RUN 10.717.197-5
 
 REGIÓN DE VALPARAÍSO
 
@@ -170,11 +172,11 @@ Institución Armada
 
 Grado Contraalmirante
 
-Apellidos Rodrigo Ramírez
+Apellidos Quijarro Santibáñez
 
-Nombre Andrés
+Nombre Leonardo
 
-RUN 9.524.522-6
+RUN 9.734.565-1
 
 REGIÓN METROPOLITANA
 
@@ -236,39 +238,27 @@ Institución Ejército
 
 Grado General de Brigada
 
-Apellidos Van de Maele Silva
-
-Nombre Patrice
-
-RUN 10.202.951-8
-
-REEMPLAZANTE
-
-Institución Ejército
-
-Grado General de Brigada
-
 Apellidos Lo Presti Rojas
 
 Nombre Hugo
 
 RUN 9.322.628-3
 
-REGIÓN DEL ÑUBLE
-
-TITULAR
+REEMPLAZANTE
 
 Institución Ejército
 
 Grado General de Brigada
 
-Apellidos Vial Maceratta
+Apellidos Vallejos Martínez
 
-Nombre Cristian
+Nombre Osvaldo
 
-RUN 11.840.650-8
+RUN 9.979.567-0
 
-REEMPLAZANTE
+REGIÓN DEL ÑUBLE
+
+TITULAR
 
 Institución Ejército
 
@@ -279,6 +269,18 @@ Apellidos Segura Flores
 Nombre Rubén
 
 RUN 10.321.564-1
+
+REEMPLAZANTE
+
+Institución Ejército
+
+Grado General de Brigada
+
+Apellidos Vial Maceratta
+
+Nombre Cristian
+
+RUN 11.840.650-8
 
 REGIÓN DEL BIOBÍO
 
@@ -314,11 +316,11 @@ Institución Ejército
 
 Grado General de Brigada
 
-Apellidos Mericq Guila
+Apellidos Pino Riquelme
 
-Nombre Patricio
+Nombre Rodrigo
 
-RUN 7.689.765-4
+RUN 10.529.666-5
 
 REEMPLAZANTE
 
@@ -326,11 +328,11 @@ Institución Ejército
 
 Grado General de Brigada
 
-Apellidos Pino Riquelme
+Apellidos Mericq Guila
 
-Nombre Rodrigo
+Nombre Patricio
 
-RUN 10.529.666-5
+RUN 7.689.765-4
 
 REGIÓN DE LOS RÍOS
 
