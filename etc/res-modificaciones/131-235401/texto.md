@@ -22,21 +22,19 @@ I.- Deróganse las letras c) y d) del numerando II de la resolución Nº 18, del
 
 II.- Delégase en el Jefe de la División Administrativa:
 
-a) La facultad para aplicar, en Nivel Central del Ministerio de Bienes Nacionales, el procedimiento que autorice el trato directo en todas las contrataciones en que el monto sea igual o inferior a 100 UTM, debiendo invocar la causal que se ajuste a cada caso, de conformidad a lo que establece el artículo 8º de la ley 19.886.
+a) La facultad para aplicar, en Nivel Central del Ministerio de Bienes Nacionales, el procedimiento que autorice el trato directo en todas las contrataciones en que el monto sea igual o inferior a 300 UTM, debiendo invocar la causal que se ajuste a cada caso, de conformidad a lo que establece el artículo 8º de la ley Nº 19.886. Con todo, se excluye de esta delegación la causal de emergencia, urgencia o imprevisto que indica la letra c) de dicho artículo, la que sólo podrá ser invocada, mediante resolución fundada, por el Jefe Superior del Servicio.
 
-Con todo, se excluye de esta delegación la causal de emergencia, urgencia o imprevisto que indica la letra c) de dicho artículo, la que sólo podrá ser invocada, mediante resolución fundada, por el Jefe Superior del Servicio.
+b) La facultad para celebrar y suscribir los contratos o convenios que en el marco de las facultades que por este acto se delegan, requiera la autoridad delegada para la correcta ejecución de la ley Nº 19.886 y su Reglamento, con los proveedores o contratistas que suministren bienes o servicios al Nivel Central del Ministerio de Bienes Nacionales, de conformidad a la normativa vigente y hasta por un monto igual o inferior a 300 UTM.
 
-b) La facultad para celebrar y suscribir los contratos o convenios que, en el marco de las facultades que por este acto se delegan, requiera la autoridad delegada para la correcta ejecución de la ley Nº 19.886 y su reglamento, con los proveedores o contratistas que suministren bienes o servicios al Nivel Central del Ministerio de Bienes Nacionales, de conformidad a la normativa vigente y hasta por un monto igual o inferior a 100 UTM.
-
-El Jefe de la División Administrativa deberá remitir a la Subsecretaría de Bienes Nacionales copias de las resoluciones totalmente tramitadas, y de los convenios o contratos que suscriba en virtud de la presente delegación.
+El jefe de la División Administrativa deberá remitir a la Subsecretaría de Bienes Nacionales copias de las resoluciones totalmente tramitadas, y de los convenios o contratos que suscriba en virtud de la presente delegación.
 
 III.- Delégase en los Secretarios Regionales Ministeriales de Bienes Nacionales:
 
-a) La facultad para aplicar, en el territorio de su competencia, el procedimiento que autorice el trato directo en todas las contrataciones que el monto sea igual o inferior a 100 UTM, debiendo invocar la causal que se ajuste a cada caso, de conformidad a lo que establece el artículo 8º de la ley 19.886. Con todo, se excluye de esta delegación la causal de emergencia, urgencia o imprevisto que indica la letra c) de dicho artículo, la que sólo podrá ser invocada, mediante resolución fundada, por el Jefe Superior del Servicio.
+a) La facultad para aplicar, en el territorio de su competencia, el procedimiento que autorice el trato directo en todas las contrataciones que el monto sea igual o inferior a 300 UTM, debiendo invocar la causal que se ajuste a cada caso, de conformidad a lo que establece el artículo 8º de la ley Nº 19.886. Con todo, se excluye de esta delegación la causal de emergencia, urgencia o imprevisto que indica la letra c) de dicho artículo, la que sólo podrá ser invocada mediante resolución fundada, por el Jefe Superior del Servicio.
 
-b) La facultad para celebrar y suscribir los contratos o convenios que, en el marco de las facultades que por este acto se delegan, requiera la autoridad delegada para la correcta ejecución de la ley Nº 19.886 y su reglamento, con los proveedores o contratistas que suministren bienes o servicios al Nivel Central del Ministerio de Bienes Nacionales, de conformidad a la normativa vigente y hasta por un monto igual o inferior a 100 UTM.
+b) La facultad para celebrar y suscribir los contratos o convenios que, en el marco de las facultades que por este acto se delegan, requiera la autoridad delegada para la correcta ejecución de la ley Nº 19.886 y su Reglamento, con los proveedores o contratistas que suministren bienes o servicios al Nivel Central de Ministerio de Bienes Nacionales, de conformidad a la normativa vigente y hasta por un monto igual o inferior a 300 UTM.
 
-En el ejercicio de estas facultades, los Secretarios Regionales Ministeriales deberán remitir a la Unidad de Auditoría Interna del Nivel Central del Ministerio copias de las resoluciones totalmente tramitadas y de los convenios o contratos que suscriban en virtud de la presente delegación.
+En el ejercicio de estas facultades, los Secretarios Regionales Ministeriales deberán remitir a la Unidad de Auditoría Interna del Nivel Central del Ministerio, copias de las resoluciones totalmente tramitadas y de los convenios o contratos que suscriban en virtud de la presente delegación.
 
 IV.- En todo lo no derogado, permanecerán plenamente vigentes las resoluciones Nº 18, del 21 de octubre de 1981, y Nº 39, de 20 de diciembre de 1982, todas del Ministerio de Bienes Nacionales.
 
