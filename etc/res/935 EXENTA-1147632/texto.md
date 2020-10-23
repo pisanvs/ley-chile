@@ -56,7 +56,7 @@ Resuelvo:
 
 Llámase a presentación de proyectos habitacionales del Programa de Integración Social y Territorial, regulado por el DS N° 19 (V. y U.), de 2016, en los dos Lotes de propiedad de Serviu Metropolitano, ubicados en la Ciudad Parque Bicentenario de la comuna de Cerrillos, singularizados en el Considerando d) de la presente resolución.
 
-Este llamado a postulación regional se efectuará a partir de la fecha de la publicación de la presente resolución en el Diario Oficial hasta el día lunes 19 de octubre de 2020.
+Este llamado a postulación regional se efectuará a partir de la fecha de la publicación de la presente resolución en el Diario Oficial hasta el día viernes 30 de octubre de 2020.
 
 Durante este periodo, las entidades desarrolladoras deberán presentar los proyectos habitacionales con la documentación y antecedentes exigidos por dicho reglamento y por la presente resolución.
 
@@ -80,7 +80,7 @@ Para efectos de la tramitación de los expedientes en la respectiva Dirección d
 
 ### 3. FACTORES Y PUNTAJES
 
-Los requisitos y condiciones establecidos en la Tabla de Factores y Puntajes contenida en el Artículo 11°, del DS N° 19, serán ponderados en un 40%. No se considerará en esta evaluación el puntaje correspondiente a los ítems 1. Localización del Proyecto Habitacional y 2. Contexto del Proyecto Habitacional, de la tabla señalada anteriormente, debido a que los lotes en que se emplazarán los proyectos propuestos se encuentran singularizados, el puntaje final obtenido por cada una de las propuestas se calculará de acuerdo a la siguiente tabla:
+Los requisitos y condiciones establecidos en la Tabla de Factores y Puntajes contenida en el artículo 11°, del DS N° 19, serán ponderados en un 40%. No se ponderarán en esta evaluación los puntajes correspondientes a los Ítems 1. Localización del Proyecto Habitacional y el Ítem 2. Contexto del Proyecto Habitacional, de la tabla señalada anteriormente, debido a que los lotes en que se emplazarán los proyectos propuestos se encuentran singularizados. Tampoco se ponderará el puntaje correspondiente al quinto factor de puntajes del Ítem 4, referido a los edificios que "presentan más de 3 y hasta 8 pisos". El puntaje final obtenido por cada una de las propuestas se calculará de acuerdo a la siguiente tabla:
 
 ### 4. REQUISITOS TÉCNICOS QUE DEBEN CUMPLIR LOS PROYECTOS HABITACIONALES
 
@@ -134,8 +134,6 @@ Hacia bien nacional de uso público: Altura mínima 2m y considerar un mínimo d
 
 Entre lotes: Medianero opaco de estructura soportante rígida de 2m de altura.
 
-En comercios y/o servicios: En los frentes hacia Bien Nacional de Uso Público que corresponden a las zonas donde se emplazan los locales comerciales y/o servicios, se debe considerar un cierre de carácter definitivo el cual permita ser retirado durante el día y cerrado durante la noche.
-
 4.3.5. Criterios de Sustentabilidad y Eficiencia Energética:
 
 a) El proyecto deberá incluir elementos de eficiencia energética. El estándar mínimo obligatorio de eficiencia energética para elementos de la envolvente de las viviendas será el siguiente:
@@ -164,6 +162,8 @@ A continuación se detallan los criterios de selección especiales definidos por
 
 *** Además del cumplimiento del requerimiento de eficiencia energética descrito en el 4.3.5, el proyecto podrá obtener puntajes adicionales si la propuesta considera los elementos del estándar adicional optativo de eficiencia energética para las viviendas.
 
+Para el caso del Estándar opcional de Eficiencia Energética, las entidades pueden optar a un máximo de 55 puntos seleccionando algunos de los 6 "Parámetro de Evaluación y Descripción" incorporados en Ítem e) de la Tabla de Criterios de Selección Especial.
+
 **** El compromiso de la entidad desarrolladora de mantener la evaluación "C" o superior, deberá quedar consignado en el respectivo convenio suscrito con Serviu, asegurando el cumplimiento de la letra "C" o superior, para todas las viviendas del conjunto al obtener el Permiso de Edificación (presentando la Precalificación Energética del proyecto), y al obtener la Recepción Municipal (presentando la Calificación Energética Definitiva del proyecto). El Serviu respectivo deberá asegurarse que dicha evaluación se mantenga y se corrobore en los hitos descritos anteriormente.
 
 ### 6. OFERTA POR VALOR DEL SUELO
@@ -174,13 +174,21 @@ El valor de Tasación comercial Serviu del Lote B8 corresponde a 65.678 Unidades
 
 El valor de Tasación comercial Serviu del Lote V1-B2 corresponde a 93.438 Unidades de Fomento.
 
+Para efectos de este llamado se consideran los siguientes valores como mínimo esperado (que no otorga puntaje) y máximo para el cálculo de las ofertas económicas en cada uno de los lotes:
+
+.
+
+La fórmula para calcular el puntaje obtenido por el valor de suelo ofertado se señala en la
+
+siguiente tabla:
+
 7. REVISIÓN, EVALUACIÓN, APROBACIÓN Y SELECCIÓN DE LOS PROYECTOS HABITACIONALES
 
 Se efectuará de acuerdo a lo señalado en los artículos 12° y 13° del DS N° 19. De forma paralela a la revisión de los proyectos que realiza el Serviu y con anterioridad a la sesión de la Comisión Evaluadora, la Seremi deberá revisar la normativa urbana aplicable a cada uno de los proyectos presentados y los informes de Revisores independientes que se adjunten a los antecedentes, en el caso de proyectos que se presenten sin permiso de edificación, todo lo anterior se deberá certificar mediante un informe a ser presentado en la sesión de la Comisión Evaluadora.
 
 ### 8. DESEMPATE DE PROYECTOS
 
-En caso de que, habiendo aplicado lo indicado en el inciso tercero del artículo 13° del DS N° 19, persista el empale, el orden de prelación se definirá dando prioridad a aquel proyecto cuya propuesta presente el porcentaje más alto de viviendas en el tramo de precios intermedio, de 1.300 UF a 1.500 UF. En caso de continuar el empate, se procederá a definir mediante votación de los integrantes de la Comisión Evaluadora definida en la letra a) del artículo 2° del DS N° 19.
+En caso de que, habiendo aplicado lo indicado en el inciso tercero del artículo 13° del DS N° 19, persista el empale, el orden de prelación se definirá dando prioridad a aquel proyecto cuya propuesta presente el porcentaje más alto de viviendas en el tramo de precios intermedio, de 1.200 UF a 1.400 UF En caso de continuar el empate, se procederá a definir mediante votación de los integrantes de la Comisión Evaluadora definida en la letra a) del artículo 2° del DS N° 19.
 
 ### 9. CONVENIOS SERVIU - ENTIDAD DESARROLLADORA
 
@@ -223,5 +231,7 @@ La transferencia del terreno a la Entidad Desarrolladora, cuyo Proyecto haya sid
 El Serviu Región Metropolitana deberá suscribir una carta compromiso en que se obliga a transferir el terreno a la Entidad Desarrolladora cuyo proyecto resulte seleccionado en este llamado, en un plazo no superior a 30 días, contados desde la fecha de la resolución de selección del proyecto.
 
 A fin de garantizar que el terreno transferido se destine al desarrollo del proyecto seleccionado, cumpliendo con las características y condiciones con que fue aprobado por la Comisión Evaluadora, la respectiva Entidad Desarrolladora deberá presentar en forma previa a la firma de la escritura de Compraventa una póliza de garantía de ejecución inmediata, equivalente al valor ofertado por el terreno.
+
+> **Nota.** El literal e) del numeral 1 de la Resolución 1272 Exenta, Vivienda, publicada el 23.10.2020, modifica la tabla inserta en el Resuelvo N° 5 de la presente norma, en en la columna "Factor de Puntajes" del Ítem letra d) "Entrega de información del proyecto bajo metodología BIM": donde dice: "Generación del documento PEB definitivo", debe decir: "Generación del documento PEB de oferta".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Manuel José Errázuriz Tagle, Secretario Regional Ministerial Metropolitano de Vivienda y Urbanismo.
