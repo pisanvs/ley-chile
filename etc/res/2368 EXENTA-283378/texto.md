@@ -18,9 +18,7 @@ a) La facultad para adquirir bienes o suministros y contratar servicios mediante
 
 b) La facultad para contratar fuera del sistema de información de compras y contratación públicas, en los casos señalados en el artículo 53 del DS N° 250, de 2004, del Ministerio de Hacienda;
 
-c) La facultad para adquirir bienes y/o contratar servicios mediante licitación pública y/o privada, conforme lo establecido en la ley 19.886, siempre que el monto sea igual o inferior a 100 UTM;
-
-La limitación establecida en esta letra no se aplicará respecto de los servicios contratados por las Secretarías Regionales Ministeriales en virtud de las facultades delegadas mediante la resolución N° 108, de 1996, de la Subsecretaría de Bienes Nacionales y la resolución Nº 23, de 1998, de la Ministra de Bienes Nacionales.
+c) La facultad para adquirir bienes y/o contratar servicios mediante licitación pública y/o privada, conforme lo establecido en la ley Nº 19.886, siempre que el monto sea igual o inferior a 300 UTM.
 
 2°.- Las facultades que se delegan deberán ser ejercidas por el Jefe de la División Administrativa en el nivel Central del Ministerio y por los Secretarios Regionales Ministeriales en los territorios de su competencia.
 
