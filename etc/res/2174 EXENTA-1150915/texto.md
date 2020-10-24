@@ -1,0 +1,5 @@
+AUTORIZA A CAMANCHACA S.A. PARA CONTINUAR DESARROLLANDO ACTIVIDADES EXTRACTIVAS QUE INDICA
+
+Por resolución exenta Nº 2.174, de 15 de octubre de 2020 de esta Subsecretaría, autorízase a Camanchaca S.A., para continuar desarrollando las actividades pesqueras autorizadas a Compañía Pesquera Camanchaca S.A., según se indica, en virtud de la escritura pública y disposiciones legales citadas en Visto de la resolución extractada, respecto de las Licencias Transables de Pesca otorgadas mediante resoluciones exentas Nos 2.011, 2.012, 2.013, 2.014, 2.015, 2.016, 2.017, 2.018, 2.019, 2.020, 2.021, todas de 2013, N os 511, 512, 513, todas de 2019, N os 417, 418, 419, 420, 421, 1.170, 1.172, 1.173, 1.174, 1.175, 1.176, 1.177, 1.178 y 1.179, todas de 2020, de esta Subsecretaría y sus modificaciones posteriores.
+
+Valparaíso, 15 de octubre de 2020.- Román Zelaya Ríos, Subsecretario de Pesca y Acuicultura.
