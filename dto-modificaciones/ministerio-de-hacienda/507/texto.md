@@ -354,7 +354,7 @@ Lo anterior, será efectuado por la Tesorería General de la República con carg
 
 #### Artículo 19°
 
-Mediante uno o más decretos supremos podrán modificarse, en todo o en parte, los términos y condiciones de cada emisión de Letras, y los términos de este decreto que se le apliquen, solamente si el emisor cuenta con la aprobación y consentimiento de los tenedores de la respectiva serie de Letras que representen un monto igual o mayor al setenta y cinco por ciento del capital de dicha emisión que esté vigente y pendiente de pago. Asimismo, podrán modificarse, en todo o en parte, los términos y condiciones de más de una serie de Letras, en caso que cumplan copulativamente con los siguientes requisitos: i) aprobación y consentimiento de los tenedores por un monto igual o mayor a dos tercios del capital total agregado vigente y pendiente de pago de todas las series afectadas por las modificaciones; y ii) aprobación y consentimiento de los tenedores de cada serie por un monto igual o mayor a cincuenta por ciento del capital vigente y pendiente de pago de cada serie de Letras sujeto a modificaciones. Con todo, las modificaciones antes señaladas solamente podrán referirse a las materias indicadas a continuación:
+Mediante uno o más decretos supremos podrán modificarse, en todo o en parte, los términos y condiciones de cada emisión de Letras o Bonos DS 507, y los términos de este decreto que se le apliquen, solamente si el emisor cuenta con la aprobación y consentimiento de los tenedores de la respectiva serie de Letras o Bonos DS 507 que representen un monto igual o mayor al setenta y cinco por ciento del capital de dicha emisión que esté vigente y pendiente de pago. Asimismo, podrán modificarse, en todo o en parte, los términos y condiciones de más de una serie de Letras o Bonos DS 507, en caso que cumplan copulativamente con los siguientes requisitos: i) aprobación y consentimiento de los tenedores por un monto igual o mayor a dos tercios del capital total agregado vigente y pendiente de pago de todas las series afectadas por las modificaciones; y ii) aprobación y consentimiento de los tenedores de cada serie por un monto igual o mayor a cincuenta por ciento del capital vigente y pendiente de pago de cada serie de Letras o Bonos DS 507 sujeto a modificaciones. Con todo, las modificaciones antes señaladas solamente podrán referirse a las materias indicadas a continuación:
 
 a) Modificar la fecha de vencimiento y pago del capital;
 
@@ -370,17 +370,17 @@ f) Declarar la conversión o canje obligatorio de dichos bonos por otros título
 
 g) Alterar las normas relativas a la modificación de las características de dichos bonos contenidas en este decreto.
 
-En todas las demás materias, los términos y condiciones de las Letras, establecidos en el presente decreto, sólo podrán modificarse por decreto supremo en la medida que se cuente previamente con la aprobación y consentimiento de los tenedores de los bonos objeto de la modificación que representen un monto igual o mayor a los dos tercios del total del capital de dichos bonos, que estén vigentes y pendientes de pago.
+En todas las demás materias, los términos y condiciones de las Letras o Bonos DS 507, establecidos en el presente decreto, sólo podrán modificarse por decreto supremo en la medida que se cuente previamente con la aprobación y consentimiento de los tenedores de los bonos objeto de la modificación que representen un monto igual o mayor a los dos tercios del total del capital de dichos bonos, que estén vigentes y pendientes de pago.
 
-Con todo, no se requerirá del consentimiento de los tenedores de las Letras respectivas y podrán modificarse, simplemente por medio de decreto supremo, tanto los términos y condiciones de dichos bonos como este decreto, para los siguientes propósitos:
+Con todo, no se requerirá del consentimiento de los tenedores de las Letras o Bonos DS 507 respectivas y podrán modificarse, simplemente por medio de decreto supremo, tanto los términos y condiciones de dichos bonos como este decreto, para los siguientes propósitos:
 
 a) Modificar este decreto para aclarar aquello en que sea ambiguo o para corregir errores formales de texto;
 
-b) Establecer e incluir, a favor de los tenedores de alguno de las Letras, beneficios tales como preferencias, cauciones o garantías, sin perjuicio de lo dispuesto en el artículo 20; o
+b) Establecer e incluir, a favor de los tenedores de alguno de las Letras o Bonos DS 507, beneficios tales como preferencias, cauciones o garantías, sin perjuicio de lo dispuesto en el artículo 20; o
 
-c) Cualquier otro que no afecte el derecho o interés de los tenedores de alguna de las Letras, en relación con la emisión y pago de los mismos.
+c) Cualquier otro que no afecte el derecho o interés de los tenedores de alguna de las Letras o Bonos DS 507, en relación con la emisión y pago de los mismos.
 
-Para los efectos de este decreto, las Letras bajo el dominio de la Tesorería General de la República o de cualquier persona perteneciente, directa o indirectamente, al sector público de conformidad con la Ley de Administración Financiera del Estado, o de las empresas del Estado, o las empresas, sociedades o instituciones en las que el sector público o sus empresas tengan un aporte de capital superior al 50% del capital social de dichas entidades o que sean controladas por el Fisco, no serán considerados para el cálculo de las mayorías señaladas en este número ni en cualquier otra materia que sea objeto de votación de acuerdo con este decreto y, en consecuencia, se considerarán como no emitidos únicamente para estos efectos. Se entenderá que el Fisco controla directa o indirectamente una entidad en los casos establecidos en el artículo 97 de la ley Nº 18.045.
+Para los efectos de este decreto, las Letras o Bonos DS 507 bajo el dominio de la Tesorería General de la República o de cualquier persona perteneciente, directa o indirectamente, al sector público de conformidad con la Ley de Administración Financiera del Estado, o de las empresas del Estado, o las empresas, sociedades o instituciones en las que el sector público o sus empresas tengan un aporte de capital superior al 50% del capital social de dichas entidades o que sean controladas por el Fisco, no serán considerados para el cálculo de las mayorías señaladas en este número ni en cualquier otra materia que sea objeto de votación de acuerdo con este decreto y, en consecuencia, se considerarán como no emitidos únicamente para estos efectos. Se entenderá que el Fisco controla directa o indirectamente una entidad en los casos establecidos en el artículo 97 de la ley Nº 18.045.
 
 #### Artículo 20°
 
@@ -391,6 +391,10 @@ Para efectos del cálculo del porcentaje señalado en este artículo, no serán 
 #### Artículo 21°
 
 Facúltase a la Tesorería General de la República para que acuerde uno o más medios de comunicación escrita para publicar los avisos, solicitudes u otras comunicaciones que deban darse a los tenedores de todos los bonos o valores representativos de deuda pública directa autorizados por este decreto.
+
+#### Artículo 22º
+
+Autorízase al Ministro de Hacienda y al Tesorero General de la República para que, previo decreto supremo, procedan a una o varias reaperturas de la serie de los Bonos DS 507, con el objeto de incrementar el monto que se indica en las letras c) y d) del artículo 4º de este decreto, aumentando de esta manera la cantidad de títulos pertenecientes a la misma serie.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Ignacio Briones Rojas, Ministro de Hacienda.
 
