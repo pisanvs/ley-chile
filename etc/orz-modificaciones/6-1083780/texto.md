@@ -136,6 +136,8 @@ Los servicios referidos en la tabla siguiente tendrán por concepto de derechos 
 
 .
 
+> **Nota.** El numeral 2 del artículo 1° de la Resolución 25, Municipalidad de Peñalolén, publicada el 28.10.2020, modifica la presente norma en el sentido de reemplazar en la tabla contenida en el presente artículo, las líneas números 4, 5, 6, 8, 11, 13, 15, 16, 17, 18, 19, 24, 25, 28, 33, 35 y 38 por las que la citada norma indica.
+
 #### Artículo 16º
 
 Los servicios de bodegaje respecto de los vehículos abandonados en la vía pública, o retenidos por cualquier causa, que llegaren a los recintos municipales, pagarán los siguientes derechos por día:
@@ -157,6 +159,8 @@ DERECHOS MUNICIPALES RELACIONADOS CON LAS CONTRIBUCIONES DE PATENTES POR EL EJER
 El otorgamiento de permisos y certificados para el ejercicio de actividades lucrativas en bienes particulares o nacionales de uso público, pagarán los siguientes derechos municipales:
 
 .
+
+> **Nota.** NOTA 1 El numeral 4 del artículo 1° de la Resolución 25, Municipalidad de Peñalolén, publicada el 28.10.2020, modifica la presente norma en el sentido de sustituir en la tabla contenida en el presente artículo, la línea número 6, por la que la citada norma indica.
 
 ## Título VI
 
@@ -395,6 +399,14 @@ El pie mínimo para suscribir dicho convenio será de treinta por ciento (30%).
 #### Artículo transitorio
 
 Los recintos deportivos y el Chimkowe son administrados por la Corporación de Deportes y Cultura respectivamente; mientras se mantenga dicha administración las Corporaciones señaladas se reservan el derecho a fijar los cobros por su uso. En caso de que la administración sea traspasada a este municipio, los derechos municipales respectivos se fijarán mediante decreto alcaldicio.
+
+#### Artículo transitorio
+
+Desde octubre de 2020 y hasta el mes de diciembre de 2021, ambos meses inclusive, quedarán exentos del pago de derechos por concepto de utilización de bien nacional de uso público, las siguientes situaciones:
+
+1.- Los kioskos asociados a los giros de suplementeros en la venta de diarios, revistas, cigarrillos, bebidas y/o juegos de azar respecto del derecho a que se refiere el número 1 del artículo 18.
+
+2.- La instalación de mesas y afines para la atención de público contemplado en el número 8 del artículo 18, siempre que se cumpla con las exigencias que imponga la municipalidad, especialmente referidas al cumplimiento de la normativa sanitaria y a las condiciones de prevención y seguridad peatonal y vehicular.
 
 3.- La nueva Ordenanza Local sobre Derechos Municipales de la Comuna de Peñalolén, comenzará a regir a partir del 1 de enero del año 2016, una vez efectuada su publicación.
 
