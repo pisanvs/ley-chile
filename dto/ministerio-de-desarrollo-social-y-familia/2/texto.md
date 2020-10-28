@@ -52,25 +52,23 @@ b) Andrea Isabel Repetto Lisboa, RUN 8.795 355-6;
 
 c) Annie Dufey Domínguez, RUN 11.740.036-0;
 
-d) Harald Ricardo Beyer Burgos, RUN 8 .994 421-K;
+d) Marcela Bravo Puldain, RUN 6.634.243-3;
 
-e) Lucía Santa Cruz Sutil, RUN 7.117.816-1;
+e) Pablo Alberto González Soto, RUN 9.530.801-5;
 
-f) Marcela Bravo Puldain, RUN 6.634.243-3;
+f) Raimundo José Frei Toledo, RUN 14.122.586-3;
 
-g) Pablo Alberto González Soto, RUN 9.530.801-5;
+g) Roberto González Gutiérrez, RUN 10.396.183-1;
 
-h) Raimundo José Frei Toledo, RUN 14.122.586-3;
+h) Rodrigo Hernán Jordán Fuchs, RUN 8.012.632-8;
 
-i) Roberto González Gutiérrez, RUN 10.396.183-1;
+i) Sebastián José Bowen Carranza, RUN 14.122.952-4;
 
-j) Rodrigo Hernán Jordán Fuchs, RUN 8.012.632-8;
+j) Simone Cecchini, RUN 49.016.351-4, y
 
-k) Sebastián José Bowen Carranza, RUN 14.122.952-4;
+k) Sylvia Eyzaguirre Tafra, RUN 9.910.669-7.
 
-l) Simone Cecchini, RUN 49.016.351-4, y
-
-m) Sylvia Eyzaguirre Tafra, RUN 9.910.669-7.
+l) María Victoria Paz Machuca, RUN 14.118.739-2.
 
 Los miembros del Consejo Asesor desempeñarán sus funciones ad honorem.
 
