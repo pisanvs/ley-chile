@@ -26,7 +26,9 @@ Para estos efectos, la presente Administración Presidencial impulsará un gasto
 
 #### Artículo 2º
 
-De la Meta de Déficit Estructural. La meta fiscal de la presente administración será, a partir del año 2020 y hasta el año 2022, reducir el déficit estructural en aproximadamente 1,2% Producto Interno Bruto (PIB), comenzando con un déficit estructural de 3,2% del PIB en 2020, pasando a un déficit estructural de 2,5% del PIB en 2021, para llegar a un déficit estructural de 2,0% del PIB el año 2022.
+De la Meta de Déficit Estructural.
+
+La meta fiscal de la presente administración será alcanzar un déficit estructural de 3,9% del PIB en el año 2022, comenzando con un déficit estructural de 3,2% del PIB en el año 2020, y un déficit estructural de 4,7% del PIB para el año 2021.
 
 #### Artículo 3°
 
