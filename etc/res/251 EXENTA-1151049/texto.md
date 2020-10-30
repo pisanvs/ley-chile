@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "PARQUE EÓLICO SAN MATÍAS"
+
+De conformidad con lo dispuesto en el artículo 94 del DS N°40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que mediante resolución exenta N°251, de fecha 22 de octubre de 2020, la Directora Regional del Servicio de Evaluación Ambiental de la Región del Biobío ha resuelto dar inicio a un proceso de participación ciudadana por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto: "Parque Eólico San Matías", cuyo proponente es Energía Eólica San Matías SpA.
+
+El Proyecto se sitúa en la Región del Biobío, en la provincia de Biobío, comuna de Los Ángeles. El proyecto tiene como objetivo la construcción y operación de un parque eólico conformado por 25 aerogeneradores, una subestación elevadora y una línea eléctrica de alta tensión de 6,8 km de longitud, la cual enviará la energía del parque hacia la subestación eléctrica Campo Lindo. Cada aerogenerador tendrá la capacidad de hasta 5,6 MW cada uno, con una capacidad total instalada de hasta 140 MW como máximo, generando aproximadamente 466 GWh anuales. La vida útil del proyecto es de 30 años.
+
+Para conocimiento de la comunidad, cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del DS N° 40/2012 y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental, de 20 días hábiles, contados a partir del día hábil siguiente de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Biobío, ubicadas en calle Lincoyán 145, Concepción, en horario de atención entre las 8:30 a 13:30, en días hábiles de lunes a viernes, así como también podrá acceder a ella a través del sitio web https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=b1/4a/7151ff5bfc86 84588745997685a67682c9ec.-
+
+Silvana Suanes Araneda, Directora Regional, Servicio de Evaluación Ambiental Región del Biobío.
