@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL (DIA) "NUEVO DEPÓSITO DE RESIDUOS INDUSTRIALES SÓLIDOS NO PELIGROSOS PLANTA CONSTITUCIÓN-VIÑALES"
+
+De conformidad a lo dispuesto en el artículo 95 e inciso final del artículo 91 del DS N° 40/2012 del MMA (Reglamento del SEIA) se comunica a toda persona natural o jurídica que hubiera presentado observaciones durante la evaluación ambiental de la DIA del proyecto "Nuevo Depósito de Residuos Industriales Sólidos No Peligrosos Planta Constitución-Viñales", sometido al Sistema de Evaluación de Impacto Ambiental por su titular "Celulosa Arauco y Constitución S.A.", que por resolución exenta N° 247, de 2 de octubre de 2020, la Comisión de Evaluación de la Región del Maule calificó favorablemente el proyecto singularizado. Estas personas, naturales o jurídicas, disponen de un plazo de 30 días, contados desde la presente notificación, para presentar recurso de reclamación ante el Director Ejecutivo del Servicio de Evaluación Ambiental, de conformidad al artículo 30 bis de la ley 19.300.
+
+El texto íntegro de la resolución antes señalada, puede ser conocido en dependencias de la Dirección Regional del SEA Maule, ubicado en 2 Oriente N° 946, Talca, en la Ilustre Municipalidad de Constitución, ubicada en Portales 450, Constitución; así como también en el sitio web www.sea.gob.cl.-
+
+René Alejandro Christen Fernández, Director Regional del Servicio de Evaluación Ambiental, Región del Maule.
