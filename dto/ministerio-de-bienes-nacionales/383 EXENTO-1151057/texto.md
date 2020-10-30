@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "GRENERGY RENOVABLES PACIFIC LIMITADA"
+
+Mediante decreto exento N° 383, de 9 de octubre de 2020, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Grenergy Renovables Pacific Limitada", RUT N° 76.257.813-1, el inmueble fiscal denominado "Mantos Blancos, Lote B", ubicado a 700 metros al sur de la Ruta 5 Norte, en el sector Mantos Blancos, aproximadamente a 45 Kms. al noreste desde Barrio Industrial La Negra, comuna, provincia y Región de Antofagasta; enrolado en el Servicio de Impuestos Internos con el N° 6404.3; amparado por inscripción global a nombre del Fisco a fs. 3509 vta. N° 3776 del Registro de Propiedad del Conservador de Bienes Raíces de Antofagasta, correspondiente al año 2014; singularizado en el Plano N° 02101-9158-C.R.; superficie de 25,38 has. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de UF 557,38; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe de División Jurídica.
