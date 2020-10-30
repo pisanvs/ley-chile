@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "IBEREÓLICA SOLAR ELENA SpA"
+
+Mediante decreto exento Nº 386 de 9 de octubre de 2020, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Ibereólica Solar Elena SpA", RUT Nº 76.545.701-7, el inmueble fiscal denominado "Quillaguita", ubicado aprox. a 15 kms. al noreste de la intersección de la Ruta 5 con la Ruta 24, Sector Crucero, comuna de María Elena, provincia de Tocopilla, Región de Antofagasta; enrolado en el Servicio de Impuestos Internos con el Nº 6800-21; amparado por inscripción global a nombre del Fisco a fs. 4 Nº 2 del Registro de Propiedad del Conservador de Bienes Raíces de María Elena, correspondiente al año 2015; singularizado en el Plano Nº 02302-4537-C.R.; superficie de 634,39 has. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Periodo de Estudios y Construcción será de UF 8.100; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe de División Jurídica.
