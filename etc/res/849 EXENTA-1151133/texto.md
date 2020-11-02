@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 849, de fecha 21 de octubre de 2020, de Serviu Región de la Araucanía, conforme al artículo 48 y 62 Ley 19.880, se ordenó la rectificación de la resolución Ex. N° 3.589 de fecha 07/11/2018 de Serviu Araucanía, que dispuso la expropiación del Lote 03-0, por existir un error de transcripción en su Resuelvo N° 1, por lo que corresponde que indique, en definitiva, lo siguiente: "Deslindes particulares Lote 03-0A a expropiar: Norte: En línea quebrada de 79,22 metros con lote saldo 03-0B, en línea curva de 28,52 metros con lote saldo 03-0B, en línea quebrada de 87,48 metros, 45,62 metros, 22,53 metros, 131,62 metros, 11,6 metros y 55,4 metros con lote saldo 03-0B y en 2,62 metros con lote vecino; Sur: En línea quebrada de 87,96 metros, 21,33 metros, 70,1 metros, 80,97 metros, 148,2 metros y 65 metros con calle Braulio Arenas; Poniente: En línea recta de 4,16 metros con lote vecino.".
+
+Director Serviu Región de la Araucanía.
