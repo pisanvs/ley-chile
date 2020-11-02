@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 2.216, del 16 de octubre de 2020, Serviu Región del Biobío ordenó expropiación parcial de inmueble ubicado en Arrau M 437 C C U, Rol de Avalúo 1128-35, comuna de Concepción, de aparente dominio de Riquelme Coronado Carlos Gastón. La superficie afecta expropiación es de 23,43 m2 de terreno (Lote 76) y 7,60 m2 de total de edificación, conforme a plano de expropiación S8R-38121-2 del mes de octubre de 2020, para la ejecución de la obra Mejoramiento Paso Sobre Nivel Esmeralda y Vialidad Asociada, Concepción, comuna de Concepción, Región del Biobío, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Mario Alexis Martínez Ortiz, por la arquitecta Priscilla Andrea Encalada Rueda y por la constructora civil María Soledad Silva Hernández, según informe de fecha 24.09.2020, que fijó monto provisional en $4.141.200.-, más una suma de $24.847.-, por concepto de reajuste del artículo 5° del DL 2.186 de 1978, que dan la cifra de $4.166.047.-, pagadero de contado.
+
+Director Serviu Región del Biobío.
