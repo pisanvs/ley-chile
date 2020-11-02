@@ -1,0 +1,7 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 75, de 25 de febrero 2020, del Ministerio de Defensa Nacional, Subsecretaría para los Fuerzas Armadas, otorgó a Mowi Chile S.A. RUT 96.633.780-K primera renovación de concesión marítima menor con vencimiento 31 de diciembre de 2024 sobre un sector de playa, en el lugar denominado Bahía Linao, Sector Linao, comuna de Ancud, Provincia de Chiloé, Región de Los Lagos, con una superficie total de 2.299,32 m2, la que fue tramitada con el SIABC Nº 35911. A modo referencial se señala la siguiente coordenada geográfica: 41º57'50,09" S; 73º33'19,74" W (WGS-84). El objeto consiste en establecer un sector de playa como patio de trabajo que permita el tendido de redes, armado y mantención de jaulas salmoneras y el movimiento de maquinarias para la carga y descarga de materiales desde y hacia embarcaciones menores; y amparar un relleno para habilitar una explanada y un muro de contención, el que se utiliza para albergar una pequeña bodega.
+
+Las obras existentes consisten en relleno en sector 2 que alberga pequeña bodega. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Ancud. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Miguel Ángel Bravo Vera, Capitán de Corbeta LT, Capitán de Puerto de Ancud.
