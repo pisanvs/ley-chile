@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 935 de 28 de septiembre de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 5, Rol de avalúo 386-70, comuna de Pitrufquén, superficie 2.486 m2., para la obra DISEÑO DEFINITIVO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES DE RIEGO PROYECTO FAJA MAISAN OBRA CANAL SAN ANTONIO SECTOR: DESCARGA CANAL SAN ANTONIO 1 DERIVADO 1 PULON 1, COMUNA DE PITRUFQUEN, PROVINCIA DE CAUTÍN, REGION DE LA ARAUCANIA. La comisión de peritos, integrada por GABRIEL ANTONIO PANTOJA RIVERA, CONSTANZA CAMILA VASQUEZ MUÑOZ y PABLO ALEX MANSILLA ARAVENA, fijó el valor de tasación con fecha 16 de abril de 2018, acordándose la indemnización con su propietario JORGE ARTURO PINTO ORTEGA, en la cantidad de $7.471.982.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
