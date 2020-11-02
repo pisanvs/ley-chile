@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 2.191, del 16 de octubre de 2020, Serviu Región del Biobío ordenó expropiación parcial del inmueble ubicado en Arrau M 427, Rol de Avalúo N° 1128-15, comuna de Concepción, de aparente dominio de Cía. Cervecería Unidas. La superficie afecta a expropiación parcial es de 26,93 m2 de terreno (Lote 73), conforme a plano de expropiación S8R 38.118-1 del mes de agosto de 2020, para la ejecución del Proyecto "Mejoramiento Paso Sobre Nivel Esmeralda y Vialidad Asociada, Concepción" comuna de Concepción, conforme artículo 51 ley 16.391 y DL 2.186. Comisión de Peritos, integrada por el arquitecto Mario Alexis Martínez Ortiz, por la arquitecto Priscilla Andrea Encalada Rueda y por constructor civil María Soledad Silva Hernández, según informe de fecha 24.09.2020, fijó el monto de la indemnización provisional, más reajuste del artículo 5° del DL 2.186, en $4.286.604, pagadero de contado.
+
+Director Serviu Región del Biobío.
