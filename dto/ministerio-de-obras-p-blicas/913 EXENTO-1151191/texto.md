@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº913, de 28 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 151-A2 y 151-A3, para la obra: MEJORAMIENTO RUTA W-175 SECTOR: LINAO-QUEMCHI, que figuran a nombre de MANSILLA TRIVINO PABLA ROSA, roles de avalúo 153-91, Comuna de QUEMCHI, REGIÓN DE LOS LAGOS, superficies 1.345 y 2.387 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRES ECHEVERRIA CAMPO y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 16 de abril de 2020, fijó el monto de la indemnización provisional en la cantidad de $4.030.099, para el lote Nº151-A2 y $8.179.995, para el lote Nº151-A3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
