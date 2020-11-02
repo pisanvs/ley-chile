@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 932, de 28 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 1, para la obra: SISTEMA DE AGUA POTABLE RURAL CATRIPULLI, SECTOR HUAMPOE BAJO, que figura a nombre de MELIO MELIO ERNESTO MAURICIO, rol de avalúo 155-109, Comuna de CURARREHUE, REGION DE LA ARAUCANÍA, superficie 2.613 m2. La Comisión de Peritos integrada por PATRICIA ANGELICA MORALES RIVERA, SONIA CATALINA GALLEGOS BLANCH y EVALDO ROBERTO CONTRERAS ROA, mediante informe de tasación de fecha 21 de marzo de 2019, modificada por Acta de fecha 25 de agosto de 2020, fijó el monto de la indemnización provisional en la cantidad de $15.284.500.- para el lote N°1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
