@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Exenta N° 2.189 del 16 de octubre de 2020, Serviu Región del Biobío, ordenó expropiación parcial de inmueble ubicado en Arrau M 453, Rol de Avalúo 1128-36, comuna de Concepción, de aparente dominio de Rodríguez Romero María Teresa y otros. La superficie afecta expropiación es de 22,76 m2 de terreno (Lote 77) y 0,00 m2 de edificación, conforme a plano de expropiación S8R-38122-1 del mes de agosto de 2020, para la ejecución de la obra Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción, comuna de Concepción, Región del Biobío, conforme artículo 51 Ley 16.391 y D.L. 2186. Comisión Peritos integrada por el arquitecto Brogan Christopher Ulloa Pérez, por el constructor civil Ítalo Renzo Zerga Arancibia y por el ingeniero civil Orlando Javier Paredes Vásquez, según informe de fecha 16.09.2020, que fijó monto provisional en $4.587.011.-, más una suma de $27.522.-, por concepto de reajuste del artículo 5° del DL 2186 de 1978, que dan la cifra de $4.614.533.-, pagadero de contado.
+
+Director Serviu Región del Biobío.
