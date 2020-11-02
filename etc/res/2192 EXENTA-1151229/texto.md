@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.192, de 16 de octubre 2020, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en calle Arrau Méndez 670, Rol de Avalúo N° 1159-22, comuna de Concepción, de aparente dominio de Morales Espinoza Fresia y Ots, en una superficie de 227,22 m2 de terreno y 214,34 m2 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-38.133-1, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción, comuna de Concepción", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Brogan Ulloa Pérez, por constructor civil Italo Zerga Arancibia y por ingeniero civil Orlando Paredes Vásquez, según informe de fecha 16 de septiembre 2020, fijó monto provisional indemnización en $82.728.226, más reajuste del artículo 5° del DL 2.186, de 1978, que dan la cifra de $83.224.595, pagadera de contado.
+
+Director Serviu Región del Biobío.
