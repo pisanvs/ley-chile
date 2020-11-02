@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº928, de 28 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 1, para la obra: APR EL ESFUERZO PICHIDANGUI, que figura a nombre de ARO CALDERON MARIA RAQUEL, rol de avalúo 286-20, Comuna de LOS VILOS, REGIÓN DE COQUIMBO, superficie 948 m2. La Comisión de Peritos integrada por PABLO JAVIER FLORES SALINAS, MIGUEL ANGEL RUIZ VALENZUELA y ANA ROSA DEL CARMEN SILVA GIL, mediante informe de tasación de 07 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $11.850.000, para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
