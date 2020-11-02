@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.190, 16 de octubre de 2020, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación de un inmueble ubicado en Calle Arrau Méndez 330, Rol de Avalúo N° 1128-7, comuna de Concepción, de aparente dominio de Henríquez Jara Ana Silvia y Otros, superficie afecta expropiación parcial de terreno es de 74,03 m2 (Lote 60) y expropiación total de edificación (a y b) 88,96 m2, según Plano S8R 38.105-2, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada", comuna de Concepción, conforme artículo 51 ley N° 16.391 y D.L. N° 2.186. Comisión Peritos integrada por arquitecto Mario Martínez Ortiz, por la arquitecta Priscilla Encalada Rueda y por la constructor civil María Silva Hernández, según informe de fecha 24.09.2020, fijó monto provisional indemnización en $22.388.715, más una suma de $134.332, por concepto de reajuste del artículo 5° del DL 2.186 de 1978, que arroja la cifra de $22.523.047.
+
+Director Serviu Región del Biobío.
