@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.188, de 16 de octubre de 2020, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en calle Arrau Méndez 784, Rol de Avalúo N° 1163-32, comuna de Concepción, de aparente dominio de Ayala Santander Rita Verónica y otros, en una superficie de 91,23 m2 de terreno y 160,66 m2 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-38.102-1, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción, comuna de Concepción", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Mario Martínez Ortiz, por arquitecto Priscilla Encalada Rueda y por constructor civil María Soledad Silva Hernández, según informe de fecha 24 de septiembre de 2020, fijó monto provisional indemnización en $45.896.073, más reajuste del artículo 5° del DL 2.186, de 1978, que dan la cifra de $46.171.449, pagadera de contado.
+
+Director Serviu Región del Biobío.
