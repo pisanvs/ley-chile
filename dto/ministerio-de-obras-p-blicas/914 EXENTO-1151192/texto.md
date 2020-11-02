@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°914, de 28 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 360 y 362, para la obra: AMPLIACION REPOSICION RUTA V-85, SECTOR: HUITO - CALBUCO, que figuran a nombre de RAMIREZ ZUNIGA PAMELA ALEJANDRA y TRANSPORTES RODOLFO THONE E HIJOS L, roles de avalúo 167-11 y 167-210, Comuna de CALBUCO, REGIÓN DE LOS LAGOS, superficies 84 y 2.085 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, PATRICIA ANGELICA MORALES RIVERA y ANDRES ECHEVERRIA CAMPO, mediante informe de tasación de 15 de abril de 2019, fijó el monto de la indemnización provisional en la cantidad de $337.100, para el lote N°360 y $20.376.000, para el lote N°362. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
