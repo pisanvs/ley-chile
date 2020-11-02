@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 1.962, de 21 de octubre de 2020, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno N° 38 para la ejecución Proyecto "Mejoramiento Avenida Ejército, Tramo Yuraszeck-Seminario, comuna de Puerto Montt", Provincia de Llanquihue, Región de Los Lagos que figura a nombre de Sociedad Inmobiliaria Surazo S.A., rol de avalúo según SII N° 715-8, comuna de Puerto Montt, superficie 252,49 metros cuadrados. La comisión de peritos integrada por los Sres. Enrique Edgardo Hoelck Altmann, Raúl Palma Larrea y Leopoldo Ramón Schumacher Guarda, designados por resolución exenta N° 1.399 de 20 de julio de 2020, fijó con fecha 26 de agosto de 2020, el valor provisional de la indemnización en la suma de $195.396.900. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del DL N° 2.186.
+
+Director Regional Serviu Región de Los Lagos.
