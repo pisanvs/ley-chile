@@ -1,0 +1,7 @@
+TRANSFERENCIA TOTAL Y OTORGA CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 495, del 27 de diciembre de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorga Transferencia Total a Marcelo Leonel Astengo Montenegro, RUN: 10.709.065-7, otorga concesión marítima menor, con vencimiento el 30 de junio de 2023, sobre un sector de terreno de playa y uso de mejora fiscal, en el lugar denominado Caleta Abtao, Balneario Juan López, Manzana N° 14, Sitio N° 6, comuna de Antofagasta, provincia de Antofagasta, Región de Antofagasta, con una superficie total de 383,60 m2, la que fue tramitada con el SIABC N° 43.697. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto de esta concesión marítima es continuar haciendo uso de la mejora fiscal existente y destinarla a casa de veraneo familiar y hacer uso de la mejora particular existente que consiste en una ampliación de 20 m2 de un dormitorio y un baño. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Antofagasta. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Julián Aguirre Perocarpi, Capitán de Fragata LT, Capitán de Puerto de Antofagasta.
