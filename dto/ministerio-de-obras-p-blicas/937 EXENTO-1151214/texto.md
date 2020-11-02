@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 937 de 28 de septiembre de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 1, Rol de avalúo 173-24, comuna de Curarrehue, superficie 1.217 m2., para la obra SISTEMA DE AGUA POTABLE RURAL CATRIPULLI, SECTOR HUAMPOE ALTO, COMUNA DE CURARREHUE, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por PATRICIA ANGELICA MORALES RIVERA, SONIA CATALINA GALLEGOS BLANCH y EVALDO ROBERTO CONTRERAS ROA, fijó el valor de tasación con fecha 20 de marzo de 2019, acordándose la indemnización con su propietario CARLOS ARNOLDO SABUGAL DEL SOLAR, en la cantidad de $4.976.734.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
