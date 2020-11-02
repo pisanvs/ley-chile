@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 2.214 de 20 de octubre de 2020, Serviu Región del Biobío ordenó expropiación parcial del inmueble ubicado en Arrau Méndez 726, Rol de Avalúo N° 1163-20, comuna de Concepción, de aparente dominio de Ortiz Moreno Luis Alberto. La superficie afecta a expropiación parcial de terreno de 63,97 m2 (Lote 94) y de 43,50 m2 de expropiación total de edificación (a y b), conforme a plano de expropiación S8R 38.139-1 del mes de agosto de 2020, para la ejecución del Proyecto "Mejoramiento Paso Sobre Nivel Esmeralda y Vialidad Asociada, Concepción" comuna de Concepción, conforme artículo 51 ley 16.391 y DL 2.186. Comisión de Peritos, integrada por el arquitecto Mario Alexis Martínez Ortiz, por el arquitecto Priscilla Andrea Encalada Rueda y por constructor civil María Soledad Silva Hernández, según informe de fecha 24.09.2020, fijó el monto de la indemnización provisional, más reajuste del artículo 5° del DL 2186, en $13.325.171, pagadero de contado.
+
+Director Serviu Región del Biobío.
