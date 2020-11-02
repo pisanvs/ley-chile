@@ -11696,47 +11696,33 @@ d) Toma de control de dos o más bancos por una misma persona o grupo controlado
 
 e) Aumento sustancial de participación de uno de los bancos controlados por una misma persona o grupo. Se entiende así cuando el controlador adquiere la mayoría o los dos tercios de las acciones, en su caso.
 
-2.- Participación de mercado.
+2.- Casos en que se requiere la autorización previa
 
-La participación de mercado resultará de obtener el porcentaje que representan las colocaciones totales del banco o grupo de bancos resultantes, sobre las colocaciones totales del sistema.
+El o los bancos o sus respectivos controladores que deseen efectuar alguno de los actos referidos en el N°1, deberán solicitar a la Comisión una autorización previa especial cuando, de realizarse la operación proyectada, el banco o grupo de bancos pueda alcanzar importancia sistémica, en los términos dispuestos en el artículo 66 quáter.
 
-3.- Casos en que se requiere la autorización previa.
+Lo anterior es sin perjuicio de que el banco o grupos de bancos deberán obtener, cuando corresponda, las autorizaciones a que se refieren los artículos 31 ó 49, N° 5 (fusión o adquisición de activo y pasivo) o 36 (aumento sustancial de participación).
 
-El o los bancos o sus respectivos controladores que deseen efectuar alguno de los actos referidos en el N° 1, deberán solicitar a la Superintendencia una autorización previa especial, cuando la participación en el mercado después de realizarse la operación proyectada, resulte mayor de un 15%.
+### 3. Antecedentes y pronunciamiento de la Comisión
 
-Lo anterior es sin perjuicio de que los bancos deberán obtener, cuando corresponda, las autorizaciones a que se refieren los artículos 31 ó 49, N° 11 (fusión o adquisición de activo y pasivo) o 36 (toma de control o aumento sustancial de participación).
+Para otorgar su autorización previa a las operaciones descritas en el N°1 la Comisión tomará en cuenta, entre otros, los siguientes antecedentes del banco o del grupo de bancos en el mercado, según sea el caso: Evaluación de la gestión y solvencia; categoría de riesgo otorgada por una empresa evaluadora que figure en la nómina a que se refiere el artículo 78 de la Ley General de Bancos, en su caso; cumplimiento de la normativa; puntualidad y calidad de la entrega de información a este organismo fiscalizador.
 
-### 4. Antecedentes para el pronunciamiento de esta Superintendencia
+Esos antecedentes son sin perjuicio de los relativos al requisito de solvencia para los accionistas que tengan una participación significativa en el capital de un banco, de acuerdo con los artículos 28 y 36 de la Ley General de Bancos, así como aquellos para determinar la calidad de importancia sistémica de un banco o grupo de bancos conforme al artículo 66 quáter de la citada ley.
 
-Para pronunciarse sobre las operaciones cuyo resultado sea una participación de mercado superior a 15%, esta Superintendencia tomará en cuenta, entre otros, los siguientes antecedentes del banco o del grupo de bancos en el mercado, según sea el caso, como consecuencia de los actos que se señalan en el N° 1: Evaluación de la gestión y solvencia; categoría de riesgo otorgada por una empresa evaluadora que figure en la nómina a que se refiere el artículo 78 de la Ley General de Bancos, en su caso; cumplimiento de la normativa; puntualidad y calidad de la entrega de información a este organismo fiscalizador.
+Junto con la autorización referida anteriormente, la resolución que la contenga podrá imponer una o más de las exigencias a que se refiere el Capítulo 21 - 11 de esta Recopilación. Para ello, la Comisión considerará la información histórica de el o los bancos involucrados, asociada a los 12 meses previos a la solicitud, y utilizará la metodología referida al numeral 3 del Capítulo antes mencionado. Esta Comisión calificará al potencial banco resultante mediante las disposiciones establecidas en el numeral 4 y 5 del mismo Capítulo, para luego imponerlas mediante resolución.
 
-Esos antecedentes son sin perjuicio de los relativos al requisito de solvencia para los accionistas que tengan una participación significativa en el capital de un banco, de acuerdo con los artículos 28 y 36 de la Ley General de Bancos.
+### 4. Rechazo de la autorización
 
-5. Pronunciamiento de esta Superintendencia sobre la autorización previa especial cuando la participación de mercado no exceda de 20%.
+Como lo establece la ley, la Comisión sólo podrá denegar una solicitud de autorización, mediante resolución fundada y previo acuerdo en el mismo sentido del Consejo del Banco Central de Chile, aprobado por la mayoría de sus miembros en ejercicio.
 
-Cuando se trate de una fusión de dos o más bancos y la participación de mercado resultante supere un 15% y no exceda de un 20%, la autorización se concederá condicionada a que el banco resultante mantenga un porcentaje no inferior a un 10% entre el patrimonio efectivo y los activos ponderados por riesgo, por el tiempo que señale la Superintendencia, que no podrá ser inferior a un año.
+### 5. Plazo para pronunciarse
 
-En los demás casos contemplados en el N° 1, en que la participación de mercado resultante sea la indicada en el párrafo anterior, la resolución la adoptará la Superintendencia en conformidad al N° 6.
+La Comisión cuenta con 60 días para emitir su pronunciamiento sobre la solicitud de autorización a que se refiere el artículo 35 bis.
 
-6.- Pronunciamiento cuando la participación supere el 20%.
+### 6. Implementación transitoria
 
-Cuando la participación de mercado supere el 20%, esta Superintendencia resolverá según cada caso y podrá condicionar la autorización al cumplimiento de una o más de las siguientes exigencias para el o los bancos, según sea el caso:
+Aquellos bancos que al momento de la publicación de la Ley N° 21.130 estuvieran afectos a requerimientos de patrimonio efectivo adicionales, por aplicación del artículo 35 bis de la Ley General de Bancos previo a su modificación por la Ley N° 21.130, y vigentes las normas que debe dictar la Comisión conforme el artículo 66 quáter, podrán reducirlo en al menos el 25% del requerimiento patrimonial que estuvieren cumpliendo, incrementándose esta reducción en el mismo porcentaje en el segundo, tercer y cuarto años siguientes. En lo concreto deberán cumplir con: (i) un 75% del total requerido conforme al citado artículo 35 bis, el 1 de diciembre de 2021, (ii) 50% el 1 de diciembre de 2022, (iii) 25% el 1 de diciembre de 2023, y (iv) 0% el 1 de diciembre de 2024. Los valores anteriores se fijarán por resolución de la Comisión, en cada caso.
 
-a) Que el patrimonio efectivo deba ser superior al 8% de sus activos ponderados por riesgo, con un límite de un 14%.
-
-b) Que la reserva técnica que establece el artículo 65 sea aplicable desde que los depósitos y demás sumas a que se refiere esa norma excedan de una vez y media su patrimonio efectivo.
-
-c) Que el margen de préstamos interbancarios establecido en el artículo 84, N° 1, inciso penúltimo, se rebaje al 20% del patrimonio efectivo.
-
-Esta Superintendencia podrá imponer total o parcialmente las exigencias antes señaladas mediante resolución fundada y asimismo limitar su aplicación en relación al monto o porcentaje que contiene cada letra precedente. Podrá también modificar las exigencias que haya impuesto, siempre que la modificación signifique una reducción de sus efectos.
-
-7.- Rechazo de la autorización.
-
-Como lo establece la ley, esta Superintendencia sólo podrá rechazar una solicitud de autorización, mediante resolución fundada y previo informe favorable del Consejo del Banco Central de Chile, adoptado por la mayoría de sus miembros en ejercicio. Este informe no procederá en el caso contemplado en el artículo noveno transitorio de la Ley N° 19.705.
-
-8.- Plazo para pronunciarse.
-
-Esta superintendencia cuenta con 60 días para emitir su pronunciamiento.
+Lo indicado es sin perjuicio de las adecuaciones que resulten procedentes, como consecuencia de las revisiones periódicas que se lleven a cabo en términos del Capítulo 21-11 de esta Recopilación.
 
 ## Capítulo 12-15
 
