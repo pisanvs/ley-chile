@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 919 de 28 de septiembre de 2020, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 1 para la obra: CONCESIÓN VIAL RUTAS DEL LOA SECTOR A RUTA 25, ENLACE CARMEN ALTO, Región de Antofagasta, que figura a nombre de CIA DE PETROLEOS DE CHIEL COPEC, rol de avalúo 6501-4 de la comuna de Antofagasta, superficie 723 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 63 de 18 de junio de 2020, integrada por Carolina Verónica O'Brien Molina, Víctor Soto Troncoso y Bárbara Alejandra Portilla Cortés, fijó con fecha 3 de agosto de 2020, el valor provisional de las indemnizaciones en la cantidad de $86.433.600 para el lote N° 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
