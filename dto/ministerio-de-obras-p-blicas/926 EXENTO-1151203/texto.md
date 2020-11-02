@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°926, de 28 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 1, para la obra: SISTEMA DE AGUA POTABLE RURAL COIRON, que figura a nombre de ITURRIETA DIAZ NELLY NORMA Y OTROS, rol de avalúo 248-6, Comuna de SALAMANCA, REGIÓN DE COQUIMBO, superficie 334 m2. La Comisión de Peritos integrada por PABLO JAVIER FLORES SALINAS, PATRICIA ANGELICA MORALES RIVERA y ANA ROSA DEL CARMEN SILVA GIL, mediante informe de tasación de 10 de agosto de 2020, fijó el monto de la indemnización provisional en la cantidad de $2.054.000, para el lote N°1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
