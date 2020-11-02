@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 1.032, de fecha 5 octubre 2020, Serviu Región Arica y Parinacota ordenó expropiación total, conforme artículo 51 ley 16.391, inmueble rol avalúo N°8069-52, de la comuna Arica, ubicado en Avenida Morrillos N°1784, que forma parte de la Población "Cerro Chuño III", Sector 1, ciudad y comuna de Arica, de una superficie de 100 metros cuadrados, y 76,5 metros cuadrados de construcción, de aparente dominio de doña Jeanette del Carmen Torres Zavala, cédula de identidad N°13.862.898-1, individualizado en el plano archivado bajo el N°58 del año 2000, en el Conservador citado. Comisión integrada por peritos Sergio Carrasco Cruzat, Mario Zamorano Villablanca y Manuel Fuentes Marambio, todos Arquitectos, que fijó el monto de la indemnización provisional por la expropiación total, en la suma de $35.400.000.- La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley N° 2.186.-
+
+Francisco Meza Hernández, Director Serviu Región Arica y Parinacota.
