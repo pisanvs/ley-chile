@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº875, de 28 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 7-A y 8-A, para la obra: MEJORAMIENTO RUTA F-190 S: VALLE ALEGRE - PUCHUNCAVI, que figuran a nombre de VERGARA ARAVENA JOSEFINA, roles de avalúo 724-3, Comuna de QUINTERO, REGIÓN DE VALPARAÍSO, superficies 62 y 64 m2. respectivamente. La Comisión de Peritos integrada por PATRICIO ANTONIO RIVERA CASTRO, ROBERTO LUIS SEBASTIÁN HERNÁNDEZ y MARCELO GABRIEL OYARZO SALDIAS, mediante informe de tasación de 10 de septiembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $941.000, para el lote Nº7-A y $450.000, para el lote Nº8-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
