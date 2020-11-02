@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.135, de fecha 7 de octubre de 2020, se ordenó la expropiación, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N°109-B, correspondiente al inmueble ubicado en Fundo Santa Elvira, Rol de Avalúo N° 2898-4, de la Comuna de Cerro Navia, Región Metropolitana, de aparente dominio de Guzmán Nieto María Hortensia, con una superficie aproximada de 1.441,34 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Construcción Costanera Sur Poniente Etapa 2, Tramo Entre Walker Martínez y Vespucio, Cerro Navia". La Comisión de Peritos integrada por los señores Andrés Echeverría Capo, Ingeniero Agrónomo; Juan Sohrens Péndola, Arquitecto y Mufida Abuawad Elías, Arquitecto, mediante Informe de fecha 28 de agosto de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $34.141.440, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
