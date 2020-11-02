@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 2.212, del 20 de octubre de 2020, Serviu Región del Biobío ordenó expropiación parcial de inmueble ubicado en Arrau Méndez 756, Rol de Avalúo 1163-26, comuna de Concepción, de aparente dominio de Pezo Troncoso Rodrigo Javier. La superficie afecta expropiación es de 109,32 m2 de terreno (Lote 37) y 82,44 m2 de total de edificación, conforme a plano de expropiación S8R-38096-1, del mes de agosto de 2020, para la ejecución de la obra Mejoramiento Paso Sobre Nivel Esmeralda y Vialidad Asociada, Concepción, comuna de Concepción, Región del Biobío, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Brogan Christopher Ulloa Pérez, por el constructor civil Ítalo Renzo Zerga Arancibia y por el ingeniero civil Orlando Javier Paredes Vásquez, según informe de fecha 16.09.2020, que fijó monto provisional en $20.944.656.-, más una suma de $125.668.-, por concepto de reajuste del artículo 5° del DL 2.186 de 1978, que dan la cifra de $21.070.324.-, pagadero de contado.
+
+Director Serviu Región del Biobío.
