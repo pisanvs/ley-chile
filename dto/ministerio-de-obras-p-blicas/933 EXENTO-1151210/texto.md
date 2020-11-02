@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 933 de 28 de septiembre de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 1, Rol de avalúo 385-97, comuna de Pitrufquén, superficie 749 m2., para la obra DISEÑO DEFINITIVO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES DE RIEGO PROYECTO FAJA MAISAN OBRA CANAL AGUSTINAS, SECTOR: CANAL AGUSTINAS DERIVADO 1, COMUNA DE PITRUFQUEN, PROVINCIA DE CAUTÍN, REGION DE LA ARAUCANIA. La comisión de peritos, integrada por GABRIEL ANTONIO PANTOJA RIVERA, CONSTANZA CAMILA VASQUEZ MUÑOZ y PABLO ALEX MANSILLA ARAVENA, fijó el valor de tasación con fecha 07 de septiembre de 2018, acordándose la indemnización con su propietario OSVALDO NICKEL REDEL, en la cantidad de $1.265.073.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
