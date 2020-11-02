@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 817, de fecha 20 de octubre de 2020, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Construcción Red de Colectores de Aguas Lluvia de Freire", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Inmueble consistente en el Lote Tres, de una superficie de 6.538 metros cuadrados, resultante de la subdivisión del resto del Lote A, de una superficie aproximada de 26.538 metros cuadrados, y éste a su vez de la división de parte del fundo La Pampa o Carmen de mayor extensión, Rol de avalúo 312-138, comuna de Freire. La superficie a expropiar aproximada es de 1.024,11 metros cuadrados, de aparente dominio de Margarita Elizabeth Sandoval Escobar. Comisión de Peritos integrada por don Claudio Alejandro Romo Sanhueza, don Mario Benjamín Gutiérrez Truan y doña Constanza Victoria Hilda Mihoevic González, fijó monto de Indemnización Provisional en $8.527.704 según Informe N° 01-0/02-0 de fecha 06/10/2020, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
