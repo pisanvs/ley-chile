@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 921 de 28 de septiembre de 2020, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14º letra e) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 49 para la obra: RELICITACIÓN CONCESIÓN CAMINO NOGALES - PUCHUNCAVÍ, SECTOR: SECTOR 1 (RUTA F-20), SUBSECTOR: PLAZA PEAJE - FIN CUESTA, KM 6.500,00 AL KM 19.000,00, Región de Valparaíso, que figura a nombre de ARANCIBIA VALDEBENITO LUIS ALBERTO, rol de avalúo 174-27 de la comuna de Puchuncaví, superficie 519 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 69 de 5 de abril de 2019, integrada por Carolina Claudia Verdejo Díaz, Felipe Antonio Suckel Figueroa y Angélica Yanett Seura Rojas, fijó con fecha 15 de mayo de 2019, el valor provisional de las indemnizaciones en la cantidad de $696.700 para el lote Nº 49. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
