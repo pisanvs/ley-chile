@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.213, 20 de octubre de 2020, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación de un inmueble ubicado en calle Arrau Méndez 772, Rol de Avalúo N° 1163-30, comuna de Concepción, de aparente dominio de Fierro Baeza Armando, superficie afecta expropiación parcial de terreno es de 43,62 m2 (Lote 41) y 85,48 m2 de expropiación total (2a y b) de edificación, según Plano S8R 38.100-1, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada", comuna de Concepción, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Brogan Ulloa Pérez, por el constructor civil Ítalo Zerga Arancibia y por el ingeniero civil Orlando Paredes Vásquez, según informe de fecha 16.09.2020, fijó monto provisional indemnización en $19.330.421, más una suma de $115.983, por concepto de reajuste del artículo 5° del DL 2186 de 1978, que arroja la cifra de $19.446.404.
+
+Director Serviu Región del Biobío.
