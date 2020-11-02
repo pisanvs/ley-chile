@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°845, de 10 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s, 100-B1 y 100-E1, para la obra: MEJORAMIENTO RUTAS W-135-125. SECTOR: RAMPA CHACAO-LINAO, que figuran a nombre de BORQUEZ RUIZ ALVARO ALEXIS y RUIZ MILLAN ROSA DEL CARMEN, roles de avalúo 1175-96 y 1175-99, Comuna de ANCUD, REGIÓN DE LOS LAGOS, superficies 85 y 122 m2. respectivamente. La Comisión de Peritos integrada por MARIA SOLEDAD NUÑEZ ARROYO, SONIA CATALINA GALLEGOS BLANCH y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 09 de enero de 2020, fijó el monto de la indemnización provisional en la cantidad de $2.406.000, para el lote N°100-B1 y $7.650.800, para el lote N°100-El. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
