@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 916, de 28 de septiembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y del DFL. MOP. Nº206, de 1960, se expropió el lote de terreno Nº 9-B, para la obra "Construcción Camino Puelo - Paso El Bolsón, Sector: Segundo Corral - El Bolsón", que figura a nombre de RUIZ FIGUEROA MARIA TERESA Y OTROS, rol de avalúo 157-10, Comuna de Cochamo, Región de Los Lagos, superficie 2.160 m2. La Comisión de Peritos integrada por LEOPOLDO RAMÓN SCHUMACHER GUARDA, JUAN SAMUEL BARRIENTOS BAHAMONDE y NELSON BERNARDO TURRA TURRA, mediante informe de tasación de 20 de junio de 2016, fijó el monto de la indemnización provisional en la cantidad de $1.080.000.- para el lote Nº 9-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
