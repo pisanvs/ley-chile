@@ -1034,7 +1034,7 @@ La forma de determinar el monto de los presupuestos y compensaciones de derechos
 
 a) Exención total de los derechos de construcción de sedes sociales, deportivas y culturales sin fines de lucro y construcciones afectadas por siniestro, solo por la superficie siniestrada.
 
-b) Exímase de la cancelación de permisos de edificación a todas las viviendas sociales, como los subsidios habitacionales rurales, progresivas, PET entorno, Fondos Solidarios Concursables y en general a todas las viviendas sociales construidas con subsidios habitacionales otorgados por el Estado o municipalidad.
+b) Derogado.
 
 c) Todas las exenciones y rebajas se efectuarán una vez solicitado el permiso correspondiente en la Dirección de Obras Municipales y una vez evacuado el informe de ésta.
 
