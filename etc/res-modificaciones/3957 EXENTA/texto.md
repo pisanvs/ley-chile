@@ -26,7 +26,7 @@ Resuelvo:
 
 1. Derógase resuelvo 3 de la resolución N° 2.987, de fecha 30 de abril de 2020, que fija exigencias sanitarias para la internación a Chile de bovinos aptos para la reproducción de la Dirección Nacional del Servicio Agrícola y Ganadero.
 
-2. Postérgase la entrada en vigencia de la resolución N° 2.987, de 2020, ya individualizada, por un periodo de 12 meses a contar de la publicación de la presente resolución.
+### 2. Derogada
 
 3. Esta medida deberá ser evaluada en consideración a la evolución de las condiciones de emergencia del país que restringe la adecuada implementación de resolución 2.987 de 2020.
 
