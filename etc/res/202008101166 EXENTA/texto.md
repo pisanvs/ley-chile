@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "PARQUE SOLAR MULCHÉN SANTA BÁRBARA 1"
+
+De conformidad con lo dispuesto en el artículo 94 del DS Nº 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta Nº 202008101166 de fecha 21 de octubre de 2020, la Directora Regional del Servicio de Evaluación Ambiental de la Región del Biobío, ha resuelto dar inicio a un proceso de participación ciudadana por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley Nº 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto: "Parque Solar Mulchén Santa Bárbara 1", cuyo proponente es Tierra Solar SpA.
+
+El Proyecto se sitúa en la Región del Biobío, en la provincia de Biobío, comuna de Mulchén. El proyecto tiene como objetivo producir energía eléctrica aprovechando la radiación solar, con una capacidad de 12MW de potencia nominal máxima, contempla la instalación de 30.000 módulos fotovoltaicos monocristalinos, dispuestos sobre estructuras móviles que tendrán 3 m como altura máxima y que dispondrán de un seguidor del sol con un movimiento de este-oeste. La vida útil del proyecto será de 30 años.
+
+Para conocimiento de la comunidad, cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del DS Nº 40/2012 y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental, de 20 días hábiles, contados a partir del día hábil siguiente de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Biobío, ubicada en calle Lincoyán 145, Concepción, en horario de atención entre las 8:30 a 13:30, en días hábiles de lunes a viernes, así como también podrá acceder a ella a través del sitio web https://seia.sea.gob.cl/archivos/2020/10/22/res._Pac.pdf.-
+
+Silvana Suanes Araneda, Directora Regional, Servicio de Evaluación Ambiental Región del Biobío.
