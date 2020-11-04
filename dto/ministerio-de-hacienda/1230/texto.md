@@ -352,11 +352,13 @@ Paso Jama Norte y tránsito de graneles
 
 17.Sector Sur Permanente Paso de personas e
 
-Paso Jama Sur importación, exportación
+Paso Jama Sur importación,
 
-23º13'S y tránsito de graneles
+23º13'S exportacióny tránsito
 
-67º03'W líquidos y gaseosos
+67º03'W de graneles
+
+líquidos y gaseosos
 
 18.Terminal
 
@@ -392,31 +394,41 @@ aduaneras.
 
 20.Terminal Marítimo Permanente Paso de personas,
 
-Vopak Oxiquim, exportación e importación de
+Vopak Oxiquim, exportación e importación
 
-en la comuna de graneles líquidos, rancho de
+en la comuna de de graneles líquidos,
 
-Mejillones naves y todo tipo de
+Mejillones rancho de naves y
+
+todo tipo de
 
 operaciones aduaneras.
 
 21.Muelle Terquim Permanente Paso de personas,
 
-S.A., ubicado en exportación e importación
+S.A., ubicado en exportación e
 
-la bahía de de graneles líquidos,
+la bahía de importación de graneles
 
-Mejillones. rancho de naves y todo
+Mejillones. líquidos, rancho de
+
+naves y todo
 
 tipo de operaciones
 
 aduaneras.
 
-22.Muelle Interacid Permanente Paso de personas, exportación
+22.Muelle Interacid Permanente Paso de personas,
 
-Trading (Chile) e importaciónde graneles
+Trading (Chile) exportación
 
-S.A. líquidos, rancho de naves y
+S.A.
+
+e importación de graneles
+
+líquidos, rancho
+
+de naves y
 
 todo tipo de operaciones
 
@@ -595,6 +607,18 @@ de Atacama.
 Totoralillo tipo de operaciones
 
 aduaneras
+
+13. TF 091 sector Permanente Exportación
+
+"Paso del" de electricidad
+
+Guanaco
+
+Sonso"
+
+29° 25' 0" S
+
+69° 58' 59" W
 
 F. SUJETOS A LA JURISDICCION DE LA ADUANA DE COQUIMBO:
 
