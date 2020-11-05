@@ -40,7 +40,7 @@ Las obras pueden ser, entre otras, obras de cambio de tablero, redes, reforzamie
 
 1.2 Título III, Ampliación de la Vivienda: Proyectos destinados a la ampliación de dormitorio o la ampliación de baño.
 
-Estas ampliaciones deben corresponder a un proyecto de dormitorio de acuerdo a lo señalado en la letra c.1) y c.5), o a un proyecto de baño, de acuerdo a lo señalado en la letra c.4), todos del artículo 5°, Título III, Ampliación de la Vivienda, del DS N° 255 (V. y U.), de 2006.
+Estas ampliaciones deben corresponder a un proyecto de dormitorio de acuerdo a lo señalado en la letra c.1) y c.5), y/o a a un proyecto de baño, de acuerdo a lo señalado en la letra c.4), todos del artículo 5°, Título III, Ampliación de la Vivienda, del DS N° 255 (V. y U.), de 2006.
 
 La ampliación proyectada deberá asegurar contar con espacio suficiente para el uso de una silla de ruedas y las facilidades que le permitan utilizarlo adecuadamente, según el Manual de Accesibilidad Universal y lo dispuesto en la resolución exenta N° 6.625 (V. y U.) de 2016, y sus modificaciones. En estos casos Serviu deberá verificar que la solución propuesta contemple las medidas necesarias para el tipo de discapacidad física, que genere movilidad reducida.
 
@@ -50,7 +50,7 @@ La ampliación proyectada deberá asegurar contar con espacio suficiente para el
 
 4. Los recursos involucrados para este llamado se distribuyen regionalmente según el siguiente cuadro:
 
-5. Sólo podrán participar en este llamado los proyectos que hayan sido calificados antes del 30 de noviembre de 2020, debiendo las Seremi de Vivienda y Urbanismo definir plazos y etapas intermedias de ingreso de antecedentes.
+5. Sólo podrán participar en este llamado los proyectos que hayan sido calificados y/o aprobados previamente por Serviu antes del 15 de diciembre de 2020, debiendo las Seremi de Vivienda y Urbanismo definir plazos y etapas intermedias de ingreso de antecedentes..
 
 6. Se deberá dar cumplimiento al decreto N° 50 (V. y U.), del año 2015, que modificó el decreto supremo N° 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones, en el sentido de actualizar sus normas a las disposiciones de la ley N° 20.422, sobre igualdad de oportunidades e inclusión social de personas con discapacidad.
 
@@ -96,7 +96,11 @@ d. Para proyectos del Título III, Ampliación de la Vivienda, los Prestadores d
 
 13. Los montos del subsidio para el presente llamado, por cada Título, serán los indicados en las tablas insertas a continuación:
 
+.
+
 Los montos de subsidio base podrán incrementarse si consideran obras de seguridad, instalaciones y/o accesibilidad universal, debidamente justificadas.
+
+.
 
 Los montos de subsidio base podrán incrementarse para obras de construcción de dormitorios y/o ampliación baño y/o cocina, mediante justificación fundada. En las comunas con ampliaciones en zonas con Plan de Descontaminación Atmosférica el incremento será superior al resto de las comunas.
 
