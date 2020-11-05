@@ -64,8 +64,8 @@ Proyecto Integrado de Subsidio (PIS): "Villa El Estero Etapa II", comuna de Sant
 
 .
 
-Postulantes seleccionados DS Nº 1 (V. y U.), de 2011, Título I tramo 2.
+POSTULANTES SELECCIONADOS DS Nº 1 (V. Y U.), DE 2011, TÍTULO II.
 
-Proyecto Integrado de Subsidio (PIS): "Villa El Estero Etapa II", comuna de Santa Cruz, Región de O'Higgins, Código Proyecto Rukan: 129809.
+PROYECTO INTEGRADO DE SUBSIDIO (PIS): "VILLA EL ESTERO ETAPA II", COMUNA DE SANTA CRUZ, REGIÓN DE O'HIGGINS, CÓDIGO PROYECTO RUKAN: 129809.
 
-.
+..
