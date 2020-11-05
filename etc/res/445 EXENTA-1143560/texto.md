@@ -50,14 +50,14 @@ ANEXO
 
 SEGUNDA NÓMINA DE POSTULANTES SELECCIONADOS DS Nº 1 (V. Y U.), DE 2011
 
-Postulantes seleccionados DS Nº 1 (V. y U.), de 2011, Título I tramo 2.
+POSTULANTES SELECCIONADOS DS Nº 1 (V. Y U.), DE 2011, TÍTULO I TRAMO 2.
 
-Proyecto Integrado de Subsidio (PIS): "Villa El Estero Etapa I", comuna de Santa Cruz, Región de O'Higgins, Código Proyecto RUKAN: 114554.
+PROYECTO INTEGRADO DE SUBSIDIO (PIS): "VILLA EL ESTERO ETAPA I", COMUNA DE SANTA CRUZ, REGIÓN DE O'HIGGINS, CÓDIGO PROYECTO RUKAN: 114554.
 
 .
 
-Postulantes seleccionados DS Nº 1 (V. y U.), de 2011, Título II.
+POSTULANTES SELECCIONADOS DS Nº 1 (V. Y U.), DE 2011, TÍTULO II.
 
-Proyecto Integrado de Subsidio (PIS): "Villa El Estero Etapa I", comuna de Santa Cruz, Región de O'Higgins, Código Proyecto RUKAN: 114554.
+PROYECTO INTEGRADO DE SUBSIDIO (PIS): "VILLA EL ESTERO ETAPA I", COMUNA DE SANTA CRUZ, REGIÓN DE O'HIGGINS, CÓDIGO PROYECTO RUKAN: 114554.
 
 .

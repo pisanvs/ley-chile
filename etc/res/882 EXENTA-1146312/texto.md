@@ -36,7 +36,11 @@ Resolución:
 
 1º. Apruébase la tercera nómina de postulantes seleccionados correspondiente al proyecto singularizado en el Considerando b) de la presente resolución, correspondiente al Llamado dispuesto en el resuelvo 1º de la resolución exenta Nº 952 (V. y U.), de 2014, y sus modificaciones, nómina que se entenderá forma parte integrante de la presente resolución, y fíjase el número de postulantes seleccionados para cada uno de los Programas de Subsidio que se indican en la siguiente tabla:
 
+.
+
 2º. Fíjase el monto de recursos comprometidos que se destinarán al financiamiento del subsidio directo para la atención de los postulantes seleccionados, según se indica en la siguiente tabla:
+
+.
 
 3º. Los recursos para el financiamiento del subsidio directo, destinado a la atención de postulantes seleccionados a que se refiere el resuelvo 1º de esta resolución, se imputarán a los recursos autorizados en el año 2020 para el DS Nº 49 (V. y U.), de 2011, y para el DS Nº 1 (V. y U.), de 2011, según corresponda.
 
@@ -54,6 +58,14 @@ Postulantes seleccionados DS Nº 49 (V. y U.), de 2011.
 
 Proyecto Integrado de Subsidio (PIS): "Villa El Estero Etapa I", comuna de Santa Cruz, Región de O'Higgins, Código RUKAN del Proyecto: 114554.
 
-Postulantes seleccionados DS Nº 1 (V. y U.), de 2011, Título I tramo 2.
+POSTULANTES SELECCIONADOS DS Nº 1 (V. Y U.), DE 2011, TÍTULO I TRAMO 2.
 
-Proyecto Integrado de Subsidio (PIS): "Villa El Estero Etapa I", comuna de Santa Cruz, Región de O'Higgins, Código Proyecto RUKAN: 114554.
+PROYECTO INTEGRADO DE SUBSIDIO (PIS): "VILLA EL ESTERO ETAPA I", COMUNA DE SANTA CRUZ, REGIÓN DE O'HIGGINS, CÓDIGO PROYECTO RUKAN: 114554.
+
+.
+
+POSTULANTES SELECCIONADOS DS Nº 1 (V. Y U.), DE 2011, TÍTULO II.
+
+PROYECTO INTEGRADO DE SUBSIDIO (PIS): "VILLA EL ESTERO ETAPA I", COMUNA DE SANTA CRUZ, REGIÓN DE O'HIGGINS, CÓDIGO PROYECTO RUKAN: 114554.
+
+..
