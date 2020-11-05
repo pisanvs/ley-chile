@@ -360,11 +360,11 @@ regional respectivo.
 
 Las municipalidades deberán actuar, en todo caso, dentro del marco de los planes nacionales y regionales que regulen la respectiva actividad.
 
-Corresponderá al intendente de la región respectiva velar por el cumplimiento de lo que dispone el inciso anterior.
+Corresponderá al delegado presidencial regional de la región respectiva, respecto de los planes nacionales, y al gobernador regional, respecto de los planes regionales, velar por el cumplimiento de lo que dispone el inciso anterior.
 
 #### Artículo 10
 
-La coordinación entre las municipalidades y entre éstas y los servicios públicos que actúen en sus respectivos territorios, se efectuará mediante acuerdos directos entre estos organismos. A falta de acuerdo, el gobernador provincial que corresponda dispondrá las medidas necesarias para la coordinación requerida, a solicitud de cualquiera de los alcaldes interesados.
+La coordinación entre las municipalidades y entre éstas y los servicios públicos que dependan o se relacionen con el Presidente de la República a través de un ministerio, y que actúen en sus respectivos territorios, se efectuará mediante acuerdos directos entre estos organismos. A falta de acuerdo, el delegado presidencial provincial que corresponda dispondrá de las medidas necesarias para la coordinación requerida, a solicitud de cualquiera de los alcaldes interesados. Asimismo, la coordinación entre las municipalidades y entre éstas y los servicios públicos que dependan o se relacionen con el gobierno regional, y que actúen en sus respectivos territorios, se efectuará mediante acuerdos directos entre estos organismos. A falta de acuerdo, el gobernador regional que corresponda dispondrá de las medidas necesarias para la coordinación requerida, a solicitud de cualquiera de los alcaldes interesados.
 
 En todo caso, la coordinación deberá efectuarse sin alterar las atribuciones y funciones que correspondan a los organismos respectivos.
 
@@ -466,7 +466,7 @@ El director de seguridad pública será designado por el alcalde y podrá ser re
 
 Dicho director será el colaborador directo del alcalde en las tareas de coordinación y gestión de las funciones de la letra j) del artículo 4, en el seguimiento del plan comunal de seguridad pública, y ejercerá las funciones que le delegue el alcalde, siempre que estén vinculadas con la naturaleza de su función.
 
-La designación y remoción del director de seguridad pública deberá ser informada a la Subsecretaría de Prevención del Delito y a la intendencia respectiva. Ambos órganos deberán llevar una nómina actualizada de los directores de seguridad pública a niveles nacional y regional, según corresponda.
+La designación y remoción del director de seguridad pública deberá ser informada a la Subsecretaría de Prevención del Delito y a la delegación presidencial regional respectiva. Ambos órganos deberán llevar una nómina actualizada de los directores de seguridad pública a niveles nacional y regional, según corresponda.
 
 #### Artículo 17
 
@@ -948,6 +948,8 @@ El reglamento municipal que modifique o fije la nueva planta entrará en vigenci
 
 La facultad establecida en el artículo 49 ter deberá ejercerse dentro de los ciento ochenta días siguientes a la entrada en vigencia del reglamento municipal que modifique o fije la planta respectiva. En el caso que procediere la realización de concursos públicos, éstos deberán efectuarse en el plazo de un año contado desde la citada fecha.
 
+> **Nota.** El artículo único de la Ley 21143, publicada el 27.02.2019, dispone que los reglamentos que fijan las plantas de personal de los municipios, ingresados para su toma de razón a la Contraloría General de la República durante el año 2018, publicados entre el 1 de enero del año 2019 y la fecha de publicación de la citada ley, entrarán en vigencia a partir del 27 de febrero de 2019
+
 #### Artículo 49
 
 quinquies.- Para todos los efectos legales, la participación de los funcionarios municipales en la determinación de la planta municipal no se entenderá como una vulneración al número 6 del artículo 62 de la ley N° 18.575 y al número 1 del artículo 12 de la ley N° 19.880.
@@ -1272,9 +1274,9 @@ El alcalde podrá designar delegados en localidades distantes de la sede municip
 
 Si la designación recayere en un funcionario de la municipalidad, éste ejercerá su cometido en comisión de servicios; si fuere designada una persona ajena a aquélla, podrá ser contratada a honorarios o se desempeñará ad honórem, según se establezca en la respectiva resolución, quedando afecta a las mismas responsabilidades de los funcionarios municipales.
 
-La delegación deberá ser parcial y recaer sobre materias específicas. En la resolución respectiva el alcalde determinará las facultades que confiere, el plazo y el ámbito territorial de competencia del delegado.
+La delegación deberá ser parcial y recaer sobre materias específicas. En la resolución espectiva el alcalde determinará las facultades que confiere, el plazo y el ámbito territorial de competencia del delegado.
 
-La designación de los delegados deberá ser comunicada por el alcalde al gobernador respectivo.
+La designación de los delegados deberá ser comunicada por el alcalde al delegado presidencial provincial respectivo.
 
 #### Artículo 69
 
@@ -1316,7 +1318,7 @@ Para ser elegido concejal se requiere:
 
 a) Ser ciudadano con derecho a sufragio;
 
-b) Saber leer y escribir;
+b) Haber aprobado la enseñanza media o su equivalente, considerándose también como estudios equivalentes, para estos efectos, los acreditados mediante certificado de cuarto medio laboral;
 
 c) Tener residencia en la región a que pertenezca la respectiva comuna o agrupación de comunas, según corresponda, a lo menos durante los últimos dos años anteriores a la elección;
 
@@ -1330,7 +1332,7 @@ No podrá ser alcalde ni concejal el que tuviere dependencia de sustancias o dro
 
 No podrán ser candidatos a alcalde o a concejal:
 
-a) Los ministros de Estado, los subsecretarios, los secretarios regionales ministeriales, los intendentes, los gobernadores, los consejeros regionales, los parlamentarios, los miembros del consejo del Banco Central y el Contralor General de la República;
+a) Los ministros de Estado, los subsecretarios, los secretarios regionales ministeriales, los gobernadores regionales, los delegados presidenciales regionales, los delegados presidenciales provinciales, los secretarios regionales ministeriales, los consejeros regionales, los parlamentarios, los miembros del consejo del Banco Central y el Contralor General de la República;
 
 b) Los miembros y funcionarios de los diferentes escalafones del Poder Judicial, del Ministerio Público, de la Contraloría General de la República, así como los del Tribunal Constitucional, del Tribunal de Defensa de la Libre Competencia, del Tribunal de Contratación Pública, del Tribunal Calificador de Elecciones y de los tribunales electorales regionales, los consejeros del Consejo para la Transparencia, y los miembros activos de las Fuerzas Armadas y de Orden y Seguridad Pública, y
 
@@ -1339,6 +1341,8 @@ c) Las personas que a la fecha de inscripción de sus candidaturas tengan vigent
 Igual prohibición regirá respecto de los directores, administradores, representantes y socios titulares del diez por ciento o más de los derechos de cualquier clase de sociedad, cuando ésta tenga contratos o cauciones vigentes ascendentes a doscientas unidades tributarias mensuales o más, o litigios pendientes, con la municipalidad.
 
 Tampoco podrán ser candidatos a alcalde o a concejal las personas que se hallen condenadas por crimen o simple delito que merezca pena aflictiva.
+
+Las inhabilidades establecidas en las letras a) y b) serán aplicables a quienes hubieren tenido las calidades o cargos antes mencionados dentro del año inmediatamente anterior a la elección municipal.
 
 > **Nota.** La modificación al Art. 74, letra b), dispuesta por el Art. 1º Nº 13 de la Ley 20742, publicada el 01.04.2014, regirá a contar de la fecha en que deban declararse las candidaturas a las elecciones municipales del año 2016, esto es, 1º de agosto del citado año.
 
@@ -1724,7 +1728,7 @@ A.- En cada comuna existirá un consejo comunal de seguridad pública. Éste ser
 
 B.- El consejo comunal de seguridad pública será presidido por el alcalde y lo integrarán, a lo menos, las siguientes personas:
 
-a) El intendente o, en subsidio, el gobernador y, en defecto del segundo, el funcionario que el primero designe.
+a) El delegado presidencial regional o, en subsidio, el delegado presidencial provincial y, en defecto del segundo, el funcionario que el primero designe.
 
 b) Dos concejales elegidos por el concejo municipal, en una votación única.
 
@@ -1758,7 +1762,7 @@ Sin perjuicio de lo anterior, el consejo podrá invitar al juez de garantía con
 
 La Secretaría Municipal asumirá dentro del consejo el rol de ministro de fe, debiendo en dicho contexto levantar acta de todas las sesiones del consejo en la forma señalada por la ley.
 
-El alcalde deberá informar a la Subsecretaría de Prevención del Delito y a la intendencia correspondiente, dentro de los diez días siguientes a su designación, el funcionario que asumirá la Secretaría Ejecutiva del consejo comunal de seguridad pública. La Subsecretaría de Prevención del Delito y la intendencia deberán llevar una nómina actualizada de las personas que ejercen dicha función.
+El alcalde deberá informar a la Subsecretaría de Prevención del Delito y a la delegación presidencial regional correspondiente, dentro de los diez días siguientes a su designación, el funcionario que asumirá la Secretaría Ejecutiva del consejo comunal de seguridad pública. La Subsecretaría de Prevención del Delito y la delegación presidencial regional deberán llevar una nómina actualizada de las personas que ejercen dicha función.
 
 El quórum para sesionar será la mayoría de los miembros permanentes.
 
@@ -1770,7 +1774,7 @@ Los consejos intercomunales estarán integrados de la siguiente forma:
 
 a) El presidente del consejo, que será uno de los alcaldes de las comunas participantes, elegido entre éstos.
 
-b) Los intendentes de las respectivas comunas que conforman el consejo, o el funcionario que éstos designen para representarlos.
+b) Los delegados presidenciales regionales de las respectivas comunas que conforman el consejo, o el funcionario que éstos designen para representarlos.
 
 c) Los alcaldes de las demás comunas que conforman el consejo intercomunal.
 
@@ -1796,7 +1800,7 @@ Lo expresado en el inciso primero se aplicará a el o los alcaldes del consejo c
 
 Tratándose de las comunas de Juan Fernández e Isla de Pascua, territorios especiales según lo dispuesto en el artículo 126 bis de la Constitución Política de la República, las sesiones del consejo comunal de seguridad pública deberán celebrarse con la misma periodicidad indicada en el inciso segundo, pero únicamente con aquellas instituciones u organizaciones indicadas en el artículo 104 B que tengan asiento en la comuna. Sin perjuicio de lo anterior, el alcalde con acuerdo del consejo podrá requerir en casos calificados la presencia del resto de las instituciones u organizaciones, las cuales deberán concurrir cuando la disponibilidad presupuestaria y las condiciones climáticas y de traslado al momento de realizar el viaje lo permitan. En todo caso, las autoridades que no tengan asiento en dichas comunas deberán concurrir a tales consejos en al menos dos oportunidades durante el año, debiendo informar de ello al alcalde con al menos treinta días de anticipación.
 
-Dentro de los diez días hábiles siguientes de celebrada una sesión del consejo comunal de seguridad pública, el alcalde deberá informar, mediante correo electrónico, o por otro medio de comunicación idóneo, expedido a través del ministro de fe del consejo, a la Subsecretaría de Prevención del Delito del Ministerio del Interior y Seguridad Pública y a la intendencia respectiva, de la convocatoria y celebración de la misma, los temas tratados y los acuerdos adoptados, si los hubiere.
+Dentro de los diez días hábiles siguientes de celebrada una sesión del consejo comunal de seguridad pública, el alcalde deberá informar, mediante correo electrónico, o por otro medio de comunicación idóneo, expedido a través del ministro de fe del consejo, a la Subsecretaría de Prevención del Delito del Ministerio del Interior y Seguridad Pública y a la delegación presidencial regional respectiva, de la convocatoria y celebración de la misma, los temas tratados y los acuerdos adoptados, si los hubiere.
 
 #### Artículo 104
 
@@ -1864,7 +1868,7 @@ Las municipalidades, con el objeto de ejecutar los objetivos y metas relacionado
 
 Asimismo, los órganos públicos sólo quedarán obligados al cumplimiento de las metas u objetivos a los cuales se hayan comprometido expresamente en el mencionado plan o en un convenio celebrado en virtud de lo establecido en el inciso anterior, y siempre que dichas metas u objetivos se encuentren dentro de la esfera de sus respectivas atribuciones legales.
 
-Por su parte, respecto a las materias o problemáticas incorporadas en el plan comunal de seguridad pública que no sean de competencia de la municipalidad, de los órganos públicos participantes del consejo ni de ninguna otra entidad con la que se haya celebrado un convenio en virtud de lo establecido en el inciso sexto, la intendencia respectiva, al momento de recibir el plan comunal, procederá a derivarlo a las instituciones competentes para evaluar su ejecución.
+Por su parte, respecto a las materias o problemáticas incorporadas en el plan comunal de seguridad pública que no sean de competencia de la municipalidad, de los órganos públicos participantes del consejo ni de ninguna otra entidad con la que se haya celebrado un convenio en virtud de lo establecido en el inciso sexto, la delegación presidencial regional respectiva, al momento de recibir el plan comunal, procederá a derivarlo a las instituciones competentes para evaluar su ejecución.
 
 La Subsecretaría de Prevención del Delito, en tanto, deberá dictar orientaciones técnicas y elaborar un formato de plan comunal de seguridad pública.
 
@@ -1872,7 +1876,7 @@ La vigencia de este último será de cuatro años, sin perjuicio de lo cual el a
 
 En todo caso, los planes comunales de seguridad pública deberán ser consistentes y estar debidamente coordinados con los instrumentos emanados del Ministerio del Interior y Seguridad Pública en este ámbito, en particular, con el Plan Nacional de Seguridad Pública y Prevención de la Violencia y el Delito.
 
-Para los efectos señalados en el inciso anterior y de los artículos 13 y 16 de la ley N° 20.502, las municipalidades deberán remitir los respectivos planes comunales de seguridad pública, dentro de los diez días siguientes a su aprobación, a la Subsecretaría de Prevención del Delito del Ministerio del Interior y Seguridad Pública, al consejo regional de seguridad pública y al intendente.
+Para los efectos señalados en el inciso anterior y de los artículos 13 y 16 de la ley N° 20.502, las municipalidades deberán remitir los respectivos planes comunales de seguridad pública, dentro de los diez días siguientes a su aprobación, a la Subsecretaría de Prevención del Delito del Ministerio del Interior y Seguridad Pública, al consejo regional de seguridad pública y al delegado presidencial regional.
 
 Asimismo, dentro del mismo plazo señalado en el inciso anterior, las municipalidades deberán difundir los planes referidos a través de la página web municipal o por cualquier otro medio que asegure su debido conocimiento por parte de la comunidad.
 
@@ -2068,7 +2072,7 @@ En caso de empate, el tribunal electoral regional respectivo, en audiencia públ
 
 #### Artículo 128
 
-Dentro de los dos días siguientes a aquél en que su fallo quede a firme, el tribunal electoral regional enviará una copia autorizada de la parte pertinente del mismo y el acta complementaria de proclamación, en lo que se refiera a las respectivas comunas, al intendente y al secretario municipal de cada una de las municipalidades de la provincia. Comunicará, al mismo tiempo, su proclamación a cada uno de los candidatos elegidos.
+Dentro de los dos días siguientes a aquél en que su fallo quede a firme, el tribunal electoral regional enviará una copia autorizada de la parte pertinente del mismo y el acta complementaria de proclamación, en lo que se refiera a las respectivas comunas, al delegado presidencial regional y al secretario municipal de cada una de las municipalidades de la provincia. Comunicará, al mismo tiempo, su proclamación a cada uno de los candidatos elegidos.
 
 Una copia completa del fallo y de su acta complementaria se remitirá, además, por el presidente del tribunal electoral regional respectivo, al Ministro del Interior y al Director del Servicio Electoral, con el objeto de que tomen conocimiento del término del proceso electoral municipal.
 
@@ -2350,7 +2354,7 @@ Asimismo, seguirán siendo aplicables a dicho personal las normas previsionales 
 
 #### Artículo 2º
 
-Mientras no se dicte la ley a que se refiere el artículo 126, inciso primero, de la Constitución Política, las cuestiones de competencia que se susciten entre municipalidades de una misma provincia serán resueltas por el gobernador respectivo y aquellas que se produzcan entre municipalidades pertenecientes a distintas provincias, por el intendente que corresponda.
+Mientras no se dicte la ley a que se refiere el artículo 126, inciso primero, de la Constitución Política, las cuestiones de competencia que se susciten entre municipalidades de una misma provincia serán resueltas por el delegado presidencial provincial respectivo y aquellas que se produzcan entre municipalidades pertenecientes a distintas provincias, por el delegado presidencial regional que corresponda.
 
 #### Artículo 3º
 

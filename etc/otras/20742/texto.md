@@ -118,7 +118,7 @@ e) Agrégase el siguiente inciso cuarto, nuevo, pasando el actual a ser quinto:
 
 12) Sustitúyese la letra b) del artículo 73 por la siguiente:
 
-"b) Haber aprobado la enseñanza media o su equivalente;".
+"b) Haber aprobado la enseñanza media o su equivalente, considerándose también como estudios equivalentes, para estos efectos, los acreditados mediante certificado de cuarto medio laboral;".
 
 13) Reemplázase el literal b) del artículo 74 por el siguiente:
 
@@ -294,7 +294,7 @@ Incorpórase, en el artículo 28 de la ley Nº 18.883, el siguiente inciso segun
 
 #### Artículo primero
 
-Lo dispuesto en el numeral 12) del artículo 1º de la presente ley regirá a contar de las elecciones municipales que se verificarán en el año 2020.
+Derogado.
 
 #### Artículo segundo
 
