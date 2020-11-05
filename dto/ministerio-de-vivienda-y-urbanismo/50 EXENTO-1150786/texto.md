@@ -24,7 +24,7 @@ f) Que, mediante el correo electrónico de fecha 28 de septiembre de 2020, se da
 
 Decreto:
 
-1º.- Apruébase el siguiente Programa de Expropiación para el año 2019 y siguientes, en la Región de Los Ríos, para la adquisición del lote ubicado en la comuna de Valdivia, a ser destinado a la ejecución del proyecto "Construcción Proyecto Urbano Habitacional de Regeneración de Áreas Centrales - Valdivia", de la ciudad de Valdivia, según polígonos singularizados en el Plano de Expropiación Rol 180-23, Lámina PEXP-01/01, elaborado a escala 1:500 por Serviu Región de Los Ríos, de julio de 2020, y que se señala a continuación:
+1º.- Apruébase el siguiente Programa de Expropiación para el año 2020 y siguientes, en la Región de Los Ríos, para la adquisición del lote ubicado en la comuna de Valdivia, a ser destinado a la ejecución del proyecto "Construcción Proyecto Urbano Habitacional de Regeneración de Áreas Centrales - Valdivia", de la ciudad de Valdivia, según polígonos singularizados en el Plano de Expropiación Rol 180-23, Lámina PEXP-01/01, elaborado a escala 1:500 por Serviu Región de Los Ríos, de julio de 2020, y que se señala a continuación:
 
 Superficie aproximada inmueble a expropiar: 2.139 metros cuadrados.
 
