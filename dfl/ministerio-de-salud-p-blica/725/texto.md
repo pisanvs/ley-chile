@@ -1086,7 +1086,7 @@ E.- Los titulares de las autorizaciones para uso provisional con fines de invest
 
 Asimismo, acreditado el daño, se presumirá que éste se ha producido con ocasión de la investigación.
 
-La acción para perseguir esta responsabilidad prescribirá en el plazo de diez años, contado desde la manifestación del daño.
+La acción para perseguir esta responsabilidad prescribirá en el plazo de diez años, contado desde la manifestación del daño. No obstante, en caso de decretarse una alerta sanitaria con ocasión de una epidemia o pandemia y durante la vigencia de ésta, dicho plazo se contará desde el término del respectivo ensayo, cuando se trate de investigaciones que tengan por objeto el desarrollo de productos farmacéuticos y dispositivos médicos destinados a enfrentar las circunstancias que sirvieron de fundamento al decreto de alerta sanitaria.
 
 #### Artículo 111
 
