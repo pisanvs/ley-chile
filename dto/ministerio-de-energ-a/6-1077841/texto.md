@@ -34,7 +34,7 @@ El presente reglamento establece los requisitos que deberán cumplir las instala
 
 #### Artículo 2º
 
-Los usuarios o clientes finales definidos en el artículo 2º letra h) del decreto supremo Nº 71, de 2014, del Ministerio de Energía, que aprueba reglamento de la Ley Nº 20.571, que regula el pago de las tarifas eléctricas de las generadoras residenciales, que dispongan para su propio consumo de instalaciones de cogeneración eficiente cuya capacidad instalada no supere los 100 kilowatts y que hagan uso de su derecho a inyectar los excedentes de energía que generen a la red de distribución, se sujetarán en todo lo que les sea aplicable a lo dispuesto en el mencionado decreto supremo.
+Los usuarios finales definidos en el artículo 4º, letra s) del reglamento aprobado mediante el artículo primero del decreto supremo Nº 57, de 2019, del Ministerio de Energía, que aprueba reglamento de Generación Distribuida para Autoconsumo, que dispongan para su propio consumo de instalaciones de cogeneración eficiente cuya capacidad instalada no supere los 300 kilowatts y que hagan uso de su derecho a inyectar los excedentes de energía que generen a la red de distribución, se sujetarán en todo lo que les sea aplicable a lo dispuesto en el mencionado decreto supremo.
 
 #### Artículo 3º
 
@@ -84,7 +84,7 @@ Requisitos de las instalaciones de cogeneración eficiente
 
 #### Artículo 8º
 
-Las instalaciones de cogeneración con capacidad instalada inferior o igual a 100 kilowatts serán consideradas como instalaciones de cogeneración eficiente si tienen un Rendimiento Global (RG) mayor o igual a 0,75, el que estará dado por la siguiente expresión:
+Las instalaciones de cogeneración con capacidad instalada inferior o igual a 300 kilowatts serán consideradas como instalaciones de cogeneración eficiente si tienen un Rendimiento Global (RG) mayor o igual a 0,75, el que estará dado por la siguiente expresión:
 
 .
 
@@ -106,13 +106,13 @@ Los propietarios de las instalaciones de cogeneración eficiente señaladas en e
 
 #### Artículo 11
 
-Sin perjuicio de lo señalado en el artículo anterior, los propietarios de las instalaciones de cogeneración que cumplen los requisitos del artículo 8º anterior y a los que le son aplicables las disposiciones del artículo 2º del presente reglamento, deberán indicar en la solicitud de conexión, exigida en el artículo 9º del decreto supremo Nº 71, de 2014, del Ministerio de Energía, que su instalación es una instalación de cogeneración eficiente.
+Sin perjuicio de lo señalado en el artículo anterior, los propietarios de las instalaciones de cogeneración que cumplen los requisitos del artículo 8º anterior y a los que le son aplicables las disposiciones del artículo 2º del presente reglamento, deberán indicar en la solicitud de conexión, exigida en el Capítulo 1 del Título III del Reglamento de Generación Distribuida para Autoconsumo, aprobado mediante el decreto supremo Nº 57, de 2019, del Ministerio de Energía, del Ministerio de Energía, que su instalación es una instalación de cogeneración eficiente.
 
 Los propietarios u operadores de las instalaciones de cogeneración que cumplen los requisitos del artículo 8º anterior y que a su vez sean PMGD, deberán indicar en la comunicación, exigida en el artículo 15 del decreto supremo Nº 244, de 2005, del Ministerio de Economía, Fomento y Reconstrucción, que su instalación es una instalación de cogeneración eficiente.
 
 #### Artículo 12
 
-Las instalaciones de cogeneración con capacidad instalada superior a 100 kilowatts y cuyos excedentes sean inferiores a 20.000 kilowatts, serán consideradas como instalaciones de cogeneración eficiente si tienen un Rendimiento Eléctrico Equivalente (REE) mayor o igual a los valores indicados en la tabla que se indica a continuación, según la tecnología de que se trate:
+Las instalaciones de cogeneración con capacidad instalada superior a 300 kilowatts y cuyos excedentes sean inferiores a 20.000 kilowatts, serán consideradas como instalaciones de cogeneración eficiente si tienen un Rendimiento Eléctrico Equivalente (REE) mayor o igual a los valores indicados en la tabla que se indica a continuación, según la tecnología de que se trate:
 
 .
 
