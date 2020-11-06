@@ -158,6 +158,36 @@ b) Entregar a sus clientes capacitaciones y/o asesoría técnica agronómica, en
 
 c) Tener activos superiores a $1.000.000.000 (mil millones de pesos) al momento de la postulación al Programa.
 
+6.2.2.1. Modalidad Especial Agropecuaria Adicional
+
+Para efectos de la postulación del Intermediario Financiero No Bancario o IFNB en el caso de la modalidad especial agropecuaria, se permitirá que dos empresas postulen en forma conjunta, para que en forma coordinada actúen como un solo IFNB. Estas empresas deberán pertenecer al mismo Grupo Empresarial, pudiendo tener relación matriz-filial o ambas tener una matriz común. Una de las empresas asumirá el rol de contratante y se obligará directamente ante la Corporación (la "Entidad Contratante") y la otra asumirá el rol operativo (la "Entidad Operativa"); la Entidad Contratante será directamente responsable de todas las acciones que realice la Entidad Operativa en el marco, con motivo u ocasión de este Programa. La evaluación de la Entidad Contratante se efectuará de manera conjunta con la Entidad Operativa, y eventualmente también con el resto del Grupo Empresarial (de acuerdo a los términos del artículo 96 de la Ley N° 18.045, de Mercado de Valores o en aquella que la sustituya o reemplace).
+
+En esta modalidad especial agropecuaria adicional el riesgo de crédito será evaluado por Corfo considerando (1) el riesgo de la Entidad Contratante (incluyendo el riesgo consolidado de la matriz y sus filiales), y (2) la capacidad de colocación de los productos financieros en el segmento objetivo y la capacidad de gestión de la Entidad Operativa.
+
+La Entidad Operativa deberá cumplir con los requisitos establecidos en los literales a), b), c), d), e), e
+
+- **i)** del numeral 6.2.1 anterior, mientras que la Entidad Contratante deberá cumplir con los requisitos establecidos en los literales
+
+- **f)** y
+
+- **g)** del mismo numeral. Todos los antecedentes deberán ser presentados en la postulación de manera conjunta por ambas entidades. Adicionalmente, la Entidad Contratante no debe haber tenido pérdida patrimonial en el último año (ejercicio enero-diciembre), conforme a la presentación de los Estados Financieros auditados exigidos en los requisitos.
+
+Lo anterior es sin perjuicio de los requisitos exigidos en los requisitos generales para modalidad especial agropecuaria para todos los IFNB postulantes en dicha modalidad de acuerdo a lo establecido en el numeral 6.2.2. El requisito establecido en la literal
+
+- **a)** de dicho numeral, debe ser cumplido por la Entidad Operativa, el de la letra
+
+- **b)** por el Grupo Empresarial en su conjunto y el requisito de la letra
+
+- **c)** por la Entidad Contratante.
+
+En esta modalidad especial agropecuaria adicional la Entidad Contratante podrá cumplir las obligaciones y ejercer las acciones contempladas en el Programa directamente o a través de la Entidad Operativa, incluyendo la gestión operativa de colocación de los productos financieros elegibles en el marco de las presentes Normas Operativas. En todo caso, la responsabilidad y riesgo siempre será de la Entidad Contratante. Para los efectos de lo dispuesto en este párrafo, las entidades deberán celebrar (1) un contrato de mandato especial con representación, en virtud del cual la Entidad Operativa represente a la Entidad Contratante en todos los negocios, asuntos y obligaciones de la Entidad Contratante con Corfo en el marco del Programa, o (2) un contrato de servicios, o similar, en virtud del cual la Entidad Operativa asista a la Entidad Contratante en la ejecución de las acciones y cumplimiento de los fines del Programa, pudiendo o no incluir un mandato sin representación. Este contrato deberá (i) constar por escritura pública, (ii) cumplir con los requisitos de contratación entre partes relacionadas, y (iii) presentarse como un presupuesto para la postulación del IFNB en la presente modalidad especial agropecuaria adicional.
+
+Sin perjuicio de la excepción en su evaluación conjunta, el IFNB correspondiente a la Entidad Contratante será el deudor responsable de todas las obligaciones contraídas con Corfo, en caso de ser calificado y autorizado como Intermediario elegible por el CEC, mediante la presente modalidad. En el mismo acuerdo, el CEC deberá aprobar la participación de la Entidad Operativa. La Entidad Operativa sólo podrá cambiarse previa autorización del CEC.
+
+Todas las actuaciones exigidas en las presentes Normas, incluyendo la presentación de Anexos no personalísimos del IFNB postulante, conforme a las cuales los representantes designados por la Entidad Operativa obren por cuenta y riesgo de la Entidad Contratante deben quedar expresamente celebradas en dicha órbita de interés.
+
+De esta forma, los Anexos N° 1 y 2 de este Reglamento deben ser suscritos por la Entidad Contratante y los Anexos N° 4, 5 y 8 de estas Normas deben ser suscritos por la Entidad Operativa. Asimismo, el Anexo N° 6 del Reglamento debe ser suscrito conjuntamente por la Entidad Contratante y la Entidad Operativa.
+
 6.2.3. Requisitos para Modalidad Especial Indígena
 
 Los Intermediarios que operen en esta modalidad, además de los requisitos del numeral 6.2.1., deberán cumplir con los siguientes:
@@ -294,9 +324,7 @@ Para los efectos de los desembolsos de Corfo a los IFNB y los pagos a Corfo corr
 
 El Comité Ejecutivo de Créditos establecerá trimestralmente las tasas de interés aplicables a los préstamos de los Intermediarios Financieros.
 
-En el caso de los Créditos No Rotatorios, la tasa de interés aplicable corresponderá a la menor tasa vigente entre: (i) el momento que el Intermediario realice la solicitud de financiamiento a Corfo, o (ii) el momento que Corfo efectúe el desembolso.
-
-Respecto a la Línea de Crédito Rotatoria, los préstamos serán girados o desembolsados de acuerdo con la tasa de interés vigente, aprobada por el CEC, al momento de efectuar el desembolso de la línea.
+En el caso de los Créditos No Rotatorios y la Línea de Crédito Rotatoria, el IFNB podrá optar a dos alternativas: (i) la tasa de interés vigente al momento que el Intermediario realice la solicitud de financiamiento a Corfo, o (ii) la tasa de interés vigente al momento que el Intermediario efectúe el primer desembolso. En este caso, el máximo costo total que se menciona en los párrafos siguientes y en el numeral 14 de estas Normas, y que aplicará al IFNB, corresponderá al que esté vigente al momento de la solicitud o del primer desembolso del préstamo, según sea la alternativa seleccionada por el IFNB. Asimismo, en el caso de las renovaciones de líneas de crédito rotatorias, el IFNB podrá optar entre las tasas de interés y el máximo costo total vigentes al momento de la renovación anual del préstamo efectuado al IFNB, o las tasas de interés y el máximo costo total al que haya optado originalmente. Las renovaciones de líneas se formalizarán a través de un nuevo título ejecutivo, o una modificación del título original donde consta el crédito. En todos los casos, el IFNB deberá comunicar a Corfo su opción de tasa de interés y máximo costo total a la que optará, con 5 días de anticipación de efectuar el primer giro o de cumplirse cada anualidad.
 
 Teniendo en consideración los objetivos del Programa, y sea que éste opere mediante ventanilla abierta o de licitación, o en cualquiera de las Modalidades de refinanciamiento establecidas en el numeral 7 anterior, el Gerente de Inversión y Financiamiento podrá establecer el máximo costo total de una operación a ser aplicado a los refinanciamientos otorgados con los recursos del Programa, pudiendo hacerlo para las operaciones de crédito, leasing y/o factoring, para la modalidad general o para las modalidades especiales agropecuaria o/e indígena, y para alguna o para todas las alternativas de plazo y moneda de los préstamos. Este límite será informado al IFNB al momento de su postulación y junto a la notificación del otorgamiento de un préstamo. En este caso, las operaciones cuyo costo total exceda el máximo definido no serán elegibles para el Programa.
 
