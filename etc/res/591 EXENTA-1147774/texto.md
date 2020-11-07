@@ -208,6 +208,8 @@ Asimismo, se exceptúan de esta obligación a aquellas personas que estén solas
 
 Igualmente, se exceptúan de esta obligación por un máximo de dos horas a un máximo de 10 personas que desarrollen actividades, en un mismo lugar, sea abierto o cerrado, donde se utilice el rostro o la voz como medio de expresión, tales como filmaciones, grabaciones, presentaciones escénicas o musicales, entre otras.
 
+Asimismo, exceptúase de la obligación de usar mascarillas a aquellas personas que se encuentren en espacios abiertos de playas o piscinas, que no estén en movimiento y que se encuentren a dos o más metros de distancia de otra persona. Asimismo, no será obligatorio el uso de mascarillas por parte de aquellas personas que estén haciendo uso de las zonas de baño, mientras se encuentren en su interior.
+
 22. Se entenderá por mascarilla cualquier material que cubra la nariz y boca para evitar la propagación del virus, ya sea de fabricación artesanal o industrial.
 
 23. Las medidas dispuestas en este acápite tendrán el carácter de indefinido, hasta que las condiciones epidemiológicas permitan su suspensión.
@@ -230,9 +232,11 @@ e. Las personas entre las cuales exista una separación física que impida el co
 
 f. Las personas que se encuentren en establecimientos de salud, las que se regirán por las normativas particulares de éstos.
 
-25. Dispóngase que en los espacios cerrados donde se realice atención a público, no podrá permanecer simultáneamente en dicho espacio, más de una persona por cada diez metros cuadrados útiles. Para efectos de este cálculo no se tendrá en consideración a los trabajadores del lugar.
+25. Dispóngase que en los espacios cerrados, que estén ubicados en los Pasos 1, 2 o 3 de los que trata el Capítulo II de esta resolución, donde se realice atención a público, no podrá permanecer simultáneamente en dicho espacio, más de una persona por cada diez metros cuadrados útiles. Para efectos de este cálculo no se tendrá en consideración a los trabajadores del lugar.
 
 En el caso de aquellos espacios cuya superficie útil sea menor a 10 metros cuadrados, la capacidad será de máximo una persona, de acuerdo a lo dispuesto precedentemente.
+
+Sin perjuicio de lo dispuesto precedentemente, en aquellos espacios cerrados ubicados en localidades en Paso 4 o 5 -de los que trata el Capítulo II de esta resolución- no podrá permanecer simultáneamente más de una persona por cada 5 metros cuadrados útiles. En el caso de aquellos espacios cuya superficie útil sea menor a 5 metros cuadrados, la capacidad será de máximo una persona, de acuerdo a lo dispuesto en el presente párrafo. Para efectos de este cálculo no se tendrá en consideración a los trabajadores del lugar.
 
 Se entiende por superficie útil de un recinto cerrado, a la superficie construida menos la superficie de muros y circulaciones verticales.
 
@@ -318,23 +322,23 @@ Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir 
 
 Déjase constancia que esta medida comenzó a regir el día 24 de marzo de 2020 a las 22:00 horas, y tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
 
-Lo dispuesto en el párrafo primero de este numeral no aplicará a los habitantes de localidades que se encuentren en los Pasos 3, 4 y 5, en conformidad con el Capítulo II de la presente resolución y que se desplacen entre localidades que estén en los Pasos 3, 4 y 5. Con todo, quienes se desplacen entre las señaladas localidades deberán contar con sus pasaportes sanitarios y con el permiso correspondiente otorgado en virtud del Instructivo para permisos de desplazamiento del que trata el oficio ordinario N� 25.535, de 20 de octubre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+Lo dispuesto en el párrafo primero de este numeral no aplicará a los habitantes de localidades que se encuentren en los Pasos 3, 4 y 5, en conformidad con el Capítulo II de la presente resolución y que se desplacen entre localidades que estén en los Pasos 3, 4 y 5. Con todo, quienes se desplacen entre las señaladas localidades deberán contar con sus pasaportes sanitarios y con el permiso correspondiente otorgado en virtud del Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 25.535, de 20 de octubre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
-44 bis. Se autoriza la realización de oficios, ritos y ceremonias en las localidades que se encuentren en Paso 2, 3, 4 o 5, sujeto a las siguientes reglas:
+44 bis. Se autoriza la realización de oficios, ritos, seminarios y ceremonias en las localidades que se encuentren en Paso 2, 3, 4 o 5, sujeto a las siguientes reglas:
 
-a. Los oficios, ritos o ceremonias no podrán exceder las dos horas de duración.
+a. Los oficios, ritos, seminarios o ceremonias no podrán exceder las dos horas de duración.
 
-b. El aforo máximo de los espacios donde se efectúe el oficio, rito o ceremonia, ya sean cerrados o abiertos, no podrá exceder de una persona por cada 4 metros cuadrados útiles.
+b. El aforo máximo de los espacios donde se efectúe el oficio, rito, seminarios o ceremonia, ya sean cerrados o abiertos, no podrá exceder de una persona por cada 4 metros cuadrados útiles.
 
-c. Deberá darse estricto cumplimiento a las demás medidas sanitarias, según el paso en que se encuentre la localidad donde se emplaza el espacio en que se celebra el oficio, rito o ceremonia. En ningún caso podrá celebrarse un oficio, rito o ceremonia en localidades que se encuentren en cuarentena, o en Paso 2 durante los fines de semana y feriados. Sin perjuicio de lo anterior, los funerales se regirán por sus normas especiales.
+c. Deberá darse estricto cumplimiento a las demás medidas sanitarias, según el paso en que se encuentre la localidad donde se emplaza el espacio en que se celebra el oficio, rito, seminario o ceremonia. En ningún caso podrá celebrarse un oficio, rito, seminario o ceremonia en localidades que se encuentren en cuarentena, o en Paso 2 durante los fines de semana y feriados. Sin perjuicio de lo anterior, los funerales se regirán por sus normas especiales.
 
 d. Los asistentes deberán permanecer en una ubicación fija la mayoría del tiempo de duración de la actividad.
 
 e. No se permite el consumo de alimentos ni bebidas.
 
-f. Sin perjuicio de lo dispuesto en el literal b, los aforos máximos de los lugares donde se realicen los oficios, ritos y ceremonias, según el Paso que se trate, en conformidad al Capítulo II de la presente resolución, serán los siguientes:
+f. Sin perjuicio de lo dispuesto en el literal b, los aforos máximos de los lugares donde se realicen los oficios, ritos, seminarios y ceremonias, según el Paso que se trate, en conformidad al Capítulo II de la presente resolución, serán los siguientes:
 
-i. Paso 2 - Transición: 10 personas en un lugar cerrado y 20 personas en un lugar abierto, exceptuándose los fines de semana y festivos, en los que no está permitido la realización de oficios, ritos o ceremonias.
+i. Paso 2 - Transición: 10 personas en un lugar cerrado y 20 personas en un lugar abierto, exceptuándose los fines de semana y festivos, en los que no está permitido la realización de oficios, ritos, seminarios o ceremonias.
 
 ii. Paso 3 - Preparación: 50 personas en un lugar cerrado y 100 personas en un lugar abierto.
 
@@ -418,7 +422,7 @@ a. Se permitirá a los niños, niñas y adolescentes hacer uso del permiso espec
 
 60. Se permitirá la realización o participación en eventos y actividades sociales y recreativas con un máximo de 10 personas en lugares cerrados y 20 personas en lugares abiertos, debiendo en todo momento cumplirse con lo establecido en los acápites V y VI del Capítulo I de la presente resolución.
 
-Un recinto podrá albergar más de un evento o actividad social y recreativa en simultáneo, siempre que cuente con muros u otras barreras físicas que aíslen todas las instalaciones requeridas por cada evento o actividad. Asimismo, deberán establecerse ingresos y salidas separadas para cada evento o actividad, ya sea en tiempo o espacio. Cada uno de estos eventos estará sujeto al aforo máximo dispuesto en el párrafo precedente.
+Un recinto podrá albergar más de un evento o actividad social y recreativa en simultáneo, siempre que cuente con muros u otras barreras físicas que aíslen todas las instalaciones requeridas por cada evento o actividad. Asimismo, deberán establecerse ingresos y salidas separadas para cada evento o actividad, ya sea en tiempo o espacio. Cada uno de estos eventos por separado estará sujeto al aforo máximo dispuesto en el párrafo precedente.
 
 61. Se autorizan las actividades deportivas en lugares públicos y privados. Para aquellas actividades que sean de naturaleza colectiva, podrán concentrarse un máximo de 10 personas. Estas actividades solo podrán realizarse en lugares abiertos.
 
@@ -438,9 +442,9 @@ b. Se permiten visitas de vínculos significativos de los niños, niñas y adole
 
 63. Se permitirá la realización o participación en eventos y actividades sociales y recreativas con un máximo de 25 personas en lugares cerrados y 50 personas en lugares abiertos, debiendo en todo momento cumplirse con lo establecido en los acápites V y VI del Capítulo I de la presente resolución.
 
-Un recinto podrá albergar más de un evento o actividad social y recreativa en simultáneo, siempre que cuente con muros u otras barreras físicas que aíslen todas las instalaciones requeridas por cada evento o actividad. Asimismo, deberán establecerse ingresos y salidas separadas para cada evento o actividad, ya sea en tiempo o espacio. Cada uno de estos eventos estará sujeto al aforo máximo dispuesto en el párrafo precedente.
+Un recinto podrá albergar más de un evento o actividad social y recreativa en simultáneo, siempre que cuente con muros u otras barreras físicas que aíslen todas las instalaciones requeridas por cada evento o actividad. Asimismo, deberán establecerse ingresos y salidas separadas para cada evento o actividad, ya sea en tiempo o espacio. Cada uno de estos eventos por separado estará sujeto al aforo máximo dispuesto en el párrafo precedente.
 
-64. Se autorizan las actividades deportivas en lugares públicos y privados. Para aquellas actividades que sean de naturaleza colectiva, podrán concentrarse un máximo de 5 personas en lugares cerrados y 25 personas en lugares abiertos.
+64. Se autorizan las actividades deportivas en lugares públicos y privados. Para aquellas actividades que sean de naturaleza colectiva, podrán concentrarse un máximo de 25 personas en lugares abiertos. Estas actividades solo podrán realizarse en lugares abiertos.
 
 Las actividades señaladas en este numeral no podrán contar con público. No está permitido el uso de camarines o lugares cerrados que no sean absolutamente esenciales para el adecuado funcionamiento de las actividades deportivas del establecimiento.
 
@@ -454,7 +458,17 @@ b. Se permiten visitas de vínculos significativos de los niños, niñas y adole
 
 c. Se permiten salidas con fines laborales a adolescentes de residencias que se encuentren en proceso de preparación para la vida independiente y a adolescentes que se encuentren en centros privativos de libertad que estén realizando labores en virtud de sus programas de intervención.
 
-64 ter. Se permite la atención de público en restaurantes, cafés y análogos, solo en lugares abiertos, hasta el 25% de su capacidad o guardando una distancia mínima de dos metros lineales entre mesas. Para efectos de este numeral, se entenderá como lugar abierto aquel que no tiene techo, o aquel que, teniendo techo, cuenta con más del 50 % de su perímetro sin muros.
+64 ter. Se permite la atención de público en restaurantes, cafés y análogos, en lugares abiertos, hasta el 25% de su capacidad o guardando una distancia mínima de dos metros lineales entre mesas. Para efectos de este numeral, se entenderá como lugar abierto aquel que no tiene techo, o aquel que, teniendo techo, cuenta con más del 50 % de su perímetro sin muros.
+
+Sin perjuicio de lo anterior, se permite la atención de público en lugares cerrados de restaurantes, cafés y análogos, cumpliendo las siguientes reglas:
+
+a. El aforo máximo será hasta un 25% de la capacidad total de los espacios cerrados del local.
+
+b. Debe existir una distancia mínima de dos metros lineales entre cada una de las mesas.
+
+c. La estadía máxima de los clientes no debe exceder las dos horas. Para el cumplimiento de esto, el recinto establecerá franjas de dos horas para el ingreso de los clientes. Una vez cumplido este tiempo, todo el local deberá ser sanitizado por espacio de 15 minutos. Una vez que hayan transcurrido los señalados 15 minutos, podrá entrar un nuevo grupo durante una franja de dos horas y así sucesivamente."
+
+d. Debe existir una ventilación permanente y adecuada. Para estos efectos, se entenderá que existe una ventilación permanente y adecuada cuando el lugar cerrado cuente, con al menos, una ventana o puerta que permita la entrada de aire y luz del exterior, de un tamaño mínimo del 4% de toda el área utilizada por los usuarios. Asimismo, las puertas y ventanas utilizadas para ventilar naturalmente, deberán permanecer abiertas y libres de obstrucciones durante todo el funcionamiento de dicho lugar.
 
 ### V. Paso 4: Apertura Inicial
 
@@ -462,27 +476,27 @@ c. Se permiten salidas con fines laborales a adolescentes de residencias que se 
 
 66. Se permitirá la realización o participación en eventos y actividades sociales y recreativas con un máximo de 50 personas en lugares cerrados y 100 personas en lugares abiertos, debiendo en todo momento cumplirse con lo establecido en los acápites V y VI del Capítulo I de la presente resolución.
 
-Un recinto podrá albergar más de un evento o actividad social y recreativa en simultáneo, siempre que cuente con muros u otras barreras físicas que aíslen todas las instalaciones requeridas por cada evento o actividad. Asimismo, deberán establecerse ingresos y salidas separadas para cada evento o actividad, ya sea en tiempo o espacio. Cada uno de estos eventos estará sujeto al aforo máximo dispuesto en el párrafo precedente.
+Un recinto podrá albergar más de un evento o actividad social y recreativa en simultáneo, siempre que cuente con muros u otras barreras físicas que aíslen todas las instalaciones requeridas por cada evento o actividad. Asimismo, deberán establecerse ingresos y salidas separadas para cada evento o actividad, ya sea en tiempo o espacio. Cada uno de estos eventos por separado estará sujeto al aforo máximo dispuesto en el párrafo precedente.
 
-67. Se autorizan las actividades deportivas en lugares públicos y privados. Para aquellas actividades que sean de naturaleza colectiva, podrán concentrarse un máximo de 10 personas en lugares cerrados y 50 personas en lugares abiertos.
+67. Se autorizan las actividades deportivas en lugares públicos y privados, incluyendo el funcionamiento de gimnasios abiertos al público. Podrán concentrarse un máximo de 10 personas en lugares cerrados y, para aquellas actividades que sean de naturaleza colectiva, 50 personas en lugares abiertos.
 
 Las actividades señaladas en este numeral no podrán contar con público.
+
+En el caso de aquellas actividades que se realicen en lugares cerrados, deberán observarse las siguientes reglas:
+
+a. No está permitido el uso de camarines ni lugares cerrados que no sean absolutamente esenciales para la adecuada práctica de las actividades deportivas.
+
+b. No podrá haber más de 10 personas en cada sala simultáneamente, que deberán mantener, al menos 2 metros de distancia entre ellas.
+
+c. La estadía máxima de los usuarios no debe exceder una hora. Para el cumplimiento de esto, el recinto establecerá franjas de una hora para el ingreso de los clientes. Una vez cumplido este tiempo, el espacio deberá ser sanitizado y ventilado por 15 minutos. Una vez que hayan transcurrido los señalados 15 minutos, podrá entrar un nuevo grupo durante una franja de una hora y así sucesivamente.
+
+d. En el caso de gimnasios, la distancia entre las máquinas de ejercicios deberá ser de un mínimo de 2 metros entre ellas.
 
 Asimismo, podrán realizar actividades deportivas aquellas personas que cuentan con la autorización a la que hace referencia el numeral 40 del Capítulo I.
 
 68. Se permite el funcionamiento de cines, teatros y análogos, sin venta ni consumo de bebidas y alimentos, hasta el 50% de su aforo y guardando una distancia mínima de un metro entre los asistentes.
 
-68 bis. Se permite el funcionamiento de gimnasios abiertos al público, sujeto a las siguientes reglas:
-
-a. No está permitido el uso de camarines ni lugares cerrados que no sean absolutamente esenciales para el adecuado funcionamiento de las actividades deportivas del gimnasio.
-
-b. La distancia entre las máquinas de ejercicios deberá ser de un mínimo de 2 metros entre ellas.
-
-c. El aforo en la sala de máquinas no podrá superar 1 persona cada 10 metros cuadrados.
-
-d. En el caso de clases grupales, no podrá haber más de 10 personas en cada sala, distanciadas al menos 2 metros entre ellas.
-
-e. Se deberán establecer horarios de atención diferenciados. Cada asistente podrá permanecer máximo 1 hora en el gimnasio, período en el cual sólo podrá hacer uso de una sala o asistir a una clase grupal. Entre cada turno, el gimnasio deberá sanitizar las salas y ventilarlas por 30 minutos.
+68 bis. Eliminado.
 
 69. Se permite la atención de público en restaurantes, cafés y análogos, hasta el 50% de su capacidad o guardando una distancia mínima de dos metros lineales entre mesas.
 
@@ -508,9 +522,21 @@ a. Se permitirá el funcionamiento de los Centros de Día para adultos mayores q
 
 b. Se permitirá la realización o participación en eventos y actividades sociales y recreativas con un máximo de 100 personas en lugares cerrados y 200 personas en lugares abiertos, debiendo en todo momento cumplirse con lo establecido en los acápites V y VI del Capítulo I de la presente resolución.
 
-Un recinto podrá albergar más de un evento o actividad social y recreativa en simultáneo, siempre que cuente con muros u otras barreras físicas que aíslen todas las instalaciones requeridas por cada evento o actividad. Asimismo, deberán establecerse ingresos y salidas separadas para cada evento o actividad, ya sea en tiempo o espacio. Cada uno de estos eventos estará sujeto al aforo máximo dispuesto en el párrafo precedente.
+Un recinto podrá albergar más de un evento o actividad social y recreativa en simultáneo, siempre que cuente con muros u otras barreras físicas que aíslen todas las instalaciones requeridas por cada evento o actividad. Asimismo, deberán establecerse ingresos y salidas separadas para cada evento o actividad, ya sea en tiempo o espacio. Cada uno de estos eventos por separado estará sujeto al aforo máximo dispuesto en el párrafo precedente.
 
-c. No hay restricción a la actividad deportiva. Permite público con un máximo de 50% de su capacidad.
+c. Se autorizan las actividades deportivas en lugares públicos y privados, incluyendo el funcionamiento de gimnasios abiertos al público. Podrán concentrarse un máximo de 20 personas en lugares cerrados y, para aquellas actividades de naturaleza colectiva, 100 personas en lugares abiertos.
+
+En el caso de aquellas actividades que se realicen en lugares cerrados, deberán observarse las siguientes reglas:
+
+a. No podrá haber más de 20 personas en cada sala simultáneamente, las que deberán mantener al menos 2 metros de distancia entre ellas.
+
+b. Se deberá sanitizar el espacio y ventilarlo por 15 minutos cada dos horas.
+
+c. En el caso de gimnasios, la distancia entre las máquinas de ejercicios deberá ser de un mínimo de 2 metros entre ellas.
+
+Las actividades señaladas en este numeral podrán contar con público, hasta el 50 por ciento del aforo del recinto, previa autorización de la autoridad sanitaria competente.
+
+Sin perjuicio de lo dispuesto precedentemente, deberá cumplirse con lo dispuesto en los acápites V y VI del Capítulo I de esta resolución.
 
 d. Se levantan las restricciones en los centros dependientes del Servicio Nacional de Menores, tanto de administración directa como en los organismos colaboradores.
 
@@ -522,7 +548,7 @@ g. Se permite la atención de público en restaurantes, cafés y análogos, hast
 
 h. Se permite funcionamiento de pubs, discotecas y análogos con un máximo de 50% de su capacidad. En ningún caso podrá excederse el aforo dispuesto en el literal b de este numeral.
 
-i. Se permite funcionamiento de gimnasios abiertos al público con un máximo de un 50% de su capacidad. En ningún caso podrá excederse el aforo dispuesto en el literal b de este numeral.
+i. Eliminado.
 
 j. Se permitirá el funcionamiento de los clubes y uniones comunales de adultos mayores que estén emplazados en localidades que se encuentren este paso.
 
