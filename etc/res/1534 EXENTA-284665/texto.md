@@ -2100,7 +2100,7 @@ de la Ilustre
 
 Municipalidad de
 
-Puente Alto, respecto
+San Clemente, respecto
 
 de situaciones de
 

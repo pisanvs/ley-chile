@@ -2,7 +2,7 @@ MODIFICA RESOLUCIÓN Nº 1.534 EXENTA, DE 2008, DE LA SUBSECRETARÍA DE TELECOMU
 
 Santiago, 10 de octubre de 2020.- Con esta fecha se ha resuelto lo que sigue:
 
-Núm. 1.481 exenta.
+Núm. 1.841 exenta.
 
 Vistos:
 
