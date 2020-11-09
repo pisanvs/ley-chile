@@ -590,41 +590,11 @@ En consecuencia, todo Proveedor que utilice como medio de pago de obligaciones c
 
 #### Artículo 29
 
-Liquidación del Crédito de Consumo para Renegociación. El Proveedor estará obligado a entregar, dentro del plazo de diez días hábiles desde la solicitud del Consumidor o en el plazo menor que establezcan las leyes especiales y sus reglamentos aplicables, los certificados y antecedentes que sean necesarios para renegociar los Créditos de Consumo que tuvieran contratados con dicho Proveedor, salvo que el Proveedor haya demandado el pago judicialmente, en cuyo caso la liquidación del Crédito de Consumo deberá solicitarse al tribunal competente.
-
-En especial, el Proveedor deberá otorgar dentro del plazo señalado en el inciso anterior al Consumidor que lo solicite, un certificado de liquidación del Crédito de Consumo para Reliquidación y, en su caso, incluirá en éluna proyección de los intereses que se devengarán hasta el último día del mes en curso.
-
-La liquidación señalada deberá presentar el Saldo del Crédito a la fecha de su emisión, e indicar el periodo de vigencia, que en ningún caso podrá ser inferior a diez días hábiles. Sin embargo, podrá incluir una leyenda que explique que los valores en pesos chilenos son referenciales respecto de uno o más de los días incluidos en su vigencia, si a la fecha de su emisión, no es posible determinar el monto exacto de los valores contenidos en ella por tratarse de una liquidación efectuada en una unidad de reajuste cuya actualización se encuentra pendiente por el organismo competente.
-
-Esta liquidación deberá contener, a lo menos, la siguiente información:
-
-1) Identificación del Consumidor o titular;
-
-2) Número de la operación;
-
-3) Fecha de otorgamiento del Crédito de Consumo;
-
-4) Número de cuotas originales y su periodicidad de pago;
-
-5) Tipo de Pago Anticipado o Prepago a efectuar, esto es, total o parcial;
-
-6) Tasa de interés aplicable al Crédito;
-
-7) Saldo de capital adeudado;
-
-8) Reajustes e intereses devengados a la fecha del pago anticipado;
-
-9) Comisión por Pago Anticipado o Prepago, si la hubiere; y
-
-10) Monto total a pagar en el período de vigencia indicado.
+Derogado.
 
 #### Artículo 30
 
-Liquidación del Crédito de Consumo para Término Anticipado. El Consumidor tiene derecho a poner término anticipado al contrato de Crédito de Consumo por su sola voluntad y siempre que extinga totalmente las obligaciones con el Proveedor por dicho crédito, lo que se producirá una vez que pague el Saldo del Crédito y la Comisión por Pago Anticipado o Prepago, si la hubiere.
-
-El Proveedor no podrá retrasar el término del contrato señalado en el inciso anterior, su pago anticipado o cualquier otra gestión solicitada por el Consumidor que tenga por objeto poner fin a la relación contractual entre éste y el Proveedor de dicho Crédito de Consumo, salvo que el Proveedor haya demandado el pago judicialmente, en cuyo caso la liquidación deberá solicitarse al tribunal competente.
-
-El Proveedor deberá entregar al Consumidor la liquidación total del Crédito de Consumo para ponerle término dentro de los tres días hábiles siguientes a su requerimiento. Dicha liquidación deberá contener el Saldo del Crédito y la Comisión por Pago Anticipado o Prepago, si la hubiere, que debe pagar el Consumidor para extinguir anticipadamente o prepagar el Crédito de Consumo y, en su caso, incluiráuna proyección de los intereses que se devengarán hasta el último día del mes en curso. Además, deberá incluir la misma información señalada en los incisos tercero y cuarto del artículo anterior.
+Derogado.
 
 #### Artículo 31
 

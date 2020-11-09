@@ -708,33 +708,11 @@ En ningún caso la renovación, restitución o reposición de los soportes físi
 
 #### Artículo 30
 
-Liquidación de la Tarjeta de Crédito para Renegociación. El Emisor estará obligado a entregar, dentro del plazo de diez días hábiles desde la solicitud del Consumidor o en el plazo menor que establezcan las leyes especiales y sus reglamentos aplicables, los certificados y antecedentes que sean necesarios para renegociar el Monto Total Facturado que tuviera contratado con dicho Emisor, salvo que el Emisor haya demandado el pago judicialmente, en cuyo caso la liquidación deberá solicitarse al tribunal competente.
-
-En especial, el Emisor deberá otorgar dentro del plazo señalado en el inciso anterior al Consumidor que lo solicite, un certificado de liquidación de la Tarjeta de Crédito y, en su caso, incluirá una proyección de los intereses que se devengarán hasta la Fecha o Plazo de Pago de la Tarjeta de Crédito que corresponda al mes en curso.
-
-La liquidación señalada deberá presentar el Monto Total Facturado a la fecha de su emisión, e indicar el periodo de vigencia, que en ningún caso podrá ser inferior a diez días hábiles. Sin embargo, podrá incluir una leyenda que explique que los los valores en pesos chilenos son referenciales respecto de uno o más de los días incluidos en su vigencia, si a la fecha de su emisión, no es posible determinar el monto exacto de los valores contenidos en ella por tratarse de una liquidación efectuada en una unidad de reajuste cuya actualización se encuentra pendiente por el organismo competente.
-
-Esta liquidación deberá contener, a lo menos, la siguiente información:
-
-1) Identificación del Consumidor o titular;
-
-2) Número de la operación;
-
-3) Fecha del contrato de apertura de línea de crédito para la utilización de una Tarjeta de Crédito;
-
-4) Tipo de Pago Anticipado o Prepago o Abono a efectuar, esto es, total o parcial;
-
-5) Tasa Mensual de interés aplicable a la Tarjeta de Crédito; y
-
-6) Monto total a pagar en el período de vigencia indicado.
+Derogado.
 
 #### Artículo 31
 
-Liquidación de la Tarjeta de Crédito para Término Anticipado. El Consumidor tiene derecho a poner término anticipado al contrato de apertura de línea de crédito para la utilización de una Tarjeta de Crédito por su sola voluntad y siempre que extinga totalmente las obligaciones con el Emisor asociadas a la Tarjeta de Crédito que el Consumidor decide terminar, lo que se producirá una vez que pague el Monto Total Facturado.
-
-El Emisor no podrá retrasar el término del contrato señalado en el inciso anterior, su pago anticipado o cualquier otra gestión solicitada por el Consumidor que tenga por objeto poner fin a la relación contractual entre éste y el Emisor de dicha Tarjeta de Crédito, salvo que el Emisor haya demandado el pago judicialmente, en cuyo caso la liquidación deberá solicitarse al tribunal competente.
-
-El Emisor deberá entregar al Consumidor la liquidación total de la Tarjeta de Crédito para ponerle término dentro de los tres días hábiles siguientes a su requerimiento. Dicha liquidación deberá contener el Monto Total Facturado que debe pagar el Consumidor para extinguir anticipadamente o prepagar la Tarjeta de Crédito y, en su caso, incluirá una proyección de los intereses que se devengarán hasta la Fecha o Plazo de Pago de la Tarjeta de Crédito que corresponda al mes en curso. Además, deberá incluir la misma información señalada en los incisos tercero y cuarto del artículo anterior.
+Derogado.
 
 #### Artículo 32
 
