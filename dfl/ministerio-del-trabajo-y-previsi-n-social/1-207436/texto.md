@@ -6064,6 +6064,8 @@ Se entenderá que los derechos y garantías a que se refieren los incisos anteri
 
 Interpuesta la acción de protección a que se refiere el artículo 20 de la Constitución Política, en los casos que proceda, no se podrá efectuar una denuncia de conformidad a las normas de este Párrafo, que se refiera a los mismos hechos.
 
+> **Nota.** El artículo 1 de la ley 21280, publicada el 09.11.2020, declara interpretado el inciso primero del presente artículo en el sentido de señalar que las normas de los artículos 485 y siguientes, contenidas en el Párrafo 6° del Capítulo II del Título I del Libro V del Código del Trabajo, son aplicables a todos los trabajadores, incluidos aquellos a los que hace referencia el inciso segundo del artículo 1° del Código del Trabajo, en virtud de lo dispuesto en los incisos primero y tercero de ese mismo artículo. Asimismo, declara que también serán aplicables a los trabajadores que se desempeñen en los órganos señalados en los Capítulos VII, VIII, IX, X y XIII de la Constitución Política de la República y a aquellos que sus propias leyes declaren como autónomos.
+
 #### Artículo 486
 
 Cualquier trabajador u organización sindical que, invocando un derecho o interés legítimo, considere lesionados derechos fundamentales en el ámbito de las relaciones jurídicas cuyo conocimiento corresponde a la jurisdicción laboral, podrá requerir su tutela por la vía de este procedimiento.
@@ -6074,7 +6076,7 @@ Sin perjuicio de lo anterior, la organización sindical a la cual se encuentre a
 
 La Inspección del Trabajo, a requerimiento del tribunal, deberá emitir un informe acerca de los hechos denunciados. Podrá, asimismo, hacerse parte en el proceso.
 
-Si actuando dentro del ámbito de sus atribuciones y sin perjuicio de sus facultades fiscalizadoras, la Inspección del Trabajo toma conocimiento de una vulneración de derechos fundamentales, deberá denunciar los hechos al tribunal competente y acompañar a dicha denuncia el informe de fiscalización correspondiente. Esta denuncia servirá de suficiente requerimiento para dar inicio a la tramitación de un proceso conforme a las normas de este Párrafo. La Inspección del Trabajo podrá hacerse parte en el juicio que por esta causa se entable.
+Si actuando dentro del ámbito de sus atribuciones, señaladas en el decreto con fuerza de ley Nº 2, del Ministerio del Trabajo y Previsión Social, de 1967, y de acuerdo a sus facultades fiscalizadoras e interpretativas a las que se refiere el artículo 505 de este Código, la Inspección del Trabajo toma conocimiento de una vulneración de derechos fundamentales, deberá denunciar los hechos al tribunal competente y acompañar a dicha denuncia el informe de fiscalización correspondiente. Esta denuncia servirá de suficiente requerimiento para dar inicio a la tramitación de un proceso conforme a las normas de este Párrafo. La Inspección del Trabajo podrá hacerse parte en el juicio que por esta causa se entable.
 
 No obstante lo dispuesto en el inciso anterior, la Inspección del Trabajo deberá llevar a cabo, en forma previa a la denuncia, una mediación entre las partes a fin de agotar las posibilidades de corrección de las infracciones constatadas.
 
@@ -6107,6 +6109,8 @@ En caso de optar por la indemnización a que se refiere el inciso anterior, ést
 El juez de la causa, en estos procesos, podrá requerir el informe de fiscalización a que se refiere el inciso cuarto del artículo 486.
 
 Si de los mismos hechos emanaren dos o más acciones de naturaleza laboral, y una de ellas fuese la de tutela laboral de que trata este Párrafo, dichas acciones deberán ser ejercidas conjuntamente en un mismo juicio, salvo si se tratare de la acción por despido injustificado, indebido o improcedente, la que deberá interponerse subsidiariamente. En este caso no será aplicable lo dispuesto en el inciso primero del artículo 488. El no ejercicio de alguna de estas acciones en la forma señalada importará su renuncia.
+
+Tratándose de los funcionarios o trabajadores a los que se refiere el inciso segundo del artículo 1º de este Código, en caso de acogerse la denuncia, no procederá el pago de la indemnización a que se refiere el inciso cuarto del artículo 162 y la establecida en el artículo 163, en cuyo caso el juez ordenará el pago de una indemnización, la que no podrá ser inferior a seis meses ni superior a once meses de la última remuneración mensual. Asimismo, cuando el juez declare que el despido es discriminatorio por haber infringido lo dispuesto en el inciso cuarto del artículo 2 de este Código, y además ello sea calificado como grave, el trabajador podrá optar entre la indemnización que corresponda o bien su reincorporación al cargo.
 
 #### Artículo 489 bis
 
