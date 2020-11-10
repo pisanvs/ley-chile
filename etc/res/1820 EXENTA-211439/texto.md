@@ -494,21 +494,21 @@ El valor límite ($/m²) de los pavimentos y/o repavimentos para la comuna de Gr
 
 .
 
-Para las aceras en adocreto de la comuna de Arica, su valor límite en pavimentos es de $43.500/m² y en repavimentos es de $46.500/m².
+Para las aceras en adocreto de la comuna de Arica, su valor límite en pavimentos es de $41.000/m2 y en repavimentos es de $45.500/m2..
 
-(2) Para la comuna de Colchane, los valores límites de pavimentos y repavimentos en adocretos es $89.000/m² y $94.000/m², respectivamente, tanto para calles como pasajes. Los valores límites de pavimentos y repavimentos en adoquín de piedra canteada es $94.500/m² y $100.500/m², respectivamente, tanto para calles como pasajes.
+(2) Para la comuna de Colchane, los valores límites de pavimentos y repavimentos en adocretos es $95.100/m2 y $91.100/m2, respectivamente, tanto para calles como pasajes. Los valores límites de pavimentos y repavimentos en adoquín de piedra canteada es $99.100/m2 y $103.100/m2, respectivamente, tanto para calles como pasajes.
 
-El valor límite de aceras para la comuna de Colchane es de $52.500/m² en pavimentos y $55.500/m² en repavimentos.
+El valor límite de aceras para la comuna de Colchane es de $53.700/m2 en pavimentos y $57.000/m2 en repavimentos.
 
-Para la comuna de Camiña, el valor límite de pavimentos de adocretos en calles y pasajes es $78.500/m² y en repavimentos es $82.700/m², y en pavimentos de calles y pasajes de adoquín canteado es $80.700/m², y en repavimentos es $85.500/m².
+Para la comuna de Camiña, el valor límite de pavimentos de adocretos en calles y pasajes es $86.000/m2 y en repavimentos es $91.000/m2, y en pavimentos de calles y pasajes de adoquín canteado es $88.700/m2, y en repavimentos es $94.100/m2.
 
-El valor límite de aceras para la comuna de Camiña es $51.500/m² en pavimentos y $54.500/m² en repavimentos.
+El valor límite de aceras para la comuna de Camiña es $53.000/m2 en pavimentos y $56.100/m2 en repavimentos.
 
-En el caso de pavimentos en adocretos prefabricados para las restantes comunas de la Provincia del Tamarugal, el valor límite de pavimentación es de $73.000/m², y de $77.500/m² en repavimentos. En pavimentos de adoquín canteado es de $75.000/m² y $79.200/m² en repavimentos, tanto para calles como pasajes.
+En el caso de pavimentos en adocretos prefabricados para las restantes comunas de la Provincia del Tamarugal, el valor límite de pavimentación es de $78.000/m2, y de $84.000/m2 en repavimentos. En pavimentos de adoquín canteado es de $79.000/m2 y $81.600/m2 en repavimentos, tanto para calles como pasajes.
 
-(3) En el caso de los pavimentos y/o repavimentos en adocretos prefabricados, el valor límite para la comuna de San Pedro de Atacama es $130.000/m², y para las localidades de Socaire y Toconao es de $140.000/m², tanto para calles como para pasajes.
+(3) En el caso de los pavimentos y/o repavimentos en adocretos prefabricados, el valor límite para la comuna de San Pedro de Atacama es $137.000/m2, y para las localidades de Socaire y Toconao es de $147.000/m2, tanto para calles como para pasajes.
 
-En el caso de los pavimentos y/o repavimentos de aceras en piedra canteada, el valor límite para la comuna de San Pedro de Atacama es $163.500/m² y para las localidades de Socaire y Toconao es $172.000/m².
+En el caso de los pavimentos y/o repavimentos de aceras en piedra canteada, el valor límite para la comuna de San Pedro de Atacama es $172.000/m2 y para las localidades de Socaire y Toconao es $180.500/m2.
 
 (4) En las comunas de la Provincia de Cardenal Caro y comunas de Lolol y Pumanque, los valores límites de pavimentación y de repavimentación son:
 
@@ -518,25 +518,31 @@ En el caso de los pavimentos y/o repavimentos de aceras en piedra canteada, el v
 
 .
 
-(6) En las comunas de la Provincia de Palena, los valores límites de pavimentación son $90.000/m² en calles, $75.000/m² en pasajes y $44.000/m² en aceras, y de repavimentación son $91.000/m² en calles, $79.000/m² en pasajes y $45.000/m² en aceras.
+(6) En las comunas de la Provincia de Palena, los valores límites de pavimentación son $90.000/m2 en calles, $75.000/m2 en pasajes y $44.000/m2 en aceras, y de repavimentación son $91.000/m2 en calles, $79.000/m2 en pasajes y $45.000/m2 en aceras.
 
-(7) En las soluciones peatonales en madera calificadas por la respectiva Seremi el correspondiente valor límite de pavimentación para Caleta Tortel es $158.000/m² en calles y pasajes y para Grupo Gala de $143.500/m² en calles y pasajes.
+(7) En las soluciones peatonales en madera calificadas por la respectiva Seremi el correspondiente valor límite de pavimentación para Caleta Tortel es $162.600/m2 en calles y pasajes y para Grupo Gala de $147.800/m2 en calles y pasajes.
 
-En repavimentación las soluciones en madera su valor límite para Caleta Tortel es $181.000/m² en calles y pasajes y para el Grupo Gala $162.500/m² en calles y pasajes.
+En repavimentación las soluciones en madera su valor límite para Caleta Tortel es $181.000/m2 en calles y pasajes y para el Grupo Gala $167.500 m2 en calles y pasajes.
 
-En el caso de las islas que forman parte de la comuna de Guaitecas, el valor límite de pavimentación en adocreto es $108.000/m² para calles y pasajes y el valor límite de repavimentación en adocreto es $131.500/m² para calles y pasajes.
+En el caso de las islas que forman parte de la comuna de Guaitecas, el valor límite de pavimentación en adocreto es $111.000/m2 para calles y pasajes y el valor límite de repavimentación en adocreto es $135.000/m2 para calles y pasajes.
 
-En las islas que forman parte de la comuna de Aysén, el valor límite de pavimentación en adocreto para calles y pasajes es 132.000/m², y el valor límite de repavimentación en adocreto para calles y pasajes es $160.500/m².
+En las islas que forman parte de la comuna de Aysén, el valor límite de pavimentación en adocreto para calles y pasajes es $136.000/m2., y el valor límite de repavimentación en adocreto para calles y pasajes es $165.100/m2.
 
-Para la comuna de O'Higgins y la localidad de Raúl Marín, el valor límite de pavimentación en adocreto es $132.000/m² en calles y pasajes y para repavimentos en adocreto es $178.500/m² en calles y pasajes. Para la localidad de Puerto Bertrand el valor límite de pavimentación en adocreto es $100.500/m² en calles y pasajes y de repavimentación es $122.000/m² en calles y pasajes.
+Para la comuna de O'Higgins y la localidad de Raúl Marín, el valor límite de pavimentación en adocreto es $132.000/m2 en calles y pasajes y para repavimentos en adocreto es $183.600/m2 en calles y pasajes. Para la localidad de Puerto Bertrand el valor límite de pavimentación en adocretos es $103.500/m2 en calles y pasajes y de repavimentación es $125.500/m2 en calles y pasajes.
 
-En la comuna de O'Higgins el valor límite para pavimentos en Hormigón de Cemento Vibrado (HCV) es $100.600/m² en pasajes y $108.000/m² para calles.
+En la comuna de O'Higgins el valor límite para pavimentos en Hormigón de Cemento Vibrado (HCV) es $104.000/m2 en pasajes y $112.000/m2 para calles.
 
-Para aceras en la comuna de O'Higgins el valor límite de los pavimentos es $42.500/m² y de repavimentos $59.000/m².
+Para aceras en la comuna de O'Higgins el valor límite de los pavimentos es $43.500/m2 y de repavimentos $61.000/m2.
 
-En el caso de las comunas Guaitecas y Lago Verde para aceras el valor límite de los pavimentos es $35.500/m² y de repavimentos $41.000/m².
+En el caso de las comunas Guaitecas y Lago Verde para aceras el valor límite de los pavimentos respectivamente es $32.000/m2 y $36.500/m2 y el valor límite de repavimentos respectivamente es $42.000/m2 y $41.000/m2.
 
-(8) En la comuna de Cabo de Hornos, el valor límite de pavimentación en aceras es de $76.500/m² y de repavimentación en aceras es de $78.500/m².
+(8) En la comuna de Cabo de Hornos, el valor límite de pavimentación en aceras es de $77.000/m2 y de repavimentación en aceras es de $80.000/m2.
+
+(9) El valor límite tanto para la acción pavimentación como repavimentación para solución de aceras en baldosas tipo municipal es $42.000/m2.
+
+(10) El valor límite tanto para la acción pavimentación como repavimentación para solución de aceras en baldosas tipo colonial es $65.500/m2.
+
+(11) El valor límite tanto para la acción pavimentación como repavimentación para solución de aceras en baldosas tipo HCV micro vibrada es $45.000/m2.
 
 j) Tabla que consigne los siguientes datos estadísticos de cada familia beneficiaria del Programa, integrante del respectivo Comité de Pavimentación. Por cada vivienda se registrarán los siguientes datos: cantidad de integrantes, edades, sexo, ingresos del grupo familiar, sexo del jefe de hogar. La SEREMI MINVU deberá mantener los antecedentes recogidos en la postulación del Comité de Pavimentación, de los grupos familiares que lo integran, según cuadro modelo, y de la evaluación efectuada al finalizar la ejecución de las obras de pavimentación, para los efectos de su posterior sistematización y análisis en estudios de evaluación de impacto y de beneficios del Programa.
 
@@ -875,6 +881,14 @@ Asimismo, y mientras, dure la pandemia y las restricciones asociadas, las activi
 #### Artículo 21°
 
 transitorio: Las postulaciones seleccionadas en el 29° Llamado del Programa de Pavimentación Participativa, realizado por la Secretaría Regional Ministerial de Vivienda y Urbanismo de Coquimbo, pertenecientes a las comunas de Vicuña, Monte Patria y Combarbalá, se eximirán en un 50% del financiamiento complementario por obras anexas imprescindibles que, junto a las de pavimentación, superan el costo total límite reglamentado para dichos proyectos. En consecuencia, el monto de exención para la comuna de Vicuña asciende a M$107.734, para la comuna de Monte Patria a M$22.608 y para la comuna de Combarbalá a M$16.179, en consideración a la doble situación de catástrofe en que se encuentran, según dan cuenta los decretos supremos de Interior y Seguridad Pública N° 308, de 2019 y N° 107, de 2020, que declaran a dichas comunas como Zona Afectada por Catástrofe derivada de la prolongada sequía y por propagación del Covid-19, respectivamente. En el convenio que firmen la Municipalidad y el Servicio de Vivienda y Urbanización de Coquimbo para la ejecución de dichas obras deberá quedar consignada esta exención y totalmente individualizadas y especificadas el conjunto de obras anexas imprescindibles y su costo. Esta exención no incluye el financiamiento municipal de obras adicionales.
+
+#### Artículo 22º
+
+Transitorio. En el 30º Proceso de Selección de Proyectos y teniendo en consideración el decreto supremo Nº107, de 20 de marzo de 2020, del Ministerio del Interior y Seguridad Pública, que declara "Zona Afectada por Catástrofe a todas las comunas del país generada por la propagación del Covid-19 que las afecta" y lo señalado en el Dictamen de la Contraloría General de la República Nº 3.610 de 2020, se establece que:
+
+a) Las solicitudes de inscripción para postular conforme al Programa de Pavimentación Participativa deberán ser ingresadas al sistema informático existente para estos efectos, como también la documentación requerida o de respaldo, señaladas en el inciso primero y en el inciso final del resuelvo 3º de la resolución exenta Nº 1.820 (V. y U.), de 2003, no siendo imprescindible para participar en este llamado el ingreso en la oficina de partes de la Secretaría Regional Ministerial de la postulación y de la respectiva carpeta con la documentación de respaldo en original, especialmente para las comunas con cuarentenas y/o con cordones sanitarios. Las postulaciones con la documentación de respaldo en original, deberá ser resguardada por la Municipalidad y con posterioridad a este Llamado ingresada a la Secretaría Regional Ministerial apenas sea posible, según coordinación regional. La Municipalidad deberá ingresar a la oficina de partes electrónica o dirección electrónica de la Secretaría Regional Ministerial, a más tardar en la fecha de cierre de recepción de postulaciones, el oficio conductor del Alcalde al Secretario Regional Ministerial con su postulación, para los efectos de contabilizar la fecha de ingreso para validación y determinar el puntaje por este factor.
+
+b) La exención de aportes por declaración de zona de catástrofe señalada en el inciso cuarto del resuelvo 3º de la resolución exenta Nº 1.820 (V. y U.), de 2003, correspondiente a los especificados en las letras d) y e) del inciso primero del citado resuelvo 3º, es decir, a los aportes requeridos como mínimos reglamentados tanto a los Comités de Pavimentación como a las Municipalidades, se considerará automáticamente aplicada a los proyectos que resulten definitivamente seleccionados una vez que la Secretaría Regional Ministerial de Vivienda y Urbanismo complete la tramitación de la respectiva resolución que lo sancione. Posteriormente, esta exención de aportes deberá quedar consignada en el convenio que firmen el Servicio de Vivienda y Urbanización y la Municipalidad para la ejecución de las obras de pavimentación seleccionadas. No son objeto de esta exención los financiamientos extras o complementarios Municipales de las postulaciones correspondientes a aportes mayores al mínimo reglamentario, para obtener puntaje adicional por este concepto, o comprometidos por obras anexas que sumadas a las de pavimentación superen el costo total límite o que pertenecen a obras adicionales.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
