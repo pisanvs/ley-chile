@@ -1,4 +1,4 @@
-LLAMA A POSTULACIÓN EN CONDICIONES ESPECIALES PARA EL DESARROLLO DE PROYECTOS DEL TÍTULO II, MEJORAMIENTO DE LA VIVIENDA DEL PROGRAMA DE PROTECCIÓN DEL PATRIMONIO FAMILIAR REGULADO POR EL DS Nº 255 (V. Y U.), DE 2006, DESTINADO A LA ATENCIÓN DE FAMILIAS QUE RESIDAN EN VIVIENDAS ANTIGUAS, Y/O PATRIMONIALES EMPLAZADAS EN ZONAS TÍPICAS Y/O ZONAS DE CONSERVACIÓN HISTÓRICA DE LAS REGIONES DE COQUIMBO, VALPARAÍSO Y METROPOLITANA, Y FIJA CONDICIONES PARA SU APLICACIÓN, Y MONTO DE RECURSOS DISPONIBLES
+LLAMA A POSTULACIÓN EN CONDICIONES ESPECIALES PARA EL DESARROLLO DE PROYECTOS DEL TÍTULO II, MEJORAMIENTO DE LA VIVIENDA DEL PROGRAMA DE PROTECCIÓN DEL PATRIMONIO FAMILIAR REGULADO POR EL DS Nº 255 (V. Y U.), DE 2006, DESTINADO A LA ATENCIÓN DE FAMILIAS QUE RESIDAN EN VIVIENDAS ANTIGUAS, Y/O PATRIMONIALES EMPLAZADAS EN ZONAS TÍPICAS Y/O ZONAS DE CONSERVACIÓN HISTÓRICA DE LAS REGIONES DE COQUIMBO, VALPARAÍSO, LOS RÍOS Y METROPOLITANA, Y FIJA CONDICIONES PARA SU APLICACIÓN, Y MONTO DE RECURSOS DISPONIBLES
 
 Santiago, 4 de junio de 2020.- Hoy se resolvió lo que sigue:
 
@@ -12,7 +12,7 @@ b) La resolución exenta Nº 41 (V. y U.), de fecha 9 de enero de 2020, y sus mo
 
 Considerando:
 
-1. La necesidad de atender el alto nivel de deterioro de Viviendas Antiguas y/o Patrimoniales emplazadas en Zona Típica o Zona de Conservación Histórica de las regiones de Coquimbo, Valparaíso y Metropolitana, como parte de la estrategia de intervención en materia de política habitacional del Ministerio de Vivienda y Urbanismo a través del Programa de Protección del Patrimonio Familiar;
+1. La necesidad de atender el alto nivel de deterioro de Viviendas Antiguas y/o Patrimoniales emplazadas en Zona Típica o Zona de Conservación Histórica de las regiones de Coquimbo, Valparaíso, y Metropolitana, como parte de la estrategia de intervención en materia de política habitacional del Ministerio de Vivienda y Urbanismo a través del Programa de Protección del Patrimonio Familiar;
 
 2. Que el mejoramiento de las Viviendas Antiguas y/o Patrimoniales debe efectuarse atendiendo la necesidad habitacional que afecta a las familias, y además considerar los elementos de diseño de arquitectura local que dan una imagen urbana característica, que releva la identidad y el patrimonio histórico, social y cultural de las regiones;
 
@@ -24,9 +24,9 @@ Considerando:
 
 Resolución:
 
-1. Llámase a postulación en condiciones especiales a familias residentes en Viviendas Antiguas y/o Patrimoniales, sean éstas monumentos históricos, inmuebles de conservación histórica, o emplazadas en zonas típicas o en zonas de conservación histórica, de las regiones de Coquimbo, Valparaíso y Metropolitana, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título II Mejoramiento de la Vivienda, letras b.1) y b.2) del artículo 5º del DS Nº 255 (V. y U.) de 2006, destinados a proyectos de Seguridad de la Vivienda y Habitabilidad de la Vivienda, respectivamente.
+1. Llámase a postulación en condiciones especiales a familias residentes en Viviendas Antiguas y/o Patrimoniales, sean éstas monumentos históricos, inmuebles de conservación histórica, o emplazadas en zonas típicas o en zonas de conservación histórica, de las regiones de Coquimbo, Valparaíso, Los Ríos y Metropolitana, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título II Mejoramiento de la Vivienda, letras b.1) y b.2) del artículo 5º del DS Nº 255 (V. y U.) de 2006, destinados a proyectos de Seguridad de la Vivienda y Habitabilidad de la Vivienda, respectivamente.
 
-Este llamado contempla 1 selección, la que se realizará el día 30 de septiembre de 2020 y en la cual podrán postular los proyectos que cuenten con certificado de calificación a esa fecha.
+Este llamado contempla 2 selecciones, las que se realizarán el día 30 de septiembre y el 30 de noviembre de 2020 en las cuales podrán postular los proyectos que cuenten con certificado de calificación a esas fechas respectivamente.
 
 2. La postulación a este llamado se podrá realizar en forma colectiva o individual.
 
@@ -104,7 +104,9 @@ b) Para las viviendas antiguas, la fecha de construcción podrá ser acreditada 
 
 6.4 Cuando el inmueble esté emplazado en una Zona de Conservación Histórica o haya sido reconocido como Inmueble de Conservación Histórica, deberá contar al momento de la calificación del proyecto con la autorización de la Seremi de Vivienda y Urbanismo, conforme a lo dispuesto en el artículo 60 de la Ley General de Urbanismo y Construcciones y, cuando el inmueble esté emplazado en una Zona Típica, deberá contar con la autorización del Consejo de Monumentos Nacionales, según las disposiciones vigentes.
 
-6.5 Tratándose de postulaciones colectivas se deberá acompañar copia del Acta de Asamblea donde conste el acuerdo que apruebe el proyecto de reparación de las obras, la prestación de asistencia técnica y la contratación de las obras, debidamente protocolizada en una notaría, también se deberá acreditar la vigencia de la personalidad jurídica del grupo postulante.
+6.5 Respecto de las exigencias de las actas de reuniones de difusión, información o de trabajo en general con las familias, se podrán realizar por vías o mecanismos de participación no presencial, o de forma virtual.
+
+El número de firmas de aprobación del proyecto, tratándose de postulaciones colectivas, será el señalado en los estatutos del grupo organizado. El Serviu, definirá un documento, donde el postulante firme solo una vez por todos los documentos que requiera su postulación, por ejemplo, la aprobación del proyecto, el diagnóstico, etc.
 
 6.6 La carpeta del Proyecto de Mejoramiento de la Vivienda deberá cumplir además de lo establecido en el DS Nº 255 (V. y U.) de 2006, con los siguientes contenidos adicionales:
 
@@ -124,7 +126,7 @@ b) Al momento de hacer ingreso del proyecto en Serviu, se deberá ingresar en la
 
 ### 4. Reseña histórica
 
-6.7 El Plan de Habilitación Social de los proyectos deberá cumplir además de lo establecido en el DS Nº 255 (V. y U.) de 2006, con los siguientes contenidos adicionales:
+6.7 El Plan de Habilitación Social de los proyectos deberá cumplir además de lo establecido en el DS Nº 255 (V. y U.), de 2006, con los siguientes contenidos adicionales, pudiendo realizarse según lo señalado en el primer párrafo del Resuelvo 6.5.
 
 a) Capacitar a las familias en el uso, cuidado y mantención de las obras ejecutadas (Manual de uso, cuidado y mantención).
 
@@ -142,7 +144,7 @@ d) Aportar al fortalecimiento de la identidad de Viviendas Patrimoniales (Minuta
 
 7.3 Reparación de cielos, destinadas a la reparación de estructura de cielo, reposición de entablados o planchas, aislación térmica, y terminaciones con cornisas, cuando corresponda, siguiendo el sistema constructivo original.
 
-7.4 Reparación Superficial de Muros Interiores y/o de fachadas, de adobe, de albañilería de ladrillo, de madera, adobillo, quincha o similar en tierra cruda, destinada a corregir desaplomes, pérdida de geometría, grietas, asentamientos, oquedades o pérdida de masa, manteniendo los revestimientos y terminaciones, siguiendo el sistema constructivo original. Se incluye los marcos, dinteles, alfeizares de puertas y ventanas; pilares de madera, vigas a la vista y todos los elementos propios del diseño original.
+7.4 Reparación Superficial de Muros Interiores y/o de fachadas, de adobe, de albañilería de ladrillo, de madera, adobillo, quincha o similar en tierra cruda, destinada a corregir desaplomes, pérdida de geometría, grietas, asentamientos, oquedades o pérdida de masa, manteniendo los revestimientos y terminaciones, siguiendo el sistema constructivo original. Se incluye los marcos, dinteles, alfeizares, puertas y ventanas; pilares de madera, vigas a la vista y todos los elementos propios del diseño original.
 
 7.5 Estructura v revestimiento de pisos y entrepisos: envigados, pilotes, poyos de anclaje, cadenetas, entablados, entre otros.
 
@@ -220,9 +222,9 @@ En caso de existir prórroga al plazo de ejecución, el Serviu deberá solicitar
 
 17. Pago de los Servicios de Asistencia Técnica: El Serviu pagará los honorarios de Asistencia Técnica, con el monto que proceda conforme al Resuelvo 14 precedente, de acuerdo a los servicios efectivamente realizados, divididos en 3 parcialidades:
 
-1º Pago, correspondiente a los servicios de Organización de la Demanda, Diagnóstico Técnico, Elaboración del Proyecto y Postulación: Se pagará 5,5 UF una vez seleccionadas las familias, previa calificación y aprobación por Serviu del proyecto correspondiente. En el caso de que el total o una parte de la vivienda donde se aplica el subsidio requieran ser regularizadas, el PSAT deberá presentar junto a la carpeta del proyecto, el proyecto de regularización con presupuesto separado. En caso que el proyecto requiera gestiones del PSAT ante el Consejo de Monumentos Nacionales o la Seremi respectiva, se adicionarán 4 UF a este primer pago.
+1º Pago, correspondiente a los servicios de Organización de la Demanda, Diagnóstico Técnico, Elaboración del Proyecto y Postulación: Se pagará 6 UF una vez seleccionadas las familias, previa calificación y aprobación por Serviu del proyecto correspondiente. En el caso de que el total o una parte de la vivienda donde se aplica el subsidio requieran ser regularizadas, el PSAT deberá presentar junto a la carpeta del proyecto, el proyecto de regularización con presupuesto separado. En caso que el proyecto requiera gestiones del PSAT ante el Consejo de Monumentos Nacionales o la Seremi respectiva, se adicionarán 4 UF a este primer pago.
 
-2º Pago, correspondiente a los servicios de Inspección Técnica de Obras: Se pagará 7,5 UF una vez que las obras de mejoramiento de la vivienda hayan sido ejecutadas en su totalidad a conformidad del Serviu, de la Seremi y del beneficiario. En aquellos casos en que la vivienda haya debido ser regularizada con el subsidio, se deberá adjuntar la recepción definitiva otorgada por la DOM respectiva; en estos casos se adicionarán 5 UF como incremento por concepto de regularización.
+2º Pago, correspondiente a los servicios de Inspección Técnica de Obras: Se pagará 13 UF una vez que las obras de mejoramiento de la vivienda hayan sido ejecutadas en su totalidad a conformidad del Serviu, de la Seremi y del beneficiario. En aquellos casos en que la vivienda haya debido ser regularizada con el subsidio, se deberá adjuntar la recepción definitiva otorgada por la DOM respectiva; en estos casos se adicionarán 5 UF como incremento por concepto de regularización.
 
 3º Pago, correspondiente al Plan de Habilitación Social: Se pagará 2 UF por los servicios de Acompañamiento Social al Proceso de Postulación y Construcción, una vez que se certifique la realización conforme de las actividades dispuestas en la presente resolución exenta.
 
@@ -246,7 +248,7 @@ Excepcionalmente y mediante resolución fundada, el Serviu podrá autorizar los 
 
 20. En todo aquello no regulado por el presente llamado, se aplicarán las disposiciones contenidas en el decreto supremo Nº 255 (V. y U.), de 2006.
 
-21. Los subsidios habitacionales que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para las regiones de Coquimbo, Valparaíso y Metropolitana, en el Programa regulado por el DS Nº 255 (V. y U.), de 2006, para el año 2020.
+21. Los subsidios habitacionales que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para las regiones de Coquimbo, Valparaíso, Los Ríos y Metropolitana, en el Programa regulado por el DS Nº 255 (V. y U.), de 2006, para el año 2020.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
