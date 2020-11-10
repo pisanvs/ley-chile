@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 274, de fecha 15 de septiembre de 2020, de esta Secretaría Regional, se aprobaron programas de enseñanza conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores denominada Claudio Ortiz Plaza Capacitación E.I.R.L., RUT N° 77.072.944-0, de propiedad de don Claudio Antonio Ortiz Plaza, RUT N°11.993.253-K, con nombre de fantasía Agadez Capacitación E.I.R.L, cuyo representante legal es don Claudio Antonio Ortiz Plaza. La Escuela de Conductores tendrá como Director a don Mauricio Eduardo Aguirre Núñez, RUT N° 14.391.399-6 y su sede estará ubicada en calle Enrique Barraza N°20, de la ciudad de Concepción, Región del Biobio. Las horas pedagógicas autorizadas a la referida Escuela son 10 teóricas, y 12 prácticas, con un total de 22 horas pedagógicas.-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
