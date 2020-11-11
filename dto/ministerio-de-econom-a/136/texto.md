@@ -10,6 +10,8 @@ Decreto:
 
 Prohíbese la extracción, tenencia, posesión, industrialización, comercialización y transporte del recurso denominado "choro" (Choromytilus chorus), durante el período comprendido entre el 15 de septiembre y el 31 de diciembre de cada año, ambas fechas inclusive.
 
+Para la Región de Los Ríos, el período de veda biológica será desde el día 1 de septiembre hasta el día 31 de octubre de cada año, ambas fechas inclusive.
+
 #### Artículo 2°
 
 Establécese para este recurso una talla mínima de extracción de 10,5 centímetros.
