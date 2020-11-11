@@ -92,11 +92,7 @@ Los exámenes y servicios que a continuación se señalan, pagarán los siguient
 
 03.- Solicitud de traslado de Permiso de Circulación: 4% UTM
 
-- **04.-** Licencia de Conductor con una o varias de las siguientes clases autorizadas A-1, A-2, B, C y D; otorgadas por vez primera conforme a la Ley No. 18.290 $2.
-
-- **278.-** Licencia Clase E $
-
-- **390.-** Las que serán reajustadas de acuerdo a lo dispuesto en el Art. 60 del DL 3.063 de 1979.
+04.- Licencia de Conductor con una o varias de las siguientes clases autorizadas A-1, A-2, B, C y D; otorgadas por vez primera conforme a la Ley No. 18.290 $2.278.- Licencia Clase E $ 390.- Las que serán reajustadas de acuerdo a lo dispuesto en el Art. 60 del DL 3.063 de 1979.
 
 05.- Control bianual para Licencia de Conductor Clase A-1 y Controles anuales: 25% UTM
 
@@ -140,13 +136,19 @@ d) Placa provisoria (incluyendo duplicado): 20% UTM
 
 Los servicios de bodegaje respecto de vehículos abandonados en la vía pública, o retenidos por cualquier causa que lleguen a recinto Municipal, pagarán los siguientes derechos por mes o fracción:
 
-1.- Motos, motocicletas, motonetas y bicicletas : 50% UTM
+1.- Motos, motocicletas, motonetas : 50% UTM
+
+y bicicletas
 
 2.- Automóviles : 3 UTM
 
-3.- Vehículos a tracción humana y animal : 50% UTM
+3.- Vehículos a tracción : 50% UTM
 
-4.- Camiones, camionetas de carga, buses y microbuses : 5 UTM
+humana y animal
+
+4.- Camiones, camionetas de carga, : 5 UTM
+
+buses y microbuses
 
 5.- Otros no clasificados : 5 UTM
 
@@ -164,11 +166,17 @@ El otorgamiento de Permisos para el ejercicio transitorio de actividades lucrati
 
 4.-Reuniones sociales, carreras, torneos : 40% UTM
 
-5.-Ferias artesanales, juguetes, libros, vestuarios : 2% UTM
+carreras, torneos
 
-6.-Ventas, de casas comerciales no instaladas en la Comuna.: 3 UTM
+5.-Ferias artesanales, juguetes, : 2% UTM
 
-7.- Fondas o ramadas : 1 UTM
+libros, vestuarios
+
+6.-Ventas, de casas comerciales : 3 UTM
+
+no instaladas en la Comuna.
+
+7.-Fondas o ramadas : 1 UTM
 
 Derechos relativos a las concesiones y permisos por construcciones o instalaciones en Bienes Nacionales de Uso Público
 
@@ -244,57 +252,105 @@ Los servicios, concesiones o permisos relativos a la urbanización y construcci�
 
 2.- Loteos : 2% del avalúo fiscal del terreno
 
-3.- Obras nuevas y ampliaciones : 1,5% del presupuesto
+3.- Obras nuevas : 1,5% del presupuesto
 
-4.- Plano tipo, autorizados por
+y ampliaciones
 
-el Ministerio de Vivienda y
+4.- Plano tipo, : 1% del presupuesto
 
-Urbanismo : 1% del presupuesto
+autorizados por
 
-5.- Planos tipo viviendas
+el Ministerio
 
-sociales rurales : 0.3% del presupuesto
+de Vivienda y
 
-6.- Alteraciones, reparaciones,
+Urbanismo
 
-obras menores y provisorias : 1% del presupuesto
+5.- Planos tipo : 0.3% del presupuesto
+
+viviendas
+
+sociales
+
+rurales
+
+6.- Alteraciones, : 1% del presupuesto
+
+reparaciones,
+
+obras menores
+
+y provisorias
 
 7.- Reconstrucciones : 1% del presupuesto
 
-8.- Modificaciones de proyectos : 0,75% del presupuesto
+8.- Modificaciones : 0,75% del presupuesto
+
+de proyectos
 
 9.- Demoliciones : 0,50% del presupuesto
 
-10.- Certificados de línea,
+10.-Certificados : 2% UTM
 
-N°, recepción, etc. : 2% UTM
+de línea,
 
-11.- Mantención de materiales de
+N°, recepción,
 
-construcción en la vereda
+etc.
 
-adyacente al terreno de
+11.-Mantención de : 0,5% UTM
 
-propiedad particular, por
+materiales de
 
-30 días por m2. diario : 0,5% UTM
+construcción
 
-12.- Derechos de remoción de
+en la vereda
 
-pavimento de cualquier clase,
+adyacente al
 
-por m2. diario : 0,50% UTM
+terreno de
 
-13.- Extracción de arena y ripio
+propiedad
 
-u otros materiales de Bienes
+particular, por
 
-Nacionales de uso público por m3 : 20% UTM
+30 días por
 
-14.- Copia de Planos reguladores : 10% UTM
+m2. diario
 
-15.- Copia de Planos municipales : 10% UTM
+12.-Derechos de : 0,50% UTM
+
+remoción de
+
+pavimento de
+
+cualquier clase,
+
+por m2. diario
+
+13.-Extracción de : 20% UTM
+
+arena y ripio
+
+u otros
+
+materiales de
+
+Bienes
+
+Nacionales de
+
+uso público
+
+por m3
+
+14.-Copia de Planos : 10% UTM
+
+reguladores
+
+15.-Copia de Planos : 10% UTM
+
+municipales
 
 En los conjuntos habitacionales con unidades repetidas, los derechos Municipales se rebajarán de acuerdo a las siguientes normas:
 
@@ -377,3 +433,7 @@ Las infracciones a la presente Ordenanza serán denunciadas por Carabineros o In
 #### Artículo 19°
 
 Deróguese toda disposición Municipal que verse sobre esta misma materia.
+
+#### Artículo Primero
+
+Transitorio.- Facúltese al señor Alcalde para dejar exento del pago indicado en el artículo 11 N° 9 de esta Ordenanza mediante decreto alcaldicio, a aquellos locales que, cumpliendo con los requisitos sanitarios, soliciten el uso de espacio público contiguo a sus locales, en razón de la contingencia sanitaria del Covid-19.
