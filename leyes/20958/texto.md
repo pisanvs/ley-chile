@@ -438,13 +438,15 @@ Disposiciones transitorias
 
 #### Artículo primero
 
-Las mitigaciones viales y los aportes al espacio público que establecen los Capítulos I, II y III del Título V, que esta ley introduce en la Ley General de Urbanismo y Construcciones, sólo serán exigibles transcurridos dieciocho meses desde que se publique en el Diario Oficial el reglamento a que se refiere el artículo 171 del mismo cuerpo legal.
+Los aportes al espacio público, referidos en el Capítulo III del Título V, que esta ley introduce en la Ley General de Urbanismo y Construcciones, sólo serán exigibles transcurridos dieciocho meses desde que se publique en el Diario Oficial el reglamento a que se refiere el artículo 171 del mismo cuerpo legal.
 
-Mientras no se cumpla dicho plazo, las secretarías regionales ministeriales de Transportes y Telecomunicaciones evaluarán los estudios de impacto sobre el transporte urbano conforme a la resolución exenta N° 2.379, de 2003, del Ministerio de Vivienda y Urbanismo, y a lo establecido en los artículos 2.4.3., 4.5.4., 4.8.3. y 4.13.4. de la Ordenanza General de Urbanismo y Construcciones, y los informes viales básicos, de acuerdo al decreto supremo N° 83, de 1985, y a la resolución exenta N° 511, de 2012, ambos del Ministerio de Transportes y Telecomunicaciones.
+Las mitigaciones directas que establece el Capítulo II del Título V que esta ley introduce en la Ley General de Urbanismo y Construcciones, sólo serán exigibles transcurridos treinta meses desde la publicación señalada en el inciso anterior.
+
+Mientras no se cumpla el plazo señalado en el inciso segundo, las secretarías regionales ministeriales de Transportes y Telecomunicaciones evaluarán los estudios de impacto sobre el transporte urbano conforme a la resolución exenta N° 2.379, de 2003, del Ministerio de Vivienda y Urbanismo, y a lo establecido en los artículos 2.4.3., 4.5.4., 4.8.3. y 4.13.4. de la Ordenanza General de Urbanismo y Construcciones, y los informes viales básicos, de acuerdo al decreto supremo N° 83, de 1985, y a la resolución exenta N° 511, de 2012, ambos del Ministerio de Transportes y Telecomunicaciones.
 
 #### Artículo segundo
 
-Si cumplido el plazo que establece el artículo precedente no se hubiere aprobado en una comuna el plan de inversiones en infraestructura de movilidad y espacio público, la municipalidad respectiva estará obligada a cobrar los aportes en dinero, pero no podrá destinarlos a ejecutar estudios, proyectos, obras y/o medidas, y únicamente estará facultada para emplear hasta un tercio de los aportes recaudados en la elaboración de dichos planes.
+Si cumplido el plazo que establece el inciso primero del artículo precedente no se hubiere aprobado en una comuna el plan de inversiones en infraestructura de movilidad y espacio público, la municipalidad respectiva estará obligada a cobrar los aportes en dinero, pero no podrá destinarlos a ejecutar estudios, proyectos, obras y/o medidas, y únicamente estará facultada para emplear hasta un tercio de los aportes recaudados en la elaboración de dichos planes.
 
 Si transcurridos otros dos años aún no se hubieren aprobado tales planes, las municipalidades también podrán utilizar los aportes recaudados para las siguientes finalidades:
 
