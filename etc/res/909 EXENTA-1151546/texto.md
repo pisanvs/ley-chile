@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 909, de fecha 28.09.2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Maule, se autorizó a la Escuela de Conductores Profesionales denominada Automóvil Club de Chile Limitada, RUT 77.323.230-K; domiciliada en 2 Oriente N° 1345, comuna de Talca, cuyo representante legal es Juan Carlos Jerez Guirao, cédula nacional de identidad N° 24.690.667-K, cuyos planes y programas de enseñanza para impartir cursos A3 y A5 teórico y práctico especial que contempla el uso de simuladores de inmersión total fueron autorizados mediante resolución exenta N° 534, de 25 de junio de 2014, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones; a impartir los cursos conducentes a la obtención de la Licencia de Conductor Profesional Clase A3 y A5, a través del uso de simuladores de inmersión total, en la modalidad e-learning, ambos bajo el formato de ejecución sincrónico.-
+
+Carlos Palacios Maldonado, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Maule.
