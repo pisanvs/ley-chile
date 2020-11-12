@@ -164,59 +164,59 @@ Su jurisdicción comprende desde el paralelo 36° 42' 25" S. (Punta Lobos) por e
 
 Capitanía de Puerto de Coronel
 
-Su jurisdicción comprende desde el paralelo 36° 49' 00" S. (ribera Sur del río Bío Bío) por el Norte, hasta el paralelo 37° 04' 20" S. (Punta Lutrín) por el Sur. Incluye la isla Santa María.
+Su jurisdicción comprende desde el paralelo 36º49'00" S. (ribera Sur del río Bío Bío) por el Norte, hasta el paralelo 37º04'00" S. (ribera Norte del estero Playa Blanca) por el Sur. Incluye la isla Santa María.
 
 Capitanía de Puerto de Lota
 
-Su jurisdicción comprende desde el paralelo 37° 04' 20" S. (Punta Lutrín) por el Norte, hasta el paralelo 37° 20' 17" S. (Morro Carnero) por el Sur.
+Su jurisdicción comprende desde el paralelo 37º04'00" S. (ribera Norte del estero Playa Blanca) por el Norte, hasta el paralelo 37º26'00" S. (ribera Norte del río Quiapo) por el Sur.
 
 Capitanía de Puerto de Lebu
 
-Su jurisdicción comprende desde el paralelo 37°20'17" S. (Morro Carnero) por el norte, hasta el paralelo 38°30'00" S. (Punta Manuel), límite sur de la Región del Biobío. Incluye Isla Mocha y los lagos Lanalhue y Lleu Lleu.
+Su jurisdicción comprende desde el paralelo 37º26'00" S. (ribera Norte del río Quiapo) por el Norte, hasta el paralelo 38º30'00" S. (Punta Manuel), límite Sur de la Región del Bío Bío. Incluye la Isla Mocha y los Lagos Lanalhue y Lleu Lleu.
 
 GOBERNACION MARITIMA DE VALDIVIA
 
-Su jurisdicción comprende desde el paralelo 38°30'00" S. (Punta Manuel) límite norte de la Región de la Araucanía, hasta el paralelo 40°14'30" S. (Ribera Sur del río Bueno) límite sur de la Región de Los Ríos. Incluye el río Imperial desde Nueva Imperial hasta su desembocadura; Toltén; Tornagaleones, en los sectores: Montañas del Pilhuita, La Boca y las Tres Bocas; Queule; Valdivia y sus afluentes navegables; Calle Calle; Lingue; Colun; y Río Bueno en los sectores: Los Patos, La Goleta y El Manzanito. Incluye, además, los lagos Budi, Colico, Caburgua, Huilipilún, Villarrica, Calafquén, Pullinque, Pellaifa, Panguipulli, Neltume, Riñihue, Pirihueico, Ranco, Maihue, Huishué y Gris, y las lagunas Conguillío, Gualletué e Icalma.
+Su jurisdicción comprende desde el paralelo 38°30'00" S. (Punta Manuel) límite norte de la Región de la Araucanía, hasta el paralelo 40°14'30" S. (Ribera Sur del río Bueno) límite sur de la Región de Los Ríos. Incluye el río Imperial desde Nueva Imperial hasta su desembocadura; Toltén; Tornagaleones, en los sectores: Montañas del Pilhuita, La Boca y las Tres Bocas; Queule; Valdivia y sus afluentes navegables; Calle Calle; Lingue; Colun; y Río Bueno en los sectores: Los Patos, La Goleta y El Manzanito. Incluye, además, los lagos Budi, Colico, Caburgua, Huilipilún, Villarrica, Calafquén, Pullinque, Pellaifa, Panguipulli, Neltume, Riñihue, Pirihueico, Ranco, Maihue, Puyehue (Hasta el límite con la Región de Los Lagos), Huishué y Gris, y las lagunas Conguillío, Gualletué e Icalma.
 
 En su jurisdicción existirán las siguientes Capitanías de Puerto:
 
 Capitanía de Puerto de Carahue
 
-Su jurisdicción comprende el río Imperial desde Nueva Imperial hasta su desembocadura, y en el litoral desde el paralelo 38°30'00" S. (Punta Manuel) por el norte, hasta el paralelo 39°15'00" S. (Ribera Norte del río Toltén) por el sur, incluye el lago Budi.
+Su jurisdicción comprende desde el paralelo 38º30'00" S. (Punta Manuel) por el Norte, hasta el paralelo 39º23'12" S. (Punta Roca) por el Sur. Incluye los ríos Imperial, Queule, Moncul, Toltén (lo que comprende la jurisdicción de la comuna de Toltén, hasta su desembocadura al mar), los lagos Budi, Queule y laguna Trovolhue.
 
 Capitanía de Puerto de Lago Villarrica
 
-Su jurisdicción comprende los lagos Colico, Caburgua, Huilipilún y Villarrica, las lagunas Conguillío, Galletué, Icalma y el río Toltén.
+Su jurisdicción comprende los Lagos Colico, Caburgua, Huilipilún y Villarrica, las Lagunas Conguillío, Galletué e Icalma, y el Río Toltén (desde su origen hasta la jurisdicción de la comuna de Pitrufquén).
 
 Capitanía de Puerto de Lago Panguipulli
 
-Su jurisdicción comprende los lagos Calafquén, Panguipulli, Pellaifa, Pullinque, Riñihue, Neltume y Pirihueico.
+Su jurisdicción comprende los Lagos Calafquén, Panguipulli, Pellaifa, Pullinque, Riñihue, Neltume, Pirihueico, y los ríos Fuy y San Pedro.
 
 Capitanía de Puerto de Lago Ranco
 
-Su jurisdicción comprende los lagos Ranco, Maihue, Huishué y Gris. Incluye el río Bueno en los sectores: Los Patos, latitud: 40°17'03" S. y longitud 073°31'43" W.; La Goleta, latitud 40°17'13" S. y longitud 073°36'52" W y El Manzanito, latitud 40°15'06" S. y longitud 073º41'01" W.
+Su jurisdicción comprende los lagos Ranco, Maihue, Puyehue (Hasta el límite con la Región de Los Lagos). Huishué y Gris. Incluye el río Bueno en los sectores: Los Patos, latitud: 40°17'03" S. y longitud 073°31'43" W.; La Goleta, latitud 40°17'13" S. y longitud 073°36'52" W y El Manzanito, latitud 40°15'06" S. y longitud 073º41'01" W.
 
 Capitanía de Puerto de Valdivia
 
-Su jurisdicción comprende desde el paralelo 39°15'00" S. por el norte, hasta Punta Juan Latorre en el paralelo 39°49'39" S. por el sur. Incluye los ríos Queule, Calle Calle, Lingue, Valdivia y sus afluentes navegables, hasta la línea imaginaria que une Punta Niebla y Punta Carboneros en su desembocadura y el río Tornagaleones hasta la línea imaginaria que une Punta Claro y Punta Frontón, en los sectores: Montañas del Pilhuita, La Boca y las Tres Bocas.
+Su jurisdicción comprende desde el paralelo 39º23'12" S. (Punta Roca) por el Norte, hasta en el paralelo 39º49'39" S. (Punta Juan Latorre), y desde allí la línea imaginaria que une Punta Juan Latorre con Punta Niebla, en latitud 39º51'55" S. y longitud 073º24'18" W., de allí al punto 39º52'18" S. y longitud 073º24'18" W., luego hasta Punta Frontón en latitud 39º53'25" S. y longitud 073º22'27" W., por el Sur. Incluye los Ríos Calle Calle, Lingue, Cruces, Angachilla, Tornagaleones, Valdivia y sus afluentes navegables.
 
 Capitanía de Puerto de Corral
 
-Su jurisdicción comprende por el norte, el paralelo 39°49'39" S. (Punta Juan Latorre y Bahía de Corral), hasta el paralelo 40°14'30" S. (Ribera Sur del río Bueno) límite sur de la Región de Los Ríos. Por el Este, tomando como referencia la desembocadura del río Valdivia, desde la línea imaginaria que une Punta Niebla y Punta Carboneros, y la desembocadura del río Tornagaleones, desde la línea imaginaria que une Punta Claro y Punta Frontón. Incluye el río Colún.
+Su jurisdicción comprende por el Norte desde el paralelo 39º49'39" S. (Punta Juan Latorre), y desde allí, la línea imaginaria que une Punta Juan Latorre con Punta Niebla, en latitud 39º51'55" S. y longitud 073º24'18" W, de allí al punto 39º52'18" S. y longitud 073º24'18" W., hasta Punta Frontón en Latitud 39º53'25" S., longitud 073º22'27" W., por el Norte, hasta el paralelo 40º14'30" S. (Ribera Sur del río Bueno) por el Sur, límite Sur de la Región de Los Ríos. Incluye el río Colún.
 
 GOBERNACION MARITIMA DE PUERTO MONTT
 
-Su jurisdicción comprende por el norte, el paralelo 40°14'30" S. (Ribera Sur del río Bueno) límite sur de la Región de Los Ríos; por el sur, el paralelo 41°44'40", hasta Punta Chocoi, en latitud 41°44'40" S. y longitud 073°45'00" W., y desde allí, la línea imaginaria que une Punta Chocoi con los puntos ubicados en latitud 41°47'00" S. y longitud 073°31'30" W., latitud 42°00'00" S. y longitud 073°00'00" W., latitud 42°30'00" S. y longitud 073°00'00" W., y desde este punto, la prolongación del paralelo 42°30'00" S. hacia el este. Incluye el río Maicolpué, el estero Reñihue y los lagos Puyehue, Constancia, Llanquihue, Rupanco, Chapo, Todos los Santos y Lago Inferior. Incluye las islas Tenglo, Maillén e islotes Caicura, la isla Doña Sebastiana, las islas Guar, Puliqui, Queulín, Tabón, Quihua, Abato, Lin y Chidguapi, Malomacun, Toro, Linguar, Llanchid, Cuchillo, Lobos, Cabras, Pelada, Llancahué, Liliguapi e Isla Ica (a través península Huequi), los Farellones Marimelli y los Lagos Tagua-Tagua e inferior en la frontera con la República Argentina.
+Su jurisdicción comprende por el norte, el paralelo 40°14'30" S. (Ribera Sur del río Bueno) límite sur de la Región de Los Ríos; por el sur, el paralelo 41°44'40", hasta Punta Chocoi, en latitud 41°44'40" S. y longitud 073°45'00" W., y desde allí, la línea imaginaria que une Punta Chocoi con los puntos ubicados en latitud 41°47'00" S. y longitud 073°31'30" W., latitud 42°00'00" S. y longitud 073°00'00" W., latitud 42°30'00" S. y longitud 073°00'00" W., y desde este punto, la prolongación del paralelo 42°30'00" S. hacia el este, hasta la intersección con la longitud 072º38'00" W., en la costa Este del estero Reñihue. Incluye el río Maicolpué, y los lagos Puyehue (Hasta el límite con la Región de Los Ríos), Constancia, Llanquihue, Rupanco, Chapo, Todos los Santos y Lago Inferior. Incluye las islas Tenglo, Maillén e islotes Caicura, la isla Doña Sebastiana, las islas Guar, Puliqui, Queulín, Tabón, Quihua, Abato, Lin y Chidguapi, Malomacun, Toro, Linguar, Llanchid, Cuchillo, Lobos, Cabras, Pelada, Llancahué, Liliguapi e Isla Ica (a través península Huequi), los Farellones Marimelli y los Lagos Tagua-Tagua e inferior en la frontera con la República Argentina.
 
 En su jurisdicción existirán las siguientes Capitanías de Puerto:
 
 Capitanía de Puerto de Puerto Varas
 
-Su jurisdicción comprende los lagos Llanquihue, Rupanco, Chapo, Todos los Santos, Puyehue y Constancia.
+Su jurisdicción comprende los lagos Llanquihue, Rupanco, Todos los Santos, Puyehue (Hasta el límite con la Región de Los Ríos) y Constancia.
 
 Capitanía de Puerto de Puerto Montt
 
-Su jurisdicción comprende hacia el Norte y el Este a partir desde Punta Capacho, en Latitud 41° 39' 00" S. y Longitud 073° 03' 54" W, el litoral del Seno Reloncaví y el litoral continental hasta Caleta El Milagro en Latitud 41° 42' 15" S. y Longitud 072° 38' 30" W., desde allí la línea imaginaria que la une hasta la Punta Morro Chico en Latitud 41° 44' 00" S. y Longitud 072° 39' 04" W., continuando hacia el Sur por el litoral hasta Punta Trentelgue, en Latitud 41° 54' 42" S y Longitud 072° 53' 00" W. Desde Punta Trentelgue hasta el punto ubicado en Latitud 41° 39' 00" S. y Longitud 072° 52' 30" W. y desde este punto hasta Punta Capacho. Incluye las islas Tenglo, Maillén e islotes Caicura.
+Su jurisdicción comprende hacia el Norte y el Este a partir desde Punta Capacho, en Latitud 41° 39' 00" S. y Longitud 073° 03' 54" W, el litoral del Seno Reloncaví y el litoral continental hasta Caleta El Milagro en Latitud 41° 42' 15" S. y Longitud 072° 38' 30" W., desde allí la línea imaginaria que la une hasta la Punta Morro Chico en Latitud 41° 44' 00" S. y Longitud 072° 39' 04" W., continuando hacia el Sur por el litoral hasta Punta Trentelgue, en Latitud 41° 54' 42" S y Longitud 072° 53' 00" W. Desde Punta Trentelgue hasta el punto ubicado en Latitud 41° 39' 00" S. y Longitud 072° 52' 30" W. y desde este punto hasta Punta Capacho. Incluye las islas Tenglo, Maillén e islotes Caicura y lago Chapo.
 
 Capitanía de Puerto de Maullín
 
@@ -228,7 +228,7 @@ Su jurisdicción comprende por el Norte, hacia el Sur, el litoral desde la Punta
 
 Capitanía de Puerto Río Negro Hornopirén
 
-Su jurisdicción comprende por el Norte, desde la Punta Trentelgue, en Latitud 41° 54' 42" S y Longitud 072° 53' 00" W siguiendo hacia el Sur por el litoral Weste de Chiloé Continental hasta el estero Reñihué en su totalidad, luego por el paralelo 42° 30' 00" S, hacia el Weste hasta la Longitud 073° 00' 00" W., continuando por este meridiano hacia el Norte hasta la Latitud 42° 00' 00" S y desde allí hasta Punta Trentelgue, en Latitud 41° 54' 42" S y Longitud 072° 53' 00" W. Incluye las islas: Malomacun, Toro, Linguar, Llanchid, Cuchillo, Lobos, Cabras, Pelada, Llancahué, Liliguapi e isla Ica (a través península Huequi).
+Su jurisdicción comprende por el Norte, desde la Punta Trentelgue, en Latitud 41° 54' 42" S y Longitud 072° 53' 00" W siguiendo hacia el Sur por el litoral Weste de Chiloé Continental hasta la intersección del paralelo 42º30'00" S. con la longitud 072º38'00" W. en la costa Este del estero Reñihué, luego por el paralelo 42° 30' 00" S, hacia el Weste hasta la Longitud 073° 00' 00" W., continuando por este meridiano hacia el Norte hasta la Latitud 42° 00' 00" S y desde allí hasta Punta Trentelgue, en Latitud 41° 54' 42" S y Longitud 072° 53' 00" W. Incluye las islas: Malomacun, Toro, Linguar, Llanchid, Cuchillo, Lobos, Cabras, Pelada, Llancahué, Liliguapi e isla Ica (a través península Huequi).
 
 Capitanía de Puerto de Cochamó
 
@@ -250,7 +250,7 @@ Su jurisdicción comprende por el Norte el paralelo 42° 00' 00" S. desde el mer
 
 Capitanía de Puerto de Chaitén
 
-Su jurisdicción comprende por el Norte el paralelo 42° 30' 00" S. desde su intersección con Longitud 073° 12' 00" W hacia el Este, excepto el estero Reñihué; por el Weste, el meridiano 073° 12' 00" W entre los paralelos 42° 30' 00" S y 43° 00' 30" S., incluyendo las Islas Desertores, siguiendo el paralelo 43° 00' 30" S. hacia el Weste hasta su intersección con el Meridiano 073° 15' 00" W,. luego hacia el Sur hasta el Paralelo 43° 44' 25" S. y desde allí hacia el Este. Incluye el Lago Yelcho y el Lago Palena.
+Su jurisdicción comprende por el Norte el paralelo 42° 30' 00" S. desde su intersección con Longitud 073° 12' 00" W hacia el Este, hasta la intersección del paralelo 42º30'00" S. con la longitud 072º38'00" W. en la costa Este del estero Reñihué, por el Weste, el meridiano 073° 12' 00" W entre los paralelos 42° 30' 00" S y 43° 00' 30" S., incluyendo las Islas Desertores, siguiendo el paralelo 43° 00' 30" S. hacia el Weste hasta su intersección con el Meridiano 073° 15' 00" W,. luego hacia el Sur hasta el Paralelo 43° 44' 25" S. y desde allí hacia el Este. Incluye el Lago Yelcho y el Lago Palena.
 
 Capitanía de Puerto de Achao
 
@@ -270,7 +270,7 @@ Su jurisdicción comprende por el Norte, el paralelo 42° 50' 00" S. hasta su in
 
 GOBERNACION MARITIMA DE AYSEN
 
-Tiene su asiento en Puerto Aisén y su jurisdicción comprende desde el paralelo 43° 44' 25" S, por el Norte y por el Sur hasta el límite Sur de la XIa. Región Aisén del General Carlos Ibañez del Campo, el cual se extiende desde una línea recta trazada de la cumbre del cerro Chaltel o Fitz Roy, sobre el límite con Argentina al extremo oriental del seno Iceberg o Témpano, desde dicha cumbre hasta dicho extremo oriente del seno Iceberg o Témpano; el seno Iceberg o Témpano, desde su extremo oriental hasta el canal Messier; y canales Messier, Adalberto, Fallos y del Castillo, desde el seno Iceberg o Témpano hasta el Mar Chileno. Incluye los lagos General Carrera, Cochrane y O'Higgins.
+Su jurisdicción comprende desde el paralelo 43° 44' 25" S, por el Norte y por el Sur hasta el límite Sur de la XIa. Región Aisén del General Carlos Ibañez del Campo, el cual se extiende desde una línea recta trazada de la cumbre del cerro Chaltel o Fitz Roy, sobre el límite con Argentina al extremo oriental del seno Iceberg o Témpano, desde dicha cumbre hasta dicho extremo oriente del seno Iceberg o Témpano; el seno Iceberg o Témpano, desde su extremo oriental hasta el canal Messier; y canales Messier, Adalberto, Fallos y del Castillo, desde el seno Iceberg o Témpano hasta el Mar Chileno. Incluye los lagos General Carrera, Cochrane y O'Higgins.
 
 En su jurisdicción existirán las siguientes Capitanías de Puerto:
 
@@ -284,11 +284,11 @@ Su jurisdicción comprende desde el paralelo 43° 44' 25" S. (Punta Guala) por e
 
 Capitanía de Puerto de Puerto Aguirre.
 
-Su jurisdicción comprende por el Norte el paralelo 44° 46' 54" S. hasta el Islote Cayo Blanco en Latitud 44° 46' 54" S. y Longitud 073° 32' 30" W. y luego hasta la Punta San Andrés en Latitud 44° 57' 15" S. y Longitud 073° 21' 40" W. y por el Sur el paralelo 45° 14' 00" S.
+Su jurisdicción comprende por el Norte el paralelo 44º46'54" S. hasta el Islote Cayo Blanco en Latitud 44º46'54" S. y Longitud 073º32'30" W. y desde este punto la línea imaginaria que une los siguientes puntos: Latitud 44º57'15" S. y Longitud 073º21'40" W. (Punta San Andrés), Latitud 45º14'45" S. y Longitud 073º16'24" W. (Puerto Pérez), Latitud 45º22'18" S. y Longitud 073º29'30" W. (Islote Rodríguez), Latitud 45º27'48" S. y Longitud 073º33'07" W. (Isla Traiguén) y desde este último punto por el paralelo 45º27'48" S. al Weste.
 
 - Capitanía de Puerto de Puerto Chacabuco.
 
-Su jurisdicción comprende desde el paralelo 45° 14' 00" S. por el Norte, hasta la línea imaginaria conformada desde el Oeste por el paralelo 46° 00' 00" S., continuando en diagonal entre los puntos 46° 00' 00" S. - 75° 00' 00" W. y 47° 00' 00" S. - 74° 00' 00" W. y desde este último punto por el paralelo 47° 00' 00" S. hacia el Este, y los canales interiores hasta la laguna San Rafael inclusive. Excluye el lago General Carrera.
+Su jurisdicción comprende por el Norte desde la línea imaginaria conformada desde el Este por el paralelo 44º57'15" S., hasta punta San Andrés en Latitud 44º57'15" S. y Longitud 073º21'40" W continuando en diagonal entre los puntos: Latitud 45º14'45" S. y Longitud 073º16'24" W. (Puerto Pérez); Latitud 45º22'18" S. y Longitud 073º29'30" W. (Islote Rodríguez), Latitud 45º27'48" S. y Longitud 073º33'07" W. (Isla Traiguén) y desde este último punto por el paralelo 45º27'48" S., hacia el Weste. Por el Sur el paralelo 47º00'00" S. incluyendo los canales interiores hasta la Laguna San Rafael inclusive. Excluye el Lago General Carrera.
 
 - Capitanía de Puerto del Lago General Carrera.
 
@@ -296,7 +296,7 @@ Su jurisdicción comprende los lagos General Carrera, Cochrane y O'Higgins.
 
 - Capitanía de Puerto de Baker.
 
-Su jurisdicción comprende desde el límite Sur de la Capitanía de Puerto de Puerto Chacabuco por el Norte, hasta el límite Sur de la Gobernación Marítima de Aisén. Excluye los lagos Cochrane y O'Higgins.
+Su jurisdicción comprende desde el paralelo 47º00'00" S. por el Norte hasta el límite Sur de la Región de Aysén del General Carlos Ibáñez del Campo, por el Sur, excluye los Lagos Cochrane y O'Higgins,
 
 GOBERNACION MARITIMA DE PUNTA ARENAS
 
@@ -310,11 +310,11 @@ Su Jurisdicción comprende desde el límite Sur de la Gobernación Marítima de 
 
 - Capitanía de Puerto de Puerto Natales.
 
-Su jurisdicción comprende desde el paralelo 50° 33' 00" S. por el Norte, hasta la desembocadura del canal Smyth en Latitud 52° 47' 30" S. y Longitud 73° 44' 30" W. siguiendo por la ribera Norte del Estrecho de Magallanes, hasta los Islotes Evangelistas inclusive y de allí por el paralelo 52° 24' 00" S. hacia el Océano Pacífico.
+Su jurisdicción comprende desde el paralelo 50º33'00" S. por el Norte, hasta el paralelo 52º30'30" S. por el Sur.
 
 - Capitanía de Puerto de Punta Arenas.
 
-Su jurisdicción comprende desde el límite de la Capitanía de Puerto de Puerto Natales por el Norte hasta la línea imaginaria que une Punta Harry con Cabo San Vicente, en la Segunda Angostura del Estrecho de Magallanes; y de allí a Punta Anxius, siguiendo la costa Weste de la Isla Dawson, los Canales Magdalena y Cockburn y la totalidad de las aguas de los senos adyacentes hasta la Península Brecknock y luego por el paralelo 54° 33' 00" Sur hacia el Océano Pacífico.
+Su jurisdicción comprende desde el paralelo 52º3030" S. por el Norte hasta la línea imaginaria que une Punta Harry con Cabo San Vicente, en la Segunda Angostura del Estrecho de Magallanes; y de allí a Punta Anxius, siguiendo la costa Weste de la Isla Dawson, los Canales Magdalena y Cockburn y la totalidad de las aguas de los senos adyacentes hasta la Península Brecknock y luego por el paralelo 54° 33' 00" Sur hacia el Océano Pacífico.
 
 - Capitanía de Puerto de Punta Delgada.
 
@@ -330,7 +330,7 @@ Su jurisdicción comprende el área que limita por el Norte, con el Límite Pol�
 
 GOBERNACION MARITIMA ANTARTICA CHILENA
 
-Tiene su asiento en Puerto Soberanía y su jurisdicción comprende el área que limita por el Norte, con las lineas imaginarias que unen los siguientes puntos:
+Tiene su asiento en Caleta Ardley, Bahía Fildes, Isla Rey Jorge y su jurisdicción comprende el área que limita por el Norte, con las lineas imaginarias que unen los siguientes puntos:
 
 1.- L = 57° 42' 00" S. G = 053° 00' 00" W.
 
@@ -410,9 +410,11 @@ Su jurisdicción comprende el área delimitada por las líneas imaginarias que u
 
 Y por el Sur, con las costas más australes de la provincia Antártica Chilena entre los meridianos 53° 00' 00" W. y 90° 00' 00" W.
 
+> **Nota.** El numeral 15 del Decreto 391, Defensa, publicado el 12.11.2020, modifica la presente norma en el sentido de intercalar el párrafo correspondiente a la Gobernación Marítima de Castro de acuerdo a lo que la citada norma indica.
+
 #### Artículo 2°
 
-Las jurisdicciones señaladas en el artículo precedente comprenden el litoral, lagos y ríos navegables, las aguas interiores pertinentes, el mar territorial, la zona contigua, la zona económica exclusiva y la plataforma continental pertenecientes al Estado de Chile. Asimismo se considerará aquellos espacios de la alta mar en los cuales la Dirección General del Territorio Marítimo y de Marina Mercante debe realizar funciones relacionadas con la seguridad de la vida humana en el mar de acuerdo a los compromisos internacionales contraídos por el Estado de Chile para esos fines.
+Las jurisdicciones señaladas en el artículo precedente comprenden el litoral, lagos y ríos navegables, las aguas interiores pertinentes, el mar territorial, la zona contigua, la zona económica exclusiva y la plataforma continental pertenecientes al Estado de Chile. Asimismo se considerará aquellos espacios de la alta mar en los cuales la Dirección General del Territorio Marítimo y de Marina Mercante debe realizar las funciones que le demanda la normativa vigente de acuerdo a los compromisos internacionales contraídos por el Estado de Chile en los fines allí consignados.
 
 #### Artículo 3°
 
