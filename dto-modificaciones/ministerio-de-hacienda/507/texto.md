@@ -88,9 +88,9 @@ b) Emisión de Letras denominadas en Pesos o en UF con vencimiento en 2021 (en a
 
 En uso de esta facultad, cualquiera de las autoridades antes mencionadas podrá celebrar, otorgar, ejecutar o suscribir todos los actos y contratos que sean necesarios para proceder a la emisión, el registro, la colocación, el depósito y la enajenación de estas Letras, incluyendo el pago de los gastos operativos en que se incurra, así como para establecer cualquier otro aspecto requerido para llevar a cabo las operaciones de endeudamiento que se autorizan, tales como: contrato o contratos de colocación, por el cual instituciones financieras se obligarán a colocar estas Letras y, eventualmente, adquirirlos, y el contrato de agencia fiscal o sus modificaciones (fiscal agency agreement), o contrato de emisión similar (indenture) y otros contratos de agencia que, entre otros, regularán estas operaciones, solicitudes de registro ante organismos administrativos y/o bolsas de valores, que incluyan la emisión y colocaciones de los bonos mencionados en este artículo.
 
-#### Artículo 6°
+#### Artículo 6º
 
-El monto agregado total máximo de las emisiones autorizadas en los artículos 3º, 4º y 5º, letra b), del presente decreto, será de hasta el equivalente a nueve mil noventa y siete millones quinientos trece mil novecientos sesenta Dólares USA (US$9.097.513.960), quedando por lo tanto limitado el uso de margen de endeudamiento a dicho monto.
+El monto agregado total máximo de las colocaciones que se realicen en virtud de las emisiones autorizadas en los artículos 3º, 4º y 5º, letra b), del presente decreto, será de hasta el equivalente a nueve mil noventa y siete millones quinientos trece mil novecientos sesenta dólares USA (US$9.097.513.960). Lo anterior, en todo caso, es sin perjuicio de ajustarse al monto máximo de endeudamiento establecido en los artículos 3º de la ley Nº 21.192 y quinto de la ley Nº 21.225.
 
 #### Artículo 7°
 
@@ -98,7 +98,7 @@ Los recursos líquidos obtenidos de la colocación de los valores representativo
 
 #### Artículo 8°
 
-Una vez concluidas las operaciones de endeudamiento, el Ministerio de Hacienda oficiará la documentación respectiva que dé cuenta de los detalles de tales operaciones a la Contraloría General de la República, con el propósito de que esta última corrobore el cumplimiento de los términos de las autorizaciones contenidas en el presente decreto.
+Una vez concluidas las operaciones de endeudamiento, el Ministerio de Hacienda oficiará la documentación respectiva que dé cuenta de los detalles de tales operaciones a la Contraloría General de la República, con el propósito de que esta última corrobore el cumplimiento de los términos de las autorizaciones contenidas en el presente decreto. Sin perjuicio de lo anterior, el Ministerio de Hacienda, a través de comunicación electrónica, deberá informar a dicha institución, las operaciones ejecutadas y el respectivo uso de margen de endeudamiento al cierre de noviembre y diciembre de 2020, a más tardar el día 15 del mes siguiente respectivo.
 
 Artículos 9°.- Las características y condiciones financieras del bono o bonos emitidos en los mercados externos denominados y pagaderos en Dólares USA serán las siguientes:
 
@@ -354,31 +354,35 @@ Lo anterior, será efectuado por la Tesorería General de la República con carg
 
 #### Artículo 19°
 
-Mediante uno o más decretos supremos podrán modificarse, en todo o en parte, los términos y condiciones de cada emisión de Letras o Bonos DS 507, y los términos de este decreto que se le apliquen, solamente si el emisor cuenta con la aprobación y consentimiento de los tenedores de la respectiva serie de Letras o Bonos DS 507 que representen un monto igual o mayor al setenta y cinco por ciento del capital de dicha emisión que esté vigente y pendiente de pago. Asimismo, podrán modificarse, en todo o en parte, los términos y condiciones de más de una serie de Letras o Bonos DS 507, en caso que cumplan copulativamente con los siguientes requisitos: i) aprobación y consentimiento de los tenedores por un monto igual o mayor a dos tercios del capital total agregado vigente y pendiente de pago de todas las series afectadas por las modificaciones; y ii) aprobación y consentimiento de los tenedores de cada serie por un monto igual o mayor a cincuenta por ciento del capital vigente y pendiente de pago de cada serie de Letras o Bonos DS 507 sujeto a modificaciones. Con todo, las modificaciones antes señaladas solamente podrán referirse a las materias indicadas a continuación:
+Mediante uno o más decretos supremos podrán modificarse, en todo o en parte, los términos y condiciones de cada emisión de Letras o Bonos DS 507, y los términos de este decreto que se le apliquen, solamente si el emisor cuenta con la aprobación y consentimiento de los tenedores de la respectiva serie de Letras o Bonos DS 507 que representen un monto igual o mayor al setenta y cinco por ciento del capital de dicha emisión que esté vigente y pendiente de pago. Asimismo, podrán modificarse, en todo o en parte, los términos y condiciones de más de una serie de Letras o Bonos DS 507, en caso que cumplan copulativamente con los siguientes requisitos: i) aprobación y consentimiento de los tenedores por un monto igual o mayor a dos tercios del capital total agregado vigente y pendiente de pago de todas las series afectadas por las modificaciones; y ii) aprobación y consentimiento de los tenedores de cada serie por un monto igual o mayor a cincuenta por ciento del capital vigente y pendiente de pago de cada serie de Letras o Bonos DS 507 sujeto a modificaciones. Con todo, las modificaciones anteriormente señaladas solamente podrán referirse a las materias señaladas a continuación, según corresponda:
 
-a) Modificar la fecha de vencimiento y pago del capital;
+a) Modificar la fecha de vencimiento y pago del capital o de los intereses;
 
-b) Modificar la moneda o lugar de pago del capital;
+b) Remitir parcialmente las sumas adeudadas por concepto de intereses;
 
-c) Suspender o limitar de cualquier otra forma el ejercicio de los derechos para demandar el pago del capital;
+c) Modificar la moneda o lugar de pago del capital o de los intereses;
 
-d) Modificar la naturaleza desmaterializada de dichos bonos o las reglas aquí establecidas para solicitar la impresión física del título correspondiente;
+d) Suspender o limitar de cualquier otra forma el ejercicio de los derechos para demandar el pago del capital o de los intereses;
 
-e) Modificar la ley aplicable a dichos bonos o someter el conocimiento y resolución de las cuestiones y disputas relativas a dichos bonos, suscitadas entre el emisor y los tenedores de los mismos, a una jurisdicción extranjera, de conformidad con lo dispuesto en el decreto ley Nº 2.349, de 1978;
+e) Modificar el monto adeudado por concepto de intereses y pagadero a los tenedores de dichos bonos, con ocasión de la aceleración del pago de los mismos;
 
-f) Declarar la conversión o canje obligatorio de dichos bonos por otros títulos de deuda emitidos al efecto; y,
+f) Modificar la naturaleza desmaterializada de dichos bonos o las reglas aquí establecidas para solicitar la impresión física del título correspondiente;
 
-g) Alterar las normas relativas a la modificación de las características de dichos bonos contenidas en este decreto.
+g) Modificar la ley aplicable a dichos bonos o someter el conocimiento y resolución de las cuestiones y disputas relativas a dichos bonos, suscitadas entre el emisor y los tenedores de los mismos, a una jurisdicción extranjera, de conformidad con lo dispuesto en el decreto ley Nº 2.349, de 1978;
+
+h) Declarar la conversión o canje obligatorio de dichos bonos por otros títulos de deuda emitidos al efecto; e,
+
+i) Alterar las normas relativas a la modificación de las características de dichos bonos contenidas en este decreto.
 
 En todas las demás materias, los términos y condiciones de las Letras o Bonos DS 507, establecidos en el presente decreto, sólo podrán modificarse por decreto supremo en la medida que se cuente previamente con la aprobación y consentimiento de los tenedores de los bonos objeto de la modificación que representen un monto igual o mayor a los dos tercios del total del capital de dichos bonos, que estén vigentes y pendientes de pago.
 
-Con todo, no se requerirá del consentimiento de los tenedores de las Letras o Bonos DS 507 respectivas y podrán modificarse, simplemente por medio de decreto supremo, tanto los términos y condiciones de dichos bonos como este decreto, para los siguientes propósitos:
+Con todo, no se requerirá del consentimiento de los tenedores de las Letras o Bonos DS 507 respectivos y podrán modificarse, simplemente por medio de decreto supremo, tanto los términos y condiciones de dichos bonos como este decreto, para los siguientes propósitos, según corresponda:
 
 a) Modificar este decreto para aclarar aquello en que sea ambiguo o para corregir errores formales de texto;
 
-b) Establecer e incluir, a favor de los tenedores de alguno de las Letras o Bonos DS 507, beneficios tales como preferencias, cauciones o garantías, sin perjuicio de lo dispuesto en el artículo 20; o
+b) Establecer e incluir, a favor de los tenedores de alguna de las Letras o Bonos DS 507, beneficios tales como preferencias, cauciones o garantías, sin perjuicio de lo dispuesto en el artículo 20º; o
 
-c) Cualquier otro que no afecte el derecho o interés de los tenedores de alguna de las Letras o Bonos DS 507, en relación con la emisión y pago de los mismos.
+c) Cualquier otro que no afecte el derecho o interés de los tenedores de alguna de las Letras o Bonos DS 507, en relación con la emisión y pago de los mismos o de sus intereses.
 
 Para los efectos de este decreto, las Letras o Bonos DS 507 bajo el dominio de la Tesorería General de la República o de cualquier persona perteneciente, directa o indirectamente, al sector público de conformidad con la Ley de Administración Financiera del Estado, o de las empresas del Estado, o las empresas, sociedades o instituciones en las que el sector público o sus empresas tengan un aporte de capital superior al 50% del capital social de dichas entidades o que sean controladas por el Fisco, no serán considerados para el cálculo de las mayorías señaladas en este número ni en cualquier otra materia que sea objeto de votación de acuerdo con este decreto y, en consecuencia, se considerarán como no emitidos únicamente para estos efectos. Se entenderá que el Fisco controla directa o indirectamente una entidad en los casos establecidos en el artículo 97 de la ley Nº 18.045.
 
