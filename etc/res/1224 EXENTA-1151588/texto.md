@@ -1,0 +1,69 @@
+PONE TÉRMINO A LA SUSPENSIÓN DE PLAZO QUE INDICA Y SOMETE A CONSULTA PÚBLICA EL ANTEPROYECTO DE NORMAS SECUNDARIAS DE CALIDAD AMBIENTAL PARA LA PROTECCIÓN DE LAS AGUAS CONTINENTALES SUPERFICIALES DE LA CUENCA DEL RÍO HUASCO
+
+Núm. 1.224 exenta.- Santiago, 9 de noviembre de 2020.
+
+Vistos:
+
+Lo dispuesto en la Ley N° 19.300, sobre Bases Generales del Medio Ambiente; en el decreto supremo N° 38, de 2012, del Ministerio del Medio Ambiente que aprueba el Reglamento para la dictación de Normas de Calidad Ambiental y de Emisión; en la resolución exenta N° 310, de 2020, del Ministerio del Medio Ambiente, que Aprueba Anteproyecto de Normas Secundarias de Calidad Ambiental para la Protección de las Aguas Continentales Superficiales de la Cuenca del Río Huasco; en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia; en la Ley N° 19.880, que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; en el decreto supremo N° 104, de 18 de marzo de 2020, del Ministerio del Interior y Seguridad Pública, que Declara Estado de Excepción Constitucional de Catástrofe, por Calamidad Pública, en el Territorio de Chile, prorrogado por decreto supremo N° 269, de 12 de junio de 2020 y por decreto supremo N° 400, de 10 de septiembre de 2020, ambos del Ministerio del Interior y Seguridad Pública; en la resolución exenta N° 249, del 20 de marzo de 2020, del Ministerio del Medio Ambiente-Subsecretaría del Medio Ambiente, que instruye medidas extraordinarias de visación de documentos del Ministerio del Medio Ambiente-Subsecretaría del Medio Ambiente a raíz de la alerta sanitaria por emergencia de salud pública de importancia internacional (ESPII) por brote de coronavirus (COVID-19); en el oficio ordinario N° 288, de 28 de octubre de 2020, del Secretario Regional Ministerial de la Región de Atacama, señor Guillermo Ready Selamé; en la resolución N° 7, de 2019, de la Contraloría General de la República, que Fija Normas sobre Exención del Trámite de Toma de Razón; y,
+
+Considerando:
+
+1. Que, de conformidad con lo establecido en el artículo 69 de la Ley Nº 19.300 el Ministerio del Medio Ambiente es la Secretaría de Estado encargada de colaborar con el Presidente de la República en el diseño y aplicación de políticas, planes y programas en materia ambiental, así como en la protección y conservación de la diversidad biológica y de los recursos naturales renovables e hídricos, promoviendo el desarrollo sustentable, la integridad de la política ambiental y su regulación normativa.
+
+2. Que el decreto supremo N° 38, de 2012, del Ministerio del Medio Ambiente que aprueba el Reglamento para la dictación de Normas de Calidad Ambiental y de Emisión, dispone en su artículo 17 que "Elaborado el anteproyecto de norma, el Ministro dictará la resolución que lo apruebe y lo someta a consulta".
+
+3. Que, por resolución exenta N° 310, de 2020, del Ministerio del Medio Ambiente, se aprobó el Anteproyecto de Normas Secundarias de Calidad Ambiental para la Protección de las Aguas Continentales Superficiales de la Cuenca del Río Huasco. Dicha resolución, además, suspendió el inicio del plazo de consulta pública del instrumento hasta el término del estado de excepción constitucional de catástrofe por calamidad pública declarado por el brote de coronavirus, de conformidad al decreto supremo N° 104, de 2020, del Ministerio del Interior y Seguridad Pública.
+
+4. Que, el estado de excepción constitucional fue prorrogado mediante el decreto supremo N° 269, de 2020, y el decreto supremo N° 400, de 2020, ambos del Ministerio del Interior y Seguridad Pública.
+
+5. Que, esta Secretaría de Estado estima necesario reanudar el proceso de consulta pública para la elaboración de las Normas Secundarias de Calidad Ambiental para la Protección de las Aguas Continentales Superficiales de la Cuenca del Río Huasco, en adelante las Normas, en virtud de los siguientes fundamentos:
+
+(i) La situación sanitaria de cada región del país es diferente y las comunas de Alto del Carmen, Vallenar, Freirina y Huasco, en la Provincia de Huasco, se encuentran en fase 3 de la Estrategia Paso a Paso establecida por la autoridad sanitaria, lo que significa que las restricciones a la movilidad de las personas han sido levantadas y que se permite la reunión de máximo 25 personas en espacios cerrados y 50 en espacios abiertos, menos en horario de toque de queda. En este contexto, cabe destacar que, no obstante el estado de excepción constitucional se mantiene, la situación de desarrollo de la pandemia y las condiciones sanitarias existentes en las referidas comunas ha evolucionado favorablemente respecto de aquellas que se tuvieron en consideración por este Ministerio al momento de suspender el procedimiento de participación ciudadana de las Normas. Por último, las actividades contempladas para la consulta pública del Anteproyecto de las Normas son compatibles con aquellas actividades permitidas por la autoridad sanitaria en el contexto de dicha estrategia.
+
+(ii) La necesidad de avanzar en el cumplimiento de la medida B.2.2 del Programa para la Recuperación Ambiental y Social (PRAS) de la comuna de Huasco, consistente en "Reiniciar el proceso de elaboración de la norma secundaria de calidad ambiental para la protección de las aguas de la cuenca del río Huasco", aprobada en sesión extraordinaria del Consejo para la Recuperación Ambiental y Social (CRAS) el día 6 de septiembre de 2017 y formalizada, a través de resolución exenta N° 1.364, de 1 de diciembre de 2017.
+
+(iii) El deber de esta Secretaría de Estado de propender a una recuperación sostenible mediante la oportuna implementación de los instrumentos de gestión ambiental contemplados en la Ley N° 19.300 sobre Bases Generales del Medio Ambiente.
+
+(iv) El deber de la Administración del Estado de actuar en concordancia con los principios de eficiencia y eficacia previstos en los artículos 3 y 5 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
+
+(v) El deber de la Administración del Estado de actuar en concordancia con el principio de continuidad de la función pública con la finalidad de satisfacer las necesidades de las personas de manera continua y permanente, de conformidad con el artículo 3 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
+
+(vi) Lo señalado por la Contraloría General de la República en el dictamen N° 3.610, de 2020, en el que sostiene que el brote de Covid -19 representa una situación de caso fortuito que, atendidas las graves consecuencias que su propagación en la población puede generar, habilita la adopción de medidas extraordinarias de gestión interna de los órganos y servicios públicos que conforman la Administración del Estado. Lo anterior, con el objeto de resguardar a las personas que en ellos se desempeñan y a la población evitando así la extensión del virus, al tiempo de asegurar la continuidad mínima necesaria de los servicios públicos críticos, esto es, aquellos cuyas funciones no pueden paralizarse sin grave daño a la comunidad.
+
+(vii) Lo señalado, asimismo, mediante dictamen N° 1.008, de 2020, de la Contraloría General de la República, que sostiene que en este contexto, y dada, por una parte, la importancia de prevenir que los procedimientos de aprobación o modificación de instrumentos regulatorios se paralicen indefinidamente ante la imposibilidad de llevar a cabo de manera presencial las audiencias públicas o las exposiciones a la comunidad, y, por la otra, la necesidad de proteger la salud de los servidores públicos y de la población frente a la pandemia, resulta procedente que ante la singularizada contingencia, el desarrollo de dichas instancias de participación ciudadana se efectúe a distancia a trav�s de medios tecnológicos.
+
+6. Que la reanudación de la consulta pública de las Normas, para asegurar la participación en igualdad de condiciones y de manera que resguarde tanto la salud de la comunidad como la salud de los funcionarios públicos, se realizará de conformidad a las siguientes medidas de resguardo:
+
+(i) Presentación del Anteproyecto de las Normas en sesión ordinaria o extraordinaria del Consejo Consultivo Regional del Medio Ambiente de la región de Atacama.
+
+(ii) Establecimiento de una oficina en la Gobernación Provincial, ubicada en la comuna de Vallenar, especialmente habilitada para atención de público los martes y jueves de cada semana, con el propósito de resolver dudas sobre el proceso de consulta pública. Lo anterior, se realizará cumpliendo con las medidas de distanciamiento y sanitarias recomendadas por la autoridad competente.
+
+(iii) Implementación de la herramienta denominada "Casa Abierta" que consiste en la itinerancia, en cada una de las cuatro comunas de la provincia de Huasco, de un stand de atención al público en un sitio de acceso abierto. De esta manera, los asistentes podrán conocer los canales de participación, interactuar con personal calificado para aclarar dudas y recibir información sobre los alcances de las Normas. El lugar, fecha y horario en los que se realizarán estas actividades serán informados en el sitio web http://consultasciudadanas.mma.gob.cl. Estas instancias se realizarán cumpliendo con las medidas de distanciamiento y sanitarias recomendadas por la autoridad competente.
+
+(iv) Desarrollo de una campaña de comunicación radial sobre los principales avances alcanzados por el Programa para la Recuperación Ambiental y Social (PRAS), específicamente referidos a la elaboración de las Normas. Se considera la elaboración, grabación y emisión de frases radiales en 3 emisoras de mayor sintonía en la provincia de Huasco, con énfasis de cobertura en las comunas de Alto del Carmen, Vallenar, Freirina y Huasco. Esta campaña tiene por propósito establecer un medio de comunicación directo, no solo a nivel regional sino también comunal, para mantener a las comunidades del sector directamente informadas del proceso de participación.
+
+(v) Realización de, a lo menos, siete (7) actividades telemáticas de convocatoria abierta.
+
+(vi) Realización de actividades presenciales solo a solicitud de parte y en tanto la comuna en que se realicen se encuentre en fase 4 de la Estrategia Paso a Paso de la autoridad sanitaria.
+
+7. Las medidas señaladas fueron sociabilizadas en las reuniones de coordinación con el Comité Operativo Ampliado de las Normas y con el Consejo para la Recuperación Ambiental y Social (CRAS) de la comuna de Huasco.
+
+8. El texto del Anteproyecto de las Normas, así como su expediente y toda otra documentación pertinente, fue publicado en forma íntegra en el sitio electrónico http://consultasciudadanas.mma.gob.cl. Asimismo, un extracto del Anteproyecto de las Normas fue publicado en el Diario Oficial y en Las Últimas Noticias los días 16 de mayo de 2020 y 17 de mayo de 2020, respectivamente. Finalmente, la documentación señalada se encuentra disponible para consulta en las oficinas de la Secretaría Regional Ministerial del Medio Ambiente de la Región de Atacama, ubicadas en Calle Portales Nº 830, Copiapó. Todo lo anterior, de conformidad a lo establecido en la resolución exenta N° 310, de 2020.
+
+9. Que, atendida la existencia de elementos de juicio suficientes que justifican la necesidad de dejar sin efecto la medida provisoria de suspensión decretada mediante resolución exenta N° 310, de 2020, de este Ministerio, y habiéndose levantado las medidas de restricción de movilidad existentes al momento en que se ordenó la suspensión del procedimiento de consulta pública, se estima necesario reanudar el proceso de participación contemplado para la elaboración de las Normas Secundarias de Calidad Ambiental para la Protección de las Aguas Continentales Superficiales de la Cuenca del Río Huasco.
+
+Resuelvo:
+
+1. Poner término a la suspensión del plazo de inicio del proceso de consulta pública del Anteproyecto de las Normas Secundarias de Calidad Ambiental para la Protección de las Aguas Continentales Superficiales de la Cuenca del Río Huasco establecida en la resolución exenta Nº 310, de 2020.
+
+2. Someter a consulta pública el Anteproyecto de Normas Secundarias de Calidad Ambiental para la Protección de las Aguas Continentales Superficiales de la Cuenca del Río Huasco, aprobado mediante resolución exenta N° 310, de 17 de abril de 2020, de este Ministerio, a partir del día 16 de noviembre del año en curso.
+
+Para tales efectos:
+
+a) Remítase copia del expediente al Consejo Consultivo Regional del Medio Ambiente de la Región de Atacama y al Consejo Consultivo del Ministerio del Medio Ambiente para que emitan su opinión sobre el Anteproyecto de las Normas. Dichos Consejos dispondrán de 60 días, contados desde la recepción de la copia del expediente, para el despacho de su opinión. La opinión que emitan los consejos mencionados será fundada y en ella se dejará constancia de los votos disidentes.
+
+b) Dentro del plazo de 60 días hábiles, a partir del 16 de noviembre de 2020, cualquier persona, natural o jurídica, podrá formular observaciones al contenido del Anteproyecto de las Normas. Las observaciones deberán ser fundadas y presentadas a través de la plataforma electrónica http://consultasciudadanas.mma.gob.cl o bien, por escrito en el Ministerio del Medio Ambiente o en las Secretarías Regionales Ministeriales del Medio Ambiente correspondientes al domicilio del interesado.
+
+Anótese, publíquese, comuníquese y archívese.- Javier Naranjo Solano, Ministro del Medio Ambiente (S).
+
+Lo que transcribo para Ud. para los fines que estime pertinente.- Paulina Sandoval V., Subsecretaria del Medio Ambiente (S).
