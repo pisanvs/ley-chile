@@ -1,0 +1,7 @@
+REVOCA Y DELEGA FACULTADES
+
+Extracto de resolución exenta de la XII D.R. Punta Arenas del Servicio de Impuestos Internos N° 776, del 06.11.2020. Modifica resolutivo primero resolución Ex. N° 477, de 23.04.2013, en sentido revocar delegación facultades en funcionario encargado Opat, José Daniel Monje y en funcionaria Macarena Acuña Garay. Modifica resolutivo segundo resolución Ex. N° 788, de 03.07.2013, en sentido revocar delegación facultades en funcionario encargado Opat, José Daniel Monje y en caso impedimento o inhabilidad en abogada Macarena Acuña Garay. Delega en jefe Opat, Juan Pablo Contreras Barría y en caso impedimento o inhabilidad, en orden subrogancia, en funcionarias Marianela Triviño Téllez, Macarena Acuña Garay y Pamela Andrade Benavente, facultades contenidas en numerales 1.- y 2.- resolución Ex. N° 519, de 05.06.2009. Delega en jefe Opat, Juan Pablo Contreras Barría y en caso impedimento o inhabilidad, en orden subrogancia, en funcionarias Marianela Triviño Téllez, Macarena Acuña Garay y Pamela Andrade Benavente, facultades contenidas en resolutivo segundo resolución Ex. N° 788, de 03.07.2013.
+
+El texto íntegro de este documento está publicado en www.sii.cl.-
+
+Ana María Vargas Cárdenas, Directora Regional XII D.R. Punta Arenas.
