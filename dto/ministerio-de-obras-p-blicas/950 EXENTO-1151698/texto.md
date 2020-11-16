@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°950, de 13 de octubre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.389 y 390, para la obra: REPOSICION PAVIMENTO RUTA L-111-11, SECTOR COLBUN - PANIMAVIDA - LINARES, que figura a nombre de GALLEGOS SAEZ GUSTAVO CESAR y JARABRAN ESPINOZA ISABEL DEL C, roles de avalúo 549-119 y 549-116, Comuna de LINARES, REGION DEL MAULE, superficies 144 y 153 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 09 de noviembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $1.186.560 para el lote N°389, y $1.420.720 para el lote N°390. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
