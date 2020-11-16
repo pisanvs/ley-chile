@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 222, de fecha 13 de julio de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la I. Municipalidad de Viña del Mar, RUT 69.061.000-0, concesión marítima menor, con vencimiento el 31 de diciembre de 2029, sobre un sector de playa, en el lugar denominado Playa Blanca, comuna de Viña del Mar, Provincia y Región de Valparaíso, con una superficie total de 291,68 m, la que fue tramitada con el SIABC N° 28953. A modo referencial se señala la siguiente coordenada geográfica: Lat. 33°00'11,39"S Long. 71°33'1,18"W. El objeto consiste en "habilitar la playa para el baño y arriendo de artículos de playa durante el verano, y mantener aseo y limpieza durante todo el año". No hay obras a ejecutar, por tanto, no hay plazo contemplado para su ejecución. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Valparaíso. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Ricardo Alcaíno Trincado, Capitán de Fragata LT, Capitán de Puerto de Valparaíso.
