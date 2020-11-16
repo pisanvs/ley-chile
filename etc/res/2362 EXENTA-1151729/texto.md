@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.362 del 5 de noviembre de 2020, Serviu Región del Biobío ordenó parcial de terreno y total de edificación del inmueble ubicado en Arrau Méndez 760, Rol de Avalúo Nº 1163-27, comuna de Concepción, de aparente dominio de Patricio Ramón Peterman Sanhueza. La superficie afecta expropiación parcial de terreno de 179,92 m2 (Lote 38) y de 115,07 m2 de expropiación total de edificación (a y b), conforme a plano de expropiación S8R 38.097-1 del mes de septiembre de 2020, para la ejecución del Proyecto "Mejoramiento Paso Sobre Nivel Esmeralda y Vialidad Asociada, Concepción" comuna de Concepción, conforme artículo 51 Ley 16.391 y D.L. 2186. Comisión de Peritos, integrada por el arquitecto Mario Alexis Martínez Ortiz, por el Arquitecto Priscilla Andrea Encalada Rueda y por el Constructor Civil María Soledad Silva Hernández, según informe de fecha 26.10.2020, fijó el monto de la indemnización provisional en $33.973.331.- pagadero de contado.
+
+Director Serviu Región del Biobío.
