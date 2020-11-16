@@ -1,0 +1,7 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MAYOR
+
+Decreto supremo N° 83, de fecha 25 de febrero de 2020, del Ministerio de Defensa Nacional Subsecretaría para las Fuerzas Armadas, otorgó a Inmobiliaria Frutillar S.A., RUT N° 96.837.280-7, primera renovación de concesión marítima mayor con vencimiento el 30 de junio del año 2030, sobre un sector de playa y fondo de lago en el lugar denominado Frutillar Bajo, comuna de Frutillar, Provincia de Llanquihue, Región de Los Lagos, individualizada en la ubicación señalada en el plano N° 385/05-S con una superficie de 254,05 m2 en el sector playa y 762,65 m2 en el sector fondo de lago, la que fue tramitada con el SIABC N° 36.572. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en continuar amparando la edificación de una plataforma rectangular y semicircular sobre pilotes para la construcción sobre ella de instalaciones anexas y complementarias al centro de conciertos. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Puerto Varas. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
+
+Puerto Varas, 22 de octubre de 2020.- Arturo Aninat González, Capitán de Fragata LT, Capitán de Puerto de Puerto Varas.
