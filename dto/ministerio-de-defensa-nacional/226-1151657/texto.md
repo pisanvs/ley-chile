@@ -1,0 +1,7 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MAYOR
+
+Decreto supremo Nº226, de fecha 13 de julio de 2020 del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Empresas Oxxean S.A., RUT 79.849.900-9, segunda renovación con modificación de concesión marítima mayor, con vencimiento el 31 de diciembre de 2035, sobre un sector de terreno de playa, playa y porción de agua, en el lugar denominado Bahía Chacabuco, comuna de Aysén, Provincia de Aysén, Región de Aysén del General Carlos Ibáñez del Campo, con una superficie total de 3.517,75 m2. la que fue tramitada con los SIABC Nº34193 y Nº37647. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en amparar un terminal marítimo para la transferencia de carga y pasajeros, compuesto por un patio de maniobras con instalaciones apropiadas, un muelle mecanizado flotante, la instalación de una faja de cañerías conductoras y cuatro boyas para el amarre de naves de hasta 5000 TRG. Las obras existentes consisten en una explanada portuaria y un muelle mecanizado. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Chacabuco. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Felipe Zambrano Irribarra, Capitán de Corbeta LT, Capitán de Puerto de Chacabuco.
