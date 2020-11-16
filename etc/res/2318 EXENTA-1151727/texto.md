@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.318 del 30 de octubre de 2020, Serviu Región del Biobío ordenó la expropiación total de terreno y total de edificación del inmueble ubicado en Arrau Méndez 336 P. de Valdivia Bajo, Rol de Avalúo Nº 1128-96, comuna de Concepción, de aparente dominio de Toro Ardiles Jorge. La parte a expropiar tiene una superficie afecta expropiación total de terreno de 92,56 m2 (Lote 65) y de 129,02 m2 de expropiación total de edificación (2a y b), conforme al plano de expropiación S8R 38.110-1 del mes de agosto de 2020, para la ejecución del Proyecto "Mejoramiento Paso Sobre Nivel Esmeralda y Vialidad Asociada, Concepción", comuna de Concepción, conforme artículo 51 ley 16.391 y DL 2.186. Comisión de Peritos, integrada por el arquitecto Brogan Christopher Ulloa Pérez, por el constructor civil Ítalo Renzo Zerga Arancibia y por el ingeniero civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación en la suma de $70.572.363.- pagadero de contado.-
+
+Director Serviu Región del Biobío.
