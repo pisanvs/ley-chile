@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.482, de fecha 21 de octubre de 2020, del Serviu IV Región de Coquimbo, se modificó resolución exenta Nº 1.722, de fecha 28/12/2017, modificada por resolución exenta Nº 607 de fecha 19 de abril de 2018, ambas del Serviu Región de Coquimbo, que ordenó expropiación de Lote 16, del plano de expropiación, en el sentido de señalar en el resuelvo Nº 1 de dicha resolución, que su cabida corresponde a 197 metros cuadrados y que sus deslindes particulares son los siguientes: Nororiente: en tramo de 8,10 metros con Pasaje Chacabuco; Suroriente: en tramo de 24,50 metros con otros propietarios; Surponiente: en tramo de 8,10 metros con calle Juan Antonio Ríos; y Norponiente: en tramo de 24,60 metros con otros propietarios y no como se indicó en dicho acto.-
+
+Óscar Gutiérrez Seguel, Director Serviu Región de Coquimbo.
