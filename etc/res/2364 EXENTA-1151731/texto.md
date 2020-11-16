@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.364, del 5 de noviembre de 2020, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación de inmueble ubicado en Arrau Méndez 736, Rol de Avalúo 1163-22, comuna de Concepción, de aparente dominio de Cerda Aguayo Alexis Osvaldo. La superficie afecta expropiación es de 175,36 m2 parcial de terreno (Lote 87) y 182,89 m2 de total de edificación (a, b, c y d), conforme a plano de expropiación S8R-38141-2, del mes de agosto de 2020, para la ejecución de la obra Mejoramiento Paso Sobre Nivel Esmeralda y Vialidad Asociada, Concepción, comuna de Concepción, Región del Biobío, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Mario Alexis Martínez Ortiz, por la arquitecta Priscilla Andrea Encalada Rueda y por la constructora civil María Soledad Silva Hernández, según informe de fecha 26.10.2020, que fijó monto provisional en $53.129.584.-, pagadero de contado.-
+
+Director Serviu Región del Biobío.
