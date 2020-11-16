@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 954 de fecha 31/10/2020, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1128/2012 de Vivienda y Urbanismo, para destinarlo al proyecto "Terrenos de Asentamientos Precarios Angol, Collipullí y los Sauces", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote Nº 01-0A consistente en "Lote B ubicado en calle Cruz Nº1040, de una superficie de 101.121,86 metros cuadrados, comuna de Collipulli", Rol de avalúo 187-4, comuna de Collipullí. La superficie a expropiar aproximada es de 28.561,19 metros cuadrados, de aparente dominio de Sociedad Agrícola, Ganadera y Forestal San José Limitada. Comisión de Peritos integrada por Claudio Romo Sanhueza, Arquitecto, Constanza Miohevic González, Ingeniero Constructor y Mario Gutiérrez Truan, Arquitecto, fijó monto de Indemnización Provisional en $600.696.052, según Informe Nº 01-0A de fecha 26/10/2020, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
