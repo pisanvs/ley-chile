@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.363, del 5 de noviembre de 2020, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación de inmueble ubicado en Arrau Méndez 658 Costanera Bío Bío, Rol de Avalúo 1159-21, comuna de Concepción, de aparente dominio de Villablanca Martínez Carlos y otro. La superficie afecta expropiación es de 59,71 m2 de terreno (Lote 87) y 202,69 m2 de total de edificación (2 a, b, c y d), conforme a plano de expropiación S8R-38132-1, del mes de septiembre de 2020, para la ejecución de la obra Mejoramiento Paso Sobre Nivel Esmeralda y Vialidad Asociada, Concepción, comuna de Concepción, Región del Biobío, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Mario Alexis Martínez Ortiz, por la arquitecta Priscilla Andrea Encalada Rueda y por la constructora civil María Soledad Silva Hernández, según informe de fecha 26.10.2020, que fijó monto provisional en $54.010.510.-, pagadero de contado.-
+
+Director Serviu Región del Biobío.
