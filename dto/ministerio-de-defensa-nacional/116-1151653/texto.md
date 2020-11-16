@@ -1,0 +1,5 @@
+TRANSFERENCIA DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 116 de fecha 3 de marzo de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, correspondiente al SIABC N° 42634, se autorizó transferencia de concesión marítima menor a Alicia del Carmen Tobar Ponce, RUT N° 11.761.266-K, otorgada mediante decreto supremo N° 268 de fecha 6 de mayo de 2016, del Ministerio de Defensa, Subsecretaría para las Fuerzas Armadas, sobre un sector de Terreno de Playa, con el objeto de continuar amparando la construcción existente de una casa habitación veraniega y se encuentra ubicado en el lugar denominado Flamenco, comuna de Chañaral, Provincia de Chañaral, Región de Atacama, con vencimiento al 30 de junio de 2021. Las obras existentes corresponden a construcción de 2 pisos, de bloque y madera, radier de hormigón, cuenta con agua y luz, diseño y terminaciones económicas. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Ricardo Henríquez Kremer, Teniente Primero LT, Capitán de Puerto de Chañaral.
