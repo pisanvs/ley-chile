@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº958, de 13 de octubre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 65, para la obra: MEJORAMIENTO CBI RUTA V-860, SECTOR CRUCE RUTA V-60 (FIN PAVIMENTO)-CRUCE RUTA V-840, que figura a nombre de RUIZ NUNEZ ARSENIO MANUEL, rol de avalúo 2126-18, Comuna de PUERTO MONTT, REGIÓN DE LOS LAGOS, superficie 296 m2. La Comisión de Peritos integrada por LEOPOLDO RAMON SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA y JUAN SAMUEL BARRIENTOS BAHAMONDE, mediante informe de tasación de 29 de marzo de 2019, fijó el monto de la indemnización provisional en la cantidad de $609.000, para el lote Nº65. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
