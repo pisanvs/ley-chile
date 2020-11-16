@@ -66,6 +66,8 @@ m) Certificador de sistemas de mortalidad: persona natural o jurídica, encargad
 
 n) Entidad de muestreo: persona natural o jurídica, encargada de confeccionar un acta de levantamiento de información en terreno, que dé cuenta que las muestras o información levantada en terreno se realizaron dando fiel cumplimiento a la metodología de muestreo dictada por resolución exenta Nº 3.612 de 2009 de la Subsecretaría o la normativa que la reemplace.
 
+ñ) Certificador de estructuras de cultivo: persona natural o jurídica que cumple con los requisitos para certificar las condiciones de seguridad de los módulos de cultivo y de fondeo de los centros de cultivo intensivo de peces.
+
 ## Título II
 
 De la organización y administración
@@ -134,9 +136,11 @@ d) Entidad de análisis;
 
 e) Laboratorio de diagnóstico;
 
-f) Certificador de sistemas de mortalidad; y,
+f) Certificador de estructuras de cultivo;
 
-g) Entidad de muestreo.
+g) Certificador de sistemas de mortalidad; y,
+
+h) Entidad de muestreo.
 
 Los instrumentos de evaluación ambiental y sanitaria y las certificaciones sólo serán válidos para los efectos de la ley y sus reglamentos cuando emanen de las personas inscritas en la categoría correspondiente de acuerdo al presente reglamento, salvo en los casos en que en virtud del artículo 122 bis el Servicio elabore por sí mismo los instrumentos de evaluación ambiental a que se refiere dicha disposición. Una misma persona podrá inscribirse en más de una categoría siempre que cumpla con los requisitos exigidos en cada una de ellas, debiendo así solicitarlo al Servicio.
 
@@ -218,11 +222,23 @@ a) Contar con un título técnico de duración no inferior a cuatro semestres, r
 
 b) Contar con experiencia profesional de al menos un año, en materias de toma de muestras en terreno de sedimento en ambientes acuáticos.
 
+#### Artículo 13 (art. unico)
+
+<!-- parte:10175095 -->
+
+Los certificadores de estructuras de cultivo, deberán cumplir con los siguientes requisitos:
+
+a) Contar con título profesional de Ingeniero Naval, Ingeniero Civil Oceánico, Ingeniero en Pesca o Ingeniero en Acuicultura;
+
+b) Contar con especialización o cursos sobre diseño de sistema de balsas jaula y sistemas de fondeo, y
+
+c) Contar con experiencia de a lo menos 3 años en diseño de sistema de balsas jaula y sistemas de fondeo.
+
 ## Título IV
 
 Del procedimiento de inscripción
 
-#### Artículo 13 (art. unico)
+#### Artículo 14 (art. unico)
 
 <!-- parte:9148693 -->
 
@@ -312,19 +328,19 @@ Sin perjuicio de lo anterior, el solicitante podrá ingresar los documentos en p
 
 La veracidad de la información proporcionada es de exclusiva responsabilidad del solicitante de la inscripción.
 
-#### Artículo 14 (art. unico)
+#### Artículo 15 (art. unico)
 
 <!-- parte:9148694 -->
 
 En los casos de las categorías de entidades de análisis de las variables ambientales y de los laboratorios de diagnóstico de enfermedades de especies hidrobiológicas, además de lo señalado en el artículo anterior, deberán adjuntarse, en formato electrónico, el certificado emitido por el INN que dé cuenta de la acreditación conforme a la norma chilena 17.025:2005 o su equivalente y dos copias controladas del manual de calidad.
 
-#### Artículo 15 (art. unico)
+#### Artículo 16 (art. unico)
 
 <!-- parte:9148695 -->
 
 La solicitud de inscripción será presentada al Servicio, el que deberá revisar, en el plazo de quince días hábiles, si la solicitud cuenta con la totalidad de los antecedentes exigidos conforme a la categoría en que se solicita la inscripción. En caso de no reunir la totalidad de los antecedentes, se requerirá al solicitante para que en el plazo de veinte días hábiles complemente la solicitud. Si vencido este plazo no se han acompañado los antecedentes requeridos, la solicitud será devuelta, sin más trámite.
 
-#### Artículo 16 (art. unico)
+#### Artículo 17 (art. unico)
 
 <!-- parte:9148696 -->
 
@@ -340,7 +356,7 @@ c) cédula de identidad o RUT y domicilio del inscrito, y
 
 d) en caso de configurarse, vinculaciones constatadas conforme al artículo 21.
 
-#### Artículo 17 (art. unico)
+#### Artículo 18 (art. unico)
 
 <!-- parte:9148697 -->
 
@@ -362,7 +378,7 @@ En el caso de haberse solicitado la inscripción en más de una categoría y se 
 
 Contra la resolución que rechaza la inscripción, podrán interponerse los recursos administrativos que proceden de conformidad con la ley Nº 19.880, que establece las Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado.
 
-#### Artículo 18 (art. unico)
+#### Artículo 19 (art. unico)
 
 <!-- parte:9148698 -->
 
@@ -370,7 +386,7 @@ En los casos que al momento de la inscripción se encontrare en trámite un proc
 
 En el evento que el procedimiento respectivo implicara la configuración de una tercera infracción a la normativa de acuicultura antes señalada dentro del último año, se suspenderá la inscripción por resolución del Servicio.
 
-#### Artículo 19 (art. unico)
+#### Artículo 20 (art. unico)
 
 <!-- parte:9148699 -->
 
@@ -378,7 +394,7 @@ Tratándose de personas jurídicas, deberá acompañarse al registro copia de to
 
 Las personas jurídicas deberán comunicar al Servicio el retiro de cualquiera de sus profesionales autorizados para suscribir por ella los instrumentos de evaluación ambiental o sanitaria o las certificaciones establecidas en la ley o sus reglamentos. Mientras no se comunique dicha circunstancia al Servicio, la persona jurídica mantendrá su responsabilidad por la suscripción de los instrumentos que realice el profesional en el tiempo intermedio entre su retiro de la persona jurídica y la comunicación al Servicio.
 
-#### Artículo 20 (art. unico)
+#### Artículo 21 (art. unico)
 
 <!-- parte:9148700 -->
 
@@ -388,7 +404,7 @@ En el caso de personas jurídicas, antes de la fecha de vencimiento, deberá aco
 
 En caso que la inscripción en el registro se encuentre vencida y no se hayan cumplido los requisitos para su renovación, no se podrán suscribir los instrumentos ambientales ni sanitarios ni se podrán realizar las certificaciones establecidas en la ley y sus reglamentos para los cuales sea requisito la inscripción en el registro.
 
-#### Artículo 21 (art. unico)
+#### Artículo 22 (art. unico)
 
 <!-- parte:9148701 -->
 
@@ -398,7 +414,7 @@ Mientras se encuentre vigente la inscripción, las personas inscritas podrán so
 
 De las obligaciones de las personas inscritas en el registro
 
-#### Artículo 22 (art. unico)
+#### Artículo 23 (art. unico)
 
 <!-- parte:9148703 -->
 
@@ -422,7 +438,7 @@ h) informar oportunamente al Servicio de cualquier modificación relativa a las 
 
 i) dar cumplimiento a las obligaciones establecidas para el ejercicio de sus actividades en la ley y sus reglamentos.
 
-#### Artículo 23 (art. unico)
+#### Artículo 24 (art. unico)
 
 <!-- parte:9148704 -->
 
@@ -430,7 +446,7 @@ No se considerarán válidos para los efectos de la ley y el reglamento los inst
 
 Se entenderá por personas vinculadas las personas naturales que tengan la calidad de cónyuge o pariente hasta el tercer grado de consanguinidad y segundo de afinidad inclusive o quienes sean directores, gerentes, administradores, ejecutivos principales o liquidadores de la sociedad, así como toda entidad controlada, directa o indirectamente, por cualquiera de ellos; sus socios, si se trata de una sociedad de personas, sea que participen directamente o a través de otra persona vinculada, sea ésta natural o jurídica; las sociedades de personas que tengan uno o más socios en común, directamente o en la forma señalada precedentemente; las entidades del grupo empresarial al que pertenece la sociedad; las personas jurídicas que tengan, respecto de la sociedad, la calidad de matriz, coligante, filial o coligada a que se refiere el Título VIII de la ley Nº 18.046, sobre sociedades anónimas, y toda persona que, por sí sola o con otras con que tenga acuerdo de actuación conjunta, puede designar al menos un miembro de la administración de la sociedad o controle un 10% o más del capital o del derecho a voto.
 
-#### Artículo 24 (art. unico)
+#### Artículo 25 (art. unico)
 
 <!-- parte:10148078 -->
 
@@ -444,13 +460,13 @@ La entidad de muestreo no podrá, bajo ninguna circunstancia, realizar el análi
 
 De la suspensión y de la eliminación del registro
 
-#### Artículo 25 (art. unico)
+#### Artículo 26 (art. unico)
 
 <!-- parte:9148706 -->
 
 La inscripción se suspenderá a partir de la fecha de vencimiento de la acreditación ante el INN en los casos de las entidades de análisis y los laboratorios de diagnóstico y por el plazo que transcurra hasta que se presente al Servicio el certificado que dé cuenta de la renovación de dicha acreditación.
 
-#### Artículo 26 (art. unico)
+#### Artículo 27 (art. unico)
 
 <!-- parte:9148707 -->
 
@@ -470,7 +486,7 @@ f) No remitir al Servicio copia fidedigna de los instrumentos elaborados dentro 
 
 En los casos de los laboratorios de diagnóstico, si de conformidad con el reglamento a que se refiere el artículo 86 de la ley se obtienen resultados desfavorables en las rondas interlaboratorios o se detecta cualquier irregularidad, se suspenderá la inscripción del laboratorio afectado mientras no se identifique y corrija el error.
 
-#### Artículo 27 (art. unico)
+#### Artículo 28 (art. unico)
 
 <!-- parte:9148708 -->
 
@@ -480,7 +496,7 @@ a) Haber sido sancionado por tres infracciones a la normativa de acuicultura en 
 
 b) Incurrir en la reiteración del incumplimiento de las metodologías y procedimientos establecidos en la normativa vigente.
 
-#### Artículo 28 (art. unico)
+#### Artículo 29 (art. unico)
 
 <!-- parte:9148709 -->
 
@@ -490,7 +506,7 @@ a) Haberse puesto término al contrato para la elaboración de las INFAs encarga
 
 b) Elaborar instrumentos de evaluación ambiental o sanitaria o emitir certificaciones en los casos exigidos por la ley y sus reglamentos respecto de centros de cultivo de que sean titulares o prestar servicios de evaluación ambiental o sanitaria o de certificación destinados a centros de cultivo cuyos titulares sean personas vinculadas al inscrito en los términos del artículo 21.
 
-#### Artículo 29 (art. unico)
+#### Artículo 30 (art. unico)
 
 <!-- parte:9148710 -->
 
@@ -502,7 +518,7 @@ b) Certificar hechos inexistentes o falsos;
 
 c) Incurrir en falsificación o adulteración de documentos que sean esenciales en la evaluación ambiental o sanitaria o certificación, según corresponda.
 
-#### Artículo 30 (art. unico)
+#### Artículo 31 (art. unico)
 
 <!-- parte:9148711 -->
 
@@ -510,7 +526,7 @@ El plazo de suspensión en los casos señalados en los artículos 23, 24 y 25 se
 
 El Servicio aplicará la suspensión o eliminación de la inscripción en el registro mediante resolución fundada y previa audiencia al inscrito. Para tales efectos, se someterá, en lo que sea procedente, a las disposiciones la ley Nº 19.880 que establece las Bases de los Procedimientos Administrativos que rigen los actos de los órganos de la Administración del Estado.
 
-#### Artículo 31 (art. unico)
+#### Artículo 32 (art. unico)
 
 <!-- parte:9148712 -->
 
