@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.287, de 27 de octubre 2020, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en calle A Méndez 768, Rol de Avalúo Nº 1163-29, comuna de Concepción, de aparente dominio de Benavente Villablanca Percy Este y Otro, en una superficie de 54,31 m2 de terreno y 152,12 m2 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-38.099-2, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción" comuna de Concepción, conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Brogan Ulloa Pérez, por constructor civil Ítalo Zerga Arancibia y por ingeniero civil Orlando Paredes Vásquez, según informe de fecha 19 de octubre 2020, fijó monto provisional indemnización en $56.326.480, pagadera de contado.-
+
+Director Serviu Región del Biobío.
