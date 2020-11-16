@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 982, de 13 de octubre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº 206 de 1960, se expropió el lote de terreno Nº 4, para la obra: DISEÑO DEFINITIVO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES DE RIEGO PROYECTO FAJA MAISAN OBRA CANAL SAN ANTONIO SECTOR: DESCARGA CANAL SAN ANTONIO DERIVADO 1 PULON 1, que figura a nombre de MAYOLAFQUEN PAINEMIL PEDRO JUAN Y O, rol de avalúo 386-210, Comuna de PITRUFQUEN, REGION DE LA ARAUCANÍA, superficie 2.043 m2. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, CONSTANZA CAMILA VASQUEZ MUNOZ y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de fecha 16 de abril de 2018, fijó el monto de la indemnización provisional en la cantidad de $6.650.200.- para el lote Nº 4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
