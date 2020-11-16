@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 957, de 13 de octubre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 6, para la obra: REPOSICION PUENTE CARES, CURARREHUE, que figura a nombre de HERRERA CABEZAS MARIO RODRIGO, rol de avalúo 163-259, Comuna de CURARREHUE, REGION DE LA ARAUCANÍA, superficie 65 m2. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, YASCHALA MARIBEL YAÑEZ RIFFO y MARIA SOLEDAD NUÑEZ ARROYO, mediante informe de tasación de fecha 5 de junio de 2017, fijó el monto de la indemnización provisional en la cantidad de $436.500.- para el lote N° 6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
