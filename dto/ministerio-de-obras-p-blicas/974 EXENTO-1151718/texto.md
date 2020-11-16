@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº974, de 13 de octubre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 102-A, 102-B y 102-C, para la obra: REPOSICION PAVIMENTO RUTA 215-CH. SECTOR: LAS LUMAS - ENTRELAGOS, que figuran a nombre de SUC GOMEZ GARCES ROSA HERMINDA, roles de avalúo 2250-53, Comuna de PUYEHUE, REGIÓN DE LOS LAGOS, superficies 279, 157 y 694 m2. respectivamente. La Comisión de Peritos integrada por ANDRES ECHEVERRIA CAMPO, HANDY GHISLAINE CAMPOS SEPULVEDA y VALENTINA ANDREA CHACALTANA SIMS, mediante informe de tasación de 20 de diciembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $12.990.609, para el lote Nº102-A, $7.312.547, para el lote Nº102-B y $33.231.074, para el lote Nº102-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
