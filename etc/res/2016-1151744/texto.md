@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 2.016, de 3 de noviembre de 2020, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno N°24 para la ejecución Proyecto "Mejoramiento Avenida Ejército, Tramo Yuraszeck - Seminario, comuna de Puerto Montt", Provincia de Llanquihue, Región de Los Lagos, que figura a nombre de Sociedad Departamentos del Sur, rol de avalúo según SII N° 739-1, comuna de Puerto Montt, superficie 146,47 metros cuadrados. La comisión de peritos integrada por los Sres. Enrique Edgardo Hoelck Altmann, Raúl Palma Larrea y Leopoldo Ramón Schumacher Guarda, designados por resolución exenta N° 1.619, de 27 de agosto de 2020, fijó con fecha 9 de octubre de 2020, el valor provisional de la indemnización en la suma de $116.275.700. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del DL N° 2.186.-
+
+Director Regional Serviu Región de Los Lagos.
