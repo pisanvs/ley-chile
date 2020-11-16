@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº955, de 13 de octubre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 78 y 83, para la obra: MEJORAMIENTO CBI RUTA V-860, SECTOR CRUCE RUTA V-60 (FIN PAVIMENTO)-CRUCE RUTA V-840, que figuran a nombre de PARADA RIOS HERNAN CARLOS y ALMONACID RUIZ ENRIQUE Y OTRO, roles de avalúo 2120-21 y 2118-1, Comuna de PUERTO MONTT, REGIÓN DE LOS LAGOS, superficies 235 y 127 m2. respectivamente. La Comisión de Peritos integrada por LEOPOLDO RAMON SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA y JUAN SAMUEL BARRIENTOS BAHAMONDE, mediante informe de tasación de 09 de abril de 2019, fijó el monto de la indemnización provisional en la cantidad de $1.065.000, para el lote Nº78 y $827.000, para el lote Nº83. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
