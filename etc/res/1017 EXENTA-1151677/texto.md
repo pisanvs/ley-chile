@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución ex. N° 1.017 de fecha 06/11/2020, de Serviu Región de la Araucanía, conforme al artículo 48 y 62 Ley 19.880, se ordenó la rectificación de la resolución ex. Nº 4.018 de fecha 06/12/2019 de Serviu Araucanía, que dispuso la expropiación del Lote 01-0, por existir un error de transcripción en su resuelvo N° 1, por lo que corresponde que indique, en definitiva, lo siguiente: "Deslindes particulares Lote 01-0A a expropiar (polígono 6-9-X-Y-W-U-6), 6.152,84 metros cuadrados: Norte (vértices U-6- y 9-X): En línea recta de 48,66 metros con camino vecinal y en 55,24 metros con lote vecino; Sur (vértices Y-W): En línea recta de 104,2 metros con lote vecino; Oriente (vértices 6-9 y X-Y): En línea recta de 42 metros con lote vecino y en 39,43 metros con lote 01-0C saldo; Poniente (vértices U-W): En línea recta de 81,7 metros con lote 01-0B futura expropiación.".
+
+Director Serviu Región de la Araucanía.
