@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº954, de 13 de octubre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 66, 67 y 68, para la obra: MEJORAMIENTO CBI RUTA V-860, SECTOR CRUCE RUTA V-60 (FIN PAVIMENTO)-CRUCE RUTA V-840, que figuran a nombre de INMOBILIARIA GM SOCIEDAD ANONIMA, roles de avalúo 2126-21, Comuna de PUERTO MONTT, REGIÓN DE LOS LAGOS, superficies 275, 834 y 732 m2. respectivamente. La Comisión de Peritos integrada por LEOPOLDO RAMON SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA y JUAN SAMUEL BARRIENTOS BAHAMONDE, mediante informe de tasación de 29 de marzo de 2019, fijó el monto de la indemnización provisional en la cantidad de $365.000, para el lote Nº66, $879.000, para el lote Nº67 y $1.032.000, para el lote Nº68. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
