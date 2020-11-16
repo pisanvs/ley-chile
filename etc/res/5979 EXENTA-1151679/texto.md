@@ -1,0 +1,7 @@
+DERECHOS DE AGUA EN COMUNA DE SANTA MARÍA
+
+El Servicio Agrícola y Ganadero, mediante resolución exenta N° 5.979, de 2 de septiembre de 2020, aclara y complementa la resolución exenta N° 2.232 del 29 de octubre de 1987, aclarada y complementada por la resolución exenta N° 1.818 de 25 de junio de 1997, ambas del Servicio Agrícola y Ganadero, que aprueba el Estudio Técnico de División de Derechos de Aprovechamiento de Aguas de los Predios "Hijuela Primera o Las Casas del Fundo San José", "Hijuela Segunda o El Maitén del Fundo San José" e "Hijuela Tercera o Miraflores del Fundo San José" y del resto del Proyecto de Parcelación Chorrillos de la Comuna de Santa María, Provincia de San Felipe, Quinta Región, hoy de Valparaíso, en el sentido de expresar que el álveo de los Canales San José o Salero y Canal San Miguel, es el Río Aconcagua, Primera Sección, cuya bocatoma está en la Comuna de San Esteban y además establecer que los derechos de aguas de los Canales San José o Salero, San Miguel y del Estero San Francisco, son de carácter consuntivo, de ejercicio permanente y continuo y que son superficiales y corrientes.
+
+Publicación hecha conforme artículo 13° Ley N° 18.377.-
+
+Director Nacional.
