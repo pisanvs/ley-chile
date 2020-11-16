@@ -1,0 +1,5 @@
+RENOVACIÓN CONCESIÓN MARÍTIMA MENOR
+
+Productos Químicos Algina Sociedad Anónima, RUT 80.761.800-8, ha presentado ante la Capitanía de Tierra del Fuego, solicitud de renovación de concesión marítima menor, la que fue otorgada por decreto supremo Nº 100 del 25.02.2020, SIABC Nº 44144, sobre un sector de playa y fondo de mar, en el lugar denominado Sector al Norte de Punta Palo, Estrecho de Magallanes, comuna de Porvenir, Provincia de Tierra del Fuego, Región de Magallanes y Antártica Chilena, requiriendo una superficie total de 561,31 m2. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): Pto. A: 58º18'22,29" (S), 70º28'05,36" (W). El objeto de la concesión consiste en amparar un emisario submarino para la descarga de riles de la planta de secado y elaboración de derivados de algas marinas. Los antecedentes de la concesión se encuentran a disposición del público en la Capitanía de Puerto de Tierra del Fuego. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Francisco Ortiz Besoaín, Teniente 1° LT, Capitán de Puerto de Tierra del Fuego.
