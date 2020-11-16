@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.288, 27 de octubre de 2020, Serviu Región del Biobío ordenó expropiación total de terreno y de edificación de un inmueble ubicado en Arrau Méndez 708, Rol de Avalúo Nº 1163-18, comuna de Concepción, de aparente dominio de Iglesia Metodista Pentecostal de Chi., superficie afecta a expropiación total de terreno es de 64,92 m2 (Lote 92) y 123,24 m2 de expropiación total (a y 2b) de edificación, según Plano S8R 38.137-1, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada", comuna de Concepción, conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Brogan Ulloa Pérez, constructor civil Ítalo Zerga Arancibia y por el ingeniero civil Orlando Paredes Vásquez, según informe de fecha 19.10.2020, fijó monto provisional indemnización en $54.083.615.-
+
+Director Serviu Región del Biobío.
