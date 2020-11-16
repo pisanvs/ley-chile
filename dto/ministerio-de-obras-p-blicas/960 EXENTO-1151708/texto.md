@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°960, de 13 de octubre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.129 y 130, para la obra: MEJORAMIENTO Y CONSTRUCCION CAMINO COSTERO NORTE SECTOR BOYERUCA CRUCE RUTA J-60, que figura a nombre de PENA CORREA BERNARDITA GUADALUPE Y y DIAZ MARIA RITA Y OTRO, roles de avalúo 169-15 y 169-66, Comuna de LICANTEN, REGION DEL MAULE, superficies 7.551 y 10.044 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 09 de mayo de 2018, fijó el monto de la indemnización provisional en la cantidad de $3.397.950 para el lote N°129, y $6.519.800 para el lote N°130. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
