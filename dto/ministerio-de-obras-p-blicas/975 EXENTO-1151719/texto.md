@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°975, de 13 de octubre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.143-A1 y 143-G1, para la obra: REPOSICION PAVIMENTO RUTA M-50 SECTOR: PELLINES - CRUCE VIÑALES, que figuran a nombre de FORESTAL CELCO S A y VERGARA ACEVEDO HECTOR, roles de avalúo 476-33 y 476-134, Comuna de CONSTITUCION, REGION DEL MAULE, superficies 604 y 329 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 26 de agosto de 2019, fijó el monto de la indemnización provisional en la cantidad de $7.617.800 para el lote N°143-Al, y $2.303.000 para el lote N°143-G1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
