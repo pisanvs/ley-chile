@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.319, 30 de octubre de 2020, Serviu Región del Biobío ordenó expropiación total de terreno y de edificación de un inmueble ubicado en Arrau Méndez 718, Rol de Avalúo Nº 1163-19, comuna de Concepción, de aparente dominio de Cares Mella Elvira Ivonne, superficie afecta a expropiación total de terreno es de 103,61 m2 (Lote 93) y 134,87 m2 de expropiación total (a1, a2, b1, b2 y c) de edificación, según Plano S8R 38.138-1, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada", comuna de Concepción, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Mario Martínez Ortiz, arquitecto Priscilla Encalada Rueda y constructor civil María Silva Hernández, según informe de fecha 26.10.2020, fijó monto provisional indemnización en $28.334.230.-
+
+Director Serviu Región del Biobío.
