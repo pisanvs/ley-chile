@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 1067, de 29 de octubre de 2020, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. 264, de 25 de abril de 2019, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº 30, expropiado con motivo de la obra: MEJORAMIENTO CAMINO ITROPULLI - SAN PEDRO, RUTAS T-695 Y 699, COMUNA DE PAILLACO, PROVINCIA DE VALDIVIA, REGIÓN DE LOS RÍOS. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 18 de marzo de 2015, ascendente a la cantidad de $4.217.100, para el lote Nº 30. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
