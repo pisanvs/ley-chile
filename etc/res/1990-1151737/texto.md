@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 1.990, de 28 de octubre de 2020, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno N° 117 para la ejecución Proyecto "Mejoramiento Avenida Presidente Ibáñez de la ciudad de Puerto Montt", Provincia de Llanquihue, Región de Los Lagos que figura a nombre de Fontannaz Calderón Jorge Luis, rol de avalúo según SII N°1350-67, comuna de Puerto Montt, superficie 447,22 metros cuadrados. La comisión de peritos integrada por los Sres. Enrique Edgardo Hoelck Altmann, Raúl Palma Larrea y Leopoldo Ramón Schumacher Guarda, designados por resolución exenta N° 1.046 de 5 de abril de 2019, fijó con fecha 29 de abril de 2019 el valor provisional de la indemnización en la suma de $374.031.760. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del DL N° 2.186.-
+
+Director Regional Serviu Región de Los Lagos.
