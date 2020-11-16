@@ -1,0 +1,7 @@
+DESTINACIÓN MARÍTIMA
+
+Decreto exento N° 560 del 16 de junio de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, pone término a concesión marítima mayor otorgada por DS N° 437 de 2011, rectificado por resolución N° 3.505 de 2011, y modificado por DS N° 364 de 2014, otorgó al Ministerio de Economía, Fomento y Turismo, Servicio Nacional de Pesca y Acuicultura, RUT: 60.701.002-2, concesión marítima, con vencimiento el 31 de diciembre de 2049, sobre un sector de terreno de playa, playa, fondo de mar y uso de mejora fiscal, en el lugar denominado, Caleta Constitución (Isla Santa María), Comuna de Antofagasta, Provincia de Antofagasta, Región de Antofagasta, con una superficie de terreno de playa de 19.498,39 m2, playa 46,78 m2 y fondo de mar 290.33, la que fue tramitada con el SIABC N° 43.247. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto de esta destinación marítima en el sector otorgado consiste en amparar actividades ligadas a la pesca artesanal, de acuerdo al artículo 4° de la ley N°21.027. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Antofagasta. El presente extracto se encuentra visado por la Capitanía de Puerto antes, señalada.-
+
+Julián Aguirre Perocarpi, Capitán de Fragata LT, Capitán de Puerto de Antofagasta.
