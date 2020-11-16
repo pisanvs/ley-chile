@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP. N° 837, de 10 de septiembre de 2020, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP. N° 583, de 28 de junio de 2018, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización de los lotes de terreno N°s 32 y 32-A, expropiado con motivo de la obra: MEJORAMIENTO RUTA J-55 SECTOR: LA UNION - LOS QUEÑES, COMUNA DE ROMERAL, REGIÓN DEL MAULE. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 31 de marzo de 2015, para el lote 32 complementada por acta de 15 de junio de 2017 ascendente a la cantidad de $1.787.329.- y 01 de agosto de 2017, para el lote 32-A ascendente a la cantidad de $348.050.-
+
+Fiscalía MOP.
