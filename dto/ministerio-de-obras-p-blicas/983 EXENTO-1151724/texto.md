@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 983, de 22 de octubre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c) y 14º letra e) del DFL. MOP. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº 206 de 1960; artículo 10 de la Ley Nº 18.772, se expropió para la EMPRESA DE TRANSPORTE DE PASAJEROS METRO S.A., el lote de terreno Nº 32L7, que figura a nombre de I MUNICIPALIDAD DE QUINTA NORMAL, rol de avalúo 3231-2, Comuna de QUINTA NORMAL, REGION METROPOLITANA DE SANTIAGO, superficie 456,56 m2. La Comisión de Peritos integrada por SERGIO JEREMIAS ORDENES SALINAS, JUAN ARMANDO SALAS URZUA y PATRICIA ANGELICA MORALES RIVERA, mediante informe de tasación de fecha 18 de agosto de 2020, fijó el monto de la indemnización provisional en la cantidad de $153.373.218.- para el lote Nº32L7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
