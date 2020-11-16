@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.349, de 4 de noviembre 2020, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Arrau Méndez 644, Rol de Avalúo Nº 1159-16, comuna de Concepción, de aparente dominio de Neira Bustamente Juan Carlos y Otro, en una superficie de 52,8 m2 de terreno y 119,46 m2 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-38.127-1, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción" comuna de Concepción", conforme artículo 51 Ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por arquitecto Mario Martínez Ortiz, por arquitecto Priscilla Encalada Rueda y por constructor civil María Soledad Silva Hernández, según informe de fecha 26 de Octubre 2020, fijó monto provisional indemnización en $30.970.838, pagadera de contado.
+
+Director Serviu Región del Biobío.
