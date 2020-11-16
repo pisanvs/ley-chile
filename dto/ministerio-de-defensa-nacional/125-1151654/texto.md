@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 125, de fecha 3 de marzo de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Marina de Calafquén S.A., RUT. 96.666.760-5, primera renovación de concesión marítima menor, con vencimiento el 31 de diciembre de 2024, sobre un Sector de Playa y Fondo de Lago y uso de mejora fiscal, en el lugar denominado Lago Calafquén, Comuna de Panguipulli, Provincia de Valdivia, Región de Los Ríos, con una superficie total de 48,44 m2, la que fue tramitada con el SIABC Nº 42237. A modo referencial se señala la siguiente coordenada geográfica: 39º34'05,54"S 72º15'01,61"O. El objeto consiste en hacer usufructo de la mejora fiscal existente correspondiente a un atracadero fijo para embarcaciones menores de 25 TRG. Las obras existentes consisten en un atracadero fijo para embarcaciones menores. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Panguipulli. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Pablo Carrasco Rondanelli, Capitán de Corbeta LT, Capitán de Puerto de Panguipulli.
