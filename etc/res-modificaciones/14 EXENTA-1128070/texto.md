@@ -68,7 +68,7 @@ El Servicio evaluará los antecedentes, y tomará las medidas correspondientes, 
 
 4. Para las solicitudes de autorización por identidad, o idénticas a la sustancia activa o producto formulado ya autorizado, ingresadas bajo la resolución Nº 1.557 de 2014, que se encuentren en evaluación antes de la puesta en vigor de la presente resolución, les será aplicable la nueva vigencia de autorización establecida por la presente resolución.
 
-5. El resto de las autorizaciones definitivas, por identidad, o de idéntica sustancia activa o producto formulado; al momento de cumplirse el plazo de vigencia bajo el cual fueron autorizadas, se regirán por el nuevo plazo de vigencia una vez que se les otorgue la renovación en los términos establecidos en los numerales 25 o 35 de la resolución N° 1.557 de 2014, según corresponda.
+5. Respecto de las autorizaciones definitivas, para plaguicidas que se autorizan por identidad, o en base a una sustancia activa grado técnico equivalente, o basados en sustancias activas idénticas o productos formulados idénticos a un plaguicida ya autorizado, se entenderá que la autorización definitiva o la última renovación de autorización que se encuentren vigentes, les fue otorgada por el plazo de 10 años.
 
 6. La presente resolución entrará en vigencia con su publicación en el Diario Oficial.
 
