@@ -48,7 +48,7 @@ El ingreso de antecedentes al sistema informático de postulación en línea, en
 
 Sin perjuicio de lo anterior, si corresponde el postulante podrá continuar su proceso de postulación, acompañando en forma digital los documentos que le sean solicitados durante el proceso o requeridos en forma posterior mediante correo electrónico postulacionds49@minvuconecta.cl.
 
-Los Serviu validarán los documentos que adjunte cada postulante, debiendo pronunciarse en los casos observados, respecto de la habilidad de la postulación, a más tardar el día 20 de noviembre de 2020.
+Los Serviu validarán los documentos que adjunte cada postulante, debiendo pronunciarse en los casos observados, respecto de la habilidad de la postulación, a más tardar el día 9 de diciembre de 2020.
 
 De requerir el Serviu, mediante el correo electrónico señalado, algún documento para su revisión, el postulante deberá remitirlo por la misma vía u otro medio electrónico que se disponga al efecto, dentro de 5 días corridos. Con todo, no podrá sobrepasar la fecha indicada.
 
@@ -100,7 +100,7 @@ Sin perjuicio de lo anterior, en caso que el subsidio se destine a la adquisici�
 
 16. Los beneficiarios del presente llamado podrán aplicar el subsidio en cualquier región del país, en cuyo caso los servicios de asistencia técnica y jurídica, y el pago del subsidio, serán responsabilidad del Serviu correspondiente a la región de aplicación, conforme a los procedimientos que establece el DS Nº 49 (V. y U.), de 2011. Por lo anterior, el postulante no deberá identificar la región donde se aplicará su subsidio, conforme lo establece el segundo inciso del artículo 8 del DS Nº 49 (V. y U.), de 2011.
 
-17. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobar� la nómina de postulantes seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+17. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de postulantes seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
 18. Establécese que, transcurridos 5 días corridos a contar de la publicación en el Diario Oficial de la resolución señalada en el resuelvo anterior, los postulantes que se sientan perjudicados tendrán un plazo de 10 días corridos para presentar los reclamos a que alude el artículo 26 del DS Nº 49 (V. y U.), de 2011, mediante el Formulario de Contacto Ciudadano disponible en la página web www.minvu.cl.
 
