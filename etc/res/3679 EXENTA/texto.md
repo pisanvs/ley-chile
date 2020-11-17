@@ -38,13 +38,11 @@ o que se encuentren bajo su control.
 
 madres que han sido analizadas y encontradas
 
-libres de Citrus Tristeza Virus y Spiroplasma
+libres de Spiroplasma citri, debiéndose
 
-citri, debiéndose indicar en el Certificado
+indicar en el Certificado Fitosanitario
 
-Fitosanitario la técnica utilizada en el
-
-diagnóstico.
+la técnica utilizada en el diagnóstico.
 
 2.4 Las ramillas o púas están libres de
 
