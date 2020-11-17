@@ -1,4 +1,4 @@
-OTORGA A NOR OESTE PACIFICO GENERACION DE ENERGIA LIMITADA, CONCESION DEFINITIVA PARA ESTABLECER EN LA I REGION UNA LINEA DE TRANSPORTE DE ENERGIA ELECTRICA DE 1 x 220 kV DENOMINADA "LINEA PRINCIPAL IQUIQUE-PRINCIPAL ARICA"
+OTORGA A TRANSELEC S.A., CONCESION DEFINITIVA PARA ESTABLECER EN LA I REGION UNA LINEA DE TRANSPORTE DE ENERGIA ELECTRICA DE 1 x 220 kV DENOMINADA "LINEA PRINCIPAL IQUIQUE-PRINCIPAL ARICA"
 
 Núm. 345.- Santiago, 26 de septiembre de 2001.- Visto: Estos antecedentes y lo dispuesto en los artículos 11º y 28º del D.F.L. Nº 1, de 1982, del Ministerio de Minería, y en la ley Nº 18.410,
 
@@ -6,19 +6,19 @@ D e c r e t o:
 
 #### Artículo 1º
 
-Otórgase a Nor Oeste Pacífico Generación de Energía Limitada, Nopel, concesión definitiva para establecer en la I Región, provincias y comunas de Arica e Iquique, una línea de transporte de energía eléctrica de 1x220 kV denominada "Línea Principal Iquique-Principal Arica", según plano 800-07-01-IIET-PLN-002, láminas 01V1 a 08V1 inclusive, y plano 800-07-01-IIET-PLN-001 V1, de franja de servidumbre y distancias mínimas de construcciones.
+Otórgase a Transelec S.A., concesión definitiva para establecer en la I Región, provincias y comunas de Arica e Iquique, una línea de transporte de energía eléctrica de 1x220 kV denominada "Línea Principal Iquique-Principal Arica" hoy designada "Línea 1x220 kV Cóndores - Parinacota, según plano 800-07-01-IIET-PLN-002, láminas 01V1 a 08V1 inclusive, y plano 800-07-01-IIET-PLN-001 V1, de franja de servidumbre y distancias mínimas de construcciones.
 
 #### Artículo 2º
 
-El objetivo de esta línea es permitir una interconexión, en 220 kV, entre la Subestación Principal Iquique ubicada en Alto Hospicio, ciudad y comuna de Iquique y la Subestación Principal Arica ubicada en Arica y tendrá una longitud aproximada de 225 km.
+El objetivo de esta línea es permitir una interconexión en 220 kV entre la Subestación Principal Iquique, hoy denominada "Subestación Cóndores", ubicada en Alto Hospicio, ciudad y comuna de Iquique, y la Subestación Principal Arica, hoy denominada "Subestación Parinacota", ubicada en Arica y tendrá una longitud aproximada de 224,80 km.
 
 #### Artículo 3º
 
-El presupuesto del costo de las obras asciende a $7.220.004.000.
+El presupuesto del costo de las obras asciende a $7.220.004.000. Por su parte, el presupuesto de las obras asociadas a la "Solicitud de Modificación de decreto N° 345 Concesión Definitiva para Línea 1x220 kV Principal Iquique - Principal Arica" hoy denominada "Línea 1x220 kV Cóndores - Parinacota", asciende a la suma de $349.167.875 (trescientos cuarenta y nueve millones ciento sesenta y siete mil ochocientos setenta y cinco pesos).
 
 #### Artículo 4º
 
-Apruébase los planos de servidumbre de las instalaciones Nºs 800-07-01-IIET-CRO-001 V1 al 800-07-01-IIET-CRO-009 V1.
+Apruébase los planos de servidumbre de las instalaciones Nºs 800-07-01-IIET-CRO-001 V1 al 800-07-01-IIET-CRO-009 V1. Asimismo, apruébese los planos especiales de servidumbre LTE-COPA-A2-01 y LTE-COPA-A2-02.
 
 #### Artículo 5º
 
@@ -92,13 +92,19 @@ El plazo para la iniciación de los trabajos es de 30 días, a partir de la fech
 
 Los plazos para la terminación por etapas serán los siguientes:
 
-Etapa Descripción Meses a Accesos, replanteo y ejecución de fundaciones 4
+Etapa Descripción Meses
+
+a Accesos, replanteo y ejecución de fundaciones 4
 
 b Montaje de estructuras 4
 
 c Instalación de conductores 2
 
 d Inspección y recepción 1
+
+El plazo para la iniciación de los trabajos asociados a la "Solicitud de Modificación de decreto N° 345 Concesión Definitiva para Línea 1x220 kV Principal Iquique - Principal Arica", es de 5 días corridos, contados desde la fecha de reducción a escritura pública del decreto supremo exento modificatorio del decreto supremo N° 345, de 26 de septiembre de 2001, del Ministerio de Economía, Fomento y Reconstrucción, y el plazo para la terminación de las obras será de 11 meses a contar de la fecha de iniciación de los trabajos.
+
+El cronograma de las obras de modificación del trazado de la línea es el que se detalla a continuación:
 
 #### Artículo 11º
 
