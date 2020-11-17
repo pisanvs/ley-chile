@@ -78,7 +78,9 @@ Párrafo segundo: De la Atención Económica.
 
 El Servicio podrá otorgar, siempre que sus recursos lo permitan, las siguientes ayudas en dinero o en especies no sujetas a restitución por las causales que a continuación se indican:
 
-a) Matrimonio: Cuando el afiliado contraiga matrimonio. Si ambos contrayentes estuvieren afiliados al Servicio, cada uno tendrá derecho a invocar el beneficio en forma independiente;
+a) Matrimonio o Acuerdo de Unión Civil: Cuando el afiliado contraiga matrimonio. Si ambos contrayentes estuvieren afiliados al Servicio, cada uno tendrá derecho a invocar el beneficio en forma independiente.
+
+Procederá también, cuando el afiliado celebre un contrato de Acuerdo de Unión Civil. Si ambos contratantes estuviesen afiliados al Servicio, cada uno tendrá derecho a invocar el beneficio en forma independiente, por una única vez.
 
 b) Nacimiento: Por el nacimiento de un hijo legítimo o natural. Si ambos padres estuviesen afiliados al Servicio, podrán invocar el beneficio en forma independiente;
 
