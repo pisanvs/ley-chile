@@ -18,7 +18,7 @@ Establécense las siguientes regulaciones de importación para ramillas o púas 
 
 1.1 El material procede de un programa de producción bajo certificación oficial o de Viveros o Centros Repositorios de Germoplasma, que se encuentren bajo el control oficial del Organismo Fitosanitario Oficial (AQSIQ).
 
-1.2 El material procede de plantas madres que han sido inspeccionadas durante el último período vegetativo y analizadas utilizando técnicas o métodos de diagnóstico adecuados, y encontradas libres de Citrus Tristeza Virus (aislados no chilenos) y Candidus liberobacter asiaticus, indicando la técnica analítica utilizada en cada caso.
+1.2 El material procede de plantas madres que han sido inspeccionadas durante el último período vegetativo y analizadas utilizando técnicas o métodos de diagnóstico adecuados, y encontradas libres de Candidus liberobacter asiaticus, indicando la técnica analítica utilizada.
 
 1.3 El material procede de plantas madres que han sido inspeccionadas durante el último período de crecimiento activo y encontradas libres de Xanthomonas axonopodis pv, citri.
 
@@ -80,13 +80,13 @@ Scirtothrips citri Thripidae Thysanoptera
 
 3. Adicionalmente, el material deberá cumplir con los siguientes requisitos sanitarios que se verificarán en la inspección fitosanitaria en el puerto de ingreso:
 
-• Libre de suelo
+. Libre de suelo
 
-• Desprovisto de hojas y flores.
+. Desprovisto de hojas y flores.
 
-• Embalados en envases cerrados, resistentes a la manipulación y factibles de sellar.
+. Embalados en envases cerrados, resistentes a la manipulación y factibles de sellar.
 
-• Los materiales acompañantes destinados a amortiguar o conservar la humedad deben corresponder a materiales inertes, tales como turba, musgo esfangíneo, vermiculita, perlita o geles higroscópicos.
+. Los materiales acompañantes destinados a amortiguar o conservar la humedad deben corresponder a materiales inertes, tales como turba, musgo esfangíneo, vermiculita, perlita o geles higroscópicos.
 
 4. Cada partida será inspeccionada por el Servicio en el puerto de ingreso para la verificación física y documental de los requisitos fitosanitarios establecidos. Si durante la inspección se detectan plagas distintas a las mencionadas en esta resolución, se evaluarán mediante un Análisis de Riesgo de Plagas (ARP), y si cumplen con el criterio de Plaga Reglamentada se aplicarán las medidas fitosanitarias de manejo de riesgo, acordes con el riesgo identificado.
 
