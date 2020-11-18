@@ -98,6 +98,24 @@ iii. Condominios de Viviendas Económicas
 
 10. Los recursos disponibles para efectuar la selección de proyectos serán los siguientes:
 
+Región Monto (UF)
+
+Atacama 27.349,00
+
+Coquimbo 26.940,00
+
+Valparaíso 650.825,00
+
+Maule 160.000,00
+
+Ñuble 69.359,08
+
+Biobío 252.003,23
+
+Los Ríos 86.604,00
+
+Total 1.273.080,31
+
 La Subsecretaria de Vivienda y Urbanismo, mediante resoluciones, podrá reasignar estos recursos entre regiones a fin de garantizar la completa asignación de los subsidios del presente llamado.
 
 11. Los subsidios que se otorguen conforme al presente llamado, se imputarán a los recursos dispuestos en 2020 para las regiones de Atacama, Coquimbo, Valparaíso, Maule, Ñuble, Biobío y Los Ríos, en el Programa de Mejoramiento de Viviendas y Barrios, regulado por el DS N° 27 (V. y U.), de 2016.
