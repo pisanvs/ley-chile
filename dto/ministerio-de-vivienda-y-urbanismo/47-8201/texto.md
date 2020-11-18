@@ -22,7 +22,7 @@ DISPOSICIONES GENERALES
 
 ## Capítulo 1.
 
-NORMAS DE COMPETENCIA Y DEFINICIONES
+NORMAS DE COMPETENCIA, DEFINICIONES Y PLAZOS
 
 #### Artículo 1
 
@@ -51,6 +51,8 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 «Antena»: conjunto de elementos utilizados para emitir o recibir señales de comunicaciones, sean éstas de radio, televisión, telefonía celular o personal o cualquier otra onda o señal débil.
 
 «Anteproyecto»: presentación previa de un proyecto de loteo, de edificación o de urbanización, en el cual se contemplan los aspectos esenciales relacionados con la aplicación de las normas urbanísticas y que una vez aprobado mantiene vigentes todas las condiciones urbanísticas del Instrumento de Planificación respectivo y de la Ordenanza General de Urbanismo y Construcciones consideradas en aquél y con las que éste se hubiera aprobado, para los efectos de la obtención del permiso correspondiente, durante el plazo que señala esta Ordenanza.
+
+«Aportes al Espacio Público»: Cantidad equivalente al avalúo fiscal del porcentaje de terreno a ceder a la municipalidad respectiva que deba pagarse en dinero para reemplazar las cesiones que exige el artículo 70 de la Ley General de Urbanismo y Construcciones, o materializarse en la ejecución de estudios, proyectos, obras y medidas que tengan un valor equivalente al del aporte en dinero, en los términos establecidos en el artículo 179 de dicha ley.
 
 «Arcada, Arquería»: conjunto o serie de arcos de una construcción.
 
@@ -124,9 +126,9 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Constructor»: profesional competente que tiene a su cargo la ejecución de una obra sometida a las disposiciones de la Ley General de Urbanismo y Construcciones. Se entenderá también por «Constructor», la persona jurídica en cuyo objetivo social esté comprendida la ejecución de obras de construcción y urbanización y que para estos efectos actúe a través de un profesional competente.
 
-«Crecimiento urbano por extensión»: proceso de urbanización que incorpora nuevo suelo a un centro poblado.
+«Crecimiento urbano por extensión»: el proceso que incorpora nuevo suelo urbanizado a consecuencia de un loteo, dentro de los límites urbanos o fuera de ellos, en los casos autorizados conforme a la Ley General de Urbanismo y Construcciones.
 
-«Crecimiento urbano por densificación»: proceso de urbanización que incrementa la densidad de ocupación del suelo originado por la subdivisión predial o por aumento de su población o edificación.
+«Crecimiento urbano por densificación»: el proceso que incrementa la intensidad de ocupación del suelo, sea como consecuencia del aumento de sus habitantes, de sus ocupantes o de su edificación, dentro de los límites urbanos o fuera de ellos, en los casos autorizados conforme a la Ley General de Urbanismo y Construcciones.
 
 «Cuadra»: costado de una manzana medido entre líneas oficiales de vías vehiculares continuas.
 
@@ -220,7 +222,7 @@ a 100 personas.
 
 «Estudio de seguridad»: evaluación de las condiciones de seguridad que ofrece una construcción o un proyecto de construcción a sus posibles ocupantes, suscrito por un profesional competente.
 
-«Fachada»: cualquiera de los paramentos exteriores de un edificio.".
+«Fachada»: cualquiera de los paramentos exteriores de un edificio.
 
 «Fachada con vano»: paramento exterior de una edificación, desde el suelo natural hasta su punto más alto, que incluye entrantes y salientes, tales como puertas, ventanas, bow-windows, balcones, terrazas, azoteas, loggias, escaleras y pasillos exteriores, salvo que los vanos se ubiquen a una altura superior a 1,8 m con respecto al nivel interior del piso que sirven.
 
@@ -266,11 +268,15 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Mediana»: isla continua, realzada altimétricamente mediante soleras, que separa flujos vehiculares.
 
+«Mitigaciones directas»: Medidas u obras que conforme a lo establecido en el artículo 170 de la Ley General de Urbanismo y Construcciones, deben realizar los proyectos que conlleven crecimiento urbano por extensión o densificación y ocasionen impactos relevantes sobre la movilidad local, conforme sea definido en el respectivo Informe de Mitigación de Impacto Vial (IMIV).
+
 «Modificación de proyecto»: variantes, alteraciones o cambios que se solicite introducir a un proyecto o a una obra de construcción entre la fecha del permiso y la recepción definitiva de las obras, signifiquen o no un aumento de superficie, o cambios en la clasificación o destino de las construcciones.
 
 "Montacarga": aparato elevador, que se desplaza a lo largo de rieles guía, destinado exclusivamente al transporte de carga, provisto de una cabina, plataforma o similar, cuya botonera de control está fuera de ésta.
 
 «Monumento Nacional»: edificio, conjunto o área declarada como tal conforme a la ley Nº 17.288 sobre Monumentos Nacionales, mediante decreto del Ministerio de Educación.
+
+«Movilidad»: Conjunto de desplazamientos de personas y bienes, realizados por modos motorizados o no motorizados, para satisfacer el acceso a actividades y lugares.
 
 «Muro cortafuego»: el que cumple con la resistencia al fuego requerida según el caso, de acuerdo con el artículo 4.3.3. de esta Ordenanza.
 
@@ -286,7 +292,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Norma oficial»: DEROGADO.
 
-«Norma técnica»: la que elabora el Instituto Nacional de Normalización (INN).".
+«Norma técnica»: la que elabora el Instituto Nacional de Normalización (INN).
 
 «Norma Técnica Oficial»: la elaborada por el Instituto Nacional de Normalización, aprobada por decreto supremo.
 
@@ -325,6 +331,8 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 «Piso mecánico»: el destinado a contener exclusivamente las instalaciones de un edificio, tales como ventilaciones, equipos de aire acondicionado, extractores, estanques y maquinaria de ascensores.
 
 «Piso subterráneo»: planta o nivel de un edificio cuyos paramentos que la definen exteriormente se encuentran bajo la superficie del terreno circundante con el que están en contacto, correspondiente al suelo natural o al suelo resultante del proyecto, en caso que éste fuere más bajo que el suelo natural. Se considerará también como subterráneo aquel piso que emerge del terreno circundante en un porcentaje inferior al 50% de la superficie total de sus paramentos exteriores, aun cuando una o más de sus fachadas queden al descubierto parcial o totalmente.
+
+«Plan de inversiones en infraestructura de movilidad y espacio público»: Instrumento de nivel comunal o intercomunal, según sea el caso, que contiene una cartera de proyectos, obras y medidas incluidas en los instrumentos de planificación territorial o asociadas a éstos, debidamente priorizadas, para mejorar sus condiciones de conectividad, accesibilidad, operación y movilidad, así como la calidad de sus espacios públicos y la cohesión social y sustentabilidad urbana, referidas a áreas verdes, aceras y circulaciones peatonales, pasos para peatones, calzadas, ciclovías, luminarias y alumbrado público, soterramiento de redes, paraderos de buses, señalética, áreas de juegos infantiles, baños públicos, mobiliario urbano tales como bancos o escaños, basureros o contenedores de basura, estacionamientos de bicicletas, kioscos, pérgolas, entre otros.
 
 «Playa de mar»: la extensión de tierra que las olas bañan y desocupan alternativamente hasta donde llegan en las más altas mareas.
 
@@ -400,7 +408,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Sector»: DEROGADO.
 
-«Símbolo Internacional de Accesibilidad (SIA)»: Símbolo gráfico conforme a la NCh 3180, con silla de ruedas en blanco sobre un fondo azul, Pantone 294C.
+«Símbolo Internacional de Accesibilidad (SIA)»: "Símbolo grafico conforme a la NCh 3180, con silla de ruedas en blanco sobre un fondo azul, Pantone 294C.
 
 «Sistema automático de extinción de incendio»: conjunto formado por dispositivos y equipos capaces de detectar y descargar, en forma automática, un agente extintor de fuego en un área de incendio.
 
@@ -422,11 +430,11 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Superficie común»: superficie edificada de uso común calculada hasta el eje de los muros o línea que la separa de la superficie útil.
 
-«Superficie edificada»: superficie de una construcción calculada horizontalmente por pisos, sin incluir los vacíos, los ductos verticales y las escaleras de evacuación, medida hasta la cara exterior de los muros perimetrales.".
+«Superficie edificada»: superficie de una construcción calculada horizontalmente por pisos, sin incluir los vacíos, los ductos verticales y las escaleras de evacuación, medida hasta la cara exterior de los muros perimetrales.
 
-«Superficie servida»: superficie útil que se sirve de los sistemas de evacuación.".
+«Superficie servida»: superficie útil que se sirve de los sistemas de evacuación.
 
-«Superficie útil»: suma de la superficie edificada de las unidades que conforman un edificio, calculada hasta el eje de los muros o líneas divisorias entre ellas y la superficie común.".
+«Superficie útil»: suma de la superficie edificada de las unidades que conforman un edificio, calculada hasta el eje de los muros o líneas divisorias entre ellas y la superficie común.
 
 «Supermercado»: edificación cerrada destinada a la venta al público de productos diversos, mediante el sistema de autoservicio generalmente en una misma sala de venta.
 
@@ -458,7 +466,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Unidad funcional independiente»: la que, formando parte de una edificación colectiva, permite su utilización en forma independiente del resto de la edificación, tales como departamentos, oficinas y locales comerciales, sin perjuicio de que se acceda a ella a través de espacios de uso común.
 
-«Urbanizar»: ejecutar, ampliar o modificar cualquiera de las obras señaladas en el artículo 134 de la Ley General de Urbanismo y Construcciones que correspondan según el caso, en el espacio público o en el contemplado con tal destino en el respectivo Instrumento de Planificación Territorial o en un proyecto de loteo.
+«Urbanizar»: ejecutar, ampliar o modificar cualquiera de las obras señaladas en el artículo 134 de la Ley General de Urbanismo y Construcciones en el terreno propio, en el espacio público o en el contemplado con tal destino en el respectivo Instrumento de Planificación Territorial o en un proyecto de loteo, y fuera del terreno propio en los casos del inciso cuarto del artículo 134 de la Ley General de Urbanismo y Construcciones.
 
 «Uso de suelo»: conjunto genérico de actividades que el Instrumento de Planificación Territorial admite o restringe en un área predial, para autorizar los destinos de las construcciones o instalaciones.
 
@@ -992,7 +1000,7 @@ Sin perjuicio de lo anterior, la Dirección de Obras, en el mismo plazo de sesen
 
 ## Título 2
 
-DE LA PLANIFICACIÓN
+DE LA PLANIFICACIÓN Y DE LOS PLANES DE INVERSIONES EN INFRAESTRUCTURA DE MOVILIDAD Y ESPACIO PÚBLICO
 
 ## Capítulo 1.
 
@@ -1998,7 +2006,7 @@ Los inmuebles o zonas de conservación histórica que se declaren como tales con
 
 ## Capítulo 2.
 
-DE LAS NORMAS DE URBANIZACION
+DE LAS NORMAS DE URBANIZACIÓN Y DE LOS APORTES AL ESPACIO PÚBLICO
 
 #### Artículo 2
 
@@ -2108,6 +2116,16 @@ las obras de urbanización que corresponda
 
 ejecutar.
 
+Estándares mínimos de las obras de urbanización exigibles fuera del terreno propio
+
+#### Artículo 2
+
+2.4. Bis. Tratándose de proyectos aprobados en el área rural conforme al artículo 55 de la Ley General de Urbanismo y Construcciones desvinculados de la vialidad existente, será obligatorio que éstos se conecten con al menos una vía pública. En estos casos los estándares mínimos de las obras de urbanización de la vía de conexión, dentro y/o fuera del predio, será pavimento en tierra debidamente estabilizado y compactado, con una solución para la evacuación de aguas lluvia. La conexión mencionada podrá ser una servidumbre de tránsito.
+
+Estos proyectos deberán ejecutar las mitigaciones determinadas por el respectivo Informe de Mitigación de Impacto Vial, en los casos que proceda, conforme al artículo 1.5.1. de esta Ordenanza.
+
+En los casos a que se refieren los numerales 1, 2 y 3 del artículo 2.2.4., cuando se trate de proyectos localizados en el área urbana que estén desvinculados de la vialidad existente, los estándares mínimos de obras de urbanización exigibles fuera del terreno propio, serán la ejecución de las obras de pavimentación frente al predio, referidas al pavimento de la acera y el pavimento de la calzada hasta el eje de la calzada con un máximo de 7 m, de acuerdo a las características de la pavimentación de la vía en la cuadra en que se emplaza. Asimismo, el resto de la vía deberá contar, a lo menos, con pavimento en tierra debidamente estabilizado y compactado, con una solución para la evacuación de aguas lluvia.
+
 #### Artículo 2
 
 2.5. Para satisfacer las necesidades de áreas verdes, equipamiento, actividades deportivas y recreacionales y circulación, a que se refiere el artículo 70º de la Ley General de Urbanismo y Construcciones, en los loteos se deberá ceder gratuitamente las superficies de terreno que resulten de la aplicación de la siguiente tabla:
@@ -2165,6 +2183,90 @@ Las superficies a ceder para áreas verdes podrán disponerse de dos formas:
 1. En sentido longitudinal con respecto al espacio público siempre que su ancho no sea menor a 3 m.
 
 2. En sentido transversal con respecto al espacio público siempre que, cuando el área verde tenga sólo un frente hacia la vía pública, se cumpla la proporción entre frente y fondo que establezca el respectivo Plan Regulador Comunal o Seccional. A falta de norma expresa sobre la materia la proporción será determinada por el arquitecto del proyecto.
+
+De las cesiones gratuitas y obligatorias de los proyectos que generen crecimiento urbano por densificación
+
+#### Artículo 2
+
+2.5. Bis. Los proyectos que conlleven crecimiento urbano por densificación deberán dar cumplimiento a las cesiones de terrenos dispuestas en el artículo 70 de la Ley General de Urbanismo y Construcciones con las superficies de terreno que resulten de la aplicación de la siguiente tabla:
+
+La densidad de ocupación del proyecto se obtendrá de la siguiente fórmula: (Carga de ocupación del proyecto calculada conforme al artículo 4.2.4. de la OGUC * 10.000) / Superficie del terreno.
+
+Para efectos de esta fórmula, la superficie del terreno a considerar es la del terreno en que se emplaza el proyecto, más la superficie exterior hasta el eje del espacio público adyacente, sea éste existente o previsto en el Instrumento de Planificación Territorial, en una franja de un ancho máximo de 30 m.
+
+Para calcular el porcentaje de terreno a ceder se considerará solo el incremento de la carga de ocupación asociado a las edificaciones proyectadas, no pudiendo ser considerada la cantidad de personas que ocupaban las edificaciones existentes en el mismo terreno que se densifica, incluso si fuesen demolidas para materializar el proyecto respectivo. De igual modo, los proyectos de ampliación u otras autorizaciones o permisos que incrementen los habitantes, ocupantes o metros cuadrados construidos y recepcionados en el terreno deberán ceder solo respecto del incremento de la densidad de ocupación que representen.
+
+Las cesiones deberán materializarse en los terrenos afectos a declaratoria de utilidad pública consultados en el instrumento de planificación territorial respectivo, y sólo a falta o insuficiencia de estos, en el resto del terreno, debiendo destinarse a los fines contemplados en el artículo 70 de la Ley General de Urbanismo y Construcciones.
+
+Las superficies a ceder siempre deberán quedar conectadas con el espacio público.
+
+Las superficies a ceder para áreas verdes deberán disponerse según lo dispuesto en el inciso final del artículo 2.2.5. de esta Ordenanza.
+
+Las cesiones para equipamiento no podrán ser menores a 200 m2.
+
+Las cesiones se perfeccionarán al momento de la recepción definitiva de las obras de edificación. En caso que el proyecto consulte recepciones definitivas parciales, el propietario deberá entregar, al menos, las superficies de cesión de terrenos en forma proporcional a la superficie edificada que represente cada una de dichas partes.
+
+Tratándose de Condominios Tipo B, que consideren o no acoger simultáneamente en el mismo predio un condominio Tipo A, las cesiones que exige el artículo 70 de la Ley General de Urbanismo y Construcciones se completarán, en conformidad a la ley N° 20.841, tanto con las superficies que se incorporen al dominio nacional de uso público por estar consideradas como tales en el respectivo plan regulador, como con las superficies a ceder que se mantengan como bienes comunes del condominio. En este caso, las cesiones correspondientes a los terrenos afectos a declaratoria de utilidad pública, se perfeccionarán al momento de la recepción definitiva de las obras de urbanización.
+
+Las cesiones a que se refiere el inciso primero de este artículo serán también aplicables a los proyectos autorizados conforme al artículo 55 de la Ley General de Urbanismo y Construcciones que conlleven crecimiento urbano por densificación.
+
+Crecimiento urbano por densificación en sitios resultantes de condominios tipo B y en
+
+lotes resultantes de un loteo
+
+#### Artículo 2
+
+2.5. Bis A. Los proyectos de edificación que se presenten en sitios resultantes de
+
+condominios tipo B, con posterioridad a ser acogidos a dicho régimen, se considerarán
+
+crecimiento urbano por densificación en tanto incrementen la intensidad de ocupación de suelo,
+
+por lo que deberán dar cumplimiento a las cesiones o aportes, de conformidad al artículo 2.2.5
+
+Bis B.
+
+Asimismo, los proyectos de edificación que se presenten con posterioridad a la recepción de
+
+un loteo, con o sin construcción simultánea, en los lotes resultantes, también se considerarán
+
+crecimiento urbano por densificación en tanto incrementen la intensidad de ocupación de suelo,
+
+por lo que deberán ceder o aportar.
+
+De las formas de cumplimiento alternativo de las cesiones en los proyectos que generen crecimiento urbano por densificación
+
+#### Artículo 2
+
+2.5. Bis B. La obligación indicada en el artículo 2.2.5. Bis. también podrá cumplirse a través de un aporte en dinero equivalente al avalúo fiscal vigente del porcentaje del terreno que debería ceder, o materializarse mediante la ejecución de estudios, proyectos, obras y medidas por el mismo valor, conforme admite el inciso segundo del artículo 179 de la Ley General de Urbanismo y Construcciones. En este último caso podrá emplearse la modalidad de aportes reembolsables cuando se cumplan los requisitos que establecen los artículos 185 y 186 de la Ley General de Urbanismo y Construcciones.
+
+Límite y proyectos con beneficios urbanísticos
+
+#### Artículo 2
+
+2.5. Bis C. Las cesiones o aportes a que se refieren los artículos 2.2.5. Bis. y 2.2.5. Bis B. de esta Ordenanza no podrán exceder del 44% del total del terreno original o de su avalúo fiscal vigente, según sea el caso. Cuando los proyectos que densifiquen alcancen acumulativamente dicho porcentaje, no procederá exigir más cesiones o Aportes al Espacio Público a los proyectos u otras autorizaciones que sean presentadas ante la Dirección de Obras Municipales o ante la respectiva Municipalidad en el mismo terreno. Para efectos de este cálculo acumulativo deberán considerarse los porcentajes de terreno efectivamente cedidos gratuita y obligatoriamente y los aportes efectuados, en ambos casos anteriormente, siempre que se trate del mismo terreno.
+
+Tratándose de proyectos que incrementen el coeficiente de constructibilidad a través de beneficios urbanísticos conferidos por la Ley General de Urbanismo y Construcciones, esta Ordenanza o el instrumento de planificación territorial, el avalúo fiscal del o los terrenos sobre el cual se calculará el porcentaje a ceder para efectos del artículo 2.2.5. Bis de esta Ordenanza, se aumentará en la misma proporción del beneficio obtenido.
+
+En el caso de proyectos acogidos a Conjunto Armónico emplazados en 2 o más predios colindantes, el terreno original estará definido por el total de los terrenos en que se emplaza dicho proyecto, debiendo dar cumplimiento a las normas reguladas en los artículos 2.2.5. Bis. y 2.2.5. Bis B. como si se tratara de un solo predio. En tales casos, cuando esta obligación sea cumplida a través de un aporte en dinero, se considerará para su cálculo el avalúo fiscal de todos los terrenos involucrados.
+
+Para efectos de lo dispuesto en este y los siguientes artículos se entenderá que un proyecto se presenta en un "mismo predio" o un "mismo terreno" cuando este último no ha sido modificado por acciones como fusiones, subdivisiones, loteos, modificaciones o rectificaciones de deslindes.
+
+Pago de los Aportes al Espacio Público en dinero
+
+#### Artículo 2
+
+2.5. Bis D. Cuando los aportes que se refiere el artículo 2.2.5. Bis. B se paguen en dinero, el pago correspondiente deberá realizarse al Municipio respectivo en forma previa a la recepción definitiva parcial o total a que se refiere el artículo 144 de la Ley General de Urbanismo y Construcciones.
+
+En caso que el proyecto consulte recepciones definitivas parciales, el propietario deberá pagar el aporte proporcional a la densidad de ocupación que represente cada una de dichas partes.
+
+Tratándose de cambios de destino o modificaciones o ampliaciones del giro de una patente comercial de una propiedad que incrementen los habitantes, ocupantes o metros cuadrados construidos, los Aportes al Espacio Público deberán pagarse antes del otorgamiento de la autorización respectiva.
+
+Cumplimiento de Cesiones combinando con Aportes al Espacio Público en dinero, estudios, proyectos, obras, medidas y/o suelo
+
+#### Artículo 2
+
+2.5. Bis E. El interesado podrá dar cumplimiento a su obligación de ceder conforme a lo dispuesto en el inciso primero del artículo 2.2.5. Bis. de esta Ordenanza, combinando las cesiones de terrenos con aportes en dinero, o, en estudios, proyectos, obras y medidas, según sea el caso, conforme al artículo 179 de la Ley General de Urbanismo y Construcciones.
 
 #### Artículo 2
 
@@ -3251,6 +3353,12 @@ El plan intercomunal de inversiones en infraestructura de movilidad y espacio p�
 El mismo procedimiento se utilizará para sus modificaciones y actualizaciones. La cartera priorizada y el acto administrativo que apruebe el plan y sus modificaciones deberán publicarse en el Diario Oficial.
 
 El plan intercomunal de inversiones en infraestructura de movilidad y espacio público, deberá actualizarse periódicamente en un plazo no mayor a diez años, y cada vez que se apruebe un nuevo instrumento de planificación intercomunal.
+
+Materialización de estudios, proyectos, obras y medidas consideradas o no en los Planes Comunales e Intercomunales de Inversiones en Infraestructura de Movilidad y Espacio Público
+
+#### Artículo 2
+
+8.3. En los casos que se apruebe, expresamente o por silencio positivo, que el Aporte al Espacio Público se materialice a través de la ejecución de los estudios, proyectos, obras y medidas, de acuerdo al artículo 179 de la Ley General de Urbanismo y Construcciones, se entenderá que dichos estudios, proyectos, obras y medidas pasan a ser parte de la cartera priorizada a que se refieren los artículos precedentes.
 
 ## Título 3
 
@@ -7284,6 +7392,8 @@ Si para el mencionado cambio de destino de la edificación se requiere alterar o
 
 El Director de Obras Municipales informará favorablemente el cambio de destino, si dicho cambio cumple con el uso de suelo, las normas sobre accesibilidad universal y discapacidad que corresponda establecidas en el Capítulo 1 del Título 4, las normas de seguridad establecidas en los Capítulos 2 y 3 del mismo Título y las demás normas que para el nuevo uso señale la presente Ordenanza y el Instrumento de Planificación Territorial respectivo.
 
+En caso que el cambio de destino genere crecimiento urbano por densificación el Director de Obras Municipales deberá verificar que se haya materializado o garantizado el Aporte al Espacio Público a que se refiere el artículo 2.2.5. Bis B de esta Ordenanza, para el nuevo destino.
+
 5. Permiso de Demolición.
 
 La solicitud respectiva deberá ser firmada por el propietario, acompañando:
@@ -7934,6 +8044,12 @@ Será responsabilidad del constructor mantener en el lugar de la obra, durante t
 
 11. Firma del proyectista de cálculo estructural e informe favorable de Revisor de Proyecto de Cálculo Estructural, cuando corresponda.
 
+12. En caso de modificaciones de proyectos que cuenten con Informe de Mitigación de Impacto Vial aprobado se deberá acompañar un certificado, emitido a través del correspondiente sistema electrónico, que verifique la suficiencia de las medidas consideradas en dicho Informe para el proyecto modificado o, la certificación del silencio positivo de acuerdo al artículo 64 de la ley N° 19.880, según sea el caso. En caso que las mitigaciones directas consideradas no sean suficientes para el proyecto modificado, se deberá acompañar el comprobante de ingreso del Informe de Mitigación de Impacto Vial. En este último caso, será requisito para aprobar la modificación de proyecto que se acompañe a la Dirección de Obras la resolución que lo apruebe, o la certificación del silencio positivo de acuerdo al artículo 64 de la ley N° 19.880, según sea el caso.
+
+En los casos que se modifique un proyecto que cuente con un certificado emitido por el sistema que señale que no requirió de dicho informe, se deberá acompañar un certificado que acredite que el proyecto modificado no requiere de dicho informe. En caso contrario, se deberá acompañar el comprobante de ingreso del Informe de Mitigación de Impacto Vial. En este último caso, será requisito para aprobar la modificación de proyecto que se acompañe a la Dirección de Obras la resolución que lo apruebe o, la certificación del silencio positivo de acuerdo al artículo 64 de la ley N° 19.880, según sea el caso.
+
+En los casos de los dos párrafos precedentes el Director de Obras Municipales deberá constatar que las modificaciones cuya suficiencia verifica el certificado o se solicitó verificar, en el caso del silencio positivo, sean idénticas a las contenidas en la solicitud de modificación presentadas ante su Dirección.
+
 Una vez aprobados y para todos los efectos legales, los nuevos antecedentes reemplazarán a los documentos originales.
 
 #### Artículo 5
@@ -8232,6 +8348,10 @@ En los casos previstos en este artículo, el Director de Obras Municipales deber
 
 En los casos que la obra haya sido informada favorablemente por el Revisor Independiente o por el arquitecto proyectista, conforme al artículo 116 bis A) de la Ley General de Urbanismo y Construcciones, el Director de Obras Municipales, sin perjuicio de las verificaciones que debe efectuar de aquellos aspectos que le competen conforme al mismo artículo, con el mérito de dicho informe que declara que la obra ha sido ejecutada conforme al proyecto aprobado, recepcionará la obra, debiendo en todo caso verificar que se acompañen los certificados y demás documentos que corresponda de acuerdo al artículo 5.2.6. y que se hayan adoptado, cuando corresponda, las medidas necesarias para asegurar la transferencia de los terrenos correspondientes a cesiones gratuitas para equipamiento, al dominio municipal.
 
+En el caso de proyectos que hayan aprobado un Informe de Mitigación de Impacto Vial, se deberá ingresar la documentación que acredite la ejecución de las mitigaciones directas contenidas en la resolución que lo aprobó o la boleta bancaria o póliza de seguro en el caso que se garantice su ejecución. Cuando se hayan considerado etapas con mitigaciones parciales, deberá acreditarse su ejecución o la existencia de la boleta bancaria o póliza de seguro que garantice la respectiva etapa, en los casos que corresponda. En tal caso el Director de Obras Municipales deberá consignar en el certificado de recepción definitiva las mitigaciones directas que hubieren sido garantizadas.
+
+Lo señalado en el inciso anterior será, también, aplicable a los casos que se haya aprobado materializar los Aportes al Espacio Público en estudios, proyectos, obras y medidas conforme al inciso segundo y siguientes del artículo 179 de la Ley General de Urbanismo y Construcciones.
+
 #### Artículo 5
 
 2.6. No podrá solicitarse la recepción definitiva de una obra sino cuando se encuentre totalmente terminada, salvo el caso que sea posible aplicar dicha recepción a una sección de la obra que pueda habilitarse independientemente. Se entenderá que una obra se encuentra totalmente terminada, para los efectos de su recepción definitiva parcial o total, cuando se encuentran terminadas todas las partidas indicadas en el expediente del permiso de edificación, aún cuando existieren faenas de terminaciones o instalaciones que exceden lo contemplado en el proyecto aprobado.
@@ -8254,6 +8374,8 @@ Junto a la solicitud de recepción definitiva de la obra se acompañará el lega
 
 7. Certificados de ensaye de los hormigones empleados en la obra, de acuerdo con las normas oficiales, cuando proceda.
 
+Lo señalado en el párrafo anterior será, también, exigible cuando se haya aprobado materializar los Aportes al Espacio Público a través de estudios, proyectos, obras y medidas conforme a los incisos segundo y siguientes del artículo 179 de la Ley General de Urbanismo y Construcciones.
+
 Además, deberá acompañarse una declaración en el sentido de si ha habido o no cambios en el proyecto aprobado. Si los hubiere habido, deberán adjuntarse los documentos actualizados en los que incidan tales cambios. Si las modificaciones inciden en el proyecto de cálculo estructural, deberán adjuntarse, debidamente modificados, los documentos a que se refiere el artículo 5.1.7. Tratándose de proyectos de cálculo estructural que deben someterse a revisión conforme al artículo 5.1.25., estos documentos deberán estar visados por el Revisor de Proyecto de Cálculo Estructural.
 
 El Director de Obras Municipales, para cursar la recepción definitiva, deberá verificar la reposición de los pavimentos y obras de ornato existentes con anterioridad al otorgamiento del permiso, en el espacio público que enfrenta el predio.
@@ -8267,6 +8389,8 @@ Los antecedentes y certificaciones a que se refiere este artículo se archivará
 Tratándose de la recepción definitiva de una obra menor, se adjuntarán al expediente los certificados de recepción de las instalaciones contempladas en la obra construida, emitidos por la autoridad competente, cuando corresponda, y un informe del arquitecto proyectista o supervisor de la obra, que señale que fue construida de conformidad al permiso otorgado y a las normas de la Ley General de Urbanismo y Construcciones y de esta Ordenanza.
 
 Tratándose de la recepción definitiva de proyectos de edificación que deban registrarse en el Registro de Proyectos Inmobiliarios, el Director de Obras Municipales deberá verificar previamente la correspondencia entre los antecedentes que constan en el Certificado que acredita ese registro, y en el Certificado de modificación de dicho registro cuando proceda, y los mismos antecedentes señalados en el permiso de edificación y en la solicitud de recepción definitiva. Cuando no se adjunte dicho Certificado o cuando no haya correspondencia, la solicitud de recepción será rechazada, emitiendo el respectivo comprobante de rechazo timbrado y fechado en el que se precise la causal en que se funda este rechazo.
+
+Será requisito para cursar la recepción definitiva de los proyectos que generen crecimiento urbano por densificación que se consideren las cesiones de suelo que exige esta Ordenanza o, alternativamente, el comprobante del pago por aporte o la ejecución o garantía de los estudios, proyectos, obras y medidas aprobados conforme a los incisos segundo y siguientes del artículo 179 de la Ley General de Urbanismo y Construcciones, según sea el caso.
 
 #### Artículo 5
 
