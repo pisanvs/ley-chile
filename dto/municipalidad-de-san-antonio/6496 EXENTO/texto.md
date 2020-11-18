@@ -48,7 +48,7 @@ Cuarto: Los años transcurridos, sin presentarse movimientos en las causas de lo
 
 Decreto:
 
-1. Declararse en evidente estado de abandono los vehículos que se encuentran en el recinto de Bodegas de la Ilustre Municipalidad de San Antonio, si no fueren reclamados y retirados por sus dueños previo pago de los derechos de bodegaje respectivos, hasta las 13:00 horas del día 03/01/2020, según listado adjunto:
+1. Declararse en evidente estado de abandono los vehículos que se encuentran en el recinto de Bodegas de la Ilustre Municipalidad de San Antonio, si no fueren reclamados y retirados por sus dueños previo pago de los derechos de bodegaje respectivos, hasta las 13:00 horas del día 24/11/2020, según Listado adjunto:
 
 .
 
