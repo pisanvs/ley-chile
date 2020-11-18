@@ -1,4 +1,4 @@
-APRUEBA PROGRAMA DE EXPROPIACIONES EN LA REGIÓN DE LOS RÍOS DE INMUEBLES UBICADOS EN LA COMUNA DE VALDIVIA, DESTINADOS A LA EJECUCIÓN DEL PROYECTO "HABILITACIÓN CABEZAL PONIENTE PUENTE SEGUNDO ACCESO VALDIVIA ISLA TEJA", COMUNA DE VALDIVIA
+APRUEBA PROGRAMA DE EXPROPIACIONES EN LA REGIÓN DE LOS RÍOS DE INMUEBLES UBICADOS EN LA COMUNA DE VALDIVIA, DESTINADOS A LA EJECUCIÓN DEL PROYECTO "CONSTRUCCIÓN 2° PUENTE DE ACCESO VALDIVIA CENTRO-ISLA TEJA", COMUNA DE VALDIVIA
 
 Santiago, 13 de agosto de 2020.- Hoy se decretó lo que sigue:
 
@@ -10,11 +10,13 @@ El artículo 51 de la ley N° 16.391; el N° 1.9 de la parte I del artículo 1°
 
 Decreto:
 
-1°.- Apruébase el siguiente programa de expropiaciones para el año 2020 y siguientes, en la Región de Los Ríos, para la adquisición de los inmuebles ubicados en la Comuna de Valdivia, Región de Los Ríos, a ser destinados a la ejecución del Proyecto "Habilitación Cabezal Poniente Puente Segundo Acceso Valdivia Isla Teja", Ficha IDI N° 40005773-0, conforme al plano Planta General de Expropiaciones, comuna y provincia de Valdivia, de marzo 2020, sector Isla Teja, aprobado por Serviu en mayo del mismo año y que se singularizan a continuación:
+1°.- Apruébase el siguiente programa de expropiaciones para el año 2020 y siguientes, en la Región de Los Ríos, para la adquisición de los inmuebles ubicados en la Comuna de Valdivia, Región de Los Ríos, a ser destinados a la ejecución del Proyecto "Construcción 2° Puente de Acceso Valdivia Centro - Isla Teja, Ficha IDI N° 30100931-0, conforme al plano Planta General de Expropiaciones, comuna y provincia de Valdivia, de marzo 2020, sector Isla Teja, aprobado por Serviu en mayo del mismo año y que se singularizan a continuación:
 
 Superficie total aproximada de terrenos a expropiar: 12.742,75 metros cuadrados. Superficie total edificada a expropiar: 20 metros cuadrados.
 
 2°.- El presente decreto se publicará en el Diario Oficial y en un periódico de la Provincia de Valdivia.
+
+> **Nota.** El numeral 1° del Decreto 64 Exento, Vivienda, publicado el 18.11.2020, complementa la presente norma, que aprobó Programa de Expropiación para la ejecución del proyecto "Regeneración de conjuntos habitacionales de la Región del Libertador Bernardo O'Higgins", comuna de Rancagua, Región del Libertador General Bernardo O'Higgins, en el sentido de incorporar a dicho programa los siguientes 2 inmuebles que singulariza la citada norma.
 
 Anótese, notifíquese y publíquese.- Por orden del Presidente de la República, Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
