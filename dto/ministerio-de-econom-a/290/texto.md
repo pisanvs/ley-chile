@@ -402,8 +402,6 @@ Transcurridos los plazos indicados sin que el solicitante se hubiere sometido al
 
 Mientras se encuentren pendientes los plazos señalados en este artículo, los titulares podrán solicitar una ampliación de los mismos, no pudiendo exceder de la mitad de los plazos originalmente otorgados, de conformidad con el artículo 26 de la ley Nº 19.880.
 
-Las solicitudes de modificación del proyecto técnico se sujetarán al procedimiento señalado en los incisos precedentes.
-
 #### Artículo 14 ter
 
 En la misma carta certificada a que se refiere el artículo anterior, la Subsecretaría requerirá al solicitante para que en el plazo de tres meses contados desde la notificación, entregue lo que en cada caso se indica:
@@ -460,77 +458,35 @@ En el plazo de un mes, contado desde la entrega material, la Autoridad Marítima
 
 Eliminado.-
 
-#### Artículo 20°
+#### Artículo 20
 
-El proyecto técnico señalado en el artículo 10, letra f), como sus modificaciones, deberán ser aprobados por resolución de la Subsecretaría de Pesca y Acuicultura, debiendo, en uno u otro caso, comprender el número y dimensiones de las estructuras a instalar y un programa de producción.
+El proyecto técnico señalado en el artículo 10 letra f), deberá ser aprobado por resolución de la Subsecretaría de Pesca y Acuicultura, debiendo comprender el número y dimensiones de las estructuras a instalar y un programa de producción.
 
 Si vencido el período de vigencia del proyecto técnico, el titular de la concesión no manifiesta otra voluntad, se entenderá renovado el proyecto técnico aprobado originalmente, respecto al último año.
 
 #### Artículo 21
 
-El titular de una concesión de acuicultura podrá solicitar su modificación para incluir en ella una o más especies diferentes a las concedidas inicialmente. La Subsecretaría para las Fuerzas Armadas podrá autorizar la modificación por resolución, previo informe técnico favorable de la Subsecretaría de Pesca y Acuicultura.
+La modificación de una concesión de acuicultura deberá ser presentada al Servicio, adjuntando un nuevo proyecto técnico, el que deberá ser aprobado por la Subsecretaría y someterse a las disposiciones de este artículo.
 
-A la solicitud deberá adjuntarse un nuevo proyecto técnico, el que deberá ser aprobado por la Subsecretaría de Pesca y Acuicultura.
+Cuando el titular de una concesión de acuicultura solicite un aumento del sector otorgado, deberá presentar la solicitud y los planos indicados en el artículo 10 de este reglamento, los que deberán estar referidos a un solo sector que comprenda la nueva área total de la concesión modificada. Si la modificación consiste en una reducción del área de la concesión, deberá acompañarse al Servicio la renuncia parcial por escritura pública. En ambos casos, la Subsecretaría para las Fuerzas Armadas, de ser procedente, autorizará la modificación por resolución, previo informe técnico favorable de la Subsecretaría. Tales modificaciones se someterán al procedimiento previsto en los artículos 14, 14 bis y 14 ter, en lo que resulte aplicable.
 
-Cuando el titular de una concesión de acuicultura solicite una modificación del sector otorgado, se sujetará a lo dispuesto en la ley y la reglamentación pertinente. En estos casos, el proyecto técnico y los planos indicados en el artículo 10º de este reglamento, deberán estar referidos a un solo sector que comprenda la nueva área total de la concesión modificada, debiendo la Subsecretaría para las Fuerzas Armadas modificar sus resoluciones en el mismo sentido.
+Los aumentos de producción y/o la incorporación de especies o de un grupo de especies distinto del autorizado según lo establecido en el artículo 21 bis, requerirán solo la aprobación del proyecto técnico por parte de la Subsecretaría, y no requerirán una modificación del acto concesional por parte de la Subsecretaría para las Fuerzas Armadas. La evaluación ambiental de estos casos se someterá al procedimiento previsto en el artículo 14 bis. En el caso que la modificación de especies o grupos de especies implique un cambio en el monto de la patente única de acuicultura a ser pagada por el titular, la Subsecretaría deberá remitir una copia de la resolución que acoge la modificación a la Subsecretaría para las Fuerzas Armadas, la que deberá realizar los cargos de la patente conforme a la modificación del grupo de especies realizada.
 
-Las modificaciones indicadas en el presente artículo iniciarán su trámite ante el Servicio y se someterán al procedimiento previsto en los artículos 14, 14 bis y 14 ter.
+En los casos en que el titular de la concesión de acuicultura hubiere sometido voluntariamente una modificación de la misma al sistema de evaluación de impacto ambiental obteniendo un resultado desfavorable, no haya sido admitida a trámite o haya sido desistida, la Subsecretaría rechazará sin más trámite la solicitud de modificación, sin necesidad de formular el requerimiento de sometimiento al sistema a que se refiere el artículo 14 bis. En caso que la resolución de la Comisión de Evaluación Ambiental hubiere calificado desfavorablemente la modificación o hubiese puesto término al proceso, ordenando la elaboración de un Estudio de Impacto Ambiental, el titular deberá presentar el Estudio dentro del plazo de seis meses, contado desde la fecha de notificación de la respectiva resolución.
 
-#### Artículo 21° bis
+El titular de la concesión de acuicultura podrá cambiar la cantidad y dimensiones de las estructuras indicadas en el proyecto técnico sin necesidad de tramitar una modificación del mismo, en la medida que dicho cambio no implique superar la superficie o la producción de la concesión autorizada en el proyecto técnico, si corresponde, o en la resolución de calificación ambiental. Asimismo, los titulares de concesiones de acuicultura de macroalgas, cultivadas directamente al sustrato, podrán cambiar la densidad de cultivo contemplada en el proyecto sin necesidad de tramitar una modificación del proyecto técnico, en la medida que dicho cambio no implique superar la superficie o la producción de la concesión autorizada en el proyecto técnico, si corresponde, o en la resolución de calificación ambiental.
 
-Para los efectos del artículo 69° de la ley y los artículos 3° y 21° del presente reglamento, los peticionarios y los titulares de concesiones de acuicultura, cuando así lo estimaren, podrán solicitar el cultivo por grupo de especies. Estos comprenderán en cada caso, las especies que a continuación se especifican:
+En todos los casos previstos en este artículo, deberá darse cumplimiento a la demás normativa vigente sobre concesiones de acuicultura.
 
-a) Salmónidos:
+En el caso que la concesión de acuicultura sujeta a un trámite de modificación de la misma sea transferida, el nuevo adquirente deberá enviar directamente a la Subsecretaría el proyecto técnico a su nombre. Asimismo, si existe una Resolución de Calificación Ambiental favorable referida a la misma concesión, deberá adjuntarse la resolución que reconozca al nuevo titular. Todo lo anterior, deberá realizarse dentro del plazo de un mes contado desde la fecha de inscripción de la transferencia en el Registro de Concesiones de Acuicultura, si así no lo hiciere, se le tendrá por desistido de la solicitud de modificación, mediante resolución sin más trámite.
 
-Salmón del atlántico Salmo salar
+#### Artículo 21 bis
 
-Salmón plateado o coho Oncorhynchus kisutch
+Los solicitantes y titulares de concesiones de acuicultura, podrán solicitar el cultivo por especie o por grupos de especies hidrobiológicas. La Subsecretaría, por resolución fundada, previo informe técnico, definirá el o los grupos de especies hidrobiológicas que se podrán solicitar, en atención a las características taxonómicas o biológicas de las especies, el tipo o método de cultivo empleado u otro elemento que se estime necesario incluir.
 
-Salmón rey Oncorhynchus tschawytscha
+Los titulares de concesiones de acuicultura a quienes se les haya autorizado el cultivo de una especie perteneciente a uno de los grupos de especies hidrobiológicas que se hubieren establecido, podrán operar sobre cualquiera de dichas especies. Esto último no podrá implicar un aumento de la producción autorizada en el proyecto técnico, si corresponde, o en la resolución de calificación ambiental, ya que en tal caso se deberá tramitar la correspondiente modificación.
 
-Salmón cereza Oncorhynchus masou
-
-Salmón keta Oncorhynchus keta
-
-Salmón rosado Oncorhynchus gorbuscha
-
-Trucha arcoiris Oncorhynchus mykiss
-
-Trucha café Salmo trutta
-
-Trucha de arroyo Salvelinus fontinalis
-
-Trucha de la montaña Salvelinus leucomaenis
-
-b) Mitílidos:
-
-Cholga Aulacomya ater
-
-Chorito Mytilus chilensis
-
-Choro Choromytilus chorus
-
-c) Pectínidos:
-
-Ostión del Norte Argopecten purpursius
-
-Ostión del Sur Chlamys patagonica
-
-d) Ostreídos:
-
-Ostra chilena Ostrea chilensis
-
-Ostra del pacífico Crassostrea gigas
-
-e) Túnidos
-
-Atún aleta amarilla Thunnus albacares
-
-Atún aleta larga Thunnus alalunga
-
-Atún ojos grandes Thunnus obesus
-
-Para el cultivo de las especies no comprendidas en los grupos señalados precedentemente, éstas se deberán individualizar en el respectivo proyecto técnico y cronograma de actividades.
+Para el cultivo de especies no comprendidas en los grupos establecidos por resolución de la Subsecretaría, ellas se deberán individualizar en el respectivo proyecto técnico y cronograma de actividades.
 
 Cuando la ley se refiera a especies exóticas, se deberá emitir un informe técnico de la Subsecretaría de Pesca que fundamente la determinación de las especies que cumplen con dicha condición.
 
@@ -652,23 +608,23 @@ De la acreditación de procedencia de especies producidas en las concesiones de 
 
 #### Artículo 40°
 
-La actividad pesquera que se lleva a cabo en establecimientos de acuicultura quedará siempre excluida de las prohibiciones o medidas de administración a que se refieren el párrafo 1° del Título II de la ley, adoptadas para la misma especie en estado natural.
+Derogado.
 
 #### Artículo 41°
 
-Para la comercialización y transporte de las especies producidas en establecimientos de acuicultura o productos elaborados a partir de éstas, se acreditará su procedencia mediante facturas o guías de despacho y en casos calificados por el Servicio, éste podrá emitir guías de libre tránsito. Los documentos tributarios deberán ser visados por el Servicio. Para trasladar especies producidas en centros de cultivo, con el objeto de realizar análisis en laboratorios, el Servicio podrá otorgar permisos por plazos no superiores a un año a personas naturales.
+Derogado.
 
 #### Artículo 42°
 
-Para los efectos del transporte de las especies, producidas en establecimientos de acuicultura o productos elaborados a partir de éstas, los documentos indicados en el inciso 1° del artículo 41° del presente reglamento, tendrán una duración de 15 días.
+Derogado.
 
 #### Artículo 43°
 
-El adquirente o destinatario de las especies producidas en establecimientos de acuicultura o productos elaborados a partir de éstas, deberá conservar durante seis meses la guía de libre tránsito y exhibirla cuando le sea solicitada por la autoridad pertinente.
+Derogado.
 
 #### Artículo 44°
 
-Las guías de libre tránsito y la visación de los demás documentos señalados en el artículo 41° de este reglamento, deberán contener los siguientes datos: individualización de la persona a quien se le otorga, nombre y domicilio del adquirente y del destinatario, fecha de expedición, lugar de origen de las especies y peso o cantidad de los ejemplares.
+Derogado.
 
 #### Artículo 45°
 
