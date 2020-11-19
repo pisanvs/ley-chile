@@ -68,9 +68,9 @@ Corresponderá al Instituto de Salud Pública de Chile el control de la importac
 
 Por su parte, a los Servicios de Salud les corresponderá el control de las actividades de preparación, transporte, transferencia a cualquier título, expendio, posesión, tenencia y uso de los productos estupefacientes, dentro del territorio de su competencia.
 
-#### Artículo 5º
+#### Artículo 5°
 
-La importación, exportación, tránsito, extracción, producción, fabricación, fraccionamiento, preparación, distribución, transporte, transferencia a cualquier título, expendio, posesión y tenencia de acetorfina, cannabis, resina de cannabis, extractos y tinturas de cannabis, cetobemidona, desomorfina, etorfina, heroína y las sales de estas substancias, en su caso, estarán prohibidas en el territorio nacional. Sin perjuicio de lo anterior, en casos calificados y para fines de investigación científica, el uso de estas substancias podrá ser autorizado por el Instituto de Salud Pública de Chile, en las condiciones que determine la resolución correspondiente.
+La importación, exportación, tránsito, extracción, producción, fabricación, fraccionamiento, preparación, distribución, transporte, transferencia a cualquier título, expendio, posesión y tenencia de acetorfina, cannabis, resina de cannabis, extractos y tinturas de cannabis, cetobemidona, desomorfina, etorfina, heroína, cocaína, carfentanilo y las sales de estas substancias, en su caso, estarán prohibidas en el territorio nacional. Sin perjuicio de lo anterior, en casos calificados y para fines de investigación científica, el uso de estas substancias podrá ser autorizado por el Instituto de Salud Pública de Chile, en las condiciones que determine la resolución correspondiente
 
 Con todo, el Instituto de Salud Pública podrá autorizar y controlar el uso de cannabis, resina de cannabis, extractos y tinturas de cannabis para la elaboración de productos farmacéuticos de uso humano.
 
@@ -853,6 +853,8 @@ de piperidina(éster))
 PEPAP (1-fenetil-4-fenil-4-acetato
 
 de piperidina (éster))
+
+.
 
 Los isómeros, a menos que estén expresamente exceptuados, de los estupefacientes de esta Lista.
 
