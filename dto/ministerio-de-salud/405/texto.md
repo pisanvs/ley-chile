@@ -692,6 +692,8 @@ sus enantiomeros y
 
 mezcla racemica)
 
+.
+
 Las sales de las sustancias enumeradas en esta Lista y toda sustancia alucinógena o de efectos nocivos análogos
 
 Sustancias derivadas de la feniletilamina y dimetiltriptamina con efecto alucinógenos contenidas en todo material o preparación, en cualquier cantidad de sustancias, sales, isómeros o mezclas que se indican a continuación:
@@ -782,6 +784,8 @@ b) Derivados y análogos estructurales de la dimetiltripamina
 
 Diisopropiltriptamina (DIPT)
 
+.
+
 DROGAS: LISTA II
 
 AMFETAMINA (+-) -2-amino-1-fenilpropano y
@@ -864,11 +868,9 @@ ciclohepteno-5 il)
 
 amino] heptanoico)
 
-KETAMINA ±2-
+KETAMINA ±2-(2-clorofenil)-2-
 
-(2-clorofenil)
-
--2-(metilamino)-
+(metilamino)-
 
 ciclohexan-1-ona.
 
@@ -1288,9 +1290,7 @@ sidnona)
 
 SIBUTRAMINA ±1-(4-clorofenil)-N,
 
-N-dimetil-alfa-
-
-(2-metilpropil)-
+N-dimetil-alfa-(2-metilpropil)-
 
 Ciclobutanometanamina.
 
