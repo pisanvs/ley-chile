@@ -118,17 +118,7 @@ Se entenderá por contacto estrecho aquella persona que ha estado en contacto co
 
 Esta medida tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
 
-11. Dispóngase que las personas que ingresen al país, sin importar el país de origen, y la región de destino, deben cumplir con la medida de cuarentena por 14 días. Esta medida tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
-
-No estarán obligadas a guardar cuarentena las personas que cuenten con un resultado negativo de un Test PCR para SARS-CoV-2. Sin perjuicio de lo anterior, estas personas quedarán en un periodo de vigilancia de viajeros por los 14 días siguientes a su ingreso. En dicho periodo la autoridad sanitaria podrá solicitarles, en cualquier momento, los antecedentes de su viaje, del Test PCR presentado, y sus condiciones de salud.
-
-Para efectos de eximirse de la medida dispuesta en el primer párrafo de este numeral, el resultado del Test PCR realizado en el extranjero sólo podrá presentarse ante la autoridad sanitaria al ingresar al país, y no podrá tener una antigüedad mayor a 72 horas desde la toma de muestra.
-
-El Test PCR realizado en el extranjero, debe realizarse por un laboratorio reconocido por la autoridad sanitaria de la localidad de origen.
-
-En caso de que el Test PCR realizado en Chile reporte un resultado negativo, la persona estará autorizada para finalizar la cuarentena desde la recepción del resultado, para lo cual deberá dar cumplimiento a las instrucciones que dicte la autoridad sanitaria al respecto.
-
-Independiente de la realización o resultado del Test PCR, aquellos viajeros que tienen por lugar de destino una región distinta a la de ingreso a Chile podrán continuar con su viaje durante las primeras 24 horas después del ingreso al país en medios de transporte públicos o privados, cumpliendo con todas las medidas sanitarias que sean pertinentes.
+11. Las personas que ingresen al país desde el extranjero deberán cumplir con las medidas dispuestas en la resolución exenta Nº 997, de 2020, del Ministerio de Salud.
 
 11. Bis. Para efectos de esta resolución, se entenderá como caso sospechoso:
 
