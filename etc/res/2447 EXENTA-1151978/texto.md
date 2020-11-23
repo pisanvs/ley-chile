@@ -1,0 +1,9 @@
+APRUEBA LAS MEDIDAS DE CONSERVACIÓN Y ORDENAMIENTO ADOPTADAS POR LA COMISIÓN PARA LA CONSERVACIÓN DE LOS RECURSOS VIVOS MARINOS ANTÁRTICOS, TEMPORADA 2020-2021
+
+Por resolución exenta N° 2.447, de 17 de noviembre de 2020, de esta Subsecretaría, apruébanse las siguientes Medidas de Conservación y Ordenamiento adoptadas por la Comisión para la Conservación de los Recursos Vivos Marinos Antárticos, correspondiente a la temporada 2020-2021, en la 39° Reunión de la Comisión para la Conservación de los Recursos Vivos Marinos Antárticos, celebrada de manera virtual, desde el 27 al 30 de octubre de 2020:
+
+10-01 (2014), 10-02 (2016), 10-03 (2019), 10-04 (2018), 10-05 (2018), 10-06 (2016), 10-07 (2016), 10-08 (2017), 10-09 (2019), 10-10 (2019), 21-01 (2019), 21-02 (2019), 21-03 (2019), 22-01 (1986), 22-02 (1984), 22-03 (1990), 22-04 (2010), 22-05 (2008), 22-06 (2019), 22-07 (2013), 22-08 (2009), 22-09 (2012), 23-01 (2016), 23-02 (2016), 23-03 (2016), 23-04 (2016), 23-05 (2000), 23-06 (2019), 23-07 (2016), 24-01 (2019), 24-02 (2014), 24-04 (2017), 24-05 (2020), 25-02 (2018), 25-03 (2020), 26-01 (2019), 31-01 (1986), 31-02 (2007), 32-01 (2001), 32-02 (2017), 32-09 (2020), 32-18 (2006), 33-01 (1995), 33-02 (2020), 33-03 (2020), 41-01 (2020), 41-02 (2019), 41-03 (2020), 41-04 (2020), 41-05 (2020), 41-06 (2020), 41-07 (2020), 41-08 (2019), 41-09 (2020), 41-10 (2020), 41-11 (2020), 42-01 (2019), 42-02 (2019), 51-01 (2010), 51-02 (2008), 51-03 (2008), 51-04 (2020), 51-06 (2019), 51-07 (2016), 91-01 (2004), 91-02 (2012), 91-03 (2009), 91-04 (2011) y 91-05 (2016).
+
+El texto íntegro de las medidas antes señalas se encuentra disponible en el sitio de dominio electrónico de la Subsecretaría de Pesca y Acuicultura, www.subpesca.cl.
+
+Valparaíso, 17 de noviembre de 2020.- Román Zelaya Ríos, Subsecretario de Pesca y Acuicultura.
