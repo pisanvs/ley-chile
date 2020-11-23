@@ -112,6 +112,10 @@ Tercero: Delégase en el Jefe de la División Concesiones, la facultad de suscri
 
 36. Las resoluciones que modifiquen o dejen sin efecto cualquiera de las resoluciones de los numerales anteriores del presente artículo.
 
+37. Documentos concernientes al otorgamiento de licencias de radioaficionados, de banda local y radiocomunicación personal.
+
+38. Oficios de remisión de licencias de radioaficionados a las Secretarías Regionales Ministeriales de Transportes y Telecomunicaciones".
+
 #### Artículo cuarto
 
 <!-- parte:9334168 -->
@@ -124,11 +128,7 @@ Cuarto: Delégase en los Jefes de Departamentos de la División Concesiones, la 
 
 Quinto: Delégase en el Jefe del Departamento Servicios Públicos, la facultad de transcribir las resoluciones dictadas por el Jefe de la División Concesiones y de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
 
-1. Documentos concernientes al otorgamiento de licencias de radioaficionados, de banda local y radiocomunicación personal.
-
-2. Oficios conductores que notifiquen resoluciones dictadas por el Jefe de la División Concesiones por carta certificada.
-
-3. Oficios de remisión de licencias de radioaficionados a las Secretarías Regionales Ministeriales de Transportes y Telecomunicaciones.
+1. Oficios conductores que notifiquen resoluciones dictadas por el Jefe de la División Concesiones por carta certificada.
 
 #### Artículo sexto
 
