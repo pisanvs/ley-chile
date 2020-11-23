@@ -1,0 +1,17 @@
+ESTABLECE LÍMITE EXTRACCIÓN PARA EL RECURSO HUIRO PALO EN LA REGIÓN DE COQUIMBO
+
+Por resolución exenta N° 2.448, de 17 de noviembre de 2020, de esta Subsecretaría, establézcase, a partir del día 1° de enero de 2021, un límite de extracción diario de captura para la embarcación artesanal de 2,26 toneladas, y de 1,5 toneladas para el recolector de orilla, alguero y buzo apnea, ambos en su estado natural para el recurso Huiro Palo en el área marítima de la Región de Coquimbo, en el marco del Plan de Manejo de Algas Pardas de la misma región, observando las siguientes reglas para el control del límite de extracción:
+
+i. La captura se imputará al buzo o buzos que participaron en la actividad extractiva. En este caso, frente al consumo del valor del límite de extracción diario de la embarcación durante la jornada, ésta no podrá participar de operaciones extractivas, hasta el día siguiente. La captura efectuada por [a embarcación artesanal se imputará a la caleta base del buzo o buzos que participaron en la actividad extractiva. En este caso, frente al consumo del valor del límite de extracción diario de la embarcación durante la jornada, ésta no podrá participar de operaciones extractivas, hasta el día siguiente.
+
+En el caso recolector de orilla, alguero y buzo apnea, la captura corresponderá al alga huiro palo desprendida naturalmente y recolectada desde playa de mar, excluyéndose el alga desde pozones, la cual se imputará a la caleta base del recolector, alguero y buzo apnea. Frente al consumo del valor del límite de extracción diario, no podrá realizar la extracción ni recolección hasta el día siguiente.
+
+ii. Los pescadores artesanales que realicen actividades pesqueras extractivas sobre el recurso Huiro Palo, deberán informar sus capturas en conformidad con lo dispuesto en el artículo 63 de la Ley General de Pesca y Acuicultura, el DS N° 129 de 2013, del Ministerio de Economía, Fomento y Turismo, la resolución exenta N° 1.340 de 2020, del Servicio Nacional de Pesca y Acuicultura, y las normas que las modifiquen o reemplacen. La misma obligación tendrán las personas naturales o jurídicas que realicen actividades pesqueras de transformación de estos recursos, según corresponda.
+
+iii. Exceptúese de estas medidas a las áreas de manejo y explotación de recursos bentónicos, las Reservas Marinas, Áreas Marinas Costeras Protegidas de Múltiples Usos y los Parques Marinos, ubicadas en la Región de Coquimbo, que tengan el recurso Huiro Palo como especie principal dentro de su plan de manejo o de administración vigente.
+
+iv. El Servicio Nacional de Pesca y Acuicultura podrá establecer, mediante resolución, las medidas y los procedimientos para permitir una adecuada fiscalización del cumplimiento de las disposiciones establecidas por el presente acto administrativo. Para dichos efectos, el límite de extracción diario será controlado según los estados de humedad y factores de conversión que determine el Servicio.
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 17 de noviembre de 2020.- Román Zelaya Ríos, Subsecretario de Pesca y Acuicultura.
