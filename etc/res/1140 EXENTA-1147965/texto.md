@@ -54,7 +54,7 @@ De requerir el Serviu, mediante el correo electrónico señalado, algún documen
 
 Sin perjuicio de lo señalado, el Minvu podrá realizar consultas directas a las instituciones que validan requisitos de postulación o que acreditan los factores para la obtención de puntaje, no siendo exigidas las certificaciones en caso que éstas sean verificadas con los organismos correspondientes.
 
-Para desistirse de la postulación al presente llamado los postulantes podrán ingresar al formulario de solicitud de postulación y eliminarla hasta el día 15 de noviembre de 2020.
+Para desistirse de la postulación al presente llamado los postulantes podrán ingresar al formulario de solicitud de postulación y eliminarla hasta el día 9 de diciembre de 2020.
 
 5. Para la selección, se realizará un proceso de revisión de los factores de puntaje que presenta cada postulante, tanto los indicados en el artículo 24 del DS Nº 49 (V. y U.), de 2011, como los señalados en la presente resolución, determinando una primera prelación. Los postulantes que se encuentren dentro de corte de puntaje para resultar seleccionados, y que sean inhábiles por tener pendiente la acreditación del cumplimiento de requisitos, serán contactados de la forma que señala el Resuelvo anterior, pudiendo en caso que no se obtenga respuesta, avanzar con el mismo procedimiento de prelación hasta conformar la lista definitiva de postulantes a seleccionar.
 
