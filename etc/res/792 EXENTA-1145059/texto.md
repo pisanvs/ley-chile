@@ -26,7 +26,13 @@ Resolución:
 
 - Primera Selección: cierre el 19 de junio de 2020.
 
-- Segunda Selección: cierre el 12 de noviembre de 2020.
+- Segunda Selección:
+
+a. cierre del proceso: 19 de noviembre de 2020.
+
+b. cierre del proceso de evaluación de los proyectos (presupuestos): 15 de diciembre de 2020.
+
+Además, el Serviu podrá solicitar a los PSAT que ingresen el expediente con los proyectos (presupuestos), desde la fecha de tramitación de esta resolución.
 
 3. La postulación será de carácter individual y el subsidio podrá ser aplicado en alguna de las siguientes modalidades:
 
@@ -34,11 +40,9 @@ Resolución:
 
 3.2. Ser destinado hasta en un 60% a la compra de materiales de construcción, mediante la tarjeta habilitada para tales efectos, y hasta en un 40% para el pago de los servicios de construcción o mano de obra.
 
-4. El monto de recursos destinados para este llamado será de 587.114 UF y el número de proyectos seleccionados alcanzará hasta la cantidad de subsidios susceptibles de ser financiados con los recursos disponibles, incluidos los servicios de Asistencia Técnica que correspondan para cada selección. La distribución regional de estos recursos es la siguiente:
+4. El monto destinado para este llamado será de 318.577 UF y el número de proyectos seleccionados alcanzará hasta la cantidad de subsidios susceptibles de ser financiados con los recursos disponibles, incluidos los servicios de Asistencia Técnica que corresponden. La distribución regional de estos recursos es la siguiente:
 
 .
-
-No obstante, si la cantidad de postulaciones a la fecha del cierre del llamado es inferior a la cantidad de subsidios susceptibles de ser financiados con los recursos dispuestos en esta resolución, la División de Política Habitacional podrá realizar una redistribución del saldo de estos recursos para destinarlos a otros llamados del mismo programa.
 
 5. La tipología de proyecto posible de atender mediante este llamado corresponderá a Proyectos de Habitabilidad de la Vivienda que tengan relación con obras de reparación de la envolvente de la vivienda. Esto es, el arregle necesario de la cubierta para asegurar la estanquidad de ésta frente a agentes externos como agua y viento. Otras partidas posibles de considerar corresponden a la incorporación de canaletas, forros, bajadas de aguas lluvia, entre otros elementos relevantes.
 
@@ -62,11 +66,7 @@ El beneficiario arrendatario no podrá requerir al arrendador al pago de las mej
 
 7.5. En el caso de sucesiones, solo podrá postular un integrante de esta y siempre que no cuente con una segunda propiedad con destino habitacional.
 
-7.6. El ahorro mínimo exigido para postular a este llamado será de 1 UF. Dicho ahorro será depositado en una cuenta de ahorro, el que se aplicará al pago de los Servicios de Asistencia Técnica. Si el postulante seleccionado no cuenta con el referido ahorro, no podrá postular. Las familias autorizarán al PSAT a girar dicho ahorro para el pago de la primera parte de los Servicios de Asistencia Técnica prestados, referidos a la Organización de la Demanda, y Postulación, una vez que el proyecto sea seleccionado y previa autorización de Serviu. Para el pago de los Servicios de Asistencia Técnica, no se exigirá la presentación de una Boleta de Garantía por parte del PSAT.
-
-Dicho ahorro deberá ser depositado por las familias que resulten seleccionadas en una cuenta especial que el Serviu destine al efecto. Los depósitos deberán efectuarse en dicha cuenta entre el día lunes y hasta el día miércoles de la semana posterior a la fecha de publicación en el Diario Oficial de la resolución de selección. Si el postulante seleccionado, no efectúa el depósito en esas fechas se entenderá que el ahorro no fue enterado y será excluido de la nómina de selección, según lo señalado en el Artículo 11 del DS N° 255 (V. y U.) de 2006. En caso de liberarse recursos producto de esta exclusión, el Seremi podrá efectuar una selección complementaria, con las familias no beneficiadas, respetando el orden de prelación establecido.
-
-Con los recursos depositados en la forma indicada en el inciso anterior, el Serviu efectuará el primer pago de 1 UF al PSAT por los Servicios de Asistencia Técnica prestados al postulante mediante transferencia bancaria. Para el pago de la Asistencia Técnica, no se exigirá la presentación de una Boleta de Garantía por parte del PSAT.
+7.6. Para la primera selección de este llamado, dicho ahorro deberá ser depositado por las familias que resulten seleccionadas en una cuenta especial que el Serviu destine al efecto. Los depósitos deberán efectuarse en dicha cuenta desde el lunes hasta el miércoles de la semana posterior a la fecha de publicación en el Diario Oficial de la resolución de la primera selección. Si el postulante seleccionado no efectúa el depósito en esas fechas se entenderá que el ahorro no fue enterado y será excluido de la nómina de selección, según lo señalado en el artículo 11 del DS Nº 255 (V. y U.) de 2006. Estas exclusiones en el caso de la primera selección, o, en general, si existen renuncias al subsidio dentro del año de este llamado, serán sancionadas por resolución de la Seremi excluyendo a dichas familias de la selección, pudiendo efectuarse una selección complementaria con los recursos que sean liberados con dichos subsidios, respetando el orden de prelación establecido.
 
 7.7. Para proceder a la selección del llamado se aplicarán los factores de puntajes señalados en la letra a) del artículo 28 del DS Nº 255 (V. y U.), de 2006, y será por estricto orden de prelación hasta completar los recursos asignados a la región.
 
@@ -149,6 +149,8 @@ Los establecimientos en los cuales podrán ser adquiridos los materiales de cons
 12.3. Generar una boleta o factura a nombre del beneficiario, con el detalle y monto unitario de cada uno de los materiales vendidos.
 
 12.4. Registrar en el sistema informático del Minvu los datos de la venta realizada y, con ello, imprimir en forma inmediata el comprobante que le entregará el sistema informático con los datos de la operación y un código de validación de la misma, el cual deberá ser firmado por el beneficiario y por la persona que realiza la venta de los materiales y herramientas.
+
+Si existiesen problemas con la impresión del comprobante de validación de la compra que genera el sistema computacional, el Serviu podrá solicitar al Minvu la información de dicha operación, según lo registrado en el sistema.
 
 12.5 Para efectuar el cobro a Serviu de boletas o facturas que digan relación con la venta de los materiales o servicios que se realicen mediante una modalidad no presencial, tales como compra telefónica o por internet, el proveedor de materiales de construcción deberá presentar los siguientes documentos:
 
