@@ -162,13 +162,13 @@ c) Colaborar en la evaluación del avance y cumplimiento de las políticas, plan
 
 d) Coordinar las acciones vinculadas al deporte y el fomento de la actividad física que los Ministerios y los servicios públicos desarrollen en sus respectivos ámbitos de competencia, considerando las distintas perspectivas regionales y comunales en su implementación.
 
-### II. División de Alto Rendimiento y Deporte de Competición
+e) Asesorar al (la) Ministro(a) en la función de proponer políticas y planes destinados al desarrollo del deporte de alto rendimiento, tanto convencional como adaptado.
 
-a) Asesorar al(la) Ministro(a) en la función de proponer políticas y planes destinados al desarrollo del deporte de alto rendimiento, tanto convencional como adaptado.
+f) Colaborar en la formulación de programas y acciones destinados a la detección y proyección de atletas de alto rendimiento, convencional y paralímpico.
 
-b) Colaborar en la formulación de programas y acciones destinados a la detección y proyección de atletas de alto rendimiento, convencional y paralímpico.
+g) Presentar al Ministro(a) las medidas para fortalecer las ciencias del deporte en las etapas de detección, proyección, desarrollo y rendimiento de los atletas.
 
-c) Presentar al Ministro(a) las medidas para fortalecer las ciencias del deporte en las etapas de detección, proyección, desarrollo y rendimiento de los atletas.
+### II. Derogado
 
 ### III. División de Infraestructura Deportiva
 
