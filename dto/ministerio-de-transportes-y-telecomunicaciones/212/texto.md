@@ -76,6 +76,8 @@ La inscripción en el Registro Nacional de cada uno de los servicios mencionados
 
 Los interesados en prestar servicios interurbanos deberán presentar su solicitud ante cualquier Secretario Regional. En el caso de servicios urbanos y de servicios rurales que se presten íntegramente dentro de una región, los interesados deberán presentar la solicitud al Secretario Regional competente y, en el caso de servicios rurales que excedan el ámbito geográfico de una región, en la región correspondiente al domicilio del interesado. El Secretario Regional se entenderá, para todos los efectos, sólo con quien haya presentado la solicitud o quien le suceda, salvo cuando corresponda a la autoridad de transportes suspender o cancelar de oficio servicios o vehículos del Registro Nacional por hechos infraccionales debidamente comprobados conforme lo señalado en el artículo 88° o por antecedentes que sin tener ese carácter obren en su poder, tales como, solicitud de reemplazo de un vehículo inscrito cuando proceda y pérdida de eficacia del título que habilita a destinar un vehículo al servicio.
 
+Se entenderá que el propietario de un vehículo inscrito bajo la modalidad de taxis -a excepción de los taxis colectivos- es el responsable del servicio; en caso de cambio de propietario, el nuevo responsable del servicio lo será a contar de la fecha de inscripción de dicha modificación en el Registro Nacional de Vehículos Motorizados o el que en el futuro lo reemplace.
+
 En la solicitud de inscripción deberá especificarse la información requerida en el presente reglamento y adjuntarse los siguientes antecedentes:
 
 A. Antecedentes del interesado:
@@ -92,17 +94,23 @@ e) constancia de la existencia de un título que lo habilita a destinar los veh�
 
 f) Declaración jurada suscrita por quien solicita la inscripción, en el sentido de conocer la obligación de constituir garantías de correcta y fiel prestación del servicio y de contar con patrimonio suficiente para ello, de conformidad a las normas del presente reglamento, cuando éstas sean exigibles.
 
+g) nombre o razón social, según corresponda, nombre de fantasía o de uso comercial, en caso de tenerlo, domicilio y dirección de correo electrónico del interesado en prestar el servicio.
+
 B. Antecedentes relativos a los vehículos:
 
-a) Certificado de Inscripción o de Anotaciones Vigentes en el Registro de Vehículos Motorizados, otorgado por el Servicio de Registro Civil e Identificación, y
+a) Certificado de Inscripción o de Anotaciones Vigentes en el Registro de Vehículos Motorizados, otorgado por el Servicio de Registro Civil e Identificación.
 
-b) fotocopia del Certificado de Revisión Técnica, vigente.
+b) fotocopia del Certificado de Revisión Técnica, vigente; y
+
+c) copia del permiso de circulación vigente. Dicho antecedente deberá ser actualizado anualmente, entregándolo dentro del mes siguiente a la obtención del referido permiso, ya sea que se haya pagado en una o dos cuotas, o según se establezca en la normativa aplicable.
 
 Los Secretarios Regionales podrán eximir al solicitante de acompañar dichos antecedentes si pueden obtener la información antes señalada por otros medios.
 
 C. Antecedentes relativos a los conductores:
 
-Para cada servicio deberá adjuntarse una nómina de los choferes, cuando corresponda.
+Para cada servicio deberá adjuntarse una nómina de los choferes, acompañada de copias de las licencias de conductor respectivas, por ambos lados y vigentes.
+
+Los Secretarios Regionales podrán eximir al interesado de acompañar la licencia de conductor si pueden obtenerla por otros medios.
 
 D. Antecedentes relativos al servicio:
 
@@ -153,6 +161,8 @@ Las frecuencias a que alude el punto ii) anterior son aquellas que el interesado
 a.2) Servicios urbanos de transporte público prestados con taxis básicos o taxis de turismo:
 
 - En las comunas donde sea exigible el uso de taxímetro, se deberá indicar su marca, modelo y código de fabricación.
+
+- En caso de utilizar mecanismos tecnológicos para el cálculo de la tarifa, se deberá indicar el o los nombres de los mismos. Una vez inscrito, la utilización de dicho mecanismo deberá sujetarse a lo dispuesto en el artículo 80º del presente reglamento.
 
 - Sólo en el caso de uso de radiocomunicación:
 
@@ -446,9 +456,11 @@ El responsable del servicio estará obligado a proporcionar al Secretario Region
 
 En el interior de los vehículos de transporte público de pasajeros, deberá portarse los siguientes letreros:
 
-a) en la parte superior delantera uno de 20 cm de largo por 10 cm de ancho, de fondo blanco y letras negras, que indique el nombre de la persona o entidad inscrita en el Registro Nacional, como asimismo el nombre y domicilio del representante legal o administrador, según corresponda, y
+a) en la parte superior delantera uno de 20 cm de largo por 10 cm de ancho, de fondo blanco y letras negras, que indique el nombre de la persona o entidad inscrita en el Registro Nacional, como asimismo el nombre y domicilio del representante legal o administrador, según corresponda;
 
-b) en un lugar visible para los pasajeros uno con la leyenda "Para cualquier reclamo o denuncia dirigirse a:", precediendo al número telefónico y dirección de la Secretaría Regional en que se haya inscrito el servicio, donde los pasajeros podrán efectuar las denuncias por incumplimiento de los contratos de transporte o irregularidades que se presenten durante la prestación del servicio.
+b) en la parte delantera del vehículo, en un lugar visible para los pasajeros, en ambos pisos si correspondiera, uno con la leyenda: "Para cualquier denuncia o reclamo, ingrese a www.mtt.gob.cl y/o diríjase a la Secretaría Regional más cercana. No olvide indicar la placa patente del vehículo y la fecha y lugar del hecho denunciado.". Deberá indicarse, además, en el referido letrero, el número telefónico y dirección de la Secretaría Regional en que se haya inscrito el servicio, y
+
+c) uno con fondo blanco con las letras y números en color negro, indicando la placa patente única del vehículo. Tratándose de buses, trolebuses, taxibuses y minibuses, dicho letrero deberá ser de 18 cm de largo por 6,5 cm de ancho; y en el caso de taxis, en cualquiera de sus modalidades, deberá ser de 10 cm de largo por 5 cm de ancho. El letrero debe ubicarse al costado del descrito en la letra b) anterior.
 
 #### Artículo 30 bis
 
@@ -538,7 +550,7 @@ La prestación de servicios con vehículos impedidos de hacerlo podrá ser sanci
 
 Para los efectos del presente decreto, se entiende que está impedido para prestar servicios el vehículo no inscrito en el Registro Nacional; el que preste un servicio público en una modalidad o en una forma distinta a aquella para la cual está inscrito; el que, al prestar servicio, utiliza vías concesionadas sin estar facultado para ello o distintas a las autorizadas y el que presta servicio con contravención a una disposición sobre restricción a la circulación vehicular dictada de conformidad con el artículo 118 de la Ley 18.290 o sobre antigüedad máxima de los vehículos, aplicable. La prestación de servicios con vehículos impedidos constituye para efectos del artículo 3° de la ley 18.287, infracción de tránsito.
 
-Los vehículos que se encuentren en esta situación serán retirados de la circulación por Carabineros de Chile, poniéndolos a disposición del tribunal competente en los lugares habilitados por las Municipalidades para tal efecto. Sin perjuicio del retiro del vehículo, cuando proceda, el certificado de inscripción del servicio al que aquel esté adscrito en el Registro Nacional, se pondrá a disposición del Tribunal de Policía Local correspondiente al momento de formular la denuncia.
+Los vehículos que se encuentren en esta situación serán retirados de la circulación por Carabineros de Chile o Inspectores Fiscales, poniéndolos a disposición del tribunal competente en los lugares habilitados por las Municipalidades para tal efecto. Sin perjuicio del retiro del vehículo, cuando proceda, el certificado de inscripción del servicio al que aquel esté adscrito en el Registro Nacional, se pondrá a disposición del Tribunal de Policía Local correspondiente al momento de formular la denuncia.
 
 ### 2. Del transporte colectivo urbano
 
@@ -800,7 +812,7 @@ Las empresas que efectúen servicios interurbanos deberán anunciar a los usuari
 
 Dicho anuncio se hará mediante carteles o pizarras colocadas en un lugar visible de las oficinas de venta de pasajes y se expresarán en dígitos de las siguientes dimensiones mínimas: 2 cm de alto; 1,5 cm de ancho y 4 mm de trazo.
 
-Los vehículos con que se presten estos servicios deberán mantener en el interior, en un lugar visible para los pasajeros, un cartel con los horarios de partida y llegada del servicio y otro con las tarifas correspondientes al servicio que efectúan y a los diversos tramos de dicho servicio.
+Asimismo, en los vehículos con que se presten estos servicios se deberá colocar en el costado derecho del parabrisas (costado opuesto del conductor), un cartel que indique el horario de partida y destino del servicio, el que deberá ser visible para los usuarios desde el exterior del vehículo. Dicho letrero deberá mantenerse en el vehículo al menos hasta la hora de inicio del servicio.
 
 Además, en los servicios que consulten paradas entre las 23:30 y las 6:00 horas, deberá anunciarse al usuario el horario de pasada por las distintas ciudades atendidas y el lugar de parada en las mismas o en el cruce del acceso correspondiente, mediante un cartel o pizarra ubicado en cada oficina de venta de pasajes. Si los itinerarios no consultan paradas entre las horas señaladas, bastará con indicar en dicho cartel los lugares de parada en las distintas ciudades comprendidas entre el origen y el destino del recorrido.
 
@@ -808,11 +820,9 @@ Además, en los servicios que consulten paradas entre las 23:30 y las 6:00 horas
 
 En los servicios interurbanos de transporte público de pasajeros con recorridos de más de cinco horas de duración, se deberá confeccionar un listado con la nómina de pasajeros que transporta.
 
-El listado se confeccionará a bordo y se entregará en la oficina del lugar de destino del servicio, conservándose en ésta por el plazo de veinte días.
-
 Cualquier pasajero que se incorpore a bordo, en algún punto intermedio entre la ciudad de inicio y la de destino del servicio, deberá ser incluido en el listado.
 
-Durante el recorrido que preste el servicio y el plazo establecido en el inciso segundo, el referido listado quedará a disposición de Carabineros, Inspectores Fiscales o la autoridad sanitaria que lo requiera.
+Durante el recorrido que preste el servicio y dentro de un plazo de ciento ochenta días, el referido listado quedará a disposición de Carabineros de Chile, Inspectores Fiscales o la autoridad sanitaria que lo requiera.
 
 El listado con la nómina de pasajeros se confeccionará de acuerdo con el modelo que determine el Ministerio.
 
@@ -1044,7 +1054,15 @@ Los vehículos dotados de taxímetro que emitan boleto podrán llevar, además, 
 
 Los letreros señalados en los incisos precedentes serán de fondo de color blanco y las letras y números de color negro, exceptúandose el de los vehículos aludidos en el inciso precedente cuyos letreros serán de fondo color rojo y sus letras y números de color blanco reflectante.
 
-En el caso de vehículos dotados de taxímetro que emitan boleto, el letrero que anuncia la tarifa correspondiente a los primeros 200 m., deberá incluir, además, en su parte superior, una leyenda que exprese "Taxímetro con boleto". En su reverso, que será de fondo de color negro y letras de color blanco, debe llevar la leyenda "Señor pasajero, si el taxímetro está funcionando correctamente, siempre debe entregar un boleto. Exíjalo , lo siguiente "En el caso de taxis de turismo, las indicadas leyendas deberán constar en un letrero ubicado al interior del vehículo, cuyas dimensiones y características determinará, por resolución, el Secretario Regional Ministerial de Transportes y Telecomunicaciones.".
+En el caso de vehículos dotados de taxímetro que emitan boleto, el letrero que anuncia la tarifa correspondiente a los primeros 200 m., deberá incluir, además, en su parte superior, una leyenda que exprese "Taxímetro con boleto". En su reverso, que será de fondo de color negro y letras de color blanco, debe llevar la leyenda "Señor pasajero, si el taxímetro está funcionando correctamente, siempre debe entregar un boleto. Exíjalo , lo siguiente "En el caso de taxis de turismo, las indicadas leyendas deberán constar en un letrero ubicado al interior del vehículo, cuyas dimensiones y características determinará, por resolución, el Secretario Regional Ministerial de Transportes y Telecomunicaciones.
+
+Los responsables de los servicios urbanos prestados mediante taxis básicos y taxis de turismo, podrán solicitar autorización a la Secretaría Regional Ministerial respectiva, para que el cálculo de la tarifa se efectúe a través de mecanismos tecnológicos, los cuales deben haber sido aprobados por la Subsecretaría de Transportes en el marco de un plan piloto. Dicha autorización no obsta a la utilización del taxímetro, en caso de los servicios obligados a su uso, de acuerdo a la normativa vigente. Conforme al punto a.2) de la letra D del artículo 8 del presente decreto, dichos mecanismos deberán ser inscritos en el Registro Nacional de Servicios de Transporte de Pasajeros.
+
+Cuando el prestador de servicio utilice algún mecanismo tecnológico para el cálculo de la tarifa, y sea contactado por un pasajero a través del mismo, estará obligado a respetar la tarifa que éste arroje.
+
+En el caso de los pasajeros que no contacten el servicio de taxi a través de un mecanismo tecnológico, el prestador deberá informarles, previo al inicio de viaje, que cuenta con algún mecanismo tecnológico para el cálculo de la tarifa distinto del taxímetro. De acordar usar dicho mecanismo, el valor que éste arroje será el valor final del servicio.
+
+El uso de mecanismos tecnológicos para el cálculo de la tarifa deberá ser informado en las ventanas laterales traseras mediante un letrero de forma cuadrangular de un máximo de 10 cm por lado.
 
 El radio urbano dentro del cual tendrá vigencia el uso del taxímetro como mecanismo de cobro tarifario será el definido por el Secretario Regional, conforme con lo dispuesto en el artículo 6°, letra a). Para carreras que se extiendan más allá de dicho radio, la tarifa será convencional. Asimismo, para carreras que utilicen dentro de su recorrido vías entregadas en concesión, en virtud del D.S. MOP N° 900 de 1996 del Ministerio de Obras Públicas, cuya utilización le signifique al operador del taxi un pago, tanto la tarifa a cobrar por el tramo de vía concesionada a utilizar como el recorrido, serán convenidas con el usuario al inicio del viaje. Esta tarifa será adicional al precio que corresponda por cómputo del taxímetro en el total de la carrera.
 
@@ -1059,6 +1077,10 @@ Las plantas revisoras no otorgarán los certificados de revisión técnica respe
 #### Artículo 83°
 
 No podrá alterarse el mecanismo de estos dispositivos, ni tampoco su funcionamiento mediante cualquier maniobra o modificación de las características del vehículo, en forma que arroje valores superiores a la tarifa anunciada, ni violarse el sello que les haya colocado la autoridad. La contravención a este artículo constituye causal de comiso del taxímetro.
+
+Las conductas descritas en el inciso anterior, constituyen adulteración del taxímetro.
+
+En caso que se haya aplicado la sanción de comiso del taxímetro, conforme al presente artículo, el interesado que se encuentre autorizado para prestar el servicio, deberá presentar en la Secretaría Regional respectiva los datos del nuevo taxímetro, como marca y modelo, en el plazo de 60 días hábiles, contados desde el día en que se haya hecho efectivo el retiro del taxímetro.
 
 #### Artículo 84°
 
@@ -1124,6 +1146,8 @@ En caso de que el Secretario Regional disponga la suspensión o cancelación de 
 
 En caso de sancionarse con suspensión de un vehículo o con amonestación por escrito, sólo procederá el recurso de reposición ante el Secretario Regional respectivo.
 
+El Secretario Regional Ministerial respectivo podrá adoptar todas las medidas de conformidad a lo señalado en el artículo 32 de la ley Nº 19.880.
+
 #### Artículo 90º bis
 
 Procederá la sanción de amonestación por escrito, en caso de incurrir el responsable del servicio, sus asociados o dependientes, en alguna de las siguientes situaciones:
@@ -1172,6 +1196,8 @@ c. Por la acumulación de tres infracciones a las normas técnicas y de segurida
 
 d. Por haber obtenido su certificado revisión técnica en contravención a lo dispuesto en el artículo 31º de este reglamento.
 
+e) Por la adulteración del taxímetro en los vehículos que lo utilizan como mecanismo de cobro tarifario, de acuerdo a lo dispuesto en el artículo 83º del presente reglamento.
+
 Una vez tramitado el procedimiento administrativo correspondiente y verificado cualquiera de los incumplimientos señalados en las letras precedentes, el Secretario Regional correspondiente procederá a aplicar la suspensión del servicio o del vehículo por un plazo de 10 días corridos. El segundo incumplimiento, en el período de un año, será sancionado con una suspensión del servicio o del vehículo por un plazo de 20 días corridos. El tercer incumplimiento, en el mismo período, será sancionado con una suspensión del servicio o del vehículo por un plazo de 30 días corridos. Los plazos de años señalados en el presente artículo comenzarán a correr a contar de la fecha de la primera sanción aplicada.
 
 #### Artículo 92º
@@ -1184,9 +1210,15 @@ b. Por haberse obtenido la inscripción mediante presentación de documentos fal
 
 c. Por abandono de los servicios sin causa justificada;
 
-d. Por acumulación de tres suspensiones del servicio en un año, o cinco en dos años, contados desde la primera suspensión; y
+d. Por acumulación de tres suspensiones del servicio en un año, o cinco en dos años, contados desde la primera suspensión;
 
-e. Por no renovarse el Certificado de Inscripción en el Registro Nacional de los vehículos adscritos a la flota del servicio, de conformidad a lo establecido en el inciso segundo del artículo 3º del presente reglamento, cuando corresponda.
+e. Por no renovarse el Certificado de Inscripción en el Registro Nacional de los vehículos adscritos a la flota del servicio, de conformidad a lo establecido en el inciso segundo del artículo 3º del presente reglamento, cuando corresponda;
+
+f. Por entregar documentos falsos, adulterados o no fidedignos, en cumplimiento de la obligación de actualización de que trata la letra B. del artículo 8º del presente reglamento.
+
+g. La prestación del servicio de transporte de pasajeros con documentos falsos, adulterados; o no fidedignos; y
+
+h. En caso de reiteración de la conducta descrita en el artículo 83º del presente reglamento, siempre que se encuentre firme y ejecutoriada la resolución que aplicó la sanción de suspensión del vehículo por la causal descrita en el literal B letra e) del artículo 91º precedente. Ello solo en el caso de los servicios de transporte público de pasajeros que utilicen taxímetro como mecanismo de cobro tarifario y que operen sólo con un vehículo.
 
 Un servicio cancelado no podrá ser inscrito por el mismo responsable antes de dos años contados desde la fecha de su cancelación en el Registro Nacional.
 
@@ -1198,31 +1230,15 @@ a. Por acumulación de tres suspensiones del vehículo en un año, o cinco en do
 
 b. Por acumulación de dos suspensiones del vehículo en un año por la misma causa; en este caso, el vehículo sancionado con la cancelación, no podrá acogerse al beneficio de renovación de material contenido en la normativa vigente;
 
-c. En caso de no cumplirse lo dispuesto por la letra d) del artículo 73º, y lo establecido en el inciso segundo del artículo 56º del presente reglamento o que se encuentren en la situación del inciso final del artículo 20º; y
+c. En caso de reiteración de la conducta descrita en el artículo 83º del presente reglamento, siempre que se encuentre firme y ejecutoriada la resolución que aplicó la sanción de suspensión del vehículo por la causal descrita en el literal B, letra e) del artículo 91º precedente. Ello, sólo en el caso de los servicios de transporte público de pasajeros que utilicen taxímetro como mecanismo de cobro tarifario y que operen con más de un vehículo; y
 
-d. Cuando haya sido rechazado en cuatro oportunidades consecutivas en su revisión técnica, incluyéndose como causal, en la última ocasión, alguna de las siguientes:
-
-i) desperfectos del motor o sistema de
-
-transmisión;
-
-ii) desperfectos del sistema de dirección;
-
-iii) desperfectos del sistema de frenos; y
-
-iv) desperfectos del sistema de suspensión y
-
-de ruedas (llantas y neumáticos).
-
-Para este efecto, las Secretarías Regionales deberán llevar un registro especial de los vehículos objetados que les permita constatar la repetición de rechazos consecutivos de un mismo vehículo y las causales de los mismos. Al aprobarse una revisión se eliminará el vehículo de este registro. Además, el Secretario Regional que corresponda emitirá una advertencia por escrito al responsable del servicio y al propietario del vehículo que haya sido rechazado consecutivamente tres veces, señalándole que la impugnación en una nueva oportunidad dará lugar a la cancelación de su inscripción en el Registro Nacional.
-
-La siguiente revisión técnica de un vehículo rechazado tres veces consecutivas se realizará en presencia de un inspector fiscal del Ministerio de Transportes y Telecomunicaciones.
+d. En caso de no cumplirse lo dispuesto por la letra d) del artículo 73º, y lo establecido en el inciso segundo del artículo 56º del presente reglamento o que se encuentren en la situación del inciso final del artículo 20º.
 
 La cancelación de la inscripción del vehículo respectivo en el Registro Nacional, por las causales antes señaladas, será efectuada de oficio por el respectivo Secretario Regional, al igual que las que procedan respecto de vehículos que hayan cumplido la antigüedad máxima de prestación de servicios permitida.
 
 #### Artículo 94°
 
-Las plantas revisoras del país, sin perjuicio de otorgar el respectivo certificado para los efectos del permiso de circulación, tratándose de vehículos cuya inscripción en el Registro Nacional se encuentre cancelada por las causales c) o d) del artículo anterior, deberán dejar constancia en el mismo documento y en forma destacada que esos vehículos no son aptos para efectuar servicio de transporte público remunerado de pasajeros. Asimismo, para efectos de su primera revisión, en el caso de no existir correspondencia entre el año de modelo con que se presente el vehículo a las plantas revisoras, o el que señale su inscripción en el Registro de Vehículos motorizados, y el que demuestren las partes y piezas que lo integran, dejará constancia de ello en el certificado respectivo, documento que no habilitará para inscribirlo en el Registro Nacional. En el caso propuesto, se entenderá que los vehículos no tienen la calidad de nuevos para los efectos del artículo 12° de la ley 19.040, en su caso.
+Las plantas revisoras del país, sin perjuicio de otorgar el respectivo certificado para los efectos del permiso de circulación, tratándose de vehículos cuya inscripción en el Registro Nacional se encuentre cancelada por la causal de la letra d) del artículo anterior, deberán dejar constancia en el mismo documento y en forma destacada que esos vehículos no son aptos para efectuar servicio de transporte público remunerado de pasajeros. Asimismo, para efectos de su primera revisión, en el caso de no existir correspondencia entre el año de modelo con que se presente el vehículo a las plantas revisoras, o el que señale su inscripción en el Registro de Vehículos motorizados, y el que demuestren las partes y piezas que lo integran, dejará constancia de ello en el certificado respectivo, documento que no habilitará para inscribirlo en el Registro Nacional. En el caso propuesto, se entenderá que los vehículos no tienen la calidad de nuevos para los efectos del artículo 12° de la ley 19.040, en su caso.
 
 DE LAS NORMAS RELATIVAS AL COBRO DE GARANTIAS
 
