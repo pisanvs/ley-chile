@@ -116,6 +116,10 @@ La obligación contenida en este artículo se entenderá cumplida con la sola re
 
 Los concesionarios, permisionarios o licenciatarios no asumirán responsabilidad por el contenido del mensaje que deban retransmitir.
 
+Los concesionarios de servicios públicos de telecomunicaciones y quienes comercialicen equipos terminales móviles en el país deberán habilitar y mantener activa la funcionalidad de sintonización del servicio de radiodifusión de los equipos que la posean, cualquiera que sea el canal a través del cual sean comercializados.
+
+Las condiciones de reportabilidad, registro, homologación y demás necesarias para dar cumplimiento a la obligación referida se someterán a las normas que establezca la Subsecretaría, en relación con las exigencias que deban cumplir los terminales.
+
 #### Artículo 7º ter
 
 <!-- parte:9555397 -->
