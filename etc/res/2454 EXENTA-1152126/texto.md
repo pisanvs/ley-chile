@@ -1,0 +1,5 @@
+AUTORIZA A PESCA CHILE S.A. PARA CONTINUAR DESARROLLANDO ACTIVIDADES EXTRACTIVAS QUE INDICA
+
+Por resolución exenta Nº 2.454, de 17 de noviembre de 2020, de esta Subsecretaría, autorízase a Pesca Chile S.A., para continuar desarrollando las actividades pesqueras autorizadas a Deris S.A., en virtud de la escritura pública y disposiciones legales citadas en Visto de la resolución extractada, respecto de las Licencias Transables de Pesca otorgadas mediante resoluciones exentas N°s. 3.119, 3.120, 3.121, 3.122, 3.175, 3.176 y Nº 3.177, todas de 2014; N°s. 1.362, 1.363, 2.449, 2.452, 2.941, 2.943, 2.944, 2.945 y Nº 4.045, todas de 2018; N°s. 87, 288, 377, 1.806, 1.807, 1.964 y Nº 2.959, todas de 2019; N°s. 404, 405, 1.510, 1.511, 1.512, 1.513, 1.514, 1.515, 1.516, 1.714, 1.715, 1.716 y Nº 1.952, todas de 2020, y de esta Subsecretaría y sus modificaciones posteriores.
+
+Valparaíso, 17 de noviembre de 2020.- Román Zelaya Ríos, Subsecretario de Pesca y Acuicultura.
