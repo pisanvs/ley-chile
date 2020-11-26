@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 2.551 EXENTA, DE 2020, DICTADA POR EL MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES
+
+Por resolución exenta N° 2.551, de 6 de noviembre de 2020, del Ministerio de Transportes y Telecomunicaciones, se modifica resolución exenta N° 889, de 2020, del Ministerio de Transportes y Telecomunicaciones, que extendió los plazos para el concurso que busca proveer servicios para operar la Unidad de Negocios N° 10, cuyas bases de postulación fueron aprobadas por la resolución exenta N° 3.629, de 2019, de este Ministerio, en el marco de las condiciones de operación del Perímetro de Exclusión establecido en el Gran Valparaíso aprobadas por resolución exenta N° 1.745, de 2019, del Ministerio de Transportes y Telecomunicaciones. Copia íntegra de la resolución exenta N° 2.551 y de los plazos y fecha de postulación, pueden ser consultados directamente en www.dtpr.gob.cl.-
+
+Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
