@@ -74,7 +74,7 @@ Con estos montos se definirá el número de postulantes que deberán presentar l
 
 Si una vez concluido el proceso señalado quedaren recursos disponibles, mediante resoluciones que el Ministro de Vivienda y Urbanismo dicte al efecto, se podrán redistribuir los recursos señalados en la tabla precedente total o parcialmente.
 
-8. Si los aportes adicionales son efectuados por municipalidades, se deberá presentar el Acta del Concejo Municipal en que conste la aprobación de destinar dichos recursos al proyecto en caso de resultar seleccionado, el que deberá ser enterado hasta 45 días corridos desde la fecha de selección.
+8. Si los aportes adicionales son efectuados por municipalidades, se deberá presentar el Acta del Concejo Municipal en que conste la aprobación de destinar dichos recursos al proyecto en caso de resultar seleccionado, el que deberá ser presentado a Serviu antes del inicio de Obras.
 
 Según lo indicado en el artículo 20 del DS N° 27 (V. y U.), de 2016, en relación a los aportes adicionales expresados en pesos, para calcular la proyección de reajuste se aplicará al momento de ingresar a Serviu los instrumentos señalados, el valor de la UF correspondiente al último día hábil del mes que se señala en la tabla siguiente:
 
@@ -86,7 +86,7 @@ Según lo indicado en el artículo 20 del DS N° 27 (V. y U.), de 2016, en relac
 
 Para el ingreso de carpetas de proyectos habilitados para revisión, los Serviu podrán aceptar Cédulas de Identidad y certificados de personalidad jurídica vencidos, otorgando como plazo para presentar dichos documentos vigentes hasta el inicio de obras, para los proyectos que resulten seleccionados.
 
-11. La inscripción en el Conservador de Bienes Raíces de la prohibición de gravar y enajenar la propiedad, señalada en el artículo 67 del DS Nº 27 (V. y U.), de 2016, deberá constituirse durante la ejecución del proyecto, requiriéndose para el pago final del subsidio.
+11. La inscripción en el Conservador de Bienes Raíces de la prohibición de gravar y enajenar la propiedad, señalada en el artículo 67 del DS Nº 27 (V. y U.), de 2016, deberá constituirse durante la ejecución del proyecto, requiriéndose para el pago final del subsidio. Este requerimiento no aplica cuando las Edificaciones Comunitarias sean construidas en terrenos Serviu o en Bienes Nacionales de Uso Público.
 
 12. Las selecciones serán a nivel nacional mediante resolución del Ministro de Vivienda y Urbanismo, en atención a los recursos disponibles, los que podrán redistribuirse y/o aumentarse por provincia y por región, y a los factores señalados en el artículo 72, del DS Nº 27 (V. y U.), de 2016, aquellos proyectos que postulen al presente llamado y resulten calificados por Serviu.
 
@@ -95,6 +95,10 @@ Para el ingreso de carpetas de proyectos habilitados para revisión, los Serviu 
 > **Nota.** El numeral 1.2 del número 2 de la de Resolución 705 Exenta, Vivienda, publicada el 05.05.2020 dispone reemplazar en el cuadro de la segunda selección del Resuelvo 6 de la presente norma, en la columna "Responsables" en la fila 3 el texto "Serviu / Minvu" por "Seremi / Minvu" y en la fila 7 el texto "Seremi" por "Minvu".
 
 > **Nota.** NOTA 1 El numeral 1.3 del número 2 de la de Resolución 705 Exenta, Vivienda, publicada el 05.05.2020, ordena reemplazar en el cuadro inserto en el Resuelvo Nº 7 de la presente norma, en el recuadro "Santiago 5" correspondiente a los recursos de las provincias de la Región Metropolitana de Santiago, a las comunas de Lo Barnechea, Vitacura y Las Condes.
+
+> **Nota.** NOTA 2 El numeral 1.1 del número 1 de la Resolución 1687 Exenta, Vivienda, publicada el 26.11.2020, dispone reemplazar en el cuadro inserto en el Resuelvo Nº 6 de la presente norma, correspondiente a los plazos de la tercera selección, en la columna Hitos del proceso en la fila "Revisión y Calificación de los proyectos" la fecha "20-11-2020" por "30-11-2020" y en la fila "Selección de beneficiarios" el texto "Desde 23-11-2020" por "Desde 01-12-2020".
+
+> **Nota.** NOTA 3 El numeral 1.2 del número 1 de la Resolución 1687 Exenta, Vivienda, publicada el 26.11.2020, dispone reemplazar en el cuadro inserto en el Resuelvo Nº 7 de la presente norma, el monto de recursos asignado a la región de "Aysén Gral. Carlos Ibáñez del C.", de "11.500,00" por"13.500,00", y el monto "Total", de "1.192.830" por "1.194.830,00".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Guillermo Rolando Vicente, Ministro de Vivienda y Urbanismo Subrogante.
 
