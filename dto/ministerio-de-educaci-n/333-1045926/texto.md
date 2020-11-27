@@ -44,9 +44,9 @@ La nómina deberá estar contenida en un archivo Excel® o en cualquier otro que
 
 ## Título III — Oportunidad de la entrega de información
 
-#### Artículo 3°
+#### Artículo 3º
 
-Época de entrega de la información. El Servicio de Impuestos internos deberá proporcionar los datos para la validación de la información por parte del Ministerio de Educación en el mes de agosto de cada año. La información que adjuntará el Servicio de Impuestos Internos para validar los antecedentes, corresponderá a los del año tributario anterior en que se formule la solicitud señalada en el artículo anterior.
+Época de entrega de la información. El Servicio de Impuestos Internos deberá proporcionar los datos para la validación de la información por parte del Ministerio de Educación en el mes de agosto de cada año. La información que adjuntará el Servicio de Impuestos Internos para validar los antecedentes, corresponderá a los del año tributario de la anualidad en que se formule la solicitud señalada en el artículo anterior.
 
 ## Título IV — De la implementación del procedimiento y del manejo del archivo
 
