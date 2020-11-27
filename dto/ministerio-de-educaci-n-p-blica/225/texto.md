@@ -218,6 +218,10 @@ Norma Final
 
 Los deudores que se encuentren en el extranjero podrán acogerse a las disposiciones establecidas en la Ley N° 19.287 mediante mandatario expresamente facultado, el que suscribirá el respectivo pagaré y acreditará los ingresos de su mandante, con declaración jurada del mismo ante el consulado chileno competente, legalizada.
 
+#### Artículo transitorio
+
+Los deudores del Fondo Solidario de Crédito Universitario que deban realizar la declaración jurada de ingresos ante el administrador general del fondo de la institución acreedora, según lo establece el artículo 1º del presente reglamento, estarán eximidos, durante el año 2020, de efectuar dicho trámite ante Notario.
+
 Anótese, tómese razón, publíquese e insértese en la recopilación de leyes y reglamentos de la Contraloría General de la República.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Ernesto Schiefelbein, Ministro de Educación.- Eduardo Aninat Ureta, Ministro de Hacienda.
 
 Lo que transcribo a usted para su conocimiento.- Saluda a usted.- Gonzalo Undurraga Mackenna, Subsecretario de Educación.
