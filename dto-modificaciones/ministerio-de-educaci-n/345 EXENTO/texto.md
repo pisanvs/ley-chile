@@ -26,7 +26,7 @@ Decreto:
 
 Modifícase el decreto exento Nº 123, de 28 de julio de 1989, modificado por decretos exentos Nº 304, de 15 de noviembre de 1990; Nº 279, de 8 de junio de 1993; Nº 323, de 18 de octubre de 1999; y Nº 1.187, de 5 de octubre de 2017, todos de Educación, que reconoció oficialmente al Instituto Profesional de Arte y Comunicación Arcos, organizado por Corporación Instituto de Arte y Comunicación Arcos, por cambio de razón social, quedando como a continuación se indica:
 
-Nombre de la Institución : Instituto Profesional de Arte y Comunicación Arcos
+Nombre de la Institución : Instituto Profesional Arcos.
 
 Organizador : Corporación Instituto Profesional Arcos
 
