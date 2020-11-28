@@ -102,6 +102,8 @@ La selección del/de los Consultor/es Experto/s se hará en base a la experienci
 
 La Etapa de Ejecución será ejecutada conforme se indique en el proyecto aprobado por el Comité de Asignación de Fondos - CAF.
 
+Cuando un proyecto haya recibido apoyo para la ejecución de la Etapa de Validación Estratégica de este instrumento, el plazo máximo para postular a la Etapa de Ejecución será de 6 (seis) meses, contados desde la aprobación del Informe Final de la Etapa de Validación por el Agente Operador Intermediario o por Corfo/CDPR, según se trate de administración agenciada o directa, respectivamente. Este plazo se entenderá suspendido cuando se declare Estado de Excepción Constitucional en todo o parte del territorio donde se ejecuten las actividades del proyecto.
+
 6.- MONTO DE FINANCIAMIENTO Y COFINANCIAMIENTO.
 
 Los montos máximos por cada Etapa son:
@@ -246,8 +248,24 @@ i) Rendición de cuentas.
 
 Los gastos imputables a los aportes otorgados por Corfo deberán detallarse, guardar relación con los resultados esperados y rendirse cuenta de ellos, en conformidad a las instrucciones de la Corporación y la resolución N° 30, de 2015, de la Contraloría General de la República o la norma que la reemplace, primando en todo caso esta última, en caso de ser contradictorias.
 
-10.- NORMAS TRANSITORIAS.
+j) Suspensión de los proyectos.
 
-Los proyectos actualmente en ejecución se regirán por este Reglamento, salvo que los Agentes Operadores Intermediarios manifiesten su voluntad por escrito de continuar rigiéndose por la normativa que los regulaba, debiendo informarlo a la Dirección Regional de Corfo.
+Si durante el plazo de ejecución de las actividades de un proyecto ocurren hechos imprevisibles, irresistibles, temporales, no imputables a los participantes, al equipo profesional del proyecto o al Agente Operador Intermediario, que hagan necesaria la suspensión del proyecto para obtener los resultados esperados, el Director Regional de Corfo podrá disponerla por un período determinado, sea total o parcialmente, sin necesidad de requerimiento.
+
+Cuando la solicitud tenga su origen en el Gestor, deberá ser realizada por escrito, adjuntando todos los antecedentes que acrediten la concurrencia de los requisitos y la oportunidad de la solicitud, presentándola ante el Agente Operador Intermediario, si el proyecto fuere agenciado, quien la remitirá, con su recomendación, a la Dirección Regional, para que el Director resuelva fundadamente. Si el proyecto es administrado directamente, la solicitud del Gestor, será remitida a la Dirección Regional.
+
+La decisión al respecto será comunicada por escrito al Gestor y al Agente Operador Intermediario, en su caso. Ésta deberá contener los antecedentes que la fundan, el plazo de inicio y término de la suspensión, si procede, y las actividades que se podrán ejecutar, conforme sea total o parcial. El plazo de inicio de la suspensión podrá ser anterior a la solicitud, debiendo fijarse conforme la ocurrencia del hecho que la justifica.
+
+Durante la suspensión total del proyecto sólo se podrán efectuar aquellas actividades estrictamente indispensables para su mantención, las cuales deberán haber sido señaladas en la solicitud y autorizadas expresamente por Corfo.
+
+Durante la suspensión parcial, además de las actividades antes señaladas, se podrán realizar aquellas que puedan llevarse a cabo pese a la ocurrencia de los hechos que la configuran, las cuales igualmente deberán haber sido señaladas en la solicitud y autorizadas expresamente por Corfo.
+
+La aprobación de la suspensión de las actividades del proyecto requerirá de la ampliación de la vigencia de los documentos de garantía que caucionan los recursos anticipados si los hubiere.
+
+10.- Normas Transitorias.
+
+En la anualidad de la Etapa de Ejecución mientras la que se mantenga vigente el Estado de Excepción Constitucional de Catástrofe, por calamidad pública, en el territorio de Chile, declarado por decreto supremo Nº 104, de 2020, del Ministerio del Interior y Seguridad Pública, publicado en el Diario Oficial el 18 de marzo de 2020, prorrogado por decreto supremo Nº 269 y Nº 400, ambos de 2020 y de la misma cartera de Estado, y las eventuales prórrogas siguientes, no se aplicará la limitación señalada en el último párrafo del numeral 6. Monto de financiamiento y cofinanciamiento que obliga a que el aporte valorado de el/los Asociados no exceda de un 50%.
+
+La presente norma transitoria se aplicará a los proyectos actualmente en ejecución o que se postulen a la Etapa Ejecución o a su renovación en los tres meses inmediatos al término del citado Estado de Excepción Constitucional.
 
 Anótese, tómese razón y publíquese.- Alicia Olivares Muñoz, Gerente de Desarrollo Competitivo (S).
