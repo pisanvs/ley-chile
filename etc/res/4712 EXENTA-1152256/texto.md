@@ -1,0 +1,9 @@
+CERTIFICADO Nº 534
+
+Certifico: Que por escritura pública de fecha 14 de agosto de 2020, otorgada ante el Notario de Santiago don Cosme Fernando Gomila Gatica, con domicilio en Paseo Ahumada Nº 341, cuarto piso, Santiago, se redujo el acta de la Junta Extraordinaria de Accionistas de Bupa Compañía de Seguros de Vida S.A., celebrada con esa misma fecha, ante el Notario ya individualizado.
+
+Que por resolución exenta Nº 4.712 de 14 de octubre de 2020, de la Comisión para el Mercado Financiero, se aprobó la reforma de los estatutos de Bupa Compañía de Seguros de Vida S.A., que consiste en:
+
+Ampliar el giro social al siguiente: "Objeto: La sociedad tendrá por objeto exclusivo, asegurar y reasegurar a base de primas, los riesgos de las personas o garantizar a éstas, dentro o al término de un plazo, un capital, una póliza saldada o una renta para el asegurado y sus beneficiarios y contratar reaseguros sobre los mismos, de acuerdo a lo establecido en los artículos cuarto, octavo y dieciséis, letra b), todos del decreto con fuerza de ley número doscientos cincuenta y uno de mil novecientos treinta y uno, como asimismo, emprender cualquier otra actividad que la Comisión para el Mercado Financiero, a través de una norma de carácter general u otra clase de normativa autorice o declare afines o complementarias al giro propio de las compañías de seguros del segundo grupo". Se modifica el artículo cuarto de los estatutos sociales. Demás estipulaciones en escritura extractada.
+
+Santiago, 15 de octubre de 2020.- Por orden del Consejo de la Comisión para el Mercado Financiero, Gerardo Bravo Riquelme, Secretario General.
