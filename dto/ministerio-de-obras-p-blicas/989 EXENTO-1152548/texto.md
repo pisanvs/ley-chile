@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº989, de 22 de octubre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.10-A y 12-A, para la obra: MEJORAMIENTO RUTA J-55 SECTOR: LA UNION - LOS QUEÑES, que figura a nombre de GARRIDO ORELLANA PEDRO, rol de avalúo 59-27, Comuna de ROMERAL, REGION DEL MAULE, superficies 2.272 y 485 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 20 de octubre de 2017, fijó el monto de la indemnización provisional en la cantidad de $9.528.200 para el lote Nº10-A, y $2.060.500 para el lote Nº12-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
