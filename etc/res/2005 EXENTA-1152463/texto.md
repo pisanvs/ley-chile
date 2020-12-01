@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.005, de 6 de noviembre 2020, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, del inmueble correspondiente a Departamento Nº 104, ubicado en Pasaje Seis y Media Oriente H, Block N° 3385, Condominio B, Población Las Américas, Novena Etapa, de la comuna y Provincia de Talca, Rol Avalúo Nº 1425-16, comuna Talca, y sus derechos cuotativos, deslindes según plano expropiaciones, propietario aparente Cid Olave Anjela Andrea. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Ramón Lira Montecinos, ingeniero agrónomo, y Claudia Poblete Ramírez, arquitecto, según informe de tasación evacuado con fecha 10 de diciembre de 2018, fijó monto provisional indemnización en $15.995.135.-, monto que conforme a lo dispuesto en el artículo 5º del DL 2.186 de 1978 fue reajustado a la suma de $16.794.890.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
