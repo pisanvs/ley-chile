@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1082 de 29 de octubre de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 147-B, comuna de Licantén, Rol de avalúo 168-137, superficie 1.669 m2., para la obra MEJORAMIENTO Y CONSTRUCCIÓN CAMINO COSTERO NORTE SECTOR BOYERUCA CRUCE RUTA J-60, COMUNAS DE VICHUQUÉN Y LICANTÉN, PROVINCIA DE CURICÓ, REGIÓN DEL MAULE. La comisión de peritos, integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, fijó el valor de tasación con fecha 31 de marzo de 2018, acordándose la indemnización con su propietario GILBERTO JAVIER CORREA BRAVO, en la cantidad de $12.455.511.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
