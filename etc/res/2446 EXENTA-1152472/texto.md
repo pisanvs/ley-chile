@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.446, 16 de noviembre de 2020, Serviu Región del Biobío ordenó expropiación total de terreno y de edificación de un inmueble ubicado en Arturo Prat 311 St 1 Mza Sector A, Rol de Avalúo Nº 181-19, comuna de Curanilahue, de aparente dominio de Borques Salgado Norma Alicia, superficie afecta a expropiación total de terreno es de 91,10 m2 (Lote 2) y total de 151,70 m2 (2a y b) de edificación, según Plano S8R-39567-1, para la ejecución de las obras del Proyecto "Reposición Puente Arturo Prat", comuna de Curanilahue, Región del Biobío, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Francesca Vives Figueroa, arquitecto Patricia Palacios González y arquitecto Rodrigo Escobar Fernández, según informe de fecha 26.10.2020, fijó monto provisional indemnización en $65.164.413, más una suma de $456.151 por concepto de reajuste del artículo 5º del DL 2.186 de 1976, que arroja la cifra de $65.620.564.-
+
+Director Serviu Región del Biobío.
