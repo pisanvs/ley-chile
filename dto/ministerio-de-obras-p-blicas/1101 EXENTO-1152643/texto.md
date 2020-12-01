@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 1101, de 29 de octubre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 56-A, para la obra: MEJORAMIENTO RUTA INTERLAGOS T-835, T-905 SECTOR CAYURRUCA - TRAPI - CRUCERO, que figura a nombre de SHOLZ BRANDT MAURICIO RAFAEL, rol de avalúo 518-63, Comuna de RIO BUENO, REGION DE LOS RÍOS, superficie 750 m2. La Comisión de Peritos integrada por MARIA SOLEDAD NUÑEZ ARROYO, PATRICIO FERNANDO CASAGRANDE ULLOA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de fecha 5 de junio de 2014, fijó el monto de la indemnización provisional en la cantidad de $1.117.500.- para el lote N° 56-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
