@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 32, de 24 de febrero de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Srta. Sandra Milena Fernández Gatica, RUT Nº 18.433.560-3, concesión marítima menor, con vencimiento 31 de diciembre de 2024, sobre un sector de Terreno de Playa y Uso de Mejora Fiscal, en el lugar denominado Playa Blanca, comuna de Coronel, Provincia de Concepción, Región del Biobío, con una superficie total de 1.023,73 m2., la que fue tramitada con el SIABC Nº 32.275. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 37º 03' 46,02" S - 73º 08' 33,34" W. El objeto consiste en operar un bar restaurante y una terraza, para atención de público, con uso de mejoras fiscales. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Coronel. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
+
+Coronel, 16 de noviembre de 2020.- Cristian Vidal Elías, Capitán de Corbeta LT, Capitán de Puerto de Coronel.
