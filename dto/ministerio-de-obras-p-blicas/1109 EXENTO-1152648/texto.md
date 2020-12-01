@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1109, de 29 de octubre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 64, para la obra: RELICITACIÓN CONCESIÓN CAMINO NOGALES - PUCHUNCAVÍ, SECTOR: SECTOR 1 (RUTA F-20), SUBSECTOR: PLAZA PEAJE - FIN CUESTA, KM 6.500,00 AL KM 19.000,00, que figura a nombre de CISTERNAS DIAZ CRISTINA DE LAS M Y, rol de avalúo 172-15, Comuna de PUCHUNCAVI, REGION DE VALPARAÍSO, superficie 1.023 m2. La Comisión de Peritos integrada por MUFIDA VIOLA ABUAWAD ELIAS, CARMEN ANDREA ALARCON MONTECINO y DORY GISELA DONOSO SALGADO, mediante informe de tasación de 13 de mayo de 2019, fijó el monto de la indemnización provisional en la cantidad de $1.585.650 para el lote Nº64. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
