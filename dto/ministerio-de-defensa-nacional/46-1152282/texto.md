@@ -1,0 +1,5 @@
+OTORGA CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo de marina 46, de fecha 25 de febrero de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se otorgó concesión marítima menor al señor Denis Esteban Marcone Valcarcel, RUT: 7.342.953-6, con vencimiento 31 de diciembre de 2024, sobre un sector de playa de lago y fondo de lago, en el lugar denominado Santa Rosa, comuna Curicó, Región del Maule, con una superficie de 48,21 metros2. La que fue tramitada con el SIABC Nº 32925. A modo referencial, se señala la siguiente coordenada geográfica. Latitud 34°50'27,1744"S., longitud 72°03'03,3312"W. El objeto de esta concesión marítima, sobre los sectores otorgados, consiste en regularizar las mejoras fiscales consistentes en dos atracaderos sobre pilotes, para naves menores a 25 TRG. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Constitución. El presente extracto se encuentra visado por la autoridad marítima antes señalada.-
+
+Luis Romero Morales, Teniente 1º LT, Capitán de Puerto de Constitución.
