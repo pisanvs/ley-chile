@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.492, 23 de noviembre de 2020, Serviu Región del Biobío ordenó expropiación parcial de terreno del inmueble ubicado en Fundo San Carlos de Coliumo, Rol de Avalúo Nº 411-13, comuna de Tomé, de aparente dominio de Soc Agric Coliumo Ltda. La parte a expropiar tiene una superficie de 675,31 m2 de terreno y de 0,0 m2 de expropiación de edificación, conforme a plano S8R-39452-1 del mes de septiembre de 2020, para la ejecución de las obras del proyecto "Construcción Espacio Público Dichato-Vegas de Coliumo, Tomé, Región del Biobío", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión de Peritos integrada por el Arquitecto Leonardo Eugenio Fasce Casanueva, por Constructor Civil Juan Pablo Cuevas Castillo y por el Arquitecto Eduardo Andrés Riquelme Manes, que fijó el monto de la indemnización provisional por la expropiación en la suma de $9.359.121.-, pagadero de contado.-
+
+Director Serviu Región del Biobío.
