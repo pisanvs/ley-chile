@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1018, de 22 de octubre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.75, 76, 77 y 78, para la obra: MEJORAMIENTO RUTA L-45, SECTOR EL PEÑASCO-RETEN LOS HUALLES, que figura a nombre de ALARCON SALAS JORGE IZADE, rol de avalúo 555-3, Comuna de LINARES, REGION DEL MAULE, superficies 737, 7884, 361 y 927 m2 respectivamente. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, PATRICIO ULISES DURAN MARCOS y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 09 de abril de 2020, fijó el monto de la indemnización provisional en la cantidad de $2.948.600 para el lote Nº75, $25.462.700 para el lote Nº76, $902.500 para el lote Nº77, y $2.419.000 para el lote Nº78. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
