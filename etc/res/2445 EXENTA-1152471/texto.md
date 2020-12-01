@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.445 del 16 de noviembre de 2020, Serviu Región del Biobío ordenó expropiación total de terreno y total de edificación de inmueble ubicado en Arrau Méndez 330 LT 3, Rol de Avalúo 1128-95, comuna de Concepción, de aparente dominio de Bravo Santibáñez Delia Delicia. La superficie afecta expropiación es de 114,78 m2 total de terreno (Lote 87) y 81,71 m2 de total de edificación (a, b, 2c y d), conforme a plano de expropiación S8R-38109-1 del mes de agosto de 2020, para la ejecución de la obra Mejoramiento Paso Sobre Nivel Esmeralda y Vialidad Asociada, Concepción, comuna de Concepción, Región del Biobío, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Rubén Carlos Muñoz Vera, por el ingeniero civil industrial Carlos Alberto Montecinos Galleguillos y por el arquitecto Rodrigo Alexis Escobar Hernández, según informe de fecha 26.10.2020, que fijó monto provisional en $52.543.018.-, más una suma de $367.801.-, por concepto de reajuste del artículo 5º del DL 2186 de 1978, que dan la suma de $52.910.819.-, pagadero de contado.-
+
+Director Serviu Región del Biobío.
