@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 995, de 22 de octubre de 2020, y en base a la facultad otorgada por el articulo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 9-A y 9-C, para la obra: MEJORAMIENTO RUTA R-444 LOS SAUCES LUMACO POR LAS ROZAS, que figuran a nombre de CORTESI ZANETTI MARIA ELENA Y OTROS y CORTESI ZANETTI MARIA ELENA, roles de avalúo 130-154 y 129-55, Comuna de LOS SAUCES, REGION DE LA ARAUCANÍA, superficies 792 y 147 m2 respectivamente. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, PABLO ALEJANDRO SEPÚLVEDA GÓMEZ y YASCHALA MARIBEL YÁÑEZ RIFFO, mediante informes de tasación de fecha 6 de agosto de 2018, fijó el monto de las indemnizaciones provisionales en las cantidades de $7.397.640.- para el lote N° 9-A y $248.240.- para el lote N° 9-C. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
