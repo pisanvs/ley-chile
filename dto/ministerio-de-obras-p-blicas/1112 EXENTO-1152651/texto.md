@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1112, de 29 de octubre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 1, para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO COLLIPULLI - TEMUCO SECTOR: RAMAL SUR-ORIENTE DE ACCESO A VICTORIA EN ATRAVIESO VICTORIA-TRAIGUÉN KM. 608.600,00 A KM. 609.300,00, que figura a nombre de CIA DE PETROLEOS DE CHILE COPEC, rol de avalúo 401-4, Comuna de VICTORIA, REGION DE LA ARAUCANÍA, superficie 428 m2. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, RODRIGO ALEXIS ESCOBAR FERNANDEZ y CARLOS ROBERTO ALARCON VILLEGAS, mediante informe de tasación de 06 de agosto de 2020, fijó el monto de la indemnización provisional en la cantidad de $27.747.000 para el lote Nº1, La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
