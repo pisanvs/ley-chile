@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.008, de 6 de noviembre 2020, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, del inmueble correspondiente a Departamento 101, ubicado en Pasaje 21½ Norte "A", Block Nº 1465, Condominio "A" de la Población Las Américas IX Etapa, de Talca, Rol Avalúo Nº 1424-49, comuna Talca y sus derechos cuotativos, deslindes según plano expropiaciones, propietario aparente Pulgar Espinoza Auda del Carmen. Comisión integrada por peritos Patricio Durán Marcos, arquitecto; Pedro Pablo Cruz Weston, arquitecto; y Rodrigo Silva Lazo, constructor civil, según informe de tasación evacuado con fecha diciembre de 2018, fijó monto provisional indemnización en $10.729.500.-, monto que conforme a lo dispuesto en el artículo 5º del DL 2.186, de 1978, fue reajustado a la suma de $11.265.975.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
