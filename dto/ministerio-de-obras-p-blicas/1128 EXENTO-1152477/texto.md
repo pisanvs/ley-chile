@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 1128 de 12 de noviembre de 2020, respecto a la expropiación del lote de terreno N° 113L3, para la obra PROYECTO LÍNEA 3 LA REINA - HUECHURABA, SECTOR: AV. INDEPENDENCIA, Comuna de CONCHALÍ, REGIÓN METROPOLITANA DE SANTIAGO, se modificó y desistió parcialmente del Decreto MOP (Exento) N° 200 de 1 de febrero de 2013, como a continuación se indica: 1) Se tuvo por desistida parcialmente la expropiación del lote de terreno N° 113L3, reduciéndose la superficie expropiada; 2) Se modificó el numeral segundo del Decreto MOP (Exento) N° 200, en el sentido que la nueva superficie del Lote de terreno N° 113L3 es 35,70 m2., y 3) Se aprobó la modificación efectuada al Plano y Cuadro de Expropiación elaborado por la Empresa de Transporte de Pasajeros Metro S.A., en lo que respecta a la disminución de la superficie del lote de terreno N° 113L3. La publicación se efectúa en cumplimiento a lo dispuesto en los artículos 7° y 32° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
