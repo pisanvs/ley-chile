@@ -1,0 +1,5 @@
+OTORGA CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo de marina 53, de fecha 25 de febrero de 2020, de Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se otorgó concesión marítima menor al señor Carlos Eduardo Kuhlenthal Ressler, RUT: 6.377.227-5, con vencimiento 31 de diciembre de 2024, sobre un sector de playa de lago y fondo de lago, en el lugar denominado Santa Rosa, comuna Curicó, Región del Maule, con una superficie de 207,97 metros². La que fue tramitada con el SIABC Nº 33809, a modo referencial se señala la siguiente coordenada geográfica. Latitud 35º 50' 20,91"S, longitud 72º 03' 01,69"W. El objeto de esta concesión marítima, sobre sectores otorgados, consistente en permitir la regularización de las mejoras fiscales compuestas por dos atracaderos, un hangar con un atracadero y una rampa de hormigón, para naves menores de 25 TRG. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Constitución. El presente extracto se encuentra visado por la autoridad marítima antes señalada.-
+
+Luis Romero Morales, Teniente 1° LT, Capitán de Puerto de Constitución.
