@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1124 de 29 de octubre de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, Art. 15 inciso 2º y 22 Nº 1 del Decreto Nº 900 de 31 de octubre de 1996, se expropió el lote de terreno 11, Rol de avalúo 206-162, comuna de Cabrero, superficie 1.875 m2., para la obra CONCESIÓN INTERNACIONAL RUTA 5 TRAMO CHILLÁN - COLLIPULLI CALLE DE SERVICIO CABRERO ORIENTE, COMUNA DE CABRERO, PROVINCIA DE BIOBÍO, REGIÓN DEL BIOBÍO. La comisión de peritos, integrada por MARLENE TERESA RIOS MARCUELLO, PABLO ALEX MANSILLA ARAVENA y ANDRÉS ANIBAL RISSO CAAMAÑO, fijó el valor de tasación con fecha 27 de diciembre de 2019, acordándose la indemnización con su propietaria LUZ EUGENIA ISABEL DEL CARMEN TURRI VILLARROEL, en la cantidad de $3.302.645.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
