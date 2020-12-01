@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1035, de 22 de octubre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº28-A, para la obra: "CONSTRUCCIÓN CAMINO SANTA BÁRBARA - RÍO CAMAHUETO - CHANA, TRAMO KM. 0,01000 A KM. 15,51280", que figura a nombre de MALDONADO MUNOZ LUIS ERWIN, rol de avalúo 202-201, Comuna de CHAITÉN, REGIÓN DE LOS LAGOS, superficie 32 m2. respectivamente. La Comisión de Peritos integrada por JUAN CELESTINO GIOVANNINI MANSILLA, CARLOS EUGENIO MERA SANTIBAÑEZ y ENRIQUE EDGARDO HOELCK ALTMANN, mediante informe de tasación de fecha 28 de septiembre de 2012, complementada por acta de fecha 31 de marzo de 2015, fijó el monto de la indemnización provisional en la cantidad de $296.000, para el lote Nº28-A. La indemnización se pagará al contado, La publicación se efectúa en cumplimiento a lo dispuesto en el articulo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
