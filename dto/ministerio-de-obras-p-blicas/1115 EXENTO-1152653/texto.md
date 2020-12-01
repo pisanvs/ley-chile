@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1115 de 29 de octubre de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, Art, 15 inciso 2° y 22 N° 1 del Decreto N° 900 de 31 de octubre de 1996, se expropió el lote de terreno 1, Rol de avalúo 1328-161, comuna de San Carlos, superficie 364 m2., para la obra CONCESIÓN INTERNACIONAL RUTA 5 TRAMO: TALCA - CHILLÁN SECTOR: ORATORIO PARADEROS ORIENTE Y PONIENTE KM. 392.900,00 AL KM. 393.500,00, COMUMA DE SAN CARLOS, PROVINCIA DE DIGUILLÍN, REGIÓN DE ÑUBLE. La comisión de peritos, integrada por VALENTINA ANDREA CHACALTANA SIMS, MAXIMILIANO CORTÉS CAIOZZI y EDUARDO ALEJANDRO SILVA ARACENA, fijó el valor de tasación con fecha 26 de noviembre de 2018, acordándose la indemnización con sus propietarios MARÍA CECILIA ORELLANA ESPINOZA Y OTROS, en la cantidad de $7.114.579.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
