@@ -1,0 +1,13 @@
+AMPLIACIÓN DE CONCESIÓN DE SERVICIOS SANITARIOS SECTORES DENOMINADOS "A, B, C, D, E, F, G, H E I", DE LA COMUNA DE CARAHUE, REGIÓN DE LA ARAUCANÍA
+
+Por decreto número 121, del Ministerio de Obras Públicas, de fecha 9 de octubre de 2020, íntegramente tramitado el 2 de noviembre de 2020, se concedió a la Empresa Concesionaria de Servicios Sanitarios S.A. (Econssa Chile S.A), RUT Nº 96.579.410-7, domiciliada para estos efectos en calle Monjitas número 392, piso 10, oficina 1003, Santiago, Región Metropolitana, ampliación de las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas para atender los sectores denominados "A, B, C, D, E, F, G, H e I", de la Comuna de Carahue, Región de la Araucanía.
+
+El área de concesión o territorio operacional de los servicios de producción y distribución de agua potable y de recolección y disposición de aguas servidas, se encuentra identificada y delimitada en el plano denominado "Ampliación Territorio Operacional Sector Ampliación Áreas A, B, C, D, E, F, G, H e I de Carahue Contenido: Sector de Ampliación Territorio Operacional Planta General", del Plan de Desarrollo, que forma parte integrante del presente decreto. Se espera que en el primer establecimiento (2024) contar con 1.452 arranques de agua potable y 1.407 uniones domiciliarias de alcantarillado, los que, en el caso de los arranques estos se mantendrán, en tanto, tratándose de las uniones domiciliarias, estas aumentarán a 1.452, hacia el final del periodo (año 2034).
+
+El servicio público de producción de agua potable para los sectores señalados precedentemente, se amplían por este decreto, serán abastecidos por las fuentes que se indican en el numeral 3.1, letra a) de la Ficha de Antecedentes Técnicos (F.A.T.), sobre las cuales la concesionaria tiene los derechos que se individualizan en los informes de títulos respectivos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el Art. 26º del DS MOP Nº1.199/04, y se encuentran afectos a la concesión, documentos que forman parte integrante del presente decreto.
+
+Las demás condiciones de prestación de los servicios otorgados en concesión, son las establecidas en la Ficha de Antecedentes Técnicos (F.A.T.) Nº SC-09-05 A, que forman parte integrante del presente decreto.
+
+Programa de desarrollo, nivel tarifario, garantías y otros en decreto extractado que se redujo a escritura pública con fecha 10 de noviembre de 2020 ante el Notario de la 8 Notaría de Santiago, don Luis Ignacio Manquehual Mery y archivados en la Superintendencia de Servicios Sanitarios bajo el Nº SC-09-05 A.a
+
+Santiago, 11 de noviembre de 2020.- Jorge Rivas Chaparro, Superintendente de Servicios Sanitarios (S).
