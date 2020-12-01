@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1012, de 22 de octubre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP, N°206 de 1960, se expropiaron los lotes de terreno N°s.84-A, 84-B y 84-C, para la obra: MEJORAMIENTO RUTA J-55 SECTOR: LA UNION - LOS QUEÑES, que figura a nombre de MOLINA OLIVERA MARIA GABRIELA Y OTR, roles de avalúo 59-50, Comuna de ROMERAL, REGION DEL MAULE, superficies 213, 205 y 128 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 18 de abril de 2018, fijó el monto de la indemnización provisional en la cantidad de $842.586 para el lote N°84-A, $960.510 para el lote N°84-B, y $747.716 para el lote N°84-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
