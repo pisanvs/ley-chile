@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por Resolución Ex. N° 1194 de fecha 23/11/2020, conforme al artículo 51 Ley 16.391, D.L. 2.186/1978 y D. S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Construcción Solución AA.LL. acceso Las Mariposas, Temuco", SERVIU Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Inmueble consistente en el predio de más o menos 2 hectáreas 33 áreas, que forma parte de la parcela número 2 del Fundo La Esperanza, Rol de avalúo 3203-26, comuna de Temuco. La superficie a expropiar aproximada es de 207,23 metros cuadrados, de aparente dominio de Miriam Elisabeth Stockebrand Lorca. Comisión de Peritos integrada por don Ítalo Cortés Rocco, Eduardo Yáñez Inzunza y Claudio Pezo Muñoz, fijó monto de Indemnización Provisional en $16.390.000 según Informe N° 01-0A de fecha 16/11/2020, pagadero Contado.
+
+Director SERVIU Región de la Araucanía.
