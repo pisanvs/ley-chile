@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1117, de 29 de octubre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 9, para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO: TALCA - CHILLÁN SECTOR: PASARELA PEATONAL Y PARADEROS LA ISLA KM. 303.900,00 AL KM. 304.500,00, que figura a nombre de SOC AGRICOLA DOS RÍOS LIMITADA, rol de avalúo 506-22, Comuna de LINARES, REGION DEL MAULE, superficie 421 m2. La Comisión de Peritos integrada por EDUARDO ALEJANDRO SILVA ARACENA, VALENTINA ANDREA CHACALTANA SIMS y MAXIMILIANO CORTES CAIOZZI, mediante informe de tasación de 26 de noviembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $2.526.000 para el lote Nº9. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
