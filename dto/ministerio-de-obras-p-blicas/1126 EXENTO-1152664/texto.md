@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1126 de 29 de octubre de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP Nº 850 de 1997, Art. 15 inciso 2º y 22 Nº 1 del Decreto Nº 900 de 31 de octubre de 1996, se expropió el lote de terreno 1, Rol de avalúo 19-29, comuna de Ñiquén, superficie 137 m2., para la obra CONCESIÓN INTERNACIONAL RUTA 5 TRAMO: TALCA - CHILLÁN SECTOR: PARADEROS ORIENTE Y PONIENTE PAQUE NORTE KM. 352.500,00 AL KM. 353.100,00, COMUMA DE ÑIQUEN, PROVINCIA DE DIGUILLÍN, REGIÓN DE ÑUBLE. La comisión de peritos, integrada por JUAN PABLO CONTRERAS MALLEA, CARMEN GLORIA GATICA VILLARROEL y JAIME ROLANDO JURGENS BITTNER, fijó el valor de tasación con fecha 03 de septiembre de 2018, acordándose la indemnización con su propietaria MARÍA SOLEDAD HERNÁNDEZ MORENO, en la cantidad de $1.792.949.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
