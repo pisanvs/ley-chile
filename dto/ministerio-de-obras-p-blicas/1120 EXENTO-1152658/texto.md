@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1120 de 29 de octubre de 2020, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, Art. 15 inciso 2º y 22 Nº 1 del Decreto Nº 900 de 31 de octubre de 1996, se expropió el lote de terreno 2, Rol de avalúo 838-96, comuna de Parral, superficie 394 m2., para la obra CONCESIÓN INTERNACIONAL RUTA 5 TRAMO: TALCA - CHILLÁN SECTOR: PASARELA PEATONAL Y PARADEROS SECTOR BAJOS DE TALQUITA KM. 351.140,00 AL KM. 351.940,00, COMUNA DE PARRAL, PROVINCIA DE LINARES, REGIÓN DEL MAULE. La comisión de peritos, integrada por CAMILO JOSÉ JARA BRAVO, PABLO ALEX MANSILLA ARAVENA y CONSTANZA CAMILA VÁSQUEZ MUÑOZ, fijó el valor de tasación con fecha 10 de septiembre de 2018, acordándose la indemnización con su propietario OSCAR IGNACIO CABEZAS AVILA, en la cantidad de $1.375.091.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
