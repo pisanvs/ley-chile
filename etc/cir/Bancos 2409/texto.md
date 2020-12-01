@@ -9434,66 +9434,6 @@ En concordancia con lo indicado en el artículo 69 N° 2 de la Ley General de Ba
 
 Para cumplir con lo indicado en el segundo párrafo del numeral 4.1, las inversiones en instrumentos de renta fija se computarán por su valor razonable, debiendo este cubrir al menos la diferencia entre los montos de capital insoluto que allí se indican. En la eventualidad de que correspondiese aplicar las disposiciones de los artículos 125 y 126 de la Ley General de Bancos, se entenderá que las inversiones quedan incluidas sólo hasta el monto de la diferencia cubierta.
 
-## Capítulo 9-6
-
-BONOS SUBORDINADOS.
-
-### 1. Características de los bonos subordinados
-
-De conformidad con lo dispuesto en el artículo 55 de la Ley General de Bancos, los bancos pueden emitir bonos subordinados, cuyas características se indican a continuación:
-
-a) Deben emitirse a un plazo promedio no inferior a 5 años, sin garantía especial.
-
-b) Las condiciones de la emisión no deben incluir cláusulas que signifiquen el pago anticipado del total o parte de los bonos emitidos.
-
-c) La obligación puede computarse como patrimonio efectivo para los efectos de las limitaciones legales, calculada de conformidad con lo señalado en el N° 4 de este Capítulo y hasta el monto que en el mismo número se indica.
-
-d) En caso de que la entidad emisora se encuentre en concurso de acreedores, esto es, en estado de liquidación forzosa, estos bonos se pagarán después de los demás acreedores, incluidos los valistas, lo que les confiere su carácter de subordinados.
-
-e) Cuando el Directorio de la institución emisora presente convenio a sus acreedores, de conformidad con lo dispuesto en el artículo 122 de la Ley General de Bancos, los bonos subordinados que la empresa adeude, ya sea que se encuentren vencidos o por vencer, serán capitalizados por el solo ministerio de la ley, una vez aprobado el convenio, hasta concurrencia de lo necesario para que la proporción entre el patrimonio efectivo y los activos ponderados por riesgo no sea inferior al 12%.
-
-### 2. Prohibición de adquirir bonos subordinados
-
-De conformidad con lo dispuesto en la ley, los bonos subordinados no pueden ser adquiridos en forma alguna por bancos o demás instituciones sujetas a la fiscalización de esta Superintendencia, ni por sociedades filiales o coligadas de dichas instituciones.
-
-### 3. Emisión de los bonos
-
-3.1. Aprobación de la emisión.
-
-La emisión de bonos subordinados deberá ser acordada por el Directorio de la empresa, salvo que para el efecto sea necesaria una Junta de Accionistas, ya sea porque sus Estatutos así lo exigen o porque se trate de bonos subordinados convertibles en acciones por voluntad de sus tenedores.
-
-3.2. Determinación del plazo promedio.
-
-Para determinar el plazo promedio, cuando los bonos contemplen amortizaciones parciales, se multiplicará el importe de cada cuota de amortización por su plazo, expresado en días o meses, según corresponda. Luego se sumarán los productos obtenidos de esas operaciones y el resultado de la suma se dividirá por el importe total de la emisión. El cuociente que se obtenga indicará el plazo promedio del bono, expresado en días o meses, según cual haya sido el factor utilizado.
-
-3.3. Inscripción en el Registro de Valores.
-
-La emisión de los bonos subordinados queda sujeta a su inscripción en el Registro de Valores de esta Superintendencia, de acuerdo a las disposiciones de la Ley N° 18.045 sobre Mercado de Valores y a las instrucciones del Capítulo 2-11 de esta Recopilación.
-
-4. Cómputo de los bonos como patrimonio efectivo para los efectos de los límites legales.
-
-Para los fines de calcular el patrimonio efectivo, la ley establece que los bonos subordinados se valorarán al precio de colocación y el valor computable disminuirá en un 20% por cada año que transcurra desde que falten seis años para su vencimiento, esto es, para el pago de los respectivos cupones.
-
-Por consiguiente, el cálculo del importe computable deberá efectuarse sobre el valor actual de los bonos según la tasa implícita efectiva de colocación, aplicando los siguientes porcentajes según los años remanentes (no calendarios):
-
-Valor actual de los flujos a: Porcentaje
-
-______________________________ computable
-
-Más de cinco años 100%
-
-Más de cuatro hasta cinco años 80%
-
-Más de tres hasta cuatro años 60%
-
-Mas de dos hasta tres años 40%
-
-Más de uno hasta 2 años 20%
-
-Un año o menos 0%
-
-El monto de los bonos subordinados que pueden computarse como patrimonio efectivo en la forma antes señalada, no podrá exceder del 50% del capital básico de la institución, a la fecha del cómputo.
-
 ## Capítulo 10-1
 
 BIENES RECIBIDOS O ADJUDICADOS EN PAGO DE OBLIGACIONES.
@@ -10527,6 +10467,8 @@ Los antecedentes mencionados en este anexo deberán permitir una evaluación efi
 ## Capítulo 12-1
 
 PATRIMONIO PARA EFECTOS LEGALES Y REGLAMENTOS.
+
+> **Nota.** La Circular 2274, Comisión para el Mercado Financiero, promulgada el 08.10.2020, dispone reemplazar el presente Capítulo 1-12 por el Capítulo 21-1. Sin embargo, el inciso tercero de la citada Circular indica que las nuevas disposiciones contenidas en el Capítulo 21-1 regirán a partir del 1 de diciembre de 2020 las que contemplan un periodo de transición que se extenderá hasta el 1 de diciembre de 2025, dentro del cual los ajustes o exclusiones de activos y pasivos serán aplicados de manera gradual; debiendo a su vez realizarse otros ajustes, en base a las diferencias que se produzcan al contrastar los nuevos niveles de capital con los que resultarían al aplicar definiciones contenidas en este Capítulo 12-1, cuyo texto se mantendrá vigente para dichos efectos..
 
 ### I. CAPITAL BASICO, PATRIMONIO EFECTIVO Y LÍMITES LEGALES Y REGLAMENTARIOS
 
@@ -20884,6 +20826,2258 @@ Anexo - Hoja 2
 
 - Vulnerabilidad: Cualquier debilidad de un activo o control que puede ser explotada por una o más amenazas.
 
+## Capítulo 21-1
+
+PATRIMONIO PARA EFECTOS LEGALES Y REGLAMENTARIOS
+
+> **Nota.** La Circular 2274, Comisión para el Mercado Financiero, promulgada el 08.10.2020, dispone incorporar un nuevo Capítulo 21-1 en reemplazo del Capítulo 12-1. El inciso tercero de la citada Circular indica que las nuevas disposiciones contenidas en el presente Capítulo regirán a partir del 1 de diciembre de 2020 las que contemplan un periodo de transición que se extenderá hasta el 1 de diciembre de 2025, dentro del cual los ajustes o exclusiones de activos y pasivos serán aplicados de manera gradual; debiendo a su vez realizarse otros ajustes, en base a las diferencias que se produzcan al contrastar los nuevos niveles de capital con los que resultarían al aplicar definiciones contenidas en el Capítulo 12-1, cuyo texto se mantendrá vigente para dichos efectos.
+
+### I. CONSIDERACIONES GENERALES
+
+El presente Capítulo tiene como objetivo definir los ajustes regulatorios prudenciales y exclusiones a las partidas de activos y pasivos que se aplicarán en el cómputo del patrimonio efectivo de un banco, en los términos del artículo 66 de la Ley General de Bancos (LGB). Para lo anterior, se han tomado en consideración las recomendaciones y metodologías propuestas por el Comité de Basilea para la Supervisión Bancaria (BCBS, por sus siglas en inglés). Los factores del patrimonio efectivo ajustados, aquí definidos, deben ser utilizados para dar cumplimiento a los límites establecidos en la LGB, debiendo cada banco mantener una apropiada gestión de su capital.
+
+### II. COMPONENTES DEL PATRIMONIO EFECTIVO
+
+Acorde con el artículo 66 de la LGB, el patrimonio efectivo está conformado por el capital básico y los restantes factores que esta norma precisa, los que se agruparán y ordenarán para efectos de utilizar la terminología propuesta por el BCBS.
+
+Los factores integrantes del patrimonio efectivo (PE) o capital regulatorio son:
+
+- **a)** capital básico o capital ordinario nivel 1 (CET1, por sus siglas en inglés);
+
+- **b)** bonos sin plazo fijo de vencimiento y acciones preferentes a que se refiere el artículo 55 bis de la LGB o capital adicional nivel 1 (AT1, por sus siglas en inglés); para los fines del presente Capítulo, se define como capital nivel 1 (T1, por sus siglas en inglés) a la suma de CET1 y AT1; y
+
+- **c)** bonos subordinados y provisiones voluntarias o capital nivel 2 (T2, por sus siglas en inglés). Los factores que conforman cada componente que se indica a continuación se configuran a partir de lo prescrito por la LGB.
+
+### 1. Capital básico o capital ordinario nivel 1
+
+El capital ordinario nivel 1 es el componente de mayor calidad al absorber pérdidas inmediatamente cuando estas ocurren. Este se compone de la suma de los siguientes elementos en el patrimonio contable, en donde la adición de los elementos indicados hasta la letra e. corresponden al patrimonio de los propietarios según lo definido por el Compendio de Normas Contables (CNC):
+
+a. Capital pagado del banco por acciones ordinarias suscritas y pagadas.
+
+b. Sobreprecio pagado por los instrumentos incluidos en este componente de capital.
+
+c. Reservas, sean no provenientes y provenientes de utilidades, por depreciación de bonos sin plazo fijo de vencimiento y por caducidad de bonos sin plazo fijo de vencimiento.
+
+d. Partidas de "otro resultado integral acumulado".
+
+e. Utilidades retenidas de ejercicios anteriores, utilidad (pérdida) del ejercicio, netos de provisiones para dividendos mínimos, reapreciación de bonos sin plazo fijo de vencimiento y pago de intereses y/o dividendos de instrumentos financieros de capital regulatorio emitidos.
+
+f. El interés no controlador según lo indicado en el Compendio de Normas Contables (CNC). En el caso de acciones ordinarias emitidas por filiales que consolidan con el banco, que se encuentren suscritas por terceros y que forman parte del interés no controlador según las Normas Internacionales de Información Financiera (NIIF), deberán cumplir con el punto a) anterior. Para el caso de filiales en el extranjero, se deberá, además, asegurar el cumplimiento de los requisitos establecidos en el Anexo 1. En el caso de filiales que no cuentan con estándares de supervisión bancarios y/o requisitos de capital equivalentes, el interés no controlador sólo podrá ser reconocido si la filial que le da origen es supervisada también por la Comisión.
+
+El capital básico o CET1 corresponde a los componentes que se indicaron en los citados literales y los ajustes regulatorios enunciados en el Título III, cuyo resultado se identifica con la sigla CET1_6 en el N°5 del Título III de este Capítulo. Este valor constituye el capital básico que debe ser utilizado para los límites establecidos en la LGB, así como en cualquier otra referencia que se realice a este Capítulo con respecto a este término.
+
+### 2. Capital adicional nivel 1
+
+El capital adicional nivel 1 es aquel, que al igual que el CET1, absorbe pérdidas cuando el banco está en funcionamiento, pero sujeto a la activación de gatillos descritos en el Capítulo de esta Recopilación que define los requisitos y condiciones que deben reunir las emisiones de acciones preferentes y bonos sin plazo fijo de vencimiento para la constitución de patrimonio efectivo. Por lo tanto, este se compone por la suma de los bonos sin plazo fijo de vencimiento y acciones preferentes emitidas por el banco a los que se refiere el artículo 55 bis de la LGB, que cumplan con los requisitos establecidos en el referido Capítulo, para ser incluidos en el capital adicional nivel 1.
+
+Instrumentos emitidos por filiales, no computarán en el patrimonio efectivo consolidado del banco.
+
+El capital adicional nivel 1 corresponde a los componentes anteriores y los ajustes regulatorios enunciados en el Título III, cuyo resultado se identifica con la sigla AT1_5 en el N°5 del Título III de este Capítulo. Este valor constituye el capital adicional nivel 1 que debe ser utilizado para los límites establecidos en la LGB, así como en cualquier otra referencia que se realice a este Capítulo con respecto a este término. Además, este valor no podrá superar un tercio del capital básico.
+
+### 3. Capital nivel 1
+
+El capital nivel 1 tiene como objetivo absorber pérdidas cuando el banco se encuentra en marcha. Para la aplicación del presente Capítulo, éste será igual a la suma del capital ordinario nivel 1 y el capital adicional nivel 1. Considerando los componentes anteriores y los ajustes regulatorios enunciados en el Título III, el capital nivel 1 para el cálculo de los límites establecidos en la LGB, corresponderá a la suma del CET1_6 y AT1_5.
+
+### 4. Capital nivel 2
+
+El capital nivel 2, diseñado para la absorción de pérdidas cuando el banco entra en estado de liquidación, estará compuesto por la suma de los siguientes factores:
+
+a. Bonos subordinados emitidos por el banco que cumplan con los requisitos establecidos en el Capítulo de esta Recopilación que defina los requisitos y condiciones que deben reunir las emisiones de bonos subordinados para ser incluidos en el capital nivel 2. Instrumentos emitidos por filiales, no computarán en el patrimonio efectivo consolidado del banco. El valor de los bonos subordinados, incluyendo los ajustes regulatorios del Título III, no podrá superar un 50% del capital básico.
+
+b. Provisiones voluntarias que el banco ha constituido, según lo establecido en el N° 9 del Capítulo B-1 del CNC, hasta por un monto equivalente al 1,25 % de los activos ponderados por riesgo de crédito (APRC), netos de provisiones exigidas, computados con metodologías estandarizadas, o 0,625% de los APRC cuando se utilicen metodologías internas.
+
+El capital nivel 2 corresponde a los componentes anteriores y los ajustes regulatorios enunciados en el Título III, cuyo resultado se identifica con la sigla T2_5 en el N°5 del Título III de este Capítulo. Este valor constituye el capital nivel 2 que debe ser utilizado para los límites establecidos en la LGB, así como en cualquier otra referencia que se realice a este Capítulo con respecto a este término.
+
+### 5. Patrimonio efectivo
+
+El patrimonio efectivo estará compuesto por la suma de los factores indicados en el artículo 66 de la LGB, que se han denominado capital nivel 1 y capital nivel 2 anteriormente.
+
+### III. AJUSTES REGULATORIOS Y EXCLUSIONES DE PARTIDAS DE ACTIVOS O PASIVOS EN LOS COMPONENTES DE CAPITAL
+
+En esta sección se detallan los ajustes regulatorios y exclusiones de partidas de activos o pasivos, incluyendo mitigadores de riesgos, que se aplicarán sobre el capital calculado conforme al Título II. Este capital base, que no incluye los ajustes descritos en este Título, se identificará como CET1_1 para el caso del capital ordinario nivel 1, AT1_1 para el caso del capital adicional nivel 1, y T2_1 para el caso del capital nivel 2.
+
+Los ajustes regulatorios y exclusiones que se describen a continuación se aplicarán en forma secuencial, vale decir, se realizan sobre el monto de capital obtenido en el paso anterior.
+
+### 1. Ajuste por interés no controlador
+
+Dado que inicialmente se reconoce en el CET1 el interés no controlador de las filiales, según lo dispuesto en el Título II, este ajuste deduce aquella parte que excede el requerimiento regulatorio mínimo de cada filial y que está en manos de terceros.
+
+El excedente en manos de terceros deberá ser calculado como la diferencia entre el capital ordinario nivel 1 disponible en la filial y el capital regulatorio exigido en ella, ponderando esta diferencia por la participación que tienen las terceras partes a través del interés no controlador. El capital regulatorio exigido se obtiene de la multiplicación entre el requerimiento de capital ordinario nivel 1, incluyendo el capital adicional a que se refiere el artículo 66 bis, y el menor valor entre los activos ponderados por riesgo (APR) de la filial a nivel consolidado y la proporción asociada a la filial de los APR consolidados del banco matriz. La operación anterior se representa en la fórmula siguiente:
+
+.
+
+Para el caso de filiales que no tienen requisitos de capital equivalentes a los bancos, el excedente regulatorio se deberá estimar de la siguiente forma:
+
+.
+
+Considerando lo anterior, el capital básico CET1_2 resultante de este paso está dado por:
+
+.
+
+Por otro lado, el valor AT1_2 y T2_2 corresponden a los mismos que fueron determinados en los N°s 2 y 4 del Título II, respectivamente, al no existir descuentos en este punto.
+
+### 2. Ajustes regulatorios y exclusiones
+
+Los ajustes regulatorios enunciados en este paso se aplican directamente sobre el capital ordinario nivel 1 que se obtiene en el paso anterior, CET1_2. Las deducciones aquí presentadas, guardan relación con las partidas del estado de situación financiera que reflejan activos u otros elementos cuyo valor, en situaciones de liquidación, es bajo y/o reflejan exposiciones que no estarán disponibles en un evento de liquidación. Las deducciones por realizar son las siguientes:
+
+a. Activos intangibles
+
+El importe total de goodwill y otros activos intangibles reconocidos bajo las NIIF, originados por combinaciones de negocios o no, deben ser deducidos del CET1_2. Asimismo, se debe deducir el goodwill incluido en las valorizaciones por inversiones en entidades fuera del perímetro de consolidación, incluyéndose las inversiones significativas que corresponden a una influencia significativa y que sean registrados por el método de participación según la NIC28. Por otra parte, se debe deducir cualquier intangible que tiene origen en un contrato de arrendamiento en el cual el banco o sus filiales actúan como arrendatario según la NIIF16.
+
+La deducción es total y se realiza neta de los pasivos netos por impuestos diferidos que se extinguirían si el goodwill, y los otros activos intangibles, sufrieran deterioro o fueran dados de baja según la NIC36. En el caso que las filiales en el extranjero, con la que consolida el banco, tengan reconocido un activo intangible por derechos de servicios de créditos hipotecarios según las NIIF o de acuerdo con lo dictado por el Comité de Normas de Contabilidad Financiera (FASB, por sus siglas en inglés), este monto deberá tratarse según lo descrito en el N°5 de este Título.
+
+b. Activos por impuestos diferidos
+
+Los activos por impuestos diferidos que no correspondan a diferencias temporales y cuya materialización dependa de la rentabilidad futura del banco, es decir activos por impuestos diferidos respecto de pérdidas fiscales no utilizadas o créditos tributarios no utilizados, deberán ser deducidos totalmente del CET1_2.
+
+c. Reserva de valorización por cobertura contable de flujos de efectivo
+
+La reserva de valorización por cobertura contable de flujos de efectivo, registrada en el otro resultado integral acumulado según el CNC, refleja la variación del valor razonable de los contratos de derivados utilizados para tales fines. Para evitar la volatilidad que genera el reconocimiento en el cambio de valor de la cobertura contable, se debe sumar al CET1_2, los montos negativos registrados en la reserva, o en caso contrario, restar los montos positivos registrados en esta partida. Para este ajuste, sólo debe considerarse la reserva de aquellos instrumentos de cobertura para activos y/o pasivos que no estén registrados a valor razonable en el estado de situación financiera.
+
+d. Insuficiencia de provisiones por pérdida esperada
+
+En los casos en que el banco disponga de la aprobación de esta Comisión para el uso de metodologías internas (MI) para el cómputo de capital por riesgo de crédito, podrá utilizar los parámetros de riesgo (probabilidad de incumplimiento) para computar la pérdida esperada. El monto anterior se contrastará con los montos de provisiones constituidas en el estado de situación financiera (sin considerar provisiones voluntarias), y cualquier déficit deberá restarse en forma íntegra del CET1_2, sin considerar cualquier efecto por impuestos diferidos.
+
+e. Ganancias por venta de activos a sociedades securitizadoras o a fondos de inversión de créditos securitizados
+
+De acuerdo con el Capítulo 8-40 de la RAN, los bancos sólo pueden vender a sociedades securitizadoras o a fondos de inversión de créditos securitizados, los activos de su cartera de colocaciones y de inversiones financieras que autoriza el Banco Central de Chile, que se indican en el Capítulo III.B.4 de su Compendio de Normas Financieras y que cumplen los requerimientos de la RAN 8-40. Al respecto, si existe una implicación continuada en los activos vendidos a sociedades securitizadoras o a fondos de inversión de créditos securitizados, de acuerdo con lo definido en el párrafo 3.2.6.(c.ii.) de la NIIF9, cualquier ganancia registrada en resultados de acuerdo con el párrafo 3.2.20 de la NIIF9, deberá ser deducida del CET1_2. En los casos que existan las condiciones para dar íntegramente de baja el activo del estado de situación financiera , de acuerdo con lo definido en el párrafo 3.2.6.(a) y 3.2.6.(c.i.) de la NIIF 9, la ganancia registrada en resultados de acuerdo con el párrafo 3.2.12 de la NIIF9, deberá eliminarse del CET1_2 si se reconoce un nuevo activo financiero o un activo por el contrato de servicio de administración del activo transferido, de acuerdo con lo señalado en los párrafos 3.2.10 y 3.2.11 de la NIIF9 respectivamente.
+
+f. Ganancias o pérdidas acumuladas por variaciones del riesgo de crédito propio del emisor de pasivos financieros valorizados a valor razonable
+
+Se deberá ajustar del CET1_2 toda ganancia o pérdida después de impuestos, sea que esté registrada en el resultado u otro resultado integral, resultante de variaciones en el valor razonable de pasivos financieros a raíz de cambios en el riesgo de crédito propio del emisor, es decir, restar en caso de tener ganancias o, en caso contrario, agregar las pérdidas después de impuestos. En el caso de los pasivos por contratos de derivados financieros, se deberá eliminar cualquier ajuste de valorización en el valor razonable respecto del riesgo de crédito propio del emisor (DVA) sin compensar por los ajustes de valorización en el valor razonable respecto del riesgo de crédito de la contraparte (CVA).
+
+g. Activos por planes de pensiones de beneficios definidos
+
+El superávit (activo) por planes de pensiones de beneficios definidos según la NIC19, deberá ser deducido del CET1_2. El monto por deducir puede ser compensado por el pasivo neto por impuesto diferido que se extingue en caso de que el activo fuera dado de baja. En el caso de que el banco tenga acceso libre y pleno de los activos anteriores, estos podrán ser omitidos de esta deducción, previa autorización por parte de la Comisión. En este último caso, los activos omitidos recibirán un ponderador en los activos ponderados por riesgo como si el banco fuese propietario directo de ellos.
+
+h. Inversiones en instrumentos propios
+
+Las inversiones en acciones propias, ya sea de forma directa o indirecta (por ejemplo, a través de un fondo), en los casos que la legislación lo permita, deberán ser deducidas del CET1_2. Esto aplica también para aquellas inversiones en acciones propias que el banco adquiera, e independiente de si la inversión se contabiliza en el libro de banca o de negociación. En el caso de existir posiciones cortas, estas podrán ser compensadas con posiciones largas cuando se trate del mismo instrumento y cuando las posiciones cortas no involucran el riesgo de contraparte.
+
+En el caso de que sea operativamente oneroso examinar y controlar la exposición indirecta, el banco podrá utilizar una estimación conservadora (por ejemplo, límites máximos de inversión definidos en políticas o reglamentos), previa autorización de la Comisión.
+
+Tras realizar todos los ajustes regulatorios y exclusiones de este numeral, se obtiene el capital ordinario nivel 1 ajustado CET1_3. Por otro lado, el valor AT1_3 y T2_3 corresponden a los mismos que fueron determinados en el N°s 2 y 4 del Título II respectivamente, al no existir descuentos en este punto.
+
+### 3. Ajustes regulatorios por inversiones no significativas
+
+Este ajuste aplica sobre inversiones en empresas financieras, bancarias o no bancarias, donde el banco no posee más del 10% del capital ordinario emitido por la institución y que no son consolidadas en los estados financieros del banco. Se exceptuará de este tratamiento aquellas inversiones en sociedades que presten, única y exclusivamente, servicios destinados a facilitar el cumplimiento de los fines de los bancos, y/o aquellas que el banco utiliza para efectuar determinadas operaciones de su giro, definidas como sociedades de apoyo al giro (SAG) según el Capítulo 11-6 de la RAN. Cuando se trate de inversiones no significativas de filiales en el extranjero, aplicará la misma excepción cuando las inversiones sean asimilables a las sociedades de apoyo al giro que indica el Capítulo 11-6 de la RAN.
+
+Para estimar la inversión en los distintos componentes de capital, así como la participación en el capital ordinario, se deben considerar los siguientes aspectos:
+
+. La inversión en los instrumentos debe considerar participaciones directas, indirectas y aquellas en instrumentos derivados que repliquen el desempeño de una emisión de capital (en adelante, "sintéticas"). En el caso de que sea operativamente oneroso examinar y controlar la exposición indirecta, el banco podrá utilizar una estimación conservadora (por ejemplo, límites máximos de inversión definidos en políticas o reglamentos), previa autorización de la Comisión.
+
+. Se deben considerar exposiciones clasificadas en la cartera de negociación y el libro de banca, de acuerdo con lo establecido en el Capítulo de esta Recopilación que regule los activos ponderados por riesgo de mercado. En el caso de existir posiciones cortas, éstas podrán ser compensadas con posiciones largas cuando se trate del mismo subyacente y la madurez residual sea de al menos un año.
+
+. Se podrán excluir de la medición, aquellos instrumentos que correspondan a contratos de suscripción para su colocación y que se mantengan por 5 días hábiles o menos.
+
+. Si un instrumento se reconoce parcialmente en el capital regulatorio de la entidad emisora, se computará íntegramente por el banco inversor al determinar la inversión total en instrumentos de capital regulatorio.
+
+. En el caso de que los instrumentos de capital adicional nivel 1 ó nivel 2, no sean parte del capital regulatorio de la entidad financiera emisora, entonces no se aplicará el descuento de estos instrumentos. Por el contrario, cuando sean parte del capital regulatorio de la entidad financiera, deberá verificarse el cumplimiento de los requisitos sobre capital regulatorio indicados en los numerales 2 ó 4 del Título II, según corresponda al tipo de capital. En caso de que los instrumentos cumplan los requisitos, entonces el descuento debe realizarse en el respectivo nivel de capital. En caso contrario, se descontarán de capital ordinario nivel 1.
+
+Cumpliéndose los requisitos anteriores, el banco deberá agregar los montos de CET1, AT1 y T2 de las inversiones no significativas. Luego, el monto a deducir corresponderá al excedente entre el monto agregado y el 10% del capital ordinario nivel 1 obtenido en el paso anterior (CET1_3). La distribución de la deducción, por cada componente de capital, será proporcional a los montos de CET1, AT1 y T2 en inversiones no significativas. En caso de que el banco no disponga de suficiente capital para realizar la deducción a un determinado nivel (CET1_3, AT1_3 y T2_3), la diferencia en la deducción se llevará a cabo en el nivel de capital inmediatamente superior. Luego de aplicar este ajuste, se obtiene el capital ordinario nivel 1 ajustado CET1_4, capital adicional nivel 1 ajustado AT1_4 y capital nivel 2 ajustado T2_4. Estos valores se pueden expresar matemáticamente como sigue:
+
+.
+
+donde:
+
+.
+
+Los montos no deducidos en este punto se seguirán ponderando en función de su riesgo. Al momento de realizar la ponderación, se deberá realizar una distribución proporcional entre los elementos que superan el umbral (que son deducidos) y aquellos que no.
+
+Adicionalmente, los bancos deberán considerar en este ajuste, las inversiones realizadas en instrumentos de absorción de pérdidas (TLAC, por sus siglas en inglés), emitidos por los bancos globalmente sistémicos (G-SIB, por sus siglas en inglés). Este tratamiento se detalla en el Anexo N°2.
+
+### 4. Ajustes regulatorios por inversiones significativas
+
+Este ajuste aplica sobre inversiones en empresas financieras, bancarias o no bancarias, donde el banco posee más del 10% del capital ordinario emitido por la institución o es una asociada según la NIC28, y que no es consolidada en los estados financieros del banco. Se exceptuará de este tratamiento aquellas inversiones en sociedades que presten, única y exclusivamente, servicios destinados a facilitar el cumplimiento de los fines de los bancos, y/o aquellas que el banco utiliza para efectuar determinadas operaciones de su giro, definidas como sociedades de apoyo al giro (SAG) según el Capítulo 11-6 de la RAN. Cuando se trate de inversiones significativas de filiales en el extranjero, aplicará la misma excepción cuando las inversiones sean asimilables a las sociedades de apoyo al giro que indica el Capítulo 11-6 de la RAN.
+
+Para estimar la inversión en los distintos componentes de capital, así como la exposición al capital ordinario, se deben considerar los siguientes aspectos:
+
+. La inversión en los instrumentos debe considerar participaciones directas, indirectas y sintéticas. En el caso de que sea operativamente oneroso examinar y controlar la exposición indirecta, el banco podrá utilizar una estimación conservadora (por ejemplo, límites máximos de inversión definidos en políticas o reglamentos), previa autorización de la Comisión.
+
+. Se deben considerar exposiciones clasificadas en la cartera de negociación y el libro de banca, de acuerdo con lo establecido en el Capítulo de esta Recopilación que regule los activos ponderados por riesgo de mercado. En el caso de existir posiciones cortas, estas podrán ser compensadas con posiciones largas cuando se trate del mismo subyacente y la madurez residual sea de al menos un año.
+
+. Se podrán excluir de la medición, aquellos instrumentos que correspondan a contratos de suscripción para su colocación y que se mantengan por 5 días hábiles o menos.
+
+. Si un instrumento se reconoce parcialmente en el capital regulatorio de la entidad emisora, se computará íntegramente por el banco inversor al determinar la inversión total en instrumentos de capital regulatorio.
+
+. En el caso de que los instrumentos de capital adicional nivel 1 ó nivel 2 no sean parte del capital regulatorio de la entidad financiera, entonces no se aplicará el descuento de estos instrumentos. Por el contrario, cuando sean parte del capital regulatorio de la entidad financiera, deberá verificarse el cumplimiento de los requisitos sobre capital regulatorio indicados en los numerales 2 ó 4 del Título II, según corresponda el tipo de capital. En caso de que los instrumentos cumplan los requisitos, entonces el descuento debe realizarse en el respectivo nivel de capital. En caso contrario, se descontarán de capital ordinario nivel 1.
+
+Cumpliéndose los parámetros anteriores, el banco deberá descontar completamente los montos de AT1 y T2 de las inversiones significativas. En el caso que el banco no disponga de suficiente capital para realizar la deducción a un determinado nivel (AT1_4 y T2_4), entonces, la deducción se llevará a cabo en el nivel de capital inmediatamente superior. La deducción de CET1 por las inversiones significativas se trata en el siguiente paso de deducciones por umbrales. Luego de aplicar este ajuste, se obtiene el capital adicional nivel 1 ajustado AT1_5 y capital nivel 2 ajustado T2_5. En el caso de no aplicarse los descuentos en el capital ordinario nivel 1 por existir suficiente capital para absorber la deducción en los niveles superiores respectivos, el CET1_5 corresponderá al valor que viene del paso anterior (CET1_4). Estos valores se pueden expresar matemáticamente como sigue:
+
+.
+
+Adicionalmente, los bancos deberán considerar, en este ajuste, las inversiones realizadas en instrumentos TLAC de bancos G-SIB. Este tratamiento se detalla en el Anexo N°2.
+
+### 5. Ajustes regulatorios por umbrales
+
+En este apartado se aplican los ajustes regulatorios finales a los componentes de capital. En un primer paso, se deberá deducir, sobre el capital ordinario nivel 1 ajustado del paso anterior (CET1_5), y de manera individual, valores que sobrepasen el 10% de CET1_5 en los siguientes tres rubros, que se conocen como partidas específicas: i) activos por impuestos diferidos por diferencias temporales netos de pasivos netos por impuestos diferidos que no hayan sido utilizados para deducir el activo definido en las letras a y g del numeral 2 del Título III, y derechos de servicios de créditos hipotecarios, al que se refiere el punto iii) de este párrafo; ii) inversiones en entidades significativas en CET1; y iii) derechos de servicios de créditos hipotecarios, neto de cualquier pasivo neto por impuestos diferidos que se extinguiría si esta partida sufriera deterioro o fuera dada de baja según la NIC 36.
+
+Por otro lado, bancos que reciban por parte del Fisco un crédito (activo) contingente, total o parcial, por el monto de activos netos por impuestos diferidos por diferencias temporales que superan el 10% del CET1_5, quedarán eximidos de esta deducción. Los montos por activos netos de impuestos diferidos por diferencias temporales que no se deduzcan, a causa de este tratamiento, tendrán un ponderador del 100% en el cálculo de los APRC.
+
+Considerando este ajuste inicial al capital ordinario nivel 1, se obtiene el CET1_6(INT) tal como sigue:
+
+.
+
+Además del descuento individual, se requiere que la suma de los montos no descontados por las partidas específicas no sea superior al 15% del capital básico o capital ordinario nivel 1 una vez realizados todos los ajustes regulatorios, incluyendo las deducciones realizadas de las partidas específicas de forma individual, y considerando en el capital el monto no deducido. Este ajuste se realiza como sigue:
+
+.
+
+Los montos no descontados de las partidas específicas estarán sujetos a un ponderador de riesgo de crédito de 250%, salvo en los casos donde exista un crédito del Estado asociado al excedente en activos netos por impuestos diferidos por diferencias temporales, en cuyo caso, aplicará un ponderador de 100% para el cómputo de los APRC.
+
+Considerando el ajuste regulatorio por umbral, se obtiene el monto CET1_6, que se considera como capital ordinario nivel 1 del banco. Para el caso del capital adicional nivel 1, dado que no existen ajustes regulatorios en este paso, su valor corresponderá al que viene dado por AT1_5. Similar situación ocurre para el capital nivel 2, cuyo monto quedará determinado por T2_5.
+
+### IV. SOBRE LA MEDICIÓN DE LOS LÍMITES LEGALES Y APLICACIÓN DE ESTA NORMA
+
+El capital básico y patrimonio efectivo, una vez efectuados los ajustes regulatorios y exclusiones definidos en esta norma, aplicarán consolidadamente para el cálculo de todos los límites establecidos en la LGB que se refieran a "capital básico" y "patrimonio efectivo", salvo que la LGB indique lo contrario. El límite del 6% sobre los APR netos de provisiones específicas exigidas, al que refiere el literal b) del artículo 66 de la LGB, deberá ser medido con el capital nivel 1. Para el caso particular de los límites establecidos en el artículo 66, 66 bis y 66 ter de la LGB, estos deberán medirse a nivel consolidado y consolidado local. La segunda medición corresponde a aquella en que el banco no considera en su consolidación a las filiales en el extranjero.
+
+Cuando se trate de los límites señalados en el artículo 65, en el N° 1 del artículo 80 y en el N° 5 del artículo 84, de la LGB, debe considerarse el patrimonio efectivo individual.
+
+Cuando el banco mida el patrimonio efectivo a nivel individual o consolidado local, deberá aplicar esta norma a los estados financieros que excluyen de la consolidación a las filiales, como se indica a continuación. Así, para el caso individual, se deberán excluir todas las filiales, mientras que para el caso del consolidado local, se deberán excluir solo las filiales en el extranjero. Una vez aplicada la presente norma sobre esta base, se deberá restar, tanto del CET1_6 y los APR, el valor de la inversión en filiales, por lo que estas no deben ser tratadas según el paso III. Esto dará como resultado el valor final del CET1, patrimonio efectivo y APR a utilizar en las mediciones necesarias.
+
+En el caso de la aplicación del límite del artículo 80 N° 1 de la LGB, el cálculo del patrimonio efectivo individual se efectuará agregando todos los activos correspondientes a inversiones en sociedades y sucursales, según lo indicado en el N° 2.2 del Título II del Capítulo 11-7 de la RAN.
+
+### V. DISPOSICIONES TRANSITORIAS
+
+La presente norma regirá a partir del 1 de diciembre de 2020, debiendo los bancos determinar el patrimonio efectivo y sus elementos, que resulten aplicables conforme a las disposiciones de este Capítulo, a contar de esa fecha, sin perjuicio de lo dispuesto a continuación.
+
+La aplicación de los ajustes regulatorios y exclusiones a los componentes de capital de los que se refiere este Capítulo será gradual, con dos años de desfase desde la entrada vigencia, comenzando con un 15% del descuento el 1 de diciembre de 2022, subiendo a 30% a partir del 1 de diciembre de 2023, a 65% a partir del 1 de diciembre de 2024, y llegando al 100% a partir del 1 de diciembre de 2025.
+
+Durante el periodo de transición, los bancos deberán estimar la diferencia en CET1 y T2 entre la definición equivalente del Capítulo 12-1 y las normas dispuestas en este Capítulo. La definición equivalente del CET1 según el Capítulo 12- 1 de la RAN será la suma del capital básico ahí definido y el interés no controlador (reconocido hasta por el 20% del capital básico). Se deberá deducir de este valor el goodwill, y cualquier exceso de inversiones minoritarias de acuerdo con lo estipulado en esa norma. En el caso de mediciones no consolidadas, se deberá restar el valor de las inversiones en filiales.
+
+Para el caso del T2, la definición equivalente será la suma de los bonos subordinados según lo dispuesto en el Capítulo de esta Recopilación que defina los requisitos y condiciones que deben reunir las emisiones de bonos subordinados (el límite de 50% del CET1 será estimado sobre la definición equivalente), y las provisiones adicionales de acuerdo con lo señalado en el Capítulo 12-1. La diferencia en ambos niveles de capital deberá ponderarse según lo descrito en el párrafo anterior, y deducirse si es positiva, o sumarse si es negativa, a la definición equivalente del Capítulo 12-1 para cada nivel de capital. Para el caso de la definición del AT1, se aplicarán las disposiciones de este Capítulo desde un inicio, sin perjuicio de las disposiciones transitorias que se establezca en el Capítulo de esta Recopilación que defina los requisitos y condiciones que deben reunir las emisiones de acciones preferentes y bonos sin plazo fijo de vencimiento para la constitución de patrimonio efectivo.
+
+En caso de que, a la fecha de entrada en vigencia de esta normativa, hubiere bancos que se encuentren reconociendo en el patrimonio efectivo bonos subordinados emitidos por filiales, o no sean admisibles de acuerdo a las disposiciones establecidas en el Capítulo de esta Recopilación que defina los requisitos y condiciones que deben reunir las emisiones de bonos subordinados, podrán seguir siendo computados desde el 1 de diciembre de 2020. Sin embargo, la razón de reconocimiento decrecerá en un 10% anual a partir del 1 de diciembre de 2022, hasta su exclusión total del capital regulatorio. Durante este periodo de exclusión, los bonos subordinados deberán considerarse en la definición de capital T2 según esta norma y su equivalente señalado arriba, ponderados por su razón de reconocimiento. Este valor deberá considerarse en la medición del límite del 50% del CET1 en ambos casos.
+
+En lo que respecta a la medición consolidada local, descrita en el N°1 del Título IV de esta norma, deberá realizarse y reportarse a esta Comisión a partir del 1 de diciembre de 2022.
+
+ANEXO N°1
+
+REQUISITOS PARA ACCIONES EMITIDAS POR FILIALES EN EL EXTRANJERO
+
+Para el caso de acciones de filiales emitidas en una jurisdicción extranjera, se deben cumplir los siguientes requisitos para que estas puedan ser parte del capital ordinario nivel 1:
+
+o Deben ser el derecho de cobro más subordinado en caso de liquidación y se ejerce sobre los activos netos residuales en proporción a su participación en el capital emitido, una vez atendidos todos los derechos de mayor prelación dentro de un proceso de liquidación asimilable al artículo 136 de la LGB.
+
+o El capital enterado no es redimible de la sociedad a voluntad del accionista fuera del caso de liquidación, recompras acordadas por la junta de accionistas u otros medios de reducción efectiva de capital conforme a la legislación de la respectiva jurisdicción.
+
+o Con ocasión de la colocación de las acciones, el emisor no ha generado expectativas de que el instrumento será objeto de recompra, ni otorga a su titular derecho a retiro en términos similares a la letra b) del artículo 41 de LGB.
+
+o Las distribuciones de resultados se realizan contra utilidades retenidas de acuerdo con el Compendio de Normas Contables de la Comisión para el Mercado Financiero.
+
+o No existen condiciones en los estatutos de la entidad que obliguen a realizar distribuciones. Por lo tanto, la falta de pago de éstas no constituye un supuesto de incumplimiento o default por parte de esta respecto de los accionistas, en condiciones homologables al art. 56 de la LGB.
+
+o Las distribuciones solo se pagan una vez satisfechas todas las obligaciones legales y contractuales.
+
+o Son el componente de capital que soporta en primer lugar las pérdidas, así como el porcentaje proporcionalmente mayor de éstas según se produzcan.
+
+o El importe emitido y pagado se considera como patrimonio para efectos de determinar la insolvencia contable.
+
+o El importe emitido y pagado se clasifica como patrimonio bajo las instrucciones que indica el CNC.
+
+o Se refleja de forma clara y separadamente en el estado de situación financiera de la entidad, materia que es regulada en el CNC.
+
+o La entidad no puede haber financiado, directa o indirectamente, la compra del instrumento, conforme al artículo 84 N°3 de la LGB.
+
+o El importe desembolsado por las acciones no está asegurado ni cubierto por garantías del emisor o de una entidad relacionada, ni es objeto de cualquier otro acuerdo que mejore la prelación del accionista.
+
+o Su emisión debe contar con la aprobación de la junta de accionistas.
+
+ANEXO N°2
+
+TRATAMIENTO DE INVERSIONES EN INSTITUCIONES CON
+
+IMPORTANCIA SISTÉMICA GLOBAL (G-SIB)
+
+Los bancos con importancia sistémica global (G-SIB, por sus siglas en inglés) son identificados anualmente por el Consejo de Estabilidad Financiera (FSB, por sus siglas en inglés). Estos bancos están obligados a cumplir requerimientos mínimos para la capacidad total de absorción de pérdidas (TLAC, por sus siglas en inglés), en conformidad a lo establecido por el FSB. Las emisiones TLAC complementan el capital regulatorio CET1, AT1 y T2 del banco emisor.
+
+Los bancos locales podrían estar expuestos a inversiones en instrumentos clasificados como TLAC en otras jurisdicciones, por lo que se hace necesario generar una pauta para su tratamiento. En este caso, las exposiciones a este tipo de instrumentos deberán considerar todas las participaciones directas, indirectas y aquellas en instrumentos derivados que repliquen el desempeño de una emisión de un G-SIB, admisible como TLAC externo por parte de la jurisdicción en la que se encuentre la entidad de resolución y no como capital regulatorio de otro nivel superior. Si un instrumento se reconoce parcialmente como TLAC para el banco emisor, se deberá considerar íntegramente por parte del banco inversor al determinar la exposición en instrumentos TLAC.
+
+La exposición anterior, deberá tratarse dependiendo de si al emisor se le aplica un tratamiento de inversión significativa o no.
+
+a) Ajustes regulatorios por inversiones no significativas:
+
+Este escenario considera las inversiones en entidades incluidas en el ajuste del paso del N°3 del Título III. En este caso, si la exposición bruta es mayor al 5% del CET1_3, deberá entonces deducirse este valor totalmente del capital nivel 2, T2_3. En caso contrario, la exposición larga, menos los ajustes descrito abajo, deberá sumarse a la exposición en capital nivel 2, para determinar si, en conjunto a las exposiciones en otros instrumentos de capital regulatorio, sobrepasan el 10% del CET1_3 descrito en el N°3 del Título III:
+
+. Si existen posiciones cortas, estas podrán ser compensadas con posiciones largas cuando se trate del mismo subyacente y la madurez residual sea de al menos un año.
+
+. Se podrán excluir de la medición, aquellos instrumentos que sean contratos de suscripción para su colocación y que se mantengan por 5 días hábiles o menos.
+
+b) Ajustes regulatorios por inversiones significativas:
+
+En este caso, la exposición larga, menos los ajustes abajo, deberá restarse íntegramente del capital nivel 2, T2_4, descrito en el N°4 del Título III:
+
+. Si existen posiciones cortas, estas podrán ser compensadas con posiciones largas cuando se trate del mismo subyacente y la madurez residual sea de al menos un año.
+
+. Se podrán excluir de la medición, aquellos instrumentos que sean contratos de suscripción para su colocación y que se mantengan por 5 días hábiles o menos.
+
+## Capítulo 21-2
+
+INSTRUMENTOS DE CAPITAL ADICIONAL NIVEL 1 PARA LA CONSTITUCIÓN DE PATRIMONIO EFECTIVO: ACCIONES PREFERENTES Y BONOS SIN PLAZO FIJO DE VENCIMIENTO DEL ARTÍCULO 55 BIS DE LA LEY GENERAL DE BANCOS
+
+### I. CONSIDERACIONES GENERALES
+
+Este capítulo tiene como objetivo definir los requisitos y condiciones mínimas que deberán cumplir las emisiones de acciones preferentes y bonos sin plazo fijo de vencimiento de empresas bancarias para que éstas puedan ser computadas como capital adicional nivel 1 o AT1 (por sus siglas en inglés), y, por tanto, en el patrimonio efectivo de los bancos, de acuerdo con lo indicado en el Capítulo 21-1 de la Recopilación Actualizada de Normas (RAN). Lo anterior, en conformidad con lo dispuesto en el artículo 55 bis de la Ley General de Bancos (LGB), que permite a esta Comisión fijar, mediante norma de carácter general, previo acuerdo favorable del Banco Central de Chile, los requisitos y condiciones que deberán satisfacer estas emisiones. Las condiciones aquí establecidas guardan relación con lo definido por el Comité de Supervisión Bancaria de Basilea para este tipo de instrumentos.
+
+De acuerdo con lo establecido en el primer numeral del artículo 55 bis de la LGB, las acciones preferentes otorgarán a sus titulares preferencias de orden patrimonial, las que deben estar establecidas en las condiciones de emisión y previstas en los estatutos sociales, además de en los propios títulos conforme a la Ley N°18.046 y su Reglamento. Estas preferencias podrán consistir en una prioridad en el pago de dividendos o, inclusive, el derecho a una proporción determinada o determinable de las utilidades líquidas distribuibles, respecto de los titulares de acciones ordinarias. Asimismo, las acciones que gocen de estas preferencias podrán ser emitidas sin derecho a voto o con derecho a voto limitado. Las acciones preferentes sin derecho a voto, o las con derecho a voto limitado en las materias en que carezcan de éste, no se computarán para el cálculo de los quórums de sesión o de votación en las juntas de accionistas.
+
+Las preferencias que otorguen estas acciones no requerirán estar sujetas a plazos de vigencia determinados, ni tampoco será aplicable lo previsto en el artículo 21, inciso tercero de la ley N°18.046 sobre Sociedades Anónimas.
+
+Por su parte, de acuerdo con lo establecido en el segundo numeral del artículo 55 bis de la LGB, los bonos serán emitidos sin un plazo fijo de vencimiento para la amortización del capital adeudado. El capital de estos títulos sólo podrá ser amortizado como consecuencia del pago anticipado o rescate voluntario de tales instrumentos por parte del banco emisor, parcial o totalmente, sujeto a las reglas indicadas en los numerales tercero a sexto de dicha disposición legal. Estos bonos se considerarán para todos los efectos legales como instrumentos de deuda de oferta pública.
+
+Aquellas acciones que requieran o no la previa aprobación de la Comisión, tales como eximir el pago de intereses y/o dividendos, activación de gatillos de absorción de pérdidas, entre otros, califican para ser consideradas como información esencial, de acuerdo con el numeral 2 del Capítulo 18-10 de la RAN, a menos que sea aplicable el numeral 3 del citado Capítulo.
+
+Las emisiones que no reúnan las condiciones establecidas en esta normativa no podrán contabilizarse como patrimonio efectivo, conforme a lo dispuesto en el Capítulo 21-1 de la RAN.
+
+### II. CONDICIONES DE EMISIÓN DE INSTRUMENTOS AT1
+
+Los bancos pueden emitir acciones preferentes y bonos sin plazo fijo de vencimiento, los que deben cumplir con las siguientes características:
+
+. Deben ser valorados al precio de colocación, de acuerdo con lo establecido en la NIIF9, tanto para fines de capital regulatorio según el Capítulo 21-1 de la RAN, y presentación de estados financieros.
+
+. Pueden emitirse, en el caso de los bonos sin plazo fijo de vencimiento, en cualquier unidad monetaria, reajustables o no reajustables, en moneda nacional o extranjera. Respecto de las acciones preferentes, pueden emitirse en la moneda funcional de cada país en términos nominales, por ejemplo, pesos chilenos.
+
+. Se considerarán en los estados financieros como pasivos financieros, en concordancia con lo estipulado por la NIC 32 y de acuerdo con las facultades otorgadas a la Comisión por el numeral 6 del artículo 5 del D.L. N°3.538.
+
+El resumen de las condiciones de emisión de instrumentos AT1 se describe en el Anexo.
+
+### 1. Requisitos mínimos
+
+Las acciones preferentes y los bonos sin plazo fijo de vencimiento deberán cumplir con los siguientes requisitos mínimos:
+
+. Encontrarse efectivamente emitidos y pagados.
+
+. No deben estar sujetos a ningún mitigador de riesgo de crédito como, por ejemplo: esquemas de seguro, compensación o garantía, entre otros.
+
+. No deben estar sujetos a plazos de vencimiento.
+
+. Podrán ser adquiridos o rescatados voluntariamente por el banco emisor, en un plazo no menor a cinco años calendario desde su emisión. Adicionalmente, para ejercer la opción de adquisición o rescate, el banco:
+
+i. Debe tener la aprobación previa de esta Comisión.
+
+ii. El emisor no podrá generar expectativas de mercado que anticipen o hagan previsible que la empresa bancaria procederá a la adquisición, pago anticipado o rescate voluntario, según corresponda.
+
+iii. No debe considerar ningún esquema que genere incentivos que hagan prever el ejercicio de la opción de rescate o compra.
+
+iv. Deberá sustituir el instrumento rescatado con capital de igual o mayor calidad, en condiciones sostenibles, de acuerdo con su capacidad de generación de ingresos o demostrando que su posición de capital se encuentra por sobre los requerimientos mínimos de capital establecidos en el inciso primero del artículo 66 tras el rescate.
+
+. El banco emisor podrá, excepcionalmente, eximirse de efectuar uno o más pagos periódicos de dividendos o intereses, según el instrumento que corresponda, sin que éstos se acumulen a los dividendos o intereses que se devenguen en los periodos siguientes, ni que, como consecuencia de ello, se configure un evento de incumplimiento.
+
+. El pago de dividendos y/o intereses debe ser cargado a utilidades retenidas y utilidades del ejercicio, en adelante, partidas distribuibles. El monto cargado no deberá superar el saldo acreedor de estas partidas.
+
+. El monto por pagar en dividendos y/o intereses, según corresponda, no puede depender, directa o indirectamente, de la calidad crediticia del banco emisor. Por ello, cualquier tasa de referencia que sea sensible a los cambios de la capacidad crediticia del banco y/o del sector bancario en general, no será admitida.
+
+. Los instrumentos de capital cumplen con el rol de absorber pérdidas; por este motivo, no se permitirá ningún tipo de cláusula en las condiciones de emisión, que obstaculicen, limiten o demoren dicha absorción, tales como: disposiciones que requieran que el emisor compense en efectivo al inversor si se emite un nuevo instrumento a un precio menor durante un periodo de tiempo especificado o cláusulas que en caso de división del banco emisor contravengan el objetivo anterior.
+
+. Una vez alcanzado el evento contingente o condición que activa el mecanismo de absorción de pérdidas denominado "gatillo", se deben absorber pérdidas con cargo al valor del instrumento generando capital básico (CET1, de acuerdo con el Capítulo 21-1 de la RAN). Los mecanismos de absorción de pérdidas permitidos son:
+
+i. La conversión de las acciones preferentes o bonos sin plazo fijo de vencimiento por acciones ordinarias, mediante su canje o capitalización del valor registrado en los estados financieros, según corresponda;
+
+ii. La depreciación, de cada serie, de los bonos sin plazo fijo de vencimiento a un valor nominal de diez pesos sujeta a una eventual reapreciación; o
+
+iii. La caducidad de los bonos sin plazo fijo de vencimiento.
+
+El monto mínimo por absorber debe permitir devolver, inmediatamente, la razón CET1 sobre los activos ponderados por riesgo (APR) del banco al nivel de activación del gatillo, según el nivel de consolidación observado. La razón anterior, se computará según el nivel CET1 definido en el Capítulo 21-1 de la RAN. Cuando la absorción parcial no sea posible, se absorberá el valor total del instrumento o a un valor de diez pesos, en el caso de la depreciación.
+
+Los instrumentos deberán considerar al menos dos tipos de gatillos. El primero se activará cuando el banco esté operando con normalidad, pero su nivel de capital muestre señales de deterioro (going concern) al caer por debajo de 5,125% de CET1 sobre los APR o un nivel mayor establecido por el banco en las condiciones de emisión. El segundo gatillo está vinculado a las situaciones de insolvencia del artículo 130 de la LGB (gone concern).
+
+### 2. Otros requisitos
+
+La emisión de bonos sin plazo fijo de vencimiento deberá ser acordada por el Directorio de la entidad bancaria, tanto para mecanismos de absorción de pérdidas, de depreciación o caducidad, con gatillo going concern, y caducidad en el gatillo gone concern, ambos definidos en el Título II numeral 4 del presente Capítulo.
+
+Por su parte, las emisiones con mecanismos de absorción de pérdidas con conversión a acciones vinculados a gatillos going concern y/o gone concern, deberán, además, ser acordados por la Junta Extraordinaria de Accionistas.
+
+Las emisiones de instrumentos AT1 quedarán sujetas a inscripción en el Registro de Valores de la Comisión, de acuerdo con las disposiciones de la Ley Nº18.045 sobre Mercado de Valores y a las instrucciones del Capítulo 2-11 de la RAN.
+
+Todo lo que no se oponga a lo previsto en el artículo 55 bis de la LGB, a las demás disposiciones de la LGB y a este Capítulo, debe regir para los bonos sin plazo fijo de vencimiento, en particular, lo establecido en el título XVI de la Ley N°18.045 de Mercado de Valores. Para las acciones preferentes, regirá lo dispuesto en la Ley N°18.046 sobre Sociedades Anónimas.
+
+El emisor podrá acordar con los titulares de los instrumentos la modificación de los términos contractuales de las emisiones, siempre y cuando las condiciones de emisión no cambien las características esenciales de los instrumentos, tales como mecanismos de absorción de pérdidas, ni perjudiquen al tenedor del instrumento, por ejemplo, con un impacto negativo en el valor razonable. Posterior a un acuerdo entre el emisor y los titulares, la Comisión otorgará su aprobación y evaluará, entre otras cosas, la elegibilidad de los instrumentos como parte del patrimonio efectivo, después de la reestructuración.
+
+### 3. Exención del pago de dividendos y/o intereses
+
+El emisor tendrá la facultad de eximirse, total o parcialmente, del pago periódico de uno o más dividendos y/o intereses de instrumentos AT1 que estén programados para ser pagados, por un plazo ilimitado y no acumulativo en los periodos siguientes. Como consecuencia de ello, no podrá exigirse en forma anticipada el cumplimiento de otras obligaciones que el emisor hubiere contraído, ni resolver o terminar anticipadamente el acto o contrato respectivo que hubiere originado las mismas.
+
+Para que el emisor pueda ejercer dicha facultad, las condiciones objetivas por las cuales operará la exención de pagos de dividendos y/o intereses deben estar contempladas en las condiciones de emisión y ocurrir, excepcionalmente, de acuerdo con el artículo 55 bis numeral 5 de la LGB.
+
+Si el emisor se exime del pago de intereses de bonos sin plazo fijo de vencimiento restringirá, total y automáticamente, cualquier otra distribución de utilidades o dividendos con cargo a partidas distribuibles a instrumentos de menor orden de pago, tales como acciones ordinarias y preferentes, en concordancia con el inciso tercero del artículo 56 de la señalada Ley.
+
+Con motivo de la emisión de acciones preferentes, los estatutos sociales deben contemplar una disposición que, ante la suspensión de pago de dividendos de acciones preferentes, impida el reparto de utilidades a accionistas ordinarios de cualquier forma, en línea con la disposición del número 1 del artículo 55 bis de la LGB, sobre la prioridad en el pago de dividendos respecto de los titulares de acciones ordinarias. Esta disposición no afectará el pago de intereses de bonos sin plazo fijo de vencimiento, bonos subordinados u otras emisiones de mayor orden de pago de acuerdo con la LGB.
+
+No estarán permitidas las cláusulas que habiliten al emisor a adoptar acuerdos que tengan por objeto el pago voluntario de intereses o dividendos de los que se haya eximido conforme a las condiciones de emisión.
+
+El pago de dividendos de acciones ordinarias y preferentes estará sujeto a exenciones totales y automáticas cuando exista incumplimiento de los límites señalados en los incisos segundo y tercero del artículo 56 de la LGB. Adicionalmente, y en coherencia con el inciso cuarto del citado artículo, el pago de dividendos de estas acciones estará sujeto a exenciones parciales y graduales cuando exista incumplimiento o déficit en los colchones de conservación y contra cíclico, de acuerdo con los límites establecidos en la Tabla del Título IV del Capítulo 21-12 de la RAN. En todos los casos anteriores, quedará prohibida la adquisición de acciones del banco por parte de sus accionistas controladores, a menos que cuenten con la autorización previa de la Comisión.
+
+Cualquiera sea la causa que ampare el no pago de dividendos y/o intereses, el emisor deberá notificar a los tenedores de instrumentos AT1 sin demoras, y a más tardar en la fecha de pago de los dividendos o intereses, especificando el monto de la exención y el monto de pago a realizar. No obstante, la ausencia de comunicación no afectará la validez de la decisión de no realizar el pago ni tampoco constituirá causal de incumplimiento contractual del banco con los respectivos tenedores. Asimismo, la ocurrencia de la activación de un gatillo en instrumentos AT1 eximirá al emisor del pago de dividendos y/o intereses, incluso si no se ha efectuado dicha notificación.
+
+No se podrá postergar la activación del mecanismo de absorción de perdidas si se han alcanzado las condiciones previstas para su activación, incluso cuando el no pago de dividendos y/o intereses sea suficiente para restituir los niveles de capital requeridos.
+
+El emisor debe establecer, en las condiciones de emisión, la frecuencia de pago de los intereses para los bonos sin plazo fijo de vencimiento, mientras que el pago de los dividendos se realizará al término de cada ejercicio de acuerdo con lo señalado por el artículo 56 de la LGB.
+
+### 4. Activación de un gatillo o evento contingente
+
+Los instrumentos AT1 deberán contar, como parte de los requisitos mínimos de emisión, con al menos dos gatillos de absorción de pérdidas que se activarán una vez observadas las siguientes condiciones objetivas:
+
+. Gatillos going concern, ratio CET1 sobre APR, neto de provisiones exigidas, mínimo de 5,125%. Niveles sobre este valor estarán permitidos y deberán quedar claramente establecidos en las condiciones de emisión.
+
+. Gatillo gone concern, vinculados a las situaciones de insolvencia del artículo 130 de la LGB.
+
+Sólo cuando una emisión considere un mecanismo de caducidad bajo un gatillo going concern, el gatillo gone concern no tendrá aplicación.
+
+Sin perjuicio de lo anterior, una emisión podrá considerar otras situaciones de contingencia, las que deberán estar debidamente establecidas en las condiciones de emisión y, en ningún caso, deberán obstaculizar o bloquear los eventos contingentes mínimos establecidos en este Capítulo.
+
+El banco deberá ser capaz de medir las condiciones de activación de un gatillo en todo momento, sin limitarse a la información referida a la última fecha disponible de los estados financieros ni a alguna fecha particular. Por lo tanto, ante un deterioro en solvencia, que hagan presumible la activación del gatillo, el banco deberá elaborar estados financieros intermedios para determinar si se cumplen o no las condiciones para la activación de los gatillos establecidos en las condiciones de emisión. Dicha medición deberá realizarse a nivel consolidado global y consolidado local de acuerdo con lo establecido en el Capítulo 21-1 de la RAN, pudiendo activarse el gatillo en cualquiera de los dos niveles.
+
+Cuando una entidad emisora haya constatado la activación de un gatillo, sin perjuicio de dar cumplimiento a las demás obligaciones que puedan corresponder conforme al marco legal vigente, deberá en el menor tiempo posible:
+
+. Informar al Presidente de la Comisión, previo a que el emisor lo haga efectivo.
+
+. Informar a los tenedores de los instrumentos. La absorción de pérdidas no se postergará a causa del incumplimiento de este requisito.
+
+. Activar el mecanismo de absorción de pérdidas sin demora el que no podrá exceder el plazo que determine la Comisión.
+
+En caso de activarse uno o más gatillos going concern simultáneamente, correspondientes a distintas emisiones con mecanismo de conversión o series de instrumentos sujetas a un mismo gatillo, la absorción de pérdidas será proporcional al valor de cada instrumento, de acuerdo con lo dispuesto en el Título 5 de este Capítulo. Por este motivo, la absorción de pérdidas requerida para volver al nivel de 5,125%, o aquel definido por el emisor, deberá realizarse proporcionalmente para todos los instrumentos AT1 activados, sean estos bonos o acciones preferentes.
+
+### 5. Mecanismos de absorción de pérdidas
+
+La absorción de pérdidas sólo podrá ocurrir cuando se active alguno de los gatillos establecidos en las condiciones de emisión, y no puede implicar una discriminación arbitraria entre los titulares de los instrumentos que compartan los mismos términos.
+
+Los mecanismos de absorción de pérdidas aceptados, de acuerdo con el artículo 55 bis de la LGB, y sus potenciales combinaciones, son:
+
+.
+
+Los bonos sin plazo fijo de vencimiento podrán considerar, para una misma serie, los siguientes mecanismos de absorción de pérdidas asociados a gatillos going concern: i) conversión en acciones mediante su capitalización, ii) caducidad o iii) depreciación a un valor nominal de 10 pesos; eximiendo todos los intereses devengados no pagados a esa fecha. Los últimos dos mecanismos aplicarán sobre la totalidad de los montos emitidos no amortizados. La conversión, en cambio, puede operar de forma parcial. A su vez, la caducidad y la conversión actuarán de modo permanente, no así la depreciación, donde el tenedor del instrumento tiene un derecho condicional de reapreciación, asumiéndose temporal, conforme a lo establecido en el numeral 3 del artículo 55 bis de la LGB.
+
+Las acciones preferentes podrán considerar la conversión a acciones ordinarias mediante el canje, como mecanismo de absorción de pérdidas vinculado a gatillos going concern, el cuál será de carácter permanente y podría ser parcial o total. De conformidad con la Ley, se establece que el canje de acciones preferentes debe tener lugar en forma previa o simultánea a cualquier mecanismo de absorción de pérdidas de los bonos sin plazo fijo de vencimiento, por lo que un mismo emisor no puede emitir acciones preferentes con gatillos más favorables a los considerados para los bonos sin plazo fijo de vencimiento.
+
+En el caso de gatillos gone concern, todos los mecanismos de absorción de pérdidas admitidos deben ser totales y permanentes y, el valor caducado o convertido deberá reconocerse de acuerdo con las condiciones de emisión que rigen el instrumento.
+
+Del mismo modo que la exención de dividendos y/o intereses, la activación de algún mecanismo de absorción de pérdidas no deberá ser causa de término anticipado de otras obligaciones contraídas por el banco emisor, salvo en caso de liquidación del banco en los términos previstos en la LGB.
+
+Ante un evento de fusión o adquisición, a fin de utilizar los instrumentos AT1 previamente emitidos como componentes del capital, el banco interesado deberá presentar un informe legal a esta Comisión que demuestre que los mecanismos de absorción de pérdidas, considerados en las emisiones vigentes, siguen siendo exigibles, pudiendo al efecto requerirse complementos al informe, otro independiente y/o mayores antecedentes por parte de esta Comisión.
+
+a. Conversión en acciones
+
+La conversión en acciones ordinarias ocurrirá a través de la capitalización o canje de los bonos sin plazo fijo de vencimiento y acciones preferentes, respectivamente, de manera parcial o total.
+
+La parcialidad será admisible, siempre que ésta resulte suficiente para restituir el nivel de solvencia al nivel de 5,125%, o aquel definido por el banco, dejando los restantes valores de la serie vigentes sin cambios. Emisiones con más de una serie de acciones considerarán a cada serie como instrumentos independientes, asegurando que, una vez activado el gatillo, la absorción de pérdidas no implique una discriminación arbitraria entre los titulares de los instrumentos.
+
+Ante la ocurrencia de un evento contingente going concern, este mecanismo de absorción de pérdidas dejará a los tenedores de AT1 pari passu con los accionistas ordinarios de la entidad bancaria, por lo que los titulares de las nuevas acciones tendrán los mismos derechos políticos y económicos que el resto de los accionistas ordinarios existentes, dejando de gozar de los derechos y privilegios establecidos previo a la conversión.
+
+Para que la conversión en acciones sea admitida por la Comisión como mecanismo de absorción de pérdidas, el emisor deberá fijar, en las condiciones de emisión, el precio de conversión o valor atribuido a las acciones ordinarias del banco para cada clase de instrumento AT1, además de establecer un límite máximo respecto de la cantidad de acciones a entregar producto de la absorción de pérdidas.
+
+Los precios de conversión admisibles pueden aludir al valor del día de la emisión (fijo) o al del día de la conversión (flotante), pudiendo establecerse en base a i) valor de mercado, ii) valor libro o iii) a un valor mínimo preestablecido.
+
+Para determinar el número máximo de acciones a recibir por el tenedor, se debe dividir el valor registrado en los estados financieros del instrumento a convertir por el precio de conversión establecido. En caso de resultar fracciones de acciones, se redondeará a la baja, sin que corresponda compensación económica por la fracción.
+
+Adicionalmente, este mecanismo de absorción de pérdida será admisible por la Comisión siempre y cuando el emisor mantenga, en todo momento, aprobada la autorización de aumento de capital necesaria para emitir inmediatamente el número de acciones requerido, una vez que se activen los gatillos (going y/o gone concern). Dicha autorización deberá tramitarse en conjunto con la autorización de emisión de instrumentos AT1 con conversión, de modo de garantizar la factibilidad de inscribir las acciones ordinarias y disponer del número suficiente para llevar a cabo la absorción de pérdidas.
+
+Las emisiones deberán contener una cláusula que indique que, si la entidad bancaria no puede entregar las acciones ordinarias originadas por la conversión de un bono sin plazo fijo de vencimiento, aplicará por defecto el mecanismo de caducidad.
+
+Las condiciones de emisión podrán contemplar cláusulas asociadas a evitar acciones corporativas que puedan diluir la posición de los tenedores de instrumentos AT1, al igual que cláusulas de conversión en acciones que brindan a los restantes accionistas un derecho de compra preferente de las acciones convertidas.
+
+Los tenedores de bonos sin plazo fijo de vencimiento que consideren el mecanismo de conversión a acciones, o bien aquellos accionistas preferentes, para los que la conversión en acciones ordinarias signifique una participación mayor o igual al 10% del capital social del banco emisor, deberán someterse a la evaluación de solvencia e integridad a que se refiere el artículo 36 de la LGB.
+
+b. Depreciación y caducidad
+
+De acuerdo con el numeral 3 del artículo 55 bis de la LGB, la depreciación para una misma serie ocurre hasta una suma equivalente al monto nominal de diez pesos, los cuales, posteriormente, podrían alcanzar un gatillo gone concern o reapreciarse.
+
+La depreciación debe cumplir con:
+
+. El bono depreciado se podrá reapreciar de acuerdo con el mecanismo establecido en las condiciones de emisión del instrumento hasta el valor nominal del bono en la fecha en que ocurre la depreciación, sin considerar los intereses devengados no pagados.
+
+. Las distribuciones por pagar, después de la depreciación, se basarán en el monto depreciado del instrumento, esto es, diez pesos, más los montos reapreciados, si los hubiese.
+
+. Una vez ocurrida la reapreciación, parcial o total, el pago de intereses seguirá sujeto a las mismas disposiciones sobre exención del N°3 del Título II.
+
+. Si el instrumento es reapreciado, el gatillo vinculado a la depreciación puede activarse en más de una oportunidad, si los niveles de solvencia del emisor vuelven a deteriorarse.
+
+La caducidad, en cambio, ocurrirá sobre el capital e intereses devengados de los bonos sin plazo fijo de vencimiento, y no otorgará derechos a exigir su pago.
+
+### 6. Mecanismo de reapreciación de bonos depreciados
+
+La reapreciación de bonos sin plazo fijo de vencimiento se realizará en la forma en que se haya establecido en sus condiciones y no puede operar si se alcanza otro gatillo, o si por motivo de la reapreciación, se genera un evento contingente.
+
+La reapreciación de los bonos sin plazo fijo de vencimiento es un derecho del tenedor sujeto a que el banco emisor recupere los niveles de solvencia que permitan su continuidad, que se entenderá ocurre cuando se encuentre por sobre el nivel del gatillo que dio origen a la depreciación.
+
+Si el banco escoge un mecanismo de reapreciación distinto al propuesto en este Título, deberá justificar su conveniencia ante la Comisión.
+
+La metodología propuesta utiliza el monto máximo distribuible (MMD) para determinar la suma asignable a la reapreciación y pago de intereses de bonos sin plazo fijo de vencimiento, de acuerdo con lo establecido en el artículo 56 de la LGB, donde:
+
+.
+
+Las utilidades del ejercicio, señaladas en la Tabla, corresponden a las auditadas respecto del año anterior.
+
+Para la asignación del monto distribuible se considera a los accionistas ordinarios (ACCORD) pari passu con tenedores de bonos sin plazo fijo de vencimiento (BONOPER). Luego, la asignación del monto distribuible, calculado en la Tabla anterior, a accionistas (ACC_%) y tenedores de bonos sin plazo fijo de vencimiento ( BND_%) se realizará a prorrata en función del valor nominal del bono sin plazo fijo de vencimiento (previa depreciación) y de las acciones ordinarias, de acuerdo con la siguiente forma:
+
+.
+
+Los montos, con cargo a partidas distribuibles correspondientes a los accionistas, se designan para: i) el pago de dividendos de acciones ordinarias y ii) compras de acciones propias (buy backs), si es que corresponde, en la forma indicada.
+
+.
+
+Los montos, con cargo a partidas distribuibles correspondientes a tenedores de bonos sin plazo de vencimiento, se designan para: i) el pago de intereses sobre montos nominales no depreciados y ii) reapreciación de montos nominales depreciados, en el orden anterior, en la forma indicada.
+
+.
+
+Este proceso de reapreciación ocurrirá hasta recuperar el valor nominal de la emisión, si es que el banco no presenta un deterioro en su nivel de solvencia.
+
+### 7. Condiciones de compra o rescate
+
+La opción de compra, rescate o pago anticipado voluntario de instrumentos AT1, podrá ser ejercida por el banco emisor solo cuando cuente con la autorización previa de la Comisión, cuya primera fecha de rescate debe corresponder a un plazo no inferior a cinco años calendario contado desde su fecha de emisión.
+
+Para la aprobación de la compra o rescate, el emisor debe reemplazar el instrumento con capital de igual o mejor calidad, realizando la sustitución en condiciones sostenibles para la capacidad de ingresos del banco, o bien, demostrar que la posición de capital se encuentra por sobre los requerimientos mínimos de capital establecidos en el inciso primero del artículo 66, después de que se ejerce la opción de compra.
+
+El banco podrá indicar en las condiciones de emisión que los bonos sin plazo fijo de vencimiento o las acciones preferentes podrán ser rescatadas, total o parcialmente, o recompradas conforme a lo dispuesto en el artículo 55 bis de la LGB, y las disposiciones del presente Capítulo. En ningún caso, el emisor podrá generar expectativas de mercado o incluir elementos que anticipen o hagan previsible que la empresa bancaria procederá a la adquisición, pago anticipado o rescate voluntario, de los instrumentos. Tal es el caso de las coberturas contables, que al ser estructuradas hasta la fecha de rescate y no contener cláusulas de márgenes incrementales (step-up) no generan expectativas de rescates previos, incluso si esta cobertura no es renovada posterior a la primera fecha de rescate.
+
+Asimismo, el emisor no podrá estructurar emisiones que generen incentivos para su adquisición o rescate en ningún periodo del tiempo, por ejemplo, aumentos de spread cuando la opción de rescate no es ejercida, canje en acciones, o cualquier otro mecanismo que genere este tipo de incentivos.
+
+El rescate o adquisición de los instrumentos no será aprobado por la Comisión si se produce cercano a la potencial activación de un gatillo de cualquier emisión. Por su parte, habiéndose otorgado dicha autorización y efectuados los avisos pertinentes, éstos quedarán sin efecto si se verifica alguno de los eventos contingentes que den lugar a la activación de un mecanismo de absorción de pérdidas. Esta situación debe quedar establecida expresamente en las respectivas condiciones de emisión.
+
+Se permiten cláusulas que exijan la reapreciación de un instrumento, de acuerdo con el N°6 de este Título, previo a la ejecución de la opción de rescate, como garantía para el tenedor de que se realizará al valor nominal previa depreciación. La inclusión de dicha cláusula será determinada por el emisor y debe quedar establecida en las condiciones de emisión de los instrumentos.
+
+Para realizar el rescate de bonos sin plazo fijo de vencimiento o adquisición de acciones preferentes, el emisor deberá enviar a la Comisión una solicitud junto con toda la información requerida para evaluar el potencial impacto de la operación respecto de la posición financiera y de solvencia del banco, junto con las condiciones de emisión del instrumento con que se sustituirá, si fuese el caso. La Comisión evaluará los riesgos a los que la entidad está expuesta, pudiendo revisar incluso el plan de negocios pertinente para los próximos años, a fin de autorizar la adquisición, el rescate o pago anticipado voluntario del instrumento, según corresponda.
+
+### III. PROHIBICIÓN DE ADQUIRIR INSTRUMENTOS AT1
+
+De conformidad con lo dispuesto en el numeral 7 del artículo 55 bis de la LGB, los bonos sin plazo fijo de vencimiento y las acciones preferentes no podrán ser adquiridos por bancos, empresas cuyo giro consista en la emisión u operación de tarjetas de crédito, tarjetas de pago con provisión de fondos o de cualquier otro sistema similar a los referidos medios de pago, según se indica en el artículo 2 de la misma Ley, ni por sociedades filiales o coligadas de dichas instituciones. Tampoco podrán ser adquiridos por Cooperativas de Ahorro y Crédito o inversionistas que no sean considerados como Calificados de acuerdo con la Ley de Mercado de Valores.
+
+De acuerdo con lo previsto en el numeral 3 del artículo 84 de la LGB, un banco no podrá conceder directa o indirectamente financiamiento para habilitar a una persona, natural o jurídica, para que realice la adquisición de instrumentos AT1 emitidos por la propia entidad.
+
+### IV. DISPOSICIONES TRANSITORIAS
+
+De acuerdo con el artículo tercero transitorio de la Ley 21.130, la presente normativa regirá a partir del 1 de diciembre de 2020.
+
+Para efectos del cumplimiento de los límites establecidos en el artículo 66 de la LGB, durante el primer año de vigencia del presente Capítulo, los bonos subordinados que cumplan con los requisitos establecidos en el Capítulo 21-3 de la RAN y, provisiones voluntarias podrán contabilizarse como equivalentes a instrumentos AT1, con un límite del 1,5% de los APR netos de provisiones exigidas. Los instrumentos usados como sustitutos del capital adicional nivel 1 no podrán ser computados en el capital nivel 2 y el banco debe establecer las proporciones de instrumentos de capital nivel 2 que vayan a ser utilizados para la constitución del capital adicional nivel 1.
+
+A partir del segundo año de vigencia, el límite de sustitución disminuirá de forma progresiva, reduciéndose cada año en el equivalente en 0,5% de los APR, netos de provisiones exigidas, para llegar a 0% en un periodo de 4 años.
+
+ANEXO
+
+EXIGENCIAS Y CLÁUSULAS EN EMISIONES AT1
+
+La Comisión, para la aprobación de las condiciones de emisión, tendrá en consideración, además de las condiciones indicadas en el Capítulo 2-11 de la RAN, al menos, las condiciones señaladas en la siguiente Tabla, las que deben reflejarse en los prospectos de los instrumentos At1 presentados por entidades bancarias.
+
+Estas exigencias pretenden cubrir los aspectos prudenciales establecidos en este Capítulo, junto con mitigar la complejidad de emisión de este tipo de instrumentos y facilitar la comparabilidad de los términos y condiciones de los AT1 frente a la evaluación del cumplimiento de las disposiciones regulatorias.
+
+Las condiciones requeridas en los prospectos para la aprobación de las condiciones de emisión y las cláusulas permitidas son:
+
+.
+
+## Capítulo 21-3
+
+INSTRUMENTOS DE CAPITAL NIVEL 2 PARA LA CONSTITUCIÓN DE PATRIMONIO EFECTIVO: BONOS SUBORDINADOS DEL ARTÍCULO 55 DE LA LEY GENERAL DE BANCOS
+
+### I. CONSIDERACIONES GENERALES
+
+El presente Capítulo tiene como objetivo definir los requisitos y condiciones mínimas que deberán cumplir las emisiones de bonos subordinados para que éstas puedan ser computadas como capital nivel 2 T2, por sus siglas en inglés)de acuerdo con lo definido con el Capítulo 21-1 de la Recopilación Actualizada de Normas (RAN), y, por tanto, en el patrimonio efectivo de los bancos. Lo anterior, en conformidad con lo dispuesto en el artículo 55 de la Ley General de Bancos (LGB), que permite a esta Comisión fijar por norma de carácter general las condiciones complementarias que deberán satisfacer estas emisiones. Las condiciones aquí establecidas guardan relación con lo definido por el Comité de Supervisión Bancaria de Basilea para este tipo de instrumentos.
+
+### II. CONDICIONES DE EMISIÓN DE LOS BONOS SUBORDINADOS
+
+### 1. Requisitos mínimos
+
+Para calificar como parte del patrimonio efectivo de un banco, los bonos subordinados deberán cumplir con los siguientes requisitos mínimos:
+
+a) Deben emitirse a un plazo promedio no inferior a 5 años, sin garantía especial.
+
+b) Las condiciones de la emisión no deben incluir cláusulas que signifiquen el pago anticipado del total o parte de los bonos emitidos.
+
+c) Pueden emitirse expresados en moneda nacional o extranjera o bajo cualquier sistema de reajustabilidad autorizado por el Banco Central de Chile.
+
+d) El monto por pagar en intereses no puede depender, directa o indirectamente, de la calidad crediticia del banco emisor. Por ello, cualquier tasa de referencia que sea sensible a los cambios de la capacidad crediticia del banco y/o del sector bancario en general, no será admitida.
+
+e) El cómputo de los bonos subordinados como patrimonio efectivo estará sujeto a los límites dispuestos en el Título IV de este Capítulo.
+
+f) En caso de que la entidad emisora se encuentre afecta a las disposiciones del Título XV de la LGB, esto es, haya sido declarada en estado de liquidación forzosa, estos bonos se pagarán después de los demás acreedores, incluidos los valistas, lo que les confiere su carácter de subordinado.
+
+g) Sin perjuicio de lo indicado en el literal anterior, las condiciones de emisión podrán contemplar su capitalización, en concordancia con lo dispuesto en el artículo 55 de la LGB y en el Título II N°2 de este Capítulo.
+
+h) No podrán existir cláusulas o garantías asociadas que alteren el orden de pago previsto en la ley de los bonos, sus cupones o intereses.
+
+i) Los instrumentos calificados como patrimonio efectivo cumplen con el rol de absorber pérdidas en caso de liquidación forzosa; por este motivo, no podrán contener cláusulas que impidan, dificulten o dilaten las medidas descritas en el Título XIV y XV de la LGB, tales como cláusulas de asignación de pasivos en caso de división del banco que contravengan el objetivo anterior.
+
+2. Requisitos para bonos subordinados con cláusulas de convertibilidad en acciones
+
+En el caso de que las condiciones de emisión del bono subordinado establezcan la conversión en acciones en caso de liquidación de la entidad bancaria, deberá darse cumplimiento a los siguientes requisitos:
+
+a) El mecanismo de conversión debe ser total y permanente para cada emisión, debiendo encontrarse claramente establecido el precio o valor de conversión, así como el límite de acciones a entregar a cada tenedor producto del canje de sus títulos. Para determinar el número de acciones a recibir por el tenedor, se debe dividir el valor registrado en los estados financieros del instrumento a convertir por el precio de conversión establecido, teniendo en cuenta el número máximo de acciones previsto en las condiciones de emisión. En caso de resultar fracciones de acciones, se redondeará a la baja, sin que corresponda compensación económica por la fracción.
+
+b) El precio de conversión admisible puede aludir al valor del día de la emisión (fijo) o al del día de la conversión (flotante), pudiendo establecerse en base a i) valor de mercado, ii) valor libro o, iii) valor mínimo.
+
+c) Este mecanismo de absorción de pérdida será admisible por la Comisión siempre y cuando el emisor mantenga, en todo momento, las autorizaciones corporativas necesarias para poder emitir inmediatamente el número de acciones requerido. Dichas autorizaciones deberán tramitarse en conjunto con la autorización de emisión de bonos subordinados que contengan tal cláusula, de modo de garantizar la factibilidad de inscribir las acciones ordinarias y disponer del número suficiente para llevar a cabo la absorción de pérdidas.
+
+d) La emisión deberá considerar una cláusula que indique que, si la entidad bancaria no pueda entregar las acciones ordinarias originadas por la conversión de un instrumento en el plazo establecido por esta Comisión, este se pagará después de los demás acreedores, incluidos los valistas.
+
+e) Ante un evento de fusión o adquisición, el banco interesado deberá presentar un informe legal a esta Comisión que demuestre que los mecanismos de absorción de pérdidas, considerados en las emisiones vigentes, siguen siendo exigibles, pudiendo al efecto requerirse complementaciones al informe y/o mayores antecedentes por parte de esta Comisión.
+
+### 3. Otros requisitos
+
+a) La emisión de bonos subordinados deberá ser acordada por el Directorio de la empresa, salvo que para el efecto sea necesaria una Junta Extraordinaria de Accionistas, ya sea porque sus Estatutos así lo exigen o porque se trate de bonos subordinados convertibles en acciones.
+
+b) Para determinar el plazo promedio, cuando los bonos contemplen amortizaciones parciales, se multiplicará el importe de cada cuota de amortización por su plazo, expresado en días o meses, según corresponda. Luego se sumarán los productos obtenidos de esas operaciones y el resultado de la suma se dividirá por el importe total de la emisión. El cuociente que se obtenga indicará el plazo promedio del bono, expresado en días o meses, según cual haya sido el factor utilizado.
+
+c) La emisión de los bonos subordinados queda sujeta a su inscripción en el Registro de Valores de esta Comisión, de acuerdo con las disposiciones de la Ley Nº18.045 sobre Mercado de Valores y a las instrucciones del Capítulo 2-11 de la RAN.
+
+d) El emisor podrá acordar con los titulares de los instrumentos la modificación de los términos contractuales de las emisiones, siempre y cuando las condiciones de emisión no cambien las características esenciales de los instrumentos, tales como mecanismos de absorción de pérdidas, ni perjudiquen al tenedor del instrumento, por ejemplo, con un impacto negativo en el valor razonable. Posterior al acuerdo entre emisor y titulares, la Comisión evaluará, entre otras cosas, la elegibilidad de los instrumentos como parte del patrimonio efectivo, después de la reestructuración.
+
+### 4. Complemento legal
+
+En todo lo que no se oponga a lo previsto en el artículo 55 de la LGB, a las demás disposiciones de esta Ley y a este Capítulo, debe regir para los bonos subordinados lo establecido en el título XVI de la ley N°18.045 de Mercado de Valores.
+
+### III. PROHIBICIÓN DE ADQUIRIR BONOS SUBORDINADOS
+
+De conformidad con lo dispuesto en la LGB, los bonos subordinados no podrán ser adquiridos por bancos, empresas cuyo giro consista en la emisión u operación de tarjetas de crédito, tarjetas de pago con provisión de fondos o de cualquier otro sistema similar a los referidos medios de pago, según se indica en el artículo 2 de la misma Ley, ni por sociedades filiales o coligadas de dichas instituciones. Tampoco podrán ser adquiridos por Cooperativas de Ahorro y Crédito.
+
+### IV. CÓMPUTO DE LOS BONOS COMO PATRIMONIO EFECTIVO PARA LOS EFECTOS DE LOS LÍMITES LEGALES
+
+Los bonos subordinados deben ser valorados al precio de colocación, de acuerdo con lo establecido en la NIIF9, tanto para fines de capital regulatorio según el Capítulo 21-1 de la RAN, y la presentación de estados financieros. Este valor deberá estar totalmente pagado, y el valor computable como patrimonio efectivo disminuirá en un 20% por cada año que transcurra desde que falten seis años para su vencimiento.
+
+Por consiguiente, el cálculo del importe computable como patrimonio efectivo deberá efectuarse sobre el valor actual de los bonos según la tasa efectiva de colocación, aplicando los siguientes porcentajes según los años remanentes (no calendarios):
+
+.
+
+### V. APLICACIÓN DE LA NORMA
+
+La presente norma comenzará a regir a partir del 1 de diciembre de 2020, debiendo los bancos determinar el monto computable como patrimonio efectivo conforme a las disposiciones establecidas en este Capítulo a contar de esa fecha.
+
+### VI. DISPOSICIONES TRANSITORIAS
+
+Las emisiones actuales que no cumplan con las condiciones establecidas en este Capítulo seguirán siendo reconocidas en el patrimonio efectivo del banco desde el 1 de diciembre de 2020. Sin embargo, la razón de reconocimiento decrecerá en un 10% anual a partir del 1 de diciembre de 2022, hasta su exclusión total del capital regulatorio, con respecto al monto estimado según el Título IV.
+
+## Capítulo 21-6
+
+DETERMINACIÓN DE LOS ACTIVOS PONDERADOS POR RIESGO DE CRÉDITO
+
+### 1. Consideraciones generales
+
+Conforme con lo dispuesto en el artículo 67 de la Ley General de Bancos (en adelante , LGB), el presente Capítulo establece los métodos que los bancos deben considerar para determinar sus activos ponderados por riesgo de crédito (en adelante, APRC).
+
+Una alternativa es un método estándar, el que se describe en el numeral 3 de este Capítulo, o bien mediante metodologías propias o internas (en adelante, MI) que pueden disponer las empresas bancarias, de acuerdo con el procedimiento señalado en el numeral 4 y sujeto al cumplimiento de los límites y requisitos establecidos en el numeral 6 del presente Capítulo. El método que se utilice se aplicará a los tipos de activos definidos en el numeral 2 siguiente.
+
+Cuando se utilicen metodologías internas, para la determinación de los activos ponderados por riesgo, se debe considerar un piso mínimo de 72,5% del total que se hubiese obtenido con las metodologías estándar, de acuerdo con lo establecido en el numeral 7.
+
+La adhesión a los lineamientos dispuestos en esta norma será parte de la evaluación de gestión que realiza este Organismo a los bancos en el ámbito de los riesgos de crédito, el cual se aborda en la letra a) del numeral 3.2 del Título II del Capítulo 1-13 de la Recopilación Actualizada de Normas (en adelante RAN).
+
+### 2. Exposición afecta a requerimientos de capital por riesgo de crédito
+
+Las exposiciones afectas a requerimientos de capital por riesgo de crédito se componen de:
+
+a) Activos en el libro de banca
+
+b) Fondos de inversión en el libro de banca
+
+c) Equivalentes de créditos
+
+d) Exposiciones contingentes
+
+En concordancia con lo dispuesto en el Capítulo 21-7 de la RAN, sobre la determinación de los activos ponderados por riesgo de mercado, las exposiciones afectas a requerimientos de capital por riesgo de crédito asociadas a los literales a y b, corresponderán a aquellas calificadas en el libro de banca.
+
+2.1 Activos en el libro de banca
+
+Para la valorización de exposiciones en activos diferentes a fondos de inversión, tales como créditos, instrumentos financieros, activos fijos, inversiones en sociedades, entre otros, deberán considerarse los criterios establecidos en el Compendio de Normas Contables de esta Comisión (en adelante, CNC), deduciendo los importes de las provisiones específicas constituidas sobre esas operaciones.
+
+Para la determinación de la contraparte en exposiciones con operaciones de factoraje, se deben considerar los criterios establecidos en el CNC.
+
+2.2 Fondos de inversión en el libro de banca
+
+Para calcular los APRC de los fondos de inversión en el libro de banca se puede descomponer la exposición dependiendo de los diferentes subyacentes asociados. Para esto existen tres métodos, que el banco podrá utilizar dependiendo del cumplimiento de los requerimientos para su uso, según se describen a continuación.
+
+2.2.1 Método del constituyente
+
+Bajo este método (LTA, por sus siglas en inglés), se descompone la exposición de acuerdo con el tipo y clasificación de los subyacentes, de manera análoga a como si hubiese invertido directamente en ellos. Para poder aplicar este método se deben cumplir dos requisitos, a saber: i) el banco tiene información a nivel de subyacente, que permite utilizar el método estándar descrito en el numeral 3 siguiente, en cada instrumento del portafolio, y con frecuencia al menos mensual y ii) la información del fondo y sus constituyentes es auditada por una empresa externa al menos anualmente.
+
+En el caso en que el banco, no cumpla con alguno de los requerimientos antes descrito, podrá utilizar el método del reglamento interno.
+
+2.2.2 Método del reglamento interno
+
+Bajo el método del reglamento interno (MBA, por sus siglas en inglés) se descompone la exposición utilizando la información contenida en el reglamento del fondo de inversión. Para asegurarse de no subestimar los APRC, con requerimientos menores a los que se obtendrían con el método LTA, se deberán cumplir los siguientes requisitos:
+
+a. Se debe considerar que el fondo invierte el máximo permitido por el reglamento interno en los activos más riesgosos y, progresivamente, en los menos riesgosos.
+
+b. Los APRC por exposiciones con derivados deben calcularse según la metodología de equivalente de crédito descrita en el numeral 2.3 de este Capítulo. Cuando el valor razonable de la cartera de derivados sea desconocido, el equivalente de crédito se computará de una manera conservadora considerando la suma de los nocionales como sustituto del valor razonable.
+
+2.2.3 Método alternativo
+
+En caso de incumplir las condiciones para el uso de los métodos LTA y MBA, el banco debe considerar para efectos de la determinación de la exposición, el valor del fondo de inversión.
+
+2.3 Equivalentes de créditos
+
+Para efectos de la determinación de los APRC, se debe considerar la exposición que surge a partir de contratos derivados (equivalente de crédito) en la categoría de riesgo que corresponda según la contraparte.
+
+El "equivalente de crédito" corresponderá al valor razonable del instrumento derivado, más un monto adicional, que considera una variación potencial futura del precio del contrato. Para los instrumentos derivados con valor razonable negativo o cero, el "equivalente de crédito" corresponderá sólo al monto adicional.
+
+El monto adicional referido en el párrafo anterior se calculará aplicando el factor que corresponda sobre el nocional del contrato, según lo indicado en las tablas siguientes:
+
+.
+
+Los contratos de derivados sobre tasas de interés o inflación incluyen swaps de tasas de interés en una misma moneda, acuerdos de tasa forward, futuros sobre tasas de interés, opciones compradas sobre tasas de interés, seguros de inflación e instrumentos similares.
+
+Los contratos sobre monedas extranjeras incluyen cross currency swaps, swaps sobre monedas, futuros sobre monedas, forward sobre monedas, opciones compradas sobre monedas e instrumentos similares. Las canastas 1 y 2 son aquellas que se definen en el Capítulo 21-7 de la RAN, sobre la determinación de los activos ponderados por riesgo de mercado. En el caso de contratos sobre monedas en distintas canastas, se utilizará el factor asociado a la canasta de mayor riesgo. Los swaps sobre dos tasas de interés fluctuantes en una misma moneda tendrán un equivalente de crédito igual a su valor razonable (el monto adicional será igual a cero).
+
+Los contratos sobre acciones que puedan pactar las filiales no bancarias incluyen futuros, forward, opciones compradas e instrumentos similares que tengan como subyacente el precio de acciones individuales o índices de acciones.
+
+En aquellos contratos derivados en que se establezca la obligación de liquidar o pagar el valor razonable acumulado entre las fechas establecidas contractualmente, se deberá considerar un horizonte temporal de acuerdo con el periodo de liquidación contractual para la asignación del factor de conversión que corresponda al tipo de instrumento. No obstante, en el caso de contratos sobre tasas de interés o inflación con vencimientos residuales superiores a un año que satisfagan los criterios anteriores, el factor de conversión estará sujeto a un mínimo de 0,5%. Por su parte, las cláusulas que le den al banco el derecho de acelerar o terminar operaciones, por concepto de incumplimiento o deterioro crediticio, no serán consideradas en la determinación del equivalente de crédito.
+
+Para aquellos contratos derivados que tengan múltiples intercambios del monto nocional, los factores deberán ser multiplicados por el número de pagos que resten hasta su vencimiento. En tanto, para aquellos que contengan amortización de capital en determinados periodos, el monto adicional corresponderá a la suma de cada monto de amortización ponderado por el respectivo factor de conversión correspondiente al plazo residual de cada una de esas amortizaciones.
+
+La eventual existencia de cláusulas no incluidas en los párrafos anteriores, obliga a las entidades a aplicar criterios orientados a una correcta determinación del monto adicional, así como a mantener todos los respaldos e información pertinentes que permitan su posterior evaluación por parte de esta Comisión.
+
+En el caso de instrumentos derivados compensados y liquidados a través de una Entidad de Contraparte Central (en adelante, ECC), cuando medien garantías o cualquier otro tipo de caución equivalente, enteradas por las instituciones participantes, no corresponde utilizar el tratamiento indicado en el numeral 5 sobre mitigación de riesgo de crédito.
+
+El equivalente de crédito de las exposiciones que resulten de las operaciones entre un banco y sus clientes, que luego sean compensadas y liquidadas en una ECC, será determinado en los mismos términos que una operación bilateral y considerando lo indicado en el párrafo séptimo de este numeral para efectos de la determinación del factor de conversión.
+
+Las garantías otorgadas por el cliente que sean constituidas o transferidas a la ECC o al banco, podrán ser tratadas de acuerdo con lo indicado en el numeral 5 sobre mitigación de riesgo de crédito.
+
+2.4 Exposiciones contingentes
+
+Para efectos de este Capítulo se entiende por créditos contingentes aquellos que satisfacen los criterios establecidos en el Anexo N°4 de este Capítulo. Para la determinación de los APRC, a dicha exposición se le deberá deducir los importes de provisiones por riesgo de crédito contingente constituidas sobre estas operaciones.
+
+### 3. Método Estándar para el cómputo de los APRC
+
+Los APRC se determinan como la suma ponderada de las exposiciones afectas a requerimientos de capital, determinadas de acuerdo con el numeral 2 del presente Capítulo, y los ponderadores por riesgo de crédito (en adelante, PRC) aplicables a dichas exposiciones, de acuerdo con lo señalado en este numeral.
+
+En caso de que las exposiciones tengan algún mitigador del riesgo de crédito, podría corresponder ajustar los APRC con la utilización de alguna de las Técnicas de Mitigación del Riesgo de Crédito (en adelante, CRM por sus siglas en inglés), señaladas en el numeral 5 de este Capítulo.
+
+El PRC aplicable a la exposición afecta a requerimientos de capital, se establecerá de acuerdo con el tipo de contraparte. Cuando dicho PRC depende de la clasificación externa, se debe considerar lo dispuesto en el Anexo N°1 de este Capítulo. Para ello se utilizarán la clasificación en moneda local cuando la moneda de pago de la exposición se corresponda con la moneda funcional del banco, incluyendo unidades reajustables, y clasificación en moneda extranjera en otros casos.
+
+3.1 Exposiciones Soberanas y Bancos Centrales
+
+Para exposiciones soberanas y con bancos centrales se debe asignar el PRC de acuerdo con la calificación externa internacional y, en caso de no contar con una, asignar al tramo "sin clasificacióN°, según se indica en la siguiente tabla:
+
+.
+
+Sin perjuicio de lo anterior, el PRC de las exposiciones en moneda local con el Estado chileno o el Banco Central de Chile será igual a cero. Dicho PRC será aplicable también a las exposiciones con el soberano o banco central donde resida una filial bancaria en el exterior, siempre y cuando su respectiva regulación así lo establezca.
+
+Se incluirán dentro de este numeral las exposiciones avaladas por CORFO o FOGAPE, asignándole un PRC igual a cero. También se incluirán a las PSE donde resida una filial bancaria en el exterior, siempre y cuando su respectiva regulación lo asimile al tratamiento soberano y de bancos centrales.
+
+3.2 Exposiciones con Entidades del Sector Público
+
+Para exposiciones con entidades del sector público (PSE, por sus siglas en inglés) se debe asignar el PRC que corresponda a la calificación externa de la PSE y, en caso de no contar con una, asignar al tramo "sin clasificacióN°, según se indica en la siguiente tabla:
+
+.
+
+Las PSE locales comprenden organismos con autonomía de gestión y patrimonio propio, y empresas estatales. En general, incluye todos los servicios públicos creados por ley y las empresas, sociedades o entidades públicas o privadas en que el Estado o sus empresas, sociedades o instituciones centralizadas o descentralizadas, tengan aporte de capital mayoritario o en igual proporción o, en las mismas condiciones, representación o participación.
+
+Para la determinación de las PSE de otras jurisdicciones, se deberán considerar criterios asimilables a los definidos en el párrafo anterior, teniendo en cuenta los criterios señalados por la autoridad competente.
+
+3.3 Exposiciones con Instituciones Internacionales o Bancos Multilaterales de Desarrollo
+
+Se asignará un PRC de 0% cuando a exposiciones con las siguientes instituciones internacionales: el Grupo del Banco Mundial −compuesto por el Banco Internacional de Reconstrucción y Desarrollo (BIRD), la Corporación Financiera Internacional (IFC), la Agencia Multilateral de Garantía de Inversión (MIGA) y la Asociación Internacional de Fomento (IDA)-, el Banco Asiático de Desarrollo (ADB), el Banco Africano de Desarrollo (AfDB), el Banco Europeo de Reconstrucción y Desarrollo (BERD), el Banco Interamericano de Desarrollo (BID), el Banco Europeo de Inversiones (BEI), el Fondo Europeo de Inversiones (FEI), el Banco Nórdico de Inversiones (NIB), el Banco de Desarrollo del Caribe (CDB), el Banco Islámico de Desarrollo (IDB), el Banco de Desarrollo del Consejo de Europa (BDCE), la Facilidad Financiera Internacional para la Vacunación (IFFIm) y el Banco Asiático de Inversión en Infraestructuras (AIIB).
+
+Además, las exposiciones frente al Banco de Pagos Internacionales, el Fondo Monetario Internacional, el Banco Central Europeo, la Unión Europea, el Mecanismo Europeo de Estabilidad (MEDE) y la Facilidad de Estabilidad Financiera Europea (EFSF) podrán recibir una ponderación por riesgo del 0%.
+
+Para los otros Bancos Multilaterales de desarrollo, se utilizará su clasificación externa y, en caso de no contar con una, asignar al tramo "sin clasificacióN°, según se indica en la siguiente tabla:
+
+.
+
+3.4 Exposiciones Interbancarias y con Cooperativas de Ahorro y Crédito supervisadas por esta Comisión
+
+Para definir el PRC aplicable a exposiciones interbancarias o con Cooperativas de Ahorro y Crédito supervisadas por esta Comisión, se debe utilizar la clasificación externa de la contraparte, según se indica en la siguiente tabla:
+
+.
+
+Se deberá utilizar el PRC de corto plazo para exposiciones interbancarias y con Cooperativas de Ahorro y Crédito supervisadas por esta Comisión, que tengan un vencimiento al origen igual o inferior a tres meses y para aquellas derivadas del comercio exterior, con un vencimiento al origen igual o inferior a seis meses.
+
+Si el PRC interbancario fuese inferior al PRC del soberano donde reside el banco contraparte, entonces se deberá aplicar el PRC del respectivo soberano. Además dichas calificaciones no deben incorporar supuestos de respaldo gubernamental implícito, a menos que la calificación se refiera a un banco estatal.
+
+Este tratamiento será aplicable también a las exposiciones con instituciones financieras donde resida una filial bancaria en el exterior, siempre y cuando la respectiva regulación las reconozca como exposiciones interbancarias.
+
+Las exposiciones con Cooperativas de Ahorro y Crédito no supervisadas por esta Comisión deberán tratarse como exposiciones con empresas, de acuerdo con el numeral 3.7 de este Capítulo.
+
+3.5 Exposiciones con Entidades de Contraparte Central
+
+Este literal incluye las operaciones sobre instrumentos derivados compensados y liquidados a través de una ECC, cuando esta última se constituya irrevocablemente en acreedora y deudora de los derechos y obligaciones que deriven de dichas operaciones, siendo legalmente vinculantes para las partes las obligaciones que resulten de dichos actos.
+
+Para efectos locales deberán incluirse las ECC que son reguladas y supervisadas por esta Comisión, de acuerdo con la Ley N°20.345. Además, se incluyen en este tratamiento las ECC extranjeras reconocidas por otros reguladores, tales como la Autoridad Europea de Valores y Mercados (ESMA, por sus siglas en inglés) o la Comisión del Comercio en Futuros sobre materias primas de los Estados Unidos (CFTC, por sus siglas en inglés), que adhieran a los Principios aplicables a las Infraestructuras de los Mercados Financieros (PFMI, por sus siglas en inglés). Para estos efectos, será la entidad bancaria la que en todo momento deberá tener disponible los antecedentes que justifiquen la admisibilidad para tratar como ECC a una determinada entidad.
+
+Además, se incluyen las líneas de créditos otorgadas a la ECC y los fondos de garantías de carácter solidario, destinados a asegurar el cumplimiento de las obligaciones de los participantes cuando las garantías otorgadas individualmente resulten insuficientes.
+
+El PRC asignable a este tipo de exposiciones es 2%, cuando la ECC sea una entidad autorizada para funcionar por la autoridad respectiva. Las exposiciones con ECC que no hayan sido autorizadas para funcionar por la autoridad respectiva, se le aplicará un PRC de 1250%, debiendo considerarse los fondos de garantía de carácter solidario, desembolsados y/o comprometidos.
+
+3.6 Exposiciones con bonos garantizados e hipotecarios
+
+Los bonos garantizados son bonos emitidos por un banco o institución hipotecaria que, por ley, están sometidos a una supervisión pública especial para proteger a sus tenedores. Los ingresos obtenidos con la emisión de estos bonos deben invertirse, con arreglo a la ley, en activos que, durante todo el periodo de validez de los bonos, sean capaces de cubrir los derechos inherentes a los bonos y que, en caso de impago del emisor, serían utilizados prioritariamente para el reembolso del principal y el pago de los intereses devengados.
+
+Por otro lado, los bonos hipotecarios son aquellos que los bancos regidos por Ley General de Bancos, en virtud del artículo 69 numeral 2, podrán emitir con el objeto de destinar los fondos recibidos al otorgamiento de mutuos amparados por garantía hipotecaria, ya sea para fines generales, o para el financiamiento o refinanciamiento de la adquisición, construcción, reparación o ampliación de viviendas.
+
+Para exposiciones generadas por la tenencia de bonos garantizados e hipotecarios, se debe asignar el PRC considerando la calificación externa de la emisión o, en caso de no poseerla, se utilizará de manera subsidiaria el PRC asociado al emisor del instrumento, de acuerdo con el respectivo tratamiento del numeral 3 de este Capítulo, según se indica en las siguientes tablas:
+
+.
+
+Para poder acogerse a las ponderaciones por riesgo señaladas, los activos subyacentes de los bonos garantizados e hipotecarios deberán cumplir con los siguientes requisitos:
+
+(a) el tenedor del instrumento recibe información como mínimo sobre:
+
+(i) el valor razonable de los activos en garantía y bonos garantizados;
+
+(ii) la distribución geográfica y el tipo de activos de garantía, monto del crédito y los riesgos de tasa de interés y de tipo de cambio;
+
+(iii) la estructura de vencimientos de los activos en garantía y los bonos garantizados;
+
+(iv) el porcentaje de préstamos con una mora superior a 90 días;
+
+(b) el emisor pone a disposición del banco la información relativa al punto (a), como mínimo, con periodicidad semestral.
+
+También, debe incluir alguna de las siguientes condiciones:
+
+activos frente a soberanos o garantizados por ellos, sus bancos centrales, PSE o bancos multilaterales de desarrollo;
+
+activos garantizados con bienes raíces residenciales que tengan una relación LTV, de como máximo, el 80%;
+
+activos garantizados con bienes raíces comerciales que tengan una relación LTV, de como máximo, el 60%;
+
+activos frente a bancos o garantizados por bancos que cumplan los requisitos para recibir una ponderación por riesgo del 30% o inferior. Sin embargo, tales activos no podrán superar el 15% de las emisiones de bonos garantizados.
+
+Para el caso de los bonos garantizados, el valor nominal de la canasta de activos que respalda la emisión deberá ser al menos un 10% superior al monto de capital no amortizado. El banco emisor deberá divulgar públicamente que la canasta de garantías satisface en la práctica el requerimiento del 10%.
+
+Las condiciones especificadas en este literal deberán cumplirse en el momento de crearse el bono garantizado e hipotecario y durante toda la vida del instrumento. Será la entidad bancaria la que en todo momento deberá tener disponible los antecedentes que acrediten el cumplimiento de lo señalado en a) y b) y en las condiciones precedentes. En caso de que el bono no cumpla con los criterios anteriores, entonces el PRC asignable deberá determinarse de acuerdo con el numeral de la sección 3 que corresponda al emisor del instrumento.
+
+3.7 Exposiciones con empresas
+
+El PRC asignable a exposiciones con empresas analizadas individualmente, de acuerdo con los criterios establecidos en el Capítulo B-1 del CNC, dependerá del tipo de contraparte, según se indica en la siguiente tabla:
+
+.
+
+También se incluirán dentro de esta categoría todas las exposiciones asociadas a entidades, asociaciones, sociedades, propietarios, fideicomisos, fondos y otras entidades con característica similares, excepto aquellas contempladas explícitamente a través de otro tratamiento de este numeral 3.
+
+Se considera una empresa con "Grado de inversióN°, si la contraparte tiene al menos una clasificación externa, y ésta es al menos BBB- de acuerdo con los criterios establecidos en el Anexo N°1 de este Capítulo. En caso de que una empresa no cuente con una clasificación externa asignada, se asimilará a "Grado de inversióN° si su clasificación individual, asignada de acuerdo con los criterios establecidos en el Capítulo B-1 del CNC, es superior o igual a A3.
+
+Si una empresa no cumple con las condiciones para ser clasificada con "Grado de inversióN° y su nivel de ventas anuales es inferior a 100.000 UF, entonces se considerará como Pyme, para efectos de la determinación de su PRC. El límite al nivel de ventas señalado está asociado a lo establecido en el artículo segundo de la ley 20.416, que "Fija Normas Especiales para las Empresas de Menor Tamaño".
+
+Por último, se asigna el PRC de "Otros" a todas las exposiciones frente a empresas analizadas individualmente no consideradas en los casos anteriores.
+
+3.8 Exposiciones en Préstamos Especializados
+
+Para las exposiciones generadas por préstamos especializados, cuyas fuentes de pago sean los flujos de caja del proyecto o bienes financiados, se debe asignar el PRC que corresponda al tipo de préstamo, según se indica en la siguiente tabla:
+
+.
+
+El financiamiento de proyectos corresponde al método en que la amortización de la deuda y pago de interés se obtiene principalmente de las rentas generadas por el proyecto. El financiamiento de proyectos puede consistir en la construcción de una nueva instalación productiva o en el refinanciamiento de una instalación ya existente, con o sin mejoras. Para estos efectos, la fase operativa se define como aquella en la que la personalidad jurídica, que se ha creado específicamente para desarrollar el proyecto, presenta un flujo de efectivo neto positivo suficiente para cubrir cualquier obligación contractual pendiente y una deuda a largo plazo decreciente. Consistentemente, la fase pre-operativa se establece antes del cumplimiento de estas condiciones.
+
+Un financiamiento de proyectos se considera de alta calidad cuando el proyecto puede cumplir con sus compromisos financieros oportunamente de acuerdo con lo planificado y su capacidad para hacerlo es sólida, aun cuando se produzcan cambios adversos de las condiciones económicas y empresariales. La entidad ejecutante del proyecto cuenta con fondos de reserva u otros arreglos financieros suficientes para cubrir contingencias y requisitos de capital de trabajo, de acuerdo con las políticas internas del banco. Adicionalmente, las disposiciones contractuales deberán establecer lo siguiente:
+
+. Se prohíbe a la entidad ejecutante del proyecto actuar en perjuicio de los acreedores (por ejemplo, al no poder emitir deuda adicional sin el consentimiento de los acreedores existentes);
+
+. Están constituidos en garantía los ingresos mínimos que se generarán en la fase de explotación del proyecto de infraestructura y que se encuentran garantizados por el Estado o por un seguro de carácter privado;
+
+. Los ingresos de la entidad ejecutante del proyecto dependen de una contraparte principal, tal como un gobierno central, PSE o una entidad corporativa, con una ponderación de riesgo del 80% o inferior;
+
+. Las disposiciones contractuales que rigen la exposición hacia la entidad ejecutante del proyecto proporcionan un alto grado de protección para los acreedores en caso de incumplimiento de la entidad ejecutante del proyecto, de acuerdo con las políticas internas del banco;
+
+. La contraparte principal, u otras contrapartes que cumplan de manera similar con los criterios de elegibilidad para la contraparte principal, responderán ante los acreedores de las pérdidas resultantes de la cancelación del proyecto;
+
+. Todos los activos y contratos necesarios para operar el proyecto han sido vinculados contractualmente a los acreedores, en la medida en que lo permita la ley aplicable.
+
+Será la entidad bancaria la que en todo momento deberá tener disponible los antecedentes que acrediten el cumplimiento de las condiciones precedentes. Si no se cumple alguna de las condiciones señaladas, entonces el PRC asignable a la exposición debe ser de 130% o 100%, dependiendo de si el proyecto se encuentra en fase preoperativa u operativa, respectivamente.
+
+El financiamiento de bienes corresponde a préstamos para la adquisición de equipamiento, en que el reembolso depende de los flujos de efectivo procedentes de los activos específicos financiados y que se han dejado en garantía al prestamista.
+
+El financiamiento de productos básicos se refiere a operaciones estructuradas de préstamo a corto plazo, dedicadas a financiar reservas, existencias o derechos de cobro de productos básicos negociados en mercados organizados, donde el reembolso del préstamo procede de los ingresos de la venta del producto y el prestatario no tiene capacidad independiente para su reembolso.
+
+En caso de que la fuente de pago de la exposición no esté vinculada contractualmente a los flujos de caja del proyecto o bienes financiados, entonces el PRC asignable deberá determinarse de acuerdo con el numeral 3.7 para exposiciones con Empresas.
+
+3.9 Exposiciones Minoristas
+
+Las exposiciones minoristas o de análisis grupal, de acuerdo con lo establecido en el Capítulo B-1 del CNC, que no estén garantizadas por hipotecas tendrán un PRC de acuerdo con el tipo de crédito, según se indica en la siguiente tabla:
+
+.
+
+La categoría "Medio de pago" se refiere a las exposiciones con tarjetahabientes ya sea en débito o crédito, cuyo saldo pendiente se ha amortizado íntegramente en cada fecha de amortización programada para los 12 meses anteriores. También se considerarán "medio de pago" la exposición que tiene el banco a través de tarjetas que han permanecido inactivas durante al menos 12 meses.
+
+Se define RDI como el cuociente entre las obligaciones de consumo del deudor y la renta mensual. Para su determinación se requiere considerar en su numerador la suma de los montos de las colocaciones de las siguientes operaciones:
+
+- Todas las operaciones de consumo con el banco, ya sea en cuotas o usos de líneas.
+
+- Las exposiciones contingentes que posee el deudor con el banco, de acuerdo con lo definido en el numeral 2.4 de este mismo Capítulo, como son las asociadas a tarjetas de crédito o bien a líneas de la cuenta corriente.
+
+- Los leasings contratados por el deudor, con el banco.
+
+- La información disponible más actualizada de las operaciones señaladas anteriormente, en el resto de los oferentes de crédito.
+
+- Todas las operaciones de crédito hipotecario para la vivienda con el banco, que no caucionen la exposición de consumo.
+
+- La información disponible más actualizada de las operaciones de crédito hipotecario para la vivienda con el resto de los oferentes de crédito.
+
+Por otro lado, el RCI se define como el cuociente entre las obligaciones financieras mensuales asociadas a consumo que posee el deudor, y la renta mensual. Para su determinación se requiere considerar en su numerador la suma de los montos de las siguientes operaciones:
+
+- Todas las cuotas pagaderas en el mes, asociadas a operaciones de consumo con el banco.
+
+- El uso de la línea de cuenta corriente que posee el deudor con el banco.
+
+- El monto facturado en el mes, que posee el deudor en tarjetas de crédito del banco.
+
+- El monto que resulte de la división entre las exposiciones contingentes que posee el deudor con el banco, de acuerdo con lo definido en el numeral 2.4 de este mismo Capítulo y 12, de manera de estimar la carga mensual asociada.
+
+- Las cuotas de operaciones de leasings, pagaderas en el mes, con el banco.
+
+- La información disponible más actualizada de las operaciones señaladas anteriormente, en el resto de los oferentes de crédito.
+
+- Todas las cuotas pagaderas en el mes, asociadas a créditos hipotecarios para la vivienda con el banco, que no caucionen la exposición de consumo.
+
+- La información disponible más actualizada de las cuotas pagaderas en el mes, asociadas a créditos hipotecarios para la vivienda con el resto de los oferentes de crédito.
+
+Para la determinación del denominador tanto del RDI como del RCI, se debe considerar la renta mensual declarada por el cliente y acreditada por el banco. En caso de que no se cumpla lo anterior, se debe considerar un PRC de 100%.
+
+Las políticas, supuestos y procedimientos de cálculo de los indicadores deberán estar bien documentados, y disponible para revisión por parte de esta Comisión.
+
+En caso de que el deudor garantice el cumplimiento de sus operaciones con un bien raíz, debe tratarse de acuerdo con los numerales siguientes.
+
+3.10 Exposiciones garantizadas por bien raíz residencial
+
+El PRC asociado a exposiciones caucionadas por uno o más bienes raíces residenciales, dependerá del número de viviendas pertenecientes a la contraparte deudora, del cumplimiento de criterios de perfeccionamiento de la garantía, y de la razón préstamo sobre valor comercial de la garantía (LTV).
+
+Se considerará que la garantía cumple con los criterios de elegibilidad cuando:
+
+. El inmueble que respalde la exposición haya sido íntegramente construido. También se podrán considerar terrenos o viviendas en construcción, siempre que sea destinado para ser primera vivienda del deudor y no un proyecto inmobiliario.
+
+. El derecho de garantía del acreedor sobre el bien raíz deberá ser jurídicamente exigible en todas las jurisdicciones pertinentes. El contrato de hipoteca y el proceso jurídico en que se sustenta deberán permitir al banco ejecutar dicha caución en un tiempo razonable.
+
+. La hipoteca, de acuerdo con las cláusulas de cobertura de la garantía, sea constituida en primer grado de preferencia en favor del banco y ésta solo cauciona los créditos del deudor respecto al cual se imputa (no compartida con otros deudores).
+
+. El banco establece políticas de concesión de créditos que incluyen la valorización de la capacidad del deudor para devolver el préstamo (por ejemplo, modelos de scoring). Dichas políticas deben definir indicadores objetivos, consistentes con el comportamiento de pago del deudor.
+
+. Toda la información requerida en el momento del origen del préstamo y con fines de seguimiento está adecuadamente documentada, incluida información sobre la capacidad del prestatario para amortizar su deuda y sobre la tasación del inmueble.
+
+En el caso de que el deudor posea hasta 2 créditos hipotecarios para la vivienda, entonces el PRC se determinará por la siguiente tabla:
+
+.
+
+Cuando el deudor posea 3 o más créditos hipotecarios para la vivienda, el PRC se determinará por la siguiente tabla:
+
+.
+
+El LTV debe calcularse de manera prudencial, como la razón entre el valor residual del préstamo, incluyendo todos los compromisos caucionados por la hipoteca, y el valor de tasación del inmueble al momento de origen del crédito, la cual debe realizarse de forma independiente, aplicando criterios de tasación conservadores.
+
+Cuando existan más de una tasación, deberá utilizarse la menor de las tasaciones vigentes. El valor de tasación sólo podrá ajustarse si se produce una pérdida de valor del inmueble o una eventual situación que pudiese estar originando un alza transitoria en el valor de la garantía, que justifique una reducción permanente del valor del inmueble.
+
+3.11 Exposiciones garantizadas por bien raíz comercial
+
+Para la asignación del PRC de las exposiciones caucionadas por una hipoteca sobre un bien raíz comercial, se requiere determinar si el pago depende materialmente de los flujos de caja generados por el inmueble, verificar el cumplimiento de criterios asociados a la elegibilidad de la garantía y del LTV. En el caso de que el pago no dependa materialmente de los flujos de cajas generados por el inmueble, el PRC queda determinado por la siguiente tabla:
+
+.
+
+Por otro lado, en el caso de que el pago depende materialmente de flujos de cajas generados por el inmueble, el PRC queda determinado por la siguiente tabla:
+
+.
+
+Los criterios para la determinación del LTV y para que la garantía se considere elegible son los mismos del numeral 3.10 anterior. No obstante, para garantías asociadas a tierras agrícolas y forestales no se deberá considerar la primera condición de elegibilidad.
+
+Se entiende por flujos de cajas generados por el inmueble, cuando provienen de pagos de arrendamiento, alquiler o venta de la propiedad. Por dependencia material se entiende cuando el flujo de caja necesario para pagar la deuda hipotecaria proviene en más de un 50% por flujos de cajas generados por el inmueble.
+
+En el caso de que una exposición esté simultáneamente caucionada por bienes raíces comercial y residencial, deberá considerarse el PRC resultante mayor.
+
+3.12 Exposiciones a la adquisición de terrenos, promoción y construcción
+
+Las exposiciones asociadas a la adquisición de terrenos y la promoción y construcción corresponden a préstamos a empresas o proyectos que financian la adquisición de terrenos con fines de construcción y promoción, o la promoción y construcción de cualquier inmueble residencial o comercial. Estas exposiciones se ponderarán por 150% como regla general.
+
+No obstante, podrían tener un PRC de 100% las exposiciones asociadas a la adquisición de terrenos y la promoción y construcción a bienes inmuebles residenciales, si se cumplen con los siguientes criterios:
+
+. El derecho de garantía del acreedor sobre el bien raíz deberá ser jurídicamente exigible en todas las jurisdicciones pertinentes. El contrato de hipoteca y el proceso jurídico en que se sustenta deberán permitir al banco ejecutar dicha caución en un tiempo razonable.
+
+. La hipoteca, de acuerdo con las cláusulas de cobertura de la garantía, sea constituida en primer grado de preferencia en favor del banco y ésta solo cauciona los créditos del deudor respecto al cual se imputa (no compartida con otros deudores).
+
+. El banco establece políticas de concesión de créditos que incluyen la valorización de la capacidad del deudor para devolver el préstamo (por ejemplo, modelos de scoring). Dichas políticas deben definir indicadores objetivos, consistentes con el comportamiento de pago del deudor.
+
+. Toda la información requerida en el momento del origen del préstamo y con fines de seguimiento está adecuadamente documentada, incluida información sobre la capacidad del prestatario para amortizar su deuda y sobre la tasación del terreno.
+
+. Los contratos de promesa de compraventa o arrendamiento deben representar más de un 50% del total de capital en riesgo. El capital en riesgo se determinará como el capital aportado por el gestor para desarrollar el proyecto. Los contratos de promesa de compraventa o arrendamiento deben haber sido legalmente celebrados cumpliendo con todas las solemnidades, requisitos y condiciones aplicables para su validez y eficacia, y el comprador o arrendatario debe haber formalizado un depósito en efectivo que perderá en caso de resolución del contrato.
+
+3.13 Exposiciones a instrumentos securitizados
+
+Aquellos bancos que tengan exposiciones a instrumentos securitizados -definidos en la Ley N° 18.045, de Mercado de Valores- o que se estructuren en forma similar, deberán considerar un PRC que depende de la clasificación de riesgo, la madurez y del grado de preferencia de la serie o tramo y del cumplimiento de los criterios para la distinción de securitizaciones menos complejas, que hacen alusión a su simplicidad, transparencia y comparabilidad (en adelante, STC) del Anexo N°2 de este CapítulO, de acuerdo con las siguientes tablas:
+
+.
+
+La madurez corresponde al vencimiento efectivo residual del tramo, en años, y se debe calcular como la madurez promedio ponderada de los flujos de caja, en línea con la fórmula señalada en el numeral 4.2.1 de este Capítulo. El resultado de este cálculo a aplicar tendrá un piso de un año y un techo de cinco años.
+
+En los casos en que un banco mantenga una línea de crédito con una securitización, deberá calcular la madurez resultante de este compromiso como la suma del vencimiento contractual del compromiso y el vencimiento de la securitización. La clasificación de riesgo corresponde a la serie del tramo preferente.
+
+Para el caso en que la madurez de las exposiciones no esté dentro de las tablas anteriores, los ponderadores se deberán calcular de las siguientes formas:
+
+. Para considerar la madurez de la exposición, los bancos deberán calcular el PRC haciendo uso de una interpolación lineal, con los valores de PRC para 1 y 5 años.
+
+. En el caso de los tramos subordinados, el PRC se ajustará por medio de la siguiente fórmula:
+
+.
+
+donde T corresponde al ancho del tramo, calculado como la resta entre el punto de pérdidas completas menos el punto de entradas en pérdidas del tramo analizado. El punto de pérdidas completas se calcula como la razón entre la suma de los saldos de menor prelación a la exposición analizada, sobre el saldo total de los tramos de esta securitización. El punto de entradas en pérdidas se calcula como la razón entre los saldos de menor o igual prelación a la exposición analizada, sobre el saldo total de los tramos de esta securitización.
+
+Bajo cumplimiento de los criterios STC, el PRC resultante estará sujeto a un piso de 10% para tramos preferentes, y 15% para tramos suborinados. Si no hay cumplimiento de los criterios STC, el PRC resultante está sujeto a un piso igual al máximo entre 15% y el PRC de un tramo preferente de un instrumento securitizado con la misma clasificación y vencimiento.
+
+No obstante, para los instrumentos securitizados preferentes sobre activos subyacentes provenientes del mismo banco, se les asigna un PRC de 1250%.
+
+3.14 Exposiciones a fondos de inversión
+
+Para las exposiciones a fondos de inversión, generadas a través de filiales no bancarias, definidas en el numeral 2.2 de este Capítulo, se asignará el PRC que corresponda a la contraparte de cada subyacente, tanto para el método LTA como MBA.
+
+Para el método MBA, cuando el banco pueda aplicar más de un PRC a un mismo activo subyacente, deberá escoger el PRC más alto.
+
+Si el banco no aplica ninguno de estos dos métodos, deberá utilizar un PRC igual a 1250% para estas exposiciones.
+
+3.15 Exposiciones a instrumentos de capital y subordinados
+
+Sin perjuicio de lo previsto en el artículo 69 y el artículo 84 N°5 de la LGB, filiales del banco podrían tener exposiciones con instrumentos de capital y subordinados no considerados en el artículo 55 de la LGB. En particular, las exposiciones a instrumentos accionarios no cotizados especulativos tendrán un PRC de 400%. Estas exposiciones se definen como inversiones en renta variable en empresas no cotizadas cuya finalidad es la reventa a corto plazo o que se consideran capital de riesgo o inversiones similares sujetas a volatilidad de precios y adquiridas en previsión de plusvalías futuras significativas.
+
+El resto de las exposiciones a instrumentos accionarios, que no hayan sido descontado del capital regulatorio de acuerdo con los criterios establecidos en el Capítulo 21-1 de la RAN, tendrán un PRC de 250%. Aquellas exposiciones descontadas, tendrán un PRC de 0%.
+
+Las exposiciones a instrumentos subordinados, u otro instrumento de capital no accionario, que no hayan sido descontado del capital regulatorio de acuerdo con los criterios establecidos en el Capítulo 21-1 de la RAN, tendrán un PRC de 150%. Análogamente, aquellas exposiciones descontadas, tendrán un PRC de 0%.
+
+3.16 Exposiciones con descalce de Monedas
+
+Para las exposiciones minoristas no cubiertas y las exposiciones con particulares garantizadas con bienes raíces residenciales no cubiertas, en las que la moneda del préstamo no coincida con la moneda de la fuente de ingresos del prestatario, los bancos deberán aplicar un multiplicador de 1,5 veces al PRC correspondiente en virtud de los literales anteriores, sujeto a una ponderación máxima del 150%.
+
+Para efectos del párrafo anterior, una exposición no cubierta se refiere a aquellas en las que el prestatario no cuenta con ninguna cobertura natural o financiera frente al riesgo de tipo de cambio procedente del descalce de monedas entre la moneda en la que se denomina el préstamo y la de los ingresos del prestatario. Una cobertura natural existe cuando el prestatario, en el marco de su operativa habitual, recibe ingresos en la misma moneda extranjera en la que se concede un préstamo determinado (por ejemplo, remesas, ingresos por alquiler o salarios). Una cobertura financiera suele incluir un contrato con una institución financiera (por ejemplo, un contrato a plazo). A los efectos de la aplicación del multiplicador, estas coberturas naturales o financieras solo se consideran suficientes si cubren como mínimo el 90% del préstamo, con independencia del número de coberturas utilizadas.
+
+Los bancos deben tener la documentación que justifique los criterios adoptados por la institución para la clasificación del descalce de moneda de la contraparte.
+
+3.17 Exposiciones en Incumplimiento
+
+Para efectos de este numeral, se considera una exposición en incumplimiento aquella que satisface los criterios del Capítulo B-1 del CNC.
+
+Cuando las provisiones específicas asignadas a una exposición en incumplimiento sean inferiores al 20% de la exposición, la parte no garantizada, neta de provisiones específicas, tendrá un PRC de 150%. Solo se exceptuarán de esta regla las exposiciones garantizadas con bienes raíces residenciales cuyo deudor tenga 2 o menos créditos hipotecarios para la vivienda, las que se ponderarán al 100%.
+
+En cualquier otro caso, el PRC de la parte no garantizada de una exposición en incumplimiento, neta de provisiones específicas, será 100%.
+
+3.18 Transferencia de fondos en curso
+
+Para determinar el PRC aplicable a las transferencias de fondos en curso, se deben distinguir las operaciones DvP (Deliverable versus Payment, por sus siglas en inglés) y las no DvP.
+
+En las operaciones DvP, o de pago contra entrega, debe existir certeza de la efectividad del mecanismo DvP, y documentación que lo respalde. Para estos efectos se podrán considerar a las operaciones canalizadas a través de sistemas de pago locales o internacionales regulados o reconocidos por el Banco Central de Chile, de acuerdo al artículo 35 N°8 de su Ley Orgánica Constitucional. Además, se podrán considerar operaciones canalizadas a través de sistemas de compensación y liquidación de valores autorizados de acuerdo a la Ley N°20.345 e internacionales sujetos al cumplimiento de los principios aplicables a la infraestructura de mercado financiero de IOSCO, 2012. Será la entidad bancaria la que en todo momento deberá tener disponible los antecedentes que justifiquen la certeza de la efectividad del mecanismo.
+
+Las operaciones PvP, o de pago contra pago, y que cumplan las mismas condiciones de certeza de efectividad del mecanismo, se incluyen dentro de las operaciones DvP. En este caso el banco debe determinar diferencias del valor del bien entre la fecha de liquidación acordada y la fecha de reporte, para luego aplicar a dicho monto el PRC de la siguiente tabla:
+
+.
+
+Para las operaciones no DvP, es decir operaciones de pago que no son contra entrega, o que no cumplen con requisitos de efectividad del mecanismo DvP, se debe aplicar el PRC de la contraparte que haya transferido el valor/efectivo sin haber recibido de la otra contraparte el correspondiente valor/efectivo, a través de otro tratamiento de este numeral 3. Si han pasado más de 5 días hábiles desde la fecha de liquidación acordada, y la transacción aun no se ha llevado a cabo, el PRC aplicable es de 1250% sobre todo el valor del bien a la fecha de reporte.
+
+3.19 Otros activos
+
+Los impuestos diferidos activos netos y los servicios de crédito hipotecarios, que no hayan sido descontados de acuerdo con lo señalado en el capítulo 21-1 de la RAN, para efectos de la determinación del capital regulatorio, deberá considerar un PRC de 250%. Análogamente, todos los activos que se descuenten producto de esta misma norma deberán considerar un PRC de 0%.
+
+El PRC de cualquier otro activo, no considerado en los numerales anteriores, dependerá del tipo de exposición, según se indica en la siguiente tabla:
+
+.
+
+### 4. MI para el cómputo de los APRC
+
+Bajo el enfoque de MI, los bancos deben clasificar sus exposiciones señaladas en el numeral 2 de este Capítulo, ya sea como minoristas, de manera consiste con aquellas analizadas de manera grupal según lo determinado en el Capítulo B-1 del CNC, o bien, exposiciones individuales como su complemento.
+
+Los requerimientos mínimos para la aceptación del uso de los MI se establecen en el número 6 siguiente.
+
+Para las exposiciones individuales, se deberá asignar una clasificación individual a cada deudor, para determinar su probabilidad de incumplimiento de acuerdo con los criterios del número 4.1, considerando el piso mínimo allí definido. Para las exposiciones minoristas, se deberá estimar una probabilidad de incumplimiento consistente con las establecidas en los modelos internos de provisiones, de acuerdo con lo señalado en el Capítulo B-1 del CNC.
+
+Los datos del vencimiento efectivo de las operaciones, y los parámetros establecidos por el regulador para la pérdida dado el incumplimiento y la exposición al momento del incumplimiento, deberán utilizarse en las funciones de riesgo descritas en el numeral 4.4 para obtener los APRC de cada exposición.
+
+No se permitirá la utilización de MI, para las exposiciones asociadas a instrumentos de capital y subordinados, fondos de inversión, securitizaciones y con ECC, de acuerdo con las definiciones establecidas en el numeral 3 de este Capítulo.
+
+4.1 Probabilidad de incumplimiento (PI)
+
+Para determinar la PI de las exposiciones individuales, los bancos deberán clasificar sus exposiciones de acuerdo con su capacidad de pago, siguiendo los requerimientos establecidos en el número 6. Para ello es importante que los bancos asignen sus exposiciones a las clasificaciones individuales, establecidas en el Capítulo B-1 del CNC, siguiendo criterios prudenciales y razonables.
+
+Para el encasillamiento de las exposiciones, el banco deberá considerar en sus análisis los factores mínimos establecidos en el numeral 2.1.2 del Capítulo B-1 del CNC. Cuando un deudor ya haya sido clasificado para efectos de la determinación de provisiones, dicha asignación deberá guardar consistencia con la establecida para efectos de este Capítulo.
+
+La PI de cada deudor que se utilice en las funciones de riesgo, determinadas de acuerdo con el Capítulo B-1 del CNC, no podrá ser inferior a 0,05%.
+
+Por otro lado, para determinar la PI de las exposiciones minoristas el banco deberá utilizar el segundo método establecido en el numeral 3 del Capítulo B-1 del CNC, y deberá cumplir con los requisitos aplicables del Anexo 1 del Capítulo B-1 del CNC, de acuerdo con lo señalado en el numeral 6 de este capítulo.
+
+La PI determinada por los bancos, para las exposiciones minoristas no podrá ser inferior a 0,05%.
+
+4.2 Madurez efectiva (M)
+
+La madurez efectiva se mide en años, está sujeta a un mínimo de un año y a un máximo de cinco, y se define como:
+
+.
+
+donde CFt son los flujos de caja (capital, interés y comisiones) que el deudor está contractualmente obligado a pagar en el periodo t.
+
+Si el banco no pudiese calcular el vencimiento efectivo de los pagos contractuales definidos más arriba, podrá utilizar el vencimiento residual de acuerdo con las disposiciones contractuales de la exposición.
+
+En el caso de los derivados sujetos a un acuerdo marco de compensación, según lo señalado en el numeral 2.3 de este Capítulo, el vencimiento efectivo se define como el vencimiento promedio ponderado por el valor nocional de las operaciones incluidas en ese acuerdo de compensación.
+
+Para transacciones repos el banco debe ocupar una madurez efectiva de 6 meses (M=0.5).
+
+En caso de que el banco no pueda calcular la madurez efectiva, entonces deberá considerar un valor M = 2.5. En este último caso el banco deberá acreditar ante el regulador la dificultad existente, demostrando que no obedece a un arbitraje regulatorio para la reducción de los requerimientos de capital.
+
+4.3 Pérdida dado el Incumplimiento (PDI) y Exposición al Incumplimiento (EAI)
+
+La PDI asignada a las exposiciones individuales debe calcularse de acuerdo con el Anexo N°5 del presente Capítulo, mientras que para las exposiciones minoristas debe calcularse siguiendo los criterios establecidos en el numeral 3 del Capítulo B-1 del CNC, para la determinación de provisiones mediante modelos estándar. Para las exposiciones minoristas asignadas a la cartera de consumo, se debe considerar una PDI de 61,3%.
+
+Por otro lado, la EAI debe calcularse de acuerdo con el numeral 2 del presente Capítulo.
+
+4.4 Funciones de riesgo
+
+4.4.1 Enfoque general
+
+Para calcular los cargos por riesgo de crédito (en adelante, K) de las exposiciones individuales se utilizan las siguientes fórmulas:
+
+.
+
+4.4.2 Cálculo de correlación
+
+La fórmula que determina la correlación dependerá de la contraparte y de su PI. En el caso general para exposiciones individuales, se calcula mediante la siguiente fórmula:
+
+.
+
+Para la determinación de los APRC, aplicables a las exposiciones a préstamos especializados, definidos de acuerdo con los criterios establecidos en el numeral 3, los bancos deberán aplicar las funciones de riesgo corporativas, de manera de encontrar los PRC para cada tipo de préstamo especializado.
+
+Las exposiciones comerciales hipotecarias de alta volatilidad corresponden a las exposiciones clasificadas en los numerales 3.12, 3.11 donde el pago depende materialmente de flujos de cajas generados por el inmueble, de acuerdo a los lineamientos establecidos en el método estándar, u otras exposiciones que el banco asi lo determinase. Los bancos deberán utilizar las fórmulas de riesgo asociadas a exposiciones corporativas, salvo por la estimación de la correlación, la cual debe obtenerse mediante la siguiente fórmula.
+
+.
+
+No obstante, para las exposiciones minoristas que estén caucionadas por un bien raíz residencial, se le asignará una correlación de 15%.
+
+### 5. Técnicas de mitigación del riesgo de crédito
+
+Para utilizar técnicas que mitiguen el riesgo de crédito, los bancos deberán contar con toda la documentación utilizada en operaciones garantizadas, acuerdos de compensación, garantías personales y reales, la que deberá ser vinculante para todas las partes y tener fuerza legal en todas las jurisdicciones pertinentes.
+
+Los bancos deben corroborar lo anterior y contar con informes legales fundamentados, emitidos por la fiscalía del banco, asesores externos o auditoras externas, así como llevar a cabo el seguimiento que sea necesario a objeto de garantizar su continuo cumplimiento. El marco establecido en este numeral es válido para las exposiciones mencionadas en el numeral 2 de este Capítulo, ya sea que se utilice el método estándar o metodologías internos.
+
+5.1 Acuerdos de compensación bilateral
+
+En caso de que un conjunto de contratos derivados haya sido celebrado con una contraparte bajo el amparo de un convenio marco reconocido por el Banco Central de Chile, para efectos de aplicar sus acuerdos de compensación de obligaciones conexas, en caso de quiebra o liquidación forzosa de una de las partes, el efecto mitigador del riesgo de contraparte atribuible a la compensación podrá aplicarse en el cálculo del "equivalente de crédito" para ese conjunto de instrumentos derivados.
+
+El "equivalente de crédito" con una misma contraparte corresponderá a lo siguiente:
+
+.
+
+El banco deberá mantener a disposición de esta Comisión toda la documentación que respalde la determinación del "equivalente de crédito" al amparo de las presentes normas, incluyendo todos los antecedentes de los respectivos acuerdos de compensación y contratos de derivados.
+
+5.2 Acuerdos de compensación mediante una ECC
+
+Para la determinación del equivalente de crédito de instrumentos derivados compensados y liquidados en una ECC se deben considerar las instrucciones que se indican a continuación, según el tipo de vínculo que exista entre el banco y dicha contraparte:
+
+5.2.1 Banco como participante directo de una ECC
+
+Se entiende que un banco es participante directo de una ECC cuando existe un vínculo contractual que lo faculta y a la vez obliga a responsabilizarse de las operaciones realizadas tanto a nombre propio como por cuenta de un tercero.
+
+En estos casos el cómputo del equivalente de crédito se debe determinar aplicando la fórmula de compensación bilateral señalada en el numeral 5.1 anterior, considerando aquellas operaciones efectuadas que comparten las mismas garantías y resguardos, según las normas que rijan a cada sistema de compensación y liquidación en particular, por lo que su equivalente de crédito final será la suma de las exposiciones compensadas en cada categoría o grupo de derivados que administre dicha entidad.
+
+5.2.2 Banco como cliente de un participante directo
+
+Cuando un banco actúe como cliente de un participante directo de una ECC, también podrá aplicar el PRC asociado al numeral 3.5 a sus exposiciones con la respectiva contraparte, cuando la ECC identifica las operaciones presentadas para su compensación y posterior liquidación como transacciones del banco que actúa como cliente, al igual que las garantías que la ECC o el participante directo mantienen para respaldar dichas operaciones.
+
+Para el cómputo del equivalente de crédito de las operaciones que cumplan con las condiciones antes señaladas, se considerará un horizonte temporal de acuerdo a lo indicado en el octavo párrafo del numeral 2.3.
+
+5.3 Avales y fianzas
+
+Para efectos del cálculo de los APRC, ciertos avales y fianzas, (en adelante, deudores indirectos), podrán ser considerados en la medida que la documentación que da cuenta de la mitigación garantice créditos determinados, de modo que el alcance de la cobertura esté definido con claridad y que el derecho de crédito contra el garante sea incuestionable.
+
+Las coberturas podrán ser consideradas sólo si están legalmente constituidas y mientras se cumplan todas las condiciones que permiten su eventual ejecución o liquidación a favor del banco acreedor.
+
+Para efectos del cálculo de los APRC mediante el método estándar definido en el numeral 3 de este Capítulo, podrá aplicarse el método de sustitución de PRC de los avales y fianzas calificados. Solo los deudores indirectos con una ponderación por riesgo inferior a la de la contraparte reducirán los requerimientos de capital, ya que a la parte cubierta se le asigna el PRC del garante, mientras que la parte no cubierta mantiene la ponderación por riesgo de la contraparte directa.
+
+Para efectos del cálculo de los APRC mediante metodologías internas, definido en el numeral 4 de este Capítulo, los bancos deberán calcular sus requerimientos de capital aplicables tanto al deudor indirecto como al directo, para la exposición cubierta y no cubierta, respectivamente. Los parámetros de riesgo PI y PDI del deudor directo y del proveedor de la mitigación de riesgo, deberán asignarse de acuerdo con los criterios establecidos en el Capítulo B-1 del CNC y en el Anexo N°5, respectivamente. No podrán considerarse garantías reales para la determinación de la PDI del deudor indirecto.
+
+En todos los casos, para los fines previstos en este Capítulo, el banco deberá poder demostrar el efecto mitigador que tienen las garantías sobre el riesgo de crédito inherente de las exposiciones que se respalden.
+
+Los requisitos operativos generales para sustituir el riesgo del deudor son:
+
+i. Representa un derecho al deudor indirecto.
+
+ii. La exposición garantizada por el deudor indirecto esté claramente determinada, de manera que no pueda ser cuestionada.
+
+iii. Ser irresoluble, excepto en el caso de incumplimiento del deudor directo.
+
+iv. No contener cláusulas que permitan al deudor indirecto cancelar unilateralmente la cobertura.
+
+v. Ser incondicional.
+
+vi. No contener cláusulas que escapen al control directo del banco y que eximan al deudor indirecto del pago puntual en el caso en que la contraparte original incumpla los pagos.
+
+Los requisitos operativos específicos que deben satisfacer el aval o fianza para su uso son:
+
+i. En caso de incumplimiento de la contraparte, el banco puede reclamar las obligaciones al aval o fiador, solicitando los pagos pendientes conforme a la documentación que regula la operación. Estos garantes pueden abonar al banco un pago único, que cubra la totalidad del importe contemplado en la documentación del crédito, o bien puede asumir el pago de las futuras obligaciones de la contraparte cubiertas por la garantía. El banco debe tener derecho a recibir cualquiera de estos pagos de los garantes, sin tener primero que emprender acciones legales contra la contraparte para que esto suceda.
+
+ii. La garantía es una obligación explícitamente documentada que asume el aval o fiador.
+
+iii. El aval o fiador debe reponder al pago en los mismos términos a los que está obligado el deudor principal en virtud de la documentación que regula la operación. Los avales y fiadores admisibles son los siguientes:
+
+(i) Entidades soberanas, PSE, Bancos Multilaterales de Desarrollo y bancos con un PRC inferior al de la contraparte.
+
+(ii) Otras entidades definidas como de "grado de inversióN°. Además, deberán cumplirse las siguientes condiciones:
+
+a. en caso de entidades corporativas (o la sociedad matriz de la entidad), deben contar con valores en circulación en un mercado reconocido;
+
+b. la solvencia de estas entidades no guarda una correlación positiva con el riesgo de crédito de las exposiciones para las que aportaron garantías;
+
+Cuando se trate de créditos hipotecarios para la vivienda vinculados a programas habitacionales y de subsidio del Estado de Chile, siempre que cuenten contractualmente con el seguro de remate provisto por este último, el monto avalado se debe determinar mediante la multiplicación de la exposición asegurada y el porcentaje establecido en la siguiente tabla:
+
+.
+
+Las definiciones establecidas en la tabla deben ser consistentes con las señaladas en la sección 3.10 y en el Capítulo B-1 del CNC.
+
+Por último, en el caso de los créditos concedidos para el financiamiento de estudios superiores, otorgados de acuerdo con la Ley N° 20.027, podrá ser considerado el Estado como aval para el 90% de la exposición.
+
+5.4 Garantías financieras
+
+El efecto que tendrán las garantías financieras para la determinación de los APRC podrá variar dependiendo de la metodología que se considera. En ningún caso las garantías reales podrán deducirse de la exposición.
+
+Los siguientes instrumentos son admisibles como colateral:
+
+. Efectivo, así como certificados de depósito en efectivo en moneda nacional, o bien en una moneda de la Canasta 1, de acuerdo con lo definido en el Capítulo 21-7 de la RAN, emitidos por el banco prestamista, depositados en el banco que está asumiendo el riesgo de contraparte. Cuando el certificado de depósito es emitido por un tercer banco, se puede considerar admisible, siempre y cuando estén cedidos al banco prestamista de forma incondicional e irrevocable. El riesgo aplicable a la exposición garantizada deberá estar asociado al tercer banco.
+
+. Oro
+
+. Títulos de deuda con "grado de inversióN° de acuerdo con lo definido en los modelos estándar.
+
+. Títulos de deuda emitidos por el Estado Chileno o por el Banco Central de Chile.
+
+. Títulos de deuda emitidos por gobiernos extranjeros calificados en la más alta categoría por una agencia clasificadora internacional según lo indicado en el Capítulo 1-12 de la RAN.
+
+Para determinar los APRC mediante el método estándar descrito en la sección 3 de este Capítulo, podrá sustituirse el PRC asignado a la exposición garantizada, de acuerdo con el tipo de emisor de la garantía, siempre que ésta haya sido constituida con el único fin de cautelar el cumplimiento de los créditos de que se trate. A la exposición no garantizada, se deberá asignar el PRC de la contraparte directa.
+
+Para determinar el monto de la exposición garantizada deberá considerarse el valor de las garantías actualizadas, siguiendo los criterios indicados en el Capítulo 7-12 de la Recopilación Actualizada de Normas.
+
+Para que la garantía financiera sea admisible para este tratamiento, deberá estar otorgada por un periodo al menos igual al de la vigencia de la exposición, y deberá valorarse al menos con frecuencia semestral. La parte de la exposición que se encuentre respaldada por el valor razonable ajustado de las garantías financieras recibirá la ponderación por riesgo aplicable a dicho colateral. Dicha ponderación estará sujeta a un mínimo de 20%. Al resto de la exposición se le asignará la ponderación por riesgo correspondiente a la contraparte.
+
+Se permitirá considerar un PRC de 10% para las operaciones repo garantizadas, que cumplan con las siguientes condiciones:
+
+i. el instrumento fue emitido por un soberano o PSE con un PRC de 0%;
+
+ii. la exposición y el colateral están en la misma moneda;
+
+iii. la operación es a un día o bien la exposición y el colateral se valoran diariamente a precios de mercado y están sujetos a reposición diaria de márgenes;
+
+iv. cuando alguna de las partes incumpla la reposición de márgenes, el tiempo exigido entre la última valoración a precios de mercado previa al incumplimiento y la liquidación del colateral no se estima superior a cuatro días hábiles;
+
+v. la operación se liquida a través de un sistema comprobado para este tipo de operaciones y, tras un evento de incumplimiento, el banco tiene el derecho irrestricto y legalmente exigible de tomar inmediatamente posesión del colateral y liquidarlo en beneficio propio.
+
+El PRC correspondiente a las cauciones otorgadas respecto de operaciones repo garantizadas será igual a 0% si el título de crédito respecto del cual se otorga la caución corresponde a un emisor que sea el Estado de Chile, el Banco Central de Chile o un banco establecido en el país, o si la caución está denominada en la misma moneda y si cumple alguna de las siguientes condiciones: i) la caución es un depósito en efectivo, o ii) la caución consiste en valores de soberanos o PSE a los que les corresponde un PRC igual a 0% y cuyo valor de mercado ha sido descontado en un 20%.
+
+Para la determinación de los APRC mediante metodologías internas, las garantías financieras modificarán el cálculo de la PDI, de acuerdo con los criterios establecidos en el Anexo n°5 de este Capítulo.
+
+5.5 Compensaciones en balance
+
+Entidades que tengan exposiciones en instrumentos financieros por cuenta propia a nombre de terceros, y que se encuentren dentro del perímetro de consolidación del banco, podrán compensar exposiciones activas y pasivas que deriven de esa actividad, siempre y cuando cumplan las siguientes condiciones:
+
+(a) estén debidamente amparadas por un mandato legal para determinar que la compensación de balance es exigible en cada una de las jurisdicciones pertinentes;
+
+(b) sea capaz de determinar en todo momento aquellos activos y pasivos que están sujetos a la compensación.
+
+5.6 Garantías constituidas a favor de terceros bajo el amparo de un contrato marco
+
+Cuando se trate de operaciones con derivados celebrados bajo el amparo de un contrato marco de compensación bilateral, según lo indicado en el numeral 5.1 del presente Capítulo, en que el valor razonable neto de las posiciones compensadas es negativo, se podrá deducir de las garantías constituidas en virtud del contrato dicho monto, a fin de determinar el activo sujeto a ponderación por riesgo, si las garantías cumplen con las siguientes condiciones:
+
+(a) Existe una base legal fundada para concluir que el marco de compensación es aplicable también a las garantías constituidas en cada una de las jurisdicciones respectivas, independientemente de si la contraparte es insolvente o ha sido declarada en liquidación o quiebra;
+
+(b) El banco es capaz de determinar en todo momento aquellos derechos y obligaciones que están sujetos a compensación; y
+
+(c) Que se trate de aquellos depósitos e instrumentos en garantía definidos en el numeral 3.5 del del Título II de este Capítulo. Los títulos de deuda constituidos en garantía deberán ser considerados a su valor razonable, según los criterios definidos en el Capítulo 7-12 de esta Recopilación Actualizada de Normas.
+
+Para estos efectos, será la entidad bancaria la que en todo momento deberá tener disponible los antecedentes que justifiquen el cumplimiento de las condiciones anteriores.
+
+6. Requisitos para la utilización de metodologías internas para determinar los APRC
+
+### I. Consideraciones generales
+
+De acuerdo con lo señalado en el inciso 2 del artículo 67 de la LGB, los bancos podrán optar por determinar los APRC utilizando metodologías internas (MI). Para estos efectos, las entidades deberán efectuar una presentación previa ante este Organismo, con el fin de obtener una autorización para su uso. Es condición indispensable que las MI que sean presentadas a esta Comisión se ajusten a las condiciones mínimas establecidas en el presente numeral.
+
+Para ser admisibles, un banco debe demostrar a esta Comisión que cumple con ciertos requisitos mínimos desde la solicitud de uso de las metodologías y de manera continua. La atención se centra en la capacidad de los bancos para clasificar -de manera consistente, confiable y válida- sus deudores y exposiciones de acuerdo con lo señalado en el numeral 4 de este Capítulo, y en los cálculos de los parámetros de riesgo (PDI, EAI y M).
+
+Los bancos deberán clasificar a sus deudores mediante una evaluación cualitativa de las características de estos, así como de sus operaciones y una estimación cuantitativa del riesgo que sea razonable y coherente, de manera de determinar la probabilidad de incumplimiento. El resto de los parámetros de riesgo necesarios para determinar los APRC serán determinados de acuerdo con los criterios establecidos en el numeral 4 de este Capítulo.
+
+### II. Requisitos para la presentación de metodologías internas
+
+Para solicitar la evaluación de metodologías internas para efectos de determinación de los APRC, el banco deberá satisfacer previamente lo siguiente:
+
+a) Mantener un nivel de gestión de al menos categoría B en la última evaluación de la Comisión, de conformidad con el Capítulo 1-13 de la Recopilación Actualizada de Normas.
+
+b) Mantener durante los últimos 2 años una calificación de al menos "Cumplimiento Material", en la materia "Administración del Riesgo de crédito y gestión global del proceso de crédito" a que se refiere el Capítulo 1-13 antes mencionado.
+
+c) Las MI de riesgo de crédito presentadas para evaluación han sido revisadas y aprobadas por el Directorio en una sesión especial para estos efectos, dejando evidencia en actas de su análisis y discusión para su aprobación.
+
+d) Las MI para las que se solicita evaluación están integradas a la gestión diaria del riesgo de crédito (test de uso) por al menos un año y forman parte de los procedimientos habituales de la institución. Es decir, que sus resultados hayan sido utilizados al menos en las etapas de otorgamiento, seguimiento y cobranza de las respectivas carteras, con fines tales como: admisión de créditos, fijación de precios, establecimiento de límites, priorización en la cobranza, entre otros.
+
+e) La diferencia en la estimación de APRC entre las MI y el método estándar, se encuentran debidamente justificadas por la entidad, en función de las características de sus exposiciones.
+
+f) Durante los dos años previos a la presentación de una solicitud, las metodologías internas cumplen y han cumplido con los siguientes aspectos:
+
+i. Los procesos de seguimiento del desempeño de cada una de las segmentaciones definidas, de las asignaciones y de los resultados de las metodologías internas, son confiables y robustos, lo que se sustenta mediante pruebas empíricas y estadísticas.
+
+ii. Existen informes periódicos hacia los encargados de la gestión de riesgo, a las áreas comerciales, a la alta administración y al Directorio. Los informes dan cuenta al menos de las pruebas definidas en los literales a y b precedentes, los resultados del test de uso y el impacto que resulta de aplicar las MI, frente a escenarios base y de tensión.
+
+### III. Requisitos para las MI
+
+Para las exposiciones minoristas, el banco deberá utilizar el segundo método establecido en el numeral 3 del Capítulo B-1 del CNC y deberán cumplir los requisitos específicos aplicables a PI, que son establecidos en el Anexo 1 del Capítulo B-1 del CNC, los cuales son los asociados a las secciones II.2.A, sólo excluyendo los numerales iv), v) y vi) del literal b).
+
+Los siguientes requisitos mínimos se aplican a todas las exposiciones descritas en el numeral 2, que son analizadas de manera individual, de acuerdo con los criterios establecidos en el Capítulo B-1 del CNC.
+
+El principio general detrás de estos requisitos es que los sistemas y procesos de calificación proporcionan una evaluación significativa de las características del deudor y de la operación, y una diferenciación significativa y razonable del riesgo. Dichos criterios deben ajustarse a las características particulares de cada tipo de exposición.
+
+Puede haber circunstancias en las que un banco no cumpla completamente con todos los requisitos mínimos. Cuando este sea el caso, el banco deberá generar un plan para un retorno oportuno al cumplimiento y buscar la aprobación de la Comisión, o demostrar que el efecto de dicho incumplimiento es irrelevante en términos del riesgo que representa para la institución. Si no se produce un plan aceptable, no se implementa satisfactoriamente el plan o no se demuestra la inmaterialidad del incumplimiento, la Comisión podrá reconsiderar la admisibilidad del banco para el uso del enfoque de MI. Además, por el plazo de duración de cualquier incumplimiento, la Comisión evaluará la necesidad de que el banco constituya capital adicional bajo el pilar 2 o tome otras medidas supervisoras apropiadas.
+
+Los bancos deben clasificar sus exposiciones a las clasificaciones individuales, establecidas en el Capítulo B-1 del CNC, demostrando que su proceso de asignación sigue criterios prudenciales y razonables, de acuerdo con los siguientes requisitos.
+
+i. A cada deudor y todos los garantes reconocidos, se les debe asignar una clasificación individual de riesgo desde el proceso de aprobación del préstamo, tras una evaluación individual del deudor, mediante políticas que han sido revisadas por la Comisión. Las políticas deben contemplar con detalle, el proceso para asegurar la correcta identificación del riesgo de una entidad a la que el banco está expuesto.
+
+ii. La definición de incumplimiento corresponde a la establecida en el Capítulo B-1 del CNC.
+
+iii. Existe una estimación de riesgo coherente y adecuada para cada una de las puntuaciones dentro de las escalas de riesgos. Las metodologías de calificación muestran confiabilidad y robustez en términos de discriminación de riesgo y son sometidos, al menos dos veces al año, a pruebas de validación, estabilidad, poder discriminante y backtesting.
+
+iv. Los deudores y las operaciones deben tener sus clasificaciones actualizadas con una periodicidad al menos anual. Ciertas exposiciones, especialmente los de mayor riesgo o las exposiciones problemáticas, deben estar sujetos a revisiones más frecuentes. Además, los bancos deben iniciar una nueva calificación si surge o conocen información importante sobre el deudor o la operación.
+
+v. Se deben generar asignaciones de calificación de riesgo basadas en criterios cuantitativos, razonables y verificables por la Comisión.
+
+vi. Se deben mantener procedimientos sistematizados para el cálculo de los parámetros M, PDI y EAI, de acuerdo con los criterios establecidos en este Capítulo. En el caso en que el banco haya adoptado algún criterio para su cálculo, deberá documentarlo.
+
+### IV. Requerimientos operativos de las MI
+
+Para la utilización de MI, los bancos deberán cumplir con las siguientes exigencias operativas:
+
+a) Contar con áreas o funciones independientes y especializadas que permitan realizar las actividades de desarrollo, validación y seguimiento de las MI, asegurando una adecuada segregación funcional y de responsabilidades. Asimismo, mantener comités que velen por el cumplimiento de los lineamientos aprobados por el Directorio, en todos los aspectos que conciernen a las metodologías. En términos específicos, deberá estar documentado el rol de las siguientes funciones, considerando aspectos como los siguientes:
+
+i. La función de diseño y desarrollo estará a cargo de confeccionar y recalibrar las metodologías internas. La subcontratación de servicios externos para esta etapa no exime a la institución financiera de la total responsabilidad por las metodologías confeccionadas. Será el Directorio, en un acuerdo formal, quien deberá aprobar las definiciones de ámbito, perímetro y funciones, tanto de los prestadores de servicios como de la institución, asegurando la debida transferencia de conocimiento para una acabada comprensión de la estructura y funcionamiento de todos los aspectos técnicos que resulten de las prestaciones de servicios externalizadas.
+
+ii. El ámbito de la función de seguimiento, como mínimo, abarca las siguientes actividades:
+
+(a) Evaluación periódica, y al menos trimestral, del desempeño de las metodologías internas y sus componentes. Esto implica a su vez el análisis detallado de las eventuales deficiencias que pudiesen presentar las MI.
+
+(b) Reportes periódicos de los resultados a las distintas instancias involucradas.
+
+iii. La función de validación certifica la calidad de los datos, previo al desarrollo de las metodologías internas y en las etapas posteriores de implementación y seguimiento. Dicha certificación debe incluir al menos, para cada base de datos empleada, la existencia de un conjunto de procedimientos de control y de evaluación de la calidad de la información, conteniendo criterios y planes de acción para su rectificación en casos de deficiencias o ausencia de datos. Asimismo, es parte de sus responsabilidades, la certificación de las metodologías internas en las mencionadas etapas, velando por su confiabilidad, la observancia de las normas de este Capítulo y todas las condiciones que se establecen en el presente numeral.
+
+b) La institución cuenta con un entorno tecnológico cuyas plataformas, interfaces, sistemas y aplicaciones, disponen de adecuados controles que aseguran la continuidad y confiabilidad de los procesos que soportan las metodologías internas, encontrándose todo eso debidamente documentado y evaluado por un área independiente.
+
+c) La entidad mantiene respaldo de la totalidad de la información histórica y de las variables utilizadas en la construcción, validación y seguimiento del desempeño de sus metodologías internas de riesgo de crédito, de manera que sea posible para cualquier contraparte replicar íntegramente las metodologías desarrolladas.
+
+d) Las metodologías cuentan con toda la documentación técnica de respaldo, debidamente detallada e inteligible, que contiene la totalidad de los análisis realizados y las decisiones adoptadas. Adicionalmente, se dispone de manuales de usuario o de procedimientos para cada unidad organizacional que desempeña funciones relacionadas con las metodologías internas.
+
+e) Cuando el banco permita ajustar los resultados de los MI, excluir variables o alterar las entradas, en adelante juicio experto, el banco deberá contar con un documento que establezca claramente las situaciones, procedimientos y responsabilidades. Adicionalmente, el banco deberá llevar un registro detallado de los casos en los que se ha aplicado el juicio experto, monitoreando por separado su desempeño respecto a los resultados entregados por el modelo.
+
+f) Los bancos deben contar con procesos sólidos de pruebas de tensión para su uso en la evaluación de la suficiencia de capital. Las pruebas de tensión deben incluir la identificación de posibles eventos o cambios futuros en las condiciones económicas que podrían tener efectos desfavorables en las exposiciones crediticias de un banco y la evaluación de la capacidad del banco para soportar dichos cambios, además de otros escenarios que esta Comisión podría señalar.
+
+g) La auditoría interna o una función igualmente independiente debe revisar al menos una vez al año el sistema de calificación interno del banco, para determinación de la PI y el cómputo de capital a través de MI. Las temáticas de revisión deben incluir el cumplimiento de todos los requisitos mínimos aplicables. Estas revisiones y sus hallazgos deberán encontrarse debidamente documentadas.
+
+### V. Presentación y contenido de solicitudes
+
+La entidad podrá presentar a esta Comisión una solicitud de aprobación para algunas o todos los tipos de exposiciones. Cuando el banco tenga filiales en el exterior, deberá solicitar inicialmente aprobación en el banco matriz. Posterior a la aprobación en el banco matriz, podrá solicitar a esta Comisión la utilización de MI para las exposiciones que enfrentan sus filiales en exterior.
+
+El rechazo de una solicitud estará basado en incumplimientos de los requisitos establecidos en la presente norma que la Comisión considere significativos.
+
+El banco deberá enviar la solicitud en una carta dirigida al presidente de la Comisión, firmada por el Gerente General, además de un documento que contenga toda la información solicitada en Anexo N°3, a través de un dispositivo de almacenamiento masivo. La entidad deberá designar una contraparte técnica cuyos datos de contactos se incluirán en la carta antes mencionada.
+
+La verificación de cumplimiento de los requisitos y documentación allí solicitada deberá estar certificada por la función de validación y aprobada por el Directorio.
+
+### VI. Revisiones de la Comisión
+
+El uso de las MI que se presenten a esta Comisión dependerá del adecuado cumplimiento de los requisitos referidos en los numerales II, III y IV del presente numeral. Por lo tanto, si este este Organismo no tiene objeciones que formular al respecto, la entidad podrá comenzar a utilizar las metodologías aprobadas desde el momento en que sea notificada formalmente de esa situación.
+
+Este Organismo efectuará un seguimiento de las MI de riesgo de crédito, verificando su alineación con los requisitos establecidos en los puntos II, III y IV del presente numeral.
+
+Junto con determinar los APRC mediante las MI, la entidad deberá efectuar, al menos trimestralmente, los análisis indicados en la letra f) del punto II de este numeral. Adicionalmente, en caso de que durante las revisiones de seguimiento efectuadas por la propia institución se observe cualquier incumplimiento de los requisitos establecidos en estas normas, tendrá la obligación de informar oportunamente a la Comisión, mediante carta dirigida al presidente de la Comisión, detallando los hechos.
+
+En el caso de incumplimiento de cualquiera de los requisitos establecidos en las letras a) y b) del punto II de este numeral, el banco deberá computar los APRC mediante los ME, teniendo en consideración lo establecido en el número 3 anterior y disponiendo de un plazo de hasta tres meses para estos efectos. Se procederá de igual forma, si los resultados de las evaluaciones efectuadas por la propia institución o la Comisión comprometen la confiabilidad de las MI y la suficiencia de los niveles de APRC.
+
+### 7. Piso mínimo para la determinación de los activos ponderados por riesgo
+
+Para la medición de los límites reglamentarios referidos en la LGB, los bancos deberán determinar los activos ponderados por riesgo a nivel consolidado, a menos que la LGB indique lo contrario. Para el cumplimiento de los límites establecidos en el artículo 66, 66 bis y 66 ter, los APR deberán medirse a nivel consolidado y consolidado local, según lo dispuesto en el numeral anterior.
+
+Para la determinación de los activos ponderados por riesgo, se debe considerar la suma de los siguientes montos:
+
+i) Activos ponderados por riesgo de crédito, de acuerdo con lo establecido en este Capítulo.
+
+ii) Activos ponderados por riesgo de mercado, de acuerdo con lo establecido en el Capítulo 21-7 de esta Recopilación.
+
+iii) Activos ponderados por riesgo operacional, de acuerdo con lo establecido en el Capítulo 21-8 de esta Recopilación.
+
+Cuando en i) se utilicen metodologías internas, de acuerdo con las disposiciones establecidas en el numeral 4 de este Capítulo, para la determinación de los activos ponderados por riesgo, se debe considerar un piso mínimo de 72,5% del total que se hubiese obtenido con las metodologías estándar definidas por esta Comisión.
+
+En la determinación de los activos ponderados por riesgo, se excluirán todos aquellos activos deducidos en los ajustes regulatorios indicados entre los numerales 2 y 5 del Título III del Capítulo 21-1 de esta Recopilación.
+
+### 8. Disposiciones transitorias
+
+A partir del 1 de diciembre de 2021, los activos ponderados por riesgo de crédito deberán ser calculados mediante los lineamientos establecidos en los numerales anteriores. Hasta esa fecha, el banco deberá calcularlos mediante las disposiciones establecidas en el título II del Capítulo 12-1 de esta Recopilación.
+
+Sin perjuicio de lo anterior, hasta el 30 de noviembre de 2021, las compras con pacto de retroventa de instrumentos emitidos por el Banco Central de Chile se incluirán en la categoría 1, las compras con pacto de retroventa de instrumentos emitidos por la Tesorería General de la República en categoría 2 y las compras con pacto de retroventa de instrumentos emitidos por las empresas bancarias establecidas en el país en categoría 3, en conformidad a las reglas señaladas en el título II del Capítulo 12-1 de esta Recopilación.
+
+ANEXO N° 1 CLASIFICACIONES EXTERNAS
+
+Para las contrapartes en que se requiera considerar la clasificación externa, y que estén en la cartera normal o subestándar, de acuerdo con los criterios establecidos en el Capítulo B-1 del CNC, deberá asignarse una clasificación de riesgo de acuerdo con la siguiente tabla de homologación:
+
+.
+
+Para exposiciones específicas de corto plazo, con exposiciones interbancarias, con Cooperativas de Ahorro y Crédito supervisadas por esta Comisión (numeral 3.4 de este Capítulo) o exposiciones corporativas (numeral 3.7), se deberá asignar un PRC mediante la siguiente tabla de homologación:
+
+.
+
+No obstante, el banco podrá revisar la clasificación externa de la empresa calificadora internacional que figure en la nómina incluida en el Capítulo 1-12 de esta Recopilación, de acuerdo con criterios conservadores establecidos en sus políticas internas, según los factores de revisión establecidos en el Capítulo B-1 del CNC.
+
+Cuando haya dos o más calificaciones externas, y se encuentren asociadas a categorías diferentes, se considerará la de menor clasificación.
+
+Deberá distinguirse entre la calificación en moneda extranjera o local, consistentemente con la moneda de emisión. En caso de que la emisión asociada a la exposición no esté clasificada por alguna de las agencias mencionadas, se deberá considerar la vinculada a la solvencia de la contraparte.
+
+ANEXO N° 2
+
+CRITERIOS STC PARA SECURITIZACIONES
+
+Uno de los riesgos de utilizar securitizaciones se relaciona con lo complejo y poco transparente que pueden llegar a ser estas estructuras, lo que dificulta su valoración. Es dentro de este contexto que se han desarrollado criterios STC, lo que permite reconocer un menor riesgo de crédito y, por lo tanto, un menor PRC, siempre y cuando el banco pueda justificar el cumplimiento de dichos criterios ante la Comisión.
+
+i. Criterio asociado al riesgo de los activos
+
+Se relaciona con los riesgos asociados a los activos subyacentes, desde la morosidad e incumplimiento del pago, hasta problemas que puedan existir en la exigibilidad legal. Este criterio se puede desagregar en los siguientes puntos:
+
+. Naturaleza de los activos: los activos deben ser homogéneos en términos de su tipo, jurisdicción, sistema legal vigente y moneda.
+
+. Información histórica de los activos: La información de morosidad e incumplimiento de los activos subyacentes requiere de al menos 7 años de datos para exposiciones mayoristas, y 5 años para exposiciones minoristas.
+
+. Estado de pagos: Al momento de la securitización, los activos subyacentes no pueden estar en mora ni existir un aumento sustancial de las pérdidas esperadas o acciones de ejecución.
+
+. Consistencia en las emisiones: Las normas de emisión debiesen ser las mismas para distintos procesos de securitización a través del tiempo. Cuando dichas normas cambien, el originador debe revelar el momento y el propósito de dichos cambios. Las normas de suscripción no deben ser menos estrictas que las que se aplican a los créditos y las cuentas por cobrar retenidos en el balance. Estos criterios se establecen de manera de facilitar el análisis del inversionista.
+
+. Selección de activos y transferencia: Los créditos o las cuentas por cobrar transferidos a una securitización estarán sujetos a criterios definidos, como, por ejemplo, el tamaño de la obligación, la razón entre el préstamo y el valor de la garantía, el nivel de la deuda con respecto al nivel del ingreso del deudor, etc. El rendimiento de la securitización no deberá basarse en una selección continua de activos por medio de una gestión discrecional de las carteras de activos subyacentes de la securitización. Los inversionistas deben poder ser capaces de evaluar los riesgos de créditos del pool de activos antes de invertir. Además, las securitizaciones deberán cumplir con los siguientes criterios: (a) que sean exigibles frente al deudor incluyendo las representaciones y las garantías de la securitización, (b) que tras un incumplimiento del emisor, el tenedor del instrumento pueda recuperar parte de su exposición a través de la venta de los subyacentes, (c) que no se realicen por medio de derivados o garantías, sino que por medio de transferencias de los créditos o cuentas por cobrar a la securitización, y (d) deberán demostrar que los flujos de cajas de los activos subyacentes no corresponden a una securitización de una securitización.
+
+. Datos: Para facilitar el análisis de los inversionistas, deben estar disponibles suficientes datos a nivel de cada subyacente y datos resumidos sobre las características de riesgo relevantes. Además, se debe proporcionar información para que los inversionistas puedan realizar un monitoreo apropiado y continuo del desempeño de sus inversiones, en caso de que quieran adquirir estos instrumentos en el mercado secundario.
+
+ii. Criterio asociado al riesgo estructural
+
+Este criterio busca minimizar los riesgos que surgen del proceso de estructuración de la securitización, asociado a la cobertura del riesgo de tasas de interés y crédito. Específicamente, se exige que exista plena transparencia sobre el orden de prelación de cada tramo de la securitización. Para ello se deberán cumplir los puntos que se detallan a continuación:
+
+. Flujos de caja de rescate: Para garantizar que los créditos o cuentas por cobrar subyacentes no necesitan refinanciarse en un corto periodo de tiempo, su pago no deberá depender de la venta o refinanciamiento de los subyacentes, a menos que el banco pueda demostrar que el pool de créditos subyacentes esté lo suficientemente desagregado y que tenga perfiles de pago suficientemente diversificados.
+
+. Descalces de tasas y monedas en activos y pasivos: Los descalces de tasas y de divisas deben ser mitigados de forma apropiada. Se deberá demostrar a los inversionistas, durante toda la vida del bono securitizado, la efectividad de las coberturas. Solo se permitirá el uso de derivados para coberturas de descalces de moneda y de tasas.
+
+. Prioridades de pago y observabilidad: Para prevenir que los inversionistas no estén sujetos a reembolsos inesperados, las prioridades de pago, para todas las obligaciones y en todas las circunstancias, deben estar definidas y tener el respaldo jurídico necesario con respecto a su exigibilidad.
+
+. Derecho a voto y cumplimiento: Los derechos de los inversionistas en la securitización deberán definirse claramente para todas las circunstancias, incluyendo los derechos de los titulares de los tramos senior versus los de los tramos junior.
+
+. Divulgación de la documentación y revisión legal: La información deberá estar a disposición de los inversionistas de forma continua dentro de un periodo de tiempo razonable y previo a la fijación del precio, o cuando sea legalmente permitido, de modo que el inversionista reciba la información completa, tanto legal y comercial, junto con la de los factores de riesgo necesarios para una toma de decisiones informada. Con la finalidad de asegurar que la documentación de la securitización haya sido sometida a una revisión legal adecuada antes de la publicación, esta deberá ser revisada por un tercero con la experiencia suficiente. Los inversionistas deberán ser informados de forma oportuna ante cualquier cambio de los documentos que tengan impacto en los riesgos estructurales de la securitización.
+
+. Alineación de incentivos: Con la finalidad de alinear los incentivos, el originador de los créditos, o cuentas por cobrar, deberá mantener una exposición económica neta significativa, para demostrar un incentivo financiero en el buen desempeño de los activos subyacentes.
+
+iii. Criterio asociado al riesgo fiduciario y de administración
+
+Este riesgo deberá ser minimizado a través de los siguientes puntos:
+
+. Responsabilidades fiduciarias y contractuales: Los administradores a cargo de la mantención de los créditos o cuentas por cobrar deberán ser capaces de demostrar que cuentan con una amplia experiencia. El administrador deberá actuar en todo momento con estándares razonables y prudentes. Las políticas, así como los procedimientos y los controles de gestión de riesgo deberán estar bien documentados y cumplir con las mejores prácticas de mercado junto con los reglamentos pertinentes. Deberán existir sistemas robustos y fuertes capacidades de reporte. Los agentes con responsabilidad fiduciaria deberán actuar velando por los intereses de los tenedores de la securitización, además estos deberán demostrar que tienen las habilidades y recursos suficientes para los cumplimientos de sus deberes. Por último, los incentivos económicos integrados en sus remuneraciones deben estar alineado con el cumplimiento de sus responsabilidades de forma oportuna y completa.
+
+. Transparencia: Las obligaciones contractuales, deberes y responsabilidades de todas las partes claves de la securitización, deberán estar definidas de forma clara. En la búsqueda de transparencia, los informes de desempeño dirigidos a los inversionistas deberán distinguir entre ingresos y desembolsos de la securitización, como por ejemplo el capital programado, el capital de rescate, intereses programados, capital de prepago, intereses vencidos, cargos y honorarios, montos morosos, incumplidos y reestructurados, considerando una contabilidad precisa de los montos.
+
+iv. Criterios adicionales para propósitos de capital
+
+. Riesgo de crédito de las exposiciones subyacentes: Las exposiciones subyacentes, siguiendo las condiciones establecidas en el método estándar de riesgo de crédito, deberán tener un PRC promedio ponderado menor o igual:
+
+. 40% a nivel de pool de activos subyacentes, cuando correspondan a préstamos garantizados con hipotecas residenciales o préstamos residenciales totalmente garantizados;
+
+. 50% a nivel de activo subyacente individual, cuando la exposición corresponda a un préstamo garantizado por una hipoteca comercial.
+
+. 75% a nivel de activo subyacente individual, cuando la exposición corresponda a minoristas.
+
+. 100% a nivel de activo subyacente individual, para cualquier otro tipo de exposición.
+
+ANEXO N° 3
+
+REQUERIMIENTOS DE INFORMACIÓN PARA LA SOLICITUD DE EVALUACIÓN DE METODOLOGÍAS INTERNAS DE RIESGO DE CRÉDITO
+
+1 Antecedentes Generales
+
+1.1 Aspectos de governance de las metodologías internas. Esto considera lo siguiente:
+
+a) Estatuto correspondiente a los comités relacionados con las metodologías internas, sus integrantes y las actas que den cuenta de la toma de decisiones de todo el proceso respecto de los requerimientos del numeral 6.
+
+b) Manual de políticas en el que se detallen los lineamientos mencionados de desarrollo, validación, implementación, seguimiento e integración a la gestión de las MI.
+
+c) Actas de las sesiones de Directorio que den cuenta de la aprobación de los estatutos y lineamientos mencionados en los puntos
+
+- **a)** y
+
+- **b)** anteriores, incluyendo aquella referida en punto II letra
+
+- **c)** del número 6.
+
+1.2 Descripción detallada de la estructura organizacional, de las actividades y responsabilidades del Directorio, alta administración, comités y unidades funcionales que se encuentran relacionadas con las MI, incluyendo la cantidad de integrantes involucrados.
+
+1.3 Descripción de las MI que son objeto de solicitud y los criterios utilizados para la segmentación. Incluir los montos de exposiciones, provisiones, cantidad de deudores y riesgo, asociados a cada metodología y segmento, para los 2 años en que estas han estado integradas a la gestión.
+
+1.4 Documento que detalle la integración de las metodologías en la gestión de riesgo de crédito de la entidad, considerando los objetivos, alcance, funciones, métodos y componentes implementados.
+
+2 Antecedentes de las metodologías internas
+
+2.1 Entorno tecnológico
+
+a) Documento que describa el entorno tecnológico, sus sistemas fuentes (admisión, gestión, seguimiento, etc.) y los procesos dedicados a extraer la información requerida desde dichos sistemas, junto con los controles asociados a este.
+
+b) Informe de evaluación de un área técnica independiente, de los requerimientos descritos en el apartado IV letra b), del número 6.
+
+2.2 Diseño de metodologías: Documento técnico que describa en forma detallada, todo el proceso de confección de las metodologías, incluyendo el sustento de cada criterio, procedimiento y decisiones adoptadas. Dicho documento al menos debe contener la siguiente información según sea aplicable:
+
+i. Clasificación: Para cada asignación a clasificaciones individuales, se deben describir los criterios objetivos que la definen. Además, se debe mencionar los procedimientos que se utilizan para la asignación de las exposiciones, además de mostrar de forma detallada el cumplimiento de los requerimientos del número 6 punto III.
+
+ii. Variables empleadas: De acuerdo con la clasificación individual que se utilice, detallar cada una de las variables consideradas para su asignación; los criterios utilizados para la elección de esas variables; su definición y nomenclatura; escala de medición; codificación y su estratificación; análisis descriptivo y exploratorio de datos realizado a dichas variables, sus resultados razonados y las acciones tomadas a partir de este análisis.
+
+iii. Sistema de información: Se debe describir los mecanismos tecnológicos que apoyaran la adecuada gestión de los datos.
+
+iv. Determinación de otros parámetros: Se debe detallar el procedimiento sistematizado por el cual el banco efectúa el cálculo de los parámetros M, PDI y EAI, de acuerdo con lo señalado por la Comisión.
+
+Además, se deberán incluir los antecedentes del Anexo 2 del Capítulo B-1, numeral 2.2 asociados a exposiciones minoristas, excluyendo el literal v), y el segundo ítem asociado al literal vi).
+
+2.3 Aplicación y seguimiento de metodologías
+
+a) Manual en el que se detalle el procedimiento de cálculo y los criterios utilizados en la aplicación mensual de la metodología interna.
+
+b) Manual en que se detalle el procedimiento de cálculo de los procesos de seguimiento del desempeño de las metodologías internas, sus segmentaciones y componentes de riesgo; así como la suficiencia de capital.
+
+c) Informes evolutivos de seguimiento para cada uno de los requerimientos descritos en el punto II letra f) del número 6.
+
+2.4 Bases de Datos: Bases de datos y diccionario de variables que contengan, para cada metodología la totalidad de información empleada, de manera que permita efectuar íntegramente la réplica de su construcción y funcionamiento.
+
+a) Asignación de PI: Base de datos con el detalle a nivel de RUT: sistema de calificación interna y su calificación; totalidad de las variables objetivas consideradas en el análisis, tipo de deudor, tipo de exposición y la clasificación individual asignada.
+
+b) Asignación de PDI: Base de datos con el detalle a nivel de RUT, garantía y exposiciones caucionadas por la garantía (se pueden repetir los registros si más de una garantía cauciona una misma exposición): exposición de acuerdo con el número 2 de este Capítulo; valor de la garantía y su tipo, haircut correspondiente y su tipo (moneda o asociado a la garantía), exposición garantizada, exposición no garantizada y valor resultante de PDI.
+
+c) Asignación de M: Base de datos con el detalle a nivel de RUT y operación: exposición de acuerdo con el número 2 de este Capítulo; tipo de exposición, vencimiento residual, madurez efectiva de acuerdo con lo definido en el número 4.2.1 de este Capítulo, con y sin redondeo a 1 y 5 años.
+
+d) Cálculo de Requerimiento de Capital: Base de datos con el detalle a nivel de RUT y operación: tipo de deudor, tipo de exposición, exposición total de acuerdo con el número 2 de este Capítulo; madurez efectiva de acuerdo con lo definido en el número 4.2 de este Capítulo, PDI asignada de acuerdo con el número 4.3, PI de acuerdo con el número 4.1, correlación y capital requerido de acuerdo con el número 3.
+
+e) Diccionario de variables para las bases de datos solicitadas en los literales anteriores, en el que se describa la nomenclatura de los campos, junto con la codificación y definición de cada una de sus categorías.
+
+Además, se deberán incluir los antecedentes del Anexo 2 del Capítulo B-1, numeral 2.5 asociados a exposiciones minoristas, aplicables a PI.
+
+3 Informe emitido por la función de validación, que den cuenta de las revisiones efectuadas por esta a las metodologías internas presentadas a evaluación, de acuerdo con lo señalado en el punto IV letra a) del número 6.
+
+4 Informe que se refiere a la integración de las metodologías internas en la gestión diaria de los riesgos (test de uso), conforme con lo señalado en el punto II letra d) del número 6.
+
+ANEXO N° 4 CRÉDITOS CONTINGENTES
+
+### 1. Créditos contingentes
+
+Para efecto de la presente norma, se entenderán como créditos contingentes las operaciones o compromisos en que el banco asume un riesgo de crédito al obligarse ante terceros, frente a la ocurrencia de un hecho futuro, a efectuar un pago o desembolso que deberá ser recuperado de sus clientes.
+
+2 Tipos de créditos contingentes
+
+Según el tipo de compromiso que el banco asume, los distintos tipos de créditos contingentes que se consideran para estas normas son los siguientes:
+
+### 1. Líneas de crédito de libre disposición
+
+Considera los montos no utilizados de líneas de crédito que permiten a los clientes hacer uso del crédito sin decisiones previas por parte del banco (por ejemplo, con el uso de tarjetas de crédito o sobregiros pactados en cuentas corrientes).
+
+### 2. Líneas de crédito de libre disposición de cancelación inmediata
+
+Se considera aquellas líneas de crédito de libre disposición, definidas en el numeral anterior, que el banco pueda cancelar incondicionalmente en cualquier momento y sin previo aviso, o para los que se contemple su cancelación automática en caso de deterioro de la solvencia del deudor, de acuerdo lo permita el marco jurídico vigente y las condiciones contractuales establecidas entre las partes.
+
+### 3. Créditos contingentes vinculados al CAE
+
+Se considera aquellos compromisos crediticios otorgados de acuerdo con la Ley N° 20.027 (CAE).
+
+### 4. Cartas de crédito de operaciones de circulación de mercancías
+
+Se consideran los compromisos que surgen, tanto al banco emisor como al banco confirmante, de cartas de crédito comercial autoliquidables con un periodo de vencimiento inferior a 1 año, procedentes de operaciones de circulación de mercancías (por ejemplo, las cartas de crédito documentarias o del exterior confirmadas). Incluye las cartas de créditos documentarias emitidas por el banco, que aún no han sido negociadas.
+
+### 5. Compromisos de compra de deuda en moneda local en el exterior
+
+Se consideran las líneas de emisión de pagarés (NIF por sus siglas en inglés) y las líneas autorrenovables de colocación de emisiones (RUF por sus siglas en inglés).
+
+### 6. Transacciones relacionadas con eventos contingentes
+
+Se consideran las boletas de garantía enteradas con pagaré a que se refiere el Capítulo 8-11 de la Recopilación Actualizada de Normas.
+
+### 7. Avales y fianzas
+
+Comprende los avales, fianzas y cartas de crédito stand by a que se refiere el Capítulo 8-10 de la Recopilación Actualizada de Normas. Además, comprende las garantías de pago de los compradores en operaciones de factoraje, según lo indicado en el Capítulo 8-38 de esa Recopilación.
+
+### 8. Otros compromisos de crédito
+
+Comprende los montos no colocados de créditos comprometidos, que deben ser desembolsados en una fecha futura acordada o cursados al ocurrir los hechos previstos contractualmente con el cliente, como ocurre en el caso de líneas de crédito irrevocables vinculadas al estado de avance de proyectos (en que para efectos de provisiones debe considerarse tanto la exposición bruta a que se refiere el N° 3 como los incrementos futuros del monto de las garantías asociadas a los desembolsos comprometidos).
+
+### 9. Otros créditos contingentes
+
+Incluye cualquier otro tipo de compromiso del banco que pudiere existir y que puede dar origen a un crédito efectivo al producirse ciertos hechos futuros. En general, comprende operaciones infrecuentes tales como la entrega en prenda de instrumentos del banco para garantizar el pago de operaciones de crédito entre terceros u operaciones con derivados contratados por cuenta de terceros que pueden implicar una obligación de pago y no se encuentran cubiertos con depósitos.
+
+Para calcular las exposiciones contingentes, se debe considerar el equivalente al porcentaje de los montos de los créditos contingentes que se indica a continuación:
+
+.
+
+No obstante, cuando se trate de operaciones efectuadas con clientes que tengan cré- ditos en incumplimiento según lo indicado en el Capítulo B-1, dicha exposición será siempre equivalente al 100% de sus créditos contingentes.
+
+ANEXO N° 5
+
+ESTIMACIÓN DE PÉRDIDA DADO EL INCUMPLIMIENTO
+
+Se asignará una pérdida dado el incumplimiento de 75% a los créditos que no estén caucionados por una garantía real elegible. Para efectos de este Anexo, se considera una garantía real elegible como aquella que esté legalmente constituida y mientras se cumplan todas las condiciones que permitan su eventual ejecución o liquidación en favor del banco acreedor.
+
+.
+
+## Capítulo 21-7
+
+DETERMINACIÓN DE LOS ACTIVOS PONDERADOS POR RIESGO DE MERCADO
+
+### 1. Consideraciones generales
+
+Conforme a lo dispuesto en el inciso primero del artículo 67 de la Ley General de Bancos (en adelante LGB), el presente Capítulo establece la metodología estandarizada que las empresas bancarias deben considerar para determinar el cómputo de activos ponderados por riesgo de mercado (en adelante APRM). Dicha metodología de cálculo, que se describe en el numeral 3, aplica a todas las exposiciones definidas en el numeral 2 de este Capítulo, tanto a nivel consolidado y consolidado local, en este último nivel no se considera a las filiales en el extranjero.
+
+La adhesión a los lineamientos dispuestos en esta norma será parte de la evaluación de gestión que realiza este Organismo a los bancos en el ámbito de los riesgos de mercado, el cual se aborda en la letra b) del numeral 3.2 del Título II del Capítulo 1-13 de la Recopilación Actualizada de Normas (en adelante RAN).
+
+### 2. Ámbito de aplicación y definiciones
+
+El cómputo de los APRM aplica sobre los instrumentos financieros clasificados en el libro de negociación. Tiene una componente general de mercado, asociada a los movimientos de tasas de interés de referencia, monedas extranjeras, materias primas y cotizaciones bursátiles; y una componente específica, asociada a aspectos idiosincráticos del emisor, tales como, spread de crédito e incumplimiento. Adicionalmente, se considera el riesgo de moneda extranjera y materias primas para las posiciones del libro de banca. El riesgo de tasa del libro de banca debe medirse de acuerdo con lo indicado en el Capítulo 21- 13 de la RAN.
+
+2.1 Criterios de asignación al libro de negociación
+
+El libro de negociación comprende todas las posiciones, tanto activas como pasivas, computadas a valor de mercado. Las metodologías de valorización deben quedar claramente estipulados dentro de las políticas de gestión del riesgo de mercado conforme a lo señalado en el Capítulo 1-13 de la RAN.
+
+Las posiciones en el libro de negociación deben mantenerse sin restricciones para su venta o cubiertas completamente y cuyos riesgos deben ser gestionados activamente. Además, las posiciones anteriores deberán cumplir con alguno de los siguientes propósitos: venta de corto plazo, obtención de beneficios por movimientos de precio en el corto plazo, obtención de beneficios por arbitraje o instrumentos que cubran las posiciones anteriores.
+
+Los siguientes instrumentos deben ser clasificados en el libro de negociación, salvo que el banco justifique lo contrario de acuerdo con las políticas internas que tenga para estos efectos, en base a los criterios establecidos en el primer párrafo de este numeral.
+
+i) Instrumentos calificados contablemente como de negociación
+
+ii) Instrumentos que resulten de actividades de market-making
+
+iii) Inversiones en fondos donde: (a) es posible identificar todos los subyacentes y la información del fondo y sus constituyentes es auditada por una empresa externa, al menos anualmente, o (b) es posible obtener cotizaciones diarias del fondo y el banco maneja la información de su reglamento.
+
+iv) Acciones cotizadas en bolsa.
+
+v) Contrato de suscripción de acciones, bonos u otro tipo de instrumento que el banco suscriptor esté obligado a comprar.
+
+i) Securitizaciones en las que sus subyacentes sean identificables y exista un mercado secundario líquido.
+
+Para los instrumentos calificados en el libro de negociación, que, además, se hayan comprometido en una operación de pacto de compra o simultánea de financiamiento, el banco deberá seguir computando el riesgo de mercado asociado al instrumento negociado. Complementariamente, pactos de venta o simultaneas de financiación, no deberán considerar el riesgo de mercado del título recibido salvo que este sea vendido con el objetivo de recomprarlo antes del vencimiento de la operación de financiación.
+
+2.2 Criterios de asignación al libro de banca
+
+Cualquier instrumento que no satisfaga ninguno de los propósitos listados para calificar en el libro de negociación, debe ser asignado al libro de banca. Los siguientes instrumentos deben ser clasificados en el libro de banca, salvo que el banco justifique lo contrario de acuerdo con sus políticas internas que tenga para estos efectos, en base a los criterios establecidos en el primer párrafo del numeral 2.1.
+
+i) Acciones no cotizadas en bolsa.
+
+ii) Exposiciones minoristas, de acuerdo con la definición del Capítulo 21-6 de la RAN.
+
+iii) Inversiones en fondos no clasificados en el libro de negociación.
+
+iv) Instrumentos derivados y fondos que tengan como subyacente cualquiera de los instrumentos anteriores.
+
+v) Derivados implícitos de tasa de interés incrustados en activos o pasivos del libro de banca.
+
+vi) Instrumentos que cubran las posiciones anteriores.
+
+Las posiciones en el libro de banca en moneda extranjera o materias primas deben ser incluidas en la determinación de los APRM, por lo tanto, para efectos de esta estimación, son tratadas como si estuviesen mantenidas en el libro de negociación.
+
+2.3 Políticas de asignación
+
+El banco debe establecer políticas y procedimientos de asignación a cada uno de los libros, asegurándose que éstas cumplan con los criterios indicados en los numerales 2.1 y 2.2 anteriores. Estas políticas deben estar insertas en la "Política de Administración de Riesgo de Mercado", conforme lo indica el Anexo 2 del Capítulo 1-13 de la RAN y deben ser auditadas internamente al menos una vez al año.
+
+Con respecto a la reasignación de instrumentos entre libros, se espera que estas respondan a circunstancias excepcionales, y que sus condiciones queden establecidas en las políticas de gestión de riesgo de mercado. Además, cualquier reasignación se debe registrar e informar al Directorio de la institución o a quién haga sus veces, a través de reportes periódicos, conforme a lo estipulado en el Capítulo 1-13 de la RAN. Sin excepción, cualquier reducción en el cargo de capital total, considerando tanto el libro de banca como el de negociación, como resultado del traspaso de instrumentos entre libros, deberá ser computada como un cargo adicional, equivalente a la reducción, el que se mantendrá hasta que la exposición que origina el cargo sea dada de baja en los estados financieros del banco.
+
+2.4 Transferencias de riesgo internas
+
+Una transferencia de riesgo interna (en adelante, TRI) corresponde a un registro por escrito donde queda establecida una transferencia de riesgo entre el libro de banca y negociación o entre mesas del mismo libro, ya sea negociación o banca. Para efectos de determinación de APRM solo se consideran las componentes de las TRI mantenidas en el libro de negociación, sujeto a que éstas cumplan con los criterios establecidos en este Capítulo.
+
+Cuando se cubra el riesgo de tasa de interés en el libro de banca (IRRBB, por sus siglas en inglés, determinado en el Capítulo 21-13 de la RAN) a través de una TRI, ésta debe cumplir los siguientes requisitos copulativamente: i) estar debidamente documentada, identificando la fuente del riesgo y su magnitud, ii) debe ser llevada a cabo por una mesa de negociación dedicada a este propósito y iii) para efectos del cómputo de APRM, dicha mesa debe ser tratada de forma totalmente independiente respecto a las demás mesas de negociación. Si los requerimientos anteriores se cumplen, las componentes de la TRI en el libro de negociación y banca mitigarán sus respectivas exposiciones en el cómputo de los APRM e IRRBB, respectivamente.
+
+Para efectos de la gestión del riesgo financiero, los bancos deberán observar los atributos básicos y la estructura de las mesas de negociación establecidas en el literal B), número 3.2, Título II del Capítulo 1-13 de la RAN.
+
+### 3. Modelo Estándar simplificado para el cómputo de los APRM
+
+Los APRM, bajo el modelo estándar, corresponden a la suma de los APRM obtenidos para cada una de las cuatro clases de riesgo: tasa de interés, moneda extranjera, materias primas y cotizaciones bursátiles, cuya estimación se detalla en los numerales siguientes.
+
+3.1 Riesgo de tasa de interés
+
+El riesgo de tasa de interés debe medirse para todos aquellos instrumentos del libro de negociación cuyo valor se vea afectado por la variación de las tasas de interés de mercado. Esto comprende todos los instrumentos de deuda, a tasa fija o flotante, e instrumentos que se comporten como tales, incluyendo acciones preferentes no convertibles y derivados.
+
+Se puede excluir de la estimación del riesgo de tasa de interés, tanto del riesgo general como específico, todas las posiciones cortas y largas en derivados idénticos, esto es, mismo cupón, emisor del instrumento subyacente, moneda y madurez, cuando corresponda. Se espera que los bancos indiquen los criterios de exclusión en sus políticas de gestión de riesgo de mercado y que además lleven a cabo reportes periódicos que den cuenta del volumen y características de los derivados que originan dichas exclusiones, conforme a lo estipulado en el Capítulo 1-13 de la RAN.
+
+Los APRM son calculados como la suma de dos componentes: los APRM por riesgo específico y los APRM por riesgo general.
+
+3.1.1 Riesgo específico de tasa de interés
+
+El riesgo específico de tasa de interés aplica a aquellas exposiciones que estén vinculadas a un emisor de instrumento, e incluye los riesgos de spread de crédito y de incumplimiento del emisor. Las posiciones en derivados cuyo subyacente no tenga un emisor, quedan exentas de cargo por riesgo específico. Esto incluye: futuros sobre índices de tasas de interés (por ejemplo, sobre la SOFR); futuros, forwards y swaps sobre tasas de interés y tipo de cambio.
+
+Para la medición del riesgo específico se permite la compensación entre posiciones activas y pasivas, siempre y cuando se trate de instrumentos que correspondan a la misma serie de emisión. El cargo para cada instrumento se calcula como el producto entre el ponderador de riesgo de mercado (en adelante, PRM) determinado en la siguiente tabla y la posición neta, en valor absoluto, entre posiciones activas y pasivas de una misma serie de emisión.
+
+Dentro de la categoría "Otras instituciones con grado de inversión" se considera tanto a las Empresas del Sector Público (PSE, por sus siglas en inglés), como los Bancos Multilaterales de Desarrollo.
+
+El PRM de las exposiciones en moneda local con el Estado chileno o el Banco Central de Chile (BCCh) será igual a cero. Dicho PRM será aplicable también a las exposiciones de una filial en el exterior con el soberano o banco central donde resida, siempre y cuando su respectiva regulación así lo establezca.
+
+Los APRM por riesgo específico de tasa de interés son la suma simple de los cargos para todas aquellas emisiones sujetas a riesgo específico, multiplicado por 12,5.
+
+3.1.2 Riesgo general de tasa de interés
+
+Para el cálculo del cargo por riesgo general de tasa de interés, se debe asignar el valor de mercado de cada instrumento en trece bandas temporales, considerando tanto las posiciones activas como pasivas, distinguiendo según tipo de moneda y tipo de tasa (fija o flotante). Las monedas consideradas son nacional no reajustable (CLP), nacional reajustable por UF, IVP, UTM o IPC (UR) o extranjera (MX).
+
+Los instrumentos a tasa fija se asignan a las bandas en función de su vencimiento residual, mientras que los instrumentos a tasa flotante en función del siguiente período de recálculo de la tasa.
+
+Los instrumentos derivados, exceptuando las opciones, deben ser descompuestos según sus subyacentes y asignados a las bandas temporales que correspondan. Además, se deben incluir las posiciones delta ponderadas de las opciones sobre tasas de interés, cuando corresponda, de acuerdo con lo estipulado en el numeral 3.5.
+
+El cargo por riesgo general de tasa de interés corresponde a la suma de tres componentes: la posición neta ponderada, el resultado de aplicar el ajuste vertical y el resultado de aplicar los ajustes horizontales.
+
+Tanto los PRM por moneda y banda temporal, como los factores de ajuste vertical y horizontales, se determinan de acuerdo con las siguientes tablas:
+
+Los APRM por riesgo general de tasa de interés son la suma simple de los cargos para todas aquellas emisiones sujetas a riesgo general de mercado, multiplicado por 12,5.
+
+3.2 Riesgo de moneda extranjera
+
+Para el cálculo del cargo por riesgo de moneda extranjera, se deben considerar las posiciones netas en monedas en todo el balance, incluyendo el oro. La posición neta en cada moneda debe calcularse sumando:
+
+### 1. La posición neta efectiva o spot
+
+2. La posición neta en derivados, que incluye todos los montos a recibir menos todos los montos a pagar, excepto aquellas asociadas a opciones.
+
+### 3. Garantías en moneda extranjera
+
+4. Cualquier otra posición del balance que pueda generar ganancias o pérdidas en monedas extranjeras; y
+
+5. La posición delta ponderada neta para el total de posiciones en opciones en monedas extranjeras, cuando corresponda, de acuerdo con lo estipulado en el numeral 3.5.
+
+El banco puede excluir del cálculo del cargo por riesgo de moneda extranjera aquellas posiciones estructurales, de acuerdo con las políticas internas de gestión de riesgo que tenga para estos efectos. Las posiciones estructurales son aquellas que cumplen las siguientes condiciones:
+
+i. Son mantenidas con el propósito de cubrir, parcial o totalmente, el efecto adverso sobre la razón entre capital básico y activos ponderados por riesgo netos de provisiones, que podrían ser causados por depreciación de la moneda local.
+
+ii. Las posiciones no se negocian activamente y derivan de inversiones en sociedades de apoyo al giro, filiales o sucursales, denominadas en moneda extranjera.
+
+El banco deberá contar con una política de gestión del riesgo para posiciones estructurales. La exclusión de estas posiciones se limita al monto que neutraliza la sensibilidad del índice de adecuación de capital a movimientos en los tipos de cambio y debe mantenerse por al menos seis meses. El banco debe documentar dichas exclusiones, disponiendo este informe para revisión de la Comisión.
+
+Para el cálculo del cargo, se debe ponderar la posición neta en cada moneda por el PRM que le corresponda, mediante la siguiente fórmula:
+
+Los códigos de las monedas empleados, para las canastas 1 y 2, corresponden al estándar internacional ISO 4217.
+
+Los APRM por riesgo de moneda extranjera se calculan como el cargo determinado en párrafos precedentes, multiplicado por 12,5.
+
+3.3 Riesgo de materias primas
+
+Para el cálculo del cargo por riesgo de materias primas se deben incluir todas las posiciones spot, forward, y en derivados sobre materias primas, exceptuando opciones. Además, se incluyen las posiciones delta ponderadas netas para las opciones sobre materias primas, cuando corresponda, de acuerdo con lo estipulado en el numeral 3.5.
+
+Se compensan las posiciones activas y pasivas en una misma materia prima, o bien cuando estas sean sustitutas. Dos materias primas son consideradas sustitutas si presentan una correlación mínima de 0,9 entre sus series de precios, por al menos un año. Para el cálculo de estas correlaciones se debe contar con: i) al menos 24 observaciones de precios reales, espaciadas por no más de 90 días, donde se permite una sola observación por día o ii) 100 observaciones de precios reales, donde se permite una sola observación por día. En adelante, dos materias primas sustitutas se consideran para efectos de este Capítulo una misma materia prima. En caso de no cumplir la condición de correlación, las materias primas no pueden ser consideradas como sustitutas.
+
+Para la estimación del cargo por riesgo de materias primas se sigue el siguiente procedimiento: se calcula, para cada materia prima expresada en su unidad estándar de medición y luego convertida a moneda local mediante las tasas spot, la posición neta como la diferencia entre posiciones activas y pasivas. A esta posición resultante se le aplica un cargo de 15%. Además, se aplica un cargo adicional de 3% sobre la posición bruta en cada materia prima, es decir, sobre la suma de posiciones activas y pasivas (en valor absoluto). Lo anterior se expresa en la siguiente fórmula:
+
+Los APRM por riesgo de materias primas se calculan como el cargo determinado en párrafos precedentes, multiplicado por 12,5.
+
+3.4 Riesgo de cotizaciones bursátiles
+
+El cargo por riesgo de cotizaciones bursátiles se aplica a todas las posiciones en acciones ordinarias y preferentes, compromisos para comprar o vender acciones, índices sobre acciones y derivados que tengan como subyacente alguno de los instrumentos anteriores, los que deben ser separados en los subyacentes respectivos, exceptuando las opciones, que reciben el tratamiento particular especificado en el numeral 3.5.
+
+Los APRM son calculados como la suma de dos componentes: los APRM por riesgo específico de cada emisión y los APRM por riesgo general. Ambos componentes deben ser calculados por separado para cada mercado nacional en que el banco mantenga exposiciones.
+
+3.4.1 Riesgo específico de cotizaciones bursátiles
+
+El cargo por riesgo específico de cotizaciones bursátiles se calcula como la exposición bruta, es decir, la suma de las posiciones activas y pasivas (en valor absoluto), multiplicado por un PRM único de 11%. Esto es:
+
+Los APRM por riesgo específico corresponden al cargo antes calculado multiplicado por 12,5.
+
+3.4.2 Riesgo general de cotizaciones bursátiles
+
+El cargo por riesgo general de cotizaciones bursátiles se calcula como la exposición neta, es decir, la suma de las posiciones activas menos las posiciones pasivas, multiplicado por un PRM único de 11%. Además de lo anterior, se agrega un cargo adicional de 2% a las posiciones netas en índices sobre acciones y estrategias de arbitraje relacionadas a futuros .
+
+Los APRM por riesgo general de cotizaciones bursátiles corresponden al cargo antes calculado multiplicado por 12,5.
+
+3.5 Tratamiento de opciones
+
+Para el tratamiento de opciones, el banco que solo registre posiciones en opciones adquiridas puede utilizar cualquiera de los tres métodos que se señalan en este numeral. El banco que además registre opciones vendidas, y estas sean tipo plain vanilla, no podrá utilizar el método simplificado. El banco que registre opciones vendidas que no sean tipo plain vanilla debe utilizar únicamente el método de escenarios.
+
+El banco deberá comunicar a esta Comisión la necesidad de utilizar el método delta plus o el método de escenarios en forma previa al lanzamiento de cualquier producto que deba ser incluido en el cómputo del cargo por riesgo de mercado, sea que se trate de opciones explícitas o implícitas. Esto también procederá cuando a un producto ya existente se le introduzca modificaciones que incidan en los criterios de valoración o medición del riesgo. Dichas comunicaciones contendrán un informe detallado, cuyos requisitos se presentan en el Anexo 1.
+
+En líneas generales, si el banco utiliza el método simplificado o el método de escenarios, debe agregar los APRM calculados para su cartera de opciones a cada clase de riesgo relevante, de acuerdo con el subyacente de la opción. Por otra parte, si el banco utiliza el método delta-plus, la posición delta ponderada, calculada de acuerdo con el numeral 3.5.2, debe agregarse como exposición a la clase de riesgo respectiva (pudiendo compensarse con otras posiciones) para el cálculo de APRM, mientras que los APRM por riesgo vega y gamma serán cargos directos dentro de cada una de dichas clases.
+
+3.5.1 Método simplificado
+
+En el método simplificado, las posiciones de las opciones y su subyacente asociado (contado o forward) son tratados por separado, incorporando riesgo específico y riesgo general de mercado para la estimación del cargo. Los resultados obtenidos son incorporados de manera directa a la estimación del cargo en cada categoría de riesgo relevante. Este cargo se determina como el menor valor entre:
+
+i) El valor de mercado del instrumento subyacente asociado, multiplicado por el PRM respectivo, de acuerdo con la clase de riesgo a la que corresponde la posición; y
+
+ii) El valor de mercado de la opción.
+
+3.5.2 Método delta plus
+
+En el método delta plus, los APRM de las posiciones en opciones se calculan utilizando los factores de sensibilidad delta, gamma y vega, como se detalla a continuación.
+
+La posición delta ponderada de cada opción se asigna a la categoría de riesgo correspondiente (tasa de interés, moneda extranjera, materias primas o cotizaciones bursátiles) y queda sujeta a cargos por riesgo general de mercado. La posición delta ponderada corresponde al valor de mercado del instrumento subyacente asociado, multiplicado por el factor delta correspondiente, que mide el cambio en el valor de la opción ante un cambio unitario en el precio del subyacente. En el caso de opciones cuyo subyacente sea un instrumento de deuda o tasas de interés, se aplicará el enfoque de dos-patas, donde se computa una entrada en el momento en que el contrato subyacente tiene efecto y una segunda entrada en el momento en que el contrato subyacente vence.
+
+Adicional a lo anterior, el banco debe calcular el cargo por riesgo gamma. Para cada opción individual, incluyendo la posición cubierta, se calcula el impacto gamma, de acuerdo con la siguiente ecuación:
+
+i) para opciones sobre tasas de interés, si el subyacente es un bono, su valor de mercado debe ser multiplicado por los PRM correspondientes al riesgo general de tasa de interés. Un cálculo equivalente debe ser realizado cuando el subyacente sea una tasa de interés, asumiendo el cambio en la tasa explicitado en la misma tabla;
+
+ii) para opciones sobre acciones e índices accionarios, el valor de mercado del subyacente debe ser multiplicado por 11%;
+
+iii) para posiciones en moneda extranjera y oro, el valor de mercado del subyacente debe ser multiplicado por el PRM correspondiente a cada moneda; y
+
+iv) para opciones sobre materias primas el valor de mercado del subyacente debe ser multiplicado por 15%.
+
+Para efectos del cálculo anterior, las siguientes posiciones deben ser tratadas como el mismo subyacente:
+
+### 1. Para tasas de interés, cada banda temporal y moneda
+
+### 2. Para moneda extranjera y oro, cada paridad de monedas y oro
+
+### 3. Para materias primas, cada materia prima individual
+
+### 4. Para cotizaciones bursátiles, cada mercado nacional
+
+Cada opción sobre el mismo subyacente tiene un impacto gamma que podrá ser positivo o negativo. Estos impactos gamma individuales son sumados, dando como resultado un impacto gamma neto para cada subyacente. Solamente aquellos impactos gamma netos negativos serán incluidos en el cálculo del cargo por riesgo gamma, que corresponde a la suma del valor absoluto de los mismos. Los APRM por riesgo gamma corresponden al cargo gamma anterior multiplicado por 12,5.
+
+El cargo por riesgo vega (volatilidad) corresponde a la suma, de los impactos vega para cada opción. Estos impactos se calculan aplicando, sobre la volatilidad del subyacente, un ajuste del 25%, positivo o negativo, según sea la posición, corta o larga, respectivamente. El resultado anterior se multiplica por el factor vega correspondiente. Dicho factor vega mide el cambio en el valor de la respectiva opción ante un cambio unitario en la volatilidad del subyacente. Finalmente, los APRM por riesgo vega corresponden al cargo por riesgo vega multiplicado por 12,5.
+
+3.5.3 Método de escenarios
+
+En el método de escenarios el banco debe evaluar los cambios en el valor de las opciones y sus posiciones de cobertura asociadas, considerando para ello una matriz cuyo primer eje corresponderá a los cambios en el precio o tasa subyacente (los rangos son definidos en función de cada clase de riesgo) y cuyo segundo eje corresponderá a los cambios en la volatilidad del subyacente. Cada punto dentro de la matriz deberá reflejar el cambio de valor de la opción, con respecto a un valor base, en función de los cambios en la volatilidad y precio/tasa del subyacente. Para cada subyacente individual, de acuerdo con lo definido en el método delta plus, se deberá establecer una matriz independiente. Para opciones en acciones e índices sobre acciones, el rango se establece en ±11%. Para todas las categorías de riesgo se deberán utilizar al menos 7 observaciones (incluyendo el valor actual) para dividir el rango propuesto en intervalos equivalentemente espaciados.
+
+Para aquellos bancos que tengan un portafolio significativo en opciones de tasas de interés y a discreción de esta Comisión, se permitirá una reducción a un mínimo de 6 bandas temporales para la construcción de los escenarios. Esto implica que el banco puede combinar las bandas temporales determinadas en el modelo de riesgo general de tasas de interés para generar nuevos segmentos. Cada nueva banda temporal generada podrá estar constituida hasta por un máximo de 3 bandas originales. En cuanto al cambio asumido en la tasa, se deberá considerar el máximo valor de las bandas temporales que la conforman.
+
+La segunda dimensión de esta matriz corresponde al cambio en la volatilidad del subyacente. Un cambio único en la volatilidad del precio o tasa del subyacente igual a +25% y -25%, se considera suficiente para la mayoría de los casos.
+
+Después de revalorizar las opciones con los escenarios provenientes de la matriz, cada celda contendrá la ganancia/pérdida neta de las opciones y de los instrumentos subyacentes. El cargo por riesgo de mercado por el método de escenarios será calculado como la máxima pérdida contenida en la matriz y los APRM bajo este método corresponderán al cargo calculado por 12,5.
+
+3.6 Tratamiento de fondos y securitizaciones
+
+3.6.1 Fondos de inversión y fondos mutuos
+
+Los fondos clasificados en el libro de negociación que cumplan con alguna de las condiciones: a) es posible identificar todos los subyacentes y la información del fondo y sus constituyentes es auditada por una empresa externa, al menos anualmente, o (b) es posible obtener cotizaciones diarias del fondo y el banco maneja la información de su reglamento.
+
+El banco puede utilizar el enfoque del constituyente (LTA, por sus siglas en inglés), donde se descompone la exposición en sus subyacentes, como si se hubiese invertido directamente en ellos. Los subyacentes individualizados son asignados a las clases de riesgo respectivas de acuerdo con el modelo estándar presentado en este Capítulo. También puede utilizar el método del reglamento interno (MBA, por sus siglas en inglés), atendiendo a las siguientes condiciones:
+
+a) Se debe considerar que el fondo invierte el máximo permitido por el reglamento interno en los activos más riesgosos y, progresivamente, en los menos riesgosos.
+
+b) Si es posible la aplicación de más de un PRM a alguna exposición dada del fondo, se deberá utilizar el más conservador para la medición del riesgo del fondo.
+
+c) Los APRM por exposiciones con derivados deben calcularse descomponiendo el derivado en sus subyacentes, los que deberán ser asignados a la clase de riesgo respectiva, dentro del modelo estándar presentado en este capítulo. Las opciones deberán ser tratadas de acuerdo con alguna de las metodologías dispuestas en el numeral 3.5. Cuando el valor de mercado de la cartera de derivados sea desconocido, la exposición deberá ser estimada de manera conservadora.
+
+3.6.2 Securitizaciones
+
+El cargo de capital y los activos ponderados por riesgo específico para securitizaciones que son mantenidas en el libro de negociación, deberá calcularse de acuerdo con lo estipulado en el numeral 3.13 del Capítulo 21-6 de la RAN.
+
+### 4. Disposiciones transitorias
+
+Hasta el 1 de diciembre de 2021 los activos ponderados por riesgo de mercado serán iguales a 0. Posterior a esa fecha, los activos ponderados por riesgo de mercado deberán ser calculados según los lineamientos establecidos en este cuerpo normativo
+
+ANEXO
+
+REQUISITOS PARA LA EMISION DE OPCIONES Y AUTORIZACION DE LOS MODELOS DELTA PLUS O DE ESCENARIOS
+
+### 1. Informe detallado
+
+Para la emisión de opciones el banco deberá enviar un informe detallado a esta Comisión, el que contendrá la siguiente información:
+
+a. Reseña del producto y su relación con la estrategia comercial y financiera del banco.
+
+b. Proyección comercial para el producto.
+
+c. Tipo y cuantía de riesgos identificados para el producto.
+
+d. Estructura de límites asociada al producto.
+
+e. Reseña de metodologías de valoración y determinación de griegas.
+
+f. Reseña de aplicaciones tecnológicas que soportarán el producto.
+
+g. Reseña de la forma de incorporar el riesgo del producto en las mediciones globales de riesgo de la entidad.
+
+h. Reseña del impacto cuantitativo, conforme a las proyecciones comerciales del producto.
+
+Los requisitos anteriores, aplicarán sin perjuicio de la regulación otorgada por el BCCh sobre operaciones con productos derivados de acuerdo con los artículos 69 N° 6 y 136 de la LGB (Capítulos III.D.1, III.D.2 y III.D.3 del Compendio de Normas Financieras). Tampoco se altera el sentido y alcance de las regulaciones emitidas por el BCCh de acuerdo con el artículo 35 de su Ley Orgánica Constitucional en sus numerales 1 y 6, en materia de captaciones y de relaciones activas y pasivas de las empresas bancarias (Capítulos III.B.1 y III.B.2 – III.B.2.1 y III.B.2.2 del citado compendio), en lo referido operaciones de derivados.
+
+### 2. Evaluación del modelo de opciones
+
+La evaluación de los modelos para determinar el cargo por riesgo de mercado para opciones, ya sea el método delta plus o el método de escenarios comprenderá el análisis de la situación del banco en la materia de "Riesgo financiero y operaciones de tesorería" y la realización de análisis y pruebas que permitan obtener una opinión de la consistencia metodológica del modelo, como también de la solidez de los procesos y procedimientos establecidos por la entidad para la administración de los riesgos inherentes a este tipo de instrumentos.
+
+Con el propósito de facilitar la evaluación, la entidad deberá tener a disposición de esta Comisión los siguientes elementos adicionales al informe detallado descrito en el numeral anterior:
+
+a. Políticas referidas a la actividad en opciones.
+
+b. Documentos de análisis y aprobación del producto
+
+c. Documento de análisis y aprobación de límites.
+
+d. Documentos relacionados con la aprobación a alto nivel del modelo de medición del riesgo.
+
+e. Documentos metodológicos del modelo de medición del riesgo.
+
+f. Documentación de los sistemas que soportarán el producto en las distintas áreas (front, back y middle office).
+
+g. Manual de procedimientos operativos definidos para el producto.
+
+h. Documentación relativa a pruebas operativas y de sistemas realizadas.
+
+i. Ejemplos de cálculos realizados para obtener el valor de mercado y el cálculo del cargo por riesgo de mercado, de acuerdo con la metodología de tratamiento de opciones correspondiente (delta plus o escenarios).
+
+j. Ejercicio de impacto cuantitativo en mediciones de riesgo conforme a las proyecciones comerciales para el producto.
+
+k. Documentación de procedimientos contables.
+
+l. Identificación de las normas que, de acuerdo con el análisis del banco, inciden en el producto.
+
+## Capítulo 21-8
+
+METODOLOGÍA ESTANDARIZADA PARA EL CÓMPUTO DE ACTIVOS PONDERADOS POR RIESGO OPERACIONAL
+
+### 1. Consideraciones generales
+
+Conforme a lo dispuesto en el inciso primero del artículo 67 de la Ley General de Bancos (en adelante LGB), el presente Capítulo establece la metodología estandarizada que las empresas bancarias deben considerar para determinar el cómputo de activos ponderados por riesgo operacional (en adelante APRO).
+
+Dicha metodología de cálculo, que se describe en el numeral 2 de este Capítulo y que ha sido establecida de acuerdo con las recomendaciones internacionales sobre la materia (Basilea III), podrá considerar las pérdidas operacionales históricas del banco en la medida que se cumplan las condiciones que se indican en los numerales 3 y 4.
+
+Para determinar el cómputo de los APRO señalado en esta norma, no se permitirá la utilización de metodologías propias a las que se refiere el inciso segundo del artículo 67 de la LGB.
+
+La adhesión a los lineamientos dispuestos en esta norma será parte de la evaluación de gestión que realiza este Organismo a los bancos en el ámbito de los riesgos operacionales, el cual se aborda en la letra c) del numeral 3.2 del Título II del Capítulo 1 - 13 de la Recopilación Actualizada de Normas (en adelante RAN).
+
+### 2. Metodología para el cómputo de los APRO
+
+Para determinar los APRO es necesario calcular el indicador de negocio (BI, por sus siglas en inglés), definido como la suma de tres componentes, tal como señala la siguiente fórmula:
+
+.
+
+IEA: Activos que generan intereses (IEA, por sus siglas en inglés).
+
+DI : Ingresos por dividendos (DI, por sus siglas en inglés).
+
+TB : Ingresos netos del libro de negociación (TB, por sus siglas en inglés).
+
+BB : Ingresos netos del libro de banca (BB, por sus siglas en inglés).
+
+001: Otros ingresos operativos (OOI, por sus siglas en inglés).
+
+00E: Otros gastos operativos (OOE, por sus siglas en inglés).
+
+FI : Ingresos por comisiones (FI, por sus siglas en inglés).
+
+FE : Gastos por comisiones (FE, por sus siglas en inglés).
+
+La barra superior representa el promedio móvil de los últimos tres años y las barras laterales el valor absoluto.
+
+El IEA se obtiene directamente de la información del estado de situación financiera del banco. Los otros conceptos se establecen considerando los flujos del estado de resultados de los últimos 12 meses.
+
+Las partidas del estado de situación financiera y del estado de resultados del banco consideradas para determinar cada componente, se describen en el Anexo 1 de este Capítulo.
+
+A partir del BI se calcula la componente del indicador de negocios (BIC, por sus siglas en inglés). El BIC es igual a la suma ponderada de los montos del BI en función de dos tramos, considerando como ponderadores distintos coeficientes marginales por tramo (ai), de acuerdo con la siguiente tabla:
+
+.
+
+El cargo por riesgo operacional (ORC, por sus siglas en inglés) es el producto que resulta de multiplicar el BIC de cada banco, señalado anteriormente, por el multiplicador interno de pérdidas operacionales de dicha entidad (ILM, por sus siglas en inglés), tal como lo indica la siguiente expresión:
+
+.
+
+donde:
+
+.
+
+Todos los bancos deberán confeccionar la base de registros de pérdidas operacionales a que se refiere el numeral 3 de este Capítulo.
+
+El cargo por riesgo operacional de los bancos con un BI en el tramo 1, será por defecto igual al BIC (ORC = BIC). No obstante, estos bancos podrán optar por utilizar información de sus pérdidas operacionales para el cómputo de los APRO, en cuyo caso, deberán dar cumplimiento a las condiciones que establece el Anexo 2 de este Capítulo.
+
+Los bancos con un BI en el tramo 2 y aquellos en el tramo 1 que opten por utilizar el LC, deberán cumplir con los criterios establecidos en el numeral 4 de este Capítulo. Una vez utilizada la información de pérdidas operacionales para el cálculo de los APRO, los bancos no podrán dejar de usarla sin autorización expresa de la Comisión. En caso de que no se cumplan los criterios del numeral 4 de este Capítulo, el cargo por riesgo operacional será igual al BIC, definido en este numeral. Lo anterior, sin perjuicio de cargos adicionales que pueda determinar la Comisión como resultado del proceso de evaluación supervisora, conforme a lo dispuesto en el artículo 66 quinquies de la LGB y el Capítulo 21-13 de la Recopilación Actualizada de Normas (pilar 2).
+
+Finalmente, los APRO se computarán como 12,5 veces el ORC.
+
+3. Requisitos para la confección de la base de registros de pérdidas operacionales
+
+La apropiada identificación, recolección y tratamiento de los registros por pérdidas operacionales del banco son requisitos esenciales para la adecuada gestión del riesgo operacional. En caso de que no se cumplan los criterios de este numeral, se podrán establecer cargos adicionales que la Comisión determinará como resultado del proceso de evaluación supervisora, conforme a lo dispuesto en el artículo 66 quinquies de la LGB y el Capítulo 21-13 de la Recopilación Actualizada de Normas (pilar 2).
+
+3.1 Criterios generales
+
+Los criterios generales para la confección de base de datos con registros de pérdida operacional son los siguientes:
+
+a) Los registros de pérdida operacional usados para la determinación del cargo por riesgo operacional deben comprender un período de observación de 10 años. Cuando el banco adopte por primera vez el uso de los registros de pérdida operacional para el cómputo de LC se aceptará un periodo de observación de al menos 5 años.
+
+b) Los bancos deberán contar con procedimientos y procesos documentados para la identificación, recopilación y tratamiento de los registros de pérdida operacional.
+
+c) El banco deberá documentar los criterios de asignación entre pérdidas desagregadas, para fines del cálculo del LC y los registros sobre pérdidas operacionales requeridos para otros fines.
+
+d) Los registros internos sobre pérdidas de un banco deberán ser integrales e incluir la totalidad de las actividades y exposiciones relevantes, en todos los subsistemas y en todas las ubicaciones geográficas pertinentes.
+
+e) El banco deberá recopilar información sobre los importes brutos de las pérdidas, y sobre las fechas de referencia de los eventos de riesgo operacional. Además, el banco deberá recoger información sobre recuperaciones de importes brutos de pérdidas, e información descriptiva sobre los factores determinantes o las causas del evento de pérdida. El grado de detalle de la información descriptiva deberá estar en proporción al importe bruto de la pérdida.
+
+f) Los eventos de pérdidas operacionales relacionados con el riesgo de crédito que ya estén siendo considerados por la metodología estandarizada para cómputo de activos ponderados por riesgo de crédito, de acuerdo con las reglas establecidas por la Comisión para tales efectos, no deben incluirse en el conjunto de registros sobre pérdidas computables para el cálculo de LC. Los eventos de pérdidas operacionales relacionados con el riesgo de crédito que no se tengan en cuenta en los activos ponderados por riesgo de crédito (APRC), deberán incluirse en el conjunto de registros sobre pérdidas operacionales.
+
+g) Los eventos de pérdidas operacionales relacionados con el riesgo de mercado deberán incluirse, sin excepción, en el conjunto de registros sobre pérdidas operacionales.
+
+h) El banco deberá informar la base histórica de pérdidas operacionales de manera desagregada, necesarias para el cálculo del LC, de acuerdo con las instrucciones establecidas en el Manual Sistema de Información por esta Comisión.
+
+i) El banco podrá solicitar a esta Comisión excluir ciertos registros de pérdidas de líneas de negocio por desinversión. De manera análoga, los registros de pérdidas deberán incluir todas aquellas componentes que resulten de adquisiciones y fusiones de negocios relevantes, tal como indica el literal d) de este numeral.
+
+j) El banco podrá solicitar a esta Comisión excluir ciertos registros de pérdida operacionales, materiales para la institución, cuando éstas hayan dejado de ser relevantes para el perfil de riesgo del banco.
+
+3.2 Criterios específicos
+
+Los bancos deberán ser capaces de identificar los importes de pérdidas brutas, recuperaciones no procedentes de seguros y recuperaciones originadas por el pago de indemnizaciones de seguros para todos los eventos de pérdidas operacionales. Asimismo, deberán utilizar las pérdidas netas de recuperaciones (incluidas las procedentes de seguros) en el conjunto de registros sobre pérdidas operacionales, aunque las recuperaciones sólo podrán utilizarse para reducir las pérdidas cuando se haya recibido el pago, debiendo contar con los debidos comprobantes. Los derechos de cobro no califican como recuperaciones.
+
+Por pérdida bruta se entiende una pérdida antes de recuperaciones de cualquier tipo. Por pérdida neta se entiende la pérdida después de tener en consideración los efectos de las recuperaciones. La recuperación es un hecho independiente, relacionado con el evento de pérdida inicial, que no necesariamente se efectúa en el mismo periodo, por el que se perciben fondos o flujos económicos.
+
+Los siguientes ítems deben ser incluidos en los cálculos de las pérdidas brutas para la base de datos:
+
+a) Cargos directos en las cuentas de Estados de Resultados del banco y amortizaciones debido a eventos de riesgo operacional.
+
+b) Costos incurridos como consecuencia de un evento, incluyendo gastos externos con una relación directa al evento por riesgo operacional (ej. gastos legales directamente relacionados al evento y comisiones pagadas a los asesores, abogados o proveedores) y costos de reparación o reemplazo incurridos para restaurar la posición que prevalecía antes del evento de riesgo operacional.
+
+c) Provisiones o reservas contabilizadas en las cuentas de Estados de Resultados del banco contra el impacto potencial de pérdidas por riesgo operacional.
+
+d) Pérdidas provenientes de eventos por riesgo operacional con un impacto financiero definitivo, que aún no están reflejadas en las cuentas de Estados de Resultados del banco ("pérdidas pendientes"). Las pérdidas pendientes deben ser incluidas en la base de datos dentro de un período de tiempo acorde con el tamaño y tiempo transcurrido.
+
+e) Impactos económicos negativos registrados en el estado de situación financiera y/o estado de resultado del período, debido a un evento por riesgo operacional que afecte los flujos de caja o estados financieros del banco en la cuenta financiera de períodos previos ("timing losses"). Estas "timing losses" deben ser incluidas en la base de datos de las pérdidas cuando se deban a eventos por riesgo operacional que abarcan más de un período en la cuenta financiera y dan lugar a riesgo legal.
+
+Los siguientes ítems deben ser excluidos de las pérdidas brutas registradas en la base de datos de pérdidas:
+
+a) Costos por contratos de mantenimientos generales de la propiedad, planta o equipos.
+
+b) Gastos internos o externos con el fin de mejorar el negocio después de las pérdidas por riesgo operacional: actualizaciones, mejoras, iniciativas de gestión del riesgo y mejoras en ellas.
+
+c) Primas de seguro.
+
+Los bancos deberán utilizar la fecha de contabilización del evento para construir el conjunto de registros sobre pérdidas. En el caso de eventos legales, la fecha de contabilización se refiere a cuando se constituye una provisión para esta contingencia legal en el estado de situación financiera, con su reflejo correspondiente en el estado de resultados.
+
+Las pérdidas causadas por un evento de riesgo operacional común o por varios eventos de riesgo operacional relacionados a lo largo del tiempo, pero contabilizadas en el transcurso de varios años, deberán asignarse a los años correspondientes en la base de datos sobre pérdidas, en consonancia con su tratamiento contable.
+
+### 4. Requisitos para el uso de LC
+
+Los bancos con un BI en el tramo 2 y aquellos en el tramo 1 que opten por utilizar el LC, deberán cumplir con los siguientes criterios:
+
+a) Los procedimientos y procesos señalados en el literal b), del numeral 3.1 de este Capítulo, deberán estar sujetos a validación, antes de que los registros sobre pérdidas se utilicen en la metodología de medición del cargo por riesgo operacional, así como a revisiones independientes periódicas de las unidades de auditoría interna o externa, de acuerdo con las normas de atestiguación que le apliquen.
+
+b) Contar con la infraestructura tecnológica necesaria para la identificación, recolección y tratamiento de registros históricos de pérdida operacional, con su respectiva política y procedimientos que la gobiernan, y contar con evaluaciones o certificaciones de empresas especializadas en esta materia, las que deberán visar el cumplimiento de los criterios generales y específicos señalados en el título 3.1 y 3.2 de esta norma, de acuerdo con las normas de atestiguación aplicables.
+
+c) El banco deberá contar con una adecuada estructura de control interno con independencia de las áreas generadoras de la información sobre pérdidas operacionales, y que cumplan con ser contrapartes efectivas de control en la calidad de los datos. Los informes que desarrollen estas áreas deberán ser conocidos por el Directorio del banco, o quien haga sus veces u oficie como tal, y estar sujetos a evaluaciones externas, cuando corresponda.
+
+d) En caso de que durante las revisiones de seguimiento efectuadas por la propia institución (criterio c) se observe cualquier incumplimiento de los requisitos establecidos en esta norma, la entidad tendrá la obligación de informar oportunamente a este Organismo, mediante carta dirigida a la Comisión, detallando los hechos.
+
+### 5. Disposiciones especiales para bancos con menos de 5 años de operación
+
+Los bancos con menos de 5 años de funcionamiento tendrán un cargo por riesgo operacional igual al BIC, atendiendo a que dichas entidades no cuentan con información de pérdida histórica conforme a los criterios establecidos en el numeral 3.1.
+
+Tratándose de bancos que lleven operando menos de 1 año, se determinará su APRO cómo un 10.5% del APRC, de acuerdo con las reglas de cálculo de los activos ponderados por riesgo de crédito establecidas por esta Comisión.
+
+### 6. Disposiciones transitorias
+
+Hasta el 1 de diciembre de 2021 los activos ponderados por riesgo operacional serán iguales a 0. Posterior a esa fecha, los activos ponderados por riesgo operacional deberán ser calculados según los lineamientos establecidos en este cuerpo normativo.
+
+Anexo 1: Partidas contables para la determinación de ILDC, FC y SC para efectos de cálculo del Indicador de Negocios
+
+La asignación a las partidas contables de activos, ingresos y gastos a considerar para determinar los componentes de ILDC, FC y SC para el cálculo del indicador de negocios o BI, conforme al numeral 2 de este Capítulo, se muestra en la siguiente tabla:
+
+.
+
+Anexo 2: Verificación del cumplimiento de requisitos para la utilización de registros de pérdidas operacionales en la determinación del cargo por riesgo operacional para bancos en el tramo 1 de BI
+
+### 1. Consideraciones generales
+
+De acuerdo con lo señalado en el numeral 2 de este Capítulo, los bancos cuyo indicador de negocios o BI se ubique en el tramo 1, podrán optar por utilizar su base histórica de pérdidas operacionales para el cómputo del cargo por riesgo operacional. Para estos efectos, las entidades deberán cumplir con los criterios señalados en los numerales 3 y 4 de esta norma, efectuar una presentación previa ante este Organismo con el fin de que se verifique el cumplimiento de dichos criterios, y proporcionar la documentación señalada en el numeral 2 de este Anexo.
+
+Si la Comisión no tiene objeciones o condiciones que formular para el uso de la base histórica de pérdidas operacionales, la entidad podrá comenzar a utilizar la componente LC para el cómputo de APRO desde el momento en que sea notificada.
+
+### 2. Documentación
+
+Los bancos deberán presentar los siguientes antecedentes:
+
+a. Manual de procedimientos y procesos para la identificación, recopilación y tratamiento de los registros de pérdida, referidos al literal b) del numeral 3.1 de este Capítulo.
+
+b. Documento con los criterios de asignación de las pérdidas operacionales, para los diferentes fines, de acuerdo con lo señalado en el literal c) del numeral 3.1 de este Capítulo.
+
+c. Informe metodológico acerca de la determinación de las pérdidas operacionales y sus recuperaciones, para cada tipo. Se deben señalar los supuestos considerados para la valorización, especialmente cuando el tipo de pérdida pudiese ser de difícil cuantificación.
+
+d. Informe de auditoría interna o externa acerca de los procedimientos y procesos, según lo dispuesto en el literal a) del numeral 4 de este Capítulo.
+
+e. Informe de evaluación o certificación de una empresa especializada, de acuerdo con lo señalado en el literal b) del numeral 4 de este Capítulo.
+
+f. Manual de procedimientos y procesos de control interno, según lo establecido en el literal c) del numeral 4 de este Capítulo.
+
+## Capítulo 21-11
+
+FACTORES Y METODOLOGÍA PARA BANCOS O GRUPO DE BANCOS CALIFICADOS DE IMPORTANCIA SISTÉMICA Y EXIGENCIAS QUE SE PODRÁN IMPONER COMO CONSECUENCIA DE ESTA CALIFICACIÓN
+
+### 1. Disposiciones generales
+
+El artículo 66 quáter de la Ley General de Bancos dispone que la Comisión, previo informe favorable del Banco Central de Chile, determinará los factores y metodología que se tendrán en consideración para establecer si un banco o grupo de bancos puede ser calificado de importancia sistémica. En concordancia con el referido mandato legal, en este Capítulo se establecen dichos elementos, junto a las exigencias que se podrá imponer a estas instituciones, como consecuencia de tal calificación.
+
+### 2. Banco o grupo de bancos de Importancia Sistémica
+
+En términos generales, la calificación de un banco o grupo de bancos que pertenezcan a un mismo controlador como de importancia sistémica, está asociada a su relevancia para el funcionamiento del sistema financiero chileno, hasta el punto de que su deterioro financiero o eventual insolvencia podrían tener consecuencias negativas significativas sobre el resto del sistema financiero o incluso sobre la economía del país en su conjunto.
+
+Para establecer el grado de importancia sistémica de un banco o grupo de bancos que pertenezcan a un mismo controlador (en lo sucesivo, ambas expresiones quedarán resumidas en la palabra banco), esta Comisión considera como marco referencial la metodología de evaluación establecida por el Comité de Supervisión Bancaria de Basilea (BCBS por sus siglas en inglés), vigente a partir del 1 de enero de 2016, la cual contempla la creación de un índice basado en distintos factores que determinan el impacto sistémico de un banco derivado de su deterioro financiero o eventual insolvencia; parte de los cuales se encuentran considerados en el citado artículo 66 quáter, haciendo referencia al tamaño, participación de mercado, la interconexión con otras entidades financieras, el grado de sustitución en la prestación de servicios financieros o cualquier otro criterio objetivo que se considere relevante para dicho fin.
+
+En concordancia a lo anterior, en el numeral 3 siguiente se describe la metodología y factores para establecer el grado de importancia sistémica de un banco.
+
+3. Metodología y factores para establecer el grado de importancia sistémica de un banco
+
+Para establecer el grado de importancia sistémica de un banco, se considerará un índice de importancia sistémica, determinado por la suma ponderada de la participación porcentual relativa de cada banco en los factores señalados a continuación. A su vez, cada factor se calculará a partir de un conjunto de subfactores.
+
+En términos más específicos, el índice de importancia sistémica se calcula como:
+
+a) El promedio ponderado de las puntuaciones del banco en los cuatro factores señalados en el numeral 3.1, utilizando los ponderadores consignados en el numeral 3.2.
+
+b) La puntuación del banco en cada factor será igual al promedio ponderado de su participación porcentual en cada uno de los sub-factores del numeral 3.2. Esta participación se multiplica por 10.000 para expresarla en puntos básicos.
+
+La descripción de los factores y sub-factores, y sus respectivos ponderadores, se indican en los numerales siguientes.
+
+3.1. Factores
+
+A. Tamaño
+
+El factor tamaño considera la relevancia de la institución en términos de su participación por activos en la industria. Cuanto más grande sea un banco, más difícil resulta reemplazar sus actividades en caso de deterioro financiero o eventual insolvencia y, por lo tanto, mayor es la posibilidad de impacto sobre el normal funcionamiento de los mercados financieros en que opera.
+
+Para su cálculo se considerarán los activos a nivel local (en adelante "Activos Consolidados Locales"), de todas las sociedades o entidades que deban consolidar con el banco conforme a los criterios contables de aceptación general a que se refiere el Compendio de Normas Contables para bancos.
+
+B. Interconexión local
+
+Situaciones de deterioro financiero o eventual insolvencia de un banco pueden aumentar significativamente la probabilidad de disrupciones en otras instituciones financieras con las que éste se relaciona, sean o no bancarias. La probabilidad de impacto debiera relacionarse positivamente con el grado de interconexión con dichas instituciones.
+
+Para el cálculo de este factor se consideran los siguientes sub-factores, medidos dentro del mercado local exclusivamente:
+
+- Activos dentro del sistema financiero chileno: todos los activos del banco cuyas contrapartes sean instituciones financieras reguladas, bancarias o no bancarias, en Chile.
+
+- Pasivos dentro del sistema financiero chileno: todos los pasivos del banco cuyas contrapartes sean instituciones financieras reguladas, bancarias o no bancarias, en Chile.
+
+C. Sustituibilidad local
+
+El impacto sistémico de un banco en situaciones de deterioro financiero o eventual insolvencia está directamente relacionado con la medida en que ese banco proporcione o participe de infraestructura o servicios financieros relevantes para el mercado en que opera. Así, por ejemplo, cuanto mayor sea el rol o participación de un banco en una determinada línea de negocio o como proveedor de servicios de infraestructura, mayor será el alcance que su deterioro o eventual insolvencia generarían sobre el normal funcionamiento del mercado financiero y la economía local.
+
+Para el cálculo de este factor se consideran los siguientes sub-factores, medidos dentro del mercado local exclusivamente:
+
+- Actividades de pago: pagos intermediados en la economía local, ya sea directamente o través de cámaras de compensación.
+
+- Depósitos: depósitos a la vista, otros saldos y cuentas a la vista, depósitos a plazo y cuentas de ahorro a plazo y otros saldos acreedores a plazo.
+
+- Colocaciones: colocaciones de consumo, hipotecarias para la vivienda, préstamos comerciales, créditos de comercio exterior, deudores en cuentas corrientes, operaciones de factoraje, operaciones de leasing y otros créditos y cuentas por cobrar.
+
+D. Complejidad
+
+El impacto sistémico de un banco en situaciones de deterioro financiero o eventual insolvencia se relaciona también con la complejidad de su modelo de negocios y estructura operativa. Cuanto más complejo sea un banco, mayores serán los costos y el tiempo necesarios para su regularización o resolución.
+
+Para el cálculo de este factor se consideran los siguientes sub-factores:
+
+- Contratos derivados OTC: corresponde al valor nocional de contratos negociados de manera bilateral y que no han sido novados en una Entidad de Contraparte Central.
+
+- Activos inter-jurisdiccionales: considera todas las posiciones activas (créditos, títulos de deuda y derivados) del banco con contrapartes en el exterior, como también aquellas de sus filiales en el exterior.
+
+- Pasivos inter-jurisdiccionales: considera todas las posiciones pasivas (créditos, títulos de deuda y derivados) del banco con contrapartes en el exterior, como también aquellas de sus filiales en el exterior.
+
+- Activos a valor razonable: considera los instrumentos a valor razonable, de acuerdo con lo instruido en el capítulo 7-12 de la Recopilación Actualizada de
+
+Normas (RAN).
+
+- Activos de terceros bajo la administración del banco: considera mandatos y valores en custodia administrados por cuenta de terceros, por el banco o sus filiales.
+
+3.2 Ponderaciones
+
+Se aplicará la siguiente ponderación a los factores del numeral 3.1. anterior: 30% a "Tamaño" e "Interconexión local" (letras A y B); y 20% a "Sustituibilidad local" y "Complejidad" (letras C y D).
+
+La ponderación de los sub-factores podrá ser ajustada anualmente por la Comisión.
+
+3.3 Información para el cómputo de los factores
+
+La información para el cómputo de los factores y sub-factores, según corresponda, será enviada a esta Comisión de acuerdo con lo que se instruya en el Manual del Sistema de Información. Por lo tanto, para la identificación de los elementos y partidas que componen cada uno de los factores y sub-factores, los bancos deberán atenerse a las definiciones contenidas en tales instrucciones.
+
+4. Calificación de la calidad de sistémico de un banco y exigencias de capital básico adicional en tanto mantenga dicha condición
+
+Conforme a lo establecido en el citado artículo 66 quáter de la Ley General de Bancos, mediante resolución fundada y previo acuerdo favorable del Banco Central de Chile, el Consejo de la Comisión calificará la calidad de sistémico de un banco. Luego, por el mismo acto, o posteriormente y sujeto al mismo procedimiento, podrá imponerle una o más de las exigencias indicadas en esa disposición legal, en tanto mantenga dicha condición.
+
+Por su parte, la determinación del grado de importancia sistémica de cada banco calificado como tal, se definirá en consideración al puntaje obtenido en el índice de importancia sistémica, de que da cuenta el numeral 3 anterior, según señala la tabla siguiente:
+
+Tabla: Cargos de capital básico adicional para bancos calificados en la calidad de sistémicos
+
+.
+
+Conforme a lo señalado, corresponderá al Consejo de la Comisión determinar, dentro del rango indicado en la tabla anterior y en proporción al puntaje sistémico obtenido, el cargo específico de capital básico adicional previsto en el artículo 66 quáter literal a), mediante resolución fundada y previo acuerdo favorable del Banco Central de Chile, el cual deberá enterarse en el plazo que determine la Comisión en la mencionada resolución, sin perjuicio de lo que se indica en los numerales 6 y 7 siguientes.
+
+Para los bancos establecidos en Chile que sean considerados sistémicamente importantes a nivel local por la presente metodología, y que simultáneamente sean considerados sistémicamente importantes a nivel global, por el Financial Stability Board (FSB), el cargo de capital básico adicional exigido será el máximo entre el cargo sistémico local, determinado por la Comisión de acuerdo a lo establecido en este Capítulo, y el cargo sistémico global determinado anualmente por el FSB, el que en ningún caso podrá sobrepasar el límite de 3,5% contemplado en el artículo 66 quáter de la de la Ley General de Bancos. Los cargos adicionales de capital se calcularán a partir del ratio entre el capital básico y los activos ponderados por riesgo, netos de provisiones exigidas, por sobre el mínimo general de patrimonio efectivo 8% al que se refiere el artículo 66 de la Ley General de Bancos.
+
+### 5. Otras exigencias para bancos calificados en la calidad de sistémicos
+
+Además de la exigencia de capital básico adicional a que se refiere el numeral anterior, el artículo 66 quáter dispone que el Consejo de la Comisión podrá imponer una o más de las siguientes exigencias, también por resolución fundada y previo acuerdo favorable del Banco Central de Chile:
+
+a) Adición de hasta 2,0 puntos porcentuales al capital básico sobre activos totales, netos de provisiones exigidas, por sobre el requerimiento mínimo general de 3% al que se refiere el artículo 66 de la Ley General de Bancos. Para los bancos en los niveles I y II, de manera de mantener proporcionalidad entre las distintas exigencias de capital básico y en línea con estándares internacionales, el porcentaje correspondiente a esta adición no podrá superar el 50% del cargo de capital básico adicional establecido en el numeral 4.
+
+b) Que la reserva técnica que establece el artículo 65 de la citada legislación, sea aplicable desde que los depósitos y demás sumas a que se refiere esa norma excedan de una vez y media su patrimonio efectivo.
+
+c) Que el margen de préstamos interbancarios establecido en el artículo 84 N°1 de la Ley General de Bancos, se rebaje al 20% del patrimonio efectivo, independiente de las garantías constituidas.
+
+La Comisión podrá aplicar una o más de estas medidas, mediante resolución fundada, cuando estime que la exigencia de capital básico adicional del numeral 4 debe ser complementada y así lo requiera la estabilidad del sistema financiero chileno. Dicha resolución indicará además el plazo en que deberá darse cumplimiento a las respectivas exigencias.
+
+### 6. Revisión de la calificación de la calidad de sistémico de un banco
+
+La calificación de bancos en calidad de sistémicos a nivel local y las exigencias que esta calificación implica, serán revisadas en marzo de cada año, de acuerdo con la metodología de calificación presentada en los numerales 3 y 4, por resolución fundada y previo acuerdo favorable del Banco Central de Chile. Para esta evaluación se considerará información del año anterior a la revisión.
+
+La implementación de cambios en la calificación y sus requerimientos asociados se exigirán a partir del 1 de diciembre del mismo año de la revisión. Esto incluye a bancos que dejen de ser considerados de importancia sistémica y que, por lo tanto, queden eximidos de las exigencias que se hubieren impuesto en virtud de dicha calificación.
+
+Sin perjuicio de la revisión anual, el Consejo de la Comisión, por resolución fundada y previo acuerdo favorable del Banco Central de Chile, podrá dejar sin efecto, en cualquier momento, la calificación de un banco como de importancia sistémica como consecuencia o con ocasión de hechos sobrevinientes que así lo justifiquen.
+
+Asimismo, en los casos contemplados en los artículos 35 bis y 76 de la Ley General de Bancos, la calificación de la calidad de sistémico del banco se realizará con ocasión de la dictación de la resolución que autoriza la respectiva operación, con sujeción a las disposiciones legales pertinentes, sin esperar hasta el mes de marzo siguiente. Asimismo, el capital básico adicional a que se refiere el numeral 4 y las otras exigencias que podrían imponerse por numeral 5, deberán enterarse en el plazo que determine la Comisión en la mencionada resolución.
+
+### 7. Implementación transitoria
+
+De acuerdo con lo instruido en el artículo primero transitorio de la Ley N°21.130, la presente normativa entrará en vigencia el 1 de diciembre del 2020.
+
+Considerando lo establecido en el numeral 6 anterior, la primera resolución que calificará la calidad de importancia sistémica de los bancos se emitirá durante marzo de 2021.
+
+En concordancia a lo establecido en el artículo quinto transitorio de la Ley 21.130, el requerimiento de capital básico adicional sobre activos ponderados por riesgo a que se refiere el numeral 4 de esta normativa, deberá constituirse, a más tardar, a razón de: (i) un 0% del total requerido el 1 de diciembre de 2021, (ii) un 25% del total requerido el 1 de diciembre de 2022, (iii) 50% el 1 de diciembre de 2023, (iv) 75% el 1 de diciembre de 2024, y (v) 100% el 1 de diciembre de 2025, sujeto a los límites señalados en el citado artículo. Lo mismo aplicará a la exigencia de la letra a) del numeral 5.
+
+## Capítulo 21-12
+
+CAPITAL BÁSICO ADICIONAL, ARTÍCULOS 66 BIS Y 66 TER DE LA LEY GENERAL DE BANCOS
+
+### I. CONSIDERACIONES GENERALES
+
+El presente Capítulo tiene como objetivo definir las condiciones para la supervisión del cumplimiento de los cargos adicionales de capital que aplicarán a los bancos en Chile, de acuerdo con lo estipulado en los artículos 66 bis y ter de la Ley General de Bancos (LGB). Para lo anterior, se han tomado en consideración las recomendaciones y metodologías propuestas por el Comité de Supervisión Bancaria de Basilea (BCBS, por sus siglas en inglés). Los cargos que se indican en este Capítulo son adicionales al requerimiento mínimo legal establecido en los artículos 51, 66, 66 quater y 66 quinquies de la LGB.
+
+### II. COLCHÓN DE CONSERVACIÓN
+
+El cargo de capital adicional del artículo 66 bis, equivalente al colchón de conservación bajo el marco de Basilea, corresponde a un monto fijo igual a 2,5% de los activos ponderados por riesgo del banco, netos de provisiones exigidas, por sobre el patrimonio efectivo mínimo exigible de acuerdo al artículo 66 de la LGB; y que deberá estar constituido con capital ordinario nivel 1 (CET1, por sus siglas en inglés), de acuerdo con lo establecido en el Capítulo 21-1 de la Recopilación Actualizada de Normas (RAN).
+
+### III. COLCHÓN CONTRA CÍCLICO
+
+La exigencia de capital básico adicional del artículo 66 ter, equivalente al colchón contra cíclico bajo el marco de Basilea, es un cargo variable que podrá oscilar entre 0% y 2,5% de los activos ponderados por riesgo del banco, netos de provisiones exigidas y que, al igual que el colchón de conservación, deberá constituirse con capital ordinario nivel 1.
+
+El Banco Central de Chile luego de resolver la activación del colchón contra cíclico en los términos del artículo 66 ter, fijará, previo informe favorable de la Comisión, la exigencia de capital básico adicional que se aplicará de manera general a todas las empresas bancarias constituidas o autorizadas para operar en Chile. El Acuerdo del Consejo del Banco Central de Chile que determine el cargo, definirá de manera explícita el plazo que tendrán los bancos para cumplir con dicha exigencia, el que no podrá ser inferior a seis meses contados desde la publicación del citado Acuerdo.
+
+Esta Comisión fiscalizará la constitución del capital requerido a partir de su entera vigencia, en el plazo que determine el Acuerdo del Banco Central de Chile. No se exigirán cumplimientos proporcionales durante el periodo de implementación.
+
+Bajo el mismo procedimiento, el Banco Central de Chile, por acuerdo de su Consejo y con el informe previo favorable de la Comisión, determinará la desactivación del colchón contra cíclico y el plazo en que deberá materializarse.
+
+### IV. CUMPLIMIENTO DE LOS COLCHONES DE CAPITAL
+
+Para ser clasificados en nivel A de solvencia, de acuerdo con el artículo 61 de la LGB, los bancos deberán satisfacer íntegramente los colchones de capital indicados en los Títulos II y III de este Capítulo.
+
+Para efectos de calcular el capital CET1 adicional disponible para el cumplimiento de los colchones de capital, el banco deberá descontar del CET1 la fracción que utilice para cumplir con los requisitos legales establecidos en los artículos 51, 66, 66 quater y 66 quinquies de la LGB. Si los instrumentos híbridos de capital (bonos sin plazo fijo de vencimiento, acciones preferentes y bonos subordinados) y provisiones voluntarias, cubrieran solo parcialmente los requerimientos establecidos en el artículo 66, de acuerdo con las definiciones establecidas en el Capítulo 21-1 de la RAN, se descontarán los montos de CET1 utilizados para completar estos requerimientos.
+
+Así, el capital CET1 adicional disponible deberá ser calculado de acuerdo con la siguiente fórmula:
+
+.
+
+donde APRtotal son los activos ponderados por riesgo totales del banco, de acuerdo con las metodologías establecidas en los Capítulos 21-6, 21-7 y 21-8 de la RAN. Además, si se hubiese acordado el pago de dividendos por la Junta de Accionistas a la fecha de estimación, que no se hubieren pagados aún y el monto supera el provisionado para tal propósito en los estados financieros, entonces la diferencia también debe ser restada del capital CET1 adicional disponible.
+
+Para efectos de medir el cumplimiento de este Título, el colchón contra cíclico se considerará como una extensión del colchón de conservación, por lo que el "nivel requerido" al que se refiere el inciso cuarto del artículo 56 de la LGB, será equivalente a la suma de los dos colchones. De acuerdo con esto, el déficit deberá calcularse utilizando la siguiente fórmula:
+
+.
+
+Cuando el déficit en los colchones sea estrictamente mayor que cero, el reparto de utilidades del ejercicio, de acuerdo con la línea correspondiente al estado financiero consolidado auditado de diciembre del año anterior, quedará limitado según indica la siguiente tabla:
+
+.
+
+El banco deberá ser capaz de medir el cumplimiento de los colchones de capital en todo momento, sin limitarse a la información referida a la última fecha disponible de los estados financieros. Cuando un banco presente un déficit en los colchones, deberá informar al Presidente de la Comisión en el menor tiempo posible. Mientras el banco se encuentre en déficit de cumplimiento de los colchones de capital, tratados en este Capítulo, quedará prohibida la adquisición de acciones del banco por parte de sus accionistas controladores, a menos que cuenten con la autorización previa de la Comisión.
+
+Si bien las agencias de bancos extranjeros no reparten dividendos, dichas instituciones, conforme lo establece el inciso final del artículo 47 de la LGB, están facultadas para remesar al exterior sus utilidades líquidas con autorización previa de esta Comisión y con sujeción a las disposiciones legales vigentes y a las demás normas que rigen la materia. Sin embargo, a este respecto, cabe hacer presente que la autorización de este Organismo para el envío al exterior de remesas no implica de modo alguno que un banco extranjero pueda disminuir el capital radicado en el país, si con ello vulnera alguna de las proporciones del artículo 66 de la LGB así como aquellas establecidas en este Título.
+
+Los colchones están concebidos para hacer frente a situaciones de estrés idiosincrático o sistémico, construyendo resguardos en periodos de mayor toma de riesgos, y absorbiendo la materialización de éstos en periodos de estrés. Lo anterior busca aumentar la resiliencia del sistema bancario, además de mitigar el comportamiento procíclico de la banca. Entonces, los bancos deberán hacer el mayor esfuerzo de gestión de capital y costos para su restitución en caso de déficit.
+
+Por otro lado, las distribuciones que no signifiquen un perjuicio en el nivel de capital CET1 del banco, por ejemplo, el pago de dividendos en acciones liberadas de pago, no estarán sujetas a las restricciones establecidas en este Título.
+
+### V. REQUISITOS ADICIONALES DE INFORMACIÓN
+
+Los bancos deberán estimar e informar a esta Comisión el requerimiento contra cíclico internacional, según los cargos fijados por la autoridad respectiva con la que el banco mantiene una exposición. Para ello, deberá sumar el requerimiento contra cíclico aplicado por la autoridad local de cada país, incluido Chile, con la que tenga exposición, multiplicada por su peso relativo en el total de activos ponderados por riesgo de crédito, según se indica en la siguiente fórmula:
+
+.
+
+. Todas las exposiciones deben asignarse a la jurisdicción de la contraparte, ya sea este un deudor o emisor de un instrumento financiero. En el caso que una exposición tuviera más de una contraparte, ubicadas en diferentes jurisdicciones, la exposición se asignará a la jurisdicción de la contraparte con mayor participación en la exposición. En caso de poseer igual participación, se debe considerar la jurisdicción que conlleve un mayor cargo contra cíclico.
+
+. Independientemente del lugar de otorgamiento del crédito, se entenderá como la jurisdicción de la contraparte, al país donde la persona natural o jurídica tiene su domicilio u oficina registrada. En el caso de créditos a sucursales, se deberá considerar la jurisdicción de domicilio de la casa matriz.
+
+. Para el caso de las exposiciones denominadas préstamos especializados, de acuerdo con el numeral 3.8 del Capítulo 21-6 de la RAN, la jurisdicción corresponderá a la del país donde se generan los ingresos.
+
+. Para el caso de las exposiciones a instrumentos securitizados, se debe considerar la locación geográfica de los activos subyacentes.
+
+. Para el caso de exposiciones generadas por filiales o sucursales en el extranjero, el banco podrá asignar como locación geográfica la ubicación de éstas, si se cumplieran los siguientes requisitos:
+
+o i. El tamaño de la exposición es inferior al 2% de los activos totales de la filial o sucursal, según sea el caso, y
+
+o ii. El banco no puede identificar, sin incurrir en un esfuerzo desproporcionado, el país de la contraparte basado en la información interna y/o externa que posee.
+
+Los cargos contra cíclicoi corresponderán a aquellos publicados por el BCBS y vigentes a la fecha de la estimación. La fecha de implementación de los cargos contra cíclicoi será aquella que determine la autoridad de cada jurisdicción i.
+
+### VI. APLICACIÓN DE ESTA NORMA
+
+La presente norma tendrá vigencia a partir del 1 de diciembre de 2020. Los requerimientos establecidos en este Capítulo deberán considerar la situación consolidada global del banco, incluyendo todas sus filiales, así como la situación consolidada local, excluyendo las filiales en el extranjero. Las restricciones en la distribución de utilidades del ejercicio, a la que se refiere el Título IV, corresponderá al mayor déficit entre ambos niveles de consolidación.
+
+### VII. DISPOSICIONES TRANSITORIAS
+
+Sin perjuicio de la vigencia de la presente normativa a partir del 1 de diciembre de 2020, el requerimiento adicional de capital que se describe en el Título II de este Capítulo será gradual, comenzando con un 25% el 1 de diciembre de 2021, que se incrementará en el mismo porcentaje cada año, hasta alcanzar el 100% el 1 de diciembre de 2024, de acuerdo con lo indicado en la siguiente Tabla:
+
+.
+
+Durante este periodo, el cálculo del déficit que se indica en el Título IV, considerará los cargos transitorios establecidos en la Tabla anterior. La misma proporción regirá para el valor máximo del colchón contra cíclico que podrá establecerse según lo descrito en el Título III de este Capítulo.
+
+Por otro lado, la medición consolidada local a la que hace referencia el Título VI, deberá realizarse a partir del 1 de diciembre de 2022.
+
 ## Capítulo 21-13
 
 EVALUACION DE LA SUFICIENCIA DE PATRIMONIO EFECTIVO DE LOS BANCOS
@@ -21603,3 +23797,39 @@ CET1: Capital básico
 AT1: Capital de nivel 1 adicional
 
 T2: Capital de nivel 2
+
+## Capítulo 21-30
+
+RELACIÓN ENTRE EL CAPITAL BÁSICO Y LOS ACTIVOS TOTALES
+
+### I. DISPOSICIONES GENERALES
+
+### 1. Límite
+
+Según lo señalado en el artículo 66 de la Ley General de Bancos (en adelante LGB) el capital básico de un banco no podrá ser inferior al 3% de los activos totales netos de provisiones exigidas.
+
+Adicionalmente, el artículo 66 quáter de la LGB faculta a la Comisión para establecer una exigencia adicional de hasta 2,0 puntos porcentuales a los bancos calificados con calidad de sistémicos, de acuerdo a los factores y metodología que determine para dichos efectos, mediante norma de carácter general, y previo acuerdo favorable del Consejo del Banco Central de Chile.
+
+### 2. Capital básico
+
+Para el cálculo del límite al que se refiere la presente norma deberá considerarse como capital básico el capital ordinario nivel 1 (en adelante, CET1 por sus siglas en inglés) establecido en el Capítulo de esta Recopilación que regule el patrimonio para efectos legales y reglamentarios.
+
+### 3. Activos totales
+
+Los activos totales corresponderán a los activos consolidados del banco netos de provisiones exigidas, según las definiciones señaladas en el Compendio de Normas Contables (en adelante CNC), con los ajustes que se indican a continuación:
+
+a) Se restan los activos que han sido deducidos para el cálculo del CET1, según lo establezca el Capítulo de esta Recopilación que regule el patrimonio para efectos legales y reglamentarios.
+
+b) Se agregan los equivalentes de crédito de los instrumentos derivados según lo instruido en el Capítulo de esta Recopilación que establezca las metodologías para determinar la ponderación del riesgo de crédito de los activos, deduciendo el valor razonable de los activos correspondientes a estos instrumentos. Para efecto del cómputo, se podrán considerar las técnicas de mitigación del riesgo de crédito de los acuerdos de compensación bilateral, o de que disponga una Entidad de Contraparte Central a los que se refiera dicho Capítulo.
+
+c) Se agregan los montos correspondientes a las exposiciones de los créditos contingentes, calculados según lo indique el Capítulo sobre metodologías para determinar la ponderación del riesgo de crédito de los activos, menos los importes de las provisiones constituidas sobre esas operaciones.
+
+d) Se restan los activos que se generan por la intermediación de instrumentos financieros a nombre propio por cuenta de terceros, que se encuentren dentro del perímetro de consolidación del banco, según se instruya en el referido Capítulo sobre metodologías para determinar la ponderación del riesgo de crédito de los activos.
+
+### II. APLICACIÓN DE ESTA NORMA
+
+La relación del 3% deberá medirse a nivel consolidado y consolidado local. En este último caso, se excluyen las filiales ubicadas en el extranjero, debiendo entonces, determinarse el capital básico y activos totales a partir de la información financiera que no consolida con dichas filiales, según lo indicado en el Capítulo de esta Recopilación que regule el Patrimonio para efectos legales y reglamentarios.
+
+### III. DISPOSICIONES TRANSITORIAS
+
+La presente norma rige a partir del 1 de diciembre de 2020, sin perjuicio de las disposiciones transitorias del cálculo del capital regulatorio que contemple el nuevo Capítulo de esta Recopilación que regule el patrimonio para efectos legales y reglamentarios, en reemplazo del actual Capítulo 12-1, y las disposiciones transitorias del requerimiento adicional de capital para bancos de importancia sistémica, que al efecto establezca este Organismo en el Capítulo que regule los factores y metodología para calificar a los bancos de importancia sistémica.
