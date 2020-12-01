@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.006, de 6 de noviembre de 2020, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, del inmueble correspondiente a departamento Nº 302, ubicado en Calle 5 1/2 Oriente "C", Block Nº 3240, Sector "A", del Loteo de la Población Las Américas VII Etapa de Talca, Rol Avalúo Nº 1421-46 comuna Talca y sus derechos cuotativos, deslindes según plano expropiaciones, propietario aparente Valdés Villalobos María del Pilar. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Ramón Lira Montecinos, ingeniero agrónomo; y Claudia Poblete Ramírez, arquitecto, según informe de tasación evacuado con fecha 10 de diciembre de 2018, fijó monto provisional indemnización en $14.484.222.-, monto que conforme a lo dispuesto en el artículo 5º del DL 2.186 de 1978 fue reajustado a la suma de $15.208.430, pagados de contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
