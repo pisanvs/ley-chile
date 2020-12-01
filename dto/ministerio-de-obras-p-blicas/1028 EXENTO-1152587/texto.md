@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1028, de 22 de octubre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 12-B, para la obra: MEJORAMIENTO RUTA 7, SECTOR LAS PULGAS - QUEULAT - BIFURCACIÓN CISNES, que figura a nombre de FUNDACION GABRIEL Y MARY MUSTAKI, rol de avalúo 513-245, Comuna de CISNES, REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, superficie 1.400 m2. La Comisión de Peritos integrada por SERGIO JEREMIAS ORDENES SALINAS, NICOLÁS ALEJANDRO ALARCÓN SANCHÉZ y HANDY CAMPOS SEPULVEDA, mediante informe de tasación de 16 de febrero de 2019, fijó el monto de la indemnización provisional en la cantidad de $10.740.750, para el lote N°12-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
