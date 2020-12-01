@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº811, de 02 de septiembre de 2020, modificado por Decreto (Exento) MOP. Nº976, de 13 de octubre de 2020 y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.19-A y 27-B1, para la obra: "MEJORAMIENTO RUTA V-69, SECTOR RALUN - COCHAMO, COMUNA COCHAMO", que figuran a nombre de BARRIA MALDONADO CIPRIANO y BARRIA SEPULVEDA JOSE S, roles de avalúo 154-51 y 154-123, Comuna de COCHAMO, REGIÓN DE LOS LAGOS, superficies 342 y 1.212 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, PAOLA ANDREA DOMINGO PORCELLA y ANDRES ECHEVERRIA CAMPO, mediante informe de tasación de 21 de enero de 2020, fijó el monto de la indemnización provisional en la cantidad de $261.630, para el lote Nº19-A y $927.180, para el lote Nº27-B1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
