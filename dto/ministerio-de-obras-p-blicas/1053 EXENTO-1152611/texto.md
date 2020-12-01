@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1053, de 22 de octubre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 100-B2, para la obra: REPOSICION PAVIMENTO RUTA M-50 SECTOR LOS CAUQUENES - CHANCO TRAMO LOS RUILES - CHANCO, que figura a nombre de VEGA ANDAHUR LUCIA PAOLA Y OTRA, rol de avalúo 237-25, Comuna de CHANCO, REGION DEL MAULE, superficie 259 m2. La Comisión de Peritos integrada por JHANNE MEZA IBAR, PAULA GONZALEZ ORTEGA y RODRIGO SILVA LAZO, mediante informe de tasación de 09 de marzo de 2020, fijó el monto de la indemnización provisional en la cantidad de $3.092.460 para el lote N°100-B2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
