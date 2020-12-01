@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.382, de 9 de noviembre de 2020, Serviu Región del Biobío ordenó expropiación total de terreno y de edificación de un inmueble ubicado en Arrau Méndez 318 LT 1, Puerto Fuy, Rol de Avalúo N° 1128-92, comuna de Concepción, de aparente dominio de Fernández Chávez Carolina del Ca, superficie afecta a expropiación total de terreno de 87,35 m2 (Lote 61) y total de 106,80 m2 (a, 2b y c) de edificación, según Plano S8R 38.106-1, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada", comuna de Concepción, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Brogan Ulloa Pérez, constructor civil Ítalo Zerga Arancibia y por el ingeniero civil Orlando Paredes Vásquez, según informe de fecha 19.10.2020, fijó monto provisional indemnización en $64.768.891.-
+
+Director Serviu Región del Biobío.
