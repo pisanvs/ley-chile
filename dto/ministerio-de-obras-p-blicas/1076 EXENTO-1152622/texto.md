@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1076, de 29 de octubre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 3, para la obra: MEJORAMIENTO RUTA 7 SUR, SECTOR MURTA - PUERTO TRANQUILO (BAHIA MURTA - ACCESO NORTE PUERTO TRANQUILO), que figura a nombre de SANHUEZA Y MASCAREÑO LIMITADA, rol de avalúo EN TRAMITE, Comuna de RÍO IBÁÑEZ, REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, superficie 369 m2. La Comisión de Peritos integrada por JUAN ANTONIO FUENTES MANCILLA, SERGIO JEREMIAS ORDENES SALINAS y HANDY CAMPOS SEPULVEDA, mediante informe de tasación de 30 de septiembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $2.475.200, para el lote Nº3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
