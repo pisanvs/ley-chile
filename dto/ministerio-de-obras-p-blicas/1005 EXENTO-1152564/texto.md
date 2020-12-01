@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1005, de 22 de octubre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.422 y 423, para la obra: REPOSICION PAVIMENTO RUTA L-111-11, SECTOR COLBUN-PANIMAVIDA- LINARES, que figura a nombre de ORELLANA ARAVENA ILIANA y PALACIOS SUAZO MARGARITA DEL CAR Y, roles de avalúo 547-13 y 547-11, Comuna de LINARES, REGION DEL MAULE, superficies 33 y 64 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 09 de octubre de 2019, fijó el monto de la indemnización provisional en la cantidad de $10.663.500 para el lote N°422, y $1.229.900 para el lote N°423. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
