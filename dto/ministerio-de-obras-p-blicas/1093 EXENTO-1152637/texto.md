@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 1093, de 29 de octubre de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 48, Rol de avalúo 274-506, Comuna de San Javier, superficie 2.421 m2., para la obra: MEJORAMIENTO RUTA L-32, SECTOR PUENTE MARIMAURA - CRUCE RUTA 126, COMUNA DE SAN JAVIER, PROVINCIA DE LINARES, REGIÓN DEL MAULE. La comisión de peritos, integrada por ALICIA BÁRBARA FLORES PACHECO, GABRIEL ANTONIO PANTOJA RIVERA y RODRIGO ANTONIO SILVA LAZO, fijó el valor de tasación con fecha 28 de octubre de 2019, acordándose la indemnización con su propietario CÉSAR ALBERTO NORAMBUENA ARAVENA, en la cantidad total de $99.771.026.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
