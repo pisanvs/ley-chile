@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.381, de 09 de noviembre de 2020, Serviu Región del Biobío ordenó expropiación total de un inmueble ubicado en calle Arrau Méndez 324 LT 2 Pto. Fuy, Rol de Avalúo Nº 1128-93, comuna de Concepción, de aparente dominio de Ulloa Torres René Hernán, en una superficie de 78,58 m2 de terreno y 122,96 m2 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-38.107-1, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción", comuna de Concepción", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Brogan Ulloa Pérez, por constructor civil Ítalo Zerga Arancibia y por ingeniero civil Orlando Paredes Vásquez, según informe de fecha 19 de octubre de 2020, fijó monto provisional indemnización en $68.587.307, pagadera de contado.-
+
+Director Serviu Región del Biobío.
