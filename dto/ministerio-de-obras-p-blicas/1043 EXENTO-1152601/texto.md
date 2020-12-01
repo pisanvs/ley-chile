@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1043, de 22 de octubre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.30 y 31, para la obra: AMPLIACION RUTA H-27 CARRETERA EL COBRE, que figura a nombre de 4 VIENTOS SPA y 4 VIENTOS SPA, roles de avalúo 102-547 y 102-549, Comuna de MACHALI, REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficies 466 y 453 m2 respectivamente. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMAN THEODULOZ, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y PATRICIA VERONICA ZAVALA CONTRERAS, mediante informe de tasación de 29 de abril de 2019, fijó el monto de la indemnización provisional en la cantidad de $17.262.000 para el lote Nº30, y $16.716.000 para el lote Nº31. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
