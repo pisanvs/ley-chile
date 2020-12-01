@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.408 del 11 de noviembre de 2020, Serviu Región del Biobío ordenó la expropiación parcial de terreno y total de edificación del inmueble ubicado en Stgo. Aldea Nº 70, Rol de Avalúo Nº 1163-34, comuna de Concepción, de aparente dominio de Suc. Quiroga Cerro Nicolás Suc. La superficie afecta expropiación parcial de terreno de 60,42 m2 (lote 45) y de 43,25 m2 de expropiación total de edificación (a y b), conforme a plano de expropiación S8R 38.104-1 del mes de agosto de 2020, para la ejecución del Proyecto "Mejoramiento Paso Sobre Nivel Esmeralda y Vialidad Asociada, Concepción" comuna de Concepción, conforme artículo 51 ley 16.391 y DL 2.186. Comisión de peritos, integrada por el Arquitecto Rodrigo Alexis Escobar Fernández, por el ingeniero civil Carlos Alberto Montecinos Galleguillos y por el arquitecto Rubén Carlos Muñoz Vera, según informe de fecha 26.10.2020, fijó el monto de la indemnización provisional en $14.263.688.- pagadero de contado.-
+
+Director Serviu Región del Biobío.
