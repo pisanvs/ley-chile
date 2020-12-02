@@ -2134,4 +2134,50 @@ de emergencia para la
 
 atención de éstas.
 
+1510 Servicio de atención La atención de llamadas
+
+de Incidentes de atendidas por personal
+
+Seguridad Informática. del Equipo de Respuesta
+
+ante Incidentes de
+
+Seguridad Informática
+
+o CSIRT, del Ministerio
+
+del Interior y
+
+Seguridad Pública,
+
+respecto de situaciones
+
+de seguridad
+
+informática del
+
+gobierno y en el país,
+
+para que dicho
+
+equipo adopte en
+
+forma rápida, eficaz
+
+y ordenada las medidas
+
+necesarias para
+
+contener, mitigar y
+
+contrarrestar las
+
+emergencias
+
+relacionadas con
+
+plataformas
+
+tecnológicas.
+
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
