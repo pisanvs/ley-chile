@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 2.441 EXENTA, DE 15 DE OCTUBRE DE 2020
+
+Mediante resolución exenta N° 2.441, de 15 de octubre de 2020, el Servicio Nacional de Capacitación y Empleo declara el cese, a contar del 11 de abril de 2020, de la inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "Otec Learning Class SpA (Organismo Técnico de Capacitación Learning Class Christian André Almizry Botel Empresa Individual de Responsabilidad Limitada)", RUT 76.329.895-7, contenida en la resolución exenta N° 2.554, de 16 de mayo de 2014, por cuanto dejó de cumplir con el requisito establecido en el N° 2, del Art. 21 de la ley 19.518.
+
+Santiago, 15 de octubre de 2020.- Andrea del Carmen Contreras Cuellar, Jefe del Departamento de Desarrollo y Regulación de Mercado, Servicio Nacional de Capacitación y Empleo.
