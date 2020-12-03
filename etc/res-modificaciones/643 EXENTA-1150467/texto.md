@@ -62,7 +62,7 @@ b) Reemplácese el resuelvo 4, letra e). por lo siguiente:
 
 2.- Tratándose de condominios de viviendas económicas, podrá darse por satisfecho el requisito establecido en el artículo 92 del DS Nº 27 (V. y U.), de 2016, cuando se constate el acuerdo por escrito de a lo menos el 75% de los derechos en el condominio respecto a la aprobación, únicamente, de los proyectos de mejoramiento a postular al Programa. Lo anterior, debido a que la ley Nº 19.537 sobre Copropiedad Inmobiliaria, exige la aprobación de proyectos de alteración o ampliación mediante Asamblea Extraordinaria.".
 
-c) Establézcase que conforme a lo señalado en la Res. Ex. Nº 1.252 (V. y U.), de fecha 20.08.2020, eximición del plazo para la acreditación del ahorro establecido en el artículo 15 del DS Nº 27 (V. y U.), de 2016, por lo que el postulante o la comunidad de copropietarios deberán acreditar el ahorro a más tardar el 20.11.2020.
+c) Establézcase que conforme a lo señalado en la Res. Ex. Nº 1.252 (V. y U.), de fecha 20.08.2020, eximición del plazo para la acreditación del ahorro establecido en el artículo 15 del DS Nº 27 (V. y U.), de 2016, por lo que el postulante o la comunidad de copropietarios deberán acreditar el ahorro a más tardar 10.12.2020.
 
 d) Téngase presente que los procesos de certificación y postulación establecidos en los artículos 89 y 27, respectivamente del DS Nº 27 (V. y U.), de 2016, deberán operar de manera manual, en concordancia con lo dispuesto en los ordinarios Nº 286 y Nº 292, citados en los vistos del presente acto del Jefe del Departamento de Atención Cualitativo de la División de Política Habitacional del Minvu.
 
