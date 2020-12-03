@@ -20,41 +20,31 @@ Decreto:
 
 1º.- Constitúyase una Comisión Asesora para la Revisión y Actualización del Reglamento Sanitario de los Alimentos, aprobado por decreto supremo Nº 977, de 1996, del Ministerio de Salud, la que tendrá el carácter de asesor de este Ministerio en la evaluación, formulación y actualización de la normativa sanitaria en materia de alimentos.
 
-2º.- La Comisión Asesora para la Revisión y Actualización del Reglamento Sanitario de los Alimentos, en adelante "la comisión asesora o comité asesor", estará integrada por representantes de las siguientes Instituciones u organizaciones:
+2º.- La Comisión Asesora para la Revisión y Actualización del Reglamento Sanitario de los Alimentos, en adelante "La comisión asesora" o "comité asesor", estará integrado por representantes de los siguientes estamentos, instituciones u organizaciones:
 
-a) Del Departamento de Alimentos y Nutrición del Ministerio de Salud: su Jefe/a, quien lo presidirá; un/a Secretario/a Ejecutivo/a y 2 profesionales, uno del área de Inocuidad y otro del área de Nutrición, designados por la jefatura del mismo Departamento.
+a) Del Departamento de Alimentos y Nutrición del Ministerio de Salud: su Jefe/a, quien lo presidirá; un/a Secretario/a Ejecutivo/a y dos profesionales, uno del área de Inocuidad y otro del área de Nutrición, designados por la jefatura del mismo Departamento.
 
-b) Un/a abogado/a de la División Jurídica del Ministerio de Salud, designado(a) por la jefatura de dicha División.
+b) Un representante de la Subsecretaría de Economía y Empresas de Menor Tamaño, del Ministerio de Economía, Fomento y Turismo, designado por su Subsecretario/a.
 
-c) Un/a representante de la SEREMI de Salud de la Región Metropolitana, designado por su Secretario Regional Ministerial.
+c) Dos representantes de las universidades pertenecientes al Consejo de Rectores, designados por su Presidente.
 
-d) Un/a representante de la SEREMI de Salud de la Región de Valparaíso, designado por su Secretario Regional Ministerial.
+d) Dos representantes de la Sociedad de Fomento Fabril, designados por su Presidente.
 
-e) Un/a representante del Instituto de Salud Pública de Chile, designado por su Director.
+e) Un representante de la Confederación Nacional de la Pequeña y Mediana Empresa de Chile (Conapyme), designado por su Presidente.
 
-f) Un/a representante del Servicio Nacional del Consumidor, designado por su Director.
+f) Un representante de la Asociación de Supermercados de Chile, designado por su Presidente.
 
-g) Dos representantes de las Universidades pertenecientes al Consejo de Rectores, designados por su Presidente.
+g) Un representante de la Corporación Nacional de Consumidores y Usuarios (Conadecus), designado por su Presidente.
 
-h) Un/a representante del Instituto de Nutrición y Tecnología de los Alimentos, designado por su Director.
+h) Un representante de la Organización de Consumidores y Usuarios de Chile (Odecu), designado por su Presidente.
 
-i) Tres representantes de la Sociedad de Fomento Fabril: Uno, en representación institucional, y dos en representación de sus asociaciones gremiales, designados por su Presidente.
+i) Un representante de la Agencia Chilena para la Calidad e Inocuidad de los Alimentos, designado por su Secretario/a Ejecutivo/a.
 
-j) Un/a representante de la Corporación Nacional de Consumidores y Usuarios (CONADECUS) y un/a representante de la Organización de Consumidores y Usuarios de Chile (ODECU), ambos designados por sus respectivos Presidentes.
+j) Un representante del Servicio Agrícola y Ganadero, designado por su Director/a.
 
-k) Un/a representante de la Confederación Gremial Nacional Unida de la Mediana, Pequeña, Microempresa, Servicios y Artesanado de Chile (CONUPIA), designado por su Presidente.
+k) Un representante de la Subsecretaría de Relaciones Económicas Internacionales, del Ministerio de Relaciones Exteriores, designado por su Subsecretario/a.
 
-l) Un/a representante de la Asociación de Supermercados de Chile, designado por su Presidente.
-
-m) Un/a representante de la Agencia Chilena para la Calidad e Inocuidad de los Alimentos, designado por su Director.
-
-n) Un/a representante del Servicio Agrícola y Ganadero, designado por su Director.
-
-o) Un/a representante de la Dirección de Asuntos Económicos Bilaterales, DIRECON, del Ministerio de Relaciones Exteriores, designado por su Director.
-
-p) Un/a representante de la Sociedad Chilena de Microbiología e Higiene de los Alimentos, designado por su Presidente.
-
-q) Un/a representante de la Sociedad Chilena de Nutrición, designado por su Presidente.
+l) Un representante de la Corporación de Fomento de la Producción (Corfo), designado por su Vicepresidente Ejecutivo.
 
 3º.- Para lograr continuidad en el trabajo desarrollado por el presente comité, cada Institución u organismo nombrará un representante titular y, en ausencia de éste, otro que lo reemplace. Estas designaciones se notificarán por escrito al Secretario Ejecutivo del referido comité.
 
@@ -80,7 +70,7 @@ c) Considerar la factibilidad técnica y de control.
 
 d) Considerar aspectos comerciales y económicos, especialmente los compromisos internacionales adquiridos por Chile.
 
-f) Privilegiar el consenso para la recomendación de las modificaciones al Reglamento Sanitario de los Alimentos.
+f) Uso de lenguaje claro en la redacción de las modificaciones al reglamento, conforme a los lineamientos del Consejo para la Transparencia.
 
 7º.- El funcionamiento y los procedimientos operativos de este comité asesor se fijarán mediante una resolución del Ministro de Salud que se publicará en su página web institucional (www.minsal.cl).
 
