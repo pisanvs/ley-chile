@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 2.426 EXENTA, DE 13 DE OCTUBRE DE 2020
+
+Mediante resolución exenta N° 2.426, de 13 de octubre de 2020, el Servicio Nacional de Capacitación y Empleo declara el cese, a contar del 6 de abril de 2020, de la inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "Centro Regional de Formación y Capacitación Integral Limitada" (Centro Regional de Formación y Capacitación Integral Limitada), RUT: 76.158.037-K, contenida en la resolución exenta N° 2.039, de fecha 27 de abril de 2014, por cuanto dejó de cumplir con el requisito establecido en el N° 2 del Art. 21 de la ley 19.518.
+
+Santiago, 13 de octubre de 2020.- Andrea del Carmen Contreras Cuellar, Jefe de Departamento de Desarrollo y Regulación Mercado, Servicio Nacional de Capacitación y Empleo.
