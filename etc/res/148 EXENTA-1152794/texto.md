@@ -1,0 +1,3 @@
+DESIGNA SECRETARIOS TITULARES Y SUPLENTES EN LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA Y SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE COPIAPÓ
+
+Por resolución Ex. SII N° 148, del 27 de noviembre de 2020, se designó a Pamela Eugenia Rojas Rojas, RUT 12.445.010-1, en el cargo de Secretario Titular y a don Héctor Jesús Vásquez Arancibia, RUT 9.895.135-0, en la calidad de Secretario Suplente, ambos en los Tribunales Especiales de Alzada de los Bienes Raíces de la Primera y Segunda Serie, con Jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Copiapó.
