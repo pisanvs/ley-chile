@@ -82,7 +82,7 @@ Déjase constancia que la medida de este numeral comenzó a regir a las 05:00 ho
 
 Sin perjuicio de lo dispuesto precedentemente, todos los residentes de los Establecimientos que se encuentren emplazados en localidades que estén en los Pasos 2, 3 y 4 de los que trata el Capítulo II de esta resolución, podrán recibir 2 personas como visitantes, dos veces a la semana.
 
-Asimismo, los residentes de los Establecimientos, que se encuentren en el supuesto señalado en el párrafo anterior, podrán salir de estos, dos veces a la semana, hasta un radio de 200 metros a la redonda durante dos horas cada vez.
+Asimismo, los residentes de los Establecimientos, que se encuentren en el supuesto señalado en el párrafo anterior, podrán salir de estos, todos los días de la semana, hasta un radio de 200 metros a la redonda durante dos horas cada vez.
 
 Se permitirá, asimismo, el ingreso de nuevos residentes a los Establecimientos ubicados en localidades que se encuentren en los Pasos 2, 3, 4 y 5 de los que trata en Capítulo II de esta resolución.
 
@@ -284,6 +284,14 @@ La Subsecretaría del Interior podrá autorizar actividades o eventos deportivos
 
 En el caso del fútbol profesional, se deberá contar con un permiso, otorgado por el Departamento de Estadio Seguro del Ministerio de Interior y Seguridad Pública, para la utilización del estadio que corresponda. Para estos efectos, deberá contar con la autorización previa de la Secretaría Regional Ministerial de Salud que corresponda, en la que se dé cuenta del cumplimiento de las condiciones sanitarias exigidas y el máximo de aforo del estadio.
 
+Sin perjuicio de lo dispuesto precedentemente, en las localidades que se encuentren en los Pasos 3 y 4 de los que trata el Capítulo II de esta resolución, deberán observarse las siguientes reglas en el caso de aquellas actividades que se realicen en lugares cerrados:
+
+a. No está permitido el uso de camarines o lugares cerrados que no sean absolutamente esenciales para la adecuada práctica de las actividades deportivas del lugar. Se permite el uso de casilleros con distanciamiento mínimo de un metro entre ellos.
+
+b. Se deberán establecer horarios de atención diferenciados en cada sala. Cada asistente podrá permanecer máximo 1 hora en el gimnasio, período en el cual sólo podrá hacer uso de una sala de máquinas o asistir a una clase grupal. Entre cada turno de una sala, ésta se deberá limpiar y desinfectar, y ventilar por 15 minutos, periodo en el cual las demás salas podrán seguir operando.
+
+c. En el caso de gimnasios, la distancia entre las máquinas de ejercicios deberá ser de un mínimo de 2 metros entre sus respectivos asientos o, en su defecto, entre el espacio donde se ubican las personas para su uso.
+
 Esta medida tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
 
 41. Prohíbase la atención de público en los restaurantes, cafés y análogos, los que solo podrán expedir alimentos para llevar.
@@ -292,9 +300,9 @@ Déjase constancia que esta medida se encuentra vigente desde el día 15 de mayo
 
 42. Dispóngase la suspensión presencial de las clases en todos los establecimientos de educación parvularia, básica y media, pudiendo continuar la prestación del servicio educacional de manera remota, conforme a los criterios que establezca el Ministerio de Educación, hasta que las condiciones sanitarias permitan el levantamiento de esta medida.
 
-Sin perjuicio de lo dispuesto precedentemente, la Secretaría Regional Ministerial de Educación respectiva podrá levantar individualmente esta medida por establecimientos, niveles o cursos. Para ello, el Ministerio de Salud informará previamente la factibilidad sanitaria de esta medida y entregará al Ministerio de Educación la normativa, instrucciones y protocolos emitidos por el Ministerio de Salud con el objeto de asegurar las condiciones sanitarias de los establecimientos. Asimismo, la Secretaría Regional Ministerial de Salud correspondiente supervisará el cumplimiento de dicha normativa.
+Sin perjuicio de lo dispuesto precedentemente, en las localidades que se encuentren en los Pasos 3, 4 y 5 de los que trata el Capítulo II de esta resolución, se permite el funcionamiento de los establecimientos de educación parvularia, básica y media, previa autorización de reanudación de clases presenciales por la Secretaría Regional Ministerial de Educación correspondiente, debiendo cumplirse con la normativa, instrucciones y protocolos emitidos por el Ministerio de Salud, con el objeto de asegurar las condiciones sanitarias de los establecimientos educacionales. Si una localidad retrocede al Paso 2 del que trata el Capítulo II de esta resolución, se mantendrá la autorización de la que trata este párrafo.
 
-43. Prohíbase la recalada en todos los puertos chilenos de cruceros de pasajeros. Déjase constancia que la medida de este numeral comenzó a regir desde el día 15 de marzo y será aplicada hasta el 1º de diciembre de 2020, pudiendo prorrogarse si lo hacen necesarias las condiciones epidemiológicas.
+43. Prohíbase la recalada en todos los puertos chilenos de cruceros de pasajeros. Déjase constancia que la medida de este numeral comenzó a regir desde el día 15 de marzo de 2020 y será aplicada hasta el 1º de marzo de 2021, pudiendo prorrogarse si lo hacen necesarias las condiciones epidemiológicas.
 
 43. Bis. Dispóngase que los buses de transporte público de pasajeros que presten servicio interurbano y entre regiones deberán confeccionar y portar una nómina de los pasajeros que transportan. Dicha obligación será exigible en aquellos viajes cuya duración exceda las 2 horas.
 
@@ -312,7 +320,7 @@ Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir 
 
 Déjase constancia que esta medida comenzó a regir el día 24 de marzo de 2020 a las 22:00 horas, y tendrá el carácter de indefinida, hasta que las condiciones epidemiológicas permitan su suspensión.
 
-Lo dispuesto en el párrafo primero de este numeral no aplicará a los habitantes de localidades que se encuentren en los Pasos 3, 4 y 5, en conformidad con el Capítulo II de la presente resolución y que se desplacen entre localidades que estén en los Pasos 3, 4 y 5. Con todo, quienes se desplacen entre las señaladas localidades deberán contar con sus pasaportes sanitarios y con el permiso correspondiente otorgado en virtud del Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 25.535, de 20 de octubre de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+Lo dispuesto en el párrafo primero de este numeral no aplicará a los habitantes de localidades que se encuentren en los Pasos 3, 4 y 5, en conformidad con el Capítulo II de la presente resolución y que se desplacen entre localidades que estén en los Pasos 3, 4 y 5. Con todo, quienes se desplacen entre las señaladas localidades deberán contar con sus pasaportes sanitarios.
 
 44 bis. Se autoriza la realización de oficios, ritos, seminarios y ceremonias en las localidades que se encuentren en Paso 2, 3, 4 o 5, sujeto a las siguientes reglas:
 
@@ -434,11 +442,17 @@ b. Se permiten visitas de vínculos significativos de los niños, niñas y adole
 
 Un recinto podrá albergar más de un evento o actividad social y recreativa en simultáneo, siempre que cuente con muros u otras barreras físicas que aíslen todas las instalaciones requeridas por cada evento o actividad. Asimismo, deberán establecerse ingresos y salidas separadas para cada evento o actividad, ya sea en tiempo o espacio. Cada uno de estos eventos por separado estará sujeto al aforo máximo dispuesto en el párrafo precedente.
 
-64. Se autorizan las actividades deportivas en lugares públicos y privados. Para aquellas actividades que sean de naturaleza colectiva, podrán concentrarse un máximo de 25 personas en lugares abiertos. Estas actividades solo podrán realizarse en lugares abiertos.
+64. Se autorizan las actividades deportivas en lugares públicos y privados, incluyendo el funcionamiento de gimnasios abiertos al público.
 
-Las actividades señaladas en este numeral no podrán contar con público. No está permitido el uso de camarines o lugares cerrados que no sean absolutamente esenciales para el adecuado funcionamiento de las actividades deportivas del establecimiento.
+Las actividades señaladas en este numeral no podrán contar con público.
 
-Asimismo, podrán realizar actividades deportivas aquellas personas que cuentan con la autorización a la que hace referencia el numeral 40 el Capítulo I.
+Podrán concentrarse un máximo de 25 personas en lugares abiertos.
+
+En el caso de aquellas actividades que se realicen en lugares cerrados, además de lo dispuesto en el párrafo quinto del numeral 40, no podrá haber más de 5 personas en cada sala simultáneamente, quienes deberán mantener, al menos, 2 metros de distancia entre ellas.
+
+Además, deberá existir ventilación permanente y adecuada. Para ello, el espacio debe contar con, al menos, una ventana o puerta que permita la entrada de aire desde el exterior, cuyo tamaño mínimo sea equivalente al 10% de toda el área utilizada por los usuarios. Las puertas y ventanas destinadas a ventilación deberán mantenerse abiertas y libres de obstrucciones durante todo el funcionamiento del recinto. Se prohíbe el uso de ventilación forzada y sistemas de aire acondicionado.
+
+Asimismo, podrán realizar actividades deportivas aquellas personas que cuentan con la autorización a la que hace referencia el numeral 40 del Capítulo I.
 
 64 bis. En los centros dependientes del Servicio Nacional de Menores, tanto de administración directa como en los organismos colaboradores, se observarán las siguientes reglas:
 
@@ -468,19 +482,13 @@ d. Debe existir una ventilación permanente y adecuada. Para estos efectos, se e
 
 Un recinto podrá albergar más de un evento o actividad social y recreativa en simultáneo, siempre que cuente con muros u otras barreras físicas que aíslen todas las instalaciones requeridas por cada evento o actividad. Asimismo, deberán establecerse ingresos y salidas separadas para cada evento o actividad, ya sea en tiempo o espacio. Cada uno de estos eventos por separado estará sujeto al aforo máximo dispuesto en el párrafo precedente.
 
-67. Se autorizan las actividades deportivas en lugares públicos y privados, incluyendo el funcionamiento de gimnasios abiertos al público. Podrán concentrarse un máximo de 10 personas en lugares cerrados y, para aquellas actividades que sean de naturaleza colectiva, 50 personas en lugares abiertos.
+67. Se autorizan las actividades deportivas en lugares públicos y privados, incluyendo el funcionamiento de gimnasios abiertos al público.
 
 Las actividades señaladas en este numeral no podrán contar con público.
 
-En el caso de aquellas actividades que se realicen en lugares cerrados, deberán observarse las siguientes reglas:
+Podrán concentrarse un máximo de 50 personas en lugares abiertos.
 
-a. No está permitido el uso de camarines ni lugares cerrados que no sean absolutamente esenciales para la adecuada práctica de las actividades deportivas.
-
-b. No podrá haber más de 10 personas en cada sala simultáneamente, que deberán mantener, al menos 2 metros de distancia entre ellas.
-
-c. La estadía máxima de los usuarios no debe exceder una hora. Para el cumplimiento de esto, el recinto establecerá franjas de una hora para el ingreso de los clientes. Una vez cumplido este tiempo, el espacio deberá ser sanitizado y ventilado por 15 minutos. Una vez que hayan transcurrido los señalados 15 minutos, podrá entrar un nuevo grupo durante una franja de una hora y así sucesivamente.
-
-d. En el caso de gimnasios, la distancia entre las máquinas de ejercicios deberá ser de un mínimo de 2 metros entre ellas.
+En el caso de aquellas actividades que se realicen en lugares cerrados, además de lo dispuesto en el párrafo quinto del numeral 40, no podrá haber más de 10 personas en cada sala simultáneamente, quienes deberán mantener, al menos, 2 metros de distancia entre ellas.
 
 Asimismo, podrán realizar actividades deportivas aquellas personas que cuentan con la autorización a la que hace referencia el numeral 40 del Capítulo I.
 
@@ -490,7 +498,7 @@ Asimismo, podrán realizar actividades deportivas aquellas personas que cuentan 
 
 69. Se permite la atención de público en restaurantes, cafés y análogos, hasta el 50% de su capacidad o guardando una distancia mínima de dos metros lineales entre mesas.
 
-69 bis. Se permite el funcionamiento de los establecimientos de educación parvularia, básica y media, previa autorización de reanudación de clases presenciales de la Secretaría Regional Ministerial de Educación correspondiente, debiendo cumplirse con la normativa, instrucciones y protocolos emitidos por el Ministerio de Salud, con el objeto de asegurar las condiciones sanitarias de los establecimientos educacionales.
+69 bis. Eliminado.
 
 69 ter. En los centros dependientes del Servicio Nacional de Menores, tanto de administración directa como en los organismos colaboradores, se observarán las siguientes reglas:
 
@@ -542,7 +550,7 @@ i. Eliminado.
 
 j. Se permitirá el funcionamiento de los clubes y uniones comunales de adultos mayores que estén emplazados en localidades que se encuentren este paso.
 
-k. Se permite el funcionamiento de los establecimientos de educación parvularia, básica y media, previa autorización de reanudación de clases presenciales de la Secretaría Regional Ministerial de Educación correspondiente, debiendo cumplirse con la normativa, instrucciones y protocolos emitidos por el Ministerio de Salud, con el objeto de asegurar las condiciones sanitarias de los establecimientos educacionales.
+k. Eliminado.
 
 CAPÍTULO III. DISPOSICIONES FINALES
 
