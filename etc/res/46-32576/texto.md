@@ -134,7 +134,7 @@ El Ministerio de Transportes y Telecomunicaciones establecerá, por resolución,
 
 #### Artículo 3º bis
 
-Para los efectos de la acreditación señalada en el artículo 3º anterior, los fabricantes o proveedores de taxímetros, en adelante "el solicitante", deberán presentar la solicitud ante el Ministerio de Transportes y Telecomunicaciones, utilizando para ello el formato que se señala en el Anexo A de la presente resolución, acompañando los siguientes antecedentes y/o elementos:
+Para los efectos de la acreditación señalada en el artículo 3º anterior, los fabricantes o proveedores de taxímetros, en adelante "el solicitante", deberán presentar una solicitud ante el Ministerio de Transportes y Telecomunicaciones mediante la plataforma electrónica de trámites de la Subsecretaría de Transportes disponible en portal web https://www.mtt.gob.cl/portaldetramites, o presencialmente utilizando para ello el formato que se señala en el Anexo A de la presente resolución, y que podrá ser descargado de dicho portal. A la solicitud deberán acompañarse los siguientes antecedentes y/o elementos:
 
 a. Informe Técnico descriptivo que incluya, a lo menos, lo siguiente:
 
@@ -154,7 +154,7 @@ vii. Requisitos y procedimientos de instalación y calibración del taxímetro e
 
 viii. Fotografías del taxímetro que muestren las caras externas del mismo y que permitan apreciar los detalles de las mismas, indicando claramente aquella parte del taxímetro que permite la colocación del sello por parte de la autoridad a que se refiere el numeral 1 del artículo 1º.
 
-ix. Listado del programa computacional utilizado en el taxímetro, impreso en un lenguaje fuente leíble, con una copia en formato electrónico del mismo y documentado con un diagrama de flujo y otros antecedentes que aclaren su funcionamiento.
+ix. Diagramas de flujo de cada uno de los procesos y subprocesos que ejecuta el taxímetro, complementados con los antecedentes necesarios para entender su funcionamiento. A la vez, el listado del programa computacional utilizado en el taxímetro, impreso en un lenguaje fuente leíble, junto con una copia en formato electrónico del mismo, deberán estar a disposición del Ministerio y en las oficinas de quien solicite la acreditación, en caso de ser requerido.
 
 x. Muestra del comprobante o boleto que emite el taxímetro.
 
@@ -174,7 +174,7 @@ xvii. Descripción técnica de cumplimiento de cada requisito establecido en el 
 
 b. Manual del usuario.
 
-c. Un taxímetro completo, que se utilizará para verificar físicamente las características de diseño y componentes internos declarados en el informe técnico señalado en la letra a. anterior.
+c. Un taxímetro completo, que se utilizará para verificar físicamente las características de diseño y componentes internos declarados en el informe técnico señalado en la letra a. anterior. Tratándose de solicitudes ingresadas a través de la plataforma electrónica de trámites de la Subsecretaría de Transportes, el taxímetro deberá acompañarse en el lugar y dentro del horario que se señala en el inciso final del presente artículo, computándose sólo a partir de su presentación, el plazo a que se refiere el inciso siguiente.
 
 En un plazo no superior a 10 días hábiles, contados desde la fecha de recepción de la solicitud, el Ministerio de Transportes y Telecomunicaciones emitirá un pronunciamiento respecto de los antecedentes presentados. De no existir observaciones, se comunicará la fecha en que el solicitante deberá presentar un segundo taxímetro, instalado en un vehículo del tipo taxi, para su verificación operacional. De haber observaciones, la verificación aludida se realizará una vez subsanadas éstas.
 
@@ -182,7 +182,7 @@ Para la verificación operacional será requerido que el vehículo sea conducido
 
 En el evento que el modelo de taxímetro cumpla con todas las características y especificaciones técnicas descritas en la presente resolución, el Ministerio de Transportes y Telecomunicaciones procederá a dictar la resolución que establece el artículo 3º anterior.".
 
-El horario de recepción de las solicitudes será de 9:00 a 14:00 hrs., de lunes a viernes (en días hábiles), en las dependencias ubicadas en calle Vicente Reyes Nº 198, comuna de Maipú, ciudad de Santiago, Chile.
+El horario de recepción de solicitudes presenciales, y antecedentes o elementos relacionados será de 9:00 a 14:00 horas, de lunes a viernes (en días hábiles), en las dependencias ubicadas en calle Vicente Reyes Nº 198, comuna de Maipú, ciudad de Santiago, Chile.
 
 #### Artículo 4º
 
