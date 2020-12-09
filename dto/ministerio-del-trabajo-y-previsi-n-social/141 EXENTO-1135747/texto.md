@@ -46,13 +46,11 @@ Segundo: Déjese establecido que esta subrogación regirá para todas las region
 
 ### II. Región del Libertador General Bernardo O'Higgins, cuyo orden de subrogación será el siguiente:
 
-1) Director(a) Regional del Servicio Nacional de Capacitación y Empleo
+1) Director Regional del Trabajo.
 
-2) Director(a) Regional del Instituto de Seguridad Laboral
+2) Director Regional del Instituto de Seguridad Laboral.
 
-3) Director(a) Regional de la Dirección del Trabajo
-
-4) Director(a) Regional del Instituto de Previsión Social.
+3) Director Regional del Servicio Nacional de Capacitación y Empleo.
 
 ### III. Región del Maule, cuyo orden de subrogación será el siguiente:
 
@@ -87,6 +85,18 @@ Segundo: Déjese establecido que esta subrogación regirá para todas las region
 4) Director(a) Regional del Instituto de Previsión Social.
 
 5) Administrador(a) de la Unidad de Crédito de la Dirección General del Crédito Prendario.
+
+### VI. Región del Biobío, cuyo orden de subrogación será el siguiente:
+
+1) Director(a) Regional del Trabajo.
+
+2) Administrador(a) de la Unidad de Crédito de la Dirección General del Crédito Prendario.
+
+3) Director(a) Regional del Instituto de Seguridad Laboral, ISL.
+
+4) Director(a) Regional del Instituto de Previsión Social, IPS.
+
+5) Director(a) Regional del Servicio Nacional de Capacitación y Empleo, SENCE.
 
 Tercero: Deróganse los decretos exentos Nº 10, de 16 de enero de 2017; Nº 300, de 5 de diciembre de 2018; Nº 47, de 14 de marzo de 2019, y Nº 52, de 3 de abril de 2019, todos del Ministerio del Trabajo y Previsión Social.
 
