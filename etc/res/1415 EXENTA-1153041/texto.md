@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.415 EXENTA, DE 20 DE NOVIEMBRE DE 2020
+
+Mediante resolución exenta Nº 1.415, de fecha 20 de noviembre de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Antofagasta, se autorizó a la Escuela de Conductores Profesionales denominada Automóvil Club de Chile Limitada, RUT Nº 77.323.230-K, domiciliada en Avenida Ecuador N°1869, comuna de Calama, cuyo representante legal es Juan Carlos Jerez Guirao, cédula de identidad N°24.690.667-K, cuyos planes y programas fueron autorizados mediante resolución exenta Nº145, de 2000 y resoluciones exentas Nº 702, de 2018 y Nº 222, de 2019, todas de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones; a impartir los cursos conducentes a la obtención de la Licencia de Conductor Profesional Clases A-2, A-3, A-4 y A-5 regulares y Clases A-3 y A-5 a través del uso de simuladores de inmersión total, en la modalidad e-learning, ambos bajo el formato de ejecución sincrónico.-
+
+Juan Enrique Jara Opazo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Antofagasta.
