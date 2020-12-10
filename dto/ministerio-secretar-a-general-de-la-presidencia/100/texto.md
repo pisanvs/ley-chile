@@ -2090,15 +2090,17 @@ Mientras no asuman los primeros gobernadores regionales electos, a los cargos de
 
 VIGÉSIMO NOVENA. Reglas especiales para la elección de representantes a la Convención Mixta Constitucional o Convención Constitucional.
 
-De las listas de independientes. Para la elección de los integrantes de la Convención Mixta Constitucional o Convención Constitucional se podrán presentar listas de candidatos independientes, las que se regirán por las siguientes reglas:
+De las listas de independientes. Para la elección de los integrantes de la Convención Mixta Constitucional o Convención Constitucional se podrán presentar listas de candidatos independientes o independientes fuera de lista, que se regirán por las siguientes reglas:
+
+Para declarar sus candidaturas, los candidatos y candidatas independientes fuera de lista requerirán el patrocinio de un número de ciudadanos independientes igual o superior al 0,2 por ciento de los electores que hubiesen sufragado en el respectivo distrito electoral en la anterior elección periódica de diputados, de acuerdo con el escrutinio general realizado por el Tribunal Calificador de Elecciones, a menos que dicho porcentaje de electores en un distrito electoral sea menor a 300, en cuyo caso se requerirá el patrocinio de 300 ciudadanos independientes.
 
 Dos o más candidatos independientes podrán constituir una lista electoral. Esta lista regirá exclusivamente en el distrito electoral en el que los candidatos independientes declaren sus candidaturas.
 
-Las listas electorales de candidaturas independientes podrán presentar, en cada distrito, hasta un máximo de candidaturas equivalente al número inmediatamente siguiente al número de Convencionales Constituyentes que corresponda elegir en el distrito de que se trate.
-
-La declaración e inscripción de esta lista estará sujeta a las mismas reglas que las candidaturas a diputado, en lo que les sea aplicable, la que además deberá contener un lema común que los identifique y un programa en el que se indicarán las principales ideas o propuestas relativas al ejercicio de su función constituyente. Adicionalmente, cada candidato o candidata que conforme la lista, considerado individualmente, requerirá el patrocinio de un número de ciudadanos independientes igual o superior al 0,4 por ciento de los que hubieren sufragado en el distrito electoral en la anterior elección periódica de diputados, de acuerdo con el escrutinio general realizado por el Tribunal Calificador de Elecciones, con un tope de 1,5 por ciento por lista de quienes hubieren sufragado en el distrito electoral respectivo.
+La declaración de esta lista estará sujeta a las mismas reglas que las candidaturas a diputado, en lo que les sea aplicable, la que además deberá contener un lema común que los identifique y un programa en el que se indicarán las principales ideas o propuestas relativas al ejercicio de su función constituyente. Esta lista requerirá el patrocinio de un número de ciudadanos independientes igual o superior al 0,5 por ciento de los electores que hubiesen sufragado en el respectivo distrito electoral en la anterior elección periódica de diputados, de acuerdo con el escrutinio general realizado por el Tribunal Calificador de Elecciones, a menos que dicho porcentaje de electores en un distrito electoral sea menor a 500, en cuyo caso se requerirá el patrocinio de 500 ciudadanos independientes. Los patrocinios de la lista se obtendrán de la sumatoria de los patrocinios individuales de los candidatos y candidatas que lo conforman.
 
 La lista se conformará con aquellos candidatos o candidatas que en definitiva cumplan con los requisitos señalados. En todo lo demás, a las listas de personas independientes les serán aplicables las reglas generales como si se tratara de una lista compuesta por un solo partido, incluyendo además la ley Nº 19.884, sobre Transparencia, Límite y Control del Gasto Electoral, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 3, de 2017, del Ministerio Secretaría General de la Presidencia.
+
+El patrocinio de candidaturas independientes a que alude este artículo podrá realizarse a través de una plataforma electrónica dispuesta por el Servicio Electoral, a la que se accederá previa autentificación de identidad. En este caso, se entenderá suscrito el patrocinio de la respectiva candidatura a través de medios electrónicos. Por medio de esta plataforma, el Servicio Electoral generará la nómina de patrocinantes, en tiempo y forma, para efectos de la declaración de la respectiva candidatura. Esta plataforma deberá cumplir con los estándares de seguridad necesarios para asegurar su adecuado funcionamiento.
 
 TRIGÉSIMA. De la declaración de candidaturas para la Convención en equilibrio de género.
 
@@ -2108,7 +2110,7 @@ En cada distrito electoral, las listas integradas por un número par de candidat
 
 En los distritos que elijan tres a cuatro escaños, las listas podrán declarar hasta seis candidaturas a Convencionales Constituyentes, siguiendo los incisos anteriores, y no se aplicará al respecto lo dispuesto en el inciso primero del artículo 5 de la referida ley, el cual regirá para el resto de los distritos que elijan cinco o más escaños.
 
-La infracción de cualquiera de los requisitos establecidos en los incisos anteriores producirá el rechazo de todas las candidaturas declaradas en el distrito por el respectivo partido político o por el pacto electoral de candidaturas independientes.
+La infracción de cualquiera de los requisitos establecidos en los incisos anteriores producirá el rechazo de todas las candidaturas declaradas en el distrito por el respectivo partido político, el pacto electoral de partidos políticos o la correspondiente lista de candidaturas independientes.
 
 TRIGÉSIMA PRIMERA. Del equilibro entre mujeres y hombres en la elección de Convencionales Constituyentes.
 
@@ -2205,6 +2207,38 @@ La observancia, fiscalización y sanción de las obligaciones de las administrad
 CUADRAGÉSIMA. La reforma constitucional al artículo 109 empezará a regir una vez que entre en vigencia la ley que introduce modificaciones a la ley N° 18.840, Orgánica Constitucional del Banco Central de Chile, que regulará el ejercicio de la nueva facultad que se le otorga al Banco Central.
 
 > **Nota.** La ley 21265, publicada el 08.09.2020, modifica el artículo 27 de la ley 18840 que regula el ejercicio de la nueva facultad que se le otorga al Banco Central, en virtud de la ley 21253 publicada el 20.08.2020.
+
+CUADRAGÉSIMA PRIMERA. El Consejo Directivo del Servicio Electoral deberá dictar, con a lo menos cuarenta y cinco días de anticipación al plebiscito nacional dispuesto en el artículo 130 de la Constitución Política de la República, y mediante acuerdo adoptado por los cuatro quintos de sus miembros en ejercicio, las normas e instrucciones necesarias para el desarrollo del referido plebiscito nacional, pudiendo fijar reglas especiales y diferentes a las establecidas en el decreto con fuerza de ley Nº 2, del Ministerio Secretaría General de la Presidencia, de 2017, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.700, Orgánica Constitucional sobre Votaciones Populares y Escrutinios, sin perjuicio de lo dispuesto en el inciso cuarto del referido artículo 130, en las materias que se indican:
+
+a. La constitución, instalación y funcionamiento de mesas receptoras de sufragios;
+
+b. El horario de funcionamiento de las mesas receptoras de sufragios, pudiendo ampliarlo hasta un máximo de doce horas. Asimismo, podrá promover horarios preferentes de votación a diferentes grupos de personas, y establecer el horario de entrega de resultados preliminares desde el exterior;
+
+c. El número y causales de excusa o exclusión de los vocales de las mesas receptoras de sufragios y miembros de los colegios escrutadores, así como la forma de acreditarlas, pudiendo excluir a electores con riesgo de salud, según criterios establecidos por la autoridad sanitaria, para cumplir con dichas funciones;
+
+d. El aforo máximo de personas al interior de los locales de votación, según lo cual se deberá controlar el acceso a los mismos, así como el distanciamiento de electores tanto dentro como al exterior de dichos locales;
+
+e. La fijación del distanciamiento mínimo necesario entre las mesas receptoras de sufragios, sus urnas y cámaras secretas, así como el distanciamiento entre los vocales de mesa, apoderados y la prensa;
+
+f. La determinación de las características y número de las cámaras secretas por cada mesa receptora de sufragios;
+
+g. La determinación del número máximo de apoderados por cada opción plebiscitada que podrán estar presentes en las actuaciones de las juntas electorales y en las oficinas electorales de los locales de votación, en la votación y escrutinio de las mesas receptoras de sufragios, y por los colegios escrutadores;
+
+h. Los útiles electorales disponibles en las mesas receptoras de sufragios y colegios escrutadores;
+
+i. La regulación del tipo de lápiz para marcar la preferencia en las cédulas electorales y para firmar el padrón electoral de la mesa;
+
+j. La obligación del uso de mascarillas y otros medios de protección sanitaria para electores, y quienes se encuentren al interior de los locales de votación, y
+
+k. La dictación de un protocolo de carácter general y obligatorio, en acuerdo con el Ministerio de Salud, que contenga las normas y procedimientos sanitarios que deban cumplirse, en particular las referidas en los literales d), e), g) y j) precedentes, en las actuaciones que realicen las juntas electorales, delegados de las mismas en los locales de votación y sus asesores, vocales de mesas receptoras de sufragios e integrantes de los colegios escrutadores. Este protocolo será obligatorio, además, para electores, apoderados, miembros de las Fuerzas Armadas y de Orden y Seguridad Pública que se encuentren a cargo del resguardo del orden público al interior y exterior de los locales de votación, así como para todo funcionario público, con independencia del órgano del cual dependa, que desempeñe funciones o cumpla obligaciones de carácter electoral.
+
+En ningún caso las medidas sanitarias de carácter general podrán afectar la realización del plebiscito a que se refiere el artículo 130, a nivel nacional, regional ni comunal.
+
+El acuerdo del Consejo Directivo del Servicio Electoral señalado en el inciso primero deberá publicarse en el Diario Oficial y en la página web de dicho servicio, dentro de los dos días siguientes a la fecha de su adopción. El acuerdo señalado será reclamable fundadamente ante el Tribunal Calificador de Elecciones, dentro del plazo de tres días contado desde su publicación. Dicho Tribunal resolverá la reclamación dentro del plazo de diez días contado desde su interposición, y la sentencia no admitirá recurso o acción alguna en su contra.
+
+En los spots a que se refiere el artículo 34 del decreto con fuerza de ley N° 2, del Ministerio Secretaría General de la Presidencia, de 2017, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.700, Orgánica Constitucional sobre Votaciones Populares y Escrutinios, el Servicio Electoral deberá incluir información respecto a las medidas sanitarias que se tomen en virtud de las normas e instrucciones a que se refiere la presente disposición.
+
+El Consejo Directivo del Servicio Electoral deberá dictar las normas e instrucciones a que se refieren los incisos anteriores y en los mismos términos ahí establecidos, fijando reglas especiales y diferentes a las establecidas en el decreto con fuerza de ley Nº 2, del Ministerio Secretaría General de la Presidencia, de 2017, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.700, Orgánica Constitucional sobre Votaciones Populares y Escrutinios, para los procesos electorales de los años 2020 y 2021, siempre que al momento de dictar el acuerdo al que se alude en el inciso primero se encuentre vigente una alerta sanitaria decretada por la autoridad respectiva.
 
 CUADRAGÉSIMA SEGUNDA. Para la realización y transparencia de la propaganda y publicidad electorales de los plebiscitos a que hacen referencia los artículos 130 y 142, sin perjuicio de las normas regulatorias de la propaganda electoral establecidas en el Párrafo 6° del Título I del decreto con fuerza de ley Nº 2, del Ministerio Secretaría General de la Presidencia, de 2017, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.700, Orgánica Constitucional sobre Votaciones Populares y Escrutinios, se estará además a las siguientes reglas especiales:
 
