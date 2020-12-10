@@ -434,6 +434,12 @@ a. Se permiten hasta tres salidas semanales por cada niño, niña o adolescente,
 
 b. Se permiten visitas de vínculos significativos de los niños, niñas y adolescentes a petición de ellas y ellos o de dichas personas.
 
+61 ter. Se permite la atención de público en restaurantes, cafés y análogos, en lugares abiertos, hasta el 25% de su capacidad o guardando una distancia mínima de dos metros lineales entre mesas. Para efectos de este numeral, se entenderá como lugar abierto aquel que no tiene techo o aquel que, teniendo techo, cuenta con más del 50% de su perímetro sin muros.
+
+La estadía máxima de los clientes no debe exceder las dos horas. Para estos efectos, el recinto establecerá franjas de dos horas para el ingreso de los clientes. Una vez cumplido este tiempo, todo el local deberá ser sanitizado por un espacio de 15 minutos. Una vez que hayan transcurrido los señalados 15 minutos, podrá entrar un nuevo grupo de clientes durante una franja de dos horas y así sucesivamente.
+
+No se permite la atención de público en lugares cerrados de restaurantes, cafés y análogos.
+
 ### IV. Paso 3: Preparación
 
 62. Las localidades que estén en Preparación, no estarán sujetas a cuarentenas. A dichas localidades se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, con las modificaciones que se señalan en los numerales siguientes.
