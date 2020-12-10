@@ -38,7 +38,7 @@ c. Recomendar candidatos idóneos para la realización de ensayos clínicos en e
 
 Las anotadas funciones que desarrollará el Comité son de naturaleza consultiva y en ningún caso puede importar el desarrollo de acciones de carácter ejecutivo.
 
-#### Artículo 3º
+#### Artículo 3°
 
 Para el cumplimiento de su objeto, la Comisión estará integrada por los siguientes miembros:
 
@@ -46,15 +46,19 @@ Para el cumplimiento de su objeto, la Comisión estará integrada por los siguie
 
 2. Alexis Kalergis Parra, cédula de identidad número 11.631.450-9.
 
-3. María Teresa Valenzuela Bravo, cédula de identidad número 5.608.586-6.
+3. Mario Rosemblatt Silber, cédula de identidad número 2.555.029-3.
 
-4. Mario Rosemblatt Silber, cédula de identidad número 2.555.029-3.
+4. David Farcas Guendelman, cédula de identidad número 7.742.110-6.
 
-5. David Farcas Guendelman, cédula de identidad número 7.742.110-6.
+5. Mario Calvo Gil, cédula de identidad número 10.541.428-5.
 
-6. Mario Calvo Gil, cédula de identidad número 5.732.207-1.
+6. Carlos Pérez Cortés, cédula de identidad número 7.980.053-8.
 
-7. Carlos Pérez Cortés, cédula de identidad número 7.980.053-8.
+7. Lorena Isabel Tapia Faúndes, cédula de identidad número 13.191.492-K.
+
+8. Paula Andrea Muñoz Venturelli, cédula de identidad número 14.118.146-7.
+
+9. Stephania Astried Passalaqua Hidalgo, cédula de identidad número 15.759.609-8.
 
 Los miembros de la Comisión ejercerán sus funciones ad honorem y su desempeño no implicará la creación de un cargo público.
 
