@@ -70,7 +70,7 @@ Resolución:
 
 ### 1. Llamado a Concurso y plazo para presentar Proyectos
 
-Llámase a partir del día de la publicación de la presente resolución en el Diario Oficial y hasta las 18:00 horas del día lunes 30 de noviembre 2020, a postulación regional en condiciones especiales, del Programa de Integración Social y Territorial, regulado por el DS N° 19 (V. y U.), de 2016, y sus modificaciones, en adelante el DS Nº 19, para proyectos a desarrollar en terrenos de propiedad del Serviu Región Metropolitano, singularizados en el Considerando h) e i), de la presente resolución, período en el cual dicho Servicio, procederá directamente a la recepción de los proyectos habitacionales con los antecedentes exigidos en el artículo 9° del DS N° 19 (V. y U.), de 2016, y por la presente resolución. Previamente, las Entidades Desarrolladoras deberán ingresar los datos del proyecto, a través de los medios electrónicos que el Serviu Metropolitano disponga para estos efectos.
+Llámase a partir del día de la publicación de la presente resolución en el Diario Oficial y Hasta las 00:00 del día lunes 14 de diciembre de 2020, a postulación regional en condiciones especiales, del Programa de Integración Social y Territorial, regulado por el DS N° 19 (V. y U.), de 2016, y sus modificaciones, en adelante el DS Nº 19, para proyectos a desarrollar en terrenos de propiedad del Serviu Región Metropolitano, singularizados en el Considerando h) e i), de la presente resolución, período en el cual dicho Servicio, procederá directamente a la recepción de los proyectos habitacionales con los antecedentes exigidos en el artículo 9° del DS N° 19 (V. y U.), de 2016, y por la presente resolución. Previamente, las Entidades Desarrolladoras deberán ingresar los datos del proyecto, a través de los medios electrónicos que el Serviu Metropolitano disponga para estos efectos.
 
 ### 2. Presentación de proyectos
 
@@ -89,6 +89,8 @@ Los proyectos a desarrollarse en los Lotes B y C, singularizados en el Considera
 (**) Las 950 camas accesibles forman parte del total de 6.100 camas tradicionales requeridas.
 
 Los proyectos que se presenten, podrán considerar hasta un 40% del total de viviendas cuyo precio de venta exceda los máximos señalados en el numeral i) de la letra a) del artículo 7°, del DS N° 19, dichas viviendas no serán objeto de subsidio y estarán eximidas de cumplir con el programa arquitectónico mínimo, señalado en el artículo 10° del DS N° 19.
+
+Las viviendas cuyo precio de venta exceda los máximos señalados en el numeral i) de la letra a) del artículo 7º, del DS Nº 19, no serán consideradas para optar al puntaje por mayores superficies de vivienda contemplado en el Ítem 4. Tipologías de viviendas, de la Tabla de factores y puntajes, inserta en el Artículo 11º del DS Nº 19.
 
 Los proyectos presentados podrán considerar un precio, para venta mediante la aplicación de un subsidio, de hasta 2.400 UF, en el caso de viviendas destinadas a familias de sectores medios definidas en el artículo 2°, letra d), del DS N° 19.
 
@@ -128,9 +130,11 @@ Adicionalmente, se deberán considerar los siguientes elementos en cada una de l
 
 3.2. Requisitos adicionales para las unidades habitacionales:
 
-a) Todas las viviendas del proyecto deberán cumplir con lo señalado en la resolución exenta N° 4.832 (V. y U.), de 2012, y su modificación, que aprueba la "Tabla de Espacios y Usos Mínimos para el Mobiliario del DS N°1 e Itemizado Técnico para proyectos del Título I del DS N° 1", en relación a espacios y usos mínimos para el mobiliario e itemizado técnico.
+a) Todas las viviendas del proyecto deberán cumplir con lo señalado en la resolución exenta N° 4.832 (V. y U.), de 2012, y su modificación, que aprueba la "Tabla de Espacios y Usos Mínimos para el Mobiliario del DS N°1 e Itemizado Técnico para proyectos del Título I del DS N° 1", en relación a espacios y usos mínimos para el mobiliario e itemizado técnico, a excepción de lo indicado respecto del calefón, pudiendo considerar el suministro de energía eléctrica tanto para los artefactos del proyecto como para agua caliente sanitaria.
 
 b) Las unidades de vivienda acondicionadas para recibir personas con discapacidad asociada a movilidad reducida, deberán considerar como mínimo lo indicado en la resolución exenta N° 6.625 (V. y U.), de 2016, y sus modificaciones, que Aprueba el Cuadro Normativo y Tabla de Espacios y Usos mínimos para el Mobiliario, para Proyectos del Programa Fondo Solidario de Elección de Vivienda, en su Ítem II.
+
+Las viviendas accesibles, destinadas a completar el requerimiento de camas para los deportistas que participen de los Juegos Panamericanos, que no se consideren posteriormente entre los departamentos destinados a personas con discapacidad asociada a movilidad reducida para el cumplimiento de los requisitos mínimos o para optar al puntaje del DS Nº19, podrán considerar lo indicado en la resolución exenta Nº6.625, solo respecto de las circulaciones, el baño y los dormitorios.
 
 c) En el caso de departamentos destinados a familias de sectores medios que consideren sólo un dormitorio, podrán eximirse del recinto logia, en cuyo caso deberán considerar el espacio para un artefacto lavadora en los recintos cocina o baño, así como también las correspondientes conexiones de agua fría-caliente y evacuación de aguas servidas.
 
@@ -163,6 +167,8 @@ ii. Tanto closets ecológicos como contenedores, según sea el caso, deberán es
 iii. Tanto para proyectos que opten por contenedores en áreas comunes o de equipamiento, como aquellos que incluyan closets ecológicos o salas de separación y almacenamiento por piso, éstos deberán considerar espacio necesario para la disposición de contenedores de al menos 360 litros.
 
 e) En caso de incluir elementos de eficiencia energética, estos deberán ser evaluados de acuerdo a la siguiente tabla, que detalla lo mencionado en el artículo 11º, Ítem 4. Tipologías de Viviendas, letra F. Eficiencia Energética, del DS Nº 19 (V. y U.), de 2016:
+
+.
 
 Los puntajes de la tabla anterior, no son sumables entre sí, otras soluciones de eficiencia energética serán revisadas por la Comisión Evaluadora, que podrá otorgar el puntaje, asimilándolo a los Tipos indicados en la Tabla precedente, según corresponda.
 
@@ -198,7 +204,9 @@ c) Factores y Puntaje de evaluación de aspectos especiales.
 
 Sin perjuicio de lo señalado en el Resuelvo anterior, los proyectos presentados deberán cumplir con los aspectos especiales señalados como "Mínimo esperado" y obtendrán puntaje de acuerdo a lo establecido en la siguiente Tabla de Factores y Puntajes:
 
-(*) Para efectos de este llamado, se entenderá como núcleo vertical el que considere al menos dos ascensores.
+.
+
+(*) Para efectos de este llamado, se entenderá como núcleo vertical cada uno de los edificios o torres proyectados que formen parte del proyecto propuesto.
 
 (**) No se considerarán dentro de estas medidas aquellas mencionadas dentro del Ítem II, Criterios de sustentabilidad.
 
@@ -256,7 +264,9 @@ Se adjunta Anexo N° 5 con los requisitos para la inscripción de las constructo
 
 Las entidades desarrolladoras que participen de este llamado, deberán ingresar los datos del proyecto en los sistemas electrónicos dispuestos al efecto, para lo cual deberán contar con una clave de acceso proporcionada por el Serviu .
 
-Posteriormente se deberá presentar el expediente físico del proyecto en el Serviu , hasta las fechas y hora indicadas en el resuelvo 1º de la presente resolución, acompañando los antecedentes señalados en el artículo 9º del DS Nº 19, más los que se indican en el Anexo Nº 6 incluido en la presente resolución.
+Posteriormente se deberá presentar el expediente del proyecto en formato digital en el Serviu , hasta las fechas y hora indicadas en el resuelvo 1º de la presente resolución, acompañando los antecedentes señalados en el artículo 9º del DS Nº 19, más los que se indican en el Anexo Nº 6 incluido en la presente resolución.
+
+Respecto de los antecedentes exigidos en el artículo 8º del DS19, en caso de no contar con permiso de edificación ni con anteproyecto aprobado, la entidad desarrolladora deberá ingresar, al momento de la postulación, al menos el informe favorable de revisor independiente al que se refiere el artículo 116 bis de la Ley General de Urbanismo y Construcciones, pudiendo postergar la presentación del comprobante de ingreso del expediente, emitido por la Dirección de Obras Municipales, hasta la suscripción del convenio entre Serviu y la Entidad Desarrolladora, al que se refiere el artículo 14º del DS Nº19.
 
 La información gráfica a ingresar tanto en el Serviu como en el sistema informático Rukan debe ser completa y permitir visualizar las características principales del proyecto, incorporando a lo menos un archivo en formato PDF con la imagen aérea del terreno inserto en el barrio, imágenes digitales del conjunto e imagen del plano de entremezcla de las viviendas, de acuerdo a formato proporcionado por el Minvu.
 
@@ -330,7 +340,7 @@ La transferencia del terreno a la Entidad Desarrolladora, cuyo proyecto haya sid
 
 12.3. Garantía por el Terreno y Contrato de Comodato.
 
-A fin de garantizar que el terreno transferido se destine al desarrollo del proyecto seleccionado, cumpliendo con las características y condiciones con que fue aprobado por la comisión Evaluadora, la suscripción del Contrato de Comodato y la entrega material del inmueble, la respectiva Entidad Desarrolladora deberá presentar en forma previa a la firma de la escritura de compraventa una boleta de garantía, por un monto equivalente a la oferta por el valor del suelo. El Serviu tendrá derecho a hacer efectiva esta garantía en caso de que la entidad incumpla cualquiera de las obligaciones establecidas anteriormente.
+A fin de garantizar que el terreno transferido se destine al desarrollo del proyecto seleccionado, cumpliendo con las características y condiciones con que fue aprobado por la comisión Evaluadora, la suscripción del Contrato de Comodato y la entrega material del inmueble, la respectiva Entidad Desarrolladora deberá presentar en forma previa a la firma de la escritura de compraventa una boleta de garantía, o una póliza de garantía de ejecución inmediata, por un monto equivalente a la oferta por el valor del suelo. El Serviu tendrá derecho a hacer efectiva esta garantía en caso de que la entidad incumpla cualquiera de las obligaciones establecidas anteriormente.
 
 ### 13. Inicio de las Obras
 
@@ -363,6 +373,8 @@ El incumplimiento de esta obligación será sancionado según lo indicado en el 
 Conforme a lo dispuesto por el artículo 16º del DS Nº 19 (V. y U.), de 2016, una vez que las entidades desarrolladoras hayan suscrito el convenio con el Serviu a que se refiere el resuelvo 10º de esta resolución, y que las obras registren un avance igual o superior al 10%, el que deberá ser verificado por el Serviu, la entidad desarrolladora podrá comenzar la incorporación de familias beneficiarias de un Subsidio habitacional obtenido en alguno de los programas de vivienda del Minvu, señalados en el artículo 2º del DS Nº 19 referido, y/o reservar subsidios para su asignación a familias de sectores medios, las que deberán cumplir con lo señalado en el artículo 17º del DS Nº 19 referido, en los plazos establecidos en dicho decreto, pudiendo operar al efecto mediante los sistemas electrónicos que disponga el Minvu para tales fines.
 
 Las familias beneficiadas con subsidios correspondientes al DS Nº 1 (V. y U.), de 2011, cuya vigencia haya expirado, podrán incorporarse al proyecto, siempre que no hubiesen transcurrido 60 meses desde la fecha de inicio del período de vigencia del respectivo subsidio.
+
+Las familias que adquieran una vivienda del proyecto con subsidio habitacional, que cuenten con la copia de la respectiva escritura de dominio correspondiente a favor del beneficiario del subsidio podrán, durante el periodo de vigencia del comodato, acceder a un Subsidio de Arriendo de Vivienda, regulado por el DS Nº52 (V. y U.), de 2013, que cubra el lapso de tiempo entre la fecha de inscripción de dominio respectiva y la entrega de las viviendas.
 
 La asignación de los subsidios que se hayan reservado, será sancionada por resolución del Director Serviu respectivo.
 
