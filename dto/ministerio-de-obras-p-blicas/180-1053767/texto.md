@@ -14,7 +14,7 @@ NCh 407-2012 Artefactos sanitarios de loza vítrea-Requisitos y método de ensay
 
 NCh 3263-2012 Ingeniería sanitaria-alcantarillado de aguas residuales por vacío-Requisitos y Ensayos.
 
-NCh 3274/1-2012 Medición de agua en tuberías cerradas completamente llenas-Medidores para agua potable fría y agua caliente-parle 1: Especificaciones.
+NCh 3274/1-2012 Derogada.
 
 #### Artículo 2º
 
