@@ -1,0 +1,5 @@
+EXTRACTO
+
+Claudia Teresa Sandoval Gallegos, en su calidad de Secretaria Municipal (S) de la Ilustre Municipalidad de Maipú, a través del decreto alcaldicio N° 1.769 DAP, de fecha 26 de junio de 2020, con domicilio en Avda. Primera Transversal N° 1940, primer piso; certifica: que por decreto alcaldicio N° 3.663, de fecha 23 de noviembre de 2020, se declaró como "Propiedad Abandonada", el predio ubicado en avenida Santa Elena N° 675, correspondiente al lote N° 5 de la división de la Parcela N° 3, de la Hijuela N° 2 del Fundo Lo Espejo del Carmen, de la comuna de Maipú, rol de avalúo fiscal N° 1065-19, perteneciente a la sociedad Inversiones Cordillera SpA, Rol Único Tributario N° 76.677.914-K, con domicilio desconocido; en virtud del artículo 2.5.1., de la Ordenanza de la Ley General de Urbanismo y Construcciones; y el artículo 58 bis, del decreto ley N° 3.063, sobre Rentas Municipales.-
+
+Claudia Teresa Sandoval Gallegos, Secretaria Municipal (S).
