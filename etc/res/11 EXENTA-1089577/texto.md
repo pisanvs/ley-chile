@@ -70,6 +70,8 @@ El cofinanciamiento del Comité para las Asesorías Empresariales Básicas no po
 
 El cofinanciamiento del Comité para Asesorías Empresariales Especializadas no podrá exceder el 80% del costo total de la asesoría, con un tope máximo de $1.500.000.- (un millón quinientos mil pesos).
 
+En caso que se declare un Estado de Excepción Constitucional, de emergencia o de catástrofe, en la forma dispuesta en la ley N° 18.415, Orgánica Constitucional de Estados de Excepción, o se declare zonas afectadas de sismo o catástrofe, en virtud de lo dispuesto en la ley N° 16.282, sobre Disposiciones Permanentes para Casos de Sismos o Catástrofes, se podrán realizar convocatorias en las que el financiamiento del Comité podrá llegar hasta el 100% del costo total del Proyecto.
+
 ### 6. COSTO DE ADMINISTRACIÓN
 
 Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por concepto de evaluación, supervisión, seguimiento y administración los siguientes montos:
