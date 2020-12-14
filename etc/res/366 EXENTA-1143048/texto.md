@@ -14,15 +14,17 @@ c) La resolución exenta Nº 41 (V. y U.), de 2020, que autoriza efectuar llamad
 
 Resolución:
 
-1. Llámase a partir del 9 de marzo y hasta el 19 de octubre de 2020, ambas fechas inclusive, a postulación nacional para el otorgamiento de subsidios habitacionales del Programa de Subsidio de Arriendo de Vivienda, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, período en que los Servicios de Vivienda y Urbanización (Serviu) procederán directamente, o a través de los medios electrónicos que se establezcan al efecto, a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deban acompañarlas. Asimismo, los Serviu de todas las regiones podrán recibir solicitudes de postulación a través de las entidades públicas con las que tenga convenio para tales efectos.
+1. Llámase a partir del 9 de marzo y hasta el 9 de noviembre de 2020, ambas fechas inclusive, a postulación nacional para el otorgamiento de subsidios habitacionales del Programa de Subsidio de Arriendo de Vivienda, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, período en que los Servicios de Vivienda y Urbanización (Serviu) procederán directamente, o a través de los medios electrónicos que se establezcan al efecto, a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deban acompañarlas. Asimismo, los Serviu de todas las regiones podrán recibir solicitudes de postulación a través de las entidades públicas con las que tenga convenio para tales efectos.
 
 Las personas que postulen como titulares vía internet a través de los medios electrónicos que se establezcan al efecto, deberán contar con la clave única entregada por el Servicio de Registro Civil e Identificación y la información ingresada y registrada en el sistema será válida para todos los efectos de la postulación y del proceso de selección.
 
-2. Se realizarán selecciones en los meses de abril, junio, agosto y octubre, con las familias que hubieren efectuado válidamente su postulación en las fechas indicadas en el resuelvo precedente. Las familias que no sean consideradas en una selección, continuarán postulando y serán contempladas en la siguiente hasta el último proceso correspondiente al mes de octubre.
+2. Se realizarán selecciones en los meses de abril, junio, agosto y noviembre, con las familias que hubieren efectuado válidamente su postulación en las fechas indicadas en el resuelvo precedente. Las familias que no sean consideradas en una selección, continuarán postulando y serán contempladas en la siguiente hasta el último proceso correspondiente al mes de noviembre.
 
-3. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de 1.360.000 Unidades de Fomento.
+3. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de 1.425.620 Unidades de Fomento.
 
 4. La cantidad de familias a seleccionar se distribuirán regionalmente según la tabla que se presenta a continuación, pudiendo practicarse redistribuciones o modificaciones de recursos que serán sancionadas mediante resolución.
+
+.
 
 5. Los recursos a seleccionar en cada proceso ascenderán a un porcentaje equivalente de los recursos indicados en el resuelvo 3. precedente. En caso de quedar recursos disponibles en el último proceso de selección, se podrá seleccionar por el saldo total.
 
