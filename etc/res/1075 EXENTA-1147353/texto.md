@@ -74,6 +74,8 @@ Resolución:
 
 4.5. La Municipalidad podrá presentar una postulación de beneficiarios del programa regulado por el DS Nº 52 (V. y U.), de 2013, que posean un subsidio sin contrato activo y que se encuentren habitando en la comuna respectiva en condiciones de hacinamiento crítico, en cuyo caso podrá acceder a los beneficios de este llamado, postergándose la aplicación de su beneficio original por el periodo de duración del subsidio que reciba en el marco de este llamado.
 
+4.6. En los casos en que no sea factible celebrar el contrato de arrendamiento en la vivienda acreditada al postular, el beneficiario deberá entregar los datos y acompañar los documentos indicados en el acápite 4.4 precedente, al momento de presentar el contrato respectivo al Serviu para su validación.
+
 5. Los postulantes al presente llamado serán eximidos de los siguientes requisitos y liberados de las condiciones que se indican, establecidos en el DS Nº 52 (V. y U.), de 2013:
 
 5.1. De los montos y límites en el valor del subsidio establecidos en el artículo 5º.
@@ -88,6 +90,12 @@ Resolución:
 
 5.6. De la prohibición relativa a estar postulando a otro programa habitacional, establecida en la letra g. del artículo 21.
 
+5.7 De lo dispuesto en los artículos 8° y 43, en cuanto a la exigencia de que el contrato de arrendamiento debe ajustarse al formato tipo proporcionado por el Serviu.
+
+5.8 De lo dispuesto en el artículo 34, en cuanto a que el primer copago del beneficiario debe ser registrado en el sistema informático que provea el Minvu.
+
+5.9 De lo dispuesto en la letra a) del artículo 39 en cuanto a la cláusula obligatoria exigida para el contrato de arrendamiento que dispone que el copago mensual de la renta que corresponda realizar al titular del beneficio se pagará respetando el sistema de pagos establecido para este programa.
+
 6. Se podrá postular con cédulas de identidad vencidas durante el año 2020 o con comprobante de cédula de identidad en trámite de renovación.
 
 7. Los beneficiarios de este llamado podrán postular a llamados regulares y/o especiales del programa de Subsidio de Arriendo, pudiendo aplicar su nuevo beneficio una vez caducado el beneficio otorgado por este llamado.
@@ -98,7 +106,7 @@ Resolución:
 
 10. Será causal de término inmediato del contrato de arrendamiento y de extinción del subsidio otorgado en virtud del llamado dispuesto en el número 1 de esta resolución, que la vivienda arrendada origine el hacinamiento del núcleo familiar beneficiado, verificado por la Municipalidad, en la forma dispuesta en el inciso segundo de la letra c. del artículo 39 del DS Nº 52 (V. y U.), de 2013.
 
-11. Se podrán autorizar las firmas del contrato de arrendamiento respectivo ante el Secretario Municipal respectivo, no aplicándose, en consecuencia, la exigencia establecida en el artículo 43 del DS Nº 52 (V. y U.), de 2013, en cuanto a que sus firmas se autorizarán ante Notario Público.
+11. Se podrán autorizar las firmas del contrato de arrendamiento respectivo, ante el ministro de fe que la municipalidad designe conforme a su reglamentación vigente, no siendo obligatoria, en consecuencia, la exigencia establecida en el artículo 43 del DS N° 52 (V. y U.), de 2013, en cuanto a que sus firmas se autorizarán ante Notario Público.
 
 12. Establécese que, junto con los factores de puntaje dispuestos en el artículo 25 del DS Nº 52 (V. y U.), de 2013, se otorgará un puntaje adicional conforme lo señala la siguiente tabla:
 
