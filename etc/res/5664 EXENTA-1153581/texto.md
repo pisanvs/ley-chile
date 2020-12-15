@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 5.664, de 7 de diciembre de 2020, Serviu Región de Valparaíso dispuso la expropiación conforme al artículo 51 Ley 16.391 y decreto ley 2.186 de 1978, del inmueble signado como lote 125, en el plano "Proyecto de Expropiaciones AP-EXP N° 3, 1 y 2 del Serviu Región de Valparaíso del año 2020, comuna de Valparaíso, para la Ejecución del Proyecto de Soluciones Habitacionales para las Familias del Campamento Pampa Ilusión de la comuna de Valparaíso, de presunto dominio de Sociedad Buses Carolina Valparaíso S.A., rol avalúo 9302-00001. Comisión tasadora integrada por Julia Venegas Escalante, Claudio Sepúlveda Salinas y Natalia Lever Villarroel, según informe de octubre de 2020, fijó monto indemnización provisional en $91.870.000, que será pagada al contado.-
+
+Directora (S) Serviu.
