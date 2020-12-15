@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 5.593, de 2 de diciembre de 2020, Serviu Región de Valparaíso, dispuso lo siguiente: Rectifíquese la resolución Nº 5.513, de fecha 4 de octubre de 2018, según el siguiente tenor, donde dice: Procédase a expropiar parcialmente el Lote 182 I Dirección Los Carrera 1730 y 1750, Quilpué Rol SII 472-2 y 472-3 superficie a expropiar (m2) 33,06 presunto propietario Lionel Kovacs y Cía. SCI Limitada valor de indemnización $4.928.609, debe decir: Procédase a expropiar parcialmente el Lote 182 I Dirección Los Carrera 1750, Quilpué Rol SII 472-3 superficie a expropiar (m2) 33,06 presunto propietario Lionel Kovacs y Cía. SCI Limitada valor de indemnización $4.928.609. En todo lo demás, la resolución Nº 5.513 sigue sin modificaciones y plenamente vigente.-
+
+Director Serviu.
