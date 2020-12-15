@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta electrónica Nº 685, de fecha 7 de diciembre de 2020, Serviu Región de Atacama, conforme DL Nº 2.186 de 1978, conforme artículo 51 ley 16.391 y DS Nº 65/2020 (V. y U.), ordenó la expropiación parcial del inmueble denominado lote Nº 15, de la ciudad de Copiapó, rol de avalúo fiscal Nº 320-15, de aparente dominio de Inmobiliaria Puangue SpA, deslindes según plano de expropiaciones, para proyecto "Mejoramiento Conexión Sector Diego de Almagro con El Palomar, Copiapó". Comisión tasadora integrada por Ximena Peñaloza Herrero, arquitecta, Norman Calderón Pontiggia, ingeniero agrónomo, y María Josefina Pizarro Sandoval, ingeniera agrónoma, según informe de tasación del 2 de diciembre de 2020, fijó un monto provisional de indemnización de $170.180.300.- pagadera al contado.-
+
+Rodrigo Maturana Fuentes, Director Serviu Región Atacama.
