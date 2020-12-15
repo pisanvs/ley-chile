@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.576, de 3 de diciembre 2020, Serviu región del Biobío ordenó expropiación parcial de un inmueble ubicado en Gral. Bonilla, Rol de Avalúo Nº 320-35, comuna de Concepción, de aparente dominio de Mosciatti Olivieri Nibaldo Fabrizio, en una superficie de 1.284,70 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-39.346-1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao/General Novoa, comuna de Concepción", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Rubén Muñoz Vera, por arquitecto Victoria García Silvera y por arquitecto Daniela Cortez Moraga, según informe de fecha 6 de noviembre 2020, fijó monto provisional indemnización, en $182.567.121, pagadera de contado.
+
+Director Serviu Región del Biobío.
