@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1444, de 04 de diciembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 2, para la obra: SERVICIO DE AGUA POTABLE RURAL BOYERUCA, que figura a nombre de DE LA FUENTE ROJAS CAUPOLICAN, rol de avalúo 163-84, Comuna de VICHUQUEN, REGION DEL MAULE, superficie 145,30 m2. La Comisión de Peritos integrada por LORETO ISABEL HERNANDEZ RIOS, JUAN ARMANDO SALAS URZÚA y PATRICIA VERONICA ZAVALA CONTRERAS, mediante informe de tasación de 16 de octubre de 2020, fijó el monto de la indemnización provisional en la cantidad de $989.800 para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
