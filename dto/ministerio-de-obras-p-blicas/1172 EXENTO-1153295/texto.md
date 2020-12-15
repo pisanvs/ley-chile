@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1172 de 12 de noviembre de 2020, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 1 para la obra: "CONCESION INTERNACIONAL RUTA 5. TRAMO: TEMUCO - RIO BUENO. SECTOR: CONSTRUCCION PISTAS DE ACELERACION ENLACE LA BALSA. KM. 828.700,00 A KM. 829.440,00, Región de Los Ríos, que figura a nombre de INMOB. E INVERS. CONSTRUCTORA OLMUE, rol de avalúo 1241-16 de la comuna de Los Lagos, superficie 4.317 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 62 de 18 de junio de 2020, integrada por Mónica del Carmen Conejeros Rudloff, Handy Ghislaine Campos Sepúlveda y Roxana Cecilia Abarzúa Gajardo, fijó con fecha 31 de julio de 2020, el valor provisional de la indemnización en la cantidad de $15.180.200 para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
