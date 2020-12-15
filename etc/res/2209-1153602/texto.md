@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 2.093 de 12 de noviembre de 2020, rectificada por resolución N° 2.209 de 27 de noviembre de 2020 ambas de Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno N° 21 para la ejecución Proyecto "Mejoramiento calle El Teniente, Barrio Industrial de Puerto Montt, comuna de Puerto Montt", Provincia de Llanquihue, Región de Los Lagos que figura a nombre de Villegas Guerrero María Isolina, rol de avalúo según SII N° 1991-37, comuna de Puerto Montt, superficie 127,90 metros cuadrados. La comisión de peritos integrada por los Sres. Enrique Edgardo Hoelck Altmann, Raúl Palma Larrea y Leopoldo Ramón Schumacher Guarda, designados por resolución exenta N° 1.620 de 27 de agosto de 2020, fijó con fecha 10 de octubre de 2020, el valor provisional de la indemnización en la suma de $27.786.900. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del DL N° 2.186.
+
+Director Regional Serviu Región de Los Lagos.
