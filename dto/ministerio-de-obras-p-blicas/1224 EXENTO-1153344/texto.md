@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1224, de 12 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 2-C1, 4-A y 5-A, para la obra: MEJORAMIENTO RUTA 265 SECTOR ACCESO BAHIA JARA - CHILE CHICO, que figuran a nombre de CABALLERO GUZMAN DANIELA KARIN, roles de avalúo 808-103, Comuna de CHILE CHICO, REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, superficies 8.371, 454 y 1.443 m2. respectivamente. La Comisión de Peritos integrada por SERGIO JEREMIAS ORDENES SALINAS, NICOLÁS ALEJANDRO ALARCÓN SANCHÉZ y HANDY CAMPOS SEPULVEDA, mediante informe de tasación de 31 de agosto de 2020, fijó el monto de la indemnización provisional en la cantidad de $1.088.230, para el lote N°2-C1, $1.002.600, para el lote N°4-A y $2.597.400, para el lote N°5-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
