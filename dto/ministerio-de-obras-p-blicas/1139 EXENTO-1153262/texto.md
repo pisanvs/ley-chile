@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1139, de 12 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 3, para la obra: SISTEMA DE AGUA POTABLE RURAL LA HIGUERITA, que figura a nombre de LOBOS ARCAYAGA DANTE FANOR, rol de avalúo 933-8, Comuna de ALTO DEL CARMEN, REGIÓN DE ATACAMA, superficie 326 m2. La Comisión de Peritos integrada por XIMENA ELIANA PEÑALOZA HERRERO, NORMAN ESTANISLAO CALDERON PONTIGGIA y CLAUDIO ANDRES CONCHA GROSSI, mediante informe de tasación de 28 de octubre de 2020, fijó el monto de la indemnización provisional en la cantidad de $2.967.000, para el lote Nº3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
