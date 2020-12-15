@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1097 de 29 de octubre de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 83, 84, 85, 86 y 87, Rol de avalúo 555-164, comuna de Linares, superficies 11.068, 2.747, 1.447, 2.508 y 81 m2., respectivamente, para la obra MEJORAMIENTO RUTA L-45, SECTOR EL PEÑASCO - RETEN LOS HUALLES, COMUNA DE LINARES, PROVINCIA DE LINARES, REGIÓN DEL MAULE. La comisión de peritos, integrada por GABRIEL PANTOJA RIVERA, PATRICIO DURAN MARCO y RODRIGO ANTONIO SILVA LAZO fijó el valor de tasación con fecha 09 de abril de 2020, acordándose la indemnización con su propietario RUBEN LAZARO URRUTIA DIAZ, en la cantidad de $65.884.702.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
