@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°1217, de 12 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.96-A, 107 y 113, para la obra: MEJORAMIENTO RUTA J-55 SECTOR: LA UNION - LOS QUEÑES, que figura a nombre de DORR REHINGANS OTTO SUC, rol de avalúo 60-2, Comuna de ROMERAL, REGION DEL MAULE, superficies 1.596, 1.459 y 701 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 31 de marzo de 2015, para los lotes 107 y 113 y 01 de agosto de 2017, para el lote 96-A, fijó el monto de la indemnización provisional en la cantidad de $13.203.780 para el lote N°96-A, $6.826.303 para el lote N°107, y $2.528.917 para el lote N°113. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
