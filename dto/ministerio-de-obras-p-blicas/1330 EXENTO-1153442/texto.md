@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1330, de 30 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP N°206 de 1960, se expropiaron los lotes de terreno N°s.151 y 157, para la obra: MEJORAMIENTO Y CONSTRUCCION CAMINO COSTERO NORTE SECTOR BOYERUCA CRUCE RUTA J-60, que figura a nombre de FORESTAL ARAUCO S.A. y CORREA BRAVO ALFONSO GUILLERMO, roles de avalúo 168-3 y 168-184, Comuna de LICANTEN, REGION DEL MAULE, superficies 99 y 2.544 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 26 de marzo de 2018, fijó el monto de la indemnización provisional en la cantidad de $885.600 para el lote N°151, y $23.936.100 para el lote N°157. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
