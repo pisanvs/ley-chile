@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1141, de 12 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 1, para la obra: SISTEMA AGUA POTABLE RURAL EL OLIVO, que figura a nombre de INVERSIONES OCHOA Y REQUENA LIMITAD, rol de avalúo 628-102, Comuna de OVALLE, REGIÓN DE COQUIMBO, superficie 150 m2. La Comisión de Peritos integrada por MIGUEL ANGEL RUIZ VALENZUELA, ANA ROSA DEL CARMEN SILVA GIL y JOSE EUGENIO PINTO CONTRERAS, mediante informe de tasación de 03 de octubre de 2020, fijó el monto de la indemnización provisional en la cantidad de $525.000, para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
