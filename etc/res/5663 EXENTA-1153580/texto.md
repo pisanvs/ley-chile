@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 5.663, de 7 de diciembre de 2020, Serviu Región de Valparaíso dispuso la expropiación conforme al artículo 51 Ley 16.391 y decreto ley 2.186 de 1978, del inmueble signado como lote 1, en el plano "Proyecto de Expropiaciones AP-EXP N° 1 del Serviu Región de Valparaíso de abril de año 2020, comuna de Valparaíso, para la Ejecución del Proyecto de Soluciones Habitacionales para las Familias del Campamento Bellavista de la comuna de Valparaíso, de presunto dominio de don Santiago Casas Fernández, rol avalúo 1245-1. Comisión tasadora integrada por Julia Venegas Escalante, Claudio Sepúlveda Salinas y Natalia Lever Villarroel, según informe de octubre de 2020, fijó monto indemnización provisional en $78.890.377, que será pagada al contado.-
+
+Directora (S) Serviu.
