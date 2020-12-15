@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 1273, de 23 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 3, para la obra: DISEÑO DEFINITIVO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES DE RIEGO PROYECTO FAJA MAISAN OBRA CANAL SAN ANTONIO SECTOR: DESCARGA CANAL SAN ANTONIO DERIVADO 1 PULON 2, que figura a nombre de MAYOLAFQUEN MARIN LORENZO, rol de avalúo 386-76, Comuna de PITRUFQUEN, REGION DE LA ARAUCANÍA, superficie 504 m2. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, CONSTANZA CAMILA VASQUEZ MUNOZ y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de fecha 16 de abril de 2018, fijó el monto de la indemnización provisional en la cantidad de $705.600.- para el lote N°3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
