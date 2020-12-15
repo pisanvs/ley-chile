@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 1381, de 30 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 3A, para la obra: DISEÑO DEFINITIVO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES DE RIEGO PROYECTO FAJA MAISAN, OBRA CANAL SANTA ANA SECTOR: CANAL SANTA ANA DERIVADO 11 MODIFICADO, que figura a nombre de SANTIN MORALES MARIA E, rol de avalúo 384-30, Comuna de PITRUFQUEN, REGION DE LA ARAUCANÍA, superficie 1.727 m2. La Comisión de Peritos integrada por CLAUDIO HERNÁN ANGULO SOTOMAYOR, RAMON LUIS MARIN FRANZ y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de fecha 10 de septiembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $3.254.950.- para el lote N°3A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.-
+
+Fiscalía MOP.
