@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.082, de 18 de noviembre 2020, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, del inmueble correspondiente a Departamento 201, ubicado en Pasaje 21½ Norte, Block Nº 1234, Condominio "C" de la Población Las Américas IX Etapa, de Talca, Rol Avalúo Nº 1420-53 comuna Talca y sus derechos cuotativos, deslindes según plano expropiaciones, propietario aparente Wladimir José Muñoz Espinoza. Comisión integrada por peritos Patricio Durán Marcos, arquitecto; Pedro Pablo Cruz Weston, arquitecto; y Rodrigo Silva Lazo, constructor civil, según informe de tasación evacuado con fecha 10 de noviembre de 2020, fijó monto provisional indemnización en $17.487.600.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S), Serviu Región del Maule.
