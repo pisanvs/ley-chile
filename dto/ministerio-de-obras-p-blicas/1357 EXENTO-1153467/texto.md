@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1357, de 30 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 3, 4, 5 y 6, para la obra: SISTEMA DE AGUA POTABLE RURAL LOCALIDAD DE BELLAVISTA, que figuran a nombre de GARRIDO ONATE VICTOR MANUEL Y OTRO, roles de avalúo 2240-1, Comuna de CHILLAN VIEJO, REGIÓN DE ÑUBLE, superficies 16, 335, 180 y 273 m2. respectivamente. La Comisión de Peritos integrada por MARCELO GABRIEL OYARZO SALDIAS, DIEGO ANDRES ROZAS GALLARDO y NICOLAS ALEJANDRO ALARCON SANCHEZ, mediante informe de tasación de 16 de octubre de 2020, fijó el monto de la indemnización provisional en la cantidad de $34.000, para el lote N°3, $702.500, para el lote N°4, $300.000, para el lote N°5 y $409.500, para el lote N°6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
