@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP, (Exento) Nº1300, de 24 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 51, para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR A SUBSECTOR 3: VARIANTE COIHUE, que figura a nombre de AGRICOLA GANADERA Y FORESTAL RIO, rol de avalúo 73-461, Comuna de NEGRETE, REGION DEL BIOBÍO, superficie 48.041 m2. La Comisión de Peritos integrada por PAOLA ANDREA VAN DE WYNGARD SOTO, NICOLAS ALEJANDRO ALARCON SANCHEZ y JAVIER ALEJANDRO IBARRA REYES, mediante informe de tasación de 30 de septiembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $144.896.776 para el lote Nº51. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
