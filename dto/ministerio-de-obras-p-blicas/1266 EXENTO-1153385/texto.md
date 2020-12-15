@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1266, de 23 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a). 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 1 y 2, para la obra: SISTEMA DE AGUA POTABLE RURAL LOCALIDAD EL PINO, que figura a nombre de VALLEJOS CASTILLO LUIS ROSENDO y KAREN YOHANA CARMONA BERENGUELA, roles de avalúo 146-51 y 146-63, Comuna de HUASCO, REGIÓN DE ATACAMA, superficies 805 y 125 m2. respectivamente. La Comisión de Peritos integrada por JUAN ANDRES TEPPER LAVANDEROS, ANDRES ECHEVERRIA CAMPO y ARTURO PAULINO PERALTA MORALES, mediante informe de tasación de 23 de octubre de 2020, fijó el monto de la indemnización provisional en la cantidad de $7.947.670, para el lote Nº1 y $812.500, para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
