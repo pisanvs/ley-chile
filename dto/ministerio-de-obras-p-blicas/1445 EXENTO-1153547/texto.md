@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1445, de 04 de diciembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.1, 2 y 3, para la obra: SERVICIO DE AGUA POTABLE RURAL CHEQUEN, que figura a nombre de I MUNICIPALIDAD DE SAN CLEMENTE, VILLA NUEVA ESPERANZA DE CHEQUEN y VILLA NUEVA ESPERANZA DE CHEQUEN, roles de avalúo 175-22, 338-21 y 338-21, Comuna de SAN CLEMENTE, REGION DEL MAULE, superficies 637,81, 48,59 y 407,80 m2 respectivamente. La Comisión de Peritos integrada por VICTORIA ADRIANA BLANCO COSTA, LORENA ELIZABETH GAJARDO ALARCON y PAULA SOLEDAD GONZALEZ ORTEGA, mediante informe de tasación de 20 de octubre de 2020, fijó el monto de la indemnización provisional en la cantidad de $4.145.765 para el lote Nº1, $315.835 para el lote Nº2, y $2.650.700 para el lote Nº3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
