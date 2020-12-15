@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1328, de 30 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 33, 34 y 35, para la obra: Ampliación Ruta H-27 Carretera El Cobre, que figuran a nombre de Silca Servicios Limitada, rol de avalúo 102-25, Comuna de Machalí, Región del Libertador General Bernardo O'Higgins, superficies 225, 1.126 y 1.471 m2. respectivamente. La Comisión de Peritos integrada por Rayén Alejandra Guzmán Theoduloz, Carlos Alberto Montecinos Galleguillos y Patricia Verónica Zavala Contreras, mediante informe de tasación de 29 de abril de 2019, fijó el monto de la indemnización provisional en la cantidad de $8.295.000 para el lote N° 33, $78.710.000 para el lote N° 34, y $132.180.000 para el lote N° 35. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2186, de 1978.
+
+Fiscalía MOP.
