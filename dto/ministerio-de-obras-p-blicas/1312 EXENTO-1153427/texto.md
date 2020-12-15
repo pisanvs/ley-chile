@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1312 de 24 de noviembre de 2020, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14º letra e) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 2 para la obra: MEJORAMIENTO RUTA NAHUELBUTA.SECTOR A. SUBSECTOR 3: VARIANTE COIHUE, Región del Biobío, que figura a nombre de SUC OLIVAS GOMEZ VIRGINIA DEL CARME, rol de avalúo 73-751 de la comuna de Negrete, superficie 31.676 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 183 de 18 de agosto de 2020, modificada por Resolución Expropiaciones Fiscalía (Exenta) Nº 373 de 11 de noviembre de 2020, integrada por Javier Alejandro Ibarra Reyes, Paola Andrea Van de Wyngard Soto y Nicolás Alejandro Alarcón Sánchez, fijó con fecha 30 de septiembre de 2020, el valor provisional de la indemnización en la cantidad de $555.765.400.- para el lote Nº 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
