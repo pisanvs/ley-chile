@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1419 de 30 de noviembre de 2020, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14º letra e) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 3 para la obra: CONCESION INTERNACIONAL RUTA 5. TRAMO: TEMUCO - RIO BUENO. SECTOR: PASO GANADO 3X3 EST. MARIQUINA. KM. 791.500,00 A KM. 791.800,00, Región de Los Ríos, que figura a nombre de JARAMILLO RISCO MARTA DEL CARMEN, rol de avalúo 375-50 de la comuna de Mariquina, superficie 253 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 145 de 6 de agosto de 2020, integrada por Dory Gisela Donoso Salgado, Karin Alicia Ernst Elizalde y Helmuth Felipe Alarcón Villegas, fijó con fecha 24 de septiembre de 2020, el valor provisional de la indemnización en la cantidad de $2.995.775.- para el lote Nº 3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
