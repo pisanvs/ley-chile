@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°1259, de 23 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL MOP N°206 de 1960, se expropiaron los lotes de terreno N°s. 1 y 2, para la obra: SISTEMA DE AGUA POTABLE RURAL LOCALIDAD LA MARQUESA, ESTANQUE Y RED IMPULSION, que figuran a nombre de BREVICHETT MALDONADO MARTA ELENA y CAMPILLAY ROJAS OMAR ALBERTO, roles de avalúo 867-32 y 867-17, comuna de ALTO DEL CARMEN, REGIÓN DE ATACAMA, superficies 236 y 1.422 m2. respectivamente. La Comisión de Peritos integrada por XIMENA ELIANA PEÑALOZA HERRERO, NORMAN ESTANISLAO CALDERON PONTIGGIA y CLAUDIO ANDRES CONCHA GROSSI, mediante informe de tasación de 20 de octubre de 2020, fijó el monto de la indemnización provisional en la cantidad de $7.194.300, para el lote N°1 y $7.883.820, para el lote N°2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
