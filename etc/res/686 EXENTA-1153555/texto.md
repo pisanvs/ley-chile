@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta electrónica N° 686, de fecha 07 de diciembre de 2020, Serviu Región de Atacama, conforme DL 2.186 de 1978, conforme artículo 51 ley 16.391 y DS N° 65/2020 (V. y U.), ordenó la expropiación parcial del inmueble denominado Lote N° 14, de la ciudad de Copiapó, rol de avalúo fiscal Nº 320-14, de aparente dominio de Inmobiliaria El Chañar Spa, deslindes según plano de expropiaciones, para proyecto "Mejoramiento Conexión Sector Diego de Almagro con El Palomar, Copiapó". Comisión tasadora integrada por Ximena Peñaloza Herrero, arquitecta, Norman Calderón Pontiggia, ingeniero agrónomo y María Josefina Pizarro Sandoval, ingeniera agrónoma, según informe de tasación del 02 de diciembre de 2020, fijó un monto provisional de indemnización de $5.788.050.- pagadera al contado.-
+
+Rodrigo Maturana Fuentes, Director Serviu Región Atacama.
