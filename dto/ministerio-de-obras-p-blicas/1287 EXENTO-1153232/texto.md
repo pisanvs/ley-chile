@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 1287, de 23 de noviembre de 2020, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto MOP. (Exento) Nº 877, de 30 de agosto 2019, que expropió el lote Nº 10 de la OBRA RELICITACIÓN CONCESIÓN CAMINO NOGALES PUCHUNCAVÍ, SECTOR: SECTOR 1 (RUTA F 20), SUBSECTOR: RUTA 5 NORTE - PLAZA DE PEAJE KM. 0.000,00 AL KM. 6.500,00 COMUNA DE NOGALES, REGIÓN DE VALPARAÍSO en la parte que se refiere al convenio Ad-Referéndum de indemnización definitiva de la expropiación, a la que ordena la suscripción de la escritura pública, a la indemnización acordada y al nombre del propietario. Consígnese judicialmente a nombre de, según resolución Expropiaciones Fiscalía (Exenta) Nº 203 de 27 de agosto de 2020, FERNÁNDEZ CISTERNAS JOSÉ ROLANDO, el monto provisional de la indemnización fijada mediante tasación 11 de enero de 2019, ascendente a la cantidad de $2.687.500, para el lote Nº10.
+
+Fiscalía MOP.
