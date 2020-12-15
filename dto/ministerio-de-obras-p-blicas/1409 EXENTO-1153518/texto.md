@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1409 de 30 de noviembre de 2020, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 70 para la obra: CONEXIÓN VIAL RUTA 78 HASTA RUTA 68, Región Metropolitana de Santiago, que figura a nombre de CORNEJO FUENTES CAROLYN DEL CARM, rol de avalúo 1165-90 de la comuna de Maipú, superficie 212 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 42 de 20 de marzo de 2020, integrada por Solange Alejandra Lagos Díaz, Eduardo Alejandro Silva Aracena y Karina Alejandra Lorca Pérez, fijó con fecha 8 de mayo de 2020, el valor provisional de las indemnizaciones en la cantidad de $40.438.750 para el lote N° 70. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
