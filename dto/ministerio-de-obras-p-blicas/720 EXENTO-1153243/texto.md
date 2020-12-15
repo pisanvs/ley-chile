@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°720, de 21 de agosto de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL MOP N°206 de 1960, se expropiaron los lotes de terreno N°s. 223 y 225, para la obra: REPOSICION RUTA 148 SECTOR: CRUCE RUTA 5 - PUENTE QUEIME, que figuran a nombre de MARTIN MOLINA NURIA DEL CARMEN Y OT, rol de avalúo 1096-122, comuna de QUILLON, REGION DE ÑUBLE, superficies 101 y 87 m2 respectivamente. La Comisión de Peritos integrada por DANIEL AARÓN HEBER CHANDÍA MARÍN, GONZALO ANDRÉS SUAZO FIGUEROA y ROXANA CECILIA ABARZUA GAJARDO, mediante informe de tasación de 14 de septiembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $3.021.720 para el lote N°223, y $1.843.040 para el lote N°225. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2.186, de 1978.
+
+Fiscalía MOP.
