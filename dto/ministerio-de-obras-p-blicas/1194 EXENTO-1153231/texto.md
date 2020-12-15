@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP. N° 1194, de 12 de noviembre de 2020, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP. N°217, de 22 de abril de 2019, en la parte que se refiere al convenio Ad-Referéndum de indemnización definitiva de la expropiación y en lo que respecta a la indemnización del lote de terreno N°67 y modificó el numeral segundo que se refiere al nombre del propietario, expropiado con motivo de la obra: "Mejoramiento Rutas W-135-125, Sector: Rampa Chacao - Linao, que figura actualmente a nombre de INMOBILIARIA LAS MELLAS LIMITADA, Comuna de Ancud, Región de Los Lagos. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 15 de junio de 2015, complementada por acta de 09 de junio de 2020, ascendente a la cantidad de $1.615.800, para el lote N°67.
+
+Fiscalía MOP.
