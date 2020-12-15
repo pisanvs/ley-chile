@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 2.196, de fecha 27 de noviembre de 2020, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación del resto del lote Nº 2 para la ejecución Proyecto "La expropiación Serviu Región de Los Lagos, terreno ubicado sector Pampa Alegre/Francke, comuna de Osorno, Región Los Lagos" que figura a nombre de Constructora América S.A., rol de avalúo según SII Nº 2224-25, comuna de Osorno, superficie 95.873,72 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher Guarda, Enrique Edgardo Hoelck Altmann y Nelson Bernardo Turra Turra designados por resolución exenta Nº 1.244, de 22 de junio de 2020, fijó con fecha 14 de julio de 2020, el valor provisional de la indemnización en la suma de $2.061.284.980. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley Nº 2.186.
+
+Director Regional Serviu Región de Los Lagos.
