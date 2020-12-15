@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1325, de 30 de noviembre de 2020, respecto a la expropiación del lote de terreno N° 28EL2, para la obra PROYECTO EXTENSION LINEA 2, SECTOR: AVDA. PADRE ALBERTO HURTADO, Comuna de LA CISTERNA, REGIÓN METROPOLITANA DE SANTIAGO, se modificó y desistió parcialmente del Decreto MOP (Exento) N° 76, de 26 marzo de 2018, como a continuación se indica: 1) Se tuvo por desistida parcialmente la expropiación del lote de terreno N° 28EL2, reduciéndose la superficie expropiada; 2) Se modificó el numeral segundo del Decreto MOP (Exento) N° 76, en el sentido que la nueva superficie del Lote de terreno N° 28EL2 es 33 m2., y 3) Se aprobó la modificación efectuada al Plano y Cuadro de Expropiación elaborado por la Empresa de Transporte de Pasajeros Metro S.A., en lo que respecta a la disminución de la superficie del lote de terreno N° 28EL2. La publicación se efectúa en cumplimiento a lo dispuesto en los artículos 7° y 32° del Decreto Ley N°2.186, de 1978.
+
+Fiscalía MOP.
