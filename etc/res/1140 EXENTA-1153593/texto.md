@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N°1.140 de 20/11/2020, conforme al artículo 51 ley 16.391, DL. 2.186, de 1978 y DL. 1305, de 1976 de Vivienda y Urbanismo, el Serviu Región de Los Ríos, expropió el Lote H-1, ubicado en Sector Puerto Fuy, comuna de Panguipulli, de 20.000 M2 de superficie de terreno, Rol de Avalúo N°205-29, de la comuna de Panguipulli, que forma parte de un terreno de mayor extensión, de aparente dominio de Enel Generación Chile S.A., para destinarlo a la iniciativa "Adquisición de Terrenos Habitacionales Sociales 2020". La Comisión de Peritos Tasadores nombrada por resolución exenta N°667, de 07/07/2020, del Serviu Región de Los Ríos, integrada por María Soledad Núñez Arroyo, Yaschala Maribel Yañez Riffo y doña María José Freire Allendes, fijó el monto de indemnización provisional, según informe de fecha 15/07/2020, esta última que reajustada de acuerdo el IPC corresponde a $279.811.665, conforme a lo dispuesto en el artículo 5° del DL. 2.186.- La publicación se efectúa en cumplimiento de lo preceptuado en el artículo 7° del DL. 2.186 de 1978.-
+
+Raúl Cristóbal Escárate Peters.
