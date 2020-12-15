@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 1385, de 30 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 2A, para la obra: ESTUDIO DE INGENIERIA DEL SISTEMA DE RIEGO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES FAJA MAISAN, OBRA CANAL LOS LINGUES SUR Y CANAL LOS LINGUES NORTE, que figura a nombre de SCHAUER FREY OSVALDO LUIS Y OTROS, rol de avalúo 383-61, Comuna de PITRUFQUEN, REGION DE LA ARAUCANÍA, superficie 1.830 m2. La Comisión de Peritos integrada por PABLO ALEX MANSILLA ARAVENA, RAMON LUIS MARIN FRANZ y HANDY GHISLAINE CAMPOS SEPULVEDA, mediante informe de tasación de fecha 1 de junio de 2015, fijó el monto de la indemnización provisional en la cantidad de $1.098.000.- para el lote Nº2A. La indemnización se pagará al contado. La publicación se fectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.-
+
+Fiscalía MOP.
