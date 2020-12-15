@@ -1,0 +1,9 @@
+NOTIFICA RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL PROYECTO: "PARQUE EÓLICO CAMAN"
+
+De conformidad con lo dispuesto en el artículo 91 del decreto supremo Nº 40/2012, del Ministerio del Medio Ambiente, que aprueba el Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica a las personas naturales y jurídicas que presentaron observaciones durante los tres procesos de participación ciudadana en el marco de la evaluación ambiental del Proyecto "Parque Eólico Caman", que por medio de la resolución exenta Nº 65/2020, de fecha 7 de diciembre de 2020, la Comisión de Evaluación de la Región de Los Ríos, calificó favorablemente el proyecto antes singularizado.
+
+Estas personas naturales y jurídicas disponen de 30 días, contados desde la presente notificación, para presentar recurso de reclamación ante el Comité de Ministros, de conformidad a lo dispuesto en los artículos 20 y 29 ley Nº 19.300 sobre Bases Generales del Medio Ambiente.
+
+El texto íntegro de la resolución antes singularizada se encuentra disponible en el expediente administrativo de evaluación ambiental del Proyecto "Parque Eólico Caman", al cual se puede acceder por medio del sitio web: www.sea.gob.cl o bien, directamente por medio del siguiente enlace: < https://bit.ly/2W8Kgy1 >. Asimismo, se hace presente que el Anexo "Consideración de Observaciones Ciudadanas" se encuentra disponible en el siguiente enlace: < https://bit.ly/37RdWp9 >. De igual forma, se indica que podrá acceder al contenido de los referidos actos administrativos acudiendo a las Oficinas de la Dirección Regional del SEA, ubicada en Baquedano Nº 625, Valdivia.-
+
+Karina Bastidas Torlaschi, Directora Regional del Servicio de Evaluación Ambiental, Secretaria Comisión de Evaluación, Región de Los Ríos.
