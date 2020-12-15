@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.560, 2 de diciembre de 2020, Serviu Región del Biobío ordenó expropiación parcial de terreno y de edificación de un inmueble ubicado en El Molino, Rol de Avalúo Nº 551-3, comuna de Tomé, de aparente dominio de Forestal Arauco S.A., superficie afecta expropiación parcial de terreno de 1.085,69 m2 y de 0,0 m2 de edificación, según Plano S8R-39450-1, para la ejecución de las obras del proyecto "Construcción Espacio Público Dichato - Vegas de Coliumo", comuna de Tomé, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Leonardo Fasce Casanueva, constructor civil Juan Pablo Cuevas Castillo y arquitecto Eduardo Riquelme Illanes, según informe de fecha 06.11.2020, fijó monto provisional indemnización en $26.931.743.-
+
+Director Serviu Región del Biobío.
