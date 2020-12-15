@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1406 de 30 de noviembre de 2020, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14º letra e) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº A32 para la obra: CONCESIÓN EMBALSE LAS PALMAS, Región de Valparaíso, que figura a nombre de PARKER PARADA ROBERTO ARMANDO Y OTR, rol de avalúo 153-10 de la comuna de Petorca, superficie 4.520 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 266 de 2 de octubre de 2020, integrada por Paulina Lorena Jadue Zaror, Loreto Isabel Hernández Ríos y Angélica Yanett Seura Rojas, fijó con fecha 19 de octubre de 2020, el valor provisional de la indemnización en la cantidad de $3.164.000 para el lote Nº A32. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
