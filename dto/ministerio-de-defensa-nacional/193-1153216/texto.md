@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 193, de fecha 30 de septiembre de 2020, de Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Soledad Deyire Pardo Muñoz, RUN N° 7.663.870-5, concesión marítima menor, con vencimiento el 30 de junio de 2025, sobre un sector de Terreno de Playa y Uso de Mejora Fiscal, en el lugar denominado Flamenco, comuna de Chañaral, provincia de Chañaral, Región de Atacama, con una superficie total de 444 m². A modo referencial se señalan las siguientes coordenadas geográficas: Ver-1 Lat.: 26°33'31.18"S Long: 70°40'51.41"W, Ver-4 Lat.: 26°33'31.98"S Long: 70°40'51.47"W. El objeto de la solicitud consiste en amparar la construcción existente para destinarla a casa de veraneo familiar. Las obras consisten en Mejoramiento básico a la construcción existente y el plazo contemplado para su ejecución es de 5 meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Ricardo Henríquez Kremer, Teniente Primero LT, Capitán de Puerto de Chañaral.
