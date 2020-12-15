@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1131, de 12 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno N°s. 1 y 2, para la obra: NORMALIZACIÓN PEQUEÑO AERÓDROMO QUELLÓN, que figura a nombre de AVENDANO CARDENAS HUGO ARMANDO y MILLALDEO BORQUEZ OMAR ONOFRE, roles de avalúo 164-65 y 164-71, Comuna de QUELLÓN, REGIÓN DE LOS LAGOS, superficies 1.265 y 2.208 m2. respectivamente. La Comisión de Peritos integrada por PEDRO IGNACIO ZEGERS RIESCO, PABLO ALEX MANSILLA ARAVENA y NICOLAS FABIAN ROMERO MORALES, mediante informe de tasación de 26 de febrero de 2019, fijó el monto de la indemnización provisional en la cantidad de $85.610.000, para el lote Nº1 y $202.152.000, para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
