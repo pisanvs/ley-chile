@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1398 de 30 de noviembre de 2020, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 55 para la obra: CONCESIÓN VIAL RUTAS DEL LOA. SECTOR B: NUEVA CIRCUNVALACIÓN ORIENTE A CALAMA. KM. 0.400,00 A KM. 25.000,00, Región de Antofagasta, que figura a nombre de STRAUBE RIOS FRANZ CARL Y OTRO, rol de avalúo 2003-22 de la comuna de Calama, superficie 4.063 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 188 de 18 de agosto de 2020, integrada por Carolina Verónica O'Brien Molina, Bárbara Alejandra Portilla Cortés y Víctor Marcelo Soto Troncoso, fijó con fecha 25 de septiembre de 2020, el valor provisional de la indemnización en la cantidad de $58.913.500.- para el lote N° 55. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+Fiscalía MOP.
