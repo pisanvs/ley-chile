@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1160 de 12 de noviembre de 2020, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 1 para la obra: CONCESION INTERNACIONAL RUTA 5. TRAMO COLLIPULLI - TEMUCO. SECTOR: RAMALES ATRAVIESO QUINTA FAJA, GORBEA. KM. 717.000,00 A KM. 717.700,00, Región de la Araucanía, que figura a nombre de MARINAO AMULEF HILARIO, rol de avalúo 404-38 de la comuna de Gorbea, superficie 2.043 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 136 de 6 de agosto de 2020, integrada por Rodrigo Alexis Escobar Fernández, Dory Gisela Donoso Salgado y Evaldo Roberto Contreras Roa, fijó con fecha 31 de agosto de 2020, el valor provisional de la indemnización en la cantidad de $13.113.500 para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
