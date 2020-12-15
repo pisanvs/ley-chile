@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1387, de 30 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s .2 y 3, para la obra: SERVICIO DE AGUA POTABLE RURAL PEUMO NEGRO LAS DELICIAS, que figura a nombre de SANHUEZA EPUL PEDRO DEL CARMEN y MUNOZ OLEGARIO DE LA CRUZ, roles de avalúo 161-113 y 161-98, Comuna de SAN CLEMENTE, REGION DEL MAULE, superficies 189,90 y 313,15 m2 respectivamente. La Comisión de Peritos integrada por VICTORIA ADRIANA BLANCO COSTA, LORENA ELIZABETH GAJARDO ALARCON y PAULA SOLEDAD GONZALEZ ORTEGA, mediante informe de tasación de 19 de octubre de 2020, fijó el monto de la indemnización provisional en la cantidad de $569.700 para el lote N°2, y $939.450 para el lote N°3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
