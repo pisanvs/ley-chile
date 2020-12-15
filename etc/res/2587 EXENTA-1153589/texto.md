@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.587, de 3 de diciembre 2020, Serviu Región del Biobío ordenó expropiación total de un inmueble ubicado en Collao 1655, Rol de Avalúo Nº 320-26, comuna de Concepción, de aparente dominio de Araneda Campos Mauricio Lisandro y otros, en una superficie de 593,00 m2 de terreno y 289,79 m2 de edificación (a, 2b, c, d, e, f y g), dentro de polígono y linderos señalados plano de expropiación S8R-39.341-2, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao/General Novoa, comuna de Concepción", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Rubén Muñoz Vera, por arquitecto Victoria García Silvera y por arquitecto Daniela Cortez Moraga, según informe de fecha 30 de noviembre 2020, fijó monto provisional indemnización, en $176.910.866, pagadera de contado.
+
+Director Serviu Región del Biobío.
