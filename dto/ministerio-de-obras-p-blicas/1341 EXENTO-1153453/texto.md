@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1341, de 30 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 28-A, para la obra: MEJORAMIENTO RUTA K-635/573, SECTOR DUAO-SAN DIEGO-CRUCE RUTA 115-CH, que figura a nombre de AGRICOLA SAN FRANCISCO LIMITADA, rol de avalúo 179-46, Comuna de SAN CLEMENTE, REGION DEL MAULE, superficie 185 m2. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 02 de agosto de 2017, fijó el monto de la indemnización provisional en la cantidad de $1.141.900 para el lote Nº28-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
