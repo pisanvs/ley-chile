@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1303 de 24 de noviembre de 2020, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 20 para la obra: MEJORAMIENTO RUTA NAHUELBUTA.SECTOR A.SUBSECTOR 2: RUTA 5 - PUENTE COIHUE, Región del Biobío, que figura a nombre de MANTENCION Y CONTROL INDUSTRIAL, rol de avalúo 1649-21 de la comuna de Los Angeles, superficie 3.577 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 165 de 13 de agosto de 2020, complementada por nombrada por Resolución Expropiaciones Fiscalía Exenta N° 382 de 16 de noviembre de 2020, integrada por Marcelo Gabriel Oyarzo Saldías, Jorge Esteban Casagrande Saavedra y Patricia Angélica Morales Rivera, fijó con fecha 25 de septiembre de 2020, el valor provisional de la indemnización en la cantidad de $424.165.110 para el lote N° 20. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
