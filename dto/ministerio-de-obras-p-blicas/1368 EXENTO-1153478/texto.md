@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°1.368, de 30 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL MOP N°206 de 1960, se expropió el lote de terreno N° 1, para la obra: SERVICIO DE AGUA POTABLE RURAL BODEGA, que figura a nombre de ILUSTRE MUNICIPALIDAD DE LONGAVI, rol de avalúo 524-309, comuna de LONGAVI, REGION DEL MAULE, superficie 574 m2. La Comisión de Peritos integrada por MARIA ISABEL DE JESUS RIOS MARCUELLO, PATRICIA ANGELICA MORALES RIVERA y PAULA SOLEDAD GONZALEZ ORTEGA, mediante informe de tasación de 16 de octubre de 2020, fijó el monto de la indemnización provisional en la cantidad de $4.257.000 para el lote N°1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2.186, de 1978.
+
+Fiscalía MOP.
