@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución ex. N° 1.239, de fecha 25/11/2020, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012, de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock, Angol", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado "Resto del Lote Dos, ubicado en Avenida Huequén, comuna de Angol, Provincia de Malleco, Novena Región", Rol de avalúo 800-22, comuna de Angol. La superficie a expropiar aproximada es de 137,95 metros cuadrados, de aparente dominio de don Pedro José Márquez Ibáñez. Comisión de Peritos integrada por don Arturo Osvaldo Cantos Oyarzún, don Claudio Alejandro Romo Sanhueza y Constanza Victoria Hilda Mihoevic González, fijó monto de indemnización provisional en $39.828.979, según Informe N° 55-0 de fecha 6/11/2020, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
