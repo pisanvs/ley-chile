@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1238, de 23 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.337 y 338, para la obra: REPOSICION PAVIMENTO RUTA L-111-11, SECTOR COLBUN-PANIMAVIDA-LINARES, que figuran a nombre de BETHKE WULF CARLOS YURGEN Y OTRO, rol de avalúo 550-36, Comuna de LINARES, REGION DEL MAULE, superficies 2.265 y 1.084 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 09 de marzo de 2020, fijó el monto de la indemnización provisional en la cantidad de $15.295.000 para el lote Nº337, y $9.024.500 para el lote Nº338. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
