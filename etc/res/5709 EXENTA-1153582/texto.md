@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 5.709, de 10 de diciembre de 2020, Serviu Región de Valparaíso dispuso la expropiación conforme al artículo 51 ley 16.391 y decreto ley 2.186 de 1978, de inmuebles signados como lotes I y II, en el plano "Proyecto de Expropiaciones AP-EXP N°2 del Serviu Región de Valparaíso de abril del año 2020, comuna de Valparaíso, para la Ejecución del Proyecto de Soluciones Habitacionales para las Familias del Campamento Campanilla de la comuna de Valparaíso, de presunto dominio de Banco Edwards y Cía., roles avalúo 2426-16 y 2383-1, respectivamente. Comisión Tasadora integrada por Julia Venegas Escalante, Claudio Sepúlveda Salinas y Natalia Lever Villarroel, según informe de octubre de 2020 que fijó monto indemnización provisional en $278.887.357, que será pagada al contado.-
+
+Director Serviu.
