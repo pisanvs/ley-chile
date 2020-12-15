@@ -1,0 +1,7 @@
+OTORGAMIENTO DE DESTINACIÓN MARÍTIMA
+
+Decreto exento N° 722, de fecha 27 de agosto de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, para el Servicio Nacional de Pesca y Acuicultura, RUT: N° 60.701.002-1, destinación marítima, con vencimiento el 30 de junio de 2035, sobre un sector de Fondo de Mar y Porción de Agua, en el lugar denominado Rincón de Ollas, comuna de Los Vilos, provincia de Choapa, Región de Coquimbo, con una superficie total de 418.500 m², la que fue tramitada con el SIABC N° 38.622. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en mantener un área de manejo y permitir la explotación de los recursos bentónicos existentes en el lugar, según lo establecido en el Título IV, párrafo 3°, artículo 55 A de la ley N° 18.892, Ley General de Pesca y Acuicultura y sus modificaciones; y el DS N° 355, del 12 de junio de 1995, del Ministerio de Economía, Fomento y Reconstrucción, reglamento sobre área de manejo y explotación de recursos bentónicos. La destinación marítima no contempla obras. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Los Vilos. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Patricio Sepúlveda Mora, Teniente 2° LT, Capitán de Puerto de Los Vilos.
