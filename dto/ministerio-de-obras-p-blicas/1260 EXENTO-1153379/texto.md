@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1260, de 23 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.A y B, para la obra: SISTEMA DE AGUA POTABLE RURAL PERALES, que figuran a nombre de MUNOZ ORTIZ ERNESTINA y GAVILAN VILLARROEL VICTOR ADRIAN, roles de avalúo 231-20 y 227-5, Comuna de COELEMU, REGIÓN DE ÑUBLE, superficies 1.128 y 338 m2. respectivamente. La Comisión de Peritos integrada por MARCELO GABRIEL OYARZO SALDIAS, DIEGO ANDRES ROZAS GALLARDO y NICOLAS ALEJANDRO ALARCON SANCHEZ, mediante informe de tasación de 19 de octubre de 2020, fijó el monto de la indemnización provisional en la cantidad de $4.125.800, para el lote NºA y $1.664.400, para el lote N°B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
