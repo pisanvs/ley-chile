@@ -1,0 +1,7 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MAYOR
+
+Decreto supremo N°192, del 12 de junio de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Ilustre Municipalidad de Antofagasta, RUN: 69.020.300-6, primera renovación de concesión marítima mayor, con vencimiento el 30 de junio de 2050, sobre un sector de terreno de playa, playa y fondo de mar en el lugar denominado Costanera Sur, Comuna de Antofagasta, Provincia de Antofagasta, Región de Antofagasta, con una superficie total de 114.971,08 m2, la que fue tramitada con el SIABC N°43.796. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste es amparar instalaciones destinadas a un paseo peatonal complementado con zonas de estar, miradores, terrazas, áreas verdes, jardines, equipamiento deportivo, áreas de servicios y estacionamientos; siete lotes serán destinados a servicio de restaurant-pub. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Antofagasta. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Giovanni Grassi Fuentes, Teniente 1° LT, Capitán de Puerto de Antofagasta, suplente.
