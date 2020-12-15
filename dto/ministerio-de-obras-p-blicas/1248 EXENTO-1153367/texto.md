@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 1248, de 23 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 15-B, para la obra: REPOSICIÓN PUENTE RÍO BUENO EN RUTA T-71, que figura a nombre de CARO GONZALEZ LUIS GILBERIO, rol de avalúo 546-819, Comuna de LA UNIÓN, REGION DE LOS RÍOS, superficie 402 m2. La Comisión de Peritos integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, YASCHALA MARIBEL YÁÑEZ RIFFO y MARÍA SOLEDAD NÚÑEZ ARROYO, mediante informe de tasación de fecha 30 de junio de 2014, fijó el monto de la indemnización provisional en la cantidad de $2.616.500.- para el lote Nº15-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
