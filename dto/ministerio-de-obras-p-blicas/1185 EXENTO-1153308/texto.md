@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1185, de 12 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 54, para la obra: CONEXIÓN VIAL RUTA 78 HASTA RUTA 68, que figura a nombre de WALKER SANCHEZ MARGARITA MARIA Y OT, rol de avalúo 1195-24, Comuna de MAIPU, REGION METROPOLITANA DE SANTIAGO, superficie 954 m2. La Comisión de Peritos integrada por CARLOS ALBERTO MONTECINOS GALLEGUILLOS, MUFIDA VIOLA ABUAWAD ELIAS y GABRIEL ANTONIO PANTOJA RIVERA, mediante informe de tasación de 29 de abril de 2020, fijó el monto de la indemnización provisional en la cantidad de $40.955.000 para el lote N°54. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
