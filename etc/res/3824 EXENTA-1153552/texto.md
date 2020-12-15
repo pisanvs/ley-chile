@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.824, de fecha 23 de noviembre de 2020, se ordenó la expropiación total, conforme a las normas del decreto Ley Nº 2.186 de 1978, del denominado Lote Nº L1, correspondiente al inmueble ubicado en Av. José Arrieta 9540, Rol de Avalúo 5730-483, de la comuna de La Reina, Región Metropolitana, de aparente dominio de I. Municipalidad de La Reina, con una superficie aproximada de 20.074,47 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Transporte Público Región Metropolitana". La Comisión de Peritos integrada por los señores Sergio Jeremías Órdenes Salinas, Ingeniero Civil; Karine Acevedo Hinojosa, Ingeniero Constructor; y Mónica Conejeros Rudloff, Ingeniero Agrónomo, mediante Informe de fecha 13 de noviembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $4.329.133.754, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto Ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
