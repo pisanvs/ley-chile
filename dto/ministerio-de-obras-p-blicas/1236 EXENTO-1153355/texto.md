@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°1236, de 23 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL MOP N°206 de 1960, se expropió el lote de terreno N° 7-B, para la obra: MEJORAMIENTO RUTA K-635/573, SECTOR DUAO-SAN DIEGO-CRUCE RUTA 115-CH, que figura a nombre de IGLESIA VISION INTERNACIONAL APOSTO, rol de avalúo 177-136, Comuna de SAN CLEMENTE, REGION DEL MAULE, superficie 210 m2. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 31 de mayo de 2017, fijó el monto de la indemnización provisional en la cantidad de $1.202.200 para el lote N°7-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2.186, de 1978.
+
+Fiscalía MOP.
