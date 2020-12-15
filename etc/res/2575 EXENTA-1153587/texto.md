@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Exenta Nº 2.575 del 3 de diciembre de 2020, Serviu Región del Biobío ordenó expropiación parcial de inmueble ubicado en Avda. Collao 1645, Rol de Avalúo Nº 320-25, comuna de Concepción, de aparente dominio de Cuerpo de Bomberos de Concepc. La superficie afecta a expropiación parcial de terreno es de 169,96 m2 (Lote 155) y 0,00 m2 de edificación, cuyos deslindes son: Norte: Tramo AB en 12,39 m y Tramo BC en 15,72 m con resto de inmueble rol 320-25; Oriente: Tramo CD en 6,57 m con inmueble Rol 320-26; Sur: Tramo DE en 28,90 m con Avenida Ignacio Collao; Poniente: Tramo EA en 4,84 m con inmueble rol 320-24, conforme a plano de expropiación S8R-39342-1 del mes de agosto de 2020, para la ejecución de la obra "Mejoramiento Avenida Par Vial Collao - General Novoa", comuna de Concepción, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Rubén Carlos Muñoz Vera, por la arquitecta Victoria Eugenia García Silvera y por la arquitecta Daniela Andrea Cortez Moraga, según informe de fecha 06.11.2020, que fijó monto provisional en $38.033.153.-, pagadero de contado.-
+
+Director Serviu Región del Biobío.
