@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°1195, de 12 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 167, para la obra: MEJORAMIENTO RUTA L-45, SECTOR EL PEÑASCO-RETEN LOS HUALLES, que figura a nombre de YANEZ MARQUEZ SAMUEL, rol de avalúo 554-215, Comuna de LINARES, REGION DEL MAULE, superficie 119 m2. La Comisión de Peritos integrada por ALICIA FLORES PACHECO, JHANNE MEZA IBAR y GABRIEL PANTOJA RIVERA, mediante informe de tasación de 29 de abril de 2019, fijó el monto de la indemnización provisional en la cantidad de $1.375.050 para el lote N°167. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
