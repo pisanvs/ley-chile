@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1202, de 12 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 1, para la obra: CONSERVACION RED VIAL REGION DE LOS LAGOS (2018 - 2020), PUENTE INCOPULLI Nº1, que figura a nombre de CHIGUAY CATEPILLAN SABINO, rol de avalúo 218-16, Comuna de QUELLON, REGIÓN DE LOS LAGOS, superficie 465 m2. La Comisión de Peritos integrada por LEOPOLDO RAMON SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA y JUAN SAMUEL BARRIENTOS BAHAMONDE, mediante informe de tasación de 20 de noviembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $2.857.000, para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
