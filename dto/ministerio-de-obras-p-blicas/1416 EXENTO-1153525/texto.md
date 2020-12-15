@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1416 de 30 de noviembre de 2020, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 3 para la obra: CONCESION INTERNACIONAL RUTA 5. TRAMO: TEMUCO - RIO BUENO. SECTOR: ATRAVIESO MULPUN NORTE. KM. 809.900,00 A KM. 810.500,00, Región de los Ríos, que figura a nombre de SOCIEDAD AGRICOLA LAS QUEMAS LIM, rol de avalúo 113-2 de la comuna de Mafil, superficie 168 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 149 de 6 de agosto de 2020, integrada por Dory Gisela Donoso Salgado, Karin Alicia Ernst Elizalde y Helmuth Felipe Alarcón Villegas, fijó con fecha 24 de septiembre de 2020, el valor provisional de la indemnización en la cantidad de $1.516.200.- para el lote N° 3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
