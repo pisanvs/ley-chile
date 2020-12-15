@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) N° 1246, de 23 de noviembre de 2020, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. N°850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206, de 1960, se expropió el lote de terreno N° 3, para la obra "CAMINO AMPLIACIÓN REPOSICIÓN RUTA 115-CH, SECTOR TALCA - SAN CLEMENTE, TRAMO I TALCA - VARIANTE SAN CLEMENTE, KILÓMETRO 0,00000 A KM. 13,92941, COMUNA DE TALCA - SAN CLEMENTE, PROVINCIA DE TALCA, REGIÓN DEL MAULE", que figura a nombre de BANCO SANTANDER CHILE, rol de avalúo 3713-2, Comuna de , REGIÓN DEL MAULE, superficie 89,82 m2. La Comisión de Peritos integrada por CARLOS LUIS VEGA RIVERA, JUAN EDUARDO SALAZAR LEÓN y PEDRO PABLO CRUZ WESTON, mediante informe de tasación de 20 de mayo de 2012, fijó el monto de la indemnización provisional en la cantidad de $22.866.800.- para el lote N° 3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
