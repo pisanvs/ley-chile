@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1144, de 12 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 1, 2 y 3, para la obra: DISEÑO, INSTALACIÓN DE SISTEMA APR LA PLACA, que figura a nombre de CHERRY TRADERS S.A., CHERRY TRADERS S.A. y SOC AGRÍCOLA LA PLACA LTDA., roles de avalúo 525-14, 525-14 y 528-1, Comuna de OVALLE, REGIÓN DE COQUIMBO, superficies 1.165,40, 643,40 y 1.211,35 m2. respectivamente. La Comisión de Peritos integrada por MIGUEL ÁNGEL RUIZ VALENZUELA, ANA ROSA DEL CARMEN SILVA GIL y JOSÉ EUGENIO PINTO CONTRERAS, mediante informe de tasación de 4 de septiembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $4.078.900, para el lote N° 1, $514.720, para el lote N° 2 y $3.391.780, para el lote N° 3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
