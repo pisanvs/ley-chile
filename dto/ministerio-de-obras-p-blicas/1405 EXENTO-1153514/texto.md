@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1405 de 30 de noviembre de 2020, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° A24-4 para la obra: CONCESIÓN EMBALSE LAS PALMAS, Región de Valparaíso, que figura a nombre de ASTUDILLO NUNEZ CARLOS Y OTRO, rol de avalúo 138-17 de la comuna de Petorca, superficie 3.682 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 265 de 2 de octubre de 2020, integrada por Paulina Lorena Jadue Zaror, Loreto Isabel Hernández Ríos y Angélica Yanett Seura Rojas, fijó con fecha 19 de octubre de 2020, el valor provisional de la indemnización en la cantidad de $2.651.040 para el lote N° A24-4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+Fiscalía MOP.
