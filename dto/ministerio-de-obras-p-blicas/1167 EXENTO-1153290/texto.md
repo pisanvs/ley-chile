@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1167 de 12 de noviembre de 2020, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 3 para la obra: "CONCESION INTERNACIONAL RUTA 5. TRAMO COLLIPULLI - TEMUCO. SECTOR: ACERA PEATONAL CALLE DE SERVICIO YPF LADO ORIENTE. KM. 652.200,00 A KM. 652.900,00", Región de la Araucanía, a nombre de CARLOS FERNANDO ADAM YAÑEZ, sin rol de avalúo, comuna de Lautaro, inscrito a Fs. 1.789 Vta. N° 1.496, año 1995, CBR Lautaro, superficie 30 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 93 de 9 de julio de 2020, integrada por Dory Gisela Donoso Salgado, Helmuth Felipe Alarcón Villegas y Karin Alicia Ernst Elizalde, fijó con fecha 14 de agosto de 2020, el valor provisional de la indemnización en la cantidad de $345.000 para el lote N° 3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
