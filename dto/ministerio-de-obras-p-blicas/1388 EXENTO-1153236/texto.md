@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 1388 de 30 de noviembre de 2020, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP Nº 261, de 28 de abril 2020, que expropió el lote Nº 70 de la OBRA RELICITACIÓN CONCESIÓN CAMINO NOGALES - PUCHUNCAVÍ, SECTOR: SECTOR 1 (RUTA F 20), SUBSECTOR: PLAZA DE PEAJE - FIN DE CUESTA, KM. 6.500,00 AL KM. 19.000,00, COMUNA DE PUCHUNCAVI, REGIÓN DE VALPARAÍSO, en la parte que se refiere al convenio Ad-Referéndum de indemnización definitiva de la expropiación, a la que ordena la suscripción de la escritura pública, a la indemnización acordada y al nombre del propietario. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación 13 de mayo 2019, ascendente a la cantidad de $2.450.728.-, para el lote Nº 70.
+
+Fiscalía MOP.
