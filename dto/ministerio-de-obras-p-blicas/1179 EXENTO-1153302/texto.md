@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1179 de 12 de noviembre de 2020, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 1 para la obra: "CONCESION INTERNACIONAL RUTA 5. TRAMO: TEMUCO - RIO BUENO. SECTOR: CONSTRUCCIÓN PASARELA PEATONAL COLLICO. KM. 769.200,00 A KM. 769.900,00, Región de Los Ríos, que figura a nombre de CHEPO REINANTE HILARIO, rol de avalúo 161-112 de la comuna de Lanco, superficie 354 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 67 de 25 de junio de 2020, integrada por Pablo Alex Mansilla Aravena, Carlos Alberto Montecinos Galleguillos y Mauricio Arturo Llancavil Uribe, fijó con fecha 3 de agosto de 2020, el valor provisional de la indemnización en la cantidad de $3.991.000 para el lote N° 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
