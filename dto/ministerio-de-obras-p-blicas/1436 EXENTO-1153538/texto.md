@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 1436, de 4 de diciembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 13A, para la obra: ESTUDIO DE INGENIERIA DEL SISTEMA DE RIEGO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES FAJA MAISAN, OBRA CANAL LOS AVELLANOS NORTE, que figura a nombre de EL MOLINO LIMITADA, rol de avalúo 384-128, Comuna de PITRUFQUEN, REGION DE LA ARAUCANÍA, superficie 2.540 m2. La Comisión de Peritos integrada por RAMON LUIS MARIN FRANZ, HANDY GHISLAINE CAMPOS SEPULVEDA y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de fecha 1 de junio de 2016, fijó el monto de la indemnización provisional en la cantidad de $1.524.000.- para el lote N°13A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
