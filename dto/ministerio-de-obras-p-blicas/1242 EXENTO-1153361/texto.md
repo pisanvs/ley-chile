@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 1242, de 23 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 119 y 120, para la obra: MEJORAMIENTO RUTA S-75, SECTOR COLICO - CABURGUA NORTE, que figuran a nombre de SUC GUZMAN IPARRAGUIRRE C GLORIA y SUC GUZMAN IPARRAGUIRRE C GLORIA, roles de avalúo 1319-237 y 1319-237, Comuna de CUNCO, REGION DE LA ARAUCANÍA, superficies 945 y 472 m2 respectivamente. La Comisión de Peritos integrada por PABLO ALEJANDRO SEPULVEDA GOMEZ, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informes de tasación de 5 de julio de 2019, fijó el monto de las indemnizaciones provisionales en las cantidades de $14.734.500.- para el lote Nº119, y $12.872.300.- para el lote Nº120. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
