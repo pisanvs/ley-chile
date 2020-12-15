@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1364, de 30 de noviembre de 2020, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.A y B, para la obra: SISTEMA DE AGUA POTABLE RURAL LOS LLEUQUES, que figura a nombre de DIAZ LLULL IRENE ELISA LEONCIA Y OT, rol de avalúo 870-2, Comuna de PINTO, REGION DE ÑUBLE, superficies 1.074 y 101 m2 respectivamente. La Comisión de Peritos integrada por DIEGO ANDRES ROZAS GALLARDO, NICOLAS ALEJANDRO ALARCON SANCHEZ y MARCELO GABRIEL OYARZO SALDÍAS, mediante informe de tasación de 16 de octubre de 2020, fijó el monto de la indemnización provisional en la cantidad de $4.516.000 para el lote NºA, y $484.000 para el lote NºB. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
