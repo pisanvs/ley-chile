@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1186 de 12 de noviembre de 2020, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 19 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR B SUBSECTOR 4: VARIANTE COIHUE - VARIANTE RENAICO, Región del Biobío, que figura a nombre de FFCC DEL ESTADO, rol de avalúo 70-16 de la comuna de Negrete, superficie 5.737,50 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 171 de 13 de agosto de 2020, integrada por Miguel Juan Fernández Cádiz, Tatiana Yazmin Gutiérrez Ortiz y Rayen Alejandra Guzmán Theoduloz, fijó con fecha 25 de septiembre de 2020, el valor provisional de la indemnización en la cantidad de $18.062.500 para el lote Nº 19. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
