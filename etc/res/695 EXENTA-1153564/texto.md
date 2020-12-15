@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta electrónica N° 695, de fecha 07 de diciembre de 2020, Serviu Región de Atacama, conforme DL N° 2.186 de 1978, conforme artículo 51 ley 16.391 y DS N° 65/2020 (V. y U.), ordenó la expropiación parcial del inmueble denominado Lote N° 7, de la ciudad de Copiapó, rol de avalúo fiscal N° 561-16, de aparente dominio de Pedro Arturo Troncoso Figueroa, deslindes según plano de expropiaciones, para proyecto "Mejoramiento Conexión Sector Diego de Almagro con El Palomar, Copiapó". Comisión tasadora integrada por Ximena Peñaloza Herrero, arquitecta; Norman Calderón Pontiggia, ingeniero agrónomo, y María Josefina Pizarro Sandoval, ingeniera agrónoma, según informe de tasación del 02 de diciembre de 2020, fijó un monto provisional de indemnización de $30.995.860.- pagadera al contado.-
+
+Rodrigo Maturana Fuentes, Director Serviu Región Atacama.
