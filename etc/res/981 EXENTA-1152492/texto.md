@@ -42,7 +42,7 @@ r) El ordinario N° 1102, de fecha 14/08/2020, del Seremi Minvu Región del Libe
 
 s) El ordinario N° 1501, de fecha 10/11/2020, de esta Seremi Minvu, que solicita incorporar comuna de San Fernando al nuevo llamado regional en condiciones especiales con excepcionalidades para condominios sociales de la Región del Libertador General Bernardo O'Higgins.
 
-t) El ordinario N° 00216, de fecha 20/11/2020 (V. y U.), que autoriza efectuar llamado a postulación regional, en condiciones especiales, a través del Programa de Protección del Patrimonio Familiar en su modalidad regulada por el Capítulo Segundo del DS N° 255, V. y U., de 2006, de la atención a Condominios Sociales, en la Región del Libertador General Bernardo O'Higgins, destinado a Condominios Sociales de la comuna de Rancagua.
+t) El ordinario N° 00261 de fecha 20.11.2020 (V. y U.), que autoriza efectuar llamado a postulación regional, en condiciones especiales, a través del Programa de Protección del Patrimonio Familiar en su modalidad regulada por el Capítulo Segundo del DS N° 255, V. y U., de 2006, de la atención a Condominios Sociales, en la Región del Libertador General Bernardo O'Higgins, destinado a Condominios Sociales de la comuna de Rancagua.
 
 Considerando:
 
@@ -62,7 +62,9 @@ g) Que las intervenciones a realizar en los condominios configuran situaciones d
 
 Resolución:
 
-1. Llámese a postulación a los Condominios de Viviendas Sociales emplazados en las comunas de Rancagua y San Fernando, de la Región del Libertador General Bernardo O'Higgins, que cuenten con intervenciones parciales previas, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título Equipamiento Comunitario y/o Mejoramiento del Entorno, destinados a reparar, mantener y/o mejorar el equipamiento comunitario y las áreas comunes de la copropiedad; y al Título, II Mejoramiento de la Vivienda, letras b. 4) y b. 5) del artículo 5° del DS N° 255 (V. y U.), de 2006, destinados al desarrollo de proyectos de Mejoramiento de Bienes Comunes Edificados y Obras de Innovaciones de Eficiencia Energética y Acondicionamiento Térmico.
+1. Llámese a postulación a los Condominios de Viviendas Sociales emplazados en conjuntos habitacionales de las comunas de Rancagua y San Fernando de la Región del Libertador General Bernardo O'Higgins, que cuenten con intervenciones parciales previas, en el marco de los llamados a postulación del Ministerio de Vivienda y Urbanismo, destinados a la atención de condominios sociales, a fin de mantener la homogeneidad de las intervenciones.
+
+Para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título I: Equipamiento Comunitario y/o Mejoramiento del Entorno, destinados a reparar, mantener y/o mejorar el equipamiento comunitario y las áreas comunes de la copropiedad; y al Título II Mejoramiento de la Vivienda, letras b.4) y b.5) del artículo 5º del DS Nº 255 (V. y U.), de 2006, destinados al desarrollo de proyectos de Mejoramiento de Bienes Comunes Edificados y Obras de Innovaciones de Eficiencia Energética y Acondicionamiento Térmico.
 
 ### 2. Podrán postular al presente llamado proyectos en:
 
@@ -307,6 +309,8 @@ En caso de implementarse obras de acondicionamiento térmico y/o eficiencia ener
 33. Solo serán hábiles para postular al presente llamado las copropiedades que cuenten con certificación emitida por la Seremi, donde se indique expresamente que la copropiedad es objeto de este llamado. No considerándose certificaciones anteriores que no den cumplimiento al resuelvo 5 de la presente resolución.
 
 34. En todo aquello no regulado por el presente llamado, se aplicarán las disposiciones contenidas en el decreto supremo N° 255 (V. y U.), de 2006.
+
+> **Nota.** El N° 3 de la Resolución 1042 Exenta, Vivienda, publicada el 16.12.2020, modifica el cuadro del presente resuelvo en el sentido de cambiar el plazo para ingreso de proyectos a calificación (factibilidad Serviu) en la forma que indica la citada norma .
 
 Anótese, publíquese en el Diario Oficial y archívese.- Francisco Javier Ravanal González, Secretario Regional Ministerial de Vivienda y Urbanismo Región del Libertador General Bernardo O'Higgins.
 
