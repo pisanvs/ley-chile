@@ -156,7 +156,7 @@ ii. La ciudad de Puerto Williams.
 
 Exceptúase de la prohibición antedicha las inhumaciones e incineraciones de cadáveres, así como cualquier otra actividad cuyas consecuencias sanitarias la hagan impostergable.
 
-9. Dispóngase que la medida señalada en el numeral 8 de la resolución exenta N° 831, de 2020, regirá sólo para las localidades de la Región de Magallanes y de la Antártica Chilena que se encuentren en el "Paso 1: Cuarentena", a contar del día 26 de octubre de 2020 y tendrá el carácter de indefinida.
+### 9. Derogado
 
 10. Reitérase la disposición de traslado a lugares especialmente habilitados para el cumplimiento de medidas de aislamiento a:
 

@@ -224,9 +224,7 @@ i. La zona urbana de la comuna de Punta Arenas
 
 ii. La ciudad de Puerto Williams.
 
-8. Dispóngase que la medida señalada en el numeral 4 de la resolución exenta Nº 591, de 2020, del Ministerio de Salud regirá entre las 20:00 horas y las 05:00 horas para la Región de Magallanes y de la Antártica Chilena.
-
-Esta medida tendrá el carácter de indefinida y comenzará a regir desde el día 2 de octubre de 2020.
+### 8. Derogado
 
 9. Reemplázase, en el numeral 43 de la resolución exenta Nº 591, de 2020, del Ministerio de Salud, la expresión "30 de septiembre" por "1º de diciembre".
 
