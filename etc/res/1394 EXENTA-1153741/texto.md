@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.394 EXENTA, DE 2020
+
+Por resolución exenta N° 1.394, de 17 de noviembre de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Antofagasta, se modificaron las resoluciones exentas N° 145, de 8 de septiembre de 2000; N° 118, de 3 de agosto de 2000; N° 702, de 2 de mayo de 2018 y N° 222, de 21 de febrero de 2019, todas de la citada Secretaría Regional Ministerial, en el sentido de consignar como actual representante legal de la Escuela de Conductores Profesionales denominada "Automóvil Club de Chile Limitada", RUT 77.323.230-K, a don Juan Carlos Jerez Guairao, cédula nacional de identidad N° 24.690.667-K, con domicilio en Avenida Ecuador N°1901, de la comuna de Calama. En lo no modificado se mantienen vigentes las disposiciones contenidas en las resoluciones exentas N°s. 145, de 2000, 118, de 2000, 702, de 2018 y 222, de 2019, todas de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Antofagasta.-
+
+Juan Enrique Jara Opazo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Antofagasta.
