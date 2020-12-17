@@ -258,7 +258,7 @@ Los equipos contadores de peces y estimadores de biomasa serán acreditados por 
 
 #### Artículo 1º
 
-transitorio. Hasta el plazo de un año contado desde la fecha de publicación del presente decreto en el Diario Oficial, se podrá continuar con el traslado de ejemplares de las especies Oncorhynchus kisutch y Oncorhynchus mykiss desde centros de engorda hacia pisciculturas con fines de reproducción.
+transitorio. Hasta el plazo de tres años contados desde la fecha de publicación del presente decreto en el Diario Oficial, se podrá continuar con el traslado de ejemplares de las especies Oncorhynchus kisutch y Oncorhynchus mykiss desde centros de engorda hacia pisciculturas con fines de reproducción.
 
 #### Artículo 2º
 
@@ -266,7 +266,7 @@ transitorio. En los casos en que a la fecha de publicación del presente decreto
 
 Los centros de cultivo emplazados en mar con reproductores y que no cuenten con un programa de mejoramiento genético, podrán mantener los ejemplares en la concesión respectiva por el plazo de un año contado desde la fecha de publicación del presente decreto en el Diario Oficial. Para tales efectos, el titular deberá así comunicarlo a la Subsecretaría en el plazo de 10 días hábiles contados desde la publicación. Para acogerse a esta medida el titular deberá presentar en el plazo de un mes contado desde dicha publicación, la modificación del proyecto técnico que incluya una declaración referida a que la concesión formará parte de un programa de mejoramiento genético de reproductores, debiendo comunicar esta circunstancia a la Subsecretaría. En el plazo de dos meses contados desde la publicación del presente decreto, el titular deberá presentar a la Subsecretaría un programa de mejoramiento genético que cumpla con lo indicado en el artículo 23 D bis, 23 D quáter y 23 D quinquies antes citados. En caso de estar operando por sobre los números máximos de peces previstos para centros sometidos al régimen de reproducción conforme a un programa de mejoramiento genético, se deberá ajustar a dichos límites en el plazo de seis meses contados desde la fecha de aprobación del programa de mejoramiento genético. El programa de mejoramiento genético que sea presentado deberá ser tramitado y aprobado de conformidad con el procedimiento y plazos señalados en el párrafo 3º del Título VI, del reglamento aprobado por DS 319, de 2001, ya citado, modificado por el presente decreto.
 
-Los titulares de centros de cultivo emplazados en mar que tengan reproductores y que se ubiquen a menos de 0,5 millas náuticas respecto de los demás centros de especies Salmónidas de reproductores, engorda, smoltificación o de acopio, tendrán el plazo de un año contado desde la fecha de publicación del presente decreto en el Diario Oficial para cosechar, eliminar o trasladar dichos reproductores a un centro de reproducción autorizado para mantenerlos.
+Los titulares de centros de cultivo emplazados en mar que tengan reproductores y que se ubiquen a menos de 0,5 millas náuticas respecto de los demás centros de especies Salmónidas de reproductores, engorda, smoltificación o de acopio, podrán mantener los peces en dichos centros por el plazo de 5 años contados desde la fecha de publicación del presente decreto en el Diario Oficial, considerándose un número máximo de ejemplares a mantener en la concesión de 100.000 ejemplares.
 
 #### Artículo 3º
 
