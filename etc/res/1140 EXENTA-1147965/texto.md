@@ -48,7 +48,7 @@ El ingreso de antecedentes al sistema informático de postulación en línea, en
 
 Sin perjuicio de lo anterior, si corresponde el postulante podrá continuar su proceso de postulación, acompañando en forma digital los documentos que le sean solicitados durante el proceso o requeridos en forma posterior mediante correo electrónico postulacionds49@minvuconecta.cl.
 
-Los Serviu validarán los documentos que adjunte cada postulante, debiendo pronunciarse en los casos observados, respecto de la habilidad de la postulación, a más tardar el día 9 de diciembre de 2020.
+Los Serviu validarán los documentos que adjunte cada postulante, debiendo pronunciarse en los casos observados, respecto de la habilidad de la postulación, a más tardar el día 17 de diciembre de 2020.
 
 De requerir el Serviu, mediante el correo electrónico señalado, algún documento para su revisión, el postulante deberá remitirlo por la misma vía u otro medio electrónico que se disponga al efecto, dentro de 5 días corridos. Con todo, no podrá sobrepasar la fecha indicada.
 
