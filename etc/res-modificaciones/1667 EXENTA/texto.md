@@ -20,7 +20,7 @@ Resolución:
 
 1. Reemplázase, en el inciso final del resuelvo 4. de la resolución exenta Nº 1.140 (V. y U.), de fecha 27 de julio de 2020 y sus modificaciones, la fecha "15 de noviembre de 2020" por "9 de diciembre de 2020" y convalídase lo actuado por los postulantes entre el día 16 de noviembre de 2020 y el día anterior a la publicación en el Diario Oficial de la presente resolución.
 
-2. Establécese que quienes no hayan alcanzado a finalizar su postulación en el sistema informático dispuesto para estos efectos, antes del día 24 de noviembre de 2020, debido a problemas asociados al funcionamiento de dicho sistema, debidamente registrados en el Sistema de Atención al Ciudadano CRM-SIAC, tendrán plazo para finalizarla hasta el día 9 de diciembre de 2020, en cuyo caso la plataforma permanecerá disponible para esos efectos. Los demás se entenderán como desistidas.
+2. Establécese que quienes no hayan alcanzado a finalizar su postulación en el sistema informático dispuesto para estos efectos, antes del día 24 de noviembre de 2020, debido a problemas asociados al funcionamiento de dicho sistema, debidamente registrados en el Sistema de Atención al Ciudadano CRM-SIAC, tendrán plazo para finalizarla hasta el día 17 de diciembre de 2020, en cuyo caso la plataforma permanecerá disponible para esos efectos. Los demás se entenderán como desistidas.
 
 3. Establécese que la resolución exenta Nº 1.140 (V. y U.), del año 2020, se mantendrá vigente en todo aquello que no ha sido modificado por la presente resolución.
 
