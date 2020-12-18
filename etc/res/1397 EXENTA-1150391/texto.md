@@ -48,7 +48,7 @@ Considerando:
 
 Resolución:
 
-1. Llámase a postulación y proceso de selección en condiciones especiales para el otorgamiento de subsidios del Programa de Habitabilidad Rural, regulado por el DS Nº 10 (V. y U.), de 2015, del Título II Postulación Directa, en la alternativa de postulación individual o colectiva, para el otorgamiento de subsidios de las Tipologías de Mejoramiento de Vivienda Existente, Ampliación de Vivienda Existente, Mejoramiento del Entorno Inmediato a la Vivienda, y Construcción o Mejoramiento del Equipamiento y Entorno Comunitario, destinado a familias que cumplan con las condiciones del presente Llamado, cuyas postulaciones se encuentren en estado aprobado hasta la fecha de cierre del presente Llamado. El período de postulación al llamado regulado por la presente resolución se abrirá al día hábil siguiente de su publicación en el Diario Oficial y cerrará el día 17 de diciembre del año en curso.
+1. Llámase a postulación y proceso de selección en condiciones especiales para el otorgamiento de subsidios del Programa de Habitabilidad Rural, regulado por el DS Nº 10 (V. y U.), de 2015, del Título II Postulación Directa, en la alternativa de postulación individual o colectiva, para el otorgamiento de subsidios de las Tipologías de Mejoramiento de Vivienda Existente, Ampliación de Vivienda Existente, Mejoramiento del Entorno Inmediato a la Vivienda, y Construcción o Mejoramiento del Equipamiento y Entorno Comunitario, destinado a familias que cumplan con las condiciones del presente Llamado, cuyas postulaciones se encuentren en estado enviado, estado aprobado o aprobado condicional hasta la fecha de cierre del presente Llamado. El período de postulación al llamado regulado por la presente resolución se abrirá al día hábil siguiente de su publicación en el Diario Oficial y cerrará el día 17 de diciembre del año en curso.
 
 2. Podrán participar en el presente Llamado las familias residentes en localidades rurales o urbanas con hasta 5 mil habitantes, de acuerdo a los datos demográficos que consigna el Censo de Población y Vivienda del año 2002, y siempre que cuenten con asesoría otorgada por una Entidad de Gestión Rural con Convenio Regional de Asistencia Técnica vigente a la fecha de postulación.
 
@@ -100,7 +100,7 @@ III. Revisión y Evaluación por parte de los profesionales revisores del Serviu
 
 IV. Tratándose de postulaciones colectivas con proyecto, cuyas obras modifiquen las cargas estructurales de la vivienda original y/o consideren ampliaciones, deberán contar con la conformidad de la Comisión Técnica Evaluadora del Serviu para otorgar la Aprobación, Observación o Rechazo del Proyecto postulado.
 
-V. En caso de observación, el Serviu deberá establecer un calendario para la recepción de la totalidad de las respuestas a las observaciones formuladas, considerando un plazo máximo para ello de 8 días hábiles antes del cierre del presente llamado.
+V. En caso de observación, el Serviu deberá establecer un calendario para la recepción de la totalidad de las respuestas a las observaciones formuladas, considerando como plazo máximo para ello hasta el día de cierre del presente llamado. Posterior a esa fecha límite, Serviu no podrá recibir respuesta a observaciones de parte de las Entidades de Gestión Rural, así como tampoco realizar observaciones a las postulaciones presentadas.
 
 ### VI. Serviu deberá evaluar las respuestas a las observaciones formuladas y aprobar o rechazar la postulación
 

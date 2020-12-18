@@ -52,7 +52,7 @@ Considerando:
 
 Resolución:
 
-1. Llámase a postulación y proceso de selección en condiciones especiales para el otorgamiento de subsidios del Programa de Habitabilidad Rural, del Título II, Proyectos de Postulación Directa, en la alternativa de postulación individual o colectiva, para el otorgamiento de subsidios de la Modalidad de Proyectos de Construcción de Viviendas Nuevas, en las Tipologías Construcción de Conjunto Habitacional y Construcción en Sitio del Residente, destinado a familias que cumplan con las condiciones del presente Llamado, cuyos expedientes se encuentren en estado aprobado o aprobado condicional hasta la fecha de cierre del Llamado. El período de postulación al llamado regulado por la presente resolución se abrirá al día hábil siguiente de la publicación en el Diario Oficial de esta resolución y cerrará el día 30 de diciembre del año en curso.
+1. Llámase a postulación y proceso de selección en condiciones especiales para el otorgamiento de subsidios del Programa de Habitabilidad Rural, del Título II, Proyectos de Postulación Directa, en la alternativa de postulación individual o colectiva, para el otorgamiento de subsidios de la Modalidad de Proyectos de Construcción de Viviendas Nuevas, en las Tipologías Construcción de Conjunto Habitacional y Construcción en Sitio del Residente, destinado a familias que cumplan con las condiciones del presente Llamado, cuyos expedientes se encuentren en estado enviado, estado aprobado o aprobado condicional hasta la fecha de cierre del Llamado. El período de postulación al llamado regulado por la presente resolución se abrirá al día hábil siguiente de la publicación en el Diario Oficial de esta resolución y cerrará el día 30 de diciembre del año en curso.
 
 2. Podrán participar en el presente llamado las familias residentes en localidades rurales o urbanas de hasta 5 mil habitantes, de acuerdo a los datos demográficos que consigna el Censo de Población y Vivienda del año 2002, y siempre que cuenten con asesoría otorgada por una Entidad de Gestión Rural con Convenio Regional de Asistencia Técnica vigente a la fecha de postulación.
 
@@ -68,7 +68,9 @@ ii. No hayan ingresado a evaluación del Serviu la totalidad de los antecedentes
 
 iii. Hayan ingresado proyectos de familias beneficiadas con recursos de los años 2016, y/o 2017, y/o 2018, a evaluación del Serviu, y se encuentren con plazos vencidos para dar respuesta a las observaciones formuladas.
 
-Estas restricciones rigen para proyectos de cualquier modalidad y tipo de postulación, individual o colectiva, incluyendo familias beneficiadas con procesos de homologación en los años señalados. Corresponderá al Serviu informar a más tardar el 1 de diciembre de 2020, mediante oficio dirigido al Jefe de la División de Política Habitacional, la nómina de las Entidades de Gestión Rural que se encuentren en algunas de las situaciones establecidas en el presente resuelvo, estando, por tanto, inhabilitadas para participar en el presente Llamado.
+Estas restricciones rigen para proyectos de cualquier modalidad y tipo de postulación, individual o colectiva, incluyendo familias beneficiadas con procesos de homologación en los años señalados, salvo tratándose de Entidades de Gestión Rural que acrediten que el no ingreso de proyectos a Serviu es imputable a atrasos en la gestión de trámites dependientes de otras instituciones públicas.
+
+Corresponderá al Serviu informar a más tardar el 10 de diciembre de 2020, mediante oficio dirigido al Jefe de la División de Política Habitacional, la nómina de las Entidades de Gestión Rural que se encuentren en algunas de las situaciones establecidas en el presente resuelvo, tanto las que se encuentran inhabilitadas para participar en el presente Llamado, como aquellas que, encontrándose en alguna de las situaciones de inhabilidad señaladas, hayan acreditado fehacientemente ante el Serviu estar beneficiadas con la causal de excepción indicada más arriba.
 
 5. Aquellas postulaciones que no resulten seleccionadas serán eliminadas del Sistema Informático Rukan, así como también los expedientes digitales que hayan sido enviados al Serviu para su evaluación. En el caso de haber ingresado expedientes físicos, éstos serán devueltos por el Serviu a las Entidades de Gestión Rural. El plazo para efectuar esta eliminación y/o devolución de antecedentes de postulación será de hasta 30 días hábiles contados desde la publicación en el Diario Oficial de la resolución de selección, salvo en los casos en que se haya iniciado un proceso de reclamación por parte del postulante no seleccionado.
 
@@ -106,7 +108,7 @@ Sin perjuicio de lo anterior, el Serviu podrá implementar un procedimiento de r
 
 ### IV. Aprobación, Aprobación Condicionada, Observación o Rechazo del expediente o proyecto postulado
 
-En caso de observación, el Serviu deberá indicar un plazo para que las Entidades de Gestión Rural ingresen las respuestas a las observaciones formuladas, considerando como fecha límite hasta el día 14 de diciembre del presente año.
+En caso de observación, el Serviu deberá indicar un plazo para que las Entidades de Gestión Rural ingresen las respuestas a las observaciones formuladas, considerando como fecha límite hasta el día 28 de diciembre del presente año. Posterior a esta fecha límite, el Serviu no podrá recibir respuestas a observaciones de parte de las Entidades de Gestión Rural, así como tampoco podrá realizar observaciones a las postulaciones presentadas.
 
 V. Evaluación de las respuestas a las observaciones formuladas y aprobación de la postulación en Sistema, si procede; debiendo verificar que lo digitado en la plataforma Rukan corresponda fielmente al contenido de la Carpeta Digital o Física.
 
