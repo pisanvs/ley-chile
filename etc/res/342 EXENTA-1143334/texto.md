@@ -44,7 +44,9 @@ Se realizarán dos procesos de selección con los postulantes que hubieren efect
 
 6. El valor máximo del subsidio destinado a cada beneficiado se definirá conforme al porcentaje de vulnerabilidad indicado en su Registro Social de Hogares, acreditado al postular. En consecuencia, los montos máximos de subsidios que se otorgarán son los definidos en la siguiente tabla:
 
-7. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS N° 52 (V. y U.), de 2013, será de hasta 213.000 UF. correspondientes a 1.000 subsidios, que se distribuirán regionalmente según la tabla que se presenta a continuación, pudiendo practicarse redistribuciones o modificaciones de recursos que serán sancionadas mediante resolución:
+7. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS N° 52 (V. y U.), de 2013, será de hasta 399.970 UF. correspondientes a 1.880 subsidios, que se distribuirán regionalmente según la tabla que se presenta a continuación, pudiendo practicarse redistribuciones o modificaciones de recursos que serán sancionadas mediante resolución:
+
+.
 
 8. El monto mensual de la renta de arrendamiento que se podrá acordar en los contratos que se celebren por los beneficiarios del presente llamado en todo el país, no podrá superar las 11 UF, según el valor que tenga ésta a la fecha de la suscripción del contrato, a excepción de los contratos que se celebren en todas las comunas de las regiones de Aysén y Magallanes y las comunas de Arica, Camarones, Iquique, Alto Hospicio, Antofagasta, Calama, Copiapó, Isla de Pascua y Juan Fernández, en que el monto de la renta de arrendamiento podrá ser de hasta 13 UF.
 
