@@ -22,6 +22,12 @@ Excepcionalmente, la Junta Nacional de Jardines Infantiles podrá transferir fon
 
 Para los efectos del presente reglamento se entenderá por niños o niñas en condiciones de pobreza y/o vulnerabilidad social a aquellos que se encuentren comprendidos en el primer, segundo y tercer quintil. Con todo, los niños y niñas de los primeros dos quintiles tendrán preferencia al momento de postular al jardín infantil.
 
+#### Artículo 3°
+
+Las disposiciones del presente reglamento serán aplicables a los Servicios Locales de Educación que sean sostenedores de Jardines Infantiles Vía Transferencia de Fondos, en su calidad de sucesores legales de las municipalidades y corporaciones municipales en los términos establecidos por la Ley N° 21.040, de 2017, del Ministerio de Educación.
+
+> **Nota.** El numeral 1 del artículo único del Decreto 78, Educación, publicado el 19.12.2020, dispone incorporar, en el Título I de la presente norma, un artículo 3° nuevo, sin ordenar sustituir la numeración existente. Es por esta razón que ha sido agregado a continuación del artículo 2 y antes del artículo 3, perteneciente al Título II.
+
 ## Título II
 
 De las solicitudes y selección de las entidades
@@ -270,6 +276,8 @@ NIVELES MEDIO MENOR, MEDIO MAYOR, TRANSICIÓN Y GRUPOS HETEROGÉNEOS
 
 .
 
+El valor párvulo-mes correspondiente a la Región de Ñuble para efectos del inciso anterior, corresponderá al valor párvulo asignado a cada nivel educacional de la Región del Biobío.
+
 Si el jardín infantil se encuentra ubicado en un sector rural, el valor párvulo-mes a pagar se incrementará por el factor que corresponda, de acuerdo al porcentaje de asistencia al respectivo jardín, de los párvulos por cada nivel, según la siguiente tabla:
 
 Porcentaje de asistencia de párvulos
@@ -395,6 +403,12 @@ Las entidades que con anterioridad a la entrada en vigencia del presente reglame
 Establézcase, que el incremento del valor párvulo-mes, a que se refiere el presente decreto deberá destinarse exclusivamente para aumentar las remuneraciones del personal que se desempeña en los Jardines Infantiles Vía Transferencia de Fondos que realiza la Junta Nacional de Jardines Infantiles.
 
 Este aumento se concederá a partir del mes de julio de 2015.
+
+#### Artículo 30
+
+El reajuste del valor párvulo-mes a efectuarse según lo dispuesto en el inciso final del artículo 16 de este decreto, se incrementará en 1,4 puntos porcentuales respecto del reajuste establecido en el inciso primero del artículo 1° de la ley N° 21.196. Dicho incremento, será aplicable de manera retroactiva desde diciembre 2019 y para el presente período presupuestario 2020.
+
+El reajuste del valor párvulo-mes a efectuarse según lo dispuesto en el inciso final del artículo 16 y el incremento del reajuste del valor párvulo-mes señalado en el inciso anterior aplicará, en iguales condiciones a los Servicios Locales de Educación que sean sostenedores de establecimientos de educación parvularia Vía Transferencia de Fondos, en su calidad de sucesores legales de las municipalidades o corporaciones municipales en los términos establecidos por la Ley N° 21.040, de 2017, del Ministerio de Educación, que ‘Crea el Sistema de Educación Pública' ".
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mónica Jiménez de la Jara, Ministra de Educación.- Andrés Velasco Brañes, Ministro de Hacienda.
 
