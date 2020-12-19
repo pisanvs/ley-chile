@@ -34,13 +34,13 @@ a) Los plazos correspondientes al primer proceso de selección, serán los sigui
 
 b) Los plazos correspondientes al segundo proceso de selección, serán los siguientes:
 
-- Digitación de las postulaciones: desde el 1 septiembre al 5 de octubre de 2020, pudiendo superponerse al proceso de Habilitación de las postulaciones y comunicación de los resultados.
+- "Digitación de las postulaciones: desde el 1 septiembre al 5 de octubre de 2020, pudiendo superponerse al proceso de habilitación de las postulaciones y comunicación de los resultados, ya que, en caso de requerirse, se podrá prorrogar este periodo dentro del plazo de habilitación de las postulaciones.
 
-- Habilitación de las postulaciones y Comunicación de resultados: desde el 6 de septiembre hasta el 15 de octubre de 2020. En caso de requerirse, el período de digitación podrá prorrogarse dentro del plazo de la habilitación de las postulaciones.
+- Habilitación de las postulaciones y Comunicación de resultados: desde el 6 de septiembre hasta el 15 de octubre de 2020. En caso de requerirse, el período de habilitación de las postulaciones podrá prorrogarse dentro del periodo de la presentación de la revisión y calificación de los proyectos.
 
-- Presentación, Revisión y Calificación de los proyectos: desde el 16 de octubre al 2 de diciembre de 2020. En caso de requerirse, el período de Habilitación podrá prorrogarse.
+- Presentación, Revisión y Calificación de los proyectos: desde el 16 de octubre al 10 de diciembre de 2020.
 
-- Selección de las postulaciones: a partir del 3 de diciembre de 2020, se iniciará el proceso de Selección de las postulaciones del presente llamado.
+- Selección de las postulaciones: a partir del 15 de diciembre de 2020 se iniciará el proceso de Selección de las postulaciones del presente llamado.
 
 3. Los recursos disponibles para el primer proceso de selección de proyectos de este llamado, serán los siguientes montos por región.
 
