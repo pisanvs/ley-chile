@@ -162,7 +162,7 @@ i. La zona urbana de la comuna de Punta Arenas
 
 ii. La ciudad de Puerto Williams.
 
-9. Dispóngase que la medida señalada en el numeral 4 de la resolución exenta Nº 591, de 2020, del Ministerio de Salud regirá entre las 20:00 horas y las 05:00 horas para la comuna de Osorno, en la Región de Los Lagos, a contar del día 14 de noviembre.
+### 9. Derogado
 
 10. Reitérase la disposición de traslado a lugares especialmente habilitados para el cumplimiento de medidas de aislamiento a:
 
