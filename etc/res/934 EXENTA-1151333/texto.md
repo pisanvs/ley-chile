@@ -148,9 +148,7 @@ ii. La ciudad de Puerto Williams.
 
 La medida dispuesta en este numeral comenzará a regir el día 5 de noviembre de 2020.
 
-9. Dispóngase que la medida señalada en el numeral 4 de la resolución exenta Nº 591, de 2020, del Ministerio de Salud regirá entre las 20:00 horas y las 05:00 horas para la comuna de Puerto Montt, en la Región de Los Lagos.
-
-Esta medida tendrá el carácter de indefinida y comenzará a regir desde el día 5 de noviembre de 2020.
+### 9. Derogado
 
 10. Reitérase la disposición de traslado a lugares especialmente habilitados para el cumplimiento de medidas de aislamiento a:
 
