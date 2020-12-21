@@ -28,7 +28,7 @@ Resolución:
 
 1. Llámase a postulación en condiciones especiales a familias residentes en viviendas colectivas de la tipología de Cités, emplazadas en las regiones de Valparaíso y Metropolitana, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título I, letra a.1) y a.3) Proyectos de Mejoramiento del Espacio Público y en el terreno de la Copropiedad respectivamente; y Título II Mejoramiento de la Vivienda, letras b.1) y b.2) destinados a Proyectos de Seguridad de la Vivienda y Habitabilidad de la Vivienda respectivamente, del artículo 5° del DS N° 255 (V. y U.) de 2006, pudiendo los proyectos de este último Título contemplar partidas de mantención, siempre y cuando se hayan financiado primero las obras de seguridad y habitabilidad de la vivienda.
 
-La selección de los proyectos para este llamado se realizará el día 15 de octubre de 2020, y solo podrán postular los proyectos que cuenten con certificado de calificación a dicha fecha.
+La selección de los proyectos para este llamado se realizará el día 28 de diciembre de 2020, y solo podrán postular los proyectos que cuenten con certificado de calificación a dicha fecha.
 
 Se excluirán de este llamado los Cités que presenten hacinamiento crítico según el índice del Ministerio de Desarrollo Social, por subarriendo, en la vivienda existente o en construcciones o subdivisiones precarias o irregulares, y los ya beneficiados en el marco del Programa de Protección del Patrimonio Familiar para la atención de Cités.
 
@@ -94,11 +94,9 @@ c) Otros tenedores legítimos: copia del título que acredite tal calidad y auto
 
 5.7 Se deberán acreditar las siguientes condiciones de los inmuebles:
 
-a) La condición de vivienda objeto del llamado, que será certificada por la Seremi respectiva, el Serviu pedirá dicha información a la Seremi, durante el proceso de evaluación de proyectos.
+a) La dirección de todas las viviendas que integran el cité, mediante un certificado emitido por la Dirección de Obras Municipales o mediante un informe de la Entidad Patrocinante basado en insumos como las direcciones indicadas de las cuentas de servicios básicos, entre otros.
 
-b) La dirección de todas las viviendas que integran el Cité, mediante un certificado emitido por la Dirección de Obras Municipales o mediante un certificado de la Seremi.
-
-c) El plano de alcantarillado y agua potable, de la empresa sanitaria que corresponda, si no existe se debe presentar un plano visado por la DOM. El Serviu podrá eximir de este requisito si no lo estima pertinente para la intervención.
+b) El plano de alcantarillado y agua potable, de la empresa sanitaria que corresponda, si no existe se debe presentar un plano visado por la DOM. El Serviu podrá eximir de este requisito si no lo estima pertinente para la intervención.
 
 5.8 En caso que el inmueble esté emplazado en una Zona de Conservación Histórica o haya sido reconocido como Inmueble de Conservación Histórica, deberá contar al momento de la calificación con la autorización de la Seremi de Vivienda y Urbanismo, según lo dispuesto en el artículo 60 de la Ley General de Urbanismo y Construcciones, y en caso que el inmueble esté emplazado en una Zona Típica, deberá contar con la autorización del Consejo de Monumentos Nacionales, según las disposiciones vigentes. Serviu solicitará directamente a la Seremi la autorización señalada.
 
@@ -172,7 +170,7 @@ Las obras deberán ejecutarse en el siguiente orden, primero las de Seguridad ta
 
 ### 7. Los montos de subsidio para el presente llamado serán:
 
-a) Monto Base: el monto del subsidio a asignar por postulante hábil beneficiado será hasta 250 UF, para financiar obras del Título II letras b.1) y b.2) y para obras correspondiente al Título I, letras a.1) y a.3), todas del artículo 5°, será hasta 25 UF por familia.
+a) Monto Base: el monto del subsidio a asignar por postulante hábil beneficiado será hasta 275 UF, para financiar obras del Título II letras b.1) y b.2) y para obras correspondiente al Título I, letras a.1) y a.3), todas del artículo 5°, será hasta 25 UF por familia.
 
 b) Los subsidios señalados, podrán contar, si se requiere, con los incrementos que se detallan a continuación:
 
