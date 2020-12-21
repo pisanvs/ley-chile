@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE GIRADORA LOCAL N° 530021977, DEL BANCO SCOTIABANK CHILE, SUCURSAL TALCAHUANO, ABIERTA PARA EL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL TALCAHUANO DEL INSTITUTO DE PREVISIÓN SOCIAL, EN LOS FUNCIONARIOS QUE INDICA
+
+Por resolución exenta N° 269, de 29 de septiembre de 2020, el Director Nacional del Instituto de Previsión Social, delegó la facultad de operar la cuenta corriente Bancaria denominada Giradora Local Subsidiaria N° 530021977, del Banco Scotiabank Chile, Sucursal Talcahuano, destinada al pago de beneficios previsionales y gastos del Centro de Atención Previsional Integral CAPRI IPS Talcahuano, en las funcionarias y funcionarios que individualiza.- Patricio Coronado Rojo, Director Nacional.
+
+Alexander Suárez Olivares, Jefe (S) Departamento Secretaría General y Transparencia, Instituto de Previsión Social.
