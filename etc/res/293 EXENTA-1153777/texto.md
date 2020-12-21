@@ -1,0 +1,5 @@
+APRUEBA EL "CONVENIO DE COLABORACIÓN", SUSCRITO ENTRE LA DIRECCIÓN NACIONAL DEL SERVICIO CIVIL Y EL INSTITUTO DE PREVISIÓN SOCIAL
+
+Por resolución exenta N° 293, de 14 de octubre de 2020, el Director Nacional del Instituto de Previsión Social, aprobó el documento "Convenio de Colaboración", suscrito el 22 de septiembre de 2020, entre el Instituto de Previsión Social y la Dirección Nacional del Servicio Civil, cuyo objetivo es realizar de forma conjunta el proceso de compras de servicios de capacitación en alguna o todas las temáticas identificadas, todo ello, ajustado a los procesos de compras y contratación pública regulados en la Ley N° 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestación de Servicios y en su reglamento, contenido en el DS N° 250, de 2004, del Ministerio de Hacienda.-
+
+Patricio Coronado Rojo, Director Nacional.
