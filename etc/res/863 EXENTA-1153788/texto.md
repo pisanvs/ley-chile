@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 863 EXENTA, DE 20 DE NOVIEMBRE DE 2020
+
+Resolución exenta N° 863 de 20 noviembre de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Tarapacá, aprueba Contrato Ad-Referéndum de Concesión N° 2, para operar una Planta Revisora Clase B en la comuna de Iquique y una Planta Revisora clase AB en la comuna de Alto Hospicio, ambas en la Región de Tarapacá, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través de la referida Secretaría Regional Ministerial y el concesionario "A. Denham y Cía. Ltda.", con vigencia de ocho años contados desde la publicación del presente extracto en el Diario Oficial.-
+
+Carlos Navarrete Cortés, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Tarapacá.
