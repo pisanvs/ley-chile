@@ -1,0 +1,5 @@
+APRUEBA ANEXO A CONTRATO DE ARRIENDO SUSCRITO EL 21.10.2020, CON LA SOCIEDAD "SALÓN DE TÉ Y RESTORÁN VILLA REAL LIMITADA", RESPECTO DEL INMUEBLE INSTITUCIONAL UBICADO EN CALLE PEDRO DE VALDIVIA N° 079 Y ORREGO LUCO N° 080 DE LA COMUNA DE PROVIDENCIA, DE PROPIEDAD DEL INSTITUTO DE PREVISIÓN SOCIAL
+
+Por resolución exenta I N° 16, de 30 de octubre de 2020, el Jefe del Departamento Administración e Inmobiliaria del Instituto de Previsión Social, aprobó el documento "Anexo a Contrato de Arriendo", suscrito el 21 de octubre de 2020, entre este Instituto de Previsión Social y la Sociedad "Salón de Té y Restorán Villa Real Limitada", en el que se disminuye temporalmente la renta de arrendamiento establecida en la resolución exenta N° 4 de 26 de febrero de 2020, y otorga 24 cuotas mensuales para cancelar cinco meses impagos.-
+
+Roberto Rodrigo Lagos Flores.
