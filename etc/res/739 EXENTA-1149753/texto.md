@@ -74,6 +74,14 @@ Además, se deberá cumplir con los siguientes requisitos, a indicar al momento 
 
 5.6.- Ofrecer una capacitación al beneficiario para la utilización y mantención del nuevo calefactor y entrega de manual de operación del calefactor en idioma español.
 
+6.- Establézcanse las distintas etapas del procedimiento de instalación, retiro y chatarrización de calefactores.
+
+6.1.- Primera etapa: proceso de compra del calefactor que cumpla las características técnicas establecidas en la resolución exenta N° 739, de fecha 9 de septiembre de 2020. El proceso puede realizarlo la empresa a cargo de la instalación u otro proveedor, acreditando el cumplimiento de dicho proceso ante Serviu.
+
+6.2.- Segunda etapa: desintalación del calefactor antiguo e instalación inmediata del nuevo calefactor (en un mismo paso). El proceso puede realizarlo la empresa a cargo de la instalación u otro proveedor, acreditando el cumplimiento de dicho proceso ante Serviu.
+
+6.3.- Tercera etapa: retiro del calefactor antiguo, los ductos de evacuación de gases existentes y accesorios, además del proceso de chatarrización en lugar autorizado por resolución sanitaria respectiva. El proceso puede realizarlo la empresa a cargo de la instalación u otro proveedor, acreditando el cumplimiento de dicho proceso ante Serviu.
+
 > **Nota.** El numeral 1 de la Resolución 798 Exenta, Vivienda, publicada el 14.10.2020, complementa la presente norma incorporando un nuevo numeral VI.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Francisco Javier Ravanal González, Secretario Regional Ministerial de Vivienda y Urbanismo Región del Libertador General Bernardo O'Higgins.
