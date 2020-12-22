@@ -70,37 +70,33 @@ c) Denunciar, ante la autoridad correspondiente, como un acto de competencia des
 
 Todo viticultor, vinificador, destilador y envasador pisquero deberá inscribirse en el respectivo registro que lleve al efecto el Servicio Agrícola y Ganadero.
 
-#### Artículo 5º
+#### Artículo 5°
 
-En la elaboración del pisco sólo podrá emplearse alcohol de vino proveniente de las siguientes variedades de uva de la especie Vitis vinífera L., plantadas en la zona pisquera, en adelante, ''uvas pisqueras'':
+En la elaboración del pisco sólo podrá emplearse alcohol de vino proveniente de las siguientes variedades de uva de la especie Vitis vinifera L., plantadas en la zona pisquera, en adelante, "uvas pisqueras":
 
-- Moscatel de Alejandría o uva italia
+- Moscatel de Alejandría o Blanca Italia o uva Italia
 
-- Moscatel Rosada o Pastilla
+- Moscatel Rosada o Rosada Pastilla
 
 - Torontel
 
-- Moscatel de Austria
+- Moscatel de Austria o Torrontés San Juanino
 
-- Pedro Jiménez
+- Pedro Jiménez o Pedro Giménez
 
-- Moscatel Blanca Temprana
+- Moscatel Blanca o Temprana o Moscatel de Frontignan o Moscato de Canelli
 
-- Chaselas Musque Vrai
+- Chasselas Musque Vrai
 
-- Moscatel Amarilla
-
-- Moscato de Canelli
-
-- Moscatel de Frontignan
+- Moscatel Amarilla o Torrontés Riojano
 
 - Moscatel de Hamburgo
 
 - Moscatel Negra
 
-- Muscat Orange
+- Muscat Orange.
 
-Las cinco primeras de las nombradas se reconocen como variedades principales, quedando las ocho restantes como variedades accesorias.
+Las cinco primeras de las nombradas se reconocen como variedades principales, quedando las seis restantes como variedades accesorias.
 
 En toda solicitud, declaración e inscripción en el o los registros que el Servicio Agrícola y Ganadero lleve al efecto, ya sea de plantación, replante o injertación de uvas pisqueras, se deberán indicar las variedades principales y accesorias a utilizar.
 
