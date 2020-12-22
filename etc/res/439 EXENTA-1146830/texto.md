@@ -126,8 +126,6 @@ c. Proyectos de Ampliación de Viviendas en Copropiedad:
 
 11. Los recursos disponibles para efectuar la selección de proyectos serán los siguientes, los cuales fueron designados de acuerdo a lo indicado en el artículo 22 del DS N° 27 (V. y U.), de 2016:
 
-.
-
 Los cuales se dispondrán de la siguiente manera para las distintas postulaciones:
 
 .
