@@ -44,17 +44,17 @@ Dentro de los treinta días siguientes a la publicación de la respectiva Ley de
 
 ## Título II
 
-Postulación de Proyectos
+Mecanismos de Asignación de Recursos
 
 #### Artículo 2
 
-Requisitos para postular. La Dirección de Educación Pública establecerá a través de una o más convocatorias, los antecedentes técnicos y legales que deberán presentarse por parte de los sostenedores, según el tipo de proyecto cuyo financiamiento se solicita, así como las etapas, plazos, formas y medio de postulación de estos.
+Postulación de Proyectos mediante convocatorias. La Dirección de Educación Pública establecerá a través de una o más convocatorias, los antecedentes técnicos y legales que deberán presentarse por parte de los sostenedores, según el tipo de proyecto cuyo financiamiento se solicita, así como las etapas, plazos, formas y medio de postulación de estos.
 
 La Dirección de Educación Pública dispondrá de una plataforma informática permanente en la cual los sostenedores deberán incorporar los antecedentes legales y técnicos necesarios según el tipo de proyecto de que se trate.
 
 #### Artículo 3
 
-Análisis y revisión de proyectos. Los antecedentes de los proyectos presentados serán revisados y analizados por los equipos pertinentes que la Dirección de Educación Pública disponga, en consideración a las exigencias establecidas en la o las convocatorias correspondientes y el tipo de proyecto del que se trate, a fin de determinar si cumplen con los requisitos señalados en la misma para efectos de postular válidamente. Lo anterior es sin perjuicio de la situación excepcional señalada en el artículo 6 del presente reglamento.
+Análisis y revisión de proyectos postulados mediante convocatorias. Los antecedentes de los proyectos presentados serán revisados y analizados por los equipos pertinentes que la Dirección de Educación Pública disponga, en consideración a las exigencias establecidas en la o las convocatorias correspondientes y el tipo de proyecto del que se trate, a fin de determinar si cumplen con los requisitos señalados en la misma para efectos de postular válidamente. Lo anterior es sin perjuicio de la situación excepcional señalada en el artículo 6 del presente reglamento.
 
 Los proyectos que cumplan con los requisitos exigidos por la convocatoria correspondiente quedarán en estado de elegibles técnicamente y podrán ser seleccionados de acuerdo con lo que se indica en el presente reglamento.
 
@@ -62,7 +62,7 @@ Los proyectos que cumplan con los requisitos exigidos por la convocatoria corres
 
 Criterios para la evaluación y selección de recursos destinados a fines de innovación, trabajo en red y desarrollo de capacidades, con el objeto de favorecer la calidad del servicio educativo.
 
-En lo que dice relación con la evaluación y selección de los proyectos presentados, estos serán valorados conforme a uno o más criterios de los que aquí se señalan: número de establecimientos educacionales beneficiarios; niveles, modalidades educativas y formaciones diferenciadas que imparten; nivel de desempeño de los establecimientos de conformidad a la ley Nº 20.529; cobertura; matrícula; Índice de Vulnerabilidad Escolar (IVE), elaborado por la Junta Nacional de Auxilio Escolar y Becas, de acuerdo con las mediciones que realice dicha institución; y, condiciones de ruralidad o zona extrema.
+En lo que dice relación con la evaluación y selección de los proyectos presentados, estos serán valorados conforme a uno o más criterios de los que aquí se señalan: número de establecimientos educacionales beneficiarios; niveles, modalidades educativas y formaciones diferenciadas que imparten; nivel de desempeño de los establecimientos de conformidad a la ley Nº 20.529; cobertura; matrícula; Índice de Vulnerabilidad Escolar (IVE), elaborado por la Junta Nacional de Auxilio Escolar y Becas, de acuerdo con las mediciones que realice dicha institución; condiciones de ruralidad o zona extrema; y otros criterios que la Comisión señalada en el artículo 7 determine y sean aprobados por el Director de Educación Pública.
 
 En cada convocatoria se establecerá la forma en que estos criterios serán evaluados y ponderados, siempre garantizando pautas objetivas y resguardando los principios de igualdad y libre concurrencia en la asignación de los recursos públicos.
 
@@ -78,11 +78,19 @@ b) Nivel educativo, modalidad educativa y formación diferenciada impartida por 
 
 c) Índice de Vulnerabilidad Escolar (IVE), elaborado por la Junta Nacional de Auxilio Escolar y Becas, y de acuerdo con las mediciones que realice dicha institución.
 
+e) Cobertura del Proyecto;
+
+f) Costo del Proyecto.
+
+g) Otros criterios que la Comisión señalada en el artículo 7° determine y sean aprobados por el Director de Educación Pública. Estos criterios deben ser debidamente indicados en las respectivas convocatorias.
+
 d) Condición de ruralidad o zona extrema.
 
 En cada convocatoria se establecerá la forma en que estos criterios serán evaluados y ponderados.
 
 Para efectos de lo señalado en los artículos 4 y 5, se entenderá que tienen "condición de ruralidad" aquellos establecimientos que se ubiquen en un área geográfica rural de acuerdo con las definiciones contenidas en el documento "Estadísticas de la Educación 2016", del Ministerio de Educación, o el que lo remplace; y por "zonas extremas" la Región de Arica y Parinacota, la Región de Tarapacá, la Región de Aysén del General Carlos Ibáñez del Campo, la Región de Magallanes y de la Antártica Chilena y las provincias de Chiloé y Palena en la Región de Los Lagos.
+
+> **Nota.** El N° 5 del artículo único del Decreto 9, Educación, publicado el 23.12.2020, modifica el presente artículo en el sentido de incorporar a continuación del literal c) los literales e), f) y g), por lo que la actualización de este artículo se realizó como establece la citada norma.
 
 #### Artículo 6
 
@@ -100,7 +108,7 @@ En todo caso, la asignación de los recursos para los proyectos mencionados, se 
 
 #### Artículo 7
 
-De la Comisión de Selección de los proyectos. Se constituirá una Comisión de Selección de Proyectos, en adelante la Comisión, presidida por el Director de Educación Pública o el funcionario a quien delegue dicha facultad.
+De la Comisión de Selección de los proyectos. Se constituirá una Comisión de Selección de Proyectos, en adelante la Comisión, presidida por el Jefe de la División de Asuntos Económicos y Financieros de la Dirección de Educación Pública o la denominación que a dicha Jefatura de División el Director de Educación Pública otorgue en atención a la facultad de organización interna prescrita en el artículo 63 de la Ley Nº 21.040.
 
 La Comisión estará adicionalmente conformada por tres funcionarios de la Dirección de Educación Pública y tres funcionarios de la Subsecretaría de Educación, quienes serán designados por los respectivos jefes de servicio.
 
@@ -115,6 +123,12 @@ La selección de los proyectos y su financiamiento, realizado conforme al presen
 Convenios. La transferencia de recursos estará sujeta a la firma de uno o más convenios entre la Dirección de Educación Pública y el representante legal del sostenedor correspondiente, además del cumplimiento de los compromisos establecidos en ellos.
 
 En el referido convenio se establecerán, a lo menos, la individualización del proyecto al cual se destinen los fondos, la forma de entrega de los recursos, los plazos para la ejecución del proyecto, las rendiciones de cuentas, el seguimiento de la ejecución física y financiera de los proyectos y los controles asociados en cada caso, así como las modificaciones que puedan afectar el desarrollo o ejecución de los proyectos. Asimismo, el sostenedor deberá obligarse a destinar para fines educacionales la infraestructura o equipamiento financiado con los recursos a los que se refiere este reglamento.
+
+#### Artículo 9
+
+Asignación Directa de Recursos. El Director de Educación Pública, con acuerdo de la mayoría de la Comisión establecida en el Artículo 7°, podrá asignar de forma directa recursos, mediante acto administrativo fundado, por caso fortuito o fuerza mayor, a proyectos que posean la calidad de elegibles técnicamente.
+
+Este mecanismo de asignación no podrá exceder del 30% de los recursos disponibles en la asignación que la Ley de Presupuesto destine para el Mejoramiento de Infraestructura Escolar Pública.
 
 ## Título III
 
