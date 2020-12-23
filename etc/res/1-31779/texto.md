@@ -30,15 +30,7 @@ transporte de automóviles 14,40 m
 
 c.5) Remolque 11,00 m
 
-c.6) Tracto-camión con semirremolque.
-
-Para el caso que se transporten
-
-exclusivamente vehículos, esta
-
-combinación podrá alcanzar
-
-hasta 22,40 m 18,60 m
+c.6) Tracto-camión con semirremolque 18,60 m
 
 c.7) Camión con remolque o cualquier
 
@@ -46,19 +38,17 @@ otra combinación 20,50 m
 
 c.8) Tracto-camión con semirremolque
 
-especial para el transporte de
+y camión con remolque especiales
+
+para el transporte de
 
 automóviles 22,40 m
 
-c.9) Camión con remolque especial para
-
-el transporte de automóviles 22,40 m
-
 En el caso del largo del remolque no será considerada la barra de acoplamiento, la que sí se considera en el largo total de la combinación camión con remolque.
 
-Las combinaciones tracto-camión con semirremolque especial para el transporte de automóviles y tractocamión con semirremolque cuando se transporten exclusivamente vehículos, que excedan los 18,00 m de largo, sólo podrán circular en las vías que fije la Dirección de Vialidad; asimismo, en la parte posterior del semirremolque de estas combinaciones deberá instalarse un letrero rígido con franjas oblicuas negras y amarillas de 15 cm de ancho, el que, sobre fondo blanco, deberá tener la inscripción "Vehículo especial" y la medida del largo total.
+Las combinaciones tracto-camión con semirremolque especial para el transporte de automóviles y tractocamión con semirremolque cuando se transporten exclusivamente vehículos, que excedan los 18,60 m de largo, sólo podrán circular en las vías que fije la Dirección de Vialidad; asimismo, en la parte posterior del semirremolque de estas combinaciones deberá instalarse un letrero rígido con franjas oblicuas negras y amarillas de 15 cm de ancho, el que, sobre fondo blanco, deberá tener la inscripción "Vehículo especial" y la medida del largo total.
 
-No obstante lo señalado en la letra c.7) anterior, las combinaciones de vehículos formadas por más de tres unidades separables que excedan de 15,00 m de largo, requerirán de una autorización especial de la Dirección de Vialidad, para circular por las vías públicas.
+No obstante lo señalado en las letras c.6) y c.7) anteriores, las combinaciones de vehículos formadas por más de dos unidades separables que excedan de 15,00 m de largo, requerirán de una autorización especial de la Dirección de Vialidad, para circular por las vías públicas.
 
 Excepcionalmente, sin perjuicio de lo dispuesto en la letra c.1), tratándose de buses pullman a que se refiere la resolución Nº 98, de 1986, de este Ministerio, cuyo largo exceda los 13,20 m sin superar los 14,00 m o los 15,00 m tratándose de buses distintos a los buses de dos pisos, entendiéndose como tales aquellos en que los espacios destinados a los viajeros están dispuestos, al menos en una parte, en dos niveles superpuestos, podrán circular por las vías públicas, salvo por aquellas que estén expresamente prohibidas por la Dirección de Vialidad del Ministerio de Obras Públicas.
 
@@ -70,7 +60,7 @@ Los propietarios de los vehículos antes de iniciar un viaje deberán informarse
 
 #### Artículo 3°
 
-En casos de excepción debidamente calificados, la Dirección de Vialidad podrá autorizar la circulación de vehículos que excedan las dimensiones establecidas como máximas, con las precauciones que en cada caso se dispongan, conforme lo establecido en el artículo 57° de la Ley N° 18.290. Esta autorización deberá ser comunicada oportunamente a Carabineros de Chile con el objeto de que adopte las medidas de seguridad necesarias para el desplazamiento de dichos vehículos.
+En casos de excepción debidamente calificados, la Dirección de Vialidad podrá autorizar la circulación de vehículos que excedan las dimensiones establecidas como máximas, con las precauciones que en cada caso se dispongan, conforme lo establecido en el artículo 63º del decreto con fuerza de ley Nº 1, del Ministerio de Transportes y Telecomunicaciones y del Ministerio de Justicia, de 2007, el cual fija texto refundido, coordinado y sistematizado de la Ley de Tránsito. Esta autorización deberá ser comunicada oportunamente a Carabineros de Chile con el objeto de que adopte las medidas de seguridad necesarias para el desplazamiento de dichos vehículos.
 
 #### Artículo 4°
 
@@ -79,10 +69,6 @@ Para los vehículos que se encuentren inscritos en el Registro de Vehículos Mot
 #### Artículo 5°
 
 Derógase la Resolución N° 11 de 1991 del Ministerio de Transportes y Telecomunicaciones.
-
-#### Artículo transitorio
-
-No obstante lo señalado en la letra b) del artículo 1° de la presente resolución, los vehículos con carrocería del tipo furgón o frigorífica, así como en el transporte de contenedores, podrán circular con una altura máxima de 4,20 m. Esta disposición regirá desde la fecha de publicación de la presente resolución y hasta el 31 de diciembre de 1998.
 
 Anótese, tómese razón y publíquese.- Narciso Irureta Aburto, Ministro de Transportes y Telecomunicaciones.
 
