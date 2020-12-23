@@ -22,7 +22,9 @@ Resuelvo:
 
 #### Artículo 1º
 
-Declárase como de desempeño de excelencia para los años 2020 y 2021 y, en consecuencia, beneficiarios de la subvención establecida en el artículo 15 de la ley Nº 19.410, a los siguientes establecimientos educacionales subvencionados que se individualizan en los listados contenidos en los archivos con firma electrónica avanzada del CD con caratulado 'Copia de Base seleccionados SNED 2020-2021' y del CD caratulado 'EE REX 1era modificación SNED RL', ambos firmados por el Jefe de la División de Educación General, que se acompañan en anexo y que forman parte integrante de la presente resolución.
+Declárase como de desempeño de excelencia para los años 2020 y 2021 y, en consecuencia, beneficiarios de la subvención establecida en el artículo 15 de la ley Nº 19.410, a los siguientes establecimientos educacionales subvencionados que se individualizan en los listados contenidos en los archivos con firma electrónica avanzada del CD con caratulado 'Copia de Base seleccionados SNED 2020-2021' y del CD caratulado 'EE REX 1era modificación SNED RL', ambos firmados por el Jefe de la División de Educación General, que se acompañan en anexo y que forman parte integrante de la presente resolución, además de los siguientes establecimientos educacionales:
+
+.
 
 #### Artículo 2º
 
