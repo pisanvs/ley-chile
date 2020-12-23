@@ -86,6 +86,8 @@ Adicionalmente a lo anterior, la SMA priorizará la realización de inspecciones
 
 Respecto al eje tecnológico, dadas las características de determinados sectores económicos se utilizarán herramientas tecnológicas de recolección de información en línea, uso de drones e imágenes satelitales de alta resolución, y requerimientos de información con foco en los hallazgos relevantes, que permitirán al sector regulado a gestionar de forma temprana y oportuna las desviaciones detectadas de manera remota. Esto último se priorizará en aquellos sectores que ya tienen una madurez tecnológica importante, derivada de obligaciones establecidas por instrumentos de carácter ambiental u otras obligaciones sectoriales.
 
+> **Nota.** El literal a) del artículo único de la Resolución 2460 Exenta, Medio Ambiente, publicada el 23.12.2020, modifica el presente artículo en el sentido de ampliar y establecer la metodología a utilizar para la fiscalización del eje preventivo establecido en la forma que indica la citada norma.
+
 #### Artículo cuarto
 
 Estrategia de Fiscalización para Resoluciones de Calificación Ambiental. La metodología aplicada para el caso de las Unidades Fiscalizables reguladas por RCA, considera en primer lugar, la caracterización de cada una dependiendo de su comportamiento ambiental, de la vulnerabilidad del territorio donde se emplazan y de la peligrosidad de cada tipo de proyecto.
@@ -138,7 +140,7 @@ Procesos totales de fiscalización ambiental comprendidos en el programa y subpr
 
 (1) Se hace presente que el nivel central de esta Superintendencia realizará procesos de fiscalización ambiental a nivel nacional.
 
-Se hace presente que cada proceso de fiscalización será objeto de al menos una actividad de inspección ambiental. El número total de actividades de fiscalización realizadas dependerá de la complejidad del proyecto y la etapa operacional en que se encuentra, y, por ello, será determinado al momento de la planificación de la fiscalización, siendo luego registrado en el informe técnico respectivo y, los números globales, serán comunicado en los resultados del programa y subprogramas al final del periodo.
+El número total de actividades de fiscalización realizadas dependerá de la complejidad del proyecto y la etapa operacional en que se encuentra, y, por ello, será determinado al momento de la planificación de la fiscalización, siendo luego registrado en el informe técnico respectivo y, los números globales, serán comunicado en los resultados del programa y subprogramas al final del periodo.
 
 #### Artículo séptimo
 
