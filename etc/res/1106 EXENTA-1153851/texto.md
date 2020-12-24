@@ -120,6 +120,8 @@ La medida de este numeral empezará a regir a contar de las 05:00 horas del día
 
 4. Déjase constancia que lo dispuesto en el Capítulo II de la resolución exenta Nº 591, de 2020, del Ministerio de Salud, será aplicable a las localidades del país, las cuales se encuentran en el Paso que se indica a continuación:
 
+.
+
 La clasificación dispuesta en este numeral comenzará a regir a las 05:00 horas del día 23 de diciembre de 2020 y durará indefinidamente hasta que las condiciones epidemiológicas permitan su suspensión.
 
 La validez de la clasificación dispuesta en la resolución exenta Nº 1.100, de 2020, del Ministerio de Salud, se mantendrá vigente en lo no modificado por esta resolución, clasificación que será de manera indefinida hasta que la situación epidemiológica así lo haga aconsejable.
