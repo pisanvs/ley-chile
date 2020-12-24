@@ -194,7 +194,7 @@ Presidente de la República
 
 Presidente del Senado
 
-Presidente de la Excelentísima Corte Suprema
+Presidente de la Excelentísima Corte Suprema de Justicia
 
 Presidente de la Cámara de Diputados
 
@@ -214,7 +214,7 @@ Presidente del Banco Central
 
 Presidente del Tribunal Calificador de Elecciones
 
-Presidente del Consejo Directivo del Servicio Electoral
+Presidente del Consejo Directivo del Servicio Electoral.
 
 Ministros de Estado:
 
@@ -232,7 +232,7 @@ Ministros de Estado:
 
 - Economía, Fomento y Turismo
 
-- Desarrollo Social
+- Desarrollo Social y Familia
 
 - Educación
 
@@ -258,13 +258,13 @@ Ministros de Estado:
 
 - Medio Ambiente
 
-- Del Deporte
+- Deporte
 
-- De la Mujer y Equidad de Género
+- Mujer y Equidad de Género
 
-- De las Culturas, las Artes y el Patrimonio
+- Culturas, las Artes y el Patrimonio
 
-- De Ciencia, Tecnología, Conocimiento e Innovación
+- Ciencia, Tecnología, Conocimiento e Innovación
 
 Decano del Cuerpo Diplomático
 
@@ -284,7 +284,7 @@ Jefe del Estado Mayor Conjunto de las Fuerzas Armadas
 
 Vicepresidente del Senado
 
-Vicepresidentes de la Cámara de Diputados
+Vicepresidente de la Cámara de Diputados
 
 Senadores en orden alfabético
 
@@ -300,13 +300,15 @@ Defensor Nacional
 
 Presidente del Consejo de Defensa del Estado
 
-Subcontralor General de la República
+Subcontralor General de la República.
 
 Subsecretarios de Estado:
 
 - Interior
 
 - Relaciones Exteriores
+
+- Relaciones Económicas Internacionales
 
 - Desarrollo Regional y Administrativo
 
@@ -324,7 +326,7 @@ Subsecretarios de Estado:
 
 - Economía y Empresas de Menor Tamaño
 
-- Pesca
+- Pesca y Acuicultura
 
 - Turismo
 
@@ -332,7 +334,13 @@ Subsecretarios de Estado:
 
 - Servicios Sociales
 
+- Niñez
+
 - Educación
+
+- Educación Parvularia
+
+- Educación Superior
 
 - Justicia
 
@@ -360,21 +368,19 @@ Subsecretarios de Estado:
 
 - Bienes Nacionales
 
--Energía
+- Energía
 
 - Medio Ambiente
 
 - Deportes
 
-- De la Mujer y la Equidad de Género
+- Mujer y la Equidad de Género
 
-- De las Culturas y las Artes
+- Culturas y las Artes
 
-- Del Patrimonio Cultural
+- Patrimonio Cultural
 
-- De Ciencia, Tecnología, Conocimiento e Innovación
-
-Subdirector del Consejo Nacional de la Cultura y las Artes
+- Ciencia, Tecnología, Conocimiento e Innovación
 
 Presidente del Consejo Directivo del Consejo para la Transparencia
 
@@ -394,7 +400,7 @@ Comandante General de la Guarnición de Ejército de la Región Metropolitana
 
 Embajadores chilenos
 
-Embajadores Eméritos
+Embajadores eméritos
 
 Generales de División, Vicealmirantes, Generales de Aviación
 
@@ -448,7 +454,7 @@ Generales de Brigada, Contraalmirantes, Generales de Brigada Aérea
 
 Generales de Carabineros y Prefecto Inspector de la Policía de Investigaciones de Chile
 
-Rectores de Universidades
+Rectores de universidades
 
 Secretario del Senado
 
