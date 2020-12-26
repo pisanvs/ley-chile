@@ -40,7 +40,7 @@ Decreto:
 
 Características Técnicas:
 
-- Frecuencia : 107,1MHz.
+- Frecuencia : 91,1 MHz.
 
 - Potencia máxima : 1000W.
 
