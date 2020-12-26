@@ -26,33 +26,35 @@ Apruébase el siguiente reglamento de transferencias de potencia entre empresas 
 
 ## Título I — DISPOSICIONES GENERALES
 
-#### Artículo 1°
+#### Artículo 1º
 
-Las transferencias de potencia entre empresas que poseen medios de generación operados en sincronismo con un sistema eléctrico y que resulten de la coordinación de la operación a que se refiere el Artículo 81 de la Ley, se determinarán a partir de la capacidad de generación compatible con la suficiencia (en adelante, "Potencia de Suficiencia") y los compromisos de demanda de punta existentes (en adelante, "Demanda de Punta"), que se asignen a cada generador.
+Las transferencias de potencia entre propietarios, arrendatarios, usufructuarios o quienes operen a cualquier título medios de generación que se encuentren en operación, en los términos que establece el inciso final del artículo 72º-17 de la Ley, exceptuando a aquellos que se abstengan de ejercer su derecho a participar en las transferencias de potencia, según el Artículo 8º del presente reglamento, en adelante los "Participantes del Balance de Potencia", se determinarán a partir de la capacidad de generación compatible con la suficiencia y los compromisos de demanda de punta existentes, que se asignen a cada generador.
 
-Para estos efectos se establecerán balances por sistemas o por subsistemas conforme a los subsistemas que se identificaren en los correspondientes informes técnicos de precio de nudo según se establece en el Artículo 99 de la Ley, a partir de la Potencia de Suficiencia y Demanda de Punta de cada generador.
+Para estos efectos se establecerán balances por sistemas o por subsistemas conforme a los subsistemas que se identificaren en los correspondientes informes técnicos definitivos de precio de nudo de corto plazo según se establece en el artículo 162 numeral 3 de la Ley, a partir de la Potencia de Suficiencia y los compromisos de Demanda de Punta de cada Participante del Balance de Potencia.
 
-#### Artículo 2°
+#### Artículo 2º
 
-Las empresas que posean medios de generación operados en sincronismo tendrán derecho a vender los excedentes de potencia, que resulten de los balances señalados en el artículo precedente, al precio de nudo de la potencia.
+Los Participantes del Balance de Potencia tendrán derecho a vender los excedentes de potencia, que resulten de los balances señalados en el artículo precedente, al precio de nudo de corto plazo de la potencia.
 
-Los procedimientos para la determinación de los precios que corresponda, cuando los medios de generación se conecten directamente a instalaciones del Sistema de Transmisión o Distribución, deberán sujetarse a las disposiciones de la reglamentación vigente y a lo que se establezca en el decreto tarifario a que se refiere el Artículo 103º de la Ley.
+Los procedimientos para la determinación de los precios que corresponda, cuando los medios de generación se conecten directamente a instalaciones del Sistema de Transmisión Nacional o Zonal o del Sistema de Distribución, deberán sujetarse a las disposiciones de la normativa vigente.
 
-Las inyecciones y retiros de potencia mediante los cuales se determinen las transferencias de potencia, serán valorizados utilizando el precio de nudo de la potencia, de acuerdo a lo establecido en el TITULO V del presente reglamento.
+Las inyecciones y retiros de potencia mediante los cuales se determinen las transferencias de potencia, serán valorizadas utilizando el precio de nudo de corto plazo de la potencia, de acuerdo a lo establecido en el Título V del presente reglamento.
 
-#### Artículo 3°
+#### Artículo 3º
 
-Cada propietario de medios de generación operados en sincronismo podrá participar de las transferencias de potencia a que se refiere el presente reglamento mediante unidades generadoras propias o contratadas.
+Los Participantes del Balance de Potencia deberán estar en condiciones de satisfacer, en cada año, sus compromisos para la Demanda de Punta, considerando la Potencia de Suficiencia propia y la adquirida a otras empresas que posean medios de generación. Para cada Participante del Balance de Potencia, el Coordinador Independiente del Sistema Eléctrico Nacional, en adelante el "Coordinador", verificará el cumplimiento de lo anterior, realizando un balance de inyecciones y retiros de potencia.
 
-De este modo, cada propietario de medios de generación operados en sincronismo deberá estar en condiciones de satisfacer, en cada año, sus compromisos para la Demanda de Punta, considerando la Potencia de Suficiencia propia y la adquirida a otras empresas que posean medios de generación. Para cada generador, la Dirección de Operación (en adelante, "DO") de cada Centro de Despacho Económico de Carga (en adelante, "CDEC"), verificará el cumplimiento de lo anterior, realizando un balance de inyecciones y retiros de potencia.
+#### Artículo 4º
 
-#### Artículo 4°
+El balance de inyecciones y retiros de potencia constará de un cálculo preliminar, que considerará los Retiros de Potencia previstos para cada Participante del Balance de Potencia. El Coordinador comunicará, a más tardar el último día del mes de diciembre de cada año, los correspondientes pagos que deban efectuarse entre los referidos Participantes del Balance de Potencia durante el año siguiente. Estos pagos se efectuarán en doce mensualidades, durante el año al cual correspondan.
 
-El balance de inyecciones y retiros de potencia constará de un cálculo preliminar, el cual se efectuará dentro del mes que precede al del inicio del año de cálculo, considerando las demandas previstas para cada propietario de medios de generación operados en sincronismo. La DO comunicará, a más tardar el último día del mes que precede al del inicio del año de cálculo, los correspondientes pagos que deban efectuarse entre empresas propietarias de medios de generación operados en sincronismo durante el año siguiente. Estos pagos se efectuarán en doce mensualidades, durante el año al cual correspondan.
+Una vez transcurrido el Año de Cálculo, el Coordinador deberá comunicar el cálculo definitivo de las transferencias de potencia, a más tardar el último día del mes de marzo. Para ello, el Coordinador deberá actualizar el cálculo preliminar con toda la información y supuestos que no se ajusten a lo observado en el Año de Cálculo, conforme se establece en el Artículo 15 del presente reglamento.
 
-Una vez transcurrido el año de cálculo, la DO deberá realizar el cálculo definitivo de las transferencias de potencia, a más tardar el último día del mes siguiente al año indicado. La DO deberá actualizar del cálculo preliminar toda la información y supuestos que no se ajusten a lo observado en el año de cálculo, conforme se establece en el Artículo 15 del presente reglamento.
+El cálculo preliminar y el cálculo definitivo de las transferencias de potencia podrán ser observados por los Participantes del Balance de Potencia y por los propietarios, arrendatarios, usufructuarios o quienes operen a cualquier título instalaciones del sistema de transmisión, en adelante "Titulares de Transmisión".
 
-Las diferencias que surjan entre los pagos determinados por el cálculo definitivo y los pagos realizados según el cálculo preliminar del año respectivo, darán origen a una reliquidación. Estas diferencias serán pagadas en una sola cuota, incluyendo los intereses, que se facturará a más tardar de 20 días corridos después que la DO realice el cálculo definitivo, y que se pagará a más tardar 10 días corridos después de emitidas las correspondientes facturas.
+Para el cálculo preliminar y el cálculo definitivo, los Participantes del Balance de Potencia y los Titulares de Transmisión, contarán con 10 días hábiles, a partir de la comunicación del Coordinador, para enviar sus observaciones al mismo. Recibidas las observaciones antes señaladas, el Coordinador deberá comunicar la versión final de los respectivos cálculos preliminares o definitivos según corresponda, en un plazo de 10 días hábiles, contado desde el vencimiento del plazo para recibir observaciones.
+
+Las diferencias que surjan entre los pagos determinados por el cálculo definitivo y los pagos realizados según el cálculo preliminar del año respectivo, darán origen a una reliquidación. Estas diferencias serán pagadas en una sola cuota, incluyendo los intereses, que se facturará a más tardar a los 20 días corridos contados desde que el Coordinador comunique la versión final del cálculo definitivo, y se pagará a más tardar 10 días corridos después de emitidas las correspondientes facturas.
 
 #### Artículo 5°
 
@@ -64,83 +66,105 @@ En el caso de atraso o mora en los pagos correspondientes tanto al cálculo prel
 
 #### Artículo 6°
 
-Los cálculos y pagos definitivos que determine la DO deberán ser realizados en los plazos que se señalan en el presente reglamento, sin perjuicio de las instancias de reclamación pertinentes, las que en ningún caso podrán interrumpir la cadena de pagos entre las empresas que participan de las transferencias de potencia.
+Los cálculos y pagos definitivos que determine el Coordinador deberán ser realizados en los plazos que se señalan en el presente reglamento, sin perjuicio de las instancias de reclamación pertinentes, las que en ningún caso podrán interrumpir la cadena de pagos entre las empresas que participan de las transferencias de potencia.
 
-#### Artículo 7°
+#### Artículo 7º
 
-De acuerdo a las disposiciones establecidas en el presente reglamento, a cada unidad generadora se le asignará una Potencia de Suficiencia definitiva, en función de la incertidumbre asociada a la disponibilidad del Insumo Principal de generación que se utilice y la indisponibilidad forzada de la unidad generadora e instalaciones que la conectan al Sistema de Transmisión o Distribución, caracterizadas por la Potencia Inicial y Potencia de Suficiencia preliminar, respectivamente. Para el caso de centrales hidroeléctricas, la incertidumbre asociada a la disponibilidad del Insumo Principal de generación será considerada de acuerdo a las disposiciones establecidas en el Artículo 38 y siguientes del presente reglamento.
+De acuerdo a las disposiciones establecidas en el presente reglamento, a cada Unidad Generadora se le asignará una Potencia de Suficiencia definitiva, en función de la incertidumbre asociada a la disponibilidad del Insumo Principal y del Insumo Alternativo de generación que se utilice, según corresponda, y la indisponibilidad forzada de la misma y de las instalaciones que la conectan al Sistema de Transmisión o Distribución. Para el caso de centrales hidroeléctricas, la incertidumbre asociada a la disponibilidad del Insumo Principal de generación será considerada de acuerdo a las disposiciones establecidas en los artículos 39 y siguientes del presente reglamento.
 
-Por otra parte, a cada propietario de medios de generación operados en sincronismo, y para cada cliente del mismo, se le asignará un Retiro de Potencia.
+Por otra parte, cada Participante del Balance de Potencia, en caso que efectúe retiros de potencia para abastecer a clientes no sometidos a regulación de precios o empresas distribuidoras, deberá contar con un contrato de suministro destinado a estos efectos. En este caso, a cada Participante del Balance de Potencia se le asignará un Retiro de Potencia.
 
-Del balance que resulte entre la Potencia de Suficiencia definitiva y los Retiros de Potencia de cada generador, la DO determinará las transferencias de potencia entre las empresas que poseen medios de generación operados en sincronismo.
+Del balance que resulte entre la Potencia de Suficiencia definitiva de cada Unidad Generadora y los Retiros de Potencia de cada Participante del Balance de Potencia, el Coordinador determinará las transferencias de potencia entre los referidos participantes.
 
-#### Artículo 8°
+#### Artículo 8º
 
-Aquellas empresas que posean medios de generación operados en sincronismo y que no estén sujetos a la coordinación del CDEC respectivo, podrán solicitar a la DO ser incluidos en las transferencias de potencia, en cuyo caso deberán aportar todos los antecedentes e información que les solicite el CDEC a efectos que la DO lleve a cabo los cálculos y balances de inyecciones y retiros pertinentes.
+Aquellas empresas que sean propietarias, arrendatarias, usufructuarias o que operen a cualquier título medios de generación de pequeña escala, en los términos definidos en la Ley, y que no efectúen retiros de potencia para abastecer a clientes no sometidos a regulación de precios o empresas distribuidoras, podrán abstenerse de ejercer su derecho a participar en las transferencias de potencia, comunicando lo anterior al Coordinador, al momento de interconectarse al respectivo sistema o antes del 31 de diciembre del año anterior al que hará efectiva su abstención, y no podrá reintegrarse sino una vez transcurrido un año contado desde la fecha en que se hizo efectiva su abstención.
 
-Una vez entregada la solicitud y antecedentes pertinentes, la DO deberá incorporar en las transferencias de potencia, a los medios de generación que soliciten lo indicado en el inciso precedente. Dichos medios de generación serán considerados como puntos de inyección de potencia conforme a las disposiciones del presente reglamento.
+No obstante, si con posterioridad a la comunicación señalada en el inciso anterior, las empresas suscribieren contratos de suministro eléctrico para abastecer a clientes no sometidos a regulación de precios o empresas distribuidoras, que involucren suministro de potencia, éstas deberán participar de las transferencias de potencia, desde el mes de inicio de suministro eléctrico indicado en el respectivo contrato.
 
-Los mecanismos y procedimientos de acreditación que corresponda aplicar a los medios de generación a que se refiere el presente artículo, serán definidos conforme las disposiciones que se establezcan en la norma técnica que dicte el Ministerio de Economía, Fomento y Reconstrucción (en adelante, el "Ministerio"), previo informe de la Comisión Nacional de Energía (en adelante, la "Comisión").
+Las empresas que no participen de las transferencias de potencia podrán solicitar al Coordinador ser incluidas en las transferencias de potencia, en cuyo caso deberán aportar todos los antecedentes e información que les solicite el Coordinador a efectos que éste lleve a cabo los cálculos y balances de inyecciones y retiros pertinentes, de acuerdo a los plazos señalados en el inciso primero de este artículo.
 
-#### Artículo 9°
+#### Artículo 9º
 
-Para efectos del cálculo de la Potencia Inicial, Potencia de Suficiencia preliminar y definitiva de los medios de generación no sujetos a la coordinación del CDEC, se deberá aplicar un tratamiento metodológico equivalente al que se aplica a las unidades generadoras sujetas a la coordinación del CDEC. No obstante lo anterior, la DO podrá adoptar simplificaciones o agrupaciones, tal que no exista perjuicio individual ni colectivo en las transferencias de potencia de los medios de generación señalados.
-
-Las simplificaciones o agrupaciones que la DO aplique a los medios de generación de las empresas no integrantes del CDEC, podrán ser realizadas para unidades generadoras de similar tecnología, o bien, para unidades generadoras con similar punto de conexión al sistema o subsistema.
+Para efectos del cálculo de la Potencia Inicial, Potencia de Suficiencia preliminar y definitiva de los medios de generación de pequeña escala, se deberá aplicar un tratamiento metodológico equivalente al que se aplica a las demás Unidades Generadoras de igual tecnología. No obstante lo anterior, el Coordinador podrá adoptar simplificaciones o agrupaciones de los referidos medios de generación para efectos de realizar un cálculo eficiente de la Potencia Inicial, Potencia de Suficiencia preliminar y definitiva, en atención a su capacidad, tecnología, disponibilidad o impacto sistémico, entre otros criterios técnicos, y siempre que no exista perjuicio en la determinación de la Potencia de Suficiencia definitiva de los medios de generación que sean objeto de dicha simplificación o agrupación.
 
 #### Artículo 10
 
-Las discrepancias que pudieren surgir en relación a la aplicación del presente reglamento y que se susciten al interior de un CDEC, serán sometidas al dictamen del Panel de Expertos establecido en el Título VI de la Ley, y su procedimiento se sujetará a lo dispuesto en el Artículo 32 del Decreto Supremo N° 181 del Ministerio de Economía, Fomento y Reconstrucción, de 2004.
+Las discrepancias que pudieren surgir en relación a la aplicación del presente reglamento, serán sometidas al dictamen del Panel de Expertos y su procedimiento se sujetará a lo dispuesto en el decreto supremo Nº 44, de 2017, del Ministerio de Energía, que aprueba Reglamento del Panel de Expertos establecido en la Ley General de Servicios Eléctricos, o aquel que lo reemplace.
 
 #### Artículo 11
 
-Tanto el cálculo preliminar como el cálculo definitivo serán realizados por la DO. Los procedimientos y metodologías que resulten necesarias para dar cumplimiento a lo dispuesto en el presente reglamento, serán establecidos en la norma técnica que el Ministerio dicte, previo informe de la Comisión, conforme a la reglamentación vigente.
-
-La DO deberá entregar toda la información que la Comisión requiera, en la forma y oportunidad que ésta disponga, a efectos de incorporar en la norma técnica los procedimientos y condiciones de aplicación que este reglamento requiera.
+Tanto el cálculo preliminar como el cálculo definitivo serán realizados por el Coordinador. Los procedimientos y metodologías que resulten necesarias para dar cumplimiento a lo dispuesto en el presente reglamento, serán establecidos en la norma técnica.
 
 #### Artículo 12
 
-A más tardar 60 días corridos después de realizado el cálculo definitivo de cada año, la DO deberá hacer pública las bases de cálculo y antecedentes utilizados para determinar la Potencia de Suficiencia y el balance de inyecciones y retiros a que se refieren el Título III, Título IV y Título V del presente reglamento.
+Dentro de los primeros cinco días del mes de abril de cada año, el Coordinador deberá hacer pública las bases de cálculo y antecedentes utilizados para determinar la Potencia de Suficiencia y el balance de inyecciones y retiros a que se refieren el Título III, Título IV y Título V del presente reglamento.
 
-Para tal efecto, las bases de cálculo y antecedentes que hayan sido puestos a disposición de las empresas que participan de las transferencias de potencia a que se refiere este reglamento, deberán ser publicados en el sitio de dominio electrónico de cada CDEC, sin ningún tipo de costo para acceder a dicha información.
+Para tal efecto, las bases de cálculo y antecedentes que hayan sido puestos a disposición de las empresas que participan de las transferencias de potencia a que se refiere este reglamento, deberán ser publicados en el sitio web del Coordinador, sin ningún tipo de costo para acceder a dicha información.
 
-## Título II — DEFINICIONES
+## Título II — DEFINICIONES Y PLAZOS
 
 #### Artículo 13
 
-Para efectos de la aplicación y comprensión del presente reglamento se establecen las siguientes definiciones:
+Para los efectos de la aplicación de las disposiciones establecidas en el presente reglamento se entenderá por:
 
-a) Barra de Transferencia: Barra o punto del Sistema de Transmisión en el cual se producen transferencias de potencia entre empresas eléctricas.
+a) Año de Cálculo: Período comprendido entre enero y diciembre de cada año, para el cual se determinan los pagos asociados a las transferencias de potencia.
 
-b) Demanda de Punta: Demanda promedio de los 52 mayores valores horarios de la curva de carga anual de cada sistema o subsistema.
+b) Barra de Transferencia: Barra o punto del Sistema de Transmisión en el cual se producen transferencias de potencia entre los Participantes del Balance de Potencia.
 
-c) Energía de Regulación: Energía afluente anual para condición hidrológica definida en Artículo 39 del presente reglamento; más la energía acumulada al 1 de Abril, promedio de los últimos 20 años, en centrales hidroeléctricas con capacidad de regulación diaria o superior, conforme a lo indicado en el Artículo 40 del presente reglamento; más la proporción de recursos de unidades con capacidad de regulación, generados por centrales sin capacidad de regulación, conforme a lo establecido en el Artículo 42 del presente reglamento.
+c) Central Renovable con Capacidad de Almacenamiento: Central de generación renovable que utiliza recursos primarios variables, compuesta por una componente de generación y una componente de almacenamiento, ambas con el mismo punto de conexión al sistema eléctrico. La componente de generación corresponde al equipamiento tecnológico para transformar energía primaria en energía eléctrica, en tanto la componente de almacenamiento es aquel equipamiento capaz de transformar la energía eléctrica producida por la componente de generación, en otro tipo de energía y almacenarla con el objetivo de, mediante una transformación inversa, inyectarla al sistema eléctrico.
 
-d) Estado Deteriorado: Condición de operación de una unidad generadora en la cual se limita su Potencia Máxima producto de restricciones en sus componentes o instalaciones, independiente de la disponibilidad de su Insumo Principal.
+d) Central Renovable con Capacidad de Regulación: Central de generación renovable que utiliza recursos primarios variables, con la capacidad de gestionar temporalmente su recurso energético primario, en forma de energía mecánica, térmica, electromagnética, entre otras, de forma previa a su transformación en energía eléctrica para la inyección al sistema eléctrico.
 
-e) Insumo Principal: Insumo o combustible con el cual la unidad generadora puede operar en forma continua, a un menor costo variable promedio durante el año anterior al año de cálculo, para una determinada Potencia Máxima.
+e) Comisión: Comisión Nacional de Energía.
 
-f) Insumo Alternativo: Insumo o combustible distinto al Insumo Principal, con el cual la unidad generadora puede operar en forma continua por al menos 24 horas, para la Potencia Máxima correspondiente a ese combustible.
+f) Coordinador: Coordinador independiente del sistema eléctrico nacional, al que se refiere el artículo 212º-1 de la Ley General de Servicios Eléctricos.
 
-g) LOLPdm: Probabilidad de pérdida de carga para la Demanda de Punta del sistema o subsistema.
+g) Demanda de Punta: Demanda promedio de los 52 mayores valores horarios de la curva de carga anual de cada sistema o subsistema.
 
-h) Margen de Potencia: Cuociente entre la sumatoria de la Potencia Inicial de las unidades generadoras y la Demanda de Punta, para cada subsistema o sistema, según corresponda.
+h) Energía de Regulación: Energía afluente anual para la condición hidrológica definida en el Artículo 39 del presente reglamento; más la energía acumulada al 1 de abril, promedio de los últimos 20 años de la estadística disponible, en Centrales Renovables con Capacidad de Regulación diaria o superior, o Centrales Renovables con Capacidad de Almacenamiento diaria o superior, en ambos casos, cuya fuente de energía primaria sea la energía hidráulica, conforme a lo indicado en el Artículo 40 del presente reglamento; más la proporción de energía afluente de unidades pertenecientes a las centrales indicadas anteriormente, provenientes de centrales sin capacidad de regulación, conforme a lo establecido en el Artículo 42 del presente reglamento.
 
-i) Potencia de Suficiencia: Potencia que una unidad generadora aporta a la Suficiencia de Potencia del sistema o subsistema. A partir de dicha potencia, se determina la remuneración que resulte de las transferencias de potencia para cada generador.
+i) Estado Deteriorado: Condición de operación de una Unidad Generadora en la cual se limita su Potencia Máxima producto de restricciones en sus componentes o instalaciones, independiente de la disponibilidad de su Insumo Principal y Alternativo; o en la cual la Unidad Generadora presenta restricciones asociadas a las condiciones señaladas en el Artículo 25 quáter del presente reglamento para ser convocada por el Coordinador al despacho.
 
-j) Potencia Máxima: Máximo valor que puede sostener una unidad generadora, de acuerdo a la norma técnica y la verificación que realice la DO a través de pruebas destinadas especialmente para este fin.
+j) Estado Disponible: Condición de operación de una Unidad Generadora en la cual se encuentra disponible para el despacho por el Coordinador sin que presente una o más de las restricciones del Estado Deteriorado.
 
-k) Retiro de Potencia: Compromiso de potencia de un generador con un cliente final sometido o no a regulación de precios, el cual se determina a partir del promedio de potencia consumida por el cliente durante las horas que determinan la Demanda de Punta del sistema o subsistema.
+k) Estado de Reserva Estratégica: Corresponde a un Estado Deteriorado en que puede encontrarse una Unidad Generadora, solicitado por el correspondiente Participante del Balance de Potencia y aprobado por el Coordinador, en los términos que establece el Artículo 25 bis del presente reglamento.
 
-l) Sistema de Distribución: Conjunto de instalaciones de tensión nominal igual o inferior a 23 [kV], que se encuentran fuera de la subestación primaria de distribución, destinadas a dar suministro a usuarios finales ubicados en zonas de concesión, o bien a usuarios ubicados fuera de zonas de concesión que se conecten a instalaciones de una concesionaria mediante líneas propias o de terceros, o a instalaciones de tensión nominal igual o inferior a 23 kV que utilicen bienes nacionales de uso público.
+l) Estado No Disponible: Condición de operación de una Unidad Generadora en la cual no se encuentra disponible para el despacho por el Coordinador.
 
-m) Sistema de Transmisión: Sistema compuesto por instalaciones de transmisión troncal, de subtransmisión y de transmisión adicional.
+m) Insumo Principal: Insumo o combustible con el cual la Unidad Generadora puede operar en forma continua, a un menor costo variable promedio durante el año anterior al Año de Cálculo, para una determinada Potencia Máxima.
 
-n) Subperíodo: Período dentro de un año de cálculo en el cual se produce un cambio relevante en la oferta de potencia de un determinado sistema o subsistema, a partir de la incorporación o exclusión de unidades generadoras.
+n) Insumo Alternativo: Insumo o combustible distinto al Insumo Principal, con el cual la Unidad Generadora puede operar en forma continua por al menos 24 horas, para la Potencia Máxima correspondiente a dicho insumo o combustible.
 
-o) Suficiencia de Potencia: Capacidad de un sistema o subsistema para abastecer la Demanda de Punta, considerando para cada unidad generadora una oferta de potencia confiable en función de la incertidumbre asociada a la disponibilidad del Insumo Principal y Alternativo, la indisponibilidad forzada de las unidades, y la indisponibilidad de las instalaciones que conectan la unidad al Sistema de Transmisión o Distribución. Se expresa como una probabilidad y es igual a uno menos LOLPdm.
+o) Ley: Decreto con Fuerza de Ley Nº4/20.018, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, que fija texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 1, de Minería, de 1982, Ley General de Servicios Eléctricos, en materia de energía eléctrica, y sus modificaciones posteriores o disposición que la reemplace.
 
-p) Unidad Generadora: Equipo generador eléctrico que posee equipos de accionamiento propios, sin elementos en común con otros equipos generadores.
+p) LOLPdm: Probabilidad de pérdida de carga para la Demanda de Punta del sistema o subsistema.
+
+q) Margen de Potencia: Cociente entre la sumatoria de la Potencia Inicial de las Unidades Generadoras y la Demanda de Punta, para cada subsistema o sistema, según corresponda.
+
+r) Potencia de Suficiencia: Potencia que una Unidad Generadora aporta a la Suficiencia de Potencia del sistema o subsistema. A partir de dicha potencia, se determina la remuneración que resulte de las transferencias de potencia para cada Participante del Balance de Potencia.
+
+s) Potencia Máxima: Máximo valor que puede sostener de manera continua una Unidad Generadora, considerando, si corresponde, sus componentes de generación y de almacenamiento, ambas con el mismo punto de conexión al sistema eléctrico, de acuerdo a la norma técnica y la verificación que realice el Coordinador a través de pruebas destinadas especialmente para este fin.
+
+t) Retiro de Potencia: Compromiso de potencia de un Participante del Balance de Potencia para el suministro a clientes no sometidos a regulación de precios o empresas distribuidoras, contando con un contrato de suministro destinado a esos efectos.
+
+u) Sistema de Distribución o Red de Distribución: Conjunto de instalaciones destinadas a dar suministro o permitir inyecciones a clientes o usuarios finales ubicados en sus zonas de concesión, o bien a clientes o usuarios ubicados fuera de zonas de concesión que se conecten a las instalaciones de una empresa distribuidora mediante líneas propias o de terceros.
+
+v) Sistema de Transmisión: Conjunto de líneas y subestaciones eléctricas que forman parte de un sistema eléctrico, y que no están destinadas a prestar el servicio público de distribución.
+
+w) Subperíodo: Período dentro de un Año de Cálculo en el cual se produce un cambio en la oferta de potencia de un determinado sistema o subsistema, a partir de la incorporación o exclusión de Unidades Generadoras.
+
+x) Suficiencia de Potencia: Capacidad de un sistema o subsistema para abastecer la Demanda de Punta, considerando para cada Unidad Generadora una oferta de potencia confiable en función de la incertidumbre asociada a la disponibilidad del Insumo Principal y Alternativo, la indisponibilidad forzada de las unidades, y la indisponibilidad de las instalaciones que conectan la unidad al Sistema de Transmisión o Distribución. Se expresa como una probabilidad y es igual a uno menos LOLPdm.
+
+y) Superintendencia: Superintendencia de Electricidad y Combustibles.
+
+z) Unidad Generadora: Equipo generador eléctrico que posee mecanismos de accionamiento propios, sin elementos en común con otros equipos generadores.
+
+#### Artículo 13 bis
+
+Los plazos expresados en días que establece el presente reglamento serán de días hábiles, salvo que se indique expresamente lo contrario, entendiéndose que son inhábiles los días sábados, los domingos y los festivos.
+
+Cuando el último día del plazo sea inhábil, éste se entenderá prorrogado al primer día hábil siguiente.
 
 ## Título III — ANTECEDENTES E INFORMACION A UTILIZAR
 
@@ -148,59 +172,55 @@ CAPITULO 1: ANTECEDENTES GENERALES
 
 #### Artículo 14
 
-Para efectos del cálculo preliminar a que se refiere el Artículo 4°, las empresas propietarias de medios de generación que participen de las transferencias de potencia deberán proporcionar a la DO, en la oportunidad y modalidad que ésta señale, sus proyecciones e información que a continuación se indica:
+Para efectos del cálculo preliminar a que se refiere el Artículo 4º del presente reglamento, los Participantes del Balance de Potencia deberán proporcionar al Coordinador, en la oportunidad y modalidad que éste señale, sus proyecciones e información que a continuación se indica:
 
-a) Demandas de potencia horarias para cada cliente, con detalle mensual, indicando magnitud, fecha y hora.
+a) Retiros de Potencia horarias en cada uno de los puntos de retiro de sus clientes, con detalle mensual, indicando magnitud, fecha y hora.
 
-b) Punto de suministro y punto efectivo donde se realiza la transacción comercial entre cliente y suministrador.
+b) Puntos de retiro de cada cliente, de acuerdo a la información entregada para las transferencias de energía.
 
 c) Cambios en los contratos de suministro a clientes, que alteren o modifiquen las transferencias de potencia a que se refiere el presente reglamento.
 
-d) Fecha de entrada, retiro y traslado de unidades generadoras e instalaciones que la conectan al Sistema de Transmisión o Distribución, según corresponda.
+d) Fecha de entrada en operación, retiro y traslado de Unidades Generadoras e instalaciones que las conectan al Sistema de Transmisión o Distribución, según corresponda.
 
-e) Períodos de puesta en servicio para las unidades en prueba.
+e) Períodos de puesta en servicio para las Unidades Generadoras.
 
-f) Mantenimiento mayor de unidades generadoras, e instalaciones del Sistema de Transmisión.
+f) Mantenimiento mayor de Unidades Generadoras, e instalaciones del Sistema de Transmisión.
 
 g) Potencia contratada con otras empresas que participan de las transferencias de potencia.
 
 #### Artículo 15
 
-Para efectos del cálculo definitivo a que se refiere el Artículo 4°, las empresas señaladas en el artículo anterior deberán proporcionar a la DO, en la oportunidad y modalidad que ésta señale, la información que a continuación se indica, en carácter de definitiva:
+Para efectos del cálculo definitivo a que se refiere el Artículo 4º del presente reglamento, los Participantes del Balance de Potencia deberán proporcionar al Coordinador, en la oportunidad y modalidad que éste señale, la información que a continuación se indica, en carácter de definitiva:
 
-a) Registro horario de demanda de potencia de cada cliente.
+a) Registro horario de demanda de potencia de cada cliente, distinguiendo aquéllos dentro del horario de control de punta.
 
-b) Valores definitivos para las proyecciones informadas según el artículo precedente.
+b) Valores definitivos de las proyecciones informadas según el artículo precedente.
 
 #### Artículo 16
 
-Para incluir en las transferencias de potencia unidades generadoras no sujetas a la coordinación del CDEC que corresponda, los propietarios de dichas unidades deberán entregar a la DO la información estadística disponible, la cual será procesada en forma consistente con las metodologías utilizadas para unidades generadoras sujetas a la coordinación del CDEC.
-
-En el caso de que dichas empresas posean contratos de suministro con clientes finales sometidos o no a regulación de precios, éstas deberán entregar a la DO información equivalente a la requerida en el Artículo 14 y Artículo 15 precedentes.
+Derogado.
 
 #### Artículo 17
 
-En el caso de medios de generación operados en sincronismo que se incorporen o excluyan durante un año, en el cálculo de las transferencias de potencia se considerarán tantos Subperíodos como incorporaciones o exclusiones correspondan, a fin de promediarlos y obtener valores únicos para cada unidad generadora durante todo el año.
-
-Se entenderá que una unidad generadora se incorpora o excluye, cuando tal situación es comunicada oficialmente al CDEC para efectos del despacho y demás labores de coordinación que debe realizar este organismo.
+En el caso de Unidades Generadoras que entren en operación en los términos señalados en el artículo 72-17º de la Ley, se retiren, desconecten o cesen en sus operaciones en los términos señalados en el artículo 72-18º de la Ley, o pasen a Estado de Reserva Estratégica, durante un determinado Año de Cálculo, en el cálculo de las transferencias de potencia se considerarán tantos Subperíodos como sea necesario, a fin de ponderarlos y obtener valores únicos para cada Unidad Generadora durante todo el año.
 
 #### Artículo 18
 
-Todos los antecedentes que entreguen los propietarios de medios de generación a la DO, conforme a lo indicado en el presente reglamento, deberán ser enviados con copia a la Superintendencia de Electricidad y Combustibles (en adelante, la
+Los Participantes del Balance de Potencia están obligados a proporcionar al Coordinador toda la información y sus actualizaciones, que éste requiera para el cumplimiento del presente reglamento, en forma oportuna, cabal y veraz.
 
-"Superintendencia"), a fin de verificar el cumplimiento de la normativa vigente y la validez de los antecedentes entregados.
+La omisión del deber de información, sea que medie requerimiento de información o cuando proceda sin mediar aquel, así como la entrega de información falsa, incompleta o manifiestamente errónea, serán sancionadas por la Superintendencia, de acuerdo a las normas establecidas en la Ley Nº 18.410, que crea la aludida Superintendencia.
 
 #### Artículo 19
 
-Para efectos de la determinación de las transferencias de potencia, con la debida justificación y mediante un informe técnico, la DO podrá solicitar las inspecciones, mediciones y pruebas de operación de las unidades generadoras que permitan verificar los antecedentes proporcionados por ellas, las cuales deberán ser realizadas por un tercero, con cargo a la respectiva empresa propietaria. El tercero que realice tales tareas, deberá ser escogido de común acuerdo entre la DO y la empresa propietaria. Los valores a utilizar en la determinación de las transferencias de potencia serán los que resulten de este procedimiento.
+Para efectos de la determinación de las transferencias de potencia, el Coordinador podrá realizar las auditorías, inspecciones, mediciones y pruebas de operación de las Unidades Generadoras que permitan verificar los antecedentes proporcionados por los respectivos Participantes del Balance de Potencia. Los valores a utilizar en la determinación de las transferencias de potencia serán los que resulten de dichos procesos.
 
 #### Artículo 20
 
-Si una unidad generadora, sus componentes, o las instalaciones que la conectan al Sistema de Transmisión o Distribución, según corresponda, presentan una falla técnica prolongada o siniestro que anule o disminuya su potencia por un período comprendido entre 15 y 60 días corridos, la empresa propietaria o titular podrá solicitar a la DO, que este evento sea tratado de forma tal que durante dicho período se anule o disminuya la potencia de la unidad. Tal solicitud podrá ser presentada a más tardar 15 días corridos después de ocurrida la falla o siniestro.
+Si una Unidad Generadora, sus componentes, o las instalaciones que la conectan al Sistema de Transmisión o Distribución, según corresponda, presentan una falla técnica prolongada o siniestro que anule o disminuya su potencia por un período comprendido entre 15 y 60 días corridos, el correspondiente Participante del Balance de Potencia podrá solicitar al Coordinador, que este evento sea tratado de forma tal que durante dicho periodo se anule o disminuya la potencia de la unidad. Tal solicitud podrá ser presentada a más tardar 15 días corridos después de ocurrida la falla o siniestro.
 
-En caso que la falla o siniestro se prolongue por más de 60 días corridos, la DO deberá anular o disminuir la potencia de la unidad generadora durante el periodo respectivo.
+En caso que la falla o siniestro se prolongue por más de 60 días corridos, el Coordinador deberá anular o disminuir la potencia de la unidad generadora durante el periodo que exceda los referidos 60 días.
 
-Si el propietario o titular decide ejercer la opción señalada en el inciso primero del presente artículo, éste deberá enviar una comunicación a la DO, con copia a la Comisión y a la Superintendencia. Dicha comunicación deberá acompañarse de al menos los siguientes antecedentes:
+Si el Participante del Balance de Potencia decide ejercer la opción señalada en el inciso primero del presente artículo, éste deberá enviar una comunicación al Coordinador, con copia a la Comisión y a la Superintendencia. Dicha comunicación deberá acompañarse de al menos los siguientes antecedentes:
 
 a) Identificación de los elementos fallados o siniestrados.
 
@@ -208,47 +228,107 @@ b) Descripción de las causas de la falla o siniestro.
 
 c) Descripción del plan de trabajo para su reparación.
 
-Una vez reparada la falla, el propietario deberá informar a la DO los cambios en los parámetros de la unidad generadora o componente que deban ser actualizados.
+Una vez reparada la falla, el Participante del Balance de Potencia deberá informar al Coordinador los cambios en los parámetros de la unidad generadora o componente que deban ser actualizados.
 
 #### Artículo 21
 
-En caso que el propietario o titular de una unidad generadora decida ejercer la opción señalada en el inciso primero del artículo precedente, el tratamiento para dicha unidad generadora o componente será el siguiente:
+En caso que el Participante del Balance de Potencia decida ejercer la opción señalada en el inciso primero del artículo precedente, el tratamiento para dicha Unidad Generadora o componente será el siguiente:
 
-a) La unidad generadora no acumula indisponibilidad forzada en todas las horas del período de falla.
+a) La Unidad Generadora no acumulará indisponibilidad forzada en todas las horas del período de falla.
 
-b) La unidad generadora no es remunerada durante el período de la falla, es decir, se excluye temporalmente de las transferencias de potencia.
+b) La Unidad Generadora no será remunerada durante el período de la falla.
 
-c) Para efectos del cálculo de la Potencia de Suficiencia del resto de las unidades generadoras del sistema, se reconocerá un Subperíodo durante el período de la falla.
+c) Para efectos del cálculo de la Potencia de Suficiencia del resto de las Unidades Generadoras del sistema, se reconocerá un Subperíodo durante el período de la falla en el sistema o subsistema que corresponda.
 
 CAPITULO 2: POTENCIA MAXIMA Y CONTROL ESTADÍSTICO
 
 #### Artículo 22
 
-Durante cada año, la DO realizará una verificación de la Potencia Máxima a todas las unidades generadoras del sistema o subsistema. Los costos en que se incurra serán de cargo del propietario o titular de cada unidad generadora.
+Durante cada año, el Coordinador realizará una verificación de la Potencia Máxima a todas las Unidades Generadoras del sistema o subsistema. Los costos de operación en que se incurra serán de cargo del Participante del Balance de Potencia correspondiente.
 
 #### Artículo 23
 
-Los criterios y condiciones bajo los cuales se debe realizar tal verificación deberán ser transparentes, no discriminatorios e informados con la debida antelación al propietario de la unidad generadora respectiva.
+Los criterios y condiciones bajo los cuales se debe realizar tal verificación deberán ser transparentes, no arbitrarios ni discriminatorios, e informados con la debida antelación al Participante del Balance de Potencia respectivo.
 
-Restricciones tales como bajo nivel del embalse o estanque de regulación, restricciones o congestiones en el Sistema de Transmisión, compromisos de riego, caudales afluentes deprimidos, interrupción en el suministro del Insumo Principal o Alternativo, u otras restricciones equivalentes, impedirán la ejecución de la referida verificación.
+Restricciones tales como bajo nivel del embalse o estanque de regulación, restricciones o congestiones en el Sistema de Transmisión, compromisos de riego, caudales afluentes deprimidos, interrupción en el suministro del Insumo Principal o Alternativo, restricciones relacionadas con el cumplimiento de la normativa medioambiental u otras restricciones equivalentes, podrán impedir o establecer condiciones especiales a la ejecución de la referida verificación.
 
 #### Artículo 24
 
-En caso que una unidad generadora no sea programada para operar y por ende no sea posible verificar la Potencia Máxima por parte de la DO durante un año, para dicha unidad generadora se deberá emplear el valor utilizado en el último cálculo definitivo de transferencias de potencia.
+En caso que una Unidad Generadora no sea convocada al despacho y por ende no sea posible verificar la Potencia Máxima por parte del Coordinador durante un año calendario, para dicha Unidad Generadora se deberá emplear el valor utilizado de Potencia Máxima en el último cálculo definitivo de transferencias de potencia. Sin perjuicio de lo anterior, el Coordinador podrá determinar la realización de pruebas a dichas Unidades Generadoras, de conformidad a las condiciones establecidas en la normativa vigente.
 
 #### Artículo 25
 
-La DO deberá llevar un control estadístico de los estados operativos de las unidades generadoras con el fin de representar los diversos estados y/o limitaciones que presenta la oferta de potencia de las mismas.
+El Coordinador deberá llevar un control estadístico de los estados operativos de las Unidades Generadoras con el fin de representar los diversos estados y/o limitaciones que presenta la oferta de potencia de las mismas.
 
-Para tal efecto, se establecerá un Estado Disponible, un Estado No Disponible y los Estados Deteriorados que correspondan, en función de las características de cada unidad generadora, a fin de dar cumplimiento a lo señalado en el Título IV, Capítulo 2, del presente reglamento.
+Para tal efecto, se establecerán Estados Disponibles, Estados No Disponibles y Estados Deteriorados, según corresponda, en función de las condiciones de operación de cada Unidad Generadora, y de acuerdo a lo dispuesto en la norma técnica.
 
-A partir de los estados en que cada unidad estuvo en operación e indisponible, se deberá construir la indisponibilidad forzada a que se refiere el Artículo 52 y siguientes del presente reglamento.
+A partir de los estados en que cada Unidad Generadora estuvo en operación e indisponible, se deberá construir la indisponibilidad forzada a que se refieren los Artículos 52 y siguientes del presente reglamento.
+
+#### Artículo 25 bis
+
+Una Unidad Generadora podrá ser considerada en Estado de Reserva Estratégica mediante la aprobación, por parte del Coordinador, de una solicitud de cambio a dicho estado, presentada por el respectivo Participante del Balance de Potencia al Coordinador, la que deberá indicar la fecha de cambio de estado.
+
+Será requisito para que el Coordinador apruebe la solicitud de cambio a Estado de Reserva Estratégica de una Unidad Generadora, que el respectivo Participante del Balance de Potencia haya comunicado el retiro de la misma del Sistema Eléctrico Nacional, en los términos que establece el artículo 72º-18 de la Ley. Dicha comunicación deberá considerar una fecha de retiro de la Unidad Generadora dentro de un plazo de entre 24 y 60 meses, contado a partir de la fecha de inicio del Estado de Reserva Estratégica indicada en la referida solicitud.
+
+El Coordinador deberá evaluar la solicitud que hace referencia el inciso primero del presente artículo, en función de la fecha presentada para tal cambio. El Coordinador, en un plazo no superior a 20 días hábiles contado desde la recepción de la solicitud, a través de un informe técnico, deberá verificar que el cambio de la Unidad Generadora a Estado de Reserva Estratégica no produce afectación significativa de la seguridad de servicio global ni local del sistema, ni produce un aumento significativo de los costos de operación y falla, ni en los costos marginales del sistema. A efectos de esta evaluación, el Coordinador deberá analizar las solicitudes de cambio a Estado de Reserva Estratégica en orden cronológico de presentación de las mismas.
+
+La aprobación de solicitud de cambio a Estado de Reserva Estratégica, será efectuada por el Coordinador, teniendo en consideración el plazo solicitado para permanecer en Estado de Reserva Estratégica. En caso de que el Coordinador no apruebe la solicitud de cambio a Estado de Reserva Estratégica de una Unidad Generadora para la fecha solicitada, éste deberá comunicar al respectivo Participante del Balance de Potencia la fecha posterior más próxima en la que dicho cambio cumple con los criterios indicados en el inciso tercero del presente artículo. En este caso, para que la Unidad Generadora sea considerada por el Coordinador en Estado de Reserva Estratégica, el correspondiente Participante del Balance de Potencia deberá modificar la fecha de solicitud de cambio a Estado de Reserva Estratégica a la fecha señalada por el Coordinador, en un plazo de 10 días hábiles contado desde la comunicación del Coordinador. Asimismo, el referido Participante del Balance de Potencia deberá modificar la fecha de retiro de la Unidad Generadora, en caso de ser necesario, de manera de dar cumplimiento al periodo mínimo de 24 meses y máximo de 60 meses de permanencia en el Estado de Reserva Estratégica. En caso de que el Participante del Balance de Potencia no modifique su solicitud en el plazo antes señalado, ésta se tendrá por desistida.
+
+#### Artículo 25 ter
+
+Para efectos de la evaluación que se indica en el inciso tercero del artículo precedente, se entenderá que existe un aumento significativo de los costos de operación y falla, cuando el cambio a Estado de Reserva Estratégica de una Unidad Generadora produce alzas de al menos un 5% del valor esperado del costo total actualizado de operación y falla del sistema eléctrico, en un horizonte de 5 años a partir de la fecha de dicho cambio.
+
+Asimismo, para los efectos señalados en el inciso precedente, se entenderá que existe un aumento significativo de los costos marginales del sistema, producto del cambio a Estado de Reserva Estratégica de una Unidad Generadora, cuando se cumplan las siguientes condiciones copulativas:
+
+a) El cambio de estado de la Unidad Generadora produce alzas en el costo marginal promedio esperado, proyectado a 5 años del sistema, superiores al 25% del costo variable de dicha unidad; y
+
+b) El costo marginal promedio esperado, proyectado a 5 años, en el escenario en que la Unidad Generadora cambia a Estado de Reserva Estratégica, es de al menos un 75% del costo variable promedio de las Unidades Generadoras que se encuentren conectadas al sistema, que no se encuentran en Estado de Reserva Estratégica, y que utilizan el mismo Insumo Principal que dicha unidad. En el caso de que no existan Unidades Generadoras en el Sistema que cumplan con lo anterior, para determinar el costo variable promedio, se empleará el costo variable de la Unidad Generadora que solicita el cambio a Estado de Reserva Estratégica.
+
+Adicionalmente, para los mismos efectos señalados en el primer inciso del presente artículo, se entenderá por afectación significativa de la seguridad de servicio global o local, cuando el cambio de una Unidad Generadora a Estado de Reserva Estratégica implique que los recursos técnicos existentes no permitan dar cumplimiento a las exigencias de seguridad y calidad de servicio, requiriendo de nueva infraestructura para la prestación de servicios complementarios, según la naturaleza local o global de éstos.
+
+#### Artículo 25 quáter
+
+Una Unidad Generadora en Estado de Reserva Estratégica sólo podrá ser convocada por el Coordinador al despacho en los casos previstos en el artículo siguiente, debiendo estar en condiciones para inyectar energía al Sistema Eléctrico Nacional, en un plazo de 60 días corridos desde el aviso que el Coordinador le dé al correspondiente Participante del Balance de Potencia.
+
+Sin perjuicio de lo anterior, en caso de que el Participante del Balance de Potencia comunique al Coordinador que su Unidad Generadora puede inyectar energía en un menor plazo al indicado en el inciso precedente, el Coordinador podrá convocar a dicha unidad al despacho a partir de la fecha que el referido participante indique.
+
+#### Artículo 25
+
+quinquies: El Coordinador podrá convocar al despacho a una Unidad Generadora en Estado de Reserva Estratégica en caso que prevea déficits importantes de generación o condiciones de afectación a la seguridad, tanto local como sistémica, en un horizonte de al menos seis meses, para distintos escenarios de disponibilidad de energía en el sistema.
+
+El Coordinador deberá analizar lo descrito en el inciso precedente debiendo informar mensualmente a la Comisión los resultados de dicho análisis.
+
+Se entenderá por déficits importantes de generación a aquellas condiciones de menor disponibilidad energética, asociadas al 5% de los casos más extremos en el horizonte de análisis, las cuales impliquen aumentos globales o locales de los costos de operación y falla, o de los costos marginales del sistema.
+
+#### Artículo 25
+
+sexies: En los casos en que una Unidad Generadora en Estado de Reserva Estratégica sea convocada al despacho por el Coordinador, en los términos que se indican en el artículo precedente, desde el momento en que dicha unidad inicie sus inyecciones al sistema o se cumpla el plazo que indica el inciso primero del Artículo 25 quáter del presente reglamento, se considerará que ésta no se encuentra en Estado de Reserva Estratégica, computándose sus estadísticas de acuerdo con el estado operativo en que ésta se encuentre. Asimismo, deberá permanecer conectada al sistema, y en condiciones de inyectar energía por el período que el Coordinador estime necesario, el que no podrá ser inferior a tres meses.
+
+El Coordinador será quien determine el momento en que la Unidad Generadora deberá retornar al Estado de Reserva Estratégica.
+
+En el caso que una Unidad Generadora retorne al Estado de Reserva Estratégica, el respectivo Participante del Balance de Potencia podrá solicitar al Coordinador, prorrogar la fecha de término de permanencia en dicho estado, adicionando el tiempo en que la referida unidad no se encontró en Estado de Reserva Estratégica por haber sido convocada al despacho. Dicha solicitud deberá realizarse dentro de los 15 días hábiles siguientes al referido retorno. En el caso que el Participante del Balance de Potencia solicite la prórroga, éste deberá, si es necesario, actualizar la fecha de retiro de la Unidad Generadora de modo de cumplir con lo indicado en el inciso segundo del Artículo 25 bis del presente reglamento.
+
+#### Artículo 25
+
+septies: En caso que una Unidad Generadora en Estado de Reserva Estratégica sea convocada al despacho por el Coordinador, en los términos establecidos en los Artículos 25 quáter y siguientes del presente reglamento, y ésta no se encuentre en condiciones de inyectar energía en el plazo indicado en el señalado Artículo 25 quáter, o no opera adecuadamente por un periodo igual o superior a 5 días corridos, de acuerdo a lo que establezca el Coordinador, dicha unidad se considerará en Estado No Disponible y no será remunerada hasta que se compruebe que está en condiciones de inyectar energía mediante la realización de una prueba o verificación.
+
+La prueba o verificación deberá ser acordada entre el respectivo Participante del Balance de Potencia y el Coordinador, y se deberá demostrar la aptitud de la Unidad Generadora para inyectar energía, bajo las condiciones de operación que el Coordinador determine. Los costos de operación en que se incurra serán de cargo del correspondiente Participante del Balance de Potencia.
+
+#### Artículo 25
+
+octies: Entre seis y doce meses antes de la fecha de término de permanencia en Estado de Reserva Estratégica de una Unidad Generadora, el respectivo Participante del Balance de Potencia podrá solicitar al Coordinador que evalúe la pertinencia de prorrogar dicha fecha, considerando la afectación significativa de la seguridad de servicio global o local, en los términos definidos en el Artículo 25 ter del presente reglamento.
+
+El Coordinador deberá dar respuesta a la solicitud indicada en el inciso precedente en un plazo de 30 días hábiles. En el caso de que el Coordinador apruebe la solicitud, éste deberá definir el plazo de prórroga, el cual no podrá superar los 12 meses.
+
+#### Artículo 25
+
+nonies: Sin perjuicio de los plazos establecidos en el presente reglamento, en cualquier momento los Participantes del Balance de Potencia podrán solicitar el término de permanencia en Estado de Reserva Estratégica de una Unidad Generadora y el cese definitivo de operaciones y retiro de dicha unidad del sistema, según lo establecido en el artículo 72º-18 de la Ley.
 
 #### Artículo 26
 
-Además del control estadístico señalado en el artículo anterior, la DO deberá llevar un control estadístico de la disponibilidad de cualquier Insumo Principal utilizado por las unidades de generación térmica, para cada unidad generadora en forma independiente, en base al nivel diario de restricción.
+Además del control estadístico señalado en el Artículo 25 del presente reglamento, el Coordinador deberá llevar un control estadístico de la disponibilidad de cualquier Insumo Principal utilizado por las Unidades Generadoras, en base al nivel diario de restricción.
 
-A partir de lo anterior, la DO establecerá el año de menor disponibilidad media anual a que se refiere el Artículo 29 y siguientes del presente reglamento, para cada unidad generadora en forma independiente.
+A partir de lo anterior, el Coordinador establecerá el año de menor disponibilidad media anual a que se refiere el Artículo 29 y siguientes del presente reglamento, para cada unidad generadora en forma independiente.
 
 #### Artículo 27
 
@@ -260,23 +340,35 @@ CAPITULO 1: POTENCIA INICIAL
 
 #### Artículo 28
 
-A cada unidad generadora se le asignará una Potencia Inicial, menor o igual a su Potencia Máxima, la cual caracterizará la potencia que cada unidad puede aportar al sistema, en función de la incertidumbre asociada a la disponibilidad del Insumo Principal de generación.
+A cada Unidad Generadora se le asignará una Potencia Inicial, menor o igual a su Potencia Máxima, la cual caracterizará la potencia que cada unidad puede aportar al sistema, en función de la incertidumbre asociada a la disponibilidad del Insumo Principal y del Insumo Alternativo de generación, según corresponda, junto a las restricciones ambientales asociadas a éstos y en los procesos logísticos asociados al suministro de ambos insumos.
 
-En caso que un Insumo Principal de generación presente incertidumbre respecto de su disponibilidad futura, la Potencia Inicial de cada unidad generadora deberá considerar los niveles de restricción observados para dicho insumo.
+En caso que un Insumo Principal o un Insumo Alternativo de generación presente incertidumbre respecto de su disponibilidad futura, la Potencia Inicial de cada Unidad Generadora deberá considerar los niveles de restricción observados para dichos insumos.
+
+En caso de Unidades Generadoras que se encuentren en Estado de Reserva Estratégica, los respectivos Participantes del Balance de Potencia deberán acreditar ante el Coordinador, la factibilidad de abastecer a dichas unidades con el Insumo Principal, de manera tal de cumplir con lo indicado en los Artículos 25 quáter y 25 sexies del presente reglamento. Para acreditar lo anterior, dichos participantes deberán contar con contratos o acuerdos de suministro del Insumo Principal.
+
+A las Unidades Generadoras que se encuentren en Estado de Reserva Estratégica y que cuenten con la acreditación señalada en el inciso precedente, se les considerará que su disponibilidad del Insumo Principal es del 100% para el período estadístico en que la unidad se encuentre en dicho estado. En caso de no contar con la referida acreditación, a dichas unidades se les considerará nula disponibilidad del Insumo Principal.
 
 #### Artículo 29
 
-En caso de unidades generadoras térmicas, la Potencia Inicial se determinará en base a la menor disponibilidad media anual observada para el Insumo Principal, para los últimos 5 años anteriores al año de cálculo, para cada unidad generadora en forma independiente.
+En caso de Unidades Generadoras térmicas, la Potencia Inicial se determinará en base a la menor disponibilidad media anual para el Insumo Principal, para los últimos 5 años anteriores al Año de Cálculo, para cada Unidad Generadora en forma independiente.
 
-Para tal efecto, la DO deberá implementar un control estadístico de la disponibilidad de los insumos indicados en el inciso precedente, conforme a lo indicado en el Artículo 26 del presente reglamento.
+En el caso de Unidades Generadoras que se hayan encontrado en Estado de Reserva Estratégica, se empleará la menor disponibilidad media anual determinada en el último cálculo definitivo de transferencias de potencia, anterior a la fecha de inicio de Estado de Reserva Estratégica de dicha unidad.
+
+El Coordinador deberá mantener un control estadístico de la disponibilidad de los insumos indicados en el primer inciso del presente artículo, conforme a lo indicado en el Artículo 26 del presente reglamento.
 
 #### Artículo 30
 
 Las unidades generadoras que declaren capacidad de respaldo a través de la operación con Insumo Alternativo, serán representadas como una unidad generadora equivalente a partir de las características de operación que posee cada unidad con el Insumo Principal y Alternativo, según corresponda.
 
-La declaración de capacidad de respaldo con Insumo Alternativo deberá ser acompañada de una certificación emitida por una empresa de prestigio y experiencia en la materia. La declaración y certificación indicada deberá contar con la conformidad de la DO antes que sea aceptada como antecedente válido para las transferencias de potencia que corresponda.
+Para efectos de lo señalado en el inciso primero, el Coordinador deberá llevar un control estadístico de la disponibilidad de cualquier Insumo Alternativo utilizado por las Unidades Generadoras, en base al nivel diario de restricción.
 
-Se entenderá que una unidad generadora posee capacidad de respaldo y está en condiciones de operar con Insumo Alternativo cuando ésta certifique que puede operar en forma continua. Para tal efecto se deberá acreditar que la unidad generadora puede operar continuamente por al menos 24 horas, a una Potencia Máxima que se debe verificar en los mismos términos que la del Insumo Principal, sujeto a la normativa ambiental vigente y demostrando factibilidad en el suministro permanente del Insumo Alternativo correspondiente.
+La declaración de capacidad de respaldo con Insumo Alternativo deberá ser acompañada de una certificación emitida por una empresa con experiencia en la materia. La declaración y certificación indicada deberá contar con la conformidad del Coordinador antes que sea aceptada como antecedente válido para las transferencias de potencia que corresponda.
+
+Se entenderá que una unidad generadora posee capacidad de respaldo y está en condiciones de operar con Insumo Alternativo cuando ésta certifique que puede operar en forma continua considerando las restricciones ambientales asociadas a éste. Para tal efecto se deberá acreditar que la unidad generadora puede operar continuamente por al menos 24 horas, a una Potencia Máxima que se debe verificar en los mismos términos que la del Insumo Principal, sujeto a la normativa ambiental vigente y demostrando factibilidad en el suministro permanente del Insumo Alternativo correspondiente.
+
+En caso de Unidades Generadoras que se encuentren en Estado de Reserva Estratégica y que cuenten con capacidad de respaldo según lo indicado en los incisos precedentes, los respectivos Participantes del Balance de Potencia deberán acreditar ante el Coordinador, la factibilidad de abastecer a dichas unidades con el Insumo Alternativo, de manera tal de cumplir con lo indicado en los Artículos 25 quáter y 25 sexies del presente reglamento. Para acreditar lo anterior, dichos participantes deberán contar con contratos o acuerdos de suministro del Insumo Alternativo.
+
+A las Unidades Generadoras que se encuentren en Estado de Reserva Estratégica y que cuenten con la acreditación señalada en el inciso precedente, se les considerará que cuentan con capacidad de respaldo. En caso de no contar con la referida acreditación, a dichas unidades se las considerará sin capacidad de respaldo.
 
 #### Artículo 31
 
@@ -286,7 +378,7 @@ A las unidades generadoras que estén afectas a la menor disponibilidad señalad
 
 #### Artículo 32
 
-Las unidades generadoras térmicas que se incorporen al sistema, serán representadas en el primer año de cálculo considerando una disponibilidad media anual para su Insumo Principal, igual al promedio de las disponibilidades medias anuales del Insumo Principal de las unidades existentes en el sistema, con características de abastecimiento similares a la unidad incorporada al sistema.
+Las Unidades Generadoras térmicas que se incorporen al sistema por primera vez, serán representadas en el primer Año de Cálculo considerando una disponibilidad media anual para su Insumo Principal, igual al promedio de las disponibilidades medias anuales del Insumo Principal de las Unidades Generadoras térmicas existentes en el sistema, que no se encuentren en Estado de Reserva Estratégica, que tengan el mismo Insumo Principal, y que cuenten con características de abastecimiento similares a la unidad incorporada al sistema.
 
 Para los años siguientes, la disponibilidad media anual señalada se obtendrá reemplazando sucesivamente la información anual más antigua de las unidades existentes referidas, por la información de la disponibilidad media anual efectiva del Insumo Principal de la unidad generadora incorporada al sistema, manteniendo siempre un período de control de 5 años. A partir del quinto año de ingreso de una unidad generadora, se le aplicará lo indicado en el Artículo 29 de este reglamento.
 
@@ -298,49 +390,55 @@ DEROGADO.
 
 #### Artículo 34
 
-Los autoproductores deberán demostrar a la DO que están en condiciones de aportar excedentes obtenidos de capacidad instalada y demanda, de procesos dependientes e integrados, para ser representados como una central de potencia igual a su excedente de potencia.
+Los autoproductores deberán demostrar al Coordinador que sus Unidades Generadoras están en condiciones de aportar excedentes de potencia, para ser representados como una central de potencia igual a dicho excedente.
 
 A partir de la Potencia Inicial del inciso precedente, cada autoproductor se incorporará al procedimiento de cálculo de las transferencias de potencia de manera equivalente al resto de las unidades generadoras, conforme a las disposiciones que se establecen en el presente reglamento.
 
 #### Artículo 35
 
-La Potencia Inicial de unidades generadoras cuya fuente sea no convencional, tales como geotérmica, eólica, solar, biomasa, mareomotriz, pequeñas centrales hidroeléctricas, cogeneración, será determinada conforme a los mismos procedimientos de las unidades generadoras convencionales, en función del tipo de insumo que utilice.
+La Potencia Inicial de Unidades Generadoras de cogeneración y medios de generación renovables no convencionales en los términos que establece el literal aa) del artículo 225º de la Ley, será determinada en función del tipo de energético que, como insumo primario, se utilice para la generación de energía y en conformidad a las disposiciones que establezca la norma técnica. Para aquellas Unidades Generadoras que sean parte de una Central Renovable con Capacidad de Almacenamiento o una Central Renovable con Capacidad de Regulación, y que sean consideradas medios de generación renovables no convencionales según el literal aa) del artículo 225º de la Ley, cuya fuente de energía primaria sea distinta de la energía hidráulica, la Potencia Inicial deberá reconocer adecuadamente el aporte a la suficiencia de dichas unidades a propósito de la capacidad de gestión temporal de la energía con la que cuentan.
 
-Para tal efecto, se utilizará la información estadística que aporte cada propietario, la cual será procesada en forma consistente con las metodologías utilizadas por la DO para unidades generadoras convencionales, esto es, considerando el peor escenario de disponibilidad media anual del Insumo Principal que corresponda. Las características y detalle de dicha información estadística deberá ser acorde con el Insumo Principal de que se trate.
+Para tal efecto, el Coordinador utilizará la información estadística del insumo primario que aporte cada Participante del Balance de Potencia, considerando el peor escenario de disponibilidad media anual del Insumo Principal, de los últimos 5 años anteriores. Las características y detalle de dicha información estadística deberán ser acorde con el Insumo Principal de que se trate.
 
 #### Artículo 36
 
-En el caso de las unidades generadoras señaladas en el artículo precedente, cuando no se disponga de información estadística suficiente, se deberá hacer uso de la información disponible para la zona o región en la cual se encuentra la unidad, de acuerdo a los procedimientos y condiciones que se especifiquen en la norma técnica. La Potencia Inicial de estas unidades será determinada conforme al peor escenario de disponibilidad media anual del Insumo Principal en la zona o región, de acuerdo a la información estadística disponible.
+En el caso de las Unidades Generadoras señaladas en el artículo precedente que se incorporen al sistema o cuando no se disponga de información estadística suficiente, se deberá hacer uso de la información disponible para la zona o región en la cual se encuentra la unidad y teniendo en cuenta características tecnológicas similares, según lo determine el Coordinador, de acuerdo a los procedimientos y condiciones que se especifiquen en la norma técnica. La Potencia Inicial de estas unidades será determinada conforme al peor escenario de disponibilidad media anual del Insumo Principal en la zona o región, de acuerdo a la información estadística disponible.
+
+Para los años siguientes, la disponibilidad media anual se obtendrá reemplazando sucesivamente la información anual señalada en el inciso anterior, por la información de la disponibilidad media anual efectiva del Insumo Principal de la Unidad Generadora incorporada al sistema eléctrico, manteniendo siempre un periodo de control de 5 años. A partir del quinto año de estadística, se le aplicará lo indicado en el artículo precedente.
 
 #### Artículo 37
 
-En sistemas con capacidad instalada de generación hidroeléctrica menor o igual a 20 %, para cada año de cálculo la Potencia Inicial de cada unidad generadora hidroeléctrica será determinada como el promedio de la potencia inyectada al sistema durante las horas de control tarifario de la potencia a clientes sometidos a regulación de precios.
+Derogado.
 
 #### Artículo 38
 
-En sistemas con capacidad instalada de generación hidroeléctrica mayor a 20 %, la Potencia Inicial de cada unidad generadora hidroeléctrica será determinada conforme a las disposiciones establecidas en los artículos siguientes.
+Derogado.
 
 #### Artículo 39
 
-En el caso de unidades generadoras hidroeléctricas, con o sin capacidad de regulación, se deberá utilizar la estadística de caudales afluentes correspondiente al promedio de los dos años hidrológicos de menor energía afluente de la estadística disponible con anterioridad al año de cálculo. Se entenderá como estadística disponible para efectos de la determinación de las transferencias de potencia, la utilizada por el respectivo CDEC en la programación de la operación de las unidades generadoras hidroeléctricas.
+En el caso de unidades generadoras hidroeléctricas que pertenezcan a Centrales Renovables con Capacidad de Regulación o Centrales Renovables con Capacidad de Almacenamiento o a centrales sin capacidad de regulación o almacenamiento, se deberá utilizar la estadística de caudales afluentes correspondiente al promedio de los dos años hidrológicos de menor energía afluente de la estadística disponible con anterioridad al Año de Cálculo. Se entenderá como estadística disponible para efectos de la determinación de las transferencias de potencia, la utilizada por el Coordinador en la programación de la operación de las unidades generadoras hidroeléctricas.
 
 #### Artículo 40
 
-A las unidades generadoras pertenecientes a centrales con capacidad de regulación diaria o superior se les considerará una energía inicial igual al promedio de la energía embalsada al 1 de abril, durante los últimos 20 años, incluido el año de cálculo.
+A las Unidades Generadoras hidroeléctricas que pertenezcan a Centrales Renovables con Capacidad de Regulación o Centrales Renovables con Capacidad de Almacenamiento, ambas con capacidad diaria o superior, se les considerará una energía inicial igual al promedio de la energía embalsada o almacenada al 1 de abril, durante los últimos 20 años, de la estadística disponible.
 
-Se entenderá que una unidad generadora hidroeléctrica posee capacidad de regulación diaria o superior, cuando la capacidad máxima de su embalse y el caudal afluente promedio anual para la condición hidrológica establecida en el Artículo 39 del presente reglamento, permiten que la unidad generadora opere a Potencia Máxima por al menos 24 horas.
+Se entenderá que una Unidad Generadora hidroeléctrica posee capacidad de regulación diaria o superior, cuando la capacidad máxima de su embalse o estanque de regulación, más la capacidad de gestión temporal de su componente de almacenamiento, si corresponde, y el caudal afluente promedio anual para la condición hidrológica establecida en el Artículo 39 del presente reglamento, permiten que la Unidad Generadora opere a Potencia Máxima por al menos 24 horas.
 
 #### Artículo 41
 
-Las centrales cuya capacidad de regulación sea insuficiente para generar su Potencia Máxima por al menos 24 horas, se denominarán centrales con capacidad de regulación intra diaria. Se entenderá que una unidad generadora hidroeléctrica posee capacidad de regulación intra diaria cuando la capacidad máxima de su estanque más la potencia afluente promedio anual para la condición hidrológica establecida en el Artículo 39 del presente reglamento, es suficiente para que la unidad generadora opere por al menos 5 horas consecutivas con una potencia igual o menor a su Potencia Máxima.
+Las Centrales Renovables con Capacidad de Regulación o Centrales Renovables con Capacidad de Almacenamiento, cuya fuente de energía primaria sea hidráulica y su capacidad de regulación o de almacenamiento sea insuficiente para generar su Potencia Máxima por al menos 24 horas, se denominarán centrales con capacidad de regulación o almacenamiento intra diaria. Se entenderá que una Unidad Generadora perteneciente a las centrales indicadas posee capacidad de regulación o almacenamiento intra diaria cuando la capacidad máxima de su embalse o estanque de regulación, más la capacidad de gestión temporal de su componente de almacenamiento, si corresponde, más la potencia afluente promedio anual para la condición hidrológica establecida en el Artículo 39 del presente reglamento, es suficiente para que la Unidad Generadora opere por al menos 5 horas consecutivas con una potencia igual o menor a su Potencia Máxima.
 
-En caso que, para contar con capacidad de regulación intra diaria al momento del cálculo, una unidad requiera una potencia menor a su Potencia Máxima, para efectos del presente reglamento su Potencia Máxima será reducida a la menor potencia antes mencionada.
+En caso que, para contar con capacidad de regulación o almacenamiento intra diaria al momento del cálculo, una unidad requiera una potencia menor a su Potencia Máxima, para efectos del presente reglamento su Potencia Máxima será reducida a la menor potencia antes mencionada.
 
-A las unidades generadoras pertenecientes a centrales con capacidad de regulación intra diaria se les considerará su capacidad de regulación, pero no se les considerará la energía inicial indicada en el artículo precedente.
+A las Unidades Generadoras pertenecientes a Centrales Renovables con Capacidad de Regulación o Centrales Renovables con Capacidad de Almacenamiento, cuya fuente de energía primaria sea hidráulica, con capacidad de regulación o almacenamiento intra diaria se les considerará su capacidad de regulación o almacenamiento, pero no se les considerará la energía inicial indicada en el artículo precedente.
 
 #### Artículo 42
 
-Para determinar la Potencia Inicial de unidades generadoras que hacen uso de recursos hidroeléctricos de unidades generadoras con capacidad de regulación ubicadas aguas arriba, se les reconocerá capacidad de regulación en serie, por el porcentaje del caudal afluente que es aportado por las referidas centrales con capacidad de regulación.
+Para determinar la Potencia Inicial de Unidades Generadoras que hacen uso de recursos hidroeléctricos de Unidades Generadoras pertenecientes a Centrales Renovables con Capacidad de Regulación, cuya fuente de energía primaria sea hidráulica, ubicadas aguas arriba, se les reconocerá capacidad de regulación en serie, por el porcentaje del caudal afluente que es aportado por las referidas centrales con capacidad de regulación.
+
+#### Artículo 42 bis
+
+Para el cálculo de la Potencia Inicial de Centrales Renovables con Capacidad de Regulación o Centrales Renovables con Capacidad de Almacenamiento, cuya fuente de energía primaria sea hidráulica, el Coordinador calculará una energía de regulación individual de cada una de estas centrales, como el mínimo valor entre la energía máxima anual que puede ser generada por su sistema de almacenamiento, estanque de regulación o embalse correspondiente ; y la suma entre la energía afluente promedio anual de la central para la condición hidrológica definida en el Artículo 39 del presente reglamento y la energía inicial, cuando ésta corresponda.
 
 #### Artículo 43
 
@@ -348,17 +446,17 @@ La Potencia Inicial de las unidades generadoras hidroeléctricas sin capacidad d
 
 #### Artículo 44
 
-A los efectos de calcular la Potencia Inicial de las unidades generadoras que posean capacidad de regulación, se deberá comprobar que la Energía de Regulación de cada unidad generadora es suficiente para colocar en la curva de duración de la demanda, preliminar o definitiva, según corresponda, la Potencia Máxima de la unidad. En caso que de la colocación de la Energía de Regulación se obtenga una potencia menor a la Potencia Máxima, para efectos del presente reglamento, la Potencia Máxima será reducida a la menor potencia antes mencionada. Esta comprobación se realizará separadamente para cada una de las unidades generadoras hidroeléctricas con capacidad de regulación.
+A los efectos de calcular la Potencia Inicial de las unidades generadoras que pertenezcan a Centrales Renovables con Capacidad de Regulación o Centrales Renovables con Capacidad de Almacenamiento, cuya fuente de energía primaria sea hidráulica, se deberá comprobar que la Energía de Regulación de cada unidad generadora es suficiente para colocar en la curva de duración de la demanda, preliminar o definitiva, según corresponda, la Potencia Máxima de la unidad. En caso que de la colocación de la Energía de Regulación se obtenga una potencia menor a la Potencia Máxima, para efectos del presente reglamento, la Potencia Máxima será reducida a la menor potencia antes mencionada. Esta comprobación se realizará separadamente para cada una de las unidades generadoras hidroeléctricas pertenecientes a las señaladas centrales.
 
-A efectos de determinar la Potencia Inicial del conjunto de unidades generadoras que poseen capacidad de regulación, se deberá colocar la Energía de Regulación del conjunto de dichas unidades en la curva de duración de la demanda, preliminar o definitiva, según corresponda.
+A efectos de determinar la Potencia Inicial del conjunto de unidades generadoras que pertenezcan a centrales señaladas en el inciso anterior, se deberá colocar la Energía de Regulación del conjunto de dichas unidades en la curva de duración de la demanda, preliminar o definitiva, según corresponda.
 
 #### Artículo 45
 
-De la colocación de la Energía de Regulación de las unidades generadoras que poseen capacidad de regulación, incluidas las unidades con capacidad de regulación en serie, se obtendrá la Potencia Inicial del conjunto de dichas unidades, a distribuir entre las unidades que contribuyen con Energía de Regulación. La señalada Potencia Inicial será prorrateada en función de la Energía de Regulación individual de cada unidad.
+De la colocación de la Energía de Regulación de las Unidades Generadoras pertenecientes a Centrales Renovables con Capacidad de Regulación o Centrales Renovables con Capacidad de Almacenamiento, cuya fuente de energía primaria sea hidráulica, incluidas las Unidades Generadoras hidroeléctricas con capacidad de regulación o almacenamiento en serie, se obtendrá la Potencia Inicial del conjunto de dichas unidades, a distribuir entre las unidades que contribuyen con Energía de Regulación. La señalada Potencia Inicial será prorrateada en función de la Energía de Regulación individual de cada Unidad Generadora.
 
 #### Artículo 46
 
-Si como resultado de la prorrata indicada en el artículo precedente, la Potencia Inicial de alguna unidad generadora fuese mayor a su Potencia Máxima, se computará una Potencia Inicial igual a la Potencia Máxima y el resto de las unidades generadoras aumentarán su Potencia Inicial de manera proporcional.
+Si como resultado de la prorrata indicada en el artículo precedente, la Potencia Inicial de alguna Unidad Generadora de las señaladas en el artículo anterior fuese mayor a su Potencia Máxima, se computará una Potencia Inicial igual a la Potencia Máxima y el resto de las Unidades Generadoras referidas en el mismo artículo antes señalado aumentarán su Potencia Inicial de manera proporcional.
 
 #### Artículo 47
 
@@ -372,9 +470,11 @@ CAPITULO 2: POTENCIA DE SUFICIENCIA PRELIMINAR
 
 #### Artículo 49
 
-Para el cálculo de la Potencia de Suficiencia preliminar se deberá utilizar el modelo probabilístico que determine cada CDEC, el cual deberá considerar para cada unidad generadora, su Potencia Inicial, indisponibilidad, periodo de mantenimiento y consumos propios.
+Para el cálculo de la Potencia de Suficiencia preliminar se deberá utilizar el modelo probabilístico que determine el Coordinador, el cual deberá considerar para cada Unidad Generadora, su Potencia Inicial, indisponibilidad, periodo de mantenimiento y consumos propios.
 
-En el caso de unidades que hayan acumulado información estadística de Estados Deteriorados, conforme a lo indicado en el Artículo 25 del presente reglamento, para determinar la Potencia de Suficiencia preliminar, éstas serán representadas por el mínimo valor entre la Potencia Inicial determinada conforme al Capítulo 1 del presente Título, y la potencia equivalente obtenida a partir del promedio ponderado de los Estados Deteriorados y estado disponible que corresponda. El mínimo valor anterior, será la nueva Potencia Inicial de la unidad generadora correspondiente.
+En el caso de Unidades Generadoras que hayan acumulado información estadística de Estados Deteriorados, conforme a lo indicado en el Artículo 25 del presente reglamento, para determinar la Potencia de Suficiencia preliminar, la Potencia Inicial de dichas unidades será calculada como el mínimo valor entre la Potencia Inicial determinada conforme al Capítulo 1 del presente Título, y la potencia equivalente.
+
+En el caso de Unidades Generadoras que hayan acumulado información estadística de Estados Deteriorados, la potencia equivalente corresponderá al promedio ponderado de los Estados Deteriorados y Estado Disponible que corresponda. Tratándose de Unidades Generadoras que se encuentren en Estado de Reserva Estratégica, la potencia equivalente corresponderá al menor valor entre el 60% de su Potencia Máxima y el valor de potencia equivalente determinado en el último cálculo definitivo de transferencias de potencia, anterior a la fecha de inicio de Estado de Reserva Estratégica de dicha unidad.
 
 #### Artículo 50
 
@@ -388,7 +488,7 @@ Los consumos que no estén dedicados exclusivamente a los servicios auxiliares d
 
 El valor resultante conforme a la reducción indicada en el artículo precedente, será reducido en un factor proporcional al periodo de mantenimiento mayor, proyectado o realizado en cada unidad generadora, para efectos del cálculo preliminar o definitivo, según corresponda.
 
-Los mantenimientos mayores, sean éstos parciales o totales, podrán realizarse en cualquier período del año y no afectarán la indisponibilidad forzada de la unidad, siempre y cuando se realicen dentro de los plazos establecidos en el programa de mantenimiento mayor vigente al comienzo de cada año. Si los mantenimientos se efectúan en un tiempo mayor a lo programado, las diferencias serán acumuladas en el índice de indisponibilidad forzada. Si los mantenimientos se efectúan en un tiempo menor a lo programado, el factor proporcional a que se refiere el inciso anterior sólo contabilizará el periodo efectivamente utilizado.
+Los mantenimientos mayores, sean éstos parciales o totales, podrán realizarse en cualquier periodo del año y no afectarán la indisponibilidad forzada de la Unidad Generadora, siempre y cuando se realicen dentro de los plazos establecidos en el programa de mantenimiento mayor vigente. Si los mantenimientos se efectúan por un tiempo mayor a lo programado, el exceso deberá ser considerado en el índice de indisponibilidad forzada, debiendo el factor proporcional al que se refiere el inciso anterior sólo contabilizar el periodo programado. Si los mantenimientos se efectúan en un tiempo menor a lo programado, el factor proporcional a que se refiere el inciso anterior sólo contabilizará el periodo efectivamente utilizado.
 
 #### Artículo 52
 
@@ -398,7 +498,15 @@ La indisponibilidad forzada será calculada en base al tiempo en que la unidad g
 
 La indisponibilidad forzada será determinada a partir del siguiente cuociente:
 
-La DO podrá verificar, en los términos establecidos en el presente reglamento y la norma técnica, la disponibilidad efectiva de las unidades generadoras, efectuando las pruebas correspondientes a dichas unidades.
+.
+
+IFOR : Indisponibilidad forzada.
+
+TOFF : Tiempo medio acumulado en que la unidad generadora se encuentra indisponible, ya sea por desconexión forzada o programada para una ventana móvil de 5 años. Considera el tiempo acumulado en los periodos de mantenimiento que excedan al periodo definido en el programa de mantenimiento mayor vigente.
+
+TON : Tiempo medio acumulado en que la unidad generadora se encuentra en operación, independiente del nivel de despacho, para una ventana móvil de 5 años.
+
+El Coordinador podrá verificar, en los términos establecidos en el presente reglamento y la norma técnica, la disponibilidad efectiva de las unidades generadoras, efectuando las pruebas correspondientes a dichas unidades.
 
 #### Artículo 54
 
@@ -406,13 +514,25 @@ La indisponibilidad forzada de una unidad generadora incorporará todos aquellos
 
 Del mismo modo, la indisponibilidad técnica de las instalaciones dedicadas al abastecimiento del Insumo Principal o Alternativo, internas o externas a las instalaciones de cada unidad generadora, así como la indisponibilidad de las instalaciones hidráulicas, se imputarán a la indisponibilidad forzada de la unidad generadora. En virtud de lo anterior, las instalaciones antes mencionadas deberán entenderse parte integral de la unidad generadora para efectos de computar la indisponibilidad forzada.
 
-Aquellos eventos o contingencias externas que se produzcan en instalaciones de generación o transmisión que no estén asociadas a la unidad generadora, no se computarán con cargo a la indisponibilidad forzada de la unidad.
+Aquellos eventos o contingencias externas que se produzcan en instalaciones de generación, transmisión o distribución que no estén asociadas a la Unidad Generadora, no se computarán con cargo a la indisponibilidad forzada de la unidad.
 
 #### Artículo 55
 
-Para el caso de unidades generadoras que sean consideradas por primera vez a las transferencias de potencia que debe determinar la respectiva DO, la indisponibilidad forzada de estas unidades será estimada en base estadísticas internacionales aplicables al tipo de tecnología que en cada caso corresponda, o las que garantice el fabricante.
+Para el caso de Unidades Generadoras que sean consideradas por primera vez en las transferencias de potencia que debe determinar el Coordinador, la indisponibilidad forzada de estas unidades será estimada en base a estadísticas nacionales o internacionales aplicables al tipo de tecnología que en cada caso corresponda, o las que garantice el fabricante.
 
-Entre el segundo y cuarto año de incorporada la unidad generadora respectiva, la indisponibilidad forzada se obtendrá como el promedio ponderado entre los valores observados para cada año transcurrido y el valor proveniente de las estadísticas internacionales. Luego del quinto año de incorporada la unidad generadora respectiva deberá aplicarse lo indicado en el Artículo 52 y siguientes del presente Reglamento.
+Entre el segundo y cuarto año de incorporada la Unidad Generadora respectiva, la indisponibilidad forzada se obtendrá como el promedio ponderado entre los valores observados para cada año transcurrido y el valor proveniente de las estadísticas nacionales, internacionales o las que garantice el fabricante. Luego del quinto año de incorporada la Unidad Generadora respectiva deberá aplicarse lo indicado en los Artículos 52 y siguientes del presente reglamento.
+
+#### Artículo 55 bis
+
+Para el caso de Unidades Generadoras que se encuentren en Estado de Reserva Estratégica, y aquellas que no se encuentren en dicho estado producto de lo dispuesto en los Artículos 25 quáter y siguientes del presente reglamento, la indisponibilidad forzada se determinará con la expresión indicada en el Artículo 53 del presente reglamento, utilizando una ventana móvil de 5 años, construida con la siguiente información:
+
+a) Estadística de estados operativos de la Unidad Generadora que se utilizó para determinar su indisponibilidad forzada en el último cálculo definitivo de transferencias de potencia, anterior a la fecha de inicio de Estado de Reserva Estratégica de dicha unidad.
+
+b) Estadística de estados operativos de la Unidad Generadora considerada por el Coordinador en los periodos en que la referida unidad fue convocada al despacho en los términos establecidos en los Artículos 25 quáter y siguientes del presente reglamento. Adicionalmente, se deberá considerar los periodos en que la Unidad Generadora se encuentre en Estado No Disponible, de acuerdo con lo indicado en el Artículo 25 septies del presente reglamento.
+
+#### Artículo 55 ter
+
+Las Unidades Generadoras que dejen de estar en Estado de Reserva Estratégica, ya sea porque se ha cumplido la fecha de permanencia en dicho estado o porque el respectivo Participante del Balance de Potencia ha solicitado al Coordinador cambiar de estado a la unidad, serán consideradas con una indisponibilidad forzada igual a uno.
 
 #### Artículo 56
 
@@ -430,7 +550,7 @@ En tal caso se deberán utilizar criterios de proporcionalidad, a fin de determi
 
 La Potencia de Suficiencia preliminar de unidades generadoras pertenecientes a subsistemas deberá calcularse con el mismo tratamiento descrito en el Artículo 49 y siguientes, pero considerando la Demanda de Punta de cada subsistema.
 
-Para determinar la potencia que se transmite a través de las instalaciones del Sistema de Transmisión que interconectan ambos subsistemas, en cada año de cálculo se deberá determinar la condición de exportador o importador de cada subsistema. Para tal efecto, se considerará como subsistema exportador al subsistema que posea el mayor Margen de Potencia. El subsistema que presente el menor Margen de Potencia se considerará importador.
+Para determinar la potencia que se transmite a través de las instalaciones del Sistema de Transmisión que interconectan distintos subsistemas, en cada Año de Cálculo se deberá determinar la transmisión de potencia que iguala el Margen de Potencia de cada subsistema.
 
 La potencia transmitida entre subsistemas será igual al menor valor entre la capacidad total de las instalaciones antes indicadas y la transmisión de potencia que iguala el Margen de Potencia de cada subsistema.
 
@@ -452,7 +572,15 @@ El margen de reserva teórico o mínimo sobre-equipamiento en capacidad de gener
 
 #### Artículo 62
 
-A partir del Margen de Potencia correspondiente al cálculo definitivo de cada año, la Comisión determinará el margen de reserva teórico (en adelante, "MRT"), de cada subsistema o sistema, según corresponda. Dicho MRT será incluido por la Comisión en el informe técnico correspondiente a la fijación de precios de nudo más próxima.
+Para cada fijación de Precios de Nudo de Corto Plazo, y a partir del cálculo definitivo de transferencias de potencia que se encuentre vigente al momento de la comunicación del informe preliminar de Precios de Nudo de Corto Plazo, el Coordinador deberá determinar el Margen de Potencia para cada uno de los sistemas o subsistemas de potencia definidos en dicho informe.
+
+Los Márgenes de Potencia determinados según lo señalado en el inciso anterior deberán ser comunicados por el Coordinador a la Comisión en el tiempo y forma que ésta señale. Estos Márgenes de Potencia serán utilizados por la Comisión para la determinación del Margen de Reserva Teórico, en adelante MRT, de cada sistema o subsistema según corresponda.
+
+La información que el Coordinador envíe a la Comisión respecto de los Márgenes de Potencia deberá ser trazable en lo referente a los cálculos que dan lugar a dichos márgenes.
+
+Sin perjuicio de lo anterior, la Comisión podrá solicitar un nuevo cálculo de Márgenes de Potencia cuando se modifique la definición de subsistemas con posterioridad a la emisión del informe técnico preliminar de Precios de Nudo de Corto Plazo.
+
+El cálculo de Márgenes de Potencia y la comunicación señalados en los incisos precedentes no implicará cambios en los subsistemas ya definidos para efectos del cálculo definitivo de transferencias de potencia señalados en el inciso primero del presente artículo.
 
 #### Artículo 63
 
@@ -466,11 +594,11 @@ CAPITULO 1: COMPROMISOS DE DEMANDA
 
 #### Artículo 64
 
-Cada DO deberá llevar un registro de la potencia promedio horaria de cada uno de los clientes de las empresas propietarias u operadoras de medios de generación que participan de las transferencias de potencia en cada sistema o subsistema.
+El Coordinador deberá llevar un registro de los retiros de potencia promedio horaria de cada uno de los clientes de los Participantes del Balance de Potencia.
 
 #### Artículo 65
 
-A partir del registro estipulado en el artículo precedente, el Retiro de Potencia que se debe asignar horariamente a cada generador será igual a la Demanda de Punta Equivalente de cada Cliente multiplicada por un factor único que iguale la suma de las Demandas de Punta Equivalentes de todos los clientes, a la Demanda de Punta a que hace referencia el artículo 13, letra b) para el sistema o subsistema, según corresponda.
+A partir del registro establecido en el artículo precedente, el Retiro de Potencia que se debe asignar horariamente a cada Participante del Balance de Potencia será igual a la Demanda de Punta Equivalente de cada cliente multiplicada por un factor único que iguale la suma de las Demandas de Punta Equivalentes de todos los clientes, a la Demanda de Punta a que hace referencia el Artículo 13, letra g) del presente reglamento, para el sistema o subsistema, según corresponda.
 
 Para estos efectos, la Demanda de Punta Equivalente de cada Cliente corresponderá al promedio de los 52 registros físicos máximos observados durante el período de control de punta que se establezca en el Decreto que fija los Precios de Nudo de Corto Plazo de acuerdo a lo establecido en el artículo 171º de la ley y se encuentre vigente a la fecha de realización del cálculo preliminar al que hace referencia el artículo 4º.
 
@@ -478,7 +606,7 @@ CAPITULO 2: BALANCE FISICO DE INYECCIONES Y RETIROS
 
 #### Artículo 66
 
-A partir de la Potencia de Suficiencia definitiva, o inyecciones, y los compromisos de Demanda de Punta, o retiros, la DO deberá establecer un balance físico entre las inyecciones y retiros de todas las empresas propietarias de medios de generación operados en sincronismo que participan del cálculo, para cada sistema o subsistema.
+A partir de la Potencia de Suficiencia definitiva, o inyecciones, y los Retiros de Potencia, el Coordinador deberá establecer un balance físico entre las inyecciones y retiros de todos los Participantes del Balance de Potencia, para cada sistema o subsistema.
 
 #### Artículo 67
 
@@ -486,15 +614,17 @@ El balance físico señalado en el artículo precedente deberá contemplar los s
 
 a) Inyecciones de las unidades generadoras igual a la Potencia de Suficiencia definitiva;
 
-b) Retiros de cada propietario de medios de generación operados en sincronismo, igual a los compromisos de Demanda de Punta;
+b) Retiros de Potencia de cada Participante del Balance de Potencia;
 
-c) Transmisión de potencia entre subsistemas pertenecientes a un mismo sistema eléctrico, según corresponda; y
+c) Transmisión de potencia entre subsistemas; y
 
 d) Pérdidas en instalaciones del Sistema de Transmisión.
 
 #### Artículo 68
 
-Las empresas propietarias de medios de generación que hayan solicitado participar de las transferencias de potencia, conforme al Artículo 8° del presente reglamento, serán incluidas en el balance físico de inyecciones y retiros conforme al mismo procedimiento indicado en los artículos precedentes.
+Las empresas propietarias de medios de generación que se hayan abstenido de ejercer su derecho a participar de las transferencias de potencia, conforme al Artículo 8º del presente reglamento, no serán incluidas en el balance físico de inyecciones y retiros indicado en los artículos precedentes.
+
+Asimismo, las empresas propietarias de medios de generación que hayan ejercido su derecho a participar de las transferencias de potencia, conforme al Artículo 8º del presente reglamento, serán incluidas en el balance físico de inyecciones y retiros conforme al mismo procedimiento indicado en los artículos precedentes.
 
 #### Artículo 69
 
@@ -512,33 +642,33 @@ A partir del balance físico a que se refiere el Artículo 66 y siguientes del p
 
 #### Artículo 71
 
-El precio al cual serán valorizadas todas las inyecciones y retiros de potencia corresponderá al precio de nudo de la potencia en cada Barra de Transferencia.
+El precio al cual serán valorizadas todas las inyecciones y retiros de potencia corresponderá al precio de nudo de corto plazo de la potencia en cada Barra de Transferencia.
 
-Tal valorización deberá considerar las variaciones que experimente el precio de nudo de la potencia mes a mes, según corresponda, conforme lo establezcan los decretos tarifarios pertinentes y sus indexaciones.
+Tal valorización deberá considerar las variaciones que experimente el precio de nudo de corto plazo de la potencia, conforme lo establezcan los decretos tarifarios pertinentes y sus indexaciones.
 
 Del mismo modo, en los casos que corresponda una aplicación retroactiva de dichos decretos tarifarios, las valorizaciones deberán sujetarse a tal condición.
 
 #### Artículo 72
 
-El precio de nudo de la potencia en cada Barra de Transferencia deberá ser calculado conforme a los procedimientos y condiciones de aplicación que se establezcan en los decretos tarifarios pertinentes.
+El precio de nudo corto plazo de la potencia en cada Barra de Transferencia deberá ser calculado conforme a los procedimientos y condiciones de aplicación que se establezcan en los decretos tarifarios pertinentes.
 
 #### Artículo 73
 
-Las unidades generadoras que se conecten en el Sistema de Distribución deberán considerarse inyectando potencia en la barra de más alta tensión de la subestación de distribución primaria asociada a dicha unidad.
+Las Unidades Generadoras que se conecten en el Sistema de Distribución deberán considerarse inyectando potencia en la barra asociada a dicha unidad en la subestación de distribución primaria.
 
 #### Artículo 74
 
 La valorización de las transferencias de potencia será determinada conforme a las siguientes consideraciones:
 
-a) En cada Barra de Transferencia, se determinarán las inyecciones y retiros de potencia de cada generador, las que serán valorizadas de acuerdo a las disposiciones del presente reglamento.
+a) En cada Barra de Transferencia, se determinarán las inyecciones y retiros de potencia de cada Participante del Balance de Potencia, las que serán valorizadas de acuerdo a las disposiciones del presente reglamento.
 
-b) Para cada generador, se sumarán algebraicamente todas las inyecciones y retiros de potencia valorizados.
+b) Para cada Participante del Balance de Potencia, se sumarán algebraicamente todas las inyecciones y retiros de potencia valorizados.
 
 c) La valorización de las inyecciones se considerará con signo positivo y la valorización de los retiros con signo negativo.
 
-d) El valor resultante, con su signo, constituirá el saldo neto de cada generador.
+d) El valor resultante, con su signo, constituirá el saldo neto de cada Participante del Balance de Potencia.
 
-e) Para los efectos del procedimiento anterior, se considerarán inyecciones las provenientes de centrales o de líneas de transporte, y retiros, los destinados a clientes o a ser transmitidos por otras líneas de transmisión.
+e) Para los efectos del procedimiento anterior, se considerarán inyecciones las provenientes de Unidades Generadoras o de líneas de transmisión, y retiros, los destinados a clientes o a ser transmitidos por otras líneas de transmisión en los términos establecidos en el presente reglamento y en la normativa vigente.
 
 #### Artículo 75
 
