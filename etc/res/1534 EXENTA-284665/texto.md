@@ -2180,4 +2180,76 @@ plataformas
 
 tecnológicas.
 
+1511 Fono Emergencia Recepción de llamadas
+
+Graneros atendidas por personal
+
+de la Dirección de
+
+Seguridad Pública
+
+e Inspección
+
+Municipal, de la
+
+Ilustre Municipalidad
+
+de Graneros,
+
+respecto de
+
+situaciones de
+
+seguridad y/o emergencia
+
+ciudadana en dicha
+
+comuna, que implique
+
+acudir con
+
+vehículos al lugar
+
+de la emergencia,
+
+además de coordinar
+
+con los otros
+
+organismos relacionados
+
+con las emergencias
+
+1512 Fono Emergencia La recepción de llamadas
+
+Cerrillos atendidas por personal
+
+de la Municipalidad de
+
+Cerrillos, respecto de
+
+situaciones de
+
+emergencia que
+
+ocurran en dicha
+
+comuna. El servicio
+
+canalizará las
+
+llamadas
+
+vinculadas a seguridad
+
+ciudadana y situaciones
+
+de emergencia, entre
+
+otros, que se apoye con
+
+la asistencia de
+
+móviles en terreno.
+
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
