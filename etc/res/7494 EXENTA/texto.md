@@ -54,6 +54,8 @@ Resuelvo:
 
 . Instructivo técnico tratamientos NIMF Nº 15, código D-ATR-AAT-054 v02.
 
+. Instructivo técnico tratamientos térmicos, código D-ATR-AAT-053 v02
+
 2. Deróganse las resoluciones exentas Nº 1.294 de 2019, aprueba reglamento específico para la ejecución de tratamientos o medidas fitosanitarias e instructivos técnicos que indica, y Nº 3.301 de 2006, que aprueba el Reglamento específico para la acreditación de terceros en la ejecución de tratamientos y timbrados de madera y de embalajes de madera de exportación.
 
 3. El citado reglamento específico y los instructivos entrarán en vigencia a contar de la fecha de publicación de la presente resolución en el Diario Oficial.
