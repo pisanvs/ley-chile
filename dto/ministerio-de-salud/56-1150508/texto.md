@@ -28,185 +28,9 @@ Decreto:
 
 > **Nota.** El numeral 1 del artículo único del Decreto 40, Salud, publicado el 28.12.2020, modifica el artículo primero transitorio, estableciendo que las disposiciones del presente reglamento comenzarán a regir el 1 de septiembre de 2021, salvo aquellas referidas a la capacitación, contempladas en el Título V, las que comenzarán a regir desde la publicación del presente reglamento, esto es, desde el 13.10.2020. Es por esta razón que solamente se visualiza el Título V, hasta que entren en vigencia los demás títulos de este reglamento.
 
-> **Nota.** NOTA 1 El numeral 1 del artículo único del Decreto 36, Salud, publicado el 10.12.2021, modifica la presente norma en el sentido de sustituir en el artículo primero transitorio, la frase "septiembre de 2021" por "marzo de 2022", estableciendo que las disposiciones del presente reglamento comenzarán a regir el 1 de marzo de 2022, salvo aquellas referidas a la capacitación, contempladas en el Título V, conforme lo dispone la referida disposición transitoria.
-
 #### Artículo único
 
 Apruébese el siguiente "Reglamento sobre la obligación de disponer de desfibriladores externos automáticos portátiles en los establecimientos que indica":
-
-## Título I
-
-Normas Generales
-
-#### Artículo 1º
-
-Ámbito de aplicación. El presente reglamento regula la obligación de disponer de desfibriladores externos automáticos portátiles, en adelante desfibriladores, como parte del sistema de atención sanitaria de emergencia, en los establecimientos señalados en la ley Nº 21.156, de acuerdo a los requisitos y condiciones que se señalan en la misma y en este reglamento.
-
-#### Artículo 2º
-
-Definiciones. Para efectos del presente reglamento, se establecen las siguientes definiciones:
-
-a) Cadena de supervivencia: Conjunto de acciones consecutivas y coordinadas necesarias para atender un paro cardiorrespiratorio.
-
-b) Capacidad: Cantidad máxima de personas que puede ocupar un establecimiento o recinto en las áreas de uso público del mismo. El referido cálculo se realiza de acuerdo a lo establecido en el decreto supremo Nº 47, de 1992, del Ministerio de Vivienda y Urbanismo, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y Construcciones.
-
-c) Casinos de juego: Establecimiento, inmueble o parte de un inmueble, consistente en un recinto cerrado, en cuyo interior se desarrollan juegos de azar autorizados, se reciben las apuestas, se pagan los premios correspondientes y funcionan servicios anexos.
-
-d) Centro de eventos, convenciones o ferias: Establecimiento o recinto que aglomera un alto número de personas, destinado a la realización de actividades de índole recreacional, festivo o laboral, con carácter periódico o permanente. Se incluye dentro de esta definición a las discotecas.
-
-e) Centro de atención de salud: Todo establecimiento asistencial donde se ejecuten prestaciones de salud, sean de prevención, diagnóstico, tratamiento, rehabilitación o recuperación de la salud. Se excluye de esta definición a las farmacias.
-
-f) Cines, teatros y parques de diversión: Establecimientos destinados a la realización de actividades recreativas y culturales en forma permanente o periódica.
-
-g) Desfibrilador externo automático portátil: Dispositivo médico destinado a analizar el ritmo cardiaco, identificar las arritmias mortales y administrar una descarga eléctrica, de ser necesaria, con la finalidad de restablecer el ritmo cardiaco viable, con altos niveles de seguridad.
-
-h) Establecimiento comercial: Edificación o recinto cerrado con uno o más niveles, pisos o plantas, destinada a servir de mercado para la compraventa de mercaderías diversas o prestación de servicios, conformada por una agrupación de locales o tiendas conectados a un área de uso común interior, acogidos o no al régimen de copropiedad inmobiliaria y que disponen gestión unitaria. Se incluye dentro de esta definición a los supermercados y grandes tiendas que reúnan las características señaladas.
-
-i) Establecimientos educacionales de nivel básico, medio y superior: Recintos destinados a la enseñanza formal o regular, acorde a lo establecido en los artículos 19, 20 y 21 del DFL 2, de 2009, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado de la ley Nº 20.370 con las normas no derogadas del DFL Nº 1, de 2005, de la misma Secretaría de Estado.
-
-j) Hotel, motel, hostal o residencial: Todo establecimiento en el que se preste fundamentalmente servicio de hospedaje, con o sin servicio de alimentación, lavado de ropa u otros, y que cuente con autorización sanitaria, establecida en el decreto supremo Nº 194, de 1978, del Ministerio de Salud, que aprueba el reglamento de hoteles y establecimientos similares.
-
-k) Ley: Ley Nº 21.156, que establece la obligación de disponer de desfibriladores externos automáticos portátiles en los establecimientos y recintos que indica.
-
-l) Recintos deportivos, gimnasios y otros: Establecimientos destinados a la realización de actividades de práctica o enseñanza de uno o más deportes.
-
-m) Terminales de buses, puertos, aeropuertos, estaciones de trenes subterráneos y de superficie: Todo aquel establecimiento o recinto dedicado al transporte de personas, que cuenta con instalaciones destinadas al movimiento de pasajeros, pudiendo o no considerar además en sus instalaciones establecimientos comerciales.
-
-#### Artículo 3º
-
-Establecimientos o recintos obligados. Deberán disponer de desfibriladores, según las normas de la ley Nº 21.156 y del presente reglamento, los siguientes establecimientos o recintos:
-
-a) Establecimientos comerciales que deban mantener sistemas de seguridad y vigilancia a que se refiere el artículo 15 de la ley Nº 19.496, regulados por la ley Nº 19.303, o se encuentren obligados a ello conforme al decreto ley Nº 3.607, de 1981, del entonces Ministerio del Interior.
-
-Será exigible la obligación para todo el establecimiento cuando, al menos, un local que forme parte del establecimiento, se encuentre sujeto a la obligación de vigilancia referida en el presente literal.
-
-b) Establecimientos que se hayan acogido voluntariamente al decreto ley Nº 3.607, de 1981, del entonces Ministerio del Interior, y tengan una capacidad igual o superior a 1.000 personas.
-
-c) Terminales de buses, puertos, aeropuertos, estaciones de trenes subterráneos y de superficie, que cuenten con uno o más andenes para el tránsito frecuente de pasajeros.
-
-d) Los recintos deportivos, gimnasios y otros, con una capacidad igual o superior a 1.000 personas.
-
-e) Los establecimientos educacionales de nivel básico, medio y superior, con matrícula anual igual o superior a 500 alumnos.
-
-f) Los casinos de juego.
-
-g) Los hoteles, moteles, hostales y residenciales, con capacidad igual o superior a 20 habitaciones.
-
-h) Los centros de eventos, convenciones y ferias, con una capacidad igual o superior a 1.000 personas.
-
-i) Los centros de atención de salud, cuya capacidad sea igual o superior a 250 personas.
-
-La exigencia de contar con desfibrilador en las instalaciones de los centros de salud no exime ni reemplaza a la exigencia de contar con carro de paro u otro equipamiento de naturaleza similar en algunas de las unidades clínicas que pudieran formar parte de éstos, tales como la Unidad de Atención de Emergencia, Pabellones de Cirugía Mayor, Unidades de Paciente Crítico, entre otras, según la normativa pertinente.
-
-j) Los cines, teatros y parques de diversión, con capacidad igual o superior a 1.000 personas.
-
-#### Artículo 4º
-
-Obligaciones generales. Será responsabilidad de toda persona, natural o jurídica, a cargo de la gestión o explotación de los establecimientos señalados en el artículo anterior:
-
-a) Contar en forma obligatoria con la cantidad de desfibriladores que el presente reglamento establezca, como parte de su sistema de atención sanitaria de emergencia, apto para su funcionamiento inmediato;
-
-b) Que los señalados desfibriladores estén debidamente certificados y que cuenten con las características requeridas, de acuerdo a lo establecido por este reglamento y a las normas técnicas respectivas;
-
-c) Velar por el adecuado mantenimiento del desfibrilador, preventivo y correctivo, así como su correcta conservación, de forma de garantizar su funcionamiento cuando sea necesario, conforme a las reglas generales, a las recomendaciones de sus fabricantes o distribuidores, y a las normas técnicas aplicables;
-
-d) Velar por la adecuada ubicación, accesibilidad y señalización del desfibrilador, de conformidad con lo establecido en el presente reglamento, y en las normas técnicas sobre la materia;
-
-e) Llevar, en forma completa y oportuna, los siguientes registros, sean físicos o electrónicos, por cada desfibrilador:
-
-i. Instalación y reposición.
-
-ii. Mantención.
-
-iii. Uso del equipo.
-
-## Título II
-
-Obligación de contar con desfibrilador como parte del sistema sanitario de emergencia, apto para funcionamiento inmediato
-
-#### Artículo 5º
-
-Número de desfibriladores. El establecimiento que cumpla con las características señaladas en el artículo 3º del presente reglamento, deberá contar con la cantidad de desfibriladores necesaria para permitir que cualquier punto de una superficie de uso público se encuentre a un máximo de 150 metros lineales de distancia de un desfibrilador.
-
-Sin perjuicio de lo anterior, todo establecimiento que cumpla con las características señaladas en el artículo 3º, deberá contar, al menos, con un desfibrilador cada 3 niveles o pisos de uso público.
-
-#### Artículo 6º
-
-De la obligación de comunicación. La persona a cargo de la gestión o explotación del establecimiento que, conforme al artículo 3º del presente reglamento, deba cumplir con la obligación de mantener uno o más desfibriladores, deberá comunicar a la Secretaría Regional Ministerial de Salud correspondiente al domicilio donde se ubique el establecimiento, mediante correo electrónico, la información que se detalla a continuación:
-
-a) Identificación del o los desfibriladores, señalando su marca, modelo, número de serie, fabricante y número asignado por el Instituto de Salud Pública, de acuerdo al artículo 25 del decreto supremo Nº 825 de 1998, del Ministerio de Salud.
-
-b) Nombre y número de cédula de identidad del personal, propio o ajeno, capacitado para la utilización de cada desfibrilador, adjuntando copia de los documentos que acrediten su capacitación.
-
-c) Copia de planos o croquis del establecimiento, en el cual se indique la ubicación del o los desfibriladores.
-
-d) Indicación de la capacidad del establecimiento, metros cuadrados de superficie total y número de niveles o pisos.
-
-e) Declaración de la persona encargada indicando expresamente que se emplearán y mantendrán los desfibriladores de acuerdo al presente reglamento y a las indicaciones del fabricante o distribuidor, señalando los mecanismos de comunicación con sistemas de atención de salud de urgencia.
-
-f) Firma de la persona encargada.
-
-Todo cambio en lo informado deberá ser comunicado mediante correo electrónico, en un plazo no superior a 30 días desde su ocurrencia, a la Secretaría Regional Ministerial de Salud competente.
-
-#### Artículo 7º
-
-Sistema de atención sanitaria de emergencia y el desfibrilador. El establecimiento debe asegurar la comunicación a los Servicios de Urgencia correspondientes para trasladar a la persona respecto de la cual se haya utilizado un desfibrilador, a un centro asistencial de salud. Lo anterior se cumple mediante la comunicación inmediata al Servicio de Atención Médica de Urgencia (SAMU) o a un servicio debidamente autorizado para el traslado de enfermos y atención de salud de urgencia.
-
-En caso de tratarse de un centro de atención de salud que cuente dentro del recinto con una unidad de atención de salud de urgencia, la persona afectada será trasladada y atendida en ella, de acuerdo a lo que dispongan los mecanismos establecidos por este.
-
-#### Artículo 8º
-
-Información sobre disponibilidad de desfibriladores. Las Secretarías Regionales Ministeriales de Salud deberán publicar en su respectivo sitio web el listado y direcciones de los establecimientos que cuenten con desfibrilador y remitir a la sede regional del SAMU correspondiente, mediante correo electrónico o dispositivo electrónico, copia de los planos o croquis señalados en el literal c) del artículo 6º del presente reglamento.
-
-## Título III
-
-Requisitos y características del desfibrilador
-
-#### Artículo 9º
-
-Certificación. Para todos los efectos, los desfibriladores serán considerados dispositivos médicos y deberán cumplir con la certificación y disposiciones establecidas en el reglamento respectivo, aprobado por el decreto supremo Nº 825, de 1998, del Ministerio de Salud, o el que lo reemplace.
-
-#### Artículo 10º
-
-Características. El desfibrilador debe permitir su ajuste para uso pediátrico o adulto, además de tener la capacidad técnica para entregar indicaciones de operación del mismo y cumplir con los criterios, características y rangos técnicos exigibles.
-
-#### Artículo 11º
-
-Vigilancia. Quienes estén obligados a contar con uno o más desfibriladores, además deberán comunicar al Instituto de Salud Pública todo comportamiento defectuoso, falla o deterioro de las características o del funcionamiento que presenten estos dispositivos, así como la falta de información en el etiquetado o en las instrucciones de empleo, que pudieran o hubieran podido dar lugar a la muerte de un paciente o usuario o a un deterioro de su estado de salud, sin perjuicio de la obligación que concierne a los fabricantes e importadores de acuerdo a lo establecido en el artículo 28 del decreto supremo Nº 825, de 1998, del Ministerio de Salud, o de la norma que lo reemplace.
-
-## Título IV
-
-Ubicación, accesibilidad, señalización e información del desfibrilador
-
-#### Artículo 12º
-
-Ubicación. Los desfibriladores deberán ubicarse en un espacio visible, debidamente señalizado, con acceso expedito y libre de obstáculos, permitiendo su uso inmediato cuando sea requerido.
-
-La ubicación del desfibrilador debe ser a una distancia máxima de 150 metros respecto a cualquier sección de uso público. En los centros de atención de salud, los desfibriladores deberán ubicarse en las áreas comunes, de circulación de las personas, tales como áreas de recepción o salas de espera.
-
-#### Artículo 13º
-
-Señalización. Los establecimientos deberán instalar en cada uno de sus accesos, una señalética que indique la disponibilidad de desfibrilador en su interior y a quien contactar o hacia dónde dirigirse en caso de requerir su empleo. Asimismo, en los planos o croquis destinados a la orientación del público dentro del establecimiento y sus diferentes dependencias, deberá indicarse la ubicación del o los desfibriladores.
-
-#### Artículo 14º
-
-Información del desfibrilador. El desfibrilador debe contener una etiqueta con la siguiente información.
-
-a) Número de asistencia telefónica de urgencia "131", del SAMU.
-
-b) Instrucciones de uso del desfibrilador, escritas al menos en idioma español.
-
-c) Algoritmo de reanimación cardiopulmonar donde se detallan los pasos que se deben seguir para su ejercicio.
-
-d) Cuando exista convenio asociado, número de asistencia telefónica del servicio de traslado de pacientes y asistencia de urgencia.
-
-Las exigencias referidas a los aspectos formales de la señalética y el algoritmo de reanimación cardiopulmonar, se establecerán empleando como referencia las directrices y recomendaciones de la "International Liaison Committee on Resuscitation", o de otro órgano similar.
-
-#### Artículo 15º
-
-Condiciones de instalación y mantención del desfibrilador. Para la instalación de cada desfibrilador podrán emplearse estantes, gabinetes de seguridad u otros dispositivos similares. Éstos deberán indicar su contenido en forma clara e incluir mecanismos de apertura que faciliten su rápido acceso a quien necesite utilizarlo, junto a la activación de alarmas sonoras. Los desfibriladores deberán mantenerse en condiciones que permitan conservar su funcionalidad, y cumplir con los parámetros de seguridad exigidos por el fabricante o distribuidor durante la totalidad del período de su utilización.
-
-Tratándose de gabinetes de seguridad que cuenten con sistemas de conexión telefónica o informática, estos deberán conectarse con la Central del Servicio de Atención Médica de Urgencia o con el servicio debidamente autorizado para el traslado de enfermos y atención de salud de urgencia.
 
 ## Título V
 
@@ -306,21 +130,11 @@ Recursos. Los servicios de salud, los establecimientos hospitalarios o consultor
 
 Los establecimientos educacionales podrán adquirir o renovar dichos equipos, en conformidad con sus presupuestos anuales y de acuerdo a su disponibilidad financiera.
 
-## Título VI
-
-Fiscalización del presente reglamento
-
-#### Artículo 26º
-
-Fiscalización y sanciones. El cumplimiento de las normas contenidas en el presente Reglamento será fiscalizado por las Secretarías Regionales Ministeriales de Salud, sin perjuicio de las facultades de fiscalización que le competen al Instituto de Salud Pública, en lo relativo a los desfibriladores como dispositivos médicos.
-
-La fiscalización y sanciones que se apliquen por el incumplimiento a lo dispuesto en este reglamento, se regirán por lo establecido en el Libro X del Código Sanitario.
-
 ## Artículos transitorios
 
 #### Artículo primero
 
-transitorio: Las disposiciones del presente reglamento comenzarán a regir el 1 de marzo de 2022, salvo aquellas referida a la capacitación, contempladas en el Título V, las que comenzarán a regir desde la publicación del presente reglamento.
+transitorio: Las disposiciones del presente reglamento comenzarán a regir el 1 de septiembre de 2021, salvo aquellas referida a la capacitación, contempladas en el Título V, las que comenzarán a regir desde la publicación del presente reglamento.
 
 #### Artículo segundo
 
