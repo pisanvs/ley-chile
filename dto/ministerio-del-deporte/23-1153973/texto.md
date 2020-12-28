@@ -1,0 +1,43 @@
+NOMBRA A DOÑA SOFÍA DEL ROSARIO RENGIFO OTTONE COMO DIRECTORA NACIONAL DEL INSTITUTO NACIONAL DE DEPORTES DE CHILE
+
+Núm. 23.- Santiago, 13 de agosto de 2020.
+
+Vistos:
+
+Lo dispuesto en el artículo 32 Nº 10, de la Constitución Política de la República de Chile; en la ley Nº 19.712, del Deporte; en la ley Nº 20.686, que Crea el Ministerio del Deporte; en la ley Nº 19.882, que regula Nueva Política de Personal a los Funcionarios Públicos que indica; en el decreto con fuerza de ley Nº 1-19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fija texto refundido, coordinado y sistematizado de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en el decreto con fuerza de ley Nº 29, de 2004, del Ministerio de Hacienda, que fija texto refundido, coordinado y sistematizado de la ley Nº 18.834, sobre Estatuto Administrativo; en la Ley Nº 19.880 sobre Bases de Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; en el decreto supremo Nº 32, de 2018, del Ministerio del Deporte, que nombra a don Renato Gabriel Palma González como Director Nacional del Instituto Nacional de Deportes de Chile; en el decreto supremo Nº 65, de 2018, del Ministerio del Deporte, que reconoce la Calidad de Funcionario de Hecho a Persona que indica; en el decreto supremo Nº 27, de 2019, del Ministerio del Deporte, que acepta Renuncia Voluntaria de don Renato Gabriel Palma González al cargo de Director Nacional del Instituto Nacional de Deportes de Chile; en el decreto supremo Nº 544, de 2019, del Ministerio del Interior y Seguridad Pública, que nombra a doña Cecilia Pérez Jara en el cargo de Ministra del Deporte; en el decreto supremo Nº 16, de 2020, del Ministerio del Deporte, que declara Desierto el Concurso Público de Selección para proveer el Cargo de Director/a del Instituto Nacional de Deportes de Chile; en el decreto supremo Nº 980, de 2014, del Ministerio de Hacienda, que establece Porcentajes de Asignación de Alta Dirección Pública para Cargos Adscritos al Sistema de Alta Dirección Pública pertenecientes al Servicio de Registro Civil e Identificación, al Servicio Nacional de Turismo, a la Superintendencia de Insolvencia y Reemprendimiento, a la Superintendencia de Seguridad Social, a la Fiscalía Nacional Económica, a la Superintendencia de Pensiones, al Servicio de Salud Concepción, al Servicio de Evaluación Ambiental, al Instituto Nacional de Deportes de Chile, al Servicio de Salud Viña del Mar-Quillota, y a la Oficina Nacional de Emergencia (Onemi); en la resolución exenta Nº 1.275, de 12 de agosto de 2019, del Servicio Civil, que convoca a Proceso de Selección Público y Abierto, de Amplia Difusión, para Proveer el Cargo de Director/a Nacional del Instituto Nacional de Deportes de Chile, que corresponde al Primer Nivel Jerárquico (Concurso Nº 4.913); en el oficio Res. Nº 124, de 15 de octubre de 2019, del Presidente del Consejo de Alta Dirección Pública; en el oficio Gab. Pres. Nº 1.898, de 19 de diciembre de 2019, de S.E. el Presidente de la República; en la resolución exenta Nº 496, de 24 de abril de 2020, del Servicio Civil, que convoca a Proceso de Selección Público y Abierto, de Amplia Difusión, para Proveer el Cargo de Director/a Nacional del Instituto Nacional de Deportes de Chile, que corresponde al Primer Nivel Jerárquico (Concurso Nº 5.242); en la resolución exenta Nº 538, de 11 de mayo de 2020, del Servicio Civil, que decide Ampliación de Convocatorias de los Procesos de Selección Públicos, Abiertos y de Amplia Difusión, para Proveer los Cargos de: 1) Director/a del Servicio de Salud de Chiloé; 2) Director/a Nacional del Instituto Nacional de Deportes; 3) Director/a Regional Coquimbo del Instituto de Previsión Social; y 4) Directivo/a Jefe/a de Planificación y Control de Gestión SLE de Chinchorro (Concursos Números 5.344; 5.242; 5.256 y 5.186); en el oficio Res. Nº 52, de 5 de agosto de 2020, del Presidente del Consejo de Alta Dirección Pública; en el oficio Gab. Pres. Nº 1.090, de 12 de agosto de 2020, de S.E. el Presidente de la República; en la resolución Nº 6, de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón, de las materias de personal que se indican, y
+
+Considerando:
+
+1. Que, el artículo 10 de la ley Nº 19.712 creó el Instituto Nacional de Deportes de Chile, como un servicio público funcionalmente descentralizado, dotado de personalidad jurídica y patrimonio propio, que se vinculará con el Presidente de la República a través del Ministerio del Deporte.
+
+2. Que, dicho artículo también estableció que el Instituto Nacional de Deportes de Chile estará afecto al Sistema de Alta Dirección Pública, establecido en el Título VI de la ley Nº 19.882.
+
+3. Que, luego, el artículo 19 de la ley Nº 19.712, estableció la existencia de un Director Nacional quien estará a cargo como Jefe Superior del Servicio, y que será designado por el Presidente de la República.
+
+4. Que, de esta manera, por decreto supremo Nº 32, de 2018, del Ministerio del Deporte, se nombró a contar del 2 de abril de 2018 a don Renato Gabriel Palma González como Director Nacional del Instituto Nacional de Deportes de Chile.
+
+5. Que, a través del decreto supremo Nº 27, de 2019, del Ministerio del Deporte, se aceptó a contar del día 11 de agosto de 2019, la renuncia voluntaria de don Renato Gabriel Palma González al cargo de Director Nacional del Instituto Nacional de Deportes de Chile.
+
+6. Que, en consideración de lo anterior, a través de resolución exenta Nº 1.275, de 12 de agosto de 2019, del Servicio Civil, se convocó a proceso de selección, público y abierto, de amplia difusión, para proveer el cargo de Director/a Nacional del Instituto Nacional de Deportes de Chile, que corresponde al Primer Nivel Jerárquico (Concurso Nº4.913).
+
+7. Que, sin embargo, mediante decreto supremo Nº 16, de 17 de abril de 2020, del Ministerio del Deporte, se declaró desierto el concurso público de selección para proveer dicho cargo.
+
+8. Que, por lo tanto, y de acuerdo con el artículo quincuagésimo primero de la ley Nº 19.882, mediante resolución exenta Nº 496, de 24 de abril de 2020, el Servicio Civil inició un nuevo proceso de selección, público y abierto, de amplia difusión, para proveer el cargo de Director/a Nacional del Instituto Nacional de Deportes de Chile, que corresponde al Primer Nivel Jerárquico (Concurso Nº 5.242).
+
+9. Que, en este contexto, a través del oficio Res. Nº 52, de 5 de agosto de 2020, el Presidente del Consejo de Alta Dirección Pública remitió a S.E. el Presidente de la República, la nómina de candidatos propuestos por dicho Consejo para proveer el cargo de Director/a Nacional del Instituto Nacional de Deportes de Chile.
+
+10. Que, finalmente, mediante oficio Gab. Pres. Nº 1.090, de 12 de agosto de 2020, S.E. el Presidente de la República comunicó al Presidente del Consejo de Alta Dirección Pública la decisión de seleccionar en el cargo de Directora Nacional del Instituto Nacional de Deportes de Chile a doña Sofía del Rosario Rengifo Ottone.
+
+Decreto:
+
+1. Nómbrase, a contar de esta fecha, a doña Sofía del Rosario Rengifo Ottone, cédula nacional de identidad número 16.099.521-1, como Directora Nacional del Instituto Nacional de Deportes de Chile, Grado 1C de la E.U.S., de la Planta Directiva de dicho Servicio, de Primer Nivel Jerárquico.
+
+2. Establécese que el presente nombramiento se extenderá hasta el 13 de agosto de 2023, de conformidad a lo dispuesto en el artículo quincuagésimo séptimo de la ley Nº 19.882, sin perjuicio de la facultad prevista en dicha norma y en el artículo quincuagésimo octavo del mismo cuerpo legal.
+
+3. Déjase constancia que la señora Sofía del Rosario Rengifo Ottone tendrá derecho a percibir el porcentaje correspondiente a la asignación de Alta Dirección Pública contemplada en la ley Nº 19.882, que asciende a 90% (noventa por ciento), de conformidad al decreto supremo Nº 980, de 2014, del Ministerio de Hacienda.
+
+4. Impútase el gasto que demande este nombramiento a la partida 26, Capítulo 02, Programa 01, Instituto Nacional de Deportes, Subtítulo 21, Gastos en Personal, Ítem 01, Personal de Planta, del presupuesto del Instituto Nacional de Deportes de Chile, para el año 2020
+
+Anótese, tómese razón, comuníquese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Cecilia Pérez Jara, Ministra del Deporte.
+
+Lo que transcribo a Ud., para su conocimiento.- Atentamente, Andrés Otero Klein, Subsecretario del Deporte.
