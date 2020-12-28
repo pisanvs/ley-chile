@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 683 EXENTA, DE 2020
+
+Por resolución exenta Nº 683, de 30 de noviembre de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, que Aprueba contrato de la Concesión Nº 4 para operación de dos plantas revisoras clase AB, en las comunas de Los Ángeles y San Pedro de la Paz, en la Región del Biobío, se aprobó Contrato Ad-Referéndum de Concesión 4 para operar una Planta Revisora Clase AB en la comuna de Los Ángeles y una Planta Revisora Clase AB en la comuna de San Pedro de la Paz, en la Región del Biobío, suscrito entre el Ministerio de Transportes y Telecomunicaciones, representado por el Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío y el concesionario "Systech Chile Ltda.", con fecha 14 de octubre de 2020, cuya vigencia es de ocho años contados desde la publicación del presente extracto en el Diario Oficial.-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
