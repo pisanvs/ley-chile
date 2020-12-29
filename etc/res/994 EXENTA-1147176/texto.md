@@ -24,7 +24,7 @@ Resolución:
 
 2. Se consideran como vivienda objeto de atención de este llamado todas aquellas que presentan Daño Reparable Moderado y Daño Reparable Mayor, debido al sismo ocurrido en la localidad de Tongoy en enero del año 2019, emplazadas en Región de Coquimbo.
 
-3. Las selecciones se efectuarán mensualmente a partir de la fecha de publicación de la presente resolución y hasta el día 30 de octubre del año en curso, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para la Región.
+3. Las selecciones se efectuarán mensualmente a partir de la fecha de publicación de la presente resolución. El último proceso de postulación cerrará el día 30 de noviembre del presente año y su selección se cerrará con fecha 17 de diciembre, o hasta que se agoten los recursos disponibles para la Región.
 
 4. La calidad de afectado se acreditará mediante la inscripción en el Registro de Damnificados del Minvu, considerándose para efectos de este llamado solo las familias cuyos inmuebles hayan sido calificados con "Daño Reparable Moderado" y "Daño Reparable Mayor", tras la aplicación de la Ficha de Catastro correspondiente.
 
