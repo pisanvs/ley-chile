@@ -108,6 +108,8 @@ b) El proceso de Revisión y Calificación de Proyectos descrito en el artículo
 
 9. La distribución de recursos para efectuar la selección de proyectos será la siguiente:
 
+.
+
 10. Los subsidios que se otorguen conforme al presente llamado, se imputarán a los recursos dispuestos en el año 2020 para la Región de la Araucanía, en el Programa de Mejoramiento de Viviendas y Barrios, regulado por el DS Nº 27 (V. y U.), de 2016.
 
 > **Nota.** Los literales a) y b) del numeral 1 de la Resolución 930 Vivienda, publicada el 13.11.2020, modifican el cuadro inserto en el resuelvo 2 de la presente norma, en el sentido de reemplazar en la columna fecha final, las filas, "revisión y calificación de proyectos" y "selección de beneficiarios", donde dice: "al 26 de octubre" por "al 15 de noviembre del año 2020" y, donde dice: "al 30 de octubre del año 2020" por "hasta el plazo máximo de 11.12.2020", respectivamente.
