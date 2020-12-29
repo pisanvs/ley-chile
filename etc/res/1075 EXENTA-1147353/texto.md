@@ -118,7 +118,7 @@ Resolución:
 
 16. Para efectos del pago del subsidio dispuesto en el presente llamado se ingresarán en la plataforma del programa los montos equivalentes en UF en la forma que señala el artículo 49 DS Nº 52 (V. y U.), de 2013.
 
-17. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de hasta 235.274 UF, correspondientes a 2.000 subsidios.
+17. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de hasta 23.391,62 UF, correspondientes a 398 subsidios.
 
 18. Exímese el presente llamado del cumplimiento de las exigencias establecidas en las letras b. y c. del artículo 15 del DS Nº 52 (V. y U.), de 2013, relativas a la necesidad de distribuir regionalmente el número de personas que se podrán seleccionar y a establecer fecha de inicio y término del período de postulación.
 
