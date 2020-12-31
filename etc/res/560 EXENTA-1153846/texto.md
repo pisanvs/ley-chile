@@ -54,6 +54,6 @@ Instrúyase a las Subdirecciones de Marcas y Patentes para que adopten las medid
 
 #### Artículo quinto
 
-Notifíquese, mediante publicación en el Diario Oficial, la presente resolución, toda vez que afecta a un número indeterminado de personas, y la nómina de los expedientes y piezas de expedientes afectados que se mencionan en el listado de especies siniestradas, información a la que se podrá acceder en el siguiente link: https://www.inapi.cl/transparencia/2020/20201215/Listado_ Especies_siniestradas_2020.pdf, sin perjuicio de las medidas de conservación en el tiempo, por parte de Inapi de dicha información.
+Notifíquese, mediante publicación en el Diario Oficial, la presente resolución, toda vez que afecta a un número indeterminado de personas, y la nómina de los expedientes y piezas de expedientes afectados que se mencionan en el listado de especies siniestradas, información a la que se podrá acceder en el siguiente link: https://www.inapi.cl/transparencia/2020/20201215/Listado_Especies_siniestradas_2020.pdf, sin perjuicio de las medidas de conservación en el tiempo, por parte de Inapi de dicha información.
 
 Anótese, regístrese, cúmplase, archívese y publíquese en el Diario Oficial.- Loreto Bresky Ruiz, Directora Nacional, Instituto Nacional de Propiedad Industrial.
