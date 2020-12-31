@@ -96,6 +96,8 @@ Si el monto solicitado de retiro es igual o inferior a 35 unidades de fomento se
 
 En ningún caso, los montos retirados de los fondos previsionales acumulados en la respectiva cuenta de capitalización individual de cotizaciones obligatorias regidas por el decreto ley N° 3.500, de 1980, permitidos por la Constitución Política de la República o las leyes, afectarán directa o indirectamente la caracterización socioeconómica que el Estado realice de los afiliados o de sus hogares, para efectos de la postulación y eventual asignación de subsidios o beneficios sociales de cualquier tipo.
 
+El Servicio de Impuestos Internos deberá proporcionar oportunamente la información necesaria a la Subsecretaría de Evaluación Social del Ministerio de Desarrollo Social y Familia, para que los montos indicados en el inciso anterior no afecten la caracterización socioeconómica de los beneficiarios o eventuales beneficiarios de subsidios o beneficios sociales de cualquier tipo.
+
 #### Artículo 10° (art. único)
 
 <!-- parte:10183135 -->
