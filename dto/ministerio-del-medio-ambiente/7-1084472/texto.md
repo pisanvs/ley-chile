@@ -48,6 +48,8 @@ II DISPOSICIONES GENERALES
 
 Fuentes Emisoras. La presente norma establece los límites de emisión de ruido para vehículos livianos, medianos y motocicletas, nuevos, cuya primera inscripción en el Registro de Vehículos Motorizados, del Servicio de Registro Civil e Identificación, se solicite a contar de la fecha de su entrada en vigencia.
 
+Los límites de emisión establecidos en la presente norma no serán aplicables a vehículos todo terreno que por su diseño estén destinados exclusivamente para su uso fuera de vías públicas.
+
 III DEFINICIONES
 
 #### Artículo 4º
@@ -88,13 +90,23 @@ P: valor de la presión sonora de referencia, fijado en 2x10-5 (N/m2)
 
 13. Vehículo Liviano Comercial: Son los vehículos motorizados livianos con un peso bruto menor a 2.700 kg., diseñados para el transporte de carga o derivados de éstos.
 
-14. Vehículo Mediano: Todo vehículo motorizado destinado al transporte de personas o carga, por calles y caminos y que tiene un peso bruto vehicular igual o superior a 2.700 Kg, e inferior a 3.860 Kg.
+14. Vehículo Mediano: Todo vehículo motorizado destinado al transporte de personas o carga, por calles y caminos y que tiene un peso bruto vehicular igual o superior a 2.700 Kg, e inferior a 3.860 Kg. Los vehículos medianos, se clasifican en vehículos de pasajeros o de carga.
+
+15. Vehículo Mediano de Carga: Todo vehículo motorizado mediano, diseñado principalmente para el transporte de carga.
+
+16. Vehículo Mediano de pasajeros: Todo vehículo motorizado mediano, diseñado principalmente para transporte de personas.
+
+17. Vehículo Todo Terreno o Vehículo diseñado para un uso todo terreno: Vehículo que por sus características técnicas específicas, puede ser utilizado tanto en las vías públicas coma fuera de ellas, siempre y cuando cumpla con los requisitos establecidos en el documento de las Naciones Unidas denominado "Consolidated Resolution on the Construction of Vehicles (R.E.3)", en su Revisión 6, del 11 de julio de 2017(3), o la, o versión que lo complemente, modifique o sustituya".
+
+--------------------------
+
+(3) Disponible en: https://www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html.
 
 IV LÍMITES DE EMISIÓN
 
 #### Artículo 5º
 
-Límites de Emisión de Ruido para Vehículos Livianos y Medianos. Los vehículos livianos y medianos, cuya primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación se solicite a partir de la entrada en vigencia señalada en el Titulo VII de la presente norma, sólo podrán circular por todo el territorio nacional, si respecto de ellos se acredita que no exceden los niveles de presión sonora máximo, para Ensayo Dinámico, establecidos en la siguiente Tabla Nº1:
+Límites de Emisión de Ruido para Vehículos Livianos y Medianos. Los vehículos livianos y medianos, cuya primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación se solicite a partir de la entrada en vigencia señalada en el Titulo VIII de la presente norma, sólo podrán circular por todo el territorio nacional, si respecto de ellos se acredita que no exceden los niveles de presión sonora máximo, para Ensayo Dinámico, establecidos en la siguiente Tabla Nº1:
 
 Tabla Nº 1. Límites de niveles de presión sonora máximos para vehículos livianos y medianos, según ensayo dinámico.
 
@@ -112,13 +124,21 @@ ii. en 2 dB(A), si están equipados con un motor de potencia igual o superior a 
 
 c) En el caso de los tipos de vehículos livianos hasta 9 asientos, equipados con una caja de cambios con más de cuatro marchas adelante y con un motor que desarrolle una potencia máxima superior a 140 kW y que tenga una relación potencia máxima/peso bruto vehicular superior a 75 KW/t, los valores límite se incrementarán en 1 dB(A). Esta corrección se considerará si la velocidad en tercera es superior a 61 km/h, cuando la parte posterior del vehículo cruza la línea de desaceleración en la prueba de ensayo dinámico.
 
+#### Artículo 5 bis
+
+No obstante lo anterior, se podrá acreditar el cumplimiento de los límites indicados en la Tabla N°1 del artículo 5°, cuando se verifique la observancia de los límites establecidos en el Reglamento Europeo UN R51/03, o bien, aquellos establecidos con la regulación que la adicione, modifique o sustituya, de acuerdo con los procedimientos señalados en dicho Reglamento.
+
 #### Artículo 6º
 
-Límites de Emisión de Ruido para Motocicletas. Las motocicletas, cuya primera inscripción en el Registro Nacional de Vehículos Motorizados del Servicio de Registro Civil e Identificación, se solicite a partir de la entrada en vigencia señalada en el Titulo VII de la presente norma, sólo podrán circular por todo el territorio nacional, si respecto de ellas se acredita que no exceden los niveles de presión sonora máximo, para Ensayo Dinámico, señalados en la siguiente Tabla Nº 2:
+Límites de Emisión de Ruido para Motocicletas. Las motocicletas, cuya primera inscripción en el Registro Nacional de Vehículos Motorizados del Servicio de Registro Civil e Identificación, se solicite a partir de la entrada en vigencia señalada en el Titulo VIII de la presente norma, sólo podrán circular por todo el territorio nacional, si respecto de ellas se acredita que no exceden los niveles de presión sonora máximo, para Ensayo Dinámico, señalados en la siguiente Tabla Nº 2:
 
 Tabla Nº 2. Límites de niveles de presión sonora máximos para motocicletas, según ensayo dinámico.
 
 .
+
+#### Artículo 6 bis
+
+No obstante lo anterior, se podrá acreditar el cumplimiento de los límites indicados en la Tabla N°2 del artículo 6°, cuando se verifique la observancia de los límites establecidos en el Reglamento Europeo UN R41/04, o bien, aquellos establecidos con la regulación que la adicione, modifique o sustituya, de acuerdo con los procedimientos señalados en dicho Reglamento.
 
 ### V. FISCALIZACIÓN DE LA NORMA DE EMISIÓN
 
@@ -150,13 +170,15 @@ VIII VIGENCIA
 
 #### Artículo 11
 
-La presente norma entrará en vigencia 24 meses después de la publicación en el Diario Oficial de la Resolución de la Superintendencia del Medio Ambiente que establece los procedimientos de medición a que alude el artículo 9º.
+La presente norma entrará en vigencia 24 meses después de la publicación en el Diario Oficial de la Resolución de la Superintendencia del Medio Ambiente que establece los procedimientos de medición a que alude el artículo 9º, tratándose de los vehículos de modelos homologados por primera vez a contar del vencimiento de dicho plazo de 24 meses. Para todos los demás vehículos entrará en vigencia 36 meses después de la publicación aludida.
 
 Sin perjuicio de lo anterior, todos los vehículos livianos, medianos y motocicletas que cumplan con los requisitos establecidos en los artículos 5º y 6º, podrán acreditar Su cumplimiento en el proceso de homologación del decreto supremo 54, de 1997, del Ministerio de Transportes y Telecomunicaciones, a partir de los 12 meses después de la publicación en el Diario Oficial de la resolución de la Superintendencia a que alude el artículo 9º.
 
 #### Artículo Transitorio
 
 La acreditación a que se refiere el artículo 8º, se llevará a cabo conforme al procedimiento que por resolución establezca el Ministerio de Transportes y Telecomunicaciones, en un plazo de 6 meses desde la publicación en el Diario Oficial de la resolución de la Superintendencia del Medio Ambiente que establece los procedimientos de medición a que alude el artículo 9º.
+
+Segundo artículo transitorio: Lo dispuesto en el inciso primero del artículo 11 aplicará retroactivamente.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Pablo Badenier Martínez, Ministro del Medio Ambiente.- Andrés Gómez-Lobo Echenique, Ministro de Transportes y Telecomunicaciones.
 
