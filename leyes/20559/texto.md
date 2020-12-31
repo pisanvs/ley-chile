@@ -184,7 +184,7 @@ Para tener derecho a la bonificación, los funcionarios que cumplan con las cond
 
 La bonificación ascenderá a un monto mensual de $165.000 para los profesionales y de $60.000 para los técnicos. Será imponible para fines de pensiones y salud, no se considerará base de cálculo para ninguna otra remuneración y será incompatible con la bonificación a que se refiere el artículo 5° de la ley N° 20.209.
 
-La bonificación especial se podrá conceder a un máximo de trece profesionales y de diez técnicos. Será reajustable conforme a los reajustes generales de remuneraciones que se otorguen a los trabajadores del sector público con posterioridad al contenido en el artículo 1° de la presente ley.
+La bonificación especial se podrá conceder a un máximo de quince profesionales y de diez técnicos. Será reajustable conforme a los reajustes generales de remuneraciones que se otorguen a los trabajadores del sector público con posterioridad al contenido en el artículo 1° de la presente ley.
 
 #### Artículo 25
 

@@ -50,6 +50,8 @@ El informe de idoneidad sicológica señalado en el inciso anterior deberá refe
 
 La idoneidad sicológica para desempeñarse como asistente de la educación deberá acreditarse en forma previa a la celebración del respectivo contrato.
 
+Las inhabilidades y prohibiciones, establecidas en los incisos precedentes, para el ejercicio de funciones propias del personal Asistente de la Educación, al tenor de sus categorías singularizadas en el Párrafo 2° del Título I de la presente ley, así como los requisitos de informe de idoneidad psicológica, y acreditación de las competencias laborales requeridas para su ejercicio, reguladas a través de los perfiles de competencias laborales elaborados de conformidad al procedimiento establecido en la ley N° 20.267 y su reglamento, se aplicarán también a los trabajadores que ejecuten dichas funciones en establecimientos educacionales dependientes de los Servicios Locales de Educación Pública, en forma continua o permanente, en régimen de subcontratación, servicios transitorios o puesta a disposición de trabajadores, en forma previa al inicio de sus funciones en dichos establecimientos.
+
 ### Párrafo 2º
 
 Categorías de asistentes de la educación
@@ -63,8 +65,6 @@ Los asistentes de la educación regidos por esta ley, de acuerdo a la función q
 Serán clasificados en la categoría profesional aquellos asistentes de la educación que, en posesión de un título profesional, desempeñen funciones de apoyo al aprendizaje y otras relacionadas con los proyectos de mejoramiento educativo y de integración de cada establecimiento educacional; de carácter psicosocial o psicopedagógico, desarrolladas por profesionales de la salud y de las ciencias sociales; de administración de un establecimiento educacional; y otras de análoga naturaleza, para cuyo ejercicio se requiera contar con un título profesional, exceptuándose los profesionales afectos al decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación.
 
 Para ser clasificado en la categoría profesional se requerirá estar en posesión de un título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por una institución de educación superior del Estado o reconocida por éste.
-
-Los profesionales que trabajan con emisión de diagnósticos a los alumnos de los establecimientos educacionales deberán tener un mínimo de 3.200 horas de formación presencial.
 
 #### Artículo 7
 
@@ -601,6 +601,8 @@ Las disposiciones del Párrafo 1° del Título III de la presente ley se aplicar
 Lo dispuesto en el inciso anterior se aplicará también a los asistentes de la educación que prestan servicios en educación parvularia, básica y media, en establecimientos educacionales regidos por el decreto ley N° 3.166, del Ministerio de Educación Pública, de 1980.
 
 La facultad establecida en el inciso segundo del artículo 41, para estos casos, será ejercida por el director de cada establecimiento educacional.
+
+> **Nota.** El artículo único de la Ley 21199, publicada el 23.01.2020, interpreta éste artículo en el sentido de declarar que los artículos 38, 39, 40 y 41 de la presente ley, benefician en cuanto a sus efectos a los asistentes de la educación, entendidos como tales quienes colaboran en el desarrollo del proceso de enseñanza y aprendizaje de los estudiantes y la correcta prestación del servicio educacional, a través de funciones de carácter profesional distintas de aquellas establecidas en el artículo 5º del decreto con fuerza de ley Nº 1, del Ministerio de Educación, promulgado el año 1996 y publicado el año 1997; sean del estamento técnico, administrativo o auxiliar, realicen sus tareas en aula o fuera de ellas y que presten servicios en educación parvularia, básica y media, en establecimientos que reciban subvención por parte del Estado, cualquiera sea su forma de organización, conforme al decreto con fuerza de ley Nº 2, del Ministerio de Educación, de 1998.
 
 DISPOSICIONES TRANSITORIAS
 

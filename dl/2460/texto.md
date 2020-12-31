@@ -14,11 +14,11 @@ La Policía de Investigaciones de Chile es una Institución Policial de carácte
 
 En el cumplimiento de sus funciones, la Institución se relacionará con las Secretarías de Estado, por intermedio de la Dirección General.
 
-En lo que respecta a las relaciones con las Intendencias Regionales, Gobernaciones Provinciales, Alcaldías, y otros organismos regionales, provinciales o locales, Investigaciones de Chile se vinculará con ellos mediante las Jefaturas de Zona, Prefecturas, Comisarías y Unidades Menores, según proceda.
+En lo que respecta a las relaciones con las Delegaciones Presidenciales Regionales, Delegaciones Presidenciales Provinciales, Alcaldías, y otros organismos regionales, provinciales o locales, Investigaciones de Chile se vinculará con ellos mediante las Jefaturas de Zona, Prefecturas, Comisarías y Unidades Menores, según proceda.
 
 #### Artículo 2°
 
-Policía de Investigaciones de Chile estará organizada sobre la base de una Dirección General, una Subdirección Operativa, una Subdirección Administrativa, una Inspectoría General, Jefaturas, Prefecturas, Oficina Central Nacional INTERPOL, Comisarías y las Unidades Menores que sean necesarias. Dispondrá, además, de los servicios que se requieran para el mejor desempeño de sus funciones.
+Policía de Investigaciones de Chile estará organizada sobre la base de una Dirección General, un máximo de cuatro Subdirecciones, una Inspectoría General, Jefaturas, Prefecturas, Oficina Central Nacional INTERPOL, Comisarías y las Unidades Menores que sean necesarias. Dispondrá, además, de los servicios que se requieran para el mejor desempeño de sus funciones.
 
 Para la formación y perfeccionamiento profesional de su personal, la Institución contará con una Escuela de Investigaciones, un Centro de Capacitación Profesional y un Instituto Superior, planteles que otorgarán los títulos correspondientes de acuerdo con sus reglamentos.
 
@@ -142,9 +142,9 @@ Los ascensos de los Oficiales se otorgarán por decreto ministerial, firmado "Po
 
 #### Artículo 16
 
-Los funcionarios de la Planta de Oficiales Policiales, con excepción de los Aspirantes, usarán como distintivo una "Placa de Servicio" y una "Tarjeta de Identidad Policial", que acreditarán su cargo, función e identidad.
+Los funcionarios que pertenezcan a los escalafones de Oficiales Policiales y Asistentes Policiales usarán como distintivo una "Placa de Servicio" y una "Tarjeta de Identidad Policial", que acreditarán su cargo, función e identidad.
 
-Los Aspirantes y el personal de las otras plantas, tendrán para tales efectos, sólo la Tarjeta de Identidad Policial.
+El personal de los escalafones señalados en el inciso anterior, en caso de ingresar al escalafón de complemento, conservarán su placa de servicio. El personal de los otros escalafones, tendrán para tales efectos, sólo la Tarjeta de Identidad Policial.
 
 La forma y características de la Placa de Servicio y la Tarjeta de Identidad Policial como la de los timbres y sellos que debe usar la institución en sus documentos oficiales, se determinarán en los reglamentos correspondientes.
 

@@ -198,7 +198,9 @@ No obstante, el ejercicio de esta facultad no podrá significar mayor gasto ni c
 
 #### Artículo 13°
 
-DEROGADO
+El Presidente de la República, a requerimiento del Director General, podrá aumentar transitoriamente las plazas de Personal de Nombramiento Supremo de un escalafón hasta en el número de plazas no ocupadas en grados superiores o inferiores al necesario, del mismo escalafón o de otro, cuando en aquél no existieren vacantes para atender a las necesidades del servicio. Igual facultad tendrá el Director General respecto del Personal de Nombramiento Institucional. El ejercicio de esta facultad sólo podrá ejercerse si existen recursos disponibles en el presupuesto de la institución.
+
+Una vez que se produzca la vacancia de tales plazas, éstas se restituirán, en forma automática y por el solo ministerio de la ley, a su escalafón de origen.
 
 CAPITULO 2°
 
@@ -292,9 +294,11 @@ j) Perito en Telecomunicaciones: Título de Ingeniero Civil Electrónico u otros
 
 k) Perito en Ecología; Título de Ingeniero Civil, Ingeniero Forestal, Biólogo, Biólogo Marino u otros análogos, otorgados por una Universidad del Estado o reconocida por éste, cuyas carreras tengan un plan de estudios no inferior a ocho semestres o cuatro años;
 
-l) Perito en Sonido: Título de Ingeniero en Sonido u otros títulos profesionales relacionados con la especialidad, otorgados por una Universidad o Instituto Profesional del Estado o reconocidos por éste, cuyas carreras tengan un plan de estudios no inferior a ocho semestres o cuatro años, y
+l) Perito en Sonido: Título de Ingeniero en Sonido u otros títulos profesionales relacionados con la especialidad, otorgados por una Universidad o Instituto Profesional del Estado o reconocidos por éste, cuyas carreras tengan un plan de estudios no inferior a ocho semestres o cuatro años;
 
-m) Perito Paisajista: Título de Arquitecto u otros relacionados con la especialidad, otorgados por una Universidad o Instituto Profesional del Estado o reconocidos por éste, cuyas carreras tengan un plan de estudios no inferior a diez semestres o cinco años.
+m) Perito Paisajista: Título de Arquitecto u otros relacionados con la especialidad, otorgados por una Universidad o Instituto Profesional del Estado o reconocidos por éste, cuyas carreras tengan un plan de estudios no inferior a diez semestres o cinco años, y
+
+n) Otros peritos: título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por una universidad o instituto profesional del Estado o reconocido por éste, o aquellos validados en Chile de acuerdo a la legislación vigente o un título equivalente otorgado por un establecimiento de educación superior de las Fuerzas Armadas o Fuerzas de Orden y Seguridad Pública.
 
 Facúltase a la Dirección General de la Policía de Investigaciones de Chile para disponer la realización de cursos de formación de Peritos en aquellas especialidades en que no existan títulos universitarios o concedidos por establecimientos de educación superior del Estado o reconocidos por éste.
 

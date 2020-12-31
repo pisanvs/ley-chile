@@ -20,7 +20,9 @@ Las bonificaciones establecidas en los incisos precedentes no serán imponibles 
 
 #### Artículo 2
 
-Igualmente podrán acceder a las bonificaciones a que se refiere el artículo 1 los funcionarios municipales regidos por el Título II del decreto ley Nº 3.551, de 1980, y por la ley Nº 18.883, que hayan obtenido u obtengan pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, que cumplan 60 años de edad si son mujeres, o 65 años de edad si son hombres, dentro de los tres años siguientes al cese de su cargo por la obtención de la referida pensión o por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del cargo; y siempre que cuenten con un mínimo de diez años de servicios continuos o discontinuos prestados en la administración municipal a la fecha de su cese de funciones.
+Igualmente podrán acceder a las bonificaciones a que se refiere el artículo 1 los funcionarios municipales regidos por el Título II del decreto ley Nº 3.551, de 1980, y por la ley Nº 18.883, que hayan obtenido u obtengan pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, entre el 1 julio de 2014 y el 31 de diciembre del año 2025, ambas fechas inclusive; que cumplan 60 años de edad si son mujeres, o 65 años de edad si son hombres, dentro de los tres años siguientes al cese de su cargo por la obtención de la referida pensión o por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del cargo; y siempre que cuenten con un mínimo de diez años de servicios continuos o discontinuos prestados en la administración municipal a la fecha de su cese de funciones.
+
+En ningún caso las edades señaladas en el inciso anterior podrán cumplirse más allá del 31 de diciembre de 2025.
 
 El personal señalado en este artículo que no cumpla con el requisito de edad establecido en el inciso primero igualmente podrá acceder a la bonificación adicional si tiene treinta o más años de servicio a la fecha del cese de funciones, en cualquier calidad jurídica, sea de planta o a contrata, en municipios, y siempre que al 1 de julio de 2014 haya tenido un mínimo de cinco años de desempeño continuo o discontinuo en cargos de planta o a contrata.
 
@@ -34,9 +36,9 @@ Sin embargo, las funcionarias señaladas en el inciso primero que a la fecha de 
 
 #### Artículo 4
 
-Podrán acceder a la bonificación establecida en el inciso primero del artículo 1 y a lo dispuesto en el artículo 9 hasta un máximo de 13.100 beneficiarios, de conformidad con los cupos anuales que se indican en el inciso siguiente.
+Podrán acceder a la bonificación establecida en el inciso primero del artículo 1 y a lo dispuesto en el artículo 9 hasta un máximo de 10.600 beneficiarios, de conformidad con los cupos anuales que se indican en el inciso siguiente.
 
-Para el año 2018 se contemplarán 1.100 cupos y para el año 2019 existirán 1.000 cupos. Para los años 2020 y 2021, existirán 1.250 cupos por cada año. A partir del año 2022 y hasta el año 2023, se contemplarán 1.500 cupos para cada año. Para los años 2024 y 2025 se contemplarán 2.250 y 3.250 cupos, respectivamente. Con todo, los cupos que no hubieren sido utilizados en los años 2018 y 2019, incrementarán los cupos del año 2020. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los del año inmediatamente siguiente.
+Para el año 2018 se contemplarán 1.100 cupos y para el año 2019 existirán 1.000 cupos. Para los años 2020 y 2021, existirán 1.250 cupos por cada año. A partir del año 2022 y hasta el año 2025, se contemplarán 1.500 cupos para cada año. Con todo, los cupos que no hubieren sido utilizados en los años 2018 y 2019, incrementarán los cupos del año 2020. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los del año inmediatamente siguiente.
 
 #### Artículo 5
 

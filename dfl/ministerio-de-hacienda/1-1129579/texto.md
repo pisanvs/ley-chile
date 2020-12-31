@@ -80,7 +80,7 @@ El llamado a concurso público se realizará, a lo menos, mediante avisos public
 
 #### Artículo 7
 
-El concurso será preparado y realizado por un comité de selección, integrado por el jefe de la Unidad de Gestión y Desarrollo de Personas de la Comisión y cuatro funcionarios que sean designados por el Presidente, previo a la realización del mismo. Como resultado del concurso le propondrá al Presidente de la Comisión, una nómina de tres candidatos que hubieren obtenido los mejores puntajes, respecto del cargo a proveer. El resultado del concurso constará en un acta.
+El concurso será preparado y realizado por un comité de selección, integrado por el jefe de la Unidad de Gestión y Desarrollo de Personas de la Comisión o en quien éste delegue dicha participación y cuatro funcionarios que sean designados por el Presidente, previo a la realización del mismo. Como resultado del concurso le propondrá al Presidente de la Comisión, una nómina de tres candidatos que hubieren obtenido los mejores puntajes, respecto del cargo a proveer. El resultado del concurso constará en un acta.
 
 El concurso podrá ser declarado total o parcialmente desierto sólo por falta de postulantes idóneos, entendiéndose que existe tal circunstancia cuando ninguno alcance el puntaje mínimo definido para el respectivo concurso.
 

@@ -44,6 +44,8 @@ Título profesional de una carrera de, a lo menos, ocho semestres de duración, 
 
 Oficial en servicio activo o en retiro de las Fuerzas Armadas. En ambos casos, se requerirá que se trate, al menos, de oficiales con el grado de Teniente Coronel o sus equivalentes y que estén en posesión del título de Estado Mayor o Ingeniero Politécnico, con una experiencia mínima de cuatro años en el ejercicio del título.
 
+En el caso del Director de la Academia Nacional de Estudios Políticos y Estratégicos, se requerirá ser un oficial en retiro de las Fuerzas Armadas que haya alcanzado el grado de Oficial General de las Fuerzas Armadas de acuerdo a lo establecido en el literal a) del artículo 36 de la ley Nº18.948, y con experiencia mínima de cuatro años en ejercicio de mando, jefatura o dirección.
+
 Jefes de Departamento grado 5º, alternativamente:
 
 Título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado, o reconocido por éste, o aquellos validados en Chile de acuerdo a la legislación vigente, y acreditar una experiencia profesional mínima de cuatro años; u
