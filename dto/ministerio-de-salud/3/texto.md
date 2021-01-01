@@ -18,7 +18,7 @@ Para los efectos de este reglamento, se entiende por licencia médica el derecho
 
 #### Artículo 2°
 
-Las normas de este reglamento serán aplicadas a la tramitación de todas las licencias médicas que den origen a los beneficios sobre protección del riesgo de enfermedad e incapacidad temporal reguladas en las leyes N°s. 6.174, 16.744, 18.469, 18.834, 18.458, 18.883, 19.070, 19.378 y Código del Trabajo, cuya autorización corresponda a las Compin y a las Instituciones de Salud Previsional, en adelante indistintamente ISAPRE.
+Las normas de este reglamento serán aplicadas a la tramitación de todas las licencias médicas que den origen a los beneficios sobre protección del riesgo de enfermedad e incapacidad temporal reguladas en las leyes N°s. 6.174, 18.469, 18.834, 18.458, 18.883, 19.070, 19.378 y Código del Trabajo, cuya autorización corresponda a las Compin y a las Instituciones de Salud Previsional, en adelante indistintamente ISAPRE.
 
 La recepción a trámite de las licencias de los trabajadores dependientes no afiliados a una Isapre, deberá efectuarse en las oficinas de la Compin en cuyo territorio quede ubicado el lugar de desempeño del trabajador.
 
@@ -26,9 +26,9 @@ Si el trabajador presta servicios a dos o más empleadores, estando su lugar de 
 
 En el caso de trabajadores dependientes afiliados a una ISAPRE, la tramitación y autorización de las licencias corresponderá a la oficina de la ISAPRE en la cual suscribió su contrato el trabajador o en aquella oficina de la misma Institución más cercana al lugar donde presta sus servicios el trabajador, a elección de este último.
 
-Este reglamento no se aplicará a la tramitación y autorización de las licencias ni al pago de subsidios que correspondan a accidentes del trabajo y enfermedades profesionales de trabajadores afiliados a Mutualidades de Empleadores, constituidas de acuerdo con la Ley N° 16.744, sin perjuicio de lo establecido en el artículo 30 del presente reglamento.
+Este reglamento no se aplicará a la tramitación y autorización de las licencias ni al pago de subsidios que correspondan a accidentes del trabajo y enfermedades profesionales de trabajadores afiliados a un organismo administrador del Seguro de la ley Nº 16.744. Corresponderá a la Superintendencia de Seguridad Social, impartir las instrucciones necesarias para la tramitación y autorización de dichas licencias médicas, así como para el pago de los subsidios derivados de éstas.
 
-Con todo, esas Mutualidades de Empleadores deberán proporcionar a la Compin que corresponda, los datos y antecedentes que ésta les requiera, respecto de la atención médica y beneficios concedidos a sus afiliados, según las instrucciones que imparta el Ministerio de Salud en la materia.
+Con todo, los organismos administradores del Seguro de la ley Nº 16.744 deberán proporcionar a la Compin que corresponda, los datos y antecedentes que ésta les requiera, respecto de la atención médica y beneficios concedidos a sus afiliados, según las instrucciones que imparta el Ministerio de Salud en la materia.
 
 INCISO ELIMINADO
 
@@ -46,7 +46,11 @@ La notificación del pronunciamiento de autorización, rechazo o modificación d
 
 #### Artículo 5°
 
-La licencia medica, es un acto médico administrativo en el que intervienen el trabajador, el profesional que certifica, la Compin o ISAPRE competente, el empleador y la entidad previsional o la Caja de Compensación de Asignación Familiar, en su caso. Se materializará en un formulario especial, impreso en papel o a través de documentos electrónicos, que registrará todas las certificaciones, resoluciones y autorizaciones que procedan y cuyo texto será determinado por el Ministerio de Salud.
+La licencia medica, es un acto médico administrativo en el que intervienen el trabajador, el profesional que certifica, la Compin o ISAPRE competente, el empleador y la entidad previsional o la Caja de Compensación de Asignación Familiar, en su caso. Se materializará en un formulario especial, electrónico, que registrará todas las certificaciones, resoluciones y autorizaciones que procedan y cuyo contenido será determinado por el Ministerio de Salud.
+
+Excepcionalmente, cuando existan circunstancias referidas a la falta de medios tecnológicos o falta de conectividad, que haga imposible el uso de estos medios, o bien, se trate de un profesional autorizado previamente por la Compin, las licencias médicas podrán emitirse en soporte papel.
+
+De la licencia médica se dejará constancia en la ficha clínica del paciente y quedará sujeta a la obligación de reserva y custodia que al respecto prevé la ley 20.584, sin perjuicio de la responsabilidad que le compete a la Comisión de Medicina Preventiva e Invalidez y al empleador respectivo.
 
 Las licencias de los trabajadores regidos la ley Nº 18.834, serán concedidas por resolución del Compin a que el funcionario pertenece.
 
@@ -56,7 +60,7 @@ La dolencia que afecte al trabajador, y el reposo necesario para su recuperació
 
 Los profesionales mencionados, considerando la naturaleza y gravedad de la afección, el tipo de incapacidad que ésta produzca y la duración de la jornada de trabajo del trabajador, podrán prescribir reposo total o parcial.
 
-Sin embargo, en los casos de licencia por descanso maternal y por enfermedad grave del niño menor de un año sólo podrán ordenar reposo total.
+Sin embargo, en los casos de licencia por descanso maternal y por enfermedad grave del niño menor de un año sólo podrán ordenar reposo total. En caso de que la trabajadora o trabajador haya solicitado su permiso postnatal por jornada parcial de acuerdo a lo dispuesto en el artículo 197 bis del Código del Trabajo, la licencia podrá ser otorgada por dicha jornada.
 
 La licencia médica que prescribe reposo total confiere al trabajador el derecho a ausentarse de su trabajo durante el tiempo que ella misma determina.
 
@@ -66,9 +70,7 @@ El trabajador afecto a reposo parcial que tenga más de un empleador deberá rea
 
 #### Artículo 7°
 
-Corresponderá al profesional certificar, firmando el formulario respectivo, el diagnóstico de la afección del trabajador; establecer el pronóstico, fijar el período necesario para su recuperación; el lugar de tratamiento o reposo con su dirección, y teléfono; el tipo de éste; si constituye o no prórroga de uno anterior; la fecha de concepción y la del nacimiento del hijo; la fecha y hora del accidente si es del caso y el tipo de licencia.
-
-Asimismo, deberá dejarse constancia de los datos profesionales y personales del otorgante.
+Corresponderá al profesional certificar, firmando el formulario respectivo, el diagnóstico de la afección del trabajador; establecer el pronóstico, fijar el período necesario para su recuperación; el lugar de tratamiento o reposo con su dirección, y teléfono; el tipo de éste; si constituye o no prórroga de uno anterior; la fecha de concepción y la del nacimiento del hijo; la fecha y hora del accidente si es del caso y el tipo de licencia. Asimismo, deberá dejarse constancia de, al menos, la dirección, correo electrónico y teléfono del otorgante.
 
 Deberá extender tantas licencias por igual período o diagnóstico, como sean necesarias a aquellos trabajadores que prestan servicios a dos o más empleadores y que, por esta causa, deban presentarlas en más de una Compin.
 
@@ -76,15 +78,15 @@ Deberá extender tantas licencias por igual período o diagnóstico, como sean n
 
 #### Artículo 8°
 
-Existirá un solo formulario de licencia médica sea que se materialice en papel o en documentos electrónicos para todos los trabajadores, independientemente del régimen previsional, laboral o estatutario al que se encuentren afectos.
+Existirá un solo formulario de licencia médica electrónico para todos los trabajadores, independientemente del régimen previsional, laboral o estatutario al que se encuentren afectos.
 
-El formulario se compone de diversas secciones que se llenarán, en forma manuscrita o electrónica por el profesional, el trabajador, el empleador o la entidad de previsión, en su caso, y la Compin o la ISAPRE, según corresponda.
+El formulario se compone de diversas secciones que se llenarán en electrónica por el profesional, el trabajador, el empleador o la entidad de previsión, en su caso, y la Compin o la ISAPRE, según corresponda.
 
-INCISO TERCERO.- DEROGADO
+Lo dispuesto en este artículo se aplicará sin perjuicio de lo previsto en el artículo 5, respecto a la emisión material de la licencia médica. Para ello, la Compin respectiva deberá arbitrar las medidas necesarias para su cumplimiento.
 
 #### Artículo 9°
 
-En el caso de los formularios de licencias médicas en papel, las Compin proporcionarán los formularios de licencias, previo pago de su costo, a los profesionales facultados para certificarlas en el libre ejercicio de su profesión y a las oficinas o Servicios de Bienestar, Mutualidades de Empleadores y otros organismos y entidades públicas y privadas en que dichos profesionales actúen como funcionarios en la atención de trabajadores.
+En el caso de los formularios de licencias médicas en papel según lo dispuesto en el inciso segundo del artículo 5°, las Compin, excepcionalmente, proporcionarán talonarios de formularios de licencias médicas, previo pago de su costo, a los profesionales facultados para certificarlas en el libre ejercicio de su profesión y a las oficinas o Servicios de Bienestar, organismos administradores del Seguro de la Ley N° 16.744 y otros organismos y entidades públicas y privadas en que dichos profesionales actúen como funcionarios en la atención de trabajadores.
 
 En el caso de los formularios de licencias médicas en papel, las Compin llevarán un registro de los formularios de licencia proporcionados a cada profesional o entidad indicados en el inciso anterior. Para obtener nuevos formularios, tanto el profesional como el representante del respectivo organismo o entidad, devolverán al Compin los talonarios ya utilizados.
 
@@ -98,9 +100,9 @@ DEROGADO
 
 #### Artículo 11°
 
-Tratándose de trabajadores dependientes, el formulario de licencia, con la certificación médica extendida en la forma señalada en los artículos precedentes, deberá ser presentado al empleador dentro del plazo de dos días hábiles, en el caso de trabajadores del sector privado y tres días hábiles, respecto de trabajadores del sector público, en ambos casos, contados desde la fecha de iniciación de la licencia médica.
+Tratándose de trabajadores dependientes, el formulario de licencia, con la certificación médica extendida en la forma señalada en los artículos precedentes, deberá ser presentado al empleador dentro del plazo de dos días hábiles, en el caso de trabajadores del sector privado y tres días hábiles, respecto de trabajadores del sector público, en ambos casos, contados desde el día hábil siguiente al de la fecha de inicio del reposo médico.
 
-En el caso de trabajadores independientes deberán presentar la solicitud de licencia, extendida por el profesional tratante, directamente a la Compin o ISAPRE correspondiente, para su autorización.
+En el caso de trabajadores independientes deberán presentar la solicitud de licencia, extendida por el profesional tratante, directamente a la Compin o ISAPRE correspondiente, para su autorización dentro de los dos días hábiles siguientes a la fecha de inicio del reposo.
 
 La licencia autorizada por la Compin o que por el transcurso del plazo correspondiente debe tenerse por autorizada de acuerdo con el artículo 25, será retirada por el interesado, para tramitarla ante la entidad responsable del pago y obtener el subsidio consecuente, a menos que dicho pago corresponda efectuarlo a la misma Compin, en cuyo caso se aplicará lo dispuesto en el inciso primero del artículo 28. Para este efecto el trabajador deberá presentar, además, ante la Compin, los comprobantes de sus últimas cotizaciones ante la Administradora de Fondo de Pensiones en que se encuentre afiliado, para acreditar que cumple con los requisitos establecidos en el decreto con fuerza de ley N° 44, de 1978, del Ministerio del Trabajo y Previsión Social. El mismo procedimiento se aplicará para la tramitación, autorización de licencias y pago de subsidios a trabajadores independientes que no estén acogidos a las disposiciones del decreto ley N° 3.500, de 1980, y cuyo régimen previsional les otorgue derecho a subsidios de incapacidad laboral, quienes deberán presentar ante la Compin los comprobantes de sus últimas cotizaciones en la Institución de Previsión en la que se encuentren incorporados para acreditar que reúnen las exigencias señaladas por el decreto con fuerza de ley N° 44, de 1978, del Ministerio del Trabajo y Previsión Social.
 
@@ -116,13 +118,11 @@ Este recibo servirá al trabajador para acreditar la entrega de la licencia dent
 
 El empleador, el trabajador independiente o la entidad de previsión en este último caso, procederá a completar el formulario de licencia con los datos de su individualización; afiliación previsional del trabajador; remuneraciones percibidas y cotizaciones previsionales efectuadas; indicación de las licencias anteriores de que haya hecho uso en los últimos seis meses, y otros antecedentes que se soliciten.
 
-Luego de completados los datos requeridos el empleador procederá a enviar el formulario de licencia para su autorización a la ISAPRE correspondiente o al establecimiento determinado por la Compin en cuyo ámbito de competencia se encuentre ubicado el lugar de desempeño del trabajador, dentro de los 3 días hábiles siguientes a la fecha de recepción por el empleador. El trabajador independiente deberá presentar la licencia dentro de los 2 días hábiles siguientes a la fecha de emisión de ella siempre que esté dentro del período de su vigencia.
+Luego de completados los datos requeridos el empleador procederá a enviar el formulario de licencia para su autorización a la ISAPRE correspondiente o al establecimiento determinado por la Compin en cuyo ámbito de competencia se encuentre ubicado el lugar de desempeño del trabajador, dentro de los 3 días hábiles siguientes a la fecha de recepción por el empleador.
 
 Es de exclusiva responsabilidad del empleador, del trabajador independiente o de la entidad de previsión en este último caso, consignar con exactitud los antecedentes requeridos en el formulario de licencia y su entrega oportuna en el establecimiento competente de la Compin respectiva o en las oficinas de la ISAPRE que corresponda.
 
 La omisión por parte de éstos, de antecedentes administrativos o de licencias anteriores, y las enmendaduras de la misma, serán causal de devolución de la licencia por no cumplir ésta con los correspondientes requisitos.
-
-> **Nota.** El artículo 2º del DTO 2.087, Salud, publicado el 13.11.1993, dispone que la modificaciones introducidas a esta norma entrarán en vigencia a contar del día 1º del mes siguiente al de su publicación.
 
 #### Artículo 14°
 
@@ -206,7 +206,7 @@ En el caso de los trabajadores no afiliados a una Isapre, las licencias que dan 
 
 Las licencias que dan origen al pago de subsidios o remuneraciones por otras instituciones, que no fueren ISAPRE, serán devueltas al empleador para su pago o remisión a la entidad que corresponda.
 
-Las licencias médicas que correspondan a enfermedad o accidente, prórroga de medicina preventiva, maternal o por enfermedad grave del niño menor de un año, de los trabajadores afiliados a una ISAPRE, darán origen al pago de subsidios por esta entidad; los subsidios correspondientes a licencias por accidentes del trabajo o enfermedad profesional serán pagados por las Compin o Caja de Previsión según corresponda, salvo que el trabajador esté afiliado a una Mutual de Empleadores constituida de acuerdo a la ley N° 16.744.
+Las licencias médicas que correspondan a enfermedad o accidente, prórroga de medicina preventiva, maternal o por enfermedad grave del niño menor de un año, de los trabajadores afiliados a una ISAPRE, darán origen al pago de subsidios por esta entidad.
 
 ### V. DE LA AUTORIZACION DE LAS LICENCIAS POR LAS
 
@@ -246,7 +246,7 @@ Las ISAPRE deberán dar a conocer a los trabajadores con quienes hayan celebrado
 
 #### Artículo 35°
 
-La ISAPRE, en el momento de recibir el formulario de licencia de parte del empleador o del trabajador independiente, certificará su recepción, estampando la fecha y timbre en el formulario de licencia respectivo y les entregará un comprobante que servirá para acreditar la entrega de la licencia dentro del plazo a que se refiere el artículo 13°.
+La ISAPRE, en el momento de recibir el formulario de licencia de parte del empleador o del trabajador independiente, certificará su recepción, estampando la fecha y timbre en el formulario de licencia respectivo y les entregará un comprobante que servirá para acreditar la entrega de la licencia dentro del plazo a que se refiere el presente reglamento.
 
 En el caso de formularios de licencia que de acuerdo al artículo 19° sean devueltos deberá la ISAPRE al momento de reingreso de dichos formularios estampar esta fecha de recepción, para los efectos del inciso final del artículo 24°.
 
@@ -416,15 +416,11 @@ Los procedimientos establecidos en los incisos segundo y tercero del artículo 1
 
 Para los efectos del cómputo de la duración de la licencia médica, los plazos que establece el presente reglamento serán de días corridos, debiendo considerarse, por ende, los días Domingos y festivos.
 
-#### Artículo 66°
-
-Deróganse el decreto supremo N° 202, de 1981, del Ministerio de Salud y las disposiciones de los siguientes decretos supremos, en lo que fueren contrarias o incompatibles con las contenidas en este reglamento: decreto supremo N° 402, de 1954, del Ministerio de Salud Pública y Previsión Social (Reglamento de Subsidios de Enfermedad y Maternal y Auxilio de Lactancia de la Ley N° 10.383); decreto N° 1.082, de 1955, del Ministerio de Salud Pública y Previsión Social (Reglamento de la Ley N° 6.174); decreto N° 101, de 1968, del Ministerio del Trabajo y Previsión Social (Reglamento de la Ley N° 16.744); decreto N° 528, de 1968, del Ministerio de Salud Pública (Reglamento para el otorgamiento de subsidios por enfermedad de los artículos 17 y 22 de la Ley N° 16.781); decreto N° 1.127, de 1968, del Ministerio de Salud Pública (Reglamento de licencias por enfermedad del personal regido por el decreto con fuerza de ley N° 338, de 1960); decreto N° 86, de 1971, del Ministerio del Trabajo y Previsión Social (Reglamento sobre licencias en favor de la madre trabajadora por enfermedad del hijo menor de un año) y, en general, derógase toda norma reglamentaria, contraria o incompatible con las del presente reglamento.
-
 ### IX. DE LA LICENCIA MEDICA ELECTRONICA
 
 #### Artículo 66
 
-La licencia médica podrá materializarse a través de documentos electrónicos.
+La licencia médica se materializará a través de documentos electrónicos y excepcionalmente en formularios papel, de acuerdo a lo señalado en el inciso segundo del artículo 5º.
 
 #### Artículo 67
 
