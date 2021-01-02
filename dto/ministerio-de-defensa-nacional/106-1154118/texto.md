@@ -1,0 +1,7 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 106, del 3 de marzo de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Empresa de Servicios Sanitarios de Los Lagos S.A., RUT 96.579.800-5, primera renovación de Concesión Marítima Menor, con vencimiento 31 diciembre 2023, sobre un sector de terreno de playa y uso de mejora fiscal, en el lugar denominado La Aguada, Bahía de Corral, comuna de Corral, provincia de Valdivia, región de Los Ríos, con una superficie total de 3.186,65 m2, la que fue tramitada con el SIABC N° 36.119, a modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): V1 Lat. 39°53'35,55"S Lon. 073°25'16,91"W, V2 Lat. 39°53'37,45"S Lon. 73°25'15,85"W, V3 Lat. 39°53'38,25"S Lon. 73°25'17,76"W y V4 Lon. 39°53'36,44"S Lon. 73°25'18,65"W, el objeto consiste en continuar haciendo usufructo de las mejoras fiscales existentes correspondientes a una planta de tratamiento de aguas servidas; las obras existentes consisten en planta de tratamiento.
+
+Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Corral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Francisco Briones García, Teniente Primero LT, Capitán de Puerto de Corral.
