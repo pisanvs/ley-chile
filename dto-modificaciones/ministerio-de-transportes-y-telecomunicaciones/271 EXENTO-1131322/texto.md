@@ -40,9 +40,9 @@ Estudio:
 
 Planta Transmisora:
 
-- Coordenadas Geográficas : 34º 13' 26" Latitud Sur; 70º 43' 48"
+- Coordenadas Geográficas : 34º 13' 20,4" Latitud Sur;
 
-Longitud Oeste.
+70º 43' 51,5" Longitud Oeste.
 
 Datum WGS 84.
 
