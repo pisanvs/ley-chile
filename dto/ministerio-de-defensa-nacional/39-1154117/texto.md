@@ -1,0 +1,7 @@
+OTORGAMIENTO CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo de Marina 39, de fecha 25 de febrero de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se otorgó concesión marítima menor a la Sociedad Constructora, Inmobiliaria e Inversiones Constitución Ltda., RUT: 78.847.680-9, con vencimiento 30 de junio de 2029, sobre un sector de terreno de playa, en el lugar denominado Playa Los Gringos, comuna de Constitución, provincia de Talca, Región del Maule, con una superficie de 461,95 m². La cual fue tramitada con el SIABC N° 29175. A modo referencial se señala la siguiente coordenada geográfica: Latitud 35°19'33,59"S, Longitud 72°25'33,79"W. El objeto de esta concesión marítima, sobre el sector otorgado, es amparar la construcción de un local restaurant, enfocado en una presentación de servicios gastronómicos típicos de la comuna, el diseño arquitectónico dispone de dos plantas con servicios de baños, cocina, bar, comedores, balcones y terrazas enfrentadas al entorno natural del sector.
+
+Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Constitución. El presente extracto se encuentra visado por la autoridad marítima antes señalada.-
+
+Luis Romero Morales, Teniente 1° LT, Capitán de Puerto de Constitución.
