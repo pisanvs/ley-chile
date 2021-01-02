@@ -96,7 +96,7 @@ El reglamento establecerá los órganos que podrán ser objeto de extracción en
 
 #### Artículo 4º bis
 
-La extracción de órganos en vida con fines de trasplante sólo se permitirá en personas capaces mayores de dieciocho años y cuando el receptor sea su pariente consanguíneo o por adopción hasta el cuarto grado, o su cónyuge, o una persona que, sin ser su cónyuge, conviva con el donante.
+La extracción de órganos en vida con fines de trasplante sólo se permitirá en personas capaces mayores de dieciocho años y cuando el receptor sea su pariente consanguíneo o por adopción hasta el cuarto grado, o su pariente por afinidad hasta el segundo grado inclusive o su cónyuge, o una persona que, sin ser su cónyuge, conviva con el donante, o su conviviente civil.
 
 Asimismo, se permitirá la extracción de órganos en vida con fines de trasplante cuando el donante sea una persona capaz, mayor de dieciocho años, y se ofrezca voluntariamente y en forma altruista para la extracción y donación en vida. En este caso, el órgano extraído tendrá como destino ser trasplantado a la persona que corresponda y esté incluida en el registro nacional de potenciales receptores de órganos a cargo del Instituto de Salud Pública de Chile, con el propósito de conservar su vida o mejorar su salud.
 
@@ -104,7 +104,7 @@ Para los efectos dispuestos en los incisos anteriores, se deberán cumplir, adem
 
 1.- En el momento de la donación, el donante no debe pertenecer al registro nacional de no donantes a que se refiere el artículo 2º bis.
 
-2.- El donante debe expresar su consentimiento por escrito, en forma libre e informada, y debe encontrarse en pleno goce de sus facultades, lo que deberá ser certificado por dos médicos especialistas en salud mental, sin perjuicio de cumplir con la certificación dispuesta en el artículo 5º.
+2.- El donante debe expresar su consentimiento por escrito, en forma libre e informada, y debe encontrarse en pleno goce de sus facultades, lo que deberá ser certificado por dos médicos especialistas en salud mental, sin perjuicio de cumplir con la certificación dispuesta en el artículo 5º. Asimismo, al manifestar su consentimiento deberá declarar, bajo juramento, que efectúa la donación de forma gratuita y espontánea, libre de fuerza y de toda coacción. En el caso del inciso primero de este artículo deberá, además, indicar expresamente el nombre del respectivo receptor.
 
 3.- La donación se efectuará al registro nacional de potenciales receptores de órganos, según lo dispuesto en el inciso anterior.
 
