@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.574, de 3 de diciembre 2020, Serviu Región del Biobío, ordenó expropiación parcial de un inmueble ubicado en Estación Tomé, Rol de Avalúo N° 90.633-1, comuna de Tomé, de aparente dominio de Empresa de Ferrocarriles del Estado, en una superficie de 12.126,96 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-39.453-1, para la ejecución de las obras del proyecto "Construcción Espacio Público Dichato - Vegas de Coliumo, Tomé", comuna de Tomé, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Leonardo Fasce Casanueva, por constructor civil Juan Pablo Cuevas Castillo y por arquitecto Eduardo Riquelme Illanes, según informe de fecha 6 de noviembre 2020, fijó monto provisional indemnización en $221.828.421, pagadera de contado.-
+
+Director, Serviu Región del Biobío.
