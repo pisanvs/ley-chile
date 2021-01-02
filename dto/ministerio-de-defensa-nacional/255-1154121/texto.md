@@ -1,0 +1,7 @@
+TRANSFERENCIA DE CONCESIÓN MARÍTIMA MAYOR
+
+Decreto supremo N° 255, de fecha 1 de septiembre de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, correspondiente al SIABC N° 40.796, autorizó transferencia total de concesión marítima mayor, a Camanchaca Pesca Sur S.A., RUT N° 76.143.821-2, otorgada mediante decreto supremo N° 214, de 4 de agosto de 2010, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, sobre un sector de terreno de playa, con el objeto de amparar las instalaciones de una planta elaboradora de harina y aceites de pescado y se encuentra ubicados en el lugar denominado Caleta Lo Rojas, comuna de Coronel, Provincia de Concepción, Región del Biobío, con vencimiento al 30 de diciembre del año 2030. Las obras existentes corresponden a una planta elaboradora de harina y aceite de pescado y la concesión abarca una superficie total de 5.200 m².
+
+Los antecedentes del decreto referido se encuentran a disposición del público en la Capitanía Puerto de Coronel. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
+
+Coronel, 10 de diciembre de 2020.- Cristian Vidal Elías, Capitán de Corbeta LT, Capitán de Puerto de Coronel.
