@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1460, de 23 de diciembre de 2020, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840, del DFL MOP N° 206 de 1960 y la Ley N° 19.525, de 10 de noviembre de 1997, se expropió el lote de terreno N° 1, para la obra: SISTEMAS DE AGUAS LLUVIAS GAETE E IFARLE, TALCAHUANO REGIÓN DEL BIOBÍO, MEJORAMIENTO CANAL PETROHUÉ PONIENTE, que figura a nombre de COMUNIDAD DENAVI SUR LIMITADA Y OTR, rol de avalúo 2053-1, Comuna de TALCAHUANO, REGIÓN DEL BIOBÍO, superficie 25.818 m2. La Comisión de Peritos integrada por JUAN ANDRES TEPPER LAVANDEROS, ANDRES ANÍBAL RISSO CAAMAÑO y PATRICIO ANTONIO RIVERA CASTRO, mediante informe de tasación de 16 de diciembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $2.614.455.592 para el lote N° 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
