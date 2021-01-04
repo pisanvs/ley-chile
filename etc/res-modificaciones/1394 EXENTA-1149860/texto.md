@@ -1,4 +1,4 @@
-MODIFICA LA RESOLUCIÓN Nº 330 EXENTA (V. Y U.) DE 2019, Y SUS MODIFICACIONES, EN EL SENTIDO QUE INDICA, Y APRUEBA NÓMINA DE POSTULANTES SELECCIONADOS DEL LLAMADO EN CONDICIONES ESPECIALES, PARA PROYECTOS DEL CAPÍTULO PRIMERO, EQUIPAMIENTO COMUNITARIO, DEL PROGRAMA DE MEJORAMIENTO DE VIVIENDAS Y BARRIOS, REGULADO POR EL DS Nº 27 (V. Y U.) DE 2016, DIRIGIDO A ORGANIZACIONES COMUNITARIAS Y JUNTAS DE VECINOS, REGIDAS POR LA LEY Nº 19.418, FIJA CONDICIONES PARA SU APLICACIÓN, EL MONTO DE RECURSOS DISPONIBLES Y SU DISTRIBUCIÓN
+MODIFICA LA RESOLUCIÓN Nº 330 EXENTA (V. Y U.) DE 2020, Y SUS MODIFICACIONES, EN EL SENTIDO QUE INDICA, Y APRUEBA NÓMINA DE POSTULANTES SELECCIONADOS DEL LLAMADO EN CONDICIONES ESPECIALES, PARA PROYECTOS DEL CAPÍTULO PRIMERO, EQUIPAMIENTO COMUNITARIO, DEL PROGRAMA DE MEJORAMIENTO DE VIVIENDAS Y BARRIOS, REGULADO POR EL DS Nº 27 (V. Y U.) DE 2016, DIRIGIDO A ORGANIZACIONES COMUNITARIAS Y JUNTAS DE VECINOS, REGIDAS POR LA LEY Nº 19.418, FIJA CONDICIONES PARA SU APLICACIÓN, EL MONTO DE RECURSOS DISPONIBLES Y SU DISTRIBUCIÓN
 
 Santiago, 24 de septiembre de 2020.- Hoy se resolvió lo que sigue:
 
@@ -37,6 +37,8 @@ Resolución:
 4. Apruébanse las nóminas de grupos seleccionados correspondientes al primer proceso de digitación del Llamado nacional en condiciones especiales para proyectos del Capítulo Primero, Equipamiento Comunitario, del Programa de Mejoramiento de Viviendas y Barrios, regulado por el DS Nº 27 (V. y U.) de 2016, dirigido a Organizaciones Comunitarias y Juntas de Vecinos, regidas por la ley Nº 19.418. Estas nóminas se adjuntan y se entenderán formar parte integrante de esta resolución. Además, fíjase el número de organizaciones postulantes seleccionadas por región, según se indica en la siguiente tabla:
 
 5. Publíquese la presente resolución en el Diario Oficial y en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los grupos postulantes seleccionados y los respectivos proyectos, conforme al número 4, de esta resolución, las que deberán contener a lo menos, la comuna, el tipo de proyecto, la identificación del grupo postulante y el puntaje obtenido por éste.
+
+> **Nota.** Los numerales 1.2 y 1.3 del número 1 de la Resolución 1905 Exenta, Vivienda, publicada el 04.01.2021, modifican las nóminas de grupos beneficiados de la Región de Los Lagos y de la Región de Valparaíso, respectivamente.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
