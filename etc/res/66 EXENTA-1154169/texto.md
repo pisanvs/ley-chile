@@ -1,0 +1,9 @@
+NOTIFICA RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL PROYECTO: "AMPLIACIÓN PLANTA DE TRATAMIENTO DE AGUAS SERVIDAS DE FUTRONO"
+
+De conformidad con lo dispuesto en los artículos 91 y 95 del decreto supremo Nº 40/2012 del Ministerio del Medio Ambiente, que aprueba el Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica a las personas naturales y jurídicas que presentaron observaciones durante el proceso de participación ciudadana en el marco de la evaluación ambiental del proyecto "Ampliación Planta de Tratamiento de Aguas Servida de Futrono", que por medio de la resolución exenta Nº 66, de fecha 15 de diciembre de 2020 ("RCA N° 66/2020"), la Comisión de Evaluación de la Región de Los Ríos calificó favorablemente el proyecto antes singularizado.
+
+Estas personas naturales y jurídicas disponen de 30 días, contados desde la presente notificación, para presentar recurso de reclamación ante el Director Ejecutivo del Servicio Evaluación Ambiental, de conformidad a lo dispuesto en los artículos 20 y 30 bis de la ley N° 19.300, sobre Bases Generales del Medio Ambiente.
+
+El texto íntegro de la RCA N° 66/2020 se encuentra disponible en el expediente administrativo de evaluación ambiental del Proyecto "Ampliación Planta de Tratamiento de Aguas Servidas de Futrono", al cual se puede acceder por medio del sitio web: www.sea.gob.cl; o bien, directamente por medio del siguiente enlace: https://bit.ly/34Ay91I. Asimismo, se hace presente que el Anexo "Consideración de Observaciones Ciudadanas" se encuentra disponible en el siguiente enlace: https://bit.ly/37DOKTW. De igual forma, se indica que podrá acceder al contenido de los referidos actos administrativos acudiendo a la Oficina de la Dirección Regional del SEA, ubicada en Baquedano Nº 625, Valdivia.-
+
+Karina Bastidas Torlaschi, Directora Regional del Servicio de Evaluación Ambiental, Secretaria Comisión de Evaluación, Región de Los Ríos.
