@@ -28,9 +28,13 @@ e) Los correos electrónicos de fechas 29 y 30 de octubre de 2020, que dan cuent
 
 Resolución:
 
-1. Compleméntase la nómina de postulantes seleccionados que fue aprobada en el resuelvo 1° de la resolución exenta N° 1.495 (V. y U.), de 2020, correspondientes al llamado en condiciones especiales dispuesto en el resuelvo 1° de la resolución exenta N° 1.090, de este Ministerio, de 2020, del Programa de Subsidio de Arriendo de Vivienda, regulado por el DS N° 52 (V. y U.), de 2013, en particular según lo establecido en su artículo 27, nómina que se entenderá formar parte integrante de dicha resolución, y fíjase en 6.284 el número de nuevos postulantes seleccionados de todo el país, los que se distribuyen regionalmente de acuerdo a la siguiente tabla:
+1. Compleméntase la nómina de postulantes seleccionados que fue aprobada en el resuelvo 1° de la resolución exenta N° 1.495 (V. y U.), de 2020, correspondientes al llamado en condiciones especiales dispuesto en el resuelvo 1° de la resolución exenta N° 1.090, de este Ministerio, de 2020, del Programa de Subsidio de Arriendo de Vivienda, regulado por el DS N° 52 (V. y U.), de 2013, en particular según lo establecido en su artículo 27, nómina que se entenderá formar parte integrante de dicha resolución, y fíjase en 6.285 el número de nuevos postulantes seleccionados de todo el país, los que se distribuyen regionalmente de acuerdo a la siguiente tabla:
 
-2. El monto de recursos comprometidos en la selección de postulantes que por este acto se aprueba, del total destinado al financiamiento del llamado en condiciones especiales dispuesto en el resuelvo 1° de la resolución exenta N° 1.090, de este Ministerio, del Programa de Subsidio de Arriendo de Vivienda, es de 131.125,11.- Unidades de Fomento, quedando un remanente de 384.620,73 Unidades de Fomento, conforme lo indica en la siguiente tabla:
+.
+
+2. El monto de recursos comprometidos en la selección de postulantes que por este acto se aprueba, del total destinado al financiamiento del llamado en condiciones especiales dispuesto en el resuelvo 1° de la resolución exenta N° 1.090, de este Ministerio, del Programa de Subsidio de Arriendo de Vivienda, es de 131.150,38.- Unidades de Fomento, quedando un remanente de 384.620,73 Unidades de Fomento, conforme lo indica en la siguiente tabla:
+
+.
 
 3. Publíquese en un periódico de circulación nacional y en el sitio web de este Ministerio, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de postulantes seleccionados conforme al resuelvo 1° de esta resolución, las que deberán contener a lo menos el puntaje y el nombre de cada postulante beneficiado, con su respectiva Cédula de Identidad, y exhíbanse dichas nóminas en las oficinas de los Serviu.
 
