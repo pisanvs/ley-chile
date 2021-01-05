@@ -938,7 +938,17 @@ Públicos Ley Nº 19.882
 
 06 A Gobiernos Extranjeros
 
-07 A Organismos Internacionales
+07 A Organismos Internacionales Podrá
+
+incluir las gastos que se
+
+efectúen en virtud de convenios
+
+o contratos con Organismos
+
+Internacionales, con acuerdo
+
+a la normativa vigente.
 
 25 INTEGROS AL FISCO
 
@@ -957,6 +967,36 @@ Públicos Ley Nº 19.882
 02 Compensaciones por Daños a
 
 Terceros y/o a la Propiedad
+
+También comprende los gastos
+
+por conceptos de indemnizaciones
+
+y todo tipo de gasto que surja
+
+de reclamaciones administrativas
+
+o judiciales, con motivo de
+
+contratos por iniciativas de
+
+inversión cerrados en el Banco
+
+Integrado de Proyectos, que no
+
+puedan imputarse en otro ítem
+
+o subtítulo. En el acto
+
+administrativo que dispone el
+
+pago se deberá asociar la
+
+respectiva imputación con
+
+el correspondiente proyecto
+
+de inversión.
 
 03 2% Constitucional
 
