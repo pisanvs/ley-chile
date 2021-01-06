@@ -1,0 +1,5 @@
+APRUEBA TÉRMINO DE CONTRATO DE COMODATO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA SUBSECRETARÍA DEL TRABAJO; Y CONTRATO DE COMODATO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA SUPERINTENDENCIA DE SEGURIDAD SOCIAL
+
+Por Resolución Exenta I N° 20, de 23 de noviembre de 2020, el Jefe del Departamento Administración e Inmobiliaria del Instituto de Previsión Social, aprobó los documentos Término de Contrato de Comodato entre el Instituto de Previsión Social y la Subsecretaría del Trabajo, por medio del cual las partes acuerdan poner término al Contrato, aprobado por resolución exenta N° 386, de 10 de agosto de 2017, de la Dirección Nacional; y la suscripción del contrato de comodato entre el Instituto de Previsión Social y la Superintendencia de Seguridad Social, el 20 de marzo de 2020.-
+
+Roberto Lagos Flores, Jefe del Departamento Administración e Inmobiliaria.
