@@ -42,7 +42,9 @@ Del plantel o granja de procedencia, pabellones y huevos SPF:
 
 2. Debe encontrarse libre de otras cepas de influenza aviar, y las aves que dieron origen a los huevos no deben haber sido vacunadas contra esta enfermedad ni otras enfermedades.
 
-3. Debe encontrarse libre de las siguientes enfermedades: Salmonella gallinarum, Salmonella pullorum, Salmonella typhymurium y Salmonella enteritidis, Mycoplasma gallisepticum y Mycoplasma sinoviae, cólera aviar, colibacilosis, coriza, Encefalomielitis Aviar, Bronquitis Infecciosa (Cepas Massachuset, Connecticut, Arkansas, JMK), Laringotraqueitis Infecciosa, Difteroviruela Aviar, Enfermedad de Marek (Serotipos 1, 2 y 3), Leucosis Aviar, Reovirus, Adenovirus aviar Grupo I, II y III, Anemia infecciosa aviar, Enfermedad de Gumboro, Nefritis Aviar, Rotavirus aviar, Metapneumovirus aviar, Tuberculosis aviar, Reticuloendoteliosis, parásitos internos.
+3. Debe encontrarse libre de las siguientes enfermedades: Salmonella Gallinarum, Salmonella Puliorum, Salmonella Typhimurium y Salmonella Enteritidis, Mycoplasma gallisepticum y Mycoplasma synoviae, Encefalomielitis Aviar, Bronquitis Infecciosa (Cepas Massachuset, Connecticut, Arkansas, JMK), Laringotraqueitis Infecciosa, Enfermedad de Marek (Serotipos 1, 2 y 3), Leucosis Aviar, Reovirus, Adenovirus aviar Grupo I, II y III, Anemia infecciosa aviar, Enfermedad de Gumboro, Nefritis Aviar, Rotavirus aviar, Metapneumovirus aviar, Reticuloendoteliosis.
+
+4. Dentro de los 180 días previos al embarque, en el plantel no se han presentado evidencias clínicas de las siguientes enfermedades infectocontagiosas coriza, cólera aviar, difteria aviar y tuberculosis aviar.
 
 4. Deben dedicarse exclusivamente a la producción de huevos libres de patógenos; y contar con instalaciones para operar bajo condiciones de aislamiento necesarias y con personal adecuadamente preparado.
 
