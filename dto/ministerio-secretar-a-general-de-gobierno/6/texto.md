@@ -14,8 +14,6 @@ Decreto:
 
 Déjase sin efecto el decreto supremo Nº 120, de 2010, del Ministerio Secretaría General de Gobierno, sin tramitar, y apruébase el siguiente reglamento para el otorgamiento de estímulos a deportistas o ex deportistas y de dirigentes o ex dirigentes deportivos nacionales destacados a nivel nacional o internacional, según lo establecido en la letra n) del artículo 12 de la ley Nº 19.712:
 
-> **Nota.** El numeral 2° del Decreto 26, Deporte, publicado el 03.10.2023, deroga parcialmente la presente norma, manteniendo vigente lo establecido por el artículo 14º del Título III "De los Galardones a exdeportistas, dirigentes y exdirigentes destacados" a efectos de hacer entrega de los galardones en los términos indicados y en lo dispuesto por el artículo sexto transitorio del citado Decreto.
-
 ## Título I
 
 Disposiciones generales
@@ -92,15 +90,13 @@ Premios por participación destacada en Juegos Suramericanos, Juegos Panamerican
 
 #### Artículo 9º
 
-Tendrán derecho a un premio los deportistas que obtengan medalla de oro en los Juegos Suramericanos; los que obtengan medalla de oro, plata o bronce en Juegos Panamericanos, Parapanamericanos, Panamericanos Específicos y Campeonatos Mundiales; y, los deportistas que obtengan medalla de oro, plata, bronce y diploma en Juegos Olímpicos y Paralímpicos.
+Tendrán derecho a un premio los deportistas que, obtengan medalla de oro en los Juegos Suramericanos y los que obtengan medallas de oro, plata o bronce en Juegos Panamericanos, Juegos Parapanamericanos, Panamericanos Específicos, Juegos Olímpicos, Juegos Paralímpicos y Campeonatos Mundiales.
 
 Se incluye en esta categoría de premios las participaciones grupales en deportes individuales, tales como natación, atletismo, remo, ciclismo y otros. En estos casos, el monto del estímulo individual, al igual que los premios correspondientes a los deportes colectivos, se dividirá en partes iguales para cada uno de los deportistas que integren el grupo o equipo.
 
 #### Artículo 10º
 
 Los montos a que ascenderán los premios establecidos en este párrafo serán los siguientes:
-
-> **Nota.** El numeral 2 del artículo único, Deporte, publicado el 27.12.2021, modifica la presente norma en el sentido de reemplazar el literal c), por el siguiente "c) Juegos Olímpicos y Paralímpicos:"
 
 ### Párrafo 3º
 
