@@ -1,0 +1,5 @@
+SE APRUEBA "MODIFICACIÓN DE CONTRATO DE COMODATO", SUSCRITO EL 26.10.2020, ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA ILUSTRE MUNICIPALIDAD DE PUNITAQUI, RESPECTO DE PARTE DEL INMUEBLE DE PROPIEDAD DE DICHA ENTIDAD EDILICIA, UBICADO EN CALLE LAUTARO S/N, DE LA CIUDAD DE PUNITAQUI, REGIÓN DE COQUIMBO
+
+Por resolución exenta I N° 19, de 23 de noviembre de 2020, el Jefe del Departamento Administración e Inmobiliaria del Instituto de Previsión Social, aprobó la "Modificación de Contrato de Comodato" suscrita con fecha 26 de octubre de 2020, entre el Instituto de Previsión Social y la Ilustre Municipalidad de Punitaqui, por medio de la cual las partes acuerdan modificar el Contrato de Comodato, de fecha 5 de agosto de 2013, aprobado por resolución exenta N° 351, del 14 de agosto de 2013, de la Dirección Nacional, en los términos establecidos en la Cláusula Segunda del documento que se aprueba por el presente acto administrativo.-
+
+Roberto Lagos Flores, Jefe del Departamento Administración e Inmobiliaria.
