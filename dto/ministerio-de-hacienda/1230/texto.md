@@ -1070,19 +1070,29 @@ tránsito de graneles
 
 líquidos y gaseosos.
 
-24. Paso de Reigolil Temporal Paso de Personas
+24. Paso de Reigolil Temporal Paso de
 
-39°07' S (Rogativas Indígenas)
+39°07' S Personas
 
-71°25' W"
+71°25' W" (Rogativas
 
-25. Aeródromo La Permanente Paso de personas y
+Indígenas)
 
-Araucanía todo tipo de
+25. Aeródromo La Permanente Paso de
 
-38º55'33.24" S operaciones
+Araucanía personas y
 
-72º39'05.73" W aduaneras
+38º55'33.24" S todo tipo de
+
+72º39'05.73" W operaciones
+
+aduaneras
+
+26. Puerto Permanente Operaciones de
+
+Industrial importación y
+
+Cabo Froward exportación.
 
 L. SUJETOS A LA JURISDICCION DE LA ADUANA DE VALDIVIA:
 
