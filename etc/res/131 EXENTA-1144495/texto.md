@@ -60,7 +60,7 @@ b) Obras de mantención que tengan relación con la reposición de terminaciones
 
 Para estas obras podrán destinar hasta el 15% del monto evaluado, no pudiendo exceder del monto máximo asignado para las obras de habitabilidad de la vivienda (tabla 3, letra b). Lo anterior, deberá ser debidamente justificado en el Diagnóstico Técnico Constructivo (ver punto 7.6.2).
 
-Aquellos proyectos ejecutados y pagados que correspondan a llamados de años anteriores denominados "etapa preventiva", podrán postular al presente llamado, siempre y cuando presenten daños estructurales (tabla 3, letra a) producto de socavones en la vivienda, así como también los proyectos que no hayan abordado íntegramente la reposición de la red interior de alcantarillado (tabla 3, letra b). Estas partidas deberán ser presentadas y justificadas a través del Diagnóstico Técnico Constructivo señalado en punto 7.6.2 de la presente resolución, debiendo adjuntar además el presupuesto que fuere aprobado en la aludida etapa preventiva, según formato que será proporcionado por Serviu Tarapacá.
+Aquellos proyectos ejecutados y pagados que correspondan a llamados de años anteriores denominados "etapa preventiva", podrán postular al presente llamado, siempre y cuando presenten daños estructurales producto de socavones en la vivienda, así como también los proyectos que no hayan abordado íntegramente obras de habitabilidad y/o seguridad necesarios para una intervención idónea. Estas partidas deberán ser presentadas y justificadas a través del Diagnostico Técnico Constructivo señalado en punto 7.6.2 de la presente resolución, debiendo adjuntar además el presupuesto que fuere aprobado en la aludida etapa preventiva, según formato que será proporcionado por Serviu Tarapacá.
 
 ### 2. El llamado admitirá postulación individual y grupal
 
@@ -68,7 +68,7 @@ Se hace presente, que en los casos de que existiera afectación de suelo que aba
 
 3. Este llamado contará con los siguientes procesos de selección, en los cuales podrán participar los proyectos que se encuentren calificados antes las siguientes fechas:
 
-Tabla 1
+Tabla
 
 Hitos del proceso Fecha
 
@@ -98,6 +98,30 @@ Plazo máximo de 20 de julio de 2020
 
 selección
 
+Segundo proceso de selección
+
+Entrega carta de 03 de agosto de 2020
+
+programación (*)
+
+Plazo máximo de 06 de agosto de 2020
+
+ingreso proyectos
+
+Plazo máximo de 07 de septiembre de 2020
+
+calificación de
+
+proyectos
+
+(factibilidad
+
+Serviu)
+
+Plazo máximo de 24 de septiembre de 2020
+
+selección
+
 .
 
 (*) La carta de programación deberá contener información respecto a la demanda que atenderá el proyecto, como la cantidad de familias, emplazamiento, monto de subsidios, entre otros.
@@ -114,11 +138,27 @@ Se podrá disminuir los recursos del presente llamado o aumentarlos con cargo a 
 
 Los proyectos que hayan sido ingresados y revisados por la Unidad de Estudios y Proyectos de Serviu con anterioridad a la fecha de la presente resolución, podrán participar en el presente llamado, siempre que cumplan con los requisitos establecidos en este instrumento.
 
+En el evento que los recursos disponibles para el presente llamado no fueren suficientes para seleccionar la totalidad de los proyectos calificados por Serviu, la Seremi solicitará el incremento que corresponda al Ministro de Vivienda y Urbanismo, para su atención.
+
 5. Los montos máximos del subsidio a otorgar para el financiamiento de obras de Mejoramiento de la Vivienda, serán los descritos en las siguientes Tablas:
 
-Tabla 2
+Etapa única de postulación
+
+Se entiende como la postulación de proyectos asociados a unidades habitacionales que no han sido intervenidas con anterioridad por nuestro Ministerio, a través de llamados anteriores, dirigidos a viviendas emplazadas en suelo de condición salina (Socavones 1ª Etapa).
 
 .
+
+En el evento que la intervención propuesta es una postulación simultánea y esta supere los montos establecidos en el presente resuelvo para la tipología de proyecto denominada "Seguridad de la Vivienda", se podrá asignar un monto superior a las 100 UF, siempre que, en su conjunto (Seguridad y Habitabilidad), no superen las 300 UF. Esta solicitud se debe encontrar plenamente justificada en el Diagnóstico Técnico Constructivo presentado por la PSAT, el cual debe contar con la aprobación de Serviu.
+
+Si la intervención propuesta es una postulación simultánea y esta supere los montos establecidos en el presente resuelvo para la tipología de proyecto denominada "Habitabilidad de la Vivienda", se podrá asignar un monto superior a las 200 UF, siempre que, en su conjunto (Seguridad y Habitabilidad), no superen las 300 UF. Esta solicitud se debe encontrar plenamente justificada en el Diagnóstico Técnico Constructivo presentado por la PSAT, el cual debe contar con la aprobación de Serviu.
+
+Etapa complementada para proyectos no concluidos en etapas anteriores
+
+Proyectos diseñados en unidades habitacionales que ya tuvieron una primera intervención, a través de llamados anteriores efectuados por nuestro Ministerio, dirigido a viviendas emplazadas en suelo de condición salina (Socavones 1ª Etapa).
+
+.
+
+En el evento que la intervención propuesta supere los montos establecidos en la tabla N° 3 del presente resuelvo y ésta se encuentre plenamente justificada en el Diagnóstico Técnico Constructivo presentado por la PSAT y con la aprobación de Serviu, se podrá asignar un monto superior, siempre que, en su conjunto (Seguridad y Habitabilidad), no superen las 200 UF.
 
 Regularización: Tratándose de viviendas que cuenten con construcciones existentes sin recepción definitiva y que sea necesario regularizar, con el objetivo de abordar la emergencia por socavones, el subsidio se incrementará hasta en 30 UF, para la realización de obras tendientes a mejorar los estándares de lo construido y obtener la recepción definitiva de dicha ampliación.
 
