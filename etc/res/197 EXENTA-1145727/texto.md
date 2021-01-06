@@ -186,6 +186,12 @@ Los profesionales encargados de realizar las actividades vinculadas a la Gestió
 
 El Serviu podrá contratar con cargo a los recursos de asistencia técnica y de forma anticipada a la asignación de los subsidios, profesionales de las áreas constructiva, social y jurídica que requiera la asistencia técnica de los proyectos, cuando actúe como PSAT.
 
+Fiscalización Técnica de Obras (FTO): Los proyectos seleccionados a través de este Programa, desde que se inicia la obra, deberán contar con una Fiscalización Técnica de Obras (FTO).
+
+Tratándose de proyectos cuya Entidad Patrocinante sea la empresa constructora, la Fiscalización Técnica de Obras deberá ser efectuada por el Serviu, o por personas naturales o jurídicas contratadas por Serviu, inscritas en el Registro de Consultores del Minvu regulado por el DS N° 135 (V. y U.), de 1978, en el Rubro IV, Prestaciones de Asistencia Técnica, Especialidad Gestión de Proyectos Habitacionales, Subespecialidad 2201, Inspección Técnica.
+
+Asimismo, cuando a juicio del Serviu el proyecto presente una complejidad técnica mayor, para las que se requiera de una fiscalización especializada, Serviu también podrá determinar que la FTO no sea desarrollada por la EP del proyecto, sino por personas naturales o jurídicas contratadas por Serviu que cumplan con la condición señalada en el párrafo anterior.
+
 19. La selección y contratación de las PSAT será de responsabilidad de las familias postulantes, pudiendo solicitar información para estos efectos a la Seremi y/o al Serviu correspondiente.
 
 En atención a las características de las obras, estas deberán ser contratadas con constructoras inscritas en el Registro Nacional de Contratistas del Minvu (DS Nº127 (V. y U.), de 1997), que correspondan al Registro Grupo 2, B2 Obras Sanitarias, 1ª, 2ª y 3ª categoría.
@@ -353,5 +359,7 @@ e. Fotocopia vigente de Cédula de Identidad del Representante Legal del Grupo.
 f. Acta de asamblea de Difusión a las familias de los Aspectos del Programa, sus Derechos y Deberes.
 
 g. Fotocopia Simple Título Profesional Abogado asesor del grupo en materia de copropiedad.
+
+> **Nota.** La letra a) del N° 1 de la Resolución 459 Exenta, Vivienda, publicada el 06.01.2021, modifica el presente numeral en el sentido de reemplazar el plazo máximo de selección del Segundo Proceso "30 de octubre" por "desde el 30 de octubre hasta el 11 de diciembre de 2020".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Carlos Prieto Rojas, Secretario Regional Ministerial de Vivienda y Urbanismo Región de Tarapacá.
