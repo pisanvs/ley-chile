@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL "REGLAMENTO INTERNO DE HIGIENE Y SEGURIDAD EN EL TRABAJO" Y DEJA SIN EFECTO RESOLUCIÓN N° 263 EXENTA, DE 22.09.2020, DICTADA SOBRE IGUAL MATERIA
+
+Por resolución exenta N° 342, de 27 de noviembre de 2020, el Director Nacional del Instituto de Previsión Social, aprobó para el servicio su "Reglamento Interno de Higiene y Seguridad en el Trabajo", cuyo objetivo es prevenir los riesgos de accidentes del trabajo y/o enfermedades profesionales que pudieren afectar al personal del IPS, a sus visitas, sus instalaciones y medio ambiente, además de contribuir a mejorar y aumentar la seguridad en la Institución, haciendo presente que la gestión en prevención de riesgos requiere de una tarea mancomunada y estrecha, tanto de funcionarios y funcionarias, como de sus representantes, pudiendo con la mutua cooperación y acatamiento a las normas instauradas en dicho Reglamento lograr un ambiente de trabajo sano, seguro y libre de riesgos.-
+
+Patricio Coronado Rojo, Director Nacional.
