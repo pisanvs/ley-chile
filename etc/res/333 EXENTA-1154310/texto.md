@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "POLÍTICA DE SEGURIDAD FÍSICA DEL INSTITUTO DE PREVISIÓN SOCIAL", VERSIÓN 1
+
+Por resolución exenta N° 333, de 20 de noviembre de 2020, el Director Nacional del Instituto de Previsión Social, aprobó el documento denominado "Política de Seguridad Física del Instituto de Previsión Social", versión 1, cuyo objetivo es proporcionar las directrices y lineamientos a los procesos, procedimientos, medidas y acciones referidas a la seguridad de los bienes e instalaciones del IPS, a las prestaciones de servicios contratados con empresas externas, como también a los protocolos y formas de coordinación para mejorar la seguridad física del personal del IPS, contratistas y personal de servicios externos, usuarios y usuarias e inmuebles.-
+
+Patricio Coronado Rojo, Director Nacional.
