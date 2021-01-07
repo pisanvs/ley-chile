@@ -94,11 +94,7 @@ Para el ingreso de carpetas de proyectos habilitados para revisión, los Serviu 
 
 > **Nota.** El numeral 1.2 del número 2 de la de Resolución 705 Exenta, Vivienda, publicada el 05.05.2020 dispone reemplazar en el cuadro de la segunda selección del Resuelvo 6 de la presente norma, en la columna "Responsables" en la fila 3 el texto "Serviu / Minvu" por "Seremi / Minvu" y en la fila 7 el texto "Seremi" por "Minvu".
 
-> **Nota.** NOTA 1 El numeral 1.3 del número 2 de la de Resolución 705 Exenta, Vivienda, publicada el 05.05.2020, ordena reemplazar en el cuadro inserto en el Resuelvo Nº 7 de la presente norma, en el recuadro "Santiago 5" correspondiente a los recursos de las provincias de la Región Metropolitana de Santiago, a las comunas de Lo Barnechea, Vitacura y Las Condes.
-
 > **Nota.** NOTA 2 El numeral 1.1 del número 1 de la Resolución 1687 Exenta, Vivienda, publicada el 26.11.2020, dispone reemplazar en el cuadro inserto en el Resuelvo Nº 6 de la presente norma, correspondiente a los plazos de la tercera selección, en la columna Hitos del proceso en la fila "Revisión y Calificación de los proyectos" la fecha "20-11-2020" por "30-11-2020" y en la fila "Selección de beneficiarios" el texto "Desde 23-11-2020" por "Desde 01-12-2020".
-
-> **Nota.** NOTA 3 El numeral 1.2 del número 1 de la Resolución 1687 Exenta, Vivienda, publicada el 26.11.2020, dispone reemplazar en el cuadro inserto en el Resuelvo Nº 7 de la presente norma, el monto de recursos asignado a la región de "Aysén Gral. Carlos Ibáñez del C.", de "11.500,00" por"13.500,00", y el monto "Total", de "1.192.830" por "1.194.830,00".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Guillermo Rolando Vicente, Ministro de Vivienda y Urbanismo Subrogante.
 
