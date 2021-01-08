@@ -328,7 +328,7 @@ Deróganse, a contar de la fecha de publicación del presente decreto en el Diar
 
 #### Artículo transitorio
 
-Las personas que a la fecha de publicación del presente decreto contaban con autorización docente para impartir clases de religión y no cumplan con la formación mínima en pedagogía exigida en el artículo 11 de este reglamento, tendrán plazo hasta el 31 de Diciembre de 2018 para completar dichos estudios. Durante este período, el Secretario Regional Ministerial de Educación respectivo podrá renovarles anualmente dicha autorización si acreditan el cumplimiento de los demás requisitos para acceder a ella.
+Las personas que a la fecha de publicación del presente decreto contaban con autorización docente para impartir clases de religión y no cumplan con la formación mínima en pedagogía exigida en el artículo 11 de este reglamento, tendrán plazo hasta el 28 de febrero de 2025 para completar dichos estudios. Durante este período, el Secretario Regional Ministerial de Educación respectivo podrá renovarles anualmente dicha autorización si acreditan el cumplimiento de los demás requisitos para acceder a ella.
 
 Anótese, tómese razón, publíquese e insértese en la Recopilación Oficial de la Contraloría General de la República.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Sergio Bitar Chacra, Ministro de Educación.
 
