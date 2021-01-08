@@ -1,0 +1,5 @@
+AUTORIZA A PESCA CHILE S.A. PARA OPERAR NAVES QUE INDICA EN ÁREAS SEÑALADAS, DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO 12 TRANSITORIO DE LA LEY GENERAL DE PESCA Y ACUICULTURA, AÑO 2021
+
+Por resolución exenta N° 2.933, de 30 de diciembre de 2020, de esta Subsecretaría, autorízase a Pesca Chile S.A. para realizar operaciones pesqueras a contar del 1° de enero de 2021 y hasta el 31 de diciembre del mismo año, ambas fechas inclusive, con los barcos fábricas "Puerto Ballena", "Cabo de Hornos", "Puerto Toro" en el área marítima comprendida entre los paralelos 44°30' LS y 57° LS; con el barco fábrica "Diego Ramírez", en el área marítima comprendida entre los paralelos 44°30' LS y 47° LS y con el barco fábrica "Antarctic Endeavour", en el área marítima comprendida entre los paralelos 47° LS y 57° LS, sobre los recursos y con las obligaciones establecidas en sus respectivas autorizaciones.
+
+Valparaíso, 30 de diciembre de 2020.- José Pedro Núñez Barruel, Subsecretario de Pesca y Acuicultura (S).
