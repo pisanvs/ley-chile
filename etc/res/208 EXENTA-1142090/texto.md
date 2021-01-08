@@ -166,10 +166,6 @@ La asignación de los subsidios que se hayan reservado, será sancionada por res
 
 Solo se permitirá la postulación de un integrante del grupo familiar que comparta el mismo instrumento de caracterización socioeconómica. Dicho Instrumento no podrá ser invocado si ya ha sido utilizado para acreditar núcleo familiar en postulaciones a otros programas de subsidio habitacional de este Ministerio.
 
-> **Nota.** El numeral 3° de la Resolución 1294 Exenta, Vivienda, publicada el 03.09.2020. modifica la presente norma, en el sentido de sustituir en la tabla inserta en el resuelvo 2º, las filas relativas a las regiones de O'Higgins, del Maule, de Ñuble, del Biobío, de La Araucanía, de Los Ríos, de Los Lagos y de Magallanes, correspondientes al primer cierre, y conforme a ella, fíjase un nuevo número de cupos de subsidios por región para los proyectos seleccionados, por los que la citada norma indica.
-
-> **Nota.** NOTA 1 El numeral 3 de la Resolución 1503 Exenta, Vivienda, publicada el 22.10.2020 modifica la tabla inserta en el resuelvo 2 de la presente norma en el sentido de sustituir las filas relativas a las regiones de Arica y Parinacota, de Tarapacá, de Antofagasta, de Atacama, de Coquimbo, de Valparaíso, de Aysén y Metropolitana, correspondientes al segundo cierre, y conforme a ella, fijando, asimismo, un nuevo número de cupos de subsidios por región para los proyectos seleccionados, por aquellos que la citada norma indica.
-
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
