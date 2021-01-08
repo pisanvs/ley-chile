@@ -1,0 +1,13 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "CENTRO COMERCIAL MALL VIVO SANTIAGO ETAPA II"
+
+De conformidad con lo dispuesto en el artículo 94 del DS N° 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta N°616/2020, del Servicio de Evaluación Ambiental de la Región Metropolitana de Santiago, de 14 de diciembre de 2020, se ha resuelto dar inicio a un proceso de participación ciudadana, por un plazo de 20 días hábiles de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del proyecto "Centro Comercial Mall Vivo Santiago Etapa II", cuyo titular es Inmobiliaria Vivo Santiago SpA.
+
+Que, conforme a la descripción y naturaleza del proyecto "Centro Comercial Mall Vivo Santiago Etapa II", consiste en la construcción y operación de un proyecto inmobiliario que consta de locales comerciales, restaurantes, gimnasio, oficinas, preuniversitario, cines, consulta médica, vivienda y apart hotel, lo anterior, en una torre de 30 pisos y 7 subterráneos. Se proyectan 2.504 estacionamientos, de los cuales 2.187 corresponden al centro comercial y 317 a la torre de departamentos. Adicionalmente, el Proyecto contempla 1.247 estacionamientos para bicicletas. El Proyecto se localiza en Avenida Vicuña Mackenna con Carlos Dittborn, contiguo a la estación del Metro Ñuble, específicamente en Av. Vicuña Mackenna N°1958-1962-1966, Ñuñoa, provincia de Santiago, Región Metropolitana.
+
+Que, conforme a la sentencia de la Excelentísima Corte Suprema, de 19 de octubre de 2020, recaída en la causa Rol N° 62.662-2020, resolvió revocar la sentencia apelada Ilma. Corte de Apelaciones, y ordenar que esta Dirección Regional proceda a dar inicio a un proceso de participación ciudadana conforme a lo dispuesto en el artículo 30 bis de la ley 19.300.
+
+En virtud de lo anterior, y conforme al artículo 30° bis de la Ley 19.300; y los artículos 94 y 95 del Reglamento del Sistema de Evaluación de Impacto Ambiental, la comunidad podrá realizar observaciones a la Declaración de Impacto Ambiental dentro de un plazo de 20 días hábiles, contados desde la presente publicación.
+
+El texto íntegro de la resolución exenta antes individualizada puede ser conocido en: Dirección Regional del SEA Región Metropolitana, calle Miraflores N° 178, piso 3, Santiago. Sitio web www.sea.gob.cl.-
+
+Andelka Vrsalovic Melo, Directora Regional, Servicio de Evaluación Ambiental Región Metropolitana de Santiago.
