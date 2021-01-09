@@ -20,7 +20,7 @@ Resuelvo:
 
 1.- Declárase que no tienen responsabilidad penal ni pecuniaria las personas naturales o jurídicas, que tengan partes o derivados de cetáceos, aves, reptiles y mamíferos marinos, individualizados en el decreto supremo número 225, cuya data de adquisición es anterior al 11 de noviembre de 1995, fecha de publicación del decreto exento número 225, citado en Vistos, toda vez que a contar de la publicación del referido cuerpo normativo la transgresión a la veda extractiva nacional, por treinta años, respecto de mamíferos marinos, aves y reptiles, genera una responsabilidad pecuniaria como así también a contar de la incorporación del artículo 135 bis a la Ley General de Pesca y Acuicultura, también citada en Vistos, genera una responsabilidad penal.
 
-2.- Establécese, para los efectos de la aplicación del numeral anterior, esto es que la fecha de adquisición de los referidos restos o partes es anterior al día 11 de noviembre de 1995, de acuerdo al siguiente procedimiento que estará a cargo de la Unidad de Rescate, Rehabilitación, Reinserción y Conservación de Especies Protegidas, en adelante la Unidad:
+2.- Establécese, para los efectos de la aplicación del numeral anterior, esto es que la fecha de adquisición de los referidos restos o partes es anterior al día 11 de noviembre de 1995, de acuerdo al siguiente procedimiento que estará a cargo de la Unidad de Conservación y Biodiversidad, en adelante la Unidad:
 
 A.- Acredítese, por el tenedor de los restos referidos en el Resuelvo 1.- de la presente resolución y a su costa, mediante una declaración jurada ante notario público, que la data de su adquisición es anterior al 11 de noviembre del año 1995.
 
@@ -31,5 +31,7 @@ C.- Emítase por el Director Nacional del Servicio, o quien le subrogue, un cert
 3.- En caso de controversia sobre la data de la tenencia deberá acompañarse, por el tenedor respectivo, un informe emitido por una persona natural o jurídica que, por su expertiz en la materia, dé cuenta de la referida data.
 
 4.- La presente resolución tendrá una vigencia de cinco años a contar de la fecha de su publicación en el Diario Oficial.
+
+> **Nota.** El numeral I de la Resolución 238 Exenta, Economía, publicada el 09.01.2021, prorroga indefinidamente la presente norma que estableció el "Procedimiento que Reconoce Tenencia Legal de Restos, Partes o Derivados de Aves, Reptiles y Mamíferos Marinos".
 
 Anótese y publíquese en el Diario Oficial.- Alicia Gallardo Lagno, Directora Nacional (S), Servicio Nacional de Pesca y Acuicultura.
