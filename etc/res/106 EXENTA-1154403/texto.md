@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 106 EXENTA, DE 10 DE FEBRERO DE 2015
+
+Por resolución exenta N° 106, de 10 de febrero de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, se resolvió modificar la resolución exenta N° 733, de 17 de noviembre de 2014, de esa Secretaría Regional, mediante la cual se otorgó reconocimiento oficial a la Escuela de Conductores Profesionales "Escuela de Conductores y Capacitaciones Nancy Velásquez Parra E.I.R.L. o Escuela de Conductores Ancud E.I.R.L.", RUT N° 76.321.951-8, representada por la Sra. Nancy Yenny Velásquez Parra; en el sentido de autorizar a la referida escuela a impartir, además, los cursos conducentes a la obtención de licencias de conducir clases A4 y A5, en la sede ubicada en calle Federico Errázuriz N° 356, de la ciudad de Ancud.-
+
+Enrique Cárdenas Inostroza, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
