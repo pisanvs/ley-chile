@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 3.462 EXENTA, DE 19 DE NOVIEMBRE DE 2020
+
+Por resolución exenta N° 3.462, de fecha 19 de noviembre de 2020, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Región Metropolitana de Santiago, se autorizó a Escuela de Conductores No Profesionales o Clase B denominada "ABC Escuela de Conductores Limitada" o "ABC Conducción Ltda.", RUT N° 77.651.130-7, domiciliada en Marcoleta N° 532, comuna de Santiago, cuya representante legal es la señora Ivonne Inostroza Elgueta, cédula de identidad N° 8.046.091-0, para impartir curso conducente a obtención de Licencia de Conductor Clase B, en modalidad e-learning, bajo el formato de ejecución sincrónico.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región Metropolitana de Santiago.
