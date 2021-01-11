@@ -1,0 +1,35 @@
+DECLARA ABANDONADO EL PROCEDIMIENTO ADMINISTRATIVO PARA ESTABLECER EL ESPACIO COSTERO MARINO DE LOS PUEBLOS ORIGINARIOS QUE SE INDICA
+
+Núm. 4 exenta.- Valparaíso, 5 de enero de 2021.
+
+Visto:
+
+La solicitud de establecimiento de espacio costero marino de los pueblos originarios presentado por la Asociación de Comunidades del Rilon Kawin, integrada por las Comunidades Indígenas Willilafkenches, Lof Ñanco Coihuin, Rayen Ragintu Lewfu, Naiman, Chaucamó de Metri, Nahuelquen, Hijos de Mar, Kallfü Kurra Velásquez Rantul, Trayenko Mapu, Quiñel Huichaquilen Quinan, Panitao, Huenulef Antillanca, Tren Tren, Mongnen Lafken, ingresada con el C.I. Subpesca Nº 6.951, complementado por el Nº 13.418, ambos de 2018; lo informado por la División de Desarrollo Pesquero de esta Subsecretaría mediante memorándum (DDP) Nº 523, de fecha 31 de diciembre de 2020; la ley Nº 20.249 y su Reglamento contenido en el DS Nº 134, de 2008, del actual Ministerio de Desarrollo Social y Familia; la ley Nº 19.880; las Cartas (DDP) Nºs. 2141, 2142, 2143, 2144, 2145, 2146, 2147, 2148, 2149, 2150, 2151, 2152, 2208, 3269, 3270, 3271, 3272, 3273, 3274, 3275, 3276, 3277, 3278, 3279, 3280, 3281 y 3282, todas de 2020 y de esta Subsecretaría; y las resoluciones exentas Nºs. 629, de 2019, 886 y 2.305, ambas de 2020, todas de esta Subsecretaría.
+
+Considerando:
+
+1.- Que las comunidades indígenas Willilafkenches, Lof Ñanco Coihuin, Rayen Ragintu Lewfu, Naiman, Chaucamó de Metri, Nahuelquen, Hijos de Mar, Kallfü Kurra Velásquez Rantul, Trayenko Mapu, Quiñel Huichaquilen Quinan, Panitao, Huenulef Antillanca, Tren Tren, Mongnen Lafken, mediante el C.I. Subpesca Nº 6.951, complementado por el Nº 13.418, ambos de 2018, solicitaron el establecimiento de un espacio costero marino de los pueblos originarios en la comuna de Puerto Montt, Región de Los Lagos, denominado "Rilon Kawin", el cual fue declarado admisible mediante la resolución exenta Nº 629, de 2019, de esta Subsecretaría.
+
+2.- Que, conforme al inciso 2º del artículo 5º del DS Nº 134, de 2008, del actual Ministerio de Desarrollo Social y Familia, en caso de sobreposición parcial, esta Subsecretaría propondrá al solicitante una modificación del espacio costero solicitado, limitado al espacio sobre el cual no exista sobreposición, en cuyo caso la peticionaria tendrá el plazo de 30 días hábiles para aceptar la propuesta, bajo el apercibimiento de declarar abandonado el procedimiento, según establece el artículo 43 de la ley Nº 19.880.
+
+3.- Que, esta Subsecretaría mediante cartas citadas en visto, comunicó a las peticionarias la existencia de sobreposición parcial con otras afectaciones geográficas, proponiendo una modificación del sector solicitado excluyendo aquellos espacios en que no existe sobreposición, otorgándole un plazo de 30 días hábiles para aceptar la propuesta.
+
+4.- Que, mediante cartas citadas en visto, se apercibió a las comunidades indicándoles que, de no aceptar la propuesta de modificación del sector de esta Subsecretaría, dentro del plazo de 7 días hábiles, se declararía abandonado el procedimiento.
+
+5.- Que, mediante el memorándum (DDP) citado en visto, se informa que a la fecha no se ha obtenido respuesta de parte de las comunidades indígenas solicitantes del Espacio Costero Marino de los Pueblos Originarios antes individualizado.
+
+6.- Que, no habiéndose aceptado dentro de plazo la propuesta de modificación de esta Subsecretaría, corresponde declarar abandonado el procedimiento de establecimiento de un espacio costero marino de los pueblos originarios denominado "Rilon Kawin".
+
+Resuelvo:
+
+1°.- Declárase abandonado el procedimiento administrativo iniciado con la solicitud para el establecimiento de un espacio costero marino de los pueblos originarios denominado "Rilon Kawin", declarado admisible en virtud de la resolución exenta Nº 629, de 2019, de esta Subsecretaría, presentada por las comunidades indígenas Willilafkenches, Lof Ñanco Coihuin, Rayen Ragintu Lewfu, Naiman, Chaucamó de Metri, Nahuelquen, Hijos de Mar, Kallfü Kurra Velásquez Rantul, Trayenko Mapu, Quiñel Huichaquilen Quinan, Panitao, Huenulef Antillanca, Tren Tren, Mongnen Lafken, todas con domicilio en Kilómetro 25, Metri, Región de Los Lagos, casillas electrónicas rilonkawin@gmail.com y alexisorlando@gmail.com; conforme a lo expuesto en la parte considerativa de la presente resolución, y a lo dispuesto en los artículos 43 de la ley Nº 19.880, y 5º inciso 2º del DS Nº 134, de 2008, del Ministerio de Desarrollo Social y Familia.
+
+2°.- La presente resolución comenzará a regir a partir de su publicación en el Diario Oficial.
+
+3°.- La presente resolución podrá ser impugnada por la interposición del recurso de reposición contemplado en el artículo 59 de la ley 19.880, ante esta misma Subsecretaría y dentro del plazo de 5 días hábiles contados desde la respectiva notificación, sin perjuicio de la aclaración del acto dispuesta en el artículo 62 del citado cuerpo legal y de las demás acciones y recursos que procedan de conformidad con la normativa vigente.
+
+4°.- Transcríbase copia de la presente resolución a los interesados Empresas Oxxean S.A., RUT Nº 79.849.900-9, y Puerto Caullahuapi S.A., RUT 76.116.759-6, ambas domiciliadas en Camino Chinquihue Km. 13.5, Puerto Montt, casilla electrónica jmancilla@oxxcean.cl, Construcciones y Obras Marinas Astilleros Vergara Limitada, RUT 76.134.720-9, domiciliada en Camino Chinquihue Km. 6, Puerto Montt, casillas electrónicas avergarag@comavsa.cl, oreyes@comavsa.cl y alex.matute@gmail.com, Salmones Blu Mar S.A., RUT 76.653.690-5, domiciliado en Av. Juan Soler Manfredini Nº 11, Edificio Torre Plaza, oficina 1202, Puerto Montt, casilla electrónica pflores@lormar.cl, Transportes Marítimos Kochifas S.A., RUT 77.873.840-6, domiciliada en Camino a Chinquihue, Km. 7, Puerto Montt, Región de Los Lagos, casillas electrónicas jgarcia@transmarko.cl y segurosjosegarcia@gmail.com, Pesquera Trans Antartic Limitada, RUT 76.169.670-K, domiciliada en Camino Chinquihue s/n, Km. 6, Puerto Montt, Región de Los Lagos, casillas electrónicas pflores@lormar.cl y smartinez@lormar.com, y Fundación Chinquihue, RUT Nº 71.554.600-0, domiciliada en Camino Chinquihue s/n, Km. 12, Puerto Montt, Región de Los Lagos.
+
+5°.- Transcríbase copia de la presente resolución a la Comisión Regional de Uso de Borde Costero de la Región de Los Lagos, al Departamento de Concesiones Marítimas de la Dirección General del Territorio Marítimo y de Marina Mercante, al Servicio Nacional de Pesca y Acuicultura, a la Dirección Nacional de la Corporación Nacional de Desarrollo Indígena, a la Subsecretaría para las Fuerzas Armadas, y a las Divisiones de Desarrollo Pesquero y Jurídica, ambas de esta Subsecretaría.
+
+Anótese, comuníquese, publíquese a texto íntegro en el Diario Oficial por cuenta de esta Subsecretaría, notifíquese y archívese.- Román Zelaya Ríos, Subsecretario de Pesca y Acuicultura.
