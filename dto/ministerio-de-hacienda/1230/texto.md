@@ -274,7 +274,7 @@ punto San Pedro de
 
 Atacama.
 
-7.San Pedro Permanente Paso de personas y
+7.San Pedro Ocasional Paso de personas y
 
 de Atacama todo tipo de opera-
 
@@ -306,7 +306,9 @@ ciones aduaneras.
 
 controladas en punto
 
-San Pedro de Atacama.
+San Pedro de
+
+Atacama.
 
 12.Paso Sico Permanente Paso de personas y
 
@@ -316,7 +318,9 @@ San Pedro de Atacama.
 
 controladas en punto
 
-San Pedro de Atacama.
+San Pedro de
+
+Atacama.
 
 13.Laguna Sico Permanente Paso de personas y
 
@@ -342,23 +346,29 @@ ciones aduaneras.
 
 16.Sector Norte Permanente Paso de personas e
 
-importación, exportación
+importación,
 
-Paso Jama Norte y tránsito de graneles
+exportación
 
-23º13'S líquidos y gaseosos
+Paso Jama Norte y tránsito de
 
-67º03'w
+23º13'S graneles líquidos y
+
+67º03'w gaseosos
 
 17.Sector Sur Permanente Paso de personas e
 
 Paso Jama Sur importación,
 
-23º13'S exportacióny tránsito
+23º13'S exportación y
 
-67º03'W de graneles
+67º03'W tránsito de
 
-líquidos y gaseosos
+graneles
+
+líquidos y
+
+gaseosos
 
 18.Terminal
 
@@ -372,11 +382,13 @@ GNL Mejillones Permanente Paso de tripulantes,
 
 graneles líquidos y
 
-gaseosos, transporte,
+gaseosos,
 
-rancho de naves y
+transporte,
 
-traslado de
+rancho de naves
+
+y traslado de
 
 desperdicios.
 
@@ -1080,11 +1092,11 @@ Indígenas)
 
 25. Aeródromo La Permanente Paso de
 
-Araucanía personas y
+Araucanía personas
 
-38º55'33.24" S todo tipo de
+38º55'33.24" S y todo tipo
 
-72º39'05.73" W operaciones
+72º39'05.73" W de operaciones
 
 aduaneras
 
