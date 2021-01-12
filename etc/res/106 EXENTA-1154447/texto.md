@@ -1,0 +1,7 @@
+EXTRACTO RESOLUCIÓN N° 106 EXENTA, DE 14 DE DICIEMBRE DE 2020, DE LA SUBSECRETARÍA DE LA NIÑEZ, QUE ACREDITA A LA FUNDACIÓN "JUNTOS CONTIGO" PARA OTORGAR LOS PROGRAMAS DE ACOMPAÑAMIENTO PROFESIONAL A NIÑOS, NIÑAS Y ADOLESCENTES Y SUS FAMILIAS, EN EL CENTRO QUE INDICA, EN LOS TÉRMINOS DE LA LEY N° 21.120 Y SU REGLAMENTO
+
+ACREDITACIÓN FUNDACIÓN JUNTOS CONTIGO
+
+Mediante resolución exenta N° 106, de fecha 14 de diciembre de 2020, de la Subsecretaria de la Niñez (S), Blanquita Honorato Lira, se acreditó a la Fundación "Juntos Contigo", para otorgar los programas de acompañamiento profesional a niños, niñas y adolescentes y sus familias, en el centro que indica, en los términos de la ley N° 21.120 y su reglamento, resolviendo: 1. Acredítase a la Fundación "Juntos Contigo", representada legalmente por don Juan Carlos Tapia Ciudad, cédula de identidad N° 10.033.520-4, para otorgar los programas de acompañamiento profesional a niños, niñas y adolescentes y sus familias, en la Unidad de Atención La Reina, ubicada en Blest Gana N° 5903, casa J, comuna de La Reina, Santiago, en los términos de la ley N° 21.120 y su reglamento, de acuerdo al detalle establecido y sujetándose a los términos contenidos en el Formulario de Postulación para acreditación de personas jurídicas sin fines de lucro que pueden otorgar los programas de acompañamiento profesional en los términos de la ley N° 21.120 y su reglamento, adjunto a este acto administrativo.-
+
+Blanquita Honorato Lira, Subsecretaria de la Niñez.
