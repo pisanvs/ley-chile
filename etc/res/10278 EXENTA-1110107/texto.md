@@ -30,6 +30,8 @@ La presente resolución fija el Procedimiento de Aplicación Práctica del Progr
 
 Para lo anterior, podrán postular parques de todas las regiones del país, existentes, incluyéndose en ellos aquellos que se encuentren en etapa de diseño o construcción, que tengan una superficie superior a dos hectáreas.
 
+Asimismo, mediante resolución del Subsecretario de Vivienda y Urbanismo, se podrá autorizar la convocatoria a postulación solo para una o más regiones prioritarias que fundadamente determine. Para esto señalará los requisitos y antecedentes de ingreso al concurso, tales como época de construcción del parque, entidad ejecutora, etapa de desarrollo (en diseño, construcción o existente), presupuesto contemplado para dicha convocatoria y otras condiciones específicas que serán exigibles a los parques que sean convocados, considerando siempre, a lo menos, los factores y puntajes de selección establecidos en el artículo 5° de la resolución exenta N° 10.278 (V. y U.), de 2017, en relación con el artículo 7 del DS 112 (V. y U.), de 2014.
+
 #### Artículo 2°
 
 Sin perjuicio de lo anterior, se excluirá a la Región Metropolitana de la postulación a los llamados que se efectúen en el marco del Programa de Conservación de Parques Urbanos, atendido que actualmente ya cuenta con un servicio especial de conservación de parques urbanos a través del Parque Metropolitano de Santiago.
@@ -112,19 +114,17 @@ La Subsecretaría de Vivienda y Urbanismo aportará a cada Comisión Calificador
 
 Para efectos del cálculo del factor PF4, en caso de postulación a la conservación de parques que se hayan desarrollado por etapas que tengan distintos años de recepción, se deberá contabilizar la fecha de recepción de aquella etapa más reciente.
 
-5. Aportes de Otras Instituciones (PF5): Corresponderá un puntaje de acuerdo al aporte voluntario de financiamiento para la conservación del parque que se haya comprometido por otras entidades distintas al Ministerio de Vivienda y Urbanismo, durante todo el plazo de permanencia del parque en el Programa y de acuerdo a la siguiente fórmula y rangos:
+5. Aportes de Otras Instituciones (PF5): Corresponderá un puntaje de acuerdo al aporte mínimo de financiamiento comprometido por otras entidades distintas al Ministerio de Vivienda y Urbanismo para la conservación del parque durante todo el plazo de permanencia en el Programa y de acuerdo a los siguientes rangos:
 
 .
 
-Una vez seleccionado el parque y elaborado el presupuesto estimado de conservación por parte del Serviu, se verificará que el monto de aporte no supere el 30% disponible conforme a lo dispuesto en el artículo 5° del DS N° 112 (V. y U.), de 2014, ajustándose de ser necesario el monto de aporte a realizar durante el proceso de implementación de la conservación.
+Una vez seleccionado el parque y elaborado por parte del Serviu el presupuesto de conservación estimado, se verificará que el monto de aporte no supere el 30% del mismo, conforme a lo dispuesto en el artículo 5° del DS N° 112 (V. y U.), de 2014, ajustándose, de ser necesario, el monto del aporte a realizar durante el proceso de implementación de la conservación.
 
 6. Características del Parque (PF6): Corresponderá un puntaje de acuerdo a las características y elementos del parque que reduzcan su costo de conservación y que lo hagan más sustentable en aspectos, sociales y ambientales. El puntaje del factor deberá calcularse de acuerdo a la siguiente tabla, sumando los puntos que corresponda a cada elemento, con un máximo de 10 puntos. Si el parque no tiene alguno de los elementos no deberá sumarse el puntaje de dicho elemento. Para respaldar la existencia de cada elemento este deberá indicarse e individualizarse en el plano al que hace referencia el segundo punto del artículo 4°.
 
 .
 
-7. Antigüedad de la Postulación (PF7): Corresponderá al número de veces que el Parque haya postulado válidamente al Programa y que haya obtenido un puntaje igual o superior al promedio regional, con un máximo de 10 puntos. Para parques que postulen por primera vez les corresponderá un puntaje PF7=1.
-
-8. Corredor ecológico asociado a curso o cuerpo de agua (PF8): Corresponderá un puntaje PF8=10 para aquellos parques que se ubiquen de forma adyacente a un curso o cuerpo de agua natural. En el caso de parques que no estén asociados a un curso o cuerpo de agua, les corresponderá un puntaje PF8=1.
+7. Corredor ecológico asociado a curso o cuerpo de agua (PF7): Corresponderá un puntaje PF8=10 para aquellos parques que se ubiquen de forma adyacente a un curso o cuerpo de agua natural. En el caso de parques que no estén asociados a un curso o cuerpo de agua, les corresponderá un puntaje PF8=1.
 
 #### Artículo 6°
 
@@ -146,7 +146,7 @@ Una vez recibida la lista regional priorizada y los antecedentes complementarios
 
 El Subsecretario de Vivienda y Urbanismo realizará la selección definitiva de las iniciativas a nivel nacional que cumplan con todos los requisitos, de acuerdo a lo señalado en el artículo 10 del DS N° 112 (V. y U.), de 2014. En dicha selección definitiva deberán primar aquellas postulaciones ubicadas en regiones que cuenten con el menor número de parques atendidos por el Programa. La selección definitiva será informada a la Secretaría Regional Ministerial de Vivienda y Urbanismo correspondiente, indicando los puntajes, el orden de prelación y las razones de eventuales exclusiones o rechazos de postulaciones recibidas. La Secretaría Regional Ministerial de Vivienda y Urbanismo, a su vez, comunicará estos resultados a los postulantes.
 
-El Subsecretario de Vivienda y Urbanismo quedará facultado para incorporar un parque adicional a nivel nacional por cada año presupuestario. Para la selección de dicha iniciativa la Secretaría Regional Ministerial de Vivienda y Urbanismo (Seremi) podrá recibir postulaciones fuera de plazo, las cuales deberán contener los mismos antecedentes solicitados en el último llamado realizado. Para su incorporación al Programa dicha iniciativa deberá lograr un puntaje de postulación que le permita ubicarse en el orden de prelación regional inmediatamente después de la iniciativa seleccionada en el último llamado realizado. En los casos en que el parque sea parte de un Plan de Reconstrucción y que a su vez su conservación disminuya los riesgos asociados al desastre natural que dio origen a dicho Plan, no será requisito considerar el puntaje obtenido.
+Inciso Eliminado
 
 DE LA IMPLEMENTACIÓN
 
