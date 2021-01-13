@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 3.543 EXENTA, DE 15 DE DICIEMBRE DE 2020
+
+Por resolución exenta N° 3.543, de fecha 15 de diciembre de 2020, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Región Metropolitana de Santiago, se autorizó a Escuela de Conductores No Profesionales o Clase C denominada "Capacitación para Conductores de Vehículos Motorizados SpA", nombre de fantasía "Escuela Nacional de Movilidad Segura", RUT N° 76.526.677-7, domiciliada en Avenida Departamental N° 4500, comuna de Macul, cuyo representante legal es el señor Domingo Cristián Sanhueza Rebolledo, para impartir curso conducente a obtención de Licencia de Conductor Clase C, en modalidad e-learning.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana de Santiago.
