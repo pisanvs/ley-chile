@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.471 EXENTA, DE 16 DE DICIEMBRE DE 2020
+
+Mediante resolución exenta N° 1.471, de fecha 16 de diciembre de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Antofagasta, se autorizó a la Escuela de Conductores Profesionales "Panamericana Limitada", RUT N° 77.292.150-0, representada legalmente por doña Angélica Ortiz Mujica, cédula de identidad N° 6.649.405-5, y don Waldo Saldaño Alegre, cédula de identidad N° 6.897.262­-0, para impartir los cursos conducentes a la obtención de la Licencia de Conductor Profesional Clases A-2, A-3 y A-4 regular, en la modalidad e-learning, bajo el formato de ejecución sincrónico y asincrónico.-
+
+Juan Enrique Jara Opazo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Antofagasta.
