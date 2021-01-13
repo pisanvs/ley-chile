@@ -1,0 +1,273 @@
+DISPONE MEDIDAS SANITARIAS QUE INDICA POR BROTE DE COVID-19
+
+Núm. 23 exenta.- Santiago, 11 de enero de 2021.
+
+Visto:
+
+Lo dispuesto en el artículo 19 N° 1 y Nº 9 de la Constitución Política de la República; en el Código Sanitario; en el decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979, y de las leyes N° 18.933 y N° 18.469; en el Reglamento Sanitario Internacional, promulgado a través del decreto supremo Nº 230, de 2008, del Ministerio de Relaciones Exteriores; en el decreto supremo Nº 136, de 2004, del Ministerio de Salud, Reglamento Orgánico del Ministerio de Salud; en el decreto Nº 4, de 2020, del Ministerio de Salud, que decreta Alerta Sanitaria por el período que se señala y otorga facultades extraordinarias que indica por Emergencia de Salud Pública de Importancia Internacional (ESPII) por brote del nuevo coronavirus (2019-NCOV); en el decreto supremo Nº 104, de 2020, del Ministerio del Interior y Seguridad Pública, que declara estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile, prorrogado por los decretos supremos Nº 269, Nº 400 y Nº 646, de 2020, de la misma cartera de Estado; en el decreto supremo Nº 9, de 2020, del Ministerio de Salud, que Establece coordinación por Emergencia de Salud Pública de Importancia Internacional que indica y designa Ministro Coordinador; en el Código Penal; en la ley Nº 21.240 que modifica el Código Penal y la ley Nº 20.393 para sancionar la inobservancia del aislamiento u otra medida preventiva dispuesta por la autoridad sanitaria, en caso de epidemia o pandemia; en el artículo 10 de la ley Nº 10.336 de organización y atribuciones de la Contraloría General de la República; en la resolución Nº 7, de 2019, de la Contraloría General de la República, y
+
+Considerando:
+
+1. Que, al Ministerio de Salud le compete ejercer la función que le corresponde al Estado de garantizar el libre e igualitario acceso a las acciones de promoción, protección y recuperación de la salud y de rehabilitación de la persona enferma; así como coordinar, controlar y, cuando corresponda, ejecutar tales acciones.
+
+2. Que, a esta Secretaría de Estado le corresponde ejercer la rectoría del sector salud y velar por la efectiva coordinación de las redes asistenciales, en todos sus niveles.
+
+3. Que, asimismo, esta Cartera debe efectuar la vigilancia en salud pública y evaluar la situación de salud de la población. En el ejercicio de esta función, le compete mantener un adecuado sistema de vigilancia epidemiológica y control de enfermedades transmisibles y no transmisibles, investigar los brotes de enfermedades y coordinar la aplicación de medidas de control.
+
+4. Que, asimismo, a esta Cartera le corresponde velar por que se eliminen o controlen todos los factores, elementos o agentes del medio ambiente que afecten la salud, la seguridad y el bienestar de la población.
+
+5. Que, como es de público conocimiento, a partir de la segunda quincena de diciembre de 2019 hasta la fecha se ha producido un brote mundial del virus denominado coronavirus-2 del síndrome respiratorio agudo grave (SARS-CoV-2) que produce la enfermedad del coronavirus 2019 o Covid -19.
+
+6. Que, con fecha 30 de enero de 2020, el Director General de la Organización Mundial de la Salud, en adelante OMS, declaró que el brote de Covid-19 constituye una Emergencia de Salud Pública de Importancia Internacional (ESPII), de conformidad a lo dispuesto en el artículo 12 del Reglamento Sanitario Internacional, aprobado en nuestro país por el decreto supremo Nº 230, de 2008, del Ministerio de Relaciones Exteriores.
+
+7. Que, el 11 de marzo de 2020 la OMS concluyó que el Covid-19 puede considerarse como una pandemia.
+
+8. Que, hasta la fecha, a nivel mundial, más de 90 millones personas han sido confirmadas con la enfermedad, produciéndose más de 1.9 millones fallecidos.
+
+9. Que, en Chile, hasta la fecha 645.892 personas han sido diagnosticadas con Covid-19, de las cuales 22.309 se encuentran activas, existiendo 17.162 personas fallecidas contagiadas por la enfermedad.
+
+10. Que, el 5 de febrero de 2020, este Ministerio dictó el decreto Nº 4, que decreta Alerta Sanitaria por el período que se señala y otorga facultades extraordinarias que indica por Emergencia de Salud Pública de Importancia Internacional (ESPII) por brote del nuevo coronavirus (2019-NCOV).
+
+11. Que, el señalado decreto Nº 4 entrega facultades extraordinarias a este Ministerio y a los organismos descentralizados que de él dependen. Así, para el ejercicio de dichas facultades es necesario la dictación de un acto administrativo que deje constancia, permitiendo la ejecución de las medidas que ahí se disponen. Asimismo, debido a que el brote de Covid-19 afecta a todo el país, las medidas que se dispongan deben ser aplicadas en todo el territorio nacional o en la parte del territorio que se determine.
+
+12. Que, es función del Ministerio de Salud ejercer la rectoría del sector salud. Que, asimismo, al Ministro le corresponde la dirección superior del Ministerio.
+
+13. Que, con fecha 18 de marzo de 2020, Su Excelencia el Presidente de la República declaró estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile, en virtud del decreto supremo Nº 104, de 2020, del Ministerio del Interior y Seguridad Pública. Así, el artículo 4º de dicho decreto dispone que, para el ejercicio de las facultades que ahí se entregan, "los Jefes de la Defensa Nacional deberán tomar en consideración las medidas sanitarias dispuestas para evitar la propagación del Covid-19, en actos administrativos dictados por el Ministro de Salud". Dicho estado de excepción constitucional fue prorrogado a través de los decretos supremos Nº 269, Nº 400 y Nº 646, ambos de 2020, del Ministerio del Interior y Seguridad Pública.
+
+14. Que, a la fecha se han dictado diversas resoluciones exentas del Ministerio de Salud, que disponen medidas sanitarias que indican por brote de Covid-19.
+
+15. Que, sin perjuicio de lo anterior, la situación epidemiológica del brote de Covid-19 se encuentra en pleno desarrollo, por lo que es necesario actualizar, en breves plazos, las medidas sanitarias que se disponen para el control de la emergencia descrita.
+
+16. Que, por lo señalado anteriormente y en uso de las facultades que me confiere la ley:
+
+Resuelvo:
+
+1. Dispóngase que las localidades que se indican a continuación retrocederán al "Paso 1: Cuarentena" del que trata el Capítulo II de la resolución exenta Nº 591, de 2020, del Ministerio de Salud.
+
+### 1. Región de Antofagasta
+
+i. La comuna de Antofagasta
+
+ii. La comuna de Mejillones.
+
+### 2. Región del Libertador General Bernardo O'Higgins
+
+i. La comuna de San Vicente.
+
+### 3. Región del Maule
+
+i. La comuna de Teno.
+
+### 4. Región del Biobío
+
+i. La comuna de Concepción
+
+ii. La comuna de Chiguayante
+
+iii. La comuna de Hualqui
+
+iv. La comuna de San Pedro de la Paz
+
+v. La comuna de Talcahuano.
+
+### 5. Región de La Araucanía
+
+i. La comuna de Galvarino
+
+ii. La comuna de Renaico
+
+iii. La comuna de Temuco
+
+iv. La comuna de Victoria.
+
+### 6. Región de Los Ríos
+
+i. La comuna de Los Lagos
+
+ii. La comuna de Valdivia
+
+iii. La comuna de Río Bueno.
+
+### 7. Región de Los Lagos
+
+i. La comuna de Ancud
+
+ii. La comuna de Calbuco
+
+iii. La comuna de Castro
+
+iv. La comuna de Dalcahue
+
+v. La comuna de Osorno
+
+vi. La comuna de Puerto Montt
+
+vii. La comuna de Puerto Varas
+
+viii. La comuna de Quellón.
+
+### 8. Región de Aysén del General Carlos Ibáñez del Campo
+
+i. La zona urbana de la comuna de Aysén (incluido Puerto Chacabuco) y la isla Huichas.
+
+En consecuencia, los habitantes de dichas localidades deberán permanecer en cuarentena o aislamiento, es decir, en sus domicilios habituales, además de observar las medidas dispuestas para el "Paso 1: Cuarentena" en la resolución exenta Nº 591, ya citada.
+
+La medida de este numeral empezará a regir a contar de las 05:00 horas del día 14 de enero de 2021 y durará indefinidamente hasta que las condiciones epidemiológicas permitan su suspensión.
+
+2. Dispóngase que las localidades que se indican a continuación retrocederán al "Paso 2: Transición" del que trata el Capítulo II de la resolución exenta Nº 591, de 2020, del Ministerio de Salud.
+
+a. Región de Arica y Parinacota
+
+i. La comuna de Arica.
+
+b. Región de Tarapacá
+
+i. La comuna de Pica
+
+ii. La comuna de Pozo Almonte.
+
+c. Región de Antofagasta
+
+i. La comuna de Calama.
+
+d. Región de Atacama
+
+i. La comuna de Copiapó
+
+ii. La comuna de Diego de Almagro
+
+iii. La comuna de Tierra Amarilla.
+
+e. Región de Valparaíso
+
+i. La comuna de Zapallar.
+
+f. Región Metropolitana de Santiago
+
+i. La comuna de Buin
+
+ii. La comuna de La Pintana
+
+iii. La comuna de Recoleta.
+
+g. Región del Libertador General Bernardo O'Higgins
+
+i. La comuna de Chépica
+
+ii. La comuna de Las Cabras
+
+iii. La comuna de Santa Cruz.
+
+h. Región del Maule
+
+i. La comuna de Constitución
+
+ii. La comuna de Linares
+
+iii. La comuna de Sagrada Familia
+
+iv. La comuna de Yerbas Buenas.
+
+i. Región de Ñuble
+
+i. La comuna de Quillón
+
+ii. La comuna de San Carlos.
+
+j. Región de La Araucanía
+
+i. La comuna de Gorbea.
+
+k. Región de Los Ríos
+
+i. La comuna de Futrono
+
+ii. La comuna de Máfil
+
+iii. La comuna de Lago Ranco.
+
+l. Región de Los Lagos
+
+i. Comuna de Hualaihué.
+
+En consecuencia, los habitantes de dichas localidades deberán permanecer en cuarentena o aislamiento los días sábado, domingo y festivos, además de observar las medidas dispuestas para el "Paso 2: Transición" en la resolución exenta Nº 591, ya citada.
+
+La medida de este numeral empezará a regir a contar de las 05:00 horas del día 14 de enero de 2021 y durará indefinidamente hasta que las condiciones epidemiológicas permitan su suspensión.
+
+3. Dispóngase que la localidad que se indica a continuación avanzará al "Paso 2: Transición" del que trata el Capítulo II de la resolución exenta Nº 591, de 2020, del Ministerio de Salud.
+
+a. Región de La Araucanía
+
+i. La comuna de Lautaro.
+
+En consecuencia, los habitantes de dicha localidad deberán permanecer en cuarentena o aislamiento los días sábado, domingo y festivos, además de observar las medidas dispuestas para el "Paso 2: Transición" en la resolución exenta Nº 591, ya citada.
+
+La medida de este numeral empezará a regir a contar de las 05:00 horas del día 14 de enero de 2021 y durará indefinidamente hasta que las condiciones epidemiológicas permitan su suspensión.
+
+4. Dispóngase que las localidades que se indican a continuación retrocederán al "Paso 3: Preparación" del que trata el Capítulo II de la resolución exenta Nº 591, de 2020, del Ministerio de Salud.
+
+a. Región de Atacama
+
+i. La comuna de Alto del Carmen
+
+ii. La comuna de Caldera
+
+iii. La comuna de Chañaral
+
+iv. La comuna de Freirina
+
+v. La comuna de Huasco
+
+vi. La comuna de Vallenar.
+
+b. Región de Coquimbo
+
+i. La comuna de Andacollo
+
+ii. La comuna de Canela
+
+iii. La comuna de Illapel
+
+iv. La comuna La Higuera
+
+v. La comuna de Paiguano
+
+vi. La comuna de Salamanca
+
+vii. La comuna de Vicuña.
+
+La medida de este numeral empezará a regir a contar de las 05:00 horas del día 14 de enero de 2021 y durará indefinidamente hasta que las condiciones epidemiológicas permitan su suspensión.
+
+5. Exceptúase de la obligación de cumplir el aislamiento o cuarentena establecido en una determinada localidad, a las personas que se encuentren en las circunstancias que se señalan en el Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 599 del 11 de enero de 2020, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+
+Dicho instructivo contempla, además, las formas y condiciones para la obtención de los permisos de desplazamiento por parte de las personas exceptuadas del cumplimiento de la medida de aislamiento o cuarentena.
+
+6. Déjase constancia que las siguientes localidades mantendrán sus cordones sanitarios en torno a ellas:
+
+a. Región de Magallanes y de la Antártica Chilena
+
+i. La zona urbana de la comuna de Punta Arenas
+
+ii. La ciudad de Puerto Williams.
+
+7. Reitérase la disposición de traslado a lugares especialmente habilitados para el cumplimiento de medidas de aislamiento a:
+
+a. Personas que hayan infringido las medidas de cuarentena que les hayan sido dispuestas.
+
+b. Personas que no puedan cumplir con las medidas de cuarentena que les hayan sido dispuestas.
+
+Aquellas personas que se encuentran en el literal a) de este numeral quedarán sujetas, además, a las sanciones dispuestas en el Libro X del Código Sanitario y en el Código Penal cuando corresponda.
+
+8. Reitérase, a la autoridad sanitaria, la instrucción de solicitar el auxilio de la fuerza pública para el cumplimiento de las medidas sanitarias impuestas por esta resolución y por aquellas que le sirven de antecedente.
+
+9. Instrúyase a las autoridades sanitarias la difusión de las medidas sanitarias por los medios de comunicación masivos.
+
+10. Déjase constancia que las medidas dispuestas en esta resolución podrán prorrogarse si las condiciones epidemiológicas así lo aconsejan.
+
+11. Déjase constancia que las resoluciones que disponen las medidas sanitarias que indican por brote de Covid-19, todas de 2020 del Ministerio de Salud, en particular la resolución exenta N° 591, y en las modificaciones posteriores que se hagan a ésta, seguirán vigentes en lo que no fueran contrarias a esta resolución.
+
+12. Déjase constancia que el incumplimiento de las medidas impuestas por la autoridad en virtud de esta resolución y las resoluciones señaladas en el numeral anterior serán fiscalizadas y sancionadas según lo dispuesto en el Libro X del Código Sanitario, en el Código Penal y en la ley Nº 20.393, según corresponda.
+
+Anótese, comuníquese y publíquese.- Enrique Paris Mancilla, Ministro de Salud.
+
+Transcribo para su conocimiento resolución exenta N° 23, de 11 de enero de 2021.- Por orden de la Subsecretaria de Salud Pública.- Saluda atentamente a Ud., Jorge Andrés Hübner Garretón, Jefe de la División Jurídica, Ministerio de Salud.
