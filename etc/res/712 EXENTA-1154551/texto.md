@@ -1,0 +1,5 @@
+RESOLUCIÓN Nº 712 EXENTA, DE FECHA 30.12.2020 QUE "APRUEBA PLAN ANUAL DE FISCALIZACIÓN AÑO 2021"
+
+Con fecha 30 de diciembre de 2020, la Superintendencia de Educación dictó la resolución exenta Nº 712, que "Aprueba Plan Anual de Fiscalización año 2021", la cual contiene instrucciones de planificación de las actividades de fiscalización para el año 2021 a los sostenedores de establecimientos educacionales reconocidos oficialmente y del nivel de educación parvularia que no cuentan con reconocimiento oficial o autorización de funcionamiento. La resolución referida comenzará a regir desde su publicación en extracto en el Diario Oficial y estará disponible íntegramente en la página web institucional www.supereduc.cl.-
+
+Catalina de Palacio Cabello, Coordinadora Unidad de Fiscalización de Denuncias y Casos Especiales, Depto. de Fiscalización de Procesos Educativos.
