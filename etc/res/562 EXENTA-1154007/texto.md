@@ -56,13 +56,15 @@ Resolución:
 
 .
 
-3. Apruébese el monto de los recursos asignados en la presente selección, del llamado dispuesto por la resolución exenta citada en la letra n) de los vistos, conforme al cuadro siguiente:
+4. Apruébese el monto de los recursos asignados en la presente selección, del llamado dispuesto por la resolución exenta citada en la letra n) de los vistos, conforme al cuadro siguiente:
 
-.
+Tipo de obra UF SELECCIÓN
 
-4. Publíquese en un periódico de circulación regional, por el Servicio de Vivienda y Urbanización Los Ríos, un aviso que indique el lugar y fecha en que serán anunciadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al resuelvo 1º de esta resolución, las que deberán contener a lo menos el Título del Programa del cual se trate, el nombre del grupo, el nombre de cada postulante con su respectiva Cédula de Identidad, el nombre del proyecto y el puntaje obtenido por el grupo o persona.
+Proyecto Mantención de la Vivienda 8.916,36
 
-### 5. Publíquese en el Diario Oficial la presente resolución
+5. Publíquese en un periódico de circulación regional, por el Servicio de Vivienda y Urbanización Los Ríos, un aviso que indique el lugar y fecha en que serán anunciadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al resuelvo 1º de esta resolución, las que deberán contener a lo menos el Título del Programa del cual se trate, el nombre del grupo, el nombre de cada postulante con su respectiva Cédula de Identidad, el nombre del proyecto y el puntaje obtenido por el grupo o persona.
+
+### 6. Publíquese en el Diario Oficial la presente resolución
 
 Anótese, publíquese, cúmplase y archívese.- Feda Simic, Secretaria Regional Ministerial de Vivienda y Urbanismo Región de Los Ríos.
 
