@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.474, de 31 de diciembre de 2020, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, de derechos cuotativos que inciden en el Lote Zona Acceso L.2 correspondiente al inmueble ubicado en calle 6 Sur Sector Abate Molina, sin Rol de Avalúo, comuna Talca, superficie 88,631 metros cuadrados, deslindes según plano expropiaciones, copropietarios aparentes Blanca Cancino González y otros. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Álvaro Hernán Vergara Mejías, ingeniero civil industrial; y Claudia Poblete Ramírez, arquitecto; según informe de tasación evacuado con fecha 28 de diciembre de 2020, fijó monto provisional indemnización en $25.059.720, pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
