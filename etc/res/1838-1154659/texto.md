@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 1.838, de fecha 16 de diciembre de 2020, del Serviu IV Región de Coquimbo, se ordenó expropiar totalmente, por causa de utilidad pública, para la ejecución del proyecto Conjunto Habitacional Baquedano, ciudad de Coquimbo, conforme al artículo 51 ley 16.391 y DL 2.186/78, el inmueble singularizado como Lote 6, en plano de expropiación, ubicado en calle Merino Jarpa N° 196, de la comuna de Coquimbo, Rol de Avalúo N° 703-06, de la comuna de Coquimbo, de aparente dominio de Lidia Adriana Valenzuela Gazzolo, superficie Aprox. de 400,00 m2. Comisión de Peritos conformada por profesionales María Ester Álvarez Roca, María Elizabeth Stack Herreros y Miguel Rubio Vega, según informe de fecha 8 de diciembre de 2020, fijó indemnización provisional en 2.810,00 UF, pagadero al contado.-
+
+Javier Vega Vilches, Director (S) Serviu Región de Coquimbo.
