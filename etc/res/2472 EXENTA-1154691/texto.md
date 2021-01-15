@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.472, de 31 de diciembre 2020, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, de derechos cuotativos que inciden en el Lote 3.3 correspondiente al inmueble ubicado en calle 7 Oriente N° 543 Costanera y 7 Oriente N° 543-A Costanera, Roles de Avalúo N° 470-7 y N° 470-8 Comuna Talca, superficie 85,490 metros cuadrados, deslindes según plano expropiaciones, propietario aparente María Cristina Rojas Chamorro. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Álvaro Hernán Vergara Mejías, ingeniero civil industrial; y Claudia Poblete Ramírez, arquitecto; según informe de tasación evacuado con fecha 28 de diciembre de 2020, fijó monto provisional indemnización en $14.591.140.- para Rol avalúo N° 470-7; y $20.394.450.- para Rol avalúo N° 470-8, pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
