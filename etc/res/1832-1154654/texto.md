@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 1.832 de fecha 16 de diciembre de 2020, del Serviu IV Región de Coquimbo, se ordenó expropiar totalmente, por causa de utilidad pública, para la ejecución del proyecto Conjunto Habitacional Baquedano, ciudad de Coquimbo, conforme al artículo 51 ley 16391 y DL 2186/78, el inmueble singularizado como Lote 3, en plano de expropiación, ubicado en Baquedano N° 461, de la comuna de Coquimbo, Rol de Avalúo N° 703-03, de la comuna de Coquimbo, de aparente dominio de Elisa Carmen Hormazábal Romero, superficie aprox. de 252,00 m2. Comisión de Peritos conformada por profesionales María Ester Álvarez Roca, María Elizabeth Stack Herreros y Miguel Rubio Vega, según informe de fecha 8 de diciembre de 2020, fijó indemnización provisional en 5.787,37 UF, pagadero al contado.-
+
+Javier Vega Vilches, Director (S) Serviu Región de Coquimbo.
