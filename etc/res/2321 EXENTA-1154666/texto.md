@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.321 de 22 de diciembre 2020 de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 Ley 16.391, del inmueble correspondiente a Departamento Nº 304, ubicado en Pasaje 21 1/2 Norte, Block Nº 1495, Condominio "B", de La Población "Las Américas IX Etapa" (Circunvalación Norte) de Talca Rol Avalúo Nº 1425-36 comuna Talca y sus derechos cuotativos, deslindes según plano expropiaciones, propietario aparente Araya Fuentes María Magdalena. Comisión integrada por peritos Patricio Ulises Durán Marcos, arquitecto; Rodrigo Antonio Silva Lazo, constructor civil; y Pedro Pablo Cruz Weston, arquitecto; según informe de tasación evacuado con fecha diciembre de 2020 fijó monto provisional indemnización en $17.727.000.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
