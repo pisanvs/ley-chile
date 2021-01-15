@@ -90,6 +90,8 @@ El derecho al pago del beneficio por cada trabajador se suspenderá en el evento
 
 En todo caso, el beneficio sólo podrá otorgarse por el plazo de 6 meses corridos contados desde la fecha de su concesión, salvo en el caso de la suspensión por acto de autoridad, en cuyo caso los pagos se retomarán de acuerdo a lo señalado en el (i) anterior.
 
+(iii) Si, habiéndose concedido el beneficio a la empresa beneficiaria, ésta no declaró y no pagó íntegramente las cotizaciones de seguridad social del trabajador causante del beneficio dentro de plazo legal. En este caso, se suspenderá el beneficio y, por tanto, no se pagarán las bonificaciones correspondientes al o los meses en que se haya verificado dicha circunstancia, reanudándose el pago del beneficio, si correspondiere, una vez que se verifique la declaración y pago de la totalidad de las cotizaciones de seguridad social dentro de plazo legal.
+
 e. Terminación anticipada del beneficio.
 
 El otorgamiento del beneficio terminará anticipadamente en el evento que se verifique cualquiera de las siguientes circunstancias:
@@ -102,9 +104,9 @@ El otorgamiento del beneficio terminará anticipadamente en el evento que se ver
 
 Lo anterior, salvo que la reducción de la remuneración mensual bruta sea consecuencia del pacto de reducción temporal de la jornada de trabajo del Título II de la ley Nº 21.227, suscrito entre la empresa beneficiaria y el trabajador causante del beneficio, en cuyo caso la Bonificación a la Retención que recibe la empresa beneficiaria se reducirá proporcionalmente.
 
-(iv) Si la empresa beneficiaria no declaró o no pagó íntegramente las cotizaciones de seguridad social de los trabajadores causantes del beneficio dentro de plazo legal. El Sence podrá revisar esta situación con las fuentes de información a las que tenga acceso. En caso que se verifique esta causal, se terminará anticipadamente el derecho a percibir la bonificación asociada al trabajador causante del beneficio respecto del cual no se declaró y pagó las cotizaciones de seguridad social dentro de plazo legal.
+(iv) Si la empresa beneficiaria pacta con el trabajador causante del beneficio la suspensión convencional de los efectos del contrato de trabajo, conforme a lo dispuesto en el artículo quinto de la ley N° 21.227, se terminará anticipadamente el derecho a percibir la bonificación concedida por ese trabajador.
 
-(v) Si la empresa beneficiaria pacta la suspensión convencional de los efectos del contrato de trabajo, conforme a lo dispuesto en el artículo quinto de la ley Nº 21.227 ("pactos de suspensión") con cualquiera de sus trabajadores. En caso que se verifique esta causal, se terminará anticipadamente el derecho a percibir bonificaciones por todos los trabajadores causantes del beneficio.
+(v) Si la empresa beneficiaria pacta con un trabajador no causante del beneficio la suspensión convencional de los efectos del contrato de trabajo, conforme a lo dispuesto en el artículo quinto de la ley N° 21.227, se perderá anticipadamente el derecho a percibir una bonificación concedida, conforme a las reglas de prelación que establezca el Sence, mediante instructivo.
 
 ### III. Normas especiales para la Bonificación a la Retención
 
