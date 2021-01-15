@@ -1,0 +1,11 @@
+RENOVACIÓN CON MODIFICACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Ewos Chile Alimentos Limitada, RUT N° 77.424.780-7, ha presentado ante la Capitanía de Puerto de Coronel renovación de concesión marítima menor, la que fuere otorgada por medio de decreto supremo N° 267, de fecha 21 de septiembre de 2020, SIABC N° 29.013 y SIABC N° 38.178, sobre un sector de playa fondo de mar y porción de agua, en el lugar denominado Escuadrón (sector costero), comuna de Coronel, provincia de Concepción, Región del Biobío, requiriendo:
+
+- **a)** La playa, sector 1-tramo 2 (emisario) una superficie total de 205.17 m2 y se encuentra ubicada e individualizada por los vértices, coordenadas geográficas, medidas y deslindes que se señalan, Vértice C, latitud S 36°57'13.16", longitud W 73°10'00,32", tramo C-A 68,39 m; Vértice A, latitud S 36°57'13,95", longitud W 73°09'57,74", tramo A-B 3,00 m; Vértice B, latitud S 36°57'14,04", longitud W 73°09'57,77" tramo B-D 68,39 m; Vértice D 36°57'13,26", longitud W 73°10'00,36", tramo D-C 3,00 m;
+
+- **b)** El fondo de mar, sector 1-tramo 1 (emisario) tiene una superficie total de 405,36 m2 y se encuentra ubicada e individualizada por los vértices, coordenadas geográficas, medidas y deslindes que se señalan, Vértice E, latitud S 36°57'11,60", longitud W 73°10'05,42", tramos E-C 135,12 m; Vértice C, latitud S 36°57'13,16", longitud W 73°10'00,32", tramos C-D 3,00 m; Vértice D 36°57'13,26", Longitud W 73°10'00,36", tramo D-F 135,12 m; Vértice F 36°57'11,69", longitud W 73°10'05,46", tramo F-E 3,00 m;
+
+- **c)** La porción de agua es la necesaria para amparar la instalación de un boyarín de señalización, la cual se encuentra ubicada e individualizada por las coordenadas geográficas que se detallan: Vértice B1, latitud S 36°57'11,62", longitud W 73°10'05,54". Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Coronel. El presente extracto, se encuentra visado por la Capitanía de Puerto de Coronel.
+
+Coronel, 30 de diciembre de 2020.- Phillippe Larroucau Sepúlveda, Teniente 2° LT.
