@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.430, de 29 de diciembre 2020, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, de derechos cuotativos que inciden en Lote 2.2 correspondiente al inmueble ubicado en calle 6 Sur N° 1380 TM de Poeda y 6 Sur N° 1380-A TM de Poeda, Roles de Avalúo N° 470-21 y N° 470-22 Comuna Talca, superficie 118,624 metros cuadrados, deslindes según plano expropiaciones, propietarios aparentes Patricio Antonio Cancino Durán y Delinda Julieta Cancino González. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Álvaro Hernán Vergara Mejías, ingeniero civil industrial; y Claudia Poblete Ramírez, arquitecto; según informe de tasación evacuado con fecha 28 de diciembre de 2020, fijó monto provisional indemnización en $18.594.830.- para rol avalúo N° 470-21, y $27.314.470.- para rol avalúo N° 470-22, pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
