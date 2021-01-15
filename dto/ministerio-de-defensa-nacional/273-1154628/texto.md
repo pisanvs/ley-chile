@@ -1,0 +1,7 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MAYOR
+
+Decreto supremo Nº 273, de fecha 21 de septiembre de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Ecopuertos S.A., RUT 76.167.328-9, concesión marítima mayor, con vencimiento 30 de junio de 2040, sobre un sector de terreno de playa, playa, fondo de mar y porción de agua, en el lugar denominado Punta Zorro, Puerto Calderilla, Comuna de Caldera, Provincia de Copiapó, Región de Atacama, con una superficie total de 9.535,6197 hectáreas, correspondientes a 543,0990 m² terreno de playa, 198,8178 m² playa, 8.653,8456 m² fondo de mar, 139,8573 m² porciones de agua, la que fue tramitada con el SIABC Nº 29.552. A modo referencial se señalan las siguientes coordenadas geográficas de cada uno de los sectores:
+
+Las obras consisten en la construcción y operación de un muelle mecanizado para el embarco de graneles (hierro), mediante el atraque de embarcaciones mayores de hasta 90.000 TRG y una boya de amarre para naves de hasta 90.000 TRG y el plazo contemplado para su ejecución es de 30 meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Caldera. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
+
+Caldera, 29 de diciembre de 2020.- Pablo Orrego Avendaño, Capitán de Corbeta LT, Capitán de Puerto de Caldera.
