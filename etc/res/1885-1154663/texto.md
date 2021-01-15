@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 1.885, de fecha 23 de diciembre de 2020, del Serviu Región de Coquimbo, se ordenó expropiar parcialmente por causa de utilidad pública, conforme al artículo 51 ley 16.391 y DL 2186/78, el inmueble singularizado como Lote 16 en plano de expropiación, y que corresponde a la propiedad denominada Lote Tuqui Bajo HJ Romeral Lote B 7, ubicado en Sector Liceo Agrícola, de la comuna de Ovalle, Provincia del Limarí, Región de Coquimbo, Rol de Avalúo N° 410-8, de aparente dominio de la sucesión Daysy Salazar y otro, inscripción aparente de Fojas 2183 Vuelta N° 1058 del Registro de Propiedad del año 1997 del Conservador de Bienes Raíces de Ovalle, con una superficie expropiada aproximada de 46.929,50 metros cuadrados. Comisión de Peritos formada por la Ingeniera Civil doña María Ester Álvarez Roca, la Constructora Civil doña María Elizabeth Stack Herreros y el Ingeniero Civil don Miguel Rubio Vega, según informe de 18 de diciembre de 2020 fijó indemnización provisional en 11.732,38 Unidades de Fomento pagadera al contado.-
+
+Director (S) Serviu Región Coquimbo.
