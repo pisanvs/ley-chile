@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.433, de 29 de diciembre 2020, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, de derechos cuotativos que inciden en el Lote 2.4 correspondiente al inmueble ubicado en calle 6 Sur Nº 1398, Costanera, y 6 Sur Nº 1398-A, Costanera, Roles de Avalúo Nº 470-25 y Nº 470-26, comuna Talca, superficie 118,624 metros cuadrados, deslindes según plano expropiaciones, propietarios aparentes Gustavo Ahumada Millacura y Agueda Patricia Cancino Barros. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Álvaro Hernán Vergara Mejías, ingeniero civil industrial; y Claudia Poblete Ramírez, arquitecto; según informe de tasación evacuado con fecha 28 de diciembre de 2020, fijó monto provisional indemnización en $21.142.490.- para rol avalúo Nº 470-25, y $27.389.610.- para rol avalúo Nº 470-26, pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
