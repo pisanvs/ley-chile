@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.326 de 22 de diciembre 2020 de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, del inmueble correspondiente a Departamento Nº doscientos uno, ubicado en Pasaje 21 1/2 Norte, Block Nº 1243, Condominio C, de la Población Las Américas IX Etapa, de la comuna y Provincia de Talca, Rol Avalúo Nº 1420-41 comuna Talca y sus derechos cuotativos, deslindes según plano expropiaciones, propietario aparente Jacque Alcántara Marcelo Jeremías. Comisión integrada por peritos Patricio Ulises Durán Marcos, arquitecto; Rodrigo Antonio Silva Lazo, constructor civil; y Pedro Pablo Cruz Weston, arquitecto; según informe de tasación evacuado con fecha diciembre de 2020, fijó monto provisional indemnización en $17.727.000.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (s) Serviu Región del Maule.
