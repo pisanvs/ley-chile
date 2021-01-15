@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.325 de 22 de diciembre 2020 de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, del inmueble correspondiente a Departamento N° 203, ubicado en 6 1/2 Oriente "D", Block N° 3369, Condominio "A", de La Población Las Américas IX Etapa, de Talca, Rol Avalúo N° 1424-7 Comuna Talca y sus derechos cuotativos, deslindes según plano expropiaciones, propietario aparente Yanez Carrasco Marta Dora. Comisión integrada por peritos Patricio Ulises Durán Marcos, arquitecto; Rodrigo Antonio Silva Lazo, constructor civil; y Pedro Pablo Cruz Weston, arquitecto; según informe de tasación evacuado con fecha diciembre de 2020, fijó monto provisional indemnización en $17.488.360.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
