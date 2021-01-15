@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 2.791 del 30 de diciembre de 2020, Serviu Región del Biobío ordenó expropiación Total de inmueble ubicado en calle Estero Lagunillas 2650 A Dp 03, Rol de Avalúo 4067-3 comuna de Coronel, de aparente dominio de Arrollo Acuna Juan Segundo. La superficie de edificación afecta a expropiación, conforme a plano N° S8R-37281 es de 43,189 m2, correspondiente a 42,42 m2 de superficie útil y 0,769 m2 de superficie de uso común; la superficie de terreno expropiado, sobre el total de los derechos cuotativos comunes, corresponden a 36,7310417 m2 y equivalen al 2,0833% del total de la propiedad común de 1763,09 m2 (lote 3 E1), para la ejecución de la obra Ampliación y Alteración de departamentos de Mártires del Carbón, comuna de Coronel, conforme artículo 51 ley 16.391 y DL 2186. Comisión Peritos integrada por la arquitecto Francesca Antonella Vives Figueroa, la Patricia Cecilia Palacios González y arquitecto Rodrigo Alexis Escobar Fernández, según informe de fecha 23 de diciembre de 2020 que fijó monto provisional en $11.788.673.-, pagadera de contado.-
+
+Director Serviu Región del Biobío.
