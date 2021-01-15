@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 1.883, de fecha 23 de diciembre de 2020, del Serviu Región de Coquimbo, se ordenó expropiar parcialmente por causa de utilidad pública, conforme al artículo 51 ley 16.391 y DL 2.186/78, el inmueble singularizado como Lote 18 en plano de expropiación, y que corresponde a la propiedad denominada Lote 3 Fundo María Josefina, ubicado en Sector Liceo Agrícola, de la comuna de Ovalle, Provincia del Limarí, Región de Coquimbo, Rol de Avalúo N° 400-20, de aparente dominio de Agrícola Americana de Semillas Limitada, inscripción aparente de Fojas 37 N° 23 del Registro de Propiedad del año 1984 del Conservador de Bienes Raíces de Ovalle, con una superficie expropiada aproximada de 17.108,70 metros cuadrados. Comisión de Peritos formada por la Ingeniera Civil doña María Ester Álvarez Roca, la Constructora Civil doña María Elizabeth Stack Herreros y el Ingeniero Civil don Miguel Rubio Vega, según informe de 18 de diciembre de 2020 fijó indemnización provisional en 5.988,05 Unidades de Fomento pagadera al contado.-
+
+Director (S) Serviu Región de Coquimbo.
