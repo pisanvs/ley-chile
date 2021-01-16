@@ -68,6 +68,10 @@ d) El Vicepresidente Ejecutivo de Corfo, o un representante de éste, designado 
 
 e) Dos designados por el Vicepresidente Ejecutivo de Corfo, los que podrán ser propuestos, uno por el Ministro de Minería, y el otro por el Ministro de Transportes y Telecomunicaciones
 
+En caso de ausencia o impedimento de los Consejeros, éstos serán reemplazados por las personas designadas por la autoridad que haya designado al titular. En el caso del Vicepresidente Ejecutivo de Corfo, él designará a su reemplazante.
+
+Los reemplazantes actuarán con iguales facultades que el titular, salvo la presidencia del Consejo Directivo en caso de ausencia del titular, en cuyo caso actuará el Vicepresidente.
+
 B) El Consejo Directivo tendrá un Vicepresidente que será elegido por el Consejo Directivo de entre sus integrantes titulares, con el voto favorable de, a lo menos, seis miembros, y reemplazará al Presidente con sus mismas facultades y deberes en caso de ausencia o impedimento de éste, circunstancia que no será necesario acreditar ante terceros.
 
 #### Artículo 3º
