@@ -54,23 +54,31 @@ Resuelvo:
 
 Para quienes ingresen al país a través de pasos fronterizos terrestres o marítimos, y para casos calificados por el operador de los aeropuertos, podrán efectuar el llenado manual de la Declaración Jurada y presentarla en el punto de ingreso al país.
 
-3. Dispóngase que los chilenos y los extranjeros residentes de manera regular en el territorio nacional que ingresen al país, sin importar el país de origen ni la región de destino en Chile, deben cumplir con la medida de cuarentena por 14 días, en su destino final.
+3. Dispóngase que todas las personas que ingresen al territorio nacional, sin importar el país de origen ni la región de destino en Chile, deben cumplir en su destino final con la medida de cuarentena por 10 días o hasta que abandone el país, en caso que su permanencia fuere menor a 10 días.
 
-No estarán obligados a guardar cuarentena los chilenos y extranjeros residentes de manera regular que cuenten con un resultado negativo de un Test PCR para SARS-CoV-2.
+La medida de cuarentena podrá finalizar antes de cumplir los referidos 10 días si se cuenta con un resultado negativo de un Test PCR para SARS-CoV-2, cuya toma de muestra se realice pasadas 144 horas desde el ingreso al país.
 
-Para efectos de eximirse de la medida dispuesta en el primer párrafo de este numeral, si el Test PCR es realizado en el extranjero, deberá presentarse su resultado negativo ante la autoridad sanitaria al ingresar al país. El resultado de este Test deberá acompañarse como documento adjunto a la declaración jurada definida en el numeral 2 de la presente resolución.
-
-La toma de muestra del mencionado Test no podrá tener una antigüedad mayor a 72 horas, contadas desde el embarque a la nave, aeronave o medio de transporte mediante el cual se ingrese al territorio nacional. Si el viaje desde el punto de origen hasta territorio chileno contempla la utilización de varios medios de transporte, las señaladas 72 horas se contarán desde el embarque al último de estos.
-
-En caso de que el Test PCR sea realizado en Chile y reporte un resultado negativo, la persona estará autorizada para finalizar la cuarentena desde la recepción del resultado. Para estos efectos, la persona podrá salir en una ocasión desde el lugar donde cumple la cuarentena, con el único objeto de realizarse el Test PCR para SARS-CoV-2.
+Para los efectos de lo dispuesto en el párrafo anterior del presente número, la persona podrá salir en una ocasión desde el lugar donde cumple la cuarentena, con el único objeto de realizarse el Test PCR para SARS-CoV-2.
 
 Independiente de la realización del Test PCR, aquellos viajeros que tienen por lugar de destino una región distinta a la de ingreso a Chile podrán continuar con su viaje durante las primeras 24 horas después del ingreso al país en medios de transporte público o privado, cumpliendo con todas las medidas sanitarias que sean pertinentes.
 
 4. Dispóngase que los extranjeros no residentes de manera regular en el país sólo podrán ingresar al territorio nacional si cuentan con un resultado negativo de un Test PCR para SARS-CoV-2.
 
-La toma de muestra del señalado Test no debe exceder las 72 horas desde el embarque a la aeronave en la que se ingrese al territorio nacional. Si el viaje desde el punto de origen hasta territorio chileno contempla la utilización de varias aeronaves, las señaladas 72 horas se contarán desde el embarque al último de estos.
+Asimismo, los chilenos y extranjeros residentes de manera regular en el país, al ingresar al territorio nacional, deberán contar con un resultado negativo de un Test PCR para SARS-CoV-2.
 
-El certificado del resultado de este examen deberá acompañarse como documento adjunto a la declaración jurada de Declaración Jurada definida en el numeral 2 de la presente resolución.
+La toma de muestra del Test del que tratan los párrafos precedentes no debe exceder las 72 horas contadas desde el embarque al transporte en el que se ingrese al territorio nacional. Si el viaje desde el punto de origen hasta territorio chileno contempla la utilización de varios medios de transporte, las señaladas 72 horas se contarán desde el embarque al último de estos.
+
+El certificado del resultado de este examen deberá acompañarse como documento adjunto a la Declaración Jurada definida en el numeral 2 de la presente resolución.
+
+La empresa que efectúe el traslado del pasajero será responsable del cumplimiento de lo dispuesto en este numeral, en los términos dispuestos en esta resolución. Para dichos efectos, deberán exigir la presentación del Test PCR para SARS-CoV-2 con resultado negativo al momento de abordar el medio de transporte con destino a territorio nacional. El incumplimiento de esto será sancionado de acuerdo al Libro X del Código Sanitario.
+
+Sin perjuicio de lo dispuesto precedentemente, en caso de incumplimiento de lo dispuesto en el párrafo primero, la autoridad sanitaria podrá denegar la entrada al país del pasajero extranjero no residente de manera regular en Chile. En consecuencia, será responsabilidad de la empresa que efectúe el traslado del pasajero el devolverlo a su lugar de origen.
+
+Quienes incumplan lo dispuesto en el párrafo segundo serán sancionados de acuerdo al Libro X del Código Sanitario y deberán cumplir la cuarentena de que trata el numeral 3 de la presente resolución en una residencia sanitaria dispuesta para dichos efectos. En estos casos, los costos de la estadía en la residencia sanitaria deberán ser sufragados por el infractor. Sin perjuicio de lo anterior, podrán continuar su cuarentena en su domicilio en caso de presentar un Test RT-PCR para SARS-CoV-2 con resultado negativo, cuya toma de muestra haya sido efectuada en el país, con posterioridad a su ingreso.
+
+Se podrá exceptuar de lo dispuesto en el párrafo segundo de este numeral la persona que tenga una autorización para aquello de la autoridad sanitaria, justificada en la imposibilidad de realizarse el Test PCR para SARS-CoV-2 en el país en el que se encuentra. Dicha autorización se otorgará por medios electrónicos previa solicitud del interesado al Cónsul de Chile que corresponda del país donde se encuentre, quien la derivará a la autoridad sanitaria en caso de que, a juicio del Cónsul, existan motivos plausibles que hagan presumir que en el país que se trate no es posible el acceso a realizarse un Test PCR para SARS-CoV-2. En caso contrario, será rechazada de plano por el Cónsul. Para poder emprender el viaje, el interesado deberá obtener esta autorización especial previa al embarque. Quien obtenga la autorización de la que trata este párrafo deberá igualmente cumplir la cuarentena de la que trata el numeral 3 de la presente resolución en una residencia sanitaria dispuesta al efecto. Los gastos de dicha residencia deberán ser sufragados por el autorizado en virtud de este numeral.
+
+Asimismo, se exceptúan de la obligación dispuesta en este numeral los menores de 2 años.
 
 5. Dispóngase que los extranjeros no residentes de manera regular en el país, solo podrán ingresar al territorio nacional, si cuentan además, con un seguro médico de viaje vigente, que cubra aquellos gastos que pudieran ocasionar la asistencia médica de urgencia o la atención hospitalaria de urgencia durante toda su estancia en el país, su repatriación por motivos médicos o por defunción. incluida la cobertura de cualquier gasto originado por Covid-19.
 
@@ -84,15 +92,27 @@ El certificado de este seguro deberá acompañarse como documento adjunto a la d
 
 Para dar cumplimiento al programa del Seguimiento del Viajero, dichas personas deberán completar durante 14 días un formulario de reporte de síntomas y localización. Esto se llevará a cabo completando una encuesta de estado de salud que recibirá diariamente el viajero en su correo electrónico por parte de la autoridad sanitaria.
 
-Aquella persona que presente los síntomas de los que trata el numeral 13 de la resolución exenta Nº 591, de 2020, del Ministerio de Salud, deberá permanecer en cuarentena y reportar sus síntomas según lo dispuesto en el párrafo anterior y esperar el contacto de la autoridad sanitaria. Sin perjuicio de lo anterior, aquellas personas que se encuentren las circunstancias descritas en el numeral 11 de esta resolución deberán siempre realizar cuarentena.
+Aquella persona que presente los síntomas de los que trata el numeral 14 de la resolución exenta Nº 43, de 2021, del Ministerio de Salud, deberá permanecer en cuarentena y reportar sus síntomas según lo dispuesto en el párrafo anterior y esperar el contacto de la autoridad sanitaria. Sin perjuicio de lo anterior, aquellas personas que se encuentren las circunstancias descritas en el numeral 11 de esta resolución deberán siempre realizar cuarentena.
 
 En el caso que los síntomas señalados sean de carácter grave, el viajero deberá acudir a un centro asistencial a la brevedad, haciendo uso de su mascarilla y evitando utilizar el transporte público, cumpliendo con todas las medidas sanitarias que sean pertinentes.
 
 6 bis. Dispóngase que toda persona que ingrese desde el extranjero, sin importar su nacionalidad, lugar de origen o región de destino en Chile, podrá ser seleccionada, en forma aleatoria por la Autoridad Sanitaria, en el momento de su ingreso, para ser sometida a un examen de detección directa para SARS-CoV-2 determinado por la Autoridad Sanitaria.
 
-Si un chileno o extranjero residente de manera regular en el país no accediera a realizarse el examen del que trata este numeral, deberá permanecer en cuarentena durante los 14 días siguientes a su ingreso al país, independiente del resultado negativo que pudiese tener un test PCR para SARS-CoV-2 realizado con anterioridad o posterioridad. En caso que sea un extranjero no residente de manera regular en el país quien se niegue a practicarse el señalado examen, se aplicará lo dispuesto en el Código Sanitario o en el Reglamento Sanitario Internacional.
+Si un chileno o extranjero residente de manera regular en el país no accediera a realizarse el examen del que trata este numeral, deberá permanecer en cuarentena, en una residencia sanitaria dispuesta al efecto, durante los 14 días siguientes a su ingreso al país, independiente del resultado negativo que pudiese tener un test PCR para SARS-CoV-2 realizado con anterioridad o posterioridad. En caso que sea un extranjero no residente de manera regular en el país quien se niegue a practicarse el señalado examen, se aplicará lo dispuesto en el Código Sanitario o en el Reglamento Sanitario Internacional.
 
-7. Exclúyase de los requisitos de ingreso dispuestos en los numerales 3 a 7 precedentes, a las personas que ingresen al país de acuerdo a las letras a), b), c), d), e), f), g), j) y k)) del inciso segundo del artículo segundo del decreto supremo Nº 102, de 2020 del Ministerio del Interior y Seguridad Publica. Para todos estos casos la autoridad sanitaria podrá establecer requisitos específicos.
+Quienes obtengan un resultado positivo para el testeo del que trata este numeral, deberán cumplir la cuarentena en una residencia sanitaria dispuesta al efecto.
+
+6 ter. Eliminado.
+
+En este caso, no será aplicable la medida dispuesta en los párrafos segundo y siguientes del numeral 3.
+
+7. Exclúyase de los requisitos de ingreso dispuestos en los numerales 3 a 6 bis precedentes, a las personas que ingresen al país de acuerdo a las letras b), c), d) y e), del inciso segundo del artículo segundo del decreto supremo Nº 102, de 2020 del Ministerio del Interior y Seguridad Pública. Exclúyase también a los chilenos y extranjeros residentes de manera regular en el territorio nacional, que se encuentren en los supuestos señalados. Para todos estos casos la autoridad sanitaria podrá establecer requisitos específicos.
+
+Aquellas personas que ingresen al país conforme a la letra f) del inciso segundo del artículo segundo del decreto supremo Nº 102, de 2020, del Ministerio del Interior y Seguridad Pública, quedarán excluidas de la medida establecida en el numeral 4 de la presente resolución.
+
+Los chilenos y extranjeros residentes de manera regular en el país, que sean tripulantes de naves y aeronaves que ingresen al territorio nacional, estarán excluidos de los requisitos dispuestos en el numeral 4. Además, podrán exceptuarse de las medidas dispuestas en el numeral 3, siempre y cuando su empleador cumpla con asegurar e informar a la autoridad sanitaria la realización de un Test RT-PCR para SARS-CoV-2 de manera semanal para cada tripulante que requiera esta excepción.
+
+Quienes ingresen al país conforme a la letra i) del inciso segundo del artículo segundo del decreto supremo Nº 102, de 2020, del Ministerio del Interior y Seguridad Pública, quedarán excluidos de las medidas establecidas en los numerales 3 y 5 de la presente resolución.
 
 8. Dispóngase que será responsabilidad de la empresa que efectúe el traslado del pasajero al territorio nacional, verificar que este cuente con los documentos necesarios para el ingreso al país y cumpla con las obligaciones precedentes.
 
@@ -100,11 +120,7 @@ En caso de incumplimiento de lo dispuesto en los numerales anteriores, la autori
 
 9. Apruébase el formulario de Declaración Jurada al que hace alusión el numeral 1 y que se adjunta a esta resolución.
 
-### 10. Modifícase resolución exenta N° 591, de 2020, de la siguiente forma:
-
-a. Reemplázase el numeral 11 por el siguiente:
-
-"11. Las personas que ingresen al país desde el extranjero deberán cumplir con las medidas dispuestas en la resolución exenta Nº 997, de 2020, del Ministerio de Salud."
+### 10. Eliminado
 
 11. Sin perjuicio del cumplimiento de las medidas dispuestas precedentemente, hasta el día 7 de diciembre de 2020, inclusive, los extranjeros no residentes de manera regular que provengan de países que la Organización Mundial de la Salud haya definido que existe transmisión comunitaria, deberán cumplir con la medida de cuarentena por 14 días, que sólo podrá interrumpirse para los efectos de salir del territorio nacional. No obstante lo anterior, esto no afectará a aquellos extranjeros no residentes de manera regular que ingresen de acuerdo a las letras h), i), y o), del inciso segundo del artículo segundo del decreto supremo N°102, de 2020, del Ministerio del Interior y Seguridad Pública, y los demás casos que la autoridad sanitaria exima del cumplimiento de la cuarentena por razones fundadas.
 
