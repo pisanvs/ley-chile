@@ -138,7 +138,7 @@ b) El nombre de los miembros del directorio y, o Consejo de Administración del 
 
 c) Certificado de vigencia de la personalidad jurídica con un máximo de sesenta días corridos de emisión.
 
-d) Certificado de vigencia del directorio o consejo de administración correspondiere con un máximo de sesenta días corridos de emisión.
+d) Certificado de vigencia del directorio o consejo de administración, si correspondiere con un máximo de sesenta días corridos de emisión.
 
 e) Copia simple de los estatutos del comité o cooperativa y sus modificaciones.
 
@@ -1616,7 +1616,7 @@ Contratación de programas de ejecución de inversión. Todo programa de inversi
 
 #### Artículo 119
 
-Registro de asesorías. Para los efectos de la contratación de asesorías a los operadores a que se refiere la letra d) del artículo 73 de la ley, la Subdirección podrá contratar con terceros, sean personas naturales o jurídicas, inscritas en alguna de las categorías y especialidades del Registro de Consultores del Ministerio, decreto supremo N° 48, de 1994, del Misterio, o el que lo reemplace. Dichas categorías y especialidades serán especificadas en las bases de licitación o en el contrato respectivo.
+Registro de asesorías. Para los efectos de la contratación de asesorías a los operadores a que se refiere la letra d) del artículo 73 de la ley, la Subdirección podrá contratar con terceros, sean personas naturales o jurídicas, inscritas en alguna de las categorías y especialidades del Registro de Consultores del Ministerio, decreto supremo N° 48, de 1994, del Ministerio, o el que lo reemplace. Dichas categorías y especialidades serán especificadas en las bases de licitación o en el contrato respectivo.
 
 Los requisitos de contratación, inscripción, permanencia, suspensión, evaluación, sanciones y procedimiento de reclamación de estos asesores, se regirán por el citado Reglamento de Consultoría.
 
