@@ -136,7 +136,7 @@ Los recursos indicados en el cuadro anterior, podrán disminuir o aumentar con c
 
 30. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación nacional y en el sitio web del Minvu y del Serviu o de la Seremi Minvu respectiva.
 
-31. Apruébase el documento "Estándares de Eficiencia Energética para Llamados en Condiciones Especiales del 2018 para el DS Nº 10 (V. y U.), de 2015" y su anexo que forman parte integrante de la presente resolución.
+31. Apruébase el documento "Estándares de Eficiencia Energética para Llamados en Condiciones Especiales para el DS Nº 10 (V. y U.), de 2015" y su anexo que forman parte integrante de la presente resolución.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
