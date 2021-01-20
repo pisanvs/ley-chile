@@ -1,6 +1,6 @@
 DISPONE MEDIDAS SANITARIAS QUE INDICA POR BROTE DE COVID-19
 
-Núm. 34 exenta.- Santiago, 14 de enero de 2021.
+Núm. 35 exenta.- Santiago, 14 de enero de 2021.
 
 Visto:
 
