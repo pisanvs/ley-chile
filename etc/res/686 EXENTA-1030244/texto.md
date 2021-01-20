@@ -28,9 +28,9 @@ Salida de Panguipulli:
 
 a) Egreso buses rurales desde Terminal de Buses hacia el oriente por Ruta 203 CH: Diego Portales, Gabriela Mistral, Pedro de Valdivia, Juan Bautista Etchegaray, Ramón Freire y Ruta 203 CH al oriente.
 
-b) Egreso buses rurales e interurbanos desde Terminal de Buses hacia el poniente por Ruta 203 CH: Diego Portales, Gabriela Mistral, Pedro de Valdivia, Bernardo O'Higgins y Ruta 203 CH al poniente.
+b) Egreso buses rurales e interurbanos desde Terminal de Buses hacia el poniente por Ruta 203 CH: Diego Portales, Gabriela Mistral, Juan Pablo II, Bernardo O'Higgins y Ruta 203 CH al poniente.".
 
-c) Egreso buses rurales e interurbanos desde Terminal de Buses hacia el poniente por Ruta T-39: Diego Portales, Gabriela Mistral, Pedro de Valdivia, Bernardo O'Higgins, Juan Pablo II y Ruta T-39 al poniente.
+c) Egreso buses rurales e interurbanos desde Terminal de Buses hacia el poniente por Ruta T-39: Diego Portales, Gabriela Mistral, Juan Pablo II y Ruta T-39 al poniente.
 
 d) Egreso buses rurales desde Terminal de Buses hacia el oriente por Ruta T-395: Diego Portales, Gabriela Mistral, Pedro de Valdivia, Bernardo O'Higgins, Juan Pablo II y Ruta T-395 al oriente.
 
