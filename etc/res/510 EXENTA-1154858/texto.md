@@ -26,9 +26,15 @@ Resolución:
 
 1. Apruébase la nómina de postulantes seleccionados durante el mes de noviembre de 2020, para el otorgamiento de subsidios habitacionales destinados al acondicionamiento térmico de viviendas correspondientes al Llamado Regional del Programa de Protección del Patrimonio Familiar, Título II, dispuesto en la resolución exenta N° 274, de fecha 14.07.2020, de esta Secretaría Regional Ministerial, la que se entenderá forma parte integrante de esta resolución, fijándose el número de postulantes seleccionados, de acuerdo a la distribución de recursos efectuada según se indica en la siguiente tabla:
 
+.
+
 2. Fíjase el monto de Unidades de Fomento comprometidas para el financiamiento de subsidios Térmicos del Programa de Protección al Patrimonio Familiar, Título II, para la atención de los postulantes seleccionados a que se refiere el número anterior, según la siguiente tabla:
 
+.
+
 3. Comprométanse los recursos disponibles en la Región de Magallanes y la Antártica Chilena, para la selección del mes de noviembre de 2020, según la distribución señalada en el siguiente cuadro:
+
+.
 
 4. Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme los números 1 y 2 de esta resolución, las que deberán contener a lo menos, el Título del cual se trate, el nombre del grupo y el nombre de cada postulante con su respectiva Cédula Nacional de Identidad, el nombre del proyecto, y el puntaje obtenido por el grupo o persona.
 
