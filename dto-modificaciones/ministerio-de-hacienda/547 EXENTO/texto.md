@@ -1,0 +1,33 @@
+MODIFICA LA LISTA DE BIENES DE CAPITAL CONTENIDA EN EL DECRETO Nº 399 EXENTO, DE 2 DE NOVIEMBRE DE 2017, DEL MINISTERIO DE HACIENDA, EN EL SENTIDO QUE INDICA
+
+Núm. 547 exento.- Santiago, 17 de diciembre de 2020
+
+Vistos:
+
+Lo dispuesto en el DFL N° 2, de 1989, del Ministerio de Hacienda, que Aprueba y tiene como oficial de la República de Chile el Arancel Aduanero basado en la Nomenclatura del Sistema Armonizado de Designación y Codificación de Mercancías; en el artículo 42 de la ley Nº 18.768, que reemplaza, a contar desde el 1 de enero de 1990, la nomenclatura utilizada en el Arancel Aduanero por la del Convenio Internacional del Sistema Armonizado de Designación y Codificación de Mercancías; en la ley Nº 18.634, que Establece sistema de pago diferido de derechos de aduana, crédito fiscal y otros beneficios de carácter tributario que indica; en el artículo 12 de la ley Nº 18.687, que Modifica el arancel aduanero y las leyes N 18.480, 18.483, 18.525 y 18.634; en el decreto exento Nº 514, de 1 de diciembre de 2016, del Ministerio de Hacienda, que modifica el Arancel Aduanero Nacional de la República de Chile, y sus modificaciones; en el decreto supremo N° 19, de 2001, que Faculta a los Ministros de Estado para firmar "Por Orden del Presidente de la República"; en el decreto exento Nº 399, de 2 de noviembre de 2017, del Ministerio de Hacienda, que Sustituye lista de bienes de capital establecida por el decreto exento N° 365, del Ministerio de Hacienda, de 26 de marzo de 2012; en la solicitud del Sr. Cristian Herrera Rivera, Agente de Aduanas, en representación de Fastpack S.A., de 14 de agosto de 2020, recibida en esta Secretaría de Estado el 19 de agosto de 2020 y sus antecedentes complementarios de fechas 29 de septiembre y 23 de octubre, ambos de 2020; en las Actas de Sesiones Nos 1, 2 y 3, de fechas 10 de septiembre de 2020, 16 de octubre de 2020 y 10 de noviembre de 2020, todas de la Comisión Técnica dispuesta por el artículo 4° de la ley Nº 18.634, y en la resolución N° 7, de 2019, de la Contraloría General de la República.os
+
+Considerando:
+
+1. Que, el Sr. Cristián Herrera Rivera, Agente de Aduanas, en representación de la empresa Fastpack S.A. (en adelante, también la "Empresa", o el "solicitante"), a través de presentación de 14 de agosto de 2020, solicitó incorporar al listado de bienes de capital establecido en el artículo 4° de la ley Nº 18.634, de las mercancías descritas como "Válvula de bola", "Válvula de mariposa" y "Válvula de globo", las que según lo declarado inicialmente por el solicitante, corresponderían al ítem arancelario 8481.8099 y que estarían excluidas por la observación que limita el alcance del listado.
+
+2. Que, la Empresa señaló que las válvulas individualizadas en el considerando anterior cumplen con los requisitos que la ley Nº 18.634 establece para ser consideradas como bien de capital.
+
+3. Que, de acuerdo con lo establecido en el artículo 4° de la ley N° 18.634, la Comisión Técnica, según se indica en el Acta de Sesión N° 1, de 10 de septiembre de 2020, se reunió para conocer la solicitud de la Empresa, a fin de analizar la procedencia de la solicitud de otorgar el tratamiento de bienes de capital a las válvulas individualizadas en el considerando N° 1.
+
+4. Que, para lo anterior se tuvo en consideración: la definición de bienes de capital establecida en la ley N° 18.634; el requisito establecido por el artículo 2° de la ley N° 18.634, que requiere que su capacidad de producción no debe desaparecer con su primer uso, debiendo "extenderse por un lapso no inferior a tres años, produciéndose un proceso paulatino de desgaste o depreciación del bien, por un período superior al lapso antes indicado"; y el uso productivo del mismo.
+
+5. Que, adicionalmente se analizó lo dispuesto en el decreto exento N° 399, de 2017, del Ministerio de Hacienda, que sustituyó el listado de bienes de capital que incluye, en particular, el ítem arancelario 8481.8099 "Los demás", de la partida 84.81 del Arancel Aduanero Nacional, "Artículos de grifería y órganos similares para tuberías, calderas, depósitos, cubas o continentes similares, incluidas las válvulas reductoras de presión y las válvulas termostáticas", con la siguiente observación: "Solamente con cuerpo de acero, de alta resistencia y alta presión de servicio superior a 200 libras por pulgada cuadrada y de diámetro superior o igual a 5 pulgadas, con servomecanismo y sistema de control y comando eléctrico".
+
+6. Que, en virtud de los antecedentes expuestos, la Comisión Técnica, según da cuenta el Acta de Sesión N° 1, de 10 de septiembre de 2020, en forma unánime decidió solicitar a la Empresa una aclaración a su solicitud, toda vez que de los antecedentes proporcionados no resultaba posible determinar con certeza que la clasificación arancelaria de las válvulas individualizadas en el considerando N° 1 correspondan al ítem arancelario 8481.8099.
+
+7. Que, la Comisión Técnica, según da cuenta el Acta de Sesión N° 2, de 16 de octubre de 2020, efectuó un análisis de la aclaración efectuada por la Empresa, y concluyó que los antecedentes aportados no permitían a dicha Comisión tener certeza jurídica respecto del cumplimiento de los requisitos legales establecidos en la ley N° 18.634, por lo que decidió solicitar una nueva aclaración al solicitante, la cual fue evacuada el 23 de octubre de 2020.
+
+8. Que, en virtud de los antecedentes expuestos, la Comisión Técnica, según da cuenta el Acta de Sesión N°3, de 10 de noviembre de 2020, en atención a la aclaración efectuada por la Empresa señalada en el considerando precedente, en forma unánime decidió proponer la eliminación de la observación señalada en el considerando N° 5 con el objeto de ampliar su alcance y dejar cubiertas las válvulas clasificadas bajo dicho ítem arancelario, siempre que cumplan con los requisitos establecidos en la ley N° 18.634, recomendando favorablemente la incorporación de bien de capital indicado por el solicitante, mediante la eliminación de la observación actualmente vigente para el ítem arancelario 8481.8099.
+
+Decreto:
+
+Modifícase la lista de bienes de capital contenida en el decreto exento N° 399, de 2 de noviembre de 2017, del Ministerio de Hacienda, en el sentido de eliminar la observación del ítem arancelario 8481.8099.
+
+Anótese, publíquese y archívese.- Por orden del Presidente de la República, Ignacio Briones Rojas, Ministro de Hacienda.- Lucas Palacios Covarrubias, Ministro de Economía, Fomento y Turismo.
+
+Lo que transcribo a usted para su conocimiento.- Saluda Atte. a usted, Alejandro Weber Pérez, Subsecretario de Hacienda.
