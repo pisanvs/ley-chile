@@ -26,33 +26,39 @@ REGLAMENTO DEL COMITÉ DE CAPITAL DE RIESGO
 
 1º.- Créase el Comité de Capital de Riesgo, en adelante también "el Comité", en el que se delegan las facultades señaladas en el numeral 4 siguiente. Dicho Comité tendrá por objeto tanto decidir, en conformidad al artículo 19 de la ley Nº 20.190 y a su reglamento y al decreto supremo de Hacienda Nº 1.435 de 2007, la inversión, suscripción, pago y enajenación de cuotas emitidas por los fondos de inversión, regidos por las disposiciones de la ley Nº 18.815 y su reglamento, como aprobar los préstamos a fondos que tengan políticas de inversión que prioricen el desarrollo de proyectos nuevos de alto valor agregado, sean regulados por la mencionada ley Nº 18.815 y su reglamento o por la ley 18.657 y su reglamento, y en todos los casos, en relación con el o los programas de fomento de la industria de capital de riesgo que desarrolle la Corporación en adelante también "los Programas"
 
-2º.- El Comité estará constituido por:
+2º El Comité estará constituido por:
 
-a) El Vicepresidente Ejecutivo de la Corporación o un miembro designado por éste, para que asista en calidad de suplente en caso de su ausencia.
+a) El Vicepresidente Ejecutivo de la Corporación, o un miembro designado por éste, para que asista en calidad de suplente en caso de su ausencia.
 
 b) El Fiscal de Corfo.
 
-c) El Gerente Corporativo de Corfo.
+c) El Gerente General de Corfo.
 
-d) El Gerente de Emprendimiento de Corfo.
+d) El Gerente de Asuntos Corporativos de Corfo.
 
-e) Un miembro designado por el Ministro de Economía, Fomento y Turismo.
+e) El Gerente de Emprendimiento de Corfo.
 
-f) Un miembro designado por el Ministro de Hacienda.
+f) El Gerente de Start - Up Chile de Corfo.
 
-g) Dos miembros designados por el Vicepresidente Ejecutivo de la Corporación, que no tengan la calidad de funcionarios de órganos de la Administración del Estado y con reconocida experiencia empresarial, profesional y/o académica en el mercado financiero y/o de la Industria de Capital de Riesgo. Sin perjuicio de lo anterior, se entenderán como Consejeros de carácter privado, los académicos de las universidades estatales.
+g) Un miembro designado por el Ministro de Economía, Fomento y Turismo, previa solicitud de Corfo.
 
-En caso de ausencia o impedimento de las personas a que se refieren las letras b), c) y d) éstas serán reemplazadas por las personas a quienes corresponda subrogarlas en sus cargos de conformidad a los órdenes de subrogación establecidos por la Corporación.
+h) Un miembro designado por el Ministro de Hacienda, previa solicitud de Corfo.
 
-En caso de ausencia o impedimento de las personas a que se refieren las letras e), f) y g) éstas serán reemplazadas por las personas designadas al efecto en calidad de suplentes por las autoridades que correspondan, en el orden que éstas determinen.
+i) Dos miembros designados por el Vicepresidente Ejecutivo de la Corporación que no tengan la calidad de funcionarios de órganos de la Administración del Estado, y con reconocida experiencia empresarial, profesional y/o académica en el mercado financiero y/o de la industria de capital de riesgo. Sin perjuicio de lo anterior, se entenderán como Consejeros de carácter privado los académicos de las universidades estatales.
 
-La inasistencia no justificada a tres reuniones seguidas o a cuatro en total dentro de un año calendario, importará la remoción de los nombramientos y su reemplazo por las personas que hayan sido designadas en calidad de suplentes.
+En caso de ausencia o impedimento de las personas a que se refieren las letras b), c), d), e) y f) precedentes, éstas serán reemplazadas por las personas a quienes corresponda subrogarlas en sus cargos, de conformidad con los órdenes de subrogación establecidos por la Corporación.
+
+En caso de ausencia o impedimento de las personas a que se refieren las letras g), h) e i) éstas serán reemplazadas por las personas designadas al efecto en calidad de suplentes por las respectivas autoridades que correspondan en el orden que éstas determinen.
+
+Los Consejeros deberán dar cumplimiento al principio de probidad administrativa y al deber de abstención que derivan del ejercicio de una función pública. Asimismo, les resultarán aplicables las normas sobre inhabilidades de ingreso contenidas en el Título III de la ley Nº 18.575, en atención a que ejercerán un cargo o función pública en la Administración del Estado.
+
+La inasistencia no justificada a tres reuniones seguidas, o a cuatro en total dentro de un año calendario, importará la remoción de los nombramientos y su reemplazo por las personas que hayan sido designadas en calidad de suplentes.
 
 El Comité tendrá un Secretario de Actas, función que será desempeñada por un funcionario designado por el Fiscal de Corfo.
 
-Le corresponderá al Secretario de Actas citar y asistir a las sesiones; certificar la asistencia a éstas de sus miembros; levantar actas de las mismas; y certificar los Acuerdos que se adopten en dichas sesiones.
+Le corresponderá al Secretario de Actas citar y asistir a las sesiones; certificar la asistencia a éstas de sus miembros; levantar Actas de las mismas y certificar los Acuerdos que se adopten en dichas sesiones.
 
-Reemplazará al Secretario de Actas en el desempeño de las funciones indicadas, el funcionario que designe al efecto el Fiscal de Corfo
+Reemplazará al Secretario de Actas en el desempeño de las funciones indicadas, el funcionario que designe al efecto el Fiscal de Corfo.
 
 3º.- Para el desempeño de las funciones delegadas en el numeral 4, el Comité se reunirá las veces y en la forma que el mismo determine y sesionará con la mayoría absoluta de sus miembros, y los acuerdos se adoptarán por la mayoría de los miembros presentes.
 
