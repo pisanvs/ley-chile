@@ -8,6 +8,14 @@ R e s u e l v o:
 
 Quienes soliciten la certificación, deberán individualizarse y presentar los antecedentes técnicos descriptivos del equipo (kit) y de los componentes a utilizarse en la adaptación. Conjuntamente, esas personas deberán declarar si la certificación se vincula sólo con un vehículo individual o está destinada a amparar a otros de sus mismas características en lo referente a la cilindrada de motor, sistema de alimentación de combustible y tipo de transmisión. Con posterioridad deberán poner a disposición del Centro un vehículo adaptado conforme a la descripción anterior, nuevo, entendiéndose como tal, para estos efectos, aquel que no haya sobrepasado los 6.000 kilómetros de recorrido, o bien, uno equipado de origen, por diseño de fabricante con convertidor catalítico y sistema de inyección electrónico y cuya antigüedad no exceda de cinco años, contados en la forma como se señala en el número 6º. Dicha antigüedad no deberá exceder siete años, cuando se trate de modelos de vehículos que se destinen al servicio de taxi.
 
+1º bis: Para los efectos de la certificación señalada en el numeral 1º anterior, los interesados deberán presentar una solicitud de acreditación ante el Ministerio de Transportes y Telecomunicaciones, específicamente en el Centro de Control y Certificación Vehicular, en adelante "el Centro", mediante la plataforma electrónica de trámites de la Subsecretaría de Transportes, disponible en el portal web https://www.mtt.gob.cl/portaldetramites, o presencialmente, utilizando para ello los Anexos A, B, C y D de la presente resolución, que podrán ser descargados de dicho portal.
+
+Una vez recibida la solicitud, el Centro dispondrá de cinco días hábiles para pronunciarse sobre los antecedentes anteriormente señalados y del mismo plazo una vez que se completen o rectifiquen los que puedan haber sido objetados. Aprobados los antecedentes, el interesado deberá poner a disposición del Centro, en la fecha que se le señale, un vehículo adaptado al uso de gas, del modelo de que se trate, con el objeto de ser sometido a las verificaciones respectivas.
+
+El Centro deberá emitir un pronunciamiento en un plazo de cinco días a contar de la fecha de recepción del vehículo. En caso favorable, conjuntamente con la respuesta, se otorgará el "Certificado de Aptitud para Adaptación al Uso de Gas", el que habilitará al interesado para hacer las adecuaciones de que se trata, sólo en vehículos individuales del modelo o tipo de vehículo aprobado o de los modelos amparados por la certificación.
+
+El horario de recepción de solicitudes presenciales, y antecedentes o elementos relacionados, será de 9:00 a 14:00 horas, de lunes a viernes (en días hábiles), en las dependencias ubicadas en calle Vicente Reyes Nº 198, comuna de Maipú, ciudad de Santiago, Chile.
+
 2º Para la certificación del modelo de vehículo adaptado, el Centro verificará:
 
 a) el cumplimiento de la norma chilena NCH 2109. Of 98, en lo referente a componentes, conexiones, tuberías, accesorios de conexión, distintivos e instalación;
@@ -109,6 +117,8 @@ f) Cualquier anomalía, incumplimiento o
 contravención a las disposiciones establecidas en esta resolución, serán causal suficiente para que la Secretaría Regional revoque la autorización otorgada.
 
 12º No obstante lo señalado en el artículo 2º, letra a) frase final, respecto de los cilindros utilizados en adaptaciones a GNC realizadas en vehículos que se destinen al servicio de taxi en la XII Región, serán válidas las certificaciones emitidas durante la vigencia de la resolución Nº 527, de 1985, de la Superintendencia de Electricidad y Combustibles, en reemplazo de la norma ISO 11439. En este caso, además, deberá aprobarse la inspección del cilindro realizada por un Organismo Técnico acreditado por el Ministerio de Transportes y Telecomunicaciones, conforme los procedimientos establecidos en la norma chilena NCh 2265.
+
+.
 
 #### Artículo 1º
 
