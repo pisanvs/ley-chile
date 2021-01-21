@@ -590,7 +590,7 @@ Una vez aprobados y desembolsados los recursos, se exigirá que el IFNB cumpla c
 
 En el caso de auditoría de las operaciones, para acreditar el uso de los recursos a Corfo, los Intermediarios deberán contar con los respaldos que correspondan al tipo de financiamiento, conforme a lo señalado en el Anexo Nº 3.
 
-En las operaciones destinadas a capital de trabajo, las operaciones de refinanciamiento de pasivos y las destinadas a la adquisición de bienes usados, el Intermediario Financiero deberá acompañar la documentación que se señala en el Anexo Nº 3, y Declaración Jurada establecida como modelo en el Anexo Nº 4 de estas Normas.
+En las operaciones destinadas a inversión, capital de trabajo, las operaciones de refinanciamiento de pasivos y las destinadas a la adquisición de bienes usados, el Intermediario Financiero deberá acompañar la documentación que se señala en el Anexo Nº 3, y la Declaración Jurada establecida como modelo en el Anexo Nº 4 de estas Normas.
 
 Adicionalmente, con el objeto de resguardar el correcto uso de los recursos públicos, el Intermediario deberá implementar procedimientos de control adecuados para evitar que Corfo sea directa o indirectamente involucrada en acciones relacionadas con el lavado de activos, financiamiento del terrorismo, o cohecho. Para este efecto, por cada operación que el Intermediario curse con cargo a los recursos de este Programa, deberá suscribir, como medio de verificación del control efectuado, la Declaración Jurada contenida en Anexo Nº 5 de estas Normas, u otra que establezca conforme su propia Política de Prevención Lavado de Activos, Financiamiento del Terrorismo y Cohecho.
 
@@ -816,75 +816,15 @@ Se entenderán por acciones de visibilidad toda acción o actividad ejecutada co
 
 Asimismo, Corfo, para efectos de realizar actividades de medición de satisfacción de beneficiarios/as finales (clientes), encuestas, focus-group, o evaluaciones de resultado o de impacto, podrá solicitar al IFNB toda la información de contacto de los beneficiarios/as finales del programa, debiendo éste precaver las autorizaciones y formalidades que sean necesarias para que esto sea posible, de conformidad a la normativa vigente.
 
-ANEXO Nº 1
-
-Modelo de carta de solicitud de Crédito
-
-Fecha:
-
-REF. Solicitud de Crédito para Intermediarios
-
-Financieros No Bancarios (IFNB).
-
-Crédito CORFO MIPYME
-
-Señores
-
-Corporación de Fomento de la Producción
-
-Gerencia de Inversión y Financiamiento
-
-Presente.
+.
 
 Con cargo al Programa de la referencia, solicitamos a Corfo operar en las condiciones que se indican:
 
-Declaramos conocer y aceptar las normas para la utilización de los recursos del Programa de Crédito para Intermediarios Financieros No Bancarios (IFNB), Crédito Corfo Mipyme y nos comprometemos a cumplirlas en todas sus partes.
-
-Adj.: Antecedentes señalados en el numeral 6 de las Normas del Programa.
-
-En caso de amortizaciones con una composición distinta a mensual, bimestral, trimestral, semestral o anual, enviar Tabla de Desarrollo propuesta.
-
-__________________________________________
-
-Nombre del Intermediario Financiero y nombre(s) y
-
-firma(s) de(los) representante(s) autorizado(s)
-
-ANEXO Nº 2
-
-Modelo de solicitud de desembolso
-
-------------------------------------- Fecha:
-
-REF. Solicita desembolso con cargo al
-
-Programa de Crédito para Intermediarios
-
-Financieros No Bancarios (IFNB).
-
-Crédito CORFO MIPYME
-
-______________________________
-
-Señores
-
-Corporación de Fomento de la Producción
-
-Gerencia de Inversión y Financiamiento
-
-Presente.
-
-Saludamos atentamente a Uds.,
-
-__________________________________________
-
-Nombre del Intermediario Financiero y nombre(s) y
-
-firma(s) de(los) representante(s) autorizado(s)
+.
 
 ANEXO Nº 3
 
-Documentación requerida para la acreditación de uso de recursos
+Documentación Requerida para la Acreditación de Uso de Recursos
 
 a) Operaciones de crédito destinadas a la inversión:
 
@@ -896,15 +836,17 @@ a) Operaciones de crédito destinadas a la inversión:
 
 . Fotocopias de informes de tasaciones y retasaciones efectuados por profesionales competentes y autorizados por el IFNB para tales efectos, o
 
-. Fotocopia del Informe descriptivo del proyecto de inversión presentado por el/la cliente/a al Intermediario y aceptado por éste a la fecha de "aprobación" del crédito, o
+. Fotocopia del Informe descriptivo del proyecto de inversión presentado por el/la cliente/a al intermediario y aceptado por éste a la fecha de "aprobación" del crédito, o
 
-. Fotocopia de la evaluación de riesgo elaborada por el Intermediario a la fecha de "aprobación del crédito", con firma y timbre del intermediario, donde se especifique la inversión, o
+. Fotocopia de la evaluación de riesgo elaborada por el intermediario a la fecha de "aprobación del crédito'', con firma y timbre del intermediario, donde se especifique la inversión, o
 
 . Fotocopia de los antecedentes de aprobación del crédito, con firma y timbre del IFNB, donde se detalle la inversión, o
 
-. Fotocopia del Informe de Seguimiento Técnico basado en una visita de inspección del Intermediario al beneficiario/a, confeccionados por profesionales competentes y autorizados por el IFNB, pudiéndose asignar esta actividad al ejecutivo comercial, cuando sea su responsabilidad el seguimiento de los proyectos de su cartera. En todos los casos, el informe deberá contar con la firma del jefe de sucursal o zonal del Intermediario.
+. Fotocopia del informe de Seguimiento Técnico basado en una visita de inspección del Intermediario al beneficiario/a, confeccionados por profesionales competentes y autorizados por el IFNB, pudiéndose asignar esta actividad al ejecutivo comercial, cuando sea su responsabilidad el seguimiento de los proyectos de su cartera. En todos los casos, el informe deberá contar con la firma del jefe de sucursal o zonal del intermediario.
 
 b) Operaciones de crédito destinadas al capital de trabajo:
+
+. Fotocopias de las facturas de compra de bienes y/o servicios, o
 
 . Fotocopia del Informe de seguimiento elaborado por el Intermediario, en el que conste la incorporación de recursos en la empresa o la realización de las actividades que se financian, firmado por el jefe de sucursal y el ejecutivo comercial, o
 
@@ -912,33 +854,43 @@ b) Operaciones de crédito destinadas al capital de trabajo:
 
 . Fotocopias de contratos de trabajo suscritos por el beneficiario hasta 6 meses después al otorgamiento del crédito, o
 
-. Fotocopia de minuta y/o antecedentes de aprobación del crédito, o informe de evaluación preparado por la unidad de riesgo con firma y timbre del Intermediario, en el que se especifique que el refinanciamiento será utilizado para capital de trabajo asociado al financiamiento de la operación.
+. Fotocopia de minuta y/o antecedentes de aprobación del crédito, o informe de evaluación preparado por la unidad de riesgo con firma y timbre del intermediario, en el que se especifique que el refinanciamiento será utilizado para capital de trabajo asociado al financiamiento de la operación.
 
-c) Operaciones de Leasing / Leaseback:
+c) Operaciones de crédito destinadas a la compra de vehículos:
+
+. Fotocopias de las facturas de compra del o los vehículos.
+
+. Fotocopias de boletas honorarios por la prestación de servicios de un período de al menos de 6 meses, previos al otorgamiento del financiamiento, o
+
+. Comprobante de ingresos asociados a plataforma o aplicación de delivery, de un período de al menos de 6 meses, previos al otorgamiento del financiamiento.
+
+En el caso de colaboradores de plataformas o aplicaciones de delivery, la condición de empresa beneficiaria se deberá acreditar mediante inicio de actividades en SII y comprobante de inscripción en plataformas o aplicaciones.
+
+d) Operaciones de Leasing / Leaseback:
 
 . Fotocopia de documentos de adquisición del bien, de seguros y/o siniestros asociados a la operación, y de cualquier otro gasto asociado a la operación, o
 
 . Fotocopia del contrato de arrendamiento.
 
-d) Adquisición de bienes usados:
+e) Adquisición de bienes usados:
 
 . Fotocopia del Informe de Seguimiento Técnico basado en una visita de inspección del Intermediario al beneficiario/a, confeccionado por profesionales competentes y autorizados por el IFNB, firmado por el Jefe de sucursal y el ejecutivo comercial, en forma previa o posterior.
 
 . Fotocopias de contratos de compra y venta de bienes usados.
 
-e) Refinanciamiento de Pasivos de terceros:
+f) Refinanciamiento de pasivos de terceros:
 
 . Respaldo de fotocopia de documentos (vales vista/cheques/otros) que acrediten el pago de la deuda refinanciada y
 
 . Respaldo que acredite el refinanciamiento de la deuda de la empresa que originalmente fue destinada al financiamiento de inversión o capital de trabajo de la empresa, de acuerdo a lo establecido en las letras a), b), c) y d) anteriores.
 
-f) Refinanciamiento de Pasivos propios:
+g) Refínanciamiento de pasivos propios:
 
 . Adjuntar liquidación de otorgamiento del crédito que contenga el desglose del monto destinado a refinanciamiento interno del IFNB, y
 
 . Respaldo que acredite refinanciamiento de deuda comercial que originalmente fue destinada al financiamiento de inversión de la empresa, de acuerdo a lo establecido en las letras a), b), c) y d) anteriores.
 
-g) Operaciones de factoring:
+h) Operaciones de factoring:
 
 . Copia de la(s) cuarta(s) copia(s) cedible(s) de la(s) factura(s), y/o
 
@@ -964,35 +916,13 @@ La documentación señalada debe presentar una fecha igual o posterior al curse 
 
 . La minuta y/o antecedentes de aprobación del crédito o informe de evaluación preparado por la unidad de riesgo del capital de trabajo asociado al financiamiento de la operación, podrá presentar una fecha anterior de hasta 3 meses a la fecha de curse de la operación y podrá presentarse una fotocopia de ésta.
 
-. En el caso de refinanciamiento de pasivos de terceros, la documentación que respalde el origen del financiamiento inicial, podrá tener una fecha anterior al curse de la operación, debiendo ser consistente con la fecha del o de los financiamientos originales.
+. En el caso de refinanciamiento de pasivos de terceros, la documentación que respalde el origen del financiamiento inicial podrá tener una fecha anterior al curse de la operación, debiendo ser consistente con la fecha del o de los financiamientos originales.
 
 Además, en el caso de que una empresa haya adquirido un activo con recursos propios y obtuviera posteriormente el refinanciamiento originado en el Programa, la documentación de respaldo correspondiente podrá tener una fecha anterior de hasta 3 meses a la fecha de curse de la operación.
 
 Los antecedentes de respaldo para la acreditación del uso de recursos y del beneficiario/a final deben ser consistentes con la información que el IFNB haya reportado a Corfo, ya sea en las rendiciones mensuales, o en cualquiera oportunidad por la que esté obligado a informar a la Corporación, según lo establece las Normas del Programa.
 
-ANEXO Nº 4
-
-Declaración Cumplimiento de Condiciones establecidas para operaciones destinadas a capital de trabajo o a reprogramación de pasivos o la adquisición de bienes usados
-
-DECLARACIÓN JURADA SIMPLE
-
-Los abajo firmantes, actuando en la representación que invisten, declaramos bajo juramento (marcar con cruz según corresponda) que:
-
-El financiamiento señalado corresponde a la operación identificada por el intermediario Financiero como..........................., aprobada el..............
-
-Autorizamos a CORFO, o a quienes ésta designe, para realizar las revisiones y auditorías que correspondan, según lo estipulado en la Normativa del Programa de Crédito para Intermediarios Financieros No Bancarios (IFNB), Crédito CORFO MIPYME. Nos comprometemos a proporcionar a CORFO los antecedentes que se requieran de la operación de crédito ya identificada.
-
-En ........................................, a .... de .......... de ..................
-
------------------------------- -------------------------------------
-
-Firma Representante Firma Representante
-
-Intermediario Financiero
-
---------------------------------------------------------
-
-Firma empresario(a) (persona natural)
+.
 
 ANEXO Nº 5
 
