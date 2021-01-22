@@ -66,6 +66,12 @@ e) Dependencia: El estado de carácter permanente en que se encuentran las perso
 
 f) Entorno: El medio ambiente, social, natural y artificial, en el que las personas desarrollan su participación social, económica, política y cultural, a lo largo de todo su ciclo vital.
 
+g) Persona con discapacidad auditiva: Aquella que, debido a su funcionalidad auditiva reducida o inexistente, producida por enfermedad, accidente o vejez, en la interacción con el entorno se enfrenta a barreras que impiden su acceso a la información y comunicación auditiva oral dadas por la lengua mayoritaria.
+
+h) Persona sorda: Aquella que, a partir de su funcionalidad auditiva reducida o inexistente, adquirida desde su nacimiento o a lo largo de su vida, se ha desarrollado como persona eminentemente visual, tiene derecho a acceder y usar la lengua de señas, a poseer una cultura sorda e identificarse como miembro de una comunidad lingüística y cultural minoritaria.
+
+i) Comunidad sorda: Grupo de personas que constituyen una minoría lingüística y cultural, conformado principalmente por personas sordas y organizaciones de personas sordas de cualquier tipo, en la que también pueden participar las personas con discapacidad auditiva y las personas oyentes que comparten la lengua y la cultura de las personas sordas.
+
 ## Título I
 
 Derecho a la igualdad de oportunidades
@@ -238,7 +244,13 @@ Las campañas de servicio público financiadas con fondos públicos, la propagan
 
 #### Artículo 26
 
-Se reconoce la lengua de señas como medio de comunicación natural de la comunidad sorda.
+La lengua de señas chilena es la lengua natural, originaria y patrimonio intangible de las personas sordas, así como también el elemento esencial de su cultura e identidad individual y colectiva. El Estado reconoce su carácter de lengua oficial de las personas sordas.
+
+El Estado reconoce y se obliga a promover, respetar y a hacer respetar, de conformidad con la Constitución, las leyes y los tratados internacionales ratificados por Chile y que se encuentren vigentes, los derechos culturales y lingüísticos de las personas sordas, asegurándoles el acceso a servicios públicos y privados, a la educación, al mercado laboral, la salud y demás ámbitos de la vida en sociedad en lengua de señas.
+
+#### Artículo 26 bis
+
+La enseñanza de la lengua de señas será realizada preferentemente por personas sordas calificadas. Un reglamento dictado por el Ministerio de Educación y el Ministerio de Desarrollo Social y Familia regulará las condiciones, requisitos y calificaciones necesarias para la enseñanza de la lengua de señas.
 
 #### Artículo 27
 
@@ -305,6 +317,8 @@ De la educación y de la inclusión escolar
 El Estado garantizará a las personas con discapacidad el acceso a los establecimientos públicos y privados del sistema de educación regular o a los establecimientos de educación especial, según corresponda, que reciban subvenciones o aportes del Estado.
 
 Los establecimientos de enseñanza parvularia, básica y media contemplarán planes para alumnos con necesidades educativas especiales y fomentarán en ellos la participación de todo el plantel de profesores y asistentes de educación y demás integrantes de la comunidad educacional en dichos planes.
+
+La enseñanza para los y las estudiantes sordas en los establecimientos señalados en el inciso anterior deberá garantizar el acceso a todos los contenidos del currículo común, así como cualquier otro que el establecimiento educacional ofrezca, a través de la lengua de señas como primera lengua y en español escrito como segunda lengua.
 
 #### Artículo 35
 
@@ -405,6 +419,8 @@ Los vehículos que se importen mediante la franquicia establecida en este artíc
 Las cantidades en dólares establecidas en el presente artículo se actualizarán anualmente a contar del 1 de enero de cada año mediante decreto supremo expedido por el Ministerio de Hacienda, conforme a la variación experimentada por el Índice Oficial de Precios al por Mayor de los Estados Unidos de América en el período de doce meses comprendido entre el 1 de noviembre del año que antecede al de la dictación del decreto supremo y el 30 de octubre del año anterior a la vigencia de dicho decreto. Si el factor de actualización resultare negativo, se mantendrá el valor vigente anterior.
 
 Las personas jurídicas sin fines de lucro, que tengan por objeto la asistencia, cuidado o apoyo de personas con discapacidad podrán impetrar los beneficios establecidos en este artículo, para importar vehículos destinados exclusivamente al transporte de personas con discapacidad que ellas atiendan en el cumplimiento de sus fines.
+
+> **Nota.** El Decreto N° 298, Hacienda, publicado el 07.07.2020, dispone mantener, a contar del 1 de enero de 2020, las cantidades en dólares señaladas en el presente artículo, de acuerdo a lo establecido en el decreto supremo Nº 1.741, de 2017, del Ministerio de Hacienda.
 
 #### Artículo 49
 
