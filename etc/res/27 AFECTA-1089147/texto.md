@@ -458,9 +458,7 @@ La no presentación de la primera solicitud de desembolso dentro del plazo de 90
 
 En casos calificados y si las características de las inversiones que se financian lo justifican, el CEC podrá otorgar prórrogas a esos plazos, previa solicitud presentada por los Intermediarios Financieros con una anticipación de al menos 30 días previos al vencimiento de los plazos descritos con anterioridad.
 
-22. Comisión por modificación de condiciones originales de préstamos aprobados.
-
-Las modificaciones posteriores al desembolso que soliciten los IFI de préstamos de refinanciamiento aprobados que obliguen a cambios o canjes de pagarés o modificaciones de escrituras suscritas, estarán afectas a una comisión de gestión. Esta comisión corresponderá a un 0,25% del saldo deudor de capital de la operación vigente al momento de aprobarse la modificación y tendrá un mínimo de UF10 y un máximo de UF100.
+### 22. Suprimido
 
 ### 23. Reprogramación de Operaciones
 
@@ -472,7 +470,7 @@ Las operaciones reprogramadas no pueden exceder el monto máximo definido en est
 
 Las reprogramaciones no podrán contener una disminución del plazo originalmente pactado con el beneficiario final. Además, la operación original más el plazo adicional de la reprogramación no podrá exceder el plazo máximo establecido en esta normativa.
 
-La tasa de interés aplicada por el Intermediario Financiero a la reprogramación debe ser inferior a la tasa máxima convencional a la fecha de la reprogramación. Asimismo, la tasa de interés de CORFO al Intermediario Financiero podrá corresponder a la más alta entre la tasa vigente al momento en que se realizó la solicitud original y la tasa vigente al momento de la reprogramación, teniendo como referencia la tasa máxima convencional vigente al momento de la reprogramación. La reprogramación de las operaciones podrá modificar la frecuencia de pago definida en la operación original.
+La tasa de interés aplicada por el Intermediario Financiero a la reprogramación debe ser inferior a la tasa máxima convencional a la fecha de la reprogramación. Asimismo, la tasa de interés de CORFO al Intermediario Financiero podrá corresponder a la más baja entre la tasa de interés vigente al momento en que el intermediario realizó la solicitud original de financiamiento y la tasa de interés vigente al momento de la solicitud de reprogramación, correspondiendo, además, a la tasa de interés del plazo residual de la operación, teniendo siempre como referencia la tasa máxima convencional vigente al momento de la reprogramación. La reprogramación de las operaciones podrá modificar la frecuencia de pago definida en la operación original.
 
 En caso de una reprogramación, el capital de la operación podrá verse incrementado únicamente por intereses por mora, intereses capitalizados por concepto de periodo de gracia y los siguientes gastos asociados al proceso de reprogramación: Gastos notariales y el costo de las primas de seguros cuyo objetivo sea garantizar únicamente el pago de cuotas impagas del crédito, tales como seguro de desgravamen, seguro de cesantía o seguro de invalidez.
 
