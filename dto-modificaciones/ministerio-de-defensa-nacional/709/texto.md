@@ -16,7 +16,7 @@ Considerando:
 
 Decreto
 
-1. Modifícase el decreto supremo N° 705, de fecha 06.DIC.2000, del Ministerio de Defensa Nacional, en cuanto a la dependencia orgánica del Centro de Estudios e Investigaciones Militares el que a contar de la total tramitación de este decreto, pasará a depender del Estado Mayor General del Ejercito, dejando de depender de la Comandancia en Jefe del Ejército.
+1. Modifícase el decreto supremo N° 705, de fecha 06.DIC.2000, del Ministerio de Defensa Nacional, en cuanto a la dependencia orgánica del "Centro de Estudios e Investigaciones Militares" del General de División Manuel Montt Martínez el que a contar de la total tramitación de este decreto, pasará a depender del Estado Mayor General del Ejercito, dejando de depender de la Comandancia en Jefe del Ejército.
 
 2. Lo establecido en el presente decreto supremo no afectará las plantas autorizadas del Ejército y no originará mayores gastos.
 
