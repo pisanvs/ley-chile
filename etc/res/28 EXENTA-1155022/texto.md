@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 28 EXENTA, DE 2021
+
+Por resolución exenta N° 28, de fecha 8 de enero de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Coquimbo, se aprobó el Gabinete Técnico creado e instalado en la I. Municipalidad de Canela, de la provincia de Choapa, cuyo domicilio está ubicado en Rosario Cortés N° 715, comuna de Canela, por cumplir con los requisitos exigidos en la normativa. Asimismo, se autorizó a la Ilustre Municipalidad de Canela de la provincia de Choapa, para otorgar licencias de conductor, conforme a las disposiciones del DFL N° 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fijó el texto refundido, coordinado y sistematizado de la ley N° 18.290, de Tránsito, y sus reglamentos. La Municipalidad precedentemente individualizada deberá suspender el otorgamiento de licencias de conductor, en el evento de faltarle alguno de los requisitos que hicieron posible la presente autorización.-
+
+Juan Segundo Fuentes Isla, Secretario Regional Ministerial de Transportes y Telecomunicaciones de Coquimbo.
