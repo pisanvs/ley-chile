@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 3 EXENTA, DE 2021
+
+Por resolución exenta N° 3, de fecha 6 de enero de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de la Araucanía, se aprobó el Gabinete Técnico creado e instalado en la I. Municipalidad de Teodoro Schmidt, de la provincia de Cautín, cuyo domicilio está ubicado en Avenida Balmaceda 410, comuna de Teodoro Schmidt, por cumplir con los requisitos exigidos en la normativa. Asimismo, se autorizó a la Ilustre Municipalidad de Teodoro Schmidt de la provincia de Cautín, para otorgar Licencias de Conductor de acuerdo a lo señalado en el decreto con fuerza de ley N° 1, de 2007, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito N° 18.290 y sus reglamentos. La I. Municipalidad de Teodoro Schmidt, deberá suspender el otorgamiento de Licencias de Conductor, en el evento de faltarle alguno de los requisitos que hicieron posible la presente autorización.-
+
+Stephanie Andree Caminondo Eyssautier, Secretaria Regional Ministerial de Transportes y Telecomunicaciones (S), Región de la Araucanía.
