@@ -14,63 +14,17 @@ Y teniendo presente: Lo dispuesto en el artículo 13 Nº21 del D.F.L. Nº290 de 
 
 D e c r e t o:
 
-1. Establécese como recinto portuario de la Empresa Portuaria Talcahuano San Vicente, las áreas marítimas y terrestres comprendidas dentro de los polígonos identificados por los siguientes deslindes, según se indica en planos Nº SVE-TC-9816, de la Empresa Portuaria de Chile, protocolizado con fecha 11 de marzo de 1998 bajo el Nº 921 en la notaría de Valparaíso de don Alfonso Díaz S., y Nº TAL-RP-01-2012, de la Empresa Portuaria Talcahuano San Vicente, protocolizado con fecha 26 de enero de 2012, bajo el Nº 33, repertorio 203/2012, en la Notaría de Talcahuano de don Gastón Ariel Santibáñez Torres:
+#### Artículo único
 
-PUERTO DE TALCAHUANO
+Establécese como recinto portuario de la Empresa Portuaria Talcahuano - San Vicente, las áreas marítimas y terrestres comprendidas dentro de los polígonos identificados por los siguientes deslindes, según se indica en los planos Nº EPTSV-TAL-04-2019 MOD A-0 y NºEPTSV-SVE-02-2019 MOD A-1 de la Empresa Portuaria Talcahuano - San Vicente, protocolizados con fecha 18 de octubre de 2019, al final del Registro de Documentos Agregados del Notario Público y Archivero Judicial de Talcahuano, bajo los números 349-2019 y 350-2019, respectivamente, correspondientes al Quinto Bimestre Septiembre-Octubre año 2019:
 
-PUERTO DE SAN VICENTE
+Puerto de Talcahuano
 
-NORTE : En línea quebrada y curva continua, en tramos
+.
 
-de cien metros sobre el Oceáno Pacífico y mil
+Puerto de San Vicente
 
-ochenta y cuatro metros con terrenos de la
-
-Armada de Chile, Camino Público y terrenos
-
-Sucesión R. Matus (Puntos F-G-H). El tramo
-
-F-G sobre el mar, tiene una orientación S
-
-54,45° E.
-
-ESTE : En línea quebrada continua en tramos de
-
-ochenta y seis metros con Av. Latorre,
-
-callejón sin nombre y muelle pesquero, y
-
-setecientos dieciocho metros sobre la Bahía de
-
-San Vicente (Puntos H-A-B). El tramo A - B
-
-sobre el mar, tiene una orientación S 5,9° E.
-
-SUR : En línea quebrada continua, en tramos de
-
-seiscientos y mil doscientos treinta y seis
-
-metros sobre la Bahía de San Vicente (Puntos
-
-B-C-D), según las siguientes orientaciones:
-
-Tramo B - C: S 57,6° O
-
-Tramo C - D: S 85,95° O
-
-OESTE : En línea quebrada continua, en tramos de
-
-quinientos doce y seiscientos ochenta y cuatro
-
-metros sobre la Bahía de San Vicente (Puntos
-
-D-E-F), según las siguientes orientaciones:
-
-Tramo D - E: N 22,95° E
-
-Tramo E - F: N 35,55° E
-
-> **Nota.** El N° 2 del Artículo 1° del Decreto 165, Transportes, publicado el 22.04.2013, rectifica la letra b) del artículo 2° del Decreto 101, Transportes, publicado el 07.12.2011, modificatorio de la presente norma, en el sentido de reemplazar diversos puntos de su letra b).
+.
 
 Anótese, tómese razón y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República, Claudio Hohmann Barrientos, Ministro de Transportes y Telecomunicaciones.
 
