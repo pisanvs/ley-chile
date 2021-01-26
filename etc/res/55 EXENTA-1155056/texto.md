@@ -1,0 +1,61 @@
+PONE TÉRMINO A SUSPENSIÓN DE PLAZO QUE INDICA Y REANUDA CONSULTA PÚBLICA PARA EL ANTEPROYECTO DEL PLAN DE DESCONTAMINACIÓN POR CLOROFILA "A", TRANSPARENCIA Y FÓSFORO DISUELTO, PARA LA CUENCA DEL LAGO VILLARRICA
+
+Núm. 55 exenta.- Santiago, 22 de enero de 2021.
+
+Vistos:
+
+Lo dispuesto en la ley N° 19.300, sobre Bases Generales del Medio Ambiente; en el decreto supremo N° 39, de 2012, del Ministerio del Medio Ambiente, que Aprueba Reglamento para la Dictación de Planes de Prevención y de Descontaminación; en el decreto supremo N° 19, de 2013, del Ministerio del Medio Ambiente, que Establece Normas Secundarias de Calidad Ambiental para la Protección de las Aguas Continentales Superficiales del Lago Villarrica; en el decreto supremo N° 43, de 2017, del Ministerio del Medio Ambiente, que Declara Zona Saturada por Clorofila "A", Transparencia y Fósforo disuelto, a la cuenca del Lago Villarrica; en la resolución exenta N° 1.066, de 2018, del Ministerio del Medio Ambiente, que Da Inicio a Proceso de Elaboración del Plan de Descontaminación por Clorofila "A", Transparencia y Fósforo disuelto, para la cuenca del Lago Villarrica; en la resolución exenta N° 437, de 2020, del Ministerio del Medio Ambiente, que Aprueba Anteproyecto del Plan de Descontaminación por Clorofila "A", Transparencia y Fósforo disuelto, para la cuenca del Lago Villarrica; en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia; en la ley N° 19.880, que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; en el decreto supremo Nº 104, de 2020, del Ministerio del Interior y Seguridad Pública, que declara estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile; en los decretos supremos Nºs. 269, de 2020, 400, de 2020, 646, de 2020 y 1, de 2021, todos del Ministerio del Interior y Seguridad Pública, que prorrogan la declaración de estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile, por el lapso que indican; en la resolución exenta N° 249, de 2020, del Ministerio del Medio Ambiente, que instruye medidas extraordinarias de visación de documentos del Ministerio del Medio Ambiente-Subsecretaría del Medio Ambiente a raíz de la alerta sanitaria por emergencia de salud pública de importancia internacional (ESPII) por brote de coronavirus (Covid-19); en el memorándum N° 03/2021, de 14 de enero de 2021, de la Secretaría Regional Ministerial del Medio Ambiente de la Región de la Araucanía; en la resolución N° 7, de 2019, de la Contraloría General de la República, que Fija Normas sobre Exención del Trámite de Toma de Razón; y,
+
+Considerando:
+
+1. Que, de conformidad con lo establecido en el artículo 69, de la Ley N° 19.300 sobre Bases Generales del Medio Ambiente ("Ley N° 19.300"), el Ministerio del Medio Ambiente es la Secretaría de Estado encargada de colaborar con el Presidente de la República en el diseño y aplicación de políticas, planes y programas en materia ambiental, así como en la protección y conservación de la diversidad biológica y de los recursos naturales renovables e hídricos, promoviendo el desarrollo sustentable, la integridad de la política ambiental y su regulación normativa.
+
+2. Que el decreto supremo N° 39, de 2012, del Ministerio del Medio Ambiente que Aprueba Reglamento para la dictación de Planes de Prevención y Descontaminación, dispone en su artículo 10 que: "Elaborado el anteproyecto de Plan, el Ministro dictará la resolución que lo apruebe y lo someta a consulta pública".
+
+3. Que, por resolución exenta N° 437, de 2020, del Ministerio del Medio Ambiente, se aprobó el Anteproyecto del Plan de Descontaminación por Clorofila "A", Transparencia y Fósforo disuelto, para la cuenca del Lago Villarrica. Dicha resolución, además, suspendió el inicio del plazo de consulta pública del instrumento hasta el término del estado de excepción constitucional de catástrofe por calamidad pública declarado por el brote de coronavirus, de conformidad al decreto supremo N° 104, de 2020, del Ministerio del Interior y Seguridad Pública.
+
+4. Que, el estado de excepción constitucional ha sido prorrogado mediante el decreto supremo N° 269, de 2020, el decreto supremo N° 400, de 2020, el decreto supremo N° 646, de 2020 y el decreto supremo N° 1, de 2021, todos del Ministerio del Interior y Seguridad Pública.
+
+5. Que, sin perjuicio de haberse prorrogado el estado de excepción, esta Secretaría de Estado estima necesario reanudar el proceso de consulta pública del Anteproyecto del Plan de Descontaminación por Clorofila "A", Transparencia y Fósforo disuelto, para la cuenca del Lago Villarrica, en virtud de los siguientes fundamentos:
+
+(i) El deber de esta Secretaría de Estado de propender a una recuperación sostenible mediante la oportuna implementación de los instrumentos de gestión ambiental contemplados en la ley N° 19.300.
+
+(ii) El deber de la Administración del Estado de actuar en concordancia con los principios de eficiencia y eficacia previstos en los artículos 3 y 5 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
+
+(iii) El deber de la Administración del Estado de actuar en concordancia con el principio de continuidad de la función pública con la finalidad de satisfacer las necesidades de las personas de manera continua y permanente, de conformidad con el artículo 3 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
+
+(iv) Lo dispuesto por la Contraloría General de la República, en dictamen N° 3.610, de 2020, donde considera que el brote de Covid-19 representa una situación de caso fortuito que, atendidas las graves consecuencias que su propagación en la población puede generar, habilita la adopción de medidas extraordinarias de gestión interna de los órganos y servicios públicos que conforman la Administración del Estado. Lo anterior, con el objeto de resguardar a las personas que en ellos se desempeñan y a la población evitando así la extensión del virus, al tiempo de asegurar la continuidad mínima necesaria de los servicios públicos críticos, esto es, aquellos cuyas funciones no pueden paralizarse sin grave daño a la comunidad.
+
+(v) Lo dispuesto por la Contraloría General de la República, en dictamen N° 10.084, de 2020, donde sostiene que en este contexto, y dada, por una parte, la importancia de prevenir que los procedimientos de aprobación o modificación de instrumentos regulatorios se paralicen indefinidamente ante la imposibilidad de llevar a cabo de manera presencial las audiencias públicas o las exposiciones a la comunidad y, por la otra, la necesidad de proteger la salud de los servidores públicos y de la población frente a la pandemia, resulta procedente que ante la singularizada contingencia, el desarrollo de dichas instancias de participación ciudadana se efectúe de manera mixta a través de medios tecnológicos.
+
+6. Que, la reanudación de la consulta pública del Anteproyecto del Plan de Descontaminación por Clorofila "A", Transparencia y Fósforo disuelto, para la cuenca del Lago Villarrica, para asegurar la participación en igualdad de condiciones y de manera que resguarde tanto la salud de la comunidad como la salud de los funcionarios públicos, se realizará de conformidad a las siguientes medidas de resguardo:
+
+(i) Difusión a través de medios de comunicación regional y redes sociales del Ministerio.
+
+(ii) Realización de, a lo menos, seis (6) actividades telemáticas dirigidas a diversos actores de la cuenca del Lago Villarrica.
+
+(iii) Realización de actividades presenciales a solicitud de parte en comunas que se encuentren en fase 2 del Plan Paso a Paso de la autoridad sanitaria, y en la medida que se cumplan todos los requerimientos de aforo y medidas establecidas por la autoridad sanitaria para dicho tipo de actividades.
+
+(iv) En el evento que cualquiera de las comunas pertenecientes a la zona declarada saturada por el decreto supremo N° 43, de 2017, ingrese a Fase 1 del Plan Paso a Paso, se prorrogará el plazo de la consulta pública por el mismo número de días que las comunas de la cuenca estuvieron en fase 1. Una vez trascurrido el plazo indicado en el resuelvo 2 literal b) de esta resolución, el Ministerio informará, mediante resolución publicada en el Diario Oficial, la fecha hasta la cual se prorrogará el plazo para realizar observaciones.
+
+Lo anterior, considerando el diseño del proceso de reanudación de la participación ciudadana socializado con el Comité Operativo Ampliado y las Municipalidades respectivas.
+
+7. El texto del Anteproyecto del Plan de Descontaminación por Clorofila "A", Transparencia y Fósforo disuelto, para la cuenca del Lago Villarrica, así como su expediente y toda otra documentación pertinente, fue publicado en forma íntegra en el sitio electrónico: https://planesynormas.mma.gob.cl/normas/expediente/index.php?tipo=busqueda&id_expediente=934134. Asimismo, un extracto del Anteproyecto del Plan de Descontaminación por Clorofila "A", Transparencia y Fósforo disuelto, para la cuenca del Lago Villarrica, fue publicado en el Diario Oficial, el 8 de junio de 2020. Finalmente, la documentación señalada se encuentra disponible para consulta en las oficinas de la Secretaría Regional Ministerial del Medio Ambiente de la Región de la Araucanía, ubicadas en calle Patricio Lynch N° 550, Temuco. Todo lo anterior, de conformidad a lo establecido en la resolución exenta N° 437, de 2020.
+
+8. Que, atendida la existencia de elementos de juicio suficientes que justifican la necesidad de dejar sin efecto la medida provisoria de suspensión decretada mediante resolución exenta N° 437, de 2020, de este Ministerio, se estima necesario reanudar el proceso de consulta pública contemplado para el Anteproyecto del Plan de Descontaminación por Clorofila "A", Transparencia y Fósforo disuelto, para la cuenca del Lago Villarrica.
+
+Resuelvo:
+
+1. Poner término a la suspensión del plazo de inicio del proceso de consulta pública del Anteproyecto del Plan de Descontaminación por Clorofila "A", Transparencia y Fósforo disuelto, para la cuenca del Lago Villarrica, establecida en la resolución exenta N° 437, de 2020, ya referida.
+
+2. Someter a consulta pública el Anteproyecto del Plan de Descontaminación por Clorofila "A", Transparencia y Fósforo disuelto, para la cuenca del Lago Villarrica, aprobado mediante resolución exenta N° 437, de 25 de mayo de 2020, de este Ministerio, a partir del día hábil siguiente de la publicación en el Diario Oficial de la presente resolución.
+
+Para tales efectos:
+
+a) Remítase copia del expediente al Consejo Consultivo de la Región de la Araucanía y al Consejo Consultivo Nacional para que emita su opinión sobre el Anteproyecto del Plan de Descontaminación por Clorofila "A", Transparencia y Fósforo disuelto, para la cuenca del Lago Villarrica. Dichos Consejos dispondrán de 60 días, contados desde la recepción de la copia del expediente, para el despacho de su opinión. La opinión que emita será fundada y en ella se dejará constancia de los votos disidentes.
+
+b) Dentro del plazo de 60 días hábiles, contados desde el día hábil siguiente a la publicación en el Diario Oficial de la presente resolución, cualquier persona, natural o jurídica, podrá formular observaciones al contenido del Anteproyecto del Plan de Descontaminación por Clorofila "A", Transparencia y Fósforo disuelto, para la cuenca del Lago Villarrica. Las observaciones deberán ser fundadas y presentadas a través de la plataforma electrónica http://consultasciudadanas.mma.gob.cl o bien, por escrito en el Ministerio del Medio Ambiente o en las Secretarías Regionales Ministeriales del Medio Ambiente correspondientes al domicilio del interesado.
+
+Anótese, publíquese, comuníquese y archívese.- Carolina Schmidt Zaldívar, Ministra del Medio Ambiente.
+
+Lo que transcribo para Ud. para los fines que estime pertinentes.- Paulina Sandoval Valdés, Subsecretaria (S) del Medio Ambiente.
