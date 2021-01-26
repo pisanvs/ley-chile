@@ -44,7 +44,7 @@ Los antecedentes que se presenten al Serviu para efectos de obtener la calificac
 
 5. Las personas que resulten seleccionadas en virtud del presente llamado, pertenecientes al Registro de Familias del Programa de Asentamientos Precarios y/o que ocupan terrenos en un Campamento del Catastro, ambos registros de este Ministerio, deberán desarmar la mediagua o habitación construida en dichos terrenos. Las familias postulantes no podrán transferir, entregar, ceder o arrendar estos terrenos de ningún modo a otras personas, debiendo quedar desocupados desde el momento de la entrega de la vivienda del proyecto habitacional o cuando la persona beneficiada aplique, si corresponde, los Gastos de Traslado Transitorio, a los que se refiere la resolución exenta Nº 4.017 (V. y U.), de fecha 28 de junio de 2016, que aprueba el Manual de Procedimientos para Aplicación de Gastos de Traslados Transitorios y Subsidios de Albergues Transitorios, del Programa de Campamentos,
 
-6. Los recursos destinados a nivel nacional para la selección de familias beneficiarias alcanzarán hasta 300.000 Unidades de Fomento.
+6. Los recursos destinados a nivel nacional para la selección de familias beneficiarias alcanzarán hasta 356.241,12 Unidades de Fomento.
 
 La imputación de recursos correspondiente a familias del Catastro de Campamentos se hará con cargo a los recursos identificados en el Programa del Fondo Solidario de Elección de Vivienda como "Sin Regionalizar". La imputación de recursos correspondientes a familias que no integren dicho catastro se hará con cargo a los recursos del Programa del Fondo Solidario de Elección de Vivienda de cada región.
 
