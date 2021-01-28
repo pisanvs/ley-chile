@@ -88,11 +88,9 @@ Los servicios públicos y demás organismos de la Administración del Estado, en
 
 Lo anterior, de conformidad con lo señalado en los convenios que previamente se hayan celebrado o corresponda celebrar con las entidades privadas, en los casos que la prestación de sus servicios sea necesaria.
 
-#### Artículo 4º
+#### Artículo 4°
 
-Los efectos de este decreto tendrán vigencia hasta el 30 de junio de 2020, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que éstas no mejoren.
-
-> **Nota.** El numeral 1 del Decreto 22, Salud, publicado el 07.07.2020 dispone prorrogar hasta el 5 de febrero de 2021, la vigencia de la alerta sanitaria declarada y de las facultades extraordinarias conferidas mediante la presente norma.
+Los efectos de este decreto tendrán vigencia hasta el 31 de julio de 2021, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que éstas no mejoren.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Paula Daza Narbona, Ministra de Salud (S).
 
