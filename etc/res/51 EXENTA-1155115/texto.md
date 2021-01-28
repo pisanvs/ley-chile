@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 51, de fecha 18 de enero de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Tarapacá, se prorrogó por cuatro (4) meses el plazo establecido en el Resuelvo 2 de la resolución exenta N° 704, de 16 de septiembre de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Tarapacá, para ejecutar las obras de pavimentación especificadas en los ordinarios N°671, de 29 de julio de 2019, y N°391, de 28 de abril de 2020, ambos de la citada Secretaría Regional Ministerial. En consecuencia, las referidas obras deberán ejecutarse a más tardar el 21 de mayo de 2021.-
+
+Carlos Fernando Navarrete Cortés, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Tarapacá.
