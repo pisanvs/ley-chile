@@ -44,6 +44,8 @@ Para lo anterior, se entenderá que las bandas utilizadas según tecnología, co
 
 Asimismo, existirá un Protocolo Básico de Homologación de cada modelo de los distintos equipos terminales, contenido en el Anexo II de la presente resolución, y también parte integrante de la misma, descriptivo del procedimiento conducente a controlar, entre otros aspectos, el cumplimiento por dichos equipos de la exigencia antes establecida, y sin cuya verificación en los términos y condiciones ahí fijados, aquéllos no podrán ser comercializados en el país. Sólo una vez verificada la correspondencia de aquellos equipos con el modelo homologado, según previene el artículo 3º de la presente norma, aquéllos podrán ingresar al circuito de distribución comercial correspondiente.
 
+Las concesionarias de servicios públicos de telecomunicaciones y quienes comercialicen equipos terminales móviles en el país deberán habilitar y mantener activa la funcionalidad de sintonización del servicio de radiodifusión de los equipos que la posean, cualquiera que sea el canal a través del cual sean comercializados, a cuyos efectos cada modelo de los distintos equipos terminales deberá someterse al procedimiento que al efecto se establezca en el protocolo Básico de Homologación a que se refiere el inciso precedente, el cual también aplicará a efectos de poder ingresar los equipos terminales al circuito de distribución comercial.
+
 #### Artículo 2º
 
 Para efectos de lo previsto en el inciso primero del artículo anterior y una vez verificado el procedimiento de homologación referido en su inciso final, los equipos correspondientes al modelo homologado deberán ostentar un sello distintivo ubicado en forma visible en la parte exterior frontal o alguna de las superficies exteriores laterales de su caja, envoltorio o embalaje, el cual identificará las capacidades de éstos para funcionar en redes tales como 2G, 3G, 4G, sean algunas, todas o una combinación de las mismas, así como aquellas otras tecnologías que se incorporen en el futuro. No podrán comercializarse, ni exponerse para su venta al público en general, equipos terminales sin la adhesión del correspondiente sello. Lo mismo, en relación a los equipos, para todo aquel espacio físico o virtual donde se exhiban o publiciten.
@@ -106,6 +108,8 @@ q) Fecha de inscripción en la base de datos
 
 r) Nombre empresa certificadora que inscribe en la base de datos.
 
+s) Dispone de Servicio de Radiodifusión: SI/NO/NA (Sin Información).
+
 La base de datos centralizada deberá contener IMEIs de una longitud y características tales que cumplan con los requisitos técnicos de los equipos de red denominados EIRs, en el entendido que los IMEIs ahí registrados deberán corresponder unívocamente a los IMEIs de la base de datos centralizada.
 
 Asimismo, las concesionarias, en sus páginas web, deberán poner a disposición de los usuarios un mecanismo de búsqueda simple, preciso, de fácil acceso y ubicado en un lugar destacado, que permita que aquéllos, ingresando el IMEI de su equipo terminal, verifiquen el estado de dicho equipo, de conformidad al detalle que mediante oficio informe la Subsecretaría. Dicho mecanismo de búsqueda deberá además informar de otros motivos que pudieran determinar el bloqueo del terminal.
@@ -148,7 +152,7 @@ Se excluyen de la homologación los terminales utilizados para propósitos espec
 
 #### Artículo 8º
 
-En el caso de los terminales que sean ingresados al país por personas naturales para su uso personal, será responsabilidad de estas últimas, al momento de su adquisición, la verificación de las características técnicas del equipo en relación al cumplimiento del soporte de bandas señaladas en el Anexo I. El soporte de las bandas del terminal deberá acreditarse documentalmente ante alguna de las empresas certificadoras, las que, a su vez, deberán realizar una validación documental de los datos del equipo. Cumplido lo anterior, será la misma empresa certificadora la que deberá incorporar a la base de datos centralizada, los datos correspondientes a dicho terminal, precisando que se trata de una Inscripción Administrativa, de conformidad a lo previsto en la letra k) del artículo 3º de la presente resolución.
+En el caso de los terminales que sean ingresados al país por personas naturales para su uso personal, será responsabilidad de estas últimas, al momento de su adquisición, la verificación de las características técnicas del equipo en relación al cumplimiento del soporte de bandas señaladas en el Anexo I y la funcionalidad del servicio de radiodifusión. El soporte de las bandas del terminal deberá acreditarse documentalmente ante alguna de las empresas certificadoras, las que, a su vez, deberán realizar una validación documental de los datos del equipo. Cumplido lo anterior, será la misma empresa certificadora la que deberá incorporar a la base de datos centralizada, los datos correspondientes a dicho terminal, precisando que se trata de una Inscripción Administrativa, de conformidad a lo previsto en la letra k) del artículo 3º de la presente resolución. Para estos casos de Inscripción Administrativa, y respecto de la funcionalidad de radiodifusión, se deberá incorporar en el campo respectivo de la base de datos centralizada el valor NA (sin información), conforme a lo previsto en la letra s) del artículo 3º de la presente resolución.
 
 La validación documental e Inscripción Administrativa del equipo no irrogará costo alguno a los usuarios requirentes de ella, siempre y cuando aquélla no supere la cantidad de un equipo terminal al año por persona natural. Con todo, cada empresa certificadora sólo estará obligada a esta validación documental e Inscripción Administrativa de equipos, en forma gratuita, con un límite máximo anual de un 2% del total anual de los ingresos a la base de datos centralizada por empresa certificadora.
 
@@ -208,6 +212,18 @@ El objetivo de estas pruebas es validar que los dispositivos no estén bloqueado
 
 Para ello será necesario hacer pruebas de registro respecto de cada terminal, utilizando tarjetas SIM -o sus equivalentes tecnológicos- de todas las concesionarias, por tecnología y por cada banda disponible en el país, según lo establecido en el Anexo I.
 
+3 BIS. PRUEBAS DE HABILITACIÓN DE SERVICIO DE RADIODIFUSIÓN:
+
+El objetivo de estas pruebas es validar que los equipos móviles que dispongan de la facilidad de recepción y sintonización del servicio de radiodifusión, tengan habilitada y mantengan activa dicha funcionalidad de cara a su comercialización en el país, disponiendo para ello de una aplicación que permita la sintonización de radioemisoras.
+
+Al respecto se debe verificar lo siguiente:
+
+i) Que cuenta con funcionalidad de sintonización no deshabilitable desde la interfaz de usuario.
+
+ii) Que cuenta con aplicación de sintonización no desinstalable desde la interfaz de usuario.
+
+iii) La efectiva recepción de la señal del servicio de radiodifusión sonora en el segmento de frecuencia modulada (FM).
+
 ### 4. CERTIFICADO:
 
 4.1. El certificado generado, una vez concluido en forma exitosa el proceso de homologación, deberá contener al menos la siguiente información:
@@ -239,6 +255,8 @@ IMEI
 Fecha término homologación:
 
 Indicar Valor Máximo de SAR, según lo establecido en el artículo 18° de la resolución exenta N° 403, de 2008, y sus modificaciones, de la Subsecretaría de Telecomunicaciones.
+
+Dispone de Servicio de Radiodifusión: (SI/NO)
 
 4.2. En base al resultado de esta homologación, la empresa certificadora determinará el tipo de logotipo que deberán ostentar los terminales que se comercialicen en el país, según lo establecido en el artículo 2º de la presente resolución.
 
