@@ -80,6 +80,16 @@ Se podrá exceptuar de lo dispuesto en el párrafo segundo de este numeral la pe
 
 Asimismo, se exceptúan de la obligación dispuesta en este numeral los menores de 2 años.
 
+4 bis.- Sin perjuicio de lo dispuesto precedentemente, en caso que las personas a las que se refiere el párrafo segundo del numeral anterior, hayan estado contagiadas por el virus SARS-CoV-2 durante el mes que precede a su embarque con destino al territorio nacional, y que, además, 72 horas antes del embarque, el resultado de su Test RT-PCR para SARS-CoV-2 persistiera como positivo, sólo podrán ingresar el país si cuentan con dos resultados positivos para el señalado Test.
+
+Para efectos de lo establecido en el párrafo anterior, la toma de muestra de uno de los Test RT-PCR para SARS-CoV-2 positivos deberá haberse realizado hasta 72 horas antes del embarque, y la toma de muestra del otro Test RT-PCR para SARS-CoV-2 cuyo resultado es positivo, deberá haberse realizado con más de 14 días de diferencia con la fecha de embarque, pero con menos de un mes desde el mismo.
+
+Los certificados en que consten los resultados de estos exámenes deberán acompañarse como documentos adjuntos a la Declaración Jurada definida en el numeral 2 de la presente resolución.
+
+La empresa que efectúe el traslado del pasajero será responsable del cumplimiento de lo dispuesto en este numeral, en los términos dispuestos en el numeral 4 de esta resolución.
+
+A las personas que se encuentran en la situación descrita en este numeral les serán aplicables, con las modificaciones necesarias, las medidas sanitarias dispuestas en esta resolución, en particular lo establecido en los párrafos 6 a 9 de su numeral 4.
+
 5. Dispóngase que los extranjeros no residentes de manera regular en el país, solo podrán ingresar al territorio nacional, si cuentan además, con un seguro médico de viaje vigente, que cubra aquellos gastos que pudieran ocasionar la asistencia médica de urgencia o la atención hospitalaria de urgencia durante toda su estancia en el país, su repatriación por motivos médicos o por defunción. incluida la cobertura de cualquier gasto originado por Covid-19.
 
 El monto mínimo de cobertura para las prestaciones de salud deberá ser de USD$ 30.000 dólares de los Estados Unidos de Norte América.

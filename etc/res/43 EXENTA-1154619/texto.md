@@ -44,8 +44,6 @@ Considerando:
 
 Resuelvo:
 
-> **Nota.** El numeral 122 de la Resolución 644 Exenta, Salud, publicada el 15.07.2021, dispone el reemplazo de la presente norma, sin perjuicio de que las resoluciones que disponen las medidas sanitarias que indican por brote de COVID-19, todas de 2020 y 2021 del Ministerio y en las modificaciones posteriores que se hagan a ésta, seguirán vigentes en lo que no fueran contrarias a la citada resolución.
-
 CAPÍTULO I. DE LAS MEDIDAS SANITARIAS GENERALES
 
 ### I. Cordones sanitarios, aduanas sanitarias, aislamientos o cuarentenas a localidades determinadas
@@ -66,7 +64,7 @@ Asimismo, en las aduanas sanitarias se verificará el cumplimiento de las medida
 
 ### II. Aislamientos en razón a horarios determinados
 
-5. Aislamiento nocturno. Prohíbase a los habitantes de la República salir a la vía pública, como medida de aislamiento, entre las 22:00 y 05:00 horas, según el huso horario correspondiente a la localidad que se trate, salvo aquellas personas que cuenten con salvoconductos individuales o permisos que lo autoricen en virtud del Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Esta medida será ejecutada de acuerdo a las instrucciones que impartan al efecto los Jefes de la Defensa Nacional de las distintas regiones.
+5. Aislamiento nocturno. Prohíbase a los habitantes de la República salir a la vía pública, como medida de aislamiento, entre las 22:00 y 05:00 horas, salvo aquellas personas que cuenten con salvoconductos individuales o permisos que lo autoricen en virtud del Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 599, de 11 de enero de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Esta medida será ejecutada de acuerdo a las instrucciones que impartan al efecto los Jefes de la Defensa Nacional de las distintas regiones.
 
 6. Prohibición de actividades y reuniones sociales en horario de aislamiento nocturno. Asimismo, se prohíbe la realización o participación en eventos y actividades sociales y recreativas en el horario señalado en el numeral anterior.
 
@@ -84,81 +82,65 @@ Se permitirá, asimismo, el ingreso de nuevos residentes a los Establecimientos 
 
 Para la aplicación de lo dispuesto en este numeral deberán observarse los protocolos, resoluciones y circulares que dicte al efecto la autoridad sanitaria, así como las normas particulares de cada uno de los Pasos en los que se encuentre la localidad donde se emplaza el Establecimiento.
 
-8. Medidas en establecimientos dependientes del Sename. Instrúyase al Servicio Nacional de Menores tomar las medidas sanitarias que sean necesarias para evitar el contagio de los niños, niñas y adolescentes bajo su cuidado. Sin perjuicio de lo anterior, independiente del paso en que se encuentre la comuna en que se emplaza el establecimiento, todos los residentes podrán recibir visitas de vínculos significativos, a petición del niño, niña o adolescente, o del visitante, adoptándose todos los resguardos que sean necesarios y cumpliéndose con las medidas sanitarias correspondientes al paso aplicable.
+8. Aislamiento de establecimientos dependientes del SENAME. Instrúyase al Servicio Nacional de Menores disponer la cuarentena de los establecimientos de su dependencia, en cuyo caso no se permitirán visitas. Asimismo, se instruye a dicho servicio público tomar las medidas sanitarias que sean necesarias para evitar el contagio de los niños, niñas y adolescentes bajo su cuidado.
 
-8. bis. Definición de caso confirmado. Se entenderá que una persona está diagnosticada o es un caso confirmado con COVID-19 cuando se cumpla alguna de las siguientes hipótesis:
+Sin perjuicio de lo dispuesto precedentemente, todos los residentes de los establecimientos que se encuentren emplazados en localidades que estén en los Pasos 2, 3 y 4 de los que trata el Capítulo II de esta resolución, podrán recibir visitas de vínculos significativos, a petición del niño, niña o adolescente, o del visitante.
 
-a. La persona cuenta con un resultado positivo para SARS-CoV-2 en un test RT-PCR.
+9. Aislamiento de personas contagiadas. Dispóngase que las personas diagnosticadas con Covid-19 a través de un test RT-PCR para el virus SARS-CoV-2 deben cumplir un aislamiento de acuerdo a los siguientes criterios:
 
-b. La persona se encuentra en la hipótesis definida como caso sospechoso –según lo dispuesto en el numeral 12 de la presente resolución– y presenta un resultado positivo en una prueba de antígenos para SARS-CoV-2, tomado en un centro de salud mandatado, para estos efectos, por la autoridad sanitaria.
+a. Si el paciente presenta síntomas, el aislamiento será por 11 días desde la fecha de inicio de los síntomas.
 
-9. Aislamiento de personas contagiadas. Dispóngase que las personas diagnosticadas con COVID -19 según lo dispuesto en el numeral anterior deben cumplir un aislamiento de acuerdo a los siguientes criterios:
+b. Si el paciente no presenta síntomas, el aislamiento será por 11 días desde la fecha de toma de muestra del test RT-PCR.
 
-a. Si el paciente presenta síntomas el aislamiento será por 11 días desde la fecha de inicio de los síntomas.
+10. Aislamiento de personas que se han realizado un PCR cuyo resultado está pendiente. Dispóngase que las personas que se hayan realizado el test RT-PCR para determinar la presencia de Covid-19, deben cumplir un aislamiento hasta que les sea notificado el resultado.
 
-b. Si el paciente no presenta síntomas, el aislamiento será por 11 días desde la fecha de toma de muestra del examen que identificó la infección.
+Exceptúase de lo dispuesto precedentemente a aquellas personas asintomáticas a las cuales se les ha realizado un test en el contexto de búsqueda activa de casos Covid-19 por parte de la autoridad sanitaria o a quien ella lo haya delegado o autorizado.
 
-Con todo, la autoridad sanitaria o el médico tratante podrán disponer un tiempo de aislamiento mayor en consideración a las condiciones clínicas particulares del paciente.
+Se entenderá como búsqueda activa de casos Covid-19 aquel proceso en virtud del cual la autoridad sanitaria realiza test RT-PCR independiente de la sospecha clínica de la persona.
 
-10. Aislamiento de personas que se han realizado un test RT-PCR cuyo resultado está pendiente. Dispóngase que las personas que se hayan realizado el test RT-PCR para determinar la presencia de COVID -19, deben cumplir un aislamiento hasta que les sea notificado el resultado.
+11. Aislamiento de personas en razón de experimentar un contacto estrecho. Dispóngase que las personas que hayan estado en contacto estrecho con una persona diagnosticada con Covid-19 deben cumplir con la medida de cuarentena por 14 días, desde la fecha del último contacto. La circunstancia de contar con un resultado negativo en un test de RT-PCR para SARS-CoV-2 no eximirá a la persona del cumplimiento total de la cuarentena dispuesta en este numeral.
 
-Exceptúase de lo dispuesto precedentemente a aquellas personas asintomáticas a las cuales se les ha realizado un test en el contexto de búsqueda activa de casos COVID -19 por parte de la autoridad sanitaria o a quien ella lo haya delegado o autorizado.
+Se entenderá por contacto estrecho aquella persona que ha estado en contacto con un caso confirmado con Covid-19, entre 2 días antes del inicio de síntomas y 11 días después del inicio de síntomas del enfermo. En el caso de una persona que no presente síntomas, el contacto deberá haberse producido entre 2 días antes de la toma de muestra del test RT-PCR y durante los 11 días siguientes. En ambos supuestos, para calificarse dicho contacto como estrecho deberá cumplirse además alguna de las siguientes circunstancias:
 
-Se entenderá como búsqueda activa de casos Covid -19 aquel proceso en virtud del cual la autoridad sanitaria u otra institución mandatada por ella, realiza test RT-PCR o test de antígeno que cumpla con los criterios establecidos por el Ministerio de Salud, independiente de la sospecha clínica de la persona.
+- Haber mantenido más de 15 minutos de contacto cara a cara, a menos de un metro, sin mascarilla.
 
-10 bis. Definición de contacto estrecho. Se entenderá por contacto estrecho aquella persona que ha estado en contacto con un caso confirmado o probable con COVID -19, entre 2 días antes del inicio de síntomas y 11 días después del inicio de síntomas del enfermo. En el caso de una persona que no presente síntomas, el contacto deberá haberse producido entre 2 días antes de la toma de muestra del test RT-PCR o prueba de antígenos para SARS-CoV-2 y durante los 11 días siguientes. En ambos supuestos, para calificarse dicho contacto como estrecho deberá cumplirse además alguna de las siguientes circunstancias:
+- Haber compartido un espacio cerrado por 2 horas o más, en lugares tales como oficinas, trabajos, reuniones, colegios, entre otros, sin mascarilla.
 
-a. Haber mantenido más de 15 minutos de contacto cara a cara o contacto físico, a menos de un metro, sin el correcto uso de mascarilla.
+- Vivir o pernoctar en el mismo hogar o lugares similares a hogar, tales como hostales, internados, instituciones cerradas, hogares de ancianos, hoteles, residencias, entre otros.
 
-b. Haber compartido un espacio cerrado por 2 horas o más, en lugares tales como oficinas, trabajos, reuniones, colegios, entre otros, sin el correcto uso de mascarilla.
+- Haberse trasladado en cualquier medio de transporte cerrado a una proximidad menor de un metro con otro ocupante del medio de transporte que esté contagiado, sin mascarilla.
 
-c. Cohabitar o pernoctar en el mismo hogar o lugares similares a hogar, tales como hostales, internados, instituciones cerradas, hogares de ancianos, hoteles, residencias, viviendas colectivas y recintos de trabajo entre otros.
+12. Caso sospechoso. Para efectos de esta resolución, se entenderá como caso sospechoso:
 
-d. Haberse trasladado en cualquier medio de transporte cerrado a una proximidad menor de un metro con otro ocupante del medio de transporte que esté contagiado, sin el correcto uso de mascarilla.
-
-e. Haber brindado atención directa a un caso probable o confirmado, por un trabajador de la salud, sin mascarilla de tipo quirúrgico y, si se realiza un procedimiento generador de aerosoles, sin respirador N95 o equivalente ni antiparras.
-
-El cumplimiento de las circunstancias indicadas precedentemente podrá ser objeto de una investigación epidemiológica de la autoridad sanitaria, en virtud de la cual se podrá considerar a una persona como contacto estrecho, aun cuando no se haya cumplido a cabalidad con ellas.
-
-Sin perjuicio de lo dispuesto precedentemente, no se considerará contacto estrecho a una persona durante un periodo de 90 días después de haber sido un caso confirmado de COVID -19.
-
-11. Aislamiento de personas en razón de experimentar un contacto estrecho. Dispóngase que las personas que hayan estado en contacto estrecho con una persona diagnosticada con COVID -19 deben cumplir con la medida de cuarentena por 11 días, desde la fecha del último contacto. La circunstancia de contar con un resultado negativo en un test de RT-PCR para SARS-CoV-2 no eximirá a la persona del cumplimiento total de la cuarentena dispuesta en este numeral.
-
-12. Definición de caso sospechoso. Para efectos de esta resolución, se entenderá como caso sospechoso:
-
-a) aquella persona que presenta un cuadro agudo de enfermedad que presente al menos un síntoma cardinal o dos síntomas no cardinales, de los que trata el numeral 14, o bien,
+a) aquella persona que presenta un cuadro agudo de infección respiratoria aguda que presente al menos dos de los síntomas señalados en el numeral 14, o bien,
 
 b) aquella persona que presenta una infección respiratoria aguda grave que requiere hospitalización.
 
-Toda persona que se encuentre en alguna de las circunstancias descritas precedentemente deberá proceder a realizar un test RT-PCR para SARS-CoV-2 o prueba de antígenos para SARS-CoV-2, tomado en un centro de salud mandatado, para estos efectos, por la autoridad sanitaria.
+c) aquella persona que, no presentando síntomas, tiene un resultado positivo en una prueba de detección rápida de antígenos para SARS-CoV-2.
 
-12 bis. Caso sospechoso de reinfección. Si una persona presenta un resultado positivo para Test RT-PCR para SARS-CoV-2 90 días después de haber sido caracterizada como un caso confirmado, se considerará como caso sospechoso de reinfección, y se tratará como caso confirmado para todos sus fines.".
+Toda persona que se encuentre en alguna de las circunstancias descritas precedentemente deberá proceder a realizar un Test RT-PCR para SARS-CoV-2.
 
-12 ter. Definición de caso probable. Se entenderá por caso probable cualquiera de las siguientes hipótesis:
+13. Aislamiento de los casos probables. Dispóngase que las personas que sean caracterizadas como caso probable deberán permanecer en aislamiento por 11 días a partir de la fecha de inicio de síntomas.
 
-a. Caso probable por resultado de laboratorio: aquella persona que se encuentra en cualquiera de las siguientes circunstancias:
+Se entenderá por caso probable cualquiera de las siguientes hipótesis:
 
-i. La persona cumple con la definición de caso sospechoso conforme al numeral 12 de la presente resolución, en el cual el resultado del Test RT-PCR para SARS-CoV-2 es indeterminado.
-
-ii. Persona asintomática o con un síntoma no cardinal, conforme a lo establecido en el numeral 14 de la presente resolución, que tiene resultado positivo para una prueba de detección rápida de antígenos para SARS-CoV-2, tomado en un centro de salud u otro establecimiento mandatado, para estos efectos, por la señalada autoridad.
+a. Caso probable por resultado de laboratorio: aquella persona que cumple con la definición de caso sospechoso conforme a las letras a) y b) del numeral 12 de la presente resolución, en el cual el resultado de la PCR es indeterminado.
 
 b. Caso probable por nexo epidemiológico: aquella persona que cumple los requisitos señalados a continuación:
 
-i. ha estado en contacto estrecho con una persona diagnosticada con COVID -19, según lo dispuesto en el numeral 10 bis de esta resolución, y
+i) ha estado en contacto estrecho con una persona diagnosticada con Covid-19 según lo dispuesto en el numeral 11 de esta resolución, y
 
-ii. desarrolla alguno de los síntomas cardinales o al menos dos de los síntomas no cardinales, conforme a lo establecido en el numeral 14 de esta resolución, dentro de los primeros 14 días posteriores al contacto.
+ii) desarrolla fiebre según lo dispuesto en el numeral 14, letra a) de esta resolución o desarrolla al menos dos síntomas de los señalados en dicho numeral 14 dentro de los primeros 14 días posteriores al contacto.
 
-Si por cualquier motivo, un caso probable por nexo epidemiológico se realiza un test RT-PCR para SARS-CoV-2 o prueba de antígenos para SARS-CoV-2 y este resulta positivo, deberá cumplir con lo dispuesto en el numeral 9 de esta resolución. Por el contrario, si el resultado es negativo o indeterminado, se seguirá considerando caso probable y deberá mantener aislamiento hasta completar los 11 días desde la fecha de inicio de síntomas.
+Si por cualquier motivo, un caso probable por nexo epidemiológico se realiza un test RT-PCR para SARS-CoV-2 y este resulta positivo, deberá cumplir con lo dispuesto en el numeral 9 de esta resolución. Por el contrario, si el resultado es negativo o indeterminado, se seguirá considerando caso probable y deberá mantener aislamiento hasta completar los 11 días desde la fecha de inicio de síntomas.
 
-c. Caso probable por imágenes: caso sospechoso conforme al numeral 12 de la presente resolución, con resultado de test RT-PCR para SARS-CoV-2 negativo o indeterminado, pero que cuenta con una tomografía computarizada de tórax con imágenes características de COVID -19 definidas así por un médico en la conclusión diagnóstica.
+c. Caso probable por imágenes: caso sospechoso conforme al numeral 12 de la presente resolución, con resultado de test RT-PCR para SARS-CoV-2 negativo o indeterminado, pero que cuenta con una tomografía computarizada de tórax con imágenes características de Covid-19 definidas así por un médico en la conclusión diagnóstica.
 
 d. Caso probable fallecido: persona fallecida que en ausencia de un resultado confirmatorio por un Test RT-PCR, su certificado médico de defunción establece como causa básica de muerte o factor desencadenante la infección por SARS-CoV-2.
 
-13. Aislamiento de los casos probables. Dispóngase que las personas que sean caracterizadas como caso probable deberán permanecer en aislamiento según lo dispuesto en el numeral 9 de esta resolución, según corresponda.
+14. Síntomas de Covid-19. Para efectos de esta resolución, son síntomas de la Covid-19 los siguientes:
 
-14. Síntomas de COVID -19. Para efectos de esta resolución, son síntomas de la COVID -19 los siguientes:
-
-a. Fiebre, esto es, presentar una temperatura corporal de 37,8 °C o más.
+a. Fiebre, esto es, presentar una temperatura corporal de 37,8 ºC o más.
 
 b. Tos.
 
@@ -182,13 +164,11 @@ k. Cefalea o dolor de cabeza.
 
 l. Diarrea.
 
-m. Anorexia o náuseas o vómitos.
+m. Anorexia o nauseas o vómitos.
 
 n. Pérdida brusca del olfato o anosmia.
 
 o. Pérdida brusca del gusto o ageusia.
-
-Se considerarán síntomas cardinales los indicados en los literales a., n. y o. precedentes, los demás, se consideran síntomas no cardinales.
 
 15. Sobre el cumplimiento de medidas sanitarias por las personas que ingresan al país. Las personas que ingresen al país desde el extranjero deberán cumplir con las medidas dispuestas en la resolución exenta Nº 997, de 2020, del Ministerio de Salud.
 
@@ -282,7 +262,11 @@ No está permitido el público en este tipo de actividades de entrenamiento y co
 
 34. Del funcionamiento de los establecimientos educacionales. Dispóngase, en las localidades que se encuentren en "Paso 1: Cuarentena" la suspensión presencial de las clases en todos los establecimientos de educación parvularia, sala cuna, básica y media, pudiendo continuar la prestación del servicio educacional de manera remota, conforme a los criterios que establezca el Ministerio de Educación.
 
-En las localidades que se encuentren en los Pasos 2, 3 y 4 de los que trata el Capítulo II de esta resolución, se permite el funcionamiento de salas cuna y de establecimientos de educación parvularia, básica y media, debiendo cumplirse con la normativa, instrucciones y protocolos emitidos por el Ministerio de Salud, con el objeto de asegurar las condiciones sanitarias de los establecimientos.
+En las localidades que se encuentren en los Pasos 2, 3 y 4 de los que trata el Capítulo II de esta resolución, se permite el funcionamiento de los establecimientos de educación parvularia y salas cuna, debiendo cumplirse con la normativa, instrucciones y protocolos emitidos por el Ministerio de Salud, con el objeto de asegurar las condiciones sanitarias de los establecimientos.
+
+En las localidades que se encuentren en los Pasos 3 y 4 de los que trata el Capítulo II de esta resolución, se permite el funcionamiento de los establecimientos de educación básica y media, debiendo cumplirse con la normativa, instrucciones y protocolos emitidos por el Ministerio de Salud, con el objeto de asegurar las condiciones sanitarias de los establecimientos.
+
+En las localidades que se encuentren en el Paso 2 se permite el funcionamiento de los establecimientos de educación básica y media, previa autorización de reanudación de clases presenciales por la Secretaría Regional Ministerial de Educación correspondiente, debiendo cumplirse con la normativa, instrucciones y protocolos emitidos por el Ministerio de Salud, con el objeto de asegurar las condiciones sanitarias de los establecimientos educacionales. Si una localidad retrocede al Paso 2, podrá continuar su funcionamiento sin necesidad de la autorización de la que trata este párrafo.
 
 35. De la recalada de cruceros. Prohíbase la recalada en todos los puertos chilenos de cruceros de pasajeros.
 
@@ -322,24 +306,6 @@ b. Personas que no puedan cumplir con las medidas de aislamiento o cuarentena qu
 
 Aquellas personas que se encuentran en el literal a) de este numeral quedarán sujetas, además, a las sanciones dispuestas en el Libro X del Código Sanitario y en el Código Penal cuando corresponda.
 
-### XIII. Del Pase de Movilidad
-
-44 bis. Requisitos. Las personas podrán obtener el Pase de Movilidad cumpliendo copulativamente los siguientes requisitos:
-
-a) Haber completado el esquema de vacunación contra SARS-CoV-2 en Chile hace al menos 14 días, y
-
-b) No estar afecto a la medida de cuarentena o aislamiento en virtud de lo dispuesto en los numerales 9, 10, 11 y 13 de esta resolución, o por cualquiera de las causales dispuestas en la resolución exenta Nº 997, de 2020, del Ministerio de Salud.
-
-c) No haber sido sancionado en virtud del libro X del Código Sanitario por infracción a las disposiciones señaladas en el literal anterior.
-
-Para acreditar el cumplimiento de dichos requisitos el solicitante deberá obtener un comprobante de vacunación contra el SARS-Cov-2, el que está disponible en el sitio web https://mevacuno.gob.cl//.
-
-44 ter. De los efectos. El Pase de Movilidad habilitado eximirá de las restricciones que explícitamente se señalen en los actos administrativos de la autoridad sanitaria.
-
-44 quáter. Para efectos de verificar si un Pase de Movilidad está habilitado, se deberá exhibir a la autoridad correspondiente el comprobante de vacunación a que hace referencia el numeral 44 bis precedente.
-
-44 quinquies. La autoridad sanitaria podrá disponer como medida sanitaria, en casos justificados, la suspensión de la utilización del Pase de Movilidad. Para estos efectos, será aplicable lo dispuesto en el inciso segundo del artículo 178 del Código Sanitario.
-
 CAPÍTULO II. MEDIDAS PLAN "PASO A PASO"
 
 ### I. Disposiciones preliminares
@@ -358,13 +324,9 @@ Paso 4: Apertura Inicial
 
 Paso 5: Apertura Avanzada.
 
-46. Desplazamiento en cuarentena. Para el desplazamiento de personas desde y hacia localidades que se encuentren en cuarentena y dentro de ellas, se estará a lo dispuesto en el Instructivo para Permisos de Desplazamiento del que trata el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Lo mismo regirá para el desplazamiento de personas desde y hacia localidades que se encuentren en Transición y dentro de ellas, los días sábados, domingos y festivos.
+46. Desplazamiento en cuarentena. Para el desplazamiento de personas desde y hacia localidades que se encuentren en cuarentena y dentro de ellas, se estará a lo dispuesto en el Instructivo para Permisos de Desplazamiento del que trata el Oficio Ordinario Nº 599, de 11 de enero de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Lo mismo regirá para el desplazamiento de personas desde y hacia localidades que se encuentren en Transición y dentro de ellas, los días sábados, domingos y festivos.
 
 Dicho instructivo contempla, además, las formas y condiciones para la obtención de los permisos de desplazamiento por parte de las personas exceptuadas del cumplimiento de la medida de aislamiento o cuarentena.
-
-Quienes sean titulares de un Pase de Movilidad habilitado y residan en localidades que se encuentran en "Paso 2: Transición", podrán desplazarse libremente, sin necesidad de permiso de desplazamiento. Asimismo, los menores de edad no considerados en el proceso de vacunación, podrán desplazarse libremente en compañía de su padre, madre o tutor, que sea titular de un Pase de Movilidad habilitado. Con todo, no podrán desplazarse a comunas que se encuentran en "Paso 1: Cuarentena".
-
-Quienes sean titulares de un Pase de Movilidad habilitado y residan en localidades que se encuentran en "Paso 1: Cuarentena" podrán desplazarse solo en su respectiva localidad, sin necesidad de permiso de desplazamiento. Asimismo, los menores de edad no considerados en el proceso de vacunación, podrán desplazarse, en su respectiva localidad, en compañía de su padre, madre o tutor, que sea titular de un Pase de Movilidad habilitado.
 
 47. Definiciones. Para efectos de este capítulo, se entenderá por:
 
@@ -392,7 +354,9 @@ ii. Artificial. Aquella que consiste en sistemas de extracción de aire que cump
 
 48. Medidas aplicables. A las localidades que estén en Cuarentena se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución.
 
-### 49. Eliminado
+49. Permisos especiales para residentes de centros SENAME. En los centros dependientes del Servicio Nacional de Menores, tanto de administración directa como de organismos colaboradores, se observará la siguiente regla:
+
+a. Se permitirá a los niños, niñas y adolescentes salir a lugares públicos al aire libre entre las 07:00 y 08:30 horas todos los días. Sin perjuicio de lo anterior, quienes hagan uso de este permiso deberán contar siempre con autorización y supervisión de la dirección de la residencia o centro, y no podrán utilizar automóviles o el transporte público.
 
 50. Del traslado interregional. Prohíbanse los traslados interregionales desde y hacia localidades que se encuentren en "Paso 1: Cuarentena".
 
@@ -402,31 +366,25 @@ Asimismo, exceptúanse de la medida de este numeral a aquellas personas que teni
 
 Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir sus obligaciones laborales en una localidad distinta al de su residencia habitual y cuentan con el permiso correspondiente.
 
-51. De los eventos y actividades sociales. Prohíbase la realización o participación en eventos con público o particulares y en actividades sociales y recreativas, salvo lo dispuesto en el Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+51. De los eventos y actividades sociales. Prohíbase la realización o participación en eventos con público o particulares y en actividades sociales y recreativas.
 
-Sin perjuicio de lo anterior, se permite la realización y asistencia a funerales, matrimonios, acuerdos de unión civil y cultos religiosos organizados por una Iglesia, Culto u Organización Religiosa debidamente reconocida por el Estado de Chile, utilizando el permiso de desplazamiento correspondiente de acuerdo al señalado Instructivo.
-
-El aforo en funerales, matrimonios, acuerdos de unión civil o cultos religiosos no podrá exceder de 20 personas en un espacio abierto, o mayor a 10 personas en un espacio cerrado. Con todo, el aforo máximo no podrá ser mayor a 1 persona por cada 8 metros cuadrados de superficie útil.
+Sin perjuicio de lo anterior, se permite la realización y asistencia a funerales, utilizando el permiso de desplazamiento correspondiente de acuerdo al Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 599, de 11 de enero de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Los funerales no pueden reunir más de 20 personas en un espacio abierto, o más de 10 personas en un espacio cerrado.
 
 52. De las reuniones en residencias particulares. Se prohíben las reuniones en residencias particulares.
 
-53. De los restaurantes y lugares análogos. Prohíbase la atención de público en los restaurantes, cafés y análogos, los que solo podrán expedir alimentos para llevar. Estos lugares podrán desarrollar sus actividades entre las 05:00 horas y las 24:00 horas de cada día, salvo aquellos que tengan un horario de atención distinto según lo dispuesto en el Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+53. De los restaurantes y lugares análogos. Prohíbase la atención de público en los restaurantes, cafés y análogos, los que solo podrán expedir alimentos para llevar. Estos lugares podrán desarrollar sus actividades entre las 05:00 horas y las 24:00 horas de cada día, salvo aquellos que tengan un horario de atención distinto según lo dispuesto en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 599, de 11 de enero de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
-Sin perjuicio de lo dispuesto precedentemente, podrán atender público aquellos restaurantes ubicados en carreteras o autopistas interurbanas. Sin perjuicio de lo anterior, solo podrán atender a conductores de transporte de carga, autorizados, en virtud de dicha función, para desplazarse por el Instructivo de permisos de desplazamiento. Con todo, el aforo no podrá exceder de cuatro personas en espacios cerrados y ocho personas en espacios abiertos.
+54. De los gimnasios. Dispóngase el cierre de gimnasios y espacios abiertos y cerrados donde se realiza actividad deportiva, abiertos al público.
 
-54. De los gimnasios. Dispóngase el cierre de gimnasios abiertos al público.
+55. De la atención presencial de público en espacios cerrados. Se prohíbe la atención presencial de público en espacios cerrados excepto de aquellos que estén permitidos en el Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 599, de 11 de enero de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
-55. De la atención presencial de público en espacios cerrados. Se prohíbe la atención presencial de público en espacios cerrados excepto de aquellos que estén permitidos en el Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
-
-Estos espacios tendrán un aforo máximo de 1 persona por cada 8 metros cuadrados del total de la superficie útil destinada a la atención de público. En caso que el espacio sea menor a 8 metros cuadrados, se podrá atender como máximo una persona. Para el cálculo del aforo se considerarán las personas que trabajan en el lugar. Con todo, siempre podrá haber, a lo menos, un cliente.
+Estos espacios tendrán un aforo máximo de 1 persona por cada 8 metros cuadrados del total de la superficie útil destinada a la atención de público. En caso que el espacio sea menor a 8 metros cuadrados, se podrá atender como máximo una persona. Para el cálculo del aforo no se considerará las personas que trabajan en el lugar.
 
 56. De los eventos, actividades, entrenamientos y competencias deportivas. Prohíbanse los eventos, actividades, entrenamientos y competencias deportivas, a excepción de aquellas que cuenten con un permiso otorgado conforme a lo dispuesto en el numeral 33 de la presente resolución.
 
-57. De la banda horaria Elige Vivir Sano. Sin perjuicio de lo dispuesto en los numerales anteriores, las personas cuyas localidades de residencia se encuentren en el "Paso 1: Cuarentena" podrán realizar actividades al aire libre en lugares públicos entre las 05:00 y las 09:00 horas de lunes a viernes y entre las 05:00 y las 10:00 horas los días sábado, domingo y festivos. Estas actividades deberán ser de naturaleza individual o con personas de la misma residencia. Sin perjuicio de lo anterior, quienes hagan uso de este horario no podrán utilizar automóviles o el transporte público para estos efectos. Asimismo, tampoco podrán realizar, en dicha franja horaria, otras actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 9.285, de 26 de abril de 2021, ya citado, a excepción de que cuenten con el citado permiso.
+57. De la banda horaria Elige Vivir Sano. Sin perjuicio de lo dispuesto en los numerales anteriores, las personas cuyas localidades de residencia se encuentren en el "Paso 1: Cuarentena" podrán realizar actividades al aire libre en lugares públicos entre las 07:00 y 08:30 horas todos los días. Estas actividades deberán ser de naturaleza individual o con personas de la misma residencia. Sin perjuicio de lo anterior, quienes hagan uso de este horario no podrán utilizar automóviles o el transporte público para estos efectos. Asimismo, tampoco podrán realizar, en dicha franja horaria, otras actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 599, ya citado, a excepción de que cuenten con el citado permiso.
 
-57 bis. De la actividad física y actividades deportivas. Se autoriza la actividad física o actividades deportivas solo en lugares abiertos. Las actividades señaladas en este numeral no podrán contar con público. Podrán concentrarse un máximo de 5 personas en lugares abiertos. Para estos efectos las personas deberán contar con un permiso de desplazamiento o el Pase de Movilidad habilitado.
-
-58. De la salida de adultos mayores de 75 años. Los mayores de 75 años cuyas localidades de residencia se encuentren en el "Paso 1: Cuarentena" podrán salir de su residencia sin utilizar automóvil o transporte público los lunes, jueves y sábados de 9 a 11 horas o de 16 a 18 horas. En este horario no se pueden realizar actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 9.285, de 26 de abril de 2021, ya citado, a excepción de que cuenten con el citado permiso.
+58. De la salida de adultos mayores de 75 años. Los mayores de 75 años cuyas localidades de residencia se encuentren en el "Paso 1: Cuarentena" podrán salir de su residencia sin utilizar automóvil o transporte público los lunes, jueves y sábados de 9 a 11 horas o de 16 a 18 horas. En este horario no se pueden realizar actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 599, ya citado, a excepción de que cuenten con el citado permiso.
 
 ### III. Paso 2: Transición
 
@@ -434,19 +392,17 @@ Estos espacios tendrán un aforo máximo de 1 persona por cada 8 metros cuadrado
 
 60. De la duración. La duración mínima de esta medida será de dos semanas.
 
-61. De las medidas aplicables. A las localidades que estén en "Paso 2: Transición" se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, con las modificaciones que se especifican en los numerales siguientes. Sin perjuicio de lo anterior, las autorizaciones de las que trata este capítulo son solo aplicables de lunes a viernes hábiles. Durante los días sábado, domingo y festivos serán aplicables las normas señaladas en el acápite II. Paso 1: Cuarentena de este capítulo, según corresponda.
+61. De las medidas aplicables. A las localidades que estén en "Paso 2: Transición" se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, con las modificaciones que se especifican en los numerales siguientes. Sin perjuicio de lo anterior, las autorizaciones de las que trata este capítulo son solo aplicables de lunes a viernes hábiles.
 
 62. Del traslado interregional. Prohíbanse los traslados interregionales desde y hacia localidades que se encuentren en "Paso 2: Transición".
 
-Exceptúanse de la medida de este numeral a las personas mayores de 65 años y los enfermos crónicos.
+Exceptúanse de la medida de este numeral a las personas mayores de 65 años y los enfermos crónicos. Sin perjuicio de lo anterior, en caso que estas personas decidan permanecer en un lugar distinto a su domicilio particular habitual, deberán estar en cuarentena por un tiempo indefinido.
 
 Asimismo, exceptúanse de la medida de este numeral a aquellas personas que, teniendo su residencia habitual en una localidad en "Paso 2: Transición" no puedan cumplir con las medidas de aislamiento o cuarentena obligatoria señaladas en los numerales 9 al 13 de la presente resolución.
 
-Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir sus obligaciones laborales en una localidad distinta a su residencia habitual y cuenten con el permiso correspondiente del Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir sus obligaciones laborales en una localidad distinta a su residencia habitual y cuenten con el permiso correspondiente del Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 599, de 11 de enero de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
-Asimismo, se exceptúan aquellas personas que cuenten con un permiso para dichos efectos, según lo dispuesto en el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
-
-Exceptúase de lo dispuesto en este numeral aquellas personas que sean titulares de un Pase de Movilidad habilitado. Asimismo, los menores de edad no considerados en el proceso de vacunación, podrán exceptuarse de lo dispuesto en este numeral en compañía de su padre, madre o tutor, que sea titular de un Pase de Movilidad habilitado. Con todo, sólo podrán desplazarse a una localidad que se encuentre en Paso 2 o superior. Esta excepción aplica incluso los días sábado, domingo y festivos.
+Asimismo, se exceptúan aquellas personas que cuenten con un permiso para dichos efectos, según lo dispuesto en el Oficio Ordinario Nº 599, de 11 de enero de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
 63. De los eventos particulares. Se permiten las reuniones en domicilios particulares con un máximo de 5 personas, incluyendo a sus residentes. En caso de que en el domicilio vivan 5 o más personas, no podrán recibir visitas. Este tipo de reuniones sólo estarán permitidas de lunes a viernes y fuera del horario de aislamiento nocturno.
 
@@ -460,27 +416,21 @@ c. Deberá utilizarse mascarilla de forma permanente.
 
 d. Solo se permite el consumo de alimentos si la actividad se realiza en un lugar abierto y con un aforo máximo de 10 personas.
 
-e. Sin perjuicio de lo dispuesto en la letra a., el aforo total no podrá exceder de 1 personas por cada 8 metros cuadrados de la superficie útil destinada al público.
-
-Sin perjuicio de lo dispuesto precedentemente, se permite la realización de cultos religiosos organizados por una Iglesia, Culto u Organización Religiosa debidamente reconocida por el Estado de Chile, utilizando el permiso de desplazamiento, cuando corresponda, de acuerdo al Instructivo. Esta autorización aplica incluso los días sábados, domingos y festivos.
-
-El aforo máximo para lo dispuesto en el párrafo anterior y para los matrimonios, acuerdos de unión civil y funerales no podrá exceder las 20 personas en espacios cerrados o 40 personas en espacios abiertos. Con todo, el aforo total no podrá ser mayor a 1 persona por cada 8 metros cuadrados de superficie útil.
-
 65. De los eventos con público en que los asistentes no tienen ubicación fija. Se prohíben los eventos con público, públicos y particulares, en que los asistentes no tengan ubicación fija.
 
-66. De la actividad física y las actividades deportivas. Se autorizan la actividad física y las actividades deportivas solo en lugares abiertos en lugares públicos y privados.
+66. De los eventos, actividades, entrenamientos y competencias deportivas. Se autorizan las los eventos, actividades, entrenamientos y competencias deportivas en lugares públicos y privados. Para aquellas actividades que sean de naturaleza colectiva, podrán concentrarse un máximo de 10 personas, que no podrán compartir máquinas ni implementos. Estas actividades solo podrán realizarse en espacios abiertos.
 
-Las actividades señaladas en este numeral no podrán contar con público.
+Las actividades señaladas en este numeral no podrán contar con público. No está permitido el uso de camarines o lugares cerrados que no sean absolutamente esenciales para el adecuado funcionamiento de las actividades deportivas que se realicen en los espacios abiertos de un establecimiento.
 
-Podrán concentrarse un máximo de 10 personas en lugares abiertos. Se permitirá la maquinaria de gimnasios en espacios exteriores, no superando la razón de una persona por cada 8 metros cuadrados de espacio disponible.
+Asimismo, podrán realizar actividades deportivas aquellas personas que cuentan con la autorización a la que hace referencia el numeral 33.
 
-Los gimnasios no podrán funcionar en espacios cerrados.
+67. De los gimnasios. Dispóngase el cierre de gimnasios y espacios cerrados donde se realiza actividad deportiva, abiertos al público.
 
-### 67. Eliminado
+68. De la banda horaria Elige Vivir Sano. Sin perjuicio de lo dispuesto en los numerales anteriores, las personas cuyas localidades de residencia se encuentren en el "Paso 1: Cuarentena" podrán realizar actividades al aire libre en lugares públicos entre las 07:00 y 08:30 horas todos los días. Sin perjuicio de lo anterior, quienes hagan uso de este permiso no podrán utilizar automóviles o el transporte público. Estas actividades deberán ser de naturaleza o individual o con personas de la misma residencia. Asimismo, tampoco podrán realizar, en dicha franja horaria, otras actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 599, ya citado, a excepción de que cuenten con el citado permiso.
 
-68. De la banda horaria Elige Vivir Sano. Sin perjuicio de lo dispuesto en los numerales anteriores, las personas cuyas localidades de residencia se encuentren en cuarentena podrán realizar actividades al aire libre en lugares públicos entre las 05:00 y 10:00 horas todos los días. Sin perjuicio de lo anterior, quienes hagan uso de este permiso no podrán utilizar automóviles o el transporte público. Estas actividades deberán ser de naturaleza o individual o con personas de la misma residencia. Asimismo, tampoco podrán realizar, en dicha franja horaria, otras actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 9.285, de 26 de abril de 2021, ya citado, a excepción de que cuenten con el citado permiso.
+69. De los permisos en los centros del SENAME. En los centros dependientes del Servicio Nacional de Menores, tanto de administración directa como en los organismos colaboradores, se observará la siguiente regla:
 
-### 69. Eliminado
+a. Se permiten hasta tres salidas semanales por cada niño, niña o adolescente, previa autorización y con la supervisión de la dirección de la residencia o centro.
 
 70. Del funcionamiento de restoranes, cafés y análogos. Se permite la atención de público en restoranes, cafés y análogos, sujeto a las siguientes reglas:
 
@@ -492,29 +442,27 @@ c. Las mesas deberán estar separadas entre sí por una distancia mínima de dos
 
 Se prohíbe el consumo de alimentos dentro de espacios cerrados de centros comerciales.
 
-Sin perjuicio de lo dispuesto precedentemente, podrán atender público aquellos restaurantes ubicados en carreteras o autopistas interurbanas. Sin perjuicio de lo anterior, solo podrán atender a conductores de transporte de carga, autorizados, en virtud de dicha función, para desplazarse por el Instructivo de permisos de desplazamiento. Con todo, el aforo no podrá exceder de cuatro personas en espacios cerrados.
-
 71. De la atención presencial de público en espacios abiertos y cerrados. Se permite el funcionamiento de establecimientos cerrados que atiendan público.
 
-Estos espacios tendrán un aforo máximo de 1 persona por cada 8 metros cuadrados de la superficie útil destinada a atención de público. En caso que el espacio sea menor a 8 metros cuadrados, se podrá atender como máximo una persona. Para el cálculo del aforo se considerarán las personas que trabajan en el lugar. Con todo, siempre podrá haber, a lo menos, un cliente.
-
-Sin perjuicio de lo dispuesto precedentemente, en el caso de los centros comerciales, el aforo máximo del establecimiento será de una persona por cada 10 metros cuadrados del total de la superficie útil destinada al público, sin perjuicio de que al interior de las tiendas el aforo será el señalado en el párrafo precedente.
+Estos espacios tendrán un aforo máximo de 1 persona por cada 8 metros cuadrados de la superficie útil destinada a atención de público. En caso que el espacio sea menor a 8 metros cuadrados, se podrá atender como máximo una persona. Para el cálculo del aforo no se considerará las personas que trabajan en el lugar.
 
 ### IV. Paso 3: Preparación
 
 72. De las medidas. Las localidades que estén en "Paso 3: Preparación", no estarán sujetas a cuarentenas. A dichas localidades se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, con las modificaciones que se señalan en los numerales siguientes.
 
-### 73. Eliminado
+73. De los permisos en centros del SENAME. En los centros dependientes del Servicio Nacional de Menores, tanto de administración directa como en los organismos colaboradores, se observarán las siguientes reglas:
+
+a. Se permiten hasta cinco salidas semanales por cada niño, niña o adolescente, previa autorización y con la supervisión de la dirección de la residencia o centro.
+
+b. Se permiten salidas con fines laborales a adolescentes de residencias que se encuentren en proceso de preparación para la vida independiente y a adolescentes que se encuentren en centros privativos de libertad que estén realizando labores en virtud de sus programas de intervención.
 
 74. Del traslado interregional. Prohíbanse los traslados interregionales hacia localidades que se encuentren en "Paso 2: Transición" o "Paso 1: Cuarentena".
 
-Exceptúanse de la medida de este numeral a las personas mayores de 65 años y los enfermos crónicos.
+Exceptúanse de la medida de este numeral a las personas mayores de 65 años y los enfermos crónicos. Sin perjuicio de lo anterior, en caso que estas personas decidan permanecer en un lugar distinto a su domicilio particular habitual, deberán estar en cuarentena por un tiempo indefinido.
 
-Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir sus obligaciones laborales en una localidad distinta de su residencia habitual y cuentan con el permiso correspondiente del Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir sus obligaciones laborales en una localidad distinta de su residencia habitual y cuentan con el permiso correspondiente del Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 599, de 11 de enero de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
-Asimismo, se exceptúan de la prohibición de traslado interregional aquellas personas que cuenten con un permiso para dichos efectos, según lo dispuesto en el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
-
-Exceptúase de lo dispuesto en este numeral, solo respecto a los traslados a comunas en "Paso 2: Transición" aquellas personas que sean titulares de un Pase de Movilidad habilitado. Asimismo, los menores de edad no considerados en el proceso de vacunación, podrán exceptuarse de lo dispuesto en este numeral en compañía de su padre, madre o tutor, que sea Pase de Movilidad habilitado.
+Asimismo, se exceptúan de la prohibición de traslado interregional aquellas personas que cuenten con un permiso para dichos efectos, según lo dispuesto en el Oficio Ordinario Nº 599, de 11 de enero de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
 75. Del funcionamiento de restoranes, cafés y análogos. Se permite la atención de público en restaurantes, cafés y análogos, en lugares abiertos o cerrados con ventilación adecuada y permanente, sujeto a las siguientes reglas:
 
@@ -522,17 +470,17 @@ a. Podrá haber un máximo de 6 personas por mesa.
 
 b. Las mesas deberán estar separadas entre sí por una distancia mínima de dos metros lineales, medidas desde sus bordes.
 
-76. De la actividad física y las actividades deportivas. Se autorizan la actividad física y las actividades deportivas en lugares públicos y privados, incluyendo el funcionamiento de gimnasios abiertos al público.
+76. De las actividades deportivas. Se autorizan las actividades deportivas en lugares públicos y privados, incluyendo el funcionamiento de gimnasios abiertos al público.
 
 Las actividades señaladas en este numeral no podrán contar con público.
 
-Podrán concentrarse un máximo de 25 personas en lugares abiertos. Se permitirá la maquinaria de gimnasios en espacios exteriores, no superando la razón de una persona por cada 6 metros cuadrados de espacio disponible.
+Podrán concentrarse un máximo de 25 personas en lugares abiertos. Se permitirá la maquinaria de gimnasios en espacios exteriores, no superando la razón de una persona por cada 8 metros cuadrados de espacio disponible.
 
 En el caso de aquellas actividades que se realicen en lugares cerrados, deberán seguirse las siguientes reglas:
 
-a) En las salas de actividades dirigidas, no podrá haber más de 8 personas en cada una de ellas simultáneamente, existiendo una separación de al menos 2 metros entre personas.
+a) En las salas de actividades dirigidas, no podrá haber más de 5 personas en cada una de ellas simultáneamente, existiendo una separación de al menos 2 metros entre personas.
 
-b) En las salas de máquinas, deberá existir, al menos 2 metros de distancia entre cada persona, con un aforo máximo de 1 persona por cada 6 metros cuadrados de la superficie útil de la sala.
+b) En las salas de máquinas, deberá existir, al menos 2 metros de distancia entre cada persona, con un aforo máximo de 1 persona por cada 8 metros cuadrados de la superficie útil.
 
 c) La asistencia deberá programarse a través de bloques horarios cuya duración podrá determinarse por cada gimnasio. El usuario deberá elegir un bloque horario y extender su actividad en el gimnasio dentro de dicho espacio de tiempo.
 
@@ -582,13 +530,17 @@ e. Se prohíbe la realización de estos eventos en residencias particulares.
 
 81. Del funcionamiento de espacios abiertos y cerrados que atienden público. Se permite el funcionamiento de establecimientos cerrados que atienden público.
 
-Estos espacios tendrán un aforo máximo de 1 persona por cada 8 metros cuadrados del total de la superficie útil destinada a atención de público. En caso que el espacio sea menor a 8 metros cuadrados, se podrá atender como máximo una persona. Para el cálculo del aforo se considerarán las personas que trabajan en el lugar. Con todo, siempre podrá haber, a lo menos, un cliente.
+Estos espacios tendrán un aforo máximo de 1 persona por cada 8 metros cuadrados del total de la superficie útil destinada a atención de público. En caso que el espacio sea menor a 8 metros cuadrados, se podrá atender como máximo una persona. Para el cálculo del aforo no se considerará las personas que trabajan en el lugar.
 
 ### V. Paso 4: Apertura Inicial
 
 82. De las medidas. Las localidades que estén en Paso 4: Apertura Inicial, no estarán sujetas a cuarentenas. A dichas localidades se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, con las modificaciones que se señalan en los numerales siguientes.
 
-### 83. Eliminado
+83. De los permisos en centros del SENAME. En los centros dependientes del Servicio Nacional de Menores, tanto de administración directa como en los organismos colaboradores, se observarán las siguientes reglas:
+
+a. Se permiten salidas de niño, niña o adolescente residentes, previa autorización y con la supervisión de la dirección de la residencia o centro.
+
+b. Se permiten salidas con fines laborales a adolescentes de residencias que se encuentren en proceso de preparación para la vida independiente y a adolescentes que se encuentren en centros privativos de libertad que estén realizando labores en virtud de sus programas de intervención.
 
 84. Del funcionamiento de los Centros de Día y Clubes de Adultos Mayores. Se permite el funcionamiento de los Centros de Día y Clubes de Adultos Mayores, con un aforo máximo de 30 personas, cumpliendo las siguientes condiciones:
 
@@ -602,15 +554,15 @@ a. Podrá haber un máximo de 6 personas por mesa.
 
 b. Las mesas deberán estar separadas entre sí por una distancia mínima de dos metros lineales, medidos desde sus bordes.
 
-86. De la actividad física y las actividades deportivas. Se autorizan la actividad física y las actividades deportivas en lugares públicos y privados, incluyendo el funcionamiento de gimnasios abiertos al público.
+86. De las actividades deportivas. Se autorizan las actividades deportivas en lugares públicos y privados, incluyendo el funcionamiento de gimnasios abiertos al público.
 
 Las actividades señaladas en este numeral no podrán contar con público.
 
-Podrán concentrarse un máximo de 50 personas en lugares abiertos. Se permitirá la maquinaria de gimnasios en espacios exteriores, no superando la razón de una persona por cada 4 metros cuadrados de espacio disponible.
+Podrán concentrarse un máximo de 50 personas en lugares abiertos. Se permitirá la maquinaria de gimnasios en espacios exteriores, no superando la razón de una máquina por cada 4 metros cuadrados de espacio disponible.
 
 En el caso de aquellas actividades que se realicen en lugares cerrados, deberán seguirse las siguientes reglas:
 
-a) En las salas de actividades dirigidas, no podrá haber más de 12 personas en cada una de ellas simultáneamente, existiendo una separación de al menos 2 metros entre personas.
+a) En las salas de actividades dirigidas, no podrá haber más de 10 personas en cada una de ellas simultáneamente, existiendo una separación de al menos 2 metros entre personas.
 
 b) En las salas de máquinas, deberá existir, al menos 2 metros de distancia entre cada persona, con un aforo máximo de 1 persona por cada 4 metros cuadrados de superficie útil de la sala.
 
@@ -662,7 +614,7 @@ e. Se prohíbe la realización de estos eventos en residencias particulares.
 
 91. Del funcionamiento de espacios abiertos y cerrados que atienden público. Se permite el funcionamiento de establecimientos abiertos y cerrados que atienden público.
 
-Estos espacios tendrán un aforo máximo de 1 persona por cada 4 metros cuadrados de la superficie útil destinada a atención de público. En caso que el espacio sea menor a 4 metros cuadrados, se podrá atender como máximo una persona. Para el cálculo del aforo se considerarán las personas que trabajan en el lugar. Con todo, siempre podrá haber, a lo menos, un cliente.
+Estos espacios tendrán un aforo máximo de 1 persona por cada 4 metros cuadrados de la superficie útil destinada a atención de público. En caso que el espacio sea menor a 4 metros cuadrados, se podrá atender como máximo una persona. Para el cálculo del aforo no se considerará las personas que trabajan en el lugar.
 
 ### VI. Paso 5: Apertura Avanzada
 
