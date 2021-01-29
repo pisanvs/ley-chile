@@ -26,11 +26,11 @@ Decreto:
 
 Concédanse nuevos aportes a aquellos entregados en virtud de la Ley Nº 21.230, que Concede un Ingreso Familiar de Emergencia, en los términos señalados en los artículos siguientes.
 
-Los aportes se concederán mensualmente durante los meses de enero y/o febrero del año 2021, para lo cual se deberá postular a cada uno de ellos, de acuerdo a lo indicado en el artículo siguiente.
+Los aportes se concederán mensualmente durante los meses de enero y/o febrero del año 2021, para lo cual se deberá postular a cada uno de ellos, de acuerdo a lo indicado en el artículo siguiente a excepción de los beneficiarios incluidos en el literal c. del artículo 3, en el literal b. del artículo 4 y en el artículo 5, los que estarán incluidos en la respectiva nómina de beneficiarios.
 
 #### Artículo 2
 
-Para poder ser beneficiario de los nuevos aportes señalados en el artículo anterior, se deberá postular a cada uno de ellos en los términos que establezca el Ministerio de Desarrollo Social y Familia a través de la Subsecretaría de Servicios Sociales.
+Para poder ser beneficiario de los nuevos aportes señalados en el artículo anterior, se deberá postular a cada uno de ellos en los términos que establezca el Ministerio de Desarrollo Social y Familia a través de la Subsecretaría de Servicios Sociales a excepción de los beneficiarios incluidos en el literal c. del artículo 3, en el literal b. del artículo 4 y en el artículo 5, los que estarán incluidos en la respectiva nómina de beneficiarios.
 
 El plazo para postular a cada aporte será de diez días corridos, contados desde el inicio del respectivo período de postulación.
 
