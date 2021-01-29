@@ -1460,11 +1460,31 @@ normas establecidas en el presente
 
 Capítulo.
 
-(m) Las mercancías que cumplan con los
+m) desechos y desperdicios derivados de:
 
-requisitos específicos, de conformidad
+(i) operaciones de manufacturas
 
-con el artículo 4.5.
+conducidas en el territorio de
+
+las Partes, o
+
+(ii) mercancías usadas recolectadas en
+
+el territorio de las Partes,
+
+siempre que dichos desechos o
+
+desperdicios sirvan sólo para
+
+la recuperación de materias
+
+primas, y
+
+(n) Las mercancías que cumplan
+
+con los requisitos específicos,
+
+de conformidad con el artículo 4.5.
 
 #### Artículo 4
 
@@ -2049,6 +2069,24 @@ los literales (b) y (c) a las
 autoridades aduaneras de la Parte
 
 importadora, cuando éstas lo soliciten.
+
+#### Artículo 4
+
+11 bis (Errores de Forma).
+
+Los errores de forma en un certificado de
+
+origen, tales como los mecanográficos, no
+
+ocasionarán que éste sea rechazado si se
+
+trata de errores que no generan dudas en
+
+cuanto a la exactitud de la información
+
+contenida en dicho certificado o en la
+
+calificación de origen de la mercancía.
 
 #### Artículo 4
 
