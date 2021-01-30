@@ -90,9 +90,9 @@ Las licencias que la DGAC otorga de conformidad con este Reglamento se ajustará
 
 Durante el desempeño de las atribuciones aeronáuticas, el titular deberá portar y exhibir su licencia y bitácora de vuelo cada vez que la Autoridad Aeronáutica así lo requiera.
 
-63.13 Instructores Evaluadores (IE)
+63.13 Instructores Evaluadores (IE).
 
-La DGAC podrá aceptar personal aeronáutico establecido en este reglamento con habilitación de instructor vigente, a proposición de la Empresa Aérea o Institución de las FF.AA. y Carabineros de Chile a la cual pertenecen, para que se desempeñen como Instructores Evaluadores (IE) encargados de administrar las pruebas de pericia recurrente y las estandarizaciones de licencia y habilitación, las que constituirán antecedentes para la renovación de licencias y habilitaciones aeronáuticas sin que esto constituya delegación de facultades, establezca relaciones de vinculación o dependencia con la Institución, ni confiera derecho a percibir remuneraciones o estipendios de ninguna índole sufragados por el Estado.
+La DGAC podrá aceptar tripulantes auxiliares de cabina con licencia y habilitación vigente, a proposición de la Empresa Aérea a la cual pertenecen, para que se desempeñen como Instructores Evaluadores (IE) encargados de administrar las pruebas de pericia y las estandarizaciones de licencia y habilitación, las que constituirán antecedentes para la obtención o renovación de licencia o habilitaciones aeronáuticas, sin que esto constituya delegación de facultades, establezca relaciones de vinculación o dependencia con la DGAC, ni confiera derecho a percibir remuneraciones o estipendios de ninguna índole sufragados por el Estado.
 
 63.15 Aptitud Psicofísica
 
