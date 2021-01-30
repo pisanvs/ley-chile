@@ -20,9 +20,7 @@ De los procedimientos para la certificación, inspección y verificación de la 
 
 #### Artículo 1
 
-1. De los objetivos.
-
-Los procedimientos de certificación e inspección periódica de instalaciones interiores de gas tienen por objeto constatar que dichas instalaciones cumplen con los requisitos establecidos en las disposiciones vigentes al momento de su ejecución.
+1. De los objetivos. Los procedimientos de certificación e inspección periódica de instalaciones interiores de gas tienen por objeto constatar que dichas instalaciones cumplen con los requisitos establecidos en las disposiciones vigentes al momento de su ejecución. En el caso de las ventilaciones y volúmenes, la entidad de certificación deberá verificar que estas cumplan con las disposiciones reglamentarias vigentes a la fecha de ejecución de la instalación interior de gas o la del momento en que se realiza la inspección, o con las indicadas en el estudio técnico específico de instalación de artefactos en los casos que corresponda.
 
 A través del procedimiento de verificación de la conversión se comprueba el correcto estado y funcionamiento de instalaciones interiores de gas abastecidas con un tipo de gas distinto al que corresponde a su diseño original, de los artefactos conectados a ellas y los recintos en que éstos se encuentran.
 
