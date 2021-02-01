@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.278, de fecha 21 de diciembre de 2020, se ordenó la expropiación Parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 519, correspondiente al inmueble ubicado en A Vespuc. Esq. Independ., Rol de Avalúo Nº 6933-1, de la comuna de Conchalí, Región Metropolitana, de aparente dominio de Fisco de Chile, con una superficie aproximada de 89,69 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Mufida Abuawad Elías, Arquitecto; Solange Lagos Díaz, Arquitecto, y Lorena Gajardo Alarcón, Ingeniero Constructor, mediante Informe de fecha 7 de diciembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $66.894.000, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
