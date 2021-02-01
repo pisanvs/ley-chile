@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 770, del 23 de diciembre de 2020, Serviu Región de Ñuble ordenó expropiación total de inmueble ubicado en Las Heras Nº 301, comuna de Chillán, rol de avalúo Nº 00521-00001, de aparente dominio de Fuentealba Monsalve Benjamín Dar. La parte afecta a expropiación total de terreno es de 183,69 m2 (Lote 42) y 85,62 m2 total de edificación y cuyos linderos particulares, enmarcados en el plano S16R-010, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por la arquitecto Priscila Andrea Encalada Rueda, arquitecto Cecilia María Carrasco Verdugo y por el Constructor Civil Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $52.215.919.-
+
+Director Serviu Región de Ñuble.
