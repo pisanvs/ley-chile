@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.276, de fecha 21 de diciembre de 2020, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 517, correspondiente al inmueble ubicado en Independencia 6117, Rol de Avalúo Nº 3104-1, de la comuna de Conchalí, Región Metropolitana, de aparente dominio de Inmobiliaria Millenium Limitada, con una superficie aproximada de 1.880,36 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Mufida Abuawad Elías, Arquitecto; Solange Lagos Díaz, Arquitecto, y Lorena Gajardo Alarcón, Ingeniero Constructor, mediante Informe de fecha 7 de diciembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $1.764.410.900, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
