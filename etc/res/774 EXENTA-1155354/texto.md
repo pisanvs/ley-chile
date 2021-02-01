@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 774, del 23 de diciembre de 2020, Serviu Región de Ñuble ordenó expropiación total de inmueble ubicado en Almirante Latorre 49 V Silva, comuna de Chillán, Rol de Avalúo Nº 00515-00008, de aparente dominio de Troncoso Troncoso Pedro Suc. La parte afecta a expropiación total de terreno es de 610,57 m2 (Lote 26) y 139,02 m2 total de edificación y cuyos linderos particulares, enmarcados en el plano S16R-009, para el proyecto "Mejoramiento Avenida Diagonal Las Termas", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Priscila Andrea Encalada Rueda, arquitecto Cecilia María Carrasco Verdugo, y por el constructor civil Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $101.461.209.-
+
+Director Serviu Región de Ñuble.
