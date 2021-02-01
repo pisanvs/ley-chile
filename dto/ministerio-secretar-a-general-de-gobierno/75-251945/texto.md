@@ -130,6 +130,14 @@ Las Organizaciones Deportivas Profesionales deberán presentar trimestralmente a
 
 En caso que de conformidad a los documentos referidos en el inciso anterior una Organización Deportiva Profesional no se encuentre al día en el pago de las obligaciones referidas en este artículo, la Superintendencia informará de ello a la asociación o liga deportiva profesional respectiva, para efectos de lo dispuesto en el artículo 9 de la ley Nº 20.019.
 
+#### Artículo 14° bis
+
+Para acreditar el cumplimiento estricto del Protocolo General a que se refiere el numeral 17) del artículo 2° de la ley N° 20.686, aprobado por el decreto supremo N° 22, de 2020, del Ministerio del Deporte, las organizaciones deportivas profesionales, cualquiera sea la normativa jurídica bajo la cual se hayan constituido, deberán remitir al Instituto Nacional de Deportes de Chile los siguientes documentos:
+
+a) Copia autorizada de la escritura pública en que conste la adopción del Protocolo General por los órganos competentes, cumpliendo para ello con las formalidades que exige la ley.
+
+b) Informe de cumplimiento del Protocolo General, en el plazo y con los contenidos que en éste se indiquen.
+
 ## Título V
 
 De las Sociedades Anónimas Deportivas Profesionales
