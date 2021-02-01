@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4.238, de fecha 21 de diciembre de 2020, se ordenó la expropiación parcial, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 463, correspondiente al inmueble ubicado en Independencia 5382 El Cortijo, Rol de Avalúo N° 6202-15, de la comuna de Conchalí, Región Metropolitana, de aparente dominio de Garrido Bello Ana, con una superficie aproximada de 65,19 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Patricia Morales Rivera, Constructor Civil, Karine Acevedo Hinojosa, Constructor Civil y Patricia Zavala Contreras, Constructor Civil, mediante Informe de fecha 20 de noviembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $102.951.700, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
