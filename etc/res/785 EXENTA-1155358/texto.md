@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 785, del 23 de diciembre de 2020, Serviu Región de Ñuble ordenó expropiación parcial de inmueble ubicado en Avenida Huambalí N° 118, comuna de Chillán, rol de avalúo N° 00697-00005, de aparente dominio de Navias Burgos Luis Carlos. La parte afecta a expropiación parcial de terreno es de 220,14 m2 (Lote 25) y 228,84 m2 total de edificación y cuyos linderos particulares, enmarcados en el plano S16R-029, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Mario Fabrizzio Bellolio Bostica, Constructor Civil Ítalo Renzo Zerga Arancibia y por el Ingeniero Civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $101.573.313.-
+
+Director Serviu Región de Ñuble.
