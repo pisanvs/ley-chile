@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.312, de fecha 21 de diciembre de 2020, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº1-B, correspondiente al inmueble ubicado en México 11608 Lt. 1-B, Rol de Avalúo Nº 3900-393, de la comuna de La Florida, Región Metropolitana, de aparente dominio de Comité Allegados Siglo XXI y otro, con una superficie aproximada de 3.971,14 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Diego Portales II". La Comisión de Peritos integrada por los señores Mufida Abuawad Elías, Arquitecto; María Cristina Camus Palacios, Arquitecto, y Javiera Villafañe Hormazábal, Arquitecto, mediante informe de fecha 14 de diciembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $1.135.716.900, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
