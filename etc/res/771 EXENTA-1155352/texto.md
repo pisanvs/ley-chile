@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 771, del 23 de diciembre de 2020, Serviu Región de Ñuble ordenó expropiación parcial de inmueble ubicado en Avenida Huambalí N° 58, comuna de Chillán, Rol de Avalúo N° 00680-00008, de aparente dominio de Arriagada Lagos Raúl Rubén. La parte afecta a expropiación parcial de terreno es de 137,90 m2 (Lote 16) y 154,26 m2 total de edificación y cuyos linderos particulares, enmarcados en el plano S16R-005, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Mario Fabrizzio Bellolio Bostica; constructor civil Ítalo Renzo Zerga Arancibia, y por el ingeniero civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $75.146.076.-
+
+Director Serviu Región de Ñuble.
