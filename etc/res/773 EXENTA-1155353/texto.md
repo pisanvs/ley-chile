@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 773, del 23 de diciembre de 2020, Serviu Región de Ñuble ordenó expropiación parcial de inmueble ubicado en Manuel Plaza N° 29, comuna de Chillán, Rol de Avalúo N° 00697-00001, de aparente dominio de Briones Cisterna Yoselyn de las M. y otra. La parte afecta a expropiación total de terreno es de 48,93 m2 (Lote 26) y 216,55 m2 total de edificación y cuyos linderos particulares, enmarcados en el plano S16R-006, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Mario Fabrizzio Bellolio Bostica; constructor civil Ítalo Renzo Zerga Arancibia, y por el ingeniero civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $25.160.661.-
+
+Director Serviu Región de Ñuble.
