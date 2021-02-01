@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N°4.604, de fecha 30 de diciembre de 2020, se ordenó la expropiación Total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote 17g2, correspondiente al inmueble ubicado en Nueva Andrés Bello N° 3573, Rol de Avalúo N° 4044-31, de la comuna de Quinta Normal, Región Metropolitana, de aparente dominio de Vergara Sánchez María Inés, con una superficie aproximada de 600 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Sector Cartoneros 2". La Comisión de Peritos integrada por los señores Jaime Jurgens Bittner, Ingeniero Civil; Pamela Campos López, Constructor Civil y Paola Van De Wyngard Soto, Arquitecto, mediante Informe de fecha 11 de diciembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $225.229.500, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N°2.186 de 1978.-
+
+Directora Serviu Metropolitano.
