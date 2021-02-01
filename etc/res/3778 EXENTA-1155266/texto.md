@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.778, de fecha 20 de noviembre de 2020, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 662-259, correspondiente al inmueble ubicado en Coposa 557 Block B DP 13 V Parinacota 2, Rol de Avalúo Nº 662-259, de la comuna de Quilicura, Región Metropolitana, de aparente dominio de Urra Carrasco Flor María, con una superficie aproximada de 43,63 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Habilitación de Terrenos de la Población Parinacota". La Comisión de Peritos integrada por los señores Jaime Jürgens Bittner, Ingeniero Civil; Mufida Abuawad Elías, Arquitecto y Sergio Jeremías Órdenes Salinas, Ingeniero Civil, mediante Informe de fecha 28 de agosto de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $22.655.012, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.
+
+Directora Serviu Metropolitano.
