@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.259, de fecha 21 de diciembre de 2020, se ordenó la expropiación Parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 492, correspondiente al inmueble ubicado en José María Caro 1898 Juanita Aguirre, Rol de Avalúo Nº 2942-24, de la comuna de Conchalí, Región Metropolitana, de aparente dominio de Inmobiliaria e Inversiones Río B, con una superficie aproximada de 3,92 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Sergio Jeremías Órdenes Salinas, Ingeniero Civil; María Carolina Letelier Bopp, Arquitecto, e Ivanka Aliaga Jofré, Constructor Civil, mediante Informe de fecha 27 de noviembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $1.669.920, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
