@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 788, del 23 de diciembre de 2020, Serviu Región de Ñuble ordenó expropiación parcial de inmueble ubicado en Avenida Huambalí Nº 140, comuna de Chillán, rol de avalúo Nº 00697-00008, de aparente dominio de Fuentes Candia Miguel Elías. La parte afecta a expropiación parcial de terreno es de 168,03 m2 (Lote 29) y cuyos linderos particulares, enmarcados en el plano S16R-030, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Mario Fabrizzio Bellolio Bostica, Constructor Civil Ítalo Renzo Zerga Arancibia y por el Ingeniero Civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $37.860.392.-
+
+Director Serviu Región de Ñuble.
