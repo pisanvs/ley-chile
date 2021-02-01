@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 787, del 23 de diciembre de 2020, Serviu Región de Ñuble ordenó expropiación parcial de inmueble ubicado en Vicuña Mackenna Nº 315, comuna de Chillán, rol de avalúo Nº 00525-00047, de aparente dominio de Millar Arias Claudio. La parte afecta a expropiación parcial de terreno es de 215,94 m2 (Lote 49) y cuyos linderos particulares, enmarcados en el plano S16R-052, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por la arquitecto Priscila Andrea Encalada Rueda, arquitecto Cecilia María Carrasco Verdugo y por el Constructor Civil Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $21.735.370.-
+
+Director Serviu Región de Ñuble.
