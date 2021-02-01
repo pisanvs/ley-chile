@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4.277, de fecha 21 de diciembre de 2020, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 518, correspondiente al inmueble ubicado en Huechuraba 2063, Rol de Avalúo N° 3104-2, de la comuna de Conchalí, Región Metropolitana, de aparente dominio de Infeld Diuana Daniela Patricia, con una superficie aproximada de 472,36 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Mufida Abuawad Elías, Arquitecto; Solange Lagos Díaz, Arquitecto, y Lorena Gajardo Alarcón, Ingeniero Constructor, mediante informe de fecha 7 de diciembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $231.455.300, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
