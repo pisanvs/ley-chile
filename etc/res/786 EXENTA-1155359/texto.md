@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 786, del 23 de diciembre de 2020, Serviu Región de Ñuble ordenó expropiación total de inmueble ubicado en Vicuña Mackenna 307 Pob Wicker, comuna de Chillán, Rol de Avalúo N° 00525-00005, de aparente dominio de Osses Muñoz Cristóbal Segundo. La parte afecta a expropiación total de terreno es de 846,58 m2 (Lote 48) y 196,67 m2 total de edificación y cuyos linderos particulares, enmarcados en el plano S16R-011, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por la arquitecto Priscila Andrea Encalada Rueda, arquitecto Cecilia María Carrasco Verdugo y por el Constructor Civil Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $116.600.594.-
+
+Director Serviu Región de Ñuble.
