@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.233, de fecha 21 de diciembre de 2020, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 458, correspondiente al inmueble ubicado en Independencia 5350; Rol de Avalúo Nº 6202-01, de la comuna de Conchalí, Región Metropolitana, de aparente dominio de Medina Saavedra Nelson H, con una superficie aproximada de 160,18 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Patricia Morales Rivera, Constructor Civil, Karine Acevedo Hinojosa, Constructor Civil, y Patricia Zavala Contreras, Constructor Civil, mediante Informe de fecha 20 de noviembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $208.187.400, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.
+
+Directora Serviu Metropolitano.
