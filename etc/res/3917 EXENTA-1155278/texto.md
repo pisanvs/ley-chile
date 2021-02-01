@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.917, de fecha 30 de noviembre de 2020, se ordenó la expropiación Total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 668-74, correspondiente al inmueble ubicado en Parinacota 545 Block A DP 12 V Parinacota, Rol de Avalúo N° 668-74, de la comuna de Quilicura, Región Metropolitana, de aparente dominio de Ulloa Cabrera Fernando Antonio, con una superficie aproximada de 43,12 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Habilitación de Terrenos de la Población Parinacota". La Comisión de Peritos integrada por los señores Carmen Ríos Marcuello, Ingeniero Civil; Jesús Díaz Pasmiño, Ingeniero Civil, y Roberto Söhrens Camus, Arquitecto, mediante Informe de fecha 29 de agosto de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $23.982.582, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
