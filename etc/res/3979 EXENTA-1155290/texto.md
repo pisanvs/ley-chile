@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.979, de fecha 1 de diciembre de 2020, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 8212-38, correspondiente al inmueble ubicado en Flor de Quillén 01691 DP 12, Rol de Avalúo N° 8212-38, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Copeva Ltda., con una superficie aproximada de 42,74 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Regeneración del Conjunto Habitacional Marta Brunet del Sector Bajos de Mena, Comuna de Puente Alto". La Comisión de Peritos integrada por el señor Nicolás Romero Morales, Ingeniero en ejecución; señor Jesús Díaz Pasmiño, Ingeniero civil y señora Karine Acevedo Hinojosa, Constructor civil, mediante Informe de fecha 11 de noviembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $18.135.271, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Directora Serviu Metropolitano.
