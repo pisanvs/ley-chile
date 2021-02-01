@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 776, del 23 de diciembre de 2020, Serviu Región de Ñuble ordenó expropiación parcial de inmueble ubicado en Vicuña Mackenna 319 Pob. Wicker, comuna de Chillán, rol de avalúo Nº 00525-00007, de aparente dominio de Fica Silva Zoila de las Mercedes. La parte afecta a expropiación parcial de terreno es de 34,35 m2 (Lote 52) y 215,60 m2 total de edificación y cuyos linderos particulares, enmarcados en el plano S16R-013, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por la arquitecto Priscila Andrea Encalada Rueda, arquitecto Cecilia María Carrasco Verdugo y por el Constructor Civil Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $17.625.942.-
+
+Director Serviu Región de Ñuble.
