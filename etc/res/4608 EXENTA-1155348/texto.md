@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.608, de fecha 30 de diciembre de 2020, se ordenó la expropiación parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 9-1, correspondiente al inmueble ubicado en El Rodeo 0202, Rol de Avalúo Nº 2980-3, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Abad Sepúlveda Máximo y otros, con una superficie aproximada de 3175,59 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Construcción Eje Sargento Menadier". La Comisión de Peritos integrada por los señores Jaime Jürgens Bittner, ingeniero civil; Angélica Seura Rojas, arquitecto y Mario Zamorano Villablanca, arquitecto, mediante Informe de fecha 21 de diciembre del 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $78.437.073, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
