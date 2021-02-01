@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.799, de fecha 20 de noviembre de 2020, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 662-258, correspondiente al inmueble ubicado en Coposa 557 Block B DP 32 V Parinacota 2, Rol de Avalúo Nº 662-258, de la comuna de Quilicura, Región Metropolitana, de aparente dominio de Jenny Dolores Salinas Ávila, con una superficie aproximada de 43,63 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Habilitación de Terrenos de la Población Parinacota". La Comisión de Peritos integrada por los señores Carmen Ríos Marcuello, Ingeniero Civil; Jesús Díaz Pasmiño, Ingeniero Civil, y Roberto Söhrens Camus, Arquitecto, mediante Informe de fecha 29 de agosto de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $21.737.206, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
