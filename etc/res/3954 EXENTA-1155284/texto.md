@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.954, de fecha 1 de diciembre de 2020, se ordenó la expropiación total, conforme a las normas del decreto ley N° 2.186, de 1978, del denominado Lote N° 8212-28, correspondiente al inmueble ubicado en Flor de Quillen 01683, DP 14, Rol de Avalúo N° 8212-28, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Gajardo Catalán María Antonia, con una superficie aproximada de 43,19 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Marta Brunet del sector Bajos de Mena". La Comisión de Peritos integrada por los señores Nicolás Romero Morales, Ingeniero en Ejecución; Jesús Díaz Pasmiño, Ingeniero Civil y Karine Acevedo Hinojosa, Constructor Civil, mediante Informe de fecha 11 de noviembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $18.523.075, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
