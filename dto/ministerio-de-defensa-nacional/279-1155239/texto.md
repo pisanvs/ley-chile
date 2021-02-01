@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 279, de 21 de septiembre de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Corpesca S.A., RUT 96.893.820-7, Primera Renovación de concesión marítima menor, con vencimiento al 30 de junio de 2030, sobre un sector de fondo de mar, en el lugar denominado Caleta Quiane, Ensenada San Martín, comuna y provincia de Arica, Región de Arica y Parinacota, con una superficie total de 1.260 m2, la que fue tramitada con el SIABC N° 37.154. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 18° 31' 11,33" S - 70° 19' 17,47" W. El objeto consiste en continuar amparando la instalación de dos cañerías de desagüe. Las obras existentes consisten en dos cañerías de desagüe (emisarios submarinos). Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Arica. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Carlos Opitz Bastías, Teniente Primero LT, Capitán de Puerto de Arica (S).
