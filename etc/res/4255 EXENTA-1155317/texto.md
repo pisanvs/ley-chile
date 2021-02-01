@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4.255, de fecha 21 de diciembre de 2020, se ordenó la expropiación Total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 487, correspondiente al inmueble ubicado en Independencia 5480, Rol de Avalúo N° 6209-17, de la comuna de Conchalí, Región Metropolitana, de aparente dominio de Morales Orozco María del T., con una superficie aproximada de 218,09 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Daniel Zamudio Wehrhahn, Ingeniero Civil; Leonardo Bastías Tessada, Constructor Civil, y Yazmín Balboa Rojas, Constructor Civil, mediante Informe de fecha 4 de diciembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $172.986.622, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
