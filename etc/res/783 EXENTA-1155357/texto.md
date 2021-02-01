@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 783, del 23 de diciembre de 2020, Serviu Región de Ñuble ordenó expropiación parcial de inmueble ubicado en Avenida Huambalí N° 138, comuna de Chillán, Rol de Avalúo N° 00697-00007, de aparente dominio de Sánchez Pantoja María Margarita. La parte afecta a expropiación parcial de terreno es de 177,02 m2 (Lote 28) y 111,07 m2 total de edificación y cuyos linderos particulares, enmarcados en el plano S16R-008, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Mario Fabrizzio Bellolio Bostica; constructor civil Ítalo Renzo Zerga Arancibia, y por el ingeniero civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $70.332.464.-
+
+Director Serviu Región de Ñuble.
