@@ -34,7 +34,9 @@ Resolución:
 
 Las postulaciones al presente llamado solo podrán efectuarse por vía electrónica, mediante el sistema informático que se dispondrá al efecto, entre los días 25 de septiembre y 7 de octubre de 2020, ambas fechas inclusive.
 
-2. Los recursos dispuestos para la selección de postulantes, por Región del país, son los siguientes:
+2. Los recursos dispuestos para la selección de postulantes, por Región del país, son los siguientes
+
+:
 
 La selección de postulantes se realizará regionalmente, de acuerdo a la comuna registrada en su Registro Social de Hogares, por estricto orden de prelación según los puntajes señalados en el artículo 24 del DS Nº 49 (V. y U.), de 2011, pudiendo efectuarse redistribuciones o aumentos de subsidios, de acuerdo a la disponibilidad de recursos del programa conforme la resolución indicada en el Visto c) del presente acto administrativo.
 
