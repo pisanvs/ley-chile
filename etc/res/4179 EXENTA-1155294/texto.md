@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.179, de fecha 16 de diciembre de 2020, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 8212-37, correspondiente al inmueble ubicado en Flor de Quillén 01691, DP 11, Rol de Avalúo Nº 8212-37, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de De la Hoz Labrín Evelyn Vanessa, con una superficie aproximada de 42,95 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Regeneración del Conjunto Habitacional Marta Brunet del sector Bajos de Mena, comuna de Puente Alto". La Comisión de Peritos integrada por el señor Nicolás Romero Morales, ingeniero en ejecución; señor Jesús Díaz Pasmiño, ingeniero civil y señora Karine Acevedo Hinojosa, constructor civil, mediante informe de fecha 11 de noviembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $17.922.744, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.
+
+Directora Serviu Metropolitano.
