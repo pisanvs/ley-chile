@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4.273, de fecha 21 de diciembre de 2020, se ordenó la expropiación total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 514, correspondiente al inmueble ubicado en Independencia 6091 Juanita Aguirre, Rol de Avalúo N° 3103-7, de la comuna de Conchalí, Región Metropolitana, de aparente dominio de Farías Lancino Juan Carlos, con una superficie aproximada de 160 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Mufida Abuawad Elias, Arquitecto, Solange Lagos Díaz, Arquitecto y Lorena Gajardo Alarcón, Ingeniero Constructor, mediante Informe de fecha 7 de diciembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $143.114.600, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N°2.186 de 1978.-
+
+Directora Serviu Metropolitano.
