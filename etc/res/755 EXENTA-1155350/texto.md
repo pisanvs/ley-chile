@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 755, del 23 de diciembre de 2020, Serviu Región de Ñuble ordenó expropiación parcial de inmueble ubicado en Avenida Huambalí Nº 128, comuna de Chillán, Rol de Avalúo Nº 00697-00006, de aparente dominio de Sucesión Pantoja Oyarce Marta. La parte afecta a expropiación parcial de terreno es de 175,65 m2 (Lote 27) y 200,35 m2 total de edificación y cuyos linderos particulares, enmarcados en el plano Sl6R-007, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Mario Fabrizzio Bellolio Bostica; constructor civil Ítalo Renzo Zerga Arancibia, y por el ingeniero civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $75.021.160.-
+
+Director Serviu Región de Ñuble.
