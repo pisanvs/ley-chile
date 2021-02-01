@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.246, de fecha 21 de diciembre de 2020, se ordenó la expropiación Parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 476, correspondiente al inmueble ubicado en Independencia 5457, Rol de Avalúo Nº 2870-28, de la comuna de Conchalí, Región Metropolitana, de aparente dominio de Farías Blanco Virginia de las Me, con una superficie aproximada de 29,96 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Daniel Zamudio Wehrhahn, ingeniero civil; Leonardo Bastías Tessada, constructor civil, y Yazmín Balboa Rojas, constructor civil, mediante Informe de fecha 4 de diciembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $24.245.760, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
