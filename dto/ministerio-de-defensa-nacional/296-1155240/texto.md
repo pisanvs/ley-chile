@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 296, de fecha 5 de octubre de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Copulhue SpA, RUT 76.462.336-3, concesión marítima menor con vencimiento el 31 de diciembre de 2030, sobre un sector de playa y fondo de mar en el lugar denominado Chullec, sector Sureste Punta Tanecuhe, comuna de Quinchao, provincia de Chiloé, Región de Los Lagos, con una superficie total de 393,96 m2, la que fue tramitada con el SIABC Nº 36.007. A modo referencial se señala la siguiente coordenada geográfica: 42º 28' 42,40", 73º 31' 35,12". El objeto consiste en amparar la construcción y operación de una cañería de aducción y una cañería de restitución de agua de mar, para dar apoyo al hatchery que la empresa operará en el sector en sus terrenos particulares. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Achao. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Dennis Gallardo Salinas, Sargento 1º L (Seg. M.), Capitán de Puerto de Achao.
