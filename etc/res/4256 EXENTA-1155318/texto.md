@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.256, de fecha 21 de diciembre de 2020, se ordenó la expropiación Parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote N° 488, correspondiente al inmueble ubicado en Independencia 5600 El Cortijo, Rol de Avalúo Nº 6309-15, de la comuna de Conchalí, Región Metropolitana, de aparente dominio de Atenas Morales Pedro Antonio, con una superficie aproximada de 47,57 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Sergio Jeremías Ordenes Salinas, Ingeniero Civil; María Carolina Letelier Bopp, Arquitecto, e Ivanka Aliaga Jofré, Constructor Civil, mediante Informe de fecha 27 de noviembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $61.979.080, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
