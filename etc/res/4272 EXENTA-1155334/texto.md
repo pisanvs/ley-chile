@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.272, de fecha 21 de diciembre de 2020, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 513, correspondiente al inmueble ubicado en Independencia 6087, Rol de Avalúo Nº 3103-6, de la comuna de Conchalí, Región Metropolitana, de aparente dominio de Vilches Jara Fabiola del Carmen y O, con una superficie aproximada de 160 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Mufida Abuawad Elías, Arquitecto, Solange Lagos Díaz, Arquitecto y Lorena Gajardo Alarcón, Ingeniero Constructor, mediante Informe de fecha 7 de diciembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $88.906.500, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7°del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
