@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.247, de fecha 21 de diciembre de 2020, se ordenó la expropiación Parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 477, correspondiente al inmueble ubicado en Independencia 5461, Rol de Avalúo Nº 2877-1, de la comuna de Conchalí, Región Metropolitana, de aparente dominio de Pascual Merino Enrique, con una superficie aproximada de 4,21 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Daniel Zamudio Wehrhahn, Ingeniero Civil; Leonardo Bastías Tessada, Constructor Civil, y Yazmín Balboa Rojas, Constructor Civil, mediante Informe de fecha 4 de diciembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $3.898.215, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
