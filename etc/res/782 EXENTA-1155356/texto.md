@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 782, del 23 de diciembre de 2020, Serviu Región de Ñuble ordenó expropiación total de inmueble ubicado en Avenida Huambalí Nº 36, comuna de Chillán, rol de avalúo Nº 00680-00005, de aparente dominio de Chávez Cerda Ana Mercedes. La parte afecta a expropiación total de terreno es de 140,38 m2 (Lote 10) y 47,44 m2 total de edificación y cuyos linderos particulares, enmarcados en el plano S16R-004, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Mario Fabrizzio Bellolio Bostica, Constructor Civil Ítalo Renzo Zerga Arancibia y por el Ingeniero Civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $53.392.169.-
+
+Director Serviu Región de Ñuble.
