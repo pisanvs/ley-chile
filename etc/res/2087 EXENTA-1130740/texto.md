@@ -30,7 +30,7 @@ I.- Califícanse los pasaportes vencidos de nacionales venezolanos, expedidos de
 
 II.- Califícanse las cédulas de identidad vencidas de nacionales venezolanos expedidas desde el año 2013, como documentos de viaje de análoga naturaleza.
 
-III.- Déjase establecido que el término de vigencia de dichos documentos de análoga naturaleza será de dos años a partir de la publicación del presente acto administrativo.
+III.- Déjase establecido que el término de vigencia de dichos documentos de análoga naturaleza será de 4 años a partir de la publicación del presente acto administrativo.
 
 IV.- Instrúyase a los Consulados y Secciones Consulares de las Embajadas de Chile en el exterior, al Departamento de Extranjería y Migración y la Jefatura Nacional de Extranjería y Policía Internacional de la Policía de Investigaciones de Chile, lo siguiente:
 
