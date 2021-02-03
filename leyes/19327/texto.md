@@ -182,7 +182,7 @@ Con la misma pena del inciso anterior será sancionado el que, en las circunstan
 
 #### Artículo 13
 
-El que, con motivo u ocasión de un espectáculo de fútbol profesional, dentro del recinto deportivo o en sus inmediaciones, o en el desarrollo de hechos o circunstancias conexas, de acuerdo a lo previsto en el inciso segundo del artículo 1º, cometiere alguno de los delitos previstos en los artículos 269, 296, 297, 391, 395, 396, 397, 433 ó 436, inciso primero, del Código Penal, será sancionado con la pena señalada por la ley al delito, con exclusión de su grado mínimo si ella consta de dos o más grados, o de su mitad inferior, si la sanción constituye un grado de una pena divisible.
+El que, con motivo u ocasión de un espectáculo de fútbol profesional, dentro del recinto deportivo o en sus inmediaciones, o en el desarrollo de hechos o circunstancias conexas, de acuerdo a lo previsto en el inciso segundo del artículo 1º, cometiere alguno de los delitos previstos en los artículos 269, 296, 297, 391, 395, 396, 397, 433 ó 436, inciso primero, del Código Penal o artículo 14 E de la ley N° 17.798, sobre Control de Armas, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo N° 400, de 1977, del Ministerio de Defensa Nacional, será sancionado con la pena señalada por la ley al delito, con exclusión de su grado mínimo si ella consta de dos o más grados, o de su mitad inferior, si la sanción constituye un grado de una pena divisible.
 
 #### Artículo 14
 
@@ -350,7 +350,7 @@ a) Revender entradas para espectáculos de fútbol profesional. Para estos efect
 
 b) Ingresar indebidamente a un recinto donde se realiza un espectáculo de fútbol profesional, o actividades conexas que no sean de libre acceso al público, ocupando formas o vías no dispuestas por el organizador o el administrador del recinto deportivo, o irrumpir sin autorización en el terreno de juego del recinto deportivo o del campo de entrenamiento, o cualquier otra zona del recinto deportivo cuyo acceso no sea de libre acceso público.
 
-c) Portar, activar o lanzar bengalas, petardos, bombas de estruendo o, en general, todos aquellos elementos a que se refiere el artículo 3ºA de la ley Nº17.798, en espectáculos de fútbol profesional o en actividades conexas.
+c) Derogada.
 
 d) Ejecutar cualquier conducta que ponga en peligro la seguridad y tranquilidad del desarrollo del espectáculo, tales como lanzar objetos en dirección al campo de juego, trepar o escalar el alambrado o barreras de separación del recinto.
 

@@ -214,6 +214,8 @@ Los que poseyeren, tuvieren o portaren algunas de las armas o elementos señalad
 
 Los que poseyeren, tuvieren o portaren algunas de las armas o elementos señalados en las letras c) y e) del artículo 2º, sin las autorizaciones a que se refiere el artículo 4º, o sin la inscripción establecida en el artículo 5º, serán sancionados con presidio menor en su grado medio.
 
+Los que poseyeren o tuvieren alguno de los elementos señalados en la letra f) del artículo 2º, sin las autorizaciones a que se refiere el artículo 4°, serán sancionados con presidio menor en su grado mínimo o multa de 5 a 20 unidades tributarias mensuales.
+
 #### Artículo 9º
 
 A.- Será sancionada con una multa administrativa de 100 a 500 unidades tributarias mensuales, la persona autorizada que:
@@ -233,6 +235,8 @@ Si la infracción tuviere lugar por tercera vez, la sanción será la revocació
 Los que sin la competente autorización fabricaren, armaren, elaboraren, adaptaren, transformaren, importaren, internaren al país, exportaren, transportaren, almacenaren, distribuyeren, ofrecieren, adquirieren o celebraren convenciones respecto de los elementos indicados en las letras b), c), d) y e) del artículo 2º serán sancionados con la pena de presidio mayor en su grado mínimo.
 
 Si alguna de las conductas descritas en el inciso anterior se realizare respecto de los elementos a que se hace referencia en los incisos primero, segundo y tercero del artículo 3º, la pena será de presidio mayor en su grado mínimo a medio. Si las armas fueren material de uso bélico de la letra a) del artículo 2º o aquellas a que se hace referencia en el inciso final del artículo 3º, la pena será de presidio mayor en sus grados medio a máximo. Pero tratándose de artefactos incendiarios, explosivos, tóxicos, corrosivos o infecciosos cuyos componentes principales sean pequeñas cantidades de combustibles y otros elementos químicos de libre venta al público y de bajo poder expansivo, tales como las bombas molotov y otros artefactos similares, se impondrá únicamente la pena de presidio menor en su grado máximo.
+
+Los que sin la competente autorización fabricaren, armaren, elaboraren, adaptaren, transformaren, importaren, internaren al país, exportaren, transportaren, almacenaren, distribuyeren, ofrecieren, adquirieren o celebraren convenciones respecto de los elementos indicados en la letra f) del artículo 2 serán sancionados con la pena de presidio menor en su grado medio y multa de 10 a 20 unidades tributarias mensuales. En caso de que en la perpetración del delito se utilizaren establecimientos o locales, a sabiendas de su propietario o encargado, o no pudiendo éste menos que saberlo, el juez podrá decretar en la sentencia su clausura definitiva. Asimismo, durante el proceso judicial respectivo podrá decretar, como medida cautelar, la clausura temporal de dichos establecimientos o locales.
 
 Quienes construyeren, acondicionaren, utilizaren o poseyeren las instalaciones señaladas en la letra g) del artículo 2º, sin la autorización que exige el inciso primero del artículo 4º, serán castigados con la pena de presidio mayor en su grado mínimo a medio.
 
@@ -300,7 +304,15 @@ Si las conductas descritas en el inciso precedente se realizaren en, desde o hac
 
 Ejecutándose las conductas descritas en los incisos anteriores con artefactos incendiarios, explosivos, tóxicos, corrosivos o infecciosos cuyos componentes principales sean pequeñas cantidades de combustibles u otros elementos químicos de libre venta al público y de bajo poder expansivo, tales como las bombas molotov y otros artefactos similares, se impondrá únicamente la pena de presidio menor en su grado máximo, en el caso del inciso primero, y de presidio menor en su grado medio, en el del inciso segundo.
 
-Quien disparare injustificadamente un arma de fuego de las señaladas en la letra b) del artículo 2º en, desde o hacia uno de los lugares mencionados en el inciso primero será sancionado con la pena de presidio menor en su grado máximo. Si lo hiciere en, desde o hacia uno de los lugares que indica el inciso segundo, la pena será de presidio menor en su grado medio. Si el arma disparada correspondiere a las señaladas en la letra a) del artículo 2º o en el artículo 3º, se impondrá la pena inmediatamente superior en grado.
+Quien disparare injustificadamente un arma de fuego de las señaladas en la letra b) del artículo 2º a un inmueble privado con personas en su interior, o en, desde o hacia uno de los lugares mencionados en el inciso primero será sancionado con la pena de presidio menor en su grado máximo. Si la conducta descrita en este inciso se realizare al aire o en, desde o hacia lugares u objetos distintos de los señalados, la pena será de presidio menor en su grado medio. Si el arma disparada correspondiere a las señaladas en la letra a) del artículo 2º o en el artículo 3º, se impondrá la pena inmediatamente superior en grado.
+
+Las penas dispuestas en el inciso anterior se impondrán en su máximum cuando las conductas ahí señaladas turbaren gravemente la tranquilidad pública o infundieren temor en la población.
+
+#### Artículo 14
+
+E.- El que, sin la competente autorización, accionare, activare o disparare alguno de los elementos señalados en la letra f) del artículo 2 será sancionado con la pena de presidio menor en sus grados mínimo a medio y multa de 10 a 20 unidades tributarias mensuales.
+
+La pena privativa de libertad dispuesta en el inciso anterior se impondrá en su máximo cuando las conductas ahí señaladas turbaren gravemente la tranquilidad pública o infundieren temor en la población.
 
 #### Artículo 15°
 

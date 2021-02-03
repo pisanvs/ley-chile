@@ -4704,7 +4704,7 @@ Sufrirán la pena de multa de una a cuatro unidades tributarias mensuales:
 
 11.° El que injuriare a otro livianamente de obra o de palabra, no siendo por escrito y con publicidad.
 
-12.° El que dentro de las poblaciones y en contravención a los reglamentos disparare armas de fuego, cohetes, petardos u otros proyectiles.
+12.° Derogado.
 
 13.° El que corriere carruajes o caballerías dentro de una población, no siendo en los casos previstos por el núm. 6.° del art. 494.
 

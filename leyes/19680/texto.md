@@ -26,13 +26,7 @@ Prohíbese la fabricación, importación, comercialización, distribución, vent
 
 #### Artículo 2º
 
-Será competente para el conocimiento de las infracciones a lo establecido en el artículo 3º A de la ley Nº17.798, el juez de policía local del lugar en que se hubieren cometido, aplicándose a este efecto el procedimiento sobre faltas establecido en la ley Nº18.287, y concediéndose acción pública para la denuncia.
-
-Las infracciones serán sancionadas con multa de 10 a 50 unidades tributarias mensuales, sin perjuicio de la facultad del juez para decretar, en caso de reincidencia, la clausura, hasta por 30 días, del establecimiento industrial, artesanal, comercial o importador en que se hubiere vulnerado la norma.
-
-En el caso que la infracción incidiere en la fabricación de estos elementos, la sanción será multa de 25 a 75 unidades tributarias mensuales y la clausura definitiva del establecimiento.
-
-El juez deberá decretar, en todo caso, el comiso de las especies incautadas, las que serán puestas a disposición de la Dirección General de Movilización Nacional, para los fines que ésta estime pertinentes, a través de las Autoridades Fiscalizadoras a que se refieren la ley Nº17.798 y su Reglamento.
+Derogado.
 
 #### Artículo transitorio
 
