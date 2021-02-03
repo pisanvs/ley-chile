@@ -56,7 +56,7 @@ La Comisión para el Mercado Financiero reglamentará la forma de determinación
 
 #### Artículo 4º
 
-Los financiamientos que garantice el Fondo, cuando sean otorgados por instituciones que tengan acceso a financiamiento del Banco Central de Chile, deberán tener una tasa de interés anual y nominal que no exceda del equivalente a la tasa de política monetaria más un 3%. Asimismo, los financiamientos que garantice el Fondo se otorgarán en moneda corriente, con excepción de aquellos destinados a pequeños y medianos empresarios que tengan por objeto el financiamiento de operaciones de exportación o importación, los cuales también podrán otorgarse en moneda extranjera.
+Los financiamientos que garantice el Fondo, cuando sean otorgados por instituciones que tengan acceso a financiamiento del Banco Central de Chile, deberán tener una tasa de interés nominal anual que no sea mayor a la tasa de política monetaria más el equivalente anual de una tasa de 0,6% mensual.
 
 Con todo, el Fondo no podrá:
 
@@ -68,13 +68,17 @@ c) Garantizar más del 70% del saldo deudor de cada financiamiento, ni garantiza
 
 d) Garantizar más del 60% del saldo deudor de cada financiamiento, ni garantizar financiamientos que excedan el total de 250.000 unidades de fomento, o su equivalente en moneda extranjera, para cada empresa cuyas ventas netas anuales superen las 600.000 unidades de fomento, o su equivalente en moneda extranjera y no excedan de 1.000.000 unidades de fomento, o su equivalente en moneda extranjera.
 
+Sin perjuicio de lo anterior, el Ministerio de Hacienda podrá, mediante los decretos supremos referidos en el artículo quinto transitorio del presente decreto ley, aumentar el límite de cobertura del saldo deudor de cada financiamiento y aumentar, hasta el doble, el monto máximo de los financiamientos establecidos en el inciso anterior, para determinados sectores económicos que se vean mayormente afectados por la situación financiera y económica del país.
+
+Asimismo, el Ministerio de Hacienda podrá establecer mediante los decretos supremos señalados en el inciso anterior que, en caso de que el financiamiento que garantice el Fondo se caucione también con hipoteca o prenda en favor de la respectiva institución financiera, y se otorgue con el objeto de adquirir activos fijos, el Fondo podrá garantizar financiamientos que no excedan 1,5 veces los montos de los límites en unidades de fomento establecidos en el inciso segundo de este artículo. De igual manera, se podrá establecer que el Fondo también podrá garantizar financiamientos que no excedan 1,5 veces los montos de los mencionados límites en unidades de fomento, cuando el financiamiento que garantice el Fondo se otorgue con el objeto de financiar operaciones de leasing.
+
 Respecto de los exportadores a que se refiere la última parte del inciso primero del artículo anterior, el monto máximo del financiamiento a garantizar a cada exportador no podrá exceder la cantidad de dinero en moneda nacional o en moneda extranjera, equivalente a 5.000 Unidades de Fomento. Con todo, el Fondo no podrá garantizar más del 80% del saldo deudor de cada financiamiento.
 
 En el caso de las personas jurídicas y organizaciones a que se refiere el inciso segundo del artículo anterior, los financiamientos que garantice el Fondo no podrán exceder, en total, de 24.000 unidades de fomento para cada persona jurídica u organización. El Fondo no podrá garantizar más del 80% del saldo deudor de cada financiamiento.
 
 La garantía del Fondo no podrá tener un plazo superior a 10 años, sin perjuicio del plazo del financiamiento por el cual se otorgue.
 
-Los deudores de financiamientos garantizados por el Fondo, deberán destinar estos recursos a inversiones, gastos, constitución o aportes en sociedades que tengan por objeto la explotación de la misma actividad del deudor o conexa con ésta. Estos financiamientos serán considerados de fomento.
+Los deudores de financiamientos garantizados por el Fondo, deberán destinar estos recursos a inversiones, gastos, refinanciamientos sujetos a requisitos que se establezcan mediante los decretos supremos referidos en el artículo quinto transitorio del presente decreto ley, constitución o aportes en sociedades que tengan por objeto la explotación de la misma actividad del deudor o conexa con ésta. Estos financiamientos serán considerados de fomento.
 
 Las infracciones a lo establecido en el inciso anterior serán castigadas con presidio menor en sus grados medio a máximo.
 
@@ -130,7 +134,7 @@ transitorio.- Se faculta al Presidente de la República para poner a disposició
 
 #### Artículo segundo
 
-transitorio.- Reemplázase el inciso primero del artículo 3° del presente decreto ley, desde la entrada en vigencia de la ley que aumenta el capital del Fondo de Garantía para Pequeños y Medianos Empresarios (Fogape ) y flexibiliza temporalmente sus requisitos y hasta el 30 de abril de 2021, inclusive, por el siguiente:
+transitorio.- Reemplázase el inciso primero del artículo 3° del presente decreto ley, desde la entrada en vigencia de la ley que aumenta el capital del Fondo de Garantía para Pequeños y Medianos Empresarios (Fogape ) y flexibiliza temporalmente sus requisitos y hasta el 31 de diciembre de 2021, inclusive, por el siguiente:
 
 #### Artículo 3º
 
@@ -138,11 +142,11 @@ Podrán optar a la garantía del Fondo los empresarios cuyas ventas netas anuale
 
 #### Artículo tercero
 
-transitorio.- Reemplázanse los incisos primero y segundo del artículo 4º del presente decreto ley, desde la entrada en vigencia de la ley que aumenta el capital del Fondo de Garantía para Pequeños y Medianos Empresarios ( Fogape ) y flexibiliza temporalmente sus requisitos y hasta el 30 de abril de 2021, inclusive, por los siguientes:
+transitorio.- Reemplázanse los incisos primero y segundo del artículo 4º del presente decreto ley, desde la entrada en vigencia de la ley que aumenta el capital del Fondo de Garantía para Pequeños y Medianos Empresarios ( Fogape ) y flexibiliza temporalmente sus requisitos y hasta el 31 de diciembre de 2021, inclusive, por los siguientes incisos primero, segundo, tercero y cuarto, pasando el actual inciso tercero a ser quinto, y así sucesivamente:
 
 #### Artículo 4º
 
-Los financiamientos que garantice el Fondo, cuando sean otorgados por instituciones que tengan acceso a financiamiento del Banco Central de Chile, deberán tener una tasa de interés anual y nominal que no exceda del equivalente a la tasa de política monetaria más un 3%. Asimismo, los financiamientos que garantice el Fondo se otorgarán en moneda corriente, con excepción de aquellos destinados a pequeños y medianos empresarios que tengan por objeto el financiamiento de operaciones de exportación o importación, los cuales también podrán otorgarse en moneda extranjera.
+Los financiamientos que garantice el Fondo, cuando sean otorgados por instituciones que tengan acceso a financiamiento del Banco Central de Chile, deberán tener una tasa de interés nominal anual que no sea mayor a la tasa de política monetaria más el equivalente anual de una tasa de 0,6% mensual.
 
 Con todo, el Fondo no podrá:
 
@@ -154,9 +158,13 @@ c) Garantizar más del 70% del saldo deudor de cada financiamiento, ni garantiza
 
 d) Garantizar más del 60% del saldo deudor de cada financiamiento, ni garantizar financiamientos que excedan el total de 250.000 unidades de fomento, o su equivalente en moneda extranjera, para cada empresa cuyas ventas netas anuales superen las 600.000 unidades de fomento, o su equivalente en moneda extranjera y no excedan de 1.000.000 unidades de fomento, o su equivalente en moneda extranjera.
 
+Sin perjuicio de lo anterior, el Ministerio de Hacienda podrá, mediante los decretos supremos referidos en el artículo quinto transitorio del presente decreto ley, aumentar el límite de cobertura del saldo deudor de cada financiamiento y aumentar, hasta el doble, el monto máximo de los financiamientos establecidos en el inciso anterior, para determinados sectores económicos que se vean mayormente afectados por la situación financiera y económica del país.
+
+Asimismo, el Ministerio de Hacienda podrá establecer mediante los decretos supremos señalados en el inciso anterior que, en caso de que el financiamiento que garantice el Fondo se caucione también con hipoteca o prenda en favor de la respectiva institución financiera, y se otorgue con el objeto de adquirir activos fijos, el Fondo podrá garantizar financiamientos que no excedan 1,5 veces los montos de los límites en unidades de fomento establecidos en el inciso segundo de este artículo. De igual manera, se podrá establecer que el Fondo también podrá garantizar financiamientos que no excedan 1,5 veces los montos de los mencionados límites en unidades de fomento, cuando el financiamiento que garantice el Fondo se otorgue con el objeto de financiar operaciones de leasing.
+
 #### Artículo cuarto
 
-transitorio.- Modifícase el artículo 5º del presente decreto ley, desde la entrada en vigencia de la ley que aumenta el capital del Fondo de Garantía para Pequeños y Medianos Empresarios (Fogape) y flexibiliza temporalmente sus requisitos y hasta el 30 de abril de 2021, inclusive, en el siguiente sentido:
+transitorio.- Modifícase el artículo 5º del presente decreto ley, desde la entrada en vigencia de la ley que aumenta el capital del Fondo de Garantía para Pequeños y Medianos Empresarios (Fogape) y flexibiliza temporalmente sus requisitos y hasta el 31 de diciembre de 2021, inclusive, en el siguiente sentido:
 
 1) Elimínase en el inciso cuarto la frase "pequeños y medianos".
 
@@ -164,12 +172,16 @@ transitorio.- Modifícase el artículo 5º del presente decreto ley, desde la en
 
 #### Artículo quinto
 
-transitorio.- El Ministerio de Hacienda podrá emitir uno o más decretos supremos, bajo la fórmula "Por orden del Presidente de la República", en los cuales establecerá los requisitos y condiciones mínimas que deben cumplir las bases de cada licitación, pudiendo establecer requisitos, condiciones y criterios específicos para cada licitación. Asimismo, dichos decretos regularán el funcionamiento del Fondo de Garantía para Pequeños y Medianos Empresarios y todos los demás aspectos necesarios para la mejor aplicación de esta ley. El presente artículo tendrá una vigencia de 60 meses desde su entrada en vigencia. Asimismo, los mencionados decretos supremos no podrán tener una vigencia superior al plazo de vigencia de este artículo.
+transitorio.- El Ministerio de Hacienda podrá emitir uno o más decretos supremos, bajo la fórmula "Por orden del Presidente de la República", en los cuales establecerá los requisitos y condiciones mínimas que deben cumplir ciertas bases de licitaciones, pudiendo establecer distintos tipos o regímenes de licitaciones y sus respectivos requisitos, condiciones y criterios específicos. Asimismo, dichos decretos regularán el funcionamiento del Fondo de Garantía para Pequeños y Medianos Empresarios y todos los demás aspectos necesarios para la mejor aplicación de esta ley, sin perjuicio de las normas que corresponda dictar a la Comisión para el Mercado Financiero. El presente artículo estará vigente hasta el 31 de diciembre del año 2028. Asimismo, los mencionados decretos supremos no podrán tener una vigencia superior al plazo de vigencia de este artículo. El cumplimiento de estos plazos no afectarán la regulación y facultades, incluyendo las facultades de cobro, del Fondo de Garantía para Pequeños y Medianos Empresarios respecto de las garantías que se hayan otorgado en virtud del presente decreto ley y los referidos decretos supremos.
 
 #### Artículo sexto
 
 transitorio.- Con todo, los derechos adjudicados en licitaciones anteriores a la entrada en vigencia de los artículos segundo, tercero, cuarto y quinto transitorios de esta ley, así como aquellos fondos disponibles de licitaciones anteriores a la vigencia de los mencionados artículos, se mantendrán vigentes para quienes se los hubieran adjudicado en dicha licitación, salvo que opten expresamente por desistirse de los derechos adjudicados, optando por las condiciones establecidas en los referidos artículos, y especialmente en las condiciones que establezcan los decretos supremos expedidos por el Ministerio de Hacienda en virtud del artículo quinto transitorio de esta ley.
 
 Los financiamientos garantizados por el Fondo de Garantía para Pequeños y Medianos Empresarios con anterioridad a la entrada en vigencia de los artículos segundo, tercero, cuarto y quinto transitorios de esta ley, no se computarán para la aplicación y limitaciones que establece el artículo tercero transitorio de esta ley.
+
+#### Artículo séptimo
+
+transitorio.- Intercálase en el inciso sexto del artículo 4° del presente decreto ley, que ha pasado a ser transitoriamente inciso octavo, desde la entrada en vigencia de la ley que modifica el Fondo de Garantía para Pequeños y Medianos Empresarios (FOGAPE) con el objeto de potenciar la reactivación y recuperación de la economía, y hasta el 31 de diciembre de 2021, inclusive, entre las expresiones "gastos," y "constitución o aportes", la expresión "refinanciamientos sujetos a requisitos que se establezcan mediante los decretos supremos referidos en el artículo quinto transitorio del presente decreto ley,".
 
 Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Alfonso Márquez de la Plata Yrarrázaval, Ministro de Agricultura.- Sergio de Castro Spikula, Ministro de Hacienda.
