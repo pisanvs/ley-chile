@@ -20,7 +20,7 @@ Resuelvo:
 
 #### Artículo único
 
-Deléguese, a contar del 15 de marzo de 2019, en la Jefa de la División Jurídica, de la Subsecretaría de Economía y Empresas de Menor Tamaño, la facultad que se indica, respecto de todas las regiones, excepto de la Región de Valparaíso:
+Deléguese, a contar del 15 de marzo de 2019, en la Jefa de la División Jurídica, de la Subsecretaría de Economía y Empresas de Menor Tamaño o quien la subrogue, la facultad que se indica, respecto de todas las regiones, excepto de la Región de Valparaíso:
 
 El ejercicio de la facultad referida en el artículo 5º de la ley Nº 19.896, de visar los decretos o resoluciones que aprueben la contratación de personas naturales a honorarios en los órganos y servicios públicos incluidos en la ley de presupuestos, y a las contrataciones en el mismo Servicio con aplicación de lo dispuesto en la letra d) del artículo 81 de la ley Nº 18.834.
 
