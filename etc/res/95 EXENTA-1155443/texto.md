@@ -68,7 +68,7 @@ iv. La zona urbana de la comuna de Quinchao
 
 ### 5. Región de Aysén del General Carlos Ibáñez del Campo
 
-i. La comuna de Coyhaique.
+i. La zona urbana de la comuna de Coyhaique.
 
 En consecuencia, los habitantes de dichas localidades deberán permanecer en cuarentena o aislamiento, es decir, en sus domicilios habituales, además de observar las medidas dispuestas para el "Paso 1: Cuarentena" en la resolución exenta Nº 43, ya citada.
 
