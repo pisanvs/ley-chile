@@ -42,8 +42,6 @@ Patente JKFF-46
 
 Derogado.
 
-> **Nota.** El Artículo Segundo del Decreto 369 Exento, Interior, publicado el 13.04.2021, deja sin efecto la presente norma en lo referente a las autorizaciones para circulación en horario inhábil, dispuestas mediante el presente artículo, en lo que se refiere a las autorizaciones para los vehículos asignados al uso de la Fiscalía de la Región de Arica y Parinacota.
-
 #### Artículo tercero
 
 <!-- parte:9812427 -->
