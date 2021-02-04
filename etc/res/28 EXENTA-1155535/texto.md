@@ -1,0 +1,13 @@
+NOTIFICA RESOLUCIÓN DE DESISTIMIENTO DEL PROCEDIMIENTO DE EVALUACIÓN AMBIENTAL DEL PROYECTO "MODIFICACIONES EMBALSE DE REGADÍO LAS PALMAS"
+
+De conformidad con lo dispuesto en el artículo 4 de la ley 19.300, que busca facilitar la participación ciudadana, permitiendo el acceso a la información ambiental, se comunica que, por carta recibida con fecha 22 de enero de 2021, presentada por el señor Bo Zhang, en representación de Sociedad Concesionaria CHEC Embalse Las Palmas S.A., manifestó su voluntad de desistirse del procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental (DIA) del proyecto "Modificaciones Embalse de Regadío Las Palmas". Considerando que el artículo 14 de la ley N° 19.880, en su inciso tercero, dispone que: "En los casos de prescripción, renuncia del derecho, abandono del procedimiento o desistimiento de la solicitud, así como la desaparición sobreviniente del objeto del procedimiento, la resolución consistirá en la declaración de la circunstancia que concurra en cada caso, con indicación de los hechos producidos y las normas aplicables"; que, el artículo 40 de la ley N° 19.880, en su inciso primero, dispone que: "Pondrán término al procedimiento la resolución final, el desistimiento, la declaración de abandono y la renuncia al derecho en que se funde la solicitud, cuando tal renuncia no esté prohibida por el ordenamiento jurídico"; que, el artículo 42 de la ley N° 19.880, dispone que: "Todo interesado podrá desistirse de su solicitud o, cuando ello no esté prohibido por el ordenamiento jurídico, renunciar a sus derechos"; y que, la referida solicitud ha sido presentada por el titular del proyecto, de forma oportuna ante el órgano competente, se informa que mediante resolución exenta N° 28, de fecha 25 de enero de 2021, la Directora Regional del Servicio de Evaluación Ambiental (SEA) de la Región de Valparaíso, ha resuelto tener por desistida la DIA del proyecto "Modificaciones Embalse de Regadío Las Palmas", presentado por el señor Bo Zhang, en representación de Sociedad Concesionaria CHEC Embalse Las Palmas S.A, poniéndose término al procedimiento de evaluación ambiental del mismo.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en:
+
+. Dirección Regional del SEA, ubicada en calle Prat 827, oficina 301, Valparaíso.
+
+. Sitio web www.sea.gob.cl.
+
+. https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=f6/a1/eb33f447c22d8b4365ee563f4d2bf0584f01.
+
+Paola La Rocca Mattar, Directora Regional, Servicio de Evaluación Ambiental, Región de Valparaíso.
