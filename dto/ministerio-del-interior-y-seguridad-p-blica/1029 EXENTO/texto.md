@@ -38,8 +38,6 @@ Patente JKFF-46
 
 Derogado.
 
-> **Nota.** El Artículo Segundo del Decreto 369 Exento, Interior, publicado el 13.04.2021, deja sin efecto la presente norma en lo referente a las autorizaciones para circulación en horario inhábil, dispuestas mediante el presente artículo, en lo que se refiere a las autorizaciones para los vehículos asignados al uso de la Fiscalía de la Región de Arica y Parinacota.
-
 #### Artículo tercero
 
 Deróganse las autorizaciones otorgadas al vehículo placa patente DCBB-37, mediante decreto exento 1988, de fecha 20.05.2011, y las otorgadas a los vehículos patentes únicas GBLY.28, GBLY.27 y GBLY.26, por decreto exento 3.705, de fecha 19.06.2014.
