@@ -28,7 +28,7 @@ Resuelvo:
 
 #### Artículo primero
 
-Deléguese en la (el) Jefa(e) de la División Jurídica, y sucesivamente, en ausencia o impedimento de ésta(e), en la (el) Jefa(e) de la División de Empresas de Menor Tamaño y en la (el) Secretaria(o) Regional Ministerial de Economía de la Región Metropolitana, el ejercicio de atribuciones y la facultad de firmar bajo la fórmula "Por orden del Subsecretario" -según corresponda-, así como la de rectificar, modificar y dejar sin efectos o revocar, los actos que se describen a continuación por materia:
+Deléguese en la (el) Jefa de la División Jurídica, y sucesivamente, en ausencia o impedimento de esta(e) en la (el) Jefa(e) de la División de Empresas de Menor Tamaño, en la (el) Secretaria(o) Regional Ministerial de Economía, de la Región Metropolitana, en la (el) Jefa(e) de la División de Asociatividad y Cooperativas o en quien subrogue a la Jefa(e) de la División Jurídica, el ejercicio de atribuciones y la facultad de firmar bajo la fórmula "Por orden del Subsecretario" –según corresponda– así como la de rectificar, modificar y dejar sin efectos o revocar, los actos que se describen a continuación por materia:
 
 A.- MATERIAS GENERALES DE BUEN SERVICIO, VISACIÓN Y SUSCRIPCIÓN DE OFICIOS DE TRÁMITE
 
@@ -100,7 +100,7 @@ G.- MATERIAS FINANCIERAS
 
 #### Artículo segundo
 
-Deléguese en la (el) Jefa(e) de la División Jurídica el ejercicio de las siguientes atribuciones y la facultad de firmar bajo la fórmula "Por orden del Subsecretario", los actos que se describen a continuación, según corresponda:
+Deléguese en la (el) Jefa de la División Jurídica, o en quien la (lo) subrogue, el ejercicio de las siguientes atribuciones y la facultad de firmar bajo la fórmula "Por orden del Subsecretario" los actos que se describen a continuación, según corresponda:
 
 1. Firmar oficios que requieran antecedentes adicionales al interesado, en el contexto de un procedimiento administrativo, de conformidad al artículo 31 de la ley Nº 19.880.
 
