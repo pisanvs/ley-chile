@@ -38,10 +38,6 @@ Esta delegación tendrá vigencia durante un año desde la publicación en el Di
 
 > **Nota.** El decreto 217, Defensa, publicado el 14.08.2020, modifica la presente norma en el sentido de ampliar el plazo de vigencia de la delegación establecida en la presente norma, la que se extenderá por un año a contar de la fecha de publicación de la citada norma.
 
-> **Nota.** NOTA 1 El decreto 234, Defensa, publicado el 04.09.2021, modifica la presente norma en el sentido de ampliar el plazo de vigencia de la delegación establecida en la presente norma, el cual se extenderá por un año a contar del vencimiento del período previsto en el decreto Nº 217, Defensa, de 2020.
-
-> **Nota.** NOTA 2 El decreto 204, Defensa, publicado el 13.08.2022, modifica la presente norma en el sentido de ampliar el plazo de vigencia de la delegación establecida en este artículo, el cual se extenderá por un año a contar del vencimiento del período previsto en el decreto Nº 234, de 2021, de Defensa.
-
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Alberto Espina Otero, Ministro de Defensa Nacional.- Andrés Chadwick Piñera, Ministro del Interior y Seguridad Pública.- Teodoro Ribera Neumann, Ministro de Relaciones Exteriores.
 
 Lo que se transcribe para su conocimiento.- Juan Francisco Galli Basili, Subsecretario para las Fuerzas Armadas.
