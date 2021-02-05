@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL ESTUDIO DE IMPACTO AMBIENTAL PROYECTO "CONSTRUCCIÓN NUEVO PUENTE FERROVIARIO BIOBÍO"
+
+De conformidad a lo dispuesto en el artículo 95 inciso final del artículo 91 del DS Nº 40/2012 MMA (Reglamento del SEIA), se comunica a toda persona, natural o jurídica, que hubiera presentado observaciones durante la evaluación ambiental del Estudio de Impacto Ambiental del proyecto "Construcción Nuevo Puente Ferroviario Biobío", sometido al Sistema de Evaluación de Impacto Ambiental por su titular, Empresa de los Ferrocarriles del Estado, que por resolución exenta Nº 11, de fecha 11 de enero de 2021, la Comisión de Evaluación de la Región del Biobío calificó favorablemente el proyecto individualizado. Estas personas, naturales o jurídicas, disponen de un plazo de 30 días hábiles, contados desde la presente notificación, para presentar recurso de reclamación ante el Comité de Ministros, de conformidad a lo dispuesto en los artículos 20 y 29 de la ley Nº 19.300.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA del Biobío, ubicada en Lincoyán Nº 145, Concepción. Además, podrá acceder a la resolución a través del sitio web www.sea.gob.cl.-
+
+Silvana Suanes Araneda, Secretaria, Comisión de Evaluación Región del Biobío.
