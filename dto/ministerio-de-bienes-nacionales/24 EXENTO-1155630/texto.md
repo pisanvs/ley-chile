@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE VALPARAÍSO, A LA I. MUNICIPALIDAD DE QUILLOTA
+
+Mediante decreto exento Nº E-24 (E-693), de 12 de enero de 2021, rectificado por resolución exenta Nº 49, de 22 de enero de 2021, el Ministerio de Bienes Nacionales otorgó en concesión gratuita, a la "I. Municipalidad de Quillota", RUT Nº 69.060.100-1, el inmueble fiscal situado en Pasaje Argentina Nº 209, Lote Nº 2, de la subdivisión de la propiedad ubicada en calle René Schneider, esquina Pasaje Venezuela, Población Enrique Arenas, de la localidad de San Pedro, de la comuna y provincia de Quillota, Región de Valparaíso; enrolada en el Servicio de Impuestos Internos con el Rol Nº 352-63; inscrito en mayor cabida a nombre del Fisco que rola a Fs. 505 Vta. Nº 802, del Registro de Propiedad del Conservador de Bienes Raíces de Quillota, correspondiente al año 1989; singularizado en el Plano Nº 05501-911-C.U.; con una superficie de 430 m2. La concesión se otorga por un plazo de 15 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble al desarrollo del proyecto de "Mejoramiento Integral del Club de Rayuela Enrique Arenas, San Pedro, comuna de Quillota". El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Álvaro Lagos Kother, Encargado Unidad Decretos.
