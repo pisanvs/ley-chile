@@ -182,7 +182,7 @@ Cada institución financiera será responsable por la decisión de otorgar finan
 
 Finalmente, los financiamientos que cuenten con la Garantía COVID-19, deberán cumplir con las siguientes condiciones copulativas:
 
-a) El plazo de dichos financiamientos será entre 24 y 48 meses, incluido en dicho plazo al menos 6 meses de gracia para el pago de la primera cuota, las que deberán ser iguales y sucesivas, sin perjuicio de la posibilidad de otorgar flexibilidades intermedias que vayan en beneficio del deudor, tales como, a modo ejemplar: actividades con flujos de ingresos estacionales o variables, como el sector agrícola, inmobiliario, entre otros. El mencionado periodo de gracia será calculado en base a meses de 30 días, por tanto, éste no podrá tener una duración menor a 180 días.
+a) El plazo de dichos financiamientos será de máximo 60 meses, incluido en dicho plazo al menos 6 meses de gracia para el pago de la primera cuota, las que deberán ser iguales y sucesivas, sin perjuicio de la posibilidad de otorgar flexibilidades intermedias que vayan en beneficio del deudor, tales como, a modo ejemplar: actividades con flujos de ingresos estacionales o variables, como el sector agrícola, inmobiliario, entre otros. El mencionado periodo de gracia será calculado en base a meses de 30 días, por tanto, éste no podrá tener una duración menor a 180 días.
 
 b) Las instituciones financieras no podrán establecer costo alguno para el pre-pago de estas obligaciones.
 
@@ -202,7 +202,7 @@ h) No podrán ser otorgados a empresas que se encuentren con clasificación indi
 
 Plazo de las Garantías COVID-19 por Cada Financiamiento con Garantías COVID-19
 
-La vigencia de la Garantía COVID-19 no podrá extenderse más allá del 30 de abril de 2025. Si se renegocian deudas caucionadas por las Garantías COVID-19, el plazo de vigencia de la garantía se contará desde la fecha de la deuda originalmente garantizada y, en ningún caso, podrá extenderse más allá del 30 de abril de 2025.
+La vigencia de la Garantía COVID-19 no podrá extenderse más allá del 30 de abril de 2026. Si se renegocian deudas caucionadas por las Garantías COVID-19, el plazo de vigencia de la garantía se contará desde la fecha de la deuda originalmente garantizada y, en ningún caso, podrá extenderse más allá del 30 de abril de 2026.
 
 La renegociación de financiamientos cuya Garantía COVID-19 haya sido pagada por el Fondo sólo podrá efectuarse en condiciones equitativas previamente acordadas con el Administrador del Fondo y con arreglo a las condiciones generales o especiales que éste determine, las cuales, en su caso, deberán ser informadas a las entidades participantes.
 
