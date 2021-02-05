@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE VALPARAÍSO, A LA "ASOCIACIÓN CULTURAL DEPORTIVA JOSÉ VICTORINO LASTARRIA"
+
+Mediante decreto exento N° E-40 (E-231), de 15 de enero de 2021, rectificado por resolución exenta N° 49, de 22 de enero de 2021, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "Asociación Cultural Deportiva José Victorino Lastarria", RUT N° 65.157.939-2, el inmueble fiscal correspondiente al Lote N° 3, ubicado en calle Esmeralda N° 740, comuna El Tabo, provincia de San Antonio, Región de Valparaíso; enrolado en el Servicio de Impuestos Internos con el N° 670-262; amparado por inscripción en mayor cabida a nombre del Fisco que rola a fs. 53 vta. N° 110, del Registro de Propiedad del Conservador de Bienes Raíces de San Antonio, correspondiente al año 1920; singularizado en el Plano N° V-7-3016-C.U.; con una superficie de 9.677,3 m2. La Concesión se otorga por un plazo de 15 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble en el funcionamiento de las Colonias de Veraneo de los alumnos pertenecientes al Liceo José Victorino Lastarria y de las comunidades estudiantiles de la V Región Cordillera (Los Andes, San Felipe, Putaendo y La Calera, entre otros). El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Álvaro Lagos Kother, Encargado Unidad Decretos.
