@@ -1,0 +1,83 @@
+REVOCA RECONOCIMIENTO OFICIAL DE LAS CARRERAS QUE SE INDICAN DE LA UNIVERSIDAD SANTO TOMÁS
+
+Núm. 53 exento.- Santiago, 28 de enero de 2021.
+
+Considerando:
+
+Que, la Universidad Santo Tomás inscrita en el Libro de Registro de Universidades Privadas C Nº 16, fue creada y organizada en virtud de las normas contenidas en el DFL Nº 1, de 1980, de Educación, según consta en Certificado Nº 06/862, de 23 de septiembre de 1988, del Ministerio de Educación, y sus estatutos fueron aprobados por Certificado Nº 06/1180, de 28 de diciembre de 1988, de la Subsecretaría de Educación;
+
+Que, de acuerdo con lo dispuesto por el artículo 110 del DFL Nº 2, de 2009, de Educación, publicado en el Diario Oficial el 2 de julio de 2010, que Fija Texto Refundido, Coordinado y Sistematizado de la Ley Nº 20.370, Ley General de Educación, con las normas no derogadas del DFL Nº 1, de 2005, se considera de pleno derecho reconocida oficialmente;
+
+Que, la Universidad Santo Tomás obtuvo su plena autonomía mediante Acuerdo Nº 020/2003, de 23 de enero de 2003, del Consejo Superior de Educación, con arreglo a lo dispuesto en la Ley Nº 18.962, Orgánica Constitucional de Enseñanza, y se encuentra acreditada por la Comisión Nacional de Acreditación por un período de tres años, desde el 9 de diciembre de 2017 hasta el 9 de diciembre de 2020, en las áreas de Gestión Institucional y Docencia de Pregrado;
+
+Que, la Universidad, posterior a su plena autonomía ofreció, a contar del año 2004, las carreras de Pedagogía en Educación Diferencial, Pedagogía en Inglés, Educación Básica y Educación Parvularia, que no se encuentran acreditadas ante la Comisión Nacional de Acreditación, y la carrera de Pedagogía en Educación Física, que fue reacreditada por 4 años, desde el 12 de diciembre de 2019 hasta el 12 de diciembre de 2023;
+
+Que, según lo dispuesto en la ley 20.903, y en el artículo 27 bis de la ley 20.129, sólo las universidades acreditadas podrán impartir carreras y programas de estudio conducentes a títulos profesionales de Profesor de Educación Básica, Profesor de Educación Media, Profesor de Educación Técnico Profesional, Profesor de Educación Diferencial y Educador de Párvulos, siempre que dichas carreras y programas hayan obtenido acreditación;
+
+Que, por Ord. Nº 06/1249, de 13 de abril de 2018, la entonces División de Educación Superior, actual Subsecretaría del ramo, informó a todas las universidades sobre la admisión a Programas de Prosecución de Estudios de Pedagogía, en virtud de la ley Nº 20.903 y requirió envío de nómina de estudiantes que se hayan matriculados al 4 de abril de 2018, en alguno de estos Programas de Prosecución de Estudios que no cuenten con acreditación vigente;
+
+Que, por Ord. Nº 06/1521, de 7 de mayo de 2018, la División de Educación Superior informó a todas las universidades el requisito de acreditación de las carreras regulares de Pedagogía, en virtud de la ley Nº 20.903. Por ese mismo documento, solicitó información sobre la situación de las carreras de pedagogías que impartían las universidades, a fin de facilitar las labores de seguimiento del cumplimiento de la citada normativa;
+
+Que, mediante carta de fecha 30 de julio de 2019, la Rectora Nacional de la Universidad Santo Tomás informó a la División de Educación Superior sobre lo resuelto por las instancias superiores de la institución, respecto de los planes de cierres de algunas carreras en algunas sedes, de acuerdo a lo establecido en el artículo 27 quinquies de la ley Nº 20.129, en relación con las carreras de Educación Básica y Educación Parvularia, las que no fueron sometidas al proceso de supervisión del CNED, por lo cual fue presentada la solicitud de cierre voluntario;
+
+Que, mediante carta de fecha 31 de julio de 2019, la Rectora Nacional de la Universidad Santo Tomás informó sobre lo resuelto por las instancias superiores de la institución, respecto de los planes de cierres de algunas carreras en algunas sedes, de acuerdo a lo establecido en el artículo 27 quinquies de la ley Nº 20.129, en relación con las carreras de Educación Física, reacreditada por 4 años, hasta diciembre de 2023; Educación Diferencial y Pedagogía en Inglés, ambas sometidas al proceso de supervisión del CNED, por lo cual fue presentada la solicitud de cierre voluntario para algunas sedes;
+
+Que, la solicitud de cierre de la carrera de Educación Básica se formuló para las sedes de Arica, Iquique, Copiapó, La Serena, Viña del Mar, Santiago, Talca, Concepción, Los Ángeles, Temuco, Osorno y Puerto Montt; y, respecto a la carrera de Educación Parvularia se solicitó el cierre para las sedes de Arica, Iquique, Antofagasta, La Serena, Viña del Mar, Santiago, Concepción, Los Ángeles, Valdivia y Puerto Montt;
+
+Que, la solicitud de cierre de la carrera de Educación Física se formuló para las sedes de Antofagasta, Copiapó, Viña del Mar, Talca, Concepción, Temuco y Osorno, y continúa impartiéndose en las sedes de La Serena y Santiago; para la carrera de Educación Diferencial se solicitó el cierre de las sedes de Iquique, Antofagasta, Viña del Mar, Talca, Concepción, Los Ángeles, Temuco, Valdivia, Osorno y Puerto Montt, y continúa impartiéndose en las sedes de La Serena y Santiago; y, respecto a la carrera de Pedagogía en Inglés se solicitó el cierre para las sedes de Iquique, Antofagasta, Viña del Mar, Talca, Concepción, Temuco, Osorno y Puerto Montt, y continúa impartiéndose en la sede de Santiago;
+
+Que, mediante Ord. Nº 06/803, de fecha 18 de octubre de 2019, la Subsecretaría de Educación Superior procedió a solicitar a la Rectora Nacional de la institución, la documentación de respaldo relativa a la decisión de cierre de las carreras de pedagogía en cada una de las sedes que se indica, a saber, el Acta de la Sesión del Consejo Académico Superior de la Universidad Santo Tomás, en virtud de lo dispuesto en el artículo Cuadragésimo Sexto, letra e), de sus estatutos, relativos a la facultad de dicho Consejo, de "Aprobar la creación y la supresión de carreras o programas de pre y/o postgrado, a propuesta del Rector Nacional o de un tercio de los miembros del Consejo con derecho a voto";
+
+Que, con fecha 13 de noviembre de 2019, la Subsecretaría de Educación Superior recibió carta de la Rectora Nacional de la Universidad Santo Tomás, mediante la cual adjuntó las Actas de las Sesiones del Consejo Académico Superior de la Universidad, de fechas 26 de abril de 2018 y 28 de septiembre de 2018, que dan cuenta de la decisión del cierre definitivo de las carreras que en ésta se señalan;
+
+Que, la Subsecretaría de Educación Superior, luego de analizar las referidas sesiones del Consejo Académico Superior y de efectuar comunicaciones mediante correos electrónicos con las autoridades de la universidad, remitió a la casa de estudios el Ord. Nº 06/149, del 17 de enero de 2020, mediante el cual solicitó que el Consejo Académico Superior aclarara ciertos puntos acerca de los acuerdos adoptados en las sesiones mencionadas, con el propósito de despejar toda duda sobre la intención institucional del cierre de las carreras en las sedes que menciona;
+
+Que, ante la comunicación referida en el considerando anterior, la Universidad Santo Tomás remitió a la Subsecretaría de Educación Superior, la carta de la Rectora Nacional de fecha 22 de enero de 2020, recibida el 24 del mismo mes, en la que adjunta el Acta de la Sesión del Consejo Académico Superior, efectuada el 19 de diciembre de 2019, suscrita por catorce de sus quince miembros que, entre otros asuntos, ratifica los acuerdos adoptados en las mencionadas sesiones de abril y septiembre de 2018 y aclara las cinco carreras de la Facultad de Educación que la institución cierra y las sedes en las que se imparten, según se ha indicado en el mismo documento, dando cumplimiento a las observaciones planteadas por la Subsecretaría de Educación Superior;
+
+Que, la Subsecretaría de Educación Superior, mediante Ord. Nº 06/283, de 29 de enero de 2020, solicitó al Consejo Nacional de Educación el acuerdo necesario para revocar el reconocimiento oficial de las carreras antes citadas de la institución, de conformidad a lo dispuesto en el artículo 64 del DFL Nº 2, de 2009, de Educación, publicado en el Diario Oficial el 2 de julio de 2010, que Fija Texto Refundido, Coordinado y Sistematizado de la Ley Nº 20.370, Ley General de Educación, con las normas no derogadas del DFL Nº 1, de 2005, no derogadas del DFL Nº 1, de 2005;
+
+Que, el CNED, mediante su acuerdo Nº 078/2020 adoptado en la sesión extraordinaria de 29 de abril de 2020, y la resolución exenta Nº 152, de 14 de mayo de 2020 que lo ejecuta, con arreglo a las disposiciones del DFL Nº 2, de 2009, de Educación, informó que, por la unanimidad de los miembros presentes, se aprobó la solicitud de revocación del reconocimiento oficial de las carreras de Educación Básica y Educación Parvularia, impartidas por la Universidad Santo Tomás;
+
+Que, respecto de las carreras de Pedagogía en Educación Física, Educación Diferencial y Pedagogía en Inglés, el CNED informó que no corresponde el pronunciamiento de dicho Consejo, toda vez que la solicitud no cabe dentro del cierre total de una carrera ni el cierre de una sede, como lo señala el inciso tercero del citado artículo 64 del DFL Nº 2, de 2009, de Educación. El CNED agregó que la decisión de la institución de dejar de impartir algunas de sus carreras en algunas de sus sedes, corresponde a las facultades de toda institución de educación superior que goza de autonomía, como es el caso de la Universidad Santo Tomás. Por tanto, el pronunciamiento del CNED corresponde sólo a las carreras de Educación Básica y Educación Parvularia, cuyo cierre se solicitó respecto de todas las sedes en las que se imparten;
+
+Que, de la información vertida en los planes de cierre enviados por la institución para cada una de las carreras, el CNED da cuenta, en resumen, respecto de: la identificación de la carrera, evolución histórica de la matrícula de primer año y total de la carrera, contexto institucional; estudiantes vigentes hasta el cierre por sede; detalle de planta académica docente hasta el cierre; disponibilidad de infraestructura, equipamiento y bibliografía hasta el cierre; disponibilidad de servicios a estudiantes hasta el cierre (Centro de Aprendizaje, Dirección de Asuntos Estudiantiles, Biblioteca, Casino, entre otros); acciones para asegurar el egreso de las cohortes vigentes, y difusión;
+
+Que, teniendo presente la matrícula 2019, respecto de la carrera de Educación Básica, la institución proyectó su cierre para fines del año 2019, considerando un estudiante en Santiago; y, respecto de Educación Parvularia, el cierre se proyectó para fines del año 2020, considerando 42 estudiantes en las sedes de Santiago y Puerto Montt;
+
+Que, en síntesis, el CNED agregó que, tratándose de un cierre voluntario de carreras que se viene verificando desde el año 2015, en el caso de Educación Básica y, desde el año 2017 en Educación Parvularia, con el cierre de matrícula para alumnos nuevos, que cuentan con baja matrícula de estudiantes vigentes al año 2019, y en el marco de una institución que se encuentra funcionando con normalidad, sólo aparece como un elemento a considerar la conveniencia de sugerir medidas de publicidad para los estudiantes que deseen retomar sus procesos académicos interrumpidos y que estén en condiciones reglamentarias de reincorporarse;
+
+Que, dada la expresa manifestación de voluntad de cierre de las carreras impartidas por la Universidad Santo Tomás y el análisis de los documentos que se han tenido a la vista junto con los demás antecedentes de la institución, a juicio del CNED, se ha dado pleno cumplimiento a la obligación legal de escuchar a la entidad afectada por la revocación del reconocimiento oficial de las carreras antes indicadas, según lo dispuesto en el artículo 64 del DFL Nº 2, de 2009, de Educación;
+
+Que, lo señalado en los considerandos que conforman el cuerpo de este decreto, y lo dispuesto en el artículo 27 bis de la ley Nº 20.129, que establece que solo las universidades acreditadas pueden impartir carreras y programas conducentes al título de profesor, siempre que dichas carreras también cuenten con acreditación, constituyen, a juicio del CNED, antecedentes suficientes para tener por constituida la causal para solicitar la revocación del reconocimiento oficial respecto de antes referidas, establecida en el artículo 64, letra d) y su inciso 3º del DFL Nº 2, de 2009, dado que la entidad ha manifestado expresamente su decisión de no continuar otorgando títulos profesionales de aquellos que requieren haber obtenido previamente el grado de licenciado, en dichas carreras;
+
+Que, considerando lo anterior y según lo dispuesto en la letra e) del artículo 8º de la ley Nº 21.091 sobre Educación Superior y en el artículo 64, del DFL Nº 2, de 2009, de Educación, publicado en el Diario Oficial de fecha 2 de julio de 2010, que Fija Texto Refundido, Coordinado y Sistematizado de la Ley Nº 20.370, Ley General de Educación, con las normas no derogadas del DFL Nº 1, de 2005, procede dictar el acto administrativo correspondiente para revocar el reconocimiento oficial de las carreras de Educación Básica y Educación Parvularia de la Universidad Santo Tomás.
+
+Visto:
+
+Lo dispuesto en la Ley Nº 18.956, que Reestructura el Ministerio de Educación y sus modificaciones; en la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia; en la Ley Nº 19.880, de Bases de los Procedimientos Administrativos; en el artículo 64, del DFL Nº 2 de 2009, de Educación, publicado en el Diario Oficial el 2 de julio de 2010, que Fija Texto Refundido, Coordinado y Sistematizado de la Ley Nº 20.370, Ley General de Educación, con las normas no derogadas del DFL Nº 1, de 2005; en la Ley Nº 21.091, sobre Educación Superior; en el DFL Nº 3, de 2019, del Ministerio de Educación, que fija planta del personal de la Subsecretaría de Educación Superior, determina la fecha de entrada en funcionamiento y regula otras materias a que se refiere el artículo sexto transitorio de la ley Nº 21.091; en el decreto supremo Nº 19, de 2001, del Ministerio Secretaría General de la Presidencia, que faculta a los Ministros de Estado a firmar por orden del Presidente de la República; en los Certificados Nº 06/862, de 23 de septiembre de 1988 y Nº 06/1180, de 28 de diciembre de 1988, ambos de la Subsecretaría de Educación; en el decreto exento Nº 541, de 19 de octubre de 1993, de Educación; en el Acuerdo Nº 078/2020, de 29 de abril de 2020 y en la resolución exenta Nº 152, de 14 de mayo de 2020, del Consejo Nacional de Educación; y en la resolución Nº 7, de 2019, de la Contraloría General de la República.
+
+Decreto:
+
+#### Artículo 1º
+
+Revócase el reconocimiento oficial de las carreras de Educación Básica y Educación Parvularia impartidas por la Universidad Santo Tomás y elimínase a dichas carreras inscritas en el Registro de Universidades Privadas bajo el Folio C-Nº 16, ubicada en Avenida Ejército Libertador Nº 146, comuna de Santiago, de la ciudad de Santiago.
+
+#### Artículo 2º
+
+Lo dispuesto en el artículo precedente regirá a partir de la total tramitación del presente acto administrativo.
+
+#### Artículo 3º
+
+Los registros académicos y curriculares históricos de los alumnos que cursaron las carreras citadas en artículo 1º de este decreto, deben mantenerse en custodia en la propia Universidad Santo Tomás con el fin de emitir certificaciones de estudios a los alumnos que lo soliciten.
+
+#### Artículo 4º
+
+Contra el presente decreto procede la interposición de un recurso de reposición ante el Ministro de Educación, dentro del plazo de cinco días contados desde su notificación, en los términos dispuestos en la ley Nº 19.880, sin perjuicio de cualquier otro recurso que se estime oportuno.
+
+#### Artículo 5º
+
+Archívese copia del presente decreto exento conjuntamente con el Certificado Nº 06/1180, de 28 de diciembre de 1988, del Ministro de Educación, que autorizó el funcionamiento de la Universidad Santo Tomás de la ciudad de Santiago.
+
+Anótese, notifíquese y publíquese en el Diario Oficial con cargo al Ministerio de Educación.- Por orden del Presidente de la República, Raúl Figueroa Salas, Ministro de Educación.
+
+Lo que transcribo para su conocimiento.- Juan Eduardo Vargas Duhart, Subsecretario de Educación Superior.
