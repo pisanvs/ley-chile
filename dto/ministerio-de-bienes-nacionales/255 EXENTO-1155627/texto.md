@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, A LA CORPORACIÓN DE REHABILITACIÓN INTEGRAL CLUB DE LEONES DE COYHAIQUE
+
+Mediante decreto exento Nº E-255, de 5 de mayo de 2020, modificado por el decreto exento Nº E-69, de 29 de enero de 2021, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "Corporación de Rehabilitación Integral Club de Leones de Coyhaique", RUT Nº 65.110.186-7, el inmueble fiscal correspondiente al Sitio 12 n, ubicado en Camino Tejas Verdes S/Nº, Sector Escuela Agrícola, comuna y provincia de Coyhaique, Región de Aysén del General Carlos Ibáñez del Campo; enrolado el Servicio de Impuestos Internos con el Nº 2997-1; amparado por inscripción en mayor cabida a nombre del Fisco que rola a fs. 571 Nº 454, del Registro de Propiedad del Conservador de Bienes Raíces de Coyhaique, correspondiente al año 1991; singularizado en el Plano Nº 11101-1.681-C.U.; con una superficie total de 8.203,43 m2. La Concesión se otorga por un plazo de 20 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble para la ejecución y habilitación del proyecto "Centro de Rehabilitación Integral Club Leones de Coyhaique". El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del presente extracto. Los decretos con sus textos íntegros se encuentran disponibles en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Álvaro Lagos Kother, Abogado Encargado Unidad Decretos.
