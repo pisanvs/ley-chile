@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta N° 225, de fecha 29 diciembre 2000, modificada por la resolución exenta N° 111, de 22 de enero de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, se otorgó reconocimiento oficial a la Escuela de Conductores Profesionales denominada "Escomontt Limitada" o "Puerto Montt Limitada", de propiedad de la sociedad "Escomontt Capacitación Limitada", RUT 77.285.190-1, cuyo representante legal es doña Carolina Pino Ríos, RUN 14.159.877-5, para impartir cursos conducentes a la obtención de licencias profesionales clases Al, A2 y A4, en su sede ubicada en calle Regimiento N° 645, y clases de mecánica en calle Los Mañíos N° 145, ambas en la comuna de Puerto Montt.-
+
+Nicolás Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
