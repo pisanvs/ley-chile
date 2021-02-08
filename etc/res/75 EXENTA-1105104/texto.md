@@ -124,6 +124,8 @@ El cofinanciamiento del Comité de Desarrollo Productivo Regional no podrá exce
 
 El aporte del Beneficiario será pecuniario.
 
+En caso que se declare un Estado de Excepción Constitucional, de emergencia o de catástrofe, en la forma dispuesta en la Ley N° 18.415, Orgánica Constitucional de Estados de Excepción, o se declare zonas afectadas de sismo o catástrofe, en virtud de lo dispuesto en la ley N° 16.282, sobre Disposiciones Permanentes para Casos de Sismos o Catástrofes, se podrán realizar convocatorias en las que el financiamiento del Comité podrá llegar hasta el 100% del costo total del Proyecto.
+
 ### 6. COSTO DE ADMINISTRACIÓN Y SEGUIMIENTO
 
 Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por la evaluación, supervisión y administración hasta el 15% (quince por ciento) del cofinanciamiento aprobado para el proyecto, con un tope no inferior a $500.000.- (quinientos mil pesos) y no superior a $2.000.000.- (dos millones de pesos) por proyecto.
