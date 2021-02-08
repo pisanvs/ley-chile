@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-1. Prohíbase la circulación de todo tipo de vehículos motorizados, a media calzada, hasta el 30 de enero de 2019, de 08:00 a 20:00 horas en vías de la provincia de Huasco, en términos y condiciones que a continuación se señala:
+1. Prohíbase la circulación de todo tipo de vehículos motorizados, a media calzada, hasta el 31 de julio de 2021, de 08:00 a 20:00 horas en vías de la provincia de Huasco, en términos y condiciones que a continuación se señala:
 
 .
 
