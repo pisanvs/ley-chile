@@ -96,6 +96,8 @@ Asimismo, el plan de trabajo para implementar un negocio deberá contemplar obli
 
 De los recursos adjudicados por el Comité, para el financiamiento de estas Acciones, el beneficiario deberá contemplar un monto mínimo de $200.000.- (doscientos mil pesos), para acciones de marketing, y un máximo de $500.000.- (quinientos mil pesos), para las demás Acciones de Gestión Empresarial.
 
+En caso que se declare un Estado de Excepción Constitucional, de emergencia o de catástrofe, en la forma dispuesta en la ley Nº 18.415, Orgánica Constitucional de Estados de Excepción, o se declare zonas afectadas de sismo o catástrofe, en virtud de lo dispuesto en la ley Nº 16.282, sobre Disposiciones Permanentes para Casos de Sismos o Catástrofes, se podrán realizar convocatorias en las que el financiamiento del Comité podrá llegar hasta el 100% del costo total del Proyecto.
+
 Será requisito previo al inicio de la ejecución del Plan de Trabajo que el/la emprendedor/a haya iniciado actividades ante el Servicio de Impuestos Internos en una actividad gravada con el impuesto de primera categoría de la Ley de Impuesto a la Renta (DL 824, de 1974).
 
 ### 7. COSTO DE ADMINISTRACIÓN
