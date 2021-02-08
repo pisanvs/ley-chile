@@ -138,6 +138,10 @@ Modalidad 2 de Fortalecimiento: tope máximo de hasta $8.000.000.- (ocho millone
 
 Modalidad 3 de Creación y Desarrollo: tope máximo de hasta $10.000.000.- (diez millones de pesos) por proyecto.
 
+Monto del Cofinanciamiento:
+
+En caso que se declare un Estado de Excepción Constitucional, de emergencia o de catástrofe, en la forma dispuesta en la ley Nº 18.415, Orgánica Constitucional de Estados de Excepción, o se declare zonas afectadas de sismo o catástrofe, en virtud de lo dispuesto en la ley Nº 16.282, sobre Disposiciones Permanentes para Casos de Sismos o Catástrofes, se podrán realizar convocatorias en las que el financiamiento del Comité podrá llegar hasta el 100% del costo total del Proyecto, tanto en la Línea Cooperativas y como en la Línea Asociaciones Gremiales o Cooperativas –ambas, en cualquiera de sus modalidades–, con los topes indicados en los párrafos precedentes.
+
 ### 6. COSTOS DE ADMINISTRACIÓN
 
 Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por la evaluación, supervisión y administración de cada proyecto, un monto máximo de 15% del costo total de cofinanciamiento otorgado por éste.
