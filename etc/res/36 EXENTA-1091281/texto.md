@@ -74,6 +74,8 @@ El cofinanciamiento del Comité para Asesorías Empresariales Especializadas no 
 
 El cofinanciamiento del Comité para Certificaciones consistirá en un reembolso de hasta un 70% de su valor, por una vez, con un tope de hasta $1.500.000.- (un millón quinientos mil pesos).
 
+En caso que se declare un Estado de Excepción Constitucional, de emergencia o de catástrofe, en la forma dispuesta en la Ley Nº 18.415, Orgánica Constitucional de Estados de Excepción, o se declare zonas afectadas de sismo o catástrofe, en virtud de lo dispuesto en la ley Nº 16.282, sobre Disposiciones Permanentes para Casos de Sismos o Catástrofes, se podrán realizar convocatorias en las que el financiamiento del Comité podrá llegar hasta el 100% del costo total del Proyecto.
+
 Las certificaciones no podrán poseer una antigüedad mayor a 6 (seis) meses contados desde la fecha de emisión del certificado hasta la presentación de la solicitud de reembolso al Agente Operador Intermediario.
 
 ### 6. COSTO DE ADMINISTRACIÓN
