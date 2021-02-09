@@ -40,19 +40,9 @@ territorio o espacio aéreo en el cual
 
 operen;
 
-(2) a las aeronaves militares, en cuanto
+(2) Eliminado.
 
-realicen operaciones aéreas que no sean
-
-operaciones militares;
-
-(3) a las aeronaves de Carabineros y de
-
-Policía de Investigaciones, en cuanto
-
-realicen operaciones aéreas que no sean
-
-operaciones aéreas policiales, y
+(3) Eliminado.
 
 (4) a todas las aeronaves que se encuentran
 
@@ -202,7 +192,7 @@ internacionales.
 
 controlado no deberá efectuar rodaje en
 
-el �rea de maniobras sin autorización de
+el área de maniobras sin autorización de
 
 la torre de control del aeródromo y
 
