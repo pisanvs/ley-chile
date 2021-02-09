@@ -1,0 +1,35 @@
+MODIFICA DECRETO SUPREMO Nº 10T, DE 2018, DEL MINISTERIO DE ENERGÍA, QUE FIJA DERECHOS Y CONDICIONES DE EJECUCIÓN Y EXPLOTACIÓN DE LA OBRA NUEVA DENOMINADA "NUEVA S/E SECCIONADORA RÍO MALLECO 220 KV" PERTENECIENTE AL SISTEMA DE TRANSMISIÓN NACIONAL A LA EMPRESA ADJUDICATARIA QUE INDICA
+
+Núm. 2T.- Santiago, 18 de enero de 2021.
+
+Vistos:
+
+Lo dispuesto en la ley Nº 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado, en adelante e indistintamente "Ley Nº 19.880" o "LBPA"; en el decreto ley Nº 2.224, de 1978, del Ministerio de Minería, que crea el Ministerio de Energía y la Comisión Nacional de Energía; en el decreto con fuerza de ley Nº 4/20.018, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 1, de Minería, de 1982, Ley General de Servicios Eléctricos, en materia de energía eléctrica, en adelante e indistintamente "Ley General de Servicios Eléctricos" o "LGSE"; en el decreto exento Nº 422, de 2017, modificado por el decreto Nº 23, de 2018, ambos del Ministerio de Energía, en adelante e indistintamente el "Decreto exento Nº 422/2017" que fija Plan de Expansión del Sistema de Transmisión Nacional para los doce meses siguientes; en la resolución exenta Nº 518, de 2017, de la Comisión Nacional de Energía, en adelante e indistintamente la "CNE", modificada por las resoluciones exentas Nº 720, de 2017, Nº 56 y Nº 158, ambas de 2018, todas de la CNE, que aprueba las Bases de Licitación de las Obras Nuevas contempladas en el decreto exento Nº 422, de 2017, del Ministerio de Energía, en adelante e indistintamente las "Bases" o las "Bases de Licitación"; en el decreto supremo Nº 10T, de 2018, del Ministerio de Energía, que fija derechos y condiciones de ejecución y explotación de la obra nueva denominada "Nueva S/E Seccionadora Río Malleco 220 kV" perteneciente al Sistema de Transmisión Nacional a la empresa adjudicataria que indica, en adelante e indistintamente el "Decreto Nº 10T/2018"; en la Resolución Ministerial Exenta Nº 4, de 14 de enero de 2021, del Ministerio de Energía, que acoge solicitud de declaración de fuerza mayor o caso fortuito respecto del Hito Relevante Nº 5 de la obra nueva "Nueva S/E Seccionadora Río Malleco 220 kV", en adelante e indistintamente, la "Resolución exenta Nº 4/2021"; en la resolución Nº 7, de 2019, de la Contraloría General de la República, y
+
+Considerando:
+
+1. Que, de acuerdo con lo dispuesto en los artículos 99 y siguientes de la Ley General de Servicios Eléctricos, en su texto vigente antes de la dictación de la ley Nº 20.936, esta Secretaría de Estado, mediante el decreto exento Nº 422/2017, fijó el Plan de Expansión del Sistema de Transmisión Nacional para los doce meses siguientes, contemplando en el número 1.5, del artículo Segundo, la obra nueva denominada "Nueva S/E Seccionadora Río Malleco 220 kV", en adelante e indistintamente la "Obra" o el "Proyecto".
+
+2. Que, de acuerdo con lo establecido en el artículo 96º de la LGSE, en su texto vigente antes de la dictación de la ley Nº 20.936, el Coordinador Eléctrico Nacional efectuó el proceso de licitación pública internacional del Proyecto, conforme a los plazos y términos fijados en el decreto exento Nº 422/2017 y en las Bases de Licitación.
+
+3. Que, a través del decreto Nº 10T/2018, publicado en el Diario Oficial con fecha 30 de noviembre de 2018, esta Secretaría de Estado fijó a Transelec S.A., en adelante e indistintamente "Transelec", los derechos de ejecución y explotación de la Obra, fijando asimismo las condiciones y términos para su ejecución y explotación.
+
+4. Que, las condiciones y términos para la correcta ejecución del Proyecto, se encuentran específicamente contenidos en el imperativo 3º, numeral 1, del decreto Nº 10T/2018, el que estableció los siguientes hitos relevantes del Proyecto: (a) Hito Relevante Nº 1, relativo a "Estudio que determina las especificaciones de detalle del Proyecto" (en adelante "Hito Nº 1"); (b) Hito Relevante Nº 2, relativo a "Emisión de las Órdenes de Compra de Suministros, Obtención de la Resolución de Calificación Ambiental, Permisos Sectoriales y Seguros Contratados" (en adelante "Hito Nº 2"); (c) Hito Relevante Nº 3, relativo a "Construcción de las fundaciones" (en adelante "Hito Nº 3"); (d) Hito Relevante Nº 4, relativo a "Prueba de Equipos" (en adelante "Hito Nº 4"), y (e) Hito Relevante Nº 5 (en adelante también "Hito Nº 5"), relativo a "Fin del periodo de Puesta en Servicio". Asimismo, se indicó que el Hito Nº 5 debería cumplirse dentro de los 20 meses siguientes, contados desde la publicación de dicho decreto en el Diario Oficial.
+
+5. Que, en mérito de lo señalado en el considerando anterior, el cumplimiento del Hito Nº 5, es decir, la puesta en servicio del Proyecto, debía verificarse a más tardar el 30 de julio de 2020.
+
+6. Que, Transelec solicitó a este Ministerio declarar que han ocurrido hechos constitutivos de fuerza mayor o caso fortuito que habrían impactado la ejecución del Proyecto y el cumplimiento del Hito Nº 5, los que han implicado un retraso en el cumplimiento del plazo previsto en el decreto Nº 10T/2018, retraso que le sería inimputable, y en mérito del cual solicitó una prórroga por 60 días corridos, ello conforme a los antecedentes de hecho y fundamentos de derecho que expuso en su oportunidad.
+
+7. Que, mediante la resolución exenta Nº 4/2021, esta Secretaría de Estado acogió la solicitud de Transelec, declarando la concurrencia de la fuerza mayor o caso fortuito por 60 días corridos que habrían afectado el cumplimiento del plazo del "Hito Relevante Nº 5: Fin del periodo de Puesta en Servicio".
+
+8. Que, en razón de lo expuesto anteriormente, corresponde modificar el decreto Nº 10T/2018, en el sentido de prorrogar en 60 días corridos el plazo previsto para la puesta en servicio del Proyecto "Nueva S/E Seccionadora Río Malleco 220 kV".
+
+Decreto:
+
+Primero: Modifícase el plazo de cumplimiento del Hito Relevante Nº 5 del Proyecto "Nueva S/E Seccionadora Río Malleco 220 kV" establecido en el párrafo final del literal e) del numeral 1. del imperativo 3º y en el párrafo primero del imperativo 5º, ambos del decreto Nº 10T/2018, en el sentido de prorrogar en 60 días corridos la fecha de cumplimiento del referido hito, de forma tal que en definitiva éste deberá cumplirse a más tardar el 28 de septiembre de 2020.
+
+Segundo: En todo lo no modificado expresamente por el presente acto administrativo, se mantienen íntegramente vigentes e inalteradas todas y cada una de las disposiciones del decreto Nº 10T/2018, del Ministerio de Energía.
+
+Anótese, tómese razón y publíquese.- Por orden del Presidente de la Republica, Juan Carlos Jobet Eluchans, Ministro de Energía.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Claudia Andrea Rojas Santelices, Jefa División Jurídica (S), Subsecretaría de Energía.
