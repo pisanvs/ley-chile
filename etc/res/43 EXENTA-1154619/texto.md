@@ -86,61 +86,79 @@ Para la aplicación de lo dispuesto en este numeral deberán observarse los prot
 
 Sin perjuicio de lo dispuesto precedentemente, todos los residentes de los establecimientos que se encuentren emplazados en localidades que estén en los Pasos 2, 3 y 4 de los que trata el Capítulo II de esta resolución, podrán recibir visitas de vínculos significativos, a petición del niño, niña o adolescente, o del visitante.
 
-9. Aislamiento de personas contagiadas. Dispóngase que las personas diagnosticadas con Covid-19 a través de un test RT-PCR para el virus SARS-CoV-2 deben cumplir un aislamiento de acuerdo a los siguientes criterios:
+8. bis. Definición de caso confirmado. Se entenderá que una persona está diagnosticada o es un caso confirmado con COVID-19 cuando se cumpla alguna de las siguientes hipótesis:
 
-a. Si el paciente presenta síntomas, el aislamiento será por 11 días desde la fecha de inicio de los síntomas.
+a. La persona cuenta con un resultado positivo para SARS-CoV-2 en un test RT-PCR.
 
-b. Si el paciente no presenta síntomas, el aislamiento será por 11 días desde la fecha de toma de muestra del test RT-PCR.
+b. La persona se encuentra en la hipótesis definida como caso sospechoso –según lo dispuesto en el numeral 12 de la presente resolución– y presenta un resultado positivo en una prueba de antígenos para SARS-CoV-2, tomado en un centro de salud mandatado, para estos efectos, por la autoridad sanitaria.
 
-10. Aislamiento de personas que se han realizado un PCR cuyo resultado está pendiente. Dispóngase que las personas que se hayan realizado el test RT-PCR para determinar la presencia de Covid-19, deben cumplir un aislamiento hasta que les sea notificado el resultado.
+9. Aislamiento de personas contagiadas. Dispóngase que las personas diagnosticadas con COVID -19 según lo dispuesto en el numeral anterior deben cumplir un aislamiento de acuerdo a los siguientes criterios:
 
-Exceptúase de lo dispuesto precedentemente a aquellas personas asintomáticas a las cuales se les ha realizado un test en el contexto de búsqueda activa de casos Covid-19 por parte de la autoridad sanitaria o a quien ella lo haya delegado o autorizado.
+a. Si el paciente presenta síntomas el aislamiento será por 11 días desde la fecha de inicio de los síntomas.
 
-Se entenderá como búsqueda activa de casos Covid-19 aquel proceso en virtud del cual la autoridad sanitaria realiza test RT-PCR independiente de la sospecha clínica de la persona.
+b. Si el paciente no presenta síntomas, el aislamiento será por 11 días desde la fecha de toma de muestra del examen que identificó la infección.
 
-11. Aislamiento de personas en razón de experimentar un contacto estrecho. Dispóngase que las personas que hayan estado en contacto estrecho con una persona diagnosticada con Covid-19 deben cumplir con la medida de cuarentena por 14 días, desde la fecha del último contacto. La circunstancia de contar con un resultado negativo en un test de RT-PCR para SARS-CoV-2 no eximirá a la persona del cumplimiento total de la cuarentena dispuesta en este numeral.
+Con todo, la autoridad sanitaria o el médico tratante podrán disponer un tiempo de aislamiento mayor en consideración a las condiciones clínicas particulares del paciente.
 
-Se entenderá por contacto estrecho aquella persona que ha estado en contacto con un caso confirmado con Covid-19, entre 2 días antes del inicio de síntomas y 11 días después del inicio de síntomas del enfermo. En el caso de una persona que no presente síntomas, el contacto deberá haberse producido entre 2 días antes de la toma de muestra del test RT-PCR y durante los 11 días siguientes. En ambos supuestos, para calificarse dicho contacto como estrecho deberá cumplirse además alguna de las siguientes circunstancias:
+10. Aislamiento de personas que se han realizado un test RT-PCR cuyo resultado está pendiente. Dispóngase que las personas que se hayan realizado el test RT-PCR para determinar la presencia de COVID -19, deben cumplir un aislamiento hasta que les sea notificado el resultado.
 
-- Haber mantenido más de 15 minutos de contacto cara a cara, a menos de un metro, sin mascarilla.
+Exceptúase de lo dispuesto precedentemente a aquellas personas asintomáticas a las cuales se les ha realizado un test en el contexto de búsqueda activa de casos COVID -19 por parte de la autoridad sanitaria o a quien ella lo haya delegado o autorizado.
 
-- Haber compartido un espacio cerrado por 2 horas o más, en lugares tales como oficinas, trabajos, reuniones, colegios, entre otros, sin mascarilla.
+Se entenderá como búsqueda activa de casos COVID -19 aquel proceso en virtud del cual la autoridad sanitaria realiza test RT-PCR independiente de la sospecha clínica de la persona.
 
-- Vivir o pernoctar en el mismo hogar o lugares similares a hogar, tales como hostales, internados, instituciones cerradas, hogares de ancianos, hoteles, residencias, entre otros.
+10 bis. Definición de contacto estrecho. Se entenderá por contacto estrecho aquella persona que ha estado en contacto con un caso confirmado o probable con COVID -19, entre 2 días antes del inicio de síntomas y 11 días después del inicio de síntomas del enfermo. En el caso de una persona que no presente síntomas, el contacto deberá haberse producido entre 2 días antes de la toma de muestra del test RT-PCR o prueba de antígenos para SARS-CoV-2 y durante los 11 días siguientes. En ambos supuestos, para calificarse dicho contacto como estrecho deberá cumplirse además alguna de las siguientes circunstancias:
 
-- Haberse trasladado en cualquier medio de transporte cerrado a una proximidad menor de un metro con otro ocupante del medio de transporte que esté contagiado, sin mascarilla.
+a. Haber mantenido más de 15 minutos de contacto cara a cara o contacto físico, a menos de un metro, sin el correcto uso de mascarilla.
 
-12. Caso sospechoso. Para efectos de esta resolución, se entenderá como caso sospechoso:
+b. Haber compartido un espacio cerrado por 2 horas o más, en lugares tales como oficinas, trabajos, reuniones, colegios, entre otros, sin el correcto uso de mascarilla.
 
-a) aquella persona que presenta un cuadro agudo de infección respiratoria aguda que presente al menos dos de los síntomas señalados en el numeral 14, o bien,
+c. Cohabitar o pernoctar en el mismo hogar o lugares similares a hogar, tales como hostales, internados, instituciones cerradas, hogares de ancianos, hoteles, residencias, viviendas colectivas y recintos de trabajo entre otros.
+
+d. Haberse trasladado en cualquier medio de transporte cerrado a una proximidad menor de un metro con otro ocupante del medio de transporte que esté contagiado, sin el correcto uso de mascarilla.
+
+e. Haber brindado atención directa a un caso probable o confirmado, por un trabajador de la salud, sin mascarilla de tipo quirúrgico y, si se realiza un procedimiento generador de aerosoles, sin respirador N95 o equivalente ni antiparras.
+
+El cumplimiento de las circunstancias indicadas precedentemente podrá ser objeto de una investigación epidemiológica de la autoridad sanitaria, en virtud de la cual se podrá considerar a una persona como contacto estrecho, aun cuando no se haya cumplido a cabalidad con ellas.
+
+Sin perjuicio de lo dispuesto precedentemente, no se considerará contacto estrecho a una persona durante un periodo de 90 días después de haber sido un caso confirmado de COVID -19.
+
+11. Aislamiento de personas en razón de experimentar un contacto estrecho. Dispóngase que las personas que hayan estado en contacto estrecho con una persona diagnosticada con COVID -19 deben cumplir con la medida de cuarentena por 11 días, desde la fecha del último contacto. La circunstancia de contar con un resultado negativo en un test de RT-PCR para SARS-CoV-2 no eximirá a la persona del cumplimiento total de la cuarentena dispuesta en este numeral.
+
+12. Definición de caso sospechoso. Para efectos de esta resolución, se entenderá como caso sospechoso:
+
+a) aquella persona que presenta un cuadro agudo de enfermedad que presente al menos un síntoma cardinal o dos síntomas no cardinales, de los que trata el numeral 14, o bien,
 
 b) aquella persona que presenta una infección respiratoria aguda grave que requiere hospitalización.
 
-c) aquella persona que, no presentando síntomas, tiene un resultado positivo en una prueba de detección rápida de antígenos para SARS-CoV-2.
+Toda persona que se encuentre en alguna de las circunstancias descritas precedentemente deberá proceder a realizar un test RT-PCR para SARS-CoV-2 o prueba de antígenos para SARS-CoV-2, tomado en un centro de salud mandatado, para estos efectos, por la autoridad sanitaria.
 
-Toda persona que se encuentre en alguna de las circunstancias descritas precedentemente deberá proceder a realizar un Test RT-PCR para SARS-CoV-2.
+12 bis. Caso sospechoso de reinfección. Si una persona presenta un resultado positivo para Test RT-PCR para SARS-CoV-2 90 días después de haber sido caracterizada como un caso confirmado, se considerará como caso sospechoso de reinfección, y se tratará como caso confirmado para todos sus fines.".
 
-13. Aislamiento de los casos probables. Dispóngase que las personas que sean caracterizadas como caso probable deberán permanecer en aislamiento por 11 días a partir de la fecha de inicio de síntomas.
+12 ter. Definición de caso probable. Se entenderá por caso probable cualquiera de las siguientes hipótesis:
 
-Se entenderá por caso probable cualquiera de las siguientes hipótesis:
+a. Caso probable por resultado de laboratorio: aquella persona que se encuentra en cualquiera de las siguientes circunstancias:
 
-a. Caso probable por resultado de laboratorio: aquella persona que cumple con la definición de caso sospechoso conforme a las letras a) y b) del numeral 12 de la presente resolución, en el cual el resultado de la PCR es indeterminado.
+i. La persona cumple con la definición de caso sospechoso conforme al numeral 12 de la presente resolución, en el cual el resultado del Test RT-PCR para SARS-CoV-2 es indeterminado.
+
+ii. Persona asintomática o con un síntoma no cardinal, conforme a lo establecido en el numeral 14 de la presente resolución, que tiene resultado positivo para una prueba de detección rápida de antígenos para SARS-CoV-2, tomado en un centro de salud mandatado, para estos efectos, por la señalada autoridad.
 
 b. Caso probable por nexo epidemiológico: aquella persona que cumple los requisitos señalados a continuación:
 
-i) ha estado en contacto estrecho con una persona diagnosticada con Covid-19 según lo dispuesto en el numeral 11 de esta resolución, y
+i. ha estado en contacto estrecho con una persona diagnosticada con COVID -19, según lo dispuesto en el numeral 10 bis de esta resolución, y
 
-ii) desarrolla fiebre según lo dispuesto en el numeral 14, letra a) de esta resolución o desarrolla al menos dos síntomas de los señalados en dicho numeral 14 dentro de los primeros 14 días posteriores al contacto.
+ii. desarrolla alguno de los síntomas cardinales o al menos dos de los síntomas no cardinales, conforme a lo establecido en el numeral 14 de esta resolución, dentro de los primeros 14 días posteriores al contacto.
 
-Si por cualquier motivo, un caso probable por nexo epidemiológico se realiza un test RT-PCR para SARS-CoV-2 y este resulta positivo, deberá cumplir con lo dispuesto en el numeral 9 de esta resolución. Por el contrario, si el resultado es negativo o indeterminado, se seguirá considerando caso probable y deberá mantener aislamiento hasta completar los 11 días desde la fecha de inicio de síntomas.
+Si por cualquier motivo, un caso probable por nexo epidemiológico se realiza un test RT-PCR para SARS-CoV-2 o prueba de antígenos para SARS-CoV-2 y este resulta positivo, deberá cumplir con lo dispuesto en el numeral 9 de esta resolución. Por el contrario, si el resultado es negativo o indeterminado, se seguirá considerando caso probable y deberá mantener aislamiento hasta completar los 11 días desde la fecha de inicio de síntomas.
 
-c. Caso probable por imágenes: caso sospechoso conforme al numeral 12 de la presente resolución, con resultado de test RT-PCR para SARS-CoV-2 negativo o indeterminado, pero que cuenta con una tomografía computarizada de tórax con imágenes características de Covid-19 definidas así por un médico en la conclusión diagnóstica.
+c. Caso probable por imágenes: caso sospechoso conforme al numeral 12 de la presente resolución, con resultado de test RT-PCR para SARS-CoV-2 negativo o indeterminado, pero que cuenta con una tomografía computarizada de tórax con imágenes características de COVID -19 definidas así por un médico en la conclusión diagnóstica.
 
 d. Caso probable fallecido: persona fallecida que en ausencia de un resultado confirmatorio por un Test RT-PCR, su certificado médico de defunción establece como causa básica de muerte o factor desencadenante la infección por SARS-CoV-2.
 
-14. Síntomas de Covid-19. Para efectos de esta resolución, son síntomas de la Covid-19 los siguientes:
+13. Aislamiento de los casos probables. Dispóngase que las personas que sean caracterizadas como caso probable deberán permanecer en aislamiento según lo dispuesto en el numeral 9 de esta resolución, según corresponda.
 
-a. Fiebre, esto es, presentar una temperatura corporal de 37,8 ºC o más.
+14. Síntomas de COVID -19. Para efectos de esta resolución, son síntomas de la COVID -19 los siguientes:
+
+a. Fiebre, esto es, presentar una temperatura corporal de 37,8 °C o más.
 
 b. Tos.
 
@@ -164,11 +182,13 @@ k. Cefalea o dolor de cabeza.
 
 l. Diarrea.
 
-m. Anorexia o nauseas o vómitos.
+m. Anorexia o náuseas o vómitos.
 
 n. Pérdida brusca del olfato o anosmia.
 
 o. Pérdida brusca del gusto o ageusia.
+
+Se considerarán síntomas cardinales los indicados en los literales a., n. y o. precedentes, los demás, se consideran síntomas no cardinales.
 
 15. Sobre el cumplimiento de medidas sanitarias por las personas que ingresan al país. Las personas que ingresen al país desde el extranjero deberán cumplir con las medidas dispuestas en la resolución exenta Nº 997, de 2020, del Ministerio de Salud.
 
