@@ -1,0 +1,5 @@
+RESOLUCIÓN N° 3.602 EXENTA DE 29 DE DICIEMBRE DE 2020
+
+Por resolución exenta N° 3.602, de fecha 29 de diciembre de 2020, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se autoriza a Escuela de Conductores No Profesionales o Clase B denominada Vía Rápida, domiciliada en Balmaceda N° 864, Malloco, comuna de Peñaflor, cuyo propietario es el señor Víctor Ramírez Guzmán, RUT 12.813.500-6, cuyo Programa de Enseñanza fue aprobado mediante resolución exenta N° 666, de 10 de febrero de 2015, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, a impartir curso conducente a obtención de Licencia de Conductor Clase B, en modalidad e-learning.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana de Santiago.
