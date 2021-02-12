@@ -74,7 +74,7 @@ Si con posterioridad al proceso de apelaciones quedasen cupos disponibles, estos
 
 13. Si producto de la tramitación municipal del proyecto o de un error involuntario en la información ingresada al sistema informático Rukan, hubiere que efectuar ajustes que impliquen una reducción o aumento en la cantidad de viviendas que no superen el 10% del total aprobado, no se requerirá modificar la presente resolución y sólo será necesaria la modificación del convenio correspondiente.
 
-14. Los montos asignados mediante la presente resolución, ascendentes a 11.790.266.- Unidades de Fomento, se imputarán a los recursos autorizados, para el año 2020, del Programa de Integración Social.
+14. Los montos asignados mediante la presente resolución, ascendentes a 11.040.006.- Unidades de Fomento, se imputarán a los recursos autorizados, para el año 2020, del Programa de Integración Social.
 
 Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
@@ -91,3 +91,5 @@ NÓMINA DE PROYECTOS RECHAZADOS 2º CIERRE REGIONES DE ARICA Y PARINACOTA, TARAP
 > **Nota.** El N° 4 de la Resolución 1 Exenta, Vivienda, publicada el 08.01.2021, modifica la presente norma en el sentido de eliminar de la nómina de proyectos seleccionados aprobadas por la presente norma, los proyectos singularizados desde los considerando c) hasta el h) de la citada norma por las razones que indica.
 
 > **Nota.** NOTA 1 El N° 6 de la Resolución 1 Exenta, Vivienda, publicada el 08.01.2021, modifica la tabla inserta en el presente anexo en el sentido de sustituir en los datos del proyecto código 159286, de la comuna de Copiapó, Región de Atacama, en la columna "Nombre entidad", la denominación "3L Punta Negra SpA - R3" por "3L DSCOPIAPO SpA".
+
+> **Nota.** NOTA 2 Los Numerales 1 y 2 de la Resolución 128 Exenta, Vivienda, publicada el 12.02.2021, modifican la presente norma en el sentido de eliminar proyectos de las nóminas de proyectos seleccionados por la presente norma e incorporar producto de las eliminaciones dispuestas respectivamente los proyectos de las nóminas de proyectos seleccionados que formaban parte de la Lista de Espera.
