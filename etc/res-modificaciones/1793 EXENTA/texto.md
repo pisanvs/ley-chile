@@ -38,6 +38,8 @@ b) Los plazos correspondientes al segundo proceso de selección, serán los sigu
 
 4. El Saldo de Recursos para la segunda selección de este llamado será de 1.298.908,43 UF y se distribuirá regionalmente según el siguiente cuadro:
 
+.
+
 *A estos recursos se adicionarán los recursos especiales para subsidio de hacinamiento que no se aplicaron en la primera selección.
 
 5. Publíquese la presente resolución exenta en el Diario Oficial; y en un periódico de circulación regional en cada región del país, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al resuelvo número 2. de esta resolución exenta, las que deberán contener a lo menos, la comuna, el tipo de proyecto del cual se trate, el nombre de cada postulante con su respectiva cédula de identidad y el puntaje obtenido por el grupo o persona.
