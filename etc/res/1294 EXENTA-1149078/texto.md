@@ -76,9 +76,11 @@ Si con posterioridad al proceso de apelaciones quedasen cupos disponibles, estos
 
 13. Si producto de la tramitación municipal del proyecto o de un error involuntario en la información ingresada al sistema informático Rukan, hubiere que efectuar ajustes que impliquen una reducción o aumento en la cantidad de viviendas que no superen el 10% del total aprobado, no se requerirá modificar la presente resolución y solo será necesaria la modificación del convenio correspondiente.
 
-14. Los montos asignados mediante la presente resolución, ascendentes a 10.577.734 Unidades de Fomento, se imputarán a los recursos autorizados, para el año 2020, del Programa de Integración Social y Territorial y del Sistema Integrado de Subsidio Habitacional.
+14. Los montos asignados mediante la presente resolución, ascendentes a 11.245.512 Unidades de Fomento, se imputarán a los recursos autorizados, para el año 2020, del Programa de Integración Social y Territorial y del Sistema Integrado de Subsidio Habitacional.
 
 > **Nota.** El N° 4 de la Resolución 1 Exenta, Vivienda, publicada el 08.01.2021, modifica la presente norma en el sentido de eliminar de la nómina de proyectos seleccionados aprobadas por la presente norma, los proyectos singularizados desde los considerando c) hasta el h) de la citada norma por las razones que indica, no obstante que la presente norma no contiene la referida nómina.
+
+> **Nota.** NOTA 1 Los Numerales 1 y 2 de la Resolución 128 Exenta, Vivienda, publicada el 12.02.2021, modifican la presente norma en el sentido de eliminar proyectos de las nóminas de proyectos seleccionados por la presente norma e incorporar producto de las eliminaciones dispuestas respectivamente los proyectos de las nóminas de proyectos seleccionados que formaban parte de la Lista de Espera.
 
 Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
