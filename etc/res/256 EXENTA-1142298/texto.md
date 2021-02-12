@@ -22,8 +22,6 @@ Resolución:
 
 2. Apruébase la nómina de proyectos seleccionados con su respectivo financiamiento total, para el otorgamiento de subsidios del Programa Habitacional Fondo Solidario de Elección de Vivienda en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos, en las regiones de Tarapacá y Magallanes y la Antártica Chilena, correspondiente al proceso de selección cuyo cierre de postulación se efectuó el día 27 de febrero de 2020, del llamado efectuado por resolución exenta Nº 256 (V. y U.), de 2020:
 
-.
-
 El detalle de los recursos comprometidos por concepto de subsidio base y subsidios complementarios para el proyecto seleccionado en el presente Resuelvo y que por este acto se asignan, se informa en la nómina que se adjunta como anexo y forma parte integrante de la presente resolución.
 
 3. El número de proyectos seleccionados en cada región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el resuelvo 2., incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones y ajustes que serán sancionadas mediante resolución.
