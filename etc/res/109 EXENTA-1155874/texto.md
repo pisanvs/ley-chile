@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 86, de fecha 5 de julio de 1999, de esta Secretaría Regional, rectificada por resolución exenta N° 109, de 22 de enero de 2021, se aprobaron los programas de enseñanza conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores Puerto Montt Limitada, de propiedad de la sociedad "Escomontt Capacitación Limitada", cuyos nombres de fantasía son "Escuelas de Conductores Puerto Montt Ltda." o "Escomontt Ltda.", RUT 77.285.190-1, cuyo representante legal es doña Carolina del Carmen Pino Ríos, RUT 14.159.877-5, y cuyo Director es don José Verdugo Vilches, RUT 15.497.254-4. Su sede estará ubicada en calle Regimiento N° 645, en la comuna de Puerto Montt. Las horas pedagógicas autorizadas a la referida Escuela son 8 teóricas y 12 prácticas, con un total de 20 horas pedagógicas.-
+
+Nicolás Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
