@@ -42,6 +42,8 @@ Las Entidades Patrocinantes municipales podrán presentar postulaciones al prese
 
 3. Los recursos involucrados para la selección de grupos postulantes por Región, comuna y área, según corresponda, son los siguientes:
 
+.
+
 El número de grupos a seleccionar en cada Región alcanzará hasta el número de subsidios susceptibles de ser financiados con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de Asistencia Técnica y Fiscalización Técnica de Obras, pudiendo practicarse redistribuciones y/o aumentos, los que serán sancionados mediante resolución.
 
 Para los efectos de imputar los recursos de este llamado, se considerará por beneficiario un monto promedio de subsidio de construcción de 950 Unidades de Fomento (UF), más el subsidio correspondiente a la adquisición de terreno a que hace referencia la letra a) del Resuelvo 7. de la presente resolución, y los recursos destinados al pago de la Asistencia Técnica y Fiscalización Técnica de Obras.
@@ -189,8 +191,6 @@ c) El 60% restante, una vez desarrolladas las actividades que establece la resol
 11.5. Los honorarios de Asistencia Técnica correspondientes al servicio "Gestión Legal", se incrementarán con un monto adicional, de acuerdo a la relación entre la tasación del terreno y el precio, según el cuadro siguiente:
 
 12. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de postulaciones seleccionadas. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
-
-> **Nota.** La letra b) del numeral 1 de la Resolución 1286 Exenta, Vivienda, publicada el 02.09.2020, dispone reemplazar en el cuadro inserto en el Resuelvo 3 de la presente norma, en el área definida para las comunas de San Pedro de la Paz y Chiguayante, la expresión "Metro de Valparaíso" por "Biotrén".
 
 Anótese, comuníquese, publíquese y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
