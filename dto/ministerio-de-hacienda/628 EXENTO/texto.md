@@ -64,7 +64,13 @@ Para determinar en qué etapa del Plan "Paso a Paso" contenido en el Capítulo I
 
 2.- En cuanto al aporte correspondiente al mes de febrero de 2021, se considerarán las cinco semanas transcurridas entre los días 28 de diciembre de 2020 y 31 de enero de 2021, ambos inclusive.
 
-Teniendo presente el inciso anterior, para considerar una determinada comuna en uno u otro paso del Plan "Paso a Paso", deberá haber estado en él a lo menos catorce días dentro del lapso de tiempo que en cada caso indica el inciso anterior. En caso de que una determinada comuna cumpla con esta condición con dos pasos distintos, se preferirá aquel paso cuyo número sea menor.
+Teniendo presente el inciso anterior, para considerar una determinada comuna en uno u otro paso del Plan "Paso a Paso", se deberá seguir las siguientes reglas:
+
+1.- Si dentro del lapso correspondiente del inciso anterior ha estado catorce o más días en el "Paso 1: Cuarentena", se le considerará en este paso.
+
+2.- Si dentro del lapso correspondiente del inciso anterior no cumple con lo señalado en el numeral anterior, pero ha estado al menos catorce días en el "Paso 2: Transición" o si la suma de los días en que estuvo en los pasos 1 y 2 es igual o superior a catorce, se le considerará en Paso 2.
+
+3.- Si dentro del lapso correspondiente del inciso anterior no cumple con lo señalado en los numerales 1 y 2 anteriores, pero ha estado al menos catorce días en el "Paso 3: Preparación" o en el "Paso 4: Apertura Inicial" o si la suma de los días en que estuvo en los pasos 1, 2, 3 y 4 es igual o superior a catorce, se le considerará en Paso 3.
 
 #### Artículo 7
 

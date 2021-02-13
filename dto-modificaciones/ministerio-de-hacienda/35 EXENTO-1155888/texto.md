@@ -1,0 +1,45 @@
+MODIFICA EL DECRETO N° 628 EXENTO, DE 2020, DEL MINISTERIO DE HACIENDA, EN LA FORMA QUE INDICA
+
+Núm. 35 exento.- Santiago, 11 de febrero de 2021.
+
+Vistos:
+
+Lo dispuesto en los artículos 32 N° 6 y 35 de la Constitución Política de la República de Chile; en el DFL N° 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que Fija texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la ley N° 19.880, que Establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado; en la ley N° 21.289, de Presupuestos del Sector Público correspondiente al año 2021; en el decreto supremo N° 544, de 2019, del Ministerio del Interior y Seguridad Púbica; en la ley N° 20.330, que crea el Ministerio de Desarrollo Social y Familia y modifica cuerpos legales que indica; en la ley N° 21.230, que Concede un Ingreso Familiar de Emergencia; en los decretos supremos Nos 104, 269, 400 y 646, todos de 2020 y del Ministerio del Interior y Seguridad Pública; en la resolución exenta N° 591, de 23 de julio de 2020, del Ministerio de Salud, que Dispone medidas sanitarias que indica por brote de Covid-19 y dispone Plan "Paso a Paso"; en los decretos exentos N° 628, de 2020 y N° 18, de 2021, ambos del Ministerio de Hacienda; y, en la resolución N° 7, de 2019, de la Contraloría General de la República.
+
+Considerando:
+
+1. Que, por la ley N° 21.230, se concedió un Ingreso Familiar de Emergencia, a fin de hacer frente a las consecuencias económicas negativas de la pandemia por Covid-19, que afectan a nuestro país y muy especialmente a las personas, familias y grupos más vulnerables, en razón de la dificultad que las medidas para combatir la pandemia provocan para generar ingresos durante los meses en que ésta se extienda, medidas que incluyen la declaración de alerta sanitaria, la declaración del estado de excepción constitucional de catástrofe, ambas en todo el territorio de la República, y las diversas medidas sanitarias dispuestas por el Ministerio de Salud, tales como aislamientos o cuarentenas a poblaciones generales, cordones sanitarios, aislamientos o cuarentenas a localidades, aislamientos o cuarentenas a personas determinadas, aduanas sanitarias y otras medidas de protección para poblaciones vulnerables.
+
+2. Que, la ley N° 21.289, de Presupuestos del Sector Público año 2021, publicada el día 16 de diciembre de 2020, señaló en la Partida 50, Capítulo 01, Programa 03 "Operaciones Complementarias", Subtítulo 30, Ítem 10 "Fondo Emergencia Transitorio", Glosa 26, numeral 3, literal a. establece que: "Mediante uno o más decretos exentos del Ministerio de Hacienda, expedidos bajo la fórmula "Por orden del Presidente de la República", y suscritos además por el Ministro de Desarrollo Social y Familia, se podrán conceder uno o más nuevos aportes a aquellos entregados en virtud de la ley N° 21.230, que concede un Ingreso Familiar de Emergencia. Este nuevo beneficio se podrá entregar por comuna o localidad en la medida que se activen los parámetros sanitarios objetivos que se indican en el párrafo tercero, a los hogares que, siendo parte del Registro Social de Hogares, al momento de activarse dichos aportes, tengan al menos un integrante de los hogares que fueron beneficiarios del sexto aporte del Ingreso Familiar de Emergencia regulado en el artículo 5 bis de la ley N° 21.230.".
+
+3. Que, asimismo, el párrafo segundo del literal a. del numeral 3 de la glosa antes mencionada expresa que "Por otro lado, y siempre bajo un criterio de comuna o localidad, en la medida que se activen los parámetros sanitarios objetivos que se indican en el párrafo tercero, se podrán considerar, adicionalmente, o en lugar de los beneficiarios establecidos en el párrafo anterior, a los hogares que no estén incluidos en la referida nómina a la época que fijen los decretos señalados, que cumplan cualquiera de los siguientes requisitos: (i) tener al menos un causante del subsidio familiar establecido en la ley N° 18.020; (ii) tener al menos un usuario del subsistema "Seguridades y Oportunidades", creado por la ley N° 20.595; (iii) pertenecer al 60 por ciento más vulnerable de la población nacional, de conformidad al instrumento de Caracterización Socioeconómica a que se refiere el artículo 5 de la ley N° 20.379, que crea el sistema intersectorial de protección social. En este caso, para impetrar este nuevo beneficio, un integrante mayor de 18 años del hogar beneficiario deberá presentar una solicitud directamente ante el Ministerio de Desarrollo Social y Familia. El Ministerio podrá celebrar convenios con otras instituciones públicas para estos efectos.".
+
+4. Que, por último, la glosa 26 citada indica que "Mediante los decretos señalados precedentemente, se determinarán los parámetros que permitirán entregar la bonificación señalada, los que podrán considerar la condición socioeconómica de los hogares, las condiciones sanitarias y las realidades locales asociadas al impacto de la enfermedad Covid-19, como aquellas que impliquen paralización de actividades, las que permitirán entregar localmente el respectivo aporte. A través del mismo procedimiento señalado previamente, se fijará su cobertura, la cual podrá ser igual o menor al número de hogares beneficiarios de la nómina del sexto aporte a que se refiere el artículo 5 bis de la mencionada ley N° 21.230. De igual forma, se determinará el número de aportes que beneficiarán a los hogares de la respectiva comuna o localidad afectada, el monto de tales aportes, los que no podrán ser superior a los valores entregados por la citada ley, el plazo de solicitud y su correspondiente época de pago, entre otras condiciones.".
+
+5. Que, a través del decreto supremo N° 646, de 9 de diciembre de 2020, del Ministerio del Interior y Seguridad Pública, se prorrogó por 90 días la declaración de estado de excepción constitucional de catástrofe, por calamidad pública, anteriormente declarada mediante decreto supremo N° 104, y prorrogado mediante los decretos supremos Nos 269 y 400, todos de 2020 y del Ministerio del Interior y Seguridad Pública, los que dan cuenta que aún persisten las circunstancias que motivaron la declaración de dicho estado de excepción constitucional, siendo necesario tomar otras medidas de ayuda a la población, en este caso, la entrega de nuevos aportes del Ingreso Familiar de Emergencia.
+
+6. Que, en virtud de lo anteriormente expresado, se dictó el decreto exento N° 628, de 2020, del Ministerio de Hacienda, que concede los aportes que indica y determina parámetros para entregar bonificación y demás materias que señala, de acuerdo a la partida 50, capítulo 01, programa 03 "Operaciones Complementarias", subtítulo 30, ítem 10 "Fondo Emergencia Transitorio", de la glosa 26, numeral 3, literal a, de la ley N° 21.289, de Presupuestos del sector público correspondiente al año 2021, el que posteriormente fue modificado por el decreto exento N° 18, de 2021, del mismo Ministerio.
+
+7. Que, sin embargo, revisado el procedimiento, se ha determinado realizar ajustes que permitan reconocer de mejor manera dentro de un determinado paso del Plan Paso a Paso, aprobado mediante resolución exenta N° 591, de 23 de julio de 2020, del Ministerio de Salud, considerando no sólo el haber estado al menos catorce días en uno de ellos, sino otras variables que se indican.
+
+8. Que, por todo lo anterior, procede la dictación del presente acto administrativo, y;
+
+Decreto:
+
+1.- Modifícase el decreto exento N° 628, de 2020, del Ministerio de Hacienda, en el sentido que indica:
+
+Reemplázase el inciso final del artículo 6 por el siguiente:
+
+"Teniendo presente el inciso anterior, para considerar una determinada comuna en uno u otro paso del Plan "Paso a Paso", se deberá seguir las siguientes reglas:
+
+1.- Si dentro del lapso correspondiente del inciso anterior ha estado catorce o más días en el "Paso 1: Cuarentena", se le considerará en este paso.
+
+2.- Si dentro del lapso correspondiente del inciso anterior no cumple con lo señalado en el numeral anterior, pero ha estado al menos catorce días en el "Paso 2: Transición" o si la suma de los días en que estuvo en los pasos 1 y 2 es igual o superior a catorce, se le considerará en Paso 2.
+
+3.- Si dentro del lapso correspondiente del inciso anterior no cumple con lo señalado en los numerales 1 y 2 anteriores, pero ha estado al menos catorce días en el "Paso 3: Preparación" o en el "Paso 4: Apertura Inicial" o si la suma de los días en que estuvo en los pasos 1, 2, 3 y 4 es igual o superior a catorce, se le considerará en Paso 3.".
+
+2.- Las modificaciones establecidas por el presente decreto exento serán aplicables respecto al aporte del mes de febrero.
+
+Anótese, publíquese y archívese.- Por orden del Presidente de la República, Rodrigo Cerda Norambuena, Ministro de Hacienda.- Karla Rubilar Barahona, Ministra de Desarrollo Social y Familia.
+
+Lo que transcribo a usted para su conocimiento.- Saluda Atte. a usted, Tomás de la Maza Bengoa, Subsecretario de Hacienda (S).
