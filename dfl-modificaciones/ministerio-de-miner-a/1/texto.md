@@ -14,7 +14,7 @@ Derógase el decreto N° 20 del Ministerio de Minería, de 8 de Abril de 1964, y
 
 #### Artículo segundo
 
-Establécese un registro en el que los propietarios de las instalaciones que sirvan para producción, importación, refinación, transporte, distribución, almacenamiento, abastecimiento, regasificación o comercialicen combustibles derivados del petróleo, biocombustibles líquidos, gases licuados combustibles y todo fluido gaseoso combustible, como gas natural, gas de red y biogás deberán inscribirlas.
+Establécese un registro en el que los propietarios de las instalaciones que sirvan para producción, importación, exportación, refinación, transporte, distribución, almacenamiento, abastecimiento, regasificación o comercialicen combustibles derivados del petróleo, biocombustibles líquidos, hidrógeno y combustibles a partir de hidrógeno, gases licuados combustibles y todo fluido gaseoso combustible, como gas natural, gas de red y biogás deberán inscribirlas.
 
 No se entenderán incluidas en las actividades antes señaladas la explotación de depósitos naturales de petróleo y gas natural.
 
