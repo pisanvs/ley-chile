@@ -22,6 +22,8 @@ Resolución:
 
 2. Los recursos involucrados para la selección de postulantes, por región, provincia y comuna convocada, son los siguientes:
 
+.
+
 3. El número de proyectos seleccionados en cada región, provincia o comuna alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el resuelvo 2., incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones y ajustes que serán sancionadas mediante resolución.
 
 4. Los proyectos que se emplacen en zonas donde se encuentren vigentes Planes de Descontaminación Atmosférica podrán incrementar su subsidio base en hasta 80 Unidades de Fomento, cuando requieran un mayor financiamiento para la implementación de las medidas del referido plan o, en su defecto, cuando apliquen las instrucciones que dicte este Ministerio en materia de estándar de acondicionamiento térmico para viviendas nuevas, las que estarán publicadas en el sitio web del Ministerio de Vivienda y Urbanismo, en la sección Fechas de Postulaciones/Resultados. Sin perjuicio de lo anterior, en las siguientes ciudades, el subsidio base se podrá incrementar hasta en los montos que a continuación se indican:
@@ -57,6 +59,8 @@ b. En la casilla "institución del aporte adicional", marcar "Por transferencia 
 La complementación de los montos de subsidios por los aportes del Gobierno Regional a que hace alusión el presente Resuelvo estará sujeta a la disponibilidad de recursos en el programa autorizado por la resolución exenta conjunta entre el Ministerio de Vivienda y Urbanismo y el Ministerio de Hacienda, provenientes de los convenios señalados.
 
 11. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de proyectos seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional, o en el sitio web del Minvu.
+
+> **Nota.** Las letra a y b del numeral 2 de la Resolución 1163 Exenta, Vivienda, publicada el 11.08.2020, complementa la presente norma en el sentido de agregar una nueva fechas de cierre fijadas en su resuelvo 1, el día 18 de agosto de 2020, asimismo a los grupos que participen del presente llamado, en alguno de los procesos de selección con cierre pendiente, no les será exigido contar con personalidad jurídica constituida. Bastará con un acta que nomine a todos los integrantes de la misma, e identifique a lo menos a 3 representantes, quienes deberán ser integrantes del grupo y postular como parte integrante del proyecto, cumpliendo todos los requisitos para ello, los documentos que requieran el visto bueno del grupo organizado o que deban ser suscritos por la organización, deberán contar con la firma de todos los integrantes de la misma, sea de manera presencial aprobados por los medios electrónicos que el Serviu señale.
 
 Anótese, publíquese y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
