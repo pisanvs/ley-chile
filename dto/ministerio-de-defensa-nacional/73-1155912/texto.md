@@ -1,0 +1,5 @@
+OTORGAMIENTO CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 73 de fecha 25 febrero 2020, del MINDEF, Subsecretaría Fuerzas Armadas, otorgó a Inmobiliaria Lomas del Alto Ltda., Rut 96.673.110-9, Concesión Marítima menor, con vencimiento 31 diciembre 2024, sobre sector playa y fondo de lago, en sector Carmelito, km 4 camino Pucón Villarrica, lago Villarrica, comuna Pucón, provincia Cautín, Región Araucanía. Superficies otorgadas: Sector Playa 240.28 m² y Sector Fondo de Lago 377.59 m², tramitada con SIABC 35.787. El objeto es amparar instalación de rampa de carga y descarga embarcaciones e instalación Dársena abrigo embarcaciones menores deportivas hasta 25 TRG. Antecedentes disponibles Capitanía Puerto Lago Villarrica.-
+
+Héctor Rojas Martín, Capitán de Corbeta LT, Capitán de Puerto Lago Villarrica.
