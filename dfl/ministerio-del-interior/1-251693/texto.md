@@ -1310,7 +1310,7 @@ b) Ocho concejales en las comunas o agrupaciones de comunas de más de setenta m
 
 c) Diez concejales en las comunas o agrupaciones de comunas de más de ciento cincuenta mil electores.
 
-El número de concejales por elegir en cada comuna o agrupación de comunas, en función de sus electores, será determinado mediante resolución del Director del Servicio Electoral. Para estos efectos, se considerará el registro electoral vigente siete meses antes de la fecha de la elección respectiva. La resolución del Director del Servicio deberá ser publicada en el Diario Oficial dentro de los diez días siguientes al término del referido plazo de siete meses, contado hacia atrás desde la fecha de la elección.
+El número de concejales por elegir en cada comuna o agrupación de comunas, en función de sus electores, será determinado mediante resolución del Director del Servicio Electoral. Para estos efectos, se considerará el registro electoral vigente siete meses antes de la fecha de la elección respectiva. La resolución del Director del Servicio deberá ser publicada en el sitio electrónico de ese Servicio dentro de los diez días siguientes al término del referido plazo de siete meses, contado hacia atrás desde la fecha de la elección.
 
 #### Artículo 73
 
@@ -1950,7 +1950,7 @@ Las declaraciones de candidaturas independientes a alcalde o concejal deberán s
 
 En todo caso, entre los patrocinantes no se contabilizarán los correspondientes a afiliados a partidos políticos que superen el cinco por ciento del porcentaje mínimo que establece el inciso anterior.
 
-La determinación del número mínimo necesario de patrocinantes la hará el Director del Servicio Electoral mediante resolución que se publicará en el Diario Oficial con siete meses de anticipación, a lo menos, a la fecha en que deba realizarse la elección.
+La determinación del número mínimo necesario de patrocinantes la hará el Director del Servicio Electoral mediante resolución que se publicará en el sitio electrónico de ese Servicio con siete meses de anticipación, a lo menos, a la fecha en que deba realizarse la elección.
 
 Sin perjuicio de lo dispuesto en los incisos anteriores, los independientes que postulen integrando pactos o subpactos no requerirán de patrocinio.
 
@@ -1972,7 +1972,7 @@ De las inscripciones de candidatos
 
 #### Artículo 115
 
-El Director Regional del Servicio Electoral, dentro de los diez días siguientes a aquél en que venza el plazo para la declaración de candidaturas, deberá, mediante resolución que se publicará en un diario de los de mayor circulación en la región respectiva, aceptar o rechazar las que hubieren sido declaradas.
+El Director Regional del Servicio Electoral, dentro de los diez días siguientes a aquél en que venza el plazo para la declaración de candidaturas, deberá, mediante resolución que se publicará en un diario de los de mayor circulación en la región o provincia respectiva, aceptar o rechazar las que hubieren sido declaradas.
 
 Los partidos políticos y los candidatos independientes podrán, dentro de los cinco días siguientes a la publicación de la referida resolución, reclamar de ella ante el tribunal electoral regional respectivo, el que deberá pronunciarse dentro de quinto día.
 

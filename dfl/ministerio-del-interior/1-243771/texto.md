@@ -14,17 +14,17 @@ DEL GOBIERNO DE LA REGIÓN
 
 ## Capítulo I
 
-Del Intendente
+Del Delegado Presidencial Regional
 
 #### Artículo 1°
 
-El gobierno interior de cada región reside en el intendente, quien será el representante natural e inmediato del Presidente de la República en el territorio de su jurisdicción. Será nombrado por éste y se mantendrá en sus funciones mientras cuente con su confianza.
+El gobierno interior de cada región reside en el delegado presidencial regional, quien será el representante natural e inmediato del Presidente de la República en el territorio de su jurisdicción. Será nombrado por éste y se mantendrá en sus funciones mientras cuente con su confianza.
 
-El intendente será subrogado por el gobernador de la provincia asiento de la capital regional y, a falta de éste, por el funcionario de más alto grado del respectivo escalafón. Lo anterior se entenderá sin perjuicio de la facultad del Presidente de la República para designar un suplente, sin sujeción al requisito de tiempo establecido por el inciso tercero del artículo 4° de la Ley N° 18.834.
+El delegado presidencial regional será subrogado por el delegado presidencial provincial que designe el Presidente de la República. Lo anterior se entenderá sin perjuicio de la facultad del Presidente de la República para designar un suplente, sin sujeción al requisito de tiempo establecido por el inciso tercero del artículo 4° de la Ley N° 18.834.
 
 #### Artículo 2°
 
-Corresponderá al delegado presidencial regional, en su calidad de representante del Presidente de la República en la región:
+Corresponderá al delegado presidencial regional:
 
 a) Dirigir las tareas de gobierno interior en la región, de conformidad con las orientaciones, órdenes e instrucciones que le imparta el Presidente de la República directamente o a través del Ministerio del Interior;
 
@@ -32,11 +32,11 @@ b) Velar porque en el territorio de su jurisdicción se respete la tranquilidad,
 
 c) Requerir el auxilio de la fuerza pública en el territorio de su jurisdicción, en conformidad a la ley;
 
-d) Mantener permanentemente informado al Presidente de la República sobre el cumplimiento de las funciones del gobierno interior en la región, como asimismo sobre el desempeño de los gobernadores y demás jefes regionales de los organismos públicos que funcionen en ella;
+d) Mantener permanentemente informado al Presidente de la República sobre el cumplimiento de las funciones del gobierno interior en la región, como asimismo sobre el desempeño de los delegados presidenciales provinciales y demás jefes regionales de los organismos públicos que funcionen en ella;
 
 e) Dar cuenta, en forma reservada, al Presidente de la República, para efectos de lo dispuesto en el N° 15 del artículo 32 de la Constitución Política de la República, de las faltas que notare en la conducta ministerial de los jueces y demás empleados del Poder Judicial;
 
-f) Conocer y resolver los recursos administrativos que se entablen en contra de las resoluciones adoptadas por los gobernadores en materias de su competencia;
+f) Conocer y resolver los recursos administrativos que se entablen en contra de las resoluciones adoptadas por los delegados presidenciales provinciales en materias de su competencia;
 
 g) Aplicar administrativamente las disposiciones de la Ley de Extranjería, pudiendo disponer la expulsión de los extranjeros del territorio nacional, en los casos y con arreglo a las formas previstas en ella;
 
@@ -48,9 +48,9 @@ j) Ejercer la coordinación, fiscalización o supervigilancia de los servicios p
 
 k) Proponer al Presidente de la República una terna para la designación de los secretarios regionales ministeriales;
 
-l) Proponer al Presidente de la República, en forma reservada, con información al ministro del ramo, la remoción de los secretarios regionales ministeriales. En la misma forma, podrá proponer al ministro respectivo o jefe superior del servicio, en su caso, la remoción de los jefes regionales de los organismos públicos que funcionen en la región.
+l) Proponer al Presidente de la República, en forma reservada, con información al ministro del ramo, la remoción de los secretarios regionales ministeriales. En la misma forma, podrá proponer al ministro respectivo o jefe superior del servicio, en su caso, la remoción de los jefes regionales de los organismos públicos que funcionen en la región, que no dependan o se relacionen con el gobierno regional.
 
-Asimismo, el ministro del ramo o el jefe superior del servicio correspondiente informará al intendente antes de proponer al Presidente de la República la remoción de dichos funcionarios;
+Asimismo, el ministro del ramo o el jefe superior del servicio correspondiente informará al delegado presidencial regional antes de proponer al Presidente de la República la remoción de dichos funcionarios;
 
 m) Hacer presente a la autoridad administrativa competente del nivel central, con la debida oportunidad, las necesidades de la región;
 
@@ -62,27 +62,27 @@ o) Dictar las resoluciones e instrucciones que estime necesarias para el ejercic
 
 p) Cumplir las demás funciones que le asignen las leyes y las atribuciones que el Presidente de la República le delegue, incluida la de otorgar personalidad jurídica a las corporaciones y fundaciones que se propongan desarrollar actividades en el ámbito de la región , ejerciendo al efecto las facultades que señalan los artículos 546, 548, 561 y 562 del Código Civil.
 
-El intendente podrá delegar en los gobernadores determinadas atribuciones, no pudiendo ejercer la competencia delegada sin revocar previamente la delegación.
+El delegado presidencial regional podrá delegar en los delegados presidenciales provinciales determinadas atribuciones, no pudiendo ejercer la competencia delegada sin revocar previamente la delegación.
 
 > **Nota.** La referencia al N° 15 del Art. 32 de la Constitución Política debe entenderse hecha al N° 13 del mismo precepto del texto refundido, coordinado y sistematizado por Decreto 100, Interior, publicado el 22.09.2005.
 
 ## Capítulo II
 
-Del Gobernador
+Del Delegado Presidencial Provincial
 
-#### Artículo 3°
+#### Artículo 3
 
-En cada provincia existirá una Gobernación, que será un órgano territorialmente desconcentrado del intendente. Estará a cargo de un gobernador, quien será nombrado y removido libremente por el Presidente de la República.
+En cada provincia existirá una delegación presidencial provincial, que será un órgano territorialmente desconcentrado del delegado presidencial regional. Estará a cargo de un delegado presidencial provincial, quien será nombrado y removido libremente por el Presidente de la República.
 
-Corresponderá al gobernador ejercer, de acuerdo con las instrucciones del intendente, la supervigilancia de los servicios públicos creados por ley para el cumplimiento de la función administrativa, existentes en la provincia.
+Corresponderá al delegado presidencial provincial ejercer, de acuerdo a las instrucciones del delegado presidencial regional, la supervigilancia de los servicios públicos creados por ley para el cumplimiento de la función administrativa existentes en la provincia, que dependan o se relacionen con el Presidente de la República a través de un Ministerio.
 
-La subrogación del gobernador se hará de acuerdo con lo dispuesto en el artículo 80 de la Ley N° 18.834, sin perjuicio de la facultad del Presidente de la República para designar un suplente, sin sujeción al requisito de tiempo establecido por el inciso tercero del artículo 4° de la Ley N° 18.834.
+La subrogación del del delegado presidencial provincial se hará de acuerdo con lo dispuesto en el artículo 80 de la Ley N° 18.834, sin perjuicio de la facultad del Presidente de la República para designar un suplente, sin sujeción al requisito de tiempo establecido por el inciso tercero del artículo 4° de la Ley N° 18.834.
 
-#### Artículo 4°
+#### Artículo 4
 
-El gobernador ejercerá las atribuciones que menciona este artículo informando al intendente de las acciones que ejecute en el ejercicio de ellas.
+El delegado presidencial provincial ejercerá las atribuciones que menciona este artículo, informando al delegado presidencial regional de las acciones que ejecute en el ejercicio de ellas.
 
-El gobernador tendrá todas las atribuciones que el intendente le delegue y, además, las siguientes que esta ley le confiere directamente:
+El delegado presidencial provincial tendrá todas las atribuciones que el delegado presidencial regional le delegue y, además, las siguientes que esta ley le confiere directamente:
 
 a) Ejercer las tareas de gobierno interior, especialmente las destinadas a mantener en la provincia el orden público y la seguridad de sus habitantes y bienes;
 
@@ -102,33 +102,37 @@ g) Autorizar la circulación de los vehículos de los servicios públicos creado
 
 h) Ejercer la vigilancia de los bienes del Estado, especialmente de los nacionales de uso público.
 
-En uso de esta facultad, el gobernador velará por el respeto al uso a que están destinados, impedirá su ocupación ilegal o todo empleo ilegítimo que entrabe su uso común y exigirá administrativamente su restitución cuando proceda;
+En uso de esta facultad, el delegado presidencial provincial velará por el respeto al uso a que están destinados, impedirá su ocupación ilegal o todo empleo ilegítimo que entrabe su uso común y exigirá administrativamente su restitución cuando proceda;
 
-i) Dictar las resoluciones e instrucciones que estime necesarias para el ejercicio de sus atribuciones propias o delegadas, y
+i) Dictar las resoluciones e instrucciones que estime necesarias para el ejercicio de sus atribuciones propias o delegadas;
 
-j) Cumplir las demás funciones y ejercer las atribuciones que las leyes y reglamentos le asignen.
+j) Supervisar los programas y proyectos de desarrollo que los servicios públicos creados por ley efectúen en la provincia, que no dependan o se relacionen con el gobierno regional;
+
+k) Disponer las medidas de coordinación necesarias para el desarrollo provincial;
+
+l) Hacer presente al delegado presidencial regional o a los respectivos secretarios regionales ministeriales, con la debida oportunidad, las necesidades que observare en su territorio jurisdiccional, y
+
+m) Cumplir las demás funciones y ejercer las atribuciones que las leyes y reglamentos le asignen.
 
 #### Artículo 5°
 
-Con autorización del intendente, el gobernador podrá designar delegados con atribuciones específicas para una o más localidades, cuando presenten condiciones de aislamiento o cuando circunstancias calificadas lo hagan necesario, pudiendo poner término a la delegación en cualquier momento.
+Con autorización del delegado presidencial regional, el delegado presidencial provincial podrá designar encargados con atribuciones específicas para una o más localidades, cuando presenten condiciones de aislamiento cuando circunstancias calificadas lo hagan necesario, pudiendo poner término a la delegación en cualquier momento.
 
-El delegado deberá ser ciudadano con derecho a sufragio y reunir los demás requisitos generales exigidos para el ingreso en la Administración Pública.
+El encargado deberá ser ciudadano con derecho a sufragio y reunir los demás requisitos generales exigidos para el ingreso en la Administración Pública. En el acto de designación del encargado, el delegado presidencial provincial determinará las facultades específicas que le delegue, el plazo de su desempeño y el ámbito territorial en que ejercerá competencia.
 
-En el acto de la delegación, el gobernador determinará las facultades específicas que le delegue, el plazo de su desempeño y el ámbito territorial en que ejercerá competencia.
+Si la designación como encargado recayere en algún funcionario público, éste ejercerá su cometido en comisión de servicio, sin limitación de tiempo; si se tratare de una persona ajena a la Administración del Estado, se desempeñará ad honorem. El encargado, cualquiera que sea la calidad de su designación, quedará sujeto a las responsabilidades administrativas, civiles y penales a que están afectos los funcionarios públicos.
 
-Si la designación como delegado recayere en algún funcionario público, éste ejercerá su cometido en comisión de servicio, sin limitación de tiempo; si se tratare de una persona ajena a la Administración del Estado, se desempeñará ad honorem. El delegado, cualquiera que sea la calidad de su designación, quedará sujeto a las responsabilidades administrativas, civiles y penales a que están afectos los funcionarios públicos, y no formará parte de la dotación de personal del gobierno regional respectivo.
-
-Un extracto de la resolución mediante la cual se designe al delegado, se publicará en el Diario Oficial y en un diario de los de mayor circulación en la provincia.
+Un extracto de la resolución mediante la cual se designe al encargado, se publicará en el Diario Oficial y en un diario de los de mayor circulación en la provincia.
 
 ## Capítulo III
 
-Disposiciones Comunes a Intendentes y
+Disposiciones Comunes a Delegados Presidenciales Regionales
 
-Gobernadores
+y Delegados Presidenciales Provinciales
 
 #### Artículo 6°
 
-Para ser designado intendente o gobernador, se requerirá:
+Para ser designado delegado presidencial regional o delegado presidencial provincial, se requerirá:
 
 a) Ser ciudadano con derecho a sufragio;
 
@@ -140,17 +144,17 @@ d) No hallarse condenado por crimen o simple delito, y
 
 e) Residir en la región respectiva, a lo menos, en los últimos dos años anteriores a su designación.
 
-No podrá ser intendente o gobernador el que tuviere dependencia de sustancias o drogas estupefacientes o sicotrópicas ilegales, a menos que justifique su consumo por un tratamiento médico. Para asumir alguno de esos cargos, el interesado deberá prestar una declaración jurada que acredite que no se encuentra afecto a esta causal de inhabilidad.
+No podrá ser delegado presidencial regional o delegado presidencial provincial el que tuviere dependencia de sustancias o drogas estupefacientes o sicotrópicas ilegales, a menos que justifique su consumo por un tratamiento médico. Para asumir alguno de esos cargos, el interesado deberá prestar una declaración jurada que acredite que no se encuentra afecto a esta causal de inhabilidad.
 
 #### Artículo 7°
 
-Los cargos de
+Los cargos de gobernador regional, delegado presidencial regional, consejero regional, alcalde, concejal, y delegado presidencial provincial Y consejero comunal de organizaciones de la sociedad civil serán incompatibles entre sí.
 
-gobernador regional, delegado presidencial regional, consejero regional, alcalde, concejal, y delegado presidencial provincial serán incompatibles entre sí.
+> **Nota.** El numeral 10 del artículo 1° de la ley 21073, publicada el 22.02.2018, dispone sustituir el presente artículo en los términos que indica. Sin embargo, este artículo ya había sido remplazado por la Ley 21074, publicada el 15.02.2018. Es por esta razón que se incorpora en su texto a continuación de la palabra concejal, la oración: "y consejero comunal de organizaciones de la sociedad civil" que no existía con anterioridad.
 
 #### Artículo 8°
 
-Los intendentes y gobernadores cesarán en sus cargos por las siguientes causales:
+Los delegados presidenciales regionales y delegados presidenciales provinciales cesarán en sus cargos por las siguientes causales:
 
 a) Pérdida de cualquiera de los requisitos habilitantes establecidos para su desempeño;
 
@@ -162,23 +166,23 @@ d) Aceptación de renuncia;
 
 e) Remoción dispuesta por el Presidente de la República, y
 
-f) Destitución por acuerdo del Senado, conforme a lo dispuesto en el artículo 49, N° 1), de la Constitución Política de la República.
+f) Destitución por acuerdo del Senado, conforme a lo dispuesto en el artículo 53, N° 1), de la Constitución Política de la República.
 
-#### Artículo 9°
+#### Artículo 9
 
-Los intendentes y gobernadores ejercerán sus funciones en la capital regional o provincial, según corresponda, sin perjuicio de que puedan ejercerlas, transitoriamente, en otras localidades de sus territorios jurisdiccionales.
+Los delegados presidenciales regionales y delegados presidenciales provinciales ejercerán sus funciones en la capital regional o provincial, según corresponda, sin perjuicio de que puedan ejercerlas transitoriamente en otras localidades de sus territorios jurisdiccionales.
 
 #### Artículo 10
 
-Los intendentes y gobernadores podrán solicitar de los jefes de los organismos de la Administración del Estado sujetos a su fiscalización o supervigilancia, los informes, antecedentes o datos que requieran para dichos fines, debiendo éstos proporcionarlos oportunamente.
+Los delegados presidenciales regionales y delegados presidenciales provinciales podrán solicitar de los jefes de los organismos de la Administración del Estado sujetos a su fiscalización o supervigilancia, los informes, antecedentes o datos que requieran para dichos fines, debiendo éstos proporcionarlos oportunamente.
 
 #### Artículo 11
 
-Los intendentes y gobernadores deberán poner en conocimiento de la Contraloría General de la República y del tribunal competente, aquellos hechos que, con fundamento plausible, puedan originar responsabilidad administrativa, civil o penal en contra de algún funcionario de las instituciones sujetas a su fiscalización o supervigilancia.
+Los delegados presidenciales regionales y delegados presidenciales provinciales deberán poner en conocimiento de la Contraloría General de la República y del tribunal competente, aquellos hechos que, con fundamento plausible, puedan originar responsabilidad administrativa, civil o penal en contra de algún funcionario de las instituciones sujetas a su fiscalización o supervigilancia.
 
 #### Artículo 12
 
-El Servicio de Gobierno Interior apoyará el ejercicio de las funciones y atribuciones que el presente Título confiere a intendentes y gobernadores.
+El Servicio de Gobierno Interior apoyará el ejercicio de las funciones y atribuciones que el presente Título confiere a delegados presidenciales regionales y delegados presidenciales provinciales.
 
 ## Título Segundo
 
@@ -486,19 +490,129 @@ c) La revocación será resuelta por el Presidente de la República mediante dec
 
 #### Artículo 22
 
-El gobierno regional estará constituido por el intendente y el consejo regional.
+El gobierno regional estará constituido por el gobernador regional y el consejo regional.
 
 Cuando la ley requiera la opinión o acuerdo del gobierno regional, el gobernador regional en su calidad de órgano ejecutivo de aquél, deberá someterlo previamente al acuerdo del consejo regional.
 
 ### Párrafo 1°
 
-Del Intendente
+Del Gobernador Regional
 
 #### Artículo 23
 
-Sin perjuicio de las facultades que le corresponden en virtud de lo dispuesto por el Título Primero, el intendente será el órgano ejecutivo del gobierno regional.
+El gobernador regional será el órgano ejecutivo del gobierno regional, correspondiéndole además presidir el consejo regional. Ejercerá sus funciones con arreglo a la Constitución Política de la República.
 
-El intendente ejercerá sus funciones con arreglo a la Constitución Política de la República, a las leyes, a los reglamentos supremos y a los reglamentos regionales.
+El gobernador regional será elegido por sufragio universal en votación directa, en cédula separada y conjuntamente con la elección de consejeros regionales, conforme a las normas establecidas en el capítulo VI del título segundo.
+
+#### Artículo 23 bis
+
+Para ser elegido gobernador regional se requerirá:
+
+a) Ser ciudadano con derecho a sufragio.
+
+b) No estar inhabilitado para el ejercicio de funciones o cargos públicos.
+
+c) No tener la calidad de persona deudora sujeta a un procedimiento concursal de liquidación en virtud de lo dispuesto en la ley N° 20.720, de reorganización y liquidación de empresas y personas, ni de condenada por crimen o simple delito.
+
+d) Haber cursado la enseñanza media o su equivalente.
+
+e) Residir en la región respectiva, a lo menos dos años antes de la elección.
+
+f) No estar afecto a alguna de las inhabilidades que establece esta ley.
+
+No podrá ser gobernador regional el que tuviere dependencia de sustancias o drogas estupefacientes o sicotrópicas ilegales, a menos que justifique su consumo por un tratamiento médico. Para asumir este cargo, el interesado deberá prestar una declaración jurada que acredite que no se encuentra afecto a esta causal de inhabilidad.
+
+#### Artículo 23 ter
+
+No podrán ser candidatos a gobernador regional:
+
+a) Los ministros de Estado, los subsecretarios, los delegados presidenciales regionales, los delegados presidenciales provinciales, los secretarios regionales ministeriales, los miembros del consejo del Banco Central y el Contralor General de la República.
+
+b) Los diputados y senadores.
+
+c) Los alcaldes y concejales.
+
+d) Los miembros y funcionarios de los diferentes escalafones del Poder Judicial, del Ministerio Público, de la Contraloría General de la República, del Tribunal Constitucional, del Tribunal de Defensa de la Libre Competencia, del Tribunal de Contratación Pública, del Tribunal Calificador de Elecciones y de los tribunales electorales regionales, los consejeros del Consejo para la Transparencia, los consejeros y funcionarios del Servicio Electoral, y los miembros activos de las Fuerzas Armadas y de Orden y Seguridad Pública.
+
+e) Las personas que a la fecha de inscripción de sus candidaturas tengan vigente o suscriban, por sí o por terceros, contratos o cauciones ascendentes a doscientas unidades tributarias mensuales o más con el respectivo gobierno regional. Tampoco podrán serlo quienes tengan litigios pendientes con el gobierno regional, a menos que se refieran al ejercicio de derechos propios, de su cónyuge, conviviente civil, hijos, adoptados o parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive. Igual prohibición regirá respecto de los directores, administradores, representantes y socios titulares del diez por ciento o más de los derechos de cualquier clase de sociedad, cuando ésta tenga contratos o cauciones vigentes ascendentes a doscientas unidades tributarias mensuales o más, o litigios pendientes, con el gobierno regional.
+
+f) Las personas que se hallen condenadas por crimen o simple delito que merezca pena aflictiva.
+
+g) Las personas que hayan infringido gravemente las normas sobre transparencia, límites y control del gasto electoral, desde la fecha que lo declare por sentencia firme el Tribunal Calificador de Elecciones, conforme lo dispone el artículo 125 de la Constitución Política de la República.
+
+Las inhabilidades establecidas en las letras a), b), c) y d) serán aplicables a quienes hubieren tenido las calidades o cargos antes mencionados dentro del año inmediatamente anterior a la elección de gobernador regional.
+
+#### Artículo 23 quáter
+
+El cargo de gobernador regional es incompatible con los cargos de Presidente de la República, diputado, senador, consejero regional, alcalde y concejal. También será incompatible con todo otro empleo o comisión retribuidos con fondos del Fisco, de las municipalidades, de los demás órganos de la Administración del Estado o de las empresas del Estado o en las que éste tenga participación por aportes de capital, y con toda otra función o comisión de la misma naturaleza. Se exceptúan los empleos docentes y las funciones o comisiones de igual carácter de la enseñanza superior, media, básica y especial, hasta el límite de doce horas semanales. Asimismo, el cargo de gobernador regional es incompatible con las funciones de directores o consejeros, aun cuando sean ad honorem, en las entidades fiscales autónomas, semifiscales o en las empresas estatales, o en las que el Estado tenga participación por aporte de capital.
+
+#### Artículo 23
+
+quinquies.- Quedarán inhabilitados para desempeñar el cargo de gobernador regional:
+
+a) Los gobernadores regionales respecto de los cuales se configure una de las situaciones descritas en la letra e) del artículo 23 ter.
+
+b) Los gobernadores regionales que actúen como abogados o mandatarios en cualquier clase de juicio contra el respectivo gobierno regional.
+
+#### Artículo 23
+
+sexies.- El gobernador regional cesará en el ejercicio de su cargo por las siguientes causales:
+
+a) Pérdida de la calidad de ciudadano.
+
+b) Incapacidad psíquica o física para el desempeño del cargo.
+
+c) Incurrir en una contravención grave al principio de la probidad administrativa, en notable abandono de deberes o en alguna de las incompatibilidades previstas en los artículos 23 quáter y 23 quinquies.
+
+d) Renuncia por motivos justificados aceptada por el consejo regional. Sin embargo, la renuncia que fuere motivada por la postulación a otro cargo de elección popular no requerirá de acuerdo alguno.
+
+e) Inhabilidad sobreviniente por alguna de las causales previstas en el artículo 23 ter.
+
+f) Ser declarado culpable en virtud del procedimiento de acusación constitucional, en conformidad a lo dispuesto en los artículos 52 y 53 de la Constitución Política de la República.
+
+g) Haber infringido gravemente las normas sobre transparencia, límites y control del gasto electoral, conforme lo dispone el artículo 28 bis de la ley N° 19.884.
+
+La causal establecida en la letra a) será declarada por el Tribunal Calificador de Elecciones, una vez verificada la existencia de alguna de las circunstancias que contempla el artículo 17 de la Constitución Política de la República. Se otorgará acción pública para sustanciar este procedimiento.
+
+Las causales establecidas en las letras b) y e) serán declaradas por el mismo tribunal, a requerimiento de a lo menos un tercio del consejo regional respectivo. El gobernador regional que estime estar afectado por alguna causal de inhabilidad deberá darla a conocer al consejo regional tan pronto tenga conocimiento de ella.
+
+La causal establecida en la letra c) será declarada por el Tribunal Calificador de Elecciones, a requerimiento de, a lo menos, un tercio de los consejeros regionales en ejercicio, observándose el procedimiento establecido en los artículos 17 y siguientes de la ley Nº 18.593, de los tribunales electorales regionales, para lo cual no se requerirá patrocinio de abogado.
+
+En el requerimiento, los consejeros regionales podrán pedir al Tribunal Calificador de Elecciones la cesación en el cargo o, en subsidio, la aplicación de alguna de las medidas disciplinarias dispuestas en la ley Nº 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda.
+
+El Tribunal Calificador de Elecciones adoptará las medidas necesarias para acumular los respectivos antecedentes, a fin de evitar un doble pronunciamiento sobre una misma materia.
+
+La cesación en el cargo de gobernador regional, tratándose de las causales contempladas en las letras a), b), c) y e) operará sólo una vez ejecutoriada la resolución que las declare. Sin perjuicio de ello, en el caso de notable abandono de deberes o contravención grave a las normas sobre probidad administrativa, el gobernador regional quedará suspendido en el cargo tan pronto le sea notificada la sentencia de primera instancia que acoja el requerimiento. En tal caso se aplicará lo dispuesto en el inciso cuarto del artículo 23 septies. En el evento de quedar firme dicha resolución, el afectado estará inhabilitado para ejercer cualquier cargo público por el término de cinco años.
+
+Se considerará que existe notable abandono de deberes cuando el gobernador regional transgrediere, inexcusablemente y de manera manifiesta o reiterada, las obligaciones que le imponen la Constitución Política de la República y las demás normas que regulan el funcionamiento del gobierno regional, y en aquellos casos en que una acción u omisión, que le sea imputable, cause grave detrimento al patrimonio del gobierno regional, o afecte gravemente la actividad de éste destinada a dar satisfacción a las necesidades básicas de la comunidad regional.
+
+La causal establecida en la letra g) será declarada por el Tribunal Calificador de Elecciones, conforme lo establece el artículo 28 bis de la ley N° 19.884, a requerimiento del Consejo Directivo del Servicio Electoral, conforme lo dispone el artículo 125 de la Constitución Política de la República.
+
+#### Artículo 23
+
+septies.- El gobernador regional, en caso de ausencia o incapacidad temporal, deberá ser reemplazado conforme a los incisos siguientes.
+
+En caso de ausencia o impedimento no superior a cuarenta y cinco días, será subrogado en sus funciones administrativas por el funcionario en ejercicio que le siga en orden de jerarquía dentro del gobierno regional. Sin embargo, previa consulta al consejo regional, el gobernador regional podrá designar como subrogante a un funcionario que no corresponda a dicho orden. No obstante, si la ausencia o impedimento obedeciere a razones médicas o de salud que imposibiliten temporalmente el ejercicio del cargo, la subrogación se extenderá hasta ciento treinta días.
+
+La subrogación comprenderá, también, la representación judicial y extrajudicial del gobierno regional y el derecho a asistir a sus sesiones sólo con derecho a voz, con excepción de la representación protocolar. Mientras proceda la subrogación, la presidencia del consejo regional la ejercerá el consejero regional presente que haya obtenido mayor votación ciudadana en la elección de consejeros regionales respectiva, salvo cuando se verifique lo dispuesto en el inciso cuarto del artículo 84.
+
+El consejero regional que presida durante la subrogación, además, representará protocolarmente al gobierno regional, y convocará al consejo regional.
+
+Cuando el gobernador regional se encuentre afecto a una incapacidad temporal superior a cuarenta y cinco días, salvo en la situación prevista en la oración final del inciso segundo, el consejo regional designará de entre sus miembros un gobernador regional suplente, mediante acuerdo adoptado por la mayoría absoluta de los consejeros regionales en ejercicio y en sesión especialmente convocada al efecto, aplicando, en lo pertinente, el procedimiento de elección establecido en el artículo siguiente.
+
+#### Artículo 23
+
+octies.- En caso de vacancia del cargo de gobernador regional, el consejo regional procederá a elegir un nuevo gobernador regional que complete el período, de entre sus propios miembros y por mayoría absoluta de los consejeros regionales en ejercicio, en sesión especialmente convocada al efecto. De no reunir ninguno de ellos dicha mayoría, se repetirá la votación, circunscrita sólo a los dos consejeros regionales que hubieren obtenido las dos más altas mayorías relativas. En caso de no lograrse nuevamente la mayoría absoluta en esta segunda votación, o produciéndose empate, será considerado gobernador regional aquél de los dos consejeros regionales que hubiere obtenido mayor número de sufragios en la elección respectiva. El mismo mecanismo se aplicará para resolver los empates en la determinación de las mayorías relativas en la primera votación.
+
+La elección se efectuará en una única sesión extraordinaria que se celebrará dentro de los diez días siguientes a la fecha en que se hubiere producido la vacante. El secretario ejecutivo del consejo regional citará al efecto a este órgano con tres días de anticipación a lo menos. El nuevo gobernador regional así elegido permanecerá en el cargo por el tiempo que faltare para completar el respectivo período, pudiendo ser reelegido.
+
+Mientras no sea elegido el nuevo gobernador regional, regirá lo dispuesto en el artículo anterior.
+
+En caso que dicha sesión no pudiere realizarse en la fecha convocada, el secretario ejecutivo citará a una nueva, la que deberá celebrarse dentro de los diez días siguientes a la fracasada, en idénticas condiciones que ésta.
+
+Si la segunda sesión nuevamente no pudiere realizarse en la fecha convocada, el secretario ejecutivo citará a una nueva, la que deberá celebrarse dentro de los diez días siguientes a la anterior. Esta nueva sesión extraordinaria, destinada a elegir gobernador regional, se celebrará con el o los consejeros regionales que asistan y resultará elegido gobernador regional aquel consejero regional que obtenga la mayor cantidad de votos. En caso de empate, será considerado gobernador regional aquél de los consejeros regionales igualados que hubiere obtenido mayor número de sufragios en la elección respectiva.
+
+Si la tercera sesión extraordinaria convocada tampoco pudiere realizarse, asumirá como gobernador regional aquel consejero regional en ejercicio que hubiere obtenido el mayor número de sufragios en la elección correspondiente.
 
 #### Artículo 24
 
@@ -558,11 +672,13 @@ w) Ejercer las demás atribuciones que la ley le confiera.
 
 El consejo regional podrá aprobar, modificar o sustituir las propuestas que les presente el gobernador regional para efectos de ejercer las atribuciones señaladas en las letras b), d), e) y s) del artículo anterior, y su pronunciamiento deberá emitirse dentro del plazo de treinta días, contado desde la fecha en que sea convocado para tales efectos.
 
-Si el intendente desaprobare las modificaciones introducidas por el consejo a los proyectos y proposiciones referidos en el inciso anterior, así como a los proyectos de reglamentos a que se refiere la letra g) del artículo precedente, podrá deducir las observaciones que estime pertinentes dentro del término de diez días, acompañando los elementos de juicio que las fundamenten. Transcurrido este plazo sin que se formulen dichas observaciones, regirá lo sancionado por el consejo. En caso contrario, el consejo sólo podrá desecharlas con el voto conforme de la mayoría absoluta más uno de sus miembros en ejercicio.
+Si el gobernador regional desaprobare las modificaciones introducidas por el consejo a los proyectos y proposiciones referidos en el inciso anterior, así como a los proyectos de reglamentos a que se refiere la letra g) del artículo precedente, podrá deducir las observaciones que estime pertinentes dentro del término de diez días, acompañando los elementos de juicio que las fundamenten. Transcurrido este plazo sin que se formulen dichas observaciones, regirá lo sancionado por el consejo. En caso contrario, el consejo sólo podrá desecharlas con el voto conforme de la mayoría absoluta más uno de sus miembros en ejercicio.
 
 #### Artículo 26
 
-El intendente, a lo . menos una vez al año, dará cuenta al consejo de su gestión como ejecutivo del gobierno regional, a la que deberá acompañar el balance de la ejecución presupuestaria y el estado de situación financiera. La cuenta pública, el balance de ejecución presupuestaria y el estado de situación financiera deberán ser publicados en la página web del correspondiente gobierno regional o de la Subsecretaría de Desarrollo Regional y Administrativo.
+El gobernador regional, en el mes de mayo de cada año, dará cuenta al consejo regional de su gestión como ejecutivo del gobierno regional, a la que deberá acompañar el balance de la ejecución presupuestaria y el estado de situación financiera. La cuenta pública, el balance de ejecución presupuestaria y el estado de situación financiera deberán ser publicados en en la página web del correspondiente gobierno regional.
+
+El incumplimiento de lo establecido en este artículo será considerado causal de notable abandono de sus deberes por parte del gobernador regional.
 
 #### Artículo 27
 
@@ -604,7 +720,7 @@ c) Si la suma de consejeros que le corresponda a una circunscripción provincial
 
 - **b)** anterior, considerando sólo al resto de las circunscripciones provinciales y los cargos de consejeros que queden por asignar.
 
-Para efectos de lo dispuesto en este artículo, el Director del Servicio Electoral determinará, a lo menos siete meses antes de la fecha de la elección respectiva, el número total de consejeros regionales a elegir en cada región, así como el que corresponda a cada circunscripción provincial, para lo cual considerará la población de habitantes consignada en el último censo nacional oficial. La resolución del Director del Servicio Electoral deberá ser publicada en el Diario Oficial, dentro de los diez días siguientes de su dictación. Cualquier consejero regional en ejercicio o partido político podrá reclamar de dicha resolución, ante el Tribunal Electoral Regional correspondiente, dentro de los diez días siguientes a su publicación en el Diario Oficial.
+Para efectos de lo dispuesto en este artículo, el Director del Servicio Electoral determinará, a lo menos siete meses antes de la fecha de la elección respectiva, el número total de consejeros regionales a elegir en cada región, así como el que corresponda a cada circunscripción provincial, para lo cual considerará la población de habitantes consignada en el último censo nacional oficial. La resolución del Director del Servicio Electoral deberá ser publicada en el sitio electrónico del Servicio Electoral, dentro de los diez días siguientes de su dictación. Cualquier consejero regional en ejercicio o partido político podrá reclamar de dicha resolución, ante el Tribunal Electoral Regional correspondiente, dentro de los diez días siguientes a su publicación en el sitio electrónico del Servicio Electoral.
 
 El Tribunal deberá emitir su fallo dentro del plazo de quince días. Este fallo será apelable ante el Tribunal Calificador de Elecciones, de conformidad al plazo y procedimiento previstos en el artículo 59 de la ley Nº 18.603.
 
@@ -796,11 +912,11 @@ No podrá ser consejero regional el que tuviere dependencia de sustancias o drog
 
 #### Artículo 32
 
-No podrán ser consejeros regionales:
+No podrán ser candidatos a consejeros regionales:
 
 a) Los senadores y diputados;
 
-b) Los ministros de Estado, los subsecretarios, los intendentes, los gobernadores, los alcaldes, los concejales y los funcionarios públicos de la exclusiva confianza del Presidente de la República o del Intendente respectivo;
+b) Los ministros de Estado, los subsecretarios, los delegados presidenciales regionales, los delegados presidenciales provinciales, los alcaldes, los concejales y los funcionarios públicos de la exclusiva confianza del Presidente de la República o del delegado presidencial regional respectivo;
 
 c) Los funcionarios de la Contraloría General de la República y los miembros del Consejo del Banco Central;
 
@@ -812,9 +928,15 @@ Igual prohibición regirá respecto de los directores, administradores, represen
 
 Tampoco podrán ser consejeros regionales las personas que se hallen condenadas por crimen o simple delito.
 
+Las inhabilidades establecidas en las letras a), b), c) y d) serán aplicables a quienes hubieren tenido las calidades o cargos antes mencionados dentro del año inmediatamente anterior a la elección de consejeros regionales.
+
 #### Artículo 33
 
-El cargo de consejero regional será incompatible con los de alcalde y de concejal y con el de miembro de los consejos económicos y sociales provinciales y comunales.
+El cargo de consejero regional será incompatible con los de gobernador regional, de alcalde y de concejal y con el de miembro de los consejos comunales de la sociedad civil.
+
+Las inhabilidades establecidas en las letras a), b), c) y d) del artículo anterior serán aplicables a quienes hubieren tenido las calidades o cargos antes mencionados dentro del año inmediatamente anterior a la elección de consejeros regionales.
+
+No podrán desempeñar el cargo de consejero regional aquellos que tengan, respecto del gobernador regional del mismo gobierno regional, la calidad de cónyuge, conviviente civil, hijo, adoptado o pariente hasta el segundo grado de consanguinidad o de afinidad.
 
 Será incompatible, también, con el desempeño de las funciones públicas señaladas en las letras a), b), c) y d) del artículo anterior, con los de los secretarios ministeriales y los de directores de servicios regionales, y con todo otro empleo, función o comisión en el mismo gobierno regional o con cargos en las plantas directivas de las municipalidades.
 
@@ -858,7 +980,7 @@ El consejo regional deberá pronunciarse dentro del plazo de noventa días, cont
 
 c bis) Aprobar los planes de inversiones en infraestructura de movilidad y espacio público asociados al o a los planes reguladores metropolitanos o intercomunales de la región, los que serán elaborados por las secretarías regionales ministeriales de Vivienda y Urbanismo y de Transportes y Telecomunicaciones, previa consulta a las municipalidades respectivas, conforme a lo dispuesto en la Ley General de Urbanismo y Construcciones. Antes de la aprobación del consejo, se requerirá la conformidad de la mayoría absoluta de los alcaldes de las municipalidades correspondientes. El consejo regional deberá pronunciarse dentro del plazo de sesenta días, contado desde su recepción, transcurrido el cual se entenderá aprobado;
 
-d) Aprobar, modificar o sustituir el plan de desarrollo de la región y el proyecto de presupuesto regional, así como sus respectivas modificaciones, sobre la base de la proposición del intendente;
+d) Aprobar, modificar o sustituir el plan de desarrollo de la región y el proyecto de presupuesto regional, así como sus respectivas modificaciones, sobre la base de la proposición del gobernador regional;
 
 e) Distribuir por ítems o marcos presupuestarios, sobre la base de la proposición del gobernador regional, los recursos del o los programas de inversión del gobierno regional que correspondan a la región, conforme al artículo 73 de esta ley y los recursos de los programas de inversión sectorial de asignación regional. Cada ítem o marco presupuestario se aprobará con la respectiva descripción de directrices, prioridades y condiciones en que debe ejecutarse, en la que se establecerá, entre otros, los criterios objetivos para la asignación de los recursos.
 
@@ -895,6 +1017,12 @@ Las atribuciones a que se refieren los literales b), c), c bis), d), e), f), l),
 El consejo regional deberá pronunciarse sobre las materias que sean sometidas a su consideración o decisión dentro de los treinta días siguientes a la presentación realizada por el gobernador regional, salvo que la ley establezca expresamente un plazo distinto.
 
 Si el consejo regional no se pronunciare dentro de los plazos establecidos, regirá lo propuesto por el gobernador regional.
+
+> **Nota.** NOTA 1 La letra a) del N° 28 del Art. 1 de la Ley 21073, publicada el 22.02.2018, dispuso el reemplazo de la palabra "intendente" por la expresión "gobernador regional" en las letras d), e) y f) del presente artículo. Sin embargo, el señalado cambio no fue posible efectuarlo en las letras e) y f), por cuanto sus textos fueron reemplazados conforme a lo establecido por la letra b) del N° 17 del Art. 1° de la Ley 21074, publicada el 15.02.2018.
+
+> **Nota.** NOTA 2 La numerales i y ii de la letra b) del N° 28 del Art. 1 de la Ley 21073, publicada el 22.02.2018, disponen la sustitución en la letra g) del presente artículo de las expresiones "intendente regional en su calidad de órgano ejecutivo del mismo" por "gobernador regional", e "intendente" por "gobernador regional", respectivamente. Sin embargo, al momento de su publicación, las frases a sustituir ya no existían en el texto, por cuanto la letra g) fue reemplazada conforme a lo establecido por la letra b) del N° 17 del Art. 1° de la Ley 21074, publicada el 15.02.2018.
+
+> **Nota.** NOTA 3 La letra c) del N° 28 del Art. 1 de la Ley 21073, publicada el 22.02.2018, dispuso el reemplazo de la palabra "intendente" por la expresión "gobernador regional" en la letra h) del presente artículo. Sin embargo, el señalado cambio ya había efectuado en conformidad con la letra d) del N° 17 del Art. 1° de la Ley 21074, publicada el 15.02.2018, disposición que adicionalmente establece que la letra h) pase a ser letra j).
 
 #### Artículo 36 bis
 
@@ -970,13 +1098,17 @@ c) Inasistencia injustificada a más del cincuenta por ciento de las sesiones ce
 
 d) Pérdida de alguno de los requisitos exigidos para ser elegido consejero o incurrir en alguna de las causales de inhabilidad sobreviviente establecidas en esta ley. Sin embargo, la suspensión del derecho a sufragio sólo dará lugar a la incapacitación temporal para el desempeño del cargo;
 
-e) Incurrir en alguna de las incompatibilidades previstas en esta ley o en una contravención grave al principio de la probidad administrativa regulado por la Ley Nº 18.575, y
+e) Incurrir en alguna de las incompatibilidades previstas en esta ley o en una contravención grave al principio de la probidad administrativa regulado por la Ley Nº 18.575;
 
-f) Actuar como agente en gestiones particulares de carácter administrativo, en la provisión de empleos públicos, consejerías, funciones o comisiones de similar naturaleza, sea que el consejero actúe por sí o por interpósita persona, natural o jurídica, o por medio de una sociedad de personas de la que forme parte.
+f) Actuar como agente en gestiones particulares de carácter administrativo, en la provisión de empleos públicos, consejerías, funciones o comisiones de similar naturaleza, sea que el consejero actúe por sí o por interpósita persona, natural o jurídica, o por medio de una sociedad de personas de la que forme parte, y
+
+g) Haber infringido gravemente las normas sobre transparencia, límites y control del gasto electoral, conforme lo disponen el artículo 125 de la Constitución Política de la República y el artículo 28 bis de la ley N° 19.884.
 
 #### Artículo 41
 
 Las causales del artículo anterior, con excepción de la establecida en la letra b), serán declaradas por el Tribunal Electoral Regional respectivo, a requerimiento de cualquier miembro del consejo. El Tribunal Electoral Regional conocerá estas materias conforme al procedimiento de la Ley N° 18.593. La cesación en el cargo operará una vez ejecutoriada la sentencia que declare la existencia de la causal.
+
+La causal establecida en la letra g) será declarada por el Tribunal Calificador de Elecciones, conforme lo establece el artículo 34 de la ley N° 19.884, a requerimiento del Consejo Directivo del Servicio Electoral.
 
 Quien cesare en el cargo de consejero regional por las causales señaladas en los literales
 
@@ -1156,9 +1288,7 @@ h) Ejercer las atribuciones que se les deleguen por los ministros respectivos.
 
 #### Artículo 65
 
-Habrá un gabinete regional, órgano auxiliar del intendente, integrado por los gobernadores y los secretarios regionales ministeriales.
-
-El intendente podrá disponer que integren, además, este gabinete o que concurran a él en calidad de invitados, jefes regionales de organismos de la Administración del Estado. Integrará también el gabinete regional, por derecho propio, el respectivo director regional del Servicio Nacional de la Mujer.
+Habrá un órgano auxiliar del delegado presidencial regional, integrado por los delegados presidenciales provinciales y los secretarios regionales ministeriales. El delegado presidencial regional podrá disponer que también integren este órgano o que concurran a él en calidad de invitados, jefes regionales de organismos de la Administración del Estado.
 
 #### Artículo 66
 
@@ -1175,12 +1305,6 @@ Cada secretaría regional ministerial estará a cargo de un secretario regional 
 Un secretario regional ministerial podrá estar a cargo de más de una secretaría regional ministerial en una misma región, teniendo para todos los efectos legales y reglamentarios la calidad de funcionario del ministerio en que primeramente fue designado. No obstante, si la designación en dichos cargos fuese simultánea, la dependencia del funcionario deberá ser establecida en el instrumento que disponga su nombramiento. No serán aplicables en estos casos las normas de incompatibilidad a que se refiere el artículo 86 de la Ley Nº 18.834, sobre Estatuto Administrativo, y para los efectos de los beneficios que exijan el desempeño de 44 horas semanales, se considerará la suma de las horas semanales trabajadas en todas las secretarías regionales ministeriales a su cargo.
 
 Los secretarios regionales ministeriales serán nombrados por el Presidente de la República de entre las personas que figuren en una terna elaborada por el intendente respectivo, y oyendo al efecto al ministro del ramo.
-
-#### Artículo 65
-
-Habrá un gabinete regional, órgano auxiliar del intendente, integrado por los gobernadores y los secretarios regionales ministeriales.
-
-El intendente podrá disponer que integren, además, este gabinete o que concurran a él en calidad de invitados, jefes regionales de organismos de la Administración del Estado. Integrará también el gabinete regional, por derecho propio, el respectivo director regional del Servicio Nacional de la Mujer.
 
 #### Artículo 66
 
@@ -1209,6 +1333,8 @@ f) Una División de Desarrollo Social y Humano, encargada de proponer, promover 
 Estas tres últimas divisiones deberán coordinar el accionar de los servicios públicos regionales que dependan o se relacionen con el gobierno regional.
 
 Los jefes de división serán de exclusiva confianza del gobernador regional y requerirán contar con un grado académico o título profesional de, a lo menos, ocho semestres, otorgado por un establecimiento de educación superior del Estado o reconocido por éste, y un mínimo de cinco años de experiencia profesional, rigiendo respecto de éstos las normas funcionarias aplicables al personal de servicios administrativos del gobierno regional.
+
+> **Nota.** El N° 36 del Art. 1 de la Ley 21073, publicada el 22.02.2018, dispuso la sustitución en el presente artículo del vocablo "intendente" por la expresión "gobernador regional". Sin embargo la frase a sustituir no existe en este texto, por cuanto fue reemplazada previamente por la Ley 21074, publicada el 15.02.2018, por lo que no se pudo efectuar la modificación.
 
 #### Artículo 68 bis
 
@@ -1254,14 +1380,6 @@ A dicho cargo sólo podrán postular profesionales del área de la auditoría, o
 
 El jefe de la unidad de control deberá dar cuenta al consejo regional, trimestralmente, sobre el cumplimiento de sus funciones. Una vez hecha dicha presentación al consejo, ésta deberá ser publicada por el gobierno regional en su correspondiente sitio electrónico.
 
-#### Artículo 68
-
-El intendente, para el cumplimiento de las funciones que la presente Ley le asigna como ejecutivo del gobierno regional, contará con la siguiente estructura administrativa, que le estará directamente adscrita:
-
-a) Una división de administración y finanzas, encargada de la gestión administrativa y financiera, de la formulación y ejecución del presupuesto y de la provisión de los servicios generales del gobierno regional, y
-
-b) Una división de análisis y control de gestión, que colaborará en la elaboración del proyecto de presupuesto en lo relativo a la inversión del gobierno regional y en su seguimiento y control.
-
 ## Capítulo V
 
 Del Patrimonio y del Sistema Presupuestario Regionales
@@ -1300,17 +1418,17 @@ b) La adquisición del dominio de los bienes raíces estará sujeta a las normas
 
 c) Los bienes inmuebles sólo podrán ser enajenados, gravados, entregados en comodato o arrendados, en caso de necesidad o utilidad manifiesta. El procedimiento que se seguirá para la enajenación será el remate o la licitación pública, cuyo valor mínimo no será inferior al avalúo fiscal y sólo podrá ser rebajado con acuerdo del consejo regional; todo ello en conformidad a lo dispuesto en la letra h) del artículo 36;
 
-d) La disposición de los bienes muebles dados de baja se efectuará mediante remate público. No obstante, en casos calificados, el intendente podrá, con acuerdo de los dos tercios del consejo regional, donar tales bienes o darlos en comodato a instituciones publicas o privadas sin fines de lucro que operen en la región;
+d) La disposición de los bienes muebles dados de baja se efectuará mediante remate público. No obstante, en casos calificados, el gobernador regional podrá, con acuerdo de los dos tercios del consejo regional, donar tales bienes o darlos en comodato a instituciones publicas o privadas sin fines de lucro que operen en la región;
 
 e) Sus bienes podrán ser objeto de permisos y concesiones de administración, en conformidad a lo dispuesto en el Decreto Ley N° 1939, de 1977. Los permisos serán esencialmente precarios y podrán ser modificados o dejados sin efecto, sin indemnización. Las concesiones darán derecho al uso preferente del bien concedido, en las condiciones que fije el gobierno regional. Sin embargo, éste podrá darles término en cualquier momento, cuando sobrevenga un menoscabo o detrimento grave al uso común o cuando concurran otras razones de interés público. El concesionario tendrá derecho a indemnización en caso de término anticipado de la concesión, salvo que éste se haya producido por incumplimiento de sus obligaciones.
 
 Las concesiones se otorgarán previa licitación pública, salvo que las prestaciones o derechos que deba pagar el concesionario sean de un valor inferior a cien unidades tributarias mensuales, en cuyo caso se podrá llamar a propuesta privada. En este último evento si no se presentan interesados se podrá proceder por contratación directa;
 
-f) El dominio de los bienes inventariables, muebles o inmuebles, que se adquieran o construyan con recursos del Fondo Nacional de Desarrollo Regional, se entenderá transferido a las entidades encargadas de su administración o de la prestación del servicio correspondiente, en los términos del convenio respectivo, sean públicas o privadas sin fines de lucro, que atiendan servicios de utilidad pública, desde el momento en que estos bienes sean asignados por el intendente a dichas entidades.
+f) El dominio de los bienes inventariables, muebles o inmuebles, que se adquieran o construyan con recursos del Fondo Nacional de Desarrollo Regional, se entenderá transferido a las entidades encargadas de su administración o de la prestación del servicio correspondiente, en los términos del convenio respectivo, sean públicas o privadas sin fines de lucro, que atiendan servicios de utilidad pública, desde el momento en que estos bienes sean asignados por el gobernador regional a dichas entidades.
 
-Esta transferencia deberá formalizarse mediante resolución del intendente, que se expedirá en un plazo no superior a noventa días, contado a partir de la fecha de recepción material de los bienes adquiridos o del acta de recepción definitiva emitida por la unidad técnica correspondiente, la que deberá reducirse a escritura pública. Las inscripciones y anotaciones que procedan se efectuarán con el solo mérito de copia autorizada de dicha escritura.
+Esta transferencia deberá formalizarse mediante resolución del gobernador regional, que se expedirá en un plazo no superior a noventa días, contado a partir de la fecha de recepción material de los bienes adquiridos o del acta de recepción definitiva emitida por la unidad técnica correspondiente, la que deberá reducirse a escritura pública. Las inscripciones y anotaciones que procedan se efectuarán con el solo mérito de copia autorizada de dicha escritura.
 
-Tratándose de inmuebles cuya transferencia se disponga a instituciones privadas sin fines de lucro, ella estará sujeta a la condición de destinar el bien a la atención del respectivo servicio de utilidad pública. En caso de no cumplirse con dicha condición o disolverse la entidad, previo acuerdo del consejo y mediante resolución fundada del intendente, tales bienes revertirán al dominio del gobierno regional, quien deberá transferirlos a otra institución pública o privada. La institución privada beneficiada estará afecta a la prohibición de gravar y enajenar dicho bien, el que, además, será inembargable.
+Tratándose de inmuebles cuya transferencia se disponga a instituciones privadas sin fines de lucro, ella estará sujeta a la condición de destinar el bien a la atención del respectivo servicio de utilidad pública. En caso de no cumplirse con dicha condición o disolverse la entidad, previo acuerdo del consejo y mediante resolución fundada del gobernador regional, tales bienes revertirán al dominio del gobierno regional, quien deberá transferirlos a otra institución pública o privada. La institución privada beneficiada estará afecta a la prohibición de gravar y enajenar dicho bien, el que, además, será inembargable.
 
 Las inscripciones y anotaciones que procedan se efectuarán con el solo mérito de copia autorizada de la escritura pública a que se reduzca la respectiva resolución y los trámites a que ello dé lugar estarán exentos de todo derecho o arancel;
 
@@ -1331,6 +1449,8 @@ El anteproyecto regional de inversiones comprenderá una estimación de la inver
 Una vez elaborado el anteproyecto señalado, y previa aprobación por parte del consejo según lo dispuesto en la letra n) del artículo 36 de la presente ley, éste será enviado a los ministerios respectivos, con el objeto que sea considerado al momento de la formulación de sus correspondientes proyectos de presupuesto.
 
 En el caso de existir diferencias entre el gobierno regional y algún ministerio en la formulación de los respectivos proyectos de presupuesto, éstas deberán ser resueltas en la etapa de evaluación y discusión a que se hace mención en el artículo 73 de esta Ley.
+
+> **Nota.** El N° 38 del Art. 1 de la Ley 21073, publicada el 22.02.2018, dispuso la sustitución en el presente artículo del vocablo "intendente" por la expresión "gobernador regional". Sin embargo la palabra a sustituir no existe en este texto, por cuanto fue reemplazada por la Ley 21074, publicada el 15.02.2018, por lo que no se pudo efectuar la modificación.
 
 #### Artículo 72
 
@@ -1434,63 +1554,45 @@ En el caso que el gobierno regional recurra a algún organismo del Estado para q
 
 ## Capítulo VI
 
-DE LA ELECCIÓN DEL CONSEJO REGIONAL
+De la elección del Gobernador Regional
+
+y del Consejo Regional
 
 #### Artículo 82
 
-Para las elecciones de consejeros regionales, en todo lo que no sea contrario a esta ley, regirán las disposiciones de la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios, de la Ley Orgánica Constitucional de los Partidos Políticos y de la Ley Orgánica Constitucional sobre Sistema de Inscripciones Electorales y Servicio Electoral.
+Para las elecciones de gobernadores regionales y de consejeros regionales, en todo lo que no sea contrario a esta ley, regirán las disposiciones de la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios, de la Ley Orgánica Constitucional de los Partidos Políticos y de la Ley Orgánica Constitucional sobre Sistema de Inscripciones Electorales y Servicio Electoral.
 
 #### Artículo 83
 
-Las elecciones de consejeros regionales se efectuarán cada cuatro años, conjuntamente con las elecciones parlamentarias.
+Las elecciones de gobernadores regionales y de consejeros regionales se efectuarán cada cuatro años, conjuntamente con las elecciones municipales.
 
 ### Párrafo 1º
 
 De la presentación de candidaturas
 
-#### Artículo 82
-
-El consejo regional será elegido por los concejales municipales de la región, constituidos para estos efectos en colegio electoral por cada una de las provincias de la misma.
-
-El Presidente del Tribunal Electoral Regional confeccionará la nómina de los concejales en ejercicio y la remitirá al presidente de la mesa del colegio electoral provincial correspondiente.
-
-Diez días antes de la fecha en que deba constituirse el colegio, el respectivo Tribunal Electoral Regional designará de entre los concejales de la provincia, por sorteo, a los miembros de la mesa que dirigirá la elección y a sus suplentes. Esta designación será notificada por carta certificada.
-
-Dichos miembros de la mesa elegirán, de entre ellos, un presidente, un secretario y un vocal y a sus respectivos suplentes. Asimismo, determinará, dentro de la capital provincial, el local en que se instalará el colegio electoral.
-
-#### Artículo 83
-
-Las candidaturas a consejeros regionales sólo podrán ser declaradas hasta las veinticuatro horas del octavo día anterior a la fecha en que deba reunirse el colegio electoral, ante el respectivo director regional del Servicio Electoral.
-
-Cada candidatura deberá ser presentada por a lo menos dos concejales de la respectiva provincia.
-
-Dicha presentación deberá acompañarse de una declaración jurada ante un notario público de cualquiera de las comunas de la provincia o, en su defecto, ante el oficial del registro civil de la respectiva comuna, hecha por los candidatos a consejeros regionales titular y reemplazante que se incluyan en la misma propuesta, por la que éstos declaren su voluntad de ser candidatos y el cumplimiento de los requisitos establecidos en los artículos 31 y 32. Un mismo concejal no podrá patrocinar más de dos candidaturas, las que en todo caso deberán incluir un candidato a consejero titular y otro en calidad de reemplazante.
-
-No obstante lo dispuesto en el inciso anterior, cualquier ciudadano que reúna los requisitos para postular podrá declarar su propia candidatura si cuenta para ello con el patrocinio de un número no inferior al 0,5% de los ciudadanos con derecho a sufragio que hubieren sufragado en la respectiva provincia en la última elección municipal. La determinación del número mínimo de patrocinantes la hará el director del Servicio Electoral mediante resolución que se publicará en el Diario Oficial con 45 días de anticipación, a lo menos, del término del periodo de los anteriores consejeros regionales.
-
-Las declaraciones de candidaturas a que se refiere este artículo podrán hacerse personalmente o por medio de mandatario cuya personería conste en escritura pública, o en atestado suscrito ante el oficial del registro civil de la respectiva comuna, si no hubiere notario.
-
 #### Artículo 84
 
-Las candidaturas a consejeros regionales sólo podrán ser declaradas ante el Director del Servicio Electoral o el respectivo Director Regional del mismo Servicio, hasta las veinticuatro horas del nonagésimo día anterior a la fecha de la elección correspondiente.
+Las candidaturas a gobernador regional y a consejeros regionales sólo podrán ser declaradas ante el Director del Servicio Electoral o el respectivo Director Regional del mismo Servicio, hasta las veinticuatro horas del nonagésimo día anterior a la fecha de la elección correspondiente.
 
-Las declaraciones sólo podrán incluir hasta tantos candidatos como cargos corresponda elegir en la respectiva circunscripción provincial. Una misma persona sólo podrá postular a un cargo de consejero regional en una circunscripción provincial.
+Las declaraciones sólo podrán incluir hasta tantos candidatos como cargos corresponda elegir en la respectiva región o circunscripción provincial. Una misma persona sólo podrá postular a un cargo de consejero regional en una circunscripción provincial.
 
-Los candidatos a consejeros regionales no podrán postular al mismo tiempo como candidatos a los cargos de Presidente de la República, senador o diputado en las elecciones que se realizan conjuntamente.
+Los candidatos a gobernador regional no podrán postular al mismo tiempo como candidatos a los cargos de Presidente de la República, senador, diputado, alcalde, concejal o consejero regional en las elecciones que se realizan conjuntamente. Los candidatos a consejeros regionales no podrán postular al mismo tiempo como candidatos a los cargos de Presidente de la República, senador, diputado, alcalde, concejal o gobernador regional en las elecciones que se realizan conjuntamente.
 
-Cada declaración de candidatura deberá ser acompañada por una declaración jurada del candidato, en la cual señalará cumplir con los requisitos legales y constitucionales para ser candidato y no estar afecto a inhabilidades y prohibiciones. La circunstancia de no encontrarse afecto a las prohibiciones señaladas en las letras b), c),
+Cada declaración de candidatura a gobernador regional deberá ser acompañada por una declaración jurada del candidato, en la que señalará cumplir con los requisitos constitucionales y legales para ser candidato y no estar afecto a las inhabilidades señaladas en el artículo 23 ter. Esta declaración jurada será hecha ante notario público o ante oficial del Registro Civil. La falsedad u omisión de cualquiera de los hechos aseverados en esta declaración producirá su nulidad, y la de todos los efectos legales posteriores, incluida la elección del candidato. Además, la declaración de candidatura deberá consignar los nombres, cédula de identidad y domicilio del Administrador Electoral y del Administrador Electoral General, en su caso. En el caso de que un gobernador regional postulare a su reelección conforme con lo dispuesto en el artículo 111 de la Constitución Política de la República, o a su elección como consejero regional en la región donde desempeña su cargo, se procederá a su subrogación en conformidad con el inciso segundo del artículo 23 septies, desde los treinta días anteriores a la fecha de la elección y hasta el día siguiente de ella. En todo caso, durante el período señalado el gobernador regional conservará su remuneración y la atribución de participar en las sesiones del consejo regional con derecho a voz. Sin embargo, la presidencia del consejo regional sólo podrá ejercerla un consejero regional que no estuviere repostulando a dicho cargo o postulando al cargo de gobernador regional. Si hubiere más de uno en tal situación la presidencia le corresponderá a quien haya obtenido individualmente mayor votación ciudadana en la elección respectiva. Si todos los consejeros regionales estuvieren repostulando, la presidencia se decidirá por sorteo entre ellos.
 
-- **d)** y
+Cada declaración de candidatura deberá ser acompañada por una declaración jurada del candidato a consejero regional, en la cual señalará cumplir con los requisitos legales y constitucionales para ser candidato y no estar afecto a inhabilidades y prohibiciones. La circunstancia de no encontrarse afecto a las prohibiciones señaladas en el artículo 32 deberá acreditarse al momento de declararse la respectiva candidatura. Esta declaración jurada será hecha ante notario público o ante oficial del Registro Civil. La falsedad de cualquiera de los hechos aseverados en esta declaración, o su omisión, producirán la nulidad de aquélla, así como de todos los efectos legales posteriores, incluida la elección del candidato. Además, la declaración de candidatura deberá consignar los nombres, cédula de identidad y domicilio del Administrador Electoral y Administrador Electoral General, en su caso.
 
-- **e)** del inciso primero y en el inciso final del artículo 32 deberá acreditarse al momento de declararse la respectiva candidatura. Las prohibiciones contempladas en la letra
-
-- **a)** del inciso primero y en el inciso segundo del citado artículo 32 se acreditarán al momento de asumir el cargo de consejero regional. Esta declaración jurada será hecha ante notario público o ante oficial del Registro Civil. La falsedad de cualquiera de los hechos aseverados en esta declaración, o su omisión, producirán la nulidad de aquélla, así como de todos los efectos legales posteriores, incluida la elección del candidato. Además, la declaración de candidatura deberá consignar los nombres, cédula de identidad y domicilio del Administrador Electoral y Administrador Electoral General, en su caso.
-
-Durante los treinta días anteriores a la fecha de la elección y hasta el día siguiente de ella, la presidencia del consejo regional la ejercerá un consejero que no estuviere repostulando. Si hubiere más de uno en tal situación, la presidencia le corresponderá a quien haya obtenido individualmente mayor votación en la elección respectiva. Si todos los consejeros estuvieren repostulando, la presidencia se decidirá por sorteo entre ellos.
-
-En lo demás, las declaraciones de candidaturas se regirán por lo dispuesto en los artículos 3º, con excepción de su inciso tercero; 3º bis, con excepción de su inciso tercero; 4º, incisos segundo y siguientes; y 5º de la ley N°18.700, Orgánica Constitucional sobre Votaciones Populares y Escrutinios.
+En lo demás, las declaraciones de candidaturas a gobernador regional y a consejeros regionales se regirán por lo dispuesto en los artículos 3, con excepción de su inciso tercero; 4, con excepción de sus incisos primero a quinto; 5, incisos segundo y siguientes; 6, y 8 de la ley N° 18.700, orgánica constitucional sobre Votaciones Populares y Escrutinios. En el caso de las candidaturas a gobernador regional, sea que se trate de elecciones primarias o definitivas, según corresponda, junto con la declaración de ellas, los candidatos deberán presentar un programa en el cual se indicarán las principales acciones, iniciativas y proyectos que pretenden desarrollar durante su gestión. De no hacerlo, el Servicio Electoral establecerá un plazo para que se acompañe, bajo apercibimiento de tener por no declarada la candidatura.
 
 Las declaraciones de candidaturas de consejeros regionales deberán ser presentadas por los partidos políticos o pactos electorales en un solo acto respecto de cada circunscripción provincial.
+
+Las declaraciones de candidaturas de gobernador regional deberán ser presentadas por los partidos políticos o pactos electorales en un solo acto respecto de cada región.
+
+#### Artículo 84 bis
+
+Las candidaturas a gobernador regional podrán ser declaradas por un partido político, por un pacto de partidos, por un pacto entre un partido político e independientes, por un pacto de partidos e independientes, y por independientes.
+
+Las candidaturas a gobernador regional declaradas sólo por independientes se sujetarán a los porcentajes y formalidades establecidos en los artículos 89 y 90.
 
 #### Artículo 85
 
@@ -1508,7 +1610,11 @@ Los partidos políticos que participen en un pacto electoral podrán subpactar e
 
 Los candidatos independientes que participen en un pacto electoral podrán subpactar entre ellos, con un subpacto de partidos integrantes del mismo o con un partido del pacto que no sea miembro de un subpacto de partidos. Asimismo, podrán subpactar con un partido integrante de un subpacto en la o las circunscripciones provinciales expresamente excluidas de dicho subpacto. Para los efectos señalados, como para la declaración de candidaturas, los candidatos independientes actuarán por sí o por medio de mandatario designado especialmente para ello, por escritura pública.
 
-A la formalización de un subpacto electoral le serán aplicables, en lo pertinente, las normas de los incisos cuarto y quinto del artículo 3º bis de la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios.
+A la formalización de un subpacto electoral le serán aplicables, en lo pertinente, las normas de los incisos cuarto y sexto del artículo 3º bis de la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios.
+
+Los partidos políticos e independientes que así lo prefieran podrán subscribir un pacto electoral para la elección de gobernadores y otro pacto electoral para la elección de consejeros regionales.
+
+Los pactos para la elección de consejeros regionales a que alude el inciso anterior sólo podrán ser conformados por uno o más partidos políticos o por independientes que integren un mismo pacto electoral para la elección de gobernadores regionales.
 
 > **Nota.** La referencia al artículo 97 bis de la presente ley debe entenderse hecha a su Art. 97, toda vez que la ley 20678 en su proyecto original dispuso incorporar un artículo con ese número, pero que pasó a ser 97 luego de ser reenumerado durante su tramitación parlamentaria.
 
@@ -1518,19 +1624,19 @@ Las declaraciones de pactos electorales, de los subpactos que se acuerden, así 
 
 #### Artículo 88
 
-A los pactos y subpactos se les individualizará sólo con su nombre y a cada uno de los partidos políticos suscriptores con su nombre y símbolo, indicándose, a continuación, los nombres completos de los candidatos afiliados al respectivo partido. En el caso de declaraciones de partidos políticos, éstos se individualizarán con su nombre y símbolo.
+A los pactos y subpactos se les individualizará sólo con su nombre y a cada uno de los partidos políticos suscriptores con su nombre y símbolo, indicándose, a continuación, los nombres completos del candidato a gobernador regional o, en su caso, de los candidatos a consejeros regionales afiliados al respectivo partido. En el caso de declaraciones de partidos políticos, éstos se individualizarán con su nombre y símbolo.
 
 En el caso de los independientes que forman parte de un pacto se les individualizará al final del respectivo pacto, bajo la denominación "independientes". Los independientes que, a su vez, formen parte de un subpacto, serán individualizados de la misma forma al final del respectivo subpacto.
 
 Los subpactos entre independientes y entre éstos y partidos se individualizarán como tales.
 
+Las declaraciones de candidaturas a gobernador regional y consejeros regionales de una misma lista o pacto deberán señalar expresamente el cargo al cual postulan los respectivos candidatos.
+
 #### Artículo 89
 
-Las declaraciones de candidaturas independientes deberán ser patrocinadas por un número no inferior al 0.5% de los electores que hayan sufragado en la votación popular más reciente en la circunscripción provincial respectiva.
+Las declaraciones de candidaturas independientes a gobernador regional o a consejero regional deberán ser patrocinadas por un número no inferior al 0.5% de los electores que hayan sufragado en la elección popular más reciente en la región respectiva o en la circunscripción provincial respectiva, según corresponda.
 
-En todo caso, entre los patrocinantes no se contabilizarán los correspondientes a afiliados a partidos políticos que superen el 5% del porcentaje mínimo que establece el inciso anterior.
-
-La determinación del número mínimo necesario de patrocinantes la hará el Director del Servicio Electoral, mediante resolución, que se publicará en el Diario Oficial con siete meses de anticipación, a lo menos, a la fecha en que deba realizarse la elección.
+La determinación del número mínimo necesario de patrocinantes la hará el Director del Servicio Electoral, mediante resolución, que se publicará en el sitio electrónico del Servicio Electoral con siete meses de anticipación, a lo menos, a la fecha en que deba realizarse la elección.
 
 Sin perjuicio de lo dispuesto en los incisos anteriores, los independientes que postulen integrando pactos o subpactos no requerirán de patrocinio.
 
@@ -1550,7 +1656,7 @@ De la aceptación, rechazo e inscripción de candidaturas
 
 #### Artículo 92
 
-El Director Regional del Servicio Electoral, dentro de los diez días siguientes a aquel en que venza el plazo para la declaración de candidaturas, deberá, mediante resolución que se publicará en un diario de los de mayor circulación en la región respectiva, aceptar o rechazar las que hubieren sido declaradas.
+El Director Regional del Servicio Electoral, dentro de los diez días siguientes a aquel en que venza el plazo para la declaración de candidaturas, deberá, mediante resolución que se publicará en el sitio electrónico del Servicio Electoral, aceptar o rechazar las que hubieren sido declaradas.
 
 Los partidos políticos y los candidatos independientes podrán, dentro de los cinco días siguientes a la publicación de la referida resolución, reclamar de ella ante el Tribunal Electoral Regional respectivo, el que deberá pronunciarse dentro de quinto día.
 
@@ -1560,33 +1666,13 @@ Dentro de los tres días siguientes al vencimiento del plazo para impugnar a que
 
 En todo caso, el Tribunal Electoral Regional deberá notificar sus resoluciones a los respectivos Directores Regionales del Servicio Electoral y a los patrocinantes de los reclamos, tan pronto como las pronuncie.
 
-#### Artículo 94
-
-El Tribunal Electoral Regional procederá, de norte a sur, al estudio de las elecciones de consejeros regionales reclamadas. Conociendo de las reclamaciones de nulidad, apreciará los hechos como jurado y al tenor de la influencia que, a su juicio, ellos hayan tenido en la elección. Con el mérito de los antecedentes, declarará válida o nula la elección y sentenciará conforme a derecho.
-
-Los hechos, efectos o irregularidades que no influyan en el resultado de la elección, sea que hayan ocurrido antes, durante o después de la votación en las mesas de los colegios electorales provinciales, no darán mérito para declarar su nulidad.
-
-Sin embargo, se declararán siempre nulos los actos de las mesas de los colegios electorales provinciales que no hubieren funcionado con, a lo menos, el número mínimo de miembros que señala el artículo 82 o en lugares distintos de los designados.
-
-Declarada nula una elección por el Tribunal Electoral Regional respectivo, se procederá a repetirla.
-
-#### Artículo 95
-
-La sentencia del Tribunal Electoral Regional será apelable para ante el Tribunal Calificador de Elecciones, dentro de cinco días desde la notificación del fallo.
-
-El Tribunal Calificador de Elecciones deberá resolver todas las apelaciones dentro del plazo de quince días.
-
-#### Artículo 99
-
-Si hubiere en la región respectiva más de un Tribunal Electoral Regional, tendrá competencia para conocer de todos los asuntos relacionados con esta elección aquél que determine el Tribunal Calificador de Elecciones, el que resolverá, de oficio, dentro de las 48 horas siguientes a la publicación de la resolución del Director Regional del Servicio Electoral a que se refiere el artículo 29.
-
 ### Párrafo 3º
 
 Del escrutinio en las mesas receptoras de sufragios
 
 #### Artículo 94
 
-Para los efectos del escrutinio general y de la calificación de las elecciones, contemplados en el párrafo siguiente, el secretario de la mesa receptora de sufragios remitirá al Presidente del Tribunal Electoral Regional el sobre a que se refieren los artículos 73 y 74 de la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios. Asimismo, el secretario del Colegio Escrutador remitirá al mismo tribunal los sobres con las actas y cuadros de los Colegios Escrutadores.
+Para los efectos del escrutinio general y de la calificación de las elecciones, contemplados en el párrafo siguiente, el secretario de la mesa receptora de sufragios remitirá al Presidente del Tribunal Calificador de Elecciones o al Presidente del Tribunal Electoral Regional, según corresponda, el sobre a que se refieren los artículos 73 y 74 de la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios. Asimismo, el secretario del Colegio Escrutador remitirá al mismo tribunal los sobres con las actas y cuadros de los Colegios Escrutadores.
 
 ### Párrafo 4º
 
@@ -1594,7 +1680,9 @@ Del escrutinio general y de la calificación de las elecciones
 
 #### Artículo 95
 
-El escrutinio general y la calificación de las elecciones serán practicados por los Tribunales Electorales Regionales, que tendrán, en cuanto les fueren aplicables, todas las facultades que se conceden al Tribunal Calificador de Elecciones en los Títulos IV y V de la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios.
+El escrutinio general y la calificación de las elecciones de gobernador regional serán practicados por el Tribunal Calificador de Elecciones. Para ello, serán aplicables las normas establecidas en los títulos IV y V de la ley N° 18.700, orgánica constitucional sobre Votaciones Populares y Escrutinios.
+
+El escrutinio general y la calificación de las elecciones de consejeros regionales serán practicados por los Tribunales Electorales Regionales, que tendrán, en cuanto les fueren aplicables, todas las facultades que se conceden al Tribunal Calificador de Elecciones en los Títulos IV y V de la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios.
 
 Si hubiere en la región respectiva más de un Tribunal Electoral Regional, cada uno tendrá competencia para conocer de todos los asuntos relacionados con esta elección en las circunscripciones provinciales que determine el Tribunal Calificador de Elecciones.
 
@@ -1644,15 +1732,29 @@ Para los efectos de lo dispuesto en los artículos precedentes, cada candidatura
 
 Asimismo, cuando un pacto electoral incluya la postulación de uno o más independientes, que no formen parte de un subpacto, se considerarán separadamente, como si fueran un partido político o subpacto integrante del pacto.
 
+#### Artículo 98 bis
+
+Tratándose de elecciones de gobernador regional, el Tribunal Calificador de Elecciones proclamará elegido al candidato que hubiere obtenido la mayoría de los sufragios válidamente emitidos y siempre que dicha mayoría sea equivalente, al menos, al 40% de los votos válidamente emitidos, conforme lo dispone el inciso cuarto del artículo 111 de la Constitución Política de la República. Para estos efectos, los votos en blanco y nulos se considerarán como no emitidos.
+
+Si ninguno de los candidatos a gobernador regional hubiere obtenido la mayoría señalada en el inciso anterior, se procederá a una segunda votación que se circunscribirá a los candidatos que hayan obtenido las dos más altas mayorías relativas y en ella resultará electo aquél de los candidatos que obtenga el mayor número de sufragios. Esta elección se verificará el cuarto domingo después de efectuada la primera.
+
+El proceso de calificación de la elección de gobernador regional deberá quedar concluido dentro de los quince días siguientes, tratándose de la primera votación, o dentro de los treinta días siguientes tratándose de la segunda votación.
+
+Para los efectos de lo dispuesto en el inciso quinto del artículo 111 de la Constitución Política de la República, el Tribunal Calificador de Elecciones hará la correspondiente declaración, indicando los candidatos que hayan obtenido las dos más altas mayorías relativas y ordenará su publicación en el Diario Oficial, lo que deberá efectuarse el día siguiente hábil al del vencimiento del plazo establecido en el inciso precedente.
+
+Si muere uno de los candidatos a los que se refiere el inciso segundo, el Tribunal Calificador de Elecciones convocará a una nueva elección dentro del plazo de diez días contado desde la fecha del deceso. La elección se celebrará ciento veinte días después de la convocatoria si ese día correspondiere a un domingo, y si no lo fuere se realizará el domingo inmediatamente siguiente. Las declaraciones de candidaturas a gobernador regional se realizarán en la forma prescrita en el artículo 84.
+
 #### Artículo 99
 
-Dentro de los dos días siguientes a aquel en que su fallo quede a firme, el Tribunal Electoral Regional enviará una copia autorizada de la parte pertinente del mismo y el acta complementaria de proclamación, en lo que se refiera a las respectivas circunscripciones provinciales, al intendente y a los gobernadores de la región. Comunicará, al mismo tiempo, su proclamación a cada uno de los candidatos elegidos.
+Dentro de los dos días siguientes a aquél en que su fallo quede a firme, el Tribunal Calificador de Elecciones enviará una copia autorizada de la parte pertinente del mismo y el acta complementaria de proclamación, en lo que se refiera a las respectivas regiones, al delegado presidencial regional, al delegado presidencial provincial, al gobernador regional y al consejo regional. Asimismo, el tribunal electoral regional enviará una copia autorizada de la parte pertinente del fallo y el acta complementaria de proclamación, en lo que se refiera a las respectivas circunscripciones provinciales, al delegado presidencial regional, a los delegados presidenciales provinciales de la región y al gobernador regional. Comunicarán, al mismo tiempo, su proclamación a cada uno de los candidatos elegidos.
 
-Una copia completa del fallo y de su acta complementaria se remitirá, además, por el presidente del Tribunal Electoral Regional respectivo, al Ministro del Interior y Seguridad Pública y al Director del Servicio Electoral, con el objeto de que tomen conocimiento del término del proceso electoral regional.
+Una copia completa del fallo y de su acta complementaria se remitirán, además, por el presidente del Tribunal Calificador de Elecciones o el tribunal electoral regional respectivo, según corresponda, al Ministro del Interior y Seguridad Pública y al Director del Servicio Electoral, con el objeto de que tomen conocimiento del término del proceso electoral.
 
 #### Artículo 99 bis
 
-El Consejo Regional se instalará el día 11 de marzo del año siguiente a la elección respectiva, con la asistencia de la mayoría absoluta de los consejeros declarados electos por el Tribunal Electoral Regional competente, convocados para tal efecto por el intendente respectivo. El período del cargo de consejero regional se computará, siempre, a partir de dicha fecha.
+El consejo regional se instalará el día seis de enero del año siguiente a la elección respectiva, con la asistencia de la mayoría absoluta de los consejeros regionales declarados electos por el tribunal electoral regional competente, convocados para tal efecto por el secretario ejecutivo. El período de los cargos de gobernador regional y de consejeros regionales se computará siempre a partir de dicha fecha.
+
+En la primera sesión, el secretario ejecutivo procederá a dar lectura a los fallos del Tribunal Calificador de Elecciones y del tribunal electoral regional, según corresponda, que den cuenta del resultado definitivo de la elección en la región y en las circunscripciones provinciales, tomará al gobernador regional y a los consejeros regionales electos el juramento o promesa de observar la Constitución y las leyes, y de cumplir con fidelidad las funciones propias de sus respectivos cargos.
 
 ## Capítulo VII
 
@@ -1668,7 +1770,7 @@ Las corporaciones o fundaciones de que trata el presente capítulo se regirán p
 
 #### Artículo 101
 
-La formación de estas corporaciones o fundaciones, o su incorporación a ellas, previa proposición del intendente, requerirá el acuerdo de los dos tercios del consejo regional.
+La formación de estas corporaciones o fundaciones, o su incorporación a ellas, previa proposición del gobernador regional, requerirá el acuerdo de los dos tercios del consejo regional.
 
 El aporte anual del gobierno regional por este concepto no podrá superar, en su conjunto, el 5% de su presupuesto de inversión. Sin perjuicio de lo anterior, la Ley de Presupuestos de cada año podrá aumentar dicho porcentaje límite.
 
@@ -1684,9 +1786,9 @@ El personal que labore en las corporaciones y fundaciones de participación regi
 
 #### Artículo 102
 
-La representación del gobierno regional en las corporaciones o fundaciones a que se refiere este capítulo recaerá en el o los directores que establezcan los respectivos estatutos. A lo menos un tercio de dichos directores serán designados por el consejo regional a proposición del intendente, no podrán ser consejeros regionales y no percibirán remuneración o retribución económica de ninguna naturaleza por sus servicios.
+La representación del gobierno regional en las corporaciones o fundaciones a que se refiere este capítulo recaerá en el o los directores que establezcan los respectivos estatutos. A lo menos un tercio de dichos directores serán designados por el consejo regional a proposición del gobernador regional, no podrán ser consejeros regionales y no percibirán remuneración o retribución económica de ninguna naturaleza por sus servicios.
 
-Tampoco podrán ser nombrados directores de tales entidades el cónyuge del intendente o de alguno de los consejeros regionales, ni sus parientes consanguíneos hasta el tercer grado inclusive, y por afinidad hasta el segundo grado, ni las personas ligadas a ellos por adopción.
+Tampoco podrán ser nombrados directores de tales entidades el cónyuge del gobernador regional o de alguno de los consejeros regionales, ni sus parientes consanguíneos hasta el tercer grado inclusive, y por afinidad hasta el segundo grado, ni las personas ligadas a ellos por adopción.
 
 #### Artículo 103
 
@@ -1698,11 +1800,79 @@ Lo anterior se entiende sin perjuicio de la fiscalización que deberá ejercer e
 
 Sin perjuicio de lo previsto en el artículo anterior, la Contraloría General de la República fiscalizará las corporaciones y fundaciones constituidas por los gobiernos regionales o en que éstos participen, de acuerdo a lo previsto en este Título, respecto del uso y destino de sus recursos, pudiendo disponer de toda la información que requiera para este efecto.
 
+## Capítulo VIII
+
+De la Administración de las Áreas Metropolitanas
+
+#### Artículo 104 bis
+
+En cada región podrán constituirse una o más áreas metropolitanas que serán administradas por el gobierno regional respectivo con el objeto de coordinar las políticas públicas en un territorio urbano.
+
+Para efectos de la presente ley se entenderá por "área metropolitana" la extensión territorial formada por dos o más comunas de una misma región, unidas entre sí por un continuo de construcciones urbanas que comparten la utilización de diversos elementos de infraestructura y servicios urbanos y que, en su conjunto, superen los doscientos cincuenta mil habitantes.
+
+Un reglamento emitido por el Ministerio del Interior y Seguridad Pública, que deberá ser suscrito también por los Ministros de Vivienda y Urbanismo, de Transportes y Telecomunicaciones, de Obras Públicas, de Medio Ambiente y de Hacienda, fijará, principalmente, los estándares mínimos para el establecimiento de las áreas metropolitanas, singularizando y especificando los requerimientos de espacio territorial, utilización conjunta de infraestructura, servicios y equipamiento.
+
+Para la administración de las áreas metropolitanas, el respectivo gobierno regional consultará sus decisiones a un comité compuesto por los alcaldes de las comunas integrantes de dicha área metropolitana. Ese comité consultivo será presidido por el gobernador regional y deberá ser convocado por éste al menos una vez cada semestre, a fin de conocer la situación de la administración del área metropolitana, y para que los respectivos alcaldes formulen propuestas sobre su administración. Los acuerdos y proposiciones que formule este comité serán aprobados por la mayoría de los votos de los alcaldes o sus representantes.
+
+La asistencia a este comité consultivo será obligatoria para los alcaldes de las comunas que conforman el área metropolitana. En caso de que no pudieren asistir, deberán designar a un funcionario del respectivo municipio para que asista en su lugar. La asistencia al comité consultivo no dará derecho a dieta.
+
+Un reglamento emitido por el gobierno regional regulará la forma de convocatoria y el funcionamiento de dicho comité, entre otras materias.
+
+#### Artículo 104 ter
+
+En cada gobierno regional que tenga bajo su administración una o más áreas metropolitanas existirá un departamento de áreas metropolitanas, el cual apoyará al gobernador regional en la gestión de las mismas.
+
+El departamento de áreas metropolitanas colaborará con el gobernador regional en las siguientes funciones:
+
+a) La coordinación e interacción del gobierno regional con los órganos administrativos de la administración central y local.
+
+b) La coordinación de los planes a los cuales hace referencia el artículo 104 quinquies, emitiendo un informe respecto a dicha materia.
+
+c) Actuar como secretaría ejecutiva del comité consultivo de alcaldes.
+
+#### Artículo 104 quáter
+
+Las áreas metropolitanas se constituirán de oficio o a solicitud de los gobiernos regionales y con previa consulta a los alcaldes, a través de decreto supremo del Ministerio del Interior y Seguridad Pública, que deberá ser suscrito además por el Ministro de Hacienda y los Ministros respectivos según las competencias que se otorguen. En caso que la constitución se origine por solicitud de un gobierno regional, ésta se tramitará en la forma señalada en el Párrafo 2° del Capítulo II del Título Segundo de esta ley, y deberá especificar, junto al fundamento de su constitución, las comunas que la constituirían, el número de habitantes que la integrarían y una descripción de los espacios comunes que forman parte de ella.
+
+Sin perjuicio de lo dispuesto en el Párrafo 2º del Capítulo II del Título Segundo de esta ley, cuando la constitución de un área metropolitana se realice de oficio, el respectivo decreto supremo deberá especificar, conforme al artículo 114 de la Constitución Política de la República, las competencias que le serán transferidas a los gobiernos regionales, en forma temporal o definitiva, en las áreas de transporte, inversiones en vivienda, medio ambiente y obras públicas, que sean indispensables para la efectiva administración del área que se constituye. Los recursos que se entreguen en virtud de las competencias transferidas sólo podrán destinarse al área metropolitana administrada.
+
+#### Artículo 104
+
+quinquies.- Sin perjuicio de lo dispuesto en el artículo anterior, en aquellas regiones en las cuales se decrete una o más áreas metropolitanas, el gobierno regional aprobará los siguientes instrumentos de planificación y medidas:
+
+a) El plan maestro de transporte urbano metropolitano y sus modificaciones, propuesto por la Secretaría Regional Ministerial de Transportes y Telecomunicaciones.
+
+b) El sentido del tránsito vehicular de las vías urbanas definidas como intercomunales, en coordinación con la Secretaría Regional Ministerial de Transportes y Telecomunicaciones.
+
+La recolección, transporte y/o disposición final de los residuos sólidos domiciliarios de una o más municipalidades del área metropolitana, de acuerdo a lo señalado en la ley N° 18.695, orgánica constitucional de Municipalidades, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1, del Ministerio del Interior, de 2006.
+
+Para ejercer estas funciones, el gobernador regional deberá realizar las respectivas propuestas al respectivo consejo regional para su aprobación, previa consulta al comité de los alcaldes de las comunas que las integren.
+
+El consejo regional deberá pronunciarse sobre estas propuestas dentro de los noventa días posteriores a su recepción, debiendo el pronunciamiento de cada uno de los instrumentos o medidas referirse íntegramente a aquél, y no a una parcialidad. De no haber pronunciamiento dentro del mencionado plazo, se entenderán aprobadas las propuestas. La promulgación corresponderá al gobernador regional, actuando como órgano ejecutivo del gobierno regional. En caso de rechazar las propuestas de los mencionados instrumentos, el consejo lo deberá realizar fundadamente indicando cuáles son sus reparos.
+
+Por su parte, para la aprobación del plan regulador metropolitano o intercomunal, según sea el caso, y sus modificaciones, y el plan intercomunal de inversiones en infraestructura de movilidad y espacio público y sus modificaciones, el gobernador regional deberá remitir dichos instrumentos al consejo regional previa consulta al comité de alcaldes.
+
+El gobernador regional y las secretarías regionales ministeriales velarán por la debida coordinación y correspondencia entre el plan señalado en el literal a) y los planes señalados en el párrafo precedente. Tanto éstos como sus modificaciones deberán incluir un informe del Departamento de Áreas Metropolitanas sobre su consistencia con los demás planes mencionados.
+
+Lo dispuesto en los párrafos anteriores es sin perjuicio de las competencias que la presente ley u otras le entreguen directamente a los gobiernos regionales, con carácter exclusivo o concurrente con otros órganos de la Administración del Estado.
+
+c) El plan regulador metropolitano o intercomunal, según sea el caso, y sus modificaciones, que elaborará la Secretaría Regional Ministerial de Vivienda y Urbanismo conforme dispone el decreto con fuerza de ley Nº 458, del Ministerio de Vivienda y Urbanismo, promulgado el año 1975 y publicado el año 1976, que aprueba la nueva Ley General de Urbanismo y Construcciones.
+
+d) El plan intercomunal de inversiones en infraestructura de movilidad y espacio público y sus modificaciones, que elaborarán las Secretarías Regionales Ministeriales de Vivienda y Urbanismo y de Transportes y Telecomunicaciones, de acuerdo a lo establecido en la Ley General de Urbanismo y Construcciones.
+
+#### Artículo 104
+
+sexies.- En forma previa a la aprobación de los planes de prevención o de descontaminación que involucren un área metropolitana, el Ministerio del Medio Ambiente deberá requerir la opinión del gobierno regional.
+
+#### Artículo 104
+
+septies.- A solicitud del gobierno regional, la Dirección de Presupuestos deberá crear un programa presupuestario denominado Fondo de Inversión Metropolitana cuyo financiamiento provendrá del programa presupuestario de Inversión Regional.
+
 TITULO FINAL
 
 #### Artículo 105
 
-Los gobiernos regionales y los intendentes se relacionarán con el Presidente de la República a través del Ministerio del Interior.
+Los gobiernos regionales, los gobernadores regionales y los delegados presidenciales regionales se relacionarán con el Presidente de la República a través del Ministerio del Interior y Seguridad Pública.
 
 #### Artículo 106
 
@@ -1716,21 +1886,21 @@ Derogado.
 
 Las resoluciones o acuerdos ilegales de los gobiernos regionales serán reclamables en conformidad a las reglas siguientes:
 
-a) Cualquier particular podrá reclamar ante el intendente contra las resoluciones o acuerdos que estime ilegales, cuando éstos afecten el interés general de la región o de sus habitantes. Este reclamo deberá entablarse dentro del plazo de treinta días hábiles, contado desde la fecha de publicación de la resolución o desde que se adoptó el acuerdo;
+a) Cualquier particular podrá reclamar ante el gobernador regional contra las resoluciones o acuerdos que estime ilegales, cuando éstos afecten el interés general de la región o de sus habitantes. Este reclamo deberá entablarse dentro del plazo de treinta días hábiles, contado desde la fecha de publicación de la resolución o desde que se adoptó el acuerdo;
 
-b) El mismo reclamo podrán entablar ante el intendente los particulares agraviados, en los casos y dentro del plazo señalado en la letra a) precedente, evento en el cual el plazo se computará desde que el afectado fue notificado de la resolución o del acuerdo;
+b) El mismo reclamo podrán entablar ante el gobernador regional los particulares agraviados, en los casos y dentro del plazo señalado en la letra a) precedente, evento en el cual el plazo se computará desde que el afectado fue notificado de la resolución o del acuerdo;
 
-c) Se considerará rechazado el reclamo si el intendente no se pronunciare dentro del término de quince días hábiles, contado desde la fecha de su recepción en la intendencia regional respectiva;
+c) Se considerará rechazado el reclamo si el gobernador regional no se pronunciare dentro del término de quince días hábiles, contado desde la fecha de su recepción en el gobierno regional respectiva;
 
 d) Rechazado el reclamo, expresa o tácitamente, el afectado podrá reclamar, dentro del plazo de quince días hábiles, ante la Corte de Apelaciones respectiva.
 
-En este caso el plazo se contará, según corresponda, desde el vencimiento del término indicado en la letra c) precedente, hecho que deberá certificar el secretario de la intendencia regional respectiva, o desde la notificación, personalmente o por cédula dejada en el domicilio del reclamante, de la resolución del intendente que rechace el reclamo.
+En este caso el plazo se contará, según corresponda, desde el vencimiento del término indicado en la letra c) precedente, hecho que deberá certificar el secretario de el gobierno regional respectiva, o desde la notificación, personalmente o por cédula dejada en el domicilio del reclamante, de la resolución del gobernador regional que rechace el reclamo.
 
 El reclamante señalará en su escrito el acto impugnado, la norma legal que estima infringida, la forma cómo se ha producido la infracción y, cuando procediere, las razones por las cuales el acto le irroga un perjuicio;
 
 e) La Corte podrá decretar orden de no innovar cuando la ejecución del acto impugnado pueda producir un daño irreparable;
 
-f) La Corte dará traslado al intendente por el término de diez días. Evacuado el traslado o teniéndosele por evacuado en rebeldía, la Corte podrá abrir un término especial de prueba, si así lo estima necesario, el que se regirá por las reglas establecidas para los incidentes en el Código de Procedimiento Civil;
+f) La Corte dará traslado al gobernador regional por el término de diez días. Evacuado el traslado o teniéndosele por evacuado en rebeldía, la Corte podrá abrir un término especial de prueba, si así lo estima necesario, el que se regirá por las reglas establecidas para los incidentes en el Código de Procedimiento Civil;
 
 g) Evacuado el traslado o vencido el término de prueba, en su caso, se remitirán los autos al fiscal judicial para su informe y a continuación se ordenará conocer de éstos en cuenta;
 

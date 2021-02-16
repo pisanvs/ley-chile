@@ -58,6 +58,8 @@ g) Gastos menores y frecuentes de campaña, tales como la alimentación de perso
 
 h) Gastos por trabajos de campaña, proporcionados por personas con carácter voluntario, debidamente avaluados de acuerdo a criterios objetivos.
 
+i) Pagos por concepto de comisión bancaria devengados con motivo de la operación de cuenta abierta en los términos establecidos en el párrafo 3º del presente título.
+
 #### Artículo 3
 
 Para la determinación de los gastos electorales, se entenderá por período de campaña electoral aquél comprendido entre el día que venza el plazo para declarar candidaturas y el día de la elección respectiva.
@@ -340,7 +342,7 @@ La multa será aplicada por el Director del Servicio Electoral.
 
 Las infracciones a las normas del párrafo 2° que cometan los candidatos o partidos políticos, serán sancionadas con multa a beneficio fiscal equivalente al triple de las sumas indebidamente recibidas, sin perjuicio de las sanciones que les correspondan a ellos o a sus representantes por delitos en que hubieren incurrido.
 
-Toda infracción o falta de cumplimiento a las disposiciones de esta ley que no tenga una pena especial, se sancionará con multa de cinco a cincuenta unidades tributarias mensuales.
+Toda infracción o falta de cumplimiento a las disposiciones de esta ley que no tenga una pena especial, se sancionará con multa de cinco a setenta y cinco unidades tributarias mensuales.
 
 Tratándose de personas jurídicas, serán sancionadas con multa equivalente al triple del monto ilegalmente aportado.
 
@@ -484,7 +486,21 @@ De la contabilidad electoral
 
 Los administradores electorales y los administradores generales electorales deberán llevar, en la forma que se establece en este párrafo, contabilidad de los ingresos y gastos electorales, para cada uno de los candidatos y partidos políticos que respectivamente representen.
 
-Todo candidato, a través de su administrador electoral, estará obligado a presentar una cuenta general de ingresos y gastos de campaña electoral, aun cuando no haya tenido ingresos o incurrido en gastos, dando relación de ello.
+Todo candidato, a través de su administrador electoral, estará obligado a presentar una cuenta general de ingresos y gastos de campaña electoral, aun cuando no haya tenido ingresos o incurrido en gastos, dando relación de ello. El incumplimiento de esta obligación se sancionará con las multas que se señalan a continuación:
+
+i) Candidatos presidenciales: multa de 61 a 75 unidades tributarias mensuales.
+
+ii) Candidatos a senador y gobernadores regionales: multa de 46 a 60 unidades tributarias mensuales.
+
+iii) Candidatos a diputados: multa de 31 a 45 unidades tributarias mensuales.
+
+iv) Candidatos a alcaldes: multa de 21 a 30 unidades tributarias mensuales.
+
+v) Candidatos a consejeros regionales: multa de 15 a 20 unidades tributarias mensuales.
+
+vi) Candidatos a concejales: multa de 5 a 14 unidades tributarias mensuales.
+
+La cuantía de la multa, dentro del rango respectivo, será determinada teniendo en cuenta su reiteración y la cantidad de electores habilitados del territorio electoral correspondiente.
 
 #### Artículo 45
 
@@ -512,7 +528,7 @@ La presentación de cuentas referidas en los incisos precedentes, podrá realiza
 
 #### Artículo 48
 
-El Director del Servicio Electoral se pronunciará respecto de la cuenta de ingresos y gastos electorales dentro de los cuarenta y cinco días siguientes de expirado el plazo a que se refiere el inciso primero del artículo anterior. Tratándose de los actos eleccionarios regulados por la ley Nº18.695 y la ley Nº19.175, el plazo de análisis de la cuenta será de setenta y cinco días.
+El Director del Servicio Electoral se pronunciará respecto de la cuenta de ingresos y gastos electorales dentro de los setenta días siguientes de expirado el plazo a que se refiere el inciso primero del artículo anterior. Tratándose de los actos eleccionarios regulados por la ley Nº18.695 y la ley Nº19.175, el plazo de análisis de la cuenta será de cien días. Si el Director del Servicio Electoral no se pronuncia dentro de los plazos establecidos en este artículo, se entenderá aprobada la cuenta de ingresos y gastos electorales.
 
 En los casos en que se establezca la existencia de gastos electorales no declarados, corresponderá al Director del Servicio Electoral determinar la cuantía de los mismos. Lo anterior no obstará a la aplicación, si procediere, de lo dispuesto en los artículos siguientes del presente párrafo.
 

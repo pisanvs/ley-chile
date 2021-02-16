@@ -36,15 +36,17 @@ Sólo serán consideradas en las elecciones las candidaturas que se presenten me
 
 #### Artículo 3
 
-Las declaraciones de candidaturas deberán efectuarse por escrito, para cada acto eleccionario, ante el Servicio Electoral quien les pondrá cargo y otorgará recibo.
+Las declaraciones de candidaturas deberán efectuarse por escrito, para cada acto eleccionario, ante el Servicio Electoral quien les pondrá cargo y otorgará recibo. La presentación de las referidas declaraciones podrá realizarse en forma electrónica, para lo cual el Servicio Electoral establecerá el sistema a aplicar.
 
-Las declaraciones deberán efectuarse por el presidente y el secretario del órgano ejecutivo de cada partido político o de los partidos que hubieren acordado un pacto electoral o por, a lo menos, cinco de los ciudadanos que patrocinen una candidatura independiente, acompañando la nómina a que se refiere el artículo 14. En todo caso, serán acompañadas por una declaración jurada del candidato, o de un mandatario designado especialmente al efecto por escritura pública, en la cual señalará cumplir los requisitos constitucionales y legales para ser candidato y no estar afecto a inhabilidades. La declaración jurada deberá ser acompañada sólo por los antecedentes que acrediten los estudios del candidato, cuando corresponda, en los términos que disponga el Servicio Electoral. Esta declaración jurada será hecha ante notario público o ante el oficial del Registro Civil correspondiente a la comuna donde resida el candidato.
+Las declaraciones deberán efectuarse por el presidente y el secretario del órgano ejecutivo de cada partido político o de los partidos que hubieren acordado un pacto electoral o por, a lo menos, cinco de los ciudadanos que patrocinen una candidatura independiente, acompañando la nómina a que se refiere el artículo 14. En todo caso, serán acompañadas por una declaración jurada del candidato, o de un mandatario designado especialmente al efecto por escritura pública, en la cual señalará cumplir los requisitos constitucionales y legales para ser candidato y no estar afecto a inhabilidades. La declaración jurada deberá ser acompañada por los antecedentes que acrediten el cumplimiento de los requisitos constitucionales y legales para ser candidato, salvo que se trate de documentos que emanen de cualquier órgano de la Administración del Estado y se encuentren en poder de éstos, en los términos señalados en el artículo 17, letra d), de la ley Nº19.880. Esta declaración jurada será hecha ante notario público o ante el oficial del Registro Civil correspondiente a la comuna donde resida el candidato.
 
 La declaración de candidatura podrá presentarse en un acto separado por cada candidato.
 
 Ningún candidato podrá figurar en más de una declaración en elecciones que se celebren simultáneamente.
 
 Respecto de cada candidato se deberá acompañar la autorización al Director del Servicio Electoral para abrir la cuenta bancaria a que alude el artículo 19 de la ley Nº19.884.
+
+El Servicio Electoral verificará el cumplimiento de los requisitos constitucionales y legales para ser candidato, en los términos señalados en el inciso segundo, para lo cual podrá requerir la información que corresponda, que emane de cualquier órgano de la Administración del Estado y se encuentre en poder de éstos.
 
 #### Artículo 4
 
@@ -112,9 +114,11 @@ Asimismo, en las declaraciones se indicarán los nombres, la cédula de identida
 
 #### Artículo 11
 
-En el caso de candidaturas independientes la determinación del número mínimo necesario de patrocinantes la hará el Director del Servicio Electoral mediante resolución que se publicará en el Diario Oficial con siete meses de anticipación, a lo menos, a la fecha en que deba realizarse una elección.
+En el caso de candidaturas independientes la determinación del número mínimo necesario de patrocinantes la hará el Director del Servicio Electoral mediante resolución que se publicará en el sitio electrónico de ese Servicio con siete meses de anticipación, a lo menos, a la fecha en que deba realizarse una elección.
 
 Si en el período transcurrido desde la anterior elección periódica de diputados se hubiese modificado el territorio de alguna circunscripción senatorial o distrito, el Director considerará la votación emitida en los territorios agregados o desmembrados, según fuere el caso.
+
+Sin perjuicio de la regulación específica sobre patrocinio de candidaturas independientes, éste podrá realizarse también a través de una plataforma electrónica dispuesta por el Servicio Electoral, a la que se accederá previa autentificación de identidad. En este caso, se entenderá suscrito el patrocinio de la respectiva candidatura, a través de medios electrónicos. Por medio de esta plataforma, el Servicio Electoral generará la nómina de patrocinantes en los términos señalados en el inciso segundo del artículo 14, en tiempo y forma, para efectos de la declaración de candidaturas. Esta plataforma deberá cumplir con los estándares de seguridad necesarios para asegurar su adecuado funcionamiento.
 
 Un ciudadano sólo podrá patrocinar por elección una declaración para diputado, una para senador y una para Presidente de la República. Si suscribiere más de una, sólo será válida la que se hubiere presentado primero al Director.
 
@@ -180,7 +184,7 @@ b) La aceptación o rechazo de la totalidad de las declaraciones de candidaturas
 
 Los partidos políticos cuya totalidad de declaraciones de candidaturas a diputado o senador, según corresponda, sean rechazadas en conformidad a lo dispuesto en la letra b) de este artículo, podrán corregirlas ante el Servicio Electoral dentro de los cuatro días hábiles siguientes a la fecha del despacho del correo electrónico que notifica la resolución a que alude el inciso primero, con el fin de ajustarse al porcentaje de sexos dispuesto en el inciso quinto del artículo 4, ya sea retirando declaraciones de candidaturas o declarando otras nuevas.
 
-Dentro de los cinco días siguientes de vencido el plazo para presentar la corrección, el Consejo del Servicio Electoral dictará una nueva resolución aceptando o rechazando las declaraciones nuevas y rechazando o aceptando, según proceda, la totalidad de las declaraciones de candidaturas a diputados o a senadores, según corresponda, la que deberá ser publicada dentro de tercer día en el Diario Oficial. En tal oportunidad también se publicarán en el mismo medio la aceptación o rechazo de cada una de las declaraciones de candidaturas a parlamentarios declaradas por cada partido político, pacto electoral o candidatura independiente.
+Dentro de los cinco días siguientes de vencido el plazo para presentar la corrección, el Consejo del Servicio Electoral dictará una nueva resolución aceptando o rechazando las declaraciones nuevas y rechazando o aceptando, según proceda, la totalidad de las declaraciones de candidaturas a diputados o a senadores, según corresponda, la que deberá ser publicada dentro de tercer día en el sitio electrónico de ese Servicio. En tal oportunidad también se publicarán en el mismo medio la aceptación o rechazo de cada una de las declaraciones de candidaturas a parlamentarios declaradas por cada partido político, pacto electoral o candidatura independiente.
 
 #### Artículo 20
 
@@ -254,7 +258,7 @@ La cédula para el plebiscito nacional contendrá el texto de las cuestiones que
 
 #### Artículo 28
 
-El Servicio Electoral, por resolución cuya parte decisoria hará publicar en extracto en el Diario Oficial, determinará las características de la impresión de los datos que contendrán las cédulas, las cuales, en todo caso, serán iguales para todos los candidatos de un mismo tipo de elección o cuestiones sometidas a plebiscito.
+El Servicio Electoral, por resolución que publicará en su sitio electrónico, determinará las características de la impresión de los datos que contendrán las cédulas, las cuales, en todo caso, serán iguales para todos los candidatos de un mismo tipo de elección o cuestiones sometidas a plebiscito.
 
 Los errores en la impresión de la cédula no anularán el voto, salvo que, a juicio del Tribunal Calificador de Elecciones, sean de tal entidad que hayan podido confundir al elector o influir en el resultado de la elección.
 
@@ -267,6 +271,8 @@ Habrá plantillas disponibles en la oficina electoral de cada recinto en que fun
 #### Artículo 30
 
 El Servicio Electoral hará publicar en diarios de circulación en cada circunscripción senatorial o distrito, en su caso, los facsímiles de las cédulas con las cuales se sufragará. La publicación se hará el quinto día anterior a la fecha en que se realice el acto eleccionario o plebiscitario. En estas publicaciones el Servicio señalará las características materiales con que se han confeccionado las plantillas a que se refiere el artículo anterior, indicando con toda precisión su espesor, la dimensión de las ranuras y los demás datos que permitan conocerlas.
+
+Sin perjuicio de lo anterior, podrán difundirse por otros medios de comunicación social avisos con los facsímiles de las cédulas con las cuales se sufragará, cuando las circunstancias lo requieran.
 
 El Servicio Electoral entregará a los partidos políticos, a los pactos electorales y a los candidatos independientes, el número de facsímiles de las cédulas con las cuales se sufragará que determine el Servicio. La entrega se hará al décimo quinto día anterior a la elección.
 
@@ -872,7 +878,7 @@ No podrán deliberar ni resolver sobre cuestión alguna relativa a la validez de
 
 #### Artículo 87
 
-Existirán los colegios escrutadores que determine el Consejo del Servicio Electoral por resolución fundada que se publicará en el Diario Oficial con a lo menos cuarenta y cinco días de anticipación a aquel en que se deba celebrar una elección o plebiscito. En la resolución se indicará la localidad de funcionamiento y las mesas que corresponderá escrutar a cada uno. La resolución será comunicada por carta certificada a las juntas electorales correspondientes. Cada colegio no podrá escrutar más de doscientas mesas receptoras.
+Existirán los colegios escrutadores que determine el Consejo del Servicio Electoral por resolución fundada que se publicará en su sitio electrónico con a lo menos cuarenta y cinco días de anticipación a aquel en que se deba celebrar una elección o plebiscito. En la resolución se indicará la localidad de funcionamiento y las mesas que corresponderá escrutar a cada uno. La resolución será comunicada por carta certificada a las juntas electorales correspondientes. Cada colegio no podrá escrutar más de doscientas mesas receptoras.
 
 Habrá a lo menos un colegio en cada localidad en que tenga su sede una junta electoral.
 
@@ -1952,7 +1958,7 @@ Los vocales podrán excusarse de conformidad al artículo 49 ante la junta elect
 
 #### Artículo 207
 
-Los locales en los cuales se deberán constituir la o las mesas receptoras de sufragios en el extranjero serán definidos con noventa días de anterioridad al de la elección o plebiscito, por resolución fundada del Servicio Electoral, previo informe de la Dirección General de Asuntos Consulares y de Inmigración del Ministerio de Relaciones Exteriores.
+Los locales en los cuales se deberán constituir la o las mesas receptoras de sufragios en el extranjero serán definidos con sesenta días de anterioridad al de la elección o plebiscito, por resolución fundada del Servicio Electoral, previo informe de la Dirección General de Asuntos Consulares y de Inmigración del Ministerio de Relaciones Exteriores.
 
 Dicho informe deberá ser entregado al Servicio Electoral al menos ciento veinte días antes de la elección o plebiscito. Deberá contener, como mínimo, el número e individualización de los consulados aptos para ser lugares de votación, con indicación de la infraestructura y personal con que cuenta cada uno de ellos; las zonas geográficas en que se encuentren las mayores concentraciones de población de chilenos en el extranjero, según sus registros, desagregadas por país, consulado y ciudad, y las particularidades de la legislación local que puedan incidir en el proceso eleccionario.
 
@@ -2056,7 +2062,7 @@ Existirá uno o más colegios escrutadores especiales, que tendrán por finalida
 
 Cada colegio escrutador especial estará constituido por los miembros de una de las juntas electorales de la región Metropolitana y un secretario, designado conforme al procedimiento establecido en el artículo 92.
 
-En la resolución contemplada en el artículo 87, el Servicio Electoral dispondrá el número de colegios escrutadores especiales que existirán, individualizando la junta electoral que los constituirá y asignando a cada uno de ellos un número determinado de mesas. La asignación de mesas se iniciará por la Junta Electoral Primera de Santiago y continuará según el orden correlativo. Esta resolución deberá publicarse en el Diario Oficial, con al menos veinte días de anticipación a la fecha en que se celebrará una elección o plebiscito.
+En la resolución contemplada en el artículo 87, el Servicio Electoral dispondrá el número de colegios escrutadores especiales que existirán, individualizando la junta electoral que los constituirá y asignando a cada uno de ellos un número determinado de mesas. La asignación de mesas se iniciará por la Junta Electoral Primera de Santiago y continuará según el orden correlativo. Esta resolución deberá publicarse en el sitio electrónico del Servicio Electoral, con al menos veinte días de anticipación a la fecha en que se celebrará una elección o plebiscito.
 
 #### Artículo 220
 

@@ -108,11 +108,13 @@ La administración y la eventual liquidación del patrimonio de un partido polí
 
 El partido político en formación podrá proceder a la afiliación de sus miembros, para lo cual dispondrá de un plazo de doscientos diez días corridos. Será necesario que se afilie al partido un número de ciudadanos con derecho a sufragio equivalente, a lo menos, al 0,25 por ciento del electorado que hubiere sufragado en la última elección de diputados en cada una de las regiones donde esté constituyéndose, siempre y cuando dicho porcentaje del electorado en cada región fuere superior a 500 electores. Si del cálculo descrito resultare una cantidad de electores menor a 500, los partidos políticos deberán afiliar, en dichas regiones, al menos a 500 electores. El cálculo del porcentaje señalado se hará según el escrutinio general practicado por el Tribunal Calificador de Elecciones.
 
-La afiliación al partido en formación se efectuará mediante declaración suscrita por cada ciudadano con derecho a sufragio ante cualquier notario, ante el oficial del Registro Civil, o ante el funcionario habilitado del Servicio Electoral, quienes no podrán negarse a recibir la declaración a que hace referencia este artículo y no podrán cobrar por este servicio.
+La afiliación al partido en formación se efectuará mediante declaración suscrita por cada ciudadano con derecho a sufragio ante cualquier notario, ante el oficial del Registro Civil, ante el funcionario habilitado del Servicio Electoral, o a través de medios electrónicos, que serán establecidos por el referido Servicio, quienes no podrán negarse a recibir la declaración a que hace referencia este artículo y no podrán cobrar por este servicio.
 
-Una instrucción general del Servicio Electoral establecerá el modo en que el procedimiento de constitución y afiliación del partido político en formación podrá realizarse de acuerdo con las disposiciones de la ley N°19.799, sobre Documentos electrónicos, firma electrónica y servicios de certificación de dicha firma.
+Una instrucción general del Servicio Electoral establecerá el modo en que el procedimiento de constitución y afiliación del partido político en formación, como también el de afiliación y desafiliación de los partidos políticos que ya se encuentren legalmente constituidos, podrá realizarse de acuerdo con las disposiciones de la ley Nº 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma. En dicha instrucción se deberá disponer, asimismo, que las afiliaciones y desafiliaciones sean notificadas por el Servicio, en el mismo procedimiento, a los partidos políticos a que afecten las mismas.
 
-Las declaraciones deberán ser individuales y contendrán su nombre completo, apellidos, domicilio, fecha de nacimiento y cédula nacional de identidad. Cada nuevo afiliado deberá declarar bajo juramento su condición de ciudadano habilitado para votar en la región respectiva y no estar afiliado a otro partido político inscrito o en formación, ni estar o haber estado participando en la formación de un partido político en los últimos doscientos cuarenta días corridos.
+En la primera actuación del procedimiento administrativo de que se trate, los partidos políticos podrán señalar una forma de notificación expedita y eficaz, preferentemente indicando una casilla de correo electrónico, para tales efectos. Se entenderá que este derecho subsiste en cualquier etapa del procedimiento. Lo señalado precedentemente se aplicará tanto a los partidos en formación como a aquellos legalmente constituidos.
+
+Las declaraciones deberán ser individuales y contendrán su nombre completo, apellidos, domicilio, fecha de nacimiento y cédula nacional de identidad. Cada nuevo afiliado deberá declarar bajo juramento su condición de ciudadano habilitado para votar en la región respectiva y no estar afiliado a otro partido político inscrito o en formación, ni estar o haber estado participando en la formación de un partido político en los últimos doscientos cuarenta días corridos. El Servicio Electoral deberá rechazar aquellas declaraciones que no cumplan con los requisitos dispuestos en este inciso, respecto de las eventuales afiliaciones o participación en procesos de formación de partidos políticos, conforme a la información que conste en sus propias bases de datos y aquella obtenida en virtud de lo dispuesto en el inciso final del artículo 3 de la ley orgánica constitucional sobre Votaciones Populares y Escrutinios.
 
 El órgano ejecutivo provisional podrá excluir, sin expresión de causa, a cualquier afiliado que haya suscrito la declaración a que se refiere este artículo. El ciudadano excluido no será considerado como afiliado al partido para efecto alguno.
 
@@ -272,9 +274,9 @@ Una vez inscrito el partido en el registro de partidos políticos, la afiliació
 
 #### Artículo 22
 
-El Servicio Electoral deberá mantener actualizado el registro de afiliados de cada partido político. Además, si los estatutos del partido reconocieren como adherentes a menores de 18 y mayores de 14 años de edad que no hayan sido condenados por delitos que merezcan pena aflictiva, o a aquellas personas inhabilitadas para ejercer su derecho a sufragio por razones calificadas en sus estatutos, el Servicio Electoral deberá mantener actualizado el registro de estos. Dichos registros estarán ordenados por circunscripciones, distritos y comunas. Los registros se considerarán actualizados una vez que sean eliminadas de ellos las personas que se encuentran afiliadas a más de un partido político, las que hubieren renunciado a su afiliación o adhesión, aquellas cuya inscripción no se hubiere completado de forma legal y las que, conforme a la información contenida en el registro electoral, estén fallecidas o inhabilitadas para ejercer el derecho a sufragio, sin perjuicio de lo dispuesto en este inciso respecto del registro de adherentes.
+El Servicio Electoral deberá mantener actualizado el registro de afiliados de cada partido político. Además, si los estatutos del partido reconocieren como adherentes a menores de 18 y mayores de 14 años de edad que no hayan sido condenados por delitos que merezcan pena aflictiva, o a aquellas personas inhabilitadas para ejercer su derecho a sufragio por razones calificadas en sus estatutos, el Servicio Electoral deberá mantener actualizado el registro de estos. Dichos registros estarán ordenados por circunscripciones, distritos y comunas. Los registros se considerarán actualizados una vez que sean eliminadas de ellos las personas que se encuentran afiliadas a más de un partido político, las que hubieren renunciado a su afiliación o adhesión, aquellas cuya inscripción no se hubiere completado de forma legal, las que, conforme a la información contenida en el registro electoral, estén fallecidas o inhabilitadas para ejercer el derecho a sufragio, sin perjuicio de lo dispuesto en este inciso respecto del registro de adherentes y cuando así lo disponga la ley.
 
-Los partidos deberán comunicar al Servicio Electoral, dentro de los tres primeros días hábiles de cada mes, las nuevas afiliaciones, desafiliaciones, adhesiones y renuncias a ellas, que por cualquier causa se produjeren dentro del mes anterior al informado.
+Los partidos deberán comunicar al Servicio Electoral, dentro de los cinco primeros días hábiles de cada mes, las nuevas afiliaciones, desafiliaciones, adhesiones y renuncias a ellas, que por cualquier causa se produjeren dentro del mes anterior al informado.
 
 #### Artículo 23
 
@@ -318,7 +320,7 @@ Todos los miembros de los órganos señalados en el artículo anterior deberán 
 
 Las reglas de elección enunciadas en el inciso anterior serán aplicables a los miembros del tribunal supremo.
 
-El órgano ejecutivo de cada partido deberá remitir al Servicio Electoral el reglamento de elecciones internas. Asimismo, remitirá sus actualizaciones, si las hubiere, al menos sesenta días antes de la siguiente elección interna. Dicho reglamento deberá ser aprobado por el Servicio Electoral y regulará, al menos, los siguientes aspectos:
+El órgano ejecutivo de cada partido deberá remitir al Servicio Electoral el reglamento de elecciones internas. Dicho reglamento deberá ser remitido al Servicio Electoral dentro de los tres meses siguientes a la publicación realizada conforme al inciso primero del artículo 9. En caso contrario, se aplicará la multa establecida en el artículo 60, en su grado mínimo, otorgando el Servicio Electoral el plazo de diez días hábiles para cumplir con esta obligación, bajo el apercibimiento de incurrir en la sanción señalada en el numeral 6) del mismo artículo. Asimismo, remitirá sus actualizaciones, si las hubiere, al menos sesenta días antes de la siguiente elección interna. Dicho reglamento deberá ser aprobado por el Servicio Electoral y regulará, al menos, los siguientes aspectos:
 
 a) Procedimiento de declaración, inscripción, aceptación, rechazo e impugnación ante los tribunales internos de candidaturas a las elecciones internas.
 
@@ -564,13 +566,13 @@ En caso que el Estado no repartiera todos los fondos disponibles, los excesos no
 
 Para los efectos de esta ley, los partidos políticos llevarán un libro general de ingresos y egresos, uno de inventario y uno de balance, debiendo conservar la documentación que respalde sus anotaciones.
 
-Deberán llevar contabilidad separada de los fondos públicos y de los aportes privados que reciban y mantener a disposición permanente del público, a través de sus sitios electrónicos, el informe mensual de sus ingresos y gastos, actualizados trimestralmente, desglosado, al menos, en las siguientes categorías:
+Deberán llevar contabilidad, registrando los fondos públicos y los aportes privados que reciban y mantener a disposición permanente del público, a través de sus sitios electrónicos, el informe mensual de sus ingresos y gastos, actualizados trimestralmente, desglosado, al menos, en las siguientes categorías:
 
 a) Cuantía global de las cuotas y aportes de sus afiliados.
 
 b) Rendimientos procedentes de su propio patrimonio.
 
-c) Ingresos procedentes de los aportes de personas naturales.
+c) Ingresos procedentes de los aportes de personas naturales. Se deberán registrar todas las donaciones y asignaciones testamentarias que se hagan a su favor.
 
 d) Aportes estatales regulados en esta ley.
 
@@ -740,6 +742,8 @@ Si el pronunciamiento de los afiliados sobre la fusión y sobre la declaración 
 
 Si la fusión propuesta comprendiere más de dos partidos, pero no todos ellos la aprobaren en definitiva, podrá reducirse la fusión a los que hayan prestado su aprobación, siempre que esta circunstancia sea expresamente aceptada por los órganos intermedios colegiados respectivos.
 
+Los partidos políticos no podrán fusionarse durante el período comprendido entre los noventa días anteriores y los noventa días posteriores a la fecha de celebración de una elección de diputados.
+
 #### Artículo 53
 
 Acordada la fusión, los miembros de los órganos ejecutivos que hayan concurrido a la misma solicitarán por escrito al Director del Servicio Electoral, en presentación conjunta, que inscriba el partido resultante de la fusión y cancele las inscripciones de los partidos concurrentes a ella.
@@ -766,7 +770,7 @@ Los partidos políticos se disolverán:
 
 1.- Por acuerdo de los afiliados, a proposición del órgano intermedio colegiado, de conformidad con el artículo 35.
 
-2.- Por no alcanzar el 5 por ciento de los sufragios válidamente emitidos en la última elección de diputados, en cada una de a lo menos ocho regiones o en cada una de a lo menos tres regiones geográficamente contiguas, en su caso.
+2.- Por no alcanzar el 5 por ciento de los sufragios válidamente emitidos en la última elección de diputados, en cada una de a lo menos ocho regiones o en cada una de a lo menos tres regiones geográficamente contiguas, en su caso. El Tribunal Calificador de Elecciones comunicará el escrutinio al Servicio Electoral, el que determinará el cumplimiento del mínimo exigido. El escrutinio señalado tendrá el carácter de declarativo.
 
 3.- Por fusión con otro partido.
 
@@ -788,7 +792,7 @@ Si incurre en la situación prevista en el número 4 en una o más regiones, per
 
 La disolución del partido político, para todos los efectos legales, se formalizará mediante la cancelación de su inscripción en el registro de partidos políticos, la que será efectuada por el Director del Servicio Electoral, previa resolución del Consejo Directivo del Servicio Electoral que así lo disponga.
 
-En el caso del número 2 del artículo anterior, la cancelación se efectuará noventa días corridos después de comunicada al Director la sentencia de proclamación del Tribunal Calificador de Elecciones y el escrutinio general que éste haya realizado. Dentro de este plazo los partidos políticos podrán fusionarse, debiendo comunicar esta circunstancia al Director del Servicio Electoral.
+En el caso del número 2 del artículo anterior, la cancelación se efectuará treinta días corridos después de comunicada al Director la sentencia de proclamación del Tribunal Calificador de Elecciones y el escrutinio general que éste haya realizado.
 
 En el caso del número 4 del artículo precedente, el Director del Servicio Electoral procederá a la cancelación de la inscripción, luego de transcurridos ciento ochenta días corridos desde que dicho Servicio haya representado al presidente del partido, o su equivalente, la disminución de los afiliados en los términos del citado número y siempre que en este lapso no se hubieren acreditado nuevas inscripciones que completen el número mínimo de afiliados exigidos para constituir un partido.
 
