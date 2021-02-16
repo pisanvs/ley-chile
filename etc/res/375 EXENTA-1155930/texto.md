@@ -1,0 +1,9 @@
+ESTABLECE NÓMINA DE ESPECIES OBJETIVO, DE FAUNA ACOMPAÑANTE Y DE PESCA INCIDENTAL SOMETIDAS A LOS ARTÍCULOS 7°A Y 7°C DE LA LEY GENERAL DE PESCA Y ACUICULTURA PARA PESQUERÍA DE JUREL, AÑO 2021
+
+Por resolución exenta N° 375, de 5 de febrero de 2021, de esta Subsecretaría, establécese la nómina de especies objetivo, de fauna acompañante y de pesca incidental para la pesquería industrial de Jurel en las unidades de pesquería comprendidas en el área marítima de las regiones de Valparaíso a Los Lagos y para la actividad extractiva desarrollada en aguas internacionales, en el área de la convención sobre conservación y ordenamiento de los recursos pesqueros en Alta Mar en el Océano Pacífico Sur (SPRFMO), que se encuentran sometidas a un Plan de Reducción del Descarte y la Captura de Pesca Incidental autorizado mediante resolución exenta N° 1.626 de 2019, de conformidad con los artículos 7°A y 7°C de la Ley General de Pesca y Acuicultura, año 2021.
+
+Para los efectos antes señalados, la nómina se divide en cuatro categorías de especies: especie objetivo (Tabla 1); especies de fauna acompañante sujetas a cuotas globales anuales de captura (CGA), Licencia Transable de Pesca (LTP), Régimen Artesanal de Extracción (RAE), o Veda (V) según corresponda (Tabla 2); especies de fauna acompañante no administrada con cuota global anual de captura o sometida al Plan de Acción Nacional para la Conservación de Tiburones (PANT) (Tabla 3), y especies de pesca incidental (Tabla 4), distinguiendo en cada tabla las especies que tienen prohibición de descarte, especies cuyo descarte está autorizado y especies cuya devolución es obligatoria, según se detalla en la resolución extractada.
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 5 de febrero de 2021.- Alicia Gallardo Lagno, Subsecretaria de Pesca y Acuicultura.
