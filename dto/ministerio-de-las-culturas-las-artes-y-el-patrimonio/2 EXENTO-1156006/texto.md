@@ -1,0 +1,53 @@
+AUTORIZA LA EXTRACCIÓN DESDE EL TERRITORIO NACIONAL DE LAS MUESTRAS ARQUEOLÓGICAS QUE INDICA
+
+Núm. 2 exento.- Santiago, 3 de febrero de 2021.
+
+Vistos:
+
+Lo dispuesto en el artículo 35 de la Constitución Política de la República de Chile, cuyo texto fue refundido, coordinado y sistematizado por el decreto supremo N° 100, de 2005, del Ministerio Secretaría General de la Presidencia; en el decreto con fuerza de ley N° 1/19.653, de 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la ley N° 21.045, que creó el Ministerio de las Culturas, las Artes y el Patrimonio; en la ley N° 17.288, que legisla sobre monumentos nacionales, modifica las leyes N° 16.617 y N° 16.719, deroga el decreto ley N° 651, de 17 de octubre de 1925; en el artículo 43 de la ley N° 16.441 que crea el Departamento de Isla de Pascua; en el decreto supremo N° 19, de 2001, del Ministerio Secretaría General de la Presidencia que faculta a los Ministros de Estado a firmar "por orden del Presidente de la República"; y, en la resolución N° 7, de 2019, de la Contraloría General de la República.
+
+Considerando:
+
+1.- Que, la Contraloría General de la República, basada en el artículo 43 de la ley N° 16.441, en la ley N° 21.045 y en el decreto supremo N° 16, de 2018, del Ministerio Secretaría General de la Presidencia, que modificó el decreto supremo N° 19, de 2001, del Ministerio Secretaría General de la Presidencia, de la forma que indica y derogó decreto supremo N° 329, de 1997, del Ministerio de Educación, emitió el dictamen N° 30.280 del 6 de diciembre de 2018, a través del cual ha señalado que, para la extracción desde el territorio nacional de muestras arqueológicas al extranjero para fines científicos, se requiere de un decreto emitido por el Ministerio de las Culturas, las Artes y el Patrimonio.
+
+2.- Que, el Sr. Aryel Pacheco Mirada, antropólogo físico, en el marco de su investigación doctoral denominada "Tuberculosis in Andean communities from the North of Chile between 2000 BC to 1450 AD", a través de carta de 20 de octubre de 2020, solicitó autorización para enviar al extranjero una muestra bioantropológica correspondiente a una pieza dental procedente del sitio "Cementerio Arqueológico Vertedero Municipal La Chimba Alta". La muestra será sometida a análisis destructivos de ADN de patógenos infecciosos por la Dra. Kirsten Bos en el Department of Archaeogenetics del Max Planck Institute for the Science of Human History, en la ciudad de Jena, Alemania.
+
+3.- Que, el Sr. Calogero Santoro Vargas, del Instituto de Alta Investigación de la Universidad de Tarapacá, mediante carta de 3 de noviembre de 2020, solicitó autorización para enviar al extranjero 41 muestras malacológicas y botánicas para análisis destructivos de datación radiocarbónica en el Laboratorio DirectAMS, en Bothell, Estados Unidos. Las muestras se obtuvieron en perfiles arqueológicos de los sitios Caleta Vitor 2, Caleta Vitor 3 y el Morro 5, en el marco del proyecto Fondecyt N°1150763 "Marine Radiocarbon Reservoir Effects from Holocene Archaeological Shell Middens as A Proxy for Past Coastal Upwelling in Northern Chile: Local or Regional". El análisis de las muestras será financiado por el proyecto Fondecyt N°1191568 "From the Holocene to the Anthropocene: Reconstructing shifting paleoecological baselines using shell middens from northern Chile".
+
+4.- Que, el Sr. Philippe Moisan Tapia, paleobotánico y profesor asistente de la Facultad de Ciencias Naturales de la Universidad de Atacama mediante carta de 2 de noviembre de 2020, solicitó autorización para enviar al extranjero 1 muestra de material paleontológico proveniente de Sierra Áspera, Región de Antofagasta. La muestra será trasladada al Departamento de Dinámica de la Tierra y del Océano, de la Facultad de Ciencias de la Tierra de la Universidad de Barcelona, España, donde será sometida a análisis no destructivos de espectrometría IRTF, estereomicroscopia y pulido. Su análisis será financiado de forma privada, dado que los resultados constituirán la base para la generación de un proyecto de investigación.
+
+5.- Que, el Sr. Erwin González, biólogo paleontólogo, mediante carta de 15 de octubre de 2020, solicitó autorización para enviar al extranjero 27 muestras de material paleontológico proveniente de la colección del Museo Nacional de Historia Natural. Siete de las muestras serán trasladadas al laboratorio Beta Analytic, Miami, EE.UU, para datación radiocarbónica, y 20 al Instituto Catalán de Ecología Humanay Evolución Social, Tarragona, España, para análisis de isotópos estables. Los análisis son destructivos, por lo que las muestras no volverán al país. Lo anterior, en el marco del proyecto postdoctoral Fondecyt 3200806 "Qué comían, dónde vivían: un análisis crítico de los proxies no morfológicos utilizados en paleoecología de mamíferos fósiles, mediante el estudio de las variables ambientales, climáticas y ecológicas actuales de Chile Central (31°S-42°S)", patrocinado por la Pontificia Universidad Católica de Chile.
+
+6.- Que, el Consejo de Monumentos Nacionales, en sesiones ordinarias de fecha 28 de octubre de 2020, 11 de noviembre de 2020 y 25 de noviembre de 2020, autorizó las solicitudes de extracción del territorio nacional de muestras arqueológicas indicadas en los considerandos precedentes, con la finalidad que se practiquen los análisis científicos respectivos, en virtud de los requerimientos señalados y así solicitar la dictación del respectivo decreto supremo al Ministerio de las Culturas, las Artes y el Patrimonio.
+
+Decreto:
+
+1° Autorízase la extracción desde el territorio nacional, a contar de la fecha de publicación del presente decreto, de una muestra bioantropológica correspondiente a una pieza dental procedente del sitio "Cementerio Arqueológico Vertedero Municipal La Chimba Alta". La muestra será sometida a análisis destructivos de ADN de patógenos infecciosos por la Dra. Kirsten Bos en el Department of Archaeogenetics del Max Planck Institute for the Science of Human History, en la ciudad de Jena, Alemania. La salida de la muestra fue solicitada por el Sr. Aryel Pacheco Mirada, antropólogo físico, en el marco de su investigación doctoral denominada "Tuberculosis in Andean communities from the North of Chile between 2000 BC to 1450 AD".
+
+La muestra cuya salida se autoriza es la que a continuación se individualiza:
+
+.
+
+2° Autorízase la extracción desde el territorio nacional, a contar de la fecha de publicación del presente decreto, de 41 muestras malacológicas y botánicas para análisis destructivos de datación radiocarbónica en el Laboratorio DirectAMS, en Bothell, Estados Unidos. Las muestras se obtuvieron en perfiles arqueológicos de los sitios Caleta Vitor 2, Caleta Vitor 3 y el Morro 5, en el marco del proyecto Fondecyt N°1150763 "Marine Radiocarbon Reservoir Effects from Holocene Archaeological Shell Middens as A Proxy for Past Coastal Upwelling in Northern Chile: Local or Regional". La salida de muestras fue solicitada per el Sr. Calogero Santoro Vargas, del Instituto de Alta Investigación de la Universidad de Tarapacá. El análisis de las muestras será financiado por el proyecto Fondecyt N°1191568 "From the Holocene to the Anthropocene: Reconstructing shitting paleoecological baselines using shell middens from northern Chile".
+
+Las muestras cuya salida se autoriza, son las que a continuación se individualizan:
+
+.
+
+3° Autorízase la extracción desde el territorio nacional, a contar de la fecha de publicación del presente decreto, de 1 nuestra de material paleontológico proveniente de Sierra Áspera, Región de Antofagasta. La muestra será trasladada al Departamento de Dinámica de la Tierra y del Océano, de la Facultad de Ciencias de la Tierra de la Universidad de Barcelona, España, donde será sometida a análisis no destructivos de espectrometría IRTF, estereomicroscopia y pulido. La salida de la muestra fue solicitada por el Sr. Philippe Moisan Tapia, paleobotánico y profesor asistente de la Facultad de Ciencias Naturales de la Universidad de Copiapó. Su análisis será financiado de forma privada, dado que los resultados constituirán la base para la generación de un proyecto de investigación.
+
+La muestra cuya salida se autoriza, es la que a continuación se individualiza:
+
+4° Autorízase la extracción desde el territorio nacional, a contar de la fecha de publicación del presente decreto, de 27 muestras de material paleontológico proveniente de la colección del Museo Nacional de Historia Natural. Siete de las muestras serán trasladadas al laboratorio Beta Analytic, Miami, EE.UU., para datación radiocarbónica, y 20 al Instituto Catalán de Ecología Humana y Evolución Social, Tarragona, España, para análisis de isotópos estables. Los análisis son destructivos, por lo que las muestras no volverán al país. La salida de las muestras fue solicitada por el Sr. Erwin González, biólogo paleontólogo, y se realiza en el marco del proyecto postdoctoral Fondecyt 3200806 "Qué comían, dónde vivían: un análisis crítico de los proxies no morfológicos utilizados en paleoecología de mamíferos fósiles, mediante el estudio de las variables ambientales, climáticas y ecológicas actuales de Chile Central (31°S-42°S)", patrocinado por la Pontificia Universidad Católica de Chile.
+
+Las muestras cuya salida se autoriza, son las que a continuación se individualizan:
+
+.
+
+5° Adóptense todas las medidas pertinentes para el embalaje y transporte, según correspondiere, de todas las muestras, cuya salida se autoriza por este acto administrativo, las que serán de cargo de cada investigador.
+
+6° Publíquese el presente decreto, una vez que se encuentre totalmente tramitado, por parte de la Subsecretaría del Patrimonio Cultural en el banner de Gobierno Transparente de la página web del Ministerio de las Culturas, las Artes y el Patrimonio, en la categoría "Actos y Documentos Publicados en el Diario Oficial", en cumplimiento de lo previsto en el artículo 6 de la ley N° 20.285, sobre Acceso a información pública , y en el numeral 1 del artículo 6 de su Reglamento.
+
+Anótese, publíquese y archívese.- Por orden del Presidente de la República, Juan Carlos Silva Aldunate, Ministro (S) de las Culturas, las Artes y el Patrimonio.
+
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, Alejandra Novoa Sandoval, Subsecretaria (S) de las Culturas y las Artes.
