@@ -1,0 +1,5 @@
+CONVENIO DE COLABORACIÓN ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL SERVICIO NACIONAL DE CAPACITACIÓN Y EMPLEO (SENSE) PARA LA ADMINISTRACIÓN DEL SUBSIDIO AL EMPLEO DE LOS TRABAJADORES JÓVENES
+
+Mediante resolución exenta N° 72, 8 febrero 2011, el Director Nacional (S) del Instituto de Previsión Social aprueba el Convenio de Colaboración entre el Instituto de Previsión Social y el Servicio Nacional de Capacitación y Empleo, de fecha 31 diciembre 2010, destinado a coordinarse, desde el ámbito de sus respectivas competencias y atribuciones legales, y otorgarse mutua cooperación para la transferencia de información y otras materias de naturaleza operativas involucradas en la administración del Subsidio al Empleo de los Trabajadores Jóvenes, establecido en la ley N° 20.338 de 2009.- Juan Bennet Urrutia, Director Nacional (S).
+
+Alexander Suárez Olivares, Jefe Departamento Secretaría General y Transparencia.
