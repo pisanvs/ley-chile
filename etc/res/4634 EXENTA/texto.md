@@ -26,11 +26,15 @@ Resuelvo:
 
 a) Las paltas deberán haber sido sometidas a un proceso de lavado y cepillado en la empacadora.
 
-b) Cada fruto deberá contar con una etiqueta autoadhesiva en la cual se indique el código de la empacadora y la leyenda "Producto de México".
+b) Cada fruto deberá contar con una etiqueta autoadhesiva en la cual se indique el código de la empacadora y la leyenda "Producto de
+
+México".
 
 c) La partida deberá venir en envases y material de acomodación de primer uso, no permitiéndose el reenvase. En los envases se deberá indicar el Municipio de procedencia de la fruta, el nombre o código del productor y de la empacadora en que fue procesada y temporada de producción.
 
-d) En caso de transporte marítimo, los contenedores deberán venir con sello oficial.
+d) En caso de transporte marítimo, los
+
+contenedores deberán venir con sello oficial.
 
 Cada contenedor deberá estar en buenas condiciones, operando, con puertas de cierre hermético. Los números de los sellos deberán indicarse en el Certificado Fitosanitario.
 
@@ -47,7 +51,5 @@ e) En caso de transporte aéreo, la partida deberá venir cubierta por plástico
 ### 9. Derógase la resolución Nº 27, de fecha 7 de enero de 2003
 
 10. Esta resolución entrará en vigencia al momento de su publicación en el Diario Oficial.
-
-> **Nota.** El numeral 1º de la Resolución 7774 Exenta, Agricultura, publicada el 07.12.2021, modifica en forma transitoria la presente norma, en el sentido estricto de no hacer exigibles las supervisiones in situ y permanentes, realizadas por parte del SAG, al proceso exportador de frutos frescos de palto (Persea americana), variedad Hass, para consumo, producidos en los municipios de Uruapan, Salvador Escalante, Peribán de Ramos, Tancítaro, Nuevo Parangaricutiro (San Juan), Ario de Rosales y Taretan, del Estado de Michoacán, México. Asimismo, el numeral 4º de la citada norma dispone que esta modificación transitoria será aplicable para la temporada 2021-2022, o para las siguientes si la emergencia sanitaria por la COVID-19, u otro imprevisto no posible de controlar, sigue imposibilitando las supervisiones presenciales permanentes, por parte del SAG, al proceso exportador en México.
 
 Anótese, comuníquese y publíquese.- Dionisio Faulbaum Mayorga, Director Nacional.
