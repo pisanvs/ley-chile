@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 1.722, de 12 de noviembre de 2020, de esta Secretaría Regional Ministerial, se modificó la resolución exenta N° 168 de 17 de enero de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Valparaíso, modificando la dirección de funcionamiento a la Escuela de Conductores No Profesional o Clase B "Instituto de Capacitación y Escuela de Conductores C y C San Antonio Limitada", de propiedad de la sociedad del mismo nombre, pudiendo funcionar y actuar con el nombre de fantasía "Escuela de Conductores C y C San Antonio Limitada", representada legalmente por doña Claudia Yamili Aravena Cabeza, RUN N° 13.767.969-8. Su lugar de funcionamiento será la sede ubicada en calle Antofagasta N° 204, piso 2, Barrancas, comuna de San Antonio.-
+
+José Emilio Guzmán Cepeda, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
