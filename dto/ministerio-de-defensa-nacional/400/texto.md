@@ -38,7 +38,7 @@ c).- Las municiones y cartuchos;
 
 d) Los explosivos y otros artefactos de similar naturaleza de uso industrial, minero u otro uso legítimo que requiera de autorización, sus partes, dispositivos y piezas, incluyendo los detonadores y otros elementos semejantes;
 
-e).- Las sustancias químicas que esencialmente son susceptibles de ser usadas o empleadas para la fabricación de explosivos, o que sirven de base para la elaboración de municiones, proyectiles, misiles o cohetes, bombas, cartuchos, y los elementos lacrimógenos o de efecto fisiológico;
+e).- Las sustancias químicas que esencialmente son susceptibles de ser usadas o empleadas para la fabricación de explosivos, o que sirven de base para la elaboración de municiones, proyectiles, misiles o cohetes, bombas, cartuchos, y los elementos lacrimógenos;
 
 f) Los fuegos artificiales, artículos pirotécnicos y otros artefactos de similar naturaleza, sus partes, dispositivos y piezas. En este caso no será aplicable lo dispuesto en los artículos 8º y 14 A;
 
@@ -58,7 +58,9 @@ Además, ninguna persona podrá poseer o tener armas de fabricación artesanal n
 
 Se exceptúa de estas prohibiciones a las Fuerzas Armadas y a Carabineros de Chile. La Policía de Investigaciones de Chile, Gendarmería de Chile y la Dirección General de Aeronáutica Civil, estarán exceptuadas sólo respecto de la tenencia y posesión de armas automáticas livianas y semiautomáticas, y de disuasivos químicos, lacrimógenos, paralizantes o explosivos y de granadas, hasta la cantidad que autorice el Ministro de Defensa Nacional, a proposición del Director del respectivo Servicio. Estas armas y elementos podrán ser utilizados en la forma que señale el respectivo Reglamento Orgánico y de Funcionamiento Institucional.
 
-En todo caso, ninguna persona podrá poseer o tener armas denominadas especiales, que son las que corresponden a las químicas, biológicas y nucleares.
+Ninguna persona podrá poseer, desarrollar, producir, almacenar, conservar o emplear armas químicas, biológicas o toxínicas. La prohibición anterior y los delitos asociados a ésta quedarán sujetos a la ley que implementa la convención sobre la prohibición del desarrollo, la producción, el almacenamiento y el empleo de armas químicas y sobre su destrucción y la convención sobre la prohibición del desarrollo, la producción y el almacenamiento de armas bactereológicas (biológicas) y toxínicas y sobre su destrucción.
+
+En todo caso, ninguna persona podrá poseer o tener armas nucleares.
 
 > **Nota.** El artículo 10 transitorio de la LEY 19047, publicada el 14.02.1991, dispuso que las personas que posean armas o elementos prohibidos por la presente ley, podrán hacer entrega de ellos a cualquier autoridad pública, dentro del plazo de 90 días, contados desde la publicación de esta ley, quedando exentas de la responsabilidad penal que se derive únicamente de la posesión o tenencia indebida.
 
@@ -298,7 +300,7 @@ El Ministerio de Defensa Nacional, a través de la Dirección General de Moviliz
 
 #### Artículo 14
 
-D.- El que colocare, enviare, activare, arrojare, detonare, disparare o hiciere explosionar bombas o artefactos explosivos, químicos, incendiarios, tóxicos, corrosivos o infecciosos en, desde o hacia la vía pública, edificios públicos o de libre acceso al público, o dentro de o en contra de medios de transporte público, instalaciones sanitarias, de almacenamiento o transporte de combustibles, de instalaciones de distribución o generación de energía eléctrica, portuarias, aeronáuticas o ferroviarias, incluyendo las de trenes subterráneos, u otros lugares u objetos semejantes, será sancionado con presidio mayor en su grado medio. La misma pena se impondrá al que enviare cartas o encomiendas explosivas, químicas, incendiarias, tóxicas, corrosivas o infecciosas de cualquier tipo.
+D.- El que colocare, enviare, activare, arrojare, detonare, disparare o hiciere explosionar bombas o artefactos explosivos, incendiarios, corrosivos en, desde o hacia la vía pública, edificios públicos o de libre acceso al público, o dentro de o en contra de medios de transporte público, instalaciones sanitarias, de almacenamiento o transporte de combustibles, de instalaciones de distribución o generación de energía eléctrica, portuarias, aeronáuticas o ferroviarias, incluyendo las de trenes subterráneos, u otros lugares u objetos semejantes, será sancionado con presidio mayor en su grado medio. La misma pena se impondrá al que enviare cartas o encomiendas explosivas, incendiarias, corrosivas de cualquier tipo.
 
 Si las conductas descritas en el inciso precedente se realizaren en, desde o hacia lugares u objetos distintos de los allí señalados, la pena será presidio mayor en su grado mínimo.
 

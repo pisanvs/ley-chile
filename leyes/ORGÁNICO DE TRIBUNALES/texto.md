@@ -106,9 +106,11 @@ Quedan sometidos a la jurisdicción chilena los crímenes y simples delitos perp
 
 9°) Los sancionados por la ley 6.026 y las que la han modificado, cometidos por chilenos o por extranjeros al servicio de la República;
 
-10°) Los sancionados en los artículos 366 quinquies, 367 y 367 bis Nº 1, del Código Penal, cuando pusieren en peligro o lesionaren la indemnidad o la libertad sexual de algún chileno o fueren cometidos por un chileno o por una persona que tuviere residencia habitual en Chile; y el contemplado en el artículo 374 bis, inciso primero, del mismo cuerpo legal, cuando el material pornográfico objeto de la conducta hubiere sido elaborado utilizando chilenos menores de dieciocho años, y
+10°) Los sancionados en los artículos 366 quinquies, 367 y 367 bis Nº 1, del Código Penal, cuando pusieren en peligro o lesionaren la indemnidad o la libertad sexual de algún chileno o fueren cometidos por un chileno o por una persona que tuviere residencia habitual en Chile; y el contemplado en el artículo 374 bis, inciso primero, del mismo cuerpo legal, cuando el material pornográfico objeto de la conducta hubiere sido elaborado utilizando chilenos menores de dieciocho años;
 
-11°) Los sancionados en el artículo 62 del decreto con fuerza de ley Nº 1, del Ministerio de Economía, Fomento y Reconstrucción, de 2004, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 211, de 1973, cuando afectaren los mercados chilenos.
+11°) Los sancionados en el artículo 62 del decreto con fuerza de ley Nº 1, del Ministerio de Economía, Fomento y Reconstrucción, de 2004, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 211, de 1973, cuando afectaren los mercados chilenos;
+
+12°. Los delitos cometidos por chilenos, que se encuentran comprendidos en los artículos 34 y 35 de la Ley que Implementa la Convención sobre la Prohibición del Desarrollo, la Producción, el Almacenamiento y el Empleo de Armas Químicas y sobre su Destrucción y la Convención sobre la Prohibición del Desarrollo, la Producción y el Almacenamiento de Armas Biológicas (Bacteriológicas) y Toxínicas y sobre su Destrucción.
 
 > **Nota.** El artículo 3° de la Ley 20960, publicada el 18.10.2016, modifica la presente norma en el sentido de reemplazar en el N° 9, la expresión ", y" por un punto y coma (;), y en el número 10, el punto final por ", y" e incorpora un nuevo N° 11 del siguiente tenor: "11. Los delitos y faltas penales sancionados en la ley Nº 18.556 y en la ley Nº 18.700, cometidos por chilenos o extranjeros.". Sin embargo, este precepto ya había sido modificado por la Ley 20945, publicada el 30.08.2016, tal como aparece en el presente texto actualizado, incorporando también un N° 11.
 
@@ -192,21 +194,21 @@ Segunda Región de Antofagasta:
 
 Tocopilla, con un juez, con competencia sobre la misma comuna.
 
-Calama, con cuatro jueces, con competencia sobre las comunas de Calama, Ollagüe y San Pedro de Atacama.
+Calama, con cinco jueces, con competencia sobre las comunas de Calama, Ollagüe y San Pedro de Atacama.
 
-Antofagasta, con siete jueces, con competencia sobre las comunas de Sierra Gorda y Antofagasta.
+Antofagasta, con nueve jueces, con competencia sobre las comunas de Sierra Gorda y Antofagasta.
 
 Tercera Región de Atacama:
 
 Diego de Almagro, con un juez, con competencia en la misma comuna.
 
-Copiapó, con cuatro jueces, con competencia sobre las comunas de Copiapó y Tierra Amarilla.
+Copiapó, con cinco jueces, con competencia sobre las comunas de Copiapó y Tierra Amarilla.
 
 Vallenar, con dos jueces, con competencia sobre las comunas de Vallenar y Alto del Carmen.
 
 Cuarta Región de Coquimbo:
 
-La Serena, con tres jueces, con competencia sobre las comunas de La Serena y La Higuera.
+La Serena, con cuatro jueces, con competencia sobre las comunas de La Serena y La Higuera.
 
 Vicuña, con un juez, con competencia sobre las comunas de Vicuña y Paihuano.
 
@@ -218,17 +220,17 @@ Illapel, con un juez, con competencia sobre las comunas de Illapel y Salamanca.
 
 Quinta Región de Valparaíso:
 
-La Ligua, con un juez, con competencia sobre las comunas de La Ligua, Cabildo, Papudo y Zapallar.
+La Ligua, con dos jueces, con competencia sobre las comunas de La Ligua, Cabildo, Papudo y Zapallar.
 
 Calera, con dos jueces, con competencia sobre las comunas de Nogales, Calera, La Cruz e Hijuelas.
 
 San Felipe, con tres jueces, con competencia sobre las comunas de San Felipe, Catemu, Santa María, Panquehue y Llay-LLay.
 
-Los Andes, con dos jueces, con competencia sobre las comunas de San Esteban, Rinconada, Calle Larga y Los Andes.
+Los Andes, con tres jueces, con competencia sobre las comunas de San Esteban, Rinconada, Calle Larga y Los Andes.
 
 Quillota, con dos jueces, con competencia sobre la misma comuna.
 
-Limache, con un juez, con competencia sobre las comunas de Limache y Olmué.
+Limache, con dos jueces, con competencia sobre las comunas de Limache y Olmué.
 
 Viña del Mar, con ocho jueces, con competencia sobre las comunas de Viña del Mar y Concón.
 
@@ -240,17 +242,17 @@ Villa Alemana, con dos jueces, con competencia sobre la misma comuna.
 
 Casablanca, con un juez, con competencia sobre la misma comuna.
 
-San Antonio, con cuatro jueces, con competencia sobre las comunas de Algarrobo, El Quisco, El Tabo, Cartagena, San Antonio y Santo Domingo.
+San Antonio, con cinco jueces, con competencia sobre las comunas de Algarrobo, El Quisco, El Tabo, Cartagena, San Antonio y Santo Domingo.
 
 Sexta Región del Libertador General Bernardo O'Higgins:
 
 Graneros, con dos jueces, con competencia sobre las comunas de Mostazal, Graneros y Codegua.
 
-Rancagua, con siete jueces, con competencia sobre las comunas de Rancagua, Machalí, Doñihue, Coínco y Olivar.
+Rancagua, con nueve jueces, con competencia sobre las comunas de Rancagua, Machalí, Doñihue, Coínco y Olivar.
 
 San Vicente, con dos jueces, con competencia sobre las comunas de Coltauco, Pichidegua y San Vicente.
 
-Rengo, con dos jueces, con competencia sobre las comunas de Requínoa, Quinta de Tilcoco, Malloa y Rengo.
+Rengo, con tres jueces, con competencia sobre las comunas de Requínoa, Quinta de Tilcoco, Malloa y Rengo.
 
 San Fernando, con tres jueces, con competencia sobre las comunas de San Fernando, Placilla y Chimbarongo.
 
@@ -260,13 +262,13 @@ Séptima Región del Maule:
 
 Curicó, con cuatro jueces, con competencia sobre las comunas de Teno, Rauco, Curicó, Romeral y Sagrada Familia.
 
-Molina, con un juez, con competencia sobre la misma comuna.
+Molina, con dos jueces, con competencia sobre la misma comuna.
 
 Constitución, con dos jueces, con competencia sobre las comunas de Constitución y Empedrado.
 
 Talca, con seis jueces, con competencia sobre las comunas de Río Claro, Pencahue, Talca, Pelarco, San Clemente, Maule y San Rafael.
 
-San Javier, con un juez, con competencia sobre las comunas de San Javier y Villa Alegre.
+San Javier, con dos jueces, con competencia sobre las comunas de San Javier y Villa Alegre.
 
 Cauquenes, con un juez, con competencia sobre la misma comuna.
 
@@ -280,7 +282,7 @@ Tomé, con un juez, con competencia sobre la misma comuna.
 
 Talcahuano, con cuatro jueces, con competencia sobre las comunas de Talcahuano y Hualpén.
 
-Concepción, con siete jueces, con competencia sobre las comunas de Penco y Concepción.
+Concepción, con ocho jueces, con competencia sobre las comunas de Penco y Concepción.
 
 San Pedro de la Paz, con tres jueces, con competencia sobre la misma comuna.
 
@@ -302,7 +304,7 @@ Victoria, con un juez, con competencia sobre la misma comuna.
 
 Nueva Imperial, con un juez, con competencia sobre las comunas de Nueva Imperial, Cholchol y Teodoro Schmidt.
 
-Temuco, con seis jueces, con competencia sobre las comunas de Temuco, Vilcún, Melipeuco, Cunco y Padre Las Casas.
+Temuco, con ocho jueces, con competencia sobre las comunas de Temuco, Vilcún, Melipeuco, Cunco y Padre Las Casas.
 
 Lautaro, con un juez, con competencia sobre las comunas de Galvarino, Perquenco y Lautaro.
 
@@ -338,19 +340,19 @@ Decimocuarta Región de los Ríos:
 
 Mariquina, con un juez, con competencia sobre las comunas de Mariquina y Lanco.
 
-Valdivia, con tres jueces, con competencia sobre las comunas de Valdivia y Corral.
+Valdivia, con cuatro jueces, con competencia sobre las comunas de Valdivia y Corral.
 
 Los Lagos, con un juez, con competencia sobre las comunas de Máfil, Los Lagos y Futrono.
 
 Decimoquinta Región de Arica y Parinacota:
 
-Arica, con cinco jueces, con competencia sobre las comunas de General Lagos, Putre, Arica y Camarones.
+Arica, con seis jueces, con competencia sobre las comunas de General Lagos, Putre, Arica y Camarones.
 
 Región Metropolitana de Santiago:
 
 Colina, con cuatro jueces, con competencia sobre las comunas de Til Til, Colina y Lampa.
 
-Puente Alto, con ocho jueces, con competencia sobre las comunas de Puente Alto, San José de Maipo y Pirque.
+Puente Alto, con nueve jueces, con competencia sobre las comunas de Puente Alto, San José de Maipo y Pirque.
 
 San Bernardo, con diez jueces, con competencia sobre las comunas de San Bernardo, Calera de Tango, Buin y Paine.
 
@@ -374,7 +376,7 @@ Quinto Juzgado de Garantía de Santiago, con cinco jueces, con competencia sobre
 
 Sexto Juzgado de Garantía de Santiago, con siete jueces, con competencia sobre las comunas de Estación Central y Quinta Normal.
 
-Séptimo Juzgado de Garantía de Santiago, con doce jueces, con competencia sobre la comuna de Santiago.
+Séptimo Juzgado de Garantía de Santiago, con catorce jueces, con competencia sobre la comuna de Santiago.
 
 Octavo Juzgado de Garantía de Santiago, con nueve jueces, con competencia sobre las comunas de Providencia y Ñuñoa.
 
@@ -454,9 +456,9 @@ Iquique, con trece jueces, con competencia sobre las comunas de Huara, Camiña, 
 
 Segunda Región de Antofagasta:
 
-Calama, con seis jueces, con competencia sobre las comunas de Calama, Ollagüe y San Pedro de Atacama.
+Calama, con siete jueces, con competencia sobre las comunas de Calama, Ollagüe y San Pedro de Atacama.
 
-Antofagasta, con diez jueces, con competencia sobre las comunas de Tocopilla, María Elena, Mejillones, Sierra Gorda, Antofagasta y Taltal.
+Antofagasta, con trece jueces, con competencia sobre las comunas de Tocopilla, María Elena, Mejillones, Sierra Gorda, Antofagasta y Taltal.
 
 Tercera Región de Atacama:
 
@@ -466,7 +468,7 @@ Cuarta Región de Coquimbo:
 
 La Serena, con diez jueces, con competencia sobre las comunas de La Higuera, Vicuña, La Serena, Coquimbo, Andacollo y Paihuano.
 
-Ovalle, con cinco jueces, con competencia sobre las comunas de Ovalle, Río Hurtado, Punitaqui, Monte Patria, Combarbalá, Canela, Illapel, Los Vilos y Salamanca.
+Ovalle, con siete jueces, con competencia sobre las comunas de Ovalle, Río Hurtado, Punitaqui, Monte Patria, Combarbalá, Canela, Illapel, Los Vilos y Salamanca.
 
 Quinta Región de Valparaíso:
 
@@ -476,19 +478,19 @@ Los Andes, con cuatro jueces, con competencia sobre las comunas de la provincia 
 
 Quillota, con seis jueces, con competencia sobre las comunas de La Ligua, Petorca, Cabildo, Papudo, Zapallar, Nogales, Calera, La Cruz, Quillota, Hijuelas, Limache y Olmué.
 
-Viña del Mar, con trece jueces, con competencia sobre las comunas de Puchuncaví, Quintero, Viña del Mar, Villa Alemana, Quilpué y Concón.
+Viña del Mar, con dieciseís jueces, con competencia sobre las comunas de Puchuncaví, Quintero, Viña del Mar, Villa Alemana, Quilpué y Concón.
 
-Valparaíso, con quince jueces, con competencia sobre las comunas de Juan Fernández, Valparaíso, Casablanca e Isla de Pascua.
+Valparaíso, con diecinueve jueces, con competencia sobre las comunas de Juan Fernández, Valparaíso, Casablanca e Isla de Pascua.
 
 San Antonio, con siete jueces, con competencia sobre las comunas de Algarrobo, El Quisco, El Tabo, Cartagena, San Antonio y Santo Domingo.
 
 Sexta Región del Libertador General Bernardo O'Higgins:
 
-Rancagua, con doce jueces, con competencia sobre las comunas de Mostazal, Graneros, Codegua, Rancagua, Machalí, Las Cabras, Coltauco, Doñihue, Olivar, Coinco, Requínoa, Peumo, Quinta de Tilcoco, Pichidegua, San Vicente, Malloa y Rengo.
+Rancagua, con dieciséis jueces, con competencia sobre las comunas de Mostazal, Graneros, Codegua, Rancagua, Machalí, Las Cabras, Coltauco, Doñihue, Olivar, Coinco, Requínoa, Peumo, Quinta de Tilcoco, Pichidegua, San Vicente, Malloa y Rengo.
 
 San Fernando, con cuatro jueces, con competencia sobre las comunas de San Fernando, Placilla y Chimbarongo.
 
-Santa Cruz, con cuatro jueces, con competencia sobre las comunas de Santa Cruz, Navidad, Litueche, La Estrella, Pichilemu, Marchigüe, Paredones, Peralillo, Palmilla, Pumanque, Nancagua, Lolol y Chépica.
+Santa Cruz, con siete jueces, con competencia sobre las comunas de Santa Cruz, Navidad, Litueche, La Estrella, Pichilemu, Marchigüe, Paredones, Peralillo, Palmilla, Pumanque, Nancagua, Lolol y Chépica.
 
 Séptima Región del Maule:
 
@@ -512,7 +514,7 @@ Novena Región de La Araucanía:
 
 Angol, con cuatro jueces, con competencia sobre las comunas de Angol, Renaico, Collipulli, Purén, Los Sauces, Ercilla, Lumaco, Traiguén y Victoria.
 
-Temuco, con nueve jueces, con competencia sobre las comunas de Lonquimay, Curacautín, Galvarino, Perquenco, Carahue, Nueva Imperial, Temuco, Lautaro, Vilcún, Melipeuco, Saavedra, Teodoro Schmidt, Freire, Cunco, Toltén, Pitrufquén, Gorbea, Cholchol y Padre Las Casas.
+Temuco, con diez jueces, con competencia sobre las comunas de Lonquimay, Curacautín, Galvarino, Perquenco, Carahue, Nueva Imperial, Temuco, Lautaro, Vilcún, Melipeuco, Saavedra, Teodoro Schmidt, Freire, Cunco, Toltén, Pitrufquén, Gorbea, Cholchol y Padre Las Casas.
 
 Villarrica, con cuatro jueces, con competencia sobre las comunas de Loncoche, Villarrica, Pucón y Curarrehue.
 
@@ -534,7 +536,7 @@ Punta Arenas, con seis jueces, con competencia sobre las comunas de Natales, Tor
 
 Decimocuarta Región de los Ríos:
 
-Valdivia, con seis jueces, con competencia sobre las comunas de Mariquina, Lanco, Panguipulli, Máfil, Valdivia, Los Lagos, Corral, Paillaco, Futrono, La Unión, Lago Ranco y Río Bueno.
+Valdivia, con siete jueces, con competencia sobre las comunas de Mariquina, Lanco, Panguipulli, Máfil, Valdivia, Los Lagos, Corral, Paillaco, Futrono, La Unión, Lago Ranco y Río Bueno.
 
 Decimoquinta Región de Arica y Parinacota:
 
@@ -706,7 +708,9 @@ Los nuevos juzgados que se instalen tendrán como territorio jurisdiccional la r
 
 Los juzgados de letras con competencia común integrados por dos jueces, tendrán la siguiente planta de personal: un administrador, un jefe de unidad, dos administrativos jefe, cinco administrativos 1º, dos administrativos 2º, un administrativo 3º, tres ayudantes de servicios y un auxiliar.
 
-La planta de personal de los tribunales señalados en el inciso anterior que tengan dentro de su competencia la resolución de asuntos de familia contarán, adicionalmente, con un consejero técnico.
+Los juzgados de letras con competencia común integrados por tres jueces tendrán la siguiente planta de personal: un administrador, un jefe de unidad, dos administrativos jefe, cinco administrativos 1º, tres administrativos 2º, dos administrativos 3º y cuatro auxiliares.
+
+La planta de personal de los tribunales señalados en los incisos anteriores que tengan dentro de su competencia la resolución de asuntos de familia contarán, adicionalmente, con un consejero técnico.
 
 Los jueces y el personal directivo de estos juzgados tendrán los grados de la Escala de Sueldos Bases Mensuales del Escalafón del Personal Superior del Poder Judicial que se indican a continuación:
 
@@ -716,7 +720,7 @@ b) Los administradores de juzgados de letras de competencia común de capital de
 
 c) Los jefes de unidad de juzgados de letras de competencia común de capital de provincia y los de comuna o agrupación de comunas, grados X y XI del Escalafón Superior del Poder Judicial, respectivamente.
 
-El personal de empleados de los juzgados de letras de competencia común con dos jueces, tendrán los grados de la Escala de Sueldos Bases Mensuales del Personal del Poder Judicial, que a continuación se indican:
+El personal de empleados de los juzgados de letras de competencia común con dos o tres jueces, tendrán los grados de la Escala de Sueldos Bases Mensuales del Personal del Poder Judicial, que a continuación se indican:
 
 a) Administrativos jefe de juzgados de letras de competencia común de capital de provincia y los de comuna o agrupación de comunas, grados XII y XIII del Escalafón de Empleados del Poder Judicial, respectivamente.
 
@@ -732,7 +736,7 @@ f) Auxiliares de juzgados de letras de competencia común de capital de provinci
 
 #### Artículo 27 ter
 
-En los juzgados de competencia común con dos jueces, habrá un juez presidente del tribunal, cuyo cargo se radicará anualmente en cada uno de los jueces que lo integran comenzando por el más antiguo.
+En los juzgados de competencia común con dos o tres jueces, habrá un juez presidente del tribunal, cuyo cargo se radicará anualmente en cada uno de los jueces que lo integran comenzando por el más antiguo.
 
 Sus atribuciones y deberes son los siguientes:
 
@@ -764,7 +768,7 @@ m) Ejercer las demás atribuciones y deberes que determinen las leyes.
 
 #### Artículo 27 quater
 
-Los juzgados de letras de competencia común con dos jueces se organizarán en las siguientes unidades administrativas para el cumplimiento eficaz y eficiente de las correspondientes funciones:
+Los juzgados de letras de competencia común con dos o tres jueces se organizarán en las siguientes unidades administrativas para el cumplimiento eficaz y eficiente de las correspondientes funciones:
 
 a) Sala, que consistirá en la organización y asistencia a la realización de las audiencias.
 
@@ -786,7 +790,7 @@ Tres juzgados con asiento en la comuna de Iquique, con competencia sobre las com
 
 B.- JUZGADOS DE COMPETENCIA COMÚN:
 
-Un Juzgado con asiento en la comuna de Pozo Almonte, con dos jueces, con competencia sobre las comunas de Pica, Pozo Almonte, Huara, Colchane y Camiña.
+Un Juzgado con asiento en la comuna de Pozo Almonte, con tres jueces, con competencia sobre las comunas de Pica, Pozo Almonte, Huara, Colchane y Camiña.
 
 #### Artículo 29
 
@@ -798,7 +802,7 @@ Cuatro juzgados de letras en lo civil en la comuna de Antofagasta, con competenc
 
 B.- JUZGADOS DE COMPETENCIA COMUN:
 
-Un juzgado con asiento en la comuna de Tocopilla, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Tocopilla, con dos jueces, con competencia sobre la misma comuna;
 
 Un juzgado con asiento en la comuna de María Elena, con competencia sobre la misma comuna. Un juzgado con asiento en la comuna de Mejillones, con dos jueces, con competencia sobre la misma comuna;
 
@@ -838,7 +842,7 @@ Tres Juzgados con asiento en la comuna de Coquimbo, con competencia sobre la mis
 
 B.- JUZGADOS DE COMPETENCIA COMÚN:
 
-Un Juzgado con asiento en la comuna de Vicuña, con competencia sobre las comunas de Vicuña y Paihuano;
+Un Juzgado con asiento en la comuna de Vicuña, con dos jueces, con competencia sobre las comunas de Vicuña y Paihuano;
 
 Un Juzgado con asiento en la comuna de Andacollo, con competencia sobre la misma comuna;
 
@@ -846,7 +850,7 @@ Tres Juzgados con asiento en la comuna de Ovalle, con competencia sobre las comu
 
 Un Juzgado con asiento en la comuna de Combarbalá, con competencia sobre la misma comuna;
 
-Un Juzgado con asiento en la comuna de Illapel, con competencia sobre las comunas de Illapel y Salamanca, y
+Un Juzgado con asiento en la comuna de Illapel, con dos jueces, con competencia sobre las comunas de Illapel y Salamanca, y
 
 Un Juzgado con asiento en la comuna de Los Vilos, con dos jueces, con competencia sobre las comunas de Los Vilos y Canela.
 
@@ -880,7 +884,7 @@ Un juzgado de letras con asiento en la comuna de Putaendo, con competencia sobre
 
 Dos juzgados de letras con asiento en la comuna de Quillota, con competencia sobre las comunas de Quillota y La Cruz;
 
-Un juzgado de letras con asiento en la comuna de Quintero, con dos jueces, con competencia sobre las comunas de Quintero y Puchuncaví;
+Un juzgado de letras con asiento en la comuna de Quintero, con tres jueces, con competencia sobre las comunas de Quintero y Puchuncaví;
 
 Un juzgado de letras con asiento en la comuna de Calera, con dos jueces, con competencia sobre las comunas de Calera, Nogales e Hijuelas;
 
@@ -900,7 +904,7 @@ Dos juzgados de letras en lo civil con asiento en la comuna de Rancagua, con com
 
 B.- JUZGADOS CON COMPETENCIA COMUN:
 
-Un juzgado con asiento en la comuna de Rengo, con competencia sobre las comunas de Rengo, Requínoa, Malloa y Quinta de Tilcoco;
+Un juzgado con asiento en la comuna de Rengo, con dos jueces, con competencia sobre las comunas de Rengo, Requínoa, Malloa y Quinta de Tilcoco;
 
 Un juzgado con asiento en la comuna de San Vicente, con dos jueces, con competencia sobre las comunas de San Vicente y Pichidegua;
 
@@ -910,7 +914,7 @@ Dos juzgados con asiento en la comuna de San Fernando, con competencia sobre las
 
 Un juzgado con asiento en la comuna de Santa Cruz, con competencia sobre las comunas de Santa Cruz, Chépica y Lolol.
 
-Un juzgado con asiento en la comuna de Pichilemu, con competencia sobre la misma comuna.
+Un juzgado con asiento en la comuna de Pichilemu, con dos jueces, con competencia sobre la misma comuna.
 
 Un juzgado con asiento en la comuna de Litueche, con competencia sobre las comunas de Navidad, Litueche y La Estrella.
 
@@ -940,7 +944,7 @@ Dos Juzgados con asiento en la comuna de Linares, con competencia sobre las comu
 
 Un Juzgado con asiento en la comuna de San Javier, con dos jueces, con competencia sobre las comunas de San Javier y Villa Alegre;
 
-Un Juzgado con asiento en la comuna de Cauquenes, con competencia sobre la misma comuna;
+Un Juzgado con asiento en la comuna de Cauquenes, con dos jueces, con competencia sobre la misma comuna;
 
 Un Juzgado con asiento en la comuna de Chanco, con competencia sobre las comunas de Chanco y Pelluhue, y
 
@@ -960,13 +964,13 @@ B.- JUZGADOS CON COMPETENCIA COMUN:
 
 Dos juzgados con asiento en la comuna de Los Angeles, con competencia sobre las comunas de Los Angeles, Quilleco y Antuco;
 
-Un juzgado con asiento en la comuna de Santa Bárbara, con competencia sobre las comunas de Santa Bárbara, Quilaco y Alto Biobío;
+Un juzgado con asiento en la comuna de Santa Bárbara, con dos jueces, con competencia sobre las comunas de Santa Bárbara, Quilaco y Alto Biobío;
 
-Un juzgado con asiento en la comuna de Mulchén, con competencia sobre la comuna de Mulchén;
+Un juzgado con asiento en la comuna de Mulchén, con dos jueces, con competencia sobre la comuna de Mulchén;
 
-Un juzgado con asiento en la comuna de Nacimiento, con competencia sobre las comunas de Nacimiento y Negrete;
+Un juzgado con asiento en la comuna de Nacimiento, con dos jueces, con competencia sobre las comunas de Nacimiento y Negrete;
 
-Un juzgado con asiento en la comuna de Laja, con competencia sobre las comunas de Laja y San Rosendo;
+Un juzgado con asiento en la comuna de Laja, con dos jueces, con competencia sobre las comunas de Laja y San Rosendo;
 
 Un juzgado con asiento en la comuna de Yumbel, con competencia sobre la misma comuna;
 
@@ -984,9 +988,9 @@ Un juzgado con asiento en la comuna de Lebu, con dos jueces, con competencia sob
 
 Un juzgado con asiento en la comuna de Arauco, con competencia sobre la misma comuna;
 
-Un juzgado con asiento en la comuna de Curanilahue, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Curanilahue, con dos jueces, con competencia sobre la misma comuna;
 
-Un juzgado con asiento en la comuna de Cañete, con competencia sobre las comunas de Cañete, Contulmo y Tirúa, y
+Un juzgado con asiento en la comuna de Cañete, con dos jueces, con competencia sobre las comunas de Cañete, Contulmo y Tirúa, y
 
 Un juzgado con asiento en la comuna de Cabrero, con dos jueces, con competencia sobre la misma comuna.
 
@@ -1006,7 +1010,7 @@ Un juzgado con asiento en la comuna de Purén, con competencia sobre las comunas
 
 Un juzgado con asiento en la comuna de Collipulli, con dos jueces, con competencia sobre las comunas de Collipulli y Ercilla;
 
-Un juzgado con asiento en la comuna de Traiguén, con competencia sobre las comunas de Traiguén y Lumaco;
+Un juzgado con asiento en la comuna de Traiguén, con dos jueces, con competencia sobre las comunas de Traiguén y Lumaco;
 
 Un juzgado con asiento en la comuna de Victoria, con competencia sobre la misma comuna;
 
@@ -1016,7 +1020,7 @@ Un juzgado con asiento en la comuna de Toltén, con competencia sobre la misma c
 
 Un juzgado con asiento en la comuna de Loncoche, con competencia sobre la misma comuna;
 
-Un juzgado con asiento en la comuna de Pitrufquén, con competencia sobre las comunas de Pitrufquén y Gorbea;
+Un juzgado con asiento en la comuna de Pitrufquén, con dos jueces, con competencia sobre las comunas de Pitrufquén y Gorbea;
 
 Un juzgado con asiento en la comuna de Villarrica, con dos jueces, con competencia sobre la misma comuna;
 
@@ -1024,7 +1028,7 @@ Un juzgado con asiento en la comuna de Nueva Imperial, con dos jueces, con compe
 
 Un juzgado con asiento en la comuna de Pucón, con dos jueces, con competencia sobre las comunas de Pucón y Curarrehue;
 
-Un juzgado con asiento en la comuna de Lautaro, con competencia sobre las comunas de lautaro, Perquenco y Galvarino, y
+Un juzgado con asiento en la comuna de Lautaro, con dos jueces, con competencia sobre las comunas de lautaro, Perquenco y Galvarino, y
 
 Un juzgado con asiento en la comuna de Carahue, con dos jueces, con competencia sobre las comunas de Carahue y Saavedra.
 
@@ -1088,7 +1092,7 @@ Tres Juzgados con asiento en la comuna de Punta Arenas, con competencia sobre la
 
 B.- JUZGADOS DE COMPETENCIA COMÚN:
 
-Un Juzgado con asiento en la comuna de Natales, con competencia sobre las comunas de la provincia de Última Esperanza.
+Un Juzgado con asiento en la comuna de Natales, con dos jueces, con competencia sobre las comunas de la provincia de Última Esperanza.
 
 Un Juzgado con asiento en la comuna de Porvenir, con competencia sobre las comunas de la provincia de Tierra del Fuego.
 
@@ -1098,17 +1102,21 @@ Un Juzgado con asiento en la comuna de Cabo de Hornos, con competencia sobre las
 
 En la Decimocuarta Región, de Los Ríos, existirán los siguientes juzgados de letras:
 
+A.- JUZGADOS CIVILES:
+
 Dos juzgados con asiento en la comuna de Valdivia, con competencia sobre las comunas de Valdivia y Corral;
+
+B.- JUZGADOS CON COMPETENCIA COMUN:
 
 Un juzgado con asiento en la comuna de Mariquina, con dos jueces, con competencia sobre las comunas de Mariquina, Máfil y Lanco;
 
-Un juzgado con asiento en la comuna de Los Lagos, con competencia sobre las comunas de Los Lagos y Futrono;
+Un juzgado con asiento en la comuna de Los Lagos, con dos jueces, con competencia sobre las comunas de Los Lagos y Futrono;
 
 Un juzgado con asiento en la comuna de Panguipulli, con dos jueces, con competencia sobre la misma comuna;
 
 Un juzgado con asiento en la comuna de La Unión, con dos jueces, con competencia sobre la misma comuna;
 
-Un juzgado con asiento en la comuna de Paillaco, con jurisdicción sobre la misma comuna, y
+Un juzgado con asiento en la comuna de Paillaco, con dos jueces, con jurisdicción sobre la misma comuna, y
 
 Un juzgado con asiento en la comuna de Río Bueno, con dos jueces, con jurisdicción sobre las comunas de Río Bueno y Lago Ranco.
 
@@ -1160,11 +1168,11 @@ Dos juzgados con asiento en la comuna de Talagante y competencia sobre las comun
 
 Un juzgado con asiento en la comuna de Peñaflor, con competencia sobre las comunas de Peñaflor y Padre Hurtado;
 
-Un juzgado con asiento en la comuna de Melipilla, con competencia sobre las comunas de la provincia de Melipilla, con excepción de Curacaví, y
+Un juzgado con asiento en la comuna de Melipilla, con dos jueces, con competencia sobre las comunas de la provincia de Melipilla, con excepción de Curacaví, y
 
 Dos juzgados con asiento en la comuna de Buin, con competencia sobre las comunas de Buin y Paine.
 
-Un juzgado con asiento en la comuna de Colina, con dos jueces, con competencia sobre las comunas de la Provincia de Chacabuco.
+Un juzgado con asiento en la comuna de Colina, con tres jueces, con competencia sobre las comunas de la Provincia de Chacabuco.
 
 #### Artículo 41
 
@@ -2410,7 +2418,7 @@ Son causas de recusación:
 
 5°) Ser el juez deudor o acreedor de alguna de las partes o de su abogado; o serlo su cónyuge o conviviente civil o alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
 
-Sin embargo, no tendrá aplicación la causal del presente número si una de las partes fuere alguna de las instituciones de previsión fiscalizadas por la Superintendencia de Seguridad Social, la Asociación Nacional de Ahorro y Préstamo, o uno de los Servicios de Vivienda y Urbanización, a menos que estas instituciones u organismos ejerciten actualmente cualquier acción judicial contra el juez o contra alguna otra de las personas señaladas o viceversa;
+Sin embargo, no tendrá aplicación la causal del presente número si una de las partes fuere alguna de las instituciones de previsión fiscalizadas por la Superintendencia de Seguridad Social, la Asociación Nacional de Ahorro y Préstamo, o uno de los Servicios de Vivienda y Urbanización o una compañía prestadora de un servicio básico domiciliario, a menos que estas instituciones u organismos ejerciten actualmente cualquier acción judicial contra el juez o contra alguna otra de las personas señaladas o viceversa;
 
 6°) Tener alguno de los ascendientes o descendientes del juez o los parientes colaterales del mismo dentro del segundo grado, causa pendiente que deba fallar como juez alguna de las partes;
 
@@ -2454,7 +2462,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 7.600 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 5.730 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 8.024 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 6.050 pesos.
 
 #### Artículo 199
 
@@ -3026,7 +3034,7 @@ Primera Serie: Defensores públicos.
 
 Segunda Serie: Notarios, conservadores y archiveros.
 
-Tercera Serie: Administradores, subadministradores y jefes de unidades de tribunales con competencia en lo criminal, juzgados de letras del trabajo y juzgados de letras de competencia común con dos jueces.
+Tercera Serie: Administradores, subadministradores y jefes de unidades de tribunales con competencia en lo criminal, juzgados de letras del trabajo y juzgados de letras de competencia común con dos o más jueces.
 
 Cuarta Serie: Procuradores del número.
 
@@ -3046,13 +3054,13 @@ La tercera serie, tendrá las siguientes categorías:
 
 Primera categoría: Administrador de tribunales de juicio oral en lo penal, de juzgados de garantía, juzgados de letras del trabajo y juzgados con competencia común con dos jueces de ciudad asiento de Corte de Apelaciones.
 
-Segunda Categoría: Administrador de tribunales de juicio oral en lo penal, de juzgados de garantía, juzgados de letras del trabajo y juzgados con competencia común con dos jueces de ciudad asiento de capital de provincia y subadministrador de tribunales de juicio oral en lo penal, de juzgados de garantía y juzgados de letras del trabajo de ciudad asiento de Corte de Apelaciones.
+Segunda Categoría: Administrador de tribunales de juicio oral en lo penal, de juzgados de garantía, juzgados de letras del trabajo y juzgados con competencia común con dos o más jueces de ciudad asiento de capital de provincia y subadministrador de tribunales de juicio oral en lo penal, de juzgados de garantía y juzgados de letras del trabajo de ciudad asiento de Corte de Apelaciones.
 
-Tercera categoría: Administrador de tribunales de juicio oral en lo penal, de juzgados de garantía y juzgados con competencia común con dos jueces de ciudad asiento de comuna o agrupación de comunas, subadministrador de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, y jefe de unidad de tribunales de juicio oral en lo penal, de juzgados de garantía y juzgados de letras del trabajo de ciudad asiento de Corte de Apelaciones.
+Tercera categoría: Administrador de tribunales de juicio oral en lo penal, de juzgados de garantía y juzgados con competencia común con dos o más jueces de ciudad asiento de comuna o agrupación de comunas, subadministrador de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, y jefe de unidad de tribunales de juicio oral en lo penal, de juzgados de garantía y juzgados de letras del trabajo de ciudad asiento de Corte de Apelaciones.
 
-Cuarta categoría: Subadministrador de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, y jefe de unidad de tribunales de juicio oral en lo penal, de juzgados de garantía, juzgados de letras del trabajo y juzgados con competencia común con dos jueces de ciudad asiento de capital de provincia.
+Cuarta categoría: Subadministrador de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, y jefe de unidad de tribunales de juicio oral en lo penal, de juzgados de garantía, juzgados de letras del trabajo y juzgados con competencia común con dos o más jueces de ciudad asiento de capital de provincia.
 
-Quinta categoría: Jefe de unidad de tribunales de juicio oral en lo penal, de juzgados de garantía y juzgados con competencia común con dos jueces de ciudad asiento de comuna o agrupación de comunas.
+Quinta categoría: Jefe de unidad de tribunales de juicio oral en lo penal, de juzgados de garantía y juzgados con competencia común con dos o más jueces de ciudad asiento de comuna o agrupación de comunas.
 
 3). Formación del Escalafón y calificación del personal
 
