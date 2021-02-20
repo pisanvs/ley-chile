@@ -282,11 +282,7 @@ No está permitido el público en este tipo de actividades de entrenamiento y co
 
 34. Del funcionamiento de los establecimientos educacionales. Dispóngase, en las localidades que se encuentren en "Paso 1: Cuarentena" la suspensión presencial de las clases en todos los establecimientos de educación parvularia, sala cuna, básica y media, pudiendo continuar la prestación del servicio educacional de manera remota, conforme a los criterios que establezca el Ministerio de Educación.
 
-En las localidades que se encuentren en los Pasos 2, 3 y 4 de los que trata el Capítulo II de esta resolución, se permite el funcionamiento de los establecimientos de educación parvularia y salas cuna, debiendo cumplirse con la normativa, instrucciones y protocolos emitidos por el Ministerio de Salud, con el objeto de asegurar las condiciones sanitarias de los establecimientos.
-
-En las localidades que se encuentren en los Pasos 3 y 4 de los que trata el Capítulo II de esta resolución, se permite el funcionamiento de los establecimientos de educación básica y media, debiendo cumplirse con la normativa, instrucciones y protocolos emitidos por el Ministerio de Salud, con el objeto de asegurar las condiciones sanitarias de los establecimientos.
-
-En las localidades que se encuentren en el Paso 2 se permite el funcionamiento de los establecimientos de educación básica y media, previa autorización de reanudación de clases presenciales por la Secretaría Regional Ministerial de Educación correspondiente, debiendo cumplirse con la normativa, instrucciones y protocolos emitidos por el Ministerio de Salud, con el objeto de asegurar las condiciones sanitarias de los establecimientos educacionales. Si una localidad retrocede al Paso 2, podrá continuar su funcionamiento sin necesidad de la autorización de la que trata este párrafo.
+En las localidades que se encuentren en los Pasos 2, 3 y 4 de los que trata el Capítulo II de esta resolución, se permite el funcionamiento de salas cuna y de establecimientos de educación parvularia, básica y media, debiendo cumplirse con la normativa, instrucciones y protocolos emitidos por el Ministerio de Salud, con el objeto de asegurar las condiciones sanitarias de los establecimientos.
 
 35. De la recalada de cruceros. Prohíbase la recalada en todos los puertos chilenos de cruceros de pasajeros.
 
