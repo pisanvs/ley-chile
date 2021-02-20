@@ -220,23 +220,9 @@ La oferta económica se entregará de la forma que detallen la ley, este reglame
 
 La oferta económica deberá enterarse dentro de los plazos y en la forma que se indica a continuación:
 
-a) Tratándose de casinos de juego que inicien sus operaciones, y para ofertas económicas inferiores al 15% de los ingresos brutos del juego, correspondiente al período de los doce meses inmediatamente anteriores al mes en que se presenta la oferta, en el respectivo proceso de otorgamiento de permiso de juego, aquellas se pagarán durante el mes siguiente al inicio de operaciones por la totalidad del monto anual comprometido por la sociedad operadora en su oferta económica.
+a) Tratándose de casinos de juego que inicien sus operaciones, la oferta económica se pagará durante el mes siguiente a dicho inicio de operaciones, por la totalidad del monto anual comprometido por la sociedad operadora en su oferta económica, a menos que, el período de funcionamiento desde la fecha de inicio de operaciones sea inferior a un año calendario, caso en el cual se pagará la proporción correspondiente al monto anual del período, habida entre el inicio de la operación del casino y el 31 de diciembre de ese mismo año.
 
-Sin perjuicio de lo anterior, si el período de funcionamiento desde la fecha de inicio de operaciones es inferior a un año calendario, se pagará la proporción correspondiente al monto anual del período habida entre el inicio de la operación del casino y el 31 de diciembre de ese mismo año.
-
-Para los años calendario siguientes, la oferta económica se pagará dentro del mes de enero de cada año, por la totalidad del monto anual comprometido por la sociedad operadora en su oferta económica.
-
-Cuando el último período de funcionamiento del casino de juego no alcance a cubrir el año calendario, se pagará la proporción correspondiente al monto anual del período, habida entre el término de la operación del casino y el día primero de enero de ese mismo año.
-
-b) Tratándose de casinos de juego que inicien sus operaciones, cuyas ofertas económicas sean iguales o superiores al 15% de los ingresos brutos del juego, correspondiente al período de los doce meses inmediatamente anteriores al mes en que se presenta la oferta, en el respectivo proceso de otorgamiento de permiso de juego, ésta se pagará mediante doce pagos mensuales de igual monto, a partir del mes siguiente al de inicio de operaciones.
-
-Sin perjuicio de lo anterior, si el período de funcionamiento desde la fecha de inicio de operaciones es inferior a un año calendario, se pagará mediante pagos mensuales equivalentes a la proporción correspondiente al monto anual del período, habida entre el inicio de la operación del casino y el 31 de diciembre de ese mismo año; en tanto para los años calendario siguientes, la oferta económica se pagará mediante doce pagos mensuales de igual monto.
-
-En caso en que el último período de funcionamiento del casino de juego no alcance a cubrir el año calendario, los pagos parciales, de igual monto, deberán cubrir la oferta económica en la proporción correspondiente al monto anual del período, habida entre el término de la operación del casino y el día primero de enero de ese mismo año.
-
-c) El pago de la oferta será de conformidad con lo establecido en la letra b) de este artículo si la oferta económica es igual o superior a UF 70.000.- para el caso de sociedades operadoras que obtengan por primera vez un permiso de operación, y respecto de los dos primeros años de operación; a partir del tercer año la referida modalidad se mantendrá si la oferta económica es igual o mayor al 15% de los ingresos brutos del juego anuales promedio, obtenidos en los primeros 24 meses de operación.
-
-Asimismo, durante la vigencia del permiso de operación, cuando una oferta económica supere el 15% de los ingresos brutos del juego anuales promedio de los últimos 24 meses, la sociedad operadora respectiva realizará el pago de conformidad a lo establecido en la letra b) de este artículo.
+b) Para los años calendario siguientes, la oferta económica se pagará dentro del mes de enero de cada año, por la totalidad del monto anual comprometido por la sociedad operadora en su oferta económica; exceptuando el caso en que, el último período de funcionamiento del casino de juego, no alcance a cubrir el año calendario, en cuya hipótesis deberá enterarse la oferta económica en la proporción correspondiente al monto anual del período, habida entre el término de la operación del casino y el día primero de enero de ese mismo año.
 
 #### Artículo 16
 
@@ -244,11 +230,7 @@ Para efectos del pago referido en el artículo precedente, se deberá considerar
 
 #### Artículo 17
 
-El Servicio de Tesorerías recaudará los pagos correspondientes a la referida oferta económica y pondrá sus recursos a disposición de las respectivas municipalidades dentro del mes siguiente al de su recaudación, se trate de un pago parcial de la oferta o de un pago total según el monto de la oferta, de conformidad con lo establecido en el artículo 15.
-
-En caso de que correspondan pagos por montos provenientes de la ejecución de la garantía establecida en el segundo inciso del artículo 46 de este reglamento, se transferirá al respectivo municipio mediante tres pagos anuales, que se verificarán en el mismo mes calendario al que corresponda el primer pago. Tratándose de ofertas económicas a que refiere la letra b) del artículo 15, se verificará mediante treinta y seis pagos mensuales.
-
-Igualmente, el Servicio de Tesorerías recaudará los recursos provenientes de la eventual ejecución de la garantía establecida en el inciso primero del artículo 46 de este reglamento, efectuando los traspasos que correspondan.
+El Servicio de Tesorerías recaudará la referida oferta económica y pondrá a disposición de las municipalidades respectivas los recursos correspondientes, dentro del mes subsiguiente al de su recaudación, incluyendo, en su caso, aquellos provenientes de la eventual ejecución de las garantías establecidas en el artículo 46 de este reglamento.
 
 #### Artículo 18
 
