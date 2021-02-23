@@ -178,6 +178,8 @@ El Contralor Regional será el responsable de la administración interna de los 
 
 El Contralor Regional elaborará, a requerimiento de la Secretaría General, el proyecto de presupuesto de la oficina a su cargo.
 
+El Contralor Regional, en el marco de la administración de los recursos, podrá informar acerca del estado y uso de los inmuebles destinados a esta entidad que se ubiquen en la respectiva región, pudiendo al efecto suscribir documentos, declaraciones juradas de uso u otros instrumentos, a petición de entidades públicas o privadas, y de conformidad a la normativa vigente.
+
 #### Artículo 15
 
 El Contralor Regional podrá contratar la adquisición de bienes de uso o consumo corriente, los servicios y la reparación de bienes muebles e inmuebles, de acuerdo a la normativa aplicable y siempre que tales contrataciones no excedan de 100 UTM.
