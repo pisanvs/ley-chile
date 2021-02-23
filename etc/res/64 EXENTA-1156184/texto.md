@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 64, de fecha 4 de febrero 2021, de esta Secretaría Regional, se aprobaron los planes y programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores Seguridad Vial Ltda. de propiedad de la sociedad "Servicios de Capacitación Cornejo y González Limitada", cuyo representante legal es Pablo Andrés Cornejo Abarca, RUN N° 13.570.515-2. La Escuela de Conductores tendrá como Director a Ricardo Mauricio Rojas Cereceda, RUN N° 11.530.454-2, y su sede estará ubicada en calle Chillán N° 1020, comuna y ciudad de San Fernando. Las horas pedagógicas autorizadas a la referida Escuela son 10 teóricas, 12 prácticas, con un total de 22 horas pedagógicas.-
+
+Hans Eugenio González González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
