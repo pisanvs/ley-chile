@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "ENEL GREEN POWER CHILE S.A."
+
+Mediante decreto exento N° 84, de 8 de febrero de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Enel Green Power Chile S.A.", R.U.T. N° 76.412.562-2, el inmueble fiscal denominado "Sector Miraje", ubicado aproximadamente a 5 kilómetros al este de la intersección de la Ruta 5 con la Ruta B-211, de la comuna de María Elena provincia de Tocopilla, Región de Antofagasta, singularizado en el Plano N° 02302-4.538-C.R., de una superficie de 1.163,77 hectáreas, enrolado en el Servicio de Impuestos Internos bajo el Rol N° 6903-51; amparado por la inscripción global a nombre del Fisco que rola a fojas 6 N° 6 del Registro de Propiedad del año 1996, del Conservador de Bienes Raíces de María Elena. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de U.F. 11.200; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
