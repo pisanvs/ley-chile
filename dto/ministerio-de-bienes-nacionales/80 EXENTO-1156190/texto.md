@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE TARAPACÁ, A "ENEL GREEN POWER CHILE S.A."
+
+Mediante decreto exento N° 80, de 8 de febrero de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Enel Green Power Chile S.A.", R.U.T. N° 76.412.562-2, el inmueble fiscal denominado "Sector Cerro Vista Faro", compuesto por el Lote "a" y Lote "b", ubicado a 10,43 kilómetros aproximadamente al sureste de Alto Hospicio, comuna de Pozo Almonte, provincia de Tamarugal, Región de Tarapacá, singularizado en el Plano N° 01401-3.945-C.R., de una superficie total de 197,651 hectáreas, enrolado en el Servicio de Impuestos internos bajo los Roles N° 4605-4 y 4605-5, respectivamente, amparado por la inscripción global a nombre del Fisco que rola a fojas 54 N° 53 del Registro de Propiedad del año 1989 del Conservador de Bienes Raíces de Pozo Almonte. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de U.F. 2.647; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
