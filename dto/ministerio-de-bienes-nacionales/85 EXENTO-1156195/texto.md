@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "CE CENTINELA SOLAR SpA"
+
+Mediante decreto exento N° 85, de 8 de febrero de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "CE Centinela Solar SpA", RUT N° 77.070.574-6, el inmueble fiscal denominado "Uribe Este", ubicado al costado oriente de la Ruta 5, kilómetro 1.376,34 próximo al Nudo Uribe que conecta la Ruta 5 con la Ruta 26, comuna y provincia de Antofagasta, Región de Antofagasta, singularizado en el Plano N° 02101-9.251-C.U., de una superficie de 220.845,38 metros cuadrados, enrolado en el Servicio de Impuestos Internos bajo el Rol N° 6701-22; amparado por la inscripción global a nombre del Fisco que rola a fojas 3509 vta. N° 3776 del Registro de Propiedad del año 2014, del Conservador de Bienes Raíces de Antofagasta. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de UF 3.446; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
