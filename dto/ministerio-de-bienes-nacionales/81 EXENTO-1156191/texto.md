@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE TARAPACÁ, A "ENEL GREEN POWER CHILE S.A."
+
+Mediante decreto exento N° 81, de 8 de febrero de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Enel Green Power Chile S.A.", R.U.T. N° 76.412.562-2, el inmueble fiscal denominado "Pampa Perdiz", ubicado en la Ruta 16, kilómetro 21.500, Sector Pampa Perdiz, comuna de Alto Hospicio, provincia de Iquique, Región de Tarapacá, singularizado en el Plano N° 01107-2.736-C.R., de una superficie de 200,32 hectáreas, enrolado en el Servicio de Impuestos Internos bajo el Rol N° 7500-2, amparado por la inscripción global a nombre del Fisco que rola a fojas 1711 N° 1747 del Registro de Propiedad del año 2014 del Conservador de Bienes Raíces de Pozo Almonte. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de U.F. 3.156; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
