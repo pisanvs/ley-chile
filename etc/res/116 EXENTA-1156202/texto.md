@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 116 EXENTA, DE 18 DE ENERO DE 2021
+
+Mediante resolución exenta N° 116, de 18 de enero de 2021, el Servicio Nacional de Capacitación y Empleo declara el cese, a contar del 1 de agosto de 2020, de la inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "Organismo Técnico de Capacitación Sales Training System Chile Limitada (Organismo Técnico de Capacitación Sales Training System Chile Limitada)", RUT 76.160.203-9, contenida en la resolución exenta N° 10.124, de 26 de octubre de 2011, por cuanto dejó de cumplir con el requisito establecido en el N° 2, del Art. 21 de la ley 19.518.
+
+Santiago, 18 de enero de 2021.- Andrea del Carmen Contreras Cuéllar, Jefe del Departamento de Desarrollo y Regulación de Mercado, Servicio Nacional de Capacitación y Empleo
