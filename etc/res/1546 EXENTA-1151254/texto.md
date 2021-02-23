@@ -54,7 +54,11 @@ Para la alternativa de postulación colectiva, la Entidad Patrocinante deberá c
 
 2.1. Modalidad de adquisición de viviendas
 
+.
+
 2.2. Modalidad de construcción en sitio propio o densificación predial
+
+.
 
 3°.- El número de postulantes seleccionados en cada región dentro de la respectiva modalidad, Título, tramo y alternativa de postulación, alcanzará hasta el número de Certificados de Subsidio susceptibles de financiar con los recursos previstos para el otorgamiento del subsidio directo, que para cada modalidad se fija en los cuadros insertos en el 2.1. y 2.2. del número 2° de esta resolución.
 
