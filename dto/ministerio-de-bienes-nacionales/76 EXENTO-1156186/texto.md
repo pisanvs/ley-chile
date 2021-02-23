@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ATACAMA, A "MANZANO SOLAR SpA"
+
+Mediante decreto exento Nº 76, de 8 de febrero de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Manzano Solar SpA", RUT Nº 77.240.129-9, el inmueble fiscal denominado "Pampa Bellavista 2", ubicado en Camino de Acceso S/Nº interior Ruta C-351, kilómetro 7, Sector Pampa Bellavista, comuna de Caldera, provincia de Copiapó, Región de Atacama, singularizado en el Plano N° 03102-2.927-C.R., de una superficie de 30,24 hectáreas, enrolado en el Servicio de Impuestos Internos bajo el Rol Nº 7000-70, amparado por la inscripción global a nombre del fisco que rola a fojas 207 N° 180 del Registro de Propiedad del año 1996 del Conservador de Bienes Raíces de Caldera. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la concesión para el período de estudios y construcción será de UF 1.000,00, y para el período de operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
