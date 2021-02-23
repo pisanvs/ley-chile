@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ATACAMA, A "SAN FRANCISCO SpA"
+
+Mediante decreto exento Nº 75, de 8 de febrero de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "San Francisco SpA", RUT Nº 77.096.942-5, el inmueble fiscal denominado "Chulo Sur", ubicado en Camino de Acceso, interior Ruta C-377, altura kilómetro 2,3 aproximadamente, sector Quebrada Los Cóndores, comuna de Copiapó, provincia de Copiapó, Región de Atacama, singularizado en el Plano Nº 03101-2.910-C.R., de una superficie de 33,17 hectáreas, enrolado en el Servicio de Impuestos Internos bajo el Rol Nº 7183-39, amparado por la inscripción global a nombre del fisco que rola a fojas 527 vta. Nº 500 del Registro de Propiedad del año 1964 del Conservador de Bienes Raíces de Copiapó. La concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la concesión para el período de estudios y construcción será de UF 655, y para el período de operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
