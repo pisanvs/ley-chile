@@ -20,7 +20,7 @@ Las personas que postulen como titulares vía internet a través de los medios e
 
 2. Se realizarán selecciones en los meses de abril, junio, agosto y noviembre, con las familias que hubieren efectuado válidamente su postulación en las fechas indicadas en el resuelvo precedente. Las familias que no sean consideradas en una selección, continuarán postulando y serán contempladas en la siguiente hasta el último proceso correspondiente al mes de noviembre.
 
-3. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de 1.425.620 Unidades de Fomento.
+3. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de 1.571.820 Unidades de Fomento.
 
 4. La cantidad de familias a seleccionar se distribuirán regionalmente según la tabla que se presenta a continuación, pudiendo practicarse redistribuciones o modificaciones de recursos que serán sancionadas mediante resolución.
 
