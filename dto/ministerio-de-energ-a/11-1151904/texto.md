@@ -82,6 +82,8 @@ Para la determinación de los respectivos valores expresados en la tabla anterio
 
 El A.V.I. total y C.O.M.A. de las obras de ampliación adjudicadas se reajustará anualmente, en dólares de los Estados Unidos de Norte América, según las siguientes fórmulas de indexación:
 
+.
+
 Donde, para la fórmula anterior:
 
 Respecto al subíndice 0 de la fórmula anterior, éste corresponde al mes de adjudicación de la obra de ampliación por parte del Coordinador, con el fin de conformar los valores base de los índices, de forma tal que al mes de la adjudicación, la aplicación de la fórmula de indexación para el A.V.I. total y C.O.M.A. dé como resultado el A.V.I. total y C.O.M.A. que conforman el V.A.T.T. indicado en el numeral 3° del presente decreto.
