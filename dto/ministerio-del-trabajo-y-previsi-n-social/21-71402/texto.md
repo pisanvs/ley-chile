@@ -136,7 +136,7 @@ Otras Prestaciones
 
 Artículo Nº 9: Subsidio de Carácter Social, sin cargos de restitución que se otorgarán a los afiliados, por las causales y con las modalidades que se indican:
 
-a) De Matrimonio: Se otorgará al afiliado que contraiga matrimonio, acreditado con el respectivo certificado. Si ambos estuviesen afiliados al Bienestar, el subsidio se pagará a cada uno de ellos en forma separada.
+a) De Matrimonio o Acuerdo de Unión Civil en los términos de la ley 20.830. Se otorgará al afiliado que contraiga matrimonio o celebre acuerdo de Unión Civil, acreditado con el respectivo certificado. Si ambos estuviesen afiliados al Bienestar, el subsidio se pagará a cada uno de ellos en forma separada.
 
 b) De Nacimiento: Se otorgará al afiliado que lo acredite, mediante el respectivo certificado de nacimiento del hijo. Si ambos padres son afiliados al Bienestar, lo percibirá cada uno en forma independiente.
 
