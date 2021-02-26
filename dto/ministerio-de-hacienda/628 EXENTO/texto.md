@@ -26,7 +26,7 @@ Decreto:
 
 Concédanse nuevos aportes a aquellos entregados en virtud de la Ley Nº 21.230, que Concede un Ingreso Familiar de Emergencia, en los términos señalados en los artículos siguientes.
 
-Los aportes se concederán mensualmente durante los meses de enero y/o febrero del año 2021, para lo cual se deberá postular a cada uno de ellos, de acuerdo a lo indicado en el artículo siguiente a excepción de los beneficiarios incluidos en el literal c. del artículo 3, en el literal b. del artículo 4 y en el artículo 5, los que estarán incluidos en la respectiva nómina de beneficiarios.
+Los aportes se concederán mensualmente durante los meses de enero, febrero, marzo y/o abril del año 2021, para lo cual se deberá postular a cada uno de ellos, de acuerdo a lo indicado en el artículo siguiente, a excepción de los beneficiarios incluidos en el literal c. del artículo 3, en el literal b. del artículo 4 y en el artículo 5, los que estarán incluidos en la respectiva nómina de beneficiarios.
 
 #### Artículo 2
 
@@ -63,6 +63,10 @@ Para determinar en qué etapa del Plan "Paso a Paso" contenido en el Capítulo I
 1.- En cuanto al aporte correspondiente al mes de enero de 2021, se considerarán las cinco semanas transcurridas entre los días 27 de noviembre y 31 de diciembre de 2020, ambos inclusive.
 
 2.- En cuanto al aporte correspondiente al mes de febrero de 2021, se considerarán las cinco semanas transcurridas entre los días 28 de diciembre de 2020 y 31 de enero de 2021, ambos inclusive.
+
+3.- En cuanto al aporte correspondiente al mes de marzo de 2021, se considerarán las cinco semanas transcurridas entre los días 25 de enero de 2021 y 28 de febrero de 2021, ambos inclusive.
+
+4.- En cuanto al aporte correspondiente al mes de abril de 2021, se considerarán las cinco semanas transcurridas entre los días 25 de febrero de 2021 y 31 de marzo de 2021, ambos inclusive.
 
 Teniendo presente el inciso anterior, para considerar una determinada comuna en uno u otro paso del Plan "Paso a Paso", se deberá seguir las siguientes reglas:
 
