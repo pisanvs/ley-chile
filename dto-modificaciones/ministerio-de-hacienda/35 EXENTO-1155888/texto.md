@@ -38,7 +38,7 @@ Reemplázase el inciso final del artículo 6 por el siguiente:
 
 3.- Si dentro del lapso correspondiente del inciso anterior no cumple con lo señalado en los numerales 1 y 2 anteriores, pero ha estado al menos catorce días en el "Paso 3: Preparación" o en el "Paso 4: Apertura Inicial" o si la suma de los días en que estuvo en los pasos 1, 2, 3 y 4 es igual o superior a catorce, se le considerará en Paso 3.".
 
-2.- Las modificaciones establecidas por el presente decreto exento serán aplicables respecto al aporte del mes de febrero.
+2.- Las modificaciones establecidas por el presente decreto exento serán aplicables a partir del aporte del mes de febrero.
 
 Anótese, publíquese y archívese.- Por orden del Presidente de la República, Rodrigo Cerda Norambuena, Ministro de Hacienda.- Karla Rubilar Barahona, Ministra de Desarrollo Social y Familia.
 

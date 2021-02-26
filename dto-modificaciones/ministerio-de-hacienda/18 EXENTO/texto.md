@@ -32,7 +32,7 @@ Decreto:
 
 2) Intercálase en el artículo 2, inciso primero, entre la palabra "Sociales" y el punto aparte, la siguiente frase: "a excepción de los beneficiarios incluidos en el literal c. del artículo 3, en el literal b. del artículo 4 y en el artículo 5, los que estarán incluidos en la respectiva nómina de beneficiarios".
 
-2.- Establézcase que las modificaciones establecidas en el presente decreto exento serán aplicables respecto al aporte del mes de febrero.
+2.- Establézcase que las modificaciones establecidas en el presente decreto exento serán aplicables a partir del aporte del mes de febrero.
 
 Anótese, publíquese y archívese.- Por orden del Presidente de la República, Ignacio Briones Rojas, Ministro de Hacienda.- Alejandra Candia Díaz, Ministra de Desarrollo Social y Familia (S).
 
