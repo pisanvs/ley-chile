@@ -32,7 +32,7 @@ Considerando:
 
 Resuelvo:
 
-1° Determínase, que el período de postulación para el otorgamiento del subsidio a que se refiere el artículo primero transitorio de la ley N° 20.696 para el proceso 2020-2021, será entre el 14 de diciembre del año 2020 y el 12 de febrero del año 2021.
+1° Determínase, que el período de postulación para el otorgamiento del subsidio a que se refiere el artículo primero transitorio de la ley N° 20.696 para el proceso 2020-2021, será entre el 14 de diciembre del año 2020 y el 12 de marzo del año 2021.
 
 2° Determínase, que las postulaciones serán de manera digital en el sitio web de la Tesorería General de la República, mediante el uso de la Ventanilla Virtual de Trámites desplegada en www.tgr.cl
 
