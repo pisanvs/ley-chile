@@ -36,8 +36,6 @@ Lo anterior no exime la obligación de tener instalado el taxímetro y en condic
 
 > **Nota.** NOTA 8: La RES 1848 exenta, Transportes, publicada el 30.10.2000, modificó el N° 1 de esta resolución, eliminando la comuna de Castro.
 
-> **Nota.** NOTA 9 La Resolución 144 exenta, Transportes, publicada el 20.01.2022, modificó el N° 1 de esta resolución, en el sentido de eliminar a Arica de la nómina de comunas en que es obligatorio el uso del taxímetro como mecanismo de cobro tarifario en taxis básicos.
-
 Anótese y publíquese.- Enrique Escobar Rodríguez, General de Aviación, Ministro de Transportes y Telecomunicaciones.
 
 Lo que transcribo para su conocimiento.- Saluda a Ud.- Patricia Muñoz Villela, Jefe Administrativo.
