@@ -48,15 +48,17 @@ De la administración
 
 #### Artículo 6º
 
-La administración de Bienestar corresponderá a un Consejo Administrativo, en el cual estarán representados en la misma proporción los afiliados y el Ministerio de Energía. El Consejo Administrativo estará integrado por cuatro miembros:
+La administración de Bienestar corresponderá a un Consejo Administrativo, en el cual estarán representados en la misma proporción los afiliados y el Ministerio de Energía. El Consejo Administrativo estará integrado por seis miembros:
 
-- **a)** el Subsecretario de Energía, o la persona que éste designe en su reemplazo, quien lo presidirá;
+a) El Subsecretario/a de Energía, o la persona que éste designe en su reemplazo, quien lo presidirá;
 
-- **b)** el Jefe de la División de Gestión y Finanzas, y
+b) Jefe/a de la División de Administración y Finanzas o la persona que éste designe en su reemplazo;
 
-- **c)** dos representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios del Ministerio de Energía, cuando proceda, de acuerdo a lo dispuesto en el inciso tercero del artículo 18 del Reglamento General, debiendo cumplir el requisito que establece esa norma.
+c) Jefe/a del Departamento Gestión y Desarrollo de Personas, y
 
-Actuará como Secretario del Consejo Administrativo el Jefe de Bienestar, teniendo el derecho a voz pero no a voto, quien será el Ministro de Fe de las actuaciones del Consejo y levantará acta de sus sesiones.
+d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios del Ministerio de Energía, cuando proceda, de acuerdo a lo dispuesto en el inciso tercero del artículo 18 del decreto supremo Nº 28, de 1994, del Ministerio del Trabajo y Previsión Social, que aprueba el Reglamento General para los Servicios de Bienestar fiscalizados por la Superintendencia de Seguridad Social, debiendo cumplir el requisito que establece esa norma.
+
+Actuará como Secretario del Consejo Administrativo el Jefe de Bienestar, teniendo el derecho a voz, pero no a voto, quien será el Ministro de Fe de las actuaciones del Consejo y levantará acta de sus sesiones.
 
 Los miembros del Consejo Administrativo no percibirán remuneración alguna por el desempeño de sus funciones.
 
@@ -138,6 +140,10 @@ f) Escolaridad: Se podrá conceder una asignación de escolaridad a los afiliado
 
 g) Becas de Estudio: Se podrán otorgar en caso de necesidad económica y excelencia académica, calificada por el Consejo Administrativo, mediante informe social emitido por Bienestar, becas de estudios a los afiliados estudiantes y/o sus cargas familiares que cursen estudios de Educación Superior en instituciones reconocidas por el Estado. La calificación de excelencia académica será establecida anualmente por el Consejo Administrativo en su primera sesión ordinaria.
 
+h) Acuerdo unión civil: Se podrá otorgar al afiliado que lo acredite mediante certificado de acuerdo de unión civil, extendido por el Servicio de Registro Civil e Identificación. Si ambos contrayentes fueren afiliados, cada uno de ellos tendrá derecho a la ayuda.
+
+i) Ayuda social: El Servicio podrá otorgar una ayuda en dinero o especies a los afiliados que hubieren sufrido daños o pérdida de sus bienes por situaciones imprevistas o de fuerza mayor derivadas de siniestros, catástrofes, fenómenos naturales u otros similares, debidamente autorizados por el Consejo Administrativo. Se considerará como requisito la comprobación y calificación de los hechos por parte del Jefe/a del Servicio de Bienestar.
+
 ### 3. PRÉSTAMOS
 
 #### Artículo 16º
@@ -148,9 +154,11 @@ a) Préstamos médicos: Se otorgarán como complemento de las ayudas médicas a 
 
 b) Préstamos de auxilio: Se otorgarán ante problemas económicos graves y otras causas justificadas, calificadas por el Consejo Administrativo.
 
-c) Préstamos escolares: Se otorgarán una vez al año y estarán orientados a solventar gastos de matrícula, útiles y vestuario escolar de los hijos estudiantes de los afiliados que sean causantes de asignación familiar o bien para los propios afiliados, como complemento a las ayudas sociales a que se refiere el artículo 15 letras h) e i) de este Reglamento.
+c) Préstamos escolares: Se otorgarán una vez al año y estarán orientados a solventar gastos de matrícula, útiles y vestuario escolar de los hijos estudiantes de los afiliados que sean causantes de asignación familiar o bien para los propios afiliados, como complemento de las ayudas sociales a que se refiere el artículo 15 letras f) y g) de este Reglamento.
 
 d) Préstamos personales: Se otorgarán una vez al año con el objeto de propender al mejoramiento de las condiciones familiares y/o de trabajo de los afiliados. El monto máximo de los préstamos antes señalados será determinado anualmente por el Consejo Administrativo, y su reintegro deberá efectuarse en un plazo no superior a 12 meses. Los plazos indicados anteriormente podrán ser reducidos a solicitud del afiliado, en cuyo caso los intereses correspondientes se devengarán hasta la fecha de los pagos respectivos.
+
+e) Préstamos de Vacaciones: Anualmente el afiliado podrá solicitar este préstamo cuando haga uso de sus vacaciones (Período de 10 días o más). Los montos y plazos serán definidos anualmente por el Consejo de Administración.
 
 #### Artículo 17º
 
@@ -169,6 +177,8 @@ b) Asesorar, otorgar ayuda y firmar, mediante resolución del Subsecretario de E
 c) Administrar colonias, refugios, casas de huéspedes u otros inmuebles para el uso de sus afiliados y/o cargas familiares, quedando expresamente excluida de dicha facultad la de contratar personal. Asimismo, podrá celebrar convenios con otros Servicios de Bienestar, con el objeto de que sus afiliados puedan hacer uso de los inmuebles que éstos administren.
 
 d) Participar en la organización y/o financiamiento total o parcial, respecto de sus afiliados, de Fiestas Patrias y Navidad, y de los obsequios para los afiliados y/o sus cargas familiares, en el caso de este último evento. El Consejo Administrativo, mediante acuerdo, fijará los rangos de edad de las personas para el otorgamiento del beneficio de Navidad.
+
+e) Financiar o ayudar a financiar eventos para el día del Niño, día del Padre, día de la Madre, día internacional de la Mujer, Aniversario Institucional, Aniversario del Servicio de Bienestar.
 
 El Consejo Administrativo podrá establecer las exigencias relativas a certificados, comprobantes antecedentes y/o fijar montos que estime necesarios para el otorgamiento de los beneficios que se indican precedentemente.
 
