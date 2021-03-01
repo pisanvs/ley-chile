@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 314, de fecha 13 noviembre 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Sra. Fani Yutronic Matulic, RUN 3.377.197-5, sexta renovación concesión marítima menor, con vencimiento 30 de junio 2030, sobre un sector de terreno de playa, en el lugar denominado Caleta El Horno, comuna de Mejillones, Provincia y Región de Antofagasta, con una superficie total de 382,16 m2, la que fue tramitada con el SIABC Nº 38744. A modo referencial se señala que deslinda y mide al norte con terreno de playa en 23 mts; al sur con terreno de playa en 17,80 mts; al este con terreno de playa sitio Nº 154-A en 25,80 mts; y al oeste con terreno de playa sitio 156 en 30 mts. El objeto consiste en amparar una casa para veraneo familiar. Las obras existentes consisten en una casa veraniega. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Mejillones. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Felipe Castillo Belmar, Teniente 1º LT, Capitán de Puerto de Mejillones Subrogante.
