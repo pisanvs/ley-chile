@@ -1,0 +1,5 @@
+EXENCIÓN DE IMPUESTO DE PRIMERA CATEGORÍA EN EL ARRENDAMIENTO DE INMUEBLES NO AGRÍCOLAS POR PERSONAS NATURALES
+
+Extracto de oficio ordinario del Servicio de Impuestos Internos Nº 522, de 19 de febrero de 2021, que contiene un cambio de criterio y deja sin efecto los pronunciamientos anteriores sobre esta materia, en especial la contenida en el oficio ordinario Nº 2107, de 2017. Se señala que la exención contenida en el Nº 3 del artículo 39 de la Ley sobre Impuesto a la Renta opera únicamente respecto de contribuyentes afectos a impuestos finales, de manera que, si el inmueble no agrícola fue asignado a una empresa individual, no procederá la exención en cuestión.
+
+El texto íntegro de este oficio ordinario está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl).
