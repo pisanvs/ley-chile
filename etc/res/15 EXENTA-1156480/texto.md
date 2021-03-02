@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 15, de fecha 23 de enero de 2013, rectificada por resolución exenta N° 91, de 20 de enero de 2021, ambas de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, se aprobaron los programas de enseñanza conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores "Capchile Limitada", RUT 76.715.240-K, cuyo propietario y director es don Juan Eduardo Landaeta Fernández, RUT 11.841.928-6, y cuya sede se encuentra ubicada en calle Egaña N° 248, comuna de Puerto Montt. Las horas pedagógicas autorizadas a la referida Escuela son 8 horas teóricas y 12 horas prácticas, con un total de 20 horas pedagógicas.-
+
+Nicolás Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de los Lagos.
