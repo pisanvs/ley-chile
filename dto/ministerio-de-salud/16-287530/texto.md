@@ -218,7 +218,19 @@ Los prestadores individuales de salud que serán inscritos en el Registro Nacion
 
 inciso segundo del artículo 112 del Código
 
-Sanitario.
+Sanitario;
+
+14) Optómetras que cuenten con título obtenido
+
+en el extranjero, convalidado ante la
+
+Universidad de Chile, de conformidad con
+
+lo dispuesto en el decreto con fuerza de
+
+ley Nº 3, de 2007, del Ministerio de
+
+Educación.
 
 #### Artículo 9°
 
