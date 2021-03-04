@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 207, de fecha 8 de febrero de 2021, de esta Secretaría Regional, se aprobaron los planes y programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores "Patricia González Cruces, Escuela de Conductores MG", cuya propietaria es Patricia Francisca González Cruces. La Escuela de Conductores tendrá como Directora a Patricia Francisca González Cruces, y su sede estará ubicada en Avenida Santa Rosa Nº 8731, Local A, 1º piso, comuna de San Ramón, Región Metropolitana de Santiago. Las horas pedagógicas autorizadas a la referida Escuela son ocho horas teóricas y doce horas prácticas, con un total de veinte horas pedagógicas.-
+
+Eddy Nelson Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
