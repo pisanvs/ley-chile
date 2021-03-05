@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE GIRADORA LOCAL N°700061343, DEL BANCO SCOTIABANK CHILE, SUCURSAL TEMUCO, ABIERTA PARA EL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL DEL INSTITUTO DE PREVISIÓN SOCIAL DE TEMUCO, EN LOS FUNCIONARIOS QUE INDICA
+
+Por resolución exenta N° 233, de 31 de agosto de 2020, el Director Nacional del Instituto de Previsión Social delega la facultad de girar cheques, retirar talonarios, cartolas, cheques protestados y documentos desde la casilla, dar órdenes de no pago y efectuar la ratificación y publicación de los documentos en caso de pérdida, hurto o robo de un cheque o talonarios de cheques, para efectos de operar la cuenta corriente denominada Giradora Local N° 700061343, abierta en la Oficina Principal del Banco Scotiabank Chile, y que opera en su Sucursal Temuco, destinada al pago de beneficios previsionales y gastos del Centro de Atención Previsional Integral CAPRI IPS Temuco, en las funcionarias y funcionarios que individualiza.-
+
+Patricio Coronado Rojo, Director Nacional.
