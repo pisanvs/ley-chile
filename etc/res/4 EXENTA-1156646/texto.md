@@ -1,0 +1,5 @@
+SE APRUEBA CONVENIO DE DESEMPEÑO ALTA DIRECCIÓN PÚBLICA, PERÍODO 2020 - 2023, DEL JEFE DEPARTAMENTO DE ATENCIÓN PRESENCIAL DEL INSTITUTO DE PREVISIÓN SOCIAL
+
+Por resolución exenta N° 4, de 5 de enero de 2021, el Director Nacional del Instituto de Previsión Social aprueba el "Convenio de Desempeño Alta Dirección Pública Periodo 2020-2023", suscrito entre esta Dirección Nacional y el Jefe Departamento de Atención Presencial dependiente de la División Canales de Atención a Clientes de la Subdirección Servicios al Cliente del Instituto de Previsión Social, don Marco Antonio Rivera Araya, como Jefe de Departamento grado 3° EUS, Planta de Directivos del Segundo Nivel Jerárquico, cargo de Alta Dirección Pública, a contar del 1 de noviembre de 2020 hasta el 1 de noviembre de 2023.-
+
+Patricio Coronado Rojo, Director Nacional.
