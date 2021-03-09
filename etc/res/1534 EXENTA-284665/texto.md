@@ -2252,4 +2252,192 @@ la asistencia de
 
 móviles en terreno.
 
+1513 Fono Emergencia Las llamadas serán
+
+San Pedro de recepcionadas por el
+
+Atacama centro de monitoreo de
+
+la Ilustre Municipalidad
+
+de San Pedro de Atacama
+
+(Toconao 413), respecto
+
+de situaciones de
+
+emergencia, trámites,
+
+orden público y
+
+seguridad de dicha
+
+comuna. De esta
+
+manera, las
+
+llamadas serán
+
+canalizadas por
+
+medio de los
+
+dispositivos de
+
+respuesta y despliegue
+
+territorial al lugar
+
+de la emergencia
+
+con patrullaje
+
+preventivo de
+
+seguridad ciudadana
+
+para, por ejemplo,
+
+atención a
+
+víctimas de todo
+
+tipo de delitos,
+
+requerimiento de
+
+patrullaje preventivo
+
+por situaciones
+
+riesgosas visualizadas
+
+por vecinos,
+
+denuncias asociadas
+
+a actividades
+
+irregulares en
+
+espacios públicos,
+
+mediante la
+
+asistencia de
+
+funcionarios
+
+municipales para
+
+este efecto.
+
+Además, se
+
+coordinará con
+
+otros organismos
+
+de emergencia
+
+para la atención,
+
+ayuda y asistencia
+
+de emergencias
+
+referidas a
+
+incendios.
+
+1514 Fono Emergencia Las llamadas serán
+
+Pudahuel recepcionadas por
+
+el Departamento de
+
+Seguridad Pública de
+
+la Ilustre Municipalidad
+
+de Pudahuel (calle
+
+Heráldica 8921),
+
+respecto de situaciones
+
+de emergencia, orden
+
+público y seguridad en
+
+dicha comuna. De esta
+
+manera, las llamadas
+
+serán canalizadas por
+
+medio de los
+
+dispositivos de
+
+respuesta y despliegue
+
+territorial al lugar
+
+de la emergencia con
+
+patrullaje preventivo
+
+de seguridad ciudadana
+
+para,por ejemplo,
+
+incendios, accidentes
+
+de tránsito o
+
+emergencias en espacio
+
+público, atender a
+
+víctimas de todo
+
+tipo de delitos,
+
+situaciones
+
+visualizadas por
+
+vecinos, denuncias
+
+asociadas a
+
+actividades irregulares
+
+en espacios públicos,
+
+atención de
+
+problemáticas de
+
+convivencia vecinal
+
+y comunitaria,
+
+fiscalización de
+
+actividades económicas
+
+formales e informales.
+
+Además, se coordinará
+
+con otros organismos
+
+de emergencia para
+
+la atención de
+
+emergencias.
+
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
