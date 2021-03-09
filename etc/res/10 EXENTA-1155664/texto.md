@@ -62,6 +62,10 @@ Resolución:
 
 Postulación Comunidad de Copropietarios
 
+Postulación Copropiedades
+
+Postulación Familia
+
 2.- Fíjase el número de postulantes seleccionados en la Región del Libertador General Bernardo O'Higgins de acuerdo a la distribución regional de recursos consignada en el resuelvo N° 16 de la resolución exenta N° 981 de fecha 20 de noviembre de 2020, de la Seremi Región del Libertador General Bernardo O'Higgins, según se indica en las siguientes tablas:
 
 3.- Apruébense las nóminas de postulantes correspondientes a los proyectos seleccionados, de acuerdo a las siguientes tablas:
