@@ -1,0 +1,73 @@
+FIJA VALOR DE LA UNIDAD DE FOMENTO Y DEL ÍNDICE VALOR PROMEDIO PARA LOS DÍAS COMPRENDIDOS ENTRE EL 10 DE MARZO DE 2021 Y 9 DE ABRIL DE 2021
+
+El Banco Central de Chile, para los efectos previstos en el Capítulo II.B.3 "Sistemas de Reajustabilidad autorizados por el Banco Central de Chile (Acuerdo Nº 05-07-900105)" del Compendio de Normas Financieras, fija el valor de la "Unidad de Fomento" y del "Índice Valor Promedio" para los días comprendidos entre el 10 de marzo de 2021 y 9 de abril de 2021, en las cantidades que a continuación se indican.
+
+Valores de U.F. e I.V.P.
+
+Período del 10 de Marzo 2021 al 9 de Abril 2021
+
+FECHA U.F. I.V.P.
+
+10-03-2021 29.355,01 30.451,39
+
+11-03-2021 29.356,90 30.455,44
+
+12-03-2021 29.358,80 30.459,48
+
+13-03-2021 29.360,69 30.463,53
+
+14-03-2021 29.362,58 30.467,58
+
+15-03-2021 29.364,47 30.471,63
+
+16-03-2021 29.366,37 30.475,68
+
+17-03-2021 29.368,26 30.479,73
+
+18-03-2021 29.370,15 30.483,79
+
+19-03-2021 29.372,04 30.487,84
+
+20-03-2021 29.373,94 30.491,89
+
+21-03-2021 29.375,83 30.495,94
+
+22-03-2021 29.377,72 30.500,00
+
+23-03-2021 29.379,62 30.504,05
+
+24-03-2021 29.381,51 30.508,11
+
+25-03-2021 29.383,41 30.512,16
+
+26-03-2021 29.385,30 30.516,22
+
+27-03-2021 29.387,19 30.520,28
+
+28-03-2021 29.389,09 30.524,33
+
+29-03-2021 29.390,98 30.528,39
+
+30-03-2021 29.392,88 30.532,45
+
+31-03-2021 29.394,77 30.536,51
+
+01-04-2021 29.396,67 30.540,57
+
+02-04-2021 29.398,56 30.544,63
+
+03-04-2021 29.400,45 30.548,69
+
+04-04-2021 29.402,35 30.552,75
+
+05-04-2021 29.404,24 30.556,81
+
+06-04-2021 29.406,14 30.560,87
+
+07-04-2021 29.408,04 30.564,93
+
+08-04-2021 29.409,93 30.569,00
+
+09-04-2021 29.411,83 30.573,06
+
+Santiago, 8 de marzo de 2021.- Juan Pablo Araya Marco, Ministro de Fe.
