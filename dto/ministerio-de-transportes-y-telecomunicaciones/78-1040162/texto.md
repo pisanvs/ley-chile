@@ -494,19 +494,25 @@ Las características básicas relativas al mensaje; forma, color, niveles de ret
 
 #### Artículo 27º
 
-La red de facilidades para la circulación de biciclos entre un origen y un destino llamada Cicloruta está compuesta por Ciclovías, Ciclobandas y/o Ciclocalles, las que se definen a continuación.
+Las facilidades para la circulación de ciclos son las siguientes:
 
-1. Ciclovía: Vía destinada al uso exclusivo de bicicletas que se encuentra segregada físicamente del tránsito de vehículos motorizados. El ancho de ellas varía según los volúmenes de biciclos esperados. En todo caso, se recomienda un ancho mínimo de 1,2 m por sentido de circulación.
+. Cicloruta
 
-2. Ciclobanda: Pista o senda sobre la calzada o acera segregada del tránsito vehicular o peatonal sólo por demarcación. Su ancho puede variar según el flujo esperado de bicicletas, pero no debe ser menor a 1,5 metros. Sólo pueden ubicarse en vías donde la velocidad máxima permitida es igual o inferior a 60 km/h.
+Conjunto sistémico de facilidades para la circulación de ciclos, que permiten unir un origen con un destino. Estas facilidades pueden ser ciclovías, ciclocalles, u otras tales como, sendas multipropósito, vías verdes o cicloparques.
 
-3. Ciclocalle: Vía convencional o peatonal donde circulan los biciclos junto a otros vehículos motorizados, y/o peatones, cuya velocidad máxima permitida no excede los 30 km/h. Generalmente este tipo de vía contempla medidas calmantes de velocidad.
+. Ciclovía
+
+Espacio destinado al uso exclusivo de bicicletas y otros ciclos, que puede estar segregado física o visualmente del tránsito de vehículos motorizados y peatones. Cuando la segregación es sólo visual se les denomina ciclobanda.
+
+. Ciclocalle
+
+Vía convencional donde circulan los ciclos junto a otros vehículos motorizados, y en las cuales la velocidad máxima permitida no excede los 30 km/h. Generalmente se incorporan medidas calmantes de velocidad.
 
 #### Artículo 28º
 
-Las señales verticales asociadas al uso de bicicletas en vías con o sin facilidades para ellas, se clasifican igual que las señales referidas en el Título II de este decreto y Capítulo 2 del Apéndice. Sus características particulares se describen en el Capítulo 6 del Apéndice.
+Las señales verticales asociadas al uso de ciclos en vías con o sin facilidades para ellas, se clasifican igual que las señales referidas en el Título II de este decreto y Capítulo 2 del Apéndice. Sus características particulares se describen en el Capítulo 6 del Apéndice.
 
-1. Señales Reglamentarias: Las más comúnmente utilizadas en ciclorutas son:
+1. Señales Reglamentarias: Las más comúnmente utilizadas son:
 
 .
 
@@ -518,25 +524,25 @@ Las señales verticales asociadas al uso de bicicletas en vías con o sin facili
 
 .
 
+> **Nota.** El número iii. del numeral 5 del artículo primero del Decreto 71, Transportes, publicado el 10.09.2020, modifica el numeral 3 del presente artículo en el sentido de eliminar la expresión "o código de ciclorutas" en la descripción de las señales.
+
+> **Nota.** NOTA 1 El número iv. del numeral 5 del artículo primero del Decreto 71, Transportes, publicado el 10.09.2020, modifica los numerales 1 y 3 del presente artículo en el sentido de sustituir en la descripción de las señales las palabras "bicicletas" y "biciclos" por "ciclos".
+
 #### Artículo 29º
 
-Todas las ciclorutas deberían contar con las demarcaciones requeridas, siendo obligatorias a lo largo de ciclobandas y en cruces de ciclovías con vías convencionales, como se señala en el Capítulo 6 del Apéndice. Deben ser visibles en cualquier período del día y bajo toda condición climática y deben confeccionarse con materiales que aseguren su retrorreflexión.
+Las facilidades para los ciclos deben contar con todas las demarcaciones requeridas, como se señala en Capítulo 6 del Apéndice, deben ser visibles en cualquier período del día y bajo toda condición climática y de materiales que aseguren su retrorreflexión.
 
-En ciclorutas sólo se deben utilizar demarcaciones planas, de color blanco, que cumplan con las especificaciones de contraste y de resistencia al deslizamiento establecidas según el Capítulo 3 del Apéndice.
+Las demarcaciones deben ser planas, de color blanco, que cumplan con las especificaciones de contraste y de resistencia al deslizamiento establecidas según el Capítulo 3 del Apéndice.
 
-Las demarcaciones se clasifican en:
+Los tipos de demarcaciones son los siguientes:
 
-1. Líneas longitudinales para ciclovías, las que pueden ser líneas de eje central continuas, líneas de eje central segmentadas y otras líneas longitudinales.
+1. Líneas longitudinales, tales como líneas de eje central continuas o segmentadas, líneas para segregar ciclobandas, líneas para cruzar vías convencionales, y otras líneas longitudinales;
 
-2. Líneas longitudinales para ciclobandas, las que a su vez pueden ser continuas o segmentadas.
+2. Líneas transversales tales como líneas de detención pare o ceda el paso;
 
-3. Líneas transversales, las que a su vez pueden ser continuas o segmentadas.
+3. Símbolos, leyendas y superficie de color;
 
-4. Símbolos y leyendas.
-
-5. Demarcación de tránsito convergente y divergente.
-
-Todas se detallan en el Capítulo 6 del Apéndice.
+4. Demarcación de tránsito convergente y divergente, y otros achurados.
 
 A modo de ejemplo:
 
@@ -544,7 +550,7 @@ A modo de ejemplo:
 
 #### Artículo 30º
 
-Los cruces semaforizados de una cicloruta permitirán regular la circulación de los ciclistas a través de las lámparas de semáforos vehiculares y peatonales. La señalización que advierte a los conductores de vehículos motorizados la proximidad de un cruce con una ciclovía no regulado, puede ser reforzada con luces intermitentes, según se describe en el Capítulo 6 del Apéndice.
+Los cruces semaforizados permitirán, a través de las lámparas vehiculares y peatonales, regular la circulación de los ciclos. En cruces de prioridad, pare o ceda el paso, la señalización que advierte a los conductores de vehículos motorizados la proximidad de un cruce con una ciclovía puede ser reforzada con luces intermitentes, según se describe en el Capítulo 6 del Apéndice.
 
 ## Título VII
 
@@ -647,6 +653,8 @@ Las señales que reemplacen las que se encuentren instaladas y aquellas que se i
 Apruébese el Apéndice del presente decreto, denominado "Manual de Señalización de Tránsito" y sus Anexos, el que deberá publicarse en la página web del Ministerio de Transportes y Telecomunicaciones: www.mtt.gob.cl.
 
 > **Nota.** El artículo único del Decreto 146, Transportes, publicado el 30.10.2013, modifica la presente norma en el sentido de incorporar al Apéndice de la presente norma las modificaciones que la propia norma indica.
+
+> **Nota.** NOTA 2 El artículo tercero del Decreto 71, Transportes, publicado el 10.09.2020, modifica la presente norma en el sentido de incorporar al Apéndice de la presente norma las modificaciones que la propia norma indica.
 
 #### Artículo cuarto
 
