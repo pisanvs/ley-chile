@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 239, de fecha 11 de febrero de 2021, de esta Secretaría Regional, se aprobaron los planes y programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores "El Buen Conductor SpA", RUT Nº 76.987.703-7, cuya representante legal es Bárbara Lissette Carvajal Araneda, RUT 17.585.948-9. La Escuela de Conductores tendrá como Director a Gastón Iván Carvajal Peña, RUT N° 9.192.313-0, y su sede estará ubicada en Ciruelillo N° 854, comuna de La Florida, Región Metropolitana de Santiago. Las horas pedagógicas autorizadas a la referida Escuela son ocho horas teóricas y doce horas prácticas, con un total de veinte horas pedagógicas.-
+
+Eddy Nelson Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
