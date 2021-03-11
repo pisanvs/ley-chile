@@ -24,6 +24,8 @@ Resuelvo:
 
 1.- Prohíbese la circulación de todo vehículo motorizado de dos o más ruedas, aun cuando posean sello verde, en las zonas urbanas de las comunas de La Serena y Coquimbo, bajo la restricción que se señala en el siguiente cuadro:
 
+.
+
 2.- Quedarán exceptuados de la prohibición, los vehículos de emergencia, vehículos fiscales, y los vehículos destinados a las faenas de limpieza de calles y necesarios para subsanar los efectos de la calamidad, así como los vehículos de carga y transporte de alimentos y productos agrícolas, vehículos de transporte público de pasajeros, urbano e interurbano, de transporte privado remunerado, taxis básicos en sus submodalidades, todos dentro de su recorrido habitual, vehículos de servicios de delivery con conductor con permiso único colectivo y todos aquellos que con ocasión de trabajo se desplacen con permiso único colectivo.
 
 3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, serán los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita y denunciar a los Juzgados de Policía Local competentes.
