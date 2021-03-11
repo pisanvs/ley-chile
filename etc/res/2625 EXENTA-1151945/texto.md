@@ -36,7 +36,25 @@ Sustitúyanse los siguientes guarismos, para el solo efecto de ajustar las tasas
 
 ### III. Reemplázase los guarismos del cuadro inserto en el literal "h) Uso de suelo equipamiento, clase educación", por los siguientes:
 
-### IV. Reemplázase los guarismos del cuadro inserto en el literal "l) Uso de suelo equipamiento, clase servicios", por los siguientes:
+### IV. Reemplázase los guarismos del cuadro inserto en el literal "l) Uso de suelo equipamiento, clase servicios", por los siguientes
+
+.
+
+### V. Reemplázase los guarismos del cuadro inserto en el literal "o) Uso de suelo infraestructura", por los siguientes:
+
+.
+
+(1) No se contemplan tasas para los proyectos de estaciones de tren interurbano o de sistema de transporte público mediante ferrocarril urbano o suburbano, en atención a que corresponden a obras de infraestructura de transporte que ejecuta el Estado, que no requieren permiso de la Dirección de Obras Municipales en conformidad a lo establecido en el inciso cuarto del artículo 116 de la Ley General de Urbanismo y Construcciones y que, por tanto, se encuentran exentos de presentar IMIV.
+
+(2) No se contemplan tasas para los proyectos de infraestructura sanitaria correspondientes a plantas de captación, distribución o tratamiento de agua potable, aguas servidas o aguas lluvias, ni respecto de los proyectos de infraestructura energética correspondientes a centrales de generación o distribución de energía, gas o telecomunicaciones, en atención a que los viajes inducidos por tales proyectos son bajos, lo que implica que están exentos de presentar IMIV.
+
+(3) Las tasas establecidas para puertos, aeródromos y aeropuertos están referidas a proyectos privados, pues las obras de infraestructura de transporte que ejecuta el Estado no requieren permiso de la Dirección de Obras Municipales, en conformidad a lo establecido en el inciso cuarto del artículo 116 de la Ley General de Urbanismo y Construcciones, por lo que se encuentran exentos de presentar IMIV.
+
+(4) La unidad TEU corresponde a la capacidad de carga de un contenedor normalizado de 20 pies.
+
+(5) Para efectos de determinar el tipo de IMIV a realizar y el área de influencia a considerar, la estimación de los flujos en transporte privado motorizado, tanto de entrada como de salida al proyecto, se encuentra expresado en vehículos equivalentes, de acuerdo a lo establecido en la definición de tal concepto en el artículo 1.1.4 de este reglamento.
+
+(6) Para efectos de determinar el tipo de IMIV a realizar y el área de influencia a considerar, la estimación de los flujos en transporte privado motorizado, tanto de entrada como de salida al proyecto, se deberán expresar en vehículos equivalentes, de acuerdo a lo establecido en la definición de tal concepto en el artículo 1.1.4 de este reglamento, aplicando los factores de conversión a los camiones de 2 o más ejes.
 
 #### Artículo segundo
 
