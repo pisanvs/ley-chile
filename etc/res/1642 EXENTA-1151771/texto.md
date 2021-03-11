@@ -222,9 +222,11 @@ El puntaje correspondiente al ámbito Intersectorialidad, se asignará a cada po
 
 30. Corresponderá a cada Serviu generar un procedimiento que permita cautelar el cumplimiento de las condiciones establecidas en la presente resolución, y las restricciones y requisitos establecidos en el DS 10 (V. y U.), de 2015. Si se detectare cualquier infracción al respecto, se estará a lo establecido en el artículo 65 del DS Nº 10 (V. y U.), de 2015, sin posibilidad de efectuar reemplazos.
 
-31. Los recursos involucrados para la selección ascienden a un total de 1.361.266 UF y su distribución regional, según modalidad o tipología, será la siguiente:
+31. Los recursos involucrados para la selección ascienden a un total de 3.487.577,48 U.F. y su distribución regional, según tipología será la siguiente:
 
-Tratándose de los recursos destinados a la Región de La Araucanía, se considerará un monto adicional a los señalados en el cuadro anterior, de 104.400 UF, destinados a postulantes que se encuentren beneficiados en convenios de colaboración suscritos por el Minvu con otras reparticiones públicas, visadas por la Seremi de Vivienda y Urbanismo de la Región de la Araucanía.
+.
+
+Tratándose de los recursos destinados a la Región de la Araucanía se considerará un monto adicional a los señalados en el cuadro anterior, de 111.138,87 U.F., destinados a postulantes que se encuentren beneficiados con convenios de colaboración suscritos por el Minvu con otras reparticiones públicas, visadas por la Seremi de Vivienda y Urbanismo de la Región de la Araucanía.
 
 Los montos indicados en el cuadro anterior podrán disminuir o aumentar con cargo a los recursos asignados para el Programa de Habitabilidad Rural del año 2020, por resolución del Ministro de Vivienda y Urbanismo, como también podrá determinarse su redistribución por tipología de proyecto y/o por región, de acuerdo a la necesidad de cada una de éstas. Se priorizará la distribución de recursos de la Tipología Construcción en Sitio del Residente, independiente de su modalidad de postulación, con o sin proyecto, para luego distribuir los recursos restantes en aquellas postulaciones a la Tipología de Construcción de Conjunto Habitacional con proyecto desarrollado y posteriormente para aquellas postulaciones a esta tipología, sin proyecto.
 
