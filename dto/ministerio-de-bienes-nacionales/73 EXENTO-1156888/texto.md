@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL QUE INDICA UBICADO EN LA REGIÓN DE TARAPACÁ, A LA PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE
+
+Mediante decreto exento Nº E-73, de 8 de febrero de 2021, rectificado por resolución exenta Nº 116 de 11 de febrero de 2021, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la Pontificia Universidad Católica de Chile, RUT Nº 81.698.900-0, domiciliada en Avenida Libertador Bernardo O'Higgins Nº 340, comuna de Santiago, los inmuebles fiscales, signados como Lote A y B, ubicados en la desembocadura del Río Loa, Comuna y Provincia de Iquique, Región de Tarapacá; amparado por inscripción global a nombre del Fisco que rola a fs. 1078 Nº 1747, del Registro de Propiedad del Conservador de Bienes Raíces de Iquique, correspondiente al año 2011; singularizados en el Plano Nº I-2-9.297-C.R.; con una superficie total de 193,98 hectáreas, enrolados en el Servicio de Impuestos Internos con los roles Nº 2599-3 y 2599-4, respectivamente. La Concesión se otorga por un plazo de 20 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar los inmuebles fiscales al desarrollo del proyecto denominado "Relevación, Investigación, Conservación y Difusión del Patrimonio Cultural y Ecosistema Circundante de la Desembocadura del Río Loa". El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto y su rectificación con sus textos íntegros se encuentran disponibles en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Martín Aro Greene, Jefe División Jurídica (S).
