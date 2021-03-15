@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 253 del 15 de febrero de 2021, Serviu Región del Biobío ordenó expropiación total de terreno y total de edificación de inmueble ubicado en Arrau Méndez 646 P Valdivia Bajo, Rol de Avalúo 1159-17, comuna de Concepción, de aparente dominio de Villablanca Martínez Sergio Genaro. La superficie afecta expropiación es de 54,58 m2 de terreno (Lote 83) y 121,59 m2 de total de edificación (a, b, c y d), conforme a plano de expropiación S8R-38128-1 del mes de septiembre de 2020, para la ejecución de la obra Mejoramiento Paso Sobre Nivel Esmeralda y Vialidad Asociada, Concepción, comuna de Concepción, Región del Biobío, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Rodrigo Alexis Escobar Fernández, por el ingeniero civil Carlos Alberto Montecinos Galleguillos y por el arquitecto Rubén Carlos Muñoz Vera, según informe de fecha 26.10.2020, que fijó monto provisional en $48.713.383.-, más una suma de $438.420.-, por concepto de reajuste del artículo 5° del DL 2.186 de 1978, que dan la cifra de $49.151.803.-, pagadero de contado.-
+
+Director Serviu Región del Biobío.
