@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 280, de 21 de septiembre de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Juan Carlos Echavarri Argüelles, RUT 6.377.861-3, Primera Renovación de concesión marítima menor, con vencimiento el 31 de diciembre de 2025, sobre un sector de Playa, Fondo de Lago y Porción de agua, en el lugar denominado Tunquelén, Lago Villarrica, comuna de Villarrica, provincia de Cautín, Región de la Araucanía, con una superficie total de 233,81 m², trámite SIABC N° 37.137. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 39°17'34,01" S - 72°06'17,23" W. El objeto de esta concesión marítima, en los sectores otorgados, es continuar amparando un atracadero fijo para naves menores, una rampa y tres boyas de amarre para embarcaciones menores de 25 TRG. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Lago Villarrica. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Héctor Rojas Martín, Capitán de Corbeta LT., Capitán de Puerto Lago Villarrica.
