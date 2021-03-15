@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.625, de fecha 13 de noviembre de 2020, se ordenó la expropiación total, conforme a las normas del decreto ley N° 2.186, de 1978, del denominado Lote N° 662-246, correspondiente al inmueble ubicado en Coposa 557 Block A, Dp. 32, V. Parinacota 2, Rol de avalúo N° 662-246, de la Comuna de Quilicura, Región Metropolitana, de aparente dominio de Vásquez Minte Siro Vladimir, con una superficie aproximada de 43,12 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación de Terrenos Población Parinacota, Comuna de Quilicura". La Comisión de Peritos integrada por el señor Jaime Jürgens Bettner, Ingeniero civil; señor Mufida Abuawad Elias, Arquitecto y señor Sergio Jeremías Órdenes Salinas, Ingeniero civil, mediante Informe de fecha 28 de agosto de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $23.252.260, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.-
+
+Directora Serviu Metropolitano.
