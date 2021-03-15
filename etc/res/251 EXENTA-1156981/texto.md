@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 251, 15 de febrero de 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación de un inmueble ubicado en Arrau Méndez 730, Rol de Avalúo N° 1163-21, comuna de Concepción, de aparente dominio de Cuevas Pereira Luis Alberto y otro, superficie afecta a expropiación parcial de terreno de 82,11 m2 (Lote 95) y expropiación total de edificación de 26,91 m2 (a), según Plano S8R 38.140-1, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada", comuna de Concepción, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Rodrigo Escobar Fernández; ingeniero civil Carlos Montecinos Galleguillos y arquitecto Rubén Muñoz Vera, según informe de fecha 05.11.2020, fijó monto provisional indemnización en $14.913.573, más una suma de $29.827, por concepto de reajuste del artículo 5° del DL 2.186, de 1978, que dan la cifra de $14.943.400.-
+
+Director Serviu Región del Biobío.
