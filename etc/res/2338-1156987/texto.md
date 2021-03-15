@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 2.338 de fecha 23 de diciembre de 2020, Dirección Regional Serviu Región de los Lagos, ordenó expropiación lote de terreno N° 2 para la ejecución Proyecto "Obras complementarias normalización Hospital de Quellón", Provincia de Chiloé, Región de los Lagos, que figura a nombre de Alarcón Guerrero Erwin Marcelo, rol de avalúo según SII N° 49-35, comuna de Quellón, superficie 23,50 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher Guarda, Enrique Edgardo Hoelck Altmann y Raúl Palma Larrea designados por resolución exenta N° 2102 de 12 de noviembre de 2020, fijó con fecha 15 de diciembre de 2020, el valor provisional de la indemnización en la suma de $15.841.500. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley N° 2.186.-
+
+Director Regional Serviu Región de los Lagos.
