@@ -1,0 +1,7 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MAYOR
+
+Decreto supremo Nº 47, de fecha 4 de febrero de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Pengüin SpA, RUT 76.141.261-2, concesión marítima mayor, con vencimiento el 31 de diciembre de 2039, sobre un sector de playa, fondo de mar y porción de agua, en el lugar denominado Bahía Chincui, Península de Caullahuapi, comuna de Puerto Montt, provincia de Llanquihue, Región de Los Lagos, con una superficie total de 43.604,44 m2, la que fue tramitada con el SIABC Nº 33.121. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en amparar sobre el sector de la playa una explanada portuaria (relleno artificial) para ser utilizado como patio de maniobras con instalaciones propias de la actividad, como galpones, bodegas, entre otras, un muelle mecanizado para el embarque y desembarque de personas y carga en general; un monopilote; 4 duques de alba, 2 postes de amarre y la instalación de 2 boyas para el amarre de naves de 50.000 a 75.000 TRG. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Puerto Montt. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Renzo Cuneo Loyola, Capitán de Corbeta LT, Capitán de Puerto de Puerto Montt.
