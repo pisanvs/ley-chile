@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 252, 15 de febrero de 2021, Serviu Región del Biobío ordenó expropiación total de terreno y de edificación de un inmueble ubicado en Arturo Prat 300 ST25 MZA Juan Benítez Meza, Rol de Avalúo Nº 203-25, comuna de Curanilahaue, de aparente dominio de Ministerio de Bienes Nacionales, superficie afecta a expropiación total de terreno de 179,16 m2 (Lote 1) y de 177,90 m2 de expropiación total de edificación (2a y b), según Plano S8R-39568-1, para la ejecución de las obras del Proyecto "Reposición Puente Arturo Prat", comuna de Curanilahue, Región del Biobío, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Francesca Vives Figueroa; arquitecto Patricia Palacios González y arquitecto Rodrigo Escobar Fernández, según informe de fecha 26.10.2020, fijó monto provisional indemnización en $72.439.087, más una suma de $651.952 por concepto de reajuste del artículo 5º del DL 2.186, de 1978, que arroja la cifra de $73.091.039.-
+
+Director Serviu Región del Biobío.
