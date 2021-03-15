@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 2.337 de fecha 23 de diciembre de 2020, Dirección Regional Serviu Región de los Lagos, ordenó expropiación lote de terreno Nº 1 para la ejecución Proyecto "Obras complementarias normalización Hospital de Quellón", Provincia de Chiloé, Región de Los Lagos, que figura a nombre de Millaldeo Antinanco Julio Ignaci y Otros, rol de avalúo según SII Nº 49-3, comuna de Quellón, superficie 10,46 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher Guarda, Enrique Edgardo Hoelck Altmann y Raúl Palma Larrea designados por resolución exenta Nº 2.102 de 12 de noviembre de 2020, fijó con fecha 15 de diciembre de 2020, el valor provisional de la indemnización en la suma de $1.985.800. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley Nº 2.186.-
+
+Director Regional Serviu Región de Los Lagos.
