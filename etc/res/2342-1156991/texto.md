@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 2.342, de fecha 23 de diciembre de 2020, Dirección Regional Serviu Región de Los Lagos ordenó expropiación lote de terreno Nº 6 para la ejecución Proyecto "Obras complementarias normalización Hospital de Quellón", Provincia de Chiloé, Región de Los Lagos, que figura a nombre de Chiguay Vera Emelina de Lourdes y Otros, rol de avalúo según SII Nº 49-5, comuna de Quellón, superficie 117,94 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher Guarda, Enrique Edgardo Hoelck Altmann y Raúl Palma Larrea, designados por resolución exenta Nº 2.102, de 12 de noviembre de 2020, fijó con fecha 15 de diciembre de 2020, el valor provisional de la indemnización en la suma de $52.515.500. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley Nº 2.186.
+
+Director Regional Serviu Región de Los Lagos.
