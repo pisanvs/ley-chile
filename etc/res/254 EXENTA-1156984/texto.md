@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 254, de 15 de febrero de 2021, Serviu Región del Biobío ordenó expropiación total de terreno y total de edificación de inmueble ubicado en Arrau Méndez 652, Rol de Avalúo 1159-19, comuna de Concepción, de aparente dominio de Carrillo Saavedra María Pascuala y otros. La superficie afecta expropiación es de 54,53 m2 de terreno (Lote 85) y 121,87 m2 de total de edificación (a), conforme a plano de expropiación S8R-38130-1 del mes de septiembre de 2020, para la ejecución de la obra Mejoramiento Paso Sobre Nivel Esmeralda y Vialidad Asociada, Concepción, comuna de Concepción, Región del Biobío, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Rodrigo Alexis Escobar Fernández, por el ingeniero civil Carlos Alberto Montecinos Galleguillos y por el arquitecto Rubén Carlos Muñoz Vera, según informe de fecha 26.10.2020, que fijó monto provisional en $49.906.065.-, más una suma de $449.155.-, por concepto de reajuste del artículo 5° del DL 2.186 de 1978, que dan la cifra de $50.355.220.-, pagadero de contado.-
+
+Director Serviu Región del Biobío.
