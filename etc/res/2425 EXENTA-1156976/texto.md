@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.425, de 29 de diciembre 2020, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, de derechos cuotativos que inciden en el Lote 1.5 correspondiente al inmueble ubicado en calle 6 Oriente N° 540 Costanera y N° 540-A Costanera, Roles de Avalúo N° 468-15 y N° 468-16, comuna Talca, superficie 83,98 metros cuadrados, deslindes según plano expropiaciones, propietarios aparentes Guille Molina Valenzuela y otros y Rodolfo Gonzalo Silva Retamal. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Álvaro Hernán Vergara Mejías, ingeniero civil industrial; y Claudia Poblete Ramírez, arquitecto; según informe de tasación evacuado con fecha 28 de diciembre de 2020, fijó monto provisional indemnización en $14.507.760.- para rol avalúo N° 468-15; y $12.906.670.- para rol avalúo N° 468-16, pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
