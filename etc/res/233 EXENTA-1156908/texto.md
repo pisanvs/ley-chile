@@ -190,11 +190,9 @@ La medida de este numeral empezará a regir a contar de las 05:00 horas del día
 
 a. La medida dispuesta en el numeral 5 comenzará a regir desde las 22:00 horas.
 
-b. Los establecimientos de comercio de bienes y servicios, ubicados en comunas que se encuentren en "Paso 1: Cuarentena" del que trata el acápite II del Capítulo II, que puedan atender a público conforme al Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 5770, de 11 de marzo de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace, podrán desarrollar esta actividad sólo hasta las 20:00 horas, salvo aquellos que tengan un horario de atención distinto según lo dispuesto en el mismo instructivo para permisos de desplazamiento.
+b. En aquellas localidades que se encuentren en el "Paso 2: Transición" del que trata el acápite III del Capítulo II, se observarán las siguientes reglas especiales:
 
-c. En aquellas localidades que se encuentren en el "Paso 2: Transición" del que trata el acápite III del Capítulo II, se observarán las siguientes reglas especiales:
-
-i. Los establecimientos de comercio de bienes y servicios, que puedan atender a público conforme al Instructivo para permisos de desplazamiento del que trata el Oficio Ordinario Nº 5770, de 11 de marzo de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace, podrán desarrollar esta actividad sólo hasta las 20:00 horas, salvo aquellos que tengan un horario de atención distinto según lo dispuesto en el mismo instructivo para permisos de desplazamiento.
+i. El comercio detallista, restoranes, cafés y análogos y, en general, cualquier establecimiento de venta de bienes podrá atender a público sólo hasta las 20:00 horas. La disposición descrita en este número i.) será aplicable también en el "Paso 1: Cuarentena".
 
 ii. Se prohíbe el funcionamiento de gimnasios abiertos al público.
 
@@ -227,10 +225,6 @@ Aquellas personas que se encuentran en el literal a) de este numeral quedarán s
 12. Déjase constancia que las resoluciones que disponen las medidas sanitarias que indican por brote de COVID-19, del Ministerio de Salud, en particular la resolución exenta Nº 43, de 2021, y en las modificaciones posteriores que se hagan a ésta, seguirán vigentes en lo que no fueran contrarias a esta resolución.
 
 13. Déjase constancia que el incumplimiento de las medidas impuestas por la autoridad en virtud de esta resolución y las resoluciones señaladas en el numeral anterior serán fiscalizadas y sancionadas según lo dispuesto en el Libro X del Código Sanitario, en el Código Penal y en la ley Nº 20.393, según corresponda.
-
-> **Nota.** El numeral 2 de la Resolución 271 Exenta, Salud, publicada el 27.03.2021 dispone que las modificaciones introducidas en el numeral 5 de la presente norma serán aplicables desde la publicación de la citada Resolución, y hasta el día 31 de marzo de 2021.
-
-> **Nota.** NOTA 1 El numeral 4 de la Resolución 317 Exenta, Salud, publicada el 05.04.2021, modifica la presente norma en el sentido de prorrogar, durante todo el mes de abril de 2021, las medidas dispuestas en el numeral 5 de la presente norma.
 
 Anótese, comuníquese y publíquese.- Enrique Paris Mancilla, Ministro de Salud.
 
