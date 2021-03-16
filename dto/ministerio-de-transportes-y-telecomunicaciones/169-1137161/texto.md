@@ -132,9 +132,9 @@ comuna de Angol, Región
 
 de la Araucanía.
 
-- Coordenadas Geográficas : 37° 47' 20'' Latitud Sur.
+- Coordenadas Geográficas : 38º15'22" Latitud Sur;
 
-72° 42' 30'' Longitud Oeste.
+73º03'14" Longitud Oeste
 
 Datum WGS84.
 
@@ -142,7 +142,9 @@ Datum WGS84.
 
 Transmisora y Sistema Capitán Pastene, comuna
 
-Radiante de Lumaco, Región de la Araucanía.
+Radiante de Lumaco, Región de la
+
+Araucanía.
 
 - Coordenadas Geográficas : 38° 15' 30'' Latitud Sur.
 
