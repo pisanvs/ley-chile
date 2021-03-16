@@ -606,7 +606,9 @@ El Consejo de Política Antártica estará integrado por:
 
 5. El Ministro del Medio Ambiente.
 
-6. El Jefe del Estado Mayor Conjunto.
+6. El Ministro de Ciencia, Tecnología, Conocimiento e Innovación.
+
+7. El Jefe del Estado Mayor Conjunto.
 
 Además, participarán como asesores:
 
@@ -624,13 +626,17 @@ Además, participarán como asesores:
 
 7. El delegado presidencial de la XII Región de Magallanes y Antártica Chilena.
 
-8. El Director Nacional de Fronteras y Límites del Estado.
+8. El Gobernador Regional de la Región de Magallanes y de la Antártica Chilena.
 
-9. El Director del Instituto Antártico Chileno.
+9. El Director Nacional de Fronteras y Límites del Estado.
 
-10. El Director de Planificación Estratégica de la Subsecretaría de Relaciones Exteriores.
+10. El Director del Instituto Antártico Chileno.
 
-11. El funcionario del Ministerio de Relaciones Exteriores encargado de los temas antárticos, quién actuará además como Secretario Ejecutivo del Consejo.
+11. El Director de Planificación Estratégica de la Subsecretaría de Relaciones Exteriores.
+
+12. Un representante del Consejo de Rectores de las Universidades Chilenas.
+
+13. El funcionario del Ministerio de Relaciones Exteriores encargado de los temas antárticos, quién actuará además como Secretario Ejecutivo del Consejo.
 
 El Ministro de Relaciones Exteriores podrá invitar a representantes del Congreso Nacional, ministerios, órganos de la Administración del Estado, operadores antárticos, y representantes de la sociedad civil, para los efectos de realizar consultas sobre materias específicas.
 
