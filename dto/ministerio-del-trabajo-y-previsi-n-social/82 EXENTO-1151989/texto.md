@@ -64,9 +64,11 @@ Objetivos Específicos:
 
 De los Afiliados
 
-#### Artículo 5°
+#### Artículo 5º
 
-Podrán afiliarse al Servicio de Bienestar, quienes tengan la calidad de funcionarios de planta o a contrata, y aquellos que hayan jubilado siendo funcionarios de dicha Institución.
+Tanto la afiliación como la desafiliación al Servicio de Bienestar será de manera voluntaria y deberá ser solicitada al Consejo Administrativo por escrito.
+
+Atendido lo anterior, podrán afiliarse aquellos funcionarios/as que pertenezcan al Servicio Local de Educación Pública Puerto Cordillera en calidad de planta, o a contrata en conformidad al DFL Nº 29 sobre el Estatuto Administrativo, al inciso segundo del artículo 47º de la Ley Nº 21.040 de 2017, a los funcionarios señalados en el artículo 29º de la Ley Nº 21.109 de 2018, ambos del Ministerio de Educación, y respecto de aquellos que hayan jubilado siendo funcionario/a de esta Institución Pública.
 
 ## Título III
 
@@ -80,9 +82,9 @@ a. El Director(a) Ejecutivo(a) del Servicio Local de Educación Pública Puerto 
 
 b. El Jefe(a) de Departamento Jurídico o a quien éste(a) designe;
 
-c. El Subdirector(a) Unidad de Administración y Finanzas o a quien éste(a) designe;
+c. El Jefe/a Unidad de Administración y Finanzas, o a quien éste designe;
 
-d. El Jefe(a) de Administración de Personal o a quien éste(a) designe, y
+d. El Jefe/a Departamento de Gestión y Desarrollo de Personas, o a quien éste designe;
 
 e. Cuatro representantes de los afiliados, uno de los cuales será designado, cuando proceda, por la Asociación de Funcionarios, con arreglo a lo dispuesto en el inciso tres del artículo 18° del Reglamento General, los tres restantes, serán elegidos por los afiliados.
 
