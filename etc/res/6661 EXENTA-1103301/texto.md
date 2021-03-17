@@ -164,11 +164,13 @@ Esta modalidad de condominio deberá otorgar una respuesta arquitectónica y urb
 
 11.3. La entidad desarrolladora, al momento de ingresar el proyecto, deberá presentar una Declaración Jurada en que manifieste su compromiso con lo indicado en los puntos anteriores, lo que quedará incorporado en el convenio suscrito entre Serviu y la entidad desarrolladora.
 
-11.4. Los proyectos a desarrollar en los terrenos singularizados en el Resuelvo 1., mediante el Programa de Integración Social y Territorial, deberán considerar al menos un 20% de familias vulnerables, salvo en el caso del proyecto a desarrollar en el terreno denominado "Ex Planta Asfáltica", en que se deberán considerar al menos 89 viviendas destinadas a familias vulnerables, que cumplan con los criterios indicados en el punto 11.2. de esta resolución. En todos los casos, el saldo correspondiente, deberá completarse incorporando familias de sectores medios que cuenten con subsidios del Sistema Integrado de Subsidio Habitacional, regulado por el DS N° 1 (V. y U.), de 2011, o que no cuenten con subsidio, pero que cumplan con los requisitos para postular al DS N° 19 (V. y U.), de 2016 y que se inscriban en el proyecto.
+11.4 En casos debidamente justificados el Serviu Metropolitano, podrá autorizar la incorporación de familias vulnerables de acuerdo a lo establecido en el DS Nº 19 (V. y U.), de 2016.
 
-11.5. Las familias beneficiadas con subsidios correspondientes al DS N° 1 (V. y U.), de 2011, cuya vigencia haya expirado, podrán incorporarse al proyecto, dentro de los 60 meses desde el inicio del período de vigencia del certificado de subsidio, a que se refiere el artículo 36 de dicho decreto.
+11.5. Los proyectos a desarrollar en los terrenos singularizados en el Resuelvo 1., mediante el Programa de Integración Social y Territorial, deberán considerar al menos un 20% de familias vulnerables, salvo en el caso del proyecto a desarrollar en el terreno denominado "Ex Planta Asfáltica", en que se deberán considerar al menos 89 viviendas destinadas a familias vulnerables, que cumplan con los criterios indicados en el punto 11.2. de esta resolución. En todos los casos, el saldo correspondiente, deberá completarse incorporando familias de sectores medios que cuenten con subsidios del Sistema Integrado de Subsidio Habitacional, regulado por el DS N° 1 (V. y U.), de 2011, o que no cuenten con subsidio, pero que cumplan con los requisitos para postular al DS N° 19 (V. y U.), de 2016 y que se inscriban en el proyecto.
 
-11.6 La asignación de los subsidios será sancionada por resoluciones del Director del Serviu Metropolitano.
+11.6. Las familias beneficiadas con subsidios correspondientes al DS N° 1 (V. y U.), de 2011, cuya vigencia haya expirado, podrán incorporarse al proyecto, dentro de los 60 meses desde el inicio del período de vigencia del certificado de subsidio, a que se refiere el artículo 36 de dicho decreto.
+
+11.7 La asignación de los subsidios será sancionada por resoluciones del Director del Serviu Metropolitano.
 
 ### Párrafo 5 — De la transferencia del terreno
 
