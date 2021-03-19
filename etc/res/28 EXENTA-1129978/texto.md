@@ -764,7 +764,9 @@ f) Entregar a las Direcciones Zonales lineamientos generales de los modelos de c
 
 g) Asesorar a otras jefaturas, Divisiones, Departamentos y Direcciones Zonales en materias de compra y gestión comercial con prestadores en la Modalidad de Libre Elección.
 
-h) Dar cumplimiento a todas las tareas que encomiende el Jefe del Departamento.
+h) Realizar el cambio de estado de las personas naturales o jurídicas inscritas en la Base de Prestadores MLE y que registren domicilio en la Región Metropolitana o en la Región del Libertador General Bernardo O'Higgins, que estén afectas a medidas provisionales o que hayan sido sancionados con la suspensión o cancelación de su convenio MLE.
+
+i) Dar cumplimiento a todas las tareas que encomiende el Jefe del Departamento.
 
 ### Párrafo 4°
 
@@ -986,9 +988,15 @@ n) Colaborar, desde el ámbito técnico, con la División Servicio al Usuario en
 
 o) Generar informes de gestión del Departamento e informar, periódicamente, sobre su cumplimiento y avance.
 
-p) Ser contraparte de las Direcciones Zonales del Fondo en materias de su competencia.
+p) Supervisar que se realice el cambio de estado de las personas naturales o jurídicas, inscritas en la Base de Prestadores y que registren domicilio en la Región Metropolitana o en la Región del Libertador General Bernardo O'Higgins, que estén afectas a medidas provisionales o que hayan sido sancionados con la suspensión o cancelación de su convenio MLE.
 
-q) Dar cumplimiento a todas las tareas que encomiende el jefe de la División.
+q) Informar a la División de Gestión Financiera del Fonasa los reintegros o devoluciones ordenadas a los prestadores que registren domicilio en la Región Metropolitana o en la Región del Libertador General Bernardo O'Higgins, con el fin que ese Departamento adopte las medidas necesarias para su cobro.
+
+r) Informar a la División de Gestión Financiera del Fonasa las multas a beneficio fiscal que se encuentren ejecutoriadas de prestadores que registren domicilio en la Región Metropolitana o en la Región del Libertador General Bernardo O'Higgins, para que dicha División informe a la Tesorería General de la República, con el fin de que sea ese Servicio quien efectúe las gestiones de cobranza correspondiente.
+
+s) Ser contraparte de las Direcciones Zonales del Fondo en materias de su competencia.
+
+t) Dar cumplimiento a todas las tareas que encomiende el jefe de la División.
 
 ### Párrafo 4º
 
@@ -2688,9 +2696,15 @@ f) Gestionar el cumplimiento de las sentencias emanadas de la Superintendencia d
 
 g) Auditar los contratos GRD, respecto de casos inliers y outliers, para verificar o validar que la codificación realizada por prestadores se ajuste a las reglas de codificación CIE 10 y demás normas establecidas.
 
-h) Cumplir cualquier instrucción que le sea encomendada por su superior jerárquico destinada a la mejor ejecución de las funciones señaladas en los literales precedentes o de aquellas entregadas a la Dirección Zonal por medio de este acto administrativo u otros de análoga naturaleza.
+h) Supervisar que se realice el cambio de estado de las personas naturales o jurídicas, inscritas en la Base de Prestadores y que registren domicilio en una Región que dependa de su Dirección Zonal, que estén afectas a medidas provisionales o que hayan sido sancionados con la suspensión o cancelación de su convenio MLE.
 
-i) Dar cumplimiento a las demás funciones que le sean encomendadas por el Director Zonal.
+i) Informar a la División de Gestión Financiera del Fonasa y al Departamento de Administración y Finanzas de la Dirección Zonal respectiva los reintegros o devoluciones ordenadas a los prestadores, con el fin de que se adopten las medidas necesarias para su cobro.
+
+j) Informar a el/la Jefe del Departamento Contraloría MLE las multas a beneficio fiscal que se encuentren ejecutoriadas para fines pertinentes.
+
+k) Cumplir cualquier instrucción que le sea encomendada por su superior jerárquico destinada a la mejor ejecución de las funciones señaladas en los literales precedentes o de aquellas entregadas a la Dirección Zonal por medio de este acto administrativo u otros de análoga naturaleza.
+
+l) Dar cumplimiento a las demás funciones que le sean encomendadas por el Director Zonal.
 
 ### Párrafo 7º
 
@@ -2768,9 +2782,11 @@ gg) Recopilar e informar al Subdepartamento Análisis Financiero de los Servicio
 
 hh) Enviar mensualmente al Subdepartamento de Análisis Financiero de los Servicios de Salud, informes de la gestión de los Servicios de Salud y establecimientos dependientes.
 
-ii) Cumplir cualquier instrucción que le sea encomendada por su superior jerárquico destinada a la mejor ejecución de las funciones señaladas en los literales precedentes o de aquellas entregadas a la Dirección Zonal por medio de este acto administrativo u otros de análoga naturaleza.
+ii) Realizar el cambio de estado de las personas naturales o jurídicas, inscritas en la Base de Prestadores MLE y que registren domicilio en el territorio de su competencia, que estén afectas a medidas provisionales o que hayan sido sancionados con la suspensión o cancelación de su convenio MLE.
 
-jj) Dar cumplimiento a las demás funciones que le sean encomendadas por el Director Zonal.
+jj) Cumplir cualquier instrucción que le sea encomendada por su superior jerárquico destinada a la mejor ejecución de las funciones señaladas en los literales precedentes o de aquellas entregadas a la Dirección Zonal por medio de este acto administrativo u otros de análoga naturaleza.
+
+kk) Dar cumplimiento a las demás funciones que le sean encomendadas por el Director Zonal.
 
 ### Párrafo 8º
 
@@ -2984,17 +3000,13 @@ a) Fiscalizar a prestadores públicos y privados inscritos en la Modalidad Libre
 
 b) Suspender la vigencia de los convenios de la Modalidad Libre Elección, por causales administrativas, como medida preventiva.
 
-c) Aplicar sanciones de amonestación y multa de hasta 250 UF, como consecuencia de un proceso de fiscalización.
+c) Supervisar permanentemente la realización de las fiscalizaciones y aplicación de sanciones que correspondan en la Modalidad de Libre Elección, así como velar por el correcto cumplimiento de los procesos y de las normas establecidas para la substanciación de los procedimientos de fiscalización y aplicación de sanciones a los prestadores de dicha modalidad.
 
-d) Ordenar la instrucción y tramitar los procedimientos administrativos sancionatorios ordenados como consecuencia de un proceso de fiscalización.
-
-e) Ordenar el reintegro de dinero percibido por prestaciones no realizadas por los prestadores de salud inscritos en la Modalidad Libre Elección.
-
-f) Firmar oficios dirigidos a la Superintendencia de Salud informando el cumplimiento de Sentencias Arbitrales.
+d) Firmar oficios dirigidos a la Superintendencia de Salud informando el cumplimiento de Sentencias Arbitrales.
 
 2º En el Jefe del Departamento Contraloría MLE las siguientes facultades:
 
-a) Formular cargos a prestadores como consecuencia de un proceso de fiscalización.
+a) Instruir el inicio de la fiscalización mediante resolución respecto de las personas naturales o jurídicas inscritas en la Base de Prestadores MLE y que registren domicilio en la Región Metropolitana o en la Región del Libertador General Bernardo O'Higgins; dictar el acto administrativo mediante el cual se cierra la etapa de fiscalización, solicitando el reintegro de las prestaciones objetadas, si procediere; dictar el acto administrativo mediante el cual se le formulan cargos al prestador; y dictar el acto administrativo fundado que aplica las medidas provisionales.
 
 b) Autorizar programas y órdenes de atención cuya vigencia haya caducado en los términos establecidos en las normas técnicas administrativas para la aplicación del arancel que se encontrare vigente, así como programas y órdenes de atención con enmendaduras y roturas y que no se ajusten a los términos establecidos en las normas técnicas administrativas para la aplicación del arancel que se encontrare vigente.
 
@@ -3354,7 +3366,7 @@ h) Celebrar convenios con profesionales y entidades para incorporarlos al Rol de
 
 i) Suspender la vigencia de los convenios de la Modalidad Libre Elección, por causales administrativas, como medida preventiva.
 
-j) Ordenar el reintegro de dinero por prestaciones no realizadas por prestadores inscritos en la Modalidad Libre Elección.
+j) Aplicar la sanción que corresponda a las personas naturales o jurídicas inscritas en la Base de Prestadores MLE y que registren domicilio en el territorio de su competencia, por infracciones a las normas que regulan dicha modalidad de atención, ordenando los reintegros que correspondan a estos casos.
 
 k) Poner término al convenio de un prestador de la Modalidad Libre Elección, para los casos de inhabilidad legal sobreviniente, incapacidad física o mental legalmente declarada, fallecimiento, renuncia del prestador, y falta de autorización sanitaria cuando corresponda.
 
@@ -3492,13 +3504,13 @@ b) Informar el retraso de depósito y otros errores de entidades delegadas al re
 
 5º En el Jefe del Departamento Contraloría de las Direcciones Zonales las siguientes facultades:
 
-b) Notificar inicio de fiscalización, de cierre y de formulación de cargos.
+a) Instruir el inicio de la fiscalización mediante resolución respecto de las personas naturales o jurídicas inscritas en la Base de Prestadores MLE y que registren domicilio en el territorio de su competencia; dictar el acto administrativo mediante el cual se cierra la etapa de fiscalización, solicitando el reintegro de las prestaciones objetadas, si procediere; dictar el acto administrativo mediante el cual se le formulan cargos al prestador; y dictar el acto administrativo fundado que aplica las medidas provisionales.
 
-c) Solicitar antecedentes clínicos y administrativos a prestadores.
+b) Solicitar antecedentes clínicos y administrativos a prestadores.
 
-d) Autorizar pagos de bonos de atención de salud que no cumplen con la vigencia administrativa establecidas en las Normas Técnicas y Administrativas, que no se encuentren prescritos.
+c) Autorizar pagos de bonos de atención de salud que no cumplen con la vigencia administrativa establecidas en las Normas Técnicas y Administrativas, que no se encuentren prescritos.
 
-e) Levantamiento de CAT, según la materia y montos.
+d) Levantamiento de CAT, según la materia y montos.
 
 6º En el Jefe del Departamento Comercialización y Gestión Financiera de las Direcciones Zonales las siguientes facultades:
 
