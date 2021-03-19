@@ -1568,8 +1568,6 @@ Tabla 10: Valores Base Índices
 
 > **Nota.** Los numerales 1, 2 y 3 del artículo primero del Decreto 51 Exento, Energía, publicado el 19.03.2021, modifican la Tabla 1 contenida en el numeral 1 del presente artículo primero de la manera que la citada norma indica.
 
-> **Nota.** NOTA 1 El numeral 1° del Decreto 159 Exento, Energía, publicado el 10.05.2025, rectifica la Tabla 1 inserta en el numeral 1 del presente artículo, en el sentido de reemplazar en su N° 4 la expresión "Engie Energía Chile S.A." por "Edelnor Transmisión S.A.".
-
 #### Artículo segundo
 
 Las obras de ampliación que trata el artículo primero del presente decreto, deberán ser licitadas por el Coordinador, en conformidad a lo dispuesto en el artículo 95º de la ley y a lo siguiente:
