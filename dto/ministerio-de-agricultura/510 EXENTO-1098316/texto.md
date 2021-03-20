@@ -108,6 +108,8 @@ Región del Biobío
 
 . Puerto de Talcahuano
 
+. Puerto Industrial Cabo Froward.
+
 Región de la Araucanía
 
 . Paso Pino Hachado
