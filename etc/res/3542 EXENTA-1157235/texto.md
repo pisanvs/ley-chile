@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 3.542 EXENTA, DE 15 DE DICIEMBRE DE 2020
+
+Por resolución exenta Nº 3.542, de fecha 15 de diciembre de 2020, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Región Metropolitana de Santiago, se autorizó a Escuela de Conductores No Profesionales o Clase B denominada Huelén 1, domiciliada en sedes de Av. Libertador Bernardo O'Higgins Nº 580, local 27, comuna de Santiago, Av. José Miguel Carrera Nº 8903, comuna de La Cisterna, y Av. Ambrosio O'Higgins Nº 1216, local 4, comuna de Curacaví, cuya propietaria es la señora Juanita Olga Veas Araya, cédula de identidad Nº 10.394.258-6, para impartir curso conducente a obtención de Licencia de Conductor Clase B, en modalidad e-learning.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana de Santiago.
