@@ -12,7 +12,7 @@ c) El plazo para presentar la solicitud se extiende hasta el 3 de agosto de 2020
 
 d) Una vez recibidos los antecedentes en la Subsecretaría y para asegurar la eficacia de la decisión, se entenderá suspendido el plazo de caducidad, establecido en la letra e) del artículo 142 de la Ley General de Pesca y Acuicultura, respecto de todos los centros de cultivo que presenten su solicitud en tiempo y forma. La suspensión comenzará a regir desde la fecha que el centro de cultivo debía iniciar o reanudar las actividades, y se mantendrá hasta que se resuelva el procedimiento para determinar el plazo específico de prórroga.
 
-e) Una vez analizados los antecedentes, dentro del plazo de 140 días hábiles contados desde el 4 de agosto de 2020, se dictará uno o más actos administrativos que se pronuncien respecto de las solicitudes.
+e) Una vez analizados los antecedentes, se dictará uno o más actos administrativos que se pronuncien respecto de las solicitudes ingresadas, para lo cual se dispondrá de un plazo de 140 días hábiles, contados desde el 4 de agosto de 2020, con excepción de aquellos trámites que requieran antecedentes adicionales para su resolución, los que estarán sujetos al procedimiento y a los plazos dispuestos en la ley.
 
 f) Los beneficiarios de esta medida se exceptuarán del pago de la Patente Única de Acuicultura, por el año calendario que corresponda y en que se encuentren sin operar, lo que se señalará en la resolución que determine el plazo específico.
 
