@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta 355, de fecha 09 de marzo de 2021, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, se autoriza a Escuela de Conductores No Profesionales o Clase B denominada "Capchile Limitada", RUT 76.715.240-K, cuyo propietario y director es don Juan Eduardo Landaeta Fernández, cédula de identidad N° 11.841.928-6, cuyo Programa de Enseñanza fue aprobado mediante resolución exenta N° 15, de 23 enero de 2013, rectificada por resolución exenta N° 91, de 20 de enero de 2021, ambas de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, a impartir el curso conducente a obtención de Licencia de Conductor Clase B, en modalidad e-learning, para la comuna de Puerto Montt.-
+
+Nicolás Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de los Lagos.
