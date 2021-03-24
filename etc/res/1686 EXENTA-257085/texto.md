@@ -42,6 +42,10 @@ b) Necesidad apremiante de reubicar las instalaciones de telecomunicaciones, com
 
 c) Cualquier otra circunstancia precisa, calificada y acreditada que pueda estimarse como motivo grave y urgente que justifique la autorización provisoria de la modificación de concesión.
 
+#### Artículo 4º
+
+Ante todo tipo de circunstancias extraordinarias, imprevistas, de amplio alcance y magnitud, sean de origen natural o humano, tales como catástrofes naturales, emergencias sanitarias, guerra externa o interna, ataques cibernéticos, estados de excepción constitucional, reordenamientos de espectro, expansiones a zonas carentes de servicios o con insuficiente cobertura; actos de autoridad, cambios tecnológicos, entre otras que motiven la introducción de una gran cantidad de modificaciones en las redes y sistemas empleados por concesionarios o permisionarios, la Subsecretaría podrá, mediante resolución fundada, establecer criterios que permitan caracterizar categorías de solicitudes de modificación prioritarias. Las solicitudes que satisfagan los criterios así establecidos podrán ser consideradas casos graves y urgentes para los efectos de acceder de oficio y provisoriamente a lo solicitado, sin necesidad de acompañar antecedentes que lo acrediten y sin requerimiento de parte del peticionario.
+
 Anótese y publíquese en el Diario Oficial.- Pablo Bello Arellano, Subsecretario de Telecomunicaciones.
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Cristián Núñez Pacheco, Jefe División Política Regulatoria y Estudios.
