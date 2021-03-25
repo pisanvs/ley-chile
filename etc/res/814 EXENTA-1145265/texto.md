@@ -100,21 +100,21 @@ iii. Condominios de Viviendas Económicas
 
 Región Monto (UF)
 
-Atacama 27.349,00
+Atacama 6.457,73
 
 Coquimbo 26.940,00
 
-Valparaíso 650.825,00
+Valparaíso 489.261,05
 
-Maule 160.000,00
+Maule 204.542,75
 
-Ñuble 69.359,08
+Ñuble 111.759,08
 
-Biobío 252.003,23
+Biobío 245.522,93
 
-Los Ríos 86.604,00
+Los Ríos 144.674,35
 
-Total 1.273.080,31
+Total 1.229.157,89
 
 La Subsecretaria de Vivienda y Urbanismo, mediante resoluciones, podrá reasignar estos recursos entre regiones a fin de garantizar la completa asignación de los subsidios del presente llamado.
 
