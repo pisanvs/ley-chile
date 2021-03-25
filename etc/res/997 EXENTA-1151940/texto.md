@@ -56,11 +56,27 @@ Para quienes ingresen al país a través de pasos fronterizos terrestres o marí
 
 3. Dispóngase que todas las personas que ingresen al territorio nacional, sin importar el país de origen ni la región de destino en Chile, deben cumplir en su destino final con la medida de cuarentena por 10 días o hasta que abandone el país, en caso que su permanencia fuere menor a 10 días.
 
-La medida de cuarentena podrá finalizar antes de cumplir los referidos 10 días si se cuenta con un resultado negativo de un Test PCR para SARS-CoV-2, cuya toma de muestra se realice pasadas 144 horas desde el ingreso al país.
+Aquellos viajeros que tienen por lugar de destino una región distinta a la de ingreso a Chile podrán continuar con su viaje durante las primeras 24 horas después del ingreso al país en medios de transporte públicos o privados, cumpliendo con todas las medidas sanitarias que sean pertinentes.
 
-Para los efectos de lo dispuesto en el párrafo anterior del presente número, la persona podrá salir en una ocasión desde el lugar donde cumple la cuarentena, con el único objeto de realizarse el Test PCR para SARS-CoV-2.
+Sin perjuicio de lo dispuesto precedentemente, aquel viajero que, al llegar al país, presente uno de los síntomas cardinales o dos síntomas no cardinales, de los que trata el numeral 14 de la resolución exenta Nº 43, de 2021, del Ministerio de Salud, deberán cumplir la medida de la que trata este numeral en una residencia sanitaria dispuesta al efecto por la autoridad sanitaria, hasta que se haya descartado la enfermedad de COVID-19, mediante el resultado negativo de un Test RT-PCR para SARS-Cov-2.
 
-Independiente de la realización del Test PCR, aquellos viajeros que tienen por lugar de destino una región distinta a la de ingreso a Chile podrán continuar con su viaje durante las primeras 24 horas después del ingreso al país en medios de transporte público o privado, cumpliendo con todas las medidas sanitarias que sean pertinentes.
+Asimismo, aquel viajero que, dentro de los catorce días contados desde su ingreso al país, sea caracterizado como caso confirmado según lo dispuesto en el numeral 8 bis de la citada resolución Nº 43 deberá cumplir con la cuarentena dispuesta en los términos del numeral 9 de la misma resolución, en una residencia sanitaria.
+
+3 bis. La cuarentena de la que trata el numeral anterior deberá cumplir con las siguientes reglas:
+
+a. El trayecto al lugar de cumplimiento de la cuarentena deberá ser directo desde el lugar de ingreso al país. Deberá utilizarse siempre mascarilla y se prohíbe la interacción con otras personas, a excepción de aquella indispensable para el traslado.
+
+b. El aislamiento debe ser individual o con el mismo grupo de personas con el que se haya viajado. Esto no será impedimento para realizar su cuarentena en un domicilio donde residan otras personas que no estén sujetas a esta medida.
+
+c. No se permitirá la recepción de visitantes en el lugar donde se realice la cuarentena.".
+
+3 ter. Dispóngase que las personas que ingresen al territorio nacional desde la República de Brasil, o que hayan estado en dicho país dentro de los 14 días anteriores a su ingreso a Chile, deberán cumplir la medida que dispone el párrafo primero del numeral 3 en una residencia sanitaria ubicada en la región de ingreso al país, dispuesta por la autoridad sanitaria al efecto.
+
+En caso que una persona proveniente de la República de Brasil obtenga un resultado negativo en un TEST - RT PCR para SARS-CoV-2, a partir del tercer día contado desde el inicio de su cuarentena, cuya toma de muestra haya sido efectuada en Chile, deberá igualmente completar la cuarentena de 10 días contados desde su ingreso al país, sin perjuicio de que podrá continuarla en su domicilio, para lo cual tendrá 24 horas desde la notificación del resultado para trasladarse a éste, cumpliendo con todas las medidas sanitarias que sean pertinentes. Si el resultado de dicho test fuere positivo, la cuarentena deberá cumplirse en su totalidad en la residencia sanitaria que corresponda.
+
+Lo dispuesto en este numeral no aplicará a aquellas personas cuyo medio de transporte haya hecho escala por menos de 6 horas en la República de Brasil y que no hayan ingresado formalmente a dicho país.
+
+Los costos asociados a la entrada del país del viajero del que trata este numeral serán sufragados por el mismo viajero. En el caso de los extranjeros sin residencia permanente en Chile, los costos serán pagados al obtener su pasaporte sanitario, antes de tomar el transporte rumbo a Chile.
 
 4. Dispóngase que los extranjeros no residentes de manera regular en el país sólo podrán ingresar al territorio nacional si cuentan con un resultado negativo de un Test PCR para SARS-CoV-2.
 
