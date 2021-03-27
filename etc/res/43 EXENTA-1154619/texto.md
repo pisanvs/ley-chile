@@ -400,6 +400,8 @@ Estos espacios tendrán un aforo máximo de 1 persona por cada 8 metros cuadrado
 
 57. De la banda horaria Elige Vivir Sano. Sin perjuicio de lo dispuesto en los numerales anteriores, las personas cuyas localidades de residencia se encuentren en el "Paso 1: Cuarentena" podrán realizar actividades al aire libre en lugares públicos entre las 07:00 y 08:30 horas todos los días. Estas actividades deberán ser de naturaleza individual o con personas de la misma residencia. Sin perjuicio de lo anterior, quienes hagan uso de este horario no podrán utilizar automóviles o el transporte público para estos efectos. Asimismo, tampoco podrán realizar, en dicha franja horaria, otras actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 3.378, ya citado, a excepción de que cuenten con el citado permiso.
 
+Sin perjuicio de lo dispuesto precedentemente, la banda horaria Elige Vivir Sano se extenderá entre las 6:00 horas y las 9:00 horas los días sábados, domingos y festivos.
+
 58. De la salida de adultos mayores de 75 años. Los mayores de 75 años cuyas localidades de residencia se encuentren en el "Paso 1: Cuarentena" podrán salir de su residencia sin utilizar automóvil o transporte público los lunes, jueves y sábados de 9 a 11 horas o de 16 a 18 horas. En este horario no se pueden realizar actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 3.378, ya citado, a excepción de que cuenten con el citado permiso.
 
 ### III. Paso 2: Transición
@@ -454,7 +456,7 @@ e) Deberá existir ventilación permanente y adecuada, sea esta natural o artifi
 
 ### 67. Eliminado
 
-68. De la banda horaria Elige Vivir Sano. Sin perjuicio de lo dispuesto en los numerales anteriores, las personas cuyas localidades de residencia se encuentren en el "Paso 1: Cuarentena" podrán realizar actividades al aire libre en lugares públicos entre las 07:00 y 08:30 horas todos los días. Sin perjuicio de lo anterior, quienes hagan uso de este permiso no podrán utilizar automóviles o el transporte público. Estas actividades deberán ser de naturaleza o individual o con personas de la misma residencia. Asimismo, tampoco podrán realizar, en dicha franja horaria, otras actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 3.378, ya citado, a excepción de que cuenten con el citado permiso.
+68. De la banda horaria Elige Vivir Sano. Sin perjuicio de lo dispuesto en los numerales anteriores, las personas cuyas localidades de residencia se encuentren en cuarentena podrán realizar actividades al aire libre en lugares públicos entre las 06:00 y 09:00 horas todos los días. Sin perjuicio de lo anterior, quienes hagan uso de este permiso no podrán utilizar automóviles o el transporte público. Estas actividades deberán ser de naturaleza o individual o con personas de la misma residencia. Asimismo, tampoco podrán realizar, en dicha franja horaria, otras actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 3.378, ya citado, a excepción de que cuenten con el citado permiso.
 
 69. De los permisos en los centros del SENAME. En los centros dependientes del Servicio Nacional de Menores, tanto de administración directa como en los organismos colaboradores, se observará la siguiente regla:
 
