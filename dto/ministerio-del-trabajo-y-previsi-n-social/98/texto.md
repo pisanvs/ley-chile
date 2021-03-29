@@ -34,7 +34,7 @@ La Dirección y Administración del Servicio de Bienestar corresponderá a un Co
 
 a) El Vicepresidente Ejecutivo de la Comisión Chilena del Cobre, o la persona que él designe, quien la presidirá;
 
-b) El Jefe del Departamento de Personal y Bienestar; y
+b) El Jefe del Departamento de Gestión y Desarrollo de Personas; y
 
 c) Dos representantes de los afiliados, uno de los cuales será designado por la respectiva Asociación de Funcionarios, cuando proceda, de acuerdo al inciso 3° del artículo 18 del Reglamento General.
 
@@ -48,7 +48,7 @@ Para ser elegido representante de los afiliados, y mantener esa representación,
 
 #### Artículo 6°
 
-El Consejo Administrativo sesionará ordinariamente una vez al mes, en el día y hora que fijen sus miembros en la primera sesión del año. La citación, tanto respecto de las sesiones ordinarias como extraordinarias, la hará por escrito el Jefe del Servicio de Bienestar, con 48 horas de anticipación.
+El Consejo Administrativo sesionará ordinariamente una vez al mes, en el día y hora que fijen sus miembros. La citación, tanto respecto de las sesiones ordinarias como extraordinarias, la hará por escrito el Jefe del Servicio de Bienestar, con 48 horas de anticipación. Sin perjuicio de lo anterior, en caso de fuerza mayor que impida la reunión presencial de los Consejeros, el Jefe(a) de Bienestar enviará, por medios electrónicos a cada uno de los miembros, toda la información relevante y se considerarán igualmente válidos los acuerdos que puedan adoptarse por vía virtual o remota, los que deberán ser ratificados en la siguiente sesión del Consejo Administrativo.
 
 El Consejo Administrativo sesionará con al menos tres de sus miembros y sus acuerdos se adoptarán, en general, por simple mayoría, salvo las excepciones que se consignan en el presente Reglamento o en el Reglamento General. En el caso de producirse empate, decidirá el voto de quien presida.
 
@@ -72,7 +72,7 @@ De las ayudas
 
 #### Artículo 8°
 
-El Servicio de Bienestar podrá otorgar las siguientes ayudas por las causales y de acuerdo con las modalidades que a continuación se indican:
+El Servicio de Bienestar podrá otorgar las siguientes ayudas en dinero o cualquier otra modalidad que determine el Consejo Administrativo por las causales y de acuerdo con las modalidades que a continuación se indican:
 
 a) Matrimonio.- Cuando el afiliado contraiga matrimonio.
 
@@ -86,11 +86,15 @@ c) Fallecimiento.- En caso de fallecimiento del afiliado, el beneficio le corres
 
 El afiliado tendrá derecho a estos beneficios en caso de muerte de su cónyuge y/o cargas familiares autorizadas, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
 
-d) Escolaridad.- El afiliado tendrá derecho una vez al año a una ayuda de escolaridad por cada hijo que sea carga familiar autorizada y que siga cursos de enseñanza básica, media, técnica, especializada o superior, en establecimientos del Estado o reconocidos por éste, y
+d) Escolaridad.- El afiliado tendrá derecho una vez al año a una ayuda de escolaridad por afiliado y por cada hijo que sea carga familiar autorizada y que siga cursos de enseñanza básica, media, técnica, especializada o superior, en establecimientos del Estado o reconocidos por éste, y
 
 e) Adopción.- Cuando el afiliado compruebe la adopción de un hijo, con la respectiva sentencia judicial debidamente inscrita en el Servicio de Registro Civil e Identificación.
 
 f) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieran afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio.
+
+g)Becas de Reconocimiento y/o Inclusión Académica: El Servicio de Bienestar podrá otorgar 1 vez al año, Becas de Reconocimiento y/o Inclusión Académica de los afiliados(as) y/o cargas legales, que se encuentran cursando Educación Básica, Media, Técnica y/o Profesional en instituciones reconocidas por el Estado. La forma y requisitos para otorgar este beneficio, serán acordados por el Consejo Administrativo.
+
+h) Catástrofes: Se otorgará una ayuda en dinero o cualquier otra modalidad que determine el Consejo Administrativo, en el caso que el afiliado/a sufra pérdidas materiales a causa de incendios, terremotos, inundaciones u otros siniestros de similar naturaleza. Se considerarán también como catástrofes aquellas situaciones o imprevistos generados por fuerza mayor o caso fortuito determinado por la autoridad. Para el otorgamiento de esta ayuda se considerará como requisito la comprobación de los hechos por parte del Jefe(a) del Servicio de Bienestar o por quien designe el Jefe(a) del Departamento de Gestión y Desarrollo de Personas
 
 El monto de las ayudas a que se refiere este artículo será fijado anualmente por el Consejo Administrativo de acuerdo con las disponibilidades presupuestarias del Servicio de Bienestar.
 
@@ -136,7 +140,7 @@ Los intereses de los préstamos y su mecanismo de reajustabilidad serán fijados
 
 #### Artículo 11°
 
-Para asegurar el cumplimiento de sus obligaciones con el Servicio de Bienestar, los solicitantes de préstamos y/o de los créditos señalados en el artículo 12° deberán constituir dos codeudores solidarios, que deberán tener cada uno más de 6 meses de afiliación al Servicio de Bienestar y ser funcionarios de planta de la Comisión Chilena del Cobre.
+Para asegurar el cumplimiento de sus obligaciones con el Servicio de Bienestar, los solicitantes de préstamos deberán constituir dos codeudores solidarios, que deberán tener cada uno más de 6 meses de afiliación al Servicio de Bienestar y ser funcionarios de planta o contrata de la Comisión Chilena del Cobre.
 
 ### Párrafo IV — {ART. 12}
 
@@ -156,7 +160,7 @@ Otros beneficios
 
 #### Artículo 13°
 
-El Servicio de Bienestar podrá financiar la festividad de Navidad para sus afiliados y cargas familiares autorizadas, cuando sus recursos lo permitan.
+El Servicio de Bienestar podrá financiar la festividad de Navidad y/u otorgar beneficios en dinero o cualquier otra modalidad que determine el Consejo Administrativo para sus afiliados y cargas familiares autorizadas, cuando sus recursos lo permitan.
 
 ## Título IV — {ART. 14}
 
@@ -164,9 +168,17 @@ De la Atención Social, Cultural y Deportiva
 
 #### Artículo 14°
 
-El Servicio de Bienestar propenderá al progreso cultural, educacional, deportivo y artístico de sus afiliados y familiares, utilizando al máximo los recursos y facilidades que otras entidades o la comunidad puedan proporcionarle.
+El Servicio de Bienestar propenderá al progreso social, cultural, educacional, deportivo y artístico de sus afiliados y familiares, utilizando al máximo los recursos y facilidades que otras entidades o la comunidad puedan proporcionarle.
 
-Con este objeto, el Servicio de Bienestar podrá conceder ayudas para actividades educacionales, deportivas, culturales, artísticas y otras que propendan a los fines señalados en el inciso anterior y que beneficien directamente a sus afiliados.
+Con este objeto, el Servicio de Bienestar podrá conceder ayudas en dinero o cualquier otra modalidad que determine el Consejo Administrativo para actividades sociales, educacionales, deportivas, culturales, artísticas y otras que propendan a los fines señalados en el inciso anterior y que beneficien directamente a sus afiliados. Entre las actividades que podrán ser financiadas se encuentran: fiestas patrias, día de la madre, día del padre, día del niño, cumpleaños de los(as) afiliados(as), año nuevo, día del Secretario(a), día internacional de la mujer, aniversario institucional, fondos concursables, emergencias sanitarias, y reembolsos de:
+
+a) matrículas en gimnasios,
+
+b) matrículas en academias deportivas o artísticas,
+
+c) entradas a obras de teatro, y
+
+d) en general, todas aquellas actividades que propendan a fomentar el desarrollo social, cultural, educaciones, deportivo y artístico de los afiliados(as) y cargas legales. La forma y requisitos para otorgar estos beneficios, serán acordados por el Consejo Administrativo.
 
 El Consejo Administrativo fijará el porcentaje del presupuesto que podrá destinarse para estos efectos.
 
