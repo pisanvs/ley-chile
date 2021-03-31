@@ -54,13 +54,17 @@ Resuelvo:
 
 Para quienes ingresen al país a través de pasos fronterizos terrestres o marítimos, y para casos calificados por el operador de los aeropuertos, podrán efectuar el llenado manual de la Declaración Jurada y presentarla en el punto de ingreso al país.
 
-3. Dispóngase que todas las personas que ingresen al territorio nacional, sin importar el país de origen ni la región de destino en Chile, deben cumplir en su destino final con la medida de cuarentena por 10 días o hasta que abandone el país, en caso que su permanencia fuere menor a 10 días.
+3. Dispóngase que todas las personas que ingresen al territorio nacional, sin importar el país de origen ni la región de destino en Chile, deben cumplir con la medida de cuarentena por 10 días o hasta que abandone el país, en caso que su permanencia fuere menor a 10 días.
 
-Aquellos viajeros que tienen por lugar de destino una región distinta a la de ingreso a Chile podrán continuar con su viaje durante las primeras 24 horas después del ingreso al país en medios de transporte públicos o privados, cumpliendo con todas las medidas sanitarias que sean pertinentes.
+Para el cumplimiento de lo dispuesto precedentemente, los extranjeros no residentes de manera regular en Chile deberán recluirse los 5 primeros días desde el ingreso al país en un hotel de tránsito dispuesto para tales efectos por la autoridad sanitaria. En el caso de los chilenos o extranjeros residentes de manera regular en el país, deberán recluirse los primeros 5 días desde su ingreso, pudiendo para ello optar entre un hotel de tránsito o un hotel autorizado por la autoridad sanitaria para esos efectos.
 
-Sin perjuicio de lo dispuesto precedentemente, aquel viajero que, al llegar al país, presente uno de los síntomas cardinales o dos síntomas no cardinales, de los que trata el numeral 14 de la resolución exenta Nº 43, de 2021, del Ministerio de Salud, deberán cumplir la medida de la que trata este numeral en una residencia sanitaria dispuesta al efecto por la autoridad sanitaria, hasta que se haya descartado la enfermedad de COVID-19, mediante el resultado negativo de un Test RT-PCR para SARS-Cov-2.
+Solo podrán abandonar el hotel de tránsito o aquel autorizado por la autoridad sanitaria, después del quinto día, aquellos viajeros cuya enfermedad haya sido descartada mediante un Test RT-PCR para SARS-CoV-2 realizado tras su ingreso a Chile.
 
-Asimismo, aquel viajero que, dentro de los catorce días contados desde su ingreso al país, sea caracterizado como caso confirmado según lo dispuesto en el numeral 8 bis de la citada resolución Nº 43 deberá cumplir con la cuarentena dispuesta en los términos del numeral 9 de la misma resolución, en una residencia sanitaria.
+Los viajeros que ingresen a Chile tendrán 24 horas después de su salida del hotel de tránsito para desplazarse, en medios de transporte públicos o privados, hasta el lugar donde cumplirán el resto de su cuarentena, cumpliendo con todas las medidas sanitarias que sean pertinentes.
+
+Aquel viajero que, dentro de los catorce días contados desde su ingreso al país, sea caracterizado como caso confirmado según lo dispuesto en el numeral 8 bis de la resolución Nº 43, de 2021, del Ministerio de Salud, deberá cumplir con la totalidad de cuarentena dispuesta en los términos del numeral 9 de la misma resolución, en una residencia sanitaria.
+
+Los costos asociados a la estadía en el hotel de tránsito, o en aquel autorizado por la autoridad sanitaria, de la que trata este numeral serán sufragados por cada viajero. En el caso de los extranjeros no residentes de manera regular en Chile, los costos serán pagados al obtener su pasaporte sanitario, antes de tomar el transporte rumbo a Chile.
 
 3 bis. La cuarentena de la que trata el numeral anterior deberá cumplir con las siguientes reglas:
 
@@ -70,13 +74,7 @@ b. El aislamiento debe ser individual o con el mismo grupo de personas con el qu
 
 c. No se permitirá la recepción de visitantes en el lugar donde se realice la cuarentena.".
 
-3 ter. Dispóngase que las personas que ingresen al territorio nacional desde la República de Brasil, o que hayan estado en dicho país dentro de los 14 días anteriores a su ingreso a Chile, deberán cumplir la medida que dispone el párrafo primero del numeral 3 en una residencia sanitaria ubicada en la región de ingreso al país, dispuesta por la autoridad sanitaria al efecto.
-
-En caso que una persona proveniente de la República de Brasil obtenga un resultado negativo en un TEST - RT PCR para SARS-CoV-2, a partir del tercer día contado desde el inicio de su cuarentena, cuya toma de muestra haya sido efectuada en Chile, deberá igualmente completar la cuarentena de 10 días contados desde su ingreso al país, sin perjuicio de que podrá continuarla en su domicilio, para lo cual tendrá 24 horas desde la notificación del resultado para trasladarse a éste, cumpliendo con todas las medidas sanitarias que sean pertinentes. Si el resultado de dicho test fuere positivo, la cuarentena deberá cumplirse en su totalidad en la residencia sanitaria que corresponda.
-
-Lo dispuesto en este numeral no aplicará a aquellas personas cuyo medio de transporte haya hecho escala por menos de 6 horas en la República de Brasil y que no hayan ingresado formalmente a dicho país.
-
-Los costos asociados a la entrada del país del viajero del que trata este numeral serán sufragados por el mismo viajero. En el caso de los extranjeros sin residencia permanente en Chile, los costos serán pagados al obtener su pasaporte sanitario, antes de tomar el transporte rumbo a Chile.
+3 ter. Eliminado.
 
 4. Dispóngase que los extranjeros no residentes de manera regular en el país sólo podrán ingresar al territorio nacional si cuentan con un resultado negativo de un Test PCR para SARS-CoV-2.
 
@@ -140,6 +138,8 @@ Los chilenos y extranjeros residentes de manera regular en el país, que sean tr
 
 Quienes ingresen al país conforme a la letra i) del inciso segundo del artículo segundo del decreto supremo Nº 102, de 2020, del Ministerio del Interior y Seguridad Pública, quedarán excluidos de las medidas establecidas en los numerales 3 y 5 de la presente resolución.
 
+7 bis. Aquellos viajeros quienes sean portadores de pasaportes diplomáticos u oficiales o sean funcionarios internacionales, que cuenten con autorización de la Dirección de Protocolo del Ministerio de Relaciones Exteriores, estarán eximidos de lo dispuesto en el numeral 3 de esta resolución, siempre y cuando cuenten con un resultado negativo para el Test RT-PCR para SARS-Cov-2 realizado en Chile. Sin perjuicio de lo anterior, mientras esté pendiente el resultado del señalado Test o si este fuera positivo, podrán cumplir con la cuarentena o aislamiento en sus domicilios particulares.
+
 8. Dispóngase que será responsabilidad de la empresa que efectúe el traslado del pasajero al territorio nacional, verificar que este cuente con los documentos necesarios para el ingreso al país y cumpla con las obligaciones precedentes.
 
 En caso de incumplimiento de lo dispuesto en los numerales anteriores, la autoridad sanitaria podrá denegar la entrada al país del pasajero extranjero no residente de manera regular en Chile. En consecuencia, será responsabilidad de la empresa señalada el devolverlo a su lugar de origen.
@@ -165,6 +165,8 @@ Aquellas personas que se encuentran en el literal a) de este numeral quedarán s
 14. Déjase constancia que el incumplimiento de las medidas impuestas por la autoridad en virtud de esta resolución y las resoluciones señaladas en el numeral anterior serán fiscalizadas y sancionadas según lo dispuesto en el Libro X del Código Sanitario, en el Código Penal y en la ley Nº 20.393, según corresponda.
 
 Sin perjuicio de lo anterior, será aplicable lo dispuesto en el artículo 57 del Código Sanitario y en el artículo 31 del Reglamento Sanitario Internacional, a los extranjeros no residentes de manera regular en el país que incumplan alguna de las medidas que les sean aplicables, dispuestas por la autoridad sanitaria en esta u otras resoluciones.
+
+> **Nota.** El literal c del N° 1 de la Resolución 304 Exenta, Salud, publicada el 30.03.2021, actualiza el párrafo primero del numeral 7 de la presente norma en el sentido que la citada norma indica, lo que no se incorpora en el presente texto actualizado porque no coinciden los textos.
 
 Anótese, comuníquese y publíquese.- Enrique Paris Mancilla, Ministro de Salud.
 
