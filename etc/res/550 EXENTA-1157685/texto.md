@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 550, 22 de marzo de 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación de un inmueble ubicado en Avda. Collao 1689, Rol de Avalúo Nº 320-283, comuna de Concepción, de aparente dominio de Parra Contreras Sergio Diego Ale., superficie afecta expropiación parcial de terreno es de 33,54 m2 (Lote 160) y expropiación total de edificaciones (a) de 110,41 m2, cuyos linderos particulares según plano S8R-39340-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida PAR Vial Collao-General Novoa" comuna de Concepción, Región del Biobío, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto don Rubén Muñoz Vera, arquitecta Victoria García Silvera y arquitecta Daniela Cortez Moraga, según informe de fecha 06.11.2020, fijó monto provisional indemnización en $24.499.353 más una suma de $220.494, por concepto de reajuste del artículo 5º del DL 2.186 de 1978, lo que completa la suma de $24.719.847.-
+
+Director Serviu Región del Biobío.
