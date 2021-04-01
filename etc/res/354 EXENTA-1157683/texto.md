@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 354, de 26 de febrero de 2021, Serviu Región del Biobío ordenó expropiación total del inmueble ubicado en calle Arrau Méndez 708 LT 1, Rol de Avalúo N° 1163-40, comuna de Concepción, de aparente dominio de Moreno Cid Florentina del Carmen, en una superficie de 74,87 m2 de terreno y 57,60 m2 de edificación (a, b, c y d), y cuyos linderos particulares, enmarcados en el polígono A-B-C-D-A del plano S8R-38.136-1, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción, comuna de Concepción", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Rodrigo Escobar Fernández, por ingeniero civil Carlos Montecinos Galleguillos y por arquitecto Rubén Muñoz Vera, según informe de fecha 5 de noviembre 2021, fijó monto provisional indemnización en $23.841.466, más reajuste del artículo 5° del DL 2.186 de 1978, que dan la cifra de $23.889.149, pagadera de contado.-
+
+Director Serviu Región del Biobío.
