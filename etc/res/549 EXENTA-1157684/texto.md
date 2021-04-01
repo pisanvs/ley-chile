@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 549, de 22 de marzo 2021, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Collao 1585, Rol de Avalúo N° 320-22, comuna de Concepción, de aparente dominio de Arzobispado Concepción, en una superficie de 251,28 m2 de terreno y de 55,20 m2 de edificación (a), dentro de polígono y linderos señalados plano de expropiación S8R-39.345-1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao/General Novoa, comuna de Concepción", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Rubén Muñoz Vera, por arquitecto Victoria García Silvera y por arquitecto Daniela Cortez Moraga, según informe de fecha 6 de noviembre 2020, fijó monto provisional indemnización, en $64.870.732, más reajuste del artículo 5° DL 2.186, que dan la cifra de $65.454.569, pagadera de contado.-
+
+Director Serviu Región del Biobío.
