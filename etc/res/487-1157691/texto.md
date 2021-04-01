@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 487 de fecha 25 de marzo de 2021, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno Nº 31 para la ejecución Proyecto "Mejoramiento Avda. Ejército, Tramo Yuraszeck-Seminario, comuna de Puerto Montt", Región de Los Lagos, que figura a nombre de Compañía de Seguros Vida Corp S, rol de avalúo según SII Nº 729-1, comuna de Puerto Montt, superficie 64,05 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher Guarda, Enrique Edgardo Hoelck Altmann y Raúl Palma Larrea designados por resolución exenta Nº 1619 de 27 de agosto de 2020, fijó con fecha 9 de octubre de 2020, el valor provisional de la indemnización en la suma de $46.127.000. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley Nº 2.186.-
+
+Director Regional Serviu Región de Los Lagos.
