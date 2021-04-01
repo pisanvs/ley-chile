@@ -1,0 +1,5 @@
+RESOLUCIÓN Nº 2021/PA/05/196 EXENTA, DE FECHA 16 DE MARZO DE 2021, QUE SOBRESEE PROCESO ADMINISTRATIVO
+
+La Superintendencia de Educación, por resolución exenta N° 2021/PA/05/196 de fecha 16 de marzo de 2021 que Sobreseyó Proceso Administrativo al sostenedor Corporación Educacional y Cultural Nubesol E.I.R.L., RUT N° 76.461.100-4, representado legalmente por doña Virna Latorre Lavín. Resolviendo: 1.- Sobreséase, Proceso Administrativo ordenado instruir mediante resolución exenta Nº 2020/PA/05/0687, de fecha 08/10/2020, de fecha 07/10/2020, de la Encargada Regional de Fiscalización de la Región de Valparaíso, de la Superintendencia de Educación de la Región de Valparaíso. 2. Notifíquese.-
+
+Sybil Abarca Carvajal, Encargada Unidad de Jurídica Regional, Superintendencia de Educación Región de Valparaíso.
