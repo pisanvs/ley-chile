@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 19, de 23 de febrero de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 1, para la obra: DISEÑO MEJORAMIENTO BORDE COSTERO SECTOR BALNEARIO MUNICIPAL, TALTAL, que figura a nombre de GOIC GOIC RADOSLAVA FRANKA, rol de avalúo 81-2, Comuna de TALTAL, REGION DE ANTOFAGASTA, superficie 210,95 m2. La Comisión de Peritos integrada por RODRIGO IVAN CARBACHO AEDO, CAROLINA VERONICA O'BRIEN MOLINA y BARBARA ALEJANDRA PORTILLA CORTES, mediante informe de tasación de fecha 11 de septiembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $38.551.745.- para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
