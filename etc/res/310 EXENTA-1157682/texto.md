@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 310, de 19 de febrero de 2021, Serviu Región del Biobío ordenó expropiación parcial del inmueble ubicado en calle Arrau Méndez 752, Rol de Avalúo N° 1163-24, comuna de Concepción, de aparente dominio de Fuentealba Bestwick Helia Rosa y Otros, en una superficie de 84 m2 de terreno y 111,36 m2 de edificación (a, 2b y c), y cuyos linderos particulares, enmarcados en el polígono A-B-C-D-A del plano S8R-38.143-2, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción, comuna de Concepción", conforme artículo 51 Ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Brogan Ulloa Pérez, por constructor civil Italo Zerga Arancibia y por ingeniero civil Orlando Paredes Vásquez, según informe de fecha 03 de noviembre 2021, fijó monto provisional indemnización en $43.837.553, más reajuste del artículo 5° del DL 2.186 de 1978, que dan la cifra de $43.925.228, pagadera de contado.-
+
+Director Serviu Región del Biobío.
