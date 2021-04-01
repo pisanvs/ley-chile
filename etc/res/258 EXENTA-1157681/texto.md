@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 258, de 15 de febrero de 2021, Serviu Región del Biobío ordenó expropiación parcial del inmueble ubicado en Arrau Méndez 780, Rol de Avalúo N° 1163-31, comuna de Concepción, de aparente dominio de Morales Gatica Bernabe, en una superficie de 76,94 m2 de terreno y 120,14 m2 de edificación (2a, 2b y c), y cuyos linderos particulares, enmarcados en el polígono A-B-C-D-A del plano S8R-38.101-2, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción, comuna de Concepción", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Rodrigo Escobar Fernández, por ingeniero civil Carlos Montecinos Galleguillos y por arquitecto Rubén Muñoz Vera, según informe de fecha 5 de noviembre 2021, fijó monto provisional indemnización en $51.040.766, más reajuste del artículo 5° del DL 2186 de 1978, que dan la cifra de $51.142.848, pagadera de contado.-
+
+Director Serviu Región del Biobío.
