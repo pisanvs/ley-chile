@@ -1,0 +1,13 @@
+AMPLIACIÓN DE LAS CONCESIONES DE PRODUCCIÓN Y DISTRIBUCIÓN DE AGUA POTABLE Y DE RECOLECCIÓN Y DISPOSICIÓN DE AGUAS SERVIDAS PARA ATENDER EL ÁREA DENOMINADA "CONDOMINIO CHACRA MARTÍNEZ", DE LA COMUNA DE VALLENAR, REGIÓN DE ATACAMA
+
+Por decreto número 26, del Ministerio de Obras Públicas, de fecha 4 de febrero de 2021, íntegramente tramitado el 22 de febrero de 2021, se concedió a la Empresa Concesionaria de Servicios Sanitarios S.A. (Econssa Chile S.A.), RUT N° 96.579.410-7, domiciliada para estos efectos en calle Monjitas número 392, piso 10, oficina 1003, Santiago, Región Metropolitana, ampliación de las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas para atender el área denominada "Condominio Chacra Martínez", de la comuna de Vallenar, provincia de Huasco, Región de Atacama.
+
+El área de concesión o territorio operacional de los servicios de producción y distribución de agua potable y de recolección y disposición de aguas servidas, se encuentra identificada y delimitada en el plano denominado "Solicitud de Ampliación del Territorio Operacional Condominio Chacra Martínez Contenido: Plantas Generales Cuadros y Vértices Plano de Ubicación General", que forma parte integrante del presente decreto. En el primer establecimiento (año 2024), se considera la instalación de 82 arranques de agua potable e igual número de uniones domiciliarias de alcantarillado, cantidad que, en ambos casos, se mantendrá constante hacia el final del periodo (año 2034).
+
+El servicio público de producción de agua potable para la localidad de Vallenar, incluido el sector que se amplía por este decreto, será abastecido por las fuentes que se indican en el numeral 3.1, letra a) de la Ficha de Antecedentes Técnicos (F.A.T.) sobre las cuales la concesionaria tiene los derechos que se individualizan en los respectivos informes de títulos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el Art. 26° del DS MOP N° 1.199/04, y se encuentran afectos a la concesión. Todos los documentos indicados forman parte integrante del presente decreto.
+
+Las demás condiciones de prestación de los servicios otorgados en concesión, son las establecidas en la Ficha de Antecedentes Técnicos (F.A.T.) N° SC-03-02 B, que forma parte integrante del presente decreto.
+
+Programa de desarrollo, nivel tarifario, garantías y otros en decreto extractado que se redujo a escritura pública con fecha 10 de marzo de 2021, ante el Notario de la 8ª Notaría de Santiago, don Luis Ignacio Manquehual Mery y archivados en la Superintendencia de Servicios Sanitarios bajo el N° SC-03-02 B.-
+
+Jorge Rivas Chaparro, Superintendente de Servicios Sanitarios.
