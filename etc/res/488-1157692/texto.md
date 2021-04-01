@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 488 de fecha 25 de marzo de 2021, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno Nº 33 para la ejecución Proyecto "Mejoramiento Avda. Ejército, Tramo Yuraszeck-Seminario, comuna de Puerto Montt", Región de Los Lagos, que figura a nombre de Cencosud Shopping Centers S.A., rol de avalúo según SII Nº 715-9, comuna de Puerto Montt, superficie 526,11 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher Guarda, Enrique Edgardo Hoelck Altmann y Raúl Palma Larrea designados por resolución exenta Nº 1.619 de 27 de agosto de 2020, fijó con fecha 9 de octubre de 2020, el valor provisional de la indemnización en la suma de $388.975.300. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley Nº 2.186.-
+
+Director Regional Serviu Región de Los Lagos.
