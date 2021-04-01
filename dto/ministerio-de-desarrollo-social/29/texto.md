@@ -702,7 +702,7 @@ DISPOSICIÓN TRANSITORIA FINAL
 
 Durante los años 2013 y 2014, los Programas Eje, de Acompañamiento Psicosocial y de Acompañamiento Sociolaboral, aplicables a los usuarios a que se refiere el presente reglamento, podrán ser ejecutados por un mismo ejecutor, lo que se ajustará a lo establecido en el inciso final del artículo 10, e inciso primero del artículo noveno transitorio de la Ley, y de lo dispuesto en el artículo 4 del presente Reglamento.
 
-Durante los años 2013, 2014, 2016, 2017, 2018, 2019 y 2020, los niños, niñas y adolescentes podrán ser usuarios del Subsistema, por ejecución del modelo de intervención a que se refiere el Párrafo 2º del Título Segundo del presente Reglamento, en la medida que dicho modelo, de intervención se aplique respecto de ellos con la finalidad de proteger los derechos de dichas personas o, de prevenir, reparar o mitigar su vulneración.
+Durante los años 2013, 2014, 2016, 2017, 2018, 2019, 2020, 2021, 2022 y 2023, los niños, niñas y adolescentes podrán ser usuarios del Subsistema, por ejecución del modelo de intervención a que se refiere el Párrafo 2º del Título Segundo del presente Reglamento, en la medida que dicho modelo, de intervención se aplique respecto de ellos con la finalidad de proteger los derechos de dichas personas o, de prevenir, reparar o mitigar su vulneración.
 
 Anótese, tómese de razón y publíquese.- ANDRÉS CHADWICK PIÑERA, Vicepresidente de la República.- Joaquín Lavín Infante, Ministro de Desarrollo Social.
 
