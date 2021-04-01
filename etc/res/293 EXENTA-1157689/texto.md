@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N°293, del 24/03/2021, conforme al artículo 51 ley 16.391, D.L. 2.186, de 1978 y D.L. 1305, de 1976 de Vivienda y Urbanismo, el SERVIU Región de Los Ríos, expropió el Lote 4, ubicado en Av. Balmaceda 1751, Aldea Campesina, comuna de Río Bueno, de 5,6 M2 de superficie de terreno, Rol de Avalúo N° 131-167, de la comuna de Río Bueno, que forma parte de un terreno de mayor extensión, de aparente dominio de Nury Antonia González Ibáñez, para destinarlo al proyecto "Mejoramiento Av. Balmaceda, entre calles Chorrillos y Fray Benito Delgado, Río Bueno". La Comisión de Peritos Tasadores nombrada por resolución exenta N°1161, del 24/11/2020, del SERVIU Región de Los Ríos, integrada por Isabel Margarita del Carmen Olivares Rosales, Sebastián Andrés Riquelme Vargas y María José Freire Allendes, fijó el monto de indemnización provisional, según informe de fecha 28/12/2020, esta última que reajustada de acuerdo el IPC corresponde a $ 877.835, conforme a lo dispuesto en el artículo 5° del D.L. 2.186.- La publicación se efectúa en cumplimiento de lo preceptuado en el artículo 7° del D.L. 2.186 de 1978.
+
+.
