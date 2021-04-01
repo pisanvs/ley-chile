@@ -1,0 +1,11 @@
+AMPLIACIÓN DE CONCESIÓN DE SERVICIOS SANITARIOS
+
+Por decreto supremo número 169 del Ministerio de Obras Públicas, de fecha 31 de diciembre de 2020, tramitado con fecha 21 de enero de 2021, se adjudicó a la Empresa de Servicios Sanitarios San Isidro S.A., RUT Nº 96.889.730-6, domiciliada Lynch Nº 998, Temuco, Región de la Araucanía, la ampliación de las concesiones de Producción y Distribución de Agua Potable y de Recolección y Disposición de Aguas Servidas, para la atención del sector denominado "Aires del Maipo", comuna de Isla de Maipo, Región Metropolitana. La zona de concesión o territorio operacional de los servicios de distribución de agua potable y de recolección de aguas servidas corresponderá a un área aproximada de 18,04 hectáreas que se encuentra identificada y delimitada en el plano denominado "Tema: Plan de Desarrollo Sector Aires del Maipo Provincia: Talagante Comuna: Isla de Maipo Región: Talagante" del plan de desarrollo, que forma parte integrante del presente decreto.
+
+En el primer establecimiento (año 2024) se considera dar servicio a 876 arranques de agua potable y 108 uniones domiciliarias de alcantarillado, cantidad que se mantendrá constante hacia el final del periodo (año 2034).
+
+El servicio público de producción de agua potable para la concesión que se amplía por este decreto, será abastecido por las fuentes que se indican en el numeral 3.1 letra a) de la respectiva Ficha De Antecedentes Técnicos (FAT) sobre las cuales la concesionaria tiene los derechos que se individualizan en los informes de títulos respectivos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el artículo 26º del DS MOP 1.199/04, y se encuentran afectos a la concesión. Las demás condiciones de prestación de los servicios otorgados en la concesión, son las establecidas en la Ficha de Antecedentes Técnicos (FAT) NºSC-13-58 A, que forma parte integrante del decreto extractado.
+
+Demás antecedentes constan en decreto extractado, el que fue reducido a escritura pública con fecha 24 de febrero de 2021 en la Notaría de Talagante de doña María Eugenia Le-Bert Acheritogaray.
+
+Santiago, marzo de 2021.- Jorge Rivas Chaparro, Superintendente de Servicios Sanitarios.
