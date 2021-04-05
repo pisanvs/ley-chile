@@ -34,4 +34,6 @@ Resuelvo:
 
 Establézcase el calendario de los procesos e instrumentos para la postulación y admisión a las universidades adscritas al sistema de acceso, según se indica a continuación para el proceso de admisión 2021:
 
+.
+
 Anótese y publíquese en la página web del Ministerio de Educación y en el Diario Oficial con cargo al Ministerio de Educación.- Juan Eduardo Vargas Duhart, Subsecretario de Educación Superior.
