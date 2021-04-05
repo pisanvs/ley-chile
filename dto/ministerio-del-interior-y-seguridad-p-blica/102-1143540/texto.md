@@ -26,11 +26,19 @@ Decreto:
 
 Dispóngase, a contar de las 00:00 horas del miércoles 18 de marzo de 2020, el cierre para el tránsito de personas, de todos los lugares habilitados para el tránsito de extranjeros hacia el territorio nacional.
 
-En todo caso, el egreso de personas desde territorio chileno podrá realizarse de acuerdo a la normativa vigente, lo que se entiende sin perjuicio de las medidas que el Estado del país de destino pueda adoptar en relación con el ingreso a su territorio.
+De manera excepcional, se permitirá el egreso de nacionales chilenos y extranjeros residentes de manera regular del territorio nacional, quienes deberán solicitar mediante un formulario a través de la plataforma Comisaría Virtual, autorización extraordinaria para el viaje de personas al exterior, por motivos urgentes y calificados, sin perjuicio de las medidas sanitarias dispuestas en el país de destino, en los siguientes casos:
+
+a) por razones de carácter humanitario;
+
+b) por ser esencial para la salud del solicitante;
+
+c) para efectuar gestiones imprescindibles para la marcha adecuada del país, y
+
+d) para o por residir en el exterior.
+
+No obstante lo anterior, los extranjeros no residentes que requieran egresar del territorio nacional, podrán hacerlo libremente.
 
 La medida dispuesta en el inciso primero, regirá por un plazo de 15 días desde la fecha ahí señalada, el cual podrá ser modificado en atención a la evolución que experimente el brote de nuevo coronavirus (2019-NCOV), en el territorio nacional.
-
-Sin perjuicio de lo anterior, la apertura del o los lugares habilitados para el tránsito de extranjeros hacia el territorio nacional se ajustará a lo establecido en el artículo cuarto del presente decreto, según corresponda.
 
 > **Nota.** El artículo primero del Decreto 116, Interior, publicado el 01.4.2020, dispone extender por un lapso de 7 días, contados desde el vencimiento del plazo indicado en el inciso final del presente artículo primero, la medida dispuesta en el inciso primero de este artículo. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de Covid-19, en el territorio nacional.
 
@@ -80,41 +88,53 @@ Sin perjuicio de lo anterior, la apertura del o los lugares habilitados para el 
 
 > **Nota.** NOTA 23 El artículo cuarto del Decreto 500, Interior, publicado el 12.11.2020, modifica la presente norma en el sentido de extender por un lapso de 15 días, contados desde el vencimiento del plazo indicado en el decreto supremo 482, de 2020, del Ministerio del Interior y Seguridad Pública, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de Covid-19, en el territorio nacional.
 
+> **Nota.** NOTA 24 El artículo único del Decreto 560, Interior, publicado el 27.11.2020, modifica la presente norma en el sentido de extender por un lapso de 15 días, contados desde el vencimiento del plazo indicado en el decreto supremo 500, de 2020, del Ministerio del Interior y Seguridad Pública, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de Covid-19, en el territorio nacional.
+
+> **Nota.** NOTA 25 El artículo único del Decreto 645, Interior, publicado el 12.12.2020, modifica la presente norma en el sentido de extender por un lapso de 15 días, contados desde el vencimiento del plazo indicado en el decreto supremo 560, de 2020, del Ministerio del Interior y Seguridad Pública, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de Covid-19, en el territorio nacional.
+
+> **Nota.** NOTA 26 El artículo segundo del Decreto 656, Interior, publicado el 22.12.2020, modifica la presente norma en el sentido de extender por un lapso de 15 días, contados desde el vencimiento del plazo indicado en el decreto supremo 645, de 2020, del Ministerio del Interior y Seguridad Pública, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de Covid-19, en el territorio nacional.
+
+> **Nota.** NOTA 27 El artículo único del Decreto 11, Interior, publicado el 09.01.2021, modifica la presente norma en el sentido de extender por un lapso de 15 días, contados desde el vencimiento del plazo indicado en el decreto supremo 656, de 2020, del Ministerio del Interior y Seguridad Pública, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de Covid-19, en el territorio nacional.
+
+> **Nota.** NOTA 28 El artículo único del Decreto 26, Interior, publicado el 25.01.2021, modifica la presente norma en el sentido de extender por un lapso de 15 días, contados desde el vencimiento del plazo indicado en el decreto supremo 11, de 2021, del Ministerio del Interior y Seguridad Pública, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de Covid-19, en el territorio nacional.
+
+> **Nota.** NOTA 29 El artículo único del Decreto 41, Interior, publicado el 09.02.2021, modifica la presente norma en el sentido de extender por un lapso de 15 días, contados desde el vencimiento del plazo indicado en el decreto supremo 26, de 2021, del Ministerio del Interior y Seguridad Pública, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de Covid-19, en el territorio nacional.
+
+> **Nota.** NOTA 30 El artículo único del Decreto 67, Interior, publicado el 25.02.2021, modifica la presente norma en el sentido de extender por un lapso de 15 días, contados desde el vencimiento del plazo indicado en el decreto supremo 41, de 2021, del Ministerio del Interior y Seguridad Pública, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de Covid-19, en el territorio nacional.
+
+> **Nota.** NOTA 31 El artículo único del Decreto 71, Interior, publicado el 12.03.2021, modifica la presente norma en el sentido de extender por un lapso de 15 días, contados desde el vencimiento del plazo indicado en el decreto supremo 67, de 2021, del Ministerio del Interior y Seguridad Pública, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
+
+> **Nota.** NOTA 32 El artículo único del Decreto 79, Interior, publicado el 27.03.2021, modifica la presente norma en el sentido de extender por un nuevo lapso de 15 días, contados desde el vencimiento del plazo indicado en el decreto supremo N° 71, de 2021, del Ministerio del Interior y Seguridad Pública, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de Covid-19, en el territorio nacional.
+
+> **Nota.** NOTA 33 El artículo primero del Decreto 82, Interior, publicado el 05.04.2021, modifica la presente norma en el sentido extender hasta el 30 de abril de 2021, la medida dispuesta en el inciso primero del artículo primero de la presente norma, lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de Covid-19 en el territorio nacional.
+
 #### Artículo segundo
 
-La medida excepcional dispuesta en el inciso primero del artículo anterior no afectará a los nacionales chilenos, ni a los extranjeros residentes de manera regular en el territorio nacional, quienes de conformidad con los protocolos e instrucciones de la autoridad, podrán ingresar al país sometiéndose a los procedimientos sanitarios pertinentes.
+La medida excepcional dispuesta en el inciso primero del artículo primero, no afectará a los nacionales chilenos, ni a los extranjeros residentes de manera regular en el territorio nacional, que ingresen al territorio nacional, quienes de conformidad con los protocolos e instrucciones de la autoridad, podrán ingresar al país sometiéndose a los procedimientos sanitarios pertinentes.
 
-De igual manera, no resultará afectada por este cierre temporal la entrada y salida:
+De igual manera, no resultará afectada por este cierre temporal de entrada y salida:
 
-a) de carga desde y hacia el territorio nacional;
+a) la carga desde y hacia al territorio nacional;
 
-b) del personal asociado que sea estrictamente necesario para los fines señalados en el literal precedente, así como el personal de relevo de dicha tripulación;
+b) el personal asociado que sea estrictamente necesario para los fines señalados en el literal precedente, así como el personal de relevo de dicha tripulación;
 
-c) de las personas que ingresen al territorio nacional con el solo fin de proseguir en tránsito a un país extranjero;
+c) las personas que ingresen al territorio nacional con el solo fin de proseguir en tránsito a un país extranjero;
 
-d) a condición de reciprocidad, de nacionales argentinos y extranjeros residentes en dicho país, cuyo tránsito se efectúe entre los pasos fronterizos de Integración Austral y San Sebastián, siempre que las personas exceptuadas den pleno cumplimiento a las instrucciones de la autoridad sanitaria del país;
+d) el acompañante extranjero en los casos que lo autoriza el decreto supremo Nº 369, de 2017, del Ministerio de Defensa Nacional, que aprueba Reglamento para el transporte aéreo de personas con discapacidad, con movilidad reducida, orgánicamente descompensadas, agónicas o inconscientes;
 
-e) del acompañante extranjero en los casos que lo autoriza el decreto supremo Nº 369, de 2017, del Ministerio de Defensa Nacional, que aprueba Reglamento para el transporte aéreo de personas con discapacidad, con movilidad reducida, orgánicamente descompensadas, agónicas o inconscientes;
+e) los extranjeros tripulantes de naves y aeronaves que ingresen a territorio nacional;
 
-f) de los extranjeros tripulantes de naves y aeronaves que ingresen a territorio nacional;
+f) los niños, niñas o adolescentes de padre o madre chilenos o extranjeros residentes de manera regular en el territorio nacional, nacidos en el extranjero, que ingresen en calidad de turistas. Esta condición deberá acreditarse ante la autoridad contralora en frontera, mediante el correspondiente certificado de nacimiento debidamente apostillado o legalizado;
 
-g) de padres o hijos extranjeros de un chileno o extranjero residente de manera regular en el territorio nacional, nacidos en el extranjero, que ingresen en calidad de turistas. Esta condición deberá acreditarse ante la autoridad contralora en frontera, mediante el correspondiente certificado de nacimiento debidamente apostillado o legalizado;
+g) el personal enviado a Chile por otros Estados u organismos internacionales para prestar ayuda humanitaria o cooperación internacional debidamente aceptada por Chile;
 
-h) del personal enviado a Chile por otros Estados u organismos internacionales para prestar ayuda humanitaria o cooperación internacional debidamente aceptada por Chile;
+h) quienes porten visas diplomáticas y oficiales emitidas por el Ministerio de Relaciones Exteriores de Chile;
 
-i) de quienes porten visas diplomáticas y oficiales emitidas por el Ministerio de Relaciones Exteriores de Chile;
+i) las personas que porten un salvoconducto otorgado en virtud de lo dispuesto en el artículo 66º del Reglamento Consular;
 
-j) de extranjeros residentes en situación migratoria regular, sea que su solicitud de residencia o permanencia definitiva se encuentre ingresada a trámite en Chile, o que tengan un permiso de residencia o permanencia definitiva vigente otorgado por el Departamento de Extranjería y Migración del Ministerio del Interior y Seguridad Pública o Gobernaciones Provinciales;
+j) quienes sean portadores de pasaportes diplomáticos u oficiales o sean funcionarios internacionales, que cuenten con autorización de la dirección de Protocolo del Ministerio de Relaciones Exteriores;
 
-k) de extranjeros que tengan un vínculo matrimonial o un Acuerdo de Unión Civil con un chileno o extranjero residente de manera regular en territorio nacional, celebrado en Chile, que ingresen en calidad de turistas. Esta condición deberá acreditarse ante la autoridad contralora en frontera mediante el correspondiente certificado del Servicio de Registro Civil e Identificación;
-
-l) de extranjeros que tengan un vínculo matrimonial o un Acuerdo de Unión Civil con un chileno o extranjero residente de manera regular en territorio nacional, celebrado en el extranjero, que ingresen en calidad de turistas. Para dichos efectos, deberán portar un salvoconducto en virtud de lo dispuesto en el artículo 66º del Reglamento Consular, debiendo presentar previamente el correspondiente certificado de matrimonio o de acuerdo de unión civil ante el consulado respectivo;
-
-m) de extranjeros que por motivos impostergables deban hacer ingreso al país con fines de gestión de negocios, según lo dispuesto en el inciso primero del artículo 44 del decreto ley Nº 1.094, atendiéndose en especial a la conveniencia o utilidad que reporte al país. Para dichos efectos, deberán portar un salvoconducto en virtud de lo dispuesto en el artículo 66º del Reglamento Consular.
-
-n) de las personas que porten un salvoconducto otorgado en virtud de lo dispuesto en el artículo 66º del Reglamento Consular.
-
-o) de quienes sean portadores de pasaportes diplomáticos u oficiales o sean funcionarios internacionales, que cuenten con autorización de la Dirección de Protocolo del Ministerio de Relaciones Exteriores.
+k) el ingreso de extranjeros no residentes en Chile que no hayan estado durante los últimos 14 días en países con transmisión comunitaria de SARS-CoV-2 y/o países que no hayan presentado casos producidos por variantes de preocupación (variants of concem) del virus, según se determine por la Organización Mundial de la Salud.
 
 Los bienes y las personas señaladas en el inciso precedente deberán observar todos los requerimientos y medidas que al efecto disponga la autoridad competente.
 
@@ -124,11 +144,11 @@ Lo regulado en el presente decreto, no obsta a las atribuciones que, sobre el pa
 
 #### Artículo cuarto
 
-Dispóngase, a contar de las 00:00 horas del día 23 de noviembre de 2020, como lugar habilitado para el tránsito de extranjeros hacia el territorio nacional el Aeropuerto Arturo Merino Benítez (SCL).
+Eliminado.-
 
-En todo caso, el ingreso de personas al territorio chileno, sean nacionales o extranjeros deberá realizarse en cumplimiento de la normativa sanitaria vigente.
+#### Artículo quinto
 
-Déjase constancia que se mantiene el cierre del resto de los lugares habilitados para el tránsito de extranjeros hacia el territorio nacional, en los términos de lo dispuesto en el inciso primero del artículo primero y el artículo segundo.
+Eliminado.-
 
 Anótese, tómese razón, comuníquese y publíquese.- SEBASTIAN PIÑERA ECHENIQUE, Presidente de la República.- Gonzalo Blumel Mac-Iver, Ministro del Interior y Seguridad Pública.- Teodoro Ribera Neumann, Ministro de Relaciones Exteriores.- Alberto Espina Otero, Ministro de Defensa Nacional.- Jaime Mañalich Muxi, Ministro de Salud.
 
