@@ -64,7 +64,7 @@ Asimismo, en las aduanas sanitarias se verificará el cumplimiento de las medida
 
 ### II. Aislamientos en razón a horarios determinados
 
-5. Aislamiento nocturno. Prohíbase a los habitantes de la República salir a la vía pública, como medida de aislamiento, entre las 23:00 y 05:00 horas, salvo aquellas personas que cuenten con salvoconductos individuales o permisos que lo autoricen en virtud del Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 3.378, del 5 de febrero de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Esta medida será ejecutada de acuerdo a las instrucciones que impartan al efecto los Jefes de la Defensa Nacional de las distintas regiones.
+5. Aislamiento nocturno. Prohíbase a los habitantes de la República salir a la vía pública, como medida de aislamiento, entre las 21:00 y 05:00 horas, según el huso horario correspondiente a la localidad que se trate, salvo aquellas personas que cuenten con salvoconductos individuales o permisos que lo autoricen en virtud del Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 7.548, del 1º de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Esta medida será ejecutada de acuerdo a las instrucciones que impartan al efecto los Jefes de la Defensa Nacional de las distintas regiones.
 
 6. Prohibición de actividades y reuniones sociales en horario de aislamiento nocturno. Asimismo, se prohíbe la realización o participación en eventos y actividades sociales y recreativas en el horario señalado en el numeral anterior.
 
@@ -340,7 +340,7 @@ Paso 4: Apertura Inicial
 
 Paso 5: Apertura Avanzada.
 
-46. Desplazamiento en cuarentena. Para el desplazamiento de personas desde y hacia localidades que se encuentren en cuarentena y dentro de ellas, se estará a lo dispuesto en el Instructivo para Permisos de Desplazamiento del que trata el oficio ordinario Nº 3.378, del 5 de febrero de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Lo mismo regirá para el desplazamiento de personas desde y hacia localidades que se encuentren en Transición y dentro de ellas, los días sábados, domingos y festivos.
+46. Desplazamiento en cuarentena. Para el desplazamiento de personas desde y hacia localidades que se encuentren en cuarentena y dentro de ellas, se estará a lo dispuesto en el Instructivo para Permisos de Desplazamiento del que trata el oficio ordinario Nº 7.548 del 1º de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Lo mismo regirá para el desplazamiento de personas desde y hacia localidades que se encuentren en Transición y dentro de ellas, los días sábados, domingos y festivos.
 
 Dicho instructivo contempla, además, las formas y condiciones para la obtención de los permisos de desplazamiento por parte de las personas exceptuadas del cumplimiento de la medida de aislamiento o cuarentena.
 
@@ -384,25 +384,25 @@ Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir 
 
 51. De los eventos y actividades sociales. Prohíbase la realización o participación en eventos con público o particulares y en actividades sociales y recreativas.
 
-Sin perjuicio de lo anterior, se permite la realización y asistencia a funerales, utilizando el permiso de desplazamiento correspondiente de acuerdo al Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 3.378, del 5 de febrero de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Los funerales no pueden reunir más de 20 personas en un espacio abierto, o más de 10 personas en un espacio cerrado.
+Sin perjuicio de lo anterior, se permite la realización y asistencia a funerales, utilizando el permiso de desplazamiento correspondiente de acuerdo al Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 7.548, del 1º de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Los funerales no pueden reunir más de 20 personas en un espacio abierto, o más de 10 personas en un espacio cerrado.
+
+Asimismo, permítase la realización y asistencia a cultos religiosos organizados por una Iglesia, Culto u Organización Religiosa debidamente reconocida por el Estado de Chile, cuyo aforo máximo no podrá exceder las 5 personas.
 
 52. De las reuniones en residencias particulares. Se prohíben las reuniones en residencias particulares.
 
-53. De los restaurantes y lugares análogos. Prohíbase la atención de público en los restaurantes, cafés y análogos, los que solo podrán expedir alimentos para llevar. Estos lugares podrán desarrollar sus actividades entre las 05:00 horas y las 24:00 horas de cada día, salvo aquellos que tengan un horario de atención distinto según lo dispuesto en el Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 3.378, del 5 de febrero de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+53. De los restaurantes y lugares análogos. Prohíbase la atención de público en los restaurantes, cafés y análogos, los que solo podrán expedir alimentos para llevar. Estos lugares podrán desarrollar sus actividades entre las 05:00 horas y las 24:00 horas de cada día, salvo aquellos que tengan un horario de atención distinto según lo dispuesto en el Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 7.548, del 1º de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
 54. De los gimnasios. Dispóngase el cierre de gimnasios y espacios abiertos y cerrados donde se realiza actividad deportiva, abiertos al público.
 
-55. De la atención presencial de público en espacios cerrados. Se prohíbe la atención presencial de público en espacios cerrados excepto de aquellos que estén permitidos en el Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 3.378, del 5 de febrero de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+55. De la atención presencial de público en espacios cerrados. Se prohíbe la atención presencial de público en espacios cerrados excepto de aquellos que estén permitidos en el Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 7.548, del 1º de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
 Estos espacios tendrán un aforo máximo de 1 persona por cada 8 metros cuadrados del total de la superficie útil destinada a la atención de público. En caso que el espacio sea menor a 8 metros cuadrados, se podrá atender como máximo una persona. Para el cálculo del aforo no se considerará las personas que trabajan en el lugar.
 
 56. De los eventos, actividades, entrenamientos y competencias deportivas. Prohíbanse los eventos, actividades, entrenamientos y competencias deportivas, a excepción de aquellas que cuenten con un permiso otorgado conforme a lo dispuesto en el numeral 33 de la presente resolución.
 
-57. De la banda horaria Elige Vivir Sano. Sin perjuicio de lo dispuesto en los numerales anteriores, las personas cuyas localidades de residencia se encuentren en el "Paso 1: Cuarentena" podrán realizar actividades al aire libre en lugares públicos entre las 07:00 y 08:30 horas todos los días. Estas actividades deberán ser de naturaleza individual o con personas de la misma residencia. Sin perjuicio de lo anterior, quienes hagan uso de este horario no podrán utilizar automóviles o el transporte público para estos efectos. Asimismo, tampoco podrán realizar, en dicha franja horaria, otras actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 3.378, ya citado, a excepción de que cuenten con el citado permiso.
+57. De la banda horaria Elige Vivir Sano. Sin perjuicio de lo dispuesto en los numerales anteriores, las personas cuyas localidades de residencia se encuentren en el "Paso 1: Cuarentena" podrán realizar actividades al aire libre en lugares públicos entre las 06:00 y 09:00 horas todos los días. Estas actividades deberán ser de naturaleza individual o con personas de la misma residencia. Sin perjuicio de lo anterior, quienes hagan uso de este horario no podrán utilizar automóviles o el transporte público para estos efectos. Asimismo, tampoco podrán realizar, en dicha franja horaria, otras actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 7.548, del 1º de abril de 2021, ya citado, a excepción de que cuenten con el citado permiso.
 
-Sin perjuicio de lo dispuesto precedentemente, la banda horaria Elige Vivir Sano se extenderá entre las 6:00 horas y las 9:00 horas los días sábados, domingos y festivos.
-
-58. De la salida de adultos mayores de 75 años. Los mayores de 75 años cuyas localidades de residencia se encuentren en el "Paso 1: Cuarentena" podrán salir de su residencia sin utilizar automóvil o transporte público los lunes, jueves y sábados de 9 a 11 horas o de 16 a 18 horas. En este horario no se pueden realizar actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 3.378, ya citado, a excepción de que cuenten con el citado permiso.
+58. De la salida de adultos mayores de 75 años. Los mayores de 75 años cuyas localidades de residencia se encuentren en el "Paso 1: Cuarentena" podrán salir de su residencia sin utilizar automóvil o transporte público los lunes, jueves y sábados de 9 a 11 horas o de 16 a 18 horas. En este horario no se pueden realizar actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 7.548, del 1º de abril de 2021, ya citado, a excepción de que cuenten con el citado permiso.
 
 ### III. Paso 2: Transición
 
@@ -410,7 +410,7 @@ Sin perjuicio de lo dispuesto precedentemente, la banda horaria Elige Vivir Sano
 
 60. De la duración. La duración mínima de esta medida será de dos semanas.
 
-61. De las medidas aplicables. A las localidades que estén en "Paso 2: Transición" se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, con las modificaciones que se especifican en los numerales siguientes. Sin perjuicio de lo anterior, las autorizaciones de las que trata este capítulo son solo aplicables de lunes a viernes hábiles.
+61. De las medidas aplicables. A las localidades que estén en "Paso 2: Transición" se les aplicarán las medidas dispuestas en el Capítulo I de esta resolución, con las modificaciones que se especifican en los numerales siguientes. Sin perjuicio de lo anterior, las autorizaciones de las que trata este capítulo son solo aplicables de lunes a viernes hábiles. Durante los días sábado, domingo y festivos serán aplicables las normas señaladas en el acápite II. Paso 1: Cuarentena de este capítulo, según corresponda.
 
 62. Del traslado interregional. Prohíbanse los traslados interregionales desde y hacia localidades que se encuentren en "Paso 2: Transición".
 
@@ -418,9 +418,9 @@ Exceptúanse de la medida de este numeral a las personas mayores de 65 años y l
 
 Asimismo, exceptúanse de la medida de este numeral a aquellas personas que, teniendo su residencia habitual en una localidad en "Paso 2: Transición" no puedan cumplir con las medidas de aislamiento o cuarentena obligatoria señaladas en los numerales 9 al 13 de la presente resolución.
 
-Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir sus obligaciones laborales en una localidad distinta a su residencia habitual y cuenten con el permiso correspondiente del Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 3.378, del 5 de febrero de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir sus obligaciones laborales en una localidad distinta a su residencia habitual y cuenten con el permiso correspondiente del Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 7.548, del 1º de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
-Asimismo, se exceptúan aquellas personas que cuenten con un permiso para dichos efectos, según lo dispuesto en el oficio ordinario Nº 3.378, del 5 de febrero de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+Asimismo, se exceptúan aquellas personas que cuenten con un permiso para dichos efectos, según lo dispuesto en el oficio ordinario Nº 7.548, del 1º de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
 63. De los eventos particulares. Se permiten las reuniones en domicilios particulares con un máximo de 5 personas, incluyendo a sus residentes. En caso de que en el domicilio vivan 5 o más personas, no podrán recibir visitas. Este tipo de reuniones sólo estarán permitidas de lunes a viernes y fuera del horario de aislamiento nocturno.
 
@@ -456,7 +456,7 @@ e) Deberá existir ventilación permanente y adecuada, sea esta natural o artifi
 
 ### 67. Eliminado
 
-68. De la banda horaria Elige Vivir Sano. Sin perjuicio de lo dispuesto en los numerales anteriores, las personas cuyas localidades de residencia se encuentren en cuarentena podrán realizar actividades al aire libre en lugares públicos entre las 06:00 y 09:00 horas todos los días. Sin perjuicio de lo anterior, quienes hagan uso de este permiso no podrán utilizar automóviles o el transporte público. Estas actividades deberán ser de naturaleza o individual o con personas de la misma residencia. Asimismo, tampoco podrán realizar, en dicha franja horaria, otras actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 3.378, ya citado, a excepción de que cuenten con el citado permiso.
+68. De la banda horaria Elige Vivir Sano. Sin perjuicio de lo dispuesto en los numerales anteriores, las personas cuyas localidades de residencia se encuentren en cuarentena podrán realizar actividades al aire libre en lugares públicos entre las 06:00 y 09:00 horas todos los días. Sin perjuicio de lo anterior, quienes hagan uso de este permiso no podrán utilizar automóviles o el transporte público. Estas actividades deberán ser de naturaleza o individual o con personas de la misma residencia. Asimismo, tampoco podrán realizar, en dicha franja horaria, otras actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 7.548, del 1º de abril de 2021, ya citado, a excepción de que cuenten con el citado permiso.
 
 69. De los permisos en los centros del SENAME. En los centros dependientes del Servicio Nacional de Menores, tanto de administración directa como en los organismos colaboradores, se observará la siguiente regla:
 
@@ -490,9 +490,9 @@ b. Se permiten salidas con fines laborales a adolescentes de residencias que se 
 
 Exceptúanse de la medida de este numeral a las personas mayores de 65 años y los enfermos crónicos. Sin perjuicio de lo anterior, en caso que estas personas decidan permanecer en un lugar distinto a su domicilio particular habitual, deberán estar en cuarentena por un tiempo indefinido.
 
-Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir sus obligaciones laborales en una localidad distinta de su residencia habitual y cuentan con el permiso correspondiente del Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 3.378, del 5 de febrero de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir sus obligaciones laborales en una localidad distinta de su residencia habitual y cuentan con el permiso correspondiente del Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 7.548, del 1º de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
-Asimismo, se exceptúan de la prohibición de traslado interregional aquellas personas que cuenten con un permiso para dichos efectos, según lo dispuesto en el oficio ordinario Nº 3.378, del 5 de febrero de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+Asimismo, se exceptúan de la prohibición de traslado interregional aquellas personas que cuenten con un permiso para dichos efectos, según lo dispuesto en el oficio ordinario Nº 7.548, del 1º de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
 75. Del funcionamiento de restoranes, cafés y análogos. Se permite la atención de público en restaurantes, cafés y análogos, en lugares abiertos o cerrados con ventilación adecuada y permanente, sujeto a las siguientes reglas:
 

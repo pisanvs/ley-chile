@@ -48,7 +48,9 @@ Considerando:
 
 Resuelvo:
 
-1. Dispóngase que todas las personas que ingresen al país deben completar la Declaración Jurada de su estado de salud, que por este acto se aprueba.
+1. La presente resolución regula los requisitos y condiciones que deben cumplir aquellas personas que ingresan al país en virtud de lo dispuesto en el decreto supremo Nº 102, de 2020, del Ministerio del Interior y Seguridad Pública.
+
+Dispóngase que todas las personas que ingresen al país deben completar la Declaración Jurada de su estado de salud, que por este acto se aprueba.
 
 2. Dispóngase que para todas las personas que ingresen al país a través de aeropuertos, la señalada declaración deberá completarse a través de un formulario electrónico disponible en el sitio www.c19.cl, hasta 48 horas antes del embarque a la aeronave en la cual ingrese al territorio nacional. Este formulario será considerado como documentación necesaria para el ingreso al país y será revisado por la autoridad sanitaria en el punto de ingreso.
 
@@ -130,15 +132,23 @@ Quienes obtengan un resultado positivo para el testeo del que trata este numeral
 
 En este caso, no será aplicable la medida dispuesta en los párrafos segundo y siguientes del numeral 3.
 
-7. Exclúyase de los requisitos de ingreso dispuestos en los numerales 3 a 6 bis precedentes, a las personas que ingresen al país de acuerdo a las letras b), c), d) y e), del inciso segundo del artículo segundo del decreto supremo Nº 102, de 2020 del Ministerio del Interior y Seguridad Pública. Exclúyase también a los chilenos y extranjeros residentes de manera regular en el territorio nacional, que se encuentren en los supuestos señalados. Para todos estos casos la autoridad sanitaria podrá establecer requisitos específicos.
+7. Exclúyase de los requisitos de ingreso dispuestos en los numerales 3 a 6 bis precedentes, a las personas que ingresen al país de acuerdo a la letra c) del inciso segundo del artículo segundo del decreto supremo Nº 102, de 2020, del Ministerio del Interior y Seguridad Pública. Exclúyase también a los chilenos y extranjeros residentes de manera regular en el territorio nacional, que se encuentren en los supuestos señalados. Para todos estos casos la autoridad sanitaria podrá establecer requisitos específicos.
 
-Aquellas personas que ingresen al país conforme a la letra f) del inciso segundo del artículo segundo del decreto supremo Nº 102, de 2020, del Ministerio del Interior y Seguridad Pública, quedarán excluidas de la medida establecida en el numeral 4 de la presente resolución.
+Aquellas personas que ingresen al país conforme a la letra e) del inciso segundo del artículo segundo del decreto supremo Nº 102, de 2020, del Ministerio del Interior y Seguridad Pública, quedarán excluidas de la medida establecida en el numeral 4 de la presente resolución.
 
 Los chilenos y extranjeros residentes de manera regular en el país, que sean tripulantes de naves y aeronaves que ingresen al territorio nacional, estarán excluidos de los requisitos dispuestos en el numeral 4. Además, podrán exceptuarse de las medidas dispuestas en el numeral 3, siempre y cuando su empleador cumpla con asegurar e informar a la autoridad sanitaria la realización de un Test RT-PCR para SARS-CoV-2 de manera semanal para cada tripulante que requiera esta excepción.
 
-Quienes ingresen al país conforme a la letra i) del inciso segundo del artículo segundo del decreto supremo Nº 102, de 2020, del Ministerio del Interior y Seguridad Pública, quedarán excluidos de las medidas establecidas en los numerales 3 y 5 de la presente resolución.
+7 bis. Aquellos viajeros quienes sean portadores de pasaportes diplomáticos u oficiales o sean funcionarios internacionales, que cuenten con autorización de la Dirección de Protocolo del Ministerio de Relaciones Exteriores, podrán cumplir la medida dispuesta en el numeral 3 en sus domicilios particulares.
 
-7 bis. Aquellos viajeros quienes sean portadores de pasaportes diplomáticos u oficiales o sean funcionarios internacionales, que cuenten con autorización de la Dirección de Protocolo del Ministerio de Relaciones Exteriores, estarán eximidos de lo dispuesto en el numeral 3 de esta resolución, siempre y cuando cuenten con un resultado negativo para el Test RT-PCR para SARS-Cov-2 realizado en Chile. Sin perjuicio de lo anterior, mientras esté pendiente el resultado del señalado Test o si este fuera positivo, podrán cumplir con la cuarentena o aislamiento en sus domicilios particulares.
+7 ter. Exclúyase de los requisitos de ingreso dispuestos en los numerales 3 y 5 precedentes, a las personas que ingresen al país de acuerdo a la letra b) del inciso segundo del artículo segundo del decreto supremo Nº 102, de 2020, del Ministerio del Interior y Seguridad Pública, los que se regirán por lo que se dispone a continuación:
+
+a) A los conductores extranjeros no residentes de manera regular en el país, que ingresen a territorio nacional, se les exigirá el portar un resultado negativo de un Test PCR para SARS-CoV-2, el cual no debe exceder las 72 horas anteriores al inicio de viaje desde el punto de origen, según lo consignado en el manifiesto internacional de carga/declaración de tránsito aduanero.
+
+Cualquier conductor extranjero no residente de manera regular en el país podrá ser seleccionado, en forma aleatoria por la Autoridad Sanitaria, en el momento de su ingreso, para ser sometido a un examen de detección directa para SARS-CoV-2 determinado por la Autoridad Sanitaria. Si este mismo conductor no accediera a realizarse el examen del que trata el inciso anterior, deberá permanecer en cuarentena, en una residencia sanitaria dispuesta al efecto, durante los 14 días siguientes a su ingreso al país, independiente del resultado negativo que pudiese tener un test PCR para SARS-CoV-2 realizado con anterioridad o posterioridad. En caso que negare a practicarse el señalado examen, se aplicará lo dispuesto en el Código Sanitario o en el Reglamento Sanitario Internacional.
+
+Los costos asociados a la estadía en el hotel de tránsito, o en aquel autorizado por la autoridad sanitaria serán sufragados por la empresa extranjera de transporte internacional terrestre a cuyo nombre se encuentre habilitado el vehículo conducido por el conductor en cuestión.
+
+b) Los conductores chilenos y extranjeros residentes de manera regular en el país, podrán ser seleccionados, en forma aleatoria por la Autoridad Sanitaria, en el momento de su ingreso, para ser sometidos a un examen de detección directa para SARS-CoV-2 determinado por la Autoridad Sanitaria. Si estos mismos conductores no accedieran a realizarse el examen del que trata este numeral, deberán permanecer en cuarentena, en una residencia sanitaria dispuesta al efecto, durante los 14 días siguientes a su ingreso al país, independiente del resultado negativo que pudiese tener un test PCR para SARS-CoV-2 realizado con anterioridad o posterioridad.
 
 8. Dispóngase que será responsabilidad de la empresa que efectúe el traslado del pasajero al territorio nacional, verificar que este cuente con los documentos necesarios para el ingreso al país y cumpla con las obligaciones precedentes.
 
@@ -165,8 +175,6 @@ Aquellas personas que se encuentran en el literal a) de este numeral quedarán s
 14. Déjase constancia que el incumplimiento de las medidas impuestas por la autoridad en virtud de esta resolución y las resoluciones señaladas en el numeral anterior serán fiscalizadas y sancionadas según lo dispuesto en el Libro X del Código Sanitario, en el Código Penal y en la ley Nº 20.393, según corresponda.
 
 Sin perjuicio de lo anterior, será aplicable lo dispuesto en el artículo 57 del Código Sanitario y en el artículo 31 del Reglamento Sanitario Internacional, a los extranjeros no residentes de manera regular en el país que incumplan alguna de las medidas que les sean aplicables, dispuestas por la autoridad sanitaria en esta u otras resoluciones.
-
-> **Nota.** El literal c del N° 1 de la Resolución 304 Exenta, Salud, publicada el 30.03.2021, actualiza el párrafo primero del numeral 7 de la presente norma en el sentido que la citada norma indica, lo que no se incorpora en el presente texto actualizado porque no coinciden los textos.
 
 Anótese, comuníquese y publíquese.- Enrique Paris Mancilla, Ministro de Salud.
 
