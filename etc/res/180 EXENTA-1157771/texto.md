@@ -1,0 +1,5 @@
+EXTRACTO
+
+Con fecha 26 de febrero de 2021, la Superintendencia de Educación dictó la resolución exenta Nº 180, que modifica la resolución exenta Nº 587 de 2020, que aprueba la circular que imparte instrucciones especiales a establecimientos de educación parvularia a propósito de la pandemia por Covid-19, modificando en dicha circular los párrafos que a continuación se indican: en el Capítulo II, Disposiciones Generales, 1. Fuentes Normativas, Nº 26; en el Capítulo II, Disposiciones Generales, 1. Fuentes Normativas, Nº 28; en el Capítulo II, Disposiciones Generales, 3. Orientaciones de apoyo a sostenedores y equipos directivos para la reanudación de actividades presenciales en establecimientos de educación parvularia, párrafo 4º; en el Capítulo III, Obligaciones normativas, párrafos primero y segundo.-
+
+Magdalena Badilla Rodríguez, Jefa Departamento Normativo.
