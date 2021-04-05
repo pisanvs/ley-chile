@@ -1,0 +1,5 @@
+EXTRACTO
+
+Con fecha 14 de enero de 2021, la Superintendencia de Educación dictó la resolución exenta Nº 30, que aprueba la circular sobre registros de información que deben mantener los establecimientos educacionales con reconocimiento oficial, derogando desde la época de su entrada en vigencia, los siguientes títulos de la Circular Nº 1: los numerales 12, del Registro General de Matrícula, 13, del Libro de Clases, 14, de la toma de registro de asistencia, 15, de la declaración de asistencia y 16, del Registro de Salida de Alumnos; los siguientes títulos de la Circular Nº 2, los numerales 12, del Registro General de Matrícula, 13, del Libro de Clases y 14, del Registro de Salida de Alumnos; los siguientes títulos de la Circular Nº 3, los numerales 14, del Registro General de Matrícula, 15, del Libro de Clases, 16, de la toma y registro de asistencia, 17, de la declaración de asistencia y 18, del Registro de Salida de Alumnos.-
+
+Magdalena Badilla Rodríguez, Jefa Departamento Normativo.
