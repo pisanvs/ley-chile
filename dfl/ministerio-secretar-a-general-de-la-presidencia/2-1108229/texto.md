@@ -460,7 +460,9 @@ Dentro del plazo de tres días hábiles, contado desde la fecha de publicación 
 
 6) Cumplir labores en establecimientos hospitalarios en los mismos días en que funcionen las mesas receptoras, lo que deberá acreditarse mediante certificado del director del respectivo establecimiento de salud.
 
-7) Estar la mujer en estado de embarazo o de puerperio dentro de las seis semanas previas al parto y hasta veinticuatro semanas siguientes a éste, circunstancia que deberá acreditarse mediante certificado médico, o con la documentación que acredite estar recibiendo el subsidio a que se refiere el artículo 198 del Código del Trabajo.
+7) Tratarse de personas gestantes durante todo el período de embarazo, acreditado mediante documento extendido por el establecimiento de salud donde se realice el control del mismo o un certificado médico. También se considerará dentro de esta causal al padre o madre de un hijo o hija menor de dos años al día en que funcionen las mesas receptoras, acreditado con el correspondiente certificado de nacimiento del o la menor. Si ninguno de ellos tuviera el cuidado personal, quien lo tenga podrá excusarse acreditándolo debidamente.
+
+8) Estar al cuidado de un adulto mayor en situación de dependencia o de una persona en situación de discapacidad en los mismos días en que funcionen las mesas receptoras, circunstancia que deberá ser acreditada a través de una declaración jurada notarial que deberá ser otorgada gratuitamente, mediante constancia en Carabineros de Chile, o por un certificado en que conste la calidad de receptor del estipendio en el caso de cuidadores de personas con discapacidad.
 
 En el mismo plazo, cualquier persona podrá solicitar la exclusión del o de los vocales que estuvieren afectados por alguna de las causales de inhabilidad señaladas en el artículo 45.
 
