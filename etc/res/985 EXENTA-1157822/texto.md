@@ -1,0 +1,41 @@
+EXTIENDE VIGENCIA DE LOS CERTIFICADOS DE INSCRIPCIÓN QUE INDICA, EN EL REGISTRO NACIONAL DE SERVICIOS DE TRANSPORTE REMUNERADO DE ESCOLARES
+
+Núm. 985 exenta.- Santiago, 30 de marzo de 2021.
+
+Visto:
+
+Lo dispuesto en la ley Nº 19.880, que establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; en el decreto con fuerza de ley Nº 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija texto refundido, coordinado y sistematizado de la Ley de Tránsito; en la ley Nº 18.696, que modifica artículo 6 de la ley Nº 18.502, autoriza importación de vehículos que señala y establece normas sobre transporte de pasajeros; en la ley Nº 19.831, que crea el Registro Nacional de Servicios de Transporte Remunerado de Escolares; en el decreto supremo Nº 38, de 1992, que Reglamenta el Transporte Remunerado de Escolares; en el decreto supremo Nº 38, de 2003, que Crea y Reglamenta el Registro Nacional de Servicios de Transporte Remunerado de Escolares, todos del Ministerio de Transportes y Telecomunicaciones; en el decreto supremo Nº 104, de 18 de marzo 2020, del Ministerio del Interior y Seguridad Pública, que declara el estado de excepción constitucional de catástrofe, por calamidad pública en el territorio de Chile, prorrogado por los decretos supremos Nº 269, Nº 400, Nº 646, Nº 72, de 12 de junio de 2020, de 10 de septiembre de 2020, de 9 de diciembre de 2020 y 11 de marzo de 2021, respectivamente, todos ellos del Ministerio del Interior y Seguridad Pública; en el decreto Nº 4, de 2020, y sus modificaciones posteriores, del Ministerio de Salud, que decreta alerta sanitaria por el período que se señala y otorga facultades extraordinarias que indica por emergencia de salud pública de importancia internacional (ESPII) por brote del nuevo coronavirus (2019-NCOV); en la resolución Nº 1.430, de 2020, del Ministerio de Transportes y Telecomunicaciones, que suspende plazo establecido para cancelar, por antigüedad, vehículos inscritos en el Registro Nacional de Servicios de Transporte Remunerado de Escolares, por los motivos que indica; en el dictamen Nº 3.610, de 17 de marzo de 2020, de la Contraloría General de la República; en la resolución Nº 7, de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón, y la demás normativa que resulte aplicable.
+
+Considerando:
+
+1º Que, conforme al artículo 1º de la ley Nº 19.831, "El Ministerio de Transportes y Telecomunicaciones establecerá un Registro Nacional de Servicios de Transporte Remunerado de Escolares, abierto, de carácter público, catastral y obligatorio. La inscripción en este Registro será habilitante para la prestación de dicho servicio, y de los vehículos con que se presta.
+
+El certificado de inscripción en el Registro establecido en el inciso anterior, deberá portarse en los vehículos autorizados cuando se encuentren en servicio.".
+
+2º Que, en el artículo 4º del decreto supremo Nº 38, de 2003, citado en el Visto, se dispone, en lo pertinente, que: "El certificado de inscripción en el Registro que otorgue la Secretaría Regional por cada vehículo registrado, previo pago de los derechos correspondientes, tendrá una vigencia de cuatro años, salvo que en dicho período el vehículo deba dejar de prestar servicios por aplicación de las normas de antigüedad máxima aplicables a estos vehículos, en cuyo caso el certificado se extenderá con una vigencia equivalente al tiempo de empleo como vehículo escolar que le reste. (...)".
+
+3º Que, mediante el decreto supremo Nº 4, de 5 de febrero 2020, y sus modificaciones posteriores, el Ministerio de Salud decretó alerta sanitaria y otorgó facultades extraordinarias por la emergencia de salud pública de importancia internacional (ESPII) que implica el brote del nuevo virus COVID-19, también llamado 2019-NCOV, dictando diversas disposiciones que especifican medidas sanitarias, como las cuarentenas.
+
+4º Que, a través del decreto supremo Nº 104, de 18 de marzo de 2020, del Ministerio del Interior y Seguridad Pública, se declaró el estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile, modificado mediante los decretos supremos Nº 269, de 12 de junio de 2020, Nº 400, de 10 de septiembre de 2020, Nº 646, de 9 de diciembre de 2020, y Nº 72, de 11 de marzo de 2021, todos del mismo Ministerio, prorrogando dicha declaración hasta el 30 de junio del año 2021.
+
+5° Que, en este contexto, durante la pandemia causada por el brote del virus COVID-19, y debido al estado de catástrofe y a las medidas sanitarias adoptadas en protección de la comunidad por el Ministerio de Salud –tales como las cuarentenas–, los servicios de transporte remunerado de escolares se han visto afectados tanto en la prestación de dichos servicios, como en la posibilidad de que sus responsables realicen trámites de renovación de sus certificados de inscripción en el Registro Nacional de Servicios de Transporte Remunerado de Escolares, "Renastre", ante las respectivas Secretarías Regionales Ministeriales de Transportes y Telecomunicaciones del país.
+
+6º Que, la no renovación de los certificados de inscripción de los servicios en el Renastre, podría afectar gravemente las condiciones de operación de los servicios, causando con ello un grave perjuicio a la comunidad.
+
+7º Que, el dictamen Nº 3.610, de 2020, de la Contraloría General de la República, que imparte instrucciones ante el brote del virus COVID-19 o "coronavirus", entre otras materias, en relación a los plazos de los procedimientos administrativos, dispone que los jefes superiores de los servicios se encuentran facultados para suspender los plazos en los procedimientos administrativos o para extender su duración, atendida la situación de caso fortuito que representa el virus COVID-19, y el peligro de su propagación en la población. Además, se establece en el mencionado dictamen que deberá considerarse, especialmente, la naturaleza de los actos terminales a que darán origen los procedimientos administrativos, pudiendo suspenderse los plazos respecto de algunos de ellos, pero siempre respetando la igualdad de trato entre los distintos interesados.
+
+8º Que, conforme a lo expuesto, a la normativa que regula el Registro Nacional de Servicios de Transporte Remunerado de Escolares, al dictamen Nº 3.610, de 2020, de la Contraloría General de la República, y para los efectos de atender las necesidades públicas en forma continua, uniforme, permanente y regular, se ha estimado necesario prorrogar desde el 18 de marzo de 2020 hasta el 30 de junio de 2021, esto es, durante la declaración de estado de catástrofe, el plazo de vigencia de los certificados de inscripción vencidos.
+
+9º Que, de acuerdo a lo establecido en los considerandos precedentes, corresponde aplicar a la presente resolución lo dispuesto en el artículo 52 de la ley N° 19.880, en consecuencia, sus efectos se aplicarán retroactivamente, a contar del 18 de marzo del año 2020.
+
+Resuelvo:
+
+1. Extiéndase el plazo de vigencia de los certificados de inscripción en el Registro Nacional de Servicios de Transporte Remunerado de Escolares, vencidos entre el 18 de marzo de 2020 y hasta el 30 de junio de 2021, ambas fechas inclusive, en 18 meses, contados desde la fecha de vencimiento del respectivo Certificado de Inscripción en el referido Registro.
+
+2. Para todos los efectos se considerarán vigentes los actuales Certificados de Inscripción en el Registro Nacional de Servicios de Transporte Remunerado de Escolares de los vehículos adscritos a los servicios, cuyos certificados de inscripción se aluden en el Resuelvo 1, por lo que no existirá la necesidad de imprimir nuevos certificados.
+
+3. Comuníquese la presente resolución a las Secretarías Regionales Ministeriales de Transportes y Telecomunicaciones del país.
+
+4. Atendido lo dispuesto en el artículo 52 de la ley N° 19.880, la presente resolución surtirá sus efectos retroactivamente, a contar del 18 de marzo del año 2020.
+
+Anótese, comuníquese y publíquese.- Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
