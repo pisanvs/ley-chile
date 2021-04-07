@@ -1,0 +1,37 @@
+MODIFICA CRONOGRAMA DE POSTULACIÓN DEL CONCURSO "FONDO DE FOMENTO DE MEDIOS DE COMUNICACIÓN SOCIAL", AÑO 2021 POR LAS RAZONES QUE INDICA
+
+Núm. 272/285 exenta.- Santiago, 29 de marzo de 2021.
+
+Visto:
+
+Lo dispuesto en el artículo N° 19, numerales 1° y 9º de la Constitución Política de la República de Chile; en el artículo 45 del Código Civil; en la ley Nº 19.032, de 1991, que reorganiza el Ministerio Secretaría General de Gobierno; en el DFL Nº 1, de 1992, que modifica la organización del Ministerio Secretaría General de Gobierno, el decreto con fuerza de ley Nº 1, de 1992, del Ministerio Secretaría General de Gobierno; el decreto con fuerza de ley Nº 1/19.653, de 2000, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575, Orgánica de Bases Generales de la Administración del Estado; ley Nº 19.880, de Bases de los Procedimientos Administrativos que Rigen la Administración del Estado; la ley Nº 19.733, de 2001, sobre Libertades de Opinión e Información en el Ejercicio del Periodismo; el decreto Nº 45, de 2002, del Ministerio Secretaría General de Gobierno que Aprueba Reglamento del Fondo de Fomento de Medios de Comunicación Social Regionales, Provinciales y Comunales; la resolución exenta Nº 272/1426, del 31 de diciembre de 2020, del Ministerio Secretaría General de Gobierno que aprobó las Bases Administrativas y Técnicas del Concurso Público del "Fondo de Fomento de Medios de Comunicación Social Regionales, Provinciales y Comunales, Año 2021"; muy especialmente lo prescrito en el acápite 1.3; la Ley Nº 21.289, de Presupuestos del Sector Público para el año 2021; el decreto supremo Nº 8, de 2018 del Ministerio Secretaría General de Gobierno, que nombra al Subsecretario General de Gobierno; el decreto Nº 4, modificado por el decreto Nº 6, ambos de 2020, y seguidamente por el decreto N° 1, de 2021, del Ministerio de Salud, que decretan alerta sanitaria por el período que se señala y otorgan facultades extraordinarias que indican por emergencia de salud pública de importancia internacional; el Instructivo Presidencial contenidas en el Gab. Pres. Nº 3, de 2020, el decreto supremo Nº 104, de 2020, del Ministerio del Interior y Seguridad Pública; la resolución exenta 279/2021, de 2021, del Ministerio de Salud, que Dispone Medidas Sanitarias que indica por Brote de COVID-19; el dictamen Nº 3.610, de 17 de marzo de 2020, y las resoluciones N 7 y 8, de 2019, de la Contraloría General de la República.os
+
+Considerando:
+
+1. Que, la Constitución Política de la República de Chile, en el artículo 19, N 1 y 9, asegura a todas las personas el derecho a la vida y a la integridad física y psíquica de la persona, así como el derecho a la protección de la salud, debiendo el Estado proteger el libre e igualitario acceso a las acciones de promoción, protección y recuperación de la salud y de rehabilitación del individuo.os
+
+2. Que, seguidamente, el artículo 3º, del decreto con fuerza de ley Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, prescribe que la Administración del Estado está al servicio de la persona humana; su finalidad es promover el bien común atendiendo las necesidades públicas en forma continua y permanente y fomentando el desarrollo del país a través del ejercicio de las atribuciones que le confiere la Constitución Política de la República de Chile y la ley, y de la aprobación, ejecución y control de políticas, planes, programas y acciones de alcance nacional, regional y comunal.
+
+3. Que, para el afianzamiento de las disposiciones transcritas, S.E. el Presidente de la República, impartió instrucciones y medidas de prevención por casos de brote de COVID-19, a los ministerios y a los servicios públicos que dependan o se relacionen a través de ellos, instando expresamente a que todas las autoridades y jefaturas de servicios públicos dispongan de las medidas y cuidados que garanticen la salud de las personas y el cumplimiento de la función pública, atendiendo las necesidades públicas en forma continua y permanente, circunstancia formalizada en el Instructivo Presidencial, contenido en Oficio Gab. Pres. Nº 3 de 16 de marzo de 2020.
+
+4. En efecto, el Ministerio de Salud, en su rol de velar por la eliminación y control de todos los factores, elementos o agentes del medio ambiente que afectan la salud, la seguridad y el bienestar de la población, y en razón del escenario sanitario actual que vive nuestro país, ha decretado, a través de la resolución 279/2021, cuarentenas preventivas en diversas regiones de nuestro país, como medida de control para enfrentar las amenazas a la salud pública, causadas por el virus COVID-19.
+
+3. Que, por su parte, mediante la resolución exenta Nº 272/1426, de fecha 31 de diciembre de 2020, el Ministerio Secretaría General de Gobierno, aprobó las Bases Administrativas y Técnicas del Concurso Público del "Fondo de Fomento de Medios de Comunicación Social Regionales, Provinciales y Comunales, Año 2021", cuyo numeral 1.3, dispone el Cronograma de Postulación, con indicación de los plazos existentes para cada etapa del proceso.
+
+4. Que, el acápite en cuestión, prescribe además, la posibilidad de readecuar los plazos contemplados en el antedicho Cronograma de Postulación; siempre que el Ministerio Secretaría General de Gobierno, informe tal circunstancia, en el sitio web fondodemedios.gob.cl.
+
+5. Que, atendido al actual contexto epidemiológico que vive nuestro país, y los altos niveles de contagio evidenciados en la población durante el último período de tiempo, la autoridad sanitaria ha decidido extremar las medidas de prevención, con restricciones y obligaciones específicas para la ciudadanía. En ese mismo sentido y con el objeto de afianzar la participación de la mayor cantidad posible de Medios de Comunicación Social al Concurso Público de Fondo de Fomento de Medios de Comunicación Social Regionales, Provinciales y Comunales, año 2021, esta Autoridad ha estimado necesario modificar las Bases Administrativas y Técnicas del Concurso Público del "Fondo de Fomento de Medios de Comunicación Social Regionales, Provinciales y Comunales, Año 2021", específicamente, el numeral 1.3. con la finalidad de establecer un nuevo Cronograma de Postulación,
+
+Resuelvo:
+
+1. Modifíquese, el acápite 1.3 de las Bases Administrativas del Fondo de Fomento de Medios de Comunicación Social Regionales, Provinciales y Comunales, año 2021 y establézcase, en calidad de nuevo Cronograma de Postulación, el siguiente:
+
+2. Publíquese, la presente resolución exenta en el Diario Oficial, y en el sitio web institucional, sin desmedro de otras medidas de publicidad que se estimare procedentes.
+
+### 3. Manténgase vigente todo aquello no modificado por el presente acto
+
+4. Las Bases Administrativas y Técnicas del Concurso Público del Fondo de Fomento de Medios de Comunicación Social Regionales, Provinciales y Comunales, año 2021 y anexos que se modifican por el presente acto, estarán disponibles íntegramente en el sitio web www.fondodemedios.gob.cl.
+
+Anótese, regístrese, comuníquese y publíquese.- Emardo Hantelmann Godoy, Subsecretario General de Gobierno.
+
+Lo que transcribo a usted para su conocimiento.- Emardo Hantelmann Godoy, Subsecretario General de Gobierno.
