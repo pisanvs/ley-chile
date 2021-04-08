@@ -108,6 +108,20 @@ TRONCALES:
 
 - Av. La Paz (Independencia-Recoleta)
 
+- Av. La Paz (Calzada Oriente) entre Santa María y Profesor Zañartu (Recoleta).
+
+- Camino Lonquén, entre Av. Lo Espejo y Camino Borde Cerro Chena (San Bernardo).
+
+- Dorsal, entre San José y Av. El Salto (Recoleta).
+
+- Eje Héroes de La Concepción (Recoleta).
+
+- Olivos - Dominica (Recoleta).
+
+- San José, entre Av. Presidente Jorge Alessandri Rodríguez y San Martín (San Bernardo).
+
+- El Mariscal, entre Camino Padre Hurtado y Camino San Ricardo (San Bernardo).
+
 DE SERVICIOS:
 
 - Av. Concha y Toro (Puente Alto)
@@ -123,6 +137,20 @@ DE SERVICIOS:
 - Freire (San Bernardo).
 
 - Av. Irarrázaval, entre Bustamante y Vicuña Mackenna.
+
+- Uno de Mayo (San Bernardo).
+
+- Barros Arana, entre Aníbal Pinto y Eucaliptus (San Bernardo).
+
+- Covadonga (San Bernardo).
+
+- Isla Decepción (Lo Prado).
+
+- Nogales, entre América y Av. Portales (San Bernardo).
+
+- Santa Margarita (San Bernardo).
+
+- Santa Teresa (San Bernardo).
 
 COLECTORAS DISTRIBUIDORAS:
 
@@ -413,6 +441,76 @@ Condell y la calle Caupolicán (Renca)
 - Av. San Francisco (Cerro Navia, Lo Prado, Pudahuel)
 
 - Santa Raquel (La Florida)
+
+- Eje Av. Central - Los Canelos (San Bernardo).
+
+- Av. Colón (San Bernardo).
+
+- Av. Dorsal (Lo Prado).
+
+- Av. Las Torres, entre Av. General Bonilla y Av. San Francisco (Lo Prado).
+
+- Av. Las Torres, entre Av. Américo Vespucio y Lircay (Recoleta).
+
+- Balmaceda, entre América y Gran Av. José Miguel Carrera (San Bernardo)
+
+- Balmaceda, entre José Toribio Medina y San Francisco (San Bernardo).
+
+- Baquedano (San Bernardo).
+
+- Calderón de la Barca (San Bernardo).
+
+- Calle G, entre Guanaco y Caletera de A. Américo Vespucio (Recoleta).
+
+- Camino El Barrancón (San Bernardo).
+
+- Camino La Vara, entre Ruta 5 Sur y Av. Ochagavía (San Bernardo)
+
+- Camino Loyola, entre Av. Neptuno y Av. María Rozas Velázquez (Lo Prado).
+
+- Einstein, entre Av. Recoleta y Las Torres (Recoleta).
+
+- Eje Eucaliptus - Almirante Riveros (San Bernardo).
+
+- Alcalde Guzmán, entre Lo Campino y Américo Vespucio (Quilicura).
+
+- Eje Regina Gálvez - Camino Nos a Los Morros (San Bernardo).
+
+- Eliodoro Yáñez (San Bernardo).
+
+- Eyzaguirre, entre San José y Av. Presidente Jorge Alessandri Rodríguez - Ruta 5 Sur (San Bernardo).
+
+- General Urrutia (San Bernardo).
+
+- Juan Cristóbal, entre Caletera Américo Vespucio y Av. Zapadores (Recoleta).
+
+- Las Acacias (San Bernardo).
+
+- Lircay, entre Av. Recoleta y Reina de Chile (Recoleta).
+
+- Los Pinos, entre Av. Ochagavía y Av. Presidente Jorge Alessandri Rodríguez (Ruta 5 Sur) (San Bernardo).
+
+- Muñoz Gamero, entre José María Caro y El Salto (Recoleta).
+
+- Portales (Lo Prado).
+
+- Principal Capitán Ignacio Carrera Pinto (Recoleta).
+
+- Profesor Zañartu - Unión, entre Av. La Paz y Av. Recoleta (Recoleta).
+
+- Reina de Chile, entre Lircay y Av. El Salto (Recoleta).
+
+- San Cristóbal (Recoleta).
+
+- Santa Laura (Quilicura).
+
+- Santa Marta (San Bernardo).
+
+- Senador Jaime Guzmán (Quilicura).
+
+- Urmeneta (Recoleta).
+
+- Urmeneta, entre Balmaceda y San José (San Bernardo).
 
 2°.- Asimismo, pertenecen a la Red Vial Básica compartiendo más de una de las funciones definidas en el Decreto Supremo No. 83/85, las siguientes vías:
 
