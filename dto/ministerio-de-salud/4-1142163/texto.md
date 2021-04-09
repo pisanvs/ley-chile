@@ -214,7 +214,7 @@ Otórgase a los Servicios de Salud del país, facultades extraordinarias para di
 
 13. Difundir las medidas sanitarias en medios de comunicación masivos.
 
-14. Autorizar la contratación y ejercicio de médicos titulados en el extranjero cuyo título no esté revalidado o habilitado en Chile.
+14. Autorizar la contratación y ejercicio de médicos y enfermeras y enfermeros titulados en el extranjero cuyo título no esté revalidado o habilitado en Chile.
 
 15. Dar en arrendamiento, a prestadores privados, dispositivos médicos, sin más trámite que el acto administrativo por el cual se autoriza dicho arrendamiento.
 
@@ -302,7 +302,7 @@ Lo anterior, de conformidad con lo señalado en los convenios que previamente se
 
 #### Artículo 10º
 
-Los efectos de este decreto tendrán vigencia durante un año, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que estas no mejoren.
+Los efectos de este decreto tendrán vigencia hasta el día 30 de junio de 2021, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que estas no mejoren.
 
 #### Artículo 11º
 
