@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE LA ARAUCANÍA, A LA "I. MUNICIPALIDAD DE PUCÓN"
+
+Mediante decreto exento Nº E-182, de 22 de marzo de 2021, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, al "I. Municipalidad de Pucón", RUT Nº 69.191.600-6, los inmuebles fiscales correspondientes a los Lotes 12-A, inscrito a fojas 589 Nº 1152, en el Registro de Propiedad del año 2012 del Conservador de Bienes Raíces de Pucón; enrolado en el Servicio de Impuestos Internos con el Nº 82-22; Lote 13-A, inscrito a fojas 109 Nº 211, en el Registro de Propiedad del año 2012 del Conservador de Bienes Raíces de Pucón; enrolado en el Servicio de Impuestos Internos con el Nº 82-11; Lote 14-A, inscrito a fojas 959 Nº 1889, en el Registro de Propiedad del año 2011 del Conservador de Bienes Raíces de Pucón; enrolado en el Servicio de Impuestos Internos con el Nº 82-12 y Lote 15-A, inscrito a fojas 1062 Nº 2092, en el Registro de Propiedad del año 2011 del Conservador de Bienes Raíces de Pucón; enrolado en el Servicio de Impuestos Internos con el Nº 82-13; ubicados en la intersección de calle Ecuador con calle Lincoyán, comuna de Pucón, provincia de Cautín, Región de la Araucanía; singularizados en el Plano Nº 09115-21.927-C.U.; con una superficie total de 576,08 m2. La Concesión se otorga por un plazo de 20 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar los inmuebles para desarrollar el proyecto de construcción de un Centro Comunitario. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
