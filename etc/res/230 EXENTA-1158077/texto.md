@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 230 EXENTA, DE 12 DE MARZO DE 2021
+
+Por resolución exenta Nº 230, de 12 de marzo de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se autorizó el funcionamiento del Terminal No Urbano para servicios de locomoción colectiva rural prestados mediante buses, ubicado en calle Balmaceda Nº 491 de la comuna de Laja, provincia de Biobío, Región del Biobío, de propiedad de don Hernán Rocha Vallejos, Rol Único Tributario 3.081.414-2. El recinto señalado precedentemente deberá dar cumplimiento a lo establecido en la Ordenanza de Terminales de Locomoción Colectiva No Urbano, contenido en el decreto Nº 1.183 de fecha 22 de octubre de 1996, que aprueba "Ordenanza para Terminales de Locomoción Colectiva No Urbana, en la comuna de Laja". Manténgase la presente resolución en lugar visible en el Terminal, para cuando sea requerido por las autoridades competentes.-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
