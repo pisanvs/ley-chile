@@ -162,11 +162,15 @@ de Bienestar, para tales efectos por el afiliado;
 
 5.- A los padres legítimos; y,
 
-6.- A la persona que acredite haber efectuado los gastos
-
-del funeral.
+6.- A la persona que acredite haber efectuado los gastos del funeral.
 
 e) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el Acuerdo de Unión Civil. Si ambos estuvieran afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio
+
+f) Ayuda Social: Se concederá una ayuda social, sin retorno, para las situaciones excepcionales determinadas por el Consejo Administrativo.
+
+g) Ayuda Social en caso de catástrofes y/o incendios: Beneficio a otorgarse en caso de situaciones de catástrofe, incendio, desastre natural, atmosférico, biológico, contaminación o situaciones de excepción decretadas en el país y/o a nivel mundial, aprobados por el Consejo Administrativo.
+
+h) Otros Subsidios: El Consejo Administrativo podrá establecer otras bonificaciones, ayudas o subsidios, para distribución homogénea de los excedentes del Servicio de Bienestar, con motivo de vacaciones de invierno, de fiestas patrias, de navidad, por término de año, por cumpleaños.
 
 Para acceder a los beneficios que entrega el Servicio de Bienestar, se requiere una antigüedad mínima de afiliación de 4 meses.
 
@@ -232,11 +236,15 @@ El derecho a solicitar los beneficios que concede el Servicio de Bienestar caduc
 
 En el caso de los funcionarios que se acogen a jubilación, este plazo comenzará a regir desde la fecha en que se declara la calidad de tal; para los beneficios causados en el período comprendido entre esta fecha y la del cese de funciones.
 
-#### Artículo transitorio
+#### Artículo primero
 
-Los representantes titulares y suplentes de los afiliados en el Consejo Administrativo, conforme a lo dispuesto por el artículo 3º del presente Reglamento, serán elegidos dentro del plazo de 90 días contados desde la fecha de publicación del presente Reglamento y asumirán a contar del 1º del mes siguiente a aquel en que se realice la votación.
+transitorio: Los representantes titulares y suplentes de los afiliados en el Consejo Administrativo, conforme a lo dispuesto por el artículo 3º del presente Reglamento, serán elegidos dentro del plazo de 90 días contados desde la fecha de publicación del presente Reglamento y asumirán a contar del 1º del mes siguiente a aquel en que se realice la votación.
 
 La Asociación de Funcionarios deberá designar los representantes titular y suplente dentro del mismo plazo indicado en el inciso anterior, cuando proceda, de acuerdo al inciso 3º del artículo 18 del Reglamento General.
+
+#### Artículo segundo
+
+transitorio: La ayuda social para situaciones de catástrofes y/o incendios, regulada en la letra h) de artículo 11 del presente decreto, tendrá vigencia retroactiva, a partir del 1 de agosto de 2020.
 
 Tómese razón, comuníquese, publíquese e insértese en la Recopilación que corresponda de la Contraloría General de la República.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Jorge Arrate Mac Niven, Ministro del Trabajo y Previsión Social.- Carlos Mladinic Alonso, Ministro de Agricultura.
 
