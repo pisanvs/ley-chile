@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 599, de fecha 25 de marzo de 2021, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Región Metropolitana de Santiago, se autoriza a Escuela de Conductores No Profesionales o Clase B denominada "Escuela de Conductores Macol", domiciliada en Avenida Manuel Antonio Matta Nº 944, comuna de Quilicura, cuyo propietaria es la señora Julia del Carmen Díaz Murillo, Cédula de Identidad Nº 8.175.725-9 y cuyo Programa de Enseñanza fue aprobado mediante resolución exenta Nº 2.519, de 14 de septiembre de 2011, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, a impartir curso conducente a obtención de Licencia de Conductor Clase B, en modalidad e-learning. La correcta funcionalidad de la plataforma tecnológica computacional LMS, estará siempre sujeta a las auditorías, controles y fiscalizaciones que sean procedentes. La misma autorización, en copia fidedigna, deberá estar a disposición de los postulantes y alumnos del establecimiento.-
+
+Sergio Eduardo Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones (S) Región Metropolitana.
