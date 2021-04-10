@@ -544,43 +544,23 @@ j) Asesorar a las Direcciones Zonales, Divisiones y demás dependencias del Fond
 
 La División Comercialización estará integrada por los siguientes Departamentos, los cuales dependerán directamente del Jefe de la División:
 
-### I. Departamento Gestión Comercial Sistema Nacional de Servicios de Salud
+### I. Departamento Gestión Comercial Servicios de Salud
 
 ### II. Departamento Gestión Comercial Complementaria
 
-### III. Departamento Mecanismos de Pago
+3. Departamento de Gestión de Convenios MAI.
+
+4. Departamento Mecanismos de Pago.
+
+5. Departamento de Servicio al Prestador.
 
 #### Artículo 25
 
-En la División Comercialización, además de los Departamentos señalados en el artículo anterior, existirá una unidad dependiente del Jefe de la División denominada Monitoreo y Análisis Comercial que se encargará de cumplir las siguientes funciones:
-
-a) Estandarizar la información y mantener actualizado el repositorio de datos de los distintos programas y convenios de la División.
-
-b) Elaborar informes de evaluación de acuerdo a las prioridades establecidas por la Jefatura de la División.
-
-c) Monitorear, evaluar e informar la ejecución de los indicadores de gestión de la División.
-
-d) Consolidar la solicitud de presupuesto anual interno y aquel referido a las materias que administra la División.
-
-e) Elaborar los informes de glosa presupuestaria solicitados por la Dirección de Presupuestos del Ministerio de Hacienda, relativos a materias de administración de la División.
-
-f) Asesorar al Jefe de División en el cumplimiento del plan de compra y presupuesto interno de la División.
-
-g) Servir de contraparte de la División para dar respuesta a solicitudes de información en el ámbito de la Ley de Transparencia, parlamentarios y organismos del Estado en asuntos de competencia de la División.
-
-h) Apoyar la difusión de la oferta de servicios y beneficios que el Fonasa dispone para su Red de Prestadores con el objetivo de fortalecer y fidelizar a los actuales y potenciales prestadores públicos y privados.
-
-i) Ser la contraparte de la División en la implementación del Proyecto Fortalecimiento del Modelo de Atención de Fonasa.
-
-j) Asesorar y capacitar a otras jefaturas, Divisiones, Departamentos y Direcciones Zonales, en materias propias de su competencia.
-
-k) Apoyar en temas comunicacionales hacia los prestadores a las diferentes áreas de la División.
-
-l) Dar cumplimiento a todas las tareas que encomiende el Jefe de la División.
+Derogado.
 
 ### Párrafo 2°
 
-DEL DEPARTAMENTO GESTIÓN COMERCIAL SISTEMA NACIONAL DE SERVICIOS DE SALUD
+DEL DEPARTAMENTO GESTIÓN COMERCIAL SERVICIOS DE SALUD
 
 #### Artículo 26
 
@@ -598,7 +578,7 @@ e) Identificar y geo-referenciar la oferta del Sistema Nacional de Servicios de 
 
 f) Organizar y dirigir los Directorios de Compra con los Servicios de Salud de las Regiones Metropolitana de Santiago y del Libertador General Bernardo O'Higgins.
 
-g) Determinar brechas de oferta del Sistema Nacional de Servicios de Salud a nivel regional, macro regional y nacional.
+g) Levantar brechas de oferta del Sistema Nacional de Servicios de Salud a nivel regional, macro regional y nacional.
 
 h) Monitorear los procesos de facturación y ejecución de transferencia de los recursos a los Servicios de Salud, a través de los distintos mecanismos de compra definidos.
 
@@ -608,15 +588,17 @@ j) Informar a otras Divisiones o Departamentos en el ámbito de la compra sanita
 
 k) Ser contraparte de las Direcciones Zonales del Fonasa en el ámbito de competencia del Departamento.
 
-l) Dar cumplimiento a todas las tareas que encomiende el Jefe de la División.
+l) Representar a FONASA en DIGERA en las distintas Mesas de Trabajo de Implementación de nuevos Programas en la Red.
+
+m) Dar cumplimiento a todas las tareas que encomiende el Jefe de la División.
 
 #### Artículo 27
 
-Del Departamento Gestión Comercial S.N.S.S. dependerán los siguientes Subdepartamentos:
+Del Departamento Gestión Comercial Servicios de Salud dependerán los siguientes Subdepartamentos:
 
 ### I. Subdepartamento Comercial Nivel Central
 
-II. Subdepartamento Gestión Convenios S.N.S.S.
+### II. Subdepartamento Comercial Servicios de Salud
 
 #### Artículo 28
 
@@ -632,11 +614,15 @@ d) Monitorear los procesos de las cuentas médicas y ejecución de transferencia
 
 e) Controlar la ejecución de prestaciones convenidas en los Servicios de Salud de las Regiones Metropolitana de Santiago y del Libertador General Bernardo O'Higgins, velando por el cumplimiento de los compromisos y la ejecución presupuestaria.
 
-f) Dar cumplimiento a todas las tareas que encomiende el Jefe del Departamento.
+f) Gestionar acceso a atenciones de salud, requeridas a través de los distintos canales de contacto que se disponen para ello, de las regiones Metropolitana de Santiago y del Libertador General Bernardo O'Higgins.
+
+g) Gestionar la resolución de casos judicializados de los Servicios de Salud, de las regiones Metropolitana de Santiago y del Libertador General Bernardo O'Higgins.
+
+h) Dar cumplimiento a todas las tareas que encomiende el Jefe del Departamento.
 
 #### Artículo 29
 
-Serán funciones del Subdepartamento Gestión Convenios S.N.S.S. las siguientes:
+Serán funciones del Subdepartamento Comercial Servicios de Salud las siguientes:
 
 a) Implementar y gestionar distintos mecanismos de compra a prestadores públicos.
 
@@ -652,6 +638,16 @@ f) Elaborar las distintas solicitudes de los decretos presupuestarios asociados 
 
 g) Consolidar y monitorear los Acuerdos de Gestión y los Acuerdos de Programación suscritos con los Servicios de Salud.
 
+h) Consolidar y sistematizar la información generada por el Departamento, necesaria para la toma de decisiones de las autoridades.
+
+i) Dar respuesta, en temas de competencia del Departamento, a las solicitudes de transparencia.
+
+j) Dar respuesta, en los temas que lleva el Departamento, a las distintas solicitudes de información de entidades externas (Minsal - Dipres - Prestadores, etc.) o de otros Departamentos de Fonasa.
+
+k) Ser la contraparte de TI para la implementación y mantención de los Sistemas Informáticos utilizados por el Departamento.
+
+l) Dar cumplimiento a todas las tareas que encomiende el Jefe de Departamento.
+
 ### Párrafo 3°
 
 DEL DEPARTAMENTO GESTIÓN COMERCIAL COMPLEMENTARIA
@@ -660,17 +656,17 @@ DEL DEPARTAMENTO GESTIÓN COMERCIAL COMPLEMENTARIA
 
 Serán funciones del Departamento Gestión Comercial Complementaria las siguientes:
 
-a) Elaborar planes, programas y acciones para asegurar la entrega de servicios sanitarios a nuestros beneficiarios a través de la complementariedad público-privada.
+a) Elaborar planes, programas y acciones para asegurar la entrega de servicios sanitarios a nuestros beneficiarios a través de la complementariedad público-privada, en lo que respecta a Programas Garantizados.
 
-b) Implementar y gestionar mecanismos de compra a prestadores que no pertenecen al S.N.S.S.
+b) Implementar y gestionar mecanismos de compra a prestadores que no pertenecen al S.N.S.S., en lo que respecta a Programas Garantizados.
 
-c) Administrar y evaluar distintos mecanismos de compra a prestadores que no pertenecen al S.N.S.S.
+c) Administrar y evaluar distintos mecanismos de compra a prestadores que no pertenecen al S.N.S.S., en lo que respecta a Programas Garantizados.
 
-d) Elaborar contenidos técnicos, proponer, diseñar y administrar convenios de compra con prestadores que no pertenecen al S.N.S.S.
+d) Elaborar contenidos técnicos, proponer, diseñar y administrar convenios de compra con prestadores que no pertenecen al S.N.S.S., en lo que respecta a Programas Garantizados.
 
 e) Visar las propuestas de las Direcciones Zonales en materias de competencia del Departamento.
 
-f) Identificar y geo referenciar la oferta de prestadores que no pertenecen al S.N.S.S., para prestaciones sanitarias en las Regiones Metropolitana de Santiago y del Libertador General Bernardo O'Higgins y supervisar que esta función se cumpla en las Direcciones Zonales.
+f) Identificar y geo referenciar la oferta de prestadores que no pertenecen al S.N.S.S., para prestaciones sanitarias, en lo que respecta a Programas Garantizados en las Regiones Metropolitana de Santiago y del Libertador General Bernardo O'Higgins y supervisar que esta función se cumpla en las Direcciones Zonales.
 
 g) Participar en los Directorios de Compra con los Servicios de Salud de las Regiones Metropolitana de Santiago y del Libertador General Bernardo O'Higgins, respecto de asuntos del ámbito de su competencia.
 
@@ -692,59 +688,39 @@ n) Dar cumplimiento a todas las tareas que encomiende el Jefe de la División.
 
 Del Departamento Gestión Comercial Complementaria dependerán los siguientes Subdepartamentos:
 
-### I. Subdepartamento Programas Especiales
+### I. Subdepartamento Programas Garantizados
 
-### II. Subdepartamento Convenios Complementarios Modalidad Atención Institucional
-
-### III. Subdepartamento Convenios Modalidad Libre Elección
+### II. Subdepartamento Convenios Modalidad Libre Elección
 
 #### Artículo 32
 
-Serán funciones del Subdepartamento Programas Especiales las siguientes:
+Serán funciones del Subdepartamento Programas Garantizados las siguientes:
 
 a) Diseñar, monitorear, supervisar y ejecutar en las Regiones Metropolitana de Santiago y del Libertador General Bernardo O'Higgins, los convenios de compra sanitaria de prestaciones incorporadas en programas garantizados como el GES, la ley N° 20.850 y otros que se determinen y que deban ejecutarse en complementariedad a la oferta del S.N.S.S.
 
-b) Visar el pago de las prestaciones correspondientes a los convenios de programas garantizados de las Regiones Metropolitana de Santiago y del Libertador General Bernardo O'Higgins.
+b) Optimizar el uso y realizar el seguimiento y monitoreo del marco presupuestario asignado a los programas garantizados en el presupuesto para compra directa de Fonasa.
 
-c) Realizar el seguimiento y monitoreo del marco presupuestario asignado al Programa de compra directa de Fonasa.
+c) Entregar lineamientos generales de los modelos de compra sanitaria de prestaciones de programas garantizados a las Direcciones Zonales.
 
-d) Entregar lineamientos generales de los modelos de compra sanitaria de prestaciones de programas garantizados a las Direcciones Zonales.
+d) Realizar estudios de evaluación económica, análisis de evidencia clínica, análisis crítico de la literatura relacionada, respecto de medicamentos de alto costo.
 
-e) Realizar estudios de evaluación económica, análisis de evidencia clínica, análisis crítico de la literatura relacionada, respecto de medicamentos de alto costo.
+e) Diseñar y/o implementar programas de farmacovigilancia en conjunto con el Instituto de Salud Pública y el Ministerio de Salud para los beneficiarios de la ley N° 20.850.
 
-f) Diseñar y/o implementar programas de farmacovigilancia en conjunto con el Instituto de Salud Pública y el Ministerio de Salud para los beneficiarios de la ley N° 20.850.
+f) Colaborar con la Autoridad Sanitaria u otras Instituciones relacionadas, en la gestión de los medicamentos y diagnósticos de alto costo definidos en la ley N° 20.850.
 
-g) Colaborar con la Autoridad Sanitaria u otras Instituciones relacionadas, en la gestión de los medicamentos y diagnósticos de alto costo definidos en la ley N° 20.850.
+g) Monitorear el cumplimiento de las garantías de la ley N° 20.850.
 
-h) Monitorear el cumplimiento de las garantías de la ley N° 20.850.
+h) Asesorar en materias relacionadas con la entrega de beneficios, de acuerdo a los plazos y normativas vigentes.
 
-i) Asesorar en materias relacionadas con la entrega de beneficios, de acuerdo a los plazos y normativas vigentes.
+i) Validar la programación anual de la compra centralizada de medicamentos GES y No GES.
 
-j) Validar la programación anual de la compra centralizada de medicamentos GES y No GES.
+j) Asesorar a otras jefaturas, Divisiones, Departamentos y Direcciones Zonales en materias de compra complementaria de programas garantizados.
 
-k) Asesorar a otras jefaturas, Divisiones, Departamentos y Direcciones Zonales en materias de compra complementaria de programas garantizados.
-
-l) Dar cumplimiento a todas las tareas que encomiende el Jefe del Departamento.
+k) Dar cumplimiento a todas las tareas que encomiende el Jefe del Departamento.
 
 #### Artículo 33
 
-Serán funciones del Subdepartamento Convenios Complementarios Modalidad Atención Institucional las siguientes:
-
-a) Diseñar, monitorear, supervisar y ejecutar en las Regiones Metropolitana de Santiago y del Libertador General Bernardo O'Higgins, los convenios de compra sanitaria en la Modalidad de Atención Institucional (MAI), y que deban ejecutarse en complementariedad a la oferta del S.N.S.S.
-
-b) Visar el pago de las prestaciones de correspondientes a los convenios MAI de complementariedad a la oferta del S.N.S.S., de las Regiones Metropolitana de Santiago y del Libertador General Bernardo O'Higgins.
-
-c) Entregar a las Direcciones Zonales lineamientos generales de los modelos de compra sanitaria de prestaciones en la Modalidad de Atención Institucional y en complementariedad a la oferta del S.N.S.S.
-
-d) Asesorar a otras jefaturas, Divisiones, Departamentos y Direcciones Zonales en materias de compra complementaria de programas garantizados.
-
-e) Gestionar administrativamente los contratos de la División en coordinación con los encargados de las líneas programáticas.
-
-f) Coordinar los procesos licitatorios de la División, siendo contraparte con las áreas involucradas.
-
-g) Asegurar la consistencia de los instrumentos de compra con los procesos y procedimientos de la División.
-
-h) Dar cumplimiento a todas las tareas que encomiende el Jefe del Departamento.
+Derogado.
 
 #### Artículo 34
 
@@ -768,7 +744,61 @@ h) Realizar el cambio de estado de las personas naturales o jurídicas inscritas
 
 i) Dar cumplimiento a todas las tareas que encomiende el Jefe del Departamento.
 
-### Párrafo 4°
+### Párrafo 4º
+
+DEL DEPARTAMENTO GESTIÓN CONVENIOS MAI
+
+#### Artículo 34 bis
+
+Serán funciones del Departamento Gestión de Convenios Modalidad Atención Institucional las siguientes:
+
+a) Diseñar, monitorear, supervisar y ejecutar, los convenios de compra sanitaria en la Modalidad de Atención Institucional (MAI), de programas no garantizados y que deban ejecutarse en complementariedad a la oferta del S.N.S.S.
+
+b) Visar el pago de las prestaciones correspondientes a los convenios MAI de complementariedad a la oferta del S.N.S.S., de las regiones Metropolitana de Santiago y del Libertador General Bernardo O'Higgins, y dirigir, coordinar y supervisar estas acciones en las Direcciones Zonales de Fonasa.
+
+c) Entregar a las Direcciones Zonales lineamientos generales de los modelos de compra sanitaria de prestaciones en la Modalidad de Atención Institucional y en complementariedad a la oferta del S.N.S.S.
+
+d) Asesorar a otras jefaturas, Divisiones, Departamentos y Direcciones Zonales en materias de compra complementaria de programas no garantizados.
+
+e) Gestionar administrativamente los contratos MAI de programas No Garantizados de la División en coordinación con los encargados de las líneas programáticas.
+
+f) Coordinar los procesos licitatorios de la División, siendo contraparte con las áreas involucradas.
+
+g) Asegurar la consistencia de los Instrumentos de compra con los procesos y procedimientos de la División.
+
+h) Dar cumplimiento a todas las tareas que encomiende el Jefe del Departamento.
+
+#### Artículo 34 ter
+
+Del Departamento Gestión de Convenios Modalidad Atención Institucional dependerán los siguientes Subdepartamentos:
+
+### I. Subdepartamento Contratos
+
+### II. Subdepartamento Gestión de Cuentas de Prestadores
+
+#### Artículo 34 quáter
+
+Serán funciones del Subdepartamento Contratos las siguientes:
+
+a) Diseñar, monitorear, supervisar y ejecutar los convenios de compra sanitaria en la Modalidad de Atención Institucional (MAI), de programas no garantizados y que deban ejecutarse en complementariedad a la oferta del S.N.S.S.
+
+b) Gestionar administrativamente los contratos MAI de programas No Garantizados de la División en coordinación con los encargados de las líneas programáticas.
+
+c) Asesorar y verificar la consistencia de los instrumentos de compra con los procesos y procedimientos de la División.
+
+d) Dar cumplimiento a todas las tareas que encomiende el Jefe del Departamento.
+
+#### Artículo 34
+
+quinquies. Serán funciones del Subdepartamento Gestión de Cuentas de Prestadores las siguientes:
+
+a) Visar el pago de las prestaciones correspondientes a los convenios MAI de complementariedad a la oferta del S.N.S.S., de las regiones Metropolitana de Santiago y del Libertador General Bernardo O'Higgins, y dirigir, coordinar y supervisar estas acciones en las Direcciones Zonales de Fonasa.
+
+b) Asesorar a la Jefatura respecto de los lineamientos generales de los modelos de compra sanitaria de prestaciones en la Modalidad de Atención Institucional y en complementariedad a la oferta del S.N.S.S.
+
+c) Dar cumplimiento a todas las tareas que encomiende el Jefe del Departamento.
+
+### Párrafo 5°
 
 DEL DEPARTAMENTO MECANISMOS DE PAGO
 
@@ -784,7 +814,7 @@ c) Definir aspectos técnicos y comerciales de la compra sanitaria pública y pr
 
 d) Administrar el registro de actividad por GRD, tanto en prestadores públicos como privados en Convenio con Fonasa.
 
-e) Liderar la difusión e información respecto a la implementación y sus resultados, respecto del mecanismo de compra y pago por Grupos Relacionados por el Diagnóstico (GRD).
+e) Apoyar la difusión e información respecto a la implementación y sus resultados, respecto del mecanismo de compra y pago por Grupos Relacionados por el Diagnóstico (GRD).
 
 f) Dar apoyo técnico a procesos de compra y pago de otras dependencias de la División en materia de codificación y análisis de Grupos Relacionados por el Diagnóstico (GRD).
 
@@ -800,29 +830,43 @@ k) Monitorear, analizar y evaluar la producción y costos asociados de los hospi
 
 l) Coordinar con la Subsecretaría de Redes del Minsal la capacitación continua con los referentes de los distintos hospitales que cuentan con sistema de costeo PERC.
 
-m) Dar cumplimiento a otras tareas asignadas por la jefatura de la División, en materias de compra sanitaria.
+m) Obtener y monitorear los indicadores de gestión clínica a partir del registro GRD.
+
+n) Estudiar y proponer el precio base para la aplicación del GRD.
+
+o) Dar apoyo técnico en materia de codificación de Grupos Relacionados por el Diagnóstico (GRD).
+
+p) Dar cumplimiento a otras tareas asignadas por la Jefatura del Departamento, en materias de compra sanitaria vía GRD.
+
+q) Dar cumplimiento a otras tareas asignadas por la jefatura de la División, en materias de compra sanitaria.
+
+### Párrafo 6°
+
+DEL DEPARTAMENTO DE SERVICIOS AL PRESTADOR
 
 #### Artículo 36
 
-Del Departamento Mecanismos de Pago dependerá el Subdepartamento GRD, que tendrá las siguientes funciones:
+Serán funciones del Departamento de Servicios al Prestador las siguientes:
 
-a) Monitorear, analizar y evaluar la producción, el funcionamiento y el desempeño de GRD, en los convenios con prestadores públicos y privados.
+a) Diseñar y ejecutar el Plan Estratégico con Prestadores que considere la habilitación e información orientado a fortalecer la relación estratégica.
 
-b) Definir aspectos técnicos y comerciales de la compra sanitaria pública y privada asociada a Grupos Relacionados por el Diagnóstico (GRD).
+b) Difundir la oferta de servicios y beneficios que el Fonasa dispone para su Red de Prestadores, con el objetivo de fortalecer y fidelizar a los actuales y potenciales prestadores públicos y privados.
 
-c) Administrar el registro de actividad por GRD, tanto en prestadores públicos como privados en Convenio con Fonasa.
+c) Gestionar Canal Prestador con el objetivo de optimizar y automatizar las respuestas en forma clara y oportuna a los prestadores.
 
-d) Apoyar la difusión e información respecto a la implementación y sus resultados, respecto del mecanismo de compra y pago por Grupos Relacionados por el Diagnóstico (GRD).
+d) Ser la contraparte de la División en la implementación del Proyecto Fortalecimiento del Modelo de Atención de Fonasa.
 
-e) Obtener y monitorear los indicadores de gestión clínica a partir del registro GRD.
+e) Apoyar en temas comunicacionales hacia los prestadores a las diferentes áreas de la División.
 
-f) Estudiar y proponer el precio base para la aplicación del GRD.
+f) Monitorear, evaluar e informar la ejecución de los indicadores de gestión de la División.
 
-g) Dar apoyo técnico en materia de codificación de Grupos Relacionados por el Diagnóstico (GRD).
+g) Administrar el plan de compra y presupuesto interno de la División.
 
-h) Asesorar y dar apoyo técnico a otras Divisiones, Departamentos, Subdepartamentos y Direcciones Zonales, en materias relativas a la implementación del sistema Grupos Relacionados por el Diagnóstico (GRD).
+h) Consolidar la solicitud de presupuesto anual interno y aquel referido a las materias que administra la División.
 
-i) Dar cumplimiento a otras tareas asignadas por la jefatura del Departamento, en materias de compra sanitaria vía GRD.
+i) Ser la contraparte de la División para dar respuesta a solicitudes de información en el ámbito de la Ley de Transparencia, parlamentarios y organismos del Estado en asuntos de competencia de la División.
+
+j) Dar cumplimiento a todas las tareas que encomiende el Jefe de la División.
 
 ## Título Sexto
 
@@ -1856,77 +1900,75 @@ c) Definir, desarrollar e implementar las políticas y procedimientos relacionad
 
 d) Evaluar, controlar y administrar los contratos de las entidades delegadas de cobertura nacional y gestionar el soporte operacional requerido para estos canales de atención.
 
-e) Administrar y velar por el correcto y �ptimo cumplimiento de las políticas públicas tales como ley de participación ciudadana, ley de transparencia, SIAC y género, y velar por su correcta implementación y adecuación en los distintos ámbitos del Fondo Nacional de Salud, tanto a nivel central como desconcentradamente.
+e) Administrar y velar por el correcto y óptimo cumplimiento de las políticas públicas tales como ley de participación ciudadana, ley de transparencia, SIAC y género, y velar por su correcta implementación y adecuación en los distintos ámbitos del Fondo Nacional de Salud, tanto a nivel central como desconcentradamente.
 
 f) Dar cumplimiento a todas las tareas que encomiende el Director.
 
 #### Artículo 93
 
-La División Servicio al Usuario estará integrada por los siguientes Departamentos, los cuales dependerán directamente del Jefe de la División:
+La División Servicio al Usuario estará integrada por los siguientes Departamentos y Subdepartamentos, los cuales dependerán directamente del Jefe de la División:
 
-### I. Departamento Gestión de Canales de Atención
+### I. Subdepartamento Control y Proyectos
 
-### II. Departamento Gestión de Beneficiarios
+### II. Subdepartamento Atención Virtual
 
-### III. Departamento Gestión Ciudadana
+### III. Subdepartamento Atención Presencial
 
-### Párrafo 2º
+### IV. Departamento Gestión de Beneficiarios
 
-DEL DEPARTAMENTO GESTIÓN DE CANALES DE ATENCIÓN
+### V. Departamento Gestión Ciudadana
+
+### VI. Departamento Gestión Centro Resolutor
 
 #### Artículo 94
 
-Al Departamento Gestión de Canales de Atención le corresponderán las siguientes funciones:
+Serán funciones del Subdepartamento Control y Proyectos:
 
-a) Asegurar la atención de calidad de los asegurados en la entrega de los productos y servicios del Fondo Nacional de Salud y en la asesoría en el seguro de salud.
+a) Llevar el control periódico de los indicadores de gestión del área, tales como CDC, PMG, CDD y H.
 
-b) Dirigir y supervisar el cumplimiento de las funciones operativas de la Región Metropolitana de Santiago y de la Región del Libertador General Bernardo O'Higgins.
+b) Controlar la calidad de la Venta, velando por la correcta aplicación de reglas y procedimientos (por ejemplo CAT).
 
-c) Desarrollar, implementar y controlar procesos de entrega de productos y servicios en todos los canales de atención y gestionar alianzas estratégicas para mejorar el acceso.
+c) Controlar los convenios y contratos cuya administración es de responsabilidad de la División.
 
-d) Entregar soporte, apoyo y lineamientos a la gestión de canales de atención presenciales a nivel nacional.
+d) Controlar el avance de los proyectos y Mesas de trabajo en los que está participando algún área de la División.
 
-e) Administrar la operación de canales de atención tales como: sucursales, entidades delegadas y Centro de Atención Virtual de la Región Metropolitana de Santiago y de la Región del Libertador General Bernardo O'Higgins.
+e) Definir las tareas que serán desarrolladas mediante Trabajo Remoto, a nivel nacional.
 
-f) Administrar y gestionar las actividades en terreno de la Región Metropolitana de Santiago a través del Fonasa Móvil.
+f) Proponer e implementar los mecanismos necesarios para su medición y control.
 
-g) Dar cumplimiento a todas las tareas que encomiende el Jefe de la División.
+g) Mantener actualizada la base de funcionarios(as) bajo esta modalidad.
+
+### Párrafo 2º
+
+DEL SUBDEPARTAMENTO ATENCIÓN VIRTUAL
 
 #### Artículo 95
 
-Del Departamento Gestión de Canales de Atención dependerán los siguientes Subdepartamentos:
-
-### I. Subdepartamento Canales Virtuales
-
-### II. Subdepartamento Canales Presenciales Nivel Central
-
-#### Artículo 96
-
-El Subdepartamento Canales Virtuales tendrá las siguientes funciones:
+El Subdepartamento Atención Virtual tendrá las siguientes funciones:
 
 a) Realizar las gestiones necesarias para asegurar una atención de calidad a los usuarios.
 
 b) Asegurar el correcto funcionamiento de los canales de atención virtuales.
 
-c) Coordinar las acciones necesarias para la entrega de productos y servicios a través de los canales de atención virtuales.
+c) Coordinar las acciones necesarias para la entrega de productos y servicios a través de los canales de atención virtuales, en coordinación con la Atención Presencial.
 
 d) Implementar medidas para que los canales de atención virtuales puedan resolver requerimientos de nuestros usuarios con la misma oportunidad que los canales presenciales.
 
-e) Dar cumplimiento a todas las tareas que encomiende el Jefe del Departamento.
+e) Dar cumplimiento a todas las tareas que encomiende el Jefe de División.
 
-#### Artículo 97
+#### Artículo 96
 
-Del Subdepartamento Canales Virtuales dependerá la Sección Centro de Atención Virtual y la Sección Call Center.
+Del Subdepartamento Atención Virtual dependerá la Sección Web y RRSS y la Sección Call Center.
 
-Serán funciones de la Sección Centro de Atención Virtual las siguientes:
+Serán funciones de la Sección Web y RRSS las siguientes:
 
-a) Dar orientación e información a beneficiarios, usuarios y prestadores.
+a) Mantener la web del Fonasa con información relevante y atingente a los distintos usuarios, para cada uno de sus portales, siguiendo los lineamientos estratégicos definidos por la Institución.
 
-b) Resolver todos los requerimientos que ingresan a través de la web.
+b) Velar por la entrega oportuna, actualizada y accesos, según las exigencias definidas por la autoridad.
 
-c) Gestionar las solicitudes de afiliación web a nivel nacional.
+c) Realizar un constante trabajo de modernización, en lo referente a trámites y necesidades de usuarios.
 
-d) Responder y gestionar todos los medios virtuales que se implementen.
+d) Dar orientación e información a beneficiarios, usuarios y prestadores ya sea a través de la página web o bien requerida a través de las RRSS.
 
 Serán funciones de la Sección Call Center las siguientes:
 
@@ -1940,27 +1982,37 @@ d) Controlar los niveles de atención y de servicio otorgados por el Call Center
 
 e) Coordinar las acciones para la mantención de información actualizada en el sistema de atención del Call Center.
 
-#### Artículo 98
+### Párrafo 3º
 
-El Subdepartamento Canales Presenciales Nivel Central tendrá las siguientes funciones:
+DEL SUBDEPARTAMENTO ATENCIÓN PRESENCIAL
+
+#### Artículo 97
+
+El Subdepartamento Atención Presencial Nivel Central tendrá las siguientes funciones:
 
 a) Realizar las gestiones necesarias para asegurar una atención de calidad a los usuarios.
 
-b) Coordinar con la Red Pública de Salud y los organismos gubernamentales, según el radio operativo de la sucursal, capacitaciones respecto de los siguientes temas: proceso inscripción per cápita, acreditación carentes de recursos, capacitación a prestadores y reunión con Organizaciones de la Sociedad Civil.
+b) Coordinar con la Red Pública de Salud y los organismos gubernamentales, según el radio operativo de la sucursal, capacitaciones respecto de los siguientes temas: proceso inscripción per cápita, acreditaciones carentes de recursos, capacitación a prestadores y reunión con Organizaciones de la Sociedad Civil.
 
 c) Coordinar la operación de los canales de atención presenciales de la Región Metropolitana de Santiago y de la Región del Libertador General Bernardo O'Higgins.
 
 d) Entregar lineamientos a nivel nacional para canales de atención presenciales.
 
-e) Asegurar el correcto funcionamiento de los canales de atención presenciales.
+e) Administrar y gestionar las actividades relacionadas a las Entidades Delegadas.
 
-f) Coordinar las acciones necesarias para la entrega de productos y servicios a través de los canales de atención presenciales.
+f) Administrar y gestionar las actividades en terreno de la Región Metropolitana de Santiago a través del Fonasa Móvil.
 
-g) Dar cumplimiento a todas las tareas que encomiende el Jefe del Departamento.
+g) Dar cumplimiento a todas las tareas que encomiende el Jefe de División.
 
-#### Artículo 99
+#### Artículo 98
 
-Del Subdepartamento Canales Presenciales Nivel Central dependerá la Sección Entidades Delegadas y la Sección Fonasa en Terreno.
+Del Subdepartamento Atención Presencial Nivel Central dependerá la Sección Sucursales RM y RO, la sección Entidades Delegadas y la Sección Fonasa en Terreno.
+
+Serán funciones de la Sección Sucursales RM y RO las siguientes:
+
+a) Asegurar el correcto funcionamiento de los canales de atención presenciales.
+
+b) Coordinar las acciones necesarias para la entrega de productos y servicios a través de los canales de atención presenciales.
 
 Serán funciones de la Sección Entidades Delegadas las siguientes:
 
@@ -1974,15 +2026,15 @@ Serán funciones de la Sección Fonasa en Terreno las siguientes:
 
 a) Administrar, coordinar, priorizar y gestionar las actividades de Fonasa en Terreno para la Región Metropolitana de Santiago, así como asegurar la disponibilidad y el buen estado de los recursos necesarios para el correcto funcionamiento y despliegue de la actividad.
 
-b) Dar los lineamientos para las actividades de Fonasa en Terreno para la Región del Libertador General Bernardo O'Higgins.
+b) Dar los lineamientos para las actividades de Fonasa en Terrena para la Región del Libertador General Bernardo O'Higgins.
 
-c) Asegurar la Atención de Calidad de los usuarios en la entrega de los productos y servicios del Fondo y en la asesoría en el seguro de salud.
+c) Asegurar la Atención de Calidad de los usuarios en la entrega de los productos y servicios del Fondo y en la asesoría en el seguro de salud".
 
-### Párrafo 3º
+### Párrafo 4º
 
 DEL DEPARTAMENTO GESTIÓN DE BENEFICIARIOS
 
-#### Artículo 100
+#### Artículo 99
 
 Serán funciones del Departamento Gestión de Beneficiarios las siguientes:
 
@@ -1996,51 +2048,31 @@ d) Dar soporte a los requerimientos de las sucursales.
 
 e) Administrar los convenios internacionales y con otras instituciones públicas o privadas, en materia de acceso a las prestaciones.
 
-f) Dar cumplimiento a las tareas encomendadas por la jefatura de la División.
+f) Dar cumplimiento a las tareas encomendadas por la jefatura de la División".
 
-### Párrafo 4º
+### Párrafo 5º
 
 DEL DEPARTAMENTO GESTIÓN CIUDADANA
 
-#### Artículo 101
+#### Artículo 100
 
 Serán funciones del Departamento Gestión Ciudadana las siguientes:
 
-a) Liderar y ejecutar los procesos asociados a dar respuesta íntegra y oportuna a las Solicitudes Ciudadanas.
+a) Liderar los procesos asociados al cumplimiento de Ley de Participación Ciudadana.
 
-b) Liderar los procesos asociados al cumplimiento de Ley de transparencia y de acceso a la información pública y a la Ley del Lobby.
+b) Liderar los procesos asociados al cumplimiento de Ley de Transparencia y de Acceso a la Información Pública y a la Ley del Lobby.
 
 c) Dar cumplimiento a las tareas encomendadas por la jefatura de la División.
 
+#### Artículo 101
+
+Del Departamento Gestión Ciudadana dependerán los siguientes Subdapartamentos:
+
+### I. Subdepartamento Transparencia y Ley de Lobby
+
+### II. Subdepartamento Participación Ciudadana
+
 #### Artículo 102
-
-Del Departamento Gestión Ciudadana dependerán los siguientes Subdepartamentos:
-
-### I. Subdepartamento Gestión de Solicitudes Ciudadanas
-
-### II. Subdepartamento Transparencia y Ley de Lobby
-
-### III. Subdepartamento Participación Ciudadana
-
-#### Artículo 103
-
-Serán funciones del Subdepartamento Gestión de Solicitudes Ciudadanas las siguientes:
-
-a) Definir procedimientos, liderar y coordinar los procesos en materia de gestión de solicitudes ciudadanas.
-
-b) Gestionar las solicitudes ciudadanas de la Región Metropolitana de Santiago y de la Región del Libertador General Bernardo O'Higgins por los distintos canales de ingreso, tanto internos y como externos.
-
-c) Definir atenciones que requieren designación de segundo prestador para el cumplimiento de las GES.
-
-d) Definir procedimientos, liderar y coordinar el cumplimiento de la normativa referida al proceso de gestión de solicitudes ciudadanas.
-
-e) Monitorear y levantar nuevas necesidades para el buen funcionamiento de la herramienta para la gestión de solicitudes ciudadanas.
-
-f) Disponer de información de gestión de solicitudes ciudadanas para la toma de decisiones.
-
-g) Dar cumplimiento a todas las tareas que encomiende el Jefe del Departamento.
-
-#### Artículo 104
 
 Serán funciones del Subdepartamento Transparencia y Ley de Lobby las siguientes:
 
@@ -2052,15 +2084,75 @@ c) Revisar y consolidar información relativa a transparencia activa a nivel nac
 
 d) Dar cumplimiento a todas las tareas que encomiende el Jefe del Departamento.
 
-#### Artículo 105
+#### Artículo 103
 
 Serán funciones del Subdepartamento Participación Ciudadana las siguientes:
 
-a) Velar por el correcto y óptimo cumplimiento de la ley de participación ciudadana, y coordinar su correcta implementación tanto a nivel central como desconcentradamente.
+a) Velar por el correcto y óptimo cumplimiento de la Ley de Participación Ciudadana, y coordinar su correcta implementación tanto a nivel central como desconcentradamente.
 
 b) Ejecutar las acciones que garanticen el desarrollo de la participación ciudadana en el territorio, de acuerdo a los lineamientos institucionales y de la división.
 
 c) Brindar los espacios para el desarrollo del diálogo y la participación ciudadana.
+
+### Párrafo 6º
+
+DEL DEPARTAMENTO GESTIÓN CENTRO RESOLUTOR
+
+#### Artículo 104
+
+Al Departamento Gestión Centro Resolutor le corresponderán las siguientes funciones:
+
+a) Asegurar la atención de calidad de los asegurados en la entrega de los productos y servicios del Fondo Nacional de Salud y en la asesoría en el seguro de salud, según el Modelo de Atención.
+
+b) Desarrollar, implementar y controlar procesos de entrega de respuestas a requerimientos realizados por los usuarios a Nivel Nacional, a través de todos los canales de atención y según los Niveles Resolutores definidos, gestionando estándares y acuerdos de servicios con las distintas áreas de la institución, en pro de la experiencia usuaria.
+
+c) Identificar y proponer constantes mejoras y modernización en los procesos actuales de atención.
+
+d) Transformarse en un Centro de Contenidos, manteniendo actualizada la Base de Conocimiento hacia los Canales de Atención, identificando y generando información continua y acciones de capacitación.
+
+e) Liderar los procesos de desarrollo de WF dentro de la institución, bajo la perspectiva de lograr trazabilidad y eficiencia en la atención.
+
+f) Generar mecanismos de asignación y control para que todos los participantes del centro resolutor en modo remoto tengan asignadas las cargas adecuadas y que estas sean solucionadas en calidad y plazo".
+
+#### Artículo 105
+
+Del Departamento Gestión Centro Resolutor dependerán los siguientes Subdepartamentos:
+
+### I. Subdepartamento Nivel 2 Resolutor
+
+### II. Subdepartamento Nivel 3 Resolutor SCE
+
+#### Artículo 105 bis
+
+Serán funciones del Subdepartamento Nivel 2 Resolutor, las siguientes:
+
+a) Dar respuesta a todos los requerimientos que no fueron resueltos en el Nivel 1 (primer contacto) del Modelo de Atención, a través de los distintos canales y que no constituyen un reclamo (o SCE). Derivar a N3 o bien a otras Unidades Resolutoras, según corresponda.
+
+b) En lo que respecta a la Web, resolver todos los requerimientos que ingresan a través de ella y derivar al Subdepartamento N3 cuando corresponda (vía WF).
+
+c) Gestionar las solicitudes de afiliación web a nivel nacional.
+
+d) Responder y gestionar todos los contactos realizados a través de las RRSS y derivar al Subdepartamento N3 cuando corresponda (vía WF).
+
+e) Contestar los llamados derivados en línea desde el Call Center, incrementando el cierre en primer contacto (entrega de certificados y más información).
+
+#### Artículo 105 ter
+
+Serán funciones del Subdepartamento Nivel 3 Resolutor SCE las siguientes:
+
+a) Definir procedimientos, liderar y coordinar los procesos en materia de gestión de solicitudes ciudadanas.
+
+b) Gestionar las solicitudes ciudadanas a Nivel Nacional, por los distintos canales de ingreso, tanto internos y como externos.
+
+c) Definir atenciones que requieren designación de segundo prestador para el cumplimiento de las GES.
+
+d) Definir procedimientos, liderar y coordinar el cumplimiento de la normativa referida al proceso de gestión de solicitudes ciudadanas.
+
+e) Monitorear y levantar nuevas necesidades para el buen funcionamiento de la herramienta para la gestión de solicitudes ciudadanas.
+
+f) Disponer de información de gestión de solicitudes ciudadanas para la toma de decisiones.
+
+g) Dar cumplimiento a todas las tareas que encomiende el Jefe del Departamento.
 
 TÍTULO DUODÉCIMO
 
@@ -3270,13 +3362,9 @@ a) Autorizar la conformidad de pago, en su calidad de Administrador del presupue
 
 b) Solicitar Aporte Fiscal a la Dirección de Presupuestos del Ministerio de Hacienda.
 
-c) Condonar copagos de los afiliados por atenciones de salud recibidas en Modalidad de Atención Institucional respecto de las solicitudes correspondientes a la Región Metropolitana de Santiago y la Región del Libertador General Bernardo O'Higgins.
+c) Emitir respuestas de solicitudes dirigidas a los Servicios de Salud, a prestadores de salud públicos o privados, y a otras instituciones públicas o del Sector, en el ámbito de sus atribuciones.
 
-d) Rebajar cuotas o anular préstamos médicos otorgados a los afiliados del Fondo Nacional de Salud.
-
-e) Emitir respuestas de solicitudes dirigidas a los Servicios de Salud, a prestadores de salud públicos o privados, y a otras instituciones públicas o del Sector, en el ámbito de sus atribuciones.
-
-f) Emitir certificados de refrendación presupuestaria que acrediten la disponibilidad de recursos.
+d) Emitir certificados de refrendación presupuestaria que acrediten la disponibilidad de recursos.
 
 g) Dictar las resoluciones que autoricen u ordenen el pago en sentencias condenatorias firmes pronunciadas en contra del Fondo Nacional de Salud, dictadas en juicios arbitrales tramitados ante la Superintendencia de Salud.
 
@@ -3322,6 +3410,10 @@ i) Emitir respuestas a cotizantes, empleadores, usuarios o partes interesadas po
 
 j) Emitir y suscribir las Cartolas Manuales de Cotizaciones de Salud por Afiliado.
 
+k) Condonar copagos de los afiliados por atenciones de salud recibidas en Modalidad de Atención Institucional respecto de las solicitudes correspondientes a la Región Metropolitana de Santiago y la Región del Libertador General Bernardo O'Higgins.
+
+l) Rebajar cuotas o anular préstamos médicos otorgados a los afiliados del Fondo Nacional de Salud.
+
 4º En el Jefe del Departamento Finanzas las siguientes facultades:
 
 a) Autorizar y cursar pagos de cajas de compensación de asignación familiar, del déficit producido por los subsidios de incapacidad laboral.
@@ -3338,7 +3430,7 @@ Deléganse en las Jefaturas de la División Servicio al Usuario que se individua
 
 a) Emitir las respuestas a las solicitudes de transparencia.
 
-2º En el Jefe del Subdepartamento Gestión de Solicitudes Ciudadanas las siguientes facultades:
+2º En el Jefe del Subdepartamento Nivel 3 Resolutor SCE las siguientes facultades:
 
 a) Emitir las respuestas a las solicitudes ciudadanas.
 
