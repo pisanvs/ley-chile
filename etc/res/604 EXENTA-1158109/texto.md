@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 604 EXENTA, DE 22 DE MARZO DE 2021
+
+Mediante resolución exenta N° 604, de 22 de marzo de 2021, el Servicio Nacional de Capacitación y Empleo declara el cese, a contar del 20 de octubre de 2020, de la inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "Aprendizajes Múltiples Innovadores Elizabeth Tapia Rojas E.I.R.L. (Aprendizajes Múltiples Innovadores Elizabeth Tapia Rojas E.I.R.L.)", Rut 76.758.258-7, contenida en la resolución exenta N° 759 de 15 de febrero de 2018, por cuanto dejó de cumplir con el requisito establecido en el N° 2, del Art. 21 de la ley 19.518.
+
+Santiago, 22 de marzo de 2021. Andrea del Carmen Contreras Cuéllar, Jefe del Departamento de Desarrollo y Regulación de Mercado, Servicio Nacional de Capacitación y Empleo.
