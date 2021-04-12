@@ -78,7 +78,7 @@ Dispónese la prohibición de ingreso de nuevos alumnos a todas las carreras del
 
 #### Artículo 5º
 
-Una vez que se produzca el cese de las actividades académicas del Instituto Profesional Adventista, la institución deberá entregar y depositar en el Ministerio de Educación la totalidad de los registros académicos existentes en la institución desde su inicio en el año 1982, hasta el término de las actividades académicas en el año 2021, los que deberán ser presentados en orden y con la información curricular de los alumnos completa y de los planes y programas de estudios de las carreras de la institución.
+Una vez que se verifique la llegada del plazo de revocación de reconocimiento oficial indicada en el artículo 3° del presente decreto, el Instituto Profesional Adventista deberá entregar a la Universidad Adventista de Chile la totalidad de los registros académicos existentes en la institución desde su inicio en el año 1982, hasta el término de las actividades académicas, los que deberán ser presentados a la Universidad en orden y con la información curricular de los alumnos completa y de los planes y programas de estudio de las carreras del instituto profesional, de modo que la referida Universidad pueda entregar las certificaciones respectivas a los ex alumnos, egresados y titulados que lo soliciten.
 
 #### Artículo 6º
 
