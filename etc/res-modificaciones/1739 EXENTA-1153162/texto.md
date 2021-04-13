@@ -42,8 +42,12 @@ Mediante resolución del Director del Serviu respectivo, se determinarán los mo
 
 5. Los recursos comprometidos en el Resuelvo 2. de la presente resolución exenta, para los proyectos seleccionados en el concurso a que se llamó por resolución exenta Nº 536 (V. y U.), de 2020, cuyo cierre de postulación se efectuó el día 30 de septiembre de 2020, se resumen en el siguiente cuadro para cada región del país según corresponda, incluyendo la suma total de familias beneficiadas y Unidades de Fomento comprometidas, considerando los montos de subsidio de los proyectos, incluidos sus respectivos Servicios de Asistencia Técnica, Fiscalización Técnica de Obras y aranceles del Conservador de Bienes Raíces:
 
+> **Nota.** El N° 1, N° 2 y N° 3 de la Resolución 443 Exenta, Vivienda, publicada el 13.04.2021, modifica los cuadros insertos de los resuelvos N° 1, N° 2 y N° 5 de la presente norma, respectivamente, en la forma que la citada norma indica.
+
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
 
-..
+ANEXO ÚNICO
+
+NÓMINA DE GRUPOS SELECCIONADOS - LLAMADO EFECTUADO MEDIANTE RESOLUCIÓN EXENTA N° 536 (V. Y U.), DE 2020 - SELECCIÓN CIERRE 30 DE SEPTIEMBRE DE 2020
