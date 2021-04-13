@@ -3162,6 +3162,10 @@ Interés asegurable. El asegurado debe tener un interés asegurable, actual o fu
 
 Si el interés no llegare a existir, o cesare durante la vigencia del seguro, el contrato terminará y el asegurado tendrá derecho a la restitución de la parte de la prima no ganada por el asegurador correspondiente al tiempo no corrido.
 
+#### Artículo 520 bis
+
+Interés asegurable en los seguros asociados a obligaciones de crédito de dinero. En los seguros de daños, personas o de cualquier otro tipo contratados con el objeto de resguardar los bienes dados en garantía o asegurar el pago de una obligación de crédito de dinero, se considerará que los bancos o instituciones financieras que hubieren otorgado dichos créditos tienen un interés asegurable sobre el pago de la deuda o los bienes dados en garantía.
+
 #### Artículo 521
 
 Requisitos esenciales del contrato de seguro. Nulidad. Son requisitos esenciales del contrato de seguro, el riesgo asegurado, la estipulación de prima y la obligación condicional del asegurador de indemnizar.

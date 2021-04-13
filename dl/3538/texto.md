@@ -148,7 +148,7 @@ Las empresas de auditoría externa designadas por la Comisión estarán afectas 
 
 19. Cobrar y percibir los derechos por registro, aprobaciones y certificaciones según se establezca en ésta u otras leyes.
 
-20. Estimar el monto de los beneficios, expresado en su equivalente en unidades de fomento, que hayan percibido los infractores al Título XXI de la ley Nº 18.045, de Mercado de Valores, señalándolo en la resolución que aplique la sanción. En la estimación de los beneficios la Comisión considerará el precio de mercado promedio ponderado del valor de oferta pública en los sesenta días anteriores al de la fecha de las transacciones hechas con información privilegiada.
+20. Estimar el monto de los beneficios, expresado en su equivalente en unidades de fomento, que hayan obtenido los infractores al Título XXI de la ley Nº 18.045, de Mercado de Valores, señalándolo en la resolución que aplique la sanción. En la estimación de los beneficios la Comisión considerará tanto las ganancias que se hayan producido como las pérdidas que se hubieren evitado mediante las transacciones hechas con información privilegiada.
 
 La Comisión, para el solo efecto de velar por los intereses de los terceros perjudicados según lo previsto en el artículo 172 de la ley Nº 18.045, de Mercado de Valores, podrá solicitar al tribunal competente que decrete las medidas precautorias que la ley señala.
 
@@ -650,11 +650,11 @@ Las sociedades anónimas y empresas bancarias sujetas a la fiscalización de la 
 
 2. Multa a beneficio fiscal equivalente, alternativamente, a un monto global por sociedad de hasta:
 
-a) La suma de 15.000 unidades de fomento. En el caso de haber sido sancionado anteriormente por infracciones de la misma naturaleza, podrá aplicarse una multa de hasta cinco veces el monto máximo antes expresado.
+a) La suma de 100.000 unidades de fomento. En el caso de haber sido sancionado anteriormente por infracciones de la misma naturaleza, podrá aplicarse una multa de hasta cinco veces el monto máximo antes expresado.
 
-b) El 30% del valor de la emisión, registro contable u operación irregular.
+b) El 30% del valor de las operaciones sancionadas.
 
-c) El doble de los beneficios obtenidos producto de la emisión, registro contable u operación irregular.
+c) El doble de los beneficios obtenidos producto de las operaciones sancionadas.
 
 En los casos de las letras b y c la Comisión expresará el monto de la multa en su equivalente en unidades de fomento, señalándolo en la resolución que aplique la sanción.
 
@@ -672,11 +672,11 @@ Las personas o entidades diversas de aquéllas a que se refiere el inciso primer
 
 2. Multa a beneficio fiscal equivalente, alternativamente, a un monto global por persona o entidad de hasta:
 
-a) La suma de 15.000 unidades de fomento. En el caso de haber sido sancionado anteriormente por infracciones de la misma naturaleza, podrá aplicarse una multa de hasta cinco veces el monto máximo antes expresado.
+a) La suma de 100.000 unidades de fomento. En el caso de haber sido sancionado anteriormente por infracciones de la misma naturaleza, podrá aplicarse una multa de hasta cinco veces el monto máximo antes expresado.
 
-b) El 30% del valor de la emisión, registro contable u operación irregular.
+b) El 30% del valor de las operaciones sancionadas.
 
-c) El doble de los beneficios obtenidos producto de la emisión, registro contable u operación irregular.
+c) El doble de los beneficios obtenidos producto de las operaciones sancionadas.
 
 En los casos de las letras b y c la Comisión expresará el monto de la multa en su equivalente en unidades de fomento, señalándolo en la resolución que aplique la sanción.
 
@@ -1105,6 +1105,62 @@ El Comité establecerá en su reglamento interno un mecanismo transparente, regl
 #### Artículo 81
 
 El Comité podrá acordar memorandos de entendimiento con otras entidades de su misma especie, supervisores, bolsas, entidades académicas y otras relacionadas con los mercados financieros del sector público y privado, sean éstas nacionales o extranjeras, para la cooperación técnica, capacitación, asistencia recíproca e intercambio de cualquier tipo de información o documentación que conozca o adquiera en el ejercicio de sus funciones. Con todo, en caso que dicha información sea secreta o reservada deberá mantener dicho carácter sin perjuicio de su traspaso.
+
+## Título VII
+
+Del Denunciante Anónimo
+
+#### Artículo 82
+
+Tendrán la calidad de denunciantes anónimos y podrán acogerse a las disposiciones del presente Título, siempre y cuando así lo soliciten a la Comisión de manera expresa, quienes, de manera voluntaria y en la forma establecida por la Comisión mediante norma de carácter general, colaboren con investigaciones aportando antecedentes sustanciales, precisos, veraces, comprobables y desconocidos por ésta para la detección, constatación o acreditación de infracciones de las leyes que sean materia de competencia de la Comisión, o de la participación del presunto infractor de dichas infracciones. Esta norma de carácter general deberá contener parámetros objetivos para determinar el carácter sustancial, preciso, veraz, comprobable y desconocido de los antecedentes aportados.
+
+No obstante lo anterior, no tendrán la calidad de denunciantes anónimos quienes hayan incurrido en la conducta sancionada o tengan la calidad de víctima de la misma.
+
+Quien solicite que se le otorgue la calidad de denunciante anónimo, aportando antecedentes a sabiendas de que éstos son falsos o fraudulentos, será sancionado con las penas de presidio menor en sus grados mínimo a medio y multa de 6 a 10 unidades tributarias mensuales.
+
+#### Artículo 83
+
+La calidad de denunciante anónimo se adquiere a partir de la dictación de la resolución fundada que emita la Comisión en la que ésta manifieste que se cumple con las condiciones exigidas en el artículo 82.
+
+Esta resolución podrá dictarse en el momento que la Comisión lo estime conveniente, incluso antes del inicio de la investigación y deberá ser notificada al denunciante.
+
+La resolución de la Comisión a que se refiere el inciso primero, así como la identidad del denunciante anónimo, tendrán el carácter de secreto, salvo que el mismo denunciante renuncie a dicho anonimato.
+
+No obstante lo anterior, la identidad de aquellas personas que soliciten la calidad de denunciante anónimo y entreguen antecedentes relativos a infracciones legales de materias de competencia de la Comisión tendrá el carácter de secreto, aun cuando tales antecedentes no sean suficientes para dictar la resolución referida en el inciso primero de este artículo.
+
+Toda persona que haya tomado conocimiento de la identidad de un denunciante anónimo o de quien haya solicitado tal calidad de conformidad al inciso anterior, tendrá el deber de guardar secreto respecto de cualquier antecedente que permita identificar a dicho denunciante, siéndole aplicable la facultad de abstenerse de declarar conferida por el artículo 303 del Código Procesal Penal y la de no ser obligado a declarar conforme al artículo 360 del Código de Procedimiento Civil.
+
+La infracción del deber de guardar secreto establecida en el presente artículo se castigará con multa de 10 a 30 unidades tributarias mensuales. En caso de que el infractor desempeñare funciones en la Comisión u otro organismo público, dicha infracción será sancionada, además, con la pena de reclusión menor en cualquiera de sus grados. Asimismo, dará lugar a responsabilidad administrativa y se sancionará con destitución del cargo.
+
+#### Artículo 84
+
+El denunciante anónimo tendrá derecho a recibir un porcentaje de la multa que se aplique como consecuencia de la investigación y procedimiento en los cuales colaboró.
+
+Dicho porcentaje será definido por la Comisión en la resolución sancionatoria, conforme a parámetros objetivos establecidos en una norma de carácter general y lo dispuesto en el inciso siguiente.
+
+Con todo, el denunciante no podrá recibir un monto menor al 10 por ciento de la multa aplicada, y en ningún caso un monto superior al menor valor entre el 30 por ciento de la multa aplicada o 25.000 unidades de fomento.
+
+La normativa señalada en el inciso segundo de este artículo establecerá la forma de distribución de dicho monto cuando distintos denunciantes anónimos hubieren colaborado en las mismas conductas sancionadas.
+
+#### Artículo 85
+
+Una vez que la resolución sancionatoria respectiva se encuentre firme y la multa haya sido enterada por el infractor en la Tesorería General de la República, corresponderá a esta institución entregar a cada denunciante anónimo el monto a que se refiere el artículo anterior. La Tesorería General de la República deberá comunicar tal hecho a la Comisión tan pronto ello haya ocurrido.
+
+El monto percibido por el denunciante anónimo en virtud del presente Título no constituirá renta y las operaciones necesarias para efectuar el pago correspondiente gozarán de secreto bancario.
+
+#### Artículo 86
+
+No se podrá poner término a contratos de prestación de servicios con un denunciante anónimo, o suspender el inicio de éstos, motivado en el hecho de que éste hubiere colaborado con una investigación.
+
+Todo acto en contravención al presente artículo será nulo y, en caso de que el denunciante anónimo demandare alegando infracción de este artículo, corresponderá a la parte demandada probar que el acto no estuvo motivado por esa causa.
+
+Para efectos de acreditar la calidad de denunciante anónimo, la Comisión emitirá el certificado correspondiente a petición del tribunal en que el denunciante alega infracción a este artículo.
+
+El juicio en que se alegue contravención del presente artículo deberá someterse a los trámites del procedimiento sumario.
+
+No se podrá alegar contravención de este artículo por haberse puesto término a un contrato de prestación de servicios, después de transcurridos cinco años contados desde la fecha en que la resolución que aplicó la sanción de multa, en el proceso administrativo para el cual el denunciante anónimo colaboró, se encuentre firme.
+
+El denunciante anónimo que colabore con la Comisión, de conformidad al artículo 82, no será penal ni administrativamente responsable por efectuar dicha colaboración. Asimismo, tampoco será civilmente responsable por los perjuicios que se produzcan por el solo hecho de realizar la referida colaboración.
 
 Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio de Castro Spikula, Ministro de Hacienda.
 

@@ -22,11 +22,11 @@ Son sociedades anónimas especiales las indicadas en el Título XIII de esta ley
 
 Son sociedades anónimas cerradas las que no califican como abiertas o especiales.
 
-Las sociedades anónimas abiertas y las sociedades anónimas especiales quedarán sometidas a la fiscalización de la Superintendencia de Valores y Seguros, en adelante la Superintendencia, salvo que la ley las someta al control de otra Superintendencia. En este último caso, quedarán además sometidas a la primera, en lo que corresponda, cuando emitieren valores.
+Las sociedades anónimas abiertas y las sociedades anónimas especiales quedarán sometidas a la fiscalización de la Comisión para el Mercado Financiero, en adelante la Comisión, salvo que la ley las someta al control de alguna Superintendencia. En este último caso, quedarán además sometidas a la primera, en lo que corresponda, cuando emitieren valores.
 
 Las sociedades anónimas que dejen de cumplir las condiciones para estar obligadas a inscribir sus acciones en el Registro de Valores, continuarán afectas a las normas que rigen a las sociedades anónimas abiertas, mientras la junta extraordinaria de accionistas no acordare lo contrario por los dos tercios de las acciones con derecho a voto. En este caso, el accionista ausente o disidente tendrá derecho a retiro.
 
-Cada vez que las leyes establezcan como requisito que una sociedad se someta a las normas de las sociedades anónimas abiertas o que dichas normas le sean aplicables, o se haga referencia a las sociedades sometidas a la fiscalización, al control o a la vigilancia de la Superintendencia, o se empleen otras expresiones análogas, se entenderá, salvo mención expresa en contrario, que la remisión se refiere exclusivamente a las normas aplicables a las sociedades anónimas abiertas en cuanto a las obligaciones de información y publicidad para con los accionistas, la Superintendencia y el público en general. En todo lo demás, esas sociedades se regirán por las disposiciones de las sociedades anónimas cerradas y no estarán obligadas a inscribirse en el Registro de Valores, salvo que fueren emisores de valores de oferta pública. Las sociedades anónimas a que se refiere este inciso, que no fueren abiertas, una vez que cesare la condición o actividad en cuya virtud la ley las sometió al control de la Superintendencia, podrán solicitar a ésta la exclusión de sus registros y fiscalización, acreditando dicha circunstancia.
+Cada vez que las leyes establezcan como requisito que una sociedad se someta a las normas de las sociedades anónimas abiertas o que dichas normas le sean aplicables, o se haga referencia a las sociedades sometidas a la fiscalización, al control o a la vigilancia de la Comisión, o se empleen otras expresiones análogas, se entenderá, salvo mención expresa en contrario, que la remisión se refiere exclusivamente a las normas aplicables a las sociedades anónimas abiertas en cuanto a las obligaciones de información y publicidad para con los accionistas, la Comisión y el público en general. En todo lo demás, esas sociedades se regirán por las disposiciones de las sociedades anónimas cerradas y no estarán obligadas a inscribirse en el Registro de Valores, salvo que fueren emisores de valores de oferta pública. Las sociedades anónimas a que se refiere este inciso, que no fueren abiertas, una vez que cesare la condición o actividad en cuya virtud la ley las sometió al control de la Comisión, podrán solicitar a ésta la exclusión de sus registros y fiscalización, acreditando dicha circunstancia.
 
 Las disposiciones de la presente ley primarán sobre las de los estatutos de las sociedades que dejen de ser cerradas, por haber cumplido con algunos de los requisitos establecidos en el inciso segundo del presente artículo. Lo anterior es sin perjuicio de la obligación de estas sociedades de adecuar sus estatutos a las normas de la presente ley, conjuntamente con la primera modificación que en ellos se introduzca.
 
@@ -430,7 +430,7 @@ Además de los casos mencionados en el artículo anterior, no podrán ser direct
 
 2) Los ministros de Estado, subsecretarios, intendentes, gobernadores, secretarios regionales ministeriales y embajadores, jefes de servicio y el directivo superior inmediato que deba subrogar a cada uno de ellos, con excepción de los cargos de director de las sociedades anónimas abiertas en las que el Estado, según la ley, deba tener representantes en su administración, o sea accionista mayoritario, directa o indirectamente a través de organismos de administración autónoma, empresas fiscales, semifiscales, de administración autónoma, o aquellas en que el Estado sea accionista mayoritario;
 
-3) Los funcionarios de las superintendencias que supervisen a la sociedad respectiva o a una o más de las sociedades del grupo empresarial a que pertenece, y
+3) Los funcionarios de la Comisión que supervisen a la sociedad respectiva o a una o más de las sociedades del grupo empresarial a que pertenece, y
 
 4) Los corredores de bolsa y los agentes de valores, así como sus directores, gerentes, ejecutivos principales y administradores. Esta restricción no se aplicará en las bolsas de valores.
 
@@ -526,11 +526,13 @@ En el caso de las sociedades anónimas abiertas, se aplicará lo dispuesto en el
 
 Se presume la culpabilidad de los directores respondiendo en consecuencia, solidariamente de los perjuicios causados a la sociedad, accionistas o terceros, en los siguientes casos:
 
-1) Si la sociedad no llevare sus libros o registros;
+1) Si la sociedad no llevare sus libros o registros.
 
-2) Si se repartieren dividendos provisorios habiendo pérdidas acumuladas, respecto de los directores que concurrieron al acuerdo respectivo;
+2) Si se repartieren dividendos provisorios habiendo pérdidas acumuladas, respecto de los directores que concurrieron al acuerdo respectivo.
 
 3) Si la sociedad ocultare sus bienes, reconociere deudas supuestas o simulare enajenaciones. Se presume igualmente la culpabilidad del o de los directores que se beneficien en forma indebida, directamente o a través de otra persona natural o jurídica de un negocio social que, a su vez, irrogue perjuicio a la sociedad.
+
+4) Si se aprobaren operaciones en contravención a lo dispuesto en el artículo 44 o en el Título XVI de la presente ley, en su caso.
 
 #### Artículo 46
 
@@ -584,9 +586,9 @@ Las sociedades anónimas abiertas deberán designar al menos un director indepen
 
 Si durante el año se alcanzare el patrimonio y el porcentaje accionario a que se refiere el inciso anterior, la sociedad estará obligada a designar los directores y el comité a contar del año siguiente; si se produjere una disminución del patrimonio bursátil a un monto inferior al indicado o se redujere el porcentaje accionario antes referido, la sociedad no estará obligada a mantener los directores independientes ni el comité a contar del año siguiente.
 
-No se considerará independiente a quienes se hayan encontrado en cualquier momento dentro de los últimos dieciocho meses, en alguna de las siguientes circunstancias:
+La Comisión podrá, mediante norma de carácter general, señalar los requisitos y condiciones que deberán cumplir los directores para ser considerados como directores independientes. Sin perjuicio de lo anterior, no se considerará independiente a quienes se hayan encontrado en cualquier momento dentro de los últimos dieciocho meses, en alguna de las siguientes circunstancias::
 
-1) Mantuvieren cualquier vinculación, interés o dependencia económica, profesional, crediticia o comercial, de una naturaleza y volumen relevante, con la sociedad, las demás sociedades del grupo del que ella forma parte, su controlador, ni con los ejecutivos principales de cualquiera de ellos, o hayan sido directores, gerentes, administradores, ejecutivos principales o asesores de éstas.
+1) Mantuvieren cualquier vinculación, interés o dependencia económica, profesional, crediticia o comercial, de una naturaleza y volumen relevante, con la sociedad, las demás sociedades del grupo del que ella forma parte, su controlador, ni con los ejecutivos principales de cualquiera de ellos, o hayan sido directores, gerentes, administradores, ejecutivos principales o asesores de éstas. Para efectos de lo dispuesto en este artículo, la Comisión podrá establecer, mediante norma de carácter general, los criterios para determinar lo que se entenderá por naturaleza o volumen relevante.
 
 2) Mantuvieren una relación de parentesco hasta el segundo grado de consanguinidad o afinidad, con las personas indicadas en el número anterior.
 
@@ -598,11 +600,11 @@ No se considerará independiente a quienes se hayan encontrado en cualquier mome
 
 Para poder ser elegidos como directores independientes, los candidatos deberán ser propuestos por accionistas que representen el 1% o más de las acciones de la sociedad, con a lo menos diez días de anticipación a la fecha prevista para la junta de accionistas llamada a efectuar la elección de los directores.
 
-Con no menos de dos días de anterioridad a la junta respectiva, el candidato y su respectivo suplente, en su caso, deberán poner a disposición del gerente general una declaración jurada en que señalen que: i) aceptan ser candidato a director independiente; ii) no se encuentran en ninguna de las circunstancias indicadas en los numerales anteriores; iii) no mantienen alguna relación con la sociedad, las demás sociedades del grupo del que ella forma parte, su controlador, ni con los ejecutivos principales de cualquiera de ellos, que pueda privar a una persona sensata de un grado razonable de autonomía, interferir con sus posibilidades de realizar un trabajo objetivo y efectivo, generarle un potencial conflicto de interés o entorpecer su independencia de juicio, y iv) asumen el compromiso de mantenerse independientes por todo el tiempo en que ejerzan el cargo de director. La infracción al literal iii) no invalidará su elección ni los hará cesar en el cargo, pero obligará a responder de los perjuicios que su falta de veracidad o incumplimiento pueda causar a los accionistas.
+Con no menos de dos días de anterioridad a la junta respectiva, el candidato y su respectivo suplente, en su caso, deberán poner a disposición del gerente general una declaración jurada en que señalen que: i) aceptan ser candidato a director independiente; ii) no se encuentran en ninguna de las circunstancias indicadas en los numerales anteriores; iii) no mantienen alguna relación con la sociedad, las demás sociedades del grupo del que ella forma parte, su controlador, ni con los ejecutivos principales de cualquiera de ellos, que pueda privar a una persona sensata de un grado razonable de autonomía, interferir con sus posibilidades de realizar un trabajo objetivo y efectivo, generarle un potencial conflicto de interés o entorpecer su independencia de juicio, y iv) asumen el compromiso de mantenerse independientes por todo el tiempo en que ejerzan el cargo de director.
 
 Será elegido director independiente aquel candidato que obtenga la más alta votación.
 
-El director independiente que conforme a lo establecido en el inciso tercero adquiera una inhabilidad sobreviniente para desempeñar su cargo, cesará automáticamente en él, sin perjuicio de su responsabilidad frente a los accionistas. No dará lugar a inhabilidad la reelección del director independiente en su cargo o su designación como director en una o más filiales de la sociedad, en cuanto los directores de dichas entidades no sean remunerados.
+El director independiente que conforme a lo establecido en el inciso tercero adquiera una inhabilidad sobreviniente para desempeñar su cargo, cesará automáticamente en él, sin perjuicio de su responsabilidad frente a los accionistas. No dará lugar a inhabilidad la reelección del director independiente en su cargo.
 
 El comité tendrá las siguientes facultades y deberes:
 
@@ -612,13 +614,15 @@ El comité tendrá las siguientes facultades y deberes:
 
 3) Examinar los antecedentes relativos a las operaciones a que se refiere el Título XVI y evacuar un informe respecto a esas operaciones. Una copia del informe será enviada al directorio, en el cual se deberá dar lectura a éste en la sesión citada para la aprobación o rechazo de la operación respectiva.
 
-4) Examinar los sistemas de remuneraciones y planes de compensación de los gerentes, ejecutivos principales y trabajadores de la sociedad.
+4) Proponer al directorio una política general de manejo de conflictos de interés, y pronunciarse acerca de las políticas generales de habitualidad establecidas de conformidad a lo dispuesto en el inciso segundo del artículo 147.
 
-5) Preparar un informe anual de su gestión, en que se incluyan sus principales recomendaciones a los accionistas.
+5) Examinar los sistemas de remuneraciones y planes de compensación de los gerentes, ejecutivos principales y trabajadores de la sociedad.
 
-6) Informar al directorio respecto de la conveniencia de contratar o no a la empresa de auditoría externa para la prestación de servicios que no formen parte de la auditoría externa, cuando ellos no se encuentren prohibidos de conformidad a lo establecido en el artículo 242 de la ley Nº 18.045, en atención a si la naturaleza de tales servicios pueda generar un riesgo de pérdida de independencia.
+6) Preparar un informe anual de su gestión, en que se incluyan sus principales recomendaciones a los accionistas.
 
-7) Las demás materias que señale el estatuto social, o que le encomiende una junta de accionistas o el directorio, en su caso.
+7) Informar al directorio respecto de la conveniencia de contratar o no a la empresa de auditoría externa para la prestación de servicios que no formen parte de la auditoría externa, cuando ellos no se encuentren prohibidos de conformidad a lo establecido en el artículo 242 de la ley Nº 18.045, en atención a si la naturaleza de tales servicios pueda generar un riesgo de pérdida de independencia.
+
+8) Las demás materias que señale el estatuto social, o que le encomiende una junta de accionistas o el directorio, en su caso.
 
 El comité estará integrado por tres miembros, la mayoría de los cuales deberán ser independientes. En caso que hubiese más directores con derecho a integrar el comité, según corresponda, en la primera reunión del directorio después de la junta de accionistas en que se haya efectuado su elección, los mismos directores resolverán, por unanimidad, quiénes lo habrán de integrar. En caso de desacuerdo, se dará preferencia a la integración del comité por aquellos directores que hubiesen sido electos con un mayor porcentaje de votación de accionistas que individualmente controlen o posean menos del 10% de tales acciones. Si hubiese solamente un director independiente, éste nombrará a los demás integrantes del comité de entre los directores que no tengan tal calidad, los que gozarán de plenos derechos como miembros del mismo. El presidente del directorio no podrá integrar el comité ni sus subcomités, salvo que sea director independiente.
 
@@ -880,9 +884,9 @@ Para ejercer el derecho a retiro, el accionista deberá manifestarlo por escrito
 
 El precio a pagar por la sociedad al accionista que ejerza el derecho a retiro, en conformidad a lo dispuesto en el artículo 106 del decreto ley N° 3.500, de 1980, en el artículo 56 del decreto con fuerza de ley N° 251, de 1931, o en el inciso primero de este artículo será el equivalente al precio promedio ponderado de las transacciones bursátiles de las acciones de que se trate, en los seis meses precedentes al día de la publicación del acuerdo desaprobatorio de la Comisión Clasificadora de Riesgo o clasificación de las entidades clasificadoras, según corresponda, que motiva el retiro. Para el cálculo del precio promedio ponderado, deberá considerarse la variación experimentada por la unidad de fomento entre el día de cada transacción y el día precedente al de la publicación del acuerdo o clasificaciones correspondientes.
 
-Sin embargo, el precio a pagar al accionista que ejerza el derecho a retiro cuando las acciones de la sociedad dejen de tener transacción bursátil o si teniéndola, no alcancen a establecer un valor de acuerdo a las normas que se dicten por la Superintendencia al efecto, será el valor de libros, conforme se determina en el Reglamento de esta ley.
+Sin embargo, el precio a pagar al accionista que ejerza el derecho a retiro cuando las acciones de la sociedad dejen de tener transacción bursátil o si teniéndola, no alcancen a establecer un valor de acuerdo a las normas que se dicten por la ComisiónL al efecto, será el valor de libros, conforme se determina en el Reglamento de esta ley.
 
-El pago del precio deberá efectuarse dentro de los 60 días siguientes a la fecha de vencimiento del plazo a que se refiere el inciso tercero de este artículo. Si no se pagare dentro de dicho término, el precio deberá expresarse en unidades de fomento y devengará intereses corrientes para operaciones reajustables, a contar del vencimiento del plazo antes señalado. Para el cobro del mismo, tendrá mérito ejecutivo la certificación que otorgue la Superintendencia respecto de las publicaciones que hayan hecho las clasificadoras de riesgo o la Comisión, en su caso, y el título de las acciones o el documento que haga sus veces. Asimismo, gozará de igual mérito la certificación de la Superintendencia acerca de la copia del acta, o de una parte de ella, a que se refiere el inciso siguiente.
+El pago del precio deberá efectuarse dentro de los 60 días siguientes a la fecha de vencimiento del plazo a que se refiere el inciso tercero de este artículo. Si no se pagare dentro de dicho término, el precio deberá expresarse en unidades de fomento y devengará intereses corrientes para operaciones reajustables, a contar del vencimiento del plazo antes señalado. Para el cobro del mismo, tendrá mérito ejecutivo la certificación que otorgue la Comisión respecto de las publicaciones que hayan hecho las clasificadoras de riesgo o la Comisión Clasificadora de Riesgos, en su caso, y el título de las acciones o el documento que haga sus veces. Asimismo, gozará de igual mérito la certificación de la Comisión acerca de la copia del acta, o de una parte de ella, a que se refiere el inciso siguiente.
 
 Si los accionistas que ejercieren el derecho a retiro representaren un porcentaje igual o superior a un tercio de las acciones emitidas, el directorio deberá citar a junta extraordinaria de accionistas, dentro de los 60 días siguientes de transcurrido el plazo a que se refiere el inciso tercero de este artículo, a fin de que la sociedad representada por su directorio, convenga con los accionistas disidentes que representen el voto conforme de los dos tercios de las acciones que hayan ejercido el derecho a retiro, las condiciones y plazos para el pago de la deuda que se genere como consecuencia de ello. Este acuerdo será obligatorio para los demás accionistas disidentes. Para los accionistas que no hubieren ejercido el derecho a retiro, esta junta tendrá el carácter de informativa y estos accionistas no serán considerados para efectos de quórum ni tendrán derecho a voto.
 
@@ -1046,6 +1050,8 @@ Es sociedad filial de una sociedad anónima, que se denomina matriz, aquella en 
 
 La sociedad en comandita será también filial de una anónima, cuando ésta tenga el poder para dirigir u orientar la administración del gestor.
 
+La Comisión podrá requerir la información que considere pertinente para efectos de fiscalizar el cumplimiento de las disposiciones de la presente ley a las sociedades filiales de una sociedad anónima abierta, sin importar su forma jurídica. El incumplimiento en la entrega de la información así requerida podrá ser sancionado por la precitada Comisión de conformidad a lo dispuesto en el Título III del decreto ley Nº 3.538, del Ministerio de Hacienda, de 1980, cuyo texto fue reemplazado por el artículo primero de la ley Nº 21.000, que crea la Comisión para el Mercado Financiero.
+
 #### Artículo 87
 
 Es sociedad coligada con una sociedad anónima aquella en la que ésta, que se denomina coligante, sin controlarla, posee directamente o a través de otra persona natural o jurídica el 10% o más de su capital con derecho a voto o del capital, si no se tratare de una sociedad por acciones, o pueda elegir o designar o hacer elegir o designar por lo menos un miembro del directorio o de la administración de la misma.
@@ -1081,6 +1087,10 @@ Sin perjuicio de lo dispuesto en el artículo anterior, la Comisión podrá esta
 #### Artículo 92
 
 Los directores de una sociedad matriz, aunque no sean miembros del directorio de una sociedad filial o administradores de la misma, podrán asistir con derecho a voz, a las reuniones de dichos directorios o a las de los administradores, en su caso, y tendrán además, facultad para imponerse de los libros y antecedentes de la sociedad filial.
+
+#### Artículo 92 bis
+
+El directorio de la sociedad matriz de una sociedad fiscalizada por la Comisión deberá establecer y difundir una política general de elección de directores en sus sociedades filiales, la que deberá contener las menciones mínimas que al efecto establezca la Comisión, mediante norma de carácter general.
 
 #### Artículo 93
 
@@ -1446,7 +1456,7 @@ Las disposiciones de esta ley primarán sobre cualquiera norma de los estatutos 
 
 #### Artículo 137 bis
 
-La Superintendencia determinará, mediante norma de carácter general, los medios alternativos a través de los cuales las sociedades fiscalizadas podrán enviar o poner a disposición de sus accionistas, los documentos, información y comunicaciones que establece esta ley.
+La Comisión determinará, mediante norma de carácter general, los medios alternativos a través de los cuales las sociedades fiscalizadas podrán enviar o poner a disposición de sus accionistas, los documentos, información y comunicaciones que establece esta ley.
 
 #### Artículo 138
 
@@ -1786,9 +1796,15 @@ No obstante lo dispuesto en los números anteriores, las siguientes operaciones 
 
 a) Aquellas operaciones que no sean de monto relevante. Para estos efectos, se entiende que es de monto relevante todo acto o contrato que supere el 1% del patrimonio social, siempre que dicho acto o contrato exceda el equivalente a 2.000 unidades de fomento y, en todo caso, cuando sea superior a 20.000 unidades de fomento. Se presume que constituyen una sola operación todas aquellas que se perfeccionen en un periodo de 12 meses consecutivos por medio de uno o más actos similares o complementarios, en los que exista identidad de partes, incluidas las personas relacionadas, u objeto.
 
-b) Aquellas operaciones que, conforme a políticas generales de habitualidad, determinadas por el directorio de la sociedad, sean ordinarias en consideración al giro social. En este último caso, el acuerdo que establezca dichas políticas o su modificación será informado como hecho esencial y puesto a disposición de los accionistas en las oficinas sociales y en el sitio en Internet de las sociedades que cuenten con tales medios, sin perjuicio de informar las operaciones como hecho esencial cuando corresponda.
+b) Aquellas que, conforme a la política de operaciones habituales aprobada por el directorio, sean ordinarias en consideración al giro social. El acuerdo que establezca estas políticas o su modificación deberá contar con el pronunciamiento del Comité de Directores y será informado a la Comisión como hecho esencial cuando corresponda.
+
+La política de operaciones habituales a que se refiere el presente literal deberá contener las menciones mínimas que establezca la Comisión mediante una norma de carácter general, y mantenerse permanentemente a disposición de los accionistas en las oficinas sociales y en el sitio web institucional de las sociedades que cuenten con tales medios.
+
+Con todo, la política referida precedentemente no podrá autorizar la suscripción de actos o contratos que comprometan más del 10% del activo de la sociedad.
 
 c) Aquellas operaciones entre personas jurídicas en las cuales la sociedad posea, directa o indirectamente, al menos un 95% de la propiedad de la contraparte.
+
+Sin perjuicio de lo dispuesto en los incisos precedentes, la Comisión podrá requerir que las sociedades difundan a los accionistas y al público general el detalle de las operaciones con partes relacionadas que hubieren sido realizadas. Dicha difusión se llevará a cabo en la forma, plazo, periodicidad y condiciones que establezca la referida Comisión mediante norma de carácter general.
 
 #### Artículo 148
 
@@ -1800,7 +1816,7 @@ Sin perjuicio de las sanciones que correspondan, la infracción a este artículo
 
 #### Artículo 149
 
-Las disposiciones de este título serán aplicables tanto a las sociedades anónimas abiertas como a todas sus filiales, sin importar la naturaleza jurídica de éstas.
+Las disposiciones de este título serán aplicables, sin perjuicio de las demás disposiciones de la presente ley, tanto a las sociedades anónimas abiertas como a todas sus filiales, sin importar la naturaleza jurídica de éstas.
 
 ## Título XVII
 
