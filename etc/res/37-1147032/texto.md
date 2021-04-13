@@ -342,7 +342,7 @@ En caso de mora del IFNB, la tasa pactada se elevará a la tasa máxima legal vi
 
 La exposición máxima de Corfo con un IFNB corresponderá al valor mínimo entre:
 
-a) UF 1.000.000;
+a) MM$ 1.000;
 
 b) Hasta 1,5 veces su patrimonio, considerándose para este efecto a las empresas relacionadas en propiedad con el IFNB, de conformidad a lo dispuesto en el artículo Nº 100 de la ley Nº 18.045 sobre Mercado de Valores; o
 
