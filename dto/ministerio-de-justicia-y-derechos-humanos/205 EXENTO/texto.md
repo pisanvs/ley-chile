@@ -1,0 +1,29 @@
+AUTORIZA CIRCULACIÓN Y EXCEPTÚA DEL USO DE DISCO FISCAL A VEHÍCULO DE LA DEFENSORÍA PENAL PÚBLICA, EN LOS TÉRMINOS QUE INDICA
+
+Santiago, 21 de enero de 2021.– Hoy se decretó lo que sigue:
+
+Núm. 205 exento.
+
+Vistos:
+
+Lo dispuesto en el decreto con fuerza de ley Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fijó el texto Refundido, Coordinado y Sistematizado de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la ley Nº 19.880, que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; en el decreto con fuerza de ley Nº 3, de 2016, de esta Secretaría de Estado, que Fija el Texto Refundido, Coordinado y Sistematizado de la Ley Orgánica del Ministerio de Justicia y Derechos Humanos; en el decreto supremo Nº 1.597, de 1980, del Ministerio de Justicia, que Aprueba el Reglamento Orgánico del Ministerio de Justicia; en la ley Nº 19.718, que Crea la Defensoría Penal Pública; en el decreto ley Nº 799, de 1974, del Ministerio del Interior, que dicta Disposiciones que Regulan Uso y Circulación de Vehículos Estatales; en el decreto supremo Nº 19, de 2001, del Ministerio Secretaría General de la Presidencia, que Faculta a los Ministros de Estado para firmar "Por Orden del Presidente de la República"; en la Circular Nº 35.593, de 1995 y en la resolución Nº 7 de 2019, ambas de la Contraloría General de la República; y en la demás normativa aplicable.
+
+Considerando:
+
+1. Que, conforme a lo dispuesto en el artículo 1º del decreto ley Nº 799, de 1974, del Ministerio del Interior, que Regula Uso y Circulación de Vehículos Estatales, se prohíbe la circulación de vehículos fiscales en días sábado en la tarde, domingo y festivos, eximiéndose a aquellos vehículos "que corresponden a reparticiones que, por la naturaleza de las funciones que desempeñan, deben mantenerlos en circulación durante esos días. La autorización respectiva deberá darse mediante decreto supremo fundado del Ministerio que corresponda a la entidad y organismo al cual estén asignados dichos vehículos, el que deberá ser firmado, además, por el Ministro del Interior".
+
+2. Que, el mismo decreto ley Nº 799, de 1974, en su artículo 3º, establece que "(...) todo vehículo de propiedad de los organismos o entidades señaladas en el inciso primero del artículo 1º del presente decreto ley, cualesquiera que fuere su estatuto legal, lleve pintado en colores azul y blanco, en ambos costados, en la parte exterior, un disco de 30 centímetros de diámetro, insertándose en su interior, en la parte superior, el nombre del servicio público a que pertenece; en la parte inferior, en forma destacada la palabra "Estatal" y en el centro un escudo de color azul fuerte (...). Tampoco regirá la exigencia establecida en el inciso primero de este artículo, respecto de aquellos vehículos expresamente exceptuados mediante decreto supremo fundado del Ministerio que corresponda a la entidad u organismo al cual estén asignados dichos vehículos, el que deberá ser firmado, además, por el Ministro del Interior.".
+
+3. Que, la Defensoría Penal Pública mediante Oficio Institucional Nº 345, de 31 de julio de 2020, informó que cuenta entre su dotación de vehículos, con el automóvil Station Wagon, marca Mazda, modelo All New CX 5 R 2.0, año 2020, color gris metálico, número de chasis JM7KF2W76L0380032, número motor PE31528033, placa patente única PCDK.37-6, destinado principalmente para la Defensoría Regional de Antofagasta y del Defensor Regional, para su uso dentro de la región en el cumplimiento de las obligaciones propias de su cargo, con actuación en distintos tribunales de la jurisdicción y representación institucional en toda clase de actividades judiciales y administrativas. Así también, se encuentra destinado para traslado de funcionarios/as, particularmente abogados/as, que deben acudir a distintas localidades con el objeto de asumir la representación de usuarios/as, asistir a audiencias y otras diligencias relacionadas. Estas labores se realizan de lunes a domingo, todos los días del año. Además, indica, respecto a la exención del signo distintivo fiscal, que el vehículo podría ser objeto de daños y los funcionarios que traslada de agresiones producto de la acción de terceros, cuestión que se vería favorecida al identificarse el automóvil como propiedad de la Defensoría Penal Pública.
+
+4. Que, por encontrarse debidamente fundadas las razones expuestas por el Defensor Nacional de la Defensoría Penal Pública, corresponde autorizar la circulación del vehículo individualizado en el considerando anterior, en días sábado en la tarde, domingo y festivos, y eximirlo del uso del disco distintivo fiscal, en ambos casos, en los términos y la forma establecida en el citado decreto ley Nº 799, de 1974.
+
+Decreto:
+
+1. Autorízase la circulación los días sábado en la tarde, domingo y festivos del vehículo de la Defensoría Penal Pública asignado a la Región de Antofagasta, automóvil Station Wagon, marca Mazda, modelo All New CX 5 R 2.0, año 2020, color gris metálico, número de chasis JM7KF2W76L0380032, número motor PE31528033, placa patente única PCDK.37-6.
+
+2. Exceptúase de la utilización del distintivo que señala el artículo 3º del citado DL Nº 799, de 1974, del Ministerio del Interior, al vehículo asignado a la Defensoría Penal Pública descrito en el punto precedente.
+
+Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Hernán Larraín Fernández, Ministro de Justicia y Derechos Humanos.- Rodrigo Delgado Mocarquer, Ministro del Interior y Seguridad Pública.
+
+Lo que transcribo para su conocimiento.- Saluda atentamente, Mónica Naranjo L., Subsecretaria de Justicia (S).
