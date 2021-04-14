@@ -1,0 +1,29 @@
+AUTORIZA CIRCULACIÓN Y EXCEPTÚA DEL USO DE DISCO FISCAL A VEHÍCULO DE LA DEFENSORÍA PENAL PÚBLICA, EN LOS TÉRMINOS QUE INDICA
+
+Santiago, 21 de enero de 2021.- Hoy se decretó lo que sigue:
+
+Núm. 210 exento.
+
+Vistos:
+
+Lo dispuesto en el DFL Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fijó el texto Refundido, Coordinado y Sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la ley Nº 19.880, que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; en el decreto con fuerza de ley Nº 3, de 2016, de esta Secretaría de Estado, que fija el texto Refundido, Coordinado y Sistematizado de la Ley Orgánica del Ministerio de Justicia y Derechos Humanos; en el decreto supremo Nº 1.597, de 1980, del Ministerio de Justicia, que Fija el Reglamento Orgánico del Ministerio de Justicia; en la ley Nº 19.718, que crea la Defensoría Penal Pública; en el decreto ley Nº 799, de 1974, del Ministerio del Interior, que dicta Disposiciones que Regulan Uso y Circulación de Vehículos Estatales; en el decreto supremo Nº 19, de 2001, del Ministerio Secretaría General de la Presidencia, que Faculta a los Ministros de Estado para firmar "Por orden del Presidente de la República"; en el Oficio Presidencial Nº 002, de 2019; en la circular Nº 35.593, de 1995 y en la resolución Nº 7, de 2019, ambas de la Contraloría General de la República; y en la demás normativa aplicable.
+
+Considerando:
+
+1.- Que, conforme a lo dispuesto en el artículo 1º del decreto ley Nº 799, de 1974, del Ministerio del Interior, que Regula Uso y Circulación de Vehículos Estatales, se prohíbe la circulación de vehículos fiscales en días sábado en la tarde, domingo y festivos, eximiéndose a "aquellos vehículos que corresponden a reparticiones que, por la naturaleza de las funciones que desempeñan, deben mantenerlos en circulación durante esos días. La autorización respectiva deberá darse mediante decreto supremo fundado del Ministerio que corresponda a la entidad y organismo al cual estén asignados dichos vehículos, el que deberá ser firmado, además, por el Ministro del interior".
+
+2.- Que, el mismo decreto ley Nº 799, de 1974, en su artículo 3º, establece que "(...) todo vehículo de propiedad de los organismos o entidades señaladas en el inciso primero del artículo 1º del presente decreto ley, cualesquiera que fuere su estatuto legal, lleve pintado en colores azul y blanco, en ambos costados, en la parte exterior, un disco de 30 centímetros de diámetro, insertándose en su interior, en la parte superior, el nombre del servicio público a que pertenece; en la parte inferior, en forma destacada la palabra "ESTATAL" y en el centro un escudo de color azul fuerte. (...) Tampoco regirá la exigencia establecida en el inciso primero de este artículo, respecto de aquellos vehículos expresamente exceptuados mediante decreto supremo fundado del Ministerio que corresponda a la entidad u organismo al cual estén asignados dichos vehículos, el que deberá ser firmado, además, por el Ministro del Interior.".
+
+3.- Que, la Defensoría Penal Pública mediante oficio DN Nº 376, de 29 de agosto de 2019, informó que cuenta entre su dotación de vehículos, con el automóvil Sedan, marca Subaru, modelo All New Legacy XS AWD 2.5I Aut., año 2016, color blanco cristal perlado, número de chasis JF1BN9LC2FG004501, número motor Y002068, número de patente HTYL 72-9, asignado a la Región del Biobío, que es utilizado para el desarrollo de sus funciones propias e inherentes, para cuyo cumplimiento resulta imprescindible que permanezca en libre circulación durante los días sábado, domingo y festivos, dado que es utilizado tanto por el (la) Defensor(a) Regional para el desempeño de las obligaciones propias de su cargo, como también por funcionarios(as), particularmente abogados/as que deben acudir a distintas localidades con el objeto de asumir la representación de usuarios, asistir a audiencias y otras diligencias relacionadas. Estas labores se realizan de lunes a domingo, todos los días del año. Además indica, que la identificación de los vehículos institucionales con el signo distintivo fiscal, expone a los/as funcionarios/as que se transportan en ellos a agresiones de la ciudadanía y en especial a familiares de las víctimas.
+
+4.- Que, por encontrarse debidamente fundadas las razones expuestas por el Defensor Nacional de la Defensoría Penal Pública, corresponde autorizar la circulación del vehículo individualizado en el considerando anterior, en días sábado en la tarde, domingo y festivos, y eximirlo del uso del disco distintivo fiscal, en ambos casos, en los términos y la forma establecida en el citado decreto ley Nº 799, de 1974.
+
+Decreto:
+
+1º.- Autorízase la circulación los días sábado en la tarde, domingo y festivos del vehículo de la Defensoría Penal Pública asignado a la Región del Biobío, vehículo Sedan, marca Subaru, modelo All New Legacy XS AWD 2.5I Aut., año 2016, color blanco cristal perlado, número de chasis JF1BN9LC2FG004501, número motor Y002068, número de patente HTYL 72-9.
+
+2º.- Exceptúase de la utilización del distintivo que señala el artículo 3º del citado DL Nº 799, de 1974, del Ministerio del Interior, al vehículo asignado a la Defensoría Penal Pública descrito en el punto precedente.
+
+Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Hernán Larraín Fernández, Ministro de Justicia y Derechos Humanos.- Rodrigo Delgado Mocarquer, Ministro del Interior y Seguridad Pública.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente, Mónica Naranjo L., Subsecretaria de Justicia (S).
