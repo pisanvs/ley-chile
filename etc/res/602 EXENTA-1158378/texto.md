@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 602 del 30 de marzo de 2021, Serviu Región del Biobío ordenó expropiación parcial de inmueble ubicado en Collao 1635, Rol de Avalúo N° 320-24, comuna de Concepción, de aparente dominio de Mosciatti Olivieri Nibaldo Fabrizio. La superficie afecta a expropiación parcial de terreno es de 73,82 m2 (lote 154) y 0,00 m2 de expropiación de edificación, cuyos deslindes son: Norte: Tramo AB en 15,00 m con resto de inmueble rol 320-24; Oriente: Tramo BC en 4,84 m con inmueble Rol 320-25; Sur: Tramo CD en 15,00 m con Avenida Ignacio Collao; Poniente: Tramo DA en 5,00 m con inmueble rol 320-23, conforme a plano de expropiación S8R-39344-3 del mes de octubre de 2020, para la ejecución de la obra "Mejoramiento Avenida Par Vial Collao - General Novoa", comuna de Concepción, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Rubén Carlos Muñoz Vera, por la arquitecta Victoria Eugenia García Silvera y por la arquitecta Daniela Andrea Cortez Moraga, según informe de fecha 24.12.2020, que fijó monto provisional en $13.407.591.-, pagadero de contado.-
+
+Director Serviu Región del Biobío.
