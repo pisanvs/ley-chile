@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 71, de 26 de marzo de 2021, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 5, Rol de avalúo 3283-141, Comuna de Padre Las Casas, superficie 182 m2., para la obra: MEJORAMIENTO CBI CRUCE S-269 GENERAL LÓPEZ - PADRE LAS CASAS, COMUNA DE PADRE LAS CASAS, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por CLAUDIO HERNÁN ANGULO SOTOMAYOR, EVALDO ROBERTO CONTRERAS ROA y PABLO ALEX MANSILLA ARAVENA, fijó el valor de tasación con fecha 29 de marzo de 2019, acordándose la indemnización con su propietaria JAQUELIN o JACQUELINE ELIANA CONTRERAS SANDOVAL, en la cantidad total de $3.661.489.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
