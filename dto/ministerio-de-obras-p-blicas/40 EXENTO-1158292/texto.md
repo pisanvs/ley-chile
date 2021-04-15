@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº40, de 18 de marzo de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 8, para la obra: CONCESIÓN SISTEMA AMÉRICO VESPUCIO NOR-PONIENTE, AV. EL SALTO - RUTA 78 "PID OBRAS TRAMO 6" MEJORAMIENTO CONEXION AMERICO VESPUCIO CON SAN PABLO Y RUTA 68 KM 4.800,00 AL KM 6.600,00, que figura a nombre de PRINCIPAL CIA DE SEG DE VIDA CHI, rol de avalúo 5700-4, Comuna de PUDAHUEL, REGION METROPOLITANA DE SANTIAGO, superficie 1.023 m2. La Comisión de Peritos integrada por GUSTAVO EDUARDO PICERO GARCIA, CAROLINA CLAUDIA VERDEJO DIAZ y NICOLÁS ALEJANDRO ALARCÓN SÁNCHEZ, mediante informe de tasación de 28 de agosto de 2020, fijó el monto de la indemnización provisional en la cantidad de $108.858.000 para el lote Nº8. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
