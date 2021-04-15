@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº41, de 18 de marzo de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.11 y 12, para la obra: CONCESIÓN SISTEMA AMÉRICO VESPUCIO NOR-PONIENTE, AV. EL SALTO -RUTA 78 "PID OBRAS TRAMO 6" AMPLIACION A CUARTAS PISTAS KM 8.600,00 AL KM 13.540,00, que figura a nombre de CONSTRUCTORA AVELLANEDA LTDA y SERVIHABIT S A, roles de avalúo 2247-21 y 2247-22, Comuna de MAIPU, REGION METROPOLITANA DE SANTIAGO, superficies 20 y 27 m2 respectivamente. La Comisión de Peritos integrada por CAROLINA ALEJANDRA BRITO RAMOS, ANDRÉS ECHEVERRIA CAMPO y PAULINA LORENA JADUE ZAROR, mediante informe de tasación de 18 de agosto de 2020, fijó el monto de la indemnización provisional en la cantidad de $10.758.000 para el lote Nº11, y $12.330.100 para el lote Nº12. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
