@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 37 de 18 de marzo de 2021, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nº 316 y Nº 318 para la obra: MEJORAMIENTO RUTA NAHUELBUTA.SECTOR A. SUBSECTOR 2: RUTA 5 - PUENTE COIHUE, Región del Biobío, que figuran a nombre de INMOBILIARIA E INVERSIONES LICANCAB en los dos casos, roles de avalúo 1554-258 y 1554-257 de la comuna de Los Ángeles, superficies 3.929 m2 y 1.947 m2 respectivamente. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 283 de 9 de octubre de 2020, integrada por Patricio Antonio Rivera Castro, Pablo Alex Mansilla Aravena y Ángel Mauricio Cáceres Barra, fijó con fecha 27 de noviembre de 2020, el valor provisional de las indemnizaciones en las cantidades de $19.292.800 para el lote Nº 316 y $17.936.104 para el lote Nº 318. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
