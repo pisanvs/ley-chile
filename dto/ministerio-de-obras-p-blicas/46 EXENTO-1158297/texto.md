@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 46, de 23 de marzo de 2021, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº 206 de 1960 y artículo 12º de la Ley Nº 18.777, se expropió para la EMPRESA AGUAS ANDINAS S.A., el lote de terreno Nº 6, para la obra: PTAS LAS VERTIENTES, que figura a nombre de CATALAN ROMAN GLADYS DEL CARMEN Y O CATALAN SALGADO FELIPE GABRIEL Y OT ARIDOS CATALAN AC SPA, roles de avalúo 1051-13, 1001-29 y 1001-71, Comuna de SAN JOSE DE MAIPO, REGION METROPOLITANA DE SANTIAGO, superficie 510,68 m2. La Comisión de Peritos integrada por ANDRES ECHEVERRIA CAMPO, MATIAS RAFAEL NORERO URRUTIA y NESTOR ROBERTO PERALTA TORO, mediante informe de tasación de 13 de octubre de 2020, fijó el monto de la indemnización provisional en la cantidad de $14.622.040.- para el lote Nº6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
