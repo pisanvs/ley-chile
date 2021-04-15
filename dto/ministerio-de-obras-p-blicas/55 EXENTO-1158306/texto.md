@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por decreto exento MOP N° 55 de 23 de marzo de 2021, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 39-1 para la obra: AUTOPISTA SANTIAGO - SAN ANTONIO. SECTOR: TERCERAS PISTAS SANTIAGO - TALAGANTE. TRAMO: KM. 19.300,00 A KM. 39.100,00, Región Metropolitana de Santiago, que figura a nombre de CHIMENTI AGRI ALFREDO ORLANDO, rol de avalúo 503-25 de la comuna de Talagante, superficie 58 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 133 de 6 de agosto de 2020, integrada por Jesús Fernando Díaz Pasmiño, Rayén Alejandra Guzmán Theoduloz y Sergio Alejandro Ayala Espinoza, fijó con fecha 8 de septiembre de 2020, el valor provisional de la indemnización en la cantidad de $1.038.200 para el lote N° 39-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.
+
+Fiscalía MOP.
