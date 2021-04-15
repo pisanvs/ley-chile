@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento Nº 75, de 26 de marzo de 2021, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 6, Rol de avalúo 376-275, Comuna de Mariquina, superficie 294 m2., para la obra: CONSTRUCCIÓN SEGUNDO ACCESO A SAN JOSÉ DE LA MARIQUINA, COMUNA DE MARIQUINA, PROVINCIA DE VALDIVIA, REGIÓN DE LOS RÍOS. La comisión de peritos, integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, YASCHALA MARIBEL YÁÑEZ RIFFO y MARÍA SOLEDAD NÚÑEZ ARROYO, fijó el valor de tasación con fecha 09 de noviembre de 2018, acordándose la indemnización con su propietario LUIS GERMÁN ÁLVAREZ SEPÚLVEDA, en la cantidad total de $6.000.719.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
