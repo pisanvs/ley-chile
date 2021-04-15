@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 88 de 26 de marzo de 2021, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 7, Rol de avalúo 202-135, comuna de Curacautín, superficie 827 m2., para la obra REPOSICIÓN RUTA 181-CH CURACAUTÍN - MALALCAHUELLO, COMUNA DE CURACAUTÍN, PROVINCIA DE MALLECO, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por EVALDO ROBERTO CONTRERAS ROA, CLAUDIO HERNÁN ANGULO SOTOMAYOR y PABLO ALEX MANSILLA ARAVENA, fijó el valor de tasación con fecha 25 de mayo de 2018, acordándose la indemnización con su propietaria ANA JESÚS IBÁÑEZ FIERRO, en la cantidad de $6.912.642.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
