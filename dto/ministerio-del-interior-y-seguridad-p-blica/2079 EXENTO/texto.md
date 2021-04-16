@@ -14,25 +14,7 @@ Autorízase la circulación en días sábados en la tarde, domingos y festivos, 
 
 Fiscal Regional Metropolitano Centro Norte
 
-Vehículo : Automóvil
-
-Marca : Honda
-
-Modelo : Accord EX L 2.4 Aut
-
-Año : 2012
-
-Motor : K24Z2-5005363
-
-Chasis : 1HGCP2680CA500080
-
-Color : Gris Grafito
-
-I.N.R.V.M. : DYCW. 71-6
-
-Placa única : DYCW. 71.
-
-> **Nota.** El artículo quinto del Decreto 668 Exento, Interior, publicado el 04.06.2019, modifica la presente norma en el sentido que el vehículo asignado al uso del Fiscal Regional Metropolitano Centro Norte fue redestinado al uso del Fiscal Regional de la Región del Maule.
+Derogado.
 
 #### Artículo segundo
 

@@ -18,23 +18,7 @@ Autorízase la circulación en horario inhábil y en días sábados en la tarde,
 
 Fiscalía Regional del Maule:
 
-Vehículo : Automóvil
-
-Marca : Ford
-
-Modelo : Fusión SE 2.0L AT ECOBOOST
-
-Año : 2015
-
-Motor : FR255234
-
-Chassis : 3FA6POH95FR255234
-
-Color : Gris metálico
-
-I.N.R.V.M: HCZW.97-1
-
-Patente : HCZW-97.
+Derogado.
 
 #### Artículo segundo
 
