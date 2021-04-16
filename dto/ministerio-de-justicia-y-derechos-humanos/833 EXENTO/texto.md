@@ -1,0 +1,45 @@
+CREA SECCIÓN JUVENIL AL INTERIOR DEL CENTRO PENITENCIARIO FEMENINO DE ARICA Y MODIFICA DECRETO N° 4.069 EXENTO, DE 2007, DEL MINISTERIO DE JUSTICIA, QUE CREA SECCIONES JUVENILES EN LOS ESTABLECIMIENTOS PENITENCIARIOS QUE INDICA
+
+Santiago, 12 de abril de 2021.- Hoy se decretó lo que sigue:
+
+Núm. 833 exento.
+
+Vistos:
+
+Lo dispuesto en el decreto supremo N° 100, de 2005, del Ministerio Secretaría General de la Presidencia, que Fija el Texto Refundido, Coordinado y Sistematizado de la Constitución Política de la República de Chile; en el Código Penal; en el decreto con fuerza de ley N° 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia de la República, que Fija el Texto Refundido, Coordinado y Sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la ley N° 19.880, que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; en la ley N° 20.084, que Establece un Sistema de Responsabilidad de los Adolescentes por Infracciones a la Ley Penal; en el decreto supremo N° 1.378, de 2006, que Aprueba el Reglamento de la Ley N° 20.084 que Establece un Sistema de Responsabilidad de los Adolescentes por Infracciones a la Ley Penal; en el decreto con fuerza de ley N° 3, de 2016, de esta Secretaría de Estado, que Fija el Texto de la Ley Orgánica del Ministerio de Justicia y Derechos Humanos; en el decreto supremo N° 1.597, de 1980, del Ministerio de Justicia, que Aprueba el Reglamento Orgánico del Ministerio de Justicia; en el decreto ley N° 2.859, de 1979, que Fija Ley Orgánica de Gendarmería de Chile; en el decreto supremo N° 518, de 1998, del Ministerio de Justicia, que Aprueba el Reglamento de Establecimientos Penitenciarios; en el decreto N° 261, de 1999, del Ministerio de Justicia, que Crea Establecimientos Penitenciarios que indica bajo denominación "Complejo Penitenciario de Arica"; en el decreto exento N° 4.069, de 2007, del Ministerio de Justicia, que Crea Secciones Juveniles en los Establecimientos Penitenciarios que indica; en los decretos exentos N° 3.660, de 2013 y N° 2.160, de 2016, ambos del Ministerio de Justicia, que Modifican decreto exento N° 4.069, de 2007, del Ministerio de Justicia, que Crea Secciones Juveniles en los Establecimientos Penitenciarios que indica; en el decreto supremo N° 392, de 2019, del Ministerio de Justicia y Derechos Humanos, que Crea Centro Penitenciario Femenino de Arica, Suprime Centro Penitenciario Femenino ubicado al interior del Complejo Penitenciario de Arica y Modifica decreto supremo N° 261, de 1999, del Ministerio de Justicia; en los oficios Ord. N° 14.00.00.647/2019, de 8 de mayo y N° 14.30.00.1010/19, de 15 de julio, ambos de 2019, del Director Nacional de Gendarmería de Chile; y lo contemplado en la resolución N° 7, de 2019, de Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón, y en la demás normativa aplicable.
+
+Considerando:
+
+1. Que, la ley N° 20.084, establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal, prescribiendo en su artículo 48 el Principio de Separación, que señala que "Las personas que se encontraren privadas de libertad por la aplicación de alguna de las sanciones o medidas previstas en esta ley, sea en forma transitoria o permanente, en un lugar determinado o en tránsito, deberán permanecer siempre separadas de los adultos privados de libertad". Agregando que "Las instituciones encargadas de practicar detenciones, de administrar los recintos en que se deban cumplir sanciones o medidas que implican la privación de libertad, los administradores de los tribunales y, en general, todos los organismos que intervengan en el proceso para determinar la responsabilidad que establece esta ley, adoptarán las medidas necesarias para dar estricto cumplimiento a lo dispuesto en el inciso anterior", sancionando el incumplimiento como una infracción grave a los deberes funcionarios.
+
+2. Que, el Código Penal en su artículo 87 refiere "Los menores de veintiún años y las mujeres cumplirán sus condenas en establecimientos especiales. En los lugares donde éstos no existan, permanecerán en los establecimientos carcelarios comunes, convenientemente separados de los condenados adultos y varones, respectivamente".
+
+3. Que, en este sentido el inciso 3° del artículo 56 de la ley N° 20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones, dispone que, "Si al momento de alcanzar los dieciocho años le restan por cumplir más de seis meses de la condena de internación en régimen cerrado, el Servicio Nacional de Menores evacuará un informe fundado al juez de control de ejecución en que solicite la permanencia en el centro cerrado de privación de libertad o sugiera su traslado a un recinto penitenciario administrado por Gendarmería de Chile".
+
+4. Que, en este sentido el decreto supremo N° 1.378, de 2006, del Ministerio de Justicia, citado en el visto, prescribe en su artículo 152 que "(...) Gendarmería de Chile dispondrá de establecimientos penitenciarios, dentro de los cuales existirán, espacios segregados respecto del resto de la población denominados Secciones Juveniles para aquellas personas que, habiendo cumplido 18 años y resten más de 6 meses para el cumplimiento de la pena, deban cumplir una sanción en estos recintos por disposición del tribunal competente, y en los demás casos que expresamente establezca el citado artículo".
+
+5. Agregando en su articulo 153 que "La creación, modificación y supresión de las Secciones Juveniles en los establecimientos penitenciarios, se efectuará mediante un decreto supremo del Ministerio de Justicia expedido bajo la fórmula por orden del Presidente de la República".
+
+6. Que, en cumplimiento del mandato anterior, mediante decreto exento N° 4.069, de 2007, del Ministerio de Justicia, fueron creadas las Secciones Juveniles en los establecimientos penitenciarios que indica, el que fue modificado posteriormente a través del decreto exento N° 3.660, de 2013, del Ministerio de Justicia, y decreto exento N° 2.160, de 2016, del Ministerio de Justicia y Derechos Humanos.
+
+7. Que, mediante los oficios Ord. N° 14.00.00.647/2019, de 8 de mayo de 2019 y N° 14.30.00.1010/19, de 15 de julio de 2019, el Director Nacional de Gendarmería de Chile solicitó a esta Secretaría de Estado, modificar el decreto supremo N° 4.069, de 2007, del Ministerio de Justicia, con el objeto de suprimir la sección juvenil femenina del Complejo Penitenciario de Arica, y que se cree en su reemplazo, la sección juvenil femenina en el interior del Centro Penitenciario Femenino de Arica.
+
+8. Que, a través del decreto supremo N° 392, de 2019, del Ministerio de Justicia y Derechos Humanos, se creó el Centro Penitenciario Femenino de Arica, y se suprimió el Centro Penitenciario Femenino ubicado al interior del Complejo Penitenciario de Arica, modificándose a su vez el decreto supremo N° 261, de 1999, del Ministerio de Justicia. Dicho establecimiento se encuentra ubicado en el Lote N° 2 del terreno ubicado en Quebrada de Acha, comuna y provincia de Arica, Región de Arica y Parinacota.
+
+Cabe señalar que el decreto supremo N° 392, de 2019, del Ministerio de Justicia y Derechos Humanos, dado que regulaba materias afectas al control de legalidad, fue tomado de razón por el Órgano Contralor con fecha 22 de julio de 2020.
+
+9. Que, en razón de lo expuesto, es necesario dictar un acto administrativo que modifique el decreto exento N° 4.069, de 2007, del Ministerio de Justicia, a fin de crear una sección juvenil en el "Centro Penitenciario Femenino de Arica".
+
+Decreto:
+
+I. Créase una Sección Juvenil dentro del "Centro Penitenciario Femenino de Arica", creado mediante decreto supremo N° 392, de 2019, del Ministerio de Justicia y Derechos Humanos.
+
+II. Modifícase el decreto exento N° 4.069, de 7 de diciembre de 2007, del Ministerio de Justicia, sustituyendo la letra a) "Complejo Penitenciario de Arica", del artículo 1°, por la siguiente:
+
+"a.- Centro Penitenciario Femenino de Arica, ubicado en el Lote N° 2 del terreno ubicado en Quebrada de Acha, Comuna y Provincia de Arica, Región de Arica y Parinacota.".
+
+III. Establécese que en todo lo no modificado, se mantiene plenamente vigente el decreto supremo N° 4.069, de 7 de diciembre de 2007, que Crea Secciones Juveniles en los Establecimientos Penitenciarios que indica y sus modificaciones efectuadas mediante los decretos exentos N° 3.660, de 2013 y N° 2.160, de 2016, todos del Ministerio de Justicia.
+
+Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Hernán Larraín Fernández, Ministro de Justicia y Derechos Humanos.
+
+Lo que transcribe para su conocimiento.- Le saluda atentamente, Sebastián Valenzuela Agüero, Subsecretario de Justicia.

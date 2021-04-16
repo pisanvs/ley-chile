@@ -22,7 +22,7 @@ Decreto:
 
 Créanse secciones juveniles femeninas en los establecimientos penitenciarios que a continuación se indican:
 
-a.- Complejo Penitenciario de Arica, ubicado en el sector denominado Quebrada de Acha, comuna y provincia de Arica, XV Región de Arica y Parinacota.
+a.- Centro Penitenciario Femenino de Arica, ubicado en el Lote N° 2 del terreno ubicado en Quebrada de Acha, Comuna y Provincia de Arica, Región de Arica y Parinacota.
 
 b.- Complejo Penitenciario de Alto Hospicio, ubicado en el sector Huantajaya, comuna de Alto Hospicio, provincia de Iquique, Región de Tarapacá.
 
