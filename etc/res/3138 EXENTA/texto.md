@@ -16,7 +16,9 @@ R e s u e l v o:
 
 1. Se entenderá por habilitación la autorización específica otorgada por el Servicio Agrícola y Ganadero, a los establecimientos pecuarios de producción, reproducción, faena, elaboración y procesamiento de animales o productos de origen animal, para exportar sus animales o productos de origen animal a Chile. Se incluyen en esta definición los laboratorios farmacéuticos de producción de medicamentos veterinarios.
 
-2. La habilitación estará basada en la verificación y el análisis de la información técnica y científica y en el cumplimiento de las exigencias sanitarias específicas, en lo relacionado con la calidad sanitaria de los animales y la inocuidad de los productos.
+2. La habilitación estará basada en la verificación y el análisis de la información técnica y científica, y en el cumplimiento de las exigencias sanitarias generales y específicas vigentes, en lo relacionado a la condición sanitaria de los animales y la inocuidad de los productos.
+
+La habilitación podrá ejecutarse de forma directa, por medio de una verificación presencial por parte de funcionarios del SAG al establecimiento o de forma remota, con previa solicitud y coordinación con las autoridades sanitarias del país, considerando un proceso de revisión documental, registros audiovisuales y una verificación realizada a distancia en tiempo real, por funcionarios del SAG al establecimiento. Esta última forma, sólo podrá llevarse a cabo, cuando se trate de un mercado que ya cuente con establecimientos habilitados para el producto y que los procesos anteriores de evaluación y habilitación hayan sido favorables.
 
 3. Declárase obligatoria la habilitación de los siguientes establecimientos productores, elaboradores o transformadores de animales y productos o subproductos de origen animal, para realizar exportaciones a Chile:
 
@@ -42,7 +44,7 @@ R e s u e l v o:
 
 a) Se harán efectivas, mediante resolución por un plazo de dos años y podrán ser revocadas, si cambian las condiciones que le entregaron tal calidad. Para los laboratorios de producción farmacéutica, la habilitación tendrá una vigencia de cinco años.
 
-b) Podrán ser renovadas en una visita de supervisión, o bien podrá delegarse la renovación en las autoridades sanitarias locales.
+b) Podrán ser renovadas en una visita de supervisión, la cual podrá ejecutarse de forma directa o de forma remota, o podrá delegarse la renovación en las autoridades sanitarias locales.
 
 c) Podrán delegarse en la autoridad sanitaria del país de procedencia, cuando sus Servicios Veterinarios hayan sido previamente evaluados, reservándose el SAG el derecho a supervisar dichas habilitaciones.
 
