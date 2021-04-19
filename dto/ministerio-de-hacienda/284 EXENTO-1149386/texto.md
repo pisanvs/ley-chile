@@ -16,9 +16,9 @@ Considerando:
 
 Decreto:
 
-#### Artículo único
+#### Artículo primero
 
-Apruébase el siguiente decreto que regula los requisitos, procedimiento, cuotas y plazos para acceder al bono de apoyo y préstamo estatal solidario establecido en favor de los microempresarios y conductores del transporte remunerado de pasajeros según lo establecido en el artículo 6 de la ley Nº 21.256:
+Apruébase el siguiente decreto que regula los requisitos, procedimiento, cuotas y plazos para acceder a los bonos de apoyo, al préstamo estatal y solidario y al préstamo solidario de apoyo, establecidos en favor de los microempresarios y conductores del transporte remunerado de pasajeros según lo dispuesto en el artículo 6º de la Ley Nº 21.256, que establece medidas tributarias que forman parte del plan de emergencia para la reactivación económica y del empleo en un marco de convergencia fiscal de mediano plazo, y en el artículo 19 de la Ley Nº 21.323, que establece un nuevo bono clase media y un préstamo solidario para la protección de los ingresos de la clase media, según sea el caso.
 
 ## Título I
 
@@ -28,11 +28,13 @@ Disposiciones Generales
 
 El presente decreto regula los requisitos, procedimientos, cuotas y plazos para acceder al bono de apoyo y al préstamo estatal solidario según lo establecido en el artículo 6 de la ley Nº 21.256.
 
+Asimismo, regula los requisitos, procedimiento, cuotas y plazos del bono de apoyo y del préstamo solidario de apoyo establecidos para los microempresarios y conductores del transporte remunerado de pasajeros a través del artículo 19 de la Ley Nº 21.323, que establece un nuevo bono clase media y un préstamo solidario para la protección de los ingresos de la clase media.
+
 #### Artículo 2º
 
 Para los efectos del presente decreto, se entenderá por:
 
-1. Ley: la Ley Nº 21.256, que Establece medidas tributarias que forman parte del plan de emergencia para la reactivación económica y del empleo en un marco de convergencia fiscal de mediano plazo.
+1. Ley o Leyes: refiérase al término Ley de manera indistinta cuando se mencionan las Leyes Nº 21.256 y Nº 21.323, debiendo especificarse el número que a cada una le corresponde cuando se hace referencia sólo a una de tales leyes.
 
 2. Mero tenedor inscrito: persona que no es propietaria de un vehículo inscrito en los Registros a que se hace referencia en los numerales 4 y 5 de este artículo, cuyo título de mera tenencia se encuentra inscrito en el Registro Nacional de Vehículos Motorizados del Servicio de Registro Civil e Identificación.
 
@@ -46,9 +48,11 @@ Para los efectos del presente decreto, se entenderá por:
 
 #### Artículo 3º
 
-Tendrán derecho al bono de apoyo y al préstamo estatal solidario, según lo regulado en este decreto, las personas naturales o jurídicas, o comunidades que, al 1º de agosto de 2020, sean propietarias o meros tenedores inscritos en virtud de un contrato de leasing con una entidad financiera, de los siguientes tipos de vehículos:
+Tendrán derecho al bono de apoyo y al préstamo estatal solidario, según lo regulado en este decreto, las personas naturales o jurídicas, o comunidades que, al 1º de agosto de 2020 o al 1° de marzo de 2021, según corresponda a la Ley Nº 21.256 o a la Ley Nº 21.323, sean propietarias o meros tenedores inscritos en virtud de un contrato de leasing con una entidad financiera, de los siguientes tipos de vehículos:
 
-1. Vehículo de alquiler inscrito en el Registro Nacional de Servicios de Transporte de Pasajeros, en las modalidades y submodalidades que se señalan en el artículo 20 y 72 bis del decreto supremo Nº 212, de 1992, tanto urbanos como rurales, y aquellos definidos en la letra b) del artículo 8º del decreto supremo Nº 265, de 2005, de los Ministerios de Transportes y Telecomunicaciones y Relaciones Exteriores, respectivamente.
+1. Vehículo de alquiler inscrito en el Registro Nacional de Servicios de Transporte de Pasajeros, en las modalidades y submodalidades que se señalan en el artículo 20 y 72 bis del decreto supremo Nº 212, de 1992, tanto urbanos como rurales, y aquellos definidos en la letra b) del artículo 8º del decreto supremo Nº 265, de 2005, de los Ministerios de Transportes y Telecomunicaciones y Relaciones Exteriores, respectivamente.520
+
+Tratándose del bono de apoyo y del préstamo solidario de apoyo regidos por la Ley Nº 21.323, se incluyen como beneficiarios todas las categorías del artículo 8° del Convenio de Transporte de Pasajeros por Carretera entre Tacna y Arica, suscrito entre el Gobierno de la República de Chile y el Gobierno de la República del Perú, promulgado mediante decreto supremo Nº 265, de 2005, del Ministerio de Relaciones Exteriores, que tengan permiso vigente o estén en los registros del Ministerio de Transportes y Telecomunicaciones.
 
 2. Vehículo inscrito en el Registro Nacional de Servicios de Transporte de Pasajeros como bus, trolebús, minibús o taxibús, urbano y rural y que presten servicios en las zonas señaladas en el numeral ii) del artículo 2º de la ley Nº 20.378.
 
@@ -56,13 +60,17 @@ Tendrán derecho al bono de apoyo y al préstamo estatal solidario, según lo re
 
 4. Vehículo tipo taxi en las modalidades y submodalidades señaladas en el Nº 1 anterior, que hayan cancelado la inscripción de su vehículo y efectuado su reemplazo por aplicación del artículo 73 bis del decreto supremo Nº 212, de 1992, ya citado, siempre que a la fecha de la solicitud el vehículo que ingresa en reemplazo del automóvil cuyo registro fue cancelado se encuentre con inscripción vigente en el Registro Nacional de Servicios de Transporte de Pasajeros.
 
+Vehículos tipo taxi en las modalidades y submodalidades señaladas en el Nº 1 anterior, que hayan cancelado la inscripción de su vehículo, por reemplazo, en aplicación del artículo 73 bis del decreto supremo Nº 212, de 1992, ya citado, y que se encuentren dentro del plazo para efectuar dicho trámite. Esta regla sólo resulta aplicable para el caso de los beneficios establecidos en la Ley Nº 21.323.
+
 #### Artículo 4º
 
-Tendrán derecho sólo al bono de apoyo las personas naturales que, al 1º de agosto de 2020, sean conductores de los vehículos señalados en el artículo anterior, cuya calidad sea debidamente informada y acreditada por el propietario o mero tenedor inscrito. Para ello, el propietario o mero tenedor inscrito deberá acreditar la condición del conductor mediante una declaración jurada simple suscrita a través de la Plataforma Digital, conforme se señala en el artículo 12 de este decreto.
+Tendrán derecho sólo al bono de apoyo las personas naturales que, al 1º de agosto de 2020 o al 1º de marzo de 2021, según corresponda a la Ley Nº 21.256 o a la Ley Nº 21.323, sean conductores de los vehículos señalados en el artículo anterior, cuya calidad sea debidamente informada y acreditada por el propietario o mero tenedor inscrito. Para ello, el propietario o mero tenedor inscrito deberá acreditar la condición del conductor mediante una declaración jurada simple suscrita a través de la Plataforma Digital, conforme se señala en el artículo 12 de este decreto.
 
 Los conductores declarados en servicios de transporte remunerado de escolares deberán estar inscritos en el Registro Nacional de Servicios de Transporte Remunerado de Escolares, asociados a los vehículos respecto de los cuales fueron declarados.
 
 Asimismo, en el caso de los conductores declarados respecto de vehículos ingresados a través de procesos concursales efectuados bajo el marco de las leyes Nº 20.474 o Nº 20.867, según sea el caso, deberán estar inscritos en el Registro Nacional de Servicios de Transporte de Pasajeros y asociados a los vehículos respecto de los cuales fueron declarados.
+
+Para el caso del bono de apoyo establecido en la Ley Nº 21.323, no resultará aplicable la restricción señalada en el inciso anterior.
 
 #### Artículo 5º
 
@@ -81,6 +89,8 @@ Bono de Apoyo
 Los beneficiarios indicados en los artículos 3º y 4º precedentes tendrán derecho a recibir, por una única vez, un bono de apoyo de hasta $350.000.-, de acuerdo a las reglas de este decreto. El bono de apoyo podrá solicitarse dentro del plazo de 60 días contados desde la fecha de la publicación de la ley en el Diario Oficial.
 
 El bono de apoyo indicado en el inciso anterior será compatible con el Ingreso Familiar de Emergencia que contempla la ley Nº 21.230, pero en ese caso, el monto total del Ingreso Familiar de Emergencia que le corresponda recibir al hogar del beneficiario del bono, considerando tanto lo que ya recibió como lo que recibirá hasta el 30 de septiembre de 2020, se computará como parte del bono para efecto de su cálculo. Es decir, se descontará del monto del bono de apoyo las sumas recibidas por concepto del Ingreso Familiar de Emergencia contemplado en la ley Nº 21.230, así como también las sumas a las que tiene derecho el hogar respectivo hasta el 30 de septiembre de 2020.
+
+Respecto de los beneficios establecidos en el artículo 19 de la Ley Nº 21.323, que establece un nuevo bono clase media y un préstamo solidario para la protección de los ingresos de la clase media, las personas indicadas en los artículos 3º y 4º precedentes, tendrán derecho a recibir un bono de apoyo por un monto de $500.000.-, el cual podrá solicitarse dentro del plazo de 60 días contados desde la publicación del presente decreto. Asimismo, será compatible con los demás beneficios otorgados con motivo de la situación de pandemia COVID-19. Sin perjuicio de lo anterior, el monto total de las prestaciones sociales establecidas en la Partida 50, Capítulo 01, Programa 03 "Operaciones Complementarias", Subtítulo 30, Ítem 10 "Fondo Emergencia Transitorio", Glosa 26, numeral 3, literal a, de la Ley Nº 21.289, de Presupuestos del Sector Público correspondiente al año 2021, que le corresponda recibir al hogar del beneficiario, por los meses de enero y febrero de 2021, se imputará como parte del monto del bono de apoyo para efectos de su cálculo. En consecuencia, el monto total de la glosa presupuestaria indicada anteriormente, que le corresponda recibir al hogar del beneficiario del bono, considerando lo que recibió en los meses de enero y febrero del año 2021, se computará como parte del bono para efectos de su cálculo. Es decir, se descontará el monto por persona de las prestaciones sociales establecidas en la referida glosa de la citada Ley Nº 21.289.
 
 #### Artículo 8º
 
@@ -122,7 +132,27 @@ En el evento en que no se puedan agregar las cuotas adeudadas al permiso de circ
 
 Las acciones de cobranza que ejerza la Tesorería General de la República, en conformidad al inciso anterior, por sí o a través de terceros, se someterán a las reglas generales del Título V del Libro Tercero del Código Tributario. Para estos efectos, constituyen título ejecutivo, por el solo ministerio de la ley, las nóminas de beneficiarios en mora, emitidas bajo la firma del Tesorero Regional o Provincial que corresponda. El Tesorero General de la República determinará por medio de instrucciones internas la forma como deben prepararse las nóminas de beneficiarios en mora, como asimismo todas las actuaciones o diligencias administrativas que deban llevarse a efecto.
 
-## Título IV
+## Título IV — Préstamo Solidario de Apoyo
+
+#### Artículo 11º bis
+
+Los beneficiarios establecidos en el artículo 3º precedente, tendrán derecho a recibir un préstamo solidario de apoyo, de acuerdo a lo establecido en el artículo 19 de la Ley Nº 21.323, que establece un nuevo bono clase media y un préstamo solidario para la protección de los ingresos de la clase media, por un monto de $320.500.-, de acuerdo a las reglas siguientes.
+
+#### Artículo 11º ter
+
+El préstamo solidario de apoyo podrá solicitarse dos veces entre el 15 de abril y el 15 de julio de 2021, y una vez adicional, entre el 1° de septiembre y el 31 de diciembre de 2021.
+
+#### Artículo 11º quáter
+
+El préstamo solidario de apoyo se restituirá desde el mes de abril del año 2022 en cuotas mensuales de igual valor, determinadas en unidades de fomento de acuerdo a la fecha de su pago, mediante una cuponera, que podrá ser electrónica, y bajo un convenio de pago con la Tesorería General de la República. El pago de este préstamo solidario de apoyo se realizará reajustado y sin interés. Para estos efectos, las cuotas se determinarán de la forma en que se señala a continuación:
+
+1. Si el beneficiario solicita y recibe el primer préstamo, podrá pagarlo en 6 o 12 cuotas.
+
+2. Si el beneficiario solicita y recibe el segundo préstamo, podrá pagarlo en 6, 12 o 24 cuotas.
+
+3. Si el beneficiario solicita y recibe el tercer préstamo, podrá pagarlo en 12, 24 o 40 cuotas.
+
+## Título V
 
 Procedimiento de Solicitud y Pago
 
@@ -142,6 +172,18 @@ El Ministerio de Transportes y Telecomunicaciones requerirá mediante correo ele
 
 Los solicitantes del bono de apoyo que sean propietarios o meros tenedores inscritos deberán adjuntar su licencia de conductor profesional, cuando cuenten con ella.
 
+#### Artículo 12 bis
+
+En el caso del bono de apoyo establecido en la Ley Nº 21.323, se aplicarán las reglas dispuestas en el artículo anterior, sin perjuicio de las excepciones siguientes:
+
+a. En el caso que el representante legal se encuentre inscrito como tal en algunos de los Registros a los que alude este decreto, no será exigible la presentación de los documentos que lo acrediten.
+
+b. Cada propietario de vehículo deberá postular a su o sus conductores, y una vez que se validen los datos por parte de los órganos del Estado correspondientes y se confirme que es adjudicatario del beneficio, el Ministerio de Transportes y Telecomunicaciones, enviará al conductor postulado un correo electrónico, donde se le señalará que debe ingresar a la Plataforma Digital con el objeto de adjuntar copia de su licencia de conducir, por ambos lados y vigente, la cual deberá habilitarlo para conducir el vehículo respecto del cual solicita el beneficio e informar el medio de pago del bono de apoyo por el que opte.
+
+c. Para efectos de cumplir con el requisito señalado en el literal anterior, el conductor deberá contar con licencia profesional para el transporte de pasajeros, esto es, las licencias Clase A-1, A-2 y A-3 según se dispone en el artículo 12 de la Ley de Tránsito, o bien, con licencia de conducir denominada "A1 antigua", por haber sido obtenida con anterioridad al 8 de marzo de 1997, según se establece en la misma Ley de Tránsito.
+
+d. En cuanto a la revisión de las licencias de conductor ya mencionadas, el Ministerio de Transportes y Telecomunicaciones revisará la información, contrastándola con aquella que proporcione el Servicio de Registro Civil e Identificación conforme a los datos del Registro Nacional de Conductores que lleva dicho servicio.
+
 #### Artículo 13º
 
 El Ministerio de Transportes y Telecomunicaciones verificará el cumplimiento de los requisitos de los beneficios y determinará los montos a pagar. Para estos efectos, el Ministerio de Transportes y Telecomunicaciones, luego de determinar las personas susceptibles de recibir los beneficios, según la información que tenga disponible, deberá enviar la información al Servicio de Impuestos Internos para que verifique si corresponde efectuar el descuento indicado en el artículo 7º de este decreto. Realizadas las verificaciones señaladas e informadas por el Servicio de Impuestos al Ministerio de Transportes y Telecomunicaciones, éste determinará los beneficiarios y el monto que corresponda.
@@ -158,17 +200,23 @@ El pago de los beneficios por parte de la Tesorería General de la República se
 
 La Tesorería General de la República deberá informar al Ministerio de Transportes y Telecomunicaciones los pagos efectuados.
 
+El pago del bono de apoyo y del préstamo solidario de apoyo establecidos en la Ley Nº 21.323 se realizará por parte de la Tesorería General de la República dentro del plazo máximo de 20 días hábiles contados desde la fecha de postulación. Tanto el Ministerio de Desarrollo Social y Familia, así como el Servicio de Impuestos Internos y el Servicio de Registro Civil e Identificación contarán con 3 días hábiles para dar respuesta a los requerimientos de información del Ministerio de Transportes y Telecomunicaciones. La Tesorería General de la República deberá informar al Ministerio de Transportes y Telecomunicaciones los pagos efectuados.
+
 ## Título V
 
 Otras Disposiciones
 
 #### Artículo 15º
 
-Los beneficios que se regulan en este decreto son incompatibles con aquellos establecidos en las leyes N os 21.242 y 21.252.
+Los beneficios que se regulan en este decreto y que fueran dispuestos por el artículo 6º de la Ley Nº 21.256, son incompatibles con aquellos establecidos en las leyes Nos. 21.242 y 21.252. Asimismo, en el caso de los beneficios dispuestos en el artículo 19 de la Ley Nº 21.323, éstos serán compatibles con los demás beneficios otorgados con motivo de la situación de pandemia COVID-19, con excepción de los beneficios del bono clase media y del préstamo solidario establecidos en esa misma ley.".
 
 #### Artículo 16º
 
 Los beneficios que se regulan en este decreto no estarán afectos a impuestos, no podrán ser objeto de retenciones administrativas, no serán compensados por la Tesorería General de la República, no les aplicarán los descuentos del artículo 3º del DFL Nº 707, de 1982, ni serán embargables, salvo en el caso de retenciones por deudas de pensiones alimenticias decretadas por el correspondiente Juzgado de Familia, en que la Tesorería General de la República, una vez notificada de la resolución de retención o embargo, estará facultada para retener hasta un 50%.
+
+En el caso de los beneficios establecidos en la Ley Nº 21.323, no estarán afectos a impuesto alguno, no se sujetarán a ninguna retención de carácter administrativa, no serán compensados por la Tesorería General de la República conforme a lo dispuesto en el artículo 6 del DFL Nº 1, de 1994, del Ministerio de Hacienda, que fija el texto refundido, coordinado, sistematizado y actualizado del Estatuto Orgánico del Servicio de Tesorerías, tampoco le serán aplicables los descuentos a que se refiere el artículo 3º del DFL Nº 707, de 1982, del Ministerio de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley sobre Cuentas Corrientes Bancarias y Cheques, ni serán embargables.
+
+Lo anterior, salvo que se trate de pensiones alimenticias debidas por ley y decretadas judicialmente, en que la Tesorería General de la República, una vez que haya sido notificada de la respectiva resolución que ordena la retención o el embargo, estará facultada para retener hasta un 75% del beneficio.
 
 #### Artículo 17º
 
@@ -176,7 +224,15 @@ Los beneficiarios que obtuvieran un beneficio mayor al que les corresponda en co
 
 #### Artículo 18º
 
-Las personas que sin corresponderle obtuvieren total o parcialmente el beneficio mediante simulación o engaño y quienes, de igual forma, obtuvieren un beneficio mayor al que les corresponda o realicen maniobras para no devolverlo, serán sancionadas, en conformidad con la ley, con reclusión menor en su grado mínimo a medio, y estarán sujetas a las sanciones administrativas que correspondan, reputándose que han incurrido en la conducta que señala el artículo 92º, letra b) del decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, sancionada con la cancelación de la inscripción del vehículo.
+Para efectos de los beneficios dispuestos en la Ley Nº 21.256, las personas que, sin corresponderle obtuvieren total o parcialmente el beneficio mediante simulación o engaño y quienes, de igual forma, obtuvieren un beneficio mayor al que les corresponda o realicen maniobras para no devolverlo, serán sancionadas, en conformidad con la ley, con reclusión menor en su grado mínimo a medio, y estarán sujetas a las sanciones administrativas que correspondan, reputándose que han incurrido en la conducta que señala el artículo 92º, letra b) del decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, sancionada con la cancelación de la inscripción del vehículo.
+
+#### Artículo 19
+
+En el caso de los beneficios establecidos en la Ley Nº 21.323, las personas que obtuvieren de mala fe un beneficio mayor al que les corresponda en conformidad con este artículo, deberán reintegrar dicho exceso, con reajustes, intereses y multas. Las personas que, sin corresponderle, obtuvieren total o parcialmente los beneficios mediante simulación o engaño, y quienes de igual forma obtuvieren un beneficio mayor al que les corresponda o realicen maniobras para no devolverlo, serán sancionadas con una multa ascendente al trescientos por ciento del monto obtenido mediante dichas maniobras. Asimismo, en estos casos, el vehículo respecto del cual el microempresario de transportes solicitó el o los beneficios que establece este artículo, será cancelado del Registro Nacional de Servicios de Transporte de Pasajeros o del Registro Nacional de Servicios de Transporte Remunerado de Escolares, según corresponda, de acuerdo al procedimiento de la Ley Nº 19.880.
+
+#### Artículo 20
+
+Para consulta de la ciudadanía de manera virtual, y para efectos del bono de apoyo y del préstamo solidario de apoyo establecidos en la Ley Nº 21.323, el Ministerio de Transportes y Telecomunicaciones dispondrá en su página web, www.mtt.gob.cl, de un sistema de búsqueda que contendrá el nombre de los postulantes y beneficiados, diferenciando la región en la cual postulan.
 
 Anótese, publíquese y archívese.- Por orden del Presidente de la República, Ignacio Briones Rojas, Ministro de Hacienda.
 
