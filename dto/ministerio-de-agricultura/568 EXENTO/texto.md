@@ -16,7 +16,7 @@ Decreto:
 
 a) Vehículo Station Wagon, Subaru, Nº Chasis G031481, Nº Motor D549781, Patente BYGB.78, año 2009, color rojo camelia perlado, indicado en la letra c) del Nº 1 del decreto exento Nº 106, de 2009, del Ministerio de Agricultura.
 
-b) Station Wagon marca Subaru, modelo New Legacy 2.0 AWD, color plateado claro, año 2005, Nº Motor C375663, Nº Chasis G028369, Inscripción R.N.V.M. YU.3498-9.
+b) Station Wagon, marca: Chevrolet, color: gris granito metálico; año 2015, N° de motor LE9150410125, N° Chasis: KL1FC2DU7FB044530, inscripción PPU HHHW-25-6.
 
 c) Vehículo : Station Wagon
 
