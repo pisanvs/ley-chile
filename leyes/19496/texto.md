@@ -772,6 +772,8 @@ f) La tasa de interés moratorio en caso de incumplimiento y el sistema de cálc
 
 g) Los efectos del incumplimiento del crédito concedido y los efectos procesales del ejercicio de la acción ejecutiva en los casos que corresponda, tales como el embargo, el retiro y remate de bienes, entre otros, de conformidad al reglamento.
 
+Sin perjuicio de lo anterior, cuando se exhiban los bienes en vitrinas, anaqueles o estanterías, se deberán indicar allí las informaciones referidas en las letras a) y b) del inciso anterior.
+
 No podrá cobrarse, por concepto de gastos de cobranza extrajudicial, cualesquiera sean la naturaleza de las gestiones, el número, frecuencia y costos en que efectivamente se haya incurrido, incluidos honorarios de profesionales, cantidades que excedan de los porcentajes que a continuación se indican, aplicados sobre el monto de la deuda vencida a la fecha del atraso a cuyo cobro se procede, conforme a la siguiente escala progresiva: en obligaciones de hasta 10 unidades de fomento, 9%; por la parte que exceda de 10 y hasta 50 unidades de fomento, 6%, y por la parte que exceda de 50 unidades de fomento, 3%. Los porcentajes indicados se aplicarán transcurridos los primeros veinte días de atraso, y no corresponderá su imputación respecto de saldos de capital insoluto del monto moroso o de cuotas vencidas que ya hubieren sido objeto de la aplicación de los referidos porcentajes. En ningún caso los gastos de cobranza extrajudicial podrán devengar un interés superior al corriente ni se podrán capitalizar para los efectos de aumentar la cantidad permitida de gastos de cobranza.
 
 El proveedor del crédito deberá realizar siempre a lo menos una gestión útil, sin cargo para el deudor, cuyo fin sea el debido y oportuno conocimiento del deudor sobre la mora o retraso en el cumplimiento de sus obligaciones, dentro de los primeros quince días siguientes a cada vencimiento impago. Si el proveedor no realizara oportunamente dicha gestión, la cantidad máxima que podrá cobrar por los gastos de cobranza extrajudicial efectivamente incurridos indicados en el inciso anterior, se reducirá en 0,2 unidades de fomento.
@@ -794,15 +796,29 @@ Las empresas que realicen cobranza extrajudicial, así como también los proveed
 
 6) Los derechos que le asisten en conformidad a esta ley en materia de cobranza extrajudicial, en especial el requerir el envío por escrito de la información señalada en los numerales precedentes. En caso que el consumidor guarde silencio al respecto, y una vez transcurridos quince días desde que la información fue entregada, la empresa deberá enviársela por escrito.
 
+7) El o los medios de contacto para que el consumidor pueda comunicarse, respecto de las actuaciones de cobranza extrajudicial.
+
 En ningún caso la comunicación entregada podrá contener menciones a eventuales consecuencias de procedimientos judiciales que no se hayan iniciado o relacionadas a registros o bancos de datos de información de carácter económico, financiero o comercial, debiendo indicar expresamente que no se trata de un procedimiento que persiga la ejecución de los bienes del deudor.
 
 El proveedor del crédito o la empresa de cobranza deberán resguardar que la información dispuesta en cumplimiento de los numerales precedentes sólo sea de conocimiento del deudor, evitando cualquier acción que haga pública esta información.
 
-Un reglamento determinará la forma, condiciones y requisitos que deberá reunir el cumplimiento de las obligaciones señaladas en los incisos precedentes.
+Las actuaciones de cobranza extrajudicial, cualquiera sea su naturaleza, medio de comunicación o momento en que se realicen, deberán ajustarse a los principios de proporcionalidad, razonabilidad, justificación, transparencia, veracidad, respeto a la dignidad y a la integridad física y psíquica del consumidor, y privacidad del hogar.
 
-Las actuaciones de cobranza extrajudicial no podrán considerar el envío al consumidor de documentos que aparenten ser escritos judiciales; comunicaciones a terceros ajenos a la obligación en las que se dé cuenta de la morosidad; visitas o llamados telefónicos a la morada del deudor durante días y horas que no sean los que declara hábiles el artículo 59 del Código de Procedimiento Civil, y, en general, conductas que afecten la privacidad del hogar, la convivencia normal de sus miembros ni la situación laboral del deudor.
+Se entenderá que no se da cumplimiento a los principios individualizados en el inciso precedente, cuando el proveedor del crédito o la empresa de cobranza efectúe más de un contacto telefónico o visita por semana, con el objeto de poner en conocimiento del deudor la información a que se refiere el inciso sexto. Del mismo modo, se entenderá que no se da cumplimiento a dichos principios cuando, respecto de otras actuaciones de cobranza extrajudicial realizadas a través de otros medios, tales como correspondencia por correo, mensajes de texto, correos electrónicos o aplicaciones de mensajería instantánea, se realicen más de dos gestiones por semana, las que deberán contar con una separación de, al menos, dos días.
+
+Las actuaciones de cobranza extrajudicial no podrán considerar el envío al consumidor de ninguna clase de documento, mensaje o comunicación que sea, aparente ser o haga referencia a un escrito, resolución o actuación judicial de toda especie; comunicaciones a terceros ajenos a la obligación en las que se dé cuenta de la morosidad; visitas a la morada del deudor o llamados telefónicos durante días y horas que no sean los que declara hábiles el artículo 59 del Código de Procedimiento Civil, y, en general, conductas que afecten la privacidad del hogar, la convivencia normal de sus miembros ni la situación laboral del deudor.
+
+Los proveedores o las empresas de cobranza deberán registrar, almacenar y mantener disponible el tipo y frecuencia de las gestiones que realicen por cada deudor por un plazo de al menos dos años, contado desde su realización.
+
+Se deberá poner término inmediato a las actuaciones de cobranza extrajudicial una vez emplazado el consumidor en un juicio de cobro o iniciado a su respecto un procedimiento concursal.
+
+En las denuncias, demandas o querellas que se formulen por infracción a las conductas prohibidas en este artículo, el tribunal competente, de oficio o previa solicitud del Servicio o del particular afectado, podrá disponer la suspensión inmediata de las actuaciones de cobranza extrajudicial, cuando los hechos y los antecedentes acompañados lo ameriten.
 
 Sin perjuicio de lo anterior, cuando se exhiban los bienes en vitrinas, anaqueles o estanterías, se deberán indicar allí las informaciones referidas en las letras a) y b).
+
+Un reglamento determinará la forma, condiciones y requisitos que deberá reunir el cumplimiento de las obligaciones señaladas en los incisos precedentes.
+
+> **Nota.** El Art. 1° de la ley 21320, publicada el 20.04.2021, dispuso en su N° 1 letra a) agregar un nuevo inciso segundo al presente artículo 37, en el que sustantivamente reproduce el contenido del inciso décimo primero, con el que solo difiere en la frase "del inciso anterior" que se agrega. Sin embargo, omitió eliminarlo, razón por la cual han quedado duplicados y se mantienen ambos en este texto actualizado.
 
 #### Artículo 38
 
@@ -814,7 +830,7 @@ Cometerán infracción a la presente ley, los proveedores que cobren intereses p
 
 #### Artículo 39
 
-A.- Asimismo, constituyen infracciones a esta ley la exigencia de gastos de cobranza superiores a los establecidos en el inciso segundo del artículo 37, o distintos o superiores a los que resulten de la aplicación del sistema de cálculo que hubiere sido informado previamente al consumidor de acuerdo a la letra e) del mismo artículo; la aplicación de modalidades o procedimientos de cobranza extrajudicial prohibidos por el inciso quinto del artículo 37, diferentes de los que se dieron a conocer en virtud del inciso tercero del mismo artículo o, en su caso, distintos de los que estén vigentes como consecuencia de los cambios que se hayan introducido conforme al inciso cuarto del referido artículo 37, y la vulneración de lo dispuesto en el artículo 38.
+A.- Derogado.
 
 #### Artículo 39
 
@@ -822,13 +838,11 @@ B.- Si se cobra extrajudicialmente créditos impagos del proveedor, el consumido
 
 En esos casos, por la recepción del pago terminará el mandato que hubiere conferido el proveedor, quien deberá dar aviso inmediato al mandatario para que se abstenga de proseguir en el cobro, sin perjuicio del cumplimiento de las obligaciones que establece el artículo 2158 del Código Civil.
 
-Lo dispuesto en este artículo, en el artículo 37, letra e) e incisos segundo, tercero, cuarto y quinto, y en el artículo 39 A será aplicable, asimismo, a las operaciones de crédito de dinero en que intervengan las entidades fiscalizadas por la Superintendencia de Bancos e Instituciones Financieras, sin perjuicio de las atribuciones de este organismo fiscalizador.
+Lo dispuesto en este artículo, en el inciso primero, letra f), y en los incisos tercero y siguientes del artículo 37, será aplicable, asimismo, a las operaciones de crédito de dinero en que intervengan las entidades fiscalizadas por la Comisión para el Mercado Financiero, sin perjuicio de las atribuciones de este organismo fiscalizador.
 
 #### Artículo 39
 
-C.- No obstante lo señalado en el epígrafe del presente párrafo 3º, se aplicará lo dispuesto en el inciso quinto del artículo 37 a todas las operaciones de consumo regidas por esta ley, aun cuando no involucren el otorgamiento de un crédito al consumidor.
-
-> **Nota.** La letra b) del N° 1, del Art. 3° de la Ley 20715, publicada el 13.12.2013, intercala un nuevo inciso tercero en la presente norma, pasando incisos tercero, cuarto, quinto y sexto, a ser incisos cuarto, quinto, sexto y séptimo, respectivamente. Sin embargo, el legislador no sustituyó la referencia al señalado inciso quinto del presente artículo.
+C.- No obstante lo señalado en el epígrafe del presente párrafo 3º, se aplicará lo dispuesto en los incisos tercero y siguientes del artículo 37, y en los artículos 39 y 39 B, a todos los proveedores y a todas las operaciones de consumo regidas por esta ley, aun cuando no involucren el otorgamiento de un crédito al consumidor.
 
 ### Párrafo 4º
 
@@ -1749,6 +1763,10 @@ Las normas establecidas en el artículo 17 de la presente ley, entrarán en vige
 #### Artículo 5º
 
 Facúltase al Presidente de la República, para que dentro del plazo de 180 días contados desde la publicación de la presente ley, mediante un decreto con fuerza de ley, fije el texto refundido, coordinado y sistematizado de la ley Nº 19.496, que establece normas sobre protección de los derechos de los consumidores.
+
+#### Artículo 6°
+
+Durante la vigencia del estado de excepción constitucional de catástrofe por calamidad pública, a propósito de la pandemia de COVID-19, declarado por el decreto supremo N°104, de 18 de marzo de 2020, y sus sucesivas prórrogas, y por los sesenta días posteriores al término de la última de ellas, las llamadas o visitas de cobranza extrajudicial a que se refiere el artículo 37 de esta ley podrán realizarse sólo dos veces al mes, respecto de cada deudor.
 
 Habiéndose cumplido con lo establecido en el Nº 1 del Artículo 82 de la Constitución Política de la República, y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
