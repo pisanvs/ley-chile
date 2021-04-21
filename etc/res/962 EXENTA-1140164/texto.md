@@ -204,6 +204,28 @@ CLASIFICACIÓN: COLECTORA - DISTRIBUIDORA
 
 ### 79. LAGUNA VERDE En toda su extensión
 
+CLASIFICACIÓN: COLECTORA - DISTRIBUIDORA
+
+80.CAPITÁN ROBERTO PÉREZ
+
+(Península Cavancha). En toda su extensión.
+
+81.SANTA COLOMA DE FARNÉS
+
+(Península Cavancha). En toda su extensión.
+
+82.FILOMENA VALENZUELA
+
+(Península Cavancha). En toda su extensión.
+
+83.JUAN ANTONIO RÍOS
+
+(Península Cavancha). En toda su extensión.
+
+84.ALCALDE GODOY
+
+(Península Cavancha). En toda su extensión.
+
 2º Cualquier modificación en las características físicas u operacionales de las vías antes individualizadas, que altere el desplazamiento de vehículos y personas, deberá ser aprobada por esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Tarapacá.
 
 Anótese, comuníquese y publíquese.- Carlos Navarrete Cortés, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Tarapacá.
