@@ -48,23 +48,11 @@ iii. Adicionalmente, deberán exigir a las comunidades de copropietarios postula
 
 3. Los recursos dispuestos para efectuar las asignaciones de subsidio mediante la facultad delegada en el resuelvo precedente, serán los siguientes:
 
-Región Monto (UF)
-
-Antofagasta 38.753,68
-
-Región Metropolitana 1.828.013,86
-
-L.G. B. O'Higgins 167.335,41
-
-Araucanía 112.803,31
-
-Los Lagos 96.688,50
-
-Total 2.243.594,76
+.
 
 Cada región debe considerar que las asignaciones directas de subsidio que pudieren efectuar ante situaciones de urgente necesidad habitacional, con antelación a la selección correspondiente al llamado regional, implicará una disminución en el monto de recursos disponibles, debiendo descontarse del programa de subsidios indicado en el cuadro precedente. En todo caso, las asignaciones directas regionales deberán ceñirse a las condiciones indicadas en la circular Nº 22 (V. y U.), de 2019.
 
-4. Las selecciones correspondientes a los llamados especiales autorizados por la presente resolución, deberán efectuarse a más tardar el 11 de diciembre de 2020, a excepción de la selección de la Región Metropolitana, que deberá efectuarse a más tardar el 19 de febrero de 2021.
+4. Las selecciones correspondientes a los llamados especiales autorizados por la presente resolución, deberán efectuarse a más tardar el 11 de diciembre de 2020, a excepción de la selección de la Región Metropolitana, que deberá efectuarse a más tardar el 30 de abril de 2021.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
