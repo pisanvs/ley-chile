@@ -30,59 +30,33 @@ Decreto:
 
 #### Artículo 1
 
-Concédanse un nuevo aporte a aquellos entregados en virtud de la ley Nº 21.230, que Concede un Ingreso Familiar de Emergencia, en los términos señalados en los artículos siguientes.
+Concédanse un nuevos aportes a aquellos entregados en virtud de la ley Nº 21.230, que Concede un Ingreso Familiar de Emergencia, en los términos señalados en los artículos siguientes.
 
-El aporte se concederá en el mes de abril del año 2021, para el cual se deberá postular de acuerdo a lo indicado en el artículo 2, a excepción de los beneficiarios incluidos en los literales a. y c. del artículo 3 y en el artículo 4, los que estarán incluidos en la respectiva nómina de beneficiarios.
+Los aportes se concederán en los meses de abril, mayo y junio del año 2021, para el cual se deberá postular de acuerdo a lo indicado en el artículo 2, a excepción de los beneficiarios incluidos en los literales a., c. y d. del artículo 3, los que estarán incluidos en la respectiva nómina de beneficiarios.
 
 #### Artículo 2
 
-Para poder ser beneficiario del nuevo aporte señalado en el artículo anterior, se deberá postular a él en los términos que establezca el Ministerio de Desarrollo Social y Familia a través de la Subsecretaría de Servicios Sociales, a excepción de los beneficiarios incluidos en los literales a. y c. del artículo 3 y en el artículo 4, los que estarán incluidos en la respectiva nómina de beneficiarios.
+Para poder ser beneficiario de los nuevos aportes señalados en el artículo anterior, se deberá postular a ellos en los términos que establezca el Ministerio de Desarrollo Social y Familia a través de la Subsecretaría de Servicios Sociales, a excepción de los beneficiarios incluidos en los literales a., c. y d. del artículo 3, los que estarán incluidos en la respectiva nómina de beneficiarios.
 
-El plazo para postular al aporte será de diez días corridos, contados desde el inicio del respectivo período de postulación.
+El plazo para postular a los nuevos aportes será de diez días corridos, contados desde el inicio del respectivo período de postulación.
 
 #### Artículo 3
 
-Podrán ser beneficiarios aquellos hogares que estén en comunas en "Paso 1: Cuarentena" o en "Paso 2: Transición", a que se refiere el Plan "Paso a Paso", contenido en el Capítulo II de la resolución exenta Nº 43, de 2021, del Ministerio de Salud, o la que en el futuro la reemplace, en los términos fijados en el artículo 5 del presente acto administrativo, que además cumplan con cualquiera de las siguientes condiciones:
+Podrán ser beneficiarios aquellos hogares de todas las comunas del país que cumplan con cualquiera de las siguientes condiciones:
 
-a. Que al menos un integrante del hogar haya sido parte de un hogar beneficiario del sexto aporte del Ingreso Familiar de Emergencia, regulado en el artículo 5 bis de la ley Nº 21.230, o
+a. Que, al menos un integrante del hogar haya sido parte de un hogar beneficiario del sexto aporte del Ingreso Familiar de Emergencia, regulado en el artículo 5 bis de la ley Nº 21.230, o
 
-b. Que pertenezcan al 80% más vulnerable de la población nacional, de conformidad al Instrumento de Caracterización Socioeconómica a que se refiere el artículo 5 de la ley Nº 20.379, que crea el sistema intersectorial de protección social, de acuerdo a la información disponible en el Registro de Información Social que establece el artículo 6º de la Ley Nº 19.949, al primer día hábil del mes mencionado en el inciso segundo del artículo 1, o
+b. Que, pertenezcan al 80% más vulnerable de la población nacional, de conformidad al Instrumento de Caracterización Socioeconómica a que se refiere el artículo 5 de la ley Nº 20.379, que crea el sistema intersectorial de protección social, de acuerdo a la información disponible en el Registro de Información Social que establece el artículo 6º de la ley Nº 19.949, al primer día hábil del mes correspondiente del inciso segundo del artículo 1, o
 
-c. Que al menos un integrante del hogar sea causante del subsidio familiar establecido en la ley Nº 18.020, o usuario del subsistema "Seguridades y Oportunidades", creado por la ley Nº 20.595, de acuerdo a la información disponible en el Registro de Información Social que establece el artículo 6º de la ley Nº 19.949, al primer día hábil del mes mencionado en el inciso segundo del artículo 1.
+c. Que, al menos un integrante del hogar sea causante del subsidio familiar establecido en la Ley Nº 18.020, o usuario del subsistema "Seguridades y Oportunidades", creado por la Ley Nº 20.595, de acuerdo a la información disponible en el Registro de Información Social que establece el artículo 6º de la Ley Nº 19.949, al primer día hábil del mes correspondiente del inciso segundo del artículo 1.
+
+d. Que, al menos un integrante del hogar haya sido parte de un hogar beneficiario del aporte del mes anterior al correspondiente de acuerdo al inciso segundo del artículo 1 del presente acto administrativo.
 
 #### Artículo 4
 
-Asimismo, podrán ser beneficiarios aquellos hogares que estén en comunas en "Paso 3: Preparación" o "Paso 4: Apertura inicial" del Plan "Paso a Paso" contenido en el Capítulo II de la resolución exenta Nº 43, de 2021, del Ministerio de Salud, o la que en el futuro la reemplace, en los términos fijados en el artículo 5 del presente acto administrativo, en que, de acuerdo a la información disponible en el Registro de Información Social que establece el artículo 6º de la ley Nº 19.949, al primer día hábil del mes señalado en el inciso segundo del artículo 1, al menos un integrante del hogar sea causante del subsidio familiar establecido en la ley Nº 18.020, o usuario del subsistema "Seguridades y Oportunidades", creado por la ley Nº 20.595.
-
-#### Artículo 5
-
-Para determinar en qué etapa del Plan "Paso a Paso" contenido en el Capítulo II de la resolución exenta Nº 43, de 2021, del Ministerio de Salud, o la que en el futuro la reemplace, se encuentran las respectivas comunas para los efectos de los artículos 3 y 4 del presente decreto exento, se considerarán las cinco semanas transcurridas entre los días 25 de febrero de 2021 y 31 de marzo de 2021, ambos inclusive.
-
-Teniendo presente el inciso anterior, para considerar una determinada comuna en uno u otro paso del Plan "Paso a Paso", se deberán seguir las siguientes reglas:
-
-1.- Si dentro del lapso señalado en el inciso primero ha estado a lo menos un día en el "Paso 1: Cuarentena" o en "Paso 2: Transición", se le considerará en Paso 1.
-
-2.- Si dentro del lapso indicado en el inciso primero no cumple con lo señalado en el numeral 1.- anterior, pero ha estado al menos un día en el "Paso 3: Preparación" o en el "Paso 4: Apertura inicial", se le considerará en Paso 3.
-
-#### Artículo 6
-
-Con todo, para ser beneficiario de los aportes establecidos en el artículo 1, el respectivo hogar deberá declarar un ingreso inferior al considerado en el segundo aporte de la tabla del artículo 3 de la ley Nº 21.230 de acuerdo a su número de integrantes del hogar, en la forma que fije el Ministerio de Desarrollo Social y Familia a través de la Subsecretaría de Servicios Sociales.
-
-Sin perjuicio de lo señalado en el inciso anterior, no deberán declarar ingresos aquellos hogares en que al menos un integrante del hogar haya sido parte de un hogar beneficiario del sexto aporte del Ingreso Familiar de Emergencia, regulado en el artículo 5 bis de la ley Nº 21.230.
-
-#### Artículo 7
-
-El hogar que cumpla con los requisitos de los artículos 3 y 6, tendrá derecho al aporte de acuerdo con la siguiente tabla:
+El hogar que cumpla con los requisitos del artículo 3, tendrá derecho al aporte de acuerdo con la siguiente tabla:
 
 Tabla 1
-
-.
-
-#### Artículo 8
-
-El hogar que cumpla con los requisitos de los artículos 4 y 6, tendrá derecho al aporte de acuerdo con la siguiente tabla:
-
-Tabla 2
 
 .
 
