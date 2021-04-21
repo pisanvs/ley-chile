@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 365, de fecha 31 de marzo de 2021, de esta Secretaría Regional, se aprobaron los planes y programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores denominada "Consultoría Técnica y Servicios de Capacitación Francisco Barraza OTEC E.I.R.L." nombre de fantasía "SCOM E.I.R.L.", cuyo propietario es la sociedad del mismo nombre. La Escuela de Conductores tendrá como Director a don Vladimir Ernesto Crisóstomo Belmar, y su sede estará ubicada en calle O'Higgins N° 1405, 2° piso, en la comuna de Coquimbo. Las horas pedagógicas autorizadas a la referida Escuela son 12 horas teóricas, 12 horas prácticas, con un total de 24 horas pedagógicas.-
+
+Juan Segundo Fuentes Isla, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Coquimbo.
