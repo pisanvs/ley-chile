@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "ANGAMOS SOLAR SpA"
+
+Mediante decreto exento Nº 137, de 23 de marzo de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Angamos Solar SpA", RUT. Nº 77.116.423-4, el inmueble fiscal denominado "Mejillones, Acceso Sur", ubicado en el km. 13,4 Ruta B-272, aproximadamente a 5 kilómetros al sureste de la ciudad de Mejillones, comuna de Mejillones, provincia y Región de Antofagasta, singularizado en el Plano Nº 02102-9.276-C.R., de una superficie de 39,00 hectáreas, enrolado en el Servicio de Impuestos Internos bajo el Rol Nº 204-2, amparado por la inscripción global a nombre del Fisco que rola a fojas 24 vta. Nº 27 del Registro de Propiedad del año 2016, del Conservador de Bienes Raíces de Mejillones. La concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la concesión para el período de estudios y construcción será de U.F. 1.082; y para el período de operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
