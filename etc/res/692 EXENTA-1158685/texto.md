@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 692, de fecha 29 de marzo de 2021, de esta Secretaría Regional, se aprueba Programa de Enseñanza correspondiente a los cursos conducentes a la obtención de las licencias clase B o no profesional a la Escuela de Conductores no profesional o Clase B denominada "Escuela de Conductores Jobal SpA", de propiedad de la sociedad del mismo nombre, pudiendo funcionar y actuar con el nombre de fantasía "Escuela de Conductores Jobal SpA", representada legalmente por doña Génesis Marcela Tapia León. La Escuela de Conductores tendrá como Director a don José Antonio Fuentealba Pacheco, su lugar de funcionamiento será la sede ubicada en calle Manuel Rodríguez Nº 1823, comuna de Hijuelas. Las horas pedagógicas autorizadas a la referida Escuela son 9 horas teóricas, 12 horas prácticas, con un total de 21 horas pedagógicas.-
+
+José Emilio Guzmán Cepeda, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
