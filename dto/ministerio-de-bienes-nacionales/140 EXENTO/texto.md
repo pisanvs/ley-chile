@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "GRENERGY RENOVABLES PACIFIC LIMITADA"
+
+Mediante decreto exento Nº 140, de 23 de marzo de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública concesión onerosa, a "Grenergy Renovables Pacific Limitada", RUT Nº 76.257.813-1, el inmueble fiscal denominado "Sierra Gorda Oriente", ubicado aproximadamente a 12 Kms. al noreste de Minera Gaby-Codelco, y aproximadamente a 26 Kms. al noreste de la intersección Ruta B-385 con Ruta B-255, comuna de Sierra Gorda, provincia y Región de Antofagasta, singularizado en el Plano Nº 02103-9.277-C.R., de una superficie de 449,00 hectáreas; enrolado en el Servicio de Impuestos Internos bajo el Rol Nº 8000-86, amparado por la inscripción global a nombre del Fisco que rola a fojas 1640 Nº 2575-A del Registro de Propiedad del año 1990, del Conservador de Bienes Raíces de Antofagasta. La concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la concesión para el período de estudios y construcción será de U.F. 5.432,90; y para el período de operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
