@@ -44,7 +44,7 @@ Asimismo, se estableció que, "el grado de deterioro de un vehículo de transpor
 
 Resuelvo:
 
-1. Suspéndese por un (1) año el plazo de cancelación del Registro Nacional de Servicios de Transporte Remunerado de Escolares respecto de los vehículos cuya antigüedad, de 16 y 18 años, se cumple al 31 de diciembre de 2020.
+1. Suspéndese por dos (2) años el plazo de cancelación del Registro Nacional de Servicios de Transporte Remunerado de Escolares respecto de los vehículos cuya antigüedad, de 16 y 18 años, se cumple al 31 de diciembre de 2020.
 
 2. Ordénase a las Secretarías Regionales Ministeriales de Transportes, la emisión de nuevos certificados de inscripción en el Registro Nacional de Servicios de Transporte Remunerado de Escolares respecto de los vehículos señalados en el resuelvo anterior, desde el 1 de enero de 2021 al 31 de diciembre de 2021.
 
