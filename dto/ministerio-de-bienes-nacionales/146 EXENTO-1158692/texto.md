@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ARICA Y PARINACOTA, A "CHAPIQUINA SOLAR SPA"
+
+Mediante decreto exento Nº 146, de 23 de marzo de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Chapiquina Solar SpA", RUT Nº 77.287.935-0, el inmueble fiscal denominado "Pampa Concordia Lote G9A", ubicado aproximadamente a 9 km de la ciudad y cercano a los centros poblados de Villa Frontera y Sector Ponderosa, comuna y provincia de Arica, Región de Arica y Parinacota, singularizado en el Plano Nº 15101-3247-C.R., de una superficie de 25,00 hectáreas; enrolado en el Servicio de Impuestos Internos bajo el Rol N° 12118-16, amparado por la inscripción global a nombre del Fisco que rola a fojas 25 vta. Nº 60 del Registro de Propiedad del año 1935, del Conservador de Bienes Raíces de Arica. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de UF 1012; y para el Periodo de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
