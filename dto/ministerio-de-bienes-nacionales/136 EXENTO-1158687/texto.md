@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "MICHILLA SOLAR SpA"
+
+Mediante decreto exento Nº 136, de 23 de marzo de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Michilla Solar SpA", Nº 77.116.422-6, el inmueble fiscal denominado "Cuesta Michilla", ubicado aproximadamente a 780 metros al noreste de la intersección de la Ruta 1 con la Ruta B-240 (Cuesta Michilla), Sector Caleta Michilla, comuna de Mejillones, provincia y Región de Antofagasta, singularizado en el Plano Nº 02102-9.300-C.R., de una superficie de 28,18 hectáreas, enrolado en el Servicio de Impuestos Internos bajo el Rol Nº 8001-4, amparado por la inscripción global a nombre del Fisco que rola a fojas 24 vta. Nº 27 del Registro de Propiedad del año 2016, del Conservador de Bienes Raíces de Mejillones. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de UF 767; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
