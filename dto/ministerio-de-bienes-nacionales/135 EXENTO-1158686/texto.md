@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "CHUNGUNGO SOLAR SPA"
+
+Mediante decreto exento Nº 135, de 23 de marzo de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Chungungo Solar SpA", RUT Nº 77.096.939-5, el inmueble fiscal denominado "Industrial La Negra Sur 1", ubicado aproximadamente a 1,65 kilómetros al sureste de la intersección de la Ruta 5 con la Ruta B-510, y aproximadamente a 7,7 kilómetros al sur del Sector La Negra, comuna, provincia y Región de Antofagasta, singularizado en el Plano Nº 02101-9.265- C.R., de una superficie total de 40,21 hectáreas, enrolado en el Servicio de Impuestos Internos bajo el Rol Nº 6701-81, amparado por la inscripción global a nombre del Fisco que rola a fojas 3497 Nº 3775 del Registro de Propiedad del año 2014 del Conservador de Bienes Raíces de Antofagasta. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de UF 900; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
