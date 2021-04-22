@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "SOLAR TI TREINTA Y UNO SPA"
+
+Mediante decreto exento Nº 138, de 23 de marzo de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Solar TI Treinta y Uno SpA", RUT Nº 77.287.819-2, el inmueble fiscal denominado "Industrial La Negra 2", ubicado aproximadamente a 3,1 kilómetros al sureste de la intersección de la Ruta 5 con la Ruta B-510, y aproximadamente a 9,5 kilómetros al sur del Sector La Negra, comuna, provincia y Región de Antofagasta, singularizado en el Plano Nº 02101-9.264-C.R., de una superficie de 29,98 hectáreas, enrolado en el Servicio de Impuestos Internos bajo el Rol Nº 6701-82, amparado por la inscripción global a nombre del Fisco que rola a fojas 3497 vta. Nº 3775 del Registro de Propiedad del año 2014, del Conservador de Bienes Raíces de Antofagasta. La concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la concesión para el período de estudios y construcción será de UF 675,20; y para el período de operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
