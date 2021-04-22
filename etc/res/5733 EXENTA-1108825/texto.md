@@ -18,7 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1. Establécense las siguientes exigencias sanitarias específicas para la internación a Chile de aves ornamentales o de recreación, considerándose en este grupo, las aves destinadas a exhibición, zoológicos, circos y comercio como mascotas:
+1. Establécese las siguientes exigencias sanitarias específicas para la internación a Chile de aves ornamentales o de recreación, considerándose en este grupo, las aves destinadas a exhibición, zoológicos, comercio y aves de compañía.
 
 ### 2. De la condición sanitaria del país o zona de procedencia:
 
@@ -28,7 +28,7 @@ El país o zona de procedencia, debe poseer un programa de vigilancia permanente
 
 ### 3. De la condición sanitaria del establecimiento de origen:
 
-Las aves deben permanecer en cautiverio desde su nacimiento o al menos 90 días previos a su embarque con destino a Chile, en un establecimiento registrado por la Autoridad Sanitaria Competente del país que certifica o bien, en el circo cuando se trate de aves con esta condición.
+Las aves deben permanecer en cautiverio desde su nacimiento o al menos 90 días previos a su embarque con destino a Chile, en un establecimiento registrado por la autoridad sanitaria competente del país que certifica. En el caso de las aves de compañía, el establecimiento corresponde al domicilio de origen.
 
 Las aves no deben proceder de zonas sujetas a restricciones sanitarias por programas sanitarios de control o erradicación de enfermedades de las aves, ni de establecimientos dentro de un radio de 10 Km, alrededor de los cuales se hayan producido focos de Influenza Aviar ni enfermedad de Newcastle en los últimos 30 días como mínimo.
 
@@ -48,9 +48,9 @@ Se debe presentar la resolución de autorización de fauna silvestre exótica em
 
 Las aves deben permanecer en cuarentena los últimos 21 días previos a su embarque con destino a Chile, y deben ser examinadas por un médico veterinario oficial del Servicio Veterinario del país de origen, no observándose signos clínicos evidentes de enfermedades infectocontagiosas al examen físico, período durante el cual deben haber sido sometidas a los siguientes tratamientos y pruebas diagnósticas con resultado negativo:
 
-Influenza aviar: PCR o Prueba de aislamiento viral tomada en los últimos 14 días de aislamiento, mediante hisopado traqueal y cloacal. En caso de aves de tamaño pequeño, se aceptará sólo hisopado cloacal.
+Influenza aviar: PCR o Prueba de aislamiento viral tomada en los últimos 14 días de aislamiento, mediante hisopado traqueal y cloacal. En caso de aves de tamaño pequeño, se aceptará sólo hisopado cloacal. Se aceptará para este efecto un pool de 5 muestras como máximo.
 
-Enfermedad de Newcastle: PCR o Prueba de aislamiento viral tomada en los últimos 14 días de aislamiento mediante hisopado traqueal y cloacal. En caso de aves de tamaño pequeño, se aceptará sólo hisopado cloacal.
+Enfermedad de Newcastle: PCR o Prueba de aislamiento viral tomada en los últimos 14 días de aislamiento mediante hisopado traqueal y cloacal. En caso de aves de tamaño pequeño, se aceptará sólo hisopado cloacal. Se aceptará para este efecto un pool de 5 muestras como máximo.
 
 Tricomoniasis (sólo para aves de la especie columbiforme): Microscopia directa de muestras obtenidas mediante hisopado esofágico y proventricular.
 
@@ -69,6 +69,8 @@ Al momento del embarque, las aves no deben presentar evidencias clínicas de enf
 La(s) jaula(s) debe(n) estar sellada(s) y etiquetada(s); indicando el país y dirección de procedencia y la identificación detallada de las aves.
 
 El transporte de las aves desde el lugar de origen hasta su lugar de embarque a Chile, se debe realizar bajo control oficial, en vehículos o compartimentos que aseguren el mantenimiento de sus condiciones higiénicas, sanitarias y de bienestar animal.
+
+El único puerto de ingreso autorizado en Chile es el Aeropuerto Internacional Comodoro Arturo Merino Benítez.
 
 ### 7. Condiciones de postingreso:
 
