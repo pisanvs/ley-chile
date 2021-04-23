@@ -22,13 +22,15 @@ La necesidad de dar cumplimiento a lo preceptuado en el artículo 90 del DL N° 
 
 Decreto:
 
-1. Fíjase para regir en el segundo semestre del año 2020, las siguientes Tasas de Derechos a las solicitudes y actuaciones relacionadas con el DL N° 2.306 de 1978, que dicta Normas sobre Reclutamiento y Movilización de las Fuerzas Armadas:
+1. Fíjase para regir en el primer semestre del año 2021, las siguientes Tasas de Derechos a las solicitudes y actuaciones relacionadas con el DL N° 2.306 de 1978, que dicta Normas sobre Reclutamiento y Movilización de las Fuerzas Armadas:
 
-2. Las Tasas de los Derechos indicadas precedentemente, regirán desde la publicación del presente decreto supremo. Su vigencia expirará con la publicación del decreto supremo correspondiente al primer semestre de 2021.
+2. Las Tasas de los Derechos indicadas precedentemente, regirán desde la publicación del presente decreto supremo. Su vigencia expirará con la publicación del decreto supremo correspondiente al segundo semestre de 2021.
 
 3. Los Derechos que afectan a las Solicitudes antes citadas, se pagarán de acuerdo a los procedimientos administrativos que establezca la Dirección General de Movilización Nacional, la que también emitirá instrucciones a los Jefes Cantonales de Reclutamiento respecto a las rendiciones de cuentas de los valores recaudados.
 
 La Dirección General de Movilización Nacional podrá eximir el pago de todo o parte de los Derechos que establece la presente Tabla a los ciudadanos residentes en el extranjero o en casos de pobreza comprobada, ambos en casos calificados.
+
+> **Nota.** La letra b) del artículo único del Decreto 197 Exento, Defensa, publicado el 23.04.2021, modifica la presente norma en el sentido de reemplazar en el Ítem 07 el guarismo $630 (seiscientos treinta pesos) por $500.- (quinientos pesos) y en el Ítem 10 el guarismo $0 (cero pesos) por $500.- (quinientos pesos).
 
 Anótese, comuníquese y publíquese en el Diario Oficial y Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros y Policía de Investigaciones de Chile.- Alberto Espina Otero, Ministro de Defensa Nacional.- Ignacio Briones Rojas, Ministro de Hacienda.
 
