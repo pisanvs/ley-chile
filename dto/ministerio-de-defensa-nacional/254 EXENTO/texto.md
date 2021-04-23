@@ -24,11 +24,11 @@ La necesidad de dar cumplimiento a lo preceptuado en el artículo 7 de la ley N�
 
 Decreto:
 
-1. Fíjase para el año 2020 las siguientes tarifas para los permisos y diligencias relacionadas con la ley Nº 18.356 que establece Normas sobre el Control de las Artes Marciales de acuerdo al siguiente detalle:
+1. Fíjase para el año 2021 las siguientes tarifas para los permisos y diligencias relacionadas con la ley Nº 18.356 que establece Normas sobre el Control de las Artes Marciales de acuerdo al siguiente detalle:
 
 2. Las tarifas que afectan a los Permisos y Actuaciones antes citados, se pagarán de acuerdo a los procedimientos administrativos que establezca la Dirección General de Movilización Nacional, la que también emitirá instrucciones a las Autoridades Fiscalizadoras respecto a las rendiciones de cuenta de los valores recaudados, lo que, en todo caso, deberá efectuarse el primer día hábil de cada mes.
 
-3. Las tarifas indicadas precedentemente, regirán desde la publicación del presente decreto supremo. Su vigencia expirará con la publicación del decreto supremo correspondiente al año 2021.
+3. Las tarifas indicadas precedentemente, regirán desde la publicación del presente decreto supremo. Su vigencia expirará con la publicación del decreto supremo correspondiente al año 2022.
 
 4. La Dirección General de Movilización Nacional podrá eximir del pago de todo o parte de las tarifas que establece la presente tabla, en los casos calificados por el Reglamento Complementario.
 
