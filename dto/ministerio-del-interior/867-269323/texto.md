@@ -540,6 +540,8 @@ Metil 2-(1-(5-fluoropentil)-1H-indazol-3-carboxamida)-3,3-dimetilbutanoato(5F-MD
 
 3-[1-(etilamino)ciclohexil]fenol (3-HO-PCE o 3-hidroxietilciclidina)
 
+.
+
 Cannabis, sumidades floridas o con frutos de la planta del género cannabis de las cuales no se ha extraído la resina.
 
 Los isómeros, ésteres y éteres de las sustancias de esta lista, a menos que estén expresamente exceptuados,
@@ -561,6 +563,8 @@ N-oximorfina Oxazepam Oxazolam Oxicodona Oximorfona Pemolina Pentazocina Pentoba
 Metil1-(2-feniletil)-4-[fenil(propanoil)amino]piperidina-4-carboxilato (Carfentanilo)
 
 4-(2-clorofenil)-2-etil-9-metil-6H-tieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepina (Etizolam)
+
+.
 
 Productos farmacéuticos elaborados en base a plantas del género cannabis Cannabis, extractos y tinturas de
 
@@ -584,7 +588,9 @@ Acetato de Amilo Acetato de Butilo Acetato de Etilo Acetato de Metilo Acetato de
 
 Califícase como especies vegetales productoras de sustancias estupefacientes o sicotrópicas, a que se refiere el artículo 8º de la ley Nº 20.000, las siguientes:
 
-Cannabis Sativa L Cacto Peyote Catha Edulis (Khat) Datura Estramonium L Hongo Psilocide Eritroxylon Coca Papaver Somniferum L Salvia divinorum (salvinorina A)
+Cannabis Sativa L Cacto Peyote Catha Edulis (Khat) Datura Estramonium L Hongo Psilocybe Eritroxylon Coca Papaver Somniferum L Salvia divinorum
+
+Mitragyna speciosa (Kratom).
 
 ## Título II
 
