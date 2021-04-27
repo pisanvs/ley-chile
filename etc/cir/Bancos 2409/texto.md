@@ -3128,8 +3128,6 @@ g) Comprobar el domicilio del interesado, de acuerdo con lo instruido en el nume
 
 h) Suscribir con el interesado un documento que contenga las condiciones generales relativas a la cuenta corriente que se abre, según lo indicado en el numeral 1.3 de este título.
 
-Puede prescindirse de las exigencias señaladas en las letras f) y g) anteriores, cuando la persona que abre la cuenta corriente sea notoriamente conocida por alguna actividad pública o privada de importancia o cuando el solicitante sea presentado por un cliente de la empresa que le merezca absoluta fe y se responsabilice, bajo su firma, de conocer el domicilio y las actividades de la persona que presenta.
-
 Los requisitos señalados en las letras a), b), c) y e), se exigirán también, junto con el correspondiente mandato otorgado por el titular, para registrar a las personas que actuarán por poder en cuentas corrientes abiertas a nombre de una persona natural. Sin embargo, podrá prescindirse de los tres primeros requisitos en los casos en que la respectiva cuenta corriente tenga una cierta antigüedad y haya sido llevada en forma satisfactoria, o cuando su titular sea una persona suficientemente conocida por el Banco.
 
 Para abrir cuentas corrientes a personas jurídicas, debe verificarse que la sociedad esté legalmente constituida y que sus representantes estén debidamente facultados para girar. En este caso, los requisitos mencionados en las letras a), b), c),
@@ -3144,15 +3142,21 @@ Para abrir cuentas corrientes a personas jurídicas, debe verificarse que la soc
 
 - **e)** y la acreditación de que están legalmente facultados para girar sobre la cuenta corriente.
 
+La apertura podrá ser realizada en forma remota a través de medios tecnológicos en que el banco sea capaz, según las políticas, procedimientos y demás resguardos aprobados por el Directorio al efecto, de verificar en forma fidedigna la identidad del Titular o su representante, según sea el caso, mediante procedimientos de autentificación seguros, sea que ellos constituyan o no el uso de firma electrónica avanzada. Los resguardos aprobados por el Directorio deben considerar la adecuada gestión de los riesgos legales y operativos, requeridos para prevenir y detectar, en su caso, la eventual utilización de las cuentas corrientes en la comisión de ilícitos vinculados con la suplantación de identidad de personas, el lavado de activos, el financiamiento del terrorismo u otro tipo de fraudes o delitos.
+
+En los mismos términos indicados en el párrafo anterior, los antecedentes de respaldo requeridos en este numeral como exigencias mínimas, también podrán ser proporcionados o recopilados de forma remota por medios electrónicos y conservados en condiciones que aseguren su fidelidad, preservación y la reproducción de su contenido.
+
+En el caso de personas no residentes ni domiciliadas en Chile, naturales y jurídicas, el requisito de contar con Rol Único Tributario o Cédula Nacional de Identidad, en su caso, solo será necesaria su acreditación en las circunstancias en que el Servicio de Impuestos Internos o el Banco Central de Chile así lo requiera para el cumplimiento de su normativa, en relación a las operaciones que efectúe el titular de la cuenta.
+
 1.2. Registro y comprobación del domicilio del cuentacorrentista.
 
 1.2.1. Registro del domicilio.
 
 Atendida la importancia que tiene el domicilio que el cliente registra en el banco para los efectos de su cuenta corriente, especialmente para la eventual notificación que hubiere de hacérsele en caso de un protesto de cheque, el lugar que se declare como tal deberá ser perfectamente determinable e individualizado inequívocamente. Al tratarse de domicilios rurales, éstos deberán contener los datos necesarios para que puedan ser ubicados con relativa facilidad.
 
-Por no ajustarse a la ley, los bancos no pueden registrar domicilios fijados en el extranjero, ni considerar como domicilios, por motivo alguno, casillas de correos.
+Por no ajustarse a la ley, los bancos no pueden registrar ni considerar como domicilios, por motivo alguno, casillas de correos.
 
-A las personas no residentes en Chile, debe exigírseles que fijen un lugar determinado dentro del territorio del país como domicilio para tales efectos.
+Las personas no residentes ni domiciliadas en Chile podrán registrar un domicilio fuera del país cuando acuerden dentro de las condiciones generales que rija a la respectiva cuenta, que el banco no proporcionará formularios para la emisión de cheques, en los términos del numeral 1.8 siguiente. En caso contrario, debe exigírseles que fijen un lugar determinado dentro del territorio del país como domicilio para tales efectos, requisito que podrá cumplirse mediante la designación de un apoderado habilitado para ser notificado de cualquier gestión judicial o extrajudicial que realice el banco o terceros con motivo del contrato de cuenta corriente.
 
 1.2.2. Verificación del domicilio.
 
@@ -3198,7 +3202,7 @@ Por las especiales características de estas cuentas y atendidos los requisitos 
 
 1.6. Cuentas corrientes a nombres de patrimonios que carecen de personalidad jurídica pero cuyos administradores gozan de tal atributo.
 
-Esta Superintendencia es de opinión que las empresas bancarias pueden abrir cuentas corrientes a todos aquellos fondos o patrimonios que, sin tener personalidad jurídica propia, tengan una administración encomendada por la ley a otro ente que goza de personalidad jurídica, como ocurre, por ejemplo, con Fondos Mutuos y Fondos de Pensiones respecto de sus Sociedades Administradoras o de los Fondos de Crédito Universitario, respecto de las Instituciones de Educación Superior.
+Esta Comisión es de opinión que las empresas bancarias pueden abrir cuentas corrientes a todos aquellos fondos o patrimonios que, sin tener personalidad jurídica propia, tengan una administración encomendada por la ley a otro ente que goza de personalidad jurídica, como ocurre, por ejemplo, con Fondos Mutuos y Fondos de Pensiones respecto de sus Sociedades Administradoras o de los Fondos de Crédito Universitario, respecto de las Instituciones de Educación Superior.
 
 Esa opinión se fundamenta en que, en esos casos, existen dos patrimonios, uno de los cuales constituye una suerte de patrimonio de afectación que tiene su propia individualidad jurídica, aun cuando no tenga el atributo de personalidad jurídica propiamente tal. Por tal motivo, no existe inconveniente para abrir dos cuentas corrientes distintas: una en que se depositen los fondos del ente administrador y otra con los fondos que administre. Estos últimos constituyen un patrimonio separado, que no puede verse alterado por obligaciones del administrador. En consecuencia, ambas cuentas deben considerarse independientes, aunque manejadas por una sola persona la que en cada caso asume distinto carácter, por lo que no puede existir compensación alguna entre ambas.
 
@@ -3206,7 +3210,13 @@ Esa opinión se fundamenta en que, en esos casos, existen dos patrimonios, uno d
 
 La Ley sobre Cuentas Corrientes Bancarias y Cheques, en su artículo 22, expresa: "...la Superintendencia dictará normas de carácter general destinadas a sancionar con multa a aquellos bancos respecto de los cuales pueda presumirse que, por el número de cheques que protestan en cada semestre, no dan cumplimiento cabal a las instrucciones sobre apertura de cuentas corrientes bancarias."
 
-Concordante con dicho precepto, al término de cada período semestral y como consecuencia de una evaluación del comportamiento de los protestos que registra cada uno de los bancos, esta Superintendencia puede aplicar sanciones, de conformidad con el artículo 19 de la Ley General de Bancos, a aquellos bancos cuya clientela acuse protestos que excedan el 1% de los cheques presentados.
+Concordante con dicho precepto, al término de cada período semestral y como consecuencia de una evaluación del comportamiento de los protestos que registra cada uno de los bancos, esta Comisión puede aplicar sanciones, de conformidad con el artículo 19 de la Ley General de Bancos, a aquellos bancos cuya clientela acuse protestos que excedan el 1% de los cheques presentados.
+
+1.8. Cuentas corrientes que no contemplen la entrega de formularios para la emisión de cheques
+
+Las empresas bancarias podrán pactar con sus clientes, como parte de las condiciones generales, que la entidad no estará obligada a proporcionar formularios para el giro de cheques. Sin perjuicio de lo anterior, los bancos deberán disponer de un formulario en sus sucursales para que sus clientes puedan efectuar únicamente giros por caja con cargo a sus cuentas.
+
+Asimismo, deberán mantener publicadas en un lugar destacado de sus sitios web las alternativas disponibles para instruir órdenes de pago con cargo a la respectiva cuenta (vale vista, transferencias electrónicas de fondos de bajo y alto valor, etc.), con sus tarifas actualizadas.
 
 ### 2. Cuentacorrentistas con más de una cuenta corriente en el mismo banco
 
@@ -3270,7 +3280,7 @@ Las modificaciones a la tasa de interés y su aplicación, se regirán por lo di
 
 6.3. Identificación de las cuentas que percibirán intereses.
 
-Las instituciones bancarias que resuelvan pagar intereses a sus clientes sobre los saldos disponibles en cuentas corrientes deberán mantener, para efectos de la información que podrá requerir esta Superintendencia, una separación entre aquellas cuentas corrientes cuyos titulares hayan contratado con el banco el pago de intereses, de aquellas otras que no se acogerán a ese beneficio. Esa separación no tendrá que ser necesariamente contable, pero sí deberá permitir extraer la información relativa a esas cuentas como, por ejemplo, el número de cuentas corrientes acogidas a ese pago, los saldos mantenidos afectos al pago, monto de intereses pagados y otros datos de carácter general que puedan necesitarse sobre las mismas.
+Las instituciones bancarias que resuelvan pagar intereses a sus clientes sobre los saldos disponibles en cuentas corrientes deberán mantener, para efectos de la información que podrá requerir esta Comisión, una separación entre aquellas cuentas corrientes cuyos titulares hayan contratado con el banco el pago de intereses, de aquellas otras que no se acogerán a ese beneficio. Esa separación no tendrá que ser necesariamente contable, pero sí deberá permitir extraer la información relativa a esas cuentas como, por ejemplo, el número de cuentas corrientes acogidas a ese pago, los saldos mantenidos afectos al pago, monto de intereses pagados y otros datos de carácter general que puedan necesitarse sobre las mismas.
 
 6.4. Información al público sobre pago de intereses.
 
@@ -3356,7 +3366,7 @@ De ninguna manera se podrá, para este efecto, enmendar la fecha de giro origina
 
 El artículo 13 de la Ley sobre Cuentas Corrientes Bancarias y Cheques manifiesta que el cheque debe expresar la cantidad girada en letras y números. No se cumple con este requisito si existe diferencia entre estas dos cantidades y, por lo tanto, los formularios de cheques así extendidos deben ser rechazados por no cumplir con una formalidad legal indispensable.
 
-Por estar establecido expresamente dicho requisito en el mencionado artículo 13, resulta inaplicable, a juicio de esta Superintendencia, lo dispuesto en el artículo 6° de la Ley N° 18.092, para las letras de cambio. Vale decir, si en el cheque se mencionan dos cantidades diferentes, el librado no puede presumir que la cantidad escrita con letras es la que corresponde pagar, ya que el documento adolece de un vicio formal que impide su pago.
+Por estar establecido expresamente dicho requisito en el mencionado artículo 13, resulta inaplicable, a juicio de esta Comisión, lo dispuesto en el artículo 6° de la Ley N° 18.092, para las letras de cambio. Vale decir, si en el cheque se mencionan dos cantidades diferentes, el librado no puede presumir que la cantidad escrita con letras es la que corresponde pagar, ya que el documento adolece de un vicio formal que impide su pago.
 
 1.4. Giro de cheques mediante facsímiles.
 
@@ -3374,7 +3384,7 @@ b) Que se trate de cheques que se emitan a través de medios mecánicos, pudiend
 
 c) Que los procedimientos que se utilicen ofrezcan seguridad; y,
 
-d) Que a juicio de esta Superintendencia, el elevado número de cheques que deban emitirse justifique el procedimiento.
+d) Que a juicio de esta Comisión, el elevado número de cheques que deban emitirse justifique el procedimiento.
 
 Este Organismo considera razonable la utilización de procedimientos mecánicos para estampar la cantidad girada y la firma, cuando la cantidad de cheques que deba emitir el comitente no sea inferior a 100 cheques mensuales.
 
@@ -3458,9 +3468,9 @@ Por ejemplo, un cheque girado el 31 de marzo en el extranjero puede ser presenta
 
 El último inciso del referido artículo 23, establece que los plazos para presentar a cobro los cheques se aumentarán con los días hábiles durante los cuales el banco librado hubiere suspendido, por algún motivo, sus operaciones y pagos.
 
-A juicio de esta Superintendencia, esta disposición es aplicable durante el lapso en que las actividades se suspenden por causas de fuerza mayor o por huelga legal que afectan en forma particular a una empresa bancaria o a alguna de sus oficinas, pero no tiene aplicación cuando la suspensión de actividades afecta a todas las empresas bancarias del país por disposición de la ley.
+A juicio de esta Comisión, esta disposición es aplicable durante el lapso en que las actividades se suspenden por causas de fuerza mayor o por huelga legal que afectan en forma particular a una empresa bancaria o a alguna de sus oficinas, pero no tiene aplicación cuando la suspensión de actividades afecta a todas las empresas bancarias del país por disposición de la ley.
 
-En lo que concierne a la imposibilidad de presentar un cheque a cobro un día sábado o domingo, esta Superintendencia entiende que el plazo de caducidad no admite ampliación por ese motivo, por cuanto se trata de una disposición legal aplicable en forma general.
+En lo que concierne a la imposibilidad de presentar un cheque a cobro un día sábado o domingo, esta Comisión entiende que el plazo de caducidad no admite ampliación por ese motivo, por cuanto se trata de una disposición legal aplicable en forma general.
 
 5.4. Concepto de "Plaza" para los efectos del término de vigencia de los cheques.
 
@@ -3566,7 +3576,7 @@ La existencia del mandato deberá constar en el banco que efectúa la cobranza, 
 
 7.8. Endoso y cancelación de cheques depositados.
 
-No existe inconveniente en que un banco reciba cheques girados en su contra, endosados en comisión de cobranza. Al respecto, esta Superintendencia ha sustentado siempre que una empresa bancaria puede asumir la doble calidad: la de comisionista para el cobro, con respecto al portador del documento y la de banco librado con respecto al girador del cheque. Ello tiene especial importancia cuando se trata de un cheque cruzado.
+No existe inconveniente en que un banco reciba cheques girados en su contra, endosados en comisión de cobranza. Al respecto, esta Comisión ha sustentado siempre que una empresa bancaria puede asumir la doble calidad: la de comisionista para el cobro, con respecto al portador del documento y la de banco librado con respecto al girador del cheque. Ello tiene especial importancia cuando se trata de un cheque cruzado.
 
 El hecho de que un cheque que sea depositado en la misma oficina contra la cual está girado, se endose en vez de cancelarse, no faculta al banco para retener los fondos o postergar el cargo en la cuenta corriente del girador. En otros términos, no hay razón para que el banco trate de una manera diferente los cheques endosados en comisión de cobranza que se depositen, con respecto a aquéllos que son cancelados al depositarse.
 
@@ -3652,7 +3662,7 @@ El artículo 46 de la Ley sobre Cuentas Corrientes Bancarias y Cheques contiene 
 
 11.5. Pago de cheques a través de la cámara de compensación.
 
-El pago de cheques presentados en el canje, a través de la cámara de compensación, debe efectuarse de acuerdo con las disposiciones contenidas en el Reglamento de Cámara de Compensación del Banco Central de Chile y con las disposiciones impartidas por esta Superintendencia mediante el Capítulo 5-1 de esta Recopilación de normas.
+El pago de cheques presentados en el canje, a través de la cámara de compensación, debe efectuarse de acuerdo con las disposiciones contenidas en el Reglamento de Cámara de Compensación del Banco Central de Chile y con las disposiciones impartidas por esta Comisión mediante el Capítulo 5-1 de esta Recopilación de normas.
 
 ### 12. Orden de no pago del cheque
 
@@ -3710,7 +3720,7 @@ Como ya se señaló en el numeral 11.1 de este título, los bancos sólo están 
 
 La Ley sobre Cuentas Corrientes Bancarias y Cheques señala que los cheques se protestan por falta de pago, pero no indica las situaciones que deben originar la negativa del banco librado a pagarlos. Por lo tanto, al no estar enumeradas en la ley dichas situaciones, corresponde al banco indicar la causal que impide el pago.
 
-Debido a que es frecuente que en el cobro de un cheque concurran varias causales para su protesto y por la importancia que ello tiene, tanto para el librador como para el portador, porque sólo determinadas causales de protesto originan responsabilidad penal para el primero, esta Superintendencia ha establecido las siguientes prioridades que los bancos deben respetar en lo relativo a causales de protesto de un cheque:
+Debido a que es frecuente que en el cobro de un cheque concurran varias causales para su protesto y por la importancia que ello tiene, tanto para el librador como para el portador, porque sólo determinadas causales de protesto originan responsabilidad penal para el primero, esta Comisión ha establecido las siguientes prioridades que los bancos deben respetar en lo relativo a causales de protesto de un cheque:
 
 a) Causales de forma.
 
@@ -3852,7 +3862,7 @@ Por lo tanto, la persona que pierde un libreto de cheques o algún formulario de
 
 ### 1. Devolución de los cheques pagados
 
-Conforme a lo dispuesto en el inciso 40 del artículo 155 de la Ley General de Bancos, esta Superintendencia autoriza a las empresas bancarias para devolver al librador los cheques cancelados, siempre que se cumplan las siguientes condiciones:
+Conforme a lo dispuesto en el inciso 40 del artículo 155 de la Ley General de Bancos, esta Comisión autoriza a las empresas bancarias para devolver al librador los cheques cancelados, siempre que se cumplan las siguientes condiciones:
 
 a) Que el banco conserve micrograbaciones o microfilmes de los cheques entregados al librador, al menos hasta que se cumplan seis años a contar de la fecha en que ellos fueron pagados; y,
 
@@ -3887,6 +3897,8 @@ El instrumento con las condiciones generales que rijan para los contratos de cue
 - Señalar que el banco queda autorizado para cargar en la cuenta los gastos por los conceptos que se indiquen, efectuados en interés del cliente, y que los cargos se entenderán aceptados dentro de los diez días siguientes a la recepción del respectivo aviso;
 
 - Indicar que el comprobante de depósito no surtirá ningún efecto legal si no lleva el timbre de caja del banco;
+
+- Indicar expresamente si el respectivo contrato de cuenta corriente considera proporcionar formularios para el giro de cheques;
 
 - Establecer que el banco se reserva el derecho de poner fin a la cuenta cuando lo estime conveniente.
 
@@ -19896,7 +19908,7 @@ iii) correspondan a depósitos en cuentas corrientes.
 
 m) Recepción de pagos o declaraciones de impuestos, respecto del contribuyente.
 
-En las operaciones no comprendidas en la enumeración anterior o respecto de las personas que intervengan en alguna de esas operaciones y que no hayan sido mencionadas en este número, no se exigirá la exhibición de la cédula del RUT.
+En las operaciones no comprendidas en la enumeración anterior o respecto de las personas que intervengan en alguna de esas operaciones y que no hayan sido mencionadas en este número, no se exigirá la exhibición de la cédula del RUT. Tampoco será requerido en el caso de los contratos de cuenta corriente bancaria celebrados con personas no residentes ni domiciliadas en Chile, naturales y jurídicas, según lo dispuesto en el numeral 1.1 del Título II del Capítulo 2-2 de esta Recopilación.
 
 ### 3. Constancia de la exhibición del RUT o de la cédula de identidad
 
