@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LAS LABORES DE "JORNALERO TEMPORAL FUNDICIÓN", "OPERARIO TEMPORAL FUNDICIÓN" Y "ELECTRICISTA OFICIAL PRODUCCIÓN", EJECUTADA PARA EL EMPLEADOR "CODELCO CHILE DIVISIÓN EL TENIENTE"
+
+Por resolución exenta N° 42, de 1 de febrero de 2021, la Directora Nacional (S) del Instituto de Previsión Social, aprobó la solicitud presentada por don Waldo Soto Césped, para calificar como Trabajo Pesado, las labores de "Jornalero Temporal Fundición", "Operario Temporal Fundición" y "Electricista Oficial Producción", ejecutada para el empleador "Codelco Chile-División El Teniente", durante el periodo comprendido entre el 19.10.87 hasta el 31.12.95, correspondiendo aplicar una rebaja de edad de dos años por cada cinco años de labores pesadas (2x5), beneficio que le permite impetrar su jubilación por vejez, con rebaja en la edad.-
+
+María Soledad Ramírez Herrera, Directora Nacional (S).
