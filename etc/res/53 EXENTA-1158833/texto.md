@@ -1,0 +1,5 @@
+SE DESIGNA AL JEFE DIVISIÓN BENEFICIOS COMO SUJETO PASIVO DE LA LEY N° 20.730, QUE REGULA EL LOBBY Y LA GESTIÓN DE INTERESES PARTICULARES ANTE AUTORIDADES Y FUNCIONARIOS Y DESIGNA ASISTENTE TÉCNICO
+
+Por resolución exenta N° 53, de 12 de febrero de 2021, la Directora Nacional (S) del Instituto de Previsión Social, designó como Sujeto Pasivo de la Ley N° 20.730, al Jefe División Beneficios, don José Miguel Lagos Serrano, quien en razón del cargo que desempeña, tiene atribuciones de carácter decisorias y relevantes para este Instituto, y designó como Asistente Técnico de la referida jefatura, a la funcionaria doña Ángela María González González, correspondiéndole colaborar en la gestión y registro de la agenda pública del referido Jefe División, en la Plataforma de la Ley del Lobby.-
+
+María Soledad Ramírez Herrera, Directora Nacional (S).
