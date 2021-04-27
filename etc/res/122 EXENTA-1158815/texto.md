@@ -1,0 +1,5 @@
+SE DESIGNA A LA JEFA APOYO LEGAL DE LA DIVISIÓN BENEFICIOS COMO SUJETO PASIVO DE LA LEY N° 20.730, QUE REGULA EL LOBBY Y LA GESTIÓN DE INTERESES PARTICULARES ANTE AUTORIDADES Y FUNCIONARIOS Y DESIGNA ASISTENTE TÉCNICO
+
+Por resolución exenta N° 122, de 26 de marzo de 2021, el Director Nacional, designó como Sujeto Pasivo de la Ley N° 20.730, a la Jefa Apoyo Legal de la División Beneficios, doña María Loreto González Herrera, Profesional Grado 4° EUS, quien en razón del cargo que desempeña, tiene atribuciones de carácter decisorias y relevantes para este Instituto o influye decisivamente en quienes tienen dichas atribuciones, de conformidad con lo dispuesto en el Artículo 3°, de la Ley N° 20.730, reglamentada por el decreto N° 71, de 2014, del Ministerio Secretaría General de la Presidencia.-
+
+Patricio Coronado Rojo, Director Nacional.
