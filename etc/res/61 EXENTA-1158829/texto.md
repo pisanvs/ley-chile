@@ -1,0 +1,5 @@
+SE DESIGNA AL SUBDIRECTOR DE SISTEMAS DE INFORMACIÓN Y DE ADMINISTRACIÓN SUBROGANTE COMO SUJETO PASIVO DE LA LEY N° 20.730, QUE REGULA EL LOBBY Y LA GESTIÓN DE INTERESES PARTICULARES ANTE AUTORIDADES Y FUNCIONARIOS Y DESIGNA ASISTENTE TÉCNICO
+
+Por resolución exenta N° 61, de 23 de febrero de 2021, el Director Nacional del Instituto de Previsión Social, designó como Sujeto Pasivo de la Ley N° 20.730, al Subdirector de Sistemas de Información y de Administración subrogante, don Mauricio Hernán Quintana Díaz, profesional Grado 3° EUS, quien en razón del cargo que desempeña, tiene atribuciones de carácter decisorias y relevantes para este Instituto, de conformidad con lo dispuesto en el Artículo 3°, de la Ley N° 20.730, reglamentada por el decreto N° 71, de 2014, del Ministerio Secretaría General de la Presidencia y designó como Asistente Técnico de la referida jefatura a la funcionaria doña Myriam Caris Zapata, correspondiéndole colaborar en la gestión y registro de la agenda pública del referido Subdirector, en la Plataforma de la Ley del Lobby.-
+
+Patricio Coronado Rojo, Director Nacional.
