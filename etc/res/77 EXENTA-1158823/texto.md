@@ -1,0 +1,5 @@
+APRUEBA CONTRATO DE COMODATO DE FECHA 11.01.2020, SUSCRITO ENTRE LA ILUSTRE MUNICIPALIDAD DE PAIHUANO Y EL INSTITUTO DE PREVISIÓN SOCIAL, RESPECTO DEL INMUEBLE DE DICHA MUNICIPALIDAD UBICADO EN CALLE BALMACEDA S/N, COMUNA DE PAIHUANO, PARA EL USO Y FUNCIONAMIENTO DEL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL AUXILIAR IPS DE PAIHUANO, QUE SE CREA POR LA PRESENTE RESOLUCIÓN
+
+Resolución exenta N° 77, de 10 de marzo de 2021, el Director Nacional, aprobó el Contrato de Comodato suscrito el 8 de febrero de 2021, por medio del cual la I. Municipalidad de Paihuano entrega en Comodato a este Instituto de Previsión Social, una superficie de 14,4 m2, del inmueble de su propiedad denominado "Predio La Fábrica", ubicado en calle Balmaceda s/n, de la comuna de Paihuano.-
+
+Patricio Coronado Rojo, Director Nacional.
