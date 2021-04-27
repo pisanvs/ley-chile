@@ -1,0 +1,5 @@
+APRUEBA CONTRATO DE COMODATO DE FECHA 27.01.2021, SUSCRITO ENTRE LA ILUSTRE MUNICIPALIDAD DE RENCA Y EL INSTITUTO DE PREVISIÓN SOCIAL, RESPECTO DEL INMUEBLE DE DICHA MUNICIPALIDAD UBICADO EN AVENIDA DOMINGO SANTA MARÍA N° 4087, LOTE 3, COMUNA DE RENCA, PARA EL USO Y FUNCIONAMIENTO DEL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL IPS DE RENCA, CATEGORÍA D, QUE SE CREA POR LA PRESENTE RESOLUCIÓN
+
+Por resolución exenta N° 58, de 15 de febrero de 2021, la Directora Nacional (S) del Instituto de Previsión Social, aprobó el Contrato de Comodato suscrito el 27 de enero de 2021, por medio del cual la I. Municipalidad de Renca entrega en Comodato a este Instituto de Previsión Social, una superficie de 77,36 m² del inmueble de su propiedad ubicado en Avenida Domingo Santa María N° 4087, Lote 3, de la comuna de Renca, singularizado en la Cláusula Segunda del mismo y en su Resuelvo N° 3, creó el Centro de Atención Previsional Integral IPS de Renca, Categoría D, de conformidad con lo establecido en la resolución exenta N° 271, de 9 de agosto de 2019, con dependencia de la Dirección Regional Metropolitana.-
+
+María Soledad Ramírez Herrera, Directora Nacional (S).
