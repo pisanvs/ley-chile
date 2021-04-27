@@ -28,7 +28,7 @@ c) El monto del préstamo expresado en Unidades de Fomento. La equivalencia en p
 
 d) Contener la declaración de que el mutuo es gratuito.
 
-e) El plazo para la restitución del préstamo, el que no podrá ser superior a tres años. Este plazo podrá ser prorrogado por acuerdo de las partes, fundados en razones de caso fortuito o fuerza mayor y hasta por un año.
+e) El plazo para la restitución del préstamo, el que no podrá ser superior a tres años. Este plazo podrá ser prorrogado por acuerdo de las partes hasta por un año.
 
 f) La forma de otorgamiento y restitución del préstamo.
 
@@ -118,7 +118,9 @@ f) En el caso que el Serviu haga efectivo el documento de garantía que cauciona
 
 g) En caso de entregarse como garantía un Certificado de Fianza, éste deberá ser emitido por una Institución de Garantía Recíproca regida por la ley Nº20.179, clasificada en categoría A en el Registro respectivo que lleva la Comisión para el Mercado Financiero.
 
-h) Las garantías se devolverán una vez que se haga efectiva la restitución del préstamo. No obstante lo anterior, habiéndose acreditado la recepci�n conforme por parte de la Dirección de Obras Municipales y del Serviu de la totalidad de las obras del proyecto en cuestión, financiadas con el crédito, podrán reemplazarse las garantías consistentes en boleta bancaria de garantía, póliza de garantía de ejecución inmediata o certificado de fianza recíproca, por un pagaré autorizado ante Notario, por el valor total del crédito adeudado.
+h) Las garantías se devolverán una vez que se haga efectiva la restitución del préstamo. No obstante lo anterior, habiéndose acreditado la recepción conforme por parte de la Dirección de Obras Municipales y del Serviu de la totalidad de las obras del proyecto en cuestión, financiadas con el crédito, podrán reemplazarse las garantías consistentes en boleta bancaria de garantía, póliza de garantía de ejecución inmediata o certificado de fianza recíproca, por un pagaré autorizado ante Notario, por el valor total del crédito adeudado.
+
+i) En caso de proyectos de las tipologías de Construcción en Sitio Propio, Pequeños Condominios y Densificación Predial, el reemplazo de las garantías señalado podrá ser efectuado proporcionalmente, por cada vivienda que acredite la recepción conforme por parte de la Dirección de Obras Municipales y del Serviu.
 
 9. El préstamo se formalizará mediante el correspondiente contrato de mutuo, protocolizado de conformidad al Artículo Nº61 de la ley Nº16.391, siendo de cargo del mutuario todos los gastos que ello irrogue, sin perjuicio de su posterior aprobación mediante resoluciones del Director del serviu respectivo.
 
