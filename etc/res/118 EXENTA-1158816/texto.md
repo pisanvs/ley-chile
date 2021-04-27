@@ -1,0 +1,5 @@
+SE DESIGNA AL JEFE DE GABINETE DE LA DIRECCIÓN NACIONAL DEL IPS COMO SUJETO PASIVO DE LA LEY N° 20.730, QUE REGULA EL LOBBY Y LA GESTIÓN DE INTERESES PARTICULARES ANTE AUTORIDADES Y FUNCIONARIOS Y DESIGNA ASISTENTE TÉCNICO
+
+Por resolución exenta N° 118, de 26 de marzo de 2021, el Director Nacional, designó como Sujeto Pasivo de la Ley N° 20.730, al Jefe de Gabinete de la Dirección Nacional del IPS, don Carlos Alejandro Puente Vallejos, Grado 2° EUS, quien en razón del cargo que desempeña, tiene atribuciones de carácter decisorias y relevantes para este Instituto o influye decisivamente en quienes tienen dichas atribuciones, de conformidad con lo dispuesto en el Artículo 3°, de la Ley N° 20.730, reglamentada por el decreto N° 71, de 2014, del Ministerio Secretaría General de la Presidencia.-
+
+Patricio Coronado Rojo, Director Nacional.
