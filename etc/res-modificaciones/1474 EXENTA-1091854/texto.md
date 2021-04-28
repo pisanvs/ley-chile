@@ -214,7 +214,7 @@ a) Deberán desplegar instantáneamente, mediante una ventana emergente o pop-up
 
 b) Deberán emitir una señal sonora distinta a cualquier notificación habitual, al máximo nivel audible, y que sólo pueda ser interrumpida por el usuario. El tono de aviso deberá corresponder al tono estándar de emergencia definido en la recomendación ATIS/TIA J-STD 100, específicamente en su punto 7.1.
 
-c) Deberán emitir una señal vibrante estándar de emergencia simultánea a la señal sonora y la que no podrá tener una duración inferior a 3 minutos, salvo que el usuario la interrumpa antes. La secuencia de vibración deberá corresponder a la vibración estándar de emergencia definida en la recomendación ATIS/TIA J-STD 100, específicamente en su punto 7.2.
+c) Deberán emitir una señal vibrante estándar de emergencia simultánea a la señal sonora y la que no podrá tener una duración inferior a 3 minutos, salvo que el usuario la interrumpa antes, pulsando para ello un botón físico o virtual del equipo terminal. La secuencia de vibración deberá corresponder a la vibración estándar de emergencia definida en la recomendación ATIS/TIA J-STD 100, específicamente en su punto 7.2.
 
 d) Deberán comercializarse con los canales de recepción de mensaje de alerta, indicados en Nota N° 1 de la Tabla N° 2 del artículo 3°, activados, y no deberán permitir su inhabilitación por el usuario.
 
