@@ -144,9 +144,9 @@ f) Proponer la generación de los instrumentos normativos requeridos para la cre
 
 g) En general, realizar todas las gestiones que le encomiende la jefatura de la División, en el marco de la reglamentación interna y normativa vigente.
 
-3. El Departamento de Atención del Déficit Cualitativo tendrá las siguientes funciones:
+3. El Departamento de Condominios y de Atención del Déficit Cualitativo tendrá las siguientes funciones:
 
-a) Proponer la política habitacional dirigida a la atención del déficit cualitativo, expresado en procesos de obsolescencia de viviendas.
+a) Proponer la política habitacional para la mantención y el mejoramiento de condominios de viviendas sociales o de condominios de viviendas económicas que evidencien grave deterioro; así como la política habitacional dirigida a la atención del déficit habitacional cualitativo, expresada en procesos de obsolescencia de viviendas, estén o no acogidas al régimen de copropiedad inmobiliaria.
 
 b) Proponer estándares en materia de construcción, mejoramiento y ampliación de viviendas sociales.
 
@@ -158,9 +158,29 @@ e) Coordinar la gestión de las regiones y a los actores públicos y privados, p
 
 f) Proponer la generación de los instrumentos normativos requeridos para la creación e implementación de los programas propios de este Departamento. Además, evaluar y proponer modificaciones normativas a estos programas.
 
-g) En general, realizar todas las gestiones que le encomiende la jefatura de la División, en el marco de la reglamentación interna y normativa vigente.
+g) Ejercer labores de coordinación y de asesoría a otras divisiones o unidades del Ministerio para la atención de requerimientos relacionados con la aplicación del régimen de copropiedad inmobiliaria, especialmente en lo referido a la observancia de normas sobre administración de los mismos y al cumplimiento de exigencias relacionadas con la seguridad de sus habitantes y siempre que no se trate de materias radicadas en otros órganos de la Administración del Estado.
 
-4. El Departamento de Planificación Habitacional, realizará las siguientes funciones:
+h) En general, realizar todas las gestiones que le encomiende la jefatura de la División, en el marco de la reglamentación interna y normativa vigente.
+
+4. La Oficina Secretaría Ejecutiva de Condominios, dependiente jerárquica y funcionalmente del Departamento de Condominios y de Atención del Déficit Cualitativo, tendrá las siguientes funciones:
+
+a) Elaborar y proponer los instrumentos normativos y operativos de los programas presupuestarios relacionados con la mantención y el mejoramiento de condominios de viviendas sociales o de otros condominios de viviendas económicas en los que se evidencie grave deterioro.
+
+b) Coordinar, con las distintas divisiones y unidades del Ministerio, así como con las Secretarías Regionales Ministeriales y los Servicios Regionales de Vivienda y Urbanización, la implementación de los programas presupuestarios para la mantención y mejoramiento de los condominios referidos en la letra precedente, proponiendo medidas de planificación y programación de los distintos proyectos e iniciativas.
+
+c) Proponer una estrategia de priorización territorial para la selección de los condominios habitacionales que podrían ser objeto de los programas presupuestarios antes referidos.
+
+d) Proponer, dentro de los programas presupuestarios antes referidos o como objeto principal de otros programas que se propongan al efecto, líneas específicas de intervención respecto de proyectos urgentes o de alta prioridad debido a los riesgos que representan para la seguridad de las personas, tales como la mantención de redes de servicios domiciliarios, la regularización de ampliaciones irregulares de vivienda o la reparación de fallas o defectos estructurales de las construcciones.
+
+e) Apoyar los procesos de formalización y de acompañamiento social de las comunidades que sean objeto de los programas presupuestarios antes referidos, desarrollando capacidades de administración, regulación de usos y mantención de los bienes comunes.
+
+f) Proponer coordinaciones con otras Secretarías de Estado o con entidades o instituciones públicas o privadas, para contribuir al cumplimiento de los proyectos de los programas antes referidos, a nivel nacional.
+
+g) Ejercer las labores de coordinación y de asesoría referidas en la letra g) del numeral 3) precedente, que le encomiende la jefatura del Departamento.
+
+h) En general, realizar todas las tareas que le encomiende la jefatura del Departamento, en el marco de la reglamentación interna y normativa vigente.
+
+5. El Departamento de Planificación Habitacional, realizará las siguientes funciones:
 
 a) Apoyar en la elaboración de la propuesta del financiamiento de los planes y programas habitacionales del Ministerio y en la distribución regional de los recursos asignados.
 
@@ -168,7 +188,7 @@ b) Apoyar en la evaluación del avance, ejecución y ajustes de los planes y pro
 
 c) En general, realizar todas las gestiones que le encomiende la jefatura de la División, en el marco de la reglamentación interna y normativa vigente.
 
-5. El Departamento de Asentamientos Precarios, tendrá las siguientes funciones:
+6. El Departamento de Asentamientos Precarios, tendrá las siguientes funciones:
 
 a) Proponer la política habitacional para la atención de los asentamientos precarios.
 
@@ -182,7 +202,7 @@ e) Proponer la generación de los instrumentos normativos requeridos para la cre
 
 f) En general, realizar todas las gestiones que le encomiende la jefatura de la División, en el marco de la reglamentación interna y normativa vigente.
 
-6. La Oficina de Gestión de Proyectos Habitacionales, desarrollará las siguientes funciones:
+7. La Oficina de Gestión de Proyectos Habitacionales, desarrollará las siguientes funciones:
 
 a) Recomendar medidas, estudios y normas que tiendan al desarrollo y ejecución de los planes y proyectos habitacionales definidos como estratégicos por el Ministerio.
 
