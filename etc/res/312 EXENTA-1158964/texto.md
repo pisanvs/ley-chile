@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº312, de 24 de febrero de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, se autorizó a la Escuela de Conductores Profesionales denominada "Organismo Técnico de Capacitación y Escuela de Conductores Profesionales Sencap Sociedad de Responsabilidad Limitada", RUT Nº76.062.833-6, representada legalmente por don Mario Enrique Mateluna Vergara, cédula de identidad Nº10.376.685-0, cuyos planes y programas fueron autorizados mediante resolución exenta Nº1.772, de 4 de junio de 2019, de la citada Secretaría Regional Ministerial, a impartir los cursos conducentes a la obtención de la licencia de conductor profesional Clase A3 y A5, con Simulador de Inmersión Total, en la modalidad E-learning, bajo el formato de ejecución sincrónico.-
+
+José Emilio Guzmán Cepeda, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaiso.
