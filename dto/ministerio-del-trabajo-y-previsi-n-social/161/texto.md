@@ -86,7 +86,7 @@ a) Matrimonio: Cuando el afiliado contraiga matrimonio. Si ambos contrayentes fu
 
 b) Nacimiento: Cuando el afiliado compruebe con el instrumento público correspondiente el nacimiento de un hijo.
 
-Si ambos padres fuesen afiliados, el beneficio lo percibirá la madre. En caso de nacimientos múltiples, se otorgará tantas ayudas como hijos nazcan;
+Si ambos padres fuesen afiliados, cada uno de ellos tendrá derecho a este beneficio. En caso de nacimientos múltiples, se otorgará tantas ayudas como hijos nazcan;
 
 c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de sus cargas familiares reconocidas, incluido el mortinato a partir del 5° mes de gestación, y el fallecimiento del hijo recién nacido que no hubiese sido aún reconocido como carga familiar.
 
@@ -94,7 +94,7 @@ En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente o
 
 1) A la persona designada expresamente para tales efectos por el afiliado;
 
-2) Al cónyuge sobreviviente;
+2) Al cónyuge o al conviviente civil sobrevivientes;
 
 3) A los hijos legítimos;
 
@@ -116,9 +116,13 @@ f) Ayuda médica: En caso de enfermedad grave y tratamiento médico prolongado d
 
 g) Catástrofe: Cuando el afiliado haya sufrido graves daños en su vivienda o haya perdido parte importante de los enseres que lo guarnecen a causa de incendio, terremoto, inundaciones u otros hechos fortuitos, por acción de terceros.
 
-Se considerará como requisito la comprobación de los hechos por parte de la Asistente Social de Personal del establecimiento al que pertenece el afiliado, y h) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio por concepto de préstamos que éste le hubiere otorgado.
+Se considerará como requisito la comprobación de los hechos por parte de la Asistente Social de Personal del establecimiento al que pertenece el afiliado;
 
-El monto de las ayudas contempladas en las letras a), b), c), d), e), f) y g) será determinado por el Consejo Administrativo, de acuerdo a las disponibilidades presupuestarias del Servicio de Bienestar.
+h) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio por concepto de préstamos que éste le hubiere otorgado.
+
+El monto de las ayudas contempladas en las letras a), b), c), d), e), f) y g) será determinado por el Consejo Administrativo, de acuerdo a las disponibilidades presupuestarias del Servicio de Bienestar, y
+
+i) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieran afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio.
 
 #### Artículo 10°
 
@@ -186,13 +190,13 @@ Del financiamiento
 
 El Servicio de Bienestar obtendrá su financiamiento a través de los siguientes recursos:
 
-a) Con una cuota de incorporación que deberán pagar los afiliados por una sola vez, de hasta el 1% de su remuneración mensual imponible para pensiones o de su pensión de jubilación, porcentaje que fijará anualmente el Consejo Administrativo;
+a) Con una cuota de incorporación que deberán pagar los afiliados por una sola vez, de hasta el 1% de su remuneración mensual imponible para pensiones o de su pensión de jubilación.
 
 b) Con los aportes que anualmente se consulten en el presupuesto de la Institución, con sujeción a las normas legales y estatutarias vigentes;
 
 c) Con el aporte mensual de los afiliados en servicio activo de hasta el 2% de sus remuneraciones mensuales imponibles para pensiones;
 
-d) Con el aporte mensual de los afiliados jubilados de hasta el 1% de sus pensiones, más la cantidad correspondiente al aporte institucional, que será de su cargo;
+d) Con el aporte mensual de los afiliados jubilados de hasta el 1% de sus pensiones, más la cantidad correspondiente de hasta el 50% del aporte institucional;
 
 e) Con los intereses de los préstamos que otorgue el Servicio de Bienestar a sus afiliados;
 
