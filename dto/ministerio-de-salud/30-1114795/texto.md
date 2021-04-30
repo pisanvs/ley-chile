@@ -28,21 +28,23 @@ Decreto:
 
 Califícase como establecimientos rurales de desempeño difícil, para el período comprendido entre los años 2018 a 2022, ambos inclusive, a los establecimientos rurales de atención primaria de salud municipal que se señalan a continuación.
 
-Sus dotaciones suman 799.984 horas semanales, lo que constituye el 100% del total de horas semanales de la dotación rural nacional. Ellos darán derecho a la asignación correspondiente, en los porcentajes que a continuación se indica:
+Sus dotaciones suman 802.185 horas semanales, lo que constituye el 100% del total de horas semanales de la dotación rural nacional. Ellos darán derecho a la asignación correspondiente, en los porcentajes que a continuación se indica:
 
-Total nacional de horas semanales de dotación deAtención Primaria de Salud Municipal: 2.597.568 horas semanales
+A.- PRIMER TRAMO = 26% de Asignación de Desempeño Difícil.
 
-A.- Primer tramo = 26% de Asignación de Desempeño Difícil
+80.011 horas semanales, correspondientes al 9,97%, del total de las horas dotación en establecimientos rurales de Atención Primaria de Salud Municipal.
 
-79.442 horassemanales, correspondientes al 9,9% del total de las horas dotación en establecimientos rurales de Atención Primaria de Salud Municipal
+B.- SEGUNDO TRAMO = 19% de Asignación de Desempeño Difícil.
 
-.
+79.249 horas semanales, que sumadas a las del tramo A corresponden al 19,85%, del total de las horas dotación en establecimientos rurales de Atención Primaria de Salud Municipal.
+
+C.- TERCER TRAMO = 10% de Asignación de Desempeño Difícil.
+
+642.925 horas semanales, que sumadas a las de los tramos A y B contemplan el 100%, del total de las horas dotación en establecimientos rurales de Atención Primaria de Salud Municipal.
 
 #### Artículo 2
 
-Concédese una asignación de desempeño difícil de 15% al personal que labora en los Servicios de Atención Primaria de Urgencia Rurales, que se señalan en las siguientes comunas, correspondiente a 11.564 horas semanales, que representan el 0,45% del total de horas de la dotación de Atención Primaria de Salud Municipal del país.
-
-.
+Eliminado.
 
 Anótese, tómese razón y publíquese en el Diario Oficial.- MICHELLE BACHELET JERIA, Presidenta de la República.- Carmen Castillo Taucher, Ministra de Salud.
 
