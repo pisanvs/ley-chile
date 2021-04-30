@@ -1016,9 +1016,9 @@ Los taxis básicos serán de color negro y techo amarillo hasta la base de los p
 
 Por su parte, los taxis colectivos de servicios rurales y los interurbanos serán de color amarillo y los de servicios de turismo de color azul.
 
-No obstante lo señalado precedentemente, los taxis que cuenten con motor eléctrico puro, cualquiera sea su modalidad o submodalidad, serán de color blanco, con puertas y cubierta del motor (capó) de color verde.
+Adicionalmente, los taxis que cuenten con motor eléctrico puro , cualquiera sea su modalidad o submodalidad, podrán ser de color blanco, con puertas y cubierta del motor (capó) de color verde. Sin perjuicio de lo anterior, en el caso de los taxis básicos, éstos, además, podrán ser de color negro y techo verde hasta la base de los pilares.
 
-Los taxis básicos y los colectivos urbanos, excepto aquellos que cuenten con motor eléctrico puro, llevarán pintado o adherido en el exterior de sus puertas delanteras las letras y números de la patente única del vehículo, en color amarillo. Estos caracteres deberán tener como mínimo 10 cm. de alto, 5 cm. de ancho y 1,5 cm. de espesor de trazo.
+Los taxis básicos y los colectivos urbanos, excepto aquellos que cuenten con motor eléctrico puro y que estén pintados de color blanco con puertas y cubierta del motor (capó) de color verde, o de color negro y techo verde hasta la base de los pilares, llevarán pintado o adherido en el exterior de sus puertas delanteras las letras y números de la patente única del vehículo, en color amarillo. En el caso de los taxis básicos que cuenten con motor eléctrico puro y se encuentren pintados de color negro y techo verde hasta la base de sus pilares, las letras y números deberán ser del mismo color verde. Estos caracteres deberán tener como mínimo 10 cm. de alto, 5 cm. de ancho y 1,5 cm. de espesor de trazo.
 
 El color amarillo que se indica en los incisos precedentes, corresponde al definido en la norma chilena NCh 1927.
 
