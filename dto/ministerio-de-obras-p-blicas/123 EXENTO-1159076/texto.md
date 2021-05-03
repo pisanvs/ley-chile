@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº123, de 31 de marzo de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº193, para la obra: MEJORAMIENTO RUTA 7 SUR, SECTOR MURTA - PUERTO TRANQUILO (ACCESO NORTE PUERTO TRANQUILO-ACCESO CAPILLA DEL MARMOL), que figura a nombre de FERNANDO SANDOVAL ARANCIBIA, SIN ROL, Comuna de RÍO IBÁÑEZ, REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, superficie 1.173 m2. La Comisión de Peritos integrada por SERGIO JEREMIAS ORDENES SALINAS, NICOLÁS ALEJANDRO ALARCÓN SANCHÉZ y HANDY CAMPOS SEPULVEDA, mediante informe de tasación de 08 de marzo de 2019, fijó el monto de la indemnización provisional en la cantidad de $847.800 para el lote Nº193. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
