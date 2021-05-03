@@ -1,0 +1,7 @@
+RENOVACIÓN Y TRANSFERENCIA DE CONCESIÓN MARÍTIMA MENOR
+
+El decreto supremo Nº 7, de fecha 14 de enero de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Sra. Mercedes Raquel Muñoz Contreras, RUN 6.252.348-4, cuarta Renovación de la concesión marítima menor, con vencimiento el 31 de diciembre de 2025, sobre un sector de playa, en un lugar denominado Playa Grande, comuna de Cartagena, provincia de San Antonio, Región de Valparaíso, con una superficie total de 15 m², la que fue tramitada con el SIABC Nº 39180, y autorizó su transferencia al Sr. Sergio Fernando Cortés Díaz, RUN 9.445.688-6, la que fue tramitada con el SIABC Nº 36840. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto de esta concesión marítima, en el sector otorgado y transferido, es continuar amparando la construcción existente de un local comercial de material sólido, destinado a kiosco, para la venta de confites, golosinas, bebidas analcohólicas, arriendo de quitasoles y sillas de playa a los turistas y público en general. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de San Antonio. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+San Antonio, 7 de abril de 2021.- Patricio Torres Peñafiel, Capitán de Fragata LT, Capitán de Puerto de San Antonio.
