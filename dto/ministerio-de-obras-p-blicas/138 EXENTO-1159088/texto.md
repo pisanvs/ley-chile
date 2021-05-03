@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 138, de 07 de abril de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.151 y 158, para la obra: MEJORAMIENTO CAMINO BÁSICO INTERMEDIO MAQUEHUE - BOROA - PUENTE RAGÑINTULEUFU, que figuran a nombre de CURAQUEO NECULHUAL AURELIANO O y BARRA PAINEMAL CRISTIAN MIGUEL A, roles de avalúo 618-153 y 618-55, Comuna de NUEVA IMPERIAL, REGION DE LA ARAUCANÍA, superficies 477 y 980 m2 respectivamente. La Comisión de Peritos integrada por CLAUDIO HERNÁN ANGULO SOTOMAYOR, EVALDO ROBERTO CONTRERAS ROA y PABLO ALEX MANSILLA ARAVENA, mediante informes de tasación de fecha 21 de octubre de 2019, fijó el monto de las indemnizaciones provisionales en las cantidades de $4.488.750.- para el lote Nº151, y $4.661.000.- para el lote Nº158. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
