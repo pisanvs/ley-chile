@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 78, de 26 de marzo de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP Nº206 de 1960, se expropió el lote de terreno Nº 128, para la obra: MEJORAMIENTO CAMINO BASICO INTERMEDIO MAQUEHUE - BOROA - PUENTE RAGÑINTULEUFU, que figura a nombre de MARIFIL JARA ROBERTO ALCIDES Y OTRO, rol de avalúo 618-293, Comuna de NUEVA IMPERIAL, REGION DE LA ARAUCANÍA, superficie 474 m2. La Comisión de Peritos integrada por CLAUDIO HERNÁN ANGULO SOTOMAYOR, EVALDO ROBERTO CONTRERAS ROA y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de fecha 21 de octubre de 2019, fijó el monto de la indemnización provisional en la cantidad de $3.585.500.- para el lote Nº128. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
