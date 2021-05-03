@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 135, de 07 de abril de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.150 y 156, para la obra: MEJORAMIENTO CAMINO BASICO INTERMEDIO MAQUEHUE - BOROA PUENTE RAGÑINTULEUFU, que figuran a nombre de ALMENDRA BARRA LIDIA DEL CARMEN Y O y CURICHE MARIANO HECTOR Y OTROS, roles de avalúo 618-158 y 618-57, Comuna de NUEVA IMPERIAL, REGION DE LA ARAUCANÍA, superficies 275 y 1.013 m2 respectivamente. La Comisión de Peritos integrada por CLAUDIO HERNÁN ANGULO SOTOMAYOR, EVALDO ROBERTO CONTRERAS ROA y PABLO ALEX MANSILLA ARAVENA, mediante informes de tasación de fecha 21 de octubre de 2019, fijó el monto de las indemnizaciones provisionales en las cantidades de $1.516.250.- para el lote N°150, y $4.131.750.- para el lote N°156. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
