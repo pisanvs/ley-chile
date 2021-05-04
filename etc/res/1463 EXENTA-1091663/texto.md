@@ -174,6 +174,40 @@ A partir del 1° de julio de 2017, deberán emplearse por todos aquellos que com
 
 DISPOSICIÓN SEGUNDA TRANSITORIA. La Subsecretaría de Telecomunicaciones establecerá oportunamente el procedimiento de inscripción de las empresas certificadoras referidas en el inciso primero del artículo 4º de la presente norma.
 
+DISPOSICIÓN TERCERA TRANSITORIA.
+
+Los equipos terminales que permitan operar en las redes de telefonía móvil y transmisión de datos móviles que incluyan la tecnología denominada "5G" y que sean comercializados por las concesionarias de servicio público de telecomunicaciones, de servicio público de telefonía móvil y transmisión de datos móviles, así como aquellos sujetos obligados de conformidad a la resolución indicada en el literal c) de los Vistos de la presente resolución, deberán observar las siguientes condiciones:
+
+1. Cumplir las obligaciones sobre la homologación y certificación respecto de las tecnologías 2G, 3G y 4G, las que se mantienen sin modificaciones tal y como se establece en la resolución exenta N° 1.463, de 2016.
+
+2. Cumplir las obligaciones sobre la homologación y certificación asociadas a la mensajería SAE, las que se mantienen sin modificaciones tal y como se establece en la resolución exenta N° 1.463, de 2016, y en la resolución exenta N°1.474, de 2017.
+
+3. Tratándose de un equipo terminal móvil que disponga de tecnología 5G, el sello al que se refiere el artículo 2° de la resolución exenta N° 1.463, de 2016, deberá incorporar o agregar en su parte inferior y para sus diferentes versiones, la frase "5G: Infórmese sobre Compatibilidad con cada Compañía", de acuerdo a las siguientes figuras:
+
+4. Los concesionarios de servicio público de telecomunicaciones, público telefónico móvil y de transmisión de datos móviles, además de los otros sujetos obligados de conformidad a la resolución indicada en el literal c) de los Vistos de la presente resolución, en lo que corresponda, deberán informar al público respecto de la compatibilidad para operar con la tecnología 5G en las distintas bandas concesionadas en Chile, de los equipos terminales que estén comercializando o publicitando en el país bajo el concepto tecnología "5G". Lo anterior deberá realizarse a través de sus canales de distribución, puntos de venta al público, publicidad, entre otros, ya sean estos por medios físicos o virtuales. Los sujetos obligados de acuerdo al presente numeral deberán entregar al público, y en detalle, las características y funcionalidades que permitan determinar si un equipo terminal móvil es compatible en sus bandas concesionadas que operen en las redes 5G.
+
+A fin de dar cumplimiento a la obligación descrita en el párrafo anterior, los concesionarios deberán proporcionar al público, a lo menos, los siguientes antecedentes:
+
+- Marca del equipo móvil.
+
+- Modelo con sus distintas variantes si las hubiere (hardware, software u otros), identificando específicamente aquel asociado al equipo que la persona busca adquirir.
+
+- Todas las bandas en las que opera el equipo con el código 3GPP y la frecuencia en MHz.
+
+- Disponibilizar un enlace que dirija a la página web www.multibanda.cl.
+
+- Cada compañía concesionaria deberá informar las bandas compatibles para sus respectivos servicios 5G.
+
+- Registro de IMEI en su portal web para consulta de usuario, informando las respectivas bandas en que presta servicio en 5G.
+
+- Cualquier otra característica o funcionalidad que pueda comprometer o impedir la compatibilidad del equipo con las redes asociadas a la tecnología 5G, de cualquier compañía que opere comercialmente con dicha tecnología.
+
+Las especificaciones técnicas antes señaladas deberán ser respaldadas con un certificado de homologación 5G, extendido ya sea por otras administraciones de telecomunicaciones en los términos del artículo 3° inciso 2° de la resolución del literal c) de la presente resolución o por un organismo de reconocimiento internacional en temas de estandarización u homologación de este tipo de equipos, o con una ficha técnica o manual del fabricante del equipo. Dicho o dichos documentos deberán estar disponibles al público en todos los canales mencionados en el primer párrafo del presente numeral. Con todo, aquellos sujetos singularizados en el artículo 1° de la resolución exenta N° 1.463 de 2016, deberán mantener un registro actualizado de quienes extienden los certificados de homologación, las fichas técnicas o manual de los equipos que están siendo comercializados, el que podrá ser requerido o fiscalizado en cualquier momento por esta Subsecretaría de Estado en la órbita de sus competencias.
+
+DISPOSICIÓN CUARTA TRANSITORIA.
+
+Los concesionarios de servicio público de telecomunicaciones, público telefónico móvil y de transmisión de datos móviles, además de los otros sujetos obligados de conformidad a la resolución indicada en el literal c) de los Vistos de la presente modificación, que comercialicen equipos terminales que operen con la tecnología 5G, se encontrarán sujetos al cumplimiento de las obligaciones establecidas en la presente resolución modificatoria, en lo que corresponda, dentro del plazo de 30 días hábiles, contados desde la publicación de la misma.
+
 Anótese y publíquese en el Diario Oficial.- Pedro Huichalaf Roa, Subsecretario de Telecomunicaciones.
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Raúl Lazcano Moyano, Jefe División Política Regulatoria y Estudios.
