@@ -46,7 +46,7 @@ Sólo son admitidos en el Centro los animales que:
 
 2. Provienen de predios bajo programas de vigilancia y/o control de Lengua Azul. Esta condición no será exigible si el Servicio Veterinario Oficial certifica que el país o la zona están libres de la enfermedad, condición que deberá haber sido evaluada favorablemente por Chile.
 
-3. Los predios de origen no han estado sometidos a restricciones sanitarias por enfermedades infectocontagiosas de notificación obligatoria de la especie durante los últimos 24 meses.
+3. Proceden de predios que no han estado sujetos a restricciones sanitarias por enfermedades infecto-contagiosas de declaración obligatoria en el momento de su partida al centro de recolección de semen.
 
 4. Los animales permanecieron desde su nacimiento, o durante los 28 últimos días, en una explotación en la que no fue declarado oficialmente ningún caso de Dermatosis Nodular Contagiosa durante ese período, o bien permanecieron en una estación de cuarentena durante los 28 días anteriores a la toma de semen.
 
