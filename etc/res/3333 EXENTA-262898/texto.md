@@ -502,19 +502,9 @@ Rudbeckia nitida
 
 Rudbeckia sullivantii Asteraceae
 
-Salvia farinacea
+Salvia spp. excepto
 
-Salvia greggii
-
-Salvia guaranitica
-
-Salvia hispanica
-
-Salvia officinalis
-
-Salvia splendens
-
-Salvia uliginosa Lamiaceae
+S officinallis Lamiaceae
 
 Scabiosa atropurpurea
 
