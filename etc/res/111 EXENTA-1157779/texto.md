@@ -160,7 +160,15 @@ En atención a las obras de reemplazo de las redes de alcantarillado y/o agua po
 
 En los casos que los integrantes del grupo familiar presenten alguna condición de salud que les impida habitar el lugar durante la ejecución de las obras, el PSAT deberá presentar un Informe Socio-Habitacional que justifique la necesidad de trasladar al grupo familiar a otro lugar por el tiempo que dura la obra.
 
-En el presente llamado se incorpora la recepción de antecedentes de los proyectos habitacionales en formato digital, resguardando siempre que estos contengan la aceptación de las familias. El Serviu deberá informar a las Entidades Patrocinantes con convenio vigente, los canales digitales mediante los cuales recepcionará la documentación digitalizada de los proyectos y determinar el procedimiento para, una vez aprobado un proyecto, solicitar la entrega de los antecedentes físicos en un solo acto y considerando todas las medidas sanitarias de resguardo correspondientes.
+En el presente llamado la recepción de antecedentes de los proyectos habitacionales se realizará de la siguiente manera:
+
+1. El primer ingreso de la totalidad de expedientes técnicos será por medio digital a través de carpetas OneDrive, habilitadas por la Unidad Informática de Serviu Tarapacá, y administradas por Unidad de Socavones debidamente firmada por los profesionales y beneficiarios (se permiten antecedentes técnicos sin firmas, presentando carta de compromiso respectiva).
+
+2. Las observaciones serán enviadas en un solo acto a la PSAT por la Comisión de Proyectos de manera digital a través de medios electrónicos pudiendo ser correo electrónico.
+
+3. Eventualmente y de manera previa al reingreso ya sea del expediente, del documento, del plano, la hoja, o bien de los antecedentes observados, la entidad externa podrá requerir una reunión telemática para aclarar las observaciones, la cual será solicitada vía correo electrónico a la jefatura de la Unidad de Estudio y Proyectos con copia a la jefatura del Departamento Técnico y estará referida a las observaciones realizadas originalmente, y de ningún modo serán nuevas observaciones, lo cual quedará reflejado en un acta de reunión o bien en la grabación que de la aludida reunión se acuerde realizar.
+
+4. La subsanación e ingreso de la totalidad de antecedentes del proyecto técnico por parte de la PSAT se realizará a través de un Ingreso Físico de los expedientes firmados por profesionales de las PSAT, contratista y por el beneficiario. Los expedientes se deberán ingresar por carta conductora con el listado de grupos, beneficiarios, RUN y montos de obras, anexando en la carta la lista de todos los antecedentes que incluye el ingreso físico.
 
 15. Para el presente llamado no se requerirá la emisión de certificados de subsidio. Los pagos de asistencia técnica y ejecución de obras serán realizados contra actas de conformidad firmadas por el representante legal del grupo postulante o el Presidente del Comité de Administración del condominio, según la modalidad de postulación correspondiente, junto a los informes de pagos y antecedentes requeridos y aprobados por el Serviu. Para el último pago de las obras, se exigirá un Acta de Conformidad de parte de la Seremi respectiva.
 
@@ -219,6 +227,8 @@ Los honorarios correspondientes al PHS se pagarán con cargo a los recursos de a
 25. En todo aquello no regido por el presente llamado, se aplicarán las disposiciones contenidas en el decreto supremo Nº 255 (V. y U.), de 2006.
 
 26. Apruébese el siguiente Anexo 1 denominado "Contenidos Presentación de Proyectos a Serviu":
+
+> **Nota.** El numeral 1° de la Resolución 167 Exenta, Vivienda, publicada el 07.05.2021, modifica la fecha de entrega de la carta de la programación establecida en la tabla 1 del resuelvo 5 de la presente norma en en los términos que la citada norma indica.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Carlos Prieto Rojas, Secretario Regional Ministerial de Vivienda y Urbanismo Región de Tarapacá.
 
@@ -324,7 +334,7 @@ En caso de intervenciones en elementos estructurales, se deberá gestionar oport
 
 OTROS
 
-a. Carta Gantt por partidas relevantes, incorporando periodos de traslado y arriendo de viviendas que lo requieran acorde al punto e. que precede.
+a) Carta Gantt por partidas relevantes, incorporando períodos de traslado y arriendo de viviendas que lo requieran acorde al resuelvo 14 tercer párrafo de la presente resolución.
 
 b. Acreditación de existencia de plagas (Certificado Municipal o Acta de visita inspectiva de la autoridad sanitaria), si corresponde.
 
@@ -383,6 +393,10 @@ l) Certificado de Vigencia de la Directiva del Comité.
 m) Declaración Jurada de la capacidad económica del Contratista.
 
 n) Documentación que acredite la Personería del Representante Legal que firma el Contrato, ya sea el de Obras como PSAT.
+
+o) Contrato de Cesión de acciones.
+
+p) Resolución donde conste el nombramiento de la representación del grupo organizado para el caso de los Condominios Sociales no formalizados.
 
 4) Antecedentes para Revisión de Aspectos Sociales
 
