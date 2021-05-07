@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 241 EXENTA, DE 22 DE MARZO DE 2021
+
+Por resolución exenta N° 241, de 22 de marzo de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Tarapacá, se dispuso la puesta en marcha definitiva de la Planta de Revisión Técnica Clase B-0109, con tres (3) líneas de revisión tipo L (liviana), ubicada en Avenida Circunvalación #14, Lote 1, comuna de Iquique, perteneciente a la Concesión Dos (2), adjudicada a la empresa "A. Denham y Cía. Ltda.", a contar del día 24 de marzo de 2021. Se establece un plazo de 6 meses, contados desde el inicio de la puesta en marcha definitiva de la planta revisora B-0109, para dar cumplimiento a la medida de mitigación N° 13, dispuesta en Ord. N° 4157, de 21 de febrero de 2021, de la misma Secretaría Regional Ministerial de Transportes y Telecomunicaciones.-
+
+Carlos Fernando Navarrete Cortés, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Tarapaca.
