@@ -1,24 +1,32 @@
-DESIGNA JEFES DE FUERZA TITULARES Y REEMPLAZANTES EN LAS REGIONES DEL TERRITORIO NACIONAL QUE SE INDICAN
+MODIFICA FECHA Y JEFES DE FUERZA TITULARES Y REEMPLAZANTES EN LAS REGIONES DEL TERRITORIO NACIONAL QUE SE INDICAN
 
-Santiago, 22 de enero de 2021.- Con esta fecha S.E. ha decretado lo siguiente:
+Santiago, 27 de abril de 2021.- Con esta fecha S.E. ha decretado lo siguiente:
 
-Núm. 18.
+Núm. 145.
 
 Vistos:
 
-a) Los artículos 18º y 32º Nº 17 de la Constitución Política de la República de Chile;
+a) Los artículos 18 y 32 Nº 17 de la Constitución Política de la República de Chile;
 
-b) Los Arts. 122º y 123º, del DFL Nº 2, de 2017, texto refundido, coordinado y sistematizado de la Ley Nº 18.700, "Orgánica Constitucional sobre Votaciones Populares y Escrutinios";
+b) Los artículos 122 y 123, del DFL Nº 2, de 2017, texto refundido, coordinado y sistematizado de la Ley Nº 18.700, "Orgánica Constitucional sobre Votaciones Populares y Escrutinios";
 
 c) El decreto supremo MDN. (G) Nº 1.085, de 1940, modificado por los decretos supremos MDN. (G) Nº 1.308, de 1954 y Nº 245, de 1972;
 
+d) La Ley Nº 21.317, de fecha 17.Mar.2021, del Ministerio Secretaría General de la Presidencia;
+
+e) El artículo único, de la ley Nº 21.324, de fecha 07.Abr.2021, del Ministerio Secretaría General de la Presidencia;
+
+f) El decreto supremo (MDN) Nº 18, de fecha 22.Ene.2021. y
+
+g) El oficio EMCO. Diplanco III (P) Nº 6815/809, de fecha 09.Abr.2021, del Estado Mayor Conjunto.
+
 Considerando:
 
-Los oficios EMCO. Diplanco III (R) Nº 6815/115, de fecha 15.Ene.2021 y Nº 6815/65, de fecha 20.Ene.2021, del Estado Mayor Conjunto, respecto a la obligación que tiene el Supremo Gobierno de resguardar el orden público, con motivo de las próximas elecciones de Gobernadores Regionales, Convencionales Constituyentes, Alcaldes y Concejales del día 11.Abr.2021.
+El oficio EMCO. Diplanco III (P) Nº 6815/809, de fecha 09.Abr.2021, del Estado Mayor Conjunto, que remite proposición de Jefes de Fuerzas Titulares y Reemplazantes para las elecciones de Gobernadores Regionales; Convencionales Constituyentes; Alcaldes y Concejales del 15 y 16.May.2021.
 
 Decreto:
 
-1.- Desígnase Jefes de Fuerzas Titulares y Reemplazantes para las elecciones de Gobernadores Regionales, Convencionales Constituyentes, Alcaldes y Concejales de los días 15 y 16 de mayo del 2021, a los siguientes oficiales generales de las Fuerzas Armadas que se indican, con las facultades establecidas en los arts. Nº 122º y 123º del DFL Nº 2, de 2017 y el decreto supremo MDN (G) Nº 1.085, de 1940, modificado por los decretos supremos MDN. (G) Nº 1.308, de 1954 y Nº 245, de 1972:
+1.- Modifícase fecha y Jefes de Fuerzas Titulares y Reemplazantes para las elecciones de Gobernadores Regionales; Convencionales Constituyentes; Alcaldes y Concejales del día 11.Abr.2021, dispuesto por el decreto supremo (MDN) Nº 18, de fecha 22.Ene.2021, en el sentido de establecer que las nuevas fechas de elecciones serán el 15 y 16 de mayo del 2021, quedando de la siguiente manera:
 
 REGIÓN DE ARICA Y PARINACOTA
 
@@ -442,6 +450,8 @@ RUN 10.529.666-5.
 
 4.- Para este efecto, el Ministro del Interior y Seguridad Pública dispondrá la asignación de medios de las Fuerzas de Orden y Seguridad Pública a los Jefes de Fuerza, definiendo los mandos que recibirán las instrucciones de los Jefes de Fuerza y las ejecutarán a través de sus medios subordinados, como, asimismo, las instrucciones de coordinación para un eficaz empleo de los medios en el cumplimiento de funciones relacionadas con el orden público. Asimismo, el Ministro de Defensa Nacional dispondrá la asignación de medios de las Fuerzas Armadas a los diferentes Jefes de Fuerza regionales.
 
-Anótese, tómese razón, regístrese, comuníquese y publíquese en el Diario Oficial y en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros y de la Policía de Investigaciones de Chile.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Cristián de la Maza Riquelme, Ministro de Defensa Nacional (S).- Rodrigo Delgado Mocarquer, Ministro del Interior y Seguridad Pública.
+5.- Dispónese que los Jefes de Fuerzas señalados precedentemente, por razones impostergables de buen servicio, asumirán sus funciones a contar de la fecha indicada, sin esperar la total tramitación del presente decreto supremo.
+
+Anótese, tómese razón, regístrese, comuníquese y publíquese en el Diario Oficial y en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros y de la Policía de Investigaciones de Chile.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Baldo Prokurica Prokurica, Ministro de Defensa Nacional.- Rodrigo Delgado Mocarquer, Ministro del Interior y Seguridad Pública.
 
 Lo que se transcribe para su conocimiento.- Alfonso Vargas Lyng, Subsecretario para las Fuerzas Armadas.
