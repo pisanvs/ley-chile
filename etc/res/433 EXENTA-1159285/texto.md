@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 433 EXENTA, DE 2021
+
+Por resolución exenta N° 433, de fecha 28 de abril de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Coquimbo, se autoriza a la escuela de conductores profesionales "Sociedad Escuela de Conductores Cordillera Limitada", RUT N° 76.304.900-0, cuyo domicilio está ubicado en calle Independencia N° 186, comuna de Ovalle, representada legalmente por doña Marisol Castillo Díaz, cédula de identidad N° 7.227.336-2, cuyos planes y programas fueron autorizados mediante resolución exenta N° 68, de 2007, para impartir los cursos conducentes a la obtención de la licencia de conductor profesional clase A3 y A5, con Simulador de Inmersión Total en la modalidad e-learning, bajo el formato de ejecución asincrónico.-
+
+Ignacio Fernando Pinto Retamal, Secretario Regional Ministerial de Transportes y Telecomunicaciones (S) Región de Coquimbo.
