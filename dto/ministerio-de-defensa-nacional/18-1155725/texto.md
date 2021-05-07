@@ -18,7 +18,7 @@ Los oficios EMCO. Diplanco III (R) Nº 6815/115, de fecha 15.Ene.2021 y Nº 6815
 
 Decreto:
 
-1.- Desígnase Jefes de Fuerzas Titulares y Reemplazantes para las elecciones de Gobernadores Regionales, Convencionales Constituyentes, Alcaldes y Concejales del día 11.Abr.2021, a los siguientes oficiales generales de las Fuerzas Armadas que se indican, con las facultades establecidas en los arts. Nº 122º y 123º del DFL Nº 2, de 2017 y el decreto supremo MDN (G) Nº 1.085, de 1940, modificado por los decretos supremos MDN. (G) Nº 1.308, de 1954 y Nº 245, de 1972:
+1.- Desígnase Jefes de Fuerzas Titulares y Reemplazantes para las elecciones de Gobernadores Regionales, Convencionales Constituyentes, Alcaldes y Concejales de los días 15 y 16 de mayo del 2021, a los siguientes oficiales generales de las Fuerzas Armadas que se indican, con las facultades establecidas en los arts. Nº 122º y 123º del DFL Nº 2, de 2017 y el decreto supremo MDN (G) Nº 1.085, de 1940, modificado por los decretos supremos MDN. (G) Nº 1.308, de 1954 y Nº 245, de 1972:
 
 REGIÓN DE ARICA Y PARINACOTA
 
@@ -38,13 +38,13 @@ REEMPLAZANTE
 
 Institución Ejército
 
-Grado General de Brigada
+Grado Coronel
 
-Apellidos Stangher Quivira
+Apellidos Araya Améstica
 
-Nombre Ricardo
+Nombre Pedro
 
-RUN 10.761.645-4
+RUN 10.330.027-4
 
 REGIÓN DE TARAPACÁ
 
@@ -116,13 +116,13 @@ REEMPLAZANTE
 
 Institución Ejército
 
-Grado General de Brigada
+Grado Coronel
 
-Apellidos Bolívar Romero
+Apellidos Salgado Bahamondes
 
-Nombre Christian
+Nombre Álvaro
 
-RUN 9.633.859-7
+RUN 10.283.459-3
 
 REGIÓN DE COQUIMBO
 
@@ -132,23 +132,23 @@ Institución Ejército
 
 Grado General de Brigada
 
-Apellidos Pascual Robin
+Apellidos Guedelhoefer Erbetta
 
-Nombre Pedro
+Nombre Cristian
 
-RUN 9.233.710-3
+RUN 10.309.724-K
 
 REEMPLAZANTE
 
 Institución Ejército
 
-Grado General de Brigada
+Grado Coronel
 
-Apellidos Onetto Jara
+Apellidos Sagas Díaz
 
-Nombre Pablo
+Nombre Luis
 
-RUN 10.717.197-5
+RUN 14.282.430-2
 
 REGIÓN DE VALPARAÍSO
 
@@ -194,13 +194,13 @@ REEMPLAZANTE
 
 Institución Ejército
 
-Grado General de Brigada
+Grado Coronel
 
-Apellidos Cuéllar Loyola
+Apellidos Marinkovic Vásquez
 
-Nombre Luis
+Nombre Milko
 
-RUN 11.565.532-9
+RUN 12.232.463-K
 
 REGIÓN DEL MAULE
 
@@ -220,13 +220,13 @@ REEMPLAZANTE
 
 Institución Ejército
 
-Grado General de Brigada
+Grado Coronel
 
-Apellidos Rojas Edwards
+Apellidos Ovando Alarcón
 
 Nombre Luis
 
-RUN 7.247.218-7
+RUN 9.717.338-9
 
 REGIÓN DEL BIOBÍO
 
@@ -254,7 +254,7 @@ Nombre Juan
 
 RUN 10.383.906-8
 
-REGIÓN DE ÑUBLE
+REGIÓN DEL ÑUBLE
 
 TITULAR
 
@@ -272,13 +272,13 @@ REEMPLAZANTE
 
 Institución Ejército
 
-Grado General de Brigada
+Grado Coronel
 
-Apellidos Vial Maceratta
+Apellidos Bagatello Ortega
 
-Nombre Cristian
+Nombre Jeffrey
 
-RUN 11.840.650-8
+RUN 10.293.687-6
 
 REGIÓN DE LA ARAUCANÍA
 
@@ -324,13 +324,13 @@ REEMPLAZANTE
 
 Institución Ejército
 
-Grado General de Brigada
+Grado Coronel
 
-Apellidos Lo Presti Rojas
+Apellidos Cabezas Rojas
 
-Nombre Hugo
+Nombre Nelson
 
-RUN 9.322.628-3
+RUN 10.903.235-2
 
 REGIÓN DE LOS LAGOS
 
@@ -376,13 +376,13 @@ REEMPLAZANTE
 
 Institución Ejército
 
-Grado General de Brigada
+Grado Coronel
 
-Apellidos Arias Athanaciu
+Apellidos Villaseca Silva
 
-Nombre Germán
+Nombre Antonio
 
-RUN 10.907.040-8
+RUN 10.995.992-8
 
 REGIÓN DE MAGALLANES Y LA ANTÁRTICA CHILENA
 
@@ -428,13 +428,13 @@ REEMPLAZANTE
 
 Institución Ejército
 
-Grado General de Brigada
+Grado General de División
 
-Apellidos Guedelhoefer Erbetta
+Apellidos Pino Riquelme
 
-Nombre Cristian
+Nombre Rodrigo
 
-RUN 10.309.724-K
+RUN 10.529.666-5.
 
 2.- Los Jefes de Fuerza dispondrán las medidas necesarias para el resguardo del orden público, durante estas elecciones en sus zonas jurisdiccionales y en todos los locales de votación a su cargo, quedando facultados para organizar las fuerzas asignadas a su mando.
 
