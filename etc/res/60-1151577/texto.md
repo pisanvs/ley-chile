@@ -140,7 +140,7 @@ Para efectos de este Reglamento deberá entenderse por:
 
 (e) "Intermediario", "los Intermediarios", "el IFI" o "los IFIS": intermediario financiero no bancario o los intermediarios financieros no bancarios que reciben créditos o financiamiento del Fondo Crece.
 
-(f) "Fondo Crece" o "Fondos Crece" o "Fondo" o "Fondos": el (los) fondo(s) de inversión de aquellos regulados en el Capítulo III de la ley Nº 20.712, creado(s) para recibir el aporte de los inversionistas o aportantes.
+(f) "Fondo Crece" o "Fondos Crece" o "Fondo" o "Fondos": el (los) fondo(s) de inversión de aquellos regulados en el Capítulo III de la ley Nº 20.712, creado(s) para recibir el aporte de los inversionistas o aportantes, o financiamiento a través de deuda financiera.
 
 (g) "Colateral" o "colaterales": las operaciones de financiamiento (créditos, títulos de crédito activos o instrumentos financieros) entregadas por un intermediario financiero para respaldar o garantizar las operaciones de crédito o financiamiento que el Fondo Crece le otorgue, a través de la cesión en dominio, o entregados en garantía o en otra modalidad que apruebe expresamente Corfo de los activos relacionados a aquellas operaciones.
 
@@ -162,7 +162,13 @@ Para efectos de este Reglamento deberá entenderse por:
 
 (p) "Contrato de promesa de suscripción y pago de cuotas del Fondo Crece": contrato definido en el artículo 37 de la ley Nº 20.712
 
-(q) "Comisión del Fondo a Corfo": pago que realiza el Fondo Crece a Corfo, de un porcentaje periódico aplicado sobre el monto del crédito o financiamiento, para acceder a la cobertura otorgada en virtud de esta línea (comisión por recibir la cobertura), y monto de pago eventual, una vez cumplidas las obligaciones con los aportantes y el pago de la comisión por recibir la cobertura, a partir del resultado de las acciones de recupero sobre colaterales y en contra del IFI, y/o respecto del Exceso de Retorno.
+(q) "Comisión del Fondo a Corfo": pago que realiza el Fondo Crece a Corfo, de un porcentaje periódico aplicado sobre el monto del crédito o financiamiento, para acceder a la cobertura otorgada en virtud de esta línea (comisión por recibir la cobertura), y monto de pago eventual, una vez cumplidas las obligaciones con los aportantes y/o los acreedor(es) definido(s) en la letra (t) siguiente, y el pago de la comisión por recibir la cobertura, a partir del resultado de las acciones de recupero sobre colaterales y en contra del IFI, y/o respecto del Exceso de Retorno.
+
+(r) Deuda financiera: Aquella que tiene su origen en operaciones de inversión, de crédito o financiamiento de éste, no quedando comprendidas las obligaciones de pago de rescate que realizan los partícipes respecto de los aportes que mantienen en el Fondo correspondiente, ni las obligaciones generadas por las operaciones de inversión del Fondo efectuadas al contado y cuya condición de liquidación es igual o inferior a 5 días hábiles bursátiles desde su realización.
+
+(s) Contrato de Deuda: Acuerdo de voluntades generador de deuda financiera para el Fondo.
+
+(t) Acreedor(es): Aquel que tiene derecho a exigir el cumplimiento de las obligaciones asumidas en virtud de un contrato de deuda.
 
 ### 3. Objetivo General del Programa, de la Línea y la cobertura
 
@@ -180,11 +186,15 @@ El Fondo Crece que otorgue el crédito o financiamiento a los intermediarios fin
 
 a) Ser un fondo de inversión, constituido o por constituir, no rescatable, de aquellos regulados en el Capítulo III de la Ley Nº 20.712, de Administración de Fondos Terceros y Carteras individuales, y estar sometido a la fiscalización de la Comisión para el Mercado Financiero.
 
-b) Contemplar el pago de aportes en dinero efectivo o con aportes comprometidos mediante contratos de promesas de suscripción y pago de cuotas. Los contratos de promesa podrán considerar como condición la incorporación del Fondo Crece a la Línea. La Administradora podrá participar en las cuotas del Fondo Crece.
+b) Contemplar el pago de aportes en dinero efectivo o con aportes comprometidos, o el financiamiento a través de deuda financiera. Los contratos de promesas de suscripción y pago de cuotas podrán considerar como condición la incorporación del Fondo Crece a la Línea. La Administradora podrá participar en las cuotas del Fondo Crece.
 
 c) Tener un plazo máximo de duración de hasta 10 años, el que podrá prorrogarse, previa aprobación de Corfo, si es que existieren obligaciones pendientes con la Corporación.
 
-d) Podrá constituirse con una o más series de cuotas y podrán también emitir deuda, siempre que lo hayan solicitado a la GIF y el CEC lo haya autorizado expresamente. El Fondo Crece podrá obtener sus fondos vía aportes de capital y/o deuda.
+d) Establecer expresamente que se trata de un fondo de inversión que no permite a sus aportantes el rescate total y permanente de sus cuotas.
+
+e) Para el caso de contemplar financiamiento con deuda, deberá establecer una política de endeudamiento que regule el tipo de deudas financieras que podrá asumir el Fondo con terceros, los límites correspondientes y la forma en que se pagará a los acreedores del Fondo. En todo caso, el endeudamiento del Fondo con terceros no podrá en ningún momento superar el 80% del total de sus activos.
+
+f) Podrá constituirse con una o más series de cuotas y podrán también emitir deuda. El Fondo Crece podrá obtener sus fondos vía aportes de capital y/o deuda.
 
 Asimismo, el reglamento interno del Fondo deberá:
 
@@ -224,9 +234,11 @@ La Administradora que desee incorporarse a la Línea de Cobertura Fondo de Inver
 
 5.1 Respecto del Fondo.
 
-a) Un borrador del reglamento interno del Fondo, que contenga las menciones necesarias de modo tal que sólo falte su protocolización. El documento a protocolizar será aquel aprobado por la Corporación, en el que deberá incorporarse la comisión que el Fondo debe pagar a Corfo (numeral 15) fijada por el Comité Ejecutivo de Créditos, en el acto que apruebe su incorporación a la Línea.
+a) Copia del reglamento interno del Fondo protocolizado y depositado ante la CMF".
 
-b) Los compromisos de aporte al fondo de inversión, por el 100% del capital del Fondo respectivo. Los compromisos deberán constar en cartas y en un borrador del contrato de promesa de suscripción y pago de cuotas del Fondo Crece. Los compromisos totales no podrán representar menos de UF 1.000.000. Una vez celebrado el Contrato de Participación en Programa de Garantía, los contratos de aporte sólo podrán ser modificados con la aprobación expresa de Corfo.
+b) Los compromisos de aporte de capital al Fondo. Dichos compromisos deberán constar en cartas y en un borrador del contrato de promesa de suscripción y pago de cuotas del Fondo Crece. En todo caso, los compromisos totales no podrán representar menos del equivalente a UF 1.000.000. Una vez celebrado el Contrato de Participación en Programa de Garantía, los contratos de aporte sólo podrán ser modificados con la aprobación expresa de Corfo.
+
+En caso de que el Fondo Crece contemple parte de su financiamiento a través de deuda financiera, la Administradora deberá acompañar una declaración relativa al monto de financiamiento de ese tipo que espera contratar durante los primeros 6 y 12 meses de operaciones del Fondo.
 
 c) La descripción de la estrategia de prospección e inversión del Fondo en operaciones de los IFI, y si ya tienen relaciones comerciales con algunos de éstos, deberá señalar el alcance de la estrategia comercial de aquellas, en términos de número de empresas a las cuales han otorgado operaciones de financiamiento, número de ellas, montos comprometidos, entre otros.
 
@@ -240,7 +252,9 @@ b) Un informe suscrito por el gerente general, en el que se individualice al equ
 
 Para efectos de la remuneración a la Administradora del Fondo Crece se deberán tener presentes las siguientes definiciones:
 
-a) Capital Fondo Crece: Corresponde a la suma de los aportes en dinero realizados por los inversionistas de cada Fondo Crece. Este capital irá disminuyendo conforme se realizare la devolución de capital a los aportantes. La moneda a usar será la misma que utilice el Fondo Crece para operar.
+a) Capital Fondo Crece. Corresponde a la suma de los aportes en dinero realizados por los aportantes al Fondo. La moneda a usar será la misma que utilice el Fondo Crece para operar.
+
+Si el Fondo Crece considera financiamiento a través de deuda financiera, ésta se considerará como Capital Fondo Crece para efectos del cálculo "pago fijo por administración de cartera", regulado en el numeral 6.1 siguiente.
 
 b) Pagos Corfo ($): Corresponde al monto total, en pesos chilenos, desembolsado por Corfo por concepto de pago de coberturas, según el procedimiento detallado en la sección "Procedimiento de pago de la cobertura" de este mismo Reglamento.
 
@@ -248,21 +262,19 @@ c) Recuperos ($): Corresponde al monto total en pesos chilenos obtenido por la A
 
 d) Comisión Corfo por Cobertura ($): Corresponde al monto pagado por el Fondo Crece a Corfo, para acceder a la cobertura de las diferentes operaciones de crédito o financiamiento otorgadas a los intermediarios financieros.
 
-e) Exceso de Retorno: Corresponde al flujo de parte del interés cobrado al IFI por la operación de crédito o financiamiento, que no sea utilizado para cumplir con las obligaciones del Fondo Crece con sus aportantes ni para pagar las comisiones a Corfo por la cobertura (15.1), ni para pagar la comisión fija por administración de cartera a la Administradora del Fondo Crece ni cubrir los gastos de cada Fondo Crece. Estos dos últimos pagos y gastos serán los definidos en el Reglamento Interno de cada Fondo Crece.
+e) Exceso de Retorno: Corresponde al flujo de parte del interés cobrado al IFI por la operación de crédito o financiamiento, que no sea utilizado para cumplir con las obligaciones del Fondo Crece con sus aportantes y/o acreedores, ni para pagar las comisiones a Corfo por la cobertura (15.1), ni para pagar la comisión fija por administración de cartera a la Administradora del Fondo Crece ni cubrir los gastos de cada Fondo Crece. Estos dos últimos pagos y gastos serán los definidos en el Reglamento Interno de cada Fondo Crece.
 
-Este monto deberá ser administrado en una cuenta separada por el Fondo Crece y podrá ser utilizado para pagar a Corfo los montos de las coberturas que ésta hubiere pagado en exceso y que la Administradora no hubiere restituido el pago de la comisión variable a Corfo y/o para efectuar pago a la Administradora por desempeño exitoso de la cartera de colaterales.
+Este monto deberá ser administrado en una cuenta separada por el Fondo Crece, y podrá ser utilizado para pagar a Corfo los montos de las coberturas que ésta hubiere pagado en exceso y que la Administradora no hubiere restituido, el pago de la comisión variable a Corfo y/o para efectuar pago a la Administradora por desempeño exitoso de la cartera de colaterales.
 
 El pago a la Administradora del Fondo Crece podrá comprender:
 
-6.1 Pago fijo por administración de cartera.
+6.1 "Pago fijo por administración de cartera"
 
-Corresponde a un pago a todo evento a la Administradora de cada Fondo Crece equivalente a un porcentaje anual calculado sobre el Capital Fondo Crece. El porcentaje anual y la forma de pago se definirá en el Reglamento Interno de cada Fondo Crece.
-
-Corfo podrá fijar topes máximos en porcentajes y/o montos en los llamados a concurso que realice.
+Corresponde a un pago a todo evento a la Administradora del Fondo, equivalente a un porcentaje anual calculado sobre el total de los aportes en dinero realizados por los aportantes al Fondo y la deuda financiera, si el Fondo contemplare esta última, según lo dispuesto en el numeral 6, letra a) "Capital Fondo Crece". El porcentaje anual y la forma de pago se definirá en el Reglamento Interno de cada Fondo Crece. Corfo podrá fijar topes máximos en porcentajes y/o montos en los llamados a concurso que realice.
 
 6.2 Pago variable por desempeño.
 
-Es el pago eventual a la Administradora, una vez cumplidas todas las obligaciones del Fondo Crece con sus aportantes, con su Administradora por concepto de comisión de administración fija y con Corfo (incluidos los montos que reste por restituir a la Corporación, en virtud de lo dispuesto en la sección "Revisión de los colaterales que dieron origen al cobro de la cobertura") y que se origina en el resultado de las acciones de recupero seguidas en contra del IFI y de los colaterales que respaldaban la operación de crédito o financiamiento siniestrada, o en el Exceso de Retorno que no sea utilizado para cumplir con las obligaciones mencionadas en la letra d) precedente.
+Es el pago eventual a la Administradora, una vez cumplidas todas las obligaciones del Fondo Crece con sus aportantes y/o acreedores, con su Administradora por concepto de comisión de administración fija y con Corfo (incluidos los montos que reste por restituir a la Corporación, en virtud de lo dispuesto en la sección "Revisión de los colaterales que dieron origen al cobro de la cobertura"), y que se origina en el resultado de las acciones de recupero seguidas en contra del IFI y de los colaterales que respaldaban la operación de crédito o financiamiento siniestrada, o en el Exceso de Retorno que no sea utilizado para cumplir con las obligaciones mencionadas en la letra d) precedente.
 
 La procedencia de este pago se determinará dentro de los 15 días hábiles siguientes a la fecha que caduque la última de las coberturas otorgadas a los créditos o financiamientos entregados por un Fondo Crece a los intermediarios financieros.
 
@@ -310,9 +322,7 @@ d) Contar con políticas, procesos y modelos efectivamente implementados de prev
 
 e) Experiencia relevante -propia o complementada con un tercero- en administración y seguimiento del tipo de operación financiera que ofrecerá al Fondo Crece.
 
-f) No estar relacionadas, en los términos definidos en el artículo 100 de la Ley Nº 18.045, a la Administradora del Fondo Crece al cual solicitan el crédito o financiamiento.
-
-La Administradora Fondo Crece podrá solicitar un certificado de elegibilidad del intermediario, de acuerdo a lo señalado en este Reglamento, a la Gerencia de Inversión y Financiamiento de Corfo.
+f) No estar relacionadas, en los términos definidos en el artículo 100 de la ley Nº 18.045, con la Administradora ni con los acreedores del Fondo Crece al cual solicitan el crédito o financiamiento.
 
 ### 8. Incorporación de Fondos Crece y su Administradora
 
@@ -320,7 +330,9 @@ La incorporación de los Fondos y las Administradoras a esta Línea podrá ser m
 
 Para la evaluación de la solicitud de incorporación de un Fondo Crece, su Administradora deberá entregar a Corfo los antecedentes señalados anteriormente en el apartado "Antecedentes a presentar para la incorporación del Fondo y la Administradora a la línea de cobertura fondo de inversiones", junto con la propuesta de tasa de comisión a pagar a Corfo por la cobertura. La Gerencia de Inversión y Financiamiento de Corfo será la responsable de analizar y evaluar todos los antecedentes de la Administradora y del Fondo Crece, asociados a su solicitud de ingreso a la Línea.
 
-Posteriormente, el CEC, considerando el informe elaborado por la GIF, resolverá acerca de la incorporación del Fondo Crece al Programa. Asimismo, determinará el cupo de cobertura para el Fondo Crece, que será equivalente a los aportes comprometidos.
+Posteriormente, el CEC, considerando el informe elaborado por la GIF, resolverá acerca de la incorporación del Fondo al Programa. Asimismo, determinará el cupo de cobertura para dicho Fondo, el que no podrá ser mayor al equivalente a la suma de los aportes comprometidos y la deuda financiera que espera contratar durante los primeros 12 meses de operación del Fondo.
+
+El monto del cupo otorgado será revisado a los seis meses de la celebración del Contrato de Participación regulado en el numeral siguiente. Si el Fondo no acreditare haber cumplido con el monto de deuda financiera propuesta en su solicitud, el cupo se reducirá, ajustándose a los aportes y deuda financiera efectivamente realizados y asumida
 
 Con cargo a dicho cupo, y de acuerdo a lo señalado en el apartado "Sobre los colaterales y la cobertura" el Fondo Crece entregará financiamiento a los intermediarios y la Administradora solicitará las operaciones para la constitución de colaterales, con operaciones ya existentes o nuevas. Un Fondo Crece podrá solicitar un aumento del cupo de la cobertura, solicitud que será evaluada por la GIF y respecto de la cual conocerá y decidirá el CEC, siempre que su incorporación hubiere sido por el mecanismo de ventanilla abierta.
 
@@ -332,7 +344,7 @@ En caso de que la Administradora del Fondo Crece reciba una sanción por una inf
 
 Una vez acogida la solicitud de incorporación a la Línea, el Fondo Crece que desee acoger sus créditos o financiamientos a la cobertura regulada en este Reglamento, deberá suscribir con Corfo un Contrato de Participación en Programa de Garantía, en el que constará el límite de responsabilidad de la Corporación por siniestralidad, sólo por hasta el monto de los recursos que se consideren en la contabilidad del fondo de cobertura "Programa Cobertura a Créditos Respaldados por Cartera Estructurada Crece" regulado en el decreto supremo Nº 793, de 2004, del Ministerio de Hacienda, y sus modificaciones.
 
-Previo a la celebración del Contrato de Participación antes citado, la Administradora deberá acreditar a la Corporación haber protocolizado el Reglamento Interno del Fondo aprobado por Corfo -al que se haya incorporado la comisión- y, además, que realizó el depósito de éste ante la CMF, así como entregar una copia de los contratos que ésta haya suscrito con los aportantes del Fondo Crece.
+Previo a la celebración del Contrato de Participación antes citado, la Administradora deberá acreditar a la Corporación haber incorporado las modificaciones al Reglamento Interno que se le hubiere solicitado, debiendo reflejar la comisión fijada por Corfo, y que dicha modificación ha sido protocolizada y depositada ante la CMF; así como entregar una copia de los contratos que ésta haya suscrito con los aportantes del Fondo Crece y ratificación o modificación de la declaración presentada por la Administradora con la postulación, relativa al monto de financiamiento de ese tipo que espera contratar durante los primeros 6 y 12 meses de operaciones del Fondo.
 
 Cualquier modificación al Reglamento Interno del Fondo deberá ser aprobado previamente por el CEC de Corfo.
 
@@ -386,8 +398,6 @@ c) Declaración del cumplimiento, por parte del intermediario, de los requisitos
 
 d) Un análisis razonado de la calidad crediticia del IFI y cartera de colaterales cedida directa o indirectamente (a través de una figura legal creada para estos efectos) al Fondo Crece.
 
-Si el Fondo no hubiera solicitado el certificado de elegibilidad que se señala en el apartado Intermediarios elegibles", deberá acompañar en esta instancia los antecedentes solicitados en ese numeral para efectos de realizar dicho análisis.
-
 Dentro de los 30 días corridos siguientes al pago de la comisión por recibir la cobertura, el Gerente resolverá la solicitud de cobertura ingresada a Corfo, entendiéndose cubierto el riesgo de aquellas operaciones que reúnan los requisitos para acceder a la cobertura desde la fecha de curse del crédito o financiamiento objeto de ésta.
 
 La Gerencia comunicará al Fondo la aprobación de la cobertura, correspondientes a las operaciones que hubieran cumplido con las condiciones establecidas en el presente Reglamento, como la devolución de aquellas solicitudes que no hubiesen cumplido con dichas condiciones.
@@ -432,25 +442,23 @@ En este apartado se regula el momento en que deben estar constituidos los colate
 
 14.1 Colaterales.
 
-Cada crédito o financiamiento otorgado a un intermediario debe contar con operaciones o colaterales que respalden o garanticen dicha transacción por un mínimo del 125% de dicho crédito o financiamiento, debiendo mantenerse ese porcentaje durante la vigencia del financiamiento teniendo en consideración el capital vigente y los intereses devengados. El Vicepresidente Ejecutivo de la Corporación, podrá modificar este porcentaje, hasta el porcentaje mínimo contemplado en el Acuerdo de Consejo que creó este Programa, en el llamado a concurso para la incorporación de las Administradoras, según lo dispuesto en el apartado "Incorporación de Fondos Crece y su Administradora", el que será aplicable a las operaciones que se cursen con los cupos aprobados al Fondo en el concurso en particular.
+Cada crédito o financiamiento otorgado a un intermediario por parte del Fondo en el marco de esta Línea, debe contar con operaciones o colaterales que respalden o garanticen dicha transacción por un mínimo del 125% de dicho crédito o financiamiento, debiendo mantenerse ese porcentaje durante la vigencia del financiamiento, teniendo en consideración el capital vigente y los intereses devengados. El Vicepresidente Ejecutivo de la Corporación podrá modificar este porcentaje hasta el porcentaje mínimo contemplado en el Acuerdo de Consejo que creó este Programa, en el llamado a concurso para la incorporación de las Administradoras, según lo dispuesto en el apartado "Incorporación de Fondos Crece y su Administradora", el que será aplicable a las operaciones que se cursen con los cupos aprobados al Fondo en el concurso en particular.
 
-Los colaterales deberán estar constituidos antes de la entrega de los recursos del crédito o financiamiento al IFI.
+Los colaterales deberán estar constituidos y cederse en dominio, directa o indirectamente por los intermediarios financieros, antes de la entrega de los recursos del crédito o financiamiento otorgado por el Fondo. El CEC podrá autorizar, a solicitud de la Administradora, que la cesión del dominio no se realice en casos calificados y fundados.
 
-Los intermediarios financieros deberán ceder en dominio, directa o indirectamente, al Fondo Crece otorgante del crédito o financiamiento colaterales representativos de los financiamientos otorgados. El CEC podrá autorizar, a solicitud de la Administradora, que la cesión del dominio no se realice en casos calificados y fundados.
+Para efectos de calcular la relación indicada en el párrafo primero (porcentaje de respaldo a través de colaterales), Corfo considerará los montos del crédito o financiamiento y de los colaterales, en pesos, de acuerdo al valor de la UF, o a la paridad del dólar, para el tipo de cambio observado, o a la paridad del euro, todos informados por el Banco Central de Chile, vigente a la fecha del último día hábil del mes que se está rindiendo. El cálculo del porcentaje de colateralización deberá efectuarse diariamente y cualquier incumplimiento respecto de éste deberá ser comunicado a Corfo hasta las 12:00 horas del día siguiente a su detección.
 
-Para efectos de calcular la relación indicada en el párrafo primero (porcentaje de respaldo a través de colaterales), Corfo considerará los montos del crédito o financiamiento y de los colaterales, en pesos, de acuerdo al valor de la UF, o a la paridad del dólar para el tipo de cambio observado o a la paridad del euro, todos informados por el Banco Central de Chile, vigente a la fecha del último día hábil del mes que se está rindiendo.
+Asimismo, a efectos de cumplir con el porcentaje de colaterales, el Fondo y su Administradora podrán recomponer el colateral en función de sus pagos (revolving) y definir políticas de reposición de colaterales con el intermediario, para el caso de existir deterioro que pueda afectar su valor efectivo o de liquidación de éstos. La Administradora del Fondo Crece deberá exigir, y el intermediario deberá realizar el cambio de colaterales en caso de que se incumplan los parámetros de valorización del colateral definido por el intermediario en los antecedentes acompañados en cumplimiento de lo señalado en el apartado "Otorgamiento de crédito o financiamiento de la Línea a un intermediario". En caso de incumplimiento de esta obligación por el IFI, el Fondo Crece podrá exigirle el pago anticipado del saldo insoluto más intereses devengados del crédito o financiamiento que le hubiere otorgado.
 
-Asimismo, a efectos de cumplir con el porcentaje de colaterales, el Fondo y su Administradora podrá recomponer el colateral en función de sus pagos (revolving) y definir políticas de reposición de colaterales con el intermediario, para el caso de existir deterioro de éstos. La Administradora del Fondo Crece deberá exigir, y el intermediario deberá realizar el cambio de colaterales en caso que se incumplan los parámetros de valorización del colateral definido por el intermediario en los antecedentes acompañados en cumplimiento de lo señalado en el apartado "Otorgamiento de crédito o financiamiento de la línea a un intermediario". En caso de incumplimiento de esta obligación por el IFI, el Fondo Crece podrá exigirle el pago anticipado del saldo insoluto más intereses devengados del crédito o financiamiento que le hubiere otorgado.
-
-El valor del colateral se medirá considerando al menos las siguientes condiciones:
+En todo caso, el valor del colateral se medirá considerando al menos las siguientes condiciones:
 
 i. Contemplar factores de provisión por morosidad y calidad crediticia de las operaciones de financiamiento conforme a los estándares de la industria.
 
-ii. Contemplar limitaciones y control de los refinanciamientos y repactaciones, y su adecuada provisión según el punto i inmediatamente anterior.
+ii. Contemplar limitaciones y control de los refinanciamientos y repactaciones, y su adecuada provisión según el punto i. inmediatamente anterior.
 
 iii. Contemplar limitaciones y control de las tasas de default y tasas de pago.
 
-Podrán constituirse como colateral dinero o títulos representativos de dinero, operaciones de financiamiento a personas naturales o jurídicas bajo la modalidad de operaciones de crédito de dinero leasing financiero leaseback, o de factoring (con excepción del factoraje sobre cheques), destinados al financiamiento de inversiones y/o capital de trabajo (incluyendo financiamiento de deudas de cotizaciones de seguridad social).
+En la definición de colateral contenida en la letra (g) del numeral 2 de este Reglamento, se encontrarán comprendidos, sin que la enumeración sea taxativa, el dinero o títulos representativos de dinero, operaciones de financiamiento a personas naturales o jurídicas bajo la modalidad de operaciones de crédito de dinero, leasing financiero, leaseback, o de factoring (con excepción del factoraje sobre cheques), destinados al financiamiento de inversiones y/o capital de trabajo (incluyendo financiamiento de deudas de cotizaciones de seguridad social).
 
 No podrán ser constituidas como colaterales, y quedarán excluidas del pago de la cobertura, las siguientes operaciones:
 
@@ -476,7 +484,7 @@ El monto a pagar al Fondo por cobertura no podrá superar el saldo de capital in
 
 La procedencia y cálculo de la comisión para recibir la cobertura de esta Línea corresponderá a un porcentaje periódico computado en la forma que se regula en los párrafos siguientes. Dicha comisión permanecerá vigente por todo el periodo del crédito o financiamiento y no será reembolsada en caso de siniestro de éste, en conformidad con lo señalado en el apartado "Revisión de los colaterales que dieron origen al cobro de la cobertura".
 
-Corfo podrá fijar un valor mínimo y/o máximo a cobrar por comisión en los llamados a concurso o procesos de postulación por ventanilla abierta. Al decidir la incorporación del Fondo a la Línea, el CEC fijará la comisión a pagar, que será aquella propuesta -en el caso que en el concurso ésta se adjudique- o aquella que determine el CEC, para el caso de que opere el mecanismo de incorporación por ventanilla abierta, debiendo dejarse constancia en el Reglamento Interno de cada Fondo Crece, antes de su protocolización, según lo dispuesto en la letra a) de la sección "Respecto del Fondo" del apartado "Antecedentes a presentar para la incorporación del Fondo y la Administradora a la línea de cobertura fondo de inversiones".
+Corfo podrá fijar un valor mínimo y/o máximo a cobrar por comisión en los llamados a concurso o procesos de postulación por ventanilla abierta. Al decidir la incorporación del Fondo a la Línea, el CEC fijará la comisión a pagar, que será aquella propuesta -en el caso que en el concurso ésta se adjudique- o aquella que determine el CEC, para el caso de que opere el mecanismo de incorporación por ventanilla abierta, debiendo dejarse constancia en el Reglamento Interno.
 
 El monto a pagar por comisión será calculado por el periodo total del crédito o financiamiento, incluyendo el periodo de gracia, en caso de que corresponda, y se obtendrá aplicando el porcentaje fijado por el CEC sobre el saldo insoluto del crédito o financiamiento en cada anualidad, según la tabla de desarrollo de éste.
 
@@ -488,7 +496,7 @@ El pago de la comisión deberá ser informado a Corfo el mismo día en que éste
 
 15.2 Pago de comisión variable a Corfo.
 
-Corresponde al pago eventual que deberá realizar el Fondo una vez que haya cumplido todas las obligaciones con sus aportantes, haya pagado las comisiones de administración fija a su Administradora y el pago de la comisión regulada en el numeral anterior a partir del resultado de las acciones de recupero sobre colaterales y en contra del IFI y/o respecto del Exceso de Retorno, en los términos señalados en la sección "Pagos a la Administradora del Fondo Crece".
+Corresponde al pago eventual que deberá realizar el Fondo una vez que haya cumplido todas las obligaciones con sus aportantes y/o sus acreedores, haya pagado las comisiones de administración fija a su Administradora y el pago de la comisión regulada en el numeral anterior, a partir del resultado de las acciones de recupero sobre colaterales y en contra del IFI, y/o respecto del Exceso de Retorno, en los términos señalados en la sección "Pagos a la Administradora del Fondo Crece.
 
 15.3 Devolución de la Comisión.
 
@@ -542,9 +550,9 @@ a) Respecto del Fondo Crece.
 
 Que el Fondo Crece proyecte un incumplimiento del pago de sus obligaciones a sus aportantes en el trimestre respectivo. Para estos efectos, deberá indicar:
 
-i. Saldo del capital del Fondo Crece más los intereses Devengados.
+i. Saldo de colocaciones del Fondo Crece respectivo más los intereses devengados.
 
-ii. Obligaciones para con los aportantes del Fondo Crece en el trimestre respectivo.
+ii. Obligaciones para con los aportantes y/o acreedores del Fondo Crece en el trimestre respectivo.
 
 iii. Saldo de capital insoluto del crédito o financiamiento más los intereses devengados otorgado a uno o más IFI y que ha dado origen al incumplimiento del pago.
 
@@ -688,7 +696,7 @@ c) El estado de juicio en contra del intermediario.
 
 d) El estado de cobro de los seguros que caucionen el crédito o financiamiento que le otorgó el Fondo y aquellos asociados a los colaterales que tengan como objetivo respaldar el pago de operación crédito o financiamiento, en caso de siniestro por mora de un colateral cuya cobertura haya sido pagada por Corfo.
 
-e) Haber cumplido las obligaciones establecidas en su reglamento, en relación a lo dispuesto en el apartado "Los Fondos y su reglamento interno", en particular lo indicado en las letras f) y g) de dicho apartado.
+e) Haber cumplido las obligaciones establecidas en su reglamento, en relación a lo dispuesto en el apartado "Los Fondos y su reglamento interno", en particular lo indicado en las letras h) e i) de dicho apartado.
 
 El Fondo Crece deberá mantener identificados todos los colaterales que respalden el crédito o financiamiento otorgado en virtud de esta Línea.
 
