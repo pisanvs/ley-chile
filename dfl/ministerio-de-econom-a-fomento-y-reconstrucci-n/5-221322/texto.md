@@ -742,7 +742,7 @@ De las Cooperativas de Servicios
 
 Son cooperativas de servicio las que tengan por objeto distribuir los bienes y proporcionar servicios de toda índole, preferentemente a sus socios, con el propósito de mejorar sus condiciones ambientales y económicas y de satisfacer sus necesidades familiares, sociales, ocupacionales o culturales.
 
-Sin que la enumeración siguiente sea taxativa, las cooperativas de esta clase podrán tener el carácter de escolares, de abastecimiento y distribución de energía eléctrica y de agua potable, de vivienda, de aprovisionamiento, de ahorro y crédito y también de beneficio para las actividades del hogar y de la comunidad.
+Sin que la enumeración siguiente sea taxativa, las cooperativas de esta clase podrán tener el carácter de escolares, de abastecimiento y distribución de energía eléctrica, de servicios sanitarios rurales, de vivienda, de aprovisionamiento, de ahorro y crédito y también de beneficio para las actividades del hogar y de la comunidad.
 
 1) De las Cooperativas Escolares
 
@@ -760,7 +760,7 @@ Las cooperativas escolares estarán exentas de todos los impuestos fiscales y mu
 
 Las cooperativas escolares no distribuirán sus beneficios económicos, los cuales se dedicarán a la constitución de un fondo de reserva y un fondo de desarrollo.
 
-2) De las Cooperativas de Abastecimiento y Distribución de Energía Eléctrica y de Agua Potable
+2) De las Cooperativas de Abastecimiento y Distribución de Energía Eléctrica y de Servicios Sanitarios Rurales
 
 #### Artículo 72
 
@@ -784,7 +784,7 @@ Las referidas cooperativas no podrán cobrar gastos por concepto de reembolso de
 
 #### Artículo 73
 
-Las cooperativas de abastecimiento y distribución de agua potable se regirán, en lo que fuere aplicable, por las disposiciones de las leyes especiales que regulan esta actividad.
+Las cooperativas de servicios sanitarios rurales se regirán, en lo que fuere aplicable, por las disposiciones de las leyes especiales que regulan esta actividad.
 
 3) De las Cooperativas de Vivienda
 
@@ -1335,6 +1335,14 @@ Las cooperativas que hayan obtenido un saldo favorable durante el ejercicio econ
 Para llevar a cabo dicha distribución, las cooperativas deberán contar con el informe favorable de sus estados financieros por parte de la junta de vigilancia o del inspector de cuentas, según corresponda. Las cooperativas de importancia económica, conforme al artículo 109 de esta ley, deberán contar adicionalmente con el informe favorable del auditor externo.
 
 Lo anterior deberá entenderse sin perjuicio de la responsabilidad establecida en los artículos 25 y 26 de la presente ley.
+
+#### Artículo 13
+
+Las cooperativas que hayan obtenido un saldo favorable durante el ejercicio económico 2020, por acuerdo del Consejo de Administración o decisión del gerente administrador, según corresponda, podrán distribuir el excedente entre sus socios, ya sea mediante la emisión de cuotas de participación liberadas de pago o mediante la entrega en dinero en efectivo. Para ello deberán cumplir previamente las obligaciones establecidas en el artículo 38, en relación con el remanente.
+
+Para llevar a cabo dicha distribución, las cooperativas deberán contar con el informe favorable de sus estados financieros por parte de la junta de vigilancia o del inspector de cuentas, según corresponda. Las cooperativas de importancia económica, conforme al artículo 109, deberán contar adicionalmente con el informe favorable del auditor externo.
+
+Lo anterior deberá entenderse sin perjuicio de la responsabilidad establecida en los artículos 25 y 26.
 
 Tómese razón, comuníquese y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Alvaro Díaz Pérez, Ministro de Economía, Fomento y Reconstrucción (S.).
 
