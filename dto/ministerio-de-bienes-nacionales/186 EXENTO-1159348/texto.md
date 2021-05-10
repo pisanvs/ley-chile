@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "ENGIE ENERGÍA CHILE S.A."
+
+Mediante decreto exento N° 186, de 12 de abril de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Engie Energía Chile S.A.", RUT N° 88.006.900-4, el inmueble fiscal denominado "Pampa Fidelia", ubicado aproximadamente a 25 kilómetros al sureste de la intersección de la Ruta 5 con la Ruta B-800, comuna de Taltal, provincia y Región de Antofagasta; singularizado en el Plano N° 02104-9.263-C.R.; de una superficie total de 4.219,50 hectáreas; enrolado en el Servicio de Impuestos Internos bajo el Rol N° 4000-41; amparado por la inscripción global a nombre del Fisco que rola a fojas 96 N° 90, del Registro de Propiedad del año 2002, del Conservador de Bienes Raíces de Taltal. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de UF 54.179; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
