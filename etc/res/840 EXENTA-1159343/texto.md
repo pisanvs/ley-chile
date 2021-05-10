@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 840, de fecha 22 de abril de 2021, de esta Secretaría Regional, se aprobó el Programa de Enseñanza conducente a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores "Conduce Sonriendo", cuya propietaria es Carolina Valeska Valladares Gálvez, cédula de identidad Nº 19.230.134-3. La Escuela de Conductores tendrá como Director a Sergio Eliseo Ávila Pardo, cédula de identidad Nº 8.406.797-0, y su sede estará ubicada en Avenida Santa Rosa Nº 12980, Local 33, comuna de La Pintana, Región Metropolitana de Santiago. Las horas pedagógicas autorizadas a la referida Escuela son nueve horas teóricas y doce horas prácticas, con un total de veintiuna horas pedagógicas.-
+
+Eddy Nelson Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
