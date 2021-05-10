@@ -54,7 +54,7 @@ Tendrán derecho al bono de apoyo y al préstamo estatal solidario, según lo re
 
 Tratándose del bono de apoyo y del préstamo solidario de apoyo regidos por la Ley Nº 21.323, se incluyen como beneficiarios todas las categorías del artículo 8° del Convenio de Transporte de Pasajeros por Carretera entre Tacna y Arica, suscrito entre el Gobierno de la República de Chile y el Gobierno de la República del Perú, promulgado mediante decreto supremo Nº 265, de 2005, del Ministerio de Relaciones Exteriores, que tengan permiso vigente o estén en los registros del Ministerio de Transportes y Telecomunicaciones.
 
-2. Vehículo inscrito en el Registro Nacional de Servicios de Transporte de Pasajeros como bus, trolebús, minibús o taxibús, urbano y rural y que presten servicios en las zonas señaladas en el numeral ii) del artículo 2º de la ley Nº 20.378.
+2. Vehículo inscrito en el Registro Nacional de Servicios de Transporte de Pasajeros como bus, trolebús, minibús o taxibús, urbano y rural y que presten servicios en las zonas señaladas en el numeral ii) del artículo 2º de la ley Nº 20.378. En consecuencia, resultan excluidos los buses urbanos inscritos en dicho Registro y que son conocidos como Transantiago o sistema RED.
 
 3. Vehículo inscrito en el Registro Nacional de Servicios de Transporte Remunerado de Escolares.
 
@@ -80,6 +80,8 @@ No calificarán como beneficiarias las personas jurídicas de derecho público y
 
 Para efectos de la entrega de los beneficios que se regulan en este decreto, el beneficiario será el representante legal de la persona jurídica propietaria o mera tenedora inscrita del vehículo que figure inscrito en el Registro de Comercio del Conservador de Bienes Raíces respectivo, en el Registro de Empresas y Sociedades del Ministerio de Economía, Fomento y Turismo, o señalado en la documentación pertinente según corresponda al tipo de persona jurídica. Por su parte, en el caso en que el propietario sea una comunidad, el beneficio podrá ser solicitado por cualquiera de los comuneros inscritos en el Registro Nacional de Vehículos Motorizados del Registro Civil e Identificación, no obstante, para recibir el beneficio se deberá acreditar la calidad de mandatario o apoderado con poder suficiente, incluyendo la facultad de percibir.
 
+Para el caso de los beneficios dispuestos en el artículo 19 de la ley Nº 21.323, los comuneros antes mencionados, no requieren presentar documentación que acredite que cuenta con poder o mandato para efectuar, tanto la postulación al bono de apoyo como al préstamo solidario de apoyo, a nombre y representación de la comunidad. Por lo tanto, basta con la aceptación de la declaración jurada que se presenta en la Plataforma Digital en este sentido.
+
 ## Título II
 
 Bono de Apoyo
@@ -90,7 +92,7 @@ Los beneficiarios indicados en los artículos 3º y 4º precedentes tendrán der
 
 El bono de apoyo indicado en el inciso anterior será compatible con el Ingreso Familiar de Emergencia que contempla la ley Nº 21.230, pero en ese caso, el monto total del Ingreso Familiar de Emergencia que le corresponda recibir al hogar del beneficiario del bono, considerando tanto lo que ya recibió como lo que recibirá hasta el 30 de septiembre de 2020, se computará como parte del bono para efecto de su cálculo. Es decir, se descontará del monto del bono de apoyo las sumas recibidas por concepto del Ingreso Familiar de Emergencia contemplado en la ley Nº 21.230, así como también las sumas a las que tiene derecho el hogar respectivo hasta el 30 de septiembre de 2020.
 
-Respecto de los beneficios establecidos en el artículo 19 de la Ley Nº 21.323, que establece un nuevo bono clase media y un préstamo solidario para la protección de los ingresos de la clase media, las personas indicadas en los artículos 3º y 4º precedentes, tendrán derecho a recibir un bono de apoyo por un monto de $500.000.-, el cual podrá solicitarse dentro del plazo de 60 días contados desde la publicación del presente decreto. Asimismo, será compatible con los demás beneficios otorgados con motivo de la situación de pandemia COVID-19. Sin perjuicio de lo anterior, el monto total de las prestaciones sociales establecidas en la Partida 50, Capítulo 01, Programa 03 "Operaciones Complementarias", Subtítulo 30, Ítem 10 "Fondo Emergencia Transitorio", Glosa 26, numeral 3, literal a, de la Ley Nº 21.289, de Presupuestos del Sector Público correspondiente al año 2021, que le corresponda recibir al hogar del beneficiario, por los meses de enero y febrero de 2021, se imputará como parte del monto del bono de apoyo para efectos de su cálculo. En consecuencia, el monto total de la glosa presupuestaria indicada anteriormente, que le corresponda recibir al hogar del beneficiario del bono, considerando lo que recibió en los meses de enero y febrero del año 2021, se computará como parte del bono para efectos de su cálculo. Es decir, se descontará el monto por persona de las prestaciones sociales establecidas en la referida glosa de la citada Ley Nº 21.289.
+Respecto de los beneficios establecidos en el artículo 19 de la Ley Nº 21.323, que establece un nuevo bono clase media y un préstamo solidario para la protección de los ingresos de la clase media, las personas indicadas en los artículos 3º y 4º precedentes, tendrán derecho a recibir un bono de apoyo por un monto de $500.000.-, el cual podrá solicitarse dentro del plazo de 60 días contados desde la publicación del presente decreto. Asimismo, será compatible con los demás beneficios otorgados con motivo de la situación de pandemia COVID-19.
 
 #### Artículo 8º
 
@@ -192,6 +194,10 @@ Adicionalmente, para la verificación del cumplimiento de los requisitos para ac
 
 El Ministerio de Transportes y Telecomunicaciones deberá informar a los solicitantes la aprobación o rechazo de las solicitudes, indicando, en caso que corresponda, los requisitos que no se dan por acreditados. Asimismo, respecto del bono de apoyo, deberá informar los descuentos que correspondan en virtud de lo señalado en el artículo 7º.
 
+En el caso de beneficios establecidos en el artículo 19 de la ley Nº 21.323, en virtud de lo dispuesto en la ley Nº 21.339, que lo modificó, no resultan aplicables las reglas dispuestas en este artículo respecto de los descuentos a los mismos por concepto de Ingreso Familiar de Emergencia (IFE).
+
+Asimismo, en el caso de que la Tesorería General de la República hubiese pagado algún bono de apoyo con el descuento referido en el artículo 7º del decreto exento Nº 284, de 2020, ya citado, esto es, por concepto del Ingreso Familiar de Emergencia o IFE, en coordinación con el Ministerio de Transportes y Telecomunicaciones deberá determinar el monto que falta para completar los $500.000.- que a cada beneficiario le corresponden por concepto de bono. El pago del saldo restante deberá efectuarse en el plazo de 20 días hábiles contados desde la fecha de publicación de la ley Nº 21.339.
+
 #### Artículo 14º
 
 Acreditado el cumplimiento de los requisitos y determinado el monto de los beneficios, el Ministerio de Transportes y Telecomunicaciones informará, por medios digitales, a la Tesorería General de la República para que proceda a pagar los beneficios, según el medio de pago por el que haya optado el beneficiario entre aquellos disponibles.
@@ -232,7 +238,7 @@ En el caso de los beneficios establecidos en la Ley Nº 21.323, las personas que
 
 #### Artículo 20
 
-Para consulta de la ciudadanía de manera virtual, y para efectos del bono de apoyo y del préstamo solidario de apoyo establecidos en la Ley Nº 21.323, el Ministerio de Transportes y Telecomunicaciones dispondrá en su página web, www.mtt.gob.cl, de un sistema de búsqueda que contendrá el nombre de los postulantes y beneficiados, diferenciando la región en la cual postulan.
+Para consulta de la ciudadanía de manera virtual, y para efectos del bono de apoyo y del préstamo solidario de apoyo establecidos en la Ley Nº 21.323, el Ministerio de Transportes y Telecomunicaciones dispondrá en su página web, www.mtt.gob.cl, de un sistema de búsqueda que contendrá el nombre y/o número de cédula de identidad de los postulantes y beneficiados, diferenciando la región en la cual postulan.
 
 Anótese, publíquese y archívese.- Por orden del Presidente de la República, Ignacio Briones Rojas, Ministro de Hacienda.
 
