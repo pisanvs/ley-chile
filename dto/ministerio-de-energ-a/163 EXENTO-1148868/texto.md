@@ -150,7 +150,7 @@ Iníciese inmediatamente, a partir de la publicación en el Diario Oficial del p
 
 <!-- parte:10155185 -->
 
-Establécese el plazo máximo de licitación y adjudicación del proyecto "Nueva Línea de Transmisión Eléctrica Kimal - Lo Aguirre" en 14 meses, contado a partir de la fecha de publicación del presente decreto en el Diario Oficial.
+Establécese que el plazo máximo para la licitación y adjudicación del proyecto "Nueva Línea de Transmisión Eléctrica Kimal - Lo Aguirre" vencerá el 13 de diciembre de 2021.
 
 #### Artículo quinto
 
