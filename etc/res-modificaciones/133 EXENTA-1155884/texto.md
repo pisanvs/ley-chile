@@ -50,6 +50,8 @@ Mediante resolución del Director del Serviu respectivo, se determinarán los mo
 
 .
 
+> **Nota.** Los literales a) y c) del numeral 1° de la Resolución 580 Exenta, Vivienda, publicada el 11.05.2021, modifican la presente norma en el sentido de reemplazar los cuadros insertos en el resuelvo 1 y 4, respectivamente, en los términos que la citada norma indica.
+
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Erwin Navarrete Saldivia, Subsecretario de Vivienda y Urbanismo (S).
