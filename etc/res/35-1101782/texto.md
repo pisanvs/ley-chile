@@ -28,7 +28,7 @@ Resuelvo:
 
 1° Ejecútase el acuerdo del Comité de Asignación de Fondos - CAF, adoptado en la sesión N° 4/2017, de 14 de febrero de 2017, que aprobó las modificaciones al instrumento "Programas de Formación para la Competitividad - PFC".
 
-2° Déjanse sin efecto los numerales 2° y II de las resoluciones (A) N° 24, de 2015 y (E) N° 1.363, de 2016, respectivamente, ambas del Gerente de Desarrollo Competitivo, que aprobó y modificó el instrumento señalado en numeral precedente.
+2° Déjanse sin efecto los numerales 2° y II de las resoluciones (A) N° 24, de 2015 y (E) N° 1.363, de 2016, respectivamente, ambas del Gerente General, que aprobó y modificó el instrumento señalado en numeral precedente.
 
 3° Apruébase, en su reemplazo, el siguiente Reglamento del instrumento "Programas de Formación para la Competitividad - PFC":
 
@@ -74,7 +74,9 @@ En la ejecución de los Programas se distinguen los siguientes participantes:
 
 a) Entidad Experta: Persona natural o jurídica que cumple con el perfil definido por CORFO, y es contratada/s por el Agente Operador Intermediario para ejecutar las actividades de Diagnóstico, Desarrollo de Competencias y/o Certificación de Competencias. Podrán actuar como tales, simultáneamente, en uno o más Programas.
 
-b) Becarios: También llamados beneficiarios, son personas naturales chilenas o extranjeras con residencia definitiva en el país. Cada Proyecto podrá establecer requisitos objetivos adicionales que deberán cumplir, dependiendo de la naturaleza del PFC. Materializarán su derecho a participar del Programa a través del pago del cofinanciamiento exigido.
+b) Becario: También llamados beneficiarios, son personas naturales, chilenas o extranjeras con residencia definitiva en el país. Cada Proyecto podrá establecer requisitos objetivos adicionales que deberán cumplir, dependiendo de la naturaleza del PFC.
+
+c) Asociado: Es una entidad que se caracteriza por cofinanciar la ejecución del proyecto mediante la formalización de un aporte pecuniario y/o valorizado. Su participación es optativa.
 
 ### 5. MODELO DE ADMINISTRACIÓN
 
@@ -110,7 +112,7 @@ c) Certificación de Competencias: El cofinanciamiento de CORFO será de hasta $
 
 - **000.-** (veinte millones de pesos).
 
-Los Becarios deberán cofinanciar al menos el 10% (diez por ciento) del costo total previsto inicialmente para los ítems "Gastos de Contratación de Cursos" y "Gastos de Certificación", pago mediante el cual materializarán su derecho a participar del Proyecto. El aporte realizado por los Becarios deberá ser de naturaleza pecuniaria.
+Uno o más participantes deberán cofinanciar, al menos, el 10% (diez por ciento) del costo total previsto inicialmente para los Ítems "Gastos de Contratación de Cursos" y "Gastos de Certificación". El aporte realizado deberá ser de naturaleza pecuniaria y/o valorizada.
 
 CORFO podrá financiar la totalidad de los demás Gastos de Capacitación y Gastos de Operación contemplados en el Proyecto, de forma tal de asegurar la publicidad del proceso y la concurrencia de los interesados.
 
@@ -120,19 +122,19 @@ Los Gastos de Operación asociados a los Ítems de Difusión y Promoción no pod
 
 La administración estará entregada a los Agentes Operadores Intermediarios, a los que CORFO pagará adicionalmente hasta un 15% del financiamiento o cofinanciamiento otorgado para la ejecución del Proyecto, según determine el Comité de Asignación de Fondos - CAF o el Comité de Asignación Zonal de Fondos - CAZ.
 
-Si un Proyecto termina anticipadamente, se resuelve su administración directa o se modifica su Agente Operador Intermediario, el Director Regional o el Gerente de Desarrollo Competitivo, según la categoría del Proyecto, deberá determinar fundadamente el monto o porcentaje de pago que por este concepto deberá efectuarse.
+Si un Proyecto termina anticipadamente, se resuelve su administración directa o se modifica su Agente Operador Intermediario, el Director Regional o el Gerente General, según la categoría del Proyecto, deberá determinar fundadamente el monto o porcentaje de pago que por este concepto deberá efectuarse.
 
 ### 8. PROCESOS, CRITERIOS Y PLAZOS
 
-El plazo para la ejecución de un Proyecto no podrá superar los 2 (dos) años, siendo prorrogables, en casos extraordinarios, hasta por 6 (seis) meses, por el Gerente de Desarrollo Competitivo o el Director Regional, según la categoría del Proyecto.
+El plazo para la ejecución de un Proyecto no podrá superar los 2 (dos) años, siendo prorrogables, en casos extraordinarios, hasta por 6 (seis) meses, por el Gerente General o el Director Regional, según la categoría del Proyecto.
 
-Este plazo se inicia con la total tramitación de la resolución que ejecuta el acuerdo del CAF/CAZ que aprobó el Proyecto, según corresponda, y termina una vez que CORFO dé su aprobación al Informe Final, y el Agente Operador Intermediario haya restituido los recursos anticipados y no utilizados, los surgidos de gastos rechazados y ajustes de proporcionalidad, como resultado de las revisiones de informes financieros del PFC, encontrándose los saldos pendientes en cero.
+Este plazo se inicia con la total tramitación de la resolución que selecciona al Agente Operador Intermediario, y termina una vez que Corfo aprueba el Informe Final, y el Agente Operador Intermediario restituye los recursos definitivamente observados, no rendidos y/o no ejecutados, manteniéndose el porcentaje de cofinanciamiento aprobado inicialmente, de manera que se mantenga constante la relación entre el subsidio y el aporte de los participantes.
 
 8.1 Postulación de Proyectos.
 
 Este Instrumento operará mediante la modalidad de ventanilla abierta, pudiendo postular Proyectos en cualquier momento del año, siempre que exista disponibilidad presupuestaria para su financiamiento y/o cofinanciamiento.
 
-La iniciativa para postular PFC Nacionales y Mesoregionales estará radicada en el Gerente de Desarrollo Competitivo y, para el caso de los PFC Regionales, estará radicada en los Directores Regionales.
+La iniciativa para postular PFC Nacionales y Mesoregionales estará radicada en el Gerente General y, para el caso de los PFC Regionales, estará radicada en los Directores Regionales.
 
 8.2 Formulación de los Programas.
 
@@ -152,73 +154,25 @@ f. Requisitos que deberá(n) reunir la(s) Entidad(es) Experta(s).
 
 g. Requisitos que deberán cumplir los Becarios (cuando corresponda).
 
-Aprobado un Proyecto, el Gerente de Desarrollo Competitivo o el Director Regional, según corresponda de acuerdo a la categoría del PFC, dará inicio al proceso de selección del Agente Operador Intermediario.
+Aprobado un Proyecto, el Gerente General o el Director Regional, según corresponda de acuerdo a la categoría del PFC, dará inicio al proceso de selección del Agente Operador Intermediario.
 
 8.3 Proceso de selección del Agente Operador Intermediario.
 
-Este proceso se inicia con la total tramitación de la resolución del Gerente de Desarrollo Competitivo o el Director Regional, según la categoría del Proyecto, que ordena invitar a todos los AOI habilitados para presentar sus antecedentes para administrar dicho Proyecto, designando una Comisión Evaluadora para su evaluación, compuesta por no menos de 3 (tres) funcionarios de la Corporación.
+Este proceso se inicia con la total tramitación de la resolución del Gerente General o el Director Regional, según la categoría del Proyecto, que ordena invitar a todos los AOI habilitados para presentar sus antecedentes para administrar dicho Proyecto, designando una Comisión Evaluadora para su evaluación, compuesta por no menos de 3 (tres) funcionarios de la Corporación.
 
-El Gerente de Desarrollo Competitivo o el Director Regional, conforme la categoría del Proyecto, invitará a los Agentes Operadores Intermediarios habilitados a presentar sus antecedentes, adjuntando la información necesaria para que este/estos pueda/n hacer llegar sus postulaciones.
+El Gerente General o el Director Regional, conforme la categoría del Proyecto, invitará a los Agentes Operadores Intermediarios habilitados a presentar sus antecedentes, adjuntando la información necesaria para que este/estos pueda/n hacer llegar sus postulaciones.
 
 Los Agentes Operadores Intermediarios deberán presentar todos los antecedentes que permitan realizar la evaluación, según los criterios para la asignación de los PFC que se señalan a continuación.
 
 Los criterios para seleccionar a un Agente Operador Intermediario de un PFC son los siguientes:
 
-CRITERIOS PONDERACIÓN
-
-Experiencia Sectorial y de
-
-articulación y gestión de
-
-proyectos del
-
-postulante.
-
-Se evaluará su experiencia 40%
-
-en el sector y/o plataforma
-
-habilitante con la cual se
-
-relaciona el Proyecto, así
-
-como su experiencia en
-
-articulación y gestión de
-
-programas relativos a capital
-
-humano.
-
-Presencia y/o cobertura del postulante.
-
-Se evaluará su presencia y/o cobertura 30%
-
-actual en el área de influencia
-
-del Proyecto, así como la ofrecida
-
-para el evento de ser seleccionado
-
-Experiencia del Jefe de Proyecto
-
-propuesto por el Agente
-
-Operador Intermediario.
-
-Se evaluará la experiencia previa y 30%
-
-dedicación del profesional que el
-
-postulante designe como Jefe de
-
-Proyecto.
+.
 
 La Evaluación se realizará de conformidad con los citados criterios, a los que se les asignará una nota de 1 a 10, donde 1 es la más baja y 10 la más alta. La evaluación se realizará asignando notas de números enteros.
 
 No podrán ser recomendados Agentes Operadores Intermediarios que obtengan una evaluación total inferior a 7, o aquellos que en uno o más de sus criterios obtengan una calificación inferior a 5.
 
-Esta fase termina con la total tramitación de la resolución del Gerente de Desarrollo Competitivo o del Director Regional, conforme la categoría del Proyecto, que selecciona al Agente Operador Intermediario y dispone la transferencia de los recursos.
+Esta fase termina con la total tramitación de la resolución del Gerente General o del Director Regional, conforme la categoría del Proyecto, que selecciona al Agente Operador Intermediario y dispone la transferencia de los recursos.
 
 8.4 Proceso de selección de la/de las Entidad/es Experta/s.
 
@@ -234,7 +188,7 @@ El Agente Operador Intermediario deberá informar, previo a su contratación, a 
 
 Cuando un PFC contenga actividades de Desarrollo de Competencias y/o de Certificación de Competencias, el Agente Operador Intermediario deberá iniciar el proceso conducente a la selección de Becarios.
 
-Este proceso se inicia con la total tramitación de la resolución del Gerente de Desarrollo Competitivo o el Director Regional, según la categoría del Proyecto, que regula las condiciones generales del proceso de postulación y selección de los Becarios, las actividades y condiciones que deberán realizar y cumplir los postulantes, el número mínimo de vacantes y ciudades en que se realizarán los cursos y/o certificaciones, la descripción general del curso, los requisitos de postulación, los procesos de selección y matrícula, los plazos, obligaciones de los Becarios, así como otras materias que se estimen necesarias para que el proceso se desarrolle adecuadamente.
+Este proceso se inicia con la total tramitación de la resolución del Gerente General o el Director Regional, según la categoría del Proyecto, que regula las condiciones generales del proceso de postulación y selección de los Becarios, las actividades y condiciones que deberán realizar y cumplir los postulantes, el número mínimo de vacantes y ciudades en que se realizarán los cursos y/o certificaciones, la descripción general del curso, los requisitos de postulación, los procesos de selección y matrícula, los plazos, obligaciones de los Becarios, así como otras materias que se estimen necesarias para que el proceso se desarrolle adecuadamente.
 
 El proceso de selección debe llevarse a cabo respetando principios de:
 
@@ -248,11 +202,11 @@ iii. Publicidad: El proceso de llamado para la selección de Becarios deberá da
 
 Efectuado el llamado a postulación y cumplidos los plazos del mismo, el Agente Operador Intermediario elaborará, conforme a su proceso de verificación de cumplimiento de los requisitos establecidos por CORFO, un listado con los seleccionados y postulantes en Lista de Espera, el que será puesto a disposición de los interesados en la página web de CORFO.
 
-Serán Becarios aquellos postulantes que, habiendo sido seleccionados, paguen el cofinanciamiento establecido para el Proyecto. En caso que su número sea insuficiente, conforme los cupos definidos para el Proyecto, se hará correr la Lista de Espera, hasta completar el número de cupos requerido.
+Serán Becarios aquellos postulantes que, habiendo sido seleccionados, ejecuten la acción de matricularse pagando el cofinanciamiento o cumpliendo los requerimientos definidos para ello cuando el cofinanciamiento lo aporte otro de los participantes. En caso de que el número de Becarios sea insuficiente, en relación con los cupos definidos para el Proyecto, se hará correr la lista de espera, hasta completar el número de cupos requerido.
 
-Completado el número mínimo de Becarios establecido, el Gerente de Desarrollo Competitivo o el Director Regional, según la categoría del PFC, los individualizará en un acto administrativo.
+Completado el número mínimo de Becarios establecido, el Gerente General o el Director Regional, según la categoría del PFC, los individualizará en un acto administrativo.
 
-Cuando para una convocatoria de Desarrollo de Competencias o Certificación de Competencias no se lograsen asignar todas las vacantes disponibles, el Gerente de Desarrollo Competitivo o el Director Regional, según la categoría del PFC, podrá abrir, en el marco del mismo Proyecto, nuevas convocatorias que permitan asignar dichos cupos de acuerdo a la demanda real, conforme las características del Proyecto.
+Cuando para una convocatoria de Desarrollo de Competencias o Certificación de Competencias no se lograsen asignar todas las vacantes disponibles, el Gerente General o el Director Regional, según la categoría del PFC, podrá abrir, en el marco del mismo Proyecto, nuevas convocatorias que permitan asignar dichos cupos de acuerdo a la demanda real, conforme las características del Proyecto.
 
 8.6 Ejecución de las actividades.
 
@@ -270,9 +224,9 @@ La aprobación de un Proyecto y la asignación de los recursos para los PFC Naci
 
 Respecto de los PFC Regionales, las resoluciones que ejecuten los Acuerdos que los aprueben y asignen sus recursos, así como en general todas aquellas que tengan relación directa con estos Programas, serán dictadas por los Directores Regionales respectivos.
 
-Tratándose de los PFC Nacionales y Mesoregionales, las resoluciones que ejecuten los Acuerdos que los aprueben y le asignen sus recursos, así como en general todas aquellas que tengan relación directa con estos Programas, serán dictadas por el Gerente de Desarrollo Competitivo.
+Tratándose de los PFC Nacionales y Mesoregionales, las resoluciones que ejecuten los Acuerdos que los aprueben y le asignen sus recursos, así como en general todas aquellas que tengan relación directa con estos Programas, serán dictadas por el Gerente General.
 
-Los Directores Regionales y el Gerente de Desarrollo Competitivo, según el PFC, tendrán facultades para modificarlos en todos aquellos aspectos que no sean sustanciales.
+Los Directores Regionales y el Gerente General, según el PFC, tendrán facultades para modificarlos en todos aquellos aspectos que no sean sustanciales.
 
 Para estos efectos se considerarán aspectos sustanciales el cambio del Agente Operador Intermediario, el plazo máximo de ejecución fijado en el Reglamento y/o el aumento del financiamiento total asignado al Proyecto.
 
@@ -282,7 +236,7 @@ Los gastos imputables al financiamiento otorgado por CORFO deberán detallarse, 
 
 ### 10. ANTICIPOS, GARANTÍAS Y RENDICIONES
 
-El Gerente de Desarrollo Competitivo o cada Director Regional, según la categoría del PFC, podrá autorizar anticipos de recursos al Agente Operador Intermediario para la ejecución y administración de los Proyectos aprobados, previa entrega de una boleta de garantía bancaria pagadera a la vista o una póliza de seguro de ejecución inmediata o a primer requerimiento, por el total de los fondos anticipados
+El Gerente General o cada Director Regional, según la categoría del PFC, podrá autorizar anticipos de recursos al Agente Operador Intermediario para la ejecución y administración de los Proyectos aprobados, previa entrega de una boleta de garantía bancaria pagadera a la vista o una póliza de seguro de ejecución inmediata o a primer requerimiento, por el total de los fondos anticipados
 
 No será obligación el garantizar los recursos anticipados en los casos en que el Agente Operador Intermediario sea un órgano de la Administración del Estado.
 
@@ -294,9 +248,9 @@ Los aportes de los Becarios podrán ser recaudados por la/s Entidad/es Experta/s
 
 ### 11. ACCIONES DE SEGUIMIENTO
 
-El Gerente de Desarrollo Competitivo o el Director Regional, según corresponda, conjuntamente con la postulación de cada Proyecto, informará al Comité de Asignación de Fondos - CAF o al Comité de Asignación de Fondos Zonal - CAZ, según el caso, del Programa de seguimiento que desarrollará durante la ejecución de las actividades.
+El Gerente General o el Director Regional, según corresponda, conjuntamente con la postulación de cada Proyecto, informará al Comité de Asignación de Fondos - CAF o al Comité de Asignación de Fondos Zonal - CAZ, según el caso, del Programa de seguimiento que desarrollará durante la ejecución de las actividades.
 
-El seguimiento, control y cierre de los PFC Nacionales y Mesoregionales corresponderá al Gerente de Desarrollo Competitivo y, para el caso de los PFC Regionales, corresponderá a los Directores Regionales.
+El seguimiento, control y cierre de los PFC Nacionales y Mesoregionales corresponderá al Gerente General y, para el caso de los PFC Regionales, corresponderá a los Directores Regionales.
 
 ### 12. VIGENCIA
 
