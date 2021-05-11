@@ -148,7 +148,7 @@ Se entenderá que el equipo de salud comprende todo individuo que actúe como mi
 
 #### Artículo 10
 
-Toda persona tiene derecho a ser informada, en forma oportuna y comprensible, por parte del médico u otro profesional tratante, acerca del estado de su salud, del posible diagnóstico de su enfermedad, de las alternativas de tratamiento disponibles para su recuperación y de los riesgos que ello pueda representar, así como del pronóstico esperado, y del proceso previsible del postoperatorio cuando procediere, de acuerdo con su edad y condición personal y emocional.
+Toda persona tiene derecho a ser informada, en forma oportuna y comprensible, por parte del médico u otro profesional tratante, acerca del estado de su salud, del posible diagnóstico de su enfermedad, de las alternativas de tratamiento disponibles para su recuperación y de los riesgos que ello pueda representar, así como del pronóstico esperado, y del proceso previsible del postoperatorio cuando procediere, de acuerdo con su edad y condición personal y emocional. Asimismo, todo niño, niña y adolescente tiene derecho a recibir información sobre su enfermedad y la forma en que se realizará su tratamiento, adaptada a su edad, desarrollo mental y estado afectivo y psicológico.
 
 Cuando la condición de la persona, a juicio de su médico tratante, no le permita recibir la información directamente o padezca de dificultades de entendimiento o se encuentre con alteración de conciencia, la información a que se refiere el inciso anterior será dada a su representante legal, o en su defecto, a la persona bajo cuyo cuidado se encuentre. Sin perjuicio de lo anterior, una vez que haya recuperado la conciencia y la capacidad de comprender, deberá ser informada en los términos indicados en el inciso precedente.
 
@@ -219,6 +219,10 @@ Este derecho debe ser ejercido en forma libre, voluntaria, expresa e informada, 
 En ningún caso el rechazo a tratamientos podrá tener como objetivo la aceleración artificial de la muerte, la realización de prácticas eutanásicas o el auxilio al suicidio.
 
 Por regla general, este proceso se efectuará en forma verbal, pero deberá constar por escrito en el caso de intervenciones quirúrgicas, procedimientos diagnósticos y terapéuticos invasivos y, en general, para la aplicación de procedimientos que conlleven un riesgo relevante y conocido para la salud del afectado. En estos casos, tanto la información misma, como el hecho de su entrega, la aceptación o el rechazo deberán constar por escrito en la ficha clínica del paciente y referirse, al menos, a los contenidos indicados en el inciso primero del artículo 10. Se presume que la persona ha recibido la información pertinente para la manifestación de su consentimiento, cuando hay constancia de su firma en el documento explicativo del procedimiento o tratamiento al cual deba someterse.
+
+Sin perjuicio de las facultades de los padres o del representante legal para otorgar el consentimiento en materia de salud en representación de los menores de edad competentes, todo niño, niña y adolescente tiene derecho a ser oído respecto de los tratamientos que se le aplican y a optar entre las alternativas que éstos otorguen, según la situación lo permita, tomando en consideración su edad, madurez, desarrollo mental y su estado afectivo y psicológico. Deberá dejarse constancia de que el niño, niña o adolescente ha sido informado y se le ha oído.
+
+En el caso de una investigación científica biomédica en el ser humano y sus aplicaciones clínicas, la negativa de un niño, niña o adolescente a participar o continuar en ella debe ser respetada. Si ya ha sido iniciada, se le debe informar de los riesgos de retirarse anticipadamente de ella.
 
 #### Artículo 15
 
@@ -298,55 +302,29 @@ Sin perjuicio de lo dispuesto en el artículo 15 de esta ley, si la persona no s
 
 #### Artículo 25
 
-Una persona puede ser objeto de hospitalización involuntaria siempre que se reúnan todas las condiciones siguientes:
-
-a) Certificación de un médico cirujano que indique fundadamente la necesidad de proceder al ingreso de una persona para llevar a cabo la evaluación de su estado de salud mental;
-
-b) Que el estado de la misma comporte un riesgo real e inminente de daño a sí mismo o a terceros;
-
-c) Que la hospitalización tenga exclusivamente una finalidad terapéutica;
-
-d) Que no exista otro medio menos restrictivo de suministrar los cuidados apropiados, y
-
-e) Que el parecer de la persona atendida haya sido tenido en consideración. De no ser posible esto último, se tendrá en cuenta la opinión de su representante legal o, en su defecto, de su apoderado a efectos del tratamiento y, en ausencia de ambos, de la persona más vinculada a él por razón familiar o de hecho.
-
-Toda hospitalización involuntaria deberá ser comunicada a la Secretaría Regional Ministerial de Salud y a la Comisión Regional de Protección de los Derechos de las Personas con Enfermedad Mental indicada en el artículo 29 que correspondan.
-
-La Autoridad Sanitaria Regional velará por el respeto de los derechos de las personas ingresadas en instituciones de salud mental, y autorizará el ingreso de todas las hospitalizaciones involuntarias que excedan de setenta y dos horas, de acuerdo a lo establecido en los artículos 130 y 131 del Código Sanitario.
-
-Las Comisiones Regionales indicadas informarán de su revisión, conclusiones y recomendaciones al Secretario Regional Ministerial de Salud para que éste, si correspondiere, ejerza la facultad indicada en el artículo 132 del Código Sanitario. En el evento que dicha autoridad decida no ejercer esta facultad, la Comisión respectiva podrá presentar los antecedentes a la Corte de Apelaciones del lugar en que esté hospitalizado el paciente, para que ésta resuelva en definitiva, conforme al procedimiento aplicable a la acción constitucional de protección establecida en el artículo 20 de la Constitución Política de la República, sin perjuicio de las demás acciones que correspondan.
+Suprimido.
 
 #### Artículo 26
 
-El empleo extraordinario de las medidas de aislamiento o contención física y farmacológica deberá llevarse a cabo con pleno respeto a la dignidad de la persona objeto de tales medidas, las cuales sólo podrán aplicarse en los casos en que concurra indicación terapéutica acreditada por un médico, que no exista otra alternativa menos restrictiva y que la necesidad de su aplicación fuere proporcional en relación a la conducta gravemente perturbadora o agresiva.
-
-Estas excepcionales medidas se aplicarán exclusivamente por el tiempo estrictamente necesario para conseguir el objetivo terapéutico, debiendo utilizarse los medios humanos suficientes y los medios materiales que eviten cualquier tipo de daño. Durante el empleo de las mismas, la persona con discapacidad psíquica o intelectual tendrá garantizada la supervisión médica permanente.
-
-Todo lo actuado con motivo del empleo del aislamiento o la sujeción deberá constar por escrito en la ficha clínica. Además de lo anterior, se comunicará el empleo de estos medios a la Autoridad Sanitaria Regional, a cuya disposición estará toda la documentación respectiva.
-
-Se podrá reclamar a la Comisión Regional que corresponda la revisión de las medidas de aislamiento y contención o aquellas que restrinjan temporalmente la comunicación o contacto con las visitas.
-
-Mediante un reglamento expedido por el Ministerio de Salud se establecerán las normas adecuadas para el manejo de las conductas perturbadoras o agresivas que las personas con discapacidad psíquica o intelectual pudieran tener en establecimientos de salud y el respeto por sus derechos en la atención de salud.
+Suprimido.
 
 #### Artículo 27
 
-Sin perjuicio del derecho de la persona con discapacidad psíquica o intelectual a otorgar su autorización o denegarla para ser sometida a tratamientos, excepcionalmente y sólo cuando su estado lo impida, podrá ser tratada involuntariamente siempre que:
-
-a) Esté certificado por un médico psiquiatra que la persona padece una enfermedad o trastorno mental grave, suponiendo su estado un riesgo real e inminente de daño a sí mismo o a terceros, y que suspender o no tener tratamiento significa un empeoramiento de su condición de salud. En todo caso, este tratamiento no se deberá aplicar más allá del período estrictamente necesario a tal propósito;
-
-b) El tratamiento responda a un plan prescrito individualmente, que atienda las necesidades de salud de la persona, esté indicado por un médico psiquiatra y sea la alternativa terapéutica menos restrictiva de entre las disponibles;
-
-c) Se tenga en cuenta, siempre que ello sea posible, la opinión de la misma persona; se revise el plan periódicamente y se modifique en caso de ser necesario, y
-
-d) Se registre en la ficha clínica de la persona.
+Suprimido.
 
 #### Artículo 28
 
-Ninguna persona con discapacidad psíquica o intelectual que no pueda expresar su voluntad podrá participar en una investigación científica.
+No se podrá desarrollar investigación biomédica en adultos que no son capaces física o mentalmente de expresar su consentimiento o de los que no es posible conocer su preferencia, a menos que la condición física o mental que impide otorgar el consentimiento informado o expresar su preferencia sea una característica necesaria del grupo investigado. En estos casos, no se podrá involucrar en investigación sin consentimiento a una persona cuya condición de salud sea tratable de modo que pueda recobrar su capacidad de consentir.
 
-En los casos en que se realice investigación científica con participación de personas con discapacidad psíquica o intelectual que tengan la capacidad de manifestar su voluntad y que hayan dado consentimiento informado, además de la evaluación ético científica que corresponda, será necesaria la autorización de la Autoridad Sanitaria competente, además de la manifestación de voluntad expresa de participar tanto de parte del paciente como de su representante legal.
+En estas circunstancias, además de dar cabal cumplimiento a las normas contenidas en la ley N° 20.120, sobre la investigación científica en el ser humano, su genoma, y prohíbe la clonación humana, y en el Código Sanitario, según corresponda, el protocolo de la investigación deberá contener las razones específicas para incluir a individuos con una enfermedad que no les permite expresar su consentimiento o manifestar su preferencia. Se deberá acreditar que la investigación involucra un potencial beneficio directo para la persona e implica riesgos mínimos para ella. Asimismo, se deberá contar previamente con el informe favorable de un comité ético científico acreditado y con la autorización de la Secretaría Regional Ministerial de Salud.
 
-En contra de las actuaciones de los prestadores y la Autoridad Sanitaria en relación a investigación científica, podrá presentarse un reclamo a la Comisión Regional indicada en el artículo siguiente que corresponda, a fin de que ésta revise los procedimientos en cuestión.
+En esos casos, los miembros del comité que evalúe el proyecto no podrán encontrarse vinculados directa ni indirectamente con el centro o institución en el cual se desarrollará la investigación, ni con el investigador principal o el patrocinador del proyecto.
+
+Se deberá obtener a la brevedad el consentimiento o manifestación de preferencia de la persona que haya recuperado su capacidad física o mental para otorgar dicho consentimiento o manifestar su preferencia.
+
+Las personas con enfermedad neurodegenerativa o psiquiátrica podrán otorgar anticipadamente su consentimiento informado para ser sujetos de ensayo en investigaciones futuras, cuando no estén en condiciones de consentir o expresar preferencia.
+
+La investigación biomédica en personas menores de edad se regirá por lo dispuesto en la ley N° 20.120. Con todo, deberá respetarse su negativa a participar o continuar en la investigación.
 
 #### Artículo 29
 
