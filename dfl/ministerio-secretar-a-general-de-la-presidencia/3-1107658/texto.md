@@ -606,9 +606,9 @@ Durante el período de campaña electoral, los ministerios, las delegaciones pre
 
 #### Artículo 60
 
-Las faltas o infracciones a que se refiere la presente ley, prescribirán en el plazo de un año contado desde la fecha de la elección.
+Las faltas o infracciones a que se refiere esta ley prescribirán en el plazo de un año, contado desde que fue presentada o debió presentarse la cuenta general de ingresos y gastos a que hace referencia el artículo 44.
 
-La acción penal de los delitos contemplados en la presente ley prescribirá en dos años desde que se hubiere cometido el delito.
+La acción penal de los delitos contemplados en esta ley prescribirá de acuerdo a las normas generales del Código Penal, desde que fue presentada o debió presentarse la cuenta general de ingresos y gastos a que se refiere el artículo 44.
 
 DISPOSICIONES TRANSITORIAS
 
