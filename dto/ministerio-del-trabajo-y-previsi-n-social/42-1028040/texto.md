@@ -36,37 +36,195 @@ El Programa será administrado por el Sence y financiado con cargo a los recurso
 
 <!-- parte:9160476 -->
 
-Beneficiarios de "el Programa".
+Componentes de "el Programa".
 
-Podrán postular al programa personas desde los 16 años que se encuentren dentro del 60% más vulnerable según el instrumento de focalización definido por la autoridad competente y que será referido por el Sence.
+Para la generación de competencias laborales, el Programa considerará componentes que faciliten el proceso formativo. La Capacitación en Oficio, será un componente obligatorio, cuya duración fluctuará entre 40 horas y 1.200 horas.
 
-No obstante, se encontrarán exceptuados de este requisito de vulnerabilidad quienes se encuentren en alguna de las siguientes condiciones:
+Asimismo, podrá considerar uno o más de los siguientes componentes adicionales:
 
-1. Personas con discapacidad.
+. Apoyo sociolaboral: Corresponde al conjunto de actividades destinadas a asegurar la permanencia de los participantes en el Programa, evitando deserciones no fundadas y fortaleciendo habilidades y capacidades para el trabajo, asegurando las condiciones y competencias mínimas con las cuales ellos puedan enfrentarse de manera más adecuada al mercado laboral, las que serán determinadas por el Director Nacional del Servicio mediante resolución, de conformidad a lo dispuesto en el artículo decimosegundo del presente decreto.
 
-2. Personas infractoras de ley.
+. Inserción laboral: Corresponde a un proceso destinado a que los beneficiarios del Programa obtengan un empleo o, tratándose de trabajadores independientes, aumenten sus ingresos a través de la formalización de sus actividades.
 
-3. Menores que residan en centros de detención, hogares de menores u otros centros de detención o de similares características.
+. Dispositivos de apoyo: Son aquellos gastos adicionales a la actividad de capacitación y relacionados directamente con ésta, que facilitan la participación en el Programa, entre otros: subsidio diario para la asistencia; los de cuidado infantil y de seguro de accidentes para cubrir los riesgos o contingencias de los participantes del curso y de niños y niñas de hasta 6 años que se encuentren a su cuidado, a causa o con ocasión de la asistencia o participación a las actividades del programa. Podrá considerar, además, el financiamiento de set de herramientas, licencias habilitantes o certificaciones.
 
-4. Personas migrantes.
-
-5. Personas derivadas de centros de tratamiento por adicción.
-
-El acceso al programa y la forma de postulación de los potenciales beneficiarios será sin perjuicio de la priorización que realicen los organismos ejecutores, de acuerdo con los criterios que defina el Director Nacional de Sence en las instrucciones de carácter general que dicte al efecto. Tratándose de personas migrantes y aquellas derivadas de centros de tratamiento por adicción, el Sence definirá la forma de acceso al programa a través de resolución fundada, en conformidad a la regulación del Departamento de Extranjería y Migración y el Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol, respectivamente, vigente a la época de su dictación.
+. Continuación de estudios: Componente que tiene la finalidad de articular la Capacitación en Oficio que reciban los beneficiarios del Programa con posteriores estudios de educación superior. Para estos efectos se podrá considerar financiamiento para el organismo ejecutor que gestione este componente.
 
 #### Artículo cuarto
 
 <!-- parte:9160477 -->
 
-Componentes de "el Programa".
+Líneas de Acción de "el Programa".
 
-Los beneficiarios tendrán derecho a recibir acciones destinadas a la formación de un oficio para el empleo totalmente gratuito, cuya duración fluctuará entre 40 y 1.200 horas.
+La ejecución del Programa podrá considerar una o más de las siguientes líneas de acción:
+
+1) Línea personas en situación de discapacidad o afectadas en su condición física y mental;
+
+2) Línea registro especial;
+
+3) Línea sectorial;
+
+4) Línea Infractores de ley;
+
+5) Línea emprendimiento;
+
+6) Línea establecimientos de educación media técnico-profesional;
+
+7) Línea estudios superiores.
+
+#### Artículo quinto
+
+<!-- parte:10225837 -->
+
+Línea personas en situación de discapacidad o personas afectadas en su condición física o mental.
+
+Esta línea tiene como propósito favorecer la inclusión en el mercado laboral de personas en situación de discapacidad o de personas afectadas en su condición física o mental.
+
+i. Personas en situación de discapacidad.
+
+Son aquellas definidas en el artículo 5º de la ley Nº 20.422 que "Establece normas sobre igualdad de oportunidades e inclusión social de personas con discapacidad".
+
+Podrán postular a esta línea personas:
+
+1.- Desde los 16 años, y
+
+2.- Que acrediten la condición de discapacidad a través de alguno de los siguientes documentos:
+
+a) Credencial de inscripción en el Registro Nacional de Discapacidad del Servicio de Registro Civil e Identificación.
+
+b) Copia de la resolución de discapacidad emitida por la Comisión de Medicina Preventiva (Compin).
+
+c) Certificado de inscripción de discapacidad emitido por el Servicio de Registro Civil e Identificación.
+
+ii. Personas afectadas en su condición física o mental.
+
+Son aquellas que, a consecuencia de una enfermedad o debilitamiento de sus fuerzas físicas o intelectuales, por un periodo temporal o permanente ven impedida o restringida su participación plena y efectiva en la sociedad.
+
+Podrán postular a esta línea personas:
+
+1.- Desde los 16 años, y
+
+2.- Que acrediten su condición a través de alguno de los siguientes documentos:
+
+a) Presentación del pago de la pensión de invalidez.
+
+b) informe de un médico que dé cuenta de las afecciones físicas o intelectuales que padece el postulante.
+
+#### Artículo sexto
+
+<!-- parte:10225838 -->
+
+Línea registro especial.
+
+Esta línea tiene por objeto generar competencias laborales en las personas vulnerables, con el propósito de aumentar la posibilidad de encontrar un empleo de calidad, o, en caso de tratarse de trabajadores o trabajadoras independientes, lograr su formalización y así aumentar sus ingresos.
+
+Esta línea requiere la participación, en calidad de ejecutores, de organismos técnicos de capacitación que cumplan con las condiciones a que se refiere la letra e) del artículo 46 de la ley Nº 19.518.
+
+Podrán postular a esta línea personas:
+
+1.- Desde los 16 años, y
+
+2.- Que se encuentren dentro del 60% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace. En el caso de las personas que residan en las regiones de Aysén del General Carlos Ibáñez del Campo y Magallanes y de la Antártica Chilena, podrán acceder quienes se encuentren dentro del 80% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace.
+
+Para las personas migrantes no aplicará el requisito de vulnerabilidad.
+
+#### Artículo séptimo
+
+<!-- parte:10225839 -->
+
+Línea Sectorial.
+
+Esta línea busca aumentar las posibilidades de inserción laboral de hombres y mujeres, mediante un modelo de capacitación orientada a las necesidades de los sectores productivos que determine el Servicio Nacional de Capacitación y Empleo, mediante resolución.
+
+Podrán postular a esta línea personas:
+
+1.- Desde los 16 años, a menos que la normativa que regule determinadas actividades, oficios o sectores productivos establezca condiciones especiales en cuanto a rango etario, en cuyo caso se regirán por las exigencias contenidas en tales disposiciones, y
+
+2.- Que se encuentren dentro del 60% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace. En el caso de las personas que residan en las regiones de Aysén del General Carlos Ibáñez del Campo y Magallanes y de la Antártica Chilena, podrán acceder quienes se encuentren dentro del 80% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace.
+
+Para las personas migrantes no aplicará el requisito de vulnerabilidad.
+
+#### Artículo octavo
+
+<!-- parte:10225840 -->
+
+Línea infractores de ley.
+
+Esta línea tiene como objetivo principal mejorar las posibilidades de empleabilidad y apoyar los procesos de reinserción social de las personas que se indican a continuación.
+
+Podrán postular a esta línea personas:
+
+1.- Desde los 16 años, cuando hayan sido condenadas por algún tipo de sanción consagrada en la legislación penal, y formen parte de los distintos regímenes penitenciarios de Gendarmería de Chile, respecto de los cuales concurran alguna de las siguientes situaciones:
+
+a) Sean infractores de ley sancionados por la ley de responsabilidad penal adolescente o aquella que la reemplace, que se encuentren al cuidado del Servicio Nacional de Menores (Sename) o la institución que la reemplace, o a través de la red de Organismos Colaboradores Acreditados (OCA), o
+
+b) Que se encuentren cumpliendo efectivamente condena o que la hayan cumplido.
+
+#### Artículo noveno
+
+<!-- parte:10225841 -->
+
+Línea emprendimiento.
+
+Esta línea tiene como objetivo apoyar el acceso y permanencia en el mercado laboral de aquellas personas que desarrollen o pretendan desarrollar un emprendimiento económico o que trabajan en forma independiente.
+
+Podrán postular a esta línea personas:
+
+1.- Desde los 16 años, a menos que la normativa que regule determinadas actividades, oficios o sectores productivos establezca condiciones especiales en cuanto a rango otario, en cuyo caso se regirán por las exigencias contenidas en tales disposiciones, y
+
+2.- Que se encuentren dentro del 60% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace. En el caso de las personas que residan en las regiones de Aysén del General Carlos Ibáñez del Campo y Magallanes y de la Antártica Chilena, podrán acceder quienes se encuentren dentro del 80% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace.
+
+Para las personas migrantes no aplicará el requisito de vulnerabilidad.
+
+#### Artículo décimo
+
+<!-- parte:10225842 -->
+
+Línea establecimientos de educación media técnico-profesional.
+
+Esta línea tiene por objetivo capacitar personas que estén cursando cuarto año de enseñanza media técnico-profesional, cerrando la actual brecha entre el perfil de egreso de los jóvenes de enseñanza media y el perfil de ingreso, tanto a la educación superior, como al mercado laboral.
+
+Podrán postular a esta línea personas:
+
+1.- Desde los 16 años;
+
+2.- Que sean alumnos regulares de cuarto año medio de un establecimiento de educación media técnico profesional, y
+
+3.- Que se encuentren dentro del 60% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace. En el caso de las personas que residan en las regiones de Aysén del General Carlos Ibáñez del Campo y Magallanes y de la Antártica Chilena, podrán acceder quienes se encuentren dentro del 80% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace.
+
+Para las personas migrantes no aplicará el requisito de vulnerabilidad.
+
+#### Artículo decimoprimero
+
+<!-- parte:10225843 -->
+
+Línea estudios superiores.
+
+Esta línea tiene por objetivo que sus participantes cursen estudios de educación superior. Para alcanzar dicho objetivo se aplicará a su respecto el componente de continuación de estudios.
+
+Podrán postular a esta línea personas:
+
+1.- Desde los 16 años;
+
+2.- Que cuenten con su licencia de cuarto medio o se encuentren cursando cuarto año de la educación media, y
+
+3.- Que se encuentren dentro del 60% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace. En el caso de las personas que residan en las regiones de Aysén del General Carlos Ibáñez del Campo y Magallanes y de la Antártica Chilena, podrán acceder quienes se encuentren dentro del 80% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace.
+
+Para las personas migrantes no aplicará el requisito de vulnerabilidad.
+
+#### Artículo decimosegundo
+
+<!-- parte:10225844 -->
+
+Procedimientos de postulación y selección.
+
+En ejercicio de las atribuciones y funciones previstas en el artículo 85 Nº 5 de la ley Nº 19.518, el Director Nacional del Sence dictará una o más resoluciones de carácter general fijando los procedimientos de postulación y de selección de los benefíciarios del Programa u otros aspectos que resulten pertinentes para la ejecución del mismo.
 
 ## Título II
 
 Procedimientos y Modalidades
 
-#### Artículo quinto
+#### Artículo decimotercero
 
 <!-- parte:9160479 -->
 
@@ -84,7 +242,7 @@ El SENCE mediante instrucciones de carácter general y obligatorio impartidas po
 
 Mecanismos de Control
 
-#### Artículo sexto
+#### Artículo decimocuarto
 
 <!-- parte:9160481 -->
 
