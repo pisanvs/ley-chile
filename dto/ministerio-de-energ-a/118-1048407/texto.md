@@ -1,4 +1,4 @@
-OTORGA A ENACON S.A. CONCESIÓN DEFINITIVA PARA ESTABLECER LA "LÍNEA DE TRANSMISIÓN ELÉCTRICA CUNCO - FREIRE" EN LA REGIÓN DE LA ARAUCANÍA, PROVINCIA DE CAUTÍN, COMUNAS DE CUNCO Y FREIRE
+OTORGA A TRANSMISORA VALLE ALLIPÉN S.A. CONCESIÓN DEFINITIVA PARA ESTABLECER LA "LÍNEA DE TRANSMISIÓN ELÉCTRICA CUNCO - FREIRE" EN LA REGIÓN DE LA ARAUCANÍA, PROVINCIA DE CAUTÍN, COMUNAS DE CUNCO Y FREIRE
 
 Núm. 118.- Santiago, 26 de noviembre de 2012.- Visto: Lo informado por la Superintendencia de Electricidad y Combustibles en sus oficios Ord. Nº 13455/ACC 618974/DOC 376880, de fecha 15 de diciembre de 2011, Nº 7646/ACC 726656/DOC 476737, de fecha 6 de agosto de 2012, y Nº 10283/ACC 782364/DOC 533615, de fecha 31 de octubre de 2012; por el Ministerio de Bienes Nacionales a través de sus oficios Ord. GAMB Nº 574, de fecha 6 de agosto de 2010, y Nº 50, de fecha 18 de enero de 2011; lo dispuesto en los artículos 11º y 29º del DFL Nº 4/20.018, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, que fija el texto refundido, coordinado y sistematizado del DFL Nº 1, de 1982, del Ministerio de Minería, en adelante Ley General de Servicios Eléctricos, y sus modificaciones posteriores; en la ley Nº 20.402, que crea el Ministerio de Energía; en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, y
 
@@ -8,7 +8,7 @@ Decreto:
 
 #### Artículo 1º
 
-Otórgase a Enacon S.A. concesión definitiva para establecer en la Región de la Araucanía, provincia de Cautín, comunas de Cunco y Freire, una línea de transmisión de energía eléctrica que se denominará "Línea de Transmisión Eléctrica Cunco - Freire" y cuyo trazado se describe en los planos de planta general Nos LT 03-01 al LT 03-21.
+Otórgase a Transmisora Valle Allipén S.A. concesión definitiva para establecer en la Región de la Araucanía, provincia de Cautín, comunas de Cunco y Freire, una línea de transmisión de energía eléctrica que se denominará "Línea de Transmisión Eléctrica Cunco - Freire" y cuyo trazado se describe en los planos de planta general Nos LT 03-01 al LT 03-21.
 
 #### Artículo 2º
 
