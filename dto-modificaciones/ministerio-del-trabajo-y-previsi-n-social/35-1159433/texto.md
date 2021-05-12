@@ -1,32 +1,40 @@
-ESTABLECE COMPONENTES, LÍNEAS DE ACCIÓN Y PROCEDIMIENTOS, MODALIDADES Y MECANISMOS DE CONTROL DEL PROGRAMA DE CAPACITACIÓN EN OFICIOS
+MODIFICA DECRETO Nº 42, DE 2011, DEL MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL, QUE ESTABLECE COMPONENTES, LÍNEAS DE ACCIÓN Y PROCEDIMIENTOS, MODALIDADES Y MECANISMOS DE CONTROL DEL PROGRAMA DE CAPACITACIÓN EN OFICIOS
 
-Núm. 42.- Santiago, 5 de mayo de 2011.- Vistos: Lo dispuesto en el artículo 32 Nº6 de la Constitución Política de la República; las glosas 7 y 14 asociadas a la partida 15-05-01-24-01-011 de la Ley Nº20.481, de Presupuestos del Sector Público para el año 2011; ley Nº19.518 sobre nuevo Estatuto de Capacitación y Empleo y su Reglamento General, contenido en el decreto supremo Nº98, de 1997, del Ministerio del Trabajo y Previsión Social; Ley Nº19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios y su Reglamento contenido en el decreto supremo Nº250, de 2004, del Ministerio de Hacienda, y la resolución Nº1.600, de 2008, de la Contraloría General de la República.
+Núm. 35.- Santiago, 1 de septiembre de 2020.
+
+Visto:
+
+Los artículos 6º, 7° y 32 Nº 6 de la Constitución Política de la República; el decreto con fuerza de ley Nº 1, de 1967, del Ministerio del Trabajo y Previsión Social, que establece la Reestructuración y Funciones de la Subsecretaría del Trabajo; las glosas 06, 11, 14 y 21 asociadas a la Partida 15-05-01, Subtítulo 24-01-011 de la ley Nº 21.192, de Presupuestos del Sector Público correspondiente al año 2020; la Ley Nº 19.518 sobre nuevo Estatuto de Capacitación y Empleo y su Reglamento General, contenido en el decreto supremo Nº 98, de 1997, del Ministerio del Trabajo y Previsión Social; el decreto Nº 42, de 2011, del Ministerio del Trabajo y Previsión Social, y la resolución Nº 7, de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón.
 
 Considerando:
 
-1.- Que, la Ley Nº20.481, de Presupuestos del Sector Público del año 2011, ha contemplado la asignación 15-05-01-24-01-011, que tiene por objeto financiar un Programa de Capacitación en Oficios, en adelante "el Programa", cuya gestión encomienda al Servicio Nacional de Capacitación y Empleo, en adelante "el SENCE".
+1.- Que la ley Nº 21.192, de Presupuestos del Sector Público correspondiente al año 2020, contempla la Partida 15, Capítulo 05, Programa 01, Subtítulo 24, Ítem 01, Asignación 011, destinada a financiar el Programa de Capacitación en Oficios del Servicio Nacional de Capacitación y Empleo, en adelante "el Servicio".
 
-2.- Que, la glosa Nº7 de la asignación indicada, establece que los componentes y líneas de acción comprendidas en este Programa y los demás procedimientos, modalidades y mecanismos de control a que estará afecto su desarrollo, se establecerán mediante uno o más decretos del Ministerio del Trabajo y Previsión Social, visados por la Dirección de Presupuestos, los que podrán ser dictados bajo la fórmula "Por orden del Presidente de la República" a contar de la fecha de publicación de la ley.
+2.- Que la glosa Nº 06 de la asignación indicada, dispone que los componentes y líneas de acción comprendidas en este Programa y los demás procedimientos, modalidades y mecanismos de control a que estará afecto su desarrollo, serán los establecidos en el decreto Nº 42, de 2011, del Ministerio del Trabajo y Previsión Social.
+
+3.- Que el inciso primero del artículo 1º de la ley Nº 19.518 que Fija Nuevo Estatuto de Capacitación y Empleo, establece el Sistema de Capacitación y Empleo, el cual tiene por objeto promover el desarrollo de las competencias laborales de los trabajadores, a fin de contribuir a un adecuado nivel de empleo, mejorar la productividad de los trabajadores y las empresas, así como la calidad de los procesos y productos.
+
+4.- Que, por su parte, la letra d) del artículo 2º de la citada ley, agrega que, en materia de capacitación, el sistema contempla acciones encaminadas a "d) Formular, financiar y evaluar programas y acciones de capacitación desarrolladas por medio de los organismos competentes, destinados a mejorar la calificación laboral de los beneficiarios del sistema que cumplan con los requisitos que establece la presente ley.".
+
+5.- Que, enseguida, el artículo 44º del mismo cuerpo normativo señala que existirá un Fondo Nacional de Capacitación, administrado por el Servicio, cuyo objetivo será producir un incremento en la calidad y cobertura de los programas de capacitación, con el fin de contribuir al incremento de la productividad y competitividad de las empresas y la economía en general.
+
+Para el cumplimiento de los fines del Fondo Nacional de Capacitación, el Servicio podrá financiar acciones, programas, y asistencia técnica en el campo de la formación y capacitación de los recursos humanos, en conformidad a las prioridades y programas que se hayan fijado para el año, y los recursos que anualmente fije la Ley de Presupuestos.
+
+6.- Que, a su vez, el artículo 45º de la citada ley Nº 19.518, agrega que el Servicio velará por que los programas que financie el Fondo Nacional de Capacitación se orienten, preferentemente, a beneficiarios de escasos recursos.
+
+7.- Que asimismo, la letra d) del artículo 46 de la referida ley, establece que este Servicio podrá establecer cada año, con cargo al Fondo Nacional de Capacitación, programas destinados a "d) La ejecución de acciones de capacitación y formación dirigidas a personas cesantes, que buscan trabajo por primera vez y trabajadores dependientes o independientes, de baja calificación laboral, con el fin de mejorar sus competencias laborales y facilitarles el acceso a un empleo o actividad de carácter productivo.".
+
+Dichos programas o conjunto de acciones dirigidos a un tipo específico de beneficiarios podrán ser individuales o colectivos, y en ambos casos el financiamiento podrá ser total o parcial.
+
+8.- Que el artículo 70 de la referida ley Nº 19.518 aplicable al Programa, faculta al Servicio para financiar "además de los gastos del curso, los de traslado, alimentación, alojamiento de los beneficiarios u otros que, a juicio del Servicio Nacional, sean necesarios para el cumplimiento del objetivo. Asimismo, podrá comprender la entrega de útiles o herramientas que, en concepto del Servicio Nacional, sean indispensables para el posterior desempeño de la actividad u oficio aprendido". Además, el inciso segundo de la misma norma agrega que tal financiamiento "comprenderá la suma necesaria para asegurar los riesgos o contingencias de accidentes a causa o con ocasión de la asistencia de los beneficiarios a los cursos de capacitación".
+
+9.- Que resulta necesario modificar el decreto 42, de 2011, del Ministerio del Trabajo y Previsión Social, con el propósito de regular los distintos componentes y líneas de acción del Programa Capacitación en Oficios, así como también, establecer ciertas excepciones al requisito de vulnerabilidad de los participantes, según las especificidades de sus distintas líneas de acción.
 
 Decreto:
 
-Apruébanse los siguientes componentes, líneas de acción y procedimientos, modalidades y mecanismos de control del Programa de Capacitación en Oficios.
+Modifícase el decreto Nº 42, de 2011, del Ministerio del Trabajo y Previsión Social, en el siguiente sentido:
 
-## Título I
-
-Componentes y Líneas de Acción
-
-#### Artículo primero
-
-Objeto de "el Programa".
-
-"El Programa tiene por objeto generar competencias laborales en las personas vulnerables, con el propósito de aumentar la posibilidad de encontrar un empleo de calidad y/o en caso de tratarse de trabajadores o trabajadoras independientes, aumentando sus ingresos. Lo anterior, a través del desarrollo de actividades de Formación de Oficios para el empleo, determinadas previamente por el Director Nacional del Sence, por medio de un acto administrativo fundado.
-
-#### Artículo segundo
-
-Administración y Financiamiento de "el Programa".
-
-El Programa será administrado por el Sence y financiado con cargo a los recursos consultados en la respectiva asignación que establezca anualmente la Ley de Presupuestos para el Sector Público.
+a) Reemplázase su artículo tercero.- Beneficiarios de "el Programa", por el siguiente:
 
 #### Artículo tercero
 
@@ -42,7 +50,9 @@ Asimismo, podrá considerar uno o más de los siguientes componentes adicionales
 
 . Dispositivos de apoyo: Son aquellos gastos adicionales a la actividad de capacitación y relacionados directamente con ésta, que facilitan la participación en el Programa, entre otros: subsidio diario para la asistencia; los de cuidado infantil y de seguro de accidentes para cubrir los riesgos o contingencias de los participantes del curso y de niños y niñas de hasta 6 años que se encuentren a su cuidado, a causa o con ocasión de la asistencia o participación a las actividades del programa. Podrá considerar, además, el financiamiento de set de herramientas, licencias habilitantes o certificaciones.
 
-. Continuación de estudios: Componente que tiene la finalidad de articular la Capacitación en Oficio que reciban los beneficiarios del Programa con posteriores estudios de educación superior. Para estos efectos se podrá considerar financiamiento para el organismo ejecutor que gestione este componente.
+. Continuación de estudios: Componente que tiene la finalidad de articular la Capacitación en Oficio que reciban los beneficiarios del Programa con posteriores estudios de educación superior. Para estos efectos se podrá considerar financiamiento para el organismo ejecutor que gestione este componente.".
+
+b) Reemplázase su Artículo cuarto.- Componentes de "el Programa", por el siguiente:
 
 #### Artículo cuarto
 
@@ -62,7 +72,9 @@ La ejecución del Programa podrá considerar una o más de las siguientes línea
 
 6) Línea establecimientos de educación media técnico-profesional;
 
-7) Línea estudios superiores.
+7) Línea estudios superiores.".
+
+c) Intercálense los siguientes artículos quinto, sexto, séptimo, octavo, noveno, décimo, decimoprimero y decimosegundo en el Título I "Componentes y Líneas de Acción", pasando los actuales artículos quinto y sexto, a ser decimotercero y decimocuarto, insertos en los Títulos II, "Procedimientos y Modalidades", y III, "Mecanismo de Control", respectivamente.
 
 #### Artículo quinto
 
@@ -98,7 +110,7 @@ Podrán postular a esta línea personas:
 
 a) Presentación del pago de la pensión de invalidez.
 
-b) informe de un médico que dé cuenta de las afecciones físicas o intelectuales que padece el postulante.
+b) informe de un médico que dé cuenta de las afecciones físicas o intelectuales que padece el postulante.".
 
 #### Artículo sexto
 
@@ -114,7 +126,7 @@ Podrán postular a esta línea personas:
 
 2.- Que se encuentren dentro del 60% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace. En el caso de las personas que residan en las regiones de Aysén del General Carlos Ibáñez del Campo y Magallanes y de la Antártica Chilena, podrán acceder quienes se encuentren dentro del 80% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace.
 
-Para las personas migrantes no aplicará el requisito de vulnerabilidad.
+Para las personas migrantes no aplicará el requisito de vulnerabilidad.".
 
 #### Artículo séptimo
 
@@ -128,7 +140,7 @@ Podrán postular a esta línea personas:
 
 2.- Que se encuentren dentro del 60% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace. En el caso de las personas que residan en las regiones de Aysén del General Carlos Ibáñez del Campo y Magallanes y de la Antártica Chilena, podrán acceder quienes se encuentren dentro del 80% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace.
 
-Para las personas migrantes no aplicará el requisito de vulnerabilidad.
+Para las personas migrantes no aplicará el requisito de vulnerabilidad.".
 
 #### Artículo octavo
 
@@ -142,7 +154,7 @@ Podrán postular a esta línea personas:
 
 a) Sean infractores de ley sancionados por la ley de responsabilidad penal adolescente o aquella que la reemplace, que se encuentren al cuidado del Servicio Nacional de Menores (Sename) o la institución que la reemplace, o a través de la red de Organismos Colaboradores Acreditados (OCA), o
 
-b) Que se encuentren cumpliendo efectivamente condena o que la hayan cumplido.
+b) Que se encuentren cumpliendo efectivamente condena o que la hayan cumplido.".
 
 #### Artículo noveno
 
@@ -156,7 +168,7 @@ Podrán postular a esta línea personas:
 
 2.- Que se encuentren dentro del 60% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace. En el caso de las personas que residan en las regiones de Aysén del General Carlos Ibáñez del Campo y Magallanes y de la Antártica Chilena, podrán acceder quienes se encuentren dentro del 80% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace.
 
-Para las personas migrantes no aplicará el requisito de vulnerabilidad.
+Para las personas migrantes no aplicará el requisito de vulnerabilidad.".
 
 #### Artículo décimo
 
@@ -172,7 +184,7 @@ Podrán postular a esta línea personas:
 
 3.- Que se encuentren dentro del 60% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace. En el caso de las personas que residan en las regiones de Aysén del General Carlos Ibáñez del Campo y Magallanes y de la Antártica Chilena, podrán acceder quienes se encuentren dentro del 80% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace.
 
-Para las personas migrantes no aplicará el requisito de vulnerabilidad.
+Para las personas migrantes no aplicará el requisito de vulnerabilidad.".
 
 #### Artículo decimo
 
@@ -188,7 +200,7 @@ Podrán postular a esta línea personas:
 
 3.- Que se encuentren dentro del 60% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace. En el caso de las personas que residan en las regiones de Aysén del General Carlos Ibáñez del Campo y Magallanes y de la Antártica Chilena, podrán acceder quienes se encuentren dentro del 80% más vulnerable de la población, según el Registro Social de Hogares o el instrumento de focalización que lo reemplace.
 
-Para las personas migrantes no aplicará el requisito de vulnerabilidad.
+Para las personas migrantes no aplicará el requisito de vulnerabilidad.".
 
 #### Artículo decimo
 
@@ -196,36 +208,30 @@ segundo.- Procedimientos de postulación y selección.
 
 En ejercicio de las atribuciones y funciones previstas en el artículo 85 Nº 5 de la ley Nº 19.518, el Director Nacional del Sence dictará una o más resoluciones de carácter general fijando los procedimientos de postulación y de selección de los benefíciarios del Programa u otros aspectos que resulten pertinentes para la ejecución del mismo.
 
-## Título II
+Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, María José Zaldívar Larraín, Ministra del Trabajo y Previsión Social.
 
-Procedimientos y Modalidades
+Lo que transcribo a usted para su conocimiento.- Fernando Arab Verdugo, Subsecretario del Trabajo.
 
-#### Artículo decimo
+CONTRALORÍA GENERAL DE LA REPÚBLICA
 
-tercero.- Mecanismo de selección de los ejecutores de "el Programa".
+División de Contabilidad y Finanzas Públicas
 
-La ejecución de este programa podrá realizarse por medio de las personas jurídicas que, de acuerdo con el artículo 12 de la ley Nº 19.518, pueden ser Organismos Técnicos de Capacitación, sin que sea necesario que las universidades, institutos profesionales y centros de formación técnica se registren en los términos establecidos en los artículos 19 y 21 de la ley indicada.
+Unidad Jurídica
 
-Igualmente, se podrá ejecutar el programa por medio de los establecimientos de educación media técnico-profesional cuyo administrador o sostenedor sea privado o público; las fundaciones y corporaciones que atiendan preferentemente a personas con discapacidad y personas vulnerables, asimismo, por las personas jurídicas establecidas en el artículo 46, letra e) de la ley 19.518 y demás entidades públicas o privadas que establezca la Ley de Presupuestos del año correspondiente.
+Cursa con alcance el decreto Nº 35, de 2020, del Ministerio del Trabajo y Previsión Social
 
-La transferencia de recursos a los organismos ejecutores podrá realizarse por el Servicio Nacional de Capacitación y Empleo, según este así lo determine, en conformidad a lo dispuesto en la ley Nº 19.886 y su Reglamento, o a través de otra clase de concursos públicos, o por transferencias a entidades públicas.
+Nº E102789/2021.- Santiago, 5 de mayo de 2021.
 
-El SENCE mediante instrucciones de carácter general y obligatorio impartidas por su Director Nacional, podrá determinar la forma y oportunidad en que se transferirán los montos correspondientes a la ejecución de los cursos de capacitación en oficios.
+Esta Contraloría General ha dado curso al documento del rubro, que modifica el decreto Nº 42, de 2011, del Ministerio del Trabajo y Previsión Social, que "Establece Componentes, Líneas de Acción y Procedimientos, Modalidades y Mecanismos de Control del Programa Capacitación en Oficios", por encontrarse ajustado a derecho.
 
-## Título III
+No obstante, cumple con hacer presente que esta Entidad Fiscalizadora entiende que las enmiendas que se aprueban son sin perjuicio de los componentes establecidos con anterioridad a la presente modificación y que se encuentran actualmente en ejecución.
 
-Mecanismos de Control
+Con el alcance que antecede, se ha tomado razón del acto del epígrafe.
 
-#### Artículo decimo
+Saluda atentamente a Ud., Jorge Andrés Bermúdez Soto, Contralor General.
 
-cuarto.- Supervisión.
+Al señor
 
-El Sence realizará auditorías internas al Programa, verificando su correcta ejecución, de acuerdo con lo establecido en el presente decreto y las instrucciones dictadas al efecto. Asimismo, el Sence realizará las fiscalizaciones pertinentes para verificar el cumplimiento de la normativa señalada en el presente decreto y en las instrucciones que el Director Nacional del Sence dicte al efecto, de acuerdo con el plan anual de fiscalización del mismo.
+Ministro del Trabajo y Previsión Social
 
-Los organismos ejecutores deberán adoptar las medidas conducentes a permitir el libre acceso de los auditores del Sence sin restricciones, prestando la colaboración que se requiera en este sentido.
-
-El Sence supervisará el cumplimiento de los requisitos contemplados para el desarrollo del programa, con el objeto de controlar su correcta ejecución. Lo anterior, sin perjuicio de las acciones de supervigilancia, auditoría o control que pudiera implementar directamente la Subsecretaría del Trabajo, según determine el Subsecretario del Trabajo.
-
-Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Evelyn Matthei Fornet, Ministra del Trabajo y Previsión Social.
-
-Lo que transcribo a usted para su conocimiento.- Bruno Baranda Ferrán, Subsecretario del Trabajo.
+Presente.
