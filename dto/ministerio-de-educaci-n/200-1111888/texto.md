@@ -162,7 +162,7 @@ ii) Las funcionarias a que se refiere el número 1 del artículo 2 de este Regla
 
 iii) Los funcionarios y funcionarias señalados en el número 3 del artículo 2 podrán postular en estos procesos siempre que reúnan los siguientes requisitos:
 
-1. Que entre el inicio del anterior proceso de postulación y con anterioridad al inicio del respectivo proceso de postulación, hayan obtenido una pensión de invalidez del decreto ley Nº 3.500, de 1980 o hayan cesado en sus funciones por declaración de vacancia, por salud irrecuperable o incompatible con el desempeño del cargo.
+1. Que entre el 1 de abril de 2015, y con anterioridad al inicio del respectivo proceso de postulación, hayan obtenido una pensión de invalidez del decreto ley N° 3.500, de 1980, o hayan cesado en sus funciones por declaración de vacancia, por salud irrecuperable o incompatible con el desempeño del cargo.
 
 2. Alternativamente:
 
@@ -172,6 +172,8 @@ iii) Los funcionarios y funcionarias señalados en el número 3 del artículo 2 
 
 3. Reunir los demás requisitos que establece el numeral 3 del artículo 2 de este reglamento.
 
+4. Los funcionarios y funcionarias que, a partir del primer día hábil de marzo de 2018 y con anterioridad al inicio del quinto proceso de postulación, hayan reunido los requisitos señalados en los numerales 1 y 3 precedentes, podrán postular al quinto proceso, correspondiente al año 2021, siempre que cumplan con el requisito señalado en el numeral 2 anterior. En este caso, las edades señaladas en el numeral 2.1 deberán haberse cumplido entre el primer día hábil de marzo de 2018 y antes del primer día hábil de marzo de 2021.
+
 e) Octavo proceso de postulación, se asignarán 350 cupos junto con los adicionales que existan disponibles conforme al inciso segundo del artículo 4. Podrá postular a este proceso, el personal que a continuación se indica, a partir del primer día hábil de noviembre de 2024 y hasta el 10 de enero de 2025:
 
 i) Los funcionarios y funcionarias señalados en el número 1 del artículo 2, que hayan cumplido o cumplan 65 años de edad entre el 1 de enero y el 31 de diciembre de 2024.
@@ -180,7 +182,7 @@ ii) Las funcionarias a que se refiere el número 1 del artículo 2 de este regla
 
 iii) Los funcionarios y funcionarias señalados en el número 3 del artículo 2 podrán postular en estos procesos siempre que reúnan los siguientes requisitos:
 
-1. Que entre el inicio del anterior proceso de postulación y hasta el 31 de diciembre de 2024, hayan obtenido una pensión de invalidez del decreto ley Nº 3.500, de 1980 o hayan cesado en sus funciones por declaración de vacancia, por salud irrecuperable o incompatible con el desempeño del cargo.
+1. Que entre el 1 de abril de 2015 y hasta el 31 de diciembre de 2024, hayan obtenido una pensión de invalidez del decreto ley N° 3.500, de 1980, o hayan cesado en sus funciones por declaración de vacancia, por salud irrecuperable o incompatible con el desempeño del cargo.
 
 2. Alternativamente:
 
