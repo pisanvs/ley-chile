@@ -30,6 +30,8 @@ Resuelvo:
 
 1.- Prohíbase, la circulación de todo tipo de vehículos motorizados, en la Avenida del Mar en las vías, días y horarios que se indican a continuación:
 
+.
+
 2.- Quedarán exceptuados de la prohibición, los vehículos de emergencia, vehículos fiscales y los vehículos destinados para subsanar los efectos de la calamidad pública.
 
 3.- Los vehículos no contemplados en el resuelvo anterior, y que deban obligatoriamente utilizar las vías referidas, con el único objeto de ingresar o egresar desde sus lugares de residencia o estacionamiento, podrán hacerlo, sin embargo, estos vehículos deberán abandonar las vías de restricción en el cruce más próximo al lugar en que se ubique la respectiva residencia o establecimiento.
