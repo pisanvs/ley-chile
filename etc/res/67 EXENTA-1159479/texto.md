@@ -1,0 +1,7 @@
+NOTIFICA RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO "PARQUE SOLAR RAULÍ"
+
+De conformidad con lo dispuesto en el artículo 95º e inciso final del artículo 91º DS (MMA) Nº 40/2013 (Reglamento del SEIA), se comunica a toda persona natural y jurídica que hubiera presentado observaciones durante el proceso de participación ciudadana de la Declaración de Impacto Ambiental del Proyecto ''Parque Solar Raulí'', sometida al Sistema de Evaluación de Impacto Ambiental por su Titular, Empresa Eléctrica Raulí SpA, que por resolución exenta Nº 67/2021, de fecha 27 de abril de 2021, la Comisión de Evaluación de la Región de Ñuble, calificó favorablemente el proyecto singularizado. Estas personas naturales y jurídicas disponen de un plazo de 30 días, contados desde la presente notificación, para presentar recurso de reclamación ante el Director Ejecutivo del Servicio de Evaluación Ambiental, de conformidad a lo dispuesto en el artículo 20º Ley Nº 19.300 sobre Bases Generales del Medio Ambiente.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido a través del sitio web www.sea.gob.cl o en las oficinas de la Dirección Regional del SEA Ñuble, ubicada en Vega de Saldías 645, Chillán, en horario de atención entre las 10:00 a 13:00 horas, en días hábiles de lunes a viernes.-
+
+Any Andrea Riveros Aliaga, Secretaria Comisión de Evaluación Región de Ñuble.
