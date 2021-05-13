@@ -38,7 +38,7 @@ Decreto:
 
 2.- Las funciones y referencias que, en disposiciones legales o reglamentarias que, actualmente se hacen a la Dirección de Inteligencia del Ejército o a su Director, se entenderán radicadas en la Brigada de Inteligencia del Ejército y en su Comandante.
 
-3.- Créase, a contar del 01.Ene.2021, la Dirección de Planificación de Informaciones del Ejército (Diplinte).
+3.- Créase, a contar del 01.Ene.2021, la Dirección de Planificación de Informaciones del Ejército (Dipline).
 
 4.- Modifícase el decreto supremo (MDN) N° 1.266, de fecha 26.Dic.1984, en el sentido de incorporar en su artículo 3°, a la Dirección de Planificación de Informaciones del Ejército, como unidad dependiente del Estado Mayor General del Ejército,
 
