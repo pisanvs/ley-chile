@@ -44,13 +44,13 @@ Los representantes durarán dos años en sus funciones y podrán ser reelegidos 
 
 #### Artículo 4°
 
-El Consejo Administrativo sesionará ordinariamente cada dos meses, en el día y hora que fijen sus miembros en la primera sesión del año y citará por escrito el Presidente del referido Consejo. Las sesiones extraordinarias se citarán de la misma manera, cuando sea necesario, de acuerdo a lo dispuesto por el artículo 23 del Reglamento General.
+El Consejo Administrativo sesionará ordinariamente cada tres meses, en el día y hora que fijen sus miembros en la primera sesión del año. Las citaciones a las respectivas sesiones se harán por escrito ya sea por el Presidente del referido Consejo o el o la Secretaria del Consejo.
 
-Las citaciones, tanto para las sesiones ordinarias como extraordinarias, se harán por escrito y las practicará el Presidente del Consejo, de acuerdo a lo dispuesto por el artículo 23 del Reglamento General.
+Asimismo, las sesiones extraordinarias se citarán de la misma manera, cuando sea necesario, y de acuerdo a lo dispuesto por el artículo 23 del Reglamento General.
 
 #### Artículo 5°
 
-Además de las indicadas en el Reglamento General, será atribución del Consejo Administrativo, dar cuenta de la marcha del Servicio y del Balance Anual, en Asamblea extraordinaria de Afiliados que deberá citarse para ser celebrada dentro de la primera quincena del mes de abril de cada año.
+Además de las indicadas en el Reglamento General, será atribución del Consejo Administrativo, dar cuenta de la marcha del Servicio y del Balance Anual, en Asamblea extraordinaria de afiliados y afiliadas que deberá citarse para ser celebrada dentro del primer semestre de cada año.
 
 ## Título III
 
@@ -62,7 +62,7 @@ El "Servicio" obtendrá su financiamiento, a través de los siguientes recursos:
 
 a) Con una cuota de incorporación que se pagará por una sola vez cuyo monto fijará el Consejo Administrativo anualmente, la cual no podrá ser superior al 2% (dos por ciento) de la remuneración mensual imponible, para pensiones de los funcionarios activos o de la pensión de los afiliados pasivos;
 
-b) Con el aporte mensual de sus afiliados en servicio activo cuyo monto fijará el Consejo Administrativo anualmente, el cual no podrá ser superior al 1,5 % (uno coma cinco por ciento) de su remuneración mensual imponible para pensión;
+b) Con el aporte mensual de sus afiliados en servicio activo cuyo monto fijará el Consejo Administrativo anualmente, el cual no podrá ser superior al 1,8% (uno coma ocho por ciento) de su remuneración mensual imponible para pensión;
 
 c) Con el aporte anual institucional, consultado en la Ley de Presupuestos;
 
@@ -70,7 +70,15 @@ d) Con el aporte mensual de sus afiliados jubilados de hasta el 1% (uno por cien
 
 e) Los excedentes generados en la administración de los servicios dependientes que administra, y;
 
-f) Con los demás ingresos detallados en el artículo 32° del Reglamento General.
+f) Con los recursos que se generen de la inversión en instrumentos que otorguen rentabilidad
+
+g) Con los demás ingresos detallados en el artículo 32° del Reglamento General.
+
+#### Artículo 6° bis
+
+Eventualmente y previa aprobación del Consejo Administrativo, parte de los fondos del Servicio podrán ser invertidos en instrumentos que otorguen rentabilidad, en conformidad a lo dispuesto en el artículo 3° del DL N° 1.056, de 1975 y sus modificaciones posteriores, previa autorización del Ministerio de Hacienda y sólo de los recursos provenientes de ventas de activos o excedentes estacionales de caja, según lo dispuesto en el artículo 2° del DL N° 1.263 de 1975. Lo anterior, con la finalidad de obtener mayores recursos que permitan aumentar los fondos en beneficio de los y las afiliados y afiliadas.
+
+El monto de los fondos y la forma en que serán depositados será determinado anualmente por el Consejo Administrativo.
 
 #### Artículo 7°
 
@@ -110,31 +118,31 @@ asignación se fijará anualmente por el Consejo
 
 Administrativo.
 
-b.2. Asignación por nacimiento: Se concederá una
+b.2. Nacimiento o adopción: Se concederá una ayuda
 
-ayuda por el nacimiento de cada hijo del
+por el nacimiento o adopción de cada hijo de
 
-afiliado, cuando éste compruebe tal hecho, con
+los y las afiliados y afiliadas. Si ambos
 
-el instrumento público correspondiente. Si
+padres fuesen afiliados, cada uno de ellos
 
-ambos padres estuvieren afiliados al Servicio
+tendrá derecho al beneficio en forma
 
-de Bienestar, cada uno de ellos tendrá derecho
+independiente. En el caso de la adopción,
 
-a este beneficio en forma independiente. En
+la ayuda podrá solicitarse una vez que se
 
-caso de nacimientos múltiples, como única
+haya otorgado la tuición para la adopción
 
-cifra, se duplicará el monto del subsidio,
+de un hijo, circunstancia que debe acreditarse
 
-pero no se aumentará el monto asignado. El
+con la respectiva resolución judicial. El
 
-monto de la asignación por nacimiento, se
+monto de la asignación por nacimiento o
 
-fijará anualmente por el Consejo
+adopción, se fijará anualmente por el
 
-Administrativo.
+Consejo Administrativo.
 
 b.3. Fallecimiento: Se concederá una ayuda
 
@@ -192,11 +200,11 @@ exista disponibilidad presupuestaria.
 
 b.5. Asignación por escolaridad: Se concederá
 
-anualmente al afiliado por cada hijo
+anualmente al afiliado y afiliada, por cada
 
-acreditado como carga familiar, que curse
+hijo acreditado como carga familiar, que curse
 
-estudios en los niveles: pre-básico, básico,
+estudies en los niveles: pre-básico, básico,
 
 medio, técnico o de educación superior, en un
 
@@ -212,7 +220,11 @@ antes mencionados, según disponibilidad
 
 presupuestaria y normas que fijará el Consejo
 
-Administrativo.
+Administrativo. Esta ayuda se hará extensible a
+
+las cargas familiares que asistan a
+
+establecimientos de educación diferencial.
 
 b.6. Becas de estudio: Se concederá a los socios
 
@@ -265,6 +277,42 @@ deudas que tuviere pendientes con el Servicio
 por concepto de préstamos que éste le hubiese
 
 otorgado.
+
+b.9. Catástrofe: Se concederá ayuda en dinero o
+
+especies, al afiliado y afiliada o sus cargas
+
+legales que sufran daños graves en su persona
+
+o en sus bienes por situaciones imprevistas o
+
+de fuerza mayor derivadas de accidentes,
+
+siniestros, catástrofe, fenómenos naturales,
+
+incendios, terremotos, inundaciones o
+
+pandemias. Para acceder a este beneficio será
+
+necesaria la comprobación del hecho que lo
+
+cause, por la jefatura del Bienestar.".
+
+"b.10. Asignación por cumpleaños, navidad y fiestas
+
+patrias: Se concederá anualmente una
+
+bonificación al afiliado y afiliada del
+
+Bienestar con motivo de las festividades antes
+
+indicadas, ya sea en especies, dinero o
+
+giftcard o similar, según disponibilidad
+
+presupuestaria. El monto de esta asignación se
+
+fijará anualmente por el Consejo Administrativo.
 
 Para solicitar los beneficios señalados en las
 
@@ -444,7 +492,7 @@ Otorgar asistencia personalizada de carácter educativo, social, biosíquica, y/
 
 Los mecanismos a utilizar para lograr los mejores resultados en los aspectos indicados podrán consistir en visitas domiciliarias, informes sociales, entrevistas, seguimientos de casos con fichas individualizadas y, en fin, todas las técnicas profesionales que cada caso aconseje.
 
-E) BENEFICIOS FACULTATIVOS: Cuando las posibilidades financieras y materiales del Servicio de Bienestar lo permitan, el Consejo podrá acordar asignar recursos orientados a los siguientes objetivos:
+E) Cuando las posibilidades financieras y materiales del Servicio de Bienestar lo permitan, el Consejo podrá acordar asignar recursos orientados a los siguientes objetivos, esto incluirá actividades, bonificaciones y/o especies, que podrán beneficiar a los afiliados y afiliadas y su grupo familiar:
 
 1. Actividades culturales y/o sociales.
 
@@ -452,9 +500,13 @@ E) BENEFICIOS FACULTATIVOS: Cuando las posibilidades financieras y materiales de
 
 3. Celebración de Navidad.
 
-4. Celebración de Aniversario Institucional.
+4. Celebración de Aniversario institucional.
 
 5. Celebración de Fiestas Patrias.
+
+6. Colaborar o ayudar a financiar actividades culturales, artísticas y recreativas, entre ellos eventos tales como: el día del Niño, día del Padre, día de la Madre, día de la Mujer, día de la Secretaria, Aniversario de Servicio de Bienestar y/o festividades de fin de año que contribuyan mejorar la calidad de vida de los socios y socias.
+
+7. Colaborar o ayudar a financiar actividades de asesoría y acompañamiento en el proceso de jubilación de los socios y socias del Bienestar.
 
 #### Artículo 9°
 
@@ -470,9 +522,7 @@ El Bienestar podrá financiar, con cargo a sus propios recursos, de acuerdo con 
 
 Disposiciones generales
 
-#### Artículo 11°
-
-El personal que desee afiliarse al Servicio deberá autorizar por escrito el descuento de las cuotas que establece el artículo 6°, letra b) del presente Reglamento.
+AArtículo 11.- El personal que desee afiliarse al Servicio deberá autorizar por escrito el descuento de las cuotas que establece el artículo 6°, letra b) del presente Reglamento. El Consejo Administrativo podrá delegar en la Jefatura del Bienestar, acoger las solicitudes de afiliación o desafiliación al Bienestar, tanto de funcionarios activos como de jubilados.
 
 El Consejo Administrativo, mediante acuerdo, podrá establecer las exigencias relativas a certificados, comprobantes y/o antecedentes que estime necesarios para el otorgamiento de los beneficios que se indican en este Reglamento.
 
@@ -488,9 +538,9 @@ Los afiliados al Bienestar tendrán derecho a percibir los beneficios médicos q
 
 #### Artículo 14°
 
-El porcentaje máximo de descuento mensual que se haga al afiliado por concepto de préstamos, créditos en casas comerciales u otro compromiso económico de cualquier índole, no podrá exceder, en caso alguno, del 30% de la remuneración imponible para pensiones del afiliado o de su pensión, según corresponda.
+El porcentaje máximo de descuento mensual que se haga al afiliado por concepto de préstamos, créditos en casas comerciales u otro compromiso económico de cualquier índole, no podrá exceder, en caso alguno, del 15% de la remuneración imponible para pensiones del afiliado o de su pensión, según corresponda.
 
-Para solicitar el otorgamiento de cualquier tipo de préstamos, como asimismo, la concesión de créditos para casas comerciales, el afiliado deberá constituir dos codeudores afiliados al Servicio de Bienestar. Dicha garantía deberá renovarse en caso de que el aval deje de pertenecer al Servicio de Bienestar de la Superintendencia de Salud.
+Para solicitar el otorgamiento de cualquier tipo de préstamos, el afiliado y afiliada deberá constituir un codeudor afiliado al Servicio de Bienestar. Dicha garantía deberá renovarse en caso de que el aval deje de pertenecer al Servicio de Bienestar de la Superintendencia de Salud".
 
 Toda otra normativa referente a los codeudores será fijada por el Consejo Administrativo.
 
