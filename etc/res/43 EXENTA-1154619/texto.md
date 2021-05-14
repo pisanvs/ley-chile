@@ -102,7 +102,7 @@ Con todo, la autoridad sanitaria o el médico tratante podrán disponer un tiemp
 
 Exceptúase de lo dispuesto precedentemente a aquellas personas asintomáticas a las cuales se les ha realizado un test en el contexto de búsqueda activa de casos COVID -19 por parte de la autoridad sanitaria o a quien ella lo haya delegado o autorizado.
 
-Se entenderá como búsqueda activa de casos COVID -19 aquel proceso en virtud del cual la autoridad sanitaria realiza test RT-PCR independiente de la sospecha clínica de la persona.
+Se entenderá como búsqueda activa de casos Covid -19 aquel proceso en virtud del cual la autoridad sanitaria u otra institución mandatada por ella, realiza test RT-PCR o test de antígeno que cumpla con los criterios establecidos por el Ministerio de Salud, independiente de la sospecha clínica de la persona.
 
 10 bis. Definición de contacto estrecho. Se entenderá por contacto estrecho aquella persona que ha estado en contacto con un caso confirmado o probable con COVID -19, entre 2 días antes del inicio de síntomas y 11 días después del inicio de síntomas del enfermo. En el caso de una persona que no presente síntomas, el contacto deberá haberse producido entre 2 días antes de la toma de muestra del test RT-PCR o prueba de antígenos para SARS-CoV-2 y durante los 11 días siguientes. En ambos supuestos, para calificarse dicho contacto como estrecho deberá cumplirse además alguna de las siguientes circunstancias:
 
@@ -138,7 +138,7 @@ a. Caso probable por resultado de laboratorio: aquella persona que se encuentra 
 
 i. La persona cumple con la definición de caso sospechoso conforme al numeral 12 de la presente resolución, en el cual el resultado del Test RT-PCR para SARS-CoV-2 es indeterminado.
 
-ii. Persona asintomática o con un síntoma no cardinal, conforme a lo establecido en el numeral 14 de la presente resolución, que tiene resultado positivo para una prueba de detección rápida de antígenos para SARS-CoV-2, tomado en un centro de salud mandatado, para estos efectos, por la señalada autoridad.
+ii. Persona asintomática o con un síntoma no cardinal, conforme a lo establecido en el numeral 14 de la presente resolución, que tiene resultado positivo para una prueba de detección rápida de antígenos para SARS-CoV-2, tomado en un centro de salud u otro establecimiento mandatado, para estos efectos, por la señalada autoridad.
 
 b. Caso probable por nexo epidemiológico: aquella persona que cumple los requisitos señalados a continuación:
 
@@ -382,7 +382,7 @@ Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir 
 
 Sin perjuicio de lo anterior, se permite la realización y asistencia a funerales, matrimonios, acuerdos de unión civil y cultos religiosos organizados por una Iglesia, Culto u Organización Religiosa debidamente reconocida por el Estado de Chile, utilizando el permiso de desplazamiento correspondiente de acuerdo al señalado Instructivo.
 
-El aforo en funerales no podrá ser mayor a 20 personas en un espacio abierto, o mayor a 10 personas en un espacio cerrado. El aforo en matrimonios, no podrá ser mayor a 10 personas, ya sea este en espacios abiertos o cerrados. El aforo máximo en cultos religiosos no podrá exceder las 10 personas, ya sean estos en espacios abiertos o cerrados.
+El aforo en funerales, matrimonios, acuerdos de unión civil o cultos religiosos no podrá exceder de 20 personas en un espacio abierto, o mayor a 10 personas en un espacio cerrado. Con todo, el aforo máximo no podrá ser mayor a 1 persona por cada 8 metros cuadrados de superficie útil.
 
 52. De las reuniones en residencias particulares. Se prohíben las reuniones en residencias particulares.
 
@@ -396,7 +396,7 @@ Sin perjuicio de lo dispuesto precedentemente, podrán atender público aquellos
 
 Estos espacios tendrán un aforo máximo de 1 persona por cada 8 metros cuadrados del total de la superficie útil destinada a la atención de público. En caso que el espacio sea menor a 8 metros cuadrados, se podrá atender como máximo una persona. Para el cálculo del aforo no se considerará las personas que trabajan en el lugar.
 
-56. De los eventos, actividades, entrenamientos y competencias deportivas. Prohíbanse los eventos, actividades, entrenamientos y competencias deportivas, a excepci�n de aquellas que cuenten con un permiso otorgado conforme a lo dispuesto en el numeral 33 de la presente resolución.
+56. De los eventos, actividades, entrenamientos y competencias deportivas. Prohíbanse los eventos, actividades, entrenamientos y competencias deportivas, a excepción de aquellas que cuenten con un permiso otorgado conforme a lo dispuesto en el numeral 33 de la presente resolución.
 
 57. De la banda horaria Elige Vivir Sano. Sin perjuicio de lo dispuesto en los numerales anteriores, las personas cuyas localidades de residencia se encuentren en el "Paso 1: Cuarentena" podrán realizar actividades al aire libre en lugares públicos entre las 05:00 y las 09:00 horas de lunes a viernes y entre las 05:00 y las 10:00 horas los días sábado, domingo y festivos. Estas actividades deberán ser de naturaleza individual o con personas de la misma residencia. Sin perjuicio de lo anterior, quienes hagan uso de este horario no podrán utilizar automóviles o el transporte público para estos efectos. Asimismo, tampoco podrán realizar, en dicha franja horaria, otras actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 9.285, de 26 de abril de 2021, ya citado, a excepción de que cuenten con el citado permiso.
 
@@ -433,6 +433,10 @@ c. Deberá utilizarse mascarilla de forma permanente.
 d. Solo se permite el consumo de alimentos si la actividad se realiza en un lugar abierto y con un aforo máximo de 10 personas.
 
 e. Sin perjuicio de lo dispuesto en la letra a., el aforo total no podrá exceder de 1 personas por cada 8 metros cuadrados de la superficie útil destinada al público.
+
+Sin perjuicio de lo dispuesto precedentemente, se permite la realización de cultos religiosos organizados por una Iglesia, Culto u Organización Religiosa debidamente reconocida por el Estado de Chile, utilizando el permiso de desplazamiento, cuando corresponda, de acuerdo al Instructivo. Esta autorización aplica incluso los días sábados, domingos y festivos.
+
+El aforo máximo para lo dispuesto en el párrafo anterior y para los matrimonios, acuerdos de unión civil y funerales no podrá exceder las 20 personas en espacios cerrados o 40 personas en espacios abiertos. Con todo, el aforo total no podrá ser mayor a 1 persona por cada 8 metros cuadrados de superficie útil.
 
 65. De los eventos con público en que los asistentes no tienen ubicación fija. Se prohíben los eventos con público, públicos y particulares, en que los asistentes no tengan ubicación fija.
 
