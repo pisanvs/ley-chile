@@ -184,11 +184,11 @@ Institución Ejército
 
 Grado General de Brigada
 
-Apellidos Amengual Escobar
+Apellidos Cuéllar Loyola
 
-Nombre Patricio
+Nombre Luis Felipe
 
-RUN 10.534.643-3
+RUN 11.565.532-9
 
 REEMPLAZANTE
 
@@ -196,11 +196,11 @@ Institución Ejército
 
 Grado Coronel
 
-Apellidos Marinkovic Vásquez
+Apellidos Labra Salazar
 
-Nombre Milko
+Nombre Iván Alejandro
 
-RUN 12.232.463-K
+RUN 11.840.950-7.
 
 REGIÓN DEL MAULE
 
