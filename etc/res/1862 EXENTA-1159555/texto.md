@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 1.862, de 15 de diciembre de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, se autorizó a la Escuela de Conductores Profesionales denominada "Automóvil Club de Chile Limitada", RUT Nº 77.323.230-K, representada legalmente por don Cristián Enrique Marín Rogat, cédula de identidad Nº 10.524.745-1, cuyos planes y programas fueron autorizados mediante resolución exenta Nº 146, de 21 de julio de 2000, y sus respectivas modificaciones, todas de la citada Secretaría Regional Ministerial, a impartir los cursos conducentes a la obtención de la licencia de conductor profesional Clase A-3 y A-5, con Simulador de Inmersión Total, en la modalidad E-learning, bajo el formato de ejecución sincrónico.-
+
+José Emilio Guzmán Cepeda, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
