@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº134, de 07 de abril de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10° letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 124-A, para la obra: MEJORAMIENTO Y CONSTRUCCION CAMINO COSTERO NORTE SECTOR BOYERUCA CRUCE RUTA J-60, que figura a nombre de GAJARDO VELIZ SUSAN ANDREA, rol de avalúo 170-355, Comuna de LICANTEN, REGION DEL MAULE, superficie 9.659 m2. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 09 de mayo de 2018, fijó el monto de la indemnización provisional en la cantidad de $32.724.616 para el lote Nº124-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
