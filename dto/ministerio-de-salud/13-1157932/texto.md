@@ -48,7 +48,7 @@ Decreto:
 
 #### Artículo 1°
 
-Suspéndase en todo el territorio nacional, la obligatoriedad para el Fondo Nacional de Salud y las Instituciones de Salud Previsional del cumplimiento de la Garantía Explícita de Oportunidad fijada para cada uno de los problemas de salud descritos en el decreto supremo Nº 22, de 2019, del Ministerio de Salud, por el plazo de un mes a contar de la fecha de publicación del presente decreto, prorrogable si se mantuvieran las condiciones que han fundamentado la dictación de este decreto, mediante un nuevo decreto supremo.
+Suspéndase en todo el territorio nacional, la obligatoriedad para el Fondo Nacional de Salud y las Instituciones de Salud Previsional del cumplimiento de la Garantía Explícita de Oportunidad fijada para cada uno de los problemas de salud descritos en el decreto supremo Nº 22, de 2019, del Ministerio de Salud, por el plazo de un mes a contar de la fecha de publicación del presente decreto, el que se prorrogará por un mes más sin solución de continuidad, sin perjuicio de poder extenderse nuevamente, mediante el respectivo decreto supremo, si las condiciones sanitarias así lo hacen necesario.
 
 #### Artículo 2°
 
@@ -97,6 +97,8 @@ r. Hemofilia;
 s. Infarto agudo al miocardio.
 
 c) Asimismo, se excluyen de la presente suspensión, todas aquellas prestaciones cuya postergación y/o inejecución, de acuerdo a la etapa sanitaria en curso implique un riesgo vital para el paciente o secuela funcional grave, lo que será definido por el médico tratante.
+
+d) Las cirugías mayores ambulatorias en cumplimiento de las garantías de las que trata este decreto, siempre y cuando esto no signifique una disminución en la disponibilidad de camas con capacidad de ventilación invasiva
 
 Corresponderá a la Superintendencia de Salud, en uso de sus atribuciones legales, determinar el procedimiento para que se asegure el otorgamiento de los medicamentos, fármacos, drogas y prestaciones a que se refiere la letra a) de este artículo.
 
