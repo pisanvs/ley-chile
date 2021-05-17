@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento Nº 203, de 22 de abril de 2021, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 27, Rol de avalúo 200-177, Comuna de Frutillar, superficie 323 m2., para la obra: MEJORAMIENTO CBI RUTA V-155, FRUTILLAR BAJO (F. PAV.) - QUILANTO, FRUTILLAR, COMUNA DE FRUTILLAR, PROVINCIA DE LLANQUIHUE, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por NORMAN ESTANISLAO CALDERÓN PONTIGGIA, SONIA CATALINA GALLEGOS BLANCH y CHRISTIAN EMIL RAUCH YÁÑEZ, fijó el valor de tasación con fecha 21 de julio de 2016, acordándose la indemnización con su propietaria INVERSIONES CVU LIMITADA, en la cantidad total de $4.729.028.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
