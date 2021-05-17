@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 184 de 22 de abril de 2021, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 461, Rol de avalúo 3100-113, comuna de Linares, superficie 121 m2., para la obra REPOSICIÓN PAVIMENTO RUTA L-111-11, SECTOR COLBÚN - PANIMÁVIDA - LINARES, COMUNAS DE COLBÚN Y LINARES, PROVINCIA DE LINARES, REGIÓN DEL MAULE. La comisión de peritos, integrada por PATRICIO ULISES DURÁN MARCOS, PAULA SOLEDAD GONZÁLEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, fijó el valor de tasación con fecha 30 de marzo de 2020, acordándose la indemnización con su propietario JOSÉ ORLANDO MIRANDA ROJAS, en la cantidad total de $2.199.318.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
