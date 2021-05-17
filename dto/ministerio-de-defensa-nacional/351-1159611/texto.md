@@ -1,0 +1,7 @@
+TRANSFERENCIA DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 351, de fecha 17 de diciembre del año 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, correspondiente al SIABC Nº 39.990, se autorizó transferencia de concesión marítima menor a Ostimar S.A., RUT 78.258.990-3, otorgada mediante decreto supremo Nº 351, de fecha 17 de diciembre del año 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, sobre un sector de Terreno de Playa, Fondo de Mar y Uso de Mejora Fiscal, con el objeto de A) En Terreno de Playa: Industrial. Continuar Amparando la Instalación y Uso de una Explanada de Trabajo, Bodegas y Oficinas. B) En Fondo de Mar: Industrial. Continuar Amparando la Instalación y Uso de una Cañería de Desagüe y se encuentra ubicados en el lugar denominado Península de Tongoy, comuna de Coquimbo, Provincia de Elqui, Región de Coquimbo, con vencimiento al 30 de junio del año 2021. Las obras existentes corresponden a Una Explanada de Trabajo, Bodegas, Oficinas, Una Cañería de Desagüe y la concesión abarca una superficie total de 2.608,74 m2.
+
+Los antecedentes del decreto referido se encuentran a disposición del público en la Capitanía Puerto de Tongoy. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Luis Jeldres Sepúlveda, Sargento 1º L. (Seg. M.), Capitán de Puerto de Tongoy.
