@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 454, de 5 de mayo de 2021, Serviu Región de Ñuble ordenó expropiación total de inmueble ubicado en V. Mackenna N° 315, Pobl. Wicker, comuna de Chillán, Rol de Avalúo N° 00525-00006, de aparente dominio de Garay Bacunan Miriam del Carmen. La parte afecta a expropiación total de terreno es de 520,08 m2 (Lote 51) y 119,72 m2 total de edificación y cuyos linderos particulares, enmarcados en el plano S16R-012, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", conforme artículo 51 ley 16.391 y DL. 2.186. Comisión Peritos integrada por el arquitecto doña Priscilla Andrea Encalada Rueda, Arquitecto doña Cecilia María Carrasco Verdugo y por el Constructor Civil don Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $101.032.252.-
+
+Director Serviu Región de Ñuble.
