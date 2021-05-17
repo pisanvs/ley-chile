@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 176 de 22 de abril de 2021, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 9 para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO COLLIPULLI - TEMUCO SECTOR: CALLE DE SERVICIO LAUTARO NOR-PONIENTE KM. 641.400,00 A KM. 643.900,00, Región de la Araucanía, a nombre de IRMA BACHLER WEBER, de la comuna de Lautaro, inscrito a Fs. Nº 51 Vta. Nº 46, año 1985, CBR Lautaro, superficie 65 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 210 de 27 de agosto de 2020, integrada por Maximiliano Cortés Caiozzi, Sergio Alejandro Ayala Espinoza y Karin Alicia Ernst Elizalde, fijó con fecha 9 de octubre de 2020, el valor provisional de la indemnización en la cantidad de $952.000 para el lote Nº 9. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
