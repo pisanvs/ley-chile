@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº163, de 14 de abril de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.173 y 174, para la obra: MEJORAMIENTO RUTA L-45, SECTOR EL PEÑASCO-RETEN LOS HUALLES, que figura a nombre de FORESTAL TANNEN SPA y FORESTAL NIBLINTO LTDA, roles de avalúo 554-17 y 554-74, Comuna de LINARES, REGION DEL MAULE, superficies 194 y 76 m2 respectivamente. La Comisión de Peritos integrada por ALICIA FLORES PACHECO, JHANNE MEZA IBAR y GABRIEL PANTOJA RIVERA, mediante informe de tasación de 29 de abril de 2019, fijó el monto de la indemnización provisional en la cantidad de $1.200.900 para el lote Nº173, y $1.172.600 para el lote Nº174. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
