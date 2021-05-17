@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°209, de 22 de abril de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N°13, para la obra: CONSTRUCCIÓN CAMINO RÍO HOLLEMBERG - RÍO PÉREZ, ETAPA I, que figura a nombre de GANADERA DINIVOR Y COMPANIA LIMI, rol de avalúo 5121-24. Comuna de RIO VERDE, REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA, superficie 255.809 m2. La Comisión de Peritos integrada por RODRIGO JAIME FERNÁNDEZ DUBROCK, BEATRIZ VERA MONTAÑA y HUGO JOSÉ MANSILLA CÁRDENAS, mediante informe de tasación de 08 de enero de 2019, fijó el monto de la indemnización provisional en la cantidad de $51.161.800, para el lote N°13. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
