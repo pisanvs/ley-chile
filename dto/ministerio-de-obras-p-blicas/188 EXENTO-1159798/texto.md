@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento Nº 188, de 22 de abril de 2021, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 153, Rol de avalúo 554-747, Comuna de Linares, superficie 58 m2., para la obra: MEJORAMIENTO RUTA L-45, SECTOR EL PEÑASCO - RETÉN LOS HUALLES, COMUNA Y PROVINCIA DE LINARES, REGIÓN DEL MAULE. La comisión de peritos, integrada por GABRIEL ANTONIO PANTOJA RIVERA, PAULA SOLEDAD GONZÁLEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, fijó el valor de tasación con fecha 24 de junio de 2020, acordándose la indemnización con su propietaria FABIOLA DEL PILAR GUZMÁN VALLEJOS, en la cantidad total de $1.086.046.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
