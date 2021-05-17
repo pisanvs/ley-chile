@@ -44,8 +44,6 @@ Para la postulación del grupo podrán incorporarse personas beneficiarias de un
 
 Las Entidades Patrocinantes municipales podrán presentar postulaciones al presente llamado, actuando en coordinación con otra Entidad Patrocinante para el desarrollo del proyecto y la ejecución de obras. Corresponderá al Serviu determinar los montos a pagar a cada una de estas Entidades por concepto de honorarios por la prestación de Servicios de Asistencia Técnica, de acuerdo a la resolución exenta Nº 1.875 (V. y U.), de 2015, y al resuelvo 11 de esta resolución.
 
-Mientras dure el estado de excepción constitucional decretado por DS N° 104, de 18 de marzo de 2020, del Ministerio del Interior y Seguridad Pública, para efectos del presente Llamado, y en relación a lo señalado en el inciso segundo del artículo 7 del DS N° 49 (V. y U.), de 2011, se permitirá la postulación de grupos organizados en que a lo menos la mitad de sus representantes legales postulen junto a éste, así como aquellos que se encuentren tramitando la obtención de su personalidad jurídica.
-
 3. Los recursos involucrados para la selección de grupos postulantes por región, comuna y área, según corresponda, son los siguientes:
 
 El número de grupos a seleccionar en cada región alcanzará hasta el número de subsidios susceptibles de ser financiados con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de Asistencia Técnica y Fiscalización Técnica de Obras, pudiendo practicarse redistribuciones y/o aumentos, los que serán sancionados mediante resolución.
@@ -217,6 +215,8 @@ c) El 60% restante, una vez desarrolladas las actividades que establece la resol
 12. Si por condiciones normativas disminuye el número de familias indicado en el estudio de cabida aprobado, según la letra i), del numeral 5.2., del resuelvo 5., de la presente resolución, aquellos beneficiarios que queden fuera de la nómina del proyecto, podrán aplicar su subsidio de manera individual, para la adquisición de una vivienda en el mercado inmobiliario, nueva o usada, o para la asociación o adscripción de una vivienda que sea parte de un proyecto de la Nómina de Oferta de Proyectos Habitacionales, en cuyo caso el monto del subsidio deberá ajustarse al financiamiento reglamentario según la comuna de emplazamiento del proyecto.
 
 13. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de postulaciones seleccionadas. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+
+> **Nota.** El literal b) del numeral 2° de la Resolución 588 Exenta, Vivienda, publicada el 17.05.2021, modifica la tabla inserta en el Resuelvo 3°, en los términos que la citada norma indica.
 
 > **Nota.** NOTA 1 Los literales e) y f) del numeral 2° de la Resolución 588 Exenta, Vivienda, publicada el 17.05.2021, modifican la tabla inserta en la letra b) del Resuelvo 7° de la presente norma, en los términos que la citada norma indica.
 

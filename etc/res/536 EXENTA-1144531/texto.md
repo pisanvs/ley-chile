@@ -148,7 +148,7 @@ b) Subsidios para la construcción: Para la construcción de las viviendas podr�
 
 9.1. Los grupos organizados tendrán que ingresar su proyecto de construcción al Serviu, para su calificación, de acuerdo a lo siguiente:
 
-a) La Entidad Patrocinante, dentro del plazo de 90 días corridos a partir de la publicación en el Diario Oficial de la resolución que selecciona los grupos organizados, deberá presentar el documento señalado en la letra n) del artículo 10. del DS N° 49, relativa a la Etapa de Organización de la Demanda, Diseño y Ejecución del Proyecto del Plan de Acompañamiento Social, incluyendo el Diagnóstico Participativo. El documento deberá ser evaluado por el Serviu en un plazo de 10 días hábiles, quien podrá otorgar un nuevo plazo para subsanar observaciones y efectuar su reevaluación. Al ingreso del proyecto de construcción, el Serviu podrá solicitar a la Entidad Patrocinante la actualización de su contenido, de corresponder.
+a) La Entidad Patrocinante, dentro del plazo de 180 días corridos a partir de la publicación en el Diario Oficial de la resolución que selecciona los grupos organizados, deberá presentar el Diagnóstico Participativo al que se refiere el inciso segundo de la letra a), del artículo 50 del DS N° 49, relativo al Plan de Acompañamiento Social, incluyendo opcionalmente la definición del equipamiento adicional a que se refiere el inciso señalado. El documento deberá ser evaluado por el Serviu en un plazo de 10 días hábiles, quien podrá otorgar un nuevo plazo para subsanar observaciones y efectuar su reevaluación. Al ingreso del proyecto de construcción, el Serviu podrá solicitar a la Entidad Patrocinante la actualización de su contenido, de corresponder. La definición del equipamiento adicional deberá incluirse al momento del ingreso del proyecto al Banco de Postulaciones.
 
 b) La Entidad Patrocinante tendrá un máximo de 9 meses, a partir de la publicación de la resolución que selecciona a los grupos organizados, para desarrollar el proyecto habitacional e ingresarlo al Banco de Postulaciones. Dicho plazo podrá ser prorrogado, por una sola vez, por un máximo de 3 meses adicionales, mediante resolución fundada del Director del Serviu respectivo.
 
@@ -191,6 +191,12 @@ c) El 60% restante, una vez desarrolladas las actividades que establece la resol
 11.5. Los honorarios de Asistencia Técnica correspondientes al servicio "Gestión Legal", se incrementarán con un monto adicional, de acuerdo a la relación entre la tasación del terreno y el precio, según el cuadro siguiente:
 
 12. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de postulaciones seleccionadas. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+
+> **Nota.** El N° 1 de la Resolución 443 Exenta, Vivienda, publicada el 13.04.2021, modifica la resolución 1739 Exenta, publicada el 12.12.2020, en el sentido de de reemplazar la tabla de su resuelvo 1, que a su vez reemplaza la tabla del resuelvo N° 3 de la presente norma, en los términos que la citada norma indica.
+
+> **Nota.** NOTA 1 El literal a) del numeral 1° de la Resolución 580 Exenta, Vivienda, publicada el 11.05.2021, modifica la resolución 113 Exenta, publicada el 13.02.2021, en el sentido de reemplazar el cuadro inserto en el resuelvo 1, que a su vez reemplaza la tabla del resuelvo N° 3 de la presente norma, en los términos que la citada norma indica.
+
+> **Nota.** NOTA 2 El literal a) del numeral 1° de la Resolución 588 Exenta, Vivienda, publicada el 17.05.2021, modifica la tabla inserta en la letra b) del Resuelvo 7 de la presente norma en los términos que la citada norma indica.
 
 Anótese, comuníquese, publíquese y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
