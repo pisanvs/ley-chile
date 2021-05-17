@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº214, de 22 de abril de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 1, para la obra: CONSERVACION RED VIAL REGION DE LOS LAGOS (2018 - 2020), PUENTE SANTA ELVIRA, que figura a nombre de HENRIQUEZ VIDAL CAMILO RAIMUNDO, rol de avalúo 2254-86. Comuna de PUYEHUE, REGIÓN DE LOS LAGOS, superficie 117 m2. La Comisión de Peritos integrada por ANDRES ECHEVERRIA CAMPO, HANDY GHISLAINE CAMPOS SEPULVEDA y VALENTINA ANDREA CHACALTANA SIMS, mediante informe de tasación de 10 de febrero de 2020, fijó el monto de la indemnización provisional en la cantidad de $269.100, para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
