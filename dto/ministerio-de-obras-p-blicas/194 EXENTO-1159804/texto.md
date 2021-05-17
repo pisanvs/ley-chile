@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº194, de 22 de abril de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº35, para la obra: AMPLIACION RUTA 62, SECTOR QUILLOTA - CRUCE RUTA F-390, que figura a nombre de RAZETO FERRETTO JOSE ANTONIO MAR, rol de avalúo 329-190, Comuna de QUILLOTA, REGIÓN DE VALPARAÍSO. superficie 1.248 m2. La Comisión de Peritos integrada por CAROLINA CLAUDIA VERDEJO DÍAZ, ALFONSO ANDRES SANTINI RIVERA y LUIS PABLO PADILLA VERGARA, mediante informe de tasación de 05 de octubre de 2018, fijó el monto de la indemnización provisional en la cantidad de $15.720.109, para el lote Nº35. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
