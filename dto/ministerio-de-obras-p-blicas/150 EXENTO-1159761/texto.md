@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°150, de 14 de abril de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 67-A y 72-A, para la obra: MEJORAMIENTO RUTA W-175 SECTOR: LINAO - QUEMCHI, que figuran a nombre de COLOANE COLOANE HECTOR JOEL y HUICHAL MUNOZ MARIA Y OTRO, roles de avalúo 162-100 y 162-73, Comuna de QUEMCHI, REGIÓN DE LOS LAGOS, superficies 18 y 1.190 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRES ECHEVERRIA CAMPO y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 16 de abril de 2020, fijó el monto de la indemnización provisional en la cantidad de $56.635, para el lote N°67-A y $6.596.850, para el lote N°72-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
