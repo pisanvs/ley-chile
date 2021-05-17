@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 175, de 14 de abril de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 24 y 25, para la obra: MEJORAMIENTO RUTA T-345, LO AGUILA-MALIHUE, que figuran a nombre de AGRICOLA LOS PELLINES LIMITADA y AGRICOLA LOS PELLINES LIMITADA, roles de avalúo 240-36 y 240-36, Comuna de LOS LAGOS, REGION DE LOS RÍOS, superficies 2.778 y 3.764 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informes de tasación de fecha 08 de octubre de 2019, fijó el monto de las indemnizaciones provisionales en las cantidades de $8.998.360.- para el lote Nº24, y $10.651.280.- para el lote Nº25. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
