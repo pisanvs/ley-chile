@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 235, de 30 de abril de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c) y 14º letra e) del DFL. MOP. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº 206 de 1960; lo prescrito en el Decreto Ley Nº 2186, de 1978; lo señalado en el artículo 12º de la Ley Nº 18.777, se expropió para la empresa ECONSSA CHILE S.A., el lote de terreno Nº 1, para la obra: CONSTRUCCION BOOSTER ADUCCION PAGO DE GOMEZ - CHUÑO, que figura a nombre de GUTIERREZ BALUARTE ZENON FACUNDO, rol de avalúo 3430-14, Comuna de ARICA, REGION DE ARICA Y PARINACOTA, superficie 697,33 m2. La Comisión de Peritos integrada por JUAN ANDRES TEPPER LAVANDEROS, PATRICIO FERNANDO CASAGRANDE ULLOA y GASTON FERNANDO GONZALEZ KEMNIS, mediante informe de tasación de fecha 05 de noviembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $28.086.802.- para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
