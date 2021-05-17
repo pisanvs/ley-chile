@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 451, de 5 de mayo de 2021, Serviu Región de Ñuble ordenó expropiación parcial de inmueble ubicado en Avenida Huambalí N° 88, comuna de Chillán, Rol de Avalúo N° 00680-00010, de aparente dominio de Inmobiliaria Pavada Sociedad Anó. La parte afecta a expropiación parcial de terreno es de 694,36 m2 (Lote 20) y cuyos linderos particulares, enmarcados en el plano S16R-026, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Mario Fabrizzio Bellolio Bostica, Constructor Civil Ítalo Renzo Zerga Arancibia y por el Ingeniero Civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $163.859.737.-
+
+Director Serviu Región de Ñuble.
