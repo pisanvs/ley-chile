@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 453, de 5 de mayo de 2021, Serviu Región de Ñuble ordenó expropiación parcial de inmueble ubicado en Collin Interior 698, comuna de Chillán, Rol de Avalúo Nº 00680-00015, de aparente dominio de Bocaz Contreras Inés del Carmen. La parte afecta a expropiación parcial de terreno es de 609,67 m2 (Lote18) y expropiación total de edificación es de 46,48 m2 cuyos linderos particulares, enmarcados en el plano S16R-024, para el proyecto "Mejoramiento Avenida Huambali, Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Mario Fabrizzio Bellolio Bostica, Constructor Civil Ítalo Renzo Zerga Arancibia y por el Ingeniero Civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $156.140.022.-
+
+Director Serviu Región de Ñuble.
