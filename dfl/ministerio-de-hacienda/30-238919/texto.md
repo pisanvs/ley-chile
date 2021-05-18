@@ -974,8 +974,6 @@ Podrá prorrogarse este plazo tratándose de mercancías cuya importación se ve
 
 El depósito de las mercancías, a excepción de las señaladas en el inciso anterior, devengará diariamente a partir del trigésimo primer día, un interés igual al equivalente diario de la tasa de interés promedio mensual cobrada por el sistema financiero en operaciones no reajustables de treinta a ochenta y nueve días informada por el Banco Central de Chile, vigente a la fecha más próxima a la de internación o vencimiento del plazo, según corresponda, aplicada sobre los correspondientes derechos e impuestos. En el caso de mercancías que por su naturaleza no puedan ser normalmente depositadas en recintos de depósito aduanero según calificación que hará el Director Nacional de Aduanas, dicho interés se devengará a partir del cuadragésimo sexto día.
 
-En el caso de las infracciones cometidas en el uso u obtención de los beneficios establecidos en este artículo, tales como el fraude aduanero o la estafa, serán aplicables las sanciones, penas, multas y presunciones establecidas en los artículos 178 y 181 de esta Ordenanza, las que, según sea el caso, podrán ser aumentadas al doble.
-
 #### Artículo 110
 
 Las mercancías depositadas en los locales o recintos habilitados quedarán bajo la autoridad y vigilancia de la Aduana hasta que sean legalmente retiradas.
@@ -1144,9 +1142,19 @@ Sin perjuicio de las facultades del Director Nacional, corresponderá a los Dire
 
 #### Artículo 125
 
-El Tribunal llevará los autos en la forma ordenada en los artículos 29 y 34 del Código de Procedimiento Civil.
+Se formará el proceso, en soporte papel, con los escritos, documentos y actuaciones de toda especie que se presenten o verifiquen en el juicio.
 
-Sólo las partes podrán imponerse de ellos, en cualquier estado de la tramitación.
+Ninguna pieza del proceso podrá retirarse sin que previamente lo decrete el tribunal que conoce de la causa.
+
+Todas las piezas que deben formar el proceso, de conformidad a lo anterior, se irán agregando sucesivamente según el orden de su presentación. Al tiempo de agregarlas, el secretario numerará cada foja en cifras y en letras. Se exceptúan las piezas que, por su naturaleza, no puedan agregarse o que por motivos fundados se manden reservar fuera del proceso.
+
+Durante la tramitación, sólo las partes podrán imponerse de los autos del proceso.
+
+Sin perjuicio de lo anterior, el Tribunal Tributario y Aduanero mantendrá registro de todos sus procedimientos, causas o actuaciones judiciales en medio digital o electrónico apto para producir fe y que permita garantizar la conservación y reproducción de su contenido. Dicho registro se denominará, para todos los efectos legales, Sistema de Administración de Causas Tributarias y Aduaneras, en adelante "el Sistema", y cada uno de los expedientes como Expediente Electrónico.
+
+Las partes, además, podrán hacer sus presentaciones al Tribunal por medio digital o electrónico, cargando sus escritos y documentos en el Sistema a través del sitio en internet de los Tribunales Tributarios y Aduaneros, el cual entregará el comprobante de recepción correspondiente cuando éstos hayan sido recibidos, debiendo el Tribunal incorporar la impresión de los escritos al expediente físico. No obstante lo anterior, el Tribunal podrá exigir que los documentos y demás pruebas que se acompañen en el proceso sean presentados en forma física.
+
+La Corte Suprema, mediante auto acordado, fijará los requisitos que estime pertinentes para el adecuado funcionamiento del Sistema, reglando, entre otras materias, el tamaño o peso máximo de los archivos que contengan los escritos y documentos que puedan ser presentados o acompañados en el Sistema.
 
 #### Artículo 126
 
@@ -1158,7 +1166,7 @@ Los plazos de días que se establecen en este Título comprenderán sólo días 
 
 Las resoluciones que dicte el Tribunal Tributario y Aduanero se notificarán a las partes mediante la publicación de su texto íntegro en el sitio en Internet del Tribunal.
 
-Se dejará testimonio en el expediente y en el sitio en Internet de haberse efectuado la publicación y de su fecha. Los errores u omisiones en dichos testimonios no invalidarán la notificación.
+Se dejará registro en el expediente electrónico y en el sitio en internet a que se refiere el inciso anterior de haberse efectuado la publicación y de su fecha. Los errores u omisiones en dichos registros no invalidarán la notificación.
 
 Las notificaciones al reclamante de las sentencias definitivas, de las resoluciones que reciben la causa a prueba y de aquellas que declaren inadmisible un reclamo, pongan término al juicio o hagan imposible su continuación, serán efectuadas por carta certificada. Del mismo modo, lo serán aquellas que se dirijan a terceros ajenos al juicio. En estos casos, la notificación se entenderá practicada al tercer día contado desde aquél en que la carta fue expedida por el tribunal. Sin perjuicio de lo anterior, dichas resoluciones serán igualmente publicadas del modo que se establece en el inciso primero. En todo caso, la falta de esta publicación no anulará la notificación.
 
@@ -1172,11 +1180,13 @@ La notificación al Servicio de la resolución que le confiere traslado del recl
 
 Del reclamo se conferirá traslado al Servicio por el término de veinte días. La contestación del Servicio deberá contener una exposición clara de los hechos y fundamentos de derecho en que se apoya, y las peticiones concretas que se someten a la decisión del Tribunal Tributario y Aduanero.
 
-Vencido el plazo a que se refiere el inciso anterior, haya o no contestado el Servicio, el Tribunal Tributario y Aduanero, de oficio o a petición de parte, deberá recibir la causa a prueba si hubiere controversia sobre algún hecho substancial y pertinente. La resolución que se dicte al efecto señalará los puntos sobre los cuales deberá recaer la prueba. En su contra sólo procederán los recursos de reposición y de apelación, dentro del plazo de cinco días, contado desde la notificación. De interponerse apelación, deberá hacerse siempre en subsidio de la reposición y procederá en el solo efecto devolutivo. El recurso de apelación se tramitará en cuenta y en forma preferente.
+Vencido el plazo a que se refiere el inciso anterior, haya o no contestado el Servicio, el Tribunal Tributario y Aduanero deberá, de oficio o a petición de parte, llamar a las mismas a conciliación de conformidad al artículo 128 bis, citándolas para tales efectos a una audiencia oral. En dicha audiencia, el Juez Tributario y Aduanero propondrá las bases de arreglo, sin que las opiniones emitidas con tal propósito lo inhabiliten para seguir conociendo de la causa. La audiencia de conciliación se desarrollará en forma continua y podrá prolongarse en sesiones sucesivas, hasta su conclusión. Para estos efectos, constituirán sesiones sucesivas aquellas que tuvieren lugar en el día siguiente o subsiguiente del funcionamiento ordinario del Tribunal.
+
+Vencido el plazo a que se refiere el inciso primero, cuando la conciliación o parte de ésta fuere rechazada, el Tribunal Tributario y Aduanero, de oficio o a petición de parte, deberá recibir la causa a prueba si hubiere controversia sobre algún hecho substancial y pertinente. La resolución que se dicte al efecto señalará los puntos sobre los cuales deberá recaer la prueba. En su contra sólo procederán los recursos de reposición y de apelación, dentro del plazo de cinco días, contado desde la notificación. De interponerse apelación, deberá hacerse siempre en subsidio de la reposición y procederá en el solo efecto devolutivo. El recurso de apelación se tramitará en cuenta y en forma preferente.
 
 El término probatorio será de veinte días y dentro de él se deberá rendir toda la prueba.
 
-En los primeros dos días del probatorio cada parte deberá acompañar una nómina de los testigos de que piensa valerse, con expresión de su nombre y apellido, domicilio y profesión u oficio. Sólo se examinarán testigos que figuren en dicha nómina. En el procedimiento no existirán testigos inhábiles, sin perjuicio de lo cual el tribunal podrá desechar de oficio a los que notoriamente aparezcan comprendidos en alguna de las situaciones del artículo 357 del Código de Procedimiento Civil. Se podrán dirigir a cualquier testigo preguntas tendientes a demostrar su credibilidad o falta de ella.
+En los primeros cinco días del probatorio cada parte deberá acompañar una nómina de los testigos de que piensa valerse, con expresión de su nombre y apellido, domicilio y profesión u oficio. Sólo se examinarán testigos que figuren en dicha nómina. En el procedimiento no existirán testigos inhábiles, sin perjuicio de lo cual el tribunal podrá desechar de oficio a los que notoriamente aparezcan comprendidos en alguna de las situaciones del artículo 357 del Código de Procedimiento Civil. Se podrán dirigir a cualquier testigo preguntas tendientes a demostrar su credibilidad o falta de ella.
 
 Se admitirá a declarar hasta un máximo de cuatro testigos por punto de prueba.
 
@@ -1202,7 +1212,25 @@ La prueba será apreciada por el Juez Tributario y Aduanero de conformidad con l
 
 No obstante lo anterior, los actos o contratos solemnes sólo podrán ser acreditados por medio de la solemnidad prevista por la ley. En aquellos casos en que la ley requiera probar mediante contabilidad fidedigna, el juez deberá ponderar preferentemente dicha contabilidad.
 
-El Tribunal Tributario y Aduanero tendrá el plazo de sesenta días para dictar sentencia, contado desde el vencimiento del término probatorio.
+Vencido el término de prueba, y dentro de los diez días siguientes, las partes podrán hacer por escrito las observaciones que el examen de la prueba les sugiera. Cumplido este plazo, se hayan o no presentado escritos, el Tribunal Tributario y Aduanero podrá, a petición de parte, llamar a las mismas a conciliación de conformidad al artículo 128 bis, citándolas para tales efectos a una audiencia en los términos del inciso segundo.
+
+Si se rechaza la conciliación, existan o no diligencias pendientes, el Tribunal deberá citar a las partes a oír sentencia.
+
+El Tribunal Tributario y Aduanero tendrá el plazo de sesenta días para dictar sentencia, contado desde que el Tribunal dicte la resolución a que se refiere el inciso anterior.
+
+#### Artículo 128 bis
+
+La conciliación a que se refiere el artículo 128 podrá ser total o parcial. Será materia de conciliación el litigio sometido al conocimiento del Tribunal Tributario y Aduanero, incluyendo la existencia de los elementos que determinan el nacimiento de la obligación tributario aduanera, su cuantía o el monto de los derechos, impuestos o multas determinados; la calificación jurídica de los hechos conforme a los antecedentes aportados en el procedimiento, la ponderación o valoración de las pruebas respectivas y la existencia de los vicios o errores manifiestos de legalidad, ya sea de forma o de fondo, siempre que todo lo anterior haya sido alegado expresamente en el reclamo o se trate de casos en que el Tribunal pueda pronunciarse de oficio.
+
+En ningún caso la conciliación podrá consistir en la mera disminución del monto del o los derechos aduaneros o impuestos adeudados, salvo cuando ello se funde en la existencia de errores de hecho o de derecho en su determinación, o en antecedentes que permitan concluir que no concurren los elementos del hecho gravado establecido en la ley o cuando los impuestos determinados resulten ser excesivos conforme a los demás antecedentes tenidos a la vista con motivo de la conciliación. La conciliación tampoco podrá tener por objeto el saneamiento de aquellos vicios de fondo que den lugar a la nulidad del acto administrativo reclamado, ni de los vicios de forma que cumplan con los requisitos a que se refiere el párrafo segundo del numeral 8° del artículo 1° de la ley N°20.322. En la o las audiencias de conciliación que se lleven a cabo, el Servicio podrá proponer la condonación total o parcial de las multas aplicadas, conforme a los criterios generales que fije mediante resolución.
+
+El llamado a conciliación será también aplicable en el procedimiento establecido en el artículo 186 bis, en los mismos términos que establece el presente artículo, caso en el cual la aprobación o rechazo deberá efectuarla el Director Regional o Administrador de Aduana respectivo. Sin embargo, no procederá el llamado a conciliación en el procedimiento especial de reclamo por vulneración de derechos.
+
+El juez deberá rechazar el acuerdo cuando no se cumplan los requisitos que establece este artículo o recaiga sobre materias respecto de las cuales no se admite conciliación.
+
+Sobre las bases de arreglo y la conciliación efectuada conforme a los incisos anteriores, deberá pronunciarse el Director, quien podrá aceptarla o rechazarla. La decisión del Director, cuando consista en aceptar la conciliación, deberá contener los fundamentos de hecho y de derecho en que se basa y las condiciones de dicha aceptación. El Director deberá pronunciarse sobre la conciliación dentro de los treinta días siguientes al término de la audiencia, estando facultado para aceptarla o rechazarla total o parcialmente. En caso de no pronunciarse en dicho plazo, se entenderá que rechaza las bases de arreglo y la conciliación.
+
+De la conciliación total o parcial se levantará acta, que consignará las especificaciones del arreglo y los antecedentes de hecho y de derecho en que se funda, la cual suscribirán el juez y las partes. Una vez aprobada la conciliación mediante resolución fundada por el Tribunal Tributario y Aduanero, se considerará como sentencia ejecutoriada para todos los efectos legales. Contra la resolución que aprueba la conciliación solo procederá el recurso contemplado en el inciso primero del artículo 182 del Código de Procedimiento Civil.
 
 #### Artículo 129
 
@@ -1250,7 +1278,7 @@ En las apelaciones a que se refiere esta Ordenanza no será necesaria la compare
 
 #### Artículo 129
 
-H.- Los fallos pronunciados por el Tribunal Tributario y Aduanero deberán ser fundados. La omisión de este requisito, así como de los establecidos en el inciso décimoquinto del artículo 128, será corregida de conformidad con lo dispuesto en el artículo 129 E.
+H.- Los fallos pronunciados por el Tribunal Tributario y Aduanero deberán ser fundados. La omisión de este requisito, así como de los establecidos en el inciso decimosexto del artículo 128, será corregida de conformidad con lo dispuesto en el artículo 129 E.
 
 #### Artículo 129
 
@@ -1674,6 +1702,10 @@ Cuando deba aplicarse multas con relación al valor de la mercancía, a falta de
 
 Cuando no pueda acreditarse el valor de una mercancía en forma fehaciente, se tomará el valor que corresponda o pudiera corresponder a otras análogas. Este valor se calculará, considerando el precio o costos medios, incluyendo el flete, seguro y otros gastos hasta el puerto de destino, teniendo presente todos los elementos de dicho valor en un mercado normal. Si ni aún así pudiere determinarse el valor, se aplicará una multa de hasta 206 Unidades Tributarias Mensuales, destinándose, el producido de ellas, al fin dispuesto en el inciso final del artículo 174.
 
+Sin perjuicio de lo anterior, en los delitos de contrabando y fraude, cuando se trate de mercancía afecta a tributación especial o adicional, para efectos de determinar la cuantía del contrabando y la multa correspondiente, el valor de la mercancía objeto del delito estará compuesto por el valor aduanero más los impuestos, derechos, tasas y gravámenes que corresponda pagar conforme al régimen general de importación, a excepción del Impuesto al Valor Agregado establecido en el decreto ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios.
+
+De la misma forma, respecto de los convenios a que se refiere el inciso cuarto del artículo 189, tratándose de mercancía afecta a tributación especial o adicional, el monto máximo a convenir entre el Servicio y quien haya tenido participación en un contrabando será el valor aduanero, al que se agregarán los derechos, impuestos, tasas y gravámenes que corresponda pagar conforme al régimen general de importación, a excepción del Impuesto al Valor Agregado establecido en el decreto ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios.
+
 2.- De las contravenciones aduaneras y sus sanciones
 
 #### Artículo 173
@@ -1740,7 +1772,7 @@ El producto de las multas impuestas en conformidad a este artículo, ingresará 
 
 #### Artículo 177
 
-La Aduana no formulará denuncia a quien incurriere en una contravención aduanera de aquellas a que se refieren los artículos 173, 174, 175 y 176, siempre que se pusiere el hecho en su conocimiento antes de cualquier procedimiento de fiscalización y se pagaren los derechos aduaneros correspondientes.
+La Aduana no formulará denuncia a quien incurriere en una contravención aduanera de aquellas a que se refieren los artículos 173, 174, 175 y 176, siempre que se pusiere el hecho en su conocimiento antes de notificar cualquier procedimiento de fiscalización y se pagaren los derechos aduaneros correspondientes. Lo anterior no procederá si se trata de contravenciones constitutivas de incumplimiento de plazos.
 
 3.- Del contrabando y del fraude
 
@@ -1748,13 +1780,19 @@ La Aduana no formulará denuncia a quien incurriere en una contravención aduane
 
 Las personas que resulten responsables de los delitos de contrabando o fraude serán castigadas:
 
-1) Con multa de una a cinco veces el valor de la mercancía objeto del delito o con presidio menor en sus grados mínimo a medio o con ambas penas a la vez, si ese valor excede de 25 Unidades Tributarias Mensuales.
+1) Con una multa de una a cinco veces el valor de la mercancía objeto del ilícito, si ese valor no excede las 10 unidades tributarias mensuales.
 
-2) Con multa de una a cinco veces el valor de la mercancía objeto del delito si ese valor no excede de 25 Unidades Tributarias Mensuales.
+En caso de reincidencia del contrabando de tabaco y sus derivados y del contrabando de bebidas alcohólicas, fuegos artificiales, productos farmacéuticos y juguetes, se aplicará, además, la pena de presidio menor en su grado mínimo.
 
-En ambos casos se condenará al comiso de la mercancía, sin perjuicio de su inmediata incautación.
+2) Con multa de una a cinco veces el valor de la mercancía objeto del delito y presidio menor en su grado medio, si ese valor fuere superior a las 10 unidades tributarias mensuales y no excediere las 25 unidades tributarias mensuales.
 
-No podrá aplicarse pena exclusivamente pecuniaria al reincidente de estos delitos en el caso del número 1) de este artículo, ni tampoco cuando se trate de mercancía afecta a tributación especial o adicional, procediendo en ambos casos la aplicación de la pena establecida en el precitado numeral, aumentada en un grado. Para estos efectos se considerará también reincidente al que haya sido condenado anteriormente por contrabando o fraude de mercancías cuyo valor no exceda de 25 Unidades Tributarias Mensuales. El mínimo de la pena de multa en el caso del N° 2 de este artículo será de dos veces el valor de la mercancía para el que hubiese reincidido una vez; de tres para el que hubiere reincidido dos y así sucesivamente, hasta llegar a cinco veces el valor de la mercancía como monto de la multa para el que hubiere reincidido cuatro veces o más.
+3) Con multa de una a cinco veces el valor de la mercancía objeto del delito y presidio menor en sus grados medio a máximo, si ese valor excediere de 25 unidades tributarias mensuales.
+
+En todos los casos se condenará al comiso de la mercancía, sin perjuicio de su inmediata incautación. En caso de mercancía afecta a tributación especial o adicional, el Ministerio Público podrá solicitar, por el período que dure la investigación, la incautación de los vehículos que hubiesen sido utilizados para perpetrar el ilícito. Asimismo, en caso de resultar condenado, se aplicará como pena accesoria el comiso de los vehículos utilizados para perpetrar el ilícito de conformidad al artículo 31 del Código Penal.
+
+En los casos previstos en los numerales 2) y 3) del inciso primero, si la mercancía objeto del delito se encontrare afecta a tributación especial o adicional, o cuando existiere reincidencia, el responsable será castigado con la pena de presidio establecida en los respectivos numerales, aumentada en un grado, y multa de una a cinco veces el valor de la mercancía objeto del delito.
+
+Asimismo, en caso de reincidencia, cualquiera que sea el tipo de tributación al que se encuentre afecta la mercancía, la multa mínima será de dos veces el valor de la mercancía para el que hubiere reincidido una vez; de tres para el que hubiere reincidido dos y así sucesivamente, hasta llegar a cinco veces el valor de la mercancía como monto de la multa para el que hubiere reincidido cuatro veces o más.
 
 Lo anterior es sin perjuicio de la responsabilidad que pueda caber a los funcionarios aduaneros, de acuerdo con lo dispuesto en el artículo 239 del Código Penal y de la que corresponda a otros que hayan tenido participación con ellos.
 
@@ -1770,7 +1808,7 @@ a) La entrega voluntaria a la Aduana de las mercancías ilegalmente internadas a
 
 b) El pago voluntario de los derechos e impuestos de las mercancías cuestionadas.
 
-Concurriendo alguna de estas atenuantes, no se aplicará la pena de presidio en el caso contemplado en el Nº 1) de este artículo y no se aplicará una multa superior a una vez el valor de la mercancía en el caso previsto en el Nº 2).
+Concurriendo alguna de estas atenuantes, no se aplicará la pena de presidio en los casos contemplados en los numerales 1), 2) y 3) de este artículo y no se aplicará una multa superior a una vez el valor de la mercancía en el caso previsto en el Nº 1).
 
 El pago posterior a la fiscalización configurará la atenuante general del artículo 11 N° 7 del Código Penal.
 
@@ -1870,7 +1908,7 @@ INCISO ELIMINADO.
 
 Formulado el reclamo, se conferirá traslado al Servicio por el término de diez días. Vencido el plazo, haya o no contestado el Servicio, el Juez Tributario y Aduanero podrá recibir la causa a prueba si estima que existen hechos sustanciales y pertinentes controvertidos, abriendo un término probatorio de ocho días. En la misma resolución determinará la oportunidad en que la prueba testimonial deba rendirse. Dentro de los dos primeros días del término probatorio las partes deberán acompañar una nómina de los testigos de que piensan valerse, con expresión de su nombre y apellido, domicilio y profesión u oficio. No podrán declarar más de cuatro testigos por cada parte. En todo caso, el tribunal podrá citar a declarar a personas que no figuren en las listas de testigos o decretar otras diligencias probatorias que estime pertinentes.
 
-En contra de la resolución del Tribunal Tributario y Aduanero no procederá recurso alguno.
+En contra de la sentencia definitiva del Tribunal Tributario y Aduanero sólo procederá el recurso de apelación, en el solo efecto devolutivo y aquél contemplado en el inciso primero del artículo 182 del Código de Procedimiento Civil. El recurso de apelación sólo podrá interponerse contra sentencias definitivas referidas a denuncias infraccionales cuya cuantía sea igual o superior a 100 Unidades Tributarias Mensuales.
 
 En lo no previsto en este artículo, se aplicarán supletoriamente las normas del Párrafo 3 del Título VI del Libro II.
 
@@ -1898,7 +1936,7 @@ La representación y defensa del Fisco en las investigaciones penales relativas 
 
 El Servicio Nacional de Aduanas podrá no formular denuncia ni interponer querella respecto de quien haya tenido participación en un contrabando, pero ofreciere pagar una suma no superior a una vez el valor aduanero de las mercancías involucradas. Si aceptare esa oferta alguna de las autoridades a que se refiere el inciso primero, el interesado deberá enterar la suma correspondiente en arcas fiscales y, con el comprobante de ese depósito, se convendrá la renuncia al ejercicio de la acción penal, que tendrá como efecto la extinción de la misma.
 
-La facultad de Aduanas de celebrar los convenios a que se refiere el inciso anterior se extinguirá una vez que el Ministerio Público formalice la investigación de conformidad al Párrafo 5º, del Título I, del Libro Segundo del Código Procesal Penal. Todo lo cual se entiende sin perjuicio de la procedencia de los acuerdos reparatorios a que se refiere el artículo 241 del mismo Código.
+La facultad de Aduanas de celebrar los convenios a que se refiere el inciso anterior no procederá tratándose de contrabando de mercancía afecta a tributación especial o adicional si su valor excede de 25 unidades tributarias mensuales, y se extinguirá una vez que el Ministerio Público formalice la investigación de conformidad al Párrafo 5º, del Título I, del Libro Segundo del Código Procesal Penal. Todo lo cual se entiende sin perjuicio de la procedencia de los acuerdos reparatorios a que se refiere el artículo 241 del mismo Código.
 
 #### Artículo 190
 
@@ -2004,7 +2042,9 @@ INCISOS ELIMINADOS
 
 El acto por el cual el dueño, consignante o consignatario encomienda el despacho de sus mercancías a un Agente de Aduana que acepta el encargo, es un mandato que se rige por las prescripciones de esta Ordenanza y sus leyes complementarias y, supletoriamente, por las normas del Código Civil.
 
-En los casos de mercancías ingresadas al país en virtud de un contrato de transporte, este mandato se constituirá sólo por el endoso de los conocimientos de embarque, cartas de porte, guías aéreas, o de los documentos que hagan sus veces. En los demás casos se constituirá por medio de poder escrito, otorgado para un despacho determinado.
+El mandato podrá constituirse mediante poder especial, otorgado por escritura pública o por otros medios, manuales o electrónicos, que autorice el Director Nacional de Aduanas, para uno o más despachos, y será revocable conforme a las reglas generales. El mandatario deberá acreditar la vigencia del mandato, cuando le sea exigida por el Servicio.
+
+También podrá constituirse mediante el endoso de los conocimientos de embarque, cartas de porte, guías aéreas o documentos que hagan sus veces, cuando se trate de la introducción de mercancías al país.
 
 El mandato para despachar no termina por la muerte del mandante e incluye, sin necesidad de mención expresa, las facultades de retirar las mercancías de la potestad aduanera, formular peticiones y reclamaciones y, en general, realizar todos los actos o trámites relacionados directamente con el despacho mismo.
 
