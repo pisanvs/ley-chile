@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "PARQUE RENOVABLE ENTRE CERROS"
+
+De conformidad con lo dispuesto en el artículo 94 del DS N° 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta N° 68, de fecha 29 de abril de 2021, la Directora Regional del Servicio de Evaluación Ambiental de la Región de Ñuble, ha resuelto dar inicio a un proceso de participación ciudadana por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto: "Parque Renovable Entre Cerros", del proponente "Inversiones Bosquemar Ltda.".
+
+El proyecto se ubica en la Región de Ñuble, provincia de Itata y en las comunas de Portezuelo y Ninhue. Este consiste en la construcción y operación de un Parque Eólico, un Parque Fotovoltaico y una Línea de Transmisión de alta tensión. El Parque Eólico estará conformado por 11 aerogeneradores y tendrá una potencia máxima instalada de 46,2 MW. El Parque Fotovoltaico tendría una potencia máxima de 43,8 MW, instalando 81.520 módulos solares. La energía generada será evacuada por una Línea de Transmisión eléctrica de alta tensión de 66 KV y de 14,33 km de largo, que se conectará a la Subestación existente de la línea Hualte, para luego ser distribuida al Sistema Eléctrico Nacional. El proyecto abarca una superficie de intervención total de 161,55 ha.
+
+Para conocimiento de la comunidad, cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del DS N° 40/2012 y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental de 20 días hábiles, contados a partir del día hábil siguiente de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido a través del sitio web www.sea.gob.cl, así como también podrá acceder a ella en las oficinas de la Dirección Regional del SEA Ñuble, ubicada en calle Vega de Saldías 645, Chillán, en horario de atención entre las 10:00 a 13:00, en días hábiles de lunes a viernes.-
+
+Any Andrea Riveros Aliaga, Directora Regional, Servicio de Evaluación Ambiental Región de Ñuble.
