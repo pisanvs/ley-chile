@@ -44,7 +44,7 @@ Decreto:
 
 #### Artículo 1
 
-Determínese que el aporte estatal a que se refiere el artículo 49 de la ley N° 19.378, que corresponde transferir, por intermedio de la municipalidad respectiva, a todas las entidades administradoras de salud municipal, incluidas las mencionadas en el artículo 2° letra c) y en el artículo 3°, por el período comprendido entre los meses de enero a diciembre del año 2020, ambos meses inclusive, asciende hasta la suma de $ 1.294.074.816.816 (un billón doscientos noventa y cuatro mil setenta y cuatro millones ochocientos dieciséis mil ochocientos dieciséis pesos).
+Determínese que el aporte estatal a que se refiere el artículo 49 de la ley N° 19.378, que corresponde transferir, por intermedio de la municipalidad respectiva, a todas las entidades administradoras de salud municipal, incluidas las mencionadas en el artículo 2° letra c) y en el artículo 3°, por el período comprendido entre los meses de enero a diciembre del año 2020, ambos meses inclusive, asciende hasta la suma de $1.294.282.433.977 (un billón doscientos noventa y cuatro mil doscientos ochenta y dos millones cuatrocientos treinta y tres mil novecientos setenta y siete pesos).
 
 #### Artículo 2
 
@@ -137,6 +137,10 @@ b. Tabla que determina las rebajas según el porcentaje de cumplimiento del indi
 - La rebaja total se calculará sumando las rebajas correspondientes respecto de los porcentajes de cumplimiento, según esquemas precedentes de estrategias de redes integradas de servicios de salud (RISS), de producción, de cobertura efectiva y de impacto.
 
 - La rebaja total al aporte estatal mensual de la respectiva entidad administradora de salud municipal, correspondiente a cada periodo, se aplicará en el mes subsiguiente que corresponda.
+
+No obstante lo anterior, y siempre que existan razones fundadas y debidamente respaldadas, el respectivo Servicio de Salud podrá solicitar al Ministerio de Salud no aplicar, total o parcialmente, la correspondiente rebaja del aporte estatal, por incumplimiento de las metas fijadas para cada comuna, en el año 2020. El Ministerio de Salud analizará los antecedentes y resolverá la petición.
+
+> **Nota.** El literal b) del artículo 1° del Decreto 25, Salud, publicado el 19.05.2021, modifica la presente norma en el sentido de sustituir el contenido del cuadro del literal c) del presente artículo, para los Servicios de Salud, Comunas y el Monto Total de la Asignación de Desempeño Difícil Rural Mensual, Urbano Mensual y Valor Básico Mensual que señala, en la forma que la citada norma indica.
 
 #### Artículo 3
 
