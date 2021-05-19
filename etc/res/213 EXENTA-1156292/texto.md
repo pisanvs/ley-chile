@@ -196,7 +196,7 @@ El puntaje correspondiente al ámbito Intersectorialidad se asignará a cada pos
 
 25. Corresponderá a Serviu generar un procedimiento que permita cautelar el cumplimiento de las condiciones establecidas en la presente resolución, y de las restricciones y requisitos establecidos en el DS Nº 10 (V. y U.), de 2015. Si se detectare cualquier infracción al respecto, se estará a lo establecido en el artículo 65 del DS Nº 10 (V. y U.), de 2015, sin posibilidad de efectuar reemplazos.
 
-26. Los recursos involucrados para la selección ascienden a un total de 20.000 UF destinados a postulantes de las modalidades de Mejoramiento y Ampliación de Viviendas Existentes y Mejoramiento del Entorno y Equipamiento Comunitario.
+26. Los recursos involucrados para la selección ascienden a un total de 24.033,64 UF destinados a postulantes de las modalidades de Mejoramiento y Ampliación de Viviendas Existentes y Mejoramiento del Entorno y Equipamiento Comunitario.
 
 Los recursos indicados en el párrafo anterior podrán disminuir o aumentar con cargo a los recursos asignados la Región de Los Ríos para el Programa de Habitabilidad Rural del año 2021, por resolución del Ministro de Vivienda y Urbanismo, como también podrá determinarse su redistribución por tipología de proyecto.
 
