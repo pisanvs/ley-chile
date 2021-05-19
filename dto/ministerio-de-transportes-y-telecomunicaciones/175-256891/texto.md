@@ -64,7 +64,7 @@ Directiva 74/408/CEE Code of Federal Regulation (CFR) 49 571 - 207 Resolución 8
 
 c. Cinturón de seguridad y sus anclajes
 
-Directiva 77/541/CEE y 76/115/CEE (anclaje) Code of Federal Regulation (CFR) 49 571 - 209 (cinturón) y 49 571 - 210 (anclaje) Resolución 811/96 CONTRAN Anexo I SRRV artículo 22-3 Attachments 31, 32 KMVSS artículo 103
+Reglamento CEPE/ONU Nº14 (anclaje) y Reglamento CEPE/ONU Nº16 (cinturón), ambos de la Comisión Económica para Europa de las Naciones Unidas Code of Federal Regulation (CFR) 49 571 - 208 (protección contra accidentes para ocupantes), 49 571 - 209 (cinturón) y 49 571 - 210 (anclaje) Resolución 445/2013 CONTRAN Anexo V y Resolución 754/2018 CONTRAN SRRV artículo 22-3 Attachments 31, 32 KMVSS artículo 103; y cualquiera de las futuras modificaciones o actualizaciones de las referidas normas.
 
 d. Estabilidad.
 
@@ -148,7 +148,9 @@ Sin perjuicio de la fecha señalada en el artículo 1º precedente, a contar de 
 
 #### Artículo 7º
 
-Los asientos de las carrocerías a que se refiere el presente decreto deberán contar con un cinturón de seguridad del tipo subabdominal, entendiéndose como tal un cinturón que pasa por delante del cuerpo del usuario a la altura de la pelvis y su uso será optativo para los pasajeros.
+Los asientos de las carrocerías a que se refiere el presente decreto deberán contar con un cinturón de seguridad del tipo subabdominal, entendiéndose como tal un cinturón que pasa por delante del cuerpo del usuario a la altura de la pelvis y su uso será obligatorio para los pasajeros.
+
+En todo caso, los buses con que se presten servicios interurbanos de transporte público o privado de pasajeros, entendiéndose como tales, respectivamente, aquellos servicios que se definen en el decreto supremo Nº 212, de 1992, y en el decreto supremo Nº 80 de 2004, ambos del Ministerio de Transportes y Telecomunicaciones, y cuya primera inscripción en el Registro Nacional de Servicios de Transporte de Pasajeros se solicite a contar del 1º de septiembre de 2021, deberán contar con cinturón de seguridad de tres puntos en sus asientos, salvo aquellos que exceptúen las propias normas que se apliquen, referidas en la letra c. del artículo 3º del presente reglamento, los que no obstante, deberán contar un cinturón de seguridad del tipo subabdominal. Su uso será obligatorio para los pasajeros.
 
 Anótese tómese razón y publíquese.- Por orden de la Presidenta de la República, Sergio Espejo Yaksic, Ministro de Transportes y Telecomunicaciones.
 
