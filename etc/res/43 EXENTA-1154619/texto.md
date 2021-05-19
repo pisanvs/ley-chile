@@ -64,7 +64,7 @@ Asimismo, en las aduanas sanitarias se verificará el cumplimiento de las medida
 
 ### II. Aislamientos en razón a horarios determinados
 
-5. Aislamiento nocturno. Prohíbase a los habitantes de la República salir a la vía pública, como medida de aislamiento, entre las 21:00 y 05:00 horas, según el huso horario correspondiente a la localidad que se trate, salvo aquellas personas que cuenten con salvoconductos individuales o permisos que lo autoricen en virtud del Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Esta medida será ejecutada de acuerdo a las instrucciones que impartan al efecto los Jefes de la Defensa Nacional de las distintas regiones.
+5. Aislamiento nocturno. Prohíbase a los habitantes de la República salir a la vía pública, como medida de aislamiento, entre las 22:00 y 05:00 horas, según el huso horario correspondiente a la localidad que se trate, salvo aquellas personas que cuenten con salvoconductos individuales o permisos que lo autoricen en virtud del Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Esta medida será ejecutada de acuerdo a las instrucciones que impartan al efecto los Jefes de la Defensa Nacional de las distintas regiones.
 
 6. Prohibición de actividades y reuniones sociales en horario de aislamiento nocturno. Asimismo, se prohíbe la realización o participación en eventos y actividades sociales y recreativas en el horario señalado en el numeral anterior.
 
