@@ -40,11 +40,11 @@ Resolución:
 
 1. Llámase a postulación en condiciones especiales a los arrendatarios a quienes, contando o no con Registro Social de Hogares, su contrato de trabajo se haya suspendido, hayan quedado cesantes o sus ingresos hayan disminuido en a lo menos un 30%, para el otorgamiento de subsidios habitacionales del Programa de Subsidio de Arriendo de Vivienda, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013. Los Servicios de Vivienda y Urbanización (Serviu) procederán directamente, o a través de los medios electrónicos que se establezcan al efecto, a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deban acompañarlas.
 
-2. Las postulaciones se recibirán a partir de la fecha de publicación en el Diario Oficial de la presente resolución y hasta el 30 de julio de 2021, efectuándose cinco procesos de selección durante los meses de abril, mayo, junio, julio y agosto. Quienes no sean considerados en una selección, continuarán postulando y podrán ser contemplados en el siguiente proceso.
+2. Las postulaciones se recibirán a partir de la fecha de publicación en el Diario Oficial de la presente resolución y hasta el 31 de mayo de 2021, efectuándose tres procesos de selección durante los meses de abril, mayo y junio. Quienes no sean considerados en una selección, continuarán postulando y podrán ser contemplados en el siguiente proceso.
 
 3. Para postular al llamado a que se refiere el numeral 1. de esta resolución exenta, los postulantes deberán cumplir con las siguientes condiciones:
 
-3.1 Si cuenta con Registro Social de Hogares (RSH), debe declarar el Núcleo Familiar con el que postula cuyos integrantes pueden o no formar parte de dicho registro, indicando el nombre, número de su cédula de identidad, edad y parentesco.
+3.1. Si cuenta con Registro Social de Hogares (RSH), debe declarar Núcleo Familiar de acuerdo con la información que dicho registro indica.
 
 3.2. Si no cuenta con RSH el postulante deberá declarar el núcleo familiar con el que postula, indicando el nombre, número de su cédula de identidad, edad y parentesco. En este caso, los ingresos anteriores a la rebaja o a la cesantía no podrán superar los $2.000.000 (dos millones de pesos) líquidos.
 
@@ -140,9 +140,7 @@ Valor subsidio = (Renta de arrendamiento del contrato por 0,7) menos (subsidio m
 
 15. El monto mensual máximo del subsidio destinado a cada beneficiado será de hasta $250.000.- (doscientos cincuenta mil pesos) en su equivalente a Unidades de Fomento (UF) a la fecha del día 1º del mes del pago, por un monto total de hasta $750.000.- (setecientos cincuenta mil pesos), este valor se ajustará de manera que siempre exista un copago mínimo de un 30% de la renta de arrendamiento fijada en el contrato. El subsidio será destinado a apoyar tres meses de renta y el pago de las tres cuotas se realizará de una sola vez vía transferencia directa a la cuenta del arrendador o su representante registrada al momento de la postulación. En el caso de los beneficiarios del Programa de Subsidio de Arriendo de Vivienda regular, a que se refiere el resuelvo 10, que resulten beneficiados y, de aquellos postulantes seleccionados por el presente llamado, a cuyos arrendadores no se pueda hacer la transferencia por error en los datos de la cuenta en la que se debe realizar el depósito respectivo, a que se refiere el resuelvo 3.5, el pago se realizará directamente al beneficiario.
 
-16. El monto total de los recursos que se destinarán al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de hasta 1.044.624 UF, correspondientes a 50.564 subsidios, los que se distribuirán según la tabla que se presenta a continuación, pudiendo practicarse mediante Resolución modificaciones, o incrementos de recursos, así como ser redistribuidos en las regiones incluidas en este llamado:
-
-.
+16. El monto total de los recursos que se destinarán al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de hasta 1.050.000 UF, correspondientes a 50.000 subsidios, los que se distribuirán según la tabla que se presenta a continuación, pudiendo practicarse mediante Resolución modificaciones, o incrementos de recursos, así como ser redistribuidos en las regiones incluidas en este llamado:
 
 17. Establécese que no se considerarán los factores de puntajes dispuestos en las letras f., g., h., i. y j., del artículo 25 del DS Nº 52 (V. y U.), de 2013 y, para el caso de los postulantes que no cuenten con RSH, no se considerarán, además, los puntajes dispuestos en las letras b., k. y l., del mismo artículo mencionado.
 
