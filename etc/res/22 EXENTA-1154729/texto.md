@@ -22,7 +22,7 @@ Resuelvo:
 
 .
 
-2° Déjase Constancia que el monto máximo del estipendio para el año 2021 será de $29.682 (veintinueve mil seiscientos ochenta y dos pesos), según lo dispuesto en el artículo 7° del decreto supremo N° 28, de 2016, del entonces Ministerio de Desarrollo Social, que aprueba reglamento para la Ejecución de la Asignación Programa Pago Cuidadores de Personas con Discapacidad.
+2° Déjase Constancia que el monto máximo del estipendio para el año 2021 será de $29.692 (veintinueve mil seiscientos noventa y dos pesos), según lo dispuesto en el artículo 7° del decreto supremo N° 28, de 2016, del entonces Ministerio de Desarrollo Social, que aprueba reglamento para la Ejecución de la Asignación Programa Pago Cuidadores de Personas con Discapacidad.
 
 3° Los subsidios se pagarán con cargo a los recursos consultados en la Partida 21, Capítulo 01, Programa 01, Subtítulo 24, Ítem 03, Asignación 352, Glosas 14 y 21 de la ley N° 21.289, de Presupuestos del Sector Público del año 2021.
 
