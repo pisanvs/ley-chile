@@ -12,10 +12,6 @@ Ratifíquese y téngase por aprobada como Norma Técnica, emitida en aplicación
 
 > **Nota.** NOTA 1 El N° 1 del Decreto 28 Exento, Salud, publicado el 30.12.2020, dispone actualizar la presente norma, en el sentido de incorporar su nuevo texto que está conformado por un documento principal y seis anexos, sin embargo, sólo publica el contenido del Anexo N° 6.
 
-> **Nota.** NOTA 2 El numeral 1 del Nº 1 del Decreto 36 Exento, Salud, publicado el 19.06.2025, dispone modificar la presente norma en el sentido de incorporar el Anexo N° 7. "Agua para Uso Farmacéutico", nuevo. Sin embargo, no se publica el contenido del citado anexo, por lo que no se puede incorporar en el presente texto actualizado.
-
-> **Nota.** NOTA 3 El artículo primero del Decreto 26 Exento, del Ministerio de Salud, publicado el 02.04.2026, ordena reemplazar el actual Anexo N° 2, “Buenas Prácticas de Manufactura para Productos Farmacéuticos Estériles”, por el nuevo texto que se aprueba mediante dicho decreto, sin embargo, ni el anexo vigente ni su nuevo texto fueron publicados en el Diario Oficial, por lo que no es posible incorporar su contenido en el presente texto.
-
 #### Artículo segundo
 
 Una copia debidamente visada de la norma técnica que se aprueba y de este decreto, se mantendrá en el Departamento de Políticas Farmacéuticas y Profesiones Médicas de la División de Políticas Públicas Saludables y Promoción de la Subsecretaría de Salud Pública, entidad que a su vez deberá velar por su oportuna publicación en la página web del Ministerio de Salud, www.minsal.cl, para su adecuado conocimiento y difusión, debiendo además asegurar que las copias y reproducciones que se emitan, guarden estricta concordancia con el texto original aprobado.
