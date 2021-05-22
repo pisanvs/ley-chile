@@ -26,7 +26,7 @@ Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguient
 
 #### Artículo 1
 
-Durante los doscientos setenta días siguientes a la publicación de esta ley, las empresas proveedoras de servicios sanitarios, empresas y cooperativas de distribución de electricidad y las empresas de distribución de gas de red no podrán cortar el suministro por mora en el pago a las personas, usuarios y establecimientos, en adelante usuarios, clientes o beneficiarios, que a continuación se indican:
+Hasta el 31 de diciembre de 2021, las empresas proveedoras de servicios sanitarios, empresas y cooperativas de distribución de electricidad y las empresas de distribución de gas de red no podrán cortar el suministro por mora en el pago a las personas, usuarios y establecimientos, en adelante usuarios, clientes o beneficiarios, que a continuación se indican:
 
 a) Usuarios residenciales o domiciliarios.
 
@@ -50,7 +50,7 @@ Se excluye de la aplicación de la presente ley a las empresas sanitarias con me
 
 #### Artículo 2
 
-Las deudas contraídas con las empresas de servicios sanitarios, empresas y cooperativas de distribución de electricidad y empresas de gas de red, que se generen entre el 18 de marzo de 2020 y hasta los doscientos setenta días posteriores a la publicación de esta ley, se prorratearán en el número de cuotas mensuales iguales y sucesivas que determine el usuario final a su elección, las que no podrán exceder de treinta y seis, a partir de la facturación siguiente al término de este último plazo, y no podrán incorporar multas, intereses ni gastos asociados.
+Las deudas contraídas con las empresas de servicios sanitarios, empresas y cooperativas de distribución de electricidad y empresas de gas de red, que se generen entre el 18 de marzo de 2020 y hasta el 31 de diciembre de 2021, se prorratearán en el número de cuotas mensuales iguales y sucesivas que determine el usuario final a su elección, las que no podrán exceder de cuarenta y ocho, a partir de la facturación siguiente al término de este último plazo, y no podrán incorporar multas, intereses ni gastos asociados.
 
 Adicionalmente, a elección del usuario final, el prorrateo podrá incluir deudas generadas antes de las contraídas según lo señalado en el inciso anterior, hasta el monto de diez unidades de fomento para las empresas distribuidoras y cooperativas de electricidad y hasta el monto de cinco unidades de fomento para las empresas de servicios sanitarios y de distribución de gas de red, en las mismas condiciones.
 
@@ -58,7 +58,7 @@ Adicionalmente, a elección del usuario final, el prorrateo podrá incluir deuda
 
 Solo podrán acogerse a lo dispuesto en el artículo 2 los clientes finales que cumplan con, al menos, uno de los siguientes requisitos:
 
-a) Encontrarse dentro del 60 por ciento de vulnerabilidad, de conformidad al Registro Social de Hogares.
+a) Encontrarse dentro del 80 por ciento de vulnerabilidad, de conformidad al Registro Social de Hogares.
 
 b) Tener la calidad de adulto mayor, de acuerdo a la ley N° 19.828, que crea el Servicio Nacional del Adulto Mayor.
 
@@ -96,9 +96,9 @@ Las infracciones de lo dispuesto en la presente ley serán sancionadas de confor
 
 #### Artículo 7
 
-Durante los doscientos setenta días siguientes a la publicación de esta ley, las empresas generadoras y transmisoras de energía eléctrica, deberán continuar proveyendo con normalidad sus servicios a las empresas distribuidoras domiciliarias de energía y a las cooperativas eléctricas.
+Hasta el 31 de diciembre de 2021, las empresas generadoras y transmisoras de energía eléctrica, deberán continuar proveyendo con normalidad sus servicios a las empresas distribuidoras domiciliarias de energía y a las cooperativas eléctricas.
 
-Dentro del plazo comprendido entre los treinta días previos a la publicación de esta ley y los doscientos setenta días posteriores a ella, de manera excepcional, el pago de las cooperativas eléctricas a las empresas generadoras y transmisoras podrá ser realizado en cuotas, en el mismo número de meses en que se prorratearán las cuentas de sus beneficiarios, sin multas, intereses ni gastos asociados.
+Dentro del plazo comprendido entre los treinta días previos a la publicación de esta ley y el 31 de diciembre de 2021, de manera excepcional, el pago de las cooperativas eléctricas a las empresas generadoras y transmisoras podrá ser realizado en cuotas, en el mismo número de meses en que se prorratearán las cuentas de sus beneficiarios, sin multas, intereses ni gastos asociados.
 
 #### Artículo 8
 
@@ -112,7 +112,11 @@ Quince días antes del vencimiento del plazo establecido en el inciso primero de
 
 #### Artículo 10
 
-Las empresas de servicios sanitarios, empresas y cooperativas de distribución de electricidad y empresas de gas de red deberán informar en sus sitios web y en las cuentas, ya sean físicas o virtuales, la deuda que mantiene el usuario por la aplicación de esta normativa, de haberla, y la forma cómo podría prorratearse, de 1 a 36 cuotas.
+Las empresas de servicios sanitarios, empresas y cooperativas de distribución de electricidad y empresas de gas de red deberán informar en sus sitios web y en las cuentas, ya sean físicas o virtuales, la deuda que mantiene el usuario por la aplicación de esta normativa, de haberla, y la forma cómo podría prorratearse, de 1 a 48 cuotas.
+
+#### Artículo 11
+
+Cumplido el plazo indicado en los artículos 1, 2 y 7, si aún se encontrare vigente la declaración de Estado de Excepción Constitucional de Catástrofe por pandemia de Covid 19, declarado en el decreto 104, de 18 de marzo de 2020, del Ministerio del Interior y Seguridad Pública, y sus prórrogas, dichos plazos se extenderán hasta 60 días desde terminado dicho estado de excepción constitucional.
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 
