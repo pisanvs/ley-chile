@@ -1,0 +1,25 @@
+CERTIFICADO
+
+Certifico que por resolución Nº E-245, de fecha 11 de mayo de 2021, se aprobó la reforma introducida a los estatutos de Administradora de Fondos de Pensiones Uno S.A., acordada en tercera junta extraordinaria de accionistas, celebrada el día 23 de marzo de 2021, cuya acta se redujo a escritura pública con fecha 26 de marzo de 2021, ante la Notario Público de Santiago, doña Mary Carmen Encina Lorca, suplente de doña Susana Belmonte Aguirre.
+
+Extracto:
+
+La junta, con el voto unánime de las acciones con derecho a voto asistentes a la sesión, acordó, entre otros acuerdos:
+
+1. Aumentar el capital de la sociedad por un monto de diez mil millones diez pesos en acciones nominativas, de una misma serie y sin valor nominal, por lo que el capital social alcanzará a veinte mil trescientos setenta y tres millones setecientos noventa y nueve mil quinientos cincuenta pesos dividido en un mil seiscientos cincuenta y ocho millones setecientos sesenta y nueve mil diez acciones ordinarias, de una misma serie, nominativas y sin valor nominal.
+
+2. La Junta por unanimidad aprobó el mecanismo de oferta de opción preferente de dichas acciones en la forma propuesta y el procedimiento de colocación de acciones no suscritas por los accionistas, una vez terminado el período de opción preferente.
+
+3. Conforme a lo anterior, modificar los artículos Quinto del Título Segundo. Capital y Acciones; y el artículo Primero Transitorio, de los estatutos sociales, por los siguientes:
+
+## Título Segundo — Capital y Acciones. Artículo Quinto: El capital de la sociedad es la suma de veinte mil trescientos setenta y tres millones setecientos noventa y nueve mil quinientos cincuenta pesos, dividido en un mil seiscientos cincuenta y ocho millones setecientos sesenta y nueve mil diez acciones ordinarias, de una misma serie, nominativas y sin valor nominal.".
+
+#### Artículo Primero
+
+Transitorio: El capital social de la sociedad es la suma de veinte mil trescientos setenta y tres millones setecientos noventa y nueve mil quinientos cincuenta pesos, dividido en un mil seiscientos cincuenta y ocho millones setecientos sesenta y nueve mil diez acciones ordinarias, de una misma serie, nominativas y sin valor nominal, es suscrito y pagado en la siguiente forma: Uno: Con la suma de diez mil trescientos setenta y tres millones setecientos noventa y nueve mil quinientos cuarenta pesos, dividido en novecientos cuarenta y cuatro millones cuatrocientos ochenta y tres mil doscientos noventa y cinco acciones ordinarias, de una misma serie, nominativas y sin valor nominal, pagadas por los accionistas con anterioridad al veintitrés de marzo de dos mil veintiuno. Dos: Con la suma de diez mil millones diez pesos, divididos en setecientos catorce millones doscientos ochenta y cinco mil setecientos quince de acciones de pago, todas de una misma serie y sin valor nominal, correspondientes a un aumento de capital acordado en Junta Extraordinaria de Accionistas de la sociedad de fecha veintitrés de marzo de dos mil veintiuno, las que deberán suscribirse y pagarse al contado y en dinero en efectivo en el plazo máximo de tres años contados desde la fecha en que la Superintendencia de Pensiones emita la resolución que apruebe el citado aumento de capital.".
+
+4. Facultar al Presidente del Directorio, para dar curso al proceso de emisión y colocación de las acciones, quien podrá delegar esta facultad en el Gerente General de la sociedad.
+
+5. Facultar a don Teo Colombo Santórsola y a doña Mabel Morales Canales para que procedan a reducir a escritura pública el todo o las partes pertinentes del acta de la Junta Extraordinaria de Accionistas de la sociedad de fecha veintitrés de marzo de dos mil veintiuno, una vez que la misma se encuentre firmada por las personas designadas al efecto y para efectuar todos los trámites necesarios para solicitar a la Superintendencia de Pensiones su aprobación a la reforma de estatutos acordada, aceptar eventuales aclaraciones o correcciones que dicha Superintendencia, para lo cual podrán realizar todos los trámites necesarios, incluyendo la suscripción de escrituras públicas y practicar las inscripciones y anotaciones que se requieran, bastando sólo al efecto que la acta de la junta extraordinaria de accionistas se encuentre firmada por las personas designadas al efecto. Finalmente, se acordó facultar al portador de copia autorizada de la escritura en la cual conste la aludida Junta, para requerir las inscripciones que procedan en el Registro de Accionistas de la sociedad y para requerir las publicaciones e inscripciones que procedan respecto del certificado que la Superintendencia de Pensiones emita otorgando la aprobación del aumento de capital y de la reforma de estatutos.
+
+Santiago, 13 de mayo de 2021.- Osvaldo Macías Muñoz, Superintendente de Pensiones.
