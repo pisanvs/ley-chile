@@ -44,6 +44,8 @@ Dicho proceso de planificación tiene por objeto entregar escenarios energético
 
 El proceso de planificación energética de largo plazo deberá incluir escenarios de proyección de oferta y demanda energética y en particular eléctrica, considerando la identificación de polos de desarrollo de generación eléctrica, generación distribuida, intercambios internacionales de energía, políticas medioambientales que tengan incidencia y los objetivos de eficiencia energética, entre otros, elaborando sus posibles escenarios de desarrollo, conforme a lo dispuesto en el presente reglamento. Asimismo, la planificación deberá considerar dentro de sus análisis los planes estratégicos con los que cuenten las regiones en materia de energía.
 
+En el proceso de planificación energética de largo plazo, se deberá realizar una optimización conjunta de las expansiones proyectadas en generación eléctrica, sistemas de almacenamiento de energía y en los sistemas de transmisión eléctrica, de manera que los costos totales de inversión de dichas expansiones y de operación del sistema eléctrico sean considerados en la proyección de la oferta energética requerida para suplir la demanda proyectada de manera eficiente.
+
 ## Capítulo 2
 
 Definiciones
@@ -66,25 +68,29 @@ f) Escenario Energético: Escenario que permite abastecer la o las proyecciones 
 
 g) Evaluación Ambiental Estratégica o EAE: Procedimiento al que se refiere el literal i bis) del artículo 2° de la Ley 19.300.
 
-h) Informe Final: Informe emitido por el Ministerio de Energía que contiene los resultados del Proceso de Planificación, incluyendo la identificación de los Escenarios Energéticos y sus respectivos Polos de Desarrollo de Generación Eléctrica, conforme a lo dispuesto en el presente reglamento.
+h) Informe de Actualización de Antecedentes: Informe emitido anualmente por el Ministerio de Energía, que contiene un análisis comparativo entre la proyección de la demanda, los escenarios macroeconómicos y los demás antecedentes considerados en los Escenarios Energéticos definidos en el Decreto de Planificación Energética vigente y las señaladas variables a la fecha del análisis, con el objetivo de definir y cuantificar las diferencias, identificar el impacto sobre los Escenarios Energéticos contenidos en el Informe Definitivo y la pertinencia de actualizar los antecedentes que correspondan, así como las respectivas proyecciones de oferta y demanda energética.
 
-i) Informe Preliminar: Informe emitido por el Ministerio de Energía, que contiene los resultados preliminares del Proceso de Planificación a que se refiere el inciso primero del artículo 84° de la Ley y el artículo 13 del presente reglamento.
+i) Informe Definitivo: Informe emitido por el Ministerio de Energía que incorpora las observaciones realizadas por los inscritos en el Registro de Interesados al Informe Final que hubiesen sido acogidas.
 
-j) Informe Técnico: Informe técnico emitido por el Ministerio de Energía al que se refiere el inciso tercero del artículo 85° de la Ley.
+j) Informe Final: Informe emitido por el Ministerio de Energía que contiene los resultados del Proceso de Planificación, incluyendo la identificación de los Escenarios Energéticos y sus respectivos Polos de Desarrollo de Generación Eléctrica, conforme a lo dispuesto en el presente reglamento.
 
-k) Ley o Ley General de Servicios Eléctricos: Decreto con fuerza de ley Nº 4/20.018, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, que fija texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 1, de Minería, de 1982, Ley General de Servicios Eléctricos, en materia de energía eléctrica, y sus modificaciones posteriores o disposición que la reemplace.
+k) Informe Preliminar: Informe emitido por el Ministerio de Energía, que contiene los resultados preliminares del Proceso de Planificación a que se refiere el inciso primero del artículo 84° de la Ley y el artículo 13 del presente reglamento.
 
-l) Ley 19.300: Ley Nº 19.300, sobre Bases Generales del Medio Ambiente.
+l) Informe Técnico: Informe técnico emitido por el Ministerio de Energía al que se refiere el inciso tercero del artículo 85° de la Ley.
 
-m) Ministerio: Ministerio de Energía.
+m) Ley o Ley General de Servicios Eléctricos: Decreto con fuerza de ley Nº 4/20.018, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, que fija texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 1, de Minería, de 1982, Ley General de Servicios Eléctricos, en materia de energía eléctrica, y sus modificaciones posteriores o disposición que la reemplace.
 
-n) Personas Interesadas: Personas naturales o jurídicas que tengan interés en participar en el proceso de planificación energética de largo plazo y que se encuentren inscritas en el Registro de Interesados.
+n) Ley 19.300: Ley Nº 19.300, sobre Bases Generales del Medio Ambiente.
 
-o) Polos de Desarrollo de Generación Eléctrica: Aquellas zonas territorialmente identificables en el país, ubicadas en las regiones en las que se emplaza el sistema eléctrico nacional, donde existen recursos para la producción de energía eléctrica proveniente de energías renovables, cuyo aprovechamiento, utilizando un único sistema de transmisión, resulta de interés público por ser eficiente económicamente para el suministro eléctrico, debiendo cumplir con la legislación ambiental y de ordenamiento territorial.
+o) Ministerio: Ministerio de Energía.
 
-p) Proceso de Planificación: Proceso de planificación energética de largo plazo al que se refieren los artículos 83° y siguientes de la Ley.
+p) Personas Interesadas: Personas naturales o jurídicas que tengan interés en participar en el proceso de planificación energética de largo plazo y que se encuentren inscritas en el Registro de Interesados.
 
-q) Registro de Interesados: Registro de participación ciudadana al que se refiere el artículo 84° de la Ley, el que deberá ser electrónico, y en el que se podrá inscribir toda persona natural o jurídica con interés en participar en el Proceso de Planificación, conforme a las normas que establezca el Ministerio por resolución dictada al efecto.
+q) Polos de Desarrollo de Generación Eléctrica: Aquellas zonas territorialmente identificables en el país, ubicadas en las regiones en las que se emplaza el sistema eléctrico nacional, donde existen recursos para la producción de energía eléctrica proveniente de energías renovables, cuyo aprovechamiento, utilizando un único sistema de transmisión, resulta de interés público por ser eficiente económicamente para el suministro eléctrico, debiendo cumplir con la legislación ambiental y de ordenamiento territorial.
+
+r) Proceso de Planificación: Proceso de planificación energética de largo plazo al que se refieren los artículos 83° y siguientes de la Ley.
+
+s) Registro de Interesados: Registro de participación ciudadana al que se refiere el artículo 84° de la Ley, el que deberá ser electrónico, y en el que se podrá inscribir toda persona natural o jurídica con interés en participar en el Proceso de Planificación, conforme a las normas que establezca el Ministerio por resolución dictada al efecto.
 
 ## Título II
 
@@ -138,7 +144,7 @@ a) Nombre o razón social;
 
 b) Copia del rol único tributario o de la cédula nacional de identidad de la persona jurídica o natural interesada;
 
-c) Copia de la escritura de constitución o del acto administrativo o antecedente que otorga su personalidad jurídica y de sus modificaciones, si las hubiere, así como de sus estatutos vigentes y de su inscripción en el registro correspondiente, con certificado de vigencia no anterior a 30 días contados desde la fecha de presentación de la solicitud;
+c) Certificado de vigencia de la persona jurídica no anterior a 30 días contados desde la fecha de presentación de la solicitud;
 
 d) Copia de la personería del representante legal de la persona jurídica, con certificado de vigencia;
 
@@ -244,7 +250,7 @@ El proceso de EAE culminará con una resolución de término dictada por el Mini
 
 #### Artículo 17
 
-Al término del o los procesos de EAE conforme a lo indicado en el artículo anterior, y en base a los análisis realizados, el Ministerio deberá emitir un Informe Final que identificará, al menos, los Escenarios Energéticos e incluirá el o los Polos de Desarrollo de Generación Eléctrica, identificados en el o los Informes Técnicos que resultan de interés público por ser eficientes económicamente para el suministro eléctrico, y que cumplen con la legislación ambiental y de ordenamiento territorial. El Informe Final y sus antecedentes de respaldo serán publicados en el sitio web del Ministerio y enviado por correo electrónico a las Personas Interesadas.
+Al término del o los procesos de EAE conforme a lo indicado en el artículo anterior, y en base a los análisis realizados, el Ministerio deberá emitir un Informe Final que identificará, al menos, los Escenarios Energéticos e incluirá el o los Polos de Desarrollo de Generación Eléctrica, identificados en el o los Informes Técnicos que resultan de interés público por ser eficientes económicamente para el suministro eléctrico, y que cumplen con la legislación ambiental y de ordenamiento territorial. Para la identificación de la zona a ser definida como Polo de Desarrollo de Generación Eléctrica, el Ministerio podrá considerar criterios tales como, la disponibilidad de recursos para la producción de energía eléctrica proveniente de energías renovables, la tecnología de centrales de generación existentes o proyectos de generación futuros en dicha zona, la ubicación de los mismos respecto a instalaciones de transmisión eléctrica existentes o futuras y el estado de desarrollo de proyectos de transmisión o generación relevantes para dicha zona. El Informe Final y sus antecedentes de respaldo serán publicados en el sitio web del Ministerio y enviado por correo electrónico a las Personas Interesadas.
 
 El Informe Final contendrá, al menos, el horizonte de planificación estudiado; las proyecciones de oferta y de demanda energética utilizadas, en particular la eléctrica; la información territorial y ambiental existente que fue utilizada durante el proceso; los criterios, antecedentes y datos empleados para la construcción de los Escenarios Energéticos; los resultados de las simulaciones, cálculos y análisis hechos para la identificación de los Escenarios Energéticos; las respuestas a las observaciones formuladas al Informe Preliminar y que no fueron acogidas; y la identificación de los Escenarios Energéticos, incluyendo el o los Polos de Desarrollo de Generación Eléctrica identificados en el Informe Técnico.
 
@@ -264,15 +270,15 @@ Las observaciones al Informe Final serán remitidas por vía electrónica a la d
 
 #### Artículo 20
 
-Dentro de los 30 días siguientes al vencimiento del plazo señalado en el artículo anterior, el Ministerio deberá publicar en su sitio web el Informe Final corregido producto de las observaciones que hubieran sido acogidas si corresponde, y un documento que contenga las respuestas a las observaciones formuladas y que no fueron acogidas, conforme lo señalado en el artículo anterior.
+Dentro de los 30 días siguientes al vencimiento del plazo señalado en el artículo anterior, el Ministerio deberá publicar en su sitio web el Informe Definitivo, y un documento que contenga las respuestas a las observaciones formuladas y que no fueron acogidas, conforme lo señalado en el artículo anterior.
 
 #### Artículo 21
 
-Una vez publicado el Informe Final conforme a lo indicado anteriormente, el Ministerio expedirá el Decreto de Planificación Energética, en el que definirá los Escenarios Energéticos y sus respectivos Polos de Desarrollo de Generación Eléctrica conforme a lo dispuesto en el artículo 86° de la Ley, el que será publicado en el Diario Oficial.
+Una vez publicado el Informe Definitivo conforme a lo indicado en el artículo anterior, el Ministerio expedirá el respectivo Decreto de Planificación Energética, en el que definirá un máximo de cinco Escenarios Energéticos y sus respectivos Polos de Desarrollo de Generación Eléctrica conforme a lo dispuesto en el artículo 86º de la Ley, el que será publicado en el Diario Oficial.
 
 #### Artículo 22
 
-Anualmente, el Ministerio podrá actualizar la proyección de la demanda energética, los escenarios macroeconómicos, y los demás antecedentes considerados en los Escenarios Energéticos definidos en el decreto a que hace referencia el artículo anterior, lo que será comunicado mediante correo electrónico a los inscritos en el Registro de Interesados y publicado en el sitio web del Ministerio junto con la metodología utilizada para permitir la reproducción de los análisis realizados. Asimismo, en caso de que el Ministerio realice las señaladas actualizaciones, deberá comunicarlo a la Comisión, para los efectos de la planificación de la transmisión a la que se refieren los artículos 87° y siguientes de la Ley.
+El Ministerio podrá emitir, durante el mes de abril de cada año, un Informe de Actualización de Antecedentes, lo que será comunicado mediante correo electrónico a los inscritos en el Registro de Interesados y publicado en el sitio web del Ministerio junto con la metodología utilizada para permitir la reproducción de los análisis realizados. En caso de que el Ministerio emita el señalado informe, deberá comunicarlo a la Comisión, dentro de los cinco días siguientes a su publicación, para los efectos de que ésta lo considere en la planificación de la transmisión a la que se refieren los artículos 87º y siguientes de la Ley.
 
 Si con motivo de las actualizaciones antes mencionadas se modifican los Escenarios Energéticos definidos en el decreto de Planificación vigente, el Ministerio podrá desarrollar el Proceso de Planificación antes del vencimiento del plazo correspondiente, conforme a lo dispuesto en el artículo 5° del presente reglamento.
 
