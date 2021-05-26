@@ -36,6 +36,8 @@ A la notificación de los cargos se acompañará conjuntamente una copia en form
 
 El fiscal instructor mediante acto fundado podrá conceder dicha suspensión, la cual no excederá del periodo establecido en el numeral 6° de la presente resolución.
 
+Si la suspensión concedida se extendiera por más de 3 meses, el fiscal podrá dejarla sin efecto, mediante acto fundado, el que deberá ser notificado a los inculpados, los que deberán evacuar sus descargos y/o rendir la prueba que se hubiere decretado diligenciar, dentro del plazo de 10 días hábiles siguientes a la notificación del acto que dispone el alzamiento de la suspensión, el que podrá prorrogarse hasta por otros 5 días, a petición del interesado.
+
 4°. Las diligencias probatorias que sean solicitadas por el inculpado se gestionarán, rendirán e incorporarán al expediente por medios electrónicos y/o digitales.
 
 5°. La resolución N° 510, de 2013, de este origen, se mantiene plenamente vigente en todo lo no modificado por la presente resolución.
