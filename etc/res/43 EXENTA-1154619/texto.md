@@ -320,6 +320,20 @@ b. Personas que no puedan cumplir con las medidas de aislamiento o cuarentena qu
 
 Aquellas personas que se encuentran en el literal a) de este numeral quedarán sujetas, además, a las sanciones dispuestas en el Libro X del Código Sanitario y en el Código Penal cuando corresponda.
 
+### XIII. Del Pase de Movilidad
+
+44 bis. Requisitos. Las personas podrán obtener el Pase de Movilidad cumpliendo copulativamente los siguientes requisitos:
+
+a) Haber completado el esquema de vacunación contra SARS-CoV-2 en Chile hace al menos 14 días, y
+
+b) No estar afecto a la medida de cuarentena o aislamiento en virtud de lo dispuesto en los numerales 9, 10, 11 y 13 de esta resolución, o por cualquiera de las causales dispuestas en la resolución exenta Nº 997, de 2020, del Ministerio de Salud.
+
+Para acreditar el cumplimiento de dichos requisitos el solicitante deberá obtener un comprobante de vacunación contra el SARS-Cov-2, el que está disponible en el sitio web https://mevacuno.gob.cl//.
+
+44 ter. De los efectos. El Pase de Movilidad habilitado eximirá de las restricciones que explícitamente se señalen en los actos administrativos de la autoridad sanitaria.
+
+44 quáter. Para efectos de verificar si un Pase de Movilidad está habilitado, se deberá exhibir a la autoridad correspondiente el comprobante de vacunación a que hace referencia el numeral 44 bis precedente.
+
 CAPÍTULO II. MEDIDAS PLAN "PASO A PASO"
 
 ### I. Disposiciones preliminares
@@ -341,6 +355,8 @@ Paso 5: Apertura Avanzada.
 46. Desplazamiento en cuarentena. Para el desplazamiento de personas desde y hacia localidades que se encuentren en cuarentena y dentro de ellas, se estará a lo dispuesto en el Instructivo para Permisos de Desplazamiento del que trata el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace. Lo mismo regirá para el desplazamiento de personas desde y hacia localidades que se encuentren en Transición y dentro de ellas, los días sábados, domingos y festivos.
 
 Dicho instructivo contempla, además, las formas y condiciones para la obtención de los permisos de desplazamiento por parte de las personas exceptuadas del cumplimiento de la medida de aislamiento o cuarentena.
+
+Podrán desplazarse libremente, sin necesidad de permiso de desplazamiento, quienes sean titulares de un Pase de Movilidad habilitado. Asimismo, los menores de edad no considerados en el proceso de vacunación, podrán desplazarse libremente en compañía de su padre, madre o tutor, que sea titular de un Pase de Movilidad habilitado.
 
 47. Definiciones. Para efectos de este capítulo, se entenderá por:
 
@@ -412,13 +428,15 @@ Estos espacios tendrán un aforo máximo de 1 persona por cada 8 metros cuadrado
 
 62. Del traslado interregional. Prohíbanse los traslados interregionales desde y hacia localidades que se encuentren en "Paso 2: Transición".
 
-Exceptúanse de la medida de este numeral a las personas mayores de 65 años y los enfermos crónicos. Sin perjuicio de lo anterior, en caso que estas personas decidan permanecer en un lugar distinto a su domicilio particular habitual, deberán estar en cuarentena por un tiempo indefinido.
+Exceptúanse de la medida de este numeral a las personas mayores de 65 años y los enfermos crónicos.
 
 Asimismo, exceptúanse de la medida de este numeral a aquellas personas que, teniendo su residencia habitual en una localidad en "Paso 2: Transición" no puedan cumplir con las medidas de aislamiento o cuarentena obligatoria señaladas en los numerales 9 al 13 de la presente resolución.
 
 Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir sus obligaciones laborales en una localidad distinta a su residencia habitual y cuenten con el permiso correspondiente del Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
 Asimismo, se exceptúan aquellas personas que cuenten con un permiso para dichos efectos, según lo dispuesto en el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+
+Exceptúase de lo dispuesto en este numeral aquellas personas que sean titulares de un Pase de Movilidad habilitado. Asimismo, los menores de edad no considerados en el proceso de vacunación, podrán exceptuarse de lo dispuesto en este numeral en compañía de su padre, madre o tutor, que sea titular de un Pase de Movilidad habilitado.
 
 63. De los eventos particulares. Se permiten las reuniones en domicilios particulares con un máximo de 5 personas, incluyendo a sus residentes. En caso de que en el domicilio vivan 5 o más personas, no podrán recibir visitas. Este tipo de reuniones sólo estarán permitidas de lunes a viernes y fuera del horario de aislamiento nocturno.
 
@@ -480,11 +498,13 @@ Sin perjuicio de lo dispuesto precedentemente, en el caso de los centros comerci
 
 74. Del traslado interregional. Prohíbanse los traslados interregionales hacia localidades que se encuentren en "Paso 2: Transición" o "Paso 1: Cuarentena".
 
-Exceptúanse de la medida de este numeral a las personas mayores de 65 años y los enfermos crónicos. Sin perjuicio de lo anterior, en caso que estas personas decidan permanecer en un lugar distinto a su domicilio particular habitual, deberán estar en cuarentena por un tiempo indefinido.
+Exceptúanse de la medida de este numeral a las personas mayores de 65 años y los enfermos crónicos.
 
 Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir sus obligaciones laborales en una localidad distinta de su residencia habitual y cuentan con el permiso correspondiente del Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
 Asimismo, se exceptúan de la prohibición de traslado interregional aquellas personas que cuenten con un permiso para dichos efectos, según lo dispuesto en el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
+
+Exceptúase de lo dispuesto en este numeral, solo respecto a los traslados a comunas en "Paso 2: Transición" aquellas personas que sean titulares de un Pase de Movilidad habilitado. Asimismo, los menores de edad no considerados en el proceso de vacunación, podrán exceptuarse de lo dispuesto en este numeral en compañía de su padre, madre o tutor, que sea Pase de Movilidad habilitado.
 
 75. Del funcionamiento de restoranes, cafés y análogos. Se permite la atención de público en restaurantes, cafés y análogos, en lugares abiertos o cerrados con ventilación adecuada y permanente, sujeto a las siguientes reglas:
 
