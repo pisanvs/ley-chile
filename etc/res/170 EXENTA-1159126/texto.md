@@ -72,9 +72,13 @@ Aquellos proyectos ejecutados y pagados que correspondan a llamados de años ant
 
 Se hace presente, que en los casos de que existiera afectación de suelo que abarque varias viviendas agrupadas en una misma calle, se entenderá como preferible la postulación del conjunto de viviendas o pareos que son afectadas por socavones, las que se bonificarán con puntuación adicional a la postulación del conjunto de viviendas (tabla 6), con la finalidad de abordar en su totalidad la afectación de la zona a intervenir con una solución eficiente y eficaz de la problemática que aqueja al conjunto.
 
-3. Las familias interesadas en participar de este llamado podrán postular a partir del día 15 de mayo del presente año hasta el día 15 de julio de 2021 siendo los procesos de selección mensuales, pudiendo participar en cada proceso los proyectos que cuenten con calificación hasta el último día hábil de cada mes, iniciándose la primera selección el último día hábil del mes que corresponda, hasta el 30 de agosto de 2021, o hasta que se agoten los recursos destinados al presente llamado.
+3. La selección de los postulantes y los respectivos proyectos se realizará mensualmente, conforme a la siguiente calendarización:
 
-Para fines meramente operativos, el Serviu podrá establecer fechas de corte en el ingreso de expedientes entre el 15 de mayo y el 15 de julio, debiendo informar a las Entidades Patrocinantes con convenio vigente, mediante correo electrónico.
+1º Proceso de Selección
+
+2° Proceso de Selección
+
+3° Proceso de Selección
 
 4. El monto total de financiamiento para las obras de Mejoramiento de la Vivienda de este llamado será de 100.000 UF.
 
@@ -196,15 +200,7 @@ n) Planos y/o láminas correspondientes al proyecto.
 
 o) Planimetría en Cortes escala 1:50, firmado por el profesional competente.
 
-9.2 En el presente llamado la recepción de antecedentes de los proyectos habitacionales se realizará de la siguiente manera:
-
-a). El primer ingreso de la totalidad de expedientes técnicos será por medio Digital a través de carpetas OneDrive, habilitadas por la unidad informática de Serviu Tarapacá, y administradas por Unidad de Socavones debidamente firmada por los profesionales y beneficiarios (se permite antecedentes técnicos sin firmas, presentando carta de compromiso respectivas).
-
-b). Las observaciones serán enviadas en un solo acto a la PSAT por la Comisión de Proyectos de manera Digital a través de medios electrónicos pudiendo ser correo electrónico.
-
-c). Eventualmente y de manera previa al reingreso ya sea del expediente, del documento, del plano, la hoja, o bien de los antecedente observados, la entidad externa podrá requerir una reunión telemática para aclarar las observaciones, la cual será solicitada vía correo electrónico a la jefatura de la Unidad de Estudio y Proyectos con copia a la jefatura del Departamento Técnico y estará referida a las observaciones realizadas originalmente, y de ningún modo serán nuevas observaciones, lo cual quedará reflejado en un acta de reunión o bien en la grabación que de la aludida reunión se acuerde realizar.
-
-d). La subsanación e ingreso de la totalidad de antecedentes del proyecto técnico por parte de la PSAT se realizará a través de un Ingreso Físico de los expedientes firmados por profesionales de las PSAT, contratista y por el beneficiario. Los expedientes se deberán ingresar por carta conductora con el listado de grupos, beneficiarios, RUN y montos de obras, anexando en la carta la lista de todos los antecedentes que incluye el ingreso físico.
+9.2 El ingreso de los antecedentes generales para la postulación, indicados en los Arts. 21 y 47, del DS 255 (V. y U.), de 2006, y aquellos que formen parte de la solicitud del presente llamado, podrán ser presentados a Serviu en formato digital, sin que sea necesario entregarlos en papel, conforme a lo señalado en la resolución exenta Nº 492/2021 (V. y U.).
 
 10. La selección se realizará por estricto orden de prelación, según los mayores puntajes que se determinen para cada postulante o grupo de acuerdo a las reglas previstas para tal efecto en esta resolución, hasta enterar el total de los recursos disponibles. En caso de empate en el punto de corte, se dirimirá por sorteo.
 
@@ -248,8 +244,14 @@ En la labor de acompañamiento social a el o los beneficiarios en el período de
 
 13. En todo aquello que no se contraponga con lo dispuesto en la presente resolución exenta, regirá lo establecido en la resolución Nº 533 (V. y U.), de 1997, en especial lo prescrito en el artículo 6 Organización de la Demanda y Postulación de Proyectos, Gestión de Proyectos e Inspección Técnica de Obras.
 
-14. Los subsidios habitacionales que se otorguen conforme a esta resolución exenta, se imputarán a los recursos dispuestos para la Región de Tarapacá en el Programa regulado por el DS Nº 255 (V. y U.), de 2006, para el año 2020.
+14. Los subsidios habitacionales que se otorguen conforme a esta resolución exenta, se imputarán a los recursos dispuestos para la Región de Tarapacá en el Programa regulado por el DS Nº 255 (V. y U.), de 2006, para el año 2021.
 
 15. Apruébase el siguiente anexo 1 denominado "Listado de Verificación Vivienda Socavones - 2021":
 
 Anótese, publíquese en el Diario Oficial y archívese.- Carlos Prieto Rojas, Secretario Regional Ministerial de Vivienda y Urbanismo Región de Tarapacá.
+
+ANEXO
+
+PROGRAMA DE PROTECCIÓN DEL PATRIMONIO FAMILIAR DS Nº 255 (V. Y U.) DE 2006,
+
+FORMULARIO DE APROBACIÓN Y ACEPTACIÓN PARA POSTULACIÓN EN CONTEXTO DE PANDEMIA.
