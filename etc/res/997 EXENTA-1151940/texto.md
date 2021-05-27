@@ -114,6 +114,8 @@ Será responsabilidad del viajero, extender la vigencia del seguro en caso de ex
 
 El certificado de este seguro deberá acompañarse como documento adjunto a la declaración jurada definida en el numeral 2 de la presente resolución.
 
+No será exigible el seguro médico de viaje a que se refiere el presente numeral, a los nacionales del Reino de España no residentes en Chile que ingresen al país, siempre que porten los formularios E-CHL/09 y E-CH/11 vigentes. Lo anterior en cumplimiento del Convenio de Seguridad Social entre la República de Chile y el Reino de España suscrito en Madrid, España, promulgado mediante decreto supremo Nº 262, de 1998, del Ministerio de Relaciones Exteriores; y de los artículos 5 y 6 del Acuerdo Administrativo con el Reino de España para la aplicación del Convenio de Seguridad Social, promulgado mediante decreto supremo Nº 810, de 1998, del Ministerio de Relaciones Exteriores.
+
 6. Dispóngase que toda persona que ingrese desde el extranjero, sin importar su nacionalidad, lugar de origen o región de destino en Chile, deberá someterse al periodo de Seguimiento al Viajero durante los 14 días siguientes a su ingreso al territorio nacional o hasta que abandone éste, en caso que su permanencia fuere menor a 14 días.
 
 Para dar cumplimiento al programa del Seguimiento del Viajero, dichas personas deberán completar durante 14 días un formulario de reporte de síntomas y localización. Esto se llevará a cabo completando una encuesta de estado de salud que recibirá diariamente el viajero en su correo electrónico por parte de la autoridad sanitaria.
@@ -149,6 +151,8 @@ Cualquier conductor extranjero no residente de manera regular en el país podrá
 Los costos asociados a la estadía en el hotel de tránsito, o en aquel autorizado por la autoridad sanitaria serán sufragados por la empresa extranjera de transporte internacional terrestre a cuyo nombre se encuentre habilitado el vehículo conducido por el conductor en cuestión.
 
 b) Los conductores chilenos y extranjeros residentes de manera regular en el país, podrán ser seleccionados, en forma aleatoria por la Autoridad Sanitaria, en el momento de su ingreso, para ser sometidos a un examen de detección directa para SARS-CoV-2 determinado por la Autoridad Sanitaria. Si estos mismos conductores no accedieran a realizarse el examen del que trata este numeral, deberán permanecer en cuarentena, en una residencia sanitaria dispuesta al efecto, durante los 14 días siguientes a su ingreso al país, independiente del resultado negativo que pudiese tener un test PCR para SARS-CoV-2 realizado con anterioridad o posterioridad.
+
+7 quáter. Quienes hayan hecho egreso del territorio nacional para el cumplimiento de funciones imprescindibles para la marcha del país, conforme a lo establecido en la letra c) del artículo primero del decreto supremo Nº 102, de 2020, del Ministerio del Interior y Seguridad Pública, y que cuenten con un esquema de vacunación completo contra el SARS-Cov-2, podrán, a su regreso a Chile, realizar cuarentena en su domicilio. Asimismo, podrán poner término a la cuarentena presentando un resultado negativo de un Test RT- PCR para SARS-CoV-2, cuya toma de muestra haya sido efectuada al séptimo día de cuarentena.
 
 8. Dispóngase que será responsabilidad de la empresa que efectúe el traslado del pasajero al territorio nacional, verificar que este cuente con los documentos necesarios para el ingreso al país y cumpla con las obligaciones precedentes.
 
