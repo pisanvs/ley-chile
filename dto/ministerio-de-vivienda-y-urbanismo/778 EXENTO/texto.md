@@ -8,15 +8,7 @@ Decreto:
 
 1º.- Declárase Norma Oficial de la República de Chile, la norma técnica que se indica a continuación:
 
-NCh 1079. Of 2008 Arquitectura y construcción –
-
-Zonificación climático
-
-habitacional para Chile y
-
-recomendaciones para el diseño
-
-arquitectónico.
+NCh1079:2019 Arquitectura y construcción - Zonificación climática y térmica para el diseño de edificaciones.
 
 2º.- El presente decreto se publicará en el Diario Oficial. La norma en él identificada tendrá vigencia a partir de la fecha de publicación. El texto íntegro de la norma será publicado en documento oficial del Instituto Nacional de Normalización.
 
