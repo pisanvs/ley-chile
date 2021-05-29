@@ -1,0 +1,33 @@
+AUTORIZA AMPLIACIÓN DEL ALCANCE DE LA ACREDITACIÓN DEL CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES CERTIFICAT LIMITADA, A LOS PERFILES OCUPACIONALES QUE INDICA
+
+Núm. 113 exenta.- Santiago, 20 de mayo de 2021.
+
+Visto:
+
+Lo dispuesto en la ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo; en el Reglamento que regula la Comisión del Sistema Nacional de Certificación de Competencias Laborales, establecido por decreto supremo Nº 137, de 2008, del Ministerio del Trabajo y Previsión Social; en el Reglamento que regula la Acreditación de Centros de Evaluación y Certificación de Competencias Laborales y la Habilitación de Evaluadores, aprobado por decreto supremo Nº 29, de 2011, del Ministerio del Trabajo y Previsión Social; la resolución exenta Nº 1.068, de 2011, de la Subsecretaría del Trabajo, sobre aranceles del Sistema Nacional de Certificación de Competencias Laborales; la resolución exenta Nº 281, de 26 de noviembre de 2020, de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, que aprueba el procedimiento de Ampliación de Alcance de Acreditación, para los Centros de Evaluación y Certificación de Competencias Laborales acreditados en el Sistema Nacional de Certificación de Competencias Laborales; la resolución exenta Nº 126, de 26 de abril de 2019, de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, que renovó la acreditación del Centro de Evaluación y Certificación de Competencias Laborales CertificaT Limitada, como Centro de Evaluación y Certificación de Competencias Laborales; en la resolución exenta Nº 91, de 27 de abril de 2021, de esta Comisión, que cerró la etapa de evaluación de la solicitud de ampliación de alcance presentada por dicho Centro; el acuerdo Nº 907, de 2021, adoptado en la centésima vigésima octava sesión ordinaria del directorio de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, celebrada con fecha 28 de abril de 2021; el Anexo de Acta de Compromiso suscrito por el Centro de Evaluación y Certificación de Competencias Laborales CertificaT Limitada; la resolución exenta Nº 63, de 2020, de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, que establece medidas de gestión interna en la Comisión, que deberá cumplir su personal, para hacer frente a la situación sanitaria relacionada con el brote de Coronavirus (Covid-19); la resolución Nº 7, de 2019, de la Contraloría General de la República; y las facultades que me confiere el artículo 9º de la ley Nº 20.267.
+
+Considerando:
+
+1. Que, la Comisión del Sistema Nacional de Certificación de Competencias Laborales, en adelante ChileValora, es un servicio público funcionalmente descentralizado, con personalidad jurídica y patrimonio propio, cuya función es la implementación de las acciones reguladas en la ley Nº 20.267.
+
+2. Que, mediante resolución exenta Nº 281, de 2020, la Comisión del Sistema Nacional de Certificación de Competencias Laborales, aprobó el Procedimiento de Ampliación de Alcance de Acreditación de los Centros de Evaluación y Certificación de Competencias Laborales acreditados en el Sistema Nacional de Certificación de Competencias Laborales.
+
+3. Que, mediante resolución exenta Nº 126, de 26 de abril de 2019, la Comisión del Sistema Nacional de Certificación de Competencias Laborales, renovó la acreditación de la sociedad Centro de Evaluación y Certificación de Competencias Laborales CertificaT Limitada, como Centro de Evaluación y Certificación de Competencias Laborales, por un plazo de 3 años, esto es, desde el 26 de abril de 2019 hasta el 26 de abril de 2022.
+
+4. Que, habiendo presentado una solicitud de ampliación de alcance de su acreditación, se ha determinado que la sociedad CertificaT Limitada, cumple con los requisitos normativos para efectuar procesos de evaluación y certificación en los sectores, subsectores y perfiles ocupacionales solicitados, conforme se da cuenta en la resolución exenta Nº 91, de 2021, que cierra el proceso de evaluación de dicha solicitud.
+
+5. Que, mediante acuerdo Nº 907, de 2021, adoptado en su centésima vigésima octava sesión ordinaria, celebrada con fecha 28 de abril del mismo año, el órgano colegiado de ChileValora resolvió autorizar la ampliación del alcance al Centro de Evaluación y Certificación de Competencias Laborales CertificaT Limitada de los 2 perfiles ocupacionales detallados en el primer numeral de la parte resolutiva del presente acto administrativo.
+
+6. Que, con fecha 20 de mayo de 2021, se formalizó el anexo de acta de compromiso suscrito por la sociedad CertificaT Limitada, en que se compromete a cumplir las obligaciones, compromisos, prohibiciones, restricciones e inhabilidades que la ley Nº 20.267 y sus reglamentos establecen para asegurar la idoneidad, competencia e imparcialidad de los Centros de Evaluación y Certificación de Competencias Laborales.
+
+Resuelvo:
+
+1. Autorízase la ampliación del alcance de la acreditación del Centro de Evaluación y Certificación de Competencias Laborales CertificaT Limitada, RUT Nº 76.481.775-3, a los perfiles ocupacionales de los sectores y subsectores que se indican a continuación: sector Construcción, subsector Instalaciones Eléctricas, de Gasfitería y Climatización, el perfil de Operario de Artefactos de Gas (P-4322-7126-003-V01); y del sector Manufactura Metálica, subsector Metalúrgico Metalmecánico, el perfil de Mantenedor Eléctrico (P-2500-7412-001-V02).
+
+2. Ingrésense los nuevos perfiles ocupacionales en los que se encuentra acreditado el Centro de Evaluación y Certificación de Competencias Laborales CertificaT Limitada, RUT Nº 76.481.775-3, a la ficha que de éste se mantiene en el Registro Nacional de Centros de Evaluación y Certificación de Competencias Laborales.
+
+3. Publíquese la presente Resolución en el Diario Oficial, sin perjuicio que las futuras modificaciones de los códigos de los perfiles ocupacionales antes señalados, se notificarán a través del Registro Nacional de Unidades de Competencias Laborales y del Registro Nacional de Centros de Evaluación y Certificación de Competencias Laborales, sin necesidad de una nueva publicación.
+
+4. Téngase presente que, la ampliación de la acreditación concedida por el presente acto administrativo, tendrá vigencia desde su publicación en el Diario Oficial y durante el plazo que dure la acreditación del Centro.
+
+Anótese, notifíquese y publíquese en el Diario Oficial.- Francisco Silva Bafalluy, Secretario Ejecutivo, Comisión del Sistema Nacional de Certificación de Competencias Laborales.
