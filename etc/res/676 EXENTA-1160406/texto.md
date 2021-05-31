@@ -1,0 +1,23 @@
+PRORROGA PLAZO CONTENIDO EN LA RESOLUCIÓN N°428 EXENTA, DE 30 DE NOVIEMBRE DE 2016, QUE ESTABLECE FECHA Y CONDICIONES DE CUMPLIMIENTO DEL ARTÍCULO 45 DEL DECRETO SUPREMO N° 212, 1992, PARA SERVICIOS QUE INDICA EN LA REGIÓN DEL BIOBÍO
+
+Núm. 676 exenta.- Concepción, 27 de noviembre de 2020.
+
+Visto:
+
+Lo dispuesto en la ley N° 18.696; el DFL N° 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito; el decreto supremo N° 212, de 15 de octubre de 1992, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes; el decreto supremo N° 113, de 23 de mayo de 2011, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes; las facultades delegadas mediante la resolución N° 52, de 2004, del Ministerio de Transportes y Telecomunicaciones; la resolución exenta N° 428, de 30 de noviembre de 2016, modificada por resolución exenta N° 656, de 27 de noviembre de 2018; y la resolución exenta N° 554, de 21 de noviembre de 2019, todas de esta Secretaría Regional Ministerial; Informe respecto de la situación de los terminales, de 10 de noviembre de 2020, del Área de Transporte Público Regional de esta Secretaría Regional Ministerial, remitido por correo electrónico de fecha 23 de noviembre de 2020; la carta de fecha 16 de octubre de 2020 de Federación Mi Taxi Colectivo F.G.; la resolución N° 7, de 2019, de la Contraloría General de la República; y demás facultades que confiere la normativa vigente.
+
+Considerando:
+
+1. Que, por resolución exenta N° 428, de 30 de noviembre de 2016, modificada por la resolución exenta N° 656, de 27 de noviembre de 2018, y la resolución exenta N° 554, de 21 de noviembre de 2019, todas de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se ha establecido la fecha y condiciones de cumplimiento del artículo 45° del decreto supremo N° 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, en la Región del Biobío.
+
+2. Que, con fecha 16 de octubre de 2020, se ingresó carta de Federación Mi Taxi Colectivo F.G., solicitando la ampliación del plazo para el cumplimiento de la obligación de contar con un terminal con resolución de autorización de funcionamiento, conforme a lo dispuesto en los artículos Nos 45 y 47 del decreto supremo N° 212, de 1992, citado en el visto. Fundamenta su solicitud en el hecho de la falta de recursos de las líneas, derivados de la emergencia sanitaria de salud pública producida por el brote de Covid-19.
+
+3. Que, el Área de Transporte Público Regional de esta Secretaría Regional Ministerial, ha remitido un informe respecto de la situación de los terminales de los servicios urbanos de taxis colectivos existentes en las comunas de Los Ángeles y Tomé, ambas de la Región del Biobío. En las conclusiones del referido informe se indica la necesidad de ampliar el plazo para la obtención de la resolución de Autorización de Funcionamiento para todos los servicios operados con taxis colectivos en las comunas de Los Ángeles y Tomé, por un periodo de 12 meses, con el objeto que los servicios de transporte terminen de construir sus terminales y tramiten sus respectivas resoluciones de funcionamiento; y de esta manera evitar la suspensión de sus servicios, lo cual afectaría gravemente la oferta de transporte público en las comunas indicadas.
+
+4. Que frente a la situación descrita y considerando las graves consecuencias provenientes de la pandemia Covid-19 que afectan directamente al transporte público, esta autoridad se ve en la necesidad, por razones de interés superior y para los efectos de atender las necesidades públicas, en forma continua, uniforme, permanente y regular, de prorrogar el plazo para la regularización de los terminales de taxis colectivos en las comunas que se indican en la parte resolutiva del presente acto administrativo.
+
+Resuelvo:
+
+1. Prorróguese el plazo, sólo para los servicios de taxis colectivos de las comunas de Los Ángeles y Tomé, establecido en la letra c, del resuelvo N° 2 de la resolución exenta N° 428, de 30 de noviembre de 2016, modificada por la resolución exenta N° 656, de 27 de noviembre de 2018 y la resolución exenta N° 554, de 21 de noviembre de 2019, todas de esta Secretaría Regional Ministerial de Transportes de la Región del Biobío, hasta el 30 de noviembre de 2021.
+
+Anótese, comuníquese y publíquese en el Diario Oficial.- Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región del Biobío.
