@@ -1,0 +1,5 @@
+NOTIFICA RESOLUCIÓN Nº 2021/PA/08/000507 EXENTA, DE FECHA 10 DE MAYO DE 2021, QUE SOBRESEE PROCESO ADMINISTRATIVO
+
+La Superintendencia de Educación, por resolución exenta Nº 2021/PA/08/000507, de fecha 10 de mayo de 2021, del Director Regional de la Superintendencia de Educación de la Región del Biobío, sobreseyó proceso administrativo al sostenedor Empresa Educacional Haydee Rubelinda Rioseco Guajardo E.I.R.L., RUT Nº 71.289.200-5, de la comuna de Quilleco, cuyo representante legal es doña Haydee Rubelinda Rioseco Guajardo, RUT Nº 7.265.763-2. Resolviendo: Sobreséase al sostenedor Empresa Educacional Haydee Rubelinda Rioseco Guajardo E.I.R.L., RUT Nº 71.289.200-5, por el cargo 1 formulado y desestimado.-
+
+Claudio Schettino C., Encargado Jurídico (S), Superintendencia de Educación Región del Biobío.
