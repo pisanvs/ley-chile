@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 469 del 10 de mayo de 2021, Serviu Región de Ñuble ordenó expropiación Total de inmueble ubicado en Huambalí Nº 64, comuna de Chillán, Rol de Avalúo Nº 00680-00009, de aparente dominio de Barrera Zapata Ana Rosa. La parte afecta a expropiación total de terreno es de 573,72 m2 (Lote 17) y 228,04 m2 total de edificación cuyos linderos particulares, enmarcados en el plano S16R-023, para el proyecto "Mejoramiento Avenida Huambalí Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Mario Fabrizzio Bellolio Bostica, Constructor Civil Ítalo Renzo Zerga Arancibia y por el Ingeniero Civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $238.557.870.-
+
+Director Serviu Región de Ñuble.
