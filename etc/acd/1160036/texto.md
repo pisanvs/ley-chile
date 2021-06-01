@@ -20,6 +20,26 @@ Considerando:
 
 6. Que, el Consejo Directivo del Servicio Electoral, conforme a las facultades otorgadas por la ley, Acuerda conforme a los quorum requeridos, dictar las normas e instrucciones necesarias que, a continuación, se indican:
 
+Santiago, 20 de mayo de 2021.
+
+Visto:
+
+Lo dispuesto en los artículos 111 y 130 y siguientes de la Constitución Política de la República; la Ley N° 18.556, Orgánica Constitucional sobre sistema de inscripciones electorales y Servicio Electoral; la Ley N° 18.700, Orgánica Constitucional sobre votaciones populares y escrutinios; la Ley N° 19.175 Orgánica Constitucional sobre Gobierno y Administración Regional; la Ley N° 21.257, Reforma Constitucional que faculta al Servicio Electoral a dictar las normas e instrucciones necesarias para el desarrollo del Plebiscito Nacional dispuesto en el artículo 130 de la Constitución y otros procesos electorales en los términos que se indican; la Ley N° 21.317, Reforma Constitucional que amplía a dos días la elección de Convencionales Constituyentes, Gobernadores Regionales, Alcaldes y Concejales; y la Ley N° 21.324, Reforma Constitucional que posterga las próximas elecciones Municipales, de Gobernadores Regionales y de Convencionales Constituyentes por motivo del COVID-19, para los días 15 y 16 de mayo de 2021.
+
+Considerando:
+
+1. Que, la Ley N° 21.221, modificó el Título XV de la Constitución Política de la República, en consideración a la crisis del COVID-19, teniendo por objeto reprogramar el itinerario electoral en curso, fijando al efecto un nuevo calendario para la realización de los futuros eventos electorales, en un marco que garantice la salud de quienes participen en los respectivos procesos electorales.
+
+2. Que, con fecha 27 de agosto de 2020, se publicó en el Diario Oficial la Ley N° 21.257, Reforma Constitucional que faculta al Servicio Electoral a dictar las normas e instrucciones necesarias para el desarrollo los procesos electorales de los años 2020 y 2021.
+
+3. Que, con fecha 17 de marzo de 2021, se publicó en el Diario Oficial la Ley N° 21.317, Reforma Constitucional que establece la realización de las Elecciones de Convencionales Constituyentes, Gobernadores Regionales, Alcaldes y Concejales los días 10 y 11 de abril de 2021, así como también faculta al Servicio Electoral a dictar las normas e instrucciones necesarias para el desarrollo de éstas.
+
+4. Que, con fecha 7 de abril de 2021, se publicó en el Diario Oficial la Ley N° 21.324, Reforma Constitucional que posterga las próximas elecciones Municipales, de Gobernadores Regionales y de Convencionales Constituyentes por motivo del COVID-19, para los días 15 y 16 de mayo de 2021.
+
+5. Que, en virtud de lo dispuesto en la disposición cuadragésima primera transitoria de la Constitución Política de la República, modificada por las citadas leyes de reforma constitucional, se faculta al Servicio Electoral a dictar las normas e instrucciones necesarias para el desarrollo de las elecciones de Gobernadores Regionales en segunda votación.
+
+6. Que, el Consejo Directivo del Servicio Electoral, conforme a las facultades otorgadas por la ley, Acuerda conforme a los quorum requeridos, dictar las normas e instrucciones necesarias que, a continuación, se indican:
+
 1. Establécense las siguientes normas e instrucciones para la realización de las Elecciones de Gobernadores Regionales, en Segunda Votación del 13 de junio de 2021.
 
 a) Instalación, funcionamiento y horarios de oficinas electorales de los locales de votación y mesas receptoras de sufragios.
@@ -36,13 +56,13 @@ El domingo 13 de junio a partir de las 7:30 horas, en aquellas regiones donde co
 
 Las mesas se instalarán a las 8:00 horas y podrán comenzar a funcionar con 3 vocales.
 
-A partir de las 9:00 horas, el Delegado de la Junta Electoral deberá designar a los vocales que falten hasta completar el mínimo de 3 necesario para poder funcionar. En ese caso no podrán designar como vocales a personas extranjeras, analfabetas y no videntes. Las personas con discapacidad y quienes tengan 60 o más años podrán excusarse de este deber cívico. El delegado deberá instalar todas las mesas, a más tardar, a las 10:00 horas.
+A partir de las 9:00 horas, el Delegado de la Junta Electoral deberá designar a los vocales que falten hasta completar el mínimo de 3 necesario para poder funcionar. En ese caso no podrán designar como vocales a personas extranjeras, analfabetas y no videntes. Las personas con discapacidad y quienes tengan 60 o más años podrán excusarse de este deber cívico. Con todo, si a partir de las 9:00 horas, no se hubiere instalado la mesa receptora con tres vocales como mínimo, podrán instalarse e iniciar su funcionamiento con dos vocales que se encontraren presentes, o bien el delegado podrá designarlos de entre los electores que sufraguen en el recinto. La mesa ajustará su funcionamiento a esta integración, luego uno de los vocales cumplirá las funciones de secretario y de comisario. El delegado deberá instalar todas las mesas, a más tardar, a las 10:00 horas.
 
 Instalada la mesa, las y los vocales originalmente designados podrán incorporarse a ella, en orden de presentación, hasta completar el máximo de cinco, sin que puedan reemplazar a los vocales designados en virtud del inciso anterior y siempre que ello ocurra con anterioridad a las 11:00 horas.
 
 ### 3. Identificación de electores
 
-Los y las electores podrán identificarse y sufragar con las cédulas nacional de identidad o cédulas de identidad para extranjeros que hayan vencido a contar del 1 de octubre de 2019.
+Las y los electores nacionales podrán identificarse y sufragar con sus cédulas de identidad o con sus pasaportes vigentes o que hayan vencido a contar del 1 de octubre de 2019. La misma regla se aplicará al elector extranjero respecto a la cédula de identidad para extranjeros.
 
 ### 4. Funcionamiento de las Mesas Receptoras de Sufragios:
 
@@ -143,7 +163,5 @@ Todos los apoderados podrán ser designados mediante poder simple.
 Un apoderado general de local, su suplente y los apoderados de mesa, podrán ser sustituidos durante el día de votación, mediante un poder suscrito por quien corresponde en cada caso.
 
 Queda prohibido a los apoderados hacer uso de elementos de propaganda electoral, debiendo dar cumplimiento estricto a las normas emitidas por el Servicio Electoral sobre credenciales y carpetas.
-
-2. Publíquese el presente acuerdo en el Diario Oficial y en la página web del Servicio Electoral, dentro de los dos días siguientes a la fecha de su adopción.-
 
 Andrés Tagle Domínguez, Presidente.- Patricio Santamaría Mutis, Consejero.- José Miguel Bulnes Concha, Consejero.- Alfredo Joignant Rondón, Consejero.- Juanita Gana Quiroz, Consejera.- Álvaro Castañón Cuevas, Secretario Abogado, Consejo Directivo.
