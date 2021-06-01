@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 450 del 5 de mayo de 2021, Serviu Región de Ñuble ordenó expropiación Parcial de inmueble ubicado en Collin Nº 698 LT 4, comuna de Chillán, Rol de Avalúo Nº 00680-00016, de aparente dominio de Apolonio Riquelme David y Otro. La parte afecta a expropiación parcial de terreno es de 3,45 m2 (Lote 14) y 134,58 total de edificación cuyos linderos particulares, enmarcados en el plano S16R-021, para el proyecto "Mejoramiento Avenida Huambalí Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Mario Fabrizzio Bellolio Bostica, Constructor Civil Ítalo Renzo Zerga Arancibia y por el Ingeniero Civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $32.926.182-
+
+Director Serviu Región de Ñuble.
