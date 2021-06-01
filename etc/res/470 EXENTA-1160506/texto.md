@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 470 del 10 de mayo de 2021, Serviu Región de Ñuble ordenó expropiación Parcial de inmueble ubicado en Manuel Plaza Nº 20, comuna de Chillán, Rol de Avalúo Nº 00680-00012, de aparente dominio de Lagos Reddersen Alberto Alejandr Y. La parte afecta a expropiación parcial de terreno es de 61,08 m2 (Lote 22) cuyos linderos particulares, enmarcados en el plano S16R-027, para el proyecto "Mejoramiento Avenida Huambalí Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Mario Fabrizzio Bellolio Bostica, Constructor Civil Italo Renzo Zerga Arancibia y por el Ingeniero Civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $27.207.286.-
+
+Director Serviu Región de Ñuble.
