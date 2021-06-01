@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 1.291, de fecha 11/05/2021, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012, de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote Nº 52-1, consistente en "Resto no transferido de propiedad ubicada en calle Tromén sin número de esta ciudad, de una superficie aproximada de tres mil trescientos treinta y siete coma cuarenta y tres metros cuadrados", Rol de avalúo 3205-111, comuna de Temuco. La superficie a expropiar aproximada es de 75,00 metros cuadrados, de aparente dominio de José Patricio Albornoz Estrada. Comisión de Peritos integrada por Claudio Romo Sanhueza, Arquitecto; Arturo Cantos Oyarzún, Arquitecto y Constanza Miohevic González, Ingeniero Constructor, fijó monto de Indemnización Provisional en $9.861.849, según Informe Nº 52-1 de fecha 27/04/2021, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
