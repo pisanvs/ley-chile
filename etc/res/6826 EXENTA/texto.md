@@ -34,13 +34,13 @@ Resuelvo:
 
 Fíjanse las siguientes instrucciones sobre información de contratos de obra pública:
 
-1. A partir del 6 de enero de 2015, la información específica sobre los contratos de obras identificados como tales en los llamados a licitación pública o privada efectuados en la plataforma Mercado Público, cuyo proceso de compra culmina con una adjudicación, se incorporará al sistema de la Contraloría General directamente por el respectivo órgano de la Administración, a través de dicha plataforma.
+1. A partir del 6 de enero de 2015, la información específica sobre los contratos de obras identificados como tales en los llamados a licitación pública o privada efectuados en la plataforma Mercado Público, cuyo proceso de compra culmina con una adjudicación, así como aquellos que se originen mediante la suscripción de tratos directos, se incorporará al sistema de la Contraloría General directamente por el respectivo órgano de la Administración, a través de dicha plataforma.
 
 En los procesos de contratación de obras que no se realicen utilizando Mercado Público, pero que de conformidad con la ley deben ser informados en éste, los datos deberán incorporarse por medio de esa plataforma tan pronto se formalice el contrato.
 
-2. Los órganos de la Administración deberán actualizar al menos trimestralmente, dentro de los diez primeros días de los meses de abril, julio, octubre y enero, la información relativa a sus obras registradas, en cuanto a sus estados de avance, modificaciones y otros aspectos relevantes.
+2. Los órganos de la Administración deberán actualizar mensualmente, dentro de los diez primeros días de los meses de abril, julio, octubre y enero, la información relativa a sus obras registradas, en cuanto a sus estados de avance, modificaciones y otros aspectos relevantes.
 
-La actualización se efectuará por tales órganos directamente en el sistema de la Contraloría General, previas las habilitaciones pertinentes, o a través de la interoperación de sistemas informáticos, en los términos que se definan.
+La actualización se efectuará por tales órganos directamente en el sistema de la Contraloría General, previa asignación de una credencial de acceso, o a través de la interoperación de sistemas informáticos, en los términos que se definan.
 
 En los meses de abril y julio de 2015, los servicios que deberán efectuar esa actualización son las Direcciones de Arquitectura y de Vialidad, los Servicios de Vivienda y Urbanización, y las municipalidades de comunas capital de Región.
 
