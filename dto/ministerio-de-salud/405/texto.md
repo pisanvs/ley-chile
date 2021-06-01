@@ -420,6 +420,8 @@ De las Listas de Psicotrópicos
 
 DROGAS: LISTA I
 
+ACETIL - N, N – DIETIL - LISERGAMIDA (ALD-52)
+
 DET N,N- dietiltriptamina
 
 DMHP 3-(1,2-dimetilheptil)-I-
