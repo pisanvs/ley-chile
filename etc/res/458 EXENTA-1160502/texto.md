@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 458 del 6 de mayo de 2021, Serviu Región de Ñuble ordenó expropiación Parcial de inmueble ubicado en Barros Arana Nº 258 comuna de Chillán, Rol de Avalúo Nº 00606-00033, de aparente dominio de Puentes Cartes Juan Carlos Reina Y. La parte afecta a expropiación parcial de terreno es de 307,32 m2 (Lote 19) y 456,02 m2 total de edificación cuyos linderos particulares, enmarcados en el plano S16R-045, para el proyecto "Mejoramiento Avenida Diagonal Las Termas", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Priscilla Andrea Encalada Rueda, Arquitecto Cecilia María Carrasco Verdugo y por el Constructor Civil Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $140.212.687.-
+
+Director Serviu Región de Ñuble.
