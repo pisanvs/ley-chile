@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 459 del 7 de mayo de 2021, Serviu Región de Ñuble ordenó expropiación Total de inmueble ubicado en Barros Arana Nº 299, comuna de Chillán, Rol de Avalúo Nº 00515-00072, de aparente dominio de Mendoza Becerra Patricio Arnaldo. La parte afecta a expropiación total de terreno es de 261 m2 (Lote 23) y 109,51 m2 total de edificación cuyos linderos particulares, enmarcados en el plano S16R-048, para el proyecto "Mejoramiento Avenida Diagonal Las Termas", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Priscilla Andrea Encalada Rueda, Arquitecto Cecilia María Carrasco Verdugo y por el Constructor Civil Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $63.524.204.-
+
+Director Serviu Región de Ñuble.
