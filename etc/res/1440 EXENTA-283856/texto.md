@@ -24,7 +24,7 @@ Resuelvo:
 
 1) Delégase en el Subdirector del Trabajo las siguientes facultades:
 
-1.1) En materia de contrataciones públicas: La facultad de ejecutar los actos y dictar las resoluciones exentas y fundadas que correspondan a la ejecución de procesos de compras y/o contrataciones de bienes y servicios por un monto superior a 100 UTM y hasta un monto inferior a 1.000 UTM, específicamente en lo que dice relación con las resoluciones que aprueban las bases administrativas, las de adjudicación de mejor oferta, de declaración de procesos desiertos, suscripción de contratos y de posterior aprobación de los mismos, con exclusión de las normas de excepción contempladas en el artículo 8 de la ley Nº 19.886, y las señaladas en el artículo 10 del decreto supremo Nº 250, de 2004, del Ministerio de Hacienda.
+1.1) Derogado.
 
 1.2) En materia de personal: La facultad de aprobar los actos y dictar las resoluciones y/o documentos que correspondan a la autorización de los mismos, que digan relación con las solicitudes de permisos administrativos, rendición de gastos y viáticos, y resolución de cometidos, respecto de los Jefes de División, de Departamento, y de las Oficinas de Auditoría, Comunicación y Contraloría, del Nivel Central y de los Directores Regionales del Trabajo.
 
