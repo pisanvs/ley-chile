@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 471 del 10 de mayo de 2021, Serviu Región de Ñuble ordenó expropiación Parcial de inmueble ubicado en Huambalí Nº 58 B LT 2, comuna de Chillán, Rol de Avalúo Nº 00680-00023, de aparente dominio de Congregación Cristiana en Chile. La parte afecta a expropiación parcial de terreno es de 154,69 m2 (Lote 15) y 41,00 m2 total de edificación cuyos linderos particulares, enmarcados en el plano S16R-022, para el proyecto "Mejoramiento Avenida Huambalí Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Mario Fabrizzio Bellolio Bostica, Constructor Civil Ítalo Renzo Zerga Arancibia y por el Ingeniero Civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $47.550.792.-
+
+Director Serviu Región de Ñuble.
