@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 662, de fecha 11 de mayo de 2021, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, se autorizó a la Escuela de Conductores No Profesionales o Clase B denominada "San Cristóbal Limitada", RUT N° 77.839.460-K, cuya representante legal es doña Lucy Eliana Gómez Hernández, Cédula de Identidad Nº 8.017.283-4 y cuyo Programa de Enseñanza fue aprobado mediante resolución exenta Nº54, de 18 marzo 2003, modificada por resolución exenta Nº 220, de 12 febrero 2021, ambas de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, a impartir el curso conducente a obtención de Licencia de Conductor Clase B, en modalidad e-learning, para la comuna de Castro. La correcta funcionalidad de plataforma tecnológica computacional LMS, estará siempre sujeta a auditorías, controles y fiscalizaciones que sean procedentes. La misma autorización, en copia fidedigna, deberá estar a disposición de los postulantes y alumnos del establecimiento.-
+
+Nicolás Maximiliano Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
