@@ -42,7 +42,7 @@ B.- MATERIAS RELACIONADAS CON CONTRATACIONES, PROCESOS LICITATORIOS Y COMPRAS P�
 
 4. Firmar la resolución que llame a licitación y apruebe bases administrativas, siempre que esté exenta del trámite de toma de razón.
 
-5. Firmar la resolución que designe a la contraparte técnica de los contratos que suscriba la Subsecretaría.
+5. Firmar la resolución que designe o modifique a la contraparte técnica de los contratos que suscriba la Subsecretaría.
 
 6. Firmar la resolución que designa la comisión evaluadora de licitación.
 
@@ -50,9 +50,9 @@ B.- MATERIAS RELACIONADAS CON CONTRATACIONES, PROCESOS LICITATORIOS Y COMPRAS P�
 
 8. Firmar la resolución que declara desierta licitación.
 
-9. Firmar la resolución que declara inadmisibles las ofertas que se presenten a una licitación.
+9. Firmar la resolución que declara inadmisibles las ofertas que se presenten a una licitación y, a su vez, la resolución que reincorpore ofertas a un proceso licitatorio.
 
-10. Firmar la resolución que apruebe los términos de referencia y autorice licitación privada en licitaciones inferiores a 100 UTM.
+10. Derogado.
 
 11. Firmar la resolución que adjudique la licitación, siempre que esté exenta del trámite de toma de razón.
 
@@ -60,9 +60,9 @@ B.- MATERIAS RELACIONADAS CON CONTRATACIONES, PROCESOS LICITATORIOS Y COMPRAS P�
 
 13. Firmar las convenciones que rescilien contratos y visación de los actos administrativos que las aprueben.
 
-14. Firmar la resolución que apruebe las adquisiciones en las grandes compras.
+14. Firmar la resolución que autorice el llamado a realizar un proceso de grandes compras, que apruebe el documento de intención de compra, y que designe comisión evaluadora para tales procesos.
 
-15. Firmar la resolución que designa la comisión evaluadora en los procesos de grandes compras.
+15. Firmar la resolución que seleccione ofertas en un proceso de grandes compras, o bien, que declare inadmisibles las ofertas y/o declare desierto dicho proceso.
 
 16. Firmar acuerdos complementarios, cuyo monto total no exceda de 2.000 UTM.
 
@@ -72,7 +72,7 @@ B.- MATERIAS RELACIONADAS CON CONTRATACIONES, PROCESOS LICITATORIOS Y COMPRAS P�
 
 19. Firmar la resolución que aplica multa a proveedores, en el contexto de las compras públicas que lleve la Subsecretaría.
 
-20. Firmar los contratos con personas jurídicas y de convenios de cooperación interinstitucional, cuyo monto total no exceda de 2.000 UTM.
+20. Firmar los contratos con personas naturales y jurídicas; y convenios de cooperación interinstitucional, cuyo monto total no exceda de 2.000 UTM.
 
 C.- MATERIAS DE PERSONAL
 
@@ -112,7 +112,7 @@ Deléguese en la (el) Jefa de la División Jurídica, o en quien la (lo) subrogu
 
 #### Artículo tercero
 
-Deléguese, según corresponda, en la (el) Jefa(e) de la División de Política Comercial e Industrial y en ausencia o impedimento de éste, en la (el) Jefa(e) de la División de Empresas de Menor Tamaño y en la (el) Jefa(e) o de la División Jurídica, sucesivamente, la facultad de firmar, bajo la fórmula "Por orden del Subsecretario", los oficios, notificaciones, comunicaciones, aprobaciones de informes, autorizaciones de pago de los evaluadores y/o avisos relativos al o los convenios suscritos entre la Subsecretaría y el Instituto de Fomento Pesquero en el marco del programa de investigación básica pesquera y de acuicultura que corresponda desarrollar a este último y con su evaluación externa.
+Deléguese, según corresponda, en la (el) Jefa(e) de la División Política Comercial e Industrial, o en quien la (lo) subrogue, y en ausencia o impedimento de éste, en la (el) Jefa(e) de la División de Empresas de Menor Tamaño, sucesivamente, la facultad de firmar bajo la fórmula "Por orden del Subsecretario" los oficios, notificaciones, comunicaciones, aprobaciones de informes, autorizaciones de pago de los evaluadores y/o avisos relativos al o los convenios suscritos entre la Subsecretaría y el Instituto de Fomento Pesquero en el marco del programa de investigación básica pesquera y de acuicultura que corresponda desarrollar a este último y con su evaluación externa.
 
 #### Artículo cuarto
 
@@ -120,7 +120,7 @@ Deléguese, según corresponda, en la (el) Jefa(e) de la División de Empresas d
 
 1. Ejercer la atribución de elaborar informes, certificados y medidas de fiscalización administrativa recaídos en materias propias del Registro Nacional de Martilleros.
 
-2. Firmar las resoluciones fundadas que acepten o rechacen la solicitud formulada por el interesado para inscribirse en el Registro Nacional de Martilleros, de conformidad con lo dispuesto en el artículo 8° de la ley N° 18.118.
+2. Firmar las resoluciones fundadas que acepten o rechacen la solicitud formulada por los interesados para inscribirse en el Registro Nacional de Martilleros, de conformidad con lo dispuesto en el artículo 8° de la ley N° 18.118, así como requerirles antecedentes adicionales cuando sean necesarios para su inscripción, o tenerlos por desistidos cuando omitan acompañarlos.
 
 3. Firmar resoluciones que acepten o rechacen la solicitud formulada por martilleros personas jurídicas de que se inscriba a personas naturales en el Registro Nacional de Martilleros en calidad de martilleros dependientes.
 
