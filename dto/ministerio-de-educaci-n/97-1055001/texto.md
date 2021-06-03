@@ -140,17 +140,17 @@ Los beneficiarios de estas becas podrán acceder a las mismas bajo las condicion
 
 Las becas que se otorguen en virtud de lo dispuesto por el presente Reglamento tendrán por objeto cubrir, total o parcialmente, el valor del arancel real de la carrera correspondiente.
 
-Se entenderá por "arancel real" el valor anual de la carrera, establecido por la institución de educación superior donde estudie el becario, informado al Ministerio de Educación en la oferta académica respectiva, cualquiera sea la denominación que en ella se le dé.
+Se entenderá por "arancel real" el valor anual de la carrera, establecido por la institución de educación superior donde estudie el becario, informado a la Subsecretaría de Educación Superior en la oferta académica respectiva, cualquiera sea la denominación que en ella se le dé.
 
-Para los efectos del presente reglamento, se entenderá por "Arancel de referencia" el monto máximo de dinero determinado por el Ministerio de Educación para financiar un plan o programa de estudios determinado. Dicho arancel se fijará anualmente, mediante el acto administrativo correspondiente.
+Para los efectos del presente reglamento, se entenderá por "Arancel de referencia" el monto máximo de dinero determinado por la Subsecretaría para financiar un plan o programa de estudios determinado. Dicho arancel se fijará anualmente, mediante el acto administrativo correspondiente.
 
 #### Artículo 3º
 
 Las becas del presente decreto son incompatibles entre sí, salvo que la suma de los recursos obtenidos por un alumno beneficiario sea inferior a $1.150.000 (un millón ciento cincuenta mil pesos) y esta cifra no sobrepase el arancel real de la carrera.
 
-Asimismo, las becas establecidas en el artículo 1º serán incompatibles con el beneficio estudiantil asociado al financiamiento institucional para la gratuidad establecido en la ley Nº 21.091, el cual tendrá preferencia en la asignación. No obstante la preferencia de asignación de estudios gratuitos, los postulantes que cumplan los requisitos para acceder a las becas Vocación de Profesor, Beca cumplimiento de sentencias y Acuerdos o de Reparación, se les asignará una de las referidas becas si cumplen los requisitos.
+Asimismo, las becas establecidas en el artículo 1º serán incompatibles con el beneficio estudiantil asociado al financiamiento institucional para la gratuidad establecido en la ley Nº 21.091, el cual tendrá preferencia en la asignación, por lo que el estudiante deberá renunciar a la beca mediante el formato dispuesto por la Subsecretaría para este efecto, dentro del proceso de reposición contemplado en el artículo 23 del presente reglamento, para utilizar el beneficio estudiantil asociado a la gratuidad. No obstante la preferencia de asignación de estudios gratuitos, los postulantes que cumplan los requisitos para acceder a las becas Vocación de Profesor, Beca cumplimiento de sentencias y Acuerdos o de Reparación, se les asignará una de las referidas becas si cumplen los requisitos.
 
-Con todo, el estudiante que hubiere recibido estudios gratuitos en años anteriores, habiendo perdido dicho beneficio posteriormente, podrá postular a las becas reguladas en el presente reglamento sólo para efectos de financiar una carrera o programa distinto de aquel o aquellos en que hubiere recibido estudios gratuitos. En tal caso, de resultar beneficiario de una beca, sólo podrá recibir asignación inicial por única vez y no le serán aplicables las normas reguladas en el título XIV de este reglamento.
+Con todo, el estudiante que hubiere recibido estudios gratuitos en años anteriores, habiendo perdido dicho beneficio posteriormente, podrá postular a las becas reguladas en el presente reglamento sólo para efectos de financiar una carrera o programa distinto de aquel o aquellos en que hubiere recibido estudios gratuitos. En tal caso, de resultar beneficiario de una beca, sólo podrá recibir asignación inicial por única vez después de haber obtenido gratuidad y no le serán aplicables las normas reguladas en el título XIV de este reglamento.
 
 #### Artículo 4º
 
@@ -182,7 +182,11 @@ El alumno que curse simultáneamente dos o más carreras sólo podrá optar al b
 
 #### Artículo 10°
 
-Las carreras y programas de estudio conducentes al título profesional de Médico Cirujano que, al 31 de enero del año del proceso de asignación de becas respectivo, no se presenten al proceso de acreditación de la ley 20.129 o que habiéndose presentado no obtuvieron la acreditación, no podrán acceder a ningún tipo de recursos otorgados directamente por el Estado o que cuenten con su garantía, para el financiamiento de los estudios de sus nuevos estudiantes.
+Para ser elegibles a las becas reguladas en el presente reglamento, las carreras y programas de estudio conducentes al título profesional de Médico Cirujano, Cirujano Dentista, Profesor de Educación Básica, Profesor de Educación Media, Profesor de Educación Diferencial o Especial y Educador de Párvulos, deberán contar con acreditación vigente al 31 de enero del año del proceso de asignación de becas respectivo. Se entenderá que cumplen esa condición las carreras y programas que a la señalada fecha se encuentren en proceso de acreditación ante la Comisión Nacional de Acreditación, de acuerdo con lo establecido en la ley N°20.129 y su reglamento. Con todo, este requisito no será aplicable para la beca de continuidad de estudios para estudiantes de instituciones en cierre.
+
+Asimismo, las carreras y programas que se encuentren en proceso de supervisión en virtud de lo dispuesto en el artículo 27 quinquies de la referida la ley 20.129, sólo serán elegibles en la medida que el Consejo Nacional de Educación informe a la Subsecretaría de Educación Superior sobre el acuerdo que autorice matrícula para el año respectivo.
+
+Adicionalmente, se exceptuarán del requisito de acreditación las nuevas carreras o programas impartidas por universidades acreditadas, por un plazo de tres años contado desde el inicio de las respectivas actividades académicas.
 
 ## Título II
 
@@ -204,17 +208,17 @@ e) Matricularse en una institución de educación superior que se encuentre acre
 
 #### Artículo 12
 
-Los requisitos objetivos que deban cumplir los estudiantes para la asignación de los beneficios establecidos en el presente reglamento, se aplicarán a los alumnos que ingresen a primer año y a los de cursos superiores. Los estudiantes beneficiarios de años anteriores-denominados renovantes-, estarán sujetos para el solo efecto de los requisitos de renovación; al cumplimiento de los requisitos académicos establecidos en el reglamento.
+Los requisitos objetivos que deban cumplir los estudiantes para la asignación de los beneficios establecidos en el presente reglamento, se aplicarán a los alumnos que ingresen a primer año y a los de cursos superiores. Los estudiantes beneficiarios de años anteriores-denominados renovantes-, estarán sujetos para el solo efecto de los requisitos de renovación al cumplimiento de los requisitos académicos establecidos en el reglamento y a observar lo dispuesto en el artículo 17 del mismo cuerpo reglamentario.
 
 #### Artículo 13
 
-En los casos que corresponda establecer la situación socioeconómica del alumno, se utilizará como instrumento de evaluación uniforme el Formulario Único de Acreditación Socioeconómica, en adelante "FUAS", que consiste en un formulario digital que administra el Ministerio de Educación, a través de su División de Educación Superior, para recabar antecedentes socioeconómicos del postulante a la educación superior y su grupo familiar y a partir del cual se determina el decil de ingresos al que pertenece el postulante.
+En los casos que corresponda establecer la situación socioeconómica del alumno, se utilizará como instrumento de evaluación uniforme el Formulario Único de Acreditación Socioeconómica, en adelante "FUAS", que consiste en un formulario digital que administra el Ministerio de Educación, a través de su la Subsecretaría, para recabar antecedentes socioeconómicos del postulante a la educación superior y su grupo familiar y a partir del cual se determina el decil de ingresos al que pertenece el postulante.
 
 La información obtenida mediante el FUAS se verificará con distintas bases de datos de organismos públicos, que permiten determinar la situación socioeconómica del postulante, en tramos de ingreso definidos por la Encuesta de Caracterización Socioeconómica Nacional, CASEN, o del instrumento que la reemplace. Dichos tramos de ingreso, serán corregidos de acuerdo a la información proporcionada por las bases de datos de otros organismos públicos. El resultado del instrumento permitirá distribuir a los postulantes en deciles ordenados en forma ascendente, de acuerdo al ingreso autónomo per cápita del hogar, corregido de acuerdo a las distintas bases de datos consultadas.
 
 El procedimiento de recolección de antecedentes y de calificación de la situación socioeconómica del "FUAS" se fijará mediante el correspondiente acto administrativo.
 
-La División de Educación Superior podrá solicitar al postulante que complemente o aclare la información entregada en el FUAS a través de la institución de educación superior en la que está matriculado, entidad que deberá realizar la respectiva acreditación socioeconómica y comunicarla a dicha repartición pública a través de la plataforma disponible para tal efecto.
+La Subsecretaría podrá solicitar al postulante que complemente o aclare la información entregada en el FUAS a través de la institución de educación superior en la que está matriculado, entidad que deberá realizar la respectiva acreditación socioeconómica y comunicarla a dicha repartición pública a través de la plataforma disponible para tal efecto.
 
 #### Artículo 14
 
@@ -222,9 +226,11 @@ Para el requisito de puntaje PSU establecido para las Becas Bicentenario, Juan G
 
 En el caso de la "Beca de Excelencia Académica", sólo se considerará la PSU del año de admisión, para cumplir el requisito de puntaje establecido para el beneficio.
 
+En todo caso, no será exigible el requisito de puntaje PSU, o del instrumento que la reemplace, para aquellos estudiantes que ingresen a la educación superior mediante el Programa de Acompañamiento y Acceso Efectivo (PACE).
+
 #### Artículo 15
 
-El promedio de notas de enseñanza media de los postulantes se obtendrá de la base de datos entregada por la Central Nacional de Tecnología del Ministerio de Educación.
+El promedio de notas y la información de contar con licencia de enseñanza media de los postulantes se obtendrá de la base de datos entregada por la Central Nacional de Tecnología del Ministerio de Educación.
 
 En caso que el Ministerio no cuente con las notas del postulante en sus registros y sistemas, se utilizarán las presentadas por el estudiante al momento de su matrícula y ante la institución de Educación Superior, en los casos que corresponda. En este caso, la institución deberá mantener en la carpeta personal del alumno, para efectos de fiscalización, los certificados o concentración de notas que acreditan la información entregada al Ministerio.
 
@@ -240,11 +246,13 @@ En estos casos, además de lo dispuesto en el artículo 11 del presente reglamen
 
 3. Cumplir con el avance académico establecido en el artículo 74.
 
+4. No haber sido beneficiario de estudios gratuitos en la misma carrera o programa de estudios.
+
 Tratándose de la Beca de continuidad de estudios para estudiantes de instituciones en cierre y beca Cumplimiento de Sentencias y Acuerdos, no se aplicarán estos requisitos.
 
 #### Artículo 17
 
-Para los efectos de acceder a las becas de que trata el presente reglamento, los postulantes no podrán contar previamente con título técnico de nivel superior o profesional. Sin embargo, se exceptúan de esta restricción los postulantes a las Becas de Articulación, Vocación de Profesor Continuidad de estudios para estudiantes de instituciones en cierre y cumplimiento de sentencias y acuerdos.
+Para los efectos de acceder a las becas de que trata el presente reglamento, los postulantes no podrán contar previamente con una licenciatura de carácter terminal, o título técnico de nivel superior o profesional. Sin embargo, se exceptúan de esta restricción los postulantes a las Becas de Articulación, Vocación de Profesor Continuidad de estudios para estudiantes de instituciones en cierre y cumplimiento de sentencias y acuerdos, de conformidad a lo que se regula en los títulos VIII, XI, XII y XII-A..
 
 ## Título III
 
@@ -252,39 +260,39 @@ Del Procedimiento de Postulación y Asignación
 
 #### Artículo 18
 
-El procedimiento de postulación a las becas señaladas en el artículo 1º del presente reglamento se realizará electrónicamente a través del FUAS, dispuesto a través de la página web que determine para tales efectos la División de Educación Superior.
+El procedimiento de postulación a las becas señaladas en el artículo 1º del presente reglamento se realizará electrónicamente a través del FUAS, dispuesto a través de la página web que determine para tales efectos la Subsecretaría.
 
 El FUAS será el único mecanismo válido de postulación a los beneficios que lo requieran, siendo responsabilidad del postulante informarse sobre las fechas del calendario de postulación. Para aquellas becas que no requieren acreditar una situación socioeconómica se dispondrá de un formulario específico para la postulación, en el sitio web señalado.
 
-El postulante deberá completar el FUAS, aceptar los términos y condiciones y enviar electrónicamente dicho formulario. Para todos los efectos del proceso de postulación, no se considerarán válidas las postulaciones inconclusas o que no sean enviadas electrónicamente a través de la página correspondiente, dentro de los plazos definidos por la División de Educación Superior para ello.
+El postulante deberá completar el FUAS, aceptar los términos y condiciones y enviar electrónicamente dicho formulario. Para todos los efectos del proceso de postulación, no se considerarán válidas las postulaciones inconclusas o que no sean enviadas electrónicamente a través de la página correspondiente, dentro de los plazos definidos por la Subsecretaría para ello.
 
-La División de Educación Superior podrá ampliar el plazo de postulación originalmente informado, lo que se comunicará mediante la página web que se disponga para ello.
+La Subsecretaría podrá ampliar el plazo de postulación originalmente informado, lo que se comunicará mediante la página web que se disponga para ello.
 
 #### Artículo 19
 
-Concluida la etapa de postulación, la División de Educación Superior publicará el "nivel socioeconómico" de cada postulante, una etapa informativa en la que dicha repartición comunica a los estudiantes si califican para alguno de los beneficios estudiantiles, en función del nivel socioeconómico determinado para el estudiante, previa validación con diversas bases de datos de otros organismos.
+Concluida la etapa de postulación, la Subsecretaría publicará el "nivel socioeconómico" de cada postulante, una etapa informativa en la que dicha repartición comunica a los estudiantes si califican para alguno de los beneficios estudiantiles, en función del nivel socioeconómico determinado para el estudiante, previa validación con diversas bases de datos de otros organismos.
 
-En aquellos casos que no sea posible la determinación del nivel socioeconómico del postulante, y este antecedente sea un requisito para acceder al beneficio, la División de Educación Superior requerirá al estudiante para que presente los documentos que acrediten su situación socioeconómica en la institución de educación superior donde se matricule. Las instituciones de educación superior deberán recibir dichos antecedentes socioeconómicos y estarán obligadas a mantenerlos en sus archivos por un período no inferior a la duración real de la carrera.
+En aquellos casos que no sea posible la determinación del nivel socioeconómico del postulante, y este antecedente sea un requisito para acceder al beneficio, la Subsecretaría requerirá al estudiante para que presente los documentos que acrediten su situación socioeconómica en la institución de educación superior donde se matricule. Las instituciones de educación superior deberán recibir dichos antecedentes socioeconómicos y estarán obligadas a mantenerlos en sus archivos por un período no inferior a la duración real de la carrera.
 
-Así, en el caso del inciso anterior, las instituciones de educación superior deberán acreditar la condición socioeconómica del postulante cuando corresponda, mediante la revisión de los antecedentes mínimos solicitados a éste durante el proceso de matrícula, según procedimiento que defina cada año para estos efectos la División de Educación Superior. Junto con lo anterior, las instituciones estarán facultadas para solicitar documentación adicional que permita comprobar y validar la situación socioeconómica del grupo familiar del postulante.
+Así, en el caso del inciso anterior, las instituciones de educación superior deberán acreditar la condición socioeconómica del postulante cuando corresponda, mediante la revisión de los antecedentes mínimos solicitados a éste durante el proceso de matrícula, según procedimiento que defina cada año para estos efectos la Subsecretaría. Junto con lo anterior, las instituciones estarán facultadas para solicitar documentación adicional que permita comprobar y validar la situación socioeconómica del grupo familiar del postulante.
 
-La institución respectiva deberá reportar los antecedentes a través de la plataforma dispuesta por la División de Educación Superior, en los plazos que ésta determine, a fin de que pueda establecer si en virtud de la condición socioeconómica del estudiante, éste califica para acceder al beneficio. En todo caso, la institución será responsable de entregar un resultado definitivo sobre la condición socioeconómica del estudiante.
+La institución respectiva deberá reportar los antecedentes a través de la plataforma dispuesta por la Subsecretaría, en los plazos que ésta determine, a fin de que pueda establecer si en virtud de la condición socioeconómica del estudiante, éste califica para acceder al beneficio. En todo caso, la institución será responsable de entregar un resultado definitivo sobre la condición socioeconómica del estudiante.
 
-Adicionalmente, la División de Educación Superior podrá verificar la veracidad de la información proporcionada por los postulantes, solicitando información a entidades públicas o privadas.
+Adicionalmente, la Subsecretaría podrá verificar la veracidad de la información proporcionada por los postulantes, solicitando información a entidades públicas o privadas.
 
 #### Artículo 20
 
-Se considerará que la institución de educación superior se encuentra en incumplimiento de la obligación de acreditación socioeconómica cuando, en los casos en que deba acreditar dicha condición, no haya ingresado en la plataforma dispuesta por el Ministerio de Educación al efecto, los datos necesarios para el proceso de verificación de los antecedentes socioeconómicos de los alumnos requeridos, o los incorpore en forma errónea, tardía o incompleta. En caso de producirse este incumplimiento, por causas imputables a la institución, se sancionará en conformidad con lo dispuesto en el artículo 90.
+Se considerará que la institución de educación superior se encuentra en incumplimiento de la obligación de acreditación socioeconómica cuando, en los casos en que deba acreditar dicha condición, no haya ingresado en la plataforma dispuesta por la Subsecretaría al efecto, los datos necesarios para el proceso de verificación de los antecedentes socioeconómicos de los alumnos requeridos, o los incorpore en forma errónea, tardía o incompleta. En caso de producirse este incumplimiento, por causas imputables a la institución, se sancionará en conformidad con lo dispuesto en el artículo 90.
 
 Incisos Eliminados.
 
 #### Artículo 21
 
-Previo a la selección del beneficio, el Ministerio de Educación realizará una pre-asignación, en virtud de la cual se le comunicará al estudiante, a través la página web dispuesta al efecto, que preliminarmente reúne los requisitos para ser beneficiario.
+Previo a la selección del beneficio, la Subsecretaría realizará una pre-asignación, en virtud de la cual se le comunicará al estudiante, a través la página web dispuesta al efecto, que preliminarmente reúne los requisitos para ser beneficiario.
 
-Dicha preasignación no constituye un derecho para el beneficiario, sino que constituye una etapa previa a la selección, en la cual la División de Educación Superior verificará el efectivo cumplimiento de la totalidad de los requisitos establecidos en el presente reglamento respecto de los beneficiarios del programa de becas de educación superior.
+Dicha preasignación no constituye un derecho para el beneficiario, sino que constituye una etapa previa a la selección, en la cual la Subsecretaría verificará el efectivo cumplimiento de la totalidad de los requisitos establecidos en el presente reglamento respecto de los beneficiarios del programa de becas de educación superior.
 
-Para proceder a la asignación definitiva del beneficio, las Instituciones de Educación Superior deberán informar a la División de Educación Superior del Ministerio de Educación, la nómina que acredita la matrícula en la respectiva institución, en los plazos establecidos por dicha División.
+Para proceder a la asignación definitiva del beneficio, las Instituciones de Educación Superior deberán informar a la Subsecretaría la Subsecretaría, la nómina que acredita la matrícula en la respectiva institución, en los plazos establecidos por dicha Subsecretaría.
 
 La nómina de estudiantes beneficiarios será comunicada a través de la página web. Una vez asignada la beca, ésta se hará efectiva mediante el pago directo a la institución de educación superior en que fue seleccionado el estudiante.
 
@@ -296,7 +304,7 @@ El proceso de renovación se realizará de acuerdo a lo establecido en el Títul
 
 #### Artículo 23
 
-Los postulantes que no obtuvieron el beneficio podrán reponer ante el Ministerio de Educación, en el plazo de quince (15) días corridos contados desde el momento de publicación del respectivo resultado de asignación.
+Los postulantes que no obtuvieron el beneficio podrán reponer ante la Subsecretaría, en el plazo de quince (15) días corridos contados desde el momento de publicación del respectivo resultado de asignación.
 
 La reposición se efectuará por vía electrónica, mediante un formulario que se encontrará disponible en la página web. Al interponer su reposición, deberá adjuntar la documentación que fundamenta su recurso, según la causal correspondiente.
 
@@ -328,15 +336,15 @@ También se podrá asignar este beneficio a estudiantes que se matriculen en cur
 
 3. Tener un buen rendimiento académico. Para determinar esta condición, los alumnos que postulan a esta beca, deberán haber obtenido en la Prueba de Selección Universitaria un puntaje promedio igual o superior a 500 puntos.
 
-Se exceptuarán de rendir la PSU aquellos postulantes en situación de discapacidad, según según lo informe el Servicio de Registro Civil e Identificación, de acuerdo con el Registro Nacional que mantiene al efecto. En su reemplazo, se les exigirá tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero). Para estos efectos, se podrá otorgar el número de becas que establezca la Ley de Presupuestos de cada año.
+Se exceptuarán de rendir la PSU aquellos postulantes en situación de discapacidad, según lo informe el Servicio de Registro Civil e Identificación, de acuerdo con el Registro Nacional que mantiene al efecto. En su reemplazo, se les exigirá tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero). Para estos efectos, se podrá otorgar el número de becas que establezca la Ley de Presupuestos de cada año.
 
 #### Artículo 24 bis
 
-Para hacer efectivo este beneficio, la institución en que se matriculen debe cumplir con la condición de que al menos el 80% de los estudiantes matriculados para el año de asignación del beneficio, en primer año en licenciaturas no conducentes a título, o carreras profesionales con licenciatura, cuenten con un puntaje ponderado promedio, igual o mayor a 450 puntos entre la Prueba de Selección Universitaria, el puntaje de notas de la enseñanza media y el puntaje de ranking de notas, los que se considerarán en idéntica proporción.
+Para hacer efectivo este beneficio, la institución en que se matriculen debe cumplir con la condición de que al menos el 80% de los estudiantes matriculados para el año anterior a la asignación del beneficio, en primer año en licenciaturas no conducentes a título, o carreras profesionales con licenciatura, cuenten con un puntaje ponderado promedio, igual o mayor a 450 puntos entre la Prueba de Selección Universitaria, el puntaje de notas de la enseñanza media y el puntaje de ranking de notas, los que se considerarán en idéntica proporción.
 
 #### Artículo 25
 
-La beca cubrirá, como máximo, el valor del arancel de referencia de la respectiva carrera, por los años que comprenda la malla curricular de la carrera, de conformidad a lo establecido en los artículos 4º y 5º. Para el solo efecto de la asignación de esta beca, el monto de dicho arancel de referencia se establecerá anualmente mediante resolución del Ministerio de Educación, visada por la Dirección de Presupuestos. En todo caso, el valor del arancel de referencia no podrá ser mayor al valor del arancel real de la carrera correspondiente.
+La beca cubrirá, como máximo, el valor del arancel de referencia de la respectiva carrera, por los años que comprenda la malla curricular de la carrera, de conformidad a lo establecido en los artículos 4º y 5º. Para el solo efecto de la asignación de esta beca, el monto de dicho arancel de referencia se establecerá anualmente mediante resolución de la Subsecretaría, visada por la Dirección de Presupuestos. En todo caso, el valor del arancel de referencia no podrá ser mayor al valor del arancel real de la carrera correspondiente.
 
 ## Título V
 
@@ -484,6 +492,8 @@ De la Elegibilidad de Carreras de Pedagogía. Sólo serán elegibles para hacer 
 
 3. Debe ser declarada por la institución en la oferta académica del año correspondiente como carrera elegible en todas sus sedes, modalidades y jornadas;
 
+4° La institución que la imparte debe comprometerse a que los beneficiarios de la Beca Vocación de Profesor no pagarán valor alguno en forma adicional a la matrícula y al arancel de la carrera establecido anualmente por la Subsecretaría, para efectos de esta beca, de conformidad a lo establecido en el artículo 45 del presente reglamento.
+
 #### Artículo 41
 
 Los requisitos contemplados en los numerales 1 y 2 del artículo 40 y en el número 1 del artículo 42 de este cuerpo normativo, no se aplicarán a las universidades creadas por la ley Nº 20.842, de conformidad a lo dispuesto en el artículo cuarto transitorio de este reglamento.
@@ -498,7 +508,7 @@ Para hacer efectiva esta Beca de acuerdo a lo establecido en el literal b) del a
 
 2. Programas o ciclos de formación en pedagogía para licenciados que la Institución de Educación Superior declare como elegibles en la oferta académica del respectivo Proceso de Admisión.
 
-3. La institución que la imparte debe comprometerse a que los beneficiarios de la Beca Vocación de Profesor no pagarán valor alguno en forma adicional a la matrícula y al arancel de la carrera establecido anualmente por el Ministerio de Educación, para efectos de esta Beca, de conformidad a lo establecido en el artículo 45 del presente Reglamento.
+3. La institución que la imparte debe comprometerse a que los beneficiarios de la Beca Vocación de Profesor no pagarán valor alguno en forma adicional a la matrícula y al arancel de la carrera establecido anualmente por la Subsecretaría, para efectos de esta Beca, de conformidad a lo establecido en el artículo 45 del presente Reglamento.
 
 ### Párrafo 3º
 
@@ -513,6 +523,8 @@ Adicionalmente, los postulantes deberán cumplir con los siguientes requisitos n
 a) Haber obtenido en la Prueba de Selección Universitaria entre las pruebas de Lenguaje y Comunicación y Matemáticas un puntaje promedio igual o superior a 600 puntos; o,
 
 b) Haber obtenido un promedio de notas de enseñanza media que se encuentre en el 10% mejor de su cohorte de egreso en el año anterior al proceso de asignación de becas respectivo, de establecimientos educacionales regidos por el DFL (Ed.) Nº2, de 1998, y el DL (Ed.) Nº 3.166, de 1980, y que a lo menos hayan obtenido 580 puntos promedio en la Prueba de Selección Universitaria.
+
+c) Haber ingresado a la educación superior mediante el Programa de Acompañamiento y Acceso Efectivo (PACE).
 
 #### Artículo 44
 
@@ -530,7 +542,7 @@ Se considerará como arancel de la carrera a cubrir por esta Beca el menor valor
 
 #### Artículo 46
 
-La División de Educación Superior o el órgano que la reemplace podrá requerir, a las Instituciones con carreras elegibles para este beneficio, informes de avance del proceso de matrícula de los postulantes a este beneficio, definiendo fechas de corte de la información de estudiantes matriculados.
+La Subsecretaría podrá requerir, a las Instituciones con carreras elegibles para este beneficio, informes de avance del proceso de matrícula de los postulantes a este beneficio, definiendo fechas de corte de la información de estudiantes matriculados.
 
 ### Párrafo 4º
 
@@ -560,7 +572,7 @@ Respecto de los postulantes señalados en la letra b) del artículo 37, los bene
 
 Además de la cobertura total de arancel y matrícula, los asignatarios de la beca en virtud del literal a) del artículo 37 del presente instrumento, tendrán acceso al beneficio adicional de cursar un semestre en el extranjero, cuyas condiciones y requisitos se establecerán mediante decreto del Ministerio de Educación, que reglamenta beneficio para cursar un semestre en el extranjero, en el marco de la Beca Vocación de Profesor.
 
-En caso que, haciendo uso de este beneficio adicional, el becario sufra un atraso en el avance académico del semestre respectivo, por razones debidamente justificadas, podrá solicitar a la División de Educación Superior, se conceda financiamiento adicional equivalente al atraso ocasionado, por un plazo máximo de un semestre, lo que sólo procederá en caso de ser autorizado expresamente por dicha repartición pública.
+En caso que, haciendo uso de este beneficio adicional, el becario sufra un atraso en el avance académico del semestre respectivo, por razones debidamente justificadas, podrá solicitar a la Subsecretaría, se conceda financiamiento adicional equivalente al atraso ocasionado, por un plazo máximo de un semestre, lo que sólo procederá en caso de ser autorizado expresamente por dicha repartición pública.
 
 ### Párrafo 5º
 
@@ -568,7 +580,7 @@ De la Obligación de Retribución
 
 #### Artículo 50
 
-Los beneficiarios de la beca que regula este título deberán cumplir la obligación de retribución, que consiste en ejercer su profesión una vez obtenido el título profesional correspondiente, por el tiempo y forma que se indica en este párrafo, en establecimientos educacionales dependientes de los Servicios Locales de Educación Pública, municipales, particulares-subvencionados, o de administración delegada, según las normas de este párrafo. En cualquier caso, el becario podrá cumplir su obligación en uno o más establecimientos educacionales.
+Los beneficiarios de la beca que regula este título deberán cumplir la obligación de retribución, que consiste en ejercer su profesión una vez obtenido el título profesional correspondiente, por el tiempo, oportunidad y forma que se indica en este párrafo, en establecimientos educacionales dependientes de los Servicios Locales de Educación Pública, municipales, particulares-subvencionados, o de administración delegada, según las normas de este párrafo. En cualquier caso, el becario podrá cumplir su obligación en uno o más establecimientos educacionales.
 
 Dicha obligación de retribución se hace exigible a partir de la obtención del título profesional de Profesor(a) o Educador(a) y en consecuencia no será exigible para aquellos beneficiarios que no obtengan el respectivo título. Para dar cumplimiento a ella contarán con un plazo de siete (7) años, contados desde la obtención del título de Profesor/a o educador/a.
 
@@ -580,17 +592,19 @@ En el caso de aquellos beneficiarios que cursaron estudios de Educación Parvula
 
 Por otra parte, los beneficiarios de la Beca Vocación de Profesor de acuerdo a lo establecido en la letra b) del artículo 37, una vez obtenido el título profesional de Profesor/a o Educador/a, deberán ejercer dicha profesión trabajando en un establecimiento educacional de los señalados en el inciso primero del presente artículo, por una cantidad de horas equivalentes a una jornada laboral docente de 44 horas semanales por el número de semestres de duración regular del ciclo o programa de formación pedagógico (sin considerar la licenciatura). No obstante, si el ciclo de formación tiene una duración superior a 4 semestres, el periodo de retribución deberá ser equivalente al número de semestres efectivamente financiado por la beca.
 
-Con todo, la División de Educación Superior podrá establecer, mediante el respectivo acto administrativo, los criterios que permitan disminuir la duración de la obligación de retribución en casos calificados, tales como ruralidad, áreas con menor demanda curricular, entre otros. Para optar a la reducción de la obligación de retribución, el beneficiario deberá solicitarlo en su carta de inicio o término de retribución, indicando el fundamento para requerir la disminución.
+Con todo, la Subsecretaría podrá establecer, mediante el respectivo acto administrativo, los criterios que permitan disminuir la duración de la obligación de retribución en casos calificados, tales como ruralidad, áreas con menor demanda curricular, entre otros. Para optar a la reducción de la obligación de retribución, el beneficiario deberá solicitarlo en su carta de inicio o término de retribución, indicando el fundamento para requerir la disminución.
 
 #### Artículo 51 bis
 
-Las instituciones de educación superior deberán informar anualmente al Ministerio de Educación, en los plazos que establezca para tales efectos el Sistema de Información de Educación Superior (SIES), Ia nómina de beneficiarios de esta Beca que hayan obtenido el título profesional de Profesor o Educador durante el año inmediatamente anterior, para efectos del cómputo del plazo de 7 años en el cual deben cumplir con la obligación de retribución.
+Las instituciones de educación superior deberán informar anualmente a la Subsecretaría, en los plazos que establezca para tales efectos el Sistema de Información de Educación Superior (SIES), Ia nómina de beneficiarios de esta Beca que hayan obtenido el título profesional de Profesor o Educador durante el año inmediatamente anterior, para efectos del cómputo del plazo de 7 años en el cual deben cumplir con la obligación de retribución.
 
 #### Artículo 52
 
-La obligación de retribución se formalizará a través de un convenio de cumplimiento que deberá suscribir el estudiante con el Ministerio de Educación, a través de la División de Educación Superior de manera previa a la asignación del beneficio, debiendo estar autorizada la firma del becario ante Notario Público. En el referido convenio constará la obligación de retribución en las condiciones indicadas en el presente párrafo, y el reconocimiento de la obligación de restituir los dineros percibidos en razón de la Beca Vocación de Profesor, en caso de que, habiendo obtenido el respectivo título profesional de Profesor(a) o Educador(a), el beneficiario no cumpla con la obligación de retribución dentro de los 7 años siguientes a la obtención.
+La obligación de retribución se formalizará a través de un convenio de cumplimiento que deberá suscribir el estudiante con el Ministerio de Educación, a través de la Subsecretaría de manera previa a la asignación del beneficio, debiendo estar autorizada la firma del becario ante Notario Público. En el referido convenio constará la obligación de retribución en las condiciones indicadas en el presente párrafo, y el reconocimiento de la obligación de restituir los dineros percibidos en razón de la Beca Vocación de Profesor, en caso de que, habiendo obtenido el respectivo título profesional de Profesor(a) o Educador(a), el beneficiario no cumpla con la obligación de retribución dentro de los 7 años siguientes a la obtención.
 
-En dicho convenio constará, además, la carrera que cursa el becario, su duración e institución que la imparte, la base sobre la cual la División de Educación Superior calculará el monto de la deuda. Asimismo, constará una autorización del beneficiario para que el Ministerio de Educación, a través de la División de Educación Superior, realice las gestiones necesarias para ejecutar el pago de la deuda en caso de no cumplimiento de la obligación de retribución.
+En dicho convenio constará, además, la carrera que cursa el becario, su duración e institución que la imparte, la base sobre la cual la Subsecretaría calculará el monto de la deuda. Asimismo, constará una autorización del beneficiario para que el Ministerio de Educación, a través de la Subsecretaría, realice las gestiones necesarias para ejecutar el pago de la deuda en caso de no cumplimiento de la obligación de retribución.
+
+En todo caso, serán aplicables las normas establecidas en el reglamento vigente al momento de verificarse el cumplimiento de la referida obligación, modificándose el convenio que hubiere suscrito el becario en todo lo que le resultare favorable a fin de dar por satisfecha la obligación de retribución.
 
 #### Artículo 52 bis
 
@@ -600,19 +614,19 @@ Aquellos estudiantes que obtuvieron la beca en años anteriores al 2016 y no hag
 
 #### Artículo 52 ter
 
-El becario hará entrega del referido convenio al Ministerio de Educación en el plazo establecido para este efecto por la División de Educación Superior. La suscripción y entrega del convenio señalado es un requisito indispensable para hacer efectiva la asignación de la beca.
+El becario hará entrega del referido convenio en el plazo establecido para este efecto por la Subsecretaría. La suscripción y entrega del convenio señalado es un requisito indispensable para hacer efectiva la asignación de la beca.
 
-Los beneficiarios de años anteriores al 2016 que hayan suscrito el convenio deberán entregarlos al Ministerio de Educación. Una vez recepcionados los convenios firmados por los beneficiarios por parte del Ministerio de Educación, éste hará devolución de la anterior garantía lo que en ningún caso podrá efectuarse antes de la total tramitación del acto administrativo que aprueba el respectivo convenio.
+Los beneficiarios de años anteriores al 2016 que hayan suscrito el convenio deberán entregarlos a la Subsecretaría. Una vez recepcionados los convenios firmados por los beneficiarios, la Subsecretaría hará devolución de la anterior garantía lo que en ningún caso podrá efectuarse antes de la total tramitación del acto administrativo que aprueba el respectivo convenio.
 
 #### Artículo 53
 
-El cumplimiento de la obligación de retribución se acreditará mediante la presentación ante la División de Educación Superior de uno o más certificado(s) extendido(s) por el o los Director(es) del o los establecimiento(s) educacional(es), en el que conste el tiempo en que el beneficiario ha ejercido labores docentes en el (los) respectivo(s) establecimiento(s). Dicho(s) documento(s) deberá(n) indicar la fecha de inicio y término de las labores desarrolladas para efectos de la retribución en el respectivo establecimiento, jornadas comprometidas y tipo de labores realizadas por el beneficiario. La veracidad de la declaración, podrá ser fiscalizada por el Ministerio de Educación, a través de su División de Educación Superior.
+El cumplimiento de la obligación de retribución se acreditará mediante la presentación ante la a la Subsecretaría de uno o más certificado(s) extendido(s) por el o los Director(es) del o los establecimiento(s) educacional(es), en el que conste el tiempo en que el beneficiario ha ejercido labores docentes en el (los) respectivo(s) establecimiento(s). Dicho(s) documento(s) deberá(n) indicar la fecha de inicio y término de las labores desarrolladas para efectos de la retribución en el respectivo establecimiento, jornadas comprometidas y tipo de labores realizadas por el beneficiario. La veracidad de la declaración, podrá ser fiscalizada por el Ministerio de Educación, a través de la Subsecretaría.
 
 El Ministerio de Educación no se responsabilizará por el cumplimiento de las obligaciones contractuales contraídas entre el establecimiento educacional y el beneficiario.
 
 #### Artículo 54
 
-Si vencido el plazo de 7 años para cumplir la obligación de retribución, el becario ha cumplido parcialmente con ésta, el Ministerio de Educación, a través de la División de Educación Superior, deberá cobrar proporcionalmente la deuda que mantiene el becario por concepto de arancel y matrícula, monto que será determinado por dicha Secretaría de Estado.
+Si vencido el plazo de 7 años para cumplir la obligación de retribución, el becario ha cumplido parcialmente con ésta, el Ministerio de Educación, a través de la Subsecretaría, deberá cobrar proporcionalmente la deuda que mantiene el becario por concepto de arancel y matrícula, monto que será determinado por dicha Secretaría de Estado.
 
 #### Artículo 54 bis
 
@@ -622,21 +636,21 @@ a) Estar cursando un programa de estudios conducente al grado de magíster o doc
 
 b) Imposibilidad material de dar cumplimiento a la obligación de retribución en el plazo, por hechos que no le sean imputables.
 
-La solicitud de prórroga debe presentarse ante la División de Educación Superior, acompañando los documentos que justifiquen el requerimiento. La División de Educación Superior calificará el mérito de la solicitud, aprobándola o rechazándola, mediante el acto administrativo que corresponda.
+La solicitud de prórroga debe presentarse ante la Subsecretaría, acompañando los documentos que justifiquen el requerimiento. La Subsecretaría calificará el mérito de la solicitud, aprobándola o rechazándola, mediante el acto administrativo que corresponda.
 
-Si vencido el plazo para cumplir la obligación de retribución, el becario ha cumplido parcialmente con ésta, la División de Educación Superior iniciará los trámites para cobrar proporcionalmente el arancel y matrícula cubierto por la beca, monto que será determinado por dicha repartición pública.
+Si vencido el plazo para cumplir la obligación de retribución, el becario ha cumplido parcialmente con ésta, la Subsecretaría iniciará los trámites para cobrar proporcionalmente el arancel y matrícula cubierto por la beca, monto que será determinado por dicha repartición pública.
 
 #### Artículo 54 ter
 
-La obligación de retribución quedará sin efecto en caso de fallecimiento del beneficiario o si éste sufre alguna enfermedad o accidente invalidante, que lo imposibilite para dar cumplimiento a su obligación, en el plazo o forma indicado en este párrafo. El beneficiario deberá solicitar la exención de la obligación de retribución debiendo acreditar ante el Ministerio de Educación, a través de la División de Educación Superior, la circunstancia que lo imposibilita para el cumplimiento de la obligación. Dicha repartición calificará el mérito de la solicitud, aprobándola o rechazándola. La aceptación de la solicitud eximirá al Becario de la restitución de la suma otorgada por la Beca.
+La obligación de retribución quedará sin efecto en caso de fallecimiento del beneficiario o si éste sufre alguna enfermedad o accidente invalidante, que lo imposibilite para dar cumplimiento a su obligación, en el plazo o forma indicado en este párrafo. El beneficiario deberá solicitar la exención de la obligación de retribución debiendo acreditar ante la Subsecretaría, la circunstancia que lo imposibilita para el cumplimiento de la obligación. Dicha repartición calificará el mérito de la solicitud, aprobándola o rechazándola. La aceptación de la solicitud eximirá al Becario de la restitución de la suma otorgada por la Beca.
 
 #### Artículo 54 quáter
 
-En caso de incumplimiento de la obligación de retribución, sin mediar autorización establecida en el artículo anterior, el beneficiario deberá restituir toda suma otorgada en razón de esta beca, o el proporcional en caso de que se haya cumplido la obligación parcialmente, debidamente reajustada anualmente según el valor del IPC desde el año de la primera asignación hasta el año previo a la restitución del monto correspondiente. En tal sentido, en el caso de los beneficiarios que hubieran realizado un cambio de institución o carrera y mantuvieron su beca, se considerarán los montos efectivos en forma independiente a la carrera inicial consignada en el convenio suscrito por el estudiante. La División de Educación Superior adoptará las medidas pertinentes para efectos de obtener el reintegro de dichos montos, a través de las acciones judiciales que correspondan.
+En caso de incumplimiento de la obligación de retribución, sin mediar autorización establecida en el artículo anterior, el beneficiario deberá restituir toda suma otorgada en razón de esta beca, o el proporcional en caso de que se haya cumplido la obligación parcialmente, debidamente reajustada anualmente según el valor del IPC desde el año de la primera asignación hasta el año previo a la restitución del monto correspondiente. En tal sentido, en el caso de los beneficiarios que hubieran realizado un cambio de institución o carrera y mantuvieron su beca, se considerarán los montos efectivos en forma independiente a la carrera inicial consignada en el convenio suscrito por el estudiante. La Subsecretaría adoptará las medidas pertinentes para efectos de obtener el reintegro de dichos montos, a través de las acciones judiciales que correspondan.
 
 #### Artículo 55
 
-Verificado el cumplimiento de la obligación de retribución, el Ministerio de Educación dejará constancia de esta situación mediante el acto administrativo correspondiente.
+Verificado el cumplimiento de la obligación de retribución, la Subsecretaría" dejará constancia de esta situación mediante el acto administrativo correspondiente.
 
 En caso de los beneficiarios de años anteriores al 2016 que no hayan suscrito el convenio, el Ministerio de Educación hará devolución de la garantía, dentro del plazo de treinta (30) días hábiles, contados desde la fecha de dictación del acto administrativo al que alude este artículo.
 
@@ -658,7 +672,7 @@ b) En el caso de aquellos estudiantes de Universidades, Institutos Profesionales
 
 #### Artículo 57
 
-Para hacer efectivo su derecho, deberá presentar ante el Ministerio de Educación los documentos que acrediten su calidad de hijo/a de las personas indicadas en el artículo 56. La edad límite para impetrar este beneficio será la de 35 años.
+Para hacer efectivo su derecho, deberá presentar ante la Subsecretaría" los documentos que acrediten su calidad de hijo/a de las personas indicadas en el artículo 56. La edad límite para impetrar este beneficio será la de 35 años.
 
 ### Párrafo 2º
 
@@ -674,7 +688,7 @@ En caso que a la entrada en vigencia de la ley Nº 20.405, hubiere fallecido el 
 
 En el caso indicado en el artículo anterior, al postulante no le serán exigibles los requisitos establecidos en el artículo 11 del presente reglamento, y se hará beneficiario de la respectiva beca dando cumplimiento a las siguientes condiciones:
 
-a) Acreditar ante el Ministerio de Educación la calidad de descendiente del beneficiario hasta el segundo grado de consanguinidad en línea recta, mediante la presentación de los certificados de nacimiento que sean necesarios para acreditar el vínculo parental.
+a) Acreditar ante la Subsecretaría" la calidad de descendiente del beneficiario hasta el segundo grado de consanguinidad en línea recta, mediante la presentación de los certificados de nacimiento que sean necesarios para acreditar el vínculo parental.
 
 b) Acreditar el traspaso del beneficio mediante instrumento notarial suscrito por el titular. En caso de fallecimiento del titular del beneficio sin haber hecho uso de éste, el traspaso deberá acreditarse mediante instrumento notarial suscrito conjuntamente por el resto de los descendientes y el cónyuge sobreviviente, si hubiere. En este último caso, deberá adjuntarse a dicho instrumento notarial el Certificado de Posesión Efectiva del difunto, emitido por el Servicio de Registro Civil e Identificación, si existiere. En todo caso, se deberá acompañar una declaración jurada que dé cuenta del total de los descendientes del difunto y sus identidades, la que será cotejada con la información existente en el Servicio de Registro Civil e Identificación.
 
@@ -728,7 +742,7 @@ Beca de Cumplimiento de Sentencias y Acuerdos
 
 La Beca Cumplimiento de Sentencias y Acuerdos se asignará a las personas que se encuentran en los siguientes casos:
 
-a) Aquellas individualizadas en el acto administrativo dictado en cumplimiento de lo establecido en el Capítulo VIII, Nº 3, letra b) de la sentencia dictada por la Corte Interamericana de Derechos Humanos para el caso "Norín Catrimán y Otros vs Chile", de fecha 29 de mayo de 2014, que se matriculen en instituciones de educación superior que se encuentren acreditadas al 31 de diciembre del año anterior a la asignación de dicho beneficio, de conformidad a la ley Nº 20.129.
+a) Aquellas individualizadas en el Ord. N°1077, de fecha 9 de mayo de 2017, del Ministerio de Desarrollo Social y Familia, y sus posteriores modificaciones, dictado en cumplimiento de lo establecido en el Capítulo VIII, Nº 3, letra b) de la sentencia dictada por la Corte Interamericana de Derechos Humanos para el caso "Norín Catrimán y Otros vs Chile", de fecha 29 de mayo de 2014, que se matriculen en instituciones de educación superior que se encuentren acreditadas al 31 de diciembre del año anterior a la asignación de dicho beneficio, de conformidad a la ley Nº 20.129.
 
 b) Caso Lemún Saavedra: En cumplimiento de lo dispuesto en el numeral 4º, literal a), del Acuerdo que contiene las recomendaciones emitidas por la Comisión Interamericana de Derechos Humanos en el caso de Edmundo Alex Lemún Saavedra vs Chile, suscrito con fecha 9 de marzo de 2018, se otorgará el presente beneficio a la persona allí individualizada, que se matricule en instituciones de educación superior que se encuentren acreditadas al 31 de diciembre del año anterior a la asignación de dicho beneficio, de conformidad a la ley Nº 20.129.
 
@@ -764,9 +778,7 @@ Para optar a la Beca de Articulación, además de los requisitos señalados en e
 
 #### Artículo 70
 
-La condición indicada en el número 4 del artículo anterior, se acreditará presentando ante la Institución de Educación Superior donde se matricule el alumno, el certificado de egreso o titulación de la carrera técnica de nivel superior cursada anteriormente.
-
-La Institución de Educación Superior deberá informar y remitir copia del documento respectivo a la División de Educación Superior, debiendo mantener en la carpeta personal del alumno, para efectos de fiscalización, la documentación que respalda lo informado.
+La condición indicada en los numerales 4 y 5 del artículo anterior, se verificará con la información de las bases de datos de titulados y egresados del SIES.
 
 #### Artículo 71
 
@@ -796,7 +808,7 @@ Asimismo, se asignará a alumnos reubicados en virtud de un convenio de colabora
 
 #### Artículo 72 quáter
 
-Este beneficio será renovable en las condiciones que establece el presente reglamento, y se prolongará por la duración regular de la carrera que curse al momento de la asignación. En el caso de los estudiantes que postulen con posterioridad al primer año de carrera, o a quienes se les hayan convalidado estudios previos, se les otorgará la beca regulada por este título, sólo por el tiempo que reste para completar la malla curricular, excluyendo procesos de titulación y práctica, en aquellos casos en que no estén incluidos en la malla curricular.
+Este beneficio será renovable en las condiciones que establece el presente reglamento, y se prolongará por la duración regular de la carrera que curse al momento de la asignación. En el caso de los estudiantes que postulen con posterioridad al primer año de carrera, o a quienes se les hayan convalidado estudios previos, según lo informado por la institución en la matrícula, se les otorgará la beca regulada por este título, sólo por el tiempo que reste para completar la malla curricular, excluyendo procesos de titulación y práctica, en aquellos casos en que no estén incluidos en la malla curricular.
 
 ## Título XIII
 
@@ -804,19 +816,19 @@ De la Renovación del Beneficio
 
 #### Artículo 73
 
-Se denomina "Renovación" al proceso por el cual el Ministerio de Educación, a través de la División de Educación Superior, valida año a año los antecedentes de los estudiantes que cursan el segundo año o superior del plan de estudios de su carrera profesional o técnica y que cuentan con un beneficio otorgado por el Estado. El Ministerio de Educación en esta instancia evalúa el cumplimiento por parte del estudiante de los requisitos necesarios para la mantención del beneficio para el año correspondiente.
+Se denomina "Renovación" al proceso por el cual el Ministerio de Educación, a través de la Subsecretaría, valida año a año los antecedentes de los estudiantes que cursan el segundo año o superior del plan de estudios de su carrera profesional o técnica y que cuentan con un beneficio otorgado por el Estado. La Subsecretaría en esta instancia evalúa el cumplimiento por parte del estudiante de los requisitos necesarios para la mantención del beneficio para el año correspondiente.
 
 #### Artículo 74
 
 Los requisitos que deberán cumplir los beneficiarios para renovar las becas a que se refiere este decreto son los siguientes:
 
-a) Mantener la condición de alumno regular de la carrera e institución de educación superior en la que fue otorgado el beneficio o en la cual se aprobó el cambio. Las instituciones de educación superior deberán informar cada año, a la División de Educación Superior del Ministerio de Educación, la nómina que acredita la matrícula en la respectiva institución en los plazos establecidos por dicha División.
+a) Mantener la condición de alumno regular de la carrera e institución de educación superior en la que fue otorgado el beneficio o en la cual se aprobó el cambio. Las instituciones de educación superior deberán informar cada año, a la Subsecretaría, la nómina que acredita la matrícula en la respectiva institución en los plazos establecidos por dicha repartición.
 
 b) Haber aprobado, a lo menos, el 60% de las asignaturas inscritas durante el primer año académico. Para los cursos superiores, deberá tener aprobado el 70% de las asignaturas inscritas en el año anterior.
 
 c) En el caso de alumnos renovantes a quienes se asignó la beca del cupo especial para estudiantes con discapacidad, se exigirá como mínimo el 50% de aprobación sobre las asignaturas inscritas del año anterior. El mismo porcentaje se exigirá en caso de la Beca de continuidad de estudios para estudiantes de instituciones en cierre.
 
-La beca será renovada año a año por un período máximo igual a la duración de la carrera informada por la Institución de Educación Superior al Ministerio de Educación según la oferta académica respectiva.
+La beca será renovada año a año por un período máximo igual a la duración de la carrera en que obtuvo el beneficio, de acuerdo con lo informado por la Institución de Educación Superior a la Subsecretaría según la oferta académica respectiva.
 
 ## Título XIV
 
@@ -824,9 +836,9 @@ Del cambio de carrera y/o institución
 
 #### Artículo 75
 
-Excepcionalmente, por causas debidamente justificadas, se podrá autorizar al beneficiario por única vez un cambio de carrera y/o institución manteniendo los beneficios obtenidos inicialmente, lo que deberá acreditarse ante la División de Educación Superior del Ministerio de Educación.
+Los becarios sólo podrán efectuar un cambio de carrera y/o institución como máximo, manteniendo los beneficios obtenidos inicialmente.
 
-Sin perjuicio de lo señalado, el Ministerio de Educación podrá eximir del máximo de un cambio de carrera o institución a aquellos estudiantes que se encuentren afectados por situaciones de fuerza mayor debidamente calificadas por el mismo Ministerio.
+Sin perjuicio de lo señalado, el Ministerio de Educación podrá eximir del máximo de un cambio de carrera o institución a aquellos estudiantes que se encuentren afectados por situaciones de caso fortuito o fuerza mayor debidamente calificadas por el mismo Ministerio.
 
 #### Artículo 76
 
@@ -870,9 +882,9 @@ Suspensiones y otras situaciones de excepción
 
 Excepcionalmente, podrán continuar con el beneficio obtenido aquellos estudiantes que hayan debido suspender sus estudios. La suspensión se considerará de forma semestral, por el periodo máximo de un año académico.
 
-Sin perjuicio de lo anterior, el Ministerio de Educación, a través de la División de Educación Superior, podrá autorizar, en forma excepcional, y por razones debidamente justificadas, la suspensión por un plazo superior al establecido en el inciso anterior.
+Sin perjuicio de lo anterior, el Ministerio de Educación, a través de la Subsecretaría, podrá autorizar, en forma excepcional, y por razones debidamente justificadas, la suspensión por un plazo superior al establecido en el inciso anterior.
 
-Para solicitar la suspensión del beneficio, el estudiante deberá presentar ante la Institución de Educación Superior el Formulario dispuesto para ello por el Ministerio de Educación en la página web que mantiene para ese efecto. Por su parte, una vez aprobada la suspensión académica, la institución remitirá a la División de Educación Superior dichos antecedentes, así como también deberá informar la reincorporación del estudiante en los casos de suspensiones por un semestre, todo ello en los plazos que esta establezca. En todo caso, para la aprobación de la suspensión de estudios se considerará el avance académico de los dos últimos semestres cursados, cumpliendo para tal efecto con el requisito indicado en las letras b) o c) del artículo 74, según corresponda.
+Para solicitar la suspensión del beneficio, el estudiante deberá presentar ante la Institución de Educación Superior el Formulario dispuesto para ello por el Ministerio de Educación en la página web que mantiene para ese efecto. Por su parte, una vez aprobada la suspensión académica, la institución remitirá a la Subsecretaría dichos antecedentes, así como también deberá informar la reincorporación del estudiante en los casos de suspensiones por un semestre, todo ello en los plazos que esta establezca. En todo caso, para la aprobación de la suspensión de estudios se considerará el avance académico de los dos últimos semestres cursados, cumpliendo para tal efecto con el requisito indicado en las letras b) o c) del artículo 74, según corresponda.
 
 #### Artículo 80
 
@@ -884,7 +896,7 @@ En caso que el postulante señalado en la letra b) del artículo 37 del presente
 
 #### Artículo 82
 
-Excepcionalmente, y por una única vez a lo largo de la carrera, el Ministerio de Educación podrá, a través de la División de Educación Superior, eximir del cumplimiento de la exigencia de avance curricular señalada en las letras b) o c) del artículo 74, según corresponda a aquellos estudiantes que se encuentren afectados por situaciones de fuerza mayor debidamente calificadas por el Ministerio. Esta solicitud deberá ser debidamente documentada para su revisión y aprobación, y deberá presentarse en los plazos y a través de los medios establecidos.
+Excepcionalmente, y por una única vez a lo largo de la carrera, el Ministerio de Educación podrá, a través de la Subsecretaría, eximir del cumplimiento de la exigencia de avance curricular señalada en las letras b) o c) del artículo 74, según corresponda a aquellos estudiantes que se encuentren afectados por situaciones de fuerza mayor debidamente calificadas por el Ministerio. Esta solicitud deberá ser debidamente documentada para su revisión y aprobación, y deberá presentarse en los plazos y a través de los medios establecidos.
 
 ## Título XVI
 
@@ -898,9 +910,9 @@ a) Cuando hubieren omitido antecedentes o faltado a la verdad al proporcionar la
 
 b) Cuando se compruebe la falsedad de los respaldos de la situación económica, académica o familiar del beneficiado.
 
-c) Por retiro, abandono o suspensión temporal de la carrera sin autorización del Ministerio de Educación, o cambio de institución sin la autorización de la División de Educación Superior del Ministerio de Educación.
+c) Por retiro, abandono, suspensión temporal de la carrera sin autorización del Ministerio de Educación, o cambio de institución sin la autorización de la Subsecretaría.
 
-d) Cuando incurrieren en alguna causal de eliminación prevista en la reglamentación académica de la institución de educación superior respectiva. En el caso de que el alumno incurriere en las causales de la letra a) y/o b), éste quedará impedido para postular a los beneficios que contempla el Programa de Becas de Educación Superior y el Fondo Solidario de Crédito Universitario, por 2 (dos) años consecutivos.
+d) Cuando incurrieren en alguna causal de eliminación prevista en la reglamentación académica de la institución de educación superior respectiva. En el caso de que el alumno incurriere en las causales de la letra a) y/o b), éste quedará impedido para postular a los beneficios que contempla el Programa de Becas de Educación Superior, el beneficio estudiantil asociado a la gratuidad y el Fondo Solidario de Crédito Universitario, por 2 (dos) años consecutivos.
 
 #### Artículo 84
 
@@ -916,23 +928,23 @@ Del control, supervisión y sanciones
 
 #### Artículo 86
 
-Para efectos de la verificación del cumplimiento de los requisitos establecidos en el presente reglamento respecto de los beneficiarios, el Ministerio de Educación, a través de la División de Educación Superior, podrá requerir a la respectiva institución de educación superior la información que estime pertinente.
+Para efectos de la verificación del cumplimiento de los requisitos establecidos en el presente reglamento respecto de los beneficiarios, la Subsecretaría, podrá requerir a la respectiva institución de educación superior la información que estime pertinente.
 
 #### Artículo 87
 
-Corresponderá a la División de Educación Superior del Ministerio de Educación la fiscalización de la asignación y uso de los recursos destinados a becas de matrícula de educación superior. También podrá efectuar revisiones en cada institución de educación superior que cuente con estudiantes beneficiarios, tendientes a rectificar y controlar los procesos y verificar la información disponible en las instituciones.
+Sin perjuicio de las facultades de la Superintendencia de Educación Superior, la Subsecretaría podrá solicitar información respecto de la asignación y uso de los recursos destinados a las becas reguladas en el presente reglamento. También podrá efectuar revisiones en cada institución de educación superior que cuente con estudiantes beneficiarios, tendientes a rectificar y controlar los procesos y verificar la información disponible en las instituciones.
 
 #### Artículo 88
 
-Para los efectos señalados en el artículo anterior, las instituciones de educación superior que reciban recursos del ítem "Becas Educación Superior" deberán implementar sistemas de seguimiento académico de los becarios e informar de sus resultados al Ministerio de Educación en los plazos y forma que éste requiera. En caso que un estudiante suspenda, abandone o interrumpa por cualquier causa sus estudios la institución deberá informar, dentro de los 15 días hábiles siguientes de constatado el hecho, al Ministerio de Educación, a través de la plataforma dispuesta para estos efectos o mediante comunicación escrita.
+Para los efectos señalados en el artículo anterior, las instituciones de educación superior que reciban recursos del ítem "Becas Educación Superior" deberán implementar sistemas de seguimiento académico de los becarios e informar de sus resultados al Ministerio de Educación, a través de la Subsecretaría, en los plazos y forma que se requiera. En caso que un estudiante suspenda, abandone o interrumpa por cualquier causa sus estudios la institución deberá informar, dentro del plazo que establezca la Subsecretaría, a través de la plataforma dispuesta para estos efectos o mediante comunicación escrita.
 
 #### Artículo 89
 
-Para todos los efectos de este reglamento, se considera que la institución de educación superior es la responsable de velar por el cumplimiento íntegro de este reglamento, en base a la información que ésta proporciona en sus distintos procesos al Ministerio de Educación.
+Para todos los efectos de este reglamento, se considera que la institución de educación superior es la responsable de velar por el cumplimiento íntegro de este reglamento, en base a la información que ésta proporciona en sus distintos procesos a la Subsecretaría.
 
 #### Artículo 90
 
-En caso de que la División de Educación Superior detectare que la Institución de Educación Superior ha proporcionado información errónea o incompleta a dicha Secretaría de Estado, para efectos de la asignación y/o mantención de los beneficios que regula el presente reglamento, dicha repartición lo comunicará a la Superintendencia de Educación Superior, a fin de que proceda conforme a lo dispuesto en la ley Nº 21.091, y eventualmente aplique alguna de las sanciones del párrafo 6º del Título III del referido cuerpo normativo. Para estos efectos, el órgano fiscalizador podrá ordenar a la institución de educación superior asumir el financiamiento equivalente al beneficio que el estudiante perjudicado habría obtenido durante el o los periodos académicos respectivos, en el marco del inciso segundo del artículo 56 de la señalada ley Nº 21.091.
+En caso de que la Subsecretaría detectare que la Institución de Educación Superior ha proporcionado información errónea o incompleta, para efectos de la asignación y/o mantención de los beneficios que regula el presente reglamento, dicha repartición lo comunicará a la Superintendencia de Educación Superior, a fin de que proceda conforme a lo dispuesto en la ley Nº 21.091, y eventualmente aplique alguna de las sanciones del párrafo 6º del Título III del referido cuerpo normativo. Para estos efectos, el órgano fiscalizador podrá ordenar a la institución de educación superior asumir el financiamiento equivalente al beneficio que el estudiante perjudicado habría obtenido durante el o los periodos académicos respectivos, en el marco del inciso segundo del artículo 56 de la señalada ley Nº 21.091.
 
 ## Título XVIII
 
@@ -942,7 +954,7 @@ Del Procedimiento de Restitución
 
 Las instituciones de educación superior se encuentran obligadas a restituir al Ministerio de Educación, dentro del plazo que éste determinare para tal efecto, todo pago que por concepto de becas hubiese efectuado dicha Secretaría de Estado, respecto de un estudiante que, en definitiva, no hubiese hecho uso del beneficio en el periodo académico en el que se le asignó.
 
-En estos casos, una vez cerrado el año académico, la institución de educación superior deberá, a través de la plataforma tecnológica dispuesta para el efecto, o mediante comunicación escrita, informar al Ministerio de Educación dichos montos no utilizados por los becarios, indicando el número de cédula de identidad del alumno, la carrera y la causal de la no utilización del beneficio.
+En estos casos, una vez cerrado el año académico, la institución de educación superior deberá, a través de la plataforma tecnológica dispuesta para el efecto, o mediante comunicación escrita, informar a la Subsecretaría dichos montos no utilizados por los becarios, indicando el número de cédula de identidad del alumno, la carrera y la causal de la no utilización del beneficio.
 
 #### Artículo 92
 
@@ -960,19 +972,19 @@ Para los efectos del procedimiento reglamentado en este Título, se considerará
 
 #### Artículo 93
 
-Analizada la información a que se refiere el inciso segundo del artículo 91 de este reglamento, el Ministerio de Educación calculará los montos que deberán ser restituidos por la institución de educación superior.
+Analizada la información a que se refiere el inciso segundo del artículo 91 de este reglamento, el Ministerio de Educación, a través de la Subsecretaría, calculará los montos que deberán ser restituidos por la institución de educación superior.
 
-Sin perjuicio de lo informado por la institución, el Ministerio de Educación podrá incorporar al análisis previamente señalado otros casos detectados, y que no hayan sido oportunamente declarados.
+Sin perjuicio de lo informado por la institución, la Subsecretaría podrá incorporar al análisis previamente señalado otros casos detectados, y que no hayan sido oportunamente declarados.
 
-Lo señalado en los incisos anteriores, se comunicará a la institución de educación superior, a modo informativo, a través de la plataforma de gestión dispuesta para tal efecto por el Ministerio de Educación. Dicha plataforma enviará un correo electrónico a todas las contrapartes de becas de todas las instituciones de educación superior.
+Lo señalado en los incisos anteriores, se comunicará a la institución de educación superior, a modo informativo, a través de la plataforma de gestión dispuesta para tal efecto. Dicha plataforma enviará un correo electrónico a todas las contrapartes de becas de todas las instituciones de educación superior.
 
 #### Artículo 94
 
-La institución de educación superior, si lo estima conveniente, podrá rectificar, aclarar o complementar la información a que se refiere el inciso segundo del artículo 91 de este reglamento, dentro de los 15 días hábiles siguientes a la fecha de envío del correo electrónico a que se refiere el inciso final del artículo anterior, mediante la entrega de nuevos antecedentes al Ministerio de Educación.
+La institución de educación superior, si lo estima conveniente, podrá rectificar, aclarar o complementar la información a que se refiere el inciso segundo del artículo 91 de este reglamento, dentro de los 15 días hábiles siguientes a la fecha de envío del correo electrónico a que se refiere el inciso final del artículo anterior, mediante la entrega de nuevos antecedentes a la Subsecretaría.
 
-El Ministerio de Educación publicará en la Plataforma de Gestión el Informe Final de montos a restituir por la institución de educación superior, junto a lo cual, procederá a emitir el acto administrativo respectivo que disponga la restitución que corresponda.
+La Subsecretaría publicará en la Plataforma de Gestión el Informe Final de montos a restituir por la institución de educación superior, junto a lo cual, procederá a emitir el acto administrativo respectivo que disponga la restitución que corresponda.
 
-Posteriormente, mediante carta certificada, dicha Secretaría de Estado notificará a la institución de educación superior los montos que deberá restituir, la forma y el plazo para tal efecto.
+Posteriormente, mediante carta certificada, se notificará a la institución de educación superior los montos que deberá restituir, la forma y el plazo para tal efecto.
 
 En este caso procederán los recursos establecidos en el artículo 59 de la ley N° 19.880.
 
@@ -982,7 +994,7 @@ Transcurrido el plazo otorgado a la institución para realizar la respectiva res
 
 ## Artículos transitorios
 
-Primero: Respecto de aquellos estudiantes que durante el año 2010 y anteriores hayan sido beneficiarios de la Beca para Estudiantes Destacados que Ingresen a Pedagogía, que deseen renovar dicha Beca deberán cumplir con los requisitos de renovación establecidos en el Reglamento vigente al momento de su otorgamiento.
+Primero: A partir del año 2021, toda referencia a la Prueba de Selección Universitaria, o PSU, contenida en el presente reglamento, se entenderá hecha al instrumento que la reemplace, según lo establezca el Sistema de Acceso a las instituciones de educación superior creado por la ley N°21.091, sobre educación superior.
 
 Segundo: La referencia que se realiza en el artículo 13º de la resolución exenta Nº 118, de 2010, de la Junta Nacional de Auxilio Escolar y Becas, o la que la reemplace, al artículo 16 bis del decreto Nº 39, de 2011, que modifica el decreto supremo Nº 337, de 2010, deberá entenderse referida a este artículo transitorio, en los siguientes términos:
 
@@ -994,13 +1006,11 @@ b) Para aquellos estudiantes que hayan obtenido un puntaje promedio en la Prueba
 
 c) Para aquellos estudiantes que hayan obtenido un puntaje promedio en la Prueba de Selección Universitaria (PSU) mayor o igual a 720 (setecientos veinte) puntos, entre las pruebas de Lenguaje y Comunicación y Matemáticas.".
 
-Tercero: Para los efectos del otorgamiento en el proceso de asignación de la Beca Nuevo Milenio, antes del 31 de marzo de 2019, el Ministerio de Educación podrá, mediante resolución fundada, eximir durante el año 2019 de la exigencia de la acreditación institucional señalada, a aquellas instituciones que, durante el año 2018, posean una tasa de retención de primer año superior o igual a un 50% y que se encuentren en alguna de las siguientes situaciones:
+Tercero: Para los efectos del otorgamiento en el proceso de asignación de la Beca Nuevo Milenio, antes del 31 de marzo del año de asignación del beneficio, el Ministerio de Educación podrá, mediante resolución fundada, eximir durante dicha anualidad de la exigencia de la acreditación institucional señalada, a centros de formación técnica o institutos profesionales que:
 
-i. Que la institución se encuentre en proceso de acreditación antes del 31 de diciembre de 2018, en los términos del artículo 10 de la resolución exenta D.J. Nº 3, de 2013, de la Comisión Nacional de Acreditación o que, por la aplicación de la resolución exenta DJ Nº 017-4 del 22 de diciembre de 2014, de la misma Comisión no puedan solicitar su incorporación, por primera vez, al proceso de acreditación institucional, sino hasta marzo de 2019.
+i. Durante el año anterior posean una tasa de retención de primer año superior o igual a un 50%.
 
-Para los efectos de la aplicación de esta excepción, se considerará que la institución no cumple con la presente condición, si habiendo presentado recursos a la resolución de la Comisión Nacional de Acreditación o ante el Consejo Nacional de Educación, estos se encontraren pendientes de resolución al 31 de diciembre de 2018.
-
-ii. Que se trate de centros de formación técnica o institutos profesionales que se encuentren sujetos al sistema de al 31 de diciembre de 2018, ante el Consejo Nacional de Educación y que no se encuentren sancionados por dicho organismo.
+ii. Que se encuentren sujetos al sistema de licenciamiento al 31 de diciembre del año anterior, ante el Consejo Nacional de Educación; y
 
 Lo establecido en este artículo, no será aplicable a la situación descrita en el inciso segundo y del artículo 30 y en el artículo 32 del presente reglamento.
 
