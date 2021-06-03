@@ -410,7 +410,7 @@ Sin perjuicio de lo dispuesto precedentemente, podrán atender público aquellos
 
 55. De la atención presencial de público en espacios cerrados. Se prohíbe la atención presencial de público en espacios cerrados excepto de aquellos que estén permitidos en el Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
-Estos espacios tendrán un aforo máximo de 1 persona por cada 8 metros cuadrados del total de la superficie útil destinada a la atención de público. En caso que el espacio sea menor a 8 metros cuadrados, se podrá atender como máximo una persona. Para el cálculo del aforo no se considerará las personas que trabajan en el lugar.
+Estos espacios tendrán un aforo máximo de 1 persona por cada 8 metros cuadrados del total de la superficie útil destinada a la atención de público. En caso que el espacio sea menor a 8 metros cuadrados, se podrá atender como máximo una persona. Para el cálculo del aforo se considerarán las personas que trabajan en el lugar. Con todo, siempre podrá haber, a lo menos, un cliente.
 
 56. De los eventos, actividades, entrenamientos y competencias deportivas. Prohíbanse los eventos, actividades, entrenamientos y competencias deportivas, a excepción de aquellas que cuenten con un permiso otorgado conforme a lo dispuesto en el numeral 33 de la presente resolución.
 
@@ -486,7 +486,7 @@ Sin perjuicio de lo dispuesto precedentemente, podrán atender público aquellos
 
 71. De la atención presencial de público en espacios abiertos y cerrados. Se permite el funcionamiento de establecimientos cerrados que atiendan público.
 
-Estos espacios tendrán un aforo máximo de 1 persona por cada 8 metros cuadrados de la superficie útil destinada a atención de público. En caso que el espacio sea menor a 8 metros cuadrados, se podrá atender como máximo una persona. Para el cálculo del aforo no se considerará las personas que trabajan en el lugar.
+Estos espacios tendrán un aforo máximo de 1 persona por cada 8 metros cuadrados de la superficie útil destinada a atención de público. En caso que el espacio sea menor a 8 metros cuadrados, se podrá atender como máximo una persona. Para el cálculo del aforo se considerarán las personas que trabajan en el lugar. Con todo, siempre podrá haber, a lo menos, un cliente.
 
 Sin perjuicio de lo dispuesto precedentemente, en el caso de los centros comerciales, el aforo máximo del establecimiento será de una persona por cada 10 metros cuadrados del total de la superficie útil destinada al público, sin perjuicio de que al interior de las tiendas el aforo será el señalado en el párrafo precedente.
 
@@ -572,7 +572,7 @@ e. Se prohíbe la realización de estos eventos en residencias particulares.
 
 81. Del funcionamiento de espacios abiertos y cerrados que atienden público. Se permite el funcionamiento de establecimientos cerrados que atienden público.
 
-Estos espacios tendrán un aforo máximo de 1 persona por cada 8 metros cuadrados del total de la superficie útil destinada a atención de público. En caso que el espacio sea menor a 8 metros cuadrados, se podrá atender como máximo una persona. Para el cálculo del aforo no se considerará las personas que trabajan en el lugar.
+Estos espacios tendrán un aforo máximo de 1 persona por cada 8 metros cuadrados del total de la superficie útil destinada a atención de público. En caso que el espacio sea menor a 8 metros cuadrados, se podrá atender como máximo una persona. Para el cálculo del aforo se considerarán las personas que trabajan en el lugar. Con todo, siempre podrá haber, a lo menos, un cliente.
 
 ### V. Paso 4: Apertura Inicial
 
@@ -652,7 +652,7 @@ e. Se prohíbe la realización de estos eventos en residencias particulares.
 
 91. Del funcionamiento de espacios abiertos y cerrados que atienden público. Se permite el funcionamiento de establecimientos abiertos y cerrados que atienden público.
 
-Estos espacios tendrán un aforo máximo de 1 persona por cada 4 metros cuadrados de la superficie útil destinada a atención de público. En caso que el espacio sea menor a 4 metros cuadrados, se podrá atender como máximo una persona. Para el cálculo del aforo no se considerará las personas que trabajan en el lugar.
+Estos espacios tendrán un aforo máximo de 1 persona por cada 4 metros cuadrados de la superficie útil destinada a atención de público. En caso que el espacio sea menor a 4 metros cuadrados, se podrá atender como máximo una persona. Para el cálculo del aforo se considerarán las personas que trabajan en el lugar. Con todo, siempre podrá haber, a lo menos, un cliente.
 
 ### VI. Paso 5: Apertura Avanzada
 
