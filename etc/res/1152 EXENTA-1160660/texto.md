@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 1.152, de fecha 19 de mayo de 2021, de esta Secretaría Regional, se aprobó el programa de enseñanza conducente a la obtención de Licencia de Conductor No Profesional o Clase B, a la Escuela de Conductores "Escuela de Conductores Norma Gladys Schulz Leppe E.I.R.L.", de propiedad de la sociedad del mismo nombre, RUT Nº 77.193.376-9, cuya representante legal y directora es la señora Norma Gladys Schulz Leppe, y su sede estará ubicada en Avenida Bernardo O'Higgins N° 0167, Local A, comuna de Quilicura, Región Metropolitana de Santiago. Las horas pedagógicas autorizadas a la referida Escuela son ocho horas teóricas y doce horas prácticas, con un total de veinte horas pedagógicas.-
+
+Eddy Nelson Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
