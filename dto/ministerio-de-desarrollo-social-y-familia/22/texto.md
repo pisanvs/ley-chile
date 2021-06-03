@@ -58,7 +58,7 @@ El Consejo de Observadores estará conformado por las siguientes personas:
 
 7) Mónica Andrea Retamal Fuentes, RUN 12.621.849-4
 
-8) Rodrigo Javier Delgado Mocarquer, RUN 8.771.203-6.
+8) Eliminado.
 
 9) Ramón Aguilar Vera, RUN 3.906.342-5.
 
