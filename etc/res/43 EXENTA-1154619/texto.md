@@ -356,7 +356,9 @@ Paso 5: Apertura Avanzada.
 
 Dicho instructivo contempla, además, las formas y condiciones para la obtención de los permisos de desplazamiento por parte de las personas exceptuadas del cumplimiento de la medida de aislamiento o cuarentena.
 
-Podrán desplazarse libremente, sin necesidad de permiso de desplazamiento, quienes sean titulares de un Pase de Movilidad habilitado. Asimismo, los menores de edad no considerados en el proceso de vacunación, podrán desplazarse libremente en compañía de su padre, madre o tutor, que sea titular de un Pase de Movilidad habilitado.
+Quienes sean titulares de un Pase de Movilidad habilitado y residan en localidades que se encuentran en "Paso 2: Transición", podrán desplazarse libremente, sin necesidad de permiso de desplazamiento. Asimismo, los menores de edad no considerados en el proceso de vacunación, podrán desplazarse libremente en compañía de su padre, madre o tutor, que sea titular de un Pase de Movilidad habilitado. Con todo, no podrán desplazarse a comunas que se encuentran en "Paso 1: Cuarentena".
+
+Quienes sean titulares de un Pase de Movilidad habilitado y residan en localidades que se encuentran en "Paso 1: Cuarentena" podrán desplazarse solo en su respectiva localidad, sin necesidad de permiso de desplazamiento. Asimismo, los menores de edad no considerados en el proceso de vacunación, podrán desplazarse, en su respectiva localidad, en compañía de su padre, madre o tutor, que sea titular de un Pase de Movilidad habilitado.
 
 47. Definiciones. Para efectos de este capítulo, se entenderá por:
 
@@ -436,7 +438,7 @@ Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir 
 
 Asimismo, se exceptúan aquellas personas que cuenten con un permiso para dichos efectos, según lo dispuesto en el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
-Exceptúase de lo dispuesto en este numeral aquellas personas que sean titulares de un Pase de Movilidad habilitado. Asimismo, los menores de edad no considerados en el proceso de vacunación, podrán exceptuarse de lo dispuesto en este numeral en compañía de su padre, madre o tutor, que sea titular de un Pase de Movilidad habilitado.
+Exceptúase de lo dispuesto en este numeral aquellas personas que sean titulares de un Pase de Movilidad habilitado. Asimismo, los menores de edad no considerados en el proceso de vacunación, podrán exceptuarse de lo dispuesto en este numeral en compañía de su padre, madre o tutor, que sea titular de un Pase de Movilidad habilitado. Con todo, sólo podrán desplazarse a una localidad que se encuentre en Paso 2 o superior.
 
 63. De los eventos particulares. Se permiten las reuniones en domicilios particulares con un máximo de 5 personas, incluyendo a sus residentes. En caso de que en el domicilio vivan 5 o más personas, no podrán recibir visitas. Este tipo de reuniones sólo estarán permitidas de lunes a viernes y fuera del horario de aislamiento nocturno.
 
