@@ -18,13 +18,11 @@ Definición, autonomía y régimen jurídico de las universidades del Estado
 
 Definición y naturaleza jurídica. Las universidades del Estado son instituciones de Educación Superior de carácter estatal, creadas por ley para el cumplimiento de las funciones de docencia, investigación, creación artística, innovación, extensión, vinculación con el medio y el territorio, con la finalidad de contribuir al fortalecimiento de la democracia, al desarrollo sustentable e integral del país y al progreso de la sociedad en las diversas áreas del conocimiento y dominios de la cultura.
 
-Estas instituciones universitarias son organismos autónomos, dotados de personalidad jurídica de derecho público y patrimonio propio, que forman parte de la Administración del Estado y se relacionan con el Presidente de la República a través del Ministerio de Educación. Tendrán su o sus domicilios en la o las regiones que señalen sus estatutos.
-
-El domicilio de su sede central corresponderá a aquel donde se ubican los órganos superiores del gobierno universitario.
+Estas instituciones universitarias son organismos autónomos, dotados de personalidad jurídica de derecho público y patrimonio propio, que forman parte de la Administración del Estado y se relacionan con el Presidente de la República a través del Ministerio de Educación. Tendrán su domicilio en la región que señalen sus estatutos.
 
 Para el cumplimiento de sus funciones, las universidades del Estado deben orientar su quehacer institucional de conformidad a la misión, principios y normas establecidas en la presente ley y en sus respectivos estatutos.
 
-Los estatutos de cada universidad podrán establecer un ámbito territorial preferente de su quehacer institucional, en razón de su domicilio y la misión específica de estas instituciones. Las universidades estatales podrán extender su ámbito territorial a dos regiones y adquirir el carácter de birregionales, siempre que se trate de regiones contiguas y que no haya otra universidad estatal domiciliada en dicha región, en conformidad con lo que señalen los planes de desarrollo institucional respectivos.
+Los estatutos de cada universidad podrán establecer un ámbito territorial preferente de su quehacer institucional, en razón de su domicilio principal y la misión específica de estas instituciones.
 
 #### Artículo 2
 
@@ -128,7 +126,7 @@ a) Tres representantes nombrados por el Presidente de la República, quienes ser
 
 b) Cuatro miembros de la universidad nombrados por el Consejo Universitario de conformidad al procedimiento establecido en los estatutos de cada institución. De ellos, dos deben ser académicos investidos con las dos más altas jerarquías, y los dos restantes deben corresponder a un funcionario no académico y a un estudiante, respectivamente, de acuerdo a los requisitos que señalen los estatutos de cada universidad.
 
-c) Una persona titulada o licenciada de la institución de destacada trayectoria y de un reconocido vínculo profesional con la o las regiones en que la universidad tiene su domicilio, nombrada por el Consejo Universitario a partir de una terna propuesta por el Gobierno Regional de la región donde se ubica la sede central. Para el caso en que la universidad tenga carácter birregional, la terna deberá incorporar, al menos, una persona que junto con cumplir con los demás requisitos legales, tenga reconocido vínculo profesional con la región en que no se ubica la sede central de la universidad.
+c) Un titulado o licenciado de la institución de destacada trayectoria y de un reconocido vínculo profesional con la región en que la universidad tiene su domicilio, nombrado por el Consejo Universitario a partir de una terna propuesta por el Gobierno Regional.
 
 d) El rector, elegido de conformidad a lo señalado en el artículo 21.
 
@@ -218,7 +216,7 @@ El rector deberá realizar, al menos una vez al año, una cuenta pública detall
 
 Elección del rector. El rector se elegirá de conformidad al procedimiento establecido en la ley Nº 19.305. No obstante, las universidades del Estado deberán garantizar que en esta elección tengan derecho a voto todos los académicos con nombramiento o contratación vigente y que desempeñen actividades académicas de forma regular y continua en las respectivas instituciones.
 
-El Tribunal Electoral Regional de la región donde se ubica la sede central de la Universidad conocerá de las reclamaciones que se interpongan con motivo de la elección de Rector, las que deberán ser formuladas por a lo menos diez académicos con derecho a voto, dentro de los diez días hábiles siguientes al acto electoral. Contra la sentencia del Tribunal Electoral Regional procederá el recurso de apelación para ante el Tribunal Calificador de Elecciones, el que deberá interponerse directamente dentro de cinco días hábiles contados desde la respectiva notificación. Contra la sentencia del Tribunal Calificador de Elecciones no procederá recurso alguno.
+El Tribunal Electoral Regional respectivo conocerá de las reclamaciones que se interpongan con motivo de la elección de Rector, las que deberán ser formuladas por a lo menos diez académicos con derecho a voto, dentro de los diez días hábiles siguientes al acto electoral. Contra la sentencia del Tribunal Electoral Regional procederá el recurso de apelación para ante el Tribunal Calificador de Elecciones, el que deberá interponerse directamente dentro de cinco días hábiles contados desde la respectiva notificación. Contra la sentencia del Tribunal Calificador de Elecciones no procederá recurso alguno.
 
 El rector durará cuatro años en su cargo, pudiendo ser reelegido, por una sola vez, para el período inmediatamente siguiente.
 
@@ -260,7 +258,7 @@ b) Elaborar el Plan de Desarrollo Institucional de la universidad que deba ser p
 
 c) Nombrar a los miembros de la comunidad universitaria que deben integrar el Consejo Superior de conformidad al procedimiento establecido en los estatutos de cada institución.
 
-d) Nombrar a la persona titulada o licenciada de la institución que debe integrar el Consejo Superior, a partir de una terna propuesta por el Gobierno Regional de la región donde se ubica la sede central.
+d) Nombrar al titulado o licenciado de la institución que debe integrar el Consejo Superior, a partir de una terna propuesta por el respectivo Gobierno Regional.
 
 e) Aprobar los reglamentos referidos al quehacer académico e institucional de la universidad que señalen los respectivos estatutos.
 
@@ -463,8 +461,6 @@ Capacitación y perfeccionamiento de funcionarios no académicos. Las universida
 #### Artículo 48
 
 Contratación para labores accidentales y no habituales. Las universidades del Estado podrán contratar, sobre la base de honorarios, sólo la prestación de servicios o labores accidentales y que no sean las habituales de la institución. Las personas contratadas a honorarios se regirán por las cláusulas del respectivo contrato de conformidad a la legislación civil y no les serán aplicables las disposiciones del decreto con fuerza de ley Nº 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.834, sobre Estatuto Administrativo.
-
-Además, las universidades del Estado podrán contratar sobre la base de honorarios, la prestación de servicios o labores de investigación, docencia académica de pre y postgrado hasta un máximo de 12 horas semanales o para impartir hasta cuatro asignaturas o por un semestre académico. Asimismo, podrán contratar a honorarios aquellos servicios que se requieran para la ejecución de proyectos y actividades específicas que cuentan con financiamiento propio para su ejecución, incluyendo labores de docencia, investigación o extensión.
 
 #### Artículo 49
 
