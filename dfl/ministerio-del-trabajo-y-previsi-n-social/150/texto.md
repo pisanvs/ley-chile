@@ -52,7 +52,7 @@ g) Las personas naturales que tengan menores a su cargo en virtud de una medida 
 
 Serán causantes de asignación familiar:
 
-a) La cónyuge y, en la forma en que determine el reglamento, el cónyuge inválido;
+a) El o la cónyuge, en la forma que determine el reglamento;
 
 b) Los hijos y los adoptados hasta los 18 años, y los mayores de esta edad y hasta los 24 años, solteros, que sigan cursos regulares en el enseñanza media, normal, técnica, especializada o superior, e instituciones del Estado o reconocidos por éste, en las condiciones que determine el reglamento;
 
