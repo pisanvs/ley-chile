@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 1.199, de fecha 25 de mayo de 2021, de esta Secretaría Regional, se aprobaron los planes y programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores "Escuela Conductores Patricia Pía Veas Araya E.I.R.L.", cuyo propietario es la sociedad del mismo nombre, RUT Nº 76.476.749-7, cuya representante legal es Patricia Pía Veas Araya. La Escuela de Conductores tendrá como Director a Wiltes Michel, y su sede estará ubicada en General Brayer N° 2197-A, comuna de Quinta Normal, Región Metropolitana de Santiago. Las horas pedagógicas autorizadas a la referida Escuela son ocho horas teóricas y doce horas prácticas, con un total de veinte horas pedagógicas.-
+
+Eddy Nelson Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
