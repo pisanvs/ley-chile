@@ -40,11 +40,11 @@ Resolución:
 
 1. Llámase a postulación en condiciones especiales a los arrendatarios a quienes, contando o no con Registro Social de Hogares, su contrato de trabajo se haya suspendido, hayan quedado cesantes o sus ingresos hayan disminuido en a lo menos un 30%, para el otorgamiento de subsidios habitacionales del Programa de Subsidio de Arriendo de Vivienda, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013. Los Servicios de Vivienda y Urbanización (Serviu) procederán directamente, o a través de los medios electrónicos que se establezcan al efecto, a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deban acompañarlas.
 
-2. Las postulaciones se recibirán a partir de la fecha de publicación en el Diario Oficial de la presente resolución y hasta el 31 de mayo de 2021, efectuándose tres procesos de selección durante los meses de abril, mayo y junio. Quienes no sean considerados en una selección, continuarán postulando y podrán ser contemplados en el siguiente proceso.
+2. Las postulaciones se recibirán a partir de la fecha de publicación en el Diario Oficial de la presente resolución y hasta el 30 de julio de 2021, efectuándose tres procesos de selección durante los meses de abril, mayo y junio. Quienes no sean considerados en una selección, continuarán postulando y podrán ser contemplados en el siguiente proceso.
 
 3. Para postular al llamado a que se refiere el numeral 1. de esta resolución exenta, los postulantes deberán cumplir con las siguientes condiciones:
 
-3.1. Si cuenta con Registro Social de Hogares (RSH), debe declarar Núcleo Familiar de acuerdo con la información que dicho registro indica.
+3.1 Si cuenta con Registro Social de Hogares (RSH), debe declarar el Núcleo Familiar con el que postula cuyos integrantes pueden o no formar parte de dicho registro, indicando el nombre, número de su cédula de identidad, edad y parentesco.
 
 3.2. Si no cuenta con RSH el postulante deberá declarar el núcleo familiar con el que postula, indicando el nombre, número de su cédula de identidad, edad y parentesco. En este caso, los ingresos anteriores a la rebaja o a la cesantía no podrán superar los $2.000.000 (dos millones de pesos) líquidos.
 
