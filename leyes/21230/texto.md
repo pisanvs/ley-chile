@@ -124,7 +124,7 @@ No obstante lo anterior, en el caso de los hogares beneficiarios que formen part
 
 #### Artículo 9
 
-El plazo máximo para el cobro de cada uno de los aportes, previamente otorgados, será hasta el 31 de diciembre de 2020. Se entenderá que se renuncia a estos si no se solicita su cobro dentro del referido plazo.
+El plazo máximo para el cobro de cada uno de los aportes, previamente otorgados, será hasta el 31 de diciembre de 2023. Se entenderá que se renuncia a estos si no se solicita su cobro dentro del referido plazo.
 
 ## Título III
 
