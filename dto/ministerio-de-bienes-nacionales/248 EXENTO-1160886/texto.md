@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "ANDES MAINSTREAM SpA"
+
+Mediante decreto exento Nº 248, de 10 de mayo de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Andes Mainstream SpA", RUT Nº 76.037.037-1, el inmueble fiscal denominado "Marmoleras", ubicado aproximadamente a 18 kilómetros al oeste de Calama, aproximadamente a 14,83 kilómetros al noroeste de la intersección de la Ruta 25 con la Ruta B-199, comuna de Calama, provincia de El Loa, Región de Antofagasta, singularizado en el Plano N° 02201-7.539-C.R., de una superficie total de 249,04 hás, enrolado en el Servicio de Impuestos Internos bajo el Rol Nº 12000-15; amparado por la inscripción global a nombre del Fisco que rola a fojas 49 vta. N° 57 del Registro de Propiedad del año 1928 del Conservador de Bienes Raíces de El Loa-Calama. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de UF 6.055; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
