@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "INVERSIONES LINCE SOLAR SpA"
+
+Mediante decreto exento Nº 246 de 10 de mayo de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Inversiones Lince Solar SpA", RUT Nº 76.960.327-1, el inmueble fiscal denominado "Quebrada Ordóñez", ubicado aproximadamente a 26 kilómetros al noreste de la ciudad de Mejillones, aproximadamente a 18 kilómetros al noreste de la intersección de la Ruta 1 con la Ruta B-240, comuna de Mejillones, provincia y Región de Antofagasta, singularizado en el Plano N° 02102-9.301-C.R., de una superficie total de 124,70 has, enrolado en el Servicio de Impuestos Internos bajo el Rol Nº 598-2, amparado por la inscripción global a nombre del Fisco que rola a fojas 24 vta. N° 27 del Registro de Propiedad del año 2016 del Conservador de Bienes Raíces de Mejillones. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de UF 2.200; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El Decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
