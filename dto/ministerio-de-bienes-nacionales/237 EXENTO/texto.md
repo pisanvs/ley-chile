@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "ENEL GREEN POWER CHILE S.A."
+
+Mediante decreto exento N° 237, de 10 de mayo de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Enel Green Power Chile S.A.", RUT N° 76.412.562-2, el inmueble fiscal denominado "Kimal Unidad Territorial 2" (Lotes B-1, B-2 y B-3), ubicado en el sector de la Subestación Eléctrica Kimal, aproximadamente a 6 kilómetros de la Intersección de la Ruta 5 con la Ruta 24, comuna de María Elena, provincia de Tocopilla, Región de Antofagasta, singularizado en el Plano N° 02302-4.553-C.R., de una superficie total de 703,26 ha, enrolado en el Servicio de Impuestos Internos bajo los Roles N° 6903-52, N° 6903-53 y N° 6903-54, amparado por la inscripción global a nombre del Fisco que rola a fojas 4 N° 2 del Registro de Propiedad del año 2015 del Conservador de Bienes Raíces de María Elena. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de UF 11.856; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
