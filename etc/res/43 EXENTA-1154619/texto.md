@@ -408,7 +408,7 @@ El aforo en funerales, matrimonios, acuerdos de unión civil o cultos religiosos
 
 Sin perjuicio de lo dispuesto precedentemente, podrán atender público aquellos restaurantes ubicados en carreteras o autopistas interurbanas. Sin perjuicio de lo anterior, solo podrán atender a conductores de transporte de carga, autorizados, en virtud de dicha función, para desplazarse por el Instructivo de permisos de desplazamiento. Con todo, el aforo no podrá exceder de cuatro personas en espacios cerrados y ocho personas en espacios abiertos.
 
-54. De los gimnasios. Dispóngase el cierre de gimnasios y espacios abiertos y cerrados donde se realiza actividad deportiva, abiertos al público.
+54. De los gimnasios. Dispóngase el cierre de gimnasios abiertos al público.
 
 55. De la atención presencial de público en espacios cerrados. Se prohíbe la atención presencial de público en espacios cerrados excepto de aquellos que estén permitidos en el Instructivo para permisos de desplazamiento del que trata el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
@@ -417,6 +417,8 @@ Estos espacios tendrán un aforo máximo de 1 persona por cada 8 metros cuadrado
 56. De los eventos, actividades, entrenamientos y competencias deportivas. Prohíbanse los eventos, actividades, entrenamientos y competencias deportivas, a excepción de aquellas que cuenten con un permiso otorgado conforme a lo dispuesto en el numeral 33 de la presente resolución.
 
 57. De la banda horaria Elige Vivir Sano. Sin perjuicio de lo dispuesto en los numerales anteriores, las personas cuyas localidades de residencia se encuentren en el "Paso 1: Cuarentena" podrán realizar actividades al aire libre en lugares públicos entre las 05:00 y las 09:00 horas de lunes a viernes y entre las 05:00 y las 10:00 horas los días sábado, domingo y festivos. Estas actividades deberán ser de naturaleza individual o con personas de la misma residencia. Sin perjuicio de lo anterior, quienes hagan uso de este horario no podrán utilizar automóviles o el transporte público para estos efectos. Asimismo, tampoco podrán realizar, en dicha franja horaria, otras actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 9.285, de 26 de abril de 2021, ya citado, a excepción de que cuenten con el citado permiso.
+
+57 bis. De la actividad física y actividades deportivas. Se autoriza la actividad física o actividades deportivas solo en lugares abiertos. Las actividades señaladas en este numeral no podrán contar con público. Podrán concentrarse un máximo de 5 personas en lugares abiertos. Para estos efectos las personas deberán contar con un permiso de desplazamiento o el Pase de Movilidad habilitado.
 
 58. De la salida de adultos mayores de 75 años. Los mayores de 75 años cuyas localidades de residencia se encuentren en el "Paso 1: Cuarentena" podrán salir de su residencia sin utilizar automóvil o transporte público los lunes, jueves y sábados de 9 a 11 horas o de 16 a 18 horas. En este horario no se pueden realizar actividades que requieren permisos especiales de acuerdo a lo dispuesto en esta resolución y en el Oficio Ordinario Nº 9.285, de 26 de abril de 2021, ya citado, a excepción de que cuenten con el citado permiso.
 
@@ -438,7 +440,7 @@ Del mismo modo, exceptúanse de esta medida aquellas personas que deben cumplir 
 
 Asimismo, se exceptúan aquellas personas que cuenten con un permiso para dichos efectos, según lo dispuesto en el oficio ordinario Nº 9.285, de 26 de abril de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace.
 
-Exceptúase de lo dispuesto en este numeral aquellas personas que sean titulares de un Pase de Movilidad habilitado. Asimismo, los menores de edad no considerados en el proceso de vacunación, podrán exceptuarse de lo dispuesto en este numeral en compañía de su padre, madre o tutor, que sea titular de un Pase de Movilidad habilitado. Con todo, sólo podrán desplazarse a una localidad que se encuentre en Paso 2 o superior.
+Exceptúase de lo dispuesto en este numeral aquellas personas que sean titulares de un Pase de Movilidad habilitado. Asimismo, los menores de edad no considerados en el proceso de vacunación, podrán exceptuarse de lo dispuesto en este numeral en compañía de su padre, madre o tutor, que sea titular de un Pase de Movilidad habilitado. Con todo, sólo podrán desplazarse a una localidad que se encuentre en Paso 2 o superior. Esta excepción aplica incluso los días sábado, domingo y festivos.
 
 63. De los eventos particulares. Se permiten las reuniones en domicilios particulares con un máximo de 5 personas, incluyendo a sus residentes. En caso de que en el domicilio vivan 5 o más personas, no podrán recibir visitas. Este tipo de reuniones sólo estarán permitidas de lunes a viernes y fuera del horario de aislamiento nocturno.
 
@@ -460,7 +462,7 @@ El aforo máximo para lo dispuesto en el párrafo anterior y para los matrimonio
 
 65. De los eventos con público en que los asistentes no tienen ubicación fija. Se prohíben los eventos con público, públicos y particulares, en que los asistentes no tengan ubicación fija.
 
-66. De las actividades deportivas. Se autorizan las actividades deportivas solo en lugares abiertos en lugares públicos y privados.
+66. De la actividad física y las actividades deportivas. Se autorizan la actividad física y las actividades deportivas solo en lugares abiertos en lugares públicos y privados.
 
 Las actividades señaladas en este numeral no podrán contar con público.
 
@@ -514,7 +516,7 @@ a. Podrá haber un máximo de 6 personas por mesa.
 
 b. Las mesas deberán estar separadas entre sí por una distancia mínima de dos metros lineales, medidas desde sus bordes.
 
-76. De las actividades deportivas. Se autorizan las actividades deportivas en lugares públicos y privados, incluyendo el funcionamiento de gimnasios abiertos al público.
+76. De la actividad física y las actividades deportivas. Se autorizan la actividad física y las actividades deportivas en lugares públicos y privados, incluyendo el funcionamiento de gimnasios abiertos al público.
 
 Las actividades señaladas en este numeral no podrán contar con público.
 
@@ -594,7 +596,7 @@ a. Podrá haber un máximo de 6 personas por mesa.
 
 b. Las mesas deberán estar separadas entre sí por una distancia mínima de dos metros lineales, medidos desde sus bordes.
 
-86. De las actividades deportivas. Se autorizan las actividades deportivas en lugares públicos y privados, incluyendo el funcionamiento de gimnasios abiertos al público.
+86. De la actividad física y las actividades deportivas. Se autorizan la actividad física y las actividades deportivas en lugares públicos y privados, incluyendo el funcionamiento de gimnasios abiertos al público.
 
 Las actividades señaladas en este numeral no podrán contar con público.
 
