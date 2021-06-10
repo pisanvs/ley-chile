@@ -24,21 +24,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase, durante la vigencia en la comuna de Talca de la fase 1 cuarentena, la circulación de todo tipo de vehículos motorizados, de dos o más ruedas, en la ciudad de Talca, cuyo límite urbano se encuentra determinado en el Plan Regulador Comunal vigente, de la comuna del mismo nombre, de lunes a domingo entre las 09:30 hasta las 18:00 horas, como sigue:
-
-a) Lunes: No podrán circular vehículos cuya P.P.U terminen en los dígitos: 0-1.
-
-b) Martes: No podrán circular vehículos cuya P.P.U terminen en los dígitos: 2-3.
-
-c) Miércoles: No podrán circular vehículos cuya P.P.U terminen en los dígitos: 4-5.
-
-d) Jueves: No podrán circular vehículos cuya P.P.U terminen en los dígitos: 6-7.
-
-e) Viernes: No podrán circular vehículos cuya P.P.U terminen en los dígitos: 8-9.
-
-f) Sábado: No podrán circular vehículos cuya P.P.U. terminen en número par más el número 0.
-
-g) Domingo: No podrán circular vehículos cuya P.P.U. terminen en número impar.
+1.- Derogado.
 
 2.- Prohíbase, durante la vigencia en la comuna de Talca, de la fase 2 transición, la circulación de todo tipo de vehículos motorizados, de dos o más ruedas, en la ciudad de Talca, cuyo límite urbano se encuentra determinado en el Plan Regulador Comunal, de la comuna del mismo nombre, los días sábado y domingo entre las 09:30 hasta las 18:00 horas, como sigue:
 
@@ -48,9 +34,7 @@ b) Domingo: No podrán circular vehículos cuyas P.P.U. terminen en número impa
 
 2. Prohíbase, temporalmente la circulación de todo tipo de vehículos motorizados, excepto los taxis colectivos, vehículos de alquiler, vehículos de emergencia, vehículos policiales y fiscales, en calle 1 Norte en el tramo comprendido desde 4 Oriente hasta 11 Oriente, Talca, entre las 9:00 horas y 18:30 horas. La Dirección de Tránsito de Talca, deberá instalar y mantener la señalización de tránsito necesaria para facilitar la aplicación de la medida.
 
-3. Quedarán exceptuados de la prohibición, los vehículos de emergencia, vehículos fiscales o de uso fiscal, vehículos destinados a las faenas de limpieza de calles, vehículos de servicios funerarios, vehículos de reparto de mercadería, entendidos como todo vehículo privado con su debido logo o acreditación, que deba repartir productos esenciales, como delivery, y que podrá circular siempre que se encuentre realizando su labor propia, lo que deberá acreditar en caso de ser solicitado, vehículos de transporte público de pasajeros, urbanos, rurales e interurbanos, vehículos de transporte privado remunerado de pasajeros, taxis básicos y sus modalidades, taxis colectivos dentro de su recorrido habitual, y los de transportes de carga y vehículos de transporte escolar.
-
-Asimismo, quedarán exceptuados de la prohibición los vehículos particulares que trasladen personal de salud público o privado, con su debida acreditación y vehículos particulares que trasladen personas o pacientes que requieran realizar un tratamiento médico en un centro de salud, con su debida acreditación, y personal de bomberos que concurra a una emergencia, situaciones que se acreditarán con la credencial de la respectiva institución.
+### 3. Derogado
 
 4. De acuerdo al artículo 4 de la Ley de Tránsito, corresponderá a Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, fiscalizar el estricto cumplimiento de la medida precedentemente descrita.
 
