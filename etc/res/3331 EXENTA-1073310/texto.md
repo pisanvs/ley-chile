@@ -18,13 +18,11 @@ Fíjense las pautas generales a que deberán ajustarse los importadores, distrib
 
 #### Artículo 2º
 
-Los importadores, distribuidores, primer vendedor u otro, en adelante "el solicitante", deberá presentar la solicitud de acreditación ante el Ministerio de Transportes y Telecomunicaciones, específicamente en el Centro de Control y Certificación Vehicular, en adelante "el Centro", conforme al formato que se señala en el Anexo A de la presente resolución.
+Los importadores, distribuidores, primer vendedor u otro, en adelante "el solicitante", deberá presentar una solicitud de acreditación ante el Ministerio de Transportes y Telecomunicaciones, específicamente en el Centro de Control y Certificación Vehicular, en adelante "el Centro", mediante la plataforma electrónica de trámites de la Subsecretaría de Transportes disponible en el portal web https://www.mtt.gob.cl/portaldetramites, o presencialmente utilizando para ello el formato que se señala en el Anexo A de la presente resolución, y que podrá ser descargado de dicho portal. A la solicitud deberán acompañarse los antecedentes señalados en el Anexo B de la presente resolución.
 
 #### Artículo 3º
 
 El Centro comunicará en un plazo de 10 días hábiles, contados desde la solicitud, la fecha en la cual el solicitante deberá presentar el sistema o asiento de seguridad para niños en las instalaciones del Centro, para proceder a la verificación física de sus características y especificaciones técnicas.
-
-A más tardar, 5 días hábiles antes de la fecha programada para la presentación del sistema o asiento de seguridad para niños a que se refiere el inciso anterior, el solicitante deberá proporcionar al Centro los antecedentes que se indican en el Anexo B de la presente resolución.
 
 #### Artículo 4º
 
@@ -42,7 +40,7 @@ La etiqueta a que alude el artículo 1º, numeral 9.7 del decreto Nº176, de 200
 
 #### Artículo 7º
 
-El horario de recepción de la solicitud y antecedentes en el Centro, será en días hábiles, de lunes a viernes, de 9:00 a 14:00 horas, en sus dependencias, ubicadas en Vicente Reyes Nº198, comuna de Maipú, ciudad de Santiago, Chile.
+El horario de recepción de solicitudes presenciales, y antecedentes o elementos relacionados, será de 9:00 a 14:00 horas, de lunes a viernes (en días hábiles), en las dependencias ubicadas en calle Vicente Reyes Nº 198, comuna de Maipú, ciudad de Santiago, Chile.
 
 Anótese y publíquese.- Andrés Gómez-Lobo Echenique, Ministro de Transportes y Telecomunicaciones.
 
