@@ -166,7 +166,7 @@ e) Las trabajadoras de los cementerios señaladas en la letra c) del artículo 5
 
 #### Artículo 13
 
-Periodo de postulación año 2022. El período de postulación para la asignación de los 1.500 cupos del año 2022, comenzará el 1 de septiembre de 2022, y se extenderá hasta el 31 de diciembre de 2022.
+Periodo de postulación año 2022. El período de postulación para la asignación de los 1.500 cupos del año 2022, comenzará el primer día hábil de enero de 2022, y se extenderá hasta el 31 de diciembre de 2022.
 
 En el proceso de postulación correspondiente al año 2022 podrán postular los funcionarios y funcionarias que a continuación se indican:
 
@@ -186,7 +186,7 @@ e) Las trabajadoras de los cementerios señaladas en la letra c) del artículo 5
 
 #### Artículo 14
 
-Período de postulación año 2023. El período de postulación para la asignación de los 1.500 cupos del año 2023, comenzará el 1 de septiembre de 2023, y se extenderá hasta el 31 de diciembre de 2023.
+Período de postulación año 2023. El período de postulación para la asignación de los 1.500 cupos del año 2023, comenzará el primer día hábil de enero de 2023, y se extenderá hasta el 31 de diciembre de 2023.
 
 En el proceso de postulación correspondiente al año 2023 podrán postular los funcionarios y funcionarias que a continuación se indican:
 
@@ -206,7 +206,7 @@ d) Las trabajadoras de los cementerios señaladas en la letra c) del artículo 5
 
 #### Artículo 15
 
-Período de postulación año 2024. El periodo de postulación para la asignación de los 1.500 cupos del año 2024, comenzará el 1 de septiembre de 2024, y se extenderá hasta el 31 de diciembre de 2024.
+Período de postulación año 2024. El periodo de postulación para la asignación de los 1.500 cupos del año 2024, comenzará el primer día hábil de enero de 2024, y se extenderá hasta el 31 de diciembre de 2024.
 
 En el proceso de postulación correspondiente al año 2024 podrán postular los funcionarios y funcionarias que a continuación se indican:
 
@@ -226,7 +226,7 @@ e) Las trabajadoras de los cementerios señaladas en la letra c) del artículo 5
 
 #### Artículo 16
 
-Período de postulación año 2025. El período de postulación para la asignación de los 1.500 cupos del año 2025, comenzará el 1 de septiembre de 2025, y se extenderá hasta el 31 de diciembre de 2025.
+Período de postulación año 2025. El período de postulación para la asignación de los 1.500 cupos del año 2025, comenzará el primer día hábil de enero de 2025, y se extenderá hasta el 31 de diciembre de 2025.
 
 En el proceso de postulación correspondiente al año 2025 podrán postular los funcionarios y funcionarias que a continuación se indican:
 
