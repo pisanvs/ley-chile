@@ -204,11 +204,11 @@ Institución Ejército
 
 Grado Coronel
 
-Apellidos Marinkovic Vásquez
+Apellidos LABRA Salazar
 
-Nombre Milko
+Nombre Iván
 
-RUN 12.232.463-K
+RUN 11.840.950-7
 
 REGIÓN DEL MAULE
 
