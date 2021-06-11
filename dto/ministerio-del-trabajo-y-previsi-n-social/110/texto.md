@@ -152,21 +152,21 @@ Otras Prestaciones
 
 El Bienestar podrá otorgar las siguientes ayudas en dinero o en especies no sujetas a restitución por las causales y de acuerdo con las modalidades que a continuación se indican:
 
-a) Nacimiento: Se fija un ingreso mínimo reajustable por el nacimiento de cada hijo. Si ambos padres estuvieren afiliados al Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente. En caso de nacimientos múltiples se pagará por cada hijo(a) nacido(a).
+a) Nacimiento: Se otorgará al afiliado(a) una ayuda por el nacimiento de cada hijo(a). Si ambos padres estuvieran afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente. En caso de nacimientos múltiples se pagará por cada hijo(a) nacido(a)".
 
-b) Fallecimiento: Se fija en dos ingresos mínimos reajustables por el fallecimiento del afiliado y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
+b) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
 
 En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
 
-1. A la persona designada expresamente para tales efectos por el afiliado según declaración de beneficiario en caso que el Bienestar tenga contratado un seguro de vida;
+1.- A la persona designada expresamente para tales efectos por el afiliado según declaración de beneficiario en caso de que el Servicio de Bienestar tenga contratado un seguro de vida;
 
-2. Al cónyuge sobreviviente;
+2.- Al cónyuge sobreviviente y/o contrayente de Acuerdo de Unión Civil.
 
-3. A los hijos;
+3.- A los hijos;
 
-4. A los padres legítimos;
+4.- A los padres legítimos;
 
-5. A la persona que acredite haber efectuado los gastos del funeral.
+5.- A la persona que acredite haber efectuado los gastos del funeral.
 
 c) Educación: Se concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, a las cargas familiares que se encuentren cursando estudios regulares en los niveles básico, medio y pre grado (universitario y/o técnicos), en algún establecimiento del Estado o reconocido por éste. Las cargas familiares deben encontrarse reconocidas en la institución; y
 
@@ -174,21 +174,27 @@ d) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas autom�
 
 Los montos de las ayudas contempladas en las letras c) y f), serán determinados por el Consejo Administrativo conforme a lo señalado en la letra g) del artículo 29º, del Reglamento General.
 
-e) Matrimonio: Al contraer matrimonio un afiliado, el Bienestar le otorgará una asignación de medio ingreso mínimo no remuneracional, siempre que las disponibilidades presupuestarias lo permitan. En caso que ambos contrayentes sean afiliados, la asignación señalada se pagará a cada uno de ellos.
+e) Matrimonio: Se concederá una ayuda en dinero, al afiliado(a) que contraiga matrimonio. Si ambos contrayentes fueran afiliados al Servicio de Bienestar, la asignación señalada se pagará a cada uno de ellos.
 
 f) Becas de Estudio: El Bienestar podrá otorgar anualmente a sus afiliados y cargas familiares, Becas de Educación, conducentes a obtener un título de pre grado (técnico, profesional y universitario).
 
-g) Catástrofe: Se concederá una ayuda económica en dinero, no reembolsable de hasta dos ingresos mínimos no remuneracionales, para cada afiliado que sufra daños graves en su casa habitación a consecuencia de incendio, inundación o sismo. El afiliado deberá presentar la documentación requerida según lo mencionado en el artículo 10º del presente Reglamento, para acreditar dicha solicitud" y regirse de acuerdo a lo establecido en el artículo 19º, de las disposiciones generales del presente Reglamento.
+g) Catástrofe: Se concederá una ayuda económica en dinero, no reembolsable para cada afiliado que sufra daños graves en su casa habitación a consecuencia de incendio, inundación, terremoto, sismo, o cualquier otra situación imprevista que cause un daño personal o material al afiliado y su grupo familiar y/o cualquier otro evento que califique el Consejo Administrativo.
 
-h) Acuerdo de Unión Civil: Al pactar el afiliado un contrato de acuerdo de unión civil, el Bienestar le otorgará una asignación de medio ingreso mínimo no remuneracional, siempre que las disponibilidades presupuestarias lo permitan. En caso que ambos afiliados pacten contrato, la asignación señalada se pagará a cada uno de ellos presentando el documento emitido para estos efectos por el Registro Civil e Identificación.
+Para el caso de daños graves en la casa habitación del afiliado, deberá presentar la documentación requerida según lo mencionado en el artículo 10º del presente reglamento, para acreditar dicha solicitud y regirse de acuerdo con lo establecido en el artículo 19º, de las disposiciones generales del presente reglamento; para el caso de otras situaciones imprevistas que causen daño personal o material del afiliado, este deberá ser verificado por el Servicio de Bienestar mediante entrevistas personales y plasmado en un informe social".
+
+h) Acuerdo de Unión Civil: Al pactar el afiliado un contrato de acuerdo de unión civil, el Servicio de Bienestar otorgará un aporte en dinero. En caso de que ambos afiliados pacten contrato, la asignación señalada se pagará a cada uno de ellos presentando el documento emitido para estos efectos por el Registro Civil e Identificación.
 
 #### Artículo 10°
 
 Para solicitar los beneficios señalados en las letras a), b), c), d), e), f) y g) del artículo 9° el afiliado deberá presentar una solicitud de ayuda acompañada del certificado respectivo emitido por la Oficina de Registro Civil e Identificación y/o el establecimiento educacional parte de Carabineros y/o Bomberos, según corresponda.
 
+El monto de todas las ayudas contempladas en el artículo 9º, serán determinadas anualmente por el Consejo Administrativo, conforme a lo señalado en la letra g) del artículo 29, del decreto Nº 28, de 1994, del Ministerio del Trabajo y Previsión Social, que Aprueba Reglamento General para los Servicios de Bienestar Fiscalizados por la Superintendencia de Seguridad Social
+
 #### Artículo 11°
 
-El Bienestar podrá organizar, financiar o aportar en eventos culturales, deportivos, recreativos, festividades navideñas, actividades vacacionales o cualquier otra actividad que propenda a los fines antes señalados y que vayan en beneficio a sus afiliados. Asimismo, podrá otorgar un bono de navidad a sus afiliados, cuyo monto será aprobado por el Consejo Administrativo del Bienestar.
+El Servicio de Bienestar podrá asumir la administración de los bienes raíces que le sean donados, transferidos, heredados y/o entregados en comodato y/o concesión de uso gratuito y todas aquellas instalaciones destinadas para el uso de sus afiliados y sus familias. Para cumplir los fines indicados en el artículo precedente, tales como centros vacacionales, casinos, casas de huésped, entre otros, quedando excluida de tal administración la facultad de contratar personal, la que corresponde a la autoridad superior del Servicio Nacional de Geología y Minería.
+
+Asimismo, y en el caso de los Servicios Dependientes y otras instalaciones entregadas en concesión de uso gratuito, transferidos, donados y/o comodato, tal y como se menciona en el párrafo anterior, el Servicio de Bienestar podrá financiar y adoptar, con cargo a sus propios recursos a la implementación y/o mejoramiento de estos recintos, con el objetivo de entregar mayores beneficios a los afiliados y sus familias. Lo anterior debe ser revisado y aprobado por el Consejo Administrativo cuando amerite.
 
 Párrafo Tercero
 
@@ -235,6 +241,8 @@ De la atención Social, Cultural y Deportiva
 #### Artículo 16°
 
 El Bienestar propenderá al progreso Social, Cultural, Educacional, Deportivo y Artístico de sus afiliados y familiares utilizando al máximo los recursos y facilidades propios o de terceros que al efecto se le proporcionen.
+
+El Servicio de Bienestar podrá organizar, financiar o aportar en eventos culturales, deportivos, creativos, festividades navideñas, actividades vacacionales, fiestas patrias o cualquier otra actividad que propenda a los fines antes señalados y que vayan en beneficio a sus afiliados. Asimismo, podrá otorgar un bono de navidad a sus afiliados. Los montos que se asignarán deberán ser aprobados por el Consejo Administrativo del Servicio de Bienestar cuando corresponda.
 
 #### Artículo 17°
 
