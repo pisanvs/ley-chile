@@ -1,0 +1,7 @@
+MODIFICA RESOLUCIÓN ELECTRÓNICA Nº 63 EXENTA, DE 2020, DE ESTA SUBSECRETARÍA
+
+Por resolución exenta Nº 1.710, de 7 de junio de 2021, de esta Subsecretaría, modifícase la resolución exenta electrónica Nº 63, de 2020, que estableció la distribución de la fracción artesanal de las pesquerías artesanales de Merluza común correspondiente al Área Sur de la Región del Libertador General Bernardo O'Higgins, y Áreas Norte 1, Norte 2 y Sur de la Región del Maule, sometidas al Régimen Artesanal de Extracción individualmente, año 2021, en el sentido de descontar 0,079 toneladas de la asignación individual autorizada a la embarcación artesanal "Esmeralda R", RPA N° 697570, perteneciente al Área Norte 1 de la Región del Maule, en virtud de lo señalado en la parte considerativa de la presente resolución y lo dispuesto en la resolución exenta Nº 10.023/2020, de fecha 16 de septiembre de 2020, de la Dirección Regional de Pesca y Acuicultura, Región del Maule, y en el artículo 55 Ñ de la Ley General de Pesca y Acuicultura.
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 7 de junio de 2021.- Alicia Gallardo Lagno, Subsecretaria de Pesca y Acuicultura.
