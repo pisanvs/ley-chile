@@ -26,11 +26,9 @@ Y, en mérito de lo expuesto, dicto la siguiente
 
 Resuelvo:
 
-1. Dispóngase la obligación de toda persona que ingrese a la Región de Magallanes y Antártica Chilena de presentar un examen de RT-PCR negativo para Covid-19, tomado en un plazo no superior a 72 horas previas a su ingreso.
+1. Las personas que ingresen a la Región de Magallanes y Antártica Chilena o a la comuna de Cabo de Hornos, deberán exhibir un examen de RT-PCR negativo, tomado en un plazo no superior a 72 horas previas a su ingreso o un examen de antígeno negativo para detectar el SARS-CoV2, tomado en un establecimiento autorizado por la autoridad sanitaria en un plazo no superior a 48 horas previas a su ingreso. Dichos exámenes serán exigibles a partir de los 9 años de edad.
 
-Toda persona que desee ingresar a la comuna de Cabo de Hornos deberá exhibir un examen de RT-PCR negativo para Covid-19, tomado en un plazo no superior a 72 horas previas a su ingreso. La presente medida regirá hasta el 31 de marzo de 2021.
-
-2. En el caso que la persona que ingrese a la Región de Magallanes y Antártica Chilena acredite ser residente y no cuente con un examen de RT-PCR negativo para Covid-19, deberá iniciar una cuarentena por 11 días, a la que sólo se pondrá término anticipado en caso de informar a la autoridad sanitaria un resultado de PCR negativo, debiendo hacerlo en la página seremisaludmagallanes.cl/barreras y adjuntar el documento correspondiente.
+### 2. Eliminado
 
 3. Exceptúese de la obligación señalada en el punto Nº 1 precedente, a aquellas personas que por razones de fuerza mayor, urgencia o casos debidamente calificados por la autoridad sanitaria debieron viajar con destino a la Región de Magallanes y Antártica Chilena, sin tiempo suficiente para realizar el examen de PCR, tales como el fallecimiento de un familiar o una emergencia médica. Estas personas deberán acreditar ante la Autoridad Sanitaria las razones para la excepción.
 
