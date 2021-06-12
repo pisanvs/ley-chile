@@ -28,13 +28,29 @@ a) Tarifa Servicios Puros:
 
 .
 
-Tarifa Metro Plebiscito 25 de octubre de 2020 $0
+Tarifa Metro Plebiscito 25 $0
 
-Tarifa Trenes Plebiscito 25 de octubre de 2020 $0
+de octubre de 2020
 
-Tarifa Metro Elecciones 15 y 16 de mayo de 2021 $0
+Tarifa Trenes Plebiscito 25
 
-Tarifa Trenes Elecciones 15 y 16 de mayo de 2021 $0
+de octubre de 2020 $0
+
+Tarifa Metro Elecciones 15 $0
+
+y 16 de mayo de 2021
+
+Tarifa Trenes Elecciones 15 $0
+
+y 16 de mayo de 2021
+
+Tarifa Metro Elecciones 13
+
+de junio de 2021 $0
+
+Tarifa Trenes Elecciones 13
+
+de junio de 2021 $0
 
 Los valores contenidos en la presente tabla serán los que sirvan de base para la aplicación del procedimiento de ajuste de tarifas, contenido en el Artículo 14 literal a) de la ley N° 20.378 y el decreto supremo N° 140, de 2009, del Ministerio de Transportes y Telecomunicaciones, y del procedimiento de determinación de nivel de tarifas establecido en el artículo 14 literal c) y artículo 15 de la ley N° 20.378.
 
