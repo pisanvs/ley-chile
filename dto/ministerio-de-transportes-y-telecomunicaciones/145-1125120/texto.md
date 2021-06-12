@@ -52,19 +52,29 @@ n. CFR 49 - 571: Regulaciones del Código Federal para la Homologación de Segur
 
 o. K.M.V.S.S.: Regulaciones de Seguridad para Vehículos Motorizados de Corea.
 
+p. GB o GB/T: Estándar Nacional de la República Popular China.".
+
+q. Cable de carga de viaje: Dispositivo para suministrar energía eléctrica a vehículos eléctricos en corriente alterna, desde los puntos de carga simple o tomas de corriente eléctrica domiciliarias.".
+
+r. Adaptador de cable de carga: Dispositivo que permite conectar el cable de carga del vehículo a la infraestructura de recarga pública.
+
 #### Artículo 2
 
-Los elementos y sistemas que a continuación se indican, deberán cumplir las normas establecidas por el Code of Federal Regulations, de los Estados Unidos de América, o por las Directivas de Seguridad de la Comunidad Económica Europea, o por las Regulaciones de Seguridad definidas por Japón o Corea, que en cada caso se señalan:
+Los elementos y sistemas que a continuación se indican, deberán cumplir las normas establecidas por el Code of Federal Regulations, de los Estados Unidos de América, o por las Directivas de Seguridad de la Comunidad Económica Europea, o por las Regulaciones de Seguridad definidas por Japón Corea o la República Popular China, que en cada caso se señalan:
 
-1. Sistema de Acumulación de Energía Recargable: Reglamento 100 CEPE/ONU; 571.305 CFR 49-571; S.R.R.V. Attachment 101 y 111; o K.M.V.S.S. Arts. 2, 18-3, 91;
+1. Sistema de Acumulación de Energía Recargable: Reglamento 100 CEPE/ONU; 571.305 CFR 49-571; S.R.R.V. Attachment 101 y 111; o K.M.V.S.S. Arts. 2, 18-3, 91; o GB 18384 - 2020 Electric vehicles safety requirements.
 
-2. Sistema de Acoplamiento de Carga: SAE J1772 (Society of Automotive Engineers) Electric Vehicle and Plug-in Hybrid Electric Vehicle conductive charge coupler; IEC 62196 (ISO/International Electrotechnical Commission) Plugs, socket-outlets, vehicle connectors and vehicle inlets - conductive charging of electric vehicles; Japan Electric Vehicle Standard G105-1993, CHAdeMO cargador rápido de corriente continua;
+2. Sistema de Acoplamiento de Carga: SAE J1772 (Society of Automotive Engineers) Electric Vehicle and Plug-in Hybrid Electric Vehicle conductive charge coupler; IEC 62196 (ISO/International Electrotechnical Commission) Plugs, socket-outlets, vehicle connectors and vehicle inlets - conductive charging of electric vehicles; Japan Electric Vehicle Standard G105-1993, CHAdeMO cargador rápido de corriente continua; o GB/T 20234 - 2015 Connection set for conductive charging of electric vehicles y con la aprobación de Proyecto Especial que dispone el numeral 5.8 del Pliego Técnico Normativo RIC Nº 15 Infraestructura para la recarga de vehículos eléctricos de la Superintendencia de Electricidad y Combustibles.
 
-3. Protección contra descargas eléctricas: Reglamento 100 CEPE/ONU; 571.305 CFR 49-571; S.R.R.V. Attachment 101 y 111; o K.M.V.S.S. Arts. 2, 18-3, 91;
+3. Protección contra descargas eléctricas: Reglamento 100 CEPE/ONU; 571.305 CFR 49-571; S.R.R.V. Attachment 101 y 111; o K.M.V.S.S. Arts. 2, 18-3, 91; o GB 18384 - 2020 Electric vehicles safety requirements.
 
-4. Señalética de Seguridad: Reglamento 100 CEPE/ONU; 571.305 CFR 49-571; S.R.R.V. Attachment 101 y 111; o K.M.V.S.S. Arts. 2, 18-3, 91; y
+4. Señalética de Seguridad: Reglamento 100 CEPE/ONU; 571.305 CFR 49-571; S.R.R.V. Attachment 101 y 111; o K.M.V.S.S. Arts. 2, 18-3, 91; GB 18384 - 2020 Electric vehicles safety requirements;
 
-5. Sistema Acústico de Alerta de Vehículo: 571.141 CFR 49-571; Reglamento (UE) 540/2014.
+5. Sistema Acústico de Alerta de Vehículo: 571.141 CFR 49-571; Reglamento (UE) 540/2014; o GB/T 37153 - 2018 Acoustic vehicle alerting system of electric vehicles running at low speed;
+
+6. Cable de Carga de Viaje: Deberá cumplir con el Pliego Técnico Normativo RIC Nº 15 "Infraestructura para la recarga de vehículos eléctricos", aprobado por la resolución exenta Nº 33.374 de 30 de septiembre de 2020, de la Superintendencia de Electricidad y Combustibles y ser autorizado por la citada Superintendencia. Deberá considerar al menos una tensión nominal (monofásica) de 220/230 V, frecuencia de 50 Hz y corriente máxima de 10 Amperes. Este elemento será obligatorio excepto para los vehículos definidos en la letra b del artículo 1; y".
+
+7. Adaptador del cable de carga: Este accesorio se considerará opcional. No obstante lo anterior, si el vehículo dispone de él, deberá estar autorizado por el fabricante del vehículo y deberá disponer de un conector compatible con los conectores Tipo 2 sin cable o Configuración AA o Configuración FF, definidos en el Pliego Técnico Normativo RIC Nº 15 "Infraestructura para la recarga de vehículos eléctricos", aprobado por la resolución exenta Nº 33.374 de 30 de septiembre de 2020, de la Superintendencia de Electricidad y Combustibles. Asimismo, este adaptador deberá ser autorizado por la citada Superintendencia para ser utilizado en la red de carga pública.
 
 Las normas a las que se hace referencia en el presente decreto se mantendrán a disposición permanente del público en el sitio web del Ministerio de Transportes y Telecomunicaciones (www.mtt.gob.cl).
 
@@ -78,11 +88,17 @@ Será obligatorio para todos los vehículos a que se refiere el artículo 1 de e
 
 .
 
-3. Informativo de Seguridad: disponer al interior del vehículo y al alcance del conductor de un Informativo consistente en una hoja plastificada o similar de larga duración, tamaño carta o formato A4, impresa por ambos lados, con la frase "Informativo de Seguridad" y con información sistematizada y de aprendizaje que incluya a lo menos: Descripción del Vehículo (marca, modelo, año de fabricación, fotografía, señalética, componentes); Sistema de Desactivación; Procedimiento de Desactivación Primario y Alternativo; Diagramas del Procedimiento de Desactivación; Diagramas Sistema de Alto Voltaje del Vehículo; Procedimiento de remolque o transporte del vehículo.
+3. Informativo de Seguridad: disponer al interior del vehículo y al alcance del conductor de un Informativo consistente en una hoja plastificada o similar de larga duración, tamaño carta o formato A4, impresa por ambos lados, con la frase "Informativo de Seguridad" y con información sistematizada y de aprendizaje que incluya a lo menos: Descripción del Vehículo (marca, modelo, año de fabricación, fotografía, señalética, componentes); Sistema de Desactivación; Procedimiento de Desactivación Primario y Alternativo; Diagramas del Procedimiento de Desactivación; Diagramas Sistema de Alto Voltaje del Vehículo; Procedimiento de remolque o transporte del vehículo. El Informativo señalado en el párrafo anterior, además de encontrase físicamente en el vehículo, deberá estar disponible en formato digital (PDF o equivalente) en la página web de quien obtenga la homologación del vehículo y de la Superintendencia de Electricidad y Combustibles.
+
+En lo que respecta al Diagrama Sistema de Alto Voltaje del Vehículo deberá presentar las baterías, elementos de corte y protección de la energía, y el trazado del circuito de alto voltaje en el vehículo. Deben ser dos vistas, una vista lateral y una de planta, según esquema siguiente:
+
+.
 
 4. La información contenida en la Etiqueta de Advertencia y en el Informativo de Seguridad deberá formar parte de las instrucciones de uso del vehículo, incorporada al manual de uso y/o a las especificaciones técnicas que se entreguen junto con cada vehículo que se comercialice, o bien adjunta a dichos documentos.
 
 5. Una etiqueta de forma circular, de 83 mm de diámetro, impresa en un material resistente a las condiciones medioambientales, la que se adherirá en la luneta trasera del vehículo en su superficie interna derecha (respecto del observador), de modo que sea fácilmente visible desde el exterior del vehículo.
+
+6. En un plazo no mayor a 10 días corridos, contados desde la acreditación señalada en el artículo 5, los solicitantes de la misma deberán poner a disposición del Cuerpo de Bomberos de Chile, de Carabineros de Chile y de la Superintendencia de Electricidad y Combustibles en formato físico y digital, el informativo de seguridad establecido en el numeral 3, del presente artículo, acompañado de toda otra información o documentación que sea de utilidad a los servicios de emergencia.
 
 La etiqueta contendrá la expresión "Vehículo Eléctrico" o "Vehículo Híbrido" según corresponda, más un ícono que lo identifique; la aludida frase debe ubicarse en la zona superior del círculo y el ícono debe estar centrado bajo ésta. Las letras e ícono serán de color blanco, pintados sobre un fondo verde Pantone 354 C, aplicando un material reflectante a la pintura de fondo, como se muestra en las figuras siguientes:
 
