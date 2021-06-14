@@ -36,7 +36,7 @@ Todas las referencias a artículos sin señalar otra fuente, se entenderán hech
 
 #### Artículo 2
 
-Corresponderá al Ministerio de Economía, Fomento y Reconstrucción, en adelante el Ministerio, dictar las normas técnicas indicadas en el presente reglamento, previa aprobación de la Comisión Nacional de Energía, en adelante la Comisión. Estos pliegos podrán ser modificados periódicamente en concordancia con los progresos que ocurran en estas materias.
+Derogado.
 
 ## Título II
 
@@ -142,7 +142,7 @@ Las concesiones provisionales serán otorgadas por la Superintendencia de Electr
 
 #### Artículo 16
 
-Las concesiones definitivas tienen por objeto el establecimiento, operación y explotación de centrales hidráulicas productoras de energía eléctrica, subestaciones eléctricas, líneas de transporte de energía eléctrica o instalaciones de servicio público de distribución.
+Las concesiones definitivas tienen por objeto el establecimiento de centrales hidráulicas productoras de energía eléctrica, subestaciones eléctricas, líneas de transporte de energía eléctrica, así como también el establecimiento, operación y explotación de las instalaciones de servicio público de distribución.
 
 Las concesiones definitivas se otorgarán por plazo indefinido.
 
@@ -151,6 +151,14 @@ Las concesiones definitivas serán otorgadas por el Ministerio, mediante decreto
 #### Artículo 17
 
 No será requisito para obtener la concesión definitiva haber solicitado la concesión provisional previa. Esta, a su vez, no obliga a solicitar ni a otorgar aquélla.
+
+#### Artículo 17 bis
+
+El procedimiento de solicitud y otorgamiento de concesiones eléctricas, así como los actos administrativos que se originen de él, podrán expresarse a través de medios electrónicos, conforme a lo dispuesto en la normativa vigente.
+
+La Superintendencia establecerá un sistema para la tramitación electrónica de solicitudes de concesión eléctrica para los segmentos de transmisión, generación y distribución. Dicho sistema estará disponible para los interesados en el sitio web de la Superintendencia y en él deberán constar todas las actuaciones que se realicen durante la tramitación del expediente concesional.".
+
+Aquella persona que carezca de los medios tecnológicos, no tenga acceso a medios electrónicos o sólo actuare excepcionalmente a través de ellos, podrá efectuar presentaciones en soporte de papel. Las presentaciones efectuadas en soporte de papel serán digitalizados e ingresados al sistema de tramitación electrónica que establezca la Superintendencia.
 
 CAPITULO 2: CONCESIONES PROVISIONALES
 
@@ -208,7 +216,7 @@ El representante legal del medio de comunicación, o quien éste designe, deber�
 
 El solicitante deberá acompañar a la Superintendencia, dentro del plazo de 15 días, contado desde el vencimiento del plazo establecido en el inciso primero de este artículo, las publicaciones y los certificados de las emisiones radiales efectuadas de acuerdo a lo establecido en el artículo 20 de la ley.
 
-En caso de no efectuarse las publicaciones y/o mensajes radiales dentro del plazo, en la cantidad requerida, en forma consecutiva, o en los medios de comunicación establecidos en este artículo, la Superintendencia desechará de plano la solicitud mediante resolución, que se informará al Ministerio de Energía, la que pondrá fin al procedimiento.
+En caso de no efectuarse las publicaciones y/o mensajes radiales dentro de plazo, en la cantidad requerida, forma, contenido o en los medios de comunicación respectivos, de acuerdo a las exigencias establecidas en este artículo, la Superintendencia desechará de plano la solicitud mediante resolución que pondrá fin al procedimiento.
 
 Tanto la solicitud como el mapa serán publicados en la página web u otro soporte de la Superintendencia, y en un lugar destacado de los municipios afectados, pudiendo ambos organismos, además, emplear para estos efectos, lo dispuesto en el artículo 15 de la ley de transparencia de la función pública y de acceso a la información de la Administración del Estado, contenida en el artículo primero de la ley Nº 20.285. Para efectos de la publicación del mapa, la Superintendencia deberá enviar al Ministerio de Bienes Nacionales y a los respectivos municipios, dentro de un plazo de tres días contado desde la declaración de la admisibilidad de la solicitud, copia de ésta y del mapa del área solicitada, las que los municipios deberán exhibir dentro de los tres días siguientes a su recepción, por un plazo de 15 días corridos. El hecho que la Superintendencia o los municipios no efectúen las anteriores publicaciones, no afectará el procedimiento concesional sino sólo la responsabilidad de estos organismos.
 
@@ -272,7 +280,7 @@ CAPITULO 3: CONCESIONES DEFINITIVAS
 
 Las solicitudes de concesión definitiva se presentarán por el interesado o su representante legal, en duplicado ante la Superintendencia, con copia al Ministerio de Energía, para que la Superintendencia ejerza sus atribuciones dando inicio al procedimiento según lo dispuesto en la ley, el presente reglamento y las instrucciones que al efecto dicte.
 
-Al presentarse la solicitud de concesión definitiva, deberá acreditarse con los documentos respectivos, la constitución de la sociedad, su vigencia y la personería de su representante, si correspondiere.
+Al presentarse la solicitud de concesión definitiva, deberá acreditarse con los documentos respectivos, la constitución de la sociedad, su vigencia y la personería de su representante, si correspondiere. Los documentos que se aoompañen para acreditar la constitución de la sociedad y la personería del representante legal, deberán tener una antigüedad máxima de 6 meses anteriores a la fecha de presentación.
 
 #### Artículo 31
 
@@ -292,7 +300,7 @@ d) En el caso de centrales hidroeléctricas, su ubicación y su potencia. Se ind
 
 Se deberán acompañar, además, los planos de las obras hidráulicas autorizadas por la Dirección General de Aguas de acuerdo al Código respectivo, quedando asimismo la construcción y aprovechamiento de las obras hidráulicas regidas por dicho cuerpo normativo, pudiendo solicitarse la concesión con los planos de las obras hidráulicas que se hubieren presentado a la Dirección General de Aguas para la autorización referida. Sin perjuicio de lo anterior, el solicitante deberá acreditar a la Superintendencia que la autorización de los planos de obras hidráulicas se encuentra en trámite y que se adjuntarán los planos autorizados antes de la emisión del informe a que se refiere el artículo 29 de la ley.
 
-e) En el caso de líneas de transmisión, de distribución y de subestaciones, se señalará su ubicación o trazado, con indicación de los caminos, calles y otros bienes nacionales de uso público que se ocuparán, y de las propiedades fiscales, municipales y particulares que se atravesarán;
+e) En el caso de centrales hidráulicas, líneas de transmisión, de distribución y de subestaciones, se señalará su ubicación o trazado, con indicación de los caminos, calles y otros bienes nacionales de uso público que se ocuparán, y de las propiedades fiscales, municipales y particulares que se atravesarán;
 
 f) Los plazos para la iniciación de los trabajos, para su terminación por etapas y secciones, y para la terminación total de las obras;
 
@@ -306,9 +314,19 @@ j) El plazo de la concesión;
 
 k) En el caso de la concesión para servicio público de distribución, se indicará la zona de concesión, que como mínimo será una franja circundante de 100 metros, respecto de cada línea eléctrica.
 
+#### Artículo 32 bis
+
+Respecto de las propiedades fiscales, municipales y particulares aludidas en el literal e) del artículo anterior, el solicitante deberá acompañar un listado de los predios afectados que contenga, a lo menos, la identificación de las propiedades afectadas; la indicación de sus propietarios; su ubicación; el área afectada; la longitud de las líneas que los atravesarán, cuando corresponda; así como el número de plano especial de servidumbre correspondiente.
+
+Adicionalmente, en caso de que el proyecto contemple la ocupación de bienes nacionales de uso público, el listado señalado en el inciso anterior deberá contener la identificación de éstos, su ubicación, así como la longitud de las líneas que los atravesarán, cuando corresponda.
+
+#### Artículo 32 ter
+
+En caso que las obras nuevas contempladas en el proyecto puedan afectar líneas eléctricas u otras obras e instalaciones existententes, el solicitante deberá incorporar planos técnicos que ilustren las eventuales afectaciones, los que deberán elaborarse conforme a lo indicado en el artículo 207 del presente reglamento.
+
 #### Artículo 33
 
-Los planos generales que se presenten deberán indicar, en forma precisa, las características de las instalaciones, la cantidad y tipo de equipos, los materiales empleados, ubicación y forma de instalación. En dichos planos o en uno anexo, se deberá dibujar claramente las áreas en las que se produzca superposición de la zona de concesión solicitada, con las correspondientes a concesiones ya otorgadas.
+Los planos generales de obras que se presenten deberán indicar, en forma precisa, las características de las instalaciones, la cantidad y tipo de equipos, los materiales empleados, ubicación, forma de instalación y las demás menciones indicadas en el artículo 207 del presente reglamento. Para el caso de las solicitudes de concesión de servicio público de distribución, en dichos planos o en uno anexo, se deberán indicar claramente las áreas en las que se produzca superposición de la zona de concesión solicitada, con las correspondientes a otras concesiones ya otorgadas.
 
 Los antecedentes respectivos deberán ser verificados en la Superintendencia, que deberá mantener actualizado un plano de uso público para estos efectos.
 
@@ -316,13 +334,13 @@ La Superintendencia, podrá autorizar que la información y planos a que se refi
 
 #### Artículo 34
 
-Las memorias explicativas de cada una de las obras que se incluyan en la solicitud, deberán indicar su objetivo, el lugar en que se instalarán, una descripción técnica de los equipos y materiales que se ocuparán y el plazo para la iniciación y término de su ejecución.
+Las memorias explicativas de cada una de las obras que se incluyan en la solicitud, deberán indicar su objetivo, el lugar en que se instalarán, una descripción técnica de los equipos y materiales que se ocuparán y el plazo para la iniciación y término de su ejecución y contener el cálculo de la franja de seguridad desarrollada en el proyecto. Para el cumplimiento de lo anterior, el solicitante deberá considerar las disposiciones contenidas en la normativa aplicable..
 
 Se deberá adjuntar, además, un presupuesto estimativo de inversión para cada una de las obras y para el conjunto de ellas, actualizado a la fecha que se indique dentro de los seis meses previos a la fecha de presentación de la solicitud, y expresado en moneda legal de esa fecha.
 
 #### Artículo 35
 
-Conjuntamente con la solicitud, se deberán presentar copias autorizadas de las escrituras o documentos en que consten las servidumbres prediales voluntarias, constituidas en favor del peticionario con anterioridad a la presentación de la solicitud de concesión, las que deberán contener la información que se indica en el artículo 72.
+Conjuntamente con la solicitud, se deberán presentar copias autorizadas de las escrituras o documentos en que consten las servidumbres prediales voluntarias, constituidas en favor del peticionario con anterioridad a la presentación de la solicitud de concesión, las que deberán señalar, a lo menos, la identificación del predio afectado, el propietario del mismo, la franja de servidumbre y el área y longitud de afectación, según corresponda.
 
 #### Artículo 36
 
@@ -350,7 +368,7 @@ El representante legal del medio de comunicación, o quien éste designe, deber�
 
 El solicitante deberá acompañar a la Superintendencia, dentro del plazo de 15 días, contado desde el vencimiento del plazo establecido en el inciso primero de este artículo, las publicaciones y los certificados de las emisiones radiales efectuadas de acuerdo a lo establecido en el artículo 27 bis de la ley.
 
-En caso de no efectuarse las publicaciones y/o mensajes radiales dentro del plazo, en la cantidad requerida, en forma consecutiva, o en los medios de comunicación establecidos en este artículo, la Superintendencia desechará de plano la solicitud mediante resolución, que se informará al Ministerio de Energía, la que pondrá fin al procedimiento.
+En caso de no efectuarse las publicaciones y/o mensajes radiales dentro del plazo, en la cantidad requerida, forma, contenido, o en los medios de comunicación respectivos, de acuerdo a las exigencias establecidas en este artículo, la Superintendencia desechará de plano la solicitud mediante resolución, que se informará al Ministerio de Energía, la que pondrá fin al procedimiento.
 
 #### Artículo 38
 
@@ -364,7 +382,7 @@ Cuando haya de notificarse a personas cuya individualidad o residencia sea difí
 
 #### Artículo 40
 
-El solicitante deberá demostrar la circunstancia de haberse efectuado la notificación de los planos que contemplen las servidumbres, remitiendo a la Superintendencia copia del certificado notarial, de la certificación del receptor judicial que efectuó la notificación judicial o las publicaciones correspondientes, en caso de haberse notificado de acuerdo a lo dispuesto en el artículo 54 del Código de Procedimiento Civil. Para estos efectos, el solicitante tendrá un plazo de 15 días, contado desde la fecha en que se haya realizado la diligencia de notificación.
+El solicitante deberá demostrar la circunstancia de haberse efectuado la notificación de los planos que contemplen las servidumbres, remitiendo a la Superintendencia copia del certificado notarial, de la certificación del receptor judicial que efectuó la notificación judicial o las publicaciones correspondientes, en caso de haberse notificado de acuerdo a lo dispuesto en el artículo 54 del Código de Procedimiento Civil, junto con la copia de las resoluciones judiciales recaídas sobre dichas gestiones. Para estos efectos, el solicitante tendrá un plazo de 15 días, contado desde la fecha en que se haya realizado la diligencia de notificación.
 
 La Superintendencia certificará, a petición del solicitante, la fecha en que éste acredite haber efectuado las notificaciones a que se refiere el artículo 38 y siguientes, y las publicaciones establecidas en el artículo 37.
 
@@ -380,7 +398,7 @@ Las observaciones sólo podrán basarse en la errónea identificación del predi
 
 Las oposiciones deberán fundarse en alguna de las circunstancias establecidas en los artículos 53 y 54 de la ley, debiéndose acompañar los antecedentes que las acrediten.
 
-Las observaciones u oposiciones que presenten tanto los dueños de las propiedades afectadas u otros interesados que no cumplan con lo señalado en los incisos anteriores, en cuanto a las causales en que éstas deban fundarse y al plazo dentro del cual deban formularse, serán desechadas de plano por la Superintendencia mediante resolución.
+Las observaciones u oposiciones que presenten tanto los dueños de las propiedades afectadas u otros interesados que no cumplan con lo señalado en los incisos anteriores, en cuanto a las causales en que éstas deban fundarse y al plazo dentro del cual deban formularse, serán desechadas de plano por la Superintendencia mediante resolución. Asimismo, serán desechadas de plano, aquellas oposiciones presentadas que no contengan los antecedentes a que se refiere el inciso anterior.
 
 Los dueños u otros interesados que hubieren formulado observaciones u oposiciones se tendrán por notificados, para todos los efectos legales, de la solicitud de concesión respectiva.
 
@@ -418,7 +436,7 @@ El Ministro de Energía, previo informe de la Superintendencia y con la autoriza
 
 #### Artículo 47
 
-El decreto de otorgamiento, que contendrá las indicaciones de las letras a) y siguientes del artículo 25 de la ley y la aprobación de los planos de servidumbres que se impondrán, deberá ser publicado en el sitio electrónico del Ministerio de Energía en el plazo de 15 días, contado desde la fecha de su publicación en el Diario Oficial y deberá ser reducido a escritura pública por el concesionario antes de 15 días, contados desde esta última publicación.
+El decreto de otorgamiento contendrá las indicaciones de las letras a) y siguientes del artículo 25 de la ley y la aprobación de los planos de servidumbres que se impondrán.
 
 #### Artículo 48
 
@@ -430,13 +448,13 @@ Inciso derogado.
 
 El decreto que se pronuncie sobre una solicitud de concesión, concediéndola o denegándola, deberá ser notificado al peticionario en conformidad al inciso cuarto del artículo 21.
 
-El decreto que otorgue la concesión deberá ser publicado en el Diario Oficial, en el plazo de 30 días contados desde la fecha de su total tramitación y en el sitio electrónico del Ministerio de Energía, dentro de los 15 días siguientes a dicha publicación. Además, deberá ser reducido a escritura pública por el concesionario antes de 15 días contados desde esta última publicación. Copia de dicha escritura deberá remitirse a la Superintendencia en el plazo de 15 días, contado desde su otorgamiento.
+Dentro de los 30 días siguientes a su total tramitación, el decreto que otorgue la concesión deberá ser publicado en el Diario Oficial y reducido a escritura pública por el concesionario antes de 15 días contados desde la fecha de su publicación. Dentro de este último plazo, el Ministerio de Energía deberá publicar en su sitio electrónico el decreto respectivo. Copia de la escritura pública deberá remitirse a la Superintendencia en el plazo de 15 días, contados desde su otorgamiento.
 
 En caso de no otorgarse la escritura pública en el plazo indicado, caducará la concesión otorgada.
 
 #### Artículo 50
 
-Los antecedentes relativos a las concesiones definitivas serán archivados por la Superintendencia e incorporados en planos que estarán a disposición de los interesados, según el procedimiento que la misma institución señale.
+Los antecedentes relativos a las concesiones definitivas serán archivados por la Superintendencia y estarán a disposición de los interesados, según el procedimiento que la misma institución señale.
 
 #### Artículo 51
 
@@ -444,13 +462,23 @@ La construcción de las obras de una concesión deberá ejecutarse con sujeción
 
 #### Artículo 51
 
-A.- Tratándose de proyectos para establecer líneas de transmisión de energía eléctrica, el solicitante podrá dividir en cualquier momento la concesión que solicita en dos o más tramos. Las notificaciones practicadas con anterioridad a la división de la solicitud de concesión se entenderán válidas para todos los efectos, siempre y cuando el trazado en el predio afectado y notificado no haya variado a propósito de dicha división.
+A.- Tratándose de proyectos para establecer líneas de transmisión de energía eléctrica, el solicitante podrá dividir en cualquier momento la concesión que solicita en dos o más tramos, y estos, a su vez, en subtramos. La división administrativa antes indicada no implicará modificación de la solicitud de concesión que es objeto de la división, así como tampoco de sus antecedentes complementarios, debiendo formarse un expediente para cada tramo o subtramo.
+
+En virtud de lo anterior, las notificaciones practicadas con anterioridad a la división de la solicitud de concesión se entenderán válidas para todos los efectos, siempre y cuando el trazado en el predio afectado y notificado no haya variado a propósito de dicha división. Lo antes señalado es sin perjuicio de las modificaciones que el solicitante pueda requerir respecto de los tramos o subtramos, en atención a lo indicado en el artículo 43.
 
 El decreto que se pronuncie sobre cada tramo señalará la concesión a la que pertenece.
 
 El decreto también consignará que, si por cualquiera circunstancia, alguno de los tramos no pudiere ejecutarse, el retiro de las instalaciones que ocupen bienes nacionales de uso público, terrenos fiscales o particulares, deberá hacerse dentro del plazo y en las condiciones que fije la Superintendencia.
 
 La división a que se refiere este artículo no afectará en modo alguno la prohibición de fraccionamiento contemplada en la ley Nº 19.300.
+
+#### Artículo 51
+
+A bis.- Los requerimientos de división de solicitud de concesión deberán señalar la identificación de los tramos o subtramos que resultarán de la división, con indicación de los predios afectados y de los bienes nacionales de uso público contemplados en el listado a que se refiere el artículo 32 bis del presente reglamento, que corresponderán a cada tramo o subtramo.
+
+De cumplirse las señaladas exigencias, se acogerá la solicitud de división de la solicitud de concesión mediante resolución.
+
+Si de la revisión de los antecedentes se advirtiera el incumplimiento de alguna de las exigencias antes mencionadas, la Superintendencia comunicará dicha situación al solicitante, señalando los antecedentes que hayan sido omitidos o que requieran complementarse, a efectos de continuar con la tramitación de la división administrativa de la solicitud de concesión.
 
 #### Artículo 51
 
@@ -614,7 +642,7 @@ La Superintendencia podrá otorgar el permiso por un plazo máximo de un año.
 
 Si se otorgare el permiso, el peticionario estará obligado a solicitar la concesión definitiva dentro del plazo de vigencia del respectivo permiso.
 
-En caso de no solicitarse la concesión definitiva dentro de plazo, o si ella fuere denegada, el concesionario deberá efectuar el retiro de las instalaciones amparadas por el permiso, en el plazo que al efecto señale el decreto denegatorio, o en aquel que se fije en la resolución de la Superintendencia que declare la expiración del permiso.
+En caso de no solicitarse la concesión definitiva dentro de plazo, o si ella fuere denegada, el concesionario deberá efectuar el retiro de las instalaciones amparadas por el permiso, en el plazo que al efecto señale el decreto denegatorio, o en aquel que se fije en la resolución de la Superintendencia que declare la expiración del permiso. Lo anterior es sin perjuicio de otras medidas correctivas que la Superintendencia determine, de acuerdo al procedimiento establecido en el Título IV de la ley Nº 18.410, que crea la Superintendencia de Electricidad y Combustibles.
 
 CAPITULO 6: SERVIDUMBRES
 
@@ -666,7 +694,7 @@ Las servidumbres señaladas en los literales a.1) al a.9) del artículo anterior
 
 Para tal efecto, el peticionario deberá confeccionar y adjuntar los planos especiales de las servidumbres que solicite, en la escala que indiquen las normas técnicas respectivas, las que, en todo caso, deberán considerar una escala tal que permita obtener en forma fácil y expedita la información que se requiera pudiendo acompañar las fotografías aéreas a las que se refiere la letra h) del artículo 32 para probar dichas condiciones.
 
-Los planos deberán indicar las condiciones actuales de los predios sirvientes, su destinación, los propietarios de los predios afectados, el área ocupada, la longitud de las líneas que los atravesarán y la franja de seguridad de las obras que quedarán dentro del predio. Para los efectos de este inciso, se considerarán actuales las condiciones existentes dentro de los 6 meses anteriores a la fecha de la solicitud.
+Los planos deberán indicar las condiciones actuales de los predios sirvientes, su destinación, los propietarios de los predios afectados, el área ocupada, la longitud de las líneas que los atravesarán, la cantidad de torres a instalar y la franja de seguridad de las obras que quedarán dentro del predio. Para los efectos de este inciso, se considerarán actuales las condiciones existentes dentro de los 6 meses anteriores a la fecha de la solicitud.
 
 Los planos podrán ser confeccionados mediante topografía de terreno o topografía obtenida mediante aplicaciones computacionales sobre antecedentes de aerofotogrametría.
 
