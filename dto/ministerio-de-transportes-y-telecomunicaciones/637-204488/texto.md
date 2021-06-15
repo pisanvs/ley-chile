@@ -128,9 +128,17 @@ Sistema Radiante : Camino a Lago Colico s/nº,
 
 Cunco, IX Región.
 
-- Coordenadas geográficas : 38°56'10" Latitud Sur.
+- Coordenadas geográficas : 38º58'25"
 
-72°02'30" Longitud Oeste.
+Latitud Sur;
+
+72º01'12"
+
+Longitud Oeste,
+
+Datum
+
+WGS 84
 
 CARACTERISTICAS TECNICAS DEL RADIOENLACE
 
