@@ -108,13 +108,19 @@ La medida dispuesta en el inciso primero, regirá por un plazo de 15 días desde
 
 > **Nota.** NOTA 33 El artículo primero del Decreto 82, Interior, publicado el 05.04.2021, modifica la presente norma en el sentido extender hasta el 30 de abril de 2021, la medida dispuesta en el inciso primero del artículo primero de la presente norma, lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de Covid-19 en el territorio nacional.
 
+> **Nota.** NOTA 34 El artículo único del Decreto 99, Interior, publicado el 30.04.2021, modifica la presente norma en el sentido de extender hasta el 31 de mayo de 2021, contados desde el vencimiento del plazo indicado en el decreto supremo Nº 82, de 2021, del Ministerio del Interior y Seguridad Pública, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
+
+> **Nota.** NOTA 35 El artículo único del Decreto 124, Interior, publicado el 29.05.2021, modifica la presente norma en el sentido de extender hasta el 15 de junio de 2021, contados desde el vencimiento del plazo indicado en el decreto supremo Nº 99, de 2021, del Ministerio del Interior y Seguridad Pública, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
+
+> **Nota.** NOTA 36 El artículo primero del Decreto 139, Interior, publicado el 15.06.2021, modifica la presente norma en el sentido de extender hasta el 30 de junio de 2021, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
+
 #### Artículo segundo
 
 La medida excepcional dispuesta en el inciso primero del artículo primero, no afectará a los nacionales chilenos, ni a los extranjeros residentes de manera regular en el territorio nacional, que ingresen al territorio nacional, quienes de conformidad con los protocolos e instrucciones de la autoridad, podrán ingresar al país sometiéndose a los procedimientos sanitarios pertinentes.
 
 De igual manera, no resultará afectada por este cierre temporal de entrada y salida:
 
-a) la carga desde y hacia al territorio nacional;
+a) la carga desde y hacia el territorio nacional;
 
 b) el personal asociado que sea estrictamente necesario para los fines señalados en el literal precedente, así como el personal de relevo de dicha tripulación;
 
@@ -124,17 +130,21 @@ d) el acompañante extranjero en los casos que lo autoriza el decreto supremo N�
 
 e) los extranjeros tripulantes de naves y aeronaves que ingresen a territorio nacional;
 
-f) los niños, niñas o adolescentes de padre o madre chilenos o extranjeros residentes de manera regular en el territorio nacional, nacidos en el extranjero, que ingresen en calidad de turistas. Esta condición deberá acreditarse ante la autoridad contralora en frontera, mediante el correspondiente certificado de nacimiento debidamente apostillado o legalizado;
+f) los padres o hijos extranjeros de un chileno o extranjero residente de manera regular en el territorio nacional, nacidos en el extranjero, que ingresen en calidad de turistas. Esta condición deberá acreditarse ante la autoridad contralora en frontera, mediante el correspondiente certificado de nacimiento debidamente apostillado o legalizado;
 
 g) el personal enviado a Chile por otros Estados u organismos internacionales para prestar ayuda humanitaria o cooperación internacional debidamente aceptada por Chile;
 
 h) quienes porten visas diplomáticas y oficiales emitidas por el Ministerio de Relaciones Exteriores de Chile;
 
-i) las personas que porten un salvoconducto otorgado en virtud de lo dispuesto en el artículo 66º del Reglamento Consular;
+i) extranjeros que tengan un vínculo matrimonial o un Acuerdo de Unión Civil con un chileno o extranjero residente de manera regular en territorio nacional, celebrado en Chile, que ingresen en calidad de turistas. Esta condición deberá acreditarse ante la autoridad contralora en frontera mediante el correspondiente certificado del Servicio de Registro Civil e Identificación;
 
-j) quienes sean portadores de pasaportes diplomáticos u oficiales o sean funcionarios internacionales, que cuenten con autorización de la dirección de Protocolo del Ministerio de Relaciones Exteriores;
+j) extranjeros que tengan un vínculo matrimonial o un Acuerdo de Unión Civil con un chileno o extranjero residente de manera regular en territorio nacional, celebrado en el extranjero, que ingresen en calidad de turistas. Para dichos efectos, deberán portar un salvoconducto en virtud de lo dispuesto en el artículo 66º del Reglamento Consular, debiendo presentar previamente el correspondiente certificado de matrimonio o de acuerdo de unión civil ante el consulado respectivo;
 
-k) el ingreso de extranjeros no residentes en Chile que no hayan estado durante los últimos 14 días en países con transmisión comunitaria de SARS-CoV-2 y/o países que no hayan presentado casos producidos por variantes de preocupación (variants of concem) del virus, según se determine por la Organización Mundial de la Salud.
+k) extranjeros que por motivos impostergables deban hacer ingreso al país con fines de gestión de negocios, según lo dispuesto en el inciso primero del artículo 44 del decreto ley Nº 1.094, atendiéndose en especial a la conveniencia o utilidad que reporte al país. Para dichos efectos, deberán portar un salvoconducto en virtud de lo dispuesto en el artículo 66º del Reglamento Consular;
+
+l) las personas que porten un salvoconducto otorgado en virtud de lo dispuesto en el artículo 66º del Reglamento Consular;
+
+m) quienes sean portadores de pasaportes diplomáticos u oficiales o sean funcionarios internacionales, que cuenten con autorización de la dirección de Protocolo del Ministerio de Relaciones Exteriores.
 
 Los bienes y las personas señaladas en el inciso precedente deberán observar todos los requerimientos y medidas que al efecto disponga la autoridad competente.
 
