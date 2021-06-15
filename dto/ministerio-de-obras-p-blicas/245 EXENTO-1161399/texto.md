@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 245 de 30 de abril de 2021, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 3, Rol de avalúo 191-103, comuna de Collipulli, superficie 550 m2., para la obra SISTEMA DE AGUA POTABLE RURAL LINCO ORIENTE-PONIENTE, SECTOR MATRIZ 1, COMUNA DE COLLIPULLI, PROVINCIA DE MALLECO, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por MARÍA SOLEDAD NÚÑEZ ARROYO, YASCHALA MARIBEL YÁÑEZ RIFFO y ENEDINA DEL CARMEN CID RAMÍREZ, fijó el valor de tasación con fecha 26 de abril de 2019, acordándose la indemnización con su propietario Mariano Segundo Necul Cañuñan, en la cantidad de $4.723.870.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
