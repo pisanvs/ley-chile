@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 320, de 26 de mayo de 2021, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 32, Rol de avalúo 102-516, Comuna de Machalí, superficie 5.073 m2., para la obra: AMPLIACIÓN RUTA H-27 CARRETERA EL COBRE, RANCAGUA - MACHALÍ, COMUNA DE MACHALÍ, PROVINCIA DE CACHAPOAL, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O "HIGGINS. La comisión de peritos, integrada por RAYEN ALEJANDRA GUZMÁN THEODULOZ, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y PATRICIA VERÓNICA ZAVALA CONTRERAS, fijó el valor de tasación con fecha 29 de abril de 2019, acordándose la indemnización con su propietaria CORPORACIÓN NACIONAL DEL COBRE DE CHILE, DIVISIÓN EL TENIENTE, en la cantidad total de $197.592.241.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
