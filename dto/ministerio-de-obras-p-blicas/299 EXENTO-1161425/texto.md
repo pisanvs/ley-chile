@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°299, de 26 de mayo de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.1 y 4, para la obra: REPOSICION PUENTES EL MONTE Y YERBAS BUENAS, RUTA I-660, que figura a nombre de GONZALEZ MADARIAGA LUZ SILVA y OYARZUN PEREZ ARNULFO NEFTALI, roles de avalúo 68-5 y 68-79, Comuna de MARCHIGUE, REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficies 728 y 585 m2 respectivamente. La Comisión de Peritos integrada por ANDRÉS RAINER SCHULZ VILLANUEVA, ALEJANDRO GREGORIO PADILLA HENRIQUEZ y MARLENE TERESA RÍOS MARCUELLO, mediante informe de tasación de 27 de abril de 2020, fijó el monto de la indemnización provisional en la cantidad de $6.108.000 para el lote N°1, y $7.428.000 para el lote N°4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
