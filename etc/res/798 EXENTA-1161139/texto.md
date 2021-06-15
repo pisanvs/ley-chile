@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 798, de 14-05-2021, Serviu III Región de Atacama, que se extracta, se invalidó totalmente la resolución exenta N° 3.173, de 05-12-2019, por medio de la cual se ordenó la expropiación del lote 2, según plano de expropiación SRAUGS-1773, archivado bajo el N° 2436/2019 del Conservador de Bienes Raíces de Copiapó, para la ejecución del Proyecto "Construcción Parque Urbano Kaukari, 3° Etapa A, ciudad de Copiapó", de dominio de Viacasa S.A. Inmobiliaria, cuya superficie a expropiar es de 33.808,38 metros cuadrados, tasados en la suma de $349.767.850, (trescientos cuarenta y nueve millones, setecientos sesenta y siete mil, ochocientos cincuenta pesos), Rol de Avalúo Fiscal N° 100-80, inscrito a fojas 3110, N° 1855 del Registro de Propiedad del Conservador de Bienes Raíces de Copiapó, año 2010.-
+
+Director Serviu III Región Atacama.
