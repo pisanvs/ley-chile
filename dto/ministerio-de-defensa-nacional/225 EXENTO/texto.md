@@ -1,0 +1,7 @@
+OTORGAMIENTO DE DESTINACIÓN MARÍTIMA
+
+Decreto exento Nº 225, de fecha 8 de abril de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, para el Servicio Nacional de Pesca, RUT: Nº 60.701.002-1, destinación marítima, con vencimiento el 30 de junio de 2051, sobre un sector de Terreno de Playa, Playa, Fondo de Mar, Porción de Agua y uso de Mejora Fiscal, en el lugar denominado Caleta Guanaqueros, comuna de Coquimbo, Provincia de Elqui, Región de Coquimbo, con una superficie total de 4.772.14 m2, la que fue tramitada con el S.I.A.B.C. Nº 46.112. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste Amparar Actividades Ligadas a la Pesca Artesanal, de acuerdo a los artículos 2º y 4º de la ley Nº 21.027, las que se contendrán en el plan de administración, aprobado en los términos del artículo 10 de la ley Nº 21.027. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Tongoy. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Luis Jeldres Sepúlveda, Sargento 1º L. (Seg. M.), Capitán de Puerto de Tongoy.
