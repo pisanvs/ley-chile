@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento Nº 333, de 26 de mayo de 2021, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno 64, 70 y 70-A, Rol de avalúo 2208-11, Comuna de Osorno, superficies 648, 734 y 299 m2., para la obra: REPOSICIÓN PAVIMENTO RUTA U-40, SECTOR: OSORNO - INTERSECCIÓN RUTA U-52, COMUNA Y PROVINCIA DE OSORNO, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, CARMEN PILAR RÍOS MARCUELLO y ANDRÉS ECHEVERRÍA CAMPO, fijó el valor de tasación con fecha 16 de octubre de 2017, acordándose la indemnización con su propietario RAÚL ALEJANDRO HENRÍQUEZ VERA, en la cantidad total de $13.096.331.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
