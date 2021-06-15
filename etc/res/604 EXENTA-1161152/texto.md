@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 604 de 31/05/2021, conforme al artículo 51 ley 16.391, DL 2.186 de 1978 y DL 1.305 de 1976, de Vivienda y Urbanismo, el Serviu Región de Los Ríos expropió el Lote 2, ubicado en Pedro Montt 4300, comuna de Valdivia, de 24,4 M² de superficie de terreno, Rol de Avalúo N° 1624-01, de la comuna de Valdivia, que forma parte de un terreno de mayor extensión, de aparente dominio de Walmart Chile S.A., para destinarlo al Proyecto denominado "Mejoramiento Avda. San Luis, Valdivia". La Comisión de Peritos Tasadores nombrada por resolución exenta N° 1.161, de 24/11/2020, del Serviu Región de Los Ríos, integrada por María José Freire Allendes, Isabel Margarita del Carmen Olivares Rosales y Sebastián Andrés Riquelme Vargas, fijó el monto de indemnización provisional, según informe de fecha 17/12/2020, esta última que reajustada de acuerdo al IPC corresponde a $10.182.011, conforme a lo dispuesto en el artículo 5° del DL 2.186. La publicación se efectúa en cumplimiento de lo preceptuado en el artículo 7° del DL 2.186 de 1978.-
+
+Jorge de la Maza Schleyer.
