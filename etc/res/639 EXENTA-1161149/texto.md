@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 639, del 4 de junio de 2021, Serviu Región de Ñuble ordenó expropiación total de inmueble ubicado en Collin Nº 708, comuna de Chillán, Rol de Avalúo Nº 00680-00020, de aparente dominio de Sobrevia Santos Pedro Enrique. La parte afecta a expropiación total de terreno es de 450,79 m2 (Lote 05) y 375,37 m2 total de edificación y cuyos linderos particulares, enmarcados en el plano S16R-016, para el proyecto "Mejoramiento Avenida Huambali comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto don Mario Fabrizzio Bellolio Bostica, Constructor Civil don Italo Renzo Zerga Arancibia y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $183.983.971.-
+
+Director Serviu Región de Ñuble.
