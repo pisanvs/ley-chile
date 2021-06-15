@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 349 de 26 de mayo de 2021, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 95-C, 97-A, 97-B y 98-A, Rol de avalúo 164-215, comuna de Río Claro, superficies 16, 43, 227 y 42 m2. respectivamente, para la obra MEJORAMIENTO RUTA K-275, SECTOR LAS TRANCAS-PARQUE INGLÉS, COMUNA DE RÍO CLARO, PROVINCIA DE TALCA, REGIÓN DEL MAULE. La comisión de peritos, integrada por PATRICIO ULISES DURÁN MARCOS, PAULA SOLEDAD GONZÁLEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, fijó el valor de tasación con fecha 09 de diciembre de 2017, acordándose la indemnización con su propietaria ERIKA DEYANIRA MENESES VARAS, en la cantidad total de $2.545.807.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
