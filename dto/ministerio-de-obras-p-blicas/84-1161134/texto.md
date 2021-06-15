@@ -1,0 +1,13 @@
+AMPLIACIÓN DE CONCESIÓN DE SERVICIOS SANITARIOS ÁREA DENOMINADA "LOTEO GENERAL DEL CANTO", DE LA COMUNA DE PUNTA ARENAS, REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA
+
+Por decreto número 84, del Ministerio de Obras Públicas, de fecha 6 de mayo de 2021, íntegramente tramitado el 31 de mayo de 2021, se concedió a la Empresa Concesionaria de Servicios Sanitarios S.A. (Econssa Chile S.A.), RUT Nº 96.579.410-7, domiciliada para estos efectos en calle Monjitas número 392, piso 10, oficina 1003, Santiago, Región Metropolitana, ampliación de las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas para atender el área denominada "Loteo General del Canto", de la comuna de Punta Arenas, Región de Magallanes y de la Antártica Chilena.
+
+La zona de concesión o territorio operacional de los servicios de producción y distribución de agua potable y de recolección y disposición de aguas servidas, corresponderá área de una superficie total aproximada de 6,79 hectáreas, que se encuentra identificada y delimitada en el plano denominado "Solicitud de Ampliación de Concesión Sector Loteo General del Canto Punta Arenas - Región de Magallanes. Sector de ampliación territorio operacional planta general", del Plan de Desarrollo, que forma parte integrante del presente decreto. En el primer establecimiento (año 2025), se considera la instalación de 300 arranques de agua potable e igual número de uniones domiciliarias de alcantarillado, cantidad que se mantendrá hasta el final del período de previsión (año 2035).
+
+El servicio público de producción de agua potable para los sectores señalados precedentemente, que se amplían por este decreto, serán abastecidos por las fuentes que se indican en el numeral 3.1, letra a) de la respectiva Ficha de Antecedentes Técnicos (F.A.T.), sobre las cuales la concesionaria tiene los derechos que se individualizan en los informes de títulos respectivos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el Art. 26º del DS MOP Nº 1.199/04, y se encuentran afectos a la concesión, documentos que forman parte integrante del presente decreto.
+
+Las demás condiciones de prestación de los servicios otorgados en concesión, son las establecidas en la Ficha de Antecedentes Técnicos (F.A.T.) Nº 12-02 H, que forma parte integrante del presente decreto.
+
+Programa de desarrollo, nivel tarifario, garantías y otros en decreto extractado que se redujo a escritura pública con fecha 2 de junio de 2021 ante el Notario de la 8ª Notaría de Santiago, don Luis Ignacio Manquehual Mery y archivados en la Superintendencia de Servicios Sanitarios bajo el Nº 12-02 H.-
+
+Jorge Rivas Chaparro, Superintendente de Servicios Sanitarios.
