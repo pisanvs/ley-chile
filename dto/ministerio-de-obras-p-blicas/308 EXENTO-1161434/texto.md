@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°308, de 26 de mayo de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.360 y 365, para la obra: REPOSICION PAVIMENTO RUTA L-111-11, SECTOR COLBUN-PANIMAVIDA-LINARES, que figura a nombre de FUENTES FUENTES ALADINO y GIMENO RESTOVIC CARMEN YASNA MAGDAL, roles de avalúo 2600-16 y 548-40, Comuna de LINARES, REGION DEL MAULE, superficies 41 y 128 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 29 de noviembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $769.358 para el lote N°360, y $1.150.776 para el lote N°365. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
