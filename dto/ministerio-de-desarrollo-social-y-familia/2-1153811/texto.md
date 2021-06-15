@@ -32,7 +32,7 @@ d) Revisar y analizar la asignación y ejecución de presupuesto anual del Subsi
 
 e) Elaborar una propuesta de indicadores globales que permitan medir el impacto global del Subsistema, considerando que actualmente cuenta con indicadores que miden el impacto parcializado de acciones, obtenidos principalmente mediante datos administrativos innominados contenidos en el Sistema de Registro, Derivación y Monitoreo (SRDM) perteneciente al Subsistema;
 
-f) Elaborar y entregar, al 30 de marzo de 2021, un informe final que contenga las propuestas referidas a cada una de las tareas individualizadas en los literales anteriores;
+f) Elaborar y entregar, al 15 de mayo de 2021, un informe final que contenga las propuestas referidas a cada una de las tareas individualizadas en los literales anteriores.
 
 g) Sesionar periódicamente, para tomar conocimiento del estado de avance general de las tareas realizadas y de las propuestas formuladas en el marco de lo dispuesto en los literales anteriores.
 
