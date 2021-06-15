@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°256, de 6 de mayo de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 50, para la obra: MEJORAMIENTO RUTA 235-CH, SECTOR VILLA SANTA LUCÍA - PUERTO RAMIREZ, que figura a nombre de SAID AMARO DAMARI, rol de avalúo 100-198, Comuna de PALENA, REGIÓN DE LOS LAGOS, superficie 1.402 m2. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, PAOLA ANDREA DOMINGO PORCELLA y ANDRES ECHEVERRIA CAMPO, mediante informe de tasación de 09 de diciembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $2.870.600, para el lote N°50. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
