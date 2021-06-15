@@ -1,0 +1,13 @@
+AMPLIACIÓN DE CONCESIÓN DE SERVICIOS SANITARIOS ÁREA DENOMINADA "ASENTAMIENTOS URBANOS IQUIQUE", DE LA COMUNA DE IQUIQUE, REGIÓN DE TARAPACÁ
+
+Por decreto número 83, del Ministerio de Obras Públicas, de fecha 6 de mayo de 2021, íntegramente tramitado el 27 de mayo de 2021, se concedió a la Empresa Concesionaria de Servicios Sanitarios S.A. (Econssa Chile S.A.), RUT Nº 96.579.410-7, domiciliada para estos efectos en calle Monjitas número 392, piso 10, oficina 1003, Santiago, Región Metropolitana, ampliación de las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas para atender el área denominada "Asentamientos Urbanos Iquique", de la comuna de Iquique, Región de Tarapacá.
+
+La zona de concesión o territorio operacional de los servicios de producción y distribución de agua potable y de recolección y disposición de aguas servidas, corresponderá área de una superficie total aproximada de 6,67 hectáreas, que se encuentra identificada y delimitada en el plano denominado "Convenio de Ampliación del Territorio Operacional de Iquique" Contenido: Anexo Nº 1 Área de Ampliación del Territorio Operacional ATO Asentamiento Urbanos Iquique - Sectores I y II comuna de Iquique, I Región, que forma parte integrante del presente decreto. En el primer establecimiento (año 2023), se considera la instalación de 46 arranques de agua potable e igual número de uniones domiciliarias de alcantarillado, cantidad que se mantendrá hasta el final del período de previsión (año 2033).
+
+El servicio público de producción de agua potable para los sectores señalados precedentemente, que se amplían por este decreto, serán abastecidos por las fuentes que se indican en el numeral 3.1, letra a) de la respectiva Ficha de Antecedentes Técnicos (F.A.T.), sobre las cuales la concesionaria tiene los derechos que se individualizan en los respectivos informes de títulos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el Art. 26º del DS MOP Nº 1.199/04, y se encuentran afectos a la concesión. Todos los documentos indicados forman parte integrante del presente decreto.
+
+Las demás condiciones de prestación de los servicios otorgados en concesión, son las establecidas en la Ficha de Antecedentes Técnicos (F.A.T.) Nº SC 01-01 B, que forma parte integrante del presente decreto.
+
+Programa de desarrollo, nivel tarifario, garantías y otros en decreto extractado que se redujo a escritura pública con fecha 2 de junio de 2021, ante el Notario de la 8ª Notaría de Santiago, don Luis Ignacio Manquehual Mery y archivados en la Superintendencia de Servicios Sanitarios bajo el Nº SC 01-01 B.
+
+Santiago, junio de 2021.- Jorge Rivas Chaparro, Superintendente de Servicios Sanitarios.
