@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 613 de 01/06/2021, conforme al artículo 51 ley 16.391, DL 2.186, de 1978 y DL 1.305, de 1976, de Vivienda y Urbanismo, el Serviu Región de Los Ríos, expropió el Lote 1, ubicado en Avda. Simpson 446 A, comuna de Valdivia, de 41,5 m² de superficie de terreno, Rol de Avalúo Nº 377-15, de la comuna de Valdivia, que forma parte de un terreno de mayor extensión, de aparente dominio de Sucesión Maclovia del Carmen Vega Urrea, para destinarlo al Proyecto denominado "Mejoramiento Avda. San Luis, Valdivia". La Comisión de Peritos Tasadores nombrada por resolución exenta Nº 1.161, de 24/11/2020, del Serviu Región de Los Ríos, integrada por María José Freire Allendes, Isabel Margarita del Carmen Olivares Rosales y Sebastián Andrés Riquelme Vargas, fijó el monto de indemnización provisional, según informe de fecha 14/04/2021, esta última que reajustada de acuerdo al IPC corresponde a $15.145.422, conforme a lo dispuesto en el artículo 5º del DL 2.186. La publicación se efectúa en cumplimiento de lo preceptuado en el artículo 7º del DL 2.186 de 1978.
+
+.
