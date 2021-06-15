@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 641, del 4 de junio de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambali Nº 50, comuna de Chillán, Rol de Avalúo Nº 00680-00007, de aparente dominio de Espinoza Vidaurre Gina Marlene. La parte afecta a expropiación parcial de terreno es de 483,74 m2(Lote 12) y 453,79 m2 total de edificación y cuyos linderos particulares, enmarcados en el plano S16R-019, para el proyecto "Mejoramiento Avenida Huambali comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto don Mario Fabrizzio Bellolio Bostica, Constructor Civil don Italo Renzo Zerga Arancibia y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $191.845.708.-
+
+Director Serviu Región de Ñuble.
