@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 336, de 26 de mayo de 2021 y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 9, para la obra: MEJORAMIENTO CBI CRUCE S-269 GENERAL LOPEZ- PADRE LAS CASAS, que figura a nombre de PALACIOS CALFILAF VICENTE JOSE, rol de avalúo 4283-175, Comuna de PADRE LAS CASAS, REGION DE LA ARAUCANIA, superficie 170 m2. La Comisión de Peritos integrada por CLAUDIO HERNÁN ANGULO SOTOMAYOR, EVALDO ROBERTO CONTRERAS ROA, y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de fecha 29 de marzo de 2019, fijó el monto de la indemnización provisional en la cantidad de $1.394.000.- para el lote N°9. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
