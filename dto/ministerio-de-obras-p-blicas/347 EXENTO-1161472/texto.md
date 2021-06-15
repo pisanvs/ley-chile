@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 347 de 26 de mayo de 2021, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno 189-A, 190 y 191, Rol de avalúo 630-37, comuna de Teodoro Schmidt, superficies 5.745, 1.023 y 3.984 m2. respectivamente, para la obra MEJORAMIENTO RUTAS S-464 Y S-488: ALMAGRO - BARROS ARANA, COMUNAS DE NUEVA IMPERIAL Y TEODORO SCHMIDT, PROVINCIA DE CAUTÍN, REGION DE LA ARAUCANÍA. La comisión de peritos, integrada por ELENA PILAR FRITZ AGÜERO, PAULA ANDREA LAGOS CARRASCO y EVALDO ROBERTO CONTRERAS ROA, fijó el valor de tasación con fecha 27 de diciembre de 2017, acordándose la indemnización con su propietaria ROSA ESTER QUILAQUEO LATORRE, en la cantidad de $12.490.661.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
