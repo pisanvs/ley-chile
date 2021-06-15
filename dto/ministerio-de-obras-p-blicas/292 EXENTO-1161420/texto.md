@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°292, de 26 de mayo de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.2 y 3, para la obra: CONSTRUCCION PASARELA RUTA 5 SECTOR LA CABAÑA, que figuran a nombre de SEGENTA LTDA y MORALES MORENO ISABEL ANDREA Y OTRO, roles de avalúo 139-706 y 139-792, Comuna de GRANEROS, REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficies 196 y 107 m2 respectivamente. La Comisión de Peritos integrada por LORENA ELIZABETH GAJARDO ALARCON, MARIA ISABEL DE JESUS RIOS MARCUELLO y RAYEN ALEJANDRA GUZMAN THEODULOZ, mediante informe de tasación de 09 de mayo de 2020, fijó el monto de la indemnización provisional en la cantidad de $7.100.000 para el lote N°2, y $7.816.000 para el lote N°3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2.186, de 1978.
+
+Fiscalía MOP.
