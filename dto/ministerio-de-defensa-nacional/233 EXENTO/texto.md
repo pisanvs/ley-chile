@@ -1,0 +1,7 @@
+OTORGAMIENTO DE DESTINACIÓN MARÍTIMA
+
+Decreto exento Nº 233, de fecha 13 de abril de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, para el Servicio Nacional de Pesca, RUT Nº 60.701.002-1, destinación marítima, con vencimiento el 30 de junio de 2051, sobre un sector de Terreno de Playa, Playa, Fondo de Mar y uso de Mejora Fiscal, en el lugar denominado Caleta Puerto Aldea, comuna de Coquimbo, provincia de Elqui, Región de Coquimbo, con una superficie total de 5.185.84 m², la que fue tramitada con el S.I.A.B.C. Nº 46091. A modo referencial se señalan la siguientes coordenadas geográficas:
+
+El objeto consiste amparar actividades ligadas a la pesca artesanal, de acuerdo a los artículos 2º y 4º de la ley Nº 21.027, las que se contendrán en el Plan de Administración, aprobado en los términos del artículo 10 de la ley Nº 21.027. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Tongoy. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Luis Jeldres Sepúlveda, Sargento 1º L. (Seg. M.), Capitán de Puerto de Tongoy.
