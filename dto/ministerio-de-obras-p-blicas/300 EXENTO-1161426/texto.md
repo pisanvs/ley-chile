@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 300 de 26 de mayo de 2021, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 67, Rol de avalúo 906-11, comuna de Alto del Carmen, superficie 80 m2., para la obra MEJORAMIENTO RUTA C-495, SECTOR LA FRAGUA -JUNTA DE VALERIANO, COMUNA ALTO DEL CARMEN, PROVINCIA DE HUASCO, REGIÓN DE ATACAMA. La comisión de peritos, integrada por NORMAN ESTANISLAO CALDERÓN PONTIGGIA, XIMENA ELIANA PEÑALOZA HERRERO y CLAUDIO ANDRÉS CONCHA GROSSI, fijó el valor de tasación con fecha 19 de noviembre de 2019, acordándose la indemnización con sus propietarios ANGELINA ELENA GALLO MIRANDA Y OTROS, en la cantidad de $993.508.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
