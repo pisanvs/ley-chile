@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 640, del 4 de junio de 2021, Serviu Región de Ñuble ordenó expropiación total de inmueble ubicado en Huambali Nº 20, comuna de Chillán, Rol de Avalúo Nº 00680-00001, de aparente dominio de Roa Mena Sonia. La parte afecta a expropiación total de terreno es de 133,85 m2 (Lote 02) y 229,70 m2 total de edificación y cuyos linderos particulares, enmarcados en el plano S16R-014, para el proyecto "Mejoramiento Avenida Huambali comuna de Chillán", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto don Mario Fabrizzio Bellolio Bostica, Constructor Civil don Italo Renzo Zerga Arancibia y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $118.087.903.-
+
+Director Serviu Región de Ñuble.
