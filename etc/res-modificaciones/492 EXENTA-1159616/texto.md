@@ -46,9 +46,7 @@ Considerando:
 
 Resolución:
 
-1. Modifícase la resolución exenta Nº 178 (V. y U.), de 2021, citada en el Considerando 1., en el siguiente sentido:
-
-1.1 Reemplázase el cuadro señalado en el Resuelvo Nº 7, por el siguiente:
+### 1. Derogado
 
 2. Apruébase la nómina de seleccionados para el otorgamiento de subsidios habitacionales correspondientes al Llamado en condiciones especiales para proyectos del Capítulo Primero, Equipamiento Comunitario, del Programa de Mejoramiento de Viviendas y Barrios, regulado por el DS Nº 27 (V. y U.), de 2016, dirigido a Organizaciones Comunitarias y Juntas de Vecinos, regidas por la ley Nº 19.418. Esta nómina se adjunta y se entenderá formar parte integrante de la presente resolución. Además, fíjase el número de postulantes seleccionados por región, según se indica en la siguiente tabla:
 
