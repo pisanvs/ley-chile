@@ -176,6 +176,10 @@ Manuel Rodríguez (H-406) y Conexión
 
 Propuesta (calle sin nombre).
 
+SANTA CRUZ:
+
+. Sistema Vial que interconecta las rutas I-72, I-86 y 90, a través de Rafael Casanova, Avda. Ramón Sanfurgo, Bernardo O'Higgins, J.J. Carvacho, Avda. Circunvalación y By Pass Santa Cruz proyectados.
+
 5º Las calles o avenidas declaradas caminos públicos en el presente decreto sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Sergio Bitar Chacra, Ministro de Obras Públicas.
