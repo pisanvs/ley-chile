@@ -1344,6 +1344,10 @@ Para llevar a cabo dicha distribución, las cooperativas deberán contar con el 
 
 Lo anterior deberá entenderse sin perjuicio de la responsabilidad establecida en los artículos 25 y 26.
 
+#### Artículo 14
+
+Extiéndese el plazo de las cooperativas para cumplir con la obligación de celebrar Juntas Generales de Socios en los términos del artículo 6º, inciso segundo, literal f), por tres meses posteriores al término del estado de excepción constitucional de catástrofe por calamidad pública, a propósito de la pandemia de COVID-19, declarado por decreto supremo Nº 104, de 2020, del Ministerio del Interior y Seguridad Pública, y sus prórrogas, instancia en la que deberán ser tratadas, a lo menos, las materias establecidas en los literales a), b) y c) del artículo 23, cuando corresponda, para los ejercicios que se encuentren pendientes de pronunciamiento por parte de la respectiva Junta General. Con todo, de existir otras restricciones impuestas por la autoridad que impidan la celebración de la Junta General de Socios, el plazo de tres meses para su celebración comenzará a correr desde el término de éstas.
+
 Tómese razón, comuníquese y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Alvaro Díaz Pérez, Ministro de Economía, Fomento y Reconstrucción (S.).
 
 Lo que transcribe para su conocimiento.- Saluda atentamente a usted, Andrea Butelmann Peisajoff, Subsecretaria de Economía, Fomento y Reconstrucción (S.).
