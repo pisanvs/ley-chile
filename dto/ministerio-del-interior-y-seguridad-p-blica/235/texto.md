@@ -1,0 +1,71 @@
+TRANSFIERE COMPETENCIA RADICADA EN EL MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES, A QUE ALUDE EL ARTÍCULO 1° DEL DECRETO N° 71, DE 2019, DEL MINISTERIO DEL INTERIOR Y SEGURIDAD PÚBLICA, CUAL ES, FIJAR POR REGIÓN, POR PROVINCIAS O COMUNAS ESTABLECIMIENTOS QUE PRACTIQUEN REVISIONES TÉCNICAS A LOS VEHÍCULOS QUE SE SEÑALE GENÉRICAMENTE, Y DEBERÁ OTORGAR LAS RESPECTIVAS CONCESIONES MEDIANTE LICITACIÓN PÚBLICA, A LOS GOBIERNOS REGIONALES QUE INDICA
+
+Núm. 235.- Santiago, 25 de mayo de 2020.
+
+Visto:
+
+Lo dispuesto en los artículos 24, 32 N°6, 35 y 114 de la Constitución Política de la República, cuyo texto refundido, coordinado y sistematizado fue fijado mediante el decreto N° 100, de 2005, del Ministerio Secretaría General de la Presidencia; el decreto con fuerza de ley N° 1-19.175, de 2005, del entonces Ministerio del Interior, que fija el texto refundido, coordinado, sistematizado y actualizado de la Ley N° 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional; la Ley N° 21.074, sobre fortalecimiento de la regionalización del país; el decreto con fuerza de ley N° 1-19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; el decreto ley N° 557, de 1974, del entonces Ministerio del Interior, que crea el Ministerio de Transportes; la ley N° 18.696, que modifica el artículo 6° de la ley N° 18.502, autoriza importación de vehículos que señala y establece normas sobre transporte de pasajeros; el decreto supremo N° 156, de 1990, del Ministerio de Transportes y Telecomunicaciones, que reglamenta revisiones técnicas y la autorización y funcionamiento de las plantas revisoras; el decreto supremo N° 71, de 2019, del Ministerio del Interior, que individualiza las competencias radicadas en el Ministerio de Transportes y Telecomunicaciones, a transferir a los gobiernos regionales de acuerdo a lo dispuesto en el artículo quinto transitorio de la ley N° 21.074, sobre fortalecimiento de la regionalización del país; el decreto supremo N° 656, de 2019, del Ministerio del Interior y Seguridad Pública, que fija las condiciones, plazos y demás materias concernientes al procedimiento de transferencia de competencias; el oficio Gab. Pres. N°006, de 26 de noviembre de 2019, del Presidente de la República, mediante el cual se instruyó al Ministerio de Transportes y Telecomunicaciones elaborar un análisis de costos e incidencia presupuestaria de las competencias que serán transferidas temporalmente; en los oficios N°s. 2308 y 2891, ambos de 2020, del Ministerio de Transportes y Telecomunicaciones, por los cuales se informa el resultado del análisis de costos e incidencia presupuestaria requerido; resolución exenta N° 1.008, de 2020, del Ministerio de Transportes y Telecomunicaciones, y la resolución N° 7, de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón.
+
+Considerando:
+
+1. Que, el inciso segundo del artículo quinto transitorio de la ley N° 21.074 dispone que los procedimientos administrativos de transferencia requerirán de uno o más decretos supremos, a los que les resultarán aplicables las disposiciones de los artículos 21 quáter, 21 quinquies, 21 septies, letra C, y 21 octies, todos del decreto con fuerza de ley N°1-19.175, de 2005, del entonces Ministerio del Interior, que fija el texto refundido, coordinado, sistematizado y actualizado de la Ley N°19.175, Orgánica Constitucional sobre Gobierno y Administración Regional, en adelante la "Ley N°19.175".
+
+2. Que, mediante el decreto supremo N° 71, de 2019, del Ministerio del Interior y Seguridad Pública, se individualizaron las competencias radicadas en el Ministerio de Transportes y Telecomunicaciones que se transferirán a los gobiernos regionales.
+
+3. Que, el inciso primero del artículo 2° del decreto supremo N°71, de 2019, del Ministerio del Interior y Seguridad Pública, publicado en el Diario Oficial con fecha 29 de julio de 2019, dispuso que el inicio del procedimiento administrativo para la trasferencia de las competencias a cada gobierno regional, tendrá lugar mediante instrucción del Presidente de la República al Ministerio de Transportes y Telecomunicaciones, dentro de los 120 días corridos siguientes a la publicación del referido decreto en el Diario Oficial, tratándose de: fijar por región, por provincias o comunas, establecimientos que practiquen revisiones técnicas a los vehículos que se señale genéricamente, y para otorgar las respectivas concesiones mediante licitación pública, debiendo determinar la ubicación de las plantas y realizar todo el proceso de licitación, lo que incluye el llamado a licitación, las consultas y respuestas, y la evaluación de las propuestas y la adjudicación.
+
+4. Que, la instrucción mediante la cual el Presidente de la República dispuso la elaboración de un análisis de costos e incidencia presupuestaria de las competencias que serán transferidas temporalmente, fue efectuada mediante oficio Gab. Pres. N° 006, de 26 de noviembre de 2019.
+
+5. Que, la competencia prevista en el artículo 1°, numeral 3, del decreto supremo N° 71, de 2019, del Ministerio del Interior y Seguridad Pública, se encuentra actualmente radicada en el Ministerio de Transportes y Telecomunicaciones, según lo dispuesto en el artículo 4° de la ley N° 18.696 del Ministerio de Transportes y Telecomunicaciones.
+
+6. Que, el análisis de costos e incidencia presupuestaria realizado por el Ministerio de Transportes y Telecomunicaciones, consta en los oficios N°s. 2308 y 2891, ambos de 2020.
+
+7. Que, el decreto supremo N° 656, de 2019, del Ministerio del Interior y Seguridad Pública, que aprueba el reglamento que fija las condiciones, los plazos y las demás materias concernientes al procedimiento de transferencia de competencias, prevé, en lo que interesa, el contenido del decreto de transferencia de competencias.
+
+8. Que, es esencial tener presente lo dispuesto en el artículo 16, letras a), l) y m), de la ley N° 19.175, conforme al cual, al gobierno regional le corresponde diseñar, elaborar, aprobar y aplicar las políticas, planes, programas y proyectos de desarrollo de la región en el ámbito de sus competencias, los que deberán ajustarse al presupuesto de la Nación y ser coherentes con la estrategia regional de desarrollo; ejercer las competencias que les sean transferidas de conformidad con lo dispuesto en el párrafo 2° del Capítulo II, del Título II, del citado cuerpo legal, y mantener relación permanente con el gobierno nacional y sus distintos organismos, a fin de armonizar el ejercicio de sus respectivas funciones.
+
+9. Que, asimismo, corresponde considerar que según lo prevé el artículo 20 bis de la ley N° 19.175, las funciones generales y de ordenamiento territorial, de fomento de las actividades productivas y de desarrollo social y cultural, incluidas aquellas que se ejerzan en virtud de una transferencia de competencias, serán ejercidas en forma coherente con las políticas públicas nacionales vigentes, correspondiendo al ministerio respectivo velar por el pleno cumplimiento del mandato normativo. Para estos efectos se entenderá que existe dicha coherencia cuando el ejercicio de funciones por el gobierno regional no contradiga las políticas públicas nacionales y sea compatible con los principios o definiciones establecidas en aquéllas. Además, en dicho ejercicio se deberá actuar coordinadamente, propendiendo a la unidad de acción, evitando la duplicación o interferencia de funciones, en cumplimiento del artículo 5° de la ley N° 18.575.
+
+Decreto:
+
+#### Artículo 1°
+
+Transfiérese, desde la total tramitación del presente acto administrativo, la competencia actualmente radicada en el Ministerio de Transportes y Telecomunicaciones, prevista en el artículo 1°, numeral 3, del decreto supremo N° 71, de 2019, del Ministerio del Interior y Seguridad Pública, cual es, fijar por región, por provincias o comunas, establecimientos que practiquen revisiones técnicas a los vehículos que se señale genéricamente; otorgar las respectivas concesiones mediante licitación pública; determinar la ubicación de las plantas y realizar todo el proceso de licitación, lo que incluye el llamado de licitación, las consultas y respuestas, la evaluación de las propuestas y la adjudicación.
+
+#### Artículo 2°
+
+Establécese que, tal como establece el artículo 1°, numeral 3, del decreto supremo N° 71, de 2019, del Ministerio del Interior y Seguridad Pública, el ejercicio de la competencia será compartido con el Gobierno Regional respectivo, debido a que queda radicado en el Ministerio de Transportes y Telecomunicaciones la elaboración de las bases de licitación, la suscripción del contrato de concesión y la fiscalización del mismo, y prestar la colaboración técnica en el proceso de respuesta a las consultas.
+
+#### Artículo 3°
+
+Establécese que los gobiernos regionales determinarán el número de establecimientos que practiquen revisiones técnicas necesarios para cubrir la demanda de estos servicios en su región de acuerdo a las condiciones de ejercicio, establecidas en la Metodología dictada por el Ministerio de Transportes y Telecomunicaciones en la resolución exenta N°1.008, de 2020, del Ministerio de Transportes y Telecomunicaciones, y sus modificaciones posteriores.
+
+#### Artículo 4°
+
+Establécese que el inicio de los procesos de licitación para operar establecimientos que practiquen revisiones técnicas de vehículos que deberán realizar los gobiernos regionales, deberán efectuarse con al menos 2 años de anticipación al término de los contratos de concesión vigentes, los que deberán ser informados por el Secretario Regional Ministerial de Transportes y Telecomunicaciones al gobierno regional, con al menos 60 días de anticipación al inicio del proceso de licitación.
+
+#### Artículo 5°
+
+Téngase presente que la competencia se transfiere por el plazo de un año, sin perjuicio de que si al término de este plazo aún no se encontraren totalmente tramitadas las resoluciones que adjudiquen las concesiones cuyo llamado se hubiere iniciado mediante licitación pública del gobierno regional respectivo o no se encontraren totalmente tramitadas las resoluciones que declaren desierto en todo o parte el proceso licitatorio, aquel se prorrogará por el tiempo necesario para ello y, en este último caso, corresponderá al Ministerio de Transportes y Telecomunicaciones realizar el respectivo proceso licitatorio.
+
+#### Artículo 6°
+
+Establécese que, de conformidad a lo informado por el Ministerio de Transportes y Telecomunicaciones, mediante los oficios N°s. 2308 y 2891, ambos de 2020, la transferencia de esta competencia no contempla el traspaso de recursos económicos y/o materiales ni de personal, de ninguna especie por parte del Ministerio de Transportes y Telecomunicaciones. Sin perjuicio de lo anterior, se dispondrá la realización de capacitaciones con el objeto de fortalecer las capacidades existentes en los gobiernos regionales para el ejercicio de la competencia; lo anterior, será con cargo al presupuesto del ministerio que la transfiere.
+
+#### Artículo 7°
+
+Establécese que el Gobierno Regional respectivo deberá remitir un informe al Ministerio al final de cada ejercicio de la competencia transferida y durante el plazo que establece el presente decreto, en el que se mencionen las circunstancias ocurridas en el respectivo periodo, especialmente si hubiere habido alguna contingencia que impidió que esta se ejerciera adecuadamente, con el objeto que dicho organismo lo entregue, a su vez, a la Secretaría Ejecutiva del Comité Interministerial de Descentralización, conjuntamente con las observaciones formuladas por el Ministerio.
+
+El informe deberá considerar, a lo menos, los siguientes aspectos:
+
+1) Evaluación general del ejercicio de la competencia transferida: El Gobierno Regional deberá entregar una valoración en relación al ejercicio de la competencia, el cronograma del llamado a licitación, número de propuestas recibidas, resultado de la evaluación de propuestas, estado de adjudicaciones, así como también una evaluación de trabajo entre el Gore y el Ministerio.
+
+2) Nivel de conocimiento técnico de los equipos regionales: Conocimientos sobre la competencia transferida. En esta evaluación el Gobierno Regional deberá indicar necesidades de capacitación que recomienda incluir en el programa de acompañamiento del Ministerio.
+
+3) Documentos estratégicos rectores: Señalar los documentos utilizados durante el proceso, evaluar su pertinencia y proponer documentos estratégicos claves para desarrollar e incluir en el ejercicio futuro de la competencia.
+
+4) Evaluación de actividades de detección de necesidades y problemáticas del territorio: Indicar si el ejercicio de la competencia transferida ha incidido en una mejor calidad y oportunidad en la toma de decisiones; si ha ocasionado perjuicios a otras regiones; si ha significado una mejor adecuación de la política nacional en el territorio respectivo; y los riesgos existentes y/o eventuales que ha ocasionado el ejercicio de la competencia, en términos de duplicidad o interferencia de funciones, tanto a nivel regional como central. También se deberá indicar si ha habido una mejor calidad de las actividades desarrolladas, sus objetivos, participantes, principales resultados y aprendizajes; y las medidas adoptadas para asegurar el buen funcionamiento y continuidad en la prestación del servicio a la comunidad, para asegurar el oportuno y eficaz ejercicio de la competencia transferida.
+
+Anótese, tómese razón, comuníquese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Gonzalo Blumel Mac-Iver, Ministro del Interior y Seguridad Pública.- Ignacio Briones Rojas, Ministro de Hacienda.- Felipe Ward Edwards, Ministro Secretario General de la Presidencia.- Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Juan Francisco Galli Basili, Subsecretario del Interior.
