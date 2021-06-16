@@ -48,6 +48,12 @@ Resuelvo:
 
 ### 11. Encargado/a de la Unidad de Abastecimiento de la Dirección Nacional
 
+### 12. Jefe del Departamento de Gestión Ambiental
+
+13. Jefe del Departamento de Gestión de Programas de Fiscalización de la Acuicultura y
+
+### 14. Jefe del Departamento de Salud Animal
+
 ### 2. Déjase sin efecto la resolución exenta N° 940, de 4 de mayo de 2020
 
 Anótese, comuníquese y publíquese en el Diario Oficial.- Jessica Fuentes Olmos, Directora Nacional (S), Servicio Nacional de Pesca y Acuicultura.
