@@ -132,7 +132,7 @@ El Mecanismo de Estabilización regirá a partir de la publicación de la ley N�
 
 En el período comprendido entre el 1 de julio de 2019 y el 31 de diciembre de 2020, los precios que las Distribuidoras podrán traspasar a sus clientes regulados corresponderán a los niveles de precios de nudo de energía y potencia promedio en nivel de distribución para cada Concesionaria contenidos en el decreto 20T. Dichos precios se denominarán Precio Estabilizado a Cliente Regulado, en adelante "PEC".
 
-En el período comprendido entre el 1 de enero de 2021 y hasta el término de la vigencia del Mecanismo de Estabilización, los precios que las Distribuidoras podrán traspasar a sus clientes regulados corresponderán al "PEC Ajustado", el cual se determinará como el PEC indexado por IPC. A estos efectos, el valor del IPC a utilizar en cada fijación semestral corresponderá al valor mensual del referido índice del cuarto mes anterior al de inicio de vigencia de las tarifas correspondientes. En concordancia con lo anterior, el valor base del IPC corresponderá al valor mensual del mes de septiembre de 2020.
+En el período comprendido entre el 1 de enero de 2021 y hasta el término de la vigencia del Mecanismo de Estabilización, los precios que las Distribuidoras podrán traspasar a sus clientes regulados corresponderán al "PEC Ajustado", el cual se determinará como el PEC indexado por IPC. A estos efectos, el valor del IPC a utilizar en cada fijación semestral corresponderá al valor mensual del referido índice del cuarto mes anterior al de inicio de vigencia de las tarifas correspondientes. Para el caso del valor base del IPC, éste corresponderá al valor mensual del mes de enero de 2021.
 
 #### Artículo 6°
 
@@ -412,7 +412,7 @@ c) Adicionar o descontar las transferencias producto de la aplicación de los TD
 
 d) Descontar el déficit del balance del período anterior de la correspondiente Distribuidora;
 
-e) Adicionar o descontar las transferencias recibidas o realizadas a otras Distribuidoras, respectivamente, producto de la ejecución de las instrucciones de pago mandatadas por el balance del período anterior;
+e) Adicionar o descontar las transferencias recibidas o realizadas a otras Distribuidoras, respectivamente, producto de la ejecución de las instrucciones de pago mandatadas por el balance del período anterior. En el caso que la referida instrucción de pago no se encuentre ejecutada, se deberán adicionar o descontar las transferencias que se originen del balance establecido en el informe técnico del periodo anterior y el balance del período tarifario siguiente deberá considerar las diferencias que se produzcan entre dicho valor contabilizado y el valor efectivamente ejecutado;
 
 f) Descontar las transferencias realizadas a Suministradores producto de la ejecución de las instrucciones de pago mandatadas en el período anterior en virtud del pago de Saldos a que se refiere el artículo 18; y,
 
@@ -438,7 +438,7 @@ Los pagos a Suministradores por concepto de Saldos según lo señalado en el pre
 
 Las transferencias entre Distribuidoras definidas en el presente artículo complementarán el cuadro de pago de transferencias entre Distribuidoras elaborado por el Coordinador a que se refiere el artículo 17.
 
-Los pagos de Saldos señalados en el presente artículo se realizarán a los Suministradores, o a quien éstos lo hayan cedido, aun cuando haya vencido el período de suministro del Contrato que dio origen a la contabilización de Saldos o aun cuando aquel haya terminado anticipadamente el Contrato por cualquier causa. De conformidad a lo anterior, una vez reconocidos los Saldos en el correspondiente decreto PNP semestral, estas deudas son independientes de los Contratos que les dieron origen.
+Los pagos de Saldos señalados en el presente artículo se realizarán a los Suministradores, o a quien éstos lo hayan cedido, aun cuando haya vencido el período de suministro del Contrato que dio origen a la contabilización de Saldos o aun cuando aquel haya terminado anticipadamente el Contrato por cualquier causa. De conformidad a lo anterior, una vez reconocidos los Saldos en el correspondiente decreto PNP semestral, estas deudas son independientes de los Contratos que les dieron origen. Para estos efectos, con ocasión del Cuadro de Pago de Saldos, los Suministradores deberán informar a las Distribuidoras los montos que en dicho cuadro corresponden pagar al Suministrador y los que corresponden pagar a quienes éste haya cedido sus Saldos.
 
 El Coordinador deberá garantizar la continuidad de la cadena de pagos de los Saldos al titular de éstos.
 
