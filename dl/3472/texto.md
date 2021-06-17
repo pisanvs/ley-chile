@@ -12,6 +12,8 @@ Decreto ley:
 
 Créase una persona jurídica de derecho público, de duración indefinida, con domicilio en la ciudad de Santiago, denominada "Fondo de Garantía para Pequeños y medianos Empresarios", en adelante "el Fondo", destinada a garantizar los créditos, las operaciones de leasing y otros mecanismos de financiamiento autorizados al efecto por la Comisión para el Mercado Financiero, en adelante financiamiento o financiamientos, que las instituciones financieras públicas y privadas y el Servicio de Cooperación Técnica otorguen a los pequeños y medianos empresarios en la forma y condiciones señaladas en el presente decreto ley y en la reglamentación que dicte la Comisión para el Mercado Financiero.
 
+Adicionalmente, el Fondo estará destinado a garantizar créditos de postergación, créditos hipotecarios y otros contratos de mutuo de dinero o de operaciones de crédito de dinero, de conformidad con la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas, y su respectivo reglamento.
+
 El Fondo no podrá contratar personal.
 
 > **Nota.** El ARTICULO CUARTO de la Ley N° 18840, publicada en el "Diario Oficial" de 10 de octubre de 1989, dispuso que la modificación al presente artículo rige a contar de sesenta días después de su publicación.
@@ -51,6 +53,8 @@ El Fisco podrá efectuar retiros de capital desde el Fondo si es que éste no re
 Podrán optar a la garantía del Fondo los empresarios cuyas ventas netas anuales no excedan de 1.000.000 de unidades de fomento, y los exportadores cuyo monto exportado haya sido en los dos años calendarios anteriores, en promedio, de un valor FOB igual o inferior a US$16.700.000, reajustado anualmente en el porcentaje de variación que en el año precedente haya experimentado el índice de precios promedio relevante para el comercio exterior de Chile, según lo certifique el Banco Central de Chile, que tengan necesidades de capital de trabajo o proyectos de inversión.
 
 También podrán postular a la garantía del Fondo las personas jurídicas sin fines de lucro, las sociedades de personas y las organizaciones a que se refiere el artículo 2º de la ley Nº 18.450, para financiar proyectos de riego, de drenaje, de infraestructura productiva o equipamiento siempre que a lo menos las dos terceras partes de las personas naturales que las integren cumplan con los requisitos señalados en el inciso anterior.
+
+En el caso de las empresas, cuyas ventas netas anuales superen las 25.000 unidades de fomento, o su equivalente en moneda extranjera, el Ministerio de Hacienda podrá establecer, mediante decreto supremo expedido bajo la fórmula "por orden del Presidente de la República", que estas empresas solo podrán optar a la garantía del Fondo en la medida que sus ventas netas anuales se hubiesen deteriorado en un diez por ciento, conforme a los criterios que fije el Ministerio de Hacienda en el citado decreto.
 
 La Comisión para el Mercado Financiero reglamentará la forma de determinación de los montos de las ventas anuales a que se refiere este artículo y podrá establecer normas generales para hacer incompatibles los financiamientos garantizados por el Fondo con otros financiamientos concedidos por instituciones del Estado.
 
@@ -128,6 +132,14 @@ Corresponderá a la Comisión para el Mercado Financiero la fiscalización del F
 
 El Fondo podrá, sujeto a las condiciones que establezca para estos efectos la Comisión para el Mercado Financiero y previa autorización del Ministerio de Hacienda, contratar con instituciones públicas o privadas, nacionales o extranjeras, mecanismos de reafianzamiento o de seguro respecto de las garantías vigentes o las que otorgue en el futuro. Asimismo, podrá convenir y pagar comisiones o primas por los reafianzamientos o seguros contratados, con cargo a sus recursos, las que no podrán exceder de una proporción que determinará la Comisión para el Mercado Financiero sobre el monto de las comisiones y el producto de las inversiones que perciba a que se refieren las letras b) y c) del artículo 2º.
 
+#### Artículo 12
+
+El Fondo podrá garantizar créditos hipotecarios y otros créditos que se utilicen para pagar créditos hipotecarios, de conformidad con la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas, y su respectivo reglamento.
+
+No serán aplicables a esta garantía los artículos 3 y 4, ni el inciso cuarto del artículo 5 de este decreto ley.
+
+Las garantías señaladas en este artículo se regirán por las normas de este decreto ley y el reglamento de la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas.
+
 #### Artículo primero
 
 transitorio.- Se faculta al Presidente de la República para poner a disposición del Fondo que se crea en este decreto ley el aporte a que se refiere la letra a) del artículo 2° con cargo a la Ley de Presupuesto vigente.
@@ -183,5 +195,23 @@ Los financiamientos garantizados por el Fondo de Garantía para Pequeños y Medi
 #### Artículo séptimo
 
 transitorio.- Intercálase en el inciso sexto del artículo 4° del presente decreto ley, que ha pasado a ser transitoriamente inciso octavo, desde la entrada en vigencia de la ley que modifica el Fondo de Garantía para Pequeños y Medianos Empresarios (FOGAPE) con el objeto de potenciar la reactivación y recuperación de la economía, y hasta el 31 de diciembre de 2021, inclusive, entre las expresiones "gastos," y "constitución o aportes", la expresión "refinanciamientos sujetos a requisitos que se establezcan mediante los decretos supremos referidos en el artículo quinto transitorio del presente decreto ley,".
+
+#### Artículo séptimo
+
+transitorio.- Desde la entrada en vigencia de la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas, y hasta el término de su vigencia, intercálase en el artículo 1 de este decreto ley el siguiente inciso segundo, nuevo, pasando el actual inciso segundo a ser tercero:
+
+"Adicionalmente, el Fondo estará destinado a garantizar créditos de postergación, créditos hipotecarios y otros contratos de mutuo de dinero o de operaciones de crédito de dinero, de conformidad con la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas, y su respectivo reglamento.
+
+#### Artículo octavo
+
+transitorio.- Desde la entrada en vigencia de la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas, y hasta el término de su vigencia, agrégase en este decreto ley, el siguiente artículo 12, nuevo:
+
+#### Artículo 12
+
+El Fondo podrá garantizar créditos hipotecarios y otros créditos que se utilicen para pagar créditos hipotecarios, de conformidad con la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas, y su respectivo reglamento.
+
+No serán aplicables a esta garantía los artículos 3 y 4, ni el inciso cuarto del artículo 5 de este decreto ley.
+
+Las garantías señaladas en este artículo se regirán por las normas de este decreto ley y el reglamento de la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas.
 
 Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Alfonso Márquez de la Plata Yrarrázaval, Ministro de Agricultura.- Sergio de Castro Spikula, Ministro de Hacienda.
