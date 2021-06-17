@@ -1,0 +1,3 @@
+1.- DELEGA FACULTAD AL DIRECTOR DEL CENTRO DE INSTRUCCIÓN Y CAPACITACIÓN MARÍTIMA (CIMAR), DEPENDIENTE DE LA DIRECCIÓN DE INTERESES MARÍTIMOS Y MEDIO AMBIENTE ACUÁTICO
+
+Resolución D.G.T.M. y M.M. Exenta N° 12240/12 Vrs., del 7 de junio de 2021, delega facultad al Director del Centro de Instrucción y Capacitación Marítima (CIMAR), dependiente de la Dirección de Intereses Marítimos y Medio Ambiente Acuático.
