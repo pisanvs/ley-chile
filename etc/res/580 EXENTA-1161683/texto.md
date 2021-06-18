@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 580, de fecha 24 de mayo de 2021, de esta Secretaría Regional Ministerial de Transportes, se autoriza a la Escuela de Conductores No Profesionales o Clase B denominada "Organización Técnica de Capacitación Ortecap Jerez e Hijos y Compañía Limitada", domiciliada en su sede de calle Lastarria N° 450, comuna de Mulchén, cuyo propietario es don Eduardo Andrés Jerez Soto, cédula de identidad N° 15.910.676-4, cuyo Programa de Enseñanza fue aprobado mediante resolución exenta N° 302, de 23 de diciembre de 2010, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, a impartir el curso conducente a la obtención de la Licencia de Conductor Clase B, en la modalidad e-learning.-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
