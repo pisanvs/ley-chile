@@ -1,0 +1,5 @@
+SE MODIFICA RESOLUCIÓN N° 396, DE OCTUBRE DE 2018, SOBRE AUTORIZACIÓN A LOS FUNCIONARIOS DEL DEPARTAMENTO SECRETARÍA GENERAL Y TRANSPARENCIA DEL IPS PARA FIRMAR DOCUMENTOS QUE SE INDICAN RESPECTO A LAS MATERIAS QUE SE SEÑALAN, POR ORDEN DEL DIRECTOR NACIONAL, EN EL SENTIDO DE ELIMINAR SUS RESUELVOS N° 3 y N° 6 DE SU TEXTO POR CORRESPONDER A FUNCIONES DE LA DIVISIÓN JURÍDICA
+
+Por resolución exenta N° 202, de 26 de mayo de 2021, el Director Nacional del Instituto de Previsión Social, se modificó la resolución exenta N° 396, de 08 de octubre de 2018, aprobada por la Superintendencia de Pensiones, mediante oficio ordinario N° 23594, de 29 de octubre de 2018, de esta Dirección Nacional, citada en el Considerando 2°, en el sentido de reemplazar los Resuelvos N°s. 3 y 6.-
+
+Patricio Coronado Rojo, Director Nacional.
