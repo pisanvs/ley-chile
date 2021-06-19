@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "REGLAMENTO ESPECIAL PARA EMPRESAS CONTRATISTAS, SUBCONTRATISTAS, DE SERVICIOS TRANSITORIOS Y DE TODOS LOS PROCESOS DE COMPRA ADJUDICADOS INSTITUTO DE PREVISIÓN SOCIAL", VERSIÓN 2
+
+Por resolución exenta N° 208, de 28 de mayo de 2021, el Director Nacional del Instituto de Previsión Social aprobó el documento denominado "Reglamento Especial para Empresas Contratistas, Subcontratistas, de Servicios Transitorios y de Todos los Procesos de Compra Adjudicados Instituto de Previsión Social", Versión 2, que consta de treinta y un (31) páginas, que se adjuntó como parte integrante de la presente resolución exenta, cuyo objetivo es dar cumplimiento a lo dispuesto en el artículo 66 bis de la ley N° 16.744, sobre accidentes del trabajo y enfermedades profesionales, del Ministerio del Trabajo y Previsión Social, introducido por la ley N° 20.123, que regula el trabajo en régimen de subcontratación, el funcionamiento de las empresas de servicios transitorios y el contrato de trabajo de servicios transitorios.-
+
+Patricio Coronado Rojo, Director Nacional.
