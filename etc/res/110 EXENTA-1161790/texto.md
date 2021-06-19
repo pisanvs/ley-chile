@@ -1,0 +1,7 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE COMERCIAL GIRADORA LOCAL N° 92100011559, DEL BANCO DEL ESTADO DE CHILE, SUCURSAL PORVENIR, ABIERTA PARA EL CENTRO DE ATENCIÓN PREVISIONAL PORVENIR DEL INSTITUTO DE PREVISIÓN SOCIAL, EN LAS FUNCIONARIAS Y FUNCIONARIOS QUE INDICA
+
+Por resolución exenta N° 110, de 26 de marzo de 2021, el Director Nacional del Instituto de Previsión Social delega la facultad de girar cheques, retirar talonarios, retirar documentos desde la casilla, retirar cheques protestados, retirar cartolas, dar órdenes de no pago y efectuar la ratificación y publicación de los documentos en caso de pérdida, hurto o robo de un cheque o talonarios de cheques, acceder a claves secretas o password de Subdirección de Sistemas de Información y Administración - Instituto de Previsión Social Huérfanos N° 886, piso 2 - Santiago www.ips.gob.cl Página 3 de 4 los sistemas computacionales del banco que permitirá efectuar transferencias electrónicas de fondos, consultar saldos, emitir cartolas provisorias y operar el sistema de pago automático de cuentas (PAC), entregar poder a otros funcionarios del Instituto para retirar talonarios, cheques protestados y cartolas, para efectos de operar la cuenta corriente bancaria comercial denominada Giradora Local N° 92100011559, del Centro de Atención Previsional IPS Porvenir, abierta en el Banco del Estado de Chile, en el funcionariado que individualiza.-
+
+Patricio Coronado Rojo, Director Nacional.
+
+Carmen Gajardo Maturana, Jefa Unidad Gestión de Resoluciones, Instituto de Previsión Social.
