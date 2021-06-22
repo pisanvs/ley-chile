@@ -112,6 +112,18 @@ Establézcanse las siguientes medidas y procedimientos de índole tributaria en 
 
 3) Dispóngase que para efectos de lo establecido en el inciso primero del artículo 97 de la Ley sobre Impuesto a la Renta, el Servicio de Tesorerías deberá devolver el saldo que resultare a favor del contribuyente, a más tardar, dentro de 30 días contados desde el 31 de mayo de 2021.
 
+4) Prorrógase los plazos para el pago del impuesto a que se refiere el artículo 64 de la Ley sobre Impuesto a las Ventas y Servicios, que debe declararse o pagarse en los meses de junio, julio, agosto y septiembre de 2021, para los contribuyentes que se señalan a continuación, cuyas operaciones promedio declaradas ante el Servicio de Impuestos Internos en los meses de enero, febrero y marzo de 2021, reajustadas, hayan experimentado una disminución de al menos un 20% respecto del promedio de sus operaciones declaradas en el mismo periodo de 2019, de la siguiente forma:
+
+a) Para los contribuyentes que cumplan con los requisitos para acogerse al régimen del artículo 14 letra D) de la Ley sobre Impuesto a la Renta, la fecha de inicio de pago de la totalidad del impuesto postergado será en octubre de 2021, y a contar de dicho mes, deberá ser pagado en doce cuotas mensuales, iguales y reajustadas.
+
+b) Para los contribuyentes cuyos ingresos exceden del límite de ingresos para calificar en el literal
+
+- **a)** anterior, pero que sus ingresos anuales no exceden de 350.000 unidades de fomento, la fecha de inicio de pago de la totalidad del impuesto postergado será en octubre de 2021, y a contar de dicho mes la totalidad del impuesto postergado deberá ser pagado en seis cuotas mensuales, iguales y reajustadas. En este caso, para efectos de determinar los ingresos de cada contribuyente, se computarán los obtenidos por sus entidades relacionadas conforme las letras
+
+- **a)** y
+
+- **b)** del Nº 17 del artículo 8 del Código Tributario.
+
 #### Artículo 3°
 
 <!-- parte:10222372 -->
