@@ -60,7 +60,7 @@ Resuelvo:
 
 . Neoseiulus califomicus.
 
-2. Autorízase el uso de Lepidoglyphus destructor y Tyrophagus putrescentiae como presas vivas para el transporte de ácaros depredadores autorizados ya que estas especies, no presentan riesgo para las plantas o el medioambiente, los que serán exclusivamente producidos en el mismo centro.
+2. Autorízase el uso de Lepidoglyphus destructor, Tyrophagus putrescentiae y Carpoglyphus lactis como presas vivas para el transporte de ácaros depredadores autorizados, ya que estas especies no presentan riesgo para las plantas o el medioambiente, los que serán exclusivamente producidos en el mismo centro.
 
 3. La autorización de ingreso al país de partidas de agentes de control biológico, será otorgada al internador mediante una resolución exenta emitida caso a caso por la División de Protección Agrícola y Forestal del SAG, previo visto bueno de la División de Protección de Recursos Naturales Renovables, en la cual se detallarán los requisitos y condiciones específicas de ingreso al país.
 
