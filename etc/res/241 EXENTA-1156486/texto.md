@@ -208,7 +208,7 @@ El Serviu deberá revisar el detalle de la o las boletas y/o facturas presentada
 
 23) Permítase a profesionales independientes postular a las familias, prestando todas las labores de Asistencia Técnica necesarias, debiendo cumplir con las siguientes condiciones, además de las disposiciones de la presente resolución:
 
-1) Cada profesional no podrá prestar simultáneamente Servicios de Asistencia Técnica a un número superior a 40 familias.
+1) Cada profesional no podrá prestar simultáneamente Servicios de Asistencia Técnica a un número superior a 80 familias.
 
 2) El profesional deberá suscribir por cada proyecto, un convenio por la prestación de los servicios entre la familia y el Profesional Independiente, en el formato provisto por el Serviu.
 
