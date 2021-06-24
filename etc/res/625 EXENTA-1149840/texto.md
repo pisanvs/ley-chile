@@ -30,7 +30,7 @@ Resuelvo:
 
 1º Califíquese como emergencia laboral la situación producida en el mercado del trabajo por la pandemia Covid-19, en virtud de lo establecido en los considerandos precedentes, conforme con lo establecido en el artículo tercero, letra c) del decreto Nº 28, que establece componentes, líneas de acción, procedimientos, modalidades y mecanismos de control del Programa de Formación en el Puesto de Trabajo y sus modificaciones.
 
-2º Actívese la "Línea Emergencia Laboral Reactivación COVID-19" desde la fecha de la total tramitación del presente acto administrativo, y mientras se mantenga vigente, para las empresas y los trabajadores, dependientes o independientes, según sea el caso, que cumplan los requisitos señalados en la letra c) del artículo tercero del Decreto Nº 28 y en la presente resolución, con el objeto de incentivar la retención de empleos, a fin de evitar despidos de trabajadores acogidos a la ley Nº 21.227, la reincorporación al trabajo de los trabajadores que tienen a su cargo el cuidado de niños o niñas menores de dos años, así como para incentivar la contratación de nuevos trabajadores, a fin de recuperar los puestos de trabajo perdidos. El término de la activación de esta línea se realizará mediante resolución sujeta al mismo procedimiento de dictación de este acto.
+2º Actívese la "Línea Emergencia Laboral Reactivación COVID-19" desde la fecha de la total tramitación del presente acto administrativo, y mientras se mantenga vigente, para las empresas y los trabajadores, dependientes o independientes, según sea el caso, que cumplan los requisitos señalados en la letra c) del artículo tercero del Decreto Nº 28 y en la presente resolución, con el objeto de incentivar la retención de empleos, a fin de evitar despidos de trabajadores acogidos a la ley Nº 21.227, la reincorporación al trabajo de los trabajadores que tienen a su cargo el cuidado de niños o niñas menores de dos años, así como para incentivar la contratación de nuevos trabajadores, y la formalización de las nuevas relaciones laborales que se creen en el período que indica esta resolución, a fin de recuperar los puestos de trabajo perdidos. El término de la activación de esta línea se realizará mediante resolución sujeta al mismo procedimiento de dictación de este acto.
 
 3º Determínense los siguientes términos y condiciones para postular y acceder a las bonificaciones de la Línea:
 
@@ -38,15 +38,17 @@ Resuelvo:
 
 Para efectos de la presente resolución, se entenderá por:
 
-(i) Beneficio: monto en dinero que se otorga mensualmente a la empresa o al trabajador, dependiente o independiente, según sea el caso, por el número de meses que se indique en cada bonificación, que se entrega únicamente con el objeto de incentivar (i) la reincorporación de trabajadores causantes del beneficio previamente acogidos al Título I de la ley Nº 21.227; (ii) la reincorporación al trabajo de los trabajadores, dependientes o independientes, que tienen a su cargo el cuidado de niños o niñas menores de dos años, para así evitar su deserción del trabajo; o (iii) la contratación de nuevos trabajadores.
+(i) Beneficio: monto en dinero que se otorga mensualmente a la empresa o al trabajador, dependiente o independiente, según sea el caso, por el número de meses que se indique en cada bonificación, que se entrega únicamente con el objeto de incentivar (i) la reincorporación de trabajadores causantes del beneficio previamente acogidos al Título I de la ley Nº 21.227; (ii) la reincorporación al trabajo de los trabajadores, dependientes o independientes, que tienen a su cargo el cuidado de niños o niñas menores de dos años, para así evitar su deserción del trabajo; (iii) la contratación de nuevos trabajadores; o (iv) la formalización de las nuevas relaciones laborales que se creen, en los términos del inciso primero del artículo 9º del Código del Trabajo.
 
 (ii) Bonificación a la Retención: beneficio incluido en la Línea que se entrega a la empresa beneficiaria únicamente con el objeto de reincorporar trabajadores acogidos al Título I de la ley Nº 21.227, equivalente a la suma de $160.000 (ciento sesenta mil pesos) mensuales por trabajador causante del beneficio o de $200.000 (doscientos mil pesos), tratándose de los trabajadores indicados en el inciso segundo de la letra a., del Título III "Normas especiales para la bonificación a la Retención", de esta resolución, que se otorga por hasta 6 meses a las empresas que cumplen con los requisitos establecidos en la letra b) del referido Título III. Tratándose de micro, pequeñas y medianas empresas, conforme a lo dispuesto en el artículo 505 bis del Código del Trabajo, esta bonificación mensual se otorgará por hasta 8 meses, contados desde la fecha de otorgamiento del beneficio.
 
 (iii) Bonificación a la Contratación: beneficio incluido en la Línea que se entrega a la empresa beneficiaria únicamente con el objeto de contratar nuevos trabajadores, equivalente a un porcentaje de la remuneración mensual bruta del trabajador causante del beneficio, con un tope, conforme a lo establecido en el Título IV. de la presente resolución que se otorga por hasta 8 meses a las empresas que cumplen con los requisitos establecidos en el Título IV. de esta resolución. Tratándose de micro, pequeñas y medianas empresas, conforme a lo dispuesto en el artículo 505 bis del Código del Trabajo, esta bonificación mensual se otorgará por hasta 10 meses, contados desde la fecha de otorgamiento del beneficio.
 
-(iv) Bonificación para el cuidado de niños o niñas menores de dos años: beneficio incluido en la Línea que se entrega directamente al trabajador beneficiario por 3 meses, plazo que podrá ser prorrogado por hasta 3 meses adicionales, de conformidad con lo dispuesto en el decreto Nº 28. Esta bonificación se entrega para financiar el cuidado del menor causante del beneficio, permitiendo la reincorporación del trabajador beneficiario al trabajo, y es equivalente a la suma de $200.000 (doscientos mil pesos) por cada menor causante del beneficio, conforme a lo establecido en el Título V. de la presente resolución.
+(iv) Bonificación para el cuidado de niños o niñas menores de dos años: beneficio incluido en la Línea que se entrega directamente al trabajador beneficiario por hasta 6 meses. Esta bonificación se entrega para financiar el cuidado del menor causante del beneficio, permitiendo la reincorporación del trabajador beneficiario al trabajo, y es equivalente a la suma de $200.000 (doscientos mil pesos) por cada menor causante del beneficio, conforme a lo establecido en el Título V. de la presente resolución.
 
-(v) Empresa beneficiaria: empresa que postula a las bonificaciones a la Retención o a la Contratación contempladas en la Línea, y cumple con los requisitos de postulación establecidos en el inciso primero del artículo cuarto del decreto Nº 28, y los establecidos en los Títulos III.
+(v) Bonificación al nuevo empleo: Bonificación mensual que se entrega directamente al trabajador beneficiario por hasta 6 meses, en la medida que comience a prestar servicios dependientes y subordinados para con un empleador, en los términos del artículo 7º y siguientes del Código del Trabajo, a partir de la fecha que se indica en esta Resolución. Esta bonificación se entrega para incentivar la formalización de las nuevas relaciones laborales dependientes que se creen, conforme a lo establecido en el Título VI. de la presente Resolución.
+
+(vi) Empresa beneficiaria: empresa que postula a las bonificaciones a la Retención o a la Contratación contempladas en la Línea, y cumple con los requisitos de postulación establecidos en el inciso primero del artículo cuarto del decreto Nº 28, y los establecidos en los Títulos III.
 
 - **b)** y/o IV.
 
@@ -54,19 +56,19 @@ Para efectos de la presente resolución, se entenderá por:
 
 - **e)** de la presente resolución, según sea el caso. Así, la empresa beneficiaria podrá tratarse de un contribuyente de la primera categoría que tribute, entre otros casos, conforme a cualquiera de los regímenes del artículo 14 de la Ley sobre Impuesto a la Renta (LIR) o al régimen de renta presunta establecido en el artículo 34 de la LIR, o bien de un pequeño contribuyente conforme al artículo 22 de la LIR.
 
-(vi) Gran Empresa o Grandes Empresas: empresa beneficiaria cuya Planilla de Referencia está compuesta por 200 o más trabajadores con contrato vigente al mes de julio de 2020.
+(vii) Gran Empresa o Grandes Empresas: empresa beneficiaria cuya Planilla de Referencia está compuesta por 200 o más trabajadores con contrato vigente al mes de julio de 2020.
 
-(vii) Menor causante del beneficio: niño o niña menor de dos años que se encuentra al cuidado de un trabajador beneficiario que cumple los requisitos para acceder a la bonificación para el cuidado de niños o niñas menores de dos años, dispuestos en el Título V. de esta resolución.
+(viii) Menor causante del beneficio: niño o niña menor de dos años que se encuentra al cuidado de un trabajador beneficiario que cumple los requisitos para acceder a la bonificación para el cuidado de niños o niñas menores de dos años, dispuestos en el Título V. de esta resolución.
 
-(viii) Planilla de Referencia: número de trabajadores que integraron la nómina de trabajadores con contrato vigente de la empresa beneficiaria durante el mes de julio de 2020.
+(ix) Planilla de Referencia: número de trabajadores que integraron la nómina de trabajadores con contrato vigente de la empresa beneficiaria durante el mes de julio de 2020.
 
-(ix) Planilla de Contraste: número e identidad de los trabajadores que integraron la nómina de trabajadores con contrato vigente de la empresa beneficiaria a la fecha de su primera postulación a la Bonificación a la Contratación.
+(x) Planilla de Contraste: número e identidad de los trabajadores que integraron la nómina de trabajadores con contrato vigente de la empresa beneficiaria a la fecha de su primera postulación a la Bonificación a la Contratación.
 
-(x) Remuneración mensual bruta: contraprestaciones en dinero y las adicionales en especie que recibe un trabajador de su empleador por causa de la relación laboral. Se incluye dentro de este concepto, entre otros, el sueldo base, horas extraordinarias, comisiones, participaciones y gratificaciones que pueda recibir un trabajador.
+(xi) Remuneración mensual bruta: contraprestaciones en dinero y las adicionales en especie que recibe un trabajador de su empleador por causa de la relación laboral. Se incluye dentro de este concepto, entre otros, el sueldo base, horas extraordinarias, comisiones, participaciones y gratificaciones que pueda recibir un trabajador.
 
-(xi) Trabajador beneficiario: madre trabajadora, dependiente o independiente, que tiene a su cargo el cuidado de uno o más niños o niñas menores de dos años, a quien se le ha concedido la bonificación para el cuidado de niños o niñas menores de dos años, establecida en el Título V. de esta resolución. Excepcionalmente, el trabajador, dependiente o independiente, que se le hubiera entregado de manera exclusiva el cuidado personal de un niño o niña menor de dos años, por sentencia judicial o por un equivalente jurisdiccional, por escritura pública o por acta extendida ante un oficial del Registro Civil, anotada al margen de la inscripción de nacimiento de el o la menor de dos años.
+(xii) Trabajador beneficiario: persona a quien se le ha concedido la bonificación para el cuidado de niños o niñas menores de dos años, conforme a lo establecido en el Título V., o bien, la bonificación al nuevo empleo, según lo dispuesto en el Título VI. de esta Resolución.
 
-(xii) Trabajador causante del beneficio: trabajador dependiente contratado por la empresa beneficiaria, que cumple con los requisitos establecidos en los Títulos III. c) y/o IV. c) de la presente resolución, según sea el caso, que es postulado por la empresa beneficiaria para acceder a las bonificaciones a la Retención o a la Contratación.
+(xiii) Trabajador causante del beneficio: trabajador dependiente contratado por la empresa beneficiaria, que cumple con los requisitos establecidos en los Títulos III. c) y/o IV. c) de la presente resolución, según sea el caso, que es postulado por la empresa beneficiaria para acceder a las bonificaciones a la Retención o a la Contratación.
 
 ### II. Normas comunes a las bonificaciones a la Retención y a la Contratación
 
@@ -138,7 +140,7 @@ c. Condiciones respecto del trabajador causante del beneficio:
 
 (i) Que a la fecha de la postulación de la empresa respectiva, el trabajador causante del beneficio sea mayor de 18 años;
 
-(ii) Que a la fecha de postulación de la empresa respectiva el trabajador causante del beneficio haya sido reincorporado a sus funciones tras haberse encontrado acogido a la suspensión de los efectos del contrato de trabajo establecida en el Título I de la ley Nº 21.227. La suspensión que se hubiere producido (a) por acto o declaración de autoridad de acuerdo al artículo 1º de la ley Nº 21.227, debe haberse encontrado en estado vigente durante el mes anterior a la fecha de publicación de la presente resolución .Con todo, la empresa beneficiaria podrá postular al trabajador causante del beneficio que ha sido reincorporado a sus funciones tras haberse encontrado acogido a la suspensión de los efectos del contrato de trabajo establecida en el Título I de la ley Nº 21.227, entre el 6 de febrero y 31 de marzo del 2021, ambas fechas inclusive.; y (b) pacto de suspensión de acuerdo al artículo 5º de la ley Nº 21.227, debe haberse encontrado en estado vigente a la fecha de publicación de la presente resolución; y
+(ii) Que a la fecha de postulación de la empresa respectiva, el trabajador causante del beneficio haya sido reincorporado a sus funciones tras haberse encontrado acogido a la suspensión de los efectos del contrato de trabajo establecida en el Título I de la ley Nº 21.227. La suspensión que se hubiere producido: (a) por acto o declaración de autoridad de acuerdo al artículo 1º de la ley Nº 21.227, debe haberse encontrado en estado vigente durante el mes anterior a la fecha de publicación de la presente resolución; (b) por pacto de suspensión de acuerdo al artículo 5º de la ley Nº 21.227, debe haberse encontrado en estado vigente a la fecha de publicación de la presente resolución; y (c) con todo, la empresa beneficiaria podrá postular al trabajador causante del beneficio que ha sido reincorporado a sus funciones tras haberse encontrado acogido a la suspensión de los efectos del contrato de trabajo establecida en el Título I de la ley Nº 21.227, ya sea por acto o declaración de autoridad o por pacto de suspensión, entre el 6 de febrero y el 31 de julio del 2021, ambas fechas inclusive; y
 
 (iii) Que la remuneración mensual bruta del trabajador causante del beneficio no exceda de 3 ingresos mínimos mensuales ("IMM"). Para este efecto, se deberá considerar el valor del IMM para trabajadores mayores de 18 años y hasta 65 años vigente al momento de la postulación a la bonificación. Este beneficio se mantendrá mientras la remuneración bruta mensual del trabajador causante del beneficio no supere el mencionado tope.
 
@@ -174,7 +176,7 @@ c. Condiciones de postulación respecto del trabajador causante del beneficio.
 
 La empresa postulante solo podrá acceder a la Bonificación a la Contratación por nuevos trabajadores, adicionales a los que componen su Planilla de Referencia, en la medida que éstos cumplan con los requisitos señalados en el literal c. (i) y (ii) anteriores. Para estos efectos, se considerará "nuevo trabajador" a aquel que ha sido contratado por la empresa después de la fecha de publicación de la presente resolución y que no ha trabajado en una empresa que forme parte de un mismo grupo empresarial de la empresa beneficiaria, conforme al artículo 96 de la ley Nº 18.045, con posterioridad a la fecha de publicación de la presente resolución. La postulación relativa al "nuevo trabajador" podrá ser realizada hasta 30 días corridos después de la fecha de contratación.
 
-Con todo, la empresa postulante no podrá acceder a la Bonificación a la Contratación respecto de aquellos trabajadores que haya despedido por cualquier causal con posterioridad a la entrada en vigencia de la presente resolución, circunstancia respecto de la cual la empresa postulante deberá dejar constancia en la declaración jurada a que se refiere el inciso octavo, numeral segundo, letra c) del artículo tercero del decreto Nº 28.
+Con todo, la empresa postulante no podrá acceder a la Bonificación a la Contratación respecto de aquellos trabajadores que haya despedido por cualquier causal con posterioridad a la entrada en vigencia de la presente resolución, circunstancia respecto de la cual la empresa postulante deberá dejar constancia en la declaración jurada que suscriba al efecto.
 
 Tampoco podrá acceder a esta bonificación respecto de los trabajadores que detenten la calidad de socios o accionistas de la empresa solicitante o cuya identidad coincida con ésta. Esta circunstancia será fiscalizada por el Sence conforme a lo establecido en el inciso quinto del artículo sexto del decreto Nº 28.
 
@@ -190,27 +192,27 @@ Las Grandes Empresas, además de incrementar su Planilla de Referencia, deberán
 
 El Sence revisará periódicamente la composición de la Planilla de Contraste con la información proporcionada por las instituciones a que se refiere el inciso segundo del artículo sexto del decreto Nº 28.
 
-f. Límites aplicables a la concesión y pago de la Bonificación a la Contratación.
-
-(i) Primer mes de postulación de la empresa: Sin perjuicio del número de postulaciones que realice la empresa en el primer mes de postulación a esta bonificación, cuando su Planilla de Referencia esté compuesta por 25 o más trabajadores con contrato vigente, el Sence concederá un número máximo de beneficios equivalente al 20% de su Planilla de Referencia. En caso que dicha Planilla de Referencia esté compuesta por menos de 25 trabajadores, el Sence concederá un máximo de cinco bonificaciones a la empresa solicitante.
-
-En lo meses sucesivos a la primera postulación, el Sence concederá las bonificaciones correspondientes a las postulaciones pendientes, en la medida que pueda verificar que la empresa postulante ha declarado y pagado las cotizaciones de seguridad social de los trabajadores beneficiados en la primera postulación dentro de plazo legal, conforme a lo señalado en el artículo sexto del decreto Nº 28.
-
-(ii) El Sence aplicará las reglas señaladas en el (i) anterior para las nuevas postulaciones que se reciban de una misma empresa en los meses sucesivos al de su primera postulación.
-
-Para efectos de la concesión y pago de la Bonificación a la Contratación, el contrato de trabajo del trabajador causante del beneficio deberá tener una antigüedad de al menos un mes en la empresa beneficiaria.
-
-g. Causal especial de término anticipado de la Bonificación a la Contratación.
+f. Causal especial de término anticipado de la Bonificación a la Contratación.
 
 El otorgamiento de esta bonificación se terminará anticipadamente en caso de que la empresa beneficiaria pacte la reducción temporal de la jornada de trabajo del Título II de la ley Nº 21.227 con el trabajador causante del beneficio.
 
-h. Causales de término anticipado de la Bonificación a la Contratación para la Gran Empresa.
+g. Causal de término anticipado de la Bonificación a la Contratación para la Gran Empresa.
 
-El otorgamiento de esta bonificación se terminará anticipadamente en caso de que se verifique cualquiera de las circunstancias que se indican a continuación en forma posterior a que una Gran Empresa haya solicitado la Bonificación a la Contratación:
+El otorgamiento de esta bonificación se terminará anticipadamente en caso de que la Gran Empresa reparta utilidades líquidas a sus propietarios por sobre el porcentaje mínimo de 30% que establece el artículo 79 de la ley Nº 18.046 durante el ejercicio comercial en que recibe bonificaciones. En este caso, procederá el reintegro de los montos percibidos conforme al artículo cuarto del decreto Nº 28. Para estos efectos, el Sence podrá solicitar información al Servicio de Impuestos Internos, a la Comisión para el Mercado Financiero u otras entidades u organismos públicos con competencia en la materia, conforme a lo establecido en el inciso segundo del artículo sexto del decreto Nº 28.
 
-(i) En el evento que una Gran Empresa no mantenga, al menos, el 80% de la identidad de los trabajadores que conforman su Planilla de Contraste. El Sence verificará la configuración de esta causal cada 3 meses contados desde la primera concesión de esta bonificación.
+h. Causal de descuento por no mantención de Planilla de Contraste para la Gran Empresa.
 
-(ii) En el evento que una Gran Empresa reparta utilidades líquidas a sus propietarios por sobre el porcentaje mínimo de 30% que establece el artículo 79 de la ley Nº 18.046 durante el ejercicio comercial en que recibe bonificaciones. En este caso, procederá el reintegro de los montos percibidos conforme al artículo cuarto del decreto Nº 28. Para estos efectos, el Sence podrá solicitar información al Servicio de Impuestos Internos, a la Comisión para el Mercado Financiero u otras entidades u organismos públicos con competencia en la materia, conforme a lo establecido en el inciso segundo del artículo sexto del decreto Nº 28.
+En el evento que una Gran Empresa no mantenga, al menos, el 80% de la identidad de los trabajadores que conforman su Planilla de Contraste, el Sence descontará del valor mensual que le hubiera correspondido recibir a dicha empresa por cada trabajador causante de la o las Bonificaciones a la Contratación concedidas y vigentes a dicha fecha, una suma equivalente al porcentaje de disminución efectiva que haya experimentado la Planilla de Contraste de la Gran Empresa por debajo del mencionado 80%, conforme a la siguiente fórmula:
+
+El Sence verificará esta causal cada 3 meses contados desde la fecha de la primera concesión de la Bonificación a la Contratación, y actualizará el descuento a realizar al valor mensual correspondiente a cada uno de los trabajadores causantes de la o las Bonificaciones a la Contratación, concedidas y vigentes a la fecha de esta revisión, para los meses que resten de otorgamiento de este beneficio, sólo en caso que la Gran Empresa mantenga un porcentaje de identidad de los trabajadores que conforman su Planilla de Contraste inferior al observado en la o las revisiones anteriores.
+
+El Sence aplicará el descuento que resulte de lo señalado en los párrafos anteriores respecto del monto total de la o las Bonificaciones a la Contratación que pudiere conceder a la Gran Empresa con posterioridad a las revisiones que realice. Dicho descuento se mantendrá durante todo el tiempo de otorgamiento de esta bonificación.
+
+A modo de ejemplo:
+
+Revisión de la Planilla de Contraste al mes tres: la Gran Empresa mantuvo el 60% de la identidad de los trabajadores que conforman su Planilla de Contraste, por lo que el Sence descontará una suma equivalente al 25% del valor que le hubiere correspondido recibir a dicha empresa por cada trabajador causante de la Bonificación a la Contratación. Por lo tanto, por los meses tres, cuatro y cinco de otorgamiento del beneficio el Sence le pagará a dicha Gran Empresa un valor total mensual equivalente al 75% del total de Bonificaciones a la Contratación concedidas y vigentes a la fecha en que el Sence realice esta revisión.
+
+Revisiones posteriores de Planilla de Contraste (mes seis y siguientes): la Gran Empresa sólo mantuvo la identidad del 40% de los trabajadores que conforman su Planilla de Contraste. Por lo tanto, el Sence actualizará el monto a descontar del total mensual a pagar por concepto de este beneficio para los meses seis, siete y ocho de otorgamiento del beneficio, descontando el 50% del valor total mensual que le hubiere correspondido recibir a dicha Gran Empresa por concepto de Bonificaciones a la Contratación concedidas y vigentes a la fecha en que el Sence realice esta revisión.
 
 ### V. Normas especiales a la Bonificación para el cuidado de niños o niñas menores de dos años
 
@@ -220,7 +222,7 @@ Suma equivalente a $200.000 (doscientos mil pesos) mensuales que se entrega al t
 
 b. Plazo de la bonificación.
 
-La bonificación se concederá por el plazo de 3 meses contados desde la fecha del otorgamiento del beneficio. Este plazo podrá prorrogarse hasta por 3 meses más, por medio de la dictación de una o más resoluciones fundadas por el Subsecretario del Trabajo, visadas por la Dirección de Presupuestos, de conformidad con lo establecido en párrafo segundo del número 3 de la letra c) del artículo tercero del Decreto Nº 28.
+La bonificación se concederá por el plazo de 6 meses contados desde la fecha del otorgamiento del beneficio.
 
 c. Requisitos respecto del trabajador beneficiario.
 
@@ -232,9 +234,11 @@ ii. Encontrarse ejerciendo labores en calidad de trabajador dependiente o indepe
 
 El cumplimiento de este requisito implicará que, a la época de postulación, el trabajador beneficiario debe haber comenzado a prestar servicios, dependientes o independientes, o haberse reincorporado a su trabajo y encontrarse prestando servicios efectivos, y
 
-iii. Tener al menos cuatro cotizaciones de seguridad social declaradas y pagadas dentro de los doce meses anteriores al de postulación, siempre que la cotización del mes anterior al de postulación se encuentre declarada y pagada.
+iii. Registrar al menos cuatro cotizaciones de seguridad social dentro de los doce meses anteriores al mes de postulación, siempre que la cotización del mes anterior al mes de postulación también esté registrada. Para estos efectos, la cotización se entenderá registrada cuando el Sence verifique que se cumplen cualquiera de las siguientes circunstancias: (a) que se han declarado y pagado las cotizaciones del trabajador beneficiario establecidas en el decreto ley N° 3.500, o las de salud; o (b) que las cotizaciones del decreto ley N° 3.500 y las de salud del trabajador beneficiario se encuentran declaradas y no pagadas en las respectivas instituciones previsionales.
 
-En el caso de los trabajadores independientes, también se entenderá cumplido este requisito por el hecho de haber realizado el proceso de declaración de renta el año 2020.
+A partir del 1° de mayo de 2021, el requisito mencionado en el iii. anterior no será aplicable a los trabajadores beneficiarios de la bonificación al nuevo empleo que deseen acceder a la bonificación para el cuidado de niños o niñas menores de dos años. En dicho caso, el Sence otorgará y pagará esta última bonificación una vez que verifique que el trabajador beneficiario registra cotizaciones de seguridad social correspondientes a la nueva relación laboral, confome a lo señalado en las letras (a) y (b) anteriores, dentro del plazo de dos meses contados desde la respectiva postulación. En caso que el Sence no verifique el registro de cotizaciones correspondientes a la nueva relación laboral dentro del plazo antes mencionado, rechazará la postulación a la bonificación para el cuidado de niños o niñas menores de dos años del trabajador respectivo.
+
+En el caso de los trabajadores independientes, se entenderá cumplido este requisito por el hecho de haber realizado el proceso de declaración de renta del año 2020 o 2021, según corresponda.
 
 Con todo, sólo se concederá el beneficio considerando una calidad del trabajador beneficiario, aunque éste detente la calidad de dependiente e independiente. Por su parte, el trabajador beneficiario dependiente sólo podrá acceder a la bonificación imputando una única relación laboral, aunque preste servicios bajo vínculo de subordinación y dependencia para distintos empleadores.
 
@@ -258,11 +262,11 @@ No podrán acceder a esta bonificación los trabajadores que:
 
 e. Periodo de postulación y otorgamiento del beneficio.
 
-Los trabajadores beneficiarios podrán postular a esta bonificación desde el 15 de febrero y hasta el 20 de abril, ambos de 2021, por medio de la plataforma habilitada para tal efecto en el sitio web www.subsidioalempleo.cl. Una vez verificado por el Sence, el cumplimiento de los requisitos exigidos, se le comunicará al trabajador beneficiario la aprobación de la postulación efectuada por medio de correo electrónico. En caso de no aprobarse la postulación, el Sence comunicará al postulante por medio de correo electrónico dicha circunstancia, indicando además el motivo del rechazo.
+Los trabajadores beneficiarios podrán postular a esta bonificación desde el 15 de febrero de 2021, conforme a las ventanas de postulación que habilite el Sence para tal efecto por medio de la plataforma habilitada para tal efecto en el sitio web www.subsidioalempleo.cl. Una vez verificado por el Sence, el cumplimiento de los requisitos exigidos, se le comunicará al trabajador beneficiario la aprobación de la postulación efectuada por medio de correo electrónico. En caso de no aprobarse la postulación, el Sence comunicará al postulante por medio de correo electrónico dicha circunstancia, indicando además el motivo del rechazo.
 
 f. Pago del beneficio.
 
-El Sence será encargado de efectuar mensualmente el pago del beneficio por medio de depósito en la cuenta bancaria indicada por el trabajador beneficiario en su postulación.
+El Sence será encargado de efectuar mensualmente el pago del beneficio por medio de depósito en la cuenta bancaria personal, indicada por el trabajador beneficiario en su postulación.
 
 g. Suspensión del pago del beneficio.
 
@@ -270,7 +274,7 @@ El derecho al pago del beneficio se suspenderá en el evento que se verifique cu
 
 i. Si, habiéndose concedido la bonificación, opera la suspensión por acto de autoridad o por pacto suscrito por el empleador con el trabajador beneficiario, de conformidad con las normas establecidas en el Título I de la ley Nº 21.227. En caso que el trabajador beneficiario prestare servicios bajo vínculo de subordinación y dependencia para dos o más empleadores, solo se suspenderá el pago del beneficio si opera la suspensión de los efectos del contrato de trabajo, por acto de autoridad o por pacto, respecto de todos ellos. En caso que el trabajador beneficiario se reintegre a sus funciones dentro del plazo de vigencia de la bonificación, éste percibirá los pagos por los meses que resten hasta su término, si correspondiere.
 
-ii. Si, habiéndose concedido la bonificación, no se declaran y pagan dentro de plazo legal las cotizaciones de seguridad social del trabajador beneficiario por dos meses consecutivos. Sin perjuicio de lo anterior, si dentro del plazo de vigencia de la bonificación el empleador o el trabajador independiente, según sea el caso, paga las cotizaciones de seguridad social adeudadas, se pagarán retroactivamente las bonificaciones cuyo pago fue suspendido.
+ii. Si, habiéndose concedido la bonificación, al menos, no se declaran y no pagan dentro de plazo legal las cotizaciones establecidas en el decreto ley Nº 3.500 y las de salud del trabajador beneficiario por dos meses consecutivos. Sin perjuicio de lo anterior, si dentro del plazo de vigencia de la bonificación el empleador o el trabajador independiente, según sea el caso, paga las cotizaciones de seguridad social adeudadas, se pagarán retroactivamente las bonificaciones cuyo pago fue suspendido.
 
 h. Término anticipado y extinción de la bonificación.
 
@@ -295,6 +299,78 @@ i. Por el cumplimiento del plazo de otorgamiento.
 ii. Por cumplir el menor causante del beneficio 2 años.
 
 El trabajador beneficiario tendrá derecho al pago de la bonificación hasta la fecha en que se verifique alguna de las causales de término anticipado o de extinción, según sea el caso, y hubiere alcanzado a prestar servicios, dependiente o independientes, sin alcanzar a completar un mes íntegro. El Sence determinará, vía instructivo, las reglas que permitan implementar esta disposición.
+
+### VI. Normas especiales a la Bonificación al nuevo empleo
+
+a. Valor de la bonificación.
+
+Conforme a lo dispuesto en el numeral 4. del literal c) del artículo tercero del decreto Nº 28, el valor de la bonificación será de $50.000 (cincuenta mil pesos) para trabajadores afectos a una jornada ordinaria de trabajo. Dicho monto será de $70.000 (setenta mil pesos), cuando se trate de (i) trabajadores mayores de 18 y menores de 24 años; (ii) mujeres; (iii) trabajadores con discapacidad, calificada y certificada conforme lo establece el Título II de la ley Nº 20.422 y sus reglamentos; o (iv) que sean beneficiarios de una pensión de invalidez de cualquier régimen previsional, cualquiera sea su tipo.
+
+En caso de que el trabajador esté afecto a una jornada de trabajo parcial, en los términos del artículo 40 bis del Código de Trabajo, el monto del subsidio será equivalente al 15% de su remuneración bruta mensual, salvo que se trate de (i) trabajadores mayores de 18 y menores de 24 años; (ii) mujeres; (iii) trabajadores con discapacidad, calificada y certificada conforme lo establece el Título II de la ley Nº 20.422 y sus reglamentos; o (iv) que sean beneficiarios de una pensión de invalidez de cualquier régimen previsional, cualquiera sea su tipo, en cuyo caso el monto del subsidio será equivalente al 20% de su remuneración bruta mensual. Con todo, en ningún caso el subsidio podrá ser superior a $50.000 (cincuenta mil pesos) o de $70.000 (setenta mil pesos), según corresponda.
+
+Para los efectos del inciso anterior, se entenderá que el trabajador beneficiario está afecto a una jornada de trabajo parcial, cuando la remuneración bruta mensual que se utilice para la declaración y pago de sus cotizaciones de seguridad social sea inferior a un ingreso mínimo mensual. En el caso que la remuneración bruta mensual que se utilice para dicho efecto sea igual o superior a un ingreso mínimo mensual, se entenderá que está afecto a una jornada ordinaria de trabajo y se aplicará lo dispuesto en el inciso primero de este literal.
+
+b. Plazo de otorgamiento de la bonificación.
+
+La bonificación se concederá hasta por el plazo de 6 meses contados desde la fecha del otorgamiento del beneficio.
+
+c. Requisitos respecto del trabajador beneficiario.
+
+La bonificación podrá ser solicitada directamente por el trabajador dependiente que cumpla, copulativamente, con los siguientes requisitos:
+
+i. Ser mayor de 18 años, y haber comenzado a prestar servicios bajo vínculo de subordinación y dependencia para con un empleador a partir del 1º de abril de 2021, en los términos del artículo 7º y siguientes del Código del Trabajo, conforme a lo establecido en el siguiente cuadro:
+
+El trabajador beneficiario sólo podrá postular a esta bonificación durante el periodo de postulación al beneficio que corresponda con el inicio de la nueva relación laboral (en adelante, "Ventanas de Postulación"). El trabajador beneficiario cuya nueva relación laboral hubiere iniciado entre el 1° de abril y el 30 de mayo, ambos de 2021, podrá postular a la bonificación durante el mes de mayo; y
+
+ii. Tener una remuneración bruta mensual igual o inferior a tres ingresos mínimos mensuales a la fecha de postulación. El valor del ingreso mínimo mensual será aquel fijado para los trabajadores mayores de 18 años y hasta de 65 años.
+
+El trabajador beneficiario sólo podrá acceder esta bonificación imputando una única relación laboral, aunque preste servicios bajo vínculo de subordinación y dependencia para distintos empleadores.
+
+d. Trabajadores que no podrán acceder a la bonificación.
+
+No podrán acceder a esta bonificación los trabajadores que:
+
+(i) Detenten la calidad de socios o accionistas de la empresa en que ejerzan funciones o cuya identidad coincida con ésta.
+
+(ii) Al momento de la postulación, o durante el otorgamiento del beneficio reciban alguno de los beneficios establecidos en los Títulos I y II de la ley N° 21.247.
+
+(iii) Tengan los efectos de sus contratos de trabajo suspendidos, de acuerdo a lo dispuesto en el Título I de la ley N° 21.227.
+
+(iv) Presten servicios en el Estado bajo cualquier modalidad contractual, incluido el personal de los Ministerios, Intendencias, Gobernaciones y de los servicios públicos centralizados y descentralizados creados para el cumplimiento de la función administrativa.
+
+Asimismo, no se considerarán las postulaciones respecto de los trabajadores que hayan comenzado a prestar servicios bajo vínculo de dependencia y subordinación con el mismo empleador respecto del cual postulan, en los tres meses anteriores a aquel mes en el cual se inició la relación laboral en virtud de la cual solicitan la bonificación. Para este efecto, el Sence revisará la información previsional del trabajador postulante de los tres meses anteriores al mes de inicio de la relación laboral por la que se postula, y rechazará la postulación en caso de que verifique que el trabajador registra cotizaciones por el mismo empleador en ese periodo.Tampoco se considerarán las postualciones a la bonificación durante un período de postulación que no coincida con el periodo de inicio de la nueva relación laboral, conforme se establece en las Ventanas de Postulación que señala esta resolución.
+
+e. Periodo de postulación y otorgamiento del beneficio.
+
+Los trabajadores beneficiarios podrán postular a esta bonificación a partir del 1º de mayo de 2021, durante las Ventanas de Postulación señaladas en la presente resolución y publicadas en el sitio web www.subsidioalempleo.cl. Una vez verificado por el Sence el cumplimiento de los requisitos exigidos, se le comunicará al trabajador beneficiario la aprobación de la postulación efectuada por medio de correo electrónico. En caso de no aprobarse la postulación, el Sence comunicará al postulante por medio de correo electrónico dicha circunstancia, indicando además el motivo del rechazo.
+
+La bonificación al nuevo empleo es compatible con las bonificaciones a la contratación y para el cuidado de niños o niñas menores de dos años. Por su parte, conforme a lo señalado en el numeral 4. del decreto N° 28, es incompatible la percepción simultánea de la Bonificación al nuevo empleo y los subsidios establecidos en el artículo 21 de la ley N° 20.595, que crea el Ingreso Ético Familiar, y en la ley N° 20.338, que crea el Subsidio al Empleo. Por lo tanto, para que el Sence pueda conceder la Bonificación al nuevo empleo a un trabajador que es beneficiario de los mencionados subsidios, este último deberá consentir expresamente en la suspensión temporal del pago de los beneficios establecidos en leyes N°s 20.595 y 20.338 durante el plazo de otorgamiento de la Bonificación al nuevo empleo, mediante el mecanismo que el Sence habilite para tal efecto. De no hacerlo, el Sence rechazará la postulación respectiva por existir dicha incompatibilidad.
+
+No podrán postular a esta bonificación los trabajadores mientras se encuentren haciendo uso de una licencia médica, cualquiera fuere su causa.
+
+f. Pago del beneficio.
+
+El Sence será encargado de efectuar mensualmente el pago del beneficio por medio de depósito en la cuenta bancaria personal indicada por el trabajador beneficiario en su postulación.
+
+g. Suspensión del pago del beneficio.
+
+El derecho al pago del beneficio se suspenderá en el evento que se verifique cualquiera de las siguientes circunstancias:
+
+i. Si, habiéndose concedido la bonificación, opera la suspensión por acto de autoridad o por pacto suscrito por el empleador con el trabajador beneficiario, de conformidad con las normas establecidas en el Título I de la ley Nº 21.227. En caso que el trabajador beneficiario prestare servicios bajo vínculo de subordinación y dependencia para dos o más empleadores, solo se suspenderá el pago del beneficio si opera la suspensión de los efectos del contrato de trabajo, por acto de autoridad o por pacto, respecto de todos ellos. En caso que el trabajador beneficiario se reintegre a sus funciones dentro del plazo de vigencia de la bonificación, percibirá los pagos por los meses que resten hasta su término, si correspondiere.
+
+ii. Si, habiéndose concedido la bonificación, no se declaran y no pagan dentro de plazo legal las cotizaciones establecidas en el decreto ley N° 3.500 y las de salud del trabajador beneficiario por dos meses consecutivos. Sin perjuicio de lo anterior, si dentro del plazo de vigencia de la bonificación el empleador declara y paga las cotizaciones de seguridad social adeudadas, se pagarán retroactivamente las bonificaciones cuyo pago fue suspendido.
+
+iii. Si, habiéndose concedido la bonificación, el trabajador beneficiario se encuentre gozando de licencia médica, cualquiera fuere su causa. Esta circunstancia será verificada por el Sence conforme a lo señalado en el inciso segundo del artículo sexto del decreto Nº 28.
+
+En todo caso, este beneficio sólo podrá otorgarse hasta por el plazo de 6 meses corridos contados desde la fecha de su concesión, salvo en el caso de la suspensión por acto de autoridad, en cuyo caso los pagos se retomarán de acuerdo a lo señalado en el (i) anterior.
+
+h. Término anticipado y extinción de la bonificación.
+
+El otorgamiento de esta bonificación se terminará anticipadamente en el evento que el trabajador beneficiario deje de prestar servicios bajo vínculo de subordinación y dependencia. En caso que el trabajador beneficiario dependiente preste servicios bajo vínculo subordinación y dependencia para dos o más empleadores, solo se terminará anticipadamente el otorgamiento de esta bonificación en caso que se termine la relación laboral con todos los empleadores.
+
+Sin perjuicio de lo señalado, la bonificación al nuevo empleo se extinguirá en todo caso por el cumplimiento del plazo de otorgamiento.
+
+El trabajador beneficiario tendrá derecho al pago de la bonificación hasta la fecha en que se verifique alguna de las causales de término anticipado o de extinción, según sea el caso. El Sence determinará, vía instructivo, las reglas que permitan implementar esta disposición.
 
 4º Requiérase al Sence para que adopte las medidas inmediatas y de carácter urgente para convocar a las postulaciones de la "Línea Emergencia Laboral Reactivación Covid-19", a contar del 25 de septiembre de 2020, verificar las condiciones de acceso a las bonificaciones, efectuar los pagos y constatar las causales de término anticipado o de suspensión establecidas en el presente acto administrativo y en general las establecidas en el decreto Nº 28, de 2011, del Ministerio del Trabajo y Previsión Social.
 
