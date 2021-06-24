@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta N° 766/2021, de fecha 1 de junio de 2021, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, se autoriza a Escuela de Conductores No Profesionales o Clase B, denominada "Escuela de Conductores y Capacitaciones Nancy Velásquez Parra E.I.R.L.", RUT 76.321.951-8, domiciliada en calle Errázuriz N° 356, comuna de Ancud, cuya propietaria y directora es doña Nancy Velásquez Parra, cédula de identidad N° 10.110.682-9, y cuyo Programa de Enseñanza fue aprobado mediante resolución exenta N° 608, de 3 de octubre de 2014, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, a impartir el curso conducente a obtención de Licencia de Conductor Clase B, en modalidad e-learning. La correcta funcionalidad de la plataforma tecnológica computacional LMS estará siempre sujeta a las auditorías, controles y fiscalizaciones que sean procedentes. La misma autorización, en copia fidedigna, deberá estar a disposición de los postulantes y alumnos del establecimiento.-
+
+Nicolás Maximiliano Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
