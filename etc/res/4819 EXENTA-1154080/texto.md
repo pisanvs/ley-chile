@@ -236,7 +236,9 @@ Etapa de inscripción a la prueba de admisión
 
 La etapa de inscripción consiste en la declaración voluntaria, individual e intransferible de las personas interesadas en rendir las pruebas de admisión universitaria, efectuada en la Plataforma Electrónica Única del Sistema de Acceso, dentro de los plazos establecidos en el calendario oficial. No se admitirán inscripciones fuera de los plazos informados por el Ministerio de Educación, mediante la mencionada Plataforma Electrónica Única.
 
-Pueden inscribirse todas aquellas personas que hayan egresado de la Enseñanza Media o se encuentren cursando actualmente el último año de ésta, incluidos los extranjeros que para dicho efecto hayan reconocido dicha calidad en nuestro país.
+Sin perjuicio de lo anterior, al término del plazo de inscripción ordinaria, o extraordinaria si lo hubiera, y ante la imposibilidad de concretar la inscripción dentro de los plazos establecidos, los postulantes podrán presentar una apelación de inscripción, en los plazos y forma que la/s entidad/es responsable/s de la ejecución del proceso de selección determine/n, toda vez que se verifique el intento de gestión de esta y siempre que se refiera a circunstancias no imputables al postulante.
+
+Pueden inscribirse todas aquellas personas que hayan egresado de la Enseñanza Media o se encuentren cursando actualmente el último año de ésta, incluido los extranjeros que para dicho efecto hayan reconocido dicha calidad en nuestro país.
 
 Los postulantes de promociones anteriores que no registran notas en la plataforma de inscripción o el sistema dispuesto para este efecto no podrán concretar su inscripción hasta que regularicen su situación ante el Ministerio de Educación.
 
@@ -264,17 +266,15 @@ b. Derechos y deberes del postulante.
 
 c. Las únicas fuentes válidas de información respecto de las diferentes etapas del proceso y sus requisitos, las constituyen la Subsecretaría de Educación Superior del Ministerio de Educación y la o las instituciones encomendadas para la ejecución de las acciones del Sistema de Acceso, en virtud de lo dispuesto en el inciso final del artículo 13 de la ley 21.091, por medio de sus respectivas páginas web, siendo responsabilidad del postulante informarse a través de ellas.
 
-d. Una vez cancelado el arancel de rendición de la prueba de admisión universitaria, no procede devolución alguna del mismo.
+d. Una vez pagado el arancel de rendición de la prueba de admisión universitaria, no procede devolución alguna del mismo. Sin perjuicio de lo anterior, se realizará, en los casos que corresponda, las devoluciones de arancel cuyo motivo se vincule a la asignación del beneficio de eximición del pago de la inscripción.
 
-e. Mediante el acto de inscripción, el postulante autoriza al Ministerio de Educación y la institución/es encomendada/s para la ejecución de las acciones del Sistema de Acceso, el uso de sus datos personales en el proceso de admisión, estudios estadísticos y beneficios estudiantiles asociados a dicho proceso, incluyendo su eventual transferencia o comunicación a terceros que estén adscritos al Sistema de Acceso, con la finalidad de llevar a cabo el proceso de admisión a la educación superior. Lo anterior, en conformidad y dando cumplimiento a las normas contenidas en la Ley N° 19.628 sobre Protección de la Vida Privada.
-
-Se considera como información necesaria para el desarrollo del proceso de admisión aquella que propende a la facilitación del proceso de postulación, matrícula e inserción universitaria.
+e. Mediante el acto de inscripción, el postulante declara conocimiento y aceptación que, conforme a lo previsto en el artículo 20 de la ley N° 19.628, sobre Protección de la Vida Privada, la Subsecretaría de Educación Superior, podrá proceder al tratamiento de los datos personales, recolectados en su proceso de admisión, y su posible comunicación a terceros, sólo respecto de las materias de su competencia. Junto con lo anterior, autoriza expresamente a la Subsecretaría de Educación Superior para el tratamiento de dichos datos personales, recolectados en el proceso de admisión, con el propósito de que pueda transferirlos a las instituciones de educación superior adscritas al Sistema de Acceso, para el sólo efecto que éstas puedan utilizarlos para la gestión y planificación de sus procesos de admisión. Asimismo, por el acto de la inscripción el postulante autoriza expresamente a la/s institución/es encomendada/s para la ejecución de las acciones del Sistema de Acceso, a que pueda tratar los datos personales, recolectadas en el proceso de admisión, para la ejecución del proceso de admisión en curso, el beneficio asociado a la inscripción de la prueba de admisión universitaria, estudios estadísticos y otros análisis, en el contexto del acceso a la educación superior, incluyendo su comunicación a las universidades adscritas al Sistema de Acceso, para el sólo efecto de la gestión de sus procesos de admisión en curso. Lo anterior, de conformidad y con pleno cumplimiento a las normas contenidas en la ley N° 19.628.
 
 f. Las pruebas de admisión universitaria se encuentran protegidas por derechos de propiedad intelectual, estando expresamente prohibida su reproducción total o parcial, a través de cualquier medio, por el postulante o por terceros.
 
 g. Tanto el folleto como la hoja de respuestas deben devolverse íntegramente al momento de concluir la rendición de cada prueba.
 
-h. Para la rendición de las pruebas, cada postulante inscrito debe concurrir y rendirlas de forma individual y personal, sin dar, pedir o recibir ayuda durante el desarrollo de las pruebas.
+h. Para la rendición de las pruebas, cada postulante inscrito debe concurrir, en el día y lugar designado por la institución/es encomendada/s a la ejecución de las acciones del Sistema de Acceso, y rendirlas de forma individual y personal, sin dar, pedir o recibir ayuda durante el desarrollo de las pruebas.
 
 i. En caso de existir cualquier discrepancia entre la información contenida en la tarjeta de identificación y los listados oficiales de aplicación informados por la institución encargada de la ejecución de las acciones del Sistema de Acceso, priman estos últimos, toda vez que reflejan con fidelidad la información contenida en el sistema al momento del cierre de archivos. Es responsabilidad exclusiva de cada postulante revisar, antes de la fecha de cierre de archivos, que no exista ningún error u omisión en los datos y preferencias que ingresó al sistema.
 
@@ -282,7 +282,9 @@ j. Las únicas respuestas válidas para los efectos del cálculo de puntajes son
 
 k. La única información válida para efectos del puntaje obtenido en las pruebas de admisión universitaria, es la contenida en la base de datos de la institución encargada de la ejecución de las acciones del Sistema de Acceso, entregada a cada una de las universidades adscritas al Sistema de Acceso, careciendo de toda validez legal las impresiones o capturas de pantalla que los postulantes puedan realizar de sus puntajes.
 
-l. En caso de existir una duda razonable sobre los puntajes obtenidos en la prueba de admisión universitaria por parte del postulante, éste puede solicitar la verificación de los mismos. Esta solicitud debe hacerse personalmente ante la Secretaría de Admisión correspondiente de la institución encargada de la ejecución de las acciones del Sistema de Acceso y durante los días establecidos en el Calendario Oficial. Asimismo, si existe una duda razonable sobre los resultados de la selección, podrá solicitar la verificación de estos en la fecha informada en el Calendario Oficial.
+l. En caso de existir una duda razonable sobre los puntajes obtenidos en la prueba de admisión universitaria por parte del postulante, éste puede solicitar la verificación de los mismos. Esta solicitud debe hacerse siguiendo los procedimientos que la institución/es encomendada/s para la ejecución de las acciones del Sistema de Acceso defina para estos efectos, durante los días establecidos en el Calendario Oficial, publicado en acceso.mineduc.cl. Asimismo, si existe una duda razonable sobre los resultados de la selección, podrá solicitar la verificación de estos en la fecha informada en el Calendario Oficial.
+
+m. Para los requerimientos, inquietudes y dudas respecto de los antecedentes académicos de enseñanza media, el órgano oficial que entrega información académica, para los postulantes de la promoción del año, promociones anteriores, alumnos con exámenes libres y extranjeros, será el Ministerio de Educación, siguiendo los procedimientos que se establezcan para estos efectos. Por otro lado, los requerimientos con relación a aspectos generales del proceso de admisión tales como el proceso de inscripción a las pruebas, su aplicación y resultados, la postulación y selección, deberán ser resueltos por la institución/es encomendada/s para ejecutar las acciones del Sistema de Acceso. No corresponderá a la institución/es encomendada/s resolver temas relacionados con datos académicos del postulante, como tampoco los relacionados a beneficios estudiantiles estatales tales como gratuidad, becas y créditos que deberán ser consultados directamente al Ministerio de Educación.
 
 Los Derechos y Deberes de los postulantes son los siguientes:
 
@@ -318,13 +320,13 @@ a. Acatar las normas e instrucciones generales que regulan el proceso de admisi�
 
 b. Entregar, dentro de los plazos establecidos, los datos o documentos fidedignos que respaldan la información requerida para el normal desarrollo del proceso de admisión.
 
-c. Verificar que los antecedentes académicos disponibles en el portal estén correctos al momento de realizar la inscripción. Será responsabilidad del postulante solicitar al Ministerio de Educación la regularización de dichos antecedentes, en caso de ser necesario.
+c. Verificar que los antecedentes académicos disponibles en el portal estén correctos al momento de realizar la inscripción. Será responsabilidad del postulante solicitar al Ministerio de Educación, en los plazos establecidos y publicados en acceso.mineduc.cl, la regularización de dichos antecedentes, en caso de ser necesario.
 
 d. Pagar el arancel para la rendición de las pruebas, en caso que corresponda.
 
-e. Presentarse a rendir las pruebas portando solo su documento de identificación, su tarjeta de identificación, un lápiz grafito N° 2 o portaminas HB y goma de borrar. Opcionalmente podrá ingresar además con un destacador. Está estrictamente prohibido el ingreso y uso de celulares, máquinas fotográficas, tabletas u otros dispositivos electrónicos, así como el ingreso a los locales de aplicación con bolsos, mochilas, certeras, relojes digitales y cualquier otro elemento durante la rendición de las pruebas. Cabe señalar que, sumado a lo anterior, el Ministerio de Educación podrá solicitar otros insumos necesarios, de acuerdo con lo que establezca la autoridad sanitaria al momento de la rendición.
+e. Presentarse a rendir las pruebas portando sólo su documento de identificación, su tarjeta de identificación, un lápiz grafito N° 2 o portaminas HB y goma de borrar. Opcionalmente podrá ingresar además con un destacador. Está estrictamente prohibido el ingreso y uso de calculadoras, celulares, máquinas fotográficas, tabletas u otros dispositivos electrónicos, así como el ingreso a los locales de aplicación con bolsos, mochilas, carteras, relojes digitales y cualquier otro elemento durante la rendición de las pruebas. Cabe señalar que, ni el Ministerio de Educación, ni la institución/es encomendada/s por la Subsecretaría de Educación Superior serán responsables por la eventual pérdida y/o daños de estos objetos una vez que los postulantes hayan ingresado al local de aplicación. Asimismo, el Ministerio de Educación podrá solicitar otros insumos necesarios, de acuerdo con lo que establezca la autoridad sanitaria al momento de la rendición.
 
-f. Respetar el horario de presentación y rendición de cada una de las pruebas.
+f. Respetar las fechas, lugar y horario de presentación y rendición de cada una de las pruebas.
 
 g. No salir del lugar establecido para la rendición de la prueba sin autorización y previamente al tiempo determinado por el Ministerio de Educación para estos efectos.
 
@@ -386,7 +388,7 @@ Etapa de rendición de la prueba de admisión.
 
 La etapa de rendición de las pruebas se realizará a nivel nacional los días establecidos en el calendario oficial que se determine.
 
-Los locales de rendición designados para cada uno de los postulantes inscritos serán informados al postulante a través de la Plataforma Electrónica Única del Sistema de Acceso u otro mecanismo que determine la Subsecretaría de Educación Superior.
+Los locales de rendición designados para cada uno de los postulantes inscritos serán informados al postulante a través de la Plataforma Electrónica Única del Sistema de Acceso u otro mecanismo que determine la Subsecretaría de Educación Superior. Será responsabilidad de la institución/es encomendada/s de ejecutar las acciones del Sistema de Acceso, establecer los procedimientos para resolver problemas vinculados a la entrega de la información de la designación de los locales de rendición, así como también, de otros relacionados con las acciones que le han sido encomendadas.
 
 Los locales de rendición se asocian a Regiones y Comunas de Rendición y, dentro de ellas, se indican los espacios habilitados para la aplicación de las pruebas. En cada uno de ellos se señalan los números de identificación de los inscritos asignados a ese local, con cédula nacional chilena de identidad o pasaporte, según corresponda.
 
@@ -447,6 +449,8 @@ Las observaciones u objeciones que se formulen serán revisadas por una comisió
 Los resultados obtenidos por los postulantes en cada una de las pruebas que hayan rendido estarán disponibles en la fecha y hora establecida en el calendario oficial. Su publicación se efectuará en la Plataforma Electrónica Única del Sistema de Acceso. Las impresiones o capturas de pantalla que los postulantes puedan realizar de sus puntajes no tendrán validez alguna.
 
 En la eventualidad de presentarse alguna duda con respecto a los resultados obtenidos en las pruebas, los postulantes pueden solicitar personalmente una verificación de su puntaje dentro de los días establecidos en el calendario, no existiendo posibilidad alguna de verificación posterior.
+
+Al finalizar la rendición de cada una de las pruebas, será responsabilidad del postulante solicitar al examinador presente en la sala de aplicación, timbrar la Tarjeta de Identificación. Dicho documento timbrado, será el único medio verificador que tendrá el postulante para comprobar la efectiva rendición de la prueba.
 
 Distinciones que se confieren en el proceso de admisión a la educación universitaria: puntajes nacionales, regionales y mérito académico:
 
@@ -544,7 +548,7 @@ Los interesados en postular a primer año de alguno de los programas de pregrado
 
 4. Postular, dentro de los plazos públicamente establecidos, a las carreras y universidades adscritas al sistema de acceso, a través de la Plataforma Electrónica Única del Sistema de Acceso, en las fechas establecidas según el calendario oficial del proceso.
 
-El postulante podrá utilizar los puntajes obtenidos en las pruebas rendidas en el proceso de admisión anterior. En caso de tener pruebas de dos procesos vigentes, la postulación se realizará considerando automáticamente el mejor puntaje que resulte de ponderar separadamente las pruebas que rindió cada año.
+El postulante podrá utilizar los puntajes obtenidos en las pruebas rendidas en el proceso de admisión anterior. En caso de tener pruebas de dos procesos vigentes, la postulación se realizará considerando automáticamente el mejor puntaje que resulte de ponderar separadamente las pruebas que rindió cada año. Es decir, en ningún caso, se calculará el puntaje ponderado utilizando una combinación de las pruebas rendidas en cada proceso.
 
 Previo a la etapa de postulación y según lo determine el Comité de Acceso, las universidades adscritas al Sistema recibirán el puntaje obtenido por los inscritos en cada uno de los instrumentos generales de acceso (puntaje NEM, puntaje Ranking, pruebas de admisión universitaria obligatorias y electivas).
 
