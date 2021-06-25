@@ -94,6 +94,8 @@ Etapa de Desarrollo: El cofinanciamiento del Comité no podrá exceder el 80% de
 
 Las Acciones de Gestión Empresarial, contempladas en el Plan de Trabajo podrán corresponder a asistencia técnica, asesorías en gestión, capacitación y/o acciones de marketing.
 
+En caso que se declare un Estado de Excepción Constitucional, de emergencia o de catástrofe, en la forma dispuesta en la Ley Nº 18.415, Orgánica Constitucional de Estados de Excepción, o se declare zonas afectadas de sismo o catástrofe, en virtud de lo dispuesto en la ley Nº 16.282, sobre Disposiciones Permanentes para Casos de Sismos o Catástrofes, se podrán realizar convocatorias en las que el financiamiento del Comité podrá llegar hasta el 100% del costo total del Proyecto.
+
 ### 7. COSTO DE ADMINISTRACIÓN
 
 Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios por la evaluación, supervisión y administración de la Etapa de Desarrollo hasta $535.000.- (quinientos treinta y cinco mil pesos) por beneficiario/a.
