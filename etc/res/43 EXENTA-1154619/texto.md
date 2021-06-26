@@ -328,11 +328,15 @@ a) Haber completado el esquema de vacunación contra SARS-CoV-2 en Chile hace al
 
 b) No estar afecto a la medida de cuarentena o aislamiento en virtud de lo dispuesto en los numerales 9, 10, 11 y 13 de esta resolución, o por cualquiera de las causales dispuestas en la resolución exenta Nº 997, de 2020, del Ministerio de Salud.
 
+c) No haber sido sancionado en virtud del libro X del Código Sanitario por infracción a las disposiciones señaladas en el literal anterior.
+
 Para acreditar el cumplimiento de dichos requisitos el solicitante deberá obtener un comprobante de vacunación contra el SARS-Cov-2, el que está disponible en el sitio web https://mevacuno.gob.cl//.
 
 44 ter. De los efectos. El Pase de Movilidad habilitado eximirá de las restricciones que explícitamente se señalen en los actos administrativos de la autoridad sanitaria.
 
 44 quáter. Para efectos de verificar si un Pase de Movilidad está habilitado, se deberá exhibir a la autoridad correspondiente el comprobante de vacunación a que hace referencia el numeral 44 bis precedente.
+
+44 quinquies. La autoridad sanitaria podrá disponer como medida sanitaria, en casos justificados, la suspensión de la utilización del Pase de Movilidad. Para estos efectos, será aplicable lo dispuesto en el inciso segundo del artículo 178 del Código Sanitario.
 
 CAPÍTULO II. MEDIDAS PLAN "PASO A PASO"
 
