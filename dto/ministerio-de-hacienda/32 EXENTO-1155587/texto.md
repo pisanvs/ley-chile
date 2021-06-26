@@ -90,7 +90,7 @@ d) Empresas Grandes II: Empresas cuyas ventas netas anuales superen las 600.000 
 
 Destino de los Financiamientos.
 
-Los recursos provenientes de los financiamientos con Garantías de Reactivación solamente podrán ser utilizados para inversiones, gastos y refinanciamientos sujetos a las restricciones del artículo 6 del presente Reglamento. Lo anterior incluye la adquisición de activos fijos y las necesidades de capital de trabajo de la empresa, tales como, pago de remuneraciones y obligaciones previsionales, arriendos, rentas de leasing, mercaderías y suministros, incluyendo aquellos documentados a través de cartas de crédito de importación o exportación, y facturas pendientes de liquidación, obligaciones tributarias, boletas de garantía, gastos de seguros, gastos asociados al otorgamiento de Garantías de Reactivación, y cualquier otro gasto que sea indispensable para el funcionamiento de ésta, entre otros.
+Los recursos provenientes de los financiamientos con Garantías de Reactivación solamente podrán ser utilizados para inversiones, gastos y refinanciamientos sujetos a las restricciones del artículo 6 del presente Reglamento. Lo anterior incluye la adquisición de activos fijos y las necesidades de capital de trabajo de la empresa, tales como, pago de remuneraciones y obligaciones previsionales, arriendos, rentas de leasing, mercaderías y suministros, incluyendo aquellos documentados a través de cartas de crédito de importación o exportación, y facturas pendientes de liquidación, confirming obligaciones tributarias, boletas de garantía, gastos de seguros, gastos asociados al otorgamiento de Garantías de Reactivación, y cualquier otro gasto que sea indispensable para el funcionamiento de ésta, entre otros.
 
 No podrán utilizarse los recursos de dichos financiamientos para el pago de dividendos, retiro de utilidades, préstamos a personas relacionadas, hasta el segundo grado de consanguinidad en caso de ser personas naturales o de conformidad al artículo 100 de la Ley Nº 18.045, de Mercado de Valores, en caso de personas jurídica, o cualquier otra forma de retiro de capital por parte de el o los dueños de la empresa.
 
@@ -200,9 +200,9 @@ c) Grandes Empresas I: 70% del saldo deudor de cada financiamiento de hasta 150.
 
 d) Grandes Empresas II: 60% del saldo deudor de cada financiamiento de hasta 250.000 UF.
 
-El aumento al límite máximo de financiamiento de conformidad al inciso final del artículo anterior no afectará los límites de cobertura.
+El aumento al límite m�ximo de financiamiento de conformidad al inciso final del artículo anterior no afectará los límites de cobertura.
 
-Sin perjuicio de lo anterior, en caso de micro, pequeñas y medianas empresas los límites de cobertura serán de 90% del saldo deudor de cada financiamiento cuando el giro de la empresa, registrado ante el Servicio de Impuestos Internos, corresponda a:
+Sin perjuicio de lo anterior, en caso de micro, pequeñas y medianas empresas los límites de cobertura serán de 90% del saldo deudor de cada financiamiento cuando, al menos uno de los giros de la empresa, registrado ante el Servicio de Impuestos Internos, corresponda a:
 
 1. Servicios de transporte de escolares (492210).
 
@@ -278,6 +278,8 @@ Sin perjuicio de lo anterior, en caso de micro, pequeñas y medianas empresas lo
 
 37. Peluquería y otros tratamientos de belleza (960200).
 
+> **Nota.** El numeral 2 del Decreto 254 Exento, Hacienda, publicado el 26.06.2021, dispone que la modificación introducida al inciso tercero del presente artículo 14° entrará en vigencia a partir de la publicación en el Diario Oficial del citado decreto, esto es, el 26.06.2021.
+
 #### Artículo 15
 
 Otras Condiciones de los Financiamientos con Garantías de Reactivación.
@@ -294,17 +296,21 @@ a) El plazo de dichos financiamientos será de máximo 7 años, sin perjuicio de
 
 b) Las instituciones financieras no podrán establecer costo alguno para el pre-pago de estas obligaciones.
 
-c) No podrán ser otorgados a empresas que se encuentren en situación de mora superior a 29 días en el sistema financiero, de acuerdo a la más reciente información de deudores emitida por la Comisión para el Mercado Financiero, conforme el artículo 14 del decreto con fuerza de ley Nº 3, del Ministerio de Hacienda, de 1997, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos, ni una mora superior a 60 días en la institución financiera donde se solicita el financiamiento con Garantía de Reactivación; a la fecha de la solicitud.
+c) No podrán ser otorgados a empresas con ventas netas anuales superiores a 25.000 UF que, a la fecha de solicitud del financiamiento, se encuentren en situación de mora superior a 29 días en el sistema financiero, de acuerdo a la más reciente información de deudores emitida por la Comisión para el Mercado Financiero, conforme al artículo 14 del decreto con fuerza de ley Nº 3, del Ministerio de Hacienda, de 1997, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos, ni una mora superior a 60 días en la institución financiera donde se solicita el financiamiento con Garantía de Reactivación. En el caso de empresas con ventas netas anuales inferiores a 25.000 UF, ambos requisitos de mora serán de 89 días. La presente restricción no será aplicable si la empresa ya no se encuentra en mora al momento del otorgamiento del financiamiento con Garantía de Reactivación.
 
 d) No podrán ser otorgados a empresas que estén sujetas a alguno de los procedimientos concursales destinados a reorganizar y/o liquidar los pasivos y activos de la empresa conforme a la ley Nº 20.720 o alguno de los procedimientos dispuestos para estos mismos efectos por leyes especiales, con excepción de aquellas empresas sujetas a procedimientos de reorganización, una vez que el acuerdo de reorganización estuviese aprobado, se haya vencido el plazo de impugnación, y se hayan cumplido con el resto de las condiciones de término del artículo 89 de la ley Nº 20.720. Para efectos de este artículo, se entenderá que una empresa está sujeta a un procedimiento de reorganización desde la dictación de la resolución de reorganización por parte del tribunal competente, en los términos del artículo 57 de la ley Nº 20.720, y que la empresa está sujeta a un procedimiento de liquidación desde la dictación de la resolución de liquidación por el tribunal competente, en los términos del artículo 129 y siguientes de la ley Nº 20.720.
 
 e) No podrán ser otorgados a empresas que se encuentren con clasificación individual de riesgo dentro de las carteras de sus respectivos acreedores, cuando estén clasificadas como cartera deteriorada, salvo que se trate de un refinanciamiento conforme al artículo 6 del presente reglamento.
 
+f) El plazo de dichos financiamientos para empresas cuyas ventas netas anuales excedan de 100.000 UF será de máximo 7 años, sin perjuicio de la posibilidad de otorgar, dentro de dicho plazo máximo, flexibilidades o modalidades de pagos intermedias que vayan en beneficio del deudor, tales como, a modo ejemplar, para deudores que desarrollen actividades con flujos de ingresos estacionales o variables o dedicados al sector agrícola, inmobiliario, entre otros.
+
+> **Nota.** El inciso tercero del numeral 2 del Decreto 254 Exento, Hacienda, publicado el 26.06.2021, dispone dejar sin efecto el literal f) que se incorpora por la citada norma, a partir del 17 de agosto de 2021.
+
 #### Artículo 16
 
 Plazo de las Garantías de Reactivación por cada Financiamiento con Garantías de Reactivación.
 
-La vigencia de la Garantía de Reactivación no podrá extenderse más allá del 31 de diciembre de 2028. Si se renegocian deudas caucionadas por las Garantías de Reactivación, el plazo de vigencia de la garantía se contará desde la fecha de la deuda originalmente garantizada.
+La vigencia de la Garantía de Reactivación no podrá extenderse por un plazo mayor a 10 años desde su otorgamiento. Si se renegocian deudas caucionadas por las Garantías de Reactivación, el plazo de vigencia de la garantía se contará desde la fecha de la deuda originalmente garantizada.
 
 La renegociación de financiamientos cuya Garantía de Reactivación haya sido pagada por el Fondo sólo podrá efectuarse en condiciones equitativas previamente acordadas con el Administrador del Fondo y con arreglo a las condiciones generales o especiales que éste determine, las cuales, en su caso, deberán ser informadas a las entidades participantes.
 
@@ -338,13 +344,15 @@ a) Elegibilidad de la empresa: en base al nivel de ventas netas anuales de la em
 
 b) Destino de los recursos financiados: bastará con la declaración jurada simple del deudor, o alternativas a la que se refiere el artículo 15 del presente Reglamento.
 
-c) Copia del Pagaré o Título Ejecutivo donde queda registrada la Garantía de Reactivación.
+c) Copia del pagaré, título ejecutivo o instrumento privado de operación de leasing, en donde queda registrada la Garantía de Reactivación.
 
 d) El inicio de las acciones de cobro.
 
 Se entenderá como inicio de las acciones de cobro, la debida presentación de la demanda ejecutiva y la respectiva notificación al deudor principal, dentro de los plazos legales y las posibles extensiones que puedan otorgarse por ley, especialmente en situaciones de contingencia.
 
 Sin perjuicio de lo anterior, para créditos que el Fondo haya garantizado a micro, pequeñas y medianas empresas, se entenderá por cumplido el requisito del literal d. de este artículo, demostrando la existencia de al menos dos intentos de comunicación de cobro extrajudicial.
+
+> **Nota.** El numeral 2 del Decreto 254 Exento, Hacienda, publicado el 26.06.2021, dispone que el literal c) del presente artículo 20 tendrá efecto retroactivo y será aplicable a los financiamientos con Garantías de Reactivación otorgados con anterioridad a la fecha de publicación del citado Decreto.
 
 #### Artículo 21
 
@@ -424,7 +432,7 @@ En todo lo no previsto en el presente Reglamento, regirán las disposiciones del
 
 Vigencia.
 
-El presente Reglamento entrará en vigencia desde su publicación en el Diario Oficial y regirá hasta el 31 de diciembre de 2028. El cumplimiento de este plazo no afectará la regulación y facultades, incluyendo las facultades de cobro, del Fondo de Garantía para Pequeños y Medianos Empresarios respecto de las garantías que se hayan otorgado en virtud del presente Reglamento.
+El presente Reglamento entrará en vigencia desde su publicación en el Diario Oficial y regirá hasta el 31 de diciembre de 2028. El cumplimiento de este plazo no afectará la regulación y facultades, incluyendo las facultades de cobro, del Fondo de Garantía para Pequeños y Medianos Empresarios respecto de las garantías que se hayan otorgado en virtud del presente Reglamento, ni tampoco el plazo de vigencia de las mismas.
 
 #### Artículo segundo
 
