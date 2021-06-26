@@ -62,21 +62,27 @@ Para el cumplimiento de lo dispuesto precedentemente, los extranjeros no residen
 
 Solo podrán abandonar el hotel de tránsito o aquel autorizado por la autoridad sanitaria, después del quinto día, aquellos viajeros cuya enfermedad haya sido descartada mediante un Test RT-PCR para SARS-CoV-2 realizado tras su ingreso a Chile.
 
-Los viajeros que ingresen a Chile tendrán 24 horas después de su salida del hotel de tránsito para desplazarse, en medios de transporte públicos o privados, hasta el lugar donde cumplirán el resto de su cuarentena, cumpliendo con todas las medidas sanitarias que sean pertinentes.
+Los viajeros que ingresen a Chile tendrán 24 horas después de su salida del hotel de tránsito para desplazarse, en medios de transporte públicos o privados, hasta el lugar donde cumplirán el resto de su cuarentena, cumpliendo con todas las medidas sanitarias que sean pertinentes. Con todo, solo podrán hacer uso de medios de transporte público aquellas personas que tengan un resultado negativo para prueba diagnóstica de SARS-CoV-2, cuya toma de muestra haya sido a contar del cuarto día de ingresado al país.
 
 Aquel viajero que, dentro de los catorce días contados desde su ingreso al país, sea caracterizado como caso confirmado según lo dispuesto en el numeral 8 bis de la resolución Nº 43, de 2021, del Ministerio de Salud, deberá cumplir con la totalidad de cuarentena dispuesta en los términos del numeral 9 de la misma resolución, en una residencia sanitaria.
 
 Los costos asociados a la estadía en el hotel de tránsito, o en aquel autorizado por la autoridad sanitaria, de la que trata este numeral serán sufragados por cada viajero. En el caso de los extranjeros no residentes de manera regular en Chile, los costos serán pagados al obtener su pasaporte sanitario, antes de tomar el transporte rumbo a Chile.
 
+No obstante, aquellas personas que viajen con menores de edad podrán cumplir la totalidad de su cuarentena en los domicilios que indiquen en su declaración jurada.
+
 3 bis. La cuarentena de la que trata el numeral anterior deberá cumplir con las siguientes reglas:
 
 a. El trayecto al lugar de cumplimiento de la cuarentena deberá ser directo desde el lugar de ingreso al país. Deberá utilizarse siempre mascarilla y se prohíbe la interacción con otras personas, a excepción de aquella indispensable para el traslado.
 
-b. El aislamiento debe ser individual o con el mismo grupo de personas con el que se haya viajado. Esto no será impedimento para realizar su cuarentena en un domicilio donde residan otras personas que no estén sujetas a esta medida.
+b. El aislamiento debe ser individual o con el mismo grupo de personas con el que se haya viajado. En caso que la cuarentena se realice en un domicilio donde residan otras personas, éstas también estarán sujetas a esta medida.
 
-c. No se permitirá la recepción de visitantes en el lugar donde se realice la cuarentena.".
+c. No se permitirá la recepción de visitantes en el lugar donde se realice la cuarentena.
+
+En el caso de aquellas personas que realicen el aislamiento o cuarentena en su domicilio, no se permite el ingreso a éste de cualquier persona que no resida ahí, con excepción de la autoridad sanitaria o un servicio de urgencia.
 
 3 ter. Eliminado.
+
+3 quáter. Quienes se encuentren cumpliendo la cuarentena o aislamiento de la que trata esta resolución, no podrán hacer uso del Pase de Movilidad ni de los permisos de desplazamientos regulados en oficio ordinario Nº 13.244, de 24 de junio de 2021, del Ministerio del Interior y Seguridad Pública, o aquel que lo reemplace, mientras dure tal cuarentena o aislamiento.
 
 4. Dispóngase que los extranjeros no residentes de manera regular en el país sólo podrán ingresar al territorio nacional si cuentan con un resultado negativo de un Test PCR para SARS-CoV-2.
 
@@ -152,7 +158,11 @@ Los costos asociados a la estadía en el hotel de tránsito, o en aquel autoriza
 
 b) Los conductores chilenos y extranjeros residentes de manera regular en el país, podrán ser seleccionados, en forma aleatoria por la Autoridad Sanitaria, en el momento de su ingreso, para ser sometidos a un examen de detección directa para SARS-CoV-2 determinado por la Autoridad Sanitaria. Si estos mismos conductores no accedieran a realizarse el examen del que trata este numeral, deberán permanecer en cuarentena, en una residencia sanitaria dispuesta al efecto, durante los 14 días siguientes a su ingreso al país, independiente del resultado negativo que pudiese tener un test PCR para SARS-CoV-2 realizado con anterioridad o posterioridad.
 
-7 quáter. Quienes hayan hecho egreso del territorio nacional para el cumplimiento de funciones imprescindibles para la marcha del país, conforme a lo establecido en la letra c) del artículo primero del decreto supremo Nº 102, de 2020, del Ministerio del Interior y Seguridad Pública, y que cuenten con un esquema de vacunación completo contra el SARS-Cov-2, podrán, a su regreso a Chile, realizar cuarentena en su domicilio. Asimismo, podrán poner término a la cuarentena presentando un resultado negativo de un Test RT- PCR para SARS-CoV-2, cuya toma de muestra haya sido efectuada al séptimo día de cuarentena.
+7 quáter: Aquellas personas que hayan hecho ingreso o egreso del territorio nacional integrando delegaciones oficiales en cumplimiento de sus funciones y que cuenten con un esquema de vacunación completo contra el SARS-CoV-2, podrán, a su ingreso o regreso a Chile, poner término al aislamiento presentando un resultado negativo de un Test RT-PCR para SARS-CoV-2, cuya toma de muestra haya sido efectuada en territorio nacional, con posterioridad a su ingreso al país, según lo determine la Autoridad Sanitaria.
+
+7 quinquies. Eliminado.
+
+Cuando los funcionarios públicos referidos en el párrafo precedente provengan de países en los que predominen variantes de preocupación ("variants of concern"), en conformidad con lo establecido por la autoridad sanitaria, ésta podrá disponer la aplicación de medidas adicionales a las contempladas en este numeral.
 
 8. Dispóngase que será responsabilidad de la empresa que efectúe el traslado del pasajero al territorio nacional, verificar que este cuente con los documentos necesarios para el ingreso al país y cumpla con las obligaciones precedentes.
 
