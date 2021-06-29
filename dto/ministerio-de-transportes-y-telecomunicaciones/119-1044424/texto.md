@@ -10,15 +10,15 @@ Considerando:
 
 Decreto:
 
-#### Artículo 1°
+#### Artículo 1º
 
-Los vehículos motorizados cuyo peso bruto vehicular sea menor a 3.860 kg, con excepción de los furgones, minibuses y camionetas con cabina avanzada, entendiéndose estas últimas como aquellas donde el motor se encuentra bajo el habitáculo, correspondientes a modelos cuya solicitud de homologación se presente a contar del día treinta desde la fecha de publicación del presente decreto en el Diario Oficial, conforme al procedimiento establecido en el decreto supremo N° 54, de 1997, del Ministerio de Transportes y Telecomunicaciones, y que soliciten su primera inscripción en el Registro Nacional de Vehículos Motorizados con posterioridad a la fecha antes señalada, deberán estar dotados de dispositivos de protección contra su utilización no autorizada, que cumplan con lo establecido en el Reglamento N° 116, de la Comisión Económica de las Naciones Unidas para Europa (CEPE), parte IV.
+Los vehículos motorizados nuevos cuyo peso bruto vehicular sea menor a 2.700 kg, que se comercialicen o ingresen al país para ser comercializados, deberán estar dotados de dispositivos de protección contra su utilización no autorizada, que cumplan con lo establecido en el Reglamento Nº 116, de la Comisión Económica de las Naciones Unidas para Europa (CEPE), parte IV, o 49 Code of Federal Regulations 571.114 theft protection and rollaway prevention de los Estados Unidos de América o GB/T 25985-2010 National Standard of the People's Republic of China. Los furgones, minibuses y camionetas con cabina avanzada, entendiéndose estas últimas como aquellas donde el motor se encuentra bajo el habitáculo, podrán acreditar que están dotados de dispositivos de protección contra su utilización no autorizada, cuando el dispositivo cumpla los requisitos del artículo 2º.
 
-Asimismo, el requisito señalado en el párrafo anterior será obligatorio también para los vehículos cuya primera inscripción en el Registro Nacional de Vehículos Motorizados, se solicite a contar del 1° de enero 2013.
+Asimismo, el requisito señalado en el inciso anterior será obligatorio también para los vehículos nuevos que se comercialicen o ingresen al país para ser comercializados, cuyo peso bruto vehicular sea igual o mayor a 2.700 kg y menor a 3.860 kg, con excepción de los furgones, minibuses y camionetas con cabina avanzada, entendiéndose estas últimas como aquellas donde el motor se encuentra bajo el habitáculo.
 
 #### Artículo 2°
 
-En el caso que los vehículos motorizados definidos en el artículo 1° no cumplan con los requisitos antes señalados, podrán acreditar que están dotados de dispositivos de protección contra su utilización no autorizada cuando el dispositivo cumpla todos y cada uno de los siguientes requisitos:
+En el caso que los vehículos motorizados señalados en el inciso segundo del artículo 1º no cumplan con los requisitos antes señalados, podrán acreditar que están dotados de dispositivos de protección contra su utilización no autorizada cuando el dispositivo cumpla todos y cada uno de los siguientes requisitos:
 
 1. Actuar desconectando o evitando su accionamiento en, al menos, uno de los siguientes sistemas y/o componentes del vehículo:
 
