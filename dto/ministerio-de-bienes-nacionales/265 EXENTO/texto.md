@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DEL MAULE, A LA "I. MUNICIPALIDAD DE CONSTITUCIÓN"
+
+Mediante decreto exento N° E-265, de 14 de junio de 2021, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "I. Municipalidad de Constitución", R.U.T. N° 69.120.100-7, el inmueble fiscal ubicado en Avenida Enrique Mac Iver N° 850, comuna de Constitución, provincia de Talca, Región del Maule; enrolado en el Servicio de Impuestos Internos con el N° 161-12; inscrito a nombre del Fisco a fs. 194 N° 148, del Registro de Propiedad del Conservador de Bienes Raíces de Constitución, correspondiente al año 1977; singularizado en el Plano N° VII-2-164-C.U.; con una superficie de 1.216,25 m2. La Concesión se otorga por un plazo de 8 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble para continuar con el funcionamiento del Jardín Infantil y Sala Cuna "Caracolitos". El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
