@@ -98,7 +98,7 @@ a) Área Administrativa.
 
 - Oficina.
 
-- Sala de amamantamiento.
+- Eliminado.
 
 b) Área Docente
 
@@ -125,6 +125,8 @@ Sin perjuicio de lo anterior, los establecimientos que cuenten con hasta cinco a
 - Bodega, closet o gabinete para material didáctico.
 
 - Bodega, closet o gabinete para artículos de aseo.
+
+Solo los establecimientos de educación parvularia que cuenten con el nivel de sala cuna deberán contar con un lugar, espacio o zona para amamantamiento, cuyo uso será siempre voluntario para las madres, el que deberá presentar condiciones adecuadas de higiene, comodidad y seguridad, de conformidad con lo dispuesto en la Ley Nº 21.155, que establece medidas de protección a la lactancia materna y su ejercicio.
 
 1.2. Jardín Infantil.
 
@@ -164,7 +166,7 @@ Cuando el local atienda sala cuna y jardín infantil, podrá tener en común el 
 
 En los casos en que se tenga en común el patio, los alumnos de ambos niveles no deberán hacer uso de éste de manera simultánea.
 
-Cuando el jardín infantil tenga una capacidad inferior a 135 párvulos y la sala de primeros auxilios no pueda habilitarse en los términos señalados, dicho recinto podrá implementarse dentro de otro recinto del área administrativa, siempre que éste disponga del espacio suficiente para el correcto uso de un gabinete y una camilla, la cual podrá ser rígida, portátil o plegable. No obstante lo anterior, cuando la capacidad de atención sea igual o superior a 135 párvulos y el jardín infantil se ubique cerca de un centro asistencial de salud, el Secretario Regional Ministerial de Educación respectivo podrá, mediante resolución fundada, autorizar la habilitación de la sala de primeros auxilios del mismo modo permitido para capacidades inferiores.
+Cuando estos establecimientos no puedan implementar la sala de primeros auxilios junto con la sala multiuso por motivos de espacio físico para su correcto funcionamiento, podrán habilitarla en otra área administrativa, siempre que éste disponga del espacio suficiente para el correcto uso de un gabinete y una camilla, la cual podrá ser rígida, portátil o plegable. De no ser ello posible, podrán destinar para tales fines un área o recinto de uso preferente, debidamente señalizada, que no forme parte de una vía de evacuación.
 
 Cuando el local escolar cuente con patio de servicio y/o área de estacionamientos, estos se deberán separar del área de uso y tránsito de lactantes y párvulos, mediante un límite físico no escalable.
 
@@ -524,9 +526,9 @@ La sala de primeros auxilios deberá contar con, a lo menos, una camilla y gabin
 
 #### Artículo 11º
 
-En el caso de instalaciones provisorias que se requieran para dar continuidad al servicio educativo en establecimientos educacionales con Reconocimiento Oficial, que hayan sido afectados por desastres naturales u otras situaciones de emergencia, bastará con la autorización de la respectiva Dirección de Obras Municipales, establecida en el artículo 124º de la Ley General de Urbanismo y Construcciones, o la que a futuro lo reemplace, para mantener el Reconocimiento Oficial durante el período de tiempo autorizado.
+En el caso de instalaciones provisorias que se requieran para dar continuidad al servicio educativo en establecimientos educacionales con Reconocimiento Oficial o Autorización de Funcionamiento, según corresponda, que hayan sido afectados por desastres naturales u otras situaciones de emergencia, bastará con la autorización de la respectiva Dirección de Obras Municipales, establecida en el artículo 124º de la Ley General de Urbanismo y Construcciones, o la que a futuro lo reemplace, para mantener el respectivo Reconocimiento Oficial o Autorización de Funcionamiento durante el período de tiempo autorizado.
 
-De igual modo, en cualquier situación que ponga en riesgo el cumplimiento del año escolar, el establecimiento podrá, excepcionalmente y previa resolución fundada del Secretario Regional Ministerial correspondiente, funcionar temporalmente en otros locales escolares y/o anexos que cuenten con el Reconocimiento Oficial, o en locales con otro destino que cuenten con el certificado de recepción definitiva correspondiente, y las condiciones de capacidad, salubridad e higiene para la matrícula a atender.
+De igual modo, en cualquier situación que ponga en riesgo el cumplimiento del año escolar, el establecimiento podrá, excepcionalmente y previa resolución fundada del Secretario Regional Ministerial correspondiente, funcionar temporalmente en otros locales escolares y/o anexos que cuenten con el Reconocimiento Oficial o Autorización de Funcionamiento, o en locales con otro destino que cuenten con el certificado de recepción definitiva correspondiente, y las condiciones de capacidad, salubridad e higiene para la matrícula a atender.
 
 #### Artículo 12°
 
