@@ -98,7 +98,9 @@ La complementación de los montos de subsidios por los aportes del Gobierno Regi
 
 17. Los proyectos que postulen al presente llamado, y que incluyan a lo menos un 20% respecto de la cabida total de viviendas, a familias asociadas beneficiadas con subsidios habitacionales del DS N° 49 (V. y U.), de 2011, y sus modificaciones, otorgados entre los años 2012 y 2014 en la modalidad colectiva sin proyecto asociado, recibirán un puntaje adicional total de 50 puntos, que se sumará al puntaje resultante del grupom calculado de acuerdo a lo señalado en el inciso segundo del artículo 22. del decreto mencionado.
 
-18. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de proyectos seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional, o en el sitio web del Minvu.
+18. Los proyectos que se encuentren en el Banco de Postulaciones sin que hayan sido seleccionados total o parcialmente en llamados efectuados en años anteriores, podrán acogerse a las disposiciones del presente llamado. Si se encontraren calificados, deberán solicitarlo formalmente al Serviu, el que evaluará el requerimiento, realizando los ajustes que correspondan en el sistema.
+
+19. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de proyectos seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional, o en el sitio web del Minvu.
 
 Anótese, publíquese y archívese.- Guillermo Rolando Vicente, Ministro de Vivienda y Urbanismo (S).
 
