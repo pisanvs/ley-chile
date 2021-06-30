@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 1.213, de fecha 25 de mayo de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se autoriza a Escuela de Conductores No Profesionales o Clase B, denominada "Nonato Coo", domiciliada en Presidente Prieto Nº 52, local 9, comuna de Paine, cuya propietaria es la señora María Soledad Navarrete Gutiérrez, cédula de identidad Nº 9.008.013-K, y cuyo Programa de Enseñanza fue aprobado mediante resolución exenta Nº 2.730, de 3 de noviembre de 2010, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, a impartir curso conducente a obtención de Licencia de Conductor Clase B, en modalidad e-learning. La correcta funcionalidad de la plataforma tecnológica computacional LMS estará siempre sujeta a las auditorías, controles y fiscalizaciones que sean procedentes. La misma autorización, en copia fidedigna, deberá estar a disposición de los postulantes y alumnos del establecimiento.-
+
+Eddy Nelson Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
