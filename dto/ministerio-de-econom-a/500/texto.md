@@ -250,6 +250,8 @@ Km. 849,830, lado sur recinto estación Los Lagos.
 
 SUPRIMIDO
 
+Km. 911,000 Caupolicán Línea Central Sur
+
 Km. 953,070 (Los Carreras), lado norte estación Osorno.
 
 Km. 953,220 (Calle Ramírez), lado norte estación Osorno.
@@ -1646,15 +1648,15 @@ Km. 64,920, lado poniente estación Río Frío.
 
 Km. 74,980, lado oriente estación Los Muermos.
 
-Km. 75,720, lado poniente estación Los Muermos. |!
+Km. 75,720, lado poniente estación Los Muermos.
 
-|
+<NOTAQA id="8984315"></NOTAQA
+
+>
 
 > **Nota.** El N° 1 de la RES 752, Transportes, publicada el 05.10.1972, incorporó en el listado del ramal de Temuco a Carahue el cruce ubicado en el kilómetro 3.790.
 
 > **Nota.** NOTA 1: La RES 475, Transportes, publicada el 11.05.1978, estableció e incorporó en la nómina del N° 2, en el Ramal Pelequén a Las Cabras, el cruce "Aguas Claras", situado en el kilómetro 29.140.
-
-> **Nota.** NOTA 10: El N° 2 del DTO 2, Transportes, publicado el 26.07.1995, suprimió de la nómina del N° 2 los cruces públicos a nivel del desvío Troncal Santa Carolina, en el ramal Circunvalación Ñuñoa, que habían sido incorporados por el DTO 62, Transportes, publicado el 13.08.1983, citado en la NOTA 5.
 
 > **Nota.** NOTA 2: El N° 2 del DTO 232, Transportes, publicado el 27.08.1980, autorizó incorporar en el ramal Santa Fe-Santa Bárbara un cruce público a nivel en el kilómetro 6.630.
 
@@ -1671,5 +1673,7 @@ Km. 75,720, lado poniente estación Los Muermos. |!
 > **Nota.** NOTA 8: El N° 1 del DTO 72, Transportes, publicado el 12.06.1987, incluye en el listado del Ramal de San Rosendo a Talcahuano, de este numeral, el cruce público a nivel "Perales" ubicado en el Km. 76,070.
 
 > **Nota.** NOTA 9: El N° 2 del DTO 130, Transportes, publicado el 10.10.1988, incluyó en la nómina de cruces del Ramal San Rosendo a Talcahuano, de este numeral, el cruce ubicado en el Km. 76,840. La habilitación autorizada es temporal mientras se ejecuta el proyecto de mejoramiento de accesos y pavimentación de Avenida Arteaga Alemparte.
+
+> **Nota.** NOTA 10: El N° 2 del DTO 2, Transportes, publicado el 26.07.1995, suprimió de la nómina del N° 2 los cruces públicos a nivel del desvío Troncal Santa Carolina, en el ramal Circunvalación Ñuñoa, que habían sido incorporados por el DTO 62, Transportes, publicado el 13.08.1983, citado en la NOTA 5.
 
 Tómese razón, comuníquese y publíquese.- J. ALESSANDRI R.- L. Escobar C.
