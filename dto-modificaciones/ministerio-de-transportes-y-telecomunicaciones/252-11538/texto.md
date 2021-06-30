@@ -542,6 +542,8 @@ Montt L.C.S.
 
 Montt L.C.S.
 
+911,000 Caupolicán Línea Central Sur
+
 954,430 Ovejería Sector Alameda/Pto.
 
 Montt L.C.S.
@@ -586,29 +588,17 @@ ELIMINADO
 
 185,080 Simón Bolívar Línea Yungay/Puerto
 
-0,182 San Pedro R. San Pedro/
+0,182 San Pedro R. San Pedro/Ventanas
 
-Ventanas
+1,040 Troncal R. San Pedro/Ventanas
 
-1,040 Troncal R. San Pedro/
+2,170 Morandé R. Llay Llay/Los Andes
 
-Ventanas
+26,760 Nuevo Palomar R. Llay Llay/Los Andes
 
-2,170 Morandé R. Llay Llay/
+43,704 El Laberinto Ramal Llay Llay- Los Andes
 
-Los Andes
-
-26,760 Nuevo Palomar R. Llay Llay/
-
-Los Andes
-
-43,704 El Laberinto Ramal Llay Llay-
-
-Los Andes
-
-5,560 El Sauce R. Los Andes/
-
-Río Blanco
+5,560 El Sauce R. Los Andes/Río Blanco
 
 3,380 ELIMINADO
 
@@ -662,19 +652,33 @@ Río Blanco
 
 99,038 Eliminado
 
-127,650 Paicaví R. Rucapequén/Concepción
+127,650 Paicaví R. Rucapequén/
 
-128,415 Aníbal Pinto R. Rucapequén/Concepción
+Concepción
 
-128,675 Calle Rengo R. Rucapequén/Concepción
+128,415 Aníbal Pinto R. Rucapequén/
 
-128,930 Calle Angol R. Rucapequén/Concepción
+Concepción
 
-129,050 Calle Prat R. Rucapequén/Concepción
+128,675 Calle Rengo R. Rucapequén/
 
-129,340 Andalién R. Rucapequén/Concepción
+Concepción
 
-34,100 Sin Nombre Ramal San Rosendo/Talcahuano
+128,930 Calle Angol R. Rucapequén/
+
+Concepción
+
+129,050 Calle Prat R. Rucapequén/
+
+Concepción
+
+129,340 Andalién R. Rucapequén/
+
+Concepción
+
+34,100 Sin Nombre Ramal San Rosendo/
+
+Talcahuano
 
 39,065 Cruce Nº1 Ramal San Rosendo- Talcahuano
 
@@ -684,9 +688,9 @@ Hualqui -
 
 Quilacoya
 
-41,625 Cruce Nº2 Ramal San Rosendo- Talcahuano
+41,625 Cruce Nº2 Ramal San Rosendo-
 
-Variante
+Variante Talcahuano
 
 Hualqui -
 
@@ -738,7 +742,7 @@ ELIMINADO
 
 2,821 Panamericana Ramal Temuco/Carahue
 
-24,635 Circunvalación Ramal Antilhue/
+24,635 Circunvalación Ramal Antilhue/Valdivia
 
 Valdivia
 
@@ -1374,73 +1378,39 @@ ELIMINADO
 
 ELIMINADO
 
-1,915 El Mirador Ramal Talca/
+1,915 El Mirador Ramal Talca/Constitución
 
-Constitución
+8,535 Unihue Ramal Talca/Constitución
 
-8,535 Unihue Ramal Talca/
+12,890 Colín Ramal Talca/Constitución
 
-Constitución
+14,900 Perales Ramal Talca/Constitución
 
-12,890 Colín Ramal Talca/
+27,280 Sin Nombre Ramal Talca/Constitución
 
-Constitución
+33,850 Sin Nombre Ramal Talca/Constitución
 
-14,900 Perales Ramal Talca/
+87,580 Sin Nombre Ramal Talca/Constitución
 
-Constitución
+87,950 Sin Nombre Ramal Talca/Constitución
 
-27,280 Sin Nombre Ramal Talca/
+88,400 Constitución Ramal Talca/Constitución
 
-Constitución
+1,030 Sin Nombre R. Rucapequén/Concepción
 
-33,850 Sin Nombre Ramal Talca/
+2,110 Sin Nombre R. Rucapequén/Concepción
 
-Constitución
+9,790 Colliguay R. Rucapequén/Concepción
 
-87,580 Sin Nombre Ramal Talca/
+11,680 Sin Nombre R. Rucapequén/Concepción
 
-Constitución
+12,905 Sin Nombre R. Rucapequén/Concepción
 
-87,950 Sin Nombre Ramal Talca/
+15,170 Sin Nombre R. Rucapequén/Concepción
 
-Constitución
+16,950 Sin Nombre R. Rucapequén/Concepción
 
-88,400 Constitución Ramal Talca/
-
-Constitución
-
-1,030 Sin Nombre R. Rucapequén/
-
-Concepción
-
-2,110 Sin Nombre R. Rucapequén/
-
-Concepción
-
-9,790 Colliguay R. Rucapequén/
-
-Concepción
-
-11,680 Sin Nombre R. Rucapequén/
-
-Concepción
-
-12,905 Sin Nombre R. Rucapequén/
-
-Concepción
-
-15,170 Sin Nombre R. Rucapequén/
-
-Concepción
-
-16,950 Sin Nombre R. Rucapequén/
-
-Concepción
-
-19,100 Nueva Aldea R. Rucapequén/
-
-Concepción
+19,100 Nueva Aldea R. Rucapequén/Concepción
 
 28,370 ELIMINADO
 
@@ -1690,15 +1660,21 @@ ELIMINADO
 
 Sta. Bárbara
 
-0,230 Sin Nombre R. Coigüe/Nacimiento
+0,230 Sin Nombre R. Coigüe/
 
-2,060 Sin Nombre R. Coigüe/Nacimiento
+Nacimiento
 
-5,040 Sin Nombre R. Coigüe/Nacimiento
+2,060 Sin Nombre R. Coigüe/
 
-6,600 Est. Coigüe
+Nacimiento
 
-Norte Ramal Coigüe/Mulchén
+5,040 Sin Nombre R. Coigüe/
+
+Nacimiento
+
+6,600 Est. Coigüe Ramal Coigüe/
+
+Norte Mulchén
 
 ELIMINADO
 
@@ -1716,41 +1692,23 @@ ELIMINADO
 
 52,897 Panguipulli Ramal a Panguipulli
 
-0,480 Antilhue Ramal Antilhue/
+0,480 Antilhue Ramal Antilhue/Valdivia
 
-Valdivia
+1,193 Circ. Antilhue Ramal Antilhue/Valdivia
 
-1,193 Circ. Antilhue Ramal Antilhue/
+4,210 Sin Nombre Ramal Antilhue/Valdivia
 
-Valdivia
+5,230 Chincuín Ramal Antilhue - Valdivia
 
-4,210 Sin Nombre Ramal Antilhue/
+9,635 Pishuinco Ramal Antilhue/Valdivia
 
-Valdivia
+16,180 Huellelhue Ramal Antilhue/Valdivia
 
-5,230 Chincuín Ramal Antilhue -
+22,665 Sin Nombre Ramal Antilhue/Valdivia
 
-Valdivia
+25,820 Sin Nombre Ramal Antilhue/Valdivia
 
-9,635 Pishuinco Ramal Antilhue/
-
-Valdivia
-
-16,180 Huellelhue Ramal Antilhue/
-
-Valdivia
-
-22,665 Sin Nombre Ramal Antilhue/
-
-Valdivia
-
-25,820 Sin Nombre Ramal Antilhue/
-
-Valdivia
-
-27,787 Valdivia Ramal Antilhue/
-
-Valdivia
+27,787 Valdivia Ramal Antilhue/Valdivia
 
 ELIMINADO
 
