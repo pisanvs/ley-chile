@@ -36,201 +36,211 @@ Decreto:
 
 Declárase estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio chileno por un plazo de 90 días desde la publicación del presente decreto en el Diario Oficial, de conformidad a lo dispuesto en el artículo 8º de la ley 18.415.
 
+> **Nota.** El artículo primero del Decreto 269, Interior, publicado el 16.06.2020, prorroga el estado de excepción constitucional de catástrofe, por calamidad pública, declarado en el territorio chileno por la presente norma, y sus modificaciones, por un plazo adicional de 90 días, a contar del vencimiento del período previsto en el presente acto administrativo.
+
+> **Nota.** NOTA 1 El artículo primero del Decreto 400, Interior, publicado el 12.09.2020, prorroga el estado de excepción constitucional de catástrofe, por calamidad pública, declarado en el territorio chileno por la presente norma, y sus modificaciones, por un plazo adicional de 90 días, a contar del vencimiento del periodo previsto en el decreto supremo 269, Interior, publicado el 16.06.2020.
+
+> **Nota.** NOTA 2 El artículo primero del Decreto 646, Interior, publicado el 12.12.2020, prorroga el estado de excepción constitucional de catástrofe, por calamidad pública, declarado en el territorio chileno por la presente norma, y sus modificaciones, por un plazo adicional de 90 días, a contar del vencimiento del periodo previsto en el decreto supremo 400, Interior, publicado el 16.06.2020.
+
+> **Nota.** NOTA 3 El artículo primero del Decreto 72, Interior, publicado el 13.03.2021, prorroga el estado de excepción constitucional de catástrofe, por calamidad pública, declarado en el territorio chileno por la presente norma, y sus modificaciones, hasta el 30 de junio de 2021, a contar del vencimiento del período previsto en el decreto supremo Nº 646, Interior, publicado el 12.12.2020, de conformidad a la aprobación comunicada por Of. Nº 16.344, de 11 de marzo de 2021, de la H. Cámara de Diputados, en los términos señalados.
+
+> **Nota.** NOTA 4 El artículo primero del Decreto 153, Interior, publicado el 30.06.2021, prorroga el estado de excepción constitucional de catástrofe, por calamidad pública, declarado en el territorio chileno por la presente norma, y sus modificaciones, hasta el 30 de septiembre de 2021, a contar del vencimiento del período previsto en el decreto supremo Nº 72, de 2021, del mismo origen, de conformidad a la aprobación comunicada por Of. Nº 16.712, de 24 de junio de 2021, de la H. Cámara de Diputados, en los términos señalados.
+
 #### Artículo segundo
 
 Desígnanse como Jefes de la Defensa Nacional a los miembros de las Fuerzas Armadas que se indican a continuación:
 
 REGIÓN DE ARICA Y PARINACOTA
 
-Institución Ejército
+Institución :Ejército
 
-Grado General de Brigada
+Grado :General de Brigada
 
-Apellidos CUELLAR Loyola
+Apellidos :Altamirano Campos
 
-Nombre Luis
+Nombre :Guillermo Yury
 
-RUN 11.565.532-9
+RUN :11.535.151-6
 
 REGIÓN DE TARAPACÁ
 
-Institución Ejército
+Institución :Armada
 
-Grado General de División
+Grado :Vicealmirante
 
-Apellidos PAIVA Hernández
+Apellidos :Fernández Morales
 
-Nombre Guillermo
+Nombre :José Luis
 
-RUN 9.618.180-9
+RUN :9.105.402-7
 
 REGIÓN DE ANTOFAGASTA
 
-Institución Fuerza Aérea
+Institución :Fuerza Aérea
 
-Grado General de Brigada Aérea (A)
+Grado :General de Brigada Aérea (A)
 
-Apellidos AGUIRRE Gamboa
+Apellidos :Nadeau Pavez
 
-Nombre José
+Nombre :Pedro Andrés
 
-RUN 8.469.860-1
+RUN :11.472.471-8
 
 REGIÓN DE ATACAMA
 
-Institución Ejército
+Institución :Ejército
 
-Grado General de Brigada
+Grado :Coronel
 
-Apellidos HEYERMANN Ríos
+Apellidos :Salgado Bahamondes
 
-Nombre Enrique
+Nombre :Álvaro Mauricio
 
-RUN 9.301.648-3
+RUN :10.283.459-3
 
 REGIÓN DE COQUIMBO
 
-Institución Ejército
+Institución :Ejército
 
-Grado General de Brigada
+Grado :Coronel
 
-Apellidos ONETTO Jara
+Apellidos :Sagas Díaz
 
-Nombre Pablo
+Nombre :Luis Alejandro
 
-RUN 10.717.197-5
+RUN :14.282.430-2
 
 REGIÓN DE VALPARAÍSO
 
-Institución Armada
+Institución :Armada
 
-Grado Contraalmirante
+Grado :Contraalmirante
 
-Apellidos MARCIC Conley
+Apellidos :Cabrera Salazar
 
-Nombre Yerko Iván
+Nombre :Fernando Andrés
 
-RUN 8.882.710-4
+RUN :10.192.344-4
 
-REGIÓN METROPOLITANA
+REGIÓN METROPOLITANA DE SANTIAGO
 
-Institución Ejército
+Institución :Ejército
 
-Grado General de División
+Grado :General de División
 
-Apellidos RICOTTI Velásquez
+Apellidos :De la Cerda Rodríguez
 
-Nombre Carlos
+Nombre :Juan Cristóbal
 
-RUN 9.913.132-2
+RUN :10.181.092-5
 
 REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS
 
-Institución Ejército
+Institución :Ejército
 
-Grado General de Brigada
+Grado :General de Brigada
 
-Apellidos JACQUE Falcón
+Apellidos :Amengual Escobar
 
-Nombre Jorge
+Nombre :Patricio Gabriel
 
-RUN 9.769.190-8
+RUN :10.534.643-3
 
 REGIÓN DEL MAULE
 
-Institución Ejército
+Institución :Ejército
 
-Grado General de Brigada
+Grado :Coronel
 
-Apellidos VAN DE MAELE Silva
+Apellidos :Ovando Alarcón
 
-Nombre Patrice
+Nombre :Luis Alberto
 
-RUN 10.202.951-8
+RUN :9.717.338-9
 
 REGIÓN DE ÑUBLE
 
-Institución Ejército
+Institución :Ejército
 
-Grado General de Brigada
+Grado :Coronel
 
-Apellidos VIAL Maceratta
+Apellidos :Bagatello Ortega
 
-Nombre Cristian
+Nombre :Jeffrey Mason
 
-RUN 11.840.650-8
+RUN :10.293.687-6
 
 REGIÓN DEL BIOBÍO
 
-Institución Armada
+Institución :Armada
 
-Grado Contraalmirante
+Grado :Contraalmirante
 
-Apellidos HUBER Vio
+Apellidos :Parga Balaresque
 
-Nombre Carlos Ernesto
+Nombre :Jorge Eduardo
 
-RUN 8.377.850-4
+RUN :7.839.683-0
 
 REGIÓN DE LA ARAUCANÍA
 
-Institución Ejército
+Institución :Ejército
 
-Grado General de Brigada
+Grado :General de Brigada
 
-Apellidos SEPÚLVEDA Díaz
+Apellidos :Pascual Robin
 
-Nombre Luis
+Nombre :Pedro Jorge
 
-RUN 8.858.558-5
+RUN :9.233.710-3
 
 REGIÓN DE LOS RÍOS
 
-Institución Ejército
+Institución :Ejército
 
-Grado General de Brigada
+Grado :General de Brigada
 
-Apellidos SÁNCHEZ Cros
+Apellidos :Sánchez Cros
 
-Nombre Guillermo
+Nombre :Guillermo Enrique
 
-RUN 10.855.946-2
+RUN :10.855.946-2
 
 REGIÓN DE LOS LAGOS
 
-Institución Fuerza Aérea
+Institución :Fuerza Aérea
 
-Grado General de Brigada Aérea (A)
+Grado :General de Brigada Aérea (A)
 
-Apellidos EGUÍA Calvo
+Apellidos :Eguia Calvo
 
-Nombre Cristian
+Nombre :Cristian Rodrigo
 
-RUN 7.763.816-4
+RUN :7.763.816-4
 
 REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO
 
-Institución Ejército
+Institución :Ejército
 
-Grado General de Brigada
+Grado :General de Brigada
 
-Apellidos MORALES Burotto
+Apellidos :Pérez Astorga
 
-Nombre Joaquín
+Nombre :Luis Felipe
 
-RUN 10.224.478-8
+RUN :10.347.468-K
 
 REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA
 
-Institución Ejército
+Institución :Ejército
 
-Grado General de División
+Grado :General de Brigada
 
-Apellidos VENTURA Sancho
+Apellidos :Estévez Valencia
 
-Nombre Rodrigo
+Nombre :Sergio Alejandro
 
-RUN 9.904.776-3
+RUN :10.549.329-0.
 
 #### Artículo tercero
 
