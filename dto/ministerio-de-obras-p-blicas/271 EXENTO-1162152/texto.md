@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº271, de 20 de mayo de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 40-A, para la obra: MEJORAMIENTO CBI RUTA V-155, FRUTILLAR BAJO (F.PAV) - QUILANTO, FRUTILLAR, que figura a nombre de SCHEEL MUNZENMAYER HERBERT FRANZ, rol de avalúo 295-206, Comuna de FRUTILLAR, REGIÓN DE LOS LAGOS, superficie 4.991 m2. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRES ECHEVERRIA CAMPO y CHRISTIAN EMIL RAUCH YAÑEZ, mediante informe de tasación de 11 de julio de 2019, fijó el monto de la indemnización provisional en la cantidad de $50.987.980, para el lote Nº40-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
