@@ -42,9 +42,9 @@ F) Rol de avalúo Nº 3503-13, correspondiente al Lote Nº 10; cuya dirección, 
 
 El bien raíz objeto en parte a expropiación, se encuentra inscrito a fojas 1.568 número 1.349 del Registro de Propiedad del año 2012, a cargo del Conservador de Bienes Raíces de Quilpué; constando como propietario del bien raíz don Yuri Alexis Reyes Ramos.
 
-G) Rol de avalúo Nº 3503-14, correspondiente al Lote Nº 9; cuya dirección, según el Servicio de Impuestos Internos, es calle Las Palmas Nº 2621, Población Los Pinos, Quilpué; con una porción afecta a expropiación de 294,76 metros cuadrados.
+G) Rol de avalúo Nº3503-14, correspondiente al Lote Nº 09; cuya dirección, según el Servicio de Impuestos Internos, es calle Las Palmas Nº 2621, Población Los Pinos, Quilpué; con una porción afecta a expropiación de 294,76 metros cuadrados.
 
-El bien raíz objeto en parte a expropiación, se encuentra inscrito a fojas 497 número 484 del Registro de Propiedad del año 2007, a cargo del Conservador de Bienes Raíces de Quilpué; constando como propietario del bien raíz la Inmobiliaria Olga Elena Limitada.
+El bien raíz objeto en parte a expropiación, se encuentra inscrito a fojas 1035 número 989 del Registro de Propiedad del año 2007, a cargo del Conservador de Bienes Raíces de Quilpué; constando como propietario del bien raíz la Inmobiliaria Olga Elena Limitada.
 
 2.- Déjese constancia que las disposiciones legales que hacen procedente esta expropiación están contenidas en el artículo 33 de la Ley 18.695, Orgánica Constitucional de Municipalidades, que declara de utilidad pública los inmuebles necesarios para el cumplimiento del Plan Regulador Comunal y sus normas, y en el artículo 83 del DFL 458, de 1976, del Ministerio de Vivienda y Urbanismo, que contiene la Ley General de Urbanismo y Construcciones.
 
