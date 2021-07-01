@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº283, de 26 de mayo de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 343 y 347-E, para la obra: AMPLIACIÓN REPOSICIÓN RUTA V-85, SECTOR: HUITO - CALBUCO, que figuran a nombre de MONTANA VASQUEZ SERGIO y ROSAS GOMEZ LIDIA INES, roles de avalúo 167-130 y 560-23, Comuna de CALBUCO, REGIÓN DE LOS LAGOS, superficies 6.410 y 1.061 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, PATRICIA ANGELICA MORALES RIVERA y ANDRES ECHEVERRIA CAMPO, mediante informe de tasación de 16 de mayo de 2019, fijó el monto de la indemnización provisional en la cantidad de $51.326.320, para el lote Nº343 y $4.589.355, para el lote Nº347-E. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
