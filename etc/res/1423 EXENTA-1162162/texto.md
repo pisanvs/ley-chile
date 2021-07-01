@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.423, de fecha 4 de mayo de 2021, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 8212-17, correspondiente al inmueble ubicado en Flor de Quillen 01675 Dp. 21, Rol de Avalúo Nº 8212-17, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de BTG Pactual Financiamiento con G, con una superficie aproximada de 42,95 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Marta Brunet del sector Bajos de Mena". La Comisión de Peritos integrada por los señores Constanza González Vergara, Arquitecto; Eric Ehrenfeld Allera, Arquitecto e Ingrid Von Osten Yáñez, Ingeniero Civil, mediante Informe de fecha 6 de noviembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $19.349.492, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
