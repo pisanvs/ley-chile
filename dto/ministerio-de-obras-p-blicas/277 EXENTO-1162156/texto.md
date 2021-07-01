@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°277, de 26 de mayo de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c) y 14° letra e) del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, y artículo 12° de la Ley N° 18.777, se expropió para la Empresa ESSBIO S.A. el lote de terreno N° 1, para la obra: PD: AUMENTO DE CAPACIDAD HIDRÁULICA PTAS QUIRIHUE. PEP I.08-13276, que figura a nombre de OVIEDO MONTERO JULIO ALFONSO, rol de avalúo 310-393, Comuna de QUIRIHUE, REGION DE ÑUBLE, superficie 5.440,95 m2. La Comisión de Peritos integrada por ANDRES JAVIER TOBAR BELUZAN, LEONARDO EUGENIO FASCE CASANUEVA y GONZALO ANDRES SUAZO FIGUEROA, mediante informe de tasación de 19 de octubre de 2020, fijó el monto de la indemnización provisional en la cantidad de $111.507.727 para el lote N°1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
