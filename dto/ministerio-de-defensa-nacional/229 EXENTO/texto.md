@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto exento Nº 229, de 13 de abril de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Sociedad Química y Minera de Chile S.A., RUT 93.007.000-9, décimo cuarta renovación de concesión marítima menor, con vencimiento el 30 de junio de 2026, sobre un sector de porción de agua, en el sector denominado Bahía del Puerto de Tocopilla, comuna y provincia de Tocopilla, Región de Antofagasta, la que fue tramitada con el SIABC Nº 38991. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): Vértice B; Latitud S 22º 05'07,91" y Longitud W 70º 12'19,05". El objeto de esta concesión marítima sobre la porción de agua otorgada, consiste en mantener fondeada una (1) boya para amarrar naves de hasta 65.000 TRG. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Tocopilla. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Tocopilla, 18 de junio de 2021.- Esteban Cáceres Avello, Teniente Primero, Capitán de Puerto de Tocopilla.
