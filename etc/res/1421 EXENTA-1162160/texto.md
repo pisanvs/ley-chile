@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.421, de fecha 4 de mayo de 2021, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 8211-11, correspondiente al inmueble ubicado en Aguas Abajo 3765, Depto. 33, Rol de Avalúo Nº 8211-11, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Santander Giaretti Gabriel Ramón, con una superficie aproximada de 42,98 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Marta Brunet del sector Bajos de Mena". La Comisión de Peritos integrada por los señores Constanza González Vergara, arquitecto; Eric Ehrenfeld Allera, arquitecto e Ingrid Von Osten Yáñez, ingeniero civil, mediante Informe de fecha 6 de noviembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $19.227.617, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
