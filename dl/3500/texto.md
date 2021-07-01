@@ -858,13 +858,13 @@ Ninguna persona natural o jurídica que no se hubiere constituido conforme a las
 
 Tampoco podrá poner en su local u oficina, plancha o aviso que contenga expresiones que indiquen que se trata de una Administradora, ni podrá hacer uso de membretes, carteles, títulos, formularios, recibos, circulares o cualquier otro papel que contenga nombres u otras palabras que indiquen que los negocios a que se dedican dichas personas son los de Administradora. Les estará, asimismo, prohibido efectuar propaganda por la prensa u otro medio de publicidad en que se haga uso de tales expresiones.
 
-Las infracciones a este artículo se sancionarán con las penas que contempla el artículo 3° del decreto ley N° 280, de 1974.
+Las infracciones a este artículo se sancionarán con la pena de presidio menor en sus grados mínimo a medio.
 
 En todo caso si a consecuencia de estas actividades ilegales, el público sufriere perjuicio de cualquier naturaleza, los responsables serán castigados con las penas establecidas en el artículo 467 del Código Penal, aumentadas en un grado.
 
-La Superintendencia de Administradoras de Fondos de Pensiones, pondrá los antecedentes a disposición de la Fiscalía Nacional Económica para que ésta, si fuere procedente, inicie las acciones pertinentes, sin perjuicio de la acción pública para denunciar estos delitos.
+La Superintendencia de Pensiones pondrá los antecedentes a disposición del Ministerio Público para que éste, si fuere procedente, inicie las acciones pertinentes, sin perjuicio de la acción pública para denunciar estos delitos.
 
-Cuando a juicio de la Superintendencia de Administradoras de Fondos de Pensiones, pueda presumirse que existe una infracción a lo dispuesto en este artículo, ella tendrá respecto de los presuntos infractores las mismas facultades de inspección que su ley orgánica le confiere para con las instituciones fiscalizadas.
+Cuando a juicio de la Superintendencia de Pensiones, pueda presumirse que existe una infracción a lo dispuesto en este artículo, ella tendrá respecto de los presuntos infractores las mismas facultades de inspección que su ley orgánica le confiere para con las instituciones fiscalizadas.
 
 Cualquier persona u organismo público o privado que tome conocimiento de alguna infracción a lo dispuesto en este artículo, podrá también efectuar la denuncia correspondiente a la Superintendencia.
 
@@ -1936,7 +1936,7 @@ Por su parte, bajo la modalidad de retiro programado y renta temporal se deberá
 
 c) Informar al afiliado que realiza la consulta, los montos mensuales de pensión ofrecidos, de acuerdo a lo señalado en la letra b) anterior.
 
-Podrán también participar del Sistema a que alude este artículo, en las mismas condiciones requeridas a las Administradoras de Fondos de Pensiones y a las Compañías de Seguros de Vida, las sociedades filiales bancarias a que se refiere la letra a) del artículo 70, del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que efectúen asesorías previsionales y los asesores previsionales, previamente autorizados por las Superintendencias de Pensiones y de Valores y Seguros.
+Podrán también participar del Sistema a que alude este artículo, en las mismas condiciones requeridas a las Administradoras de Fondos de Pensiones y a las Compañías de Seguros de Vida, las sociedades filiales bancarias a que se refiere la letra a) del artículo 70, del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que efectúen asesorías previsionales y los asesores previsionales, previamente autorizados por la Superintendencia de Pensiones.
 
 Las Administradoras de Fondos de Pensiones, las Compañías de Seguros de Vida y los asesores previsionales que participen en el Sistema de Consultas y Ofertas de Montos de Pensión, deberán garantizar la prestación ininterrumpida e integrada del servicio que presta dicho Sistema, de forma que permita a cada uno de ellos recibir y transmitir las consultas y ofertas señaladas en este artículo. Para la incorporación de los partícipes al Sistema, sólo se podrá exigir una retribución eficiente, no discriminatoria y de acuerdo a la estructura de costos del servicio.
 
@@ -1946,7 +1946,7 @@ El que obtenga beneficio patrimonial ilícito mediante fraude al afiliado o a su
 
 Una norma de carácter general que dictarán conjuntamente las Superintendencias de Administradoras de Fondos de Pensiones y de Valores y Seguros, regulará las materias relacionadas con el Sistema de Consultas y Ofertas de Montos de Pensión. Dicha norma establecerá, a lo menos, la información que deberá transmitirse, los plazos a que deberá sujetarse aquella, los estándares que los partícipes deberán cumplir en la interconexión entre ellos, incluidos los niveles de seguridad concordantes con los principios de transferencia electrónica de datos y la información que deberá proporcionarse al afiliado.
 
-Respecto de los fondos efectivamente traspasados desde la cuenta de capitalización individual del afiliado, con exclusión de aquellos que eran susceptibles de ser retirados como excedente de libre disposición, las Compañías de Seguros de Vida sólo podrán pagar, directa o indirectamente, a los intermediarios o agentes de ventas que intervengan en la comercialización de rentas vitalicias, una comisión o retribución que no podrá ser superior a aquella tasa máxima fijada como un porcentaje de dichos fondos. Dicho guarismo tendrá una duración de veinticuatro meses a partir de la vigencia de esta ley. Expirado dicho plazo, este guarismo podrá ser fijado nuevamente mediante decreto supremo conjunto de los Ministerios de Hacienda y de Trabajo y Previsión Social, previo requerimiento contenido en resolución fundada de las Superintendencias de Administradoras de Fondos de Pensiones y de Valores y Seguros. Dicha resolución considerará antecedentes técnicos relevantes solicitados, entre otras, a las entidades fiscalizadas. En todo caso, con al menos quince días de anterioridad a la emisión de la referida resolución, el nuevo guarismo propuesto y sus fundamentos serán de conocimiento público. Cada vez que se efectúe una modificación a la mencionada comisión, el nuevo guarismo tendrá una vigencia de veinticuatro meses.
+Respecto de los fondos efectivamente traspasados desde la cuenta de capitalización individual del afiliado, las Compañías de Seguros de Vida sólo podrán pagar, directa o indirectamente, a los intermediarios, agentes de ventas o a los Asesores Previsionales que intervengan en la comercialización de rentas vitalicias, una comisión o retribución que no podrá ser superior a aquella tasa máxima fijada como un porcentaje de dichos fondos. Las referidas comisiones máximas serán fijadas mediante decreto supremo emitido conjuntamente por el Ministerio de Hacienda y el Ministerio del Trabajo y Previsión Social, el cual podrá distinguir entre la comisión máxima a pagar a un agente de ventas de la Compañía de Seguros, o la que corresponda a un Asesor Previsional. Asimismo, el referido decreto supremo podrá establecer comisiones diferenciadas según el saldo destinado a pensión. Mientras no se modifiquen las referidas comisiones máximas vigentes mediante la dictación de un decreto supremo en los términos regulados en el presente inciso, los guarismos que se encuentren en aplicación mantendrán su vigencia.
 
 Las Compañías de Seguros de Vida no podrán pagar a sus dependientes, a los intermediarios y agentes de venta de renta vitalicia u otras personas que intervengan en la comercialización de éstas, ninguna otra remuneración variable, honorarios, bonos, premios o pagos por concepto de la intermediación o venta de rentas vitalicias, sean ellos en dinero o especies que excedan el monto de la comisión por intermediación o retribución por venta a que se refiere el inciso anterior, como tampoco financiar los gastos en que deban incurrir para su cometido. Se exceptúan de esta disposición las remuneraciones fijas y permanentes y otros beneficios laborales de carácter general, permanentes, uniformes y universales, que emanen de un contrato de trabajo como dependiente con la respectiva Compañía.
 
@@ -2213,6 +2213,78 @@ Si una vez enterado el aporte adicional y constituido el saldo de la cuenta de c
 Asimismo, si una vez iniciado el pago de las pensiones se presentare un beneficiario cuya calidad de tal no se hubiere acreditado oportunamente, las pensiones de sobrevivencia que se hubieren determinado inicialmente deberán recalcularse, con el objeto de que se incluyan todos los beneficiarios. En estos casos, las nuevas pensiones que resulten serán determinadas en función del saldo remanente en la cuenta individual del afiliado, o de las reservas no liberadas que mantengan las Compañías de Seguros, en la forma que determine el reglamento. Para ello deberán reliquidarse las pensiones según la modalidad que corresponda, a la fecha en que el nuevo beneficiario reclame el beneficio. Estos nuevos beneficiarios devengarán su pensión a contar de dicha fecha.
 
 > **Nota.** El artículo 5º de la LEY 18.646, publicada el 29.08.1987, dispuso que las modificaciones introducidas al presente artículo entrarán en vigencia el día primero del mes siguiente a aquel en que se cumplan ciento veinte días de publicada.
+
+#### Artículo 70 bis
+
+Todo afiliado que sea certificado como enfermo terminal por el Consejo Médico a que se refiere el artículo 70 ter tendrá derecho a percibir una pensión calculada como una renta temporal a doce meses, la que será pagada por la Administradora a que estuviera afiliado a la fecha del pago, con cargo al saldo de su cuenta de capitalización individual de cotizaciones obligatorias, una vez reservado el capital necesario para pagar las pensiones de sobrevivencia y la cuota mortuoria, cuando corresponda. El afiliado podrá solicitar reducir la renta temporal antes indicada hasta el valor de la pensión básica solidaria vigente para mayores de ochenta años, y, en este caso, la diferencia podrá ser retirada como excedente de libre disposición. Si determinada la reserva, el saldo fuese insuficiente para financiar una renta temporal de monto igual a la pensión básica solidaria vigente para los mayores de ochenta años, por un período de doce meses, el saldo de la cuenta individual se destinará a financiar la renta temporal del afiliado hasta el monto que sea necesario para tales efectos.
+
+El capital necesario para pagar las pensiones de sobrevivencia y la cuota mortuoria a que hace referencia el inciso primero se calculará de acuerdo con las normas contenidas en esta ley, en consideración a la expectativa de vida de los beneficiarios al término de la renta temporal, y a los porcentajes a que se refiere el artículo 58, respecto de la pensión de referencia, que se define a continuación:
+
+a) En el caso de afiliados activos, la pensión de referencia corresponderá al 70% del ingreso base si se encuentra cubierto por el seguro de invalidez y sobrevivencia, y al 100% del retiro programado, en el caso de afiliados no cubiertos.
+
+b) Tratándose de pensionados por vejez e invalidez total definitiva, la pensión de referencia será la última pensión calculada de conformidad con el artículo 65 de esta ley.
+
+c) En el caso de pensionados por invalidez parcial definitiva, la pensión de referencia será la última pensión calculada de conformidad con el artículo 65 de esta ley. Si al momento del cálculo de la última pensión no se encontraba liberado el saldo retenido, la pensión deberá recalcularse considerando dicho saldo.
+
+d) Los pensionados por invalidez parcial transitoria, al momento de ser certificados como enfermos terminales, serán considerados inválidos totales y se les aplicará la regla de cálculo de la letra a).
+
+Los pensionados por vejez, vejez anticipada, invalidez total o sobrevivencia, que estén afectos a las modalidades de retiro programado, retiro programado con renta vitalicia inmediata y renta temporal con renta vitalicia diferida, en los dos últimos casos siempre que estén en goce de la renta temporal o el retiro programado respectivamente, y que presenten una condición de enfermo terminal, tendrán derecho a un recálculo de su pensión en los términos establecidos en el inciso primero. Para efectuar dicho recálculo, se considerará, además, la parte del saldo destinado a la aplicación del factor de ajuste a que se refiere el inciso tercero del artículo 65 de esta ley.
+
+Asimismo, podrán acogerse al derecho contemplado en este artículo los pensionados de conformidad a lo dispuesto en el Título V de la ley N° 16.744, que establece normas sobre accidentes del trabajo y enfermedades profesionales, cuyas prestaciones serán compatibles con los beneficios que contemple este cuerpo legal.
+
+Al presentarse una solicitud de certificación de enfermo terminal por parte de un afiliado no pensionado o pensionado por invalidez parcial con pensiones transitorias, en ambos casos cubiertos por el seguro de invalidez y sobrevivencia, la Administradora deberá generar automáticamente una solicitud de calificación de invalidez o reevaluación de invalidez, según corresponda, la que derivará a la Comisión Médica Regional respectiva para su tramitación en un procedimiento prioritario, de conformidad con las normas impartidas por la Superintendencia al efecto, acompañando copia de los antecedentes médicos aportados por el solicitante. La Comisión Médica Regional dispondrá de un plazo de siete días hábiles para emitir su dictamen, contado desde la fecha en que se reciba la solicitud o se disponga de la totalidad de los antecedentes médicos requeridos en la norma técnica que emitirá la Superintendencia. Si la Comisión Médica Regional no se pronuncia dentro del plazo señalado en este inciso, se entenderá declarado inválido total al solicitante que ha sido certificado como enfermo terminal. Tanto el afiliado como la compañía de seguros podrán apelar del dictamen de la Comisión Médica Regional dentro de los tres días hábiles siguientes a su notificación, de acuerdo con un procedimiento simplificado ante la Comisión Médica Central, que constará de las siguientes etapas: i) recepción de la apelación; ii) análisis de los antecedentes por el médico asignado al caso, quien podrá, de ser necesario, solicitar antecedentes adicionales; iii) presentación del caso a sesión y resolución inmediata. La Comisión Médica Central deberá pronunciarse dentro de los siguientes tres días hábiles contados desde la recepción de los antecedentes solicitados. Los aspectos operativos del procedimiento simplificado serán definidos mediante una norma de carácter general de la Superintendencia de Pensiones. Si el afiliado fallece durante el proceso de calificación de invalidez encontrándose certificado como enfermo terminal, se entenderá declarado inválido total para todos los efectos legales.
+
+Para los efectos de lo dispuesto en el inciso anterior, el Consejo Médico deberá, dentro del plazo de un día hábil contado desde la fecha de la certificación, informar sobre aquella a las Comisiones Médicas Regional o Central en que se esté tramitando el procedimiento, por la vía más expedita posible.
+
+Para el cálculo del aporte adicional a que se refiere el artículo 53 de esta ley, se considerará el saldo existente en la cuenta de capitalización individual del afiliado, incluido el bono de reconocimiento, si corresponde, a la fecha de presentación de la solicitud de certificación.
+
+El otorgamiento y cálculo de los beneficios del Pilar Solidario establecido en la ley N° 20.255 no se verán modificados por entrar el pensionado en goce de la prestación que establece este artículo.
+
+En el caso de un pensionado que se encuentre percibiendo una pensión con aporte previsional solidario y fuese certificado como enfermo terminal por el Consejo Médico, la pensión que percibirá como renta temporal deberá calcularse en base al saldo que hubiese quedado en su cuenta individual obligatoria de no haberse financiado el beneficio del sistema de pensiones solidarias con recursos de dicha cuenta. Las citadas pensiones se financiarán con el saldo remanente de la cuenta individual. Cuando éste sea insuficiente, serán financiadas con recursos del Estado.
+
+Si el enfermo terminal tuviese una sobrevida superior a doce meses, el total del saldo que exista en su cuenta individual se destinará al pago de la renta temporal por el monto que hasta esa fecha estaba percibiendo.
+
+En ningún caso el afiliado certificado como enfermo terminal podrá optar por una pensión bajo la modalidad de renta vitalicia.
+
+Para efecto de lo dispuesto en esta ley, se entenderá por enfermo terminal toda persona con una enfermedad o condición patológica grave que haya sido diagnosticada, de carácter progresivo e irreversible, sin tratamiento específico curativo o que permita modificar su sobrevida, o bien cuando los recursos terapéuticos utilizados han dejado de ser eficaces, y con una expectativa de vida inferior a doce meses.
+
+Los criterios para acreditar la condición de enfermo terminal estarán contenidos en una norma técnica elaborada por la Superintendencia de Pensiones.
+
+La solicitud de certificación de enfermo terminal debe presentarse en la respectiva Administradora debiendo acompañar un certificado médico, cuyo contenido mínimo será determinado mediante una norma de carácter general que dicte la Superintendencia de Pensiones y por la declaración de beneficiarios de pensión de sobrevivencia, cuando se trate de afiliados no pensionados. El médico tratante y el director médico, o su equivalente, del establecimiento de salud público o privado que corresponda, deberán suscribir el referido certificado.
+
+Tanto los establecimientos de salud públicos y privados, como el médico tratante, deberán informar al afiliado de su posible condición de enfermo terminal y estarán obligados a proporcionar al paciente y/o al Consejo Médico los antecedentes de respaldo que les sean requeridos para estos efectos.
+
+Una norma conjunta de la Superintendencia de Pensiones y de la Superintendencia de Salud, actuando esta última a través de la Intendencia de Fondos y Seguros Previsionales de Salud, definirá los plazos y forma en que se entregarán los antecedentes señalados en el inciso anterior.
+
+Presentada la solicitud de certificación en calidad de enfermo terminal, la Administradora deberá remitir los antecedentes al Consejo Médico dentro del plazo de dos días hábiles contado desde la fecha de recepción de la solicitud. La Administradora deberá, en forma previa a la remisión de la solicitud, verificar los siguientes antecedentes: i) calidad de afiliado activo o pensionado del solicitante; ii) existencia de fondos disponibles en la cuenta de capitalización individual del afiliado; iii) certificado médico debidamente suscrito por el médico tratante y el director médico, o su equivalente, del establecimiento de salud; iv) acreditación de beneficiarios de pensión de sobrevivencia y v) cobertura del seguro de invalidez y sobrevivencia.
+
+Dentro del plazo de cinco días hábiles contado desde la recepción de la solicitud de certificación de enfermo terminal, y en el caso que los antecedentes presentados permitan certificar que se cumple esta condición, el Consejo Médico deberá así resolverlo y notificar al afiliado y a la Administradora de Fondos de Pensiones respectiva, preferentemente por medios electrónicos, la que deberá proceder al pago de la pensión, de acuerdo con lo señalado en el inciso primero de este artículo.
+
+El plazo señalado en el inciso precedente podrá suspenderse en caso de que el Consejo Médico estime necesario solicitar antecedentes adicionales. En todo caso, el Consejo tendrá un plazo máximo de diez días hábiles para emitir su pronunciamiento, contado desde la fecha de recepción de la solicitud de certificación.
+
+El afiliado podrá apelar fundadamente del rechazo a la solicitud de certificación de enfermo terminal ante el Consejo Médico de Apelaciones regulado en el artículo 70 ter, dentro de los cinco días hábiles siguientes a su notificación. Dicho Consejo deberá pronunciarse dentro de los siguientes cinco días hábiles, desde presentada la apelación. Este plazo podrá ampliarse por hasta cinco días hábiles si, por motivos fundados, el Consejo estimare necesario requerir antecedentes adicionales.
+
+La fiscalización de la certificación de la calidad de enfermo terminal corresponderá a la Superintendencia de Pensiones.
+
+Las rentas temporales que se paguen de acuerdo con este artículo no estarán afectas a comisiones por parte de la Administradora.
+
+Todas las notificaciones que se realicen en virtud de lo dispuesto en este artículo deberán efectuarse preferentemente a través de medios electrónicos, según lo determine la norma de carácter general establecida para estos efectos.
+
+#### Artículo 70 ter
+
+El Consejo Médico a que se refiere el artículo 70 bis estará conformado por salas integradas por tres médicos cirujanos seleccionados por la Superintendencia, a través de concurso. No obstante, cuando el número de los casos a revisar lo amerite, otros médicos cirujanos designados en la forma señalada, podrán integrar la respectiva Comisión, la que siempre sesionará con a lo menos dos de sus integrantes. En cada una de las salas, uno de sus miembros será designado Presidente por el Superintendente de Pensiones, mediante resolución. El reglamento regulará la organización y el funcionamiento propio del Consejo, la forma en que se seleccionará a los médicos cirujanos y el régimen aplicable a éstos, las exigencias que deberán cumplir, así como las facultades que tendrán para el cumplimiento de su cometido.
+
+El Presidente de una de las salas, designado por la Superintendencia, tendrá a su cargo la coordinación y representación del Consejo ante autoridades de organismos públicos y privados.
+
+El número de salas del Consejo Médico será determinado por la Superintendencia a través de una resolución fundada, de acuerdo con el número de solicitudes estimado por ella y con los recursos que se consulten anualmente en la Ley de Presupuestos del Sector Público.
+
+Existirá un Consejo Médico de Apelaciones conformado por, a lo menos, una sala integrada por tres médicos cirujanos seleccionados por la Superintendencia, a través de concurso. No obstante, cuando el número de los casos a revisar lo amerite, otros médicos cirujanos designados en la forma señalada, podrán integrar el respectivo Consejo, el que siempre sesionará con a lo menos dos de sus integrantes.
+
+Uno de los miembros será designado Presidente del Consejo por el Superintendente de Pensiones, mediante resolución. El Presidente del Consejo Médico de Apelación tendrá la representación de dicho Consejo ante las autoridades de instituciones públicas y privadas. El reglamento señalado en el inciso primero deberá regular las mismas materias respecto del Consejo Médico de Apelaciones.
+
+El número de salas del Consejo Médico de Apelaciones será determinado por la Superintendencia a través de una resolución fundada, de acuerdo con el número de apelaciones estimado por ésta.
+
+Todo el soporte necesario para el funcionamiento del Consejo Médico y del Consejo Médico de Apelaciones será otorgado por la Superintendencia de Pensiones.
 
 ### Párrafo 7º — Disposiciones Generales
 
@@ -2750,7 +2822,7 @@ n) Recursos originados en cotizaciones voluntarias, depósitos convenidos o dep�
 
 #### Artículo 98 bis
 
-Las Superintendencias de Pensiones y de Valores y Seguros establecerán, mediante Resolución conjunta, los procedimientos de fiscalización respecto del sistema de consultas y ofertas de montos de pensión a que se refiere el artículo 61 bis, de los pagos de beneficios y pensiones reguladas por esta ley que efectúen las Compañías de Seguros de Vida, de los Asesores Previsionales a que se refiere el Título XVII de la presente ley, como asimismo del pago de las contingencias del Seguro de Invalidez y Sobrevivencia a que se refiere el artículo 59.
+Las Superintendencias de Pensiones y de Valores y Seguros establecerán, mediante Resolución conjunta, los procedimientos de fiscalización respecto del sistema de consultas y ofertas de montos de pensión a que se refiere el artículo 61 bis, de los pagos de beneficios y pensiones reguladas por esta ley que efectúen las Compañías de Seguros de Vida, como asimismo del pago de las contingencias del Seguro de Invalidez y Sobrevivencia a que se refiere el artículo 59.
 
 > **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el presente artículo regirá a contar del primer día del séptimo mes siguiente al de su publicación.
 
@@ -3662,101 +3734,111 @@ De la Asesoría Previsional
 
 La asesoría previsional tendrá por objeto otorgar información a los afiliados y beneficiarios del Sistema, considerando de manera integral todos los aspectos que dicen relación con su situación particular y que fueren necesarios para adoptar decisiones informadas de acuerdo a sus necesidades e intereses, en relación con las prestaciones y beneficios que contempla esta ley. Dicha asesoría comprenderá además la intermediación de seguros previsionales. Esta asesoría deberá prestarse con total independencia de la entidad que otorgue el beneficio.
 
-Respecto de los afiliados y beneficiarios que cumplan los requisitos para pensionarse y de los pensionados bajo la modalidad de retiro programado, la asesoría deberá informar en especial sobre la forma de hacer efectiva su pensión según las modalidades previstas en el artículo 61 de esta ley, sus características y demás beneficios a que pudieren acceder según el caso, con una estimación de sus montos.
+Respecto de los afiliados y beneficiarios que cumplan los requisitos para pensionarse y de los pensionados bajo la modalidad de retiro programado, la asesoría deberá informar en especial sobre la forma de hacer efectiva su pensión según las modalidades previstas en el artículo 61 de esta ley, sus características y demás beneficios a que pudieren acceder según el caso, con una estimación de sus montos. Las personas naturales o jurídicas que presten asesoría previsional en los términos antes indicados serán denominados "Asesores Previsionales" o "Entidades de Asesoría Previsional", respectivamente.
 
-> **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el nuevo Título XVII, que incluye el presente artículo, regirá a contar del primer día del séptimo mes siguiente al de su publicación.
+Sin perjuicio de lo anterior, las personas naturales o jurídicas que realicen las actividades del inciso primero de este artículo de forma no personalizada, dirigidas por cualquier medio a afiliados, beneficiarios o pensionados del Sistema o a grupos específicos de aquellos, respecto de esta materia, incluyendo las transferencias entre tipos de Fondos de Pensiones, serán considerados como "Asesores Financieros Previsionales" o "Entidades de Asesoría Financiera Previsional", los que se regirán por todas las normas aplicables a los Asesores Previsionales o las Entidades de Asesoría Previsional, según corresponda, a menos que se indique lo contrario. Los Asesores Financieros Previsionales y las Entidades de Asesoría Financiera Previsional, estarán sujetos a la fiscalización conjunta de la Superintendencia de Pensiones y de la Comisión para el Mercado Financiero, debiendo todas las normas de carácter general que emita la Superintendencia de Pensiones para regular a los Asesores Financieros Previsionales y las Entidades de Asesoría Financiera Previsional, ser dictadas mediante resolución conjunta con la Comisión para el Mercado Financiero.
+
+Para efectos de lo dispuesto en este artículo, se considerará como asesoría previsional otorgada por Asesores Financieros Previsionales o Entidades de Asesoría Financiera Previsional, toda aquella asesoría y/o recomendación no personalizada dirigida, por cualquier medio, a afiliados, beneficiarios o pensionados del Sistema o a grupos específicos de aquellos. Esta asesoría no requerirá de la consideración integral de los aspectos que dicen relación con la situación particular del asesorado para que sea considerada asesoría previsional.
 
 #### Artículo 172
 
-Créase el Registro de Asesores Previsionales, que mantendrán en forma conjunta las Superintendencias de Pensiones y de Valores y Seguros, en el cual deberán inscribirse las personas o entidades que desarrollen la actividad de asesoría previsional a que alude el artículo anterior. Para tal efecto, deberán dar cumplimiento a las exigencias que se establecen en el presente Título y en lo que se refiere al procedimiento de inscripción en el registro a las normas de carácter general que al respecto dicten conjuntamente las mencionadas Superintendencias.
+Créase el Registro de Asesores Previsionales, que mantendrá la Superintendencia de Pensiones, en el cual deberán inscribirse los Asesores Previsionales y las Entidades de Asesoría Previsional que desarrollen la actividad de asesoría previsional a que aluden los incisos primero y segundo del artículo anterior. Para tal efecto, deberán dar cumplimiento a las exigencias que se establecen en el presente Título y en lo que se refiere al procedimiento de inscripción en el Registro, a las normas de carácter general que al respecto dicte la mencionada Superintendencia.
 
-> **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el presente artículo regirá a contar del primer día del séptimo mes siguiente al de su publicación.
+Adicionalmente, créase el Registro de Asesores Financieros Previsionales, que mantendrán en forma conjunta la Comisión para el Mercado Financiero y la Superintendencia de Pensiones, en el cual deberán inscribirse los Asesores Financieros Previsionales y las Entidades de Asesoría Financiera Previsional que desarrollen la actividad de asesoría previsional no personalizada a la que aluden los incisos tercero y cuarto del artículo anterior. Para tal efecto, deberán dar cumplimiento a las exigencias que se establecen en el presente Título y en lo que se refiere al procedimiento de inscripción en el Registro, a las resoluciones conjuntas que al respecto dicten la Superintendencia de Pensiones y la Comisión para el Mercado Financiero.
 
-### 2. De las Entidades de Asesoría Previsional y de
+Dichas autoridades, según sus competencias y en cada uno de los registros antes indicados, podrán establecer, mediante norma de carácter general, requisitos diferenciados para los Asesores Previsionales, las Entidades de Asesoría Previsional, los Asesores Financieros Previsionales y las Entidades de Asesoría Financiera Previsional en función del tipo de asesoría previsional que presten, así como la clase de destinatarios que tales asesorías contemplen.
 
-los Asesores Previsionales.
+2. De las Entidades de Asesoría Previsional, los Asesores Previsionales, las Entidades de Asesoría Financiera Previsional y de los Asesores Financieros Previsionales.
 
 #### Artículo 173
 
-Las Entidades de Asesoría Previsional serán sociedades constituidas en Chile con el objeto específico de otorgar servicios de asesoría previsional a los afiliados y beneficiarios del Sistema.
+Las Entidades de Asesoría Previsional serán sociedades constituidas en Chile con el objeto específico de otorgar servicios de asesoría previsional a los afiliados y beneficiarios del Sistema, de conformidad a los incisos primero y segundo del artículo 171. Las Entidades de Asesoría Financiera Previsional serán sociedades constituidas en Chile con el objeto específico de otorgar servicios de asesoría previsional a los afiliados y beneficiarios del Sistema de conformidad a los incisos tercero y cuarto del artículo 171.
 
-Sus socios, administradores, representantes legales y las personas que tengan a su cargo realizar las funciones de asesoría previsional, deberán reunir los requisitos y estarán sujetas a las obligaciones que se establecen en este Título.
+Sus socios, accionistas, administradores, representantes legales y las personas que tengan a su cargo realizar las funciones de asesoría previsional, deberán reunir los requisitos y estarán sujetas a las obligaciones que se establecen en este Título.
 
-Las Entidades de Asesoría Previsional y los Asesores Previsionales deberán acreditar ante las Superintendencias de Pensiones y de Valores y Seguros la contratación de una póliza de seguros para responder del correcto y cabal cumplimiento de todas las obligaciones emanadas de su actividad y, especialmente, de los perjuicios que puedan ocasionar a los afiliados o beneficiarios que contraten sus servicios de asesoría previsional.
+Las Entidades de Asesoría Previsional, los Asesores Previsionales, las Entidades de Asesoría Financiera Previsional y los Asesores Financieros Previsionales deberán acreditar ante la Superintendencia de Pensiones la constitución de una garantía, mediante boleta de garantía bancaria o la contratación de una póliza de seguros que, al efecto, autorice la Comisión para el Mercado Financiero, para responder del correcto y cabal cumplimiento de todas las obligaciones emanadas de su actividad y, especialmente, de los perjuicios que puedan ocasionar a los afiliados, beneficiarios o pensionados que contraten sus servicios de asesoría previsional.
 
-La póliza de seguros a que se refiere el inciso anterior deberá constituirse por un monto no inferior a la cantidad más alta entre 500 unidades de fomento y el 30% de la suma del saldo destinado a pensión de la cuenta de capitalización individual de los afiliados que asesoró en el año inmediatamente anterior, por las primeras 15.000 Unidades de Fomento, y de un 10% por el exceso sobre esta cifra, con un máximo de 60.000 unidades de fomento.
-
-> **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el presente artículo regirá a contar del primer día del séptimo mes siguiente al de su publicación.
+La garantía a que se refiere el inciso anterior deberá constituirse por el monto que determine la Superintendencia de Pensiones, según los parámetros establecidos en una norma de carácter general que dicte para tal efecto, pudiendo incluirse distinciones según el tipo de asesoría previsional y el prestador de ésta, tales como Asesores Previsionales, Entidades de Asesoría Previsional, Asesores Financieros Previsionales o Entidades de Asesoría Financiera Previsional, o el impacto de aquellas en el patrimonio de los afiliados o beneficiarios. Sin perjuicio de lo anterior, el referido monto no podrá ser menor a 500 unidades de fomento, ni mayor a 60.000 unidades de fomento. Para el caso de los Asesores Financieros Previsionales y de las Entidades de Asesoría Financiera Previsional, el monto de la garantía aplicable deberá ser determinada por la Superintendencia de Pensiones y la Comisión para el Mercado Financiero, mediante resolución conjunta.
 
 #### Artículo 174
 
-Los socios, los administradores, los representantes legales de las Entidades de Asesoría Previsional y sus dependientes que desempeñen la función de asesoría previsional, así como los Asesores Previsionales, deberán cumplir con los siguientes requisitos:
+Los socios, accionistas, los administradores, los representantes legales de las Entidades de Asesoría Previsional y las Entidades de Asesoría Financiera Previsional y sus dependientes que desempeñen la función de asesoría previsional, así como los Asesores Previsionales y los Asesores Financieros Previsionales, deberán cumplir con los siguientes requisitos:
 
-a) Ser mayor de edad, chileno o extranjero con residencia en Chile y cédula de identidad de extranjería al día;
+a) Ser mayor de edad, chileno o extranjero, ambos con residencia en Chile y tener cédula de identidad al día.
 
-b) Tener antecedentes comerciales intachables;
+b) Tener antecedentes comerciales intachables.
 
-c) Estar en posesión, a lo menos, de licencia de educación media o estudios equivalentes;
+c) Estar en posesión, a lo menos, de licencia de educación media o estudios equivalentes.
 
 d) Acreditar los conocimientos suficientes sobre materias previsionales y de seguros.
 
-El cumplimiento de los requisitos a que se refiere el inciso anterior será acreditado en la forma y periocidad que establezcan las Superintendencias de Pensiones y de Valores y Seguros mediante norma de carácter general conjunta.
+El cumplimiento de los requisitos a que se refiere el inciso anterior será acreditado en la forma y periodicidad que establezca la Superintendencia de Pensiones mediante norma de carácter general. La Superintendencia, para todos los efectos de este artículo, podrá licitar el diseño, aplicación, corrección y cobro de la prueba de conocimientos suficientes en una institución de educación superior, acreditada en la Comisión Nacional de Acreditación, creada por la ley Nº 20.129. La Superintendencia podrá diferenciar la acreditación de conocimientos a que se refiere la letra d), en función del tipo de actividad de asesoría previsional que desempeñe el Asesor Previsional, la Entidad de Asesoría Previsional, el Asesor Financiero Previsional o la Entidad de Asesoría Financiera Previsional. Con todo, la Superintendencia de Pensiones, en conjunto con la Comisión para el Mercado Financiero, determinarán las materias necesarias para la acreditación de conocimientos en materia de asesoría previsional que requerirán acreditar los Asesores Previsionales y los socios, accionistas, administradores y representantes legales de las Entidades de Asesoría Previsional. Las precitadas entidades deberán establecer exigencias homogéneas para los Asesores Previsionales y los socios, accionistas, administradores y representantes legales de las Entidades de Asesoría Previsional y para los agentes de ventas de rentas vitalicias. Por otra parte, los Asesores Financieros Previsionales y los socios, accionistas, administradores y representantes legales de las Entidades de Asesoría Financiera Previsional, deberán acreditar el cumplimiento de los requisitos antes indicados en la forma y periodicidad que la Superintendencia de Pensiones y la Comisión para el Mercado Financiero determinen mediante norma de carácter general dictada conjuntamente por ambas instituciones. Asimismo, corresponderá a dichas instituciones determinar las materias necesarias para la acreditación de conocimientos, que requerirán acreditar los Asesores Financieros Previsionales y los socios, accionistas, administradores y representantes legales de las Entidades de Asesoría Financiera Previsional.
 
-No podrán ser socios, administradores, dependientes que desempeñen la función de asesoría previsional, representantes legales de una Entidad de Asesoría Previsional o Asesores Previsionales, las personas que se encuentren en cualquiera de las situaciones siguientes:
+No podrán ser socios, accionistas, administradores, dependientes que desempeñen la función de asesoría previsional, representantes legales de una Entidad de Asesoría Previsional, o de Entidades de Asesoría Financiera Previsional, Asesores Previsionales o Asesores Financieros Previsionales, las personas que se encuentren en cualquiera de las situaciones siguientes:
 
-a) Los procesados o condenados por delito que merezca pena aflictiva;
+a) Los acusados o condenados por delito que merezca pena aflictiva;
 
 b) Los que tengan actualmente la calidad de deudor en un procedimiento concursal de liquidación, y quienes tengan prohibición de comerciar, y
 
-c) Las personas sancionadas con la revocación de su inscripción en alguno de los registros que lleven o regulen las Superintendencias de Pensiones, Valores y Seguros y Bancos e Instituciones Financieras, o los que hayan sido administradores, directores o representantes legales de una persona jurídica sancionada de igual manera, a no ser que hayan salvado su responsabilidad en la forma que prescribe la ley.
+c) Las personas sancionadas con la revocación de su inscripción en alguno de los registros que lleven o regulen la Superintendencia de Pensiones y la Comisión para el Mercado Financiero, o los que hayan sido administradores, directores o representantes legales de una persona jurídica sancionada de igual manera, a no ser que hayan salvado su responsabilidad en la forma que prescribe la ley.
 
-No podrán ser Asesores Previsionales ni directores, gerentes, apoderados o dependientes de una sociedad de Asesoría Previsional, quienes sean directores, gerentes, apoderados o dependientes de una Administradora de Fondos de Pensiones, aseguradora, reaseguradora, liquidadora de siniestros o entidades que conformen el grupo empresarial de estas sociedades.
+No podrán ser Asesores Previsionales ni Asesores Financieros Previsionales ni directores, socios, accionistas, ejecutivos principales, gerentes, apoderados o dependientes de una Entidad de Asesoría Previsional o Entidad de Asesoría Financiera Previsional, quienes sean directores, socios, accionistas, ejecutivos principales, gerentes, apoderados o dependientes de una Administradora de Fondos de Pensiones, aseguradora, reaseguradora, liquidadora de siniestros o entidades que conformen el grupo empresarial de estas sociedades.
 
-> **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el presente artículo regirá a contar del primer día del séptimo mes siguiente al de su publicación.
+Los socios, accionistas, directores, gerentes, ejecutivos principales, apoderados o dependientes de agencias de valores, corredoras de bolsa, Sociedad Administradora de Fondos de Cesantía o de administradoras de la ley Nº 20.712, o entidades que conformen el grupo empresarial de aquellas:
+
+a) No podrán ser Asesores Financieros Previsionales.
+
+b) No podrán ser socios, accionistas, directores, gerentes, ejecutivos principales, apoderados o dependientes de Entidades de Asesoría Financiera Previsional.
+
+Los socios, accionistas, directores, gerentes, ejecutivos principales, apoderados o dependientes de Entidades de Asesoría Financiera Previsional y sus parientes por consanguinidad o afinidad, ambos en segundo grado en línea recta y colateral:
+
+a) No podrán ejercer la función de administración de cartera en los términos definidos en el inciso segundo del artículo 153 de esta ley.
+
+b) Les estará prohibido valerse, directa o indirectamente, en beneficio propio o de terceros relacionados, de las variaciones en los precios de mercado que se deriven de las recomendaciones que hayan efectuado a sus clientes. Para la fiscalización de esta prohibición, la Superintendencia, en conjunto con la Comisión para el Mercado Financiero podrán celebrar convenios de colaboración de intercambio de información y/o monitoreo con el Banco Central de Chile.
+
+Con el objeto de velar por el cumplimiento de las disposiciones de este artículo, la Superintendencia, mediante norma de carácter general, determinará la información que deberán mantener las Entidades de Asesoría Previsional, las Entidades de Asesoría Financiera Previsional, los Asesores Previsionales y los Asesores Financieros Previsionales, el archivo de registros que llevarán y aquella información que deberán remitir a la Superintendencia. Sin perjuicio de ello, para el caso de las Entidades de Asesoría Financiera Previsional y los Asesores Financieros Previsionales, dicha norma de carácter general deberá ser dictada de forma conjunta por la Superintendencia de Pensiones y la Comisión para el Mercado Financiero.
+
+El que contravenga lo dispuesto en los incisos anteriores será sancionado de conformidad a lo establecido en la presente ley y en el decreto con fuerza de ley Nº 101, de 1980, del Ministerio de Trabajo y Previsión Social. Para el caso de los Asesores Financieros Previsionales y las Entidades de Asesoría Financiera Previsional también serán aplicables las sanciones establecidas en el decreto ley Nº 3.538, de 1980.
 
 #### Artículo 175
 
-Respecto de las personas o entidades que hayan acreditado el cumplimiento de los requisitos para ejercer la actividad de asesoría previsional referidos en los artículos precedentes, las Superintendencias de Pensiones y de Valores y Seguros dictarán una Resolución conjunta que ordene su inscripción en el registro respectivo, conceda la autorización para funcionar y fije un plazo para iniciar sus actividades.
+Respecto de las personas o entidades que hayan acreditado el cumplimiento de los requisitos para ejercer la actividad de asesoría previsional referidos en los artículos precedentes, la Superintendencia de Pensiones dictará una resolución que ordene su inscripción en el registro respectivo, conceda la autorización para funcionar y fije un plazo para iniciar sus actividades. Para el caso de las Entidades de Asesoría Financiera Previsional y los Asesores Financieros Previsionales, dicha resolución deberá ser dictada de forma conjunta por la Superintendencia de Pensiones y la Comisión para el Mercado Financiero.
 
-Será responsabilidad de las Entidades de Asesoría Previsional llevar un registro de los dependientes que desempeñen la función de asesoría, debiendo instruirlos y capacitarlos para el desarrollo de dichas funciones. Asimismo, estarán obligadas a otorgar todas las facilidades que se requieran para efectuar el control que respecto de estas materias determinen las Superintendencias antes mencionadas.
-
-> **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el presente artículo regirá a contar del primer día del séptimo mes siguiente al de su publicación.
+Será responsabilidad de las Entidades de Asesoría Previsional y las Entidades de Asesoría Financiera Previsional llevar un registro de los dependientes que desempeñen la función de asesoría, debiendo instruirlos y capacitarlos para el desarrollo de dichas funciones. Asimismo, estarán obligadas a otorgar todas las facilidades que se requieran para efectuar el control que respecto de estas materias determine la Superintendencia de Pensiones y la Comisión para el Mercado Financiero, según corresponda.
 
 #### Artículo 176
 
-Las Entidades de Asesoría Previsional y los Asesores Previsionales responderán hasta de la culpa leve en el cumplimiento de las funciones derivadas de las asesorías previsionales que otorguen a los afiliados o sus beneficiarios y estarán obligadas a indemnizar los perjuicios por el daño que ocasionen. Lo anterior, no obsta a las sanciones administrativas que asimismo pudieren corresponderles.
+Las Entidades de Asesoría Previsional, los Asesores Previsionales, las Entidades de Asesoría Financiera Previsional y los Asesores Financieros Previsionales responderán hasta de la culpa leve en el cumplimiento de las funciones derivadas de las asesorías previsionales que otorguen a los afiliados o sus beneficiarios y estarán obligadas a indemnizar los perjuicios por el daño que ocasionen. Lo anterior, no obsta a las sanciones administrativas que asimismo pudieren corresponderles.
 
-Por las Entidades de Asesoría Previsional responderán además, sus socios y administradores, civil, administrativa y penalmente, a menos que constare su falta de participación o su oposición al hecho constitutivo de infracción o incumplimiento.
+Por las Entidades de Asesoría Previsional y las Entidades de Asesoría Financiera Previsional responderán, además, sus socios, accionistas y administradores, civil, administrativa y penalmente, a menos que constare su falta de participación o su oposición al hecho constitutivo de infracción o incumplimiento.
 
-Las Entidades de Asesoría Previsional y los Asesores Previsionales estarán sometidos a la supervigilancia, control y fiscalización de las Superintendencias de Pensiones y de Valores y Seguros, las que para ello estarán investidas de las facultades establecidas en esta ley, en el decreto con fuerza de ley N° 251, de 1931, del Ministerio de Hacienda, según corresponda, y en sus respectivas leyes orgánicas.
+Las Entidades de Asesoría Previsional, los Asesores Previsionales, las Entidades de Asesoría Financiera Previsional y los Asesores Financieros Previsionales estarán sometidos a la supervigilancia, control y fiscalización de la Superintendencia de Pensiones que, para ello, estará investida de las facultades establecidas en esta ley y en su ley orgánica. En el caso de los Asesores Financieros Previsionales y las Entidades de Asesoría Financiera Previsional, dicha supervigilancia, control y fiscalización deberá ser efectuada en forma conjunta con la Comisión para el Mercado Financiero, conforme a lo indicado en el artículo 171 de esta ley. Para tales efectos, la Comisión para el Mercado Financiero estará investida de las facultades establecidas en esta ley y en su ley orgánica.
 
-Asimismo, los dependientes de las Entidades de Asesoría Previsional encargados de la prestación del servicio, quedarán sujetos al control y fiscalización de las Superintendencias de Pensiones y de Valores y Seguros, las que tendrán respecto de aquéllos las mismas facultades a que se refiere el inciso anterior.
-
-> **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el presente artículo regirá a contar del primer día del séptimo mes siguiente al de su publicación.
+Asimismo, los dependientes de las Entidades de Asesoría Previsional y las Entidades de Asesoría Financiera Previsional encargados de la prestación del servicio, quedarán sujetos al control y fiscalización de la Superintendencia de Pensiones y de la Comisión para el Mercado Financiero, según corresponda, las cuales tendrán respecto de aquéllos las mismas facultades a que se refiere el inciso anterior.
 
 #### Artículo 177
 
-La cancelación por revocación o eliminación en el Registro de Asesores Previsionales de una Entidad de Asesoría Previsional o de un Asesor Previsional, procederá respectivamente:
+La cancelación por revocación o eliminación en el Registro de Asesores Previsionales o en el Registro de Asesores Financieros Previsionales de una Entidad de Asesoría Previsional, de un Asesor Previsional, de una Entidad de Asesoría Financiera Previsional o de un Asesor Financiero Previsional, procederá respectivamente:
 
-a) Cuando alguno de aquéllos incurra en infracción grave de ley, y
+a) Cuando alguno de aquéllos incurra en infracción grave de ley, o
 
-b) En el caso que no mantengan vigente el seguro referido en el artículo 173 de esta ley.
+b) En el caso que no mantengan vigente la boleta de garantía bancaria o el seguro referido en el artículo 173 de esta ley.
 
-La declaración de infracción grave de ley corresponderá a las Superintendencias de Pensiones y de Valores y Seguros conjuntamente y deberá estar fundada en alguna de las disposiciones establecidas en esta ley.
+La declaración de infracción grave de ley corresponderá a la Superintendencia de Pensiones y deberá estar fundada en alguna de las disposiciones establecidas en esta ley. Sin perjuicio de ello, en el caso de cancelación, revocación o eliminación de una Entidad de Asesoría Financiera Previsional o de un Asesor Financiero Previsional del Registro de Asesores Financieros Previsionales, dicha declaración de infracción grave de ley corresponderá a la Superintendencia de Pensiones conjuntamente con la Comisión para el Mercado Financiero.
 
-Declarada la infracción grave o constatado el incumplimiento señalado en la letra b) del inciso primero, las Superintendencias de Pensiones y de Valores y Seguros dictarán conjuntamente una resolución fundada que ordene cancelar la inscripción de la Entidad de Asesoría Previsional o del Asesor Previsional del Registro de Asesores Previsionales y revoque la autorización para funcionar.
+Declarada la infracción grave o constatado el incumplimiento señalado en la letra b) del inciso primero, la Superintendencia de Pensiones dictará una resolución fundada que ordene cancelar la inscripción de la Entidad de Asesoría Previsional, del Asesor Previsional, de la Entidad de Asesoría Previsional no Personalizada o del Asesor Previsional no Personalizado del Registro de Asesores Previsionales o del Registro de Asesores Financieros Previsionales, según corresponda, y revoque la autorización para funcionar.
 
-> **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el presente artículo regirá a contar del primer día del séptimo mes siguiente al de su publicación.
+Asimismo, la Superintendencia de Pensiones podrá suspender del registro correspondiente, mediante resolución fundada y por un plazo máximo de seis meses, renovable por una vez, a las Entidades de Asesoría Previsional, los Asesores Previsionales, las Entidades de Asesoría Financiera Previsional o los Asesores Financieros Previsionales en los casos en que no se cumpla con las normas necesarias para el adecuado desarrollo de tales actividades, o cuando así lo requiera el interés público.
+
+Sin perjuicio de lo anterior, la cancelación, revocación o suspensión de Entidades de Asesoría Financiera Previsional o de Asesores Financieros Previsionales del Registro de Asesores Financieros Previsionales, deberá efectuarse mediante resolución conjunta de la Superintendencia de Pensiones y de la Comisión para el Mercado Financiero.
 
 ### 3. De la contratación de la Asesoría Previsional
 
 #### Artículo 178
 
-Para los efectos de prestar la asesoría previsional, deberá celebrarse un contrato de prestación de servicios entre la Entidad de Asesoría Previsional o el Asesor Previsional y el afiliado o sus beneficiarios, según corresponda, el que establecerá los derechos y obligaciones de ambas partes y cuyo contenido mínimo será establecido mediante norma de carácter general que dictarán en forma conjunta las Superintendencias de Pensiones y de Valores y Seguros.
+Para los efectos de prestar la asesoría previsional, deberá celebrarse un contrato de prestación de servicios entre la Entidad de Asesoría Previsional, el Asesor Previsional, la Entidad de Asesoría Previsional Financiera o el Asesor Financiero Previsional y el afiliado o sus beneficiarios, según corresponda, el que establecerá los derechos y obligaciones de ambas partes y cuyo contenido mínimo será establecido mediante norma de carácter general que dictará la Superintendencia de Pensiones. Para el caso de las Entidades de Asesoría Financiera Previsional y los Asesores Financieros Previsionales, dicha norma de carácter general deberá ser dictada en conjunto con la Comisión para el Mercado Financiero.
 
-La contratación de una asesoría previsional es voluntaria para el afiliado o sus beneficiarios, según corresponda, y en ningún caso podrá comprender la obligación de aquéllos de acoger la recomendación que por escrito les fuere proporcionada por el Asesor Previsional.
-
-> **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el presente artículo regirá a contar del primer día del séptimo mes siguiente al de su publicación.
+La contratación de una asesoría previsional es voluntaria para el afiliado o sus beneficiarios, según corresponda, y en ningún caso podrá comprender la obligación de aquéllos de acoger la recomendación que por escrito les fuere proporcionada por la Entidad de Asesoría Previsional, el Asesor Previsional, la Entidad de Asesoría Financiera Previsional o el Asesor Financiero Previsional.
 
 #### Artículo 179
 
@@ -3764,27 +3846,21 @@ Los afiliados o beneficiarios de pensión no podrán pagar honorarios por concep
 
 Los afiliados o beneficiarios de pensión, según corresponda, que cumplan los requisitos para pensionarse podrán, al momento de seleccionar modalidad de pensión de retiro programado, pagar honorarios por concepto de servicios de asesoría previsional, con cargo a la cuenta de capitalización individual, hasta el monto que resulte de multiplicar una tasa máxima fijada mediante el decreto supremo conjunto a que se refiere el inciso decimocuarto del artículo 61 bis, por el saldo de dicha cuenta destinado a esta modalidad de pensión. Cuando se seleccione una modalidad de pensión de renta vitalicia, los honorarios por concepto de asesoría previsional corresponderán a la comisión o retribución a que alude el inciso decimocuarto del artículo 61 bis y se pagarán en la forma señalada en dicho inciso. En todo caso, la tasa máxima a que se refiere la primera oración de este inciso y el monto máximo a pagar por concepto de asesoría previsional, que se establezcan para la modalidad de pensión de retiro programado, deberán ser inferiores a los que se determinen para la modalidad de renta vitalicia.
 
-Con todo, los honorarios totales por concepto de asesoría previsional no podrán superar el 2% de los fondos de la cuenta de capitalización individual del afiliado destinados a pensión, con exclusión de aquellos que eran susceptibles de ser retirados como excedente de libre disposición, ni podrán exceder un monto equivalente a 60 UF.
+Con todo, los honorarios totales por concepto de asesoría previsional no podrán superar el 1,5 de los fondos de la cuenta de capitalización individual del afiliado destinados a pensión, ni podrán exceder un monto equivalente a 60 unidades de fomento.
 
 Las Administradoras y las compañías de seguros de vida no podrán efectuar pago alguno distinto al establecido en este artículo a los asesores previsionales, sean ellos en dinero o especies, como tampoco podrán financiar los gastos en que deban incurrir para su cometido.
-
-> **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el presente artículo regirá a contar del primer día del séptimo mes siguiente al de su publicación.
 
 ### 4. Otras Disposiciones
 
 #### Artículo 180
 
-Ninguna persona natural o jurídica que no se encontrare inscrita en el registro a que se refiere el artículo 172, podrá arrogarse la calidad de asesor previsional, siendo aplicables en lo que corresponda, los incisos segundo y siguientes del artículo 25 de esta ley.
+Ninguna persona natural o jurídica que no se encontrare inscrita en alguno de los registros a que se refiere el artículo 172 podrá arrogarse la calidad de Entidad de Asesoría Previsional, de Asesor Previsional, de Entidad de Asesoría Financiera Previsional o de Asesor Financiero Previsional, según corresponda. Podrán ser sancionados con multas de 20 hasta 200 unidades tributarias mensuales quienes actuaren como Entidad de Asesoría Previsional, Asesores Previsionales, Entidad de Asesoría Financiera Previsional o Asesores Financieros Previsionales, sin estar inscritos en el correspondiente registro, o cuya inscripción hubiere sido suspendida o eliminada, y los que a sabiendas les faciliten los medios para hacerlo. De la aplicación de estas multas, podrá reclamarse en la forma establecida en el número 8 del artículo 94. Asimismo, les serán aplicables, en lo que corresponda, los incisos segundo, cuarto, quinto, sexto y final del artículo 25.
 
-Se reserva el uso de la denominación "Entidad de Asesoría Previsional" y de "Asesor Previsional" para las personas jurídicas y naturales a que se refiere el número dos de este Título.
-
-> **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el presente artículo regirá a contar del primer día del séptimo mes siguiente al de su publicación.
+Se reserva el uso de la denominación "Entidad de Asesoría Previsional", "Asesor Previsional", "Entidad de Asesoría Financiera Previsional" y de "Asesor Financiero Previsional" para las personas jurídicas y naturales a que se refiere este Título.
 
 #### Artículo 181
 
-Los socios, administradores y representantes legales de una Entidad de Asesoría Previsional y sus dependientes que cumplan funciones de asesoría previsional, así como las personas naturales inscritas en el registro, no podrán otorgar bajo ninguna circunstancia a los afiliados o sus beneficiarios otros incentivos o beneficios diferentes a los propios de la asesoría, sea en forma directa o indirecta, ni aun a título gratuito o de cualquier otro modo.
-
-> **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el presente artículo regirá a contar del primer día del séptimo mes siguiente al de su publicación.
+Los socios, accionistas, administradores y representantes legales de una Entidad de Asesoría Previsional o de una Entidad de Asesoría Financiera Previsional y sus dependientes que cumplan funciones de asesoría previsional, así como las personas naturales inscritas en el registro respectivo, según corresponda, no podrán otorgar bajo ninguna circunstancia a los afiliados o sus beneficiarios otros incentivos o beneficios diferentes a los propios de la asesoría, sea en forma directa o indirecta, ni aun a título gratuito o de cualquier otro modo.
 
 ## Título XVIII
 
