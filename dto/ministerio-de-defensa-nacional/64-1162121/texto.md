@@ -1,0 +1,9 @@
+MODIFICACIÓN SUSTANCIAL DE CONCESIÓN MARÍTIMA MAYOR
+
+Decreto supremo N° 64, de fecha 18 de febrero de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Ramón Ángel Millaldeo Antiñanco, RUT 8.647.784-K, modificación sustancial de la concesión marítima mayor otorgada mediante decreto supremo N° 90 de fecha 01 de febrero de 2007, con vencimiento al 30 de junio de 2027. La modificación requerida consiste en ampliar la superficie otorgada, y de reemplazar el objeto por el siguiente: amparar una marina para la atención de embarcaciones comerciales, transferencia de carga, naves de turismo y deportivas, lo que incluye un atracadero flotante, un varadero y un arrastradero, un área para maniobras y una pasarela basculante y muelle fijo que servirá como infraestructura de apoyo al atracadero flotante.
+
+El o los sectores requeridos corresponden sobre un sector playa, fondo de mar y porción de agua, y se encuentran ubicados en el lugar denominado Punta de Lapa, Quellón Viejo, comuna de Quellón, Provincia de Chiloé, Región de Los Lagos. La nueva superficie requerida corresponde a 3.660,553 m². A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s):
+
+Las nuevas obras consisten en amparar una marina para la atención de embarcaciones comerciales, transferencia de carga, naves de turismo y deportivas, un par de áreas para varadero, un patio de trabajo, un atracadero fijo flotante, y 4 (cuatro) boyas de amarre para naves menores, desde los 25 hasta los 200 TGR y el plazo contemplado para su ejecución es de dieciocho meses posteriores a su fecha de inicio. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Quellón. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
+
+Quellón, 8 de junio de 2021.- Ricardo Henríquez Kremer, Capitán de Corbeta LT, Capitán de Puerto Quellón.
