@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 1.087 de fecha 18 de junio de 2021, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno N° 10-D para la ejecución Proyecto "Obras complementarias normalización Hospital de Quellón", Provincia de Chiloé, Región de Los Lagos, que figura a nombre de Romo Catalán Freddy Mauricio, rol de avalúo según SII N° 49-29 (Rol Matriz 167-58), comuna de Quellón, superficie 5,67 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher Guarda, Enrique Edgardo Hoelck Altmann y Raúl Palma Larrea, designados por resolución exenta N° 650 de 16 de abril de 2021, fijó con fecha 26 de mayo de 2021, el valor provisional de la indemnización en la suma de $680.400. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley N° 2.186.-
+
+Directora Regional (S) Serviu Región de Los Lagos.
