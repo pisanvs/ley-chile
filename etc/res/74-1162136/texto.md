@@ -1,0 +1,5 @@
+ACTO ADMINISTRATIVO N° 2021/FC/05/74 DE FECHA 1 DE FEBRERO DE 2021 FORMULA CARGOS
+
+La Superintendencia de Educación, por Acto Administrativo N° 2021/FC/05/74, de fecha 1 de febrero de 2021, en relación a Acta de Fiscalización N° 200500668, de fecha 17.09.2020, se Formula Cargos al Sostenedor Corporación Educacional Crecer Villa Alemana, RUT N° 65.164.136-5, del siguiente tenor. 1. Formúlese el siguiente cargo: Sostenedor No Rinde Cuenta, de los recursos percibidos por subvención general en el año 2019. 2. Téngase presente que el sostenedor dispone de un plazo de 10 días hábiles para presentar descargos y medios de prueba, de acuerdo al artículo 70 de la ley N° 20.529, los que deben ser enviados a los siguientes correos electrónicos: ofpartes.valparaiso@supereduc.cl, pia.leiva@supereduc.cl o en la oficina de la Dirección Regional de la Superintendencia de Educación, ubicada en calle Limache N° 3405, piso 3, El Salto, comuna de Viña del Mar, de lunes a viernes, desde las 09:00 horas hasta las 14:00 horas.-
+
+Sybil Abarca Carvajal, Encargada Unidad Jurídica Regional, Superintendencia de Educación Región de Valparaíso.
