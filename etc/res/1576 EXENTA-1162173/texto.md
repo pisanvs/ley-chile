@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.576, de fecha 13 de mayo de 2021, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186, de 1978, del denominado Lote Nº 8211-40, correspondiente al inmueble ubicado en Montana Adentro 01688, DP 14, Rol de Avalúo Nº 8211-40, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Benito Danilo Zúñiga Reyes, con una superficie aproximada de 43,19 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Marta Brunet del sector Bajos de Mena". La Comisión de Peritos integrada por los señores Jaime Jürgens Bittner, ingeniero civil; Paulina Jadue Zaror, arquitecto y Sergio Órdenes Salinas, ingeniero civil, mediante Informe de fecha 5 de octubre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $19.667.373, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
