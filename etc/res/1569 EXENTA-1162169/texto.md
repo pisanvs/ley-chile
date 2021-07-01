@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.569, de fecha 12 de mayo de 2021, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº8211-30, correspondiente al inmueble ubicado en Montana Adentro 01682 DP 22, Rol de Avalúo Nº 8211-30, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Pamela Edith Torres Ramírez, con una superficie aproximada de 42,74 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Marta Brunet del sector Bajos de Mena". La Comisión de Peritos integrada por los señores Jaime Jürgens Bittner, ingeniero civil; Paulina Jadue Zaror, arquitecto y Sergio Ordenes Salinas, ingeniero civil, mediante informe de fecha 5 de octubre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $20.311.923, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
