@@ -32,4 +32,4 @@ a) Avenida Huasco, Avenida Chungará y circuito establecido en tarjeta de recorr
 
 6.- Téngase presente que esta resolución exenta entrará en vigencia a contar de la fecha de su completa tramitación, sin perjuicio de que deberá ser publicada en el Diario Oficial, y en la página del Gobierno Regional de Atacama.
 
-Anótese, comuníquese y publíquese en el Diario Oficial.- Patricio Urquieta García, Intendente Regional, Gobierno Regional de Atacama.
+Anótese, comuníquese y publíquese en el Diario Oficial.- Patricio Urquieta García, Gobierno Regional de Atacama.
