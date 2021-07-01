@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MAYOR
+
+Decreto supremo Nº 86, de fecha 25 de febrero de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Inversiones FB Compañía SpA, RUT Nº 76.392.063-2, Concesión Marítima Mayor, con vencimiento el 31 de diciembre de 2024, sobre un sector de Porción de Agua, en el lugar denominado Bahía Las Ánimas, comuna de Chañaral, Provincia de Chañaral, Región de Atacama, la que fue tramitada con el SIABC Nº 36902. A modo referencial se señalan las siguientes coordenadas geográficas: Boya 1: Lat. 26º23'26.15" S Long. 70º40'42.26" W y Boya 2: Lat. 26º23'25.52" S Long. 70°40'40.72" W. El objeto consiste en amparar la instalación de 2 boyas de amarre para naves de hasta 50 TRG. Las obras consisten en Instalación de Boyas. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Alejandro León Solari, Teniente 1º LT., Capitán de Puerto de Chañaral.
