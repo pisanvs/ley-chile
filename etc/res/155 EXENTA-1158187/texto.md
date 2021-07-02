@@ -52,6 +52,8 @@ Resuelvo:
 
 2. Los plazos correspondientes a los procesos y fases de postulación y selección de este llamado, serán los siguientes:
 
+.
+
 A contar de la fecha de resolución de selección, las Entidades Patrocinantes pueden presentar reclamaciones al proceso ante la Seremi, en un plazo de 5 días hábiles.
 
 3. La condición de Condominio objeto de atención del Programa será acreditada por la Seremi Minvu Región Antofagasta, en atención a los requisitos señalados en el artículo 89 del DS Nº 27 (V. y U.), de 2016.
