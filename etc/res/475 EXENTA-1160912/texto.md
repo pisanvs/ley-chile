@@ -62,9 +62,19 @@ c. Aquellas cirugías mayores ambulatorias efectuadas en centros asistenciales q
 
 Esta medida comenzará a regir desde el día jueves 10 de junio del año 2021, por 30 días, prorrogables si la situación sanitaria así lo amerita.
 
-2. Déjase constancia que las resoluciones que disponen las medidas sanitarias que indican por brote de COVID-19, del Ministerio de Salud, en particular la resolución exenta Nº 43, de 2021, y en las modificaciones posteriores que se hagan a ésta, seguirán vigentes en lo que no fueran contrarias a esta resolución.
+2. Se podrán reanudar las cirugías electivas y mayor ambulatoria en los establecimientos de una región determinada mediante autorización de la dirección del servicio de salud correspondiente a la región, y en coordinación entre los servicios de salud en los casos que exista más de un servicio por región, siempre y cuando se cumpla con los siguientes criterios en forma copulativa:
 
-3. Déjase constancia que el incumplimiento de las medidas impuestas por la autoridad en virtud de esta resolución y las resoluciones señaladas en el numeral anterior serán fiscalizadas y sancionadas según lo dispuesto en el Libro X del Código Sanitario, en el Código Penal y en la ley Nº 20.393, según corresponda.
+1. Mantener el número de camas UCI habilitadas y autorizadas por la Subsecretaría de Redes Asistenciales, conforme al numeral 1 de la resolución exenta N° 334, de 30 de marzo de 2021, de la Subsecretaría de Redes Asistenciales, que instruye el aumento de capacidad de camas UCI a los prestadores públicos y privados de salud cerrados de alta complejidad. En caso de no haber cumplido con lo exigido en el numeral señalado, se entenderá cumplido el criterio según el último número de camas autorizadas por la Subsecretaría de Redes Asistenciales.
+
+2. Evolución a la baja del porcentaje de contagios de los últimos 7 y 14 días, respecto a su propia región, todo según reporte oficial semanal enviado por la SRA.
+
+3. Las regiones con menos de 150 camas UCI habilitadas deberán mantener una ocupación promedio a 7 días menor o igual al 90%.
+
+4. Las regiones con más de 150 camas UCI habilitadas deberán mantener una ocupación promedio a 7 días menor o igual a 95%.
+
+3. Déjase constancia que las resoluciones que disponen las medidas sanitarias que indican por brote de COVID-19, del Ministerio de Salud, en particular la resolución exenta Nº 43, de 2021, y en las modificaciones posteriores que se hagan a ésta, seguirán vigentes en lo que no fueran contrarias a esta resolución.
+
+4. Déjase constancia que el incumplimiento de las medidas impuestas por la autoridad en virtud de esta resolución y las resoluciones señaladas en el numeral anterior serán fiscalizadas y sancionadas según lo dispuesto en el Libro X del Código Sanitario, en el Código Penal y en la ley Nº 20.393, según corresponda.
 
 Anótese, comuníquese y publíquese.- Enrique Paris Mancilla, Ministro de Salud.
 
