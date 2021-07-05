@@ -20,13 +20,21 @@ c) Los correos electrónicos de fecha 5 y 17 de febrero del Jefe de la División
 
 Resolución:
 
-1) Llámase a postulación nacional en condiciones especiales, para el otorgamiento de subsidios habitacionales del Programa de Protección del Patrimonio Familiar, regulado por el DS N° 255 (V. y U.), de 2006, correspondientes al Título II, Mejoramiento de la Vivienda, destinados a financiar la adquisición de materiales de construcción para reparación de la cubierta, para mejorar problemas de filtración por lluvia en sus viviendas, o para la incorporación de canaletas, forros y bajadas de aguas lluvia, entre otros elementos relevantes.
+1. Llámase a postulación nacional extraordinaria de proyectos del Programa de Protección del Patrimonio Familiar, regulado por el DS Nº 255 (V. y U.), de 2006, en su Título II, Mejoramiento de la Vivienda, destinados a financiar la adquisición de materiales de construcción para:
 
-2) El presente llamado considera dos procesos de selección para todas las regiones del país, según el siguiente detalle:
+a) La reparación de cubiertas en las viviendas, con el fin de mejorar problemas de filtración por lluvias, y asegurar su impermeabilidad, reemplazando cubiertas y/o incorporando canaletas, forros, bajadas de aguas lluvia, entre otros elementos relevantes.
+
+b) La ejecución de obras de mantención de la vivienda con el fin de mejorar las condiciones de deterioro presentes en ella, mejorar el estándar de las partidas, por ejemplo, instalando cierros perimetrales y/o, en el caso de las familias beneficiadas con un subsidio de Acondicionamiento Térmico de Primera etapa en una zona con un Plan de Descontaminación Atmosférica vigente, se podrá postular al recambio de ventanas y/o puertas.
+
+2) El presente llamado considera cuatro procesos de selección para todas las regiones del país, según el siguiente detalle:
 
 a) El primer proceso de selección comienza el día de la publicación en el Diario Oficial de la presente resolución exenta y finaliza el 7 de abril de 2021, debiendo digitarse todos los proyectos hasta el 19 de marzo de 2021.
 
 b) El segundo proceso de selección comienza el 26 de abril y cierra el 15 de julio de 2021, debiendo digitarse todos los proyectos hasta el 10 de junio de 2021.
+
+c) El tercer proceso de selección comienza el 01 de julio y cierra el 23 de agosto de 2021. Todos los proyectos podrán digitarse hasta el 30 de julio de 2021, pudiendo acreditarse el ahorro necesario hasta esa misma fecha. Una vez finalizada la digitación, Serviu revisará los proyectos hasta el 23 de agosto de 2021.
+
+d) El cuarto proceso de selección comienza el 01 de agosto y cierra el 30 de septiembre de 2021. Todos los proyectos podrán digitarse hasta el 30 de agosto de 2021, pudiendo acreditarse el ahorro necesario hasta misma esa fecha. Una vez finalizada la digitación, Serviu revisará los proyectos hasta el 30 de septiembre de 2021.
 
 3) La postulación será de carácter individual y el subsidio podrá ser aplicado en alguna de las siguientes modalidades:
 
@@ -40,15 +48,23 @@ No obstante, si la cantidad de postulaciones a la fecha del cierre del llamado e
 
 Para el segundo proceso de postulación cada región aplicará el saldo de recursos con que cuente tras haber culminado la primera selección.
 
-5) La tipología de proyecto posible de atender mediante este llamado corresponderá a Proyectos de Habitabilidad de la Vivienda que tengan relación con obras de reparación de la envolvente de la vivienda, esto es, el arreglo necesario de la cubierta para asegurar la estanquidad de ésta frente a agentes externos como agua y viento. Podrán considerarse otras partidas correspondientes a la incorporación de canaletas, forros, bajadas de aguas lluvia, aislación térmica de la cubierta, entre otros elementos relevantes.
+Para el tercer y cuarto proceso de postulación, cada región aplicará los recursos señalados en la siguiente tabla:
+
+Para el cuarto proceso de postulación, cada región aplicará el saldo de recursos con que cuente tras haber culminado la tercera selección, además de las sumas que pudiesen haber quedado disponibles de las primeras selecciones.
+
+5) La tipología de proyecto posible de atender en los dos primeros procesos de selección de este llamado, corresponderá a Proyectos de Habitabilidad de la Vivienda que tengan relación con obras de reparación de la envolvente de la vivienda. Esto es, el arreglo necesario de la cubierta para asegurar la estanquidad de ésta frente a agentes externos como agua viento. Otras partidas posibles de considerar corresponden a la incorporación de canaletas, forros, bajadas de aguas lluvia, aislación térmica de la cubierta, entre otros elementos relevantes.
+
+Para los últimos procesos de selección de este llamado se podrán postular además proyectos de la línea de mantención, que buscan mejorar elementos deteriorados de la vivienda o para mejorar el estándar de las partidas, pero además en el caso de las familias beneficiadas con un subsidio de Acondicionamiento Térmico de Primera etapa en una zona con un Plan de Descontaminación Atmosférica vigente, se podrá postular al recambio de ventanas y/o puertas para cumplir los estándares de transmitancia exigidas en dichos Planes para dichos elementos.
 
 6) El monto de subsidio que se otorgará a cada beneficiado en el presente llamado será de 40 Unidades de Fomento por concepto de subsidio base, más 3 Unidades de Fomento por concepto de Asistencia Técnica.
 
 7) Establécense para el presente llamado las siguientes condiciones especiales:
 
-7.1) Se considerarán como viviendas objeto del Programa, además de las señaladas en el artículo 3° del DS N° 255 (V. y U.), de 2006, las viviendas con avalúo fiscal de hasta 950 Unidades de Fomento y las viviendas construidas o financiadas, total o parcialmente, con un subsidio habitacional entregado por el Serviu o sus antecesores legales.
+7.1) Se considerarán como viviendas objeto del Programa, además de las señaladas en el artículo 3° del DS N° 255 (V. y U.), de 2006, las viviendas con avalúo fiscal de hasta 950 Unidades de Fomento y las viviendas construidas o financiadas, total o parcialmente, con un subsidio habitacional entregado por el Serviu o sus antecesores legales. No obstante en el caso de Adultos Mayores se permitirá postular con viviendas con Avalúos hasta las 1500 UF.
 
 7.2) Sólo podrán ser objeto de mejoramiento las viviendas unifamiliares, entendidas como tales aquellas que, independientemente de su sistema de agrupamiento, no correspondan a una Copropiedad Tipo A en altura.
+
+No obstante lo anterior, para el tercer y cuarto proceso de selección podrán participar unidades habitacionales de una Copropiedad Tipo A en Altura, para efectuar arreglos en su interior.
 
 7.3) Se deberá postular utilizando como mecanismo de calificación socioeconómica el Registro Social de Hogares (RSH), sin que se requiera pertenecer a un tramo específico, no obstante, dará mayor puntaje a las familias más vulnerables, según su calificación socioeconómica.
 
@@ -56,7 +72,7 @@ Para el segundo proceso de postulación cada región aplicará el saldo de recur
 
 a) Ser propietario, asignatario o cónyuge de alguno de ellos.
 
-b) Ser arrendatario u ocupante legal de una vivienda. En el caso de los arrendatarios, se deberá presentar una copia simple del contrato de arriendo. En caso que el contrato de arriendo no conste por escrito o en otros casos de ocupantes legales, se deberá presentar la autorización del propietario, la cual deberá explicitar la voluntad de este de permitir obras destinadas a mejorar el inmueble. En ambos casos, para identificar al propietario, será necesario presentar copia de su cédula de identidad y Certificado de Dominio Vigente del inmueble que será objeto del mejoramiento.
+b) Ser arrendatario, comodatario, usufructuario u ocupante legal de una vivienda. En el caso de los arrendatarios, se deberá presentar una copia simple del contrato de arriendo. En caso que el contrato de arriendo no conste por escrito o en otros casos de ocupantes legales, se deberá presentar la autorización del propietario, la cual deberá explicitar la voluntad de éste de permitir obras destinadas a mejorar el inmueble. En ambos casos, para identificar al propietario, será necesario presentar Certificado de Dominio Vigente del inmueble que será objeto del mejoramiento y copia de la cédula de identidad del propietario.
 
 El beneficiario arrendatario no podrá requerir al arrendador al pago de las mejoras realizadas, por cuanto estas serán financiadas mediante el subsidio obtenido por este llamado, sin embargo, el financiamiento del ahorro requerido para postular podrá ser acordado entre las partes.
 
@@ -78,7 +94,7 @@ c) Declaración jurada simple del postulante, en que señale que él o su cónyu
 
 d) El contrato de prestación de Servicios de Asistencia Técnica celebrado entre el Prestador de Servicios de Asistencia Técnica (PSAT) y el beneficiario.
 
-e) Declaración jurada simple del postulante, en que declare que los materiales de construcción adquiridos mediante este subsidio serán utilizados para el mejoramiento de la techumbre de su vivienda y que, en caso de aplicar un porcentaje del subsidio a servicios de construcción, cuenta con los medios para procurar la mano de obra o, en su defecto, puede realizarlos personalmente.
+e) Declaración jurada simple del postulante, en que declare que los materiales de construcción adquiridos mediante este subsidio serán utilizados para el mejoramiento de su vivienda y que, en caso de aplicar un porcentaje del subsidio a servicios de construcción, cuenta con los medios para procurar la mano de obra o, en su defecto, puede realizarlos personalmente.
 
 En caso que aplique un porcentaje del subsidio para la contratación de mano de obra, en la misma declaración debe indicar que no tiene relación de parentesco con el ejecutor de las obras.
 
@@ -102,7 +118,13 @@ f) Declaración jurada simple del postulante, en que declare estar en pleno cono
 
 8.7) De lo dispuesto en el artículo 37, del párrafo XVI del Capítulo Primero, referido a los documentos exigidos para el pago del subsidio.
 
-9) Apruébase el listado de materiales y herramientas de construcción que podrán ser adquiridos mediante este subsidio, necesarios para efectuar las reparaciones de la techumbre o de las filtraciones, el cual se adjunta como anexo a esta resolución, pasando a formar parte integrante de la misma. De ser requerido, se podrá autorizar al Serviu para que mediante resoluciones fundadas incorpore a este listado nuevos materiales o herramientas.
+9) Apruébase los listados de materiales y herramientas de construcción que podrán ser adquiridos mediante este subsidio.
+
+El primero se refiere a los necesarios para efectuar las reparaciones de la techumbre o de las filtraciones, el cual se adjunta como anexo a esta resolución, pasando a formar parte integrante de la misma.
+
+El segundo listado es más extenso y comprende todos los materiales, requeridos para las obras de mantención en la vivienda, incluidas las obras para cierros perimetrales, terminaciones, cambios de puertas y ventanas, estas últimas pueden comprender además su instalación.
+
+Sin embargo, en caso de ser requerido, se podrá autorizar a cada Serviu para que mediante resoluciones fundadas pueda incorporar a estos listados nuevos materiales o herramientas.
 
 10) El valor de los materiales deberá ajustarse a lo indicado en la letra s) del artículo 16, en relación al artículo 36, ambos del DS N° 255 (V. y U.), de 2006, según lo establecido en la tabla de valores referenciales de construcción. En caso de no cumplirse con lo anterior, el Serviu podrá dar curso al pago, pudiendo eliminar al proveedor de la nómina de proveedores respectiva.
 
@@ -110,7 +132,7 @@ f) Declaración jurada simple del postulante, en que declare estar en pleno cono
 
 11.1.) Los interesados deberán dirigirse a los PSAT, ya sean municipales o privados o a profesionales independientes del área de la construcción habilitados. Estos efectuarán el diagnóstico señalado en el resuelvo 7), numeral 7.8) letra b), pudiendo utilizar información y material fotográfico. Si de acuerdo al diagnóstico la vivienda requiere reparación, los postularán al presente llamado.
 
-11.2) El PSAT ingresará a Serviu los documentos señalados en el resuelvo 7), numeral 7.8) precedente, debiendo los beneficiarios depositar su ahorro en el plazo señalado en el resuelvo 7.6) precedente. Si el postulante es beneficiado, podrá acceder a su tarjeta virtual personalizada con sus datos en una plataforma que se destinará para este efecto. El subsidio se liberará en una sola carga, permitiendo al beneficiario realizar hasta un máximo de cuatro compras de materiales y herramientas de construcción en centros ferreteros u otros comercios destinados a su venta.
+11.2) El PSAT ingresará a Serviu los documentos señalados en el resuelvo 7), numeral 7.8) precedente, debiendo los beneficiarios depositar su ahorro en el plazo señalado en el resuelvo 7.6) precedente. Si el postulante es beneficiado, en proyectos de techumbre, podrá acceder a su tarjeta virtual personalizada con sus datos en una plataforma que se destinará para este efecto. En el caso de los beneficiarios de proyectos de mantención, se les entregará una tarjeta física. El subsidio se liberará en una sola carga, permitiendo al beneficiario realizar hasta un máximo de cuatro compras de materiales y herramientas de construcción en centros ferreteros u otros comercios destinados a su venta.
 
 12) Aquellos proveedores de materiales de construcción que deseen participar en el presente llamado, deberán dar cumplimiento a los siguientes requisitos:
 
@@ -202,7 +224,9 @@ El Serviu deberá revisar el detalle de la o las boletas y/o facturas presentada
 
 20) Mediante resolución del Ministerio de Vivienda y Urbanismo se aprobarán las nóminas de los postulantes seleccionados y la redistribución de recursos a que se refiere el resuelvo 4) de la presente resolución. La difusión de dichas nóminas se realizará por los Serviu en los términos previstos en el DS N° 255 (V. y U.), de 2006, y en la página web del Minvu.
 
-21) Los subsidios a que se refiere la presente resolución, tendrán una vigencia de 12 meses a contar de la fecha de la resolución de selección.
+No obstante lo anterior, el Seremi podrá modificar, mediante resolución, las selecciones en el sentido de excluir personas que por error hayan postulado a más de una vez a proyectos del mismo tipo en estos llamados.
+
+21) Los subsidios a que se refiere la presente resolución, tendrán una vigencia de 14 meses a contar de la fecha de la resolución de selección.
 
 22) Para definir el número máximo personas a ser atendidas por el PSAT, según su categoría, 4 beneficiarios de este llamado se contarán como 1 para esos fines, dado que las acciones de los PSAT en este llamado son menores que las que debe llevar a cabo en postulaciones regulares.
 
@@ -219,6 +243,8 @@ El Serviu deberá revisar el detalle de la o las boletas y/o facturas presentada
 5) Los Profesionales Independientes no podrán estar vinculados a otras Entidades de Asistencia Técnica como parte del equipo acreditado en el CRAT.
 
 6) Para postular proyectos, los profesionales deben informar al Serviu hasta el día 19 de marzo de 2021, a fin de coordinar una inducción en el uso del sistema computacional de postulación.
+
+En el caso de la tercera selección, los profesionales independientes interesados en postular familias deben informar a Serviu como máximo el 26 de julio del 2021 para que este coordine una inducción en el uso del sistema computacional de postulación. En el caso de la cuarta selección, dichos profesionales deberán informar a Serviu su participación como máximo el 27 de agosto del 2021, para que se coordine la inducción del sistema computacional.
 
 24) Para dar inicio a los procesos de selección del presente llamado no será necesario cumplir con el plazo de 30 días señalado en el inciso tercero del artículo 13 del DS N°255 (V. y U.), de 2006.
 
