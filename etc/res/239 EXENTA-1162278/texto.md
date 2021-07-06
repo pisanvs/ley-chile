@@ -1,0 +1,9 @@
+PUBLICA RESOLUCIÓN QUE SE INDICA
+
+De conformidad con lo dispuesto en el artículo 30 bis de la ley N° 19.300, se comunica que mediante resolución exenta Nº 239, de la Dirección Regional del Servicio de Evaluación Ambiental de Antofagasta de fecha 29 de junio de 2021, se ha resuelto dar inicio a un proceso de participación ciudadana en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental (DIA) del proyecto "Parque Fotovoltaico Latorre Sunlight", presentado por Latorre Sunlight SpA, por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 94 del DS N° 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental. El proyecto consistirá en la construcción y operación de un parque fotovoltaico con una potencia instalada de 15,24 MegaWatts la cual será evacuada al Sistema Eléctrico Nacional a través de una línea de transmisión eléctrica de media tensión y de una longitud aproximada de 330 metros. El proyecto tendrá una vida útil de 40 años.
+
+Cualquier persona, natural o jurídica, podrá formular observaciones al proyecto ante la Dirección Regional del SEA, ubicada en Avda. República de Croacia N° 0336, Antofagasta, o bien accediendo al portal www.sea.gob.cl. El plazo de 20 días hábiles para efectuar observaciones se contará a partir del día hábil siguiente a la última publicación del extracto de la resolución que da inicio al proceso de Participación Ciudadana.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA, en la dirección antes señalada. Además, puede acceder a dicha resolución a través del sitio web www.sea.gob.cl.-
+
+Ramón Guajardo Perines, Director Regional, Servicio de Evaluación Ambiental.
