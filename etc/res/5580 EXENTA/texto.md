@@ -20,7 +20,7 @@ a. Estar ubicados, en un terreno no inundable y alejado de focos de insalubridad
 
 b. Mantener el área exterior de la planta limpia, sin equipos en desuso, plagas, animales domésticos o cualquier otro objeto que pudiera constituir un peligro de contaminación del producto que se prepara, procesa, envasa, almacena, comercializa o distribuye desde el establecimiento.
 
-c. Disponer de vías de tránsito interiores, pavimentadas o asfaltadas.
+c. Disponer de vías de tránsito interiores, pavimentadas, asfaltadas, o de un material estabilizado, compactado y no inundable, que evite el levantamiento de polvo.
 
 d. Contar con un cerco perimetral que impida la entrada de animales, personas y vehículos sin el debido control.
 
