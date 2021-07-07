@@ -262,4 +262,8 @@ Publicidad de la Información:
 
 La Subsecretaría deberá publicar en su página web, mediante un sistema de libre acceso, la resolución que determina los municipios de cada grupo y los montos que a cada municipalidad le correspondan del Fondo.
 
+#### Artículo transitorio
+
+Para la distribución de los recursos del Fondo de Incentivo al Mejoramiento de la Gestión Municipal, considerado en el Presupuesto del año 2021, de esta Subsecretaría, la aplicación de los indicadores a que se refiere el artículo tercero de esta resolución, atenderá a la información disponible del año 2019.
+
 Anótese, tómese razón y publíquese.- Ricardo Cifuentes Lillo, Subsecretario de Desarrollo Regional y Administrativo.
