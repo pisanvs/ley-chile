@@ -1,0 +1,9 @@
+PUBLICA RESOLUCIÓN QUE SE INDICA
+
+De conformidad con lo dispuesto en el artículo 30 bis de la ley N° 19.300, se comunica que, mediante resolución exenta N° 251/2021, de la Dirección Regional del Servicio de Evaluación Ambiental de Antofagasta, de fecha 1 de julio de 2021, se ha resuelto dar inicio a un proceso de participación ciudadana en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental (DIA) del proyecto "Monorelleno de Lodos Antofagasta", presentado por Acuanor S.A., por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 94 del DS 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental. El proyecto consiste en la construcción, operación y cierre de un recinto destinado a la disposición final de lodos de plantas de aguas servidas en estricto cumplimiento del artículo 17 del decreto supremo de 2009 Minsegpres. La vida útil del proyecto será de 41 años y se localizará en la comuna, provincia y Región de Antofagasta.
+
+Cualquier persona, natural o jurídica, podrá formular observaciones al proyecto ante la Dirección Regional del SEA, ubicada en Avda. República de Croacia N° 0336, Antofagasta, o bien accediendo al portal www.sea.gob.cl. El plazo de 20 días hábiles para efectuar observaciones se contará a partir del día hábil siguiente a la última publicación del extracto de la resolución que da inicio al proceso de Participación Ciudadana.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA, en la dirección antes señalada. Además, puede acceder a dicha resolución a través del sitio web www.sea.gob.cl.-
+
+Ramón Guajardo Perines, Director Regional, Servicio de Evaluación Ambiental.
