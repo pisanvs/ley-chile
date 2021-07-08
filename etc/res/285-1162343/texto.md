@@ -1,36 +1,38 @@
-APRUEBA 2ª EDICIÓN DE LA DAN 135 VOL II "REQUISITOS DE OPERACIÓN: OPERACIONES COMERCIALES CON HELICÓPTEROS"
+APRUEBA SEGUNDA ENMIENDA A LA SEGUNDA EDICIÓN 2 DE LA DAN 135 VOL II "REQUISITOS DE OPERACIÓN: OPERACIONES COMERCIALES CON HELICÓPTEROS"
 
-Núm. 08/0/1/518/0745 exenta.- Santiago, 13 de diciembre de 2016.
+Núm. 04/3/0025/0285 exenta.- Santiago, 4 de marzo de 2021.
 
 Vistos:
 
-a) La ley Nº 18.916, Código Aeronáutico.
+a) La ley N° 18.916 de 1990, que aprueba el Código Aeronáutico.
 
-b) La ley Nº 16.752, Orgánica de la DGAC.
+b) La ley N° 16.752 de 1968, que Fija Organización y Funciones y establece las Disposiciones Generales a la Dirección General de Aeronáutica Civil.
 
-c) OACI, Anexo 6 Parte III hasta enm 21.
+c) El DAR 06 "Operación de Aeronaves" Volumen II "Transporte Comercial".
 
-d) La Ed 1 de la DAN 135 "Requisitos de operación: Regulares y No Regulares para aeronaves Pequeñas de Menos de 5.700 kilos o hasta 19 asientos de pasajeros", aprobada por resolución E Nº 992, del 30 abr 2008.
+d) La resolución N° 08/0/1/518/0745 del 13 dic 2016 que aprueba la Segunda Edición de la DAN 135 Vol II "Requisitos de Operación: Operaciones comerciales con helicópteros".
 
-e) PRO Administrativo 02 "Estructura Normativa de la DGAC".
+e) La adopción de la Enmienda 23 al Anexo 6 Parte III, "Operaciones Internacionales-Helicópteros" publicada con fecha 5 nov 2020.
 
-f) Lo propuesto por la Sección Normas del Departamento de Seguridad Operacional.
+f) La resolución E N° 04/3/0981/1184 de fecha 5 nov 2020, que aprueba la Cuarta Edición del PRO ADM 02 "Estructura, Contenidos y Formatos de la Normativa de la DGAC".
+
+g) La publicación "Para Opinión" subida a la página web de la DGAC con fecha 5 de jun 2020 y la correspondiente Planilla de Evaluación de Comentarios con el acuerdo del Comité Técnico correspondiente.
+
+h) Las conclusiones alcanzadas por las NE (OPS) 07 y 20-2020 desarrolladas por la Sección Normas (LOA) del Subdepartamento Normativa Aeronáutica.
 
 Considerando:
 
-a) La cantidad de enmiendas incorporadas a la Ed1 de la DAN 135.
+a) La necesidad de incorporar a la DAN 135 Vol II la adopción de la Enmienda 23 al Anexo 6 Parte III publicada en la fecha que se indica en la letra e) de los Vistos.
 
-b) La necesidad de actualizar y estandarizar los requisitos de acuerdo a la enmienda 19, 20 y 21 del Anexo 6 Parte III de OACI.
+b) Lo acordado por el Comité Técnico que evaluó los comentarios presentados por los usuarios internos y externos a las propuestas de enmienda publicadas por la DGAC para opinión.
 
-c) La incorporación de requisitos indicados en distintos procedimientos (DAP) que por su naturaleza corresponde ser incluidos en un documento normativo.
+c) Las conclusiones de las NE derivadas de comentarios y sugerencias presentadas por usuarios internos.
 
 Resuelvo:
 
-Apruébese con esta fecha la segunda edición de la DAN 135 Vol II "Requisitos de operación: operaciones comerciales con helicópteros".
+Apruébese, con esta fecha la Segunda Enmienda a la Segunda Edición de la DAN 135 Vol II "Requisitos de operación: Operaciones comerciales con Helicópteros".
 
-Deróguese con esta fecha la Ed 1 de la DAN 135 "Requisitos de operación: Regulares y No Regulares para aeronaves Pequeñas de Menos de 5.700 kilos o hasta 19 asientos de pasajeros", aprobada por resolución E Nº 992, del 30 abr 2008.
-
-Anótese y comuníquese.- Víctor Villalobos Collao, General de Brigada Aérea (A), Director General.
+Anótese y comuníquese.- Raúl Jorquera Conrads, General de Brigada Aérea (A), Director General.
 
 CAPÍTULO A
 
@@ -2171,5 +2173,3 @@ h) manual de operaciones, que incluya limitaciones, procedimientos de emergencia
 APÉNDICE 14
 
 APROBACIÓN ESPECÍFICA
-
-> **Nota.** La Resolución 285, Defensa, publicada el 08.07.2021, aprueba la Segunda Enmienda a la Segunda Edición de la DAN 135 Vol II "Requisitos de operación: Operaciones comerciales con Helicópteros", contenida en el Anexo de la presente norma, razón por la cual se ha reemplazado por el presente texto actualizado.
