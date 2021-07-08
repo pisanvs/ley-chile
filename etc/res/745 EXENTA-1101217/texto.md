@@ -32,96 +32,2144 @@ Deróguese con esta fecha la Ed 1 de la DAN 135 "Requisitos de operación: Regul
 
 Anótese y comuníquese.- Víctor Villalobos Collao, General de Brigada Aérea (A), Director General.
 
-CAPÍTULO A: GENERALIDADES. 135.1 DEFINICIONES: AERÓDROMO Área definida de tierra o de agua (que incluye todas sus edificaciones, instalaciones y equipos) destinada total o parcialmente a la llegada, salida y movimiento en superficie de aeronaves. AERONAVEGABLE Estado de una aeronave, motor, hélice o pieza que se ajusta al diseño aprobado correspondiente y está en condiciones de operar de modo seguro. ÁREA CONGESTIONADA Superficie que contiene elementos, estructuras o personas, dispuestas de tal forma, que ante una operación de emergencia puede crear peligro adicional para la aeronave, personas o propiedad. CHALECO SALVAVIDAS Dispositivo de flotación individual que ante la inconciencia del portador, lo mantiene con la cabeza fuera del agua. CATEGORIA A. Con respecto a los helicópteros, significa un helicóptero multimotor diseñado con las características de aislamiento de los motores y los sistemas especificadas en el Anexo 8, Parte IVB, apto para ser utilizado en operaciones en que se usen datos de despegue y aterrizaje anotados bajo el concepto de falla de motor crítico que asegura un área de superficie designada adecuada y capacidad de performance adecuada para continuar el vuelo en condiciones de seguridad o para un despegue interrumpido seguro. CATEGORÍA B. Con respecto a los helicópteros, significa un helicóptero monomotor o multimotor que no cumple las normas de la Categoría A. Los helicópteros de la Categoría B no tienen capacidad garantizada para continuar el vuelo seguro en caso de falla de un motor y se presume un aterrizaje forzoso. COMUNICACIÓN BASADA EN LA PERFORMANCE (PBC). Comunicación basada en especificaciones sobre la performance que se aplican al suministro de servicios de tránsito aéreo. ENCARGADO DE OPERACIONES DE VUELO/DESPACHADOR DE VUELO. Persona, titular de licencia, designada por el operador para ocuparse del control y la supervisión de las operaciones de vuelo, que tiene la competencia adecuada de conformidad con la reglamentación vigente y que respalda, da información, o asiste al piloto al mando en la realización segura del vuelo. ENTORNO HOSTIL Entorno en que: (a) no se puede realizar un aterrizaje forzoso seguro debido a que la superficie y su entorno son inadecuados; o (b) los ocupantes del helicóptero no pueden estar adecuadamente protegidos de los elementos; o (c) no se provee respuesta/capacidad de búsqueda y salvamento de acuerdo con la exposición prevista; o (d) existe un alto riesgo de poner en peligro la vida de las personas y/o bienes materiales. Entorno hostil congestionado. Entorno hostil dentro de un área congestionada. Entorno hostil no congestionado. Entorno hostil fuera de un área congestionada. Entorno no hostil. Entorno en que: (a) un aterrizaje forzoso seguro puede realizarse porque la superficie y el entorno circundante son adecuados; (b) los ocupantes del helicóptero pueden estar adecuadamente protegidos de los elementos; (c) se provee respuesta/capacidad de búsqueda y salvamento de acuerdo con la exposición prevista; y (d) el riesgo evaluado de poner en peligro a las personas o a los bienes en tierra es aceptable. ESTADO DEL AERÓDROMO Estado en cuyo territorio está situado el aeródromo. ESTADO DEL OPERADOR Estado en el que está ubicada la oficina principal del operador o, de no haber tal oficina, la residencia permanente del operador. OPERADOR La persona, organismo o empresa que se dedica, o propone dedicarse a la explotación de aeronaves. HELICOPTERO GRANDE. Helicóptero con un peso máximo de despegue de 3.180 kg o más. HELIPUERTO DE ALTERNATIVA POSDESPEGUE. Helipuerto de alternativa en el que podría aterrizar un helicóptero si esto fuera necesario poco después del despegue y no fuera posible utilizar el helipuerto de salida. HELIPUERTO DE ALTERNATIVA EN RUTA. Helipuerto de alternativa en el que podría aterrizar un helicóptero en el caso de que fuera necesario desviarse mientras se encuentra en ruta. HELIPUERTO DE ALTERNATIVA DE DESTINO. Helipuerto de alternativa en el que podría aterrizar un helicóptero si fuera imposible o no fuera aconsejable aterrizar en el helipuerto de aterrizaje previsto. MALETÍN DE VUELO ELECTRÓNICO (EFB). Sistema electrónico de información que comprende equipo y aplicaciones y está destinado a la tripulación de vuelo para almacenar, actualizar, presentar visualmente y procesar funciones EFB para apoyar las operaciones o tareas de vuelo. OPERACIONES EN CLASE DE PERFORMANCE 1. Operaciones con una performance tal que, en caso de falla del motor crítico, permite al helicóptero continuar el vuelo en condiciones de seguridad hasta un área de aterrizaje apropiada, a menos que la falla ocurra antes de alcanzar el punto de decisión para el despegue (TDP) o después de pasar el punto de decisión para el aterrizaje (LDP), casos en que el helicóptero debe poder aterrizar dentro del área de despegue interrumpido o de aterrizaje. OPERACIONES EN CLASE DE PERFORMANCE 2. Operaciones con una performance tal que, en caso de falla del motor crítico, permite al helicóptero continuar el vuelo en condiciones de seguridad hasta un área de aterrizaje apropiada, salvo si la falla ocurre al principio de la maniobra de despegue o hacia el final de la maniobra de aterrizaje, casos en que podría ser necesario un aterrizaje forzoso. OPERACIONES EN CLASE DE PERFORMANCE 3. Operaciones con una performance tal que, en caso de falla del motor en cualquier momento durante el vuelo, podría ser necesario un aterrizaje forzoso. OPERACIONES EN EL MAR. Operaciones en las que una proporción considerable del vuelo se realiza sobre zonas marítimas desde puntos mar adentro o a partir de los mismos. Dichas operaciones incluyen pero no están limitadas a, el apoyo a explotaciones de petróleo, gas y minerales en alta mar y el traslado de pilotos de mar (prácticos navales). OPERACIÓN SEGURA. Condición en que se encuentra una aeronave, motor, hélice, equipo o cualquier otro componente de aeronave, cuando no presenta evidencia de anormalidad, daño o deterioro que esté más allá de límites permisibles o que pueda hacer insegura su operación. PERIODO DE DESCANSO Es todo tiempo en tierra durante el cual el Operador releva a un miembro de la tripulación de toda función relacionada con su trabajo, con el objeto que éste se mantenga en descanso para recuperarse física y psíquicamente luego de un Período de Servicio (P.S.) o un Período de Servicio de Vuelo (P.S.V.). PERIODO DE DESCANSO MÍNIMO. Es todo tiempo en tierra durante el cual el Operador releva a un miembro de la tripulación de toda función relacionada con su trabajo, con el objeto que éste se mantenga en descanso para recuperarse física y psíquicamente luego de un Período de Servicio (P.S.) o un Período de Servicio de Vuelo (P.S.V.). PERIODO DE REPOSO EN VUELO. Es el tiempo durante el desarrollo de un vuelo, en el cual el Tripulante es relevado de sus labores, con el objeto de someterse a un reposo a bordo de la aeronave según las normas técnicas impartidas por la DGAC. Este reposo debe ser ininterrumpido, salvo en caso de emergencia, y cuando sea necesario por razones esenciales para la operación de la aeronave. PERIODO DE SERVICIO (P.S.) Es el tiempo correspondiente a cualquiera actividad asignada por el Operador a un Tripulante, ajena al vuelo mismo. PERIODO DE SERVICIO DE VUELO (P.S.V.) Tiempo transcurrido dentro de un período de veinticuatro horas consecutivas, desde el momento en que un tripulante se presenta en las dependencias aeroportuarias (o lugar asignado por el Operador) con el objeto de preparar, realizar y finalizar operacional y administrativamente un vuelo comercial, hasta que es despachado liberándosele de toda función. Este puede comprender un vuelo o una serie de vuelos. Se calculará según el itinerario establecido u horario previsto, según corresponda, desde una hora antes de comenzar el vuelo hasta treinta minutos después de finalizar éste. Serán considerados también Períodos de Servicio de Vuelo, las siguientes actividades: (a) Reentrenamiento periódico en la aeronave o en entrenadores sintéticos de vuelo; (b) Prácticas periódicas de evacuación y amaraje (ditching); y (c) Traslado en vuelo, por conveniencia del Operador, para cumplir un Período de Servicio de Vuelo asignado o el utilizado para trasladarse en vuelo de regreso. PERIODO NOCTURNO. Es el tiempo transcurrido entre las 21:00 horas y las 06:00 horas local, correspondiente al lugar donde se encuentra operando el tripulante. PROGRAMA DE INSPECCIÓN Programa que establece el fabricante de una aeronave en el manual de mantenimiento de la misma respecto a las tareas e intervalos, obligatorios y recomendados, que se deben cumplir para mantener la aeronavegabilidad de la aeronave. PROGRAMA DE MANTENIMIENTO Programa desarrollado por un operador de un helicóptero grande respecto a las tareas e intervalos indicados en el Informe de la Junta Revisora del Mantenimiento (MRBR) y que son necesarias para mantener la aeronavegabilidad del helicóptero. PROGRAMA DE SEGURIDAD OPERACIONAL. Conjunto integrado de reglamentos y actividades encaminados a mejorar la seguridad operacional. PUNTO DE NO RETORNO Último punto geográfico posible en el que la aeronave puede proceder tanto al aeródromo de destino como a un aeródromo de alternativa en ruta disponible para un vuelo determinado. ROL DE VUELO Instrumento de planificación de vuelos donde se establecen los correspondientes Períodos de Servicio, Períodos de Servicio de Vuelo y Descanso de las tripulaciones. SERIE DE VUELOS Combinación de vuelos que pueden ser realizados en un período de veinticuatro horas consecutivas, sin que se excedan los límites de Tiempo de Vuelo ni de Período de Servicio de Vuelo. La serie de vuelos se termina cuando se inicia un Período de Descanso. SERVICIOS DE ESCALA. Servicios necesarios para la llegada de una aeronave a un aeropuerto y su salida de éste, con exclusión de los servicios de tránsito aéreo. SERVICIOS DE TRÁNSITO AÉREO (ATS). Expresión genérica que se aplica, según el caso, a los servicios de información de vuelo, alerta, asesoramiento de tránsito aéreo, control de tránsito aéreo (servicios de control de área, control de aproximación o control de aeródromo). SISTEMA DE DOCUMENTOS DE SEGURIDAD DE VUELO. Conjunto de documentación interrelacionada establecido por el operador, en el cual se recopila y organiza la información necesaria para las operaciones de vuelo y en tierra, y que incluye, como mínimo, el Manual de Operaciones y el Manual de Control de Mantenimiento del operador. SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL. Enfoque sistemático para la gestión de la seguridad operacional, que incluye la estructura orgánica, líneas de responsabilidad, políticas y procedimientos necesarios. SISTEMA DE VISIÓN COMBINADO (CVS). Sistema de presentación de imágenes procedentes de una combinación de sistema de visión mejorada (EVS) y sistema de visión sintética (SVS). SISTEMA DE VISIÓN MEJORADA (EVS). Sistema de presentación, en tiempo real, de imágenes electrónicas de la escena exterior mediante el uso de sensores de imágenes. SISTEMA DE VISIÓN SINTÉTICA (SVS). Sistema de presentación de imágenes sintéticas, obtenidas de datos, de la escena exterior desde la perspectiva del puesto de pilotaje. TIEMPO DE VUELO (T.V) Tiempo total transcurrido desde que la aeronave inicia su movimiento con el propósito de despegar, hasta que se detiene completamente al finalizar el vuelo. TRAJE DE SUPERVIVENCIA INTEGRADO. Traje que debe satisfacer los requisitos relativos a un traje de supervivencia y un chaleco salvavidas. TRANSMISOR DE LOCALIZACIÓN DE EMERGENCIA (ELT). Término genérico que describe el equipo que difunde señales distintivas en frecuencias 121.5 y 406 Mhz designadas y que, según la aplicación puede ser de activación automática al impacto o bien ser activado manualmente. TRIPULACIÓN DE VUELO Miembro de la tripulación, titular de licencia, quien cumple funciones esenciales para la operación en vuelo de la aeronave. TRIPULACIÓN DE VUELO MÍNIMA. Tripulación exigida en el Certificado Tipo de la aeronave, para que ésta pueda ser operada con seguridad en actividades aéreas. TRIPULACIÓN REFORZADA. Tripulación Mínima a la que se adiciona un número determinado de tripulantes con el propósito de cubrir un vuelo, el que por su duración, el Tiempo de Vuelo o el Período de Servicio de Vuelo excede el máximo autorizado. VIGILANCIA BASADA EN LA PERFORMANCE (PBS). Vigilancia que se basa en las especificaciones de performance que se aplican al suministro de servicios de tránsito aéreo. 135.3 APLICACIÓN Los requisitos establecidos en esta norma se aplican: (a) A los operadores nacionales, que realicen Servicios de Transporte Aéreo nacionales e internacionales, regulares y no regulares con helicópteros. (b) A los operadores extranjeros que realicen Servicios de Transporte Aéreo regulares y no regulares en el territorio nacional con helicópteros. 135.5 AUTORIDAD DE FISCALIZACIÓN. (a) La Dirección General de Aeronáutica Civil (DGAC) a través de los Inspectores de Operaciones y de Aeronavegabilidad, tiene la facultad de controlar o inspeccionar a las aeronaves, tripulación, a las personas y cosas transportadas a bordo de ellas. (b) Los Inspectores serán funcionarios de la DGAC y contarán con una credencial que los identifique como Inspectores de Operaciones y de Aeronavegabilidad. (c) Los Inspectores de Operaciones y de Aeronavegabilidad tendrán respectivamente durante las fiscalizaciones que efectúen, la facultad de: (1) establecer la continuidad o no de un vuelo que no reúna las condiciones exigidas por la ley o los reglamentos; (2) prohibir por justa causa el ejercicio de los privilegios emergentes de una licencia en el caso de observar o sospechar el no cumplimiento de algún requisito que afecte la seguridad operacional e integridad de las personas. (d) Los Operadores deberán otorgar facilidades a los Inspectores de Operaciones y de Aeronavegabilidad para que en el cumplimiento de sus funciones tengan acceso a la aeronave, cabina de mando siempre que la operación lo permita, facilidades para verificar las licencias del personal aeronáutico y tengan el derecho de inspeccionar toda la documentación relacionada con las operaciones, tanto a bordo de los aviones como en las dependencias de tierra. (e) Frente a situaciones observadas que obliguen la aplicación de la letra (c) anterior, el inspector deberá informar y poner a disposición del jefe del subdepartamento que corresponda, toda evidencia o sospecha de no conformidad que ponga en riesgo la seguridad operacional.
+CAPÍTULO A
 
-CAPÍTULO B: REGLAS GENERALES DE OPERACIÓN. 135.101 OBSERVACIÓN DE LEYES, REGLAMENTOS Y PROCEDIMIENTOS. (a) El Operador verificará que: (1) Su personal conozca las leyes, reglamentos y procedimientos vigentes, aplicables al desempeño de sus funciones, prescritas para los Estados en los que se realizan las operaciones; (2) Sus tripulaciones estén en conocimiento de los procedimientos relativos al vuelo y operacionales de las zonas que han de sobrevolar y de los aeródromos/helipuertos que puedan utilizarse, así como de los servicios e instalaciones disponibles. (3) El piloto al mando deberá conocer y llevar a bordo del helicóptero la información relativa a los servicios de búsqueda y salvamento sobre las áreas en que opere, conforme se establece en el DAR 12 "Servicio de búsqueda y Salvamento (SAR)". (4) En caso de vuelos internacionales, que los miembros de la tripulación de vuelo tengan la capacidad de hablar y comprender el idioma utilizado para las comunicaciones radiotelefónicas aeronáuticas en el territorio sobre el cual están operando, conforme a lo especificado en el reglamento de licencias. (5) En el caso que cuente con tripulación auxiliar, esta esté en conocimiento de las leyes, reglamentos y procedimientos aplicables al desempeño de sus funciones en la operación del helicóptero. (6) Ante una situación de emergencia que ponga en peligro la seguridad de las personas o del helicóptero, y exige tomar medidas que infrinjan los reglamentos o procedimientos, el piloto al mando notificará sin demora este hecho a la autoridad aeronáutica. Si esta situación se produce en otro Estado y la autoridad aeronáutica de ese país así lo exige, el piloto al mando del helicóptero presentará, tan pronto como sea posible un informe sobre tal infracción. En este caso, el piloto al mando remitirá también una copia del informe a la DGAC. Tales documentos se presentarán dentro de un plazo no mayor de diez (10) días. (7) El piloto al mando notifique a la autoridad competente más próxima, por el medio más rápido de que disponga, cualquier accidente en relación con el helicóptero, en el cual alguna persona resulte muerta o con lesiones graves o se causen daños de importancia al helicóptero o a la propiedad. (8) Su personal de operaciones esté en conocimiento que todos los permisos especiales de vuelos no son válidos en espacio aéreo extranjero, a menos que éstos sean comunicados y aceptados por los Estados que sobrevuele el helicóptero. (9) La gestión de datos electrónicos de navegación cumpla con lo siguiente: (i) Se empleen datos electrónicos de navegación vigentes e íntegros en relación a los datos publicados por la autoridad aeronáutica y compatibles en cuanto al equipo utilizado; y (ii) se implanten procedimientos que aseguren la distribución e inserción oportuna de datos electrónicos de navegación actualizados e inalterados a todos los helicópteros que lo requieran. (10) Que se publiquen las instrucciones para las operaciones y se proporcione información sobre la performance ascensional del helicóptero con todos los motores en funcionamiento, para que el piloto al mando pueda determinar la pendiente ascensional que se puede alcanzar durante la fase de despegue y ascenso inicial en las condiciones de despegue existentes y con el procedimiento de despegue previsto. Esta información debe basarse en los datos del fabricante del helicóptero o en otros datos, aceptables para la DGAC, e incluirse en el Manual de Operaciones. (11) Después de ocurrido un acto de interferencia ilícita, el piloto al mando deberá presentar un informe sobre dicho acto a la DGAC si este se ha producido en el territorio nacional o a la autoridad competente en vuelos en el extranjero, considerando una copia para la DGAC. (b) El operador, o un representante designado por él, deberá asumir la responsabilidad de las operaciones aéreas de la empresa. Al piloto al mando le corresponde la responsabilidad del control operacional de su vuelo. (c) Si ocurre una situación de emergencia que ponga en peligro la seguridad del helicóptero o de los pasajeros, el piloto al mando, el EOV o el operador deberá notificar sin demora, a las autoridades competentes sobre el tipo de situación y la solicitud de asistencia, si se requiere. (d) El operador dispondrá las medidas aplicables para evitar que se produzcan interferencias al desempeño de la función de las tripulaciones, por parte de los pasajeros. 135.103 GESTIÓN DE LA SEGURIDAD OPERACIONAL. El operador deberá establecer y mantener un programa de prevención de accidentes y de seguridad de vuelo operacional para lograr un nivel aceptable de seguridad en la operación de los helicópteros. 135.105 TRANSPORTE DE MERCANCÍAS PELIGROSAS. (a) El operador regido por esta norma no podrá transportar mercancías peligrosas, si no se cumple con los requisitos y disposiciones establecidas en el Código Aeronáutico y Reglamentos. (b) Asimismo, el operador deberá cumplir los siguientes requisitos: (1) Establecer un programa de instrucción inicial y periódico sobre mercancías peligrosas, el cual se deberá publicar en su manual de operaciones, o en su manual de instrucción según corresponda (ver Apéndice 9). (2) Establecer en su manual de operaciones políticas y procedimientos sobre mercancías peligrosas, para permitir al personal: (i) Identificar y rechazar mercancías peligrosas no declaradas, incluyendo materiales propios del operador clasificados como mercancías peligrosas; y (ii) notificar a la DGAC y del Estado en el que se descubran abordo o en la carga o el correo mercancías peligrosas no declaradas, y los accidentes o incidentes con mercancías peligrosas. (iii) Notificar a la DGAC y al Estado en el que se descubra que se han transportado mercancías peligrosas sin cumplir: (A) Cuando no se hayan cargado, segregado, separado o asegurado de conformidad con el reglamento DAR 18 y con las Instrucciones Técnicas. (B) la información al piloto al mando (NOTOC). (iv) Aceptar, tramitar, almacenar, transportar, cargar y descargar mercancías peligrosas, incluyendo materiales propios de los operadores (COMAT) clasificados como mercancías peligrosas como carga a bordo de un helicóptero. (v) Proporcionar al piloto al mando información escrita o impresa, exacta y legible, relativa a las mercancías peligrosas que han de transportarse como carga. (3) Informar a los pasajeros que las baterías de litio incorporadas en los cigarrillos electrónicos son fuente de peligro de incendio por lo que estos elementos deben ser transportados en el equipaje de mano acompañado, que va en la cabina de pasajeros. 135.107 INGESTA DE BEBIDAS ALCOHÓLICAS. La tripulación de vuelo no podrá ingerir bebidas alcohólicas 24 horas antes de iniciar el vuelo, durante éste o en sus escalas intermedias. 135.109 PREVENCIÓN DE INTOXICACIÓN DE LOS TRIPULANTES. (a) Los miembros de la tripulación de un helicóptero en el cumplimiento de sus funciones se deberán abstener del uso de medicinas contraindicadas y sustancias psicoactivas que afecten su desempeño; y (b) con el objeto de evitar intoxicación simultánea, las comidas de la tripulación de vuelo deberán ser diferentes y no se suministrarán en un mismo horario. 135.111 TRANSPORTE DE SUSTANCIAS SICOTRÓPICAS O ESTUPEFACIENTES. Se prohíbe el transporte vía aérea de drogas, estupefacientes, sustancias psicotrópicas o estimulantes definidas por ley, excepto autorización de las autoridades competentes chilenas relacionadas con el rubro. 135.113 PROHIBICIÓN DE TRANSPORTE DE CIERTOS ARTÍCULOS. Se prohíbe el transporte por vía aérea de los artículos que, según los tratados o Convenios suscritos y ratificados por el Estado de Chile, no sean de libre tráfico. 135.115 TRANSPORTE MIXTO. La DGAC podrá autorizar el transporte mixto de pasajeros y carga en la cabina de un helicóptero, siempre y cuando se hayan hecho en el mismo, las adaptaciones adecuadas para evitar molestias o peligros de cualquier naturaleza a los pasajeros. En todo caso, se respetarán las disposiciones que se indican a continuación: (a) Que sea empacada y cubierta de tal manera que se eviten daños al helicóptero o heridas e incomodidades a los pasajeros. (b) Que sea asegurada por medio de redes de carga, de cinturones especiales de sujeción u otros medios suficientemente seguros, para eliminar la posibilidad de su desplazamiento bajo las diferentes condiciones de vuelo y cuando se opere el helicóptero en tierra. (c) Que su peso no sobrepase el máximo por unidad de superficie que pueda soportar el piso y la estructura del compartimiento de pasajeros de acuerdo a lo establecido en el Manual de Vuelo. (d) Que sea colocada de tal manera que no impida o restrinja a los tripulantes o a los pasajeros, el acceso a las salidas de emergencia o el uso de las puertas. (e) Que la distribución sea de acuerdo a lo establecido en el Manual de vuelo. (f) Que no impida a los pasajeros ver los avisos de "NO FUMAR" y de "VERIFICAR CINTURONES", ni los indicadores de las salidas de emergencia "SALIDA". 135.117 TRANSPORTE DE CADÁVERES. El transporte de cadáveres se deberá regir por lo que al respecto dispongan las normas legales y reglamentarias del país, así como por los procedimientos establecidos por la autoridad sanitaria para el transporte nacional. En el caso de transporte de cadáveres hacia o desde Chile, se actuará además, según lo que se establezca en los convenios internacionales pertinentes. 135.119 DESPEJE DE LAS PUERTAS DEL HELICÓPTERO. Cuando el helicóptero se dedique al transporte de pasajeros, todas las salidas del mismo se mantendrán libres de todo obstáculo que pueda dificultar o entorpecer su utilización. 135.121 ASIENTOS, CINTURONES DE SEGURIDAD Y ARNESES DE HOMBROS. (a) Los asientos de todo helicóptero que se utilice para el transporte de pasajeros deberán contar con sus respectivos cinturones de seguridad para cada persona mayor de dos (2) años de edad. Para el caso de los niños menores de dos años, estos podrán ser llevados en brazos de una persona adulta que ocupe un asiento o en asientos debidamente certificados para su uso en aviación. (b) Durante los despegues, aterrizajes y los movimientos del helicóptero en la superficie, todo pasajero a bordo deberá ocupar un asiento cuyo respaldo debe estar en posición vertical. (c) En cada asiento no ocupado, el cinturón de seguridad y/o arnés de hombro, deberán mantenerse asegurados. (d) Cuando se requiera personal auxiliar este deberá tener asignado un asiento en el compartimiento de pasajeros que cuente con combinación de cinturón y arneses de hombro. Durante los despegues y aterrizajes, el personal deberá tener abrochado y asegurado el cinturón y el arnés. (e) El operador deberá verificar que durante el despegue y el aterrizaje y por razones de turbulencia o cualquier otra emergencia que ocurra durante el vuelo, todas las personas a bordo del helicóptero estén asegurados a sus asientos por medio de los cinturones de seguridad o arneses. (f) Los helicópteros irán equipados con asientos orientados hacia adelante o hacia atrás (dentro de 15° del eje longitudinal del helicóptero), que tendrán instalado un arnés de seguridad para uso de cada miembro de la tripulación auxiliar requerido para cumplir con 135.603 (a) con respecto a la evacuación de emergencia. (g) Para fines de una evacuación de emergencia, los asientos para la tripulación auxiliar estarán ubicados cerca de las salidas al nivel del piso y de otras salidas de emergencia. 135.123 ASIENTOS JUNTO A LAS SALIDAS DE EMERGENCIA. (a) El operador deberá considerar los aspectos que se señalan a continuación para la asignación de los asientos situados en las salidas de emergencia: (1) Que la persona sea un adulto y posea la suficiente movilidad, fuerza o destreza en los dos brazos, manos y en ambas piernas; (2) Tenga capacidad de comprender las órdenes verbales en el idioma en que se imparten por medio de la tripulación; (3) Posea capacidad visual para ejecutar una o más de las funciones requeridas sin otra asistencia de ayudas visuales que no sean los lentes de contacto o los anteojos ópticos; (4) Tenga capacidad auditiva para escuchar las instrucciones verbales impartidas por el personal auxiliar sin otra ayuda que no sea un audífono; (5) Que no vaya acompañado de niños menores de 12 años. (b) El operador deberá incluir en las cartillas de información a los pasajeros, ubicadas en cada asiento, lo siguiente para ayudar a la tripulación en caso de una emergencia: (1) Identificar el mecanismo de apertura de la salida de emergencia; (2) Comprender las instrucciones para operar la salida de emergencia; (3) Seguir las instrucciones verbales y señales manuales dadas por un tripulante; (c) El operador deberá verificar que todas las cartillas exigidas en esta sección contengan la información pertinente sólo al tipo y modelo de helicóptero que se emplea para ese vuelo. 135.125 INSTRUCCIÓN SOBRE PROCEDIMIENTOS DE EMERGENCIA PARA LOS TRIPULANTES. (a) Los programas de instrucción para cada tripulante deben considerar instrucción en todos los tipos de situaciones o procedimientos de emergencia o anormales con respecto a cada tipo, modelo, configuración de helicóptero y a cada tipo de operación realizada. (b) Las disposiciones de detalle referidas a los programas de instrucción para los tripulantes se encuentran en el Capítulo K "Instrucción". 135.127 BEBIDAS ALCOHÓLICAS. (a) Ninguna persona podrá ingerir bebidas alcohólicas a bordo del helicóptero a menos que ella haya sido servida por la tripulación del helicóptero. (b) La tripulación no servirá bebidas alcohólicas a ninguna persona que a su juicio manifieste un estado de ebriedad. (c) El operador no permitirá a una persona en manifiesto estado de ebriedad o con síntomas de haber bebido en exceso abordar el helicóptero. 135.129 SUJECIÓN DE ARTÍCULOS PESADOS Y EQUIPAJE DE MANO. El piloto al mando verificará que el equipamiento de a bordo, se coloque en un lugar donde quede asegurado y no se convierta en un peligro durante la operación. 135.131 EQUIPO DE LA TRIPULACIÓN DE VUELO. (a) Antes de cada vuelo el piloto al mando verificará que se encuentren a bordo del helicóptero las cartas aeronáuticas apropiadas con información adecuada relativa a las ayudas a la navegación y procedimientos de aproximación instrumental además de los procedimientos de radio y señales de emergencia y rescate. (b) Cuando un miembro de la tripulación de vuelo utilice lentes ópticos para ejercer las atribuciones que le confiere su licencia, este deberá disponer de un par de lentes de repuesto. (c) Cada tripulante debe, en cada vuelo, tener disponible para uso inmediato una linterna en condiciones de ser utilizada durante el periodo de tiempo requerido. 135.133 MANIFIESTO DE CARGA Y PASAJEROS. (a) Manifiesto de carga. (1) El operador es el responsable de la preparación y de la exactitud de la información contenida en el formulario de manifiesto de carga antes del despegue. (2) El manifiesto de carga deberá contener la siguiente información relativa al peso y estiba de la aeronave para el momento del despegue: (i) El peso de la aeronave, el combustible y el aceite, la carga y el equipaje, los pasajeros y los tripulantes. (ii) El peso máximo de despegue permisible para la pista que se va a utilizar, incluyendo las respectivas correcciones por elevación y pendiente, las condiciones del viento y la temperatura existente en el momento del despegue; (iii) El peso máximo de despegue considerando el consumo previsto de combustible y de aceite, que permita cumplir con las limitaciones aplicables de la performance en ruta; (iv) El peso máximo de despegue considerando el consumo previsto de combustible y de aceite que permita cumplir con las limitaciones del peso máximo de aterrizaje autorizado, al llegar al aeródromo de destino; y (v) El peso máximo de despegue considerando el consumo previsto de combustible y aceite que permita cumplir con las limitaciones de distancia de aterrizaje a la llegada a los aeródromos/helipuertos de destino y alternativa. (vi) El peso total calculado de acuerdo a los procedimientos aprobados. (vii) La evidencia de que la aeronave está estibada según el programa aprobado que garantice que el centro de gravedad está dentro de los límites aprobados. (3) El formulario del manifiesto de carga debe ser preparado y firmado para cada vuelo por el piloto al mando y por el Encargado de Operaciones de Vuelo (EOV), si corresponde. (b) Manifiesto de pasajeros. (1) Los operadores que presten servicios de transporte aéreo de pasajeros deberán adoptar las medidas pertinentes para acreditar y verificar en forma fehaciente la veracidad de la información contenida en sus respectivos manifiestos de pasajeros, así como, para la identificación de estos en el momento del embarque, mediante la exhibición de la respectiva cédula de identidad, o del pasaporte tratándose de pasajeros extranjeros no residentes en el país. (2) Los métodos y procedimientos que los operadores implementen en el cumplimiento de lo señalado en el numeral precedente deberán, previo a su puesta en práctica, ser comunicados a la Dirección General de Aeronáutica Civil (DGAC). (c) El manifiesto de carga deberá ser conservado en formato duro o digital durante un mínimo de tres meses. Cualquiera sea el formato seleccionado, el operador deberá prever lo siguiente: (1) La rápida recuperación de los registros una vez solicitados. (2) La protección de los registros ante lluvias, incendios, desastres naturales. 135.135 EQUIPAJE DE MANO. El Piloto al mando verificará que todo equipaje de mano embarcado en el helicóptero e introducido en la cabina de pasajeros quede bien asegurado. 135.137 USO DE EQUIPOS ELECTRÓNICOS Y DE COMUNICACIONES A BORDO. (a) Ninguna persona a bordo de un helicóptero podrá operar desde el inicio del carreteo y hasta la detención completa de la aeronave o cuando la tripulación lo disponga durante el vuelo, cualquier dispositivo electrónico portátil con capacidad de transmisión (T-PED) que pueda causar interferencias con los sistemas de la misma, incluidos los siguientes artículos a no ser que estos sean empleados en "modo helicóptero" durante las fases no críticas del vuelo. (1) Teléfonos celulares; (2) Radios de banda ciudadana; (3) Aparatos a control remoto; (4) Computadores con capacidad de red inalámbrica; (5) Otros aparatos con capacidad inalámbrica tales como Asistentes Digitales Personales (PDAs) o tablets. (b) El párrafo (a) de esta sección no se aplica a: (1) Grabadores portátiles de voz; (2) Audífonos para personas sordas; (3) Marcapasos; (4) Máquinas de afeitar eléctricas. (c) Específico para helicópteros con un PMD superior a 3.178 kg. Se podrá autorizar el uso de cualquier dispositivo portátil electrónico (operando en modo avión y wifi encendido para conectarse con la red wifi de la aeronave) una vez que el operador haya determinado y demostrado a la DGAC que este no causa interferencia con algún sistema de la aeronave. El proceso para determinar y establecer la autorización de empleo de estos dispositivos en todas las fases del vuelo (PED expandido) será como sigue: (1) Aspectos Generales: (i) El proceso de determinación de la inmunidad a la interferencia, debe ser efectuado por una organización reconocida y aceptable para la DGAC. (ii) La documentación técnica a emplear para determinar la tolerancia a la inmunidad de una aeronave, será la RTCA/DO-294 y 307 o documentación técnica vigente a la fecha de la evaluación. (2) Proceso. (i) Evaluación de la inmunidad de la aeronave al uso del PED, de acuerdo a lo indicado en punto (1) anterior. (ii) Análisis y mitigación de interferencias EMI para determinar las fases del vuelo en que se autorizará el uso de los PED. (iii) Establecimiento del uso expandido. (iv) Definición por parte de la empresa aérea de las limitaciones y documento que establezca lo que se permite usar y lo que queda prohibido. (v) Procedimientos y políticas operacionales. (vi) Entrenamiento de las tripulaciones de vuelo y de cabina tales como: (A) Obligatoriedad de informar a la empresa respecto a problemas de interferencias EMI intermitentes o transientes. (B) Administración de escenarios tales como interferencia electromagnética sospechosa o confirmada, incendio o humo derivado de una batería o PED, otros que el operador determina. (3) Finalizado el proceso, el operador modificará su Manual de Operaciones para la aprobación de la DGAC estableciendo lo siguiente: (i) Métodos para informar a los pasajeros respecto a los momentos, condiciones y limitaciones de uso de los PED mediante la actualización de procedimientos y listas de chequeo de comunicaciones según se requiera para operaciones normales, anormales y de emergencia. Incluyendo guías de autorización de uso y cuando deben apagarse los PED o cuando y que tipo de servicio inalámbrico puede ser usado. (ii) Procedimiento para informar a la DGAC de interferencias confirmadas o sospechosas derivadas del uso de los PEDS. (iii) Procedimiento de coordinación y comunicación entre la tripulación de vuelo y de cabina para el monitoreo del uso de los PEDS. (iv) Los PEDS autorizados para ser usados a bordo deben ser nombrados durante el briefing al pasajero previo al despegue. Además, deben ser incluidos en las cartillas de información para los pasajeros. (v) Procedimiento para verificar y almacenar aquellos PED que por su volumen y peso, puedan durante situaciones adversas o durante las fases críticas del vuelo, transformarse en objetos factibles de dañar a otras personas o a la aeronave. 135.139 FUNCIONES DE LOS MIEMBROS DE TRIPULACIÓN EN CASO DE EMERGENCIAS O DE EVACUACIONES DE EMERGENCIA. (a) El operador verificará que, para cada tipo y modelo de helicóptero, se asigne a cada tripulante las funciones que deberá realizar en una emergencia o en una situación que requiera evacuación de emergencia. (b) El operador deberá describir en su Manual de Operaciones, las funciones que correspondan a cada tripulante a bordo del helicóptero. 135.141 DEMOSTRACIÓN DE LOS PROCEDIMIENTOS DE EVACUACIÓN DE EMERGENCIA. (a) Todo operador cuando corresponda, que posea helicópteros en la cual su certificado de tipo establezca salidas de emergencia y el Manual de vuelo establezca procedimientos de evacuación, deberá realizar con sus tripulaciones una demostración real ante la DGAC de los procedimientos de evacuación de emergencia para demostrar que cada tipo y modelo de helicóptero que opere, permite la evacuación de toda su capacidad. (b) El operador que opere uno o más helicópteros en operaciones de largo alcance sobre agua, deberá demostrar que la aeronave cuenta con chalecos salvavidas y demostrar su uso. (c) El operador deberá informar y demostrar el uso del equipamiento y salidas de emergencia en las tarjetas informativas para los pasajeros, de acuerdo a cada modelo y configuración de helicóptero que presente.
+GENERALIDADES
 
-CAPÍTULO C: OPERACIONES DE VUELO. 135.201 RESPONSABILIDAD DEL CONTROL OPERACIONAL. (a) El piloto al mando y el encargado de operaciones de vuelo (EOV), cuando corresponda, son responsables conjuntamente de la planificación previa el despacho de un vuelo. (b) Cuando el operador requiera de un encargado de operaciones de vuelo, este será responsable de: (1) Supervisar el avance de cada vuelo; (2) Emitir la información necesaria para la seguridad del vuelo; (c) Daños al helicóptero. (1) Cuando un helicóptero haya sufrido daños, la DGAC decidirá si son de tal naturaleza que esta no reúne las condiciones de aeronavegabilidad. (2) Si el helicóptero sufre daños mientras se encuentra operando en el extranjero, la Autoridad Aeronáutica de ese Estado tendrá la facultad de impedir que el helicóptero continúe su vuelo, informando de ello inmediatamente a la DGAC. 135.203 SERVICIOS E INSTALACIONES PARA LA OPERACIÓN. (a) El piloto al mando verificará que previo al inicio del vuelo las instalaciones o servicios terrestres y marítimos requeridos durante ese vuelo, estén disponibles y sean los adecuados al tipo de operación a realizar. (b) El piloto al mando deberá tomar las medidas oportunas para que se notifique, sin retraso, cualquier deficiencia de las instalaciones y servicios, observada en el curso de sus operaciones, a la DGAC o Autoridad Aeronáutica local si la operación es en el extranjero. (c) El piloto al mando deberá, basado en las condiciones publicadas para su uso, verificar que los aeródromos/helipuertos y sus instalaciones estarán disponibles continuamente para las operaciones de vuelo durante sus horas de operación publicadas, independientemente de las condiciones meteorológicas. 135.205 ACCESO A LOS CONTROLES DE VUELO. El piloto al mando no permitirá que una persona ajena a la tripulación de vuelo designada, manipule o utilice los controles del helicóptero durante el vuelo. 135.207 ACCESO A LA CABINA DE MANDO. (a) Se prohíbe a cualquier persona ajena a la tripulación el acceso a la cabina de mando del helicóptero, excepto las que se indican a continuación: (1) Inspectores designados por la DGAC. (2) Instructores y evaluadores designados del operador. (3) Encargado de Operaciones de Vuelo del operador en vuelos de familiarización de ruta para la obtención o revalidación de Licencia o Habilitación aeronáutica, y (4) Empleados del operador titular de licencia aeronáutica o autorización escrita extendida por el operador, que viajen en cumplimiento de funciones específicas relacionadas con el vuelo en particular o con el cuidado de la carga transportada. (b) No obstante lo señalado en el párrafo (a), el piloto al mando, en el ejercicio de su autoridad, puede condicionar el acceso y permanencia en la cabina de mando por razones de seguridad. 135.209 INSTRUCCIONES PARA LAS OPERACIONES. (a) El operador instruirá a su personal de operaciones respecto de: (1) Todo cambio en los equipos y en los procedimientos operacionales, incluyendo los cambios conocidos en la utilización de las ayudas a la navegación, (2) De los aeródromos/helipuertos, de los procedimientos, de la reglamentación del control de tránsito aéreo, (3) De las normas de control de tránsito aéreo del aeródromo local y los peligros conocidos para el vuelo, incluyendo la formación de hielo; y (4) otras condiciones meteorológicas potencialmente peligrosas e irregularidades en las ayudas terrestres y de navegación. (b) El operador se encargará de que todo el personal de operaciones esté debidamente instruido en sus respectivas obligaciones y responsabilidades y de la relación que existe entre éstas y las operaciones de vuelo en conjunto. (c) No se efectuará rodaje en el área de movimiento de un aeródromo/helipuerto salvo que la persona que lo opere sea un piloto habilitado en el material; y (d) no se hará girar los rotores con potencia de motor para volar sin que se encuentre un piloto calificado al mando. El operador, proporcionará instrucción específica y procedimientos que habrá de seguir todo el personal, salvo los pilotos calificados, que tenga que hacer girar el rotor con potencia de motor para fines ajenos al vuelo. (e) El operador deberá contar con toda la información esencial relativa a los servicios de búsqueda y salvamento de área sobre la cual vayan a volar, información que deberá incluirse en el Manual de Operaciones de la empresa. (f) No se deberá iniciar o continuar un vuelo si el piloto al mando, o algún miembro de la tripulación de vuelo se encuentra incapacitado para cumplir sus obligaciones por una causa cualquiera, como lesiones, enfermedad, fatiga, falta de oxígeno o los efectos del alcohol o de drogas. 135.211 SIMULACIÓN EN VUELO DE SITUACIONES DE EMERGENCIA. No se simularán situaciones de emergencia o anormales en vuelo, cuando se lleven pasajeros o carga a bordo. 135.213 LISTAS DE VERIFICACIÓN. Las listas de verificación serán utilizadas por las tripulaciones de vuelo, antes, durante y después de todas las fases de las operaciones normales, no normales y en caso de emergencia, a fin de verificar que se cumplen los procedimientos establecidos en su manual de vuelo. En el diseño y utilización de las listas de verificación se observarán los principios relativos a factores humanos. 135.215 ALTITUDES MÍNIMAS DE VUELO. No se podrá operar con mínimos inferiores a los oficialmente publicados por la DGAC o la autoridad aeronáutica local. 135.217 MÍNIMOS DE UTILIZACIÓN DEL HELIPUERTO O LUGAR DE ATERRIZAJE. (a) El operador deberá establecer los mínimos de utilización de cada uno de los helipuertos utilizados en sus operaciones e indicará el método aplicado a la determinación de estos mínimos. Dichos mínimos no serán inferiores a los que establezca para esos helipuertos la DGAC o la autoridad aeronáutica local. (b) No se continuará ningún vuelo hacia el helipuerto de aterrizaje previsto, a no ser que la última información disponible indique que, a la hora prevista de llegada, pueda efectuarse un aterrizaje en ese helipuerto, o por lo menos en un helipuerto de alternativa de destino, en cumplimiento de los mínimos de utilización establecidos para tal helipuerto. (c) No se continuará una aproximación por instrumentos por debajo de 300 m (1 000 ft) por encima de la elevación del helipuerto o en el tramo de aproximación final, a menos que la visibilidad notificada o el RVR de control corresponda o esté por encima de los mínimos de utilización del helipuerto. (d) Si, después de ingresar en el tramo de aproximación final, o después de descender por debajo de 300 m (1 000 ft) por encima de la elevación del helipuerto, la visibilidad notificada o el RVR de control es inferior al mínimo especificado, puede continuarse la aproximación hasta DA/H o MDA/H. En todo caso, ningún helicóptero proseguirá su aproximación para el aterrizaje en ningún helipuerto, más allá del punto en que se infringirían los límites de los mínimos de utilización para el helipuerto de que se trate. (e) El operador cuando determine los valores mínimos de utilización de aeródromo que hayan de ser aplicados a cualquier operación específica deberá tener presente lo siguiente: (1) El tipo, performance y características de maniobrabilidad del helicóptero. (2) La composición de la tripulación de vuelo, su competencia y experiencia. (3) Las características físicas del aeródromo y la dirección de aproximación. (4) Si son adecuadas las ayudas terrestres visuales y no visuales disponibles, así como la actuación de las mismas. (5) El equipo de que se disponga en el helicóptero para fines de navegación o de control de la trayectoria de vuelo durante la aproximación al aterrizaje y la aproximación frustrada. (6) Los obstáculos situados en las áreas de aproximación y de aproximación frustrada y la altitud/altura de franqueamiento de obstáculos para realizar el procedimiento de aproximación por instrumentos. (7) Los medios utilizados para determinar y notificar las condiciones meteorológicas, y (8) los obstáculos situados en el área de ascenso inicial y los márgenes necesarios de franqueamiento de obstáculos. (f) Se podrán efectuar operaciones de aproximación por instrumentos de las Categorías II y III siempre que se proporcione información RVR. (g) Se podrá operar por debajo de una visibilidad de 800 m para operaciones de aproximación y aterrizaje por instrumentos siempre que se proporcione información RVR. (h) El método para establecer y las mínimas fijadas por las empresas aéreas deberán figurar en el Manual de Operaciones de la empresa y serán aprobadas previamente por la DGAC. 135.219 ALTURA DE CRUCE DEL UMBRAL PARA LAS APROXIMACIONES DE PRECISIÓN. El operador establecerá procedimientos operacionales destinados a garantizar que el helicóptero empleado para efectuar aproximaciones de precisión cruza el umbral con el debido margen de seguridad, cuando este esté en la configuración y actitud de aterrizaje. 135.221 TRIPULACIÓN. (a) Respecto a cada vuelo el operador deberá designar al piloto al mando. (b) El operador no podrá operar un helicóptero con menos tripulantes que la tripulación mínima establecida en el manual de vuelo del helicóptero, manual de operaciones y la exigida en esta Norma para el tipo de operación que se llevará a cabo; y (c) Toda operación de traslado de pasajeros en condiciones IFR requerirá de una tripulación conformada por piloto y copiloto. (d) En un vuelo planificado para realizarse bajo las reglas de vuelo visual y que en el Manual de la Aeronave no se requiere de un copiloto o segundo al mando para su operación, se podrá realizar un procedimiento de aproximación IFR con un piloto, sólo si, a la llegada al aeródromo de destino, las condiciones meteorológicas u otras imprevistas, no permiten una aproximación VFR. Para lo indicado se deberá considerar lo siguiente: (1) La aeronave cuenta con su equipamiento operativo para efectuar la operación IFR. (2) El piloto cuenta con su habilitación IFR. (3) Existe la correspondiente autorización ATC. 135.223 PREPARACIÓN DE LOS VUELOS. (a) El piloto al mando no deberá iniciar un vuelo hasta no haber comprobado lo siguiente: (1) Que el helicóptero se encuentra en condiciones seguras para operar. (2) que los instrumentos y equipo prescritos para el tipo de operación, se encuentren operativos. (3) La organización de mantenimiento haya emitido la correspondiente conformidad de mantenimiento para el helicóptero o componente del helicóptero, después de la realización de cualquier tarea de mantenimiento. (4) El peso del helicóptero y posición del centro de gravedad corresponde a las condiciones de vuelo previstas. (5) La carga transportada está debidamente distribuida y sujeta. (6) Se da cumplimiento a las limitaciones de utilización de la performance indicadas en el manual de vuelo respecto al vuelo en cuestión; y (7) Se ha cumplido con lo establecido en los requisitos relativos al planeamiento operacional del vuelo. (b) El operador deberá conservar en papel o formato digital durante tres meses los formularios utilizados en la preparación de los vuelos. Cualquiera sea el formato seleccionado, el operador deberá prever lo siguiente: (1) La rápida recuperación de los registros una vez solicitado. (2) La protección de los registros ante lluvias, incendios, desastres naturales. 135.225 PLANIFICACIÓN OPERACIONAL DEL VUELO. (a) Para cada vuelo proyectado se prepararán los siguientes documentos: (1) Un plan operacional de vuelo que será aprobado por el piloto al mando. (2) Un formulario de plan de vuelo ATC que se presentará a la Autoridad competente. (b) En el Manual de Operaciones del operador se incluirá el contenido y uso del plan operacional de vuelo. 135.227 HELIPUERTOS DE ALTERNATIVA. (a) Helipuerto de alternativa de despegue. (1) Si las condiciones meteorológicas del helipuerto de salida lo requieren por estar por debajo de los mínimos de utilización o, si no fuera posible regresar al helipuerto de salida por otras razones, se seleccionará un helipuerto de alternativa de despegue y se especificará en el plan operacional de vuelo. (2) Para un helipuerto que haya de seleccionarse como de alternativa de despegue, la información disponible deberá indicar que a la hora de utilización prevista, las condiciones meteorológicas serán iguales o superiores a los mínimos de utilización del helipuerto para esa operación. (b) Helipuerto de alternativa de destino. Para un vuelo que haya de efectuarse de acuerdo con las reglas de vuelo IFR, se especificará al menos un helipuerto de alternativa de destino en el plan operacional de vuelo y en el plan de vuelo ATS, a no ser que: (1) el helipuerto de aterrizaje previsto esté aislado y no existe ningún helipuerto de alternativa, en ese caso se establecerá un PNR (Punto de No retorno). (2) Para un vuelo que sale hacia un destino cuyo pronóstico es inferior a los mínimos de utilización del helipuerto, se seleccionarán dos helipuertos de alternativa de destino. Las condiciones del primer helipuerto de alternativa de destino deberán ser iguales o superiores a los mínimos de utilización del helipuerto de destino y las del segundo iguales o superiores a los mínimos de utilización del helipuerto de alternativa. (3) Para que un helipuerto sea seleccionado como de alternativa de destino, la información disponible deberá indicar que, en el período previsto de utilización, las condiciones meteorológicas corresponderán o estarán por encima de los mínimos de utilización del helipuerto para la operación de que se trate. (c) Helipuertos de alternativa mar adentro (costa afuera). Cuando se especifique un helipuerto de alternativa mar adentro, dicha especificación se hará con sujeción a las condiciones siguientes: (1) Los helipuertos de alternativa mar adentro sólo se utilizarán después de un punto de no retorno (PNR). Antes de un PNR, se utilizarán los helipuertos de alternativa en tierra; (2) Se considerará la fiabilidad mecánica de los sistemas críticos de mando y de los componentes críticos para determinar la conveniencia de los helipuertos de alternativa; (3) Se dispondrá de la capacidad de performance con un motor inoperativo antes de llegar al helipuerto de alternativa; (4) En la medida posible, la disponibilidad de la plataforma estará garantizada; y (5) la información meteorológica debe ser fiable y precisa. (6) No se deberán utilizar helipuertos de alternativa mar adentro cuando sea posible llevar combustible suficiente para llegar a un helipuerto de alternativa en tierra. No se deberán utilizar helipuertos de alternativa mar adentro en entorno hostil. (d) Emplazamientos no considerados helipuertos. (1) Eventualmente se podrán utilizar emplazamientos temporales por períodos inferiores a treinta (30) días continuos o alternados. Cumplido el tiempo indicado, se procederá de acuerdo con (2) siguiente. (2) Cuando se desee utilizar un emplazamiento temporal por más de treinta (30) días, la empresa deberá solicitar con treinta (30) días de anticipación un permiso especial a la DGAC quien derivará su solicitud a la organización que corresponda. El permiso tendrá una duración máxima de seis (6) meses, prorrogable por un período de igual tiempo, terminado el cual se deberá solicitar la correspondiente habilitación de aeródromo/helipuerto definitivo. Durante el período de seis (6) meses el operador asumirá la responsabilidad reglamentaria y legal de la utilización y mantenimiento del emplazamiento temporal para el cual se otorgó la autorización. (3) Además de la solicitud indicada en (2) anterior, el operador deberá presentar los siguientes documentos: (i) Un anexo al Manual de Operaciones denominado "Procedimiento de operación en emplazamientos temporales". Este Anexo deberá considerar las instrucciones para el personal, tanto de vuelo como de tierra, relativas a los procedimientos de operación y medidas de seguridad a adoptar al operar en este tipo de terreno de manera que las operaciones se desarrollen con seguridad; (ii) un documento, firmado por la Persona Responsable del operador y el Gerente de Operaciones si corresponde mediante el cual se establezca que las aeronaves a utilizar cumplen con los requisitos de performance para operar en el emplazamiento temporal y están en conocimiento de las disposiciones y requisitos establecidos en la normativa vigente; (iii) un procedimiento en el Manual de Control de Mantenimiento (MCM) donde establezca cómo realizará las actividades de mantenimiento en ese emplazamiento. (4) Toda operación en emplazamientos temporales se realizarán en condiciones meteorológicas para vuelos VFR establecidas en la DAN 91 entre el Comienzo del Crepúsculo Civil Matutino (CCCM) y Fin del Crepúsculo Civil Vespertino (FCCV). (5) Se deberá disponer como mínimo del siguiente personal y equipo auxiliar: (i) Una persona en tierra con las competencias correspondientes que pueda colaborar con el piloto, advertirlo de cualquiera anormalidad y pueda manejar un extintor de incendios, un equipo de comunicación portátil para contacto con la aeronave, equipamiento de emergencia y de primeros auxilios; (ii) un cataviento del tipo manga; (iii) un extintor de incendios de CO2 con capacidad de a lo menos 10 kg para satisfacer las necesidades del tipo de aeronave que lo utilice; y (iv) equipamiento de emergencia y de primeros auxilios. (6) Los lugares de reposo que se establezcan, deben poseer la luminosidad mínima requerida y no deben estar expuestos a niveles de ruido que excedan lo establecido en la reglamentación vigente. 135.229 CONDICIONES METEOROLÓGICAS. (a) No se iniciará ningún vuelo que haya de efectuarse de acuerdo con las reglas VFR, a no ser que los últimos informes meteorológicos, o una combinación de los mismos y de los pronósticos, indiquen que las condiciones meteorológicas a lo largo de la ruta, o en aquella parte de la ruta por la cual vaya a volarse o en la zona de operaciones prevista de acuerdo con las reglas VFR, serán tales en el momento oportuno, que permitan dar cumplimiento a dichas reglas. (b) No se iniciará ningún vuelo que haya de efectuarse de acuerdo con las reglas IFR a menos que la información disponible indique que las condiciones en el helipuerto o lugar del aterrizaje de destino previsto o al menos en un helipuerto de alternativa, cuando éste se requiere, serán, a la hora prevista de llegada, iguales o superiores a los mínimos de utilización del helipuerto. (c) Para garantizar que se observe un margen adecuado de seguridad operacional, al determinar si puede o no efectuar una aproximación y aterrizaje de manera segura en cada helipuerto o lugar de aterrizaje de alternativa, el operador especificará valores incrementales apropiados, aceptables para la DGAC, para la altura de la base de las nubes y la visibilidad que se añadirán a los mínimos de utilización del helipuerto o lugar de aterrizaje establecidos por ese operador. (d) No se iniciará ningún vuelo que tenga que realizarse en condiciones de formación de hielo, conocidas o previstas, a no ser que el helicóptero esté certificado y equipado para hacer frente a tales condiciones. (e) No se iniciará ningún vuelo que tenga que planificarse o que se prevea realizar en condiciones conocidas o previstas de formación de hielo en el helicóptero en tierra, a no ser que se le haya inspeccionado para detectar la formación de hielo y, de ser necesario, se le haya dado tratamiento de deshielo o antihielo. La acumulación de hielo o de otros contaminantes naturales se eliminará a fin de mantener el helicóptero en condiciones de aeronavegabilidad antes del despegue. 135.231 REQUISITOS DE COMBUSTIBLE Y ACEITE. (a) Se podrá iniciar un vuelo, solo si el helicóptero lleva suficiente combustible y aceite para completar el vuelo sin peligro teniendo en cuenta las condiciones meteorológicas y cualquier atraso que se prevea. Además, deberá considerar una reserva para prever contingencias durante la operación. (b) Operaciones de conformidad con las reglas de vuelo que se indican: (1) VFR. La cantidad de combustible y de aceite que se lleve para cumplir con (a), será en el caso de operaciones VFR, por lo menos la suficiente para que el helicóptero pueda: (i) Volar hasta el aeródromo / helipuerto al cual se proyecta el vuelo; (ii) disponer de combustible de reserva final para seguir volando por un periodo de 20 minutos a la velocidad de alcance óptimo; y (iii) Disponer de una cantidad adicional de combustible, suficiente para compensar el aumento de consumo en caso de posibles contingencias. (2) IFR. La cantidad de combustible y de aceite que se lleve para cumplir con (a) será en este caso, por lo menos la que permita al helicóptero: (i) Cuando se requiera un helipuerto o lugar de aterrizaje de alternativa, volar hasta el helipuerto o lugar de aterrizaje al cual se proyecta el vuelo, efectuar una aproximación y una aproximación frustrada, y después: (A) Volar hasta el aeródromo / helipuerto o lugar de aterrizaje de alternativa especificado en el plan de vuelo y ejecutar una aproximación al mismo; y luego (B) Volar durante 30 minutos a la velocidad de espera a 450 m (1.500 pies) por encima del helipuerto/aeródromo de destino en condiciones normales de temperatura, efectuar la aproximación y aterrizar; y (C) disponer de una cantidad adicional de combustible para compensar el aumento de consumo que se produciría si surgiese alguna contingencia. (c) Al calcular el combustible y el aceite requeridos se tendrá en cuenta, por lo menos, lo siguiente: (1) Las condiciones meteorológicas pronosticadas; (2) Las instrucciones del control de tránsito aéreo y las demoras de tránsito posibles; (3) En caso de vuelo IFR, una aproximación por instrumentos al helipuerto de destino, incluso una aproximación frustrada; (4) Cualquiera otra condición tal como una falla de motor que pueda demorar el aterrizaje del helicóptero o aumentar el consumo de combustible o aceite. (d) El uso de combustible después del inicio del vuelo para fines distintos de los previstos originalmente durante la planificación previa al vuelo exigirá un nuevo análisis y, si corresponde, ajuste de la operación prevista. (e) Cuando no se disponga de helipuerto o lugar de aterrizaje de alternativa (por ejemplo, el punto de destino es aislado), se llevará una cantidad suficiente de combustible que permita al helicóptero volar hasta el punto de destino según el plan de vuelo y a continuación por un período que, basándose en consideraciones de orden geográfico y ambiental, permita un aterrizaje en condiciones de seguridad operacional. 135.233 REABASTECIMIENTO DE COMBUSTIBLE. No se reabastecerá de combustible a ningún helicóptero cuando los pasajeros estén embarcando, a bordo o desembarcando. 135.235 PROVISIÓN Y USO DE OXÍGENO. (a) Generalidades. (1) Los helicópteros que tengan que utilizarse a altitudes de vuelo en que la presión atmosférica sea inferior a 700 hPa en los compartimientos de pasajeros y pilotos llevarán dispositivos para el almacenaje y distribución de oxígeno que puedan contener y distribuir la provisión de oxígeno requerida según (b)(2) siguiente. (2) Los helicópteros que tengan que utilizarse a altitudes de vuelo en que la presión atmosférica sea inferior a 700 hPa pero que dispongan de medios para mantener presiones mayores que la citada en los compartimientos de pasajeros y pilotos llevarán dispositivos para el almacenaje y distribución del oxígeno que puedan contener y distribuir la provisión requerida en (b)(3) siguiente. (b) Provisión de oxígeno. (1) Las altitudes aproximadas en la atmósfera tipo, correspondiente a los valores de presión absoluta que se emplean en esta Norma, son las siguientes:
+135.1 DEFINICIONES
 
-Presión absoluta Metros/Pies
+ACTUACIÓN HUMANA.
 
-700 hPa 3000/10000
+Capacidades y limitaciones humanas que repercuten en la seguridad operacional y eficiencia de las operaciones aeronáuticas.
 
-620 hPa 4000/13000
+AERONAVE.
 
-376 hPa 7600/25000
+Toda máquina que puede sustentarse en la atmósfera por reacciones del aire que no sean las reacciones del mismo contra la superficie de la tierra.
 
-(2) Se podrá iniciar un vuelo cuando se tenga que volar a altitudes de vuelo en que la presión atmosférica en los compartimientos de las personas sea inferior a 700 hPa (sobre 10 000 pies), si se lleva una provisión de oxígeno respirable para suministrar: (i) A todos los tripulantes y al 10% de los pasajeros durante todo período de tiempo, que exceda de treinta (30) minutos, en que la presión en los compartimientos que ocupan se mantenga entre 700 hPa (10 000 pies) y 620 hPa (13 000 pies); y (ii) a la tripulación y a los pasajeros durante todo período de tiempo en que la presión atmosférica en los compartimientos ocupados por los mismos sea inferior a 620 hPa (sobre 13 000 pies). (3) Solo se podrá iniciar un vuelo en un helicóptero con cabina a presión si se lleva suficiente provisión de oxígeno respirable, para suministrarlo a todos los miembros de la tripulación y a los pasajeros, que sea apropiada a las circunstancias del vuelo que se esté emprendiendo, en caso de bajar la presión durante todo período en que la presión atmosférica en cualquier compartimiento por ellos ocupado sea inferior a 700 hPa. Además, cuando un helicóptero vuela a altitudes de vuelo en que la presión atmosférica sea superior a 376 hPa y no puede descender de manera segura en cuatro minutos a una altitud de vuelo en que la presión atmosférica sea igual a 620 hPa debe haber un suministro mínimo de 10 minutos para los ocupantes del compartimiento de pasajeros. (4) El oxígeno a emplear corresponderá a aquel que cumpla con la especificación MIL-PRF-27210, SAE 1065 o similar. (c) Uso de oxígeno. (1) Todos los miembros de la tripulación ocupados en servicios esenciales para la operación del helicóptero en vuelo, utilizarán continuamente el oxígeno respirable siempre que prevalezcan las circunstancias por las cuales se exige el suministro. (2) La tripulación auxiliar si existe, deberá estar protegida para verificar, con un grado razonable de probabilidad, que no pierda el sentido durante cualquier descenso de emergencia que pudiera ser necesario en caso de pérdida de la presión y, además, debería disponer de medios de protección que le permitan administrar los primeros auxilios a los pasajeros durante el vuelo estabilizado a continuación de la emergencia. Los pasajeros deberían estar protegidos por medio de dispositivos o procedimientos operacionales capaces de verificar con un grado razonable de probabilidad, que van a sobrevivir los efectos de la hipoxia, en caso de pérdida de presión. 135.237 PROCEDIMIENTOS DURANTE EL VUELO. Todos los helicópteros que vuelan de conformidad con las IFR observarán los procedimientos de aproximación por instrumentos aprobados por la DGAC, o por el Estado responsable del helipuerto cuando este se encuentre fuera del territorio nacional. (a) No se continuará ningún vuelo hacia el aeródromo/helipuerto de aterrizaje previsto, a menos que la última información disponible indique que, a la hora prevista de llegada, puede efectuarse un aterrizaje en ese aeródromo/helipuerto, o por lo menos en un aeródromo/helipuerto de alternativa de destino, en cumplimiento de los mínimos de utilización establecidos para tal aeródromo/helipuerto. (b) No se continuará una aproximación por instrumentos por debajo de 300 m (1 000 ft) por encima de la elevación del helipuerto o en el tramo de aproximación final solo si la visibilidad notificada o el RVR de control está por encima de los mínimos de utilización del helipuerto. (c) Si después de ingresar en el tramo de aproximación final, o después de descender por debajo de 300 m (1 000 ft) por encima de la elevación del aeródromo/helipuerto la visibilidad notificada o el RVR de control es inferior al mínimo especificado, puede continuarse la aproximación hasta DA/H o MDA/H. En todo caso, ningún helicóptero proseguirá su aproximación para el aterrizaje en ningún aeródromo/helipuerto, más allá de un punto en que se infringirían los mínimos de utilización para el aeródromo/helipuerto de que se trate. (d) Gestión del combustible en vuelo. (1) El operador establecerá criterios y procedimientos, aprobados por la DGAC, para verificarse de que se realizan verificaciones de combustible y gestión de combustible en vuelo. (2) El piloto al mando verificará continuamente de que la cantidad de combustible utilizable remanente a bordo no sea inferior a la cantidad de combustible que se requiere para proceder a un lugar de aterrizaje en el que puede realizarse un aterrizaje seguro con el combustible de reserva final previsto. (3) El piloto al mando notificará al ATC una situación de combustible mínimo declarando COMBUSTIBLE MÍNIMO cuando, teniendo la obligación de aterrizar en un lugar de aterrizaje específico, calcula que cualquier cambio en la autorización existente para ese lugar de aterrizaje puede resultar en un aterrizaje con menos del combustible de reserva final previsto. (4) El piloto al mando declarará una situación de emergencia de combustible mediante la radiodifusión de MAYDAY MAYDAY MAYDAY COMBUSTIBLE, cuando la cantidad de combustible utilizable que, según lo calculado, estaría disponible el aterrizar en el lugar de aterrizaje más cercano donde puede efectuarse un aterrizaje seguro es inferior a la cantidad de combustible de reserva final requerido en cumplimiento de 135.229. 135.239 REPORTE DE CONDICIONES PELIGROSAS DE VUELO. (a) Las condiciones peligrosas que se encuentren durante el vuelo y que no sean las relacionadas con las condiciones meteorológicas, tales como irregularidades en las instalaciones de comunicaciones y de navegación, el piloto al mando las comunicará lo más pronto posible a la estación aeronáutica más cercana que corresponda. Los informes (AIREPS) que se emitan deberán darse con los detalles que sean pertinentes para la seguridad de otros helicópteros. (b) Toda vez que un piloto encuentre en vuelo, condiciones meteorológicas potencialmente peligrosas o que considere esencial para la seguridad de otros vuelos, lo notificará a la dependencia de tránsito aéreo apropiada, tan pronto como sea posible. 135.241 INSTRUCCIONES OPERACIONALES. (a) Generalidades. (1) Cualquier cambio determinado por el operador al plan de vuelo de un helicóptero en ruta se coordinará con la correspondiente dependencia ATS en forma previa a su transmisión al helicóptero. (2) El Piloto al Mando no deberá efectuar ningún cambio en su plan de vuelo mientras dicho cambio no cuente con la aprobación de la dependencia ATS correspondiente. (b) Previo al vuelo. El piloto al mando informará a los pasajeros la ubicación y el uso de: (1) Los cinturones de seguridad o arneses de seguridad; (2) Las salidas de emergencia; (3) Los chalecos salvavidas, si está prescrito llevarlos a bordo; (4) El equipo de oxígeno, si se prescribe el suministro de oxígeno para uso de los pasajeros; y (5) otro equipo de emergencia suministrado para uso individual o colectivo, inclusive tarjetas de instrucciones de emergencia para los pasajeros. (c) Durante el vuelo. En caso de emergencia durante el vuelo, se instruirá a los pasajeros acerca de las medidas de emergencia a adoptar. 135.243 PROCEDIMIENTOS DE VUELO POR INSTRUMENTOS. Los pilotos que operen helicópteros en territorio chileno de conformidad con las reglas de vuelo por instrumentos (IFR), deberán dar cumplimiento a las disposiciones establecidas en el Reglamento del Aire. En el extranjero, deberán cumplir las normas dispuestas por el Estado en que esté operando. 135.245 MANUAL DE OPERACIONES. (a) Del operador. El operador deberá suministrar, para uso y guía del personal de su empresa, un Manual de Operaciones del operador conforme a la estructura que se indica en Apéndice Nº 1. El Manual de Operaciones se deberá modificar o revisar, siempre que sea necesario, a fin de asegurar que esté al día la información en él contenida. Todas estas modificaciones o revisiones se notificarán al personal que deba usar dicho manual. El Operador deberá suministrar un ejemplar de este manual y sus enmiendas a la DGAC para revisión y aprobación. (b) Del helicóptero (helicópteros PMD igual o mayor a 3.178 Kg PMD). El operador pondrá a disposición del personal de operaciones y de los miembros de la tripulación de vuelo un Manual de Operaciones respecto a cada uno de los tipos de helicópteros en operación, donde figuren los procedimientos normales, anormales y de emergencia atinentes a la operación de esta. El manual incluirá detalles de los sistemas del helicóptero y de las listas de verificación (listas de chequeo) que hayan de utilizarse. En el diseño del manual se observarán los principios relativos a factores humanos. El manual deberá estar fácilmente al alcance de la tripulación de vuelo durante todas las operaciones de vuelo. 135.247 REGISTROS DE COMBUSTIBLE Y ACEITE. (a) El operador llevará registros del carguío y consumo de combustible y aceite. (b) El operador conservará los registros de carguío y consumo de combustible y aceite durante un período de tres meses. 135.249 TRASLADO DE PASAJEROS DESDE Y HACIA NAVES MERCANTES. (a) Requisitos generales. (1) Autorización. Los operadores interesados en efectuar estas operaciones hacia y desde naves mercantes que cuenten con áreas habilitadas para el aterrizaje y despegue de helicópteros y/o áreas libres de obstáculos para efectuar ascenso y/o descenso de estos deben, previamente, obtener autorización de la DGAC para efectuar ese tipo de operaciones. (2) Manual de Operaciones. Para obtener la autorización antes mencionada, los operadores deben incorporar a su Manual de Operaciones los procedimientos para efectuar este tipo de operación y los medios materiales y humanos de que dispone para efectuarla con total seguridad. (3) Certificación de la heliplataforma. Toda nave mercante involucrada en este tipo de operación debe contar con la certificación de la heliplataforma otorgada por la autoridad aeronáutica del estado de matrícula de la nave. (4) La maniobra de embarque, desembarque y el ascenso y/o descenso vertical en la nave, debe realizarse sólo en los lugares y condiciones debidamente autorizados. (b) Requisitos operativos. Las operaciones de esta sección deberán efectuarse de acuerdo a las reglas de vuelo visual en condiciones diurnas y conforme a lo siguiente: (1) Con helicópteros propulsados por turbina. (2) El helicóptero deberá además estar equipado con una radio marítima de VHF FM, capaz de transmitir y recibir en el canal 16 y en otras dos frecuencias simples de trabajo. A menos que previamente se hayan acordado otras disposiciones, la nave se mantendrá en el canal 16 de VHF para la llegada del helicóptero. (3) Los helicópteros deben contar con medios de flotación permanente o rápidamente desplegables en las siguientes circunstancias: (i) Cuando se vuele sobre agua a una distancia desde tierra correspondiente a más de diez (10) minutos, a la velocidad normal de crucero, en caso de helicópteros de performance clase 1 o 2; y (ii) Cuando se vuele sobre agua a una distancia desde tierra superior a la distancia de autorrotación o de aterrizaje forzoso seguro, en caso de helicópteros de clase de performance 3. (4) Equipos de emergencia a bordo de acuerdo a lo que se indica en el Capítulo E de esta norma. (c) Responsabilidad del piloto al mando. (1) Además de las responsabilidades establecidas en esta norma al piloto al mando le corresponde de acuerdo a la configuración de la nave, al estado del mar y a la intensidad y dirección del viento, determinar si el procedimiento de embarque/desembarque de los pasajeros se puede efectuar en forma segura. El Piloto al Mando tiene la responsabilidad de determinar si existen las condiciones adecuadas para iniciar, continuar o suspender la operación; (2) El Piloto al Mando de la aeronave podrá, si así lo estima necesario, solicitar alterar el curso o velocidad de la nave, con el propósito de incrementar la seguridad de vuelo, lograr el mínimo movimiento del buque y el mejor viento relativo en el momento de transferencia. (3) Durante el desarrollo de la operación, el Piloto al Mando debe mantener permanente comunicación en frecuencias aeronáuticas con el servicio de control de tránsito aéreo más cercano al lugar en que se realiza el vuelo. (d) Instrucciones a los pasajeros. (1) Procedimientos de embarque y desembarque. El operador será responsable de impartir las instrucciones necesarias a los pasajeros para el embarque y desembarque del helicóptero tanto en el aeródromo de salida o llegada como en la cubierta de la nave. Los procedimientos para impartir estas instrucciones deben ser incorporados al manual de operaciones de la empresa aérea. (2) Procedimiento para el caso de amaraje. El operador deberá considerar como parte de las instrucciones y, dado que estas operaciones se desarrollan sobre agua, el procedimiento a seguir por las personas a bordo del helicóptero en caso de tener que efectuar un amarizaje. (e) Programa de Instrucción. (1) Teórica. Al operador le corresponde desarrollar un programa de instrucción para los tripulantes del helicóptero, respecto a los procedimientos establecidos por la empresa en su Manual de Operaciones. La capacitación realizada debe quedar acreditada en los registros del operador. En ningún caso puede participar en este tipo de operaciones personal tripulante que no haya sido sometido previamente a dicho adoctrinamiento. (2) De vuelo. La instrucción de vuelo en este tipo de operación, a la que deben ser sometidos los pilotos recién contratados por el operador, debe ser efectuada por pilotos con experiencia en ese tipo de maniobras. A fin de acreditar dicha experiencia ante la DGAC, los pilotos del operador designados para efectuar esta instrucción deben consignar en sus Bitácoras personales de vuelo la siguiente información: (i) Fechas en que ha efectuado este tipo de operaciones; (ii) Matrícula y tipo de helicóptero empleado en ellas; (iii) Identificación y nacionalidad de la nave (o naves) a la que se trasladó a los pasajeros; (iv) Número de operaciones efectuadas; (v) Tiempo de vuelo total en este tipo de operaciones; y (vi) Cualquiera otra información que se considere importante para acreditar la experiencia requerida. (f) Seguridad. (1) Cambio de rumbo y velocidad de la nave. Si durante la operación fuese necesario cambiar el rumbo y velocidad de la nave, el piloto del helicóptero debe ser informado inmediatamente y, en tales circunstancias, el piloto puede verse en la obligación de retrasar la operación y mantenerse a distancia de la nave. (2) Trinque del helicóptero. Si las condiciones prevalecientes del mar o las condiciones meteorológicas lo hacen necesario, en algunas oportunidades se requerirá trincar el helicóptero una vez que éste se ha posado en la cubierta de la nave. La decisión de trincar el helicóptero corresponde exclusivamente al Piloto al Mando. (3) Traslado de pasajeros hacia y desde naves. (i) El Piloto al Mando del helicóptero, previo al inicio de la maniobra, probará comunicaciones con la nave, indicando el tiempo estimado para la aproximación. También solicitará que el personal habilitado de a bordo efectúe las siguientes acciones: (A) Prepare la heliplataforma o el área libre de obstáculos para la maniobra de aterrizaje del helicóptero y el embarque o desembarque con seguridad de los pasajeros. (B) Direccionar todos los mástiles y tangones que sean posibles. (C) Afianzar toda la arboladura que esté suelta. (D) Mantener clara la zona de maniobra de personas. (E) Desconectar el radar o dejarlo en stand-by. (F) No tocar el gancho de la grúa de rescate hasta que el helicóptero se pose en la heliplataforma o en la cubierta del buque; y (G) No sujetar el gancho de la grúa de rescate al buque. (ii) Las maniobras de estacionario para el ascenso y/o descenso vertical en la nave, debe realizarse dentro de los límites operacionales establecidos en el Manual de Vuelo del helicóptero. (g) Todas las naves nacionales que obtengan la certificación de su heliplataforma se incluirán en la publicación de información aeronáutica AIP-Chile (Parte 3 Aeródromos/helipuertos). De esta forma las empresas aéreas tendrán información directa y oportuna respecto a las naves nacionales que están certificadas para recibir pasajeros en heliplataforma y se impondrán de las características físicas de la heliplataforma. 135.251 OPERACIÓN CON EQUIPOS E INSTRUMENTOS INOPERATIVOS. (a) Helicópteros que no cuentan con un Master MEL (MMEL). El piloto al mando de un helicóptero para el cual el Estado de diseño no haya aprobado un Master MEL (MMEL) podrá despegar un helicóptero con equipos e instrumentos inoperativos, siempre y cuando estos no afecten la seguridad operacional del avión o de sus pasajeros, tripulación o carga y se cumpla con lo siguiente: (1) no sean aquellos requeridos para operaciones VFR-día establecidos en los requisitos de aeronavegabilidad para la obtención de su certificado de tipo. (2) no sean aquellos indicados como requeridos en la lista de equipos del avión (KOEL-Kinds of Operations Equipment List), establecido en su manual de vuelo para el tipo de vuelo a ser ejecutado. (3) no sean aquellos para los cuales una AD establezca que deben encontrarse en condición operativa. (4) Los equipos e instrumentos inoperativos hayan sido: (i) Retirados del helicóptero; el espacio disponible sea cubierto con una placa y se deje registro de acuerdo se indica en la DAN 43; o (ii) Desactivados y se ponga sobre ellos una placa con la leyenda "inoperativo". Si la desactivación significa una acción de mantenimiento, esta debe ejecutarse y registrarse conforme a la DAN 43. (b) Helicópteros que cuentan con un Master MEL (MMEL). (1) A partir de la fecha de publicación de la presente norma, todo operador que obtenga por primera vez su certificado de operador aéreo en Chile, y para cuyo helicóptero el organismo de diseño haya aprobado un Master MEL (MMEL), deberá contar con una Lista de Equipamiento Mínimo (MEL) y una Guía de Desviación para el Despacho (DDG) o documentos equivalentes, tales como procedimientos de operaciones y de mantenimiento, establecidos por el Operador y aprobada por la DGAC. (2) A partir del 01 ene 2018, todo helicóptero que haya obtenido su certificado de operador aéreo en Chile en fecha anterior a la fecha de publicación de la presente norma, y para el cual el organismo de diseño haya aprobado un Master MEL (MMEL), deberá contar con una Lista de Equipamiento Mínimo (MEL) y una Guía de Desviación para el Despacho (DDG) o documentos equivalentes, tales como procedimientos de operaciones y de mantenimiento, establecidos por el Operador y aprobada por la DGAC. (3) La MEL propuesta por el Operador deberá estar basada en la última revisión del Master MEL (MMEL) aplicable al modelo del helicóptero; estar incluida en su Manual de Operaciones y cumplir con el formato que se indica en Apéndice 9. (4) Todo equipo o sistema no considerado en la MEL aprobada, deberá encontrarse operativo al momento del despacho del helicóptero. (5) El MMEL no puede ser usado como un Listado de Equipamiento Mínimo válido para realizar despachos con equipos o sistemas inoperativos. (6) La MEL propuesta deberá ser más restrictivo que el MMEL, deberá considerar los requerimientos nacionales de equipamiento mínimo y deberá considerar las limitaciones a su Manual de Vuelo (AFM), Procedimientos de Emergencia y las Directivas de Aeronavegabilidad aplicables. (7) Cuando se opere con equipos o sistemas inoperativos que se encuentren considerados en la MEL aprobada, el Operador será el responsable de ejercer el control operacional necesario para verificar que se mantiene un nivel de seguridad aceptable y que los plazos para la reparación de los equipos o sistemas inoperativos, se realicen dentro de los plazos establecidos en él. Este procedimiento requerido en el párrafo anterior debe estar detallado en el Manual de Control de Mantenimiento (MCM) del Operador. (8) El listado MEL debe considerar la real configuración de lo(s) helicóptero(s) a la que aplica, pudiendo no incluir aquellos ítems no instalados, debiendo respetar la numeración del MMEL para los efectos de mantener la referencia a los procedimientos de Operaciones y Mantenimiento cuando corresponda. (9) Debe quedar establecido en los documentos en que se detallan los procedimientos de Mantenimiento (M) y/o de Operaciones (O) requeridos para el despacho con ciertos equipos o sistemas inoperativos, tales como el Dispatch Deviation Guide (DDG) o similar, los que se deben encontrar a bordo y ser parte de los manuales del helicóptero. Los procedimientos de Mantenimiento y Operaciones deben corresponder a los recomendados por el fabricante del avión. (10) Revisiones. El listado de Equipamiento Mínimo debe ser revisado en, al menos, las siguientes circunstancias: (i) Cambio de configuración del helicóptero. El Operador deberá presentar una revisión a la MEL aprobada, cada vez que exista un cambio en la configuración del helicóptero que afecte a algún equipo o sistema considerado en el MEL. (ii) Por requerimiento de la DGAC. El operador deberá presentar una revisión a la MEL aprobada, si con motivo de la revisión de la normativa pertinente, mayores estudios de algún sistema o equipo considerado en el MEL u otro acontecimiento que lo amerite, son requeridos por la DGAC.
+AERONAVEGABLE.
 
-CAPÍTULO D: LIMITACIONES DE UTILIZACIÓN DE LA PERFORMANCE DE HELICÓPTEROS. 135.301 GENERALIDADES. (a) Los helicópteros a los que aplica esta norma deben ser operados: (1) En conformidad con los términos establecidos en su certificado de aeronavegabilidad. (2) Dentro de las limitaciones de utilización y cartas de performance establecidas en su manual de vuelo o prescritas por la DGAC teniendo presente que al aplicar las normas de este capítulo, se tendrán en cuenta todos los factores que afecten de modo importante a la performance del helicóptero (como por ejemplo: Masa, procedimientos operacionales, la altitud de presión apropiada a la elevación del helipuerto/aeródromo, temperatura, viento, y condiciones de la pista, es decir, presencia de fango, agua, hielo o una combinación de estos elementos. Tales factores se tomarán en cuenta directamente como parámetros de utilización o indirectamente mediante tolerancias o márgenes que pueden indicarse en los datos de performance. (b) En el helicóptero deberán existir letreros, listas, marcas en los instrumentos, o combinaciones de estos recursos, que presenten visiblemente las limitaciones prescritas por la DGAC. (c) El piloto al mando deberá operar dentro de las limitaciones de peso impuestas por las normas aplicables de homologación en cuanto al ruido. (d) Limitaciones de peso. (1) El peso del helicóptero al comenzar el despegue no excederá de aquel establecido en su Manual de Vuelo, teniendo en cuenta las reducciones de peso previstas en (a)(2) anterior, conforme progresa el vuelo. (2) En ningún caso, el peso calculado para la hora prevista de aterrizaje en el aeródromo en que se pretende aterrizar y en cualquier otro de alternativa, excederá del peso máximo de aterrizaje especificado en el Manual de Vuelo del helicóptero teniendo en cuenta lo indicado en (a)(2) anterior. (3) En ningún caso, el peso al comenzar el despegue o a la hora prevista de aterrizaje en el aeródromo en que se pretende aterrizar y en cualquier otro de alternativa de destino, deberá exceder los pesos máximos pertinentes para las que se haya demostrado el cumplimiento de las normas aplicables de homologación en cuanto al ruido, cuando corresponda. 135.303 PERFORMANCE Y ENTORNOS DE OPERACIÓN. (a) Generalidades. (1) El operador establecerá, para la aprobación de la DGAC, aquellos procedimientos necesarios para controlar el riesgo relacionado con una falla del grupo motor. (2) El operador reportará a la DGAC cualquier cambio en el entorno del helipuerto que haga necesario modificar la Resolución de Funcionamiento aprobada por la DGAC. (b) Clases de performance según etapa del vuelo. (1) Despegue y ascenso inicial: (i) Clase de performance 1. En caso de falla de un motor, o por otros motivos en cualquier punto del despegue, el piloto al mando del helicóptero podrá interrumpir el despegue y detenerse dentro de la distancia de aceleración-parada disponible, o continuar el despegue y salvar con un margen adecuado todos los obstáculos situados a lo largo de toda la trayectoria de vuelo hasta cumplir con (2)(i) siguiente. (ii) Clase de performance 2. En caso de falla de un motor en cualquier momento después de alcanzar el DPATO, el piloto al mando del helicóptero podrá continuar el despegue franqueando con un margen adecuado todos los obstáculos situados a lo largo de la trayectoria de vuelo hasta cumplir con (2)(i) siguiente. Antes del DPATO, la falla del motor crítico podría obligar al helicóptero a efectuar un aterrizaje forzoso. (iii) Clase de performance 3. En cualquier punto de la trayectoria de vuelo, la falla de un grupo motor obligará al piloto al mando del helicóptero a efectuar un aterrizaje forzoso. (2) En ruta - un motor inactivo. (i) Operaciones en Clase de performance 1 y 2. En caso de falla del grupo motor en cualquier punto en la fase en ruta, el piloto al mando del helicóptero podrá continuar el vuelo hasta un lugar en que puedan satisfacerse las condiciones indicadas en (3)(i) siguiente para operaciones en Clase performance 1 o las correspondientes a (3)(ii) siguiente para operaciones en Clase de performance 2, sin volar por debajo de la altitud mínima apropiada en cualquier punto. (ii) Operaciones en Clase de performance 3. El piloto al mando del helicóptero podrá, con todos los grupos motores en funcionamiento, continuar por la ruta prevista o desviaciones planificadas sin volar en cualquier punto por debajo de la altitud mínima apropiada. En cualquier punto de la trayectoria de vuelo, la falla de un grupo motor obligará al helicóptero a realizar un aterrizaje forzoso. (3) Aproximación y aterrizaje: (i) Operaciones en Clase de performance 1. En caso de falla del grupo motor, que se observe en cualquier punto durante la fase de aproximación y aterrizaje, antes del punto de decisión de aterrizaje, el piloto al mando del helicóptero podrá, en el punto de destino o en cualquier otro de alternativa, después de franquear todos los obstáculos en la trayectoria de aproximación, aterrizar y detenerse dentro de la distancia de aterrizaje disponible o efectuar un aterrizaje interrumpido y franquear todos los obstáculos en la trayectoria de vuelo con un margen suficiente equivalente al que se indica en (b)(1)(i) anterior. En caso de que la falla ocurra antes del punto de decisión de aterrizaje, el piloto al mando del helicóptero podrá aterrizar y detenerse dentro de la distancia de aterrizaje disponible. (ii) Operaciones en Clase de performance 2. En caso de falla del grupo motor antes del DPBL, el piloto al mando del helicóptero en el punto de destino o en cualquier otro de alternativa, después de franquear todos los obstáculos en la trayectoria de aproximación, aterrizará o bien se detendrá dentro de la distancia de aterrizaje disponible o efectuar un aterrizaje interrumpido y franquear todos los obstáculos en la trayectoria de vuelo con un margen adecuado equivalente al indicado en (b)(1)(ii) anterior. Después del DPBL, la falla del grupo motor podría obligar al piloto al mando del helicóptero a realizar un aterrizaje forzoso. (iii) Operaciones en Clase de performance 3. En cualquier punto de la trayectoria del vuelo, la falla de un motor obligará al piloto al mando del helicóptero a realizar un aterrizaje forzoso. (c) Entornos operacionales: (1) Hostil congestionado. Solo helicópteros certificados como Categoría A pueden operar hacia o desde lugares situados en un entorno hostil congestionado, determinado por la DGAC. (2) Hostil no congestionado. Solo helicópteros certificados como Categoría A y B pueden operar hacia o desde este tipo de lugar establecido por la DGAC. (3) Hostil. Solo helicópteros certificados como Categoría A y B pueden operar hacia o desde este tipo de lugar establecido por la DGAC. (4) No hostil. Cualquier categoría o clase de helicópteros puede operar en este tipo de entorno definido por la DGAC. 135.305 DATOS SOBRE OBSTÁCULOS. El operador empleará todos los datos disponibles sobre obstáculos para elaborar procedimientos a fin de cumplir con las fases de despegue, ascenso inicial, aproximación y aterrizaje descritas en el Manual de Vuelo. 135.307 REQUISITOS DE PERFORMANCE. HELICÓPTEROS TERRESTRES OPERADOS SOBRE EL AGUA. Los helicópteros que vuelen sobre el agua en un entorno hostil estarán certificados para amaraje. El estado de la mar formará parte integrante de la información sobre amaraje. Se podrá operar un helicóptero transportando pasajeros sobre el agua, si: (a) Es operado a una altitud que le permita llegar a tierra en caso de una falla de motor. (b) Es necesario para realizar las maniobras de despegue y aterrizaje. (c) El helicóptero está equipado con dispositivos de flotación. (d) Es un helicóptero multimotor operado con un peso que le permita ascender con el motor crítico inoperativo, por lo menos a 50 pies por minuto a una altitud de 1000 pies sobre la superficie. 135.309 OPERACIONES EN HELICÓPTEROS MONOMOTORES. Los helicópteros monomotores se utilizarán solamente en condiciones de luz diurna, y en las rutas y desviaciones de las mismas, que permitan realizar un aterrizaje forzoso en condiciones de seguridad en caso de falla de motor.
+Condición de una aeronave, motor o hélice, cuando se encuentra conforme a su Certificado de Tipo y en condición de operación segura.
 
-CAPÍTULO E: INSTRUMENTOS, EQUIPOS, LUCES Y EQUIPAMIENTO. 135.401 GENERALIDADES. El operador verificará que el helicóptero, además del equipo necesario para el otorgamiento del certificado de aeronavegabilidad, cuente con los instrumentos y equipos que se prescriben en los párrafos siguientes, en forma operativa, de acuerdo con el helicóptero utilizado y las operaciones previstas de realizar. Para la instalación de estos instrumentos y equipos se deberá solicitar la aprobación a la DGAC. 135.403 INSTRUMENTOS. Los helicópteros deberán estar equipados con instrumentos para que los miembros de la tripulación de vuelo puedan verificar la trayectoria de vuelo del helicóptero, llevar a cabo cualquier maniobra reglamentaria requerida y observar las limitaciones de utilización del helicóptero en las condiciones de utilización previstas. (a) Helicópteros que operen conforme a las reglas de vuelo VFR. Todos los helicópteros estarán equipados con: (1) Brújula magnética. (2) La altitud barométrica. (3) La velocidad indicada. (4) La cantidad de combustible por cada estanque. (5) La posición del tren de aterrizaje si este es retráctil. (6) Los parámetros básicos de funcionamiento del motor (tacómetros, indicador presión de aceite, indicadores de temperatura para cada motor-aceite y líquido refrigerante, indicador de presión de carga, cuando corresponda). (b) Helicópteros que realicen vuelos nocturnos conforme a las reglas de vuelo VFR. Además de los instrumentos básicos especificados para volar bajo reglas de vuelo VFR deben contar con los siguientes: (1) Indicador giroscópico de razón de viraje o equivalente. (2) Un indicador de desplazamiento lateral. (3) Las luces indicadas en 135.407 (a). (c) Para todos los helicópteros que vuelen conforme a las reglas de vuelo por instrumentos (IFR). Todos los helicópteros, cuando vuelen con sujeción a las reglas de vuelo por instrumentos o cuando no se puedan mantener en la actitud deseada sin referirse a uno o más instrumentos de vuelo, estarán equipadas en cada puesto de pilotaje con: (1) Los instrumentos y equipos básicos especificados para volar bajo reglas de vuelo VFR. (2) Reloj instalado en la aeronave con indicación de hora, minutos y segundos con un segundo indicador de tiempo transcurrido o de indicación digital. (3) Un indicador de actitud de vuelo (horizontal artificial) para cada piloto y uno adicional. (4) Un indicador de rumbo (giróscopo direccional). (5) Dos Altímetros sensitivos. (6) Un Variómetro. (7) Indicador de la velocidad aerodinámica con dispositivos que impidan su mal funcionamiento debido a condensación o a formación de hielo. (8) Fuente alterna de presión estática. (9) Cuando vuelen en conformidad con reglas IFR, o cuando no puedan mantenerse en la actitud deseada sin referirse a uno o más instrumentos de vuelo estarán equipados con un dispositivo que indique en el puesto de pilotaje, la temperatura exterior. (10) Indicador de calefacción al sistema estático pitot. (11) Cuando corresponda, Sistema de estabilización aumentada (SAS). NOTA: Los indicadores de velocidad, rumbo y viraje, se pueden integrar mediante combinaciones de instrumentos o directores de vuelo, con tal que se conserven las garantías contra la falla total inherentes a los tres instrumentos por separado. 135.405 EQUIPOS. (a) Básicos. (1) Medios para comprobar si es adecuada la energía que acciona los instrumentos giroscópicos. (2) Fuente de energía auxiliar para los instrumentos indicadores de actitud de vuelo activados eléctricamente. (3) Todos los helicópteros que operen IFR, deberán estar provistos de una fuente de energía independiente que permita el funcionamiento e iluminación por un mínimo de treinta (30) minutos de un indicador de actitud de vuelo stand by. (4) Un sistema que indique la adecuada alimentación de los instrumentos giroscópicos de vuelo, sean éstos eléctricos, a succión o a presión. (5) La fuente de energía auxiliar deberá entrar en funcionamiento en forma automática en caso de una falla total del sistema principal generador de electricidad y en el tablero de instrumentos deberá haber una indicación clara de que el indicador de actitud de vuelo funciona con la energía auxiliar. (b) Equipos de comunicaciones. (1) Para los vuelos en partes definidas del espacio aéreo o en rutas en las que se ha prescrito un tipo de Performance de Comunicación Requerida (RCP), la aeronave deberá, además de los requisitos siguientes estar dotada de equipo de comunicaciones que le permita funcionar de acuerdo con el tipo o tipos de RCP prescritos y estar autorizado por la DGAC. (2) Aeronaves que operen bajo las reglas de vuelo VFR. Deberán contar con un sistema de comunicación que permita la comunicación en ambos sentidos en el modo y frecuencia asignado al espacio aéreo en que está operando. (3) Aeronaves que operen bajo reglas de vuelo IFR o VFR nocturno. Deberán contar con dos sistemas de comunicación que permita la comunicación constante, en ambos sentidos, en el modo y frecuencia asignado al espacio aéreo en que está operando y recibir información meteorológica en cualquier momento durante el vuelo. (4) Los equipos de comunicaciones, deben ser aptos para comunicarse en la frecuencia aeronáutica de emergencia 121.5. (5) El helicóptero deberá contar como mínimo con un micrófono para cada tripulante de vuelo, con dos parlantes independientes o un parlante y un par de fonos. (6) La instalación de cada sistema deberá ser independiente, de modo que la falla de una unidad o elemento cualquiera no afecte el funcionamiento del otro. (c) Equipos de navegación. Todos los helicópteros irán provistos del equipo de navegación que les permita proseguir conforme al plan de vuelo y de acuerdo a los requisitos del servicio de tránsito aéreo de acuerdo a lo siguiente: (1) Para operaciones VFR. La navegación en los vuelos que se atengan a las reglas VFR se efectúe por referencia a puntos característicos del terreno. (2) Para operaciones IFR. Para los vuelos en que se proyecte aterrizar en condiciones meteorológicas de vuelo por instrumentos, el helicóptero estará provisto de equipo de navegación apropiado que proporcione guía hasta un punto desde el cual pueda efectuarse un aterrizaje visual. Este equipo permitirá obtener tal guía respecto a cada uno de los helipuertos en que se proyecte aterrizar en condiciones meteorológicas de vuelo por instrumentos y a cualquier helipuerto de alternativa designado. (3) El helicóptero estará provisto de equipos de navegación para verificar que, en caso de falla de un elemento en cualquier fase del vuelo, el equipo restante sea suficiente para permitir que el helicóptero navegue en forma segura y de acuerdo al plan de vuelo original. Además, la instalación de cada sistema deberá ser independiente, de modo que la falla de una unidad o elemento cualquiera no afecte el funcionamiento del otro. (4) En operaciones para las que se ha prescrito una especificación de navegación basada en la performance (PBN), el helicóptero deberá, además de los requisitos de (c) anterior cumplir con lo siguiente: (i) Estar dotado de equipo de navegación que le permita funcionar de conformidad con las especificaciones para la navegación prescritas; y (ii) estar autorizado por la DGAC para realizar dichas operaciones. (iii) contará con la información relativa a las capacidades de especificación de navegación del helicóptero que se incluyen en la MEL. (5) Los sistemas de navegación requeridos por esta sección, deberán entregar información independiente para cada tripulante de vuelo. (d) Otros equipos. (1) Registradores de datos de vuelo digitales (DFDR), grabadores de voz en la cabina de pilotos (CVR) y registradores de enlace de datos. Tanto los registradores de datos de vuelo como los grabadores de voz, deben satisfacer las especificaciones de resistencia al impacto e incendio con el fin de proporcionar la máxima protección a los registros para su preservación, recuperación y trascripción. Además estarán sujetos a las verificaciones operacionales establecidas en el Capítulo M. (i) Registrador de datos de vuelo. (A) Ninguna persona puede operar bajo esta norma, un helicóptero multimotor propulsado por turbina fabricado después del 11 octubre 1991 y que tenga una configuración de asientos de pasajeros conforme a su certificado de tipo de 10 a 19 asientos, excluyendo asientos de la tripulación, debe estar equipado a partir del 01 ene 2020 con uno o más registradores de datos de vuelo que use un método digital de grabación (DFDR), de almacenamiento de datos y un método para recuperar en forma rápida los datos almacenados, exceptuando los helicópteros indicados en párrafo G siguiente. Los parámetros especificados en TABLA 1 del Apéndice 3 deben ser grabados dentro del rango, exactitud, resolución e intervalos de grabación según se especifica. El grabador, debe almacenar no menos de 25 horas de operación del helicóptero. (B) Ninguna persona puede operar bajo esta norma, un helicóptero multimotor propulsado por turbina fabricado después del 11 octubre 1991 que tenga una configuración de asientos de pasajeros conforme a su certificado de tipo de mas de 20 asientos a no ser que esté equipado con uno o más registradores de datos de vuelo que use un método digital de grabación (DFDR) y un método para recuperar en forma rápida los datos almacenados. Los parámetros especificados en TABLA 2 del Apéndice 3 deben ser grabados dentro del rango, exactitud, resolución e intervalos de grabación según se especifica. El grabador, debe almacenar no menos de 25 horas de operación del helicóptero. (C) Cada vez que se instale un registrador de datos de vuelo requerido por esta sección, este no debe ser desconectado durante el tiempo de vuelo debiendo operar continuamente desde el instante en que el helicóptero comienza el despegue hasta que el helicóptero ha aterrizado en su destino. (D) Un total de una (1) hora de los datos registrados puede ser borrada con fines de prueba del grabador o sistema de grabación de datos de vuelo. El borrado de acuerdo a lo señalado debe corresponder a la data más antigua acumulada al momento de la prueba. (E) Ante un accidente o incidente que exija aviso inmediato a la DGAC, el operador deberá desconectar y mantener desconectados los registradores y conservar la información por un lapso de 60 días o si lo solicita la DGAC, por un tiempo mayor. (F) Todo grabador de datos de vuelo debe poseer un dispositivo que ayude a su ubicación debajo del agua. (G) Helicópteros fabricados antes del 18 agosto 1997: (*) Bell 212 (*) Bell 214 ST (*) Bell 412 (*) Bell 412 SP (*) Boeing Chinook (BV 234) (*) Eurocopter Puma 330J (*) Sikorsky 61N (*) Sikorsky 76 A. (H) Los helicópteros certificados de tipo antes del 1 octubre 1969 deben registrar los siguientes parámetros: (*) Tiempo (*) Altura (*) Velocidad (*) Aceleración vertical (*) Rumbo (*) Tiempo de cada transmisión de radio hacia y desde el control de tránsito aéreo. (*) Actitud de cabeceo (*) Actitud de alabeo (*) Aceleración longitudinal (*) Posición de la barra de mando o de la superficie de control de cabeceo; y (*) Empuje de cada motor. (I) Los helicópteros certificados de tipo después del 30 septiembre 1969 deben registrar los siguientes parámetros: (*) Tiempo (*) Altura (*) Velocidad (*) Aceleración vertical (*) Rumbo (*) Tiempo de cada transmisión de radio hacia y desde el control de tránsito aéreo. (*) Actitud de cabeceo (*) Actitud de alabeo (*) Aceleración longitudinal (*) Posición del compensador de cabeceo (*) Posición de la barra de mando o de la superficie de control de cabeceo. (*) Posición de la rueda de control o de la superficie de control lateral (*) Posición del pedal de control de la dirección o de la superficie de control de deslizamiento. (*) Empuje de cada motor. (ii) Grabador de voz en cabina (CVR). (A) Ninguna persona puede operar un helicóptero multimotor turbina con una configuración de asientos de pasajeros según certificado de tipo de 6 o más excluyendo los de pilotos y para el cual se requieren dos pilotos conforme al certificado de tipo o reglas de operación, a no ser, que esté equipada con un registrador de voz en cabina que: (*) Opere continuamente desde el uso de la lista de chequeo antes del vuelo y hasta que se completa la lista de chequeo al final del vuelo y sea capaz de conservar la información durante los últimos 30 minutos. (**) A partir de la fecha de publicación de la presente edición, retenga a lo menos las 2 últimas horas de información y no sean del tipo alámbricos o de cinta magnética. (B) Todos los helicópteros a los cuales esta sección les aplique, que tengan instalado un equipo de comunicaciones de transmisión de datos (data link), deben grabar todos los mensajes que se generen. (C) Todo helicóptero propulsado por motor turbina y que para su operación requiera dos pilotos, deberá a contar del 1 enero 2016 estar equipada con CVR O CARS. (iii) FDR/CVR. (A) Ante un accidente o incidente que exija aviso inmediato a la DGAC, el operador deberá conservar la información de los registradores. Además deberá: (*) Desconectar, retirar y proteger los dispositivos antes mencionados. (*) Hacer entrega de estos elementos al órgano jurisdiccional competente o a la DGAC según corresponda. (B) Todo registrador de datos de vuelo (FDR) y de voz en cabina, deberá: (*) Ser pintado de un color anaranjado o amarillo. (*) Tener integrado a su estructura material reflectante que permita facilitar su ubicación. (*) Tener adosado un dispositivo automático que permita su ubicación bajo el agua. (iv) Registradores de enlace de datos. (A) Todo helicóptero que reciba su primer certificado de aeronavegabilidad en fábrica el 1 enero 2016 o en fecha posterior y que utilice cualquiera de las aplicaciones para comunicaciones por enlace de datos grabarán las siguientes variables en un registrador de vuelo y mantendrán la información a lo menos por las dos últimas horas de funcionamiento: (*) Capacidad de inicio del enlace de datos (registro obligatorio). (*) Comunicaciones de enlace de datos controlador-piloto (registro obligatorio). (*) Servicios de información de vuelo por enlace de datos (registro obligatorio). (*) Vigilancia dependiente automática - contrato (registro obligatorio). (*) Vigilancia dependiente automática - radiodifusión (registro en la medida de lo factible). (*) Control de las operaciones aeronáuticas (registro en la medida de lo factible). (B) Los registros por enlace de datos deberán poder correlacionarse con los registros de audio del puesto de pilotaje. (2) Transmisor localizador de emergencia (ELT). (i) Toda aeronave deberá estar equipada con un Transmisor localizador de emergencia ELT del tipo automático que cumpla con TSO C-126 que sea capaz de transmitir en 121.5 y 406 MHz simultáneamente, que tenga su switch inercial en condición operativa y cuya batería cumpla con lo siguiente: (A) Sean reemplazadas o recargadas. (*) Cuando el transmisor haya acumulado más de una (1) hora de operación. (*) Cuando cumpla el 50% de su vida útil o si la batería es recargable cuando se cumpla el 50% de su vida útil de carga de acuerdo con lo establecido por el fabricante del transmisor. Este requisito no aplica a aquellas baterías que no son afectadas por periodos de almacenamiento. Por ejemplo baterías activadas por agua. (*) La nueva fecha de vencimiento para reemplazo o recarga debe marcarse en forma legible en el exterior del transmisor y ser anotada en los registros de mantenimiento. (B) Independiente del tipo de batería recargable o no que se emplee, estas deberán permanecer cargadas de forma que el dispositivo permanezca siempre en condición operativa. (ii) Codificación de los ELT. (A) Los ELT deberán utilizar la codificación asignada por el Departamento de Seguridad Operacional de la DGAC, la que será válida mientras el helicóptero mantenga su matrícula y se encuentre registrada en Chile. (B) La codificación a emplear corresponderá a una palabra hexadecimal de 15 caracteres, código que será reconocido por el sistema mundial de rastreo y localización satelital (COSPAS-SARSAT) y deberá ser solicitada a la DGAC utilizando el formulario "FORM. DGAC OPS 1" incluido en Apéndice 4. (C) La comunicación formal de la asignación del código deberá ser considerada como un documento técnico/operacional, debiendo ser incorporada en los registros de mantenimiento del helicóptero y registrando el código asignado en la bitácora o libro de vuelo de la aeronave afectada. (D) El operador será responsable de la pronta codificación del ELT de acuerdo a la información pertinente suministrada por la DGAC. (E) El operador deberá informar a la brevedad de cualquier cambio o variación de la información suministrada al solicitar la codificación, con tal de mantener actualizada la información que requieren los Servicios de Búsqueda y Salvamento. (3) Transpondedor de notificación de altitud de presión y codificación. (i) Todo helicóptero estará equipado con un transpondedor de notificación de altitud de presión operativo, capaz de responder en modo 3/A de 4096 dígitos junto a un reporte automático de altitud de presión, que le permita responder a interrogaciones en modo C, con el objeto de transmitir información de altitud en incrementos de 100 pies, consecuente con la altitud máxima de operación del helicóptero y que cumpla con la TSO-C47b, TSO-C47c o TSO-C112. (ii) La codificación del transpondedor se efectuará conforme al procedimiento que se establece en Apéndice 5 de esta norma. (iii) Todo helicóptero que obtenga por primera vez su certificado de aeronavegabilidad en Chile el 01 ene 2018 o en fecha posterior, estará equipado con un transpondedor Modo S. (4) Sistema de protección contra hielo. Todo helicóptero que opere en condiciones o con pronóstico de formación de hielo deberá contar con un sistema de deshielo o antihielo operativo en cada hélice, parabrisas, motor, pala, superficie de estabilización o control y en toda toma del sistema estático pitot. (5) Sistema control de vibraciones. Los helicópteros que tengan una masa máxima certificada de despegue superior a 3 175 kg o una configuración de capacidad máxima de asientos de pasajeros superior a 9 deberán estar equipados con un sistema de control de vibraciones. (6).Helicópteros equipados con visualizadores de "cabeza alta" (HUD) o sistemas de visión mejorada (EVS). (i) Para los helicópteros equipados con HUD o visualizadores equivalentes, EVS o CVS, o cualquier combinación de esos sistemas en un sistema híbrido, la DGAC establecerá los criterios para el uso de tales sistemas para la operación segura de los helicópteros. (ii) Para aprobar el uso operacional de sistemas de aterrizajes automáticos, HUD o visualizadores equivalentes, EVS, SVS o CVS, el operador se verificará de que: (A) el equipo satisface los requisitos apropiados en materia de certificación de la aeronavegabilidad; (B) se ha llevado a cabo una evaluación de riesgos de seguridad operacional de las operaciones apoyadas por los sistemas de aterrizaje automático, HUD o visualizadores equivalentes, EVS, SVS o CVS; (C) se ha establecido y documentado los procedimientos relativos al uso de sistemas de aterrizaje automático, HUD o visualizadores equivalentes, EVS, SVS o CVS y a los requisitos de instrucción correspondientes. (7) Sistema de advertencia de la proximidad del terreno (GPWS). Todo helicóptero que vuele de conformidad con las reglas de vuelo IFR y que tenga una masa máxima certificada de despegue superior a 3 175 kg o una configuración de capacidad máxima de asientos de pasajeros superior a 9, debería estar equipado con un sistema de advertencia de la proximidad del terreno provisto de una función frontal para evitar impactos. (8) Gestión de datos electrónicos de navegación. (i) El operador no empleará datos electrónicos de navegación que hayan sido procesados para su aplicación en vuelo o en tierra, a menos que la DGAC haya aprobado los procedimientos del operador para garantizar que el proceso aplicado y los datos entregados cumplan normas aceptables de integridad, y que los datos sean compatibles con la función prevista del equipo que los utilizará. (ii) El operador implantará procedimientos que garanticen la distribución e inserción oportunas de datos electrónicos de navegación actualizados e inalterados a todas las aeronaves que los necesiten. 135.407 LUCES Y EQUIPAMIENTO. (a) Luces. Todo operador, además de las luces indicadas en la DAN 91 "Reglas del Aire", deberá verificar que sus helicópteros estén equipados con las siguientes luces: (1) Dos faros de aterrizaje. A lo menos uno orientable en el plano vertical. (2) Luces de instrumentos y de equipos indispensables para la operación segura del helicóptero utilizados por la tripulación de vuelo. (3) Luces en todos los compartimientos de pasajeros. (b) Equipamiento. (1) Para todos los helicópteros, en todos los vuelos. Antes de iniciar una operación, todo helicóptero deberá estar equipado con el siguiente equipamiento en condición operativa: (i) Equipamiento sanitario: Todo helicóptero estará equipado con un botiquín de primeros auxilios cuyo contenido según asientos de pasajeros se indica en Apéndice 6 de esta DAN. (ii) Extintores portátiles de un tipo que, cuando se descarguen, no causen contaminación peligrosa del aire dentro del helicóptero, de acuerdo con lo siguiente: (A) El tipo y cantidad de agente extintor debe estar de acuerdo al tipo de fuego que puede ocurrir en el compartimiento donde se intenta utilizar el extintor y diseñados para minimizar el peligro de la concentración de gases tóxicos. (B) Cuando se transporte solo carga, al menos un extintor manual para fuegos eléctricos y uno conforme al tipo de carga que transporte, accesible para la tripulación durante el vuelo. (C) Extintores portátiles de un tipo que, cuando se descarguen, no causen contaminación peligrosa del aire dentro del helicóptero tales como polvo químico seco o dióxido de carbono y cuya instalación y fijación no entorpezca la operación segura del helicóptero o afecte la seguridad de la tripulación y pasajeros. Su ubicación deberá permitir el fácil acceso a ellos a no ser que estos se encuentren a la vista. Si se encuentran almacenados, esta ubicación debe estar señalizada. Al menos uno estará ubicado: (*) En la cabina de pilotos; y (**) En la cabina de pasajeros cuando esta esté separada del compartimiento de la cabina de pilotos y que no sea de fácil acceso a los miembros de la tripulación de vuelo; (D) Todo agente extintor que se utilice en los extintores de incendios incorporados en los receptáculos destinados a desechar toallas, papel o residuos en los lavabos de un helicóptero cuyo certificado de aeronavegabilidad individual se haya expedido por primera vez el 31 dic 2011 o después y todo agente extintor empleado en los extintores de incendios portátiles de un helicóptero cuyo certificado de aeronavegabilidad individual haya sido expedido por primera vez el 31 de diciembre de 2018 o después, no será de un tipo de los enumerados en el protocolo de Montreal aprobado por el DECRETO SUPREMO (Relaciones Exteriores) Nº 238 DEL 08 MAR 1990 (publicado el 28 abr 1990) relativo a las sustancias que agotan la capa de ozono. (iii) Un asiento o litera para cada persona mayor de dos (2) años. Menores a la edad señalada, pueden ser llevados en brazos de su acompañante o en sillas certificadas para su uso en aviación. (iv) Cinturones para cada asiento y litera; (v) Arneses de seguridad para cada asiento de los miembros de la tripulación de vuelo y asiento de tripulante auxiliar. El arnés de seguridad de cada asiento de piloto deberá incluir un dispositivo que sujete el torso del ocupante en caso de desaceleración rápida. El arnés de seguridad de cada asiento de piloto deberá incluir un dispositivo destinado a impedir que el piloto que sufra una incapacitación súbita dificulte el acceso a los mandos de vuelo. (vi) De no contar con fusibles automáticos, requerirá de fusibles de repuesto de los amperajes apropiados para reemplazar aquellos que sean accesibles en vuelo. (vii) Con medios para verificar que se comunique a los pasajeros la información e instrucciones siguientes: (A) cuando han de ajustarse los cinturones de seguridad; (B) cuando y como ha de utilizarse el equipo de oxígeno, si se exige provisión de oxígeno; (C) no fumar; (D) ubicación y uso de los chalecos salvavidas, o de los dispositivos de flotación equivalentes si se exige llevar esos dispositivos; y (E) ubicación y modo de abrir las salidas de emergencia. (viii) Los helicópteros que se empleen sobre zonas terrestres o marítimas en las que sería muy difícil la búsqueda y salvamento, estarán provistos de los dispositivos de señales y de equipo salvavidas (incluso medios para el sustento de la vida) apropiados al área sobre la que se haya de volar. (ix) Micrófonos de vástago o de garganta cuando el helicóptero se encuentre bajo el nivel de transición/altitud que permitan la comunicación entre los miembros de la tripulación de vuelo que se encuentren en servicio en el compartimiento de pilotos. (x) Luz portátil: Todo helicóptero de transporte de pasajeros o carga deberá disponer de una luz portátil operativa y de rápido acceso desde el asiento de cada miembro de la tripulación. (xi) Hacha de rescate para helicópteros con una capacidad de asientos de pasajeros de 19 o más ubicada de tal forma que no sea alcanzable por los pasajeros durante una operación normal. (xii) El equipamiento señalado, deberá cuando corresponda: (A) Ser inspeccionado regularmente de acuerdo a los períodos de inspección establecidos en las especificaciones técnicas del producto, para verificar su condición servible y disponibilidad inmediata para cumplir con los propósitos de emergencia propuestos; (B) Estar fácilmente accesible a la tripulación y cuando corresponda, a los pasajeros. (C) Estar claramente identificado y rotulado para indicar su método de operación; (D) Estar rotulado indicando la fecha de vigencia. (E) Los períodos de inspección señalados por el fabricante se deberán incluir en el respectivo Programa de Inspección del helicóptero. (2) Para todos los helicópteros que vuelen sobre el agua. (i) Todo helicóptero deberá llevar para cada pasajero un chaleco salvavidas o cojín con capacidad de flotación que cumplan con los TSO C13 y C72 respectivamente, situado en un lugar fácilmente accesible desde el asiento de la persona que haya de usarlo cuando en su trayectoria de despegue o aterrizaje exista la probabilidad de un amarizaje. La tripulación de vuelo deberá estar equipada en forma permanente con un chaleco salvavidas que los proteja de daños cervicales. (ii) Medios de flotación. Los helicópteros, cuando se prevea que hayan de volar sobre el agua, estarán equipados con medios de flotación permanente o rápidamente desplegable, a fin de verificar un amaraje forzoso seguro del helicóptero cuando: (A) Se realizan operaciones en el mar u otras operaciones sobre el agua; o (B) se vuele sobre el agua a una distancia desde tierra correspondiente a más de 10 minutos, a la velocidad normal de crucero, en un entorno hostil y en Clase de performance 1 ó 2; o (C) se vuele sobre el agua en un entorno no hostil a una distancia desde tierra especificada por la autoridad competente del Estado responsable y en Clase de performance 1; ó (D) se vuele sobre el agua a una distancia desde tierra superior a la distancia de autorrotación o de aterrizaje forzoso seguro, y en Clase de performance 3. (iii) Para las operaciones en el mar, al volar más allá de la distancia de autorrotación a partir de tierra todos los ocupantes usarán el chaleco salvavidas a menos que el ocupante lleve puesto un traje de supervivencia integral que incluya función de chaleco salvavidas. (iv) Cuando la temperatura del mar sea inferior a 10ºC o cuando el tiempo de rescate estimado exceda del tiempo de supervivencia calculado, todos los ocupantes deberán usar un traje de supervivencia. (3) Para todos los helicópteros que realicen vuelos prolongados sobre el agua. (i) Además del equipo prescrito, el equipo que se indica a continuación deberá ser instalado en todos los helicópteros utilizados en rutas sobre el agua por 30 o más minutos. (A) Balsas salvavidas, estibadas de forma que faciliten su empleo si fuera necesario, en número suficiente para alojar a todas las personas que se encuentren a bordo, provistas del equipo de salvamento incluso medios para el sustento de la vida que sea apropiado para el vuelo que se vaya a emprender y de acuerdo a las siguientes características: (*) Por lo menos el 50% de las balsas salvavidas llevadas, deberían ser desplegables por control a distancia. (**) Las balsas que no sean desplegables por control a distancia y de un peso superior a 40 kg, deberán estar equipadas con algún medio mecánico de despliegue. Cuando el helicóptero esté equipado con dos balsas salvavidas, cada una de ellas podrá llevar a todos los ocupantes en estado de carga excesiva. (B) Equipo necesario por cada balsa para hacer las señales pirotécnicas de socorro. (C) Un transmisor localizador de emergencia aprobado, que sea del tipo supervivencia, ELT (s) que cumpla con TSO C-126, resistente al agua, flote por sí mismo, sea capaz de transmitir en la frecuencia de emergencia 121.5 Mhz y 406 Mhz, y que no dependa del sistema de alimentación eléctrica del helicóptero. (ii) Cada chaleco salvavidas irá provisto de un medio de iluminación eléctrica, a fin de facilitar la localización de las personas. (4) Helicópteros que vuelen a grandes altitudes. (i) La altitud aproximada en la atmosfera tipo, correspondiente al valor de presión absoluta empleada en este texto, es la siguiente:
+Condición de una parte, de un componente o de un sistema de aeronave, cuando se encuentra conforme a su diseño aprobado y en condición de operación segura.
 
-Presión absoluta Metros Pies
+ALCANCE VISUAL EN LA PISTA (RVR).
 
-700 hPa 3 000 10 000
+Distancia hasta la cual el piloto de una aeronave que se encuentra sobre el eje de una pista puede ver las señales de superficie de la pista o las luces que la delimitan o que señalan su eje.
 
-620 hPa 4 000 13 000
+ALTITUD DE DECISIÓN (DA) O ALTURA DE DECISIÓN (DH).
 
-376 hPa 7 600 25 000
+Altitud o altura especificada en una operación de aproximación por instrumentos 3D, a la cual debe iniciarse una maniobra de aproximación frustrada si no se ha establecido la referencia visual requerida para continuar la aproximación.
 
-(ii) Los helicópteros que tengan que utilizarse a altitudes de vuelo en que la presión atmosférica sea inferior a 700 hPa en los compartimientos de pasajeros y pilotos llevarán dispositivos para el almacenaje y distribución de oxígeno que puedan contener y distribuir la provisión de oxígeno requerida en 135.235 (b)(2). (iii) Los helicópteros que tengan que utilizarse a altitudes de vuelo en que la presión atmosférica sea inferior a 700 hPa pero que dispongan de medios para mantener presiones mayores que la citada en los compartimientos de pasajeros y pilotos llevarán dispositivos para el almacenaje y distribución del oxígeno que puedan contener y distribuir la provisión requerida en 135.235 (b)(3). (iv) Un helicóptero que tenga que utilizarse a altitudes de vuelo en las que la presión atmosférica sea inferior a 376 hPa, o que, al volar a altitudes en las que la presión atmosférica sea superior a 376 hPa que no pueda descender de manera segura en cuatro minutos a una altitud de vuelo en la que la presión atmosférica sea igual a 620 hPa, y al que se ha otorgado certificado individual de aeronavegabilidad el 9 de noviembre de 1998 o después de esa fecha, estará equipado con equipo de oxígeno autodesplegable. El número total de dispositivos para distribución de oxígeno será como mínimo un 10 % mayor que el número de asientos de pasajeros y de tripulación de cabina.
+ALTITUD DE FRANQUEAMIENTO DE OBSTÁCULOS (OCA) O ALTURA DE FRANQUEAMIENTO DE OBSTÁCULOS (OCH).
 
-CAPÍTULO F: NORMAS DE ATENUACIÓN Y HOMOLOGACIÓN EN CUANTO AL RUIDO. 135.501 GENERALIDADES (a) Todo helicóptero cumplirá con los niveles de ruido indicados en su manual de vuelo y establecidos en su proceso de certificación. (b) Cuando corresponda, todos los helicópteros que deban observar las normas de homologación acústica, llevarán un documento que acredite esa homologación acústica. Cuando ese documento, o una declaración apropiada que certifique la homologación acústica contenida en otro documento aprobado por la DGAC se expida en un idioma distinto del inglés, se incluirá una traducción al inglés. 135.503 PROCEDIMIENTOS OPERACIONALES DE HELICÓPTEROS PARA LA ATENUACIÓN DEL RUIDO. (a) Los procedimientos operacionales de los helicópteros para la atenuación del ruido deberán ajustarse a la información contenida en el AIP para el respectivo aeródromo/helipuerto. (b) Cuando sea factible, los procedimientos de atenuación del ruido especificados por un operador para cualquier tipo determinado de helicóptero deberán ser los mismos para todos los aeródromos/helipuertos.
+La altitud más baja o la altura más baja por encima de la elevación del umbral de la pista pertinente o por encima de la elevación del aeródromo, según corresponda, utilizada para respetar los correspondientes criterios de franqueamiento de obstáculos.
 
-CAPÍTULO G: PERSONAL DE VUELO 135.601 TRIPULACIÓN DE VUELO. (a) Composición de la tripulación de vuelo. (1) La tripulación de vuelo no será menor que la especificada en el manual de operaciones del operador. La tripulación de vuelo incluirá, además del mínimo especificado en el manual de vuelo o en otros documentos relacionados con el certificado de aeronavegabilidad, los miembros de la tripulación que sean necesarios según el tipo de helicóptero empleado, el tipo de operación y la duración del vuelo entre los puntos en que se releva la tripulación. (2) El operador deberá considerar un segundo al mando (copiloto) para helicópteros con una configuración de diez o más asientos de pasajeros, excluyendo los asientos de los pilotos. (3) El operador deberá considerar un segundo al mando (copiloto) cuando realice operaciones transportando pasajeros en vuelo IFR. (b) Funciones de los miembros de la tripulación de vuelo en casos de emergencia. El operador deberá asignar a todos los miembros de la tripulación de vuelo, para cada tipo de helicóptero, las funciones necesaria que deben ejecutar en caso de emergencia o en una situación que requiera evacuación de emergencia. En el programa de instrucción del operador deberá figurar el entrenamiento periódico respecto a la ejecución de estas funciones, así como instrucción sobre el uso de todo el equipo de emergencia y de salvamento que deba llevarse a bordo, incluyendo simulacros de evacuación de emergencia del helicóptero. (c) Requisitos para desempeñarse como tripulante. El operador podrá emplear a una persona como tripulante siempre que este cumpla con las siguientes condiciones: (1) Que sea titular de una licencia aeronáutica vigente otorgada por la DGAC; (2) Que cuente con las habilitaciones requeridas para el tipo de material de vuelo en el cual se desempeña y para las operaciones aéreas que pretende realizar. (3) Que cumpla con el requisito de experiencia reciente para la operación en que será empleado. (d) Obligaciones del piloto al mando. (1) Cerciorarse de que se ha seguido minuciosamente el sistema de listas de verificación. (2) Será responsable de registrar en la bitácora de vuelo (Flight Log) todas las discrepancias o novedades que detecte o que sospeche existan en el helicóptero. (3) Llenar la bitácora de vuelo (Flight Log) y verificar que se encuentren a bordo los documentos relativos al helicóptero, e indicados en esta norma. (4) Será responsable de la operación, seguridad operacional y protección del helicóptero, así como de la seguridad de todos los miembros de la tripulación, los pasajeros y la carga que se encuentre a bordo. (5) será responsable de la operación y seguridad del helicóptero desde el momento en que este está listo para moverse con el propósito de despegar hasta el momento en que se detiene por completo al finalizar el vuelo. (6) En caso de emergencia durante el vuelo, se verificará de que todas las personas a bordo han sido instruidas en las medidas de emergencia que pueden ser apropiadas a las circunstancias. (7) verificar que los miembros de la tripulación para vuelos internacionales cuenten con la habilitación en el idioma utilizado para las comunicaciones radiotelefónicas aeronáuticas. (8) Para operaciones IFR deberá verificar que las ayudas a la navegación necesarias para navegar el helicóptero en el espacio aéreo (rutas ATS, salidas, arribos y aproximaciones instrumentales, incluyendo la aproximación frustrada si esta se especifica en el procedimiento) están disponibles y son adecuadas para ser utilizadas por el sistema de navegación del helicóptero. (9) Cuando corresponda, controlar los mecanismos integrados de prueba en el puesto de pilotaje para el CVR, el FDR y el equipo de adquisición de datos de vuelo (FDAU). (10) Verificar que el resto de la tripulación no se encuentre afectada de lesiones, enfermedades, fatiga o falta de oxígeno que pudiera afectar el cumplimiento de sus funciones. (e) Cualificaciones. (1) Experiencia reciente – piloto al mando y copiloto, cuando corresponda. (i) El operador asignará a un Piloto al Mando o a un Copiloto para que se haga cargo de los mandos de vuelo de un helicóptero durante el despegue y el aterrizaje, siempre que dichos tripulantes de vuelo hayan estado a cargo de los mandos de vuelo como mínimo en tres despegues y aterrizajes, en los noventa (90) días precedentes, en cada uno de los helicópteros en que esté habilitado o en un simulador de vuelo aprobado para tal efecto. (ii) Para cumplir con los requisitos de experiencia reciente, un Piloto al Mando o un Copiloto que posea más de una habilitación de tipo, deberá cumplir con las disposiciones establecidas en la normativa de Licencias al Personal Aeronáutico. (2) Piloto al mando - capacitación de zona, de ruta y de aeródromo/helipuerto. (i) El operador deberá verificar que todo piloto que vaya a realizar una operación como piloto al mando, en una ruta o tramo de ruta previamente establecida, tenga pleno conocimiento de lo siguiente: (A) La ruta en la que ha de volar, y los aeródromos/helipuertos que ha de utilizar. (B) El terreno y las altitudes mínimas de seguridad. (C) Las condiciones meteorológicas estacionales. (D) Los procedimientos, instalaciones y servicios de meteorología, de comunicaciones y de tránsito aéreo; (E) Los procedimientos de búsqueda y salvamento; (F) Las instalaciones de navegación y los procedimientos, comprendidos los de navegación a larga distancia, atinentes a la ruta en que se haya de realizar el vuelo; (G) Los procedimientos aplicables a las trayectorias de vuelo sobre zonas densamente pobladas y zonas de gran densidad de tránsito, obstáculos, topografía, iluminación, ayudas para la aproximación y procedimientos de entrada, salida, espera y aproximación por instrumentos, así como de los mínimos de utilización aplicables. (ii) La demostración relacionada con los procedimientos de entrada, de salida, de espera y de aproximación por instrumentos puede llevarse a cabo en un dispositivo de instrucción apropiado, que sea adecuado para estos fines. (iii) Un piloto al mando deberá haber efectuado una aproximación a cada aeródromo/helipuerto en la ruta como miembro de la tripulación de vuelo, a menos que; (A) La aproximación al aeródromo o helipuerto no se haga sobre un terreno difícil y los procedimientos de aproximación por instrumentos y las ayudas de que disponga sean similares a los procedimientos y ayudas con que el piloto esté familiarizado, o se tenga certeza de que se pueda hacer la aproximación y el aterrizaje en condiciones meteorológicas de vuelo visual; o (B) pueda efectuarse el descenso desde la altitud de aproximación inicial de día en condiciones meteorológicas de vuelo visual; o (C) el operador capacite al piloto al mando para aterrizar en el aeródromo en cuestión por medio de una presentación gráfica adecuada; o (D) el aeródromo en cuestión esté adyacente a otro aeródromo para el cual el piloto al mando esté normalmente capacitado para aterrizar. (3) El operador deberá llevar una carpeta con los registros operacionales, médicos y de capacitación del piloto y copiloto. (4) El operador solo utilizará a un piloto como Piloto al Mando en una ruta o dentro de una zona especificada por el operador y aprobada por la DGAC, siempre que en los doce (12) meses precedentes ese piloto haya efectuado por lo menos un viaje como piloto miembro de la tripulación de vuelo, o como observador en el compartimiento de la tripulación de vuelo en esa ruta o zona y, si corresponde, sobre cualquier ruta en la que los procedimientos asociados con esa ruta o con cualquier aeródromo destinado a usarse para el despegue o el aterrizaje, requieran la aplicación de habilidades o conocimientos especiales. (5) En caso que hayan transcurrido más de doce (12) meses sin que el piloto al mando haya operado en una ruta o dentro de una zona especificada, el piloto deberá someterse a una recalificación en esa ruta o zona. (6) Verificación de la competencia de los pilotos. (i) El operador verificará cada 6 meses que los pilotos mantengan la competencia en lo relativo a técnicas de pilotaje, procedimientos de emergencia y vuelo por instrumentos. (ii) Podrán utilizarse simuladores de vuelo aprobados por la DGAC para aquellas partes de las verificaciones respecto a las cuales hayan sido expresamente aprobados. (f) Tripulación de vuelo en los puestos de servicio.(1) Despegue y aterrizaje. Todo tripulante de vuelo, cuando se encuentre a cargo de los controles, deberá permanecer en su puesto asignado. (2) En ruta. Todo tripulante que integre una tripulación de vuelo de dos pilotos, permanecerá en su puesto, a menos que su ausencia sea necesaria para cumplir actividades relacionadas con la utilización del helicóptero, o por necesidades fisiológicas. (3) Período de reposo. Cuando le corresponda al piloto al mando su período de reposo, podrá ser relevado por un piloto titular de licencia comercial o de piloto de transporte de línea aérea, con la correspondiente habilitación de tipo, y habilitado como piloto al mando. En estos casos, el operador deberá disponer la habilitación de un asiento de reposo para el piloto de relevo. (4) Cinturones de seguridad. Todos los miembros de la tripulación mantendrán abrochados sus cinturones de seguridad (cinturón y arnés) mientras estén en sus puestos de servicio. (5) Arnés de seguridad. Todos los otros miembros de la tripulación de vuelo mantendrán abrochado su arnés de seguridad durante las fases de despegue y aterrizaje, salvo que los tirantes les impidan desempeñar sus obligaciones, en cuyo caso los tirantes pueden aflojarse, aunque el cinturón de seguridad debe quedar ajustado. (g) Obligaciones durante las fases críticas del vuelo. (1) Para los propósitos de esta sección las fases críticas del vuelo incluyen todas las operaciones terrestres de rodaje, despegue y aterrizaje excepto el vuelo de crucero. (2) Durante una fase crítica del vuelo no se podrán realizar actividades, tales como: (i) Llamadas para ordenar suministros. (ii) Confirmación de conexiones de pasajeros. (iii) Anuncios a los pasajeros publicitando al operador o señalando vistas de interés o llenado de formularios de ingreso a un Estado. (iv) Consumir bebidas o alimentos. (v) Mantener conversaciones no esenciales en el interior de la cabina de vuelo, (vi) Leer publicaciones que no sean relacionadas con la operación del helicóptero o cualquier otra actividad que lo distraiga de su función en esta fase del vuelo. 135.603 TRIPULACIÓN AUXILIAR (cuando corresponda). (a) Asignación de obligaciones en caso de emergencia. El operador establecerá previa aceptación de la DGAC, el número mínimo de miembros de tripulación auxiliar requerido para cada tipo de helicóptero, a base del número de asientos o del número de pasajeros transportados, a fin de efectuar la evacuación segura y rápida del helicóptero, y las funciones necesarias que han de realizarse en caso de emergencia o de una situación que requiera evacuación de emergencia. El operador asignará esas funciones para cada tipo de helicóptero. (b) Protección de la tripulación auxiliar durante el vuelo. Cada miembro de la tripulación auxiliar permanecerá sentado y con el cinturón de seguridad o, cuando exista, el arnés de seguridad ajustado durante las maniobras de despegue y de aterrizaje, y siempre que el piloto al mando así lo ordene. (c) Instrucción. El operador establecerá y mantendrá un programa de instrucción aprobado por la DGAC, que habrá de ser completado por todas las personas antes de ser designadas como miembros de la tripulación auxiliar. Los miembros de la tripulación auxiliar completarán un programa periódico de instrucción anualmente. Estos programas de instrucción verificarán que cada persona: (1) es competente para ejecutar aquellas obligaciones y funciones de seguridad que se le asignen al personal auxiliar en caso de una emergencia o de una situación que requiera evacuación de emergencia; (2) está entrenada y es capaz de usar el equipo de emergencia y salvamento, tal como chalecos salvavidas, balsas salvavidas, rampas de evacuación, salidas de emergencia, extintores de incendio portátiles, equipo de oxígeno, neceseres de precaución universal y botiquines de primeros auxilios, y desfibriladores externos automáticos; (3) cuando preste servicio en helicópteros que vuelen por encima de 3 000 m (10 000 ft), posee conocimientos respecto al efecto de la falta de oxígeno, y, en el caso de helicópteros con cabina a presión, por lo que se refiere a los fenómenos fisiológicos inherentes a una pérdida de presión; (4) conoce las asignaciones y funciones de los otros miembros de la tripulación en caso de una emergencia en la medida necesaria para desempeñar sus propias obligaciones de miembro de la tripulación auxiliar; (5) conoce los tipos de mercancías peligrosas que pueden (o no) transportarse en la cabina de pasajeros; y (6) conoce acerca de la actuación humana en relación con las obligaciones de seguridad operacional en la cabina de pasajeros, incluyendo la coordinación entre la tripulación de vuelo y la tripulación auxiliar. 135.605 TIEMPO DE VUELO, PERÍODOS DE SERVICIO DE VUELO Y PERÍODOS DE DESCANSO DEL PERSONAL DE VUELO. (a) Requisitos generales. (1) Estas normas se aplicarán a las tripulaciones de todos los Operadores dedicados al transporte de pasajeros y carga que utilicen aeronaves, cuyo peso máximo de despegue certificado sea igual o inferior a 5.700 kgs o hasta 19 pasajeros. En el caso de operadores chilenos, para vuelos nacionales e internacionales, y para los operadores extranjeros cuando realicen vuelos de cabotaje. (2) Los Operadores serán responsables de programar los Tiempos de Vuelo, los Períodos de Servicio de Vuelo, los Períodos de Servicio y los Períodos de Descanso y Reposo, de acuerdo a lo establecido en esta norma. (3) Los Operadores, el Comandante de la Aeronave y los tripulantes serán responsables del cumplimiento de los límites establecidos para los T.V. y P.S.V., dispuestos en esta norma. (4) El T.V. y el P.S.V., establecidos en esta norma son los máximos permitidos y no se autorizarán solicitudes de extensión adicionales a las que expresamente considera la norma. (5) Si por cualquier situación la tripulación excediese los períodos de T.V, P.S.V. o disminuyese el Período de Descanso, el Operador deberá informar a la DGAC en un plazo no superior a 96 horas de ocurrido el hecho, considerando en el informe la totalidad de los antecedentes que motivaron tal situación. Además el Operador deberá llevar un registro de todos estos casos con la correspondiente firma de los tripulantes involucrados. (6) Para el análisis de la DGAC, los operadores deberán elaborar y mantener disponible en todo momento y hasta por seis meses después de su cumplimiento, el Rol de Tripulantes de Vuelo programado para el caso de vuelos regulares y los Tiempos de Vuelo, Períodos de Servicio de Vuelo y Períodos de Servicio realizados. (7) Los operadores enviaran a la DGAC dentro de los primeros diez días del mes, la relación del Tiempo de Vuelo total efectuado por cada Tripulante de Vuelo en el mes anterior. (b) Tripulantes de Vuelo. (1) Períodos de Servicio de Vuelo. (i) Los límites de Período de Servicio de Vuelo serán los siguientes:
+ALTITUD MÍNIMA DE DESCENSO (MDA) O ALTURA MÍNIMA DE DESCENSO (MDH).
 
-Tripulación P.S.V. Extensión
+Altitud o altura especificada en una operación de aproximación por instrumentos 2D o en una operación de aproximación en circuito, por debajo de la cual no debe efectuarse el descenso sin la referencia visual requerida.
 
-1 Piloto 12 horas -.-
+APROBACIÓN ESPECÍFICA.
 
-2 Pilotos 12 horas 02 horas
+Aprobación documentada en las especificaciones relativas a las operaciones para las operaciones de transporte aéreo comercial o en la lista de aprobaciones específicas para operaciones no comerciales.
 
-(ii) El Período de Servicio de Vuelo se aplica dentro de un Período de 24 horas consecutivas. (iii) El Operador podrá programar vuelos o rutas de largo alcance que excepcionalmente consideren la ida y el regreso al mismo lugar con Tripulación Reforzada, previa autorización de la DGAC, sin perjuicio a los demás requisitos que establece la legislación laboral. (iv) Los Tripulantes de Vuelo que en un Período de Servicio de Vuelo hayan cumplido más del 50% del Período Nocturno, podrán efectuar sólo un segundo Período de Servicio de Vuelo nocturno consecutivo el cual no podrá exceder el 50% del Período Nocturno. (v) El Período de Servicio de Vuelo para una tripulación mínima de un piloto será de 12 horas y no es posible aplicar la extensión bajo ninguna circunstancia. (vi) El Período de Servicio de Vuelo de una tripulación mínima de dos pilotos de doce (12) horas continuas, podrá extenderse hasta catorce (14) horas ante la ocurrencia, en el respectivo Período de Servicio de Vuelo de: (A) Contingencias meteorológicas; (B) Emergencias médicas; (C) Necesidades calificadas de mantenimiento de la aeronave consignadas en el MEL (Minimum Equipment List), en aeronaves que posean MEL; o bien. (D) Cuando el Comandante de Aeronave por razones de seguridad así lo determine. (vii) En todos los casos anteriores, el Operador deberá mantener un registro disponible en todo momento y hasta por seis meses, para su requerimiento y análisis por la DGAC, donde se consignen las razones fundadas que se tuvo en consideración para la extensión del Período de Servicio de Vuelo. Este registro debe considerar la firma del Comandante de la Aeronave. (viii) Cuando los tripulantes realicen un Período de Servicio (P.S), podrán iniciar un Período de Servicio de Vuelo (P.S.V), siempre y cuando la suma de ambos tiempos no excedan los límites establecidos para un P.S.V. (2) Límites de Tiempo de Vuelo (T.V.). (i) Los límites de Tiempo de Vuelo máximos establecidos para las tripulaciones serán los siguientes:
+APROXIMACIÓN FINAL EN DESCENSO CONTINUO (CDFA).
 
-08 horas Continuas o discontinuas en 24 horas consecutivas
+Técnica de vuelo, congruente con los procedimientos de aproximación estabilizada, para el tramo de aproximación final (FAS) siguiendo procedimientos de aproximación por instrumentos que no es de precisión (NPA) en descenso continuo, sin nivelaciones de altura, desde una altitud/altura igual o superior a la altitud/altura del punto de referencia de aproximación final hasta un punto a aproximadamente 15 m (50 ft) por encima del umbral de la pista de aterrizaje o hasta el punto en el que comienza la maniobra de enderezamiento para el tipo de aeronave que se esté operando; para el FAS de un procedimiento NPA seguido por una aproximación en circuito, se aplica la técnica de CDFA hasta que se alcanzan los mínimos de aproximación en circuito (OCA/H en circuito) o la altitud/altura de la maniobra de vuelo visual.
 
-34 horas En 5 días consecutivos
+ÁREA CONGESTIONADA.
 
-68 horas En 10 días consecutivos
+En relación con una ciudad, aldea o población, toda área muy utilizada para fines residenciales, comerciales o recreativos.
 
-100 horas Mensuales (calendario)
+ÁREA DE APROXIMACIÓN FINAL Y DE DESPEGUE (FATO).
 
-270 horas Trimestrales
+Área definida en la que termina la fase final de la maniobra de aproximación hasta el vuelo estacionario o el aterrizaje y a partir de la cual empieza la maniobra de despegue. Cuando la FATO esté destinada a helicópteros que operan en Clase de performance 1, el área definida comprenderá el área de despegue interrumpido disponible.
 
-1.000 horas Anuales (calendario)
+ATERRIZAJE FORZOSO SEGURO.
 
-(ii) Para el control de los límites de Tiempo de Vuelo especificados en esta norma, los tripulantes de vuelo computarán para ese tiempo, todas las horas voladas tanto en operaciones privadas, comerciales y deportivas. Para estos efectos, el tripulante de vuelo deberá informar al Operador todas las horas de vuelo que realice ajenas a la empresa. (3) Descanso. (i) El Operador no podrá programar a un Tripulante de Vuelo para un Período de Servicio de Vuelo, cuando no se haya dado cumplimiento a los Períodos de Descanso (P.D.) que se indican a continuación: TABLA DE PERÍODO DE DESCANSO PARA PERÍODOS DE SERVICIO DE VUELO REALIZADOS
+Aterrizaje o amaraje inevitable con una previsión razonable de que no se produzcan lesiones a las personas en la aeronave ni en la superficie.
 
-P.S.V. P.D.
+CERTIFICADO DE EXPLOTADOR DE SERVICIOS AÉREOS (AOC).
 
-7 horas o menos 10 horas
+Certificado por el que se autoriza a un explotador a realizar determinadas operaciones de transporte aéreo comercial.
 
-8 horas 12 horas
+CONDICIÓN DE AERONAVEGABILIDAD.
 
-9 horas 13 horas
+Estado de una aeronave, motor, hélice o pieza que se ajusta al diseño aprobado correspondiente y está en condiciones de operar de modo seguro.
 
-10 horas 14 horas
+CONDICIONES METEOROLÓGICAS DE VUELO POR INSTRUMENTOS (IMC).
 
-11 horas 15 horas
+Condiciones meteorológicas expresadas en términos de visibilidad, distancia desde las nubes y techo de nubes, inferiores a los mínimos especificados para las condiciones meteorológicas de vuelo visual.
 
-12 horas 15 horas
+CONDICIONES METEOROLÓGICAS DE VUELO VISUAL (VMC).
 
-13 horas 16 horas
+Condiciones meteorológicas expresadas en términos de visibilidad, distancia desde las nubes y techo de nubes*, iguales o mejores que los mínimos especificados.
 
-14 horas 17 horas
+CONFORMIDAD DE MANTENIMIENTO.
 
-15 horas 17 horas
+Documento por el que se certifica que los trabajos de mantenimiento a los que se refieren han sido concluidos de manera satisfactoria, bien sea de conformidad con datos técnicos aprobados o aceptados por la DGAC de acuerdo con los requisitos adecuados de aeronavegabilidad.
 
-16 horas 18 horas
+A partir del 05 nov 2020, documento por el que se certifica que los trabajos de mantenimiento a los que se refiere han sido concluidos de manera satisfactoria, de conformidad con los requisitos adecuados de aeronavegabilidad.
 
-17 horas 19 horas
+CONTROL DE OPERACIONES.
 
-18 horas 20 horas
+La autoridad ejercida respecto a la iniciación, continuación, desviación o terminación de un vuelo en interés de la seguridad operacional de la aeronave y de la regularidad y eficacia del vuelo.
 
-(ii) De corresponderle un Período de Descanso (10 horas), se deberá considerar un tiempo adicional de 45 minutos para efectos de traslado cuando se opere en la base principal de operaciones y un tiempo de 20 minutos en las postas. Este tiempo no constituye Período de Descanso ni Período de Servicio de Vuelo. (iii) Al Tripulante de Vuelo que realiza un Período de Servicio de Vuelo que incluya un cambio de Longitud Geográfica de cuarenta y cinco (45) grados, se le deberá aumentar en dos (2) horas el Período de Descanso correspondiente. En forma progresiva se continuará incrementando este descanso en treinta (30) minutos, por cada quince grados de Longitud Geográfica adicional. (iv) Utilización de Tripulaciones de Vuelo por un periodo de quince (15) o más días consecutivos. Cuando las operaciones deban realizarse en lugares alejados de la residencia habitual de la tripulación, se podrán utilizar tripulaciones por periodos de quince (15) o más días consecutivos y con un máximo de treinta (30) días consecutivos, de acuerdo a las siguientes condiciones: (A) Entre quince (15) y veintiún (21) días consecutivos de utilización de la tripulación, el Tiempo de Vuelo máximo será de cien (100) horas. (B) El descanso posterior se otorgará al final de dichos periodos y tener una duración de a lo menos un 40% de los días utilizados por la tripulación en dichos períodos. (4) Reposo. (i) El Operador deberá disponer de un lugar a bordo de la aeronave, para el reposo de las tripulaciones, cuando el vuelo se realice con tripulación reforzada. (ii) Este lugar de reposo deberá ser ocupado por la tripulación que sea relevada de sus funciones con el propósito de no sobrepasar los límites establecidos de Tiempo de Vuelo. (iii) Los Operadores deberán proponer para aprobación de la DGAC, los lugares a bordo de las aeronaves que servirán de reposo a la tripulación, en los distintos tipos de materiales aéreos que operen. Los lugares de reposo autorizados por la Dirección General de Aeronáutica Civil, serán incluidos en el Manual de Operaciones del Operador, de acuerdo a los requisitos establecidos en la norma correspondiente.
+DIRECTIVA DE AERONAVEGABILIDAD (AD/DA).
 
-CAPÍTULO H: ENCARGADO DE OPERACIONES DE VUELO (EOV). 135.701 GENERALIDADES. Si el operador emplea a un Encargado de Operaciones de Vuelo (EOV), este deberá además de estar en posesión de una licencia otorgada conforme al Reglamento de Licencias dar cumplimiento a lo establecido en las siguientes secciones. 121.703 CUALIFICACIONES DEL ENCARGADO DE OPERACIONES DE VUELO (EOV)/DESPACHADOR DE VUELO. El EOV solo se desempeñará en sus funciones si cumple con las siguientes condiciones: (a) Ha completado satisfactoriamente un curso de instrucción especializado del operador, que aborde todos los componentes específicos de su método aprobado de control y supervisión de las operaciones de vuelo. (b) En los 12 meses precedentes ha efectuado por lo menos un vuelo de capacitación, en el compartimiento de la tripulación de vuelo, sobre un área en que esté autorizado para ejercer la supervisión del vuelo. Durante el vuelo deberían realizarse aterrizajes en el mayor número posible de aeródromos/helipuertos. (c) Tiene conocimientos sobre: (1) El contenido del Manual de Operaciones del operador. (2) El equipo de radio de los helicópteros empleados. (3) El equipo de navegación de los helicópteros utilizados. (d) Tiene conocimientos de los siguientes detalles sobre las operaciones de las que él será responsable y de las áreas en que está autorizado a ejercer la supervisión de vuelo: (1) Las condiciones meteorológicas estacionales y las fuentes de información meteorológica. (2) Los efectos de las condiciones meteorológicas en la recepción de señales por radio en los helicópteros empleados. (3) Las características y limitaciones de cada uno de los sistemas de navegación empleados en la operación; y (4) las instrucciones para la carga del helicóptero. (e) Tiene conocimientos y habilidades relacionados con la actuación humana pertinente a las funciones de despacho. 135.705 CUALIFICACIONES DEL OPERADOR DE CARGA Y ESTIBA. (a) Cuando el operador requiera los servicios de un OCE, éste presentará el formulario de peso y estiba correspondiente al tramo del vuelo a efectuar, para la aprobación del EOV o del piloto al mando. (b) El operador sólo asignará funciones a un OCE para un grupo específico de helicópteros, cuando: (1) haya completado la instrucción referida al manual de operaciones de la empresa; y (2) haya completado la instrucción referida a los procedimientos de carga y estiba del helicóptero. (c) El operador deberá verificar cada 24 meses, que el OCE mantenga la competencia en lo relativo a las funciones de su puesto. 135.707 FUNCIONES DEL ENCARGADO DE OPERACIONES DE VUELO (EOV). (a) Cuando el operador requiera a los servicios de un EOV, las funciones de éste serán: (1) Presentar para la aprobación del piloto al mando el plan operacional de vuelo y el plan de vuelo ATS. (2) Suministrar al piloto al mando la información necesaria para la continuidad del vuelo. (3) Efectuar despachos remotos, asegurando en todo momento el seguimiento y asesoría del vuelo que se encuentra en progreso, o que deba ser desviado o redespachado. (b) En caso de emergencia el EOV: (1) Iniciará los procedimientos descritos en el manual de operaciones de la empresa; (2) Comunicará al piloto al mando la información relativa a seguridad operacional que pueda necesitarse para la realización segura del vuelo, comprendida aquella relacionada con las enmiendas del plan de vuelo que se requieran en el curso del mismo.
+Documento de carácter técnico de cumplimiento obligatorio, emitido por el Estado de diseño, o por la DGAC, que establece inspecciones, modificaciones, reemplazo o limitaciones operacionales a un producto aeronáutico o componente, para eliminar una condición insegura y que podría desarrollarse o existir en todos los productos o componentes del mismo diseño.
 
-CAPÍTULO I: DOCUMENTACIÓN A BORDO DEL HELICÓPTERO. 135.801 DOCUMENTOS. El operador verificará que los siguientes documentos se encuentren a bordo del helicóptero: (a) Licencias y Certificados: (1) Licencias y sus habilitaciones. (2) Certificado de aeronavegabilidad. (3) Certificado de matrícula. (4) Certificado de homologación acústica. Cuando se expida en un idioma distinto del inglés, se incluirá una traducción al inglés (*). (5) Certificado de Estación de Radio del helicóptero para vuelos internacionales (*). (6) Certificado AOC (*). (7) Especificaciones de las Operaciones. (*). (8) Cualquier otro documento señalado en la Legislación y Reglamentación Aeronáutica, aplicable a las operaciones reguladas en esta norma. (b) Documentos: (1) Bitácora de vuelo (Flight Log), en la que el piloto al mando certificará con su firma la ejecución del pre-vuelo y completará los datos requeridos. (2) Formulario de preparación de los vuelos, manifiesto de pasajeros y/o carga, despacho y planes de vuelo. (3) Análisis de Aeródromos/helipuertos (*). (4) Registros de combustible y aceite. (5) Lista de verificaciones (Check List); (6) Cartas de navegación y procedimientos de salida y llegadas instrumentales aplicables a la zona en que se vuele; (7) Cuando el fabricante del helicóptero lo haya considerado, el Quick Reference Handbook, (QRH) o similar; (8) Cualquier otro documento señalado en la Legislación y Reglamentación Aeronáutica, aplicable a las operaciones reguladas en esta norma. (c) Manuales y otros documentos: (1) Manual de Vuelo del helicóptero (todos sus volúmenes). (2) Manual de Operación en tiempo frío (Cold Weather Operation), cuando corresponda. (3) Manual de Operaciones del operador. (4) Manual de Operaciones del helicóptero cuando corresponda. (5) Cuando corresponda, Lista de Equipos Mínimos (Minimum Equipment List, MEL), aprobada por la DGAC, junto a los procedimientos operacionales y de mantenimiento, para cada helicóptero en particular. (6) Cuando corresponda la Lista de Verificación para los procedimientos de búsqueda de bombas en el helicóptero. (7) Cuando la empresa realice el transporte de mercancías peligrosas, el Manual de Mercancías Peligrosas. (8) Relación, descripción e instrucciones de empleo de las señales a utilizar en caso de emergencia (búsqueda y rescate). (d) Cuando el operador pueda demostrar a la DGAC que la obtención de datos es confiable y más rápida que su obtención en forma manual, los documentos identificados con (*) podrán ser transportadas en un medio electrónico de almacenamiento. (e) Maletines de vuelo electrónicos (EFB). Previo a la utilización a bordo de EFB portátiles, el operador deberá verificarse de que no afectan a la actuación de los sistemas y equipo del helicóptero o a la capacidad de operar el mismo. Funciones del EFB. Cuando se utilizan EFB a bordo del helicóptero el operador deberá: (i) evaluar los riesgos de seguridad operacional relacionados con cada función EFB. (ii) establecer y documentar los procedimientos de uso y los requisitos de instrucción correspondientes al dispositivo y a cada función EFB; y (iii) verificarse de que, en caso de falla del EFB, la tripulación de vuelo dispone rápidamente de información suficiente para que el vuelo se realice en forma segura. (2) Previo a la aprobación del uso del EFB, el operador verificará que: (i) el equipo EFB y su soporte físico de instalación conexo, incluyendo la instalación con los sistemas del helicóptero si corresponde, satisfacen los requisitos de certificación de la aeronavegabilidad apropiados; (ii) ha evaluado los riesgos de seguridad relacionados con las operaciones apoyadas por las funciones EFB; (iii) ha establecido requisitos para la redundancia de la información (si corresponde) contenidos en las funciones EFB y presentados por las mismas; (iv) ha establecido y documentado procedimientos para la gestión de las funciones EFB incluyendo cualquier base de datos que pueda utilizarse; y (v) ha establecido y documentado los procedimientos relativos al uso del EFB y de las funciones de dicho dispositivo y a los requisitos de instrucción correspondientes. 135.803 MANUAL DE VUELO DEL HELICÓPTERO. (a) El operador deberá verificar que el Manual de Vuelo corresponda al modelo y tipo de helicóptero en operación y que se mantenga actualizado de acuerdo a lo que establezca el Estado de diseño y suplementos aprobados por la DGAC. (b) Este Manual identificará claramente el helicóptero o serie de helicópteros específicos a que se aplica e incluirá las limitaciones, información, procedimientos de utilización, performances, indicaciones y letreros. 135.805 BITÁCORA DE VUELO (FLIGHT LOG). (a) El operador deberá verificar que todo helicóptero lleve a bordo una bitácora de vuelo (flight log) en la cual se anoten los siguientes datos: (1) Nacionalidad y matrícula del helicóptero. (2) Fecha, hora de salida y llegada. (3) Nombres y función asignada a los tripulantes. (4) Naturaleza del vuelo, lugar de salida y llegada, tiempo total de vuelo. (5) Observaciones detectadas durante el vuelo. (6) Licencia y firma de la persona a cargo. (b) Las anotaciones en la bitácora de vuelo deben llevarse al día y hacerse con tinta o lápiz pasta. (c) Cuando una bitácora de vuelo se complete, esta debe ser guardada por un período de seis meses o digitalizarla como copia fiel. (d) Cualquiera sea el formato seleccionado, el operador deberá prever lo siguiente: (1) La rápida recuperación de los registros una vez solicitados. (2) La protección de los registros ante lluvias, incendios, desastres naturales. 135.807 DISPONIBILIDAD DE LISTAS DEL EQUIPO DE EMERGENCIA Y SUPERVIVENCIA QUE SE LLEVA A BORDO. El piloto al mando deberá dejar constancia en su plan de vuelo (ATC) de la lista de equipos de emergencia y supervivencia llevados a bordo de su helicóptero. La información comprenderá, según corresponda, el número, color y tipo de las balsas salvavidas y de las señales pirotécnicas, los detalles sobre el material médico de emergencia, provisión de agua y el tipo y frecuencia del equipo portátil de radio de emergencia. 135.809 DESPACHO DEL HELICÓPTERO. (a) El despacho considerará al menos la siguiente información: (1) El nombre del titular de certificado AOC. (2) La matrícula de identificación del helicóptero y el modelo. (3) El número y la fecha del vuelo. (4) El aeródromo de salida, la ruta a volar, las escalas, los aeródromos/helipuertos/helipuertos de destino y de alternativa. (5) La consignación del tipo de operación, VFR, IFR. (6) La cantidad mínima de combustible (en galones, libras o kilos) para la ruta, alternativas y reserva correspondiente a las reglas de vuelo. (7) El nombre de cada tripulante de vuelo, tripulante auxiliar (cuando corresponda) y del piloto designado como piloto al mando. (b) El despacho deberá contener o tener adjunto, los informes meteorológicos, los pronósticos meteorológicos o una combinación de éstos más recientes para el aeródromo de destino, las escalas y los aeródromos/helipuiertos/helipuertos de alternativa, para la hora en que el despacho es firmado por el piloto al mando y el encargado de las operaciones de vuelo (cuando corresponda). (c) Mínimas meteorológicas del Aeródromo de Alternativa. No se puede incluir en el despacho un aeródromo como alternativa a menos que se cuente con adecuados informes o pronósticos meteorológicos, o cualquiera combinación de ellos, que indiquen que las condiciones meteorológicas en ese aeródromo, cuando el helicóptero arribe, estarán en o sobre los mínimos meteorológicos de la alternativa establecidos en las especificaciones operativas del operador. 135.811 INFORMACIÓN DE HORAS DE VUELO. Los operadores informarán a la DGAC semestralmente las horas de vuelo del período.
+DISPOSITIVO DE INSTRUCCIÓN PARA SIMULACIÓN DE VUELO.
 
-CAPÍTULO J: SEGURIDAD. 135.901 PROGRAMAS DE INSTRUCCIÓN. (a) Todo operador deberá establecer y mantener un programa de instrucción aprobado por la DGAC en materia de seguridad que acredite que los miembros de la tripulación están en condiciones de actuar de la manera más adecuada para reducir al mínimo las consecuencias de los actos de interferencia ilícita. Este programa deberá incluir, como mínimo, los siguientes elementos: (1) Determinación de la gravedad de cada incidente. (2) Comunicación y coordinación de la tripulación. (3) Respuestas de defensa apropiadas. (4) Uso de dispositivos de protección que no sean letales, asignados a los miembros de la tripulación. (5) Comprensión del comportamiento de los terroristas para mejorar la capacidad de los miembros de la tripulación con respecto al comportamiento de estos y respuesta de los pasajeros. (6) Ejercicios de instrucción en situaciones reales con respecto a diversos tipos de amenazas. (7) Procedimientos en el puesto de pilotaje para proteger la aeronave; y (8) Procedimientos de búsqueda en la aeronave. (b) El operador deberá establecer y mantener un programa de instrucción aprobado por la DGAC que acredite que las personas (titulares de licencia) relacionadas con las operaciones se encuentran familiarizados respecto a las medidas y técnicas preventivas atinentes a los pasajeros, equipajes, carga, correo, equipo, repuestos y suministros que se hayan de transportar, de manera que dichos empleados contribuyan a la prevención de actos de sabotaje u otras formas de interferencia ilícita. (c) Los operadores deberán instruir a su personal de tripulantes respecto a los procedimientos relacionados con las maniobras y señales de interceptación establecidas a nivel internacional. Estas materias deberán ser incluidas en los programas de cursos para los tripulantes y en los Manuales de Operaciones de las empresas. 135.903 NOTIFICACIÓN DE ACTOS INTERFERENCIA ILÍCITA. (a) Durante el vuelo. El piloto al mando de todo helicóptero que esté siendo objeto de actos de interferencia ilícita debe hacer lo posible por notificar a la dependencia ATS pertinente este hecho, toda circunstancia significativa relacionada con el mismo y cualquier desviación del plan de vuelo actualizado que las circunstancias hagan necesaria, a fin de permitir a la dependencia ATS otorgar prioridad a la helicóptero y reducir al mínimo los conflictos de tránsito que puedan surgir con otras helicópteros. (b) Después del vuelo. Después de ocurrido un acto de interferencia ilícita, el piloto al mando presentará, sin demora, un informe sobre dicho acto a la autoridad aeronáutica local designada. 135.905 ACCIONES DE PREVENCIÓN DE RIESGO. Cuando el operador acepte transportar armas que se les han retirado a los pasajeros, deberá haber un lugar previsto en el helicóptero para colocar dichas armas a fin de que sean inaccesibles a cualquier persona durante el tiempo de vuelo.
+Cualquiera de los tres tipos de aparatos que a continuación se describen en los cuales se simulan en tierra las condiciones de vuelo:
 
-CAPÍTULO K: PROGRAMAS DE INSTRUCCIÓN. Todo operador, debe establecer e implementar un programa de instrucción en tierra y en vuelo, aprobado por la DGAC que satisfaga los requisitos de este Capítulo y, que asegure que cada miembro de la tripulación, instructor de vuelo y personal de operaciones, estén adecuadamente entrenados para cumplir con las funciones que se les asigne. 135.1001 INDUCCIÓN AL OPERADOR. (a) El operador deberá desarrollar un curso de inducción a todo el personal aeronáutico titular de licencia que se incorpore a la empresa en forma previa a su desempeño. (b) Este curso deberá considerar como mínimo lo siguiente: (1) La organización de la empresa. (2) La reglamentación aeronáutica que regula su desempeño. (3) Las funciones propias de su área de desempeño. (4) El Manual de Operaciones de la empresa. (5) Mercancías peligrosas de acuerdo a lo que se indica en Apéndice Nº 5. 135.1003 PROGRAMA DE INSTRUCCIÓN - GENERALIDADES. (a) Todo operador deberá: (1) Verificar que cada persona que sea miembro de la tripulación de vuelo, haya completado la instrucción inicial del curso "Manejo de los Recursos de la Tripulación" (CRM)". (2) Establecer e implementar un programa de instrucción aprobado por la DGAC que satisfaga los requisitos de este Capítulo y, que asegure que cada miembro de la tripulación, los encargados de operaciones de vuelo, los operadores de carga y estiba, los instructores de tripulación de vuelo o instructores de tripulantes auxiliares, estén adecuadamente entrenados para cumplir con las funciones que se les han asignado; (3) Disponer de instalaciones, equipos, medios humanos y materiales para la instrucción teórica y de vuelo, calificados para la instrucción exigida y certificados por la DGAC, cuando corresponda; (4) Proporcionar y mantener en forma permanente con respecto a cada tipo de aeronave y, si corresponde, las variaciones dentro de cada tipo, el material de instrucción apropiado, los exámenes, formularios, instrucciones y procedimientos para uso en la realización de instrucción y exámenes exigidos en esta norma; y (5) Proporcionar instructores de vuelo, instructores de simulador y examinadores de tripulantes, para realizar la instrucción de vuelo, exámenes exigidos y cursos de instrucción de simulador establecidos de conformidad con esta normativa. (b) Cada vez que un miembro de la tripulación, a quien se le exige cumplir una instrucción periódica, esta se haya efectuado en el mes anterior o posterior a aquel en que correspondía, se considera que su vencimiento se ha cumplido en el mes requerido, (c) El operador verificará que todo instructor, responsable de una determinada materia de instrucción, certifique la pericia y el conocimiento del tripulante, al término de la instrucción. Esta certificación formará parte de la carpeta de antecedentes del tripulante. (d) Las materias de instrucción comunes a más de un helicóptero que hayan sido aprobadas, no necesitan repetirse durante la instrucción posterior, con la excepción de la instrucción periódica. (e) la instrucción de vuelo requerida en esta norma, podrá ser proporcionada por otra empresa o un Centro de Instrucción autorizado basándose en el programa de instrucción de la empresa siempre que cumplan con los siguientes requisitos: (1) Posea especificaciones aprobadas por la DGAC; (2) Posea la infraestructura, el equipo de instrucción, de entrenamiento y ayudas requeridas para los procesos de instrucción que pretende desarrollar; (3) Tenga los programas aprobados de instrucción, de segmentos de instrucción y partes de cursos aplicables, para la utilización en los cursos que impartirá y requeridos de acuerdo a este Capítulo; y (4) Tenga los instructores y examinadores suficientes y calificados para proporcionar la instrucción, los exámenes y las pruebas a las personas sujetas a las exigencias de este Capítulo. 135.1005 PROGRAMA DE INSTRUCCIÓN: CONTENIDO. (a) Se deberá establecer y mantener un programa de instrucción, en tierra y en vuelo, aprobado por la DGAC, por el que se asegure que todos los miembros de la tripulación de vuelo reciben formación adecuada para ejecutar las tareas que les han sido asignadas. (b) Todo programa de instrucción debe incluir: (1) Medios adecuados, en tierra y en vuelo, así como instructores debidamente calificados; (2) incluirá adiestramiento, en tierra y en vuelo para el tipo o tipos de helicóptero en que preste servicio el tripulante; (3) incluirá la coordinación adecuada de la tripulación de vuelo, así como adiestramiento para todos los tipos de situaciones o procedimientos de emergencia y no normales causados por mal funcionamiento del motor, la transmisión, el rotor, la célula, o las instalaciones, o debidos a incendio u otras anomalías; (4) comprenderá conocimientos y pericia sobre procedimientos de vuelo visual y por instrumentos para el área pretendida de operación, la actuación humana incluyendo el manejo de amenazas y errores, el transporte de mercancías peligrosas y, según el caso, procedimientos que correspondan al entorno en el que el helicóptero efectuará operaciones; (5) verificará que todos los miembros de la tripulación de vuelo conozcan las funciones de las cuales son responsables, y la relación de dichas funciones con las de los otros miembros de la tripulación, particularmente con respecto a los procedimientos no normales o de emergencia; (6) incluirá los conocimientos y aptitudes relacionados con el uso operacional de visualizadores de "cabeza alta" y/o sistemas de visión mejorada, para los helicópteros que cuenten con este equipo; y (7) se repetirá periódicamente e incluirá una evaluación de la competencia; (8) Se considerará satisfecho el entrenamiento periódico de vuelo en un tipo determinado de helicóptero si se utilizan dispositivos de instrucción para simulación de vuelo aprobados para este fin y se realiza este entrenamiento periódico dentro del período apropiado para la verificación de la competencia en dicho tipo de helicóptero. (9) Una lista de todas las ayudas a la instrucción, maquetas, entrenadores de sistemas, entrenadores de procedimientos y otras ayudas a la instrucción que utilizará el operador. (10) La descripción detallada o ilustraciones de las maniobras, procedimientos y funciones normales, anormales y de emergencia que se realizarán durante cada fase de la instrucción en vuelo o en el examen de vuelo, indicando aquellas maniobras, procedimientos y funciones que se efectuarán durante las etapas de vuelo, de la instrucción de vuelo y de los exámenes de vuelo. (11) Una lista de los simuladores del helicóptero u otras ayudas de instrucción aprobadas, incluyendo aprobaciones de maniobras y procedimientos cuando se disponga de ellas. (12) Las horas programadas de enseñanza que se aplicarán a cada fase de dicha instrucción. 135.1007 PROGRAMA DE INSTRUCCIÓN: REVISIÓN - APROBACIÓN INICIAL Y FINAL. Cuando el programa de instrucción propuesto en el Manual de Operaciones cumpla con los requisitos de esta norma, la DGAC concederá la aprobación por escrito. Será responsabilidad de la empresa mantener la integridad del programa de instrucción aprobado. 135.1009 CURSOS DE INSTRUCCIÓN UTILIZANDO SIMULADORES DE HELICÓPTERO Y OTROS EQUIPOS DE INSTRUCCIÓN. (a) El operador podrá incluir en su programa de instrucción y entrenamiento el uso de simuladores de helicópteros u otras ayudas a la instrucción. (b) Para cumplir con los exámenes de eficiencia se podrá incluir un curso de instrucción en un simulador de helicóptero, siempre que este curso: (1) Proporcione por lo menos 4 horas de instrucción en los controles del simulador en el puesto de piloto, así como la correspondiente instrucción verbal antes y después de la instrucción; (2) Proporcione instrucción por lo menos en los procedimientos y las maniobras establecidas en el programa aprobado al operador; o (3) Proporcione instrucción orientada al tipo de operaciones de la empresa: (i) Utilizando la tripulación de vuelo completa; (ii) Incluyendo por lo menos las maniobras y procedimientos (anormales y de emergencia) que podrían esperarse en las operaciones del operador; (iii) Sea representativo de las operaciones que está realizando el operador; y (4) Sea impartida por un instructor habilitado en el material de vuelo de que se trate. 135.1011 REQUISITOS DE INSTRUCCIÓN PARA TRIPULANTES DE VUELO Y PERSONAL DE OPERACIONES. (a) El programa de instrucción deberá cuando corresponda proporcionar la siguiente instrucción. (1) Instrucción inicial en el material. (2) Instrucción de transición. (3) instrucción de ascenso en el material. (4) Instrucción periódica (recurrent). (5) Instrucción de diferencias. (b) Sin perjuicio de lo anterior, el programa de instrucción debe proporcionar también la instrucción teórica, la instrucción de vuelo y la práctica necesaria para garantizar que cada tripulante: (1) Permanece entrenado respecto a los procedimientos de cada helicóptero, a la posición del tripulante y al tipo de operación en la que se desempeña; y (2) Se encuentra calificado en el nuevo equipo, en los procedimientos y en las técnicas, incluyendo las modificaciones a los helicópteros. (3) Adquiera conocimientos y pericia sobre procedimientos de vuelo visual y por instrumentos para el área pretendida de operación, la actuación humana, incluyendo la gestión de amenazas y errores, así como el transporte de mercancías peligrosas. 135.1013 INSTRUCCIÓN PARA TRIPULANTES- EQUIPOS Y SITUACIONES DE EMERGENCIA. Dependiendo del tipo de helicóptero empleado, el operador deberá efectuar y acreditar el cumplimiento de los programas de instrucción de emergencia inicial y de instrucción de emergencia periódica establecidos en esta sección con respecto a cada tipo, modelo y configuración de aeronave que opere. (a) Programa de Instrucción de emergencia inicial. El operador deberá proporcionar y acreditar el cumplimiento de la instrucción de emergencia estipulada en esta sección con respecto a cada tipo, modelo y configuración del helicóptero. (1) Instrucción en los deberes asignados y procedimientos de emergencia, incluyendo la coordinación entre los miembros de la tripulación. (2) Instrucción individual en el lugar, función y operación de equipo de emergencia, incluyendo: (i) El equipo utilizado en el amaraje y en la evacuación; (ii) El equipo de primeros auxilios y su utilización; (iii) Los extintores portátiles, con énfasis en el tipo de extintor que se debe utilizar en las diferentes clases de fuegos; y (iv) Las salidas de emergencia. (3) Instrucción en el manejo de situaciones de emergencia que debe incluir: (i) Fuego en vuelo o en superficie y los procedimientos de control de humo y gases tóxicos, con énfasis en el equipo eléctrico y los fusibles (circuit breakers). (ii) El amaraje y otras evacuaciones, incluyendo la evacuación de personas con requerimientos especiales y sus asistentes, si los hay, que puedan necesitar ayuda de otra persona para desplazarse rápidamente hacia una salida en el caso de una emergencia; (iii) Las enfermedades, las heridas u otras situaciones inusuales que le ocurran a los pasajeros o a los miembros de la tripulación incluyendo familiarización con el uso del botiquín de primeros auxilios; y (iv) El apoderamiento ilícito y otras situaciones inusuales. (4) Revisión y análisis de accidentes e incidentes de helicópteros ocurridos anteriormente, pertinentes a las situaciones de emergencia reales. (5) En helicópteros grandes, si cuenta con tripulación auxiliar, programa de instrucción respecto al conocimiento y práctica de primeros auxilios, empleo del equipamiento médico a bordo del helicóptero incluyendo el uso del Desfibrilador Externo Automático (DAE) portátil conforme a lo siguiente: (i) El operador remitirá para aprobación de la Sección Medicina de Aviación de la DSO el programa de instrucción, incluyendo el uso y características del Desfibrilador Externo automático (DEA). (ii) El operador remitirá a la Sección Medicina de Aviación de la DSO, la relación de tripulantes autorizados en la operación de los equipos desfibriladores. (iii) Cada 6 meses a partir de haber dado cumplimiento a los párrafos (i) e (ii) anteriores, el operador informará a la Sección Medicina de Aviación de la DSO, las modificaciones al programa de instrucción si lo hubiera y actualizará la relación de tripulantes autorizados para operar el equipo de desfibrilación. (b) Instrucción periódica de emergencia. Cada miembro de tripulación de vuelo debe cumplir, además de la instrucción inicial, la siguiente instrucción periódica de emergencia, empleando los equipos de emergencia y de salvamento instalados para cada tipo de aeronave en el que se encuentra habilitado. El plazo para el cumplimiento de esta práctica periódica no excederá los doce (12) meses calendarios una vez efectuada la instrucción inicial y así sucesivamente. Práctica de evacuación de emergencia en tierra y amaraje de emergencia. Esta instrucción se llevará a cabo en el helicóptero o en una representación del mismo (mock-up), si la empresa tiene un programa de entrenamiento autorizado por la DGAC para efectuar este entrenamiento en seco pudiendo utilizarse equipos de amaraje (chalecos salvavidas, balsa auxiliar o tobogán balsa) y salvamento existente en el helicóptero en que el tripulante está habilitado. (2) En esta instrucción cada tripulante debe: (i) Efectuar los ejercicios de emergencia que se indican a continuación y operar el siguiente equipo: (A) Cada tipo de salida de emergencia en la operación normal y de emergencia, incluyendo las acciones y fuerzas necesarias para desplegar y realizar el deslizamiento por el tobogán en una simulación de evacuación de emergencia. (B) Cada tipo de extintor portátil instalado; (C) Cada tipo de sistema de oxígeno de emergencia, incluyendo equipo de protección de la respiración PBE; (D) Alcanzar, colocarse, uso e inflado de los aparatos de flotación individuales, si corresponde; y (E) Práctica de amaraje, incluyendo pero no limitándose a, como sea apropiado: * Preparación y procedimientos de cabina de mando; * La coordinación de los miembros de la tripulación; * Instrucciones a los pasajeros y preparación de la cabina; * Alcanzar o retirar los salvavidas; * La utilización de cuerdas salvavidas; y (F) La subida de los pasajeros y los miembros de la tripulación a la balsa o al tobogán balsa. (3) Observar los siguientes ejercicios: (i) La remoción desde el helicóptero (o equipo de instrucción) e inflado de cada tipo de balsa salvavidas, si corresponde; (ii) Traslado de cada tipo de empaque de tobogán balsa desde una puerta a otra; (iii) Despliegue, inflado y separación desde el helicóptero (o aparato de instrucción) de cada tipo de empaque tobogán balsa. 135.1015 INSTRUCCIÓN DE DIFERENCIAS: TRIPULANTES Y ENCARGADOS DE OPERACIONES DE VUELO. (a) La instrucción de diferencias para tripulantes, despachadores y OCE debe como mínimo considerar, según corresponda, las obligaciones y responsabilidades asignadas, en lo siguiente: (1) Instrucción en cada materia correspondiente o parte de ésta exigida para la instrucción teórica inicial en el helicóptero, (2) Cuando corresponda, Instrucción de vuelo, en cada maniobra o procedimiento apropiado, exigido para la instrucción de vuelo inicial en el helicóptero. (3) El número de horas programadas de instrucción teórica y de vuelo que la DGAC haya aprobado en el programa correspondiente para el helicóptero, para la operación y para el tripulante o encargado de operaciones de vuelo según corresponda. (b) La instrucción de diferencias para todas las variaciones de un tipo específico de helicóptero, podrá ser incluida en la instrucción inicial, de transición, de ascenso y periódica para el helicóptero. 135.1017 INSTRUCCIÓN TEÓRICA INICIAL, DE TRANSICIÓN, DE ASCENSO Y DE ACTUALIZACIÓN. La instrucción teórica inicial, de transición, de ascenso y actualización deberá incluir a lo menos los siguientes temas en los casos que se indican a continuación: (a) Pilotos: (1) Materias generales: (i) Los procedimientos de despacho de los vuelos y los del operador; (ii) Los principios y los métodos para determinar el peso, la estiba y las limitaciones de la pista para el despegue y para el aterrizaje; (iii) La información meteorológica suficiente de manera de verificar el conocimiento práctico de los fenómenos meteorológicos, incluyendo los principios de los sistemas frontales, la formación del hielo, la niebla, las tormentas y las situaciones meteorológicas de gran altura; (iv) Los sistemas, los procedimientos y la fraseología del control de tránsito aéreo; (v) La navegación y el empleo de las ayudas a la navegación, incluyendo los procedimientos de una aproximación de vuelo por instrumentos; (vi) Los procedimientos para las comunicaciones normales y de emergencia; (vii) Las referencias visuales antes y durante el descenso bajo la altura de decisión (DH) o la altitud mínima de descenso (MDA); (viii) Entrenamiento inicial de CRM aprobado; y (ix) Cuando corresponda, Conocimiento del QRH (Quick Reference Handbook) asociado al material. (x) Cualquier otra instrucción que la empresa estime necesaria. (2) Por cada tipo de helicóptero: (i) La descripción general. (ii) Las características de la performance. (iii) Los motores, palas y rotores. (iv) Los componentes principales. (v) Los sistemas principales del helicóptero (controles de vuelo, sistema eléctrico, sistema hidráulico); otros sistemas que tenga el helicóptero; los principios de operaciones normales, anormales y de emergencia; los procedimientos y limitaciones que correspondan. (vi) Los procedimientos para: (A) El reconocimiento y la prevención de las situaciones meteorológicas severas. (B) Enfrentar situaciones meteorológicas severas, en caso de encuentros imprevistos, incluyendo la cizalladura del viento de baja altitud (windshear); y (C) operación en o cerca de las tormentas, el aire turbulento, incluyendo la turbulencia de aire claro, la formación de hielo, de granizo y otras condiciones meteorológicas potencialmente peligrosas; (vii) El consumo de combustible y control de crucero. (viii) Las limitaciones operacionales. (ix) La planificación del vuelo. (x) Los procedimientos normales, anormales y de emergencia; y (xi) el manual de vuelo aprobado del helicóptero. (b) Cuando corresponda, Tripulación Auxiliar: (1) Materias generales: (i) La autoridad del piloto al mando; y (ii) control de los pasajeros, incluyendo los procedimientos a seguir en el caso de personas con necesidades especiales u otras personas cuya conducta podría poner en peligro la seguridad del vuelo. (iii) Cuando corresponda, conocimiento del QRH (Quick Reference Handbook) asociado al material. (iv) Conocimientos respecto al efecto de la falta de oxígeno, y, en el caso de helicópteros con cabina a presión, por lo que se refiere a los fenómenos fisiológicos inherentes a una pérdida de presión. (v) Conoce de la actuación humana en relación con las obligaciones de seguridad operacional en la cabina de pasajeros, incluyendo la coordinación entre la tripulación de vuelo y la tripulación de cabina. (2) Por cada tipo de helicóptero: (i) Una descripción general del helicóptero dando especial énfasis a las características físicas que puedan tener relación con los procedimientos de amaraje, de evacuación y de emergencia en vuelo y otras obligaciones relacionadas; (ii) los medios para comunicarse con otros tripulantes de vuelo, incluyendo medios de emergencia en el caso de intento de apoderamiento ilícito u otras situaciones anormales; y (iii) El uso adecuado del equipo eléctrico de los galley y los controles para la calefacción y la ventilación de cabina. (3) La instrucción teórica inicial y de transición para los tripulantes auxiliares deberá incluir un examen de competencia para determinar la capacidad para efectuar las obligaciones y las responsabilidades asignadas. (c) Cuando corresponda, Encargado Operaciones de Vuelo. (1) Materias generales: (i) El empleo de los sistemas de comunicación, las características de aquellos sistemas y los correspondientes procedimientos normales, anormales y de emergencia; (ii) La meteorología, incluyendo los diversos tipos de información meteorológica; los pronósticos; la interpretación de la información meteorológica; los pronósticos de temperaturas en ruta y en el terminal; otras condiciones meteorológicas; los sistemas frontales; las condiciones del viento y el uso de las cartas de pronósticos para las diversas altitudes; (iii) El sistema NOTAM; (iv) Las ayudas para la navegación y las respectivas publicaciones; (v) Las responsabilidades conjuntas del EOV-piloto; (vi) Las características correspondientes de los aeródromos/helipuertos/helipuertos; (vii) Los fenómenos meteorológicos prevalecientes y las fuentes disponibles de la información meteorológica; (viii) Los procedimientos de aproximación de vuelo por instrumentos y el ATC; e (ix) Instrucción inicial sobre administración de recursos del EOV. (2) Por cada helicóptero: (i) Una descripción general del helicóptero, poniendo énfasis en las características de la operación y en las performances, del equipo de navegación, del equipo de aproximación de vuelo por instrumentos y de navegación, del equipo y de los procedimientos de emergencia y otras materias que tengan relación con las funciones y las responsabilidades del despachador o encargado de operaciones; (ii) Los procedimientos de la operación de vuelo; (iii) Los cálculos de peso y estiba; (iv) Los requisitos y los procedimientos básicos de las performances del helicóptero; (v) La planificación de vuelo, manejo de la deriva, el análisis del tiempo de vuelo y los requerimientos de combustible; y (vi) Los procedimientos de emergencia. (3) Se deberá hacer énfasis en los procedimientos de emergencia asociados, incluyendo la alerta a los correspondientes organismos gubernamentales, de la empresa y privados durante las emergencias, para brindar la máxima ayuda al helicóptero en situación de peligro. (4) La instrucción teórica inicial y de transición para los EOV del helicóptero deberá incluir un examen teórico de competencia que demuestre conocimiento y capacidad en las materias señaladas en el párrafo (a) de esta sección tomado por un supervisor o instructor. (d) OCE. (1) Materias generales: Las responsabilidades conjuntas del EOV-Piloto. (i) Actuación humana referida a las funciones de carga y estiba. (ii) Medidas de prevención para impedir el embarque de sustancias ilícitas. (iii) Conocimiento del manifiesto de carga y las funciones de Aduana y Servicio Agrícola Ganadero (SAG). (2) Aspectos de la seguridad aeroportuaria tales como: (i) Seguridad en la losa. (ii) Prevención de accidentes personales y daños a los helicópteros. (iii) Funciones del Servicio Extinción de Incendios (SEI). (3) Por cada helicóptero en las cuales cumple sus funciones: (i) La influencia de la carga y de la distribución del peso en la performance y las características de vuelo del helicóptero. (ii) Cálculos de peso y estiba, tanto automatizados como manuales. (iii) Cálculo del centro de gravedad. (iv) Conocimientos básicos de Limitaciones de los helicópteros. (v) Conocimientos básicos de Análisis de Pista, incluyendo el uso de cartas, gráficos, tablas, fórmulas, cálculos y sus efectos en las performance del helicóptero. (4) La instrucción teórica inicial y de transición para los OCE del helicóptero deberá incluir un examen teórico de competencia que demuestre conocimiento y capacidad en las materias señaladas en el párrafo (d)(1) y (2) de esta sección tomado por un supervisor o instructor. (5) Con el fin de mantener las competencias de estos especialistas, el operador establecerá un programa de instrucción recurrente teniendo como base, los temas indicados en la letra (d) números (1) y (2) de esta sección de acuerdo con los plazos establecidos en la normativa vigente. 135.1019 PILOTOS: INSTRUCCIÓN DE VUELO INICIAL, DE TRANSICIÓN Y DE ACTUALIZACIÓN Y DIFERENCIAS. (a) La instrucción inicial, de transición y de ascenso para pilotos debe incluir la instrucción de vuelo, la práctica de las maniobras y los procedimientos señalados en el programa de instrucción de vuelo del titular del certificado AOC. (b) Las maniobras y los procedimientos para la instrucción inicial, de transición y de ascenso deben ejecutarse en vuelo, excepto aquellas maniobras y procedimientos que dado el riesgo operacional que implican deban necesariamente efectuarse en un simulador de vuelo u otro elemento de instrucción aprobado por la DGAC. (c) Si el programa de instrucción del titular de certificado AOC incluye un curso de instrucción en el que se utiliza un simulador del helicóptero, se debe completar exitosamente: (1) La instrucción y la práctica en el simulador de todas las maniobras y procedimientos, para la instrucción de vuelo inicial que se pueda ejecutar en un simulador de la helicóptero; y (2) Un examen de vuelo en el simulador del helicóptero o en el helicóptero al nivel de pericia de un piloto al mando o de segundo al mando, según corresponda, por lo menos en las maniobras y en los procedimientos que se puedan ejecutar en un simulador de la helicóptero. 135.1021 INSTRUCCIÓN PERIÓDICA (RECURRENT). (a) La instrucción periódica debe garantizar que todo miembro de la tripulación de vuelo mantenga sus competencias respecto al tipo de helicóptero. (b) La instrucción periódica teórica para los miembros de la tripulación y para los encargados de operaciones de vuelo debe incluir por lo menos lo siguiente: (1) Un cuestionario u otro tipo de examen para determinar el nivel de conocimientos del tripulante o del encargado de operaciones de vuelo, con respecto al helicóptero y al puesto que debe desempeñar. (2) La instrucción que sea necesaria, en las materias exigidas para instrucción teórica inicial, incluyendo la instrucción de procedimientos de emergencia (no exigida para los despachadores del helicóptero). (3) Para los tripulantes de vuelo, tripulantes auxiliares de cabina, los encargados de operaciones de vuelo y OCE, un examen de competencia para determinar la habilidad para desempeñar las funciones asignadas. (4) Entrenamiento periódico de CRM según corresponda. Para los tripulantes de vuelo este entrenamiento o parte de él podrá ser cumplido en un turno de instrucción de vuelo operacional de línea aprobado en simulador (LOFT). El requisito de instrucción periódica de CRM no se aplicará hasta que la persona haya completado la instrucción inicial CRM. (c) Incluir en la instrucción periódica aquellas maniobras y procedimientos que dado el riesgo operacional que implican deban necesariamente efectuarse en un simulador de vuelo u otro elemento de instrucción aprobado por la DGAC.
+Simulador de vuelo, que proporciona una representación exacta del puesto de pilotaje de un tipo particular de aeronave, hasta el punto de que simula positivamente las funciones de los mandos de las instalaciones y sistemas mecánicos, eléctricos, electrónicos, etc., de a bordo, el medio ambiente normal de los miembros de la tripulación de vuelo, y la performance y las características de vuelo de ese tipo de aeronave.
 
-CAPÍTULO L: MANTENIMIENTO DE LA AERONAVEGABILIDAD CONTINUADA. 135.1101 RESPONSABILIDAD DEL OPERADOR. Cada operador es responsable de que: (a) Cada helicóptero y sus componentes se mantengan en condición aeronavegable; (b) Se corrija cualquier defecto o daño que afecte la aeronavegabilidad del helicóptero o sus componentes, antes de iniciar el vuelo previsto; (c) El mantenimiento de sus helicópteros se efectúe solo por organizaciones o personas que permite la DAN 43. (d) Se ejecute el mantenimiento a sus helicópteros en conformidad con el correspondiente programa de mantenimiento aprobado por la DGAC o programa de inspección aceptado por la DGAC, el manual de control de mantenimiento, las limitaciones de aeronavegabilidad y a las instrucciones de aeronavegabilidad continuada aplicables y actualizadas; (e) Cuando corresponda, establecer y mantener un sistema que permita el análisis del comportamiento y efectividad del programa de mantenimiento y de aquellas otras tareas de mantenimiento que deben ser realizadas. (f) El cumplimiento de las directivas de aeronavegabilidad o documentos equivalentes aplicables y cualquier otro requerimiento de aeronavegabilidad continuada descrita como obligatorio por la DGAC. (g) El certificado de aeronavegabilidad se encuentra vigente. (h) El equipo operacional y de emergencia se encuentre en condición servible para la operación prevista. 135.1103 INSPECCIÓN DEL HELICÓPTERO. (a) El operador establecerá o adoptará para cada aeronave un programa de mantenimiento o de inspección, aprobado o aceptado respectivamente por la DGAC, para uso y orientación del personal de mantenimiento y de operaciones y con el propósito de asegurar que el mantenimiento de sus aeronaves se efectúa conforme a los requisitos establecidos por el Estado de diseño o el organismo responsable del diseño de tipo y la DGAC. (b) El programa de mantenimiento o de inspección, estará compuesto por: (1) Según las horas estimadas a volar, uno de los programas de inspección establecidos por el fabricante del helicóptero en su manual de mantenimiento. (2) Los servicios y los intervalos a las cuales estos se aplicarán. (3) Inspecciones estructurales. (4) Revisiones generales (overhaul). (5) Actividades de mantenimiento con cumplimiento horario o calendario. (6) Inspecciones derivadas de alteraciones o reparaciones mayores. (7) Cumplimiento obligatorio de las Limitaciones de Aeronavegabilidad y Directivas de Aeronavegabilidad establecidas por el Estado de diseño o por la DGAC. (8) Los helicópteros con un PMD superior a 3.178 kg, además de lo indicado en (a)(1) al (7), considerarán lo siguiente cuando corresponda: (i) Inspecciones Suplementarias; (ii) Control y Prevención de la Corrosión; (iii) Métodos de evaluación de reparaciones; (iv) Revisión de daños por fatiga; (v) Una descripción del programa de confiabilidad y monitoreo por condición de los sistemas del helicóptero, componentes, motores y rotores. (c) Procedimiento para solicitar cambio o apartarse de lo estipulado en (a), de esta sección respecto de aquellas tareas que el Estado de Diseño no haya considerado obligatorias. (d) En el diseño y aplicación del programa de mantenimiento indicado en (a) se deberán tener en cuenta los principios relativos a factores humanos conforme a lo siguiente: (1) Lenguaje escrito, significa no solo el empleo del vocabulario y la gramática correcta sino que también la forma en que se usan. (2) Tipografía, incluye la forma y tamaño de las letras, la impresión y la diagramación. Ambos aspectos tiene un significativo impacto en la comprensión del texto escrito. (3) El uso de fotografías, diagramas, tablas o cartas que reemplacen textos descriptivos muy largos ayudan a la comprensión y mantienen el interés. El uso de colores en las ilustraciones reduce la carga de trabajo y tienen un efecto motivacional. (4) Considerar el ambiente de trabajo donde se va a usar el documento cuando se defina el tamaño de la impresión y de la hoja. (e) Toda modificación al programa de mantenimiento que no sea una limitación de aeronavegabilidad, debe ser presentada a la DGAC para su aprobación y posterior distribución por parte de la empresa a los organismos o personas que lo requieran. 135.1105 GESTIÓN DEL MANTENIMIENTO. (a) El operador deberá disponer de una organización de gestión del mantenimiento de la aeronavegabilidad, con el fin de cumplir con sus responsabilidades respecto del control del aeronavegabilidad continuada de sus helicópteros y demás requisitos establecidos en este Capítulo. b) La organización de gestión del mantenimiento de la aeronavegabilidad debe contar con personal competente en aspectos tales como reglamentación aeronáutica nacional e internacional, manejo de los conceptos del aeronavegabilidad continuada y del idioma inglés. (c) El operador nombrará a un responsable (persona natural o jurídica) de la gestión del mantenimiento, quien además de cumplir con las atribuciones establecidas en el Reglamento de Licencias deberá satisfacer lo siguiente: (1) Competencias. (i) Conocimiento de reglamentación aeronáutica nacional e internacional según sea el caso. (ii) Manejo de los conceptos asociados a la aeronavegabilidad continuada. (iii) Manejo del idioma inglés. (2) Funciones. (i) Definir y controlar la competencia del personal de su organización mediante un programa de instrucción inicial y continua que incluya la instrucción sobre los procedimientos de la organización y factores humanos. (ii) Definir para cada aeronave el programa de mantenimiento, supervisar y controlar su aplicación. (iii) Verificar que las alteraciones y reparaciones mayores sean realizadas de acuerdo a datos aprobados y gestionar su aprobación de acuerdo a la normativa vigente. (iv) Supervisar y controlar el cumplimiento de las directivas de aeronavegabilidad o documentos equivalentes relacionadas con el helicóptero y sus componentes. (v) Controlar que todas las discrepancias de mantenimiento sean corregidas por una organización de mantenimiento debidamente aprobada y habilitada en el material. (vi) Controlar la sustitución de aquellos componentes del helicóptero que hayan alcanzado su límite de servicio. (vii) Controlar y conservar los registros de mantenimiento de los helicópteros y sus componentes. (viii) Verificar que el registro de peso y balance refleja el estado actual del helicóptero; (ix) Controlar que se utilicen datos de mantenimiento aprobados y actualizados. (x) Cuando corresponda, que la carta o mapa de daños de cada helicóptero se mantenga actualizada. (xi) verificar que el contrato de ejecución del mantenimiento que se establezca entre el operador y un CMA o CMAE, considere los siguientes aspectos: (A) los servicios de mantenimiento que están siendo contratados; (B) la disponibilidad de los datos de mantenimiento propios (customizados) y actualizados que sean necesarios para los servicios; (C) la facultad de supervisión por parte del operador de los servicios que están siendo ejecutados; y (D) la responsabilidad del CMA de conocer, aceptar y aplicar lo establecido en el Manual de Control de Mantenimiento y Programa de Mantenimiento/Inspección del operador. (xii) Velar por el cumplimiento de lo establecido en el MCM. 135.1107 MANUAL DE CONTROL DE MANTENIMIENTO. (a) El operador proporcionará, para uso y orientación del personal de mantenimiento y operaciones, un manual de control de mantenimiento aceptable para la DGAC. En el diseño del manual se observarán los principios de factores humanos. (b) El operador se asegurará de que el manual de control de mantenimiento se enmiende y revise según sea necesario para mantener actualizada la información que contiene. Se enviará copia de todas las enmiendas introducidas en el manual de control de mantenimiento a todos los organismos o personas que hayan recibido el manual. (c) El operador proporcionará a la DGAC copia de su manual de control de mantenimiento, junto con todas las enmiendas y revisiones del mismo e incorporará en él los textos obligatorios que la DGAC exija. (d) El diseño del MCM, requerirá se observen los principios de Factores Humanos. Algunos de los aspectos básicos relacionados con la optimización de Factores Humanos incluyen: (1) Lenguaje escrito. Involucra no solo el uso del vocabulario y gramática en forma correcta, sino que la forma en que son usadas. (2) Tipografía. Incluye la forma de las letras, la impresión y diagramación por su impacto significativo en la comprensión del material escrito. (3) El uso de fotografías, diagramas, tablas que reemplacen textos descriptivos extensos para ayudar a mantener la comprensión y mantener el interés. El uso de ilustraciones coloreadas reduce la carga de trabajo y posee un efecto motivacional. (4) Al definir la impresión y tamaño de la página, se debe tener en consideración el ambiente de trabajo en el cual se usará el documento. (e) El manual de control de mantenimiento debe contener los procedimientos e información que se indican: (1) una descripción de los procedimientos requeridos para verificar que: (i) Cada aeronave se mantenga en condición aeronavegable, (ii) el equipo operacional y de emergencia necesario para el vuelo previsto se encuentre en estado de funcionamiento. (iii) el certificado de aeronavegabilidad de cada aeronave siga siendo válido. (2) un organigrama de la estructura de la organización de gestión de la aeronavegabilidad; (3) los nombres y responsabilidades de la persona o grupo de personas empleadas para verificar que todo el mantenimiento se ejecuta de acuerdo con el MCM. (4) procedimientos para revisar y controlar el manual de control de mantenimiento; (5) una referencia al programa de mantenimiento utilizado para cada tipo de helicóptero operado; (6) procedimientos utilizados para llenar y conservar los registros de mantenimiento de sus aeronaves; (7) un listado con las marcas y modelos de sus helicópteros a los que se aplica el manual; (8) Para helicópteros con un PMD mayor a 3.180 Kg: (i) una descripción de los procedimientos para vigilar, evaluar e informar a la DGAC sobre la experiencia operacional y de mantenimiento. (ii) un procedimiento para evaluar la información de aeronavegabilidad continuada y recomendaciones emanadas de la organización responsable del diseño tipo y por la implementación de las acciones resultantes que se consideren necesarias obtenidas de la evaluación efectuada conforme a los procedimientos aceptables para la DGAC. (iii) Establecer y mantener un sistema que permita el análisis del comportamiento y efectividad del programa de mantenimiento (CASS) y de aquellas otras tareas de mantenimiento que deben ser realizadas. (9) un procedimiento para evaluar y aplicar las medidas resultantes de información obligatoria de mantenimiento de la aeronavegabilidad del Estado de diseño y la DGAC; (10) una descripción de los acuerdos contractuales que existan entre el operador y el o los CMA; (11) un procedimiento para verificar que las fallas o defectos que afecten la aeronavegabilidad, se registren y rectifiquen; (12) para helicópteros con un PMD superior a los 3.180 Kg, un procedimiento para informar al organismo de diseño y a la DGAC sobre fallas, malfuncionamiento, defectos y otros casos que produzcan o puedan producir efectos adversos sobre la aeronavegabilidad continuada. (13) para helicópteros con un PMD superior a los 3.180 Kg, una descripción de los procedimientos para comunicar a la DGAC sobre sucesos significativos durante el servicio tales como: (i) fallas de la estructura primaria; (ii) falla del sistema de control; (iii) fuego en el helicóptero; (iv) falla estructural del motor; (v) cualquier otra condición que se considere un riesgo inminente para la seguridad; (14) procedimientos para controlar las discrepancias diferidas por MEL cuando corresponda; (15) descripción del programa de entrenamiento para el personal de mantenimiento empleado por el operador aplicable a las funciones y responsabilidades asignadas. (16) una descripción de los procedimientos de mantenimiento y de los procedimientos para completar y firmar el visto bueno correspondiente, cuando el mantenimiento se realice mediante un sistema que no utilice un organismo de mantenimiento reconocido. (17) Un procedimiento para verificar que las modificaciones y reparaciones se efectúen de acuerdo a lo dispuesto por la DGAC. (18) procedimiento para instruir al personal de certificación del CMA sobre los procedimientos de la empresa que le correspondan. (19) Una descripción de los procedimientos para completar y firmar una conformidad de mantenimiento para el helicóptero y partes que hayan sido sometidas a mantenimiento. (20) Una descripción para verificar que el helicóptero es mantenido conforme al programa de mantenimiento aprobado. (21) procedimiento para controlar la aeronavegabilidad del helicóptero cuando opere en el extranjero o de un helicóptero matrícula extranjera que opere como parte de un AOC. (22) Cuando corresponda, un procedimiento para diferir ítems MEL que incluya lo siguiente: (i) Método para diferir y/o rectificar equipos inoperativos. (ii) Requisitos de identificación por medio de placas conforme al MEL de acuerdo con lo siguiente: (A) Todo equipo inoperativo debe ser identificado mediante una placa o elemento equivalente para informar a la tripulación de la condición del equipo. (B) el operador establecerá la ubicación y el texto; (C) el operador debe otorgar la capacidad y las instrucciones a la tripulación para verificar que el aviso se encuentre en el lugar antes que el helicóptero sea despachada. (iii) despacho del helicóptero con ítems MEL diferidos; (iv) sistema de diferidos; (v) control de ítems categorizados (A, B, C, D, M y O); y (vi) el entrenamiento del personal de la compañía responsable del cumplimiento del procedimiento MEL. (23) procedimiento para la realización de actividades de mantenimiento en emplazamientos temporales. (f) El operador debe proveer a la DGAC una copia del manual de control de mantenimiento y las subsecuentes enmiendas. (g) Una vez enmendado el MCM, el operador deberá enviar copia de ellas a todos los organismos y personas que hayan recibido el Manual. 135.1109 REGISTROS DEL MANTENIMIENTO. (a) El organismo de gestión del mantenimiento deberá mantener y conservar los siguientes registros: (1) tiempo total de servicio (horas, tiempo transcurrido y ciclos, según corresponda) del helicóptero, de cada motor y de rotor, si es aplicable, así como de los componentes con vida límite; (2) Estado actualizado del cumplimiento de toda limitación de aeronavegabilidad, directiva de aeronavegabilidad o documento equivalente aplicable a cada aeronave y componente de aeronave, (3) las alteraciones y reparaciones mayores realizadas en cada helicóptero y componente de helicóptero, con referencia a los datos de mantenimiento aprobados; (4) situación del helicóptero en cuanto al cumplimiento del programa de mantenimiento; (5) tiempo de servicio (horas, tiempo transcurrido y ciclos, según corresponda) desde la última revisión (overhaul o hard time) de los componentes del helicóptero instalados en el helicóptero que requieran una revisión obligatoria a intervalos de tiempo de utilización definidos. (6) detalle de los trabajos de mantenimiento para demostrar que se ha cumplido con todos los requisitos necesarios para la firma de la conformidad (visto bueno) de mantenimiento. (7) peso y balance; (b) Los registros que figuran en (a) (1) al (5) se conservarán durante un período mínimo de 180 días después de retirado definitivamente del servicio el componente a que se refieren. El registro enumerado en (a)(6) durante por lo menos dos (2) años a partir de la firma de la conformidad de mantenimiento. El registro (a)(7) se mantendrá vigente hasta el próximo pesaje. (c) Los registros indicados en (a) podrán ser almacenados ya sea en papel o formato digital. Teniendo presente lo siguiente: (1) La rápida recuperación de los registros; (2) los registros, sea cual fuere el medio de almacenamiento, deben guardarse en un lugar protegido de las inclemencias meteorológicas, fuego, desastre natural etc. 135.1111 TRANSFERENCIA DE REGISTROS DE MANTENIMIENTO. (a) En caso que el operador entregue en arriendo un helicóptero, deberá poner a disposición del arrendatario los registros de mantenimiento, con el fin de que este último de cumplimiento a los requisitos de aeronavegabilidad correspondientes. (b) En caso de cambio permanente de propiedad del helicóptero, los registros de mantenimiento se transferirán al nuevo propietario. (c) Los registros indicados en (a) podrán ser almacenados ya sea en papel o formato digital. 135.1113 OTRAS INSPECCIONES. El operador deberá cumplir las siguientes inspecciones en los períodos que se indican, y de acuerdo a las instrucciones establecidas en la DAN 43: (a) Altímetros, Computadores de Datos de Aire, Sistemas automáticos de Reporte de Altitud de Presión y Sistema de Presión Estática - Pitot. No se puede operar un helicóptero en condición IFR, si en los 24 meses precedentes cada sistema de presión estática, cada altímetro y cada sistema de reporte automático de altitud de presión, no ha sido probado, inspeccionado y encontrado que cumple con los requisitos establecidos en la DAN 43. (b) Respondedor de Control de Tránsito Aéreo (ATC Transponder). Ninguna persona puede hacer uso de un Transpondedor ATC a no ser que en los 24 meses precedentes, el transpondedor ATC haya sido probado, inspeccionado y encontrado que cumple con los requisitos establecidos en la DAN 43. (c) Los requisitos de inspección establecidos en (1) y (2) anteriores, deben cumplirse después de cualquier intervención en el equipo. (d) Registrador de Datos de Vuelo. (1) Todo equipo Registrador de Datos de Vuelo, deberá ser sometido antes del primer vuelo del día a una verificación manual y/o automática de los mecanismos integrados de prueba del sistema registrador y el equipo de adquisición de datos de vuelo, cuando corresponda. (2) Todo equipo Registrador de datos de Vuelo deberá ser sometido a las siguientes inspecciones periódicas, con un equipo de lectura que tenga el soporte lógico necesario para convertir con precisión los valores registrados en unidades de medición técnica y determinar la situación de las señales discretas. (i) Prueba operacional con una periodicidad no mayor a doce (12) meses que considere al menos: (A) La correcta operación del sistema registrador durante el tiempo nominal de grabación y (B) Un análisis de la grabación que evalúe la calidad de los parámetros obligatorios, indicados por esta Norma, registrados en un vuelo completo y verificando que se graban dentro de lo esperado de acuerdo al perfil del vuelo evaluado. (ii) Calibración del sistema FDR: (A) Para los parámetros obligatorios con sensores dedicados exclusivamente al Sistema Registrador de Datos de Vuelo, o que no se registran en un vuelo regular, se realizara una calibración al menos cada 5 años o de acuerdo a las recomendaciones del fabricante, tal de verificar que los parámetros se registran dentro de las tolerancias de calibración y (B) Cada dos años y según lo recomendado por el fabricante de los sensores, se efectuará una nueva calibración de aquellos sensores especiales para el sistema FDR que registre los parámetros de altitud y velocidad. (iii) El Sistema Registrador de Datos de Vuelo, deberá considerarse inoperativo si se obtienen datos de mala calidad o si uno o más parámetros obligatorios no se registran correctamente. (iv) El operador deberá conservar y a disposición de la DGAC, la documentación relativa a la asignación de parámetros, ecuaciones de conversión, calibración periódica y otras informaciones que sean requeridas sobre el funcionamiento / mantenimiento de los FDR, para efectos de investigación de un accidente u ocurrencia que requieran notificación a la DGAC. La documentación señalada deberá ser suficiente, a objeto que le permita a la DGAC, durante el desarrollo de su investigación, disponer de la información necesaria para efectuar la lectura de datos en unidades de medición técnicas. (3) Registrador de Voz de Cabina de Pilotaje (CVR). (i) Antes del primer vuelo del día, se controlará por medio de verificaciones manuales y/o automáticas los mecanismos integrados de prueba del sistema registrador. (ii) Todo equipo Registrador de Voz de Cabina de Pilotaje, deberá ser sometido a una inspección anual. Esta inspección anual deberá ser capaz de verificar la correcta grabación de las señales de prueba de cada fuente de la aeronave y de las fuentes externas pertinentes, comprobando que todas las señales requeridas cumplan con las normas de inteligibilidad. (iii) El Sistema Registrador de Voz de Cabina de Pilotaje deberá considerarse inoperativo si durante un tiempo considerable se obtienen señales ininteligibles o no se registran correctamente. (e) Transmisor Localizador de Emergencia (ELT). El ELT debe ser inspeccionado anualmente verificando lo siguiente: (1) Instalación apropiada; (2) Corrosión de la batería. (3) Operación de los controles y sensor de impacto; (4) Presencia de suficiente señal radiada desde la antena. (f) Peso y balance. (1) El operador mantendrá actualizada la lista de equipos instalados en el helicóptero. (2) El operador deberá corregir el peso y posición del Centro de Gravedad mediante cálculo cada vez que el helicóptero sea devuelto al servicio después de haberse instalado o removido equipos y en que el peso vacío de la aeronave no exceda el 0,5% del peso máximo de despegue y la nueva distribución de peso en la aeronave sea perfectamente conocida. (3) Se efectuará un pesaje físico cada vez que se presente una o más de las siguientes condiciones: (i) Cada vez que entre en servicio y que por remoción o instalación de equipamiento, el peso vacío de la aeronave exceda el 0,5% del peso máximo de despegue. (ii) Al término de una reconstrucción, alteración o reparación mayor o pintado superior al 50% de la superficie de la aeronave. (iii) Cada vez que lo disponga el Manual de Mantenimiento u otro documento técnico aplicable a la aeronave. (iv) Cada vez que la posición del centro de gravedad de la aeronave para peso vacío se desplace más de 0,5% de la cuerda media aerodinámica. (4) Periodicidad. (i) Independiente de lo señalado en (3), para helicópteros cuyo peso máximo de despegue sea igual o superior a 5.700 Kgs., el pesaje físico deberá repetirse cada cuatro (4) años. (ii) Independiente de lo señalado en (3), para helicópteros cuyo peso máximo de despegue sea menor de 5.700 Kgs, el pesaje físico deberá repetirse cada ocho (8) años. 135.1115 INFORME DE DIFICULTADES EN SERVICIO. (a) El operador de un helicóptero con un PMD superior a 3.175 kg debe informar a la DGAC sobre cualquier falla, malfuncionamiento, o defecto en la aeronave que ocurre o es detectado en cualquier momento si, en su opinión, esa falla, malfuncionamiento o defecto ha puesto en peligro o puede poner en peligro la operación segura del helicóptero utilizado por él. (b) Los informes deben ser hechos en la forma y manera indicada en el Apéndice 7 y deben contener toda la información pertinente sobre la condición que sea de conocimiento del operador.
+Entrenador para procedimientos de vuelo, que reproduce con toda fidelidad el medio ambiente del puesto de pilotaje y que simula las indicaciones de los instrumentos, las funciones simples de los mandos de las instalaciones y sistemas mecánicos, eléctricos, electrónicos, etc., de a bordo, y la performance y las características de vuelo de las aeronaves de una clase determinada.
+
+Entrenador básico de vuelo por instrumentos, que está equipado con los instrumentos apropiados, y que simula el medio ambiente del puesto de pilotaje de una aeronave en vuelo, en condiciones de vuelo por instrumentos.
+
+ENTORNO HOSTIL.
+
+(d) existe un riesgo inaceptable de poner en peligro a las personas o a los bienes en tierra.
+
+ESPECIFICACIÓN DE PERFORMANCE DE COMUNICACIÓN REQUERIDA (RCP).
+
+Conjunto de requisitos para el suministro de servicios de tránsito aéreo y el equipo de tierra, las capacidades funcionales de la aeronave y las operaciones correspondientes que se necesitan para apoyar la comunicación basada en la performance.
+
+ESPECIFICACIÓN PARA LA NAVEGACIÓN.
+
+Conjunto de requisitos relativos a la aeronave y a la tripulación de vuelo necesarios para dar apoyo a las operaciones de la navegación basada en la performance dentro de un espacio aéreo definido. Existen dos clases de especificaciones para la navegación:
+
+Especificación para la navegación de área (RNAV). Especificación para la navegación basada en la navegación de área que no incluye el requisito de control y alerta de la performance, designada por medio del prefijo RNAV; p. ej., RNAV 5, RNAV 1.
+
+Especificación para la performance de navegación requerida (RNP). Especificación para la navegación basada en la navegación de área que incluye el requisito de control y alerta de la performance, designada por medio del prefijo RNP; p. ej., RNP 4, RNP APCH.
+
+ESPECIFICACIONES RELATIVAS A LAS OPERACIONES.
+
+Las autorizaciones, incluidas las aprobaciones específicas, condiciones y limitaciones relacionadas con el certificado de explotador de servicios aéreos y sujetas a las condiciones establecidas en el manual de operaciones.
+
+ESTADO DE MATRÍCULA.
+
+Estado en el cual está matriculada la aeronave.
+
+ESTADO DEL EXPLOTADOR/OPERADOR.
+
+Estado en el que está ubicada la oficina principal del operador o, de no haber tal oficina, la residencia permanente del operador.
+
+EXPLOTADOR/OPERADOR.
+
+La persona, organismo o empresa que se dedica, o propone dedicarse, a la explotación de aeronaves.
+
+FASE DE APROXIMACIÓN Y ATERRIZAJE - HELICÓPTEROS.
+
+Parte del vuelo a partir de 300 m (1 000 ft) sobre la elevación de la FATO, si se ha previsto que el vuelo exceda de esa altura, o bien a partir del comienzo del descenso en los demás casos, hasta el aterrizaje o hasta el punto de aterrizaje interrumpido.
+
+FASE DE DESPEGUE Y ASCENSO INICIAL.
+
+Parte del vuelo a partir del comienzo del despegue hasta 300 m (1 000 ft) sobre la elevación de la FATO, si se ha previsto que el vuelo exceda de esa altura o hasta el fin del ascenso en los demás casos.
+
+FASE EN RUTA.
+
+Parte del vuelo a partir del fin de la fase de despegue y ascenso inicial hasta el comienzo de la fase de aproximación y aterrizaje.
+
+FATIGA.
+
+Estado fisiológico que se caracteriza por una reducción de la capacidad de desempeño mental o físico debido a la falta de sueño, a períodos prolongados de vigilia, fase circadiana, o volumen de trabajo (actividad mental o física) que puede menoscabar el estado de alerta de una persona y su habilidad para realizar adecuadamente funciones operacionales relacionadas con la seguridad operacional.
+
+HELICÓPTERO.
+
+Aerodino que se mantiene en vuelo principalmente en virtud de la reacción del aire sobre uno o más rotores propulsados por motor que giran alrededor de ejes verticales o casi verticales.
+
+HELICÓPTERO GRANDE.
+
+Helicóptero con un peso máximo de despegue de 3.175 kg o más.
+
+HELIPLATAFORMA.
+
+Helipuerto situado en una estructura mar adentro, ya sea flotante o fija.
+
+HELIPUERTO.
+
+Aeródromo o área definida sobre una estructura artificial destinada a ser utilizada, total o parcialmente, para la llegada, la salida o el movimiento de superficie de los helicópteros.
+
+HELIPUERTO DE ALTERNATIVA.
+
+Helipuerto al que podría dirigirse un helicóptero cuando fuera imposible o no fuera aconsejable dirigirse al helipuerto de aterrizaje previsto o aterrizar en el mismo, y que cuenta con las instalaciones y los servicios necesarios, que tiene la capacidad de satisfacer los requisitos de performance de la aeronave y que estará operativo a la hora prevista de utilización. Existen los siguientes tipos de helipuertos de alternativa:
+
+de alternativa posdespegue.
+
+Helipuerto de alternativa en el que podría aterrizar un helicóptero si esto fuera necesario poco después del despegue y no fuera posible utilizar el helipuerto de salida.
+
+de alternativa en ruta.
+
+Helipuerto de alternativa en el que podría aterrizar un helicóptero en el caso de que fuera necesario desviarse mientras se encuentra en ruta.
+
+de alternativa de destino.
+
+Helipuerto de alternativa en el que podría aterrizar un helicóptero si fuera imposible o no fuera aconsejable aterrizar en el helipuerto de aterrizaje previsto.
+
+HELIPUERTO ELEVADO.
+
+Helipuerto emplazado sobre una estructura terrestre elevada.
+
+LISTA DE DESVIACIONES RESPECTO A LA CONFIGURACIÓN (CDL).
+
+Lista establecida por el organismo responsable del diseño del tipo de aeronave con aprobación del Estado de diseño, en la que figuran las partes exteriores de un tipo de aeronave de las que podría prescindirse al inicio de un vuelo, y que incluye, de ser necesario, cualquier información relativa a las consiguientes limitaciones respecto a las operaciones y corrección de la performance.
+
+LISTA DE EQUIPO MÍNIMO (MEL).
+
+Lista del equipo que basta para el funcionamiento de una aeronave, a reserva de determinadas condiciones, cuando parte del equipo no funciona, y que ha sido preparada por el explotador de conformidad con la MMEL establecida para el tipo de aeronave, o de conformidad con criterios más restrictivos.
+
+LISTA MAESTRA DE EQUIPO MÍNIMO (MMEL).
+
+Lista establecida para un determinado tipo de aeronave por el organismo responsable del diseño del tipo de aeronave con aprobación del Estado de diseño, en la que figuran elementos del equipo, de uno o más de los cuales podría prescindirse al inicio de un vuelo. La MMEL puede estar asociada a condiciones de operación, limitaciones o procedimientos especiales.
+
+MANTENIMIENTO.
+
+Realización de las tareas requeridas para asegurar el mantenimiento de la aeronavegabilidad de una aeronave, incluyendo, por separado o en combinación, la revisión general, inspección, sustitución, rectificación de defecto y la realización de una modificación o reparación.
+
+A partir del 5 nov 2010, realización de las tareas requeridas en una aeronave, motor, hélice o pieza conexa, para asegurar el mantenimiento de la aeronavegabilidad de una aeronave, motor, hélice o pieza conexa, incluyendo, por separado o en combinación, la revisión general, inspección, sustitución, rectificación de defecto y la realización de una modificación o reparación.
+
+MANTENIMIENTO DE LA AERONAVEGABILIDAD.
+
+Conjunto de procedimientos que permite asegurar que una aeronave, motor, rotor o pieza cumple con los requisitos aplicables de aeronavegabilidad y se mantiene en condiciones de operar de modo seguro durante toda su vida útil.
+
+MANUAL DE OPERACIÓN DE LA AERONAVE.
+
+Manual, aceptable para el Estado del explotador, que contiene los procedimientos de utilización de la aeronave en situación normal, anormal y de emergencia, listas de verificación, limitaciones, información sobre la performance, detalles de los sistemas de aeronave y otros textos pertinentes a las operaciones de las aeronaves.
+
+MANUAL DE OPERACIONES.
+
+Manual que contiene procedimientos, instrucciones y orientación que permiten al personal encargado de las operaciones desempeñar sus obligaciones.
+
+MANUAL DE PROCEDIMIENTOS DEL ORGANISMO DE MANTENIMIENTO.
+
+Documento aprobado por el jefe del organismo de mantenimiento que presenta en detalle la composición del organismo de mantenimiento y las atribuciones directivas, el ámbito de los trabajos, una descripción de las instalaciones, los procedimientos de mantenimiento y los sistemas de garantía de la calidad o inspección.
+
+MANUAL DE VUELO.
+
+Manual relacionado con el certificado de aeronavegabilidad, que contiene limitaciones dentro de las cuales la aeronave debe considerarse aeronavegable, así como las instrucciones e información que necesitan los miembros de la tripulación de vuelo para la operación segura de la aeronave.
+
+MANUAL DEL EXPLOTADOR PARA CONTROLAR EL MANTENIMIENTO.
+
+Documento que describe los procedimientos del explotador para garantizar que todo mantenimiento, programado o no, se realiza en las aeronaves del explotador a su debido tiempo y de manera controlada y satisfactoria.
+
+MASA MÁXIMA.
+
+Masa máxima certificada de despegue.
+
+MERCANCÍAS PELIGROSAS.
+
+Todo objeto o sustancia que pueda constituir un riesgo para la salud, la seguridad operacional, los bienes o el medio ambiente y que figure en la lista de mercancías peligrosas de las Instrucciones Técnicas o esté clasificado conforme a dichas Instrucciones.
+
+MIEMBRO DE LA TRIPULACIÓN.
+
+Persona a quien el explotador asigna obligaciones que ha de cumplir a bordo, durante el período de servicio de vuelo.
+
+MIEMBRO DE LA TRIPULACIÓN DE CABINA.
+
+Miembro de la tripulación que, en interés de la seguridad de los pasajeros, cumple con las obligaciones que le asigne el explotador o el piloto al mando de la aeronave, pero que no actuará como miembro de la tripulación de vuelo.
+
+MIEMBRO DE LA TRIPULACIÓN DE VUELO.
+
+Miembro de la tripulación, titular de la correspondiente licencia, a quien se asignan obligaciones esenciales para la operación de una aeronave durante el período de servicio de vuelo.
+
+MÍNIMOS DE UTILIZACIÓN DE HELIPUERTO.
+
+Las limitaciones de uso que tenga un helipuerto para:
+
+a) el despegue, expresadas en términos de alcance visual en la pista o visibilidad y, de ser necesario, condiciones de nubosidad;
+
+b) el aterrizaje en operaciones de aproximación por instrumentos 2D, expresadas en términos de visibilidad o de alcance visual en la pista y altitud/altura mínima de descenso (MDA/H) y, de ser necesario, condiciones de nubosidad; y
+
+c) el aterrizaje en operaciones de aproximación por instrumentos 3D, expresadas en términos de visibilidad o de alcance visual en la pista y altitud/altura de decisión (DA/H), según corresponda al tipo y/o categoría de la operación.
+
+MODIFICACIÓN.
+
+Un cambio en el diseño de tipo de una aeronave, motor o hélice.
+
+MOTOR.
+
+Unidad que se utiliza o se tiene la intención de utilizar para propulsar una aeronave. Consiste, como mínimo, en aquellos componentes y equipos necesarios para el funcionamiento y control, pero excluye las hélices/los rotores (si corresponde).
+
+NAVEGACIÓN BASADA EN LA PERFORMANCE (PBN).
+
+Requisitos para la navegación de área basada en la performance que se aplican a las aeronaves que realizan operaciones en una ruta ATS, en un procedimiento de aproximación por instrumentos o en un espacio aéreo designado.
+
+NAVEGACIÓN DE ÁREA (RNAV).
+
+Método de navegación que permite la operación de aeronaves en cualquier trayectoria de vuelo deseada, dentro de la cobertura de las ayudas para la navegación basadas en tierra o en el espacio, o dentro de los límites de capacidad de las ayudas autónomas, o una combinación de ambas.
+
+NOCHE.
+
+Las horas comprendidas entre el fin del crepúsculo civil vespertino y el comienzo del crepúsculo civil matutino, o cualquier otro período entre la puesta y la salida del sol que prescriba la autoridad correspondiente.
+
+OPERACIÓN.
+
+Actividad o grupo de actividades que están sujetas a peligros iguales o similares y que requieren un conjunto de equipo que se habrá de especificar; o, el logro o mantenimiento de un conjunto de competencias de piloto, para eliminar o mitigar el riesgo de que se produzcan esos peligros.
+
+OPERACIÓN DE LA AVIACIÓN GENERAL.
+
+Operación de aeronave distinta de la de transporte aéreo comercial o de la de trabajos aéreos.
+
+OPERACIÓN DE TRANSPORTE AÉREO COMERCIAL.
+
+Operación de aeronave que supone el transporte de pasajeros, carga o correo por remuneración o arrendamiento.
+
+OPERACIONES DE APROXIMACIÓN POR INSTRUMENTOS.
+
+Aproximación o aterrizaje en que se utilizan instrumentos como guía de navegación basándose en un procedimiento de aproximación por instrumentos. Hay dos métodos para la ejecución de operaciones de aproximación por instrumentos:
+
+a) una operación de aproximación por instrumentos bidimensional (2D), en la que se utiliza guía de navegación lateral únicamente; y
+
+b) una operación de aproximación por instrumentos tridimensional (3D), en la que se utiliza guía de navegación tanto lateral como vertical.
+
+OPERACIONES EN CONDICIONES DE BAJA VISIBILIDAD (LVO).
+
+Operaciones de aproximación con un RVR inferior a 550 m y/o con una DH inferior a 60 m (200 ft) u operaciones de despegue con un RVR inferior a 400 m.
+
+ORGANIZACIÓN DE MANTENIMIENTO APROBADA (OMA).
+
+Centro de Mantenimiento Aeronáutico (CMA), Centro de Mantenimiento Aeronáutico Extranjero (CMAE) o Club Aéreo con capacidad de ejecutar mantenimiento, certificado y habilitado por la DGAC.
+
+PERIODO DE DESCANSO.
+
+Período continuo y determinado de tiempo que sigue y/o precede al servicio, durante el cual los miembros de la tripulación de vuelo o de cabina están libres de todo servicio.
+
+PERIODO DE SERVICIO (P.S.).
+
+Período que se inicia cuando el explotador exige que un miembro de la tripulación de vuelo o de cabina se presente o comience un servicio y que termina cuando la persona queda libre de todo servicio.
+
+PERIODO DE SERVICIO DE VUELO (P.S.V.).
+
+Período que comienza cuando se requiere que un miembro de la tripulación de vuelo o de cabina se presente al servicio, en un vuelo o en una serie de vuelos, y termina cuando la aeronave se detiene completamente y los motores se paran al finalizar el último vuelo del cual forma parte como miembro de la tripulación.
+
+PILOTO AL MANDO.
+
+Piloto designado por el explotador, o por el propietario en el caso de la aviación general, para estar al mando y encargarse de la realización segura de un vuelo.
+
+PLAN DE VUELO.
+
+Información especificada que, respecto a un vuelo proyectado o a parte de un vuelo de una aeronave, se somete a las dependencias de los servicios de tránsito aéreo.
+
+PLAN OPERACIONAL DE VUELO.
+
+Plan del explotador para la realización segura del vuelo, basado en la consideración de la performance del helicóptero, en otras limitaciones de utilización y en las condiciones previstas pertinentes a la ruta que ha de seguirse y a los helipuertos de que se trate.
+
+PRINCIPIOS RELATIVOS A FACTORES HUMANOS.
+
+Principios que se aplican al diseño, certificación, instrucción, operaciones y mantenimiento aeronáuticos y cuyo objeto consiste en establecer una interfaz segura entre los componentes humano y de otro tipo del sistema mediante la debida consideración de la actuación humana.
+
+PROCEDIMIENTO DE APROXIMACIÓN POR INSTRUMENTOS (IAP).
+
+Serie de maniobras predeterminadas realizadas por referencia a los instrumentos de a bordo, con protección específica contra los obstáculos desde el punto de referencia de aproximación inicial, o, cuando sea el caso, desde el inicio de una ruta definida de llegada hasta un punto a partir del cual sea posible hacer el aterrizaje; y, luego, si no se realiza éste, hasta una posición en la cual se apliquen los criterios de circuito de espera o de margen de franqueamiento de obstáculos en ruta. Los procedimientos de aproximación por instrumentos se clasifican como sigue:
+
+Procedimiento de aproximación que no es de precisión (NPA).
+
+Procedimiento de aproximación por instrumentos diseñado para operaciones de aproximación por instrumentos 2D de Tipo A.
+
+Procedimiento de aproximación con guía vertical (APV).
+
+Procedimiento de aproximación por instrumentos, con navegación basada en la performance (PBN), diseñado para operaciones de aproximación por instrumentos 3D de Tipo A.
+
+Procedimiento de aproximación de precisión (PA).
+
+Procedimiento de aproximación por instrumentos, basado en sistemas de navegación (ILS, MLS, GLS, y SBAS CAT I), diseñado para operaciones de aproximación por instrumentos 3D de Tipo A o B.
+
+PROGRAMA DE MANTENIMIENTO.
+
+Documento que describe las tareas concretas de mantenimiento programadas y la frecuencia con que han de efectuarse y procedimientos conexos, por ejemplo, el programa de fiabilidad, que se requieren para la seguridad de las operaciones de aquellas aeronaves a las que se aplique el programa.
+
+PUNTO DE DECISIÓN PARA EL ATERRIZAJE (LDP).
+
+Punto que se utiliza para determinar la performance de aterrizaje y a partir del cual, al ocurrir una falla de motor en dicho punto, se puede continuar el aterrizaje en condiciones de seguridad o bien iniciar un aterrizaje interrumpido.
+
+PUNTO DE DECISIÓN PARA EL DESPEGUE (TDP).
+
+Punto utilizado para determinar la performance de despegue a partir del cual, si se presenta una falla de motor, puede interrumpirse el despegue o bien continuarlo en condiciones de seguridad.
+
+PUNTO DEFINIDO ANTES DEL ATERRIZAJE (DPBL).
+
+Punto dentro de la fase de aproximación y aterrizaje, después del cual no se asegura la capacidad del helicóptero para continuar el vuelo en condiciones de seguridad, con un motor fuera de funcionamiento, pudiendo requerirse un aterrizaje forzoso.
+
+PUNTO DEFINIDO DESPUÉS DEL DESPEGUE (DPATO).
+
+Punto dentro de la fase de despegue y de ascenso inicial, antes del cual no se asegura la capacidad del helicóptero para continuar el vuelo en condiciones de seguridad, con un motor fuera de funcionamiento, pudiendo requerirse un aterrizaje forzoso.
+
+REGISTRADOR DE VUELO.
+
+Cualquier tipo de registrador instalado en la aeronave a fin de facilitar la investigación de accidentes o incidentes.
+
+REGISTRADOR DE VUELO DE DESPRENDIMIENTO AUTOMÁTICO (ADFR).
+
+Registrador de vuelo combinado instalado en la aeronave que puede desprenderse automáticamente de la aeronave.
+
+REGISTRADORES DE VUELO LIVIANOS.
+
+Comprenden uno o más de los siguientes: un sistema registrador de datos de aeronave (ADRS), un sistema registrador de audio en el puesto de pilotaje (CARS), un sistema registrador de imágenes de a bordo (AIRS); un sistema registrador de enlace de datos (DLRS). La información de imágenes y enlace de datos podrá registrarse en el CARS o en ADRS.
+
+REGISTRADORES DE VUELO PROTEGIDOS CONTRA ACCIDENTES.
+
+Comprenden uno o más de los siguientes: un registrador de datos de vuelo (FDR), un registrador de la voz en el puesto de pilotaje (CVR), un registrador de imágenes de a bordo (AIR); y un registrador de enlace de datos (DLR). La información de imágenes y enlace de datos podrá registrarse en el CVR o en el FDR.
+
+REPARACIÓN.
+
+A partir del 05 nov 2020, restauración de una aeronave, motor, hélice o pieza conexa a su condición de aeronavegabilidad de conformidad con los requisitos adecuados de aeronavegabilidad, cuando ésta haya sufrido daños o desgaste por el uso.
+
+REQUISITOS ADECUADOS DE AERONAVEGABILIDAD.
+
+Códigos de aeronavegabilidad completos y detallados establecidos, adoptados o aceptados por el Estado de Chile para la clase de aeronave, de motor o de hélice en cuestión, indicados en la DAN 21, sección 21.9 "Estándares de aeronavegabilidad nacionales".
+
+SERVICIO.
+
+Cualquier tarea que el explotador exige realizar a los miembros de la tripulación de vuelo o de cabina, incluido, por ejemplo, el servicio de vuelo, el trabajo administrativo, la instrucción, el viaje para incorporarse a su puesto y el estar de reserva, cuando es probable que dicha tarea induzca a fatiga.
+
+SERVICIOS DE ESCALA.
+
+Servicios necesarios para la llegada de una aeronave a un aeródromo y su salida de éste, con exclusión de los servicios de tránsito aéreo.
+
+SISTEMA DE GESTIÓN DE LA SEGURIDAD OPERACIONAL (SMS).
+
+Enfoque sistemático para la gestión de la seguridad operacional, que incluye la estructura orgánica, líneas de responsabilidad, políticas y procedimientos necesarios.
+
+SISTEMA DE GESTIÓN DE RIESGOS ASOCIADOS A LA FATIGA (FRMS).
+
+Medio que se sirve de datos para controlar y gestionar constantemente los riesgos de seguridad operacional relacionados con la fatiga, basándose en principios y conocimientos científicos y en experiencia operacional, con la intención de asegurar que el personal pertinente esté desempeñándose con un nivel de alerta adecuado.
+
+TIEMPO DE VUELO - HELICÓPTEROS.
+
+Tiempo total transcurrido desde que las palas del rotor comienzan a girar, hasta que el helicóptero se detiene completamente al finalizar el vuelo y se paran las palas del rotor.
+
+TRABAJOS AÉREOS.
+
+Operación de aeronave en la que ésta se aplica a servicios especializados tales como agricultura, construcción, fotografía, levantamiento de planos, observación y patrulla, búsqueda y salvamento, anuncios aéreos, etc.
+
+TRAMO DE APROXIMACIÓN FINAL (FAS).
+
+Fase de un procedimiento de aproximación por instrumentos durante la cual se ejecutan la alineación y el descenso para aterrizar.
+
+TRANSMISOR DE LOCALIZACIÓN DE EMERGENCIA (ELT).
+
+Término genérico que describe el equipo que difunde señales distintivas en frecuencias 121.5 y 406 Mhz designadas y que, según la aplicación puede ser de activación automática al impacto o bien ser activado manualmente. Existen los siguientes tipos de ELT:
+
+ELT fijo automático [ELT (AF)]. ELT de activación automática que se instala permanentemente en la aeronave.
+
+ELT portátil automático [ELT(AP)]. ELT de activación automática que se instala firmemente en la aeronave, pero que se puede sacar de la misma con facilidad.
+
+ELT de desprendimiento automático [ELT(AD)]. ELT que se instala firmemente en la aeronave y se desprende y activa automáticamente al impacto y en algunos casos por acción de sensores hidrostáticos. También puede desprenderse manualmente.
+
+ELT de supervivencia [ELT(S)]. ELT que puede sacarse de la aeronave, que está estibado de modo que su utilización inmediata en caso de emergencia sea fácil y que puede ser activado manualmente por los sobrevivientes.
+
+VISUALIZADOR DE "CABEZA ALTA" (HUD).
+
+Sistema de presentación visual de la información de vuelo en el campo visual frontal externo del piloto.
+
+VTOSS.
+
+Velocidad mínima a la cual puede lograrse el ascenso con el motor crítico fuera de funcionamiento, con los demás motores en funcionamiento dentro de los límites operacionales aprobados.
+
+135.5 (b) Los Inspectores serán funcionarios de la DGAC y contarán con una credencial que los identifique como tales.
+
+(c) Los Inspectores tendrán respectivamente durante las fiscalizaciones que efectúen, la facultad de:
+
+(d) Los Operadores deberán otorgar facilidades a los Inspectores para que en el cumplimiento de sus funciones tengan acceso a la aeronave, cabina de mando siempre que la operación lo permita, facilidades para verificar las licencias del personal aeronáutico y tengan el derecho de inspeccionar toda la documentación relacionada con las operaciones, tanto a bordo de los aviones como en las dependencias de tierra.
+
+135.7 APROBACIÓN ESPECÍFICA
+
+(a) El piloto al mando no realizará operaciones para las cuales se requiera una aprobación específica según se especifica en (b) siguiente, a menos que dicha aprobación haya sido otorgada por la DGAC o el Estado de Matrícula. Las aprobaciones específicas seguirán el formato de Apéndice 14 y contendrán por lo menos la información que se enumera en dicho Apéndice.
+
+(b) A partir del 20 nov 2025, las siguientes actividades requerirán de una Aprobación Específica.
+
+(1) Créditos operacionales por HUD, EVS, SVS, CVS, sistemas de aterrizaje automático, cuando se utilizan en operaciones de baja visibilidad
+
+(2) Operaciones con baja visibilidad
+
+(3) Maletines de vuelo electrónicos
+
+(4) Especificaciones de navegación para operaciones PBN con AR
+
+(5) Separación vertical mínima reducida
+
+(6) Mercancías peligrosas
+
+(7) Otras que defina el Estado.
+
+135.9 HELICÓPTERO OPERADO BAJO UN ACUERDO EN VIRTUD DEL ARTÍCULO 83 bis
+
+(a) Un helicóptero que opere bajo un acuerdo en virtud del Artículo 83 bis concertado entre el Estado de matrícula y el Estado del explotador llevará a bordo una copia auténtica certificada del resumen del acuerdo, ya sea en formato electrónico o impreso. Cuando el resumen esté en un idioma distinto al inglés, se incluirá una traducción al inglés.
+
+(b) Los inspectores de seguridad operacional de la aviación civil tendrán acceso al resumen del acuerdo en virtud del Artículo 83 bis para determinar las funciones y obligaciones que conforme al acuerdo el Estado de matrícula ha transferido al Estado del explotador, cuando realicen actividades de supervisión tales como verificaciones en la plataforma.
+
+(c) La DGAC o el Estado del explotador transmitirá a la OACI el resumen del acuerdo junto con el acuerdo en virtud del Artículo 83 bis para su registro ante el Consejo de la OACI.
+
+(d) El resumen del acuerdo seguirá el formato del Apéndice 13.
+
+CAPÍTULO B
+
+REGLAS GENERALES DE OPERACIÓN
+
+135.101 (a) El Operador se cerciorará que:
+
+(1) Todos los empleados estén enterados de que, mientras se encuentren en el extranjero, deben observar las leyes, reglamentos y procedimientos de aquellos Estados en los que se realizan operaciones.
+
+(2) Todos los pilotos conozcan las leyes, los reglamentos y procedimientos, aplicables al desempeño de sus funciones, prescritos para las zonas que han de atravesarse y para los helipuertos que han de usarse, y los servicios e instalaciones de navegación aérea correspondientes. El explotador se cerciorará asimismo de que los demás miembros de la tripulación de vuelo conozcan aquellas leyes, reglamentos y procedimientos aplicables al desempeño de sus respectivas funciones en la operación del helicóptero.
+
+(9) Después de ocurrido un acto de interferencia ilícita, el piloto al mando deberá presentar un informe sobre dicho acto a la DGAC si este se ha producido en el territorio nacional o a la autoridad competente en vuelos en el extranjero, considerando una copia para la DGAC.
+
+(10) El explotador, o un representante designado, asumirá la responsabilidad del control de operaciones.
+
+(b) La responsabilidad del control operacional se delegará únicamente en el piloto al mando y en el encargado de operaciones de vuelo/despachador de vuelo si el método aprobado de control y supervisión de las operaciones de vuelo del explotador requiere personal encargado de operaciones de vuelo o despachadores de vuelo.
+
+(c) Si el encargado de operaciones de vuelo/despachador de vuelo es el primero en saber de una situación de emergencia que pone en peligro la seguridad del helicóptero o de los pasajeros, en las medidas que adopte de conformidad con 135.707 se incluirán, cuando sea necesario, la notificación, sin demora, a las autoridades competentes sobre el tipo de situación y la solicitud de asistencia, si se requiere.
+
+(e) El explotador aplicará y cumplirá con los requisitos establecidos por los Estados en los que se llevan a cabo las operaciones.
+
+135.103 GESTIÓN DE LA SEGURIDAD OPERACIONAL.
+
+(a) El operador deberá establecer y mantener un programa de seguridad operacional para lograr un nivel aceptable de seguridad en la operación de los helicópteros.
+
+(b) El programa de análisis de datos de vuelo señalado en (b), no será punitivo y contendrá salvaguardias adecuadas para proteger a la(s) fuente(s) de los datos.
+
+(c) El explotador establecerá un sistema de documentos de seguridad de vuelo para uso y guía del personal encargado de las operaciones, como parte de su sistema de gestión de la seguridad operacional.
+
+135.105 APROBACIÓN ESPECÍFICA PARA EL TRANSPORTE DE MERCANCÍAS PELIGROSAS COMO CARGA.
+
+El operador al cual le aplique esta norma no podrá transportar mercancías peligrosas, si no cumple con los requisitos y disposiciones establecidas en el Código Aeronáutico y Reglamentos. Además, se asegurará de que todo el personal, incluyendo el personal de terceras partes, que participa en la aceptación, manipulación, carga y descarga de la carga aérea está instruido sobre la aprobación específica del operador y las limitaciones con respecto al transporte de mercancías peligrosas.
+
+(a) Operadores sin aprobación específica para transportar mercancías peligrosas.
+
+El operador de transporte aéreo de pasajeros o carga, que no cuente con una aprobación específica para transportar mercancías peligrosas, deberá cumplir los siguientes requisitos:
+
+(1) Establecer un programa de instrucción inicial y periódico sobre mercancías peligrosas, el cual se deberá publicar en su manual de operaciones, o en su manual de instrucción según corresponda (ver Apéndice 5).
+
+(2) Establecer en su manual de operaciones políticas y procedimientos sobre mercancías peligrosas, de acuerdo con el reglamento DGAC DAR 18, para permitir al personal operacional:
+
+(i) identificar y rechazar mercancías peligrosas no declaradas, incluyendo materiales propios del operador clasificados como mercancías peligrosas; y
+
+(ii) notificar a las autoridades del Estado del Operador y del Estado en el que ocurra cualquier caso en el que se descubran a bordo o en la carga o el correo mercancías peligrosas no declaradas, y accidentes o incidentes con mercancías peligrosas.
+
+(b) Operadores con aprobación específica para transportar mercancías peligrosas.
+
+El operador de transporte aéreo de pasajeros o carga, que cuente con una aprobación específica para transportar mercancías peligrosas, deberá cumplir los siguientes requisitos:
+
+(1) Establecer de acuerdo con el reglamento DAR 18 un programa de instrucción inicial y periódico sobre mercancías peligrosas, el cual se deberá publicar en su manual de operaciones, o en su manual de instrucción según corresponda.
+
+(2) Establecer en su manual de operaciones políticas y procedimientos sobre mercancías peligrosas, de acuerdo con el reglamento DAR 18, para permitir al personal operacional:
+
+(i) identificar y rechazar mercancías peligrosas no declaradas o mal declaradas, incluyendo materiales propios del operador clasificados como mercancías peligrosas; y
+
+(ii) notificar a las autoridades del Estado del Operador y del Estado en el que ocurra cualquier caso en el que se descubran a bordo o en la carga o el correo mercancías peligrosas no declaradas o mal declaradas, y accidentes o incidentes con mercancías peligrosas.
+
+(3) Notificar a las autoridades del Estado del Operador y del Estado en que ocurra cualquier caso en el que se descubra que se han transportado mercancías peligrosas sin cumplir:
+
+(i) cuando no se hayan cargado, segregado, separado o asegurado de conformidad con el reglamento DAR 18 y con las Instrucciones Técnicas.
+
+(ii) la información al piloto al mando (NOTOC).
+
+(4) Aceptar, tramitar, almacenar, transportar, cargar y descargar mercancías peligrosas, incluyendo materiales propios de los operadores clasificados como mercancías peligrosas como carga a bordo de una aeronave.
+
+(5) Proporcionar al piloto al mando información escrita o impresa exacta y legible relativa a las mercancías peligrosas que han de transportarse como carga.
+
+(c) Todo operador informará a sus pasajeros que por razones de seguridad (peligro de incendio), elementos tales como cigarrillos electrónicos, ipad, teléfonos celulares u otros que empleen baterías de litio, sean transportados como equipaje personal en la cabina y no como equipaje facturado. El operador incluirá en su manual de operaciones un procedimiento para combatir un incendio en la cabina de pasajeros producto de este tipo de elemento que considere lo siguiente:
+
+La técnica que se indica a continuación para combatir un incendio producto de baterías de litio es el mismo, sin importar si la batería es una recargable o no, o si es un pack de baterías.
+
+(1) Ubique a los pasajeros en un lugar apartado del aparato.
+
+(2) Use inicialmente un extintor de halón, uno de halón reciclado o de agua para disminuir la gradiente térmica y prevenir que el fuego se expanda hacia otras baterías y materiales.
+
+(3) Eche agua directamente y en forma abundante, o cualquier otro líquido no alcohólico obtenido de cualquier fuente sobre las baterías para enfriarlas después de que se haya extinguido el fuego.
+
+135.111 TRANSPORTE Y USO DE SUSTANCIAS SICOTRÓPICAS O ESTUPEFACIENTES
+
+(a) Se prohíbe el transporte vía aérea de drogas, estupefacientes, sustancias psicotrópicas o estimulantes definidas por Ley, excepto autorización de las autoridades competentes chilenas relacionadas con el rubro.
+
+(b) Las disposiciones relativas al uso de sustancias psicoactivas figuran en el reglamento de licencias y en el reglamento del Aire.
+
+135.137 (a) (1) Telefonía Móvil.
+
+135.141 (b) El operador que opere uno o más helicópteros en operaciones de largo alcance sobre agua, deberá asegurar que la aeronave cuenta con chalecos salvavidas y demostrar su uso.
+
+## Capítulo C
+
+OPERACIONES DE VUELO
+
+135.203 (a) El operador tomará las medidas oportunas para que no se inicie un vuelo a menos que se haya determinado previamente, por todos los medios razonables de que se dispone, que las instalaciones y servicios terrestres o marítimos disponibles y requeridos necesariamente durante ese vuelo, para la seguridad operacional del helicóptero y protección de sus pasajeros, sean adecuados al tipo de operación de acuerdo con el cual haya de realizarse el vuelo y funcionen debidamente para este fin.
+
+135.213 Las listas de verificación serán utilizadas por las tripulaciones de vuelo, antes, durante y después de todas las fases de las operaciones normales, no normales y en caso de emergencia, a fin de garantizar que se cumplen los procedimientos establecidos en su manual de vuelo. En el diseño y utilización de las listas de verificación se observarán los principios relativos a factores humanos.
+
+135.215 ALTITUDES MÍNIMAS DE VUELO.
+
+(a) No se podrá operar con mínimos inferiores a los oficialmente publicados por la DGAC o la autoridad aeronáutica local.
+
+b) El operador podrá establecer altitudes mínimas de vuelo para las rutas recorridas respecto a las cuales el Estado sobrevolado o el Estado responsable haya establecido altitudes mínimas de vuelo, siempre que no sean inferiores a las establecidas por dicho Estado, a no ser que hayan sido expresamente aprobadas.
+
+(c) Cuando no se hayan establecido las altitudes mínimas de vuelo el operador especificará el método por el cual se propone determinar las altitudes mínimas de vuelo para las operaciones realizadas sobre rutas respecto a las cuales el Estado de sobrevuelo o el Estado responsable no haya establecido altitudes mínimas de vuelo e incluirá este método en el manual de operaciones. Las altitudes mínimas de vuelo determinadas de conformidad con dicho método no serán inferiores a las especificadas en el DAR 91.
+
+135.217
+
+(e) El operador cuando determine los valores mínimos de utilización de cada helipuerto o lugar de aterrizaje que hayan de ser aplicados a cualquier operación en particular tendrá presente lo siguiente:
+
+(1) El tipo, performance y características de maniobrabilidad del helicóptero y las condiciones o limitaciones que se especifiquen en el manual de vuelo.
+
+(7) Los medios utilizados para determinar y notificar las condiciones meteorológicas;
+
+(9) Las condiciones prescritas en las especificaciones relativas a las operaciones; y
+
+(10) Todo mínimo que pueda promulgar la DGAC o el Estado del helipuerto.
+
+(f) Los mínimos de utilización para las operaciones de aproximación por instrumentos 2D con procedimientos de aproximación por instrumentos se determinarán estableciendo una altitud mínima de descenso (MDA) o una altura mínima de descenso (MDH), visibilidad mínima y, de ser necesario, condiciones de nubosidad.
+
+(g) Los mínimos de utilización para las operaciones de aproximación por instrumentos 3D con procedimientos de aproximación por instrumentos se determinarán estableciendo una altitud de decisión (DA) o una altura de decisión (DH) y la visibilidad mínima o el RVR.
+
+(h) La DGAC expedirá una aprobación específica para operaciones de aproximación por instrumentos en condiciones de baja visibilidad las que únicamente se realizarán cuando se proporcione información RVR.
+
+(i) El método para establecer y las mínimas fijadas por las empresas aéreas deberán figurar en el Manual de Operaciones de la empresa y serán aprobadas previamente por la DGAC.
+
+(j) Las operaciones de aproximación por instrumentos se clasificarán basándose en los mínimos de utilización más bajos por debajo de los cuales la operación de aproximación deberá continuarse únicamente con la referencia visual requerida, de la manera siguiente:
+
+(l) Tipo A: una altura mínima de descenso o altura de decisión igual o superior a 75 m (250 ft); y
+
+(2) Tipo B: una altura de decisión inferior a 75 m (250 ft). Las operaciones de aproximación por instrumentos de Tipo B están categorizadas de la siguiente manera:
+
+(i) Categoría I (CAT I): una altura de decisión no inferior a 60 m (200 ft) y con visibilidad no inferior a 800 m o alcance visual en la pista no inferior a 550 m;
+
+(ii) Categoría II (CAT II): una altura de decisión inferior a 60 m (200 ft), pero no inferior a 30 m (100 ft) y alcance visual en la pista no inferior a 300 m;
+
+(iii) Categoría III (CAT III): una altura de decisión inferior a 30 m (100 ft) o sin limitación de altura de decisión y alcance visual en la pista inferior a 300 m o sin limitaciones de alcance visual en la pista; (k) Para el despegue en condiciones de baja visibilidad, la DGAC expedirá una aprobación específica para el RVR mínimo de despegue.
+
+(k) Para el despegue en condiciones de baja visibilidad, la DGAC expedirá una aprobación específica para el RVR mínimo de despegue.
+
+135.221
+
+(a) Piloto al mando. Respecto a cada vuelo, el explotador designará un piloto que ejerza las funciones de piloto al mando.
+
+(e) El operador deberá considerar un segundo al mando (copiloto) para helicópteros con una configuración de diez o más asientos de pasajeros, excluyendo los asientos de los pilotos.
+
+135.223
+
+(a) (1) Que el helicóptero reúne condiciones de aeronavegabilidad;
+
+(a) (2) que los instrumentos y equipo prescritos para el tipo de operación, se encuentren operativos y son suficientes para realizar el vuelo;
+
+135.227
+
+(a) (1) Si las condiciones meteorológicas del helipuerto de salida son iguales o inferiores a los mínimos de utilización del helipuerto aplicable, se seleccionará un helipuerto de alternativa de despegue y se especificará en el plan operacional de vuelo.
+
+(b) Helipuerto de alternativa de destino.
+
+(1) Para un vuelo que haya de efectuarse de acuerdo con las IFR, se especificará al menos un helipuerto de alternativa de destino en el plan operacional de vuelo y en el plan de vuelo ATS, a no ser que:
+
+(i) la duración del vuelo y las condiciones meteorológicas prevalecientes sean tales que exista certidumbre razonable de que a la hora prevista de llegada al helipuerto de aterrizaje previsto y por un período razonable antes y después de esa hora, la aproximación y el aterrizaje puedan hacerse en condiciones meteorológicas de vuelo visual según prescriba la DGAC; o
+
+(ii) el helipuerto de aterrizaje previsto esté aislado y no existe ningún helipuerto de alternativa, en ese caso se establecerá un PNR (Punto de No Retorno).
+
+(3) Para un helipuerto que haya de seleccionarse como de alternativa de destino, la información disponible deberá indicar que, a la hora de utilización prevista, las condiciones serán iguales o superiores a los mínimos de utilización del helipuerto para esa operación.
+
+(c) Helipuertos de alternativa mar adentro (costa afuera).
+
+(1) Cuando se especifique un helipuerto de alternativa mar adentro, dicha especificación se hará con sujeción a las condiciones siguientes:
+
+(i) Los helipuertos de alternativa mar adentro sólo se utilizarán después de un punto de no retorno (PNR). Antes de un PNR, se utilizarán los helipuertos de alternativa en tierra;
+
+(ii) Se considerará la fiabilidad mecánica de los sistemas críticos de mando y de los componentes críticos para determinar la conveniencia de los helipuertos de alternativa;
+
+(iii) Se dispondrá de la capacidad de performance con un motor inoperativo antes de llegar al helipuerto de alternativa;
+
+(iv) En la medida posible, la disponibilidad de la plataforma estará garantizada; y
+
+(v) la información meteorológica debe ser fiable y precisa.
+
+135.229 CONDICIONES METEOROLÓGICAS.
+
+(a) No se iniciará ningún vuelo que haya de efectuarse de acuerdo con las VFR, a no ser que los últimos informes meteorológicos, o una combinación de los mismos y de los pronósticos, indiquen que las condiciones meteorológicas a lo largo de la ruta, o en aquella parte de la ruta por la cual vaya a volarse o en la zona de operaciones prevista de acuerdo con las VFR, serán tales en el momento oportuno, que permitan dar cumplimiento a dichas reglas.
+
+(b) No se iniciará ningún vuelo que haya de efectuarse de acuerdo con las IFR a menos que la información disponible indique que las condiciones en el helipuerto o lugar del aterrizaje de destino previsto o al menos en un helipuerto de alternativa, cuando éste se requiere, serán, a la hora prevista de llegada, iguales o superiores a los mínimos de utilización del helipuerto.
+
+135.231
+
+(i) Cuando no se requiere un helipuerto de alternativa, en términos de 135.227 (b)(1)(i), volar hasta el helipuerto o lugar de aterrizaje al cual se proyecta el vuelo y ejecutar una aproximación al mismo y después:
+
+(A) disponer de combustible de reserva final para volar durante 30 minutos a la velocidad de espera a 450 m (1 500 ft) por encima del helipuerto o lugar de aterrizaje de destino en condiciones normales de temperatura, efectuar la aproximación y aterrizar; y
+
+(B) disponer de una cantidad adicional de combustible para compensar el aumento de consumo que se produciría si surgiese alguna de las contingencias especificadas por el operador, a satisfacción del Estado del explotador o de la DGAC.
+
+(ii) Cuando se requiera un helipuerto o lugar de aterrizaje de alternativa, volar hasta el helipuerto o lugar de aterrizaje al cual se proyecta el vuelo, efectuar una aproximación y una aproximación frustrada, y después:
+
+(B) disponer de combustible de reserva final para volar durante 30 minutos a la velocidad de espera a 450 m (1.500 pies) por encima del helipuerto/aeródromo de destino en condiciones normales de temperatura, efectuar la aproximación y aterrizar; y
+
+(C) disponer de una cantidad adicional de combustible para compensar el aumento de consumo que se produciría si surgiese alguna contingencia.
+
+(c) Al calcular el combustible y el aceite requeridos por (a) se tendrá en cuenta, por lo menos, lo siguiente:
+
+(1) Las condiciones meteorológicas pronosticadas;
+
+135.233 REABASTECIMIENTO DE COMBUSTIBLE Y OXÍGENO
+
+(a) No se reabastecerá de combustible u oxígeno a ningún helicóptero cuando los pasajeros estén embarcando, a bordo o desembarcando con o sin motores/rotores funcionando.
+
+(b) Como norma general, el carguío de combustible deberá ceñirse a las siguientes normas de seguridad básicas:
+
+(1) El reabastecimiento de combustible deberá efectuarse al aire libre. (2) Durante el proceso de reabastecimiento deberán considerarse los siguientes aspectos: (A) Previo al inicio del reabastecimiento, se establecerá una zona de seguridad de 15 metros, medidos desde el centro de la boca de llenado. Al interior de la zona demarcada, sólo podrá acceder el personal involucrado en la operación de reabastecimiento y la tripulación de vuelo.
+
+(B) Tanto el helicóptero como el dispositivo abastecedor deben estar conectados a tierra entre sí.
+
+(C) Durante el proceso de reabastecimiento o carguío, todo dispositivo electrónico dentro del radio de seguridad de 15 metros deberá mantenerse apagado, incluyendo, pero no limitado a teléfonos celulares.
+
+(D) Durante el procedimiento de carguío de combustible, tanto en un lugar cercano a la boca de carguío como del estanque proveedor y al alcance del personal que ejecuta la maniobra, deberá considerarse un extintor apropiado al tipo de fuego posible.
+
+(E) Queda estrictamente prohibido: fumar, encender fósforos, encendedores o cualquier otra fuente que pudiera generar chispas o llamas abiertas mientras se realiza el carguío de combustible.
+
+135.235 (c) Uso de oxígeno.
+
+(1) Todos los miembros de la tripulación ocupados en servicios esenciales para la operación del helicóptero en vuelo utilizarán continuamente el oxígeno respirable siempre que prevalezcan las circunstancias por las cuales se exige el suministro.
+
+(2) En un helicóptero no presurizado, la tripulación de vuelo en su puesto de servicio deberá hacer permanentemente uso de oxígeno a partir de los 10.000 pies MSL de día y 8.000 pies MSL, de noche.
+
+135.237 (a) No se continuará ningún vuelo hacia el aeródromo/helipuerto de aterrizaje previsto, a menos que la última información disponible indique que, a la hora prevista de llegada, puede efectuarse un aterrizaje en ese aeródromo/helipuerto, o por lo menos en un aeródromo/helipuerto de alternativa de destino, en cumplimiento de los mínimos de utilización establecidos para tal aeródromo/helipuerto según 135.217 (a).
+
+135.237 (b) El operador se asegurará de que los pasajeros conozcan bien la ubicación y el uso de:
+
+(5) otro equipo de emergencia suministrado para uso individual, inclusive tarjetas de instrucciones de emergencia para los pasajeros.
+
+(6) el equipo principal de emergencia que se lleve a bordo para uso colectivo incluido el ELT.
+
+135.245 (a)
+
+El operador deberá suministrar, para uso y guía del personal de su empresa, un Manual de Operaciones del operador conforme a la estructura que se indica en Apéndice N° 1. El Manual de Operaciones, incluyendo todo texto obligatorio que la DGAC pueda exigir, se deberá modificar o revisar, siempre que sea necesario, a fin de garantizar que esté al día la información en él contenida. Todas estas modificaciones o revisiones se notificarán al personal que deba usar dicho manual. El Operador deberá suministrar un ejemplar de este manual y sus enmiendas a la DGAC para revisión y aprobación.
+
+(b) Del helicóptero (helicópteros PMD igual o mayor a 3.175 Kg PMD).
+
+135.247
+
+(a) El operador llevará registros del carguío y consumo de combustible para permitir que la DGAC se cerciore de que, en cada vuelo, se cumple lo prescrito en 135.231.
+
+(b) El operador llevará registros del consumo de aceite para permitir que la DGAC se cerciore de que las tendencias de dicho consumo son tales que el helicóptero cuenta con aceite suficiente para completar cada vuelo.
+
+(c) El operador conservará los registros de carguío y consumo de combustible y aceite durante un período de tres meses.
+
+135.251 OPERACIÓN EN SITIOS NO HABILITADOS COMO AERÓDROMOS.
+
+(a) El despegue y aterrizaje de todo helicóptero se hará en los aeródromos/helipuertos. Salvo los autorizados por la DGAC y de acuerdo a lo establecido en esta norma, podrán hacerlo en cualquier otro sitio.
+
+(b) Toda operación en un sitio no habilitado como aeródromo, se efectuará bajo las reglas VFR diurno.
+
+(c) Para operar hacia o desde, en o entre sitios no habilitados como aeródromos, el operador o piloto al mando, además de lo señalado en (e), (f) y (g), deberá en forma previa:
+
+(1) Solicitar la correspondiente autorización a la DGAC conforme se señala en la DAN 14 07.
+
+(2) Estará en conocimiento y dará cumplimiento a los requisitos establecidos en la normativa de Sitios no habilitados como Aeródromos.
+
+(3) Evaluar las características físicas del terreno y su entorno.
+
+(4) Haber efectuado una evaluación respecto a la cual se establezca que los helicópteros a utilizar cumplen con los requisitos de performance para operar en el sitio no habilitado como aeródromo/helipuerto.
+
+(d) Recibida la habilitación indicada en (c)(2), el operador o piloto al mando asume la responsabilidad respecto del cuidado y mantenimiento del sitio.
+
+(e) Junto a la solicitud de autorización señalada en (c) (1) anterior, deberá presentar para aceptación de la DGAC los siguientes documentos:
+
+(1) Un anexo al Manual de Operaciones denominado "Procedimiento de operación en sitios no definidos como aeródromos".
+
+Este Anexo deberá considerar las instrucciones para el personal, tanto de vuelo como de tierra, relativas a los procedimientos de operación y medidas de seguridad a adoptar al operar en este tipo de terreno de manera que las operaciones se desarrollen con seguridad.
+
+(2) Un procedimiento en el Manual de Control de Mantenimiento (MCM) donde establezca cómo realizará las actividades de mantenimiento en el sitio no definido como aeródromo/helipuerto.
+
+(f) El operador deberá disponer como mínimo del siguiente personal y equipo auxiliar:
+
+(1) Una persona en tierra con las competencias correspondientes que pueda colaborar con el piloto, advertirlo de cualquiera anormalidad y pueda manejar un extintor de incendios, un equipo de comunicación portátil para contacto con la aeronave, equipamiento de emergencia y de primeros auxilios;
+
+(2) Un cataviento del tipo manga;
+
+(3) Un extintor de incendios de CO2 con capacidad de a lo menos 10 kg para satisfacer las necesidades del tipo de aeronave que lo utilice; y
+
+(4) Equipamiento de emergencia y de primeros auxilios.
+
+(g) Los lugares de reposo que se establezcan, deben poseer la luminosidad mínima requerida y no deben estar expuestos a niveles de ruido que excedan lo establecido en la reglamentación vigente.
+
+## Capítulo D
+
+LIMITACIONES DE UTILIZACIÓN DE LA PERFORMANCE DE HELICÓPTEROS
+
+135.301
+
+No se iniciará ningún vuelo a menos que la información de performance contenida en el manual de vuelo indique que pueden cumplirse las normas de (a)(2) y (d) para el vuelo que se vaya a emprender.
+
+(a) (1) En conformidad con un código de performance, de acuerdo a lo señalado en este capítulo y orientaciones del Apéndice 11.
+
+(a) (2) El helicóptero se utilizará de acuerdo con los términos de su certificado de aeronavegabilidad y dentro de las limitaciones de utilización y cartas de performance establecidas en su manual de vuelo o prescritas por la DGAC teniendo presente que al aplicar las normas de este capítulo, se tendrán en cuenta todos los factores que afecten de modo importante a la performance del helicóptero (como por ejemplo: masa, procedimientos operacionales, la altitud de presión apropiada a la elevación del helipuerto/aeródromo, temperatura, viento, y condiciones de la pista, es decir, presencia de fango, agua, hielo o una combinación de estos elementos. Tales factores se tomarán en cuenta directamente como parámetros de utilización o indirectamente mediante tolerancias o márgenes que pueden indicarse en los datos de performance.
+
+(d) (1) El peso del helicóptero al comenzar el despegue no excederá de aquel establecido en el Apéndice 11, teniendo en cuenta las reducciones de peso previstas conforme progresa el vuelo y la cantidad de combustible eliminada mediante vaciado rápido que sea apropiada.
+
+(d) (2) En ningún caso, la masa al comenzar el despegue excederá de la masa máxima de despegue especificada en el manual de vuelo del helicóptero, teniendo en cuenta los factores especificados en (a)(2).
+
+(d) (3) En ningún caso, el peso calculado para la hora prevista de aterrizaje en el aeródromo en que se pretende aterrizar y en cualquier otro de alternativa o punto de posada, excederá del peso máximo de aterrizaje especificado en el Manual de Vuelo del helicóptero teniendo en cuenta lo indicado en (a)(2) anterior.
+
+(d) (4) En ningún caso, el peso al comenzar el despegue o a la hora prevista de aterrizaje en el aeródromo en que se pretende aterrizar y en cualquier otro de alternativa de destino o punto de posada, deberá exceder los pesos máximos pertinentes para las que se haya demostrado el cumplimiento de las normas aplicables de homologación en cuanto al ruido, cuando corresponda.
+
+(e) En condiciones en que no se garantiza la continuación segura del vuelo por falla del motor crítico, las operaciones de helicópteros se realizarán en condiciones meteorológicas y de luz y en las rutas y desviaciones que permitan ejecutar un aterrizaje forzoso seguro.
+
+135.303 CLASES DE PERFORMANCE Y ENTORNOS DE OPERACIÓN
+
+135.303 (b) (1) (i) Operaciones en Clase de performance 1.
+
+135.303 (b) (1) (ii) Operaciones en Clase de performance 2.
+
+135.303 (b) (1) (iii) Operaciones en Clase de performance 3.
+
+135.311 REQUISITOS ADICIONALES PARA LAS OPERACIONES DE HELICÓPTEROS EN CLASE DE PERFORMANCE 3 EN IMC, SALVO VUELOS VFR ESPECIALES.
+
+Las operaciones reguladas por esta sección se complementan con las disposiciones del Apéndice 12.
+
+(a) Las operaciones en Clase de performance 3 en IMC se realizarán únicamente sobre una superficie autorizada por la DGAC sobre el cual se realizan las operaciones.
+
+(b) Para aprobar las operaciones de helicópteros utilizados en Clase de performance 3 en IMC, el operador se asegurará de que el helicóptero está aprobado para volar de conformidad con las IFR y de que el nivel general de seguridad operacional lo proporcionan:
+
+(1) la fiabilidad del motor;
+
+(2) los procedimientos de mantenimiento, los métodos operacionales y los programas de formación para la tripulación del explotador; y
+
+(3) el equipo y otros requisitos proporcionados de conformidad con el Apéndice 12.
+
+(c) Los explotadores de helicópteros que operan en Clase de performance 3 en IMC tendrán un programa para la supervisión de tendencias del motor y utilizarán los instrumentos, sistemas y procedimientos operacionales/de mantenimiento recomendados por los fabricantes del motor y del helicóptero para supervisar los motores.
+
+CAPÍTULO E
+
+INSTRUMENTOS, EQUIPOS, LUCES Y EQUIPAMIENTO
+
+135.401
+
+(a) Además del equipo mínimo necesario para el otorgamiento del certificado de aeronavegabilidad, en los helicópteros se instalarán o llevarán, según sea apropiado, los instrumentos, equipo y luces que se prescriben en los párrafos siguientes, con las circunstancias en que haya de realizarse el vuelo. La DGAC aprobará o aceptará los instrumentos o equipo prescritos, incluida su instalación.
+
+(b) Un helicóptero irá equipado con instrumentos para que la tripulación de vuelo pueda verificar la trayectoria de vuelo del helicóptero, llevar a cabo cualesquier maniobras reglamentarias requeridas y observar las limitaciones de utilización del helicóptero en las condiciones de utilización previstas.
+
+(c) El piloto al mando, no despegará un helicóptero con instrumentos, sistemas, luces u otros ítems de equipamiento inoperativos. Para los fines de aplicación de esta sección, se deben considerar también como inoperativos aquellos ítems de equipamiento que teniendo una ubicación en el helicóptero se encuentren desinstalados.
+
+(d) Cuando se establezca una lista maestra de equipo mínimo (MMEL) para un tipo de helicóptero, el operador podrá desarrollar conforme se indica en 92.411 siguiente, una lista de equipo mínimo (MEL) la que será aprobada por la DGAC. En el caso de que la aeronave posea una matrícula extranjera, el MEL deberá ser aprobado por la autoridad aeronáutica del país de matrícula, considerando los requisitos nacionales.
+
+(e) Cuando no se establezca una lista maestra de equipo mínimo (MMEL), pero sí una lista KOEL (ver 92.409), el piloto al mando podrá basado en esta lista, determinar si cabe iniciar el vuelo, o continuarlo a partir de cualquier parte intermedia, en caso de que algún instrumento, equipo o sistema dejen de funcionar.
+
+135.403
+
+(a) Helicópteros que operen conforme a las VFR durante el día.
+
+(1) Una Brújula magnética.
+
+(2) Un baroaltímetro de precisión;
+
+(3) Un indicador de velocidad aerodinámica; y
+
+(4) Un indicador de la cantidad de combustible por cada estanque.
+
+(5) Un indicador de la posición del tren de aterrizaje si éste es retráctil.
+
+(b) Helicópteros que realicen vuelos VFR durante la noche.
+
+Además de los instrumentos básicos especificados para volar bajo las VFR durante el día deben contar con:
+
+(1) Un indicador de desplazamiento lateral; y
+
+(2) Luces indicadas en 135.407 (a);
+
+(c) Para todos los helicópteros que vuelen conforme a las IFR.
+
+(3) Un indicador de actitud de vuelo (horizontal artificial) y uno adicional (stand by).
+
+(5) Un baroaltímetro de precisión.
+
+135.405
+
+La instalación del equipo será tal que, si falla cualquier unidad que se requiera para fines de comunicaciones, de navegación o de vigilancia, o para cualquier combinación de esos fines, no se generará una falla en otra de las unidades necesarias para dichos fines.
+
+(a) (2) Los helicópteros que operen de conformidad con las IFR, estarán provistos de una fuente de energía auxiliar, independiente del sistema principal generador de electricidad, con el fin de hacer funcionar e iluminar, durante un período mínimo de 30 minutos, un instrumento indicador de actitud de vuelo (horizonte artificial), claramente visible para el piloto al mando. La fuente de energía auxiliar entrará en funcionamiento en forma automática en caso de falla total del sistema principal generador de electricidad y en el tablero de instrumentos deberá haber una indicación clara de que el indicador de actitud de vuelo funciona con la energía auxiliar.
+
+(b) Equipos de comunicaciones
+
+(1) El helicóptero irá provisto de equipo de radio que permita:
+
+(i) la comunicación en ambos sentidos para fines de control de helipuerto;
+
+(ii) recibir información meteorológica en cualquier momento durante el vuelo; y
+
+(iii) la comunicación, en ambos sentidos, en cualquier momento durante el vuelo con una estación aeronáutica por lo menos y con aquellas otras estaciones aeronáuticas y en las frecuencias que pueda prescribir la DGAC.
+
+(2) Los equipos de comunicaciones, deben ser aptos para comunicarse en la frecuencia aeronáutica de emergencia 121.5.
+
+(3) Para operaciones en las que se requiere que el equipo de comunicaciones cumpla una especificación de comunicación basada en la performance (PBC) para la RCP, el helicóptero, además de los requisitos de (1):
+
+(i) estará dotado de equipo de comunicaciones que le permita funcionar de acuerdo con la especificación o especificaciones RCP prescritas;
+
+(ii) contará con la información relacionada con las capacidades funcionales del helicóptero respecto de la especificación RCP que se enumeran en el manual de vuelo o en otra documentación del helicóptero aprobada por el Estado de diseño o el Estado de matrícula; y
+
+(iii) contará con la información relacionada con las capacidades funcionales del helicóptero respecto de la especificación RCP que se incluyen en la MEL.
+
+(4) Aeronaves que operen bajo las reglas de vuelo VFR. Deberán contar con un sistema de comunicación que permita la comunicación en ambos sentidos en el modo y frecuencia asignado al espacio aéreo en que está operando.
+
+(5) Aeronaves que operen bajo reglas de vuelo IFR o VFR nocturno. Deberán contar con dos sistemas de comunicación que permita la comunicación constante, en ambos sentidos, en el modo y frecuencia asignado al espacio aéreo en que está operando y recibir información meteorológica en cualquier momento durante el vuelo.
+
+(6) El helicóptero deberá contar como mínimo con un micrófono para cada tripulante de vuelo, con dos parlantes independientes o un parlante y un par de fonos con micrófono.
+
+(c) Equipos de navegación
+
+(1) Todos los helicópteros irán provistos del equipo de navegación que les permita proseguir:
+
+(i) conforme al plan de vuelo; y
+
+(ii) de acuerdo a los requisitos del servicio de tránsito aéreo: excepto en caso de que, si no lo excluye la DGAC, la navegación en los vuelos que se atengan a las VFR se efectúe por referencia a puntos característicos del terreno.
+
+(2) En operaciones para las que se ha prescrito una especificación de navegación basada en la performance (PBN), el helicóptero deberá, además de los requisitos de (1) anterior cumplir con lo siguiente:
+
+(i) Estar dotado de equipo de navegación que le permita funcionar de conformidad con las especificaciones para la navegación prescritas; y
+
+(ii) Contará con información relativa a las capacidades de especificación de navegación del helicóptero enumeradas en el manual de vuelo o en otra documentación del helicóptero que haya aprobado el Estado de diseño o el Estado de matrícula; y
+
+(iii) Contará con la información relativa a las capacidades de especificación de navegación del helicóptero que se incluyen en la MEL.
+
+Además, el explotador habrá establecido y documentado:
+
+(3) La DGAC expedirá una aprobación específica para operaciones con base en especificaciones de navegación con autorización requerida (AR) para PBN.
+
+(4) El helicóptero estará provisto de equipos de navegación para verificar que, en caso de falla de un elemento en cualquier fase del vuelo, el equipo restante sea suficiente para permitir que el helicóptero navegue en forma segura y de acuerdo al plan de vuelo original.
+
+(5) Para operaciones IFR.
+
+(6) Los sistemas de navegación requeridos por esta sección, deberán entregar información independiente para cada tripulante de vuelo.
+
+(7) Gestión de datos electrónicos de navegación.
+
+(d) Equipo de vigilancia
+
+(1) Todo helicóptero estará dotado de equipo de vigilancia para que puedan realizar operaciones de acuerdo con los requisitos de los servicios de tránsito aéreo.
+
+(2) Para operaciones en las que se requiere que el equipo de vigilancia cumpla una especificación RSP para la vigilancia basada en la performance (PBS), el operador verificará que el helicóptero, además de los requisitos de (1):
+
+(i) esté dotado de equipo de vigilancia que le permita funcionar de acuerdo con la especificación o especificaciones RSP prescritas;
+
+(ii) cuente con la información relacionada con las capacidades funcionales del helicóptero respecto de la especificación RSP que se enumeran en el manual de vuelo o en otra documentación del helicóptero aprobada por el Estado de diseño o la DGAC; y
+
+(iii) cuente con la información relacionada con las capacidades funcionales del helicóptero respecto de la especificación RSP que se incluyen en la MEL.
+
+Además, el operador se asegurará de haber establecido y documentado.
+
+(iv) procedimientos para situaciones normales y anormales, así como procedimientos de contingencia;
+
+(v) requisitos de cualificaciones y competencias de la tripulación de vuelo, de conformidad con las especificaciones RSP apropiadas;
+
+(vi) un programa de instrucción para el personal pertinente que corresponda a las operaciones previstas; y
+
+(vii) procedimientos apropiados de mantenimiento para garantizar el mantenimiento de la aeronavegabilidad, de conformidad con las especificaciones RSP.
+
+(e) Otros equipos
+
+(1) REGISTRO DE VUELO
+
+Registradores de datos de vuelo (FDR), Sistemas registradores de datos de aeronave (ADRS), Sistemas registradores de la voz en el puesto de pilotaje (CVR) y sistemas registradores de audio en el puesto de pilotaje (CARS), Registrador de imágenes de a bordo (AIR), Sistema Registrador de imágenes de a bordo (AIRS).
+
+(i) Generalidades.
+
+(A) Instalación
+
+(-1) Los registradores de vuelo se construirán, emplazarán e instalarán de manera que proporcionen la máxima protección posible de los registros, a fin de que éstos puedan preservarse, recuperarse y transcribirse. Los registradores de vuelo satisfarán las especificaciones prescritas de resistencia al impacto y protección contra incendios.
+
+(-2) Los sistemas registradores de vuelo se instalarán de manera que:
+
+(*) sea mínima la probabilidad de daño a los registros;
+
+(**) exista un dispositivo auditivo o visual para comprobar antes del vuelo que los sistemas registradores de vuelo están funcionando bien; y
+
+(***) si los sistemas registradores de vuelo cuentan con un dispositivo de borrado instantáneo, la instalación procurará evitar que el dispositivo funcione durante el vuelo o durante un choque.
+
+(B) Los registradores de vuelo no se desconectarán durante el tiempo de vuelo.
+
+(C) Para conservar los registros contenidos en los registradores de vuelo, éstos se desconectarán una vez completado el tiempo de vuelo después de un accidente o incidente. Los registradores de vuelo no volverán a conectarse antes de determinar lo que ha de hacerse con ellos de conformidad con el DAR 13.
+
+(D) Se realizarán verificaciones operacionales y evaluaciones de las grabaciones de los sistemas registradores de vuelo para asegurar el buen funcionamiento constante de los registradores conforme se detalla en el Capítulo L de esta norma.
+
+(E) Los recipientes que contengan los registradores de vuelo no desprendibles protegidos contra accidentes:
+
+(-1) llevarán materiales reflectantes para facilitar su localización; y
+
+(-2) llevarán perfectamente sujetado a ellos un dispositivo automático de localización subacuática que funcione a una frecuencia de 37,5 kHz. Lo antes posible, pero a más tardar el 1 de enero de 2018, este dispositivo funcionará durante un mínimo de 90 días.
+
+(F) Los recipientes que contengan los registradores de vuelo de desprendimiento automático deberán:
+
+(-1) estar pintados de un color anaranjado distintivo, sin embargo, la superficie visible por fuera de la aeronave podrá ser de otro color;
+
+(-2) llevar materiales reflectantes para facilitar su localización; y
+
+(-3) llevar un ELT integrado de activación automática.
+
+(G) Los registradores de vuelo protegidos contra accidentes se instalarán de manera que reciban energía eléctrica de una barra colectora que ofrezca la máxima confiabilidad para el funcionamiento de los sistemas registradores de vuelo sin comprometer el servicio a las cargas esenciales o de emergencia.
+
+(H) En caso de que el helicóptero se halle implicado en un accidente o incidente, el operador se asegurará de la conservación de todas las grabaciones que vengan al caso contenidas en los registradores de vuelo y, si fuese necesario, de los correspondientes registradores de vuelo, así como de su custodia, mientras se determina lo que ha de hacerse con ellos de conformidad con el DAR 13.
+
+(I) Los registradores de vuelo livianos se conectarán a una fuente de alimentación que tenga características que garanticen el registro apropiado y fiable en el entorno operacional.
+
+(ii) Registradores de datos de vuelo (FDR) y sistemas registradores de datos de aeronave (ADRS)
+
+(A) Aplicación.
+
+(-1) Todos los helicópteros de masa máxima certificada de despegue superior a 3.175 kg cuya solicitud de certificación de tipo se presente a un Estado contratante el 1 de enero de 2023 o después de esa fecha, estarán equipados con un FDR capaz de registrar por lo menos los primeros 53 parámetros enumerados en la Tabla 1 del Apéndice 3.
+
+(-2) Todos los helicópteros que tengan una masa máxima certificada de despegue superior a 3.175 kg cuyo certificado de aeronavegabilidad individual se haya expedido por primera vez el 1 de enero de 2016 o después de esa fecha, estarán equipados con un FDR que registrará por lo menos los primeros 48 parámetros enumerados en la Tabla 1 del Apéndice 3.
+
+(-3) Los helicópteros que tengan una masa máxima certificada de despegue superior a 7.000 kg, o que tengan una configuración de asientos para más de 19 pasajeros, cuyo certificado de aeronavegabilidad se haya expedido por primera vez el 1 de enero de 1989 o después de esa fecha, estarán equipados con un FDR que registrará por lo menos los primeros 30 parámetros enumerados en la Tabla 1 del Apéndice 3.
+
+(-4) Todos los helicópteros con motores de turbina de una masa máxima certificada de despegue de más de 2.250 kg y hasta 3.175 kg inclusive, cuya solicitud de certificación de tipo se haya presentado a un Estado contratante el 1 de enero de 2018 o después de esa fecha, estarán equipados con:
+
+- un FDR que registrará por lo menos los primeros 48 parámetros enumerados en la Tabla 1 del Apéndice 3; o
+
+- un AIR o un AIRS de Clase C que registrará por lo menos los parámetros de trayectoria de vuelo y velocidad mostrados al (a los) piloto(s), como se define en el Apéndice 3, Tabla 2; o
+
+- un ADRS que registrará los primeros 7 parámetros enumerados en la Tabla 2 del Apéndice 3.
+
+(B) Registros.
+
+(-1) Los FDR y ADRS no utilizarán bandas metálicas, frecuencia modulada (FM), películas fotográficas o cintas magnéticas.
+
+(-2) Los FDR o los ADRS comenzarán a registrar antes de que el helicóptero empiece a desplazarse por su propia potencia y continuarán registrando hasta la finalización del vuelo, cuando el helicóptero ya no pueda desplazarse por su propia potencia.
+
+(-3) Los parámetros que satisfacen los requisitos para los FDR se enumeran en la tabla 1. Los siete primeros parámetros señalados en la tabla 2 satisfacen los ADRS. El número de parámetros que se registrarán dependerá de la complejidad del helicóptero. Los parámetros que no llevan asterisco (*) son obligatorios y deberán registrarse cualquiera que sea la complejidad del helicóptero. Además, los parámetros indicados con asterisco (*) se registrarán si los sistemas del helicóptero o la tripulación de vuelo emplean una fuente de datos de información sobre el parámetro para la operación del helicóptero. No obstante, pueden sustituirse por otros parámetros teniendo debidamente en cuenta el tipo de helicóptero y las características del equipo de registro.
+
+(-4) Si se dispone de más capacidad de registro FDR, se considerará la posibilidad de registrar la siguiente información adicional:
+
+(*) Otra información operacional obtenida de presentaciones electrónicas, tales como sistemas electrónicos de instrumentos de vuelo (EFIS), monitor electrónico centralizado de aeronave (ECAM) y sistema de alerta a la tripulación y sobre los parámetros del motor (EICAS); y
+
+(**) otros parámetros del motor (EPR, Ni, flujo de combustible, etc.). Para el caso de los ADRS se considerará el registro de los 8 parámetros en adelante que figuran en la tabla 2.
+
+(-5) El operador conservará la documentación relativa a la asignación de parámetros, ecuaciones de conversión, calibración periódica y otras informaciones sobre el funcionamiento/mantenimiento. La documentación será suficiente para asegurar que las autoridades encargadas de la investigación de accidentes dispongan de la información necesaria para efectuar la lectura de los datos en unidades de medición técnicas.
+
+(-6) Los siguientes parámetros satisfarán los requisitos para trayectoria de vuelo y velocidad:
+
+– Altitud de presión
+
+– Velocidad aerodinámica indicada
+
+– Temperatura exterior del aire
+
+– Rumbo
+
+– Aceleración normal
+
+– Aceleración lateral
+
+– Aceleración longitudinal (eje de la aeronave)
+
+– Hora o cronometraje relativo
+
+– Datos de navegación*: ángulo de deriva, velocidad del viento, dirección del viento, latitud/longitud
+
+– Radioaltitud*
+
+(C) Duración.
+
+Todos los registradores de vuelo a los cuales les aplique la Tabla 1 o 2 del Apéndice 3, conservarán la información registrada durante por lo menos las últimas 10 horas de su funcionamiento.
+
+(iii) Registradores de la voz en el puesto de pilotaje (CVR) y sistemas registradores de audio en el puesto de pilotaje (CARS).
+
+(A) Aplicación
+
+Los helicópteros que tengan una masa máxima certificada de despegue superior a 7.000 kg estarán equipados con un CVR. Los helicópteros que no estén equipados con un FDR, registrarán por lo menos la velocidad del rotor principal en el CVR.
+
+(B) Registro.
+
+(-1) Los CVR y los CAR no utilizarán cinta magnética ni serán alámbricos.
+
+(-2) El CVR o CARS comenzará a registrar antes de que el helicóptero empiece a desplazarse por su propia potencia y continuará registrando hasta la finalización del vuelo, cuando el helicóptero ya no pueda desplazarse por su propia potencia. Además, dependiendo de la disponibilidad de energía eléctrica, el CVR o CARS comenzará a registrar lo antes posible durante la verificación del puesto de pilotaje previa al arranque del motor, al inicio del vuelo, hasta la verificación del puesto de pilotaje que se realiza al finalizar el vuelo, inmediatamente después de que se apaga el motor.
+
+(-3) El CVR registrará simultáneamente, en cuatro o más canales separados, por lo menos, lo siguiente:
+
+(*) Comunicaciones orales transmitidas o recibidas en la aeronave por radio;
+
+(**) Ambiente sonoro del puesto de pilotaje;
+
+(***) Comunicaciones orales de los miembros de la tripulación de vuelo en el puesto de pilotajes transmitidos por el intercomunicador, cuando esté instalado dicho sistema;
+
+(*iv) Señales orales o auditivas que identifiquen las ayudas para la navegación o la aproximación, recibidas por un auricular o altavoz; y
+
+(*v) Comunicaciones orales de los tripulantes por medio del sistema de altavoces destinado a los pasajeros, cuando exista tal sistema.
+
+(-4) El CARS registrará simultáneamente, en dos o más canales separados, por lo menos lo siguiente:
+
+(*) Comunicaciones orales transmitidas o recibidas en el helicóptero por radio;
+
+(**) Ambiente sonoro del puesto de pilotaje; y
+
+(***) Comunicaciones orales de los miembros de la tripulación de vuelo en el puesto de pilotaje transmitido por el intercomunicador del helicóptero, cuando esté instalado dicho sistema.
+
+(-5) los helicópteros cuyo certificado de aeronavegabilidad individual se haya expedido por primera vez el 1 de enero de 2023, o después de esa fecha, dispondrán en el puesto de pilotaje de una función de borrado accionada por la tripulación de vuelo que, al ser activada, modifique el registro de un CVR y un AIR, de manera que no pueda recuperarse la información utilizando técnicas normales para reproducirla o copiarla. La instalación se diseñará de manera que no pueda activarse durante el vuelo. Asimismo, tiene que reducirse al mínimo la probabilidad de que la función de borrado se active inadvertidamente durante un accidente.
+
+(C) Duración.
+
+Todos los helicópteros que deban estar equipados con un CVR llevarán un CVR que conservará la información registrada durante al menos las últimas 2 horas de su funcionamiento.
+
+(iv) Registradores de enlace de datos (DLR)
+
+Cuando la trayectoria de vuelo del helicóptero haya sido autorizada o controlada mediante el uso de mensajes de enlace de datos, se registrarán en el helicóptero todos los mensajes de enlace de datos, tanto ascendentes (enviados al helicóptero) como descendentes (enviados desde el helicóptero). En la medida en que sea posible, se registrará la hora en la que se mostraron los mensajes en pantalla a los miembros de la tripulación de vuelo, así como la hora de las respuestas.
+
+(A) Aplicación.
+
+(-1) Todos los helicópteros cuyo certificado de aeronavegabilidad individual se haya expedido por primera vez el 1 de enero de 2016 o a partir esa fecha, que usen cualquiera de las aplicaciones para comunicaciones por enlace de datos enumeradas en la Tabla 3 del Apéndice 3 que deban llevar un CVR, grabarán los mensajes de las comunicaciones por enlace de datos en un registrador de vuelo protegido contra accidentes.
+
+(-2) Todos los helicópteros cuyo certificado de aeronavegabilidad individual se haya expedido por primera vez antes del 1 de enero de 2016 que estén obligados a llevar un CVR y que hayan sido modificados el 1 de enero de 2016, o a partir de esa fecha, para usar cualquiera de las aplicaciones de comunicaciones por enlace de datos que se mencionan en (-2) anterior, grabarán los mensajes de las comunicaciones por enlace de datos en un registrador de vuelo protegido contra accidentes a menos que el equipo de comunicaciones por enlace de datos instalado sea compatible con un certificado de tipo o modificación de aeronave que se haya aprobado por primera vez el 1 de enero de 2016.
+
+(B) Registros.
+
+Los registros por enlace de datos podrán correlacionarse con los registros de audio del puesto de pilotaje.
+
+(C) Duración.
+
+La duración mínima del registro será equivalente a la duración del CVR.
+
+(v) Registrador de imágenes de a bordo (AIR) y sistema registrador de imágenes de a bordo (AIRS).
+
+(A) Aplicación.
+
+Refiérase a (ii)(A) anterior.
+
+(B) Registros.
+
+(-1) El AIR o AIRS comenzará a registrar antes de que el helicóptero empiece a desplazarse por su propia potencia y continuará registrando hasta la finalización del vuelo, cuando el helicóptero ya no pueda desplazarse por su propia potencia. Además, dependiendo de la disponibilidad de energía eléctrica, el AIR o AIRS comenzará a registrar lo antes posible durante la verificación del puesto de pilotaje previa al arranque del motor, al inicio del vuelo, hasta la verificación del puesto de pilotaje que se realiza al finalizar el vuelo, inmediatamente después de que se apaga el motor.
+
+(-2) Clases.
+
+(*) Un AIR o AIRS de Clase A capta el área general del puesto de pilotaje para suministrar datos complementarios a los de los registradores de vuelo convencionales.
+
+(**) Un AIR o AIRS de Clase B capta las imágenes de los mensajes de enlace de datos.
+
+(***) Un AIR o AIRS de Clase C capta imágenes de los tableros de mandos e instrumentos.
+
+(-3) Los AIR o AIRS no utilizarán bandas metálicas, frecuencia modulada (FM), películas fotográficas o cintas magnéticas.
+
+(4-) los helicópteros cuyo certificado de aeronavegabilidad individual se haya expedido por primera vez el 1 de enero de 2023, o después de esa fecha, dispondrán en el puesto de pilotaje de una función de borrado accionada por la tripulación de vuelo que, al ser activada, modifique el registro de un CVR y un AIR, de manera que no pueda recuperarse la información utilizando técnicas normales para reproducirla o copiarla. La instalación se diseñará de manera que no pueda activarse durante el vuelo. Asimismo, tiene que reducirse al mínimo la probabilidad de que la función de borrado se active inadvertidamente durante un accidente.
+
+(2) TRANSMISOR LOCALIZADOR DE EMERGENCIA (ELT).
+
+(i) Toda aeronave deberá estar equipada con un Transmisor localizador de emergencia ELT del tipo automático que cumpla con TSO C-126 que sea capaz de transmitir en 121.5 y 406 MHz simultáneamente, que tenga su switch inercial en condición operativa y cuya batería cumpla con lo siguiente:
+
+(A) Sean reemplazadas o recargadas.
+
+(-) Cuando el transmisor haya acumulado más de una (1) hora de operación.
+
+(-) Cuando cumpla el 50% de su vida útil o si la batería es recargable cuando se cumpla el 50% de su vida útil de carga de acuerdo con lo establecido por el fabricante del transmisor. Este requisito no aplica a aquellas baterías que no son afectadas por periodos de almacenamiento. Por ejemplo, baterías activadas por agua.
+
+(-) La nueva fecha de vencimiento para reemplazo o recarga debe marcarse en forma legible en el exterior del transmisor y ser anotada en los registros de mantenimiento.
+
+(B) Independiente del tipo de batería recargable o no que se emplee, estas deberán permanecer cargadas de forma que el dispositivo permanezca siempre en condición operativa.
+
+(ii) Codificación de los ELT.
+
+(A) Los ELT deberán utilizar la codificación asignada por el Departamento de Seguridad Operacional de la DGAC, la que será válida mientras el helicóptero mantenga su matrícula y se encuentre registrada en Chile.
+
+(B) La codificación a emplear corresponderá a una palabra hexadecimal de 15 caracteres, código que será reconocido por el sistema mundial de rastreo y localización satelital (COSPAS-SARSAT) y deberá ser solicitada a la DGAC utilizando el formulario "FORM. DGAC OPS 1" incluido en Apéndice 4.
+
+(C) La comunicación formal de la asignación del código deberá ser considerada como un documento técnico/operacional, debiendo ser incorporada en los registros de mantenimiento del helicóptero y registrando el código asignado en la bitácora o libro de vuelo de la aeronave afectada.
+
+(D) El operador será responsable de la pronta codificación del ELT de acuerdo con la información pertinente suministrada por la DGAC.
+
+(E) El operador deberá informar a la brevedad de cualquier cambio o variación de la información suministrada al solicitar la codificación, con tal de mantener actualizada la información que requieren los Servicios de Búsqueda y Salvamento.
+
+(3) TRANSPONDEDOR DE NOTIFICACIÓN DE ALTITUD DE PRESIÓN Y CODIFICACIÓN.
+
+(i) Todo helicóptero estará equipado con un transpondedor de notificación de altitud de presión que opere de acuerdo con los requisitos de los servicios de tránsito aéreo. (ii) La codificación del transpondedor se efectuará conforme al procedimiento que se establece en Apéndice 5 de esta norma.
+
+(iii) Si el helicóptero está equipado con un transpondedor Modo S deberá contar con un dispositivo automático para detectar dicho estado
+
+(4) SISTEMA DE PROTECCIÓN CONTRA HIELO
+
+Todo helicóptero que opere en condiciones o con pronóstico de formación de hielo deberá contar con un sistema de deshielo o antihielo operativo en cada rotor, parabrisas, motor, superficie de estabilización o control y en toda toma del sistema estático pitot.
+
+(5) HELICÓPTEROS EQUIPADOS CON VISUALIZADORES DE "CABEZA ALTA" (HUD) O SISTEMAS DE VISIÓN MEJORADA (EVS).
+
+Para los helicópteros equipados con HUD o visualizadores equivalentes, EVS o CVS, o cualquier combinación de esos sistemas en un sistema híbrido, la DGAC establecerá los criterios para el uso de tales sistemas para la operación segura de los helicópteros.
+
+135.407 (a) (1) Dos faros de aterrizaje.
+
+(i) A lo menos uno orientable en el plano vertical; o
+
+(ii) Si el helicóptero cuenta con un sistema de luces doble, cada una debe estar instalada en distinto ángulo vertical de tal forma, que su uso permita aumentar el campo de visión del piloto.
+
+135.407 (b) (1) (i) Suministros médicos: Todo helicóptero estará equipado con los elementos que se indican en Apéndice 6 de esta DAN.
+
+135.407 (b) (1)(iv) Un cinturón para cada asiento y cinturones de sujeción para cada litera; (v) Arneses de seguridad para cada asiento de los miembros de la tripulación de vuelo y asiento de tripulante auxiliar. El arnés de seguridad de cada asiento de piloto deberá incluir un dispositivo que sujete el torso del ocupante en caso de desaceleración rápida. Cuando el helicóptero esté equipado con doble mando, el arnés de seguridad de cada asiento de piloto debería incluir un dispositivo sujetador destinado a impedir que la parte superior del cuerpo de un ocupante súbitamente incapacitado dificulte el acceso a los mandos de vuelo.
+
+135.407 (b) (1) (vi) Si se emplean fusibles, fusibles eléctricos de repuesto de los amperajes apropiados, para remplazar a los que sean accesibles en vuelo.
+
+135.407 (b) (1) (viii) Para las operaciones en el mar, todos los ocupantes deberían usar un traje de supervivencia cuando la temperatura del mar sea inferior a 10°C o cuando el tiempo de rescate estimado exceda del tiempo de supervivencia calculado.
+
+135.407 (b) (2) (i) Medios de flotación.
+
+135.407 (b) (2) (ii) Equipo de emergencia.
+
+(A) Los helicópteros que operen en Clase de performance 1 o 2 y cuando operen de acuerdo con las disposiciones de 135.407 (b)(2)(i) anterior, llevarán el siguiente equipo:
+
+(*) Para cada persona que vaya a bordo, un chaleco salvavidas que cumpla con el TSO C13. El chaleco salvavidas se usará constantemente para las operaciones sobre agua, a menos que el ocupante lleve puesto un traje de supervivencia integral que incluya la función de chaleco salvavidas;
+
+(**) Balsas salvavidas, estibadas de forma que faciliten su empleo si fuera necesario, en número suficiente para alojar a todas las personas que se encuentren a bordo, provistas del equipo de salvamento incluso medios para el sustento de la vida que sea apropiado para el vuelo que se vaya a emprender;
+
+(***) Cuando el helicóptero esté equipado con dos balsas salvavidas, cada una de ellas podrá llevar a todos los ocupantes en estado de carga excesiva.
+
+(*iv) Equipo necesario por cada balsa para hacer las señales pirotécnicas de socorro.
+
+(B) Los helicópteros que operen en Clase de performance 3 y más allá de la distancia de autorrotación a partir de tierra, estarán equipados con un chaleco salvavidas, que cumpla con el TSO C13, el que debe ser usado por cada persona que vaya a bordo. El chaleco salvavidas para este tipo de operación puede ser reemplazado por un traje de supervivencia integral que incluya la función de chaleco salvavidas.
+
+(C) Los helicópteros que operen en Clase de performance 3 y más allá de la distancia especificada en (B), estarán equipados como se indica en 135.407 (b)(2)(ii).
+
+135.407 (b) (2) (ii) (iii) En el caso de helicópteros que operen en Clases de performance 2 o 3, cuando despeguen o aterricen en un helipuerto en el que, la trayectoria de despegue o la de aproximación esté dispuesta de manera tal sobre el agua que, en caso de contratiempo, haya probabilidad de un amaraje forzoso, se llevará por lo menos el equipo prescrito en 135.407(b)(2)(ii)(A)(*).
+
+135.407 (b) (2) (ii) (iv) Cada chaleco salvavidas irá provisto de un medio de iluminación eléctrica, a fin de facilitar la localización de las personas.
+
+135.407 (b) (2) (ii) (v) Otros requisitos referidos a las balsas.
+
+(A) En cualquier helicóptero para el cual el certificado individual de aeronavegabilidad se haya expedido por primera vez el 1 de enero de 1991 o después de esa fecha, por lo menos el 50% de las balsas salvavidas llevadas de acuerdo con las disposiciones de 135.407 (b), deberían ser desplegables por control a distancia.
+
+(B) Las balsas que no sean desplegables por control a distancia y de masa superior a 40 kg, deberían estar equipadas con algún medio mecánico de despliegue.
+
+(C) En cualquier helicóptero para el cual el certificado individual de aeronavegabilidad se haya expedido por primera vez antes del 1 de enero de 1991, deberán satisfacerse las disposiciones indicadas como (A) y (B) anteriores.
+
+135.407 (b) (3) TRANSMISOR DE LOCALIZACIÓN DE EMERGENCIA (ELT)
+
+(i) A partir del 1 de julio de 2008, todos los helicópteros que operen en Clases de performance 1 y 2 llevarán por lo menos un ELT automático y, cuando realicen vuelos sobre el agua según se describe en 135.407(b)(2)(i)(A), llevarán por lo menos un ELT automático y un ELT(S) en una balsa o chaleco salvavidas.
+
+(ii) A partir del 1 de julio de 2008, todos los helicópteros que operen en Clase de performance 3 llevarán por lo menos un ELT automático y, cuando realicen vuelos sobre el agua según se describe en 135.407(b)(2)(i)(B), llevarán por lo menos un ELT automático y un ELT(S) en una balsa o chaleco salvavidas.
+
+135.407 (b) (-4) Si se dispone de más capacidad de registro FDR, se considerará la posibilidad de registrar la siguiente información adicional:
+
+135.407 (b) (-6) Los siguientes parámetros satisfarán los requisitos para trayectoria de vuelo y velocidad:
+
+– Altitud de presión
+
+– Velocidad aerodinámica indicada
+
+– Temperatura exterior del aire
+
+– Rumbo
+
+– Aceleración normal
+
+– Aceleración lateral
+
+– Aceleración longitudinal (eje de la aeronave)
+
+– Hora o cronometraje relativo
+
+– Datos de navegación*: ángulo de deriva, velocidad del viento, dirección del viento, latitud/longitud
+
+– Radioaltitud*.
+
+135.409 El piloto al mando de un helicóptero no operado de acuerdo a la Lista de Equipamiento Mínimo (MEL), solo podrá despegar un helicóptero con equipos, instrumentos, luces u otros ítems de equipamiento inoperativos, siempre y cuando estos no afecten la seguridad operacional del helicóptero o de sus pasajeros, tripulación o carga y se cumpla con lo siguiente:
+
+(1) Ninguno de los ítems que se encuentren inoperativos:
+
+(i) Es parte de la certificación de tipo;
+
+(ii) Está indicado como requerido en la Lista de Equipamiento del manual de vuelo;
+
+(iii) Está indicado como requerido en la Lista de Equipamiento por Tipo de Operación (KOEL o KOL), del manual de vuelo, para el tipo de operación que se pretende realizar;
+
+(iv) Está entre los requeridos por esta norma para efectuar el tipo de operación o de vuelo que se pretende realizar; o
+
+(v) Es requerido que esté operativo por una Directiva de Aeronavegabilidad (AD o DA); y
+
+(2) Además, cada ítem que se encuentre inoperativo:
+
+(i) Es desinstalado del helicóptero, su control en cabina de pilotaje es etiquetado "INOPERATIVO", el espacio que deje en el panel de instrumentos (si es el caso), es cubierto por una placa, y todo este trabajo lo certifica una OMA conforme a la norma DAN 43; o
+
+(ii) Es desactivado y etiquetado "INOPERATIVO". Y, si tal desactivación del equipo implica un trabajo de mantenimiento, todo este trabajo lo certifica una OMA conforme a la norma DAN 43; y
+
+(3) Finalmente, una determinación de que el ítem inoperativo no constituye un peligro para la operación del helicóptero, es hecha por un piloto que tenga la habilitación apropiada para operar el helicóptero o por una OMA habilitada para efectuar el mantenimiento del helicóptero.
+
+(b) Un helicóptero con equipamiento inoperativo, pero cumpliendo las condiciones señaladas en esta sección, es considerada por la DGAC como apropiadamente alterada. El piloto al mando es responsable de operarla dentro de las limitaciones que implica no contar con el equipamiento etiquetado "INOPERATIVO".
+
+135.411 (a) Para que el piloto al mando pueda determinar si cabe iniciar el vuelo o continuarlo a partir de cualquier parada intermedia, en caso de que cualquier instrumento, equipo o sistema deje de funcionar, los operadores que posean helicópteros cuyo fabricante tenga aprobado para ese helicóptero un Master MEL (MMEL), desarrollarán una Lista de Equipamiento Mínimo (MEL) la que será aprobada por la DGAC o la autoridad del Estado de matrícula según corresponda.
+
+135.411 (j) Todo helicóptero, matrícula extranjera, a la cual le aplique (a) y que opere bajo un AOC chileno, deberá tener su MEL aprobado por el Estado de matrícula.
+
+135.411 (k) Todo helicóptero al cual le aplique (a) y que al momento de la publicación de esta enmienda 2, cuente con o haya iniciado su trámite para obtener un certificado de aeronavegabilidad otorgado por el Estado de Chile deberá al 31 dic 2021 o en la fecha que determine la DGAC, tener aprobado su MEL.
+
+CAPÍTULO F
+
+NORMAS DE ATENUACIÓN Y HOMOLOGACIÓN EN CUANTO AL RUIDO
+
+135.503 (c) El operador debería asegurarse de que los procedimientos de despegue y aterrizaje tienen en cuenta la necesidad de reducir al mínimo el efecto de ruido del helicóptero.
+
+CAPÍTULO G
+
+PERSONAL DE VUELO
+
+135.601 (d) (2) Será responsable de una vez terminado el vuelo, registrar en la bitácora de vuelo (Flight Log) todas las discrepancias o novedades que detecte o que sospeche existan en el helicóptero.
+
+135.601 (d) (4) Será responsable de la operación, seguridad operacional y protección del helicóptero, así como de la seguridad de todos los miembros de la tripulación, los pasajeros y la carga que se encuentre a bordo, desde el momento en que se encienden los motores hasta que el helicóptero se detiene por completo al finalizar el vuelo, se apagan los motores y se paran las palas del rotor.
+
+135.601 (d) (5) En caso de emergencia durante el vuelo, se verificará que todas las personas a bordo han sido instruidas en las
+
+135.601 (d (6) Verificar que los miembros de la tripulación para vuelos internacionales cuenten con la habilitación en el idioma utilizado para las comunicaciones radiotelefónicas aeronáuticas.
+
+135.601 (d (7) Para operaciones IFR deberá verificar que las ayudas a la navegación necesarias para navegar el helicóptero en el espacio aéreo (rutas ATS, salidas, arribos y aproximaciones instrumentales, incluyendo la aproximación frustrada si esta se especifica en el procedimiento) están disponibles y son adecuadas para ser utilizadas por el sistema de navegación del helicóptero.
+
+135.601 (d (8) Cuando corresponda, controlar los mecanismos integrados de prueba en el puesto de pilotaje para el CVR, el FDR y el equipo de adquisición de datos de vuelo (FDAU).
+
+135.601 (d) (9) Verificar que el resto de la tripulación no se encuentre afectada de lesiones, enfermedades, fatiga o falta de oxígeno que pudiera afectar el cumplimiento de sus funciones.
+
+135.601 (e) (ii) Cuando un piloto al mando o un copiloto vuela en diferentes variantes del mismo tipo de helicóptero o en diferentes tipos de helicópteros con características similares en términos de procedimientos de operación, sistemas y manejo, deberá cumplir con las disposiciones establecidas en la normativa de Licencias al personal Aeronáutico para cada variante o cada tipo de helicóptero.
+
+135.601 (2) Piloto al mando - capacitación de zona, de ruta y de aeródromo/helipuerto.
+
+El explotador no utilizará ningún piloto como piloto al mando de un helicóptero en una operación para la cual el piloto no esté capacitado hasta que dicho piloto no haya cumplido con los puntos (i), (ii) y (iii) siguientes:
+
+(i) Cada piloto demostrará al operador un conocimiento adecuado de la operación que se ha de realizar, incluyendo conocimiento de:
+
+(ii) Los procedimientos aplicables a las trayectorias de vuelo sobre zonas densamente pobladas y zonas de gran densidad de tránsito, obstáculos, topografía, iluminación, ayudas para la aproximación y procedimientos de entrada, salida, espera y aproximación por instrumentos, así como de los mínimos de utilización aplicables.
+
+(iii) Un piloto al mando habrá hecho un vuelo representativo de la operación que deberá realizar como miembro de la tripulación de vuelo y acompañado de un piloto cualificado en esa operación, incluyendo una aproximación a cada aeródromo/helipuerto en la ruta como miembro de la tripulación de vuelo, a menos que;
+
+(iv) La demostración relacionada con los procedimientos de entrada, de salida, de espera y de aproximación por instrumentos puede llevarse a cabo en un dispositivo de instrucción apropiado, que sea adecuado para estos fines.
+
+135.601 (6)
+
+(i) El explotador se cerciorará de que se comprueba la técnica de pilotaje y la capacidad de ejecutar procedimientos de emergencia, de tal modo que se demuestre la competencia del piloto en cada tipo o variante de un tipo de helicóptero.
+
+(ii) El operador verificará cada 6 meses que los pilotos mantengan la competencia en lo relativo a técnicas de pilotaje, procedimientos de emergencia y vuelo por instrumentos.
+
+(iii) Dos verificaciones similares, efectuadas dentro de un plazo de cuatro meses consecutivos, no satisfarán por sí solas este requisito.
+
+(iv) Podrán utilizarse simuladores de vuelo aprobados por la DGAC para aquellas partes de las verificaciones respecto a las cuales hayan sido expresamente aprobados.
+
+(v) Cuando el explotador asigne una tripulación de vuelo a diversas variantes del mismo tipo de helicóptero o para diferentes tipos de helicópteros con características similares en cuanto a procedimientos de operación, sistemas y manejo, deberá cumplirse con 135.601 (e)(1)(ii).
+
+135.601 (f)
+
+(1) Despegue y aterrizaje.
+
+Todos los miembros de la tripulación de vuelo que estén de servicio en la cabina de pilotaje permanecerán en sus puestos.
+
+(2) En ruta.
+
+Todos los miembros de la tripulación de vuelo que estén de servicio en la cabina de pilotaje permanecerán en sus puestos, a menos que su ausencia sea necesaria para la realización de cometidos relacionados con la utilización del helicóptero, o por necesidades fisiológicas.
+
+135.603 TRIPULACIÓN DE CABINA (cuando corresponda)
+
+(a) Asignación de obligaciones en caso de emergencia.
+
+El operador establecerá previa aceptación de la DGAC, el número mínimo de miembros de tripulación de cabina requerido para cada tipo de helicóptero, a base del número de asientos o del número de pasajeros transportados, a fin de efectuar la evacuación segura y rápida del helicóptero, y las funciones necesarias que han de realizarse en caso de emergencia o de una situación que requiera evacuación de emergencia. El operador asignará esas funciones para cada tipo de helicóptero.
+
+(b) Protección de la tripulación de cabina durante el vuelo.
+
+Cada miembro de la tripulación de cabina permanecerá sentado y con el cinturón de seguridad o, cuando exista, el arnés de seguridad ajustado durante las maniobras de despegue y de aterrizaje, y siempre que el piloto al mando así lo ordene.
+
+(c) El operador establecerá y mantendrá un programa de instrucción aprobado por la DGAC, que habrá de ser completado por todas las personas antes de ser designadas como miembros de la tripulación de cabina. Los miembros de la tripulación de cabina completarán un programa periódico de instrucción anualmente.
+
+Estos programas de instrucción verificarán que cada persona:
+
+(1) es competente para ejecutar aquellas obligaciones y funciones de seguridad que se le asignen al personal de cabina en caso de una emergencia o de una situación que requiera evacuación de emergencia;
+
+(4) conoce las asignaciones y funciones de los otros miembros de la tripulación en caso de una emergencia en la medida necesaria para desempeñar sus propias obligaciones de miembro de la tripulación de cabina;
+
+(6) conoce acerca de la actuación humana en relación con las obligaciones de seguridad operacional en la cabina de pasajeros, incluyendo la coordinación entre la tripulación de vuelo y la tripulación de cabina.
+
+135.605 (a)
+
+(1) Estas normas se aplicarán a las tripulaciones de todos los Operadores dedicados al transporte de pasajeros y carga que utilicen helicópteros. En el caso de operadores chilenos, para vuelos nacionales e internacionales, y para los operadores extranjeros cuando realicen vuelos de cabotaje.
+
+(3) Descanso.
+
+CAPÍTULO H
+
+ENCARGADO DE OPERACIONES DE VUELO (EOV)
+
+135.703
+
+(e) Tiene conocimientos y habilidades relacionados con la actuación humana pertinente a las funciones de despacho y mantenerse al corriente de los detalles de la operación pertinentes a dichas funciones,
+
+(f) Al encargado de operaciones de vuelo/despachador de vuelo que haya dejado de prestar sus servicios durante 12 meses consecutivos no se le deberán asignar funciones a no ser que se cumplan las disposiciones anteriores.
+
+(g) Demostrar al explotador capacidad para desempeñar las funciones indicadas en 135.707
+
+135.707 FUNCIONES DEL ENCARGADO DE OPERACIONES DE VUELO (EOV)
+
+135.707 (a)
+
+(1) Ayudar al piloto al mando en la preparación del vuelo y proporcionar la información pertinente;
+
+(2) Ayudar al piloto al mando en la preparación del plan operacional de vuelo y del plan de vuelo ATS, firmar, cuando corresponda, y presentar el plan de vuelo a la dependencia ATS apropiada; y
+
+(3) Suministrar al piloto al mando, durante el vuelo, por los medios adecuados, la información necesaria para realizar el vuelo con seguridad.
+
+(4) Efectuar despachos remotos, asegurando en todo momento el seguimiento y asesoría del vuelo que se encuentra en progreso, o que deba ser desviado o redespachado.
+
+135.707 (b)
+
+(1) Iniciará los procedimientos descritos en el manual de operaciones de la empresa y evitará tomar medidas incompatibles con los procedimientos ATC; y;
+
+135.707 (c) El encargado de operaciones de vuelo/despachador de vuelo a quien se le asignen funciones debería mantenerse al corriente de los detalles de la operación pertinentes a dichas funciones, incluyendo capacitación en factores humanos.
+
+135.707 (d) Demostrar al explotador capacidad para desempeñar las funciones señaladas en 135.707.
+
+## Capítulo I
+
+DOCUMENTACIÓN A BORDO DEL HELICÓPTERO
+
+135.801 (7) Hoja de las Especificaciones relativas a las Operaciones pertinentes al helicóptero. (*)
+
+Para operaciones internacionales se debe considerar una traducción al inglés de los documentos indicados como (6) y (7).
+
+135.801 (c)
+
+(3) Manual de Operaciones del operador o aquellas partes del mismo que se refieran a las operaciones de vuelo.
+
+(6) Lista de Verificación para los procedimientos de búsqueda de bombas en el helicóptero que deben emplearse en caso de sospecha de sabotaje. La lista de verificación estará acompañada de orientaciones sobre las medidas que deben adoptarse en caso de encontrarse una bomba o un objeto sospechoso.
+
+(d) Maletines de vuelo electrónicos (EFB)
+
+(1) Generalidades.
+
+(i) El operador, previo al uso de un EFB portátil, deberá asegurarse de que no afecta la actuación de los sistemas y equipo del helicóptero o a la capacidad de operar del mismo.
+
+(ii) La DGAC expedirá una aprobación específica para el uso operacional de las funciones EFB que se emplearán para la operación segura de los helicópteros.
+
+135.805 (b) Las anotaciones en la bitácora de vuelo deben llevarse al día y hacerse con tinta o lápiz pasta o medio digital aprobado por la DGAC.
+
+135.811 Además de lo requerido en 135.605, los operadores informarán a la DGAC semestralmente las horas de vuelo del período por aeronave.
+
+CAPÍTULO K
+
+PROGRAMAS DE INSTRUCCIÓN
+
+135.1003
+
+(a) Todo operador deberá:
+
+(1) Proporcionar y mantener en forma permanente con respecto a cada tipo de helicóptero y, si corresponde, las variaciones dentro de cada tipo, el material de instrucción apropiado, los exámenes, formularios, instrucciones y procedimientos para uso en la realización de instrucción y exámenes exigidos en esta norma; y
+
+(2) Proporcionar instructores de vuelo, instructores de simulador y examinadores de tripulantes, para realizar la instrucción de vuelo, exámenes exigidos y cursos de instrucción de simulador establecidos de conformidad con esta normativa.
+
+135.1005 (b)
+
+(7) Una lista de todas las ayudas a la instrucción, maquetas, entrenadores de sistemas, entrenadores de procedimientos y otras ayudas a la instrucción que utilizará el operador.
+
+(8) La descripción detallada o ilustraciones de las maniobras, procedimientos y funciones normales, anormales y de emergencia que se realizarán durante cada fase de la instrucción en vuelo o en el examen de vuelo, indicando aquellas maniobras, procedimientos y funciones que se efectuarán durante las etapas de vuelo, de la instrucción de vuelo y de los exámenes de vuelo.
+
+(9) Una lista de los simuladores del helicóptero u otras ayudas de instrucción aprobadas, incluyendo aprobaciones de maniobras y procedimientos cuando se disponga de ellas.
+
+(10) Las horas programadas de enseñanza que se aplicarán a cada fase de dicha instrucción.
+
+(c) El programa de instrucción se repetirá periódicamente (recurrente) e incluirá una evaluación de la competencia.
+
+(d) Se considerará satisfecho el entrenamiento periódico de vuelo en un tipo determinado de helicóptero si se utilizan dispositivos de instrucción para simulación de vuelo aprobados para este fin y se realiza este entrenamiento periódico dentro del período apropiado para la verificación de la competencia en dicho tipo de helicóptero.
+
+## Capítulo L
+
+MANTENIMIENTO DE LA AERONAVEGABILIDAD DEL HELICÓPTERO
+
+Para los fines de este capítulo, el término "helicóptero" incluye: motores, transmisiones de potencia, rotores, componentes, accesorios, instrumentos, equipo y aparatos, incluso el equipo de emergencia.
+
+135.1101 RESPONSABILIDAD DEL OPERADOR RESPECTO DEL MANTENIMIENTO DE LA AERONAVEGABILIDAD.
+
+(a) Cada helicóptero en servicio se mantiene en condición aeronavegable;
+
+(c) A partir del 05 nov 2020, el operador no operará un helicóptero a menos que el mantenimiento del mismo, así como de cualquier motor, hélice y pieza conexos, lo lleve a cabo:
+
+(1) una OMA que cumpla las disposiciones del DAR/DAN 145, y esté aprobado o reconocido por la DGAC y habilitado en la marca y modelo del helicóptero; o
+
+(2) una persona u organismo, de conformidad con lo establecido en la DAN 43; y se disponga de la conformidad de mantenimiento en relación con el mantenimiento llevado a cabo conforme a la DAN 43.
+
+(e) Establecer y mantener un sistema de análisis y vigilancia continua (SAVIC) del funcionamiento y eficiencia del programa de mantenimiento, para corregir cualquier deficiencia del programa; este sistema será aplicable solamente a todos los helicópteros con un PMD superior a 3.175 kg, dedicados a operaciones de transporte aéreo comercial internacional o a operaciones de la aviación general internacional y se excluyen los helicópteros dedicados exclusivamente a trabajos aéreos.
+
+(i) Se emplee una o más personas para garantizar que los trabajos de mantenimiento se efectúan conforme al manual de control de mantenimiento.
+
+135.1103 (b)
+
+(2) Las tareas de mantenimiento y los intervalos a las cuales estos se aplicarán teniendo en cuenta la utilización prevista del helicóptero;
+
+(3) Según corresponda, un programa para el mantenimiento de la integridad estructural;
+
+(4) Revisiones generales (overhaul);
+
+(5) Actividades de mantenimiento con cumplimiento horario o calendario;
+
+(6) Inspecciones derivadas de alteraciones o reparaciones mayores.
+
+(7) Cumplimiento obligatorio de las tareas de mantenimiento y los intervalos de cumplimiento, de las Limitaciones de Aeronavegabilidad al aprobar el certificado de tipo y Directivas de Aeronavegabilidad establecidas por el Estado de diseño o por la DGAC.
+
+(8) Los helicópteros con un PMD superior a 3.175 kg, además de lo indicado en (a)(1) al (7), considerarán lo siguiente cuando corresponda:
+
+135.1103 (c) Procedimiento para solicitar cambio o apartarse de lo estipulado en (b)(2) y (3), de esta sección respecto de aquellas tareas que el Estado de Diseño no haya considerado obligatorias.
+
+135.1103 (f) El programa de mantenimiento deberá basarse en la información que facilite el Estado de diseño o el organismo encargado del diseño de tipo, más cualquier otra experiencia aplicable.
+
+135.1105 (a) El operador deberá disponer de una organización de gestión del mantenimiento de la aeronavegabilidad, propia o contratada, con el fin de cumplir con sus responsabilidades respecto del control de la aeronavegabilidad.
+
+135.1105 (c) (2) (xiii) El explotador de todo helicóptero de más de 3 175 kg de masa máxima establecerá un procedimiento donde especificará como obtendrá y juzgará la información y recomendaciones sobre el mantenimiento de la aeronavegabilidad que le proporcione el organismo que haya producido el diseño de tipo y como pondrá en práctica las medidas consecuentes que considere necesarias.
+
+135.1107 (e)
+
+(6) métodos utilizados para completar y conservar los registros de mantenimiento de la aeronavegabilidad de sus helicópteros;
+
+(8) Para helicópteros con un PMD mayor a 3.175 kg:
+
+(iii) Una descripción de los procedimientos asociados al Sistema de Análisis y Vigilancia Continua (SAVIC), para uso y orientación del personal de gestión del mantenimiento de la Aeronavegabilidad de la Empresa Aérea, asignado a cumplir funciones en el SAVIC. Estos procedimientos también podrán ser parte de un manual exclusivo (MSAVIC), pero deberá estar referenciado en el MCM. La estructura y contenido de estos procedimientos, deberán ser a lo menos los indicados en el Apéndice N° 10 de esta DAN.
+
+(12) para helicópteros con un PMD superior a los 3.175 kg, un procedimiento para informar al organismo de diseño y a la DGAC lo requerido en la sección 135.1115.
+
+(13) para helicópteros con un PMD superior a los 3.175 kg, una descripción de los procedimientos para notificar en forma inmediata a la DGAC, los sucesos significativos que ocurran en servicio (ver 135.1115).
+
+(17) Un procedimiento para verificar que las modificaciones y reparaciones se efectúen de acuerdo a lo dispuesto por la DGAC y asegurar que se conserven los datos que prueben el cumplimiento de los requisitos de aeronavegabilidad.
+
+135.1107 (h) Cuando corresponda, una descripción de los procedimientos para controlar el arrendamiento de aeronaves y productos aeronáuticos afines.
+
+135.1107 (6) métodos utilizados para completar y conservar los registros de mantenimiento de la aeronavegabilidad de sus helicópteros;
+
+(8) Para helicópteros con un PMD mayor a 3.175 kg:
+
+(iii) Una descripción de los procedimientos asociados al Sistema de Análisis y Vigilancia Continua (SAVIC), para uso y orientación del personal de gestión del mantenimiento de la Aeronavegabilidad de la Empresa Aérea, asignado a cumplir funciones en el SAVIC. Estos procedimientos también podrán ser parte de un manual exclusivo (MSAVIC), pero deberá estar referenciado en el MCM. La estructura y contenido de estos procedimientos, deberán ser a lo menos los indicados en el Apéndice N° 10 de esta DAN.
+
+(12) para helicópteros con un PMD superior a los 3.175 kg, un procedimiento para informar al organismo de diseño y a la DGAC lo requerido en la sección 135.1115.
+
+(13) para helicópteros con un PMD superior a los 3.175 kg, una descripción de los procedimientos para notificar en forma inmediata a la DGAC, los sucesos significativos que ocurran en servicio (ver 135.1115).
+
+(17) Un procedimiento para verificar que las modificaciones y reparaciones se efectúen de acuerdo a lo dispuesto por la DGAC y asegurar que se conserven los datos que prueben el cumplimiento de los requisitos de aeronavegabilidad.
+
+(h) Cuando corresponda, una descripción de los procedimientos para controlar el arrendamiento de aeronaves y productos aeronáuticos afines.
+
+135.1109 REGISTROS DEL MANTENIMIENTO DE LA AERONAVEGABILIDAD
+
+(1) Tiempo total de servicio (horas, tiempo transcurrido y ciclos, según corresponda) del helicóptero, y de todos los componentes con vida límite;
+
+(2) Situación actualizada del cumplimiento de toda información obligatoria (limitación de aeronavegabilidad, directiva de aeronavegabilidad o documento equivalente aplicable) sobre el mantenimiento de la aeronavegabilidad de cada helicóptero.
+
+(5) Tiempo de servicio (horas, tiempo transcurrido y ciclos, según corresponda) desde la última revisión general (overhaul o hard time) del helicóptero o de sus componentes sujetos a revisión general obligatoria.
+
+(b) Los registros que figuran en (a) (1) al (5) se conservarán durante un período mínimo de 90 días después de retirado definitivamente del servicio el componente a que se refieren. El registro enumerado en (a)(6) durante por lo menos dos (2) años a partir de la firma de la conformidad de mantenimiento. El registro (a)(7) se mantendrá vigente hasta el próximo pesaje.
+
+135.1113 (d) Registrador de Datos de Vuelo, Inspecciones y calibración de los sistemas registradores de vuelo.
+
+135.1113 (d) (3) (G) se realizará un examen de los mensajes registrados en el DLR o el DLRS reproduciendo la grabación del DLR o DLRS.
+
+135.1115 (a) Notificación conforme al Anexo 7.
+
+(1) El operador de un helicóptero de más de 3.175 kg de masa máxima, debe informar al titular del certificado de tipo con copia a la DGAC cualquier falla, malfuncionamiento, o defecto en el helicóptero que ocurre o es detectado en cualquier momento si, en su opinión, esa falla, malfuncionamiento o defecto ha puesto en peligro o puede poner en peligro la operación segura del helicóptero utilizado por él.
+
+(2) Los informes deben ser hechos en la forma y manera indicada en el Apéndice 7 y deben contener toda la información pertinente sobre la condición que sea de conocimiento del explotador.
+
+(b) Notificación inmediata (vía telefónica o documental).
+
+(1) Los siguientes sucesos significativos justifican la notificación inmediata a la DGAC:
+
+(i) Falla de estructura primaria
+
+(ii) Falla del sistema de control
+
+(iii) Incendio en la aeronave
+
+(iv) Falla estructural del motor; o
+
+(v) Toda otra condición que se considere un peligro inminente para la seguridad operacional.
+
+(2) El informe escrito o telefónico debe ajustarse al formato indicado en el Apéndice 7, y por tratarse de una alerta, debe contener la siguiente información, cuando esta esté disponible y sea pertinente:
+
+(i) Nombre y dirección del propietario de la aeronave
+
+(ii) Si se trata de un accidente o incidente
+
+(iii) SB, cartas de servicio y directivas de aeronavegabilidad relacionadas; y
+
+(iv) Disposición de las piezas defectuosas.
+
+Los antecedentes señalados, deben enviarse a la DGAC lo antes posible tras la llamada telefónica o la presentación del informe.
+
+APÉNDICE 1
+
+CONTENIDO DEL MANUAL DE OPERACIONES
+
+(b) (1) (ii) Políticas que se refieren a limitaciones de tiempo de vuelo, períodos de servicio de vuelo, períodos de servicio y requisitos de períodos de descanso para los miembros de la tripulación de vuelo y de cabina cuando corresponda.
+
+(iii) Lista del equipo de navegación que debe llevarse, incluido cualquier requisito relacionado con las operaciones para las que se estipule una navegación basada en la performance.
+
+(vi) Los métodos para determinar los mínimos de operación de helipuertos.
+
+(viii) Arreglos y procedimientos de servicios de escala lo que considerará:
+
+- Procedimientos de manejo de combustible.
+
+- Procedimientos de seguridad para el manejo del helicóptero, pasajeros y carga.
+
+- Transporte de pasajeros, equipaje y carga.
+
+- Procedimientos para denegar el embarque.
+
+- Eliminación y prevención de la formación de hielo en tierra.
+
+(xxiii) Procedimientos para familiarización con zonas, rutas y aeródromos/helipuertos de destino.
+
+(xxvii) Instrucciones sobre la realización de procedimientos de aproximación de precisión y no de precisión por instrumentos.
+
+(xxviii) Asignación a la tripulación de vuelo de tareas y procedimientos para manejar su carga de trabajo durante las operaciones nocturnas e IMC de aproximación por instrumentos.
+
+(xxxv) Se proporciona información detallada sobre el sistema de gestión de la seguridad operacional (SMS).
+
+(xxxvi) Instrucciones y requisitos de capacitación para utilizar los visualizadores de "cabeza alta" (HUD) o sistemas de visión mejorada (EVS), según corresponda.
+
+(xxxvii) Instrucciones y requisitos de instrucción para el uso de EFB, según corresponda.
+
+(b) (2) (vii) Instrucciones para cargar y asegurar la carga.
+
+(ix) La lista de equipo mínimo para los tipos de helicópteros explotados y las operaciones especificas autorizadas, incluido cualquier requisito relacionado con las operaciones para las que se estipule una navegación basada en la performance.
+
+(b) (3) (iii) Los mínimos de operación de cada helipuerto que probablemente se utilice como helipuerto de aterrizaje previsto o como helipuerto de alternativa.
+
+(iv) El aumento de los mínimos de operación de helipuerto, en caso de deterioro de las instalaciones de aproximación o del helipuerto.
+
+(vi) Instrucciones para usar los mínimos de utilización de aeródromo en aproximaciones por instrumentos aplicables al empleo de HUD y EVS.
+
+(b) (4) (i) Información sobre el programa y los requisitos de capacitación para la tripulación de vuelo.
+
+(ii) Información acerca del programa de capacitación sobre las obligaciones de la tripulación de cabina.
+
+APÉNDICE 3
+
+PARÁMETROS DE LOS GRABADORES DE VUELO PARA LOS HELICÓPTEROS
+
+Tabla N° 1
+
+Características de los parámetros para registradores de datos de vuelo
+
+Tabla 2
+
+Características de los parámetros para sistemas registradores de datos de aeronave
+
+Tabla 3
+
+Descripción de las aplicaciones para registradores de enlace de datos
+
+APÉNDICE 6
+
+SUMINISTROS MÉDICOS
+
+(d) Contenido.
+
+Deben considerarse diversos factores para decidir sobre el contenido del botiquín de primeros auxilios. Se indica a continuación el contenido característico del botiquín que se transporta a bordo de una aeronave. Las cantidades serán definidas por el operador de acuerdo con la cantidad de pasajeros transportadas.
+
+(i) Hasta 9 asientos de pasajeros
+
+(A) Gasas de 10*10 cms
+
+(B) Gasas de 15*15 cms
+
+(C) Toallitas con alcohol
+
+(D) Pocket gel de 60 ml
+
+(E) Apósito transparente Tegaderm
+
+(F) Cinta Transpore
+
+(G) Mini guía de primeros auxilios
+
+(H) Caja transportadora
+
+(ii) 10 a 19 pasajeros
+
+(A) Cotonitos
+
+(B) Cinta adhesiva estándar
+
+(C) Vendaje: triangular e imperdibles
+
+(D) Vendaje con compresa estéril de 7.5 cms x 12 cms
+
+(E) Tiras adhesivas para el cierre de heridas Steri-strip o equivalente
+
+(F) Producto o toallitas para limpiar las manos.
+
+(G) Parche con protección, o cinta, para los ojos.
+
+(H) Tijera de 10 cms.
+
+(I) Guantes desechables
+
+(J) Mini guía de primeros auxilios
+
+(K) Caja transportadora
+
+APÉNDICE 7
+
+INFORME DE DIFICULTADES EN SERVICIO (IDS)
+
+(b) (1) Todo operador que opere helicópteros cuyo peso máximo de despegue sea de más de 3.175 Kgs., deberá notificar simultáneamente a la DGAC (SDTP/SDA, según corresponda), y a la Organización responsable del Diseño de Tipo de su aeronave, su experiencia operacional y de mantenimiento a través de un "INFORME DE DIFICULTADES EN SERVICIO" (IDS).
+
+Este informe será emitido obligatoriamente, dentro de las noventa y seis (96) horas siguientes, a que se produzca alguna de las condiciones que a continuación se indican:
+
+APÉNDICE N° 10
+
+MANUAL DEL SISTEMA DE ANÁLISIS Y VIGILANCIA CONTINUA
+
+a. Este Manual deberá contener la información especificada en este apéndice. La información del manual deberá ser ordenada y clara para proporcionar al personal involucrado en el sistema SAVIC la información necesaria para que pueda cumplir sus diversas funciones de manera efectiva de conformidad con los requisitos de aeronavegabilidad requeridos por esta DAN. El manual deberá contener un anexo con referencias cruzadas que será usada como un índice, con una explicación de dónde el manual aborda cada tema. El MSAVIC también, podrá ser parte del MCM, sin perjuicio del cumplimiento de este apéndice.
+
+b. El propósito del Manual del Sistema de Análisis y Vigilancia Continua (MSAVIC) será:
+
+1. Explicar en forma sencilla, entendible por cualquier empleado de la empresa aérea, el funcionamiento del sistema de análisis y vigilancia continua del programa de Mantenimiento (PM) y permitir que el personal que cumpla tareas en forma directa en SAVIC pueda hacerlo de acuerdo a los términos y condiciones de la autorización otorgada por la DGAC.
+
+2. Proporcionar una guía para recolectar datos y poder analizar las tendencias a objeto generar mejoras en el programa de Mantenimiento.
+
+3. Acreditar ante la DGAC cómo se ejecutarán todas las actividades de SAVIC de acuerdo a las exigencias regulatorias.
+
+c. El contenido, organización y detalle del manual podrá variar de acuerdo con la complejidad y tamaño de la empresa aérea. Sin embargo, al determinar la aprobación del manual, la DGAC se asegurará de que el contenido del manual y sus manuales complementarios, si los hubiera, satisfagan los requisitos y proporcionen las instrucciones, procedimientos e información mínima que se indican a continuación:
+
+Parte 1: Parte general y Administración de SAVIC
+
+1.1 Procedimientos necesarios para ir generando las enmiendas al manual, con su respectivo control de páginas efectivas y con sus correspondientes aprobaciones por parte de la DGAC;
+
+1.2 Procedimientos de cómo la empresa aérea efectúa la difusión de las enmiendas a su manual;
+
+1.3 Procedimientos para que las enmiendas al manual sean distribuidas en toda la organización y a las personas u organizaciones a quienes se les haya entregado previamente una copia, incluida la DGAC;
+
+1.4 Establecer procedimiento para capacitar a todo su personal en todas las actividades de SAVIC. Capacitación general y específica a quienes trabajarán en forma directa en SAVIC. (Plan y Programa de Capacitación).
+
+1.5 Aplicación de conceptos de factores humanos para las actividades del sistema SAVIC.
+
+1.6 Definiciones y abreviaturas usadas en el MSAVIC.
+
+Parte 2: Organización y estructura de SAVIC.
+
+2.1 Los nombres de los puestos de nivel directivo que tienen la autoridad y la responsabilidad de SAVIC;
+
+2.2 Un organigrama que indique las líneas de responsabilidad del personal con puestos claves en la organización relacionados con SAVIC;
+
+2.3 Los deberes y responsabilidades de la persona o grupo de personas directamente involucrados en SAVIC de acuerdo al tamaño, la complejidad y al nivel de las operaciones de vuelo de la empresa;
+
+2.4 Descripción de la manera en que la empresa cumplirá con cada actividad de SAVIC;
+
+2.5 Establecer un SAVIC de acuerdo al tamaño, la complejidad y de acuerdo al nivel de las operaciones de vuelo de la empresa aérea, sin que se pierda la esencia de SAVIC señalada en 2.6;
+
+2.6 Establecer un enfoque sistémico que permita medir la efectividad del programa de mantenimiento, con un grupo de elementos funcionalmente relacionados que interactúen entre ellos permitiendo el enfoque señalado a través de las 4 actividades principales de SAVIC que son la Vigilancia, Análisis, Acción correctiva y Seguimiento;
+
+2.7 Establecer revisiones a lo menos mensuales de SAVIC por la Alta Dirección, a objeto discutir los hallazgos, análisis y progreso de las acciones correctivas o de mejoras al PM; se aborden nuevas propuestas de acciones correctivas sobre el PM, como discusión eventos específicos, datos estadísticos y tendencias.
+
+2.8 Procedimientos para la notificación a la DGAC de los cambios en las personas que ocupen los puestos directivos y para la sustitución en caso de ausencias.
+
+Parte 3: Actividades de vigilancia de SAVIC para determinar la efectividad del PM.
+
+3.1 Procedimientos guía para las actividades de vigilancia de la efectividad del PM;
+
+3.2 Procedimiento para orientar su proceso de recolección de datos operacionales que incluyan una metodología para determinar el tipo y la frecuencia;
+
+3.3 Procedimientos que incluyan instrucciones claras para determinar qué datos operacionales recolectar, quién los recolectará o qué área de la empresa, cómo se recolectarán, cuándo (frecuencia) y qué hacer con ellos;
+
+3.4 Procedimientos incluyan opciones de recopilar datos operacionales rutinarios y no rutinarios;
+
+3.5 Establecer en la documentación de SAVIC, medios de identificación de los datos que son relevantes y útiles para que el Operador monitoree la efectividad del PM;
+
+3.6 Procedimientos de SAVIC, deben incluir una revisión periódica y una reevaluación de la utilidad de los datos que recolecta y se analicen eventuales modificaciones de recolección que le permitan cumplir con los objetivos de SAVIC;
+
+Parte 4: Procedimientos para el análisis de los datos operacionales.
+
+4.1 Procedimientos para efectuar en SAVIC el análisis de los datos operacionales recolectados;
+
+4.2 Estos procedimientos deben hacer hincapié en que se deben considerar las tendencias o anomalías negativas;
+
+4.3 Procedimientos deben incluir los aspectos de factores humanos;
+
+4.4 Procedimientos deben incluir que, en estos análisis, puede existir cooperación del personal técnico de las áreas afectadas, especialistas de los departamentos de ingeniería o el apoyo del fabricante;
+
+4.5 Procedimiento que se incluyan las funciones de los analistas SAVIC para el análisis de los datos operativos;
+
+4.6 Procedimientos deben establecer que se incorpore en qué casos se podría requerir una revisión adicional o más profunda, dependiendo lo que vayan arrojando los indicadores;
+
+Parte 5: Actividades de SAVIC relativas a la implementación de Acciones Correctivas y de Seguimiento.
+
+5.1 Procedimiento SAVIC relativo a la actividad de implementación de acciones correctivas en el PM;
+
+5.2 Establecer un procedimiento que permita implementar las acciones correctivas o de mejora sobre el PM en forma simple y eficaz;
+
+5.3 Se indique en el procedimiento la posición u organización responsable de evaluar y aprobar las acciones correctivas propuestas de mejora para el PM, a objeto ser presentadas a la Alta Dirección para su aprobación.
+
+5.4 Procedimiento SAVIC relativo al seguimiento de las acciones correctivas implementadas y qué hacer en el caso de detectar que las acciones correctivas no fueron del todo efectivas.
+
+Parte 6: Procedimientos de control relativo a la identificación de peligros.
+
+Actividades adicionales proactivamente, que, si bien no forman parte del SAVIC, permiten aportar al Sistema SMS, en el caso de detectar situaciones que puedan constituir un peligro.
+
+6.1 Procedimientos que contemplen el reconocimiento de peligros a través de un enfoque proactivo y también reactivo;
+
+6.2 Procedimiento claro para determinar quién o quiénes serán responsables de realizar la identificación de peligros;
+
+6.3 Se establezca qué entrenamiento o calificaciones del personal serán requeridas para participar en la identificación de los peligros;
+
+6.4 Procedimiento que indique cuándo realizar la identificación de peligros;
+
+6.5 Procedimiento que indique cómo documentar un peligro;
+
+6.6 Procedimiento formal para enviar los peligros detectados al área de Análisis de riesgo del sistema SMS de la empresa.
+
+Anexos.
+
+Anexo 1: Muestras de los documentos, formularios y registros vigentes; con sus procedimientos de llenado, a ser utilizados en SAVIC.
+
+APÉNDICE N° 11
+
+LIMITACIONES DE UTILIZACIÓN Y DE PERFORMANCE DEL HELICÓPTERO
+
+### 1. FINALIDAD Y ALCANCE
+
+Este adjunto se proporciona para fines de orientación de los usuarios.
+
+2. DEFINICIONES. Las indicadas en 135.1
+
+### 3. GENERALIDADES
+
+3.1 Los helicópteros que operan en las Clases de performance 1 y 2 deberían estar certificados para la Categoría A.
+
+3.2 Los helicópteros que operan en la Clase de performance 3 deberían estar certificados para la Categoría A o la Categoría B (o equivalente).
+
+3.3 Salvo que lo permita la autoridad competente:
+
+3.3.1 El despegue o aterrizaje desde/en helipuertos en un entorno hostil congestionado sólo debería realizarse en Clase de performance 1.
+
+3.3.2 Las operaciones en Clase de performance 2 sólo deberían realizarse con capacidad de aterrizaje forzoso seguro durante el despegue y el aterrizaje.
+
+3.3.3 Las operaciones en Clase de performance 3 sólo deberían realizarse en un entorno no hostil.
+
+3.4 A fin de permitir variaciones de 3.3.1, 3.3.2 y 3.3.3, la autoridad debería llevar a cabo evaluaciones de riesgo teniendo en consideración factores tales como:
+
+a) tipo de operación y circunstancias del vuelo;
+
+b) área/terreno por encima del cual se realiza el vuelo;
+
+c) probabilidad de una falla del motor crítico y consecuencia de tal evento;
+
+d) procedimientos para mantener la fiabilidad de los motores;
+
+e) procedimientos de instrucción y operacionales para mitigar las consecuencias de la falla del motor crítico; y
+
+f) instalación y utilización de un sistema de vigilancia del uso.
+
+### 4. ESPECIFICACIONES CUANTITATIVAS
+
+Las especificaciones cuantitativas ilustran un nivel de performance previsto.
+
+4.1 Aplicabilidad
+
+4.1.1 Los helicópteros con una configuración de asientos de pasajeros superior a 19, o los helicópteros que operen hacia o desde un helipuerto en un entorno hostil congestionado deberían operar en Clase de performance 1.
+
+4.1.2 Los helicópteros con una configuración de asientos de pasajeros de 19 pasajeros o menos, pero de más de 9, deberían operar en Clase de performance 1 o 2, a menos que operen hacia o desde un entorno hostil congestionado en cuyo caso los helicópteros deberían operar en Clase de performance 1.
+
+4.1.3 Los helicópteros con una configuración de asientos de pasajeros de 9 o menos deberían operar en Clase de performance 1, 2 o 3, a menos que operen hacia o desde un entorno hostil congestionado en cuyo caso los helicópteros deberían operar en Clase de performance 1.
+
+4.2 Factores de performance significativos
+
+Para determinar la performance del helicóptero, deberían tenerse en cuenta, como mínimo, los siguientes factores:
+
+a) la masa del helicóptero;
+
+b) la elevación o altitud de presión y la temperatura; y
+
+c) el viento: para el despegue y el aterrizaje, no debería tenerse en cuenta más del 50% de la componente de viento de frente uniforme notificado cuando sea de 5 nudos o más. Si el manual de vuelo permite despegues y aterrizajes con una componente de viento de cola, debería permitirse no menos del 150% de la componente de viento de cola notificado. Cuando el equipo anemométrico de precisión permita la medición precisa de la velocidad del viento sobre el punto de despegue y aterrizaje, podrían modificarse los valores indicados.
+
+4.3 Condiciones para las operaciones
+
+4.3.1 Para los helicópteros que operan en las Clases de performance 2 o 3 en cualquier fase del vuelo en que una falla del motor pueda obligar al helicóptero a realizar un aterrizaje forzoso:
+
+a) el explotador debería determinar una visibilidad mínima, teniendo en cuenta las características del helicóptero, pero dicha visibilidad no debería ser inferior a 800 m para los helicópteros que operan en Clase de performance 3; y
+
+b) el explotador debería cerciorarse de que la superficie situada debajo de la trayectoria de vuelo prevista permite al piloto ejecutar un aterrizaje forzoso en condiciones de seguridad.
+
+4.3.2 No deben realizarse operaciones en Clase de performance 3:
+
+a) si no se ve la superficie; ni
+
+b) de noche; ni
+
+c) cuando la base de las nubes es inferior a 180 m (600 ft).
+
+4.4 Área en la que se deben considerar los obstáculos
+
+4.4.1 Para los fines de los requisitos de franqueamiento de obstáculos del párrafo 4, un obstáculo debería considerarse si su distancia lateral desde el punto más cercano en la superficie debajo de la trayectoria de vuelo prevista no es mayor que:
+
+a) para las operaciones VFR:
+
+1) la mitad de la anchura mínima de FATO (o el término equivalente utilizado en el manual de vuelo del helicóptero) definida en el manual de vuelo del helicóptero (o, cuando no está definida la anchura como 0,75 D), más 0,25 veces D (o 3 m, tomando de estos valores el que sea mayor), más:
+
+– 0,10 DR (distancia recorrida) para operaciones VFR diurnas
+
+– 0,15 DR (distancia recorrida) para operaciones VFR nocturnas
+
+b) para operaciones IFR:
+
+1) 1,5 D (o 30 m, tomando de estos valores el que sea mayor), más:
+
+– 0,10 DR para operaciones IFR con guía de precisión para el curso
+
+– 0,15 DR para operaciones IFR con guía normalizada para el curso
+
+– 0,30 DR para operaciones IFR sin guía para el curso (D=Dimensión máxima del helicóptero)
+
+c) para operaciones con despegue inicial realizado visualmente y convertidas a IFR/IMC en un punto de transición, el criterio establecido en 4.4.1 a) se aplica hasta el punto de transición; después del punto de transición se aplican los criterios establecidos en 4.4.1 b).
+
+4.4.2 Para un despegue aplicando el procedimiento para retroceso (o con movimiento lateral), para los fines de los requisitos de franqueamiento de obstáculos del párrafo 4, debería considerarse un obstáculo situado debajo de la trayectoria de vuelo para retroceso (trayectoria de vuelo lateral) si su distancia lateral respecto al punto más cercano en la superficie debajo de la trayectoria de vuelo prevista no es mayor que la mitad de la anchura mínima de la FATO (o el término equivalente utilizado en el manual de vuelo del helicóptero) definido en el manual de vuelo del helicóptero (cuando no se defina una anchura 0,75 D, más 0,25 veces D, o 3 m, tomándose el valor más elevado) más:
+
+a) 0,10 distancia recorrida a partir del borde trasero de la FATO para operaciones diurnas VFR;
+
+b) 0,15 distancia recorrida desde el borde trasero de la FATO para operaciones nocturnas VFR.
+
+4.4.3 Se podrá hacer caso omiso de los obstáculos si están situados más allá de:
+
+a) 7 R (Radio del rotor del helicóptero) para las operaciones diurnas si se tiene la seguridad de que se puede lograr navegación de precisión mediante referencias a indicaciones visuales adecuadas durante el ascenso;
+
+b) 10 R para las operaciones nocturnas si se tiene la seguridad de que se puede lograr navegación de precisión mediante referencias a indicaciones visuales adecuadas durante el ascenso;
+
+c) 300 m si la precisión de navegación se puede lograr mediante ayudas para la navegación adecuadas; y
+
+d) 900 m en los demás casos.
+
+4.4.4 El punto de transición no debería estar situado antes del fin de la TODRH para helicópteros que operan en Clase de performance 1 ni antes del DPATO para helicópteros que operan en Clase de performance 2.
+
+4.4.5 Al considerar la trayectoria de vuelo de la aproximación frustrada, la divergencia del área en la que se deben considerar los obstáculos sólo debería aplicarse después del final de la distancia de despegue disponible.
+
+4.5 Fuente de datos de performance
+
+El explotador debería asegurarse de que los datos de performance aprobados que contiene el manual de vuelo del helicóptero se usan para determinar el cumplimiento de las normas de este ejemplo, complementados cuando sea necesario con otros datos aceptables para el Estado del explotador.
+
+### 5. CONSIDERACIONES RELATIVAS A LA ZONA DE OPERACIONES
+
+5.1 FATO
+
+Para las operaciones en Clase de performance 1, las dimensiones de la FATO deberían ser, por lo menos, iguales a las dimensiones especificadas en el manual de vuelo de helicópteros.
+
+### 6. LIMITACIONES DEBIDAS A LA PERFORMANCE
+
+6.1 Operaciones en Clase de performance 1
+
+6.1.1 Despegue
+
+6.1.1.1 La masa de despegue del helicóptero no debería ser superior a la masa máxima de despegue especificada en el manual de vuelo para el procedimiento que habrá de utilizarse y para lograr una velocidad vertical de ascenso de 100 ft/min a 60 m (200 ft) y de 150 ft/min a 300 m (1000 ft) por encima del nivel del helipuerto con el motor crítico inactivo y los demás motores funcionando a una potencia apropiada, teniendo en cuenta los parámetros especificados en 4.2.
+
+6.1.1.2 Despegue interrumpido
+
+La masa de despegue debería ser tal que la distancia de despegue interrumpido requerida no exceda de la distancia de despegue interrumpido disponible.
+
+6.1.1.3 Distancia de despegue
+
+La masa de despegue debería ser tal que la distancia de despegue requerida no exceda de la distancia de despegue disponible.
+
+6.1.1.4 Procedimientos para retroceso (o procedimientos con movimiento lateral).
+
+El explotador debería asegurarse de que, con el motor crítico inactivo, todos los obstáculos en el área de retroceso (movimiento lateral) se franquean con un margen adecuado. Sólo deberían considerarse los obstáculos especificados en 4.4.
+
+6.1.2 Trayectoria de despegue.
+
+Desde el final de la distancia de despegue requerida con el motor crítico inactivo:
+
+6.1.2.1 La masa de despegue debería ser tal que la trayectoria de ascenso proporcione un margen vertical mínimo de 10,7 m (35 ft) para operaciones VFR y de 10,7 m (35 ft) más 0,01 DR para operaciones IFR sobre todos los obstáculos situados en la trayectoria de ascenso. Sólo deben considerarse los obstáculos especificados en 4.4.
+
+6.1.2.2 En los casos en que haya un cambio de dirección superior a 15°, los requisitos relativos a franqueamiento de obstáculos deberían aumentarse en 5 m (15 ft) a partir del punto en que se inicia el viraje. Este viraje no debería comenzar antes de alcanzar una altura de 60 m (200 ft) por encima de la superficie de despegue, a menos que se permita como parte de un procedimiento aprobado en el manual de vuelo.
+
+6.1.3 Vuelo en ruta.
+
+La masa de despegue debe ser tal que, en caso de que la falla del motor crítico ocurra en cualquier punto de la trayectoria de vuelo, se pueda continuar el vuelo hasta un lugar de aterrizaje apropiado y alcanzar las altitudes mínimas de vuelo para la ruta por la que ha de volarse.
+
+6.1.4 Aproximación, aterrizaje y aterrizaje frustrado.
+
+La masa de aterrizaje prevista en el punto de destino o de alternativa debería ser tal que:
+
+a) no exceda de la masa máxima de aterrizaje especificada en el manual de vuelo, para el procedimiento que habrá de utilizarse y para lograr una velocidad vertical de ascenso de 100 ft/min a 60 m (200 ft) y 150 ft/min a 300 m (1 000 ft) por encima del nivel del helipuerto con el motor crítico inactivo y los demás motores funcionando a una potencia apropiada, teniendo en cuenta los parámetros especificados en 2.2;
+
+b) la distancia de aterrizaje requerida no exceda de la distancia de aterrizaje disponible, a menos que al aterrizar el helicóptero pueda, con la falla del motor crítico reconocida en el LDP, franquear todos los obstáculos en la trayectoria de aproximación;
+
+c) en caso de que la falla del motor crítico ocurra en cualquier punto después del LDP, sea posible aterrizar y detenerse dentro de la FATO; y
+
+d) en el caso de que se reconozca la falla del motor crítico en el LDP o en cualquier punto antes del LDP, sea posible aterrizar y detenerse dentro de la FATO o bien volar más allá, cumpliendo las condiciones de 6.1.2.1 y 6.1.2.2.
+
+6.2 Operaciones en Clase de performance 2
+
+6.2.1 Despegue
+
+La masa del helicóptero al despegue no debería exceder de la masa máxima de despegue especificada en el manual de vuelo para el procedimiento que habrá de utilizarse y para lograr una velocidad vertical de ascenso de 150 ft/min a 300 m (1 000 ft) por encima del nivel del helipuerto con el motor crítico inactivo y los motores restantes funcionando a una potencia apropiada, teniendo en cuenta los parámetros especificados en 4.2.
+
+6.2.2 Trayectoria de despegue
+
+A partir del DPATO o, como alternativa, no después de 60 m (200 ft) por encima de la superficie de despegue con el motor crítico inactivo, se deberían cumplir las condiciones de 6.1.2.1 y 6.1.2.2.
+
+6.2.3 Vuelo en ruta.
+
+Deberían cumplirse los requisitos de 6.1.3.
+
+6.2.4 Aproximación, aterrizaje y aterrizaje frustrado La masa de aterrizaje prevista en el punto de destino o de alternativa debería ser tal que:
+
+a) no exceda de la masa máxima de aterrizaje especificada en el manual de vuelo, para una velocidad vertical de ascenso de 150 ft/min a 300 m (1 000 ft) por encima del nivel del helipuerto con el motor crítico inactivo y los motores restantes funcionando a una potencia apropiada, teniendo en cuenta los parámetros especificados en 4.2; y
+
+b) en el caso de que ocurra una falla del motor crítico en o antes del DPBL, sea posible realizar un aterrizaje forzoso o bien volar más allá, cumpliendo los requisitos de 6.1.2.1 y 6.1.2.2.
+
+Sólo deberían considerarse los obstáculos especificados en 4.4.
+
+6.3 Operaciones en Clase de performance 3
+
+6.3.1 Despegue.
+
+La masa del helicóptero en el despegue no debería exceder de la masa máxima de despegue especificada en el manual de vuelo para un vuelo estacionario con efecto de suelo con todos los motores funcionando a potencia de despegue, teniendo en cuenta los parámetros especificados en 4.2. Si las condiciones son tales que no es probable establecer un vuelo estacionario con efecto de suelo, la masa de despegue no debería exceder de la masa máxima especificada para un vuelo estacionario sin efecto de suelo con todos los motores funcionando a potencia de despegue, teniendo en cuenta los parámetros especificados en 4.2.
+
+6.3.2 Ascenso inicial.
+
+La masa de despegue debería ser tal que la trayectoria de ascenso proporcione distancia vertical adecuada sobre todos los obstáculos situados a lo largo de la trayectoria de ascenso, con todos los motores en funcionamiento.
+
+6.3.3 Vuelo en ruta.
+
+La masa de despegue debe ser tal que sea posible alcanzar con todos los motores en funcionamiento las altitudes mínimas de vuelo para la ruta por la que ha de volarse.
+
+6.3.4 Aproximación y aterrizaje.
+
+La masa de aterrizaje prevista en el punto de destino o de alternativa debería ser tal que:
+
+a) no exceda de la masa máxima de aterrizaje especificada en el manual de vuelo para un vuelo estacionario con efecto de suelo con todos los motores funcionando a potencia de despegue teniendo en cuenta los parámetros especificados en 4.2. Si las condiciones son tales que no es probable establecer un vuelo estacionario con efecto de suelo, la masa de despegue no debería exceder de la masa máxima especificada para un vuelo estacionario sin efecto de suelo con todos los motores funcionando a potencia de despegue, teniendo en cuenta los parámetros especificados en 4.2;
+
+b) sea posible realizar un aterrizaje frustrado con todos los motores en funcionamiento en cualquier punto de la trayectoria de vuelo y salvar todos los obstáculos con un margen vertical adecuado.
+
+APÉNDICE 12
+
+REQUISITOS ADICIONALES Y ORIENTACIÓN ADICIONAL PARA LAS OPERACIONES DE HELICÓPTEROS EN CLASE DE PERFORMANCE 3 EN CONDICIONES METEOROLÓGICAS DE VUELO POR INSTRUMENTOS (IMC)
+
+I.- REQUISITOS ADICIONALES.
+
+Los requisitos de aeronavegabilidad y operacionales satisfarán lo siguiente:
+
+### 1. FIABILIDAD DE LOS MOTORES
+
+1.1 Obtener y mantener la aprobación para los motores utilizados por helicópteros que realizan operaciones en Clase de performance 3 en IMC:
+
+1.1.1 A fin de obtener la aprobación inicial para los tipos actuales de motores en servicio, se demostrará que la fiabilidad corresponde a una tasa de pérdida de potencia inferior a 1 por 100 000 horas de funcionamiento del motor en un proceso de gestión de riesgo.
+
+1.1.2 A fin de lograr la aprobación inicial de los nuevos tipos de motor, el Estado de diseño evaluará los modelos de motor para su aceptación para operaciones en Clase de performance 3 en IMC, caso por caso.
+
+1.1.3 A fin de mantener la aprobación, el Estado de diseño se asegurará, por medio del proceso de mantenimiento de la aeronavegabilidad, que la fiabilidad del motor sigue siendo compatible con la finalidad de la norma contenida en 1.1.1.
+
+1.2 El explotador será responsable de un programa para la supervisión continua de tendencias del motor.
+
+1.3 Para reducir al mínimo la probabilidad de falla del motor en vuelo, el motor estará equipado con:
+
+a) para los motores de turbina: un sistema de reignición que se active automáticamente o un sistema de ignición continua de selección manual, a menos que la certificación del motor haya determinado que no es necesario un sistema como ese, teniendo en consideración las condiciones probables del entorno en que se hará funcionar el motor;
+
+b) un sistema de detección de partículas magnética o su equivalente que vigile el motor, la caja de engranajes de accesorios y la caja de engranajes de reducción, y que incluya una indicación de precaución en el puesto de pilotaje; y
+
+c) un medio que permita el funcionamiento continuo del motor con una potencia suficiente para completar el vuelo en condiciones de seguridad en caso de cualquier falla razonablemente posible de la unidad de control de combustible.
+
+### 2. SISTEMAS Y EQUIPO
+
+Los helicópteros que operen en Clase de performance 3 en IMC estarán equipados con los siguientes sistemas y equipos, destinados a asegurar la continuación del vuelo en condiciones de seguridad o para ayudar a lograr un aterrizaje forzoso en condiciones de seguridad después de una falla del motor, en cualesquiera condiciones admisibles de operación:
+
+a) sea dos sistemas electrógenos independientes, cada uno capaz de suministrar todas las combinaciones probables de cargas eléctricas continuas en vuelo para los instrumentos, el equipo y los sistemas requeridos en condiciones IMC; sea una fuente de alimentación eléctrica primaria y una batería de reserva u otra fuente de energía eléctrica con capacidad de suministrar 150% de la carga eléctrica de todos los instrumentos requeridos y el equipo necesario para operaciones de emergencia del helicóptero en condiciones de seguridad durante, por lo menos, una hora; y
+
+b) sistema de suministro de energía eléctrica de emergencia, con capacidad y autonomía suficientes, después de la pérdida de toda la potencia generada normalmente, a fin de, como mínimo:
+
+1) mantener el funcionamiento de todos los instrumentos de vuelo esenciales y de los sistemas de comunicaciones y navegación durante un descenso desde la altitud máxima certificada, en una configuración de autorrotación hasta completar el aterrizaje;
+
+2) mantener en funcionamiento el sistema de estabilización, si corresponde;
+
+3) hacer descender el tren de aterrizaje, si corresponde;
+
+4) cuando sea necesario, suministrar energía a un calentador del tubo de Pitot, que debe servir a un indicador de velocidad aerodinámica claramente visible para el piloto;
+
+5) hacer funcionar los faros de aterrizaje;
+
+6) poner de nuevo en marcha el motor, si corresponde; y
+
+7) hacer funcionar el radioaltímetro;
+
+c) un radioaltímetro;
+
+d) un piloto automático si se prevé como sustituto de un segundo piloto. En estos casos, el Estado del explotador se asegurará de que la aprobación del explotador expone claramente toda condición o limitación sobre su uso;
+
+e) medios para, por lo menos, una tentativa de poner de nuevo en marcha el motor;
+
+f) un sistema de navegación aérea aprobado para usarlo en condiciones IFR, con capacidad para usarlo a fin de localizar áreas de aterrizaje adecuadas en caso de emergencia;
+
+g) un faro de aterrizaje que sea independiente del tren de aterrizaje replegable y tenga capacidad para iluminar adecuadamente el área del punto de toma de contacto en un aterrizaje forzoso por la noche; y
+
+h) un sistema de aviso de incendio en el motor.
+
+### 3. REQUISITOS MÍNIMOS DE ESTADO DE FUNCIONAMIENTO DEL EQUIPO
+
+El Estado del explotador especificará los requisitos mínimos del estado de funcionamiento del equipo para los helicópteros que realizan operaciones en Clase de performance 3 en IMC.
+
+### 4. INFORMACIÓN EN EL MANUAL DE OPERACIONES
+
+El manual de operaciones deberá incluir limitaciones, procedimientos, aprobación y toda otra información pertinente a las operaciones en Clase de performance 3 en IMC.
+
+### 5. NOTIFICACIÓN DE EVENTOS
+
+5.1 El explotador que haya recibido aprobación para realizar operaciones con helicópteros en Clase de performance 3 en IMC notificará todas las fallas y los casos de malfuncionamiento o defectos importantes al Estado del explotador, que a su vez notificará al Estado de diseño.
+
+5.2 El Estado del explotador supervisará las operaciones en Clase de performance 3 en IMC a fin de poder adoptar las medidas que sean necesarias para garantizar que se mantenga el nivel deseado de seguridad operacional. El Estado del explotador notificará al titular del certificado de tipo y al Estado de diseño que corresponda los eventos o tendencias importantes particularmente inquietantes.
+
+### 6. PLANIFICACIÓN DEL EXPLOTADOR
+
+En la planificación de rutas del explotador se tendrá en cuenta toda la información pertinente a la evaluación de rutas o zonas de operaciones previstas, incluido lo siguiente:
+
+a) la índole del terreno que se habrá de sobrevolar, incluida la posibilidad de realizar un aterrizaje forzoso en condiciones de seguridad, en caso de falla de un motor o de un defecto importante de funcionamiento;
+
+b) información meteorológica, incluidos los efectos meteorológicos estacionales y otros efectos adversos que podrían afectar al vuelo; y
+
+c) otros criterios y limitaciones que especifique la DGAC.
+
+### 7. EXPERIENCIA, INSTRUCCIÓN Y VERIFICACIÓN DE LA TRIPULACIÓN DE VUELO
+
+7.1 El Estado del explotador prescribirá la experiencia mínima de la tripulación de vuelo de los helicópteros que sea necesaria para realizar operaciones en Clase de performance 3 en IMC.
+
+7.2 El programa de instrucción y verificación de la tripulación de vuelo del explotador será apropiado para operaciones en Clase de performance 3 en IMC, comprendidos los procedimientos normales, anómalos y de emergencia y, en particular, la detección de la falla del motor, incluido el descenso hasta un aterrizaje forzoso en IMC y, en el caso de helicópteros con un solo motor, la entrada en una autorrotación estabilizada.
+
+### 8. CERTIFICACIÓN O VALIDACIÓN DEL EXPLOTADOR
+
+El explotador demostrará la capacidad de realizar operaciones en Clase de performance 3 en IMC mediante un proceso de certificación y aprobación especificado por la DGAC.
+
+II.- ORIENTACIÓN ADICIONAL
+
+1. La finalidad de esta sección es ofrecer orientación adicional sobre la aeronavegabilidad y los requisitos operacionales que han sido concebidos para satisfacer el nivel general de seguridad operacional previsto para operaciones aprobadas en Clase de performance 3 en IMC.
+
+### 2. FIABILIDAD DEL MOTOR
+
+2.1 La tasa de pérdida de potencia prescrita debería establecerse a partir de los datos de operaciones de transporte aéreo comercial complementados con datos apropiados de otras operaciones en situaciones similares. Se necesita experiencia para juzgar con fundamento, y esto debería incluir un número de horas aceptable para el Estado de diseño en la combinación real de helicóptero y motor, a menos que se haya llevado a cabo una prueba adicional o que se tenga experiencia con variantes de motores suficientemente similares.
+
+2.2 Al evaluar la fiabilidad del motor, deberían obtenerse pruebas de una base de datos de la flota mundial que abarque una muestra lo más amplia posible de operaciones que se consideran representativas, compiladas por los correspondientes titulares de certificado de tipo y examinadas por los Estados de diseño. Puesto que para muchos explotadores no es obligatorio presentar informes sobre las horas de vuelo, podrían emplearse cálculos estadísticos apropiados para elaborar los datos de fiabilidad del motor. Los datos correspondientes a cada explotador aprobado para estas operaciones, incluidas la supervisión de tendencias y la notificación de sucesos, también deberían ser objeto de vigilancia y examen por el Estado del explotador, a fin de asegurarse de que no hay ninguna indicación de que la experiencia del explotador no es satisfactoria.
+
+2.2.1 La supervisión de tendencias del motor debería:
+
+a) incluir un programa de supervisión de consumo de aceite basado en las recomendaciones del fabricante; y
+
+b) incluir un programa de supervisión de la condición del motor que describa los parámetros que van a controlarse, el método de recopilación de datos y el proceso de medidas correctivas; esto debería basarse en las recomendaciones del fabricante. La supervisión está dirigida a detectar el deterioro del motor desde el principio para que se puedan adoptar medidas correctivas antes de que resulte afectada la seguridad de las operaciones.
+
+2.2.2 Debería establecerse un programa de fiabilidad que abarque el motor y los sistemas conexos. El programa para el motor debería incluir las horas de vuelo del motor en el período de que se trate y la tasa de pérdida de potencia debida a todas las causas probadas de acuerdo con una base estadística apropiada. El proceso de notificación de eventos debería abarcar todos los aspectos pertinentes a la capacidad para realizar operaciones en condiciones de seguridad en IMC. Los datos deberían estar disponibles para que los usen el titular del certificado de tipo y el Estado de diseño a fin de probar que se logran los niveles de fiabilidad previstos. Toda tendencia negativa persistente debería conducir a una evaluación inmediata efectuada por el explotador en consulta con el o los Estados de diseño y los titulares del certificado de tipo con miras a determinar las medidas para restablecer el nivel de seguridad operacional previsto.
+
+2.3 La tasa de pérdida de potencia debería determinarse como una media móvil durante un período adecuado. En vez de la tasa de parada del motor en vuelo, se ha empleado la tasa de pérdida de potencia porque se considera más apropiada para un helicóptero que opera en Clase de performance 3. Si en un helicóptero que realiza operaciones en Clases de performance 1 o 2 ocurre una falla que causa una pérdida de potencia importante, pero no total, en un motor, es posible apagar el motor, dado que aún se dispone de performance positiva del motor, mientras que en un helicóptero que opera en Clase de performance 3 quizá sea mejor usar la potencia residual para prolongar la distancia de planeo.
+
+### 3. MANUAL DE OPERACIONES
+
+El manual de operaciones debería incluir toda la información necesaria pertinente a las operaciones realizadas por helicópteros que operan en Clase de performance 3 en IMC. En esta información debería incluirse todo equipo, procedimiento e instrucción adicionales que sean necesarios para esas operaciones, la ruta y el área de operaciones y probablemente el área de aterrizaje (incluida la planificación y los mínimos de utilización).
+
+### 4. CERTIFICACIÓN O VALIDACIÓN DEL EXPLOTADOR
+
+El proceso de certificación o validación del explotador especificado por el Estado del explotador debería garantizar que los procedimientos del explotador para operaciones normales, anormales y de emergencia son adecuados, incluidas las medidas después de fallas del motor, de los sistemas o del equipo. Además de los requisitos normales para la certificación o validación del explotador, deberían tratarse las siguientes cuestiones relacionadas con las operaciones de helicópteros que operan en Clase de performance 3 en IMC:
+
+a) confirmación de la fiabilidad del motor lograda de la combinación de motores del helicóptero;
+
+b) procedimientos de instrucción y verificación específicos y apropiados;
+
+c) programa de mantenimiento ampliado para incluir los equipos y sistemas mencionados;
+
+d) lista de equipo mínimo (MEL) modificada para incluir el equipo y los sistemas necesarios para operaciones en IMC;
+
+e) planificación y mínimos de utilización apropiados para las operaciones en IMC;
+
+f) procedimientos de salida y de llegada y toda limitación de ruta o área;
+
+g) cualificaciones y experiencia del piloto; y
+
+h) manual de operaciones, que incluya limitaciones, procedimientos de emergencia, rutas o áreas de operaciones, la MEL y los procedimientos normales relacionados con el equipo.
+
+5. APROBACIÓN PARA LAS OPERACIONES Y REQUISITOS DEL PROGRAMA DE MANTENIMIENTO
+
+5.1 La aprobación para las operaciones de helicópteros en Clase de performance 3 en IMC especificada en un certificado de explotador de servicios aéreos o un documento equivalente debería incluir las combinaciones particulares de célula y motor, incluso la norma de diseño de tipo vigente para esas operaciones, los helicópteros específicos aprobados y las áreas o rutas en que se realizarán esas operaciones.
+
+5.2 El manual del explotador sobre control del mantenimiento debería incluir una declaración de certificación del equipo adicional requerido, y del programa de mantenimiento y fiabilidad para dicho equipo, incluido el motor.
+
+APÉNDICE 14
+
+APROBACIÓN ESPECÍFICA
+
+> **Nota.** La Resolución 285, Defensa, publicada el 08.07.2021, aprueba la Segunda Enmienda a la Segunda Edición de la DAN 135 Vol II "Requisitos de operación: Operaciones comerciales con Helicópteros", contenida en el Anexo de la presente norma, razón por la cual se ha reemplazado por el presente texto actualizado.
