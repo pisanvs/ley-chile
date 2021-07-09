@@ -16,7 +16,7 @@ Considerando:
 
 Resuelvo:
 
-1.-Delégase en el funcionario don Fernando González Pavez, encargado de la Unidad de Contacto Ciudadano de la Coordinación de Usuarios de la Subsecretaría de Transportes, la facultad para firmar bajo la fórmula "Por orden del Subsecretario de Transportes", los oficios y correos electrónicos que digan relación con las siguientes materias específicas relacionados a Solicitudes de Acceso a la Información Pública en el marco de la Ley de Transparencia:
+1.-Delégase en la funcionaria doña María Carolina Acuña Porras, profesional de la Coordinación de Usuarios de la Subsecretaría de Transportes de la Subsecretaría de Transportes, la facultad para firmar bajo la fórmula "Por orden del Subsecretario de Transportes", los oficios y correos electrónicos que digan relación con las siguientes materias específicas relacionados a Solicitudes de Acceso a la Información Pública en el marco de la Ley de Transparencia:
 
 1.1.- Respuestas a requerimientos que no correspondan a solicitudes de acceso a la información pública o respecto de los cuales este Servicio no sea competente para atenderlos o no cuente con la información requerida.
 
@@ -28,7 +28,7 @@ Resuelvo:
 
 1.5- Derivaciones a otros servicios públicos en virtud del artículo 13 de la Ley de Transparencia.
 
-2.- En caso de ausencia del funcionario don Fernando González Pavez, la delegación de firma en los mismos términos indicados en el numeral anterior, recaerá en la funcionaria doña María Carolina Acuña Porras, Encargada de Participación Ciudadana, Género e Inclusión de la Subsecretaría de Transportes, y en ausencia de los anteriores, en la funcionaria doña Yasna Campos Cornejo, Encargada del Área de Gestión de Solicitudes de Acceso a la Información Pública de la Coordinación de Usuarios de la Subsecretaría de Transporte.
+2.- En caso de ausencia de la funcionaria doña María Carolina Acuña Porras, la delegación de firma en los mismos términos indicados en el numeral anterior, recaerá en la funcionaria doña Yasna Campos Cornejo, encargada del Área de Gestión de Solicitudes de Acceso a la Información Pública de la Coordinación de Usuarios de la Subsecretaría de Transportes, y en ausencia de los anteriores, en el funcionario don Felipe Castillo Díaz, abogado de la División Legal, de la Subsecretaría de Transportes.
 
 3.- La facultad de firmar antes delegada, deberá ser ejercida por los funcionarios individualizados, anteponiendo a su firma la fórmula "Por orden del Subsecretario de Transportes".
 
