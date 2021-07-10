@@ -438,7 +438,7 @@ Responsable.- La construcción y actualización periódica de la Calificación S
 
 <!-- parte:9650238 -->
 
-Periodicidad.- La actualización de la Calificación Socioeconómica será mensual y se realizará el primer día hábil de cada mes. Lo anterior, sin perjuicio de las necesidades de actualización propias de cada beneficio, programa y/o prestación social creada por ley.
+Periodicidad. La actualización de la Calificación Socioeconómica se realizará al menos una vez al mes, el primer día hábil del mismo, siendo el último cálculo de aquella el vigente para sus usos específicos. Lo anterior, sin perjuicio de las necesidades de actualización propias de cada beneficio, programa y/o prestación social creada por ley.
 
 #### Artículo 37
 
