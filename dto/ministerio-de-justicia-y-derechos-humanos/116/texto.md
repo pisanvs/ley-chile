@@ -32,7 +32,9 @@ Decreto:
 
 <!-- parte:10198808 -->
 
-Prorrógase la extensión de la vigencia de las cédulas de identidad para extranjeros dispuesta en los literales a) y b) del artículo 1º del decreto Nº 34 de 2020, del Ministerio de Justicia y Derechos Humanos, hasta el 28 de febrero de 2022.
+Prorrógase la extensión de la vigencia de las cédulas de identidad para extranjeros en los términos dispuestos en el artículo 1º del decreto Nº 34 de 2020, del Ministerio de Justicia y Derechos Humanos, hasta el 28 de febrero de 2022.
+
+La prórroga de la extensión de la vigencia de las cédulas de identidad para extranjeros dispuesta de conformidad al inciso anterior también será aplicable a las cédulas de identidad para extranjeros que hayan expirado o expiren durante el año 2021.
 
 #### Artículo 2º
 
