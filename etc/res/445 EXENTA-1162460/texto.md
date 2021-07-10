@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 445, de 14 de junio de 2021, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, se aprobó el programa de enseñanza conducente a la obtención de Licencia de Conductor No Profesional o Clase B, a la Escuela de Conductores "Victoria", de propiedad de Johnson Alarcón Manríquez, cédula nacional de identidad Nº 6.197.069-K. La escuela tendrá como Director a don Johnson Alarcón Manríquez, y su sede estará ubicada en calle Pisagua Nº 1311, de la comuna de Victoria. Las horas pedagógicas autorizadas a la referida Escuela son de 16 horas pedagógicas teóricas, y 12 horas prácticas, con un total de 28 horas pedagógicas.-
+
+Claudina Teresa Uribe Bórquez, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de la Araucanía.
