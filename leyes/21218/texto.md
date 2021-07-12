@@ -14,25 +14,29 @@ Disposiciones Generales
 
 Establécese un subsidio mensual, de cargo fiscal, para los trabajadores dependientes regidos por el Código del Trabajo, con contrato de trabajo vigente y afectos a una jornada ordinaria de trabajo conforme al inciso primero del artículo 22 de dicho Código y que sea superior a treinta horas semanales.
 
-Tendrán derecho al subsidio aquellos trabajadores dependientes señalados en el inciso anterior que cumplan con los siguientes requisitos: a) percibir una remuneración bruta mensual inferior a $500.000 y b) integrar un hogar perteneciente a los primeros nueve deciles, de acuerdo al instrumento de caracterización socioeconómica a que se refiere el artículo 5 de la ley Nº 20.379.
+Tendrán derecho al subsidio aquellos trabajadores dependientes señalados en el inciso anterior que cumplan con los siguientes requisitos: a) percibir una remuneración bruta mensual inferior a $421.250 y b) integrar un hogar perteneciente a los primeros nueve deciles, de acuerdo al instrumento de caracterización socioeconómica a que se refiere el artículo 5 de la ley Nº 20.379.
 
 #### Artículo 2
 
-Para aquellos trabajadores dependientes señalados en el artículo 1, cuya remuneración bruta mensual sea igual o superior a $364.218 e inferior a $500.000, y su jornada ordinaria de trabajo sea el máximo de horas a que se refiere el inciso primero del artículo 22 del Código del Trabajo, el monto mensual del subsidio será equivalente a la cantidad que resulte de restar al aporte máximo el valor afecto a subsidio.
+Para aquellos trabajadores dependientes señalados en el artículo 1, cuya remuneración bruta mensual sea igual o superior a $308.537 e inferior a $421.250, y su jornada ordinaria de trabajo sea el máximo de horas a que se refiere el inciso primero del artículo 22 del Código del Trabajo, el monto mensual del subsidio será equivalente a la cantidad que resulte de restar al aporte máximo el valor afecto a subsidio.
 
 Para efectos de este artículo se entenderá por:
 
-a.- Aporte máximo: $78.955.
+a.- Aporte máximo: $66.893.
 
-b.- Valor afecto a subsidio: el 58,14 por ciento de la diferencia entre la remuneración bruta mensual y $364.218.
+b.- Valor afecto a subsidio: el 59,35 por ciento de la diferencia entre la remuneración bruta mensual y $308.537.
 
 c.- Remuneración bruta mensual: aquella definida en el artículo 41 del Código del Trabajo.
+
+Para aquellos trabajadores dependientes cuya jornada ordinaria de trabajo sea inferior al máximo semanal establecido en el inciso primero del artículo 22 del Código del Trabajo y superior a treinta horas semanales, el monto mensual del subsidio se calculará de acuerdo a las reglas del inciso anterior y proporcionalmente a su jornada, según lo determine el reglamento a que se refiere el inciso final del artículo 7 de la presente ley.
 
 Asimismo, el trabajador que preste servicios por un período inferior a un mes tendrá derecho a que se le pague el subsidio en proporción a los días completos efectivamente trabajados.
 
 #### Artículo 3
 
-Para aquellos trabajadores dependientes señalados en el artículo 1, cuya remuneración bruta mensual sea inferior a $364.218 y su jornada ordinaria de trabajo sea el máximo de horas a que se refiere el inciso primero del artículo 22 del Código del Trabajo, el monto mensual del subsidio corresponderá al 21,68 por ciento de la remuneración bruta mensual, entendiéndose por esta aquella definida en el artículo 41 del Código del Trabajo.
+Para aquellos trabajadores dependientes señalados en el artículo 1, cuya remuneración bruta mensual sea inferior a $308.357 y su jornada ordinaria de trabajo sea el máximo de horas a que se refiere el inciso primero del artículo 22 del Código del Trabajo, el monto mensual del subsidio corresponderá al 21,68 por ciento de la remuneración bruta mensual, entendiéndose por esta aquella definida en el artículo 41 del Código del Trabajo.
+
+Para los trabajadores dependientes señalados en este artículo, cuya jornada ordinaria de trabajo sea inferior al máximo semanal establecido en el inciso primero del artículo 22 del Código del Trabajo y superior a treinta horas semanales, el monto mensual del subsidio se calculará de acuerdo a las reglas del inciso anterior y proporcionalmente a su jornada, según lo determine el reglamento a que se refiere el inciso final del artículo 7 de la presente ley.
 
 Asimismo, el trabajador que preste servicios por un período inferior a un mes tendrá derecho a que se le pague el subsidio en proporción a los días completos efectivamente trabajados.
 
@@ -42,7 +46,7 @@ En caso de que a un trabajador le corresponda un pago menor a $5.000 por concept
 
 #### Artículo 4
 
-El subsidio se devengará mensualmente. El trabajador tendrá derecho a éste sólo en virtud de un contrato de trabajo debiendo solicitarlo en la plataforma que se disponga para ello.
+El subsidio se devengará mensualmente. El trabajador tendrá derecho a éste sólo en virtud de un contrato de trabajo.
 
 El subsidio que reciba el trabajador no será imponible, tributable, embargable ni estará afecto a descuento alguno.
 
@@ -88,7 +92,9 @@ El plazo para el cobro del subsidio será de hasta un año contado desde la emis
 
 El empleador deberá informar a todos sus trabajadores que tengan una remuneración bruta mensual que dé derecho al subsidio tratado en esta ley, sobre la existencia del mismo.
 
-Los empleadores deberán solicitar al Ministerio de Desarrollo Social y Familia, a través de la plataforma que disponga la Subsecretaría de Servicios Sociales, la concesión del beneficio a todos sus trabajadores que pudieren tener derecho a acceder a él, verificándose los requisitos respectivos. Del mismo modo, el trabajador podrá solicitar el beneficio para sí mismo, debiendo entregar la información en la plataforma que se habilitará para ello.
+Los empleadores deberán solicitar mensualmente al Ministerio de Desarrollo Social y Familia, a través de la plataforma que disponga la Subsecretaría de Servicios Sociales, la concesión del beneficio a todos sus trabajadores que pudieren tener derecho a acceder a él, verificándose los requisitos respectivos a través de la información declarada por dicho empleador, la que podrá ser contrastada con los datos señalados en los incisos tercero y quinto del artículo 7.
+
+Si el empleador tuviere dificultades que impidan realizar en tiempo y forma dicha postulación, tendrá la obligación de informar al o los sindicatos constituidos en la empresa y a sus trabajadores en general, sobre los contenidos y requisitos de postulación al ingreso mínimo garantizado, a través de cartillas que al efecto emita la autoridad o informaciones que se publiquen en lugares visibles de la empresa, entre otros medios. El cumplimiento de esta obligación deberá ser informada electrónicamente a la respectiva Inspección del Trabajo. Asimismo, en la medida en que sea posible atendidas las condiciones de empleo, el empleador deberá permitir el acceso a medios computacionales de la empresa para la postulación respectiva. El incumplimiento de la obligación de postulación e información al sindicato y a los trabajadores señalada en este artículo será sancionado con multa de 5 a 10 unidades tributarias mensuales en el caso de la micro y pequeña empresa; de 20 a 40 unidades tributarias mensuales en el caso de la mediana empresa; y de 30 a 60 unidades tributarias mensuales en el caso de la gran empresa.
 
 #### Artículo 10
 
@@ -130,11 +136,11 @@ Un reglamento expedido por el Ministerio de Hacienda, suscrito además por el Mi
 
 #### Artículo 14
 
-Derogado.-
+Las cantidades expresadas en pesos de la presente ley se reajustarán el 1 de marzo de cada año, en el 100 por ciento de la variación que experimente el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas o el organismo que lo reemplace, entre el mes de marzo del año anterior y febrero del año en curso a la fecha en que opere el reajuste respectivo.
 
 #### Artículo 15
 
-El subsidio a que se refiere la presente ley regirá hasta el 30 de junio de 2024.
+El subsidio a que se refiere la presente ley regirá hasta el 31 de diciembre de 2023.
 
 #### Artículo 16
 
