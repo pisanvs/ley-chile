@@ -122,7 +122,7 @@ PARRAFO ELIMINADO
 
 13) Conservación: uso presente y futuro, racional, eficaz y eficiente de los recursos naturales y su ambiente.
 
-14) Embarcación pesquera artesanal o embarcación artesanal: es aquella explotada por un armador artesanal e inscrita en el Registro Pesquero Artesanal, de una eslora máxima no superior a 18 metros y 80 metros cúbicos de capacidad de bodega, garantizando la seguridad y el que no haya aumento del esfuerzo pesquero. No obstante lo anterior, única y exclusivamente para embarcaciones pesqueras artesanales, se excluirán del volumen total del arqueo bruto aquellos espacios cerrados destinados única y exclusivamente a la habitabilidad y bienestar de la dotación, es decir, cocina, comedor, camarotes, puente, baños y salas de descanso, que se encuentren en la cubierta superior y que no excedan de un máximo de 50 metros cúbicos y de un francobordo mínimo de 200 milímetros a lo largo de toda su eslora, que dé garantías de seguridad y navegabilidad.
+14) Embarcación pesquera artesanal o embarcación artesanal: es aquella explotada por un armador artesanal e inscrita en el Registro Pesquero Artesanal, de una eslora máxima no superior a 18 metros y 80 metros cúbicos de capacidad de bodega, garantizando la seguridad y el que no haya aumento del esfuerzo pesquero. No obstante lo anterior, única y exclusivamente para embarcaciones pesqueras artesanales, se excluirán del volumen total del arqueo bruto aquellos espacios cerrados destinados única y exclusivamente a la habitabilidad y bienestar de la dotación, es decir, cocina, comedor, camarotes, puente, baños y salas de descanso y que no excedan de un máximo de 50 metros cúbicos y de un francobordo mínimo de 200 milímetros a lo largo de toda su eslora, que dé garantías de seguridad y navegabilidad.
 
 Por reglamento se establecerán categorías de embarcaciones artesanales por eslora.
 
@@ -131,6 +131,12 @@ Asimismo, se determinará para cada categoría, su capacidad de carga máxima y 
 En el evento que sea constatada la operación de una embarcación artesanal que no cumpla lo dispuesto en el reglamento antes mencionado en relación a su volumen, se suspenderán sus actividades extractivas quedando prohibido el zarpe de la embarcación infractora hasta que se certifique la adecuación de sus características a dicho texto.
 
 Si se constata por tres veces, en el plazo dos años, que una embarcación artesanal ha desembarcado capturas que exceden la capacidad máxima por viaje de pesca, se suspenderán los derechos derivados de la inscripción en el registro pesquero artesanal por el plazo de tres meses, quedando prohibido el zarpe de la embarcación infractora desde que se comunique dicha circunstancia.
+
+14 A) Embarcación de apoyo a la acuicultura: es aquella destinada a la instalación, mantenimiento, reparación y retiro de estructuras de cultivo; ingreso y siembra de ejemplares de cultivo y de alimentos e insumos para los mismos; cosecha de ejemplares cultivados; retiro de ejemplares muertos; labores de toma de muestras para controles sanitarios; apoyo a tratamientos farmacológicos; monitoreos ambientales; abastecimiento de agua y combustibles; traslado de personas hacia, desde y entre sitios de cultivo, y abastecimiento de alimentos e insumos para el personal que opera centros de cultivo.
+
+14 B) Condiciones de habitabilidad y bienestar de las embarcaciones pesqueras artesanales y las artesanales de apoyo a la acuicultura: son aquellos elementos de seguridad, salud, higiene y confort que deben reunir los espacios destinados a la habitabilidad de las naves a que se refieren los números 14) y 14 A) de este artículo, tales como ubicación, tamaño, materiales, condiciones de higiene, ventilación, calefacción, refrigeración, iluminación, mitigación de ruidos y vibraciones excesivas, aplicables a las zonas de alojamiento, alimentación y aseo de la tripulación.
+
+El reglamento determinará las condiciones de habitabilidad y bienestar que deben cumplir las embarcaciones pesqueras artesanales y las pesqueras artesanales de apoyo a la acuicultura, debiendo siempre tener en cuenta la zona geográfica en que opera la embarcación. Este reglamento deberá dictarse dentro de los seis meses siguientes a la publicación de esta ley.
 
 14) bis. Descarte: es la acción de devolver al mar especies hidrobiológicas capturadas.
 
@@ -1296,27 +1302,9 @@ Si se extiende la operación de los pescadores artesanales en los términos indi
 
 En el área de reserva para la pesca artesanal indicada en el artículo anterior, así como en las aguas terrestres, además de las facultades generales de administración de los recursos hidrobiológicos mencionados en el párrafo 1° del título II, podrán establecerse, por decreto supremo del Ministerio, previos informes técnicos de la Subsecretaría y del Consejo Zonal de Pesca respectivo, las siguientes medidas o prohibiciones:
 
-a)Autorización de las actividades
+a)Autorización de las actividades pesqueras extractivas sobre determinados recursos en los estuarios, entendiendo por tal, aquella parte del río que se ve afectado por las mareas.
 
-pesqueras extractivas sobre
-
-determinados recursos en los
-
-estuarios, entendiendo por tal,
-
-aquella parte del río que se ve
-
-afectado por las mareas.
-
-b)Instalación de arrecifes
-
-artificiales en un área determinada
-
-de conformidad con los requisitos y
-
-características establecidas por
-
-reglamento.
+b)Instalación de arrecifes artificiales en un área determinada de conformidad con los requisitos y características establecidas por reglamento.
 
 c) Medidas para la instalación de colectores u otras formas de captación de semillas en bancos naturales de recursos hidrobiológicos, quedando igualmente prohibido efectuar actividades pesqueras extractivas en contravención a ellas.
 
@@ -1331,6 +1319,8 @@ INCISO TERCERO.- DEROGADO.
 El reglamento de esta ley regulará el sistema de asignación de estas cuotas de extracción.
 
 Podrán también establecerse estas medidas o prohibiciones y las mencionadas en los artículos 3° y 4° de esta ley para que rijan fuera de las áreas de reserva de la pesca artesanal, y extenderse a espacios delimitados, cuando se trate de especies altamente migratorias o demersales de gran profundidad que sean objeto mayoritariamente de actividades extractivas por armadores pesqueros artesanales.
+
+Prohíbese la instalación y el uso de artes de pesca en las aguas terrestres del país, salvo que se encuentre expresamente autorizada por períodos transitorios y bajo las condiciones establecidas por resolución fundada de la Subsecretaría.
 
 #### Artículo 48
 
@@ -3718,7 +3708,11 @@ DELITOS ESPECIALES Y PENALIDADES
 
 #### Artículo 135
 
-El que capturare o extrajere recursos hidrobiológicos utilizando elementos explosivos, tóxicos u otros cuya naturaleza provoque daño a esos recursos o a su medio, será sancionado con multa de 50 a 300 unidades tributarias mensuales, y con la pena de presidio menor en su grado mínimo.
+El que capturare o extrajere recursos hidrobiológicos utilizando elementos explosivos, tóxicos u otros cuya naturaleza provoque daño a esos recursos o a su medio, será sancionado con multa de 50 a 300 unidades tributarias mensuales, y con la pena de presidio menor en su grado medio.
+
+La misma sanción se aplicará a quien ejerza pesca recreativa utilizando los elementos descritos en el inciso anterior, incluyendo armas de fuego y electricidad.
+
+En caso de no comprobarse el daño a los recursos hidrobiológicos o a su medio a que se refieren los incisos anteriores, se aplicará presidio menor en su grado mínimo.
 
 #### Artículo 135 bis
 
@@ -3751,6 +3745,14 @@ El que realizare actividades de introducción, investigación, cultivo o comerci
 El que con dolo o culpa introdujere o mandare introducir organismos genéticamente modificados al mar, ríos, lagos o cualquier otro cuerpo de aguas, sin contar con la autorización a que se refiere el artículo 87 bis, será sancionado con multa de 500 a 5.000 UTM y presidio menor en su grado medio.
 
 En aquellos casos en que la conducta descrita en el inciso anterior causare daño al medio ambiente acuático o a otras especies hidrobiológicas o en caso de reincidencia, se aplicará la pena aumentada en un grado.
+
+#### Artículo 136 ter
+
+El que instale o use artes de pesca en las aguas terrestres dentro del territorio nacional, infringiendo la prohibición señalada en el artículo 48, será sancionado con presidio menor en su grado medio y multa de 500 a 10.000 unidades tributarias mensuales.
+
+El que procese, elabore, transporte o comercialice especies hidrobiológicas provenientes de aguas terrestres capturadas con artes de pesca, con infracción de la prohibición señalada en el artículo 48, será sancionado con la misma pena señalada en el inciso anterior.
+
+En los casos antes señalados se aplicará como pena accesoria la prohibición del ejercicio de la pesca en cualquiera de sus formas por cinco años, así como el comiso de las artes de pesca, vehículos, implementos y establecimientos utilizados en la captura o en la comercialización.
 
 #### Artículo 137
 

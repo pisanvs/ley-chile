@@ -18,6 +18,8 @@ Se entenderá por pesca recreativa la actividad pesquera realizada por personas 
 
 Quedará también sometida a las disposiciones de esta ley la pesca submarina, sólo en cuanto dicha actividad sea realizada sin fines de lucro y con los propósitos señalados en el inciso anterior.
 
+En ningún caso constituirá pesca recreativa la captura de recursos hidrobiológicos mediante el uso de artes de pesca o de aparejos de pesca que no sean de uso personal, cualquiera que sea el volumen capturado. En caso de verificarse dicha circunstancia, se aplicarán las disposiciones de la Ley General de Pesca y Acuicultura.
+
 #### Artículo 2º
 
 Principios y objetivos de la ley. El objetivo de la presente ley será fomentar la actividad de pesca recreativa, conservar las especies hidrobiológicas y proteger su ecosistema, fomentar las actividades económicas y turísticas asociadas a la pesca recreativa y fortalecer la participación regional.
@@ -616,6 +618,8 @@ Las calidades, atribuciones y facultades para el ejercicio de su función fiscal
 
 Tendrán también la calidad de fiscalizadores de las actividades de pesca recreativa, los inspectores ad honorem designados por el Director Nacional de Pesca en conformidad con la ley Nº 18.465, así como los inspectores municipales y los guardaparques señalados en el Sistema Nacional de Áreas Silvestres Protegidas por el Estado (SNASPE), en la forma y condiciones que se establecen en el presente Título.
 
+En la fiscalización del cumplimiento de esta ley deberá tenerse especialmente en cuenta el riesgo para la sustentabilidad de los recursos naturales y sus ecosistemas y para el cumplimiento de los principios y objetivos indicados en el artículo 2.
+
 #### Artículo 47
 
 Inspectores municipales y guardaparques. Los inspectores municipales y guardaparques señalados en el Sistema Nacional de Áreas Silvestres Protegidas por el Estado (SNASPE) deberán rendir y aprobar un examen ante el Servicio Nacional de Pesca para acreditar conocimientos especializados o experiencia en materias de pesca recreativa. Deberán ejercer labores de fiscalización en la jurisdicción de la municipalidad respectiva o en las áreas silvestres protegidas, según corresponda, y tendrán en el ejercicio de sus funciones las facultades y obligaciones establecidas en el artículo 3º letras a), b), c), d), h) e i) de la ley Nº 18.465.
@@ -660,17 +664,19 @@ e) Realizar actividades de pesca recreativa en áreas preferenciales, sin el per
 
 f) Realizar actividades de pesca recreativa en áreas preferenciales en contravención al plan de manejo vigente.
 
-g) Realizar cualquier tipo de actividad que introduzca en una cuenca especies hidrobiológicas que constituyan plagas, contraviniendo lo dispuesto en el artículo 7° bis.
+g) No dar cumplimiento a las obligaciones o prohibiciones establecidas en virtud del artículo 7 bis. La introducción a una cuenca de especies hidrobiológicas que constituyan plagas se sancionará de conformidad con el artículo 136 de la Ley General de Pesca y Acuicultura.
 
 #### Artículo 51
 
-Sanciones. Las infracciones menos graves serán sancionadas con multa de una a tres unidades tributarias mensuales.
+Sanciones. Las infracciones menos graves serán sancionadas con multa de una a tres unidades tributarias mensuales. En estos casos podrá aplicarse la sanción de amonestación, la que será impuesta por el juez que conozca del proceso, debiendo considerar la capacidad económica del infractor, la gravedad de la conducta y las consecuencias del hecho. En ningún caso la amonestación procederá más de dos veces respecto del mismo infractor. Con todo, si el infractor se allana a la denuncia, el tribunal aplicará la multa que proceda, rebajada en el veinte por ciento.
 
 Las infracciones graves serán sancionadas con multa de cuatro a diez unidades tributarias mensuales.
 
-Las infracciones gravísimas serán sancionadas con multa de cincuenta a cien unidades tributarias mensuales.
+Las infracciones gravísimas serán sancionadas con multa de cincuenta a ciento diez unidades tributarias mensuales.
 
 A las infracciones de esta ley que no tuvieren prevista una sanción especial se les aplicará una multa de una a treinta unidades tributarias mensuales.
+
+Para los efectos de la presente ley, se entenderá por reincidencia la reiteración de cualquiera de las infracciones a las normas de esta ley y sus reglamentos, cometidas dentro del plazo de dos años, contado desde la fecha en que haya quedado ejecutoriada la sentencia condenatoria. Tratándose de infracciones en que se haya aplicado la amonestación, se considerará reincidencia la comisión de una tercera infracción. En caso de reincidencia de infracciones de la misma gravedad se aplicará el monto máximo de la sanción, salvo disposición en contrario. Si la reincidencia dice relación con una infracción de una mayor gravedad, la multa correspondiente no podrá ser aplicada en su monto mínimo.
 
 #### Artículo 52
 
