@@ -1,0 +1,19 @@
+INFORMA APERTURA DEL PROCESO DE PARTICIPACIÓN CIUDADANA SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 94 DEL DS. N° 40/2012, DEL MINISTERIO DEL MEDIO AMBIENTE, REGLAMENTO DEL SISTEMA DE EVALUACIÓN DE IMPACTO AMBIENTAL, EN EL MARCO DE LA EVALUACIÓN AMBIENTAL DE LA DECLARACIÓN DE IMPACTO AMBIENTAL (DIA) "OPTIMIZACIÓN PLANTA SOLAR DEL LOA", DE SOL DEL LOA SPA
+
+En el marco de la evaluación ambiental de la DIA "Optimización Planta Solar Sol del Loa", presentada por Sol del Loa SpA, mediante resolución exenta N°47, del 30 de junio de 2021, del Director Ejecutivo del Servicio de Evaluación Ambiental (SEA), se ha decretado la apertura de un Proceso de Participación Ciudadana, según lo estipulado en el artículo 94 del Reglamento del Sistema de Evaluación de Impacto Ambiental.
+
+El Proyecto "Optimización Planta Solar Sol del Loa", en adelante el Proyecto, corresponde a una modificación de proyecto que fue aprobado favorablemente mediante RCA N° 60/2012 por la Comisión de Evaluación Ambiental de la Región de Antofagasta. El Proyecto considera la construcción y operación en dos etapas, de una central de generación de energía eléctrica con una potencia nominal total de 640 MWAC (corriente alterna), cuya fuente será a través de energía solar fotovoltaica. Este conectará con la subestación Frontera de 220 kV (existente) de propiedad de Transelec, a través de una línea de transmisión 2x220 kV, de aproximadamente 10,9 km de longitud.
+
+El proyecto se ubica en la comuna de María Elena, provincia de Tocopilla, Región de Antofagasta, y en la comuna de Pozo Almonte, provincia del Tamarugal, Región de Tarapacá. De manera que la Central fotovoltaica se emplaza en la localidad de Quillagua, comuna de María Elena, y la línea de transmisión, de 10,9 km, se extenderá desde la subestación elevadora de la Planta hacia el oriente, emplazándose en parte en la comuna de Pozo Almonte.
+
+El proyecto presenta como tipología principal la descrita en el artículo 3 letra c) del RSEIA, esto es, "Centrales generadoras de energía mayor a 3MW". Su tipología secundaria corresponde a la contenida en el artículo 3 letra b) del RSEIA, relativa a "Líneas de Transmisión eléctrica de alto voltaje y sus subestaciones". Su monto de inversión estimado alcanza los 480 MMUSD.
+
+El plazo para el desarrollo de este proceso será de 20 días hábiles contados desde la última publicación del presente extracto en el Diario Oficial o en un diario de circulación nacional, período en que la ciudadanía podrá formular observaciones al proyecto.
+
+Las observaciones podrán realizarse a través del sitio web del Servicio de Evaluación Ambiental www.sea.gob.cl; también enviándolas por escrito a la oficina de partes de la Dirección Ejecutiva del SEA, ubicada en Miraflores 222, piso 7, Santiago; del SEA de la Región de Antofagasta, ubicado en Avda. República de Croacia N° 0336, Antofagasta; del SEA de la Región de Tarapacá, ubicado en Riquelme N° 1081, Iquique; o a través de la oficina de partes virtual del SEA al correo oficinapartes.sea@sea.gob.cl. Las observaciones ciudadanas deberán señalar claramente el nombre, RUT y domicilio o correo electrónico según corresponda, para ser admitidas en el proceso de participación. Personas naturales y jurídicas podrán presentar observaciones, en el caso de estas últimas deberán acreditar vigencia de la organización y directiva de no más allá de 6 meses.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido a través del link:
+
+https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=67/58/6ca042fal7lc63 509022c23470a334eba4cb
+
+Hernán Brücher Valenzuela, Director Ejecutivo, Servicio de Evaluación Ambiental.
