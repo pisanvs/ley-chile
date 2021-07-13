@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR LAS CUENTAS CORRIENTES BANCARIAS BIPERSONALES SUBSIDIARIAS A LA CUENTA ÚNICA FISCAL, NÚMEROS 9006494 - 9006516 - 9006532, DEL INSTITUTO DE PREVISIÓN SOCIAL, ABIERTAS EN LA OFICINA PRINCIPAL DEL BANCO DEL ESTADO DE CHILE, EN EL FUNCIONARIADO DEL DEPARTAMENTO DE FINANZAS DEL NIVEL CENTRAL, QUE SE INDICA
+
+Por resolución exenta N° 221, de fecha 3 de junio de 2021, este Director Nacional delegó, a contar de la total tramitación de la presente resolución, las facultades para operar las cuentas corrientes bancarias bipersonales subsidiarias a la cuenta única fiscal números 9006494 - 9006516 - 9006532, abiertas en la Oficina Principal del Banco del Estado de Chile, en el funcionariado del Instituto de Previsión Social que se señala.-
+
+Patricio Coronado Rojo, Director Nacional.
