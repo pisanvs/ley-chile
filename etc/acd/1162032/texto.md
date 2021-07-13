@@ -4,7 +4,11 @@ Vistos: Lo dispuesto en el Título XI del decreto ley Nº 3.500, de 1980, en el 
 
 La Comisión Clasificadora de Riesgo en su 467ª reunión ordinaria acordó lo siguiente:
 
-A. EMISORES EXTRANJEROS:
+A. EMISORES NACIONALES:
+
+1. Informar que Fondo Mutuo Banchile Crecimiento cambió su nombre por Fondo Mutuo Banchile Renta Corto Plazo.
+
+B. EMISORES EXTRANJEROS:
 
 ### 1. Aprobar las cuotas de los siguientes fondos mutuos extranjeros:
 
