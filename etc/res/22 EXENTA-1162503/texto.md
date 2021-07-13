@@ -1,0 +1,5 @@
+SE APRUEBA "MODIFICACIÓN DE CONTRATO DE COMODATO", SUSCRITO EL 06.05.2021, ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA SUPERINTENDENCIA DE SEGURIDAD SOCIAL, RESPECTO DEL INMUEBLE DE PROPIEDAD DE ESTE INSTITUTO UBICADO EN CALLE ATACAMA N° 443, COMUNA DE COPIAPÓ, REGIÓN DE ATACAMA
+
+Por resolución exenta I N° 22, de fecha 3 de junio de 2021, el Jefe del Departamento de Administración e Inmobiliaria aprobó la "Modificación de Contrato de Comodato", suscrito con fecha 6 de mayo de 2021, entre el Instituto de Previsión Social y la Superintendencia de Seguridad Social, por medio del cual las partes acuerdan modificar el Contrato de Comodato, de fecha 27 de enero del año en curso, aprobado por resolución exenta I N° 15, de 31 de marzo de 2021, en los términos establecidos en la Cláusula Segunda del documento.-
+
+Eduardo Cofré Arredondo, Jefe Departamento de Administración e Inmobiliaria.
