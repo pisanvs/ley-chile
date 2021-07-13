@@ -206,7 +206,11 @@ El presente Título tiene por objeto regular el financiamiento de los proyectos 
 
 Distribución de los recursos
 
-Los fondos que la Ley de Presupuestos del Sector Público disponga en la asignación "Aporte Institucional Universidades Estatales Ley Nº 21.094" para las universidades del Estado cuya acreditación institucional, de acuerdo con la ley Nº 20.129, sea de tres años o menos, se distribuirán en partes iguales.
+Los fondos que la Ley de Presupuestos del Sector Público disponga en la asignación "Aporte Institucional Universidades Estatales Ley Nº 21.094" para las universidades del Estado cuya acreditación institucional, de acuerdo con la ley Nº 20.129, sea de tres años o menos, se distribuirán en partes iguales entre los proyectos de fortalecimiento institucional que se presenten.
+
+Las universidades del Estado que presenten un plan de tutoría respecto de otra universidad estatal, en los términos del artículo 33 de la ley 21.094, deberán elaborar el proyecto de manera conjunta con aquella institución que será su tutorada, debiendo, el convenio celebrado al efecto, ser suscrito por ambas instituciones y el Ministerio de Educación.
+
+El proyecto señalado en el inciso anterior podrá considerar que hasta un 30% de los recursos sean transferidos a la universidad tutora, con la finalidad de que ésta pueda financiar directamente las actividades que sean necesarias para cumplir las labores comprometidas. El porcentaje de los recursos para la universidad tutora deberá definirse de mutuo acuerdo, con el límite indicado, y se reflejará tanto en el contenido del proyecto como en el del convenio. Estos recursos serán transferidos a cada una de las universidades, según los términos y condiciones establecidas en el convenio que celebren con el Ministerio de Educación.
 
 Para efectos del presente artículo, se considerará el nivel de acreditación institucional vigente al 30 de septiembre del año anterior al cálculo.
 
@@ -230,7 +234,7 @@ c. Informes del estado de avance de los compromisos establecidos en los convenio
 
 d. Procedimiento de rendición de cuentas, el que deberá ajustarse a la resolución Nº 30, de 2015, de la Contraloría General de la República, o la normativa que la reemplace.
 
-e. Una propuesta, que deberá considerar, a lo menos, las actividades e hitos comprometidos por la Universidad y acordados con el Ministerio.
+e. Una propuesta, que deberá considerar, a lo menos, las actividades e hitos comprometidos por cada Universidad y acordados con el Ministerio.
 
 f. Causales de suspensión y de término anticipado del convenio.
 
