@@ -180,7 +180,7 @@ Los premios y devoluciones se pagarán al portador del correspondiente documento
 
 Asimismo, en los casos en que Polla Chilena de Beneficencia S.A. haya establecido medios de oferta de juego de "Pronósticos Mecanizados", en la cual el sistema informático de captación de apuestas registre la individualización de sus apostadores, podrá pagar el premio o devolución solo a aquel apostador cuya individualización conste en los respectivos registros computacionales del sistema o en el documento entregado por Polla Chilena de Beneficencia S.A. en que conste dicha individualización.
 
-Los valores de los premios no cobrados y caducados incrementarán un fondo destinado a establecer premios especiales, o para promover las ventas que incentiven la participación en el juego, en la forma y con las modalidades que Polla Chilena de Beneficencia S.A. determine.
+Los valores de los premios no cobrados o caducados podrán destinarse a incrementar premios especiales, a la promoción de las ventas o a otra finalidad propia del giro, resguardando la eficiencia en la forma y con las modalidades que el directorio de Polla Chilena de Beneficencia S.A. determine.
 
 Sólo se pagarán aquellos documentos, recibos y/o cartones íntegros, que no presenten adulteraciones, enmendaduras, reconstituciones o que resulten ilegibles o imposibles de cotejar o correlacionar con el respectivo registro computacional, todo ello a juicio exclusivo de Polla Chilena de Beneficencia S.A.
 
