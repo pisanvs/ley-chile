@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN NÚMERO 817 EXENTA, DE 2020, DE LA SECRETARÍA REGIONAL MINISTERIAL DE TRANSPORTES Y TELECOMUNICACIONES REGIÓN DE TARAPACÁ
+
+Mediante resolución exenta N° 817, de 6 de noviembre de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Tarapacá, se autorizó a la Escuela de Conductores Profesionales Automóvil Club de Chile Ltda., RUT 77.323.230-K, domiciliada en Salvador Allende N° 3419, Iquique, representada legalmente por don Juan Carlos Jerez Guirao, a impartir los cursos conducentes a la obtención de la Licencia de Conductor Profesional Clase A2, A3, A4 y A5 regulares, y A3 y A5 con SIT, en la modalidad e-learning, bajo el formato de ejecución sincrónico.-
+
+Carlos Navarrete Cortés, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región de Tarapacá.
