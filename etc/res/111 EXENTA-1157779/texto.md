@@ -230,6 +230,8 @@ Los honorarios correspondientes al PHS se pagarán con cargo a los recursos de a
 
 > **Nota.** El numeral 1° de la Resolución 167 Exenta, Vivienda, publicada el 07.05.2021, modifica la fecha de entrega de la carta de la programación establecida en la tabla 1 del resuelvo 5 de la presente norma en en los términos que la citada norma indica.
 
+> **Nota.** NOTA 1 El numeral 1° de la Resolución 277 Exenta, Vivienda, publicada el 14.07.2021, modifica la fecha de entrega de la carta de la programación establecida en la tabla 1 del resuelvo 5 de la presente norma en en los términos que la citada norma indica.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Carlos Prieto Rojas, Secretario Regional Ministerial de Vivienda y Urbanismo Región de Tarapacá.
 
 ANEXO 1
@@ -246,7 +248,7 @@ a) Informe diagnóstico del condominio actualizado con la justificación de repo
 
 b) Carta compromiso de trabajo entre PSAT, representante y beneficiarios.
 
-c) Certificado de factibilidad sanitaria vigente.
+c) Eliminada.
 
 d) Copia certificado de título profesional proyectista.
 
