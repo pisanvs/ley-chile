@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº389, de 17 de junio de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 1, para la obra: MEJORAMIENTO RUTA Q-30, LA MONA - ALAMO HUACHO, que figura a nombre de ALVEAR ALMENDRAS ROLANDO ARTURO, rol de avalúo 1504-107, Comuna de LOS ANGELES, REGION DEL BIOBÍO, superficie 375 m2. La Comisión de Peritos integrada por VALESKA CAROLINA ALÉ GOÑI, CONSUELO LORETO ZULOAGA SANHUEZA y GONZALO ANDRÉS SUAZO FIGUEROA, mediante informe de tasación de 24 de enero de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.384.718 para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
