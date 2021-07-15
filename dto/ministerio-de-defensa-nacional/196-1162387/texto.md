@@ -56,11 +56,11 @@ Institución Armada
 
 Grado Vicealmirante
 
-Apellidos Marcic Conley
+Apellidos FERNÁNDEZ Morales
 
-Nombre Yerko
+Nombre José
 
-RUN 8.882.710-4
+RUN 9.105.402-7
 
 REEMPLAZANTE
 
@@ -160,11 +160,11 @@ Institución Armada
 
 Grado Contraalmirante
 
-Apellidos Navajas Santini
+Apellidos CABRERA Salazar
 
-Nombre Ramiro
+Nombre Fernando
 
-RUN 9.056.738-1
+RUN 10.192.344-4
 
 REEMPLAZANTE
 
@@ -186,11 +186,11 @@ Institución Ejército
 
 Grado General de Brigada
 
-Apellidos Cuéllar Loyola
+Apellidos AMENGUAL Escobar
 
-Nombre Luis
+Nombre Patricio
 
-RUN 11.565.532-9
+RUN 10.534.643-3
 
 REEMPLAZANTE
 
@@ -290,11 +290,11 @@ Institución Ejército
 
 Grado General de Brigada
 
-Apellidos Núñez Morales
+Apellidos PASCUAL Robin
 
-Nombre Marcelo
+Nombre Pedro
 
-RUN 9.028.592-0
+RUN 9.233.710-3
 
 REEMPLAZANTE
 
@@ -354,11 +354,11 @@ Institución Armada
 
 Grado Contraalmirante
 
-Apellidos Ahrens Angulo
+Apellidos ARENAS Menares
 
-Nombre Alberto
+Nombre Mauricio
 
-RUN 8.602.772-0
+RUN 7.689.523-6
 
 REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO
 
