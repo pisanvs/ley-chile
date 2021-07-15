@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 839, del 06 de julio de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Barros Arana N° 258, comuna de Chillán, Rol de Avalúo N° 00606-00060, de aparente dominio de Jara Aedo Gerardo. La parte afecta a expropiación parcial de terreno es de 9,76 m2 y cuyos linderos particulares, enmarcados en el plano S16R-044, para el proyecto "Mejoramiento Avenida Diagonal Las Termas comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2186. Comisión Peritos integrada por el Arquitecto doña Priscila Andrea Encalada Rueda, Arquitecto doña Cecilia María Carrasco Verdugo y por el Constructor Civil don Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $1.750.374.-
+
+Director Serviu Región de Ñuble.
