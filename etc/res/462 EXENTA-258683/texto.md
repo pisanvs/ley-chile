@@ -342,6 +342,10 @@ Manuel General Toesca Ambos
 
 Rodríguez Mackenna sentidos
 
+Av. Padre Apóstol Manuel N-S
+
+Hurtado Santiago Thompson
+
 No obstante lo anterior, en el eje Gran Avenida José Miguel Carrera, entre calle Riquelme y Goycolea, se establecerá adicionalmente una pista de uso exclusivo para buses de transporte público, en el costado izquierdo de la calzada, con sentido sur-norte
 
 2.- También podrán circular por estas pistas exclusivas, los siguientes vehículos:
