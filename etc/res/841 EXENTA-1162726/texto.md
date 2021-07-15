@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 841, del 06 de julio de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Avenida Huambalí N° 22, comuna de Chillán, Rol de Avalúo N° 00680-00002, de aparente dominio de Suc. Venegas Quijada Ana Andrea. La parte afecta a expropiación total de terreno es de 224,42 m2 (Lote 3) y total de edificación es de 156,79 m2, cuyos linderos particulares, enmarcados en el plano S16R-015, para el proyecto "Mejoramiento Avenida Huambalí comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, Constructor Civil don Palo Renzo Zerga Arancibia y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $85.179.546.-
+
+Director Serviu, Región de Ñuble.
