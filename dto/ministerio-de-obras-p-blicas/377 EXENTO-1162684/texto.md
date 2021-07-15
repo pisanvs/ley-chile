@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 377 de 17 de junio de 2021, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 117 para la obra: MEJORAMIENTO RUTA NAHUELBUTA. SECTOR B. SUBSECTOR 5: VARIANTE RENAICO-HUEQUÉN, Región de la Araucanía, que figura a nombre de CERDA AGURTO GERARDO DEL CARME, rol de avalúo 1438-33 de la comuna de Renaico, superficie 1.395 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 5 de 6 de enero de 2021, integrada por Mónica del Carmen Conejeros Rudloff, Karin Alicia Ernst Elizalde y Francisco Covarrubias Noé, fijó con fecha 17 de febrero de 2021, el valor provisional de las indemnizaciones en la cantidad de $8.907.500 para el lote N° 117. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
