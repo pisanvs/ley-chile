@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°439, de 30 de junio de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c) y 14° letra e) del DFL. MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N° 206 de 1960; artículo 10 de la Ley N° 18.772, se expropió para la EMPRESA DE TRANSPORTE DE PASAJEROS METRO S.A, el lote de terreno N° 94L7, para la obra: PROYECTO LÍNEA 7 METRO S.A., que figura a nombre de WALMART CHILE S.A., rol de avalúo 2054-4, Comuna de LAS CONDES, REGION METROPOLITANA DE SANTIAGO, superficie 1.223,16 m2. La Comisión de Peritos integrada por JUAN ARMANDO SALAS URZUA, MUFIDA VIOLA ABUAWAD ELIAS y VALENTINA ANDREA CHACALTANA SIMS, mediante informe de tasación de fecha 14 de diciembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $2.991.241.500.- para el lote N°94L7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
