@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 415, de 25 de junio de 2021, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno 7 y 8, Rol de avalúo 271-22, comuna de Quintero, superficies 133 y 16.426 m2., para la obra: MEJORAMIENTO RUTA F-216 SECTOR: VALLE ALEGRE - CRUCE RUTA F-30-E, COMUNA DE QUINTERO, PROVINCIA Y REGIÓN DE VALPARAÍSO. La comisión de peritos, integrada por MANUEL HERNÁN DÍAZ FARFÁN, RAMÓN ENRIQUE DOMINGO LABARCA y MARÍA ISABEL RÍOS MARCUELLO, fijó el valor de tasación con fecha 11 de diciembre de 2017, acordándose la indemnización con su propietaria INVERSIONES RÍO PERDIDO S.A., en la cantidad total de $76.472.021.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2186, de 1978.
+
+Fiscalía MOP.
