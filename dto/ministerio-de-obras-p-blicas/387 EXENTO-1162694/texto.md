@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP, (exento) N°387, de 17 de junio de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N°15.840 y del DFL MOP N°206 de 1960, se expropió el lote de terreno N°245-A, para la obra: REPOSICIÓN PAVIMENTO RUTA U-40, SECTOR: OSORNO - INTERSECCIÓN RUTA U-52, que figura a nombre de MARIELA CRISTINA BARRIA AYAMANTE, rol de avalúo 4218-223, Comuna de SAN JUAN DE LA COSTA, REGIÓN DE LOS LAGOS, superficie 273 m2. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRES ECHEVERRIA CAMPO y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 09 de septiembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $12.821.646, para el lote N°245-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N°2186, de 1978.
+
+Fiscalía MOP.
