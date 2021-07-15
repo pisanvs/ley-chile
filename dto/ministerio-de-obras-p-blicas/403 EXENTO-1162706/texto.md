@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 403 de 25 de junio de 2021, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 132-A3, comuna de Licantén, Rol de avalúo 169-444, superficie 2.359 m2., para la obra MEJORAMIENTO Y CONSTRUCCIÓN CAMINO COSTERO NORTE SECTOR BOYERUCA CRUCE RUTA J-60, COMUNAS DE VICHUQUÉN Y LICANTÉN, PROVINCIA DE CURICÓ, REGIÓN DEL MAULE. La comisión de peritos, integrada por PATRICIO ULISES DURÁN MARCOS, PAULA SOLEDAD GONZÁLEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, fijó el valor de tasación con fecha 09 de junio de 2020, acordándose la indemnización con su propietario BENEDICTO DEL CARMEN MUÑOZ VIDAL, en la cantidad de $3.298.957.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
