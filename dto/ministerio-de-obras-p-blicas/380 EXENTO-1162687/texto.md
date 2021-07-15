@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 380 de 17 de junio de 2021, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 19 para la obra: MEJORAMIENTO RUTA NAHUELBUTA. SECTOR B. SUBSECTOR 5: VARIANTE RENAICO-HUEQUÉN, Región de la Araucanía, que figura a nombre de DIAZ GATICA HECTOR HUGO, rol de avalúo 68-2 de la comuna de Renaico, superficie 2.743 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 3 de 6 de enero de 2021, integrada por Carmen Pilar Ríos Marcuello, Tatiana Yasmín Gutiérrez Ortiz y Valeria Francisca Madariaga Tordecilla, fijó con fecha 23 de febrero de 2021, el valor provisional de las indemnizaciones en la cantidad de $9.488.900 para el lote N° 19. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
