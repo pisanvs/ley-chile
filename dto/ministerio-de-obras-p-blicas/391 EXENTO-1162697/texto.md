@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°391, de 17 de junio de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.1 y 3, para la obra: SISTEMA DE AGUA POTABLE RURAL MALLIN DEL TREILE RECINTO CAPTACION, que figuran a nombre de PAILLA MILLAL PEDRO JOSE y PAILLA MILLAL PEDRO JOSE, roles de avalúo 50-138 y 50-138, Comuna de LONQUIMAY, REGION DE LA ARAUCANÍA, superficies 24 y 120 m2 respectivamente. La Comisión de Peritos integrada por PATRICIA ANGELICA MORALES RIVERA, SONIA CATALINA GALLEGOS BLANCH y EVALDO ROBERTO CONTRERAS ROA, mediante informes de tasación de fecha 22 de marzo de 2021, fijó el monto de las indemnizaciones provisionales en las cantidades de $13.200.- para el lote N°1 y $156.000.- para el lote N°3. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
