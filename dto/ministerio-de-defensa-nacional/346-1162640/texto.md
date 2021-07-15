@@ -1,0 +1,7 @@
+SEGUNDA RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 346, de fecha 17 de diciembre de 2020, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Producciones e Inversiones Bahía Sur Limitada, RUT 77.521.760-K, Segunda Renovación de Concesión Marítima Menor, sobre un sector de playa en la comuna de Pucón, con vencimiento el 31 de diciembre de 2025. Las coordenadas geográficas de esta concesión son: VM1, Latitud Sur 39°16'20.27818", Longitud Oeste 71°58'48.74998". El objeto de la Concesión consiste en continuar amparando y usufructuando de la habilitación de un local comercial, del tipo cafetería, terraza y módulo de servicios higiénicos y camarines, con una superficie total de 63 m2. Cabe citar que todas estas instalaciones cuentan con la debida dotación de agua potable y sistema de tratamiento de aguas servidas, conectados a la red de alcantarillado público de la Empresa Aguas Araucanía. La concesionaria pagará la renta anual de 32,37 UTM con beneficio a la I. Municipalidad de Pucón.
+
+El presente decreto se encuentra visado por la Capitanía de Puerto del Lago Villarrica.-
+
+Héctor Rojas Martín, Capitán de Corbeta LT, Capitán de Puerto Lago Villarrica.
