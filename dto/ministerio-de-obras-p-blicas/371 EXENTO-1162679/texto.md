@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°371, de 11 de junio de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 324 y 332, para la obra: REPOSICION PAVIMENTO RUTA L-111-11. SECTOR COLBUN-PANIMAVIDA-LINARES, que figura a nombre de PINEDA MUNOZ TEOLINDA Y OTRO y ORTEGA SUAZO ANA MARIA Y OTROS, roles de avalúo 25-357 y 29-221, Comuna de COLBUN, REGION DEL MAULE, superficies 136 y 89 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 09 de marzo de 2020, fijó el monto de la indemnización provisional en la cantidad de $5.197.900 para el lote N°324, y $1.944.100 para el lote N°332. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
