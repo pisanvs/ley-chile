@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 417 de 25 de junio de 2021, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 25, 27 y 29, Rol de avalúo 195-3, comuna de Puchuncaví, superficies 1.194, 838 y 30 m2. respectivamente, para la obra MEJORAMIENTO RUTA F-190 S: VALLE ALEGRE - PUCHUNCAVÍ, COMUNA DE PUCHUNCAVÍ, PROVINCIA DE VALPARAÍSO. La comisión de peritos, integrada por YAZMÍN MERCEDES BALBOA ROJAS, HERMAN EDGARDO FIGUEROA ZÚÑIGA y PEDRO IGNACIO ZEGERS RIESCO, fijó el valor de tasación con fecha 21 de abril de 2017, acordándose la indemnización con sus propietarios ENRIQUE ACEVEDO VEAS Y OTROS, en la cantidad total de $13.786.063.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
