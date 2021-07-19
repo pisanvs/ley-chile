@@ -5266,17 +5266,7 @@ Si bien la mayor parte de los antecedentes antes señalados se refieren a accion
 
 ### III. EMISION DE BONOS
 
-De conformidad con lo dispuesto en el N°2 del artículo 69 y en la letra b) del artículo 115 de la Ley General de Bancos, y en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, los bancos están facultados para emitir bonos sin garantía especial, a la orden o al portador.
-
-La emisión de bonos deberá ser acordada por el directorio de la institución o por la junta de accionistas cuando sean canjeables por acciones. En el caso de sucursales de bancos extranjeros, bastará con que suscriba la escritura el agente designado para administrar la sucursal con plenas facultades.
-
-Para inscribir una emisión de bonos en el Registro de Valores, los bancos deberán presentar una solicitud de inscripción acompañada de la escritura pública de emisión y de los antecedentes que se indican en este título.
-
-El intermediario que ofrezca los bonos al público, o el emisor en el caso de colocación directa, deberá entregar al inversionista un prospecto con la información que se indica en el N° 3 de este título. Adicionalmente, el colocador deberá mantener a disposición del público copia de los demás antecedentes remitidos a esta Superintendencia para la inscripción de la emisión y los estados financieros posteriores a aquellos incluidos en el prospecto.
-
-Esta información no podrá ser utilizada para publicitar la emisión de los valores si no hubiere sido remitida previamente a esta Superintendencia para su conocimiento.
-
-Cualquier publicidad sobre la futura emisión que se realice antes de la inscripción en el Registro de Valores, deberá indicar expresamente que está sujeta al cumplimiento de ese requisito.
+Para inscribir en el Registro de Valores una emisión de bonos distintos de aquellos que tratan los Capítulo 21-2 y 21-3 de esta recopilación, la entidad deberá seguir el procedimiento dispuesto en la Sección IV de la Norma de Carácter General N°30, o la que la modifique o reemplace.
 
 1. Antecedentes que deben acompañarse a la solicitud de inscripción en el Registro de Valores.
 
