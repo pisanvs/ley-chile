@@ -54,6 +54,10 @@ En aquellos casos en que, por aplicación de esta medida en conjunto con la susp
 
 La medida se aplicará a todas las subvenciones y sus incrementos que para su cálculo base utilicen las asistencias medias promedios obtenidas en conformidad al artículo 13, del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 2, de 1996, sobre subvención del Estado a establecimientos educacionales.
 
+#### Artículo transitorio
+
+Durante el año 2021, podrá incrementarse la cantidad de 15 días indicada en el artículo 2° del presente reglamento, previa autorización de la Dirección de Presupuestos.
+
 Anótese, tómese razón y publíquese.- ANDRÉS CHADWICK PIÑERA, Vicepresidente de la República.- Marcela Cubillos Sigall, Ministra de Educación.
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Raúl Figueroa Salas, Subsecretario de Educación.
