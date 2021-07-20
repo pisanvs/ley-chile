@@ -404,17 +404,27 @@ Esperanza de concentrado de
 
 aduaneras.
 
-20.Terminal Marítimo Permanente Paso de personas,
+20.Terminal Permanente Paso de
 
-Vopak Oxiquim, exportación e importación
+Marítimo personas,
 
-en la comuna de de graneles líquidos,
+Oxiquim, exportación e
 
-Mejillones rancho de naves y
+en la importación
+
+comuna de de graneles
+
+Mejillones líquidos,
+
+rancho de
+
+naves y
 
 todo tipo de
 
-operaciones aduaneras.
+operaciones
+
+aduaneras.
 
 21.Muelle Terquim Permanente Paso de personas,
 
@@ -830,6 +840,16 @@ y rancho de
 
 naves.
 
+9. Terminal Permanente Importación
+
+Marítimo y exportación
+
+Oxiquim de graneles
+
+líquidos
+
+y gaseosos.
+
 H. SUJETOS A LA JURISDICCION DE LA ADUANA DE LOS ANDES:
 
 Punto Habilitado Habilitación Operaciones aduaneras
@@ -1082,23 +1102,19 @@ tránsito de graneles
 
 líquidos y gaseosos.
 
-24. Paso de Reigolil Temporal Paso de
+24. Paso de Reigolil Temporal Paso de Personas
 
-39°07' S Personas
+39°07' S (Rogativas Indígenas)
 
-71°25' W" (Rogativas
+71°25' W"
 
-Indígenas)
+25. Aeródromo La Permanente Paso de personas y
 
-25. Aeródromo La Permanente Paso de
+Araucanía todo tipo de
 
-Araucanía personas
+38º55'33.24" S operaciones
 
-38º55'33.24" S y todo tipo
-
-72º39'05.73" W de operaciones
-
-aduaneras
+72º39'05.73" W aduaneras
 
 26. Puerto Permanente Operaciones de
 
