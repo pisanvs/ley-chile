@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "PARQUE FOTOVOLTAICO ALCÁZAR SOLAR"
+
+De conformidad con lo dispuesto en el artículo 94 del DS Nº 40/2012, del Ministerio de Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta Nº 186 de fecha 7 de julio de 2021, la Directora Regional del Servicio de Evaluación Ambiental de la Región del Biobío, ha resuelto dar inicio a un proceso de participación ciudadana por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley Nº 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto: "Parque Fotovoltaico Alcázar Solar", cuyo proponente es Juan Solar SpA.
+
+El Proyecto se sitúa en la Región del Biobío, provincia del Biobío, comuna de Los Ángeles. El proyecto consiste en la construcción y operación de una planta de paneles fotovoltaicos para la generación de energía eléctrica, contemplando la instalación de 21.060 paneles solares, para la generación de hasta 9 MW de energía eléctrica, la cual será evacuada mediante una línea eléctrica soterrada de 15kV, que se eleva a través de un poste para empalmarse con un circuito aéreo particular localizado en el área urbana de Los Ángeles. La vida útil del proyecto se estima de 30 años.
+
+Para conocimiento de la comunidad, cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del DS Nº 40/2012 y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental, de 20 días hábiles, contados a partir del día hábil siguiente de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Biobío, ubicada en calle Lincoyán 145, Concepción, en horario de atención entre las 08:30 a 13:30, en días hábiles de lunes a viernes, así como también podrá acceder a ella a través del sitio web https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docld=0e/8d/c371a622d184fdd5ec2f8ec9e13404006257.-
+
+Silvana Suanes Araneda, Directora Regional, Servicio de Evaluación Ambiental Región del Biobío.
