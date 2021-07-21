@@ -44,6 +44,8 @@ PUERTO NATALES:
 
 . El tramo urbano de la Ruta 9, desde el límite urbano Nor-Poniente hasta el límite urbano Oriente, a través de: Ruta 9.
 
+. El sistema vial que interconecta la Ruta 9 con la Ruta Y-330, desde el límite urbano norte al límite urbano sur, a través de Avda. Última Esperanza y Avda. España. Y Avda. Santiago Bueras y Prolongación de Avda. Última Esperanza.
+
 4° Las calles o avenidas declaradas caminos públicos en el presente decreto, sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
 PORVENIR
