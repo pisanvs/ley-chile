@@ -44,6 +44,8 @@ Para la postulación del grupo podrán incorporarse personas beneficiarias de un
 
 Las Entidades Patrocinantes municipales podrán presentar postulaciones al presente llamado, actuando en coordinación con otra Entidad Patrocinante para el desarrollo del proyecto y la ejecución de obras. Corresponderá al Serviu determinar los montos a pagar a cada una de estas Entidades por concepto de honorarios por la prestación de Servicios de Asistencia Técnica, de acuerdo a la resolución exenta Nº 1.875 (V. y U.), de 2015, y al resuelvo 11 de esta resolución.
 
+Mientras dure el estado de excepción constitucional decretado por DS N° 104, de 18 de marzo de 2020, del Ministerio del Interior y Seguridad Pública, para efectos del presente Llamado, y en relación a lo señalado en el inciso segundo del artículo 7 del DS N° 49 (V. y U.), de 2011, se permitirá la postulación de grupos organizados en que a lo menos la mitad de sus representantes legales postulen junto a éste, así como aquellos que se encuentren tramitando la obtención de su personalidad jurídica.
+
 3. Los recursos involucrados para la selección de grupos postulantes por región, comuna y área, según corresponda, son los siguientes:
 
 El número de grupos a seleccionar en cada región alcanzará hasta el número de subsidios susceptibles de ser financiados con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de Asistencia Técnica y Fiscalización Técnica de Obras, pudiendo practicarse redistribuciones y/o aumentos, los que serán sancionados mediante resolución.
