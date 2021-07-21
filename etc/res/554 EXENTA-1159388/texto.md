@@ -66,7 +66,7 @@ Resolución:
 
 8. Se aceptará la presentación de cédulas de identidad que no estén vigentes, en conformidad a lo establecido en el DS Nº 11, que extiende la fecha de vencimiento de las cédulas de identidad para chilenos, y en el DS Nº 116, que extiende vigencia de cédula de identidad para extranjeros, ambos decretos del Ministerio de Justicia y Derechos Humanos.
 
-9. El monto mensual de la renta de arrendamiento que se podrá acordar en los contratos que se celebren por los beneficiarios del presente llamado en todo el país, no podrá superar las 11 UF, según el valor que tenga ésta a la fecha de la suscripción del contrato, a excepción de los contratos que se celebren en todas las comunas de las regiones de Aysén y Magallanes y las comunas de Arica, Camarones, Iquique, Alto Hospicio, Antofagasta, Calama, Copiapó, Isla de Pascua y Juan Fernández, en que el monto de la renta de arrendamiento podrá ser de hasta 13 UF.
+9. El monto mensual de la renta de arrendamiento que se podrá acordar en los contratos que se celebren por los beneficiarios del presente llamado en todo el país, no podrá superar las 11 UF, según el valor que tenga ésta a la fecha de la suscripción del contrato, a excepción de los contratos que se celebren en las regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Metropolitana, Aysén y Magallanes, en que el monto de la renta de arrendamiento podrá ser de hasta 13 UF.
 
 10. Establécese que, en todo aquello que no se encuentre regido por el presente llamado, se aplicará lo dispuesto en el DS Nº 52 (V. y U.), de 2013, y sus modificaciones, que regula el Programa de Subsidio de Arriendo de Vivienda.
 
