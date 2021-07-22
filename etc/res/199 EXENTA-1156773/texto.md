@@ -44,9 +44,9 @@ Resolución:
 
 7. Los productos cosméticos destinados a la higiene de manos con ingredientes de acción antibacteriana no podrán hacer otras recomendaciones de uso tales como limpieza y/o desinfección de superficies inanimadas.
 
-8. Los titulares de los registros cosméticos o notificaciones de productos destinados a la higiene de manos que contengan los ingredientes señalados el número 2 de la presente resolución, tendrán un plazo de 120 días corridos, contados a partir de la fecha de publicación de este acto, en el Diario Oficial, para efectuar las modificaciones en las formulaciones, rotulados, promoción y registro de la forma que se indica.
+8. Los titulares de los registros cosméticos o notificaciones de productos destinados a la higiene de manos que contengan los ingredientes señalados el número 2 de la presente resolución, tendrán un plazo de 240 días corridos, contados a partir de la fecha de publicación de este acto, en el Diario Oficial, para efectuar las modificaciones en las formulaciones, rotulados, promoción y registro de la forma que se indica.
 
-9. Los productos cosméticos destinados a la higiene de manos con ingredientes de acción antibacteriana que posean registro cosmético y se promocionen con la frase "elimina el 99,9% de bacterias" u otras similares tendrán un plazo de 120 días corridos, contados a partir de la fecha de la publicación de la presente resolución en el Diario Oficial, para presentar los estudios de respaldo científico-técnico correspondiente, ante el Instituto de Salud Pública.
+9. Los productos cosméticos destinados a la higiene de manos con ingredientes de acción antibacteriana que posean registro cosmético y se promocionen con la frase "elimina el 99,9% de bacterias" u otras similares tendrán un plazo de 240 días corridos, contados a partir de la fecha de la publicación de la presente resolución en el Diario Oficial, para presentar los estudios de respaldo científico-técnico correspondiente, ante el Instituto de Salud Pública.
 
 10. La presente resolución regirá para todo registro sanitario que se otorgue con posterioridad a la fecha de su publicación en el Diario Oficial.
 
