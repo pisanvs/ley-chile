@@ -1,0 +1,13 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "SUBESTACIÓN LA SEÑORAZA 220/66 KV"
+
+De conformidad con lo dispuesto en el artículo 94 del DS Nº 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta Nº 190 de fecha 9 de julio de 2021, la Directora Regional del Servicio de Evaluación Ambiental de la Región del Biobío, ha resuelto dar inicio a un proceso de participación ciudadana por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley Nº 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto: "Subestación La Señoraza 220/66 kV", cuyo proponente es Sociedad Austral de Transmisión Troncal S.A.
+
+El Proyecto se sitúa en la Región del Biobío, en la provincia del Biobío, comuna de Laja. El Proyecto considera la construcción de una nueva subestación eléctrica (S/E) que incorpora un patio en 220 kV en configuración barra simple más barra de transferencia y un patio de 66 kV en la misma configuración, la instalación de un nuevo transformador de 220/66 kV con capacidad para al menos 25 MVA y sus respectivos paños de conexión en ambos niveles de tensión, la construcción y operación de dos líneas de transmisión, una línea de 1x220 kV de 1.277 m de longitud ubicada entre la Nueva Subestación La Señoraza 220/66 kV ("El Proyecto") y la Subestación Celulosa Laja, y la otra línea de 1x66 kV de 1.881 m de longitud ubicada entre la Subestación La Señoraza y la Subestación Laja, y sus paños de conexión a las subestaciones existentes.
+
+Para conocimiento de la comunidad, cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del DS Nº 40/2012 y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental, de 20 días hábiles, contados a partir del día hábil siguiente de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Biobío, ubicada en calle Lincoyán 145, Concepción, en horario de atención entre las 08:30 a 13:30, en días hábiles de lunes a viernes, así como también podrá acceder a ella a través del sitio web:
+
+https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docld=80/d7/dcff0e10506fce621f30aa427640a68e829d.
+
+Silvana Suanes Araneda, Directora Regional, Servicio de Evaluación Ambiental Región del Biobío.
