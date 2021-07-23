@@ -302,7 +302,7 @@ Los formatos tipos a que aluden los artículos 20 y 29 de esta resolución, se p
 
 #### Artículo tercero
 
-Las rendiciones de cuenta de los servicios públicos personas o entidades del sector privado que sean exigibles en formato físico o electrónico durante el primer semestre del año 2020, podrán efectuarse, de manera excepcional, en una única rendición dentro de los 15 primeros días hábiles administrativos del mes de julio de 2020.
+Las rendiciones de cuentas de los servicios públicos, personas o entidades del sector privado que, siendo exigibles durante el segundo semestre del año 2020 no fueron presentadas, y aquellas que sean exigibles desde enero hasta julio del año 2021, podrán efectuarse, de manera excepcional, en una única rendición dentro de los 15 primeros días hábiles administrativos del mes de agosto de 2021. A su vez, aquellas rendiciones exigibles desde agosto hasta noviembre del año 2021, podrán efectuarse en una única rendición dentro de los 15 primeros días hábiles administrativos del mes de diciembre de 2021.
 
 La decisión de acogerse a este plazo excepcional de rendición recaerá en el receptor o ejecutor de los recursos respectivos, debiendo comunicárselo electrónicamente al otorgante dentro de los 15 primeros días hábiles administrativos del mes siguiente al de la total tramitación de esta modificación.
 
@@ -316,7 +316,7 @@ No obstante lo dispuesto en el artículo 18, inciso segundo, de la resolución N
 
 #### Artículo quinto
 
-Sin perjuicio de lo previsto en el inciso primero del artículo tercero transitorio, los servicios públicos y entidades del sector privado que se encuentren autorizados para rendir cuenta a través del Sistema de Rendición Electrónico de Cuentas, SISREC, deberán registrar "sin movimiento" los respectivos meses del primer semestre del año 2020.
+Sin perjuicio de lo previsto en el inciso primero del artículo tercero transitorio, los servicios públicos y entidades del sector privado que se encuentren autorizados para rendir cuenta a través del Sistema de Rendición Electrónico de Cuentas, SISREC, deberán registrar "sin movimiento" los respectivos meses.
 
 Anótese, tómese razón y publíquese.- Ramiro Mendoza Zúñiga, Contralor General de la República.
 
