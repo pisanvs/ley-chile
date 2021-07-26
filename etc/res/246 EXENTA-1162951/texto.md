@@ -1,0 +1,5 @@
+RESOLUCIÓN Nº 246 EXENTA, DEL 20 DE JULIO DE 2021
+
+Selecciona Proyectos y sus respectivas nóminas de postulantes seleccionados correspondientes a la primera selección del llamado regional extraordinario en condiciones especiales 2021 y dispone asignación de recursos para la Región de Arica y Parinacota, que se destinarán al financiamiento de Subsidios para el Desarrollo de Proyectos del Programa de Protección al Patrimonio Familiar, Título II, Mejoramiento de la Vivienda, Regulado por el DS N° 255 (V. y U.), Para la Atención de Viviendas Emplazadas en Suelo Salino, correspondientes al polígono de intervención Etapas Piloto I y II, además de las viviendas emplazadas en la Etapa Piloto de Emergencia, pertenecientes al sector sur y norte respectivamente, de la comuna de Arica, Región de Arica y Parinacota.-
+
+Francisco Vallejo Martínez, Secretario Regional Ministerial de Vivienda y Urbanismo Región de Arica y Parinacota.
