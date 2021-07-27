@@ -52,9 +52,13 @@ b) Controles remotos que operen en las siguientes frecuencias o bandas de frecue
 
 b.1) Controles remotos para abrir puertas
 
-Bandas de frecuencias Intensidad de campo eléctrico
+Bandas de frecuencias Intensidad de
 
-(µV/m) a 30 metros
+campo eléctrico
+
+(µV/m) a 30
+
+metros
 
 117 a 142,2 kHz 200
 
@@ -68,21 +72,25 @@ Bandas de frecuencias Intensidad de campo eléctrico
 
 b.2) Otros controles remotos (se excluyen los controles remotos para aeromodelos y para abrir puertas)
 
-Frecuencias o bandas Intensidad de campo eléctrico
+Frecuencias o bandas Intensidad de
 
-de frecuencias o potencia
+de frecuencias campo eléctrico
 
-117 a 142,2 kHz 20 µV/m a 300 metros
+o potencia
 
-26.995; 27.045; 27.095;
+117 a 142,2 kHz 20 µV/m
 
-27.145; 27.195;
+26.995; 27.045; 27.095; a 300
+
+27.145; 27.195; metros
 
 27.255; 29.905; 29.945 y
 
-29.985 kHz 10 mV/m a 3 metros
+29.985 kHz 10 mV/m
 
-315 MHz 10mW
+a 3 metros
+
+315 MHz 10 mW
 
 430 a 440 MHz 10 mW
 
@@ -116,19 +124,27 @@ d.7) Además de las frecuencias o bandas de frecuencias antes señaladas, los te
 
 e) Equipos para identificación por radiofrecuencia (RFID) que operen en las siguientes bandas de frecuencias con una intensidad de campo eléctrico que no exceda los valores que se indican a continuación:
 
-Bandas de frecuencias Intensidad de campo eléctrico
+Bandas de frecuencias Intensidad
 
-o potencia radiada
+de campo
 
-119 a 135 kHz 20 µV/m a 300 metros
+eléctrico
 
-13.553 a 13.567 kHz 20 mV/m a 30 metros
+119 a 135 kHz 20 µV/m a
 
-433,5 a 434,5 MHz y
+300 metros
 
-902 a 928 MHz 80 mV/m a 3 metros
+13.553 a 13.567 kHz 20 mV/m a
 
-2.400 a 2.483,5 MHz 50 mV/m a 3 metros
+433,5 a 434,5 MHz 30 metro
+
+y 902 a 928 MHz 80 mV/m a
+
+3 metros
+
+2.400 a 2.483,5 MHz 50 mV/m a
+
+3 metros
 
 915 - 928 MHz 500 mW
 
@@ -142,7 +158,9 @@ f.1) La portadora del equipo sensor operará dentro de las bandas que se indican
 
 Frecuencia nominal de
 
-operación (MHz) Límites de la banda (MHz)
+operación (MHz) Límites de
+
+la banda (MHz)
 
 915 ± 13
 
@@ -164,7 +182,9 @@ g) Sistemas de Comunicaciones de Implantación Médica (MICS) que operen en la b
 
 h) Otros equipos empleados para aplicaciones médicas que operen en las siguientes bandas de frecuencias con una intensidad de campo eléctrico o potencia máxima radiada que no exceda los valores que se indican a continuación:
 
-Bandas de frecuencias Intensidad de campo eléctrico
+Bandas de frecuencias Intensidad de
+
+campo eléctrico
 
 o potencia
 
@@ -180,13 +200,15 @@ o potencia
 
 2.400 a 2.483,5 MHz 50 mV/m a 3 metros
 
+13.553 a 13.567 kHz 20 mV/m a 30 metros
+
 i) Equipos empleados como sistemas de radar en vehículos que operen en la banda de 77 a 81 GHz con una P.I.R.E. máxima de 55 dBm conforme a lo dispuesto en la Recomendación UIT-R M.1452-2, en la banda de frecuencias 76 a 77 GHz con una potencia máxima entregada a la antena de 10 mW y con antenas con una ganancia máxima de 40 dB y, en la banda 24.000 a 24.250 MHz, con una potencia máxima radiada de 100 mW.
 
 j) Otros equipos que cumplan con lo que se establece a continuación:
 
 j.1) Operen en las bandas de frecuencias 2.400 a 2.483,5 MHz; 5.250 a 5.350 MHz; 5.470 a 5.725 MHz y 5.725 a 5.850 MHz, con una potencia máxima radiada de 1 W y con técnicas de espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que funcionen con un ancho de banda mínimo de 10 MHz y permitan la compartición de frecuencias.
 
-También podrán operar en la banda de frecuencias 5.150 a 5.250 MHz, con una potencia máxima radiada de 1 W y una densidad de potencia máxima radiada que no exceda 17 mW/MHz en cualquier banda de 1 MHz. Además, los equipos deberán emplear alguna de las técnicas de compartición de frecuencias antes señaladas. La operación de los equipos estará restringida al interior de recintos cerrados (casas, edificios, oficinas, fábricas, almacenes, etc.).
+También podrán operar en la banda de frecuencias 5.150 a 5.250 MHz, con una potencia máxima radiada de 1 W y una densidad de potencia máxima radiada que no exceda 17 dBm/MHz en cualquier banda de 1 MHz. Además, los equipos deberán emplear alguna de las técnicas de compartición de frecuencias antes señaladas. La operación de los equipos estará restringida al interior de recintos cerrados (casas, edificios, oficinas, fábricas, almacenes, etc.).
 
 Los equipos de acceso, también aludidos como AP, de baja potencia, que operen en la banda de frecuencias 5.925 a 7.125 MHz, deberán ser para uso exclusivo en interiores y cumplir con los siguientes requisitos de potencia de transmisión:
 
@@ -202,6 +224,8 @@ Los dispositivos terminales de usuarios que están asociados con el equipo AP de
 
 - Densidad espectral máxima de -1 dBm / MHz.
 
+No obstante lo mencionado en los incisos tercero al quinto del presente literal, podrán operar dispositivos en exteriores, que empleen baterías internas, con potencia PIRE media máxima de 17 dBm.
+
 Los equipos que cumplan con las características señaladas en el presente literal, también podrán ser empleados para la provisión de conectividad a internet con fines no comerciales. No obstante lo anterior, los equipos de radiocomunicaciones empleados para los mismos fines antes señalados que no cumplan con lo establecido en este literal, deberán contar con la autorización correspondiente, conforme a lo establecido en las normas técnicas que regulan el uso de las respectivas bandas de frecuencias.
 
 j.2) Operen en las siguientes frecuencias o bandas de frecuencias con una intensidad de campo eléctrico o potencia máxima radiada que no exceda los valores que se indican a continuación:
@@ -212,7 +236,9 @@ de frecuencias campo eléctrico
 
 o potencia
 
-9 a 490 kHz 2.400/f (kHz) µV/m
+9 a 490 kHz 2.400/f (kHz)
+
+µV/m
 
 a 300 metros
 
@@ -230,9 +256,9 @@ metros
 
 88 a 108 MHz 50 nW
 
-49,82 a 49,89 MHz 10 mV/m a 3
+49,82 a 49,89 MHz 10 mV/m a
 
-metros
+3 metros
 
 218 a 222 MHz 45 mW
 
@@ -346,7 +372,7 @@ Sin perjuicio de lo anterior, la Subsecretaría de Telecomunicaciones podrá ord
 
 #### Artículo 4°
 
-El incumplimiento de lo dispuesto por la presente resolución, será sancionado de acuerdo a las disposiciones legales vigentes.
+El incumplimiento a lo establecido en la presente resolución dará lugar a la correspondiente responsabilidad infraccional, conforme a las disposiciones del Título VII de la Ley 18.168, General de Telecomunicaciones.
 
 #### Artículo 5°
 
