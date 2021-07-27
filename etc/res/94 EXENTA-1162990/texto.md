@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 94, de 03 de mayo de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Atacama, se modificó la resolución exenta Nº 115, de fecha 07 de mayo de 2018, de la misma Secretaría Regional Ministerial, que modificó las resoluciones exentas Nº 127, de 28 de mayo de 1999; Nº 164, de 23 de junio de 2000; Nº 52, de 06 de marzo de 2001, y Nº 184, de 17 de julio de 2002, todas de esta Secretaría Regional Ministerial, en el sentido de modificar los datos de la Escuela de Conductores, quedando de la siguiente forma: Razón Social: Crosan Capacitación SpA; RUT: 78.823.250-0; Nombre de Fantasía: Crosan Capacitación SpA; Domicilio: Ruta 5 Norte Nº 200, local B-3, "Condominio Centro Comercial Sur", Copiapó; Taller Mecánico: "GyG" Servicio Automotriz, Avenida Copayapu Nº 74, comuna de Copiapó. En lo no modificado se mantienen de forma íntegra las resoluciones descritas.-
+
+Patricio Orlando Araya Vargas, Secretario Regional Ministerial de Transportes y Telecomunicaciones (S) Región de Atacama.
