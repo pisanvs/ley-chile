@@ -28,11 +28,11 @@ Apruébase el siguiente procedimiento para la emisión de informes previos para 
 
 1.2 Memoria explicativa, que contenga lo siguiente:
 
-1.2.1 Fundamentos del proyecto tales como, inserción en Plan Regulador Comunal, Plan de Desarrollo Comunal, u otro instrumento de planificación urbanística o planes maestros del municipio que impliquen la promoción de esta forma de mejora en la gestión de tránsito, seguridad vial y/o la necesidad de resguardar la calidad de vida de los ciudadanos debido a la existencia de tránsito de paso en el área del proyecto, accidentes de tránsito o riesgos de éstos, y/o efectos nocivos de parte de la comunidad (por ejemplo, velocidad operacional, contaminación acústica, segregación funcional, entre otros fundamentos);
+1.2.1 Fundamentos del proyecto tales como: promoción de la mejora en la gestión de tránsito o seguridad vial, a través de la reducción de velocidades operacionales, volúmenes de tráfico motorizado y/o siniestros de tránsito o riesgo de éstos; o necesidad de resguardar la calidad de vida de los ciudadanos debido a la existencia de tránsito de paso en el área del proyecto y/o efectos nocivos de parte de la comunidad (por ejemplo, contaminación acústica y atmosférica, segregación funcional, entre otros). Adicionalmente, si el municipio ha incluido la zona de tránsito calmado en algún instrumento de planificación local (como Plan Regulador Comunal, Plan de Desarrollo Comunal, plan maestro municipal u otro) o estrategia de planificación local, deberá expresarlo también en los fundamentos.;
 
-1.2.2 Descripción del área con la situación actual y del área una vez implementado el proyecto, incluyendo emplazamiento, usos de suelo preponderantes y equipamiento, movimientos peatonales y vehiculares, tipo de regulación de intersecciones, existencia de servicios de transporte público, sus terminales y lugares de parada, puntos y horarios de carga y descarga en caso de ser aplicable, descripción de los conflictos, especialmente en intersecciones y las medidas correctivas asociadas, la explicación de las medidas de gestión de tránsito y de los cambios en la infraestructura de las vías para generar tránsito calmado, que se proponen, y cualquier otra información que se considere relevante;
+1.2.2 Descripción del área del proyecto con la situación actual y del área una vez implementado el proyecto, incluyendo emplazamiento, usos de suelo preponderantes y equipamiento, movimientos peatonales y vehiculares, tipo de regulación de intersecciones, existencia de servicios de transporte público, sus terminales y lugares de parada, puntos y horarios de carga y descarga en caso de ser aplicable, descripción de los conflictos, especialmente en intersecciones y las medidas correctivas asociadas, la explicación de las medidas de gestión de tránsito y de los cambios en la infraestructura de las vías para generar tránsito calmado, que se proponen, y cualquier otra información que se considere relevante;
 
-1.2.3 Informe de actividad(es) de participación ciudadana de la comunidad del área donde se desea implementar la zona de tránsito calmado y de consulta a los servicios de emergencia (Salud, Bomberos y Carabineros);
+1.2.3 Antecedentes de actividad(es) de participación ciudadana de la comunidad del área donde se desea implementar la zona de tránsito calmado y de información a los servicios de emergencia de la zona(Salud, Bomberos y Carabineros);
 
 1.3 Antecedentes de la situación actual:
 
@@ -40,7 +40,7 @@ Apruébase el siguiente procedimiento para la emisión de informes previos para 
 
 a. Nombre de las vías dentro del área del proyecto y de aquellas que la circundan.
 
-b. Sentidos de tránsito, pistas.
+b. Sentidos de tránsito, pistas, demarcación.
 
 c. Tipo de regulación de las intersecciones (Pare, Ceda el paso, Semáforos, etc.)
 
@@ -48,33 +48,37 @@ d. Otras señales de tránsito (no estacionar, parada de buses, no entrar camion
 
 e. Equipamiento que se considere más relevante, tales como: centros educacionales, lugares de cultos o centros deportivos, servicios de emergencia (bomberos, salud, Carabineros), etc.
 
-f. Lugares de estacionamiento en calzada.
+f. Lugares de estacionamiento en calzada destinados a vehículos motorizados y/o ciclos.
 
 g. Existencia de ciclovías.
 
-h. Mobiliario urbano que pudiese tener incidencia en las medidas del proyecto, tales como, postación eléctrica, grifos, árboles, cámaras, y otros.
+h. Mobiliario urbano que pudiese tener incidencia en las medidas del proyecto, tales como, iluminación, grifos, árboles, cámaras, y otros.
 
-i. Ocupación de la vía (fotografías de juegos infantiles, peatones ocupando la acera), entre otros.
+i. Ocupación de la vía (fotografías de juegos infantiles, peatones ocupando la acera, ferias libres, parques, plazas), entre otros.
+
+j. Existencia de cruces peatonales accesibles y/o rutas accesibles en vías peatonales.
 
 1.3.2 Antecedentes operacionales. Plano esquemático que muestre:
 
 a. Movimientos vehiculares (motorizados y no motorizados) en el área del proyecto, principales accesos, identificando especialmente rutas de tránsito de paso.
 
-b. Movimientos de peatones, principales rutas de desplazamiento (considera rango etario, género y discapacidad).
+b. Movimientos de peatones y usuarios de ciclos, principales rutas de desplazamiento (considera rango etario, género y discapacidad).
 
 c. Servicios de transporte público (terminales, paradas, estaciones de ferrocarril o ferrocarril urbano, otros) y sus trazados, si existiese.
 
 d. Diagrama de principales conflictos que dé cuenta, especialmente aquellos en intersecciones con las vías de borde del área del proyecto.
 
-1.4 Antecedentes del proyecto. Plano con proyecto, escala 1:500, que muestre:
+1.4 Antecedentes del proyecto. Plano, escala 1:500, que muestre:
 
-1.4.1 Las medidas propuestas, tanto de gestión de tránsito como medidas de cambios en la infraestructura de las vías para generar un tránsito calmado, indicando claramente, las entradas y salidas del área del proyecto.
+1.4.1 Las medidas propuestas, tanto de gestión de tránsito como medidas de cambios en la infraestructura de las vías para generar un tránsito calmado, indicando claramente, las entradas y salidas del área del proyecto, rutas accesibles y terminales o paradas de transporte público mayor, cuando corresponda.
 
-1.4.2 Otras medidas, tales como, incremento de virajes, reasignación de flujos, etc. Esto en caso de que se hayan identificado efectos en las vías adyacentes, especialmente en intersecciones.
+1.4.2 Otras medidas, tales como, incremento de virajes, reasignación de flujos, etc. Esto en caso de que se hayan identificado efectos en las vías adyacentes, especialmente en intersecciones o trazados de transporte público.
 
 1.4.3 Señalización propuesta, señales verticales y demarcaciones.
 
-2. Una vez ingresado el proyecto a través de la ficha de presentación, junto con los antecedentes requeridos, la Secretaría Regional verificará la completitud de los antecedentes a que refiere el número 1, precedente, en un plazo de cinco (5) días hábiles contados desde su recepción. Las presentaciones incompletas serán devueltas al interesado, para que, en un plazo de cinco (5) días hábiles, acompañe los antecedentes que falten, bajo apercibimiento de tener por desistida su solicitud.
+Si el proyecto de establecimiento de zona de tránsito calmado solo considera vías locales, de acuerdo a la definición del Decreto Supremo Nº 83, de 1985, del Ministerio de Transportes y Telecomunicaciones, que define redes viales básicas que señala, los antecedentes exigidos por los numerales 1.3.1 y 1.4 de la presente resolución podrán ser presentados, alternativamente, a través de un plano esquemático.
+
+2. Una vez ingresado el proyecto a través de la ficha de presentación, junto con los antecedentes requeridos y designando un encargado de la presentación del proyecto junto a sus datos de contacto, la Secretaría Regional verificará la completitud de los antecedentes a que refiere el número 1, precedente, en un plazo de cinco (5) días hábiles contados desde su recepción. Las presentaciones incompletas serán devueltas al interesado, para que, en un plazo de diez (10) días hábiles, acompañe los antecedentes que falten, bajo apercibimiento de tener por desistida su solicitud.
 
 3. Los proyectos que contengan toda la información y antecedentes a que se refiere el número 1 de la presente resolución, deberán ser evaluadas por la Secretaría Regional respectiva dentro del plazo máximo de veinte (20) días hábiles, contados desde la recepción conforme de los antecedentes, plazo en el cual puede consultar a otros organismos en caso de ser pertinente.
 
@@ -86,9 +90,9 @@ La Secretaría Regional podrá autorizar prórrogas de los plazos señalados en 
 
 4.2 El análisis y pronunciamiento sobre los siguientes aspectos del proyecto:
 
-a. Si las medidas propuestas desincentivan el tránsito de paso y no alteran transporte público.
+a. Si las medidas propuestas reducen velocidades operacionales, volúmenes de tráfico motorizado y/o siniestros de tránsito o riesgo de éstos, así como también si desincentivan el tránsito de paso y mejoran la accesibilidad y seguridad del transporte público mayor, sin generar perjuicio en las condiciones de operación de éste..
 
-b. Si las medidas de tránsito calmado son las adecuadas.
+b. Si las medidas de tránsito calmado son las adecuadas, considerando su emplazamiento y de acuerdo a la normativa vigente.
 
 c. Si se han definido claramente las entradas y salidas al área del proyecto.
 
@@ -96,9 +100,9 @@ d. Si los conflictos que se hayan identificado, especialmente en las interseccio
 
 e. Si los circuitos peatonales y de ciclos, si corresponden, son seguros.
 
-f. Si se han considerado los requerimientos de los servicios de emergencia.
+f. Si se ha informado a los servicios de emergencia de la zona.
 
-g. La forma en que se han resuelto las inquietudes y propuestas de la comunidad.
+g. La forma en que se han tratado las sugerencias, inquietudes y propuestas de la comunidad.
 
 4.3 Sugerencias sobre aspectos de seguridad y de mantención que se deberán tener en consideración en la zona de tránsito calmado.
 
