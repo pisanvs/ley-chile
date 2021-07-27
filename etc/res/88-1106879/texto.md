@@ -72,9 +72,9 @@ Consultor/es Experto/s: Persona/s, natural/es o jurídica/s, que cumple/n con el
 
 Cuando un PTI sea administrado directamente por Corfo, la selección y contratación del/de los Consultor/es Experto/s y del Gestor deberá efectuarse conforme a las normas aplicables a Corfo.
 
-Asociados/as: Se trata de una o más personas, naturales o jurídicas, públicas o privadas, con o sin fines de lucro, que concurren cofinanciando el proyecto. Además, podrán concurrir en este rol, órganos de la Administración del Estado, Gobiernos Regionales y Municipalidades.
+Asociados/as: Se trata de una o más personas, naturales o jurídicas, públicas o privadas, con o sin fines de lucro, que concurren cofinanciando el proyecto. Además, podrán concurrir en este rol, órganos de la Administración del Estado, como Servicios Públicos, Ministerios y Municipalidades, entre otros, con excepción de los Gobiernos Regionales, los que no podrán participar en esta calidad.
 
-El aporte que realicen los Asociados no será considerado como parte del aporte de Corfo, aun cuando la Corporación administre esos recursos en cuentas extrapresupuestarias, complementarias o cuentas representativas de movimientos financieros no presupuestarios.
+El aporte que realicen los/as Asociados/as no será considerado como parte del aporte de Corfo, cuando la Corporación administre esos recursos en cuentas extrapresupuestarias, complementarias o cuentas representativas de movimientos financieros no presupuestarios.
 
 Participantes: Son las entidades, tanto públicas como privadas, que darán pertinencia al proyecto, que conformen y/o interaccionen en el ámbito de acción del PTI, y cuya participación en las acciones de difusión y coordinación se estime crítica por Corfo para la ejecución del proyecto.
 
@@ -106,19 +106,23 @@ Cuando un proyecto haya recibido apoyo para la ejecución de la Etapa de Validac
 
 6.- MONTO DE FINANCIAMIENTO Y COFINANCIAMIENTO.
 
-Los montos máximos por cada Etapa son:
+Para la ejecución de las Etapas, Corfo aportará un financiamiento y/o cofinanciamiento por los montos máximos que se señalan a continuación, sin considerar en el cálculo de esos topes, los recursos aportados por los/as Asociados/as, si Corfo administrare dichos fondos en cuentas extrapresupuestarias, complementarias o cuentas representativas de movimientos financieros no presupuestarios, según lo dispuesto en la normativa o autorizaciones que corresponda.
 
-Para la ejecución de las Etapas, Corfo aportará un financiamiento y/o cofinanciamiento por los montos máximos que se señalan a continuación, sin considerar en el cálculo de esos topes los recursos aportados para estos efectos por personas de derecho público, incluidos los órganos de la Administración del Estado, que Corfo administre en cuentas extrapresupuestarias, complementarias o cuentas representativas de movimientos financieros no presupuestarios, según lo dispuesto en la normativa o autorizaciones que corresponda.
+Los montos máximos por cada etapa son:
 
-El financiamiento total de Corfo para la Etapa de Validación Estratégica, no podrá exceder de $20.000.000.- (veinte millones de pesos).
+. El financiamiento total de Corfo para la Etapa de Validación Estratégica no podrá exceder de $20.000.000.- (veinte millones de pesos).
 
-El cofinanciamiento de Corfo para el primer y segundo año de la Etapa de Ejecución, no podrá exceder el 80% del costo total anual del proyecto, con un aporte anual máximo de $120.000.000.- (ciento veinte millones de pesos).
+. El financiamiento (100% del costo total) y/o cofinanciamiento de Corfo para el primer año de la Etapa de Ejecución, con un aporte anual máximo de $120.000.000.- (ciento veinte millones de pesos).
 
-El cofinanciamiento de Corfo para el tercer año de la Etapa de Ejecución, no podrá exceder el 50% del costo total anual del proyecto, con un aporte anual máximo de $80.000.000.- (ochenta millones de pesos).
+. El cofinanciamiento de Corfo para el segundo año de la Etapa de Ejecución no podrá exceder el 80% del costo total anual del proyecto, con un aporte anual máximo de $120.000.000.- (ciento veinte millones de pesos).
+
+. El cofinanciamiento de Corfo para el tercer año de la Etapa de Ejecución no podrá exceder el 50% del costo total anual del proyecto, con un aporte anual máximo de $80.000.000.- (ochenta millones de pesos).
 
 La diferencia deberá ser cofinanciada por el/los Asociado/s.
 
-El aporte de el/los Asociado/s podrá ser hasta en un 50% valorado. El aporte valorado podrá consistir en recursos humanos, infraestructura, equipamiento y pasajes destinados a la ejecución del proyecto, los que deberán ser declarados al momento de postular.
+El aporte de el/los/la/las Asociado/a/os/as podrá ser hasta en un 50% valorado.
+
+El aporte valorado podrá consistir en recursos humanos, infraestructura, equipamiento y pasajes destinados a la ejecución del proyecto, los que deberán ser declarados al momento de postular.
 
 Los recursos aportados por Corfo y el/los Asociado/s serán destinados a la ejecución de las actividades y acciones para el desarrollo territorial, contempladas en los planes de trabajo aprobados y su implementación, a través de la contratación de consultorías, asistencia técnica y acciones de promoción y difusión, así como también, costos de operación y recursos humanos dedicados a la gestión experta del proyecto.
 
