@@ -30,7 +30,7 @@ Considerando:
 
 Resuelvo:
 
-1. Extiéndase el plazo de vigencia de los certificados de inscripción en el Registro Nacional de Servicios de Transporte de Pasajeros vencidos desde el 18 de marzo de 2020 y hasta el 13 de marzo de 2021. En consecuencia, se entenderá que vencen en el año 2021 o 2022, en la misma fecha que les correspondía de acuerdo a la resolución que fijó la vigencia del servicio.
+1. Extiéndase, el plazo de vigencia de los certificados de inscripción en el Registro Nacional de Servicios de Transporte de Pasajeros, vencidos entre el 18 de marzo de 2020 hasta el 30 de septiembre de 2021, en 24 meses, contados desde la fecha de vencimiento del Certificado de Inscripción en el referido Registro.
 
 2. Para todos los efectos se considerarán vigentes los actuales Certificados de Inscripción en el Registro Nacional de Servicios de Transporte de Pasajeros de los vehículos adscritos a los servicios, cuyos certificados de inscripción se aluden en el Resuelvo 1, por lo que no existirá la necesidad de imprimir nuevos certificados.
 
