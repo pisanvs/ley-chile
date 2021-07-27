@@ -34,7 +34,7 @@ Considerando:
 
 Resuelvo:
 
-1°.- Suspéndase el plazo de 5 años establecido en el inciso segundo, del artículo decimosegundo, del decreto supremo N° 170, de 1985, Reglamento para el Otorgamiento de Licencias de Conductor, desde el 18 de marzo de 2020 hasta el 30 de junio de 2021.
+1º.- Suspéndase el plazo de 5 años establecido en el inciso segundo, del artículo decimosegundo, del decreto supremo Nº 170, de 1985, Reglamento para el Otorgamiento de Licencias de Conductor, desde el 18 de marzo de 2020 hasta el 30 de septiembre de 2021.
 
 2°.- Atendido lo dispuesto en el artículo 52° de la ley N° 19.880, la presente resolución surtirá sus efectos retroactivamente, a contar de la fecha de la declaración del estado de excepción constitucional de catástrofe por calamidad pública.
 

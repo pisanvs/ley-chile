@@ -1,0 +1,27 @@
+MODIFICA RESOLUCIÓN Nº 2.679 EXENTA, DE 2020, DEL MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES, EN EL SENTIDO QUE INDICA
+
+Núm. 2.374 exenta.- Santiago, 19 de julio de 2021.
+
+Visto:
+
+Lo dispuesto en el DFL Nº 1/19.653, que fija el texto refundido coordinado y sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; ley Nº 19.880, que establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; el DL Nº 557 de 1974, que crea el Ministerio de Transportes; la Ley Nº 18.059 que asigna al Ministerio de Transportes y Telecomunicaciones el carácter de organismo rector nacional de tránsito; el DFL Nº 1 de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito; el decreto supremo Nº 97 de 1984, del Ministerio de Transportes y Telecomunicaciones, reglamento para obtener autorización de otorgar licencias de conductor; el decreto supremo Nº 170, de 1985, del Ministerio de Transportes y Telecomunicaciones, reglamento para el otorgamiento de licencias de conductor; en el decreto supremo Nº 104, de 18 de marzo de 2020, del Ministerio del Interior y Seguridad Pública, que Declara el estado de excepción constitucional de catástrofe, por calamidad pública en el territorio de Chile, y sus respectivas prórrogas; en el decreto supremo Nº 4, de 5 de febrero de 2020, del Ministerio de Salud y sus modificaciones posteriores, que decreta alerta sanitaria por el periodo que se señala y otorga facultades extraordinarias que indica por emergencia de salud pública de importancia internacional (ESPII) por brote del nuevo coronavirus (2019-NCOV); la resolución exenta Nº 2.679, de 19 de noviembre de 2020, del Ministerio de Transportes y Telecomunicaciones, que suspende plazo establecido en el inciso segundo del artículo decimosegundo del decreto Nº 170, de 1985, que establece reglamento para el otorgamiento de licencias de conductor; en la resolución exenta Nº 1.672, de 19 de mayo de 2021, que modifica resolución exenta Nº 2.679, de 2020, ambas del Ministerio de Transportes y Telecomunicaciones; en el dictamen Nº 3.610 de 17 de marzo de 2020, de la Contraloría General de la República; la resolución Nº 7, de 2019, que fija normas sobre exención del trámite de toma de razón, de la Contraloría General de la República, y la demás normativa aplicable.
+
+Considerando:
+
+1.- Que, mediante resolución exenta Nº 2.679, de 2020, del Ministerio de Transportes y Telecomunicaciones, y sus modificaciones citadas en visto, se suspendió el plazo de 5 años establecido en el inciso segundo, del artículo decimosegundo, del decreto supremo Nº 170, de 1985, reglamento para el otorgamiento de licencias de conductor, desde el 18 de marzo de 2020 hasta el 30 de junio de 2021.
+
+2.- Que, producto de la pandemia causada por el brote de virus COVID-19, también llamado 2019-NCOV, y debido a las medidas sanitarias adoptadas en protección de la comunidad por el Ministerio de Salud, tales como las cuarentenas, ha impedido efectuar la acreditación que deben tener los funcionarios municipales que evalúan exámenes prácticos de conducción, consistente en haber aprobado un programa de capacitación en materia de normativa y seguridad de tránsito de a lo menos, 45 horas cronológicas y uno de mecánica automotriz básica de al menos 10 horas cronológicas, y acreditar la aprobación de un curso de formación de examinadores, de a lo menos 60 horas cronológicas, impartidos por organismos de capacitación debidamente reconocidos por el Estado. Dicha acreditación debe ser efectuada cada cinco años.
+
+3.- Que, en ese sentido, debido a la situación derivada de la pandemia por COVID-19 que aún afecta a gran parte de la población del país y del territorio nacional, subsistiendo las circunstancias que motivaron el Estado de Excepción Constitucional declarado por el decreto supremo Nº 104, de 18 de marzo de 2020, citado en visto y sin haber cesado en forma absoluta, es que mediante decreto supremo Nº 153, de 2021, del Ministerio del Interior y Seguridad Pública, y de Defensa Nacional, se prorrogó, hasta el 30 de septiembre de 2021, el Estado de Excepción Constitucional de Catástrofe, por calamidad pública, en el territorio de Chile.
+
+4.- Que, en consecuencia, es necesario modificar la resolución exenta Nº 2.679, de 2020, del Ministerio de Transportes y Telecomunicaciones, ya citada, de manera de ampliar el plazo de suspensión mientras dure el estado de catástrofe.
+
+Resuelvo:
+
+1°.- Modifícase la resolución exenta Nº 2.679, de 19 de noviembre de 2020, del Ministerio de Transportes y Telecomunicaciones, y sus modificaciones, en el sentido de reemplazar el resuelvo primero por el siguiente: "1º.- Suspéndase el plazo de 5 años establecido en el inciso segundo, del artículo decimosegundo, del decreto supremo Nº 170, de 1985, Reglamento para el Otorgamiento de Licencias de Conductor, desde el 18 de marzo de 2020 hasta el 30 de septiembre de 2021.".
+
+2°.- Comuníquese la presente resolución exenta a las Secretarías Regionales Ministeriales de Transportes y Telecomunicaciones del país.
+
+3°.- En lo no modificado se mantienen vigentes las demás disposiciones de la resolución exenta Nº 2.679, de 19 de noviembre de 2020, del Ministerio de Transportes y Telecomunicaciones.
+
+Anótese y publíquese.- Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
