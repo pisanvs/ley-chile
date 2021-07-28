@@ -112,7 +112,7 @@ a. Si el paciente presenta síntomas, el aislamiento será por 11 días desde la
 
 b. Si el paciente no presenta síntomas, el aislamiento será por 11 días desde la fecha de toma de muestra del examen que identificó la infección.
 
-Con todo, la autoridad sanitaria o el médico tratante podrán disponer un tiempo de aislamiento mayor en consideración a las condiciones clínicas particulares del paciente.
+Con todo, la autoridad sanitaria o el médico tratante podrán disponer un tiempo de aislamiento mayor en consideración a las condiciones clínicas particulares del paciente, o a la situación epidemiológica particular.
 
 15. Aislamiento de personas que se han realizado un test RT-PCR cuyo resultado está pendiente. Dispóngase que las personas que se hayan realizado el test RT-PCR para determinar la presencia de COVID-19, deben cumplir un aislamiento hasta que les sea notificado el resultado.
 
@@ -141,6 +141,8 @@ El cumplimiento de las circunstancias indicadas precedentemente podrá ser objet
 Sin perjuicio de lo dispuesto precedentemente, no se considerará contacto estrecho a una persona durante un periodo de 90 días después de haber sido un caso confirmado de COVID-19.
 
 17. Aislamiento de personas en razón de experimentar un contacto estrecho. Dispóngase que las personas que hayan estado en contacto estrecho con una persona diagnosticada con COVID-19 deben cumplir con la medida de cuarentena por 11 días, desde la fecha del último contacto. La circunstancia de contar con un resultado negativo en un test de RT-PCR para SARS-CoV-2 no eximirá a la persona del cumplimiento total de la cuarentena dispuesta en este numeral.
+
+Sin perjuicio de lo dispuesto precedentemente, la autoridad sanitaria podrá disponer de un tiempo mayor de aislamiento en consideración a las condiciones epidemiológicas particulares.
 
 18. Definición de caso sospechoso. Para efectos de esta resolución, se entenderá como caso sospechoso:
 
@@ -382,6 +384,8 @@ Para acreditar el cumplimiento de dichos requisitos el solicitante deberá obten
 
 Los efectos del Pase de Movilidad habilitado serán aplicables a menores de edad que estén en compañía de su padre, madre, tutor o curador, que sea titular de un Pase de Movilidad habilitado.
 
+60 bis. Sin perjuicio de lo dispuesto en el párrafo segundo del numeral anterior, los efectos del Pase de Movilidad de los padres, madres, tutores y curadores no alcanzarán a los menores de edad bajo su cuidado, para efectos de lo dispuesto en el numeral (i) del inciso segundo del artículo primero del decreto supremo Nº 102, de 2020, del Ministerio del Interior y Seguridad Pública.
+
 61. De la verificación. Para efectos de verificar si un Pase de Movilidad está habilitado, se deberá exhibir a quien corresponda el comprobante de vacunación a que hace referencia el numeral 59 y un documento de identificación.
 
 62. De la suspensión. La autoridad sanitaria podrá disponer como medida sanitaria, en casos justificados, la suspensión de la utilización del Pase de Movilidad. Para estos efectos, será aplicable lo dispuesto en el inciso segundo del artículo 178 del Código Sanitario.
@@ -572,9 +576,11 @@ b. Si la totalidad de los asistentes tiene Pase de Movilidad habilitado, el afor
 
 c. En los aforos antedichos se considerará a los trabajadores. d. No se podrán sumar los aforos de espacios abiertos y cerrados para una misma actividad.
 
-e. En un mismo recinto, podrán realizarse simultáneamente más de una actividad independiente, siempre y cuando los asistentes de una y otra actividad no tengan ningún tipo de interacción, incluyendo baños y entradas y salidas. Los espacios cerrados deberán cumplir con norma estándar de ventilación.
+e. En un mismo recinto, podrán realizarse simultáneamente más de una actividad independiente, siempre y cuando los asistentes de una y otra actividad no tengan ningún tipo de interacción, incluyendo baños y entradas y salidas.
 
-f. Sin perjuicio de lo dispuesto en las letras a. y b., el aforo total no podrá exceder de 1 persona por cada 8 metros cuadrados de la superficie útil destinada al público. Con todo, serán aplicables los aforos dispuestos en este numeral.
+f. Los espacios cerrados deberán cumplir con norma estándar de ventilación.
+
+g. Sin perjuicio de lo dispuesto en las letras a. y b., el aforo total no podrá exceder de 1 persona por cada 8 metros cuadrados de la superficie útil destinada al público. Con todo, serán aplicables los aforos dispuestos en este numeral.
 
 Sin perjuicio de lo anterior, siempre podrá haber un mínimo de 5 personas. Sin perjuicio de lo dispuesto precedentemente, se permite la realización de cultos religiosos organizados por una Iglesia, Culto u Organización Religiosa debidamente reconocida por el Estado de Chile, los días sábados, domingos y festivos, utilizando el permiso de desplazamiento o Pase de Movilidad habilitado, cuando corresponda.
 
@@ -656,7 +662,7 @@ a. En lugares cerrados, solo podrán asistir personas que cuenten con un Pase de
 
 b. Las personas y las máquinas deberán estar separadas entre sí por una distancia mínima de dos metros lineales.
 
-c. Deberá observarse lo dispuesto en el numeral 105.
+c. Las actividades grupales deberán cumplir con lo dispuesto en el numeral 105.
 
 d. En el caso de lugares cerrados, la ventilación deberá cumplir con norma estándar de ventilación.
 
@@ -746,7 +752,7 @@ b. En el caso de lugares cerrados, la ventilación deberá cumplir con norma est
 
 a. Las personas y las máquinas deberán estar separadas entre sí por una distancia mínima de dos metros lineales.
 
-b. Deberá observarse lo dispuesto en el numeral 119.
+b. Las actividades grupales deberán cumplir con lo dispuesto en el numeral 116.
 
 c. En el caso de lugares cerrados, la ventilación deberá cumplir con la norma estándar de ventilación.
 
