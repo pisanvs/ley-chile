@@ -20,6 +20,8 @@ Resuelvo:
 
 1.- Acoger favorablemente la exclusión de la Nómina de beneficiarios, por los temas expuestos en el considerando Nº 1, por lo que no es posible aplicar el beneficio del Programa de Integración Social y Territorial de acuerdo al siguiente detalle:
 
+.
+
 2.- Remítase copia de esta resolución al Departamento de Atención Sectores Medios - División Política Habitacional - Minvu, sirviendo la presente como suficiente oficio remisor, a fin de evaluar no aplicar lo dispuesto en el artículo 21, a efectos de no afectar a futuro una nueva postulación a un proyecto regulado mediante el decreto supremo Nº 19, de 2016, de la persona individualizada en el considerando Nº 1, toda vez que la causa indicada, corresponde a motivos de fuerza mayor.
 
 Anótese, comuníquese, notifíquese, publíquese en el Diario Oficial y archívese.- Dubalio Pérez Ruiz, Director Serviu Región de Magallanes y de la Antártica Chilena.
