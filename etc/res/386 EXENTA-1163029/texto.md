@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 386, de fecha 15 de junio de 2021, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, se autorizó a la Escuela de Conductores Profesionales denominada "Automóvil Club de Chile Limitada", RUT Nº 77.323.230-K, domiciliada en José Domingo Mujica 179, comuna y ciudad de Rancagua, cuyo representante legal es el señor Juan Carlos Jerez Guirao, cédula de identidad Nº 24.690.667-K, cuyos planes y programas fueron autorizados mediante resolución exenta Nº 135, de fecha 21 de noviembre de 2000, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, y que fue autorizada a impartir los cursos conducentes a la obtención de la Licencia de Conductor Profesional Clase A2, en la modalidad e-learning, bajo el formato de ejecución asincrónico. La misma solicitud, en copia fidedigna, deberá estar a disposición de los postulantes y alumnos del establecimiento.-
+
+Hans Eugenio González González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
