@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 976/2021 de fecha 19 julio 2021, de esta Secretaría Regional, se autorizó a la Escuela de Conductores Profesionales "San Cristóbal Limitada", RUT N° 77.839.460-K, representada legalmente por doña Lucy Elena Gómez Hernández, Cédula de Identidad N° 8.017.283-4, cuyos planes y programas fueron autorizados mediante resolución exenta N°839, de 30 noviembre 2005, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, a impartir los cursos conducentes a la obtención de Licencia de Conductor Profesional Clase A2, A3 y A4 regular y A3 con uso de Simulador de Inmersión Total, en la modalidad e-learning, bajo el formato de ejecución asincrónico.-
+
+Nicolas Maximiliano Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
