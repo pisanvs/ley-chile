@@ -36,15 +36,21 @@ Resuelvo:
 
 ### 3. De la procedencia de los animales:
 
-3.1 Deben haber permanecido desde su nacimiento o al menos durante los últimos 6 meses, en una región o zona que no ha estado sujeta a restricciones cuarentenarias por enfermedades infectocontagiosas que afecten a la especie.
+3.1 Deben proceder de un país miembro de la Organización Mundial de Sanidad Animal (OIE).
 
-3.2 Deben proceder de una zona en la cual no se han presentado casos clínicos de Tularemia durante los últimos 90 días previos al embarque.
+3.2 Deben proceder de un país o zona en la cual la rabia es una enfermedad de notificación obligatoria.
 
-3.3 Deben proceder de un país o zona en la cual la Rabia es una enfermedad de notificación obligatoria y no se han registrado casos por lo menos 12 meses antes del embarque.
+3.3 Deben haber permanecido desde su nacimiento o al menos durante los últimos 6 meses, en una región o zona que no ha estado sujeta a restricciones cuarentenarias por enfermedades infectocontagiosas que afecten a la especie.
+
+3.4 Deben proceder de una zona en la cual no se han presentado casos clínicos de Tularemia durante los últimos 90 días previos al embarque.
 
 ### 4. Del establecimiento de procedencia:
 
 4.1 El establecimiento debe estar bajo supervisión de un médico veterinario (con excepción animales de compañía).
+
+4.2 Los animales deben haber permanecido durante los 6 meses anteriores al embarque en un zoológico, centro de exhibición o establecimiento comercial, en el cual se mantiene un programa de vigilancia y control para la rabia, y que no ha presentado casos de esta enfermedad, por lo menos, los últimos 12 meses anteriores al embarque.
+
+4.3 En el caso de roedores como animales de compañía, deben contar con un certificado emitido por un médico veterinario privado, dentro de los 10 días previos al embarque, en el cual se indique explícitamente que los animales no presentan signología clínica compatible con rabia.
 
 ### 5. Del aislamiento de pre-embarque:
 
