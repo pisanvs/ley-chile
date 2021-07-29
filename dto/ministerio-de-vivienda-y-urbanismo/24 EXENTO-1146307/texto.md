@@ -28,7 +28,11 @@ Decreto:
 
 Superficie total aproximada a expropiar: 2.901,37 m² (dos mil novecientos uno coma treinta y siete metros cuadrados).
 
-2º. El presente decreto será publicado en el Diario Oficial y en un periódico de la provincia de Valparaíso, si lo hubiere.
+2º Reemplázase la superficie total aproximada a expropiar, que figura a continuación de la tabla del resuelvo 1º, sustituyéndose la cantidad de "2.901,37 m² (dos mil novecientos uno coma treinta y siete metros cuadrados)", por "2.941,27 m² (dos mil novecientos cuarenta y uno coma veintisiete metros cuadrados)."
+
+3º. El presente decreto será publicado en el Diario Oficial y en un periódico de la provincia de Valparaíso, si lo hubiere.
+
+> **Nota.** El numeral 1° del Decreto 35 Exento, Vivienda, publicado el 29.07.2021 dispone incorporar a la tabla inserta en el resuelvo 1 de la presente norma el Lote 19-A de la manera que el citado Decreto singulariza.
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
