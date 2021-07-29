@@ -50,17 +50,23 @@ En cuanto a la suspensión y cancelación, les será aplicable además lo establ
 
 Las licencias y habilitaciones que la DGAC otorgará en virtud de este Reglamento se especifican separadamente en los capítulos siguientes.
 
-61.5 Vigencia de las licencias y habilitaciones
+61.5 Vigencia.
 
-Las licencias y habilitaciones mantendrán su vigencia y las correspondientes atribuciones podrán ser ejercidas en tanto:
+(a) Licencias:
 
-(1) El titular no haya renunciado a la licencia;
+(1) La licencia mantendrá su vigencia, mientras su titular reúna los requisitos exigidos al momento de su otorgamiento, no haya renunciado a ella, o no haya sido suspendida o cancelada por la DGAC.
 
-(2) No haya sido suspendida o cancelada por la DGAC;
+(2) Cuando corresponda y antes del término de la vigencia de su certificación médica aeronáutica, el titular, junto con el pago de la respectiva tasa aeronáutica, deberá acreditar ante la DGAC su aptitud psicofísica mediante una nueva certificación médica aeronáutica.
 
-(3) Esté en vigor la Certificación Médica Aeronáutica conforme a los plazos dispuestos en el Reglamento pertinente;
+(b) Habilitaciones:
 
-(4) Se mantenga la experiencia reciente; y (5) En el caso de las habilitaciones, se hayan efectuado las renovaciones conforme a lo establecido en el presente Reglamento.
+Las atribuciones que las habilitaciones permiten ejercer al titular de una licencia se mantendrán vigentes en la medida que:
+
+(i) La Licencia se mantenga vigente;
+
+(ii) Se mantenga la experiencia reciente, y
+
+(iii) Se hayan efectuado las renovaciones y estandarizaciones conforme a lo establecido en el presente Reglamento.
 
 61.7 Características de las licencias
 
@@ -92,7 +98,7 @@ Los titulares de las licencias aeronáuticas dejarán de ejercer las atribucione
 
 61.19 Instrucción
 
-(a) Los Instructores de Vuelo, los Centros de Instrucción - Entrenamiento Aeronáutico Civil (CIAC/CEAC), Clubes Aéreos o Empresas Aéreas según corresponda deberán solicitar a la DGAC la aprobación de sus programas de instrucción o entrenamiento.
+(a) Los Instructores de Vuelo, los Centros de Instrucción-Entrenamiento Aeronáutico Civil (CIAC/CEAC), Clubes Aéreos y/o Empresas Aéreas, deberán efectuar la instrucción o entrenamiento conforme a los conocimientos teóricos, instrucción de vuelo, experiencia aeronáutica y pericia previstos en el presente Reglamento y la Norma Técnica Aeronáutica respectiva, para cada tipo de licencia o habilitación aeronáutica.
 
 (b) Determinadas Operaciones Aéreas como Vuelo Agrícola, Prospección Pesquera, Combate de Incendios Forestales, Lanzamiento de Paracaidistas, o Remolcador requerirán de una instrucción teórica y práctica con un Instructor de Vuelo habilitado y vigente, la cual quedará registrada en la bitácora personal de vuelo del piloto.
 
@@ -144,13 +150,7 @@ El uso de dispositivos de instrucción para simulación de vuelo (simuladores y 
 
 Todo Alumno Piloto o piloto deberá mantener actualizada una bitácora personal de vuelo, cuyas anotaciones y certificaciones revestirán carácter de declaración jurada por parte de quien las efectúa o estampa y que tendrá por objeto demostrar la experiencia y calificaciones del postulante o titular. Lo dispuesto en esta sección no es aplicable a pilotos de Ultralivianos no Motorizados (UL).
 
-61.33 Estandarización periódica
-
-Todo piloto de aviación general y comercial sin habilitación de vuelo por instrumentos deberá realizar cada cuatro (4) años un vuelo de estandarización sobre técnicas y procedimientos normales, anormales y de emergencias. Esta estandarización no es exigible para quien mantenga vigente una habilitación de Instructor de Vuelo o Ayudante de Instructor o una Habilitación de Vuelo por Instrumentos.
-
-Los pilotos privados podrán estandarizarse con un Instructor de Vuelo, Instructor Evaluador o con un Inspector de Operaciones Aéreas de la DGAC.
-
-Los pilotos comerciales sin habilitación de vuelo por instrumentos deberán efectuarlo ante un Inspector de Operaciones Aéreas de la DGAC.
+61.33 Todo piloto cada 24 meses deberá realizar un proceso de estandarización sobre técnicas, maniobras y procedimientos normales, anormales y de emergencias. Esta estandarización no es exigible para quien mantenga vigente una habilitación de instructor de vuelo o ayudante de instructor de vuelo.
 
 61.35 Experiencia reciente
 
@@ -166,9 +166,19 @@ Los pilotos comerciales sin habilitación de vuelo por instrumentos deberán efe
 
 (2) Mantenga una habilitación de vuelo por instrumentos vigente.
 
-(c) Reentrenamiento de experiencia reciente.
+(c) Reentrenamiento de experiencia reciente:
 
-Cuando no se cumpla con las letras (a) y (b) de esta sección, previo a cualquier vuelo deberá efectuarse un reentrenamiento con Instructor de Vuelo que verifique la competencia del piloto quedando registrado en la respectiva bitácora de vuelo y en los registros del instructor antes de efectuar un vuelo. Para este reentrenamiento se podrá utilizar un dispositivo de instrucción de simulación de vuelo autorizado por la DGAC.
+Cuando no sea posible cumplir con lo establecido en las letras (a) y (b) de esta sección se procederá de la siguiente manera:
+
+1. Aquellos que estén operando bajo la Norma Técnica Aeronáutica de operación para actividades aéreas comerciales respectiva, previo a cualquier vuelo en una habilitación aeronáutica vencida, deberán efectuar un reentrenamiento de acuerdo con el programa de instrucción aprobado por la DGAC, quedando registrada la instrucción recibida en la bitácora personal de vuelo y en los registros del explotador o empresa aérea, antes de efectuar un vuelo;
+
+2. Los que desarrollen vuelos bajo la Norma Técnica Aeronáutica de operaciones para la aviación no comercial respectiva y tenga su estandarización de vuelo vigente, deberán:
+
+(i) Auto-reentrenarse, sin personas a bordo ni transportando bienes o carga, para lo cual deberán realizar los circuitos de tránsito completos faltantes, que le permitan alcanzar los requisitos necesarios para cumplir la experiencia reciente, o
+
+(ii) Reentrenarse con un instructor de vuelo.
+
+De lo anterior, el piloto o instructor de vuelo, dejarán el registro en la bitácora personal de vuelo.
 
 (d) Experiencia reciente específica.
 
@@ -218,7 +228,7 @@ Este Reglamento establece las siguientes licencias y habilitaciones:
 
 (i) Avión.
 
-(ii) Helicóptero.
+(ii) Helicóptero
 
 (iii) Dirigible.
 
@@ -244,11 +254,13 @@ ii) Avión multimotor terrestre.
 
 (v) Aeronaves anfibias en las cuales se requiere poseer las habilitaciones de aviones terrestres y de hidroaviones que correspondan.
 
+(vi) Helicóptero.
+
 (3) Habilitaciones de tipo de aeronave (modelos de aeronaves certificadas conforme al DAR 21 "Certificación de Productos y Partes") que se otorgan para operar y son definidas por la DGAC:
 
 (i) Cada tipo de aeronave certificada para volar con una tripulación mínima de dos (2) pilotos.
 
-(ii) Todos los helicópteros.
+(ii) Helicópteros con motor turbina.
 
 (iii) Todos los turborreactores y turbohélices; salvo los monomotores.
 
@@ -410,15 +422,7 @@ LICENCIA DE PILOTO PRIVADO
 
 (d) Si cuenta con las habilitaciones correspondientes, desempeñarse sin fines de lucro como Instructor de Vuelo o Ayudante de Instructor de Vuelo en aeronaves o dispositivos de instrucción para simulación de vuelo de la categoría apropiada.
 
-61.305 Renovación
-
-Cuando el Piloto Privado requiera renovar su licencia y/o habilitación:
-
-(1) Dentro del plazo de vigencia de su habilitación sólo deberá presentar su certificación médica.
-
-(2) Cuando el piloto tenga menos de veinticuatro (24) meses desde el último vuelo sin actividad como piloto al mando o copiloto, además de la certificación médica, deberá presentar un certificado de reentrenamiento (calificación final y anotación en la bitácora de vuelo) de sus competencias con un Instructor de Vuelo.
-
-(3) Cuando el piloto tenga más de veinticuatro (24) meses desde el último vuelo sin actividad como piloto al mando o copiloto, además de la certificación médica, deberá presentar un certificado de reentrenamiento (calificación final y anotación en la bitácora de vuelo) de sus competencias con un Instructor de Vuelo y rendir todos los exámenes teóricos y prácticos ante la DGAC.
+61.305 Eliminado.
 
 CAPÍTULO E
 
@@ -526,15 +530,7 @@ LICENCIA DE PILOTO COMERCIAL
 
 (e) Si cuenta con las habilitaciones correspondientes, desempeñarse con fines de lucro como Instructor de Vuelo o Ayudante de Instructor de Vuelo en aeronaves o dispositivos de instrucción para simulación de vuelo de la categoría apropiada.
 
-61.405 Renovación
-
-Cuando el Piloto Comercial requiera renovar su licencia y/o habilitación:
-
-(1) Dentro del plazo de vigencia de su habilitación sólo deberá presentar su certificación médica.
-
-(2) Cuando el piloto tenga menos de veinticuatro (24) meses desde el último vuelo sin actividad como piloto al mando o copiloto, además de la certificación médica, deberá presentar un certificado de reentrenamiento (calificación final y anotación en la bitácora de vuelo) de sus competencias con un instructor de vuelo.
-
-(3) Cuando el piloto tenga más de veinticuatro (24) meses desde el último vuelo sin actividad como piloto al mando o copiloto, además de la certificación médica, deberá presentar un certificado de reentrenamiento (calificación final y anotación en la bitácora de vuelo) de sus competencias con un instructor de vuelo y rendir todos los exámenes teóricos y prácticos ante la DGAC.
+61.405 Eliminado.
 
 CAPÍTULO F
 
@@ -638,15 +634,7 @@ Los dispositivos de instrucción para simulación de vuelo utilizados para adqui
 
 (d) Ejercer las atribuciones de vuelo por instrumentos en aviones con un solo piloto, siempre que cuente con la habilitación IFR vigente.
 
-61.505 Renovación
-
-Cuando el Piloto MPL requiera renovar su licencia y/o habilitación deberá:
-
-(1) Dentro del plazo de vigencia de su habilitación sólo deberá presentar su certificación médica.
-
-(2) Cuando el piloto tenga menos de veinticuatro (24) meses desde el último vuelo sin actividad como piloto al mando o copiloto, además de la certificación médica, deberá presentar un certificado de reentrenamiento (calificación final y anotación en la bitácora de vuelo) de sus competencias con un instructor de vuelo.
-
-(3) Cuando el piloto tenga más de veinticuatro (24) meses desde el último vuelo sin actividad como piloto al mando o copiloto, además de la certificación médica, deberá presentar un certificado de reentrenamiento (calificación final y anotación en la bitácora de vuelo) de sus competencias con un instructor de vuelo y rendir todos los exámenes teóricos y prácticos ante la DGAC.
+61.505 Eliminado.
 
 CAPÍTULO G
 
@@ -732,15 +720,7 @@ LICENCIA DE PILOTO DE TRANSPORTE DE LÍNEA AÉREA (TLA)
 
 (c) Si cuenta con las habilitaciones correspondientes, desempeñarse mediante remuneración como Instructor de Vuelo o Ayudante de Instructor de Vuelo en aeronaves o dispositivo de instrucción para simulación de vuelo de la categoría correspondiente.
 
-61.605 Renovación
-
-Cuando el Piloto TLA requiera renovar su licencia y/o habilitación deberá:
-
-(1) Dentro del plazo de vigencia de su habilitación sólo deberá presentar su certificación médica.
-
-(2) Cuando el piloto tenga menos de veinticuatro (24) meses desde el último vuelo sin actividad como piloto al mando o copiloto, además de la certificación médica, deberá presentar un certificado de reentrenamiento (calificación final y anotación en la bitácora de vuelo) de sus competencias con un Instructor de Vuelo.
-
-(3) Cuando el piloto tenga más de veinticuatro (24) meses desde el último vuelo sin actividad como piloto al mando o copiloto, además de la certificación médica, deberá presentar un certificado de reentrenamiento (calificación final y anotación en la bitácora de vuelo) de sus competencias con un Instructor de Vuelo y rendir todos los exámenes teóricos y prácticos ante la DGAC.
+61.605 Eliminado.
 
 CAPÍTULO H
 
@@ -830,15 +810,7 @@ El solicitante menor de dieciocho (18) años deberá contar con el consentimient
 
 (c) Efectuar las tareas de mantenimiento menor de aeronaves en conformidad al Reglamento que establece las reglas sobre mantenimiento.
 
-61.705 Renovación
-
-Cuando el Piloto Planeador requiera renovar su licencia y/o habilitación deberá:
-
-(1) Dentro del plazo de vigencia de su habilitación sólo deberá presentar su certificación médica.
-
-(2) Cuando el piloto tenga menos de veinticuatro (24) meses desde el último vuelo sin actividad como piloto al mando o copiloto, además de la certificación médica, deberá presentar un certificado de reentrenamiento (calificación final y anotación en la bitácora de vuelo) de sus competencias con un Instructor de Vuelo.
-
-(3) Cuando el piloto tenga más de veinticuatro (24) meses desde el último vuelo sin actividad como piloto al mando o copiloto, además de la certificación médica, deberá presentar un certificado de reentrenamiento (calificación final y anotación en la bitácora de vuelo) de sus competencias con un Instructor de Vuelo y rendir todos los exámenes teóricos y prácticos ante la DGAC.
+61.705 Eliminado.
 
 ## Capítulo I
 
@@ -920,15 +892,7 @@ El solicitante menor de dieciocho (18) años deberá contar con el consentimient
 
 (c) Efectuar las tareas de mantenimiento menor de aeronaves en conformidad al Reglamento que establece las reglas sobre mantenimiento.
 
-61.805 Renovación
-
-Cuando el Piloto de Globo Libre requiera renovar su licencia y/o habilitación deberá:
-
-(1) Dentro del plazo de vigencia de su habilitación sólo deberá presentar su certificación médica.
-
-(2) Cuando el piloto tenga menos de veinticuatro (24) meses desde el último vuelo sin actividad como piloto al mando o copiloto, además de la certificación médica, deberá presentar un certificado de reentrenamiento (calificación final y anotación en la bitácora de vuelo) de sus competencias con un Instructor de Vuelo.
-
-(3) Cuando el piloto tenga más de veinticuatro (24) meses desde el último vuelo sin actividad como piloto al mando o copiloto, además de la certificación médica, deberá presentar un certificado de reentrenamiento (calificación final y anotación en la bitácora de vuelo) de sus competencias con un Instructor de Vuelo y rendir todos los exámenes teóricos y prácticos ante la DGAC.
+61.805 Eliminado.
 
 CAPÍTULO J
 
@@ -942,7 +906,7 @@ El solicitante menor de dieciocho (18) años deberá contar con el consentimient
 
 (b) Competencia lingüística: Leer, hablar, escribir y comprender el idioma español;
 
-(c) Certificación Médica Aeronáutica: La que corresponda de acuerdo a lo establecido en el Reglamento pertinente; y
+(c) Eliminado.
 
 (d) Acreditar conocimientos teóricos, instrucción de vuelo, experiencia aeronáutica y pericia en las siguientes materias técnicas aeronáuticas:
 
@@ -997,10 +961,6 @@ El solicitante menor de dieciocho (18) años deberá contar con el consentimient
 Desempeñarse como piloto al mando en UL en aquellas actividades que pueden desarrollarse en los espacios aéreos establecidos por la DGAC para tal efecto.
 
 61.905 Renovación
-
-Cuando el piloto UL requiera renovar su licencia y/o habilitación deberá presentar su certificación médica y acreditar la estandarización periódica.
-
-61.907 Estandarización periódica
 
 Cada seis (6) años el titular de una licencia de Piloto de Ultraliviano (UL) deberá someterse a un proceso de estandarización sobre técnicas y procedimientos de vuelo. Si el piloto se encuentra autorizado para efectuar operaciones en ultralivianos no motorizados biplaza el intervalo será de cuatro (4) años. Esta estandarización no es exigible para quien mantenga vigente una habilitación de Instructor de Vuelo de piloto UL.
 
@@ -1344,13 +1304,39 @@ Actuar como piloto al mando (PIC) o copiloto (SIC) de una aeronave de la categor
 
 (5) Experiencia reciente:
 
-(i) Como experiencia reciente específica se requerirá haber efectuado en los últimos seis (6) meses no menos de seis (6) horas de vuelo por instrumentos en condiciones IFR (reglas de vuelo por instrumentos) reales o simuladas como piloto al mando, incluyéndose seis (6) aproximaciones IFR o doce (12) horas de vuelo por instrumentos en condiciones IFR reales o simuladas como copiloto, incluyéndose tres (3) aproximaciones IFR.
+Para actuar como piloto al mando o copiloto bajo las reglas de vuelo por instrumentos (IFR), deberá, dentro de los 6 meses calendario anteriores al mes del vuelo, haber realizado y registrado en una aeronave o en un dispositivo de instrucción para simulación de vuelo: vuelos IFR o VFR en condiciones simuladas usando un dispositivo de limitación de la vista, los siguientes procedimientos y maniobras:
 
-(ii) El Piloto Comercial, MPL - Avión y TLA deberá demostrar la competencia del titular para efectuar el vuelo por instrumentos cada seis (6) meses. Las que se efectuarán dos (2) veces cada doce (12) meses consecutivos a intervalos no mayores de ocho (8) meses ni menores de cuatro (4). Tratándose del Piloto Privado esta demostración se efectuará cada doce (12) meses. Podrá emplearse una aeronave o un dispositivo de instrucción para simulación de vuelo (simuladores o entrenadores) aprobado por la DGAC.
+. 6 aproximaciones por instrumentos;
 
-(iii) Cuando el piloto posea simultáneamente habilitaciones en diferentes categorías de aeronaves el examen de competencia en vuelo podrá efectuarse alternadamente en una aeronave o uso de dispositivo de instrucción para simulación de vuelo de una categoría, en un período, y en aeronave o uso de dispositivo de instrucción para simulación de vuelo de distinta categoría, en la siguiente evaluación.
+. 1 procedimiento de ingreso, mantención y abandono de un circuito de espera y sus técnicas, y
 
-(6) Renovación.
+. 1 procedimiento de interceptación y mantención de cursos a través del uso de un sistema electrónico de navegación.
+
+Si el piloto no puede cumplir con el requisito anterior, deberá efectuar una demostración de competencias (prueba de pericia) ante un inspector, un instructor evaluador o efectuar un reentrenamiento con un instructor de vuelo por instrumentos o bajo su supervisión.
+
+(6) Demostración de competencia (prueba de pericia):
+
+(i) Tratándose de pilotos que operan bajo la Norma Técnica Aeronáutica de operación para actividades aéreas comerciales respectiva; el titular deberá efectuar una demostración de competencia de la habilitación de vuelo por instrumentos cada seis meses, ante un inspector o instructor evaluador.
+
+(ii) Tratándose de pilotos que operen bajo la Norma Técnica Aeronáutica de operación para actividades aéreas comerciales respectiva; y que pertenezcan a una flota que utilice un Programa de Cualificación Avanzada (AQP) aprobado por la DGAC; la demostración de competencias de la habilitación de vuelo por instrumentos que incluye aproximaciones de categoría y operaciones de navegación basada en la performance se efectuarán en el mes de inicio de su periodo en un dispositivo de instrucción para simulación de vuelo y en la mitad del período, a través de un examen en la línea operativa de vuelo ante un inspector o examinador de vuelo. La periodicidad (o recurrencia) de las demostraciones de competencia en un dispositivo de instrucción para simulación de vuelo o en la línea operativa de vuelo estarán definidos por los ciclos de aprobación del programa AQP de cada flota en particular.
+
+(iii) Tratándose de pilotos que operen bajo la Norma Técnica Aeronáutica de operación para la aviación no comercial respectiva; no estarán sujetos a una demostración de competencias y para mantener vigente su habilitación de vuelo por instrumentos sólo deberán dar cumplimiento a lo establecido en el párrafo 61.1009 literal (d) numeral (5).
+
+(iv) Cuando el piloto posea simultáneamente habilitaciones en diferentes categorías de aeronaves el examen de competencia en vuelo podrá efectuarse alternadamente en una aeronave o uso de dispositivo de instrucción para simulación de vuelo de una categoría, en un período, y en aeronave o uso de dispositivo de instrucción para simulación de vuelo de distinta categoría, en la siguiente evaluación.
+
+(7) Prórroga:
+
+Cuando un piloto no pueda cumplir con el requisito de la demostración de competencias señalado en el párrafo 61.1009 literal (d) numeral (6):
+
+(i) Podrá solicitar una prórroga de hasta 60 días, periodo en el cual puede seguir ejerciendo las atribuciones de la habilitación de vuelo por instrumentos. Una vez rendida la demostración de competencias, se mantendrá la fecha inicial de vencimiento;
+
+(ii) Solo está permitida una prórroga de la habilitación de vuelo por instrumentos en un periodo de 12 meses;
+
+(iii) Para aquellos que cumplen el Programa de Cualificación Avanzada (AQP): se podrá solicitar una prórroga por un plazo máximo de 30 días, de acuerdo con el ciclo de aprobación de la flota en particular, y
+
+(iv) Si antes de la demostración de competencia de la habilitación de vuelo por instrumentos, el piloto presenta un reentrenamiento con un instructor de vuelo por instrumentos, el periodo se reiniciará.
+
+(8) Renovación.
 
 Cuando el piloto requiera renovar su habilitación de vuelo por instrumentos deberá ceñirse a lo siguiente:
 

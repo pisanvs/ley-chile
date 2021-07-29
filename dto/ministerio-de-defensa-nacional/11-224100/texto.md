@@ -108,73 +108,45 @@ b) que se acredite la idoneidad profesional, pericia y experiencia del solicitan
 
 2.7.12 Período de vigencia de los certificados médicos.
 
-Los períodos de vigencia de los respectivos certificados médicos para cada licencia, serán los siguientes:
+Los períodos de vigencia de los respectivos certificados médicos para cada licencia serán los siguientes:
 
-12 meses para la licencia de Alumno Piloto,
+60 meses para la licencia de alumno piloto;
 
-24 meses para la licencia de Piloto Privado menor
+60 meses para la licencia de piloto privado;
 
-de 40 años
+60 meses para la licencia de piloto de planeador;
 
-12 meses para licencia de Piloto Privado mayor de
+60 meses para la licencia de piloto de globo libre;
 
-40 años,
+12 meses para la licencia de piloto comercial;
 
-12 meses para la licencia de Piloto Comercial
+12 meses para la licencia de piloto de tripulación múltiple (avión);
 
-menor de 40 años,
+12 meses para la licencia de piloto de transporte de línea aérea;
 
-6 meses para la licencia de Piloto Comercial
+12 meses para la licencia de operador de sistemas;
 
-mayor de 40 años,
+36 meses para la licencia tripulante auxiliar de cabina;
 
-6 meses para la licencia de Piloto de
+48 meses para la licencia tripulante auxiliar sanitario;
 
-Transporte de Línea Aérea,
+48 meses para la habilitación de mecánico tripulante;
 
-12 meses para la licencia de Operador de
+24 meses para la licencia de alumno controlador de tránsito aéreo;
 
-Sistemas,
+24 meses para la licencia de controlador de tránsito aéreo;
 
-12 meses para la licencia de Tripulante Auxiliar
+48 meses para la licencia de técnico en servicios de vuelo;
 
-(de Cabina),
+2.7.12.1 El período de validez de una certificación médica aeronáutica puede reducirse cuando clínicamente es indicado.
 
-12 meses para la licencia de Ayudante de
+2.7.12.2 Cuando el titular de una licencia de piloto de transporte de línea aérea y de una licencia de piloto comercial que participa en operaciones de transporte aéreo comercial con un solo tripulante transportando pasajeros, haya cumplido 40 años de edad, el período de validez especificado en el párrafo 2.7.12 se reducirá a 6 meses.
 
-Controlador de Tránsito Aéreo
+2.7.12.3 Cuando el titular de una licencia de piloto de transporte de línea aérea, de una licencia de piloto comercial y de una licencia de piloto con tripulación múltiple (avión) que participa en operaciones de transporte aéreo comercial, haya cumplido 60 años de edad, el período de validez especificado en el párrafo 2.7.12 se reducirá a 6 meses.
 
-24 meses para la licencia de Controlador de
+2.7.12.4 Cuando el titular de una licencia de piloto privado, de una licencia de piloto de globo libre, de una licencia de piloto de planeador y de una licencia de técnico en servicios de vuelo haya cumplido 50 años de edad, el período de validez especificado en el párrafo 2.7.12 se reducirá a 24 meses.
 
-Tránsito Aéreo menor de 40 años,
-
-12 meses para la licencia de Controlador de
-
-Tránsito Aéreo mayor de 40 años,
-
-48 meses para la licencia de Operador de Carga
-
-y Estiba
-
-24 meses para la licencia de Encargado de
-
-Operaciones de Vuelo,
-
-48 meses para la licencia de Operador de
-
-Servicio de Vuelo;
-
-48 meses para la licencia de Ayudante de
-
-Mecánico de Mantenimient,
-
-48 meses para el Personal de Mantenimiento, y
-
-12 meses para la licencia de Piloto de Tripulación Múltiple (MPL) - Avión,
-
-48 meses para la licencia de Piloto de Ultraliviano no Motorizado (UL),
-
-12 meses para la licencia de Mecánico Tripulante.
+2.7.12.5 Cuando el titular de una licencia de piloto privado, de una licencia de piloto de globo libre, de una licencia de piloto de planeador, de una licencia de controlador de tránsito aéreo y de una licencia de técnico en servicios de vuelo haya cumplido 60 años de edad, el período de validez especificado en el párrafo 2.7.12 se reducirá a 12 meses.
 
 2.8 DISMINUCION DE LA APTITUD SICOFISICA
 
@@ -278,19 +250,7 @@ Aplicable a los solicitantes y titulares de la licencia:
 
 - licencia de controlador de tránsito aéreo.
 
-5.2.2 Examen médico general.
-
-Aplicable a los solicitantes y titulares de las licencias:
-
-- licencia de encargado de operaciones de vuelo;
-
-- licencia de operador de servicios de vuelo;
-
-- licencia del personal de mantenimiento.
-
-- Licencia de operador de carga y estiba (OCE), sólo en lo referido al punto 5.7.4.
-
-- Licencia de piloto de Ultraliviano no Motorizado (UL).
+5.2.2 Eliminado.
 
 5.2.3 El propio solicitante de una certificación médica suministrará al médico examinador autorizado una declaración jurada de los datos médicos referentes a su historia personal, familiar y hereditaria. Se hará saber al solicitante que es necesario que presente una declaración tan completa y precisa como sus conocimientos en estos detalles le permitan, y toda declaración falsa se tratará de conformidad con lo dispuesto en 2.7.5.
 

@@ -378,9 +378,7 @@ Ninguna persona puede ejercer las funciones de un EOV en aeronaves civiles dedic
 
 (c) Competencia Lingüística: Estar capacitado para leer, hablar, escribir y entender el idioma español y comprensión del idioma inglés a nivel de manuales técnicos y documentos aeronáuticos;
 
-(d) Certificación Médica Aeronáutica: De acuerdo a lo establecido en el reglamento correspondiente; y
-
-(e) Acreditar conocimientos teóricos, instrucción, experiencia aeronáutica y pericia en las siguientes materias técnicas aeronáuticas:
+(d) Acreditar conocimientos teóricos, instrucción, experiencia aeronáutica y pericia en las siguientes materias técnicas aeronáuticas:
 
 (1) Conocimientos: El solicitante habrá demostrado un nivel de conocimientos de acuerdo a las atribuciones que la licencia de EOV confiere a su titular como mínimo en los temas siguientes:
 
@@ -442,21 +440,13 @@ Para el otorgamiento de otras habilitaciones para el EOV el solicitante debe:
 
 (1) Poseer licencia de EOV vigente; y (2) Haber satisfecho los requisitos de entrenamiento y pericia respecto de la operación de la aeronave para la cual solicita habilitación.
 
-65.311 Experiencia reciente y renovación
+65.311 Renovación.
 
-(a) Como experiencia reciente, el titular deberá acreditar:
+Cada cuatro (4) años el titular de la licencia deberá acreditar ante la DGAC:
 
-(1) En los últimos cuatro (4) años haber desempeñado las funciones correspondientes a su licencia durante por lo menos veinticuatro (24) meses, de los cuales los últimos seis (6) meses deben ser inmediatamente anteriores a la fecha de la solicitud de renovación; y
+(a) Haber desempeñado las funciones correspondientes a su licencia durante, por lo menos veinticuatro (24) meses, de los cuales los últimos seis (6) meses deben ser inmediatamente anteriores a la fecha de la solicitud de renovación, y
 
-(2) En los últimos cuatro (4) años haber efectuado un curso formal de actualización técnica afín con su habilitación.
-
-(b) Para renovar su licencia y/o habilitación:
-
-(1) Dentro del plazo de vigencia de su habilitación, sólo deberá presentar su certificación médica.
-
-(2) Cuando el EOV tenga menos de veinticuatro (24) meses desde la última actividad efectuada como EOV, además de la certificación médica, deberá presentar un certificado de reentrenamiento de sus competencias.
-
-(3) Cuando el EOV tenga más de veinticuatro (24) meses desde la última actividad efectuada como EOV, además de la certificación médica, deberá presentar un certificado de reentrenamiento de sus competencias y rendir todos los exámenes teóricos y prácticos ante la DGAC.
+(b) En los últimos cuatro (4) años haber efectuado un curso formal de actualización técnica afín con su habilitación.
 
 65.313 Licencia Operador de Carga y Estiba (OCE)
 
@@ -470,9 +460,7 @@ Ninguna persona puede ejercer las funciones de OCE en aeronaves civiles dedicada
 
 (c) Competencia Lingüística: Estar capacitado para leer, hablar, escribir y entender el idioma español y comprensión de idioma inglés a nivel de manuales técnicos y documentos aeronáuticos; y
 
-(d) Certificación Médica Aeronáutica: De acuerdo a lo establecido en el Reglamento pertinente.
-
-(e) Acreditar conocimientos teóricos, instrucción, experiencia aeronáutica y pericia en las siguientes materias técnicas aeronáuticas:
+(d) Acreditar conocimientos teóricos, instrucción, experiencia aeronáutica y pericia en las siguientes materias técnicas aeronáuticas:
 
 (1) Conocimientos:
 
@@ -506,21 +494,13 @@ El solicitante habrá demostrado un nivel de conocimientos de acuerdo a las atri
 
 Dirigir los trabajos de carga y descarga y efectuar los cálculos de centro de gravedad de aeronaves asegurando que quede dentro de los límites de operación y presentando bajo su firma el formulario de peso y balance, ya sea al EOV o al piloto al mando según corresponda.
 
-65.319 Experiencia reciente y renovación
+65.319 Renovación.
 
-(a) Como experiencia reciente el titular deberá acreditar:
+Cada cuatro (4) años el titular de la licencia deberá acreditar ante la DGAC:
 
-(1) En los últimos cuatro (4) años haber desempeñado las funciones correspondientes a su licencia durante por lo menos veinticuatro (24) meses, de los cuales los últimos seis (6) meses deben ser inmediatamente anteriores a la fecha de la solicitud de revalidación;
+(a) Haber desempeñado las funciones correspondientes a su licencia durante, por lo menos veinticuatro (24) meses, de los cuales los últimos seis (6) meses deben ser inmediatamente anteriores a la fecha de la solicitud de renovación, y
 
-(2) En los últimos cuatro (4) años haber efectuado un curso formal de actualización técnica afín con su habilitación.
-
-(b) Para renovar su licencia y/o habilitación:
-
-(1) Dentro del plazo de vigencia de su habilitación deberá presentar su certificación médica.
-
-(2) Cuando el OCE tenga menos de veinticuatro (24) meses desde la última actividad efectuada como OCE, además de la certificación médica, deberá presentar un certificado de reentrenamiento de sus competencias.
-
-(3) Cuando el OCE tenga más de veinticuatro (24) meses desde la última actividad efectuada como OCE, además de la certificación médica, deberá presentar un certificado de reentrenamiento de sus competencias y rendir todos los exámenes teóricos y prácticos ante la DGAC.
+(b) En los últimos cuatro (4) años haber efectuado un curso formal de actualización técnica afín con su habilitación.
 
 CAPÍTULO E
 
@@ -550,7 +530,7 @@ PERSONAL DE MANTENIMIENTO
 
 (3) Presentar documento emitido por una organización de mantenimiento aprobada o aceptada por la DGAC que acredite que efectuará labores de Ayudante de Mecánico de Mantenimiento; y
 
-(4) Certificación Médica Aeronáutica: De acuerdo a lo establecido en el Reglamento pertinente.
+(4) Eliminado.
 
 (b) Atribuciones del Ayudante de Mecánico de Mantenimiento. Realizar trabajos técnicos de mantenimiento bajo la supervisión directa de un Mecánico o Supervisor de Mantenimiento o de un Ingeniero con licencia y habilitación vigente. No podrá certificar con su firma los trabajos de mantenimiento efectuados.
 
@@ -564,9 +544,7 @@ PERSONAL DE MANTENIMIENTO
 
 (c) Competencia lingüística: Estar capacitado para leer, hablar, escribir y entender el idioma español y comprensión del idioma inglés a nivel de manuales técnicos y documentos aeronáuticos;
 
-(d) Certificación Médica Aeronáutica: De acuerdo a lo establecido en el Reglamento pertinente; y
-
-(e) Acreditar conocimientos teóricos, instrucción, experiencia aeronáutica y pericia en las siguientes materias técnicas aeronáuticas:
+(d) Acreditar conocimientos teóricos, instrucción, experiencia aeronáutica y pericia en las siguientes materias técnicas aeronáuticas:
 
 (1) Conocimientos:
 
@@ -858,17 +836,9 @@ iv. Aplicar correctamente las instrucciones técnicas de manuales y otros docume
 
 (2) Atribuciones. Ejecutar trabajos de mantenimiento de su especialidad y certificarlos con su firma, basándose en documentos técnicos aprobados o aceptados.
 
-(f) Experiencia reciente y renovación de la habilitación
+(f) Renovación.
 
-(1) Como experiencia reciente:
-
-(i) Deberá demostrar cada cinco (5) años que se ha dedicado a actividades propias de su habilitación(es), por lo menos seis (6) meses en cada una de ellas en los últimos veinticuatro (24) meses.
-
-(ii) Dentro del plazo de vigencia de su habilitación deberá presentar su certificación médica.
-
-(2) Renovación:
-
-Cuando el mecánico no cumpla con lo estipulado en (1) de esta sección, además de la certificación médica, deberá presentar un certificado de reentrenamiento de sus competencias y rendir todos los exámenes teóricos y prácticos ante la DGAC.
+Cada cinco (5) años el titular de la licencia, deberá acreditar ante la DGAC haber desempeñado las funciones correspondientes a ésta durante por lo menos veinticuatro (24) meses, de los cuales los últimos seis (6) meses deben ser inmediatamente anteriores a la fecha de la solicitud de renovación. En el caso que no pueda acreditar lo estipulado, deberá presentar un certificado de reentrenamiento de sus competencias.
 
 65.409 Licencia de Supervisor de Mantenimiento y sus habilitaciones
 
@@ -1138,11 +1108,9 @@ iii. Control de partes y trazabilidad.
 
 (v) Presentar para su aprobación ante la DGAC, a través de un centro de mantenimiento (organización de mantenimiento) autorizado, los estudios de alteración de aeronaves y componentes de aeronaves relacionados con su especialidad.
 
-(g) Renovación de la habilitación.
+(g) Renovación.
 
-(1) Demostrar cada cinco (5) años, que se ha dedicado a actividades propias de su habilitación(es) por lo menos seis (6) meses, en cada una de ellas en los últimos veinticuatro (24) meses.
-
-(2) Dentro del plazo de vigencia de su habilitación deberá presentar su certificación médica. (3) Cuando el supervisor no cumpla con lo estipulado en el numeral primero (1) de esta sección, además de la certificación médica, deberá presentar un certificado de reentrenamiento de sus competencias y rendir todos los exámenes teóricos y prácticos ante la DGAC.
+Cada cinco (5) años el titular de la licencia, deberá acreditar ante la DGAC haber desempeñado las funciones correspondientes a ésta durante por lo menos veinticuatro (24) meses, de los cuales los últimos seis (6) meses deben ser inmediatamente anteriores a la fecha de la solicitud de renovación. En el caso que no pueda acreditar lo estipulado, deberá presentar un certificado de reentrenamiento de sus competencias.
 
 65.411 Licencia de Ingeniero y sus habilitaciones
 
@@ -1156,7 +1124,7 @@ Sólo podrán ejercer las funciones de Ingeniero Especialista o Ingeniero Aeron�
 
 (ii) Competencia lingüística: Estar capacitado para leer, hablar, escribir y entender el idioma español y comprensión del idioma inglés a nivel de manuales técnicos y documentos aeronáuticos.
 
-(iii) Certificación Médica Aeronáutica: De acuerdo a lo establecido en el Reglamento pertinente.
+(iii) Eliminado.
 
 (2) Conocimientos y experiencia.
 
@@ -1196,11 +1164,9 @@ Sólo podrán ejercer las funciones de Ingeniero Especialista o Ingeniero Aeron�
 
 (iii) Certificar el retorno al servicio de la aeronave. (iv) Presentar para aprobación de la DGAC proyectos de diseño y/o de mantenimiento aeronáutico.
 
-(c) Renovación de la habilitación.
+(c) Renovación.
 
-(1) Demostrar, cada cinco (5) años, que se ha dedicado a actividades propias de su habilitación(es) por lo menos seis (6) meses en cada una de ellas en los últimos veinticuatro (24) meses.
-
-(2) Dentro del plazo de vigencia de su habilitación deberá presentar su certificación médica. (3) Cuando el ingeniero no cumpla con lo estipulado en el numeral primero (1) de esta sección, además de la certificación médica, deberá presentar un certificado de reentrenamiento de sus competencias y rendir un examen de normativa aeronáutica nacional.
+Cada cinco (5) años el titular de la licencia, deberá acreditar ante la DGAC haber desempeñado las funciones correspondientes a ésta durante por lo menos veinticuatro (24) meses, de los cuales los últimos seis (6) meses deben ser inmediatamente anteriores a la fecha de la solicitud de renovación. En el caso que no pueda acreditar lo estipulado, deberá presentar un certificado de reentrenamiento de sus competencias.
 
 #### Artículo segundo
 
