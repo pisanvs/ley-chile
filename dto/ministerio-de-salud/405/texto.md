@@ -710,6 +710,18 @@ Diisopropiltriptamina (DIPT)
 
 .
 
+4F- MDMB - BINACA: methyl (2S) – 2 – {[1 -
+
+4-fluorobutyl) - 1H –
+
+indazole-3- carbonyl]
+
+amino} – 3,
+
+3-dimethylbutanoate)
+
+METALILESCALINA: 4-metilaliloxi-3,5-dimetoxifenetilamina
+
 DROGAS: LISTA II
 
 AMFETAMINA (+-) -2-amino-1-fenilpropano y
