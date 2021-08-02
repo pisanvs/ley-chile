@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 942, de 21 de julio de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí N° 176, comuna de Chillán, Rol de Avalúo N° 00697-00015, de aparente dominio de Ferreira Moreira Alicia Maribel. La parte afecta a expropiación parcial de terreno es de 54,77 m2 y expropiación total de las edificaciones de 47,47 m2 cuyos linderos particulares, enmarcados en el plano S16R-36, para el proyecto "Mejoramiento Avenida Huamabli, Chillán, Región de Ñuble", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, Constructor Civil don Ítalo Renzo Zerga Arancibia y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $30.462.742.-
+
+Director Serviu, Región de Ñuble.
