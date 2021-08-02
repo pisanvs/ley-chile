@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 424, de 25 de junio de 2021 y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 20, para la obra: MEJORAMIENTO CAMINO ITROPULLI - SAN PEDRO, RUTAS T-695 Y T-699, que figura a nombre de VILLANUEVA CONEJEROS ALICIA VERONIC, rol de avalúo 600-99, Comuna de PAILLACO, REGION DE LOS RÍOS, superficie 200 m2. La Comisión de Peritos integrada por MARIA SOLEDAD NUÑEZ ARROYO, YASCHALA MARIBEL YAÑEZ RIFFO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de fecha 18 de marzo de 2015, fijó el monto de la indemnización provisional en la cantidad de $871.100.-para el lote Nº20. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
