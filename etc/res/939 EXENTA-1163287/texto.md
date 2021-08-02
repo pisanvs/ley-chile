@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 939 del 21 de julio de 2021, SERVIU Región de Ñuble ordenó expropiación de inmueble ubicado en Huambali Nº 138 LT4, comuna de Chillán, Rol de Avalúo Nº 00697-00010, de aparente dominio de Quezada Torres Javier Alberto. La parte afecta a expropiación parcial de terreno es de 224,80 m2 cuyos linderos particulares, enmarcados en el plano S16R-31, para el proyecto "Mejoramiento Avenida Huamabli, Chillán, Región de Ñuble", conforme artículo 51 Ley 16.391 y D.L. 2186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, Constructor Civil don Ítalo Renzo Zerga Arancibia y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $45.025.025-
+
+Director SERVIU Región de Ñuble.
