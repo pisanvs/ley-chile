@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.646, de fecha 19 de mayo de 2021, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186, de 1978, del denominado Lote Nº 8211-28, correspondiente al inmueble ubicado en Montaña Adentro 01682, Dp. 14, Rol de Avalúo Nº 8211-28, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Rosa Paulina Ramírez Martínez, con una superficie aproximada de 43,19 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Regeneración del Conjunto Habitacional Marta Brunet del Sector Bajos de Mena, comuna de Puente Alto". La Comisión de Peritos integrada por el señor Leonardo Bastías Tessada, constructor civil; señora Mónica Conejeros Rudloff, ingeniero agrónomo y señora María Isabel Ríos Marcuello, arquitecto, mediante informe de fecha 9 de noviembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $19.027.785, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 79, del decreto ley Nº 2.186, de 1978.-
+
+Directora Serviu Metropolitano.
