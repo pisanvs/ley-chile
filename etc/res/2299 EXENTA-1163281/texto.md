@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.299, de fecha 9 de julio de 2021, se ordenó la expropiación parcial, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° DS 2, correspondiente al inmueble ubicado en Recinto Estación El Monte LT.6, Rol de Avalúo N° 134-81, de la Comuna de El Monte, Región Metropolitana, de aparente dominio de Empresa de los Ferrocarriles del Es, con una superficie aproximada de 565,18 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Mejoramiento Integral Infraestructura Ferroviaria, Tramo Alameda Melipilla". La Comisión de Peritos integrada por los señores Verónica Olivier Valdebenito, Arquitecto; Claudia Marzullo García, Arquitecto, y Andrés Echeverría Campo, Ingeniero Agrónomo, mediante Informe de fecha 19 de mayo de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $51.665.960, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
