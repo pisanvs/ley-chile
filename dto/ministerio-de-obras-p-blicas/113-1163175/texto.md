@@ -1,0 +1,13 @@
+AMPLIACIÓN DE CONCESIONES DE PRODUCCIÓN Y DISTRIBUCIÓN DE AGUA POTABLE Y DE RECOLECCIÓN Y DISPOSICIÓN DE AGUAS SERVIDAS PARA LA ATENCIÓN DEL SECTOR DENOMINADO "TERRAPUERTO", DE LA COMUNA DE COPIAPÓ, REGIÓN DE ATACAMA
+
+Por decreto número 113, del Ministerio de Obras Públicas, de fecha 11 de junio de 2021, íntegramente tramitado el 6 de julio de 2021, se concedió a la Empresa Concesionaria de Servicios Sanitarios S.A. (Econssa Chile S.A.), RUT N° 96.579.410-7, domiciliada para estos efectos en calle Monjitas número 392, piso 10, oficina 1003, Santiago, Región Metropolitana, ampliación de sus concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas que la habilitan para atender el sector denominado "Terrapuerto", de la comuna de Copiapó, Región de Atacama.
+
+La zona de concesión o territorio operacional de los servicios de producción y distribución de agua potable y de recolección y disposición de aguas servidas, corresponderá a área de aproximadamente 1,93 hectáreas, que se encuentra identificada y delimitada en el plano denominado "Solicitud de Ampliación del Territorio Operacional Terrapuerto Copiapó Contenido: Plantas Generales Cuadros y Vértices Plano de Ubicación General", que forma parte integrante del presente decreto. En el primer establecimiento (año 2024), se considera la instalación de un arranque de agua potable y una unión domiciliaria de alcantarillado, cantidad que se mantendrá, en ambos casos, hacia el final del período (año 2034).
+
+El servicio público de producción de agua potable para la localidad de Copiapó, incluido el sector que se amplía por este decreto, será abastecido por las fuentes que se indican en el numeral 3.1, letra a) de la Ficha de Antecedentes Técnicos (FAT) sobre las cuales la concesionaria tiene los derechos que se individualizan en los respectivos informes de títulos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el Art. 26° del DS MOP N°1.199/04, y se encuentran afectos a la concesión. Todos los documentos indicados forman parte integrante del presente decreto.
+
+Las demás condiciones de prestación de los servicios otorgados en concesión, son las establecidas en la Ficha de Antecedentes Técnicos (FAT) Nº SC 03-01 E, que forma parte integrante del presente decreto.
+
+Programa de desarrollo, nivel tarifario, garantías y otros en decreto extractado que se redujo a escritura pública con fecha 13 de julio de 2021 ante el Notario de la 8ª Notaría de Santiago, don Luis Ignacio Manquehual Mery y archivados en la Superintendencia de Servicios Sanitarios bajo el N° SC 03-01 E.- Julio 2021.-
+
+David Peralta Anabalón, Superintendente de Servicios Sanitarios (S).
