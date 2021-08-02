@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 460 de 30 de junio de 2021, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 6 para la obra: CONCESION SISTEMA AMERICO VESPUCIO NOR - PONIENTE AV. EL SALTO - RUTA 78 "PID OBRAS TRAMO 6" MEJORAMIENTO CONEXIÓN AMERICO VESPUCIO CON SAN PABLO Y RUTA 68. KM 4.800,00 A KM 6.600,00, Región Metropolitana de Santiago, que figura a nombre de PRINCIPAL CIA DE SEG DE VIDA CHI, rol de avalúo 5700-4 de la comuna de Pudahuel, superficie 829 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 89 de 9 de julio de 2020, integrada por Carolina Claudia Verdejo Díaz, Gustavo Eduardo Picero García y Nicolás Alejandro Alarcón Sánchez, fijó con fecha 28 de agosto de 2020, el valor provisional de las indemnizaciones en la cantidad de $196.101.000 para el lote N° 6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
