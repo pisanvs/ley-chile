@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 940, del 21 de julio de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambali Nº 174, comuna de Chillán, Rol de Avalúo Nº 00697-00014, de aparente dominio de Suc. del Valle Espinoza Ilda del C. La parte afecta a expropiación parcial de terreno es de 105,36 m2 y expropiación total de las edificaciones de 145,24 m2 cuyos linderos particulares, enmarcados en el plano S16R-35, para el proyecto "Mejoramiento Avenida Huambali, Chillán, Región de Ñuble", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, Constructor Civil don Ítalo Renzo Zerga Arancibia y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $50.690.408.-
+
+Director Serviu Región de Ñuble.
