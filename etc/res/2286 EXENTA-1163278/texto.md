@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.286, de fecha 9 de julio de 2021, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº CO 5, correspondiente al inmueble ubicado en Parcela 5 Malloco, Rol de Avalúo Nº 301-42, de la comuna de Peñaflor, Región Metropolitana, de aparente dominio de Inmobiliaria San Patricio S.A., con una superficie aproximada de 76.159,57 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Mejoramiento Integral Infraestructura Ferroviaria, Tramo Alameda Melipilla". La Comisión de Peritos integrada por los señores Constanza González Vergara, Arquitecto; Karine Acevedo Hinojosa, Constructor Civil, y Marlene Ríos Marcuello, Ingeniero Agrónomo, mediante Informe de fecha 19 de mayo de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $1.665.221.742, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
