@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº463, de 09 de julio de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 47 y 48, para la obra: REPOSICION RUTAS T-47 Y T-45: CHOSHUENCO-RIÑIHUE, que figuran a nombre de CIA DE INVERSIONES ADRIATICO S A y CIA DE INVERSIONES ADRIATICO S A, roles de avalúo 246-24 y 246-24, Comuna de LOS LAGOS, REGION DE LOS RÍOS, superficies 1.027 y 1.784 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informes de tasación de 25 de octubre de 2017, fijó el monto de las indemnizaciones provisionales en las cantidades de $1.929.100.- para el lote Nº47, y $2.547.200.- para el lote Nº48. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
