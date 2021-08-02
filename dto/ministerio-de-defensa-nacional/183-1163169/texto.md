@@ -1,0 +1,5 @@
+OTORGAMIENTO CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 183, de fecha 19 de mayo de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Sociedad Pesquera Landes S.A., RUT 92.387.000-8, concesión marítima menor, con vencimiento el 31 de diciembre de 2030, sobre un sector de playa y fondo de mar, en el lugar denominado Sector Cabo Negro, comuna de Punta Arenas, Provincia de Magallanes, Región de Magallanes y de la Antártica Chilena, con una superficie total de 3.000 m2., la que fue tramitada con el S.I.A.B.C. Nº 45.239. A modo referencial se señala la siguiente coordenada geográfica: LAT 52º 55' 28,63" S; LONG 70º 50' 24,20" W. El objeto consiste en amparar la instalación de un emisario submarino. Las obras consisten en instalar un emisario submarino. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Punta Arenas. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Punta Arenas, 23 de julio de 2021.- Mauricio Elgueta Orellana, Capitán de Fragata LT., Capitán de Puerto de Punta Arenas.
