@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.888, de fecha 09 de julio de 2021, se ordenó la expropiación Parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº ES 2, correspondiente al inmueble ubicado en HJ STA Amalia LT 1 y 2, Rol de Avalúo N° 334-2, de la Comuna de Peñaflor, Región Metropolitana, de aparente dominio de Garrido Raúl Ismael, con una superficie aproximada de 9.175,13 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Mejoramiento Integral Infraestructura Ferroviaria, Tramo Alameda Melipilla". La Comisión de Peritos integrada por los señores Mario Zamorano Villablanca, Arquitecto; Gabriel Pantoja Rivera, Ingeniero Agrónomo y Sergio Jeremías Órdenes Salinas, Ingeniero Civil, mediante Informe de fecha 30 de abril de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $235.251.030, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
