@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 937 del 21 de julio de 2021, Serviu Region de Ñuble ordenó expropiación de inmueble ubicado en Huambali N° 152, comuna de Chillán, Rol de Avalúo N° 00697-00011, de aparente dominio de López Muñoz Angelina del Rosario. La parte afecta a expropiación parcial de terreno es de 142,45 m2 y total de 134,35 m2 de edificación, cuyos linderos particulares, enmarcados en el plano S 16R-32, para el proyecto "Mejoramiento Avenida Huamabli, Chillán, Región de Ñuble", conforme artículo 51 ley 16.391 y DL. 2186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, Constructor Civil don Ítalo Renzo Zerga Arancibia y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $40.148.191-
+
+Director Serviu Región de Ñuble.
