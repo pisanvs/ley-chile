@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.232, de fecha 6 de julio de 2021, se ordenó la expropiación Total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° Ter- P7, correspondiente al inmueble ubicado en Los Naranjos 0175 ST 769 Casas Viejas, Rol de Avalúo N° 4548-7, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Inmobiliaria Costa Azul S.A., con una superficie aproximada de 970 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Transporte Público Región Metropolitana". La Comisión de Peritos integrada por los señores Juan Sóhrens Péndola, Arquitecto; Karine Acevedo Hinojosa, Constructor Civil, y Mónica Conejeros Rudloff, Ingeniero Agrónomo, mediante Informe de fecha 11 de junio de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $106.254.500.- que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
