@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Exenta 786, 21 de julio 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno, ubicado Avda. Collao 1139 ST 3 B, Rol de Avalúo N° 320-63, comuna de Concepción, de aparente dominio de Fritz Cartes Teresa Jesús. La parte a expropiar tiene una superficie de 16,31 m2 de terreno, dentro del polígono y linderos señalados en plano S8R-40.176-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida Par-Vial Collao-General Novoa" comuna de Concepción, Región del Biobío, conforme artículo 51 Ley N° 16.391 y D.L. N° 2.186. Comisión Peritos integrada por el arquitecto Rodrigo Alexis Escobar Fernández, por el arquitecto Marcela Alejandra Melo Rodríguez, por arquitecto Daniela Andrea Cortez Moraga, según informe de fecha 25.05.2021, que fijó el monto de la indemnización provisional por la expropiación en la suma de $7.410.529.- más una suma de $29.642 por concepto de reajuste del artículo 5° del DL 2.186 de 1978, lo que da un total de $7.440.171.-
+
+Director Serviu Región del Biobío
