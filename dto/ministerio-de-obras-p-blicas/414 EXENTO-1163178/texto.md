@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°414, de 25 de junio de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL, MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s 73, 74 y 75, para la obra: CONSTRUCCIÓN CONEXIÓN VIAL ACCESO NORTE A SAN ANTONIO, que figuran a nombre de VIDAL GONZALEZ GRACIELA ESTER Y OTR, VERDUGO C RAMÓN y SAHI C ANGEL, roles de avalúo 9035-70, 9035-112 y 9035-101, Comuna de SAN ANTONIO, REGIÓN DE VALPARAÍSO, superficies 144, 148 y 183 m2. respectivamente. La Comisión de Peritos integrada por GASTON ALEJANDRO BRAVO HURTADO, CAROLINA ALEJANDRA BRITO RAMOS y NORMAN ESTANISLAO CALDERON PONTIGGIA, mediante informe de tasación de 08 de marzo de 2021, fijó el monto de la indemnización provisional en la cantidad de $648.800, para el lote N°73, $399.600, para el lote N°74 y $1.397.600, para el lote N°75. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
