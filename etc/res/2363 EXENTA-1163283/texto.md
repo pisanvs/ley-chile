@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.363, de fecha 12 de julio de 2021, se ordenó la expropiación parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº A21, correspondiente al inmueble ubicado en la Isla de San Miguel, Rol de Avalúo N° 250-1, de la Comuna de El Monte, Región Metropolitana, de aparente dominio de Comercial Maxagro S.A., con una superficie aproximada de 5.952,40 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Mejoramiento Integral Infraestructura Ferroviaria, Tramo Alameda Melipilla". La Comisión de Peritos integrada por los señores Mario Zamorano Villablanca, Arquitecto; Gabriel Pantoja Rivera, Ingeniero Agrónomo, y Sergio Jeremías Órdenes Salinas, Ingeniero Civil, mediante Informe de fecha 30 de abril de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $31.428.880, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
