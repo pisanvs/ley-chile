@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 944 del 21 de julio de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambali N° 148, comuna de Chillán, Rol de Avalúo N° 00697-00009, de aparente dominio de Sánchez Pantoja Eduardo y otros. La parte afecta a expropiación parcial de terreno es de 171,12 m2 y expropiación total de las edificaciones de 230,06 m² cuyos linderos particulares, enmarcados en el plano S1 6R-110, para el proyecto "Mejoramiento Avenida Huambali, Chillán, Región de Ñuble", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, Constructor Civil don Ralo Renzo Zerga Arancibia y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $119.853.879.-
+
+Alejandro Lara Martínez, Director Serviu Región de Ñuble.
