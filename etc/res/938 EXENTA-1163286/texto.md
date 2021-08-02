@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 938, del 21 de julio de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Collin Interior N° 698, comuna de Chillán, Rol de Avalúo Nº 00680-00014, de aparente dominio de Gutiérrez San Martín Olga del C. La parte afecta a expropiación parcial de terreno es de 914,10 m2 y total de edificación de 275,69 m2 cuyos linderos particulares, enmarcados en el plano S16R-025, para el proyecto "Mejoramiento Avenida Huambali, Chillán, Región de Ñuble", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, Constructor Civil don Ítalo Renzo Zerga Arancibia y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $252.440.916.-
+
+Director Serviu Región de Ñuble.
