@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.826, de fecha 04 de junio de 2021, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 8211-02, correspondiente al inmueble ubicado en Aguas Abajo 3765 DP 12, Rol de Avalúo Nº 8211-02, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Gema del Carmen Morales Muñoz, con una superficie aproximada de 42,74 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Regeneración del Conjunto Habitacional Marta Brunet del Sector Bajos de Mena, Comuna de Puente Alto". La Comisión de Peritos integrada por el señor Andrés Echeverría Campo, ingeniero agrónomo; señor Andrés Schulz Villanueva, arquitecto, y señora Carmen Ríos Marcuello, arquitecto, mediante Informe de fecha 01 de noviembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $19.617.388, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
