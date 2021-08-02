@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.091, de fecha 22 de junio de 2021, se ordenó la expropiación Total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° Ter- P4-Saldo, correspondiente al inmueble ubicado en E Cordero con Pie Andino LT B 2 Ex Fundo Peralillo, Rol de Avalúo N° 3800-448, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Servicio de Transporte de Person, con una superficie aproximada de 3.275,11 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Transporte Público Región Metropolitana". La Comisión de Peritos integrada por los señores Andrés Echeverría Campo, Ingeniero Agrónomo; Leonardo Bastías Tessada, Constructor Civil y María Cristina Camus Palacios, Arquitecto, mediante Informe de fecha 15 de octubre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $211.348.675.- que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
