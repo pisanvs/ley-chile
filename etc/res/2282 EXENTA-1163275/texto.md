@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.282, de fecha 8 de julio de 2021, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº CO 3, correspondiente al inmueble ubicado en Ex Coop Malloco PC 6, Rol de Avalúo Nº 301-43, de la comuna de Peñaflor, Región Metropolitana, de aparente dominio de Inmobiliaria San Patricio S.A., con una superficie aproximada de 80.498 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Mejoramiento Integral Infraestructura Ferroviaria, Tramo Alameda Melipilla". La comisión de peritos integrada por los señores Verónica Olivier Valdebenito, arquitecto; Claudia Marzullo García, arquitecto, y Andrés Echeverría Campo, ingeniero agrónomo, mediante informe de fecha 19 de mayo de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $1.799.410.184, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
