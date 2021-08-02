@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº426, de 25 de junio de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.5 y 6, para la obra: MEJORAMIENTO CBI CRUCE RUTA 5-CIRUELOS- PUREO, que figuran a nombre de SUC. ARRIAGADA ALVAREZ SAUL y MANQUEPILLAN HUAIQUIMILLA DAVID, roles de avalúo 324-155 y 324-103, Comuna de MARIQUINA, REGION DE LOS RÍOS, superficies 162 y 405 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informes de tasación de fecha 09 de agosto de 2019, fijó el monto de las indemnizaciones provisionales en las cantidades de $804.620.- para el lote Nº5 y $4.892.850.- para el lote Nº6. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
