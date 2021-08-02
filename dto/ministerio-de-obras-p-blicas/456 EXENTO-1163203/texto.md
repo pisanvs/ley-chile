@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº456, de 30 de junio de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 23-A, para la obra: MEJORAMIENTO RUTA F-190 S: VALLE ALEGRE-PUCHUNCAVI, que figura a nombre de INM LAS MELOSILLAS VALLE ALEGRE, rol de avalúo 195-26, Comuna de PUCHUNCAVI, REGIÓN DE VALPARAÍSO, superficie 1.520 m2. La Comisión de Peritos integrada por YAZMIN MERCEDES BALBOA ROJAS, HERMAN EDGARDO FIGUEROA ZÚÑIGA y PEDRO IGNACIO ZEGERS RIESCO, mediante informe de tasación de 30 de agosto de 2019, fijó el monto de la indemnización provisional en la cantidad de $7.467.600, para el lote Nº23-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
