@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.090, de fecha 22 de junio de 2021, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº TER-P3-SALDO, correspondiente al inmueble ubicado en E Cordero con Pie Andino LT B 1 Ex Fundo Peralillo, Rol de Avalúo N° 3800-447, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Inmobiliaria Costa Azul S.A., con una superficie aproximada de 10.823,23 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Transporte Público Región Metropolitana". La Comisión de Peritos integrada por los señores Andrés Echeverría Campo, ingeniero agrónomo; Leonardo Bastías Tessada, constructor civil y María Cristina Camus Palacios, arquitecto, mediante Informe de fecha 15 de octubre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $607.616.132 que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
