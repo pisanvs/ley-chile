@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.632, de fecha 18 de mayo de 2021, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 8212-06, correspondiente al inmueble ubicado en Aguas Abajo 3745 DP 22, Rol de Avalúo Nº 8212-06, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Janett Elozabeth Roa Lagos, con una superficie aproximada de 42,74 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Regeneración del Conjunto Habitacional Marta Brunet del Sector Bajos de Mena, Comuna de Puente Alto". La Comisión de Peritos integrada por el señor Andrés Echeverría Campo, ingeniero agrónomo; señor Andrés Schulz Villanueva, arquitecto, y señora Carmen Ríos Marcuello, arquitecto, mediante informe de fecha 01 de noviembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $19.093.972, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
