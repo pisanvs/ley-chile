@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°445, de 30 de julio de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s 19-A, 19-B y 19-C, para la obra: MEJORAMIENTO RUTA F-74-G, CUESTA IBACACHE-CASABLANCA, que figuran a nombre de LAMARCA BARROS GLORIA SARA Y OTROS, roles de avalúo 160-17, Comuna de CASABLANCA, REGIÓN DE VALPARAÍSO, superficies 466, 25 y 206 m2. respectivamente. La Comisión de Peritos integrada por LORETO ISABEL HERNANDEZ RIOS, SERGIO JEREMIAS ORDENES SALINAS y PATRICIA VERÓNICA ZAVALA CONTRERAS, mediante informe de tasación de 20 de diciembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $1.412.000, para el lote N°19-A, $89.500, para el lote N°19-B y $592.000, para el lote N°19-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
