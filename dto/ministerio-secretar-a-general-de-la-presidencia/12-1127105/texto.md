@@ -1,4 +1,4 @@
-CREA "CONSEJO ASESOR PERMANENTE PARA LA MODERNIZACIÓN DEL ESTADO" Y ORGANIZA LA "SECRETARÍA DE MODERNIZACIÓN DEL ESTADO" DENTRO DE LA UNIDAD COORDINADORA DEL PROGRAMA DE MODERNIZACIÓN DEL SECTOR PÚBLICO
+CREA "CONSEJO ASESOR PERMANENTE PARA LA MODERNIZACIÓN DEL ESTADO" Y ORGANIZA LA "SECRETARÍA DE MODERNIZACIÓN DEL ESTADO"
 
 Núm. 12.- Santiago, 25 de junio de 2018.
 
@@ -26,15 +26,15 @@ Decreto:
 
 Créase el "Consejo Asesor Permanente para la Modernización del Estado" (en adelante, el "Consejo"), como órgano asesor y consultivo del Presidente de la República, en asuntos de modernización del Estado y de la gestión pública.
 
-Al Consejo corresponderá asesorar al Presidente de la República en el análisis y evaluación de las políticas, planes y programas que compongan la agenda de modernización del Estado; formular recomendaciones y realizar estudios y diagnósticos sobre tales asuntos; someter a su consideración, propuestas de reforma estructural o institucional para ser llevadas a cabo como iniciativas de ley o dentro de las competencias que en materia de organización interna le confiere el ordenamiento jurídico; y dar respuesta a las consultas que dicha autoridad le formule.
+Al Consejo corresponderá asesorar al Presidente de la República en el análisis y evaluación de las políticas, planes y programas que compongan la agenda de modernización del Estado; formular recomendaciones sobre tales materias; someter a su consideración, propuestas de reforma estructural o institucional para ser llevadas a cabo como iniciativas de ley o dentro de las competencias que en materia de organización interna le confiere el ordenamiento jurídico; y dar respuesta a las consultas que dicha autoridad le formule.
 
-Asimismo, corresponderá al Consejo servir de instancia de coordinación con los demás entes asesores gubernamentales cuyos objetivos se relacionen directamente con asuntos de modernización del Estado y gestión pública.
+El Consejo se relacionará con el Presidente de la República a través del Ministerio de Hacienda.
 
 #### Artículo 2
 
-El Consejo estará integrado por trece miembros de reconocida experiencia en la gestión pública y/o privada, designados por el Presidente de la República, uno de los cuales será designado también Presidente. De entre sus miembros el Consejo podrá designar a un Vicepresidente.
+El Consejo estará integrado por trece miembros de reconocida experiencia en la gestión pública y/o privada, designados por el Presidente de la República, uno de los cuales será designado también Presidente, y otro, Vicepresidente.
 
-Durarán seis años en el desempeño de sus labores y se renovarán parcialmente cada dos, con excepción del Presidente del Consejo cuya designación durará por el tiempo que restare al período presidencial en que fuere nombrado. Los miembros del Consejo y el Presidente pueden ser nombrados por períodos sucesivos.
+Durarán seis años en el desempeño de sus labores y se renovarán parcialmente cada dos, con excepción del Presidente y Vicepresidente del Consejo, cuyas designaciones durarán por el tiempo que restare al período presidencial en que fueren nombrados. Los miembros del Consejo, como también el Presidente y Vicepresidente, pueden ser nombrados por períodos sucesivos.
 
 En caso de renuncia, muerte, incapacidad o cualquier otra circunstancia permanente que impida a uno de sus consejeros el ejercicio regular y continuo de sus funciones, el Presidente de la República designará un reemplazante, quien durará en sus funciones por el tiempo que le restare al faltante para completar su periodo.
 
@@ -76,51 +76,59 @@ Como Consejeros:
 
 #### Artículo 4
 
-El Consejo sesionará con la asistencia de, al menos, seis de sus miembros y adoptará sus acuerdos con el voto favorable de la mayoría de los asistentes. En caso de empate, dirimirá la votación quien presida la reunión.
+El Consejo sesionará con la asistencia de, al menos, la mitad de sus miembros y adoptará sus acuerdos con el voto favorable de la mayoría de los asistentes. En caso de empate, dirimirá la votación quien presida la reunión.
 
 El Consejo sesionará ordinariamente con la periodicidad que se determine por acuerdo, y cada vez que lo convoque su Presidente.
 
 Además, el Consejo, cuando lo estime necesario, podrá invitar a sus sesiones, con derecho a voz, a otros expertos y especialistas, como asimismo a entidades, públicas o privadas de carácter nacional, regional o municipal y a organizaciones de la sociedad civil relacionadas con las funciones que le han sido encomendadas.
 
-El Consejo se relacionará con el Presidente de la República a través del Ministerio Secretaría General de la Presidencia.
+Tanto el Ministro de Hacienda como el Subsecretario de Hacienda podrán participar de las sesiones de este Consejo con derecho a voz.
+
+También podrá participar con derecho a voz, el Jefe de la División de Coordinación Interministerial del Ministerio Secretaría General de la Presidencia, o quien lo subrogue o reemplace.
 
 #### Artículo 5
 
-El Consejo contará con un Secretario Ejecutivo encargado de servir de contacto permanente entre éste y la Secretaría de Modernización del Estado.
+El Consejo contará con un Secretario Ejecutivo, quien será el encargado de elaborar un acta de las sesiones del Consejo, dejando constancia de los acuerdos adoptados en ellas; así como de citar a los miembros del Consejo a las sesiones ordinarias que hubieran sido dispuestas por acuerdo del Consejo, o aquellas convocadas por el Presidente del mismo; y coordinar los equipos de trabajo que el Consejo hubiere acordado formar. El cargo de Secretario Ejecutivo será ejercido por la jefatura de la Secretaría de Modernización del Estado del Ministerio de Hacienda.
 
-El Ministerio Secretaría General de la Presidencia, dentro de sus facultades y posibilidades presupuestarias, proporcionará apoyo técnico, administrativo y de personal al Secretario Ejecutivo.
+La Subsecretaría de Hacienda, a través de la Secretaría de Modernización del Estado del Ministerio de Hacienda, dentro de sus facultades y disponibilidad presupuestaria, proporcionará apoyo técnico, administrativo y de personal al Secretario Ejecutivo y al Consejo para el cumplimiento de sus labores.
 
 #### Artículo 6
 
-El Presidente de la República, mediante instrucciones dirigidas a los órganos de la Administración del Estado, dispondrá que tales órganos, dentro del ámbito de sus respectivas competencias, le informen de los asuntos que conciernan a la modernización del Estado y de la gestión pública. Para tales efectos, en el Ministerio de Hacienda dentro de la Unidad Coordinadora del Programa de Modernización del Sector Público, se organizará una secretaría técnica, que podrá ser denominada "Secretaría de Modernización del Estado", la que servirá de instancia de coordinación entre los ministerios y servicios públicos en dichos asuntos, sistematizará los informes que éstos remitan y enviará esta información al Presidente de la República para la configuración de la agenda de modernización del Estado.
+El Presidente de la República, mediante instrucciones dirigidas a los órganos de la Administración del Estado, dispondrá que tales órganos, dentro del ámbito de sus respectivas competencias, le informen, a través del Subsecretario de Hacienda, de los asuntos que conciernan a la modernización del Estado y de la gestión pública.
 
-La Secretaría de Modernización del Estado podrá invitar a otros funcionarios públicos o personas con conocimientos expertos a colaborar en la elaboración de la agenda de modernización dentro de la esfera de sus competencias.
+Para tales efectos, y bajo la supervisión del Subsecretario de Hacienda, se organizará una secretaría técnica, que será desempeñada por la Secretaría de Modernización del Estado del Ministerio de Hacienda, prevista en el Programa Presupuestario de la misma denominación, que servirá del instancia de coordinación entre los ministerios y servicios públicos respecto de los asuntos indicados en el inciso anterior, y sistematizará los informes que éstos remitan para la elaboración de la agenda de modernización del Estado. El Subsecretario de Hacienda propondrá al Presidente de la República dicha agenda para su aprobación y publicación, así como los ajustes que corresponda durante su implementación.
 
-Para el cumplimiento de este cometido, se integrarán a la Secretaría de Modernización del Estado el Secretario Ejecutivo del Consejo al que alude el artículo anterior, así como seis representantes designados de entre sus respectivos funcionarios por los Ministerios de Hacienda, Secretaría General de la Presidencia y Dirección de Presupuestos.
-
-El Ministro de Hacienda en conjunto con el Ministro Secretario General de la Presidencia, acordarán las normas necesarias para el adecuado funcionamiento de la Secretaría de Modernización del Estado.
+La Secretaría de Modernización del Estado del Ministerio de Hacienda podrá invitar a otros funcionarios públicos o personas con conocimientos expertos a colaborar en la elaboración o ajustes de la agenda de modernización dentro de la esfera de sus competencias.
 
 #### Artículo 7
 
-Para los efectos señalados, a la Secretaría de Modernización del Estado le corresponderán las siguientes labores:
+A la Secretaría de Modernización del Estado le corresponderán las siguientes labores:
 
-a) Proponer al Presidente de la República, sobre la base de la información que reciba, estrategias de modernización del Estado, incluido un proyecto de agenda de modernización.
+a) Proponer al Presidente de la República, a través del Subsecretario de Hacienda, estrategias de modernización del Estado, incluido un proyecto de agenda de modernización del Estado.
 
 b) Diagnosticar el estado de ejecución de las medidas y acciones tomadas por los órganos de la Administración del Estado para la implementación de la agenda de modernización del Estado.
 
 c) Identificar las prioridades de transformación y modernización transversales y sectoriales respecto de los contenidos de la agenda, sobre la base de los informes de los ministerios y servicios públicos y de conformidad a las instrucciones del Presidente de la República.
 
-d) Informar trimestralmente al Presidente de la República y al Consejo sobre el avance de la agenda de modernización del Estado aprobada por el Presidente de la República.
+d) Eliminado.
 
 #### Artículo 8
 
-Dentro de los cien primeros días de cada período presidencial, la Secretaría de Modernización del Estado, en coordinación con el Consejo, propondrá al Presidente de la República una agenda actualizada de modernización del Estado.
+A la División de Coordinación Interministerial del Ministerio Secretaría General de la Presidencia, o a aquella que la reemplace, le corresponderá informar anualmente al Presidente de la República y al Consejo sobre el avance de la agenda de modernización del Estado aprobada por el Presidente de la República.
 
 #### Artículo 9
 
-El Ministerio de Hacienda, dentro de sus facultades y posibilidades presupuestarias, proporcionará apoyo administrativo y de personal para el funcionamiento de la Secretaría de Modernización del Estado.
+Dentro de los 180 primeros días de cada período presidencial, el Subsecretario de Hacienda, en coordinación con el Consejo, propondrá al Presidente de la República una actualización a la agenda de modernización del Estado.
 
 #### Artículo 10
+
+Créase el Comité de Modernización del Estado (en adelante, el "Comité"), presidido por el Director/a de la Secretaría de Modernización del Estado del Ministerio de Hacienda, en el que participará el Director Nacional del Servicio Civil, y adicionalmente un máximo de: tres representantes designados por el Ministro de Hacienda, tres designados por el Ministro Secretario General de la Presidencia, y dos designados por el Director de Presupuestos. Los miembros del Comité deberán desempeñar sus cargos mientras la autoridad que los designe lo estime conveniente, con un periodo máximo de cuatro años desde su nombramiento.
+
+Su labor será prestar asesoría a los respectivos ministerios y servicios públicos, apoyando en la coordinación de la implementación de la agenda de modernización del Estado.
+
+Para estos efectos, el Comité deberá sesionar ordinariamente una vez al mes, pudiendo acordar las sesiones extraordinarias que sean necesarias para su adecuado funcionamiento y adoptarán sus acuerdos por mayoría de sus integrantes. El Comité, en su primera sesión, deberá acordar las demás reglas de funcionamiento interno.
+
+#### Artículo 11
 
 Los órganos de la Administración del Estado y sus funcionarios deberán prestar, dentro del ámbito de sus respetivas competencias y atribuciones, la colaboración que el Consejo y que la Secretaría de Modernización del Estado requieran para el cumplimiento de sus cometidos.
 
@@ -137,10 +145,6 @@ b) Por 4 años, los indicados en los numerales 5 a 8, del artículo 3.
 c) Por 6 años, los indicados en los numerales 9 a 12, del artículo 3.
 
 #### Artículo segundo
-
-Desígnase Secretario Ejecutivo del Consejo al señor Rafael Ariztía Correa, cédula nacional de identidad número 10.175.769-2, hasta el día 10 de marzo de 2022.
-
-#### Artículo tercero
 
 La primera agenda de modernización del Estado deberá presentarse al Presidente de la República dentro de los cien días siguientes a la fecha de publicación del presente decreto.
 
