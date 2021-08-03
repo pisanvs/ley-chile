@@ -860,7 +860,7 @@ c) En el caso de los alimentos nacionales, el nombre o razón social y domicilio
 
 d) país de origen, debe indicarse en forma clara, tanto en los productos nacionales como en los importados, conforme a las normas de rotulación establecidas, respecto a esta información, en el decreto Nº 297, de 1992, del Ministerio de Economía, Fomento y Reconstrucción, o en el que lo reemplace;
 
-e) número y fecha de la resolución y el nombre del Servicio de Salud que autoriza el establecimiento que elabora o envasa el producto o que autoriza su internación;
+e) Número y fecha de la resolución y el nombre de la Secretaría Regional Ministerial de Salud que autoriza el establecimiento que elabora o envasa el producto;
 
 f) fecha de elaboración o fecha de envasado del producto. Esta deberá ser legible, se ubicará en un lugar del envase de fácil localización y se indicará en la forma y orden siguiente :
 
@@ -883,6 +883,8 @@ g) fecha de vencimiento o plazo de duración del producto. Esta información se 
 Los productos que identifiquen la fecha de elaboración con la clave del lote de producción, deberán rotular la duración en términos de fecha de vencimiento, mientras que los que indiquen expresamente la fecha de elaboración podrán utilizar la fecha de vencimiento o plazo de duración.
 
 Los productos que rotulen "duración indefinida" deberán necesariamente indicar la fecha de elaboración.
+
+Se exceptúan de esta rotulación, las frutas y hortalizas frescas, incluidos los tubérculos, que no han sufrido modificaciones en sus caracteres o composición, esto es, que no hayan sido peladas, cortadas o tratadas de otra forma análoga, salvo las que fueren necesarias para la separación de las partes no comestibles.
 
 h) ingredientes, en el rótulo deberá figurar la lista de todos los ingredientes y aditivos que componen el producto, con sus nombres específicos, en orden decreciente de proporciones, con la excepción correspondiente a los saborizantes/aromatizantes, de acuerdo a lo establecido en el artículo 136 del presente reglamento.
 
@@ -2932,29 +2934,27 @@ Sólo se podrá utilizar en la elaboración de leches concentradas los siguiente
 
 #### Artículo 216
 
-La leche en polvo es el producto obtenido por la eliminación parcial del agua que contiene la leche, contendrá un máximo de 3,5% de humedad. El producto reconstituido al 13% para lecha entera, 11,5% para la leche parcialmente descremada y 10% para la leche descremada, tendrá una acidez máxima de 18 ml de hidróxido de sodio 0,1 N/100 ml, una solubilidad en agua no inferior a 99% como mínimo y un máximo de 15 mg de partículas quemadas. (Disco B, filtro para partículas quemadas, con un tamaño de poro determinado).
+La leche en polvo y la crema o nata de leche en polvo son los productos obtenidos por la eliminación parcial del agua que contiene la leche; contendrán un máximo de 5% de humedad, sin considerar el agua de cristalización de la lactosa, y el contenido mínimo de proteínas de la leche en el extracto seco magro no deberá ser menor a 34% m/m incluyendo el agua de cristalización de la lactosa.
 
-Podrá adicionársele fluoruro bajo los marcos de la Norma Técnica, que para estos efectos dicte el Ministerio de Salud.
+Leche entera en polvo es aquella que contiene un mínimo de 26% m/m de materia grasa de la leche.
+
+Leche en polvo parcialmente descremada o semidescremada es aquella que contiene más del 1,5% y menos del 26% m/m de materia grasa de la leche.
+
+Leche en polvo descremada es aquella que contiene un máximo de 1,5% m/m de materia grasa de la leche.
+
+La crema o nata en polvo deberá contener, como mínimo, un 42% m/m de materia grasa de la leche.
+
+El contenido de grasa y/o proteínas podrá ajustarse, únicamente, para cumplir con los requisitos de composición estipulados en este artículo, mediante incorporación y/o extracción de los constituyentes de la leche, de manera que no se modifique la proporción entre la proteína del suero y la caseína de la leche utilizada como materia prima.
+
+Podrá agregársele fluoruro bajo los límites que señale la norma técnica que, para estos efectos, dicte el Ministerio de Salud.
 
 #### Artículo 217
 
-Las leches descremadas en polvo se clasificarán en los siguientes niveles térmicos: Nivel térmico Nitrógeno proteíco del suero
-
-Alto calor no superior a 1,5 mg/g
-
-Medio calor entre 1,51 a 5,99 mg/g
-
-Bajo calor no inferior a 6,0 mg/g
-
-> **Nota.** El Art. transitorio del DTO 214, Salud, publicado el 04.02.2006, dispuso que la modificación introducida al presente artículo rige a contar de 180 días desde su publicación.
+Eliminado
 
 #### Artículo 218
 
-Todas las leches en polvo descremadas, semidescremadas o enteras que presenten sabor u olor indicativo de descomposición o neutralización o que no cumplan con los requerimientos generales de las leches en polvo, deberán ser catalogadas como no aptas para consumo humano.
-
-Se consideran, asimismo, sabores y olores objetables aquellos presentes en el producto en polvo o reconstituido, tales como, rancidez, sebo, pescado, jabón, tiza, oxidado, amargo, quemado, parafina y otros.
-
-> **Nota.** El Art. transitorio del DTO 214, Salud, publicado el 04.02.2006, dispuso que la modificación introducida al presente artículo rige a contar de 180 días desde su publicación.
+Eliminado.
 
 #### Artículo 219
 
@@ -4940,7 +4940,7 @@ Café tostado es el producto constituido por las semillas sanas y limpias de las
 
 #### Artículo 456
 
-Café soluble o café instantáneo es el producto resultante de la deshidratación del extracto obtenido exclusivamente a partir del café en grano recientemente tostado y secado hasta consistencia de polvo, sin adición de otros ingredientes. No debe tener menos de 2,5% de cafeína en base seca y su humedad no debe ser mayor a 5%.
+Café soluble o café instantáneo es el producto resultante de la deshidratación del extracto obtenido exclusivamente a partir del café en grano recientemente tostado y secado hasta consistencia de polvo o gránulo, sin adición de otros ingredientes. Su contenido de humedad no debe ser mayor a 5%.
 
 El café soluble o instantáneo descafeinado no deberá tener más de 0,3% de cafeína, expresado en base seca.
 
