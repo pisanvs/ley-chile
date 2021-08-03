@@ -88,9 +88,13 @@ Los plazos de la tercera selección son los detallados a continuación:
 
 En caso de requerirse, el período de digitación podrá extenderse dentro del plazo de la habilitación de postulaciones, para todas las selecciones del presente llamado. Del mismo modo, el período de Presentación de los Proyectos podrá extenderse dentro del plazo de la Revisión y Calificación de los proyectos, para la segunda y tercera selecciones del presente llamado.
 
+Además de los puntajes establecidos en el artículo 72 del DS Nº 27 (V. y U.), de 2016, se establece el siguiente puntaje para los grupos que participen del tercer proceso de selección:
+
+Puntaje para comunas del Catastro Nacional de Equipamiento Comunitario y Obras Menores del Minvu. Se otorgará un puntaje adicional de acuerdo al estado de avance que presenten las comunas en la implementación del catastro, de acuerdo al siguiente criterio:
+
 7. Los recursos disponibles para efectuar la selección de proyectos, que incluyen el monto del subsidio más la Asistencia Técnica respectiva, se distribuirán regionalmente según lo señalado en la siguiente tabla:
 
-Con estos montos se determinará el número de postulantes que deberán presentar las carpetas de sus proyectos al Serviu. También tendrán que presentar sus carpetas los postulantes de la lista de espera señalada en el segundo párrafo del numeral 2 del artículo 27 del DS Nº 27 (V. y U.), de 2016, la que se determinará hasta alcanzar el equivalente al 20% de los recursos dispuestos en el presente llamado, no obstante, si el número de proyectos no calificados supera dicho porcentaje, podrán aumentar los postulantes de la lista de espera hasta completar los recursos disponibles.
+Con estos montos se determinará el número de postulantes que deberán presentar las carpetas de sus proyectos al Serviu. También tendrán que presentar sus carpetas los postulantes de la lista de espera a que se refiere el segundo párrafo del numeral 2 del artículo 27 del DS Nº 27 (V. y U.), de 2016, que para las selecciones de este llamado incluirán todos los proyectos hábiles.
 
 Si una vez concluido el proceso señalado quedaren recursos disponibles, se podrá redistribuir o incrementar los recursos señalados en la tabla precedente total o parcialmente, mediante resoluciones dictadas al efecto.
 
@@ -108,11 +112,71 @@ Para el ingreso de carpetas de proyectos habilitados para revisión, los Serviu 
 
 La inscripción en el Conservador de Bienes Raíces de la prohibición de gravar y enajenar la propiedad, a que se refiere el artículo 67 del DS Nº27 (V. y U.), de 2016, deberá constituirse durante la ejecución del proyecto, requiriéndose para el pago final del subsidio. Esta exigencia no es aplicable en los casos en que las Edificaciones Comunitarias se construyan en terrenos fiscales, de propiedad de los Serviu o en Bienes Nacionales de Uso Público.
 
-12. Delégase en los Secretarios Regionales Ministeriales de Vivienda y Urbanismo la facultad de seleccionar mediante resolución, en el primer y segundo proceso de selección indicado en el resuelvo 6., en atención al financiamiento disponible y a los factores de selección señalados en el artículo 72, del DS Nº 27 (V. y U.), de 2016, a aquellos proyectos que postulen al presente llamado y resulten calificados por Serviu.
+12. Delégase en los Secretarios Regionales Ministeriales de Vivienda y Urbanismo la facultad de seleccionar mediante resolución, en el primer proceso de selección indicado en el resuelvo 6., en atención al financiamiento disponible y a los factores de selección señalados en el artículo 72, del DS Nº 27 (V. y U.), de 2016, a aquellos proyectos que postulen al presente llamado y resulten calificados por Serviu.
 
-La última selección será nacional mediante resolución del Ministro de Vivienda y Urbanismo, en atención a los recursos disponibles, los que podrán redistribuirse y/o aumentarse por región, y a los factores de puntaje señalados en el artículo 72, del DS Nº 27 (V. y U.), de 2016, respecto de aquellos proyectos que postulen al presente llamado y resulten calificados por Serviu.
+La segunda y la última selección será nacional mediante resolución del Ministro de Vivienda y Urbanismo, en atención a los recursos disponibles, los que podrán redistribuirse y/o aumentarse por región, y a los factores de puntaje señalados en el artículo 72, del DS Nº 27 (V. y U.), de 2016, respecto de aquellos proyectos que postulen al presente llamado y resulten calificados por Serviu.
 
-13. Los subsidios que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para cada región en el Programa regulado por el DS Nº 27 (V. y U.), de 2016, correspondiente al año 2021.
+13. Para la tercera selección de este llamado se incorporan las categorías de proyectos de edificaciones comunitarias sustentables, espacios públicos y áreas verdes sustentables y Centro Comunitario de Respuesta a Emergencias, según se indica a continuación.
+
+Los proyectos correspondientes a construcción de edificaciones sustentables y construcción de espacios públicos y áreas verdes sustentables serán calificados por el cumplimiento de los requerimientos mínimos obligatorios establecidos en el documento denominado: "Estándares de sustentabilidad para proyectos de construcción y/o mejoramiento de edificaciones comunitarias y áreas verdes, Programa de Mejoramiento de Viviendas y Barrios (DS N° 27) Capítulo I: Proyectos para el Equipamiento Comunitario". La información está contenida en el oficio ordinario Nº 813 citado en el Visto g) de la presente resolución. Los requerimientos mínimos para la calificación de proyectos de equipamiento Comunitario sustentables se establecen en el Anexo 2 de la presente resolución, que forman parte de la misma.
+
+Los proyectos de Centro Comunitario de Respuesta a Emergencias serán calificados por el cumplimiento de lo señalado en el documento denominado "Itemizado Técnico de Obras para Centros Comunitarios de Respuesta a Emergencias, asociados al "Capítulo I: Proyectos para el Equipamiento Comunitario, del Programa de Mejoramiento de Viviendas y Barrios reglamentado por el DS Nº 27 (V. y U.), 2016.". La información está contenida en el oficio ordinario Nº 862, citado en el Visto h) de la presente resolución.
+
+Se incrementarán los montos de Asistencia Técnica para Proyectos Sustentables y Centros Comunitarios de Respuesta a Emergencias, de acuerdo al siguiente detalle:
+
+13.1. Se cursará un pago adicional de asistencia técnica a las Entidades Patrocinantes que postulen y desarrollen proyectos del Capítulo I del DS 27 (V. y U.) de 2016, que cumplan con los criterios de sustentabilidad en la etapa de elaboración del proyecto técnico, durante el proceso constructivo del proyecto aprobado por Serviu y/o en la gestión para su materialización y/o cuidado posterior.
+
+13.2. Los requerimientos, procesos, planes y/o documentos verificadores que deberán presentar las Entidades Patrocinantes para el cobro de este incremento están contenidos en los siguientes documentos, según corresponda, los que se entenderán de conocimiento de las Entidades Patrocinantes:
+
+i. Estándares de Sustentabilidad para Proyectos de Construcción y/o Mejoramiento de Edificaciones Comunitarias y Áreas Verdes; Programa de Mejoramiento de Viviendas y Barrios (DS Nº 27) Capítulo 1: Proyectos para el Equipamiento Comunitario.
+
+ii. Itemizado Técnico de Construcción de Centros Comunitarios de Respuesta a Emergencias, asociado al "Capítulo I: Proyectos para el Equipamiento Comunitario", del Programa de Mejoramiento de Viviendas y Barrios, reglamentado por el DS Nº 27 (V. y U.), de 2016.
+
+Los requerimientos mínimos para la calificación de proyectos sustentables para Centros Comunitarios de Preparación y Respuesta a Emergencias se establecen en el Anexo 3 de la presente resolución y se entenderán formar parte de la misma.
+
+13.3. Los incrementos que se aplicarán a los siguientes tipos de proyectos son:
+
+Tipo 1: Proyectos de Edificaciones Comunitarias Sustentables
+
+a) Calidad lumínica o iluminancia natural, a través de simulación computacional. Aquellas EP que desarrollen proyectos que cumplan con los estándares de sustentabilidad verificables en el proceso de medición de este requerimiento, recibirán un incremento del 10% en el valor establecido a pagar por el servicio "desarrollo del proyecto técnico: diagnóstico técnico constructivo, elaboración, tramitación y postulación de proyectos técnicos y asesoría a la contratación de obras".
+
+b) Plan de Gestión Ambiental en Obras (PGAO). Aquellas EP que desarrollen proyectos que cumplan con la aplicación de 7 factores de gestión ambiental durante el desarrollo de la obra, recibirán un incremento del 50% en el valor establecido a pagar por la ejecución del servicio "gestión técnica, social y legal de proyectos".
+
+c) Plan de Uso y Mantención del Equipamiento Comunitario. Aquellas EP que ejecuten el plan de uso y cuidado del equipamiento comunitario (plan aprobado por Serviu), que considere el desarrollo efectivo de actividades participativas por parte de la comunidad, las que podrán ser desarrolladas durante la fase de construcción de la obra o una vez que esta se encuentre ejecutada y aprobada por Serviu, recibirán un incremento del 50% en el valor establecido a pagar por la ejecución del servicio "gestión técnica, social y legal de proyectos".
+
+Tipo 2: En proyectos de Áreas Verdes como Espacios Públicos Sustentables
+
+a) Calidad lumínica o iluminancia artificial a través de simulación computacional. Aquellas EP que desarrollen proyectos que cumplan con estándares de sustentabilidad verificables en el proceso de medición de este requerimiento, recibirán un incremento del 15% en el valor establecido a pagar por el servicio "desarrollo del proyecto técnico: diagnóstico técnico constructivo, elaboración, tramitación y postulación de proyectos técnicos y asesoría a la contratación de obras".
+
+b) Plan de Gestión Ambiental en Obras (PGAO). Aquellas EP que desarrollen proyectos que cumplan con la aplicación de 7 factores de gestión ambiental durante el desarrollo de la obra, recibirán un incremento del 50% en el valor establecido a pagar por la ejecución del servicio "gestión técnica, social y legal de proyectos".
+
+c) Plan de Uso y Mantención del Área Verde como Espacio Público Sustentable. Aquellas EP que ejecuten el plan de uso y cuidado del área verde como espacio público sustentable (plan aprobado por Serviu), que considere el desarrollo efectivo de actividades participativas por parte de la comunidad, las cuales podrán ser desarrolladas durante la fase de construcción de la obra o una vez que esta se encuentre ejecutada y aprobada por Serviu, recibirán un incremento del 50% en el valor establecido a pagar por la ejecución del servicio "gestión técnica, social y legal de proyectos".
+
+Tipo 3: En proyectos de Centro de Apoyo a Emergencias Comunitarias CECO.
+
+Los proyectos de esta tipología, además de cumplir con los estándares de sustentabilidad correspondientes, adicionalmente deberán cumplir con lo señalado en el Itemizado Técnico de Construcción de Centros Comunitarios de Respuesta a Emergencias. En estos casos, los incrementos que podrán aplicar en Asistencia Técnica son:
+
+a) Calidad lumínica o iluminancia natural a través de simulación computacional. Aquellas EP que desarrollen proyectos que cumplan con estándares de sustentabilidad verificables en el proceso de medición de este requerimiento, recibirán un incremento del 10% en el valor establecido a pagar por el servicio "desarrollo del proyecto técnico: diagnóstico técnico constructivo, elaboración, tramitación y postulación de proyectos técnicos y asesoría a la contratación de obras".
+
+b) Plan de Gestión Ambiental en Obras (PGAO). Aquellas EP que desarrollen proyectos que cumplan con la aplicación de 7 factores de gestión ambiental durante el desarrollo de la obra, recibirán un incremento del 50% en el valor establecido a pagar por la ejecución del servicio "gestión técnica, social y legal de proyectos".
+
+c) Plan de Uso y Mantención del Equipamiento Comunitario. Aquellas EP que ejecuten el plan de uso y cuidado del centro comunitario de respuesta a emergencias (plan aprobado por Serviu), que considere el desarrollo efectivo de actividades participativas por parte de la comunidad, las cuales podrán ser desarrolladas durante la fase de construcción de la obra o una vez que ésta se encuentra ejecutada y aprobada por Serviu, recibirán un incremento del 50% en el valor establecido a pagar por la ejecución del servicio "gestión técnica, social y legal de proyectos".
+
+d) Diseño de Sistemas para mantener servicios básicos de emergencia, agua potable y electricidad. Aquellas EP que elaboren adicionalmente un proyecto técnico que permita mantener activos los servicios básicos de emergencia, agua potable y electricidad, sistema que deberá ser aprobado por Serviu, recibirán un Incremento del 20% en el servicio "desarrollo del proyecto técnico: diagnóstico técnico constructivo, elaboración, tramitación y postulación de proyectos técnicos y asesoría a la contratación de obras".
+
+13.4. En materia de pagos de incrementos para Asistencia Técnica en proyectos Tipo 1, 2 y 3, cabe señalar que:
+
+. Para cada tipo de proyecto, los incrementos en asistencia técnica se adicionarán solo si se da cumplimiento íntegro a los distintos requerimientos establecidos en el resuelvo 13 precedente;
+
+. El pago a la Entidad Patrocinante procederá solo si la EP es la entidad ejecutora de las actividades señaladas con anterioridad;
+
+. El pago se realizará conforme a los mismos hitos establecidos en la resolución Nº 1.237 (V. y U.), de 2019, a que se refiere el Visto f) de esta resolución, cuyos montos deberán incluir el valor incremental establecido en cada caso;
+
+. Finalmente, cuando la EP ejecute actividades referidas al Plan de Uso y Mantención del Equipamiento Comunitario, Áreas Verdes o Centro Comunitario de Respuesta a Emergencias una vez terminada la obra, el incremento podrá pagarse después de aprobadas las actividades por parte de Serviu, pudiendo o no realizarse este pago de forma conjunta con el 2º hito de pago del servicio "gestión técnica, social y legal de proyectos".
+
+Para la postulación a todos los tipos de proyectos del Capítulo I, a partir de la tercera selección, se deberá presentar el Diagnóstico Técnico Constructivo en formato digital, a través de la plataforma SURVEY123.
+
+14. Los subsidios que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para cada región en el Programa regulado por el DS Nº 27 (V. y U.), de 2016, correspondiente al año 2021.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
