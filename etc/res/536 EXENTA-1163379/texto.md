@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 536, de fecha 8 septiembre 2014, de esta Secretaría Regional, rectificada por resolución exenta Nº 732, de 26 de mayo de 2021, se aprobó el programa de enseñanza conducente a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores "Consultores en Educación y Capacitación Limitada" o "Conecap Ltda.", RUT 76.003.168-2, cuyos representantes legales son doña Claudia Lorena Ramírez Corvalán, RUT 10.031.807-5 y don Rodolfo Alberto Tapia Gómez, RUT 8.346.961-7, siendo este último además su Director. Su sede estará ubicada en calle Chacabuco Nº 791, en la comuna de Ancud. Las horas pedagógicas autorizadas a la referida Escuela son 8 teóricas y 12 prácticas, con un total de 20 horas pedagógicas.-
+
+Nicolás Maximiliano Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región de Los Lagos.
