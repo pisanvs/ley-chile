@@ -28,76 +28,16 @@ Establécense para el año 2021 los montos anuales del beneficio por renovación
 
 1) Vehículos diésel
 
-Rendimiento urbano (Km/l) Monto 2021
-
-13 - 13,9 $ 1.500.000
-
-14 - 14,9 $ 1.700.000
-
-15 - 15,9 $ 2.400.000
-
-16 - 16,9 $ 2.700.000
-
-17 o superior $ 3.100.000
-
 2) Vehículos a gasolina*
-
-Rendimiento urbano (Km/l) Monto 2021
-
-10,5 a 10,9 $ 1.600.000
-
-11 - 11,9 $ 1.700.000
-
-12 - 12,9 $ 2.400.000
-
-13 - 13,9 $ 2.500.000
-
-14 - 14,9 $ 2.700.000
-
-15 - 15,9 $ 3.100.000
-
-16 - 16,9 $ 3.400.000
-
-17 o superior $ 3.700.000
 
 * En el caso de vehículos nuevos equipados con sistemas que les permitan funcionar con gasolina o con gas o con este último, exclusivamente, el rendimiento urbano que se tome como referencia para efectos de la obtención del beneficio, corresponderá a la utilización de gasolina.
 
 3) Vehículos híbridos
 
-Rendimiento urbano (Km/l) Monto 2021
-
-10,5 - 10,9 $ 1.600.000
-
-11 - 11,9 $ 1.700.000
-
-12 - 12,9 $ 2.400.000
-
-13 - 13,9 $ 2.500.000
-
-14 - 14,9 $ 2.700.000
-
-15 - 15,9 $ 3.100.000
-
-16 - 16,9 $ 3.400.000
-
-17 - 17,9 $ 3.700.000
-
-18 - 18,9 $ 4.000.000
-
-19 - 19,9 $ 4.300.000
-
-20 o superior $ 4.600.000
-
 4) Vehículos eléctricos
 
-Rendimiento urbano (Km/l) Monto 2021
+5) En caso que el vehículo entrante cumpla con incorporar tecnologías menos contaminantes y mejoras en aspectos de seguridad y su rendimiento urbano no se encuentre comprendido en las tablas señaladas en los numerales 1), 2), 3) y 4), el Beneficio por Renovación ascenderá a $300.000.
 
-50 o superior $ 7.200.000
-
-* La transformación de kilowatt hora a litro equivalente, se realiza utilizando la energía contenida en 1 litro de gasolina.
-
-En caso que el vehículo entrante cumpla con incorporar tecnologías menos contaminantes y mejoras en aspectos de seguridad y no se encuentre comprendido en las tablas anteriores, el Beneficio por Renovación ascenderá a $300.000.-
-
-Adicionalmente, el bono de incentivo a la Chatarrización para las regiones de Arica y Parinacota, Tarapacá, Aysén del General Carlos Ibáñez del Campo, Magallanes y la Antártica Chilena, será equivalente a $1.200.000.-
+Adicionalmente, el bono de incentivo a la Chatarrización para las regiones de Arica y Parinacota, Tarapacá, Aysén del General Carlos Ibáñez del Campo, Magallanes y de la Antártica Chilena, será equivalente a $1.200.000.
 
 Anótese, comuníquese y publíquese en el Diario Oficial.- Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
