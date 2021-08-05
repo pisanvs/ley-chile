@@ -30,33 +30,31 @@ El piso de los asientos preferentes deberá estar al mismo nivel que el piso del
 
 d) Espacios suficientes y medidas de fácil acceso: Los vehículos deberán cumplir con especificaciones que faciliten el acceso y traslado de personas con discapacidad y movilidad reducida. Las especificaciones se señalan a continuación:
 
-i. Plataforma o elevador, que permita el acceso autónomo de usuarios con movilidad reducida, que cumplan con las siguientes características:
+i. Plataforma que permita el acceso autónomo de usuarios con movilidad reducida, que cumpla con las siguientes características:
 
-. La plataforma deberá tener superficie antideslizante, ser de fácil accionamiento, permitir acceso expedito, estable y seguro y estar ubicada lo más próxima al espacio y anclaje para silla de ruedas, siempre que no se interfiera el paso de la silla de ruedas con un sistema de control de acceso. Si el vehículo dispusiera puertas de servicio a ambos lados de su carrocería, estas deberán contar con una plataforma a cada lado del vehículo. Con todo, desde el exterior del vehículo deberá ser posible acceder al espacio y anclaje para silla de ruedas, con una silla de ruedas de las siguientes dimensiones indicadas en la figura a continuación:
+. La plataforma deberá estar instalada en una de las puertas de servicio de entrada baja.
+
+. La plataforma deberá tener superficie antideslizante, ser de fácil accionamiento, permitir acceso expedito, estable y seguro y estar ubicada lo más próxima al espacio y anclaje para silla de ruedas, siempre que no se interfiera el paso de la silla de ruedas con un sistema de control de acceso. Si el vehículo dispusiera puertas de servicio a ambos lados de su carrocería, estas deberán contar con una plataforma a cada lado del vehículo. Con todo, desde el exterior del vehículo deberá ser posible acceder al espacio y anclaje para silla de ruedas, con una silla de ruedas que tenga las dimensiones indicadas en la figura que a continuación se muestra:
 
 .
 
-Longitud total: 1.200 mm
+. La plataforma deberá tener un ancho y largo mínimo de 900 mm y 700 mm respectivamente. En caso de que el bus disponga de un sistema de suspensión neumática que permita ajustar su altura, el largo mínimo será de 630 mm.
 
-Anchura Total: 700 mm
+. Los perfiles de la plataforma deberán ser amarillos, preferentemente con propiedades reflectantes y con sus bordes externos redondeados. En la imposibilidad de aplicación de perfil, será aceptada cualquier otra forma de señalización en su contorno para la visibilidad superior y frontal de sus límites. No deberán existir cantos vivos y desniveles que comprometan la seguridad de los usuarios. Su superficie deberá ser capaz de resistir una presión igual o superior a 300 kgf/m2.
 
-Altura Total: 1.090 mm
+. La plataforma deberá mantener sus propiedades en cualquier condición climática.
 
-Nota: Una persona sentada en una silla de ruedas añade 50 mm a la longitud total y alcanza una altura de 1.350 mm por encima del suelo.
+. El accionamiento de la plataforma debe ser ejecutado por medio de manillas de dimensiones mínimas de agarre interior de 110 mm y de 25 mm de diámetro para permitir su total empuñadura. La manilla deberá ser curva, de cantos redondeados y estar instalada en uno o dos puntos de la plataforma que faciliten la aplicación de la fuerza para su accionamiento. En condición de reposo la referida manilla deberá quedar a nivel de la superficie de la plataforma.
 
-. La plataforma deberá tener un ancho y largo mínimo de 900 mm y 700 mm respectivamente.
+. Las manillas antes descritas, podrán reemplazarse por un mecanismo de fácil accionamiento del tipo palanca o manilla retráctil que satisfaga las necesidades de esfuerzo para accionar el peso de la plataforma. Cualquier mecanismo no deberá provocar desniveles o cantos que comprometan la seguridad y circulación de pasajeros.
 
-. Los perfiles de la plataforma deberán ser amarillos, preferentemente con propiedades reflectantes y con sus bordes externos redondeados. En la imposibilidad de aplicación de perfil, será aceptada cualquier otra forma de señalización en su contorno para la visibilidad superior y frontal de sus límites. No deberán existir cantos vivos y desniveles que comprometan la seguridad de los usuarios. La pendiente de la plataforma extendida o desplegada sobre una solera de 150 mm de altura no deberá ser mayor del 12%. Su superficie deberá ser capaz de resistir una presión igual o superior a 300 kgf/m 2 . La plataforma deberá mantener sus propiedades en cualquier condición climática.
+. En caso que el vehículo cuente con una plataforma accionada mediante un mecanismo eléctrico, deberá cumplir con alguna de las siguientes normas internacionales que se encuentren vigentes:
 
-. El accionamiento de la plataforma debe ser ejecutado por medio de manillas de dimensiones mínimas de agarre interior de 110 mm y de 25 mm de diámetro para permitir su total empuñadura. La manilla deberá ser curva, de cantos redondeados y estar instalada en uno o dos puntos de la plataforma que faciliten la aplicación de la fuerza para su accionamiento. En condición de reposo la referida manilla deberá quedar a nivel de la superficie de la rampa.
+- ABNT NBR 15646
 
-Las manillas antes descritas, podrán reemplazarse por un mecanismo de fácil accionamiento del tipo palanca o manilla retráctil que satisfaga las necesidades de esfuerzo para accionar el peso de la plataforma. Cualquier mecanismo, no deberá provocar desniveles o cantos que comprometan la seguridad y circulación de pasajeros.
+- Reglamento N° 107 de la Comisión Económica de las Naciones Unidas para Europa; u otra equivalente.
 
-. En caso que el vehículo cuente con una plataforma o disponga de un elevador accionado mediante un mecanismo eléctrico, la plataforma o elevador deberá cumplir con alguna de las siguientes normas internacionales que se encuentren vigentes:
-
-- ABNT NBR 15646 -
-
--Reglamento N° 107 de la Comisión Económica de las Naciones Unidas para Europa; u otra equivalente.
+. El bus deberá tener plataforma plana, al nivel de la entrada baja del vehículo, en al menos un 45% de la superficie total disponible para pasajeros.
 
 ii. Espacio y anclaje para silla de ruedas: El vehículo deberá contar con un espacio especial destinado para usuarios en silla de ruedas. Este espacio deberá estar lo más próximo a la plataforma mencionada en el punto anterior. El espacio mínimo deberá ser de 900 x 1.400 mm, siendo el eje de simetría de la silla paralelo con el eje longitudinal del bus. Deberá existir un espaldar, consistente en una franja de 130 cm de alto por 32 cm de ancho, aproximadamente, sobre el cual se arrime el respaldo de la silla de ruedas. Dicho espaldar deberá permitir un apoyo estable del respaldo de la silla de ruedas. En este espacio especial, la superficie del piso deberá ser de material antideslizante.
 
@@ -68,7 +66,7 @@ Por cada modelo aprobado mediante este procedimiento, el 3CV emitirá un Certifi
 
 A su vez, los fabricantes, armadores, importadores o sus representantes deben emitir certificados individuales para cada vehículo que comercializan de los que conforman la o las partidas de los modelos aprobados.
 
-3. Establécese que para acceder al incentivo de acceso universal que establece el artículo 7° del decreto supremo N° 44, de 2011, del Ministerio de Transportes y Telecomunicaciones, el vehículo entrante deberá ser nuevo, esto es, tener un año anotado en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación, correspondiente al año de postulación o siguiente y cuya inscripción corresponda al primer propietario.
+3. Establécese que para acceder al incentivo de acceso universal que establece el artículo 7° del decreto supremo N° 44, de 2011, del Ministerio de Transportes y Telecomunicaciones, el vehículo entrante deberá ser nuevo, esto es, tener un año anotado en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación, correspondiente al año de postulación o siguiente y cuya inscripción corresponda al primer propietario. Asimismo, y sin perjuicio de lo indicado en el párrafo segundo del resuelvo precedente, para acceder al antes mencionado incentivo, los vehículos con los cuales se postule deberán contar con una plataforma, la cual deberá permitir el acceso autónomo de usuarios con movilidad reducida, y que cumpla con las características señaladas en la presente resolución.
 
 Anótese, comuníquese y publíquese.- Paola Tapia Salas, Ministra de Transportes y Telecomunicaciones.
 
