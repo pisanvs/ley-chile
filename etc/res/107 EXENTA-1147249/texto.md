@@ -58,7 +58,9 @@ j) Ana María Montoya Squif.
 
 k) María Cecilia Hidalgo Tapia.
 
-Asistirán como invitados(as) permanentes a las sesiones del Consejo, el (la) Subsecretario(a) de Educación Superior, el (la) Director(a) Nacional de la Agencia Nacional de Investigación y Desarrollo, una Secretaria Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación, designada por la Subsecretaria y la Directora Ejecutiva de la Corporación Comunidad Mujer, invitados que sólo tendrán derecho a voz.
+l) Alejandra Sepúlveda Peñaranda.
+
+Asistirán como invitados(as) permanentes a las sesiones del Consejo, el (la) Subsecretario(a) de Educación Superior, el (la) Director(a) Nacional de la Agencia Nacional de Investigación y Desarrollo, una Secretaria Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación, designada por la Subsecretaria, invitados que sólo tendrán derecho a voz.
 
 #### Artículo 4°
 
