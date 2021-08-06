@@ -14,7 +14,11 @@ R e s u e l v o:
 
 1.- Los tenedores a cualquier título de vinos, chichas, mostos mudos y sulfitados a granel, deberán declarar al Servicio Agrícola y Ganadero sus existencias al 31 de Diciembre de cada año, hasta el día 19 de enero del año siguiente. Este último plazo regirá a partir del 1° de enero de 1997.
 
-2.- Los productores de vinos, chichas, mostos mudos y sulfitados a granel, deberán efectuar, igualmente al Servicio Agrícola y Ganadero, una declaración jurada anual de su cosecha, hasta el día 30 de Mayo de cada año.
+2. Los productores de vinos, chichas, mostos mudos y sulfitados a granel, deberán efectuar al Servicio Agrícola y Ganadero, la declaración jurada anual de su cosecha, hasta el 30 de junio de cada año.
+
+La declaración jurada señalada precedentemente se podrá realizar de manera presencial en las oficinas sectoriales SAG o en línea a través de la plataforma informática que dispone el Servicio para ello.
+
+Los productores de vinos, chichas, mostos mudos y sulfitados a granel podrán solicitar al Servicio la rectificación de su declaración de cosecha dentro de los primeros quince días de julio de cada año, en aquellos casos donde los volúmenes finales de los productos han variado como resultado del proceso de elaboración de vinos respecto de la declaración efectuada al 30 de junio del año en curso.
 
 3.- Los tenedores de vinos que deseen certificar su producción conforme a lo establecido en el ya citado Decreto N° 464, deberán incluir, adicionalmente, en su declaración de existencia, la individualización de sus vinos a granel y envasados, indicando, en su caso, la información relativa a lo siguiente:
 
@@ -31,5 +35,7 @@ d) Embotellado en origen.
 5.- Todas las declaraciones mencionadas en la presente resolución deberán presentarse en los formularios, que para este efecto proporcionará el Servicio Agrícola y Ganadero.
 
 6.- Deróganse las resoluciones N°s. 363 de 1991, 240 y 2.358 de 1992, todas del Servicio Agrícola y Ganadero.
+
+7.- El no cumplimiento de lo establecido en la presente resolución estará afecto a las sanciones dispuestas por la legislación vigente.
 
 Anótese y publíquese.- Leopoldo Sánchez Grunert, Director Nacional.
