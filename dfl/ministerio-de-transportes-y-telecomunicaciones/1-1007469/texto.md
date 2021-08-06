@@ -282,9 +282,11 @@ Los postulantes a licencia de conductor deberán reunir los siguientes requisito
 
 2) Acreditar conocimientos teóricos y prácticos de conducción, así como de las disposiciones legales y reglamentarias que rigen al tránsito público. Para la conducción de los triciclos motorizados de carga, los conocimientos teóricos se acreditarán mediante un examen simplificado, en los términos que lo establezca el reglamento respectivo del Ministerio de Transportes y Telecomunicaciones;
 
-3) Poseer cédula nacional de identidad o de extranjería vigentes, con letras o dígitos verificadores, y
+3) Poseer cédula nacional de identidad o de extranjería vigentes, con letras o dígitos verificadores;
 
-4) Acreditar, mediante declaración jurada, que no es consumidor de drogas, estupefacientes o sustancias sicotrópicas prohibidas que alteren o modifiquen la plenitud de las capacidades físicas o síquicas, conforme a las disposiciones contenidas en la ley Nº 20.000 y su Reglamento. La fiscalización del cumplimiento de esta disposición se hará de acuerdo con los artículos 182 y 183 de esta ley.
+4) Acreditar, mediante declaración jurada, que no es consumidor de drogas, estupefacientes o sustancias sicotrópicas prohibidas que alteren o modifiquen la plenitud de las capacidades físicas o síquicas, conforme a las disposiciones contenidas en la ley Nº 20.000 y su Reglamento. La fiscalización del cumplimiento de esta disposición se hará de acuerdo con los artículos 182 y 183 de esta ley, y
+
+5) No haber sido sorprendido por Carabineros de Chile realizando alguna de las conductas descritas en los incisos primero de los artículos 25 y 26 de la ley N° 19.925, sobre expendio y consumo de bebidas alcohólicas, en los últimos doce meses.
 
 Para obtener las licencias que a continuación se señalan, los postulantes deberán reunir, además, los siguientes requisitos especiales:
 
@@ -582,19 +584,23 @@ La constitución del dominio, su transmisión, transferencia y los gravámenes s
 
 #### Artículo 39
 
-El Servicio de Registro Civil e Identificación llevará un Registro de Vehículos Motorizados en la base de datos central de su sistema mecanizado, en el cual se inscribirán los vehículos y la individualización de sus propietarios y se anotarán las patentes únicas que otorgue.
+El Servicio de Registro Civil e Identificación llevará un Registro de Vehículos Motorizados en la base de datos central de su sistema electrónico, en el cual se inscribirán los vehículos y la individualización de sus propietarios y se anotarán las patentes únicas que otorgue.
 
-Además, en cada oficina del Servicio de Registro Civil e Identificación habrá un libro repertorio y un índice, los que estarán a cargo del Oficial Civil respectivo.
+La inscripción de un vehículo se efectuará al otorgarse la patente única. Los documentos que autoricen dicha inscripción serán incorporados en el Repositorio Digital del Servicio de Registro Civil e Identificación.
 
-La inscripción de un vehículo se efectuará al otorgarse la patente única. Los documentos que autoricen dicha inscripción serán incorporados en el Archivo Nacional del Servicio de Registro Civil e Identificación.
-
-En él se anotarán también todas las alteraciones en los vehículos que los hagan cambiar su naturaleza, sus características esenciales, o que los identifican, como asimismo su abandono, destrucción o su desarmaduría total o parcial o la cancelación de la inscripción a solicitud del propietario. Para estos efectos su propietario estará obligado a dar cuenta del hecho de que se trate al Registro. En su caso, deberá cancelarse la inscripción y retirarse las patentes del vehículo.
+En él se anotarán también todas las alteraciones en los vehículos que los hagan cambiar su naturaleza, sus características esenciales, o que los identifican, como asimismo su abandono, destrucción o su desarmaduría total o parcial o la cancelación de la inscripción a solicitud del propietario. Para estos efectos su propietario estará obligado a dar cuenta del hecho de que se trate al Registro. En su caso, deberá cancelarse la inscripción y retirarse las patentes del vehículo, en la forma y condiciones que indique el reglamento referido en el artículo 46.
 
 Asimismo, deberá anotarse la denuncia por la apropiación de un vehículo motorizado, especificando si ha sido objeto de robo o hurto, a requerimiento de la autoridad policial, judicial o del Ministerio Público. Si se tratare de un robo, el registro especificará si se ejerció sobre su legítimo tenedor alguna de las conductas descritas en el artículo 439 del Código Penal.
 
 La denuncia deberá ser incorporada dentro de las cuatro horas siguientes de efectuado el requerimiento a que se refiere el inciso precedente. La referida anotación deberá constar en los certificados de inscripciones y anotaciones vigentes del vehículo respectivo.
 
 La información sobre las denuncias incorporadas al Registro de Vehículos Motorizados se encontrará permanentemente a disposición del público, en las páginas web institucionales de Carabineros de Chile, de la Policía de Investigaciones de Chile y del Ministerio Público, especificando, entre otros datos, la placa patente única, el número de motor, número de chasis, color, año y las circunstancias en que fue apropiado.
+
+#### Artículo 39 bis
+
+La primera inscripción de los vehículos nuevos o usados, según corresponda, así como las variaciones del dominio de los vehículos inscritos; los gravámenes, prohibiciones, embargos y medidas precautorias; los arrendamientos con opción de compra y otros títulos que otorguen la mera tenencia material; las alteraciones que hagan cambiar la naturaleza de los vehículos, sus características esenciales o que los identifican; su abandono, destrucción o desarmaduría total o parcial; las denuncias por la apropiación de un vehículo motorizado; las rectificaciones de errores, omisiones o cualquier modificación equivalente de una inscripción; y las cancelaciones de inscripción, se tramitarán a través del sistema electrónico del Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, acompañando la documentación pertinente.
+
+Tratándose de la primera inscripción del dominio de un vehículo en el Registro de Vehículos Motorizados, quien solicite dicho trámite deberá presentar la respectiva factura electrónica, documentos aduaneros o sentencia judicial y el comprobante del pago de los tributos correspondientes, sin perjuicio de cualquier otra documentación cuya presentación disponga el reglamento indicado en el artículo 46.
 
 #### Artículo 40
 
@@ -632,15 +638,17 @@ En el Registro de Vehículos Motorizados se inscribirán, además, las variacion
 
 No serán oponibles a terceros ni se podrán hacer valer en juicio los gravámenes, prohibiciones, embargos, medidas precautorias, arrendamientos con opción de compra u otros títulos que otorguen la tenencia material del vehículo, mientras no se efectúe la correspondiente anotación en el Registro.
 
-Si el acto que sirvió de título a la transferencia de un vehículo fuere consensual, se acreditará mediante declaración escrita conjunta que suscribirán ante el Oficial de Registro Civil e Identificación el adquirente y la persona a cuyo nombre figure inscrito el vehículo, o mediante instrumento público o instrumento privado autorizado ante Notario.
+Si el acto que sirvió de título a la transferencia de un vehículo fuere consensual, ésta se realizará mediante declaración escrita conjunta que suscribirán, el adquirente y la persona a cuyo nombre figure inscrito el vehículo ante Oficial de Registro Civil e Identificación, a través del formulario correspondiente en el sistema electrónico del Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación o adjuntando dicha declaración suscrita por ambas partes con firma electrónica avanzada. Cuando la transferencia se verifique a través de un instrumento público o privado autorizado ante notario, se incorporará al sistema electrónico del Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación. El reglamento referido en el artículo 46 indicará la forma de llevar a cabo estas anotaciones.
+
+Asimismo, el citado reglamento regulará la forma en la cual se incorporarán al sistema electrónico del Registro de Vehículos Motorizados aquellos actos que deban efectuarse de manera presencial.
 
 #### Artículo 42
 
 Las inscripciones y anotaciones se realizarán por estricto orden de presentación de la solicitud respectiva.
 
-De igual manera se anotarán dichas solicitudes en el Repertorio, anotación que valdrá como fecha de la inscripción.
+De igual manera quedarán anotadas dichas solicitudes en el Repertorio Electrónico que se formará con las presentaciones diarias, anotación que valdrá como fecha de la inscripción.
 
-El Repertorio será cerrado diariamente por el Oficial de Registro Civil e Identificación, dejando expresa constancia del número de anotaciones efectuadas.
+El Repertorio será generado diariamente por el Oficial de Registro Civil e Identificación, quien deberá incorporar los datos en el sistema electrónico del Registro de Vehículos Motorizados, certificando el número de anotaciones efectuadas, de conformidad a lo dispuesto en el reglamento referido en el artículo 46.
 
 El adquiriente de un vehículo deberá solicitar su inscripción dentro de los treinta días siguientes a la fecha de su adquisición.
 
@@ -664,11 +672,13 @@ Se presumirá propietario de un vehículo motorizado la persona a cuyo nombre fi
 
 #### Artículo 45
 
-El adquirente de un vehículo motorizado por acto entre vivos o por sucesión por causa de muerte podrá solicitar ante cualquier Oficial de Registro Civil e Identificación del país, que se inscriba el vehículo a su nombre, acreditando previamente el título de dominio. Podrá, igualmente, solicitar un certificado que pruebe haber requerido la inscripción.
+El adquirente de un vehículo motorizado por acto entre vivos o por sucesión por causa de muerte podrá solicitar a través del sistema electrónico del Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, de conformidad a lo señalado en el reglamento referido en el artículo 46, que se inscriba el vehículo a su nombre, acreditando previamente el título de dominio. Podrá, igualmente, solicitar un certificado que pruebe haber requerido la inscripción.
 
 #### Artículo 46
 
 Un reglamento establecerá las menciones que deba contener la inscripción para la adecuada individualización del vehículo y su propietario, así como las demás formalidades que deberán observarse.
+
+Asimismo, regulará las materias dispuestas en el artículo 39 bis, y todas aquellas que resulten necesarias para el buen funcionamiento del sistema electrónico del Registro de Vehículos Motorizados.
 
 #### Artículo 47
 
@@ -708,8 +718,6 @@ Los vehículos motorizados no podrán transitar sin la placa única, el permiso 
 
 Los remolques y semirremolques que deban inscribirse en el Registro Especial de Remolques y Semirremolques, deberán tener placa patente única, requisito sin el cual no estarán autorizados a transitar.
 
-La placa patente única deberá obtenerse en la Oficina del Servicio de Registro Civil e Identificación en que se solicite la inscripción.
-
 El certificado del seguro obligatorio de accidentes causados por vehículos motorizados deberá portarse siempre en el vehículo y encontrarse vigente.
 
 #### Artículo 52
@@ -722,9 +730,9 @@ Asimismo, determinará los colores, forma y dimensiones, condiciones de mantenci
 
 #### Artículo 53
 
-La obtención de la patente única y de la inscripción correspondiente se solicitará en cualquiera Oficina de Registro Civil e Identificación, la que otorgará el certificado de inscripción que lo identifique.
+La obtención de la placa patente única y de la inscripción correspondiente deberá solicitarse a través de cualquiera de las oficinas del Servicio de Registro Civil e Identificación del país, mediante su sistema electrónico, de conformidad a lo dispuesto en el respectivo reglamento. La entrega material de la placa patente única se efectuará en las oficinas habilitadas al efecto. El Servicio de Registro Civil e Identificación dispondrá la habilitación de al menos una oficina en cada región del país para efectos de la entrega material de las placas patentes.
 
-Igual certificado deberá otorgarse cada vez que se cambie el titular del dominio del vehículo.
+El certificado que dé cuenta de la solicitud de inscripción a que se refiere el inciso anterior deberá otorgarse cada vez que se cambie el titular del dominio del vehículo.
 
 El certificado de inscripción se otorgará en ejemplares cuya forma y especificaciones técnicas las determinará el reglamento y será uniforme para todo el país.
 

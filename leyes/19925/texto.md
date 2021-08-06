@@ -12,7 +12,7 @@ Apruébase la siguiente LEY SOBRE EXPENDIO Y CONSUMO DE BEBIDAS ALCOHOLICAS:
 
 #### Artículo 1º
 
-Esta ley regula el expendio de bebidas alcohólicas; las medidas de prevención y rehabilitación del alcoholismo, y las sanciones y los procedimientos aplicables a quienes infrinjan las disposiciones pertinentes.
+Esta ley regula el expendio de bebidas alcohólicas, su etiquetado y normas sobre publicidad; las medidas de prevención y rehabilitación del alcoholismo, y las sanciones y los procedimientos aplicables a quienes infrinjan las disposiciones pertinentes.
 
 ## Título I
 
@@ -78,21 +78,25 @@ Para efectos de esta ley, se entenderá por Minimercados aquellos establecimient
 
 Valor Patente: 1.5 UTM.
 
-I) HOTELES, HOSTERÍAS, MOTELES O RESTAURANTES DE TURISMO:
+I) HOTELES, APART HOTELES, HOSTERÍAS, MOTELES O RESTAURANTES DE TURISMO:
 
 a) Hotel de turismo, en que se presta al turista servicio de hospedaje, sin perjuicio de otros servicios complementarios, y que comprende las patentes de hotel, restaurante, cantina y cabaré.
 
 Valor Patente: 5 UTM.
 
-b) Hostería de turismo, en la que se presta al turista servicio de hospedaje y alimentación, con expendio de bebidas alcohólicas.
+b) Apart hotel, en el que se presta al turista servicio de hospedaje, sin perjuicio de otros servicios, con expendio de bebidas alcohólicas.
+
+Valor Patente: 5 UTM.
+
+c) Hostería de turismo, en la que se presta al turista servicio de hospedaje y alimentación, con expendio de bebidas alcohólicas.
 
 Valor Patente: 3 UTM.
 
-c) Motel de turismo, en el que se proporciona servicio de hospedaje en unidades habitacionales independientes o aisladas entre sí, dotadas de elementos que permitan la preparación de comidas.
+d) Motel de turismo, en el que se proporciona servicio de hospedaje en unidades habitacionales independientes o aisladas entre sí, dotadas de elementos que permitan la preparación de comidas.
 
 Valor Patente: 2 UTM.
 
-d) Restaurante de turismo, que comprende las patentes de restaurante, cantina y cabaré.
+e) Restaurante de turismo, que comprende las patentes de restaurante, cantina y cabaré.
 
 Valor Patente: 4 UTM.
 
@@ -206,7 +210,7 @@ La distancia se medirá entre los extremos más próximos de los respectivos est
 
 En la patente deberá anotarse el nombre del dueño, número de su cédula de identidad con indicación del lugar de su otorgamiento y la dirección del negocio.
 
-Iguales anotaciones se harán respecto del adquirente, en caso de transferencia de la patente. Las patentes sólo pueden transferirse previa inscripción en la oficina municipal que corresponda, y a personas que no estén comprendidas en las prohibiciones del artículo 4º.
+Igual anotación se hará respecto del adquirente de una patente, en caso de transferencia, o respecto del poseedor o tenedor a cualquier título de ella. Si fuere una persona jurídica, deberá dejarse constancia del o los administradores o gerentes. Las patentes sólo pueden transferirse previa inscripción en la oficina municipal que corresponda, y a personas que no estén comprendidas en las prohibiciones del artículo 4°.
 
 Las patentes de establecimientos clausurados definitivamente son intransferibles.
 
@@ -261,6 +265,8 @@ Las bebidas alcohólicas expendidas por los depósitos de bebidas no podrán ser
 #### Artículo 19
 
 Se prohíbe la venta de bebidas alcohólicas, en cualquier tipo de envase, en los campos y recintos destinados a espectáculos deportivos, salvo que se efectúen en recintos delimitados que tengan patente de restaurante o círculo o club social con personalidad jurídica; en las vías, plazas y paseos públicos; en los teatros, cines, circos y demás centros y lugares de espectáculos o diversiones públicas que no paguen patente de cabaré; como también en las estaciones ferroviarias, en los trenes y demás vehículos de transporte, salvo que se haga en forma localizada.
+
+Prohíbese la venta de bebidas alcohólicas en estaciones de servicio o bombas bencineras, salvo que en ellas existan establecimientos o restaurantes que cuenten con patente que permita su venta.
 
 No se entenderá prohibida por este artículo la entrega o reparto de bebidas alcohólicas a los establecimientos de expendio en los caminos públicos o vecinales.
 
@@ -370,9 +376,9 @@ Carabineros, en la oportunidad que corresponda, dará cumplimiento al apercibimi
 
 #### Artículo 29
 
-Prohíbese el ingreso de menores de dieciocho años a los cabarés, cantinas, bares y tabernas, y el ingreso de menores de dieciséis años a discotecas, sin perjuicio de lo dispuesto en el artículo 42.
+Prohíbese el ingreso de menores de dieciocho años a los cabarés, cantinas, bares y tabernas. Prohíbese, asimismo, el ingreso de menores de dieciocho años a las discotecas cuando en ellas se expendan bebidas alcohólicas.
 
-El administrador o dueño de esos establecimientos, así como quien atienda en ellos, estará obligado a exigir la cédula de identidad u otro documento de identificación expedido por la autoridad pública a todas las personas que deseen ingresar y tengan, aparentemente, menos de dieciocho o, en su caso, dieciséis años de edad.
+El administrador o dueño de esos establecimientos, así como quien atienda en ellos, estará obligado a exigir la cédula de identidad u otro documento de identificación expedido por la autoridad pública a todas las personas que deseen ingresar a ellos.
 
 La infracción de esta prohibición será castigada con multa de tres a diez unidades tributarias mensuales. La multa podrá imponerse doblada a los administradores o dueños de los establecimientos referidos, en caso de que el ingreso de menores haya sido autorizado o inducido por éstos.
 
@@ -398,13 +404,13 @@ Lo previsto en este artículo se aplicará sin perjuicio de lo que resuelva el j
 
 #### Artículo 33
 
-En todos los Servicios de Salud del país habrá un programa de tratamiento y rehabilitación para personas que presentan un consumo perjudicial de alcohol y dependencia del mismo, los que incluirán atención ambulatoria en todos los establecimientos de salud de nivel primario, sean dependientes de los municipios o de los Servicios de Salud y atención especializada ambulatoria o en régimen de internación.
+En todos los Servicios de Salud del país habrá un programa de prevención, tratamiento y rehabilitación para personas que presentan un consumo perjudicial de alcohol y dependencia del mismo, los que incluirán atención ambulatoria en todos los establecimientos de salud de nivel primario, sean dependientes de los municipios o de los Servicios de Salud y atención especializada ambulatoria o en régimen de internación.
 
-En estos programas podrán participar complementaria y coordinadamente, Municipalidades, iglesias, instituciones públicas y personas jurídicas de derecho privado, las que también podrán ejecutarlos, todo ello, bajo las normas, fiscalización y certificación del Ministerio de Salud.
+En estos programas podrán participar complementaria y coordinadamente, Municipalidades, iglesias, instituciones públicas y personas jurídicas de derecho privado, las que también podrán ejecutarlos, todo ello, bajo las normas, fiscalización y certificación del Ministerio de Salud y las Secretarías Regionales Ministeriales de Salud. Estas últimas deberán diferenciar y coordinar con otros sectores e instituciones de la sociedad civil, medidas de protección de la salud pública en relación al consumo nocivo de alcohol.
 
 En los programas de tratamiento y rehabilitación para bebedores problemas y alcohólicos, deberán establecerse actividades especiales para los menores de dieciocho años.
 
-El reglamento, expedido por intermedio del Ministerio de Salud, determinará las acciones de reeducación preventiva, tratamiento médico o rehabilitación psicosocial, que serán aplicables en cada caso, así como los procedimientos, plazos y entidades responsables de llevarlas a cabo y su adecuada y oportuna comunicación al juez que ordenó la medida.
+El reglamento, expedido por intermedio del Ministerio de Salud, determinará las acciones de reeducación preventiva, tratamiento médico o rehabilitación psicosocial, que serán aplicables en cada caso, as� como los procedimientos, plazos y entidades responsables de llevarlas a cabo y su adecuada y oportuna comunicación al juez que ordenó la medida.
 
 #### Artículo 34
 
@@ -434,13 +440,13 @@ A petición de cualquiera de los miembros de la familia del paciente, podrá nom
 
 #### Artículo 39
 
-En todos los establecimientos educacionales, sean de enseñanza parvularia, básica o media, se estimulará la formación de hábitos de vida saludable y el desarrollo de factores protectores contra el abuso del alcohol. Se incluirán temas relativos a cultura gastronómica y a actividades sociales que consideren un consumo adecuado de bebidas alcohólicas, a fin de prevenir positivamente el alcoholismo.
+En todos los establecimientos educacionales, sean de enseñanza parvularia, básica o media, el currículo de enseñanza del establecimiento deberá incorporar la formación de hábitos de vida saludable y el desarrollo de factores protectores contra el abuso del alcohol. Se incluirán temas relativos a cultura gastronómica y a actividades sociales que consideren un consumo adecuado de bebidas alcohólicas, a fin de prevenir positivamente el alcoholismo.
 
 Con el objeto de contribuir a la finalidad prevista en el inciso precedente, el Ministerio de Educación proporcionará material didáctico a los establecimientos educacionales de menores recursos y capacitará docentes en la prevención del alcoholismo.
 
 Se prohíbe la venta, suministro o consumo de toda clase de bebidas alcohólicas en los establecimientos educacionales.
 
-No obstante lo dispuesto en el inciso anterior, la dirección del respectivo establecimiento, a solicitud del centro general de padres y apoderados o con la aprobación de éste, podrá autorizar que se proporcionen y consuman bebidas alcohólicas durante Fiestas Patrias o actividades de beneficencia que se realicen hasta por tres veces en cada año calendario, de lo cual se dará aviso previo a Carabineros y a la respectiva Municipalidad. Esta autorización no se concederá durante el año escolar a establecimientos que cuenten con internado. La dirección del establecimiento velará por el correcto uso de la autorización concedida y porque la realización de la actividad no afecte de manera alguna el normal desarrollo de las actividades educacionales.
+No obstante lo dispuesto en el inciso anterior, la dirección del respectivo establecimiento, sólo a solicitud del centro general de padres y apoderados o con la aprobación de éste, podrá autorizar que se proporcionen y consuman bebidas alcohólicas durante Fiestas Patrias o actividades de beneficencia que se realicen hasta por tres veces en cada año calendario. Se deberá contar, asimismo, con la autorización de Carabineros de Chile y de la respectiva municipalidad, las que no se concederán durante el año escolar a establecimientos que cuenten con internado. La dirección del establecimiento velará por el correcto uso de la autorización concedida y porque la realización de la actividad no afecte, de manera alguna, el normal desarrollo de las actividades educacionales. Este permiso será válido sólo para aquellas localidades que no cuenten con un lugar para dicho evento.
 
 La contravención a lo dispuesto en los incisos tercero y cuarto precedentes será castigada con las sanciones previstas en el artículo 43.
 
@@ -456,6 +462,14 @@ En igual sanción incurrirá toda persona que deliberadamente arranque o destruy
 
 El texto y formato del cartel serán determinados por el Ministerio de Justicia. Los carteles serán vendidos por las respectivas Municipalidades al precio que se señale en el reglamento y las sumas que por este concepto se recauden, constituirán rentas municipales.
 
+## Título II — Bis
+
+De la información al consumidor y de la publicidad
+
+#### Artículo 40 quáter
+
+Las disposiciones de este título serán fiscalizadas, además de aquellas establecidas en el artículo 2°, por la correspondiente autoridad sanitaria.
+
 ## Título III
 
 De las sanciones y procedimientos
@@ -470,11 +484,11 @@ En las mismas sanciones incurrirá el que suministre bebidas alcohólicas, o ind
 
 #### Artículo 42
 
-El que vendiere, obsequiare o suministrare bebidas alcohólicas, a cualquier título, a un menor de dieciocho años, en alguno de los establecimientos señalados en el artículo 3º, será sancionado con prisión en su grado medio y multa de tres a diez unidades tributarias mensuales.
+El que vendiere, obsequiare, ofreciere o proporcionare cualquier compensación, directa o indirecta, o suministrare bebidas alcohólicas, a cualquier título, a un menor de dieciocho años, en alguno de los establecimientos señalados en el artículo 3º, será sancionado con prisión en su grado medio y multa de tres a diez unidades tributarias mensuales.
 
-No obstante, se permitirá la venta, el obsequio o el suministro de bebidas alcohólicas a menores cuando éstos concurran a almorzar o a comer, acompañados de sus padres, a los recintos destinados a comedores.
+Con el propósito de dar cumplimiento a lo establecido en el inciso anterior, quienes atiendan en esos establecimientos estarán obligados a exigir la cédula de identidad u otro documento de identificación expedido por la autoridad pública, a todas las personas que deseen adquirir bebidas alcohólicas. Asimismo, mientras se encuentren cumpliendo con sus funciones fiscalizadoras, los inspectores municipales estarán facultados para solicitar alguna identificación que acredite la edad de los compradores.
 
-Si fuere el administrador o dueño del establecimiento quien ejecutare la conducta descrita en el inciso primero, la pena será prisión en su grado máximo, multa de diez a veinte unidades tributarias mensuales y clausura temporal del establecimiento, por un período no superior a tres meses. Iguales penas se le aplicarán si indujere a menores de edad al consumo de bebidas alcohólicas, sea directamente o por medio de publicidad.
+Si fuere el administrador o dueño del establecimiento quien ejecutare la conducta descrita en el inciso primero, la pena será prisión en su grado máximo, multa de cincuenta a cien unidades tributarias mensuales y clausura temporal del establecimiento, por un período no superior a tres meses. Iguales penas se le aplicarán si indujere a menores de edad al consumo de bebidas alcohólicas, sea directamente o por medio de publicidad.
 
 La pena se elevará en un grado, o se aplicará en su mitad superior, según corresponda, si, además, la conducta se hubiere ejecutado con vulneración de la prohibición establecida en el artículo 29.
 
@@ -521,6 +535,20 @@ La contravención al artículo 21 será sancionada con multa de cuatro a doce un
 Para aplicar lo dispuesto en el inciso precedente, así como determinar la segunda, tercera o cuarta transgresión a los artículos 2º, 29 y 43, se considerarán las infracciones cometidas en los últimos doce meses anteriores a la que dio lugar al procedimiento, aun cuando respecto de ellas el juez de policía local haya hecho uso de las facultades que le confieren los artículos 19 y 20 de la ley Nº 18.287.
 
 Toda contravención al Título I de la presente ley, que no tenga señalada una sanción especial, se castigará con una multa de 2 a 10 UTM, cuya causa deberá ser señalada en la resolución correspondiente.
+
+#### Artículo 47 bis
+
+La infracción de lo dispuesto en el artículo 40 bis se sancionará con multa de cinco a doscientas unidades tributarias mensuales y con el comiso de las bebidas.
+
+#### Artículo 47 ter
+
+La infracción de lo dispuesto en el artículo 40 ter será sancionado con multa de veinte a doscientas unidades tributarias anuales.
+
+#### Artículo 47 quáter
+
+Las sanciones que se señalan en los dos artículos anteriores podrán imponerse dobladas en caso de reincidencia.
+
+La reincidencia se determinará según lo dispuesto en el inciso cuarto del artículo 47.
 
 #### Artículo 48
 
@@ -582,13 +610,15 @@ En caso de transferencia, a cualquier título, de un establecimiento de expendio
 
 #### Artículo 56
 
-Para los efectos de determinar el equivalente en pesos de las multas que establece esta ley, se estará al valor de la unidad tributaria mensual a la fecha de su pago efectivo.
+Para los efectos de determinar el equivalente en pesos de las multas que establece esta ley, se estará al valor de la unidad tributaria mensual o anual, según corresponda, a la fecha de su pago efectivo.
 
 El juez, cumpliéndose los requisitos previstos en el artículo 20 bis de la ley Nº 18.287, podrá conmutar la multa impuesta por la realización de trabajos en beneficio de la comunidad, sin perjuicio de lo dispuesto en el artículo 23 de dicho cuerpo legal.
 
 #### Artículo 57
 
-Del total de las sumas que ingresen por concepto de multas aplicadas por infracción a las disposiciones de esta ley, el 40% se destinará a los Servicios de Salud para el financiamiento y desarrollo de los programas de rehabilitación de personas alcohólicas, y el 60%, a las municipalidades, para la fiscalización de dichas infracciones y para el desarrollo de los programas de prevención y rehabilitación de personas alcohólicas.
+Del total de las sumas que ingresen por concepto de multas aplicadas por infracción de las disposiciones de esta ley, el 40 por ciento se destinará a los Servicios de Salud para el financiamiento y desarrollo de los programas de prevención, tratamiento y rehabilitación de personas que presenten un consumo perjudicial de alcohol y dependencia del mismo, y a las Secretarías Regionales Ministeriales de Salud para medidas de protección de la salud pública en aspectos relativos al consumo nocivo de alcohol, y el 60 por ciento, a las municipalidades, para la fiscalización de dichas infracciones y para el desarrollo de los programas de prevención del consumo perjudicial de alcohol y rehabilitación social de personas alcohólicas.
+
+El reglamento a que hace mención el artículo 33 regulará la forma de administración de los montos correspondientes a salud.
 
 #### Artículo 58
 
