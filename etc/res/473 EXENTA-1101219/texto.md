@@ -44,7 +44,7 @@ Fíjese la siguiente norma técnica que establece regulaciones relativas al prot
 
 #### Artículo 1º
 
-La metodología de las mediciones de televisión digital considerará la definición de los puntos de medición, empleando un sistema georreferencial. La cantidad puntos y su distribución dependerán del caso, según se trate de la recepción de obras, fiscalizaciones o comprobación de la cobertura del 85% de la población en la zona de servicio de la concesión.
+La metodología de las mediciones de televisión digital considerará la definición de los puntos de medición, empleando un sistema georreferencial. La cantidad de puntos y su distribución dependerán del caso, según se trate de la recepción de obras, de fiscalizaciones o de la comprobación de la cobertura del 85% de la población en la zona de servicio de la concesión.
 
 Las mediciones registrarán, dependiendo de su objetivo, niveles de intensidad de campo eléctrico dBµV/m y niveles de MER (dB) en transmisor y receptor. Asimismo, se revisará la calidad de la imagen recibida empleando para ello un receptor comercial de televisión digital full-seg que cumpla con la resolución exenta N° 7.219 de 2009, de la Subsecretaría de Telecomunicaciones, en adelante la Subsecretaría.
 
@@ -54,9 +54,9 @@ Cuando se requiera verificar el contorno de la zona de servicio y el contorno ur
 
 .
 
-La Grilla de Radiales presentada, da cuenta de donde pueden ubicarse los puntos de medición, para el caso de recepción de obras que involucra lo siguiente:
+La Grilla de Radiales presentada, da cuenta de los radiales sobre los cuales pueden ubicarse los puntos de medición. Para el caso de recepción de obras se verificará lo siguiente:
 
-a) Que se cumpla con el nivel de intensidad de campo, que la concesionaria presentó en el proyecto técnico a la Subsecretaría, en el contorno de zona de servicio, dBµV/m, sin exceder los 60 kilómetros medidos desde la planta transmisora.
+a) Que se cumpla con el nivel de intensidad de campo que la concesionaria consignó en el proyecto técnico autorizado por la Subsecretaría, en el contorno de zona de servicio, que estará delimitado por el valor de intensidad del campo eléctrico de 48 dBµV/m, sin exceder los 60 kilómetros medidos desde la planta transmisora.
 
 b) Para las concesionarias de categoría nacional, en las áreas que cuenten con Plan Regulador Metropolitano, también deberá medirse el denominado contorno urbano, que estará delimitado por el valor de la intensidad del campo eléctrico de 66 dBµV/m. Este contorno contendrá a lo menos el 90% de la parte urbana definida por el instrumento de planificación territorial de la zona de servicio de la concesión respectiva, sin exceder los 15 km medidos desde la estación transmisora, en la dirección de máxima radiación.
 
@@ -112,15 +112,29 @@ Para efectos de la verificación de la cobertura del 85% de la población, se to
 
 En los citados puntos de medición se deberá cumplir que el valor de intensidad de campo eléctrico de la señal digital iguale o supere los 48 dBµV/m y la imagen no presente pixelados ni pérdida de audio. En caso que la medición de la serial digital se encuentre por debajo del citado nivel de intensidad de campo eléctrico, se verificará si hay recepción de la solución complementaria que hubiere sido autorizada al respectivo concesionario, en cuyo caso se entenderá cubierto el respectivo punto, de conformidad a lo dispuesto en el inciso final del artículo 22° del citado Plan.
 
+En lugar de mediciones en terreno, la medición a que se refiere el presente artículo también podrá efectuarse utilizando un software de simulación de propagación especializado, según el criterio técnico que se expresará en el informe respectivo.
+
+La medición de la cobertura del 85% de la población en la zona de servicio de la concesión de que se trate, deberá ser requerida expresamente por la concesionaria, de forma independiente o junto con su solicitud de recepción de obras, procediendo la Subsecretaría a efectuar las mediciones necesarias de acuerdo a alguna de las alternativas señaladas en los incisos anteriores.
+
+El resultado de la medición será consignado en un informe técnico de la Subsecretaría que será notificado por oficio a la concesionaria, para los fines que estime pertinentes. Asimismo, se remitirá copia del informe al Consejo Nacional de Televisión y será publicado en la página web de la Subsecretaría.
+
 Si con posterioridad a la verificación de cobertura del 85% de la población en la zona de servicio de la concesión de que se trate, se detectaran zonas de sombra en áreas pobladas, no cubiertas por alguna solución complementaria se recalculará el cumplimiento de dicha exigencia de cobertura del 85% de la población para efectos de la retransmisión consentida descontando la población no atendida. Ello sin perjuicio de las sanciones que en su caso corresponda legalmente aplicar.
 
-Verificado por parte de la Subsecretaría el cumplimiento o incumplimiento de la cobertura el 85% de la población en la zona de servicio de la concesión de que se trate, el mismo se entenderá ocurrido desde la fecha en que se hubieran recepcionado las obras e instalaciones de la concesión. Lo anterior, siempre y cuando no se hubieren efectuado modificaciones a las condiciones de operación recepcionadas que pudieran alterar el resultado de las mediciones.
+Verificado por parte de la Subsecretaría el cumplimiento o incumplimiento de la cobertura del 85% de la población en la zona de servicio de la concesión de que se trate, el mismo se entenderá ocurrido desde la fecha en que se hubieran recepcionado las obras e instalaciones de la concesión. Lo anterior, siempre y cuando no se hubieren efectuado modificaciones a las condiciones de operación recepcionadas que pudieran alterar el resultado de las mediciones.
 
 #### Artículo 7º
 
 Quien manifieste disconformidad con el resultado de las mediciones efectuadas de conformidad al artículo 6º anterior deberá acompañar los antecedentes que las desvirtúen, a fin que la misma pueda ser verificada por la Subsecretaría de Telecomunicaciones, en adelante Subtel.
 
 Para los efectos anteriores deberán presentar mediciones, sus resultados y los antecedentes que les sirvan de sustento, las que deberán ser realizadas de acuerdo a lo establecido en el artículo 6º de la presente resolución, señalando valores de intensidad de campo, coordenadas y condiciones de medición, que demuestren la ausencia de señal digital terrestre y, si fuera el caso, de la señal complementaria, que afecte a más del 15% de la población de la zona de servicio en análisis.
+
+En caso que la disconformidad se manifieste en contra de las mediciones efectuadas en terreno, los datos de las mediciones de intensidad de campo que se acompañen para desvirtuar aquéllas deberán ser ingresados en formato electrónico usando del Formulario III del Anexo Nº 1, el que para estos efectos se encontrará habilitado en el sitio web institucional de la Subsecretaría (www.subtel.gob.cl). A lo anterior se deberán anexar los antecedentes que den cuenta del diseño de la muestra de medición de acuerdo al método establecido en el Anexo Nº 2.
+
+En caso que la disconformidad se manifieste en contra de las mediciones efectuadas mediante software, el interesado deberá proporcionar a la Subsecretaría los antecedentes relacionados con su simulación, los cuales deberán ser compatibles y emplear el mismo estándar técnico que el utilizado por la Subsecretaría.
+
+La Subsecretaría dará traslado de la presentación y de los antecedentes que se hubieran allegado a la concesionaria o permisionaria, según corresponda, para que, en el plazo máximo de 45 días, que podrá ser ampliado a solicitud fundada de la peticionaria, ésta manifieste su opinión, acompañando los antecedentes que la sustenten, de acuerdo a lo dispuesto en los incisos anteriores.
+
+La Subsecretaría analizará los antecedentes acompañados por las interesadas y podrá efectuar nuevas mediciones de así estimarlo necesario, emitiendo un nuevo informe técnico que se pronunciará derechamente sobre la o las impugnaciones junto con el resultado de la o las mediciones en la zona de servicio de la concesión de que se trate, el que será notificado por oficio a las interesadas para los fines que estimen pertinentes. Asimismo, se remitirá copia del informe al Consejo Nacional de Televisión y será publicado en la página web de la Subsecretaría.
 
 #### Artículo 8º
 
@@ -131,6 +145,14 @@ Para el registro de las mediciones a que se refiere la presente norma se emplear
 Para efectos de la determinación de una zona de sombra se considerará la recepción con antena externa y, en el caso de edificios, se medirá la recepción sobre su azotea. Con todo, verificada la recepción en pisos inferiores del edificio no será necesario medir sobre su azotea.
 
 Las zonas de sombra de la televisión digital, en zonas pobladas, que tengan una superficie mayor a 0,0625 km2 necesariamente deberán ser atendidas, pudiendo emplear para ello estaciones de relleno (Gap-filler). Lo anterior, sin perjuicio de la facultad de la concesionaria de ofrecer supletoriamente una solución complementaria para cubrir el área de sombra antes mencionada, en los términos que se establece en el artículo 9º del PTVD, en cuyo caso no será necesaria una estación de relleno.
+
+#### Artículo 10º
+
+Para todos los efectos relacionados con el servicio de radiodifusión digital televisiva terrestre, se tendrán en consideración, para la aplicación de las soluciones complementarias, los conceptos que se señalan a continuación:
+
+Zona geográficamente aislada: localidad en condición de aislamiento de acuerdo al criterio definido para esa materia por la Subsecretaría de Desarrollo Regional y Administrativo del Ministerio del Interior y Seguridad Pública. Lo anterior, es sin perjuicio de la calificación de zonas geográficamente aisladas establecida en la disposición transitoria décima del decreto supremo Nº 167, de 2015, del Ministerio de Transportes y Telecomunicaciones.
+
+Zona de difícil recepción: toda área geográfica en que la recepción satisfactoria del servicio se ve afectada por la presencia de obstáculos, tales como árboles, construcciones, quebradas, montañas o accidentes geográficos en general, o por elementos de cualquier otro tipo, que dificulten o impidan la propagación de la señal emitida por una planta transmisora determinada, indistintamente de si se ubica dentro o fuera de la zona de servicio asociada a ésta.
 
 Disposiciones Transitorias
 
@@ -190,7 +212,7 @@ La selección de los puntos de medición se realizará en dos etapas. Primero se
 
 1 "Diseño de muestras para encuestas de hogares. Directrices prácticas, Serie F, N° 98," Departamento de Asuntos Económicos y Sociales, División de Estadística. Naciones Unidas, 2009.
 
-En consecuencia el Tamaño de la Muestra considerando p=0,9 con 5% de error, al 95% de confianza y efecto diseño Deff=2, será de 276 mediciones, cantidad válida para cualquier ciudad de más de 10.000 habitantes.
+En consecuencia el Tamaño de la Muestra considerando p=0,9 con 5% de error, al 95% de confianza y efecto diseño Deff=2, será de 276 mediciones.
 
 ### II. PROCEDIMIENTO DE SELECCIÓN DE LA MUESTRA
 
@@ -198,11 +220,11 @@ Para seleccionar la muestra se usará el siguiente procedimiento de selección:
 
 1) Para determinar el total de manzanas censales a considerar, se superpondrá la zona de servicio teórica con la información de manzanas censales georreferenciadas del INE. En el caso en que existan zonas rurales en la zona de servicio, se tomará en consideración las secciones rurales.
 
-2) Se procederá a agrupar las manzanas y secciones rurales, si las hubiera, por orden de densidad poblacional creciente en 30 grupos de manzanas de acuerdo a la metodología Casen según la siguiente tabla:
+2) Se procederá a agrupar las manzanas y secciones rurales, si las hubiera, por orden de densidad poblacional creciente en 5 grupos de manzanas de acuerdo a la metodología Casen según la siguiente tabla:
 
 .
 
-Dentro de cada uno de los citados grupos se seleccionará mediante muestreo aleatorio simple un total de 276*(Ni/N) manzanas (donde Ni es la cantidad de habitantes del grupo i de manzanas y N es la población total de la zona de servicio).
+Dentro de cada uno de los citados grupos se seleccionará mediante muestreo aleatorio simple un total de n*(Pi/P) manzanas (donde "n" es el tamaño de la muestra en la zona de servicio; "Pi" es la cantidad de habitantes del grupo i de manzanas; y "P" es la población total de la zona de servicio).
 
 Se dejará también una reserva de manzanas representativas por si en una manzana no se puede medir.
 
