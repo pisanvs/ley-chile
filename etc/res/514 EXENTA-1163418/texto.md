@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 514, de fecha 23 de julio de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Maule, se autorizó a la Escuela de Conductores Profesionales denominada "Sociedad de Servicios para la Productividad y el Desarrollo Limitada" o "Serprode Limitada", RUT N° 76.387.924-0, domiciliada en 5 Sur, entre 14 y 15 Oriente, N° 2115, comuna de Talca y en Chacabuco N°14, comuna de Curicó, cuyo representante legal es José Hernán Aliaga Castro, Cédula Nacional de Identidad Nº 14.286.592-0, cuyos planes y programas de enseñanza para impartir cursos A2, A3, A4 y A5 teórico y práctico fueron autorizados mediante resolución exenta N°1.099, de 22 de septiembre de 2016, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, a impartir los cursos conducentes a la obtención de la Licencia de Conductor Profesional Clase A2, A3, A4 y A5, en la modalidad e-learning, todos bajo el formato de ejecución asincrónico.-
+
+Carlos Palacios Maldonado, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Maule.
