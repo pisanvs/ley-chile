@@ -190,6 +190,16 @@ Las instituciones que cuenten con convenio de tramitación electrónica suscrito
 
 Acorde al artículo 59 de la ley 19.880, y a las instrucciones dictadas por la CNA al efecto, la institución podrá interponer un recurso de reposición respecto de la decisión de acreditación, en el plazo de 5 días hábiles contados desde la notificación de la resolución que contenga dicha decisión. La Comisión dispondrá de un plazo de 30 días hábiles para pronunciarse sobre la reposición.
 
+#### Artículo 25° bis
+
+Para el caso que el programa haya presentado un recurso de reposición en contra de una decisión de acreditación, previo al pronunciamiento de la Comisión y con el propósito que la Institución sea oída, podrá asistir a la respectiva sesión, en representación de aquélla, el Rector o la Rectora o la máxima autoridad ejecutiva institucional unipersonal, o un Vicerrector o autoridad de alcance institucional equivalente, nominado por el Rector o equivalente en cada caso, o quien les subrogue de acuerdo con lo establecido en sus estatutos, conforme a las instrucciones dictadas por la CNA para tal efecto.
+
+La Comisión escuchará a la Institución que imparte el programa al inicio de la respectiva sesión, antes de la relación del respectivo recurso de reposición por la Secretaría Ejecutiva.
+
+En caso de inasistencia, la Comisión continuará con su análisis, lo que quedará consignado en el acta de la respectiva sesión y en la correspondiente resolución.
+
+Finalmente, el Pleno de la Comisión, basado en la ponderación de la totalidad de los antecedentes, emitirá la decisión correspondiente.
+
 #### Artículo 26°
 
 Las reposiciones deberán venir suscritas por el representante legal o de personada especialmente facultada para ello y expresar de manera precisa los aspectos impugnados y fundamentar claramente sus objeciones en base a antecedentes que el pleno de la Comisión no haya tenido a la vista al momento de resolver. En todo caso, dichos antecedentes deberán ser de fecha anterior o coetánea al proceso de acreditación, considerando como límite la visita de evaluación externa. La Secretaría Ejecutiva deberá informar a la Comisión sobre las solicitudes que no cumplan con estas condiciones.
