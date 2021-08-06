@@ -138,7 +138,13 @@ Dentro de los 30 (treinta) días hábiles siguientes al término de la visita, e
 
 #### Artículo 18º
 
-El Informe de Autoevaluación (junto con sus antecedentes), el Informe de Evaluación Externa, el Informe Financiero, las Observaciones de la Institución, y otros antecedentes que sean utilizados para corroborar, verificar o complementar la información proporcionada por la institución, ingresarán a sesión del Pleno de la Comisión. El Presidente del Comité de pares efectuará una relatoría en base a los antecedentes mencionados, refiriéndose en particular a las áreas en que la institución se somete a proceso.
+El Informe de Autoevaluación (junto con sus antecedentes), el Informe de Evaluación Externa, el Informe Financiero, las Observaciones de la Institución, y otros antecedentes que sean utilizados para corroborar, verificar o complementar la información proporcionada por la institución, ingresarán a sesión del Pleno de la Comisión.
+
+Previo al pronunciamiento de la Comisión, y con el propósito que la Institución sea oída, podrá asistir a la respectiva sesión, en representación de aquélla, el Rector o la Rectora o la máxima autoridad ejecutiva institucional unipersonal, o quien subrogue de acuerdo con lo establecido en sus estatutos, conforme a las instrucciones dictadas por la CNA para tal efecto.
+
+La Comisión escuchará a la Institución al inicio de la sesión, antes de la relatoría del Presidente del Comité de Pares Evaluadores. En caso de inasistencia, la Comisión continuará con su análisis, lo que quedará consignado en el acta de la respectiva sesión y en la correspondiente resolución.
+
+Luego, el Presidente del Comité de pares efectuará una relatoría en base a los antecedentes mencionados, refiriéndose en particular a las áreas en que la institución se somete a proceso.
 
 Finalmente, el Pleno de la Comisión, basado en la ponderación de la totalidad de los antecedentes, emitirá el juicio de acreditación correspondiente.
 
@@ -175,6 +181,16 @@ Acorde al artículo 59 de la ley 19.880, y a las instrucciones dictadas por la C
 #### Artículo 23º
 
 Las reposiciones deberán venir suscritas por el representante legal o persona facultada para ello y expresar de manera precisa los aspectos impugnados y fundamentar claramente sus objeciones en base a antecedentes que el pleno de la Comisión no haya tenido a la vista al momento de resolver. En todo caso, dichos antecedentes deberán ser de fecha anterior o coetánea al proceso de acreditación, considerando como límite la visita de evaluación externa. La Secretaría Ejecutiva deberá informar a la Comisión sobre las solicitudes que no cumplan con estas condiciones.
+
+#### Artículo 23º bis
+
+Para el caso que la Institución haya presentado un recurso de reposición en contra de la decisión de acreditación, previo al pronunciamiento de la Comisión y con el propósito que la Institución sea oída, podrá asistir en representación de aquélla el Rector o la Rectora o la máxima autoridad ejecutiva institucional unipersonal, o quien subrogue de acuerdo con lo establecido en sus estatutos, conforme a las instrucciones dictadas por la CNA para tal efecto.
+
+La Comisión escuchará a la Institución al inicio de la respectiva sesión, antes de la relación del respectivo recurso de reposición por la Secretaría Ejecutiva.
+
+En caso de inasistencia, la Comisión continuará con su análisis, lo que quedará consignado en el acta de la respectiva sesión y en la correspondiente resolución.
+
+Finalmente, el Pleno de la Comisión, basado en la ponderación de la totalidad de los antecedentes, emitirá la decisión correspondiente.
 
 #### Artículo 24º
 
