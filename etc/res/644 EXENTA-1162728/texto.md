@@ -268,6 +268,12 @@ f. Las personas que se encuentren en establecimientos de salud, las que se regir
 
 32. De los establecimientos de salud. Déjase constancia que las restricciones de aforo dispuestas para los lugares que atienden público, según se indica en el Capítulo II de esta resolución, no se aplican a los establecimientos asistenciales de salud, los que se rigen por sus normas particulares.
 
+32 bis. De la atención presencial preferente en los lugares que indica. En aquellos lugares donde se realicen pagos en dinero en efectivo al público general, se estará a lo dispuesto en el Capítulo II, con las modificaciones que a continuación se señalan:
+
+a) Toda persona mayor de 60 años, como también toda persona en situación de discapacidad y embarazadas, tendrá derecho a ser atendida preferentemente.
+
+b) Para el cálculo de los aforos, no se tendrá en consideración a las personas de las que trata el literal anterior. Sin perjuicio de lo anterior, deberán tomar todas las medidas necesarias para evitar los contagios.
+
 33. De la infraestructura para el transporte. Déjase constancia que las restricciones de aforo dispuestas para los lugares que atienden público, según se indica en el Capítulo II de esta resolución, no se aplican a la infraestructura para el transporte, como aeropuertos, aeródromos, estaciones de ferrocarriles y trenes urbanos y terminales de buses, los que se rigen por la regulación complementaria dictada al efecto.
 
 34. De la demarcación de la distancia. Dispóngase que en aquellos lugares donde, por la naturaleza de los servicios que se prestan, se formen filas, se deberá demarcar la distancia, de un metro lineal, que debe existir entre personas. Esta obligación deberá cumplirse ya sea que la fila se forme dentro o fuera del local, cumpliendo con lo establecido en el numeral 31. En el caso que la demarcación deba hacerse en la vía pública, esta deberá ser fácilmente removible.
@@ -380,11 +386,61 @@ c) No haber sido sancionado en virtud del libro X del Código Sanitario por infr
 
 Para acreditar el cumplimiento de dichos requisitos el solicitante deberá obtener un comprobante de vacunación contra el SARS-CoV-2, el que está disponible en el sitio web https://mevacuno.gob.cl//.
 
+59 bis. Del cumplimiento del esquema de vacunación en el extranjero. Se entenderá que se cumple con el requisito dispuesto en el literal a) del numeral 59 quienes hayan completado su esquema de vacunación en el extranjero, y acrediten dicha situación por medios verificables de forma electrónica.
+
+La solicitud para validar la vacunación recibida en el extranjero en Chile, deberá realizarse en el portal dispuesto al efecto en el sitio http://mevacuno.gob.cl.
+
+Son documentos verificables de forma electrónica aquellos que cuenten con firma electrónica avanzada o un código QR que acredite que la información es emitida por un organismo oficial del Estado que se trate.
+
+El solicitante deberá cumplir, además, con los siguientes requisitos:
+
+a) Ser chileno o extranjero residente de manera regular en Chile.
+
+b) Haber sido inoculado con una vacuna contra el SARS-CoV-2 que haya sido autorizada por alguna de las siguientes agencias o entidades:
+
+i) Instituto de Salud Pública de Chile (ISP).
+
+ii) Organización Mundial de la Salud (OMS).
+
+iii) Administración de Alimentos y Medicamentos de los Estados Unidos (FDA).
+
+iv) Agencia Europea de Medicamentos (EMA).
+
+c) Adjuntar Pasaporte u otra forma de acreditar que se encontraba en el país donde recibió la vacuna en la fecha indicada por el certificado de vacunación de ese país.
+
 60. De los efectos. El Pase de Movilidad habilitado eximirá de las restricciones o producirá los efectos que explícitamente se señalen en los actos administrativos dictados por la autoridad sanitaria.
 
 Los efectos del Pase de Movilidad habilitado serán aplicables a menores de edad que estén en compañía de su padre, madre, tutor o curador, que sea titular de un Pase de Movilidad habilitado.
 
 60 bis. Sin perjuicio de lo dispuesto en el párrafo segundo del numeral anterior, los efectos del Pase de Movilidad de los padres, madres, tutores y curadores no alcanzarán a los menores de edad bajo su cuidado, para efectos de lo dispuesto en el numeral (i) del inciso segundo del artículo primero del decreto supremo Nº 102, de 2020, del Ministerio del Interior y Seguridad Pública.
+
+60 ter. De la Validación Temporal de Vacunación. Quienes hayan completado el esquema de vacunación contra SARS-CoV-2 en el extranjero cumpliendo con todos los requisitos señalados en el artículo 59 bis, pero no puedan acreditar dicha situación por medios verificables de forma electrónica, en conformidad a lo estipulado en el párrafo tercero del artículo citado precedentemente, podrán acceder a una Validación Temporal de Vacunación. La Validación Temporal de Vacunación producirá los efectos y deberá cumplir con los requisitos que se señalan a continuación.
+
+60 quáter. Para acceder a la Validación Temporal de Vacunación, el solicitante deberá cumplir con los siguientes requisitos:
+
+a) Ser chileno o extranjero de manera regular en Chile.
+
+b) Haber sido inoculado con una vacuna contra el SARS-CoV-2 que haya sido autorizada por alguna de las siguientes agencias o entidades:
+
+i) Instituto de Salud Pública de Chile (ISP).
+
+ii) Organización Mundial de la Salud (OMS).
+
+iii) Administración de Alimentos y Medicamentos de los Estados Unidos (FDA).
+
+iv) Agencia Europea de Medicamentos (EMA).
+
+c) Acompañar los documentos verificables que certifiquen el haber sido vacunado con alguna de las vacunas antedichas en la plataforma web http://mevacuno.gob.cl.
+
+d) En caso que los documentos señalados en el literal c) anterior no se encuentren en el idioma castellano o inglés, deberá acompañarse una traducción autorizada en alguno de esos idiomas.
+
+e) Adjuntar Pasaporte u otra forma de acreditar que se encontraba en el país donde recibió la vacuna en la fecha indicada por el documento que acredite la de vacunación de ese país.
+
+La autoridad sanitaria ponderará la solicitud y si los antecedentes son consistentes, mas no verificables de forma electrónica, procederá a la validación temporal de la vacunación recibida en el extranjero.
+
+Quien detente una Validación Temporal de Vacunación, y acompañe el resultado de un examen realizado en laboratorio autorizado en territorio chileno, que certifique que tiene anticuerpos IgM/IgG positivos contra SARS-CoV-2, realizado al menos 14 días después de haber completado el esquema de vacunación, se entenderá para todos los efectos que cumple con el requisito dispuesto en el literal a) del numeral 59 de la presente resolución.
+
+60 quinquies. De los efectos de la Validación Temporal de la Vacunación. La Validación Temporal de la Vacunación solo producirá efectos respecto de la autorización de la que trata el numeral 6 de la resolución Nº 672, de 2021, del Ministerio de Salud.
 
 61. De la verificación. Para efectos de verificar si un Pase de Movilidad está habilitado, se deberá exhibir a quien corresponda el comprobante de vacunación a que hace referencia el numeral 59 y un documento de identificación.
 
