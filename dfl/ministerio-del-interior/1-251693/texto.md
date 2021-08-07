@@ -126,7 +126,7 @@ g) La construcción de viviendas sociales e infraestructuras sanitarias;
 
 h) El transporte y tránsito públicos;
 
-i) La prevención de riesgos y la prestación de auxilio en situaciones de emergencia o catástrofes;
+i) La Gestión del Riesgo de Desastres en el territorio de la comuna, la que comprenderá especialmente las acciones relativas a las Fases de Mitigación y Preparación de estos eventos, así como las acciones vinculadas a las Fases de Respuesta y Recuperación frente a emergencias.
 
 j) El desarrollo, implementación, evaluación, promoción, capacitación y apoyo de acciones de prevención social y situacional, la celebración de convenios con otras entidades públicas para la aplicación de planes de reinserción social y de asistencia a víctimas, así como también la adopción de medidas en el ámbito de la seguridad pública a nivel comunal, sin perjuicio de las funciones del Ministerio del Interior y Seguridad Pública y de las Fuerzas de Orden y Seguridad;
 
@@ -442,7 +442,7 @@ Organización interna
 
 Las funciones y atribuciones de las municipalidades serán ejercidas por el alcalde y por el concejo en los términos que esta ley señala.
 
-Para los efectos anteriores, las municipalidades dispondrán de una Secretaría Municipal, de una Secretaría Comunal de Planificación y de otras unidades encargadas del cumplimiento de funciones de prestación de servicios y de administración interna, relacionadas con el desarrollo comunitario, obras municipales, aseo y ornato, tránsito y transporte públicos, administración y finanzas, asesoría jurídica y control. Dichas unidades sólo podrán recibir la denominación de Dirección, Departamento, Sección u Oficina.
+Para los efectos anteriores, las municipalidades dispondrán de una Secretaría Municipal, de una Secretaría Comunal de Planificación y de otras unidades encargadas del cumplimiento de funciones de prestación de servicios y de administración interna, relacionadas con el desarrollo comunitario, obras municipales, aseo y ornato, tránsito y transporte públicos, gestión del riesgo de desastres, administración y finanzas, asesoría jurídica y control. Dichas unidades sólo podrán recibir la denominación de Dirección, Departamento, Sección u Oficina.
 
 #### Artículo 16
 
@@ -649,6 +649,28 @@ c) Señalizar adecuadamente las vías públicas;
 d) Aprobar, observar o rechazar los informes de mitigación de impacto vial o emitir opinión sobre ellos, a petición de la secretaría regional ministerial de Transportes y Telecomunicaciones, conforme a lo dispuesto en la Ley General de Urbanismo y Construcciones, y
 
 e) En general, aplicar las normas generales sobre tránsito y transporte públicos en la comuna.
+
+#### Artículo 26 bis
+
+En general, corresponderá a la Unidad de Gestión del Riesgo de Desastres:
+
+a) Prestar apoyo al alcalde en todas las materias referentes al Sistema Nacional de Prevención y Respuesta ante Desastres.
+
+b) Elaborar el Plan Comunal para la Reducción del Riesgo de Desastres y el Plan Comunal de Emergencia, en conformidad con lo dispuesto en la ley que establece el Sistema Nacional de Prevención y Respuesta ante Desastres y su reglamento.
+
+c) Confeccionar los informes en aquellas materias de su competencia, referidas a los artículos 28 y 32 de la ley indicada en la letra anterior, cuando las unidades señaladas en dichos artículos soliciten su pronunciamiento.
+
+d) Aportar al funcionario que designe el Director Regional del Servicio Nacional de Prevención y Respuesta ante Desastres, la información referente a su comuna para la elaboración del mapa de riesgo que contempla la ley que establece el Sistema Nacional de Prevención y Respuesta ante Desastres.
+
+e) Coordinar con la Dirección Regional del Servicio Nacional de Prevención y Respuesta ante Desastres, y con los organismos o entidades públicas correspondientes, en el marco de sus competencias, las acciones en materia de Gestión del Riesgo de Desastres en su comuna.
+
+#### Artículo 26 ter
+
+Esta Unidad se podrá asignar o crear a proposición del alcalde y con la aprobación del concejo municipal respectivo. Una vez que el alcalde cuente con la aprobación anterior, estará facultado para crear y proveer el cargo de encargado de la Unidad de Gestión del Riesgo de Desastres, para lo que se considerará la disponibilidad en el presupuesto municipal, lo cual deberá ser certificado por los jefes de las unidades de administración y finanzas, y de control de la municipalidad respectiva.
+
+El cargo aludido corresponderá al escalafón de directivos o jefaturas, y para su acceso se estará a los requisitos exigidos en el artículo 8 de la ley N° 18.883, según corresponda a un cargo de directivo o de jefatura.
+
+Será designado por el alcalde y podrá ser removido por éste, sin perjuicio de que rijan a su respecto, además, las causales de cesación de funciones aplicables al personal municipal.
 
 #### Artículo 27
 
@@ -2393,6 +2415,10 @@ Sin perjuicio de lo anterior, las municipalidades podrán someterse voluntariame
 Con todo, sólo se procederá a la suscripción de los convenios referidos en el inciso segundo, o a la incorporación voluntaria mediante decreto alcaldicio señalada en el inciso anterior, una vez que se publique la resolución de la Subsecretaría de Prevención del Delito que aprueba las orientaciones técnicas y el formato de plan comunal de seguridad pública a que hace referencia el artículo 104 F, en el plazo de noventa días siguientes a la publicación de la ley.
 
 La Ley de Presupuestos del Sector Público anualmente indicará los montos a transferir en virtud de los convenios celebrados entre la Subsecretaría de Prevención del Delito y los municipios en el marco de esta ley, en comunas que se seleccionarán en base a criterios objetivos.
+
+#### Artículo octavo
+
+transitorio.- El encargado de la Unidad de Gestión del Riesgo de Desastres a que alude el artículo 26 ter se financiará con recursos municipales o, en caso de no existir el cargo en el municipio, se financiará a profesionales o técnicos de nivel superior para desempeñar labores que fortalezcan la aplicación de los Instrumentos de Gestión del Riesgo de Desastres, que contempla la ley que establece el Sistema Nacional Prevención y Respuesta ante Desastres, como parte del convenio a que se refiere el artículo 41 de dicha ley.
 
 Anótese, tómese razón y publíquese.- Andrés Zaldívar Larraín, Vicepresidente de la República.-
 

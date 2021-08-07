@@ -88,15 +88,15 @@ DE LA DECLARACIÓN DE ESTADO DE ALERTA DE CRECIDAS
 
 #### Artículo 8°
 
-La Dirección Meteorológica de Chile (DMC), deberá informar diariamente a la DGA y a la Oficina Nacional de Emergencia del Ministerio de Interior (ONEMI), los pronósticos meteorológicos que dicha Dirección confeccione, así como también toda información relevante e inherente a eventos meteorológicos significativos.
+La Dirección Meteorológica de Chile (DMC), deberá informar diariamente a la DGA y el Servicio Nacional de Prevención y Respuesta ante Desastres, los pronósticos meteorológicos que dicha Dirección confeccione, así como también toda información relevante e inherente a eventos meteorológicos significativos.
 
 #### Artículo 9°
 
-La ONEMI, considerando todos los antecedentes del caso, tales como precipitaciones, deshielos, caudales, período del año y características de los embalses de control, declarará, mediante resolución fundada, el estado de alerta de crecidas, de conformidad a sus facultades y competencias, en el nivel correspondiente al riesgo evaluado, para una determinada zona geográfica del país o área administrativa respectiva. Dicha resolución no admitirá recurso administrativo alguno.
+La DGA, considerando todos los antecedentes del caso, tales como precipitaciones, deshielos, caudales, período del año y características de los embalses de control, declarará, mediante resolución fundada, el estado de alerta de crecidas, de conformidad a sus facultades y competencias, en el nivel correspondiente al riesgo evaluado, para una determinada zona geográfica del país o área administrativa respectiva. Dicha resolución no admitirá recurso administrativo alguno. La declaración de alerta deberá ser comunicada por la DGA al Servicio Nacional de Prevención y Respuesta ante Desastres en forma oportuna y suficiente.
 
 #### Artículo 10
 
-La declaración del estado de alerta de crecidas para una determinada zona del país, deberá ser notificada por la ONEMI al Intendente respectivo, a la o las municipalidades respectivas, a la Comisión Nacional de Energía, a la DGA, al Centro de Despacho Económico de Carga del Sistema Interconectado Central (CDEC-SIC), a la Dirección de Obras Hidráulicas y a los operadores involucrados, en la forma y oportunidad que establezca el reglamento, sin perjuicio de las acciones de comunicación establecidas en el Plan Nacional de Protección Civil.
+La declaración del estado de alerta de crecidas para una determinada zona del país, deberá ser notificada por el Servicio Nacional de Prevención y Respuesta ante Desastres al Intendente respectivo, a la o las municipalidades respectivas, a la Comisión Nacional de Energía, al Centro de Despacho Económico de Carga del Sistema Interconectado Central (CDEC-SIC), a la Dirección de Obras Hidráulicas y a los operadores involucrados, en la forma y oportunidad que establezca el reglamento, sin perjuicio de las acciones de comunicación establecidas en el Plan de Emergencia respectivo.
 
 #### Artículo 11
 

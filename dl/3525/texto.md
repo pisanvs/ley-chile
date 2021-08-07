@@ -64,6 +64,10 @@ El incumplimiento del requerimiento de información que efectúe el Servicio, co
 
 Un reglamento establecerá las definiciones, plazos, condiciones y procedimiento para el ejercicio de la presente atribución, así como aquel para la aplicación de la multa precitada de conformidad a lo establecido en la ley Nº 19.880.
 
+17. Declarar las alertas derivadas de actividad volcánica o erupción y remoción en masa, que puedan afectar a la población, en sus niveles y cobertura, y comunicarlas de manera oportuna y suficiente, en la forma que determinen los protocolos generados para estos efectos, al Servicio Nacional de Prevención y Respuesta ante Desastres.
+
+18. Declarar la alerta de amenazas derivadas de emergencias mineras de gran alcance, en sus niveles y cobertura, y comunicarla de manera oportuna y suficiente, en la forma que determinen los protocolos generados para estos efectos, al Servicio Nacional de Prevención y Respuesta ante Desastres.
+
 ## Título II
 
 Organización y Administración

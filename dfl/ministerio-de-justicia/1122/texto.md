@@ -2556,6 +2556,8 @@ b) Investigar, medir el recurso y monitorear tanto su calidad como su cantidad, 
 
 Para la realización de estas funciones la Dirección General de Aguas deberá constituir las servidumbres a que se refiere el artículo 107;
 
+4. Corresponderá a la Dirección General de Aguas declarar la alerta de amenaza asociada al recurso hídrico, informando el nivel y cobertura del mismo, y comunicarla de manera oportuna y suficiente al Servicio Nacional de Prevención y Respuesta ante Desastres, en la forma que determinen los protocolos generados para estos efectos.
+
 c) Ejercer la policía y vigilancia de las aguas en los cauces naturales de uso público y acuíferos; impedir, denunciar o sancionar la afectación a la cantidad y la calidad de estas aguas, de conformidad al inciso primero del artículo 129 bis 2 y los artículos 171 y siguientes; e impedir que en éstos se construyan, modifiquen o destruyan obras sin la autorización previa del servicio o autoridad a quien corresponda aprobar su construcción o autorizar su demolición o modificación;
 
 d) Impedir que se extraigan aguas de los mismos cauces y en los acuíferos sin título o en mayor cantidad de lo que corresponda.

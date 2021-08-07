@@ -94,6 +94,8 @@ x) Vender o arrendar materiales o bienes muebles, como asimismo arrendar en todo
 
 y) Informar a la Oficina de Planificación Nacional y a los correspondientes organismos sectoriales del Ministerio de Obras Públicas y Transportes, sus planes, programas y proyectos específicos para la elaboración de los planes generales y programas anuales de infraestructura aeronáutica civil, comprendidas todas las obras, intalaciones o servicios que la complementan, z) En general, fiscalizar el cumplimiento de las disposiciones legales y reglamentarias relativas a la aeronavegación.
 
+z) Declarar las alertas de origen meteorológico, su nivel y cobertura, y comunicarlas en forma oportuna y suficiente al Servicio Nacional de Prevención y Respuesta ante Desastres, en la forma que determinen los protocolos generados para estos efectos.
+
 > **Nota.** El DFL 28, Hacienda, publicado el 17.08.2004, modifica el presente artículo en el sentido de traspar, desde la Dirección General de Aeronáutica Civil a la Subsecretaría de Aviación, las funciones que se señalan en las letras g) y k) del presente artículo, que fija la organización y funciones y establece disposiciones generales a la Dirección General de Aeronáutica Civil.
 
 #### Artículo 4°

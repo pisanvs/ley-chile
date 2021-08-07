@@ -94,17 +94,17 @@ La misma regla se aplicará en el caso de quiebra del contribuyente".
 
 h) Derógase el artículo 15.
 
-#### Artículo 5°
+#### Artículo 5
 
-La Oficina Nacional de Emergencia del Ministerio del Interior no podrá construir o encomendar la construcción de otro tipo de viviendas que no sean las viviendas de emergencia a que se refiere el inciso siguiente.
+Con el fin de atender los casos de destrucción de viviendas derivadas de emergencias o catástrofes, tales como terremotos, tsunamis, inundaciones, incendios u otras amenazas semejantes, el Servicio Nacional de Prevención y Respuesta ante Desastres podrá encomendar la construcción de viviendas de emergencia.
 
-Serán viviendas de emergencia aquellas cuyo valor no exceda del equivalente en pesos a 30 Unidades de Fomento, puestas en bodega de la Oficina Nacional de Emergencia o de los Centros Regionales de Emergencia. Cuando el grupo familiar a que esté destinada la referida vivienda sea de más de cinco personas, se podrán agregar cinco Unidades de Fomento al valor de ella por cada persona que exceda dicho número.
+Para todos los efectos legales, se entenderá por vivienda de emergencia aquella de carácter provisorio destinada a resolver la necesidad de vivienda de los damnificados de una emergencia o catástrofe. Una resolución dictada por el Servicio Nacional de Prevención y Respuesta ante Desastres, y publicada en el Diario Oficial, establecerá los estándares de habitabilidad de la vivienda de emergencia, incluyendo los metros cuadrados conforme al grupo de damnificados que pueda albergar. El procedimiento para asignar la vivienda de emergencia, sea en comodato, dominio u otra forma, será establecido igualmente en dicha resolución.
 
-Por decretos supremos expedidos a través del Ministerio del Interior, se reglamentará la forma de asignar, dar en comodato o arrendar las construcciones hechas para soluciones habitacionales de emergencia, las que deberán siempre consistir en una vivienda de emergencia.
+En todos los casos, la vivienda de emergencia, por su carácter provisorio, no requerirá permiso ni recepción definitiva de la Dirección de Obras Municipales.
 
-Corresponderá a la Oficina Nacional de Emergencia, en coordinación con la Municipalidad respectiva, atender los casos de emergencia habitacional, derivados de hechos tales como terremotos, inundaciones u otras calamidades semejantes; y los casos de urgente necesidad social, tales como incendio, lanzamientos, demoliciones, expropiaciones, insalubridad, hacinamiento, etc. Sin embargo, corresponderá a los SERVIU atender las necesidades sociales ocasionadas por expropiaciones o remodelaciones que efectúen estos mismos servicios.
+Corresponderá al Ministerio de Vivienda y Urbanismo, con acuerdo del Servicio Nacional de Prevención y Respuesta ante Desastres y en coordinación con la municipalidad local, establecer los lineamientos para la constitución de barrios transitorios de prevención de desastres y determinar su creación, los que serán propuestos y administrados por el Ministerio de Vivienda y Urbanismo.
 
-La Oficina Nacional de Emergencia no podrá expropiar inmuebles ni adquirir terrenos para el cumplimiento de las funciones que se le encomiendan.
+Lo dispuesto en el inciso anterior se entiende sin perjuicio de la facultad que tiene el Ministerio de Vivienda y Urbanismo de crear barrios transitorios, cuando éstos no tengan por objeto la prevención de desastres.
 
 #### Artículo 6°
 
