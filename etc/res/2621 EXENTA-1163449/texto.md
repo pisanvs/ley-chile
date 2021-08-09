@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 2.621, de 3 de agosto de 2021, del Ministerio de Transportes y Telecomunicaciones, se modificó la resolución exenta N°2.862, de 2015, del citado Ministerio, que establece perímetro de exclusión de ley N°18.696 en área geográfica que indica, para servicios de taxi básico, taxi ejecutivo y turismo, aprueba condiciones de operación y utilización de vías y otras exigencias, intercalando la frase ", a menos que el Secretario Regional ejerza la facultad establecida en el Anexo N°1" en la parte que se indica del artículo 4°, punto 5, letra e), y agregando la frase "Sin perjuicio de lo anterior, el Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana podrá excepcionalmente y por motivos fundados, establecer mediante resolución que los responsables de servicios de taxis básicos y ejecutivos no ejecuten el alza de tarifa resultante del cálculo de reajustabilidad", en el párrafo 2° de su Anexo N°1, en la parte que se indica.-
+
+José Luis Domínguez Covarrubias, Ministro de Transportes y Telecomunicaciones (S).
