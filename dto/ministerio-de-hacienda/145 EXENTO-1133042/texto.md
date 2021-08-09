@@ -256,7 +256,11 @@ Para el cumplimiento de la tarea encomendada en el inciso tercero del artículo 
 
 Convocatoria.
 
-Los Comités serán convocados por el Ministro de Hacienda, quien solicitará a cada integrante proyecciones de mediano plazo de los insumos requeridos para la elaboración de cada uno de los parámetros estructurales. Para estos efectos, el Consejo Fiscal Autónomo deberá proponer, una vez al año, los nombres de los integrantes de cada uno de los Comités que ocuparán los cupos que por alguna razón hayan quedado vacantes, asistir a las sesiones constitutivas como observador y verificar la correcta estimación de cada uno de los parámetros estructurales.
+Los miembros del Comité Consultivo de Expertos para el PIB Tendencial serán convocados por el Ministerio de Hacienda, dando inicio a su trabajo con una sesión constitutiva. Por su parte, los miembros del Comité Consultivo de Expertos para el precio de referencia del cobre serán convocados por la Dirección de Presupuestos, dando inicio a su trabajo con una sesión constitutiva. Respecto a las sesiones constitutivas de los Comités, estas pueden ser celebradas presencial o telemáticamente, en la fecha que el Calendario de funcionamiento de los Comités, indicado en el Artículo 27, disponga. El Consejo Fiscal Autónomo deberá asistir a las sesiones constitutivas como observador y verificar la correcta estimación de cada uno de los parámetros estructurales.
+
+El Ministerio de Hacienda y la Dirección de Presupuestos pueden convocar de manera excepcional ambos Comités, o solo a uno de ellos, ante la ocurrencia de uno o varios eventos que den razones fundadas para esperar un cambio de magnitud relevante en uno o ambos parámetros estructurales. De concretarse una consulta extraordinaria, la sesión constitutiva no será necesaria. Adicionalmente, el Ministerio de Hacienda deberá informar al público si la consulta extraordinaria busca modificar los parámetros estructurales utilizados para el cálculo del Balance Estructural del año en curso, e indicar si hay motivos adicionales para dicha consulta, como podría ser la necesidad de una nueva evaluación de las proyecciones de mediano plazo del Balance Estructural.
+
+El Ministerio de Hacienda deberá informar con antelación al Consejo Fiscal Autónomo si va a realizar una consulta extraordinaria, las razones sobre las que fundamenta un cambio de magnitud relevante en uno o ambos parámetros estructurales y el uso que dará a las nuevas cifras que los Comités le entreguen. A su vez, el Consejo Fiscal Autónomo deberá elaborar y entregar una nota técnica donde indique su opinión respecto a la pertinencia de las razones y los fines de dicha consulta. Posteriormente, y de ser el caso, deberá entregar una segunda nota técnica donde se refiera al efecto de estos cambios sobre las proyecciones finales.
 
 #### Artículo 20
 
@@ -292,9 +296,9 @@ Los Registros de Expertos serán públicos y estarán disponibles en el sitio we
 
 Designación de los miembros de los Comités.
 
-El Consejo Fiscal Autónomo propondrá al Ministro de Hacienda, una vez al año, una nómina que permita al menos completar veinte expertos para cada uno de los Comités, tanto para el desempeño de labores en calidad de titulares como de suplentes. La participación de los expertos en los Comités será ad honorem y a título personal. Los miembros de los Comités se mantendrán en sus cargos hasta que el Ministro de Hacienda determine su reemplazo en forma justificada, debiendo solicitar previamente la opinión del Consejo Fiscal Autónomo, o hasta que presenten su renuncia voluntaria o se hayan cumplido seis años continuos como miembros del respectivo Comité.
+El Consejo Fiscal Autónomo designará un mínimo de veinte expertos para cada uno de los Comités. La participación de los expertos en los Comités será ad honorem y a título personal. Los miembros de los Comités se mantendrán en sus cargos hasta que el Consejo Fiscal Autónomo disponga de su reemplazo previa justificación, que presenten su renuncia voluntaria, o que hayan cumplido seis años consecutivos como miembros del respectivo Comité.
 
-Entre las justificaciones que se podrán evaluar para proponer el reemplazo de un experto, se encuentra una mala evaluación sistemática fundada en errores de proyección de magnitud considerable en la variable que el experto entregue. Para efectos de recabar su opinión, el Ministerio de Hacienda proveerá al Consejo Fiscal Autónomo toda la información que sea necesaria, la que deberá ser innominada y respetando las disposiciones de la ley Nº 19.628.
+Entre las justificaciones que el Consejo Fiscal Autónomo puede tener en cuenta para el reemplazo de un experto, se encuentra una mala evaluación sistemática por errores de proyección de magnitud considerable en la variable que el experto entregue. Dicha evaluación la realizará el Consejo Fiscal Autónomo con los criterios que dicho Consejo estime pertinentes.
 
 En caso de que, dado el número de expertos inscritos en el Registro y las inhabilidades descritas en Artículo 24, no permitan conformar un Comité con al menos veinte miembros, podrán seleccionarse expertos que lleven más de seis años consecutivos como miembros del respectivo Comité. Si aun así no logra conformarse un Comité con al menos veinte miembros, este podrá conformarse con un número inferior.
 
@@ -306,7 +310,7 @@ Estarán inhabilitados para desempeñarse como miembros de los Comités antes me
 
 a) Las personas condenadas por delito que merezca pena aflictiva o de inhabilitación perpetua para desempeñar cargos u oficios públicos, y aquellos que tengan la calidad de deudor en un procedimiento concursal de liquidación, personalmente o como administradores o representantes legales, o que hayan sido condenados por delitos concursales establecidos en el Código Penal;
 
-b) Los funcionarios fiscales, semifiscales, de empresas u organismos del Estado y de empresas de administración autónoma en las que el Estado efectúe aportes o tenga representantes en su administración, y en general cualquier las personas que se desempeñen en cargos de Administración del Estado, cualquiera que sea su calidad contractual, a excepción de aquellos que se desempeñen en Universidades del Estado;
+b) Los funcionarios fiscales, semifiscales, de empresas u organismos del Estado y de empresas de administración autónoma en las que el Estado efectúe aportes o tenga representantes en su administración, y en general cualquier las personas que se desempeñen en cargos de Administración del Estado, cualquiera que sea su calidad contractual, a excepción de aquellos que se desempeñen en Universidades del Estado o en el Banco Central;
 
 c) Los senadores, diputados y alcaldes; y,
 
@@ -316,7 +320,7 @@ d) Los ministros de Estado, subsecretarios, intendentes, gobernadores, secretari
 
 Mínimo de proyecciones.
 
-Para efectos de las proyecciones a que se refiere el artículo 18, se requerirá que a lo menos doce de los expertos por cada Comité las entreguen. En caso de no cumplir con este mínimo, se deberá realizar una segunda consulta, de la que emanará el resultado definitivo del proceso.
+Para efectos de las proyecciones a que se refiere el artículo 18, se requerirá que a lo menos veinte de los expertos por cada Comité las entreguen. En caso de no cumplir con este mínimo, se deberá realizar una segunda consulta, de la que emanará el resultado definitivo del proceso.
 
 #### Artículo 26
 
@@ -340,13 +344,13 @@ El cálculo de los parámetros estructurales, PIB tendencial y precio de referen
 
 Cálculo del PIB Tendencial.
 
-Para el cálculo del PIB tendencial, el Ministerio de Hacienda deberá convocar en forma anual o a solicitud expresa del Ministro, al Comité Consultivo de Expertos para el PIB tendencial, a quienes se les encargará proyectar variables para calcular el PIB a través de una función de producción Cobb-Douglas, dentro de un plazo estipulado en la sesión en que se constituya dicho Comité. Las variables a utilizar serán las tasas de crecimiento anual de la Formación Bruta de Capital Fijo (FBCF), la Fuerza de Trabajo (FT) y la Productividad Total de los Factores (PTF), que sirven como insumos de esta función. La fuente de información para dichas variables será el Banco Central.
+Para el cálculo del PIB Tendencial, el Ministerio de Hacienda deberá convocar en forma anual al Comité Consultivo de Expertos para el PIB Tendencial, a quienes se les encargará entregar la proyección del Producto Interno Bruto, en términos de volumen a precios del año anterior encadenado, de acuerdo a la última compilación de referencia vigente publicada por el Banco Central de Chile, a un horizonte de 10 años, incluido el año en curso.
 
-De este modo, cada uno de los miembros del citado Comité deberá entregar la proyección de estas variables para el año en curso y los cinco años siguientes. Una vez recibidas las proyecciones respectivas, el Ministerio de Hacienda calculará el PIB tendencial según las variables entregadas por cada experto, reemplazando en la función de producción el valor de tendencia de la productividad total de factores, el valor de tendencia de la fuerza de trabajo expresada en horas ajustada por un indicador de calidad del trabajo y el uso normal del stock de capital. Los valores de tendencia se calcularán utilizando el filtro de Hodrick-Prescott.
+A continuación, el Ministerio de Hacienda deberá calcular, mediante el uso de un filtro multivariado semi-estructural, los valores de PIB Tendencial para cada experto. El valor final de PIB Tendencial para cada año de proyección corresponderá a la mediana de las estimaciones entregadas por el total de expertos convocados.
 
-A continuación, el Ministerio de Hacienda calculará el promedio anual del PIB tendencial, eliminando en cada año los valores mínimos y máximos, respectivamente; junto a la brecha del año en particular.
+Al momento de realizarse la reunión constitutiva del Comité de Expertos, el Ministerio de Hacienda enviará a los integrantes la información pertinente respecto a los parámetros, variables y ecuaciones que utilizará en el filtro multivariado semi-estructural para la estimación del PIB Tendencial.
 
-Por su parte, previo al envío del respectivo proyecto de Ley de Presupuestos, la Dirección de Presupuestos publicará un acta del Comité Consultivo de Expertos para el PIB tendencial. En ella, se listará a los expertos invitados a participar en la instancia, con las proyecciones anuales y promedio de cada uno de los expertos de forma anónima y el resultado del PIB Tendencial, a ser utilizado en el dicho proyecto de ley.
+Por su parte, previo al envío del respectivo proyecto de Ley de Presupuestos, la Dirección de Presupuestos publicará un acta del Comité Consultivo de Expertos para el PIB Tendencial. En ella, se listará a los expertos invitados a participar en la instancia, con las proyecciones anuales y la estimación de cada uno de los expertos de forma anónima, junto con el resultado del PIB Tendencial a ser utilizado en dicho proyecto de ley.
 
 #### Artículo 30
 
@@ -356,9 +360,13 @@ El precio de referencia o de largo plazo del cobre será calculado por la Direcc
 
 Para estos efectos, la Dirección de Presupuestos realizará una convocatoria anual a los miembros del citado Comité, donde solicitará las estimaciones antes indicadas y la fecha en que deban presentarlas, haciendo entrega a cada uno de ellos un documento Excel en un formato estandarizado que incluirá la información oficial de la proyección de inflación de Estados Unidos necesaria para la estimación solicitada. De este modo, los miembros del Comité deberán ingresar sus proyecciones en dicho documento, incluyendo una estimación anual del precio de la libra de cobre para cada uno de los siguientes 10 años, expresados en centavos de dólar del año para el cual se realiza el Proyecto de Ley de Presupuestos respectivo, y enviarlo por correo electrónico a la Dirección de Presupuestos.
 
-Una vez recibidas las proyecciones de todos los miembros del Comité, la Dirección de Presupuestos promediará las estimaciones anuales de cada uno de sus miembros, de modo tal de obtener un precio de la libra de cobre promedio por experto para los siguientes diez años. A continuación, la Dirección de Presupuestos tomará las estimaciones promedio de cada miembro del Comité obtenidas en el punto anterior, excluyendo las dos observaciones extremas -esto es, la estimación más alta y más baja, respectivamente- y se promediarán con el fin de obtener el precio de referencia o de largo plazo del cobre.
+Adicionalmente, se solicitará a cada experto los argumentos técnicos que respaldan su estimación, donde pueden hacer referencia a aspectos como el mercado mundial del cobre u otras variables que afecten el precio de dicho metal. Al momento de realizarse la reunión constitutiva del Comité de Expertos, Dipres enviará a los integrantes un documento donde los expertos deben indicar estos argumentos.
+
+Una vez recibidas las proyecciones de todos los miembros del Comité, la Dirección de Presupuestos promediará las estimaciones anuales de cada uno de sus miembros, de modo tal de obtener un precio de la libra de cobre promedio por experto para los siguientes diez años. A continuación, la Dirección de Presupuestos tomará la mediana de las estimaciones de todos los miembros del Comité obtenidas en el punto anterior, con el fin de obtener el precio de referencia o de largo plazo del cobre. La mediana obtenida, se aproximará al entero, en centavos de dólar, más cercano.
 
 Por su parte, previo al envío del respectivo Proyecto de Ley de Presupuestos, y revisadas las planillas de cálculo de las proyecciones de los parámetros estructurales por parte del Consejo Fiscal Autónomo, la Dirección de Presupuestos publicará un acta del Comité Consultivo de Expertos para el Precio de Referencia del Cobre. En ella, se listará a los expertos invitados a participar en la instancia, con las proyecciones anuales y promedio de cada uno de los expertos de forma anónima y el resultado del Precio de Referencia del Cobre, a ser utilizado en el dicho proyecto de ley.
+
+Conjuntamente, se harán públicos los argumentos técnicos que cada experto entregó, también de manera innominada, pero relacionando claramente dicha argumentación con la proyección del experto respectivo.
 
 DISPOSICIONES TRANSITORIAS
 
@@ -389,6 +397,18 @@ v. Otros impuestos: 1,00.
 b) Elasticidad a utilizar en el cálculo del Ajuste Cíclico de Ingresos por Cotizaciones Previsionales de Salud: 1,17.
 
 Por otra parte, el listado de grandes empresas mineras privadas cuya tributación será considerada para efectos de calcular el Ajuste Cíclico de los Ingresos por la Tributación de la Minería del Cobre, a que se refiere el artículo 10, será el siguiente: Escondida, Collahuasi, Los Pelambres, Anglo American Sur, El Abra, Candelaria, Anglo American Norte, Zaldívar, Cerro Colorado y Quebrada Blanca.
+
+#### Artículo cuarto
+
+transitorio. Para la estimación de los parámetros estructurales para la elaboración del Proyecto de Ley de Presupuestos del Sector Público para el año 2022, el Consejo Fiscal Autónomo podrá constituir Comités con un número de integrantes menor a veinte, pero en ningún caso menor a doce.
+
+#### Artículo quinto
+
+transitorio. Para el cálculo del PIB de Tendencia asociado a la consulta realizada con motivo del Proyecto de Ley de Presupuestos para el año 2022, se solicitará, adicionalmente, que los expertos entreguen proyecciones de las tasas de crecimiento anual de la Fuerza de Trabajo (FT), Formación Bruta de Capital Fijo (FBCF) y Productividad Total de los Factores (PTF), en base a una función Cobb-Douglas cuyos parámetros serán proporcionados por el Ministerio de Hacienda. El horizonte de proyección para dichas variables es el año en curso y los cinco años siguientes.
+
+Una vez recibidas las proyecciones respectivas, el Ministerio de Hacienda calculará una medida de PIB tendencial según las variables entregadas por cada experto, reemplazando en la función de producción el valor de tendencia de la productividad total de factores, el valor de tendencia de la fuerza de trabajo expresada en horas y ajustada por un indicador de calidad del trabajo, y el uso normal del stock de capital. Los valores de tendencia se calcularán utilizando el filtro de Hodrick-Prescott.
+
+A continuación, el Ministerio de Hacienda calculará el promedio anual del PIB tendencial, eliminando en cada año junto a la brecha del PIB del año en particular. Esta medición de PIB tendencial será publicada en el acta señalada en el artículo 29, y solo se utilizará como referencia, para fines comparativos, pero en ningún caso para ser utilizada en reemplazo del resultado de PIB tendencial estimado en base a la metodología expuesta en el artículo 29.
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Felipe Larraín Bascuñán, Ministro de Hacienda.
 
