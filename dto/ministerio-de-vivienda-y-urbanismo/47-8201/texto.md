@@ -6512,7 +6512,9 @@ Las instalaciones que contemplen una carga de ocupación superior a 1.000 person
 
 #### Artículo 4
 
-8.5. ELIMINADO.
+8.5. La techumbre de los establecimientos deportivos cuyo sistema de agrupamiento sea aislado y su carga de ocupación sea igual o superior a 8.000 personas podrá sobrepasar la altura máxima de edificación permitida por el respectivo instrumento de planificación territorial, siempre que cumpla con las rasantes correspondientes. Asimismo, podrán sobrepasar la altura máxima de edificación permitida por el respectivo instrumento de planificación territorial, cumpliendo con las rasantes correspondientes y ubicándose siempre bajo la cubierta de la techumbre, las oficinas de seguridad y operaciones, los sistemas de iluminación, elementos o dispositivos audiovisuales, equipos de climatización, y los espacios para la operación de los medios de comunicaciones, todos los cuales no podrán contemplar acceso a los espectadores.
+
+La excepción a que se refiere el inciso precedente no será aplicable a los establecimientos deportivos que se acojan a Conjunto Armónico. Asimismo, los proyectos de establecimientos deportivos que se acojan a esta norma de excepción no podrán acogerse a lo dispuesto en el artículo 2.6.11. de esta Ordenanza.
 
 #### Artículo 4
 
