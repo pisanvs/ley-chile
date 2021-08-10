@@ -30,9 +30,9 @@ Que, por lo anteriormente expuesto, corresponde al dictar el acto administrativo
 
 Resuelvo:
 
-#### Artículo 1°
+#### Artículo 1º
 
-Determínase para el año 2022 los siguientes alumnos en calidad de prioritarios, para todas las regiones del país, que serán beneficiarios de la subvención escolar preferencial, de acuerdo a lo dispuesto en el artículo 2º de la ley Nº 20.248 y que se encuentran individualizados en el listado contenido en el archivo con el nombre "Rex-Prioritarios-2022-20210525" del CD folio Nº 01/2022 - Alumnos Prioritarios año escolar 2022, con firma electrónica avanzada de la Coordinadora Nacional de Tecnología del Ministerio de Educación, que se acompaña en el anexo, y que se forma parte integrante de la presente resolución.
+Determínase para el año 2022, los siguientes alumnos en calidad de prioritarios, para todas las regiones del país, que serán beneficiarios de la Subvención Escolar Preferencial, de acuerdo con lo dispuesto en el artículo 2º de la ley Nº 20.248, y que se encuentran individualizados en los listados contenidos en el archivo con el nombre "Rex-Prioritarios-2022-20210525", del CD Folio Nº "01/2022-Alumnos Prioritarios año escolar 2022" y en el archivo con el nombre "Acogen - Proceso Apelaciones Alumnos Prioritarios 2022", del CD Folio Nº 03/2022 Acoge, ambos con firma electrónica avanzada de la Coordinadora Nacional de Tecnología de la División de Planificación y Presupuesto, del Ministerio de Educación, que se acompañan en el anexo y que forman parte integrante de la presente resolución.
 
 #### Artículo 2°
 
