@@ -1494,6 +1494,8 @@ f) Para el cobro de la prestación 03-06-082 Reacción de Polimerasa en cadena (
 
 Durante el período de vigencia del decreto supremo N° 4, de 2020, del Ministerio de Salud, que dispone Alerta Sanitaria por brote del nuevo coronavirus para el examen de PCR, en la detección de SARS CoV-2, no se exigirá orden médica o profesional.
 
+El examen código 0306271, Test rápido de detección de antígenos SARS-CoV-2 (incluye toma de muestra), deberá ser realizado por prestadores de Salud que dispongan del equipamiento, capacidad técnica y la respectiva autorización sanitaria vigente. Serán efectuados por profesionales y técnicos de salud habilitados, dentro de la infraestructura declarada por dicha entidad en su convenio. Requiere de orden médica y los test serán para uso de emergencia, debiendo contar con certificado de verificación otorgado por el Instituto de Salud Pública.
+
 g) El hemograma (cód. 03-01-045) incluye a lo menos: Recuento de leucocitos 03-01-065, Eritrocitos 03-01-064, Hemoglobina 03-01-038, Hematocrito 03-01-036, Fórmula leucocitaria, características morfológicas de los elementos figurados, VHS 03-01-086, Recuento de plaquetas 03-01-028 y su morfología.
 
 h) La Cinética del fierro (cód. 03-01-030) incluye la determinación de Fierro sérico 03-01-028, Capacidad de fijación del fierro 03-01-029 y la Ferritina 03-01-026, a lo menos se debe informar la determinación del fierro sérico y la ferritina.
@@ -1905,6 +1907,16 @@ e) Si un beneficiario requiere prolongar un tratamiento ambulatorio de terapia o
 f) En los beneficiarios hospitalizados las prestaciones deberán incluirse en el Programa de Atención de Salud, correspondiente al cobro de días camas.
 
 g) Las personas con discapacidad, que se encuentren inscritas en el Registro Nacional de Discapacidad y que sean beneficiarios de Fonasa, podrán acceder a prestaciones de Terapia Ocupacional sin tope de atenciones anuales, también se consideran los menores de 6 años, que sean acreditados por el Servicio Nacional de la Discapacidad (SENADIS), que valide la condición de discapacidad del menor, con la documentación definida por ese Servicio para estos efectos.
+
+h) Durante el periodo de vigencia de Alerta Sanitaria decretada por el Ministerio de Salud, por brote Covid-19, las siguientes prestaciones efectuadas por profesionales Terapeutas Ocupacionales podrán realizarse en forma remota, manteniendo registro de estas prestaciones en los mismos términos que una atención presencial.
+
+Asimismo, el prestador es responsable de que la prestación se realice en un ambiente privado y dedicado exclusivamente para ello.
+
+Queda prohibido realizarla en lugares de acceso público donde la privacidad del beneficiario se pueda ver comprometida.
+
+El prestador es responsable de que la prestación sea realizada por el profesional seleccionado por el beneficiario. En caso de alguna modificación de quien realice la prestación, esta deberá ser informada al beneficiario, quien optará por aprobar o rechazar dicho cambio.
+
+El prestador debe tomar todas las medidas de seguridad de la información para que esta interacción directa con el beneficiario se realice de forma segura cuidando la privacidad de éste y mantener el resguardado y el registro de la ficha clínica, conforme a lo dispuesto en la ley Nº 20.584.
 
 12.3.2.- Definiciones.
 
@@ -4732,7 +4744,9 @@ Los esquemas agrupados en las intervenciones sanitarias aranceladas en Modalidad
 
 Los Tratamientos de inhibidores tirosin kinasa, considera un valor trimestral. Por tanto, un paciente en 12 meses no puede adquirir más de 4 bonos de prestaciones asociadas a tratamiento con inhibidores de tirosin kinasa.
 
-32. Déjase establecido que lo señalado en la presente resolución, el prestador o el otorgamiento de la prestación deberá cumplir con la totalidad de la normativa sanitaria vigente, esto es, entre otras, decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, el Código Sanitario y toda su normativa complementarias.
+32. Se eliminan los límites financieros para los menores de 6 años, no siendo necesario acreditar ninguna condición o diagnóstico particular, en las prestaciones que se detallan a continuación:
+
+33. Déjase establecido que lo señalado en la presente resolución, el prestador o el otorgamiento de la prestación deberá cumplir con la totalidad de la normativa sanitaria vigente, esto es, entre otras, decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, el Código Sanitario y toda su normativa complementarias.
 
 II. La presente Resolución entrará en vigencia a contar del primer día hábil posterior a la fecha de su publicación en el Diario Oficial, fecha a partir de la cual se deja sin efecto la resolución exenta Nº 49 del 30.01.2009 del Ministerio de Salud.
 
