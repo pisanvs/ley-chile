@@ -6,7 +6,7 @@ La Comisión Clasificadora de Riesgo, en uso de las facultades establecidas en e
 
 1. Sustituir el segundo párrafo del Artículo 20.-, por el siguiente:
 
-La dispersión de la propiedad de las cuotas entre los aportantes se evaluará de forma tal que ningún aportante podrá concentrar más del 25% del total de las cuotas de un fondo. Sin perjuicio de lo anterior, en casos excepcionales y considerando la liquidez de los activos en que invierte directamente el fondo, la regulación a la cual está sometido y los mecanismos establecidos de protección a los aportantes ante eventos de rescates significativos de cuotas, la Comisión podrá aprobar fondos que presenten concentraciones superiores.
+La dispersión de la propiedad de las cuotas entre los aportantes se evaluará de forma tal que ningún aportante podrá concentrar más del 25% del total de las cuotas de un fondo. Sin perjuicio de lo anterior, en casos excepcionales y considerando la liquidez de los activos en que invierte directamente el fondo, la regulación a la cual está sometido y los mecanismos establecidos de protección a los aportantes ante eventos de rescates significativos de cuotas, la Comisión podrá aprobar fondos que presenten concentraciones superiores. Para efectos de la evaluación, los fondos administrados por una misma sociedad administradora se considerarán como un solo aportante.
 
 2. Sustituir el Artículo 28.-, por el siguiente:
 
