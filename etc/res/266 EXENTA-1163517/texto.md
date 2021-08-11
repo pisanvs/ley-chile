@@ -1,0 +1,5 @@
+SE APRUEBA AJUSTE CONVENIO DE DESEMPEÑO ALTA DIRECCIÓN PÚBLICA, DIRECTOR REGIONAL IPS REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, PERÍODO DE GESTIÓN SEPTIEMBRE 2019-SEPTIEMBRE 2022
+
+Por resolución exenta Nº 266, de 8 de julio de 2021, el Director Nacional del Instituto de Previsión Social, aprueba el documento denominado "Ajuste Convenio de Desempeño Alta Dirección Pública Director Regional IPS Región de Aysén del General Carlos Ibáñez del Campo", que contiene modificaciones a la formulación de metas estratégicas y objetivos de gestión directiva, comprometidos por don Carlos Patricio Rodríguez Lagos, Grado 6º E.U.S., Planta de Directivos del Segundo Nivel Jerárquico, cargo de Alta Dirección Pública, para el período de gestión septiembre 2019 - septiembre 2022.-
+
+Patricio Coronado Rojo, Director Nacional.
