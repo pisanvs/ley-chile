@@ -1,0 +1,5 @@
+SE DELEGA EN LA JEFATURA DEL SUBDEPARTAMENTO MANTENCIÓN DE DEUDAS DEL DEPARTAMENTO GESTIÓN DE RECAUDACIÓN DEPENDIENTE DE LA DIVISIÓN BENEFICIOS, LA FACULTAD DE EMITIR Y FIRMAR - A TRAVÉS DE FIRMA ELECTRÓNICA AVANZADA, LOS CERTIFICADOS DE NO DEUDA, EN EL CONTEXTO DE LA DIGITALIZACIÓN DE LOS TRÁMITES QUE EL IPS PROVEE A LA CIUDADANÍA, A TRAVÉS DE LA PÁGINA WEB DE CHILEATIENDE
+
+Por resolución exenta Nº 279, de 13 de julio de 2021, el Director Nacional del Instituto de Previsión Social, delega en la jefatura del Subdepartamento Mantención de Deudas del Departamento Gestión de Recaudación dependiente de la División Beneficios, y en quien lo(a) subrogue, la facultad de emitir y firmar - a través de firma electrónica avanzada, los Certificados de No Deuda, en el contexto de la digitalización de los trámites que el Instituto de Previsión Social provee a la ciudadanía, a través de la página web de ChileAtiende.-
+
+Patricio Coronado Rojo, Director Nacional.
