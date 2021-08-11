@@ -6,81 +6,155 @@ R e s o l u c i ó n:
 
 1º.- Apruébanse las siguientes normas técnicas sobre metodologías de medición y análisis de emisiones de fuentes estacionarias:
 
-Método CH-1: Localización de puntos de muestreo y de medición de
+Método CH-1: Localización de puntos de
 
-velocidad para fuentes fijas. (16 páginas).
+muestreo y de medición de
 
-Método CH-1A: Transversas de muestreo y velocidad para
+velocidad para fuentes
 
-chimeneas o ductos pequeños. (5 páginas).
+fijas. (16 páginas).
 
-Método CH-2: Determinación de la velocidad y del flujo
+Método CH-1A: Transversas de muestreo
 
-volumétrico en gases de chimenea .(tubo pitot tipo
+y velocidad para chimeneas
 
-s). (34 páginas).
+o ductos pequeños.
 
-Método CH-2A: Mediciones directas del volumen del gas en
+(5 páginas).
 
-chimeneas y ductos pequeños. (9 páginas).
+Método CH-2: Determinación de la
 
-Método CH-2C: Determinación de la velocidad y del flujo
+velocidad y del flujo
 
-volumétrico en chimeneas pequeñas y ductos
+volumétrico en gases
 
-(tubo pitot estándar). (3 páginas).
+de chimenea. (tubo
 
-Método CH-2D: Mediciones del flujo volumétrico del gas en
+pitot tipos).
 
-chimeneas y ductos pequeños. (5 páginas).
+(34 páginas).
 
-Método CH-3: Análisis de gas para la determinación del peso
+Método CH-2A: Mediciones directas
 
-molecular seco. (11 páginas).
+del volumen del gas
 
-Método CH-3A: Determinación de las concentraciones de oxígeno,
+en chimeneas y ductos
 
-anhídrido carbónico y monóxido de carbono en las
+pequeños. (9 páginas).
 
-emisiones de fuentes fijas (procedimiento con
+Método CH-2C: Determinación de la
 
-analizador instrumental). (7 páginas).
+velocidad y del flujo
 
-Método CH-3B: Análisis del gas para determinar el factor de
+volumétrico en chimeneas
 
-corrección de la velocidad de emisión o el exceso
+pequeñas y ductos(tubo
 
-de aire. (10 páginas).
-
-Método CH-4: Determinación del contenido de humedad en gases de
-
-chimenea. (20 páginas).
-
-Método CH-5: Determinación de las emisiones de partículas desde
-
-fuentes estacionarias. (64 páginas).
-
-Método CH-5H: Determinación de partículas emitidas desde un
-
-calefactor a leña en un sitio de la chimenea. (33
+pitot estándar).(3
 
 páginas).
 
-Método CH-6C: Determinación de las emisiones de dióxido de
+Método CH-2D: Mediciones del flujo
 
-azufre desde fuentes fijas. (procedimiento con
+volumétrico del
 
-analizador instrumental). (18 páginas).
+gas en chimeneas y
 
-Método CH-A: Metodología simplificada de medición para fuentes
+ductos pequeños.
 
-grupales a petróleo diesel, kerosene o gas. (12
+(5 páginas).
 
-páginas).
+Método CH-3: Análisis de gas para la
 
-Método CH-28: Determinación de material particulado y
+determinación del peso
 
-certificación y auditoría de calefactores a leña.
+molecular seco.(11 páginas).
+
+Método CH-3A: Determinación de las
+
+concentraciones
+
+de oxígeno, anhídrido
+
+carbónico y monóxido de
+
+carbono en las emisiones
+
+de fuentes fijas
+
+(procedimiento con
+
+analizador instrumental).
+
+(7 páginas).
+
+Método CH-3B: Análisis del gas para
+
+determinar el
+
+factor de corrección de
+
+la velocidad
+
+de emisión o el exceso
+
+de aire.
+
+(10 páginas).
+
+Método CH-4: Determinación del
+
+contenido de
+
+humedad en gases de
+
+chimenea.
+
+(20 páginas).
+
+Método CH-5: Determinación de las emisiones
+
+de partículas desde fuentes
+
+estacionarias(59 páginas).
+
+Método CH-5H: Determinación de partículas
+
+emitidas desde un calefactor
+
+a leña en un sitio de la
+
+chimenea. (33 páginas).
+
+Método CH-6C: Determinación de las
+
+emisiones de dióxido de
+
+azufre desde fuentes
+
+fijas. (procedimiento con
+
+analizador
+
+instrumental).(18 páginas).
+
+Método CH-A: Metodología simplificada
+
+de medición para fuentes
+
+grupales a petróleo
+
+diesel, kerosene o gas.
+
+(12 páginas).
+
+Método CH-28: Determinación de material
+
+particulado y certificación
+
+y auditoría de
+
+calefactores a leña.
 
 (38 páginas).
 
