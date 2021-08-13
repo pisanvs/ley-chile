@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.933 EXENTA, DE 17 DE JUNIO DE 2021
+
+Mediante resolución exenta N° 1.933, de 17 de junio de 2021, el Servicio Nacional de Capacitación y Empleo declara el cese, a contar del 14 de febrero de 2021, de la inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "Centro de Capacitación y Desarrollo Social Excelencia Limitada (Centro de Capacitacion y Desarrollo Social Excelencia Limitada)", Rut 76.126.627-6, contenida en la resolución exenta N° 6.227 de 14 de noviembre de 2014, por cuanto dejó de cumplir con el requisito establecido en el N° 2, del Art. 21 de la ley 19.518.
+
+Santiago, 17 de junio de 2021.- Andrea del Carmen Contreras Cuéllar, Jefe del Departamento de Desarrollo y Regulación de Mercado, Servicio Nacional de Capacitación y Empleo.
