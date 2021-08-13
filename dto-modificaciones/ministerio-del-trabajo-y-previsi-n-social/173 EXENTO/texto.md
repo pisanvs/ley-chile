@@ -1,22 +1,32 @@
-CREA COMITE ASESOR NACIONAL PARA LA ERRADICACION DEL TRABAJO INFANTIL Y LA PROTECCION DEL MENOR TRABAJADOR
+MODIFICA DECRETO Nº 131 EXENTO, DE 1996, DEL MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL, MODIFICADO POR EL DECRETO Nº 156 EXENTO, DE 2014, QUE CREA COMISIÓN ASESORA MINISTERIAL PARA LA PREVENCIÓN Y ERRADICACIÓN DEL TRABAJO INFANTIL Y EL OBSERVATORIO DE TRABAJO INFANTIL
 
-Núm. 131 exento.- Santiago, 7 de Agosto de 1996.- Visto: Lo dispuesto en el artículo 32 N° 8 y 35 de la Constitución Política de la República de Chile; en la Ley N° 18.575, en el Decreto Supremo N° 654 de 19 de mayo de 1994 del Ministerio del Interior, y en la Resolución N° 55 de 1992 de la Contraloría General de la República; y
+Núm. 173 exento.- Santiago, 5 de agosto de 2021.
+
+Visto:
+
+Lo dispuesto en los artículos 5º inciso segundo; 19, numerales 16º y 18º; 24; 32 Nº 6 y 35, de la Constitución Política de la República; en la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en los decretos Nº 830, de 1990; Nº 227, de 1999 y Nº 1.447, de 2000, todos del Ministerio de Relaciones Exteriores, por los cuales se promulgaron la Convención de los Derechos del Niño, el Convenio Nº 138 de la Organización Internacional del Trabajo sobre la edad mínima de admisión al empleo, y el Convenio Nº 182 de la Organización Internacional del Trabajo sobre las Peores Formas de Trabajo Infantil, respectivamente; en el decreto con fuerza de ley Nº 25, de 1959, del Ministerio de Hacienda, que crea el Ministerio del Trabajo y Previsión Social; en el decreto con fuerza de ley Nº 1, de 1967, del Ministerio del Trabajo y Previsión Social, que establece Reestructuración y Funciones de la Subsecretaría del Trabajo; en el decreto exento Nº 131, de 1996, del Ministerio del Trabajo y Previsión Social que crea el Comité Asesor Nacional para la Erradicación del Trabajo Infantil y la Protección del Menor Trabajador; en el decreto Nº 156, de 2014, del Ministerio del Trabajo y Previsión Social, que modificó el decreto Nº 131 ya citado, creando el Observatorio de Trabajo Infantil; en el decreto supremo Nº 87, de 2021, del Ministerio del Interior y Seguridad Pública, que nombra Ministro del Trabajo y Previsión Social; en el decreto Nº 19, de 2001, del Ministerio Secretaría General de la Presidencia, y en la resolución Nº 7, de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón.
 
 Considerando:
 
-a) Que el artículo 19 N° 1 de la Constitución Política del Estado asegura el derecho a la vida y a la integridad física y psíquica de la persona;
+1º Que, a objeto de dar cumplimiento a la Convención sobre los Derechos del Niño de Naciones Unidas, promulgada por el Estado de Chile mediante decreto Nº 830, de 1990, del Ministerio de Relaciones Exteriores, a través del decreto exento Nº 131, de 1996, del Ministerio del Trabajo y Previsión Social, se creó el Comité Asesor Nacional para la Erradicación del Trabajo Infantil y la Protección del Menor Trabajador, como instancia intersectorial de análisis de información, generación de conocimiento y promoción de políticas públicas en las materias señaladas.
 
-b) Que con fecha 26 de enero de 1990 el Gobierno de Chile suscribió la convención sobre los derechos del niño, adoptada por la Asamblea General de la Organización de las Naciones Unidas el 20 de noviembre de 1989, y ratificada con fecha 13 de agosto de 1990;
+2º Que, por medio del decreto Nº 156, de 2014, del Ministerio del Trabajo y Previsión Social, se modificó el decreto Nº 131 ya citado, creando el Observatorio de Trabajo Infantil, como una instancia intersectorial de análisis de información, generación de conocimiento y promotor de políticas públicas en la materia, con el objetivo de generar un cambio cultural en la relación de los niños, niñas, adolescentes y sus familias con el mundo laboral.
 
-c) Que la Convención sobre derechos del niño expresa en su artículo 32 que los Estados partes reconocen el derecho del niño a estar protegido contra la explotación económica y contra el desempeño de cualquier trabajo que pueda ser peligroso o entorpecer su educación, o que sea nocivo para su salud o para su desarrollo físico, mental, espiritual, moral o social;
+3º Que, por otra parte, en el marco de la Agenda de Trabajo Decente de la Organización Internacional del Trabajo, el Estado de Chile se comprometió a tomar las medidas necesarias para asegurar la prohibición y eliminación de las peores formas de trabajo infantil, y al año 2025 poner fin al trabajo infantil en todas sus formas.
 
-d) El memorándum de entendimiento suscrito con fecha 10 de junio de 1996 entre el Gobierno de Chile y la Organización Internacional del Trabajo para la implementación del Programa Internacional para la Erradicación del Trabajo Infantil;
+4º Que, en junio de 2015, el Estado de Chile presentó «Crecer Felices», Estrategia Nacional para la Erradicación del Trabajo Infantil y Protección del Adolescente Trabajador 2015-2025, que se desarrolló con la colaboración del Observatorio de Trabajo Infantil, la Comisión Asesora Ministerial, los Comités Coordinadores Regionales y la asistencia técnica de la Organización Internacional del Trabajo.
 
-e) Que el Gobierno de Chile, en sus esfuerzos por erradicar el trabajo infantil, ha considerado necesario realizar acciones destinadas a formular un diagnóstico de la realidad del trabajo infantil; elaborar y establecer un plan nacional de lucha contra el trabajo infantil; establecer y desarrollar políticas orientadas a la prevención del trabajo infantil y en suma a la abolición del mismo, brindando especial atención a los niños y niñas que trabajen en condiciones inaceptables o de violación de los derechos humanos fundamentales, en actividades o en condiciones peligrosas o que sean particularmente vulnerables, como en el caso de niñas menores de 12 años;
+5º Que, en 2018, la OIT invitó a Chile a ser pionero de la Alianza 8.7 -que aspira a erradicar del mundo el trabajo forzoso, la esclavitud moderna, la trata de personas y el trabajo infantil-, lo que implica aumentar los esfuerzos y generar acciones específicas que permitan acelerar este proceso, para lo cual se requiere comprometer a todos los actores relevantes que se relacionan con esta problemática en un ejercicio de diálogo y participación.
 
-f) Que se requiere realizar en el ámbito de la erradicación del trabajo infantil, un aporte específico para la formulación de una política integral del Estado hacia la infancia.
+6º Que, durante el 2019 se incorporó al organigrama de la Subsecretaría del Trabajo, el Departamento de Erradicación del Trabajo Infantil, como la unidad responsable de implementar los Tratados Internacionales que ha asumido Chile en materia de protección de los derechos de niños, niñas y adolescentes, particularmente en erradicación del trabajo infantil y protección del adolescente que trabaja, impulsando desde sus competencias, medidas que promueven, protejan y garanticen los derechos de esta población que se encuentra insertos en el mercado laboral, ya sea de manera formal o informal.
 
-D e c r e t o:
+7º Que, para seguir avanzando en el logro de los tratados ratificados y los compromisos adquiridos por el Estado de Chile durante los últimos años, se requiere actualizar tanto la Comisión Asesora Ministerial como el Observatorio de Trabajo Infantil, lo que favorecerá el desarrollo, implementación y ejecución de políticas públicas que sigan avanzando en la erradicación del trabajo infantil y la protección del adolescente que trabaja.
+
+8º Que, en virtud de lo anterior, procede modificar el citado decreto exento Nº 131, de 1996, mediante el correspondiente acto administrativo.
+
+Decreto:
+
+Modifícase el decreto exento Nº 131, de 1996, del Ministerio del Trabajo y Previsión Social, reemplazando su texto por el siguiente:
 
 #### Artículo 1º
 
@@ -104,7 +114,7 @@ a) Trabajar en las propuestas de diseño de políticas públicas que tengan como
 
 b) Colaborar con la ejecución de las políticas públicas mencionadas en el punto anterior, en el marco de las competencias, atribuciones, derechos y prohibiciones específicos de sus integrantes.
 
-c) Colaborar con el Observatorio de Trabajo Infantil u otra institución dedicada a la recopilación de datos (empíricos, tanto cuantitativos y cualitativos) para mantener actualizado el diagnóstico nacional respecto al trabajo infantil y el trabajo adolescente protegido, en el marco de las competencias, atribuciones, derechos y prohibiciones específicos de sus integrantes.
+c) Colaborar con el Observatorio de Trabajo Infantil u otra institución dedicada a la recopilación de datos (empíricos, tanto cuantitativos y cualitativos) para mantener actualizado el diagnóstico nacional respecto al trabajo infantil y el trabajo adolescente protegido, en el marco de las competencias, atribuciones, derechos y prohibiciones específicos de sus integrantes."
 
 #### Artículo 4º
 
@@ -172,6 +182,6 @@ g) Apoyar el diseño, ejecución y evaluación de la política pública sobre la
 
 La Subsecretaría del Trabajo prestará su apoyo administrativo y técnico para el correcto desempeño de las funciones de la Comisión Nacional Asesora y de los Comités Regionales a través del Departamento de Erradicación del Trabajo Infantil.
 
-Anótese, comuníquese y publíquese.- Jorge Arrate Mac Niven, Ministro del Trabajo y Previsión Social.
+Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Patricio Melero Abaroa, Ministro del Trabajo y Previsión Social.
 
-Lo que transcribo a usted para su conocimiento.- Saluda a usted, Guillermo Pérez Vega, Subsecretario del Trabajo.
+Lo que transcribo a usted, para su conocimiento.- Fernando Arab Verdugo, Subsecretario del Trabajo.
