@@ -18,199 +18,175 @@ f) Que se requiere realizar en el ámbito de la erradicación del trabajo infant
 
 D e c r e t o:
 
-1. Créase la Comisión Asesora Ministerial para la Prevención y Erradicación
+#### Artículo 1°
 
-del Trabajo Infantil, adscrita al Ministerio del Trabajo y Previsión Social,
+<!-- parte:6847845 -->
 
-en adelante la Comisión Asesora.
+Créase la Comisión Asesora Ministerial para la Prevención y Erradicación del Trabajo Infantil y Protección del Adolescente que Trabaja, adscrita al Ministerio del Trabajo y Previsión Social, en adelante, la Comisión Asesora.
 
-### 2. La Comisión estará integrada por:
+#### Artículo 2°
 
-### I. El Ministro/a del Trabajo y Previsión Social, quien lo
+<!-- parte:10259660 -->
 
-presidirá, o su representante.
+La Comisión Asesora será presidida por el Ministro del Trabajo y Previsión Social o el Subsecretario del Trabajo, en caso de ausencia o impedimento del primero, designándose como sus integrantes a un representante titular y uno suplente de, al menos, los siguientes organismos:
 
-### II. Un representante del Ministerio de Salud
+1. Ministerio de Desarrollo Social y Familia.
 
-### III. Un representante del Ministerio de Justicia
+2. Ministerio de Educación.
 
-### IV. Un representante del Ministerio de Educación
+3. Ministerio de Justicia y Derechos Humanos.
 
-### V. Un representante del Ministerio de Agricultura
+4. Ministerio de Salud.
 
-### VI. Un representante del Ministerio de Desarrollo Social
+5. Ministerio de Agricultura.
 
-### VII. Un representante de la Organización Internacional del
+6. Ministerio de la Mujer y Equidad de Género.
 
-Trabajo (OIT)
+7. Subsecretaría de la Niñez.
 
-VIII.Un representante del Fondo de las Naciones Unidas para la
+8. Subsecretaría de Previsión Social.
 
-Infancia (UNICEF),
+9. Secretaría Ejecutiva de la Mesa Intersectorial sobre Trata de Personas, del Ministerio del Interior y Seguridad Pública.
 
-### IX. Un Representante del Consejo Nacional de la Infancia
+10. Dirección del Trabajo.
 
-### X. Un representante de la Fundación INTEGRA
+11. Instituto de Seguridad Laboral.
 
-### XI. Un representante del Comité Parlamentario por la Infancia
+12. Servicio Nacional de Menores.
 
-### XII. Un representante de la Confederación de la Producción y del
+13. Servicio Nacional del Turismo.
 
-Comercio.
+14. Instituto Nacional de la Juventud.
 
-### XIII. Un representante de la Central Unitaria de Trabajadores
+15. Defensoría de los Derechos de la Niñez.
 
-### XIV. Un representante de la Iglesia Católica
+16. Carabineros de Chile.
 
-### XV. Un representante de la Iglesia Metodista de Chile
+17. Policía de Investigaciones.
 
-### XVI. Un representante de la Iglesia Evangélica
+18. Organización Internacional del Trabajo.
 
-### XVII. Un representante de la Dirección del Trabajo
+19. Fondo de las Naciones Unidas para la Infancia.
 
-XVIII.Un representante de la Red de Alcaldes por la Infancia.
+20. Organización Internacional para las Migraciones.
 
-### XIX. Dos representantes del Consejo de Defensa de la
+21. Asociación de Mutualidades.
 
-Infancia (CODENI).
+22. Confederación de la Producción y del Comercio.
 
-### XX. Un representante de la Asociación Chilena de Municipalidades
+23. Central Unitaria de Trabajadores.
 
-### XXI. Un representante de la Asociación Chilena de Seguridad
+24. Asociación Chilena de Municipalidades.
 
-### XXII. Un representante de la Policía de Investigaciones (PDI)
+25. Colegio de Profesores.
 
-XXIII.Un representante de Fundación Telefónica.
+26. Vicaría Social Pastoral.
 
-### XXIV. Un representante de Acción RSE
+27. Fundación Integra.
 
-### XXV. Un representante de Carabineros de Chile
+28. Corporación Opción.
 
-### XXVI. Un representante de la Asociación Chilena para Naciones Unidas
+29. Fundación Telefónica.
 
-XXVII.Un representante del Colegio de Profesores.
+30. Red Empresas Unidas por la Infancia - UPPI.
 
-La Comisión Asesora, con el voto favorable de la Presidenta de la Comisión,
+31. Red de Universidades por la Infancia - RUPI.
 
-o su representante, podrá invitar a participar a representantes de organizaciones de
+La Subsecretaría del Trabajo oficiará a las entidades integrantes para que designen a un representante titular y un suplente, que cumplirán el rol de punto focal de cada institución. La designación deberá ser renovada anualmente. El/la punto focal mantendrá comunicación directa con el Departamento de Erradicación del Trabajo Infantil de la Subsecretaría del Trabajo y colaborará con éste en el cumplimiento de estrategias, planes, programas nacionales o similares que se encuentren vigentes, enfocados en la prevención y erradicación progresiva del trabajo infantil y en la protección del adolescente que trabaja. Asimismo, desempeñarán sus funciones ad honórem.
 
-la sociedad civil. Los miembros del Comité Asesor Nacional desempeñarán sus
+Sin perjuicio de lo anterior, si lo estimare conveniente para su buen funcionamiento, la Comisión Asesora podrá invitar a participar a funcionarios de la Administración del Estado, así como a representantes del sector privado y de la sociedad civil, expertos y personalidades de reconocida trayectoria en el ámbito académico, científico, político y social.
 
-funciones ad honorem, reuniéndose a lo menos una vez al mes.
+La Comisión Asesora deberá fijar la periodicidad de sus reuniones, debiendo sesionar ordinariamente, a lo menos, una vez por trimestre, sin perjuicio de poder ser convocados extraordinariamente en cualquier momento por su presidente(a).
 
-### 3. Las funciones de la Comisión Asesora serán las siguientes:
+El quórum para sesionar será la mayoría simple de sus miembros presentes y los acuerdos se adoptarán por la mayoría absoluta de los miembros presentes, de manera presencial o videoconferencia. En caso de empate dirimirá el voto del presidente(a).
 
-a. Actualizar el diagnóstico de la realidad del trabajo infantil en Chile que
+#### Artículo 3°
 
-involucre datos empíricos cuantitativos y cualitativos.
+<!-- parte:10259661 -->
 
-b. Proponer en la elaboración de una nueva Estrategia Nacional de prevención
+Las funciones de la Comisión Asesora serán las siguientes:
 
-y erradicación progresiva del trabajo infantil y adolescente en Chile.
+a) Trabajar en las propuestas de diseño de políticas públicas que tengan como objetivo la erradicación sostenida del trabajo infantil y la protección del adolescente que trabaja, basadas en un enfoque de derechos, las cuales podrán materializarse en estrategias, planes, programas nacionales o similares.
 
-c. Recomendar la naturaleza de las actividades y los campos de acción
+b) Colaborar con la ejecución de las políticas públicas mencionadas en el punto anterior, en el marco de las competencias, atribuciones, derechos y prohibiciones específicos de sus integrantes.
 
-en que haya de desarrollarse la Iniciativa Regional América Latina y el
+c) Colaborar con el Observatorio de Trabajo Infantil u otra institución dedicada a la recopilación de datos (empíricos, tanto cuantitativos y cualitativos) para mantener actualizado el diagnóstico nacional respecto al trabajo infantil y el trabajo adolescente protegido, en el marco de las competencias, atribuciones, derechos y prohibiciones específicos de sus integrantes.
 
-Caribe libre de trabajo infantil.
+#### Artículo 4°
 
-d. Articular los proyectos concretos de lucha contra el trabajo infantil
+<!-- parte:10259662 -->
 
-comprendidos en el marco del memorándum de entendimiento suscrito
+La Comisión Asesora tendrá una Secretaría Ejecutiva que estará a cargo del Departamento de Erradicación del Trabajo Infantil de la Subsecretaría del Trabajo, y estará conformada por cuatro de sus integrantes y un experto de la Organización Internacional del Trabajo.
 
-con fecha 10 de junio de 1996 entre el Gobierno de Chile y la Organización
+Dicho departamento propondrá cada año los integrantes de la Secretaría Ejecutiva a la Comisión Asesora, de acuerdo con la planificación anual elaborada por éste para la ejecución de las políticas públicas de erradicación del trabajo infantil y protección del adolescente que trabaja.
 
-Internacional del Trabajo para la implementación del Programa
+La propuesta será presentada en la primera sesión del año, para votación de la Comisión, y será aprobada o rechazada por mayoría simple. En caso de rechazo, se acordará en la misma sesión las instituciones que compondrán la Secretaría Ejecutiva.
 
-Internacional para la Erradicación del Trabajo Infantil.
+#### Artículo 5°
 
-e. Contribuir a la evaluación de la Estrategia Nacional de prevención y
+<!-- parte:10259663 -->
 
-erradicación progresiva del trabajo infantil y adolescente en Chile y de la
+Las funciones de la Secretaría Ejecutiva serán:
 
-Iniciativa Regional América Latina y el Caribe libre de trabajo infantil.
+a) Colaborar con el Departamento de Erradicación del Trabajo Infantil en la elaboración de una planificación anual de acciones específicas a ejecutar por la Comisión Asesora durante el año que corresponda.
 
-La Comisión Asesora emitirá un informe anual que establezca las acciones
+b) Colaborar con la ejecución de las acciones específicas establecidas en la planificación anual pertinente.
 
-realizadas, emitiendo una evaluación de las mismas, así como propuesta de
+c) Emitir, al menos, un informe al año, que incluya las principales actividades desarrolladas por la Comisión Asesora en ese período y las propuestas o conclusiones que surjan de conformidad a sus funciones.
 
-actividades a desarrollar.
+d) Citar y participar de las sesiones que fije la Comisión Asesora conforme a lo establecido en el decreto primero del presente acto administrativo.
 
-### 4. La Comisión Asesora tendrá una Secretaría Ejecutiva que estará a cargo
+Junto a lo anterior, la Secretaría Ejecutiva se reunirá al menos cuatrimestralmente.
 
-de la Subsecretaría del Trabajo y estará formada por un funcionario de dicha
+#### Artículo 6°
 
-Subsecretaría, un experto de la Organización Internacional del Trabajo (OIT), y
+<!-- parte:10259664 -->
 
-cuatro integrantes de la Comisión Asesora que serán elegidos por ésta.
+La Comisión Asesora contará con Comités Regionales para la Erradicación del Trabajo Infantil y la Protección del Adolescente que Trabaja, en adelante «Comités Regionales». Los Comités Regionales serán presididos por el/la Secretario/a Regional Ministerial del Trabajo y Previsión Social (Seremi) respectivo, e integrados por los/as representantes regionales de las entidades participantes en la Comisión Asesora que sean convocados por la Seremi según su realidad regional que oficiarán como punto focal.
 
-### 5. La Comisión Asesora contará con Comités Coordinadores Regionales para
+La Seremi podrá incorporar además en los Comités Regionales a organismos públicos, privados o de la sociedad civil que tengan presencia en la región, en la medida en que estos puedan contribuir en la implementación local de las políticas, planes, programas, estrategias o similares, que elabore la Comisión Asesora. Con todo, siempre deberá convocarse a un/a representante de las Oficinas Locales de la Niñez de la región, en caso de existir en el respectivo territorio.
 
-la Erradicación del Trabajo Infantil y la Protección de los Derechos de los Niños,
+Los Comités Regionales tendrán las siguientes tareas:
 
-Niñas y Adolescentes Trabajadores, integrados por los representantes regionales
+a) Colaborar con el Observatorio de Trabajo Infantil de la Subsecretaría del Trabajo en la elaboración de un diagnóstico a nivel regional.
 
-de las entidades nacionales participantes en la Comisión Asesora Nacional. Estos
+b) Participar en el diseño de proyectos e intervenciones que se realicen en la región y que darán cumplimento a la política nacional vigente para la erradicación sostenida del trabajo infantil y la protección del adolescente que trabaja, así como en su ejecución, dentro de la esfera de sus competencias.
 
-Comités Regionales serán presididos por los Secretarios Regionales Ministeriales
+c) Apoyar al Seremi respectivo en la ejecución dentro de la región de los proyectos e intervenciones establecidas por los Comités Regionales para cada región.
 
-del Trabajo y Previsión Social.
+Los Comités Regionales deberán celebrar como mínimo dos reuniones por semestre para diseñar, gestionar y evaluar proyectos regionales, de las cuales se levantará un acta que será remitida al Departamento de Erradicación de Trabajo Infantil dentro de los cinco días hábiles siguientes a su celebración. Las fechas de las reuniones deberán ser establecidas por el Comité Regional a principios de cada semestre.
 
-### 6. La Comisión Asesora contará con un Observatorio de Trabajo Infantil, a
+Los Comités Regionales podrán establecer una Secretaría Ejecutiva, la cual debe estar compuesta por al menos cuatro instituciones del Comité Regional y se aplicará a su respecto el decreto tercero del presente acto administrativo para el desarrollo de sus funciones.
 
-cargo de la Subsecretaría del Trabajo, como una instancia intersectorial de análisis
+Los miembros de la Comisión Asesora y los participantes de los Comités Regionales no podrán divulgar, ni utilizar la información a la que hayan accedido en el ejercicio de sus funciones, cualesquiera sea su naturaleza, ya sea en beneficio propio o de terceros, hasta que dicha información sea de carácter público.
 
-de información, generación de conocimiento y promotor de políticas públicas en
+#### Artículo 7°
 
-la materia, buscando generar un cambio cultural con respecto a la relación entre
+<!-- parte:10259665 -->
 
-niños, niñas, adolescentes, sus familias y el mundo laboral.
+El Observatorio de Trabajo Infantil como unidad dependiente del Departamento de Erradicación del Trabajo Infantil de la Subsecretaría del Trabajo, colaborará de forma permanente al desarrollo de las funciones, tareas y actividades del Departamento de Erradicación del Trabajo Infantil, de la Comisión Asesora y de los Comités Regionales.
 
-El objetivo general del Observatorio de Trabajo Infantil será producir
+Los objetivos específicos del Observatorio serán:
 
-conocimiento y generar propuestos de políticas públicas para la prevención y
+a) Ser una instancia institucional permanente de recopilación, sistematización y análisis de la información disponible en diferentes fuentes nacionales e internacionales sobre trabajo infantil y trabajo adolescente protegido.
 
-erradicación del trabajo infantil en Chile, teniendo como objetivos específicos a
+b) Crear y difundir estudios e informes técnicos sobre diversos aspectos relacionados con trabajo infantil y trabajo adolescente protegido.
 
-desarrollar en los próximos 3 años los siguientes:
+c) Colaborar con el diseño y ejecución de estudios cualitativos, cuantitativos y encuestas de instituciones de Gobierno, y de organismos públicos o privados, en los que solicite la colaboración expresa al Departamento de Erradicación del Trabajo Infantil.
 
-a) Constituirse como una instancia permanente de recopilación,
+d) Proponer a la Comisión Asesora estrategias de comunicación que permitan visibilizar la problemática de trabajo infantil y protección del adolescente que trabaja.
 
-sistematización y análisis de información disponible en diferentes fuentes
+e) Proponer la realización, en forma periódica, de: capacitaciones, seminarios, conversatorios, foros y mesas de trabajo donde interactúen actores sociales expertos en temáticas de niñez, adolescencia y trabajo.
 
-nacionales e internacionales sobre infancia.
+f) Elaborar el informe anual acerca de las acciones realizadas a nivel nacional y regional, en el marco de la ejecución de la Estrategia Nacional para la Erradicación del Trabajo Infantil y Protección del Adolescente Trabajador 2015-2025."
 
-b) Crear y difundir estudios e informes técnicos sobre diversos aspectos
+g) Apoyar el diseño, ejecución y evaluación de la política pública sobre la erradicación del trabajo infantil y protección del adolescente que trabaja.
 
-relacionados con la infancia, la adolescencia y el trabajo.
+#### Artículo 8°
 
-c) Evaluar el impacto en la sociedad de las políticas públicas relacionadas con
+<!-- parte:10259666 -->
 
-infancia, adolescencia y trabajo y proponer iniciativas que permitan dar
-
-seguimiento a éstas, o generar nuevas basada en un enfoque de derechos.
-
-d) Analizar la Encuesta de Actividades de Niños, Niñas y Adolescentes
-
-(EANNA) 2012, focalizando y disgregando la información por género,
-
-edad, región, etnia, entre otros, además de formular indicadores fijos que
-
-sean medibles periódicamente.
-
-e) Generar una estrategia de comunicación en los medios, con enfoque
-
-educativo.
-
-f) Realizar seminarios, foros y mesas de expertos sobre infancia, adolescencia
-
-y trabajo, periódicamente.
-
-g) Actuar como principal coordinador y articulador entre los diversos grupos
-
-de trabajo, fundaciones, centros de estudios, instituciones, entre otros,
-
-relacionados con infancia, adolescencia y trabajo.
+La Subsecretaría del Trabajo prestará su apoyo administrativo y técnico para el correcto desempeño de las funciones de la Comisión Nacional Asesora y de los Comités Regionales a través del Departamento de Erradicación del Trabajo Infantil.
 
 Anótese, comuníquese y publíquese.- Jorge Arrate Mac Niven, Ministro del Trabajo y Previsión Social.
 
