@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.207 EXENTA, DE 15 DE JULIO DE 2021
+
+Mediante resolución exenta N° 2.207, de 15 de julio del 2021, el Servicio Nacional de Capacitación y Empleo, declara el cese a contar del 18 de abril de 2021, de la inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "Servicios Integrales de Capacitación Sánchez & Castillo Limitada (Servicios Integrales de Capacitación Sánchez & Castillo Limitada)", RUT 76.805.635-8 contenida en la resolución exenta N° 2.807 de 28 de junio de 2018, por cuanto dejó de cumplir con el requisito establecido en el N° 2, del Art. 21 de la ley 19.518.
+
+Santiago, 15 de julio de 2021.- Andrea del Carmen Contreras Cuéllar, Jefe del Departamento de Desarrollo y Regulación de Mercado, Servicio Nacional de Capacitación y Empleo.
