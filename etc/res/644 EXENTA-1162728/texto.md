@@ -800,17 +800,21 @@ Para el cálculo del aforo se considerarán las personas que trabajan en el luga
 
 112. Del funcionamiento de restaurantes, cafés y análogos. Se permite la atención de público en restaurantes, cafés y análogos, sujeto a las siguientes reglas:
 
-a. Las mesas deberán estar separadas entre sí por una distancia mínima de dos metros lineales, medidos desde sus bordes.
+a. Las mesas deberán estar separadas entre sí por una distancia mínima de dos metros lineales, medidos desde sus bordes. Sin perjuicio de lo anterior, si la mesa fuese de uso individual, podrá estar separada por un metro lineal respecto de otras mesas en la misma condición.
 
-b. En el caso de lugares cerrados, la ventilación deberá cumplir con norma estándar de ventilación.
+b. En el caso de lugares cerrados, solo podrán asistir quienes cuenten con un Pase de Movilidad habilitado.
+
+c. En el caso de lugares cerrados, la ventilación deberá cumplir con norma estándar de ventilación.
 
 113. De los gimnasios y análogos. Se permite el funcionamiento de gimnasios, sujeto a las siguientes reglas:
 
-a. Las personas y las máquinas deberán estar separadas entre sí por una distancia mínima de dos metros lineales.
+a. Las personas y las máquinas deberán estar separadas entre sí por una distancia mínima de un metro lineal.
 
 b. Las actividades grupales deberán cumplir con lo dispuesto en el numeral 116.
 
-c. En el caso de lugares cerrados, la ventilación deberá cumplir con la norma estándar de ventilación.
+c. En el caso de lugares cerrados, solo podrán asistir personas que cuenten con un Pase de Movilidad habilitado.
+
+d. En el caso de lugares cerrados, la ventilación deberá cumplir con la norma estándar de ventilación.
 
 114. De las actividades sin interacción entre los asistentes. Se permite la realización de este tipo de actividades, cumpliendo las siguientes reglas:
 
