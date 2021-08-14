@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 498 EXENTA, DE 13 DE JULIO DE 2021
+
+Mediante resolución exenta Nº 498, de fecha 13 de julio de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Maule, se autorizó a la Escuela de Conductores Profesionales denominada Automóvil Club de Chile Limitada, RUT N° 77.323.230-K, domiciliada en 2 Oriente N° 1345, comuna de Talca, cuyo representante legal es Juan Carlos Jerez Guirao, cédula nacional de identidad Nº 24.690.667-K, cuyos planes y programas de enseñanza para impartir curso A2 teórico y práctico fueron autorizados mediante resolución exenta N° 165, de 12 de julio de 2000, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones; a impartir los cursos conducentes a la obtención de la Licencia de Conductor Profesional Clase A2 tradicional, en la modalidad e-learning, bajo el formato de ejecución asincrónico.-
+
+Pedro Orozco López, Secretario Regional Ministerial (S) de Transportes y Telecomunicaciones Región del Maule.
