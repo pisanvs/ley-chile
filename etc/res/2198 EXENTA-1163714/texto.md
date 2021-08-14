@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 2.198 EXENTA, DE 15 DE JULIO DE 2021
+
+Mediante resolución exenta N° 2.198, de 15 de julio de 2021, el Servicio Nacional de Capacitación y Empleo declara el cese, a contar del 21 de abril de 2021, de la inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "Roberto Leupin Brevis Capacitación Empresa Individual de Responsabilidad Limitada (Roberto Leupin Brevis Capacitación Empresa Individual de Responsabilidad Limitada)", Rut 76.500.460-8, contenida en la resolución exenta N° 3.970 de 16 de noviembre de 2006, por cuanto dejó de cumplir con el requisito establecido en el N° 2, del Art. 21 de la ley 19.518.
+
+Santiago, 15 de julio de 2021.- Andrea del Carmen Contreras Cuéllar, Jefe del Departamento de Desarrollo y Regulación de Mercado, Servicio Nacional de Capacitación y Empleo.
