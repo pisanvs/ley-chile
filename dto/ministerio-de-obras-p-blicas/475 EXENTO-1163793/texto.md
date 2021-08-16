@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°475, de 19 de julio de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.65 y 67, para la obra: AMPLIACION RUTA H-27 CARRETERA EL COBRE, que figura a nombre de FUNDACION EDUCACIONAL PARA EL DESAR e INMOB. ROCA DE MONTE LTDA, roles de avalúo 451-1 y 108-6, Comuna de MACHALI, REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficies 93 y 2.762 m2 respectivamente. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMAN THEODULOZ, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y PATRICIA VERONICA ZAVALA CONTRERAS, mediante informe de tasación de 22 de abril de 2019, fijó el monto de la indemnización provisional en la cantidad de $6.448.000 para el lote N°65, y $112.424.000 para el lote N°67. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
