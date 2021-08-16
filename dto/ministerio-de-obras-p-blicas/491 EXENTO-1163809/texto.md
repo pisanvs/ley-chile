@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°491, de 19 de julio de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 71 y 72, para la obra: CONSTRUCCIÓN CONEXION VIAL ACCESO NORTE A SAN ANTONIO, que figuran a nombre de SAEZ SALDIAS ARMANDO y ARTEAGA GARCES MARIA SOLEDAD, roles de avalúo 9035-98 y 9035-58, Comuna de SAN ANTONIO, REGIÓN DE VALPARAÍSO, superficies 145 y 57 m2. respectivamente. La Comisión de Peritos integrada por GASTON ALEJANDRO BRAVO HURTADO, CAROLINA ALEJANDRA BRITO RAMOS y NORMAN ESTANISLAO CALDERON PONTIGGIA, mediante informe de tasación de 08 de marzo de 2021, fijó el monto de la indemnización provisional en la cantidad de $391.500, para el lote N°71 y $153.900, para el lote N°72. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
