@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°534, de 23 de julio de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 52, para la obra: MEJORAMIENTO PAVIMENTO RUTA G-814 LEYDA - CUNCUMEN, que figura a nombre de VINA GARCES SILVA LIMITADA, rol de avalúo 9053-95, Comuna de SAN ANTONIO, REGION DE VALPARAÍSO, superficie 4.286 m2. La Comisión de Peritos integrada por CARLOS ALBERTO MONTECINOS GALLEGUILLOS, MARIA ISABEL RIOS MARCUELLO y MARCELO GABRIEL OYARZO SALDIAS, mediante informe de tasación de 07 de agosto de 2018, fijó el monto de la indemnización provisional en la cantidad de $26.278.200 para el lote N°52. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
