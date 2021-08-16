@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº540, de 23 de julio de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 7-D, para la obra: MEJORAMIENTO CAMINO BASICO INTERMEDIO CAMINO ANTIGUO TRAIGUEN, que figura a nombre de GONZALEZ GOMEZ EDUARDO FRANCISCO, rol de avalúo 852-211, Comuna de TRAIGUEN, REGION DE LA ARAUCANIA, superficie 98 m2. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, YASCHALA MARIBEL YAÑEZ RIFFO y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de fecha 10 de mayo de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.614.000.- para el lote Nº7-D. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
