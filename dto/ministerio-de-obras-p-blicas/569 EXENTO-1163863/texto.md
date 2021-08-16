@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 569 de 23 de julio de 2021, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 4, Rol de avalúo 975-4, comuna de Renaico, superficie 98 m2., para la obra SISTEMA DE AGUA POTABLE RURAL TIJERAL, COMUNA DE RENAICO, PROVINCIA DE MALLECO, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por PATRICIA ANGÉLICA MORALES RIVERA, EVALDO ROBERTO CONTRERAS ROA y ANDRÉS TEPPER LAVANDEROS, fijó el valor de tasación con fecha 23 de julio de 2019, acordándose la indemnización con su propietaria EMELINA DEL CARMEN VÁSQUEZ RUBILAR, en la cantidad de $1.035.569.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
