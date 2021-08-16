@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 551 de 23 de julio de 2021, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 85, Rol de avalúo 51-1, comuna de Puyehue, superficie 1.084 m2., para la obra REPOSICIÓN PAVIMENTO RUTA 215-CH, SECTOR: LAS LUMAS - ENTRE LAGOS, COMUNA DE PUYEHUE, PROVINCIA DE OSORNO, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por LEOPOLDO RAMÓN SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA y SAMUEL BARRIENTOS BAHAMONDE, fijó el valor de tasación con fecha 21 de julio de 2017, acordándose la indemnización con sus propietarios NANCY LILIANA BENAVIDES GARCÍA Y OTROS, en la cantidad de $39.743.714.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
