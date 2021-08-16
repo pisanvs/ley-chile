@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 511 de 19 de julio de 2021, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nº 201 y Nº 202 para la obra: MEJORAMIENTO RUTA NAHUELBUTA. SECTOR B. SUBSECTOR 5: VARIANTE RENAICO- HUEQUÉN, Región de la Araucanía, que figuran a nombre de MUNOZ MUNOZ SANTOS y MUNOZ MUNOZ SANTOS HERNAN, roles de avalúo 800-55 y 800-54 de la comuna de Angol, superficies 495 m2 y 945 m2, respectivamente. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 29 de 14 de enero de 2021, integrada por Sonia Catalina Gallegos Blanch, Felipe Antonio Suckel Figueroa y Valentina Andrea Chacaltana Sims, fijó con fecha 1 de marzo de 2021, el valor provisional de las indemnizaciones en las cantidades de $100.256.000 para el lote Nº 201 y $206.034.000 para el lote Nº 202. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
