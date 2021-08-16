@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 945, del 03/08/2021, conforme al artículo 51 Ley 16.391, D.L. 2.186, de 1978 y D.L. 1.305, de 1976, de Vivienda y Urbanismo, Serviu Región de Los Ríos, expropió el Lote 5, ubicado en calle Los Pelúes Nº 059, Isla Teja, comuna de Valdivia, de una superficie total de terreno de 10,50 m², Rol de Avalúo Nº1281-13, de la comuna de Valdivia, que forma parte de un terreno de mayor extensión, de aparente dominio de Ana María Buchner Chávez, para destinarlo al proyecto denominado "Construcción 2º Puente de Acceso Valdivia Centro - Isla Teja". La Comisión de Peritos Tasadores nombrada por resolución exenta Nº 1.161, de 24/11/2020, del Serviu Región de Los Ríos, integrada por María José Freire Allendes, Jorge Fernando Contreras Melo y Sebastián Andrés Riquelme Vargas, fijó el monto de indemnización provisional, según informe de fecha 24/06/2021, en la suma total de $4.746.130, conforme a lo dispuesto en el artículo 5º del D.L. 2.186. La publicación se efectúa en cumplimiento de lo preceptuado en el artículo 7º del D.L. 2.186 de 1978.
+
+.
