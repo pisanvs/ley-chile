@@ -104,7 +104,7 @@ Fíjase el siguiente texto refundido del decreto exento Nº 120, de 6 de abril d
 
 Concédanse nuevos aportes a aquellos entregados en virtud de la Ley Nº 21.230, que Concede un Ingreso Familiar de Emergencia, en los términos señalados en los artículos siguientes.
 
-Los aportes se concederán en los meses de abril, mayo, junio, julio, agosto y septiembre del año 2021, y los hogares señalados en el artículo 3 estarán incluidos en la respectiva nómina de beneficiarios, con excepción de aquellos incluidos en el literal b. de dicho artículo, los que deberán postular de acuerdo a lo indicado en los incisos primero y segundo del artículo 2. Todos aquellos hogares que cumplan con los requisitos contemplados por la ley y el presente decreto exento serán beneficiarios de los aportes correspondientes, sin exclusiones de ningún tipo.
+Los aportes se concederán en los meses de abril, mayo, junio, julio, agosto, septiembre, octubre y noviembre del año 2021, y los hogares señalados en el artículo 3 estarán incluidos en la respectiva nómina de beneficiarios, con excepción de aquellos incluidos en el literal b. de dicho artículo, los que deberán postular de acuerdo a lo indicado en los incisos primero y segundo del artículo 2. Todos aquellos hogares que cumplan con los requisitos contemplados por la ley y el presente decreto exento serán beneficiarios de los aportes correspondientes, sin exclusiones de ningún tipo.
 
 #### Artículo 2
 
@@ -152,7 +152,7 @@ Los mecanismos de apoyo señalados en el inciso anterior podrán incluir estrate
 
 2) Suprímase, en el artículo 6, inciso primero, el numeral 4.
 
-3. Establézcase que para el mes de septiembre de 2021, el valor de los aportes que se concedan a los hogares que califiquen como beneficiarios a dicho mes, será equivalente al 50% de los montos entregados por hogar al mes anterior.
+3. Establézcase que para el mes de septiembre de 2021, el valor de los aportes que se concedan a los hogares que califiquen como beneficiarios a dicho mes, será equivalente al 50% de los montos entregados por hogar al mes anterior. El valor de los aportes siguientes será el contemplado en la Tabla 1 del artículo 4 del resuelvo 1 del presente acto administrativo.
 
 4. Señálase que para efectos de determinar a los beneficiarios del literal f. del artículo 3 para el mes de junio de 2021, se utilizará la información disponible en el Registro de Información Social que establece el artículo 6º de la Ley Nº 19.949, al día 10 de junio de 2021.
 
@@ -160,11 +160,21 @@ Los mecanismos de apoyo señalados en el inciso anterior podrán incluir estrate
 
 Si en el caso del inciso anterior se verificara al momento de crearse el respectivo hogar en el Registro Social de Hogares que dos o más integrantes del mismo hubiesen solicitado el beneficio, se preferirá la información entregada por el solicitante que señale menores ingresos.
 
-6. Establézcase que aquellos extranjeros que aún no cuenten con Rol Único Nacional, y antes del 1 de julio de 2021 hayan realizado una solicitud de visa, ya sea como titular o por sus dependientes, ante el Servicio Nacional de Migraciones, encontrándose ésta pendiente de aprobación, y que tengan hijos o hijas chilenos, podrán ser beneficiarios de los aportes establecidos por este decreto exento, siempre y cuando la suma de los ingresos del solicitante y sus dependientes sea un monto menor o igual a $800.000 pesos por persona, realizados los descuentos legales que correspondan, lo que se verificará a través de la información declarada por el solicitante. Para recibir el beneficio deberán presentar una solicitud especial ante el Ministerio de Desarrollo Social y Familia, de acuerdo al inciso segundo del artículo 2 del presente decreto exento.
+6. Establézcase que aquellos extranjeros que teniendo hijos o hijas chilenos, lo que se verificará a través de una declaración jurada, y que aún no cuenten con Rol Único Nacional (RUN), y antes del 1 de julio de 2021 hayan realizado una solicitud de visa, ya sea como titular o por sus dependientes, ante el Servicio Nacional de Migraciones, encontrándose ésta pendiente de aprobación, lo que se verificará de acuerdo a la información entregada por el Servicio de Registro Civil e Identificación (SRCeI) y el Servicio Nacional de Migraciones (SNM) respectivamente, podrán ser beneficiarios de los aportes establecidos por este decreto exento, siempre y cuando la suma de los ingresos del solicitante y sus dependientes sea un monto menor o igual a $800.000 pesos por persona, realizados los descuentos legales que correspondan, lo que se verificará a través de la información declarada por el solicitante.
+
+Para recibir el beneficio deberán presentar una solicitud especial ante el Ministerio de Desarrollo Social y Familia, de acuerdo al inciso segundo del artículo 2 del presente decreto exento, pudiendo solicitar todos los aportes que le correspondan desde el mes de junio del presente año y en adelante. Para efectos de determinar los pagos que corresponden a cada mes, se evaluará por parte de la Subsecretaría de Evaluación Social si cada persona que realiza una solicitud cumple los requisitos de no tener RUN de acuerdo a la información entregada por SRCeI y tener visa pendiente de acuerdo a la información del SNM, correspondientes a cada mes, ya que en caso de no cumplirse alguno de dichos requisitos no será procedente el pago, de acuerdo a la señalado en la siguiente tabla:
+
+.
+
+Asimismo, aquellas personas consideradas en el inciso primero del presente resuelvo 6, que hayan postulado de acuerdo al inciso anterior, serán incluidas en las nóminas siguientes de este beneficio mientras su solicitud de visa ante el Servicio Nacional de Migraciones se encuentre pendiente de aprobación, de acuerdo a la información entregada por el SNM y que no cuenten con RUN, de acuerdo a la información entregada por el SRCeI.
 
 Para efectos de determinar el monto del aporte que se pagará a estos beneficiarios, se asimilará al número que resulte de la suma del solicitante más sus dependientes, entre los cuales se considerará a sus hijos o hijas chilenos, al número de integrantes del hogar de acuerdo a la Tabla 1 del artículo 4.
 
-Con todo, en caso que de acuerdo al inciso primero de este resuelvo, un hijo o hija chileno haya sido considerado en la solicitud que haya efectuado cada uno de sus padres para un mismo período, sólo será considerado en la solicitud de la madre para efectos del inciso anterior, sin perjuicio de que ambos padres puedan recibir el beneficio. Asimismo, sólo podrán considerarse como dependientes para determinar el monto del aporte, aquellas personas que no sean beneficiarios en el mes respectivo.".
+Con todo, en caso que una solicitud incluyese uno o más dependientes que también hubiesen solicitado el beneficio, el mismo se entenderá como una sola solicitud, en la que se considerarán todos los hijos declarados en éstas. A su vez, en caso de que existiesen diferencias entre las declaraciones de ingreso de las solicitudes antes mencionadas, se estará a la información de aquella declaración que reporte un ingreso menor por cada persona.
+
+Con todo, si de acuerdo al inciso primero de este numeral, un hijo o hija chileno ha sido considerado en la solicitud que haya efectuado cada uno de sus padres para un mismo período, sólo será considerado en la solicitud de la madre para efectos del inciso cuarto, sin perjuicio de que ambos padres puedan recibir el beneficio. Asimismo, sólo podrán considerarse para determinar el monto del aporte aquellas personas que no sean beneficiarias en el mes respectivo.
+
+Los pagos correspondientes establecidos en el presente numeral siempre serán de carácter presencial, y para hacerlos efectivos el beneficiario deberá acreditar su identidad, ya sea por medio de su pasaporte, tarjeta de residencia, documento nacional de identidad del país respectivo, o de otra forma que resulte suficiente de acuerdo a lo que determine el Instituto de Previsión Social, el que podrá establecer los procedimientos operativos que sean necesarios para este fin.
 
 Artculo tercero.- Establézcase que las modificaciones señaladas en el artículo primero del presente decreto exento serán aplicables a contar del aporte del mes de junio de 2021.
 
