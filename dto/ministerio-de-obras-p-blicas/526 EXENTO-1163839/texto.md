@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº526, de 23 de julio de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 39 y 40, para la obra: CONSTRUCCION CONEXION VIAL ACCESO NORTE A SAN ANTONIO, que figura a nombre de ALCAINO Y SILVA LTDA., rol de avalúo 9035-172, Comuna de SAN ANTONIO, REGION DE VALPARAÍSO, superficies 179 y 58 m2 respectivamente. La Comisión de Peritos integrada por GASTON ALEJANDRO BRAVO HURTADO, CAROLINA ALEJANDRA BRITO RAMOS y NORMAN ESTANISLAO CALDERON PONTIGGIA, mediante informe de tasación de 29 de abril de 2021, fijó el monto de la indemnización provisional en la cantidad de $5.068.000 para el lote Nº39, y $11.921.000 para el lote Nº40. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
