@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 554 de 23 de julio de 2021, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno 1 y 1-A, Rol de avalúo 836-75, comuna de Parral, superficies 2.822 y 159 m2. respectivamente, para la obra CONSERVACIÓN RED VIAL MAULE (2015-2016-2017), PUENTE LAS JUNTAS, RUTA L-831, COMUNA DE PARRAL, PROVINCIA DE LINARES, REGIÓN DEL MAULE. La comisión de peritos, integrada por ALICIA BÁRBARA FLORES PACHECO, PATRICIO ULISES DURÁN MARCOS y PAULA SOLEDAD GONZÁLEZ ORTEGA, fijó el valor de tasación con fecha 20 de febrero de 2018 para el lote 1 y con fecha 06 de julio de 2020 para el lote 1-A, acordándose la indemnización con su propietaria ERNESTINA MARINA DEL CARMEN ORREGO CANDIA, en la cantidad total de $20.977.948.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
