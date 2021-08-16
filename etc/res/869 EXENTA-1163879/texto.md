@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 869, del 27/07/2021, conforme al artículo 51 ley 16.391, DL 2.186, de 1978 y DL 1.305, de 1976, de Vivienda y Urbanismo, el Serviu Región de Los Ríos, expropió el Lote 7, ubicado en calle Los Pelúes Nº 075, comuna de Valdivia, de 18,20 m² de superficie de terreno, Rol de Avalúo Nº 1281-11, de la comuna de Valdivia, que forma parte de un terreno de mayor extensión, de aparente dominio de Luis Conrado Zaror Cornejo, para destinarlo al proyecto denominado "Construcción 2º Puente de Acceso Valdivia Centro-Isla Teja". La Comisión de Peritos Tasadores nombrada por resolución exenta Nº 1.161, de 24/11/2020, del Serviu Región de Los Ríos, integrada por María José Freire Allendes, Jorge Fernando Contreras Melo y Sebastián Andrés Riquelme Vargas, fijó el monto de indemnización provisional, según informe de fecha 24/06/2021, que corresponde a $8.932.317, conforme a lo dispuesto en el artículo 5º del DL 2.186. La publicación se efectúa en cumplimiento de lo preceptuado en el artículo 7º del DL 2.186, de 1978.
+
+.
