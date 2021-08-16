@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°536, de 23 de julio de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 5-A y 9-A, para la obra: MEJORAMIENTO RUTA F-190 S: VALLE ALEGRE-PUCHUNCAVI, que figura a nombre de ORELLANA HARRISON VICTOR ARTURO, rol de avalúo 271-204, Comuna de QUINTERO, REGION DE VALPARAÍSO, superficies 2.695 y 1.141 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ANTONIO RIVERA CASTRO, ROBERTO LUIS SEBASTIÁN HERNÁNDEZ y MARCELO GABRIEL OYARZO SALDIAS, mediante informe de tasación de 10 de septiembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $10.789.500 para el lote N°5-A, y $7.762.500 para el lote N°9-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
