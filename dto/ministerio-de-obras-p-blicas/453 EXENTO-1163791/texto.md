@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) N° 453, de 30 de junio de 2021, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. N°850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206, de 1960, se expropió el lote de terreno N° 180-A, para la obra CAMINO AMPLIACIÓN REPOSICIÓN RUTA 115-CH, SECTOR TALCA - SAN CLEMENTE, TRAMO I TALCA - VARIANTE SAN CLEMENTE, KILÓMETRO 0,00000 A KM. 13,92941, COMUNA TALCA - SAN CLEMENTE, PROVINCIA DE TALCA, REGIÓN DEL MAULE, que figura a nombre de MOYA URRUTIA JORGE LUIS, rol de avalúo 3825-9. Comuna de TALCA, REGIÓN DEL MAULE, superficie 444 m2. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMÁN THEODULOZ, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y RODRIGO ALEXIS ESCOBAR FERNÁNDEZ, mediante informe de tasación de 09 de noviembre de 2016, fijó el monto de la indemnización provisional en la cantidad de $4.141.500.- para el lote N° 180-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
