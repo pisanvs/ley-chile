@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº498, de 19 de julio de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.1, 2 y 3, para la obra: CONSTRUCCION CONEXION VIAL PUENTE BICENTENARIO - AVDA. CHACABUCO, que figura a nombre de ESSBIO SA, SERVIU REGION DEL BIOBIO y EDUCACION PROFESIONAL ATENEA SA, roles de avalúo 1392-20, 59-796 y 59-3, Comuna de CONCEPCION, REGION DEL BIOBÍO, superficies 149, 138 y 134 m2 respectivamente. La Comisión de Peritos integrada por ROXANA CECILIA ABARZUA GAJARDO, CONSUELO LORETO ZULOAGA SANHUEZA y MARIA PAMELA MAC-GUIRE ACEVEDO, mediante informe de tasación de 01 de marzo de 2021, fijó el monto de la indemnización provisional en la cantidad de $40.745.391 para el lote Nº1, $149.039.394 para el lote Nº2, y $129.262.900 para el lote Nº3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
