@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº532, de 23 de julio de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº9-A, para la obra: CAMINO MEJORAMIENTO RUTA S-222 HUALACURA LOS BOLDOS, SECTOR HUALACURA LOS BOLDOS, TRAMO KM. 0,000 AL KM. 13,49200, que figura a nombre de HUENCHUN PICHULMAN CATALINA, rol de avalúo 603-295, Comuna de NUEVA IMPERIAL, REGION DE LA ARAUCANÍA, superficie 326 m2 respectivamente. La Comisión de Peritos integrada por CESAR NOLBERTO CAMPOS VERGARA, EVALDO ROBERTO CONTRERAS ROA y PABLO ALEJANDRO SEPULVEDA GOMEZ, mediante informe de tasación de fecha 05 de septiembre de 2017, fijó el monto de la indemnización provisional en la cantidad de $1.358.460.- para el lote Nº9-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
