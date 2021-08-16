@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº496, de 19 de julio de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 24, 26 y 28, para la obra: AMPLIACION RUTA 62, SECTOR QUILLOTA - CRUCE RUTA F-390, que figura a nombre de AGRICOLA QUINTA DE COLMENARES LI, rol de avalúo 329-269, Comuna de QUILLOTA, REGION DE VALPARAÍSO, superficies 4.399, 6.365 y 5.693 m2 respectivamente. La Comisión de Peritos integrada por CAROLINA CLAUDIA VERDEJO DÍAZ, ALFONSO ANDRES SANTINI RIVERA y LUIS PABLO PADILLA VERGARA, mediante informe de tasación de 05 de octubre de 2018, fijó el monto de la indemnización provisional en la cantidad de $45.902.092 para el lote Nº24, $112.373.606 para el lote Nº26, y $58.700.314 para el lote Nº28. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
