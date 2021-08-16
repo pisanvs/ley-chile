@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº539, de 23 de julio de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.4 y 17, para la obra: REPOSICION RUTA 181-CH CURACAUTIN - MALALCAHUELLO, que figuran a nombre de ACUNA BERNAL MARIO ALBERTO y AGRICOLA Y FORESTAL HUILO HUILO, roles de avalúo 202-333 y 206-26, Comuna de CURACAUTIN, REGION DE LA ARAUCANÍA, superficies 304 y 1.215 m2 respectivamente. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, CLAUDIO HERNÁN ANGULO SOTOMAYOR y PABLO ALEX MANSILLA ARAVENA, mediante informes de tasación de fecha 25 de mayo de 2018, fijó el monto de las indemnizaciones provisionales en las cantidades de $3.139.400.- para el lote Nº4, y $8.611.500.- para el lote Nº17. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
