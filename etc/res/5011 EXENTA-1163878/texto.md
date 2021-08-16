@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 5.011, de fecha 11 de octubre de 2018, se ordenó la expropiación total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 666-125, correspondiente al inmueble ubicado en Pje. Socoroma 505 Block A Dp 31 V Parinacota, Rol de Avalúo N° 666-125, de la Comuna de Quilicura, Región Metropolitana, de aparente dominio de Rojas Rojas Roberto Ramón, con una superficie aproximada de 43,63 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación de Terrenos Población Parinacota, Comuna de Quilicura". La Comisión de Peritos integrada por el señor Andrés Schulz Villanueva, arquitecto; señor Jesús Díaz Pasmiño, ingeniero civil, y señor Gabriel Pantoja Rivera, ingeniero agrónomo, mediante Informe de fecha 27 de julio de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $21.366.109, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
