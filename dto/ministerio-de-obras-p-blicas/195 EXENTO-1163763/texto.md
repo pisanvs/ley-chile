@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº195, de 22 de abril de 2021, modificado por Decreto MOP. (Exento) Nº 522, de 23 de julio de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 13-B, para la obra: REPOSICION RUTA 181-CH CURACAUTIN - MALALCAHUELLO, que figura a nombre de CAMUS ARIAS JOSE LUIS, SIN ROL DE AVALÚO, Comuna de CURACAUTIN, REGION DE LA ARAUCANÍA, superficie 996 m2. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, CONSTANZA CAMILA VASQUEZ MUÑOZ y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de fecha 14 de diciembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $8.032.800.- para el lote Nº13-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
