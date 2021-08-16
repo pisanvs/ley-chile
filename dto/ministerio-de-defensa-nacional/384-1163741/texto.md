@@ -1,0 +1,5 @@
+OTORGAMIENTO DE DESTINACIÓN MARÍTIMA
+
+Decreto supremo Nº 384, de fecha 28 de mayo de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, para el Servicio Nacional de Pesca y Acuicultura, RUT 60.701.002-1, Destinación Marítima, con vencimiento el 30 de junio de 2036, sobre un sector de fondo de mar y porción de agua, en el lugar denominado Dalcahue Sector B, en la localidad de Canal Dalcahue, comuna de Dalcahue, provincia de Chiloé, Región de Los Lagos, con una superficie total de 959.712,99 m2, la que fue tramitada con el SIABC Nº 37273. A modo referencial se señala la siguiente coordenada geográfica: Lat: 42º23'35.80" Sur, Long: 73º39'56.00" Weste. El objeto consiste en continuar amparando un área de manejo y explotación de recursos bentónicos. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Castro. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Cristóbal Berna Armijo, Teniente Primero LT.
