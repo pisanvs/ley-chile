@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 946, del 03/08/2021, conforme al artículo 51 ley 16.391, DL 2.186, de 1978 y DL 1.305, de 1976, de Vivienda y Urbanismo, Serviu Región de Los Ríos, expropió el Lote 9, ubicado en calle Los Pelúes N° 95, Isla Teja, comuna de Valdivia, de una superficie total de terreno de 99 m2, Rol de Avalúo N° 1281-10, de la comuna de Valdivia, que forma parte de un terreno de mayor extensión, de aparente dominio de Diner Moraga Ojeda, para destinarlo al proyecto denominado "Construcción 2° Puente de Acceso Valdivia Centro - Isla Teja". La Comisión de Peritos Tasadores nombrada por resolución exenta N° 1.161, de 24/11/2020, del Serviu Región de Los Ríos, integrada por María José Freire Allendes, Jorge Fernando Contreras Melo y Sebastián Andrés Riquelme Vargas, fijó el monto de indemnización provisional, según informe de fecha 24/06/2021, en la suma total de $29.094.696, conforme a lo dispuesto en el artículo 5° del DL 2.186. La publicación se efectúa en cumplimiento de lo preceptuado en el artículo 7° del DL 2.186, de 1978.
+
+.
