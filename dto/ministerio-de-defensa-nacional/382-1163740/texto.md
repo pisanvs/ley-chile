@@ -1,0 +1,7 @@
+RENOVACIÓN DE DESTINACIÓN MARÍTIMA
+
+Decreto supremo N° 382, del 28 de mayo de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, para el Servicio Nacional de Pesca y Acuicultura, RUT: 60.701.002-1, primera renovación de destinación marítima, con vencimiento el 30 de junio de 2036, sobre un sector de fondo de mar y porción de agua, en el lugar denominado Punta El Yeso, Comuna de Antofagasta, Provincia de Antofagasta, Región de Antofagasta, con una superficie fondo de mar de 359.400 m², la que fue tramitada con el SIABC N° 38.844. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto de esta destinación marítima, en los sectores otorgados, es continuar amparando un área de manejo y explotación de recursos bentónicos, según lo establecido en el título IV, párrafo 3°, artículo 55 A de la Ley General de Pesca y Acuicultura y sus modificaciones; y el D N° 355 del 12 de junio de 1995, del Ministerio de Economía, Fomento y Reconstrucción, Reglamento sobre Áreas de Manejo y Explotación de Recursos Bentónicos. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Antofagasta. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+René Moraga Espinoza, Capitán de Fragata LT, Capitán de Puerto de Antofagasta.
