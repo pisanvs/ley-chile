@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.513, de fecha 23 de julio de 2021, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 9169-20, correspondiente al inmueble ubicado en Chiguayante 0740 DP 24 Volcán Sn José 3, Rol de Avalúo Nº 9169-20, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Serviu, con una superficie aproximada de 42,98 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "El Volcán III 2021". La Comisión de Peritos integrada por los señores Patricia Morales Rivera, Constructor Civil; Maximiliano Cortés Caiozzi, Ingeniero Agrónomo y Pamela Andrea Campos López, Constructor Civil, mediante Informe de fecha 25 de junio de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $22.947.287, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 79 del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
