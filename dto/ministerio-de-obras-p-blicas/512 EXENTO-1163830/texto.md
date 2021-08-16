@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 512 de 19 de julio de 2021, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 113 para la obra: MEJORAMIENTO RUTA NAHUELBUTA. SECTOR B. SUBSECTOR 5: VARIANTE RENAICO - HUEQUÉN, Región de la Araucanía, que figura a nombre de HIDALGO ESCOBAR CRICERIO SEGUN, rol de avalúo 1438-111 de la comuna de Angol, superficie 30.049 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 5 de 6 de enero de 2021, integrada por Mónica del Carmen Conejeros Rudloff, Karin Alicia Ernst Elizalde y Francisco Covarrubias Noé, fijó con fecha 17 de febrero de 2021, el valor provisional de las indemnizaciones en la cantidad de $68.411.400 para el lote Nº 113. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
