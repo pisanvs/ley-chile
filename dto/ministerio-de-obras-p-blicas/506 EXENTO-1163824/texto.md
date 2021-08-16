@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 506 de 19 de julio de 2021, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 1 para la obra: CONCESION INTERNACIONAL RUTA 5. TRAMO COLLIPULLI - TEMUCO. SECTOR: CALLE DE SERVICIO METRENCO PONIENTE. KM. 683.400,00 A KM. 684.000,00, Región de la Araucanía, que figura a nombre de CUMILAF CHEUQUEPAN DOMINGO, rol de avalúo 7008-1 de la comuna de Padre las Casas, superficie 85 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 216 de 3 de septiembre de 2020, integrada por Rodrigo Alexis Escobar Fernández, Carlos Roberto Alarcón Villegas y Evaldo Roberto Contreras Roa, fijó con fecha 16 de octubre de 2020, el valor provisional de las indemnizaciones en la cantidad de $1.308.500 para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
