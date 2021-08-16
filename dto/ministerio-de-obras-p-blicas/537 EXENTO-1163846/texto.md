@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº537, de 23 de julio de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 3, para la obra: REPOSICION PUENTE FUTA Y ACCESOS, que figura a nombre de BORQUEZ HIPP ALFREDO MAXIMILIANO, rol de avalúo 2428-30, Comuna de VALDIVIA, REGION DE LOS RÍOS, superficie 441 m2. La Comisión de Peritos integrada por CAROLINA ALEJANDRA BRITO RAMOS, ANGEL MAURICIO CACERES BARRA y DORY GISELA DONOSO SALGADO, mediante informe de tasación de fecha 30 de diciembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $1.792.000.- para el lote Nº3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
