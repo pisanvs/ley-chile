@@ -56,13 +56,15 @@ No podrán contraer matrimonio:
 
 1º Los que se hallaren ligados por vínculo matrimonial no disuelto;
 
-2º Los menores de dieciséis años;
+2° Los que se hallaren ligados por un acuerdo de unión civil vigente, a menos que el matrimonio lo celebre con su conviviente civil;
 
-3º Los que se hallaren privados del uso de razón; y los que por un trastorno o anomalía psíquica, fehacientemente diagnosticada, sean incapaces de modo absoluto para formar la comunidad de vida que implica el matrimonio;
+3º Los menores de dieciséis años;
 
-4º Los que carecieren de suficiente juicio o discernimiento para comprender y comprometerse con los derechos y deberes esenciales del matrimonio, y
+4º Los que se hallaren privados del uso de razón; y los que por un trastorno o anomalía psíquica, fehacientemente diagnosticada, sean incapaces de modo absoluto para formar la comunidad de vida que implica el matrimonio;
 
-5º Los que no pudieren expresar claramente su voluntad por cualquier medio, ya sea en forma oral, escrita o por medio de lenguaje de señas.
+5º Los que carecieren de suficiente juicio o discernimiento para comprender y comprometerse con los derechos y deberes esenciales del matrimonio, y
+
+6º Los que no pudieren expresar claramente su voluntad por cualquier medio, ya sea en forma oral, escrita o por medio de lenguaje de señas.
 
 #### Artículo 6º
 
@@ -344,9 +346,11 @@ El matrimonio termina:
 
 2º Por la muerte presunta, cumplidos que sean los plazos señalados en el artículo siguiente;
 
-3º Por sentencia firme de nulidad, y
+3º Por sentencia firme de nulidad;
 
-4º Por sentencia firme de divorcio.
+4º Por sentencia firme de divorcio, y
+
+5° Por sentencia firme que acoge la solicitud de rectificación de sexo y nombre por razón de identidad de género.
 
 ### Párrafo 2º
 
@@ -390,7 +394,7 @@ De la titularidad y del ejercicio de la acción de nulidad
 
 La titularidad de la acción de nulidad del matrimonio corresponde a cualesquiera de los presuntos cónyuges, salvo las siguientes excepciones:
 
-a) La nulidad fundada en el número 2º del artículo 5º podrá ser demandada por cualquiera de los cónyuges o por alguno de sus ascendientes, pero alcanzados los dieciséis años por parte de ambos contrayentes, la acción se radicará únicamente en el o los que contrajeron sin tener esa edad;
+a) La nulidad fundada en el número 3º del artículo 5º podrá ser demandada por cualquiera de los cónyuges o por alguno de sus ascendientes, pero alcanzados los dieciséis años por parte de ambos contrayentes, la acción se radicará únicamente en el o los que contrajeron sin tener esa edad;
 
 b) La acción de nulidad fundada en alguno de los vicios previstos en el artículo 8º corresponde exclusivamente al cónyuge que ha sufrido el error o la fuerza;
 
@@ -410,7 +414,7 @@ La acción de nulidad del matrimonio sólo podrá intentarse mientras vivan ambo
 
 La acción de nulidad de matrimonio no prescribe por tiempo, salvo las siguientes excepciones:
 
-a) Tratándose de la nulidad fundada en la causal establecida en el número 2º del artículo 5º, la acción prescribirá en un año, contado desde la fecha en que el cónyuge inhábil para contraer matrimonio hubiere adquirido la mayoría de edad;
+a) Tratándose de la nulidad fundada en la causal establecida en el número 3º del artículo 5º, la acción prescribirá en un año, contado desde la fecha en que el cónyuge inhábil para contraer matrimonio hubiere adquirido la mayoría de edad;
 
 b) En los casos previstos en el artículo 8º, la acción de nulidad prescribe en el término de tres años, contados desde que hubiere desaparecido el hecho que origina el vicio de error o fuerza;
 
@@ -472,7 +476,7 @@ Se incurre en dicha causal, entre otros casos, cuando ocurre cualquiera de los s
 
 3º.- Condena ejecutoriada por la comisión de alguno de los crímenes o simples delitos contra el orden de las familias y contra la moralidad pública, o contra las personas, previstos en el Libro II, Títulos VII y VIII, del Código Penal, que involucre una grave ruptura de la armonía conyugal;
 
-4º.- Conducta homosexual;
+4º.- Suprimido;
 
 5º.- Alcoholismo o drogadicción que constituya un impedimento grave para la convivencia armoniosa entre los cónyuges o entre éstos y los hijos, y
 
