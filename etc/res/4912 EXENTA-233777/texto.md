@@ -20,15 +20,13 @@ ser especificada en el
 
 Certificado Fitosanitario
 
-Actinidia spp. Países sin presencia de PSA:
+Actinidia spp. Pseudomonas syringae pv.
 
-La plaga Pseudomonas syringae
+actinidiae, exepto biovar 3,
 
-pv. actinidiae no está presente
+no está presente en (indicar
 
-en (nombre del país de origen del
-
-envío)
+país de origen]).
 
 Aquilegia spp. Sin declaración adicional.
 
@@ -208,18 +206,14 @@ Viola spp. Sin declaración adicional.
 
 Vitis spp. Sin declaración adicional.
 
-2. Se aceptará como declaración adicional alternativa el que el polen proviene de un área o país libre de una plaga.
+2. Se aceptará como declaración adicional alternativa que el polen proviene de un país libre de la plaga.
 
 3. Al arribo al país, la partida será inspeccionada por los profesionales del Servicio destacados en el puerto habilitado de ingreso, quienes verificarán el cumplimiento de los requisitos y condiciones fitosanitarias y, con la documentación adjunta, resolverán su internación.
 
 ### 4. Derógase la resolución Nº 937 de fecha 20 de junio de 1990
 
-5.- Para países con presencia de Pseudomonas syringae pv. actinidiae, que deseen exportar polen de kiwi (Actinidia spp.) a Chile, se requerirá que:
+5. Para países con presencia de Pseudomonas syringae pv. actinidiae, excepto biovar 3, que deseen exportar polen de Actinidia spp. a Chile, se requerirá que la Organización Nacional de Protección Fitosanitaria (ONPF) del país exportador envíe, previamente, información oficial referente a las medidas de control, vigilancia y regulaciones asociadas a la plaga en el país, y especificaciones sobre el método de obtención del polen y sobre tratamientos fitosanitarios de control de la enfermedad, en caso de aplicar alguno.
 
-a. La Organización Nacional de Protección Fitosanitaria (ONPF) del país exportador interesado debe enviar información oficial relacionada a las medidas de control, vigilancia y regulaciones asociadas a la enfermedad en el país exportador, además de especificaciones sobre el método de obtención del polen y sobre algún tratamiento fitosanitario de control de la enfermedad para esta vía, en caso de existir alguno.
-
-b. El SAG autorizará el envío, si así corresponde, una vez evaluada la información entregada por la ONPF interesada.
-
-c. Podrán ingresar a Chile, sólo aquellos envíos de polen procedentes de orígenes con presencia de PSA que cuenten con autorización previa del envío, mediante resolución caso a caso.
+Una vez evaluada la información enviada por la ONPF interesada, y si ésta es suficiente y acorde a lo requerido, el SAG autorizará la importación de polen desde dicho origen mediante la emisión de una resolución caso a caso, previa solicitud por parte del importador.
 
 Anótese, comuníquese y publíquese.- Dionisio Faulbaum Mayorga, Director Nacional.
