@@ -16,6 +16,8 @@ Los contratos que celebre la Administración del Estado, a título oneroso, para
 
 Para los efectos de esta ley, se entenderán por Administración del Estado los órganos y servicios indicados en el artículo 1º de la ley Nº18.575, salvo las empresas públicas creadas por ley y demás casos que señale la ley.
 
+Esta ley también será aplicable al Consejo Nacional de Televisión.
+
 #### Artículo 2º
 
 Para los efectos de esta ley se entenderá por contrato de suministro el que tiene por objeto la compra o el arrendamiento, incluso con opción de compra, de productos o bienes muebles.
@@ -103,6 +105,8 @@ En las licitaciones que tengan por objeto la contratación por parte de las muni
 Para la ponderación del criterio señalado en el inciso anterior y el cálculo de las remuneraciones, se considerará únicamente al personal que labore directamente en acciones operativas del servicio.
 
 El porcentaje mencionado en el inciso segundo se distribuirá en un 70% respecto del monto de las remuneraciones y en un 30% respecto de las condiciones de empleo ofrecidas que superen los mínimos legales, tales como que la oferta comprenda la contratación del mayor número de trabajadores que desempeñe dichas funciones en virtud del contrato anterior, condiciones de bienestar u otras que la municipalidad establezca en cada caso. Será requisito de admisibilidad de la oferta la presentación, por parte de la empresa postulante, de una dotación suficiente de trabajadores que impida exceder los límites legales establecidos para la jornada de trabajo, incluidas las horas extraordinarias, y de un programa de gestión de los riesgos presentes en el trabajo, el que deberá observar las disposiciones legales y demás normas que regulen estos riesgos, así como los criterios de gestión definidos en la Política Nacional de Seguridad y Salud en el Trabajo.
+
+En las licitaciones que tengan por objeto proveer de servicios de alimentación a establecimientos de educación parvularia, básica y media administrados por la Junta Nacional de Auxilio Escolar y Becas y en aquellos establecimientos de educación superior y de formación técnico-profesional o similares que contengan puntos de canje asociados a la tarjeta de la ley de la beca BAES, establecimientos de salud pública, establecimientos penitenciarios y casinos y cafeterías que estén dentro o sean parte de alguna institución u organismo de la administración del Estado, las bases de licitación deberán contemplar condiciones para la provisión de servicios de alimentación de personas que padezcan enfermedades por intolerancias alimentarias, enfermedad celíaca o alergia alimentaria.
 
 En los contratos de prestación de servicios para establecimientos de educación parvularia, escolar y preescolar, los contratos de trabajo del personal que se desempeña en la manipulación de alimentos deberán contemplar el pago de las remuneraciones de los meses de diciembre, enero y febrero en las mismas condiciones de los meses precedentes, de conformidad con lo dispuesto en el inciso primero del artículo 75 bis del Código del Trabajo.
 

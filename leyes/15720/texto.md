@@ -40,6 +40,10 @@ i) De cualquiera otra medida asistencial.
 
 Los beneficios a que se refieren las letras b), c), d), g), h) e i) del inciso precedente, podrán ser gratuitos o pagados parcialmente por los beneficiarios en los casos, forma, monto y condiciones que establezca el Reglamento General.
 
+El beneficio a que se refiere la letra a) deberá cumplir con lo establecido en el inciso primero del artículo 6 de la ley N° 20.606, sobre composición nutricional de los alimentos y su publicidad.
+
+El reglamento regulará el tipo de alimento que deberá ser entregado por el proveedor. De igual forma, deberá establecer servicios de regímenes especiales para aquellos estudiantes que padezcan celiaquía.
+
 Las Juntas de Auxilio Escolar y Becas destinarán no menos de un 15% de su presupuesto total al Servicio de Becas y Préstamos para los estudiantes capacitados y de escasos recursos económicos. El Departamento General determinará procedimientos para otorgar las becas y préstamos y para asegurar la devolución de éstos, así como para fiscalizar el efectivo aprovechamiento de ambos beneficios en conformidad a esta ley.
 
 ## Título II

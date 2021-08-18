@@ -12,11 +12,13 @@ Los fabricantes, productores, distribuidores e importadores de alimentos deberá
 
 #### Artículo 2°
 
-Los fabricantes, productores, distribuidores e importadores de alimentos deberán informar en sus envases o etiquetas los ingredientes que contienen, incluyendo todos sus aditivos expresados en orden decreciente de proporciones, y su información nutricional, expresada en composición porcentual, unidad de peso o bajo la nomenclatura que indiquen los reglamentos vigentes.
+Los fabricantes, productores, distribuidores e importadores de alimentos deberán informar en sus envases o etiquetas los ingredientes que contienen, incluyendo todos sus aditivos expresados en orden decreciente de proporciones, y su información nutricional, expresada en composición porcentual, unidad de peso o bajo la nomenclatura que indiquen los reglamentos vigentes. Asimismo, deberán informar en sus envases o etiquetas la calidad de "libre de gluten" de los alimentos que cumplan con lo dispuesto en el inciso cuarto de este artículo.
 
 Será el Ministerio de Salud, mediante el Reglamento Sanitario de los Alimentos, el que determinará, además, la forma, tamaño, colores, proporción, características y contenido de las etiquetas y rótulos nutricionales de los alimentos, velando especialmente por que la información que en ellos se contenga sea visible y de fácil comprensión por la población.
 
 El etiquetado a que se refiere el inciso anterior deberá contemplar, al menos, los contenidos de energía, azúcares, sodio, grasas saturadas y los demás que el Ministerio de Salud determine.
+
+Los alimentos que se etiqueten como "libre de gluten" deberán cumplir con las condiciones que fije el Reglamento Sanitario de los Alimentos para que sean calificados como tales, y contar con un programa de buenas prácticas de fabricación, que será establecido por la autoridad sanitaria competente.
 
 #### Artículo 3°
 
@@ -26,7 +28,7 @@ No se podrán adicionar a los alimentos, ingredientes o aditivos en concentracio
 
 #### Artículo 4°
 
-Los establecimientos de educación parvularia, básica y media del país deberán incluir, en todos sus niveles y modalidades de enseñanza, actividades didácticas y físicas que contribuyan a desarrollar hábitos de una alimentación saludable y adviertan sobre los efectos nocivos de una dieta excesiva en grasas, grasas saturadas, azúcares, sodio y otros nutrientes cuyo consumo en determinadas cantidades o volúmenes pueden representar un riesgo para la salud.
+Los establecimientos de educación parvularia, básica y media del país deberán incluir, en todos sus niveles y modalidades de enseñanza, actividades didácticas y físicas que contribuyan a desarrollar hábitos de una alimentación saludable y adviertan sobre los efectos nocivos de una dieta excesiva en grasas, grasas saturadas, azúcares, sodio y otros nutrientes cuyo consumo en determinadas cantidades o volúmenes pueden representar un riesgo para la salud. Asimismo, deberán informar y advertir a los estudiantes, padres, madres y apoderados, sobre la existencia de las diversas patologías relacionadas con intolerancias alimentarias, enfermedad celíaca y alergias alimentarias, con la finalidad de precaver sintomatología asociada y prevenir alteraciones de la salud.
 
 Los establecimientos educacionales del país deberán incorporar actividad física y práctica del deporte, a fin de fomentar en sus estudiantes el hábito de una vida activa y saludable.
 
@@ -37,6 +39,10 @@ El Ministerio de Salud determinará los alimentos que, por unidad de peso o volu
 La información indicada precedentemente, incluyendo sus contenidos, forma, tamaño, mensajes, señalética o dibujos, proporciones y demás características, se determinará por el Ministerio de Salud en el Reglamento Sanitario de los Alimentos. Asimismo, se podrán fijar límites de contenido de energía y nutrientes en los alimentos a que alude el inciso anterior.
 
 La Autoridad Sanitaria, en ejercicio de sus atribuciones, podrá corroborar con análisis propios la información indicada en la rotulación de los alimentos, sin perjuicio del ejercicio de sus facultades fiscalizadoras.
+
+#### Artículo 5 bis
+
+Los alimentos procesados que no contengan gluten se etiquetarán mediante la expresión "libre de gluten", acompañada de un logo o símbolo de una espiga tachada. Las demás características se determinarán en el Reglamento Sanitario de los Alimentos. En todo caso, dicha información deberá ir en la parte frontal del envase de los respectivos alimentos, de manera que se garantice su visibilidad.
 
 #### Artículo 6°
 
@@ -73,6 +79,12 @@ En ningún caso se podrán utilizar ganchos comerciales tales como juguetes, acc
 En el envase o etiqueta de todo producto alimentario que haya sido comercializado en Chile y que contenga entre sus ingredientes o haya utilizado en su elaboración soya, leche, maní, huevo, mariscos, pescado, gluten o frutos secos será obligatorio indicarlo.
 
 El reglamento respectivo establecerá los requisitos que deberá contener el referido etiquetado.
+
+#### Artículo 9 bis
+
+Los establecimientos de comercio que vendan alimentos envasados secos, que serán definidos por el Reglamento Sanitario de los Alimentos, y etiquetados como "libre de gluten", deberán disponerlos para su comercialización en góndolas, estantes o vitrinas exclusivas para dichos productos.
+
+Se exceptúa de la obligación establecida en el inciso anterior a las micro y pequeñas empresas definidas por la ley Nº 20.416, que fija normas especiales para las empresas de menor tamaño.
 
 #### Artículo 10
 
