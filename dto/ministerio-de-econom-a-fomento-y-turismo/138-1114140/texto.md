@@ -20,17 +20,19 @@ Decreto:
 
 #### Artículo primero
 
-Créase a partir del año 2017, el Premio Nacional Inspira Tec, el cual tendrá por objetivo conceder un reconocimiento público a aquellas mujeres que se hubieren destacado por su participación, desarrollo e investigación en proyectos del área de la economía digital.
+Créase a partir del año 2017, el Premio Nacional Inspira Tec, el cual tendrá por objetivo conceder un reconocimiento público a aquellas mujeres que se hubieren destacado por su participación, desarrollo e investigación en emprendimientos de base STEM (Ciencia, Tecnología, Ingeniería y Matemáticas).
 
 #### Artículo segundo
 
-El Premio será gestionado por la Subsecretaría de Economía y Empresas de Menor Tamaño, quien determinará cada año la integración del jurado y sus respectivas categorías, mediante resolución de la Subsecretaría de Economía y Empresas de Menor Tamaño, quien presidirá el jurado.
-
-El premio será otorgado entre los meses de agosto y noviembre de cada año.
+El Premio será otorgado anualmente y será gestionado por la Subsecretaría de Economía y Empresas de Menor Tamaño, quien determinará cada año, por medio de resolución, sus condiciones generales, la integración del jurado y sus respectivas categorías, además de presidir el jurado.
 
 #### Artículo tercero
 
 Una resolución, dictada por la Subsecretaría de Economía y Empresas de Menor Tamaño, establecerá las reglas por las cuales se organizará la premiación.
+
+La Subsecretaría de Economía y Empresas de Menor Tamaño podrá mandatar a título gratuito la gestión y/u organización total o parcial del premio a un organismo público o privado, el que será designado mediante resolución fundada con arreglo a lo dispuesto en el artículo 9º del decreto con fuerza de ley Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575.
+
+Lo anterior es sin perjuicio de la eventual contratación de los bienes y servicios necesarios para la ceremonia de premiación que la Subsecretaría de Economía y Empresas de Menor Tamaño realice con arreglo a la ley Nº 19.886 y su reglamento, en la medida que cuente con la disponibilidad presupuestaria.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Natalia Piergentili Domenech, Ministra de Economía, Fomento y Turismo (S).
 
