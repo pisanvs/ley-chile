@@ -120,7 +120,7 @@ En el proceso de selección, una vez terminada la fase de digitación por Serviu
 
 En caso de que los PSAT estimen una aplicación errónea de los factores de prelación, podrán apelar a la Seremi respectiva, durante los siguientes 5 días hábiles tras comunicarse dichos resultados. Las apelaciones serán revisadas y respondidas mediante oficio por la Seremi respectiva.
 
-10. El monto del subsidio a asignar para las unidades habitacionales que conforman el proyecto, será de hasta 200 UF para financiar obras del Título I Equipamiento Comunitario y/o Mejoramiento del Entorno en sus letras a.1) y a.3) y del Título II Mejoramiento de la Vivienda, letra b. 4) del artículo 5º del DS Nº 255 (V. y U.), de 2006, en coherencia a los aspectos deficitarios identificados en el Diagnóstico Técnico Constructivo de la Copropiedad.
+10. El monto del subsidio a asignar para las unidades habitacionales que conforman el proyecto, será de hasta 272 UF para financiar obras del Título I Equipamiento Comunitario y/o Mejoramiento del Entorno en sus letras a.1) y a.3) y del Título II Mejoramiento de la Vivienda, letra b. 4) del artículo 5º del DS Nº 255 (V. y U.), de 2006, en coherencia a los aspectos deficitarios identificados en el Diagnóstico Técnico Constructivo de la Copropiedad.
 
 Sin perjuicio de lo anterior, podrán imputarse a este subsidio las obras de mantención, que tengan relación con la reparación al interior de la vivienda, previstas como consecuencia de la intervención en los bienes comunes, restituyendo a lo menos el estado previo a la intervención, siempre que dicho ítem no exceda el 45% del monto destinado a la reparación y/o mejoramiento de bienes comunes.
 
