@@ -56,9 +56,9 @@ a) Prorrogar los plazos para el pago de las cuotas del impuesto territorial con 
 
 b) Prorrogar los plazos para el pago de las cuotas del impuesto territorial con vencimiento el 30 de abril y el 30 de junio de 2021, las cuales se podrán pagar en dos cuotas, iguales y reajustadas, sin multas ni intereses, en los plazos de pago de las mismas cuotas correspondientes al impuesto territorial del primer semestre del año 2022. Esta prórroga aplicará respecto de un bien raíz de propiedad de empresas cuyas ventas del giro en el año comercial 2020 no excedan de la cantidad de 100.000 unidades de fomento y que experimenten una disminución de, al menos, un 30% del promedio mensual de sus ventas del giro de los meses de enero y febrero del año 2021, respecto del promedio mensual de sus ventas del giro del mismo período del año 2020, debidamente reajustadas.
 
-4) Condonación extraordinaria de intereses penales y multas: Facúltase a la Tesorería General de la República y al Servicio de Impuestos Internos, por un plazo de 90 días contado desde la publicación del presente decreto supremo en el Diario Oficial, para condonar los intereses y las multas que corresponda respecto de pagos del o los impuestos fiscales, aduaneros y territoriales, cuyo cobro se rija por el Título V del Libro III del Código Tributario, que se encuentren vencidos al 1 de marzo de 2021, según lo siguiente:
+4) Condonación extraordinaria de intereses penales y multas: Facúltase a la Tesorería General de la República y al Servicio de Impuestos Internos, hasta el 31 de diciembre del año 2021, para condonar los intereses y las multas que corresponda respecto de pagos del o los impuestos fiscales, aduaneros y territoriales, cuyo cobro se rija por el Título V del Libro III del Código Tributario, que se encuentren vencidos al 1 de marzo de 2021, según lo siguiente:
 
-a) Aplicar un 90% de condonación sobre los intereses y multas que corresponda, en caso de que el contribuyente pague el total del o los impuestos adeudados;
+a) Aplicar un 100% de condonación sobre los intereses y multas que corresponda, en caso de que el contribuyente pague el total del o los impuestos adeudados;
 
 b) Aplicar un 70% de condonación sobre los intereses y multas que corresponda, en caso de que el contribuyente suscriba un convenio de pago por el total de los impuestos adeudados.
 
