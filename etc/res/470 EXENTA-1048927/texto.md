@@ -16,7 +16,7 @@ Considerando:
 
 Resuelvo:
 
-Primero: Delégase en los Jefes de División respectivos la facultad de transcribir los decretos y resoluciones ministeriales que preparen en el desempeño de sus funciones.
+Primero: Delégase en los Jefes de División respectivos la facultad de transcribir las resoluciones suscritas por el Subsecretario de Telecomunicaciones y las que ellos mismos preparen en el desempeño de sus funciones.
 
 Segundo: Delégase en el Jefe de la División Política Regulatoria y Estudios, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones" los documentos relativos a las materias que a continuación se señalan:
 
@@ -60,19 +60,19 @@ Tercero: Delégase en el Jefe de la División Concesiones, la facultad de suscri
 
 16. Oficios que den respuesta a la solicitud de información pública que se presenten en el marco de la ley Nº 20.285, sobre transparencia y acceso a la información de la Administración del Estado, que digan relación a materias de su competencia.
 
-17. Resoluciones de otorgamiento o modificación de permisos limitados de Televisión Satelital.
+### 17. Eliminado
 
-18. Resoluciones de otorgamiento o modificación de permisos experimentales provisorios de Televisión Digital.
+### 18. Eliminado
 
 19. Resoluciones de autorización previa de transferencia, arriendo o cesión de concesiones de servicios de radiodifusión.
 
-20. Resoluciones que aprueban o modifican bases de concursos para el servicio de radiodifusión sonora.
+### 20. Eliminado
 
 21. Resoluciones que excluyen solicitudes presentadas en el marco de concursos de radiodifusión sonora.
 
 22. Resoluciones que rechazan solicitudes de modificación de concesiones de radiodifusión sonora, conforme lo dispuesto en el inciso tercero del artículo 16 de la Ley N° 18.168, General de Telecomunicaciones.
 
-23. Resoluciones que otorgan o renuevan permisos experimentales de servicios limitados de telecomunicaciones.
+### 23. Eliminado
 
 24. Informes relativos a los reclamos de oposición deducidos en contra de la solicitud de otorgamiento o modificación de concesiones de radiodifusión sonora.
 
@@ -86,11 +86,11 @@ Tercero: Delégase en el Jefe de la División Concesiones, la facultad de suscri
 
 29. Resoluciones de autorización previa de transferencia, arriendo o cesión de concesiones de servicios públicos o intermedios de telecomunicaciones.
 
-30. Resoluciones de autorizaciones experimentales en materias de servicios públicos o su modificación.
+### 30. Eliminado
 
 31. Oficios que confieren traslado respecto de la oposición a las solicitudes de concesiones de servicios públicos o intermedios de telecomunicaciones.
 
-### 32. Resoluciones de autorizaciones temporales en servicios públicos
+### 32. Eliminado
 
 33. Resoluciones que designa Comisión de Apertura de Sobres en Concurso de Radiodifusión Sonora.
 
@@ -144,9 +144,9 @@ Décimo: Eliminado.
 
 Décimo primero: Delégase en el Jefe de la División Jurídica, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
 
-1. Oficios requiriendo la representación judicial de la Subsecretaría al Consejo de Defensa del Estado, al tenor de lo dispuesto en el artículo 3º del decreto con fuerza de ley Nº 1 de 1993, del Ministerio de Hacienda, que fijó el texto refundido, coordinado y sistematizado de la Ley Orgánica del Consejo de Defensa del Estado.
+### 1. Eliminado
 
-2. Oficios de reingreso y retiro de actos administrativos, respuestas a requerimientos de informes y demás documentos de la Contraloría General de la República, en aquellos casos que tenga interés esta Subsecretaría, salvo respecto de los actos administrativos y toda otra documentación sobre materias de personal y contratación administrativa de suministro de bienes y prestación de servicios.
+2. Oficios de respuestas a requerimientos de informes y demás documentos de la Contraloría General de la República, en aquellos casos que tenga interés esta Subsecretaría, salvo respecto de los actos administrativos y toda otra documentación sobre materias de personal y contratación administrativa de suministro de bienes y prestación de servicios.
 
 3. Oficios de respuesta a los requerimientos de los Tribunales Ordinarios y Especiales del Poder Judicial, Fiscalía del Ministerio Público, Carabineros de Chile y Policía de Investigaciones relativos a información asociada a numeración telefónica, a autorizaciones de telecomunicaciones otorgadas a personas naturales y/o jurídicas y sus características, a procesos infraccionales regulados en el Título VII de la Ley Nº 18.168, General de Telecomunicaciones, en su calidad de Ministro de fe, y cualquier otro en materias propias del Servicio, salvo respecto de los actos administrativos y toda otra documentación sobre materias de personal y contratación administrativa de suministro de bienes y prestación de servicios.
 
