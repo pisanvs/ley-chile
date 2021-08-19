@@ -804,7 +804,7 @@ De la votación.- La Subsecretaría de Salud Pública conducirá la votación. P
 
 En el caso que el número de entidades con representantes fuera igual o inferior al número de comisionados de la categoría a la que corresponda, se tendrán éstos por elegidos sin necesidad de ser sometidos a votación. El Ministro de Salud designará sin más trámite, al representante de cada entidad por cada plaza vacante, siempre que cumpla con los requisitos de la categoría correspondiente.
 
-Cada asociación científica del listado, facultad de medicina y fundación u organización de pacientes del listado, haya o no presentado representante, tendrá derecho a un voto respecto de cada una de las categorías de integrantes que son sometidos a votación.
+Cada asociación científica del listado, facultad de medicina y fundación u organización de pacientes del listado, haya o no presentado representante, tendrá derecho a un voto respecto de la categoría que le corresponda.
 
 El voto deberá ser comunicado por escrito a la casilla o plataforma que la Subsecretaría de Salud Pública disponga para ello, y deberá ser suscrito por el representante legal, Presidente o Decano según corresponda, o por apoderado que lo represente con poder suficiente para esta diligencia.
 
