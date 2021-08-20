@@ -20,17 +20,11 @@ Asígnase para uso de la Secretaría Regional Ministerial de Arica y Parinacota,
 
 #### Artículo 2º
 
-El vehículo antes individualizado, será conducido por los señores Luis Álvarez Sánchez, Cédula de Identidad Nº6.309.437-4 y Franz Castro Cabezas, Cédula de Identidad Nº13.006.004-8, quienes deberán rendir caución, de acuerdo a lo establecido en el artículo 7 del decreto ley Nº799 de 1974, del Ministerio del Interior.
+Derogado.
 
 #### Artículo 3º
 
-El vehículo antes individualizado deberá ser guardado en los siguientes recintos:
-
-1. Estacionamiento institucional, ubicado en calle 7 de Junio Nº268, Edificio Mirablau, Arica.
-
-2. Domicilio del conductor Luis Álvarez Sánchez, ubicado en La Tranquera Nº2142, Conjunto Sobraya, Arica.
-
-3. Domicilio del conductor Franz Castro Cabezas, ubicado en El Quillay Nº2151, casa Nº3, Condominio Eterna Primavera, Arica.
+Derogado.
 
 Anótese, comuníquese y publíquese.- Ana Vargas Valenzuela, Subsecretaria de Economía y Empresas de Menor Tamaño (S).
 
