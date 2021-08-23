@@ -256,7 +256,7 @@ De las aguas minerales destinadas al consumo o expendio:
 
 Las aguas minerales envasadas destinadas al consumo o expendio deberán provenir de fuentes naturales, oficialmente reconocidas, cumplir las condiciones bacteriológicas exigibles al agua potable, tener un grado de mineralización inferior a un gramo y medio por litro y no sobrepasar los límites que para las siguientes sustancias se indica:
 
-Arsénico 0,05 mg/l
+Arsénico 0,01 mg/l
 
 Bario 1 mg/l
 
