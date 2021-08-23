@@ -776,33 +776,9 @@ correspondientes al personal a nivel central.
 
 C) EN LA JEFATURA DEL DEPARTAMENTO DE RECURSOS HUMANOS:
 
-1) Suscribir y aprobar contrataciones, prórrogas y
+1) Derogado.
 
-término de contratos a honorarios, en lo referido
-
-al personal de dependencia del nivel central del
-
-Servicio:
-
-a) Que se paguen por mensualidades cuya cuantía
-
-no exceda las 36 UTM; y
-
-b) A suma alzada o cualquier otra modalidad de
-
-pago, cuyo monto total no exceda las 36 UTM.
-
-2) Suscribir y aprobar contratos de honorarios, cuya
-
-cuantía total no exceda de 150 UTM, referidos a
-
-personas contratadas para la evaluación y/o
-
-selección de postulantes o beneficiarios
-
-realizadas en el marco de los procedimientos de
-
-asignación de recursos de los Fondos de Cultura;
+2) Derogado.
 
 3) Autorizar permisos con goce de remuneraciones, en
 
