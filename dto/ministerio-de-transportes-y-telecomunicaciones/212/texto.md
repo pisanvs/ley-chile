@@ -1512,6 +1512,16 @@ Adicionalmente, cuando el vehículo reemplazante se haya inscrito en el Registro
 
 Los procesos administrativos iniciados de conformidad con el artículo 89º, continuarán su tramitación con arreglo a las normas vigentes al momento de su iniciación, pero si la infracción fuere constitutiva según las normas contenidas en el presente decreto de la sanción de amonestación por escrito, se aplicará esta última.
 
+#### Artículo 18º
+
+En los casos de servicios de transporte que posean flotas conformadas sólo por buses eléctricos y que operen en las zonas establecidas en el artículo 3º literal b) de la ley Nº 20.378 en el marco de una concesión de uso de vías regulada por la ley Nº 18.696, perímetros de exclusión, condiciones de operación u otra modalidad equivalente, o en el marco de un programa especial de incentivo a la electromovilidad establecido conforme lo dispuesto en el artículo 5º de la citada ley N°20.378; la gestión de carga, depósito, control de flota requeridos para la operación de los mismos, se podrá realizar en Centros de Carga que se regularán por la normativa sectorial vigente al momento de su implementación y por los términos establecidos en los instrumentos de regulación, tales como bases de licitación, condiciones de operación, convenios suscritos u otros.
+
+Los instrumentos indicados deberán considerar exigencias referidas a: suministro de energía y gestión de carga, segregación de carga, requerimientos de áreas de carga, restricciones de uso de áreas para el personal, visitas y usuarios, entre otros afines; estableciendo además las correspondientes sanciones asociadas al incumplimiento de dichas exigencias. Lo anterior, sin perjuicio de la dictación de uno o más actos administrativos que establezcan requisitos generales o especiales aplicables a los Centros de Carga.
+
+Para los efectos de dar cumplimiento a la exigencia a la que se refiere el artículo 45, en relación al artículo 8º letra D "Antecedentes Relativos al Servicio", ambos del presente decreto, estos servicios deberán presentar al Secretario Regional Ministerial de Transportes correspondiente los antecedentes que acrediten que el interesado se encuentra habilitado para el uso de su Centro de Carga.
+
+En los casos en que el servicio cuente con un terminal, para los efectos de lo previsto en el citado artículo 8º letra D del presente decreto deberá además acreditar que este cumple con las funcionalidades y requerimientos asociados a un Centro de Carga exigidos por la normativa sectorial correspondiente.
+
 Anótese, tómese razón y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Germán Molina Valdivieso, Ministro de Transportes y Telecomunicaciones.
 
 Lo que transcribo para su conocimiento. Saluda a Ud.- Patricia Muñoz Villela, Jefe Depto. Administrativo.
