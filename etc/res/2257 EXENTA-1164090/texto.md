@@ -1,0 +1,9 @@
+ESTABLECE NÓMINA DE ESPECIES OBJETIVO, DE FAUNA ACOMPAÑANTE Y DE PESCA INCIDENTAL SOMETIDAS A LOS ARTÍCULOS 7°A Y 7°C DE LA LEY GENERAL DE PESCA Y ACUICULTURA PARA PESQUERÍAS ARTESANALES DE ANCHOVETA Y JUREL ENTRE LAS REGIONES DE ATACAMA Y COQUIMBO, AÑO 2021
+
+Por resolución exenta N° 2.257, de 16 de agosto de 2021, de esta Subsecretaría, establécese la nómina de especies objetivo, de fauna acompañante y de pesca incidental para las pesquerías artesanales de Anchoveta y Jurel, en el área marítima de las regiones de Atacama y Coquimbo, que se encuentran sometidas al Plan de Reducción del Descarte y de la Captura de Pesca Incidental, autorizado mediante resolución exenta N° 1.468, de 2021, de conformidad con el Artículo 7° A.- de la Ley General de Pesca y Acuicultura, año 2021.
+
+Para los efectos antes señalados, la nómina se divide en tres categorías de especies: especies objetivo (Tabla 1); especies de fauna acompañante FA (Tabla 2), incluyendo especies de FA administradas con cuota global anual de captura (CGA), especies autorizadas como FA por la res. ex. N° 3.115, de 2013, para pesquerías de cerco en las regiones de Atacama y Coquimbo, especies sometidas a regulación de arte de pesca según Res. Ex. N° 3.917, de 2019, especies sometidas al Plan de Acción nacional para la conservación de tiburones (PANT) y la res. ex. N° 2.063, de 2020, que estableció protocolos de devolución de condrictios y especies sin regulación y finalmente especies de pesca incidental (Tabla 3), distinguiendo en cada tabla las especies que tienen prohibición de descarte y aquellas cuya devolución es obligatoria, según se detalla en la resolución extractada.
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 16 de agosto de 2021.- Cristian Espinoza Montenegro, Subsecretario de Pesca y Acuicultura (S).
