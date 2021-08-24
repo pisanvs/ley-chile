@@ -32,9 +32,7 @@ El tramo urbano de la Ruta G-45-H, desde Camino Internacional (E13S) hasta el l�
 
 El tramo urbano de la Ruta G-25, desde Av. Américo Vespucio (E14S) hasta el límite urbano oriente; a través de: Av. La Florida, Av. Camilo Henríquez y Camino San José de Maipo (E11S).
 
-1.5 Agrégase en el acápite 14º, del numeral 3º, Metrópoli de Santiago, lo siguiente:
-
-El sistema vial que interconecta Costanera Norte Río Mapocho (E6O) con Avenida Las Condes (E10O), a través de: Costanera Norte Río Mapocho (E6O) desde Avenida La Dehesa hasta Dos Poniente, nuevo puente sobre río Mapocho y San José de la Sierra.
+1.5 Eliminado.
 
 1.6 Agrégase en el numeral 4º, lo siguiente:
 

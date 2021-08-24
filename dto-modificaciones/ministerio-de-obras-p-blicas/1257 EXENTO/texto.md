@@ -34,9 +34,7 @@ Decreto:
 
 - Ruta G-34, Cruce Ruta 5 (Paso Superior) - Nos - Malloco - Cruce Ruta 78, y su continuidad al Poniente por Av. Manuel Castillo hasta la Ruta G-78 y al Oriente por Camino Internacional en proyecto.
 
-1.3 Actualízase el nombre de las calles y avenidas mencionadas en el acápite 14° del numeral 3°, reemplazándolo por lo siguiente:
-
-- Sistema Oriente Poniente; el Sistema Vial Urbano que interconecta las Rutas 68 y G-21 a través de: Costanera Sur Río Mapocho, nueva conexión vial (puente sobre Río Mapocho antes de calle Lanalhue), Costanera Norte Río Mapocho hasta Av. La Dehesa (incluyendo el tramo en túnel bajo Río Mapocho desde Av. Fermín Vivaceta hasta Puente Lo Saldes), Av. La Dehesa hasta Av. Las Condes y Av. Las Condes hasta la Ruta G-21. También el tramo Av. Kennedy desde Lo Saldes hasta Av. Tabancura y el tramo de Av. Tabancura desde Av. Kennedy hasta Costanera Norte Río Mapocho.
+1.3 Eliminado.
 
 2. Téngase presente que las calles o avenidas declaradas caminos públicos en el presente decreto, sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza y de los Planes Reguladores, como lo ha declarado la Contraloría General de la República en el dictamen N° 5.207, de 2001, entre otros.
 

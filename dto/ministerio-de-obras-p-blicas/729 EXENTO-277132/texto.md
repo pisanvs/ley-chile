@@ -150,7 +150,7 @@ Américo Vespucio hasta el límite urbano Surponiente; a través de Camino Lonqu
 
 . Nuevo Acceso Sur a Santiago, desde Av. Américo Vespucio hasta el límite urbano Sur; a través de: Av. La Serena (4 Oriente), Camino Internacional y Nuevo Enlace Vial.
 
-. Sistema Oriente Poniente; el Sistema Vial Urbano que interconecta las Rutas 68 y G-21 a través de: Costanera Sur Río Mapocho, nueva conexión vial (puente sobre Río Mapocho antes de calle Lanalhue), Costanera Norte Río Mapocho hasta Av. La Dehesa (incluyendo el tramo en túnel bajo Río Mapocho desde Av. Fermín Vivaceta hasta Puente Lo Saldes), Av. La Dehesa hasta Av. Las Condes y Av. Las Condes hasta la Ruta G-21. También el tramo Av. Kennedy desde Lo Saldes hasta Av. Tabancura y el tramo de Av. Tabancura desde Av. Kennedy hasta Costanera Norte Río Mapocho.
+. Sistema Oriente Poniente; el Sistema Vial Urbano que interconecta las Rutas 68 y G-21 a través de: Costanera Sur Río Mapocho, nueva conexión vial (puente sobre río Mapocho antes de calle Lanalhue), Costanera Norte Río Mapocho hasta Av. San José de la Sierra (incluyendo el tramo en túnel bajo río Mapocho desde Av. Fermín Vivaceta hasta Puente Lo Saldes), Av. San José de la Sierra hasta Av. Las Condes y Av. Las Condes hasta la ruta G-21. También el tramo de Av. Kennedy desde Lo Saldes hasta Av. Tabancura y el tramo de Av. Tabancura desde Av. Kennedy hasta Costanera Norte río Mapocho.
 
 El sistema vial que interconecta Costanera Norte Río Mapocho (E6O) con Avenida Las Condes (E10O), a través de: Costanera Norte Río Mapocho (E6O) desde Avenida La Dehesa hasta Dos Poniente, nuevo puente sobre río Mapocho y San José de la Sierra.
 
