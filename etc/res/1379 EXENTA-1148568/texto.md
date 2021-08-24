@@ -80,6 +80,14 @@ _______________
 
 6 De acuerdo a lo señalado por la SEC mediante oficio N° 659 de fecha 4 de diciembre de 2019, el registro de gas barrido y quema controlada no son materias de competencia de la SEC.
 
+B) Medidas no regulatorias
+
+.
+
+_______________________
+
+(1) De acuerdo a lo señalado por la SEC mediante oficio Nº 659, de fecha 4 de diciembre de 2019, la medida de política pública que tiene como propósito la elaboración de normativa general o autorregulación en temas de medio ambiente (en este caso, control de emisiones de COV's), no forma parte de las facultades de esa Superintendencia debido a que no dispone de atribuciones para aprobar proyectos de ingeniería.
+
 #### Artículo cuarto (art. primero)
 
 <!-- parte:10152518 -->
@@ -146,6 +154,8 @@ Ministerio del Medio Ambiente. Al Ministerio del Medio Ambiente le corresponder�
 
 A) Medidas no regulatorias
 
+.
+
 #### Artículo duodécimo (art. primero)
 
 <!-- parte:10152526 -->
@@ -164,11 +174,25 @@ ________________
 
 (8) Según lo señalado por la Seremi de Medio Ambiente de la Región de Valparaíso, a través de correo electrónico de fecha 30 de junio de 2020, la administración de todas las plataformas recaen en el nivel central. La plataforma se encuentra en la dirección www.airecoo.mma.gob.cl
 
-#### Artículo décimotercero (art. primero)
+#### Artículo decimotercero (art. primero)
+
+<!-- parte:10263103 -->
+
+Superintendencia del Medio Ambiente. A la Superintendencia del Medio Ambiente le corresponderá registrar y reportar el estado de avance respecto de las siguientes medidas, de acuerdo a los indicadores y medios de verificación que se señalan a continuación:
+
+A) Medidas regulatorias
+
+.
+
+B) Medidas no regulatorias
+
+.
+
+#### Artículo décimocuarto (art. primero)
 
 <!-- parte:10152527 -->
 
-tercero. Informe de estado de avance. La SMA elaborará anualmente un informe de estado de avance del Plan, para lo cual los organismos públicos señalados reportarán en el mes de enero de cada año el registro de las actividades realizadas en el año calendario anterior, en la forma y modo que establezca la Superintendencia.
+cuarto. Informe de estado de avance. La SMA elaborará anualmente un informe de estado de avance del Plan, para lo cual los organismos públicos señalados reportarán en el mes de enero de cada año el registro de las actividades realizadas en el año calendario anterior, en la forma y modo que establezca la Superintendencia.
 
 #### Artículo transitorio (art. primero)
 
