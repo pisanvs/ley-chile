@@ -70,6 +70,14 @@ _______________
 
 6 De acuerdo a lo señalado por la SEC mediante oficio N° 659 de fecha 4 de diciembre de 2019, el registro de gas barrido y quema controlada no son materias de competencia de la SEC.
 
+B) Medidas no regulatorias
+
+.
+
+_______________________
+
+(1) De acuerdo a lo señalado por la SEC mediante oficio Nº 659, de fecha 4 de diciembre de 2019, la medida de política pública que tiene como propósito la elaboración de normativa general o autorregulación en temas de medio ambiente (en este caso, control de emisiones de COV's), no forma parte de las facultades de esa Superintendencia debido a que no dispone de atribuciones para aprobar proyectos de ingeniería.
+
 #### Artículo cuarto
 
 Intendencia Regional de Valparaíso. A la Intendencia Regional de Valparaíso le corresponderá registrar y reportar el estado de avance de las siguientes medidas, de acuerdo a los indicadores y medios de verificación que se señalan a continuación:
@@ -118,6 +126,8 @@ Artículo undécimo. Ministerio del Medio Ambiente. Al Ministerio del Medio Ambi
 
 A) Medidas no regulatorias
 
+.
+
 Artículo duodécimo. Seremi del Medio Ambiente. A la Seremi del Medio Ambiente le corresponderá registrar y reportar el estado de avance respecto de las siguientes medidas, de acuerdo a los indicadores y medios de verificación que se señalan a continuación:
 
 A) Medidas regulatorias
@@ -134,7 +144,19 @@ ________________
 
 #### Artículo decimo
 
-tercero. Informe de estado de avance. La SMA elaborará anualmente un informe de estado de avance del Plan, para lo cual los organismos públicos señalados reportarán en el mes de enero de cada año el registro de las actividades realizadas en el año calendario anterior, en la forma y modo que establezca la Superintendencia.
+tercero. Superintendencia del Medio Ambiente. A la Superintendencia del Medio Ambiente le corresponderá registrar y reportar el estado de avance respecto de las siguientes medidas, de acuerdo a los indicadores y medios de verificación que se señalan a continuación:
+
+A) Medidas regulatorias
+
+.
+
+B) Medidas no regulatorias
+
+.
+
+#### Artículo decimo
+
+cuarto. Informe de estado de avance. La SMA elaborará anualmente un informe de estado de avance del Plan, para lo cual los organismos públicos señalados reportarán en el mes de enero de cada año el registro de las actividades realizadas en el año calendario anterior, en la forma y modo que establezca la Superintendencia.
 
 #### Artículo transitorio
 
