@@ -56,8 +56,6 @@ Resuelvo:
 
 3. Remítase copia de la presente resolución exenta al Sr. Alcalde de la comuna de Puerto Varas, a fin que tome conocimiento de lo resuelto precedentemente.
 
-> **Nota.** El numeral 1º de la Resolución 669 Exenta, Vivienda, publicada el 06.12.2021, suspende el plazo dispuesto por la presente norma, modificado por Res. Ex. Nº 486, de fecha 14.09.2021, que prorroga por plazo que se señala, la postergación de permisos de subdivisión, loteo o urbanización predial y de construcciones en las zonas que indica, de conformidad a lo señalado en la ley 21.202, de 2020, relacionado con el Art. 117 de la LGUC. Asismismo, indica tener presente que el plazo que se suspende, se retomará, de pleno derecho, al día siguiente de finalizada totalmente la Alerta Sanitaria.
-
 Anótese, publíquese, comuníquese y transcríbase.- Jorge Guevara Stephens, Secretario Regional Ministerial de Vivienda y Urbanismo Región de Los Lagos.
 
 Lo que transcribo a usted para su conocimiento.- Marcelo González Gacitúa, Ministro de Fe.
