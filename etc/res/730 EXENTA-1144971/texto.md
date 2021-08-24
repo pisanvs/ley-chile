@@ -100,8 +100,6 @@ Resolución:
 
 .
 
-> **Nota.** El numeral 1 de la Resolución 437 Exenta, Vivienda, publicada el 04.04.2025, modifica el cuadro inserto en el numeral 5.1 del resulevo 5 de la presente norma, en el sentido de ajustar los montos de subsidio asignados a las copropiedades identificadas en las filas número 30, 31, 32, 34 y 35.
-
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
