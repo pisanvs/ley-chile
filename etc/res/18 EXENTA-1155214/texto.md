@@ -138,7 +138,7 @@ c) Módulo Grupo familiar.
 
 Se deberá incorporar el número de cédula de identidad u otro documento que permita identificar a la persona entrevistada o declarada por el informante, comenzando siempre por el jefe(a) de hogar.
 
-Para el caso de extranjeros sin RUT, deberá dejarse en blanco el espacio de cédula de identidad, a fin de que este dato sea registrado por el digitador. No corresponde ingresar NIE (Número de Identificación Extranjero).
+Para el caso de extranjeros sin RUT, se deberá completar con su número de pasaporte o número de identificación de su país de origen. Si el integrante corresponde a un recién nacido sin RUT, se deberá dejar el campo en blanco.
 
 . Luego, se deberá registrar el nombre y luego los apellidos de todos los integrantes del grupo familiar.
 
