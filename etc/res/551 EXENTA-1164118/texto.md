@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta N° 551, de 12 de agosto de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Maule, se aprueba el programa de enseñanza a la escuela de conductores no profesionales, Clase B, de propiedad de la sociedad "Servicios a la Conducción y Capacitación Puerta Norte SpA", RUT: 77.258.699-K, nombre de fantasía "Escuela de Conductores Teno SpA". La Escuela de Conductores tendrá como Director a don Ignacio Andrés Puebla Didier, y su sede estará ubicada en Arturo Prat N° 281, segundo piso, comuna de Teno. Las horas pedagógicas autorizadas a la referida Escuela son 8 horas teóricas, 13 horas prácticas, con un total de 21 horas pedagógicas.-
+
+Carlos Miguel Palacios Maldonado, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Maule.
