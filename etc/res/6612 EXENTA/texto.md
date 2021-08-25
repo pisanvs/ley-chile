@@ -44,6 +44,8 @@ FC = Fibra Cruda
 
 EE = Extracto Etéreo
 
+e. Merma: aquellos productos no aptos para su comercialización, pero que no se encuentran vencidos, alterados, adulterados, contaminados o falsificados y que no provocan daño a la salud humana ni animal.
+
 3.- Establécense los siguientes grupos de ingredientes autorizados destinados a la alimentación animal:
 
 a. Cereales, sus productos y subproductos
@@ -73,6 +75,8 @@ l. Productos y subproductos de la industria de alimentación humana
 m. Otros productos y subproductos de la industria
 
 n. Productos y subproductos de fermentación
+
+ñ. Productos y subproductos de la industria de alimentación animal.
 
 4.- Establécese nómina de ingredientes contenidos en cada grupo y su garantía.
 
@@ -132,6 +136,12 @@ N. PRODUCTOS Y SUBPRODUCTOS DE FERMENTACIÓN
 
 .
 
+Ñ. PRODUCTOS Y SUBPRODUCTOS DE LA INDUSTRIA DE PRODUCCIÓN DE ALIMENTOS DE CONSUMO ANIMAL
+
+Producto Garantía
+
+Merma PT, FC, EE
+
 5.- Para la comercialización de los ingredientes no individualizados en el resuelvo 4, los cuales pertenezcan a los grupos señalados en el resuelvo 3, se deberá garantizar a lo menos lo siguiente:
 
 GARANTÍA REQUERIDAA PRODUCTOS NO ESPECIFICADOS EN ESTA RESOLUCIÓN
@@ -155,6 +165,24 @@ Servicio considere necesario.
 iii.Proyecto(s) de rótulo(s) del (de los) ingrediente(s), que dé cumplimiento con lo establecido en el decreto 4/2016, o el que lo reemplace.
 
 iv. Lista de proveedores y adquirentes del (de los) producto(s).
+
+6 Bis. Los establecimientos que produzcan, almacenen, distribuyan, usen, transporten, vendan o enajenen a cualquier título los ingredientes enunciados en el numeral 4 Ñ de la presente resolución deberán:
+
+a. Demostrar que éstos no afectan la salud de los animales, la inocuidad de los productos obtenidos a partir de ellos, ni el medio ambiente.
+
+b. Comunicar inicio de actividades al Servicio.
+
+c. Contar con resolución LENAA actualizada para todas las actividades en que se desempeña.
+
+d. Entregar al Servicio la siguiente documentación:
+
+i. Copia de documento, emitido por la Autoridad Sanitaria Competente, que autoriza al establecimiento a manejar residuos provenientes de la fabricación de alimentos de consumo animal (como bodega de almacenamiento de productos).
+
+ii. Ficha(s) técnica(s) del (de los) producto(s), que señale(n) composición, diagrama de flujo, análisis garantizado, período de validez, análisis de laboratorio, u otro antecedente que el Servicio considere necesario.
+
+iii. Proyecto(s) de rótulo(s) del (de los) ingrediente(s), que dé cumplimiento con lo establecido en el decreto 4/2016, o el que lo reemplace.
+
+iv. Lista de proveedores y adquirientes del (de los) producto(s).
 
 7.- Los ingredientes de origen lipídico, de origen animal o vegetal, podrán ser utilizados en la producción, importación, exportación, almacenamiento, distribución, uso, venta, enajenación y
 
