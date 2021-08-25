@@ -1,0 +1,3 @@
+DESIGNA SECRETARIOS TITULARES Y SUPLENTES EN LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA Y SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE COYHAIQUE
+
+Por resolución Ex. SII Nº 97, del 19 de agosto de 2021, se designó a Paola Rocío Fernández García, RUT 16.210.499-3 en el cargo de Secretaria Titular, en los Tribunales Especiales de Alzada de los Bienes Raíces de la Primera y Segunda Serie; y a doña Gisselle Leal Rosas, RUT 9.779.739-0, en el cargo de Secretaria Suplente, en los Tribunales Especiales de Alzada de los Bienes Raíces de la Primera y Segunda Serie; ambos con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Coyhaique.
