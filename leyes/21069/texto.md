@@ -212,8 +212,6 @@ c) Las organizaciones o personas jurídicas conformadas exclusivamente por pesca
 
 Para acceder al otorgamiento de beneficios por parte del Indespa, los pescadores artesanales y los acuicultores de pequeña escala, sea que postulen individualmente o como integrantes de una organización o persona jurídica, deberán cumplir con los requisitos, criterios y procedimientos que fije el reglamento señalado en el artículo 5 de esta ley.
 
-> **Nota.** El artículo único de la ley 21486, publicada el 17.09.2022, interpreta la letra c) del presente artículo, en el sentido de incluir dentro de las referidas organizaciones de pescadores artesanales, a las organizaciones de primer, segundo y tercer nivel, es decir, organizaciones de base, federaciones y confederaciones.
-
 #### Artículo 12
 
 Otorgamiento de los beneficios. La selección de los proyectos, beneficios o beneficiarios se realizará de conformidad con las disposiciones, parámetros y criterios de priorización señalados en el reglamento y contenidos en las bases respectivas, de acuerdo a lo establecido en el artículo 5 de la presente ley.

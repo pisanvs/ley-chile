@@ -42,9 +42,7 @@ B.- El objetivo de esta ley es la conservación y el uso sustentable de los recu
 
 #### Artículo 1°
 
-C.- En el marco de la política pesquera nacional y para la consecución del objetivo establecido en el artículo anterior, se deberá tener en consideración al momento de adoptar las medidas de conservación y administración así como al interpretar y
-
-aplicar la ley, lo siguiente:
+C.- En el marco de la política pesquera nacional y para la consecución del objetivo establecido en el artículo anterior, se deberá tener en consideración al momento de adoptar las medidas de conservación y administración así como al interpretar y aplicar la ley, lo siguiente:
 
 a) establecer objetivos de largo plazo para la conservación y administración de las pesquerías y protección de sus ecosistemas así como la evaluación periódica de la eficacia de las medidas adoptadas.
 
@@ -60,9 +58,7 @@ d) administrar los recursos pesqueros en forma transparente, responsable e inclu
 
 e) recopilar, verificar, informar y compartir en forma sistemática, oportuna, correcta y pública los datos sobre los recursos hidrobiológicos y sus ecosistemas.
 
-f) considerar el impacto de la pesca en las especies asociadas o dependientes y la preservación del medio ambiente
-
-acuático.
+f) considerar el impacto de la pesca en las especies asociadas o dependientes y la preservación del medio ambiente acuático.
 
 g) procurar evitar o eliminar la sobreexplotación y la capacidad de pesca excesiva.
 
@@ -72,7 +68,19 @@ i) minimizar el descarte tanto de la especie objetivo como de la fauna acompaña
 
 incidental.
 
+j) considerar la perspectiva de género y los efectos que de ella se generen respecto de los objetivos señalados en el artículo 1° D.
+
 Cada cinco años se evaluará la eficacia e implementación de las medidas de conservación y administración.
+
+#### Artículo 1°
+
+D.- La política pesquera nacional y la política nacional de acuicultura deberán favorecer la igualdad de derechos y de oportunidades entre hombres y mujeres dentro del sector, para lo cual procurarán eliminar, en el marco de su competencia, toda forma de discriminación arbitraria basada en el género; la plena participación de las mujeres en los planos cultural, político, económico y social, y el ejercicio de sus derechos humanos y libertades fundamentales. Asimismo, deberán velar por el cumplimiento de las obligaciones contenidas en los tratados internacionales ratificados por Chile en la materia y que se encuentren vigentes.
+
+En la conformación de los Comités Científicos Técnicos, Comités de Manejo, Consejos Zonales de Pesca, Consejo Nacional de Pesca, Comisión Nacional de Acuicultura y, en general, en toda otra instancia de participación que establezcan esta ley u otras leyes relacionadas con los recursos hidrobiológicos, ni los integrantes hombres ni las integrantes mujeres electos podrán superar los dos tercios del total respectivo.
+
+Con todo, si por aplicación de la proporción antedicha la representación de hombres respecto de mujeres, o viceversa, resulta un número decimal menor a uno, se asegurará la participación de al menos un miembro hombre o mujer en la instancia respectiva, primando, en todo caso, la proporción mínima de un tercio.
+
+Las autoridades, en especial las involucradas en la conformación de las instancias de representación o participación, propenderán a la equidad de género en sus actuaciones o concesión de beneficios, en especial al determinar los registros que les corresponda conformar.
 
 #### Artículo 2°
 
@@ -170,9 +178,7 @@ El reglamento determinará las condiciones de habitabilidad y bienestar que debe
 
 26 bis) Observador científico: persona natural designada por la Subsecretaría de Pesca encargada de la observación y recopilación de datos a bordo de naves pesqueras, puntos de desembarque o en plantas de proceso, exclusivamente para la investigación con fines de conservación y administración de los recursos hidrobiológicos.
 
-La recopilación de datos en ningún caso incluirá la individualización de las naves ni de los armadores, los cuales deberán ser codificados para estos efectos. En relación a los tratados internacionales pesqueros de los cuales Chile sea parte, la información del área regulada por
-
-ellos que corresponda a alta mar se entregará de conformidad con las disposiciones del respectivo instrumento internacional.
+La recopilación de datos en ningún caso incluirá la individualización de las naves ni de los armadores, los cuales deberán ser codificados para estos efectos. En relación a los tratados internacionales pesqueros de los cuales Chile sea parte, la información del área regulada por ellos que corresponda a alta mar se entregará de conformidad con las disposiciones del respectivo instrumento internacional.
 
 La destrucción, sustracción o revelación indebida de los datos recopilados por parte del observador científico constituirá infracción grave al principio de probidad o incumplimiento grave del convenio de administración, según corresponda.
 
@@ -204,6 +210,24 @@ d) Recolector de orilla, alguero o buzo apnea: es la persona que realiza activid
 
 Las categorías antes señaladas no serán excluyentes unas de otras, pudiendo, por tanto, una persona ser calificada y actuar simultánea o sucesivamente en dos o más de ellas, siempre que todas se ejerciten en la misma región, sin perjuicio de las excepciones que contempla el título IV de la presente ley.
 
+28 bis) Actividades conexas a la pesca artesanal: aquellas que, sin ser actividades pesqueras artesanales propiamente tales, son indispensables para las faenas de la pesca artesanal. Son actividades conexas entre otras:
+
+a) Encarnadoras y encarnadores: aquellas personas que preparan el arte de pesca de espineles, colocando la carnada en el respectivo anzuelo.
+
+b) Charqueadoras y charqueadores: aquellas personas que realizan el proceso de secado y salado del pescado.
+
+c) Ahumadoras y ahumadores: aquellas personas que realizan el proceso de cocido de pescado mediante humo.
+
+d) Tejedoras y tejedores: aquellas personas que realizan el armado y remiendo de las redes de la pesca artesanal.
+
+e) Fileteadoras y fileteadores: aquellas personas que apoyan en la limpieza de los productos en el proceso de comercialización directa desde la embarcación al público.
+
+f) Carapacheras y carapacheros: aquellas personas que se ocupan de extraer el producto marino desde el interior del crustáceo para su posterior venta o procesamiento.
+
+g) Desconchadoras y desconchadores: aquellas personas que se ocupan de separar el producto marino de las conchas de mariscos para su posterior comercialización o procesamiento.
+
+Para efectos de facilitar el acceso a los beneficios otorgados por los órganos públicos y privados, podrán elaborarse una o más nóminas o registros de actividades conexas de la pesca artesanal, agrupadas a nivel regional, local, por actividad, antigüedad u otros criterios objetivos en los que los interesados podrán inscribirse voluntariamente.
+
 29) Pesca de investigación: extracción sin fines de lucro de individuos de una especie hidrobiológica o parte de ellos, con la finalidad de obtener datos e información para alguno de los siguientes propósitos: Generar conocimiento científico o tecnológico, realizar actividades de docencia, contar con antecedentes para adoptar medidas de administración o proteger la biodiversidad, el ambiente acuático y el patrimonio sanitario del país. Asimismo, se considerarán pescas de investigación aquellas de carácter exploratorio, de prospección y experimental.
 
 La extracción podrá comprender la captura con retención temporal o permanente de los individuos.
@@ -216,9 +240,7 @@ Las capturas obtenidas mediante pesca de investigación no serán consideradas e
 
 32) DEROGADO.
 
-33) Plan de manejo: compendio de normas y conjunto de acciones
-
-que permiten administrar una pesquería basados en el conocimiento actualizado de los aspectos biopesquero, económico y social que se tenga de ella.
+33) Plan de manejo: compendio de normas y conjunto de acciones que permiten administrar una pesquería basados en el conocimiento actualizado de los aspectos biopesquero, económico y social que se tenga de ella.
 
 34) Porción de agua: espacio de mar, río o lago, destinado a mantener cualquier elemento flotante estable.
 
@@ -300,11 +322,7 @@ La captura de dichos organismos deberá ser autorizada por la Subsecretaría, pr
 
 La determinación de estos puntos se deberá efectuar mediante decreto del Ministerio, según la determinación que efectúe el Comité Científico Técnico.
 
-59) Estado de situación de las pesquerías: Pesquería subexplotada: aquella en que el punto biológico actual es mayor en caso de considerar el
-
-criterio de la biomasa, o menor en el caso de considerar los criterios de la tasa de explotación o de la mortalidad por pesca, al valor esperado del rendimiento máximo sostenible y respecto de la cual puede obtenerse potencialmente un mayor rendimiento. Pesquería en plena explotación: aquella cuyo punto biológico está en o cerca de su rendimiento máximo sostenible. Pesquería sobreexplotada: aquella en que el punto biológico actual es menor en caso de considerar el criterio de la biomasa o mayor en el caso de considerar los criterios de la tasa de explotación o de la mortalidad por pesca, al valor esperado del rendimiento máximo sostenible, la que no es sustentable en el largo plazo, sin potencial para un mayor rendimiento y con riesgo de agotarse o colapsar. Pesquería agotada o colapsada: aquella en que la biomasa del stock es inferior a la biomasa correspondiente al punto biológico límite que se haya definido para la pesquería, no tiene capacidad de ser sustentable y cuyas capturas
-
-están muy por debajo de su nivel histórico, independientemente del esfuerzo de pesca que se ejerza.
+59) Estado de situación de las pesquerías: Pesquería subexplotada: aquella en que el punto biológico actual es mayor en caso de considerar el criterio de la biomasa, o menor en el caso de considerar los criterios de la tasa de explotación o de la mortalidad por pesca, al valor esperado del rendimiento máximo sostenible y respecto de la cual puede obtenerse potencialmente un mayor rendimiento. Pesquería en plena explotación: aquella cuyo punto biológico está en o cerca de su rendimiento máximo sostenible. Pesquería sobreexplotada: aquella en que el punto biológico actual es menor en caso de considerar el criterio de la biomasa o mayor en el caso de considerar los criterios de la tasa de explotación o de la mortalidad por pesca, al valor esperado del rendimiento máximo sostenible, la que no es sustentable en el largo plazo, sin potencial para un mayor rendimiento y con riesgo de agotarse o colapsar. Pesquería agotada o colapsada: aquella en que la biomasa del stock es inferior a la biomasa correspondiente al punto biológico límite que se haya definido para la pesquería, no tiene capacidad de ser sustentable y cuyas capturas están muy por debajo de su nivel histórico, independientemente del esfuerzo de pesca que se ejerza.
 
 60) Rendimiento máximo sostenible: mayor nivel promedio de remoción por captura que se puede obtener de un stock en forma sostenible en el tiempo y bajo las condiciones ecológicas y ambientales predominantes.
 
@@ -316,21 +334,15 @@ a) Sólo podrán participar pescadores artesanales propiamente tales inscritos e
 
 b) La embarcación que se aporte deberá estar inscrita en el Registro Pesquero en la pesquería respectiva;
 
-c) Determinar en forma previa al viaje de pesca las partes en las cuales se distribuirá el resultado de la operación pesquera y los gastos
+c) Determinar en forma previa al viaje de pesca las partes en las cuales se distribuirá el resultado de la operación pesquera y los gastos que se descontarán;
 
-que se descontarán;
-
-d) Los gastos que se pueden descontar sólo podrán ser en víveres, combustibles, lubricantes, en la operación pesquera de recursos pelágicos, así como los gastos directos que irroga un viaje de pesca tales como carnada y descarga
-
-en las demás operaciones pesqueras.
+d) Los gastos que se pueden descontar sólo podrán ser en víveres, combustibles, lubricantes, en la operación pesquera de recursos pelágicos, así como los gastos directos que irroga un viaje de pesca tales como carnada y descarga en las demás operaciones pesqueras.
 
 63) Embarcación de transporte: Nave utilizada para el traslado de capturas de embarcaciones pesqueras, desde la zona de pesca hasta el puerto de desembarque. Estas embarcaciones deberán inscribirse en el registro especial que para estos efectos llevará el Servicio.
 
-64) Política Pesquera Nacional: Directrices y lineamientos mediantes los cuales el Ministerio orienta a los organismos competentes en materia
+64) Política Pesquera Nacional: Directrices y lineamientos mediantes los cuales el Ministerio orienta a los organismos competentes en materia pesquera en la consecución del objetivo de lograr el uso sustentable de los recursos hidrobiológicos, mediante la aplicación del enfoque precautorio, de un enfoque ecosistémico en la regulación pesquera y la salvaguarda de los ecosistemas marinos en que existan esos recursos.
 
-pesquera en la consecución del objetivo de lograr el uso sustentable de los recursos hidrobiológicos, mediante la aplicación del enfoque precautorio, de un enfoque ecosistémico en la regulación pesquera y la salvaguarda de los ecosistemas marinos en que existan esos recursos.
-
-65) Informe Técnico: Acto administrativo mediante el cual el órgano competente expresa los fundamentos de orden científico, ambiental, técnico, económico y social, cuando corresponda, que recomiendan la adopción de una medida de conservación o administración u otra que establezca esta ley. Los datos e información que sustentan el informe técnico serán públicos, así como el informe técnico, el que, además, deberá estar publicado en la página de dominio electrónico de la Subsecretaría.
+65) Informe Técnico: Acto administrativo mediante el cual el órgano competente expresa los fundamentos de orden científico, ambiental, técnico, económico y social, incluida la perspectiva de género, cuando corresponda, que recomiendan la adopción de una medida de conservación o administración u otra que establezca esta ley. Los datos e información que sustentan el informe técnico serán públicos, así como el informe técnico, el que, además, deberá estar publicado en la página de dominio electrónico de la Subsecretaría.
 
 66) Captura: peso físico expresado en toneladas o kilogramos de las especies hidrobiológicas vivas o muertas que en su estado natural hayan sido extraídas ya sea en forma manual o atrapadas o retenidas por un arte, aparejo o implemento de pesca.
 
@@ -344,9 +356,7 @@ pesquera en la consecución del objetivo de lograr el uso sustentable de los rec
 
 71) Punto biológico de referencia: valor o nivel estandarizado que tiene por objeto establecer la medida a partir de la cual o bajo la cual queda definido el estado de situación de las pesquerías, pudiendo referirse a: biomasa, mortalidad por pesca, o tasa de explotación. Serán puntos
 
-biológicos de referencia la biomasa al nivel del máximo rendimiento sostenible, la biomasa límite y la mortalidad o tasa de explotación al
-
-nivel del máximo rendimiento sostenible, u otro que el Comité Científico Técnico defina.
+biológicos de referencia la biomasa al nivel del máximo rendimiento sostenible, la biomasa límite y la mortalidad o tasa de explotación al nivel del máximo rendimiento sostenible, u otro que el Comité Científico Técnico defina.
 
 72) Mitilicultura: Actividad de cultivo, cría, extracción o recolección de semillas de moluscos del grupo mitílidos, para su explotación económica. Que cuenten con título y/o autorización para su extracción y comercialización. A las personas que realizan esta actividad se les denomina mitilicultores.
 
@@ -1360,157 +1370,21 @@ El régimen de acceso a la explotación de los recursos hidrobiológicos para la
 
 No obstante, con el fin de cautelar la preservación de los recursos hidrobiológicos, cuando una o más especies hayan alcanzado un estado de plena explotación, la Subsecretaría, mediante resolución, previo informe técnico debidamente fundamentado del Consejo Zonal de Pesca que corresponda, podrá suspender transitoriamente por categoría de pescador artesanal y por pesquería, la inscripción en el registro artesanal en una o más regiones. En este caso, no se admitirán nuevas inscripciones de embarcaciones ni de personas para esa categoría y pesquería en la región respectiva. Mediante igual procedimiento se podrá dejar sin efecto la medida de suspensión establecida.
 
-En el caso en que se suspenda
+En el caso en que se suspenda transitoriamente la inscripción en el Registro Artesanal para las especies altamente migratorias o demersales de gran profundidad, ella deberá extenderse, simultáneamente, a todas las regiones del país.
 
-transitoriamente la inscripción
+En los casos en que se suspenda transitoriamente la inscripción en el Registro Artesanal, conforme a lo señalado en los incisos anteriores, se paralizará, también, mientras dure tal medida, la recepción de solicitudes y el otorgamiento de autorizaciones industriales. Las naves industriales autorizadas para operar en estas pesquerías quedarán afectas a lo establecido en el régimen de pesquerías declaradas en estado de plena explotación.
 
-en el Registro Artesanal para
+Podrá extenderse el área de operaciones de los pescadores artesanales a la región contigua, cuando éstos realicen actividades pesqueras en las otras regiones. Para establecer esta excepción, se deberá efectuar a través del procedimiento contemplado en los planes de manejo, con el acuerdo de los pescadores artesanales involucrados en la pesquería respectiva y que registren desembarques en los últimos tres años.
 
-las especies altamente migratorias
-
-o demersales de gran profundidad,
-
-ella deberá extenderse,
-
-simultáneamente, a todas
-
-las regiones del país.
-
-En los casos en que se
-
-suspenda transitoriamente la
-
-inscripción en el Registro
-
-Artesanal, conforme a lo
-
-señalado en los incisos
-
-anteriores, se paralizará, también,
-
-mientras dure tal medida, la
-
-recepción de solicitudes y el
-
-otorgamiento de autorizaciones
-
-industriales. Las naves industriales
-
-autorizadas para operar en estas
-
-pesquerías quedarán afectas a lo
-
-establecido en el régimen de
-
-pesquerías declaradas en estado
-
-de plena explotación.
-
-Podrá extenderse el área de
-
-operaciones de los pescadores
-
-artesanales a la región contigua,
-
-cuando éstos realicen actividades
-
-pesqueras en las otras regiones. Para
-
-establecer esta excepción, se deberá
-
-efectuar a través del procedimiento
-
-contemplado en los planes de manejo,
-
-con el acuerdo de los pescadores
-
-artesanales involucrados en la
-
-pesquería respectiva y que registren
-
-desembarques en los últimos tres años.
-
-En cualquier caso que se autorice,
-
-se deberá establecer la
-
-obligatoriedad del uso del sistema
-
-de posicionamiento satelital, con
-
-excepción de las embarcaciones
-
-inscritas en recursos bentónicos, y
-
-de certificación de capturas de las
-
-embarcaciones que operen. Además, se
-
-podrán establecer restricciones de
-
-áreas de operación, número o tamaño
-
-de las embarcaciones.
+En cualquier caso que se autorice, se deberá establecer la obligatoriedad del uso del sistema de posicionamiento satelital, con excepción de las embarcaciones inscritas en recursos bentónicos, y de certificación de capturas de las embarcaciones que operen. Además, se podrán establecer restricciones de áreas de operación, número o tamaño de las embarcaciones.
 
 Mediante igual procedimiento al señalado en el inciso anterior se podrá extender el área de operación de los pescadores artesanales a más de una región, tratándose de pesquerías de especies altamente migratorias y demersales de gran profundidad.
 
-El reglamento determinará el procedimiento de sustitución de embarcaciones artesanales, como asimismo el procedimiento de reemplazo en los casos que se produzcan vacantes en el número de pescadores inscritos, durante el período de suspensión de inscripciones en el registro artesanal. La Subsecretaría determinará, por resolución fundada, el número de inscripciones vacantes que podrán ser reemplazadas, de modo que el esfuerzo de pesca ejercido en cada pesquería no afecte la sustentabilidad del recurso.
+El reglamento determinará el procedimiento de sustitución de embarcaciones artesanales, como asimismo el procedimiento de reemplazo en los casos que se produzcan vacantes en el número de pescadores inscritos, durante el período de suspensión de inscripciones en el registro artesanal. La Subsecretaría determinará, por resolución fundada, el número de inscripciones vacantes que podrán ser reemplazadas, de modo que el esfuerzo de pesca ejercido en cada pesquería no afecte la sustentabilidad del recurso. Asimismo, deberán considerarse criterios que permitan disminuir las brechas de participación de las mujeres en la conformación del registro.
 
-Las modificaciones de las
+Las modificaciones de las embarcaciones artesanales inscritas en pesquerías con acceso cerrado o suspendido, de conformidad con los artículos 24 y 50, que importen un aumento de sus características principales, se someterán al procedimiento de sustitución de esta ley. En caso de que las modificaciones antes referidas correspondan a embarcaciones inscritas sólo en pesquerías con acceso abierto, se entenderán aquéllas como modificación a la inscripción en el Registro Artesanal, de conformidad al reglamento correspondiente.
 
-embarcaciones artesanales inscritas
-
-en pesquerías con acceso cerrado
-
-o suspendido, de conformidad con
-
-los artículos 24 y 50, que importen
-
-un aumento de sus características
-
-principales, se someterán al
-
-procedimiento de sustitución de esta
-
-ley. En caso de que las modificaciones
-
-antes referidas correspondan a
-
-embarcaciones inscritas sólo en
-
-pesquerías con acceso abierto, se
-
-entenderán aquéllas como
-
-modificación a la inscripción en
-
-el Registro Artesanal, de
-
-conformidad al reglamento
-
-correspondiente.
-
-Con todo, ninguna modificación
-
-ni sustitución de una embarcación
-
-artesanal inscrita en una pesquería
-
-con acceso cerrado o suspendido
-
-podrá importar un aumento del
-
-esfuerzo pesquero, ya sea por las
-
-características de la embarcación o
-
-por la modificación o incorporación
-
-de nuevas artes, aparejos o
-
-implementos de pesca, según lo
-
-determine el reglamento.
+Con todo, ninguna modificación ni sustitución de una embarcación artesanal inscrita en una pesquería con acceso cerrado o suspendido podrá importar un aumento del esfuerzo pesquero, ya sea por las características de la embarcación o por la modificación o incorporación de nuevas artes, aparejos o implementos de pesca, según lo determine el reglamento.
 
 #### Artículo 50
 
@@ -3984,7 +3858,7 @@ PÁRRAFO ELIMINADO.
 
 4. Cinco representantes de las organizaciones gremiales del sector pesquero artesanal, designados por sus propias organizaciones, entre los cuales deberán quedar representadas las siguientes macrozonas del país: I, XV y II Regiones; III a IV Regiones; V a IX Regiones e Islas Oceánicas, y X a XII Regiones.
 
-5. Siete consejeros nominados por el Presidente de la República, con el acuerdo de los tres quintos del Senado. Entre estos consejeros deberán nominarse, al menos, un profesional con especialidad en ecología, un profesional universitario relacionado con las ciencias del mar, un abogado y un economista.
+5. Siete consejeros nominados por el Presidente de la República, con el acuerdo de los tres quintos del Senado. Entre estos consejeros deberán nominarse, al menos, un profesional con especialidad en ecología, un profesional universitario relacionado con las ciencias del mar, un abogado y un economista. Al menos dos de los siete consejeros deberán ser mujeres.
 
 No podrán desempeñarse como consejeros de nombramiento presidencial, las siguientes personas:
 
