@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 946 EXENTA, DE 2021
+
+Resolución exenta N° 946, de 16 de agosto de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, aprueba Contrato Ad-Referéndum de Concesión 2 para operar una Planta Revisora Clase AB en la comuna de Concepción, una Planta Revisora Clase AB en la comuna de San Pedro de la Paz y una Planta Revisora Clase AB en la comuna de Yumbel, en la Región del Biobío, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío y el concesionario TÜV Rheinland Andino S.A., con fecha 1 de julio de 2021, cuya vigencia es de ocho años contados desde la publicación del presente extracto en el Diario Oficial.-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
