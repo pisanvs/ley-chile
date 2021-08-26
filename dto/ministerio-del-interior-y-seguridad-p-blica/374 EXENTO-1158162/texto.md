@@ -56,7 +56,7 @@ I.N.R.V.M. PCYL.74-4
 
 Patente PCYL.74.
 
-3. Fiscalía Local de Punta Arenas
+3. Oficina de Atención de Putre, de la Región de Arica y Parinacota.
 
 Vehículo Camioneta
 
