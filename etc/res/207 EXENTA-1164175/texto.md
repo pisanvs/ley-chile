@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL ESTUDIO DE IMPACTO AMBIENTAL PROYECTO "PARQUE EÓLICO ENTRE RÍOS"
+
+De conformidad a lo dispuesto en el artículo 95 inciso final del artículo 91 del DS N° 40/2012 MMA (Reglamento del SEIA), se comunica a toda persona, natural o jurídica, que hubiera presentado observaciones durante la evaluación ambiental del Estudio de Impacto Ambiental del proyecto "Parque Eólico Entre Ríos", sometido al Sistema de Evaluación de Impacto Ambiental por su titular, Empresa AR Coihue SpA, que por resolución exenta N° 207, de fecha 30 de julio de 2021, la Comisión de Evaluación de la Región del Biobío calificó favorablemente el proyecto individualizado. Estas personas, naturales o jurídicas, disponen de un plazo de 30 días hábiles, contados desde la presente notificación, para presentar recurso de reclamación ante el Comité de Ministros, de conformidad a lo dispuesto en los artículos 20 y 29 de la ley N° 19.300.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA del Biobío, ubicadas en Lincoyán N°145, Concepción. Además, podrá acceder a la resolución a través del sitio web www.sea.gob.cl.-
+
+Silvana Suanes Araneda, Secretaria Comisión de Evaluación Región del Biobío.
