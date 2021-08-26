@@ -1,0 +1,33 @@
+AUTORIZA AMPLIACIÓN DEL ALCANCE DE LA ACREDITACIÓN DEL CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES UNIVERSIDAD DE CONCEPCIÓN, A LOS PERFILES OCUPACIONALES QUE INDICA
+
+Núm. 188 exenta.- Santiago, 20 de agosto de 2021.
+
+Visto:
+
+Lo dispuesto en la ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo; en el Reglamento que regula la Comisión del Sistema Nacional de Certificación de Competencias Laborales, establecido por decreto supremo Nº 137, de 2008, del Ministerio del Trabajo y Previsión Social; en el Reglamento que regula la Acreditación de Centros de Evaluación y Certificación de Competencias Laborales y la Habilitación de Evaluadores, aprobado por decreto supremo Nº 29, de 2011, del Ministerio del Trabajo y Previsión Social; la resolución exenta Nº 1.068, de 2011, de la Subsecretaría del Trabajo, sobre aranceles del Sistema Nacional de Certificación de Competencias Laborales; la resolución Nº 281, de 26 de noviembre de 2020, de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, que aprueba el procedimiento de Ampliación de Alcance de Acreditación, para los Centros de Evaluación y Certificación de Competencias Laborales acreditados en el Sistema Nacional de Certificación de Competencias Laborales; la resolución exenta Nº 288, de 11 de noviembre de 2019, de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, que renovó la acreditación de la Universidad de Concepción, como Centro de Evaluación y Certificación de Competencias Laborales; en la resolución exenta Nº 158, de 22 de julio de 2021, de esta Comisión, que cerró la etapa de evaluación de la solicitud de ampliación de alcance presentada por dicho Centro; el acuerdo Nº 929, de 2021, adoptado en la centésima trigésima primera sesión ordinaria del directorio de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, celebrada con fecha 28 de julio de 2021; el Anexo de Acta de Compromiso suscrito por el Centro de Evaluación y Certificación de Competencias Laborales Universidad de Concepción; la resolución exenta Nº 63, de 2020, de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, que establece medidas de gestión interna en la Comisión, que deberá cumplir su personal, para hacer frente a la situación sanitaria relacionada con el brote de Coronavirus (COVID-19); la resolución Nº 7, de 2019, de la Contraloría General de la República; y las facultades que me confiere el artículo 9º de la ley Nº 20.267.
+
+Considerando:
+
+1. Que, la Comisión del Sistema Nacional de Certificación de Competencias Laborales, en adelante ChileValora, es un servicio público funcionalmente descentralizado, con personalidad jurídica y patrimonio propio, cuya función es la implementación de las acciones reguladas en la ley Nº20.267.
+
+2. Que, mediante resolución exenta Nº 281, de 2020, la Comisión del Sistema Nacional de Certificación de Competencias Laborales aprobó el Procedimiento de Ampliación de Alcance de Acreditación de los Centros de Evaluación y Certificación de Competencias Laborales acreditados en el Sistema Nacional de Certificación de Competencias Laborales.
+
+3. Que, mediante resolución exenta Nº 288, de 2019, la Comisión del Sistema Nacional de Certificación de Competencias Laborales renovó la acreditación a la Universidad de Concepción, como Centro de Evaluación y Certificación de Competencias Laborales, por un plazo de 3 años, esto es, desde noviembre de 2019 hasta noviembre de 2022, para prestar los servicios de evaluación y certificación de competencias laborales en los perfiles detallados en este acto administrativo.
+
+4. Que, habiendo presentado una solicitud de ampliación de alcance de su acreditación, se ha determinado que la Universidad de Concepción cumple con los requisitos normativos para efectuar procesos de evaluación y certificación en los sectores, subsectores y perfiles ocupacionales solicitados, conforme se da cuenta en la resolución exenta Nº 158, de 2021, que cierra el proceso de evaluación de dicha solicitud.
+
+5. Que, mediante acuerdo Nº 929, de 2021, adoptado en su centésima trigésima primera sesión ordinaria, celebrada con fecha 28 de julio del mismo año, el órgano colegiado de ChileValora resolvió autorizar la ampliación del alcance al Centro de Evaluación y Certificación de Competencias Laborales Universidad de Concepción a los perfiles ocupacionales detallados en el primer numeral de la parte resolutiva del presente acto administrativo.
+
+6. Que, con fecha 20 de agosto de 2021, se formalizó el anexo de acta de compromiso suscrito por la Universidad de Concepción, en que se compromete a cumplir las obligaciones, compromisos, prohibiciones, restricciones e inhabilidades que la ley Nº 20.267 y sus reglamentos establecen para asegurar la idoneidad, competencia e imparcialidad de los Centros de Evaluación y Certificación de Competencias Laborales.
+
+Resuelvo:
+
+1. Autorízase la ampliación del alcance de la acreditación del Centro de Evaluación y Certificación de Competencias Laborales Universidad de Concepción, RUT Nº 81.494.400-K, en los siguientes perfiles ocupacionales del Sector Suministro de Gas, Electricidad y Agua, Subsector Energías Renovables No Convencionales: Auditor Energético (P-3510-2151-007-V01); Gestor Energético de Instalaciones de Bajo Consumo Energético (P-3510-2151-008-V01) e Instalador(a) de Sistemas Solares Térmicos de Circulación Natural (P-3510-7411-002-V02).
+
+2. Ingrésense los nuevos perfiles ocupacionales en los que se encuentra acreditado el Centro de Evaluación y Certificación de Competencias Laborales Universidad de Concepción, RUT Nº 81.494.400-K, a la ficha que de éste se mantiene en el Registro Nacional de Centros de Evaluación y Certificación de Competencias Laborales.
+
+3. Publíquese la presente resolución en el Diario Oficial, sin perjuicio que las futuras modificaciones de los códigos de los perfiles ocupacionales antes señalados, se notificarán a través del Registro Nacional de Unidades de Competencias Laborales y del Registro Nacional de Centros de Evaluación y Certificación de Competencias Laborales, sin necesidad de una nueva publicación.
+
+4. Téngase presente que la ampliación de la acreditación concedida por el presente acto administrativo, tendrá vigencia desde su publicación en el Diario Oficial y durante el plazo que dure la acreditación del Centro.
+
+Anótese, notifíquese y publíquese en el Diario Oficial.- Francisco Silva Bafalluy, Secretario Ejecutivo, Comisión del Sistema Nacional de Certificación de Competencias Laborales.
