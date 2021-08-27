@@ -38,7 +38,7 @@ Decreto:
 
 4° Déjase establecido que la referida Norma Técnica se mantendrá en la División de Políticas Públicas Saludables y Promoción, de la Subsecretaría de Salud Pública, quienes deberán realizar la oportuna publicación y actualización en la página web del Ministerio de Salud (www.minsal.cl), debiendo velar por la estricta concordancia entre las copias y reproducciones que se emitan con el texto original aprobado.
 
-5° Déjase sin efecto la Norma Técnica N° 168, denominada "Programas Alimentarios", aprobada por decreto exento N° 132, de 12 de mayo de 2016, del Ministerio de Salud.
+5° Déjase sin efecto la Norma Técnica N° 186, denominada "Programas Alimentarios", aprobada por decreto exento N° 132, de 12 de mayo de 2016, del Ministerio de Salud.
 
 6° Remítase copia de la nueva Norma Técnica que por este acto se aprueba, a la Central de Abastecimiento del Sistema Nacional de Abastecimiento del Sistema Nacional de Servicios de Salud, a las Seremis de Salud del País y a los Servicios de Salud del País.
 
