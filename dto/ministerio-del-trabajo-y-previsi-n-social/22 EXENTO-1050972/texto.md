@@ -18,35 +18,45 @@ Apruébase el siguiente Reglamento del Servicio de Bienestar de los Tribunales T
 
 Del objeto y fines del Servicio de Bienestar
 
-#### Artículo 1°
+#### Artículo 1
 
-El Servicio de Bienestar de los Tribunales Tributarios y Aduaneros, en adelante "el Servicio", corresponde a una dependencia de la Unidad Administradora de los Tribunales Tributarios y Aduaneros, en la cual podrán afiliarse los funcionarios de los Tribunales Tributarios y Aduaneros a nivel nacional. Su objetivo consiste en proporcionar a sus afiliados y cargas por las cuales perciban asignación familiar, en la medida que sus recursos lo permitan, asistencia médica, económica y social de acuerdo con las disposiciones del presente Reglamento.
+El Servicio de Bienestar de los Tribunales Tributarios y Aduaneros, en adelante "el Servicio", corresponde a una dependencia de la Unidad Administradora de los Tribunales Tributarios y Aduaneros, a la cual podrán afiliarse el personal de los Tribunales Tributarios y Aduaneros, a nivel nacional. Su objetivo consiste en proporcionar a sus afiliados y cargas familiares, en la medida que sus recursos lo permitan, asistencia médica, económica y social de acuerdo a las disposiciones del presente Reglamento.
+
+El Servicio de Bienestar fundamentará su acción en los siguientes principios:
+
+Equidad: Que exista imparcialidad en el acceso a los beneficios y prestaciones para todos sus afiliados.
+
+Uniformidad: Que en un mismo estado de necesidad debe ser satisfecho por una misma prestación, es decir, deben regir las mismas reglas para todos.
+
+Solidaridad: Que se exprese la idea de unidad, cohesión y colaboración, perseverando en el compromiso del bien común.
+
+Innovación : Que en forma permanente y continua se gestionen nuevos beneficios e implementen herramientas tecnológicas tendientes a optimizar los procesos administrativos, previa incorporación oficial al presente Reglamento.
 
 ## Título II
 
 De la afiliación y de la pérdida de la calificación de afiliado
 
-#### Artículo 2°
+#### Artículo 2
 
 Podrán afiliarse al Servicio de Bienestar los funcionarios de planta y a contrata de los Tribunales Tributarios y Aduaneros.
 
-#### Artículo 3°
+#### Artículo 3
 
 El ingreso al Servicio de Bienestar, así como su permanencia en él, serán absolutamente voluntarios y deberán ser solicitados por escrito al Consejo Administrativo, el que deberá pronunciarse al respecto en la sesión ordinaria siguiente a la fecha de la solicitud.
 
-#### Artículo 4°
+#### Artículo 4
 
 Los afiliados que dejen de pertenecer por cualquier causa al Servicio de Bienestar, no tendrán derecho a solicitar la devolución de sus aportes.
 
-#### Artículo 5°
+#### Artículo 5
 
 Los afiliados tendrán derecho a percibir los beneficios médicos que otorgue el Servicio de Bienestar a contar de la fecha de su ingreso, esto es, una vez aprobada la solicitud respectiva. Los demás beneficios podrán solicitarse 6 meses después que el afiliado se incorpore al Servicio de Bienestar.
 
-#### Artículo 6°
+#### Artículo 6
 
 El afiliado que pierda esta calidad y posteriormente solicite su reincorporación, quedará sujeto a las mismas condiciones que se exigen para aquellos que ingresan por primera vez al Servicio de Bienestar.
 
-#### Artículo 7°
+#### Artículo 7
 
 Son deberes y obligaciones de los afiliados:
 
@@ -56,7 +66,7 @@ b) Autorizar, al solicitar su ingreso o reincorporación al Servicio de Bienesta
 
 c) Mientras mantenga su calidad de afiliado no podrá eximirse, por causa alguna, de la obligación de pagar sus cuotas y cumplir con sus demás compromisos con el Servicio de Bienestar.
 
-#### Artículo 8°
+#### Artículo 8
 
 La calidad de afiliado se pierde:
 
@@ -68,11 +78,9 @@ c) Por desafiliarse del Servicio de Bienestar.
 
 d) Por expulsión.
 
-#### Artículo 9°
+#### Artículo 9
 
-Será causal de expulsión:
-
-a) Impetrar los beneficios establecidos en el presente Reglamento, valiéndose maliciosamente de datos o documentos falsos.
+Será causal de expulsión: impetrar los beneficios establecidos en el presente Reglamento, valiéndose maliciosamente de datos o documentos falsos.
 
 #### Artículo 10
 
@@ -108,7 +116,17 @@ d) No haber sido objeto de medida disciplinaria alguna, en los tres años anteri
 
 #### Artículo 13
 
-En el acto eleccionario cada afiliado votará por una sola persona y se elegirán como representantes los afiliados que obtengan las más altas mayorías. Se entenderán elegidos suplentes los afiliados que tengan las siguientes mayorías. Los suplentes reemplazarán a los titulares de acuerdo al orden de las votaciones obtenidas por ellos.
+En el acto eleccionario, cada afiliado votará por una sola persona y se elegirán como representantes titulares a aquellas que obtengan las dos más altas mayorías. Del mismo modo, se entenderán elegidos en calidad de representantes suplentes aquellos afiliados que obtengan las dos siguientes más altas mayorías. Los suplentes reemplazarán a los titulares, de acuerdo con el orden de las votaciones por ellos obtenidas.
+
+En caso de producirse empate, ello se resolverá de conformidad con lo siguientes factores, enumerados en orden de preferencia:
+
+a) Mayor antigüedad como afiliado al Servicio de Bienestar.
+
+b) Mayor antigüedad en la institución.
+
+c) Mayor antigüedad en la Administración del Estado.
+
+d) Finalmente, en el caso de mantenerse el empate, decidirá el (la) Jefe(a) Superior de la institución, o en quien él (ella) haya delegado su representación en el Consejo Administrativo de Bienestar.
 
 #### Artículo 14
 
@@ -268,11 +286,21 @@ b) Por nacimiento: Se otorgará este beneficio al afiliado que acredite, mediant
 
 c) Por educación: Se otorgará al afiliado y a sus cargas familiares que acrediten, con el correspondiente certificado, seguir cursos regulares de enseñanza preescolar, básica, media, técnica y superior en establecimientos educacionales del Estado o reconocidos por éste. Esta ayuda será extensiva a las cargas familiares que asisten regularmente a establecimientos de enseñanza especial.
 
-d) Por fallecimiento: Ya sea del afiliado, su cónyuge, alguno de sus hijos, padres y cargas familiares. En caso de fallecimiento del afiliado, este beneficio se pagará en primer lugar a la persona que éste haya designado por escrito. A falta de esta designación, el beneficio se pagará siguiendo el siguiente orden: cónyuge sobreviviente, hijos, ascendientes o a quien acredite fehacientemente haber efectuado los gastos del funeral del afiliado.
+d) Por fallecimiento: Ya sea del afiliado, su cónyuge o conviviente civil, alguno de sus hijos, padres y cargas familiares. En caso de fallecimiento del afiliado, este beneficio se pagará en primer lugar a la persona que éste haya designado por escrito. A falta de esta designación, el beneficio se pagará siguiendo el siguiente orden: cónyuge sobreviviente, hijos, ascendientes o a quien acredite fehacientemente haber efectuado los gastos del funeral del afiliado.
+
+En el caso de fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar, se le concederá la ayuda a quien corresponda, con la sola presentación del respectivo certificado de defunción. Si ambos padres fueran afiliados, el beneficio lo recibirá cada uno de ellos.
 
 e) Desgravamen: Al fallecimiento de un afiliado, se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio de Bienestar por concepto de préstamos que éste le hubiese otorgado.
 
-f) Ayuda asistencial: El Servicio de Bienestar podrá otorgar una ayuda en dinero al afiliado que hubiere sufrido daños o pérdidas de sus bienes por situaciones imprevistas o de fuerza mayor, derivadas de siniestros, catástrofes, fenómenos naturales u otros similares, debidamente calificados por el Consejo Administrativo.
+f) Ayuda asistencial: El Servicio de Bienestar podrá otorgar una ayuda en dinero al afiliado que hubiere sufrido daños o pérdidas de sus bienes por situaciones imprevistas o de fuerza mayor, derivadas de siniestros, catástrofes, fenómenos naturales u otros similares, debidamente calificados por el Consejo Administrativo. En el caso que se tratare de afiliados en relación conyugal o convivencia civil, los que sufrieren los daños descritos en el respectivo numeral, el beneficio lo recibirá cada uno de ellos.
+
+g) Por acuerdo de unión civil: Se concederá una ayuda a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieren afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio.
+
+h) Mortinato: El afiliado percibirá esta ayuda que será equivalente a la correspondiente a nacimiento, establecido en la letra b) precedente, en el caso de mortinato a partir del 5º mes de gestación. Si ambos padres fueran afiliados, el beneficio lo recibirá cada uno de ellos.
+
+i) Becas de estudio: Se concederá a aquellos afiliados que cursen carreras técnicas o profesionales, en planteles reconocidos por el Estado.
+
+j) Vacaciones: Se concederá un bono de vacaciones una vez al año. Para gozar de este beneficio, el afiliado deberá tener derecho a vacaciones y hacer uso efectivo de las mismas.
 
 #### Artículo 22
 
@@ -318,9 +346,13 @@ Los beneficios deberán solicitarse dentro de un plazo máximo de 6 meses desde 
 
 El Servicio de Bienestar podrá organizar y financiar, en beneficio de los afiliados y de sus cargas familiares, colonias de veraneo, campamentos familiares, actividades culturales y sociales, artísticas y deportivas, ya sea en forma directa o a través de convenios con otras instituciones.
 
+Igualmente, el Servicio de Bienestar podrá, siempre que sus disponibilidades presupuestarias lo permitan, organizar y financiar para sus afiliados y/o cargas familiares, las celebraciones y/o festividades del Día del Padre, Día de la Madre, Día Internacional de la Mujer, Día de los distintos estamentos.
+
+Los beneficios y prestaciones reglamentarias que entrega el Servicio de Bienestar serán para todos los afiliados, sin perjuicio que también puedan acceder a las actividades de integración, los funcionarios no afiliados, financiadas por el propio interesado no afiliado.
+
 #### Artículo 30
 
-El Servicio de Bienestar podrá organizar y financiar celebración de Fiestas de Navidad y entrega de regalos, para los afiliados y sus cargas familiares, siempre que sus recursos lo permitan.
+El Servicio de Bienestar podrá organizar y financiar celebración de Fiestas Patrias, Fiesta de Navidad y Aniversarios de la institución. Además, el Servicio de Bienestar, siempre que existan recursos presupuestarios, podrá otorgar a sus afiliados y/o cargas familiares, regalos en especies o emolumentos que defina el Consejo Administrativo de Bienestar.
 
 Podrá también, cuando sus recursos financieros lo permitan, entregar bonos de vacaciones a los asociados.
 
@@ -332,17 +364,25 @@ Del financiamiento
 
 #### Artículo 31
 
-El Servicio de Bienestar se financiará con los siguientes recursos:
+El Servicio de Bienestar obtendrá su financiamiento a través de los siguientes recursos:
 
-a) Con la suma consultada anualmente en el Presupuesto de los Tribunales Tributarios y Aduaneros para el Servicio de Bienestar, de acuerdo con sujeción a las normas legales y estatutarias vigentes.
+a) Con una cuota de incorporación que deberán pagar los afiliados, según corresponda, de hasta un 5% correspondiente al sueldo base más la asignación de antigüedad, siendo el Consejo Administrativo el órgano que fijará, de manera fundada, su porcentaje, previa consulta a los afiliados, requiriendo el acuerdo de la mayoría absoluta del total de ellos.
 
-b) Con el aporte mensual del 3% de la remuneración correspondiente al sueldo base, más la asignación de antigüedad que perciba el afiliado.
+b) Con el aporte mensual de sus afiliados en servicio activo de hasta el 3% correspondiente al sueldo base más la asignación de antigüedad, siendo el Consejo Administrativo el órgano que fijará, de manera fundada, su porcentaje, previa consulta a los afiliados, requiriendo el acuerdo de la mayoría absoluta del total de ellos.
 
-c) Con la cuota de incorporación que deberán pagar los afiliados por una sola vez, equivalente al 5% de la remuneración mensual correspondiente al sueldo base, más la asignación de antigüedad que perciban.
+c) Con el aporte mensual de sus afiliados jubilados, de hasta un 3% de sus pensiones, siendo el Consejo Administrativo el órgano que fijará, de manera fundada, su porcentaje.
 
-d) Con los intereses y reajustes que ingresen con motivo de los préstamos que se concedan por el Servicio de Bienestar a sus afiliados.
+d) Con las sumas que anualmente se consulten en el presupuesto de la Unidad Administradora de los Tribunales Tributarios y Aduaneros, y que ésta aportará conforme a las normas legales y estatutarias vigentes.
 
-e) Con los demás bienes o recursos que el Servicio de Bienestar obtenga a cualquier título.
+e) Con los intereses y reajustes de los préstamos que otorgue el Servicio de Bienestar a sus afiliados.
+
+f) Con las comisiones que terceros otorguen al Servicio de Bienestar, en virtud de convenios cursados para el otorgamiento de beneficios a los afiliados.
+
+g) Con las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias.
+
+h) Con los demás bienes o recursos que el Servicio de Bienestar obtenga a cualquier título.
+
+Cada vez que el Consejo Administrativo acuerde la modificación de los porcentajes antes referidos, que no supere el límite del 3%, deberán ser fijados de manera fundada e informados a los afiliados.
 
 #### Artículo 32
 
@@ -354,11 +394,19 @@ En caso de ausencia o impedimento de los giradores mencionados en el inciso ante
 
 Disposiciones transitorias
 
-#### Artículo transitorio
+#### Artículo primero
 
-Para el primer período de funcionamiento del Consejo Administrativo del Servicio de Bienestar (dos años desde su inicio), no serán aplicables las disposiciones contenidas en las letras a) y d) del artículo 12, relativo al representante de los afiliados en esta instancia decidora.
+transitorio.- Para el primer período de funcionamiento del Consejo Administrativo del Servicio de Bienestar (dos años desde su inicio), no serán aplicables las disposiciones contenidas en las letras a) y d) del artículo 12, relativo al representante de los afiliados en esta instancia decidora.
 
 Del mismo modo, no será aplicable lo mencionado en el artículo 24, respecto de la antigüedad de los codeudores solidarios.".
+
+#### Artículo segundo
+
+transitorio.- En virtud de la gradualidad de la entrada en vigencia del Sistema de Remuneraciones del Personal de los Tribunales Tributarios y Aduaneros, a contar del año 2019, la aplicación de los porcentajes diferenciados durante los períodos 2019 - 2020, se efectuará de acuerdo con los sueldos base mensuales de los distintos estamentos, según lo señalado en el DFL Nº 2, de 2018, del Ministerio de Hacienda.
+
+#### Artículo tercero
+
+transitorio.- Durante el primer año de vigencia de la presente modificación, se eximirá a los afiliados del cumplimiento de los requisitos establecidos para acceder al bono de vacaciones, establecido en el artículo 21 letra j) del presente Reglamento.
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Evelyn Matthei Fornet, Ministra del Trabajo y Previsión Social.- Felipe Larraín Bascuñán, Ministro de Hacienda.- Patricia Pérez Goldberg, Ministra de Justicia.
 
