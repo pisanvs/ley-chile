@@ -22,7 +22,7 @@ Decreto:
 
 #### Artículo 1°
 
-Las jurisdicciones marítimas nacionales de Mar Territorial de 12 millas marinas, Zona Contigua de 24 millas marinas y límite exterior de 200 millas marinas de la Zona Económica Exclusiva, entre Punta Puga y las Islas Diego Ramírez, son las determinadas por la operación de trazado técnico que aparecen en la Carta S.H.O.A. N° 8 de 1993 "Punta Puga a Islas Diego Ramírez", a escala 1:2.000.000 del Servicio Hidrográfico y Oceanográfico de la Armada, anexa al presente Decreto y que debe considerarse parte integrante del mismo.
+Las jurisdicciones marítimas nacionales de Mar Territorial de 12 millas marinas, Zona Contigua de 24 millas marinas, límite exterior de 200 millas marinas de la Zona Económica Exclusiva y límite exterior de 200 millas marinas de la Plataforma Continental, entre Punta Puga y las Islas Diego Ramírez, son las determinadas por la operación de trazado técnico que aparecen en la Carta S.H.O.A. N° 8 de 2021 "Punta Puga a Islas Diego Ramírez", a escala 1:2.000.000 del Servicio Hidrográfico y Oceanográfico de la Armada, anexa al presente Decreto y que debe considerarse parte integrante del mismo.
 
 #### Artículo 2°
 
