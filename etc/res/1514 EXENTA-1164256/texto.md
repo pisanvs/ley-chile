@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 1.514, de fecha 24 de octubre de 2017, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, se otorgó reconocimiento oficial a la Escuela de Conductores Profesionales denominada "Formación Integral y Capacitación Calbuco SpA", con nombre de fantasía "IPV SpA Calbuco", RUT 76.680.567-1, cuyo representante legal es doña Massiel Elizabeth Rivera Rivas, RUN 15.741.263-9, para impartir cursos conducentes a la obtención de licencias de conductor profesional clases A2, A3, A4 y A5, en su sede ubicada en calle Pedro Félix N° 611, y clases de mecánica en la misma dirección, ambas en la comuna de Calbuco.-
+
+Luis Américo Toledo Mora, Secretario Regional Ministerial de Transportes y Telecomunicaciones (S) Región de Los Lagos.
