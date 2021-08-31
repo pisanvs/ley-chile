@@ -28,13 +28,23 @@ Resolución:
 
 1. Llámase a formulación de propuestas para la selección de localidades y/o sistema de localidades ubicadas en las regiones de Arica y Parinacota, de Tarapacá, de Antofagasta, de Atacama, de Coquimbo, de Valparaíso, Metropolitana de Santiago, del Libertador General Bernardo O'Higgins, del Maule, de Ñuble, del Biobío, de La Araucanía, de Los Ríos, de Los Lagos, de Aysén y de Magallanes y de la Antártica Chilena, que sean parte del listado de localidades objeto del Programa para Pequeñas Localidades, aprobadas por resolución exenta N° 5.430 (V. y U.), de 2018.
 
+Sin perjuicio de lo anterior, podrán postular al presente llamado aquellas localidades de hasta 20.000 habitantes, que, a pesar de no estar en el listado de localidades objeto del Programa aprobado por resolución exenta Nº 5.430 (V. y U.), de 2018, acrediten contar con al menos un centro proveedor de servicios de educación - nivel básico - y uno de salud, con servicio de atención permanente.
+
 2. Para el presente llamado podrán postular solamente sistemas de localidades correspondientes a un mismo municipio, y donde al menos una de las localidades sea parte del listado de localidades objeto del Programa, aprobadas por la resolución N° 5.430 (V. y U.), de 2018.
+
+A su vez, podrán postular aquellos sistemas de localidades que acrediten contar con al menos una localidad, que cumpla con el requisito de ser centro proveedor de servicios de educación - nivel básico - y de salud - servicio de atención permanente, a pesar de que esta no se encuentre en el listado de Objeto del Programa aprobado por la resolución exenta Nº 5.430 (V. y U.), de 2018.
 
 3. En virtud del presente llamado se seleccionarán 17 localidades y/o sistemas de localidades, que se distribuirán regionalmente según la siguiente tabla:
 
 4. Las propuestas de localidades y/o sistema de localidades a intervenir por el Programa, serán presentadas por los municipios respectivos, conforme al formato indicado por el Minvu para estos efectos, en las oficinas de la Secretaría Regional Ministerial de Vivienda y Urbanismo correspondiente, en adelante Seremi, o a través de la plataforma digital que el Ministerio disponga al efecto. El plazo de presentación de las propuestas será de 84 días corridos, contados a partir del día siguiente de la fecha de publicación de la presente resolución.
 
+Para acceder a la postulación mediante plataforma digital, se deberá solicitar acceso a la Seremi respectiva hasta 7 días corridos antes de la fecha de cierre de las postulaciones, por lo que durante el periodo restante deberán hacerse las postulaciones en la Seremi que corresponda.
+
+Sin perjuicio de lo anterior, y en el caso que la plataforma digital dispuesta para la postulación presente problemas técnicos, las postulaciones deberán entregarse en las oficinas de la Seremi correspondiente en el plazo estipulado.
+
 5. A contar de la fecha de cierre de la recepción de las propuestas, el Encargado del Programa para Pequeñas Localidades de la Seremi respectiva o quien el Seremi designe si no lo hubiere, dispondrá de 7 días corridos para realizar el Examen de Admisibilidad de las mismas, conforme a los requisitos de postulación establecidos en la siguiente tabla:
+
+.
 
 Se calificará la propuesta de postulación de la localidad y/o sistema de localidades como Admisible si cumple con el 100% de los criterios señalados; en caso contrario, se calificará como No Admisible.
 
@@ -58,7 +68,11 @@ La Mesa Regional será presidida por el Secretario Regional del Ministerio de Vi
 
 8. Una vez asignados los puntajes por la Comisión Evaluadora y la Mesa Regional, la Seremi calculará el puntaje final de acuerdo a las ponderaciones definidas para cada etapa y sancionará, según prelación, las localidades seleccionadas mediante resolución del Seremi de Vivienda y Urbanismo, la que debe ser publicada en el Diario Oficial.
 
+Para el presente llamado, no podrán ser seleccionadas aquellas localidades de menos de 5.000 habitantes que contengan uno o más barrios seleccionados, desde el año 2018, por el Programa de Recuperación de Barrios del Ministerio de Vivienda y Urbanismo.
+
 9. Si siguiendo este procedimiento existe un empate entre localidades propuestas, estas se priorizarán de acuerdo a la cantidad de población beneficiada por el Programa.
+
+Para la etapa de Elegibilidad y Mesa Regional, el Encargado del Programa para Pequeñas Localidades de la Seremi respectiva, o quien el Seremi designe, podrá establecer otros factores de puntajes para determinar la evaluación de cada criterio señalado en la presente resolución.
 
 10. El extracto de la presente resolución deberá publicarse en el Diario Oficial y en la página web del Minvu y del Serviu de cada región que participe en el presente llamado.
 
