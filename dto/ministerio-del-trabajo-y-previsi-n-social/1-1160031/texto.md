@@ -42,7 +42,7 @@ Se aplicará también a los niños, niñas y adolescentes sin edad para trabajar
 
 Queda prohibido que todos los niños, niñas y adolescentes, con o sin edad para trabajar, realicen trabajos peligrosos.
 
-El presente reglamento no será aplicable a la prestación de servicios a que se refiere el inciso tercero del artículo 8 del Código del Trabajo. Con todo, las personas que sean alumnos o egresados de una institución de educación superior o de la enseñanza media técnico-profesional, no podrán desarrollar en su práctica profesional actividades que este reglamento establezca como trabajo peligroso.
+El presente reglamento no será aplicable a la prestación de servicios a que se refiere el inciso tercero del artículo 8 del Código del Trabajo. Con todo, los adolescentes, alumnos o egresados, no podrán desarrollar en su práctica profesional las actividades indicadas en este reglamento, si no se garantiza la protección de su salud y seguridad, y si no existe supervisión directa de la actividad a desarrollar, por parte de una persona de la empresa en que realiza la práctica, con experiencia en dicha actividad, lo que deberá ser controlado por el responsable nombrado por el respectivo establecimiento técnico de formación.
 
 #### Artículo 3
 
