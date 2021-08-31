@@ -1,0 +1,5 @@
+RESOLUCIÓN Nº 577 EXENTA, DE 25 AGOSTO DE 2021, QUE ESTABLECE PROCEDIMIENTO DE ACTUALIZACIÓN MENSUAL DE CORREOS ELECTRÓNICOS DE SOSTENEDORES REGISTRADOS ANTE LA SUPERINTENDENCIA DE EDUCACIÓN
+
+Con fecha 25 de agosto de 2021, la Superintendencia de Educación dictó la resolución exenta Nº 577 que "Establece procedimiento de actualización mensual de correos electrónicos de sostenedores registrados ante la Superintendencia de Educación". Dicho procedimiento tiene como objetivos disponer de un mecanismo oficial de actualización de correos electrónicos y determinar la periodicidad de actualización de los sistemas informáticos de la Superintendencia con la información actualizada por los sostenedores. Dicha resolución estará disponible para la comunidad en la página web institucional www.supereduc.cl.-
+
+Francisco Trejo Ortega, Jefe Departamento Jurídico, Superintendencia de Educación.
