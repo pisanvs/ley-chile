@@ -76,6 +76,8 @@ Para la postulación de este llamado, se permitirá que el estándar térmico ex
 
 7. Podrán postular individualmente a este llamado las personas que se encuentren hasta el Tramo del 60% según CSE del RSH. En el caso de postulación grupal, a lo menos el 60% de los postulantes deben cumplir dicha condición pudiendo el 40% restante estar en cualquier tramo de CSE según el RSH.
 
+En el caso de postulaciones individuales de Adultos Mayores, podrán postular personas con un tramo de hasta el 90% de RSH.
+
 8. Para los Proyectos de Ampliación de la Vivienda de este llamado se aplicará como estándar para determinar el tamaño mínimo de los recintos a ejecutar, lo señalado en la resolución exenta N° 6.625, (V. y U.), de 2016 y sus modificaciones, que aprueba Cuadro Normativo y Tabla de Espacios y Usos Mínimos para el Mobiliario para Proyectos del Programa Fondo Solidario de Elección de Vivienda, DS N° 49 (V. y U.), de 2011.
 
 9. Para este llamado se aplicará el Itemizado Técnico de Obras, que fija materias relacionadas con los elementos a intervenir y define las especificaciones técnicas mínimas de construcción, aprobado por resolución exenta Nº 852 (V. y U.), de 2020.
@@ -126,7 +128,11 @@ La prestación de estos servicios se regirá por las disposiciones establecidas 
 
 24. Respecto del ahorro, se podrá postular a este llamado con la mitad del monto mínimo señalado en el DS Nº 27 (V. y U.), de 2016, previo acuerdo con la empresa constructora. Además, dicho ahorro podrá ser acreditado al último día del mes anterior del inicio del proceso de selección.
 
+En el caso de Adultos Mayores, se les eximirá de presentar ahorro para postular a los proyectos de este llamado.
+
 25. Para proyectos que apliquen una rebaja del IVA en su presupuesto, se requerirá el ingreso de un Certificado de Vivienda Social emitido por la DOM, pudiendo dicho certificado ser acompañado con posterioridad a la fase de Presentación del Proyecto, pero antes del inicio de las obras. Para lo anterior, en el expediente se exigirá una Declaración Jurada por parte de la empresa constructora que indique que, en caso de no otorgarse dicho certificado, no podrán modificarse las obras contempladas en el proyecto, aunque el monto de este último se vea incrementado por este motivo, asumiendo por tanto la responsabilidad por las diferencias que pudieren producirse.
+
+26. En el caso de proyectos postulados a este llamado que no hayan sido desarrollados aplicando la tabla de precios elaborada por el Serviu para el año 2021, una vez seleccionado el proyecto el Director del Serviu, haciendo uso de la facultad establecida en el artículo 32 del DS Nº 27 (V. y U.), de 2016, podrá autorizar su modificación para ajustarlo a esos precios. Esta modificación no podrá significar un aumento del presupuesto con que fue seleccionado el proyecto y deberá ser aprobada mediante un acta suscrita por el o los beneficiarios y por un Informe Técnico del Serviu. En caso de que la modificación implique que el proyecto quede desfinanciado, se podrá solicitar a la Seremi la aplicación de la facultad delegada en la letra b) del resuelvo 7 de la resolución Ex. Nº 6.042 (V. y U.) de 2017.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
