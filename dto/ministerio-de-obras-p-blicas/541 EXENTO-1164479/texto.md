@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº541, de 23 de julio de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP, Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº12-A, para la obra: MEJORAMIENTO PASO FRONTERIZO R 9-253-CH,S:PTO NATALES-CASAS VIEJAS, que figura a nombre de PEREZ BARRIA FERNANDO ENRIQUE, rol de avalúo 1008-103, Comuna de NATALES, REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA, superficie 17 m2. La Comisión de Peritos integrada por BEATRIZ VERA MONTAÑA, HUGO JOSÉ MANSILLA CÁRDENAS y JOSÉ LUIS SUBIABRE AGUILAR, mediante informe de tasación de 05 de noviembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $322.077, para el lote Nº12-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
