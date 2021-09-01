@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº579, de 29 de julio de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 2, para la obra: CONSERVACION RED VIAL REGION DEL MAULE (2018 - 2020), PUENTE CHIMBARONGO, que figura a nombre de CENTRO DE BODEGAS LOGISTICA SPA, rol de avalúo 464-138, Comuna de RETIRO, REGION DEL MAULE, superficie 323 m2. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 09 de abril de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.580.500 para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
