@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 574 de 29 de julio de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 1-A, para la obra: MEJORAMIENTO CAMINO ITROPULLI-SAN PEDRO, RUTAS T-695 y T-699, que figura a nombre de PANICU GODOY BERNARDO ARTEMIO, rol de avalúo 555-534, Comuna de PAILLACO, REGION DE LOS RÍOS, superficie 77 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, YASCHALA MARIBEL YANEZ RIFFO y MARIA SOLEDAD NUÑEZ ARROYO, mediante informe de tasación de fecha 20 de octubre de 2020, fijó el monto de la indemnización provisional en la cantidad de $694.400.- para el lote Nº1-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
