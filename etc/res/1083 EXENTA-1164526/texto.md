@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.083, de 17 de agosto de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Alte. Latorre Nº 99, comuna de Chillán, Rol de Avalúo Nº 00515-00011, de aparente dominio de Unión de Iglesias Evangélicas BA. La parte afecta a expropiación parcial es de 209,44 m² de terreno y la superficie afecta a expropiación total de edificación corresponde a 181,12 m² cuyos linderos particulares están enmarcados en el plano S16R-109, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, el Arquitecto don Andrés Javier Tobar Beluzán, y por el Ingeniero Civil Industrial don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $138.121.321.-
+
+Director Serviu Región de Ñuble.
