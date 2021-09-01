@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 1486 de fecha 25 de agosto de 2021, Dirección Regional Serviu Región de los Lagos, ordenó expropiación lote de terreno Nº 22 para la ejecución Proyecto "Mejoramiento calle El Teniente, Barrio Industrial de Puerto Montt", Región de los Lagos, que figura a nombre de Guerrero Velásquez María Candelaria, rol de avalúo según SII Nº 1991-35, comuna de Puerto Montt, superficie 317,60 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher Guarda, Enrique Edgardo Hoelck Altmann y Raúl Palma Larrea designados por resolución exenta Nº 820 de 7 de mayo de 2021, fijó con fecha 15 de junio de 2021, el valor provisional de la indemnización en la suma de $72.065.400. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley Nº 2.186.-
+
+Director Regional Serviu Región de los Lagos.
