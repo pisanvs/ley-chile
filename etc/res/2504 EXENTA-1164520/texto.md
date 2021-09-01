@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.504, de fecha 23 de julio de 2021, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186, de 1978, del denominado Lote Nº 9169-11, correspondiente al inmueble ubicado en chiguayante 0700, Dp 33, Volcán Sn José 3, Rol de Avalúo Nº 9169-11, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Daniel Jean Pierre Araneda González con una superficie aproximada de 43,19 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación de Terrenos Población Volcán San José III Manzana E". La Comisión de Peritos integrada por el señor Juan Armando Salas Urzúa, ingeniero civil industrial; señor Dionisio Rodríguez Astudillo, constructor civil y señora Paz O'Ryan Cavagnaro, arquitecto, mediante Informe de fecha 17 de junio de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $22.732.458, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
