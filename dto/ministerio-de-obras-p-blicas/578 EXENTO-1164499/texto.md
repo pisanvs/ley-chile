@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°578, de 29 de julio de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.19 y 20, para la obra: MEJORAMIENTO RUTA Y-71, SECTOR PORVENIR - ONAISSIN, TRAMO II, que figura a nombre de BRYSTILO CARDENAS CARLOS BENJA, rol de avalúo 612-14, Comuna de PORVENIR, REGION DE MAGALLANES Y DE LA ANTÁRTICA CHILENA, superficies 414 y 1.143 m2 respectivamente. La Comisión de Peritos integrada por CLAUDIA PATRICIA GALLARDO OJEDA, RODRIGO FERNANDEZ DUBROCK y CAROLINA ULLOA ALVAREZ, mediante informe de tasación de 26 de marzo de 2020, fijó el monto de la indemnización provisional en la cantidad de $412.344 para el lote N°19, y $1.138.428 para el lote N°20. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
