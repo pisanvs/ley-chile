@@ -1,0 +1,7 @@
+OTORGAMIENTO DE DESTINACIÓN MARÍTIMA
+
+Decreto supremo Nº 275 del 30 de abril 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Ministerio de Economía, Fomento y Turismo, Servicio Nacional de Pesca y Acuicultura, RUT Nº 60.701.002-1, destinación marítima, con vencimiento 31 de diciembre 2050, sobre un sector de terreno de playa, playa, fondo de mar, y uso de mejora fiscal, en el lugar denominado Caleta de Mejillones, comuna de Mejillones, Provincia y Región de Antofagasta, con una superficie total de 3.904,22 m², la que fue tramitada con el SIABC Nº 45940. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s):
+
+El objeto consiste en amparar actividades ligadas a la pesca artesanal, de acuerdo a los artículos 2 y 4º de la ley Nº 21.027, las que se contendrán en el plan de administración, aprobado en los términos del artículo 10 de la ley Nº 21.027. Las obras consisten en un muelle, terminal pesquero, galpones, un varadero. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Mejillones. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Marcelo González González, Capitán de Corbeta LT, Capitán de Puerto de Mejillones.
