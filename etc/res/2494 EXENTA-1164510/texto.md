@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.494, de fecha 23 de julio de 2021, se ordenó la expropiación total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 9169-01, correspondiente al inmueble ubicado en Chiguayante 0700, DP 11, Volcán Sn. José 3, Rol de Avalúo N° 9169-01, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Juan Bautista Lagos Meneses con una superficie aproximada de 42,74 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación de Terrenos Población Volcán San José III Manzana E". La Comisión de Peritos integrada por la señora Yazmín Balboa Rojas, constructor civil; señora Victoria Blanco Acosta, arquitecto, y señor Víctor Araya Madariaga, constructor civil, mediante Informe de fecha 25 de junio de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $23.180.060, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
