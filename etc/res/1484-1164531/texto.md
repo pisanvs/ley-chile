@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 1.484, de fecha 25 de agosto de 2021, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno Nº 1b para la ejecución Proyecto "Mejoramiento calle El Teniente, Barrio Industrial de Puerto Montt", Región de los Lagos, que figura a nombre de Nutreco Chile S.A., Rol de avalúo según SII Nº 2130-88, comuna de Puerto Montt, superficie 83,45 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher Guarda, Enrique Edgardo Hoelck Altmann y Raúl Palma Larrea, designados por resolución exenta Nº 820, de 7 de mayo de 2021, fijó con fecha 15 de junio de 2021, el valor provisional de la indemnización en la suma de $15.021.000. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley Nº 2.186.-
+
+Director Regional Serviu Región de Los Lagos.
