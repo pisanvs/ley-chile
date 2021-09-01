@@ -1,0 +1,3 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.280 de 21 de julio de 2021, Serviu Región de Los Lagos, ordenó la rectificación de la resolución exenta Nº 3.370 de fecha 5 de diciembre de 2017, en el sentido de salvar el error donde dice: "Rol de avalúo según el Servicio de Impuestos Internos Nº 3010-50, de la comuna de Puerto Montt", Debe decir: "Rol de avalúo según el Servicio de Impuestos Internos Nº 3010-56, de la comuna de Puerto Montt".
