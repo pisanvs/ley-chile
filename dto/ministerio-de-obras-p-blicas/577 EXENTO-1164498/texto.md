@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº577, de 29 de julio de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 43 y 44, para la obra: MEJORAMIENTO RUTA Y-71, SECTOR PORVENIR- ONAISSIN, TRAMO II, que figuran a nombre de GRILLI GONZALEZ AURELIO y FAJARDO SANTIAGOS MARIA ESTER, roles de avalúo 615-10 y 615-8, Comuna de PORVENIR, REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA, superficies 36 y 21 m2. respectivamente. La Comisión de Peritos integrada por MARCOS MATULIC CVIETKOVICH, CLAUDIA PATRICIA GALLARDO OJEDA y JOSÉ LUIS SUBIABRE AGUILAR, mediante informe de tasación de 30 de marzo de 2020, fijó el monto de la indemnización provisional en la cantidad de $35.856, para el lote Nº43 y $20.916, para el lote Nº44. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
