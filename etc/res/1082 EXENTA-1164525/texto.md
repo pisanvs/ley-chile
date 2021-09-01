@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.082, del 17 de agosto de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Almirante Latorre Nº 93, Pob. Wicker, comuna de Chillán, Rol de Avalúo Nº 00515-00079, de aparente dominio de Rosales Garrido Manuel de la Cru. La parte afecta a expropiación parcial de terreno es de 14,37 m² cuyos linderos particulares están enmarcados en el plano S16R-107, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, el Arquitecto don Andrés Javier Tobar Beluzán, y por el Ingeniero Civil Industrial don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $1.929.041.-
+
+Director Serviu Región de Ñuble.
