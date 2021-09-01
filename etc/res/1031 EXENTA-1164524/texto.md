@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.031 del 5 de agosto de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Almirante Latorre 246, comuna de Chillán, Rol de Avalúo Nº 00521-00069, de aparente dominio de Retamal Ceballos Luis Humberto. La parte afecta a expropiación parcial de terreno es de 76,92 m2 y expropiación total de las edificaciones de 59,36 m 2 cuyos linderos particulares, enmarcados en el plano S16R-153, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el Arquitecto doña Priscilla Andrea Encalada Rueda, la Arquitecto doña Cecilia María Carrasco Verdugo, y por el Constructor Civil don Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $24.817.460.-
+
+Director Serviu Región de Ñuble.
