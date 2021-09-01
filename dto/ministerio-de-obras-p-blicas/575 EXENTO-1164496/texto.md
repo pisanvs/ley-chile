@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº575, de 29 de julio de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP Nº206 de 1960, se expropiaron los lotes de terreno Nºs.11, 12, 13 y 14, para la obra: MEJORAMIENTO RUTA Y-71, SECTOR PORVENIR- ONAISSIN, TRAMO II, que figuran a nombre de KUVACIC POLL LILIANA JEANETTE, roles de avalúo 612-7, Comuna de PORVENIR, REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA, superficies 320, 2.535, 794 y 3.794 m2. respectivamente. La Comisión de Peritos integrada por CLAUDIA PATRICIA GALLARDO OJEDA, RODRIGO FERNANDEZ DUBROCK y CAROLINA ULLOA ALVAREZ, mediante informe de tasación de 26 de marzo de 2020, fijó el monto de la indemnización provisional en la cantidad de $318.720, para el lote Nº11, $2.524.860, para el lote Nº12, $790.824, para el lote Nº13 y $3.778.824, para el lote Nº14. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
