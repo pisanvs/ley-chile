@@ -1,0 +1,7 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MAYOR
+
+Decreto supremo Nº181, del 19 de mayo de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Minera Escondida Ltda., RUN: 79.587.210-8, tercera renovación de concesión marítima mayor, con vencimiento el 31 de diciembre de 2030 sobre un sector de terreno de playa, en el lugar denominado Punta Coloso, comuna, provincia y Región de Antofagasta, con una superficie total de 1.838,06 m², la que fue tramitada con el SIABC Nº 43.538. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto es continuar amparando en los lotes A y B, el tendido de una cañería conductora de aguas excedentes, correspondientes a efluentes de la Planta de Filtros y Planta de Tratamiento de Aguas Servidas de Coloso y en el Lote C, amparar la instalación de instrumentos de medición o monitoreo de emisiones a la atmósfera, de material particulado. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Antofagasta. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+René Moraga Espinoza, Capitán de Fragata LT, Capitán de Puerto de Antofagasta.
