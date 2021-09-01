@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 170 de fecha 11 de mayo de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Orizon S.A., RUT 96.929.960-7, segunda renovación de concesión marítima menor, con vencimiento el 30 de junio de 2026, sobre un sector de playa y fondo de mar, en el lugar denominado Lo Rojas, comuna de Coronel, Provincia de Concepción, Región del Biobío, con una superficie total de 3.048,20 m2, la que fue tramitada con el SIABC N°37.262. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 37°1'32,94 S - 73°9'48,04 W. El objeto consiste en continuar amparando la instalación de una cañería de desagüe (emisario) de aguas tratadas provenientes de la empresa. Las obras existentes consisten en un emisario submarino. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Coronel. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
+
+Coronel, 23 de agosto de 2021.- Alex Jeldres Curilemo, Teniente 1° LT, Capitán de Puerto de Coronel Suplente.
