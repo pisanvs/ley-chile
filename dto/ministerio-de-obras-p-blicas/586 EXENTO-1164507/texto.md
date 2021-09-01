@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº586, de 29 de julio de 2021 y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.1 y 2, para la obra: REPOSICIÓN DE VARIOS PUENTES REGION DE MAGALLANES, que figuran a nombre de PODUJE RUIZ ENRIQUE SEGUNDO, roles de avalúo 5074-17, Comuna de PUNTA ARENAS, REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA, superficies 117 y 417 m2. respectivamente. La Comisión de Peritos integrada por MARCOS MATULIC CVIETKOVICH, BEATRIZ VERA MONTAÑA y CAROLINA ULLOA ALVAREZ, mediante informe de tasación de 18 de junio de 2020, fijó el monto de la indemnización provisional en la cantidad de $1.169.361, para el lote Nº1 y $639.261, para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
