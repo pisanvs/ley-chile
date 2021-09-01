@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº524, de 23 de julio de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.10 y 10-A, para la obra: MEJORAMIENTO PASO FRONTERIZO R 9-253-CH,S:PTO NATALES-CASAS VIEJAS, que figuran a nombre de SOC COM HOTELERA GLACIARES LTDA, roles de avalúo 1008-12, Comuna de NATALES, REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA, superficies 354 y 32 m2. respectivamente. La Comisión de Peritos integrada por BEATRIZ VERA MONTAÑA, HUGO JOSÉ MANSILLA CÁRDENAS y JOSÉ LUIS SUBIABRE AGUILAR, mediante informe de tasación de 05 de noviembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $5.124.492, para el lote Nº10 y $649.292, para el lote Nº10-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
