@@ -122,9 +122,9 @@ c.5. Zonas extremas: 5% de subsidio adicional para aquellas pólizas o contratos
 
 Sin perjuicio de lo anterior, el subsidio total por póliza de seguro o contrato de cobertura no podrá sobrepasar el 98% de la prima neta, incluido el subsidio fijo de UF 1 por póliza o contrato.
 
-d. El monto total del subsidio general que cada beneficiario reciba por la contratación de pólizas de seguro agrícola de cualquier tipo, y/o contratos de cobertura de precios y tipo de cambio, no podrá ser superior a UF 80 por póliza o contrato. Excepcionalmente, el monto total del subsdio del Estado para el Seguro Forestal no podrá ser superior a UF 80 por beneficiario y por póliza, con máximo de una póliza por cada beneficiario, por temporada agrícola.
+d. El monto total del subsidio general que cada beneficiario reciba por la contratación de pólizas de seguro agrícola de cualquier tipo, y/o contratos de cobertura de precios y tipo de cambio, no podrá ser superior a UF 80 por póliza o contrato. Excepcionalmente, el monto total del subsidio del Estado para el Seguro Forestal no podrá ser superior a UF 80 por beneficiario y por póliza, con máximo de una póliza por cada beneficiario, por temporada agrícola.
 
-El monto total del subsidio general que cada beneficiario reciba por la contratación de pólizas de seguro agrícola de cualquier tipo, y/o contratos de cobertura de precios y tipo de cambio, no podrá ser superior a UF 90 por cada beneficiario o RUT, por cada temporada agrícola.
+El monto total del subsidio general que cada beneficiario reciba por la contratación de pólizas de seguro agrícola de cualquier tipo, y/o contratos de cobertura de precios y tipo de cambio, no podrá ser superior a UF 160 por cada beneficiario o RUT, por cada temporada agrícola.
 
 Para los efectos del presente literal se entiende que una temporada agrícola es el intervalo de tiempo de un año que comienza el 1º de mayo de un año calendario y se extiende hasta el 30 de abril del año siguiente.
 
