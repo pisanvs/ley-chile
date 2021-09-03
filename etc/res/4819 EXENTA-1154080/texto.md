@@ -240,11 +240,13 @@ Sin perjuicio de lo anterior, al término del plazo de inscripción ordinaria, o
 
 Pueden inscribirse todas aquellas personas que hayan egresado de la Enseñanza Media o se encuentren cursando actualmente el último año de ésta, incluido los extranjeros que para dicho efecto hayan reconocido dicha calidad en nuestro país.
 
-Los postulantes de promociones anteriores que no registran notas en la plataforma de inscripción o el sistema dispuesto para este efecto no podrán concretar su inscripción hasta que regularicen su situación ante el Ministerio de Educación.
+Los postulantes de promociones anteriores que no registran notas en la plataforma de inscripción o el sistema dispuesto para este efecto, no podrán concretar su inscripción hasta que regularicen su situación ante el Ministerio de Educación.
+
+Sin perjuicio de lo anterior, la Subsecretaría de Educación Superior podrá permitir la inscripción de personas con antecedentes académicos incompletos, si la situación lo amerita. En tal caso, la Subsecretaría establecerá un plazo dentro del cual el solicitante deba regularizar los antecedentes faltantes. Dicha determinación deberá ser comunicada con anticipación a la institución encargada de la ejecución de las acciones del Sistema de Acceso.
 
 Aquellos postulantes que hayan experimentado un cambio de nombre y/o apellido en virtud de una sentencia judicial o rectificación de partida de nacimiento en el Registro Civil y que, en el sistema de la institución encargada de la ejecución de las acciones del Sistema de Acceso, aparezcan con su antiguo nombre o apellidos, deberán consultar a Ayuda Mineduc para verificar que sus datos estén actualizados.
 
-Documentos válidos para realizar la inscripción: Los documentos de identificación válidos para realizar la inscripción son la Cédula Nacional Chilena de Identidad, el pasaporte y el identificador Provisional Escolar (IPE). En caso de haberse inscrito con IPE, los postulantes deberán regularizar su situación, a fin de contar con su cédula nacional de identidad o pasaporte según lo indicado en el calendario oficial del proceso.
+Documentos válidos para realizar la inscripción: Los documentos de identificación válidos para realizar la inscripción son la cédula nacional chilena de identidad, el pasaporte y el Identificador Provisional Escolar (IPE). Sin perjuicio de lo anterior, previa evaluación de la situación, la Subsecretaría de Educación Superior y la institución encargada de la ejecución de las acciones del Sistema de Acceso podrán definir documentos y/o procedimientos de identificación alternativos, los cuales deberán ser informados en la o las plataformas digitales correspondientes. En caso de haberse inscrito con IPE, los postulantes deberán regularizar su situación, a fin de contar con cédula nacional de identidad o pasaporte según lo que se establezca en el calendario oficial del proceso.
 
 Tarjeta de identificación: Todo postulante debe constatar que la información ingresada en el sistema de inscripción por internet corresponda con sus datos efectivos y, después de pagar el arancel de rendición e imprimir el comprobante de pago a través de alguna de las formas autorizadas, deberá imprimir su tarjeta de identificación, siguiendo los pasos indicados. La tarjeta será exigida junto con el documento de identificación (Cédula Nacional de Identidad chilena o Pasaporte) al momento de rendir la Prueba de Transición para la Admisión Universitaria.
 
@@ -451,6 +453,24 @@ Los resultados obtenidos por los postulantes en cada una de las pruebas que haya
 En la eventualidad de presentarse alguna duda con respecto a los resultados obtenidos en las pruebas, los postulantes pueden solicitar personalmente una verificación de su puntaje dentro de los días establecidos en el calendario, no existiendo posibilidad alguna de verificación posterior.
 
 Al finalizar la rendición de cada una de las pruebas, será responsabilidad del postulante solicitar al examinador presente en la sala de aplicación, timbrar la Tarjeta de Identificación. Dicho documento timbrado, será el único medio verificador que tendrá el postulante para comprobar la efectiva rendición de la prueba.
+
+Análisis y cálculo de resultados de las Pruebas de Admisión
+
+Con posterioridad a la rendición de las pruebas de admisión universitaria, la institución encargada de la ejecución de las acciones del Sistema de Acceso (en adelante, "la institución encargada"), procederá a desarrollar las etapas que se describen a continuación, con el propósito de obtener los resultados de dichas pruebas y la generación de bases de datos correspondientes:
+
+Luego de la lectura, revisión y control de calidad de las pruebas rendidas, se realiza la consolidación de las bases de datos y el cálculo de los puntajes obtenidos por los postulantes. Los análisis que se realizan en ese contexto son los siguientes y consideran metodología de dobles ciegos internos:
+
+1. En conjunto con los equipos constructores de las pruebas, se realiza una verificación estadística de las claves de las preguntas, para controlar que no existan diferencias entre los resultados y la información que se tiene en el Banco de Ítems.
+
+2. A través de un estudio psicométrico se revisan todos los ítems que bajo criterios estadísticos tuvieron un comportamiento distinto entre el piloto y la aplicación de la prueba oficial. En tal revisión se evalúa la permanencia o eliminación de cada uno de los ítems detectados. En paralelo, un equipo externo de expertos, que deberá ser previamente acordado entre la Subsecretaría de Educación Superior y la institución encargada, deberá realizar los análisis psicométricos para la detección de ítems con características no esperadas, para recomendar la permanencia o eliminación del ítem correspondiente. La decisión final, respecto de la permanencia o eliminación de un ítem, deberá ser resuelta por el equipo que deberá considerar profesionales con diferente experticia, incorporando a expertos disciplinares, en evaluación y en psicometría.
+
+3. Deberá estimarse la dificultad de los ítems según la información de la prueba rendida, comparándola con la dificultad que muestre en el Banco de Ítems, el cual está calibrado. Se deberá realizar una regresión para asociar estas dos estimaciones de dificultad y decidir si se podrán "desanclar" ítems, con el fin de dar estabilidad a los parámetros estimados. Este método deberá ser certificado por un asesor, previamente acordado entre la Subsecretaría de Educación Superior y la institución encargada.
+
+4. Una vez obtenida la estimación de la dificultad de cada uno de los ítems de las formas de las pruebas, se procede a estimar la habilidad de los postulantes en cada prueba, para luego llevarla a una escala estándar, que considere la normalización estadística. Este método deberá ser certificado por un equipo experto externo, previamente acordado entre la Subsecretaría de Educación Superior y la institución encargada.
+
+5. Una vez realizados los controles de calidad internos, que deberán arrojar una coincidencia del 100% de los resultados de las dificultades de los ítems, de las habilidades estimadas para cada postulante al séptimo decimal y del puntaje estándar, se realizan las transformaciones que corresponda para calcular el puntaje de cada postulante en las pruebas rendidas, el que será posteriormente publicado.
+
+6. Antes de la publicación de puntajes, se realizan nuevos controles, lo que implica que al menos dos unidades de la institución encargada calculen separadamente las transformaciones que llevan al cálculo final de puntajes, las que luego se compararan para corroborar que en el 100% de los postulantes las transformaciones que realizó cada una entregan el mismo puntaje estándar a cada postulante.
 
 Distinciones que se confieren en el proceso de admisión a la educación universitaria: puntajes nacionales, regionales y mérito académico:
 
