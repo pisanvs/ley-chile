@@ -1,0 +1,29 @@
+DESTINA A DOÑA GLORIA PATRICIA DE JESÚS NAVARRETE PINTO, EMBAJADORA 1ª CATEGORÍA EXTERIOR, A PRESTAR SERVICIOS EN CHILE EN CALIDAD DE ADSCRIPTA
+
+Núm. 8.- Santiago, 22 de enero de 2021.
+
+Vistos:
+
+La Constitución Política de la República; el DFL Nº 33 de 1979 del Ministerio de Relaciones Exteriores; el DFL 29 de 2004 del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.834 del Estatuto Administrativo; la ley Nº 21.289 sobre Presupuestos del Sector Público para el año 2021; los decretos Nºs 2.154 de 1997 y 197 de 2018 ambos del Ministerio de Relaciones Exteriores; la resolución Nº 6 de 2019, de la Contraloría General de la República.
+
+Considerando:
+
+Que, por decreto Nº 197, de 2018, de esta Secretaría de Estado, la señora Gloria Patricia de Jesús Navarrete Pinto (RUN Nº 7.197.659-9), Embajadora 1ª Categoría Exterior, fue destinada a prestar servicios como Embajadora de Chile ante el Gobierno de Austria y en la Misión Permanente ante la Oficina de las Naciones Unidas con sede en Viena, Austria, a contar del 1 de agosto de 2018.
+
+Decreto:
+
+1. Destínase a prestar servicios en Chile en calidad de Adscripta, a la señora Gloria Patricia de Jesús Navarrete Pinto (RUN Nº 7.197.659-9), Embajadora 1ª Categoría Exterior, a contar del 1 de marzo de 2021.
+
+2. La señora Navarrete Pinto, cesará en sus funciones como Embajadora de Chile ante el Gobierno de Austria y en la Misión Permanente ante la Oficina de las Naciones Unidas con sede en Viena, Austria, a contar del 1 de marzo de 2021.
+
+3. La persona antes individualizada, pasará de la Planta "A" Presupuesto en Moneda Extranjera, a la Planta "B" Presupuesto en Moneda Nacional.
+
+4. Establézcase que la citada funcionaria tendrá derecho a pasajes, asignación de traslado de menaje de casa y efectos personales, y asignación de instalación, todo de conformidad con lo establecido en el DFL 33 antes citado. Las condiciones de asignación de traslado de menaje de casa y efectos personales se ajustarán además al reglamento establecido en el decreto 2.154 de 1997 de esta Secretaría de Estado.
+
+5. Por razones impostergables de buen servicio, el presente decreto surtirá efecto desde la fecha anteriormente señalada, sin esperar su total tramitación.
+
+6. Impútese el gasto que corresponda al Subtítulo 21-04-001, del presupuesto corriente en moneda nacional; y al Subtítulo 22-08-007 del presupuesto corriente en moneda extranjera convertida a dólares, ambos del Ministerio de Relaciones Exteriores, del año presupuestario vigente.
+
+Regístrese, tómese razón, comuníquese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República de Chile.- Andrés Allamand, Ministro de Relaciones Exteriores.
+
+Lo que transcribo a Us. para su conocimiento.- José Avaria Garibaldi, Director General Administrativo.
