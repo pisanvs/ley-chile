@@ -100,6 +100,8 @@ Se deberán realizar mediciones de concentración cada 12 hrs., durante el trans
 
 5.1.2. Fumigación con bromuro de metilo (MB) para el control de insectos de la madera y el nematodo Bursaphelenchus xylophilus:
 
+.
+
 Fuente: T312-a Presión normal Manual de tratamientos USDA
 
 Después de 24 horas, se debe agregar suficiente fumigante para llevar la concentración hasta 240 gr/m3.
