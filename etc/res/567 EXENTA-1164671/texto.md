@@ -1,0 +1,5 @@
+EXTRACTO
+
+Con fecha 16 de agosto de 2021, la Superintendencia de Educación dictó la resolución exenta Nº 567, de 2021, que fija texto actualizado, refundido, coordinado y sistematizado de la circular normativa aplicable a los establecimientos de educación parvularia sujetos a período de adecuación, y deja sin efecto resolución exenta Nº 381, del 19 de mayo de 2017, y resolución exenta Nº 980, de 28 de diciembre de 2018, ambas de la Superintendencia de Educación. La mentada circular sistematiza y ordena materias ajustadas a la normativa educacional general vigente, en un marco de promoción y resguardo de los derechos educacionales, se estructura integrando tanto aspectos generales como de los ámbitos organizacional, pedagógico y de seguridad y salud, junto con consideraciones finales, y entrará en vigencia el 1 de octubre del año 2021. La referida resolución estará disponible íntegramente para la comunidad educativa en la página web institucional (www.supereduc.cl).-
+
+Francisco Trejo Ortega, Jefe Departamento Jurídico, Superintendencia de Educación.
