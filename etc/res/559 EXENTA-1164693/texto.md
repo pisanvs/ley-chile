@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 559 EXENTA, DE 2021
+
+Por resolución exenta Nº 559, de fecha 12 de julio de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Coquimbo, se autoriza a la escuela de conductores profesionales "Escuela de Conductores Automóvil Club de Chile Limitada", cuyo domicilio está ubicado en Avda. Francisco de Aguirre Nº447, comuna de La Serena, representada legalmente por Williams Delgado Durán, cuyos planes y programas fueron autorizados mediante resolución exenta Nº 188, de 2000, a impartir los cursos conducentes a la obtención de la licencia de conductor profesional clase A2 en la modalidad e-learning, bajo el formato de ejecución asincrónico.-
+
+Juan Segundo Fuentes Isla, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Coquimbo.
