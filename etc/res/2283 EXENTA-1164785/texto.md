@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 2.283 EXENTA, DE 17 DE AGOSTO DE 2021
+
+Por resolución exenta N° 2.283, de 17 de agosto de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se modifica la resolución exenta N° 1.560, de 30 de junio de 2011, de esta Secretaría Regional, en el sentido de reemplazar en ella el domicilio de la sede y taller mecánico de la escuela de conductores profesionales Escuela Nacional de Conductores y Capacitación y Compañía Limitada, por el de Gladys Marín N° 6913, comuna de Estación Central. En todo lo no modificado, se mantiene íntegramente vigente la resolución exenta N° 1.560, de 30 de junio de 2011, de esta Secretaría Regional Ministerial.-
+
+Eddy Nelson Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
