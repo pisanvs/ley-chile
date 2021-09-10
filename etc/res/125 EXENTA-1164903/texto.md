@@ -1,0 +1,7 @@
+PROHÍBE CIRCULACIÓN DE VEHÍCULOS MOTORIZADOS EN LA VIA/S QUE SE INDICA
+
+Por resolución exenta N° 125 de fecha 31 de agosto de 2021 del Gobierno Regional del Biobío, se modifica resolución exenta N° 091 de fecha 18.08.2021, de este Gobierno Regional, en el sentido de indicar que se prohíbe la circulación de los vehículos motorizados por calle Janequeo de la comuna de Concepción, en los tramos, día y hora que a continuación se indican: Tramo 1: Barros Arana-Los Carrera, el día 05/09/2021, entre las 09:00 a 17:30 hrs.; y Tramo 2: O'Higgins-Freire, el día 30/10/2021, entre las 09:00 a 17:30 hrs. a fin de permitir la ejecución de faenas de instalación de líneas de media tensión, por parte de la empresa Ingelec Ltda., por mandato de CGE. Los vehículos motorizados que en su trayecto tengan como vía de circulación las calles señaladas, deberán adoptar vías alternativas para el tránsito por el sector, mientras que los vehículos de transporte público de pasajeros para las intervenciones a realizar los días indicados, deberán utilizar el trazado ubicado entre las calles Maipú- Avda. Paicaví-Camilo Henríquez. La resolución exenta con su texto íntegro se encuentra disponible en el sitio electrónico de "Gobierno Transparente" del Gobierno Regional del Biobío.
+
+Autoriza extracto.-
+
+Rodrigo Díaz Wörner, Gobernador Regional del Biobío.
