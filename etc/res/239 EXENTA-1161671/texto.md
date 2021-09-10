@@ -62,49 +62,49 @@ j) Eliminado.
 
 k) Las cartas dando audiencia al contratista previo a la aplicación de una medida ante el incumplimiento del proveedor o la que ponga término anticipado a un contrato.
 
-l) Las resoluciones que aprueben la incorporación de personal a centros de responsabilidad o el cambio de un funcionario de un centro a otro.
+l) Eliminado.
 
-m) Las resoluciones que reconocen los Derechos de Protección a la Maternidad, establecidos en el Libro II, Título II, del Código del Trabajo.
+m) Eliminado.
 
-n) Las resoluciones que reconocen asignación de antigüedad.
+n) Eliminado.
 
 o) Los certificados de renta anuales del personal, para la declaración de impuesto a la renta al Servicio de Impuestos Internos.
 
-p) Las resoluciones que conceden feriado legal.
+p) Eliminado.
 
-q) Las resoluciones sobre feriados legales fraccionados.
+q) Eliminado.
 
-r) Las resoluciones que reconocen el derecho a feriado legal progresivo.
+r) Eliminado.
 
-s) Las resoluciones sobre acumulación de feriados legales.
+s) Eliminado.
 
-t) Las resoluciones que otorguen permisos administrativos con y sin goce de sueldo.
+t) Eliminado.
 
-u) Firmar y visar las solicitudes y resoluciones que aprueben comisiones de servicio nacionales, con o sin costo.
+u) Eliminado.
 
-v) Las resoluciones sobre licencias médicas.
+v) Eliminado.
 
-w) Las resoluciones de reconocimiento, prórroga y suspensión de cargas familiares.
+w) Eliminado.
 
-x) Las resoluciones que regularizan absorción de bienios.
+x) Eliminado.
 
-y) Las resoluciones que conceden permisos por fallecimiento.
+y) Eliminado.
 
-z) Las resoluciones sobre asignaciones familiares por invalidez.
+z) Eliminado.
 
-aa) Las resoluciones que ordenan descuento en las remuneraciones en conformidad a la legislación vigente.
+aa) Eliminado.
 
-bb) Las resoluciones que fijan turnos y descansos complementarios para compensar trabajos extraordinarios.
+bb) Eliminado.
 
-cc) Resoluciones que reconozcan permiso postnatal parental del personal a honorarios.
+cc) Eliminado.
 
-dd) Resoluciones que autoricen días adicionales de feriado legal, conforme a lo establecido en el inciso 2º del artículo 106 del Estatuto Administrativo.
+dd) Eliminado.
 
 ee) Los formularios de reporte de 36 últimas rentas para procesos de jubilación de funcionarios.
 
-ff) Resoluciones que autoricen ejercer labores de docencia de los funcionarios y personal a honorarios.
+ff) Eliminado.
 
-gg) Resoluciones que autoricen la participación del personal en cursos de capacitación.
+gg) Eliminado.
 
 hh) Oficios sobre informes contables mensuales del Sistema de Contabilidad General de la Nación e informes de presupuestos para envío a la Dirección de Presupuestos del Ministerio de Hacienda.
 
@@ -155,5 +155,7 @@ l) Firmar las resoluciones que aprueben las solicitudes de prórrogas de plazo p
 6º.- La presente resolución comenzará a regir a partir de su total tramitación.
 
 7º.- Notifíquese la presente resolución a los Encargados/as de las Unidades antes indicadas y sus subrogantes por parte del Sr. Claudio Liberona, funcionario de este Instituto.
+
+> **Nota.** El numeral 3° de la Resolución 526 Exenta, Economía, publicada el 10.09.2021, modifica la presente norma en el sentido de eliminar de su resuelvo 2º el literal pp). Sin embargo, no se incorpora en el presente texto actualizado porque no coinciden los textos.
 
 Anótese, notifíquese, publíquese, regístrese y archívese.- José Pedro Núñez Barruel, Director Ejecutivo, Instituto Nacional de Desarrollo Sustentable de la Pesca Artesanal y de la Acuicultura de Pequeña Escala - Indespa.
