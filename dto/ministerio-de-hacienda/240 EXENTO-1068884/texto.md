@@ -142,23 +142,7 @@ I.R.N.V.M.: GFCW 75-8
 
 Destinación: Dirección Nacional de Aduana Valparaíso
 
-### 8. Vehículo: Camioneta
-
-Marca: Chevrolet
-
-Modelo: D Max E4 DCAB 4WD 2.5
-
-Año: 2014
-
-Color: Blanco
-
-Nº Motor: LA3044
-
-Chassis Nº: MPATFS86HET000581
-
-I.R.N.V.M.: FYGY 64-6
-
-Destinación: Dirección Regional Aduana de Valparaíso
+### 8. Eliminado
 
 ### 9. Vehículo: Camioneta
 
