@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO CORRECCIÓN BONO DE RECONOCIMIENTO EMITIDO SIN DERECHO", VERSIÓN 1
+
+Por resolución exenta N° 325, de 12 de agosto de 2021, el Director Nacional del Instituto de Previsión Social, aprueba para el Instituto de Previsión Social, el documento denominado "Procedimiento Corrección Bono de Reconocimiento Emitido sin Derecho", versión 1, que consta de veintisiete (27) páginas, que se adjunta como parte integrante de la presente resolución exenta, aprobado por la División Jurídica, cuyo objetivo general se indica en el considerando N° 1, del presente acto administrativo y en su resuelvo N° 2, establece que forman parte integrante del citado procedimiento, sus Anexos: Empresas Seguras contenidas en las resoluciones N°s. 110, de 15.03.1989, ex INP (Canaempu Sector Público; Capresomu; Capremur; Capremusa; Caja Ferro); 184 de 03.12.1984 (Empart); y 189, de 16.06.1986 (SSS).-
+
+Patricio Coronado Rojo, Director Nacional.
