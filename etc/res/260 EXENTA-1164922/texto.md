@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 260 EXENTA, DE 5 DE ABRIL DE 2021
+
+Por resolución exenta N°260, de 05.04.2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Ríos, se autorizó a la Escuela de Conductores Profesionales "Todo Transporte Ltda.", RUT 78.809.580-5, domiciliada en calle Arauco Nº465, comuna de Valdivia, representada legalmente por don Juan Carlos Widemann Guarda, cédula de identidad N°8.567.497-8, cuyos planes y programas fueron autorizados mediante resolución exenta N°40, de 24 de marzo de 2000, de la citada Secretaría Regional Ministerial, a impartir los cursos conducentes a la obtención de la Licencia de Conductor Profesional Clase A3 y A5, con uso de Simulador de Inmersión Total (SIT), en la modalidad e-learning, bajo el formato de ejecución sincrónico.-
+
+Marcela Cecilia Villenas Obreque, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Los Ríos.
