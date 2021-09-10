@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE COMERCIAL GIRADORA LOCAL N° 3150005649, DEL BANCO SCOTIABANK CHILE, ABIERTA PARA EL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL QUILLOTA DEL INSTITUTO DE PREVISIÓN SOCIAL, EN EL FUNCIONARIADO QUE INDICA
+
+Por resolución exenta N° 336, de 18 de agosto de 2021, el Director Nacional del Instituto de Previsión Social, delega la facultad de girar cheques, retirar talonarios, cartolas, cheques protestados y documentos desde la casilla, dar órdenes de no pago y efectuar la ratificación y publicación de los documentos en caso de pérdida, hurto o robo de un cheque o talonarios de cheques, para efectos de operar la cuenta corriente denominada Giradora Local N° 3150005649, del Banco Scotiabank ex-BBVA (Chile), abierta en la Oficina Principal del referido Banco, destinada al pago de beneficios previsionales y gastos del Centro de Atención Previsional Integral IPS Quillota, en el funcionariado que a continuación se individualiza.-
+
+Patricio Coronado Rojo, Director Nacional.
