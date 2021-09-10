@@ -1,0 +1,5 @@
+MODIFICA EN EL SENTIDO QUE INDICA, LA RESOLUCIÓN N° 10 EXENTA, DE 12.01.2021, QUE DELEGA EN LA JEFATURA DEL DEPARTAMENTO DE COBRANZA INSTITUCIONAL, DEPENDIENTE DE LA SUBDIRECCIÓN DE SISTEMAS DE INFORMACIÓN Y DE ADMINISTRACIÓN DEL INSTITUTO DE PREVISIÓN SOCIAL Y EN LOS FUNCIONARIOS QUE INDIVIDUALIZA, LAS FACULTADES QUE SE SEÑALAN
+
+Por resolución exenta N° 218, de 1 de junio de 2021, el Director Nacional del Instituto de Previsión Social, modifica el resuelvo N° 7 de la resolución exenta N° 10, de 12 de enero de 2021, de esta Dirección Nacional, aprobada por la Superintendencia de Pensiones, mediante oficio ordinario N° 1616, de 18 de enero de 2021, en el sentido que se indica a continuación: Donde dice: 20.000.000.- (veinte millones de pesos) Debe decir: 5.000.000.- (cinco millones de pesos).-
+
+Patricio Coronado Rojo, Director Nacional.
