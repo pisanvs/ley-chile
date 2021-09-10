@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 294, de fecha 13 de abril de 2021, de esta Secretaría Regional, se modificaron las resoluciones exentas Nº 823 y Nº 824, ambas de 21 de julio de 2016, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Maule, que aprobaron Planes y Programas y Otorgaron Reconocimiento Oficial, respectivamente, a la Escuela de Conductores Profesionales o clase A, denominada "Escuela de Conductores Profesionales y Servicios de Capacitación Patricio Osvaldo Guiñez Sandoval E.I.R.L.", RUT: 76.463.603-1, nombre de fantasía "Fenix Chile E.I.R.L.", autorizando cambio de domicilio para su sede de la comuna de Talca, hacia calle 2 Sur 4 Oriente N° 1090, comuna de Talca, y el funcionamiento de una nueva sede ubicada en calle Blanco N° 566, y su taller mecánico en calle Mac Iver N° 620, ambas de la comuna de Constitución.-
+
+Carlos Miguel Palacios Maldonado, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región del Maule.
