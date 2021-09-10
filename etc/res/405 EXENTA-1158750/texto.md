@@ -54,7 +54,7 @@ Resuelvo:
 
 Llámase a presentación de proyectos habitacionales del Programa de Integración Social y Territorial, regulado por el DS Nº 19 (V. y U.), de 2016, y sus modificaciones en terrenos de propiedad de Serviu Metropolitano, ubicados en las comunas de La Pintana y Peñalolén, singularizados en el Considerando h) de la presente resolución.
 
-Este llamado a postulación regional tendrá una duración de 70 días hábiles a contar de la fecha de publicación de la presente resolución en el Diario Oficial.
+Este llamado a postulación regional tendrá una duración de 90 días hábiles a contar de la fecha de publicación de la presente resolución en el Diario Oficial.
 
 La entrega de los antecedentes del llamado y los terrenos se realizará en archivo digital. Las Entidades Desarrolladoras interesadas deberán enviar solicitud al mail concursosds19@minvu.cl, indicando nombre del profesional a cargo de la propuesta y empresa requirente.
 
@@ -126,9 +126,13 @@ La cesión de área verde debe considerar la superficie mínima señalada en el 
 
 Elemento Nº 3: Cesión de equipamiento Paseo peatonal de borde:
 
-El objetivo de este elemento es reconocer el flujo peatonal existente desde el Metro hacia el oriente y mitigar el impacto acústico y visual de la autopista al proyecto. Deberá:
+En el borde de Av. Las Torres, se deberá emplazar la cesión de equipamiento del loteo, contemplando una superficie mínima de 1.000 m², acorde al esquema de la Figura Nº 1. Dicho equipamiento deberá:
 
-- Proponer un programa que se base en la definición y recomendaciones establecida en las "orientaciones técnicas de prevención situacional 2020" de la Subsecretaría de Prevención del Delito, véase detalle en http://www.fnsp.gov.cl/situacionales/.
+. Ser entregado delimitado y con sus cierros perimetrales en los términos que se acuerden con la Ilustre Municipalidad de Peñalolén, en el marco de la aprobación del proyecto de Loteo.
+
+. Diseñar, aprobar y ejecutar un ensanche de la vereda existente de Av. Las Torres, hasta completar un perfil mínimo de 3 metros ejecutado y recepcionado. Dicho ensanche, definirá la superficie final del polígono de equipamiento antes indicado.
+
+El oferente que resulte adjudicado deberá considerar en el presupuesto de ejecución del proyecto, el diseño y la ejecución del proyecto de acceso vial de dicho lote de equipamiento en la futura zona a desafectar por parte de la Ilustre Municipalidad de Peñalolén, lo que deberá quedar consignado mediante los instrumentos de formalización que se establezcan entre la municipalidad y el oferente adjudicado. La superficie máxima a ejecutar acorde al esquema de la Figura Nº 1 será de 280 m².
 
 Elemento Nº 4: Calle interior:
 
