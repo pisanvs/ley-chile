@@ -184,6 +184,8 @@ g) Asignación para recuperar parte de los graves daños ocasionados por catást
 
 h): Ayuda Médica: En caso de enfermedad grave o tratamiento médico prolongado de alto costo, calificado como tal por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria a las prestaciones contempladas en el artículo 15° del Reglamento General.
 
+i) Ayuda por acuerdo de unión civil: Cuando el/la afiliado/a celebre el contrato de acuerdo de unión civil. Si ambos contrayentes fuesen afiliados/as, la ayuda se pagará a cada uno de ellos en forma independiente.
+
 #### Artículo 18º
 
 El monto de cada uno de los beneficios, de las asignaciones y ayudas será fijado, anualmente, por el Consejo Administrativo, de acuerdo a las disponibilidades presupuestarias. Por regla general, dicho monto, no excederá de cinco ingresos mínimos, no remuneracionales, mensuales por afiliado, en cada año calendario. Sin embargo, en casos excepcionales, debidamente calificados por el Consejo Administrativo, el monto de un determinado beneficio, asignación o ayuda podrá ser hasta diez ingresos mínimos, no remuneracionales, mensuales, por afiliado en el año calendario. Para adoptar esta decisión se requerirá del acuerdo unánime de los integrantes del Consejo Administrativo participantes en la respectiva sesión.
@@ -204,9 +206,13 @@ Este mismo beneficio y por el monto máximo indicado se podrá otorgar para la c
 
 Para solicitar un nuevo préstamo habitacional, será necesario haber cancelado íntegramente el anterior.
 
+d) Préstamo Escolar: Se podrá otorgar una vez al año (mes de marzo), según capacidad de endeudamiento del afiliado/a
+
+e) Préstamo de Vacaciones: se podrá otorgar una vez al año (mes de diciembre-enero), según capacidad de endeudamiento del afiliado/a
+
 #### Artículo 20º
 
-Los préstamos médicos y de auxilio serán servidos en un plazo de hasta 12 meses; los habitacionales en un plazo de hasta 36 meses; los préstamos de auxilio concedidos con ocasión de un sismo u otra catástrofe, en el plazo de hasta 30 meses, todo contado a partir del mes siguiente al de su otorgamiento.
+Los préstamos médicos y de auxilio serán servidos en un plazo de hasta 12 meses; los habitacionales en un plazo de hasta 36 meses; los préstamos de auxilio concedidos con ocasión de un sismo u otra catástrofe, en el plazo de hasta 30 meses y en el caso de los préstamos escolares y vacaciones en un plazo de hasta 6 meses, todo contado a partir del mes siguiente al de su otorgamiento.
 
 Los préstamos devengarán un interés anual del 6% y se reajustarán en la forma que corresponda según la ley Nº 18.010.
 
@@ -240,7 +246,7 @@ El Servicio de Bienestar propenderá al progreso social, cultural, educacional, 
 
 Con este objeto, el Servicio de Bienestar podrá conceder ayudas a los jardines infantiles, colonias de vacaciones, hogares sociales, casinos del personal, clubes deportivos y, en general, otras actividades que propendan a los fines señalados en el inciso anterior y que beneficien directamente a sus afiliados. Así mismo podrá asesorar, otorgar ayuda y firmar, a través de la autoridad superior de la institución, convenios de cooperación con organizaciones que sean de carácter social, deportivo, recreativo, educacional y/o cultural que beneficien directamente a sus afiliados y cargas familiares.
 
-El Servicio de Bienestar podrá otorgar a sus afiliados/as regalos en ocasiones especiales tales como: cumpleaños, fiestas patrias, día del hospital, aniversarios, día del padre, día de la madre, día del niño/a, día de la mujer, día de las profesiones, reconocimiento de los afiliados destacados por su labor en el Servicio, reconocimiento al socio jubilado y otras que apruebe el Consejo Administrativo.
+El Servicio de Bienestar podrá otorgar a sus afiliados/as regalos en ocasiones especiales tales como; cumpleaños, fiestas patrias, día del hospital, aniversarios, día de la madre, día del padre, día del niño/a, día de la mujer, día del trabajador, día de las profesiones, reconocimiento de los afiliados destacados por su labor en el Servicio, reconocimiento al socio/a jubilado, financiar actividades de verano, actividades de conciliación trabajo-familia, concursos (pintura, fotografía, canto, etc.) proyectos concursables, actividades deportivas masivas, encuentros folclóricos y otras que apruebe el Consejo Administrativo de Bienestar.
 
 #### Artículo 25º
 
