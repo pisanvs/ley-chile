@@ -24,18 +24,16 @@ Resuelvo:
 
 Establézcanse el día 18 de octubre de 2021 como la fecha de inicio del calendario del proceso de postulación, admisión y matrícula a las instituciones de educación superior del subsistema técnico profesional adscritas al Sistema de Acceso para el proceso de admisión 2022, según se indica a continuación:
 
-Evento del proceso de admisión 2022 Fecha
+Evento del proceso Fecha
 
-Inicia el proceso de postulación,
+de admisión 2022
 
-admisión y matrícula a los programas
+Inicio período de 13 de octubre
 
-de estudios impartidos por los 18-10-2021
+admisión 2022 de 2021
 
-centros de formación técnica
+Término período de 1 de abril
 
-e institutos profesionales
-
-adscritos al Sistema de Acceso.
+admisión 2022 de 2022.
 
 Anótese, notifíquese, publíquese en el Diario Oficial y publíquese en la página web del Ministerio de Educación.- Juan Eduardo Vargas Duhart, Subsecretario de Educación Superior.
