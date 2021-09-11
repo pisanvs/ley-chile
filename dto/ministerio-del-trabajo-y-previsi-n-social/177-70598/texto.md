@@ -18,15 +18,15 @@ El Servicio de Servicio de Bienestar del Servicio de Salud Aconcagua, en adelant
 
 Los afiliados podrán impetrar los beneficios médicos que otorgue el Servicio de Bienestar transcurrido un mes de afiliación y los demás beneficios sólo podrán solicitarse después de tres meses de afiliación.
 
-#### Artículo 5º
+#### Artículo 5o
 
 La dirección y administración del Servicio de Bienestar, corresponderá a su Consejo Administrativo integrado por:
 
 a) El Director del Servicio de Salud, o la persona que designe en su reemplazo, quien la presidirá;
 
-b) Dos funcionarios designados por el Director del Servicio de Salud;
+b) Tres funcionarios designados por el Director del Servicio de Salud."
 
-c) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios que corresponda, cuando proceda de acuerdo con lo dispuesto en el inciso tercero del artículo 18° del Reglamento General.
+e) Cuatro representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios que corresponda, cuando proceda de acuerdo a lo dispuesto en el inciso tercero del artículo 18° del Reglamento General.
 
 #### Artículo 12º
 
