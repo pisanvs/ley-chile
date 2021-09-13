@@ -1082,11 +1082,11 @@ Comercio Minorista 1 por cada 50 m2 de
 
 superficie útil construida.
 
-Supermercados 1 por cada 35 m2 de
+Supermercados 1 por cada 15 m2 de
 
 superficie útil construida
 
-Centro Comercial 1 por cada 50 m2 de
+Centro Comercial 1 por cada 20 m2 de
 
 superficie útil construida.
 
@@ -2904,15 +2904,13 @@ Los perfiles geométricos de las vías, así como el ancho de sus calzadas, el d
 
 #### Artículo 24
 
-La red vial del Plan Regulador de Castro está constituida por las avenidas, calles y pasajes y en general, toda vía de uso público actualmente existente y proyectadas.
+La red vial del Plan Regulador de Castro está constituida por las avenidas, calles y pasajes y en general, toda vía de uso público actualmente existentes y proyectadas.
 
-Se identifican a continuación, aquellas vías que por sus características e importancia tienen calidad de estructurantes, de acuerdo a la categorización dispuesta en el Título 2: De la Planificación, Capítulo 3 de los trazados viales urbanos, Ordenanza General de Urbanismo y Construcción.
+Se identifican a continuación, aquellas vías que por sus características tienen calidad estructurante, de acuerdo a la categorización dispuesta en el título 2: de la planificación, Capítulo 3 de los trazados viales urbanos, Ordenanza General de Urbanismo y Construcciones.
 
-Estas vías y sus perfiles principales son las siguientes:
+La Municipalidad podrá aceptar equipamientos de diferente escala a los señalados en el artículo 21 de esta Ordenanza Local, en vías de menor categoría siempre que se encuentre avalado por un estudio de capacidad vial que, en concordancia con lo señalado en la Ordenanza General de Urbanismo y Construcciones, esté contenido en el Plan Regulador Comunal, y que, además, no contravenga los requerimientos de dotación de estacionamientos establecidos en el artículo octavo de este mismo cuerpo normativo.
 
-Ordenanza Vialidad Estructural
-
-VER DIARIO OFICIAL DE 07.06.2007, PÁGINAS 29 a 30.
+La Municipalidad podrá autorizar el emplazamiento de equipamiento clasificado como mediano según el Art. 2.1.36 de la Ordenanza General de Urbanismo en vías tipo colectoras, o de menor clasificación como vías de servicio o vías locales, cumpliendo con lo señalado en el inciso anterior, e incorporando igualmente al estudio de capacidad vial del Plan Regulador, los requerimientos de estacionamientos establecidos en el artículo octavo de este cuerpo normativo.
 
 3.- Remítanse todos los antecedentes a la Secretaría Regional Ministerial de Vivienda y Urbanismo Décima Región, para revisión e informe técnico.
 
