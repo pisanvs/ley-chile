@@ -16,27 +16,13 @@ Resuelvo:
 
 Establécense las siguientes regulaciones de importación para plantas, estacas y ramillas de kiwi (Actinidia arguta, A. chinensis y A. deliciosa) y de manzano (Malus spp.), procedentes de Nueva Zelanda:
 
-### 1. El material deberá venir amparado por un Certificado Fitosanitario
+1. El material deberá venir amparado por un Certificado Fitosanitario oficial de la autoridad fitosanitaria de Nueva Zelanda, en el que consten los siguientes requisitos y declaraciones adicionales:
 
-oficial de la autoridad fitosanitaria de Nueva Zelanda, en el que
+1.1. El material procede de un programa de producción bajo Certificación Oficial o de Viveros o Centros Repositorios de Germoplasma, que se encuentren bajo el control del Organismo Fitosanitario oficial de Nueva Zelanda.
 
-consten los siguientes requisitos y declaraciones adicionales:
+1.2. Además, se deben indicar en el Certificado Fitosanitario las siguientes declaraciones adicionales, específicas para cada especie y tipo de material de propagación que a continuación se señalan:
 
-1.1. El material procede de un programa de producción bajo Certificación
-
-Oficial o de Viveros o Centros Repositorios de Germoplasma, que se
-
-encuentren bajo el control del Organismo Fitosanitario oficial de Nueva
-
-Zelanda.
-
-1.2. Además, se deben indicar en el Certificado Fitosanitario las siguientes
-
-declaraciones adicionales, específicas para cada especie y tipo de
-
-material de propagación que a continuación se señalan:
-
-2. El material debe haber sido sometido a un tratamiento de desinfestación por inmersión contra insectos y ácaros, señalando en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, el producto, tipo de aplicación y dosis utilizadas.
+2. El material debe haber sido sometido a un tratamiento de desinfestación por inmersión o aspersión contra insectos y ácaros, con productos efectivos contra estas plagas, señalando en el Certificado Fitosanitario, en la sección correspondiente a Tratamiento, el ingrediente activo del producto, el tipo de aplicación y la dosis utilizada.
 
 3. Adicionalmente, el envío deberá cumplir con los siguientes requisitos fitosanitarios que se verificarán en la inspección fitosanitaria en el puerto de ingreso:
 
@@ -44,27 +30,33 @@ material de propagación que a continuación se señalan:
 
 . Libre de hojas, flores y restos de frutos.
 
-. Embalados en envases nuevos de primer uso, cerrados, resistentes a la
+. Embalados en envases nuevos de primer uso,
 
-manipulación, factibles de sellar y etiquetados o rotulados de acuerdo a
+cerrados, resistentes a la manipulación,
 
-la normativa vigente.
+factibles de sellar y etiquetados o rotulados
 
-. Los materiales de acondicionamiento destinados a amortiguar o conservar la
+de acuerdo a la normativa vigente.
 
-humedad deben corresponder a materiales inertes, tales como turba, musgo
+. Los materiales de acondicionamiento
 
-esfangíneo, vermiculita, perlita o geles higroscópicos, de acuerdo a
+destinados a amortiguar o conservar
 
-normativa vigente.
+la humedad deben corresponder a
+
+materiales inertes, tales como
+
+turba, musgo esfangíneo, vermiculita, perlita
+
+o geles higroscópicos, de acuerdo a normativa
+
+vigente.
 
 4. Cada partida será inspeccionada por el Servicio en el puerto de ingreso para la verificación física y documental de los requisitos fitosanitarios establecidos. Ante la detección de plagas cuarentenarias listadas o no listadas que sean caracterizadas como plagas cuarentenarias de acuerdo a un Análisis de Riesgo de Plagas (ARP), se evaluará la aplicación de medidas fitosanitarias de manejo de riesgo, acordes con el riesgo identificado.
 
 5. La totalidad del material deberá cumplir con régimen de Cuarentena de Post-Entrada, instancia en que se realizarán los controles oficiales tendientes a la verificación de ausencia de Plagas Reglamentadas. Para tal efecto el importador deberá contar con la autorización del lugar de cuarentena la que debe ser presentada en el puerto de ingreso, al momento del arribo de la mercadería al país. Asimismo, deberá cumplir con las normativas vigentes del Servicio Agrícola y Ganadero que establecen regulaciones para material vegetal en régimen de cuarentena de post-entrada.
 
-6. Si el material proviene de Centros Reconocidos Oficialmente por el Servicio Agrícola y Ganadero, deberá cumplir con lo establecido en las normativas de este Servicio que regulan el reconocimiento de centros de producción para exportar material de propagación de especies vegetales a Chile, indicándose además, en la sección correspondiente del Certificado Fitosanitario la siguiente declaración adicional:
-
-"El envío procede de (nombre del Centro), el cual ha sido Oficialmente reconocido hasta (fecha de vigencia) por resolución N° (número de la resolución de reconocimiento del Centro), de fecha (fecha)".
+6. La cuarentena de posentrada podrá obviarse o simplificarse al optar por el Sistema de reconocimiento de Centros productores de material de propagación ubicados en el extranjero, de acuerdo a los requerimientos establecidos en la resolución Nº 2.878 de 2004.
 
 7. Para los Materiales Modificados Genéticamente por Biotecnología Moderna, el importador deberá declarar su condición genética y cumplir con las normativas del Servicio Agrícola y Ganadero, que establecen los requisitos para la internación e introducción al medio ambiente de estos materiales.
 
