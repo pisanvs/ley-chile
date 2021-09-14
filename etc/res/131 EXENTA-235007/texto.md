@@ -44,7 +44,23 @@ Santiago hasta ciudades y localidades
 
 situadas, tanto en la Región Metropolitana,
 
-como fuera del ámbito geográfico de la misma.
+como fuera del ámbito geográfico de la
+
+misma. Asimismo, comprenderá a todos
+
+aquellos servicios rurales de transporte
+
+público de pasajeros que, sin contar con
+
+las señaladas condiciones, tengan flotas
+
+conformadas únicamente por buses y
+
+siempre que dichos servicios y los
+
+buses asociados a éstos, sean o hayan
+
+sido parte de un proyecto experimental.
 
 c) El Registro de Servicios Interurbanos de Transporte
 
