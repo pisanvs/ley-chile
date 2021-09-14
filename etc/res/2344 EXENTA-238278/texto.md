@@ -26,13 +26,17 @@ que se encuentren bajo el control oficial del
 
 Organismo Fitosanitario Oficial (MAFF).
 
-1.2 El material procede de plantas madres que han
+1.2 El material procede de plantas madres que
 
-sido inspeccionadas durante el último período
+fueron inspeccionadas y analizadas mediante
 
-de crecimiento activo y encontradas libres de
+(especificar el método de diagnóstico) en el
 
-Pseudomonas syringae pv. actinidae.
+momento óptimo para la detección de la plaga
+
+y encontrado libre de Pseudomonas syringae
+
+pv. actinidiae, excepto biovar 3.
 
 1.3 El material se encuentra libre de los
 
@@ -58,16 +62,12 @@ issikii (Lep.Lecitoceridae).
 
 4. La totalidad del material deberá cumplir con régimen de Cuarentena de Post-Entrada, instancia en que se realizarán los controles oficiales tendientes a la verificación de ausencia de Plagas Reglamentadas.
 
-Para tal efecto el importador deberá contar con la autorización del lugar de Cuarentena la que debe ser presentada en el puerto de ingreso, al momento del arribo de la mercadería al país, de acuerdo a lo establecido en las resoluciones Nºs. 3.280 de 1999 y 2.863 de 2001.
+Para tal efecto el importador deberá contar con la autorización del lugar de Cuarentena la que debe ser presentada en el puerto de ingreso, al momento del arribo de la mercadería al país, de acuerdo a lo establecido en la resolución N° 6.383 de 2013.
 
-5. Si el material proviene de Centros Reconocidos Oficialmente por el Servicio Agrícola y Ganadero, conforme a lo establecido en la resolución Nº 2.863 de 2001 y Nº 2.878 de 2004, deberá indicarse además, en la sección correspondiente del Certificado Fitosanitario, la siguiente declaración adicional:
-
-"El envío procede de (nombre del Centro), el cual ha sido Oficialmente reconocido hasta (fecha de vigencia) por Resolución Nº (número de la resolución de reconocimiento del Centro), de fecha (fecha)".
+5. La cuarentena de posentrada podrá obviarse o simplificarse al optar por el Sistema de Reconocimiento de Centros productores de material de propagación ubicados en el extranjero, de acuerdo a los requerimientos establecidos en la resolución N° 2.878 de 2004.
 
 6. Para los Materiales Modificados Genéticamente el importador deberá declarar su condición genética y cumplir con las normativas del Servicio Agrícola y Ganadero, que establecen los requisitos para la internación e introducción al medio ambiente de estos materiales.
 
-7. Además de lo dispuesto en la presente resolución, en la importación del material deberá cumplirse con las normas establecidas en las siguientes resoluciones del Servicio Agrícola y Ganadero:
-
-Nº 3.080 de 2003; Nº 3.815 de 2003; Nº 2.878 de 2004; Nº 3.280 de 1999 y Nº 2.863 de 2001.
+7. Además de lo dispuesto en la presente resolución, para la importación del material deberá cumplirse con lo establecido en las resoluciones N° 3.080 de 2003, N° 3.815 de 2003 y N° 6.383 de 2013, del Servicio Agrícola y Ganadero.
 
 Comuníquese, anótese y publíquese.- Dionisio Faulbaum Mayorga, Director Nacional.
