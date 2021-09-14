@@ -2776,11 +2776,11 @@ INCISO FINAL DEROGADO.
 
 El Ministerio de Vivienda y Urbanismo, mediante resolución, aprobará la metodología conforme a la cual deberá elaborarse y evaluarse el Estudio de Impacto sobre el Sistema de Transporte Urbano.
 
-A la solicitud de permiso de edificación de los proyectos a que se refiere el inciso primero se deberá acompañar un Estudio de Impacto sobre el Sistema de Transporte Urbano, suscrito por un profesional especialista y aprobado por la Unidad de Tránsito y Transporte Públicos de la correspondiente Municipalidad o por la respectiva Secretaría Regional Ministerial de Transportes y Telecomunicaciones, según corresponda, de acuerdo a la metodología.
+A la solicitud de permiso de edificación de los proyectos a que se refiere el inciso primero se deberá acompañar un Estudio de Impacto sobre el Sistema de Transporte Urbano aprobado por la Secretaría Regional Ministerial de Transportes y Telecomunicaciones respectiva. Asimismo, podrá solicitarse el permiso acompañando un certificado emitido por la referida autoridad regional, en el que conste que se ingresaron todos los antecedentes requeridos por la resolución exenta Nº 2.379, de 2003, del Ministerio de Vivienda y Urbanismo, para el análisis integral del referido Estudio y que éste fue admitido a trámite. El acto administrativo mediante el cual se apruebe el Estudio de Impacto sobre el Sistema de Transporte Urbano será requisito para el otorgamiento del correspondiente permiso por parte de la Dirección de Obras Municipales.
 
 La Dirección de Obras Municipales, de acuerdo al resultado del Estudio de Impacto sobre el Sistema de Transporte Urbano, establecerá las mitigaciones que el propietario deberá efectuar en la vialidad afectada por el proyecto. Asimismo, no podrán cursar la recepción definitiva del proyecto sin que el interesado acredite la ejecución de las medidas de mitigación correspondientes, o el otorgamiento de una caución que las garantice, previa autorización de la Seremi Regional de Transportes y Telecomunicaciones, de conformidad a lo dispuesto en el artículo 173 de la Ley General de Urbanismo y Construcciones, en la resolución de aprobación del Estudio de Impacto sobre el Sistema de Transporte Urbano o del Informe Vial Básico, según corresponda.
 
-> **Nota.** El presente artículo fue modificado por el Decreto 1, Vivienda, publicado el 01.02.2003, norma que fue declarada inconstitucional por Sentencia publicada en el Diario Oficial de 21.04.2003, por lo que no se encuentran incorporadas en el presente texto.
+Lo señalado en los dos incisos precedentes también será aplicable a los proyectos referidos en los artículos 4.5.4, 4.8.3 y 4.13.4 de esta Ordenanza.
 
 #### Artículo 2
 
@@ -8052,6 +8052,8 @@ En los casos que se modifique un proyecto que cuente con un certificado emitido 
 
 En los casos de los dos párrafos precedentes el Director de Obras Municipales deberá constatar que las modificaciones cuya suficiencia verifica el certificado o se solicitó verificar, en el caso del silencio positivo, sean idénticas a las contenidas en la solicitud de modificación presentadas ante su Dirección.
 
+Las modificaciones de proyectos que hubieren obtenido permiso o autorización por la Dirección de Obras Municipales bajo la normativa aplicable con anterioridad a la entrada en vigencia del SEIM, se regirán por lo establecido en el Capítulo VI del Título IV del decreto supremo Nº 30, de 2017, del Ministerio de Transportes y Telecomunicaciones y suscrito también por el Ministerio de Vivienda y Urbanismo, que aprueba el Reglamento sobre mitigación de impactos al sistema de movilidad local derivados de proyectos de crecimiento urbano.
+
 Una vez aprobados y para todos los efectos legales, los nuevos antecedentes reemplazarán a los documentos originales.
 
 #### Artículo 5
@@ -10727,6 +10729,42 @@ Todo establecimiento educacional sin importar su carga de ocupación como, asimi
 14. Cuando existan teléfonos de uso público, al menos 1 de cada 5 de ellos, con un mínimo de 1, deberá permitir el uso de personas en silla de ruedas.
 
 Tratándose de inmuebles definidos como áreas de protección de recursos de valor patrimonial cultural, el Director de Obras Municipales podrá, previa solicitud fundada por parte del propietario, autorizar excepciones a las disposiciones de este artículo. Dicha solicitud deberá fundarse en aspectos estructurales, constructivos o que afecten al valor patrimonial cultural del inmueble
+
+#### Artículo transitorio
+
+La posibilidad de acompañar un Estudio de Impacto sobre el Sistema de Transporte Urbano ("EISTU") aprobado o en trámite de evaluación por parte de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones ("Seremitt"), como antecedente para solicitar un permiso ante la Dirección de Obras Municipales, regirá hasta el día hábil inmediatamente anterior a la fecha de entrada en vigencia del Sistema de Evaluación de Impactos en la Movilidad ("SEIM"), regulado por el decreto supremo Nº 30, de 2017, del Ministerio de Transportes y Telecomunicaciones y suscrito también por el Ministerio de Vivienda y Urbanismo ("DS 30/2017").
+
+Con el objeto de establecer un adecuado régimen de transición entre el actual sistema de evaluación mediante EISTU y el nuevo Sistema de Evaluación de Impactos en la Movilidad mediante IMIV, se establecen las siguientes reglas procedimentales especiales, aplicables a aquellas solicitudes que, a la fecha de entrada en vigencia del referido sistema, estuvieren pendientes ante las respectivas Seremitt y Direcciones de Obras Municipales:
+
+1. EISTU en trámite de evaluación ante la Seremitt, ingresado antes de la entrada en vigencia del SEIM.
+
+A partir de la entrada en vigencia del SEIM solo podrán continuar tramitándose aquellos EISTU que previamente hubieren sido presentados como antecedente para solicitar un permiso ante la Dirección de Obras Municipales. Para ello, el titular del proyecto deberá presentar ante la Seremitt respectiva, a más tardar dentro de los diez días hábiles siguientes a la entrada en vigencia del SEIM, copia de la solicitud de permiso ingresada a la Dirección de Obras Municipales, en la que conste que se acompañó el certificado de admisibilidad a trámite del EISTU.
+
+Todos los demás EISTU que se encuentren en evaluación a la entrada en vigencia del SEIM y respecto de los cuales el titular no realice la gestión descrita en el párrafo anterior en el plazo señalado, se entenderán rechazados. Cada Seremitt deberá emitir una resolución con el listado de las solicitudes rechazadas por esta causal.
+
+Los EISTU que continúen su tramitación deberán ser evaluados conforme a lo establecido en la resolución exenta Nº 2.379, de 2003, del Ministerio de Vivienda y Urbanismo, que aprueba la Metodología para elaborar y evaluar Estudios de Impacto sobre el Sistema de Transporte Urbano.
+
+En caso que la autoridad de transporte emita observaciones respecto al EISTU, el interesado podrá reingresar, por una única vez, un estudio corregido, para que la Seremitt continúe con el proceso de evaluación.
+
+Emitido el acto administrativo que apruebe el EISTU, éste deberá ser acompañado por el interesado a la solicitud de permiso presentada ante la Dirección de Obras Municipales.
+
+En caso de rechazo del EISTU original o del estudio corregido que se ingrese para subsanar las observaciones, el interesado no podrá ingresar un nuevo EISTU para dicho proyecto ni reingresar un segundo estudio corregido, aun cuando tenga pendiente una solicitud de permiso ante la Dirección de Obras Municipales, solicitud que deberá ser rechazada por la imposibilidad de dar cumplimiento a la normativa aplicable.
+
+2. Solicitud de permiso en trámite ante la Dirección de Obras Municipales, ingresada antes de la entrada en vigencia del SEIM.
+
+Las solicitudes de permiso ingresadas a la Dirección de Obras Municipales antes de la entrada en vigencia del SEIM, sea que se trate de permiso de obra nueva, ampliación, modificación de proyecto u otra actuación que haya requerido acompañar un EISTU, deberán ser evaluadas y resueltas conforme a las normas vigentes en la fecha de su ingreso, aun cuando el correspondiente permiso se otorgue cuando ya se encuentre vigente el SEIM.
+
+En consecuencia, no podrá exigirse a dichos proyectos que, para efectos de obtener el correspondiente permiso o la posterior recepción definitiva de las obras, cumplan con el mecanismo de declaración y mitigación de impactos contemplado en el DS 30/2017.
+
+Con todo, en los casos en que se hubiere solicitado el permiso acompañando el certificado de admisibilidad a trámite del EISTU, será responsabilidad del interesado ingresar ante la Dirección de Obras Municipales el acto administrativo mediante el cual se apruebe el mencionado Estudio.
+
+Si ello no se efectúa dentro del plazo para pronunciarse sobre la solicitud de permiso, el Director de Obras Municipales deberá dejar constancia de ese requisito pendiente al emitir el Acta de Observaciones. Dicha observación deberá ser subsanada por el interesado dentro del plazo dispuesto en el inciso final del artículo 1.4.9 de la OGUC o, en su defecto, deberá acreditar mediante certificado emitido por la Seremitt que el EISTU continúa en trámite de evaluación, conforme a los plazos establecidos en la resolución exenta Nº 2.379, de 2003, del Ministerio de Vivienda y Urbanismo, que aprueba la Metodología para elaborar y evaluar Estudios de Impacto sobre el Sistema de Transporte Urbano.
+
+Producida esta última circunstancia, el Director de Obras Municipales podrá, por una segunda y última vez y dentro del plazo de 15 días desde el ingreso del referido certificado emitido por la Seremitt, observar la falta de aprobación del EISTU, entendiéndose que el interesado tendrá, excepcionalmente, un nuevo plazo de 60 días para subsanar esa observación.
+
+En caso que el EISTU que estaba en trámite sea aprobado y, producto de ello, se otorgue el correspondiente permiso por la Dirección de Obras Municipales, el acto administrativo que aprobó el Estudio estará vigente hasta completar, como máximo, un total de diez años para efectos de solicitar la recepción definitiva de las obras. Si vencido ese plazo no se pide la recepción, o si habiendo sido solicitada ésta es rechazada, se deberá presentar ante la Seremitt un IMIV a través del SEIM. En la resolución que apruebe dicho informe se establecerán las medidas de mitigación que deberán cumplirse para obtener la recepción definitiva. Lo anterior, no afectará las etapas con mitigaciones parciales ya ejecutadas y recibidas, las que deberán ser consideradas como parte de la situación con proyecto mitigado.
+
+Lo señalado en este numeral será aplicable a toda solicitud de permiso en que se acompañe el certificado de admisibilidad a trámite del EISTU, incluidas aquellas solicitudes respecto de las cuales la Dirección de Obras Municipales deba pronunciarse antes de la entrada en vigencia del SEIM.
 
 Anótese, tómese razón y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Alberto Etchegaray Aubry, Ministro de Vivienda y Urbanismo.
 

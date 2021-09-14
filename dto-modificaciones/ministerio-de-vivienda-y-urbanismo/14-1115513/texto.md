@@ -74,6 +74,10 @@ Para efectos de determinar si los proyectos a que se refiere este artículo debe
 
 A la solicitud de permiso de urbanización, de edificación o a las autorizaciones correspondientes, en los casos de los proyectos a que se refiere el inciso primero de este artículo, se deberá acompañar el comprobante de ingreso del Informe de Mitigación o, el certificado emitido por el sistema que acredite que el proyecto no requiere de dicho informe. Cuando éste deba elaborarse, la resolución que lo apruebe será requisito para el otorgamiento del correspondiente permiso o autorización.
 
+Será responsabilidad del interesado ingresar ante la Dirección de Obras Municipales el acto administrativo mediante el cual se apruebe el Informe de Mitigación. Si ello no se efectúa dentro del plazo para pronunciarse sobre la solicitud de permiso, el Director de Obras Municipales deberá dejar constancia de ese requisito pendiente al emitir el Acta de Observaciones. Dicha observación deberá ser subsanada por el interesado dentro del plazo dispuesto en el inciso final del artículo 1.4.9 de esta Ordenanza o, en su defecto, deberá acreditar mediante documento emitido por el Sistema de Evaluación de Impacto en la Movilidad que dicho informe continúa en trámite de evaluación, conforme a los plazos establecidos en el decreto supremo Nº 30, de 2017, del Ministerio de Transportes y Telecomunicaciones y suscrito también por el Ministerio de Vivienda y Urbanismo, que aprueba el Reglamento sobre mitigación de impactos al sistema de movilidad local derivados de proyectos de crecimiento urbano.
+
+Producida esta última circunstancia, el Director de Obras Municipales podrá, por una segunda y última vez y dentro del plazo de 15 días desde el ingreso del referido documento emitido por el SEIM, observar la falta de aprobación del IMIV, entendiéndose que el interesado tendrá, excepcionalmente, un nuevo plazo de 60 días para subsanar esa observación.
+
 De la vigencia de los Informes de Mitigación de Impacto Vial
 
 #### Artículo 1
@@ -326,7 +330,9 @@ b. Agrégase el siguiente inciso final:
 
 En los casos que se modifique un proyecto que cuente con un certificado emitido por el sistema que señale que no requirió de dicho informe, se deberá acompañar un certificado que acredite que el proyecto modificado no requiere de dicho informe. En caso contrario, se deberá acompañar el comprobante de ingreso del Informe de Mitigación de Impacto Vial. En este último caso, será requisito para aprobar la modificación de proyecto que se acompañe a la Dirección de Obras la resolución que lo apruebe o, la certificación del silencio positivo de acuerdo al artículo 64 de la ley N° 19.880, según sea el caso.
 
-En los casos de los dos párrafos precedentes el Director de Obras Municipales deberá constatar que las modificaciones cuya suficiencia verifica el certificado o se solicitó verificar, en el caso del silencio positivo, sean idénticas a las contenidas en la solicitud de modificación presentadas ante su Dirección.".
+En los casos de los dos párrafos precedentes el Director de Obras Municipales deberá constatar que las modificaciones cuya suficiencia verifica el certificado o se solicitó verificar, en el caso del silencio positivo, sean idénticas a las contenidas en la solicitud de modificación presentadas ante su Dirección.
+
+Las modificaciones de proyectos que hubieren obtenido permiso o autorización por la Dirección de Obras Municipales bajo la normativa aplicable con anterioridad a la entrada en vigencia del SEIM, se regirán por lo establecido en el Capítulo VI del Título IV del decreto supremo Nº 30, de 2017, del Ministerio de Transportes y Telecomunicaciones y suscrito también por el Ministerio de Vivienda y Urbanismo, que aprueba el Reglamento sobre mitigación de impactos al sistema de movilidad local derivados de proyectos de crecimiento urbano.
 
 26) Agrégase al artículo 5.2.5. los siguientes incisos octavo y noveno:
 

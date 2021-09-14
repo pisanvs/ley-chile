@@ -446,6 +446,54 @@ CAPÍTULO V. MODIFICACIÓN DE PROYECTO CON IMIV APROBADO Y NECESIDAD DE PRESENTA
 
 5.5. Tramitación de un IMIV Complementario
 
+CAPÍTULO VI. PROYECTOS CON PERMISO O AUTORIZACIÓN OTORGADO POR LA DIRECCIÓN DE OBRAS MUNICIPALES BAJO LA NORMATIVA APLICABLE CON ANTERIORIDAD A LA ENTRADA EN VIGENCIA DEL SEIM
+
+### Párrafo 1º — . Ejecución de obras conforme al permiso otorgado
+
+#### Artículo 4
+
+6.1. Proyectos que no requieren someterse al SEIM para solicitar la recepción definitiva de las obras
+
+### Párrafo 2º — . Modificaciones de proyecto
+
+#### Artículo 4
+
+6.2. Modificaciones de proyecto que no requieren elaborar un IMIV
+
+#### Artículo 4
+
+6.3. Modificaciones de proyecto respecto de las cuales se puede solicitar el otorgamiento de un certificado de exención del IMIV
+
+#### Artículo 4
+
+6.4. Modificaciones de proyecto que requieren presentar un IMIV
+
+### Párrafo 3º — . Modificaciones respecto a las medidas de mitigación definidas en el EISTU o IVB aprobado
+
+#### Artículo 4
+
+6.5. Modificación de las medidas de mitigación definidas conforme al EISTU o el IVB aprobado, ejecución de tales medidas por etapas o modificación de la ejecución por etapas autorizada en dicho instrumento
+
+### Párrafo 4º — . Loteo o condominio tipo B, sin construcción simultánea, cuyo permiso fue otorgado acompañando un EISTU o un IVB. Solicitud de permiso en predios resultantes
+
+#### Artículo 4
+
+6.6. Verificación de semejanza entre el proyecto a desarrollar en el predio resultante y los parámetros con los que fue evaluado el EISTU o el IVB del loteo o condominio
+
+#### Artículo 4
+
+6.7. Proyecto en predio resultante que cuenta con verificación de semejanza con el EISTU o el IVB del loteo o condominio
+
+#### Artículo 4
+
+6.8. Proyecto en predio resultante que no cuenta con verificación de semejanza con el EISTU o el IVB del loteo o condominio
+
+### Párrafo 5º — . Loteo o edificación con recepción definitiva
+
+#### Artículo 4
+
+6.9. Permiso de ampliación o autorización de cambio de destino
+
 ## Título I — DISPOSICIONES GENERALES
 
 CAPÍTULO I. ÁMBITO DE APLICACIÓN, DEFINICIONES Y FORMATOS
@@ -514,13 +562,21 @@ Para los efectos de este reglamento, se entenderá por:
 
 "Corte temporal": corresponde al año en que se debe realizar el análisis de impactos del proyecto.
 
+"EISTU": sigla de Estudio de Impacto sobre el Sistema de Transporte Urbano.
+
+"Estudio de Impacto sobre el Sistema de Transporte Urbano": mecanismo aplicable a determinados proyectos que han solicitado o solicitan permiso a la Dirección de Obras Municipales antes de la entrada en vigencia del Sistema de Evaluación de Impactos en la Movilidad, mediante el cual, conforme a la metodología establecida en la resolución exenta Nº 2.379, de 2003, del Ministerio de Vivienda y Urbanismo, se identifican y evalúan los impactos en el sistema de transporte y se determinan las obras para mitigar tales impactos, relacionados con la puesta en operación de los proyectos referidos en los artículos 2.4.3, 4.5.4, 4.8.3 y 4.13.4 de la Ordenanza General de Urbanismo y Construcciones, según el texto vigente al solicitarse el correspondiente permiso.
+
 "Grado de saturación": razón entre el flujo y la capacidad vehicular de un arco.
 
 "IMIV": sigla de Informe de Mitigación de Impacto Vial.
 
 "Informe de Mitigación de Impacto Vial": mecanismo a través del cual el titular de un proyecto de crecimiento urbano por extensión o por densificación solicita la evaluación y aprobación de las medidas de mitigación obligatorias relacionadas con el sistema de movilidad local que le sean aplicables y, en los casos que corresponda, de las medidas de mitigación adicionales requeridas para aplacar o disminuir adecuadamente los impactos relevantes que se producirían en el referido sistema con la puesta en operación del proyecto, con el objeto de mantener sus estándares de servicio, en la correspondiente área de influencia, en un nivel semejante al existente antes de la puesta en operación del proyecto.
 
+"Informe Vial Básico": mecanismo mediante el cual, hasta la entrada en vigencia del Sistema de Evaluación de Impactos en la Movilidad, se solicita la aprobación de las Secretarías Regionales Ministeriales de Transportes y Telecomunicaciones respecto de: i) proyectos que incluyen cualquier modificación a las características físicas u operacionales de las vías que integren la red vial básica de una ciudad o conglomerado de ciudades, que comprometan la operación de vehículos y/o peatones; y ii) proyectos de construcción de nuevas vías que incidan en la red vial básica. Lo anterior, conforme a lo dispuesto en el decreto supremo Nº 83, de 1985, del Ministerio de Transportes y Telecomunicaciones y a las instrucciones de carácter general aprobadas mediante resolución exenta Nº 511, de 2012, del referido Ministerio.
+
 "Intersección": área común de vías que se cruzan o convergen, incluidas en ellas tanto las calzadas como las respectivas aceras, así como la superficie contigua en la que se emplazan o implementan las medidas de señalización y gestión de tránsito requeridas para el adecuado funcionamiento de la intersección conforme a sus flujos estimados, tales como semáforos, señales verticales, demarcaciones horizontales, reductores de velocidad, entre otras.
+
+"IVB": sigla de Informe Vial Básico.
 
 "Manual de Carreteras": documento que forma parte del marco normativo técnico de la Dirección de Vialidad del Ministerio de Obras Públicas, cuya versión vigente, así como sus actualizaciones o modificaciones, son aprobadas mediante resoluciones del referido órgano y cuyo volumen III está referido a las instrucciones y criterios de diseño de los caminos públicos, en el que, entre otras materias, se define la capacidad de una carretera o camino público y se precisa la forma de determinar sus niveles de servicio.
 
@@ -622,8 +678,6 @@ i) Proyectos de Casas
 
 ii) Proyectos de Departamentos
 
-.
-
 (1) En el caso del transporte privado motorizado, el flujo inducido en veh/h se estima en base a los viajes/h corregidos por una tasa de ocupación promedio de 1,2 viajes/veh.
 
 .
@@ -672,8 +726,6 @@ h) Uso de suelo equipamiento, clase educación:
 
 Respecto de los proyectos de equipamiento de clase educación, la estimación de flujos se efectuará en función de lo establecido en los siguientes cuadros:
 
-.
-
 (1) Las tasas establecidas en este numeral son aplicables únicamente en temporada normal. No se contemplan tasas de inducción de viajes para la temporada estival, atendido el período de funcionamiento de estos establecimientos.
 
 i) Uso de suelo equipamiento, clase esparcimiento:
@@ -702,8 +754,6 @@ l) Uso de suelo equipamiento, clase servicios:
 
 Respecto de los proyectos de equipamiento de clase servicios, la estimación de flujos se efectuará en función de lo establecido en los siguientes cuadros:
 
-.
-
 m) Uso de suelo equipamiento, clase social:
 
 Respecto de los proyectos de equipamiento de clase social, la estimación de flujos se efectuará en función de lo establecido en los siguientes cuadros:
@@ -722,8 +772,6 @@ o) Uso de suelo infraestructura:
 
 Respecto de los proyectos de infraestructura, la estimación de flujos se efectuará en función de lo establecido en los siguientes cuadros:
 
-.
-
 (1) No se contemplan tasas para los proyectos de estaciones de tren interurbano o de sistema de transporte público mediante ferrocarril urbano o suburbano, en atención a que corresponden a obras de infraestructura de transporte que ejecuta el Estado, que no requieren permiso de la Dirección de Obras Municipales en conformidad a lo establecido en el inciso cuarto del artículo 116 de la Ley General de Urbanismo y Construcciones y que, por tanto, se encuentran exentos de presentar IMIV.
 
 (2) No se contemplan tasas para los proyectos de infraestructura sanitaria correspondientes a plantas de captación, distribución o tratamiento de agua potable, aguas servidas o aguas lluvias, ni respecto de los proyectos de infraestructura energética correspondientes a centrales de generación o distribución de energía, gas o telecomunicaciones, en atención a que los viajes inducidos por tales proyectos son bajos, lo que implica que están exentos de presentar IMIV.
@@ -732,7 +780,7 @@ Respecto de los proyectos de infraestructura, la estimación de flujos se efectu
 
 (4) La unidad TEU corresponde a la capacidad de carga de un contenedor normalizado de 20 pies.
 
-(5) Para representar los viajes inducidos en camiones/h, se utilizará el factor de equivalencia correspondiente a camión de más de dos ejes, establecido en la definición de vehículo equivalente del artículo 1.1.4 de este reglamento.
+(5) Para efectos de determinar el tipo de IMIV a realizar y el área de influencia a considerar, la estimación de los flujos en transporte privado motorizado, tanto de entrada como de salida al proyecto, se encuentra expresado en vehículos equivalentes, de acuerdo a lo establecido en la definición de tal concepto en el artículo 1.1.4 de este reglamento.
 
 (6) Para efectos de determinar el tipo de IMIV a realizar y el área de influencia a considerar, la estimación de los flujos en transporte privado motorizado, tanto de entrada como de salida al proyecto, se deberán expresar en vehículos equivalentes, de acuerdo a lo establecido en la definición de tal concepto en el artículo 1.1.4 de este reglamento, aplicando los factores de conversión a los camiones de 2 o más ejes.
 
@@ -2171,6 +2219,142 @@ En todo aquello que no sea contrario a lo establecido en este artículo, rigen p
 #### Artículo transitorio
 
 Los plazos establecidos en el Capítulo II del Título IV, referidos a la evaluación de los IMIV Básicos, serán exigibles una vez transcurridos dos años desde la entrada en vigencia de este reglamento. En el intertanto, serán aplicables los plazos que, para los mismos efectos, se establecen en el artículo 172 de la Ley General de Urbanismo y Construcciones.
+
+CAPÍTULO VI. PROYECTOS CON PERMISO O AUTORIZACIÓN OTORGADO POR LA DIRECCIÓN DE OBRAS MUNICIPALES BAJO LA NORMATIVA APLICABLE CON ANTERIORIDAD A LA ENTRADA EN VIGENCIA DEL SEIM.
+
+### Párrafo 1º — Ejecución de obras conforme al permiso otorgado
+
+#### Artículo 4
+
+6.1 Proyectos que no requieren someterse al SEIM para solicitar la recepción definitiva de las obras.
+
+El titular de un permiso o autorización otorgado por la Dirección de Obras Municipales bajo la normativa aplicable con anterioridad a la entrada en vigencia del SEIM, en la medida que dicho permiso o autorización se encuentre vigente, podrá ejecutar las obras autorizadas sin necesidad de someter el proyecto al SEIM, aun cuando la recepción definitiva de las mismas se solicite cuando este sistema se encuentre vigente. Lo anterior aplica para todo tipo de proyectos, sea que hubieren estado exentos de las exigencias de mitigación de impactos o que hubieren obtenido permiso acompañando un Estudio de Impacto sobre el Sistema de Transporte Urbano ("EISTU") o un Informe Vial Básico ("IVB"), conforme a las normas que fueron consideradas al evaluar y otorgar el respectivo permiso.
+
+Tratándose de permisos que hubieren sido otorgados considerando un EISTU o un IVB, para efectos de la recepción definitiva de las obras, total o parcial, se deberá acreditar la ejecución de las respectivas medidas de mitigación definidas en función de dicho Estudio o Informe, sin perjuicio de la posibilidad de otorgar una caución que las garantice, previa autorización de la Seremitt otorgada en la aprobación del EISTU o del IVB, conforme a lo establecido en el artículo 173 de la Ley General de Urbanismo y Construcciones y en el inciso cuarto del artículo 2.4.3 de la Ordenanza General de Urbanismo y Construcciones, en su texto vigente hasta la entrada en vigencia del SEIM.
+
+Sin perjuicio de lo señalado en los incisos precedentes, el titular del permiso deberá dar cumplimiento a las reglas establecidas en este Capítulo, si se verifica alguno de los siguientes supuestos: i) si requiere modificar el proyecto y el correspondiente permiso antes de la recepción; ii) si requiere ejecutar las medidas de mitigación por etapas y el EISTU o el IVB aprobado no contempló dicha posibilidad; o iii) si requiere modificar las medidas de mitigación aprobadas o su modalidad de ejecución por etapas.
+
+### Párrafo 2º — Modificaciones de proyecto
+
+#### Artículo 4
+
+6.2 Modificaciones de proyecto que no requieren elaborar un IMIV.
+
+Conforme a lo establecido en la letra d) del artículo 171 de la Ley General de Urbanismo y Construcciones, en los siguientes supuestos de modificación de proyecto no se requerirá elaborar informe de mitigación:
+
+a) Proyecto que se acoge al procedimiento de aprobación de variaciones menores en relación a detalles constructivos, instalaciones o terminaciones, contemplado en el artículo 5.2.8 de la OGUC.
+
+En este caso, bastará con indicar esta circunstancia en la correspondiente solicitud que se presente ante la Dirección de Obras Municipales, no siendo necesario ingresar las características de la modificación de proyecto en el SEIM ni solicitar el otorgamiento de un certificado de exención del IMIV.
+
+b) Modificación de proyecto que no contempla cambios en la superficie total edificable autorizada en el permiso, en el número y/o superficie de las unidades de referencia para la estimación de flujos de viajes, en la carga de ocupación, en el número y/o ubicación de los accesos, en el número de estacionamientos, ni en alguno de los destinos y/o clases de equipamiento consignados en el permiso.
+
+En este caso, se deberá declarar en el SEIM que la modificación de proyecto no contempla ninguno de los cambios señalados en el párrafo precedente, con el objeto de obtener un certificado que acredite que la modificación de proyecto se encuentra exenta de presentar un IMIV, a efectos que el titular del mismo pueda presentarlo ante la Dirección de Obras Municipales al ingresar la correspondiente solicitud.
+
+Lo señalado en este artículo es sin perjuicio que, tratándose de permisos que originalmente hubieren sido otorgados considerando un EISTU o un IVB, se deberá acreditar la ejecución de las respectivas medidas de mitigación definidas en función de dicho Estudio o Informe, para efectos de la recepción definitiva de las obras, total o parcial, considerando la posibilidad de otorgar una caución que las garantice, previa autorización de la Seremitt otorgada en la aprobación del EISTU o del IVB, conforme a lo establecido en el artículo 173 de la Ley General de Urbanismo y Construcciones y en el inciso cuarto del artículo 2.4.3 de la Ordenanza General de Urbanismo y Construcciones, en su texto vigente hasta la entrada en vigencia del SEIM.
+
+#### Artículo 4
+
+6.3 Modificaciones de proyecto respecto de las cuales se puede solicitar el otorgamiento de un certificado de exención del IMIV.
+
+Conforme a lo establecido en la letra d) del artículo 171 de la Ley General de Urbanismo y Construcciones, los titulares de permisos o autorizaciones obtenidos bajo la normativa aplicable con anterioridad a la entrada en vigencia de este reglamento y que pretendan ingresar una solicitud de modificación de proyecto ante la Dirección de Obras Municipales, podrán solicitar en el SEIM el otorgamiento de un certificado de exención del IMIV, siempre que acrediten que dicha modificación no contempla cambio alguno respecto de los destinos y/o clases de equipamiento consignados en el correspondiente permiso y que no produciría alteraciones en el sistema de movilidad local significativamente distintas a las que produciría el proyecto original, aun cuando incluya cambios en la superficie total edificable autorizada en el permiso, en el número y/o superficie de las unidades de referencia para la estimación de flujos de viajes, en la carga de ocupación, en el número y/o ubicación de los accesos o en el número de estacionamientos.
+
+Para estos efectos, únicamente se considerará que la modificación de proyecto no produciría alteraciones en el sistema de movilidad local significativamente distintas a las que produciría el proyecto original, si se cumplen las siguientes condiciones, en forma copulativa:
+
+a) Si no se contempla la eliminación de accesos por alguna vía ni la incorporación de nuevos accesos en vías que no contaban con éstos en el proyecto original; y
+
+b) Si los flujos inducidos por el proyecto modificado no requerirían la presentación de un IMIV de categoría superior o un aumento en el número de intersecciones del área de influencia, respecto de la categoría y número de intersecciones que habrían correspondido al proyecto original, de acuerdo a lo establecido en los artículos 1.2.6 y 3.2.2 letra a) precedentes. Para efectos de lo anterior, se deberán estimar los flujos de viajes en transporte privado motorizado y en otros modos, de acuerdo a lo establecido en el artículo 1.2.6 del presente reglamento, tanto para el proyecto original como para el proyecto modificado.
+
+En caso de cumplirse estas dos condiciones copulativas, el titular del proyecto podrá solicitar, en el SEIM, el otorgamiento de un certificado de exención del IMIV, para lo cual deberá ingresar los siguientes antecedentes:
+
+- **i)** descripción del proyecto original; ii) descripción del proyecto modificado; iii) acreditación de lo dispuesto en las letras
+
+- **a)** y
+
+- **b)** del párrafo precedente, incluidas las estimaciones de flujos de viajes; y iv) declaración que la modificación de proyecto no contempla cambio alguno respecto de los destinos y/o clases de equipamiento consignados en el correspondiente permiso.
+
+Una vez que se ingrese correctamente la referida información, podrá obtenerse a través del SEIM el certificado que acredite que la modificación de proyecto se encuentra exenta de presentar un IMIV, a efectos que el titular del mismo pueda presentarlo ante la Dirección de Obras Municipales al ingresar la correspondiente solicitud. Dicho certificado deberá ser expedido por el referido sistema dentro del plazo correspondiente a las providencias de mero trámite, en conformidad a la Ley Nº 19.880.
+
+Lo señalado en este artículo es sin perjuicio que, tratándose de permisos que originalmente hubieren sido otorgados considerando un EISTU o un IVB, se deberá acreditar la ejecución de las respectivas medidas de mitigación definidas en función de dicho Estudio o Informe, para efectos de la recepción definitiva de las obras, total o parcial, considerando la posibilidad de otorgar una caución que las garantice, previa autorización de la Seremitt otorgada en la aprobación del EISTU o del IVB, conforme a lo establecido en el artículo 173 de la Ley General de Urbanismo y Construcciones y en el inciso cuarto del artículo 2.4.3 de la Ordenanza General de Urbanismo y Construcciones, en su texto vigente hasta la entrada en vigencia del SEIM.
+
+En caso que el titular del permiso verifique que no se cumplen las condiciones referidas en este artículo o en caso que no fuere posible obtener en el SEIM el certificado de exención por incumplimiento de los requisitos aplicables, la modificación de proyecto se regirá por lo establecido en el artículo 4.6.4 siguiente.
+
+#### Artículo 4
+
+6.4. Modificaciones de proyecto que requieren presentar un IMIV.
+
+En los siguientes supuestos, los titulares de permisos o autorizaciones obtenidos bajo la normativa aplicable con anterioridad a la entrada en vigencia de este reglamento y que pretendan ingresar ante la Dirección de Obras Municipales una solicitud de modificación de proyecto, deberán ingresar previamente el correspondiente IMIV al SEIM:
+
+a) Si la modificación de proyecto contempla algún cambio en los destinos y/o clases de equipamiento consignados en el permiso o autorización original; o
+
+b) Si la modificación de proyecto contempla otros cambios que podrían producir alteraciones en el sistema de movilidad local significativamente distintas a las que produciría el proyecto original que ya cuenta con permiso, esto es, si contempla alguno de los cambios referidos en la letra b) del artículo 4.6.2 de este reglamento y no se verifica el cumplimiento de las condiciones copulativas referidas en el artículo 4.6.3 precedente.
+
+Para efectos de determinar el tipo de IMIV requerido, se deberá estimar los flujos de viajes en transporte privado motorizado y en otros modos, de acuerdo a lo establecido en el artículo 1.2.3 del presente reglamento, para el proyecto con modificaciones.
+
+El informe que se ingrese al SEIM para su evaluación deberá dar cumplimiento a las exigencias establecidas en este reglamento, según el tipo de IMIV requerido. En el caso de medidas de mitigación y/u obras de urbanización que ya hubieren sido ejecutadas por el titular del proyecto, éstas deberán identificarse en la situación con proyecto mitigado.
+
+El comprobante de ingreso del IMIV deberá ser acompañado por el interesado a la solicitud de modificación de proyecto que presente ante la Dirección de Obras Municipales. Una vez emitida la resolución de aprobación del IMIV, ésta deberá ser acompañada por el interesado a dicho expediente de modificación de proyecto, siendo aplicable a este procedimiento lo establecido en el artículo 1.5.1 de la Ordenanza General de Urbanismo y Construcciones.
+
+### Párrafo 3º — . Modificaciones respecto a las medidas de mitigación definidas en el EISTU o IVB aprobado
+
+#### Artículo 4
+
+6.5. Modificación de las medidas de mitigación definidas conforme al EISTU o el IVB aprobado, ejecución de tales medidas por etapas o modificación de la ejecución por etapas autorizada en dicho instrumento.
+
+El titular del permiso deberá solicitar a la Seremitt, a través del SEIM, la aprobación de un informe de suficiencia en el que se acredite que las nuevas medidas o etapas propuestas permitirían mitigar adecuadamente los correspondientes impactos que generaría el proyecto con su puesta en operación. Las modificaciones a las medidas de mitigación y/o a sus etapas pueden provenir de la necesidad de adaptar dichas medidas a la realidad del sector al momento de ejecutarlas producto de intervenciones que hubieren modificado las condiciones de operación del sistema de movilidad, que hagan inviable la ejecución de las medidas definidas en función del EISTU o del IVB aprobado en los mismos términos allí considerados. Solo respecto de este supuesto, la Dirección de Obras Municipales podrá permitir al titular del permiso que modifique las medidas de mitigación y/o sus etapas, para lo cual el titular deberá obtener previamente la correspondiente autorización de la Seremitt. En cualquier otro supuesto, la Dirección de Obras deberá respetar las medidas de mitigación consignadas en el permiso otorgado y no podrá solicitar su modificación.
+
+El informe de suficiencia, utilizando las mismas modelaciones del EISTU o IVB original, deberá demostrar técnicamente que los cambios en las medidas de mitigación no producirían alteraciones en el sistema de movilidad local, significativamente distintas a aquellas evaluadas en el Estudio o Informe original, en los mismos términos que fueron analizadas.
+
+La Seremitt, a través del SEIM, deberá aprobar, observar o rechazar los informes de suficiencia mediante resolución fundada. Obtenida la resolución de aprobación del informe, ésta deberá ser acompañada a la solicitud de modificación de proyecto o de recepción definitiva que se presente ante la Dirección de Obras Municipales, según corresponda.
+
+Por su parte, si el informe de suficiencia es rechazado por la Seremitt, el titular del permiso deberá presentar un IMIV a través del SEIM, considerando que aquellas medidas de mitigación y/u obras de urbanización que ya hubieren sido ejecutadas por el titular del proyecto, deberán identificarse en la situación con proyecto mitigado.
+
+### Párrafo 4º — . Loteo o condominio tipo B, sin construcción simultánea, cuyo permiso fue otorgado acompañando un EISTU o un IVB. Solicitud de permiso en predios resultantes.
+
+#### Artículo 4
+
+6.6. Verificación de semejanza entre el proyecto a desarrollar en el predio resultante y los parámetros con los que fue evaluado el EISTU o el IVB del loteo o condominio.
+
+El EISTU o el IVB que se acompañó para la aprobación del loteo o del condominio tipo B otorga a los propietarios de los predios resultantes un marco para el desarrollo de sus proyectos, respecto de los cuales ciertos impactos relacionados con la incorporación de nuevo suelo urbanizado ya estarían mitigados. En atención a lo anterior, para determinar si el proyecto a desarrollar en el predio resultante se encuentra exento del SEIM o si, en cambio, debe presentar un determinado tipo de IMIV, no solo se requiere efectuar una estimación de flujos conforme a lo establecido en los artículos 1.2.1 y siguientes del presente reglamento, sino también se requiere efectuar una verificación de semejanza entre el proyecto a desarrollar en el predio resultante y los parámetros con los que fue evaluado y aprobado el EISTU o el IVB del loteo o condominio tipo B.
+
+Para efectos de lo señalado en el inciso precedente, el titular del proyecto que se pretende desarrollar en el predio resultante deberá ingresar las características del mismo en el SEIM, con el objeto que el sistema pueda efectuar una estimación de los flujos de viajes que dicho proyecto induciría en transporte privado motorizado y en otros modos, según el uso de suelo, destino o clase de equipamiento del proyecto que se pretende desarrollar. Junto con lo anterior, en caso de contar con dicha información, deberá ingresar en el SEIM el uso de suelo, destino y/o clase de equipamiento previsto para dicho predio en el EISTU o IVB del loteo o condominio y los parámetros con los que éste fue evaluado, con el objeto que el SEIM pueda efectuar una estimación de los flujos de viajes en transporte privado motorizado y en otros modos que habría inducido un proyecto con tales características.
+
+A partir de la información ingresada y de las referidas estimaciones de flujos, el SEIM determinará el tipo de IMIV que requeriría el proyecto que se pretende desarrollar o la eventual exención de la obligación de presentarlo, conforme a los umbrales establecidos en el artículo 1.2.6 de este reglamento. Asimismo, el SEIM determinará el tipo de IMIV que habría requerido un proyecto con las características consideradas para dicho predio en el EISTU o IVB del loteo o condominio. En ambos casos, en el evento de requerirse un IMIV Intermedio o Mayor, adicionalmente deberán considerarse los parámetros establecidos en el artículo 3.2.2 de este reglamento para la determinación del número de intersecciones que debiera tener el área de influencia.
+
+Si el proyecto a desarrollar en el predio resultante coincide con el uso de suelo, destino o clase de equipamiento que se había considerado para dicho predio en el EISTU o IVB del loteo o condominio y, además, no requiriere la presentación de un IMIV de categoría superior ni el aumento en el número de intersecciones del área de influencia, el SEIM emitirá un certificado de semejanza entre el proyecto a desarrollar en el predio resultante y los parámetros con los que fue evaluado el EISTU o el IVB del loteo o condominio, concluyendo que el desarrollo de un proyecto de tales características en el predio resultante no produciría alteraciones en el sistema de movilidad local, significativamente distintas a las que habría producido el proyecto que se había considerado para dicho predio en el EISTU o IVB del loteo o condominio. En tal caso, el IMIV del proyecto que se pretende desarrollar en el predio resultante se regirá por lo establecido en el artículo 4.6.7 de este reglamento.
+
+En caso contrario, esto es, si no coincide el uso de suelo, destino o clase de equipamiento, o bien, si se requiriera presentar un IMIV de categoría superior o aumentar el número de intersecciones del área de influencia, el IMIV del proyecto que se pretende desarrollar en el predio resultante se regirá por lo establecido en el artículo 4.6.8 de este reglamento. Asimismo, se regirán por dicho artículo los proyectos en predios resultantes de loteos o condominios tipo B, sin construcción simultánea, respecto de los cuales no se cuente con la información necesaria para efectuar la verificación de semejanza a que se refiere el presente artículo.
+
+#### Artículo 4
+
+6.7. Proyecto en predio resultante que cuenta con verificación de semejanza con el EISTU o el IVB del loteo o condominio.
+
+En el IMIV que se ingrese al SEIM únicamente deberá verificarse el cumplimiento de aquellas medidas de mitigación obligatorias, referidas en el artículo 1.3.2 del presente reglamento y según el tipo de IMIV requerido, relacionadas con particularidades propias del proyecto a desarrollar en el predio resultante que no hayan podido ser previstas en el EISTU o IVB del loteo o condominio, como el cumplimiento de medidas específicas relacionadas con accesos vehiculares o peatonales, o de cualesquiera otras medidas que dependan del emplazamiento o diseño específico del proyecto en el predio resultante.
+
+Asimismo, en el IMIV se deberá consignar que están ejecutadas las medidas de mitigación del loteo o condominio del que forma parte el predio en el que pretende desarrollarse el proyecto, en lo que a dicho predio le corresponda según la resolución de la Seremitt que aprobó el EISTU o IVB del loteo o condominio. De no estar ejecutadas, tales medidas deberán quedar consignadas en la aprobación del IMIV por parte de la Seremitt y deberán estar ejecutadas y recibidas al momento de ingresar la solicitud de recepción definitiva ante la respectiva Dirección de Obras Municipales.
+
+La verificación del cumplimiento de las medidas de mitigación contempladas en el EISTU o IVB del loteo o condominio que fueren aplicables a dicho predio, junto con el cumplimiento de las medidas de mitigación obligatorias que fueren exigibles al proyecto en el predio resultante conforme al artículo 1.3.2 de este reglamento, será suficiente para que la autoridad respectiva, en el marco del proceso de evaluación del IMIV, concluya que el proyecto se hace cargo de sus impactos relevantes en el sistema de movilidad local y que no se requiere la presentación, evaluación y ejecución de obras o medidas de mitigación adicionales. Lo anterior es consistente con los principios de celeridad, economía procedimental y no formalización reconocidos en el artículo 171 de la Ley General de Urbanismo y Construcciones y con el hecho de que el cumplimiento de las medidas de mitigación obligatorias exigidas en este reglamento, unido a las medidas de mitigación contempladas en el EISTU o IVB del loteo o condominio, permite resguardar adecuadamente la circulación segura de peatones y medios de transporte, las condiciones de accesibilidad del proyecto, su interacción con el sistema de movilidad y su inserción armónica con el entorno urbano.
+
+El informe deberá indicar de forma clara que el proyecto se está acogiendo a lo estipulado en el presente artículo y las medidas de mitigación ejecutadas por el loteo o condominio deberán identificarse en la situación con proyecto mitigado.
+
+#### Artículo 4
+
+6.8. Proyecto en predio resultante que no cuenta con verificación de semejanza con el EISTU o el IVB del loteo o condominio.
+
+El IMIV del proyecto a desarrollar en el predio resultante, que se ingrese al SEIM, deberá considerar todos los aspectos regulados en el presente reglamento, según el tipo de IMIV requerido para dicho proyecto.
+
+Las medidas de mitigación ejecutadas por el loteo o condominio deberán identificarse en la situación con proyecto mitigado y deberán estar ejecutadas y recibidas al momento de ingresar la solicitud de recepción definitiva ante la respectiva Dirección de Obras Municipales.
+
+### Párrafo 5º — . Loteo o edificación con recepción definitiva
+
+#### Artículo 4
+
+6.9. Permiso de ampliación o autorización de cambio de destino
+
+El loteo o edificación que cuenta con recepción definitiva otorgada por parte de la Dirección de Obras Municipales, antes o después de la entrada en vigencia del SEIM, ya ha dado cumplimiento al mecanismo de evaluación y mitigación de impactos aplicable a dicho proyecto al momento de obtener el correspondiente permiso, ejecutar las obras y obtener la referida recepción definitiva.
+
+En cuanto a las solicitudes de permiso de ampliación, únicamente deberá someterse al SEIM aquella parte correspondiente a la ampliación y no el proyecto completo.
+
+En cuanto a las solicitudes de autorización de cambio de destino de un loteo o edificación que cuenta con recepción definitiva, el titular del proyecto deberá someter al SEIM aquella parte respecto de la cual se solicite dicha autorización.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Paola Tapia Salas, Ministra de Transportes y Telecomunicaciones.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
