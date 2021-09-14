@@ -22,57 +22,63 @@ Establécense las siguientes regulaciones de importación para plantas y ramilla
 
 Especie Familia Orden
 
-Pseudaulacaspis pentagona Diaspididae Hemiptera
+Pseudaulacaspis Diaspididae Hemiptera
 
-1.3 El material deriva de plantas madres que fueron inspeccionadas y analizadas (especificar el método de diagnóstico), en el momento óptimo y encontradas libres de Pseudomonas syringae pv. actinidiae
+pentagona
 
-2. El material debe haber sido sometido a un tratamiento de desinfestación por inmersión contra insectos y ácaros, con productos efectivos para estas plagas, señalando en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, el ingrediente activo del producto, tiempo de exposición y dosis utilizada.
+1.3. El material procede de plantas madres que fueron inspeccionadas y analizadas mediante (especificar el método de diagnóstico) en el momento óptimo para la detección de la plaga y encontrado libre de Pseudomonas syringae pv. actinidiae, excepto biovar 3.
+
+2. El material debe haber sido sometido a un tratamiento de desinfestación por inmersión o aspersión contra insectos y ácaros, con productos efectivos contra estas plagas, señalando en el Certificado Fitosanitario, en la sección correspondiente a Tratamiento, el ingrediente activo del producto, el tipo de aplicación y la dosis utilizada.
 
 3. Adicionalmente, el material deberá cumplir con los siguientes requisitos sanitarios que serán verificados en la inspección fitosanitaria en el Punto de Ingreso:
 
-* Libre de suelo y desprovisto de hojas, flores y
+* Libre de suelo y desprovisto de
 
-restos de frutos.
+hojas, flores y restos de frutos.
 
-* Embalado en envases cerrados, resistentes a la
+* Embalado en envases cerrados,
 
-manipulación y factibles de sellar.
+resistentes a la manipulación y
 
-* Los materiales acompañantes, destinados a
+factibles de sellar.
 
-amortiguar o conservar la humedad, no deben
+* Los materiales acompañantes,
 
-corresponder a materiales vegetales capaces de
+destinados a amortiguar o conservar
 
-transportar plagas, tales como pajas de
+la humedad, no deben corresponder a
 
-gramíneas, virutas ni aserrín de madera.
+materiales vegetales capaces de
 
-* En el caso de plantas, los substratos que
+transportar plagas, tales como
 
-acompañan la partida deberán corresponder a
+pajas de gramíneas, virutas ni
 
-materiales tales como musgo esfangíneo,
+aserrín de madera.
+
+* En el caso de plantas, los
+
+substratos que acompañan la partida
+
+deberán corresponder a materiales
+
+tales como musgo esfangíneo,
 
 vermiculita, perlita, turba o geles
 
-higroscópicos, debiendo venir libres de suelo,
+higroscópicos, debiendo venir
 
-de nematodos fitoparásitos, artrópodos
+libres de suelo, de nematodos
 
-regulados y semillas de malezas cuarentenarias,
+fitoparásitos, artrópodos regulados
 
-de acuerdo a lo establecido en la resolución Nº
+y semillas de malezas cuarentenarias.
 
-3.280 de 1999.
-
-### 4. El material estará sujeto a Inspección
-
-Fitosanitaria a su ingreso al país por parte de los profesionales del Servicio destacados en el Punto de Ingreso, quienes verificarán el cumplimiento de los requisitos y condiciones fitosanitarias establecidos, y con la documentación adjunta, resolverán su internación.
+4. El material estará sujeto a Inspección Fitosanitaria a su ingreso al país por parte de los profesionales del Servicio destacados en el Punto de Ingreso, quienes verificarán el cumplimiento de los requisitos y condiciones fitosanitarias establecidos, y con la documentación adjunta, resolverán su internación.
 
 5. La totalidad del material deberá cumplir con régimen de Cuarentena de Post-Entrada, instancia en que se realizarán los controles oficiales tendientes a la verificación de ausencia de Plagas Reglamentadas. Para tal efecto, el importador deberá contar con la autorización del lugar de Cuarentena, la que debe ser presentada en el Punto de Ingreso al momento del arribo de la mercadería al país.
 
-6. Si el material proviene de Centros Reconocidos Oficialmente por el Servicio Agrícola y Ganadero, conforme a lo establecido en la resolución Nº 2.863 de 2001 y Nº 2.878 de 2004, deberá indicarse además, en la sección correspondiente del Certificado Fitosanitario, la siguiente declaración adicional: "El envío procede de (nombre del Centro), el cual ha sido Oficialmente reconocido hasta (fecha de vigencia) por resolución Nº (número de la resolución de reconocimiento del Centro), de fecha (fecha)".
+6. La cuarentena de posentrada podrá obviarse o simplificarse al optar por el Sistema de reconocimiento de Centros productores de material de propagación ubicados en el extranjero, de acuerdo a los requerimientos establecidos en la Resolución Nº 2.878 de 2004.
 
 7. Para los Materiales Modificados Genéticamente el importador deberá declarar su condición genética y cumplir con las normativas del Servicio Agrícola y Ganadero, que establecen los requisitos para la internación e introducción al medio ambiente de estos materiales.
 
