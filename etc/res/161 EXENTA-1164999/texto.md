@@ -1,0 +1,9 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL ESTUDIO DE IMPACTO AMBIENTAL PROYECTO "DOMINGA"
+
+De conformidad a lo dispuesto en el artículo 53 inciso final del decreto supremo N° 95 de 2001, del Ministerio Secretaría General de la Presidencia, Reglamento del Sistema de Evaluación de Impacto Ambiental, se informa a las personas -naturales y jurídicas- que presentaron observaciones ciudadanas durante el procedimiento de evaluación ambiental del Estudio de Impacto Ambiental (EIA) del proyecto "Dominga", cuyo titular es Andes Iron SpA, que éste ha sido calificado favorablemente por la Comisión de Evaluación Región de Coquimbo, mediante la resolución exenta N°161 de fecha 24 de agosto de 2021.
+
+Ante la contingencia que atraviesa el país, dado el brote de coronavirus COVID-2019, se han adoptado medidas administrativas a objeto de permitir el desarrollo de procedimientos administrativos y la atención de usuarios por medios electrónicos. Por lo anterior, el texto íntegro de la RCA citada y su expediente de evaluación puede ser conocido a través del sitio web www.sea.gob.cl.
+
+De acuerdo a lo dispuesto en el artículo 29 de la ley N° 19.300, si alguna persona, natural o jurídica, considera que su observación no ha sido debidamente considerada en los fundamentos de la resolución exenta N° 161, dispondrá de un plazo de 30 días hábiles, contados desde la presente notificación, para presentar recurso de reclamación, el que deberá ser dirigido al Comité de Ministros, y presentado en la oficina de partes electrónica de la Dirección Ejecutiva del Servicio de Evaluación Ambiental oficinapartes.sea@sea.gob.cl.-
+
+Claudia Martínez Guajardo, Directora Regional Servicio de Evaluación Ambiental, Secretaria Comisión de Evaluación, Región de Coquimbo.
