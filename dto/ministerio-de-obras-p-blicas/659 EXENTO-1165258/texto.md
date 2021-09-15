@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por decreto MOP (Exento) N°659, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 155-A y 158-A, para la obra: MEJORAMIENTO RUTA K-275, SECTOR LAS TRANCAS-PARQUE INGLES, que figuran a nombre de CORPORACION DE FOMENTO DE LA PRODUC, roles de avalúo 642-15, Comuna de MOLINA, REGION DEL MAULE, superficies 1.230 y 400 m2 respectivamente. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 31 de mayo de 2021, fijó el monto de la indemnización provisional en la cantidad de $5.842.500 para el lote N°155-A, y $1.900.000 para el lote N° 158-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2186, de 1978.
+
+Fiscalía MOP.
