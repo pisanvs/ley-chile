@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 629 de 23 de agosto de 2021, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 1 para la obra: CONCESION INTERNACIONAL RUTA 5. TRAMO: RIO BUENO - PUERTO MONTT. SECTOR: EXTENSIÓN CALLE DE SERVICIO HASTA CRUCE NANNING. KM. 974.540,00 A KM. 975.300,00, Región de Los Lagos, que figura a nombre de BANCO SECURITY, rol de avalúo 243-461 de la comuna de Frutillar, superficie 3.298 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 69 de 16 de febrero de 2021, integrada por Helmuth Felipe Alarcón Villegas, Patricio Antonio Rivera Castro y Carmen Gloria Gatica Villarroel, fijó con fecha 7 de abril de 2021, el valor provisional de la indemnización en la cantidad de $48.690.400 para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
