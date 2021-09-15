@@ -70,25 +70,19 @@ Factores y subfactores. La calificación del personal de la Dirección de Compra
 
 #### Artículo 4º
 
-Notas. El proceso de calificación evaluará los factores y subfactores señalados en el artículo anterior, por medio de los siguientes criterios de evaluación:
+Notas. El proceso de calificación evaluará los factores y subfactores señalados en el artículo anterior, utilizando una nota en una escala de 1 a 5, las que estarán asociadas a los siguientes criterios de evaluación:
 
-.
-
-La asignación de cada criterio de evaluación deberá ser fundada en circunstancias acaecidas durante el respectivo período de calificación.
-
-Cada criterio de evaluación estará asociado a una nota en una escala de 1 a 5 (dicha escala de notas será asignada automáticamente en el sistema informático de calificaciones):
-
-.
+La asignación de cada criterio de evaluación deberá ser fundada en circunstancias acaecidas durante el respectivo periodo de calificación.
 
 Las notas asignadas a los subfactores están expresadas en enteros sin decimales. La nota asignada a cada factor corresponderá al promedio aritmético de las notas asignadas a los subfactores respectivos. Para el cálculo del puntaje final, las notas asignadas a los factores se multiplicarán por el coeficiente que se establece para cada uno de ellos. La suma de los productos de los coeficientes y las notas de cada factor dará el puntaje final de la evaluación y la lista de calificación que corresponda al funcionario. Tanto las notas asignadas a los factores como el puntaje resultante se expresarán hasta con dos decimales. En todo caso, si el tercer decimal fuera igual o superior a cinco se subirá al decimal siguiente.
 
 #### Artículo 5º
 
-Coeficientes. Los coeficientes por los que deberá multiplicarse la nota asignada a cada factor para obtener el puntaje final de calificación, serán los siguientes:
+Coeficientes. Los coeficientes por los que deberá multiplicarse la nota asignada a cada factor para obtener el puntaje final de calificación serán los siguientes:
 
 #### Artículo 6º
 
-Listas de calificación. Los funcionarios serán ubicados, de acuerdo a su puntaje final de calificación, en una de las siguientes listas:
+Listas de calificación. Los funcionarios serán ubicados, de acuerdo con su puntaje final de calificación, en una de las siguientes listas:
 
 #### Artículo 7º
 
@@ -96,7 +90,7 @@ Período de calificación. El período calificatorio comprenderá doce meses de 
 
 #### Artículo 8º
 
-La calificación del personal se efectuará a través de un sistema informático de calificaciones, dispuesto por la División Personas y Gestión Institucional, medio electrónico a través del cual cada precalificador podrá acceder a los respectivos informes de evaluación.
+La calificación del personal se efectuará a través de un sistema informático de calificaciones, dispuesto por el Departamento Gestión y Desarrollo de Personas, medio electrónico a través del cual cada precalificador podrá acceder a los respectivos informes de evaluación.
 
 #### Artículo 9º
 
@@ -108,11 +102,11 @@ Respecto a los funcionarios que se incorporen a la Dirección de Compras y Contr
 
 #### Artículo 10º
 
-Autoevaluación. Debe realizarse en forma previa al informe de desempeño y a la precalificación. Para ello, se deberá ingresar la información en el formato que dispondrá la División Personas y Gestión Institucional. Dicha información servirá de antecedente a la jefatura directa para la realización del informe de desempeño y la precalificación, y no constituye necesariamente un elemento vinculante con la evaluación realizada por la jefatura.
+Autoevaluación. Debe realizarse en forma previa al informe de desempeño y a la precalificación. Para ello, se deberá ingresar la información en el formato que dispondrá el Departamento Gestión y Desarrollo de Personas. Dicha información servirá de antecedente a la jefatura directa para la realización del informe de desempeño y la precalificación, y no constituye necesariamente un elemento vinculante con la evaluación realizada por la jefatura.
 
 #### Artículo 11º
 
-Retroalimentación. La retroalimentación debe ser un proceso permanente, de responsabilidad directa de la jefatura, con el fin de orientar a los funcionarios en su desempeño, identificando sus fortalezas, brechas y planes de mejora para reducirlas, así como los resultados y aspectos relevantes de su gestión. La jefatura directa deberá realizar una primera entrevista de retroalimentación con cada uno de los funcionarios(as) de su dependencia al momento de elaborar el informe de desempeño, entre el 1º y 21 de marzo, y luego, una segunda entrevista durante el proceso de precalificación, entre el 1º y 21 de septiembre, utilizando la pauta de retroalimentación diseñada por la División Personas y Gestión Institucional, la que entrega observaciones y aspectos a considerar respecto del espacio de retroalimentación. La entrevista de retroalimentación es una reunión privada entre la jefatura directa y cada funcionario(a) a su cargo, para la cual el primero deberá reunir, previamente, todos los antecedentes que fundamenten de manera objetiva su evaluación. El objetivo de la entrevista es dar a conocer la evaluación preliminar establecida por la jefatura directa para el informe de desempeño y la precalificación, respectivamente, y hacer seguimiento de las metas comprometidas en el "formato de compromiso de metas individuales". En la entrevista de retroalimentación del proceso de precalificación la jefatura directa deberá definir, previa conversación con el funcionario(a), las metas de desempeño individual que serán evaluadas durante el nuevo período de calificaciones.
+Retroalimentación. La retroalimentación debe ser un proceso permanente, de responsabilidad directa de la jefatura, con el fin de orientar a los funcionarios en su desempeño, identificando sus fortalezas, brechas y planes de mejora para reducirlas, así como los resultados y aspectos relevantes de su gestión. La jefatura directa deberá realizar una primera entrevista de retroalimentación con cada uno de los funcionarios(as) de su dependencia al momento de elaborar el informe de desempeño, entre el 1º y 21 de marzo, y luego, una segunda entrevista durante el proceso de precalificación, entre el 1º y 21 de septiembre, utilizando la pauta de retroalimentación diseñada por el Departamento Gestión y Desarrollo de Personas, la que entrega observaciones y aspectos a considerar respecto del espacio de retroalimentación. La entrevista de retroalimentación es una reunión privada entre la jefatura directa y cada funcionario(a) a su cargo, para la cual el primero deberá reunir, previamente, todos los antecedentes que fundamenten de manera objetiva su evaluación. El objetivo de la entrevista es dar a conocer la evaluación preliminar establecida por la jefatura directa para el informe de desempeño y la precalificación, respectivamente, y hacer seguimiento de las metas comprometidas en el "formato de compromiso de metas individuales". En la entrevista de retroalimentación del proceso de precalificación la jefatura directa deberá definir, previa conversación con el funcionario(a), las metas de desempeño individual que serán evaluadas durante el nuevo período de calificaciones.
 
 #### Artículo 12º
 
@@ -120,7 +114,7 @@ Informe de desempeño y notificación. La jefatura directa emitirá un informe d
 
 #### Artículo 13º
 
-Precalificación. El informe de precalificación deberá realizarse entre el 1º y 21 de septiembre de cada año. Para realizar la precalificación, la División Personas y Gestión Institucional deberá asegurar que el jefe directo pueda acceder, a través del sistema informático de calificaciones, a las respectivas hojas de vida y bitácora de desempeño dentro de los cinco últimos días hábiles del mes de agosto.
+Precalificación. El informe de precalificación deberá realizarse entre el 1º y 21 de septiembre de cada año. Para realizar la precalificación, el Departamento Gestión y Desarrollo de Personas deberá asegurar que el jefe directo pueda acceder, a través del sistema informático de calificaciones, a las respectivas hojas de vida y bitácora de desempeño dentro de los cinco últimos días hábiles del mes de agosto.
 
 El período de precalificación comprenderá doce meses de desempeño del funcionario, desde el 1 de septiembre de un año hasta el 31 de agosto del año siguiente. La precalificación realizada por el jefe directo deberá ser notificada personalmente al evaluado dentro del plazo de 5 días hábiles siguientes a la fecha del cumplimiento del plazo del informe de precalificación. Si el funcionario no fuere habido por dos días consecutivos en su lugar de trabajo, se le notificará de su precalificación por carta certificada a su domicilio, de lo cual deberá dejarse constancia. En esta última circunstancia, el funcionario(a) se entenderá notificado cumplidos tres días desde que la carta haya sido despachada.
 
@@ -130,7 +124,7 @@ El jefe directo deberá realizar una entrevista de retroalimentación con el eva
 
 Constitución de la Junta Calificadora. La Junta Calificadora deberá constituirse el 1 de octubre, o el día hábil siguiente si aquél no lo fuere, debiendo estar terminadas las calificaciones, en poder del Secretario(a) de la Junta Calificadora para su notificación, el 31 de octubre de cada año, o el día hábil siguiente si aquél no lo fuere.
 
-Se desempeñará como Secretario(a) de la Junta Calificadora la jefatura de la División Personas y Gestión Institucional o en quien éste delegue esta función, quien además la asesorará técnicamente. A falta de éste, el Secretario(a) será designado por la Junta Calificadora.
+Se desempeñará como Secretario(a) de la Junta Calificadora la jefatura de Departamento Gestión y Desarrollo de Personas o en quien éste delegue esta función, quien además la asesorará técnicamente. A falta de éste, el Secretario(a) será designado por la Junta Calificadora.
 
 #### Artículo 15º
 
@@ -144,7 +138,7 @@ La notificación de la resolución de la Junta Calificadora deberá realizarse d
 
 #### Artículo 17º
 
-Representantes del personal en la Junta Calificadora. Los representantes del personal de cada estamento, tanto titular como suplente, serán elegidos por todos los funcionarios(as) afectos a calificación del respectivo estamento. La jefatura de la División Personas y Gestión Institucional, o en quien este delegue esta función, recibirá la postulación de todos aquellos(as) funcionarios(as) que sean propuestos por sí mismos o por cualquier otro funcionario de la institución, para desempeñar la representación del personal en la Junta Calificadora, dentro de los diez primeros días del mes de julio de cada año. En ella deberá constar la aceptación del funcionario propuesto, el estamento al que pertenece y la unidad, departamento o división en la que presta servicio. La jefatura de la División Personas y Gestión Institucional, o quien haga sus veces, convocará a la elección de los representantes del personal, la que se realizará durante el mes de agosto y a la que deberá darse la difusión que corresponda.
+Representantes del personal en la Junta Calificadora. Los representantes del personal de cada estamento, tanto titular como suplente, serán elegidos por todos los funcionarios(as) afectos a calificación del respectivo estamento. La jefatura de Departamento Gestión y Desarrollo de Personas, o en quien este delegue esta función, recibirá la postulación de todos aquellos(as) funcionarios(as) que sean propuestos por sí mismos o por cualquier otro funcionario de la institución, para desempeñar la representación del personal en la Junta Calificadora, dentro de los diez primeros días del mes de julio de cada año. En ella deberá constar la aceptación del funcionario propuesto, el estamento al que pertenece y la unidad, departamento o división en la que presta servicio. La jefatura de Departamento Gestión y Desarrollo de Personas, o quien haga sus veces, convocará a la elección de los representantes del personal, la que se realizará durante el mes de agosto y a la que deberá darse la difusión que corresponda.
 
 #### Artículo 18º
 
