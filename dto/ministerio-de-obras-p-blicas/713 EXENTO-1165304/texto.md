@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 713, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, lo señalado en el artículo 12º de la Ley Nº18.777, se expropió para ECONSSA CHILE S.A., el lote de terreno Nº1, para la obra: OBRAS COMPLEMENTARIAS PLANTA DESALADORA DE AGUA DE MAR, SECTOR PIEDRA COLGADA - COPIAPO, que figura a nombre de PORCILE RISI SYLVIA MARIA ALBIN, rol de avalúo 509-109, Comuna de COPIAPO, REGIÓN DE ATACAMA, superficie 5.382 m2. La Comisión de Peritos integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, NORMAN ESTANISLAO CALDERON PONTIGGIA y CLAUDIO ANDRES CONCHA GROSSI, mediante informe de tasación de 07 de abril de 2021, fijó el monto de la indemnización provisional en la cantidad de $51.131.000, para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
