@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 239, de fecha 15 de junio de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Graciela González Rivas, RUT Nº 6.801.715-7, concesión marítima menor con uso de mejora fiscal, con vencimiento el 30 de junio de 2026, sobre un sector de terreno de playa, en el lugar denominado Villa Alegre, comuna de Chañaral, Provincia de Chañaral, Región de Atacama, con una superficie total de 598,88 m2, la que fue tramitada con el SIABC Nº 29133. A modo referencial se señalan las siguientes coordenadas geográficas: Vértice A: Lat. 26º31'38.07"S Long. 70º42'21.05"W y Vértice D: Lat. 26º31'38.11"S Long. 70º42'21.77"W. El objeto consiste en amparar la mejora fiscal existente, destinada a casa de veraneo familiar así como la instalación de dos casas prefabricadas. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de puerto antes señalada.-
+
+Alejandro León Solari, Teniente 1° LT., Capitán de Puerto de Chañaral.
