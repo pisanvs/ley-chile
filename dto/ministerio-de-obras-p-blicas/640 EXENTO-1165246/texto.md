@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 640, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL MOP N°206 de 1960, se expropió el lote de terreno N° 1, para la obra: MEJORAMIENTO CBI CRUCE RUTA 5-CIRUELOS- PUMILLAHUE, que figura a nombre de SIELFELD GUNDLACH JUAN ERNEST, rol de avalúo 325-6, comuna de MARIQUINA, REGION DE LOS RÍOS, superficie 35 m2. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 16 de agosto de 2019, fijó el monto de la indemnización provisional en la cantidad de $640.700 para el lote N° 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2186, de 1978.
+
+Fiscalía MOP.
