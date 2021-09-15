@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por decreto MOP (Exento) N° 645, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropió el lote de terreno N° 53, para la obra: CONSTRUCCION CONEXION VIAL ACCESO NORTE A SAN ANTONIO, que figura a nombre de TRANSPORTE DE CARGA POR CARRETER, rol de avalúo 9035-282, comuna de SAN ANTONIO, REGIÓN DE VALPARAÍSO, superficie 414 m2. La Comisión de Peritos integrada por GASTON ALEJANDRO BRAVO HURTADO, CAROLINA ALEJANDRA BRITO RAMOS y NORMAN ESTANISLAO CALDERON PONTIGGIA, mediante informe de tasación de 29 de abril de 2021, fijó el monto de la indemnización provisional en la cantidad de $6.840.500, para el lote N° 53. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2186, de 1978.
+
+Fiscalía MOP.
