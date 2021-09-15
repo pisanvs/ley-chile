@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 605 de 23 de agosto de 2021, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 135 para la obra: MEJORAMIENTO RUTA NAHUELBUTA. SECTOR B. SUBSECTOR 5: VARIANTE RENAICO - HUEQUÉN, Región de la Araucanía, que figura a nombre de CASTAGNOLI MOYA MARIO ALFONSO, rol de avalúo 1438-20 de la comuna de Angol, superficie 2.011 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 23 de 13 de enero de 2021, integrada por María Isabel de Jesús Ríos Marcuello, María Paulina De la Cuadra Becker y Yasmín Mercedes Balboa Rojas, fijó con fecha 25 de febrero de 2021, el valor provisional de la indemnización en la cantidad de $8.340.140 para el lote N° 135. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
