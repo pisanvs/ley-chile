@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.219 del 2 de septiembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Almirante Latorre Nº 68, Valenzuela Silva, comuna de Chillán, Rol de Avalúo Nº 00519-00014, de aparente dominio de Campos Contreras María y otros. La superficie afecta a expropiación parcial de 18,19 m² de terreno y expropiación total de 59,14 m² de edificaciones cuyos linderos particulares están enmarcados en el plano Sl6R-145, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, la Arquitecto doña Priscilla Andrea Encalada Rueda, la Arquitecto doña Cecilia María Carrasco Verdugo y por el Constructor Civil don Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $23.197.498.-
+
+Director Serviu Región de Ñuble.
