@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por decreto MOP (Exento) N°683, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropió el lote de terreno N° 62, para la obra: AMPLIACION RUTA H-27 CARRETERA EL COBRE, que figura a nombre de NAHUELQUIN MANCILLA VERONICA CEC, rol de avalúo 452-46, comuna de MACHALI, REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficie 241 m2. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMAN THEODULOZ, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y PATRICIA VERONICA ZAVALA CONTRERAS, mediante informe de tasación de 22 de abril de 2019, fijó el monto de la indemnización provisional en la cantidad de $158.286.750 para el lote N° 62. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2186, de 1978.
+
+Fiscalía MOP.
