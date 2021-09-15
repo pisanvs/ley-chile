@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 203, de fecha 28 de mayo de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Iris Mónica Páez Gutmann, RUN N° 5.451.060-8, Décima Renovación de Concesión Marítima Menor, con vencimiento el 30 de junio de 2026, sobre un sector de Terreno de Playa en el lugar denominado Flamenco, comuna de Chañaral, Provincia de Chañaral, Región de Atacama, con una superficie total de 1.406 m², la que fue tramitada con el SIABC N° 46742. A modo referencial se señalan las siguientes coordenadas geográficas: Vértice A: Lat. 26°34'15.06"S Long. 70°40'55.95"W y Vértice D: Lat. 26°34'16.22"S Long. 70°40'56.32"W. El objeto consiste en continuar amparando la construcción existente destinada a casa habitacional veraniega. Las obras existentes consisten en construcción de tabiquería de madera en buen estado de conservación. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Alejandro León Solari, Teniente 1° LT, Capitán de Puerto de Chañaral.
