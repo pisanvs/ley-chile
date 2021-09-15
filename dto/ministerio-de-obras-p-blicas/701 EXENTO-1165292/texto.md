@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 701, de 23 de agosto de 2021, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, Art. 15 inciso 2º y 22 Nº 1 del Decreto Nº 900 de 31 de octubre de 1996, se expropió el lote de terreno 3, Rol de avalúo 160-1, Comuna de Pemuco, superficie 1.763 m2., para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO CHILLÁN - COLLIPULLI FACILIDADES PEATONALES SECTOR ORAFTI, COMUNA DE PEMUCO, PROVINCIA DE DIGUILLÍN, REGIÓN DE ÑUBLE. La comisión de peritos, integrada por CLAUDIA PAOLA MONTES CANCINO, PAOLA ANDREA VAN DE WYNGARD SOTO y HANDY GHISLAINE CAMPOS SEPÚLVEDA, fijó el valor de tasación con fecha 30 de agosto de 2019, complementada por Informe de Tasación de 08 de octubre de 2019, acordándose la indemnización con su propietaria ORAFTI CHILE S.A., en la cantidad de $41.898.938.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
