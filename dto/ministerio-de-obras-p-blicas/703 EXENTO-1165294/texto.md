@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por decreto MOP (exento) N° 703, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N°15.840 y del DFL MOP N° 206 de 1960, se expropió el lote de terreno N° 67-B, para la obra: CONCESIÓN AMÉRICO VESPUCIO ORIENTE, TRAMO AV. PRÍNCIPE DE GALES - LOS PRESIDENTES, que figura a nombre de COMERCIAL JET BOAT LIMITADA, rol de avalúo 5771-23, comuna de PEÑALOLEN, REGIÓN METROPOLITANA DE SANTIAGO, superficie 547,50 m2. La Comisión de Peritos nombrada por Resolución Expropiaciones Fiscalía (exenta) N° 181, de 4 de mayo de 2021, integrada por CONSTANZA CAMILA VÁSQUEZ MUÑOZ, JAVIERA PAZ VILLAFAÑE HORMÁZABAL y GUSTAVO EDUARDO PICERO GARCÍA, mediante informe de tasación de 18 de junio de 2021, fijó el monto de la indemnización provisional en la cantidad de $681.783.600 para el lote N° 67-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.
+
+Fiscalía MOP.
