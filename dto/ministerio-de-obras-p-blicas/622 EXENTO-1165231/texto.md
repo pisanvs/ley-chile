@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por decreto MOP (Exento) N° 622, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 31-1 y 32-2, para la obra: CONCESIÓN AMÉRICO VESPUCIO ORIENTE, TRAMO AV. PRÍNCIPE DE GALES - LOS PRESIDENTES, que figuran a nombre de RESTAURANT ORIENTAL LIMITADA e INMOB PRINCIPE DE GALES S.A., roles de avalúo 122-1 y 228-88, comuna de LA REINA, REGIÓN METROPOLITANA DE SANTIAGO, superficies 109 y 237 m2 respectivamente. La Comisión de Peritos integrada por MARIA CRISTINA CAMUS PALACIOS, INES ELENA OTAROLA CASTILLO y MUFIDA VIOLA ABUAWAD ELIAS, mediante informe de tasación de 04 de junio de 2021, fijó el monto de la indemnización provisional en la cantidad de $263.284.000 para el lote N° 31-1, y $481.477.500 para el lote N° 32-2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2186, de 1978.
+
+Fiscalía MOP.
