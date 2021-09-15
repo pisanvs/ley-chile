@@ -90,11 +90,11 @@ i. Trabajadores mayores de 18 años que hayan sido contratados en el período qu
 
 ii. La remuneración bruta mensual del trabajador debe ser inferior a tres ingresos mínimos mensuales, a la fecha de postulación por parte del empleador. El valor del ingreso mínimo mensual será aquel fijado para los trabajadores mayores de 18 años y hasta de 65 años.
 
-El empleador no podrá acceder a la bonificación a la contratación respecto de aquellos trabajadores que haya despedido por cualquier causal con posterioridad a una fecha determinada que fije la Resolución y que luego haya recontratado. Tampoco podrá acceder a esta bonificación respecto de los trabajadores que detenten la calidad de socios o accionistas de la empresa solicitante o cuya identidad coincida con ésta. Esta circunstancia será fiscalizada por el Sence conforme a lo establecido en el inciso quinto del artículo sexto del presente decreto.
+El empleador no podrá acceder a la bonificación a la contratación respecto de aquellos trabajadores que haya despedido por cualquier causal con posterioridad a una fecha determinada que fije la Resolución y que luego haya recontratado. Tampoco podrá acceder a esta bonificación respecto de los trabajadores que detenten la calidad de socios o accionistas de la empresa solicitante o cuya identidad coincida con �sta. Esta circunstancia será fiscalizada por el Sence conforme a lo establecido en el inciso quinto del artículo sexto del presente decreto.
 
 3. Bonificación para el cuidado de niños o niñas menores de dos años: Bonificación mensual de $200.000 que se entrega al trabajador, dependiente o independiente, que cumpla con los requisitos señalados en este numeral, por cada niño o niña menor de 2 años que tenga a su cuidado. En caso que el trabajador se haya reintegrado a sus funciones habiendo pactado la reducción temporal de su jornada de trabajo, establecida en el Título II de la ley N° 21.227, el monto mensual de la bonificación se podrá reducir proporcionalmente conforme se establezca en la Resolución.
 
-Esta bonificación mensual se concederá por seis meses contados desde la fecha de otorgamiento del beneficio.
+Esta bonificación mensual se otorgará desde la fecha en que se conceda y se devengará como máximo hasta el mes de diciembre de 2021.
 
 Si el contrato terminare anticipadamente, la bonificación sólo se devengará por el período en que se mantenga vigente el contrato de trabajo. Asimismo, el derecho a pago de la bonificación terminará anticipadamente en caso que se verifique cualquiera de las siguientes circunstancias: fallecimiento del niño o niña menor de dos años causante del beneficio; fallecimiento del trabajador que tuviere el cuidado del niño o niña menor de dos años; y en la fecha en que el o la menor cumpla dos años.
 
@@ -116,25 +116,21 @@ No podrán acceder a la bonificación para el cuidado de niños o niñas menores
 
 Solo se otorgará el beneficio considerando una calidad del trabajador beneficiario, aun cuando sea trabajador dependiente e independiente. A su vez, el trabajador beneficiario dependiente solo podrá acceder al beneficio imputando una única relación laboral, aunque preste servicios bajo subordinación y dependencia para distintos empleadores.
 
-4. Bonificación al nuevo empleo: Bonificación mensual que se otorga al trabajador dependiente, por haber comenzado a prestar servicios bajo vínculo de dependencia y subordinación para con un empleador, en los términos del artículo 7º del Código del Trabajo, dentro de la época fijada en la Resolución. El monto de esta bonificación será de $50.000 para trabajadores afectos a una jornada ordinaria de trabajo, y de $70.000 en los siguientes casos: una trabajadora; una persona menor de 24 años; una persona con discapacidad, calificada y certificada conforme lo establece el Título II de la ley Nº 20.422 y sus reglamentos; o que sean beneficiarias de una pensión de invalidez de cualquier régimen previsional, cualquiera sea su tipo, al momento de la postulación.
+4. IFE Laboral: Bonificación mensual que se otorga al trabajador dependiente, previamente cesante, que comienza a prestar servicios bajo vínculo de dependencia y subordinación para con un nuevo empleador, en los términos del artículo 7° del Código del Trabajo, dentro de la época fijada en la resolución. El monto de esta bonificación será (i) el 50% de la remuneración bruta mensual del trabajador al mes de la postulación, no pudiendo exceder de $200.000 mensuales para el caso de hombres de entre 24 y menores de 55 años; y (ii) el 60% de la remuneración bruta mensual del trabajador al mes de la postulación, no pudiendo exceder de $250.000 mensuales, para el caso de una trabajadora; una persona menor de 24 años; hombres desde 55 años; o una persona con discapacidad, calificada y certificada conforme lo establece el Título II de la ley N° 20.422 y sus reglamentos; o personas que sean beneficiarias de una pensión de invalidez de cualquier régimen previsional, cualquiera sea su tipo, al momento de la postulación.
 
-En caso de que el trabajador esté afecto a una jornada de trabajo parcial, en los términos del artículo 40 bis del Código del Trabajo, el monto de la bonificación será equivalente al 15% de su remuneración bruta mensual. No obstante, dicha bonificación será equivalente a un 20% de su remuneración bruta mensual en los siguientes casos: una trabajadora; una persona menor de 24 años; una persona con discapacidad, calificada y certificada conforme lo establece el Título II de la ley Nº 20.422 y sus reglamentos; o que sean beneficiarias de una pensión de invalidez de cualquier régimen previsional, cualquiera sea su tipo, al momento de la postulación. Con todo, el tope máximo del beneficio que podrá recibir un trabajador afecto a jornada de trabajo parcial no podrá exceder, en ningún caso, la suma total de $50.000 o $70.000, según sea el caso.
+Esta bonificación mensual se otorgará desde la fecha en que se conceda y se devengará como máximo hasta el mes de diciembre de 2021., y podrá ser solicitada por los trabajadores dependientes, que cumplan las siguientes condiciones copulativas:
 
-Para los efectos del inciso anterior, se entenderá que el trabajador beneficiario está afecto a una jornada de trabajo parcial, cuando la remuneración bruta mensual que se utilice para la declaración y pago de sus cotizaciones de seguridad social sea inferior a un ingreso mínimo mensual. En el caso que la remuneración bruta mensual que se utilice para dicho efecto sea igual o superior a un ingreso mínimo mensual, se entenderá que está afecto a una jornada ordinaria de trabajo y se aplicará lo dispuesto en el inciso primero de este numeral.
+i. Tratarse de trabajadores mayores de 18 años que hayan comenzado a prestar servicios bajo vínculo de dependencia y subordinación para con un empleador dentro del período que fije la resolución.
 
-Esta bonificación mensual se concederá hasta por seis meses contados desde la fecha de otorgamiento del beneficio, y podrá ser solicitada por los trabajadores dependientes, que cumplan las siguientes condiciones copulativas:
+ii. Que su remuneración bruta mensual sea igual o inferior a tres ingresos mínimo mensuales, a la fecha de la postulación. El valor del ingreso mínimo mensual será aquel fijado para los trabajadores mayores de 18 años y hasta de 65 años; y
 
-i. Tratarse de trabajadores mayores de 18 años que hayan comenzado a prestar servicios bajo vínculo de dependencia y subordinación para con un empleador dentro del período que fije la resolución; y
-
-ii. Que su remuneración bruta mensual sea igual o inferior a tres ingresos mínimo mensuales, a la fecha de la postulación. El valor del ingreso mínimo mensual será aquel fijado para los trabajadores mayores de 18 años y hasta de 65 años.
+iii. Haber estado cesante antes de iniciar la nueva relación laboral dependiente que permite al trabajador postular a este beneficio. La resolución establecerá la forma en que el Sence verificará el cumplimiento de este requisito.
 
 No podrán acceder a esta bonificación aquellos trabajadores dependientes que se encuentren en cualquiera de las siguientes circunstancias: (i) los trabajadores que detenten la calidad de socios o accionistas de la empresa en que ejerzan funciones o cuya identidad coincida con ésta; (ii) los que al momento de la postulación o durante su otorgamiento, reciban alguno de los beneficios establecidos en los Títulos I y II de la ley Nº 21.247; (iii) los que tengan los efectos de sus contratos de trabajo suspendidos, de acuerdo a lo dispuesto en el Título I de la ley Nº 21.227; y (iv) los que presten servicios en el Estado bajo cualquier modalidad contractual, incluido el personal de los Ministerios, Intendencias, Gobernaciones y de los servicios públicos centralizados y descentralizados creados para el cumplimiento de la función administrativa.
 
 Los trabajadores mientras se encuentren haciendo uso de licencia médica, cualquiera fuere su causa, no podrán postular a esta bonificación.
 
-Los beneficiarios de esta bonificación solo podrán acceder al beneficio imputando una única relación laboral, aunque presten servicios bajo subordinación y dependencia para distintos empleadores.
-
-La bonificación a que se refiere este numeral será incompatible con la percepción simultánea de los beneficios que concede el artículo 21 de la ley Nº 20.595, que crea el Ingreso Ético Familiar, y el establecido en la ley Nº 20.338, que crea el Subsidio al Empleo. Además, esta bonificación se suspenderá mientras el trabajador se encuentre con licencia médica, cualquiera fuere su causa.
+Esta bonificación se suspenderá mientras el trabajador se encuentre con licencia médica, cualquiera fuere su causa.
 
 La bonificación a que se refiere este numeral será compatible con las bonificaciones a la contratación y para el cuidado de niños o niñas menores de dos años.
 
@@ -158,21 +154,13 @@ Las bonificaciones establecidas en el presente literal son incompatibles con aqu
 
 Requisitos de postulación:
 
-Podrán postular a las bonificaciones a la retención y a la contratación las empresas que tributen en primera categoría de la Ley sobre Impuesto a la Renta, de acuerdo a lo establecido en el artículo 20 de dicho cuerpo legal y los contribuyentes que tributen conforme al artículo 22 del mismo, de acuerdo a la certificación otorgada por el Servicio de Impuestos Internos.
+Podrán postular a las bonificaciones a la retención y a la contratación las micro, pequeñas y medianas empresas, conforme a lo dispuesto en el artículo 505 bis del Código del Trabajo, siempre que tributen en primera categoría de la Ley sobre Impuesto a la Renta, de acuerdo a lo establecido en el artículo 20 de dicho cuerpo legal, y los contribuyentes que tributen conforme al artículo 22 del mismo, de acuerdo a la certificación otorgada por el Servicio de Impuestos Internos.
 
 Podrán postular a la bonificación para el cuidado de niños o niñas menores de dos años del numeral 3 de la letra c) del artículo tercero, los trabajadores beneficiarios que cumplan copulativamente con los requisitos de acceso a este beneficio, mencionados en el párrafo cuarto del numeral 3 de la letra c) del artículo tercero del presente decreto. El requisito señalado en el párrafo anterior no será aplicable a la bonificación para el cuidado de niños o niñas menores de dos años.
 
-Podrán postular a la bonificación para el nuevo empleo del numeral 4 de la letra c) del artículo tercero, los trabajadores que cumplan con los requisitos copulativos de acceso a este beneficio, señalados en dicha norma.
+Podrán postular al IFE Laboral del numeral 4 de la letra c) del artículo tercero, los trabajadores que cumplan con los requisitos copulativos de acceso a este beneficio, señalados en dicha norma.
 
-Con todo, respecto de las bonificaciones a la retención y a la contratación de la línea de acción del literal c) del artículo tercero, a través de la resolución señalada en dicho literal, se podrán establecer condiciones según tipo de empresa de acuerdo a su número de trabajadores, para poner término anticipado a una o a ambas bonificaciones a que se refiere el literal antes mencionado, y disponer su reintegro, según corresponda. La referida resolución sólo podrá considerar cualquiera de las siguientes condiciones:
-
-1) Que las empresas repartan utilidades a sus propietarios por sobre el porcentaje mínimo que establece el artículo 79 la ley Nº 18.046, durante el ejercicio comercial que se encuentre percibiendo los beneficios de la línea de acción antes señalada.
-
-2) Que la empresa no mantenga un determinado porcentaje de trabajadores con contrato de trabajo vigente existente al momento de postular a la bonificación.
-
-3) Que la empresa registre una determinada variación positiva en sus ventas o ingresos brutos en uno o más períodos que se establezca
-
-Corresponderá al SENCE la verificación de los requisitos de las empresas para postular a la bonificación y de los trabajadores(as) que causen el beneficio, de acuerdo a las instrucciones que imparta su Director Nacional.
+Con todo, respecto de las bonificaciones a la retención y a la contratación de la línea de acción del literal c) del artículo tercero, a través de la resolución señalada en dicho literal, se podrán establecer condiciones según tipo de empresa de acuerdo a su número de trabajadores, para poner término anticipado a una o a ambas bonificaciones a que se refiere el literal antes mencionado, y disponer su reintegro, según corresponda. Para este efecto, la referida resolución sólo podrá considerar la circunstancia de que la empresa beneficiaria no mantenga un determinado porcentaje de trabajadores con contrato de trabajo vigente existente al momento de postular a la bonificación.
 
 #### Artículo quinto
 
