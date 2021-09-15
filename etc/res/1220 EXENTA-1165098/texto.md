@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.220 del 2 de septiembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Almirante Latorre Nº 125, Pobl. Wicker, comuna de Chillán, Rol de Avalúo Nº 00520-00055, de aparente dominio de Bórquez Bórquez Aliro del Carmen. La superficie afecta a expropiación Total es de 45,66 m² de terreno y 91,32 m² de edificaciones cuyos linderos particulares están enmarcados en el plano S16R-147, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, el Arquitecto don Andrés Javier Tobar Beluzán, y por el Ingeniero Civil Industrial don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $47.593.564.-
+
+Director Serviu Región de Ñuble.
