@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº715, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, lo señalado en el artículo 12º de la Ley Nº18.777, se expropió para ESSAL S.A., el lote de terreno Nº 2, para la obra: NUEVO ESTANQUE SECTOR BIO BIO - DECHER-V=300 M3, que figura a nombre de ALMONACID GODOY CAMILO ALFONSO, rol de avalúo 1404-35, Comuna de PUERTO VARAS, REGIÓN DE LOS LAGOS, superficie 348,68 m2. La Comisión de Peritos integrada por CARLOS EUGENIO MERA SANTIBAÑEZ, LEOPOLDO RAMON SCHUMACHER GUARDA y NELSON BERNARDO TURRA TURRA, mediante informe de tasación de 02 de febrero de 2021, fijó el monto de la indemnización provisional en la cantidad de $5.078.524, para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
