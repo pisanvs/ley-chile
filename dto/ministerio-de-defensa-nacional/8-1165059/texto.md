@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 8, de fecha 14 de enero de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Héctor García Arcos, 6.489.161-8, concesión marítima menor, con vencimiento el 31 de diciembre de 2025, sobre un sector de playa, fondo de lago y porción de agua, en el lugar denominado Roble Huacho, comuna de Panguipulli, Provincia de Valdivia, Región de Los Ríos, con una superficie total de 26.99 m2, la que fue tramitada con el SIABC N° 34899. A modo referencial se señala la siguiente coordenada geográfica: Latitud 39°39'11,08"S Longitud 72°19'16,71"W. El objeto consiste en amparar la construcción de un atracadero, y la instalación de (3) boyas de amarre, ambos objetos para el uso de naves menores de 25 TRG. Las obras consisten en un atracadero y tres boyas. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Lago Panguipulli. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
+
+Panguipulli, 23 de agosto de 2021.- Pablo Carrasco Rondanelli, Capitán de Corbeta LT, Capitán de Puerto de Lago Panguipulli.
