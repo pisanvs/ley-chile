@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 705 de 23 de agosto de 2021, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 7-1 para la obra: CONCESIÓN INTERNACIONAL RUTA 5. TRAMO CHILLÁN - COLLIPULLI. FACILIDADES PEATONALES SECTOR SAN LUIS, Región del Biobío, que figura a nombre de SIMON FIERRO ANTONIO RICARDO, rol de avalúo 1303-336 de la comuna de Cabrero, superficie 195 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 68 de 11 de febrero de 2021, integrada por Paola Andrea Van de Wyngard Soto, Gabriel Antonio Pantoja Rivera y Claudia Paola Montes Cancino, fijó con fecha 22 de marzo de 2021, el valor provisional de la indemnización en la cantidad de $3.164.000 para el lote Nº 7-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
