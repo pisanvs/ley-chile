@@ -36,6 +36,8 @@ Para los efectos del presente Reglamento se entenderá por:
 
 .
 
+> **Nota.** La letra a y b del numeral 1° del artículo único del Decreto 131, Obras Públicas, publicado el 15.09.2021, modifica la presente norma en el sentido de intercalar, entre los actuales literales q) y r), la siguiente letra r), nueva, pasando la actual letra r) a ser la letra s), y así sucesivamente: "r) Puesta en carga: Conjunto de pruebas de funcionamiento que tienen como fin verificar que las obras y elementos que las componen cumplen con las características de funcionalidad, desempeño y seguridad, establecidas en el Proyecto Definitivo previamente aprobado por el Servicio, y que se desarrollan durante el proceso de construcción y de manera previa a la solicitud de su recepción, asimismo reemplazar la actual letra t), que ha pasado a ser letra u), por la siguiente, nueva: "u) Recepción de obra: Procedimiento mediante el cual la Dirección General de Aguas comprueba que un Proyecto Definitivo, previamente aprobado por el Servicio, ha sido construido conforme a dicha aprobación y no afecta la seguridad de terceros. Lo anterior se formalizará mediante acto administrativo por el cual se recibirán las obras y se autorizará su operación.
+
 #### Artículo 2º
 
 El presente Reglamento fija las condiciones técnicas que deberán cumplirse en el proyecto, construcción y operación de las obras a que se refiere el artículo 294 del Código de Aguas.
@@ -54,7 +56,11 @@ Los Servicios dependientes del MOP quedan exceptuados de requerir la aprobación
 
 #### Artículo 4º
 
-La Dirección General de Aguas otorgará la autorización una vez aprobado el proyecto definitivo y siempre que haya comprobado que la obra no afectará la seguridad de terceros.
+La Dirección General de Aguas otorgará la autorización de construcción una vez aprobado el proyecto definitivo y siempre que haya comprobado que la obra proyectada no afectará la seguridad de terceros. Asimismo, el Servicio fijará fundadamente un plazo máximo dentro del cual el Titular de la misma deberá solicitar la recepción de la obra, en base al Programa de Construcción que forma parte del Proyecto Definitivo. Dicho plazo podrá ser prorrogado, a petición de parte, antes del vencimiento del plazo original, por causas debidamente justificadas y presentando los antecedentes que demuestren que la obra se encuentra en construcción.
+
+En el caso de que el Titular no diese cumplimiento al plazo establecido en el inciso anterior, éste no podrá solicitar la operación provisoria de la obra, regulada en el artículo 57 del presente Reglamento.
+
+Para aquellas obras que requieran de una puesta en carga para su operación, conforme al Proyecto Definitivo, el Titular deberá informar a la Dirección General de Aguas la fecha de inicio de la puesta en carga, conforme a lo dispuesto en el artículo 55 del presente Reglamento.
 
 #### Artículo 5º
 
@@ -158,15 +164,15 @@ La solicitud de aprobación de proyecto y autorización de construcción se tram
 
 a) Indicar nombre, RUT y domicilio del titular y de su representante legal, si corresponde. En caso de no indicarse el domicilio, se aplicará lo dispuesto en el artículo 139 inciso final del Código de Aguas.
 
-b) El proyecto y toda la documentación requerida por la Dirección durante su revisión, tales como adendas o complementaciones de lo originalmente entregado, deberá presentarse impreso en papel, en un ejemplar, y deberá adjuntar el respaldo digital correspondiente.
+b) El proyecto y toda la documentación requerida por la Dirección General de Aguas durante su tramitación, tales como adendas, complementaciones de la documentación originalmente entregada, planos y archivos de cálculos usados en las modelaciones, deberá presentarse íntegramente en digital, y en los formatos que establezca la Dirección.
 
 c) El idioma utilizado en todos los documentos del proyecto debe ser el español.
 
 d) Toda documentación debe ser legible y excluir textos manuscritos.
 
-e) Los volúmenes o tomos que conforman el proyecto deberán presentarse debidamente compaginados, preferentemente en carpetas resistentes que permitan su manipulación y archivo. La identificación de cada tomo consistirá en: nombre del proyecto, nombre de la empresa propietaria de dicho proyecto, fecha (mes y año) y un número correlativo que lo identifique.
+e) Los archivos que componen el proyecto deberán acompañarse mediante un informe conductor. Cada uno de los documentos, planos y demás antecedentes, se deberán presentar en archivos individuales para facilitar su consulta.
 
-f) El proyecto y sus adendas deberán incluir, al comienzo de la presentación, un índice en el cual se detalle la totalidad de la documentación contenida en cada volumen o tomo, y que deberá identificar los informes, memorias, planos, especificaciones u otros documentos que formen parte de éste.
+f) El proyecto y sus adendas deberán incluir, al comienzo de la presentación, un índice en el cual se detalle la totalidad de la documentación contenida en cada volumen o tomo, y que deberá identificar los informes, memorias, planos, especificaciones u otros documentos que formen parte de éste, precisándose las distintas versiones que tuvieren los documentos o antecedentes acompañados.
 
 g) Los planos se deberán presentar en un solo formato de la Serie A Normas ISO/DIN, siendo el tamaño preferente recomendado A3 y el máximo admitido A1. El tamaño de la fuente mínima utilizada, tanto en planos como en los informes, debe ser tal que una reducción del 50% del documento permita su lectura.
 
@@ -778,21 +784,31 @@ En cualquier momento la Dirección General de Aguas podrá inspeccionar el estad
 
 #### Artículo 55
 
-Para efectos del presente Reglamento, se entenderá que las obras se encuentran en ejecución mientras no cuenten con una resolución de la DGA que declare la recepción de las mismas.
+Para efectos del presente Reglamento, se entenderá que las obras se encuentran en ejecución mientras la construcción del proyecto no se encuentre finalizada, esto es, mientras el Titular no haya solicitado la recepción de todas las obras ante la Dirección General de Aguas, sin perjuicio de lo dispuesto en el artículo 57 del presente Reglamento.
+
+Previo a la presentación de la solicitud de recepción, y solo en el caso que corresponda, el Titular deberá informar a la Dirección General de Aguas la fecha de inicio de la puesta en carga, con a lo menos 30 días hábiles de anticipación, acompañando en detalle la actualización del plan de puesta en carga y su cronograrna de actividades. Asimismo, deberá proponer el plazo máximo para su realización, el cual será establecido por la Dirección, mediante resolución fundada, de acuerdo a la actualización del plan de puesta en carga y su cronograma de actividades. Dicho plazo podrá ser prorrogado, a petición de parte, antes del vencimiento del plazo original, por causas debidamente justificadas.
 
 #### Artículo 56
 
-El Titular deberá solicitar a la Dirección la recepción de las obras una vez finalizada la construcción del proyecto, en conformidad a lo dispuesto en los artículos siguientes.
+El Titular deberá solicitar a la Dirección la recepción de las obras una vez finalizada la construcción del proyecto y concluida la puesta en carga, cuando ésta corresponda, verificando así que las obras y elementos cumplieron con las características de funcionalidad, desempeño y seguridad que fueron previamente autorizadas por dicho Servicio, de acuerdo con lo dispuesto en el artículo 57 de este Reglamento.
 
 #### Artículo 57
 
 En el caso de embalses de relaves, el Titular deberá contar con la recepción de las Obras Tempranas requeridas en forma previa al vertimiento de los relaves, de conformidad al procedimiento establecido en el presente título.
 
-En el caso de las demás obras hidráulicas contempladas en este Reglamento, el Titular deberá contar con la recepción de todas las obras que componen el Proyecto Definitivo, previamente aprobado y autorizada su construcción por el Servicio, antes de la operación de las obras.
+En el caso de las demás obras hidráulicas contempladas en este Reglamento, el Titular deberá contar con la recepción de todas las obras que componen el Proyecto Definitivo, previamente aprobado y autorizada su construcción por el Servicio, momento en que se acreditará y verificará que las obras han sido construidas conforme a dicha aprobación, que no afectan la seguridad de terceros, y que se autoriza su operación.
+
+Sin perjuicio de lo establecido en el inciso anterior, la Dirección General de Aguas podrá autorizar provisoriamente la operación del proyecto, previa solicitud presentada por el Titular al momento de requerir su recepción. De este modo, la Dirección General de Aguas podrá autorizar la operación provisoria, siempre que se acredite que el o los derechos de aprovechamiento de aguas que se ejercitarán con las obras, se encuentren en concordancia a éstas, en cuanto al o los puntos de captación y/o restitución, y la puesta en carga haya sido concluida satisfactoriamente, cuando corresponda.
+
+Para efectos de lo establecido en el inciso anterior, la Dirección dictará la correspondiente resolución, la cual se fundará en una revisión técnica que acredite el cumplimiento de los requisitos antes señalados.
+
+La autorización de operación provisoria se encontrará vigente mientras esté pendiente el proceso de revisión de los antecedentes de la solicitud de recepción. Una vez recibida la obra, o denegada su recepción, la autorización de operación provisoria quedará sin efecto.
+
+En cualquier caso, la Dirección General de Aguas declarará el desistimiento de la solicitud o el abandono del procedimiento de recepción de obra, conforme a lo establecido en la Ley Nº 19.880 que establece Bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado. En ambos casos, la autorización de operación provisoria quedará sin efecto.
 
 #### Artículo 58
 
-Junto con la solicitud de recepción de obras, el Titular deberá acompañar un Informe de Construcción, el cual deberá indicar las obras efectivamente construidas, señalando y justificando los cambios que pudiesen existir con respecto al proyecto aprobado.
+Junto con la solicitud de recepción de obras, el Titular deberá acompañar un Informe de Construcción, el cual deberá ser presentado en formato digital e indicar las obras efectivamente construidas, señalando y justificando los cambios que pudiesen existir con respecto al proyecto aprobado.
 
 El Informe de Construcción deberá contener, a lo menos, lo siguiente:
 
@@ -802,19 +818,23 @@ El Informe de Construcción deberá contener, a lo menos, lo siguiente:
 
 3. Bases Administrativas y Técnicas del contrato de construcción.
 
-4. Cuando corresponda, se deberá presentar el respaldo técnico de los cambios realizados al proyecto originalmente aprobado, incluyendo, al menos, los estudios básicos, memorias de cálculo, especificaciones técnicas, planos "Como Construido" y toda la documentación necesaria para su evaluación,
+4. Planos "Como Construido" del proyecto.
 
-5. Set de fotografías en el cual se muestre el estado de avance de cada una de las distintas obras, identificando cada elemento, fecha y etapa constructiva.
+5. Cuando corresponda, se deberá presentar el respaldo técnico de los cambios realizados al proyecto originalmente aprobado, incluyendo, al menos, los estudios básicos, memorias de cálculo, especificaciones técnicas, planos "Como Construido" y toda la documentación necesaria para su evaluación,
 
-6. Libro de obras o complementarios. Se debe presentar un extracto o resumen de estos libros con la información relevante ocurrida durante el proceso constructivo, la cual debe estar referida a los cambios o adaptaciones que haya sufrido el proyecto, si las hubiere.
+6. Set de fotografías en el cual se muestre el estado de avance de cada una de las distintas obras, identificando cada elemento, fecha y etapa constructiva.
 
-7. Informes de la inspección técnica de la obra. Se debe presentar un extracto o resumen de estos informes donde se incluya la información relevante ocurrida durante el proceso constructivo, la cual debe estar referida a los cambios o adaptaciones que haya sufrido el proyecto, si las hubiere.
+7. Libro de obras o complementarios. Se debe presentar un extracto o resumen de estos libros con la información relevante ocurrida durante el proceso constructivo, la cual debe estar referida a los cambios o adaptaciones que haya sufrido el proyecto, si las hubiere.
 
-8. Informe de procedimiento de puesta en carga.
+8. Informes de la inspección técnica de la obra. Se debe presentar un extracto o resumen de estos informes donde se incluya la información relevante ocurrida durante el proceso constructivo, la cual debe estar referida a los cambios o adaptaciones que haya sufrido el proyecto, si las hubiere.
 
-9. Actualización de la documentación técnica. Se deberá actualizar la siguiente documentación, si corresponde, en virtud de los antecedentes que se tengan una vez finalizada la construcción de las obras: Sistema de Control y Monitoreo, Planes para la Inspección de Seguridad, Plan de Operación Normal, Plan de Emergencia y Manejo de la Información Técnica.
+9. Informe de procedimiento de puesta en carga.
 
-10. Manuales de mantenimiento y capacitación. Se deberán incluir estos manuales. En el caso del manual de capacitación, se deberá incorporar la información relativa a la instrucción de los operadores y adjuntar los antecedentes del responsable de la operación, de manera de verificar que este sea competente para realizar las tareas requeridas.
+10. Actualización de la documentación técnica. Se deberá actualizar la siguiente documentación, si corresponde, en virtud de los antecedentes que se tengan una vez finalizada la construcción de las obras: Sistema de Control y Monitoreo, Planes para la Inspección de Seguridad, Plan de Operación Normal, Plan de Emergencia y Manejo de la Información Técnica.
+
+11. Manuales de mantenimiento y capacitación. Se deberán incluir estos manuales. En el caso del manual de capacitación, se deberá incorporar la información relativa a la instrucción de los operadores y adjuntar los antecedentes del responsable de la operación, de manera de verificar que este sea competente para realizar las tareas requeridas.
+
+El Informe de Construcción deberá presentarse íntegramente en digital, acompañando los documentos, planos y archivos de cálculos usados en las modelaciones, en los formatos que establezca la Dirección General de Aguas.
 
 #### Artículo 59
 
@@ -834,7 +854,7 @@ c) El Informe de Construcción.
 
 #### Artículo 61
 
-Posterior a la visita a terreno y habiéndose cumplido los requisitos señalados en los artículos anteriores, la DGA deberá dictar una resolución que recibe las obras y autoriza su operación.
+Posterior a la visita a terreno y habiéndose cumplido los requisitos señalados en los artículos anteriores, la DGA deberá dictar una resolución que recibe las obras, autoriza la operación de éstas y restituye las garantías establecidas conforme a lo dispuesto en los artículos 297 del Código de Aguas y 8º del presente Reglamento..
 
 En el caso de existir modificaciones al Proyecto Definitivo previamente aprobado y autorizado para su construcción por el Servicio, detectadas durante la recepción de las obras, el Titular deberá presentar una nueva solicitud de aprobación de proyecto de construcción de conformidad con lo dispuesto en los artículos 130 y siguientes del Código de Aguas y de acuerdo con lo dispuesto en los artículos 151, 171 y 294 y siguientes del citado texto legal, según corresponda. Todas aquellas modificaciones del Proyecto Definitivo no aprobadas por el Servicio, y detectadas por la Dirección General de Aguas, podrán ser objeto de lo dispuesto en el artículo 129 bis 2 del Código de Aguas, cuando corresponda, sin perjuicio de otras medidas contempladas en el ordenamiento jurídico.
 
@@ -852,7 +872,7 @@ Sin perjuicio de lo dispuesto en los artículos anteriores, los embalses declara
 
 #### Artículo 1º
 
-Todas las solicitudes de aprobación de proyecto de construcción y las de recepción de obras construidas, que se encuentren pendientes a la fecha de la publicación del presente Reglamento, deberán ajustarse a las exigencias técnicas establecidas en el presente cuerpo normativo.
+Todas las solicitudes de aprobación de proyecto de construcción, que se encuentren pendientes a la fecha de la publicación del presente Reglamento, deberán ajustarse a las exigencias técnicas establecidas en el presente cuerpo normativo.
 
 #### Artículo 2º
 
