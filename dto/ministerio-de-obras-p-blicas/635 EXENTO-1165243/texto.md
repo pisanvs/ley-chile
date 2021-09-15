@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº635, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.109-A y 110-A, para la obra: MEJORAMIENTO RUTA L-45, SECTOR EL PEÑASCO-RETEN LOS HUALLES, que figuran a nombre de ROJAS ROJAS CONCEPCION HAYDEE, rol de avalúo 572-450, Comuna de LINARES, REGION DEL MAULE, superficies 144 y 69 m2 respectivamente. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 22 de marzo de 2021, fijó el monto de la indemnización provisional en la cantidad de $2.562.800 para el lote Nº109-A, y $869.800 para el lote Nº110-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
