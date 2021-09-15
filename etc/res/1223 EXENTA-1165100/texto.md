@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 1.223, del 2 de septiembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Almirante Latorre N°59, Valenzuela Silva, comuna de Chillán, Rol de Avalúo N° 00515-00009, de aparente dominio de Ruiz Nova Juan Alejandro y Otros. La superficie afecta a expropiación parcial de 778,49 m2 de terreno y expropiación total de 415,24 m2 de edificaciones cuyos linderos particulares están enmarcados en el plano S16R-143, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por la Arquitecto doña Priscilla Andrea Encalada Rueda, la Arquitecto doña Cecilia María Carrasco Verdugo, y por el Constructor Civil don Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $218.572.333.-
+
+Director Serviu Región de Ñuble.
