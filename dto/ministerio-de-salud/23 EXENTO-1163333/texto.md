@@ -44,7 +44,7 @@ Para el propósito de preservar la Integridad de los servicios asistenciales. la
 
 . Todos los trabajadores, voluntarios o estudiantes autorizados por el director médico del centro clínico o a quien delegue las tareas inherentes a sus responsabilidades, que desempeñan sus labores en establecimientos asistenciales privados o institucionales que cuentan con unidades de atención de urgencias y/o servicios de hospitalización, y desarrollen tareas que involucran contacto directo o cercano (dentro de 1 metro de distancia) con enfermos, en servicios de apoyo clinico, laboratorios, bancos de sangre, radiología y alimentación.
 
-Para el propósito de prevenir muertes y morbilidad grave causada o secundaria a infección por virus Influenza la poblaci�n objetivo de la vacunación estará compuesta por los siguientes grupos de personas:
+Para el propósito de prevenir muertes y morbilidad grave causada o secundaria a infección por virus Influenza la población objetivo de la vacunación estará compuesta por los siguientes grupos de personas:
 
 ### 2. Personas de 65 y más años
 
@@ -83,6 +83,8 @@ Para el propósito de prevenir muertes y morbilidad grave causada o secundaria a
 ### 7. Trabajadores de la educación preescolar y escolar hasta 5° año básico
 
 ### 8. Trabajadores de avícolas y de criaderos de cerdos
+
+9. Población general, de acuerdo a demanda, que no se encuentre dentro de los grupos mencionados en los numerales anteriores.
 
 El propósito de inmunizar a los trabajadores de avícolas y de criaderos de cerdo es evitar un cambio genético de la cepa influenza humana al interactuar directamente con las cepas de influenza de ambas especies.
 
