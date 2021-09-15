@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por decreto exento MOP N° 699, de 23 de agosto de 2021, se modificó el numeral segundo del decreto exento MOP N° 960, de 13 de octubre de 2020 en la parte que se refiere a los nombres de los aparentes propietarios y roles de avalúo, quedando de la siguiente forma: lote N° 129, figura a nombre de DÍAZ CORREA FLORISA SUSANA, según rol de avalúo 169-477, comuna de Licanten, superficie 7.551 m2 y lote N° 130, figura a nombre de PAVEZ VERGARA JUAN CARLOS, según rol de avalúo 169-418, comuna de Licanten, superficie 10.044 m2. Compleméntese los informes de tasación emitidos el 09 de mayo de 2018, mediante acta de 21 de abril de 2021 del Jefe de Subdepto. de Expropiaciones de la Dirección de Vialidad. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2186, de 1978.
+
+Región del Maule. Fiscalía MOP.
