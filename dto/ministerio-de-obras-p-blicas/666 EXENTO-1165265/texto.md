@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 666 de 23 de agosto de 2021, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 82, Rol de avalúo 244-93, comuna de Chanco, superficie 163 m2., para la obra CAMINO REPOSICIÓN PAV. RUTA M - 50, SECTOR CAUQUENES - CHANCO, TRAMO LOS RUILES - CHANCO, KILÓMETRO 28,80000 A KM. 42,17715, COMUNAS DE PELLUHUE Y CHANCO, PROVINCIA DE CAUQUENES, REGIÓN DEL MAULE. La comisión de peritos, integrada por ALICIA BÁRBARA FLORES PACHECO, RODRIGO ANTONIO SILVA LAZO y PATRICIO ULISES DURÁN MARCOS, fijó el valor de tasación con fecha 08 de mayo de 2013, acordándose la indemnización con su propietaria MARÍA SILVIA MORAGA ORREGO, en la cantidad total de $941.013.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
