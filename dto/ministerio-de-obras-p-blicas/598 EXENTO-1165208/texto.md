@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por decreto MOP (Exento) N° 598, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL MOP N° 206 de 1960, se expropió el lote de terreno N° 1, para la obra: SISTEMA DE AGUA POTABLE RURAL LAS SALINAS, que figura a nombre de SOCIEDAD AGRICOLAS LAS LOICAS L, rol de avalúo 101-43, comuna de PAPUDO, REGIÓN DE VALPARAÍSO, superficie 595 m2. La Comisión de Peritos integrada por CAROLINA CLAUDIA VERDEJO DÍAZ, HANDY GHISLAINE CAMPOS SEPULVEDA y PATRICIA VERÓNICA ZAVALA CONTRERAS, mediante informe de tasación de 08 de julio de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.257.000, para el lote N° 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
