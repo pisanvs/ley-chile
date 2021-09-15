@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 637, de 23 de agosto de 2021, se modificó el numeral segundo del decreto exento MOP N° 204, de 09 de abril de 2018 en la parte que se refiere a los nombres de los aparentes propietarios y roles de avalúo, quedando de la siguiente forma: lote N° 332, figura a nombre de HERRERA UMANZOR SANDRA MARCELA, según rol de avalúo 230-65, comuna de San Clemente, superficie 25 m2 y lote N° 333, figura a nombre de BARRAGAN BELTRAN BERTA, según rol de avalúo 230-66, comuna de San Clemente, superficie 60 m2. Compleméntese los informes de tasación emitidos el 25 de mayo de 2016, mediante actas de 18 de octubre de 2018 del Jefe Unidad de Expropiaciones de Vialidad, Región del Maule. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
