@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por decreto MOP (exento) N° 680, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 35-C y 35-D, para la obra: CONSTRUCCIÓN MEJOR. RUTA 201-CH SECTOR: COÑARIPE - PELLAIFA, que figura a nombre de AILLAPÁN LLANCAFILO LUIS ALBERTO y AILLAPÁN LLANCAFILO MARÍA LUCINDA, roles de avalúo 257-35 y 247-287, comuna de PANGUIPULLI, REGIÓN DE LOS RÍOS, superficies 852 y 711 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YÁÑEZ RIFFO, MARÍA SOLEDAD NÚÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 14 de mayo de 2021, fijó el monto de la indemnización provisional en la cantidad de $19.512.000 para el lote N°35-C, y $17.707.000 para el lote N°35-D. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.
+
+Fiscalía MOP.
