@@ -1,0 +1,7 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+El decreto supremo Nº 206 de fecha 28 de mayo de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Sra. María Magdalena Meza Plaza, RUN 9.188.541-7, quinta renovación de la concesión marítima menor, con vencimiento el 30 de junio de 2026, sobre un sector de terreno de playa, y uso de mejora fiscal, en un lugar denominado Playa Grande, comuna de Cartagena, Provincia de San Antonio, Región de Valparaíso, con una superficie total de 192,08 m2, la que fue tramitada con el SIABC Nº 36975. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto de esta concesión marítima, sobre los sectores otorgados, consiste en continuar amparando el funcionamiento de un restaurant, y las mejoras fiscales compuestas por la ampliación de una bodega y una glorieta o terraza, para otorgar una mejor atención al público. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de San Antonio. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+San Antonio, 23 de agosto de 2021.- Patricio Torres Peñafiel, Capitán de Fragata LT, Capitán de Puerto de San Antonio.
