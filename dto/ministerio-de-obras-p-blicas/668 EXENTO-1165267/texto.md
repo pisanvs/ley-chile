@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº668, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.35-A y 35-B, para la obra: CONSTRUCCION MEJOR. RUTA 201-CH SECTOR: COÑARIPE - PELLAIFA, que figuran a nombre de CHOCORI AILLAPAN MARGARITA CARME Y, rol de avalúo 245-351, Comuna de PANGUIPULLI, REGION DE LOS RÍOS, superficies 230 y 172 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 14 de mayo de 2021, fijó el monto de la indemnización provisional en la cantidad de $6.078.000 para el lote Nº35-A, y $4.277.000 para el lote Nº35-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
