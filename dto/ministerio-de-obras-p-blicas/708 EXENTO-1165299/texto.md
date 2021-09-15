@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 708 de 23 de agosto de 2021, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropiaron los lotes de terreno N° 5 y N° 9 para la obra: MEJORAMIENTO RUTA NAHUELBUTA. SECTOR B. SUBSECTOR 5: VARIANTE RENAICO- HUEQUÉN, Región de la Araucanía, que figuran a nombre de ANTONIO RAIMUNDO SOTO VELASQUEZ y SAEZ SAEZ JOSE MIGUEL, roles de avalúo 68-84 y 68-83 de la comuna de Renaico, superficies 166 m2 y 468 m2 respectivamente. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 2 de 6 de enero de 2021, integrada por Carmen Pilar Ríos Marcuello, Tatiana Yasmín Gutiérrez Ortiz y Valeria Madariaga Tordecilla, fijó con fecha 22 de febrero de 2021, el valor provisional de las indemnizaciones en las cantidades de $473.100 para el lote N° 5 y $13.303.160 para el lote N° 9. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
