@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 1.250 del 7 de septiembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Avenida Huambalí N° 312, comuna de Chillán, Rol de Avalúo N° 00643-00008, de aparente dominio de Parra Pino Cecilia del Carmen. La parte afecta a expropiación parcial de terreno es de 159,31 m2 y total de edificación es de 217,58 m2, cuyos linderos particulares, enmarcados en el plano S16R-067, para el proyecto "Mejoramiento Avenida Huambalí comuna de Chillán", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto don Mario Fabrizzio Bellolio Bostica, constructor civil don Ítalo Renzo Zerga Arancibia, y por el ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $119.616.828.-
+
+Director Serviu Región de Ñuble.
