@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 707 de 23 de agosto de 2021, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 178 para la obra: MEJORAMIENTO RUTA NAHUELBUTA. SECTOR B. SUBSECTOR 5: VARIANTE RENAICO- HUEQUÉN, Región de la Araucanía, que figura a nombre de LEIVA ESCOBAR FELIPE IGNACIO, rol de avalúo 1453-40 de la comuna de Angol, superficie 862 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 28 de 14 de enero de 2021, integrada por Sonia Catalina Gallegos Blanch, Felipe Suckel Figueroa y Valentina Andrea Chacaltana Sims, fijó con fecha 3 de marzo de 2021, el valor provisional de la indemnización en la cantidad de $3.963.000 para el lote Nº 178. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
