@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento Nº 695, de 23 de agosto de 2021, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 66-A, Rol de avalúo 2208-78, comuna de Osorno, superficie 20 m2., para la obra: REPOSICIÓN PAVIMENTO RUTA U-40, SECTOR: OSORNO - INTERSECCIÓN RUTA U-52, COMUNA Y PROVINCIA DE OSORNO, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRÉS ECHEVERRÍA CAMPO y YASCHALA MARIBEL YÁÑEZ RIFFO, fijó el valor de tasación con fecha 23 de abril de 2020, acordándose la indemnización con su propietaria GEMMA LIDIA ÁLVAREZ VARAS, en la cantidad total de $446.618.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
