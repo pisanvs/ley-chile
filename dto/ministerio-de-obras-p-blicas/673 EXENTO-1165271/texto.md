@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº673, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 13, para la obra: MEJORAMIENTO CAMINO BASICO INTERMEDIO RUTA T-400 MORROMPULLI - RIO FUTA, que figura a nombre de FORESTAL ANCHILE LTDA, rol de avalúo 107-4, Comuna de CORRAL, REGION DE LOS RÍOS, superficie 96 m2. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 05 de febrero de 2021, fijó el monto de la indemnización provisional en la cantidad de $139.200 para el lote Nº13. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
