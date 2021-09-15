@@ -1,0 +1,5 @@
+OTORGAMIENTO CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 244, de fecha 15 de junio de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Entrevientos S.A., RUT 96.569.600-8, concesión marítima menor, con vencimiento el 30 de junio de 2026, sobre un sector de playa y fondo de mar, en el lugar denominado Tres Puentes, Bahía Catalina, comuna de Punta Arenas, provincia de Magallanes, Región de Magallanes y de la Antártica Chilena, con una superficie total de 352.15 m², la que fue tramitada con el SIABC Nº 44.265. A modo referencial se señala la siguiente coordenada geográfica: Lat. 53º06'44.41" S; Long. 70º52'35.45" W. El objeto consiste en amparar la instalación y operación de una cañería aductora de agua de mar. Las obras consisten en una cañería aductora de agua de mar. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Punta Arenas. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Punta Arenas, 1 de septiembre de 2021.- Mauricio Elgueta Orellana, Capitán de Fragata LT, Capitán de Puerto de Punta Arenas.
