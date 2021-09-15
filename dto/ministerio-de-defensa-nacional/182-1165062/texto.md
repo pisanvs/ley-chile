@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 182, de fecha 19 de mayo de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a José Antonio Cortés Rojas, Rut N° 10.430.811-2, Concesión Marítima Menor, con vencimiento el 30 de junio de 2026, sobre un sector de terreno de playa, en el lugar denominado Villa Alegre, comuna de Chañaral, Provincia de Chañaral, Región de Atacama, con una superficie total de 64 m2, la que fue tramitada con el SIABC N° 47231. A modo referencial se señalan las siguientes coordenadas geográficas: Vértice A: Lat. 26°31'38.36"S Long. 70°42'24.52"W y Vértice D: Lat. 26°31'38.41"S Long. 70°42'24.80"W. El objeto consiste en amparar la construcción de una casa para destinarla a veraneo familiar. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Alejandro León Solari, Teniente 1° LT, Capitán de Puerto de Chañaral.
