@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 711, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 36-1, para la obra: CONCESIÓN AMÉRICO VESPUCIO ORIENTE, TRAMO AV. PRÍNCIPE DE GALES - LOS PRESIDENTES, que figura a nombre de SHELL CHILE SACI, rol de avalúo 116-8, comuna de LA REINA, REGION METROPOLITANA DE SANTIAGO, superficie 1.043 m2. La Comisión de Peritos nombrada por Resolución Expropiaciones Fiscalía (Exenta) N°87 de 05 de marzo de 2021, integrada por MARIA CRISTINA CAMUS PALACIOS, INES ELENA OTAROLA CASTILLO y MUFIDA VIOLA ABUAWAD ELIAS, mediante informe de tasación de 04 de junio de 2021, fijó el monto de la indemnización provisional en la cantidad de $2.229.785.000 para el lote N°36-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
