@@ -36,13 +36,7 @@ Considerando:
 
 Resuelvo:
 
-1. Suspéndanse en favor de los administrados, con efecto retroactivo a partir de la declaración de Estado de Excepción Constitucional de Catástrofe, efectuada a través del DS Nº 104, de 18 de marzo de 2020, y hasta el término del mismo, los plazos que a continuación se indican:
-
-I. Aquellos asociados a la tramitación de los procedimientos relativos a concesiones marítimas mayores, menores y destinaciones marítimas, actualmente en curso, incluido el plazo dispuesto para la corrección de los antecedentes señalado en el artículo 46 del DS Nº 9 de 2018, del Ministerio de Defensa Nacional, Reglamento sobre Concesiones Marítimas.
-
-Lo anterior, no obsta a que los interesados puedan válidamente realizar las actuaciones pertinentes ante la Autoridad Marítima o el Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, según corresponda, a fin de continuar la tramitación de su solicitud, sin necesidad de esperar la reanudación del plazo suspendido, caso en el cual se dará curso progresivo al procedimiento.
-
-### II. Aquellos relativos al cumplimiento de obligaciones derivadas de concesiones marítimas ya otorgadas, establecidos en el decreto de concesión
+1. Suspéndanse en favor de los administrados, con efecto retroactivo a partir de la declaración de Estado de Excepción Constitucional de Catástrofe, efectuada a través del DS Nº 104 de 18 de marzo de 2020, del Ministerio del Interior y Seguridad Pública y hasta el término del mismo, los plazos relativos al cumplimiento de obligaciones derivadas de concesiones marítimas ya otorgadas, establecidos en el decreto de concesión.
 
 Los concesionarios podrán voluntariamente dar efectivo cumplimiento a las referidas obligaciones, sin otras exigencias o formalidades que aquellas previstas en la normativa que las regule y/o decreto concesional.
 
