@@ -1,0 +1,7 @@
+MODIFICA EL COMPENDIO DE NORMAS ADUANERAS PARA RECONOCER EL CERTIFICADO DE ORIGEN DIGITAL COMO PRUEBA DE ORIGEN VÁLIDA PARA INVOCAR EN LA DECLARACIÓN DE INGRESO (DIN) EL RÉGIMEN ARANCELARIO PREFERENCIAL ESTABLECIDO PARA MERCANCÍAS ORIGINARIAS DE URUGUAY MEDIANTE EL ACUERDO DE COMPLEMENTACIÓN ECONÓMICA Nº 35, ENTRE CHILE Y MERCOSUR
+
+Mediante resolución exenta Nº 2.178, de 13 de septiembre de 2021, del Director Nacional de Aduanas, se reconoce el certificado de origen digital entre Chile y Uruguay, transmitido al Servicio Nacional de Aduanas a través del Sistema Integrado de Comercio Exterior como una prueba de origen válida para invocar en la declaración de ingreso (DIN) el régimen arancelario preferencial establecido para mercancías originarias de Uruguay mediante el Acuerdo de Complementación Económica Nº35 entre Chile y Mercosur. Reemplaza el texto de la letra g) del numeral 10.1 para admitir la presentación de la prueba de origen en formato electrónico o digital además de la declaración de importación, en las destinaciones aduaneras Declaración de Importación y Pago Simultáneo y Declaración de Reingreso del Anexo 18 del Compendio de Normas Aduaneras.
+
+El texto íntegro de esta resolución se encuentra publicado en el sitio web del Servicio Nacional de Aduanas (www.aduanas.cl).-
+
+José Ignacio Palma Sotomayor, Director Nacional de Aduanas.
