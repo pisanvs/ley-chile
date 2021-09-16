@@ -1,0 +1,13 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO "ODATA SAN BERNARDO"
+
+De conformidad con lo dispuesto en el artículo 94 del DS N° 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental ("RSEIA"), se comunica que, mediante resolución exenta N° 20211300127, del Servicio de Evaluación Ambiental de la Región Metropolitana de Santiago, de 3 de septiembre de 2021, se ha resuelto dar inicio a un proceso de participación ciudadana, por un plazo de 20 días hábiles de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del proyecto "Odata San Bernardo", emplazado en la comuna de San Bernardo, Provincia de Maipo, Región Metropolitana, cuyo titular es Odata Chile S.A.
+
+Que, conforme a la descripción y naturaleza del proyecto "Odata San Bernardo", que hace obligatorio su ingreso al SEIA, es pertinente señalar que este pertenece a un proyecto de construcción y operación de un centro de almacenamiento de información de datos tecnológicos que establece como tipología principal lo indicado en el literal ñ.3) y como tipología secundaria lo establecido en el literal b.2) del artículo 3° del RSEIA, pues el proyecto contempla el almacenamiento de 860 m³ (731 ton. aproximadamente) de combustible (Diésel) para los generadores de emergencia y la construcción de una Subestación Eléctrica propia que recibirá la energía tanto en media como en alta tensión y sus respectivas líneas de transmisión proveniente de la Subestación Lo Espejo-Panamericana, siendo estas líneas subterráneas y con conexión directa entre las subestaciones.
+
+Este proyecto corresponde a una DIA con tipología b.2) del artículo 3 del RSEIA, la que conforme a lo dispuesto en el inciso 7° del artículo 94 de la norma antes citada, constituye a una DIA con carga ambiental.
+
+En virtud de lo anterior, y conforme al artículo 30° bis de la ley 19.300; y los artículos 94 y 95 del Reglamento del Sistema de Evaluación de Impacto Ambiental, la comunidad podrá realizar observaciones a la Declaración dentro de un plazo de 20 días hábiles, contados desde la presente publicación.
+
+El texto íntegro de la resolución exenta antes individualizada puede ser conocido en www.sea.gob.cl.-
+
+Arturo Farías Alcaíno, Director Regional (S), Servicio de Evaluación Ambiental Región Metropolitana de Santiago.
