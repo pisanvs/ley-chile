@@ -1,0 +1,39 @@
+MODIFICA RESOLUCIÓN Nº 27 DE 1987 DEL MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES, QUE AUTORIZA FUNCIONAMIENTO DE GABINETE PSICOTÉCNICO DE LA I. MUNICIPALIDAD DE PANGUIPULLI, Y DEJA SIN EFECTO RESOLUCIÓN Nº 108 EXENTA DE 2021, DE LA SECRETARÍA REGIONAL MINISTERIAL DE TRANSPORTES Y TELECOMUNICACIONES DE LA REGIÓN DE LOS RÍOS
+
+Núm. 641 exenta.- Valdivia, 7 de septiembre de 2021.
+
+Visto:
+
+Artículos 1, 6 y 7 de la Constitución Política de la República; el Título I, sobre los conductores y las licencias, del DFL Nº 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito; la ley 19.880, que establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; el DFL Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fija texto refundido, coordinado y sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; los decretos Nº 97 de 1984 y Nº 170 de 1985, relativos al otorgamiento de Licencias de Conducir, ambos del Ministerio de Transportes y Telecomunicaciones; resolución Nº 27, de 9 de marzo de 1987, del Ministerio de Transportes y Telecomunicaciones; resolución Nº 249, de 19 de diciembre de 1997, del Ministerio de Transportes y Telecomunicaciones, que delega facultades que señala en los Secretarios Regionales Ministeriales; resolución exenta Nº 108, de 8 de febrero de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Ríos; memorándum Nº 7404, de 30 de agosto de 2021, del Encargado Regional del Programa Nacional de Fiscalización, Región de Los Ríos; oficio Nº 80, de 24 de agosto de 2021, del Director de Tránsito y Transporte Público de la I. Municipalidad de Panguipulli; resolución Nº 7 de 2019, de la Contraloría General de la República; y demás normativa que resulte aplicable.
+
+Considerando:
+
+1. Que, a través de la resolución Nº 27, de 9 de marzo de 1987, el Ministerio de Transportes y Telecomunicaciones autorizó el funcionamiento del gabinete psicotécnico de la I. Municipalidad de Panguipulli.
+
+2. Que, a través de la resolución Nº 249 de 1997, el Ministerio de Transportes y Telecomunicaciones procedió a delegar en los Secretarios Regionales Ministeriales de Transportes y Telecomunicaciones, la facultad de conceder autorización a las Municipalidades para otorgar licencias de conductor como, asimismo, suspender o revocar las autorizaciones concedidas.
+
+3. Que, consta como hecho público y notorio que durante la jornada del día viernes 5 de febrero de 2021 se produjo el incendio y destrucción total de las instalaciones municipales de la comuna de Panguipulli, ubicadas en calle Bernardo O'Higgins Nº 793 de la misma, entre las que se encontraba y funcionaba regularmente la Dirección de Tránsito y Transporte Público.
+
+4. Que, lo indicado anteriormente impidió que la Dirección de Tránsito y Transporte Público de la Ilustre Municipalidad de Panguipulli pudiese tramitar, renovar y emitir con normalidad las licencias de conductor y realizar los exámenes correspondientes para los habitantes con residencia en la referida comuna de Panguipulli.
+
+5. Que, en vista a lo indicado y en atención al mandato constitucional contenido en el artículo 1, inciso 4, de la Constitución Política de la República; lo señalado en el DS Nº 97, de 2 de agosto de 1984, del Ministerio de Transportes y Telecomunicaciones; el artículo 11 del DFL Nº 1 de 2007, que contiene el texto refundido, coordinado y sistematizado de la Ley de Tránsito; y los principios de actuación de los órganos de la Administración del Estado señalados en los artículos 3 y 5 del DFL Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fija texto refundido, coordinado y sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; esta Secretaría Regional Ministerial dictó la resolución exenta N° 108, de 8 de febrero de 2021, mediante la cual se autorizó excepcionalmente a las Direcciones de Tránsito y Transporte Público de las Ilustres Municipalidades de Lanco, Los Lagos y Futrono, para tomar exámenes, gestionar renovaciones y emitir licencias de conductor a las personas que requiriesen efectuar dichos trámites y que tuviesen su residencia en la comuna de Panguipulli. Lo anterior, mientras se encontrase suspendido el funcionamiento del Gabinete Técnico de la I. Municipalidad de Panguipulli.
+
+6. Que, mediante oficio N° 80, de fecha 24 de agosto del presente, don Marcelo Águila Ávila, Director de Tránsito y Transporte Público de la I. Municipalidad de Panguipulli, informó a esta Secretaría Regional Ministerial que se encontraban habilitadas e implementadas las nuevas dependencias destinadas a la Dirección de Tránsito y Transporte Público, ubicadas en calle Bernardo O'Higgins Nº 786, comuna de Panguipulli, solicitándose, asimismo, el restablecimiento del funcionamiento del Gabinete Técnico de su comuna.
+
+7. Que, en vista a lo informado, con fecha 27 de agosto de 2021, los funcionarios del Programa Nacional de Fiscalización con asiento en la región, se constituyeron en las nuevas instalaciones informadas, ubicadas en calle Bernardo O'Higgins N° 786, comuna de Panguipulli. De la visita se levantó el acta de fiscalización folio N° 93814, de igual fecha, contenida en el memorándum N° 7404, de 30 de agosto del presente, en el cual se indica que dicho establecimiento cumple con todos los requerimientos y requisitos establecidos en la normativa para la emisión de licencias de conductor.
+
+8. Que, en virtud de la nueva división territorial establecida en nuestro país a través de la ley Nº 20.174, que creó la XIV Región de Los Ríos y la Provincia del Ranco en su territorio, la Dirección de Tránsito y Transporte Público de la comuna de Panguipulli, se encuentra actualmente operando en la Región de Los Ríos.
+
+9. Que, en atención a lo expuesto y constituyéndose en una necesidad para la comuna de Panguipulli el reestablecer el funcionamiento de su gabinete psicotécnico, se procederá a emitir un pronunciamiento sobre lo solicitado.
+
+Resuelvo:
+
+1. Modifíquese la resolución N° 27, de 9 de marzo de 1987, del Ministerio de Transportes y Telecomunicaciones, que autoriza el funcionamiento del gabinete psicotécnico de la I. Municipalidad de Panguipulli, en el sentido de indicar que su dirección de funcionamiento estará ubicada en calle Bernardo O'Higgins N° 786, comuna de Panguipulli, Región de Los Ríos.
+
+2. En atención a que el gabinete psicotécnico antes indicado se encuentra en condiciones de reanudar su funcionamiento, lo cual ha sido corroborado por los inspectores del Programa Nacional de Fiscalización, en los términos indicados en la parte considerativa de la presente resolución, Déjase sin Efecto la resolución exenta Nº 108, de 8 de febrero de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Ríos, que autorizaba a las Direcciones de Tránsito y Transporte Público de las Ilustres Municipalidades de Lanco, Los Lagos y Futrono, para emitir licencias de conductor a quienes tengan residencia en la comuna de Panguipulli, por las razones que indica.
+
+3. Notifíquese el presente acto administrativo a las direcciones de tránsito y transporte público de Panguipulli, Lanco, Los Lagos y Futrono, a través de las casillas de correo electrónico registradas en este servicio. Asimismo, notifíquese la presente resolución a Carabineros de Chile y al Programa Nacional de Fiscalización, con asiento en la región.
+
+4. Publíquese el presente acto administrativo en el Diario Oficial de la República de Chile.
+
+Anótese, notifíquese y publíquese en el Diario Oficial.- Marcela Cecilia Villenas Obreque, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Los Ríos.
