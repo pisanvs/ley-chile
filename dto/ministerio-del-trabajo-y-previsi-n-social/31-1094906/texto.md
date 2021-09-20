@@ -22,7 +22,7 @@ Capítulo I. Disposiciones Generales.
 
 #### Artículo 1
 
-Regulación aplicable. Las subastas de especies empeñadas en la Institución, no rescatadas en tiempo, así como las especies corporales muebles, productos naturales o mercaderías sanas o averiadas, ordenadas por las instituciones indicadas en los artículos 4 y, en su caso, por el artículo 6 del decreto con fuerza de ley número 16 de 1986 del Ministerio del Trabajo y Previsión Social, Subsecretaría del Trabajo, se ajustarán a las normas del presente reglamento, cuando se ejecuten de manera electrónica o en forma mixta.
+Regulación aplicable. Las subastas de especies empeñadas en la Institución, no rescatadas en tiempo; las especies corporales muebles, productos naturales o mercaderías sanas o averiadas, ordenadas por las instituciones indicadas en el artículo 4 y, en su caso, por el artículo 6 del decreto con fuerza de ley Nº 16, de 1986, del Ministerio del Trabajo y Previsión Social, Subsecretaría del Trabajo; las especies corporales muebles respecto de las cuales se haya decretado su comiso en conformidad con lo dispuesto en el Código Procesal Penal, la ley Nº 20.000 y/o la ley Nº19.913; aquellas respecto de las cuales se decrete judicialmente lo dispuesto en el inciso cuarto del artículo 40 de la ley Nº 20.000, y en aquellos casos que deban enajenarse públicamente las especies muebles que se encontraren bajo la custodia o a disposición del Ministerio Público, según lo dispuesto por el inciso quinto del artículo Nº 470 del Código Procesal Penal, se ajustarán a las normas del presente reglamento, cuando se ejecuten de manera electrónica o en forma mixta.
 
 Las subastas que se efectúen sólo de manera presencial se regirán por los artículos 48 y siguientes del decreto con fuerza de ley número 16 de 1986 del Ministerio del Trabajo y Previsión Social, Subsecretaría del Trabajo.
 
@@ -49,6 +49,8 @@ Definiciones. Para los efectos del presente reglamento los siguientes conceptos 
 10. Subasta o remate mixto: Audiencia encabezada por el martillero que tiene por finalidad vender públicamente, al mejor postor, las especies respectivas en forma presencial y electrónica a la vez;
 
 11. Vitrina virtual: Modalidad de exhibición de especies en que el usuario, al acceder al sitio web destinado al efecto, puede observar fotografías de las especies a subastar, junto con su descripción, avalúo y mínimo de remate.
+
+12. Garantía. Monto de dinero que el participante de la subasta deberá entregar previamente, a modo de seriedad de la oferta, para poder participar de esta. El monto de esta garantía, y su forma de pago se informarán en los avisos y publicaciones a que se refiere el artículo 4º del presente reglamento.
 
 #### Artículo 3
 
@@ -78,6 +80,8 @@ Exhibición de las prendas. Cualquier persona podrá ingresar a la plataforma de
 
 Registro de participantes del remate. Todo usuario, para participar del remate, deberá inscribirse en el formulario que se desplegará en la plataforma de remates electrónicos y mixtos, completando todos los datos solicitados en el sistema para quedar habilitado para ofertar posteriormente en el remate. El mismo sistema entregará una confirmación del registro. El registro en la plataforma web podrá ser realizado desde la publicación de la subasta hasta antes de comenzar el remate.
 
+Además, el participante de la subasta deberá entregar previamente, a modo de seriedad de la oferta, una garantía. El monto de esta garantía y su forma de pago, se informarán en los avisos y publicaciones señalados en el artículo 4º del presente reglamento. Por resolución fundada del Director General, se podrá eximir al o los participantes de la o las subastas a que ésta se refiera, de la obligación de entregar la respectiva garantía.
+
 #### Artículo 7
 
 El remate electrónico. El remate electrónico se efectuará mediante una transmisión de video en línea, a través de la plataforma de remates electrónicos o mixtos, en la que se visualizará en tiempo real el proceso de subasta, señalándose a través de ella las ofertas que se realicen.
@@ -90,13 +94,15 @@ Libre concurrencia. El sistema garantizará la libre concurrencia de los oferent
 
 #### Artículo 9
 
-Adjudicación y pago. Una vez adjudicada una especie o lote, se indicará a viva voz el valor y el lote adjudicado. El usuario adjudicatario tendrá 48 horas desde verificado el remate para efectuar el pago del monto total mediante el sistema de pago electrónico dispuesto en la plataforma de remates electrónicos y mixtos.
+Adjudicación y pago. Una vez adjudicada una especie o lote, se indicará a viva voz el valor y el lote adjudicado. El usuario adjudicatario tendrá 48 horas desde verificado el remate para efectuar el pago del monto total de todas las adjudicaciones que haya efectuado en el respectivo remate, mediante el sistema de pago electrónico dispuesto en la plataforma de remates electrónicos y mixtos o de manera presencial en algunas de las Unidades de Crédito del país. La garantía entregada por parte del adjudicatario se imputará al monto total respectivo.
 
-Si en el plazo de 48 horas desde verificado el remate, el adjudicatario no paga el precio de la especie, la adjudicación quedará sin efecto. En tal evento, conforme a lo dispuesto en el inciso segundo del artículo 55 del DFL Nº 16 de 1986 del Ministerio del Trabajo y Previsión Social, la baja de precio y los gastos que se causaren en el nuevo remate serán de cargo del anterior adjudicatario y la especie será subastada en el próximo remate que se lleve a cabo.
+Si en el plazo de 48 horas desde verificado el remate, el adjudicatario no paga el precio de la especie, la adjudicación quedará sin efecto. En tal evento, conforme a lo dispuesto en el inciso segundo del artículo 55 del DFL Nº 16 de 1986 del Ministerio del Trabajo y Previsión Social, la baja de precio y los gastos que se causaren en el nuevo remate serán de cargo del anterior adjudicatario y la especie será subastada en el próximo remate que se lleve a cabo. Además, el no pago del precio significará la pérdida de la garantía entregada por el oferente, en favor de la Dirección General del Crédito Prendario.
+
+Las garantías de los oferentes que no se adjudicaron la especie serán devueltas dentro de las 48 horas posteriores a la realización de la subasta, de manera electrónica, en la cuenta bancaria señalada por el oferente. En el caso que no haya informado de ninguna cuenta, será pagada por caja, en alguna de las Unidades de Crédito del país, a partir de las 48 horas de la realización de la subasta.
 
 #### Artículo 10
 
-Entrega de la especie. Efectuado el pago de la especie subastada, la Dirección General del Crédito Prendario enviará tal especie adjudicada a la Unidad de Crédito que se indique en la inscripción. Una vez recibida por la Unidad de Crédito correspondiente la especie adjudicada, se notificará al adjudicatario registrado en el sistema de este hecho a través del medio señalado en la inscripción y será puesta a disposición de éste.
+Entrega de la especie. Efectuado el pago de la especie subastada, la Dirección General del Crédito Prendario enviará la especie adjudicada a la Unidad de Crédito que se haya indicado en publicaciones señaladas en el artículo 4º del presente reglamento. Una vez que la especie sea recibida por la Unidad de Crédito correspondiente, se notificará de este hecho al adjudicatario registrado en el sistema, a través del medio señalado en la inscripción y será puesta a disposición de éste, en la Unidad de Crédito mencionada.
 
 A partir del plazo de 48 horas desde la notificación señalada anteriormente, si el adjudicado no retirare la especie, se aplicará el cobro por concepto de bodegaje determinado conforme al Art. 59 del DFL Nº16, del año 1986, del Ministerio del Trabajo y Previsión Social.
 
