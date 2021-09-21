@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 2.288 EXENTA, DE 17 DE AGOSTO DE 2021
+
+Por resolución exenta Nº 2.288, de 17 de agosto de 2021, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modificó resolución exenta N° 6.312, de 23 de diciembre de 2015, de misma Secretaría Regional Ministerial, que aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Sociedad Educacional Centro de Manejo Avanzado", RUT N° 76.347.781-9, ubicada en Parque Central Poniente N° 1109, comuna de Maipú, a contar de su total tramitación y sólo en sentido de aprobar la designación de nuevo Director de dicha sede, siendo este el señor Jorge Andrés Barrera González. En todo lo no modificado, se mantienen íntegramente vigentes las demás estipulaciones aprobadas por resolución exenta N° 6.312, de 23 de diciembre de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.-
+
+Eddy Nelson Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
