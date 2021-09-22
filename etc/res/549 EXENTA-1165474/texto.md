@@ -1,0 +1,59 @@
+AUTORIZA POSTERGACIÓN DE PERMISOS DE SUBDIVISIÓN, LOTEO O URBANIZACIÓN PREDIAL Y DE CONSTRUCCIONES POR 03 MESES, EN CONFORMIDAD A LO SEÑALADO EN EL INCISO 2º DEL ART. 117 DE LA LEY GENERAL DE URBANISMO Y CONSTRUCCIONES, EN LAS ZONAS DISPUESTAS COMO ZEQ, ZPRI, ZH1 Y ZI, DE LA COMUNA DE CASTRO
+
+Núm. 549 exenta.- Puerto Montt, 16 de septiembre de 2021.
+
+Vistos:
+
+a) La ley 21.202, de 2020, del Ministerio del Medio Ambiente, que modifica diversos cuerpos legales con el objetivo de proteger los Humedales Urbanos.
+
+b) La circular Ord. Nº 427, DDU 444, de fecha 28.10.2021, DDU 444, que instruye con respecto a la postergación de permisos de subdivisión, loteo o urbanización predial y de construcciones contenidas en el Art. 117 de la LGUC, en relación a lo señalado en el Art. 3º de la ley 21.202.
+
+c) El oficio Ord. Nº 625, de fecha 15.09.2021 del Alcalde de Castro, don Juan Eduardo Vera Sanhueza a Sra. Carolina Schmidt Zaldívar, Ministra del Medio Ambiente, con copia a don Klaus Kosiel Leiva, Seremi del Medio Ambiente Región de Los Lagos, que solicita el reconocimiento de los Humedales Gamboa y Ten Ten, que se encuentran emplazados en las Áreas dispuestas en el Plano Regulador vigente de la comuna, reconocidas como Zonas ZEQ, ZPRI, ZH1 y ZI.
+
+d) El Ord. Nº 614, de fecha 09.09.2021, de la Municipalidad de Castro al Seremi Minvu Región de Los Lagos, el cual solicita Informe favorable para la postergación de Permisos subdivisión, loteo o urbanización predial y de construcción, en conformidad a lo dispuesto en el Art. 3º la ley 21.202, a fin de promover la prórroga de postergación de permisos de acuerdo al inciso 2º del Art. 117º de la LGUC, en las zonas dispuestas como ZEQ, ZPRI, ZH1 y ZI, de la comuna de Castro.
+
+e) El Ord. Nº 1149, de fecha 16.09.2021, de la Seremi Minvu Región de Los Lagos, que informa favorablemente sobre postergación de Permisos de subdivisión, loteo o urbanización predial y de construcciones.
+
+f) Decreto Nº 731, de fecha 14.09.2020, de la Municipalidad de Castro, que Aprueba a Ordenanza Municipal Nº 38, de fecha 14.09.2020, denominada "Ordenanza de Protección de Humedales de la comuna de Castro".
+
+g) Decreto Nº 581, de fecha 08.09.2021 y su correspondiente publicación en el Diario Oficial de fecha 13.09.2021, de la Municipalidad de Castro, que aprueba la Enmienda a la Ordenanza Local del Plano Regulador de la comuna de Castro, en lo específico a las zonas dispuestas como ZH1, ZEQ y ZI, dejando por resuelto el Art 8 "... Estacionamientos. Destino Supermercado: 1 por cada 15 mts2 de superficie útil construida, Centro Comercial 1 por cada 20 mts2 de superficie útil construida..." y su Art. 24 "... La red vía del Plano Regulador de Castro está constituida por las avenidas, calles y pasajes en general, toda vía de uso público actualmente existente y proyectada. Se identifican a continuación aquellas vías que por sus características tienen calidad estructurante, de acuerdo a la categorización dispuesta en el Título 2: de la planificación, Capítulo 3 de los trazados viales urbanos, Ordenanza General de Urbanismo y Construcciones.
+
+La Municipalidad podrá aceptar equipamientos de diferente escala a los señalados en el Art. 21 de esta Ordenanza Local, en vías de menor categoría siempre que se encuentre avalado por un estudio de capacidad vial que, en concordancia con lo señalado en la Ordenanza General de Urbanismo y Construcciones, esté contenido en el Plan Regulador Comunal, y que, además, no contravenga los requerimientos de dotación de estacionamientos establecidos en el artículo octavo de este mismo cuerpo normativo. La Municipalidad podrá autorizar el emplazamiento de equipamiento clasificado como mediano según el Art 2.3.36 de la Ordenanza General de Urbanismo en vías tipo colectoras, o de menor clasificación como vías de servicio o vías locales, cumpliendo con lo señalado en el inciso anterior, e incorporando igualmente al estudio de capacidad vial del Plan Regulador, los requerimientos de estacionamientos establecidos en el artículo octavo de este cuerpo normativo..." se encontraría ya concluida y enmarcada en lo dispuesto conforme las disposiciones contenidas en los Art. 45º en relación al Art. 43º de la Ley General de Urbanismo y Construcciones y en los Arts. 2.1.11 y 2.1.13 de la Ordenanza General de Urbanismo y Construcciones y sus modificaciones.
+
+h) Lo dispuesto en el DS Nº 397 (V. y U.) de 1976, Reglamento Orgánico de las Seremi Minvu.
+
+i) El DS Nº 4 (V. y U.), de fecha 05.03.2020, que designa Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Los Lagos, a don Jorge Guevara S.
+
+j) La Res. Ex. Nº 7/2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón.
+
+Considerando:
+
+1. El Ord Nº 614, de fecha 09.09.202, de la Municipalidad de Castro al Seremi Minvu Región de Los Lagos, el cual solicita informe favorable para la postergación de permisos de subdivisión, loteo o urbanización predial y de construcción, en conformidad a lo dispuesto en el Art. 3º de la ley 21.202, a fin de promover la prórroga de postergación de permisos de acuerdo al inciso 2º del Art. 117 de la LGUC, en las Zonas dispuestas como ZEQ, ZPRI, ZH1 y ZI, de la comuna de Castro.
+
+2. Que, a este respecto, el Art. 3º de la ley 21.202, indica que: "Desde la presentación de la petición de reconocimiento de la calidad de humedal urbano y hasta el pronunciamiento del Ministerio del Medio Ambiente, la municipalidad respectiva podrá postergar la entrega de permisos de subdivisión, loteo o urbanización predial y de construcciones en los terrenos en que se encuentren emplazados, dicha postergación se realizará utilizando, en lo que corresponda, el procedimiento establecido en el artículo 117 de la Ley General de Urbanismo y Construcciones".
+
+3. Que, por su parte, el inciso 2º del Art. 117 de la LGUC indica que: "En caso necesario, el citado plazo de tres meses podrá ser prorrogado hasta completar un máximo de doce meses. La prórroga se dispondrá por decreto supremo del Ministerio de Vivienda y Urbanismo dictado "por orden del Presidente de la República" o por resolución del Secretario Regional Ministerial de Vivienda y Urbanismo respectivo, según se trate de estudios sobre modificaciones de un Plan Regulador Intercomunal o de un Plan Regulador Comunal, en su caso. Tanto el decreto supremo como la resolución se publicarán en el Diario Oficial y en algún diario de los de mayor circulación".
+
+4. Que, la División de Desarrollo Urbano de este Ministerio, acogiéndose al Art. 4º de la LGUC, que le permite impartir instrucciones para la aplicación de la LGUC y su Ordenanza General, dicta la DDU 444, impartiendo directrices respecto a las solicitudes de postergaciones de permisos y sus prórrogas.
+
+5. Que, asimismo, suprime la exigencia legal de publicar en el DO, indicando que comenzarán a regir, una vez publicada la resolución del Seremi que otorgue la eventual prórroga, en el sitio web de la Seremi Minvu, la que simultáneamente deberá comunicarse por medio de dos avisos publicados en semanas distintas en algún diario de los de mayor circulación en la comuna involucrada.
+
+6. Que, aun siendo promovido el decreto Nº 581, de fecha 08.09.2021, y su correspondiente publicación en el Diario Oficial de fecha 13.09.2021, de la Municipalidad de Castro, que aprueba la Enmienda a la Ordenanza Local del Plano Regulador de la comuna de Castro, en lo específico a las zonas dispuestas como ZH1, ZEQ y ZI, se siguen promoviendo trabajos que han sido denunciados a la Sra. Ivonne Mansilla, Jefa Regional de Los Lagos Superintendencia del Medio Ambiente, trayendo consigo: "... Vulneración de normas medioambientales, que consisten en un relleno con materiales estabilizados en la zona de inundación del Río Ten Ten, con intervención de cauces naturales de agua e intervenciones de acopio de escombros y de material de cobertura que sistemáticamente han sido ingresados a dicho humedal vía maquinaria pesada..." según dicta de manera textual el oficio Nº 614, de fecha 09.09.2021, ingresado a la Oficina de Partes de la Secretaría Ministerial de Vivienda y Urbanismo Región de Los Lagos.
+
+7. Que, siendo promovido conforme lo dispuesto el respectivo informe favorable por parte de la Seremi Minvu, a la Municipalidad de Castro en fecha 16.09.2021, que acoge favorablemente los antecedentes aportados en favor de reconocer los Humedales Gamboa y Ten Ten, atendido en necesidad se considere anexar a las zonas ZH1, ZEQ, Z1 a zona ZPRI que se encuentran siendo intervenidos de manera permanente por particulares y/o empresas del rubro destinadas a los movimientos de tierra, se sigue ejerciendo sin mediar consecuencia.
+
+8. Que, aun estando a la vista la Enmienda publicada en el Diario Oficial en fecha 13.09.2021, dispuesta por la Municipalidad de Castro, pueda ser causal de ser sometida a interpretaciones por cuanto indica: "... La Municipalidad podrá aceptar equipamientos de diferente escala a los señalados en el Art. 21 de esta Ordenanza Local, en vías de menor categoría siempre que se encuentre avalado por un estudio de capacidad vial que, en concordancia con lo señalado en la Ordenanza General de Urbanismo y Construcciones, esté contenido en el Plan Regulador Comunal, y que, además, no contravenga los requerimientos de dotación de estacionamientos establecidos en el artículo octavo de este mismo cuerpo normativo. La Municipalidad podrá autorizar el emplazamiento de equipamiento clasificado como mediano según el Art. 2.3.36 de la Ordenanza General de Urbanismo en vías tipo colectoras, o de menor clasificación como vías de servicio o vías locales, cumpliendo con lo señalado en el inciso anterior, e incorporando igualmente al estudio de capacidad vial del Plan Regulador, los requerimientos de estacionamientos establecidos en el artículo octavo de este cuerpo normativo..." pueda dejar a interpretación que el estudio vial podrá ser aportado por terceros, teniendo por consecuencia los debidos permisos de edificación, sin mediar consecuencia.
+
+Resuelvo:
+
+1. Autoriza postergación de permisos de subdivisión, loteo o urbanización predial y de construcciones en 3 meses, en conformidad a lo señalado en el inciso 2º del Art. 117 de la Ley General de Urbanismo y Construcciones, en las Zonas dispuestas como ZEQ, ZPRI, ZH1 y ZI, de la Comuna de Castro, que se encuentran informadas favorablemente a través de Ord. Nº 1149, de fecha 16.09.2021, de la Seremi Minvu Región de Los Lagos.
+
+2. Considérese dispuesto, a fin del resguardo de los Humedales de Gamboa y Ten Ten, emplazados en zonas del Plano regulador vigente de la Comuna de Castro, que la frase: "... La Municipalidad podrá autorizar el emplazamiento de equipamiento clasificado como mediano según el Art 2.3.36 de la Ordenanza General de Urbanismo en vías tipo colectoras, o de menor clasificación como vías de servicio o vías locales, cumpliendo con lo señalado en el inciso anterior, e incorporando igualmente al estudio de capacidad vial del Plan Regulador, los requerimientos de estacionamientos establecidos en el artículo octavo de este cuerpo normativo..." que en lo que respecta a disponer que todo estudio y al que sea incorporado al plano regulador a fin de aceptar: "... equipamientos de diferente escala a los señalados en el Art. 21 de la Ordenanza Local..." deberá ser parte integrante del total de los estudios dispuestos conforme al Art 2.1.10 y los establecidos en el 2.1.10 bis de la OGUC.
+
+3. Publíquese la presente resolución en el Diario Oficial y el diario "El Llanquihue".
+
+4. Remítase copia de la presente resolución exenta al Sr. Alcalde de la comuna de Castro, a fin que tome conocimiento de lo resuelto precedentemente.
+
+Anótese, publíquese, comuníquese y transcríbase.- Jorge Guevara Stephens, Secretario Regional Ministerial de Vivienda y Urbanismo Región de Los Lagos.
+
+Lo que transcribo a usted para su conocimiento.- Marcelo González Gacitúa, Ministro de Fe.
