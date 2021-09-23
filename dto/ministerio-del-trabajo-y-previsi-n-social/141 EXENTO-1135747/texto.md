@@ -84,27 +84,49 @@ Segundo: Déjese establecido que esta subrogación regirá para todas las region
 
 ### V. Región de Los Lagos, cuyo orden de subrogación será el siguiente:
 
-1) Director(a) Regional del Servicio Nacional de Capacitación y Empleo.
+1) Director(a) Regional Instituto de Previsión Social, IPS.
 
-2) Director(a) Regional del Instituto de Seguridad Laboral.
+2) Director(a) Regional del Trabajo.
 
-3) Director(a) Regional del Trabajo.
+3) Director(a) Regional del Servicio Nacional de Capacitación y Empleo, Sence.
 
-4) Director(a) Regional del Instituto de Previsión Social.
+4) Director(a) Regional del Instituto de Seguridad Laboral, ISL.
 
-5) Administrador(a) de la Unidad de Crédito de la Dirección General del Crédito Prendario.
+5) Administrador(a) Regional de la Dirección General de Crédito Prendario, Dicrep.
 
 ### VI. Región del Biobío, cuyo orden de subrogación será el siguiente:
 
-1) Director(a) Regional del Trabajo.
+1) Director(a) Regional del Instituto de Seguridad Laboral, ISL.
 
-2) Administrador(a) de la Unidad de Crédito de la Dirección General del Crédito Prendario.
+2) Administrador(a) Regional de la Dirección General de Crédito Prendario, Dicrep.
+
+3) Director(a) Regional del Trabajo.
+
+4) Director(a) Regional Instituto de Previsión Social, IPS.
+
+5) Director(a) Regional del Servicio Nacional de Capacitación y Empleo, Sence.
+
+### VII. Región de Ñuble, cuyo orden de subrogación será el siguiente:
+
+1) Director(a) Regional Instituto de Previsión Social, IPS.
+
+2) Director(a) Regional del Servicio Nacional de Capacitación y Empleo, Sence.
 
 3) Director(a) Regional del Instituto de Seguridad Laboral, ISL.
 
-4) Director(a) Regional del Instituto de Previsión Social, IPS.
+4) Director(a) Regional del Trabajo.
 
-5) Director(a) Regional del Servicio Nacional de Capacitación y Empleo, SENCE.
+5) Administrador(a) Regional de la Dirección General de Crédito Prendario, Dicrep.
+
+### VIII. Región de Tarapacá, cuyo orden de subrogación será el siguiente:
+
+1. Director/a Regional del Trabajo.
+
+2. Director/a Regional del Instituto de Seguridad Laboral.
+
+3. Director/a Regional del Servicio Nacional de Capacitación y Empleo.
+
+4. Director/a Regional del Instituto de Previsión Social.
 
 #### Artículo tercero
 
