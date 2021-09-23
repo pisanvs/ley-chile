@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 384 EXENTA, DE 2021
+
+Mediante resolución exenta Nº 384, de 14 de junio de 2021, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, se autorizó a la Escuela de Conductores Profesionales denominada "Automóvil Club Chile Ltda.", RUT Nº 77.323.230-K, domiciliada en calle Los Conquistadores Nº 1730, piso 25, comuna de Providencia, Región Metropolitana, representada legalmente por don Juan Carlos Pérez Guirao, cédula de identidad Nº 24.690.667-K, cuyos planes y programas fueron autorizados mediante resolución exenta Nº 335 de 2020, para impartir los cursos conducentes a la obtención de la licencia de conductor profesional Clase A-5, con Simulador de Inmersión Total, en la modalidad e-learning, bajo el formato de ejecución sincrónico.-
+
+Marco Antonio Mella Bórquez, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Magallanes y Antártica Chilena.
