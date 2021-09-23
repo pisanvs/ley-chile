@@ -390,6 +390,10 @@ Derógase el Decreto Supremo Nº 130, de 2003, del Ministerio del Interior y el 
 
 No obstante, durante los años 2007 y 2008, se mantendrán vigentes las disposiciones sobre distribución de los recursos por concepto de Estímulo a la Eficiencia, contenidas en el Título III del Párrafo 2º del referido decreto, entendiéndose, en consecuencia, que las normas del presente decreto en relación a dicho estímulo serán aplicables a contar de la distribución que corresponda para el año 2009.
 
+#### Artículo transitorio
+
+Para la distribución de los recursos del Fondo Nacional de Desarrollo Regional entre las regiones del país, en el proyecto de Ley de Presupuestos del Sector Público para los años 2022 y 2023, la actualización a que se refiere el artículo 5° se efectuará considerando la información oficial disponible del año 2019.
+
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Belisario Velasco Baraona, Ministro del Interior.- Andrés Velasco Brañes, Ministro de Hacienda.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Claudia Serrano Madrid, Subsecretaria de Desarrollo Regional y Administrativo.
