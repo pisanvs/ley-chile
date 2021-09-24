@@ -1108,19 +1108,21 @@ líquidos y gaseosos.
 
 71°25' W"
 
-25. Aeródromo La Permanente Paso de personas y
+25. Aeródromo La Permanente Paso de
 
-Araucanía todo tipo de
+Araucanía personas y
 
-38º55'33.24" S operaciones
+38º55'33.24" S todo tipo de
 
-72º39'05.73" W aduaneras
+72º39'05.73" W operaciones
 
-26. Puerto Permanente Operaciones de
+aduaneras
 
-Industrial importación y
+26. Puerto Permanente Operaciones
 
-Cabo Froward exportación.
+Industrial de importación
+
+Cabo Froward y exportación.
 
 L. SUJETOS A LA JURISDICCION DE LA ADUANA DE VALDIVIA:
 
@@ -1439,6 +1441,14 @@ La Puntilla tipo de operaciones
 Rampa costanera aduaneras.
 
 Huilliches
+
+4. Terminal Permanente Paso de personas
+
+Portuario Raúl y todo tipo de
+
+Marín Balmaceda operaciones
+
+aduaneras
 
 P. SUJETOS A LA JURISDICCION DE LA ADUANA DE PUNTA ARENAS:
 
