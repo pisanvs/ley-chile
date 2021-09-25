@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCIÓN N° 1.506 EXENTA, DE FECHA 20 DE SEPTIEMBRE DE 2021
+
+Por resolución exenta N° 1.506, de 20.09.2021, del Gobierno Regional de La Araucanía,
+
+- **1.-** Que, mediante Ingreso E-7640, de fecha 06.09.2021 de la empresa Constructora ACC Chile Ltda., sobre solicitud de suspensión parcial de tránsito en media calzada en calles: Galileo, entre calles Manuel Recabarren y Garibaldi; Garibaldi, entre calles Ancona y Venecia; Bascuñán Santa María, entre calles Ziem y Maestranza; Castilla, entre calles Andalucía y Barcelona; Ancona, entre calles Dante y Garibaldi; Valdivia, entre calles Bascuñán Santa María y David Perry, comuna de Temuco, en el marco de trabajos de "Agua Potable de Temuco, reemplazo de Red Varias Calles".
+
+- **2.-** El Ord. N° 527, de fecha 27.08.2021, de la Municipalidad de Temuco que aprueba croquis de señalización de trabajos en vía pública;
+
+- **3.-** El oficio N° 21764/2021, de fecha 15.09.2021, de la Seremi de Transportes y Telecomunicaciones Araucanía, que remite informe técnico para corte de media calzada en calles Galileo, entre calles Manuel Recabarren y Garibaldi; Garibaldi, entre calles Ancona y Venecia; Bascuñán Santa María, entre calles Ziem y Maestranza; Castilla, entre calles Andalucía y Barcelona; Ancona, entre calles Dante y Garibaldi; Valdivia, entre calles Bascuñán Santa María y David Perry, comuna de Temuco, al Gobierno Regional de La Araucanía.
+
+- **4.-** Que, en consecuencia, existe una causa justificada en los términos del artículo 113 del DFL N° 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito, para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbase desde el día 1 de octubre al 31 de diciembre de 2021, inclusive; la circulación de todo tipo de vehículo motorizado y, de acuerdo a lo aprobado por el Municipio de Temuco y los antecedentes fundantes, autorízase el Corte de Media Calzada en calles: Galileo, entre calles Manuel Recabarren y Garibaldi; Garibaldi, entre calles Ancona y Venecia; Bascuñán Santa María, entre calles Ziem y Maestranza; Castilla, entre calles Andalucía y Barcelona; Ancona, entre calles Dante y Garibaldi; Valdivia, entre calles Bascuñán Santa María y David Perry, en la comuna de Temuco.
+
+Anótese, comuníquese, publíquese y archívese.- Por orden del Sr. Gobernador Regional, Luis Loyola González, Jefe de División de Infraestructura y Transportes, Gobierno Regional de La Araucanía.
