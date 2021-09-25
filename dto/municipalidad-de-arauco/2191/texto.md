@@ -1142,6 +1142,8 @@ B) Venta de tierra por metro cuadrado
 
 - Sector C del Cementerio de Arauco 3.00 UTM
 
+- sector D del cementerio de Arauco 3.00 UTM
+
 - En cementerios rurales 1.00 UTM
 
 #### Artículo 35
@@ -1156,7 +1158,13 @@ A. Por Inhumaciones (Sepultaciones)
 
 Instituciones 0.50 UTM
 
-- En bóvedas, capillas y mausoleos 0.70 UTM
+- En bóvedas, capillas y
+
+mausoleos (adultos) 0.70 UTM
+
+- En bóvedas, capillas y
+
+mausoleos (párvulos) 0.30 UTM
 
 - En tierra:
 
@@ -1165,6 +1173,8 @@ Instituciones 0.50 UTM
 - sector B del cementerio de Arauco 0.30 UTM
 
 - sector C del cementerio de Arauco 0.40 UTM
+
+- sector D del Cementerio de Arauco 0.30 UTM
 
 - En cementerios rurales (cualquier
 
@@ -1210,9 +1220,7 @@ Por reparaciones o transformaciones de cualquier naturaleza y de cualquier tipo 
 
 #### Artículo 39
 
-El derecho a pagar por
-
-transferencias será de 0.5 UTM
+El Derecho a pagar por transferencia será de 5% de la tasación que de la sepultura practique la administración del cementerio de Arauco.
 
 #### Artículo 40
 
@@ -1236,15 +1244,27 @@ Todos los derechos y aranceles establecidos en esta Ordenanza, referidos a los c
 
 #### Artículo 44
 
-Los contratistas y constructores de obras que ejecuten trabajos para articulares en el interior de los cementerios municipales se regularán en sus derechos y obligaciones por un Reglamento específico, cuya aplicación es de responsabilidad del Administrador de los cementerios. Mientras no este aprobado y en aplicación este Reglamento, se obligan a pagar los siguientes aranceles:
+Los contratistas y constructores de obras que ejecuten trabajos para articulares en el interior de los cementerios municipales se regularán en sus derechos y obligaciones por un Reglamento específico, cuya aplicación es de responsabilidad del Administrador de los cementerios. Pagarán los siguientes derechos:
 
-- Contratista habitual. Semestral 1.00 UTM
+- Por inscripción en registro
 
-- Constructor ocasional o por autoconstrucción
+de contratistas de los
 
-(no más de 1 vez por semestre).
+cementerios contratista
+
+habitual. Semestral 2.00 UTM
+
+- Constructor ocasional o por
+
+autoconstrucción (no más
+
+de 1 vez por semestre).
 
 Semestral 0.5 UTM
+
+- Por consumo de agua potable
+
+y electricidad. Mensual 0.3 UTM
 
 ## Título XIII
 
