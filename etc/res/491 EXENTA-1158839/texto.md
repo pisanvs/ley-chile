@@ -82,9 +82,9 @@ Si el Diagnóstico Técnico efectuado por la Entidad Patrocinante define la nece
 
 Los proyectos que aborden la estructura de las viviendas deberán contar con Permiso de Obras por Alteración o Reparación emitido por la DOM de la comuna de Arica, si corresponde.
 
-2.3. Fechas del llamado
+2.3 Fechas del llamado
 
-El Secretario Regional Ministerial de Arica y Parinacota seleccionará los postulantes y los respectivos proyectos mensualmente a partir de la fecha de publicación del Llamado que se autoriza por la presente resolución y hasta el día 31 de agosto del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para la región.
+El Secretario Regional Ministerial seleccionará los postulantes y los respectivos proyectos definiendo en la resolución del llamado la periodicidad con que efectuará las selecciones, a partir de la fecha de publicación del llamado objeto de la presente resolución y hasta el día 30 de noviembre del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para la región.
 
 Este llamado contará con procesos de selección regional, en los cuales podrán ser digitados únicamente en sistema Rukan los proyectos previamente calificados por la Comisión Técnica Evaluadora - CTE de Serviu Región de Arica y Parinacota.
 
