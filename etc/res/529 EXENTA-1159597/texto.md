@@ -48,7 +48,7 @@ Considerando:
 
 Resolución:
 
-1. Llámase a postulación regional en condiciones especiales a familias residentes en viviendas unifamiliares pertenecientes al Programa Especial de Trabajadores (PET), localizadas en las comunas de El Bosque, Huechuraba, La Florida, La Granja, La Reina, Maipú, Peñalolén, Pudahuel, Puente Alto, Quilicura, Recoleta, Renca, San Bernardo y Santiago, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título II, Mejoramiento de la Vivienda, artículo Nº 5, letras b.1) y a modo de complemento b.2) del artículo 5º del DS Nº 255 (V. y U.) de 2006, y sus modificaciones, destinados a:
+1. Llámase a postulación regional en condiciones especiales a familias residentes en viviendas unifamiliares pertenecientes al Programa Especial de Trabajadores (PET) y a familias residentes en viviendas unifamiliares correspondientes al Programa de Vivienda Básica, regidas por el decreto supremo N° 62 (V. y U.) del año 1984, construidas bajo el Reglamento del Sistema de Postulación, Asignación y Venta de Viviendas destinadas a atender Situaciones de Marginalidad Habitacional. Localizadas en las comunas de El Bosque, Huechuraba, La Florida, La Granja, La Reina, Maipú, Peñalolén, Pudahuel, Puente Alto, Quilicura, Recoleta, Renca, San Bernardo y Santiago, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título II Mejoramiento de la Vivienda, Artículo N° 5, letras b.1) y a modo de complemento b.2) del artículo 5° del DS N° 255, (V. y U.) de 2006, y sus modificaciones, destinados a:
 
 1.1 Proyectos de Seguridad de la Vivienda, obras que aborden la seguridad estructural de la construcción, tales como la reparación de cimientos, pilares, vigas, cadenas o estructura de techumbre y pisos u otros similares. Esto con el objeto de ampliar el volumen de los recintos de la vivienda, a través del levantamiento del complejo techumbre, buscando una altura libre de cielo mayor a la existente para dar cumplimiento a la normativa vigente. En especial considerando la incorporación, reparación o modificación de la solución cortafuego para que cumpla con la normativa vigente. Así mismo, el retiro de asbesto cemento de las cubiertas u otro elemento arquitectónico que lo contenga como parte integrante de la vivienda. En el caso que producto de esta intervención se modificara la/s fachada/s, se deberá lograr que ésta/s, tenga/n una sola lectura arquitectónica, es decir, las fachadas de las viviendas deberán ser revestidas por un único material, entre otras consideraciones.
 
@@ -56,35 +56,29 @@ Resolución:
 
 1.3 En caso de que la vivienda no requiera del aumento de volumen de los recintos, se podrán desarrollar de igual manera partidas de Seguridad para su mejoramiento, con la finalidad de resolver el complejo techumbre, considerando que la intervención será comprendida como definitiva. También se podrá incorporar una o más obras del punto 1.2 mencionado, a modo de complemento de la Seguridad de la vivienda.
 
-1.4 El presente llamado a concurso está orientado a dar solución a las problemáticas estructurales y de habitabilidad de las viviendas PET, razón por la cual se deberá focalizar el subsidio asignado a través de la priorización de partidas. Los proyectos de Seguridad, mencionados en el Resuelvo 1.1 y 1.3 son la primera prioridad establecida a través del complejo techumbre. Como segunda prioridad se encuentran las partidas de Habitabilidad como instalaciones. Finalmente, si el presupuesto lo permite, se podrá desarrollar el mejoramiento de la envolvente con aislación térmica, para luego evaluar cambio de ventanas y puertas.
+1.4 El presente llamado a concurso, está orientado a dar solución a las problemáticas estructurales y de habitabilidad de las viviendas PET y Viviendas Básicas, razón por la cual se deberá focalizar el subsidio asignado a través de la priorización de partidas. Los proyectos de Seguridad, mencionados en el Resuelvo 1.1 y 1.3 son la primera prioridad establecida a través del complejo techumbre. Como segunda prioridad se encuentran las partidas de Habitabilidad como instalaciones. Finalmente, si el presupuesto lo permite, se podrá desarrollar el mejoramiento de la envolvente con aislación térmica, para luego evaluar cambio de ventanas y puertas.
 
 1.5 El monto de subsidio deberá considerar las partidas requeridas para la manipulación y retiro de elementos que contengan asbesto cemento, siempre y cuando este se encuentre identificado claramente en el presupuesto respectivo, y conste con la autorización de los organismos competentes para su tratamiento. En caso que la intervención de la vivienda no implique retiro de asbesto cemento, el monto del subsidio será el que se requiera para dar cumplimiento a las partidas de mejoramiento, sin llegar necesariamente al monto máximo del subsidio establecido para el presente llamado.
 
-2. El presente llamado a concurso considera un proceso de selección, el cual será realizado por la Secretaría Regional Ministerial de Vivienda y Urbanismo (Seremi) de la Región Metropolitana mediante resolución, a partir del mes de septiembre de 2021, si los proyectos cuentan con calificación Serviu; esto hasta que se acaben los recursos disponibles para el presente llamado. Se indican las fechas correspondientes en el siguiente cuadro:
+2. El presente llamado a concurso considera un proceso de selección, el cual será realizado por la Secretaría Regional Ministerial de Vivienda y Urbanismo (Seremi) de la Región Metropolitana mediante resolución, a partir del mes de octubre de 2021, si los proyectos cuentan con calificación Serviu; esto hasta que se acaben los recursos disponibles para el presente llamado. Se indican las fechas correspondientes en el siguiente cuadro:
 
 3. La postulación a este llamado se podrá realizar en forma colectiva y requerirá del patrocinio de una PSAT.
 
 ### 4. Se entenderá como Vivienda Objeto del Programa:
 
-4.1 Las viviendas unifamiliares adquiridas mediante el Programa Especial de Trabajadores (PET), Programa Especial de Construcción de Viviendas Sociales que organizaron entidades que indica (DS Nº 235, de 1985). Ejecutado entre los años 1985 y 2006, en la Región Metropolitana y que acrediten recepción final entre los años mencionados.
+4.1 Las viviendas unifamiliares adquiridas mediante el Programa Especial de Trabajadores (PET), Programa Especial de Construcción de Viviendas Sociales que organizaron entidades que indica (DS N° 235, de 1985) y las viviendas unifamiliares mediante el Programa de Vivienda Básica, regidas por el DS N° 62 (V. y U.) del año 1984, construidas bajo el Reglamento del Sistema de Postulación, Asignación y Venta de Viviendas destinadas a atender Situaciones de Marginalidad Habitacional. Ejecutado entre los años 1984 y 2006, en la Región Metropolitana y que acrediten recepción final entre los años mencionados.
 
-4.2 Aquellas viviendas unifamiliares PET que se encuentren ubicadas en las comunas de El Bosque, Huechuraba, La Florida, La Granja, La Reina, Maipú, Peñalolén, Pudahuel, Puente Alto, Quilicura, Recoleta, Renca, San Bernardo y Santiago.
+4.2 Aquellas viviendas unifamiliares PET y Viviendas Básicas que se encuentren ubicadas en las comunas de El Bosque, Huechuraba, La Florida, La Granja, La Reina, Maipú, Peñalolén, Pudahuel, Puente Alto, Quilicura, Recoleta, Renca, San Bernardo y Santiago.
 
 4.3 Que sean parte de los conjuntos habitacionales pertenecientes al Programa Especial de Trabajadores (PET), según el Catastro de Viviendas PET aportado por el Centro de Estudios de Ciudad y Territorio, Minvu, el que se indica a continuación:
 
-4.4 En el caso de los conjuntos habitacionales, que hayan sido construidos a través del Programa Especial de Trabajadores (PET), ubicados en las comunas indicadas en el resuelvo Nº4.2, que no se encuentren en el registro señalado en el resuelvo Nº 4.3, se aceptarán como parte integrante de la postulación los documentos señalados en el siguiente párrafo, que acrediten que la vivienda a intervenir fue edificada a través del Programa Especial para Trabajadores, del DS Nº 235, año 1985.
+4.4 En el caso de los conjuntos habitacionales, que hayan sido construidos a través del Programa Especial de Trabajadores (PET) o a través del Programa de Vivienda Básica, ubicados en las comunas indicadas en el Resuelvo N° 4.2, que no se encuentren en el registro señalado en el Resuelvo N° 4.3, se aceptarán como parte integrante de la postulación, los documentos señalados en el siguiente párrafo, que acrediten que la vivienda a intervenir fue edificada a través del Programa Especial para Trabajadores, del DS N° 235, año 1985; o a través del Programa de Vivienda Básica, del DS N° 62, año 1984.
 
-Acreditación de Vivienda Objeto: El postulante deberá presentar como mínimo 1 de los documentos señalados a continuación que haga referencia a vivienda PET (Si es necesario Serviu podrá solicitar complementar la información):
+Acreditación de Vivienda Objeto: El postulante deberá presentar como mínimo 1 de los documentos señalados a continuación que haga referencia a vivienda PET o a Vivienda Básica. (Si es necesario Serviu podrá solicitar complementar la información):
 
-a) Certificado DOM que acredite que es vivienda PET con nombre del conjunto habitacional y dirección.
+a) Certificado DOM que acredite que es vivienda PET o Vivienda Básica, con nombre del conjunto habitacional y dirección.
 
-b) Avalúo simple con nombre de la Villa o Conjunto Habitacional al que pertenece la vivienda (www.sii.cl).
-
-c) Inscripción en el Conservador de Bienes Raíces.
-
-d) En caso de existir deuda, se deberá acompañar también la colilla de pago de Crédito Hipotecario de Banco Estado, otro Banco o entidad financiera.
-
-e) Otro documento oficial que señale expresamente que la vivienda fue construida bajo el Programa Especial para Trabajadores, correspondiente al DS Nº 235, de 1985.
+e) Otro documento oficial que señale expresamente que la vivienda fue construida bajo el Programa Especial para Trabajadores, correspondiente al DS N° 235, de 1985; o a través del Programa de Vivienda Básica, del DS N° 62, año 1984.
 
 5. Exímase a los postulantes a este llamado a concurso de cumplir con los siguientes requisitos del decreto supremo Nº 255 (V. y U.) de 2006:
 
