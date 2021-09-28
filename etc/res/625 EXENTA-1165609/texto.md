@@ -1,0 +1,5 @@
+RESOLUCIÓN N° 625 EXENTA, DE FECHA 21.09.2021, QUE "MODIFICA RESOLUCIÓN N° 712 EXENTA, DE FECHA 30 DE DICIEMBRE DE 2020, QUE APRUEBA PLAN ANUAL DE FISCALIZACIÓN AÑO 2021, DE LA SUPERINTENDENCIA DE EDUCACIÓN, EN LOS TÉRMINOS QUE INDICA"
+
+Con fecha 21 de septiembre de 2021, la Superintendencia de Educación dictó la resolución exenta N° 625, que "Modifica resolución exenta N° 712, de fecha 30 de diciembre de 2020, que Aprueba Plan Anual de Fiscalización año 2021, de la Superintendencia de Educación, en los términos que indica", la cual contiene las modificaciones a las instrucciones de planificación de las actividades de fiscalización para el año 2021 a los sostenedores de establecimientos educacionales reconocidos oficialmente y del nivel de educación parvularia que no cuentan con reconocimiento oficial o autorización de funcionamiento. La resolución referida comenzará a regir desde su publicación en extracto en el Diario Oficial y estará disponible íntegramente en la página web institucional www.supereduc.cl.-
+
+Francisco Trejo Ortega, Jefe Departamento Jurídico, Superintendencia de Educación.
