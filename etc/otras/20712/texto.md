@@ -66,10 +66,6 @@ De la administradora
 
 Sociedades administradoras. Las administradoras deberán constituirse como sociedades anónimas especiales, cuyo objeto exclusivo será la administración de recursos de terceros. Sin perjuicio de lo anterior, las administradoras podrán realizar las demás actividades complementarias a su giro que les autorice la Superintendencia.
 
-Asimismo, las administradoras podrán constituir filiales como Administradoras de Fondos de Pensiones.
-
-Las filiales de las administradoras constituidas como Administradoras de Fondos de Pensiones deberán observar estrictamente su giro exclusivo, y les quedará prohibido ofrecer u otorgar bajo circunstancia alguna, ya sea directa o indirectamente, ni aun a título gratuito, cualquier otro servicio o producto que resulte ajeno a su giro exclusivo.
-
 #### Artículo 4º
 
 Reglas especiales para las administradoras. Las administradoras estarán sujetas a las siguientes reglas especiales:
@@ -214,7 +210,7 @@ b) El cobro de cualquier servicio al fondo, no autorizado por ley o los reglamen
 
 c) El cobro al fondo de cualquier servicio prestado por personas relacionadas con la administradora del mismo, salvo que ello esté expresamente autorizado con un límite anual por el reglamento interno del fondo y que dicho cobro se efectúe en condiciones de mercado.
 
-d) La infracción a lo dispuesto en el Título XXI de la ley N° 18.045.
+d) La comunicación de información relevante relativa a la adquisición, enajenación o mantención de activos por cuenta del fondo, a personas distintas de aquellas que estrictamente deban participar en las operaciones respectivas.
 
 e) La adquisición de activos que haga la administradora para sí, dentro de los 5 días siguientes a la enajenación de éstos, efectuada por ella por cuenta del fondo, si el precio de compra es inferior al existente antes de dicha enajenación. Tratándose de activos de baja liquidez, este plazo será de 60 días.
 
@@ -231,8 +227,6 @@ Para los efectos de las operaciones a que se refiere este artículo, se entender
 Se entenderá por activos de baja liquidez aquellos que no se transen frecuentemente y en volúmenes significativos en los mercados secundarios formales, de conformidad a lo determinado por la Superintendencia mediante norma de carácter general.
 
 No obstante las sanciones administrativas, civiles y penales que correspondan y el derecho a reclamar perjuicios, los actos o contratos realizados en contravención a las prohibiciones anteriormente señaladas no verán afectada su validez.
-
-En todo caso, la infracción señalada en la letra d) originará las responsabilidades previstas en la ley N° 18.045.
 
 #### Artículo 23
 
@@ -350,10 +344,6 @@ Tratándose de rescates que no sean pagados en dinero efectivo, deberán ser val
 
 La administradora y los partícipes podrán acordar que la solicitud de rescate sea cursada en una fecha posterior a la de su presentación, de conformidad a lo establecido en su reglamento interno.
 
-#### Artículo 38 bis
-
-Las cuotas de fondos mutuos o de inversión de partícipes fallecidos que no hayan sido registradas a nombre de los respectivos herederos o legatarios dentro del plazo de diez años contado desde el fallecimiento del partícipe respectivo, serán rescatadas por la administradora del fondo de conformidad a los términos, condiciones y plazos establecidos en los respectivos reglamentos internos para el rescate de cuotas. Estos dineros serán entregados a la Junta Nacional de Cuerpos de Bomberos de Chile para su posterior distribución a los Cuerpos de Bomberos del país. Para el cumplimiento de lo anterior las administradoras deberán informar a la Comisión para el Mercado Financiero, en el mes de marzo de cada año, la fecha de defunción de los partícipes, las cuotas rescatadas y los valores entregados a la Junta Nacional de Cuerpos de Bomberos de Chile en el año anterior.
-
 #### Artículo 39
 
 Determinación del valor cuota. Para efectos de determinar el valor a pagar a los aportantes que soliciten el rescate de cuotas del fondo, se utilizará el "valor cuota" definido por el Reglamento.
@@ -428,7 +418,7 @@ e) Política de Votación: normas que regirán el actuar de la administradora en
 
 f) Política de Gastos: normas que establecerán aquellos gastos y cobros que serán de cargo del fondo.
 
-Estas políticas deberán ser consistentes y coherentes con aquellas normas que se definan en cuanto a la rescatabilidad de la cuota, al pago de la misma y al tipo de inversionistas a los que está dirigido el fondo. A su vez, las mencionadas políticas deberán incluir la información que la Comisión para el Mercado Financiero exija mediante norma de carácter general, la que deberá requerir, a lo menos, la forma en que se incorporan factores ambientales, en particular información referida a los impactos ambientales y al cambio climático, en su estrategia, gobierno corporativo, gestión de riesgos y decisiones de inversión y diversificación. Para estos efectos, la Comisión considerará estándares o recomendaciones nacionales o internacionales sobre la materia.
+Estas políticas deberán ser consistentes y coherentes con aquellas normas que se definan en cuanto a la rescatabilidad de la cuota, al pago de la misma y al tipo de inversionistas a los que está dirigido el fondo.
 
 #### Artículo 49
 
@@ -504,7 +494,7 @@ Para los efectos de este artículo y de las demás disposiciones de esta ley o s
 
 Límites en las inversiones. Los fondos mutuos que no estén dirigidos a inversionistas calificados, en ningún caso podrán:
 
-a) Invertir los recursos del fondo en un porcentaje mayor a lo que determine o autorice la Comisión, en activos que tengan determinadas características de liquidez y profundidad a definir por aquella, todo lo anterior mediante norma de carácter general. Para fijar estos porcentajes la Comisión observará las relaciones entre posiciones activas y pasivas de los fondos, así como los plazos y propensión de liquidación de sus cuotas, entre otros factores.
+a) Invertir más del 50% de su activo en valores que no tengan los requisitos de liquidez y profundidad que requiera la Superintendencia mediante norma de carácter general.
 
 b) Poseer más del 25% del capital suscrito y pagado o del activo de un emisor.
 
@@ -709,10 +699,6 @@ El reparto de beneficios deberá efectuarse dentro de los 180 días siguientes a
 Los dividendos devengados que la administradora no hubiere pagado o puesto a disposición de los aportantes, dentro del plazo antes indicado, se reajustarán de acuerdo a la variación que experimente la unidad de fomento entre la fecha en que éstos se hicieron exigibles y la de su pago efectivo, y devengarán intereses corrientes para operaciones reajustables por el mismo período. Dichos reajustes e intereses serán de cargo de la administradora que haya incumplido la obligación de distribución y, cuando dicho incumplimiento se haya producido por causas imputables a ella, no podrá deducirlos como gastos conforme a lo dispuesto en el artículo 31 de la Ley sobre Impuesto a la Renta, sin que se aplique en este caso lo establecido en el artículo 21 de la misma.
 
 Los dividendos serán pagados a quienes se encuentren inscritos a la medianoche del quinto día hábil anterior a la fecha en que se deba efectuar el pago en el Registro de Aportantes que deberá llevar la administradora. Los dividendos deberán pagarse en dinero, salvo que el reglamento interno establezca la opción a los aportantes de recibirlos total o parcialmente en cuotas liberadas del mismo fondo, representativo de una capitalización equivalente. En este último caso, se aplicará respecto de tales cuotas lo dispuesto en el artículo 17 Nº 6, de la Ley sobre Impuesto a la Renta.
-
-#### Artículo 80 bis
-
-Los dividendos y demás beneficios en efectivo no cobrados por los respectivos partícipes dentro del plazo de cinco años contado desde la fecha de pago determinada por la administradora del respectivo fondo de inversión serán entregados a la Junta Nacional de Cuerpos de Bomberos de Chile para su posterior distribución a los Cuerpos de Bomberos del país. Para ello la administradora del fondo deberá, una vez transcurrido el plazo de un año contado desde que los dineros no hubieren sido cobrados por los partícipes respectivos, mantenerlos en depósitos a plazo reajustables, debiendo entregar dichos dineros, con sus respectivos reajustes e intereses, si los hubiere, a la Junta Nacional de Cuerpos de Bomberos de Chile. Para el cumplimiento de lo anterior, las administradoras deberán informar a la Comisión para el Mercado Financiero, en el mes de marzo de cada año, los dividendos y demás beneficios en efectivo entregados a la Junta Nacional de Cuerpos de Bomberos de Chile, así como una lista actualizada de los dividendos acordados pagar a los partícipes con sus respectivas fechas y los valores no cobrados en cada fondo al cierre del año anterior.
 
 #### Artículo 81
 
