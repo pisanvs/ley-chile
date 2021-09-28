@@ -74,7 +74,7 @@ Exímese a los postulantes a que alude la presente resolución de los requisitos
 
 a) De lo señalado en el artículo 4, permitiéndose en el llamado que las familias beneficiadas anteriormente con un subsidio del Título II, puedan postular nuevamente a dicho Título, siempre que se trate de proyectos cuyas obras difieran de las ya financiadas. Además, los beneficiarios de los subsidios del llamado podrán postular a futuro a otros proyectos de mejoramiento de la vivienda del Programa de Protección del Patrimonio Familiar o del instrumento que lo reemplace, siempre que la futura postulación se refiera a otras partidas a ejecutar.
 
-b) De lo señalado en el artículo 6, respecto de los montos máximos de subsidios; sin perjuicio de lo anterior, el monto de subsidio no podrá exceder de 100 UF, para proyectos de seguridad de la vivienda y de 200 UF para proyectos de habitabilidad de la vivienda.
+b) De lo señalado en el artículo 6, respecto de los montos máximos de subsidios; sin perjuicio de lo anterior, el monto de subsidio podrá exceder de 100 UF, para proyectos de seguridad de la vivienda y de 200 UF para proyectos de habitabilidad de la vivienda, siempre que, en su conjunto (seguridad de la vivienda + habitabilidad de la vivienda), no excedan el financiamiento máximo permitido de 300 UF, a partir del deterioro y daños definidos en el Diagnóstico Técnico Constructivo y su aprobación por parte del Serviu de la Región de Tarapacá.
 
 c) Autorizar proyectos en viviendas que, contando con recepción de obras, tengan ampliaciones sin recepción definitiva y que sea necesario regularizar, con el objetivo de abordar la emergencia por socavones.
 
