@@ -2440,4 +2440,196 @@ la atención de
 
 emergencias.
 
+1516 Fono Emergencia La recepción de
+
+Romeral llamadas por la Oficina
+
+de Seguridad Ciudadana
+
+de la Ilustre Municipalidad
+
+de Romeral, que al recibir
+
+solicitudes en situaciones
+
+de emergencia que requieran
+
+soluciones rápidas para los
+
+ciudadanos, derivarán cada
+
+caso al patrullero de
+
+seguridad más cercano al
+
+domicilio o lugar de los
+
+hechos.
+
+1517 Fono Emergencia La recepción de llamadas
+
+Paine por parte de la Dirección
+
+de Seguridad Pública de la
+
+lustre Municipalidad de
+
+Paine, donde se efectuará
+
+la coordinación inmediata
+
+con Carabineros, Bomberos
+
+y Ambulancia, según lo
+
+requiera la situación. Las
+
+acciones concretas e
+
+inmediatas que adoptará
+
+dicha Dirección incluyen
+
+acudir con vehículos
+
+municipales al lugar donde
+
+fueron reportados los
+
+hechos, en el cual se
+
+restará la primera atención
+
+de las víctimas. Asimismo,
+
+se colaborará en el cierre
+
+de calles o perímetro del
+
+lugar; y, por último,
+
+apoyo y contención telefónica
+
+de la persona que está
+
+siendo afectada por un
+
+delito o accidente.
+
+1518 Fono La recepción de llamadas
+
+Emergencia por parte de la Unidad
+
+Isla de de Seguridad Pública de
+
+Maipo la Ilustre Municipalidad
+
+de Isla de Maipo, ante
+
+situaciones de seguridad
+
+y emergencia ciudadana,
+
+que ocurran en la
+
+comuna. El personal de
+
+dicha unidad recibirá
+
+la llamada y efectuará
+
+la coordinación con
+
+Carabineros, Bomberos
+
+o Ambulancias, según
+
+requerimiento. Las
+
+acciones concretas e
+
+inmediatas que
+
+adoptará la mencionada
+
+unidad ante un
+
+llamado de emergencia
+
+son: acudir con
+
+vehículos de
+
+la Unidad de Seguridad
+
+Pública al lugar donde
+
+fueron reportados
+
+los hechos, en el cual
+
+se prestará la primera
+
+atención de las víctimas
+
+y se realizará las
+
+coordinaciones
+
+necesarias;
+
+cierre calles o
+
+perímetro del lugar
+
+donde se produzcan
+
+los hechos; y apoyo
+
+y contención
+
+telefónica de la
+
+persona que está
+
+siendo afectada
+
+por un delito,
+
+accidente o situación
+
+de emergencia.
+
+1519 Fono La recepción de llamadas
+
+Emergencia atendidas por personal
+
+Puchuncaví del Departamento de
+
+Seguridad Pública
+
+de la Ilustre
+
+Municipalidad de
+
+Puchuncaví, originadas
+
+ante situaciones
+
+de seguridad o
+
+emergencia ciudadana
+
+en dicha comuna. Se
+
+efectuará la
+
+coordinación con los
+
+organismos y autoridades
+
+correspondientes, según
+
+lo requiera la situación.
+
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
