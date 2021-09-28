@@ -52,7 +52,7 @@ f) Las instituciones del Estado o reconocidas por el Supremo Gobierno que tengan
 
 Serán causantes de asignación familiar:
 
-a) La cónyuge y, en su caso, el cónyuge inválido, en las condiciones previstas en el artículo 6° de este reglamento;
+a) El y la cónyuge, en las condiciones previstas en el artículo 6º de este reglamento;
 
 b) Los hijos y los adoptados hasta los 18 años, y los mayores de esta edad y hasta los 24 años, solteros, que sigan cursos regulares en la enseñanza media, normal, técnica, especializada y o superior, en Instituciones del Estado o reconocidas por éste, en las condiciones establecidas en el artículo 27° de este reglamento.
 
@@ -86,7 +86,7 @@ La asignación familiar por invalidez será exigible y se pagará desde la fecha
 
 #### Artículo 6°
 
-Para ser causante de asignación familiar, el cónyuge inválido deberá acreditar su doble condición mediante la correspondiente partida de matrimonio y el competente certificado otorgado por el Servicio Médico de la institución de previsión a la cual se encuentre acogida la cónyuge.
+Para ser causante de asignación familiar, el o la cónyuge deberá acreditar su condición de tal con la correspondiente partida de matrimonio.
 
 #### Artículo 7°
 
