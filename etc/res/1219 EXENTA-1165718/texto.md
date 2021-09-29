@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 762, de 7 octubre de 2009, modificada y rectificada por resolución exenta N° 1.219, de 7 de septiembre 2021, ambas de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, se aprobó el programa de enseñanza conducente a la obtención de Licencias de Conductor No Profesional o Clase B, a la Escuela de Conductores "Inversiones Magallanes S.A.", cuyo propietario es Inversiones Magallanes S.A., RUT: 96.988.660-K. La Escuela de Conductores tendrá como Director a don José Rodrigo Verdugo Vilches, cédula de identidad N° 15.497.254-4, y su sede estará ubicada en calle Egaña N° 920 comuna de Puerto Montt. Las horas pedagógicas autorizadas a la referida escuela son de 8 teóricas y 12 prácticas, con un total de 20 horas pedagógicas.-
+
+Nicolás Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
