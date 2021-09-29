@@ -1,0 +1,43 @@
+MODIFICA CONCESIÓN DE SERVICIO INTERMEDIO DE TELECOMUNICACIONES, QUE ÚNICAMENTE PROVEE INFRAESTRUCTURA FÍSICA PARA TELECOMUNICACIONES A LA EMPRESA SBA TORRES CHILE SpA
+
+Santiago, 12 de agosto 2021.- Con esta fecha se ha decretado lo que sigue:
+
+Núm. 463 exento.
+
+Vistos:
+
+a) El decreto ley Nº 1.762, de 1977, que creó la Subsecretaría de Telecomunicaciones, en adelante la Subsecretaría.
+
+b) La Ley Nº 18.168, General de Telecomunicaciones, en adelante la ley.
+
+c) La resolución N° 7, de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón.
+
+d) El decreto supremo Nº 103, de 2008, del Ministerio de Transportes y Telecomunicaciones.
+
+e) El decreto supremo N° 99, de 2012, del Ministerio de Transportes y Telecomunicaciones, que fija el reglamento que establece los requisitos para obtener, instalar, operar y explotar concesiones de servicios intermedios de telecomunicaciones que únicamente provean infraestructura física para telecomunicaciones.
+
+f) La resolución exenta N° 3.774, de 2012, de la Subsecretaría.
+
+g) El decreto supremo Nº 151, de 2016, del Ministerio de Transportes y Telecomunicaciones, que otorgó la concesión.
+
+Considerando:
+
+a) Lo solicitado por la interesada mediante ingreso Subtel Nº 244.264, de 29.09.2020.
+
+b) Que no se presentaron oposiciones a la publicación en extracto de la solicitud de modificación de concesión.
+
+Decreto:
+
+Modifícase la concesión de Servicio Intermedio de Telecomunicaciones, que únicamente provee infraestructura física para telecomunicaciones, cuya titular es SBA Torres Chile SpA, RUT Nº 76.497.518-9, con domicilio en Málaga N° 50, oficina 52, comuna de Las Condes, Región Metropolitana de Santiago, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes:
+
+1. Autorízase a la concesionaria para instalar, operar y explotar una (1) torre de telecomunicaciones, destinada a soportar sistemas radiantes, según se indica a continuación:
+
+### 2. Los plazos máximos se indican a continuación:
+
+3. Apruébase el proyecto técnico presentado por la concesionaria, conforme a las disposiciones técnico-legales que rigen el servicio de telecomunicaciones concedido. La documentación respectiva quedará archivada en la Subsecretaría de Telecomunicaciones.
+
+4. Es obligación de la concesionaria el conocimiento y cumplimiento de las disposiciones legales, reglamentarias y técnicas que regulan las telecomunicaciones, en lo que le sean aplicables.
+
+Anótese, comuníquese, notifíquese a la interesada y publíquese en el Diario Oficial.- Por orden del Presidente de la República, Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
+
+Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Francisco Moreno Guzmán, Subsecretario de Telecomunicaciones.
