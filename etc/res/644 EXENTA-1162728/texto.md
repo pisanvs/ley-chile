@@ -108,9 +108,9 @@ b. La persona se encuentra en la hipótesis definida como caso sospechoso -segú
 
 14. Aislamiento de personas contagiadas. Dispóngase que las personas diagnosticadas con COVID-19, según lo dispuesto en el numeral anterior, deben cumplir un aislamiento de acuerdo a los siguientes criterios:
 
-a. Si el paciente presenta síntomas, el aislamiento será por 11 días desde la fecha de inicio de los síntomas.
+a. Si el paciente presenta síntomas, el aislamiento será por 10 días desde la fecha de inicio de los síntomas.
 
-b. Si el paciente no presenta síntomas, el aislamiento será por 11 días desde la fecha de toma de muestra del examen que identificó la infección.
+b. Si el paciente no presenta síntomas, el aislamiento será por 10 días desde la fecha de toma de muestra del examen que identificó la infección.
 
 Con todo, la autoridad sanitaria o el médico tratante podrán disponer un tiempo de aislamiento mayor en consideración a las condiciones clínicas particulares del paciente, o a la situación epidemiológica particular.
 
@@ -120,9 +120,9 @@ Exceptúase de lo dispuesto precedentemente a aquellas personas asintomáticas a
 
 Se entenderá como búsqueda activa de casos COVID-19 aquel proceso en virtud del cual la autoridad sanitaria u otra institución mandatada por ella, realiza un test RT-PCR o test de antígeno que cumpla con los criterios establecidos por el Ministerio de Salud, independiente de la sospecha clínica de la persona.
 
-16. Definición de contacto estrecho. Se entenderá por contacto estrecho aquella persona que ha estado en contacto con un caso confirmado o probable con COVID-19, entre 2 días antes del inicio de síntomas y 11 días después del inicio de síntomas del enfermo.
+16. Definición de contacto estrecho. Se entenderá por contacto estrecho aquella persona que ha estado en contacto con un caso confirmado o probable con COVID-19, entre 2 días antes del inicio de síntomas y 10 días después del inicio de síntomas del enfermo.
 
-En el caso de una persona que no presente síntomas, el contacto deberá haberse producido entre 2 días antes de la toma de muestra del test RT-PCR o prueba de antígenos para SARS-CoV-2 y durante los 11 días siguientes a dicha toma de muestra.
+En el caso de una persona que no presente síntomas, el contacto deberá haberse producido entre 2 días antes de la toma de muestra del test RT-PCR o prueba de antígenos para SARS-CoV-2 y durante los 10 días siguientes a dicha toma de muestra.
 
 En ambos supuestos, para calificarse dicho contacto como estrecho deberá cumplirse además alguna de las siguientes circunstancias:
 
@@ -140,7 +140,7 @@ El cumplimiento de las circunstancias indicadas precedentemente podrá ser objet
 
 Sin perjuicio de lo dispuesto precedentemente, no se considerará contacto estrecho a una persona durante un periodo de 90 días después de haber sido un caso confirmado de COVID-19.
 
-17. Aislamiento de personas en razón de experimentar un contacto estrecho. Dispóngase que las personas que hayan estado en contacto estrecho con una persona diagnosticada con COVID-19 deben cumplir con la medida de cuarentena por 11 días, desde la fecha del último contacto. La circunstancia de contar con un resultado negativo en un test de RT-PCR para SARS-CoV-2 no eximirá a la persona del cumplimiento total de la cuarentena dispuesta en este numeral.
+17. Aislamiento de personas en razón de experimentar un contacto estrecho. Dispóngase que las personas que hayan estado en contacto estrecho con una persona diagnosticada con COVID-19 deben cumplir con la medida de cuarentena por 7 días, si la persona cuenta con un esquema completo de vacunación -y han transcurrido 14 días-, o 10 días, si la persona cuenta con esquema incompleto, no han transcurrido 14 días desde la vacunación completa o no cuenta con vacunación contra el COVID-19, desde la fecha del último contacto. La circunstancia de contar con un resultado negativo en un test de PCR para SARS-CoV-2 no eximirá a la persona del cumplimiento total de la cuarentena dispuesta en este numeral.
 
 Sin perjuicio de lo dispuesto precedentemente, la autoridad sanitaria podrá disponer de un tiempo mayor de aislamiento en consideración a las condiciones epidemiológicas particulares.
 
@@ -168,7 +168,7 @@ i. ha estado en contacto estrecho con una persona diagnosticada con COVID-19, se
 
 ii. desarrolla alguno de los síntomas cardinales o al menos dos de los síntomas no cardinales, conforme a lo establecido en el numeral 22 de esta resolución, dentro de los primeros 14 días posteriores al contacto.
 
-Si por cualquier motivo, un caso probable por nexo epidemiológico se realiza un test RT-PCR para SARS-CoV-2 o prueba de antígenos para SARS-CoV-2 y este resulta positivo, deberá cumplir con lo dispuesto en el numeral 14 de esta resolución. Por el contrario, si el resultado es negativo o indeterminado, se seguirá considerando caso probable y deberá mantener aislamiento hasta completar los 11 días desde la fecha de inicio de síntomas.
+Si por cualquier motivo, un caso probable por nexo epidemiológico se realiza un test RT-PCR para SARS-CoV-2 o prueba de antígenos para SARS-CoV-2 y este resulta positivo, deberá cumplir con lo dispuesto en el numeral 14 de esta resolución. Por el contrario, si el resultado es negativo o indeterminado, se seguirá considerando caso probable y deberá mantener aislamiento hasta completar los 10 días desde la fecha de inicio de síntomas.
 
 c. Caso probable por imágenes: caso sospechoso conforme al numeral 18 de la presente resolución, con resultado de test RT-PCR para SARS-CoV-2 negativo o indeterminado, pero que cuenta con una tomografía computarizada de tórax con imágenes características de COVID-19 definidas así por un médico en la conclusión diagnóstica.
 
