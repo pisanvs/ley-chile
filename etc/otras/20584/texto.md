@@ -60,6 +60,8 @@ a) Velar porque se utilice un lenguaje adecuado e inteligible durante la atenci�
 
 b) Velar porque se adopten actitudes que se ajusten a las normas de cortesía y amabilidad generalmente aceptadas, y porque las personas atendidas sean tratadas y llamadas por su nombre.
 
+Realizar acciones concretas de contención, empatía y respeto por el duelo de cada madre, u otra persona gestante, que hayan sufrido la muerte gestacional o perinatal, así como también para el padre o aquella persona significativa que la acompañe. El Ministerio de Salud dictará una norma técnica que establecerá los mecanismos o acciones concretas que deberán realizar los establecimientos de salud para resguardar este derecho.
+
 c) Respetar y proteger la vida privada y la honra de la persona durante su atención de salud. En especial, se deberá asegurar estos derechos en relación con la toma de fotografías, grabaciones o filmaciones, cualquiera que sea su fin o uso. En todo caso, para la toma de fotografías, grabaciones o filmaciones para usos o fines periodísticos o publicitarios se requerirá autorización escrita del paciente o de su representante legal.
 
 La atención otorgada por alumnos en establecimientos de carácter docente asistencial, como también en las entidades que han suscrito acuerdos de colaboración con universidades o institutos reconocidos, deberá contar con la supervisión de un médico u otro profesional de la salud que trabaje en dicho establecimiento y que corresponda según el tipo de prestación.
@@ -492,13 +494,17 @@ b) Agrégase el siguiente número 5º, nuevo:
 
 "5º. La comuna o localidad en la que estuviere avecindada la madre del recién nacido deberá consignarse tanto en esta partida, cuanto en el certificado de nacimiento, como lugar de origen del hijo.
 
-Disposición transitoria
+Disposiciones Transitorias
 
-#### Artículo transitorio
+#### Artículo primero
 
 Esta ley entrará en vigencia el primer día del sexto mes siguiente al de su publicación en el Diario Oficial.
 
 Los reglamentos complementarios de la presente ley se dictarán dentro del mes siguiente a la entrada en vigencia de ella.".
+
+#### Artículo segundo
+
+El Ministerio de Salud deberá elaborar la normativa técnica a que hace referencia la letra b) del inciso segundo del artículo 5°, en un plazo de seis meses desde la publicación de la ley que lo establece.
 
 Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 

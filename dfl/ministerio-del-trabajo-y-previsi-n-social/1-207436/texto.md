@@ -918,9 +918,9 @@ DEL FERIADO ANUAL Y DE LOS PERMISOS
 
 #### Artículo 66
 
-En el caso de muerte de un hijo así como en el de muerte del cónyuge o conviviente civil, todo trabajador tendrá derecho a siete días corridos de permiso pagado, adicional al feriado anual, independientemente del tiempo de servicio.
+En caso de muerte de un hijo, todo trabajador tendrá derecho a diez días corridos de permiso pagado. En caso de la muerte del cónyuge o conviviente civil, todo trabajador tendrá derecho a un permiso similar, por siete días corridos. En ambos casos, este permiso será adicional al feriado anual, independientemente del tiempo de servicio.
 
-Igual permiso se aplicará por tres días hábiles en el caso de muerte de un hijo en período de gestación así como en el de muerte del padre o de la madre del trabajador.
+Igual permiso se aplicará, por siete días hábiles, en el caso de muerte de un hijo en período de gestación, y por tres días hábiles, en caso de la muerte del padre o de la madre del trabajador.
 
 Estos permisos deberán hacerse efectivos a partir del día del respectivo fallecimiento. No obstante, tratándose de una defunción fetal, el permiso se hará efectivo desde el momento de acreditarse la muerte, con el respectivo certificado de defunción fetal.
 
