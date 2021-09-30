@@ -26,13 +26,15 @@ Decreto:
 
 Dispóngase, a contar de las 00:00 horas del miércoles 18 de marzo de 2020, el cierre para el tránsito de personas, de todos los lugares habilitados para el tránsito de extranjeros hacia el territorio nacional.
 
-De manera excepcional, se permitirá el egreso de nacionales chilenos y extranjeros residentes de manera regular del territorio nacional, quienes deberán solicitar mediante un formulario a través de la plataforma Comisaría Virtual, autorización extraordinaria para el viaje de personas al exterior, por motivos urgentes y calificados, sin perjuicio de las medidas sanitarias dispuestas en el país de destino, en los siguientes casos:
+No obstante, se permitirá el egreso de nacionales chilenos y extranjeros residentes de manera regular en Chile que cuenten con esquema completo de vacunación y que cumplan con todos los requisitos señalados en la normativa sanitaria aplicable, a través de los aeropuertos Arturo Merino Benítez en la ciudad de Santiago, Diego de Aracena en la ciudad de Iquique o Andrés Sabella en la ciudad de Antofagasta.
+
+De manera excepcional, se permitirá el egreso de nacionales chilenos y extranjeros residentes de manera regular del territorio nacional que no cuenten con esquema completo de vacunación según lo dispuesto en el inciso precedente, y que soliciten mediante un formulario a través de la plataforma Comisaría Virtual, autorización extraordinaria para el viaje de personas al exterior, por motivos urgentes y calificados, sin perjuicio de las medidas sanitarias dispuestas en el país de destino, en los siguientes casos:
 
 a) por razones de carácter humanitario;
 
 b) por ser esencial para la salud del solicitante;
 
-c) para efectuar gestiones imprescindibles para la marcha adecuada del país, y
+c) para efectuar gestiones imprescindibles para la marcha adecuada del país; y,
 
 d) para o por residir en el exterior.
 
@@ -114,11 +116,23 @@ La medida dispuesta en el inciso primero, regirá por un plazo de 15 días desde
 
 > **Nota.** NOTA 36 El artículo primero del Decreto 139, Interior, publicado el 15.06.2021, modifica la presente norma en el sentido de extender hasta el 30 de junio de 2021, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
 
+> **Nota.** NOTA 37 El artículo primero del Decreto 152, Interior, publicado el 30.06.2021, modifica la presente norma en el sentido de extender hasta el 14 de julio de 2021, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
+
+> **Nota.** NOTA 38 El artículo único del Decreto 179, Interior, publicado el 14.07.2021, modifica la presente norma en el sentido de extender hasta el 25 de julio de 2021, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
+
+> **Nota.** NOTA 39 El artículo primero del Decreto 190, Interior, publicado el 24.07.2021, modifica la presente norma en el sentido de extender hasta el 31 de agosto de 2021, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
+
+> **Nota.** NOTA 40 El artículo primero del Decreto 221, Interior, publicado el 01.09.2021, modifica la presente norma en el sentido de extender hasta el 30 de septiembre de 2021, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
+
+> **Nota.** NOTA 41 El artículo primero del Decreto 245, Interior, publicado el 30.09.2021, modifica la presente norma en el sentido de extender hasta el 31 de octubre de 2021, la medida dispuesta en el inciso primero del artículo primero de la presente norma. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
+
 #### Artículo segundo
 
 La medida excepcional dispuesta en el inciso primero del artículo primero, no afectará a los nacionales chilenos, ni a los extranjeros residentes de manera regular en el territorio nacional, que ingresen al territorio nacional, quienes de conformidad con los protocolos e instrucciones de la autoridad, podrán ingresar al país sometiéndose a los procedimientos sanitarios pertinentes.
 
-De igual manera, no resultará afectada por este cierre temporal de entrada y salida:
+Se permitirá el ingreso de extranjeros no residentes en el país, que cuenten con esquema completo de vacunación y cumplan con todos los requisitos señalados en la normativa sanitaria vigente, a través de los aeropuertos Arturo Merino Benítez en la ciudad de Santiago, Diego de Aracena en la ciudad de Iquique o Andrés Sabella en la ciudad de Antofagasta.
+
+Con todo, no resultará afectada por este cierre temporal la entrada y salida de:
 
 a) la carga desde y hacia el territorio nacional;
 
