@@ -54,6 +54,8 @@ En los casos que la forma o dimensiones del terreno no permitan llevar a cabo pr
 
 2. Las fechas de selección de la postulación de este llamado será, desde el 15 de julio al 27 de octubre de 2021. Dentro de ese período, hasta el 20 de octubre Serviu se revisará los proyectos (definiendo cada Servicio la fecha máxima de ingreso de los expedientes); y posterior a eso se digitarán las postulaciones de los proyectos que fueron aprobados por Serviu.
 
+Para la Región de La Araucanía, será desde el 6 de septiembre al 19 de noviembre de 2021, y para la Región de Biobío, será desde el 30 de septiembre al 17 de diciembre de 2021, debiendo las regiones definir los procesos intermedios de Presentación, Revisión y Digitación de los Proyectos. Debiendo estas regiones informar a este Ministerio por oficio las fechas que definan dentro de este período.
+
 3. Autorízase la postulación de manera simultánea a los Títulos II y III, y a los incrementos por tipo de obra, accesibilidad y obras de regularización, indicados en la presente resolución, regulado por 115, el DS Nº 255 (V. y U.), de 2006 y sus modificaciones.
 
 4. En el presente llamado se autoriza la atención de departamentos que forman parte de una; copropiedad tipo A en altura. Estos últimos sólo podrán postular a obras del Título II, Mejoramiento de la Vivienda.
