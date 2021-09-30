@@ -50,7 +50,7 @@ En los procedimientos judiciales en trámite o que deban tramitarse ante los Juz
 
 #### Artículo 6
 
-Los términos probatorios que a la entrada en vigencia de esta ley hubiesen empezado a correr, o que se inicien durante la vigencia del estado de excepción constitucional de catástrofe, en todo procedimiento judicial en trámite ante los tribunales ordinarios, especiales y arbitrales del país, se suspenderán hasta el vencimiento de los diez días hábiles posteriores al cese del estado de excepción constitucional de catástrofe, por calamidad pública, declarado por decreto supremo N° 104, de 18 de marzo de 2020, del Ministerio del Interior y Seguridad Pública, y el tiempo en que este sea prorrogado, si es el caso.
+Derogado.
 
 #### Artículo 7
 
@@ -87,6 +87,22 @@ En los procedimientos contemplados en el Código Procesal Penal y en el Código 
 #### Artículo 10
 
 En los casos en que, conforme a las disposiciones de esta ley, un tribunal disponga proceder en forma remota, deberá tomar todas las medidas necesarias que aseguren las condiciones para el cumplimiento de las garantías judiciales del proceso, contempladas en la Constitución Política de la República y en los tratados internacionales ratificados por Chile y que se encuentren vigentes.".
+
+Disposiciones complementarias
+
+#### Artículo 11
+
+A excepción de los artículos 4 y 6, en cada una de las demás disposiciones de la presente ley en que se refiere a la vigencia del estado de excepción constitucional de catástrofe, por calamidad pública declarado por decreto supremo Nº 104, de 18 de marzo de 2020, del Ministerio del Interior y Seguridad Pública, y al tiempo en que éste sea prorrogado ha de entenderse que las respectivas reglas refieren al término que se extiende hasta el 30 de noviembre de 2021.
+
+Asimismo, la regla del inciso primero del artículo 7 ha de entenderse referida al término que se extiende hasta los diez días hábiles posteriores al 30 de noviembre de 2021.
+
+#### Artículo 12
+
+Los términos probatorios que durante la vigencia del artículo 6 se hubieren suspendido por disposición de dicha norma, se reanudarán, a petición de parte, desde la fecha en que se notifique la resolución que acoja la solicitud, extendiéndose por el tiempo que corresponda de conformidad a las reglas generales. El tribunal, atendido el número de testigos y el de los puntos de prueba, señalará una o más audiencias para el examen de los testigos.
+
+En aquellas contiendas civiles que, a consecuencia de haberse suspendido el respectivo término probatorio por disposición del artículo 6, hubieren estado paralizadas por seis meses o más sin que se dicte resolución alguna, no regirá lo dispuesto en el artículo 52 del Código de Procedimiento Civil. Lo anterior, sin perjuicio de las facultades de los tribunales de ordenar otras formas de notificación.
+
+Para efectos de lo dispuesto en los artículos 152 y 153 del Código de Procedimiento Civil, no se contabilizará el tiempo en que el juicio hubiere estado paralizado por disposición del artículo 6 o por cualquiera otra causal producto de la pandemia.
 
 Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 
