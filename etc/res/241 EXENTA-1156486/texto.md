@@ -34,7 +34,7 @@ b) El segundo proceso de selección comienza el 26 de abril y cierra el 15 de ju
 
 c) El tercer proceso de selección comienza el 01 de julio y cierra el 27 de agosto de 2021. Todos los proyectos podrán digitarse hasta el 30 de julio de 2021, pudiendo acreditarse el ahorro necesario hasta esa misma fecha. Una vez finalizada la digitación, Serviu revisará los proyectos.
 
-d) El cuarto proceso de selección comienza el 01 de agosto y cierra el 30 de septiembre de 2021. Todos los proyectos podrán digitarse hasta el 15 de septiembre de 2021, pudiendo acreditarse el ahorro necesario hasta misma esa fecha. Una vez finalizada la digitación, Serviu revisará los proyectos hasta el 30 de septiembre de 2021. De ser necesario, dicho plazo podrá ser extendido hasta el 15 de octubre de 2021.
+d) El cuarto proceso de selección comienza el 1 de agosto y cierra su postulación el 30 de septiembre de 2021. Todos los proyectos podrán digitarse hasta el 30 de septiembre de 2021, pudiendo acreditarse el ahorro necesario hasta el 29 de septiembre. Una vez finalizada la digitación, los PSAT podrán efectuar correcciones o actualizaciones a los datos de las familias, pero no podrán postular nuevas familias. Serviu revisará los proyectos hasta el último día hábil del mes de octubre. De ser necesario, dicho plazo podrá prorrogarse hasta en 2 semanas.
 
 3) La postulación será de carácter individual y el subsidio podrá ser aplicado en alguna de las siguientes modalidades:
 
@@ -186,7 +186,7 @@ El beneficiario podrá realizar un máximo de 4 compras de materiales de constru
 
 14.1) Visto bueno en el sistema informático del Minvu en un módulo especialmente habilitado para ello.
 
-14.2) Informe Técnico que deberá incorporar al final del proceso, un anexo firmado por la PSAT que certifique que los materiales adquiridos por el beneficiario fueron utilizados en la obra.
+14.2) Informe Técnico que deberá incorporar al final del proceso, un anexo firmado por la PSAT que certifique que los materiales adquiridos por el beneficiario fueron utilizados en la obra, si el proyecto no consideró servicios de construcción. Si el proyecto consideró servicio de construcción el PSAT, además debe certificar que los materiales fueron instalados correctamente en la obra.
 
 14.3) Si la familia contrató con el subsidio servicios de construcción, se deberá acreditar en el Informe Técnico a que se refiere el numeral anterior que fueron ejecutadas las obras de forma correcta, indicando además la familia su conformidad con el servicio prestado por el constructor o contratista que efectuó las obras.
 

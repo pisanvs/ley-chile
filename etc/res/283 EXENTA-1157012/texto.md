@@ -64,6 +64,8 @@ Resolución:
 
 Serviu informará a las EP la fecha en que solicitará el ingreso en formato digital del proyecto y la fecha del ingreso del documento con la firma del postulante. En dicho período Serviu definirá un plazo para la subsanación de observaciones.
 
+Sin perjuicio de lo anterior, las regiones de Antofagasta, Metropolitana, del Libertador General Bernardo O'Higgins, Maule, Ñuble, Biobío, La Araucanía, Los Ríos y de Aysén, podrán efectuar un tercer proceso de selección que iniciará el día 29 de septiembre y cerrará el día 22 de diciembre, debiendo cada región definir los procesos intermedios de Presentación, Revisión y digitación de los Proyectos. Las regiones deberán informar por oficio al Jefe de la División de Política Habitacional, si participarán en este proceso y las fechas que definan para la Presentación, Revisión y Digitación de los Proyectos.
+
 3) Los montos destinados a este llamado son los que se señalan en el siguiente cuadro:
 
 La línea de Acondicionamiento Térmico que se está realizando en la Región de Aysén, supone un estándar similar al de los Planes de Descontaminación Atmosférica.
@@ -185,8 +187,6 @@ c) Ventanas: Se dará prioridad al cambio de ventanas con vidrio monolítico a v
 7.9) Podrán postular a este llamado, en forma individual o colectiva, adultos mayores que estén hasta en el tramo del 90% de Clasificación Socioeconómica según el Registro Social de Hogares.
 
 7.10) Los adultos mayores podrán postular con viviendas calificadas como viviendas objeto del llamado, según los parámetros establecidos en el párrafo final de la letra a) y en las letras b) y c), del resuelvo 8.2.2).
-
-Para los proyectos que se presenten posterior a la primera selección se deberá considerar un estándar térmico superior según lo definido para su zona térmica en el anexo "Estándares de Eficiencia Energética para proyectos del Programa de Mejoramiento de Viviendas y Barrios, versión 2019", de la División Técnica de Estudio y Fomento Habitacional del Minvu, que se entiende formar parte integrante de la presente resolución.
 
 8) En caso de Proyectos de Habitabilidad del Título II, Mejoramiento de Vivienda, que tengan como fin cumplir con los requisitos indicados en el artículo 6° bis del DS N° 255 (V. y U.), de 2006, para el Acondicionamiento Térmico de la Vivienda de viviendas ubicadas en zonas con Planes de Descontaminación Atmosférica, se tendrán las siguientes consideraciones especiales:
 

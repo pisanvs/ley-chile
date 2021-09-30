@@ -114,7 +114,7 @@ La inscripción en el Conservador de Bienes Raíces de la prohibición de gravar
 
 12. Delégase en los Secretarios Regionales Ministeriales de Vivienda y Urbanismo la facultad de seleccionar mediante resolución, en el primer proceso de selección indicado en el resuelvo 6., en atención al financiamiento disponible y a los factores de selección señalados en el artículo 72, del DS Nº 27 (V. y U.), de 2016, a aquellos proyectos que postulen al presente llamado y resulten calificados por Serviu.
 
-La segunda y la última selección será nacional mediante resolución del Ministro de Vivienda y Urbanismo, en atención a los recursos disponibles, los que podrán redistribuirse y/o aumentarse por región, y a los factores de puntaje señalados en el artículo 72, del DS Nº 27 (V. y U.), de 2016, respecto de aquellos proyectos que postulen al presente llamado y resulten calificados por Serviu.
+Mediante resolución del Ministro de Vivienda y Urbanismo se realizará la segunda y la tercera selección de beneficiarios del presente llamado, salvo para las regiones de Valparaíso, Metropolitana, Biobío y La Araucanía, cuya tercera selección deberá realizarla el Secretario Regional Ministerial correspondiente, en atención a los recursos disponibles, los que podrán redistribuirse y/o aumentarse por región, y a los factores de puntaje señalados en el artículo 72, del DS N° 27 (V. y U.), de 2016.
 
 13. Para la tercera selección de este llamado se incorporan las categorías de proyectos de edificaciones comunitarias sustentables, espacios públicos y áreas verdes sustentables y Centro Comunitario de Respuesta a Emergencias, según se indica a continuación.
 

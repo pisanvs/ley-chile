@@ -40,11 +40,13 @@ Dentro de los proyectos de ampliación que postulen, se dará prioridad a los si
 
 Por resolución del Ministro de Vivienda y Urbanismo se podrán disminuir o aumentar los recursos del presente llamado, con cargo a los fondos asignados para el Programa de Protección del Patrimonio Familiar del año 2021.
 
-3. El proceso de selección del presente llamado se realizará con los proyectos que se encuentren Calificados antes del 26 de octubre de 2021.
+3. El proceso de selección del presente llamado para las regiones de Región de Arica y Parinacota, Antofagasta, Atacama, Coquimbo, Aysén del General Carlos Ibáñez del Campo y de Magallanes y la Antártica Chilena, se realizará con los proyectos que se encuentren Calificados antes del 26 de octubre de 2021. Sin embargo, para las regiones de Tarapacá, Valparaíso, Metropolitana, del Libertador General Bernardo O'Higgins, Maule, Ñuble, Biobío, Araucanía, Los Ríos y Los Lagos, la fecha final en que los proyectos deberán estar calificados será el día 22 de diciembre, debiendo cada región definir los procesos intermedios de Presentación, Revisión y Digitación de los Proyectos. Las regiones deberán informar por oficio las fechas intermedias que definan dentro de este período a este Ministerio.
 
 4. Los montos de subsidio para los proyectos de ampliación que postulen a este llamado, pero no sean de aquellos mencionados en el segundo párrafo del Resuelvo 1., serán los siguientes, dependiendo del tramo que corresponda a la comuna, según lo definido en el artículo 7° del DS Nº 255 (V. y U.), de 2006:
 
 Cualquiera sea el tipo de Proyectos de Ampliación, si la vivienda a intervenir se encuentra ubicada en una Zona con Planes de Descontaminación Atmosférica vigentes, los subsidios que se les asignen serán aumentados en 50 UF, para asumir las mayores exigencias del acondicionamiento higrotérmico de sus elementos. El estándar para estos proyectos será el exigido para vivienda nueva, según las condiciones de cada uno de Dichos Planes y el detalle del Anexo 1.
+
+Si la ampliación se ejecuta en un segundo piso el monto de subsidio podrá ser aumentado en hasta 40 UF.
 
 5. Caso de Adulto Mayor: Tratándose de Proyectos de Dormitorio del Título III, Ampliación de la Vivienda, que tengan como objetivo acoger a un Adulto Mayor o donde el Adulto Mayor acoja a un familiar para que lo cuide, los montos de subsidio y montos de Asistencia Técnica deben ser incrementados respecto de lo señalado en el artículo 6° del DS Nº 255 (V. y U.), de 2006, para financiar su mayor valor al contemplar la construcción de un dormitorio y un baño. Por consiguiente, los montos por comuna corresponderán al del tramo definido en el artículo 7º del DS Nº 255 (V. y U.), de 2006:
 
