@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 198, de fecha 26 de mayo de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Compañía de Petróleos de Chile Copec S.A., RUT 99.520.000-7, concesión marítima menor con vencimiento al 31 de diciembre del año 2025, sobre un sector de terreno de playa, playa, fondo de lago, porción de agua y uso de Mejoras Fiscales, en el lugar denominado Poza de Pucón, Lago Villarrica, comuna de Pucón, provincia de Cautín, Región de la Araucanía, con una superficie total de 100,01 m², la que fue tramitada con el SIABC Nº 30.247. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): Lat. 39º16'34,40" S - Long 71º58'52,58" W. El objeto consiste en amparar la instalación de un pontón destinado al bombeo de combustible, cámara para estanque y una cañería conductora de combustible. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Lago Villarrica. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Héctor Rojas Martín, Capitán de Corbeta LT, Capitán de Puerto Lago Villarrica.
