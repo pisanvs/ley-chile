@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 470, del 24 de diciembre de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Eliana Margarita González Guerrero, RUN 6.682.581-7, concesión marítima menor, con vencimiento el 31 de diciembre de 2024, sobre un sector de terreno de playa y uso de mejora fiscal, en el lugar denominado Caleta Chañaral de Aceituno, comuna de Freirina, Provincia de Huasco, Región de Atacama, con una superficie total de 896,371 m², la que fue tramitada con el SIABC N° 43.104. A modo referencial se señala(n) la(s) siguiente(s) Coordenada(s) geográfica(s):
+
+El objeto consiste en regularizar la ocupación de las instalaciones existentes como casa habitación permanente. Las obras consisten en una construcción de estructura soportante de madera, en regular estado de conservación y el plazo contemplado para su ejecución es de 1 año. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Huasco. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
