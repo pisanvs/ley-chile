@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº757, de 03 de septiembre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 359 y 361, para la obra: AMPLIACIÓN REPOSICIÓN RUTA V-85, SECTOR: HUITO - CALBUCO, que figuran a nombre de SOTO SOTO MARCOS AURELIO, roles de avalúo 561-2 y 561-1, Comuna de CALBUCO, REGIÓN DE LOS LAGOS, superficies 426 y 4.016 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, PATRICIA ANGELICA MORALES RIVERA y ANDRES ECHEVERRIA CAMPO, mediante informe de tasación de 15 de abril de 2019, fijó el monto de la indemnización provisional en la cantidad de $1.907.000, para el lote Nº359, y $14.665.000, para el lote Nº361. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
