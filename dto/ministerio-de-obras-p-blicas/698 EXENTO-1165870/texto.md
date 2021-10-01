@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 698, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 34-B, para la obra: MEJORAMIENTO CAMINO ITROPULLI-SAN PEDRO, RUTAS T-695 y T-699, que figura a nombre de SILVA AGUILA OSCAR FABIAN, rol de avalúo 555-354, Comuna de PAILLACO, REGION DE LOS RÍOS, superficie 41 m2. La Comisión de Peritos integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, YASCHALA MARIBEL YANEZ RIFFO y MARIA SOLEDAD NUÑEZ ARROYO, mediante informe de tasación de fecha 16 de mayo de 2016, fijó el monto de la indemnización provisional en la cantidad de $165.700.- para el lote Nº34-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
