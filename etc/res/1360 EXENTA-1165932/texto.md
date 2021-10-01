@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.360, 15 de septiembre de 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación de un inmueble ubicado en Arrau Méndez 656, Rol de Avalúo N° 1159-20, comuna de Concepción, de aparente dominio de Paredes Cancino María G., superficie afecta expropiación parcial de terreno es de 54,90 m2 (Lote 86) y expropiación total de edificaciones (a y b) de 51,75 m2, según Plano S8R 38131-1, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción" comuna de Concepción, Región del Biobío, conforme artículo 51 ley N° 16.391 y DL. N° 2.186. Comisión Peritos integrada por arquitecto Mario Martínez Ortiz, arquitecta Priscilla Encalada Rueda y constructor civil María Soledad Silva Hernández, según informe de fecha 15.03.2021, fijó monto provisional indemnización en $14.716.560 más una suma de $353.197, por concepto de reajuste del artículo 5° del DL 2186 de 1978, que dan la cifra de $15.069.757.
+
+Director Serviu, Región del Biobío.
