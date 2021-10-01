@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.416 del 22 de septiembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Variante Collin 38B, comuna de Chillán, Rol de Avalúo Nº 00508-00024, de aparente dominio de Orellana Bórquez Daniel Domingo. La parte afecta a expropiación parcial de terreno es de 74,25 m2(Lote 10) y total de edificación es de 135,81 m2, cuyos linderos particulares, enmarcados en el plano S16R-098, para el proyecto "Mejoramiento Avenida Diagonal comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por la Constructor Civil doña Roxana Cecilia Abarzúa Gajardo, Arquitecto doña Consuelo Loreto Zuloaga Sanhueza y por la Arquitecto doña Pamela Macguire Acevedo, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $91.963.371-
+
+Director Serviu Región de Ñuble.
