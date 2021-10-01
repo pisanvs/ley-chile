@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.359, 15 de septiembre de 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación de un inmueble ubicado en Collao 1023, Rol de Avalúo N° 318-21, comuna de Concepción, de aparente dominio de Calcagno Reeves Leonardo Anton, superficie afecta expropiación parcial de terreno es de 113,86 m2 (Lote 114) y expropiación total de edificación (a) de 45,94 m2, según Plano S8R 40161-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida PAR Vial Collao-General Novoa", comuna de Concepción, Región del Biobío, conforme artículo 51 ley N° 16.391 y DL. N° 2.186. Comisión Peritos integrada por arquitecto Rodrigo Escobar Fernández, arquitecta Marcela Melo Rodríguez y arquitecta Daniela Cortez Moraga, según informe de fecha 25.05.2021, fijó monto provisional indemnización en $42.574.795 más una suma de $681.197, por concepto de reajuste del artículo 5° del DL 2186 de 1978, que dan la cifra de $43.255.992.
+
+Director Serviu Región del Biobío.
