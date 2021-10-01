@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 798 de 3 de septiembre de 2021, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 190 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR B SUBSECTOR 5: VARIANTE RENAICO - HUEQUÉN, Región de la Araucanía, que figura a nombre de AGRÍCOLA VALLES DEL SUR SPA, rol de avalúo 1453-4 de la comuna de Angol, superficie 3.127 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 28 de 14 de enero de 2021, integrada por Sonia Catalina Gallegos Blanch, Felipe Antonio Suckel Figueroa y Valentina Andrea Chacaltana Sims, fijó con fecha 3 de marzo de 2021, el valor provisional de la indemnización en la cantidad de $32.071.302 para el lote N° 190. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.
+
+Fiscalía MOP.
