@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 603, de 16 de septiembre 2021, de Serviu Región del Maule, ordenó expropiación pardal, conforme artículo 51 Ley 16.391, de inmueble ubicado en Sta. Olga, St. 144, Santa Olga, Rol Avalúo Nº 617-21, comuna de Constitución, superficie 19,06 m2, deslindes según plano expropiaciones, propietario aparente Apolonio de la Cruz del Pino Daza. Comisión integrada por peritos Patricio Ulises Durán Marcos, Arquitecto; Rodrigo Antonio Silva Lazo, Constructor Civil y Pedro Pablo Cruz Weston, Arquitecto, según informe de fecha 21 diciembre de 2020, tasó lote en $571.800.-, se pagará de contado indemnización provisional debidamente reajustada conforme artículo 5 DL 2.186, siendo su valor la suma de $591.813.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
