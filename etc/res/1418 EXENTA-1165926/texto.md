@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.418 del 22 de septiembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Diagonal Las Termas 10 Variante Collin, comuna de Chillán, Rol de Avalúo Nº 00508-00018, de aparente dominio de Muñoz Parra José Gabriel. La parte afecta a expropiación total de terreno es de 154,55 m2(Lote 4) y total de edificación es de 309,10 m2, cuyos linderos particulares, enmarcados en el plano Sl6R-092, para el proyecto "Mejoramiento Avenida Diagonal comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por la Constructor Civil doña Roxana Cecilia Abarzúa Gajardo, Arquitecto doña Consuelo Loreto Zuloaga Sanhueza y por la Arquitecto doña Pamela Macguire Acevedo, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $212.272.874.-
+
+Director Serviu Región de Ñuble.
