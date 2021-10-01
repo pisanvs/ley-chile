@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.281, de 08 de septiembre 2021, Serviu Región del Biobío ordenó expropiación total de la edificación (a) del inmueble ubicado en Collao 1008, Rol de Avalúo Nº 307-4, comuna de Concepción, de aparente dominio de Ortiz Ormeño Eliana Mirian, en una superficie de 90,74 m2 de edificación, conforme al plano S8R-40.164-1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao/General Novoa, comuna de Concepción", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el arquitecto Rodrigo Escobar Fernández, por la arquitecto Marcela Melo Rodríguez y por la arquitecto Daniela Cortez Moraga, según informe de fecha 26 de julio 2021, fijó monto provisional indemnización, más reajuste del artículo 5º DL 2.186, es la suma de $22.354.675, pagadera de contado.-
+
+Director Serviu Región del Biobío.
