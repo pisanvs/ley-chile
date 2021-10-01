@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 250, de fecha 25 de junio de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Alex Javier Cortés Hecherdorsf, RUN N° 10.679.612-2, Primera Renovación de Concesión Marítima Menor, con uso de Mejora Fiscal, con vencimiento el 30 de junio de 2026, sobre un sector de Terreno de Playa en el lugar denominado Quebrada Ánimas Viejas -Portofino-, comuna de Chañaral, Provincia de Chañaral, Región de Atacama, con una superficie total de 616,81 m2, la que fue tramitada con el SIABC N° 46.838. A modo referencial se señalan las siguientes coordenadas geográficas: Vértice A: Lat. 26°30'53.74" S Long. 70°42'17.90" W y Vértice D: Lat. 26°30'54.46" S Long. 70°42'18.08" W. El objeto consiste en continuar amparando las construcciones existentes de cuatro casas para destinarlas a veraneo familiar. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Alejandro León Solari, Teniente 1° LT, Capitán de Puerto de Chañaral.
