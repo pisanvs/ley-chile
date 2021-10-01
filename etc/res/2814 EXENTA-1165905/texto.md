@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.814, de fecha 18 de agosto de 2021, se ordenó la expropiación total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 8212-25, correspondiente al inmueble ubicado en Flor de Quillén 01683, DP 11, Rol de Avalúo N° 8212-25, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Rosa Elvira Hernández Fuentealba; con una superficie aproximada de 42,95 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Regeneración del Conjunto Habitacional Marta Brunet del Sector Bajos de Mena, Comuna de Puente Alto". La Comisión de Peritos integrada por la señora Constanza González Vergara, Arquitecto; señor Eric Ehrenfeld Allera, Arquitecto, y señora Ingrid Osten Yáñez, Ingeniero Civil, mediante Informe de fecha 6 de noviembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $19.094.259, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
