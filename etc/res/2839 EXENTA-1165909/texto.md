@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.839, de fecha 19 de agosto de 2021, se ordenó la expropiación total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 8211-20, correspondiente al inmueble ubicado en Montaña Adentro 01674, DP 24, Rol de Avalúo N° 8211-20, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio María Cristina Calvo Cáceres; con una superficie aproximada de 43,19 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Regeneración del Conjunto Habitacional Marta Brunet del Sector Bajos de Mena, Comuna de Puente Alto". La Comisión de Peritos integrada por el señor Leonardo Bastías Tessada, constructor civil; señora Mónica Conejeros Rudloff, ingeniero agrónomo, y señora María Isabel Ríos Marcuello, arquitecto, mediante Informe de fecha 09 de noviembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $19.027.785, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
