@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 169, de fecha 11 de mayo de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Boris Hernán Petricic Zamorano, Rut N° 12.168.445-4, concesión marítima menor, con vencimiento el 31 de diciembre de 2025, sobre un sector de Terreno de Playa, en el lugar denominado Quebrada Ánimas Viejas, Portofino, comuna de Chañaral, Provincia de Chañaral, Región de Atacama, con una superficie total de 500 m2, la que fue tramitada con el SIABC N° 38377. A modo referencial se señalan las siguientes coordenadas geográficas: Vértice A: Lat. 26°31'06.49"S Long. 70°42'09.84"W y Vértice D: Lat. 26°31'06.75"S Long. 70°42'10.41"W. El objeto consiste en Amparar la instalación de un complejo turístico y arriendo de cabañas. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Alejandro León Solari, Teniente 1° LT, Capitán de Puerto de Chañaral.
