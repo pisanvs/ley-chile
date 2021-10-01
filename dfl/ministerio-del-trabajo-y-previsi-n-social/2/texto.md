@@ -114,6 +114,8 @@ o) Proponer a la consideración del Supremo Gobierno las reformas legales y regl
 
 p) En general realizar cualquier gestión o actividad tendiente a una mejor aplicación de las facultades que esta ley u otras le otorgan.
 
+El Director del Trabajo, en el ejercicio de las funciones establecidas en los literales b) y c) del inciso precedente, publicará en el sitio electrónico de la Dirección del Trabajo, en el mes de enero de cada año, un compendio de los dictámenes, ordinarios, circulares y órdenes del servicio emitidos durante el respectivo período, los cuales deberán ser ordenados por materia y precisar, a lo menos, el número y fecha del documento, como también un breve resumen de su contenido.
+
 2.) Del Subdirector
 
 #### Artículo 6°
