@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 677, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropió el lote de terreno N° 44-A, para la obra: MEJORAMIENTO RUTA T-60 S: CRUCE RUTA 206-TRES VENTANAS, que figura a nombre de MÉNDEZ ARRIAGADA RICARDO ESTEBAN, rol de avalúo 2426-66, comuna de VALDIVIA, REGIÓN DE LOS RÍOS, superficie 71 m2. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 30 de julio de 2020, fijó el monto de la indemnización provisional en la cantidad de $861.230 para el lote N° 44-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2186, de 1978.
+
+Fiscalía MOP.
