@@ -66,7 +66,7 @@ e) Que, el presente Llamado Regional será aplicado bajo la modalidad del Progra
 
 Resuelvo:
 
-1. Llámese por un plazo de 150 días corridos a contar de la fecha de publicación de la presente resolución en el Diario Oficial a postulación regional para el Llamado del Programa de Integración Social y Territorial regulado por el DS N° 19 (V. y U.), de 2016, y autorízase la aplicación en el terreno singularizado de propiedad de Serviu Región del Maule, para el Proyecto Estratégico de la Ciudad de Linares, que contempla un sistema constructivo en madera de alto estándar, para el primer Conjunto habitacional de mediana altura en esta materialidad en la Región del Maule. En dicho periodo Serviu Región del Maule procederá directamente a la recepción de los oferentes que estén interesados en ejecutar un proyecto que contempla un sistema constructivo en madera de alto estándar.
+1) Llámese, a contar de la fecha de publicación de la presente resolución en el Diario Oficial y hasta el día viernes 15 de octubre de 2021, hasta las 13:00 horas, para Postulación Regional al Llamado en Condiciones Especiales del Programa de Integración Social y Territorial regulado por el DS Nº 19 (V. y U.) de 2016, y autorízase la aplicación en el terreno singularizado de propiedad de Serviu Región del Maule, para el Proyecto Estratégico de la ciudad de Linares, que contempla un sistema constructivo en madera de alto estándar, para el primer conjunto habitacional de mediana altura en esta materialidad en la Región del Maule. En dicho período Serviu Región del Maule procederá directamente a la recepción de los oferentes que estén interesados en ejecutar un proyecto que contempla un sistema constructivo en madera de alto estándar.
 
 ### 2. Cupos regionales de subsidios:
 
@@ -86,11 +86,11 @@ La cantidad de cupos de subsidios que se dispongan para este llamado será acord
 
 3.6. Se privilegiará el uso de plantas simétricas por lo menos en un eje.
 
-3.7. Se privilegiará el uso de un núcleo rígido en hormigón armado para el uso de escaleras (considerando la seguridad contra siniestros).
+3.7. Se privilegiará el uso de un núcleo rígido en hormigón armado para el uso de escaleras (considerando la seguridad contra siniestros). Esta condición no será obligatoria ni considerará puntaje adicional.
 
 3.8. La madera utilizada deberá dar cumplimiento a las normas nacionales e internacionales, según sea el caso.
 
-3.9. Considerará puntaje adicional aquellas propuestas que comprometan y acrediten el abastecimiento de madera con participación de Pymes Forestales de la Región del Maule
+3.9. Considerará puntaje adicional aquellas propuestas que comprometan y acrediten el abastecimiento de madera con participación de Pymes Forestales de la Región del Maule. Para ello, se deberá acreditar la procedencia de la materia prima y la clasificación de la empresa vendedora según el Estatuto Pyme (Ley Nº 20.416), independiente que la compra de madera aserrada sea realizada directa o indirectamente a la Pyme regional y que la manufactura sea realizada por otra empresa.
 
 ### 4. Respecto a la Operación y Mantención:
 
@@ -98,7 +98,7 @@ La cantidad de cupos de subsidios que se dispongan para este llamado será acord
 
 4.2. El proyecto deberá incluir equipamiento básico de uso comercial o de servicios, según OGUC. Considerando que el proyecto debe acogerse a la Ley de Copropiedad y conforme a la tabla de factores y puntajes contenida en el Artículo 11° del DS N° 19 (V. y U.), de 2016, al menos uno de los locales destinados a uso comercial debe entregarse en dominio a la comunidad de copropietarios para su arriendo, como estrategia de disminución de gastos comunes.
 
-El local comercial será de superficie mínima 45 m2, de acceso directo a la via pública y el plazo máximo para la transferencia será de 12 meses a partir de la fecha de recepción de obras municipales.
+El local comercial será de superficie mínima 45 m2, de acceso directo a la via pública y el plazo máximo para la transferencia será de 12 meses a partir de la fecha de recepción de obras municipales. Este requerimiento no será aplicable a los locales de libre venta.
 
 4.3. Considerará puntaje adicional aquellas propuestas que comprometan y acrediten disponer de una oficina de atención postventa al interior del predio o a menos de 600 m del mismo, durante un periodo mínimo de 12 meses, desde la recepción de obras municipales.
 
@@ -314,7 +314,7 @@ a) Predominio de madera en los elementos resistentes mayor o igual a 70%, acredi
 
 b) Al menos un 20% de la superficie a revestir (interior y exterior) se compone de elementos de madera. En caso de elementos exteriores deberán situarse en lugares de fácil acceso para su mantención (primeros pisos, balcones u otro comprobable) y contar con protección por medio de acetilado, tratamiento equivalente o impregnante no formador de película, con filtros solares, algicidas y aditivos repelentes al agua. En caso de maderas no durables, deberá considerar además impregnado a presión y al vacío IPV (NCh 819).
 
-c) Al menos un 60% de la madera aserrada a utilizar para elementos resistentes deberá corresponder a materiales manufacturados por Pymes de la Región del Maule.
+c) Al menos un 60% de la madera aserrada a utilizar para elementos resistentes deberá corresponder a materiales producidos, aserrados o manufacturados por Pymes de la Región del Maule.
 
 Este porcentaje será establecido según la superficie de 1 cara cada elemento vertical y horizontal, por cada piso desde el nivel de terreno natural hasta la altura máxima de edificación obtenida (los vanos se considerarán llenos para simplificar el cálculo).
 
@@ -490,6 +490,10 @@ En caso de perseguir puntaje de la categoría "Certificación de Vivienda Susten
 
 9.9. Atributos del Conjunto Habitacional:
 
+9.10 Oferta por valor de suelo:
+
+Deberá presentar carta oferta por el valor a transferir del suelo, firmada por el representante legal de la ED, expresado en pesos chilenos, reajustable al valor de avalúo fiscal a la fecha en que se materialice la transferencia del inmueble, en caso que resulte inferior a este.
+
 - "Plan de Cohesión Comunitaria y Administración de la Copropiedad", en caso de perseguir puntaje de la variable "Cohesión Comunitaria y Administración de la Copropiedad"
 
 La entidad Desarrolladora podrá presentar antecedentes adicionales a los señalados y que considere necesarios para el mejor entendimiento del proyecto. Del mismo modo, el Serviu podrá solicitar antecedentes complementarios y excepcionales para el mismo propósito.
@@ -497,6 +501,8 @@ La entidad Desarrolladora podrá presentar antecedentes adicionales a los señal
 10. Revisión, Evaluación, Aprobación y Selección de los proyectos habitacionales:
 
 Se efectuará de acuerdo a lo señalado en los artículos 12° y 13° del DS N° 19. Todos los proyectos deberán cumplir con las condiciones, exigencias y requisitos, establecidos en el DS N° 19 y en esta resolución.
+
+Por cuanto no corresponderá al Serviu, ni al Revisor Independiente de Arquitectura, revisar el proyecto de estructura solicitado según el resuelvo 9.5, sin perjuicio de lo establecido en el inciso segundo del resuelvo 13.
 
 Por resolución del Seremi de Vivienda y Urbanismo de la Región del Maule, se podrá dejar sin efecto el presente llamado si los proyectos elegibles no son de entera satisfacción de la comisión evaluadora.
 
@@ -512,9 +518,9 @@ El Serviu dispondrá de un plazo de 10 días hábiles a partir de la fecha de su
 
 ### 13. Inicio de Obras:
 
-El Plazo máximo para iniciar obras no podrá exceder de 90 días corridos, contados desde la fecha de la resolución que aprueba el convenio suscrito entre el Serviu y la Entidad Desarrolladora. En todo caso, las obras no se entenderán iniciadas mientras no se cuente con el permiso de edificación del proyecto, entregado por la DOM, según inciso primero del Artículo 15° del DS N° 19 (V. y U.), de 2016.
+El Plazo para iniciar obras se determinará según el artículo 15º del DS Nº 19 (V. y U.), de 2016, y sus modificaciones.
 
-Deberá quedar consignado en el respectivo convenio suscrito con Serviu, que a partir de la firma del convenio y previo al inicio de obras, la Entidad Desarrolladora deberá presentar al Serviu el expediente definitivo del proyecto, considerando todas las especialidades. La Entidad Desarrolladora deberá argumentar o resolver recomendaciones, en el caso que estas sean emitidas por el Serviu.
+Deberá quedar consignado en el respectivo convenio suscrito con Serviu, que a partir de la firma del convenio y previo al inicio de obras, la Entidad Desarrolladora deberá presentar al Serviu el expediente definitivo del proyecto, considerando todas las especialidades. La Entidad Desarrolladora deberá argumentar o resolver recomendaciones, en el caso que estas sean emitidas por el Serviu. En esta instancia, si lo estima conveniente, el Serviu podrá emitir observaciones al proyecto de estructuras, entre otros, y solicitar antecedentes adicionales que permitan la correcta verificación de la normativa, tales como: Planos, Memoria de Cálculo, Informe Favorable del Revisor de Proyecto de Cálculo Estructural o el Modelo digital de Análisis y Diseño Estructural. Lo cual deberá quedar consignado en el respectivo convenio suscrito con Serviu.
 
 Sin perjuicio de lo dispuesto en el inciso final del artículo 15° del DS N°19, el Serviu deberá verificar el inicio de las obras, en un plazo máximo de 15 días corridos a contar de la fecha del inicio de obras informada por la entidad desarrolladora a Serviu Región del Maule.
 
