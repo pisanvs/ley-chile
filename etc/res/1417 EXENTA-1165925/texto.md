@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.417 del 22 de septiembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en V. Collín 50, comuna de Chillán, Rol de Avalúo Nº 00508-00026, de aparente dominio de Quiero Gutiérrez Mauricio Alejan. La parte afecta a expropiación parcial de terreno es de 255,0 m2 (Lote 14) y total de edificación es de 259,13 m2, cuyos linderos particulares, enmarcados en el plano S16R-101, para el proyecto "Mejoramiento Avenida Diagonal comuna de Chillán", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por la Constructor Civil doña Roxana Cecilia Abarzúa Gajardo, Arquitecto doña Consuelo Loreto Zuloaga Sanhueza y por la Arquitecto doña Pamela Macguire Acevedo, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $159.808.840.-
+
+Director Serviu Región de Ñuble.
