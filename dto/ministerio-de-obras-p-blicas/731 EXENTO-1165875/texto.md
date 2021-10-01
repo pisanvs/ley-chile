@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 731, de 03 de septiembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 345 y 345-A, para la obra: AMPLIACIÓN REPOSICIÓN RUTA V-85, SECTOR: HUITO - CALBUCO, que figuran a nombre de SOC SERV ACUÍCOLAS MINAR DEL SUR LT, roles de avalúo 562-1 y 562-2, comuna de CALBUCO, REGIÓN DE LOS LAGOS, superficies 2.980 y 5.000 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, PATRICIA ANGÉLICA MORALES RIVERA y ANDRÉS ECHEVERRÍA CAMPO, mediante informe de tasación de 16 de mayo de 2019, fijó el monto de la indemnización provisional en la cantidad de $20.420.920, para el lote N° 345 y $19.836.800, para el lote N° 345-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.
+
+Fiscalía MOP.
