@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 641, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s 2 y 3, para la obra: MEJORAMIENTO CAMINO ITROPULLI-SAN PEDRO, RUTAS T-695 y T-699, que figuran a nombre de VALENZUELA PAREDES HECTOR ADRIAN, rol de avalúo 555-316, Comuna de PAILLACO, REGION DE LOS RÍOS, superficie 81 y 49 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, YASCHALA MARIBEL YANEZ RIFFO y MARIA SOLEDAD NUÑEZ ARROYO, mediante informe de tasación de fecha 18 de marzo de 2015, fijó el monto de la indemnización provisional en la cantidad de $436.500.- para el lote N°2 y $346.800.- para el lote N°3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
