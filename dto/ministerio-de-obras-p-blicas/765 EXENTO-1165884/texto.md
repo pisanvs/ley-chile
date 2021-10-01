@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 765, de 03 de septiembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 4-J, 4-D1, 4-F1 y 4-H, para la obra: MEJORAMIENTO RUTA 7, SECTOR PUENTE CISNE - PICHICOLO, que figuran a nombre de COLI VILLEGAS MARIA ELOISA Y OTROS, roles de avalúo 2211-338, comuna de HUALAIHUE, REGIÓN DE LOS LAGOS, superficies 91, 60, 124 y 134 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRÉS ECHEVERRÍA CAMPO y YASCHALA MARIBEL YÁÑEZ RIFFO, mediante informe de tasación de 21 de septiembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $91.000, para el lote N° 4-J, $60.000, para el lote N° 4-D1, $124.000, para el lote N° 4-F1, y $134.000, para el lote N° 4-H. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.
+
+Fiscalía MOP.
