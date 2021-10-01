@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 729, de 03 de septiembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropió el lote de terreno N° 67, para la obra: MEJORAMIENTO RUTA F-190 S: VALLE ALEGRE-PUCHUNCAVI, que figura a nombre de VALENCIA ARANCIBIA AÍDA GEORGI, rol de avalúo 192-17, comuna de PUCHUNCAVI, REGIÓN DE VALPARAÍSO, superficie 19 m2. La Comisión de Peritos integrada por LUIS HUMBERTO TOLEDO FUENZALIDA, JOSÉ LUIS BARROS MONGE y PAZ ALEXANDRA HARBIN FERNÁNDEZ, mediante informe de tasación de 01 de marzo de 2017, fijó el monto de la indemnización provisional en la cantidad de $110.741, para el lote N° 67. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.
+
+Fiscalía MOP.
