@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 839 de 15 de septiembre de 2021, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno 2 y 3-A, Rol de avalúo 218-85, comuna de Quellón, superficies 1.281 y 150 m2., para la obra CONSERVACIÓN RED VIAL REGIÓN DE LOS LAGOS (2018 - 2020), PUENTE INCOPULLI N° 1, COMUNA DE QUELLÓN, PROVINCIA DE CHILOÉ, REGIÓN DE LOS LAGOS. Las comisiones de peritos, integradas por LEOPOLDO RAMÓN SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA y JUAN SAMUEL BARRIENTOS BAHAMONDE, fijó el valor de tasación con fecha 20 de noviembre de 2018 (lote 2) y por SONIA CATALINA GALLEGOS BLANCH, ANDRÉS ECHEVERRÍA CAMPO y YASCHALA MARIBEL YÁÑEZ RIFFO, fijó el valor de tasación con fecha 15 de abril de 2020 (lote 3-A), acordándose la indemnización con su propietario JOEL JEREMÍAS CÁRDENAS VELOSO, en la cantidad de $3.774.183.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.
+
+Fiscalía MOP.
