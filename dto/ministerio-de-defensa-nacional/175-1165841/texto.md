@@ -1,0 +1,7 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 175, de fecha 19 de mayo 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Marcia Ema Cortez González, RUT 7.661.956-5, primera renovación de concesión marítima menor, con vencimiento el 30 de junio 2026, sobre un sector de terreno de playa, en el lugar denominado Playa Blanca, comuna y Provincia de Iquique, Región de Tarapacá, con una superficie total de 2.710.39 m², la que fue tramitada con el SIABC Nº 37.668. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en seguir amparando una sede social (sala de capacitación), casa de cuidador (administrador) museo, bodega, estanque para la inducción de buceo y áreas verdes con el fin de entregar capacitación a la población para la preservación de la flora y fauna marina de la región. Asimismo, clases teóricas y prácticas para ecobuceo y fotografía marina. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Iquique. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Sebastián Gysling Muñoz, Teniente 1º LT, Capitán de Puerto de Iquique Subrogante.
