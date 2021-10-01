@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.415 del 22 de septiembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en V Collin 48 Wicker, comuna de Chillán, Rol de Avalúo Nº 00508-00025, de aparente dominio de Fuentes Zapata Juan Carlos. La parte afecta a expropiación parcial de terreno es de 265,53 m2(Lote 12) y total de edificación es de 351 m2, cuyos linderos particulares, enmarcados en el plano S16R-099, para el proyecto "Mejoramiento Avenida Diagonal comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por la Constructor Civil doña Roxana Cecilia Abarzúa Gajardo, Arquitecto doña Consuelo Loreto Zuloaga Sanhueza y por la Arquitecto doña Pamela Macguire Acevedo, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $180.751.177.-
+
+Director Serviu Región de Ñuble.
