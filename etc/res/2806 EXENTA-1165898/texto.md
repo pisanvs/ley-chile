@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.806, de fecha 18 de agosto de 2021, se ordenó la expropiación Total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N°8211-32, correspondiente al inmueble ubicado en Montaña Adentro 01682 DP 24, Rol de Avalúo N° 8211-32, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Copeva Ltda, con una superficie aproximada de 43,19 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Marta Brunet del sector Bajos de Mena"". La Comisión de Peritos integrada por los señores Jaime Jürgens Bittner, Ingeniero Civil; Paulina Jadue Zaror, Arquitecto y Sergio Órdenes Salinas, Ingeniero Civil, mediante Informe de fecha 05 de octubre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $19.897.373, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
