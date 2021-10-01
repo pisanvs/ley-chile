@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.222 del 2 de septiembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Patricio Lynch 1, comuna de Chillán, Rol de Avalúo Nº 00520-00054, de aparente dominio de Estrada Luis Guillermo. La superficie afecta a expropiación Total es de 94,55 m2 de terreno y 94,55 m2 de edificaciones cuyos linderos particulares están enmarcados en el plano S16R-146, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, el Arquitecto don Andrés Javier Tobar Beluzán, y por el Ingeniero Civil Industrial don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $55.653.454.-
+
+Director Serviu Región de Ñuble.
