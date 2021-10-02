@@ -912,6 +912,10 @@ c) Las solicitudes de inscripción para postular conforme al Programa de Pavimen
 
 d) La exención de aportes por la declaración de zona afectada por catástrofe, señalada en el inciso penúltimo del resuelvo 3º de la resolución exenta Nº 1.820 (V. y U.), de 2003, correspondiente a los especificados en las letras d) y e) del inciso primero del citado resuelvo 3º, es decir, a los aportes requeridos como mínimos reglamentados tanto respecto de los Comités de Pavimentación como de las Municipalidades, se considerará automáticamente aplicada a los proyectos que resulten definitivamente seleccionados una vez que la Secretaría Regional Ministerial de Vivienda y Urbanismo complete la tramitación de la respectiva resolución que lo sancione, si a la fecha de esta resolución se encuentra vigente la declaración de zona de catástrofe antes aludida. Posteriormente, esta exención de aportes deberá quedar consignada en el convenio que firmen el Servicio de Vivienda y Urbanización y la Municipalidad para la ejecución de las obras de pavimentación seleccionadas. No serán objeto de esta exención los financiamientos extras o complementarios municipales de las postulaciones, correspondientes a aportes mayores al mínimo reglamentario para obtener puntaje adicional por este concepto, o comprometidos por obras anexas, que sumadas a las de pavimentación superen el costo total límite o que pertenecen a obras adicionales.
 
+#### Artículo 24º
+
+Transitorio: Durante el año 2021 la recepción de postulaciones municipales en el Servicio de Vivienda y Urbanización de cada región, para participar en el 31º Proceso de Selección de Proyectos tendrá como fecha de cierre el día viernes 15 de octubre del presente año.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Héctor López Alvarado, Subsecretario de Vivienda y Urbanismo Subrogante.
