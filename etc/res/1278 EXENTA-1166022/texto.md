@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN EXENTA Nº 1.278 DE 2021
+
+Por resolución exenta Nº1.278, de 14 de septiembre de 2021, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, autorizó el funcionamiento del terminal no urbano para servicios de locomoción colectiva prestado mediante buses, ubicado en calle Eleuterio Ramírez N° 31 Sur - 41 Sur - 87 Sur, de la comuna de Purranque, Región de Los Lagos, de propiedad de la Sociedad Comercial Gustavo Escárate Penperfort y Compañía Limitada, nombre de fantasía Sociedad GEP Limitada. El propietario del terminal, deberá dar cumplimiento a lo establecido en la Ordenanza Municipal N° 5, de 29 de diciembre de 2021, de la I. Municipalidad de Purranque.-
+
+Nicolás Maximiliano Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región de Los Lagos.
