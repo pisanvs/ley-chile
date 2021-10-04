@@ -70,7 +70,7 @@ h) Resguardar la seguridad interna de los recintos donde funcionan el Ministerio
 
 i) Contratar, directamente, el planeamiento, estudio, proyección, construcción, ampliación, reparación y conservación de los inmuebles donde funcionen los establecimientos penitenciarios del país, cualquiera sea el monto que la ejecución de dichas obras importe, y
 
-j) Administrar el dispositivo de monitoreo telemático, de conformidad a lo dispuesto en la ley N° 18.216 y el reglamento respectivo.
+j) Administrar el dispositivo de monitoreo telemático, de conformidad a lo dispuesto en la ley Nº 18.216 y el reglamento respectivo, y en la ley que "Establece monitoreo telemático en las leyes Nº 20.066 y Nº 19.968" y su reglamento.
 
 El régimen penitenciario es incompatible con todo privilegio o discriminación arbitraria, y sólo considerará aquellas diferencias exigidas por políticas de segmentación encaminadas a la reinserción social y a salvaguardar la seguridad del imputado y condenado y de la sociedad.
 

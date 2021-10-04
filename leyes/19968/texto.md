@@ -1100,6 +1100,8 @@ Medidas cautelares en protección de la víctima. El juez de familia deberá dar
 
 1. Prohibir al ofensor acercarse a la víctima y prohibir o restringir la presencia de aquél en el hogar común y en el domicilio, lugar de estudios o de trabajo de ésta, así como en cualquier otro lugar en que la víctima permanezca, concurra o visite habitualmente. Si ambos trabajan o estudian en el mismo lugar, se oficiará al empleador o director del establecimiento para que adopte las medidas de resguardo necesarias.
 
+Cuando el tribunal decrete la medida cautelar de prohibición de acercamiento, ordenará su supervisión a Carabineros de Chile. La procedencia de la supervisión adicional de la medida cautelar de prohibición de acercamiento, por medio de monitoreo telemático, se sujetará a los términos dispuestos en el artículo 92 bis.
+
 2. Asegurar la entrega material de los efectos personales de la víctima que optare por no regresar al hogar común.
 
 3. Fijar alimentos provisorios.
@@ -1123,6 +1125,30 @@ Tratándose de adultos mayores en situación de abandono, el tribunal podrá dec
 Para estos efectos, se entenderá por situación de abandono el desamparo que afecte a un adulto mayor que requiera de cuidados.
 
 > **Nota.** El artículo 25 de la LEY 20066, publicada el 07.10.2005, dispone que las modificaciones que introduce a la presente norma, rigen a contar del 1º de octubre de 2005.
+
+#### Artículo 92 bis
+
+Supervisión por monitoreo telemático de la medida cautelar de prohibición de acercarse a la víctima, a su domicilio, lugar de trabajo o estudio. Cuando el juez con competencia en materias de familia imponga al ofensor la medida cautelar del numeral 1 del artículo 92, podrá decretar que dicha prohibición de acercarse a la víctima, a su domicilio, lugar de trabajo o estudio, sea supervisada por monitoreo telemático regulado en la ley que "Establece monitoreo telemático en las leyes Nº 20.066 y Nº 19.968" y su reglamento, siempre y cuando se cumplieren los siguientes requisitos, de los que deberá dejar constancia expresa en la resolución:
+
+a) Que existieren uno o más antecedentes que permitan presumir fundadamente que el denunciado ha cometido un hecho constitutivo de violencia intrafamiliar de conformidad al artículo 5° de la ley Nº 20.066.
+
+b) Que existan antecedentes suficientes que permitan al juez considerar que la supervisión mediante monitoreo telemático de la medida cautelar del numeral 1 del artículo 92, resulta necesaria para resguardar la seguridad de la víctima o de su familia.
+
+c) Que el informe de evaluación de riesgo emanado de las Policías o del Consejo Técnico del Tribunal, elaborado en base a la Pauta Unificada de Evaluación Inicial de Riesgo, indique un riesgo alto para la víctima.
+
+En el caso de demandas escritas, en el más breve plazo posible y por la vía más expedita, se citará a la víctima a la entrevista para la evaluación del riesgo que realizará el Consejo Técnico del Tribunal en base a la Pauta Unificada de Evaluación Inicial de Riesgo.
+
+Para estos efectos, tan pronto se recibiere la denuncia de un hecho con informe de evaluación de riesgo alto para la víctima, el tribunal de oficio, por medio de la correspondiente unidad de administración de causas, o de quien ejerza las funciones de ésta, ordenará a Gendarmería de Chile que emita un informe relativo a la factibilidad técnica de la supervisión por monitoreo telemático de la medida cautelar establecida en el numeral 1 del artículo 92, remitiéndole por la vía más expedita toda la información necesaria para el adecuado diligenciamiento del requerimiento. Con todo, en los casos en que ya constare un informe de factibilidad técnica con una antigüedad máxima de seis meses, el tribunal podrá tenerlo a la vista y prescindir de solicitar un nuevo informe, en tanto no hubieren cambiado las circunstancias existentes al tiempo de expedición de aquél.
+
+Gendarmería de Chile deberá remitir el informe de factibilidad técnica al tribunal en un plazo que en caso alguno podrá ser superior a cinco días hábiles contado desde la recepción del requerimiento.
+
+Recibido el informe al que se refiere el inciso segundo, el tribunal lo agregará de inmediato a la causa y, cuando se hubiere impuesto al ofensor la medida cautelar del numeral 1 del artículo 92, procederá a pronunciarse a la mayor brevedad posible acerca de la supervisión de dicha medida mediante monitoreo telemático, por medio de una resolución fundada, en la cual expresará de manera clara, lógica y completa, cada uno de los antecedentes calificados que justificaren la decisión, de conformidad con lo dispuesto en el inciso primero de este artículo.
+
+En los casos que el informe de Gendarmería de Chile determine que no existe factibilidad técnica, el tribunal dictará instrucciones específicas a Carabineros de Chile para asegurar la eficacia de la medida cautelar de prohibición de acercarse a la víctima, a su domicilio, lugar de trabajo o estudio.
+
+#### Artículo 92 ter
+
+Audiencia de seguimiento de la medida cautelar del numeral 1 del artículo 92, supervisada por monitoreo telemático. Dentro de los noventa días desde que se hubiere decretado la medida cautelar de prohibición de acercamiento a la víctima, a su domicilio, lugar de trabajo o estudio, supervisada por monitoreo telemático, el juez de familia citará de oficio a una audiencia, con el fin de considerar su cesación o prolongación, según si se mantuvieren los requisitos del artículo 92 bis.
 
 #### Artículo 93
 

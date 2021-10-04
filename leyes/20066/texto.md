@@ -162,6 +162,42 @@ Para el cumplimiento de lo dispuesto en el inciso anterior, el Servicio podrá c
 
 ### Párrafo 4° — . Otras disposiciones
 
+#### Artículo 20 bis
+
+Supervisión por monitoreo telemático. Cuando el juez imponga al ofensor la prohibición de acercarse a la víctima, a su domicilio, lugar de trabajo o estudio de conformidad a los artículos 15 o 17 de esta ley, podrá decretar que dicha prohibición sea supervisada por monitoreo telemático regulado en la ley que "Establece monitoreo telemático en las leyes Nº 20.066 y Nº 19.968" y su reglamento, cuando exista en la causa un informe de evaluación de riesgo alto para la víctima, emanado del Ministerio Público o de las Policías, elaborado en base a la Pauta Unificada de Evaluación Inicial de Riesgo, a menos que no resulte posible en conformidad al informe de factibilidad técnica de que tratan los artículos siguientes.
+
+#### Artículo 20 ter
+
+Tramitación de la solicitud de supervisión por monitoreo telemático. La solicitud de supervisión por monitoreo telemático deberá ser presentada en audiencia en conjunto con la medida cautelar o suspensión condicional, según corresponda, o en cualquier estado del procedimiento una vez que éstas hubieren sido decretadas. Con todo, será requisito de admisibilidad de la solicitud que la investigación hubiere sido formalizada.
+
+Recibida la solicitud, el juez de garantía, de oficio, inmediatamente y por la vía más expedita, deberá requerir a Gendarmería de Chile, un informe relativo a la factibilidad técnica de la supervisión por monitoreo telemático de la medida cautelar o suspensión condicional, remitiendo toda la información necesaria para el adecuado diligenciamiento del requerimiento. Recibido éste, Gendarmería de Chile elaborará el informe de factibilidad técnica, el cual deberá ser remitido al tribunal en un plazo que en caso alguno podrá ser superior a cinco días hábiles contado desde la recepción del requerimiento.
+
+En la misma resolución a que se refiere el inciso anterior, el tribunal encomendará el control de la medida cautelar o suspensión condicional a Carabineros de Chile en tanto el juez no se hubiere pronunciado sobre la solicitud en conformidad al inciso siguiente.
+
+Recibido el informe al que se refiere el inciso segundo, el tribunal lo agregará a la causa y citará a una audiencia a todos los intervinientes para la fecha más próxima. En dicha audiencia el tribunal dará lectura al informe y, previo debate, resolverá la solicitud.
+
+La resolución que rechace la solicitud de que trata este artículo será susceptible de recurso de apelación.
+
+Si la medida cautelar quedare sin efecto por cualquier motivo, se modificare la condición de la suspensión condicional del procedimiento o ésta se diere por cumplida, quedará asimismo y de pleno derecho revocada la supervisión de las mismas por monitoreo telemático.
+
+En caso de que se revocase la suspensión condicional del procedimiento en conformidad al artículo 239 del Código Procesal Penal, el Ministerio Público deberá siempre solicitar las medidas cautelares necesarias para proteger a la víctima.
+
+#### Artículo 20 quáter
+
+Medidas accesorias sujetas a supervisión por monitoreo telemático. Si el tribunal impone en la sentencia la prohibición de acercarse a la víctima, a su domicilio, lugar de trabajo o estudio, de conformidad al artículo 16 de esta ley, deberá, en la misma sentencia, decretar que dicha obligación sea supervisada a través del monitoreo telemático regulado en la ley que "Establece monitoreo telemático en las leyes Nº 20.066 y Nº 19.968" y su reglamento, cuando exista en la causa un informe de evaluación de riesgo alto para la víctima emanado del Ministerio Público o de las Policías, elaborado en base a la Pauta Unificada de Evaluación Inicial de Riesgo, a menos que no resulte posible en conformidad al informe de factibilidad técnica de que tratan los artículos siguientes.
+
+Para los efectos señalados en el inciso anterior, el tribunal deberá solicitar, de oficio y antes de dictar la sentencia definitiva, un informe de factibilidad técnica a Gendarmería de Chile en conformidad al artículo 20 ter de esta ley.
+
+En caso de no ser posible la supervisión de la medida accesoria por monitoreo telemático, el tribunal deberá establecer los mecanismos que estime necesarios para procurar el adecuado control de la misma.
+
+#### Artículo 20
+
+quinquies.- Uso del informe de factibilidad técnica previo. En los casos en que resulte aplicable la supervisión por monitoreo telemático y ya constare un informe de factibilidad técnica con una antigüedad máxima de seis meses, el tribunal podrá tenerlo a la vista y prescindir de solicitar un nuevo informe, en tanto no hubieren cambiado las circunstancias existentes al tiempo de expedición de aquél.
+
+#### Artículo 20
+
+sexies.- Efectos de la supervisión por monitoreo telemático. La supervisión por monitoreo telemático de las medidas accesorias a que hace referencia el artículo 20 quáter, se aplicará sin perjuicio de la supervisión por monitoreo telemático de las penas sustitutivas dispuestas en la ley Nº 18.216.
+
 #### Artículo 21
 
 Introdúcense las siguientes modificaciones en el Código Penal:
