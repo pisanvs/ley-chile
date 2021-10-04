@@ -20,7 +20,7 @@ Considerando:
 
 Resolución:
 
-1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado. En tal sentido, se efectuarán procesos de selección en cada cierre, con los proyectos calificados para dichos efectos hasta los días 31 de marzo, 29 de abril, 24 de junio, 31 de agosto, 4 de noviembre, 30 de noviembre y 28 de diciembre, todos de 2021, o hasta agotar la totalidad de los recursos dispuestos para cada región, provincia o comuna convocada, según corresponda.
+1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado. En tal sentido, se efectuarán procesos de selección en cada cierre, con los proyectos calificados para dichos efectos hasta los días 31 de marzo, 29 de abril, 24 de junio, 31 de agosto y 30 de noviembre, todos de 2021, o hasta agotar la totalidad de los recursos dispuestos para cada región, provincia o comuna convocada, según corresponda.
 
 2. Los recursos involucrados para la selección de postulantes por región, son los siguientes:
 
@@ -43,22 +43,6 @@ Con todo, para la obtención del Certificado de Calificación del proyecto, debe
 7. Establécese, para las regiones que a continuación se identifican, que el monto de subsidio base para los proyectos que participen del presente llamado, es el que se define a continuación, al que se le aplicará el factor multiplicador definido en la resolución exenta N° 1.874 (V. y U.), de 2015, según la comuna donde se ubique el proyecto:
 
 8. Establécese que el incremento de 40 Unidades de Fomento al que hace referencia el segundo inciso de la letra d) del artículo 35, del DS N° 49 (V. y U.), de 2011, referido al Subsidio de Densificación en Altura, se podrá aplicar en comunas de más de 30 mil habitantes, según los datos del último censo de población de que se disponga, o la actualización o proyección de población que publique el Instituto Nacional de Estadísticas para el año de ingreso del proyecto.
-
-En casos de edificios en altura que incorporen ascensores, el monto total al que se podrá acceder por concepto de este subsidio es de 400 Unidades de Fomento.
-
-Para acceder a ello, las viviendas deberán considerar una superficie mínima de 58 m² en terrenos de más de 1 Hectárea, además de considerar balcón de al menos 85 cm. de ancho libre. En tales casos, el subsidio complementario de habilitación, indicado en el siguiente resuelvo 9. podrá alcanzar hasta 280 Unidades de Fomento, en tanto que el monto de habilitación que se destina a la ejecución de obras especiales podrá alcanzar hasta 70 Unidades de Fomento.
-
-Para estas tipologías se deberá considerar el desarrollo de una superficie continua de locales comerciales y/o servicios de al menos 155 m² totales. La superficie mínima de cada recinto deberá ser de 25 m² y máximo de 65 m² útiles y serán distribuidos de manera equitativa en la solución arquitectónica o bien con un mínimo de 2 unidades de locales por block. Los locales comerciales deberán tener acceso directo al espacio público y contar con los artefactos y servicios de agua potable y alcantarillado, como mínimo (baño).
-
-Además, en tales casos, el Director del Serviu podrá determinar requisitos adicionales relacionados al estándar técnico de los proyectos y a los requisitos del equipo profesional a cargo del Plan de Acompañamiento Social, debiendo exigir el desarrollo de actividades adicionales en esta línea, que estén relacionadas con la habitabilidad, mantención y administración de un edificio en altura con ascensor. Con todo el Plan de Acompañamiento Social, en su etapa de "Conformación del nuevo barrio" deberá tener una duración de al menos 24 meses y deberá ser desarrollado por la Entidad Patrocinante. Esta etapa deberá cumplir con los siguientes objetivos:
-
-. Apoyar a la administración de las copropiedades que se conformen.
-
-. Asumir los gastos de certificación y mantención de los ascensores, de acuerdo a lo establecido en la norma NCH 440 partes 1 y 2, por un período de 12 meses, sin costo para las familias.
-
-. Gestionar el arriendo de todas las unidades de locales comerciales que se construyan.
-
-El desarrollo de estas tareas será requisito para el último pago de la Asistencia Técnica, y no involucra recursos adicionales.
 
 9. El monto base del subsidio complementario de habilitación, establecido en la letra h) del artículo 35, del DS Nº 49 (V. y U.), de 2011, podrá alcanzar hasta las 300 Unidades de Fomento, en tanto que el monto de habilitación que se destina para la ejecución de las obras especiales que en el citado artículo se especifica, podrá alcanzar hasta las 320 UF.
 
@@ -109,8 +93,6 @@ El complemento de los montos de subsidios por los aportes del Gobierno Regional 
 19. Los proyectos que se encuentren en el Banco de Postulaciones sin que hayan sido seleccionados total o parcialmente en llamados efectuados en años anteriores, podrán acogerse a las disposiciones del presente llamado. Si se encontraren calificados, deberán solicitarlo formalmente al Serviu, el que evaluará el requerimiento, realizando los ajustes que correspondan en el sistema.
 
 20. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de proyectos seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional, o en el sitio web del Minvu.
-
-> **Nota.** El numeral 1 de la Resolución 2003 Exenta, Vivienda, publicada el 22.12.2021, modifica la presente norma en el sentido de reemplazar en la tabla inserta en su resuelvo 7., en la última fila correspondiente a la Región de Magallanes y de la Antártica Chilena, el guarismo "458" por "514".
 
 Anótese, publíquese y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
