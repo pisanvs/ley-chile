@@ -1,0 +1,5 @@
+RESOLUCIÓN N° 16 EXENTA, DE FECHA 09.01.2020, QUE "DELEGA FACULTADES ASOCIADAS A LA LEY N° 20.832 EN EL FISCAL DE LA SUPERINTENDENCIA DE EDUCACIÓN"
+
+Con fecha 9 de enero de 2020, la Superintendencia de Educación dictó la resolución exenta N° 15, que "Delega facultades asociadas a la ley N° 20.832 en el Fiscal de la Superintendencia de Educación", la cual delega en el Fiscal las facultades de conocer y resolver los recursos de reclamación administrativa en los casos de sobreseimiento o sanciones a aplicar que correspondan a las dispuestas en los numerales 1) y 2) del artículo 14 de la ley 20.832. Dichas facultades incluyen las de suscribir, rectificar, modificar, complementar, invalidar, revocar y en general dictar todos los actos administrativos que se deriven y/o sean relativos al acto principal; siendo todo lo no delegado de competencia exclusiva del Jefe Superior de la Superintendencia. La resolución referida comenzará a regir desde su publicación en extracto en el Diario Oficial.-
+
+Francisco Trejo Ortega, Jefe Departamento Jurídico, Superintendencia de Educación.
