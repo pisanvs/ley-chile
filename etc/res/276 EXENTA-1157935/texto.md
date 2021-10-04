@@ -50,6 +50,12 @@ Resolución:
 
 La Seremi recepcionará los expedientes para el proceso de certificación, desde la fecha de la presente resolución hasta el día 4 de mayo de 2021. El proceso de subsanación de expedientes será entre los días 14 de mayo de 2021 al 26 de mayo de 2021.
 
+Segunda selección:
+
+Podrán participar en esta segunda selección las copropiedades que cuenten con una certificación vigente realizada en el marco del llamado regional de condominios de vivienda año 2021. De ser necesario, las certificaciones podrán ser modificadas hasta antes que finalice la digitación del proyecto.
+
+Los plazos indicados en el resuelvo Nº 1) de la Res. Ex. Nº 774 de fecha 26 de agosto de 2021, se mantienen para la primera selección de proyectos postulantes.
+
 3. La condición de condominio objeto de atención del programa, será acreditada por la Seremi Minvu correspondiente, en atención a los requisitos señalados en el artículo 89 del DS Nº 27, (V. y U.), de 2016.
 
 Para iniciar el proceso de postulación, las comunidades de copropietarios y residentes interesados en postular deberán presentar en la Secretaría Regional Ministerial de Vivienda y Urbanismo Región del Libertador General Bernardo O'Higgins, un expediente que contenga los antecedentes que permitan acreditar la condición de condominio objeto del llamado, el diagnóstico del déficit o deterioro físico y la consecuente priorización de obras a ser financiadas.
@@ -161,6 +167,10 @@ c. Proyectos de ampliación de viviendas en copropiedad:
 19. Déjese presente que de acuerdo a lo indicado en el resuelvo Nº 6 de la Res. Ex. Nº 353, de fecha 19 de marzo de 2021, individualizada en el visto Nº 11, recae en los Secretarios Regionales Ministeriales de Vivienda y Urbanismo la facultad de seleccionar, mediante resolución, en atención al financiamiento disponible y a los factores señalados en el artículo 94, del DS Nº 27 (V. y U.), de 2016, aquellos proyectos que postulen al presente llamado y resulten calificados por Serviu.
 
 20. Los recursos disponibles para efectuar la selección de proyectos serán los siguientes, los cuales fueron designados de acuerdo a lo indicado en el artículo 22 del DS Nº 27 (V. y U.), de 2016:
+
+Los cuales se dispondrán de la siguiente manera para las distintas postulaciones:
+
+Segunda Selección:
 
 Los cuales se dispondrán de la siguiente manera para las distintas postulaciones:
 
