@@ -34,6 +34,10 @@ En estos casos, dichos sistemas serán denominados Sistemas Constructivos No Tra
 
 9º Derógase la resolución Nº 88 (V. y U.) de 1979, que Reglamenta Aprobación de Sistemas Constructivos para los efectos de inscribir en el Registro Nacional de Contratistas del Ministerio de Vivienda y Urbanismo.
 
+#### Artículo Transitorio
+
+La vigencia de los certificados de aprobación de los sistemas constructivos no tradicionales, emitidos por la División Técnica de Estudio y Fomento Habitacional, señalados en el resuelvo 7°, de la presente resolución, que hubieren expirado o estuvieren por expirar el año 2021 o 2022, se extenderá hasta el 31 de diciembre de 2022, inclusive. Una vez transcurrido el plazo señalado, para la actualización de los certificados de los sistemas constructivos que no hayan sufrido modificaciones de la normativa asociada a su aprobación, a su proceso constructivo o cualquier otro aspecto que pudiese alterar su calidad y/o fabricación, se requerirá uno declaración jurada del representante legal del Sistema, dando cuenta de estos hechos; la cual deberá ser presentada ante la División Técnica de Estudio y Fomento Habitacional, quien procederá mediante oficio a extender su vigencia.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Jaime Romero Álvarez, Subsecretario de Vivienda y Urbanismo.
