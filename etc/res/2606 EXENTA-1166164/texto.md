@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 2.606, de fecha 6 de septiembre de 2021, de esta Secretaría Regional, se aprobaron los planes y programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores "Escuela de Conductores Lazo & Tenorio SpA", cuyo propietario es la sociedad del mismo nombre, que usa el nombre de fantasía "Escuela de Conductores Autofleming SpA", RUT Nº 77.111.609-4, cuyo representante legal y director es el señor Patricio Alberto Lazo Jeldres, RUT Nº 11.263.397-9, su sede estará ubicada Avenida Alejandro Fleming Nº 7665, Torre 3, local 6, comuna de Las Condes, Región Metropolitana de Santiago. Las horas pedagógicas autorizadas a la referida Escuela son ocho horas teóricas y doce horas prácticas, con un total de veinte horas pedagógicas.-
+
+Alfredo Andrés Quezada Martínez, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
