@@ -116,6 +116,12 @@ Del derecho a tener compañía y asistencia espiritual
 
 Toda persona tiene derecho a que los prestadores le faciliten la compañía de familiares y amigos cercanos durante su hospitalización y con ocasión de prestaciones ambulatorias, de acuerdo con la reglamentación interna de cada establecimiento, la que en ningún caso podrá restringir este derecho de la persona más allá de lo que requiera su beneficio clínico.
 
+Tratándose del acompañamiento de niños, niñas y adolescentes hospitalizados o sometidos a prestaciones ambulatorias, los reglamentos internos de los establecimientos permitirán en todo momento la compañía de su padre, madre, de quien lo tenga a su cuidado, o persona significativa, con la única excepción que de ello derive un peligro para el propio niño, niña o adolescente, u otros pacientes.
+
+Asimismo, tratándose del acompañamiento de mujeres en trabajo de parto, los establecimientos permitirán en todo momento la compañía de la persona que ella determine, con la única excepción de que se derive de ello un peligro para el niño o niña, o para la mujer.
+
+Las personas que brinden acompañamiento a los pacientes durante su hospitalización o con ocasión de prestaciones ambulatorias deberán recibir un trato digno y respetuoso en todo momento, entendiéndose por tal no sólo un buen trato verbal e información, sino también el otorgamiento de condiciones para que ese acompañamiento sea adecuado para velar por la integridad física y psíquica del niño, niña o adolescente, atendido el principio de interés superior del niño, niña y adolescente.
+
 Asimismo, toda persona que lo solicite tiene derecho a recibir, oportunamente y en conformidad a la ley, consejería y asistencia religiosa o espiritual.
 
 #### Artículo 7º
