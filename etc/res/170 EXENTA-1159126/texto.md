@@ -80,6 +80,8 @@ Se hace presente, que en los casos de que existiera afectación de suelo que aba
 
 3° Proceso de Selección
 
+4° Proceso de Selección (sólo proyectos que participaron en los anteriores procesos de selección y que no fueron calificados):
+
 4. El monto total de financiamiento para las obras de Mejoramiento de la Vivienda de este llamado será de 100.000 UF.
 
 El número de proyectos seleccionados en la Región de Tarapacá alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles, incluidos los servicios de asistencia técnica que correspondan.
@@ -91,6 +93,10 @@ Se podrá disminuir los recursos del presente llamado o aumentarlos con cargo a 
 5. Los montos máximos del subsidio a otorgar para el financiamiento de obras de Mejoramiento de la Vivienda, serán los descritos en la siguiente Tabla:
 
 Tabla 1
+
+En el evento que la intervención propuesta es una postulación simultánea y esta supere los montos establecidos en el presente resuelvo paro la tipología de proyecto denominada "Seguridad de la Vivienda", se podrá asignar un monto superior a las 100 UF, siempre que en su conjunto (Seguridad y Habitabilidad), no superen las 300 UF. Esta solicitud se debe encontrar plenamente justificada en el Diagnóstico Técnico Constructivo presentado por la PSAT, el cual debe contar con la aprobación de Serviu.
+
+Si la intervención propuesta es una postulación simultánea y esta supere los montos establecidos en el presente resuelvo para la tipología de proyecto denominada "Habitabilidad de la Vivienda", se podrá asignar un monto superior a las 200 UF, siempre que, en su conjunto (Seguridad y Habitabilidad), no superen las 300 UF. Esta solicitud se debe encontrar plenamente justificada en el Diagnóstico Técnico Constructivo presentado por la PSAT, el cual debe contar con la aprobación de Serviu.
 
 Regularización: Tratándose de viviendas que cuenten con construcciones existentes sin recepción definitiva y que sea necesario regularizar, con el objeto de abordar la emergencia por socavones, el subsidio se incrementará hasta en 30 UF, para la realización de obras tendientes a lograr el estándar normativo exigido por la OGUC respecto de lo construido y obtener la recepción definitiva de dicha ampliación.
 
@@ -106,7 +112,7 @@ Tabla 3
 
 a) De lo señalado en el artículo 4, permitiéndose en este llamado que las familias beneficiadas con un subsidio del Título II, puedan postular nuevamente a dicho Título siempre que se trate de proyectos cuyas obras difieran de las ya financiadas. Además, los beneficiarios de los subsidios de este llamado podrán postular en el futuro a otros proyectos de Mejoramiento de la Vivienda del Programa de Protección del Patrimonio Familiar o del instrumento que lo reemplace, siempre que la futura postulación se refiera a otras partidas a ejecutar.
 
-b) De lo señalado en el artículo 6, respecto de los montos máximos de subsidio; sin perjuicio de lo anterior, el monto del subsidio no podrá exceder de 100 UF, para proyectos de seguridad de la vivienda y de 200 UF para proyectos de habitabilidad de la vivienda.
+b) De lo señalado en el artículo 6, respecto de los montos máximos de subsidios; sin perjuicio de lo anterior, el monto de subsidio podrá exceder de 100 UF, para proyectos de seguridad de la vivienda y de 200 UF para proyectos de habitabilidad de la vivienda, siempre que, en su conjunto (seguridad de la vivienda + habitabilidad de la vivienda) no excedan el financiamiento máximo permitido de 300 UF, a partir del deterioro y daños definidos en el Diagnóstico Técnico Constructivo y su aprobación por parte del Serviu de la Región de Tarapacá.
 
 c) Autorizar proyectos en viviendas que, contando con recepción de obras, tengan ampliaciones sin recepción definitiva y que sea necesario regularizar, con el objetivo de abordar la emergencia por socavones.
 
