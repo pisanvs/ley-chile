@@ -874,15 +874,15 @@ Cumplidos los requisitos anteriores, podrán optar al título de oficial de la M
 
 #### Artículo 46º
 
-Quienes se encuentren en posesión de alguno de los títulos o matrículas, de oficiales o tripulantes de naves pesqueras, que seguidamente se indican, cuyo otorgamiento se haya realizado conforme a las disposiciones del decreto supremo Nº 680, de 1985, y decreto supremo Nº 153 de 1966, ambos del Ministerio de Defensa Nacional, Subsecretaría de Marina, podrán optar al otorgamiento de los títulos que para cada caso se señala, siempre que los interesados cumplan además los siguientes requisitos:
+Quienes se encuentren en posesión de alguno de los títulos o matrículas, de oficiales o tripulantes de naves pesqueras, que seguidamente se indican, cuyo otorgamiento se haya realizado conforme a las disposiciones del decreto supremo Nº 680, de 1985, y decreto supremo Nº 153, de 1966, ambos del Ministerio de Defensa Nacional, Subsecretaría de Marina, podrán optar al otorgamiento de los títulos que para cada caso se señala, siempre que los interesados cumplan además los siguientes requisitos:
 
-a) Acreditar veinticuatro meses de embarco efectivo en posesión del título o matrícula de pesca respectivo; y
+a) Acreditar veinticuatro meses de embarco efectivo en posesión del título o matrícula de pesca respectivo;
 
-b) Aprobar los cursos y evaluación de competencia exigidos por la Dirección General.
+b) Aprobar los cursos y evaluación de competencia exigidos por la Dirección General; y
+
+c) Para el caso de los Oficiales de máquinas, estar en posesión de un título de "Técnico de Nivel Medio" del área de máquinas, acorde con la función, otorgado por una institución reconocida por el Estado.
 
 Cumplidos los requisitos anteriores, podrán optar al título de oficial o tripulante de la Marina Mercante Nacional que corresponda, de acuerdo con la siguiente tabla:
-
-.
 
 #### Artículo 47º
 
