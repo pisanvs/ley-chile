@@ -184,6 +184,8 @@ Los Campeonatos Mundiales, tanto del deporte convencional como paralímpico, pod
 
 En caso de que el evento fundamental del o de la deportista no se realice, y deba evaluarse en un evento de nivel superior, podrá aplicarse el Sistema de Descartes definido en el siguiente artículo, para la evaluación correspondiente. Asimismo, podrán homologarse otros eventos de acuerdo con los parámetros que se indican en el artículo 20º de la presente resolución.
 
+Decretada una alerta sanitaria por la autoridad correspondiente, la Unidad podrá efectuar la evaluación de eventos fundamentales validados, considerando en dicha evaluación, todos los elementos excepcionales que afecten el rendimiento en tales eventos y que objetivamente justifiquen la flexibilización de las normas anteriormente señaladas, todo lo cual deberá ser consultado a la Asesoría Técnica del Alto Rendimiento y consignado en un informe técnico fundado de la Unidad.
+
 #### Artículo 17
 
 Del Sistema de Descartes.
@@ -192,7 +194,23 @@ La evaluación de cada logro deportivo considerará descartes de nivel panameric
 
 Para los efectos de la presente Resolución Complementaria, se entenderá por "Sistema de Descartes" aquel donde se considera el lugar obtenido por el deportista que se encuentra en el Sistema de Becas, en relación a los países de Sudamérica o de todo el Continente Americano que participan en una competencia fundamental de carácter Panamericano, Parapanamericano, Mundial, Olímpico o Paralímpico, según corresponda.
 
-Para la aplicación del Sistema de Descartes, se considerará el lugar obtenido por la persona becaria, dentro de aquellos participantes de los países de Sudamérica o de América. Para aplicar el descarte panamericano, deberán haber participado a lo menos 5 países de América en la prueba, y que dentro de los países participantes al menos dos hayan sido medallistas del mismo evento anterior. Asimismo, para aplicar el descarte suramericano, deberán haber participado a lo menos 3 países de Suramérica en la prueba, y que dentro de los países participantes al menos uno haya sido medallista del mismo evento anterior.
+Para la aplicación del Sistema de Descartes, se considerará el lugar obtenido por la persona becaria, dentro de aquellos participantes de los países de América o Suramérica.
+
+Para aplicar el descarte panamericano se requiere:
+
+1. En deporte convencional, que a lo menos cinco países de América hayan participado en la prueba y que dentro de esos cinco países participantes, al menos dos de ellos, hayan sido medallistas en la misma prueba del mismo evento en su versión inmediatamente anterior.
+
+2. En deporte paralímpico, que a lo menos tres países de América participen en la prueba.
+
+Para aplicar el descarte suramericano se requiere:
+
+1. En deporte convencional, que a lo menos tres países de Suramérica hayan participado en la prueba y que de entre ellos, al menos uno haya sido medallista en la misma prueba del mismo evento en su versión inmediatamente anterior.
+
+2. En deporte paralímpico, que a lo menos 2 países de Suramérica hayan participado en la prueba.
+
+En consideración de la jerarquía de la competición deportiva de los Juegos Olímpicos y Paralímpicos, y de Juegos Panamericanos y Parapanamericanos, la Unidad, de manera excepcional, podrá aplicar en estas competiciones, descartes de nivel panamericano y suramericano, exceptuando los requisitos de cantidad de países participantes señalados en el inciso anterior.
+
+Decretada una alerta sanitaria por la autoridad correspondiente, la Unidad de manera excepcional, podrá aplicar descartes tanto a nivel panamericano como sudamericano, sin requisitos de países participantes.
 
 #### Artículo 18
 
@@ -350,7 +368,15 @@ transitorio: La presente Resolución Complementaria comenzará a regir a contar 
 
 #### Artículo segundo
 
-transitorio: Aquellos y aquellas deportistas que fueron medallistas en los Juegos Panamericanos o Parapanamericanos en Lima el año 2019, y que sean becarios vigentes del Sistema, podrán mantener el incentivo económico correspondiente a su categoría hasta la celebración de los próximos Juegos Panamericanos o Parapanamericanos, sólo si consiguen anualmente a lo menos una medalla de nivel Panamericano en el Campeonato Panamericano o Parapanamericano Específico. Asimismo, en el caso de los y las deportistas que obtuvieron medalla de Oro en los Juegos Suramericanos de 2018, y que también sean becarios vigentes del Sistema, podrán mantener el incentivo económico correspondiente a su categoría hasta la celebración de los próximos Juegos Suramericanos, sólo si consiguen anualmente una medalla de Oro o Plata de nivel Suramericano en el Campeonato Suramericano Específico.
+transitorio: Aquellos y aquellas deportistas que fueron medallistas en los Juegos Panamericanos o Parapanamericanos en Lima el año 2019, y que sean becarios vigentes del Sistema, podrán mantener el incentivo económico correspondiente a su categoría hasta la celebración de los próximos Juegos Panamericanos o Parapanamericanos, sólo si consiguen anualmente a lo menos una medalla de nivel Panamericano en el Campeonato Panamericano o Parapanamericano Específico, o ubicarse dentro de los tres primeros lugares de América en Juegos Olímpicos o Paralímpicos. Asimismo, en el caso de los y las deportistas que obtuvieron medalla de Oro en los Juegos Suramericanos de 2018, y que también sean becarios vigentes del Sistema, podrán mantener el incentivo económico correspondiente a su categoría hasta la celebración de los próximos Juegos Suramericanos, sólo si consiguen anualmente una medalla de Oro o Plata de nivel Suramericano en el Campeonato Suramericano Específico.
+
+En el caso que durante un año no se realicen eventos de carácter panamericano que permitan aplicar esta norma, se podrá mantener en el Sistema de Becas si consigue la medalla de oro en el evento sudamericano o para suramericano específico, latinoamericano o iberoamericano según corresponda.
+
+#### Artículo tercero
+
+transitorio: En el caso de deportistas becarios que se encuentren categorizados actualmente por el decreto supremo Nº 4, de 2015, del Ministerio del Deporte, que sufrieran una patología médica que impida su evaluación en el evento fundamental validado, la Unidad deberá solicitar al Médico Contralor del Sistema, evaluar si es viable la participación del o de la deportista, en un nuevo evento fundamental validado de la temporada inmediatamente siguiente. En el caso de que él o la deportista, no pudiera participar en dicho nuevo evento fundamental validado, se deberá dar inicio al procedimiento de exclusión.
+
+Tratándose de aquellos deportistas que actualmente se encuentren percibiendo el incentivo económico de conformidad al decreto supremo Nº 4 de 2015 del Ministerio del Deporte, y que para su permanencia alguna vez se hubieran mantenido en la beca en virtud de lo dispuesto en el inciso primero del artículo 40º de dicho Reglamento, la Beca durará solo hasta el término de su vigencia, de acuerdo al logro por el cual se encuentra categorizado en el Programa de Becas para Deportistas de Alto Rendimiento, no pudiendo ser aplicable lo señalado en el inciso precedente.
 
 2) Apruébanse los Anexos I, II, III, IV, V y VI de la resolución complementaria del Sistema de Becas para Deportistas de Alto Rendimiento, cuyo texto es el siguiente:
 
@@ -391,6 +417,8 @@ ANEXO Nº V: LISTADO DE CATEGORÍAS TODO COMPETIDOR, TRANSITORIA, JUVENIL Y ANTE
 Se considerarán para el ingreso y permanencia en la beca exclusivamente aquellas categorías Todo Competidor, Transitoria y Juvenil denominadas de acuerdo al siguiente listado que se describe por modalidad deportiva. La categoría anterior a la Juvenil sólo se considera en aquellas modalidades que realizan un Campeonato Mundial oficial en dicha categoría.
 
 ANEXO VI: PONDERACIONES DE LOS CRITERIOS DE EVALUACIÓN DEL RENDIMIENTO DEPORTIVO POR MODALIDAD DEPORTIVA.
+
+> **Nota.** El literal i) del numeral 1) de la Resolución 624 Exenta, Deporte, publicada el 12.10.2021, modifica la información del Listado en las modalidades deportivas que indica del Anexo IV de la presente norma en el sentido que la citada norma dispone.
 
 3) Pónganse en conocimiento del Instituto Nacional de Deportes de Chile la resolución complementaria y sus anexos que se aprueban por el presente acto administrativo para que sean aplicados en la administración del Sistema de Becas para deportistas de alto rendimiento.
 
