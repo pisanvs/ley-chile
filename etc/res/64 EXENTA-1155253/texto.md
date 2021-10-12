@@ -36,7 +36,11 @@ Resolución:
 
 2° Selecciónese el proyecto habitacional de Integración Social y Territorial elegible denominado "Lote B", Código de Proyecto N°162224 presentado por la Entidad Desarrolladora "Inversiones Licancabur SpA, Ameris Capital S.A., Constructora DLP S.A.", a desarrollarse en el Lote B, por haber obtenido el puntaje ponderado más alto entre los dos proyectos elegibles, y por cumplir con todos los requisitos y las condiciones establecidos en la resolución exenta que llamó al Concurso.
 
+.
+
 3° Selecciónese el proyecto habitacional de Integración Social y Territorial elegible denominado "Lote C", Código de Proyecto N°162223 presentado por la Entidad Desarrolladora "Inversiones Licancabur SpA y Constructora Mena y Ovalle", a desarrollarse en el Lote C, por cumplir con todos los requisitos y las condiciones establecidas en la resolución exenta, que llamó a Concurso y que fue la única oferta presentada para el Lote C.
+
+.
 
 4° Dispóngase en lista de espera, el proyecto denominado "Villa Panamericana", Código de Proyecto N°162225, de la Entidad Desarrolladora "Inversiones Inmobiliaria SpA", a desarrollarse en el Lote B, por obtener el más bajo puntaje final ponderado y por cumplir con los requisitos obligatorios señalados en el llamado. La vigencia de dicha lista de espera será de 180 días a partir de la total tramitación de la presente resolución exenta. Posteriormente, el proyecto será eliminado del Concurso.
 
@@ -53,9 +57,5 @@ Para ello, la Entidad Desarrolladora deberá ingresar sus observaciones o reclam
 9° Déjase establecido, que no obstante lo dispuesto en el Resuelvo 14°, de la resolución exenta N°1.058, de fecha 25 de agosto de 2020, de esta Secretaría Ministerial, en el evento de acontecer una fuerza mayor o caso fortuito que afecte la ejecución de los trabajos o la recepción de las obras por parte de la Dirección de Obras Municipales, lo que deberá ser verificado por el Serviu, el plazo para la recepción municipal podrá ser prorrogado conforme a lo dispuesto en el artículo 15 del DS N°19 (V. y U.), de 2016.
 
 10° los recursos, correspondientes a las 1.346 unidades de viviendas consideradas en los proyectos "Lote B" y "Lote C", asignados mediante la presente resolución exenta, que ascienden a 667.038.- Unidades de Fomento, se imputarán a los recursos dispuestos para el año 2020 del "Programa de Integración Social y Territorial" de la Región Metropolitana.
-
-> **Nota.** El N° 1 de la Resolución 246 Exenta, Vivienda, publicada el 08.03.2021, modifica los resuelvos Nº 1, Nº 2 y Nº 3 de la presente norma en el sentido de reemplazar el nombre de la Entidad Desarrolladora "Inversiones Licancabur SpA" por "Inversiones Licancabur SpA, Ameris Capital S.A., Constructora DLP S.A." cuando se haga referencia al "Lote B" y por "Inversiones Licancabur SpA y Constructora Mena y Ovalle", cuando se haga referencia al "Lote C".
-
-> **Nota.** NOTA 1 El N° 2 de la Resolución 246 Exenta, Vivienda, publicada el 08.03.2021, modifica los resuelvos Nº 1, Nº 2 y Nº 3 de la presente norma en el sentido de reemplazar el RUT de la entidad desarrolladora "76.388626-3", por los RUT: "76.388.626-3, 76.028.139-5 y 87.717.500-K", cuando se haga referencia al "Lote B" y el RUT de la entidad desarrolladora "76.388.626-3" por los RUT: "76.388.626-3 y 96.691.680-K", cuando se haga referencia al "Lote C".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Fabián Küskinen Sanhueza, Secretario Ministerial Metropolitano de Vivienda y Urbanismo Subrogante.
