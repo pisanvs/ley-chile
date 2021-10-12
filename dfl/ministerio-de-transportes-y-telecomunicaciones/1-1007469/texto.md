@@ -2326,6 +2326,8 @@ conductor, sin perjuicio de lo dispuesto en el artículo 194.
 
 4.- Acceder a los servicios de transporte público remunerado de pasajeros utilizando un pase escolar, pase de educación superior o cualquier instrumento o mecanismo que permita el uso del transporte público remunerado de pasajeros con beneficios, sin ser su titular, o alterándolo con el fin de aparentar la titularidad sobre éstos, para el exclusivo uso de quien efectúe tal alteración.
 
+5.- Conducir un vehículo manipulando un dispositivo de telefonía móvil o cualquier otro artefacto electrónico o digital, que no venga incorporado de fábrica en él, excepto si la acción se realiza a través de un sistema de manos libres, conforme a las especificaciones que determine el reglamento.
+
 > **Nota.** De conformidad con el Art. transitorio de la ley 20904, publicada el 16 de marzo de 2016, las obligaciones que la citada ley introduce en el inciso 4° del artículo 75 serán exigibles transcurridos 12 meses desde su publicación.
 
 #### Artículo 200
@@ -2396,7 +2398,7 @@ n o de frenos en condiciones deficientes;
 
 31.- Conducir un vehículo infringiendo lo dispuesto en el número 10 y en el inciso segundo del artículo 75;
 
-32. Conducir haciendo uso de un teléfono celular u otro aparato de telecomunicaciones, salvo que tal uso se efectúe por medio de un sistema de "manos libres", cuyas características serán determinadas por reglamento;
+32. Suprimido;
 
 33. Mantener abiertas las puertas de un vehículo de locomoción colectiva mientras se encuentra en movimiento; llevar pasajeros en las pisaderas o no detenerse junto a la acera al tomar o dejar pasajeros;
 
