@@ -622,6 +622,10 @@ El numeral 12, letra D. de la resolución que Fija Procedimiento para Aplicació
 
 Derógase la resolución exenta Nº 285 (V. y U.), de 2010.
 
+#### Artículo transitorio
+
+Por efectos de la contingencia sanitaria que ha generado un alza de los valores de materiales de construcción, podrán excepcionalmente, los proyectos en obras correspondientes a programas de inversión años 2021 al 2023, exceder en un 20% el costo máximo de UF 30.000, al momento de adjudicar la construcción de las obras.
+
 Anótese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Francisco Javier Irarrázaval Mena, Subsecretario de Vivienda y Urbanismo.
