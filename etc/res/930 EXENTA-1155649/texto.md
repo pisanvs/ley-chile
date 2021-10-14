@@ -34,6 +34,8 @@ Fíjase para el año 2021 el calendario nacional de examinación para las person
 
 ### IV. PROGRAMAS DE ALFABETIZACIÓN
 
+.
+
 Podrán eximirse de las fechas o periodos establecidos en este calendario, la(s) región(es) cuya condición o situación particular y/o contexto ameriten su aplicación en otras fechas, lo que deberá ser informado oportunamente a la Coordinación Nacional de Educación de Personas Jóvenes y Adultas de la División de Educación General, para su análisis y revisión de los procesos internos en cuanto a su factibilidad, emitiendo un oficio firmado por el Jefe de la División de Educación General que lo formalice.
 
 Anótese y publíquese.- Por orden del Ministro de Educación, León Paul Castro, Subsecretario de Educación (S).
