@@ -76,7 +76,7 @@ El Consejo de Auditoría Interna General de Gobierno estará integrado por los s
 
 3) El (La) Director(a) de Presupuestos o quien lo reemplace.
 
-4) Jorge Vio Niemeyer.
+4) José Ignacio Llodrá Vial.
 
 5) José Monsalve Assef.
 
