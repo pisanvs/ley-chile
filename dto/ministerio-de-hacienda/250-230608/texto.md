@@ -1648,6 +1648,14 @@ Vigencia del presente Reglamento:
 
 El presente Reglamento comenzará a regir 30 días contados desde la fecha de su publicación en el Diario Oficial.
 
+#### Artículo 2
+
+Sin perjuicio de lo dispuesto en el artículo 31 de este Reglamento, excepcionalmente, en los procedimientos de contratación cuyas Bases sean publicadas entre el 1 de julio de 2021 y el 31 de diciembre de 2021, ambas fechas inclusive, las entidades licitantes no requerirán a los oferentes de la presentación de garantías de seriedad de la oferta, cuando se trate de contrataciones iguales o inferiores a las 5.000 UTM.
+
+#### Artículo 3
+
+Sin perjuicio de lo dispuesto en los artículos 68 y 69 de este Reglamento, excepcionalmente, en los procedimientos de contratación cuyas Bases sean publicadas entre el 1 de julio de 2021 y el 31 de diciembre de 2021, ambas fechas inclusive, en los casos en que la respectiva entidad licitante requiera la constitución de una garantía para asegurar el fiel y oportuno cumplimiento del contrato definitivo, las Bases deberán establecer que dicha garantía no podrá exceder del 5% del valor total del contrato cuando el proveedor adjudicado sea una empresa de menor tamaño, en conformidad a la clasificación contenida en el artículo segundo de la Ley Nº 20.416.
+
 Anótese, tómese razón, publíquese e insértese en la recopilación oficial de la Contraloría General de la República.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., María Eugenia Wagner Brizzi, Subsecretaria de Hacienda.
