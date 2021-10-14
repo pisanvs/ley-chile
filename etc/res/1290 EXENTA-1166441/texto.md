@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 1.290, de fecha 21 de septiembre 2021, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, se aprobó los planes y programas de enseñanza y se autorizó a impartir el curso conducente a obtención de Licencia de Conductor Clase B, en modalidad e-learning, para la comuna de Puerto Montt a la Escuela de Conductores No Profesionales o Clase B denominada "Formación Integral y Capacitación IPV Purranque SpA", RUT Nº 76.610.344-8, cuyo representante legal es don Marcelo Alexander Stuardo Zapata, cédula de identidad Nº 15.222.888-0. Las horas pedagógicas autorizadas a la referida Escuela son de 12 teóricas, 14 prácticas, con un total de 26 horas pedagógicas. La correcta funcionalidad de plataforma tecnológica computacional LMS, estará siempre sujeta a auditorías, controles y fiscalizaciones que sean procedentes. La misma autorización, en copia fidedigna, deberá estar a disposición de los postulantes y alumnos del establecimiento.-
+
+Nicolás Maximiliano Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
