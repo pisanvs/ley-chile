@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 309, de fecha 5 de mayo de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de la Araucanía, se autoriza a la Escuela de Conductores No Profesionales o Clase B denominada "Escuela de Conductores Automóvil Club de Chile", domiciliada en callejón Massmann Nº 499, esquina Av. Alemania, comuna de Temuco, cuyo propietario es el Automóvil Club de Chile Limitada, Rut 77.323.230-K, y cuyo Programa de Enseñanza fue aprobado mediante resolución exenta Nº 304, de 18 de noviembre de 2002, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, a impartir curso conducente a obtención de Licencia de Conductor Clase B, en modalidad e-learning. La correcta funcionalidad de la plataforma tecnológica computacional LMS, estará siempre sujeta a las auditorías, controles y fiscalizaciones que sean procedentes. La misma autorización, en copia fidedigna, deberá estar a disposición de los postulantes y alumnos del establecimiento.-
+
+Claudina Teresa Uribe Bórquez, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de la Araucanía.
