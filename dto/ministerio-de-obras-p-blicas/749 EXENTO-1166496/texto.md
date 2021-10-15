@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°749, de 03 de septiembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.334, 336 y 337, para la obra: REPOSICION RUTA N-59-Q, SECTOR: CHILLAN - YUNGAY (TRAMO 1), que figuran a nombre de VINUELA SUAREZ JOSE LUIS, rol de avalúo 597-89, Comuna de SAN IGNACIO, REGION DE ÑUBLE, superficies 635, 64 y 6.406 m2 respectivamente. La Comisión de Peritos integrada por VALERIA MARDONEZ LEMA, HANDY GHISLAINE CAMPOS SEPULVEDA y MARIA PAMELA MAC-GUIRE ACEVEDO, mediante informe de tasación de 08 de marzo de 2021, fijó el monto de la indemnización provisional en la cantidad de $8.973.814 para el lote N°334, $1.793.984 para el lote N°336, y $100.933.996 para el lote N°337. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
