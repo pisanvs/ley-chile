@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.545, 6 de octubre de 2021, Serviu Región del Biobío ordenó expropiación total de terreno y total de edificación de un inmueble ubicado en Errazuriz 147, Rol de Avalúo N° 56-7, comuna de Concepción, de aparente dominio de Ambiad Quintana Sótero Suc., superficie afecta expropiación total de terreno es de 841 m2 y expropiación total de edificaciones (a) de 191 m2, (b) de 71,94 m2, (c) de 27,98 m2 y (d) de 29,85 m2 = 320,77 m2, según Plano S8R 39079-2, para la ejecución de las obras del Proyecto "CNT Aurora de Chile etapa 2A" en la comuna de Concepción, Región del Biobío, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Juan Felipe King Domínguez, arquitecto Rodrigo Escobar Fernández y arquitecta Patricia Palacios González, según informe de fecha 19.08.2021, fijó monto provisional indemnización en $298.239.186.- más una suma de $1.192.957.-, por concepto de reajuste del artículo 5° del DL 2.186 de 1978, que dan la cifra de $299.432.143.-
+
+Director Serviu Región del Biobío.
