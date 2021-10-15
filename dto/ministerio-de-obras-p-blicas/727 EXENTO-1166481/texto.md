@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°727, de 03 de septiembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.114-A y 114-B, para la obra: "MEJORAMIENTO RUTAS S-464 Y S-488: ALMAGRO-BARROS ARANA", COMUNA DE TEODORO SCHMIDT, REGION DE LA ARAUCANIA, que figura a nombre de LLANCAQUEO NANCUQUEO FRANCISCO y QUINTREQUEO NANCO LUIS BERNARD, roles de avalúo 622-205 y 622-207, Comuna de TEODORO SCHMIDT, REGION DE LA ARAUCANÍA, superficies 375 y 141 m2 respectivamente. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, CLAUDIO HERNÁN ANGULO SOTOMAYOR y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 10 de agosto de 2020, fijó el monto de la indemnización provisional en la cantidad de $407.500 para el lote N°114-A, y $716.900 para el lote N°114-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
