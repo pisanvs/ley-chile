@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.546, de 6 de octubre 2021, Serviu Región del Biobío ordenó expropiación total de un inmueble ubicado en calle Errázuriz Norte 145, Rol de Avalúo N° 56-34, comuna de Concepción, de aparente dominio de Inversiones Fabjanovic Ltda., en una superficie de 1.115,40 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-39.076-2, para la ejecución de las obras del proyecto "CNT Aurora de Chile Etapa 2A", de la comuna de Concepción, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Juan Felipe King Domínguez, arquitecto Rodrigo Escobar Fernández y arquitecto Patricia Palacios González, según informe de fecha 19.08.2021, fijó monto provisional indemnización, más reajuste artículo 5° DL 2.186, en la suma de $288.426.816.-, pagadera de contado.
+
+Director Serviu Región del Biobío.
