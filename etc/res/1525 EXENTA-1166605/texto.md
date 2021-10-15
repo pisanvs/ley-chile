@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.525, 1 de octubre 2021, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Arrau Méndez 626, Rol de Avalúo N° 1159-15, comuna de Concepción, de aparente dominio de López Garcés Ricardo Antonio y otros, superficie de 59,66 m2 de terreno y 19,44 m2 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-38126-1, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción" comuna de Concepción, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Mario Alexis Martínez Ortiz, arquitecta Priscilla Andrea Encalada Rueda y Constructora Civil María Soledad Silva Hernández, según informe de fecha 15.03.2021, fijó monto provisional indemnización más reajuste art. 5° del DL N° 2.186 de 1978, en $11.176.147.-
+
+Director Serviu Región del Biobío.
