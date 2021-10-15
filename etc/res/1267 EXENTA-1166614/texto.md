@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 1.267, de 06/10/2021, conforme al artículo 51 ley 16.391, DL 2.186 de 1978 y DL 1.305 de 1976, de Vivienda y Urbanismo, el Serviu Región de Los Ríos expropió el Lote 2, ubicado en Avenida Ecuador N° 3077, comuna de Valdivia, de 112,0 m2 de superficie de terreno, Rol de Avalúo N° 29-28, de la comuna de Valdivia, que forma parte de un terreno de mayor extensión, de aparente dominio de Jorge Andrés Villar Muñoz y otros, para destinarlo al proyecto denominado "Mejoramiento calle Las Zinnias - Valdivia". La Comisión de Peritos Tasadores nombrada por resolución exenta N° 1.161, de 24/11/2020, del Serviu Región de Los Ríos, integrada por Isabel Margarita del Carmen Olivares Rosales, María Soledad Núñez Arroyo y Yaschala Maribel Yáñez Riffo, fijó el monto de indemnización provisional, según informe de fecha 30/06/2021, esta última que reajustada de acuerdo al IPC corresponde a $17.384.796 conforme a lo dispuesto en el artículo 5° del DL 2.186. La publicación se efectúa en cumplimiento de lo preceptuado en el artículo 7° del DL 2.186 de 1978.
+
+.
