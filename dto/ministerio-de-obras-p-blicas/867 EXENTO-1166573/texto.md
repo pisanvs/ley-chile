@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 867 de 23 de septiembre de 2021, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno 2 y 4, Rol de avalúo 2254-65, comuna de Puyehue, superficies 34 y 391 m2. respectivamente, para la obra CONSERVACIÓN RED VIAL REGIÓN DE LOS LAGOS (2018 - 2020), PUENTE SANTA ELVIRA, COMUNA DE PUYEHUE, PROVINCIA DE OSORNO, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por ANDRÉS ECHEVERRÍA CAMPO, HANDY GHISLAINE CAMPOS SEPÚLVEDA y VALENTINA ANDREA CHACALTANA SIMS, fijó el valor de tasación con fecha 10 de febrero de 2020, acordándose la indemnización con su propietaria ELENA GONZÁLEZ YEFI, en la cantidad de $1.932.841.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
