@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°816, de 10 de septiembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.34-A, 35-A y 36-A, para la obra: MEJORAMIENTO CAMINO BASICO INTERMEDIO RUTA S-464 QUEPE - BOROA, que figura a nombre de HUENTEN BELARMINA, QUINCHAVIL MANQUERIF LORENZO y TORRALBO MORA PAOLA ANDREA, roles de avalúo 305-81, 305-82 y 305-99, Comuna de FREIRE, REGION DE LA ARAUCANÍA, superficies 71, 392 y 148 m2 respectivamente. La Comisión de Peritos integrada por CONSTANZA CAMILA VASQUEZ MUÑOZ, EVALDO ROBERTO CONTRERAS ROA y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 22 de marzo de 2021, fijó el monto de la indemnización provisional en la cantidad de $206.500 para el lote N°34-A, $2.868.000 para el lote N°35-A, y $702.000 para el lote N°36-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
