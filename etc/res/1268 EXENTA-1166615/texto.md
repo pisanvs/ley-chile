@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 1.268, de 06/10/2021, conforme al artículo 51 ley 16.391, DL 2.186 de 1978 y DL 1.305 de 1976 de Vivienda y Urbanismo, el Serviu Región de Los Ríos expropió el Lote 1, ubicado en calle Las Zinnias N° 231, Población Los Jazmines, comuna de Valdivia, de 16,3 m² de superficie de terreno, Rol de Avalúo N° 901-17, de la comuna de Valdivia, que forma parte de un terreno de mayor extensión, de aparente dominio de Franco Dante Pradines Delgado, para destinarlo al proyecto denominado "Mejoramiento calle Las Zinnias - Valdivia". La Comisión de Peritos Tasadores nombrada por resolución exenta N° 1.161, de 24/11/2020, del Serviu Región de Los Ríos, integrada por Isabel Margarita del Carmen Olivares Rosales, María Soledad Núñez Arroyo y Yaschala Yáñez Riffo, fijó el monto de indemnización provisional, según informe de fecha 30/06/2021, esta última que reajustada de acuerdo al IPC corresponde a $3.332.252, conforme a lo dispuesto en el artículo 5° del DL 2.186. La publicación se efectúa en cumplimiento de lo preceptuado en el artículo 7° del DL 2.186 de 1978.
+
+.
