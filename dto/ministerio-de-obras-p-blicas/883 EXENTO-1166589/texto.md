@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 883 de 23 de septiembre de 2021, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 13 para la obra: MEJORAMIENTO RUTA NAHUELBUTA. SECTOR B. SUBSECTOR 4: VARIANTE COIHUE - VARIANTE RENAICO, Región del Biobío, que figura a nombre de VIVEROS PARADA MARCELO OBDULIO, rol de avalúo 71-112 de la comuna de Negrete, superficie 398 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 53 de 29 de enero de 2021, modificada por Resolución Expropiaciones Fiscalía Exenta N° 75 de 19 de febrero de 2021, integrada por Miguel Juan Fernández Cádiz, Tatiana Yazmín Gutiérrez Ortiz y Valeria Francisca Madariaga Tordecilla, fijó con fecha 24 de marzo de 2021, el valor provisional de la indemnización en la cantidad de $2.953.000 para el lote N° 13. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
