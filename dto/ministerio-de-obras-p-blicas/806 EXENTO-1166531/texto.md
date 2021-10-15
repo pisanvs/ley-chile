@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº806, de 03 de septiembre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.1C, 1E y 2E, para la obra: SISTEMA DE AGUA POTABLE RURAL MARIMENUCO, que figura a nombre de CANUMIR LLANCA DOMINGO Y OTROS, rol de avalúo 64-103, Comuna de LONQUIMAY, REGION DE LA ARAUCANÍA, superficies 9.110, 450 y 100 m2 respectivamente. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, YASCHALA MARIBEL YAÑEZ RIFFO y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 30 de abril de 2021, fijó el monto de la indemnización provisional en la cantidad de $7.935.500 para el lote Nº1C, $405.000 para el lote Nº1E, y $55.000 para el lote Nº2E. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
