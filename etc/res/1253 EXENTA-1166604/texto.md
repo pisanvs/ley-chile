@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.253, 6 de septiembre 2021, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Arrau M 435 CCU, Rol de Avalúo N° 1128-34, comuna de Concepción, de aparente dominio de Aguillón Gutiérrez Edith Mireya, superficie de 23,29 m² de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-38120-4, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción", comuna de Concepción, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Mario Alexis Martínez Ortiz, arquitecta Priscilla Andrea Encalada Rueda y constructora civil María Soledad Silva Hernández, según informe de fecha 05.04.2021, fijó monto provisional indemnización más reajuste Art . 5° del DL N° 2.186 de 1978, en $4.130.358.-
+
+Director Serviu Región del Biobío.
