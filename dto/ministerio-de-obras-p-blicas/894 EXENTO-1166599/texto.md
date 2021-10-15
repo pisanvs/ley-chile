@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº894, de 23 de septiembre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.1 y 2, para la obra: SISTEMA DE AGUA POTABLE RURAL SAN LORENZO, que figuran a nombre de CABALLERO CONTRERAS JUAN Y OTR, roles de avalúo 202-389 y 202-386, Comuna de CABILDO, REGIÓN DE VALPARAÍSO, superficies 720,32 y 435 m2. respectivamente. La Comisión de Peritos integrada por CAROLINA CLAUDIA VERDEJO DÍAZ, HANDY GHISLAINE CAMPOS SEPULVEDA y PATRICIA VERÓNICA ZAVALA CONTRERAS, mediante informe de tasación de 03 de septiembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $3.385.003, para el lote Nº1 y $4.572.000, para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
