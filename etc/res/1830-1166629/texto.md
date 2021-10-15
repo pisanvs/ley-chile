@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 1.830 de fecha 5 de octubre de 2021, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno Nº 21 para la ejecución Proyecto "Interconexión Vial Alerce-Puerto Montt/Tramo Senda Central-Avda. Austral", comuna de Puerto Montt, que figura a nombre de Plásticos Austral Compañía Limit, rol de avalúo según SII Nº 2226-3, comuna de Puerto Montt, superficie 26,68 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher Guarda, Enrique Edgardo Hoelck Altmann y Juan Samuel Barrientos Bahamonde designados por resolución exenta Nº 1.426 de 16 de agosto de 2021, fijó con fecha 1 de octubre de 2021, el valor provisional de la indemnización en la suma de $1.862.400. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley Nº 2.186.-
+
+Director Regional, Serviu Región de Los Lagos.
