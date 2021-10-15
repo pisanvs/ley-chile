@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°833, de 10 de septiembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP N°206 de 1960, se expropiaron los lotes de terreno N°s. 1C y 1E, para la obra: SISTEMA DE AGUA POTABLE RURAL VILLA COIHUECO, que figura a nombre de REIDEL WANNER PABLO Y OTROS y LINCO ZUNIGA. JUAN DE D., roles de avalúo 823-34 y 823-8, Comuna de GALVARINO, REGION DE LA ARAUCANÍA, superficies 2.246 y 1.029 m2 respectivamente. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, YASCHALA MARIBEL YAÑEZ RIFFO y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 20 de agosto de 2021, fijó el monto de la indemnización provisional en la cantidad de $10.177.000 para el lote N°1C, y $3.161.000 para el lote N°1E. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
