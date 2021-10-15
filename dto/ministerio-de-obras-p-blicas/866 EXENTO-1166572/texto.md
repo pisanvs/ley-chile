@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 866, de 23 de septiembre de 2021, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 1-A, Rol de avalúo 142-151, Comuna de Chonchi, superficie 863 m2., para la obra: MEJORAMIENTO RUTA 5, SECTOR CUESTA TRAINEL EN CHILOÉ, COMUNA DE CHONCHI, PROVINCIA DE CHILOÉ, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por LEOPOLDO RAMON SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA y JUAN SAMUEL BARRIENTOS BAHAMONDE, fijó el valor de tasación con fecha 18 de junio de 2019, acordándose la indemnización con su propietaria ESTERLINA DEL CARMEN PÉREZ OYARZÚN, en la cantidad total de $1.466.687.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
