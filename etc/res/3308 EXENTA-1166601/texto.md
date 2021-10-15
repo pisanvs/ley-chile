@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.308, de fecha 21 de septiembre de 2021, se ordenó la expropiación Parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote 1, correspondiente al inmueble ubicado en Av. Pedro Aguirre Cerda 5000, Rol de Avalúo Nº 1-015, de la comuna de Cerrillos, Región Metropolitana, de aparente dominio de División de Bienestar Social Fach, con una superficie aproximada de 10.242,38 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Villa Panamericana". La Comisión de Peritos integrada por Constanza González Vergara, Arquitecto; Juan Sohrens Pendola, Arquitecto y María Carolina Letelier Bopp, Arquitecto, mediante Informe de fecha 31 de agosto de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $2.723.906.922, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
