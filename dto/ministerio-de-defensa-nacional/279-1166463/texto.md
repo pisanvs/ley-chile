@@ -1,0 +1,7 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 279, de fecha 8 de julio de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Corporación Nacional del Cobre de Chile, Codelco - Chile, RUT N° 61.704.000-K, sexta renovación de concesión marítima menor, con vencimiento 30 de junio 2026, sobre un sector de terreno de playa, en el lugar denominado Base Naval en el Puerto de Mejillones, comuna de Mejillones, Provincia y Región de Antofagasta, con una superficie total de 29.160 m2, la que fue tramitada con el SIABC N° 45367. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en amparar la construcción existente destinada a un casino complementario de las instalaciones de un camping para esparcimiento y recreación de los trabajadores de Codelco-Chile, división Codelco Norte, compuesto por i) un casino, ii) una sala de reunión, iii) un camarín, iv) una sala de bombas, v) una piscina, vi) una piscina, vii) cinco cabañas y vii) dos canchas de "baby fútbol". Las obras existentes en un esparcimiento de recreación. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Mejillones. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Marcelo González González, Capitán de Corbeta LT, Capitán de Puerto de Mejillones.
