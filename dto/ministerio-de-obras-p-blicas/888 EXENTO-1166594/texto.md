@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 888 de 23 de septiembre de 2021, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 15-2 para la obra: CONCESION INTERNACIONAL RUTA 5 TRAMO TEMUCO - RIO BUENO SECTOR: ATRAVIESO COLLIMALLIN KM. 742.060,00 A KM. 743.540,00, Región de la Araucanía, que figura a nombre de BUSTOS CERDA ELSA GRACIELA, rol de avalúo 419-53 de la comuna de Loncoche, superficie 1.000 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 198 de 14 de mayo de 2021, integrada por Rodrigo Alexis Escobar Fernández, Gabriel Antonio Pantoja Rivera y Diego Andrés Rozas Gallardo, fijó con fecha 6 de julio de 2021, el valor provisional de la indemnización en la cantidad de $7.780.000 para el lote Nº 15-2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
