@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 800 de 3 de septiembre de 2021, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 12 para la obra: CONCESION INTERNACIONAL RUTA 5. TRAMO COLLIPULLI - TEMUCO SECTOR: CALLE DE SERVICIO LAUTARO NOR-PONIENTE KM. 641.400,00 A KM. 643.900,00, Región de la Araucanía, que figura a nombre de BACHLER MATURANA EDITH ELIANA Y OTR, rol de avalúo 250-161 de la comuna de Lautaro, superficie 1.779 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 212 de 27 de agosto de 2020, integrada por Karin Alicia Ernst Elizalde, Maximiliano Cortés Caiozzi y Sergio Alejandro Ayala Espinoza, fijó con fecha 14 de octubre de 2020, el valor provisional de la indemnización en la cantidad de $14.587.800 para el lote Nº 12. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
