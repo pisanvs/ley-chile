@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento Nº 875, de 23 de septiembre de 2021, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 319-A, Rol de avalúo 165-35, Comuna de Calbuco, superficie 21.443 m2., para la obra: AMPLIACIÓN REPOSICIÓN RUTA V-85, SECTOR: HUITO - CALBUCO, COMUNA DE CALBUCO, PROVINCIA DE LLANQUIHUE, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, PATRICIA ANGÉLICA MORALES RIVERA y ANDRÉS ECHEVERRÍA CAMPO, fijó el valor de tasación con fecha 09 de febrero de 2019, acordándose la indemnización con su propietario LUIS AUGUSTO FRITZSCHE SUBIABRE, en la cantidad total de $866.536.173.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
