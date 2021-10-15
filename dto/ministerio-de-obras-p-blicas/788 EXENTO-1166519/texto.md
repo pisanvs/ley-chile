@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº788, de 03 de septiembre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 6, 7, 8 y 9, para la obra: REPOSICIÓN PAVIMENTO RUTA 215-CH. SECTOR: ADUANA - LIMITE, que figuran a nombre de SERVICIO AGRICOLA Y GANADERO, roles de avalúo 2252-1, Comuna de PUYEHUE, REGIÓN DE LOS LAGOS, superficies 140, 1.090, 5.389 y 482 m2. respectivamente. La Comisión de Peritos integrada por HANDY GHISLAINE CAMPOS SEPULVEDA, NICOLAS ALEJANDRO ALARCON SANCHEZ y DORY GISELA DONOSO SALGADO, mediante informe de tasación de 09 de julio de 2020, fijó el monto de la indemnización provisional en la cantidad de $64.000, para el lote Nº6, $601.900, para el lote Nº7, $2.373.800, para el lote Nº8 y $216.400, para el lote Nº9. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
