@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 872, de 23 de septiembre de 2021, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 18, Rol de avalúo 500-159 Comuna de Saavedra, superficie 132 m2., para la obra: MEJORAMIENTO RUTA S-422 PTO. SAAVEDRA - EL ALMA - EL TEMO, SAAVEDRA, COMUNA DE SAAVEDRA, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por ENEDINA DEL CARMEN CID RAMÍREZ, PABLO ALEX MANSILLA ARAVENA y EVALDO ROBERTO CONTRERAS ROA, fijó el valor de tasación con fecha 21 de diciembre de 2012, acordándose la indemnización con su propietario JUAN ENRIQUE LUER MACKAY, en la cantidad total de $1.086.331.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
