@@ -1,0 +1,7 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 230, de fecha 8 de junio de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Tito Juvenal Sepúlveda Plaza, RUN Nº 6.195.995-5, segunda renovación de concesión marítima menor, con vencimiento el 30 de junio del año 2026, sobre un sector de terreno de playa y uso de mejora fiscal, que disfrutaba por DS Nº 996, de fecha 21 de diciembre de 2011, del Ministerio de Defensa Nacional, en el lugar denominado Playa Grande, Bahía de Tongoy, comuna de Coquimbo, provincia de Elqui, Región de Coquimbo, con una superficie total de 36 m², la que fue tramitada con el SIABC Nº 44753. A modo referencial se señala las siguientes coordenadas geográficas:
+
+El objeto consiste en continuar ocupando la mejora fiscal correspondiente a un restaurante con venta de productos del mar. Las obras existentes consisten en una estructura de albañilería en bloques y tabiquería interior de aproximadamente 33 m², en un piso, estructura de techumbre en base a vigas de madera, cubierta de planchas de fibrocemento ondulado estándar. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Tongoy. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Luis Jeldres Sepúlveda, Sargento 1º L. (Seg. M.), Capitán de Puerto de Tongoy.
