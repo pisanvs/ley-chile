@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº772, de 03 de septiembre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 3, para la obra: CONSTRUCCION CICLOVIA RUTA I-870 E I-890 SECTOR CUESTA LO GONZALEZ CHIMBARONGO, que figura a nombre de PONCE MOYA RUPERTO, rol de avalúo 444-2, Comuna de CHIMBARONGO, REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficie 55 m2. La Comisión de Peritos integrada por ANDRES RAINER SCHULZ VILLANUEVA, ALEJANDRO GREGORIO PADILLA HENRIQUEZ y MARLENE TERESA RÍOS MARCUELLO, mediante informe de tasación de 28 de octubre de 2020, fijó el monto de la indemnización provisional en la cantidad de $7.001.500 para el lote Nº3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
