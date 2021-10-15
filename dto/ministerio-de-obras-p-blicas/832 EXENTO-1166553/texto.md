@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°832, de 10 de septiembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 140, 143, 144 y 145, para la obra: MEJORAMIENTO RUTA S-75, SECTOR COLICO - CABURGUA NORTE, que figuran a nombre de HETTICH DUSOLIN ARTURO ARNOLDO, rol de avalúo 1319-55, Comuna de CUNCO, REGION DE LA ARAUCANÍA, superficies 83, 44, 77 y 660 m2 respectivamente. La Comisión de Peritos integrada por MARIA SOLEDAD NUÑEZ ARROYO, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 08 de julio de 2019, fijó el monto de la indemnización provisional en la cantidad de $3.004.700 para el lote N°140, $1.711.600 para el lote N°143, $4.531.300 para el lote N°144, y $17.754.000 para el lote N°145. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
