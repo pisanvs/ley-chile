@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 1.266 de 06/10/2021, conforme al artículo 51 ley 16.391, DL. 2.186, de 1978 y DL. 1.305, de 1976 de Vivienda y Urbanismo, el Serviu Región de Los Ríos, expropió el Lote 16, ubicado en calle Los Laureles N°425, Isla Teja, comuna de Valdivia, de 102,80 M2 de superficie de terreno, Rol de Avalúo N°1261-8, de la comuna de Valdivia, que forma parte de un terreno de mayor extensión, de aparente dominio de Gloria Haydée Sepúlveda Molina, para destinarlo al Proyecto denominado "Construcción 2° Puente de Acceso Valdivia Centro - Isla Teja". La Comisión de Peritos Tasadores nombrada por resolución exenta N°1.161, de 24/11/2020, del Serviu Región de Los Ríos, integrada por María José Freire Allendes, Jorge Fernando Contreras Melo y Sebastián Andrés Riquelme Vargas, fijó el monto de indemnización provisional, según informe de fecha 24/06/2021, esta última que reajustada de acuerdo al IPC corresponde a $32.712.114, conforme a lo dispuesto en el artículo 5° del DL. 2186. La publicación se efectúa en cumplimiento de lo preceptuado en el artículo 7° del DL. 2.186 de 1978.
+
+.
