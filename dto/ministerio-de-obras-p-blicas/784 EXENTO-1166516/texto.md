@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 784, de 03 de septiembre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 7-A9, para la obra: "MEJORAMIENTO RUTA V-69, SECTOR RALUN - COCHAMO, COMUNA COCHAMO", que figura a nombre de OYARZUN OLAVARRIA RUPERTO, rol de avalúo 1154-248, Comuna de PUERTO VARAS, REGIÓN DE LOS LAGOS, superficie 753 m2. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRES ECHEVERRIA CAMPO y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 14 de septiembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $587.340, para el lote Nº7-A9. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
