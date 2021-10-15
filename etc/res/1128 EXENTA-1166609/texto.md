@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº1.128 de 13/09/2021, conforme al artículo 51 Ley 16.391, DL 2.186, de 1978 y DL 1.305, de 1976 de Vivienda y Urbanismo, el Serviu Región de Los Ríos, expropió el Lote 1, ubicado en calle Pérez Rosales Nº787, comuna de Valdivia, de 29,93 m2 de superficie de terreno, Rol de Avalúo Nº159-13, de la comuna de Valdivia, que forma parte de un terreno de mayor extensión, de aparente dominio de Alejandro Marcelo Navarrete Arriagada y Otros, para destinarlo al proyecto denominado "Mejoramiento calle Pérez Rosales, Valdivia". La Comisión de Peritos Tasadores nombrada por resolución exenta Nº1.161, de 24/11/2020, del Serviu Región de Los Ríos, integrada por María José Freire Allendes, Isabel Margarita del Carmen Olivares Rosales y Jorge Fernando Contreras Melo, fijó el monto de indemnización provisional, según informe de fecha 28/05/2021, esta última que reajustada de acuerdo al IPC corresponde a $31.171.317 conforme a lo dispuesto en el artículo 5º del D.L. 2.186. La publicación se efectúa en cumplimiento de lo preceptuado en el artículo 7º del D.L. 2.186 de 1978.
+
+.
