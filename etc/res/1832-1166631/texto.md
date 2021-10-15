@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 1.832 de fecha 05 de octubre de 2021, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno Nº 22 para la ejecución Proyecto "Interconexión Vial Alerce-Puerto Montt/Tramo Senda Central-Avda. Austral", comuna de Puerto Montt, que figura a nombre de Huichalaf Mansilla José Humberto, rol de avalúo según SII Nº 2265-53, comuna de Puerto Montt, superficie 5.000,00 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher Guarda, Enrique Edgardo Hoelck Altmann y Juan Samuel Barrientos Bahamonde designados por resolución exenta Nº 1426 de 16 de agosto de 2021, fijó con fecha 01 de octubre de 2021, el valor provisional de la indemnización en la suma de $328.974.000. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley Nº 2.186.
+
+Director Regional Serviu Región de Los Lagos.
