@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN Nº 2.021/PA/04/206 EXENTA, DE FECHA 24 DE AGOSTO DE 2021, QUE ORDENA INSTRUIR PROCESO ADMINISTRATIVO
+
+La Superintendencia de Educaci�n, por resolución exenta Nº 2021/PA/04/206, de fecha 24 de agosto de 2021, del Director Regional de la Superintendencia de Educación de la Región de Coquimbo, ordena instruir proceso administrativo al Colegio The International School, RBD 585, de la comuna de La Serena, del sostenedor Fundación Educacional The International School La Serena, RUT Nº 50.106.510-2, representada legalmente por don Manuel Rencoret Ríos, RUN Nº 7.017.618-1, resolviendo:
+
+- **1.-** Instrúyase proceso administrativo al establecimiento educacional Colegio The International School, RBD 585, de la comuna de La Serena, del sostenedor Fundación Educacional The International School La Serena, RUT Nº 50.106.510-2, representada legalmente por don Manuel Rencoret Ríos, RUN Nº 7.017.618-1, domiciliados para estos efectos en Avda. Cuatro Esquinas, parcela 342-B, Camino Cerro Grande, comuna de La Serena, por los hechos consignados en el acta de fiscalización Nº 210400319, de fecha 20 de agosto de 2021, la que se tiene por reproducida para todos los efectos legales, formando parte del proceso, los cuales podrían configurar eventuales contravenciones a la normativa educacional vigente.
+
+- **2.-** Desígnese fiscal instructora a doña Claudia Astudillo Aguirre, correo electrónico claudia.astudillo@supereduc.cl, funcionaria de la Dirección Regional de la Superintendencia de Educación de la Región de Coquimbo, quien será responsable de la tramitación de este proceso, de formular cargos, de investigar los hechos, solicitar informes, ponderar las pruebas y disponer toda otra diligencia que dé curso al procedimiento.
+
+- **3.-** Notifíquese la presente resolución exenta junto al Acta de Fiscalización 210400319, de fecha 20 de agosto de 2021, en conformidad con lo prescrito en el artículo 68 de la ley Nº 20.529, dejándose constancia en el expediente del trámite realizado.-
+
+Julián González Mallea, Director Regional, Superintendencia de Educación Región de Coquimbo.
