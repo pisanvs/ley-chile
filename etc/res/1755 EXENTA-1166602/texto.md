@@ -1,0 +1,11 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 1.755, de 28 de septiembre de 2021, de Serviu Región de Antofagasta, conforme el artículo 51 de la ley 16.391 y DL N° 2.186 de 1978, para desarrollar el proyecto habitacional denominado "Construcción Vías Aluvionales Calles O'Higgins y Colón, Tocopilla", en la comuna de Tocopilla, Región de Antofagasta, se dispuso la expropiación de todo o parte de cada uno de los siguientes inmuebles: 1. Inmueble de propiedad de don Wladimir Alejandro Díaz Galleguillos, ubicado en pasaje Esmeralda N° 2190, de la comuna de Tocopilla, debidamente inscrito a fojas 339, N° 228, año 2013, del Registro de Propiedad del Conservador de Bienes Raíces de Tocopilla, con una superficie de terreno a expropiar de 98,66 m², con edificación incluida, valorizadas en su conjunto en UF 630 correspondiente a un monto total de $18.850.
+
+- **000.-** (Dieciocho millones ochocientos cincuenta mil pesos). 2. Inmueble de propiedad de don Suij Dyanna Lay Fernández, ubicado en pasaje Esmeralda N° 2194, de la comuna de Tocopilla, debidamente inscrito a fojas 509, N° 493, año 2016, del Registro de Propiedad del Conservador de Bienes Raíces de Tocopilla, con una superficie de terreno a expropiar de 138,27 m², con edificación incluida, valorizadas en su conjunto en UF 1.195 correspondiente a un monto total de $35.740.
+
+- **000.-** (Treinta y cinco millones setecientos cuarenta mil pesos). 3. Inmueble de propiedad de don Raúl Ramos, ubicado en pasaje Esmeralda N° 2198, de la comuna de Tocopilla, debidamente inscrito a fojas 595, N° 663, año 2008, del Registro de Propiedad del Conservador de Bienes Raíces de Tocopilla, con una superficie de terreno a expropiar de 160 m², con edificación incluida, valorizadas en su conjunto en UF 1.237 correspondiente a un monto total de $37.000.
+
+- **000.-** (Treinta y siete millones). Comisión de peritos designada por resolución exenta N° 1.571, del 24 de agosto de 2021, integrada por los señores Carolina Verónica O'Brien Molina, Bárbara Portilla Cortés, Rodrigo Carbacho Aedo, por informe presentado con fecha 24 de septiembre de 2021, se fijó monto provisional de indemnización para cada propietario en las sumas indicadas anteriormente. Publicación se efectúa conforme lo dispuesto en artículo 7° del DL 2.186 de 1978.-
+
+Paulina Vallejo Rojas, Directora (S), Serviu Región de Antofagasta.
