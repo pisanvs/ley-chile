@@ -1,0 +1,5 @@
+SEGUNDA RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 209 de fecha 28 de mayo de 2021, del Ministerio de Defensa Nacional, Subsecretaría Fuerzas Armadas, otorgó a Sindicato de Trabajadores Independientes Fleteros Lacustres y Fluviales de Pucón, RUT: 70.869.200-k, concesión marítima menor, con vencimiento el 30 de junio de 2026, sobre segunda renovación de concesión marítima menor sobre un sector de playa de 136 metros cuadrados, que disfrutaba por DS Nº 373, de 2011, en el lugar denominado Playa Ainhoa, Lago Villarrica, Comuna de Pucón, Provincia de Cautín, Región de la Araucanía, individualizada en la ubicación señalada en el plano Nº 106/03-S. A modo referencial se señalan las siguientes coordenadas. Latitud Sur: 39º 16' 12,9" Longitud Oeste: 71º 58' 37,6". El objeto de esta concesión marítima es, continuar amparando la construcción existente de una casa de equipamiento construida el año 2000 y un varadero de botes sin infraestructura, los antecedentes se encuentran a disposición del público en la Capitanía de Puerto Lago Villarrica.-
+
+Héctor Rojas Martín, Capitán de Corbeta LT, Capitán de Puerto de Lago Villarrica.
