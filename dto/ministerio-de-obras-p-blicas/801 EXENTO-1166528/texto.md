@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 801 de 3 de septiembre de 2021, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nº 16 y Nº 17 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR B SUBSECTOR 5: VARIANTE RENAICO - HUEQUÉN, Región de la Araucanía, que figuran a nombre de EMPRESA DE LOS FERROCARRILES DEL ES en los dos casos, ambos con rol de avalúo 90094-1 de la comuna de Renaico, superficies 10.729 m2 y 7.286 m2, respectivamente. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 3 de 6 de enero de 2021, integrada por Carmen Pilar Ríos Marcuello, Tatiana Yasmín Gutiérrez Ortiz y Valeria Madariaga Tordecilla, fijó con fecha 23 de febrero de 2021, el valor provisional de las indemnizaciones en las cantidades de $97.280.700 para el lote Nº 16 y $97.952.300 para el lote Nº 17. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
