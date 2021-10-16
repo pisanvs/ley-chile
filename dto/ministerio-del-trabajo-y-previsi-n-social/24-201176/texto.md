@@ -100,17 +100,21 @@ En caso de fallecimiento del afiliado, esta ayuda se otorgará a las personas in
 
 Se otorgará una ayuda, si los recursos lo permiten, para la adquisición de nicho-bóveda, cuando se careciere de él, en caso de fallecimiento del afiliado o de alguna de sus cargas familiares.
 
-d) Educación: El Bienestar concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, por una vez en el año, al afiliado y sus cargas familiares que acrediten estudios regulares en algún establecimiento educacional del Estado o reconocido por éste.
+d) Educación: El Bienestar concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, al afiliado y sus cargas familiares que acrediten estudios regulares en algún establecimiento educacional del Estado o reconocido por éste.
 
 e) Becas de estudio: Siempre que las disponibilidades presupuestarias lo permitan, el Bienestar podrá otorgar, en casos de extrema necesidad económica, calificada como tal por el Consejo Administrativo, becas de estudio a los afiliados y a sus cargas familiares, que cursen enseñanza superior.
 
 f) Ayuda médica: En caso de enfermedad grave o de tratamiento médico prolongado de alto costo, calificado como tal por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria a las prestaciones contempladas en el artículo 15º del Reglamento General.
 
-g) Catástrofe: Cuando el afiliado haya sufrido graves daños en su vivienda o haya perdido parte de los enseres que lo guarnecen a causa de incendio, terremoto, inundaciones u otros hechos fortuitos, por acción de terceros, previa comprobación de los hechos por parte de asistente social del establecimiento.
+g) Catástrofe: Beneficio a otorgarse en caso de situaciones de catástrofe, incendio, terremoto, desastre natural, atmosférico, biológico, contaminación, pandemias o situaciones de excepción decretadas en el país, aprobados por el Consejo Administrativo.
 
 h) Bono anual: Monto de dinero a otorgar por una vez en el año, cuando el afiliado cumpla el requisito de haber solicitado un número determinado de beneficios médicos indicados en el artículo 8º del presente Reglamento, y ninguna otra ayuda, subsidio o préstamo, durante el año contable. El número máximo de beneficios será un requisito a determinar anualmente por el Consejo Administrativo.
 
 i) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio, por concepto de préstamos otorgados.
+
+j) Acuerdo de Unión Civil: Cuando el/la afiliado/a contraiga acuerdo de unión civil.
+
+Si ambos contrayentes son afiliados, el beneficio lo percibirá cada uno de ellos.
 
 El monto de las ayudas indicadas en las letras a), b), c), d), e), f), g) y h) será determinado con el Consejo Administrativo, de acuerdo a las disponibilidades presupuestarias anuales del Servicio de Bienestar.
 
@@ -150,7 +154,7 @@ La solicitud de cualquier tipo de préstamo será suscrita, además del afiliado
 
 #### Artículo 14º
 
-Las sumas que el afiliado deba pagar mensualmente al Servicio no podrán, en ningún caso, exceder del 40% de la remuneración imponible para pensiones o pensión de jubilación.
+Las sumas que el afiliado deba pagar mensualmente al Servicio no podrán, en ningún caso, exceder del 15% de la remuneración imponible para pensiones o pensión de jubilación.
 
 #### Artículo 15°
 
@@ -233,6 +237,10 @@ El requisito establecido en la letra a) del artículo 5º no se exigirá a los f
 La elección de los representantes de los afiliados al Consejo Administrativo, se efectuará dentro de los sesenta días siguientes a la fecha de publicación del presente reglamento.
 
 Dentro del mismo plazo indicado en el inciso anterior, la Asociación de Funcionarios que cumpla el requisito contemplado en el inciso 3º del artículo 18 del Reglamento General, deberá designar un representante de los afiliados y su suplente.
+
+#### Artículo 3°
+
+La ayuda social para situaciones de catástrofes, regulada en la letra g) del artículo 9° del presente decreto, tendrá vigencia retroactiva, al partir del 1 de diciembre de 2020.
 
 Tómese razón, comuníquese, publíquese e insértese en la Recopilación que corresponda de la Contraloría General de la República.- Por orden del Presidente de la República, Ricardo Solari Saavedra, Ministro del Trabajo y Previsión Social.- Osvaldo Artaza Barrios, Ministro de Salud.
 
