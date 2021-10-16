@@ -1,0 +1,5 @@
+MODIFICA LUGAR DE AUDIENCIA DE ENTREGA DE LAS OFERTAS TÉCNICAS Y ECONÓMICAS DEL PROCESO DE OTORGAMIENTO Y RENOVACIÓN DE PERMISOS DE OPERACIÓN
+
+Por resolución exenta Nº 593, de 14 de octubre de 2021, la Superintendencia de Casinos de Juego modifica la resolución exenta Nº 432, de 27 de julio de 2020, de esta Superintendencia, exclusivamente en su resuelvo número 4º respecto del lugar de entrega de las ofertas técnicas y económicas, reemplazándose el Hotel Gran Palace, situado en calle Huérfanos Nº 1178, comuna de Santiago, por el Estadio San Jorge, situado en calle Paul Harris Nº 9388, comuna de Las Condes, Región Metropolitana. En relación con el día de la audiencia de recepción de ofertas técnicas y económicas, éste se mantiene para el lunes 18 de octubre de 2021, a las 10:00 hrs.
+
+Santiago, 14 de octubre de 2021.- Vivien Villagrán Acuña, Superintendenta de Casinos de Juego.
