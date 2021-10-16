@@ -170,11 +170,9 @@ f) VACACIONES: Se concederá una bonificación al afiliado activo que tenga dere
 
 g) BONO U OBSEQUIO DE NAVIDAD: Se concederá un bono u obsequio de Navidad a cada afiliado, siempre que las disponibilidades presupuestarias lo permitan, cuyo monto y modalidad de entrega en dinero o en especies, según corresponda, será determinado por el Consejo Administrativo. El plazo para impetrar este beneficio caducará a los seis (6) meses siguientes, contados desde el 25 de diciembre;
 
-h) CATASTROFICO: Se concederá una ayuda de carácter pecuniario para la reparación de la vivienda de propiedad del afiliado y/o de su cónyuge, que le sirva de casa habitación y que haya resultado dañada por incendio u otras catástrofes naturales, declaradas estas últimas como tales por la autoridad competente.
+h) Por catástrofe: Se podrá otorgar una ayuda en dinero o especies, a los/as afiliados/as que lo soliciten, a causa de los efectos producidos por situaciones imprevistas o de fuerza mayor, derivadas de pandemias, accidentes, emergencias, siniestros, fenómenos naturales, terremotos, tsunamis, aluviones, inundaciones, erupción volcánica, contaminación, u otro tipo de catástrofes declaradas por la autoridad competente, que causen grave daño personal o material al afiliado/a o su grupo familiar.
 
-La acreditación de los daños se efectuará mediante la respectiva certificación emitida por
-
-Carabineros de Chile o por Bomberos, o por cualquier medio fehaciente, en caso que dichas instituciones estuvieren imposibilitadas de realizarlo, debiéndose acompañar además, un informe que fundamente el otorgamiento del beneficio, elaborado por la Asistente Social del Servicio de Bienestar, o en caso de impedimento de ésta, por alguna de las profesionales del Departamento de Asistencia Social de la Institución, previa solicitud formal formulada a la jefatura de dicha instancia, por la jefatura del Servicio de Bienestar. El otorgamiento del presente beneficio, en todo caso, queda supeditado al criterio del Consejo Administrativo.
+Todos los casos deben ser debidamente acreditados por la/el afiliada/o con los antecedentes de salud, sociales, económicos, legales, bancarios, u otros que se estimen necesarios por el Servicio y/o avalados por Informe de la Asistente Social del Servicio de Bienestar y autorizado por el Consejo Administrativo.
 
 i) Deporte: Se concederá un reembolso al afiliado, por pago de actividades físicas y deportivas. Este beneficio tendrá un tope anual fijado por el Consejo Administrativo.
 
@@ -333,6 +331,10 @@ Mientras no se contemple en la planta de la Caja de Previsión de la Defensa Nac
 Los representantes, titulares y suplentes, de los afiliados en el Consejo Administrativo, continuarán en sus funciones hasta el término del período por el cual fueron elegidos.
 
 Lo anterior es también aplicable a los representantes, titular y suplente, de la Asociación de Funcionarios de la Institución en dicho Consejo.
+
+#### Artículo 5º
+
+La ayuda social para situaciones de catástrofes, regulada en la letra h) del artículo 7º del presente decreto, tendrá vigencia retroactiva, a partir del 1 de junio de 2020.
 
 Tómese razón, comuníquese, publíquese e insértese en la recopilación que corresponda de la Contraloría General de la República.- Por orden del Presidente de la República, Ricardo Solari Saavedra, Ministro del Trabajo y Previsión Social.- Michelle Bachelet Jeria, Ministra de Defensa Nacional.
 
