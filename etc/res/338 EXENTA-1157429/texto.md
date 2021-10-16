@@ -32,6 +32,8 @@ d) El valor de los terrenos no podrá superar la tasación comercial que deberá
 
 e) Los terrenos deberán contar con factibilidad de agua potable y alcantarillado, acreditando que se localiza, a lo menos, en un 50% al interior del área de concesión de la empresa sanitaria correspondiente o en el área en que opera un Comité de Agua Potable Rural. La disponibilidad de servicio eléctrico se acreditará mediante certificado de la empresa de servicios respectiva.
 
+Para el cumplimiento de este requisito se permitirá que se encuentre en trámite, con constancia de la aceptación de la empresa correspondiente, la suscripción del Convenio al que alude el artículo 33 C del DFL Nº 382 (MOP), de 1989, Ley General de Servicios Sanitarios.
+
 2. El Director del Serviu podrá solicitar al Ministro de Vivienda y Urbanismo la exención de alguno o algunos de los criterios señalados en el Resuelvo anterior, a excepción de los establecidos en las letras a) y e), siempre que acredite que con ello no se condiciona el buen desarrollo del futuro proyecto habitacional, debiendo tener en cuenta lo siguiente:
 
 a) De proponerse un terreno urbano que no cumpla con los requisitos señalados en la letra b) del Resuelvo anterior, deberá fundamentarse mediante Informe del Seremi de Vivienda y Urbanismo que señale que el cambio de la normativa vigente se estima favorable para la localización de viviendas para familias vulnerables. Lo anterior, en términos de acceso a equipamiento y servicios, oportunidades de compra relacionadas con el desarrollo de proyectos urbano habitacionales, o de disponibilidad de suelo al interior de las ciudades, debiendo definirse las estrategias y gestiones a realizar para efectuar los cambios normativos requeridos.
@@ -84,11 +86,11 @@ n) Plano topográfico que contemple los requisitos establecidos en el Itemizado 
 
 o) Estudio de cabida máxima de viviendas en el terreno.
 
-p) Estudio de mecánica de suelos, en el caso que no se considere su ejecución como parte de los estudios preliminares a los que se refiere el literal m), anterior.
+p) Informe de Reconocimiento Geotécnico de acuerdo a letra g), Artículo 5.2 Antecedentes Técnicos de la Res. Ex. Nº 14.464 (V. y U.), de 2017.
 
-q) Informe de Reconocimiento Geotécnico de acuerdo a letra g), Artículo 5.2 Antecedentes Técnicos de la Res. Ex. Nº 14.464 (V. y U.), de 2017.
+Si como resultado de este Informe de Reconocimiento Geotécnico se establece la necesidad de contar con una mecánica de suelos del terreno, ésta deberá ser presentada junto a los antecedentes indicados en el presente Resuelvo o bien identificada dentro de los estudios preliminares a realizar, según lo indicado en la letra m).
 
-r) Declaración jurada del propietario del terreno ofertado, de no tener relación de parentesco con funcionarios del Serviu o del Ministerio de Vivienda y Urbanismo, según lo indicado en el Resuelvo 3 de esta resolución.
+q) Declaración jurada del propietario del terreno ofertado, de no tener relación de parentesco con funcionarios del Serviu o del Ministerio de Vivienda y Urbanismo, según lo indicado en el Resuelvo 3 de esta resolución.
 
 Todos los antecedentes deberán cargarse en el Sistema de Bienes Inmuebles Serviu Sibis, siendo el único repositorio de información válido para el proceso de evaluación.
 
