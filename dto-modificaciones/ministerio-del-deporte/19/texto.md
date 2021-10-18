@@ -50,7 +50,7 @@ La asignación de los recursos del Fondo se efectuará, en los términos previst
 
 3.- Aporte complementario a proyectos incorporados al Registro de Donaciones.
 
-El Fondo estará constituido por la Cuota Nacional y por quince Cuotas Regionales y se conformará con los recursos que anualmente contemple la Ley de Presupuestos de la Nación de acuerdo con lo establecido en el artículo 45 de la Ley Nº 19.712, los otorgados por leyes especiales, los que el Instituto destine de su patrimonio, como asimismo por las donaciones de que sea objeto, de conformidad con la Ley y el presente reglamento.
+El Fondo estará constituido por la Cuota Nacional y por las Cuotas Regionales que correspondan de conformidad a la ley y se conformará con los recursos que anualmente contemple la Ley de Presupuestos de la Nación de acuerdo con lo establecido en el artículo 45 de la Ley Nº 19.712, los otorgados por leyes especiales, los que el Instituto destine de su patrimonio, como asimismo por las donaciones de que sea objeto, de conformidad con la Ley y el presente reglamento.
 
 La Cuota Nacional será administrada por la Dirección Nacional del Instituto y cada una de las Cuotas Regionales por el respectivo Director Regional.
 
@@ -80,7 +80,7 @@ El Director Nacional, tratándose de concursos de carácter nacional, y el respe
 
 #### Artículo 5º
 
-Los concursos públicos serán convocados, según corresponda, por el Director Nacional o por los Directores Regionales del Instituto, mediante resolución, en la cual se indicará el plazo para la presentación de los proyectos, la duración máxima del período de evaluación, el plazo máximo para la selección de los mismos y los recursos disponibles en cada cuota del Fondo para efectos del concurso correspondiente.
+Los concursos públicos serán convocados, según corresponda, por el Director Nacional o por los Directores Regionales del Instituto, mediante resolución, en la cual se indicará el plazo para la presentación de los proyectos, la duración máxima del período de evaluación, el plazo máximo para la selección de los mismos, los sitios electrónicos institucionales en los que se publicarán los resultados de la convocatoria y los recursos disponibles en cada cuota del Fondo para efectos del concurso correspondiente.
 
 Las convocatorias a presentar proyectos de actividad física y deporte para ser financiados con recursos del Fondo deberán realizarse por medio de una amplia difusión nacional o regional, según corresponda a la naturaleza de la convocatoria, a través de un medio de comunicación, impreso o digital, de fácil acceso para los habitantes de todo el territorio nacional o regional, en su caso, y con una anticipación de, a lo menos, veinte días a la fecha de cierre para la recepción de los proyectos.
 
@@ -148,7 +148,7 @@ En caso que se hubiera declarado desierto un concurso, total o parcialmente, o q
 
 Terminado el proceso de selección, el Instituto publicará la nómina de los(as) beneficiarios(as) del Fondo, indicando la lista de proyectos seleccionados, financiados y en lista de espera, el nombre de las personas u organizaciones responsables de los mismos y el monto de los recursos asignados.
 
-Para este fin, el Instituto deberá utilizar los mismos medios de difusión utilizados para efectuar la respectiva convocatoria.
+Para este fin, el Instituto utilizará los sitios electrónicos institucionales que al efecto se hubieren señalado en la respectiva convocatoria.
 
 ### Párrafo 4º
 
@@ -232,7 +232,7 @@ Tratándose de la autorización para enajenar, deberán reintegrarse al Institut
 
 #### Artículo 24º
 
-Las personas naturales o jurídicas que hubieren obtenido financiamiento del Fondo para sus proyectos de actividad física y deporte, no podrán postular nuevos proyectos mientras no acrediten haber obtenido la certificación de total ejecución a conformidad del Instituto, prevista en el artículo 17º precedente.
+Las personas naturales o jurídicas que hubieren obtenido financiamiento del Fondo para sus proyectos de actividad física y deporte, no podrán recibir nuevos recursos del Fondo mientras no acrediten haber obtenido la certificación de total ejecución a conformidad del Instituto, prevista en el artículo 17º precedente.
 
 Lo anterior, se entiende sin perjuicio de las sanciones legales, reglamentarias o contractuales que procedan producto de la mora en el cumplimiento de los términos de la asignación.
 
