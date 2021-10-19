@@ -1,0 +1,7 @@
+PROHÍBE CIRCULACIÓN DE VEHÍCULOS MOTORIZADOS EN LA VÍA/S QUE SE INDICA
+
+Por resolución exenta N° 213, de fecha 21 de septiembre de 2021, del Gobierno Regional del Biobío, y a fin de permitir la ejecución de los trabajos de pavimentación participativa en calles y pasajes del sector Pedro de Valdivia, de la comuna de Concepción, llevada a cabo por la empresa Marco Zenteno Figueroa, RUT:,10.278.988-1, se prohíbe la circulación de los vehículos motorizados por el plazo de 90 días corridos a contar desde el día 27 de septiembre hasta el día 26 de diciembre de 2021 inclusive, respecto de las siguientes calles: a) Pasaje CCU, en el tramo comprendido entre calle Arrau Méndez y calle Gabriela Mistral; b) Calle Bianchi, en el tramo comprendido entre Avda. Inglesa y Quinta Yunge. Los vehículos motorizados que en su trayecto tengan como vía de circulación las calles señaladas, deberán adoptar vías alternativas para el tránsito por el sector; y excepcionalmente podrán circular los vehículos de emergencia y aquellos vehículos que requieran ingresar o egresar desde su iugar de residencia o estacionamiento habitual ubicado en dicho tramo. La resolución exenta con su texto íntegro se encuentra disponible en el sitio electrónico de "Gobierno Transparente" del Gobierno Regional del Biobío.
+
+Autoriza extracto.-
+
+Sandra Catalán Pérez, Gobernador Regional del Biobío (S).
