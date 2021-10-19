@@ -1,0 +1,25 @@
+APRUEBA PROGRAMA DE EXPROPIACIÓN EN LA REGIÓN DEL BIOBÍO PARA LA EJECUCIÓN DEL PROYECTO "MEJORAMIENTO PAVIMENTACIÓN AVENIDA CAMINO EL VENADO, SECTOR ANDALUÉ", COMUNA DE SAN PEDRO DE LA PAZ, Y MODIFICA DECRETO Nº 31 EXENTO (V. Y U.), DE FECHA 9 DE JULIO DE 2021
+
+Santiago, 14 de octubre de 2021.- Hoy se decretó lo que sigue:
+
+Núm. 54 exento.
+
+Visto:
+
+El artículo 51 de la ley Nº 16.391; el Nº 1.9 de la parte I del artículo 1º del DS Nº 153 (V. y U.), de 1983; el decreto exento Nº 31 (V. y U.), de 9 de julio de 2021, dictado a solicitud del Serviu de la Región del Biobío, mediante el cual se aprobó el programa de expropiación para ejecutar el proyecto "Mejoramiento Pavimentación Avenida Camino El Venado, Sector Andalué", comuna de San Pedro de la Paz, Código BIP 40002289-0, relativo a los siguientes inmuebles: (i) Lote 1, rol de avalúo Nº 10500-2, de una superficie de 1.184,895 metros cuadrados, y (ii) Lote 2, rol de avalúo Nº 12108-2, de una superficie de 421,26 metros cuadrados, ambos inmuebles debidamente singularizados en el referido decreto exento; el "Informe Técnico Expropiación Proyecto Código IDI: 40002289-0, "Mejoramiento Pavimentación Av. Camino El Venado, Sector Andalué, comuna de San Pedro de la Paz", para inmueble rol de avalúo 12108-74", de fecha 26 de agosto de 2021, del Departamento Desarrollo Urbano e Infraestructura de la Seremi de la Región del Biobío, mediante el cual se informa favorablemente por parte de dicho departamento la nueva solicitud del Serviu de la Región del Biobío para la expropiación del ya referido inmueble; el oficio ordinario Nº 1804, de fecha 27 de agosto de 2021, del Jefe del Departamento de Desarrollo Urbano e Infraestructura de la Seremi de la Región del Biobío, por el cual se informa favorablemente sobre la solicitud de expropiación del terreno que será afectado, por una superficie de 421,26 metros cuadrados, y acompaña el informe técnico confeccionado por dicho departamento, de fecha 26 de agosto de 2021, ya referido; el oficio ordinario Nº 3762, de fecha 31 de agosto de 2021, del Director del Serviu de la Región del Biobío, en el cual se da cuenta que, luego de haberse realizado por dicho servicio un catastro actualizado de cada lote y su rol asociado, de los señalados en el decreto exento ya referido, con información que se obtuvo a partir de la base de datos del Servicio de Impuestos Internos, se detectó que el inmueble rol de avalúo Nº 12108-2 había sido subdividido y ya no quedaba afecto a expropiación, por lo que se expuso la necesidad de reemplazarlo por el inmueble rol de avalúo Nº 12108-74, mediante la dictación del acto administrativo correspondiente; y el oficio ordinario Nº 1375, de fecha 13 de septiembre de 2021 del Jefe de la División Técnica de Estudio y Fomento Habitacional de este Ministerio, mediante el cual solicita la elaboración del decreto que apruebe el Programa de Expropiación para la ejecución del "Mejoramiento Pavimentación Av. Camino El Venado, Sector Andalué, comuna de San Pedro de la Paz".
+
+Decreto:
+
+1º.- Apruébase el siguiente programa de expropiación para el año 2021 y siguientes, en la Región del Biobío, para la adquisición del siguiente lote ubicado en la comuna de San Pedro de la Paz, a ser destinados a la ejecución del proyecto "Mejoramiento Pavimentación Camino El Venado, Sector Andalué", según Plano "Expropiación Rol 12108-74, Lote 2", Nº S8R 41429-1, lámina única, confeccionado por el Servicio de Vivienda y Urbanización de la Región del Biobío, a escala 1:250, con fecha agosto de 2021, el que consiste en la pavimentación parcial de la Avenida Camino El Venado, que considera rediseño y prolongación de la calzada en dos tramos de dicha avenida, y la ejecución de un sistema de evacuación de aguas lluvias, demarcación y señalización, entre otros, y que se singularizan a continuación:
+
+Superficie aproximada inmueble a expropiar: 421,26 metros cuadrados.
+
+2º.- Modifícase el decreto exento Nº 31 (V. y U.), de 9 de julio de 2021, que aprueba el programa de expropiación para ejecutar el proyecto "Mejoramiento Pavimentación Avenida Camino El Venado, Sector Andalué", comuna de San Pedro de la Paz, Región del Biobío, Código BIP 40002289-0, en el sentido de eliminar el Lote 2, rol de avalúo Nº 12108-2, de una superficie de 421,26 metros cuadrados de la tabla contenida en el resuelvo 1 de dicho decreto exento, pues no será objeto de expropiación, según se da cuenta en este acto administrativo.
+
+3º.- En todo lo no modificado por el presente acto administrativo, se mantiene plenamente vigente el decreto exento Nº 31 (V. y U.), de 9 de julio de 2021.
+
+4º.- El presente decreto se publicará en el Diario Oficial y en un periódico de la provincia de Concepción, si lo hubiere.
+
+Anótese, notifíquese y publíquese.- Por orden del Presidente de la República, Felipe Ward Edwards, Ministro de Vivienda y Urbanismo
+
+Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
