@@ -74,7 +74,7 @@ Del derecho a la atención preferente
 
 #### Artículo 5° bis
 
-Toda persona mayor de 60 años, como también toda persona en situación de discapacidad, tendrá derecho a ser atendida preferente y oportunamente por cualquier prestador de acciones de salud, con el fin de facilitar su acceso a dichas acciones, sin perjuicio de la priorización que corresponda aplicar según la condición de salud de emergencia o urgencia de los pacientes, de acuerdo al protocolo respectivo.
+Las personas mayores de 60 años y las personas con discapacidad, así como los cuidadores o cuidadoras, tendrán derecho a ser atendidos preferente y oportunamente por cualquier prestador de acciones de salud, con el fin de facilitar su acceso a dichas acciones, sin perjuicio de la priorización que corresponda aplicar según la condición de salud de emergencia o urgencia de los pacientes, de acuerdo al protocolo respectivo.
 
 Esta atención preferente y oportuna consistirá, al momento del ingreso del paciente, en la adopción por el prestador de las siguientes medidas:
 
@@ -107,6 +107,10 @@ c) En la posterior asignación prioritaria para la realización de exámenes o p
 #### Artículo 5° ter
 
 El prestador de acciones de salud deberá consignar con caracteres legibles, en un lugar visible y de fácil acceso del recinto en que se desempeña, el texto de este derecho a la atención preferente y oportuna.
+
+#### Artículo 5° quáter
+
+Para efectos de lo dispuesto en esta ley, se entenderá por cuidador o cuidadora a toda persona que, de forma gratuita o remunerada, proporcione asistencia o cuidado, temporal o permanente, para la realización de actividades de la vida diaria, a personas con discapacidad o dependencia, estén o no unidas por vínculos de parentesco.
 
 ### Párrafo 4º
 
