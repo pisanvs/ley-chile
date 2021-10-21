@@ -14,7 +14,7 @@ Naturaleza, objeto, capital y domicilio
 
 #### Artículo 1°
 
-El Banco del Estado de Chile es una empresa autónoma del Estado, con personalidad jurídica y patrimonio propio, de duración indefinida, sometida exclusivamente a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras, que se relacionará con el Gobierno a través del Ministerio de Hacienda.
+El Banco del Estado de Chile es una empresa autónoma del Estado, con personalidad jurídica y patrimonio propio, de duración indefinida, sometida exclusivamente a la fiscalización de la Comisión para el Mercado Financiero, que se relacionará con el Gobierno a través del Ministerio de Hacienda.
 
 #### Artículo 2°
 
@@ -30,13 +30,13 @@ Cuando estos servicios bancarios y financieros se presten al Estado, por imperat
 
 El capital autorizado del Banco es de $ 4.000.000.000 (cuatro mil millones de pesos) y se enterará con los fondos que actualmente tiene contabilizado como capital y reservas en moneda nacional. Si dichos fondos no alcanzaren para completar el capital autorizado, éste se enterará con cargo a revalorizaciones o a las utilidades que se produzcan en los futuros ejercicios.
 
-Este capital podrá ser aumentado por decreto supremo, previo informe favorable de la Superintendencia de Bancos e Instituciones Financieras.
+Este capital podrá ser aumentado por decreto supremo, previo informe favorable de la Comisión para el Mercado Financiero.
 
 #### Artículo 5°
 
-El Banco practicará balance general al 31 de Diciembre de cada año, consultando las correcciones monetarias, provisiones, castigos y demás ajustes que correspondan de acuerdo con las normas impartidas por la Superintendencia de Bancos e Instituciones Financieras, balance que se publicará en el Diario Oficial.
+El Banco practicará balance general al 31 de Diciembre de cada año, consultando las correcciones monetarias, provisiones, castigos y demás ajustes que correspondan de acuerdo con las normas impartidas por la Comisión para el Mercado Financiero, balance que se publicará en el Diario Oficial.
 
-El Presidente de la República, previo informe de la Superintendencia de Bancos e Instituciones Financieras y del Consejo Directivo del Banco, podrá destinar el todo o parte de las utilidades netas a beneficio fiscal, mediante decreto supremo, dictado al efecto dentro de los treinta días siguientes a la publicación del balance.
+El Presidente de la República, previo informe de la Comisión para el Mercado Financiero y del Consejo Directivo del Banco, podrá destinar el todo o parte de las utilidades netas a beneficio fiscal, mediante decreto supremo, dictado al efecto dentro de los treinta días siguientes a la publicación del balance. Lo anterior queda sujeto a lo previsto en los incisos segundo, tercero y cuarto del artículo 56 del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que fija texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican.
 
 Las utilidades que no sean destinadas al Fisco pasarán a formar parte de las reservas del Banco.
 
@@ -146,7 +146,7 @@ Cualquier miembro del Comité que contraviniere las disposiciones de este artíc
 
 #### Artículo 18°
 
-El Comité ejercerá la administración del Banco bajo su directa responsabilidad, debiendo, en todo caso, ajustar su acción a las disposiciones legales y reglamentarias, a las políticas y normas que impartan las autoridades monetarias, el Consejo y la Superintendencia de Bancos e Instituciones Financieras en uso de sus atribuciones.
+El Comité ejercerá la administración del Banco bajo su directa responsabilidad, debiendo, en todo caso, ajustar su acción a las disposiciones legales y reglamentarias, a las políticas y normas que impartan las autoridades monetarias, el Consejo y la Comisión para el Mercado Financiero en uso de sus atribuciones.
 
 Sus miembros, sin perjuicio de las demás sanciones que pudieren afectarles, responderán personal y solidariamente con sus bienes de las pérdidas que irroguen al Banco por aquellas operaciones autorizadas, actos efectuados o resoluciones tomadas por el Comité en contravención de las disposiciones legales y demás normas a que se refiere el inciso anterior, quedando exentos de esa responsabilidad únicamente los que hubieren hecho constar su voto desidente en el acta de la sesión correspondiente.
 
@@ -254,7 +254,7 @@ Las ilegalidades de los acuerdos que el Consejo o el Comité adopten o las inhab
 
 Sin perjuicio de lo anterior, el Fiscal dispondrá se practiquen de inmediato las primeras diligencias necesarias para restablecer la legalidad y/o precaver eventuales daños mayores a la empresa.
 
-Si la representación no fuera aceptada, deberá poner de inmediato los antecedentes en conocimiento de la Superintendencia de Bancos e Instituciones Financieras;
+Si la representación no fuera aceptada, deberá poner de inmediato los antecedentes en conocimiento de la Comisión para el Mercado Financiero;
 
 d) Informar sobre los asuntos de orden legal que se sometan a su consideración, y en general, asesorar a las autoridades superiores del Banco y demás funcionarios de la empresa en las materias que requieran una apreciación de carácter jurídico;
 
@@ -332,7 +332,7 @@ En el cumplimiento de sus funciones, el Contralor comunicará por escrito al Ger
 
 Si ellas no fueran atendidas, dará cuenta al Comité.
 
-En todo caso, el Contralor deberá enviar directamente copia de todas sus observaciones al Consejo y al Superintendente de Bancos e Instituciones Financieras.
+En todo caso, el Contralor deberá enviar directamente copia de todas sus observaciones al Consejo y al Presidente de la Comisión para el Mercado Financiero.
 
 ## Título III
 
@@ -350,7 +350,7 @@ Sin perjuicio de lo dispuesto en el inciso anterior serán aplicables a ellas, c
 
 #### Artículo 30°
 
-El Banco no podrá adquirir acciones, salvo que se las adjudique o reciba en pago de deudas contraidas a su favor; si así ocurriere, deberá enajenarlas dentro del término de un año, contado desde su adquisición. En casos justificados, el Superintendente podrá prorrogar este plazo hasta por otro año.
+El Banco no podrá adquirir acciones, salvo que se las adjudique o reciba en pago de deudas contraidas a su favor; si así ocurriere, deberá enajenarlas dentro del término de un año, contado desde su adquisición. En casos justificados, la Comisión para el Mercado Financiero podrá prorrogar este plazo hasta por otro año.
 
 No obstante, estará facultado para realizar inversiones en bancos extranjeros o entidades internacionales, previa autorización del Banco Central.
 
