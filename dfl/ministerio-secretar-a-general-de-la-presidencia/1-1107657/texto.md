@@ -204,7 +204,7 @@ En el caso de elecciones primarias para Presidente de la República o gobernador
 
 #### Artículo 22
 
-El Servicio Electoral confeccionará el padrón electoral de cada mesa receptora de sufragios que contendrá a los electores habilitados para sufragar en cada elección primaria que cumplan con los requisitos necesarios para ejercer el derecho a sufragio, conforme a los antecedentes conocidos por dicho Servicio al sexagésimo día anterior a aquel en que deba realizarse la elección primaria. Para estos efectos, no será aplicable lo dispuesto en los títulos II y III de la ley N°18.556, salvo en lo que se refiere a la publicidad del padrón electoral que se otorgará mediante medios magnéticos y ordenado en forma alfabética, en conformidad a lo dispuesto en el inciso quinto del artículo 32 de dicha ley.
+El Servicio Electoral confeccionará el padrón electoral de cada mesa receptora de sufragios que contendrá a los electores habilitados para sufragar en cada elección primaria que cumplan con los requisitos necesarios para ejercer el derecho a sufragio, conforme a los antecedentes conocidos por dicho Servicio al sexagésimo día anterior a aquel en que deba realizarse la elección primaria. Para estos efectos, no será aplicable lo dispuesto en los títulos II y III de la ley N°18.556, salvo en lo que se refiere al artículo 37 de la ley Nº 18.556, sobre la determinación de las mesas y la asignación de los electores a ellas, y a la publicidad del padrón electoral que se otorgará mediante medios magnéticos y ordenado en forma alfabética, en conformidad a lo dispuesto en el inciso quinto del artículo 32 de dicha ley.
 
 El padrón electoral contendrá los nombres y apellidos de cada elector y su número de rol único nacional.
 
@@ -254,13 +254,11 @@ El Servicio Electoral determinará el número de mesas receptoras de sufragios y
 
 #### Artículo 28
 
-El Director del Servicio Electoral podrá aplicar la facultad señalada en el artículo 42 de la ley N°18.700, referente a reunir dos o más mesas receptoras de sufragios, en forma transitoria y sólo para las elecciones primarias, cuando así lo considere necesario en base a la experiencia relativa a la participación y concurrencia de electores a votar en otras elecciones primarias. Las mesas fusionadas podrán superar los 450 electores.
-
-La determinación del número de mesas receptoras de sufragios se realizará el quincuagésimo día anterior al de la elección primaria.
+Para la determinación del número de mesas receptoras de sufragios el Director del Servicio Electoral podrá superar el número máximo de cuatrocientos cincuenta electores por mesa contenido en el artículo 37 de la ley Nº 18.556, cuando así lo considere necesario en base a la experiencia relativa de la participación y concurrencia de electores a votar en otras elecciones primarias para cada circunscripción electoral.
 
 #### Artículo 29
 
-En el caso que se aplique lo señalado en el artículo anterior, la junta electoral procederá a elegir cinco vocales por sorteo, de entre todos los que correspondan a las mesas que se reunieron en una sola.
+Derogado.
 
 #### Artículo 30
 

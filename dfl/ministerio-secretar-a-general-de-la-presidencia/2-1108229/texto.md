@@ -396,15 +396,11 @@ Las mesas receptoras de sufragios tienen por finalidad recibir los votos que emi
 
 #### Artículo 42
 
-El Servicio Electoral podrá fusionar mesas receptoras de sufragios de la misma circunscripción electoral, con el objeto de que funcionen conjuntamente, como si fueran una sola mesa, siempre que la mesa resultante no supere el número de cuatrocientos cincuenta electores.
-
-En este caso existirá un solo padrón de la mesa fusionada y se ordenará alfabéticamente.
-
-La nueva mesa se identificará con los números de las mesas que se fusionaron, separados por guiones.
+Derogado.
 
 #### Artículo 43
 
-Cada mesa receptora de Sufragios se compondrá de cinco vocales elegidos de entre los inscritos en el padrón de mesa respectivo.
+Cada mesa receptora de sufragios se compondrá de cinco vocales elegidos de entre los electores asignados a la mesa o al local de votación donde ella deba funcionar.
 
 ### Párrafo 8°
 
@@ -418,19 +414,15 @@ Las juntas electorales a que se refiere el título XII de la presente ley, desig
 
 No podrán ser vocales de mesas las personas que sean candidatos en la elección de que se trate, sus cónyuges y sus parientes consanguíneos o afines en toda la línea recta y en la colateral hasta el segundo grado inclusive; las personas que desempeñen cargos de representación popular; las personas a cargo de los trabajos electorales que señala el artículo 10 de esta ley; los ministros de Estado, subsecretarios, delegados presidenciales regionales, delegados presidenciales provinciales, gobernadores regionales y consejeros regionales; los embajadores y cónsules de Chile; los magistrados de los tribunales superiores de justicia, los jueces que forman parte del Poder Judicial y los de Policía Local; los fiscales del Ministerio Público; los jefes superiores de servicio y secretarios regionales ministeriales; el Contralor General de la República ni los miembros de las Fuerzas Armadas y de Orden y Seguridad Pública en servicio activo. Tampoco podrán serlo los extranjeros, los no videntes, los analfabetos y aquellos que hayan sufrido condena por delitos contemplados en cualquiera de las leyes que regulan el sistema electoral público.
 
-Si por las causales anteriores no fuere posible integrar la mesa, se constituirá con ciudadanos que figuren en los padrones de mesas correspondientes a mesas contiguas.
-
 #### Artículo 46
 
-Se designarán tres vocales de las mesas receptoras de sufragios con ocasión de la elección de diputados y senadores, y dos con ocasión de la elección de alcaldes y concejales. Podrá designarse un número superior si se trata de una mesa nueva, o si alguno de los designados para elecciones anteriores que deba continuar ejerciendo esta función se hubiese cambiado de circunscripción electoral o hubiese perdido el derecho a sufragio.
+Para proceder a la designación de vocales, el Servicio Electoral pondrá a disposición de la junta electoral una nómina por mesa receptora de sufragios de los padrones electorales por mesa con carácter de definitivo, señalados en el artículo 37 bis de la ley Nº 18.556. Dichas nóminas deberán indicar expresamente a los electores que hubieren ejercido la función de vocal en cualquier lugar durante los cuatros años anteriores. Asimismo, deberán indicar expresamente a los electores que deban continuar ejerciendo la función de vocal de mesa, por no haber expirado el plazo señalado en el artículo 52. En este último caso, dichos electores serán designados como vocales en un determinado local de votación, ya sea en su mesa o en otra del mismo local, aunque provengan de otros locales de votación o circunscripciones electorales por cambio de domicilio electoral, y sin participar en el sorteo a que se refiere el inciso final.
 
-Para proceder a la designación de vocales, a partir del cuadragésimo quinto día anterior a la elección, cada uno de los miembros de la junta electoral escogerá diez nombres, que deberán corresponder a diez ciudadanos con derecho a sufragio, que aparezcan en la nómina por mesa receptora de sufragio del padrón electoral con carácter de definitivo, señalado en el artículo 34 de la ley Nº18.556, que el Servicio Electoral pondrá a disposición de la junta. Si la junta funcionare con dos miembros cada uno elegirá quince nombres.
+Sobre la base de las nóminas señaladas en el inciso anterior, cada uno de los miembros de la junta electoral escogerá diez nombres, que deberán corresponder a diez ciudadanos con derecho a sufragio. Si la junta funcionare con dos miembros, cada uno elegirá quince nombres. Al efectuar esta selección, cada miembro de la junta electoral deberá preferir a aquellas personas que puedan presumirse más aptas para desempeñar las funciones de vocales de mesa. No podrán ser seleccionados aquellos electores que hubieren ejercido la función de vocal, en cualquier lugar, durante los cuatros años anteriores.
 
-Al efectuar esta selección, cada miembro de la junta electoral deberá preferir a aquellas personas que pueda presumirse más aptas para desempeñar las funciones de vocales de mesas y a los que no hubiesen ejercido igual función durante los cuatro años anteriores.
+Se designarán tres vocales de las mesas receptoras de sufragios con ocasión de la elección de diputados y senadores, y dos con ocasión de la elección de alcaldes y concejales. Podrá designarse un número superior de vocales si se trata de mesas donde faltaren los vocales anteriormente designados que deban continuar ejerciendo esta función, de tal forma de completar los cinco vocales por mesa receptora de sufragios. Los vocales designados deberán estar asignados para sufragar en una mesa del mismo local de votación donde ejercerán su función.
 
-Escogidos los nombres, la junta electoral procederá a confeccionar para cada mesa receptora una nómina en la que se asignará a cada uno de los nombres propuestos, ordenados alfabéticamente, un número correlativo del uno al treinta.
-
-En sesión pública que se realizará en la oficina del secretario, a las catorce horas del trigésimo día anterior a la fecha de la elección o plebiscito, las juntas electorales efectuarán un sorteo de manera que los primeros números, según corresponda, sirvan para individualizar en cada nómina a las personas que se desempeñarán como vocales de las mesas receptoras, y los siguientes, en orden correlativo, a quienes deberán actuar como reemplazantes.
+Escogidos los nombres, y determinado el número de vocales faltantes a designar para cada mesa hasta completar cinco vocales y los reemplazantes, la junta electoral procederá en sesión pública a seleccionar por sorteo a los electores que ejercerán la función de vocal y los reemplazantes, mediante el sistema computacional que ponga a su disposición el Servicio Electoral y de acuerdo al procedimiento que éste instruya a través del respectivo acto administrativo. Dicha sesión se realizará en la oficina del secretario, a las catorce horas del trigésimo día anterior a la fecha de la elección.
 
 #### Artículo 47
 
@@ -530,7 +522,7 @@ De los Locales de Votación
 
 #### Artículo 58
 
-Con, a lo menos, sesenta días de anticipación a la elección o plebiscito, el Servicio Electoral determinará, para cada circunscripción electoral, los locales de votación en que funcionarán las mesas receptoras de sufragios.
+Con, a lo menos, sesenta días de anticipación a la elección o plebiscito, el Servicio Electoral determinará, para cada circunscripción electoral, los locales de votación en que funcionarán las mesas receptoras de sufragios, sobre la base del número de electores en dicha circunscripción y considerando que dichos locales de votación permitan cubrir los diferentes territorios geográficos en que pueda dividirse la circunscripción electoral.
 
 El director regional respectivo del Servicio Electoral requerirá de la comandancia de guarnición, a lo menos con sesenta días de anticipación a la determinación de los locales de votación, un informe sobre los locales o recintos, estatales o privados, que sean más adecuados para el expedito funcionamiento de las mesas, la instalación de cámaras secretas y la mantención del orden público.
 

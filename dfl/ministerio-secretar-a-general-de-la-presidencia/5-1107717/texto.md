@@ -76,9 +76,9 @@ Para los efectos de esta ley se entenderá por consulados a las Oficinas Consula
 
 #### Artículo 7
 
-El Servicio Electoral deberá comunicar a los nuevos electores el hecho de su inscripción en el Registro Electoral, entre los ciento ochenta y noventa días anteriores a la siguiente elección o plebiscito, indicando la circunscripción electoral y la mesa receptora de sufragios donde le corresponde votar, mediante carta certificada dirigida al domicilio electoral en Chile consignado en el Registro Electoral. En caso que se trate de nuevos electores con domicilio electoral en el extranjero, el Servicio Electoral efectuará la comunicación señalada enviando una notificación al correo electrónico que señale el elector, en conformidad a lo dispuesto en el artículo 6 o, en su caso, al domicilio que este haya informado. Dicha carta certificada deberá informar al elector que tiene el derecho a manifestar al Servicio Electoral su preferencia para recibir notificaciones del Servicio por medios electrónicos, con indicación del respectivo correo.
+El Servicio Electoral deberá comunicar a los nuevos electores el hecho de su inscripción en el Registro Electoral, entre los ciento ochenta y noventa días anteriores a la siguiente elección o plebiscito, indicando la circunscripción electoral donde le corresponde votar, mediante carta certificada dirigida al domicilio electoral en Chile consignado en el Registro Electoral. En caso que se trate de nuevos electores con domicilio electoral en el extranjero, el Servicio Electoral efectuará la comunicación señalada enviando una notificación al correo electrónico que señale el elector, en conformidad a lo dispuesto en el artículo 6 o, en su caso, al domicilio que este haya informado. Dicha carta certificada deberá informar al elector que tiene el derecho a manifestar al Servicio Electoral su preferencia para recibir notificaciones del Servicio por medios electrónicos, con indicación del respectivo correo.
 
-El Servicio Electoral deberá poner a disposición del público en forma permanente, a través de su sitio web y de una línea telefónica, un sistema de consulta donde cada elector podrá verificar mediante su número de cédula de identidad o nombre, el hecho de su inscripción, la circunscripción y comuna, en caso de circunscripciones nacionales; o país y ciudad, en caso de circunscripciones en el extranjero, donde se encuentra inscrito, su mesa de votación y si está habilitado para votar en la próxima elección.
+El Servicio Electoral deberá poner a disposición del público en forma permanente, a través de su sitio web y de una línea telefónica, un sistema de consulta donde cada elector podrá verificar mediante su número de cédula de identidad o nombre, el hecho de su inscripción, la circunscripción y comuna, en caso de circunscripciones nacionales; o país y ciudad, en caso de circunscripciones en el extranjero, donde se encuentra inscrito y si está habilitado para votar en la próxima elección. Adicionalmente, para cada elección o plebiscito y al menos durante los veintidós días anteriores a su realización, dicho sistema deberá informar también el local de votación, con indicación de su dirección y la mesa receptora de sufragios donde le corresponderá votar a cada elector, y si ha sido designado como vocal de mesa o miembro de un colegio escrutador.
 
 ### Párrafo 3°
 
@@ -86,7 +86,7 @@ De los Datos Electorales
 
 #### Artículo 8
 
-El Registro Electoral deberá contener los nombres y apellidos de los inscritos, e indicará para cada uno el número de rol único nacional, la fecha y el lugar de nacimiento, la nacionalidad, el sexo, la profesión, el domicilio electoral, la circunscripción electoral que corresponde a dicho domicilio con identificación de la región, provincia y comuna, o del país y ciudad extranjera, según corresponda, a que pertenezca, el número de la mesa receptora de sufragios en que le corresponde votar y el cumplimiento del requisito de avecindamiento, si procede.
+El Registro Electoral deberá contener los nombres y apellidos de los inscritos, e indicará para cada uno el número de rol único nacional, la fecha y el lugar de nacimiento, la nacionalidad, el sexo, la profesión, el domicilio electoral, la circunscripción electoral que corresponde a dicho domicilio con identificación de la región, provincia y comuna, o del país y ciudad extranjera, según corresponda, a que pertenezca y el cumplimiento del requisito de avecindamiento, si procede.
 
 El Registro Electoral también deberá contener los antecedentes necesarios para determinar si la persona inscrita ha perdido la ciudadanía, el derecho a sufragio o se encuentra éste suspendido.
 
@@ -112,19 +112,13 @@ Para efectos del registro automático de las personas referidas en los artículo
 
 #### Artículo 11
 
-Todo elector con derecho a sufragio deberá estar inscrito en una mesa receptora de sufragios que pertenezca a la circunscripción electoral correspondiente a su domicilio electoral.
+Todo elector con derecho a sufragio deberá estar inscrito en la circunscripción electoral correspondiente a su domicilio electoral.
 
 Si los antecedentes del domicilio o lugar de nacimiento con que se cuente para el registro automático de las personas referidas en los artículos 5 y 6 no permitieran al Servicio Electoral poder identificarlos con una determinada circunscripción electoral, procederá a registrarlos en la circunscripción electoral con más electores de la comuna o país con cuya información se cuente.
 
 #### Artículo 12
 
-Al momento de la inscripción de un elector o modificación de la existente, el Servicio Electoral asignará a las mesas receptoras de sufragios a los nuevos electores inscritos o aquellos que hayan modificado su domicilio electoral, en orden correlativo de su rol único nacional y sin distinción de sexo.
-
-En primer lugar serán asignados a las mesas receptoras de sufragios existentes de la circunscripción que tengan menos de trescientos cincuenta electores habilitados para votar debido a cancelaciones de inscripción producidas por cambio de domicilio electoral, por fallecimiento o por inhabilidad permanente para sufragar, hasta completar la cifra máxima de trescientos cincuenta electores por mesa.
-
-Si realizado lo anterior quedaren nuevos electores por asignar, ellos serán destinados a nuevas mesas receptoras de sufragios que se crearán para estos efectos, las que tendrán como máximo trescientos cincuenta electores.
-
-Cada elector sólo podrá ser asignado a una mesa receptora de sufragios y no podrá ser cambiado de ella mientras mantenga su domicilio electoral vigente en dicha circunscripción electoral.
+Derogado.
 
 ### Párrafo 4°
 
@@ -216,7 +210,7 @@ Sin perjuicio de lo dispuesto en el artículo anterior, el cambio de domicilio p
 
 Para efectos de lo establecido en el inciso anterior, la Dirección General de Asuntos Consulares y de Inmigración del Ministerio de Relaciones Exteriores implementará las medidas necesarias para facilitar la inscripción en el Registro Electoral o el trámite de cambio de domicilio electoral de los chilenos residentes en el extranjero y otras tendientes al mejor cumplimiento de sus funciones vinculadas al ejercicio del sufragio en el extranjero, de acuerdo a las instrucciones que, para estos efectos, dicte el Consejo Directivo del Servicio Electoral.
 
-El Servicio Electoral deberá notificar al elector que ha procedido al cambio de su domicilio en el registro, indicando la circunscripción electoral y mesa de sufragio donde le corresponderá votar. Esta notificación se realizará mediante medios electrónicos en el caso de que así lo hubiese solicitado el elector expresamente o, en su defecto, por medio de carta certificada enviada al domicilio consignado en el Registro Electoral. A los electores cuyo nuevo domicilio se encuentre en el extranjero se les notificará mediante correo electrónico a la casilla que informen para tales efectos durante el cambio de domicilio o, en su caso, mediante carta certificada enviada al domicilio señalado por éstos.
+El Servicio Electoral deberá notificar al elector que ha procedido al cambio de su domicilio en el registro, indicando la circunscripción electoral donde le corresponderá votar. Esta notificación se realizará mediante medios electrónicos en el caso de que así lo hubiese solicitado el elector expresamente o, en su defecto, por medio de carta certificada enviada al domicilio consignado en el Registro Electoral. A los electores cuyo nuevo domicilio se encuentre en el extranjero se les notificará mediante correo electrónico a la casilla que informen para tales efectos durante el cambio de domicilio o, en su caso, mediante carta certificada enviada al domicilio señalado por éstos.
 
 El Servicio Electoral podrá disponer de otras formas para solicitar el cambio de domicilio electoral, ya sea a distancia o por medios electrónicos, siempre que estas garanticen la confiabilidad en la identidad del elector y la seguridad de sus datos.
 
@@ -278,7 +272,7 @@ Para cada uno de los padrones electorales, el Servicio Electoral determinará un
 
 Cada Padrón Electoral con carácter de provisorio será objeto de auditorías conforme al párrafo 2° de este título.
 
-Estos padrones se ordenarán en forma alfabética y contendrán los nombres y apellidos del elector, su número de rol único nacional, sexo, domicilio electoral con indicación de la circunscripción electoral, comuna, provincia y región a la que pertenezcan, o del país y ciudad extranjera, según sea el caso, y el número de mesa receptora de sufragio en que le corresponde votar.
+Estos padrones se ordenarán en forma alfabética y contendrán los nombres y apellidos del elector, su número de rol único nacional, sexo, domicilio electoral con indicación de la circunscripción electoral, comuna, provincia y región a la que pertenezcan, o del país y ciudad extranjera, según sea el caso, en que le corresponde votar.
 
 Junto con cada padrón, y dentro del mismo plazo, el Servicio Electoral elaborará dos nóminas provisorias de Inhabilitados, que incluirá a las personas inscritas que se encuentren inhabilitadas para votar en la correspondiente elección o plebiscito, y que sufraguen dentro o fuera de Chile, según corresponda, con indicación de la causal que dio lugar a dicha condición.
 
@@ -320,15 +314,29 @@ Cuando deba repetirse la elección presidencial, en virtud de ocurrir alguna de 
 
 #### Artículo 37
 
-El Servicio Electoral, en la misma oportunidad en que debe determinar los padrones electorales con carácter de definitivo, deberá confeccionar los padrones de mesa que se utilizarán en la respectiva elección o plebiscito.
+Determinados los padrones electorales definitivos que se señalan en el artículo 34 y antes del trigésimo día anterior a la elección o plebiscito, el Servicio Electoral procederá a determinar las mesas receptoras de sufragios, los locales de votación en que ellas funcionarán, y los electores que deberán emitir su sufragio en cada una de dichas mesas.
 
-A cada mesa receptora de sufragios, en Chile o en el extranjero, le corresponderá un padrón de mesa.
+Para efectos de lo señalado en el inciso anterior, se procederá para cada circunscripción electoral como sigue:
 
-Cada padrón de mesa contendrá una nómina, ordenada alfabéticamente, de las personas habilitadas para votar en la mesa receptora de sufragios respectiva.
+a) Se determinará el número de mesas receptoras de sufragios que funcionarán en la circunscripción electoral respectiva dividiendo el número de sus electores habilitados para sufragar en la elección por cuatrocientos. Si el resultado no fuera un número entero, deberá aproximarse al entero más cercano. En ningún caso una mesa receptora de sufragios podrá tener más de cuatrocientos cincuenta electores.
 
-Los padrones de mesa contendrán los nombres y apellidos de cada elector y su número de rol único nacional.
+b) Se asignará un número correlativo a cada mesa receptora de sufragios de la circunscripción electoral respectiva partiendo desde el número uno en adelante.
 
-Cada elector podrá figurar sólo en un padrón de mesa y una vez en él.
+c) Se determinarán los locales de votación, de conformidad a lo señalado en el artículo 58 de la ley Nº 18.700. Luego, se procederá a dividir el territorio jurisdiccional de la circunscripción electoral en tantas partes como locales de votación existan, asignando a cada local de votación la parte del territorio adyacente a éste.
+
+En aquellas circunscripciones electorales con más de un local de votación, se determinarán las mesas que funcionarán en cada local. Si sólo hubiese un local de votación en la circunscripción electoral, todos los electores serán asignados a mesas en ese local.
+
+d) Cada elector será asignado a una mesa receptora de sufragios de un local de votación, determinado según el literal precedente, que pertenezca al territorio jurisdiccional de la circunscripción electoral correspondiente a su domicilio electoral. La asignación se hará de acuerdo con el procedimiento que el Servicio Electoral determine a través del respectivo acto administrativo, procurando que el local de votación sea el más cercano al domicilio electoral respectivo.
+
+Si la información del domicilio electoral no existiera o fuese incompleta, se asignará al elector a uno cualquiera de los locales de votación de la circunscripción.
+
+e) La asignación a las mesas receptoras de sufragios en cada local de votación se hará según el orden alfabético del primer apellido del elector, cuidando que todas las mesas del local tengan en lo posible el mismo número de electores y que ninguna sobrepase los cuatrocientos cincuenta electores.
+
+#### Artículo 37 bis
+
+Asignados los electores a las mesas receptoras de sufragios, el Servicio Electoral deberá determinar, antes de los treinta días anteriores a la elección, los padrones de mesa que se utilizarán en la respectiva elección o plebiscito. A cada mesa receptora de sufragios, en Chile o en el extranjero, le corresponderá un padrón de mesa.
+
+Cada padrón de mesa contendrá una nómina de las personas habilitadas para votar en la mesa receptora de sufragios respectiva, ordenada alfabéticamente. Los padrones de mesa contendrán los nombres y apellidos de cada elector y su número de rol único nacional. Cada elector podrá figurar sólo en un padrón de mesa y una vez en él.
 
 #### Artículo 38
 
@@ -446,7 +454,7 @@ El Servicio Electoral, por resolución fundada, podrá crear circunscripciones e
 
 La resolución determinará el territorio jurisdiccional de las nuevas circunscripciones y se publicará dentro de quinto día en el sitio electrónico del Servicio Electoral. Sin perjuicio de lo anterior, podrán difundirse avisos por otros medios de comunicación social, cuando las circunstancias lo requieran, o en el caso de circunscripciones en el extranjero.
 
-El Servicio Electoral, por resolución fundada, podrá cancelar una circunscripción electoral cuando lo hagan aconsejable circunstancias tales como la cantidad de población o las dificultades para sufragar. En este caso, deberá asignar a los electores a la circunscripción más cercana incorporándolos a una mesa receptora de sufragios de conformidad al artículo 12 y efectuando la comunicación señalada en el artículo 7, inciso primero, de esta ley. Sin perjuicio de lo anterior, el Servicio Electoral no podrá cancelar una circunscripción en el extranjero, si ésta es la única existente en el respectivo país.
+El Servicio Electoral, por resolución fundada, podrá cancelar una circunscripción electoral cuando lo hagan aconsejable circunstancias tales como la cantidad de población o las dificultades para sufragar. En este caso, deberá asignar a los electores a la circunscripción electoral más cercana efectuando la comunicación señalada en el inciso primero del artículo 7. Sin perjuicio de lo anterior, el Servicio Electoral no podrá cancelar una circunscripción en el extranjero, si ésta es la única existente en el respectivo país.
 
 ## Título V
 
