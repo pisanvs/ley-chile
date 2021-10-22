@@ -1,16 +1,30 @@
-APRUEBA REGLAMENTO DE USO DE FRENTES DE ATRAQUE DE LA EMPRESA PORTUARIA VALPARAISO
+MODIFICA RESOLUCIÓN Nº 440 EXENTA, DE 1999, QUE APRUEBA REGLAMENTO DE USO DE FRENTES DE ATRAQUE DE LA EMPRESA PORTUARIA VALPARAÍSO EN EL SENTIDO QUE INDICA
 
-Núm. 440 exenta.- Santiago, 30 de marzo de 1999.- Visto: Artículo 22 de la ley Nº 19.542; el ordinario Nº 236 de 29 de marzo de 1999, dirigida al Sr. Ministro de Transportes y Telecomunicaciones por el Sr. Gerente General de la Empresa Portuaria Valparaíso.
+Núm. 3.244 exenta.- Santiago, 13 de septiembre de 2021.
 
-Considerando: La exigencia que impone la ley Nº 19.542 para que cada empresa cuente con un reglamento interno de uso de frentes de atraque para cada puerto de su competencia, el que debe ser propuesto por ella al Ministerio de Transportes y Telecomunicaciones para su aprobación, rechazo o modificación.
+Visto:
 
-R e s u e l v o:
+Lo dispuesto en el artículo 22 de la ley Nº 19.542, que moderniza el sector portuario estatal; la resolución exenta Nº 440, de 30 de marzo de 1999, del Ministerio de Transportes y Telecomunicaciones, que aprueba el Reglamento de Uso de Frentes de Atraque de la Empresa Portuaria Valparaíso; el decreto exento Nº 1.802, de 2017, del Ministerio de Transportes y Telecomunicaciones, que imparte lineamientos de política portuaria y criterios de buenas prácticas aplicables a sistema portuario estatal de la ley Nº 19.542; la ley Nº 18.482; la carta Nº GL/052/2021, de 9 de agosto de 2021, de la Empresa Portuaria Valparaíso; el certificado Nº 41/2021, de 4 de agosto de 2021, del Secretario del Directorio de la Empresa Portuaria Valparaíso; la resolución Nº 7, de 2019, de la Contraloría General de la República, que fija normas sobre exención de trámite de toma de razón; y la demás normativa aplicable.
 
-Apruébase el Reglamento de Uso de Frentes de Atraque propuesto por la Empresa Portuaria Valparaíso, con las modificaciones que se han introducido por este Ministerio, las que se incorporan a su texto, el que se adjunta a la presente resolución, para los efectos que se disponga su publicación en el Diario Oficial.
+Considerando:
 
-Anótese y publíquese.- Claudio Hohmann Barrientos, Ministro de Transportes y Telecomunicaciones.
+1.- La exigencia que impone la ley Nº 19.542, mediante su artículo 22, para que cada empresa cuente con un reglamento interno de uso de frentes de atraque para cada puerto de su competencia, el que debe ser propuesto por ella al Ministerio de Transportes y Telecomunicaciones para su aprobación, rechazo o modificación.
 
-Lo que transcribo para su conocimiento.- Saluda a Ud., Patricia Muñoz Villela, Jefe Depto. Administrativo.
+2.- La competencia de las empresas portuarias estatales, establecida mediante el artículo 8, numeral 4, de la ley Nº 19.542, para elaborar y supervisar el cumplimiento de la reglamentación necesaria para el funcionamiento de los puertos y terminales que administren, incluido el reglamento de uso de frentes de atraque que establece el artículo 22.
+
+3.- Los lineamientos para la actualización de los Reglamentos de Uso de Frentes de Atraque impartidos por el Ministerio de Transportes y Telecomunicaciones, el 29 de diciembre de 2017, a las empresas portuarias estatales en el marco de las metas sobre la materia establecidas en los respectivos Planes de Gestión Anual 2018, mediante los cuales se busca amparar y reforzar el desarrollo tecnológico de los diferentes eslabones de la cadena portuaria, así como la capacidad de coordinación de las diferentes actividades, ejercida por las Empresas Portuarias.
+
+4.- Los lineamientos de política portuaria y criterios de buenas prácticas aplicables al sistema portuario estatal de la ley Nº 19.542, impartidos mediante el decreto exento Nº 1.802, del Ministerio de Transportes y Telecomunicaciones, de 28 de septiembre de 2017, que tienen como objetivo reforzar el rol coordinador de las Empresas Portuarias sobre las actividades, marítimas y terrestres, que se realizan en los respectivos recintos portuarios y áreas que administran bajo cualquier título.
+
+5.- La necesidad, prevista en el artículo 3 de la ley Nº 19.542, que los puertos y terminales que administren las Empresas Portuarias serán de uso público y prestarán servicios en forma continua y permanente.
+
+6.- Lo establecido en el artículo 6º del decreto ley Nº 2.222, que señala que los Gobernadores Marítimos y Capitanes de Puerto desempeñarán sus funciones como delegados del Director, y serán los encargados de fiscalizar el cumplimiento de las disposiciones legales o reglamentarias dentro de su territorio jurisdiccional.
+
+7.- La evolución de la industria logístico-portuaria hacia una estructura de servicios prestados en red por parte de diversos actores, que refuerza el rol coordinador de la Empresa Portuaria, a fin de impulsar el funcionamiento globalmente eficiente y competitivo de la cadena logística, hechos de los que da cuenta la Minuta de 28 de octubre de 2019, emanada del Programa de Desarrollo Logístico de la Subsecretaría de Transportes.
+
+Resuelvo:
+
+Modifícase la resolución exenta Nº 440, de 1999, que aprueba el Reglamento de Uso de Frentes de Atraque de la Empresa Portuaria Valparaíso, en el sentido de reemplazarlo por el texto que por este acto se aprueba y transcribe a continuación:
 
 REGLAMENTO DE USO DE FRENTES DE ATRAQUE DE EMPRESA PORTUARIA VALPARAÍSO
 
@@ -114,7 +128,7 @@ A) Rol Coordinador Marítimo
 
 #### Artículo 17
 
-La Empresa, en su rol coordinador, podrá requerir a la Autoridad Marítima (1) que, en cumplimiento de sus facultades, ordene el desatraque de una nave cuando su permanencia en el muelle respectivo afecte la eficiencia operacional en virtud de una cualquiera de las siguientes causales:
+La Empresa, en su rol coordinador, podrá requerir a la Autoridad Marítima 1 que, en cumplimiento de sus facultades, ordene el desatraque de una nave cuando su permanencia en el muelle respectivo afecte la eficiencia operacional en virtud de una cualquiera de las siguientes causales:
 
 a) Cuando la nave sufra un accidente o siniestro que comprometa la seguridad de las personas, instalaciones portuarias, las demás naves atracadas en el puerto, las mercancías depositadas o por razones de interés nacional, debidamente calificadas como tales por la autoridad competente.
 
@@ -138,7 +152,7 @@ Los actores participantes de la coordinación marítima, tales como agencias de 
 
 ____________
 
-1 Dirección General del Territorio Marítimo y de Marina Mercante (Directemar).
+(1) Dirección General del Territorio Marítimo y de Marina Mercante (Directemar).
 
 #### Artículo 19
 
@@ -437,3 +451,5 @@ Es permitir a los Servicios Públicos competentes el acceso libre y gratuito a l
 j) DE CONTROL Y COORDINACIÓN DE CIRCULACIÓN ENTRE LAS ÁREAS DE LA EMPRESA
 
 Corresponden a las actividades de control y gestión de la circulación de vehículos y Usuarios entre las Áreas de la Empresa.
+
+Anótese y publíquese en el Diario Oficial.- Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
