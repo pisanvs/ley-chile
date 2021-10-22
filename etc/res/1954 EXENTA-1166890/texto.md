@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 1.954, de fecha 12 de julio de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, que produce efectos desde su fecha de dictación, se prohíbe el día 12 de julio del presente año, por episodio crítico de preemergencia ambiental por material particulado respirable MP10 y MP2,5, adicionalmente a lo establecido por resolución exenta Nº 893, de 2021, de la misma Secretaría Regional; la circulación de vehículos motorizados que se señalan en siguiente cuadro; encontrándose exceptuados de esta restricción todos los vehículos aludidos en el Resuelvo 2º de la resolución exenta Nº 893, de 2021, ya citada:
+
+Alfredo Andrés Quezada Martínez, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
