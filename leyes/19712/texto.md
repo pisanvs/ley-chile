@@ -988,17 +988,19 @@ El Fondo estará constituido por los recursos que anualmente contemple la Ley de
 
 Los recursos del Fondo deberán destinarse a los siguientes objetivos:
 
-a) Financiar, total o parcialmente, planes, programas, actividades y proyectos de fomento de la educación física y de la formación para el deporte, como asimismo, de desarrollo de la ciencia del deporte y de capacitación y perfeccionamiento de recursos humanos de las organizaciones deportivas;
+a) Financiar, total o parcialmente, planes, programas, actividades y proyectos de fomento de la educación física y de la formación para el deporte, como asimismo, de desarrollo de la ciencia del deporte y de capacitación y perfeccionamiento de recursos humanos de las organizaciones deportivas, y prioritariamente deberán destinarse a proyectos dirigidos a población vulnerable.
 
-b) Fomentar y apoyar, a través de medidas específicas de financiamiento, el deporte escolar y recreativo;
+b) Fomentar y apoyar, a través de medidas específicas de financiamiento, el deporte escolar y recreativo, y prioritariamente fomentarlos y apoyarlos en sectores donde se ubica la población vulnerable.
 
-c) Apoyar financieramente al deporte de competición comunal, provincial, regional y nacional;
+c) Apoyar financieramente al deporte de competición comunal, provincial, regional y nacional, destinando prioritariamente ese financiamiento a la población en edad escolar, población vulnerable, y a personas en situación de discapacidad.
 
-d) Apoyar financieramente al deporte de proyección internacional y de alto rendimiento;
+d) Apoyar financieramente al deporte de proyección internacional y de alto rendimiento, destinando ese financiamiento prioritariamente a deportistas en sus etapas más tempranas, tanto en la detección como en su formación.
 
-e) Financiar, total o parcialmente, la adquisición, construcción, ampliación y reparación de recintos para fines deportivos, y
+e) Financiar, total o parcialmente, la adquisición, construcción, ampliación y reparación de recintos para fines deportivos, destinando ese apoyo financiero prioritariamente a los territorios más carenciados o vulnerables.
 
-f) Fomentar y apoyar, a través de medidas específicas de financiamiento, el deporte adaptado y paralímpico.
+f) Fomentar y apoyar, a través de medidas específicas de financiamiento, el deporte adaptado y paralímpico, destinando prioritariamente estas medidas de financiamiento a los grupos más vulnerables de ese segmento deportivo.
+
+A lo menos el 40 por ciento de los recursos del Fondo destinados a financiar proyectos de Formación para el Deporte, Deporte Recreativo y Deporte de Competición, deberán focalizarse preferentemente entre las personas o grupos vulnerables definidos en conformidad al numeral 3) del artículo 2º de la ley Nº 20.530, que crea el Ministerio de Desarrollo Social y Familia y modifica cuerpos legales que indica. Para ello, las bases de concurso establecerán siempre entre sus factores de priorización, la vulnerabilidad de la o las comunas beneficiarias y de la población objeto del proyecto.
 
 El Instituto, con cargo al Fondo Nacional para el Fomento del Deporte, podrá complementar las donaciones del sector privado que se efectúen a proyectos concursables orientados al cumplimiento de los objetivos definidos en el presente artículo, pudiendo para ello destinarse, como máximo, un 50% del presupuesto de dicho Fondo.
 
