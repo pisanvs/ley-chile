@@ -44,7 +44,7 @@ Decreto:
 
 #### Artículo 1
 
-Determínese que el aporte estatal a que se refiere el artículo 49 de la ley N° 19.378, que corresponde transferir, por intermedio de la municipalidad respectiva, a todas las entidades administradoras de salud municipal, incluidas las mencionadas en el artículo 2° letra c) y en el artículo 3°, por el período comprendido entre los meses de enero a diciembre del año 2020, ambos meses inclusive, asciende hasta la suma de $1.294.282.433.977 (un billón doscientos noventa y cuatro mil doscientos ochenta y dos millones cuatrocientos treinta y tres mil novecientos setenta y siete pesos).
+Determínese que el aporte estatal a que se refiere el artículo 49 de la ley N° 19.378, que corresponde transferir, por intermedio de la municipalidad respectiva, a todas las entidades administradoras de salud municipal, incluidas las mencionadas en el artículo 2° letra c) y en el artículo 3°, por el período comprendido entre los meses de enero a diciembre del año 2020, ambos meses inclusive, asciende hasta la suma de $1.296.626.452.356.- (un billón doscientos noventa y seis mil seiscientos veintiséis millones cuatrocientos cincuenta y dos mil trescientos cincuenta y seis pesos).
 
 #### Artículo 2
 
@@ -56,7 +56,7 @@ Los directores de Servicio de Salud deberán notificar a la entidad administrado
 
 El monto del aporte estatal se determina aplicando a un aporte general y básico, los criterios de incremento o rebaja, según corresponda, señalados en el artículo 49 de la ley N°19.378 en la proporción y forma que a continuación se indican:
 
-a) Aporte básico unitario homogéneo. Corresponde al per cápita basal, por beneficiario inscrito en los establecimientos municipales de atención primaria de salud de cada comuna, que corresponde a $7.211 (siete mil doscientos once pesos).
+a) Aporte básico unitario homogéneo. Corresponde al per cápita basal, por beneficiario inscrito en los establecimientos municipales de atención primaria de salud de cada comuna, que corresponde a $7.367 (siete mil trescientos sesenta y siete pesos).
 
 b) Incremento del per cápita basal. El per cápita basal se incrementará en base a los siguientes criterios:
 
