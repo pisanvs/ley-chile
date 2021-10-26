@@ -62,21 +62,21 @@ I.- ÁMBITO OPERACIONAL: DE LA AERONAVE Y TRIPULACIÓN
 
 12. El explotador de la aeronave deberá reforzar los procedimientos y la instrucción a las tripulaciones para detectar y manejar las situaciones de insubordinación de pasajeros disruptivos o vinculados con el incumplimiento de las medidas sanitarias y de seguridad operacional en el embarque y durante el vuelo, lo que deberá estar implementado en el plazo de diez días contados desde la publicación de la presente resolución.
 
-13. Durante toda la operación en tierra, el Comandante de la Aeronave deberá evitar el uso fuentes externas de aire pre-acondicionado (PCA), ya que estas no tienen instalado filtros HEPA ni hacen pasar el aire por los filtros del avión.
+13. Durante toda la operación en tierra, el Comandante de la Aeronave podrá hacer uso de fuentes externas de aire pre-acondicionado (PCA). Si no se dispone de una calidad del aire equivalente a estas unidades de PCA, se debe hacer uso del APU de la aeronave en la puerta de embarque para hacer funcionar el sistema de aire acondicionado de la aeronave.
 
-14. El explotador de la aeronave deberá permitir el uso APU/ASU/motor para mantener en funcionamiento el sistema de aire acondicionado y fan de recirculación de la aeronave durante todo el proceso de operación en tierra, en especial durante el procedimiento de embarque.
+### 14. Eliminado
 
 15. El explotador de la aeronave deberá consultar los documentos publicados por el fabricante para determinar la configuración del sistema de aire acondicionado y de recirculación, en aquellos casos en que estos sistemas no tengan instalado Filtros HEPA, lo anterior con el objeto de que aun sin los filtros Hepa, la cabina disponga de la mejor renovación de aire posible.
 
 16. El Comandante de Aeronave durante todo el embarque y desembarque, deberá operar los sistemas de inyección de aire fresco y de recirculación de aire para renovar el aire de la cabina, teniendo en cuenta lo siguiente:
 
-. Para aeronaves con sistema de aire acondicionado, poner en marcha las unidades de aire acondicionado (usando el aire de purga del grupo auxiliar de energía o de los motores) o suministrar aire por medio de una fuente externa de aire pre-acondicionado durante al menos 10 minutos antes de proceder al embarque.
+. Para aeronaves con sistema de aire acondicionado, poner en marcha las unidades de aire acondicionado (usando el aire de purga del grupo auxiliar de energía o de los motores) o suministrar aire por medio de una fuente externa de aire pre-acondicionado durante el embarque y desembarque.
 
 . Para aeronaves con filtros HEPA, poner en marcha el sistema de recirculación para maximizar el flujo de aire que se filtra.
 
 . Para las aeronaves sin sistema de aire acondicionado, mantener abiertas las puertas de la aeronave (puerta de pasajeros, puerta de servicio y puerta de carga) durante el tiempo de servicio de escala para facilitar la renovación del aire de la cabina.
 
-17. En todo momento en que la aeronave esté con pasajeros y cuente con Filtros HEPA, el Comandante de la Aeronave deberá activar el sistema de recirculación de aire para maximizar el flujo a través de los filtros. Durante el vuelo, deberá operar los sistemas de Aire Acondicionado y de Recirculación con todos los Packs en posición "AUTO" y Fans de recirculación encendidos.
+17. Durante el vuelo, hacer funcionar los sistemas de Aire Acondicionado con todas las unidades en modo automático (Auto) y mantener encendidas los fans de recirculación. Válido sólo si se confirma que hay filtros de recirculación de aire HEPA instalados. Si el procedimiento operacional de la aeronave en vuelo exige que las unidades de aire acondicionado estén apagadas para el despegue, las mismas deberían volver a encenderse en cuanto sea posible sin afectar el empuje.
 
 18. Si hay instalados filtros que no son HEPA, el explotador de la aeronave, deberá comunicarse con el fabricante de ésta para obtener recomendaciones sobre la configuración de recirculación. Si el procedimiento operativo de la aeronave en vuelo requiere que los sistemas de Aire Acondicionado estén apagados para despegar, el aire acondicionado debe volver a encenderse tan pronto como lo permitan los procedimientos de la aeronave.
 
@@ -126,7 +126,7 @@ Los explotadores de aeronaves deberán asegurarse que el personal que realiza la
 
 III.- ÁMBITO: SISTEMA DE GESTIÓN DE SEGURIDAD OPERACIONAL
 
-1. El explotador de aeronaves deberá incorporar en su Sistema de Gestión de Seguridad Operacional (SMS) todos los aspectos que deriven en riesgos y peligros producto de la operación en situación de pandemia, entre otros, en especial los aspectos de factores humanos, debiendo elaborar y actualizar en forma permanente los an�lisis de gestión de riesgos y/o análisis de gestión de cambio según corresponda y ponerlos a disposición de esta autoridad aeronáutica, cuando sean requeridos.
+1. El explotador de aeronaves deberá incorporar en su Sistema de Gestión de Seguridad Operacional (SMS) todos los aspectos que deriven en riesgos y peligros producto de la operación en situación de pandemia, entre otros, en especial los aspectos de factores humanos, debiendo elaborar y actualizar en forma permanente los análisis de gestión de riesgos y/o análisis de gestión de cambio según corresponda y ponerlos a disposición de esta autoridad aeronáutica, cuando sean requeridos.
 
 2. Dentro de los aspectos más importantes a incorporar en el SMS, deberá considerar, entre otros, los siguientes:
 
@@ -165,5 +165,7 @@ g) tipo de riesgo para la salud pública, si se conoce".
 Fuente: OACI, Doc. 4444 Gestión del Tráfico Aéreo, Décima Sexta edición, Enmienda 8, Capítulo 16, Página 16-7.
 
 Apéndice 2
+
+> **Nota.** El numeral 1° de la Resolución 1342 Exenta, Defensa, publicada el 26.10.2021, modifica la presente norma en el sentido de reemplazar, entre otros, el párrafo 19 del resuelvo I "Ámbito Operacional: De la Aeronave y Tripulación". Sin embargo, no se puede incorporar en el presente texto actualizado en razón de que la citada norma no contiene el texto a reemplazar.
 
 Anótese, comuníquese y publíquese en el Diario Oficial.- Víctor Villalobos Collao, General de Aviación, Director General.
