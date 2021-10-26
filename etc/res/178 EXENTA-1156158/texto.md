@@ -78,6 +78,8 @@ d) De lo establecido en los artículos 70 y 71, en relación con la obligación 
 
 e) De cumplir con lo señalado en el numeral 1, del Artículo 38, en relación con la obligación de contratar Fiscalización Técnica de Obras (FTO), para proyectos que superen las 7.500 UF.
 
+f) Exímase a las Entidades Patrocinantes que postulan proyectos al presente llamado, de cumplir con lo señalado en el numeral 2, del artículo 34 del DS Nº 27 (V. y U.), de 2016, en relación con el impedimento establecido para las Entidades Patrocinantes, de participar en los respectivos llamados, por contar con servicios y/o productos de Asistencia Técnica pendientes de ejecutar, respecto a proyectos del DS Nº 255 (V. y U.), de 2006, cuya vigencia de subsidios se encuentre vencida y para los cuales no hubiere procedido el cierre administrativo de proyectos.
+
 6. El llamado considera 3 selecciones, cuyos plazos de procesos y fases de postulación correspondientes a la 1ª selección son los siguientes:
 
 La 1ª selección dispondrá del 100% de los recursos señalados en el resuelvo 7 y los llamados siguientes dispondrán de los saldos sucesivos.
@@ -93,6 +95,8 @@ Además de los puntajes establecidos en el artículo 72 del DS Nº 27 (V. y U.),
 Puntaje para comunas del Catastro Nacional de Equipamiento Comunitario y Obras Menores del Minvu. Se otorgará un puntaje adicional de acuerdo al estado de avance que presenten las comunas en la implementación del catastro, de acuerdo al siguiente criterio:
 
 7. Los recursos disponibles para efectuar la selección de proyectos, que incluyen el monto del subsidio más la Asistencia Técnica respectiva, se distribuirán regionalmente según lo señalado en la siguiente tabla:
+
+.
 
 Con estos montos se determinará el número de postulantes que deberán presentar las carpetas de sus proyectos al Serviu. También tendrán que presentar sus carpetas los postulantes de la lista de espera a que se refiere el segundo párrafo del numeral 2 del artículo 27 del DS Nº 27 (V. y U.), de 2016, que para las selecciones de este llamado incluirán todos los proyectos hábiles.
 
