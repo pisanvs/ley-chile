@@ -24,7 +24,7 @@ Considerando:
 
 Resolución:
 
-1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado, correspondientes a proyectos que integren personas que formen parte del Registro de Familias del Programa de Asentamientos Precarios del Ministerio de Vivienda y Urbanismo, a nivel nacional. En tal sentido, se efectuarán procesos de selección en forma mensual, con los proyectos calificados para dichos efectos hasta los días 14 de abril, 10 de junio, 22 de julio, 26 de agosto y 25 de noviembre de 2021.
+1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado, correspondientes a proyectos que integren personas que formen parte del Registro de Familias del Programa de Asentamientos Precarios del Ministerio de Vivienda y Urbanismo, a nivel nacional. En tal sentido, se efectuarán procesos de selección en forma mensual, con los proyectos calificados para dichos efectos hasta los días 14 de abril, 10 de junio, 22 de julio, 26 de agosto, 28 de octubre y 25 de noviembre de 2021.
 
 2. Los proyectos habitacionales que postulen al presente llamado deberán estar integrados a lo menos en un 50% por núcleos atendidos por el Programa de Asentamientos Precarios del Ministerio de Vivienda y Urbanismo, respecto de la cabida total de viviendas del proyecto, considerando tanto a las familias que postulen, como aquellas que se asocien al proyecto con un subsidio obtenido en un proceso de selección anterior.
 
@@ -52,10 +52,6 @@ Los antecedentes que se presenten al Serviu para efectos de obtener la calificac
 
 .
 
-La imputación de recursos correspondiente a familias del Catastro Nacional de Campamentos se hará con cargo a los recursos identificados en el Programa del Fondo Solidario de Elección de Vivienda como "Sin Regionalizar". La imputación de recursos correspondientes a familias que no integren dicho catastro se hará con cargo a los recursos del Programa del Fondo Solidario de Elección de Vivienda de cada región.
-
-El número de proyectos seleccionados alcanzará hasta el número de subsidios susceptibles de ser financiados con los recursos señalados en el presente resuelvo, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras.
-
 7. Podrán postular al presente llamado personas del Registro de Familias del Programa de Asentamientos Precarios, de 50 años o más, o que los cumplan durante esta anualidad, que estén afectas al impedimento de no acreditar núcleo familiar a que se refiere el literal h) del artículo 4 del DS Nº 49 (V. y U.), de 2011.
 
 8. Exímase a las familias inscritas en el Registro de Familias del Programa de Asentamientos Precarios, que sean incorporadas en proyectos habitacionales que participen de los procesos de selección convocados por la presente resolución, del cumplimiento del requisito de pertenecer al 40% más vulnerable de la población según el mecanismo de caracterización social vigente del Ministerio de Desarrollo Social y Familia, a que se refiere el inciso segundo del artículo 1 del DS Nº 49 (V. y U.), de 2011.
@@ -75,6 +71,8 @@ El número de proyectos seleccionados alcanzará hasta el número de subsidios s
 15. Establécese que el monto de subsidio base para los proyectos que participen del presente llamado será de 330 Unidades de Fomento, al que se le aplicará el factor multiplicador definido en la resolución exenta Nº 1.874 (V. y U.), de 2015, según la comuna donde se ubique el proyecto.
 
 Sin perjuicio de lo anterior, el monto de subsidio base para las regiones y comunas que a continuación se identifican, será el siguiente, al que se le aplicará el factor multiplicador definido en la resolución exenta Nº 1.874 (V. y U.), de 2015.
+
+Establécese que para el financiamiento de los proyectos de la Región Metropolitana que participen del presente llamado, el monto de subsidio base será de 560 Unidades de Fomento, monto total al que no se aplicará el factor multiplicador definido en la resolución exenta Nº 1.874 (V. y U.), de 2015.
 
 16. La certificación del ahorro que se señala en el penúltimo inciso del artículo 39 del DS Nº 49 (V. y U.), de 2011, se podrá producir en fecha posterior al ingreso de los antecedentes del grupo organizado al Sistema Informático respectivo. De esta forma, el proyecto obtendrá su Certificado de Proyecto Ingresado, con lo que se dará inicio a su proceso de evaluación, aun cuando las familias no cumplan con el ahorro mínimo a que se refiere el resuelvo 10 y el resuelvo 13 de esta resolución.
 
