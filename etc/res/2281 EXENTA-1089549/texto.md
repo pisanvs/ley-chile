@@ -60,7 +60,7 @@ En caso que dos o más grupos manifiesten interés en un mismo terreno, se suscr
 
 c. Carta Compromiso:
 
-De encontrarse disponible el terreno, y teniendo presente los elementos señalados en la letra b., precedente, del presente resuelvo, el Director del Serviu y los representantes legales del grupo organizado y/o de la Entidad Patrocinante con convenio marco vigente, suscribirán una carta compromiso, cuyo plazo de vigencia será de hasta 1 año, dentro del cual deberá ingresarse un proyecto al Banco de Postulaciones del Serviu. El Serviu podrá renovar, por una sola vez, y por el plazo de 1 año adicional, la carta compromiso en caso que no se cumpla con el ingreso del proyecto señalado.
+De encontrarse disponible el terreno, y teniendo presente los elementos señalados en la letra b., precedente, de este resuelvo, el Director del Serviu y los representantes legales del grupo organizado y/o de la Entidad Patrocinante con convenio marco vigente, suscribirán una carta compromiso, cuyo plazo de vigencia será de hasta 2 años, dentro del cual deberá ingresarse un proyecto al Banco de Postulaciones del Serviu. El aludido Servicio podrá renovar, por una sola vez, y por el plazo de 2 años adicionales, la carta compromiso en caso de que no se cumpla con el ingreso del proyecto señalado, a consecuencia de la existencia de gestiones pendientes para su factibilización.
 
 El proyecto ingresado deberá conservar a lo menos a un 80% de las familias originalmente consideradas en la solicitud del terreno por parte del grupo organizado y/o los representantes de la Entidad Patrocinante, en caso contrario, el Serviu podrá rechazar el proyecto y dejar sin efecto el compromiso adquirido.
 
@@ -78,13 +78,15 @@ iv. Constancia de la necesidad de realizar acciones para factibilizar el desarro
 
 v. Fijará un valor estimativo del terreno, como mínimo a un precio equivalente al de su avalúo fiscal, respecto de los lotes con destino habitacional, incluyendo bienes comunes en caso de copropiedades, y excluyendo las áreas destinadas a cesiones y a bienes nacionales de uso público. El valor final podrá rectificarse según el proyecto definitivo que se ingrese al Serviu, según los lotes habitacionales resultantes, de conformidad a lo establecido en el inciso final del artículo 19 del DS Nº 49 (V. y U.), de 2011. No se requerirá fijar este valor en caso que se aplique lo establecido en la Glosa 6 de Vivienda, asociada al subtítulo 33 ítem 1, del Presupuesto del Ministerio de Vivienda y Urbanismo para el año 2016, aprobado por ley Nº 20.882, y las instrucciones que al respecto se impartan.
 
-vi. El compromiso del Serviu de poner a disposición el terreno para el desarrollo del proyecto habitacional de que se trate. La entrega del terreno se verificará sólo una vez que las personas interesadas cuenten con el proyecto habitacional calificado y las familias estén beneficiadas con los subsidios habitacionales correspondientes.
+vi. Como requisito para comprometer el terreno se exigirá a las familias obligarse a cumplir con un ahorro mínimo para financiar el proyecto a ingresar, el que se determinará según el valor por metro cuadrado de éste, establecido en la tasación Serviu que se realizará para estos efectos, y el tramo a que pertenezcan según el instrumento de caracterización socioeconómica vigente. Los montos mínimos de ahorro a comprometer serán los siguientes:
 
-vii. El compromiso de la Entidad Patrocinante a desarrollar el proyecto que mejor resuelva las necesidades habitacionales del grupo que representa. En todo caso, las Entidades Patrocinantes distintas del Serviu declararán expresamente que aceptan someterse a la supervigilancia que la SEREMI estime pertinente respecto del cumplimiento de sus obligaciones.
+vii. El compromiso del Serviu de poner a disposición el terreno para el desarrollo del proyecto habitacional de que se trate. La entrega del terreno se verificará sólo una vez que las personas interesadas cuenten con el proyecto habitacional calificado y las familias estén beneficiadas con los subsidios habitacionales correspondientes.
 
-viii. Deberá adjuntar el(los) documento(s) que acredite(n) el acuerdo de los miembros del grupo de solicitar al Serviu el compromiso del terreno singularizado para el desarrollo de su proyecto, cuando corresponda.
+viii. El compromiso de la Entidad Patrocinante a desarrollar el proyecto que mejor resuelva las necesidades habitacionales del grupo que representa. En todo caso, las Entidades Patrocinantes distintas del Serviu declararán expresamente que aceptan someterse a la supervigilancia que la SEREMI estime pertinente respecto del cumplimiento de sus obligaciones.
 
-ix. Otras contenidos que el Serviu estime necesario incluir para resguardar el cumplimiento de los compromisos adquiridos por las partes y asegurar el mejor destino y uso de sus terrenos comprometidos, conforme a objetivos y lineamientos del Programa Habitacional Fondo Solidario de Elección de Vivienda.
+ix. Deberá adjuntar el(los) documento(s) que acredite(n) el acuerdo de los miembros del grupo de solicitar al Serviu el compromiso del terreno singularizado para el desarrollo de su proyecto, cuando corresponda.
+
+x. Otras contenidos que el Serviu estime necesario incluir para resguardar el cumplimiento de los compromisos adquiridos por las partes y asegurar el mejor destino y uso de sus terrenos comprometidos, conforme a objetivos y lineamientos del Programa Habitacional Fondo Solidario de Elección de Vivienda.
 
 d. Información a remitir.
 
