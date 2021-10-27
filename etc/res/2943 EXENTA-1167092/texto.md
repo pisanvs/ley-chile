@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 2.943 EXENTA, DE 27 DE SEPTIEMBRE DE 2021
+
+Mediante resolución exenta N° 2.943, de 27 de septiembre de 2021, el Servicio Nacional de Capacitación y Empleo declara el cese, a contar del 31 de agosto de 2021, de la inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "Servicios de Capacitación Marisol Vivian de Lourde Santibáñez Torres E.I.R.L. (Servicios de Capacitación Marisol Vivian)", RUT 76.400.875-8, contenida en la resolución exenta N° 4.083, de 1 de octubre de 2015, por cuanto dejó de cumplir con el requisito establecido en el N° 2, del Art. 21 de la ley 19.518.
+
+Santiago, 27 de septiembre de 2021.- Andrea del Carmen Contreras Cuéllar, Jefe del Departamento de Desarrollo y Regulación de Mercado, Servicio Nacional de Capacitación y Empleo.
