@@ -18,9 +18,11 @@ Decreto:
 
 1º.- Autorízase la circulación en horario inhábil, y en días sábado en la tarde, domingo y festivos a los vehículos estatales asignados a las Secretarías Regionales Ministeriales que se indican a continuación, conforme a lo establecido en los artículos 1° del decreto ley Nº 799, de 1974.
 
-2º.- Exímase, de la obligación de llevar pintado el disco fiscal distintivo a que se refiere el artículo 3° del decreto ley Nº 799, del Ministerio del Interior, a los vehículos asignados a las Secretarías Regionales Ministeriales de Gobierno del Ministerio Secretaría General de Gobierno de las Regiones de Arica y Parinacota, Antofagasta, Valparaíso, del General Libertador Bernardo O'Higgins, del Maule, de Ñuble, de Aysén del General Carlos Ibáñez del Campo, y de Magallanes y la Antártica Chilena, de conformidad a lo dispuesto en el artículo 3º del decreto ley Nº 799, de 1974, del Ministerio del Interior, individualizados en el artículo primero precedente.
+2º.- Exímase, de la obligación de llevar pintado el disco fiscal distintivo a que se refiere el artículo 3° del decreto ley Nº 799, del Ministerio del Interior, a los vehículos asignados a las Secretarías Regionales Ministeriales de Gobierno del Ministerio Secretaría General de Gobierno de las Regiones de Arica y Parinacota, Antofagasta, Tarapacá, Valparaíso, del General Libertador Bernardo O'Higgins, del Maule, de Ñuble, de Aysén del General Carlos Ibáñez del Campo, y de Magallanes y la Antártica Chilena, de conformidad a lo dispuesto en el artículo 3º del decreto ley Nº 799, de 1974, del Ministerio del Interior, individualizados en el artículo primero precedente.
 
 3º.- Déjase sin efecto, los decretos exentos Nº 5, de 31 de enero de 2019, y Nº 17, de 25 de marzo de 2019, ya citados.
+
+> **Nota.** El numeral 1° del Decreto 16 Exento, Secretaria general de Gobierno, publicado el 21.10.2021, modifica la presente norma en el sentido de reemplazar la tabla del N° 2 por la que indica la citada norma.
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Jaime Bellolio Avaria, Ministro Secretario General de Gobierno.- Rodrigo Delgado Mocarquer, Ministro del Interior y Seguridad Pública.
 
