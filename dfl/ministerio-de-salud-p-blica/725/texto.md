@@ -1672,11 +1672,19 @@ DE LAS SANCIONES Y MEDIDAS SANITARIAS
 
 (165).- La infracción de cualquiera de las disposiciones de este Código o de sus reglamentos y de las resoluciones que dicten los Directores de los Servicios de Salud o el Director del Instituto de Salud Pública de Chile, según sea el caso, salvo las disposiciones que tengan una sanción especial, será castigada con multa de un décimo de unidad tributaria mensual hasta mil unidades tributarias mensuales. Las reincidencias podrán ser sancionadas hasta con el doble de la multa original.
 
-Las resoluciones que establezcan las infracciones y determinen las multas tendrán mérito ejecutivo y se harán efectivas de acuerdo con los artículos 434 y siguientes del Código de Procedimiento Civil.
-
 Las infracciones antes señaladas podrán ser sancionadas, además, con la clausura de establecimientos, recintos, edificios, casas, locales o lugares de trabajo donde se cometiere la infracción; con la cancelación de la autorización de funcionamiento o de los permisos concedidos; con la paralización de obras o faenas; con la suspensión de la distribución y uso de los productos de que se trate, y con el retiro, decomiso, destrucción o desnaturalización de los mismos, cuando proceda.
 
 Lo anterior es sin perjuicio de hacer efectivas las responsabilidades que establezcan otros cuerpos legales respecto de los hechos.
+
+#### Artículo 174 bis
+
+Las resoluciones que establezcan las infracciones y determinen las multas tendrán mérito ejecutivo y se harán exigibles por la Tesorería General de la República, en los términos previstos en el inciso segundo del artículo 35 del decreto ley N° 1.263, de 1975, orgánico de Administración Financiera del Estado.
+
+El retardo en el pago de estas multas devengará los intereses y reajustes establecidos en el artículo 53 del Código Tributario.
+
+La Tesorería General de la República hará uso del mecanismo contemplado en el artículo 6 del Estatuto Orgánico del Servicio de Tesorerías, cuyo texto refundido, coordinado, sistematizado y actualizado fue fijado por el decreto con fuerza de ley N° 1, de 1994, del Ministerio de Hacienda.
+
+Sin perjuicio de lo dispuesto en los incisos anteriores, en el pago de estas multas se podrá aplicar lo dispuesto en el artículo 192 del Código Tributario, en lo que corresponda.
 
 #### Artículo 175°
 
@@ -1698,9 +1706,9 @@ Sin perjuicio de la sanción que corresponda al beneficiario que infringiere est
 
 Estas medidas podrán ser impuestas por el ministro de fe, con el solo mérito del acta levantada, cuando exista un riesgo inminente para la salud, de lo que deberá dar cuenta inmediata a su jefe directo. Copia del acta deberá ser entregada al interesado.
 
-#### Artículo 179°
+#### Artículo 179
 
-(170).- Las multas que se impongan por infracción a las disposiciones del presente Código y sus reglamentos o a las resoluciones del Director General de Salud, serán a beneficio del Servicio Nacional de Salud y no estarán afectas al recargo establecido por la ley N° 10.309. Las multas deberán integrarse directamente al organismo local de salud que las aplicó.
+Las multas que se impongan por infracción a las disposiciones de este Código y sus reglamentos o a las resoluciones de la autoridad sanitaria serán a beneficio fiscal.
 
 #### Artículo 180°
 
