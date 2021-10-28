@@ -36,6 +36,12 @@ El monto de las tarifas que se determine conforme al art. 3º, se reajustará ap
 
 De conformidad a la ley quedarán exentos automáticamente de dicho pago aquellos usuarios cuya vivienda o unidad habitacional tenga un avalúo igual o inferior a 225 Unidades Tributarias Mensuales.
 
+Durante la vigencia del actual Estado de Excepción Constitucional de Catástrofe, y hasta un año después de vencido dicho término, la Municipalidad podrá rebajar la tarifa de aseo domiciliario y exceptuar de ella, en los porcentajes y circunstancias que se indicarán a continuación:
+
+Quedarán exceptuados del pago los siguientes contribuyentes: las mujeres jefas de hogar mayores de sesenta años, y los hombres mayores de sesenta y cinco años; personas en situación de discapacidad certificadas por el Compin; las mujeres y hombres que detenten el cuidado personal de un niño/a menor de 18 años, y si fuere mayor de dicha edad, que se encontrare cursando su educación superior; y las personas que por cualquier causal sobreviniente experimenten una situación de necesidad manifiesta, que será declarada en tal sentido por la Dirección de Desarrollo Comunitario.
+
+Sin perjuicio de las exenciones anteriores, estarán afectos a rebaja de un 100, 50 o 25%, según evaluación de la Dirección de Desarrollo Comunitario, los casos especiales definidos como enfermedades raras y catastróficas, que padezcan o estuvieren padeciendo el o la obligada al pago, o un ascendiente o descendiente directo de este último. Para todos los efectos, se entenderá por enfermedad catastrófica aquella que motive un gasto permanente, ya sea en tratamientos, medicamentos, exámenes y/o atenciones médicas periódicas y prolongadas, y que, a juicio de la Dirección de Desarrollo Comunitario signifique un desmedro grave en la atención de sus necesidades básicas del grupo familiar.
+
 #### Artículo 8º
 
 La Dirección de Finanzas deberá mantener actualizado el rol de predios exentos de conformidad a la Ley de Rentas II, mediante la información entregada por el Servicio de Impuestos Internos.
