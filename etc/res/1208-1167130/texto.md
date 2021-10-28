@@ -1,0 +1,3 @@
+1.- AUTORIZA PROCESO DE EVALUACIÓN DE COMPETENCIAS Y PRÁCTICA EN SIMULADOR DE MÁQUINAS EN DEPENDENCIAS DEL ORGANISMO TÉCNICO DE CAPACITACIÓN "ACADEMIA NÁUTICA DEL SUR LIMITADA (ACASUR)", SEDE PUERTO MONTT
+
+Resolución D.G.T.M. y M.M. Ordinario N° 12600/01/1208 Vrs., del 04 de octubre de 2021, autoriza proceso de evaluación de competencias y práctica en Simulador de Máquinas en dependencias del Organismo Técnico de Capacitación "Academia Náutica del Sur Limitada (Acasur)", sede Puerto Montt.
