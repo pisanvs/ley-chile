@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 652, de fecha 13 de octubre de 2021, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, se autorizó a la Escuela de Conductores Profesionales denominada Sociedad de Capacitación Interlagos Ltda., RUT N° 76.289.710-5, domiciliada en calle Valdivia N° 543, comuna y ciudad de San Fernando, cuyo representante legal es don Eduardo Humberto Ibáñez González, cédula nacional de identidad N° 9.151.929-1, cuyos planes y programas fueron autorizados mediante resolución exenta N° 791, de 29 de septiembre de 2009, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, para impartir los cursos conducentes a la obtención de la Licencia de Conductor Profesional Clases A2, A3 y A4, en la modalidad e-learning, bajo el formato de ejecución asincrónico.-
+
+Hans González González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
