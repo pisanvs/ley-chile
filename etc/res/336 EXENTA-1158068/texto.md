@@ -20,11 +20,13 @@ Que, en atención a que las obras de reparación, mejoramiento y/o adecuación d
 
 1. Llámase a postulación para el otorgamiento de subsidios correspondientes al Capítulo Tercero: Proyectos para Condominios de Viviendas, del Programa de Mejoramiento de Viviendas y Barrios, regulado por el DS Nº 27 (V. y U.), de 2016, para Condominios de Viviendas Sociales calificados como objeto de atención del programa, según lo establecido en el Artículo 4, del citado reglamento o por el DS Nº 255/2006 (V. y U.), que se encuentren emplazados en la Región Metropolitana, y consideren obras correspondientes a Mejoramiento de Bienes Comunes edificados y/o ampliación de la vivienda en copropiedad.
 
-Contempla 2 selecciones con las siguientes especificidades:
+Contempla 3 selecciones con las siguientes especificidades:
 
 a. Primera Selección: Proyectos con certificaciones reguladas por el DS Nº 255/2006, y certificaciones otorgadas el año 2020 reguladas por el DS Nº 27/2016. Para proyectos habilitados o en lista de espera de acuerdo a visto 23, y que hayan sido rechazados, en alguna de las factibilidades, durante el Llamado de Condominios de Viviendas Sociales 2020 (de acuerdo a listado en Anexo 3).
 
 b. Segunda Selección: Proyectos con certificaciones reguladas por el DS Nº 255/2016 otorgadas el año 2019, y certificaciones otorgadas los años 2020 y 2021 reguladas por el DS Nº27/2016, y además proyectos calificados favorablemente por Serviu Metropolitano, pero sin asignación, provenientes del proceso de la Primera Selección.
+
+c. Tercera Selección: Proyectos rechazados en etapa de digitación de postulaciones provenientes del proceso de la Segunda Selección (se excluyen proyectos sin actualización de certificaciones según lo establecido en visto 20 de la presente resolución). Lo anterior conforme a anexo N° 4, adjunto al presente acto.
 
 2. Los plazos correspondientes a los procesos y fases de postulación y selección de este llamado, serán los siguientes:
 
@@ -33,6 +35,12 @@ Plazos para 1º proceso postulación y selección:
 Plazos para 2º proceso postulación y selección:
 
 .
+
+Plazos para 3º proceso postulación y selección:
+
+.
+
+Del mismo modo, el período de presentación de Proyectos podrá extenderse dentro del plazo de Revisión y Calificación de Proyectos, para el 2º y 3º proceso de postulación y selección.
 
 3. Para habilitar la Certificación de Condominio objeto, esta Secretaría Regional de Vivienda y Urbanismo, ha dispuesto un ingreso digital en el contexto del Estado de Excepción Constitucional de Catástrofe, por Calamidad Pública, declarado en el territorio de Chile. Mediante esta plataforma, las comunidades de copropietarios y residentes interesadas en postular deberán presentar un Expediente digital que contenga los antecedentes que permitan acreditar la condición de condominio objeto del llamado. Dicho Expediente, deberá ser presentado por una Entidad Patrocinante (E.P.), según lo indica el Artículo 34 del DS Nº 27 (V. y U.), de 2016.
 
@@ -56,9 +64,13 @@ b. En el condominio no formalizado, los copropietarios y/o residentes postulante
 
 Para el presente Llamado, el plazo establecido para la actualización de antecedentes será:
 
+.
+
 10. El proceso de postulación de los proyectos se realizará conforme las etapas que describe el Artículo 27, numeral 1, 2, 3, y 4 del DS Nº 27 (V. y U.), de 2016, considerando lo siguiente:
 
 a. Fase de Digitación de las postulaciones: Será responsabilidad de las Entidades Patrocinantes, ingresar completa y correctamente los antecedentes de los postulantes y del proyecto, en el Sistema habilitado por el Ministerio de Vivienda y Urbanismo. Además, será responsabilidad de las EP verificar su capacidad máxima y digitar las postulaciones en base lo establecido en el numeral 1 del Artículo 34 del DS Nº 27 (V. y U.). El plazo correspondiente a esta fase será el siguiente:
+
+.
 
 A fin de dar curso a lo establecido en el Artículo 27, numeral 1, del DS Nº 27 (V. y U.), de 2016, los antecedentes de los postulantes y del proyecto que serán requeridos al momento del ingresar las postulaciones en la etapa de Digitación, a través del procedimiento dispuesto por el Ministerio de Vivienda y Urbanismo, serán los siguientes:
 
@@ -71,6 +83,8 @@ A fin de dar curso a lo establecido en el Artículo 27, numeral 1, del DS Nº 27
 . Certificado de Recepción de Obras, otorgado por la Dirección de Obras Municipales respectiva, a fin de acreditar la antigüedad de la copropiedad y/o la superficie original promedio de las viviendas a ampliar. En caso de que dicho antecedente no exista por razones de fuerza mayor, Serviu deberá indicar el documento oficial a emplearse.
 
 b. Fase de Habilitación de las postulaciones: A la nómina de postulantes válidos emitida por el Serviu Metropolitano, en la fase anterior, esta Secretaría Regional de Vivienda y Urbanismo, aplicará los factores de selección nacional según el Artículo 94, numeral 1 y 3 del DS Nº 27 (V. y U.), de 2016. Además, aplicará los factores regionales establecidos en resuelvo 14 de la presente resolución en estricto orden de prioridad y según la disponibilidad presupuestaria, definiendo así la nómina de postulantes habilitados para presentar proyectos al Serviu Metropolitano. Así mismo, la Seremi definirá una lista de espera con la totalidad de proyectos aprobados en etapa de digitación de postulaciones en sistema habilitado para el DS 27/2016. Acogiéndose a la facultad del Secretario Ministerial de Vivienda y Urbanismo Metropolitano, y en atención al financiamiento disponible, se establecerá mediante resolución exenta la nómina y el orden de prelación de copropiedades que cumplan con los requisitos válidos de acuerdo a los puntajes Nacionales y Regionales de las postulaciones que resulten habilitadas por Serviu-Seremi para la siguiente etapa. El plazo correspondiente a esta fase será el siguiente:
+
+.
 
 De acuerdo a lo establecido en la resolución exenta Nº 353 citada en el visto 20 de la presente resolución exenta, se establece un 50% del monto de ahorro establecido en el artículo 88 del DS (V. y U.), de 2016 y, de acuerdo a lo establecido por el Serviu Metropolitano, se deberá acreditar el ahorro, a partir de la fecha de asignación de selección de copropiedades.
 
@@ -104,13 +118,17 @@ No obstante, en atención al Artículo 27, numeral 3, del DS Nº 27 (V. y U.), d
 
 El plazo correspondiente a esta fase será el siguiente:
 
+.
+
 Los proyectos presentados al Serviu Metropolitano, que cumplan lo establecido en el Resuelvo 1, cuando hayan sido beneficiados anteriormente con un subsidio regulado por el decreto supremo Nº255 (V. y U.) de 2006, solo podrán presentar partidas para la ejecución de obras diferentes de aquellas para las cuales recibieron en subsidio anterior.
 
 Aquellos proyectos que por resolución exenta de Condominio Objeto contengan partidas aprobadas de subsidio de Acondicionamiento Térmico y/o Iluminación Fotovoltaica, deberán ceñirse a las exigencias contenidas en las resoluciones que norman los estándares técnicos para los referidos tipos de obras, citadas en los vistos 10, 11 y 13 del presente llamado.
 
-d. Fase Revisión y Calificación de Proyectos: El Serviu Metropolitano, revisará las factibilidades técnicas, administrativas, legales y sociales únicamente de proyectos habilitados por resolución Seremi de V. y U., ciñéndose estrictamente la elaboración de los proyectos a las partidas prioritarias establecidas por resolución de Condominio Objeto de Programa de la Seremi. El proceso correspondiente a la primera selección, no considerará instancia de observaciones y la segunda selección considerará solo una instancia de observaciones.
+d. Fase Revisión y Calificación de Proyectos: El Serviu Metropolitano, revisará las factibilidades técnicas, administrativas, legales y sociales únicamente de proyectos habilitados por resolución Seremi de V. y U., ciñéndose estrictamente la elaboración de los proyectos a las partidas prioritarias establecidas por resolución de Condominio Objeto de Programa de la Seremi. El proceso correspondiente a la primera y tercera selección, no considerará instancia de observaciones y la segunda selección considerará solo una instancia de observaciones.
 
 El Serviu Metropolitano comunicará a la Entidad Patrocinante las calificaciones y, en el caso de los rechazos, las inconformidades detectadas y deberá excluir dicho proyecto del proceso de selección. Los plazos correspondientes a esta fase serán los siguientes:
+
+.
 
 En el caso de los proyectos habilitados que ingresen al Serviu Metropolitano, en la modalidad de condominio no formalizado las EP deberán identificar en la presentación de los Antecedentes Sociales y Jurídicos, al técnico o profesional del área jurídica que será responsable y estará a cargo de conducir las acciones correspondientes al proceso de formalización de la copropiedad.
 
@@ -120,7 +138,11 @@ Una vez dictada la resolución exenta de proyectos hábiles seleccionados corres
 
 12. Los recursos disponibles para efectuar la selección de proyectos será el siguiente:
 
+.
+
 13. Considerando los recursos establecidos en el Resuelvo precedente, se identifica los montos que serán destinados a la selección de: Condominios Sociales que conforman la demanda general del programa; Condominios Sociales insertos en conjuntos habitacionales que, en virtud de las resoluciones exentas citadas en el Visto 7 y 8 de la presente resolución exenta, se encuentran en los barrios seleccionados por el Programa de Recuperación de Barrios y, Condominios Sociales de Interés Regional:
+
+.
 
 La distribución de montos contemplada en el cuadro anterior podrá experimentar variaciones en función de la proyección de demanda habilitada en etapa de certificación de condominios objeto de programa o en fase de habilitación de copropiedades.
 
