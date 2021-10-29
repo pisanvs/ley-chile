@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "ENEL GREEN POWER CHILE S.A."
+
+Mediante decreto exento Nº 556, de 21 de octubre de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Enel Green Power Chile S.A.", RUT Nº 76.412.562-2, el inmueble fiscal denominado "Lote 1", Reserva Eólica Taltal 1, ubicado en la Ruta 5 km 1200, aproximadamente a 60 km al noreste de la ciudad de Taltal, comuna de Taltal, provincia y Región de Antofagasta, singularizado en el Plano Nº 02104-9.318-C.R., de una superficie total de 2.772,11 ha; enrolado en el Servicio de Impuestos Internos bajo el Rol Nº 507-53, amparado por la inscripción global a nombre del Fisco que rola a fojas 46 Nº 45 del Registro de Propiedad del año 2015, del Conservador de Bienes Raíces de Taltal. La concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la concesión para el Período de Estudios y Construcción será de UF 73.825,3; y para el Periodo de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La concesión se otorga para ejecutar proyecto de Energía Renovable (ERNC). El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
