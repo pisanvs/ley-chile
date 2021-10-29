@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "IBEREÓLICA ERNC ANTOFAGASTA SpA"
+
+Mediante decreto exento N° 552, de 21 de octubre de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Ibereólica ERNC Antofagasta SpA", R.U.T. N° 77.285.671-7, el inmueble fiscal denominado "Lote A", Reserva Eólica Taltal 2, ubicado en la Ruta 5 Km. 1200, aproximadamente a 81 kms. al noreste de la ciudad de Taltal, comuna de Taltal, provincia y Región de Antofagasta, singularizado en el Plano N° 02104-9.324-C.R., de una superficie total de 1.657,80 hás.; enrolado en el Servicio de Impuestos Internos bajo el Rol N° 507-56, amparado por la inscripción global a nombre del Fisco que rola a fojas 96 N° 90 del Registro de Propiedad del año 2002 del Conservador de Bienes Raíces de Taltal. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de U.F. 45.000; y para el Periodo de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
