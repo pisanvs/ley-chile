@@ -48,19 +48,17 @@ Considerando:
 
 Resuelvo:
 
-> **Nota.** El número 74 del Capítulo III de la Resolución 494 Exenta, Salud, publicada el 14.04.2022, dispone el reemplazo de la presente norma, sin perjuicio de que las resoluciones que disponen las medidas sanitarias que indican por brote de COVID-19, todas de 2020 y 2021 del Ministerio y en las modificaciones posteriores que se hagan a ésta, seguirán vigentes en lo que no fueran contrarias a esta resolución.
-
 CAPÍTULO I. DE LAS MEDIDAS SANITARIAS GENERALES
 
 ### I. Aduanas Sanitarias y controles sanitarios
 
-1. Sobre la instalación de aduanas sanitarias y controles sanitarios. Instrúyase a las Secretarías Regionales Ministeriales de Salud del país la instalación de aduanas sanitarias y realización de controles sanitarios en todos aquellos puntos de entrada al país.
+1. Sobre la instalación de aduanas sanitarias y controles sanitarios. Instrúyase a las Secretarías Regionales Ministeriales de Salud del país la instalación de aduanas sanitarias y realización de controles sanitarios en todos aquellos puntos de entrada al país, además de puertos, aeropuertos y terminales de buses que se encuentren en su región.
 
-2. De las aduanas sanitarias. Las aduanas sanitarias controlarán la Declaración Jurada de la que trata el Título I de la resolución exenta Nº 672, de 2021, del Ministerio de Salud, y los documentos requeridos para ingresar al país, según lo dispuesto en la normativa sanitaria.
+2. De las aduanas sanitarias. Las aduanas sanitarias controlarán los Pasaportes Sanitarios. Será obligatoria la conservación y exhibición a la autoridad competente del Pasaporte Sanitario para las personas que los obtengan, ya sea de forma física o digital.
 
-Será obligatoria la conservación y exhibición a la autoridad competente de dicha Declaración Jurada para las personas que la obtenga, ya sea de forma física o digital.
+El Pasaporte Sanitario será necesario para todos los traslados interregionales, que se realicen en medios de transporte públicos, como buses, minibuses, trenes y aviones.
 
-### 3. Eliminado
+3. Sobre la exhibición del Pasaporte Sanitario a funcionarios de medios de transportes. No obstante, las facultades de fiscalización propias de la autoridad competente, los trabajadores y prestadores de servicios que laboren en empresas de transporte aéreo, marítimo, terrestre o ferroviario, deberán solicitar la exhibición del Pasaporte Sanitario a los pasajeros de todos los servicios interregionales que hayan sido abordados en recintos donde no esté implementada una aduana sanitaria. Solo podrá abordar al medio de transporte aquella persona que exhiba un Pasaporte Sanitario, y que acredite su identidad.
 
 ### II. Sobre las medidas sanitarias en los Establecimientos de Larga Estadía de Adultos Mayores
 
@@ -74,23 +72,19 @@ Todos los residentes podrán recibir visitas de vínculos significativos, a peti
 
 Todos los residentes podrán recibir visitas de vínculos significativos, a petición del niño, niña o adolescente, o del visitante, adoptándose todos los resguardos que sean necesarios y cumpliéndose con las medidas sanitarias correspondientes al Paso aplicable.
 
-III bis. Sobre las medidas sanitarias en piscinas públicas.
-
-5 bis. Se deberá exigir el Pase de Movilidad habilitado de que trata el acápite XVI, a todas las personas que ingresen al recinto donde se encuentre una piscina pública, siendo responsable del cumplimiento de esta medida el dueño de dicho recinto.
-
 ### IV. Sobre las cuarentenas y aislamientos en razón de circunstancias epidemiológicas
 
 6. Definición de caso confirmado. Se entenderá que una persona está diagnosticada o es un caso confirmado con COVID-19 cuando se cumpla alguna de las siguientes hipótesis:
 
 a. La persona cuenta con un resultado positivo para SARS-CoV-2 en un test PCR.
 
-b. La persona presenta un resultado positivo en una prueba de antígenos para SARS-CoV-2, tomado en un centro de salud mandatado, para estos efectos, por la autoridad sanitaria.
+b. La persona se encuentra en la hipótesis definida como caso sospechoso -según lo dispuesto en el numeral 11 de la presente resolución- y presenta un resultado positivo en una prueba de antígenos para SARS-CoV-2, tomado en un centro de salud mandatado, para estos efectos, por la autoridad sanitaria.
 
 7. Aislamiento de personas contagiadas. Dispóngase que las personas diagnosticadas con COVID-19 según lo dispuesto en el numeral anterior deben cumplir un aislamiento de acuerdo a los siguientes criterios:
 
-a. Si el paciente presenta síntomas, el aislamiento será por 7 días desde la fecha de inicio de los síntomas.
+a. Si el paciente presenta síntomas, el aislamiento será por 10 días desde la fecha de inicio de los síntomas.
 
-b. Si el paciente no presenta síntomas, el aislamiento será por 7 días desde la fecha de toma de muestra del examen que identificó la infección.
+b. Si el paciente no presenta síntomas, el aislamiento será por 10 días desde la fecha de toma de muestra del examen que identificó la infección.
 
 Con todo, la autoridad sanitaria o el médico tratante podrán disponer un tiempo de aislamiento mayor en consideración a las condiciones clínicas particulares del paciente, o la situación epidemiológica particular.
 
@@ -100,51 +94,59 @@ Exceptúase de lo dispuesto precedentemente a aquellas personas asintomáticas a
 
 Se entenderá como búsqueda activa de casos COVID-19 aquel proceso en virtud del cual la autoridad sanitaria u otra institución mandatada por ella, realiza un test PCR o test de antígeno que cumpla con los criterios establecidos por el Ministerio de Salud, independiente de la sospecha clínica de la persona.
 
-8 bis. Definición de persona en alerta COVID-19. Se entenderá que una persona se encuentra en alerta COVID-19, cuando se cumpla alguna de las siguientes hipótesis:
+9. Definición de contacto estrecho. Se entenderá por contacto estrecho aquella persona que ha estado en contacto con un caso confirmado o probable con COVID-19, entre 2 días antes del inicio de síntomas y 10 días después del inicio de síntomas del enfermo.
 
-a. La persona vive o ha estado a menos de un metro de distancia, sin mascarilla o sin el uso correcto de mascarilla, de un caso probable o de un caso confirmado sintomático entre los 2 días antes y hasta 7 días después del inicio de síntomas del caso.
+En el caso de una persona que no presente síntomas, el contacto deberá haberse producido entre 2 días antes de la toma de muestra del test PCR o prueba de antígenos para SARS-CoV-2 y durante los 10 días siguientes a dicha toma de muestra.
 
-b. La persona vive o ha estado a menos de un metro de distancia, sin mascarilla o sin el uso correcto de mascarilla, de un caso probable o de un caso confirmado asintomático entre los 2 días antes y hasta 7 días después de la toma de muestra de test PCR o antígeno para SARS-CoV-2, tomado en un centro de salud mandatado por la autoridad sanitaria.
-
-No podrá obstaculizarse la concurrencia de una persona que cumpla con las condiciones para ser calificado como persona en alerta COVID-19 señalados en este numeral, a un centro de salud mandatado por la autoridad sanitaria u otro tipo de establecimiento, sean móviles o no, para la toma de muestra de antígeno para SARS-CoV-2
-
-9. Definición de contacto estrecho. En el caso de brotes confirmados y priorizados por la autoridad sanitaria, luego de la investigación epidemiológica, dicha autoridad podrá calificar como contacto estrecho a aquella persona que haya estado expuesta a un caso confirmado o probable con COVID-19, entre 2 días antes del inicio de síntomas y 7 días después del inicio de síntomas del enfermo.
-
-En el caso de una persona que no presente síntomas, el contacto deberá haberse producido entre 2 días antes de la toma de muestra del test PCR o prueba de antígenos para SARS-CoV-2 y durante los 7 días siguientes a dicha toma de muestra.
-
-En ambos supuestos, para calificarse dicho contacto como estrecho, por la autoridad sanitaria en contexto de brotes confirmados y priorizados, deberá cumplirse además alguna de las siguientes circunstancias:
+En ambos supuestos, para calificarse dicho contacto como estrecho deberá cumplirse además alguna de las siguientes circunstancias:
 
 a. Haber mantenido más de 15 minutos de contacto cara a cara o contacto físico, a menos de un metro, sin el correcto uso de mascarilla.
 
 b. Haber compartido un espacio cerrado por 2 horas o más, en lugares tales como oficinas, recintos de trabajo, reuniones, colegios, entre otros, sin el correcto uso de mascarilla.
 
-c. Cohabitar o pernoctar en el mismo hogar o lugares similares, internados, instituciones cerradas, ELEAM, residencias, viviendas colectivas o recintos de trabajo, entre otros, excluyendo hoteles.
+c. Cohabitar o pernoctar en el mismo hogar o lugares similares a un hogar, tales como hostales, internados, instituciones cerradas, ELEAM, hoteles, residencias, viviendas colectivas y recintos de trabajo entre otros.
 
-d. Haberse trasladado en cualquier medio de transporte cerrado a una proximidad menor de un metro con otro ocupante del medio de transporte que esté contagiado, sin el correcto uso de mascarilla, por al menos 2 horas.
+d. Haberse trasladado en cualquier medio de transporte cerrado a una proximidad menor de un metro con otro ocupante del medio de transporte que esté contagiado, sin el correcto uso de mascarilla.
 
-e. Haber brindado atención directa a un caso probable o confirmado, por un trabajador de la salud, sin mascarilla de tipo quirúrgico y protección ocular. Si se realiza un procedimiento generador de aerosoles de mayor riesgo, sin respirador N95 o equivalente, ni protección ocular.
+e. Haber brindado atención directa a un caso probable o confirmado, por un trabajador de la salud, sin mascarilla de tipo quirúrgico y protección ocular. Si se realiza un procedimiento generador de aerosoles de mayor riesgo, sin respirador N95 o equivalente, ni antiparras.
 
-Mediante la investigación epidemiológica de la autoridad sanitaria, se podrá considerar a una persona como contacto estrecho, aun cuando no se haya cumplido a cabalidad con las circunstancias indicadas anteriormente.
+El cumplimiento de las circunstancias indicadas precedentemente podrá ser objeto de una investigación epidemiológica de la autoridad sanitaria, en virtud de la cual se podrá considerar a una persona como contacto estrecho, aun cuando no se haya cumplido a cabalidad con las circunstancias indicadas anteriormente.
 
-Sin perjuicio de lo dispuesto precedentemente, no se considerará contacto estrecho a una persona durante un periodo de 60 días después de haber sido un caso confirmado de COVID-19.
+Sin perjuicio de lo dispuesto precedentemente, no se considerará contacto estrecho a una persona durante un periodo de 90 días después de haber sido un caso confirmado de COVID-19.
 
-10. Aislamiento de personas en razón de experimentar un contacto estrecho. Dispóngase que las personas definidas como contacto estrecho por la autoridad sanitaria en contexto de brotes confirmados y priorizados deben cumplir con la medida de cuarentena por 7 días. La circunstancia de contar con un resultado negativo en un test de PCR para SARS-CoV-2 no eximirá a la persona del cumplimiento total del aislamiento dispuesto en este numeral.
+10. Aislamiento de personas en razón de experimentar un contacto estrecho. Dispóngase que las personas que hayan estado en contacto estrecho con una persona diagnosticada con COVID-19 deben cumplir con la medida de cuarentena por 7 días, si la persona cuenta con un esquema completo de vacunación -y han transcurrido 14 días-, o 10 días, si la persona cuenta con esquema incompleto, no han transcurrido 14 días desde la vacunación completa o no cuenta con vacunación contra el COVID-19, desde la fecha del último contacto. La circunstancia de contar con un resultado negativo en un test de PCR para SARS-CoV-2 no eximirá a la persona del cumplimiento total del aislamiento dispuesto en este numeral.
 
 Sin perjuicio de lo dispuesto precedentemente, la autoridad sanitaria podrá disponer de un tiempo mayor de aislamiento en consideración a las condiciones epidemiológicas particulares.
 
 11. Definición de caso sospechoso. Para efectos de esta resolución, se entenderá como caso sospechoso:
 
-a. aquella persona que presenta un cuadro agudo de enfermedad que presente al menos un síntoma cardinal o dos síntomas no cardinales, de los que trata el numeral 15.
+a. aquella persona que presenta un cuadro agudo de enfermedad que presente al menos un síntoma cardinal o dos síntomas no cardinales, de los que trata el numeral 15, o bien,
 
 b. aquella persona que presenta una infección respiratoria aguda grave que requiere hospitalización.
 
-c. aquella persona que sea considerada como contacto estrecho, según lo dispuesto en el numeral 9, y que además tenga, al menos, un síntoma de aquellos descritos en el numeral 15.
-
 Toda persona que se encuentre en alguna de las circunstancias descritas precedentemente deberá proceder a realizar un test PCR para SARS-CoV-2 o prueba de antígenos para SARS-CoV-2, tomado en un centro de salud mandatado, para estos efectos, por la autoridad sanitaria.
 
-12. Caso sospechoso de reinfección. Si una persona presenta un resultado positivo para Test PCR para SARS-CoV-2 o prueba de antígenos para SARS-CoV-2, tomado en un centro de salud mandatado por la autoridad sanitaria, desde 60 días después de haber sido caracterizada como un caso confirmado, se considerará como caso sospechoso de reinfección, y se tratará como caso confirmado para todos sus fines.
+12. Caso sospechoso de reinfección. Si una persona presenta un resultado positivo para Test PCR para SARS-CoV-2 desde 90 días después de haber sido caracterizada como un caso confirmado, se considerará como caso sospechoso de reinfección, y se tratará como caso confirmado para todos sus fines.
 
-13. Definición de caso probable. Se entenderá por caso probable aquel caso sospechoso conforme al numeral 11 de la presente resolución, con resultado de test PCR o antígeno para SARS-CoV-2 negativo o indeterminado o sin test diagnóstico, pero que cuenta con una tomografía computarizada de tórax con imágenes características de COVID-19 definidas así por un médico en la conclusión diagnóstica.
+13. Definición de caso probable. Se entenderá por caso probable cualquiera de las siguientes hipótesis:
+
+a. Caso probable por resultado de laboratorio: aquella persona que se encuentra en cualquiera de las siguientes circunstancias:
+
+i. La persona cumple con la definición de caso sospechoso conforme al numeral 11 de la presente resolución, en el cual el resultado del Test PCR para SARS-CoV-2 es indeterminado o no concluyente.
+
+ii. Persona asintomática o con un síntoma no cardinal, conforme a lo establecido en el numeral 15 de la presente resolución, que tiene resultado positivo para una prueba de detección rápida de antígenos para SARS-CoV-2, tomado en un centro de salud u otro establecimiento mandatado, para estos efectos, por la autoridad sanitaria.
+
+b. Caso probable por nexo epidemiológico: aquella persona que cumple los requisitos señalados a continuación:
+
+i. ha estado en contacto estrecho con una persona diagnosticada con COVID-19, según lo dispuesto en el numeral 9 de esta resolución, y,
+
+ii. desarrolla alguno de los síntomas cardinales o al menos dos de los síntomas no cardinales, conforme a lo establecido en el numeral 15 de esta resolución, dentro de los primeros 14 días posteriores al contacto.
+
+Si por cualquier motivo, un caso probable por nexo epidemiológico se realiza un test PCR para SARS-CoV-2 o prueba de antígenos para SARS-CoV-2 y este resulta positivo, deberá cumplir con lo dispuesto en el numeral 7 de esta resolución. Por el contrario, si el resultado es negativo o indeterminado, se seguirá considerando caso probable y deberá mantener aislamiento hasta completar los 10 días desde la fecha de inicio de síntomas.
+
+c. Caso probable por imágenes: caso sospechoso conforme al numeral 11 de la presente resolución, con resultado de test PCR para SARS-CoV-2 negativo o indeterminado, pero que cuenta con una tomografía computarizada de tórax con imágenes características de COVID-19 definidas así por un médico en la conclusión diagnóstica.
+
+d. Caso probable fallecido: persona fallecida que en ausencia de un resultado confirmatorio por un Test PCR, su certificado médico de defunción establece como causa básica de muerte o factor desencadenante la infección por SARS-CoV-2.
 
 14. Aislamiento de los casos probables. Dispóngase que las personas que sean caracterizadas como caso probable deberán permanecer en aislamiento según lo dispuesto en el numeral 7 de esta resolución, según corresponda.
 
@@ -152,7 +154,7 @@ Toda persona que se encuentre en alguna de las circunstancias descritas preceden
 
 a. Fiebre, esto es, presentar una temperatura corporal de 37,8 °C o más.
 
-b. Tos o estornudos.
+b. Tos.
 
 c. Disnea o dificultad respiratoria.
 
@@ -240,8 +242,6 @@ f. Las personas que se encuentren en establecimientos de salud, las que se regir
 
 g. Las personas que se encuentran en una sala de clases en un establecimiento educacional, las que se regirán por la regulación complementaria dictada al efecto.
 
-h. Las personas que asistan a actividades sin interacción entre los asistentes, en que el aforo máximo permitido es mayor al 50% del aforo total definido.
-
 25. De los establecimientos de salud. Déjase constancia que las restricciones de aforo dispuestas para los lugares que atienden público, según se indica en el Capítulo II de esta resolución, no se aplican a los establecimientos asistenciales de salud, los que se rigen por sus normas particulares.
 
 26. De la atención presencial preferente en los lugares que indica. En aquellos lugares donde se realicen pagos en dinero en efectivo al público general, se estará a lo dispuesto en el Capítulo II, con las modificaciones que a continuación se señalan:
@@ -276,8 +276,6 @@ b. Disponer, en el interior del recinto, información que recuerde el distanciam
 
 c. Mantener en todas las entradas señalética que indique las obligaciones y recomendaciones generales de autocuidado, conforme a la normativa dispuesta por la autoridad sanitaria.
 
-34 bis. Información en eventos masivos. El o los organizadores de eventos en los que se espere una concurrencia masiva de público deberán informar, si se exigirá o no Pase de Movilidad habilitado para el ingreso al recinto, tanto a los asistentes como a los trabajadores.
-
 ### X. Actividades deportivas y otras en estadios
 
 35. De las actividades, eventos, entrenamientos y competencias deportivas. En aquellos casos que se excedan los aforos establecidos por la autoridad sanitaria, podrán realizar actividades, eventos o competencias deportivas aquellas personas que cuenten con la autorización correspondiente de la Subsecretaría del Deporte. Lo anterior incluye, además, las actividades de entrenamiento o preparación que sean necesarias para la adecuada práctica deportiva.
@@ -294,11 +292,11 @@ De acuerdo a lo dispuesto precedentemente, se podrán autorizar actividades o ev
 
 39. Del funcionamiento de los establecimientos de educación superior. Los establecimientos de educación superior podrán tener clases presenciales, independiente del Paso en que se encuentre la localidad que se trate.
 
-### XII. De las medidas relativas al transporte interregional e interurbano
+### XII. De las medidas relativas al transporte
 
 ### 40. Eliminado
 
-41. De la nómina de pasajeros. Dispóngase que los buses de transporte público de pasajeros que presten servicio interurbano e interregional y aeronaves deberán confeccionar y portar una nómina de los pasajeros que transportan. Dicha obligación será exigible en aquellos viajes por tierra cuya extensión exceda los 200 kilómetros y en todos los vuelos.
+41. De la nómina de pasajeros. Dispóngase que los buses de transporte público de pasajeros que presten servicio interurbano e interregional y aeronaves deberán confeccionar y portar una nómina de los pasajeros que transportan. Dicha obligación será exigible en aquellos viajes por tierra cuya duración exceda las 2 horas y en todos los vuelos.
 
 La nómina de la que trata el párrafo anterior deberá contener los nombres y apellidos de los pasajeros, su número de cédula de identidad o pasaporte y sus números de teléfono de contacto, así como el número de asiento utilizado por cada uno de ellos. Esta nómina estará, en todo caso, afecta a las disposiciones de las leyes Nº 19.628 y Nº 20.584, en lo que fuera aplicable.
 
@@ -317,14 +315,6 @@ Los buses interurbanos deberán detenerse en el camino para dar espacio a la ali
 Los pasajeros que ingresen a buses para realizar viajes interurbanos deberán previamente sanitizarse las manos.
 
 44. Frazadas y almohadas. El transportista no podrá poner a disposición de los pasajeros frazadas o almohadas en buses interurbanos o aviones.
-
-44 A. De la exigencia del Pase de Movilidad o Test PCR. Todas las personas que realicen viajes superiores a 200 kilómetros en medios de transporte público deberán contar con su Pase de Movilidad habilitado.
-
-Sin perjuicio de lo dispuesto precedentemente, quienes no cuenten con un Pase de Movilidad podrán realizar viajes superiores a 200 kilómetros en transporte público si cuentan con un resultado negativo en un Test PCR para SARS-CoV-2 realizado en Chile. La toma de muestra del Test PCR para SARS-CoV-2 no debe exceder las 72 horas antes de iniciar el viaje.
-
-No obstante lo anterior, lo dispuesto en el párrafo precedente no será aplicable a quienes cuenten con un Pase de Movilidad que no esté habilitado. Si el Pase de Movilidad estuviere suspendido en virtud de lo dispuesto en el numeral 61, se podrá hacer uso de lo dispuesto en el párrafo anterior.
-
-44 B. Sobre la exhibición de documentos a funcionarios de medios de transportes. Sin perjuicio de las facultades de fiscalización propias de la autoridad competente, los trabajadores y prestadores de servicios que laboren en empresas de transporte aéreo, marítimo, terrestre o ferroviario, deberán solicitar la exhibición del Pase de Movilidad y verificar que éste se encuentre habilitado o la exhibición del resultado negativo del Test PCR para SARS-CoV-2, según corresponda, a los pasajeros de todos los servicios superiores a 200 kilómetros. Asimismo, podrán solicitar los documentos que acrediten la identidad del pasajero.
 
 ### XIII. Medidas administrativas
 
@@ -362,7 +352,7 @@ Aquellas personas que se encuentran en el literal a) de este numeral quedarán s
 
 53. Requisitos. Las personas podrán obtener el Pase de Movilidad cumpliendo copulativamente los siguientes requisitos:
 
-a) Haber completado el esquema de vacunación contra SARS-CoV-2 en Chile hace al menos 14 días. En el caso de la vacunación en el extranjero, se estará a lo dispuesto en el numeral 54.
+a) Haber completado el esquema de vacunación contra SARS-CoV-2 en Chile hace al menos 14 días. En el caso de la vacunación en el extranjero, se estará a lo dispuesto en los numerales 54 a 57.
 
 b) No estar afecto a la medida de aislamiento en virtud de lo dispuesto en los numerales 7, 8 y 10 de esta resolución, o por cualquiera de las causales dispuestas en la resolución exenta Nº 672, de 2021, del Ministerio de Salud.
 
@@ -384,17 +374,27 @@ iii) Administración de Alimentos y Medicamentos de los Estados Unidos (FDA).
 
 iv) Agencia Europea de Medicamentos (EMA).
 
-b) Adjuntar documento de identificación personal y toda la información referente a la vacuna recibida. En caso que estos documentos no se encuentren en el idioma castellano o inglés, deberá acompañarse una traducción autorizada en alguno de esos idiomas.
+b) Adjuntar documento de identificación personal y toda la información referente a la vacuna recibida verificable de forma electrónica. Para estos efectos, son documentos verificables de forma electrónica aquellos que cuenten con firma electrónica avanzada o un código QR que acredite que la información es emitida por un organismo oficial del Estado que se trate. En caso que estos documentos no se encuentren en el idioma castellano o inglés, deberá acompañarse una traducción autorizada en alguno de esos idiomas.
 
-### 55. Eliminado
+c) Adjuntar Pasaporte u otra forma de acreditar que se encontraba en el país donde recibió la vacuna en la fecha indicada por el certificado de vacunación de ese país.
 
-### 56. Eliminado
+En el caso de extranjeros no residentes de manera regular en Chile, esta validación estará vigente por 45 días desde su ingreso al país. En caso de cumplirse este plazo, deberá realizar una nueva solicitud de validación.
 
-### 57. Eliminado
+55. De la Validación Temporal de Vacunación. Podrán acceder a una Validación Temporal de Vacunación quienes hayan completado el esquema de vacunación contra SARS-CoV-2 en el extranjero cumpliendo con todos los requisitos señalados en el numeral precedente, pero no puedan acreditar dicha situación por medios verificables de forma electrónica, en conformidad a lo establecido en dicho numeral.
+
+56. De los efectos de la Validación Temporal de la Vacunación. La validación temporal de la vacunación permitirá obtener el Pase de Movilidad habilitado por 30 días desde la fecha de ingreso al país y producirá los efectos que explícitamente se señalen en los actos administrativos dictados por la autoridad sanitaria.
+
+Asimismo, la validación temporal de la vacunación permitirá acogerse a lo dispuesto en el párrafo tercero del numeral 4 de la resolución exenta Nº 672, de 2021, del Ministerio de Salud.
+
+57. De la Validación Definitiva de Vacunación. Para acceder a la validación definitiva de una vacunación validada temporalmente, el solicitante deberá presentar el resultado de un examen que certifique que tiene anticuerpos IgM/IgG positivos contra SARS-CoV-2. Dicho examen deberá realizarse al menos 14 días después de haber completado su esquema de vacunación.
+
+El examen del que trata este numeral deberá realizarse en un laboratorio autorizado en Chile.
+
+La solicitud de la que trata este numeral deberá realizarse dentro de los 90 días siguientes a la fecha de ingreso al país.
 
 58. De los efectos del Pase de Movilidad. El Pase de Movilidad habilitado no afectará la movilidad de su titular, y producirá los efectos que explícitamente se señalen en los actos administrativos dictados por la autoridad sanitaria.
 
-Los efectos del Pase de Movilidad habilitado serán aplicables a menores de 12 años de edad que no cuenten con esquema de vacunación completo, que estén en compañía de su padre, madre, tutor o curador, que sea titular de un Pase de Movilidad habilitado.
+Los efectos del Pase de Movilidad habilitado serán aplicables a menores de edad que no cuenten con esquema de vacunación completo, que estén en compañía de su padre, madre, tutor o curador, que sea titular de un Pase de Movilidad habilitado.
 
 59. Sin perjuicio de lo dispuesto en el párrafo segundo del numeral anterior, los efectos del Pase de Movilidad de los padres, madres, tutores y curadores no alcanzarán a los menores de edad bajo su cuidado, para efectos de lo dispuesto en el inciso segundo del artículo primero del decreto supremo Nº 102, de 2020, del Ministerio del Interior y Seguridad Pública.
 
@@ -430,9 +430,9 @@ b. Espacio abierto o aire libre: aquel que no tiene techo o aquel que, teniendo 
 
 c. Espacio cerrado: aquel que tiene techo y más del 50% de su perímetro con muros.
 
-d. Actividades sin interacción entre asistentes: Son aquellas convocatorias de un grupo de personas a la misma hora en un determinado lugar, en que se cumplen las siguientes condiciones copulativas:
+d. Actividades sin interacción entre asistentes: Son aquellas convocatorias de un grupo de personas a la misma hora en un determinado lugar, que no sea una residencia particular, en que se cumplen las siguientes condiciones copulativas:
 
-i. Si existen butacas o bancas fijas, las personas deben mantener una ubicación fija durante toda la actividad.
+i. Las personas mantienen una ubicación fija durante toda la duración de la actividad.
 
 ii. Los asistentes mantienen un metro lineal de distancia durante toda la duración de la actividad, o si existen asientos fijos e individuales, se dejará libre un asiento entre dos que puedan ocuparse.
 
@@ -440,11 +440,7 @@ iii. No se consumen alimentos.
 
 iv. El uso de la mascarilla es permanente.
 
-En el caso que la convocatoria sea en una residencia particular, debe ser organizada por una persona que no sea residente de ella.
-
-e. Actividades con interacción entre asistentes: Son aquellas convocatorias de un grupo de personas a la misma hora en un determinado lugar, en las que no se cumplen una o más de las condiciones señaladas en el literal anterior.
-
-En el caso que la convocatoria sea en una residencia particular, debe ser organizada por una persona que no sea residente de ella.
+e. Actividades con interacción entre asistentes: Son aquellas convocatorias de un grupo de personas a la misma hora en un determinado lugar, que no sea una residencia particular, en las que no se cumplen una o más de las condiciones señaladas en el literal anterior.
 
 f. Restaurantes y lugares análogos: Es aquel establecimiento que cuenta con un giro comercial cuyo objeto sea el servicio de alimentación al público general, ya sea para llevar, o bien, que los asistentes permanezcan en una ubicación fija durante toda la prestación del servicio.
 
@@ -564,11 +560,11 @@ a. En espacios cerrados, el público asistente deberá contar con un Pase de Mov
 
 b. Las mesas deberán estar separadas entre sí por una distancia mínima de dos metros lineales, medidos desde sus bordes.
 
-c. En espacios cerrados, solo podrá haber un máximo de dos personas por mesa. En el caso de adultos acompañados por menores de edad, estos últimos no se considerarán en el número máximo, siempre que el total de personas no sea mayor a 5.
+c. En espacios cerrados, solo podrá haber un máximo de dos personas por mesa.
 
 d. En espacios cerrados, la ventilación deberá cumplir con la norma estándar de ventilación.
 
-En espacios cerrados dentro de centros comerciales sólo se podrá consumir alimentos en lugares habilitados para ello, tales como patios de comida, casinos de trabajadores o restaurantes. Los patios de comidas y restaurantes deberán cumplir con las disposiciones establecidas para estos últimos.
+No se podrá consumir alimentos dentro de espacios cerrados de centros comerciales.
 
 79. De los gimnasios y análogos. El funcionamiento de gimnasios estará sujeto a las siguientes reglas:
 
@@ -596,9 +592,7 @@ i. En espacios abiertos, el aforo será de hasta un 30% del total definido, con 
 
 ii. En espacios cerrados, el aforo será de hasta un 20% del total definido, con un máximo de 50 personas, si todas ellas tienen Pase de Movilidad habilitado.
 
-En ambos casos, aquellas personas que se ubiquen en asientos deberán mantener un espacio vacío cada dos personas.
-
-c. Si uno o más de los asistentes no tiene Pase de Movilidad habilitado, el aforo y el máximo permitido dispuestos en el literal anterior se reducirá a la mitad en espacios abiertos, y no se permitirá la realización de la actividad en espacios cerrados.
+c. Si uno o más de los asistentes no tiene Pase de Movilidad habilitado, el aforo y el máximo permitido dispuestos en el literal anterior se reducirá a la mitad.
 
 d. En los aforos antedichos se considerará a los trabajadores.
 
@@ -610,8 +604,6 @@ g. Los espacios cerrados deberán cumplir con norma estándar de ventilación.
 
 h. No se podrán consumir alimentos.
 
-i. El o los organizadores de la actividad deberán informar si se exigirá o no Pase de Movilidad habilitado para el ingreso al recinto, tanto a los asistentes como a los trabajadores.
-
 82. De las actividades sin interacción entre los asistentes, cuando el recinto no tiene infraestructura previa con butacas o bancas fijas. Para la realización de este tipo de actividades se deberán seguir las siguientes reglas:
 
 a. La ubicación de los asistentes deberá ser permanente.
@@ -622,7 +614,7 @@ c. El aforo máximo, si todos los asistentes cuentan con Pase de Movilidad habil
 
 d. Con todo, el aforo máximo no podrá superar de 1 persona cada 8 metros cuadrados de superficie útil.
 
-e. Si uno o más de los asistentes no tiene Pase de Movilidad habilitado, el aforo dispuesto en el literal c se reducirá a la mitad en espacios abiertos, y no se permitirá la realización de la actividad en espacios cerrados.
+e. Si uno o más de los asistentes no tiene Pase de Movilidad habilitado, el aforo dispuesto en el literal c se reducirá a la mitad.
 
 f. En los aforos antedichos se considerará a los trabajadores.
 
@@ -633,8 +625,6 @@ h. En un mismo recinto, podrán realizarse simultáneamente más de una activida
 i. Los espacios cerrados deberán cumplir con norma estándar de ventilación.
 
 j. No se podrán consumir alimentos.
-
-k. El o los organizadores de la actividad deberán informar si se exigirá o no Pase de Movilidad habilitado para el ingreso al recinto, tanto a los asistentes como a los trabajadores.
 
 83. De las actividades con interacción entre asistentes. La realización de este tipo de actividades que no se desarrollen en residencias particulares, estará sujeta a las siguientes reglas:
 
@@ -647,8 +637,6 @@ c. El aforo máximo será de 20 personas.
 d. En los aforos antedichos se considerará a los trabajadores.
 
 e. Sin perjuicio de lo dispuesto en la letra b., el aforo total no podrá exceder de 1 persona por cada 10 metros cuadrados de la superficie útil destinada al público.
-
-f. El o los organizadores de la actividad deberán informar, si se exigirá o no Pase de Movilidad habilitado para el ingreso al recinto, tanto a los asistentes como a los trabajadores
 
 84. Centros de Día para Adulto Mayor. El funcionamiento de los Centros de Día para Adultos Mayores estará sujeto a las siguientes reglas:
 
@@ -708,11 +696,11 @@ a. La ubicación de los asistentes debe ser permanente.
 
 b. El cálculo de los aforos se realizará de la siguiente forma:
 
-i. En espacios abiertos, el aforo será de hasta un 70% del total definido, si todas ellas tienen Pase de Movilidad habilitado. Sin perjuicio de lo dispuesto en el literal d del numeral 64, se podrá consumir alimentos, pero en dicho caso el aforo máximo será de un 60%.
+i. En espacios abiertos, el aforo será de hasta un 60% del total definido, si todas ellas tienen Pase de Movilidad habilitado. Sin perjuicio de lo dispuesto en el literal d del numeral 64, se podrá consumir alimentos, pero en dicho caso el aforo máximo será de un 40%.
 
-ii. En espacios cerrados, el aforo será de hasta un 60% del total definido, si todas ellas tienen Pase de Movilidad habilitado. Sin perjuicio de lo dispuesto en el literal d del numeral 64, se podrá consumir alimentos, pero en dicho caso el aforo máximo será de un 50%, siempre que se mantenga un espacio vacío cada dos personas.
+ii. En espacios cerrados, el aforo será de hasta un 50% del total definido, si todas ellas tienen Pase de Movilidad habilitado. Sin perjuicio de lo dispuesto en el literal d del numeral 64, se podrá consumir alimentos, pero en dicho caso el aforo máximo será de un 30%.
 
-c. Si uno o más de los asistentes no tiene Pase de Movilidad habilitado, no se podrá realizar este tipo de actividades en espacios cerrados, y en espacios abiertos el aforo dispuesto en el numeral i precedente se reducirá a la mitad, debiendo los asistentes siempre mantener un espacio vacío cada dos personas.
+c. Si uno o más de los asistentes no tiene Pase de Movilidad habilitado, el aforo dispuesto en el literal anterior se reducirá a la mitad.
 
 d. En los aforos antedichos se considerará a los trabajadores.
 
@@ -722,19 +710,17 @@ f. En un mismo recinto, podrán realizarse simultáneamente más de una activida
 
 g. Los espacios cerrados deberán cumplir con norma estándar de ventilación.
 
-h. El o los organizadores de la actividad deberán informar si se exigirá o no Pase de Movilidad habilitado para el ingreso al recinto, tanto a los asistentes como a los trabajadores.
-
 93. De las actividades sin interacción entre los asistentes, cuando el recinto no tiene infraestructura previa con butacas o bancas fijas. Para la realización de este tipo de actividades se deberán seguir las siguientes reglas:
 
 a. La ubicación de los asistentes deberá ser permanente.
 
 b. Las personas deberán guardar una distancia de un metro entre sí.
 
-c. El aforo máximo, si todos los asistentes cuentan con Pase de Movilidad habilitado, será 1.500 personas en espacios abiertos y de 750 personas en espacios cerrados.
+c. El aforo máximo, si todos los asistentes cuentan con Pase de Movilidad habilitado, será 1.000 personas en espacios abiertos y de 500 personas en espacios cerrados.
 
 d. Con todo, el aforo máximo no podrá superar de 1 persona cada 4 metros cuadrados de superficie útil.
 
-e. Si uno o más de los asistentes no tiene Pase de Movilidad habilitado, no se podrá realizar este tipo de actividades en espacios cerrados, y en espacios abiertos el aforo dispuesto en el literal c se reducirá a 200 personas.
+e. Si uno o más de los asistentes no tiene Pase de Movilidad habilitado, el aforo dispuesto en el literal c se reducirá a 200 en espacios abiertos y a 100 en espacios cerrados.
 
 f. En los aforos antedichos se considerará a los trabajadores.
 
@@ -746,13 +732,11 @@ i. Los espacios cerrados deberán cumplir con norma estándar de ventilación.
 
 j. No obstante lo indicado en el literal b., si hay consumo de alimentos, los asistentes deben guardar una distancia de 1,5 metros entre sí.
 
-k. El o los organizadores de la actividad deberán informar si se exigirá o no Pase de Movilidad habilitado para el ingreso al recinto, tanto a los asistentes como a los trabajadores
+94. De las actividades con interacción entre asistentes. La realización de este tipo de actividades, que no se desarrollen en residencias particulares, deberá cumplir las siguientes reglas:
 
-94. De las actividades con interacción entre asistentes. La realización de este tipo de actividades, deberá cumplir las siguientes reglas:
+a. El aforo máximo será de 25 personas en espacios cerrados y de 100 personas en espacios abiertos.
 
-a. El aforo máximo será de 50 personas en espacios abiertos.
-
-b. Si la totalidad de los asistentes tiene Pase de Movilidad habilitado, el aforo máximo será de 100 personas en espacios cerrados y de 250 personas en espacios abiertos.
+b. Si la totalidad de los asistentes tiene Pase de Movilidad habilitado, el aforo máximo será de 100 personas en espacios cerrados y de 200 personas en espacios abiertos.
 
 c. En los aforos antedichos se considerará a los trabajadores.
 
@@ -762,11 +746,7 @@ e. En un mismo recinto, podrán realizarse simultáneamente más de una activida
 
 f. Los espacios cerrados deberán cumplir con la norma estándar de ventilación.
 
-g. Sin perjuicio de lo dispuesto en las letras a. y b., el aforo total no podrá exceder de 1 persona por cada 5 metros cuadrados de la superficie útil destinada al público.
-
-h. El o los organizadores de la actividad deberán informar, si se exigirá o no Pase de Movilidad habilitado para el ingreso al recinto, tanto a los asistentes como a los trabajadores.
-
-En el caso de una convocatoria en residencia particular, el organizador no residente será responsable de garantizar el cumplimiento de los literales anteriores durante la actividad.
+g. Sin perjuicio de lo dispuesto en las letras a. y b., el aforo total no podrá exceder de 1 persona por cada 6 metros cuadrados de la superficie útil destinada al público.
 
 95. De los Centros de Día para Adulto Mayor. El funcionamiento de los Centros de Día para Adultos Mayores estará sujeto a las siguientes reglas:
 
@@ -796,7 +776,7 @@ Los asistentes deberán guardar un metro lineal de distancia entre sí.
 
 99. Del funcionamiento de establecimientos que atiendan público. Los establecimientos que atiendan público tendrán un aforo máximo de 1 persona por cada 4 metros cuadrados de la superficie útil destinada a atención de público.
 
-Para el cálculo del aforo se considerarán las personas que trabajan en el lugar. Con todo, siempre podrá haber, a lo menos, cinco clientes.
+Para el cálculo del aforo se considerarán las personas que trabajan en el lugar. Con todo, siempre podrá haber, a lo menos, cuatro clientes.
 
 100. Del funcionamiento de restaurantes, cafés y análogos. La atención de público en restaurantes, cafés y análogos estará sujeto a las siguientes reglas:
 
@@ -828,11 +808,11 @@ a. La ubicación de los asistentes debe ser permanente.
 
 b. El cálculo de los aforos se realizará de la siguiente forma:
 
-i. En espacios abiertos, el aforo será de hasta un 80% del total definido, si todas ellas tienen Pase de Movilidad habilitado.
+i. En espacios abiertos, el aforo será de hasta un 70% del total definido, si todas ellas tienen Pase de Movilidad habilitado.
 
-ii. En espacios cerrados, el aforo será de hasta un 70% del total definido, si todas ellas tienen Pase de Movilidad habilitado.
+ii. En espacios cerrados, el aforo será de hasta un 60% del total definido, si todas ellas tienen Pase de Movilidad habilitado.
 
-c. Si uno o más de los asistentes no tiene Pase de Movilidad habilitado, no se podrá realizar este tipo de actividades en espacios cerrados, y en espacios abiertos el aforo dispuesto en el numeral i precedente se reducirá a la mitad, debiendo los asistentes siempre mantener un espacio vacío cada dos personas.
+c. Si uno o más de los asistentes no tiene Pase de Movilidad habilitado, el aforo dispuesto en el literal anterior se reducirá a la mitad.
 
 d. Podrán consumirse alimentos.
 
@@ -844,21 +824,17 @@ g. En un mismo recinto, podrán realizarse simultáneamente más de una activida
 
 h. Los espacios cerrados deberán cumplir con norma estándar de ventilación.
 
-i. El o los organizadores de la actividad deberán informar si se exigirá o no Pase de Movilidad habilitado para el ingreso al recinto, tanto a los asistentes como a los trabajadores
-
-En el caso de una actividad que se realice en lugar abierto, en una localidad que retrocede al Paso anterior dos semanas antes del día en que se lleva a cabo la actividad, se permitirá la asistencia del público que, al momento de la entrada en vigencia del retroceso de Paso, ya contaba con su ticket, aun cuando el número total de ellas exceda el aforo permitido para el día de la actividad. No se permitirá la asistencia del público que, con posterioridad a la entrada en vigencia del retroceso de Paso, adquiere tickets y ello conlleva exceder el aforo máximo al día de la actividad.
-
 104. De las actividades sin interacción entre los asistentes, cuando el recinto no tiene infraestructura previa con butacas o bancas fijas. Para la realización de este tipo de actividades se deberán seguir las siguientes reglas:
 
-a. Eliminado.
+a. La ubicación de los asistentes deberá ser permanente.
 
-b. Eliminado.
+b. Las personas deberán guardar una distancia de un metro entre sí.
 
-c. Eliminado.
+c. El aforo máximo, si todos los asistentes cuentan con Pase de Movilidad habilitado, será 5.000 personas en espacios abiertos y de 1.000 personas en espacios cerrados.
 
-d. El cálculo del aforo debe considerar 2 personas por metro cuadrado, tanto en espacios abiertos como cerrados.
+d. Con todo, el aforo máximo no podrá superar de 1 persona cada 2 metros cuadrados de superficie útil.
 
-e. Todos los asistentes deberán contar con su Pase de Movilidad habilitado.
+e. Si uno o más de los asistentes no tiene Pase de Movilidad habilitado, el aforo dispuesto en el literal c se reducirá a 500 personas en espacios abiertos y a 250 personas en espacios cerrados.
 
 f. Podrán consumirse alimentos.
 
@@ -870,15 +846,9 @@ i. En un mismo recinto, podrán realizarse simultáneamente más de una activida
 
 j. Los espacios cerrados deberán cumplir con norma estándar de ventilación.
 
-k. Eliminado.
+105. De las actividades con interacción entre asistentes. La realización de este tipo de actividades, que no se desarrollen en residencias particulares, deberá cumplir con las siguientes reglas:
 
-En el caso de una actividad que se realice en lugar abierto, en una localidad que retrocede al Paso anterior dos semanas antes del día en que se lleva a cabo la actividad, se permitirá la asistencia del público que, al momento de la entrada en vigencia del retroceso de Paso, ya contaba con su ticket, aun cuando el número total de ellas exceda el aforo permitido para el día de la actividad. No se permitirá la asistencia del público que, con posterioridad a la entrada en vigencia del retroceso de Paso, adquiere tickets y ello conlleva exceder el aforo máximo al día de la actividad.
-
-En aquellas actividades que estimen una convocatoria de 5.000 personas o más, estará prohibida la venta o consumo de alimentos y bebidas, debiendo los asistentes mantener el uso permanente de mascarilla, excepto en aquellas zonas destinadas exclusivamente al consumo de alimentos y bebidas. Además, los organizadores de éstas deberán solicitar la autorización de la autoridad sanitaria, para lo cual deberán acreditar el cumplimiento de lo establecido en este numeral.
-
-105. De las actividades con interacción entre asistentes. La realización de este tipo de actividades, deberá cumplir con las siguientes reglas:
-
-a. El aforo máximo será de 100 personas en espacios abiertos.
+a. El aforo máximo será de 100 personas en espacios cerrados y de 250 personas en espacios abiertos.
 
 b. Si la totalidad de los asistentes tiene Pase de Movilidad habilitado, el aforo máximo será de 250 personas en espacios cerrados y de 1.000 personas en espacios abiertos.
 
@@ -890,11 +860,7 @@ e. En un mismo recinto, podrán realizarse simultáneamente más de una activida
 
 f. Los espacios cerrados deberán cumplir con norma estándar de ventilación.
 
-g. El o los organizadores de la actividad deberán informar si se exigirá o no Pase de Movilidad habilitado para el ingreso al recinto, tanto a los asistentes como a los trabajadores.
-
-Sin perjuicio de lo dispuesto en las letras a. y b., el aforo total no podrá exceder de 1 persona por cada 3 metros cuadrados de la superficie útil destinada al público.
-
-En el caso de una convocatoria en residencia particular, el organizador no residente será responsable de garantizar el cumplimiento de los literales anteriores durante la actividad.
+Sin perjuicio de lo dispuesto en las letras a. y b., el aforo total no podrá exceder de 1 persona por cada 4 metros cuadrados de la superficie útil destinada al público.
 
 106. De los Centros de Día para Adulto Mayor. El funcionamiento de los Centros de Día para Adultos Mayores estará sujeto a las siguientes reglas:
 
@@ -964,10 +930,6 @@ g. En un mismo recinto, y cuando existan asistentes que no tengan Pase de Movili
 
 h. Los espacios cerrados deberán cumplir con norma estándar de ventilación.
 
-i. El o los organizadores de la actividad deberán informar si se exigirá o no Pase de Movilidad habilitado para el ingreso al recinto, tanto a los asistentes como a los trabajadores.
-
-En el caso de una actividad que se realice en lugar abierto, en una localidad que retrocede al Paso anterior dos semanas antes del día en que se lleva a cabo la actividad, se permitirá la asistencia del público que, al momento de la entrada en vigencia del retroceso de Paso, ya contaba con su ticket, aun cuando el número total de ellas exceda el aforo permitido para el día de la actividad. No se permitirá la asistencia del público que, con posterioridad a la entrada en vigencia del retroceso de Paso, adquiere tickets y ello conlleva exceder el aforo máximo al día de la actividad.
-
 115. De las actividades sin interacción entre los asistentes, cuando el recinto no tiene infraestructura previa con butacas o bancas fijas. Para la realización de este tipo de actividades se deberán seguir las siguientes reglas:
 
 a. Los asistentes deberán mantener ubicación fija.
@@ -988,10 +950,6 @@ h. En un mismo recinto, y cuando existan asistentes que no tengan Pase de Movili
 
 i. Los espacios cerrados deberán cumplir con norma estándar de ventilación.
 
-j. El o los organizadores de la actividad deberán informar si se exigirá o no Pase de Movilidad habilitado para el ingreso al recinto, tanto a los asistentes como a los trabajadores.
-
-En el caso de una actividad que se realice en lugar abierto, en una localidad que retrocede al Paso anterior dos semanas antes del día en que se lleva a cabo la actividad, se permitirá la asistencia del público que, al momento de la entrada en vigencia del retroceso de Paso, ya contaba con su ticket, aun cuando el número total de ellas exceda el aforo permitido para el día de la actividad. No se permitirá la asistencia del público que, con posterioridad a la entrada en vigencia del retroceso de Paso, adquiere tickets y ello conlleva exceder el aforo máximo al día de la actividad.
-
 116. De las actividades con interacción entre asistentes. Para la realización de este tipo de actividades, se deberán cumplir con las siguientes reglas:
 
 a. No existirá aforo máximo, si todos los asistentes cuentan con Pase de Movilidad habilitado.
@@ -1005,8 +963,6 @@ d. No se podrán sumar los aforos de espacios abiertos y cerrados para una misma
 e. En un mismo recinto, y cuando existan asistentes que no tengan Pase de Movilidad habilitado, podrán realizarse simultáneamente más de una actividad independiente, siempre y cuando los asistentes de una y otra actividad no tengan ningún tipo de interacción, incluyendo baños y entradas y salidas.
 
 f. Los espacios cerrados deberán cumplir con norma estándar de ventilación.
-
-g. El o los organizadores de la actividad deberán informar, si se exigirá o no Pase de Movilidad habilitado para el ingreso al recinto, tanto a los asistentes como a los trabajadores
 
 c. En el caso del literal b., el aforo total no podrá exceder de 1 persona por cada 4 metros cuadrados de la superficie útil destinada al público.
 
