@@ -3368,6 +3368,8 @@ d) Emitir certificados de refrendación presupuestaria que acrediten la disponib
 
 g) Dictar las resoluciones que autoricen u ordenen el pago en sentencias condenatorias firmes pronunciadas en contra del Fondo Nacional de Salud, dictadas en juicios arbitrales tramitados ante la Superintendencia de Salud.
 
+g) Dictar las resoluciones que autoricen u ordenen el pago en sentencias condenatorias firmes pronunciadas en contra del Fondo Nacional de Salud, dictadas en juicios arbitrales tramitados ante la Superintendencia de Salud
+
 2º En el Jefe del Departamento Programación Financiera las siguientes facultades:
 
 a) Otorgar el compromiso y validar la disponibilidad presupuestaria de las transferencias a los Servicios de Salud correspondientes al Programa de Prestaciones Valoradas (PPV); al Programa de Atención Primaria de Salud (APS) y al Programa de Prestaciones Institucionales (PPI).
