@@ -26,7 +26,7 @@ Decreto:
 
 Dispóngase, a contar de las 00:00 horas del miércoles 18 de marzo de 2020, el cierre para el tránsito de personas, de todos los lugares habilitados para el tránsito de extranjeros hacia el territorio nacional.
 
-No obstante, se permitirá el egreso de nacionales chilenos y extranjeros residentes de manera regular en Chile que cuenten con esquema completo de vacunación y que cumplan con todos los requisitos señalados en la normativa sanitaria aplicable, a través de los aeropuertos Arturo Merino Benítez en la ciudad de Santiago, Diego de Aracena en la ciudad de Iquique o Andrés Sabella en la ciudad de Antofagasta.
+No obstante, se permitirá el egreso de nacionales chilenos y extranjeros residentes de manera regular en Chile que cuenten con esquema completo de vacunación y que cumplan con todos los requisitos señalados en la normativa sanitaria aplicable, a través de los aeropuertos Arturo Merino Benítez en la ciudad de Santiago, Diego de Aracena en la ciudad de Iquique, Andrés Sabella en la ciudad de Antofagasta y Presidente Carlos Ibáñez del Campo en la ciudad de Punta Arenas. Asimismo, se permitirá el egreso de estas personas a través de los puertos habilitados para tales efectos. En el caso de menores de 6 años, no se les exigirá contar con esquema de vacunación contra SARS-CoV-2.
 
 De manera excepcional, se permitirá el egreso de nacionales chilenos y extranjeros residentes de manera regular del territorio nacional que no cuenten con esquema completo de vacunación según lo dispuesto en el inciso precedente, y que soliciten mediante un formulario a través de la plataforma Comisaría Virtual, autorización extraordinaria para el viaje de personas al exterior, por motivos urgentes y calificados, sin perjuicio de las medidas sanitarias dispuestas en el país de destino, en los siguientes casos:
 
@@ -130,7 +130,7 @@ La medida dispuesta en el inciso primero, regirá por un plazo de 15 días desde
 
 La medida excepcional dispuesta en el inciso primero del artículo primero, no afectará a los nacionales chilenos, ni a los extranjeros residentes de manera regular en el territorio nacional, que ingresen al territorio nacional, quienes de conformidad con los protocolos e instrucciones de la autoridad, podrán ingresar al país sometiéndose a los procedimientos sanitarios pertinentes.
 
-Se permitirá el ingreso de extranjeros no residentes en el país, que cuenten con esquema completo de vacunación y cumplan con todos los requisitos señalados en la normativa sanitaria vigente, a través de los aeropuertos Arturo Merino Benítez en la ciudad de Santiago, Diego de Aracena en la ciudad de Iquique o Andrés Sabella en la ciudad de Antofagasta.
+Se permitirá el ingreso de extranjeros no residentes en el país, que cuenten con esquema completo de vacunación y cumplan con todos los requisitos señalados en la normativa sanitaria vigente, a través de los aeropuertos Arturo Merino Benítez en la ciudad de Santiago, Diego de Aracena en la ciudad de Iquique, Andrés Sabella en la ciudad de Antofagasta y Carlos Ibáñez del Campo en la ciudad de Punta Arenas. Asimismo, se permitirá el ingreso de estas personas a través de los puertos habilitados para tales efectos.
 
 Con todo, no resultará afectada por este cierre temporal la entrada y salida de:
 
