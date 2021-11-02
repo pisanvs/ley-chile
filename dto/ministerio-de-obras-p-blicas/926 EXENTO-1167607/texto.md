@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº926, de 05 de octubre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº52-A, para la obra: MEJORAMIENTO RUTA W-175 SECTOR: LINAO - QUEMCHI, que figura a nombre de VIDAL ANTIMAN SIXTO DEL CARMEN, rol de avalúo 164-98, Comuna de QUEMCHI, REGIÓN DE LOS LAGOS, superficie 527 m2. La Comisión de Peritos integrada por NICOLAS ALEJANDRO ALARCON SANCHEZ, SONIA CATALINA GALLEGOS BLANCH y HANDY GHISLAINE CAMPOS SEPULVEDA, mediante informe de tasación de 09 de febrero de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.886.950, para el lote Nº52-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
