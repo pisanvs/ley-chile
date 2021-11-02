@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.522, del 7 de octubre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Almirante Latorre Nº 29, comuna de Chillán, Rol de Avalúo Nº 00515-00006, de aparente dominio de Bórquez Ferrada Miriam Ester y otro. La superficie afecta a expropiación total es de 589,38 m² de terreno y 238,77 m² de edificaciones (Lote 24), cuyos linderos particulares están enmarcados en el plano S 6R-049, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por la Arquitecto doña Priscilla Andrea Encalada Rueda, la Arquitecto doña Cecilia María Carrasco Verdugo y por el Constructor Civil don Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $206.608.528.-
+
+Director Serviu Región de Ñuble.
