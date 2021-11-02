@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°920, de 05 de octubre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno Nºs.99 y 100, para la obra: MEJORAMIENTO RUTA S-75, SECTOR COLICO - CABURGUA NORTE, que figura a nombre de GONZALEZ ERRAZURIZ ALBERTO, rol de avalúo 1319-226, Comuna de CUNCO, REGION DE LA ARAUCANÍA, superficies 336 y 575 m2 respectivamente. La Comisión de Peritos integrada por MARIA SOLEDAD NUÑEZ ARROYO, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 03 de julio de 2019, fijó el monto de la indemnización provisional en la cantidad de $5.865.000 para el lote N°99, y $16.992.500 para el lote N°100. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
