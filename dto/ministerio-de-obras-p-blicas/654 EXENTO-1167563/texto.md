@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°654, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.19 y 20, para la obra: MEJORAMIENTO CBI RUTA T-525 LAS HUELLAS Y RUTA T-661 QUIMAN ALTO, (LAS HUELLAS), que figura a nombre de TOLEDO OBANDO VICTOR ALEJANDRO y MUNOZ MATZNER JUAN CARLOS, roles de avalúo 80-158 y 80-143, Comuna de LOS LAGOS, REGION DE LOS RÍOS, superficies 50 y 51 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 25 de junio de 2020, fijó el monto de la indemnización provisional en la cantidad de $3.019.700 para el lote N°19, y $1.068.000 para el lote N°20. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
