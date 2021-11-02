@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°633, de 23 de agosto de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N°13, para la obra: MEJORAMIENTO CBI STA ELVIRA - EL ARENAL - SAN JAVIER, TRAMO 1, que figura a nombre de AGRÍCOLA LA PAZ LIMITADA, rol de avalúo 2553-2, Comuna de VALDIVIA, REGIÓN DE LOS RÍOS, superficie 20 m2. La Comisión de Peritos integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, YASCHALA MARIBEL YÁÑEZ RIFFO y MARÍA SOLEDAD NÚÑEZ ARROYO, mediante informe de tasación de 26 de agosto de 2016 , fijó el monto de la indemnización provisional en la cantidad de $729.360 para el lote Nº13. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
