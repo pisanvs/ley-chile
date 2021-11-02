@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.601, 8 de octubre de 2021, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Arrau Méndez 429 CCU, Rol de Avalúo N° 1128-33, comuna de Concepción, de aparente dominio de Inzunza Valdés Paulino Alejandro, superficie de 24,22 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-38119-1, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción, comuna de Concepción", conforme artículo 51 Ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Mario Alexis Martínez Ortiz, arquitecta Priscilla Andrea Encalada Rueda y constructora civil María Soledad Silva Hernández, según informe de fecha 15.03.2021, fijó monto provisional indemnización más reajuste Art. 5° del DL N° 2.186 de 1978, en $3.933.414.-
+
+Director Serviu Región del Biobío.
