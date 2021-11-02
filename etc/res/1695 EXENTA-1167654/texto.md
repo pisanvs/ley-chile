@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Exenta N° 1.695 del 22 de octubre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí 40, comuna de Chillán, Rol de Avalúo N° 00680-00006, de aparente dominio de Urra Rivas Olivia del Carmen. La superficie afecta a expropiación Total es de 217,54 m2 de terreno y la de expropiación Total es de 135,73 m2 de edificaciones, cuyos linderos particulares están enmarcados en el plano S16R-057, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 Ley N° 16.391 y D.L. N° 2.186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, el Arquitecto don Ítalo Renzo Zerga Arancibia, y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $91.882.870.-
+
+Director Serviu Región de Ñuble.
