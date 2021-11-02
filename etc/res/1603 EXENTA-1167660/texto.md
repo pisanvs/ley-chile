@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.603, de 8 de octubre 2021, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en calle Arrau Méndez 748, Rol de Avalúo N° 1163-23, comuna de Concepción, de aparente dominio de Fica Gutiérrez Magdalena de Jesús y otra, en una superficie de 84,25 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-38.142-2, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción" comuna de Concepción", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Mario Martínez Ortiz, por arquitecto Priscilla Encalada Rueda y por constructor civil María Soledad Silva Hernández, según informe de fecha 5 de abril de 2021, fijó monto provisional indemnización en $12.528.426.-, más reajuste del artículo 5° del DL 2.186, de 1978, que dan la cifra de $12.778.995, pagadera de contado.-
+
+Director Serviu Región del Biobío.
