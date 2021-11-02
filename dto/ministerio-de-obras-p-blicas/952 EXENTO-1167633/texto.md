@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº952, de 07 de octubre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.45, 46 y 47, para la obra: MEJORAMIENTO CBI RUTA T-525: LAS HUELLAS Y RUTA T-661 QUIMAN ALTO (QUIMÁN), que figura a nombre de RIVERA VALENZUELA TOMAS, RIVERA VALENZUELA TOMAS y RIVERA VALENZUELA MATIAS, roles de avalúo 72-203, 72-171 y 72-177, Comuna de FUTRONO, REGION DE LOS RÍOS, superficies 383, 528 y 300 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, YASCHALA MARIBEL YAÑEZ RIFFO y MARIA SOLEDAD NUÑEZ ARROYO, mediante informe de tasación de 14 de septiembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $4.821.300 para el lote Nº45, $6.829.900 para el lote Nº46, y $5.432.600 para el lote Nº47. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
