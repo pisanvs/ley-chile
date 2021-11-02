@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 1.694 del 22 de octubre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Collín 700, comuna de Chillán, Rol de Avalúo N° 00680-00018, de aparente dominio de Fuentealba Santos Norma. La superficie afecta a expropiación Parcial es de 73,04 m2 de terreno y la de expropiación Total es de 247,22 m2 de edificaciones, cuyos linderos particulares están enmarcados en el plano S16R-056, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 Ley N° 16.391 y D.L. N° 2.186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, el Arquitecto don Ítalo Renzo Zerga Arancibia, y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $75.256.677.-
+
+Director Serviu, Región de Ñuble.
