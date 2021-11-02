@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.734, 21 de octubre 2021, Serviu Región del Biobío ordenó la expropiación total de terreno y total de edificación del inmueble ubicado en Errazuri 163 B, Rol de Avalúo N° 56-9, comuna de Concepción, de aparente dominio de De La Fuente Pastrana Blanca. La parte a expropiar tiene una superficie de 44,38 m2 de terreno y a) 30,64 m2 b) 60,64 m2, lo que da un total de 61,28 m2 de expropiación de edificación y cuyos linderos particulares, enmarcados en el polígono O-P-Q-R-S-O del plano S8R-39077-2, para la ejecución de la obra "CNT Aurora de Chile Etapa 2A" de la comuna de Concepción, Región del Biobío. conforme artículo 51 ley N° 16.391 y DL. N° 2.186. Comisión Peritos integrada por el arquitecto Juan Felipe King Domínguez, por el arquitecto Rodrigo Alexis Escobar Fernández, por arquitecto Patricia Cecilia Palacios González, que fijó el monto de la indemnización provisional por la expropiación en la suma de $18.151.213.-más una suma de $ 290.419.- por concepto de reajuste del artículo 5° del DL 2186 de 1978, lo que da un total de $ 18.441.632.-
+
+Director Serviu, Región del Biobío.
