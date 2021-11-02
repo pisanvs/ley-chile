@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 1.699 del 22 de octubre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Diagonal Las Termas Av. Los Puelches 1699, comuna de Chillán, Rol de Avalúo n° 004455-00048, de aparente dominio de Morales Bravo Antonio y otros. La parte afecta a expropiación parcial de terreno es de 18,36 m2 (Lote 65) y cuyos linderos particulares, enmarcados en el plano S16R-162, para el proyecto "Mejoramiento Avenida Diagonal comuna de Chillán", conforme artículo 51 ley 16.391 y DL. 2186. Comisión Peritos integrada por la Arquitecto doña Cecilia María Carrasco Verdugo, Arquitecto doña Priscila Andrea Encalada Rueda y por el Constructor Civil don Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $2.853.054.-
+
+Director Serviu, Región de Ñuble.
