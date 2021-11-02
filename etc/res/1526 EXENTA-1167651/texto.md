@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.526, del 7 de octubre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí Nº 320, comuna de Chillán, Rol de Avalúo Nº 00643-00009, de aparente dominio de Sandoval Medina Rosa Elvira y otros. La parte afecta a expropiación total de terreno es de 296,63 m2 y total de edificación es de 115,42 m2, cuyos linderos particulares, enmarcados en el plano S16R-117, para el proyecto "Mejoramiento Avenida Huambalí comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, al Constructor Civil don Italo Renzo Zerga Arancibia y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $90.653.211.-
+
+Director Serviu Región de Ñuble.
