@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 779, de 3 de septiembre de 2021, se dejó sin efecto los numerales 3º 4º, 5º y 6º del Decreto Exento MOP. Nº 126, de 26 de marzo de 2019, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº33 y modificó el numeral segundo que se refiere al nombre del propietario, expropiado con motivo de la obra: Reposición Ruta 148 Sector: Cruce Ruta 5 - Puente Queime, Comuna de Bulnes, Región de Ñuble, antes Región del Biobío, que figura actualmente a nombre de ARRIAGADA FERNANDEZ EDGARDO MAUR, Comuna de Bulnes, Región de Ñuble. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 05 de agosto de 2016, ascendente a la cantidad de $105.000.- para el lote Nº33. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
