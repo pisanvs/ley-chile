@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.527, del 7 de octubre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Collin 1198, comuna de Chillán, Rol de Avalúo Nº 00507-00021, de aparente dominio de Leiva Vásquez Asdrubal de la Cru. La parte afecta a expropiación total de terreno es de 146,01 m2 (Lote 2) y total de edificación es de 283,10 m2, cuyos linderos particulares, enmarcados en el plano S16R-091, para el proyecto "Mejoramiento Avenida Diagonal Las Termas comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por la Constructor Civil doña Roxana Cecilia Abarzúa Gajardo, Arquitecto doña Consuelo Loreto Zuloaga Sanhueza y por la Arquitecto doña Pamela Macguire Acevedo, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $185.561.989.-
+
+Director Serviu Región de Ñuble.
