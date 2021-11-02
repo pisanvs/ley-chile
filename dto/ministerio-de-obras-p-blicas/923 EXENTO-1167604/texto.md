@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº923, de 05 de octubre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105ºdel DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.27 y 28, para la obra: MEJORAMIENTO CBI IMPERIAL CARAHUE POR EL BAJO, que figura a nombre de GAETE SAEZ ENA VICTORIA, rol de avalúo 606-49, Comuna de NUEVA IMPERIAL, REGION DE LA ARAUCANÍA, superficies 22 y 15 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, HANDY GHISLAINE CAMPOS SEPULVEDA y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 14 de junio de 2021, fijó el monto de la indemnización provisional en la cantidad de $359.600 para el lote Nº27, y $226.250 para el lote Nº28. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
