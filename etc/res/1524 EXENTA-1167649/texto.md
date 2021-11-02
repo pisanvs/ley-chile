@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.524, del 7 de octubre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí Nº 350, comuna de Chillán, Rol de Avalúo Nº 00643-00021, de aparente dominio de Gutiérrez Sepúlveda José. La parte afecta a expropiación parcial de terreno es de 132,32 m2, cuyos linderos particulares, enmarcados en el plano S16R-070, para el proyecto "Mejoramiento Avenida Huambalí, comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, el Constructor Civil don Italo Renzo Zerga Arancibia y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $100.693.630-
+
+Director Serviu Región de Ñuble.
