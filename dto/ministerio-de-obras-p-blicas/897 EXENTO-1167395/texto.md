@@ -1,0 +1,11 @@
+TRANSFERENCIA DE CONCESIÓN DE SERVICIOS SANITARIOS
+
+Por decreto supremo exento número 897 del Ministerio de Obras Públicas, de fecha 5 de octubre de 2021, tramitado con fecha 5 de octubre de 2021, se transfirió a la Empresa de Servicios Sanitarios San Isidro S.A., RUT N°96.889.730-6, domiciliada en Ruta S-30 N°05480, Lote B1, comuna de Temuco, Región de La Araucanía, las concesiones de producción y distribución de agua potable y de recolección y de disposición de aguas servidas, para la atención del sector que es titular la empresa Servicios Sanitarios Huertos Familiares S.A., en la zona de Huertos Familiares, comuna de Til Til, Región Metropolitana. Las concesiones se transfieren íntegramente y corresponden a las singularizadas en el decreto MOP N° 374 de 17 de mayo de 2005, inscrito en el Registro Público de la Superintendencia de Servicios Sanitarios con el N° 244, del mismo año.
+
+En virtud de la transferencia señalada en el punto anterior, la empresa de Servicios Sanitarios San Isidro S.A. (ESSSI S.A.), asume, además, el derecho de explotación de los servicios públicos de las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas en los términos actualmente vigentes. El programa de desarrollo a ejecutar por la Empresa de Servicios Sanitarios San Isidro S.A. (ESSSI S.A.), corresponden al aprobado para el cedente con fecha 4 de febrero de 2020, sin perjuicio de su revisión, acorde con la propuesta que debe presentar el nuevo concesionario en la oportunidad fijada por la Superintendencia de Servicios Sanitarios.
+
+El nivel tarifario, corresponde al vigente para la empresa que transfiere sus concesiones, calculados y sometidos a lo prescrito por el DFL MOP N° 70, de 1988, el que se encuentra fijado en el decreto Minecon N° 165 de 2017.
+
+Demás antecedentes constan en decreto extractado, el que fue reducido a Escritura Pública con fecha 22 de octubre de 2021 en la 29° Notaría de Santiago de don Jorge Figueroa Herrera.
+
+Santiago, octubre de 2021.- Jorge Rivas Chaparro, Superintendente de Servicios Sanitarios.
