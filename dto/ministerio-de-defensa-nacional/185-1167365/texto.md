@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 185, de 19 de mayo de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Ilustre Municipalidad de Calbuco, RUT 69.220.600-2, concesión marítima menor, con vencimiento 30 de junio de 2030, sobre un sector de Playa, en el lugar denominado Auyor (Aullar), comuna de Calbuco, Provincia de Llanquihue, Región de Los Lagos, con una superficie total de 713,05 m², la que fue tramitada con el SIABC N° 44.413. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 41°45'9,02" - 73°7'31,33". El objeto consiste en habilitar una rampa para uso de la comunidad. Las obras consisten habilitar el espacio para la construcción de una rampa. El plazo contemplado para su ejecución es de 12 meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Calbuco. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Jonathan Dimter Muñoz, Capitán de Corbeta LT, Capitán de Puerto de Calbuco.
