@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº956, de 07 de octubre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 23-A, 23-B y 23-C, para la obra: CONSERVACION RED VIAL REGION DE LOS LAGOS (2018 - 2020), PUENTE EL JOSE, que figuran a nombre de CISTERNA RUIZ ROSA EMILIA Y OTROS, roles de avalúo 100-80, Comuna de PALENA, REGIÓN DE LOS LAGOS, superficies 551, 72 y 1.278 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRES ECHEVERRIA CAMPO y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 09 de septiembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $242.440, para el lote Nº23-A, $31.680, para el lote Nº23-B y $1.534.320, para el lote Nº23-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
