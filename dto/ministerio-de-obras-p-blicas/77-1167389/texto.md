@@ -1,0 +1,13 @@
+AMPLIACIÓN DE CONCESIÓN DE SERVICIOS SANITARIOS ÁREA DENOMINADA "ALTO ESPERANZA", DE LA COMUNA DE ALTO HOSPICIO, REGIÓN DE TARAPACÁ
+
+Por decreto número 77, del Ministerio de Obras Públicas, de fecha 22 de abril de 2021, íntegramente tramitado el 15 de octubre de 2021, se concedió a la Empresa Concesionaria de Servicios Sanitarios S.A. (Econssa Chile S.A.), RUT N° 96.579.410-7, domiciliada para estos efectos en calle Monjitas número 392, piso 10, oficina 1003, Santiago, Región Metropolitana, ampliación de las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas para atender el área denominada "Alto Esperanza", de la comuna de Alto Hospicio, Región de Tarapacá.
+
+La zona de concesión o territorio operacional de los servicios de producción y distribución de agua potable y de recolección y disposición de aguas servidas, corresponderá área de una superficie total aproximada de 0,82 hectáreas, que se encuentra identificada y delimitada en el plano denominado "Convenio de Ampliación del Territorio Operacional Alto Hospicio - I Región. Área de Ampliación del Territorio Operacional A.T.O. Alto Esperanza" que forma parte integrante del presente decreto. En el primer establecimiento (año 2024), se considera la instalación de un arranque de agua potable y una unión domiciliaria de alcantarillado, cantidad que, en ambos casos, se mantendrá constante hasta el final del período (año 2034).
+
+El servicio público de producción de agua potable para la localidad de Alto Hospicio, incluido el sector que se amplía por este decreto, será abastecido por las fuentes que se indican en el numeral 3.1, letra a) de la respectiva Ficha de Antecedentes Técnicos (F.A.T.), sobre las cuales la concesionaria tiene los derechos que se individualizan en los respectivos informes de títulos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el Art. 26° del DS MOP N° 1.199/04, y se encuentran afectos a la concesión. Todos los documentos indicados forman parte integrante del presente decreto.
+
+Las demás condiciones de prestación de los servicios otorgados en concesión, son las establecidas en la Ficha de Antecedentes Técnicos (F.A.T.) N° SC 01-02 H, que forma parte integrante del presente decreto.
+
+Programa de desarrollo, nivel tarifario, garantías y otros en decreto extractado que se redujo a escritura pública con fecha 20 de octubre de 2021 ante el Notario de la 8ª Notaría de Santiago, don Luis Ignacio Manquehual Mery y archivados en la Superintendencia de Servicios Sanitarios bajo el N° SC 01-02 H.-
+
+Jorge Rivas Chaparro, Superintendente de Servicios Sanitarios.
