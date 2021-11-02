@@ -1,0 +1,5 @@
+CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 535, de fecha 21 de julio de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Puerto Oxxean Chacabuco S.A., sociedad chilena, RUT Nº 76.908.980-2, domiciliada en la comuna de Puerto Montt, Camino a Chinquihue Km 13,5, otorgamiento de concesión marítima menor, sobre un sector de porción de agua, en el lugar denominado Puerto Chacabuco, Comuna y Provincia de Aysén, Región de Aysén del General Carlos Ibáñez del Campo, la que fue tramitada con el SIABC Nº 43714. A modo referencial se señala la siguiente coordenada geográfica: 45º27'56.18" S; 72º49'31.04" W. El objeto de la concesión marítima consiste en "Amparar la instalación de 2 boyas de amarre de 1.000 hasta 5.000 TRG para nave Vava II". Los antecedentes de la concesión marítima se encuentran a disposición del público en la Capitanía de Puerto de Chacabuco. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Puerto Chacabuco, 13 de septiembre de 2021.- Felipe Zambrano Irribarra, Capitán de Corbeta LT, Capitán de Puerto de Chacabuco.
