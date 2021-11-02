@@ -1,0 +1,15 @@
+AMPLIACIÓN DE CONCESIÓN DE SERVICIOS SANITARIOS ÁREA DENOMINADA "ZONAS SUR", DE LA COMUNA DE PUNTA ARENAS, REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA
+
+Por decreto número 41, del Ministerio de Obras Públicas, de fecha 18 de marzo de 2020, íntegramente tramitado el 8 de octubre de 2021, se concedió a la Empresa Concesionaria de Servicios Sanitarios S.A. (Econssa Chile S.A.), RUT N° 96.579.410-7, domiciliada para estos efectos en calle Monjitas número 392, piso 10, oficina 1003, Santiago, Región Metropolitana, ampliación de las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas para atender el área denominada "Zonas Sur", de la comuna de Punta Arenas, Región de Magallanes y de la Antártica Chilena.
+
+La zona de concesión o territorio operacional de los servicios de producción y distribución de agua potable y de recolección y disposición de aguas servidas, se encuentra identificada y delimitada en el plano denominado "Solicitud de Ampliación de Concesión Sector Zonas Sur Punta Arenas Contenido: Sector de Ampliación Territorio Operacional Planta General", del Plan de Desarrollo, que forma parte integrante del presente decreto. En el primer establecimiento (año 2023), se considera la instalación de 2.032 arranques de agua potable y 2.029 uniones domiciliarias de alcantarillado, cantidad que aumentará a 2.085, en ambos casos, hacia el final del periodo (año 2033).
+
+El servicio público de producción de agua potable para los sectores señalados en el numeral primero precedente, que se amplían por este decreto, serán abastecidos por las fuentes que se indican en el numeral 3.1, letra a) de la Ficha de Antecedentes Técnicos (F.A.T.), sobre las cuales la concesionaria tiene los derechos que se individualizan en los informes de títulos respectivos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el Art. 26° del DS MOP N° 1.199/04, y se encuentran afectos a la concesión, documentos que forman parte integrante del presente decreto.
+
+Las demás condiciones de prestación de los servicios otorgados en concesión, son las establecidas en la Ficha de Antecedentes Técnicos (F.A.T.) N° 12-02 D, que forman parte integrante del presente decreto.
+
+Programa de desarrollo, nivel tarifario, garantías y otros en decreto extractado que se redujo a escritura pública con fecha 20 de octubre de 2021, ante el Notario de la 8ª Notaría de Santiago, don Luis Ignacio Manquehual Mery y archivados en la Superintendencia de Servicios Sanitarios bajo el N° SC 12-02 D.
+
+El referido decreto ha sido tomado razón con alcance conforme E142719/2021 representado por el oficio N° 7.846, de 2020 y atendido que se ha tenido a la vista la versión final de la solicitud de la peticionaria que ahora se ha acompañado, corrigiéndose las discrepancias advertidas en el referido oficio.-
+
+Jorge Rivas Chaparro, Superintendente de Servicios Sanitarios.
