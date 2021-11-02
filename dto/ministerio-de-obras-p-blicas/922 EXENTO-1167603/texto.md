@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº922, de 05 de octubre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 1, 2 y 3, para la obra: MEJORAMIENTO CBI RUTA T-525: LAS HUELLAS Y RUTA T-661 QUIMAN ALTO (QUIMÁN), que figura a nombre de INVERSIONES LAS NIEVES LIMITADA, rol de avalúo 72-17, Comuna de FUTRONO, REGION DE LOS RÍOS superficies 907, 163 y 78 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 07 de septiembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $8.824.500 para el lote Nº1, $l.614.900 para el lote Nº2, y $1.361.400 para el lote Nº3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
