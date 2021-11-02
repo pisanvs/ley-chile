@@ -1,0 +1,13 @@
+AMPLIACIÓN DE LAS CONCESIONES DE PRODUCCIÓN Y DISTRIBUCIÓN DE AGUA POTABLE Y DE RECOLECCIÓN Y DISPOSICIÓN DE AGUAS SERVIDAS PARA ATENDER EL SECTOR DENOMINADO "LAS PESQUERAS", COMUNA DE ARICA, REGIÓN DE ARICA Y PARINACOTA
+
+Por decreto número 16, del Ministerio de Obras Públicas, de fecha 22 de enero de 2021, íntegramente tramitado el 28 de septiembre de 2021, se concedió a la Empresa Concesionaria de Servicios Sanitarios S.A. (Econssa Chile S.A.), RUT Nº 96.579.410-7, domiciliada para estos efectos en calle Monjitas número 392, piso 10, oficina 1003, Santiago, Región Metropolitana, ampliación de las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas que la habilitan para atender el sector denominado "Las Pesqueras", de la comuna de Arica, Región de Arica y Parinacota.
+
+El área comprendida en la concesión o territorio operacional de los servicios de producción y distribución de agua potable y de recolección y disposición de aguas servidas que se otorgan, corresponderá a un área de aproximadamente 10,44 hectáreas y se encuentra identificada y delimitada en el plano denominado "Ampliación de Territorio Operacional Arica Contenido Planta General y Vértices Ato Sector Las Pesqueras Arica", que forma parte integrante del presente decreto. En el primer establecimiento (año 2020), se considera la instalación de 9 arranques de agua potable e igual número de uniones domiciliarias de alcantarillado, cantidad que en ambos casos se mantendrá hasta el final del periodo (año 2030).
+
+El servicio público de producción de agua potable para el sistema que se amplía este decreto, será abastecido por las fuentes que se indican en el numeral 3.1, letra a) de la Ficha de Antecedentes Técnicos (FAT) sobre las cuales la concesionaria tiene los derechos que se individualizan en los respectivos informes de títulos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el Art. 26º del DS MOP Nº 1.199/04, y que se encuentran afectos a la concesión. Todos los documentos indicados forman parte integrante del presente decreto.
+
+Las demás condiciones de prestación de los servicios otorgados en concesión, son las establecidas en la Ficha de Antecedentes Técnicos (FAT) Nº SC-15-01 D, que forma parte integrante del presente decreto.
+
+Programa de desarrollo, nivel tarifario, garantías y otros en decreto extractado que se redujo a escritura pública con fecha 12 de octubre de 2021, ante el Notario de la 8ª Notaría de Santiago, de don Luis Ignacio Manquehual Mery y archivados en la Superintendencia de Servicios Sanitarios bajo el Nº SC-15-01 D.
+
+Santiago, octubre de 2021.- Jorge Rivas Chaparro, Superintendente de Servicios Sanitarios.
