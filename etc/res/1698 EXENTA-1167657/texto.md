@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Exenta N° 1.698 del 22 de octubre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Diagonal Las Termas V Mackena 310, comuna de Chillán, Rol de Avalúo N°00521-00033, de aparente dominio de Gutiérrez Garrido Victoriano S. La parte afecta a expropiación total de terreno es de 437,76 m2 (Lote 46) y, cuyos linderos particulares, enmarcados en el plano S16R-174, para el proyecto "Mejoramiento Avenida Diagonal comuna de Chillán", conforme artículo 51 Ley 16.391 y D.L. 2186. Comisión Peritos integrada por la Arquitecto doña Cecilia María Carrasco Verdugo, Arquitecto doña Priscila Andrea Encalada Rueda y por el Constructor Civil don Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $62.332.254.-
+
+Director Serviu Región de Ñuble.
