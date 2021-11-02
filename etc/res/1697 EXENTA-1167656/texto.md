@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Exenta N°1.697 del 22 de octubre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí 296, comuna de Chillán, Rol de Avalúo N° 00697-00033, de aparente dominio de Salgado Moraga María Sebastiana. La superficie afecta a expropiación Parcial es de 44,35 m2 de terreno y la de expropiación Total es de 98,41 m2 de edificaciones, cuyos linderos particulares están enmarcados en el plano S16R-064, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 Ley N° 16.391 y D.L. N° 2.186. Comisión Peritos integrada por la Arquitecto doña Paola Loreto Martínez Perucca, la Arquitecto doña Carolina del Pilar Zuloaga Sanhueza, y por el Ingeniero Civil Industrial don Marcelo Esteban Moreno Venegas, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $16.063.178.-
+
+Director Serviu Región de Ñuble.
