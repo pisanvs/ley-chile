@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.523, del 7 de octubre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí Nº 366, comuna de Chillán, Rol de Avalúo Nº 00643-00010, de aparente dominio de Llanos Mejías Lorena del Pilar. La parte afecta a expropiación total de terreno 198,72 m2 y 139,94 m2 total de edificación, cuyos linderos particulares, enmarcados en el plano S16R-118, para el proyecto "Mejoramiento Avenida Huambalí, comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, el Constructor Civil don Italo Renzo Zerga Arancibia y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $112.050.110.-
+
+Director Serviu Región de Ñuble.
