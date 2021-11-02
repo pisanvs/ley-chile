@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°932, de 05 de octubre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N°C-1, para la obra: SISTEMA DE AGUA POTABLE RURAL LOS ALMENDROS, que figura a nombre de VASQUEZ FUENTES LUIS ALFONSO, rol de avalúo 305-341, Comuna de QUILLOTA, REGIÓN DE VALPARAÍSO, superficie 92,98 m2. La Comisión de Peritos integrada por CAROLINA CLAUDIA VERDEJO DÍAZ, HANDY GHISLAINE CAMPOS SEPULVEDA y PATRICIA VERÓNICA ZAVALA CONTRERAS, mediante informe de tasación de 24 de julio de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.348.210, para el lote N°C-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
