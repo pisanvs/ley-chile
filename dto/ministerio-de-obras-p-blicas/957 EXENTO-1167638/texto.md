@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°957, de 07 de octubre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N°3-B, para la obra: CONSERVACION RED VIAL REGION DE LOS LAGOS (2018 - 2020), PUENTE INCOPULLI N° 1, que figura a nombre de COLIVORO COLIVORO INGRID IDENIA Y O, rol de avalúo 217-56, Comuna de QUELLON, REGIÓN DE LOS LAGOS, superficie 1352 m2. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRES ECHEVERRIA CAMPO y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 15 de abril de 2020, fijó el monto de la indemnización provisional en la cantidad de $2.863.472, para el lote N°3-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
