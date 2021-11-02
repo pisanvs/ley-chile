@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº905, de 05 de octubre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.184-A1 y 184-A2, para la obra: MEJORAMIENTO RUTA W-175 SECTOR: LINAO-QUEMCHI, que figuran a nombre de CABIESES MARTINEZ CAROLINA DEL PILA y MARIA ALEJANDRA CHAIGNEAU MORALES, roles de avalúo 153-138 y 153-137, Comuna de QUEMCHI, REGIÓN DE LOS LAGOS, superficies 948 y 984 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, HANDY GHISLAINE CAMPOS SEPULVEDA y NICOLAS ALEJANDRO ALARCON SANCHEZ, mediante informe de tasación de 09 de febrero de 2021, fijó el monto de la indemnización provisional en la cantidad de $3.755.880, para el lote Nº184-A1 y $2.806.040, para el lote Nº184-A2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
