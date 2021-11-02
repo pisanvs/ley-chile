@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº851, de 23 de septiembre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 2, para la obra: CONSTRUCCION PASARELA LA PALMA CHICA Y LA PALMA GRANDE, que figura a nombre de SERVICIOS GEOSERVICE LIMITADA, rol de avalúo 1410-5, Comuna de RANCAGUA, REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficie 623 m2. La Comisión de Peritos integrada por ANDRES RAINER SCHULZ VILLANUEVA, RAYEN ALEJANDRA GUZMAN THEODULOZ y PATRICIA VERONICA ZAVALA CONTRERAS, mediante informe de tasación de 19 de marzo de 2021, fijó el monto de la indemnización provisional en la cantidad de $21.680.400 para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
