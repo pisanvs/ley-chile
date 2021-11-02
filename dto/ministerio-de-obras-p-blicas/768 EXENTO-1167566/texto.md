@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº768, de 03 de septiembre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº32, para la obra: MEJORAMIENTO RUTA 201-CH SECTOR: PELLAIFA - LIQUIÑE, REGIÓN LOS RÍOS, que figura a nombre de I MUNICIPALIDAD ESCUELA GN 1158, rol de avalúo 244-936, Comuna de PANGUIPULLI, REGION DE LOS RÍOS, superficie 92 m2. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 29 de enero de 2018, fijó el monto de la indemnización provisional en la cantidad de $2.045.600 para el lote Nº32. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
