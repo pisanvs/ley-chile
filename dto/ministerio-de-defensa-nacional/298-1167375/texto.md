@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 298, de fecha 6 de agosto de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Gonzalo Rafael Castro Serrano Transportes E.I.R.L., RUT 76.261.124-4, Concesión Marítima Menor, con vencimiento 30 de junio de 2031, sobre un sector de playa de mar, en el lugar denominado Palqui, comuna de Curaco de Vélez, Provincia de Chiloé, Región de Los Lagos, con una superficie total de 175,2 m², la que fue tramitada con el SIABC Nº 46.671. A modo referencial se señalan las siguientes coordenadas geográficas: Vértice A, Lat. 42º24'24,052" S, Long. 73º30'58,418" W. El objeto consiste en amparar la instalación y operación de un atracadero flotante. Las obras consisten en la instalación del atracadero flotante antes mencionado y el plazo contemplado para su ejecución es de 4 meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Achao. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Dennis Gallardo Salinas, Sargento 1° L. (Seg. M.), Capitán de Puerto de Achao.
