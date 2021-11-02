@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°915, de 05 de octubre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N°67-B, para la obra: MEJORAMIENTO RUTA W-175 SECTOR: LINAO - QUEMCHI, que figura a nombre de BALTER EXCEQUEL BARRÍA OYARZÚN, rol de avalúo 162-104, Comuna de QUEMCHI, REGIÓN DE LOS LAGOS, superficie 338 m2. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRÉS ECHEVERRIA CAMPO y YASCHALA MARIBEL YÁÑEZ RIFFO, mediante informe de tasación de 16 de abril de 2020, fijó el monto de la indemnización provisional en la cantidad de $899.045, para el lote N°67-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
