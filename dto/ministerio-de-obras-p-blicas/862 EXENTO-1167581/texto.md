@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº862, de 23 de septiembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº17, para la obra: MEJORAMIENTO RUTA CRUCE S-52 CANCURA - BOLDO HUACHO CRUCE S-482, que figura a nombre de MELIN HUAIQUIMIL ANDRES HUIRCAN Y O, rol de avalúo 605-278, Comuna de NUEVA IMPERIAL, REGION DE LA ARAUCANÍA, superficie 283 m2. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, CONSTANZA CAMILA VASQUEZ MUÑOZ y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 16 de abril de 2021, fijó el monto de la indemnización provisional en la cantidad de $505.500 para el lote Nº17. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
