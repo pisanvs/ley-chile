@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.521, del 7 de octubre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Almirante Latorre 183 Witcker, comuna de Chillán, Rol de Avalúo Nº 00515-00012, de aparente dominio de Lagos Godoy Rosana del Pilar. La superficie afecta a expropiación parcial es de 7,18 m² de terreno (Lote 34), cuyos linderos particulares están enmarcados en el plano S16R-173, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por la Arquitecto doña Priscilla Andrea Encalada Rueda, la Arquitecto doña Cecilia María Carrasco Verdugo y por el Constructor Civil don Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $2.440.173.-
+
+Director Serviu Región de Ñuble.
