@@ -58,7 +58,7 @@ En cuanto al cierro y el portón de acceso al bien nacional de uso público debe
 
 - Además podrán incluirse: Casetas de vigilancia, barreras u otras instalaciones necesarias para garantizar la seguridad en el control de acceso, todo lo cual deberá graficarse en el plano de emplazamiento.
 
-f) Cuando la calle o pasaje que se acoge a la presente ordenanza sea la vía de acceso a un bien nacional de uso público, será requisito para otorgar el permiso la existencia de un acceso peatonal adecuado a dicho bien, durante las 24 horas del día, el cual debe graficarse en el plano explicativo aludido en la letra anterior o en un plano anexo, a una escala adecuada para graficar la ubicación, el recorrido y el ancho y largo del acceso peatonal. Dicho acceso no podrá ser objeto de restricción o control alguno.
+f) Eliminada.
 
 g) La solicitud deberá ir acompañada de la individualización del Representante y Suplente de la Comunidad acogida a la presente ordenanza (nombres, apellidos, domicilio y teléfono) quienes asumirán las responsabilidades ante el Municipio, por el cumplimiento de las normas establecidas en ella, tanto en el cumplimiento de la construcción misma del cierre como en el funcionamiento y operatividad del mismo. Además, debe adjuntarse un acta suscrita por todos los propietarios que aprueban la solicitud, en donde conste el poder de representatividad a las personas señaladas en esta letra.
 
@@ -86,13 +86,7 @@ En todo caso, durante el periodo en que se mantenga abierto el cierre, se podrá
 
 #### Artículo 8º
 
-Los beneficiarios deberán tomar de su cargo la mantención y cuidado de las áreas verdes interiores, incluidas las plazuelas, juegos infantiles u otros equipamientos comunitarios existentes en las calles o pasajes que se acojan a esta ordenanza, y la limpieza y conservación de estas calles o pasajes. Asimismo, será de cargo de los beneficiarios el pago del alumbrado público de las calles o pasajes acogidos a la ordenanza.
-
-En todo caso, cuando los propietarios beneficiarios estén en una situación de marginalidad o de necesidad social grave, calificada por el Departamento de Desarrollo Comunitario, podrán ser excluidos de las obligaciones que impone este artículo y del pago de los derechos referidos en el artículo 11, letra h), con tal que lo pidan al momento de presentar la solicitud del artículo 3º de esta ordenanza, caso en el cual se derivará la solicitud de inmediato a la Dirección de Desarrollo Comunitario, para que evacue su informe dentro del plazo de diez días hábiles.
-
-Se presumirá el estado de marginalidad o de necesidad social grave cuando al menos la mitad de los propietarios beneficiarios del permiso pertenezcan a los dos quintiles más vulnerables de la población nacional, para lo cual podrá tenerse a la vista la ficha de protección social. La presunción contraria operará si al menos la mitad de los propietarios beneficiarios del permiso pertenecen a los dos quintiles menos vulnerables de la población nacional.
-
-Sin perjuicio de lo anterior, el Alcalde de la Comuna, previo informe favorable de la Dirección de Desarrollo Comunitario, tendrá la facultad de rebajar los derechos municipales correspondientes a la ocupación de Bien Nacional de Uso Público otorgado por el permiso precario, cuando los beneficiarios se encuentren en una situación económica escasa o notoriamente disminuida.
+Derogado.-
 
 #### Artículo 9º
 
@@ -100,7 +94,7 @@ Para los efectos de la extracción de residuos sólidos domiciliarios provenient
 
 #### Artículo 10º
 
-Los propietarios acogidos a la presente ordenanza deberán pagar, previo giro efectuado por el Departamento de Rentas Municipales, un derecho municipal anual ascendente al 25% de una Unidad Tributaria Mensual multiplicada por el número total de los propietarios que posean propiedades en las calles y pasajes respectivos. El pago se realizará de una sola vez y en forma conjunta, por el monto total anual, durante el mes de enero de cada año.
+Derogado.
 
 #### Artículo 11º
 
@@ -120,7 +114,7 @@ f) Deberán garantizar el acceso a los demás habitantes de la comuna y transeú
 
 g) Observar fielmente las disposiciones del presente cuerpo normativo.
 
-h) Pagar los derechos municipales por la ocupación de bien nacional de uso público que establece esta Ordenanza, debiendo enterarse dichos derechos en la fecha y montos correspondientes. El no pago de estos derechos pondrá término al permiso concedido.
+h) Eliminada.
 
 #### Artículo 12º
 
@@ -130,7 +124,7 @@ En caso que la Municipalidad deje sin efecto el permiso precario, los beneficiar
 
 #### Artículo 13º
 
-La supervisión del cumplimiento de las disposiciones de esta ordenanza estará a cargo del Departamento de Obras Municipales, quien coordinará su acción con las unidades que correspondan, sin perjuicio que todo Inspector Municipal deberá comunicar a dicha unidad cualquier incumplimiento que note en las disposiciones de la ordenanza. La liquidación y cobro de los derechos municipales estará a cargo del Departamento de Rentas Municipales.
+La supervisión del cumplimiento de las disposiciones de esta ordenanza estará a cargo del Departamento de Obras Municipales, quien coordinará su acción con las unidades que correspondan, sin perjuicio que todo Inspector Municipal deberá comunicar a dicha unidad cualquier incumplimiento que note en las disposiciones de la ordenanza.
 
 La inobservancia, por parte de los beneficiarios, de cualquiera de los requisitos establecidos en la presente Ordenanza, dará derecho al Municipio a poner término inmediato al permiso, de conformidad a lo dispuesto en el artículo anterior.
 
