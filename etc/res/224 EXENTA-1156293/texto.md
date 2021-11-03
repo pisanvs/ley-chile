@@ -26,11 +26,9 @@ d) Los correos electrónicos de fechas 21 y 23 de febrero de 2021 de los Jefes d
 
 Resolución:
 
-1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado. En tal sentido, se efectuarán procesos de selección en cada cierre, con los proyectos calificados para dichos efectos hasta los días 12 de marzo, 29 de abril, 24 de junio, 31 de agosto y 30 de noviembre, o hasta agotar la totalidad de los recursos dispuestos para cada Región, Provincia o comuna convocada, según corresponda.
+1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado. En tal sentido, se efectuarán procesos de selección en cada cierre, con los proyectos calificados para dichos efectos hasta los días 12 de marzo, 29 de abril, 24 de junio, 31 de agosto, 14 de octubre y 30 de noviembre, o hasta agotar la totalidad de los recursos dispuestos para cada Región, Provincia o comuna convocada, según corresponda.
 
 2. Los recursos involucrados para la selección de postulantes, por Región, Provincia y comuna convocada, son los siguientes:
-
-.
 
 3. El número de proyectos seleccionados en cada región, provincia o comuna alcanzará hasta el número de subsidios susceptibles de ser financiados con los recursos previstos en la tabla inserta en el resuelvo 2., incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones y ajustes que serán sancionados mediante resolución.
 
@@ -50,7 +48,7 @@ Con todo, para la obtención del Certificado de Calificación del proyecto, debe
 
 7. Establécese que el monto de subsidio base para los proyectos que participen del presente llamado, será de 330 Unidades de Fomento, al que se le aplicará el factor multiplicador definido en la resolución exenta Nº 1.874 (V. y U.), de 2015, según la comuna donde se ubique el proyecto.
 
-8. Establécese que el incremento de 40 Unidades de Fomento al que hace referencia el segundo inciso de la letra d) del artículo 35 del DS Nº 49 (V. y U.), de 2011, referido al Subsidio de Densificación en Altura, también podrá aplicarse en comunas de más de 30 mil habitantes, según los datos del último censo de población de que se disponga, o la actualización o proyección de población que publique el Instituto Nacional de Estadísticas para el año de ingreso del proyecto.
+8. Establécese que el incremento de 40 Unidades de Fomento a que hace referencia el segundo inciso de la letra d) del artículo 35 del DS N° 49 (V. y U.), de 2011, referido al Subsidio de Densificación en Altura, también podrá aplicarse en comunas de más de 30 mil habitantes, según los datos del último censo de población de que se disponga, o la actualización o proyección de población que publique el Instituto Nacional de Estadísticas para el año de ingreso del proyecto. Sin perjuicio de lo anterior, el incremento señalado podrá alcanzar hasta las 80 Unidades de Fomento, si el proyecto cumple con la totalidad de los requerimientos indicados en los números 4. a 8. de la letra a) del artículo 35 del DS N° 49 (V. y U.), de 2011, Subsidio Diferenciado a la Localización.
 
 9. El monto base del Subsidio de Habilitación, establecido en el inciso tercero de la letra h) del artículo 35, del DS N° 49 (V. y U.), de 2011, podrá alcanzar hasta las 280 Unidades de Fomento, en tanto, el monto adicional de habilitación que se destina para la ejecución de las obras especiales que en el citado inciso se especifican, podrá alcanzar hasta las 70 Unidades de Fomento.
 
