@@ -62,7 +62,9 @@ Resolución:
 
 6. El valor máximo del subsidio destinado a cada beneficiado se definirá conforme al porcentaje de vulnerabilidad indicado en su Registro Social de Hogares, acreditado al postular. En consecuencia, los montos máximos de subsidios que se otorgarán son los definidos en la siguiente tabla:
 
-7. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de hasta 212.973 UF correspondientes a 1.000 subsidios, que se distribuirán regionalmente según la tabla que se presenta a continuación, pudiendo practicarse redistribuciones o modificaciones de recursos que serán sancionadas mediante resolución:
+7. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de hasta 214.882 UF correspondientes a 1.009 subsidios, que se distribuirán regionalmente según la tabla que se presenta a continuación, pudiendo practicarse redistribuciones o modificaciones de recursos que serán sancionadas mediante resolución:
+
+.
 
 8. Se aceptará la presentación de cédulas de identidad que no estén vigentes, en conformidad a lo establecido en el DS Nº 11, que extiende la fecha de vencimiento de las cédulas de identidad para chilenos, y en el DS Nº 116, que extiende vigencia de cédula de identidad para extranjeros, ambos decretos del Ministerio de Justicia y Derechos Humanos.
 
