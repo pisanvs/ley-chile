@@ -3218,6 +3218,8 @@ t) Dictar resoluciones de destinación.
 
 u) Autorizar permisos sin goce de remuneraciones.
 
+v) Dictar resoluciones fundadas de inicio, término y declarando desierto, según corresponda, en los procesos de reclutamiento y selección, correspondientes a las regiones Metropolitana de Santiago y del Libertador General Bernardo O'Higgins.
+
 2º En el Jefe del Departamento Calidad de Vida y Bienestar, la facultad de firmar solicitudes de préstamos, becas y ayudas de la Caja de Compensación.
 
 3º En el Jefe del Departamento Gestión de Personas las siguientes facultades:
@@ -3466,21 +3468,21 @@ k) Poner término al convenio de un prestador de la Modalidad Libre Elección, p
 
 l) Firmar respuestas a solicitudes ciudadanas escalables.
 
-m) Aprobar llamados y/o bases de licitación en procesos de compras cuyo monto sea superior a 100 Unidades Tributarias Mensuales e inferiores a 1.000 Unidades Tributarias Mensuales y en los procesos licitatorios relacionados con el Subtítulo 22-08-001 "Servicios de Aseo" del Clasificador Presupuestario vigente, cuyo monto máximo sea de 5.000 UTM.
+m) Aprobar llamados y/o bases de licitación en procesos de compras cuyo monto sea superior a 100 Unidades Tributarias Mensuales e inferiores a 1.000 Unidades Tributarias Mensuales y en los procesos licitatorios relacionados con los Subtítulos 22-08-001 "Servicios de Aseo" y 22-08-002 "Servicios de Vigilancia" del Clasificador Presupuestario vigente, cuyo monto máximo sea de 8.000 UTM tratándose de la Dirección Zonal Norte y Dirección Zonal Sur, y de 10.000 UTM respecto de la Dirección Zonal Centro Norte y Dirección Zonal Centro Sur.
 
-n) Modificar calendarios de licitación y/o bases de licitación en procesos de compras cuyo monto sea superior a 100 Unidades Tributarias Mensuales e inferiores a 1.000 Unidades Tributarias Mensuales y en los procesos licitatorios relacionados con el Subtítulo 22-08-001 "Servicios de Aseo" del Clasificador Presupuestario vigente, cuyo monto máximo sea de 5.000 UTM.
+n) Modificar calendarios de licitación y/o bases de licitación en procesos de compras cuyo monto sea superior a 100 Unidades Tributarias Mensuales e inferiores a 1.000 Unidades Tributarias Mensuales y en los procesos licitatorios relacionados con los Subtítulos 22-08-001 "Servicios de Aseo" y 22-08-002 "Servicios de Vigilancia" del Clasificador Presupuestario vigente, cuyo monto máximo sea de 8.000 UTM tratándose de la Dirección Zonal Norte y Dirección Zonal Sur, y de 10.000 UTM respecto de la Dirección Zonal Centro Norte y Dirección Zonal Centro Sur.
 
-o) Adjudicar procesos licitatorios en procesos de compras cuyo monto sea superior a 100 Unidades Tributarias Mensuales e inferiores a 1.000 Unidades Tributarias Mensuales y en los procesos licitatorios relacionados con el Subtítulo 22-08-001 "Servicios de Aseo" del Clasificador Presupuestario vigente, cuyo monto máximo sea de 5.000 UTM.
+o) Adjudicar procesos licitatorios en procesos de compras cuyo monto sea superior a 100 Unidades Tributarias Mensuales e inferiores a 1.000 Unidades Tributarias Mensuales y en los procesos licitatorios relacionados con los Subtítulos 22-08-001 "Servicios de Aseo" y 22-08-002 "Servicios de Vigilancia" del Clasificador Presupuestario vigente, cuyo monto máximo sea de 8.000 UTM tratándose de la Dirección Zonal Norte y Dirección Zonal Sur, y de 10.000 UTM respecto de la Dirección Zonal Centro Norte y Dirección Zonal Centro Sur.
 
-p) Suscribir, modificar y terminar contratos en procesos de compras cuyo monto sea superior a 100 Unidades Tributarias Mensuales e inferiores a 1.000 Unidades Tributarias Mensuales y en los procesos licitatorios relacionados con el Subtítulo 22-08-001 "Servicios de Aseo" del Clasificador Presupuestario vigente, cuyo monto máximo sea de 5.000 UTM.
+p) Suscribir, modificar y terminar contratos en procesos de compras cuyo monto sea superior a 100 Unidades Tributarias Mensuales e Inferiores a 1.000 Unidades Tributarias Mensuales y en los procesos licitatorios relacionados con los Subtítulos 22-08-001 "Servicios de Aseo" y 22-08-002 "Servicios de Vigilancia" del Clasificador Presupuestario vigente, cuyo monto máximo sea de 8.000 UTM tratándose de la Dirección Zonal Norte y Dirección Zonal Sur, y de 10.000 UTM respecto de la Dirección Zonal Centro Norte y Dirección Zonal Centro Sur.
 
-q) Aprobar suscripción de contratos en procesos de compras cuyo monto sea superior a 100 Unidades Tributarias Mensuales e inferiores a 1.000 Unidades Tributarias Mensuales y en los procesos licitatorios relacionados con el Subtítulo 22-08-001 "Servicios de Aseo" del Clasificador Presupuestario vigente, cuyo monto máximo sea de 5.000 UTM.
+q) Aprobar suscripción de contratos en procesos de compras cuyo monto sea superior a 100 Unidades Tributarias Mensuales e inferiores a 1.000 Unidades Tributarias Mensuales y en los procesos licitatorios relacionados con los Subtítulos 22-08-001 "Servicios de Aseo" y 22-08-002 "Servicios de Vigilancia" del Clasificador Presupuestario vigente, cuyo monto máximo sea de 8.000 UTM tratándose de la Dirección Zonal Norte y Dirección Zonal Sur, y de 10.000 UTM respecto de la Dirección Zonal Centro Norte y Dirección Zonal Centro Sur.
 
-r) Aprobar modificaciones de contratos en procesos de compras cuyo monto sea superior a 100 Unidades Tributarias Mensuales e inferiores a 1.000 Unidades Tributarias Mensuales y en los procesos licitatorios relacionados con el Subtítulo 22-08-001 "Servicios de Aseo" del Clasificador Presupuestario vigente, cuyo monto máximo sea de 5.000 UTM.
+r) Aprobar modificaciones de contratos en procesos de compras cuyo monto sea superior a 100 Unidades Tributarias Mensuales e inferiores a 1.000 Unidades Tributarias Mensuales y en los procesas licitatorios relacionados con los Subtítulos 22-08-001 "Servicios de Aseo" y 22-08-002 "Servicios de Vigilancia" del Clasificador Presupuestario vigente, cuyo monto máximo sea de 8.000 UTM tratándose de la Dirección Zonal Norte y Dirección Zonal Sur, y de 10.000 UTM respecto de la Dirección Zonal Centro Norte y Dirección Zonal Centro Sur.
 
-s) Declarar desiertos procesos licitatorios en procesos de compras cuyo monto sea superior a 100 Unidades Tributarias Mensuales e inferiores a 1.000 Unidades Tributarias Mensuales, y en los procesos licitatorios relacionados con el Subtítulo 22-08-001 "Servicios de Aseo" del Clasificador Presupuestario vigente, cuyo monto máximo sea de 5.000 UTM.
+s) Declarar desiertos procesos licitatorios en procesos de compras cuyo monto sea superior a 100 Unidades Tributarias Mensuales e inferiores a 1.000 Unidades Tributarias Mensuales, y en los procesos licitatorios relacionados con los Subtítulos 22-08-001 "Servicios de Aseo" y 22-08-002 "Servicios de Vigilancia" del Clasificador Presupuestario vigente, cuyo monto máximo sea de 8.000 UTM tratándose de la Dirección Zonal Norte y Dirección Zonal Sur, y de 10.000 UTM respecto de la Dirección Zonal Centro Norte y Dirección Zonal Centro Sur.
 
-t) Aprobar términos de contratos en procesos de compras cuyo monto sea superior a 100 Unidades Tributarias Mensuales e inferiores a 1.000 Unidades Tributarias Mensuales y en los procesos licitatorios relacionados con el Subtítulo 22-08-001 "Servicios de Aseo" del Clasificador Presupuestario vigente, cuyo monto máximo sea de 5.000 UTM.
+t) Aprobar términos de contratos en procesos de compras cuyo monto sea superior a 100 Unidades Tributarlas Mensuales e Inferiores a 1.000 Unidades Tributarias Mensuales y en los procesos licitatorios relacionados con los Subtítulos 22-08-001 "Servicios de Aseo" y 22-08-002 "Servicios de Vigilancia" del Clasificador Presupuestario vigente, cuyo monto máximo sea de 8.000 UTM tratándose de la Dirección Zonal Norte y Dirección Zonal Sur, y de 10.000 UTM respecto de la Dirección Zonal Centro Norte y Dirección Zonal Centro Sur.
 
 u) Autorizar la compra o trato directo en los casos fundados que señala el artículo 8º de la ley Nº 19.886, en relación con el artículo 10º del decreto supremo Nº 250, de 2004, del Ministerio de Hacienda -con excepción de los casos de emergencia, urgencia o imprevisto- en procesos de compras cuyo monto sea superior a 100 Unidades Tributarias Mensuales e inferiores a 2.500 Unidades Tributarias Mensuales, así como suscribir, modificar y terminar los contratos respectivos y dictar las respectivas resoluciones que aprueban estas convenciones.
 
@@ -3537,6 +3539,8 @@ qq) Suscribir y administrar los convenios con entidades delegadas, que sean excl
 rr) Poner término a convenios suscritos con entidades para venta de bonos de atención de salud, conforme a los términos del propio convenio.
 
 ss) Aprobar los Gastos de Representación, Protocolo y Ceremonial (Ítem 22-12-003).
+
+tt) Dictar resoluciones fundadas de inicio, término y declarando desierto, según corresponda, en los procesos de reclutamiento y selección correspondientes a las regiones de su jurisdicción.
 
 2º En el Jefe del Departamento Gestión y Desarrollo de las Personas de las Direcciones Zonales las siguientes facultades:
 
