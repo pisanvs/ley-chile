@@ -18,7 +18,7 @@ Resuelvo:
 
 1. Modificase el punto N° 1 de la resolución N° 2.607 de fecha 7 de diciembre de 2020 de la Seremi de Salud de Magallanes y Antártica Chilena, quedando como sigue:
 
-Las personas que ingresen a la Región de Magallanes y Antártica Chilena o a la comuna de Cabo de Hornos, deberán exhibir un examen de RT-PCR negativo, tomado en un plazo no superior a 72 horas previas a su ingreso o un examen de antígeno negativo para detectar el SARS-CoV2, tomado en un establecimiento autorizado por la autoridad sanitaria en un plazo no superior a 48 horas previas a su ingreso. Dichos exámenes serán exigibles a partir de los 9 años de edad.
+Las personas que ingresen a la Región de Magallanes y Antártica Chilena o a la comuna de Cabo de Hornos, deberán exhibir un examen de RT-PCR negativo, tomado en un plazo no superior a 72 horas previas a su ingreso o un examen de antígeno negativo para detectar el SARS-CoV2, tomado en un establecimiento autorizado por la autoridad sanitaria en un plazo no superior a 48 horas previas a su ingreso. Dichos exámenes serán exigibles a partir de los 12 años de edad.
 
 2. En lo demás rija íntegramente la resolución N° 2.607, de 7 de diciembre de 2020 y sus modificaciones posteriores en lo que no sea incompatible con lo resuelto por el presente acto.
 
