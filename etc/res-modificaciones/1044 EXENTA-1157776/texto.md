@@ -20,7 +20,7 @@ Resuelvo:
 
 1. Modifícase la resolución Nº 309, de fecha 11 de febrero de 2021, de la Seremi de Salud de Magallanes y Antártica Chilena, en el siguiente sentido:
 
-Prorróguese hasta el 31 de octubre de 2021 el plazo establecido para exigir un examen de RT-PCR negativo para toda persona que desee ingresar a la comuna de Cabo de Hornos o un examen de antígeno negativo, en los términos ya expuestos.
+Prorróguese hasta el 30 de noviembre de 2021 el plazo establecido para exigir un examen de RT-PCR negativo para toda persona que desee ingresar a la comuna de Cabo de Hornos o un examen de antígeno negativo.
 
 2. En lo no modificado, rijan íntegramente las resoluciones Nº 2.607, de 7 de diciembre de 2020, y Nº 309, de 11 de febrero de 2021, ambas de esta Seremi de Salud.
 
