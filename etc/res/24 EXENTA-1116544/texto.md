@@ -114,6 +114,8 @@ c. Situación en materia de cargos pendientes en contra del (la) funcionario(a).
 
 40) Designar a través de acto administrativo a las personas que tendrán en su respectiva región la calidad de sujetos pasivos de acuerdo a la Ley N° 20.730, que regula el Lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios, de conformidad con lo dispuesto en la mencionada ley y en su respectivo reglamento.
 
+41) Dar de baja los vehículos motorizados asignados a la respectiva dependencia regional de conformidad a lo establecido en los artículos 12 y 14 del DL Nº 429, de 1974, del Ministerio de Hacienda.
+
 #### Artículo segundo
 
 Adóptense por la Sección Secretaría Documental las medidas conducentes a la publicación de la presente resolución en el Diario Oficial, en cumplimiento de lo dispuesto en el artículo 48 de la Ley N° 19.880, que establece las Bases de los Procedimientos Administrativos que rigen los Órganos de la Administración Pública, fecha desde la cual entrará en vigencia lo dispuesto en ella.
