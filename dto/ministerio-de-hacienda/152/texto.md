@@ -258,33 +258,35 @@ Los fondos destinados a los beneficiarios se distribuirán entre ellos en la sig
 
 1.- Fondo Nacional de Salud 3,0%
 
-2.- Consejo de Defensa del Niño 6,0%
+2.- Consejo de Defensa del Niño 5,5%
 
 3.- Consejo Nacional de Protección a la
 
-Ancianidad 12%
+Ancianidad 11,5%
 
 4.- Corporación de Ayuda al Niño
 
-Limitado-COANIL 12%
+Limitado-COANIL 11,5%
 
-5.- Cruz Roja de Chile 8%
+5.- Cruz Roja de Chile 7,5%
 
 6.- Cuerpo de Bomberos de Chile 20%
 
 7.- Fundación de Beneficencia Aldea de Niños
 
-Cardenal Raúl Silva Henríquez 15%
+Cardenal Raúl Silva Henríquez 14,5%
 
 8.- Fundación de Instrucción Agrícola Adolfo
 
-Matthei 2%
+Matthei 1,5%
 
-9.- Sociedad de Asistencia y Capacitación 5%
+9.- Sociedad de Asistencia y Capacitación 4,5%
 
-10.- Sociedad Pro-Ayuda al Niño Lisiado 10%
+10.- Sociedad Pro-Ayuda al Niño Lisiado 9,5%
 
-11.- Voto Nacional O'Higgins 7%
+11.- Voto Nacional O'Higgins 6,5%
+
+12. Junta Nacional de Botes Salvavidas de Chile 4,5%
 
 A partir de la fecha en que cualquiera de las entidades beneficiarias deje de desarrollar el fin principal para el cual fue instituida, que se declarará mediante decreto supremo fundado expedido a través del Ministerio de Hacienda o de Justicia, en el caso de las Corporaciones o Fundaciones, cesará en su derecho a participar del fondo a que se refiere este artículo y el porcentaje previsto a su respecto acrecerá al de los beneficiarios restantes, en proporción a la respectiva participación que a aquéllos corresponda.
 
