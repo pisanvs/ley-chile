@@ -18,13 +18,17 @@ Efectiva
 
 Las exenciones, rebajas y recargos de la cotización adicional a que se refiere el artículo 16 de la Ley Nº16.744, se determinarán por las Mutualidades de Empleadores respecto de las entidades empleadoras adheridas a ellas y por las secretarías regionales ministeriales de salud respecto de las demás entidades empleadoras, incluso de aquellas que tengan la calidad de administradoras delegadas. Lo anterior se efectuará en relación con la magnitud de la siniestralidad efectiva, de acuerdo con las disposiciones de este Reglamento.
 
+La entidad empleadora que establezca medidas efectivas para eliminar, controlar o reducir apreciablemente, según corresponda, sus riesgos de accidentes del trabajo y enfermedades profesionales, se le rebajará o eximirá de la tasa de cotización adicional, conforme al procedimiento establecido en este reglamento.
+
+> **Nota.** El artículo segundo transitorio del Decreto 7, Trabajo, publicado el 23.07.2021, dispone que las modificaciones incorporadas al presente artículo serán aplicables a partir del Proceso de Evaluación que se inicia el 1° de julio de 2023.
+
 #### Artículo 2º
 
 Para los efectos de este decreto se entenderá por:
 
 a) Siniestralidad Efectiva:
 
-Las incapacidades y muertes provocadas por accidentes del trabajo y enfermedades profesionales. Quedan excluidas las incapacidades y muertes originadas por los accidentes a que se refieren los incisos segundo y tercero del artículo 5º de la Ley Nº16.744.
+Las incapacidades y muertes provocadas por accidentes del trabajo y enfermedades profesionales. Quedan excluidas las incapacidades y muertes originadas por los accidentes a que se refieren los incisos segundo y tercero del artículo 5º y el artículo 6° de la Ley Nº16.744.
 
 Se excluyen además, las incapacidades y muertes causadas por accidentes del trabajo ocurridos en una entidad empleadora distinta de la evaluada, o por enfermedades profesionales contraídas como consecuencia del trabajo realizado en una entidad empleadora distinta de la evaluada, cualquiera fuese la fecha del diagnóstico o del dictamen de incapacidad. Estas incapacidades y muertes deberán considerarse en la evaluación de la entidad empleadora en que ocurrió el accidente o se contrajeron las enfermedades, siempre que ello haya ocurrido dentro de los cinco años anteriores al 1º de julio del año en que se efectúe el Proceso de Evaluación.
 
@@ -118,6 +122,8 @@ k) Tasa de Siniestralidad Total:
 
 Es la suma de la Tasa Promedio de Siniestralidad por Incapacidades Temporales y la Tasa de Siniestralidad por Invalideces y Muertes.
 
+> **Nota.** El artículo segundo transitorio del Decreto 7, Trabajo, publicado el 23.07.2021, dispone que las modificaciones incorporadas al presente artículo serán aplicables a partir del Proceso de Evaluación que se inicia el 1° de julio de 2023.
+
 #### Artículo 3º
 
 Para el cálculo de la Tasa de Siniestralidad por Invalideces y Muertes se considerarán aquellas invalideces declaradas por primera vez en el Período de Evaluación siempre que sean iguales o superiores al 15%. En caso de aumento del grado de incapacidad en el Período de Evaluación, para la aplicación de la tabla contenida en el número 1 de la letra j) del artículo anterior, se considerará el nuevo grado de invalidez profesional y al valor que le corresponda en dicha tabla deberá descontársele el valor que se hubiere computado anteriormente. En el caso que el aumento del grado de incapacidad se produzca en una entidad empleadora distinta a aquella en que se originó la anterior incapacidad, para los efectos de la aplicación de la tabla de la letra j), número 1.- del artículo anterior, el grado de invalidez profesional a considerar, será el que resulte de la diferencia entre el nuevo grado de invalidez y el grado de invalidez anterior. La muerte se considerará siempre que no hubiere mediado una declaración de invalidez igual o superior al 15%, derivada del siniestro que la causó.
@@ -176,7 +182,9 @@ total (%)
 
 981 y más 6,80
 
-Si durante el Período de Evaluación en una entidad empleadora hubieren ocurrido una o más muertes por accidentes del trabajo, el respectivo Organismo Administrador deberá investigar las causas de los siniestros y, si se formare la convicción de que éstos se han originado por falta de prevención por parte del empleador, la tasa de Cotización Adicional resultante del Proceso de Evaluación se elevará al porcentaje inmediatamente superior de la tabla precedente.
+Si durante el Período de Evaluación en una entidad empleadora hubieren ocurrido una o más muertes por accidentes del trabajo, el respectivo Organismo Administrador deberá investigar las causas de los siniestros y si en esa investigación se concluye que se han originado por la falta de medidas preventivas que, de haber sido tomadas por el empleador, hubieran evitado el accidente, la tasa de Cotización Adicional resultante del Proceso de Evaluación se elevará al porcentaje inmediatamente superior de la Tabla precedente.
+
+> **Nota.** El artículo segundo transitorio del Decreto 7, Trabajo, publicado el 23.07.2021, dispone que las modificaciones incorporadas al presente artículo serán aplicables a partir del Proceso de Evaluación que se inicia el 1° de julio de 2023.
 
 T I T U L O II
 
@@ -188,7 +196,7 @@ Las secretarías regionales ministeriales de salud y las Mutualidades de Emplead
 
 La evaluación la efectuarán obligatoriamente respecto de todas las entidades empleadoras con las solas excepciones que se indican en este Reglamento. Respecto de aquellas entidades empleadoras afiliadas al Instituto de Seguridad Laboral, la evaluación que realicen las secretarías regionales ministeriales de salud, se hará teniendo en cuenta el informe emitido por dicho Instituto en que éste proponga la tasa de cotización a aplicar y contenga los antecedentes en que se funde. Este informe deberá ingresar a las secretarías regionales ministeriales de salud a más tardar el 15 de agosto del año en que se realice la evaluación.
 
-Para la emisión del informe por parte del Instituto de Seguridad Laboral, las secretarías regionales ministeriales de salud proporcionarán a aquél, semestralmente, la información respecto del número de días de subsidio otorgados por ellos conforme a la ley Nº16.744, desglosado por entidad empleadora y dentro de ésta por trabajador, indicando en cada caso el período a que corresponde cada subsidio. La información anterior deberá ingresar al Instituto de Seguridad Laboral, a más tardar el 15 del mes siguiente al término del semestre al cual corresponda.
+> **Nota.** El artículo segundo transitorio del Decreto 7, Trabajo, publicado el 23.07.2021, dispone que las modificaciones incorporadas al presente artículo serán aplicables a partir del Proceso de Evaluación que se inicia el 1° de julio de 2023.
 
 #### Artículo 6º bis
 
@@ -206,15 +214,11 @@ No obstante, si la entidad empleadora deriva de otra que podría ser evaluada y 
 
 #### Artículo 8º
 
-Las rebajas y exenciones de la cotización adicional procederán sólo respecto de las entidades empleadoras que hayan acreditado ante el Organismo Administrador, al 31 de octubre del año en que se realiza el Proceso de Evaluación, que cumplen los siguientes requisitos:
+Las rebajas y exenciones de la cotización adicional procederán sólo respecto de las entidades empleadoras que se encuentren al día en el pago de las cotizaciones de la ley N° 16.744, y que al 31 de octubre del año en que se realiza el Proceso de Evaluación, acrediten ante el Organismo Administrador, haber mantenido en funcionamiento, durante el último período anual del período de evaluación, un sistema de gestión de seguridad y salud en el trabajo.
 
-a) Hallarse al día en el pago de las cotizaciones de la ley Nº16.744;
+Sin perjuicio de lo anterior, las entidades empleadoras que no puedan acceder a la rebaja o exención de la cotización adicional por no haber acreditado el cumplimiento de lo requerido en el inciso anterior y que lo hagan con posterioridad pero antes del 1º de enero del año siguiente, tendrán derecho a que la tasa de cotización adicional determinada en el Proceso de Evaluación se les aplique a contar del 1º del tercer mes siguiente a aquel en que lo acrediten y hasta el 31 de diciembre del año siguiente.
 
-b) Tener en funcionamiento, cuando proceda, el o los Comités Paritarios de Higiene y Seguridad, con arreglo a las disposiciones del D.S. Nº54, de 1969, del Ministerio del Trabajo y Previsión Social, para lo cual las entidades empleadoras deberán haber enviado los antecedentes requeridos en el artículo 10 de este decreto, y
-
-c) El cumplimiento, cuando procediere, de las disposiciones establecidas en los Títulos III, V y VI del decreto supremo Nº40, de 1969, del Ministerio del Trabajo y Previsión Social, mediante informe de la entidad empleadora respecto de las medidas adoptadas al efecto en los últimos dos Períodos Anuales considerados en el Proceso de Evaluación.
-
-Sin perjuicio de lo anterior, las entidades empleadoras que no puedan acceder a la rebaja o exención de la cotización adicional por no haber dado cumplimiento a lo requerido en el inciso anterior y que lo hagan con posterioridad pero antes del 1º de enero del año siguiente, tendrán derecho a que la tasa de cotización adicional determinada en el Proceso de Evaluación se les aplique a contar del 1º del tercer mes siguiente a aquel en que hayan acreditado el cumplimiento de todos los requisitos y hasta el 31 de diciembre del año siguiente.
+> **Nota.** El artículo segundo transitorio del Decreto 7, Trabajo, publicado el 23.07.2021, dispone que las modificaciones incorporadas al presente artículo serán aplicables a partir del Proceso de Evaluación que se inicia el 1° de julio de 2023.
 
 #### Artículo 9º
 
@@ -224,7 +228,11 @@ Si la entidad empleadora no declarase sus cotizaciones en uno o más meses del P
 
 #### Artículo 10
 
-Las entidades empleadoras que puedan acceder a rebajar su tasa de cotización adicional deberán enviar en el mes de octubre del año en que se realice la evaluación, al Instituto de Seguridad Laboral o la Mutualidad de Empleadores, según corresponda, las copias de las actas de constitución de todos los Comités Paritarios de Higiene y Seguridad que se hayan constituido por primera vez o renovado en los dos últimos Períodos Anuales en la entidad empleadora, y una declaración jurada ante Notario del representante legal de ésta, suscrita también por los miembros de dichos Comités, en que se certifique el funcionamiento de cada uno de los Comités Paritarios existentes en la entidad empleadora en los correspondientes Períodos Anuales.
+Las entidades empleadoras que puedan acceder a rebajar su tasa de cotización adicional deberán enviar a su organismo administrador, en formato papel o digital, en el mes de octubre del año en el que se realice la evaluación, los antecedentes que acrediten la implementación y mantención en funcionamiento del sistema de gestión de seguridad y salud en el trabajo a que se refiere el artículo 8°. Dicho sistema de gestión deberá incluir, al menos, una política de seguridad y salud en el trabajo, aprobada por el representante legal de la entidad empleadora, un diagnóstico de situación y un programa de trabajo, en el que se especifiquen los responsables y los plazos de ejecución de cada actividad. Los elementos básicos que deberán contener la política de seguridad y salud en el trabajo, así como el diagnóstico de situación y el programa de trabajo antes señalado, según el tamaño de cada entidad empleadora, serán determinados por una norma de carácter general establecida por la Superintendencia de Seguridad Social.
+
+Los Organismos Administradores deberán brindar asistencia técnica a las entidades empleadoras en la implementación y funcionamiento del sistema de gestión de seguridad y salud en el trabajo, conforme a las instrucciones que imparta la Superintendencia de Seguridad Social. Si en el contexto de esa asistencia técnica se verifica el cumplimiento de los requisitos establecidos en el inciso primero del artículo 8° conforme a lo que establezcan las referidas instrucciones, tales requisitos se entenderán cumplidos y las entidades empleadoras accederán a la rebaja o exención de la cotización adicional diferenciada que corresponda, sin que sea necesario la remisión de los antecedentes a que se refiere el inciso precedente.
+
+> **Nota.** El artículo segundo transitorio del Decreto 7, Trabajo, publicado el 23.07.2021, dispone que las modificaciones incorporadas al presente artículo serán aplicables a partir del Proceso de Evaluación que se inicia el 1° de julio de 2023.
 
 #### Artículo 11
 
@@ -256,69 +264,103 @@ El aporte que deberán efectuar las empresas administradoras delegadas del segur
 
 T I T U L O III
 
-Recargos por Incumplimiento de las Medidas
+Recargos por Incumplimiento de la Normativa de Seguridad y Salud en el Trabajo, y de las Medidas deSeguridad, Prevención e Higiene
 
-de Seguridad, Prevención e Higiene
+> **Nota.** El artículo segundo transitorio del Decreto 7, Trabajo, publicado el 23.07.2021, dispone que las modificaciones incorporadas al presente artículo serán aplicables a partir del Proceso de Evaluación que se inicia el 1° de julio de 2023.
 
 #### Artículo 15
 
-Las secretarías regionales ministeriales de salud y las Mutualidades de Empleadores, de oficio, o por denuncia del Instituto de Seguridad Laboral, cuando corresponda, del Comité Paritario de Higiene y Seguridad, de la Dirección del Trabajo, del Servicio Nacional de Geología y Minería, de la Dirección del Territorio Marítimo y Marina Mercante o de cualquier persona, podrán, además, imponer recargos de hasta un 100% de las tasas que establece el D.S. Nº110, de 1968, del Ministerio del Trabajo y Previsión Social, por las causales que más adelante se indican. Dichos recargos deberán guardar relación con la magnitud del incumplimiento y con el número de trabajadores de la entidad empleadora afectada con el mismo. Las causales por las que se podrá imponer el recargo a que alude este artículo son las siguientes: a) La sola existencia de condiciones inseguras de
+Las secretarías regionales ministeriales de salud y las Mutualidades de Empleadores, de oficio, o a petición del Instituto de Seguridad Laboral, cuando corresponda, o por denuncia del Comité Paritario de Higiene y Seguridad, de la Dirección del Trabajo, del Servicio Nacional de Geología y Minería, de la Dirección del Territorio Marítimo y Marina Mercante o de cualquier persona, deberán, además, imponer recargos de hasta un 100% de las tasas que correspondan conforme a la letra b) del artículo 15 de la ley N° 16.744, por las causales que más adelante se indican. A las entidades empleadoras y trabajadores independientes cuya actividad económica principal tenga asociada una tasa de cotización adicional diferenciada igual a cero, se les impondrá un recargo de hasta un 100% de la tasa inmediatamente superior. Dichos recargos deberán guardar relación con la magnitud del incumplimiento y con el número de trabajadores de la entidad empleadora afectada con el mismo.
 
-trabajo:
+Las causales por las que se deberá imponer el recargo a que alude este artículo son las siguientes:
 
-b) La falta de cumplimiento de las medidas de
+a) La sola existencia de condiciones
 
-prevención exigidas por los respectivos Organismos
+inseguras de trabajo de
 
-Administradores del Seguro o por la Secretaría
+carácter grave:
 
-Regional Ministerial de Salud correspondiente;
+b) La falta de cumplimiento
 
-c) La comprobación del uso en los lugares de trabajo
+de las medidas de prevención
 
-de las sustancias prohibidas por la autoridad
+exigidas por los respectivos
 
-sanitaria o por alguna autoridad competente
+Organismos Administradores
 
-mediante resolución o reglamento.
+del Seguro o por la Secretaría
 
-d) La comprobación que la concentración ambiental de
+Regional Ministerial de Salud
 
-contaminantes químicos ha excedido los límites
+correspondiente;
 
-permisibles señalados por el reglamento respectivo,
+c) La comprobación del uso en los
 
-sin que la entidad empleadora haya adoptado las
+lugares de trabajo de las sustancias
 
-medidas necesarias para controlar el riesgo dentro
+prohibidas por la autoridad
 
-del plazo que le haya fijado el organismo
+sanitaria o por alguna autoridad
 
-competente.
+competente mediante resolución
 
-e) La comprobación de la existencia de agentes químicos
+o reglamento.
 
-o de sus metabolitos en las muestras biológicas de
+d) La comprobación que la concentración
 
-los trabajadores expuestos, que sobrepasen los
+ambiental de contaminantes químicos
 
-límites de tolerancia biológica, definidos en la
+ha excedido los límites
 
-reglamentación vigente, sin que la entidad
+permisibles señalados por el
 
-empleadora haya adoptado las medidas necesarias para
+reglamento respectivo, sin que la
 
-controlar el riesgo dentro del plazo que le haya
+entidad empleadora haya adoptado las
 
-fijado el organismo competente.
+medidas necesarias para controlar
+
+el riesgo dentro del plazo que
+
+le haya fijado el organismo competente.
+
+e) La comprobación de la existencia de
+
+agentes químicos o de sus metabolitos
+
+en las muestras biológicas de
+
+los trabajadores expuestos, que
+
+sobrepasen los límites de tolerancia
+
+biológica, definidos en la
+
+reglamentación vigente, sin que
+
+la entidad empleadora haya adoptado
+
+las medidas necesarias para
+
+controlar el riesgo dentro del
+
+plazo que le haya fijado el
+
+organismo competente.
 
 Los recargos señalados en este artículo, se impondrán sin perjuicio de las demás sanciones que les correspondan conforme a las disposiciones legales vigentes.
 
+Corresponderá a la Superintendencia de Seguridad Social impartir instrucciones a los Organismos Administradores sobre los criterios para la determinación del recargo y sobre el cumplimiento de las disposiciones del presente Título.
+
+> **Nota.** El artículo segundo transitorio del Decreto 7, Trabajo, publicado el 23.07.2021, dispone que las modificaciones incorporadas al presente artículo serán aplicables a partir del Proceso de Evaluación que se inicia el 1° de julio de 2023.
+
 #### Artículo 16
 
-El recargo a que se refiere el artículo anterior regirá a contar del 1º del mes siguiente al de la notificación de la respectiva resolución y subsistirá mientras la entidad empleadora no justifique ante la secretaría regional ministerial de salud o Mutualidad a la que se encuentre adherida, según corresponda, que cesaron las causas que lo motivaron. Para este último efecto, la entidad empleadora deberá comunicar por escrito a la entidad competente las medidas que ha adoptado. La secretaría regional ministerial de salud o la Mutualidad, según corresponda, emitirá y notificará la resolución que deje sin efecto el recargo de la cotización adicional.
+El recargo a que se refiere el artículo anterior regirá a contar del 1º del mes siguiente al de la notificación de la respectiva resolución y subsistirá mientras la entidad empleadora no justifique ante el Organismo Administrador respectivo que cesaron las causas que lo motivaron. Para este último efecto, la entidad empleadora deberá comunicar por escrito, al Organismo Administrador, las medidas que ha adoptado. La secretaría regional ministerial de salud, previo informe del Instituto de Seguridad Laboral, o la Mutualidad, según corresponda, emitirá y notificará la resolución que deje sin efecto el recargo de la cotización adicional.
 
-En todo caso, estos recargos subsistirán hasta dos meses después de haberse acreditado que cesaron las causas que le dieron origen. Para estos efectos, dicho plazo se contará a partir de la fecha en que la secretaría regional ministerial de salud o la Mutualidad reciba la comunicación escrita de la entidad empleadora a que se refiere el inciso anterior.
+En todo caso, estos recargos subsistirán hasta dos meses después de haberse acreditado que cesaron las causas que le dieron origen, plazo que se contará a partir de la fecha en que el Organismo Administrador reciba la comunicación de la entidad empleadora, siempre que éste constate que cesaron.
+
+> **Nota.** El artículo segundo transitorio del Decreto 7, Trabajo, publicado el 23.07.2021, dispone que las modificaciones incorporadas al presente artículo serán aplicables a partir del Proceso de Evaluación que se inicia el 1° de julio de 2023.
 
 #### Artículo 17
 
@@ -330,11 +372,17 @@ Notificaciones, Plazos y Recursos
 
 #### Artículo 18
 
-Las resoluciones a que se refiere este decreto se notificarán por carta certificada dirigida al domicilio de la entidad empleadora o personalmente al representante legal de la misma. Si se hubiere notificado por carta certificada se tendrá como fecha de notificación el tercer día de recibida dicha carta en la Empresa de Correos de Chile.
+Las resoluciones a que se refiere este decreto se notificarán por carta certificada dirigida al domicilio de la entidad empleadora o personalmente al representante legal de la misma o por correo electrónico, cuando las entidades empleadoras consientan expresamente en ser notificadas a la dirección de correo electrónico que señalen para ese efecto.
 
-Respecto de las entidades empleadoras que se encuentran adheridas a una Mutualidad de Empleadores, su domicilio será para estos efectos el que hubieran señalado en su solicitud de ingreso a aquélla, a menos que posteriormente hubiesen designado uno nuevo en comunicación especialmente destinada al efecto.
+Respecto de las entidades empleadoras que se encuentran adheridas a una Mutualidad de Empleadores, el domicilio al que deberá dirigirse la carta certificada será el que hubieran señalado en su solicitud de ingreso a aquélla, a menos que posteriormente hubiesen designado uno nuevo en comunicación especialmente destinada al efecto. Tratándose de las entidades empleadoras afiliadas al Instituto de Seguridad Laboral, su domicilio será el que hayan consignado ante ese organismo.
 
-Tratándose de las demás entidades empleadoras, su domicilio será el que hayan consignado ante el respectivo Organismo Administrador.
+Si la resolución se hubiere notificado por carta certificada se tendrá como fecha de notificación el tercer día de recibida dicha carta en la Empresa de Correos de Chile y si se hubiere practicado por correo electrónico, el día hábil siguiente a su despacho.
+
+Corresponderá a la Superintendencia de Seguridad Social impartir instrucciones de carácter general a las mutualidades de empleadores y al Instituto de Seguridad Laboral, entre otros aspectos, sobre la forma y oportunidad en que podrán obtener el consentimiento expreso de las entidades empleadoras para ser notificadas por correo electrónico y sobre la forma y oportunidad en que ese Instituto, deberá informar a la secretaría regional ministerial de salud la dirección electrónica que las entidades empleadoras hubieren indicado para tal efecto.
+
+En todo caso, será obligación de las entidades empleadoras, que hubieran consentido en ser notificadas por correo electrónico, en mantenerlo actualizado e informar oportunamente su voluntad de revocar su consentimiento o cualquier circunstancia que impida o dificulte su notificación por esa vía.
+
+> **Nota.** El artículo segundo transitorio del Decreto 7, Trabajo, publicado el 23.07.2021, dispone que las modificaciones incorporadas al presente artículo serán aplicables a partir del Proceso de Evaluación que se inicia el 1° de julio de 2023.
 
 #### Artículo 19
 
@@ -350,13 +398,17 @@ Disposiciones varias
 
 #### Artículo 21
 
-Las entidades empleadoras no podrán cambiar de Organismo Administrador durante el segundo semestre del año en que se realice el Proceso de Evaluación.
+El proceso de evaluación deberá ser realizado íntegramente por el Organismo Administrador al que la entidad empleadora se encuentre adherida al 1° de julio del año que se realice dicho proceso, aun cuando durante dicho proceso, se adhiera o afilie a otro Organismo Administrador.
 
-Asimismo, no podrán cambiarse de Organismo Administrador entre el 1º de enero y el 31 de marzo del año siguiente al de la aplicación de un Proceso de Evaluación, las entidades empleadoras a las que, como resultado de dicho Proceso de Evaluación, se les haya recargado la tasa de Cotización Adicional a tasas superiores a las que les corresponderían en conformidad con el D.S. Nº110, de 1968, del Ministerio del Trabajo y Previsión Social.
+> **Nota.** El artículo segundo transitorio del Decreto 7, Trabajo, publicado el 23.07.2021, dispone que las modificaciones incorporadas al presente artículo serán aplicables a partir del Proceso de Evaluación que se inicia el 1° de julio de 2023.
 
 #### Artículo 22
 
-Cuando una entidad empleadora cambie de Organismo Administrador, el anterior Organismo Administrador deberá proporcionar al nuevo los antecedentes estadísticos necesarios para la aplicación de este Reglamento y la tasa de cotización adicional a que se encuentra afecta, dentro de los treinta días siguientes a la fecha en que ellos le sean requeridos.
+Cuando una entidad empleadora cambie de Organismo Administrador, el anterior Organismo Administrador deberá proporcionar al nuevo los antecedentes estadísticos necesarios para la aplicación de este Reglamento y la resolución que fije la tasa de cotización adicional a que se encuentra afecta, dentro de los treinta días siguientes a la fecha en que ellos le sean requeridos.
+
+Si el cambio se produce durante el período en que se realiza el proceso de evaluación, el organismo encargado de su realización deberá notificar al nuevo la resolución que fije la tasa de cotización adicional, acompañada de los antecedentes que sustentan su cálculo. Además, deberá notificar al nuevo organismo administrador, las resoluciones de los recursos interpuestos en contra de dicha resolución.
+
+> **Nota.** El artículo segundo transitorio del Decreto 7, Trabajo, publicado el 23.07.2021, dispone que las modificaciones incorporadas al presente artículo serán aplicables a partir del Proceso de Evaluación que se inicia el 1° de julio de 2023.
 
 #### Artículo 23
 
@@ -397,6 +449,18 @@ En los cálculos de la Tasa de Siniestralidad por Invalideces y Muertes correspo
 Asimismo, en el primer Proceso de Evaluación a que se refiere el artículo anterior, en el cálculo de la Tasa de Siniestralidad por Invalideces y Muertes, se excluirán las invalideces y muertes causadas por enfermedades profesionales, evaluadas, en su caso, con menos de un 40% de incapacidad antes de la fecha indicada en el inciso anterior.
 
 Las entidades empleadoras deberán proporcionar al Instituto de Normalización Previsional a solicitud de éste, la información sobre número de trabajadores de la empresa y de días sujetos a pago de subsidio, que se requiera para efectuar el primer Proceso de Evaluación.
+
+#### Artículo tercero
+
+transitorio.- Para la aplicación del proceso de evaluación de la magnitud de la siniestralidad efectiva correspondiente al año 2021, se excluirá la enfermedad causada por el COVID-19, y aquellas patologías de origen laboral que afecten a trabajadores contagiados con COVID-19, y que deriven de esta enfermedad.
+
+#### Artículo cuarto
+
+transitorio.- Si producto de la aplicación del proceso de evaluación del año 2021, las entidades empleadoras que conforme al Clasificador Chileno de Actividades Económicas CIIU4.CL 2012 desarrollan actividades correspondientes a la sección Q 'Actividades de atención de la salud humana y de asistencia social', aumentaren su tasa de cotización adicional diferenciada, éstas mantendrán entre enero de 2022 y diciembre de 2023, la tasa de cotización adicional diferenciada por riesgo efectivo que se hubiere determinado durante el proceso de evaluación del año 2019, o bien la tasa de cotización adicional por riesgo presunto del decreto supremo Nº 110, de 1968, del Ministerio del Trabajo y Previsión Social, según corresponda.
+
+#### Artículo quinto
+
+transitorio.- Durante el Proceso de evaluación correspondiente al año 2021, las comunicaciones, informaciones y notificaciones a que se refiere este decreto, se efectuarán preferentemente a través de medios electrónicos. Tratándose de las entidades empleadoras afiliadas al Instituto de Seguridad Laboral, dicho organismo administrador efectuará las comunicaciones, informaciones y notificaciones de cargo de las Secretarías Regionales Ministeriales de Salud.
 
 Tómese razón, comuníquese, publíquese e insértese en la recopilación que corresponda de la Contraloría General de la República.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Germán Molina Valdivieso, Ministro del Trabajo y Previsión Social.- Alex Figueroa Muñoz, Ministro de Salud.
 
