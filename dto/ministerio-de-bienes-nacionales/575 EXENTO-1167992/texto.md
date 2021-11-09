@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE LA ARAUCANÍA A "ANDACOR S.A."
+
+Mediante decreto exento N° 575, de 26 de octubre de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa a "Andacor S.A." RUT N° 91.400.000-9, del inmueble fiscal denominado "Unidad 1: Centro de Montaña", ubicado en el Sector Rucapillán - Parque Nacional Villarrica, comuna de Pucón, provincia de Cautín, Región de la Araucanía; Rol Matriz del Servicio de Impuestos Internos N° 1200-2; inscrito en mayor cabida a nombre del Fisco a fs. 1137 N° 890, del Registro de Propiedad del Conservador de Bienes Raíces de Pucón, correspondiente al año 2010; singularizado en el Plano N° 09115-19.611-C.R.; de una superficie total de 285,85 ha (doscientas ochenta y cinco coma ochenta y cinco hectáreas). La Concesión se otorga por un plazo de 30 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión será de UF 1.039,24.
+
+La Concesión se otorga para implementar el proyecto turístico contenido en la oferta técnica y económica, denominado "Formulario para la Presentación de Oferta Técnica y Económica, Licitación para la concesión de proyecto Centro de Montaña Rucapillán - Parque Nacional Villarrica". El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Martín Aro Greene, Jefe División Jurídica (S).
