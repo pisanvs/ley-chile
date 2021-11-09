@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 2.463, de 25 de octubre de 2021, de esta Secretaría Regional Ministerial, se modificó la resolución exenta Nº 557, de 19 de febrero de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, en el sentido de modificar la dirección de funcionamiento del Simulador de Inmersión Total, equipo marca Simumak modelo Simestruck, acreditado por certificado Nº 006, de 16 de septiembre de 2013, del Centro de Control y Certificación Vehicular CV, a la Escuela de Conductores Profesionales Automóvil Club de Chile Ltda., conducente a la obtención de licencia de conductor profesional, Clase A3 y Clase A5. Su lugar de funcionamiento será en la sede ubicada en calle Uno Oriente Nº 1078, comuna de Viña del Mar.-
+
+José Emilio Guzmán Cepeda, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
