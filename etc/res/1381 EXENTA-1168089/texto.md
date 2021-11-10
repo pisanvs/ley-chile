@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 878, de 2 noviembre de 2009, modificada y rectificada por resolución exenta N° 1.381, de 29 de septiembre de 2021, ambas de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, se aprobó el programa de enseñanza conducente a la obtención de Licencias de Conductor No Profesional o Clase B, a la Escuela de Conductores "Todo Transportes Ltda.", cuyo propietario es la sociedad "Todo Transporte Ltda.", RUT: 78.809.580-5, representada legalmente por don Juan Carlos Widemann Guarda, RUN: 8.567.497-8. La Escuela de Conductores tendrá como Director a don Héctor Rodrigo Fernández Martínez, cédula de identidad N°17.657.909-9, y su sede estará ubicada en calle Urmeneta N°1071, comuna de Puerto Montt. Las horas pedagógicas autorizadas a la referida escuela son de 14 teóricas y 12 prácticas, con un total de 26 horas pedagógicas.-
+
+Nicolás Maximiliano Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
