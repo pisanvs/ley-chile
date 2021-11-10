@@ -44,17 +44,21 @@ Previamente, las entidades desarrolladoras deberán ingresar los datos del proye
 
 En tal sentido, se efectuará un cierre para la presentación de proyectos, en las siguientes regiones:
 
+.
+
 ### 2. Cupos de subsidios:
 
 En el presente llamado se dispondrá de un total de 2.000 unidades de subsidio, imputados al Programa Habitacional del DS. N° 19 (V. y U.), de 2021, que serán distribuidos regionalmente, de acuerdo a la oferta recibida, asegurando la selección de al menos un proyecto en cada una de las regiones que participan del llamado, siempre que los proyectos presentados cumplan con los requisitos del Programa de Integración Social y Territorial, regulado por el DS N° 19 (V. y U.), de 2016 y lo establecido en la presente resolución.
 
 3. Incentivos: Porcentajes de vivienda sin aplicación de subsidio y aumento de precio para viviendas con subsidio:
 
-3.1. Los porcentajes de vivienda para venta sin aplicación de subsidio y cuyo precio exceda de los máximos indicados en el artículo 7° letra a) del DS N°19, que podrán considerar los proyectos que se desarrollen en terrenos emplazados en alguna de las 25 zonas definidas en las resoluciones exentas N° 1.219 (V. y U.), de 2020, y N° 466 y N° 1.414, ambas de Vivienda y Urbanismo, de 2021, serán los siguientes:
+3.1. Los porcentajes de vivienda para venta sin aplicación de subsidio y cuyo precio exceda de los máximos indicados en el artículo 7° letra a) del DS N°19, que podrán considerar los proyectos que se desarrollen en terrenos emplazados en alguna de las 26 zonas definidas en las resoluciones exentas N° 1.219 (V. y U.), de 2020, y N° 466 y N° 1.414, ambas de Vivienda y Urbanismo, de 2021, serán los siguientes:
+
+.
 
 3.2. Los porcentajes considerados en la tabla precedente deberán calcularse respecto de total de viviendas del proyecto.
 
-3.3. Los proyectos que se desarrollen en terrenos que se emplacen en alguna de las 25 zonas definidas, podrán considerar un precio de vivienda para venta con aplicación de subsidio, de hasta 2.400 UF o de 2.800 UF, según la región, provincia y comuna, señalada en la letra
+3.3. Los proyectos que se desarrollen en terrenos que se emplacen en alguna de las 26 zonas definidas, podrán considerar un precio de vivienda para venta con aplicación de subsidio, de hasta 2.400 UF o de 2.800 UF, según la región, provincia y comuna, señalada en la letra
 
 - **a)** o letras b),
 
@@ -62,7 +66,7 @@ En el presente llamado se dispondrá de un total de 2.000 unidades de subsidio, 
 
 - **d)** de la tabla inserta en la letra
 
-- **b)** del artículo 3° del DS N°19.
+- **b)** del artículo 3° del DS N°19. Los precios de vivienda indicados anteriormente podrán ser considerados en proyectos seleccionados con posterioridad a la fecha de publicación en el Diario Oficial de la modificación del DS Nº19 (V. y U.), de 2016, efectuada mediante el DS Nº16 (V. y U.), de 2019, publicado en el Diario Oficial el 23 de julio de 2020, y que se encuentren dentro de alguna de las 26 zonas definidas mediante las resoluciones exentas Nº 1.219 del 13 de agosto de 2020, Nº 466 del 14 de abril de 2021 y Nº 1.414 del 1 de septiembre de 2021 y su modificación, todas del Ministerio de Vivienda y Urbanismo.
 
 3.4. Las viviendas correspondientes al porcentaje de venta por sobre el precio máximo sin aplicación de subsidio, señalado en la tabla del punto 3.1 del resuelvo 3° del presente llamado, no podrán ser consideradas para efectos de otorgar el préstamo de enlace, señalado el artículo 28 del DS N°19 (V. y U.), de 2016.
 
@@ -162,7 +166,9 @@ En proyectos tipo condominio, se debe acceder al local comercial y a sus estacio
 
 5.9. Estacionamientos:
 
-Se deberá considerar como mínimo un 30% de los estacionamientos vehiculares proyectados (sin contabilizar estacionamientos para motos o bicicletas) en subterráneo, permitiendo así el uso prioritario en superficie para zonas de área verde, equipamiento y comercio. En caso que la entidad presente un porcentaje mayor de estacionamientos subterráneos se considerará un puntaje adicional en la evaluación, de acuerdo con lo señalado en la siguiente tabla:
+Se otorgará puntaje adicional a los proyectos que presenten estacionamientos vehiculares proyectados en subterráneo (sin contabilizar estacionamientos para motos o bicicletas), permitiendo así el uso prioritario en superficie para zonas de área verde, equipamiento y comercio. El puntaje adicional se considerará en la evaluación, de acuerdo con lo señalado en la siguiente tabla:
+
+.
 
 ### 6. De los antecedentes a presentar:
 
