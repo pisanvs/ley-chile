@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 660, de 15 de julio de 2010, rectificada por resolución exenta N° 1.404, de 5 de octubre de 2021, ambas de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, se aprobaron los planes y programas de enseñanza destinados a la obtención de Licencias de Conductor Profesional clase A2 y A4, a la Escuela de Conductores Profesionales "Todo Transportes Ltda.", cuyo propietario es la sociedad "Todo Transporte Ltda.", RUT: 78.809.580-5, representada legalmente por don Juan Carlos Widemann Guarda, cédula nacional de identidad N° 8.567.497-8, en la sede ubicada en calle Urmeneta N° 1071, comuna de Puerto Montt.-
+
+Nicolás Maximiliano Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
