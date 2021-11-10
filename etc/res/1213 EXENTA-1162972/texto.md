@@ -34,9 +34,9 @@ Resolución:
 
 1) Llámese a postulación nacional extraordinaria en condiciones especiales para el desarrollo de proyectos en su modalidad Título I, Mejoramiento del Entorno; Título II, Mejoramiento de la Vivienda; y Título III, Ampliación de la Vivienda, del Programa de Protección del Patrimonio Familiar regulado por el DS N° 255 (V. y U.). de 2006, y sus modificaciones, destinados a la atención nacional de las viviendas afectadas por plagas de xilófagos, especialmente en las Regiones de Arica y Parinacota, Coquimbo y del Biobío.
 
-2) Sólo podrán postular a la selección de este llamado, los proyectos, que cuenten con certificados de calificación otorgados por los Serviu respectivos, antes de la fecha de cierre del proceso de postulación determinada para el día 5 de noviembre del año 2021.
+2) Sólo podrán postular a la selección de este llamado, los proyectos, que cuenten con certificados de calificación otorgados por los Serviu respectivos, antes de la fecha de cierre del proceso de postulación determinada para el día 3 de diciembre del año 2021.
 
-3) Las familias interesadas en participar en este llamado podrán postular a partir de la fecha de publicación de la presente resolución exenta y hasta el día 5 de noviembre del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles.
+3) Las familias interesadas en participar en este llamado podrán postular a partir de la fecha de publicación de la presente resolución exenta y hasta el día 3 de diciembre del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles.
 
 4) La postulación a este llamado se podrá realizar en forma individual o colectiva.
 
@@ -61,6 +61,8 @@ e) De lo dispuesto en los artículos 4, y 15, incisos segundo y tercero, referid
 f) De lo dispuesto en los artículos 16, letra d) y 21 letra e), referido a que la vivienda que integra el proyecto corresponda a una vivienda objeto del programa.
 
 g) De lo exigido en el artículo 3, sobre definición de postulación colectiva de mínimo 10 integrantes.
+
+h) De lo dispuesto en la letra p) del artículo 16, referido a contar con permiso de edificación, si corresponde. Sin perjuicio de lo anterior, los proyectos de alteración o ampliación presentados con motivo del presente llamado, deberán postular presentando su respectivo comprobante de ingreso de expediente a la respectiva DOM, debiendo presentar el respectivo Permiso de Edificación, como condición para iniciar las obras. No obstante, si no se cuenta con dicho permiso a ese momento, se dejará sin efecto el subsidio debiendo el Seremi emitir una resolución eliminando el beneficio, a menos que se justifique una ampliación de plazo de inicio de obras.
 
 8) Establécese las siguientes condiciones especiales para las familias postulantes a este llamado:
 
@@ -126,7 +128,7 @@ II. Se podrá complementar con un documento o certificado emitido por alguna ent
 
 16) Para el pago de los subsidios de obras que requieran permiso de edificación, se permitirá pagar un 90% del monto del contrato al momento en que el contratista o constructor acredite haber terminado las obras, y que éstas hayan sido recibidas por Serviu y el PSAT, dejando el 10% restante para cuando acredite haber obtenido la recepción final de las obras. En los demás casos, se pagará según se indica en el DS N° 255 (V. y U.), de 2006.
 
-17) Podrán participar en este llamado las viviendas cuyo avalúo fiscal total no supere las 950 Unidades de Fomento a la fecha de la presente resolución, lo que se acreditará presentando el Certificado de Avalúo Fiscal Simple.
+17) Podrán participar en este llamado las viviendas cuyo avalúo fiscal total no supere las 1.500 Unidades de Fomento a la fecha de la presente resolución, lo que se acreditará presentando el Certificado de Avalúo Fiscal Simple.
 
 No podrán participar en este llamado aquellos proyectos referidos al Capítulo II del DS N° 255 (V. y U.), de 2006, relativos a la atención a Condominios de Viviendas Sociales, ni en general inmuebles en Copropiedades Tipo A.
 
@@ -164,7 +166,7 @@ Tratándose de la aprobación del proyecto o de la conformidad con las obras, ca
 
 . Informar como máximo el 15 de septiembre de 2021 al Serviu respectivo, que se presentarán proyectos, para efectos que éste coordine una inducción en el uso del sistema computacional de postulación.
 
-21) Los PSAT que postulen en una misma región proyectos a través de este llamado, podrán garantizar mediante Póliza de Seguro de Garantía a Primer Requerimiento la prestación simult�nea de Servicios de Asistencia Técnica, hasta por un número máximo de 40 familias postuladas ya sea individual, grupal o colectivamente. Los Profesionales Independientes, bajo las condiciones mencionadas en el resuelvo precedente, podrán también garantizar los Servicios de Asistencia Técnica mediante la póliza indicada. No habrá limitaciones de este tipo en caso de utilizar Boleta Bancaria de Garantía, Vale Vista, o Certificado de Fianza Recíproca. Además, tratándose de anticipos por la prestación de Servicios de Asistencia Técnica, se autoriza la entrega de un anticipo único, garantizado mediante póliza de garantía, hasta por un monto máximo del 30% de los honorarios pactados por Asistencia Técnica. El giro de estos recursos es independiente de los pagos realizados contra avance de los Servicios de Asistencia Técnica ya aplicados. Igualmente, la asignación de dicho anticipo, sumado a los pagos realizados contra avance en la Prestación de Asistencia Técnica, no pueden superar conjuntamente el 80% de los recursos totales girados con cargo a Asistencia Técnica, esto es que, al menos un 20% de los honorarios pactados deberán reservarse para el pago final de la correspondiente Asistencia Técnica, una vez terminada y aprobada la labor comprometida.
+21) Los PSAT que postulen en una misma región proyectos a través de este llamado, podrán garantizar mediante Póliza de Seguro de Garantía a Primer Requerimiento la prestación simultánea de Servicios de Asistencia Técnica, hasta por un número máximo de 40 familias postuladas ya sea individual, grupal o colectivamente. Los Profesionales Independientes, bajo las condiciones mencionadas en el resuelvo precedente, podrán también garantizar los Servicios de Asistencia Técnica mediante la póliza indicada. No habrá limitaciones de este tipo en caso de utilizar Boleta Bancaria de Garantía, Vale Vista, o Certificado de Fianza Recíproca. Además, tratándose de anticipos por la prestación de Servicios de Asistencia Técnica, se autoriza la entrega de un anticipo único, garantizado mediante póliza de garantía, hasta por un monto máximo del 30% de los honorarios pactados por Asistencia Técnica. El giro de estos recursos es independiente de los pagos realizados contra avance de los Servicios de Asistencia Técnica ya aplicados. Igualmente, la asignación de dicho anticipo, sumado a los pagos realizados contra avance en la Prestación de Asistencia Técnica, no pueden superar conjuntamente el 80% de los recursos totales girados con cargo a Asistencia Técnica, esto es que, al menos un 20% de los honorarios pactados deberán reservarse para el pago final de la correspondiente Asistencia Técnica, una vez terminada y aprobada la labor comprometida.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
