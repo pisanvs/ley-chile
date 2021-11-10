@@ -102,6 +102,8 @@ b) Excepcionalmente, podrán postular al subsidio del Título II del DS Nº 255 
 
 c) Para proyectos del Título III, Ampliación de la Vivienda, los Prestadores de Servicios de Asistencia Técnica podrán ingresar los proyectos al Serviu acompañando la solicitud de Aprobación del Anteproyecto de Edificación o la solicitud de Permiso de Edificación a la DOM respectiva, debiendo contar con el Permiso de Edificación aprobado por la DOM respectiva al momento de la calificación por el Serviu.
 
+d) De lo dispuesto en la letra p) del artículo 16, en cuanto a contar con permiso de edificación, si corresponde. Sin perjuicio de lo anterior, los proyectos de alteración o ampliación presentados con motivo del presente llamado, deberán postular acompañando el respectivo comprobante de ingreso del expediente a la respectiva D.O.M., debiendo presentar el correspondiente Permiso de Edificación, como condición para iniciar las obras. No obstante, si no se cuenta con dicho permiso en ese momento, se dejará sin efecto el subsidio, debiendo el Seremi emitir una resolución eliminando el beneficio, a menos que se justifique una ampliación de plazo de inicio de obras.
+
 12. Las familias interesadas en postular a este llamado deberán acreditar el ahorro mínimo que a continuación se indica, al último día hábil del mes anterior a la fecha de cierre de la postulación:
 
 13. Los subsidios de Mejoramiento de la Vivienda entregados por este llamado en condiciones especiales, serán compatibles con eventuales futuros subsidios del Programa de Protección del Patrimonio Familiar u otros programas de mejoramiento de la vivienda.
