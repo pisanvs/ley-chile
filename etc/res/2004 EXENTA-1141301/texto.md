@@ -88,6 +88,8 @@ b) Convenios con personas naturales o jurídicas para la operación, investigaci
 
 c) Convenios mandato con el Gobierno Regional respectivo, para actuar como Unidad Técnica en proyectos del Fondo Nacional de Desarrollo Regional. En el ejercicio de esta facultad podrán, además, modificar y llevar a efecto los citados convenios, como asimismo suscribir, aprobar y modificar los contratos que de ellos se originen. Copia de todos los actos o contratos que se ejecuten o celebren en ejercicio de esta facultad, que deberán ser remitidas a la Dirección Nacional.
 
+d) Convenios con universidades o centros de investigación asociados a instituciones de educación superior, y que hayan sido reconocidas por el Servicio, mediante acto administrativo, para colaborar en programas de competencia del Servicio, cuya ejecución deba realizarse dentro de sus respectivas regiones y siempre que no involucren presupuesto del Servicio.
+
 #### Artículo 5°
 
 <!-- parte:10093487 -->
