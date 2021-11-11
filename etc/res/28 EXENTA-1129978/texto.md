@@ -3466,7 +3466,7 @@ j) Aplicar la sanción que corresponda a las personas naturales o jurídicas ins
 
 k) Poner término al convenio de un prestador de la Modalidad Libre Elección, para los casos de inhabilidad legal sobreviniente, incapacidad física o mental legalmente declarada, fallecimiento, renuncia del prestador, y falta de autorización sanitaria cuando corresponda.
 
-l) Firmar respuestas a solicitudes ciudadanas escalables.
+l) Suprimida.
 
 m) Aprobar llamados y/o bases de licitación en procesos de compras cuyo monto sea superior a 100 Unidades Tributarias Mensuales e inferiores a 1.000 Unidades Tributarias Mensuales y en los procesos licitatorios relacionados con los Subtítulos 22-08-001 "Servicios de Aseo" y 22-08-002 "Servicios de Vigilancia" del Clasificador Presupuestario vigente, cuyo monto máximo sea de 8.000 UTM tratándose de la Dirección Zonal Norte y Dirección Zonal Sur, y de 10.000 UTM respecto de la Dirección Zonal Centro Norte y Dirección Zonal Centro Sur.
 
