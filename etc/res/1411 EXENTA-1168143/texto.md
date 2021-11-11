@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.411 EXENTA, DE 2021
+
+Resolución exenta N° 1.411, de 28 de octubre de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, aprueba Contrato Ad-Referéndum de Concesión 5 para operar una Planta Revisora clase AB en la comuna de Hualpén y una Planta Revisora clase AB en la comuna de Tomé, en la Región del Biobío, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío y el concesionario "Applus Revisiones Técnicas de Chile S.A.", con fecha 7 de octubre de 2021, cuya vigencia es de ocho años contados desde la publicación del presente extracto en el Diario Oficial.-
+
+Jaime Eduardo Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región del Biobío.
