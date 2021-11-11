@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LA ACTIVIDAD DE "ENFERMERO, ATENCIÓN DE URGENCIA PÚBLICO, ARTISTAS, Y FUNCIONARIOS DE CANAL TRECE DE TELEVISIÓN, DE LA PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE", DESARROLLADA PARA EL EMPLEADOR, "PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE"
+
+Por resolución exenta Nº 409, de 7 de octubre de 2021, el Director Nacional del Instituto de Previsión Social, califica como Trabajo Pesado, la labor de "Enfermero, Atención de Urgencia Público, Artistas, y Funcionarios de Canal Trece de Televisión, de la Pontificia Universidad Católica de Chile" desempeñada para el empleador "Pontificia Universidad Católica de Chile", correspondiendo aplicar una rebaja de edad de 1x5 (un año por cada cinco años de labores pesadas), beneficio que le permite impetrar su jubilación por vejez, con rebaja en la edad.-
+
+Patricio Coronado Rojo, Director Nacional.
