@@ -56,7 +56,7 @@ II.- Principios Generales del Plan Especial:
 
 - El Plan Especial tiene carácter descentralizador, por cuanto radica en las autoridades regionales y provinciales su ejecución.
 
-III.- Ámbito y Espacio de Aplicación: El presente Plan se ejecutará en la totalidad del territorio de la Provincia de Palena y Comuna de Cochamó de la Región de Los Lagos, dentro de los seis años siguientes a la fecha de publicación del presente decreto.
+III.- Ámbito y Espacio de Aplicación: El presente Plan se ejecutará en la totalidad del territorio de la Provincia de Palena y Comuna de Cochamó de la Región de Los Lagos, hasta el 31 de diciembre de 2024.
 
 IV.- Objetivos: Constituyen objetivos del presente Plan Especial:
 
@@ -89,6 +89,30 @@ Los órganos de la Administración del Estado y sus autoridades y funcionarios, 
 #### Artículo 6º
 
 Corresponderá al Ministerio del Interior y Seguridad Pública, a través de la Subsecretaría de Desarrollo Regional y Administrativo, prestar el apoyo técnico y administrativo que sea menester para la implementación del presente Plan Especial.
+
+#### Artículo 7º
+
+La ejecución del Plan Especial al que alude el artículo 1º durante los últimos tres años y cuatro meses de vigencia, se regirá por las siguientes normas:
+
+a) El Gobernador/a Regional informará a la Subsecretaría de Desarrollo Regional y Administrativo el estado de avance de las iniciativas contenidas en la cartera inicial del Plan Especial, a más tardar el 30 de junio de 2021, identificando la situación de cada proyecto en particular.
+
+b) La Subsecretaría de Desarrollo Regional y Administrativo, mediante resolución visada por la Dirección de Presupuestos, determinará aquellas iniciativas que serán ejecutadas dentro de los últimos tres años de vigencia del Plan Especial. Sólo podrán ser consideradas aquellas iniciativas contenidas en la cartera inicial del Plan Especial y que cumplan con los siguientes parámetros:
+
+(i) Iniciativas con contrato suscrito antes del 30 de junio de 2021, en cualquiera de sus etapas, factibilidad, diseño y/o ejecución.
+
+(ii) Iniciativas sin contrato suscrito antes del 30 de junio de 2021 que cuenten con:
+
+(1) Resultados de análisis técnico-económico favorable (rate RS) para la etapa de ejecución, de acuerdo a las normas del Sistema Nacional de Inversiones, o su equivalente, según corresponda al tipo de iniciativa y modalidad de evaluación, establecida por el órgano competente.
+
+(2) Financiamiento sectorial comprometido, si fuere el caso.
+
+(3) Respondan a iniciativas que resuelvan brechas de acceso a servicios básicos.
+
+(4) Respondan a iniciativas que representen un alto valor para el desarrollo regional, la geopolítica y soberanía nacional.
+
+La resolución referida precedentemente deberá contener la individualización de las iniciativas con indicación del cumplimiento de los parámetros señalados, así como el costo y plazo para su ejecución.
+
+c) El gobierno regional deberá informar semestralmente a la Subsecretaría de Desarrollo Regional y Administrativo y a la Dirección de Presupuestos sobre el avance del respectivo Plan Especial y de los indicadores asociados a los plazos de ejecución de los proyectos mencionados en el literal precedente.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Jorge Burgos Varela, Ministro del Interior y Seguridad Pública.- Rodrigo Valdés Pulido, Ministro de Hacienda.- Marcos Barraza Gómez, Ministro de Desarrollo Social.
 
