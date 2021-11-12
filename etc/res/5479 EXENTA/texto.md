@@ -274,23 +274,15 @@ deXiphinema americanum "sensu stricto" de
 
 acuerdo a análisis oficial de laboratorio.
 
-Manzano * El material procede de plantas madres que
+Manzano * Eliminado.
 
-han sido inspeccionadas
+(Malus spp.)
 
-(Malus spp.) durante elúltimo período de crecimiento
+Plantas,
 
-Plantas, activo y analizadas utilizando
+estacas
 
-estacas indicadores adecuados o métodos
-
-o ramillas equivalentes y encontradas libres de
-
-Apple stem grooving virus (ASGV),
-
-indicando la técnica analítica utilizada
-
-en el diagnóstico.
+o ramillas
 
 * El material procede de plantas madres que
 
@@ -436,9 +428,9 @@ a análisis oficial de laboratorio.
 
 * Los materiales acompañantes destinados a amortiguar o conservar la humedad deben corresponder a materiales tales como: turba, musgo esfangíneo, vermiculita, perlita o geles higroscópicos, de acuerdo a lo establecido en resolución Nº 3.280/99.
 
-* El material de acomodación, no deberá incluir material vegetal capaz de transportar plagas, tales como pajas de gramínea, viruta o aserrín de madera, entre otras.
+* El material de acomodación, no deberá incluir material vegetal capaz de transportar plagas, tales como pajas de gramínea, viruta o aserrín de madera, entre otras
 
-- Si el material de Vitis vinifera proviene de un lugar de producción dentro de un área reglamentada por USDA/APHIS, para Lobesia botrana ((Lep: Tortricidae), debe venir sin desprendimiento de ritidoma.
+.
 
 4. La totalidad del material deberá cumplir con régimen de Cuarentena de Post-Entrada, instancia en que se realizarán los controles oficiales tendientes a la verificación de ausencia de Plagas Reglamentadas. Para tal efecto el importador deberá contar con la autorización del lugar de Cuarentena, ya sea Predial o Absoluta, previo del arribo de la mercadería al país, de acuerdo a lo establecido en las resoluciones Nºs. 3.280 de 1999 y 2.863 de 2001.
 
