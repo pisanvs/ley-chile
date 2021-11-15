@@ -20,7 +20,7 @@ Considerando:
 
 6° Que, los criterios conforme a los que ha sido elaborado el presente estándar se encuentran comúnmente aceptados por el actual estado de la ciencia y de la práctica internacional.
 
-7° Que, conforme con lo dispuesto en el artículo 4 del decreto supremo N° 15, de 2007, del Ministerio de Salud, en el proceso de elaboración del instrumento, participaron profesionales del Hospital San Borja Arriarán, de la Universidad de Chile, de la Superintendencia de Salud, del Instituto de Salud Pública y del Ministerio de Salud, por lo que, en mérito de lo anterior, dicto el siguiente,
+7° Que, conforme con lo dispuesto en el artículo 4 del decreto supremo N° 15, de 2007, del Ministerio de Salud, y según consta en el memorándum C13 N° 20 de 2020, en el proceso de elaboración del instrumento, participaron profesionales del Ministerio de Salud, de la Superintendendencia de Salud, del Colegio de Cirujanos Dentistas de Chile, de la academia y de centros odontológicos públicos y privados del país, por lo que, en mérito de lo anterior, dicto el siguiente,
 
 Decreto:
 
