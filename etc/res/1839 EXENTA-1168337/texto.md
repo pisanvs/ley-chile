@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.839, 29 de octubre de 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación de un inmueble ubicado en Collao Nº 1287, Rol de Avalúo Nº 320-4, comuna de Concepción, de aparente dominio de Anabalón Sepúlveda Pedro y otros, superficie afecta expropiación parcial de terreno es de 66,90 m2 (Lote 133) y expropiación total de edificaciones de 117,23 m2, según Plano S8R 40363-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida PAR Vial Collao-General Novoa", comuna de Concepción, Región del Biobío, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Rodrigo Escobar Fernández, arquitecta Marcela Melo Rodríguez y arquitecta Daniela Cortez Moraga, según informe de fecha 20.08.2021, fijó monto provisional indemnización en $51.444.496 más una suma de $823.112, por concepto de reajuste del artículo 5º del DL 2.186 de 1978, que dan la cifra de $52.267.608.-
+
+Director Serviu Región del Biobío.
