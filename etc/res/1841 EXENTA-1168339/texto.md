@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.841, de 29 de octubre de 2021, Serviu Región del Biobío ordenó expropiación parcial del inmueble ubicado en Collao 1277, Rol de Avalúo N° 320-3, comuna de Concepción, de aparente dominio de Robles Villanueva Daniela Andrea, en una superficie de 92,85 m2 de terreno y de 155,19 m2 de edificación (a), conforme al plano S8R-40.362-1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao/General Novoa, comuna de Concepción", conforme artículo 51 Ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por el arquitecto Rodrigo Escobar Fernández, por la arquitecto Marcela Melo Rodríguez y por la arquitecto Daniela Cortez Moraga, según informe de fecha 20 de agosto de 2021, fijó monto provisional indemnización, más reajuste del artículo 5° DL 2.186, en la suma de $63.268.276, pagadera de contado.-
+
+Director Serviu Región del Biobío.
