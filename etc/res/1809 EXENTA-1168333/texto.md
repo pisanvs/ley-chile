@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 1.809 del 5 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Diagonal Las Termas 36, comuna de Chillán, Rol de Avalúo N° 00508-00023, de aparente dominio de Méndez Gaete Juan Fco. La parte afecta a expropiación parcial de terreno es de 59,99 m2 y total de 58,61 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-097, para el proyecto "Mejoramiento Avenida Diagonal Las Termas comuna de Chillán", conforme artículo 51 ley 16.391 y D.L. 2186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, Arquitecto don Andrés Javier Tobar Beluzan y por el Ingeniero Civil don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $36.283.128.-
+
+Director Serviu Región de Ñuble.
