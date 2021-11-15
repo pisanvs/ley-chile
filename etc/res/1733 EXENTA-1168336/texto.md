@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.733, de 21 de octubre 2021, Serviu Región del Biobío ordenó la expropiación parcial del inmueble ubicado en Collao 201, Rol de Avalúo Nº 310-1, comuna de Concepción, de aparente dominio de Fisco Regimiento Guías, en una superficie de 2.930,62 m2 de terreno y de 508,73 m2 de edificación a), b), c), d), e), f) y g), conforme al plano S8R-38.382-1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao/General Novoa, comuna de Concepción", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Ricardo Echeverría Hohmann, arquitecto Andrés Tobar Beluzán y arquitecto Victoria García Silvera, según informe de fecha 17 de agosto 2021, fijó monto provisional indemnización, más reajuste del artículo 5º DL 2.186, es la suma de $l.099.531.333, pagadera de contado.-
+
+Director Serviu Región del Biobío.
