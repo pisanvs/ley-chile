@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 1.808 del 5 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Diag Collin 34, comuna de Chillán, Rol de Avalúo N° 00508-00022, de aparente dominio de Vargas González Hugo Hernán. La parte afecta a expropiación parcial de terreno es de 132,75 m2 y total de 143,63 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-096, para el proyecto "Mejoramiento Avenida Diagonal Las Termas comuna de Chillán", conforme artículo 51 Ley 16.391 y D.L. 2186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, Arquitecto don Andrés Javier Tobar Beluzan y por el Ingeniero Civil don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $45.644.386.-
+
+Director Serviu Región de Ñuble.
