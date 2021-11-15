@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP. N°1045, de 03 de noviembre de 2021, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP. N°373, de 19 de mayo de 2020, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°91-C, expropiado con motivo de la obra: Construcción By Pass Castro en Chiloé, Comunas de Castro y Chonchi, Provincia de Chiloé, Región de Los Lagos. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 05 de enero de 2018, complementada por acta de 08 de noviembre de 2019, ascendente a la cantidad de $1.109.080, para el lote N°91-C. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2.186, de 1978.
+
+Fiscalía MOP.
