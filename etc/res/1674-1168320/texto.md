@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 1.674, de fecha 27 de octubre de 2021, del Serviu IV Región de Coquimbo, se ordenó expropiar totalmente, por causa de utilidad pública, para la ejecución del proyecto Conjunto Habitacional Baquedano, ciudad de Coquimbo, conforme al artículo 51 ley 16.391 y DL 2.186/78, el inmueble singularizado como Lote Sitio 2, en plano de expropiación, ubicado en Calle Chacabuco 100 B St 2, de la comuna de Coquimbo, Rol de avalúo N° 673-04, de la comuna de Coquimbo, de aparente dominio de Edson Dager Núñez Araya, superficie aprox. de 135,00 m2. Comisión de Peritos conformada por profesionales María Ester Álvarez Roca, María Elizabeth Stack Herreros y Miguel Rubio Vega, según informe de fecha 8 de diciembre de 2020, fijó indemnización provisional en 891,00 UF.-, pagadero al contado.-
+
+Óscar Gutiérrez Seguel, Director Serviu Región de Coquimbo.
