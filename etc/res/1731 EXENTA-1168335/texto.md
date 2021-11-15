@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.731, de 21 de octubre de 2021, Serviu Región del Biobío ordenó expropiación total del inmueble ubicado en calle Sgto. Aldea 58, Rol de Avalúo N° 1163-33, comuna de Concepción, de aparente dominio de Armstrong Lubricantes Limitada, en una superficie de 94,43 m2 de terreno y de 11,63 m2 de edificación (a), dentro de polígono y linderos señalados plano de expropiación S8R-38.103-1, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción", comuna de Concepción, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Mario Martínez Ortiz, arquitecto Priscilla Encalada Rueda y constructor civil María Soledad Silva Hernández, según informe de fecha 15 de marzo de 2021, fijó monto provisional indemnización más reajuste del artículo 5° del DL 2.186 de 1978, en la suma de $14.723.676, pagadera de contado.-
+
+Director Serviu Región del Biobío.
