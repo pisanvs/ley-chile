@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1010, de 27 de octubre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N°30, para la obra: MEJORAMIENTO RUTAS W-160; W-120, SECTOR HUICHA - CAULIN, que figura a nombre de MARIA LYSETTE AMPUERO PEREZ Y OTRA, según inscripción de dominio del Conservador de Bienes Raíces de Ancud, FS. 280, N°260, CBR ANCUD, AÑO 2000, Comuna de ANCUD, REGIÓN DE LOS LAGOS, superficie 95 m2. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, HANDY GHISLAINE CAMPOS SEPULVEDA y NICOLAS ALEJANDRO ALARCON SANCHEZ, mediante informe de tasación de 09 de marzo de 2021, fijó el monto de la indemnización provisional en la cantidad de $497.000, para el lote N°30. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
