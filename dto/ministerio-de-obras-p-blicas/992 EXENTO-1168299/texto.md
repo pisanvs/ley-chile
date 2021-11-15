@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº992, de 18 de octubre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 5, para la obra: CONCESIÓN AMÉRICO VESPUCIO ORIENTE, TRAMO AV. PRÍNCIPE DE GALES - LOS PRESIDENTES, que figura a nombre de GUERRERO FIGUEROA BARBARA PATRICIA, rol de avalúo 3069-9, Comuna de ÑUÑOA, REGION METROPOLITANA DE SANTIAGO, superficie 460 m2. La Comisión de Peritos nombrada por la Resolución Expropiaciones Fiscalía (Exenta) Nº180, de 04 de mayo de 2021, integrada por SERGIO ALEJANDRO AYALA ESPINOZA, PAULINA LORENA JADUE ZAROR e ITSANG LU CHEN, mediante informe de tasación de 25 de junio de 2021, fijó el monto de la indemnización provisional en la cantidad de $572.210.500 para el lote Nº5. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
