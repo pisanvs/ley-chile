@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 1.801, del 04 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí 30, comuna de Chillán, Rol de Avalúo N° 00680-00004, de aparente dominio de Fernández Maldonado Sandro Víctor. La superficie afecta a expropiación Total es de 208,04 m² de terreno y la de expropiación Total es de 110,258 m² de edificaciones, cuyos linderos particulares están enmarcados en el plano S16R-165, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, el Arquitecto don Ítalo Renzo Zerga Arancibia, y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $94.457.500.-
+
+Director Serviu Región de Ñuble.
