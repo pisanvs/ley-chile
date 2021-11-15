@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por Resolución Ex. N°3.505 de fecha 05/11/2021, conforme al artículo 51 Ley 16.391, D.L. 2.186/1978 y D.S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Calle Mollulco Entre Calles El Bosque y Complejo Deportivo Labranza, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado "Hijuela Número Uno" Rol de avalúo 3249-305, comuna de Temuco. La superficie total a expropiar aproximada es de 119,31 metros cuadrados, de aparente dominio de doña Carolina Lleuful Hueichaleo. Comisión de Peritos integrada por don Ítalo Cortés Rocco, Eduardo Yáñez Inzunza y Claudio Pezo Muñoz, fijó monto de Indemnización Provisional en $3.945.899 según Informe N° 05-0A de fecha 02/11/2021, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
