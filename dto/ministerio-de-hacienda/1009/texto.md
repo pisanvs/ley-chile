@@ -66,11 +66,21 @@ Decreto:
 
 > **Nota.** NOTA 17 El artículo único del Decreto 1449, Hacienda, publicado el 24.12.2015, dispone que a contar del 24 de diciembre de 2015, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
 
+> **Nota.** NOTA 18 El artículo único del Decreto 1403, Hacienda, publicado el 07.01.2017, dispone que a contar del 24 de diciembre de 2016, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
+
+> **Nota.** NOTA 19 El artículo único del Decreto 1288, Hacienda, publicado el 08.11.2017, dispone que a contar del 24 de diciembre de 2017, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
+
+> **Nota.** NOTA 20 El Decreto 1656, Hacienda, publicado el 15.01.2018, dispone que a contar del 24 de diciembre de 2018, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
+
+> **Nota.** NOTA 21 El Decreto 1554, Hacienda, publicado el 18.12.2019, dispone que a contar del 24 de diciembre de 2019, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
+
+> **Nota.** NOTA 22 El Decreto 2022, Hacienda, publicado el 24.04.2021, dispone que a contar del 24 de diciembre de 2020, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
+
 1.- Autorízase a los organismos, instituciones y empresas del Estado comprendidas en el artículo 3° del decreto ley N° 2.349, de 1978, por el plazo de un año, contado desde la fecha del presente decreto, para que, en conformidad a las disposiciones del mencionado decreto ley puedan, en los contratos internacionales cuyo objeto principal diga relación con negocios u operaciones de carácter ecónomico o financiero, sujetar los mismos a derecho extranjero, someter el conocimiento de los diferendos que puedan suscitarse entre las partes a tribunales extranjeros, señalar domicilio fuera del país, designar mandatarios en el extranjero y renunciar a la inmunidad de jurisdicción y de ejecución que procediere.
 
 2.- Las autorizaciones precedentes se refieren a los contratos internacionales que celebren los organismos, instituciones y empresas aludidas en el artículo 1° con organismos, instituciones o empresas internacionales o extranjeras que tengan el centro principal de sus negocios en el extranjero, sobre asistencia técnica; arrendamiento; leasing; contratos de transporte o de fletamento de cualquier clase; suministro, compra o venta al exterior de materias primas,repuestos, equipos y bienes en general; compraventa de gas natural o de otros hidrocarburos para su transformación en otro u otros productos; operaciones en Mercados de Futuros y Opciones en Bolsas Oficiales Extranjeras o bajo la modalidad de principal a principal fuera de ellas; maquilas u otras formas de transformación de materias primas; adquisición, uso o disposición de licencias, marcas, patentes y otras formas de propiedad industrial o intelectual; sociedades y otros contratos, pactos o convenios complementarios entre los socios que se traduzcan en aportes de capital a empresas, como también de todos los contratos y pactos que requieran celebrar los socios entre sí, y los contratos que esas sociedades deseen celebrar con los organismos, instituciones o empresas mencionadas en el N° 1, que precede; almacenaje en aeropuertos o puertos marítimos o terrestres y otros negocios portuarios; como también sobre servicios personales que se presten en el extranjero.
 
-3.- Las autorizaciones otorgadas en el artículo 1°, siempre que se contrate con las instituciones, organismos y empresas extranjeras e internacionales señaladas en el artículo 2°, comprenden, asimismo, los contratos de créditos que celebren las siguientes instituciones:
+3.- Las autorizaciones otorgadas en el artículo 1°, siempre que se contrate con las instituciones, organismos y empresas extranjeras e internacionales señaladas en el artículo 2°, comprenden, asimismo, los contratos de créditos que celebren las siguientes NOTAinstituciones:
 
 - Corporación Nacional del Cobre de Chile
 
@@ -131,6 +141,8 @@ Católica de Chile.
 - Casa de Moneda de Chile S.A.
 
 - Empresa de Correos de Chile
+
+- Fondo de Infraestructura S.A.
 
 4.- Las autorizaciones otorgadas en el artículo 1°, cuando se contrate con las instituciones, empresas u organismos extranjeros o internacionales mencionados en el artículo 2°, se hacen extensivas a las cauciones solidarias y garantías que la Corporación de Fomento de la Producción otorgue a favor de terceros en los contratos a que se refiere este decreto y a las transacciones que celebre dicha Corporación. Las autorizaciones a que se refiere el N° 1 regirán para los contratos de sociedad y los pactos y convenios complementarios entre los socios, que la Corporación de Fomento de la Producción celebre para el desarrollo de proyectos en el país con participación mayoritaria de inversionistas extranjeros, así como también para los contratos que esas sociedades celebren con la citada Corporación.
 
