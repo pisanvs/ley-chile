@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 276 de fecha 8 de julio de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Karina Marcela Castro Carmona, Rut. N° 14.114.977-6, Concesión Marítima Menor, con vencimiento el 30 de junio de 2026, sobre un sector de Terreno de Playa y Uso de Mejora Fiscal en el lugar denominado Flamenco, comuna de Chañaral, Provincia de Chañaral, Región de Atacama, con una superficie total de 449.99 m2, la que fue tramitada con el SIABC N° 38.261. A modo referencial se señalan las siguientes coordenadas geográficas: Vértice A: Lat. 26°34'9.57"S Long. 70°40'53.70"W y Vértice D: Lat. 26°34'10.24"S Long. 70°40'53.88"W. El objeto consiste en amparar el uso de la mejora fiscal correspondiente a una casa de veraneo familiar. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Alejandro León Solari, Teniente 1° LT, Capitán de Puerto de Chañaral.
