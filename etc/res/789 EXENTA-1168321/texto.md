@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta electrónica Nº 789, de 20 de octubre de 2021, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 Ley 16.391, del inmueble ubicado en La Higuera PC 16 Lt 1, Rol de Avalúo Nº 3706-47, comuna Talca, superficie 2.994,38 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente Cía. de Seguros de Vida Consorcio. Comisión integrada por peritos Patricio Durán Marcos, arquitecto; Pedro Pablo Cruz Weston, arquitecto, y Rodrigo Silva Lazo, constructor civil, según informe de tasación evacuado con fecha 16 de agosto de 2021, fijó monto provisional indemnización en $148.711.922.-, monto que conforme a lo dispuesto en el artículo 5º del DL 2.186 de 1978 fue reajustado a la suma de $150.942.600.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
