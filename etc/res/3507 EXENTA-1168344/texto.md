@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por Resolución Ex. Nº 3.507 de fecha 05/11/2021, conforme al artículo 51 ley 16.391, D.L. 2.186/1978 y D.S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Calle Mollulco entre Calles El Bosque y Complejo Deportivo Labranza, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado "Inmueble rural ubicado en Labranza-Botrolhue" Rol de avalúo 3249-346, comuna de Temuco. La superficie total a expropiar aproximada es de 85,72 metros cuadrados, de aparente dominio de Sucesión Aida Mondaca Acuña y otros. Comisión de Peritos integrada por don Ítalo Cortés Rocco, Eduardo Yáñez Inzunza y Claudio Pezo Muñoz, fijó monto de Indemnización Provisional en $3.624.483 según Informe Nº 03-0A de fecha 02/11/2021, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
