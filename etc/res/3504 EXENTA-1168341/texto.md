@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 3.504 de fecha 05/11/2021, conforme al artículo 51 Ley 16.391, D.L. 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento calle Mollulco entre calles El Bosque y Complejo Deportivo Labranza, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado "Lote Número 1" Rol de avalúo 3249-93, comuna de Temuco. La superficie total a expropiar aproximada es de 453,45 metros cuadrados, de aparente dominio de doña Elvira Elida Aravena Salgado. Comisión de Peritos integrada por don Ítalo Cortés Rocco, Eduardo Yáñez Inzunza y Claudio Pezo Muñoz, fijó monto de indemnización provisional en $14.639.996 según informe N° 06-0A de fecha 02/11/2021, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
