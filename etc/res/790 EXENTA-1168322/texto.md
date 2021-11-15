@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta electrónica Nº 790, de 20 de octubre de 2021, de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, del inmueble ubicado/nombre Canal San Rafael, Rol de Avalúo Nº 1000-1, comuna San Rafael, superficie 150 metros cuadrados de terreno para lote 3 y 206 metros cuadrados de terreno para lote 4, deslindes según plano expropiaciones, propietario aparente Asociación de Canalistas del Canal San Rafael. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Álvaro Hernán Vergara Mejías, ingeniero civil industrial, y Claudia Poblete Ramírez, arquitecto; según informe de tasación evacuado con fecha 10 de diciembre de 2020, fijó monto provisional indemnización en suma total de $9.454.000.- monto que conforme a lo dispuesto en el artículo 5º del DL 2.186 de 1978, fue reajustado a la suma de $9.907.790.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
