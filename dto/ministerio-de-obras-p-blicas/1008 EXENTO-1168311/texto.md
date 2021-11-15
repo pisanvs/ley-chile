@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1008, de 27 de octubre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 259, para la obra: REPOSICION RUTA 148 SECTOR: CRUCE RUTA 5 - PUENTE QUEIME, que figura a nombre de ALVIAL MENDEZ PAULINA ANDREA, rol de avalúo 2096-147, Comuna de QUILLON, REGION DE ÑUBLE, superficie 852 m2. La Comisión de Peritos integrada por DANIEL AARÓN HEBER CHANDÍA MARÍN, GONZALO ANDRÉS SUAZO FIGUEROA y ROXANA CECILIA ABARZUA GAJARDO, mediante informe de tasación de 10 de septiembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $8.964.504 para el lote N°259. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
