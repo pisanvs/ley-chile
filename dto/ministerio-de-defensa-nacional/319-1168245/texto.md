@@ -1,0 +1,7 @@
+TRANSFERENCIA DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 319, del 17 de agosto de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, correspondiente al SIABC N° 46019, se autorizó transferencia de concesión marítima menor a nombre de: Anyel Marlén González García, RUT: 15.042.391-0, otorgada mediante decreto supremo N° 319, del 17 de agosto de 2021, del Ministro de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, sobre un sector de terreno de playa, con el objetivo de continuar amparando la construcción existente de un local comercial destinado a la venta y elaboración de productos del mar y otros, con patente de restaurant y que se encuentra ubicado en el lugar denominado terreno de playa, comuna de Coquimbo, provincia de Elqui, Región de Coquimbo, con vencimiento al 30 de junio de 2022, las obras existentes corresponden a mejoras fiscales y la concesión abarca una superficie total de 171.81 m².
+
+Los antecedentes del decreto referido se encuentran a disposición del público en la Capitanía Puerto de Tongoy. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Luis Jeldres Sepúlveda, Sargento 1° L (Seg. M.), Capitán de Puerto de Tongoy.
