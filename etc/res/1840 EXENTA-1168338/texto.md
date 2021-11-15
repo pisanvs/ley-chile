@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.840, de 29 de octubre de 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno y de edificación de un inmueble ubicado en Collao Nº 315, Rol de Avalúo Nº 311-1, comuna de Concepción, de aparente dominio de Fisco Ejército de Chile, superficie afecta expropiación parcial de terreno de 1235,01 m2 (Lote 19) y expropiación de edificaciones de 0,00 m2, según Plano S8R 38383-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida PAR Vial Collao-General Novoa", comuna de Concepción, Región del Biobío, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecta Cecilia Carrasco Verdugo, arquitecto Rodrigo Escobar Fernández y arquitecto Felipe Castillo Parra, según informe de fecha 09.08.2021, fijó monto provisional indemnización en $413.906.664, más una suma de $6.622.507, por concepto de reajuste del artículo 5º del DL 2.186 de 1978, que dan la cifra de $420.529.171.-
+
+Director Serviu Región del Biobío.
