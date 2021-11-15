@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 1.807 del 5 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Collin 734, comuna de Chillán, Rol de Avalúo N° 00680-00022, de aparente dominio de Fuentes Ortiz Nicolás. La parte afecta a expropiación total de terreno es de 295,06 m2 y total de 208,82 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano Sl6R-055, para el proyecto "Mejoramiento Avenida Huambalí comuna de Chillán", conforme artículo 51 Ley 16.391 y DL. 2186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, Constructor Civil don Italo Rengo Zerga y por el Ingeniero Civil Industrial don Orlando Javier Paredes, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $186.638.188.-
+
+Director Serviu Región de Ñuble.
