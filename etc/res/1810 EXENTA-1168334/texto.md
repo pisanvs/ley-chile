@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 1.810 del 5 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Barros Arana 259, comuna de Chillán, Rol de Avalúo N° 00515-00004, de aparente dominio de Molinera Marcenaro Ltda. La parte afecta a expropiación parcial de terreno es de 987,60 m2 y total de 276,26 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-046, para el proyecto "Mejoramiento Avenida Diagonal Las Termas comuna de Chillán", conforme artículo 51 ley 16.391 y DL. 2186. Comisión Peritos integrada por el Arquitecto doña Priscilla Andrea Encalada Rueda, Arquitecto doña Cecilia María Carrasco Verdugo y por el Constructor Civil don Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $334.900.185.-
+
+Director Serviu Región de Ñuble.
