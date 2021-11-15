@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº973, de 18 de octubre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº30, para la obra: MEJORAMIENTO CBI RUTA V-155, FRUTILLAR BAJO (F.PAV) - QUILANTO, FRUTILLAR, que figura a nombre de SALAS GARCIA HERNAN HUMBERTO Y OTRO, rol de avalúo 220-141, Comuna de FRUTILLAR, REGIÓN DE LOS LAGOS, superficie 199 m2. La Comisión de Peritos integrada por NORMAN ESTANISLAO CALDERON PONTIGGIA, SONIA CATALINA GALLEGOS BLANCH y CHRISTIAN EMIL RAUCH YAÑEZ, mediante informe de tasación de 21 de julio de 2016, fijó el monto de la indemnización provisional en la cantidad de $1.203.950, para el lote Nº30. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
