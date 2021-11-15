@@ -1,0 +1,5 @@
+RESOLUCIÓN Nº 2021/PA/05/1026 EXENTA DE FECHA 27 DE OCTUBRE DE 2021 QUE ORDENA INSTRUIR PROCESO ADMINISTRATIVO
+
+La Superintendencia de Educación, por resolución exenta Nº 2021/PA/05/1026, de fecha 27 de octubre de 2021, que ordena instruir Proceso Administrativo al Establecimiento Educacional English College, RBD Nº 16.896-3. Resuelvo: 1. Instrúyase Proceso Administrativo al Establecimiento Educacional English College, RBD Nº 16.896-3, cuya Entidad Sostenedora es Sociedad Educacional San Gabriel Ltda., RUT Nº 76.125.602-9, por los hechos consignados en acta de Fiscalización Nº 210501444, de fecha 19.10.2021. 2.- Desígnese Fiscal Instructor a don Gonzalo Gac Soto. 3.- Notifíquese la presente resolución.-
+
+Sybil Abarca Carvajal, Encargada Unidad Jurídica Regional, Superintendencia de Educación, Región de Valparaíso.
