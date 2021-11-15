@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP. N°1044, de 03 de noviembre de 2021, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP N°199, de 22 de abril de 2019, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°84, expropiado con motivo de la obra: Mejoramiento Rutas W-135-125, Sector: Rampa Chacao - Linao, Comuna de Ancud, Provincia de Chiloé, Región de Los Lagos. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 15 de junio de 2015, complementada por acta de 13 de agosto de 2018, ascendente a la cantidad de $1.557.500, para el lote N°84. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2.186, de 1978.
+
+Fiscalía MOP.
