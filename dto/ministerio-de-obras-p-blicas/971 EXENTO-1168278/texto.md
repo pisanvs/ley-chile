@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°971, de 18 de octubre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 67-D, 68-A, 68-B y 68-C, para la obra: MEJORAMIENTO RUTA I-45 SECTOR PUENTE NEGRO - LA RUFINA, que figuran a nombre de BECERRA SOTO JUAN CARLOS, rol de avalúo 412-43, Comuna de SAN FERNANDO, REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficies 14, 15, 46 y 9 m2 respectivamente. La Comisión de Peritos integrada por ANDRES RAINER SCHULZ VILLANUEVA, ALEJANDRO GREGORIO PADILLA HENRIQUEZ y MARLENE TERESA RÍOS MARCUELLO, mediante informe de tasación de 16 de diciembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $837.100 para el lote N°67-D, $1.000.000 para el lote N°68-A, $672.400 para el lote N°68-B, y $1.422.600 para el lote N°68-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
