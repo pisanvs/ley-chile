@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 1.805, del 05 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Barros Arana 195, comuna de Chillán, Rol de Avalúo N° 00508-00013, de aparente dominio de Suc. Bocaz Lagos Anselmo. La superficie afecta a expropiación Parcial es de 43,49 m² de terreno, cuyos linderos particulares están enmarcados en el plano S16R-100, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, el Arquitecto don Andrés Javier Tobar Beluzán, y por el Ingeniero Civil don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $9.040.665.-
+
+Director Serviu Región de Ñuble.
