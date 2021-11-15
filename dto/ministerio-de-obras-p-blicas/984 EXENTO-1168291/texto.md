@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº984, de 18 de octubre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 16, 17 y 18, para la obra: MEJORAMIENTO RUTA Y-71, SECTOR PORVENIR- ONAISSIN, TRAMO II, que figuran a nombre de GANADERA Y AGRICOLA FORTUNA LIMI, roles de avalúo 612-9, Comuna de PORVENIR, REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA, superficies 17.658, 6.532 y 416 m2. respectivamente. La Comisión de Peritos integrada por CLAUDIA PATRICIA GALLARDO OJEDA, RODRIGO FERNANDEZ DUBROCK y CAROLINA ULLOA ALVAREZ, mediante informe de tasación de 26 de marzo de 2020, fijó el monto de la indemnización provisional en la cantidad de $17.587.368, para el lote Nº16, $6.527.472, para el lote Nº17 y $414.336, para el lote Nº18. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
