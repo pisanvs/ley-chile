@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta electrónica Nº 791, de 20 de octubre de 2021, de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, del inmueble ubicado en San Ricardo, Sitio Nº 66, Patria Nueva, Rol de Avalúo Nº 102-13, comuna San Rafael, superficie 187 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente José Isaías Guajardo Muñoz. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Álvaro Hernán Vergara Mejías, ingeniero civil industrial, y Claudia Poblete Ramírez, arquitecto; según informe de tasación evacuado con fecha 10 de diciembre de 2020, fijó monto provisional indemnización en suma total de $2.711.500.-, monto que conforme a lo dispuesto en el artículo 5º del DL Nº 2.186 de 1978 fue reajustado a la suma de $2.841.650.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
