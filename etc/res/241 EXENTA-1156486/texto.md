@@ -34,7 +34,7 @@ b) El segundo proceso de selección comienza el 26 de abril y cierra el 15 de ju
 
 c) El tercer proceso de selección comienza el 01 de julio y cierra el 27 de agosto de 2021. Todos los proyectos podrán digitarse hasta el 30 de julio de 2021, pudiendo acreditarse el ahorro necesario hasta esa misma fecha. Una vez finalizada la digitación, Serviu revisará los proyectos.
 
-d) El cuarto proceso de selección comienza el 1 de agosto y cierra su postulación el 30 de septiembre de 2021. Todos los proyectos podrán digitarse hasta el 30 de septiembre de 2021, pudiendo acreditarse el ahorro necesario hasta el 29 de septiembre. Una vez finalizada la digitación, los PSAT podrán efectuar correcciones o actualizaciones a los datos de las familias, pero no podrán postular nuevas familias. Serviu revisará los proyectos hasta el último día hábil del mes de octubre. De ser necesario, dicho plazo podrá prorrogarse hasta en 2 semanas.
+d) El cuarto proceso de selección comienza el 01 de agosto y cierra su postulación el 30 de septiembre de 2021. Todos los proyectos podrán digitarse hasta el 30 de septiembre de 2021, pudiendo acreditarse el ahorro necesario hasta el 29 de septiembre. Una vez finalizada la digitación, los PSAT podrán efectuar correcciones o actualizaciones a los datos de las familias, pero no podrán postular nuevas familias. Serviu revisará los proyectos hasta el último día hábil del mes de noviembre. De ser necesario, dicho plazo podrá prorrogarse hasta en 4 semanas.
 
 3) La postulación será de carácter individual y el subsidio podrá ser aplicado en alguna de las siguientes modalidades:
 
@@ -101,6 +101,8 @@ En caso que aplique un porcentaje del subsidio para la contratación de mano de 
 f) Declaración jurada simple del postulante, en que declare estar en pleno conocimiento que la mala utilización de este subsidio faculta al Serviu para solicitar la restitución parcial o total del monto de subsidio otorgado y perseguir las acciones civiles y penales correspondientes, si se determina que se ha generado algún perjuicio a terceros o que se han desviado los recursos a fines distintos para los que fueron asignados.
 
 7.9) Los subsidios entregados por este llamado serán compatibles con eventuales futuros beneficios del Programa de Protección del Patrimonio Familiar u otros programas de mejoramiento de la vivienda, siempre que no se trate del mismo tipo de proyecto u obras a realizar. Además, quienes hayan sido beneficiarios anteriormente de un subsidio de mejoramiento, podrán postular al presente llamado mientras no se hayan ejecutado obras del mismo tipo o se trate del mismo tipo de proyecto ya ejecutado. Por último, si el postulante es un arrendatario, podrá optar a futuro a cualquiera de los programas de subsidio del Minvu para obtención de una vivienda.
+
+7.10) Para la revisión del 4° proceso de selección, Serviu podrán elegir el formato de revisión a aplicar, pudiendo optar por el que fue utilizado en los otros procesos de selección de este llamado o efectuará la revisión definiendo primero el cálculo de los puntajes de los proyectos y luego solicitar los proyectos que podrían ser beneficiados según la cantidad de recursos con que cuenta la región más una lista de espera. La lista de espera no puede ser inferior a un 25% de los recursos con que cuenta la región.
 
 8) Exímese a los postulantes de este llamado especial de cumplir con los siguientes requisitos, antecedentes y condiciones establecidos en el DS N° 255 (V. y U.), de 2006:
 
