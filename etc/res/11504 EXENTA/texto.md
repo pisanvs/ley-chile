@@ -80,17 +80,19 @@ Para los efectos de descontar de los recursos dispuestos, se considerará un mon
 
 ### 5. Del Beneficio y su Aplicación:
 
-5.1. El subsidio habitacional asignado a la cooperativa será equivalente a la suma de los subsidios individuales otorgable a sus socios de acuerdo a los artículos 34 y 35 del DS N° 49. La cooperativa deberá aplicar dicho subsidio a la adquisición del terreno, si corresponde, y a la construcción de las obras. En el Registro de Beneficiarios del Minvu quedará constancia de esta condición respecto de la cooperativa y de los socios asignatarios de viviendas. La cooperativa deberá informar al Serviu respecto a los reemplazos de socios asignatarios con el fin de proceder a la actualización de los registros correspondientes. No obstante, con autorización del Serviu respectivo, un socio asignatario podrá postular a otros programas habitacionales para obtener vivienda en propiedad, a condición de que, en el caso de ser seleccionado, renuncie a la calidad de socio y a la asignación en uso y goce de la unidad, en forma previa a la entrega del subsidio.
+5.1. El subsidio habitacional asignado a la cooperativa será equivalente a la suma de los subsidios individuales otorgable a sus socios de acuerdo a la tabla inserta en el presente Resuelvo. La cooperativa deberá aplicar dicho subsidio a la adquisición del terreno, si corresponde, y a la construcción de las obras. En el Registro de Beneficiarios del Minvu quedará constancia de esta condición respecto de la cooperativa y de los socios asignatarios de viviendas. La cooperativa deberá informar al Serviu respecto a los reemplazos de socios asignatarios con el fin de proceder a la actualización de los registros correspondientes. No obstante, con autorización del Serviu respectivo, un socio asignatario podrá postular a otros programas habitacionales para obtener vivienda en propiedad, a condición de que, en el caso de ser seleccionado, renuncie a la calidad de socio y a la asignación en uso y goce de la unidad, en forma previa a la entrega del subsidio.
 
 Adicionalmente, las cooperativas cerradas de vivienda que resulten seleccionadas deberán presentar, con anterioridad al inicio de obras, o bien antes del pago del anticipo para la adquisición del terreno, si corresponde, el Informe técnico favorable relativo a la factibilidad del loteo y de urbanización, de la Dirección de Obras o la unidad que ejerza sus funciones, de la municipalidad correspondiente a la ubicación del inmueble, de acuerdo a lo señalado en el artículo 82 de la Ley General de Cooperativas.
 
 5.2. Para efectos del presente llamado, los proyectos habitacionales cuyos terrenos se emplacen en los territorios definidos en el Resuelvo 1. de la presente resolución, y que cumplan con los numerales 2. y 3. de la letra a), del artículo 35, del DS N° 49, podrán acceder automáticamente al Subsidio Diferenciado a la Localización, sin que sea necesario el pronunciamiento de la Seremi de Vivienda y Urbanismo respectiva ni la verificación del cumplimiento de los requisitos específicos de distancia a servicios establecidos en los numerales 4., 5., 6., 7. y 8. del literal y artículo ya citados. En caso de proyectos con menos de 10 viviendas, no será necesario el cumplimiento del numeral 3, del literal y artículos señalados en el presente Resuelvo, para acceder al Subsidio Diferenciado a la Localización.
 
-5.3. El monto del Subsidio complementario de Densificación en Altura, al que se refiere el inciso segundo de la letra d), del artículo 35, del DS N° 49, podrá alcanzar un monto de hasta 100 Unidades de Fomento cuando los proyectos habitacionales contemplen la densidad mínima establecida en dicho inciso, sin que sean exigibles los demás requisitos que allí se indican, o de hasta 140 Unidades de Fomento cuando se cumpla lo señalado en el inciso tercero de la letra d) del artículo 35, del DS N° 49.
+5.3. El financiamiento total de construcción de los proyectos estará conformado por la suma del subsidio base, y los siguientes subsidos complementarios, señalados a continuación:
 
-5.4. El monto del Subsidio complementario para Proyectos de Mediana Escala, establecido en la letra k) del artículo 35, del DS N° 49, podrá alcanzar las 100 Unidades de Fomento.
+.
 
-5.5. Aquellas cooperativas que sean beneficiadas sin un proyecto calificado, tendrán que calificar su proyecto de acuerdo a lo siguiente:
+No obstante lo anterior, la Cooperativa podrá acceder adicionalmente al Subsidio Diferenciado a la Localización que se indica en la letra a), del artículo 35, del D.S. N° 49, en caso que deba financiar la adquisición del terreno donde se desarrolle el proyecto.
+
+5.4. Aquellas cooperativas que sean beneficiadas sin un proyecto calificado, tendrán que calificar su proyecto de acuerdo a lo siguiente:
 
 a) Dentro del plazo de 90 días corridos a partir de la publicación en el Diario Oficial de la resolución que asigna los subsidios, deberán presentar lo señalado en la letra n) del artículo 10. del DS N°49, relativa a la Etapa de Proyecto del Plan de Acompañamiento Social y el Diagnóstico Participativo. El documento deberá ser evaluado por el Serviu respectivo en un plazo de 10 días corridos, quien podrá otorgar un nuevo plazo para subsanar observaciones y reevaluar.
 
@@ -102,7 +104,7 @@ d) Excepcionalmente, el proyecto podrá ser calificado condicionalmente si el pr
 
 e) Si el proyecto no es ingresado dentro del plazo máximo estipulado para ello, el Serviu podrá asumir el patrocinio de dicho proyecto.
 
-5.6. Cuando el proyecto incluya equipamiento consistente en recintos para el funcionamiento de locales comerciales u otros recintos de similar naturaleza, la cooperativa deberá presentar al momento del ingreso del proyecto una declaración en que se comprometa a su administración para la obtención de recursos en beneficio de la organización.
+5.5. Cuando el proyecto incluya equipamiento consistente en recintos para el funcionamiento de locales comerciales u otros recintos de similar naturaleza, la cooperativa deberá presentar al momento del ingreso del proyecto una declaración en que se comprometa a su administración para la obtención de recursos en beneficio de la organización.
 
 ### 6. Pago de Subsidios y Prohibiciones
 
