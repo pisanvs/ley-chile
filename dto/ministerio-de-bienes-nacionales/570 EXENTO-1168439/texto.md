@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "AXXA ENERGÍA SpA"
+
+Mediante decreto exento Nº 570, de 26 de octubre de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "AXXA Energía SpA", RUT Nº 77.316.641-2, el inmueble fiscal denominado "Manto de la Luna", ubicado en el sector de "Subestación Manto de la Luna" aproximadamente a 27 km. al suroeste de la intersección de la Ruta 24 con la Ruta B-172, comuna y provincia de Tocopilla, Región de Antofagasta; singularizado en el Plano Nº 02301-4.550-C.R., de una superficie total de 30,56 ha.; enrolado en el Servicio de Impuestos Internos bajo el Rol Nº 385-1; amparado por la inscripción global a nombre del Fisco que rola a fojas 199 Nº 159 del Registro de Propiedad del año 1994, del Conservador de Bienes Raíces de Tocopilla. La concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la concesión para el período de estudios y construcción será de U.F. 2.554,82; y para el período de operación será la misma antes señalada, más la renta variable anual aplicable.
+
+La concesión se otorga para ejecutar proyecto de Energía Renovable (ERNC). El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sánz de Undurraga, Jefe División Jurídica.
