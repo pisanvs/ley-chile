@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta 1.596, de fecha 28 de octubre 2021, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Los Lagos, se aprobó los planes y programas de enseñanza y se autorizó a impartir el curso conducente a obtención de Licencia de Conductor Clase B, en modalidad e-learning, para la comuna de Castro a la Escuela de Conductores No Profesionales o Clase B denominada "Formación Integral y Capacitación IPV Purranque SpA", RUT N°76.610.344-8, cuyo representante legal es don Marcelo Alexander Stuardo Zapata. Las horas pedagógicas autorizadas a la referida Escuela son de 12 teóricas, 14 prácticas, con un total de 26 horas pedagógicas. La correcta funcionalidad de plataforma tecnológica computacional LMS, estará siempre sujeta a auditorías, controles y fiscalizaciones que sean procedentes. La misma autorización, en copia fidedigna, deberá estar a disposición de los postulantes y alumnos del establecimiento.-
+
+Nicolás Maximiliao Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
