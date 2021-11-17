@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO "LÍNEA DE TRANSMISIÓN 1X220 KV RARINCO - LOS VARONES"
+
+De conformidad a lo dispuesto en el artículo 95 del DS Nº 40/2012 MMA (Reglamento del SEIA), se comunica a toda persona, natural o jurídica, que hubiera presentado observaciones durante la evaluación ambiental de la Declaración de Impacto Ambiental del proyecto "Línea de Transmisión 1 x 220 kV Rarinco - Los Varones", sometido al Sistema de Evaluación de Impacto Ambiental por su titular, Energía Renovable Verano Tres SpA, que por resolución exenta Nº 20210800156, de fecha 2 de noviembre de 2021, la Comisión de Evaluación de la Región del Biobío calificó favorablemente el proyecto individualizado. Estas personas, naturales o jurídicas, disponen de un plazo de 30 días hábiles, contados desde la presente notificación, para presentar recurso de reclamación ante el Comité de Ministros, de conformidad a lo dispuesto en los artículos 20 y 29 de la ley Nº 19.300.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA del Biobío, ubicada en Lincoyán Nº145, Concepción. Además, podrá acceder a la resolución a través del sitio web www.seagob.cl.-
+
+Silvana Suanes Araneda, Secretaria Comisión de Evaluación Región del Biobío.
