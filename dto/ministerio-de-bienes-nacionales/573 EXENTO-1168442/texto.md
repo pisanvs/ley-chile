@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "GRENERGY RENOVABLES PACIFIC LIMITADA"
+
+Mediante decreto exento N° 573, de 26 de octubre de 2021, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Grenergy Renovables Pacific Limitada", RUT N° 76.257.813-1, el inmueble fiscal denominado "Estación Prat Poniente", ubicado en el Sector Encuentro aproximadamente a 27,5 km. al noreste de la ciudad de Antofagasta, aproximadamente a 6,7 km al norte de la intersección de la Ruta 5 con la Ruta B-400, comuna, provincia y Región de Antofagasta; singularizado en el Plano N° 02101-9313-C.R., de una superficie total de 30,12 ha.; enrolado en el Servicio de Impuestos Internos bajo el Rol N° 6403-4; amparado por la inscripción global a nombre del Fisco que rola a fojas 3509 vta. N° 3776 del Registro de Propiedad del año 2014, del Conservador de Bienes Raíces de Antofagasta. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de U.F. 1.530; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para ejecutar proyecto de Energía Renovable (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
