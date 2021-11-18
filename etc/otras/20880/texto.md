@@ -46,13 +46,13 @@ Además de los sujetos señalados en el Capítulo 3° de este Título, se encont
 
 1. El Presidente de la República, los ministros de Estado, los subsecretarios, los delegados presidenciales regionales, los delegados presidenciales provinciales, los gobernadores regionales, los secretarios regionales ministeriales, los jefes superiores de servicio, los embajadores, los ministros consejeros y los cónsules.
 
-2. Los consejeros del Consejo de Defensa del Estado, del Consejo Directivo del Servicio Electoral, del Consejo para la Transparencia, del Consejo de Alta Dirección Pública, del Consejo de Monumentos Nacionales, del Instituto Nacional de Derechos Humanos, del Consejo Directivo del Fondo Autónomo de Protección Previsional, del Consejo Asesor para las licitaciones de cuentas de capitalización individual, y del Consejo Nacional de Televisión.
+2. Los consejeros del Consejo de Defensa del Estado, del Consejo Directivo del Servicio Electoral, del Consejo para la Transparencia, del Consejo de Alta Dirección Pública, del Instituto Nacional de Derechos Humanos y del Consejo Nacional de Televisión.
 
 3. Los integrantes de los Paneles de Expertos o Técnicos creados por las leyes N°19.940, N°20.378 y N°20.410.
 
 4. Los alcaldes, concejales y consejeros regionales.
 
-5. Los oficiales generales, los oficiales superiores y el grado superior de los oficiales jefes de las Fuerzas Armadas y niveles jerárquicos equivalentes de las Fuerzas de Orden y Seguridad Pública.
+5. Los oficiales generales y oficiales superiores de las Fuerzas Armadas y niveles jerárquicos equivalentes de las Fuerzas de Orden y Seguridad Pública.
 
 6. Los defensores locales de la Defensoría Penal Pública.
 
@@ -70,19 +70,9 @@ Además de los sujetos señalados en el Capítulo 3° de este Título, se encont
 
 13. Los miembros del Consejo del Fondo Plurianual para las Capacidades Estratégicas de la Defensa, establecido en el Título VI de la ley N° 18.948, orgánica constitucional de las Fuerzas Armadas.
 
-14. Las personas que, de conformidad con lo dispuesto en la ley Nº 19.886, de bases sobre contratos administrativos de suministro y prestación de servicios, estén sujetas a la obligación de declarar intereses y patrimonio.
-
-15. El Jefe o Jefa de la Oficina de Autorizaciones Sectoriales e Inversión, así como las jefaturas de áreas de dicha repartición.
-
-15. Los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial.
-
-> **Nota.** El artículo 5 de la ley 21772, publicada el 01.10.2025, dispone agregar en el presente artículo un numeral 15, no obstante, el artículo 122 de la ley 21770, publicada el 29.09.2025, ya había incorporado un numeral 15 de distinto tenor a esta misma disposición, razón por la cual, el presente texto actualizado contiene dos números 15.
-
 #### Artículo 5°
 
 La declaración de intereses y patrimonio deberá efectuarse dentro de los treinta días siguientes de la fecha de asunción del cargo. Además, el declarante deberá actualizarla anualmente, durante el mes de marzo, y dentro de los treinta días posteriores a concluir sus funciones.
-
-Sin perjuicio de lo anterior, los sujetos señalados en el numeral 14 del artículo 4°, y los jefes superiores de servicio, deberán actualizar su declaración de intereses y patrimonio, adicionalmente, en el mes septiembre de cada año.
 
 #### Artículo 6°
 
@@ -116,17 +106,7 @@ h) La enunciación del pasivo, siempre que en su conjunto ascienda a un monto su
 
 La declaración deberá incluir asimismo el nombre completo del declarante y de su cónyuge o conviviente civil.
 
-Tratándose de los sujetos señalados en los números 1 a 4 y 14 del artículo 4°, y de los sujetos a que se refiere el Capítulo 3° de este Título, además deberá incluirse el nombre completo de sus parientes por consanguinidad en toda la línea recta que se encuentren vivos y en el segundo grado tanto en la línea colateral como por afinidad.
-
-Adicionalmente, los sujetos señalados en el numeral 14 del artículo 4°, y los jefes superiores de servicio, deberán incluir en su declaración la singularización de los siguientes bienes:
-
-a) Cuentas y/o libretas de ahorro que se mantengan en instituciones de ahorro, instituciones financieras, o de cualquier otra naturaleza.
-
-b) Ahorro previsional voluntario bajo cualquier modalidad, ahorro previsional voluntario colectivo y depósitos convenidos.
-
-c) Depósitos a plazo.
-
-d) Seguros de vida con ahorro y seguros en general.
+Tratándose de los sujetos señalados en los números 1 a 4 del artículo 4°, y de los sujetos a que se refiere el Capítulo 3° de este Título, además deberá incluirse el nombre completo de sus parientes por consanguinidad en toda la línea recta que se encuentren vivos y en el segundo grado tanto en la línea colateral como por afinidad.
 
 Sin perjuicio de lo dispuesto en el inciso anterior, en el sitio electrónico de la institución respectiva sólo podrá publicarse el nombre de los parientes por consanguinidad en primer grado en la línea recta del declarante. En el caso de los fiscales y de los jueces con competencia en lo penal, los datos respecto de todos los parientes indicados en el inciso precedente no serán publicados, debiendo registrarse esa información en el carácter de secreta.
 
@@ -316,7 +296,7 @@ Objeto y constitución del mandato
 
 #### Artículo 26
 
-El Presidente de la República, los ministros de Estado, los subsecretarios, los diputados y senadores, el Contralor General de la República, los intendentes, los gobernadores, los consejeros regionales, los alcaldes, los integrantes del Consejo Directivo del Fondo Autónomo de Protección Previsional y sus altos ejecutivos, entendiéndose como aquellos los definidos en el inciso segundo del artículo 68 de la ley N° 18.045, y los jefes superiores de las entidades fiscalizadoras, en los términos del decreto ley N°3.551, que sean titulares de acciones de sociedades anónimas abiertas, opciones a la compra y venta de tales acciones, bonos, debentures y demás títulos de oferta pública representativos de capital o de deuda que sean emitidos por entidades constituidas en Chile, que se encuentren inscritas en los registros de valores que llevan las Superintendencias de Valores y Seguros y de Bancos e Instituciones Financieras, y cuyo valor total supere las veinticinco mil unidades de fomento, deberán optar por una de las siguientes alternativas respecto de tales acciones y valores:
+El Presidente de la República, los ministros de Estado, los subsecretarios, los diputados y senadores, el Contralor General de la República, los intendentes, los gobernadores, los consejeros regionales, los alcaldes y los jefes superiores de las entidades fiscalizadoras, en los términos del decreto ley N°3.551, que sean titulares de acciones de sociedades anónimas abiertas, opciones a la compra y venta de tales acciones, bonos, debentures y demás títulos de oferta pública representativos de capital o de deuda que sean emitidos por entidades constituidas en Chile, que se encuentren inscritas en los registros de valores que llevan las Superintendencias de Valores y Seguros y de Bancos e Instituciones Financieras, y cuyo valor total supere las veinticinco mil unidades de fomento, deberán optar por una de las siguientes alternativas respecto de tales acciones y valores:
 
 a) Constituir un mandato especial conforme a las normas de este Título, o
 

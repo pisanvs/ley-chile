@@ -15086,7 +15086,7 @@ Si la enfermedad hubiere durado más de seis meses, fijará el juez, según las 
 
 4. Los gastos en que se incurra para poner a disposición de la masa los bienes del deudor, los gastos de administración del procedimiento concursal de liquidación, de realización del activo y los préstamos contratados por el liquidador para los efectos mencionados.
 
-5. Las remuneraciones de los trabajadores, las asignaciones familiares, la indemnización establecida en el número 2 del artículo 163 bis del Código del Trabajo con un límite de noventa unidades de fomento al valor correspondiente al último día del mes anterior a su pago, considerándose valista el exceso si lo hubiere, y las cotizaciones adeudadas a las instituciones de seguridad social o que se recauden por su intermedio, para ser destinadas a ese fin;
+5. Las remuneraciones de los trabajadores, las asignaciones familiares, la indemnización establecida en el número 2 del artículo 163 bis del Código del Trabajo con un límite de noventa unidades de fomento al valor correspondiente al último día del mes anterior a su pago, considerándose valista el exceso si lo hubiere, las cotizaciones adeudadas a las instituciones de seguridad social o que se recauden por su intermedio, para ser destinadas a ese fin, y los alimentos que se deben por ley a ciertas personas de conformidad con las reglas previstas en el Título XVIII del Libro I, con un límite de ciento veinte unidades de fomento al valor correspondiente al último día del mes anterior a su pago, considerándose valista el exceso si lo hubiere;
 
 6. Los créditos del fisco en contra de las entidades administradoras de fondos de pensiones por los aportes que aquél hubiere efectuado de acuerdo con el inciso cuarto del artículo 42 del decreto ley Nº 3.500, de 1980;
 
@@ -16438,6 +16438,8 @@ Sin perjuicio de lo establecido en los incisos anteriores, tratándose de menore
 
 Con todo, lo establecido en el inciso anterior no será aplicable si el menor de edad o alguno de sus padres tuviere la nacionalidad chilena.
 
+No obstante lo anterior, si el o la alimentante no diere su autorización y se encontrase publicado en el Registro de Deudores de Pensiones de Alimentos, el juez, subsidiariamente, podrá otorgar dicho permiso sin considerar las razones que tuviera para la negativa, lo que no podrá aplicarse en caso de que la salida al extranjero sea con el fin de establecerse con residencia definitiva.
+
 #### Artículo 49 bis
 
 En la sentencia el juez podrá decretar que la autorización a que se refiere el inciso sexto del artículo anterior habilita al padre o madre que la haya requerido y que tenga al menor a su cuidado para salir del país con él en distintas ocasiones dentro de los dos años siguientes, siempre que se acredite que el otro progenitor, injustificadamente, ha dejado de cumplir el deber, regulado judicial o convencionalmente, de mantener una relación directa y regular con su hijo. El plazo de permanencia del menor de edad en el extranjero no podrá ser superior a quince días en cada ocasión.
@@ -16630,11 +16632,13 @@ El demandado deberá informar al tribunal todo cambio de domicilio, de empleador
 
 Al demandado que no dé cumplimiento a lo previsto en el inciso anterior se le impondrá, a solicitud de parte, una multa de 1 a 15 unidades tributarias mensuales, a beneficio fiscal.
 
+El abogado patrocinante, en cumplimiento de la carga legal de las partes de actualizar la forma de notificación electrónica que se ha ofrecido al tribunal, aun en la etapa de cumplimiento y previo a renunciar al patrocinio, deberá informar al tribunal una forma de notificación electrónica válida respecto de su representado. El abogado patrocinante que incumpliere esta obligación será sancionado con multa a beneficio fiscal de 3 a 15 unidades tributarias mensuales.
+
 #### Artículo 3º
 
 Para los efectos de decretar los alimentos cuando un menor los solicitare de su padre o madre, se presumirá que el alimentante tiene los medios para otorgarlos.
 
-En virtud de esta presunción, el monto mínimo de la pensión alimenticia que se decrete a favor de un menor alimentario no podrá ser inferior al cuarenta por ciento del ingreso mínimo remuneracional que corresponda según la edad del alimentante. Tratándose de dos o más menores, dicho monto no podrá ser inferior al 30% por cada uno de ellos.
+En virtud de esta presunción, el monto mínimo de la pensión alimenticia que se decrete a favor de un menor alimentario no podrá ser inferior al cuarenta por ciento del ingreso mínimo remuneracional que corresponda según la edad del alimentante. Tratándose de dos o más menores, dicho monto no podrá ser inferior al 30% por cada uno de ellos. Sin perjuicio de lo anterior, el juez, en la resolución que fija o aprueba la pensión alimenticia, deberá expresar su monto en unidades tributarias mensuales, de conformidad a lo dispuesto en el inciso segundo del artículo 6.
 
 Todo lo anterior es sin perjuicio de lo dispuesto en el inciso primero del artículo 7º de la presente ley.
 
@@ -16656,15 +16660,17 @@ El tribunal podrá acceder provisionalmente a la solicitud de aumento, rebaja o 
 
 La resolución que decrete los alimentos provisorios o la que se pronuncie provisionalmente sobre la solicitud de aumento, rebaja o cese de una pensión alimenticia, será susceptible del recurso de reposición con apelación subsidiaria, la que se concederá en el solo efecto devolutivo y gozará de preferencia para su vista y fallo.
 
+El tribunal inmediatamente después de decretar los alimentos provisorios, deberá ordenar de oficio a la entidad financiera correspondiente, la apertura de una cuenta de ahorro u otro instrumento equivalente exclusivo para el cumplimiento de la obligación.
+
 El juez que no dé cumplimiento a lo previsto en el inciso primero incurrirá en falta o abuso que la parte agraviada podrá perseguir conforme al artículo 536 del Código Orgánico de Tribunales.
 
 #### Artículo 5º
 
 El juez, al proveer la demanda, ordenará que el demandado acompañe, en la audiencia preparatoria, las liquidaciones de sueldo, copia de la declaración de impuesto a la renta del año precedente y de las boletas de honorarios emitidas durante el año en curso y demás antecedentes que sirvan para determinar su patrimonio y capacidad económica. En el evento de que no disponga de tales documentos, acompañará, o extenderá en la propia audiencia, una declaración jurada, en la cual dejará constancia de su patrimonio y capacidad económica. La declaración de patrimonio deberá señalar el monto aproximado de sus ingresos ordinarios y extraordinarios, individualizando lo más completamente posible, si los tuviere, sus activos, tales como bienes inmuebles, vehículos, valores, derechos en comunidades o sociedades.
 
-Para efectos de lo anterior, el tribunal citará al demandado a la audiencia preparatoria personalmente o representado, bajo apercibimiento del apremio establecido en el artículo 543 del Código de Procedimiento Civil.
+Con la sola resolución que provea la demanda, el tribunal, de oficio o a solicitud del demandante, podrá ordenar dentro de quinto día, al Servicio de Impuestos Internos, a PREVIRED, a las entidades bancarias, al Conservador de Bienes Raíces, a la Tesorería General de la República, a la Superintendencia de Pensiones, a la Comisión para el Mercado Financiero, a las instituciones de salud previsional, a las administradoras de fondos de pensiones y a cualquier otro organismo público o privado que aporten antecedentes útiles que permitan determinar los ingresos y la capacidad económica del demandado.
 
-Si el demandado no da cumplimiento a lo ordenado conforme al inciso primero, o si el tribunal lo estima necesario, deberá solicitar de oficio al Servicio de Impuestos Internos, a las Instituciones de Salud Previsional, a las Administradoras de Fondos de Pensiones y a cualquier otro organismo público o privado, los antecedentes que permitan acreditar la capacidad económica y el patrimonio del demandado.
+Para efectos de lo anterior, el tribunal citará al demandado a la audiencia preparatoria personalmente o representado, bajo apercibimiento del apremio establecido en el artículo 543 del Código de Procedimiento Civil.
 
 El ocultamiento de cualquiera de las fuentes de ingreso del demandado, efectuado en juicio en que se exija el cumplimiento de la obligación alimenticia, será sancionado con la pena de prisión en cualquiera de sus grados.
 
@@ -16672,45 +16678,43 @@ El demandado que no acompañe todos o algunos de los documentos requeridos o no 
 
 La inclusión de datos inexactos y la omisión de información relevante en la declaración jurada que el demandado extienda conforme a este artículo, será sancionada con las penas del artículo 212 del Código Penal.
 
-Los actos celebrados por el alimentante con terceros de mala fe, con la finalidad de reducir su patrimonio en perjuicio del alimentario, así como los actos simulados o aparentes ejecutados con el propósito de perjudicar al alimentario, podrán revocarse conforme al artículo 2.468 del Código Civil. Para estos efectos, se entenderá que el tercero está de mala fe cuando conozca o deba conocer la intención fraudulenta del alimentante. Todo lo anterior es sin perjuicio de la responsabilidad penal que corresponda. La acción se tramitará como incidente, ante el juez de familia. La resolución que se pronuncie sobre esta materia será apelable en el solo efecto devolutivo.
+El alimentario tendrá derecho a que se rescindan los actos y contratos celebrados por el alimentante con la finalidad de reducir su patrimonio en perjuicio del alimentario, de conformidad con las disposiciones siguientes:
+
+1. Podrán rescindirse los actos y contratos gratuitos.
+
+En cuanto a los contratos onerosos, podrán rescindirse probándose la mala fe del adquirente, esto es, conociendo o debiendo conocer que el otorgante tenía una o más deudas alimenticias impagas.
+
+2. También podrá ejercerse para rescindir los actos o contratos simulados o aparentes celebrados por el alimentante con la finalidad de reducir su patrimonio en perjuicio del alimentario.
+
+3. La acción prescribirá en un plazo de tres años contado desde la fecha de celebración del acto o contrato.
+
+4. Esta acción se tramitará como incidente, ante el juez con competencia en asuntos de familia, pudiendo ser deducida tanto en la etapa de cumplimiento de la pensión alimenticia, como en la etapa declarativa respecto de los alimentos provisorios impagos. La resolución que se pronuncie sobre esta materia será apelable en el solo efecto devolutivo.
+
+5. Esta acción no aplicará respecto de los actos celebrados en cumplimiento de las condiciones legales previstas en el Título Final de la presente ley, referido al Registro Nacional de Deudores de Pensiones de Alimentos.
 
 #### Artículo 6º
 
 Las medidas precautorias en estos juicios podrán decretarse por el monto y en la forma que el tribunal determine de acuerdo con las circunstancias del caso.
 
-Toda resolución que fije una pensión de alimentos deberá determinar el monto y lugar de pago de la misma.
+Toda resolución que fije una pensión de alimentos deberá disponer el pago mensual y anticipado de un monto expresado en unidades tributarias mensuales, y señalar el período del mes en que ha de realizarse el pago, y ordenará la apertura de una cuenta de ahorro u otro instrumento equivalente exclusivo para el cumplimiento de la obligación. Lo anterior es sin perjuicio de lo dispuesto en el artículo 9. Asimismo, deberá especificar las circunstancias consideradas para determinar la capacidad económica del alimentante y las necesidades del alimentario, e indicar la proporción en la que los padres deberán contribuir, conforme a sus capacidades económicas, a solucionar los gastos extraordinarios del hijo en común, entendiéndose por tales aquellas necesidades que surgen con posterioridad y cuya existencia no era posible prever, tales como el caso de hospitalizaciones y gastos médicos de urgencia.
 
 #### Artículo 7º
 
-El tribunal no podrá fijar como monto de la pensión una suma o porcentaje que exceda del cincuenta por ciento de las rentas del alimentante.
+El tribunal no podrá fijar como monto de la pensión una suma que exceda del cincuenta por ciento de las rentas del alimentante, salvo que existan razones fundadas para fijarlo sobre este límite, teniendo especialmente en cuenta el interés superior del niño, niña o adolescente, velando por que se conserve un reparto equitativo en los aportes del alimentante demandado para con todos los alimentarios a quienes tiene el deber de proveer alimentos.
 
 Las asignaciones por "carga de familia" no se considerarán para los efectos de calcular esta renta y corresponderán, en todo caso, a la persona que causa la asignación y serán inembargables por terceros.
 
-Cuando la pensión alimenticia no se fije en un porcentaje de los ingresos del alimentante, ni en ingresos mínimos, ni en otros valores reajustables, sino en una suma determinada, ésta se reajustará semestralmente de acuerdo al alza que haya experimentado el Indice de Precios al Consumidor fijado por el Instituto Nacional de Estadísticas, o el organismo que haga sus veces, desde el mes siguiente a aquél en que quedó ejecutoriada la resolución que determina el monto de la pensión.
-
-El Secretario del Tribunal, a requerimiento del alimentario, procederá a reliquidar la pensión alimenticia, de acuerdo con lo establecido en el inciso anterior.
-
-INCISO DEROGADO
-
 #### Artículo 8º
 
-Las resoluciones judiciales que ordenen el pago de una pensión alimenticia, provisoria o definitiva, por un trabajador dependiente establecerán, como modalidad de pago, la retención por parte del empleador. La resolución judicial que así lo ordene se notificará a la persona natural o jurídica que, por cuenta propia o ajena o en el desempeño de un empleo o cargo, deba pagar al alimentante su sueldo, salario o cualquier otra prestación en dinero, a fin de que retenga y entregue la suma o cuotas periódicas fijadas en ella directamente al alimentario, a su representante legal, o a la persona a cuyo cuidado esté.
+Las resoluciones judiciales que ordenen el pago de una pensión alimenticia, provisoria o definitiva, por un trabajador dependiente, o que perciba una pensión de vejez, invalidez o sobrevivencia, establecerán, como modalidad del pago, la retención por parte del empleador o la entidad pagadora de las pensiones, a menos que el tribunal establezca, por razones fundadas, su falta de idoneidad para asegurar el pago. Asimismo, si se tratare de un trabajador independiente, sujeto a contrato de honorarios, el tribunal establecerá la retención de sus honorarios, si atendidas las circunstancias concretas, estima que es un medio idóneo para garantizar el cumplimiento íntegro y oportuno de la pensión alimenticia.
 
-La notificación de las resoluciones a que se refiere el inciso anterior se efectuará por carta certificada, dejándose testimonio en el proceso de que la persona fue notificada por este medio, de la fecha de entrega de la carta a la oficina de correos, la individualización de dicha oficina y el número de comprobante emitido por ella, el cual se adherirá al proceso a continuación del testimonio. La notificación se entenderá practicada al tercero día hábil siguiente a la fecha recién aludida. Si la carta certificada fuere devuelta por la oficina de correos por no haberse podido entregar al destinatario, se adherirá al expediente.
+La resolución que ordena o aprueba la retención que indica el inciso anterior se notificará a quien deba pagar al alimentante su remuneración, pensión o cualquier otra prestación en dinero, a fin de que retenga y entregue la suma o cuotas periódicas fijadas en ella directamente al alimentario, a su representante legal, o a la persona a cuyo cuidado esté.
 
-El demandado dependiente podrá solicitar al juez, por una sola vez, con fundamento plausible, en cualquier estado del juicio y antes de la dictación de la sentencia, que sustituya, por otra modalidad de pago, la retención por parte del empleador, siempre que dé garantías suficientes de pago íntegro y oportuno.
-
-La solicitud respectiva se tramitará como incidente. En caso de ser acogida, la modalidad de pago decretada quedará sujeta a la condición de su íntegro y oportuno cumplimiento.
-
-De existir incumplimiento, el juez, de oficio, y sin perjuicio de las sanciones y apremios que sean pertinentes, ordenará que en lo sucesivo la pensión alimenticia decretada se pague conforme al inciso primero.
-
-> **Nota.** El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
+La notificación del inciso anterior se efectuará por cédula, dejándose testimonio en el proceso de la práctica de la diligencia, en los términos del artículo 48 del Código de Procedimiento Civil. No obstante lo anterior, el juez podrá ordenar que dicha notificación se efectúe por alguna otra forma expedita, segura y eficaz, y dejará constancia de ella en el proceso.
 
 #### Artículo 9º
 
-El juez podrá decretar o aprobar que se imputen al pago de la pensión, parcial o totalmente, los gastos útiles o extraordinarios que efectúe el alimentante para satisfacer necesidades permanentes de educación, salud o vivienda del alimentario.
-
-El juez podrá también fijar o aprobar que la pensión alimenticia se impute total o parcialmente a un derecho de usufructo, uso o habitación sobre bienes del alimentante, quien no podrá enajenarlos ni gravarlos sin autorización del juez. Si se tratare de un bien raíz, la resolución judicial servirá de título para inscribir los derechos reales y la prohibición de enajenar o gravar en los registros correspondientes del Conservador de Bienes Raíces. Podrá requerir estas inscripciones el propio alimentario.
+El juez podrá fijar o aprobar que la pensión alimenticia se impute total o parcialmente a un derecho de usufructo, uso o habitación sobre bienes del alimentante, quien no podrá enajenarlos ni gravarlos sin autorización del juez. Si se tratare de un bien raíz, la resolución judicial servirá de título para inscribir los derechos reales y la prohibición de enajenar o gravar en los registros correspondientes del Conservador de Bienes Raíces. Podrá requerir estas inscripciones el propio alimentario.
 
 La constitución de los mencionados derechos reales no perjudicará a los acreedores del alimentante cuyos créditos tengan una causa anterior a su inscripción.
 
@@ -16732,11 +16736,25 @@ Toda resolución judicial que fijare una pensión alimenticia, o que aprobare un
 
 En las transacciones sobre alimentos futuros tendrán la calidad de ministros de fe, además de aquellos señalados en otras disposiciones legales, los Abogados Jefes o Coordinadores de los Consultorios de la respectiva Corporación de Asistencia Judicial, para el solo efecto de autorizar las firmas que se estamparen en su presencia.
 
-El juez sólo podrá dar su aprobación a las transacciones sobre alimentos futuros, a que hace referencia el artículo 2.451 del Código Civil, cuando se señalare en ellas la fecha y lugar de pago de la pensión, y el monto acordado no sea inferior al establecido en el artículo 3º de la presente ley. La mención de la fecha y lugar de pago de la pensión será necesaria, asimismo, para que el tribunal apruebe los avenimientos sobre alimentos futuros.
+El juez sólo podrá dar su aprobación a las transacciones sobre alimentos futuros a que hace referencia el artículo 2451 del Código Civil, cumpliéndose los siguientes presupuestos:
 
-Salvo estipulación en contrario, tratándose de alimentantes que sean trabajadores dependientes, el juez ordenará como modalidad de pago de la pensión acordada la retención por parte del empleador.
+a) Que el acuerdo disponga el pago mensual y anticipado de un monto expresado en unidades tributarias mensuales, a través del depósito o transferencia a una cuenta de ahorro u otro instrumento equivalente dispuesto exclusivamente para el cumplimiento de esta obligación, especificándose la época del mes en que dicho depósito o transferencia ha de realizarse. Sin perjuicio de lo anterior, también serán válidos los acuerdos de constitución de derechos de usufructo y de uso o habitación sobre bienes del alimentante, realizados de conformidad a lo dispuesto en el artículo 9 y aquellos aportes económicos a los que se obligue el alimentante para el otorgamiento de prestaciones o beneficios en favor del alimentario, que surgen de una relación contractual suya que permite satisfacer las necesidades del alimentario en condiciones más favorables, tales como el aporte de la cotización para salud o el pago de la prima del seguro de salud. Estas prestaciones deberán ser valorizadas en unidades tributarias mensuales en el acuerdo, debiendo el incumplimiento ser alegado por el alimentario tan pronto lo conozca, objetando la liquidación.
 
-Esta modalidad de pago se decretará, sin más trámite, toda vez que el alimentante no cumpla con la obligación alimenticia acordada.
+b) Que el acuerdo especifique las circunstancias consideradas para determinar la capacidad económica del alimentante y las necesidades del alimentario, e indique la proporción en la que los padres deberán contribuir, conforme a sus capacidades económicas, a solucionar los gastos extraordinarios del hijo en común, entendiéndose por tales aquellas necesidades que surgen con posterioridad y cuya existencia no era posible prever, tales como el caso de hospitalizaciones y gastos médicos de urgencia.
+
+c) Que el monto de la pensión expresado en unidades tributarias mensuales no sea inferior al establecido en el artículo 3.
+
+Deberán verificarse las mismas exigencias señaladas en el inciso anterior para que el tribunal apruebe un acuerdo sobre alimentos futuros, cualquiera sea la forma autocompositiva por la que éste se alcance.
+
+Salvo estipulación en contrario, el juez que aprobare un acuerdo sobre alimentos futuros deberá ordenar al empleador del alimentante, a la entidad que pague la respectiva pensión, o a quienes suscriban con él un contrato de honorarios, en los términos dispuestos en el artículo 8, que retengan de la suma de dinero que le deben pagar, el monto equivalente a la pensión de alimentos convenida.
+
+Esta modalidad de pago se decretará, de oficio o a petición de parte, sin más trámite, cada vez que el alimentante no cumpla con la obligación alimenticia acordada. En la misma resolución, el tribunal ordenará su notificación a quien deba practicar la retención, en los términos de los incisos segundo y tercero del artículo 8.
+
+#### Artículo 11 bis
+
+El empleador del alimentante, quien lo contrate a honorarios o la entidad que pague la pensión respectiva, que esté obligado a practicar la retención judicial, deberá descontar el monto correspondiente a los alimentos decretados o aprobados judicialmente, a continuación de los descuentos obligatorios por concepto de impuestos y cotizaciones obligatorias de seguridad social.
+
+En caso de que haya más de un empleador, el tribunal ordenará el pago en los términos más convenientes para el alimentario.
 
 #### Artículo 12
 
@@ -16744,27 +16762,49 @@ El requerimiento de pago se notificará al ejecutado en la forma establecida en 
 
 Solamente será admisible la excepción de pago y siempre que se funde en un antecedente escrito.
 
+El pago parcial que efectúe el ejecutado frente al requerimiento de pago no entorpecerá la tramitación del procedimiento de ejecución ni hará exigible una nueva liquidación. El juez, de oficio, deberá ordenar la deducción de la cantidad abonada, una vez acreditada, del monto expresado en el mandamiento de ejecución y embargo.
+
 Si no se opusieran excepciones en el plazo legal, se omitirá la sentencia y bastará el mandamiento para que el acreedor haga uso de su derecho en conformidad al procedimiento de apremio del juicio ejecutivo.
 
 Si las excepciones opuestas fueren inadmisibles, el tribunal lo declarará así y ordenará seguir la ejecución adelante.
 
-El mandamiento de embargo que se despache para el pago de la primera pensión alimenticia será suficiente para el pago de cada una de las venideras, sin necesidad de nuevo requerimiento; pero si no se efectuara oportunamente el pago de una o más pensiones, deberá, en cada caso, notificarse por carta certificada el mandamiento, pudiendo el demandado oponer excepción de pago dentro del término legal a contar de la notificación.
+El mandamiento de embargo que se despache para el pago de la primera pensión alimenticia será suficiente para el pago de cada una de las venideras, sin necesidad de nuevo requerimiento; pero si no se efectuara oportunamente el pago de una o más pensiones, deberá, en cada caso, notificarse el mandamiento, pudiendo el demandado oponer excepción de pago dentro del término legal a contar de la notificación.
+
+Para facilitar el cobro ejecutivo de la deuda, la aplicación de un apremio, la inscripción del alimentante en el Registro Nacional de Deudores de Pensiones de Alimentos, o actualizar en dicho Registro el monto de la deuda, los juzgados con competencia en asuntos de familia deberán disponer de oficio, mensualmente, que se practique la liquidación de la pensión y su notificación a las partes para que presenten sus objeciones dentro de tercero día. Presentada la objeción a la liquidación, el tribunal deberá resolverla en el más breve plazo, de plano o previo traslado, y con el solo mérito de los antecedentes que las partes acompañen a sus presentaciones y aquellos que obren en el proceso. La decisión que acoge la objeción a la liquidación, sea total o parcialmente, sólo será impugnable por la contraparte mediante recurso de reposición y siempre que ésta no hubiere tenido ocasión de ser oída sobre la materia que se reclama. Dicha solicitud de reposición deberá deducirse dentro de tercero día y de forma fundada. El tribunal fallará de plano la reposición, pero podrá oír a la otra parte cuando la complejidad del asunto así lo aconsejare. En contra de la resolución que resuelve la reposición no procederá recurso alguno. Tampoco será recurrible la resolución que rechaza la objeción a la liquidación.
+
+Salvo lo dispuesto en el inciso primero, las resoluciones dictadas en la etapa de cumplimiento de la pensión alimenticia deberán notificarse en la forma electrónica que el alimentante hubiere indicado, según lo dispuesto en el inciso final del artículo 23 de la ley N° 19.968, que crea los tribunales de familia, y, en caso de no haber señalado forma alguna de notificación o no encontrarse ésta vigente, por medio del estado diario electrónico. En estos casos no tendrá aplicación lo dispuesto en el artículo 52 del Código de Procedimiento Civil.
+
+Durante la etapa de cumplimiento el alimentante podrá requerir al tribunal, excepcionalmente, la imputación de los gastos útiles y extraordinarios que hubiere efectuado para satisfacer necesidades del alimentario, que no hubieren sido previstos, en aquella proporción que exceda a la contribución que al alimentante corresponda. En estos casos, podrá el juez imputarlo al pago de la pensión, considerando la naturaleza del gasto y el grado de contribución que el alimentante y a quien tiene el cuidado personal del alimentario les corresponda, de acuerdo a sus facultades económicas, previo traslado al alimentario. La resolución que acoja dicha solicitud deberá ser fundada, teniendo en especial consideración el interés superior del niño, niña o adolescente. Cualquiera sea el caso, el juez no podrá imputar al pago mensual una suma que exceda del veinte por ciento del monto de la pensión fijada o aprobada, debiendo proceder, si fuera necesario, a prorratear la suma total a imputar al pago de las pensiones sucesivas.
 
 > **Nota.** El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
 
+> **Nota.** NOTA 1 El artículo primero transitorio de la Ley 21389, Justicia, publicada el 18.11.2021, dispone que las disposiciones contenidas en el numeral 18 del artículo 1 de la citada ley, que regulan el Registro Nacional de Deudores de Pensiones de Alimentos y el deber de los juzgados con competencia en asuntos de familia, referido en el inciso séptimo de la presente norma, de disponer de oficio y mensualmente realizar la liquidación de las pensiones de alimentos y notificar dicha liquidación a las partes, entrarán en vigencia transcurrido un año contado desde la publicación de esta ley en el Diario Oficial.
+
+#### Artículo 12 bis
+
+En cualquier etapa del procedimiento, sea éste ordinario, especial o de cumplimiento, el tribunal, con objeto de cautelar derechos derivados de pensiones alimenticias invocados ante sí y que se encuentren devengados, podrá decretar la medida cautelar de retención de fondos acumulados en cuentas bancarias u otros instrumentos de inversión del alimentante, teniendo en cuenta la verosimilitud del derecho invocado y el peligro en la demora que implica la tramitación del proceso, ante la inminencia del retiro de los fondos depositados o invertidos.
+
+La medida cautelar de retención decretada conforme al presente artículo surtirá efecto desde la notificación de la resolución a la respectiva entidad bancaria o financiera, y aun antes de notificarse a la persona contra quien se dicte. Para estos efectos, cuando el tribunal decretare la medida cautelar de retención, dictará resolución ordenando que primero sea notificada la respectiva entidad en que se encuentran los fondos, en el más breve plazo y por medios electrónicos, y que la notificación a la persona contra quien se dicte la medida sea practicada inmediatamente después. La entidad, tan pronto fuere notificada de la resolución, deberá comunicarla al titular de los fondos contra quien se dictó la medida, mediante medios electrónicos o, en su defecto, mediante carta certificada dirigida al domicilio registrado en la respectiva entidad. En estos casos, la comunicación por medios electrónicos o por carta certificada, servirá de suficiente notificación, la que se entenderá practicada, según corresponda, a contar del envío de la comunicación por medios electrónicos, o a contar del tercer día siguiente a la recepción de la carta certificada en la oficina de correos respectiva.
+
 #### Artículo 13
 
-Si la persona natural o jurídica que deba hacer la retención a que se refieren los artículos 8º y 11, desobedeciere la respectiva orden judicial, incurrirá en multa, a beneficio fiscal, equivalente al doble de la cantidad mandada retener, lo que no obsta para que se despache en su contra o en contra del alimentante el mandamiento de ejecución que corresponda.
+Si la persona natural o jurídica que deba hacer la retención a que se refieren los artículos 8º, 11 y 11 bis, desobedeciere la respectiva orden judicial, incurrirá en multa, a beneficio fiscal, equivalente al doble de la cantidad mandada retener, lo que no obsta para que se despache en su contra o en contra del alimentante el mandamiento de ejecución que corresponda.
 
 La resolución que imponga la multa tendrá mérito ejecutivo una vez ejecutoriada.
 
-El empleador deberá dar cuenta al tribunal del término de la relación laboral con el alimentante. En caso de incumplimiento, el tribunal aplicará, si correspondiere, la sanción establecida en los incisos precedentes. La notificación a que se refiere el artículo 8° deberá expresar dicha circunstancia.
+El empleador deberá dar cuenta al tribunal del término de la relación laboral con el alimentante, dentro del término de diez días hábiles. En caso de incumplimiento, el tribunal aplicará, si correspondiere, la sanción establecida en los incisos precedentes. La notificación a que se refiere el artículo 8° deberá expresar dicha circunstancia.
 
 En caso de que sea procedente el pago de la indemnización sustitutiva del aviso previo a que se refieren los artículos 161 y 162 del Código del Trabajo, será obligación del empleador retener de ella la suma equivalente a la pensión alimenticia del mes siguiente a la fecha de término de la relación laboral, para su pago al alimentario.
 
 Asimismo, si fuere procedente la indemnización por años de servicio a que hace referencia el artículo 163 del Código del Trabajo, o se pactare ésta voluntariamente, el empleador estará obligado a retener del total de dicha indemnización el porcentaje que corresponda al monto de la pensión de alimentos en el ingreso mensual del trabajador, con el objeto de realizar el pago al alimentario. El alimentante podrá, en todo caso, imputar el monto retenido y pagado a las pensiones futuras que se devenguen.
 
-El no cumplimiento de las retenciones establecidas en los dos incisos precedentes hará aplicable al empleador la multa establecida en el inciso primero de este artículo, sin perjuicio de la responsabilidad civil y penal que corresponda.
+En caso de ser procedentes las retenciones de los dos incisos anteriores, los ministros de fe respectivos, previo a la ratificación del finiquito, deberán exigir al empleador la acreditación de haberse efectuado el descuento, la retención y el pago del monto indicado en dichos incisos, en la cuenta ordenada por el tribunal. Lo anteriormente señalado también será aplicable al funcionario de la Inspección del Trabajo que autorice un acta de comparendo de conciliación, a propósito del término de la relación laboral y en que conste el pago de las indemnizaciones señaladas en los incisos precedentes. Para dar cumplimiento a lo anterior, el funcionario de la Inspección del Trabajo o el ministro de fe, según corresponda, deberá verificar si el empleador está sujeto a la obligación de retener judicialmente la pensión de alimentos, para lo cual deberá solicitar las tres últimas liquidaciones que den cuenta de las remuneraciones mensuales del trabajador y su correspondiente descuento por retención judicial, anteriores al término de la relación laboral. No obstante lo anterior, el empleador estará obligado a declarar por escrito su deber de retener judicialmente la pensión alimenticia, especialmente cuando dicha retención no apareciere especificada en las liquidaciones.
+
+La obligación del inciso anterior se extenderá al presidente del sindicato o al delegado sindical respectivo, si procediere de acuerdo con el artículo 177 del Código del Trabajo. Tratándose de las obligaciones consagradas en éste y en el inciso precedente, su incumplimiento hará a quien corresponda solidariamente responsable del pago de las pensiones alimenticias no descontadas, retenidas y pagadas, sin perjuicio de la reparación civil de los daños que por su omisión pudiere causar.
+
+Si hubiere intervención judicial, el tribunal con competencia en lo laboral, una vez establecida la suma total a pagar en favor del trabajador, ordenará al empleador descontar, retener, pagar y acompañar el comprobante de pago de las sumas a que se refieren los incisos cuarto y quinto. Para estos efectos, el empleador estará obligado a poner en conocimiento del tribunal su deber de retener judicialmente la pensión alimenticia. Sin perjuicio de lo anterior, se admitirá la participación del alimentario, en calidad de tercero, para efectos de acreditar en juicio la existencia de la obligación alimenticia y el deber de retención del empleador. Asimismo, el tribunal podrá consultar al tribunal con competencia en asuntos de familia o a la institución financiera correspondiente a fin de comprobar la efectividad del depósito de los alimentos por parte del empleador.
+
+Si el empleador incumpliere una o más de las obligaciones expresadas en este artículo, quedará sujeto a la sanción dispuesta en el inciso primero. Asimismo, quedará obligado solidariamente al pago de las pensiones no descontadas, retenidas y pagadas en favor del alimentario.
 
 #### Artículo 14
 
@@ -16772,11 +16812,11 @@ Si decretados los alimentos por resolución que cause ejecutoria en favor del c�
 
 Si el alimentante infringiere el arresto nocturno o persistiere en el incumplimiento de la obligación alimenticia después de dos periodos de arresto nocturno, el juez podrá apremiarlo con arresto hasta por quince días. En caso de que procedan nuevos apremios, podrá ampliar el arresto hasta por 30 días.
 
-Para los efectos de los incisos anteriores, el tribunal que dicte el apremio, si lo estima estrictamente necesario, podrá facultar a la policía para allanar y descerrajar el domicilio del demandado y ordenará que éste sea conducido directamente ante Gendarmería de Chile. La policía deberá intimar previamente la actuación a los moradores, entregándoles una comunicación escrita o fijándola en lugar visible del domicilio. Si el alimentante no es habido en el domicilio que consta en el proceso, el juez ordenará a la fuerza pública investigar su paradero y adoptará todas las medidas necesarias para hacer efectivo el apremio.
+Para los efectos de los incisos anteriores, el tribunal que dicte el apremio podrá facultar a la policía para allanar y descerrajar el domicilio del demandado y ordenará que éste sea conducido directamente ante Gendarmería de Chile de ser habido. La policía deberá intimar previamente la actuación a los moradores del domicilio que consta en el proceso, dejando constancia por escrito en el acta. En el caso de que el alimentante no fuese habido en el domicilio que conste en el proceso, los funcionarios deberán solicitar a los moradores un documento que acredite la identidad y su relación con el demandado, lo que quedará registrado en el acta de notificación.
 
-En todo caso, la policía podrá arrestar al demandado en cualquier lugar en que éste se encuentre.
+El alimentante podrá ser arrestado en el domicilio que se registre en autos o en cualquier otro que tenga conocimiento la parte, el tribunal o la fuerza pública o en el que aquel se encuentre, por un plazo de sesenta días desde la resolución que lo ordena.
 
-En caso de que fuere necesario decretar dos o más apremios por la falta de pago de unas mismas cuotas, las pensiones alimenticias atrasadas devengarán el interés corriente entre la fecha de vencimiento de la respectiva cuota y la del pago efectivo.
+Si el alimentante no es habido en el plazo estipulado en el inciso anterior, el juez podrá ordenar a la fuerza pública investigar su paradero y adoptará todas las medidas necesarias para hacer efectivo el apremio. Si transcurridos sesenta días desde que el juez ordenó a la fuerza pública investigar el paradero del alimentante y éste no fuese localizado, el juez podrá declararlo rebelde y solicitar su incorporación al Registro Nacional de Prófugos de la Justicia contemplado en la ley N° 20.593.
 
 En las situaciones contempladas en este artículo, el juez dictará también orden de arraigo en contra del alimentante, la que permanecerá vigente hasta que se efectúe el pago de lo adeudado. Para estos efectos, las órdenes de apremio y de arraigo expresarán el monto de la deuda, y podrá recibir válidamente el pago la unidad policial que les dé cumplimiento, debiendo entregar comprobante al deudor. Esta disposición se aplicará asimismo en el caso del arraigo a que se refiere el artículo 10.
 
@@ -16802,7 +16842,9 @@ Las medidas establecidas en este artículo procederán también respecto del ali
 
 #### Artículo 17
 
-DEROGADO
+Los alimentos adeudados devengarán el interés corriente para operaciones reajustables, determinado por la Comisión para el Mercado Financiero, de acuerdo a lo establecido en el artículo 6 de la ley N° 18.010, que establece normas sobre operaciones de crédito y otras obligaciones en dinero que indica.
+
+La entidad financiera en la que se abra una cuenta de ahorro u otro instrumento equivalente, para el cumplimiento de la pensión alimenticia, deberá proporcionar al tribunal todos los medios y antecedentes necesarios para poner a disposición de las partes una liquidación con información actualizada del monto de la deuda y la cantidad de mensualidades adeudadas.
 
 #### Artículo 18
 
@@ -16824,11 +16866,19 @@ a) La falta de contribución a que hace referencia el artículo 225 del Código 
 
 b) La emancipación judicial por abandono del hijo a que se refiere el artículo 271, número 2, del Código Civil.
 
-#### Artículo 20
+#### Artículo 19 bis
 
-DEROGADO
+El plazo de prescripción para las acciones ejecutivas de cobro por deudas de pensión alimenticia será de tres años y se convertirá en ordinaria por dos años más, y se comenzará a computar desde el momento en que el alimentario o alimentaria cumpla 18 años.
 
-> **Nota.** El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que la derogación del presente artículo, empezará a regir el día 1º de octubre de 2005.
+#### Artículo 19 ter
+
+Por el no pago de la deuda alimentaria, el tercero que ha debido contribuir económicamente a satisfacer las necesidades del alimentario, sin estar legalmente obligado o en exceso de lo que era su obligación, tendrá acción de reembolso en contra del alimentante, por el enriquecimiento sin causa de éste a expensas suya. Esta acción se tramitará ante el tribunal con competencia en asuntos de familia que hubiere decretado o aprobado la pensión alimenticia.
+
+Ante la solicitud de condonación de la deuda alimenticia presentada por el alimentario, el tribunal que estimare que a otros sujetos que no han comparecido al proceso pudiera corresponderles el ejercicio esta acción, deberá ordenar poner el proceso en su conocimiento, para que dentro del término de emplazamiento presente su demanda. Si no la presentare, caducará su derecho.
+
+#### Artículo transitorio
+
+Se entenderá solidariamente responsable, de acuerdo con lo establecido en el artículo 18 de este cuerpo legal, a la Administradora de Fondos de Pensiones que no realice el pago de la retención del diez por ciento, por concepto de deudas del alimentante, o bien si es que realiza el pago del diez por ciento al deudor de alimentos habiendo una medida cautelar vigente. Asimismo, se le sancionará con multas de 15 a 40 unidades tributarias mensuales.
 
 #### Artículo 8º
 

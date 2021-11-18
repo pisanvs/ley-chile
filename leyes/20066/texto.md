@@ -58,6 +58,8 @@ Violencia intrafamiliar. Será constitutivo de violencia intrafamiliar todo malt
 
 También habrá violencia intrafamiliar cuando la conducta referida en el inciso precedente ocurra entre los padres de un hijo común, o recaiga sobre persona menor de edad, adulto mayor o discapacitada que se encuentre bajo el cuidado o dependencia de cualquiera de los integrantes del grupo familiar.
 
+Asimismo, constituyen violencia intrafamiliar las conductas ejercidas en el contexto de relaciones afectivas o familiares, que tengan como objeto directo la vulneración de la autonomía económica de la mujer, o la vulneración patrimonial, o de la subsistencia económica de la familia o de los hijos, tal como el incumplimiento reiterado del deber de proveer alimentos, que se lleven a cabo con el propósito de ejercer control sobre ella, o sobre sus recursos económicos o patrimoniales, generar dependencia o generar un menoscabo de dicho patrimonio o el de sus hijos e hijas.
+
 ### Párrafo 2º — . De la Violencia Intrafamiliar de conocimiento de los Juzgados de Familia
 
 #### Artículo 6º
@@ -122,13 +124,17 @@ Normas Especiales. En las investigaciones y procedimientos penales sobre violenc
 
 #### Artículo 14
 
-Delito de maltrato habitual. El ejercicio habitual de violencia física o psíquica respecto de alguna de las personas referidas en el artículo 5º de esta ley se sancionará con la pena de presidio menor en su grado mínimo a medio, salvo que el hecho sea constitutivo de un delito de mayor gravedad, caso en el cual se aplicará sólo la pena asignada por la ley a éste.
+Delito de maltrato habitual. El ejercicio habitual de violencia física, psíquica o económica respecto de alguna de las personas referidas en el artículo 5º de esta ley se sancionará con la pena de presidio menor en su grado mínimo a medio, salvo que el hecho sea constitutivo de un delito de mayor gravedad, caso en el cual se aplicará sólo la pena asignada por la ley a éste.
 
 Para apreciar la habitualidad, se atenderá al número de actos ejecutados, así como a la proximidad temporal de los mismos, con independencia de que dicha violencia se haya ejercido sobre la misma o diferente víctima. Para estos efectos, no se considerarán los hechos anteriores respecto de los cuales haya recaído sentencia penal absolutoria o condenatoria.
 
 Inciso eliminado.
 
 #### Artículo 14 bis
+
+El que estando obligado al pago de pensiones de alimentos, y con el objeto de menoscabar o controlar la posición económica de la mujer incumpliere reiteradamente el pago de la pensión de alimentos, será sancionado con las penas del artículo 14 de esta ley. Se entenderá, en este caso, que existe un incumplimiento reiterado cuando el deudor permanezca por más de 120 días en el Registro Nacional de Deudores de Pensiones de Alimentos.
+
+#### Artículo 14 ter
 
 En los delitos constitutivos de violencia intrafamiliar, el juez, para efectos de evaluar la irreprochable conducta anterior del imputado, deberá considerar las anotaciones que consten en el registro a que se refiere el artículo 12 de esta ley.
 

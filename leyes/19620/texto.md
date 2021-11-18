@@ -220,7 +220,7 @@ Párrafo Primero
 
 #### Artículo 20
 
-Podrá otorgarse la adopción a los cónyuges chilenos o extranjeros, con residencia permanente en el país, que tengan dos o más años de matrimonio, que hayan sido evaluados como física, mental, psicológica y moralmente idóneos por alguna de las instituciones a que se refiere el artículo 6º, que sean mayores de veinticinco años y menores de sesenta, y con veinte años o más de diferencia de edad con el menor adoptado. Los cónyuges deberán actuar siempre de consuno en las gestiones que requieran de expresión de voluntad de los adoptantes.
+Podrá otorgarse la adopción a los cónyuges chilenos o extranjeros, con residencia permanente en el país, que tengan dos o más años de matrimonio, que hayan sido evaluados como física, mental, psicológica y moralmente idóneos por alguna de las instituciones a que se refiere el artículo 6º, que sean mayores de veinticinco años y menores de sesenta, y con veinte años o más de diferencia de edad con el menor adoptado. Dentro de la evaluación a que se refiere este inciso se verificará que el o los solicitantes no se encuentren inscritos en el Registro Nacional de Deudores de Pensiones de Alimentos. Los cónyuges deberán actuar siempre de consuno en las gestiones que requieran de expresión de voluntad de los adoptantes.
 
 El juez, por resolución fundada, podrá rebajar los límites de edad o la diferencia de años señalada en el inciso anterior. Dicha rebaja no podrá exceder de cinco años.
 
