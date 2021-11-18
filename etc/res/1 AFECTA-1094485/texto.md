@@ -120,7 +120,7 @@ c.4. Cereales: 5% de subsidio adicional para aquellas pólizas, cuyo cultivo ase
 
 c.5. Zonas extremas: 5% de subsidio adicional para aquellas pólizas o contratos de cobertura cuya materia asegurada esté ubicada en una de las comunas situadas dentro de las zonas extremas determinadas por la ley Nº 20.655, esto es, dentro de las Regiones I, XV, XI, XII, además de las Provincias de Chiloé y Palena.
 
-Sin perjuicio de lo anterior, el subsidio total por póliza de seguro o contrato de cobertura no podrá sobrepasar el 98% de la prima neta, incluido el subsidio fijo de UF 1 por póliza o contrato.
+El subsidio total por póliza de seguro o contrato de cobertura no podrá sobrepasar el 98% de la prima neta incluido el subsidio fijo de UF 1 por póliza o contrato. Lo anterior no obsta a las condiciones especiales que, con relación al Programa Especial de Apoyo a la Contratación del Seguro Agrícola, Pacsa, para beneficiarios de Indap, se prevén en el numeral 7 de las presentes Normas Reglamentarias.
 
 d. El monto total del subsidio general que cada beneficiario reciba por la contratación de pólizas de seguro agrícola de cualquier tipo, y/o contratos de cobertura de precios y tipo de cambio, no podrá ser superior a UF 80 por póliza o contrato. Excepcionalmente, el monto total del subsidio del Estado para el Seguro Forestal no podrá ser superior a UF 80 por beneficiario y por póliza, con máximo de una póliza por cada beneficiario, por temporada agrícola.
 
@@ -184,7 +184,11 @@ Agroseguros, en forma directa o a través de un tercero, podrá efectuar inspecc
 
 La utilización del subsidio general en operaciones no elegibles dará lugar a la aplicación, por parte del Consejo de Agroseguros, de una multa a la Compañía Aseguradora o a la "I.C.C." infractora de hasta (10) diez veces el valor del subsidio incorrectamente pagado. El Acuerdo de Consejo de Agroseguros que aplique la multa será puesto en ejecución por Resolución del Director Ejecutivo del Comité.
 
-### 7. Eliminado
+### 7. NORMAS TRANSITORIAS
+
+7.1. Adicionalmente a lo contemplado en el numeral 2, letras a y c, hasta el 31 de diciembre 2021, habrá un porcentaje adicional de subsidio para aquellos beneficiarios del Instituto de Desarrollo Agropecuario, Indap, que no cuenten con el Programa Especial de Apoyo a la Contratación del Seguro Agrícola, Pacsa, de dicho Instituto.
+
+7.2 Este porcentaje adicional para los beneficiarios de Indap, antes definidos, variará conforme el porcentaje de la Prima Neta subsidiada por los conceptos del numeral 2, letras a y c, alcanzando hasta un 50% de la Prima Neta.
 
 3° Este Reglamento comenzará a regir a partir de la total tramitación de la presente Resolución y de su publicación en el Diario Oficial.
 
