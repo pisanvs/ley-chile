@@ -60,6 +60,14 @@ Tarifa Trenes Elecciones
 
 Primarias 18 de julio de 2021 $0
 
+Tarifa Metro Elecciones
+
+21 de noviembre de 2021 $0
+
+Tarifa Trenes Elecciones
+
+21 de noviembre de 2021 $0
+
 Los valores contenidos en la presente tabla serán los que sirvan de base para la aplicación del procedimiento de ajuste de tarifas, contenido en el Artículo 14 literal a) de la ley N° 20.378 y el decreto supremo N° 140, de 2009, del Ministerio de Transportes y Telecomunicaciones, y del procedimiento de determinación de nivel de tarifas establecido en el artículo 14 literal c) y artículo 15 de la ley N° 20.378.
 
 La Tarifa Metro Baja comprende el período entre las 6:00:00 y las 6:59:59 horas, y entre las 20:45:00 y las 23:00:00 horas, de lunes a viernes, excepto festivos. La Tarifa Metro Período Punta comprende el período entre las 7:00:00 y las 8:59:59 horas y entre las 18:00:00 y las 19:59:59 horas, de lunes a viernes, excepto festivos. El resto de los horarios y de los días corresponde a la Tarifa Metro Valle.
