@@ -80,7 +80,7 @@ b) El Secretario Regional Ministerial de
 
 Planificación y Cooperación respectivo, y c) Cinco representantes de las organizaciones de pequeños productores agrícolas y campesinos con personalidad jurídica, elegidos por sus bases con a lo menos un representante por provincia, que se encuentren inscritas en el Registro a que se refiere el inciso primero del artículo 15 de este Reglamento.
 
-Estos representantes durarán cuatro años en el cargo, y no podrán ser reelegidos para el período siguiente.
+Estos representantes durarán cuatro años en el cargo, a contar de su elección y podrán ser reelegidos por una sola vez.
 
 #### Artículo 10
 
