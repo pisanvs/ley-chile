@@ -32,9 +32,11 @@ d) Los correos electrónicos de fecha 23 de junio de 2021, que dan cuenta de la 
 
 Resolución:
 
-1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, en las comunas que integran las provincias de Choapa, Región de Coquimbo, las comunas de La Ligua, Cabildo, Papudo y Petorca, de la Región de Valparaíso, y las comunas de Mulchén, San Rosendo, Quilaco, Antuco, Laja y Alto Biobío, en la Región del Biobío, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado. En tal sentido, se efectuarán procesos de selección en cada cierre, con los proyectos calificados para dichos efectos, los días 22 de julio, 31 de agosto y 30 de noviembre de 2021, o hasta agotar la totalidad de los recursos dispuestos por agrupación de provincias, según corresponda.
+1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, en las comunas que integran la provincia de Choapa, las comunas de La Higuera, Vicuña y Andacollo en la provincia de Elqui, las comunas de Combarbalá, Punitaqui y Montepatria en la provincia del Limarí, de la Región de Coquimbo, las comunas de La Ligua, Cabildo, Papudo y Petorca, de la Región de Valparaíso, y las comunas de Mulchén, San Rosendo, Quilaco, Antuco, Laja y Alto Biobío, en la Región del Biobío, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado. En tal sentido, se efectuarán procesos de selección en cada cierre, con los proyectos calificados para dichos efectos, los días 22 de julio, 31 de agosto, 30 de noviembre y 28 de diciembre de 2021, o hasta agotar la totalidad de los recursos dispuestos por agrupación de provincias, según corresponda.
 
 2. Los recursos involucrados para la selección de postulantes, por agrupación de provincias, son los siguientes:
+
+.
 
 3. El número de proyectos seleccionados en cada región alcanzará hasta el número de subsidios susceptibles de ser financiados con los recursos previstos en la tabla inserta en el resuelvo 2., incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones y ajustes que serán sancionadas mediante resolución.
 
@@ -60,9 +62,11 @@ Con todo, para la obtención del Certificado de Calificación del proyecto, debe
 
 a. El monto de subsidio base será el que se indica en el siguiente cuadro, en Unidades de Fomento, monto total al que no se aplicará el factor multiplicador definido en la resolución exenta Nº 1.874 (V. y U.), de 2015.
 
+.
+
 b. El Subsidio para Proyectos de Mediana Escala a que alude la letra k) del artículo 35 del DS Nº 49 (V. y U.), de 2011 podrá alcanzar hasta 150 Unidades de Fomento para proyectos de hasta 40 viviendas, y 110 Unidades de Fomento para proyectos sobre 40 y hasta 70 viviendas.
 
-c. El monto base del Subsidio de Habilitación, establecido en el inciso tercero de la letra h) del artículo 35, del DS Nº 49 (V. y U.), de 2011, podrá alcanzar hasta las 250 Unidades de Fomento, manteniéndose sobre este el monto adicional de habilitación de 130 Unidades de Fomento que se destinan para la ejecución de las obras especiales que en el citado inciso se especifican.
+c. El monto base del Subsidio de Habilitación, establecido en el Inciso tercero de la letra h) del artículo 35, del DS Nº 49 (V. y U.), de 2011, podrá alcanzar hasta las 280 Unidades de Fomento, manteniéndose sobre este el monto adicional de habilitación de 100 Unidades de Fomento que se destinan para la ejecución de las obras especiales que en el citado inciso se especifican.
 
 d. Los proyectos que se emplacen en zonas donde se encuentren vigentes Planes de Descontaminación Atmosférica del Ministerio del Medio Ambiente, así como aquellos donde las exigencias de éstos para viviendas nuevas comiencen a regir en fecha posterior a su calificación, pero dentro del año del presente llamado, podrán incrementar su subsidio base en hasta 80 Unidades de Fomento, cuando requieran un mayor financiamiento para la implementación de las medidas del referido plan o, en su defecto, cuando apliquen las instrucciones que dicte este Ministerio en materia de estándar de acondicionamiento térmico para viviendas nuevas, las que estarán publicadas en el sitio web del Ministerio de Vivienda y Urbanismo, en la sección Fechas de Postulaciones/Resultados.
 
