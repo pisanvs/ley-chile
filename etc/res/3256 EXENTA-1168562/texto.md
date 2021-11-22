@@ -1,0 +1,35 @@
+DEJA SIN EFECTO RESOLUCIÓN Nº 1.234 EXENTA, DE 2020, DE ESTA SUBSECRETARÍA DE LAS CULTURAS Y LAS ARTES, POR LOS MOTIVOS QUE INDICA
+
+Núm. 3.256 exenta.- Valparaíso, 17 de noviembre de 2021.
+
+Visto:
+
+Lo dispuesto en el decreto con fuerza de ley Nº 1/19.653, de 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la ley Nº 19.880, que establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; en la ley Nº 21.045, que crea el Ministerio de las Culturas, las Artes y el Patrimonio; en la resolución Nº 7, de 2019, y Nº 16, de 2020, ambas de Contraloría General de la República, que fijan normas sobre exención del trámite de Toma de Razón; en el dictamen Nº 3610, de 2020, de Contraloría General de la República; y en la resolución exenta Nº 1.234, de 2020, de esta Subsecretaría de las Culturas y las Artes, que establece Protocolo para la ampliación extraordinaria del plazo para entregar la garantía asociada a convenios de ejecución de proyectos que indica, en el marco de la contingencia sanitaria del país.
+
+Considerando:
+
+Que la ley Nº 21.045 creó el Ministerio de las Culturas, las Artes y el Patrimonio como la Secretaría de Estado encargada de colaborar con el Presidente de la República en el diseño, formulación e implementación de políticas, planes y programas para contribuir al desarrollo cultural y patrimonial armónico y equitativo del país en toda su diversidad geográfica y las realidades e identidades regionales y locales, conforme a los principios contemplados en la ley. Asimismo, el artículo 3 numeral 1 de le referida ley, establece como función del Ministerio le promoción y contribución al desarrollo de la creación artística y cultural, fomentando la creación, producción, mediación, circulación, distribución y difusión de las artes visuales, fotografía, nuevos medios, danza, circo, teatro, diseño, arquitectura, música, literatura, audiovisual y otras manifestaciones de las artes.
+
+Que el artículo 7 de la citada ley Nº 21.045, creó la Subsecretaría de las Culturas y las Artes, señalando que ésta tendrá a su cargo la administración y servicio interno del Ministerio, del mismo modo que su artículo 9 dispuso que ésta deberá diseñar y ejecutar planes y programas destinados al cumplimiento de las funciones y atribuciones ministeriales.
+
+Que de conformidad a lo establecido en el inciso primero del artículo 5 del DFL Nº 1/19.653, de 2001, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575, la autoridad del Servicio debe velar por la eficiente e idónea administración de los medios públicos y por el debido cumplimiento de la función pública.
+
+Que a raíz de la pandemia producida por el virus Covid-19; las medidas adoptadas por la autoridad competente para contener la propagación del virus y resguardar la salud de la población, entre las que se encuentran las restricciones de desplazamiento y prohibición de ciertas actividades; lo particularmente afectado que resultó el sector artístico y cultural nacional con las citadas restricciones; y en el marco de los lineamientos dados por la Contraloría General de la República en su dictamen Nº 3610, de 2020; esta Subsecretaría de las Culturas y las Artes dictó la resolución exenta Nº 1.234, de 2020, que estableció un "Protocolo para la ampliación extraordinaria del plazo para entregar la garantía asociada a convenios de ejecución de proyectos que indica, en el marco de la contingencia sanitaria del país", en virtud del cual se otorgaron facilidades para concretar el proceso de firma de convenio y garantía de los recursos asociados para aquellos asignatarios que residieran en comunas sometidas a la medida de cuarentena. Lo anterior, de conformidad a la naturaleza extraordinaria de las circunstancias y el principio de continuidad de la función pública (dictámenes Nº E139159-2021 y 13754-2019, entre otros, de Contraloría General de la República).
+
+Que si bien la alerta sanitaria aún se mantiene vigente en nuestro país (artículo 10º del decreto supremo Nº 4, de 2020, del Ministerio de Salud), la mejora paulatina y sostenida en las cifras de la pandemia durante los últimos meses ameritó la no renovación del estado de excepción constitucional de catástrofe por calamidad pública en todo el territorio de la República por parte de la autoridad, y con ello las medidas restrictivas de la libertad de desplazamiento. En consecuencia, y habida cuenta que la medida de cuarentena constituía el supuesto de base para la aplicación de la resolución exenta Nº 1.234, de 2020, al día de hoy sus efectos carecen de oportunidad, por lo que debe ser revocada, de conformidad a lo dispuesto en el artículo 61 de la ley Nº 19.880 y la jurisprudencia administrativa vigente al efecto, cuando ha señalado que "atendido que el artículo 61 de la ley Nº 19.880 no contiene un concepto de revocación, este Organismo de Control ha señalado que aquella consiste en dejar sin efecto un acto administrativo que es válido, por la propia autoridad que lo dictó, en caso que aquél vulnere el interés público general o específico de la autoridad emisora, decisión que debe fundarse en razones de mérito, conveniencia u oportunidad (...)". (Dictamen Nº E126224-2021, en relación con los dictámenes Nos 2641-2005, 35081-2014, 96610-2015 y 15331-2018, de la Contraloría General de la República), por tanto
+
+Resuelvo:
+
+#### Artículo primero
+
+Déjase sin efecto íntegramente la resolución exenta Nº 1.234, de 2020, de esta Subsecretaría de las Culturas y las Artes, que establece "Protocolo para la ampliación extraordinaria del plazo para entregar la garantía asociada a convenios de ejecución de proyectos que indica, en el marco de la contingencia sanitaria del país", por los motivos expresados en la parte considerativa y a contar del cumplimiento de lo ordenado en el artículo segundo.
+
+#### Artículo segundo
+
+Publíquese el presente acto administrativo en el Diario Oficial, por la Sección Secretaría Documental, de este Ministerio de las Culturas, las Artes y el Patrimonio, a objeto de dar cumplimiento a lo dispuesto en la letra b) del artículo 48 de la ley Nº 19.880.
+
+#### Artículo tercero
+
+Una vez que se encuentre totalmente tramitada, publíquese la presente resolución en el sitio electrónico de Gobierno Transparente de esta Subsecretaría de las Culturas y las Artes, por el Departamento Jurídico, en la categoría "Potestades, competencias, responsabilidades, funciones, atribuciones y/o tareas", de la sección "Potestades y marco normativo", a objeto de dar cumplimiento con lo previsto en el artículo 7º de la ley Nº 20.285 sobre Acceso a la Información Pública y en el artículo 51 de su reglamento.
+
+Anótese y publíquese.- Juan Carlos Silva Aldunate, Subsecretario de las Culturas y las Artes.
