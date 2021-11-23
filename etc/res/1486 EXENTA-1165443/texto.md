@@ -38,6 +38,8 @@ Resolución:
 
 2. Modifícase la resolución exenta Nº 246, de este Ministerio, de 2021, en el sentido de sustituir en la tabla inserta en el resuelvo 2., las filas relativas a las regiones del Libertador General Bernardo O'Higgins, del Maule, de Ñuble, del Biobío, de la Araucanía, de Los Ríos y de Los Lagos, correspondientes al primer cierre, y conforme a ella, fíjase un nuevo número de cupos de subsidios por región para los proyectos seleccionados:
 
+.
+
 3. Apruébanse las nóminas de Proyectos de Integración Social y Territorial seleccionados en el primer cierre del llamado dispuesto por el resuelvo 1º de la resolución exenta Nº 246 (V. y U.), de 2021, nóminas que se entenderán formar parte integrante de esta resolución, conforme a lo establecido en el artículo 13º del DS Nº 19 (V. y U.), de 2016.
 
 4. Apruébanse 39 proyectos seleccionados en el primer cierre del Llamado a Concurso para Proyectos de Integración Social y Territorial, dispuesto por el resuelvo 1º de la resolución exenta Nº 246 (V. y U.), de 2021, y recházanse 103 proyectos presentados por las Entidades Desarrolladoras individualizadas en las nóminas que se acompañan; dichas nóminas forman parte integrante de la presente resolución exenta.
@@ -78,7 +80,7 @@ Los proyectos deberán mantener todas las condiciones técnicas y de diseño pre
 
 14. Si producto de la tramitación municipal del proyecto o de un error en la información ingresada al sistema informático Rukan, hubiere que efectuar ajustes que impliquen una reducción o aumento en la cantidad de viviendas que no superen el 10% del total aprobado, no se requerirá modificar la presente resolución exenta y solo será necesaria la modificación del convenio correspondiente.
 
-15. Los montos asignados mediante la presente resolución exenta, ascendentes a 3.597.456 Unidades de Fomento, se imputarán a los recursos autorizados, para el año 2021, del Programa de Integración Social y Territorial.
+15. Los montos asignados mediante la presente resolución exenta, ascendentes a 4.310.207 Unidades de Fomento, se imputarán a los recursos autorizados, para el año 2021, del Programa de Integración Social y Territorial.
 
 Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
