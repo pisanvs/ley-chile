@@ -10,8 +10,8 @@ Considerando:
 
 Resuelvo:
 
-1. Establézcase que los cambios de modalidad de servicios de vehículos de alquiler que se presten en la Región de Aysén del General Carlos Ibáñez del Campo, puedan efectuarse con vehículos de hasta 5 años de antigüedad.
+1. Establézcase que los cambios de modalidad de servicios de vehículos de alquiler que se presten en la Región de Aysén del General Carlos Ibáñez del Campo, puedan efectuarse con vehículos de hasta 1 año de antigüedad.
 
-2. Aplícase igualmente lo señalado en el punto anterior, cuando se realice un reemplazo bajo una modalidad de servicio distinta a la del vehículo saliente o reemplazado, en virtud de lo establecido en el artículo 73º bis del D.S. 212/92 del Ministerio de Transportes y Telecomunicaciones.
+### 2. Derogado
 
 Anótese, comuníquese y publíquese.- Alejandra Aguilar Gallardo, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Aysén.
