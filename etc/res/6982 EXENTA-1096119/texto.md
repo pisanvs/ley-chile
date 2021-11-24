@@ -60,25 +60,27 @@ a) Construcción de vivienda nueva, con un máximo de dos tipologías adicionale
 
 b) Construcción de vivienda nueva con un máximo de tres tipologías adicionales, si la tercera tipología adicional, es de carácter comunitario y el proyecto asociado se encuentre emplazado en un terreno distinto al terreno donde se desarrolla el proyecto de conjunto habitacional.
 
+10. Para los proyectos de Construcción de Conjuntos Habitacionales que, habiendo acreditado el terreno de acuerdo a lo establecido en el literal c) del artículo 24 del DS N° 10 (V. y U.), de 2015, y que, por situaciones imposibles de prever al momento de la postulación, Serviu haya declarado el terreno como inviable técnica y/o financieramente, la Entidad de Gestión Rural deberá acreditar un nuevo terreno emplazado en la misma localidad de postulación.
+
 ### Párrafo 4º — Factores de puntaje y selección
 
-10. La selección de los postulantes para la asignación del subsidio se realizará conforme al orden de prelación que determine el respectivo puntaje del Expediente de Postulación, ordenados de mayor a menor, hasta enterar el total de recursos disponibles para este llamado.
+11. La selección de los postulantes para la asignación del subsidio se realizará conforme al orden de prelación que determine el respectivo puntaje del Expediente de Postulación, ordenados de mayor a menor, hasta enterar el total de recursos disponibles para este llamado.
 
-11. Los factores para determinar el puntaje que definirá la prelación entre los postulantes serán los siguientes:
+12. Los factores para determinar el puntaje que definirá la prelación entre los postulantes serán los siguientes:
 
 .
 
-12. Corresponderá a cada Servicio Regional de las regiones que participan en el llamado, generar un procedimiento que permita cautelar el cumplimiento de las disposiciones establecidas en los vistos señalados en la presente resolución, en especial en relación a las restricciones y requisitos establecidos en los artículos 6º, 23º, 24º, 25º, 26º, 27º, 34º del DS Nº 10 (V. y U.), de 2015.
+13. Corresponderá a cada Servicio Regional de las regiones que participan en el llamado, generar un procedimiento que permita cautelar el cumplimiento de las disposiciones establecidas en los vistos señalados en la presente resolución, en especial en relación a las restricciones y requisitos establecidos en los artículos 6º, 23º, 24º, 25º, 26º, 27º, 34º del DS Nº 10 (V. y U.), de 2015.
 
 ### Párrafo 5º — Recursos disponibles
 
-13. Los recursos involucrados para la selección ascienden a un total de 920.007 UF y su distribución regional será la siguiente:
+14. Los recursos involucrados para la selección ascienden a un total de 920.007 UF y su distribución regional será la siguiente:
 
 .
 
-14. El número de postulantes seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el Resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, fiscalización técnica de obras y los subsidios complementarios, si corresponden.
+15. El número de postulantes seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el Resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, fiscalización técnica de obras y los subsidios complementarios, si corresponden.
 
-15. Mediante resolución de la Ministra de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+16. Mediante resolución de la Ministra de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra
 

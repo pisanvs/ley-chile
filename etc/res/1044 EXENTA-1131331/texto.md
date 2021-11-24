@@ -70,7 +70,7 @@ En la Modalidad Mejoramiento y Ampliación de Viviendas existentes sólo se cons
 
 Del Monto de Subsidio y del Valor Máximo de la Vivienda
 
-18. El valor máximo para soluciones en la Modalidad de proyectos de Vivienda Nueva, no podrá superar las 1.600 UF, considerando en este monto los subsidios base, complementarios y ahorro exento con su factor de aislamiento.
+18. El valor máximo para soluciones habitacionales en la Modalidad de Proyectos de Vivienda Nueva no podrá superar las 1.600 U.F., considerando en este monto los subsidios base.
 
 Postulación
 
