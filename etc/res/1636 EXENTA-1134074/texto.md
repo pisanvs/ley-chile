@@ -140,17 +140,9 @@ El puntaje correspondiente al ámbito Intersectorialidad será asignado a cada p
 
 De los Proyectos Definitivos
 
-23. El Subsidio Complementario correspondiente a Mejoramiento del Terreno, establecido en la letra a) del artículo 10 del DS Nº 10 (V. y U.) de 2015, deberá encontrarse siempre sustentado en un estudio de mecánica de suelos o en un informe de suelo, según corresponda, suscrito por el profesional competente. Tratándose de proyectos de Construcción en Sitio del Residente, el monto de subsidio por concepto de mejoramiento de terreno deberá aplicarse exclusivamente a la superficie en que se emplace la vivienda base y su recinto complementario, cuando éste último corresponda a la misma planta de arquitectura.
+23. El subsidio complementario correspondiente a Mejoramiento del Terreno, establecido en la letra a) del artículo 10 del DS N° 10 (V. y U.), de 2015, deberá encontrarse siempre sustentado en un estudio de mecánica de suelos o en un informe de suelo, según corresponda, suscrito por el profesional competente.
 
-24. El Subsidio Complementario correspondiente a Solución Sanitaria y/o Dotación de Energía, establecido en la letra b) del artículo 10 del DS Nº 10 (V. y U.) de 2015, sólo podrá aplicarse en terrenos que no cuenten con dotación de servicio y podrá alcanzar hasta 200 U.F. cuando se incorporen algunas de las siguientes especialidades con los montos máximos a considerar en cada una de las obras:
-
-a) Solución particular alcantarillado, sin conexión a red pública: hasta 70 UF.
-
-b) Solución particular agua potable, sin conexión a red pública: hasta 70 UF.
-
-c) Conexión eléctrica a red pública: hasta 60 UF.
-
-d) Acondicionamiento térmico y Eficiencia Energética: hasta 120 UF.
+24. Para los proyectos de Construcción de Conjuntos Habitacionales que, habiendo acreditado el terreno de acuerdo a lo establecido en el literal c) del artículo 24 del DS N° 10 (V. y U.), de 2015, y que, por situaciones imposibles de prever al momento de la postulación, Serviu haya declarado el terreno como inviable técnica y/o financieramente, la Entidad de Gestión Rural deberá acreditar un nuevo terreno emplazado en la misma localidad de postulación.
 
 25. En complemento a lo establecido en la resolución exenta Nº 3.129 (V. y U.) de 2016, los proyectos que se presenten a evaluación del Serviu, deberán cumplir con lo indicado en el anexo "Estándares de Eficiencia Energética-Llamado Especial DS Nº 10-2018", que forma parte de la presente resolución.
 
@@ -165,6 +157,8 @@ De los recursos disponibles
 28. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación nacional y en el sitio web del Minvu y del Serviu o de la Seremi Minvu respectiva.
 
 29. En atención a lo establecido en el inciso segundo del artículo 45 del DS Nº 10 (V. y U.) de 2015, las resoluciones del Serviu que acojan reclamos a los resultados de la selección, fundadas en errores no imputables a los postulantes o Entidades de Gestión Rural, deberán indicar expresamente la razón por la cual se acoge la reclamación y los antecedentes que respaldan dicha argumentación. La resolución deberá ser emitida en un plazo no superior a 15 días hábiles contados desde la publicación de la resolución de selección, citada en el resuelvo precedente.
+
+> **Nota.** El N° 1 y N° 3 de la Resolución 1747 Exenta, Vivienda, publicada el 14.12.2020, modifican el presente resuelvo en el sentido de corregir los montos de imputación omitidos por región y tipología en el cuadro incorporado por la modificación realizada por el N° 1 de la resolución 618 exenta, Vivienda, publicada el 09.04.2020. No obstante, los cambios no se incorporan en el presente texto actualizado debido a que este resuelvo fue reemplazado en su totalidad, incluido su cuadro, por el N° 1 de la Resolución 864 Exenta, Vivienda, publicada el 08.06.2020.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 

@@ -66,7 +66,9 @@ Asimismo, será incompatible la postulación a la tipología "construcción de c
 
 ### Párrafo 3° — Operatoria
 
-16. Podrán participar en este llamado, familias cuyos expedientes de postulación se encuentren aprobados en el Banco de Postulaciones. Sin perjuicio de lo dispuesto en el artículo 6° del DS N° 10 (V. y U.), de 2015, cada expediente de postulación y la totalidad de sus integrantes deberá encontrarse inscrito en una de las siguientes Tipologías de Proyecto, según las condiciones técnicas y socio-familiares que se acrediten:
+16. Para los proyectos de Construcción de Conjuntos Habitacionales que, habiendo acreditado el terreno de acuerdo a lo establecido en el literal c) del artículo 24 del DS N° 10 (V. y U.), de 2015, y que, por situaciones imposibles de prever al momento de la postulación, Serviu haya declarado el terreno como inviable técnica y/o financieramente, la Entidad de Gestión Rural deberá acreditar un nuevo terreno emplazado en la misma localidad de postulación.
+
+17. Podrán participar en este llamado, familias cuyos expedientes de postulación se encuentren aprobados en el Banco de Postulaciones. Sin perjuicio de lo dispuesto en el artículo 6° del DS N° 10 (V. y U.), de 2015, cada expediente de postulación y la totalidad de sus integrantes deberá encontrarse inscrito en una de las siguientes Tipologías de Proyecto, según las condiciones técnicas y socio-familiares que se acrediten:
 
 a) Construcción en Sitio del Residente
 
@@ -76,25 +78,27 @@ c) Construcción o Mejoramiento del Equipamiento Comunitario
 
 ### Párrafo 4° — Factores de Puntaje y Selección
 
-17. La selección de los postulantes para la asignación del subsidio se realizará conforme al orden de prelación que determine el respectivo puntaje del Expediente de Postulación, ordenados de mayor a menor, hasta enterar el total de recursos disponibles para este llamado.
+18. La selección de los postulantes para la asignación del subsidio se realizará conforme al orden de prelación que determine el respectivo puntaje del Expediente de Postulación, ordenados de mayor a menor, hasta enterar el total de recursos disponibles para este llamado.
 
-18. Los factores para determinar el puntaje que definirá la prelación entre los postulantes serán los siguientes:
+19. Los factores para determinar el puntaje que definirá la prelación entre los postulantes serán los siguientes:
 
 .
 
-19. Para efectos de obtener el puntaje correspondiente a la construcción de recintos complementarios asociados a Emprendimiento Productivo, se deberá acreditar en el Formulario N° 6.1 Diagnóstico Técnico-Social, que forma parte del expediente de postulación, que el destino de dicho recinto será acoger emprendimientos productivos, vinculados a la fabricación y/o venta de productos silvoagropecuarios y/o artesanales o a actividades asociadas al turismo rural, que el postulante ya desarrolle en pequeña escala y con anterioridad al presente llamado.
+20. Para efectos de obtener el puntaje correspondiente a la construcción de recintos complementarios asociados a Emprendimiento Productivo, se deberá acreditar en el Formulario N° 6.1 Diagnóstico Técnico-Social, que forma parte del expediente de postulación, que el destino de dicho recinto será acoger emprendimientos productivos, vinculados a la fabricación y/o venta de productos silvoagropecuarios y/o artesanales o a actividades asociadas al turismo rural, que el postulante ya desarrolle en pequeña escala y con anterioridad al presente llamado.
 
-20. Corresponderá a cada Serviu generar un procedimiento que permita cautelar el cumplimiento de las disposiciones establecidas en los vistos señalados en la presente resolución, en especial en relación a las restricciones y requisitos establecidos en los artículos 6°, 23°, 24°, 25°, 26°, 27°, 34° del DS N° 10 (V. y U.), de 2015, debiendo poner especial atención a lo digitado en el Módulo de Ingreso de Expedientes en Sistema Rukan, información que debe corresponder fielmente a lo acreditado por la Entidad de Gestión Rural en el expediente físico de postulación.
+21. Corresponderá a cada Serviu generar un procedimiento que permita cautelar el cumplimiento de las disposiciones establecidas en los vistos señalados en la presente resolución, en especial en relación a las restricciones y requisitos establecidos en los artículos 6°, 23°, 24°, 25°, 26°, 27°, 34° del DS N° 10 (V. y U.), de 2015, debiendo poner especial atención a lo digitado en el Módulo de Ingreso de Expedientes en Sistema Rukan, información que debe corresponder fielmente a lo acreditado por la Entidad de Gestión Rural en el expediente físico de postulación.
 
 ### Párrafo 5° — Recursos Disponibles
 
-21. Los recursos involucrados para la selección ascienden a un total de 1.880.947 UF y su distribución territorial será la siguiente:
+22. Los recursos involucrados para la selección ascienden a un total de 1.880.947 UF y su distribución territorial será la siguiente:
 
 .
 
-22. El número de postulantes seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, fiscalización técnica de obras y los subsidios complementarios, si corresponden.
+23. El número de postulantes seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, fiscalización técnica de obras y los subsidios complementarios, si corresponden.
 
-23. Mediante resolución de la Ministra de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+24. Mediante resolución de la Ministra de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+
+> **Nota.** El numeral 1° de la Resolución 14537 Exenta, Vivienda, publicada el 29.12.2017, modifica la presente norma en el sentido de complementar los recursos asignados a las regiones de Coquimbo, Valparaíso, Metropolitana, O'Higgins, Biobío, Los Ríos y Los Lagos, en las cantidades que la citada norma indica.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 

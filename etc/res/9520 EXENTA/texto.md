@@ -112,31 +112,25 @@ De los Proyectos Definitivos
 
 24. El Subsidio Complementario correspondiente a Mejoramiento del Terreno, establecido en la letra a) del artículo 10 del DS Nº 10 (V. y U.), de 2015, deberá encontrarse siempre sustentado en un estudio de mecánica de suelos o en un informe de suelo, según corresponda, suscrito por el profesional competente. Tratándose de proyectos de Construcción en Sitio del Residente, el monto de subsidio por concepto de mejoramiento de terreno deberá aplicarse exclusivamente a la superficie en que se emplace la vivienda base y su recinto complementario, cuando éste último corresponda a la misma planta de arquitectura.
 
-25. El Subsidio Complementario correspondiente a Solución Sanitaria y/o Dotación de Energía, establecido en la letra b) del artículo 4 del DS Nº 10 (V. y U.), de 2015, sólo podrá aplicarse en terrenos que no cuenten con dotación de servicio y podrá alcanzar hasta 200 UF cuando se incorporen algunas de las siguientes especialidades con los montos máximos a considerar en cada una de las obras:
+25. Para Proyectos de Construcción de Conjuntos Habitacionales, deberán cumplir con lo establecido en el numeral 3 del Artículo 49, del DS N° 10 (V. y U.), de 2015. En casos debidamente calificados, y siempre que a lo menos uno de sus accesos, sea a través de una vía local, el Ministro de Vivienda y Urbanismo mediante Resolución fundada podrá autorizar el asimilarse a lo indicado en el artículo 2.3.3. de la O.G.U.C., siempre que se trate de familias que pertenezcan al catastro de campamentos y que el terreno donde se desarrolle el proyecto sea propiedad de Serviu.
 
-a) Solución particular alcantarillado, sin conexión a red pública: hasta 70 UF
+26. Para los proyectos de Construcción de Conjuntos Habitacionales que, habiendo acreditado el terreno de acuerdo a lo establecido en el literal c) del artículo 24 del DS N° 10 (V. y U.), de 2015, y que, por situaciones imposibles de prever al momento de la postulación, Serviu haya declarado el terreno como inviable técnica y/o financieramente, la Entidad de Gestión Rural deberá acreditar un nuevo terreno emplazado en la misma localidad de postulación.
 
-b) Solución particular agua potable, sin conexión a red pública: hasta 70 UF
+27. Para efectos de dar cumplimiento a lo establecido en el numeral 3.2.1 de la resolución Nº 3.129 (V. y U.), de fecha 16 de mayo de 2016, en la determinación de la capacidad de soporte del terreno requerida para proyectos de la tipología construcción en sitio del residente, se podrá usar alternativamente a la calicata de 2,5 metros de profundidad, los parámetros establecidos en el artículo 5.7.10 de la Ordenanza General de Urbanismo y Construcciones, asumiendo la naturaleza de terreno denominada "Arcilla Húmeda" y estableciendo presiones admisibles de 0,5 kg/cm2. Las condiciones descritas para el desarrollo de los proyectos deberán estar estipuladas en el correspondiente Informe de Suelo suscrito por el profesional competente.
 
-c) Conexión eléctrica a red pública: hasta 60 UF
-
-d) Acondicionamiento térmico y Eficiencia Energética: hasta 90 UF
-
-26. Para efectos de dar cumplimiento a lo establecido en el numeral 3.2.1 de la resolución Nº 3.129 (V. y U.), de fecha 16 de mayo de 2016, en la determinación de la capacidad de soporte del terreno requerida para proyectos de la tipología construcción en sitio del residente, se podrá usar alternativamente a la calicata de 2,5 metros de profundidad, los parámetros establecidos en el artículo 5.7.10 de la Ordenanza General de Urbanismo y Construcciones, asumiendo la naturaleza de terreno denominada "Arcilla Húmeda" y estableciendo presiones admisibles de 0,5 kg/cm2. Las condiciones descritas para el desarrollo de los proyectos deberán estar estipuladas en el correspondiente Informe de Suelo suscrito por el profesional competente.
-
-27. En complemento a lo establecido en la resolución exenta Nº 3.129 (V. y U.) citada en el visto b) de la presente resolución, los proyectos que se presenten a evaluación del Serviu, deberán cumplir con lo indicado en el Documento "Estándares de Eficiencia Energética "- Llamado Especial DS Nº10 - 2018", anexado a la presente resolución.
+28. En complemento a lo establecido en la resolución exenta Nº 3.129 (V. y U.) citada en el visto b) de la presente resolución, los proyectos que se presenten a evaluación del Serviu, deberán cumplir con lo indicado en el Documento "Estándares de Eficiencia Energética "- Llamado Especial DS Nº10 - 2018", anexado a la presente resolución.
 
 De los recursos disponibles
 
-28. Los recursos involucrados para la selección de postulantes al presente Llamado, ascienden a un total de 1.049.382,76 UF y su distribución regional, según tipología, será la siguiente:
+29. Los recursos involucrados para la selección de postulantes al presente Llamado, ascienden a un total de 1.049.382,76 UF y su distribución regional, según tipología, será la siguiente:
 
 Los recursos indicados en el cuadro anterior, podrán disminuir o aumentar con cargo a los recursos asignados para el Programa de Habitabilidad Rural del año 2018, por resolución del Ministro de Vivienda y Urbanismo, como también podrá determinarse su redistribución por tipología de proyecto y/o por región, de acuerdo a la necesidad de cada región.
 
-29. El número de postulantes seleccionados en cada región, alcanzará hasta el número de subsidios susceptibles de financiar, incluidos los respectivos servicios de asistencia técnica y fiscalización técnica de obras.
+30. El número de postulantes seleccionados en cada región, alcanzará hasta el número de subsidios susceptibles de financiar, incluidos los respectivos servicios de asistencia técnica y fiscalización técnica de obras.
 
-30. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación nacional y en el sitio web del Minvu y del Serviu o de la Seremi Minvu respectiva.
+31. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación nacional y en el sitio web del Minvu y del Serviu o de la Seremi Minvu respectiva.
 
-31. Apruébase el documento "Estándares de Eficiencia Energética para Llamados en Condiciones Especiales para el DS Nº 10 (V. y U.), de 2015" y su anexo que forman parte integrante de la presente resolución.
+32. Apruébase el documento "Estándares de Eficiencia Energética para Llamados en Condiciones Especiales para el DS Nº 10 (V. y U.), de 2015" y su anexo que forman parte integrante de la presente resolución.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 

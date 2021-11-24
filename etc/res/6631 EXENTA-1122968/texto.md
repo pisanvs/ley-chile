@@ -92,11 +92,13 @@ De los proyectos definitivos
 
 20. Para efectos de dar cumplimiento a lo establecido en la letra b) del artículo 24 del DS N° 10 (V. y U.) de 2015, la acreditación de inscripción de dominio y certificados de hipotecas, gravámenes, interdicciones y prohibiciones, se deberá efectuar con certificados extendidos con no más de 90 días corridos de anticipación a la fecha de la presentación de antecedentes de postulación ante el Serviu respectivo. Será responsabilidad de la Entidad de Gestión Rural verificar que el postulante cumpla con el requisito de acreditación de terreno en los términos y condiciones que establece el DS N°10 (V. y U.) de 2015. Si se detectare cualquier infracción al respecto, se estará a lo establecido en el artículo 65 del DS N°10 sin posibilidad de efectuar reemplazo. Sin embargo, al momento del ingreso del proyecto al Serviu, la EGR deberá presentar el certificado actualizado con no más de 30 días desde su fecha de emisión.
 
+21. Para los proyectos de Construcción de Conjuntos Habitacionales que, habiendo acreditado el terreno de acuerdo a lo establecido en el literal c) del artículo 24 del DS N° 10 (V. y U.), de 2015, y que, por situaciones imposibles de prever al momento de la postulación, Serviu haya declarado el terreno como inviable técnica y/o financieramente, la Entidad de Gestión Rural deberá acreditar un nuevo terreno emplazado en la misma localidad de postulación.
+
 Recursos disponibles
 
-21. Para efectos de dar cumplimiento a lo establecido en el numeral 3.2.1 de la resolución Nº 3.129 (V. y U.) de fecha 16 de mayo de 2016, en la determinación de la capacidad de soporte del terreno requerida para proyectos de la tipología construcción en sitio del residente, se podrá usar alternativamente a la calicata de 2,5 metros de profundidad, los parámetros establecidos en el artículo 5.7.10 de la Ordenanza General de Urbanismo y Construcciones, asumiendo la naturaleza de terreno denominada "Arcilla Húmeda" y estableciendo presiones admisibles de 0,5 kg/cm2. Las condiciones descritas para el desarrollo de los proyectos deberán estar estipuladas en el correspondiente Informe de Suelo suscrito por el profesional competente.
+22. Para efectos de dar cumplimiento a lo establecido en el numeral 3.2.1 de la resolución Nº 3.129 (V. y U.) de fecha 16 de mayo de 2016, en la determinación de la capacidad de soporte del terreno requerida para proyectos de la tipología construcción en sitio del residente, se podrá usar alternativamente a la calicata de 2,5 metros de profundidad, los parámetros establecidos en el artículo 5.7.10 de la Ordenanza General de Urbanismo y Construcciones, asumiendo la naturaleza de terreno denominada "Arcilla Húmeda" y estableciendo presiones admisibles de 0,5 kg/cm2. Las condiciones descritas para el desarrollo de los proyectos deberán estar estipuladas en el correspondiente Informe de Suelo suscrito por el profesional competente.
 
-22. Los recursos involucrados para la selección ascienden a un total de 3.084.795,34 y su distribución regional según tipología, será la siguiente:
+23. Los recursos involucrados para la selección ascienden a un total de 3.084.795,34 y su distribución regional según tipología, será la siguiente:
 
 .
 
@@ -104,9 +106,9 @@ Recursos disponibles
 
 Los recursos indicados en el cuadro anterior, podrán disminuir o aumentar con cargo a los recursos asignados para el Programa de Habitabilidad Rural del año 2018, por resolución del Ministro de Vivienda y Urbanismo, como también podrá determinarse su redistribución por tipología de proyecto y/o por región, de acuerdo a la necesidad de cada región.
 
-23. El número de postulantes seleccionados en cada región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos regionales previstos en el Resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras.
+24. El número de postulantes seleccionados en cada región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos regionales previstos en el Resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras.
 
-24. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación nacional y en el sitio web del Minvu y del Serviu o de la Seremi Minvu respectiva.
+25. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación nacional y en el sitio web del Minvu y del Serviu o de la Seremi Minvu respectiva.
 
 > **Nota.** La letra b) del numeral 2 de la Resolución 8971 Exenta, Vivienda, publicada el 17.11.2018 dispone modificar el resuelvo 21, sin embargo, tal modificación se refiere al numeral 22 de la presente norma.
 

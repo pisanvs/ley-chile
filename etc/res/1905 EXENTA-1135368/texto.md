@@ -138,7 +138,7 @@ El puntaje correspondiente al ámbito Intersectorialidad será asignado a cada p
 
 De los Proyectos Definitivos
 
-23. El Subsidio Complementario correspondiente a Mejoramiento del Terreno, establecido en la letra a) del artículo 10 del DS N° 10 (V. y U.) de 2015, deberá encontrarse siempre sustentado en un estudio de mecánica de suelos o en un informe de suelo, según corresponda suscrito por el profesional competente. Tratándose de proyectos de Construcción en Sitio del Residente, el monto de subsidio por concepto de mejoramiento de terreno deberá aplicarse exclusivamente a la superficie en que se emplace la vivienda base y su recinto complementario, cuando este último corresponda a la misma planta de arquitectura.
+23. El subsidio complementario correspondiente a Mejoramiento del Terreno, establecido en la letra a) del artículo 10 del DS N° 10 (V. y U.), de 2015, deberá encontrarse siempre sustentado en un estudio de mecánica de suelos o informe de suelo, según corresponda, suscrito por el profesional competente.
 
 24. En complemento a lo establecido en la resolución exenta N° 3.129 (V. y U.), de 2016, los proyectos que se presenten a evaluación del Serviu, deberán cumplir con lo indicado en el anexo "Estándares de Eficiencia Energética - Llamado Especial DS N° 10 - 2018", aprobada por la resolución exenta N°9.520 (V.y U.), de fecha 21 de noviembre de 2018.
 

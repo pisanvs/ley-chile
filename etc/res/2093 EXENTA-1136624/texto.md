@@ -142,15 +142,7 @@ De los Proyectos Definitivos
 
 25. El Subsidio Complementario correspondiente a Mejoramiento del Terreno, establecido en la letra a) del artículo 10 del DS N° 10 (V. y U.), de 2015, deberá encontrarse siempre sustentado en un estudio de mecánica de suelos o en un informe de suelo, según corresponda, suscrito por el profesional competente. Tratándose de proyectos de Construcción en Sitio del Residente, el monto de subsidio por concepto de mejoramiento de terreno deberá aplicarse exclusivamente a la superficie en que se emplace la vivienda base y su recinto complementario, cuando este último corresponda a la misma planta de arquitectura.
 
-26. Tratándose de la tipología de proyectos de Construcción en Sitio del Residente, establecida en la letra b) del artículo 3 del DS N° 10 (V. y U.), de 2015, el Subsidio Complementario correspondiente a Solución Sanitaria y/o Dotación de Energía, sólo podrá aplicarse en terrenos que no cuenten con dotación de servicios y podrá alcanzar hasta 200 UF cuando se incorporen algunas de las siguientes especialidades con los montos máximos a considerar en cada una de las obras:
-
-a) Solución particular alcantarillado, sin conexión a red pública: hasta 70 UF.
-
-b) Solución particular agua potable, sin conexión a red pública: hasta 70 UF.
-
-c) Conexión eléctrica a red pública: hasta 60 UF.
-
-d) Acondicionamiento térmico y Eficiencia Energética: hasta 120 UF.
+26. Para los proyectos de Construcción de Conjuntos Habitacionales que, habiendo acreditado el terreno de acuerdo a lo establecido en el literal c) del artículo 24 del DS N° 10 (V. y U.), de 2015, y que, por situaciones imposibles de prever al momento de la postulación, Serviu haya declarado el terreno como inviable técnica y/o financieramente, la Entidad de Gestión Rural deberá acreditar un nuevo terreno emplazado en la misma localidad de postulación.
 
 27. En complemento a lo establecido en la resolución exenta N° 3.129 (V. y U.), citada en el visto d) de la presente resolución, los proyectos que se presenten a evaluación del Serviu, deberán cumplir con lo indicado en el Documento "Estándares de Eficiencia Energética Llamado Especial DS N°10 - 2018", anexado a la presente resolución.
 
