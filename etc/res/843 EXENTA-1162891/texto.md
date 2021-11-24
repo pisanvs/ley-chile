@@ -44,7 +44,7 @@ Resuelvo:
 
 ### 1. LLAMADO A CONCURSO:
 
-Llámese a partir del día de la publicación de la presente resolución en el Diario Oficial y hasta las 17:00 horas del día jueves 18 de noviembre de 2021, a postulación regional en condiciones especiales, del Programa de Integración Social y Territorial, regulado por el DS Nº 19 (V. y U.), de 2016, y sus modificaciones, en adelante el DS Nº 19, para proyectos habitacionales a desarrollar en dos macro lotes de propiedad del Servicio de Vivienda y Urbanización de la Región Metropolitana (Serviu Metropolitano), emplazados en la Ciudad Parque Bicentenario, de la comuna de Cerrillos, singularizados en el literal e), de la parte considerativa de la presente resolución.
+Llámese a partir del día de la publicación de la presente resolución en el Diario Oficial y hasta las 17:00 horas del día jueves 2 de diciembre de 2021, a postulación regional en condiciones especiales, del Programa de Integración Social y Territorial, regulado por el DS Nº 19 (V. y U.), de 2016, y sus modificaciones, en adelante el DS Nº 19, para proyectos habitacionales a desarrollar en dos macro lotes de propiedad del Servicio de Vivienda y Urbanización de la Región Metropolitana (Serviu Metropolitano), emplazados en la Ciudad Parque Bicentenario, de la comuna de Cerrillos, singularizados en el literal e), de la parte considerativa de la presente resolución.
 
 Durante el período de postulación del presente llamado, las Entidades Desarrolladoras deberán ingresar la documentación y los antecedentes de los proyectos habitacionales al Serviu Metropolitano, de acuerdo a lo establecido por el artículo 9º del DS Nº19 (V. y U.), de 2016, y al Protocolo de Ingreso de Proyectos, detallado en el Anexo Nº 2 de la presente resolución.
 
@@ -90,7 +90,7 @@ Los proyectos habitacionales presentados deberán cumplir como mínimo con las c
 
 Conforme al punto 5 del artículo 10º del DS Nº 19 (V. y U.), de 2016, todas las viviendas de los proyectos deberán cumplir con las exigencias mínimas establecidas en la resolución exenta Nº 4.832 (V. y U.) de 2012, y su modificación, además de los siguientes aspectos:
 
-a) En el caso de departamentos destinados a familias de sectores medios que consideren solo un dormitorio, podrán eximirse del recinto logia, cuyo caso deberán considerar el espacio para un artefacto lavadora en los recintos cocina o baño, así como también las correspondientes a conexiones de agua fría - caliente y evacuación de aguas servidas.
+a) En el caso de departamentos que consideren sólo un dormitorio, sean éstos subsidiables o de venta libre, podrán eximirse del recinto loggia, en cuyo caso deberán considerar el espacio para un artefacto lavadora en los recintos cocina o baño, así como también las correspondientes conexiones de agua fría caliente y de evacuación de aguas servidas.
 
 b) Todos los recintos conformados deben considerar puertas, incluyendo puerta de logia.
 
@@ -214,6 +214,8 @@ El oferente presentará su oferta económica utilizando el formato incluido en A
 
 La Oferta mínima será el valor de avalúo fiscal, el cual no otorgará puntaje. Se establece asimismo una Oferta máxima por valor de suelo, correspondiente a la Tasación Comercial Serviu de la superficie neta del terreno. Los valores máximos y mínimos ofertables para cada macro lote se detallan en la siguiente tabla:
 
+.
+
 Aquellas ofertas que consideren un valor de suelo mayor al avalúo fiscal, obtendrán un puntaje que ponderará un 15% del puntaje total. El cálculo de dicho puntaje se realizará de acuerdo a la siguiente fórmula:
 
 8.1. Pacto parcial con especies en Macro lote F3.
@@ -222,9 +224,13 @@ En el caso específico del Macro lote F3, una parte de la oferta mínima se mate
 
 Las obras de ejecución del tramo Av. Los Cerrillos tienen una valorización de UF 63.911 de acuerdo al presupuesto confeccionado por Serviu Metropolitano.
 
-De esta manera, la oferta mínima por el Macro lote F3 deberá estar conformada por la ejecución del tramo Av. Los Cerrillos, más la suma de UF 21.449, excedente necesario para alcanzar el valor de avalúo fiscal de la superficie neta del terreno:
+De esta manera, la oferta mínima por el Macrolote F3 deberá estar conformada por la ejecución del tramo Av. Los Cerrillos, más la suma de UF 12.711, excedente necesario para alcanzar el valor de avalúo fiscal de la superficie neta del terreno:
 
-El tramo de Av. Los Cerrillos a ejecutar comprende una longitud aproximada de 226 metros lineales, con una faja de 36 metros, en un perfil completo que incluye dos calzadas de dos pistas cada una, aceras y bandejón central con ciclovía bidireccional en su interior.
+Oferta mínima ML F3 = Pago con especies + Pago en UF
+
+(Ejecución tramo Av. Los Cerrillos)
+
+UF 76.622 = UF 63.911 + UF 12.711"
 
 Las obras incluyen la ejecución de los proyectos de pavimentación, aguas lluvia, iluminación, redes eléctricas, agua potable, alcantarillado, seguridad vial, paisajismo, entre otros, y se entenderán concluidas una vez que sean debidamente entregadas a Bien Nacional de Uso Público, previa recepción por parte de los organismos involucrados.
 
@@ -325,5 +331,7 @@ Anexo Nº17: Declaración Jurada Terreno Serviu Cerrillos
 Anexo Nº18: Complemento a las EETT
 
 Anexo Nº19: Formato tipo Presentación PowerPoint.
+
+> **Nota.** La letra e del numeral 1 de la Resolución 1465 Exenta, Vivienda, publicada el 24.11.2021, modifica el anexo N° 4 de la manera que la citada norma indica.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Manuel José Errázuriz Tagle, Secretario Ministerial Metropolitano de Vivienda y Urbanismo.
