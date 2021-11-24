@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 2.910, de fecha 12 de octubre de 2021, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Región Metropolitana de Santiago, se autoriza a Escuela de Conductores No Profesionales o Clase B denominada "EDC San Luis 2 SpA", RUT Nº 76.773.259-7, domiciliada en Avenida Apoquindo Nº 4900, local 143, piso 3, comuna de Las Condes, cuyo representante legal es la señora Alexandra Veas Moreno, cuyo Programa de Enseñanza fue aprobado mediante resolución exenta Nº 2.047, de 12 de abril de 2018, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, a impartir el curso conducente a la obtención de la Licencia de Conductor Clase B, en la modalidad e-learning. La correcta funcionalidad de la plataforma tecnológica computacional LMS, estará siempre sujeta a las auditorías, controles y fiscalizaciones que sean procedentes. La misma autorización, en copia fidedigna, deberá estar a disposición de los postulantes y alumnos del establecimiento.-
+
+Alfredo Andrés Quezada Martínez, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
