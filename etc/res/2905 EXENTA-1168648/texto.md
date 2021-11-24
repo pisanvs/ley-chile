@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 2.905, de fecha 8 de octubre de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica la resolución exenta Nº 2.047, de 12 de abril de 2018, que aprueba programa de enseñanza para obtención de licencia de conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "EDC San Luis 2 SpA", cuyo nombre de fantasía es "EDC San Luis 2", RUT N° 76.773.259-7, en el sentido de incorporar a continuación de la expresión "tendrá su lugar de funcionamiento en el local ubicado en Avenida Apoquindo N° 4900, Local 143, Piso 3, comuna de Las Condes" la expresión: "y en su sede ubicada en San Patricio N° 4298, oficina N° 11, Comuna de Vitacura, cuyo director es César Antonio Villalobos Yáñez".-
+
+Alfredo Andrés Quezada Martínez, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
