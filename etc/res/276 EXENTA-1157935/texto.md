@@ -168,9 +168,13 @@ c. Proyectos de ampliación de viviendas en copropiedad:
 
 20. Los recursos disponibles para efectuar la selección de proyectos serán los siguientes, los cuales fueron designados de acuerdo a lo indicado en el artículo 22 del DS Nº 27 (V. y U.), de 2016:
 
+.
+
 Los cuales se dispondrán de la siguiente manera para las distintas postulaciones:
 
 Segunda Selección:
+
+.
 
 Los cuales se dispondrán de la siguiente manera para las distintas postulaciones:
 
@@ -178,8 +182,14 @@ Si en la demanda existente no existe postulación de condominios económicos, el
 
 De existir saldos luego de la selección, estos quedarán a disposición de nivel central para su redistribución, a fin de asegurar la completa asignación de los recursos del programa.
 
+A los recursos anteriormente autorizados, agréguese 54.050,00 UF, los cuales serán distribuidos en ambas selecciones definidas por este llamado regional.
+
+De existir saldos, luego de realizar la selección, estos recursos pasarán al segundo cierre del presente llamado.
+
 21. En todo aquello no regulado por el presente llamado, se aplicarán las disposiciones contenidas en el decreto supremo Nº 27 (V. y U.), de 2016.
 
 22. Los subsidios que se otorguen conforme al presente llamado, se imputarán a los recursos dispuestos en 2021 para la Región del Libertador General Bernardo O'Higgins, en el Programa de Mejoramiento de Viviendas y Barrios, regulado por el DS Nº 27 (V. y U.), de 2016.
+
+> **Nota.** La letra a del numeral 3° de la Resolución 1064 Exenta, Vivienda, publicada el 25.11.2021, modifica la tabla inserta en el resuelvo 2° de la presente norma en el sentido de indicar que la fecha final será el 30.12.2021 para la "selección de beneficiarios", de acuerdo a lo expresado en la citada norma.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Francisco Javier Ravanal González, Secretario Regional Ministerial de Vivienda y Urbanismo Región del Libertador General Bernardo O'Higgins.
