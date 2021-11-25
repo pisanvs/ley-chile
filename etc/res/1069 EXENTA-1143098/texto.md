@@ -34,8 +34,6 @@ Resuelvo:
 
 Asígnase los tramos del Desarrollo Profesional Docente, de acuerdo a lo previsto en los artículos 19 C y 19F del Estatuto Docente, y señálense los bienios que correspondan a los profesionales de la educación regidos por el Título VI del Estatuto Docente y a aquellos a los que se refiere el decreto con fuerza de ley Nº 24, de 2017, del Ministerio de Educación, que se encuentran individualizados en el archivo de formato portátil de nombre "17062021_Nómina por RR a Rex 1069_firmada", con la firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, almacenado en el disco compacto adjunto, denominado "Modificación Rex Nº 1069", que forma parte integrante de la presente resolución.
 
-> **Nota.** El artículo primero de la Resolución 587, Educación, publicada el 17.02.2026, ordena actualizar el listado contenido en la presente norma por la nómina contenida en el archivo con firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, denominado "Modificar19_AsimilaciónEP2020_20251115_firmada" almacenado en el pendrive o memoria USB portátil adjunto, caratulado "Modificar19_AsimilaciónEP2020_20251115", el que se entiende formar parte integrante del citado acto administrativo.
-
 #### Artículo segundo
 
 Téngase presente que el tramo de desarrollo profesional docente asignado por este acto surtirá todos sus efectos legales a partir del mes de marzo de 2020, en virtud de lo dispuesto en el artículo cuadragésimo segundo de la ley Nº 20.903.
