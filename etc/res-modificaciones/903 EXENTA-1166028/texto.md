@@ -46,12 +46,18 @@ II. Agréguese en el resuelvo Nº 20 de la Res. Ex. Nº 276, de fecha 31 de marz
 
 Segunda Selección:
 
+.
+
 Los cuales se dispondrán de la siguiente manera para las distintas postulaciones:
 
 Si en la demanda existente no existe postulación de condominios económicos, el monto total será destinado para condominios sociales. Si quedaran saldos disponibles en algunos de los tramos Nº 1 y/o Nº 2, este será redistribuido en el tramo con mayor demanda, hasta completar el monto total disponible para el presente llamado.
 
 De existir saldos luego de la selección, estos quedarán a disposición de nivel central para su redistribución, a fin de asegurar la completa asignación de los recursos del programa.
 
+Si el monto para selección de condominios económicos es inferior al monto del proyecto, estos recursos pasarán para selección de condominios sociales.
+
 III. En todo lo no modificado por el presente acto administrativo, la Res. Ex. Nº 276, de fecha 31 de marzo de 2021, de la Seremi Minvu de la Región del Libertador General Bernardo O'Higgins, mantiene su total vigencia.
+
+> **Nota.** La letra a del numeral 3° de la Resolución 1064 Exenta, Vivienda, publicada el 25.11.2021, modifica la tabla inserta en el resuelvo 2° de la presente norma en el sentido de indicar que la fecha final será el 30.12.2021 para la "selección de beneficiarios", de acuerdo a lo expresado en la citada norma.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Francisco Javier Ravanal González, Secretario Regional Ministerial de Vivienda y Urbanismo Región del Libertador General Bernardo O'Higgins.
