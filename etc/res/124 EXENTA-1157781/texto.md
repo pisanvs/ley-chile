@@ -40,4 +40,6 @@ b.- El Polígono Copayapu, involucra parcialmente un sector urbano de la comuna 
 
 6. Las transgresiones o incumplimientos de las medidas que se disponen, serán sancionadas de acuerdo a lo dispuesto en el decreto ley Nº 3.557 de 1980, sobre protección agrícola, y por la ley Nº 18.755, orgánica del Servicio Agrícola y Ganadero.
 
+> **Nota.** El numeral 1 de la Resolución 494 Exenta, Agricultura, publicada el 25.11.2021, dispone actualizar el polígono Paipote establecido en el resuelvo Nº 2, letra a, de la presente norma, el cual involucra parcialmente la comuna de Copiapó. No obstante lo anterior, se consigna que la nueva tabla está establecida por 61 vértices y no 66 como se había estipulado en su texto original.
+
 Anótese, comuníquese, notifíquese y publíquese.- Mei Siu Maggi Achu, Directora Regional Región de Atacama, Servicio Agrícola y Ganadero.
