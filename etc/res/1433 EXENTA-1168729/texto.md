@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN Nº 1.433/2021 EXENTA DE 4 DE NOVIEMBRE DE 2021
+
+Por resolución exenta Nº 1.433/2021, de 4 de noviembre de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se dispuso el aumento de la vigencia de los certificados de inscripción en el Registro Nacional de Servicios de Transporte Público Remunerado de Pasajeros extendidos a la fecha de publicación, en el Diario Oficial, del extracto de la resolución exenta Nº 3.965, de 2021, del Ministerio de Transportes y Telecomunicaciones, para los buses inscritos en los servicios urbanos regidos por la resolución exenta Nº 2.246, de 2005, del mismo Ministerio, hasta el 4 de mayo de 2023 o bien hasta la fecha en que comience la puesta en marcha del perímetro de exclusión en la zona geográfica del Gran Concepción, cualquiera de los dos hechos que ocurra primero.-
+
+Jaime Eduardo Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
