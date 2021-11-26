@@ -34,7 +34,7 @@ e) Los correos electrónicos de fechas 19 y 20 de agosto de 2021, que dan cuenta
 
 Resolución:
 
-1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que se emplacen en las comunas de Valparaíso o Viña del Mar, de la Región de Valparaíso, y cuenten con Certificado de Proyecto Calificado al 30 de septiembre o al 30 de noviembre, o hasta agotar la totalidad de los recursos dispuestos, según corresponda.
+1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que se emplacen en las comunas de Valparaíso o Viña del Mar, de la Región de Valparaíso, y cuenten con Certificado de Proyecto Calificado al 30 de septiembre, 30 de noviembre o al 28 de diciembre, o hasta agotar la totalidad de los recursos dispuestos, según corresponda.
 
 2. Los recursos destinados para la selección de postulantes al presente llamado ascienden a 100.000 Unidades de Fomento.
 

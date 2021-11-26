@@ -32,7 +32,7 @@ f) Los correos electrónicos de fecha 15 y 26 de marzo de 2021, del Jefe de Divi
 
 Resolución:
 
-1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que se emplacen en la Provincia de Arauco, Región del Biobío, y que cuenten con Certificado de Proyecto Calificado al 15 de abril, 27 de mayo, 31 de agosto y 30 de noviembre de 2021.
+1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que se emplacen en la Provincia de Arauco, Región del Biobío, y que cuenten con Certificado de Proyecto Calificado al 15 de abril, 27 de mayo, 31 de agosto, 30 de noviembre y 28 de diciembre de 2021.
 
 2. Se realizarán procesos de selección respecto de cada una de las fechas señaladas en el resuelvo anterior, considerando todos los proyectos de esa Provincia, calificados para dichos efectos, hasta agotar la totalidad de los recursos dispuestos.
 
