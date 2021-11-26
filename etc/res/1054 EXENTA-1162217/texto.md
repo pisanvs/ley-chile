@@ -34,7 +34,7 @@ e) Los correos electrónicos de fecha 17 y 22 de junio de 2021, que dan cuenta d
 
 Resolución:
 
-1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que se emplacen en la región Metropolitana y cuenten con Certificado de Proyecto Calificado al 22 de julio, 31 de agosto, 4 de noviembre y 30 de noviembre, o hasta agotar la totalidad de los recursos dispuestos por agrupación de provincias, según corresponda.
+1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que se emplacen en la región Metropolitana y cuenten con Certificado de Proyecto Calificado al 22 de julio, 31 de agosto, 4 de noviembre, 30 de noviembre y 28 de diciembre, o hasta agotar la totalidad de los recursos dispuestos por agrupación de provincias, según corresponda.
 
 2. Los recursos destinados para la selección de postulantes, por agrupación de provincias, son los siguientes:
 

@@ -26,7 +26,7 @@ d) Los correos electrónicos de fechas 21 y 23 de febrero de 2021 de los Jefes d
 
 Resolución:
 
-1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado. En tal sentido, se efectuarán procesos de selección en cada cierre, con los proyectos calificados para dichos efectos hasta los días 12 de marzo, 29 de abril, 24 de junio, 31 de agosto, 14 de octubre y 30 de noviembre, o hasta agotar la totalidad de los recursos dispuestos para cada Región, Provincia o comuna convocada, según corresponda.
+1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado. En tal sentido, se efectuarán procesos de selección en cada cierre, con los proyectos calificados para dichos efectos hasta los días 12 de marzo, 29 de abril, 24 de junio, 31 de agosto, 14 de octubre, 30 de noviembre y 28 de diciembre, o hasta agotar la totalidad de los recursos dispuestos para cada Región, Provincia o comuna convocada, según corresponda.
 
 2. Los recursos involucrados para la selección de postulantes, por Región, Provincia y comuna convocada, son los siguientes:
 

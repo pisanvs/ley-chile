@@ -44,7 +44,7 @@ d) Los correos electrónicos de fecha 15 y 16 de marzo de 2021 que dan cuenta de
 
 Resolución:
 
-1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en las alternativas de postulación individual y colectiva, para proyectos de Pequeño Condominio, Densificación Predial y Construcción en Sitio Propio, que cuenten con Certificado de Proyecto Calificado. En tal sentido, se efectuarán procesos de selección en cada cierre, con los proyectos calificados para dichos efectos los días 29 de abril, 24 de junio, 30 de septiembre y 30 de noviembre de 2021, o hasta agotar la totalidad de los recursos dispuestos para cada Región convocada, según alternativa de postulación, de acuerdo al cuadro inserto en el resuelvo siguiente.
+1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en las alternativas de postulación individual y colectiva, para proyectos de Pequeño Condominio, Densificación Predial y Construcción en Sitio Propio, que cuenten con Certificado de Proyecto Calificado. En tal sentido, se efectuarán procesos de selección en cada cierre, con los proyectos calificados para dichos efectos los días 29 de abril, 24 de junio, 30 de septiembre y 15 de diciembre de 2021, o hasta agotar la totalidad de los recursos dispuestos para cada Región convocada, según alternativa de postulación, de acuerdo al cuadro inserto en el resuelvo siguiente.
 
 Para efectos del presente llamado, las tipologías señaladas en el párrafo precedente se denominarán "Intervenciones de Micro Radicación". Los proyectos de Micro Radicación que postulen al presente llamado podrán incluir todas o algunas de las tipologías identificadas, para un mismo grupo organizado postulante.
 
@@ -75,6 +75,8 @@ Con todo, para la obtención del Certificado de Calificación del proyecto, debe
 ### 5. Financiamiento:
 
 5.1. El monto de subsidio base para los proyectos que participen del presente llamado, será el indicado en la siguiente tabla según su tipología, al que se le aplicará el factor multiplicador definido en la resolución exenta Nº 1.874 (V. y U.), de 2015, según la comuna donde se ubique el proyecto:
+
+.
 
 5.2. El monto del subsidio complementario de incentivo y premio al ahorro adicional, al que se refiere la letra c), del artículo 35, del DS Nº 49 (V. y U.), de 2011, aplicará por sobre el ahorro mínimo señalado en la tabla inserta en el número 4.3., del presente llamado, otorgándose un subsidio adicional de 2 Unidades de Fomento, por cada Unidad de Fomento que exceda de dicho ahorro mínimo exigido, hasta por un tope máximo de 30 Unidades de Fomento.
 
