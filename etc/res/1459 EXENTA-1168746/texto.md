@@ -1,0 +1,5 @@
+APRUÉBASE SELECCIÓN DE LA LOCALIDAD DE POMAIRE, DE LA COMUNA DE MELIPILLA, PARA LA IMPLEMENTACIÓN DEL PROGRAMA DE PEQUEÑAS LOCALIDADES, EN LA REGIÓN METROPOLITANA
+
+Mediante la resolución exenta Nº 1.459 de fecha 18.11.2021, de la Secretaría Regional Ministerial Metropolitana de Vivienda y Urbanismo, en conformidad a lo establecido en el DS Nº 39 (V. y U.), de 2016, y en la resolución exenta Nº 1.200 (V. y U.), de fecha 19.07.2021: 1º Apruébase la selección de la localidad denominada "Pomaire", de la comuna de Melipilla, Región Metropolitana, para la intervención del Programa para Pequeñas Localidades, regulado por el DS Nº 39 (V. y U.), de 2016, de acuerdo a los puntajes ponderados otorgados por la Comisión Técnica Evaluadora de la Seremi y por la Mesa Regional. 2º Publíquese un extracto de la presente resolución exenta en el Diario Oficial, en la página web del Minvu y en la del Serviu de la Región Metropolitana.
+
+Anótese, comuníquese, publíquese y archívese.- Manuel José Errázuriz Tagle, Secretario Ministerial Metropolitano de Vivienda y Urbanismo.
