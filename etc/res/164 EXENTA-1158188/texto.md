@@ -44,6 +44,8 @@ Resolución:
 
 2. Los plazos correspondientes a los procesos y fases de postulación y selección de este llamado, serán los siguientes:
 
+.
+
 3. La condición de Condominio objeto de atención del programa, será acreditada por la Seremi Minvu Región de Los Lagos, en atención a los requisitos señalados en el artículo Nº 89 del DS Nº 27 (V. y U.), de 2016.
 
 Adicionalmente, las comunidades de copropietarios y residentes interesados en postular deberán presentar a través de una Entidad Patrocinante en la Seremi Minvu Región de Los Lagos, un expediente que contenga los documentos que permitan acreditar la condición de condominio objeto de atención del programa. Los antecedentes que debe contener el expediente son:
@@ -118,7 +120,7 @@ En este sentido, de presentarse dicho acuerdo por escrito, no será exigible baj
 
 10. Establézcase la disminución de un 50% del monto de ahorro establecido en el artículo 88 del DS Nº 27 (V. y U.), de 2016.
 
-11. El ahorro mínimo a que se refiere el artículo 15 del DS N° 27 (V. y U.), de 2016, debe ser acreditado a más tardar el 15.11.2021, según las instrucciones estipuladas por el Serviu Región de Los Lagos.
+11. El ahorro mínimo a que se refiere el artículo 15 del DS N° 27 (V. y U.), de 2016, debe ser acreditado a más tardar el 09.12.2021, según las instrucciones estipuladas por el Serviu Región de Los Lagos.
 
 12. En atención a lo dispuesto en el Artículo 3 del DS Nº 27 (V. y U.), de 2016, en el marco del presente llamado, se establece lo siguiente:
 

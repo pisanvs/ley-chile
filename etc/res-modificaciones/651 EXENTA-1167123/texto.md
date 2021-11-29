@@ -54,6 +54,8 @@ Resolución:
 
 a) Remplácese el cuadro contenido en el resuelvo 2, de la citada Res. Ex. N° 472, de fecha 16.08.2021, por el siguiente:
 
+.
+
 b) Remplácese íntegramente el resuelvo 11, de la Res. Ex. N° 164 de fecha 01.04.2021, por el siguiente:
 
 "El ahorro mínimo a que se refiere el artículo 15 del DS N° 27 (V. y U.), de 2016, debe ser acreditado a más tardar el 15.11.2021, según las instrucciones estipuladas por el Serviu Región de Los Lagos".
