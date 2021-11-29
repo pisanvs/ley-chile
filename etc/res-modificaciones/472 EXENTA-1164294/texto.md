@@ -52,6 +52,8 @@ Resolución:
 
 a) Remplácese el cuadro contenido en el resuelvo 2, por el siguiente:
 
+.
+
 2. Téngase presente que la resolución exenta Nº 164, de fecha 01.04.2021, y sus modificaciones se mantendrán vigentes en todo aquello que no ha sido modificado por el presente acto administrativo.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Jorge Andrés Guevara Stephens, Secretario Regional Ministerial de Vivienda y Urbanismo Región de Los Lagos.
