@@ -1,0 +1,11 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE VALPARAÍSO, A LA "I. MUNICIPALIDAD DE ISLA DE PASCUA"
+
+Mediante decreto supremo N° 30 de 11 de noviembre de 2020, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "I. Municipalidad de Isla de Pascua", RUT N° 69.061.800-1, el inmueble fiscal signado como Lote A, parte del Sitio N° 2, Manzana 14, ubicado en Avenida Atamu Tekena esquina Te Pito o Te Henua, comuna y provincia de Isla de Pascua, Región de Valparaíso; amparado bajo inscripción global a nombre del Fisco a fojas 1 N° 1 del Registro de Propiedades del año 1966, del Conservador de Bienes Raíces de Isla de Pascua; singularizado en el Plano N° V-2-989- C.U.; con una superficie de 12.635,00 m2. La Concesión se otorga por un plazo de 20 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble para el funcionamiento del Edificio Consistorial, dependencias del municipio, organizaciones comunitarias y oficinas de servicios públicos. La inscripción en el Registro de Hipotecas y Gravámenes del Conservador de Bienes Raíces de Isla de Pascua, se efectuará de conformidad a lo señalado en los números 12, 13 y 14 del acápite II del mencionado decreto, el que en su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Alcance. La Contraloría General de la República ha tomado razón del referido decreto, "no obstante cumple con hacer presente que el pago de honorarios de los integrantes del tribunal arbitral -contemplado para el caso que este se active- previsto en el N° 11 del acápite II) de su parte dispositiva, no resulta procedente cuando dichas designaciones recaen en funcionarios públicos que actúan en ejercicio de sus cargos, salvo disposición legal en contrario, lo que no se advierte en la especie (aplica criterio contenido en los dictámenes N°s. 26.247, de 2018 y 11.657, de 2020, ambos de este origen). Por último, esta Contraloría General entiende que los miembros de ese tribunal arbitral fueron designados por las partes de conformidad con lo previsto en el artículo 63 del decreto ley N° 1.939 de 1977, antecedente que se ha omitido en el expediente administrativo.".
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
