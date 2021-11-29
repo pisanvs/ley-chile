@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN METROPOLITANA DE SANTIAGO, A LA "FUNDACIÓN NACIONAL PARA LA ACCESIBILIDAD, EL DISEÑO UNIVERSAL Y LA INCLUSIÓN SOCIAL"
+
+Mediante decreto exento Nº E-430, de 5 de noviembre de 2021, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "Fundación Nacional para la Accesibilidad, el Diseño Universal y la Inclusión Social", RUT Nº 65.060.229-3, el inmueble fiscal ubicado en calle Santa Corina Nº 68, Población Rosembick, comuna de La Cisterna, provincia de Santiago, Región Metropolitana de Santiago; enrolado en el Servicio de Impuestos Internos con el N° 1703-24; amparado por inscripción a nombre del Fisco que rola a fs. 1.548 N° 1.996, del Registro de Propiedad del Conservador de Bienes Raíces de San Miguel, correspondiente al año 1977; singularizado en el Plano Nº 13109-11474-C.U.; con una superficie de 679 m2. La Concesión se otorga por un plazo de 15 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble a fin de continuar con su administración y ejecución de un proyecto que tiene como fin desarrollar actividades y programas que promuevan la inclusión social y la accesibilidad en personas en situación de discapacidad y sus familias. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
