@@ -22,6 +22,8 @@ Resuelvo:
 
 1. Establécese, como medida de gestión de tránsito, en el costado derecho de las vías que más adelante se indican, una pista de uso exclusivo para buses y taxis en cualquiera de sus modalidades, de acuerdo a los tramos y condiciones que a continuación se indican:
 
+.
+
 El horario de funcionamiento de las pistas de uso exclusivo será el siguiente:
 
 2. En las pistas de uso exclusivo antes mencionadas, podrán circular los vehículos de emergencia, policiales, del Programa Nacional de Fiscalización de la Subsecretaría de Transportes, municipales, vehículos de transporte de valores y aquellos destinados a cumplir funciones de seguridad ciudadana, debidamente identificados como tales. Además, los vehículos que se aproximen a un cruce para virar a la derecha, podrán ingresar a la pista de uso exclusivo por la demarcación correspondiente a dicho cruce, o bien, desde la demarcación del cruce inmediatamente anterior.
