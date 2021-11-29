@@ -1,0 +1,11 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE VALPARAÍSO, A LA "I. MUNICIPALIDAD DE ISLA DE PASCUA"
+
+Mediante decreto supremo Nº 24, de 5 de agosto de 2021, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita a la "I. Municipalidad de Isla de Pascua", RUT Nº 69.061.800-1, el inmueble fiscal correspondiente al Lote Nº 2, parte del Sitio Nº 2, de la Manzana 14, ubicado en calle Atamu Tekena s/Nº esquina Tu'u Maheke, comuna y provincia de Isla de Pascua, Región de Valparaíso; amparado bajo inscripción global a nombre del Fisco a fojas 1 Nº 1 del Registro de Propiedades del año 1966, del Conservador de Bienes Raíces de Isla de Pascua; singularizado en el Plano Nº 05201-6880-C.U.; con una superficie de 1.721,00 m2. La Concesión se otorga por un plazo de 20 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para destinar el inmueble para el uso y funcionamiento de la Feria Artesanal y de Productos Agrícolas (Mercado). La inscripción en el Registro de Hipotecas y Gravámenes del Conservador de Bienes Raíces de Isla de Pascua, se efectuará de conformidad a lo señalado en los números 12, 13 y 14 del acápite III del mencionado decreto, el que en su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Alcance. La Contraloría General de la República ha tomado razón del referido decreto, "no obstante cumple con hacer presente que el pago de honorarios de los integrantes del tribunal arbitral -contemplado para el caso que este se active- previsto en el Nº 11 del acápite III) de su parte dispositiva, no resulta procedente cuando dichas designaciones recaen en funcionarios públicos que actúan en ejercicio de sus cargos, salvo disposición legal en contrario, lo que no se advierte en la especie (aplica criterio contenido en los dictámenes Nºs 26.247, de 2018 y 11.657, de 2020, ambos de este origen). Por último, esta Contraloría General entiende que los miembros de ese tribunal arbitral fueron designados por las partes de conformidad con lo previsto en el artículo 63 del decreto ley Nº 1.939, de 1977, antecedente que se ha omitido en el expediente administrativo.".
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
