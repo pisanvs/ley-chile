@@ -68,6 +68,8 @@ b) Contrato de promesa de compraventa que acredite la disponibilidad de terreno,
 
 Se permitirá la presentación de terrenos colindantes, de un mismo o diferentes propietarios, que puedan ser fusionados para el desarrollo del proyecto. Para ello, se presentarán las distintas promesas acompañadas de los certificados señalados precedentemente.
 
+Podrán presentarse promesas de compraventa sobre una porción de terrenos fiscales, de propiedad de organismos de la administración pública, o que formen parte del patrimonio de afectación fiscal de los Servicios de Bienestar de las Fuerzas Armadas a que se refiere el artículo 4, de la ley N° 18.712, del Ministerio de Defensa, que aprueba el nuevo estatuto de los Servicios de Bienestar Social de las Fuerzas Armadas, que requieran de una subdivisión posterior. El estudio de cabida se hará respecto a dicha porción, la que deberá estar debidamente identificada en los antecedentes que correspondan y que forman parte de la presentación. La tasación Serviu se hará en este caso en forma proporcional al total. Por otra parte, deberá hacerse ingreso a la Dirección de Obras Municipales respectiva del expediente para subdividir a más tardar 60 días a partir de la fecha de la resolución de selección del grupo organizado.
+
 c) Plano de emplazamiento, de acuerdo a lo señalado en el literal g) del artículo 10, del DS Nº 49 (V. y U.), de 2011.
 
 d) Certificado de factibilidad de dación de servicios, conforme a lo señalado en el literal h) del artículo 10, del DS Nº 49.
@@ -202,7 +204,13 @@ c) Para el ingreso del proyecto, la Entidad Patrocinante deberá adjuntar los an
 
 ### 11. Asistencia Técnica:
 
-11.1. Los servicios, productos y montos a pagar por concepto de Asistencia Técnica para el desarrollo y ejecución de proyectos serán los dispuestos en la resolución Nº 1.875 (V. y U.), de 2015, y sus modificaciones, que fija el Procedimiento para la Prestación de Servicios de Asistencia Técnica, Jurídica y Social a Programa de Vivienda Aprobado por DS Nº 49 (V. y U.), de 2011, y sus modificaciones, salvo lo expresamente modificado en la presente resolución.
+11.1 Los servicios y productos a desarrollar por concepto de Asistencia Técnica para el desarrollo y ejecución de proyectos serán los dispuestos en la resolución exenta N° 1.875 (V. y U.), de 2015, y sus modificaciones, que fija el procedimiento para la Prestación de Servicios de Asistencia Técnica, Jurídica y Social de Fondo Solidario de Elección de Vivienda, salvo lo expresamente modificado en la presente resolución.
+
+Los proyectos de hasta 70 familias que postulen al presente llamado, en caso de resultar seleccionados podrán percibir los honorarios por Asistencia Técnica a los que se refiere el numeral 2. del artículo 3°, de la resolución exenta N° 1.875 (V. y U.), de 2015, y se pagarán según tramo de familias, de manera incremental de acuerdo a lo indicado en el siguiente cuadro:
+
+Para determinar el valor definitivo a pagar por cada servicio de asistencia técnica, se deberán sumar los precios que resulten del cálculo correspondiente a cada tramo, conforme al número de familias que componen el proyecto. Así, el valor unitario a pagar en asistencia técnica por servicio, será el que resulte dividiendo el monto total resultante del cálculo señalado, por el número de familias del proyecto.
+
+Los proyectos por sobre 70 familias, podrán percibir los honorarios de acuerdo al monto correspondiente al cálculo que se establece en la resolución citada en el inciso anterior.
 
 11.2. Los honorarios de Asistencia Técnica correspondientes a la primera etapa del servicio "Gestión Técnica y Social de Proyectos", podrán ser pagados una vez que el Serviu respectivo califique el proyecto ingresado por la Entidad Patrocinante.
 
