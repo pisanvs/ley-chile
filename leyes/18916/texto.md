@@ -960,6 +960,8 @@ El transportador es obligado a efectuar el transporte en la fecha, horario y dem
 
 No obstante, puede suspender, retrasar y cancelar el vuelo o modificar sus condiciones por razones de seguridad o de fuerza mayor sobrevinientes, tales como fenómenos meteorológicos, conflictos armados, disturbios civiles o amenazas contra la aeronave. En estos casos, cualquiera de los contratantes podrá dejar sin efecto el contrato, soportando cada uno sus propias pérdidas.
 
+Sin perjuicio de lo anterior, el transportador deberá informar a cada pasajero los derechos que le asisten en los casos de cancelación, retraso del vuelo o denegación de embarque, de acuerdo a las condiciones previstas en el presente Capítulo.
+
 #### Artículo 128
 
 El transporte que haya de efectuarse por varios transportadores aéreos, sucesivamente , se estimará como transporte único cuando las partes lo hubieren considerado como una sola operación, tanto si se hubiere formalizado por medio de un solo contrato como por una serie de ellos.
@@ -984,41 +986,163 @@ Además, la protesta prevista en el artículo 153 podrá ser dirigida a cualquie
 
 En el caso de transportes combinados efectuados en parte por el aire y en parte por cualquier otro medio de transporte, las normas de este código se aplicarán sólo al transporte aéreo.
 
-1.- Del transporte de pasajeros
+1.- Del transporte de pasajeros y sus derechos
 
 #### Artículo 131
 
 El transportador dará al pasajero un billete de pasaje, que deberá contener, a lo menos, las siguientes indicaciones:
 
-a) Lugar y fecha de expedición;
+a) Lugar y fecha de expedición.
 
-b) Nombre del pasajero y del transportador o transportadores;
+b) Nombre del pasajero y del transportador o transportadores.
 
-c) Puntos de partida y de destino, y
+c) Puntos de partida y de destino, precio y clase del pasaje.
 
-d) Precio y clase del pasaje.
+d) La explicitación clara de las condiciones, restricciones y limitaciones a que está sujeto y de todos los derechos contemplados en el presente Capítulo.
+
+El transportador podrá expedir el billete de pasaje por cualquier medio, siempre y cuando éste permita cumplir con lo señalado anteriormente.
 
 El billete de pasaje hace fe de la celebración y de las condiciones del contrato de transporte. La falta, irregularidades o pérdida del billete no afectarán a la existencia ni a la validez del contrato.
 
+Con todo, el transportador estará obligado a tener a disposición de los pasajeros folletos informativos con especificación de sus derechos, en un lugar visible de sus oficinas de venta de pasajes y en los mostradores de los aeropuertos.
+
+#### Artículo 131 bis
+
+Cesión del derecho a ser transportado en vuelo de cabotaje. El pasajero podrá ceder libremente y sin costo alguno su derecho a ser transportado en un vuelo de cabotaje, por trayectos de ida y/o vuelta.
+
+La cesión sólo podrá realizarse hasta las veinticuatro horas previas al vuelo, y se perfeccionará por medio de la individualización del cedente y del cesionario en el formulario digital que el transportador deberá disponer al efecto en su sitio web oficial. En dicho documento, el transportador podrá solicitar, asimismo, los datos que permitan singularizar el billete de pasaje y demás aspectos necesarios para asegurar la correcta cesión del derecho. Lo anterior, también se podrá realizar presencialmente en las oficinas de venta de pasajes, los mostradores de los aeropuertos y agencias autorizadas con que cuente el transportador.
+
+Verificado el ingreso de la información antes indicada, se otorgará al cedente un comprobante de la transferencia.
+
+Será responsabilidad exclusiva del cedente que la información proporcionada sea precisa y correcta.
+
+Sin perjuicio de lo dispuesto en los incisos anteriores, la cesión del derecho en cuestión se podrá realizar únicamente entre personas naturales y sólo por una vez por cada billete de pasaje, siendo inválida cualquier transferencia ulterior por parte del cesionario.
+
+De igual modo, en un año calendario, el pasajero sólo podrá ceder su derecho hasta por un máximo de dos veces por transportador, a razón de una transferencia por cada semestre.
+
+Las cesiones no podrán efectuarse en ningún caso con fines de lucro, tampoco como actividad comercial o en forma habitual. Sin perjuicio de lo anterior, las cesiones que se realicen en virtud de este artículo, siempre que se hagan hasta por el máximo de veces señalado en el inciso anterior, no configurarán habitualidad en la actividad.
+
+Lo señalado en el presente artículo, es sin perjuicio de las condiciones de mayor flexibilidad que el transportador ofrezca o pacte con el pasajero.
+
+#### Artículo 131 ter
+
+Derecho a retracto. Los pasajeros tendrán derecho a poner término unilateralmente al contrato de transporte aéreo en vuelos de cabotaje, dentro de las cuarenta y ocho horas siguientes de adquirido un billete de pasaje, para los viajes que se compren al menos siete días corridos antes de la fecha y hora de salida programada del vuelo. Los pasajeros, bajo esas condiciones, podrán dejar sin efecto el contrato y recibir un reembolso completo de lo pagado, sin penalización.
+
+Con todo, en el evento de que la salida programada del vuelo se verifique en un plazo igual o superior a los ciento ochenta días de adquirido el billete de pasaje, el plazo de retractación podrá ejercerse dentro de los siete días posteriores contados desde la celebración del contrato de transporte aéreo. En estos casos, los pasajeros, de igual forma, recibirán la completa devolución de lo pagado, sin penalización, dejándose sin efecto la convención.
+
+Para el ejercicio de esta facultad, los transportadores deberán contar con un formulario digital al efecto, dispuesto en su sitio web oficial, en donde el pasajero pueda manifestar su expresa voluntad de retractarse. Lo anterior, también se podrá realizar presencialmente en las oficinas de venta de pasajes, los mostradores de los aeropuertos y agencias autorizadas con que cuente el transportador.
+
+La devolución producto del ejercicio del derecho a retracto deberá ser reembolsada por el transportador, con o sin requerimiento del pasajero, dentro del plazo de diez días, a través del mismo medio utilizado para pagar el billete de pasaje. Dicho plazo se extenderá a treinta días en los casos referidos en el inciso segundo de este artículo.
+
+No obstante, en caso de no haberse podido materializar dicho reembolso o en caso de haberse verificado el pago en efectivo, el transportador deberá contactar al pasajero con el fin de que éste señale el medio para efectuar el reembolso, contacto que deberá realizarse en el plazo máximo de diez días contado desde que debió haberse verificado el viaje. Dicho reembolso deberá efectuarse en el plazo máximo de diez días contado desde que el pasajero señale al transportador la información necesaria para estos efectos. En caso de retraso injustificado, dicho reembolso se recargará en el cincuenta por ciento en favor del pasajero cada treinta días.
+
+Una vez vencido el primer período de treinta días sin verificarse el reembolso al pasajero, podrá este último optar por exigir el reembolso al agente autorizado que haya realizado la venta, o bien, persistir en el reembolso y recargos conforme al inciso precedente. Lo anterior, sin perjuicio del derecho del agente autorizado a repetir contra el transportador, cuando corresponda.
+
 #### Artículo 132
 
-El transportador puede rehusar o condicionar el transporte de aquellos pasajeros cuyo estado o condición constituyere un peligro para la seguridad, higiene o buen orden a bordo, o cuando requiriere atención o cuidado especial durante el viaje.
+El transportador puede rehusar o condicionar el transporte de aquellos pasajeros cuyo estado o condición constituyere un peligro para la seguridad, higiene o buen orden a bordo, o cuando requirieren atención o cuidado especial durante el viaje.
+
+Un reglamento del Ministerio de Defensa Nacional establecerá las condiciones técnicas y de seguridad bajo las cuales se autorizará el transporte de personas con discapacidad, orgánicamente descompensadas, agónicas o inconscientes.
 
 #### Artículo 133
 
-El transportador que no embarcare a un pasajero que se hubiere presentado oportunamente y cuyo boleto de pasaje estuviere previamente confirmado en un vuelo determinado, estará obligado a las prestaciones que señale el reglamento, sin perjuicio de las acciones de indemnización que correspondan, cuando no existiere una causa que lo exima de responsabilidad.
+Denegación de Embarque. En el evento que el transportador prevea que tendrá que denegar el embarque de uno o más pasajeros por sobreventa, los cuales se hubieren presentado oportunamente y cuyo billete de pasaje estuviere previamente confirmado en un vuelo determinado, deberá pedir en primer lugar que se presenten voluntarios que renuncien a sus reservas a cambio de determinadas prestaciones y reparaciones que se acuerden entre los voluntarios y el transportador. Si el número de voluntarios es insuficiente para que los restantes pasajeros con billetes confirmados puedan ser embarcados en el respectivo vuelo, el transportador podrá denegar el embarque a uno o más pasajeros contra su voluntad, para lo cual deberá:
 
-Si el viaje ya iniciado se interrumpiere o suspendiere por causa que no exima de responsabilidad al transportador, éste estará obligado, a sus expensas, a proporcionar mantención y hospedaje a los pasajeros.
+1.- A elección del pasajero:
 
-De igual modo deberá ofrecerles, a elección de ellos. cualquiera de las siguientes opciones:
+a) Embarcar en el siguiente vuelo que tenga disponible el transportador, o en un transporte alternativo, si es que decidiera persistir en el contrato de transporte aéreo;
 
-a) Reembolso del importe proporcional del trayecto no realizado;
+b) El reembolso del monto total pagado por el billete, si el pasajero se desiste del contrato de transporte aéreo y éste no hubiera comenzado su ejecución, o
 
-b) Continuación del viaje, con la demora prevista para solucionar su interrupción;
+c) Si ya se hubiera iniciado la ejecución de un viaje con escala y/o conexión, el transportador deberá ofrecer, a elección del pasajero, cualesquiera de las siguientes opciones:
 
-c) Reanudación del viaje con otro transportador, en las mismas condiciones estipuladas, y
+i.- Embarque en el siguiente vuelo que tenga disponible el transportador, o en un transporte alternativo, si es que decidiera persistir en el contrato de transporte aéreo.
 
-d) Retorno al punto de partida, con reembolso del precio del pasaje.
+ii.- Reembolso de la porción no utilizada.
+
+iii.- Retorno al punto de partida, con reembolso del precio del pasaje.
+
+2.- Sin perjuicio de lo anterior, el transportador deberá ofrecer al pasajero afectado con la denegación de embarque una suma equivalente a:
+
+a) 2 unidades de fomento para vuelos de menos de 500 kilómetros.
+
+b) 3 unidades de fomento para vuelos de entre 500 y 1.000 kilómetros.
+
+c) 4 unidades de fomento para vuelos de entre 1.000 y 2.500 kilómetros.
+
+d) 10 unidades de fomento para vuelos de entre 2.500 y 4.000 kilómetros.
+
+e) 15 unidades de fomento para vuelos de entre 4.000 y 8.000 kilómetros.
+
+f) 20 unidades de fomento para vuelos de más de 8.000 kilómetros.
+
+El pasajero que acepte dichas compensaciones no podrá con posterioridad ejercer acciones contra el transportador por el mismo hecho.
+
+3.- Si, conforme a la letra a) del número 1 del presente artículo, se embarca al pasajero en el siguiente vuelo que tenga disponible el transportador, y la diferencia en la hora de salida respecto a la prevista para el vuelo inicialmente reservado es inferior a tres horas, no procederá compensación alguna de acuerdo al número 2 precedente.
+
+4.- Para los efectos de este artículo, se entenderá que un billete de pasaje se encuentra confirmado, con respecto a los puntos de partida y destino indicados en el mismo, incluyendo puntos intermedios de conexión o escala, en la medida que conste que la reserva o el billete de pasaje ha sido aceptado y registrado por el transportista aéreo o por su agente autorizado.
+
+5.- Por "viaje con escala y/o conexión" se entiende aquel cuya llegada al punto de destino contempla un punto de partida y uno o más puntos intermedios de escala y/o conexión, cuando formen parte de un mismo contrato.
+
+6.- Sin perjuicio de otros servicios adicionales que puedan ofrecer los transportistas, de acuerdo con las circunstancias y la especial condición del pasajero, en caso de denegación de embarque el transportador deberá embarcar de manera prioritaria a los niños no acompañados, a personas con discapacidad, a los pasajeros de edad avanzada o delicados de salud, a embarazadas que, en razón de su estado, requieran embarcarse prioritariamente y, en general, a los pasajeros que, por razones humanitarias calificadas por el transportador, deban ser embarcados con preferencia.
+
+#### Artículo 133
+
+A.- Si el pasajero decide perseverar en el contrato ante una denegación de embarque, el transportador estará obligado a las siguientes prestaciones asistenciales:
+
+a) Comunicaciones que el pasajero necesite efectuar, ya sean telefónicas, electrónicas o de otra naturaleza similar, si es que hubiere una diferencia en la hora de salida prevista para el vuelo inicialmente reservado superior a tres horas.
+
+b) Comidas y refrigerios necesarios hasta el embarque en el otro vuelo, si es que hubiere una diferencia en la hora de salida prevista para el vuelo inicialmente reservado superior a tres horas.
+
+c) Alojamiento para pasajeros con vuelo de retorno y para pasajeros con vuelo de ida que se les deniega el embarque en un punto de conexión, no residentes en la ciudad, localidad o área del aeropuerto de salida, en caso de que se les ofrezca un nuevo vuelo cuya salida sea, como mínimo, al día siguiente de la salida programada en el billete de pasaje, y siempre que el pasajero deba pernoctar una o varias noches y el tiempo de espera para embarcar en el otro vuelo así lo requiera. Por "noche" se entenderá desde la medianoche hasta las 6 horas a.m.
+
+d) Movilización desde el aeropuerto al lugar de residencia del pasajero en la ciudad, localidad o área del aeropuerto de salida, o al lugar de alojamiento, y viceversa, en caso que fuere aplicable.
+
+e) Los arreglos y prestaciones que sean necesarias para continuar el viaje, en caso de que el pasajero pierda un vuelo de conexión con reserva confirmada.
+
+#### Artículo 133
+
+B.- En caso de retraso o de cancelación de un vuelo, el pasajero afectado tendrá los siguientes derechos:
+
+a) Embarcar en el siguiente vuelo que tenga disponible el transportador, o en un transporte alternativo, si es que decidiera persistir en el contrato de transporte aéreo; ya sea que el vuelo aún no se hubiere iniciado o se hubiere iniciado y se encuentre en una escala y/o conexión.
+
+b) Prestaciones asistenciales, conforme a lo dispuesto en el artículo 133 A, siempre que la causa del retraso o cancelación sea imputable al transportador.
+
+c) Indemnización con arreglo a lo previsto en el artículo 147, si el retraso o la cancelación se debe a causa imputable al transportador, en conformidad a lo siguiente:
+
+i) Si el retraso fuere superior a tres horas respecto a la hora de salida prevista en el billete de pasaje o cuatro horas en vuelos que utilicen aeronaves que hayan sido diseñadas para una capacidad de hasta 29 asientos.
+
+ii) Al momento de la cancelación, salvo que se le informe al pasajero y se le ofrezca tomar otro vuelo que le permita salir a su destino con no más de tres horas de retraso con respecto a la hora de salida prevista o cuatro horas en vuelos que utilicen aeronaves que hayan sido diseñadas para una capacidad de hasta 29 asientos.
+
+Para los efectos de la comunicación de cancelación, el pasajero, al efectuar la reserva o compra de su billete de pasaje, informará al transportista, en forma directa o a través de sus agentes autorizados, sus datos de contacto, tales como dirección, teléfono y correo electrónico.
+
+d) Reembolso del monto total pagado por el billete o de la porción no utilizada, según fuere el caso, si el pasajero decide no perseverar en el contrato y han transcurrido los plazos de la letra c) anterior, sea o no imputable al transportador la causa del retraso o de la cancelación.
+
+#### Artículo 133
+
+C.- En caso de no verificarse el viaje, ya sea por causas imputables al transportador, al pasajero o por razones de seguridad o de fuerza mayor sobrevinientes, las tasas, cargas o derechos aeronáuticos que hubiere pagado el pasajero deberán restituirse a su solo requerimiento en cualquier oficina del transportador aéreo o a través de su sitio web.
+
+#### Artículo 133
+
+D.- Del Derecho a Reparación del Transportador. El transportador que pague cualquier indemnización o proporcione prestaciones o asistencia a un pasajero por causas o circunstancias que se deban en todo o parte al hecho o culpa de un tercero, siempre tendrá el derecho de exigir de tal tercero la indemnización de los perjuicios que haya sufrido, incluyendo los costos o gastos de tales compensaciones, prestaciones y asistencias, de acuerdo a las reglas generales del derecho.
+
+#### Artículo 133
+
+E.- En caso que el transportador acomode a un pasajero en una clase superior a la que había pagado, y esto se deba a cualquier causa ajena a la voluntad del pasajero, el transportador no podrá exigir pago suplementario alguno.
+
+#### Artículo 133
+
+F.- Las acciones individuales o colectivas destinadas a sancionar las infracciones a las normas contenidas en este Párrafo y a la obtención de las prestaciones, reparaciones e indemnizaciones que en él se establecen, se tramitarán conforme al procedimiento y ante los tribunales señalados en el Título IV de la ley Nº 19.496, sobre protección de los derechos de los consumidores, y para efectos de lo dispuesto en esta ley, será también competente, a elección del pasajero, el tribunal de su domicilio.
+
+#### Artículo 133
+
+G.- El que, en inobservancia de lo dispuesto en el inciso séptimo del artículo 131 bis, ceda su derecho a ser transportado en un vuelo de cabotaje, o facilite dicha cesión, será sancionado con multa de once a veinte unidades tributarias mensuales.
+
+Con la misma pena se sancionará al cesionario del aludido derecho que, en inobservancia de lo establecido en el inciso quinto del artículo 131 bis, lo transfiera nuevamente, a cualquier título, o al que facilite dicha operación.
+
+En caso de reiteración de las conductas consideradas en los incisos anteriores, se aplicará la pena de presidio menor en su grado medio y multa de veintiuna a treinta unidades tributarias mensuales.
+
+A los delitos consagrados en los incisos anteriores no les será aplicable lo dispuesto en el artículo 201 de este Código.
 
 2.- Del transporte de equipaje
 
