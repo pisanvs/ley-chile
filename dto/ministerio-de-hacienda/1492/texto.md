@@ -30,7 +30,7 @@ b) Proporcionar asistencia profesional y técnica al Comité Financiero señalad
 
 c) Analizar las políticas de inversión de los Fondos Soberanos y su forma de implementación, así como recomendar modificaciones, cuando corresponda, y tramitar las instrucciones del Ministro de Hacienda correspondientes a tales políticas;
 
-d) Seleccionar y contratar con cargo a los recursos de los Fondos Soberanos, cuando lo disponga el Ministro de Hacienda, administradores de carteras de inversión (en adelante "Administradores Externos"). Todo ello, sujeto al límite establecido en el artículo 7º del presente decreto;
+d) Seleccionar y contratar con cargo a los recursos de los Fondos Soberanos, cuando lo disponga el Ministro de Hacienda, administradores de carteras de inversión (en adelante "Administradores Externos").
 
 Asimismo, impartir instrucciones y efectuar las notificaciones y demás comunicaciones que se deriven de los contratos con los Administradores Externos que hayan sido suscritos por el Ministerio de Hacienda o por el Banco Central de Chile en representación del Fisco;
 
@@ -38,7 +38,7 @@ e) Supervisar el cumplimiento de los límites establecidos para la política de 
 
 f) Evaluar la gestión de todos los administradores de los Fondos Soberanos, calcular e instruir la asignación de recursos de los Fondos Soberanos a diferentes administradores, si fuera pertinente debido al rebalanceo de los mismos u otros motivos;
 
-g) Seleccionar y contratar con cargo a los recursos de los Fondos Soberanos, cuando lo disponga el Ministro de Hacienda, a una o varias instituciones financieras extranjeras que presten al Fisco el servicio de custodia global de los valores e instrumentos adquiridos con los recursos de los Fondos Soberanos (en adelante "Custodios") u otros servicios (programa de préstamos de valores, monitoreo de los límites de inversión, contabilidad, elaboración de reportes o asesorías o estudios, entre otros), sujeto al límite establecido en el artículo 7º de este decreto;
+g) Seleccionar y contratar con cargo a los recursos de los Fondos Soberanos, cuando lo disponga el Ministro de Hacienda, a una o varias personas jurídicas nacionales o extranjeras que presten al Fisco el servicio de custodia global de los valores e instrumentos adquiridos con los recursos de los Fondos Soberanos (en adelante "Custodios") u otros servicios (programa de préstamos de valores, monitoreo de los límites de inversión, contabilidad, elaboración de reportes, asesorías o estudios, entre otros), de conformidad con lo establecido en el artículo 7° de este decreto;
 
 h) Elaborar los informes trimestrales y mensuales de los Fondos Soberanos contemplados en la Ley Nº 20.128 y en el decreto con fuerza ley Nº 1, de 2006, del Ministerio de Hacienda, así como informes anuales adicionales;
 
@@ -56,11 +56,11 @@ m) Realizar cualquier otra labor de asesoría, coordinación y/o apoyo a la gest
 
 En materia de deuda pública directa del Fisco contraída por la Tesorería General de la República, de los demás recursos fiscales distintos a los Fondos Soberanos y de relaciones con inversionistas, el Ministerio de Hacienda realizará, a través de su Secretaría y Administración General, las siguientes actividades:
 
-a) Recomendar una estrategia de endeudamiento de corto y mediano plazo, estableciendo sus objetivos principales y secundarios, y las normas de inversión de los demás recursos fiscales distintos a los Fondos Soberanos;
+a) Recomendar una estrategia de endeudamiento de corto y mediano plazo, estableciendo sus objetivos principales y secundarios, y las normas de inversión de los demás recursos fiscales distintos a los Fondos Soberanos. Asimismo, enviar a la Dirección de Presupuestos la información detallada de la estrategia mencionada en el párrafo anterior (incluyendo el calendario de colocación), como también informar de cualquier eventual modificación de dicha estrategia;
 
 b) Preparar los actos administrativos y la demás documentación relacionada a las normas sobre las inversiones en el mercado de capitales de los recursos fiscales distintos a los Fondos Soberanos;
 
-c) Preparar los actos administrativos y demás documentación relacionada con la emisión y las colocaciones de títulos representativos de deuda en el mercado local e internacional que correspondan al Ministerio de Hacienda y coordinar con la Tesorería General de la República, la Dirección de Presupuestos y el Banco Central de Chile, según corresponda, la preparación de los actos administrativos que correspondan a estas instituciones;
+c) Preparar los actos administrativos y demás documentación relacionada con la emisión y las colocaciones de títulos representativos de deuda en el mercado local e internacional que correspondan al Ministerio de Hacienda y coordinar con la Tesorería General de la República, la Dirección de Presupuestos y el Banco Central de Chile, según corresponda, la preparación de los actos administrativos que correspondan a estas instituciones. Asimismo, preparar los actos administrativos y los contratos que sean necesarios para fomentar el desarrollo del mercado de valores representativos de deuda pública, así como mejorar la liquidez y profundidad de dicho mercado, cuando así lo determine el Ministerio de Hacienda. Incluyendo programas específicos que se implementen de conformidad con las autorizaciones de endeudamiento, selección de entidades intermediarias participantes, contratos de asistencia técnica o asesorías, entre otros. Los pagos que deban realizarse derivados de las actividades de este artículo se harán con cargo a los recursos del Tesoro Público;
 
 d) Elaborar los Informes de Estadísticas de la Deuda Pública y demás información general de la deuda pública que se publique en el sitio web del Ministerio de Hacienda;
 
@@ -96,9 +96,11 @@ i) Efectuar, previa coordinación con el Ministerio de Hacienda, una propuesta d
 
 j) Tomar conocimiento, para efectos de coordinación, de la documentación relacionada con la emisión y colocación de títulos representativos de deuda en el mercado local e internacional, relevantes para la elaboración del Programa de Caja mensual, definido en el decreto ley Nº1.263, de 1975, del Ministerio de Hacienda. Asimismo, proporcionar al Comité de Coordinación establecido en el artículo 5º proyecciones actualizadas de caja mensual;
 
-k) Mantener actualizado un Manual de Procedimiento para la ejecución de todas las funciones y atribuciones que se detallan en este artículo, y
+k) Mantener actualizado el Programa Financiero y el presupuesto anual del Programa 04 del Servicio de la Deuda;
 
-l) Realizar cualquier otra labor de asesoría, coordinación y/o apoyo a la gestión que sea necesaria para el desempeño de sus funciones.
+l) Mantener actualizado un Manual de Procedimiento para la ejecución de todas las funciones y atribuciones que se detallan en este artículo, y
+
+m) Realizar cualquier otra labor de asesoría, coordinación y/o apoyo a la gestión que sea necesaria para el desempeño de sus funciones.
 
 El Ministerio de Hacienda podrá solicitar a la Dirección de Presupuestos información acerca de las materias que se detallan en este artículo, en una forma y plazo que considere las capacidades de dicho Servicio.
 
@@ -108,13 +110,13 @@ Corresponderá a la Tesorería General de la República la realización de las s
 
 a) Registrar las inversiones de los Recursos del Tesoro Público, así como las operaciones de endeudamiento, de acuerdo a las normas contables y presupuestarias establecidas por la Contraloría General de la República y/o la Dirección de Presupuestos, según corresponda;
 
-b) Realizar la contabilidad de los Fondos Soberanos de acuerdo a estándares de contabilidad reconocidos internacionalmente o su equivalente nacional, preparar estados financieros trimestrales y anuales de los Fondos Soberanos de acuerdo a dichas normas y encargar, con cargo a los recursos de los Fondos Soberanos, auditorías independientes de los estados financieros anuales, todo ello sujeto al límite establecido en el artículo 7º del presente decreto. Para ello, seleccionará y contratará a la o las firmas auditoras entre aquellas que se encuentran facultadas para prestar sus servicios profesionales a entidades fiscalizadas por la Superintendencia de Bancos e Instituciones Financieras;
+b) Realizar la contabilidad de los Fondos Soberanos de acuerdo a estándares de contabilidad reconocidos internacionalmente o su equivalente nacional, preparar estados financieros trimestrales y anuales de los Fondos Soberanos de acuerdo a dichas normas y encargar, con cargo a los recursos de los Fondos Soberanos, auditorías independientes de los estados financieros anuales. Para ello, seleccionará y contratará a la o las firmas auditoras entre aquellas que se encuentran facultadas para prestar sus servicios profesionales a entidades fiscalizadas por la Comisión para el Mercado Financiero;
 
 c) Apoyar al Ministerio de Hacienda en la preparación de los informes de los Fondos Soberanos y del Informe de Estadísticas de la Deuda Pública;
 
 d) Verificar que los registros nominales y valorizados de las inversiones de los administradores de los Fondos Soberanos sean consistentes con los registros de los Custodios. Esta actividad es realizada a partir del 1 de enero de 2014 para los portafolios gestionados por los Administradores Externos y a partir del 1 de julio del mismo año para los portafolios gestionados por el Banco Central de Chile;
 
-e) Emitir las instrucciones de transferencia asociadas a los aportes y retiros desde y hacia los Fondos Soberanos en virtud de las instrucciones impartidas por el Ministro de Hacienda, validar los pagos asociados a la administración y custodia de los Fondos Soberanos, según corresponda, e instruir al Banco Central de Chile el pago de los distintos servicios prestados por los Administradores Externos;
+e) Emitir las instrucciones de transferencia asociadas a los aportes y retiros desde y hacia los Fondos Soberanos en virtud de las instrucciones impartidas por el Ministro de Hacienda, validar los pagos asociados a la administración, custodia u otros servicios relacionados con los Fondos Soberanos, según corresponda, e instruir al Banco Central de Chile el pago de los distintos servicios prestados por los Administradores Externos u otros proveedores;
 
 f) Supervisar el cumplimiento de los límites establecidos para la política de inversión de los Fondos Soberanos por parte de cada administrador de los mismos, de acuerdo a los controles establecidos por el Ministro de Hacienda mediante resolución. Esta actividad es realizada a partir del 1 de abril de 2014 para los portafolios gestionados por los Administradores Externos y a partir del 1 de julio del mismo año para los portafolios gestionados por el Banco Central de Chile;
 
@@ -140,15 +142,9 @@ El Comité de Coordinación sesionará al menos una vez cada mes. Una resolució
 
 La Secretaría y Administración General del Ministerio de Hacienda, la Dirección de Presupuestos y la Tesorería General de la República adoptarán las resoluciones internas que estimen pertinentes asignando personal a las tareas referidas en este decreto y detallando los respectivos manuales de procedimiento.
 
-#### Artículo 7º
+#### Artículo 7°
 
-Los gastos anuales asociados a las letras d),
-
-- **g)** y
-
-- **l)** del artículo 1º, y a la letra
-
-- **b)** del artículo 4º de este decreto, no podrán exceder el equivalente a 0,10 por ciento del valor promedio anual de los recursos de los Fondos Soberanos.
+Cualquier gasto que sea necesario realizar por las actividades contenidas en este decreto estarán sujetos a disponibilidad presupuestaria, lo cual será informado previamente por la Dirección de Presupuestos, conforme a lo establecido en el decreto ley N° 1.263, de 1975.
 
 #### Artículo 8º
 
