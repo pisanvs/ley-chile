@@ -842,6 +842,8 @@ Sentencia. Una vez concluido el debate, el juez comunicará de inmediato su reso
 
 El juez podrá diferir la redacción del fallo hasta por un plazo de cinco días, ampliables por otros cinco por razones fundadas, fijando la fecha en que tendrá lugar la lectura de la sentencia, la que podrá efectuarse de manera resumida.
 
+> **Nota.** El artículo decimonoveno transitorio de la ley 21394, publicada el 30.11.2021, modifica, a partir de la publicación de la cita ley, y por un lapso de un año, el inciso segundo del presente artículo, en el sentido de ampliar el plazo para dictar sentencia de cinco a diez días.
+
 #### Artículo 66
 
 Contenido de la sentencia. La sentencia definitiva deberá contener:

@@ -442,6 +442,8 @@ Cuando existiere dispersión de votos en relación con una decisión, la sentenc
 
 Si se produjere desacuerdo acerca de cuál es la opinión que favorece más al imputado, prevalecerá la que cuente con el voto del juez presidente de la sala.
 
+Sin perjuicio de lo dispuesto en el presente artículo y en el artículo 281 del Código Procesal Penal, podrán ser resueltas por un único juez del tribunal de juicio oral en lo penal la fijación de día y hora para la realización de audiencias. Asimismo, podrán ser resueltas por un único juez del tribunal de juicio oral en lo penal las resoluciones de mero trámite, tales como téngase presente y traslados; pedir cuenta de oficios e informes; y tramitación de exhortos.
+
 #### Artículo 20
 
 Derogado.
@@ -2462,7 +2464,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 8.024 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 6.050 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $8.265 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $6.231 pesos.
 
 #### Artículo 199
 
@@ -3472,7 +3474,7 @@ Hecho el nombramiento de un juez por el Presidente de la República y expedido e
 
 #### Artículo 300
 
-Los miembros de la Corte Suprema prestarán su juramento ante el presidente del mismo tribunal.
+Los miembros de la Corte Suprema prestarán su juramento o promesa presencialmente o por vía remota mediante videoconferencia ante el presidente del mismo tribunal.
 
 Los de las Cortes de Apelaciones ante el presidente del respectivo tribunal.
 
@@ -3480,9 +3482,9 @@ Ante el mismo funcionario lo prestarán también los jueces de letras.
 
 #### Artículo 301
 
-Los jueces podrán prestar su juramento ante otras autoridades gubernativas o judiciales que las indicadas en el artículo anterior, siempre que el Presidente de la República, por consideraciones de economía o de conveniencia para la prontitud de la administración de justicia, así lo ordenare.
+Los jueces podrán prestar su juramento o promesa presencialmente o por vía remota mediante videoconferencia ante otras autoridades gubernativas o judiciales que las indicadas en el artículo anterior, siempre que el Presidente de la República, por consideraciones de economía o de conveniencia para la prontitud de la administración de justicia, así lo ordenare.
 
-En tal caso la autoridad que haya recibido el juramento dará lo más pronto posible el respectivo aviso a la que, según dicho artículo, habría correspondido intervenir en la diligencia, remitiéndole lo obrado para los fines del artículo 305.
+En tal caso la autoridad que haya recibido el juramento o promesa dará lo más pronto posible el respectivo aviso a la que, según dicho artículo, habría correspondido intervenir en la diligencia, remitiéndole lo obrado para los fines del artículo 305.
 
 #### Artículo 302
 
@@ -3490,17 +3492,19 @@ Cuando un juez que ha prestado el juramento correspondiente fuere nombrado para 
 
 #### Artículo 303
 
-Tampoco serán obligados a prestar juramento los fiscales judiciales que, con arreglo a lo establecido en el presente Código, fueren llamados a integrar accidentalmente una Corte de Apelaciones o la Corte Suprema.
+Tampoco serán obligados a prestar juramento o promesa los fiscales judiciales que, con arreglo a lo establecido en el presente Código, fueren llamados a integrar accidentalmente una Corte de Apelaciones o la Corte Suprema.
 
-Los abogados llamados a integrar una Corte de Apelaciones sólo prestarán juramento la primera vez que entren a desempeñar este encargo; pero respecto de ellos, el juramento prestado en un tribunal no se tomará en cuenta en otro, para el efecto de este artículo.
+Los abogados llamados a integrar una Corte de Apelaciones sólo prestarán juramento o promesa la primera vez que entren a desempeñar este encargo; pero respecto de ellos, el juramento o promesa prestado en un tribunal no se tomará en cuenta en otro, para el efecto de este artículo.
+
+El juramento o promesa dispuesto en los incisos anteriores podrá realizarse de manera presencial o por vía remota mediante videoconferencia.
 
 #### Artículo 304
 
-Todo juez prestará su juramento al tenor de la fórmula siguiente:
+Todo juez prestará su juramento o promesa presencialmente o por vía remota mediante videoconferencia, al tenor de la siguiente fórmula:
 
-"¿Juráis por Dios Nuestro Señor y por estos Santos Evangelios que, en ejercicio de vuestro ministerio, guardaréis la Constitución y las leyes de la República?"
+"¿Juráis o prometéis, cumplir, en el ejercicio de vuestro cargo, con lo que establece la Constitución Política y las leyes de la República?".
 
-El interrogado responderá: "Sí juro"; y el magistrado que le toma el juramento añadirá: "Si así lo hiciéreis, Dios os ayude, y si no, os lo demande".
+El interrogado responderá: "Sí juro" o "Sí prometo".
 
 #### Artículo 305
 
@@ -4198,7 +4202,7 @@ Deben recibir, además, las informaciones sumarias de testigos en actos de juris
 
 Los receptores estarán al servicio de la Corte Suprema, de las Cortes de Apelaciones y de los juzgados de letras del territorio jurisdiccional al que estén adscritos.
 
-Los receptores ejercerán sus funciones en todo el territorio jurisdiccional del respectivo tribunal. Sin embargo, también podrán practicar las actuaciones ordenadas por éste, en otra comuna comprendida dentro del territorio jurisdiccional de la misma Corte de Apelaciones.
+Los receptores ejercerán sus funciones en todo el territorio jurisdiccional del respectivo tribunal. Sin embargo, también podrán practicar las actuaciones ordenadas por éste, en otra comuna comprendida dentro del territorio jurisdiccional de la misma Corte de Apelaciones. Con todo, los receptores adscritos al territorio jurisdiccional de la Corte de Apelaciones de Santiago podrán ejercer sus funciones en el territorio jurisdiccional de la Corte de Apelaciones de San Miguel y viceversa. Las notificaciones judiciales que se practicaren en estas jurisdicciones no requerirán que el tribunal de origen exhorte al tribunal en cuyo territorio se haya de practicar la diligencia.
 
 #### Artículo 392
 
@@ -4816,13 +4820,13 @@ Las funciones de los fiscales judiciales son, además, incompatibles con las ecl
 
 #### Artículo 471
 
-Los auxiliares de la Administración de Justicia antes de desempeñar sus cargos prestarán juramento al tenor de la fórmula siguiente: "¿Juráis por Dios Nuestro Señor y por estos Santos Evangelios que guardaréis la Constitución y las leyes de la República y que desempeñaréis fielmente las funciones de vuestro cargo?".
+Los auxiliares de la Administración de Justicia antes de desempeñar sus cargos prestarán juramento o promesa al magistrado presencialmente o por vía remota mediante videoconferencia al tenor de la siguiente fórmula: "¿Juráis o prometéis, cumplir, en el ejercicio de vuestro cargo, con lo que establece la Constitución Política y las leyes de la República?".
 
-El interrogado responderá: "Si juro", y el magistrado que le tome el juramento añadirá: "Si así lo hiciéreis, Dios os ayude; y si no, os lo demande".
+El interrogado responderá: "Sí juro" o "Sí prometo".
 
-Los Fiscales judiciales, Relatores y Secretarios de Corte, prestarán juramento ante el Presidente del Tribunal del que formen parte.
+Los fiscales judiciales, relatores y secretarios de Corte prestarán juramento o promesa ante el Presidente del Tribunal del que formen parte de la misma forma dispuesta en el inciso primero.
 
-Los otros funcionarios auxiliares lo harán ante el Juez respectivo o ante el juez presidente si el tribunal estuviere compuesto por más de un juez. Si el Tribunal estuviere acéfalo lo prestarán ante el delegado presidencial regional o delegado presidencial provincial. La autoridad administrativa que haya recibido el juramento dará lo más pronto posible el respectivo aviso a la que le habría correspondido intervenir en la diligencia, remitiéndole lo obrado.
+Los otros funcionarios auxiliares lo harán ante el juez respectivo o ante el juez presidente si el tribunal estuviere compuesto por más de un juez, también en la forma dispuesta en el inciso primero. Si el tribunal estuviere acéfalo lo prestarán ante el delegado presidencial regional o delegado presidencial provincial. La autoridad administrativa que haya recibido el juramento dará lo más pronto posible el respectivo aviso a la que le habría correspondido intervenir en la diligencia, remitiéndole lo obrado.
 
 #### Artículo 472
 

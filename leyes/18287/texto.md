@@ -38,6 +38,8 @@ Esta información podrá ser solicitada por cualquier medio, sea escrito, oral, 
 
 En caso que la información sea pedida por el tribunal, el Secretario dejará testimonio en el proceso de la fecha y forma en que se requirió ese informe y, si la respuesta es oral, señalará además su fecha de recepción, la individualización de la persona que la emitió y su tenor. Si la información hubiese sido recabada por los denunciantes señalados en el inciso primero, deberá adjuntarse al documento con que hagan llegar la denuncia al tribunal.
 
+Los oficios, comunicados o exhortos entre Juzgados de Policía Local y los que éstos dirijan a una institución pública o privada requiriendo información relativa a una causa en actual tramitación, podrán enviarse por medios electrónicos, si los tuviere, caso en el cual la institución deberá contestar de la misma forma. Lo anterior, sin perjuicio de los convenios de interconexión de información que pudieren existir entre el Juzgado de Policía Local y la Institución respectiva.
+
 > **Nota.** El artículo 1º transitorio de la LEY 19676, dispone que la modificación introducida a este artículo entrará en vigencia seis meses después de su publicación.
 
 #### Artículo 4º
@@ -421,10 +423,6 @@ De la Apelación
 En los asuntos de que conocen en primera instancia los Jueces de Policía Local, procederá el recurso de apelación sólo en contra de las sentencias definitivas o de aquellas resoluciones que hagan imposible la continuación del juicio. El recurso deberá ser fundado y se interpondrá en el término fatal e individual de cinco días, contados desde la notificación de la resolución respectiva.
 
 Conocerá de él la Corte de Apelaciones respectiva y se tramitará conforme a las reglas establecidas para los incidentes.
-
-Si el apelante no compareciere dentro del plazo de cinco días desde que se reciban los autos en la secretaría del tribunal de segunda instancia, éste declarará desierto el recurso de apelación respectivo.
-
-Se aumentará este término en tres días más, cuando los autos se remitan desde un tribunal de primera instancia que funcione fuera de la comuna en que resida el de alzada.
 
 #### Artículo 33°
 

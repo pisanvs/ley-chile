@@ -428,7 +428,7 @@ Transcurrido el plazo previsto en el inciso anterior sin que el imputado hubiere
 
 Esta suspensión no afectará la responsabilidad civil derivada del delito.
 
-Lo dispuesto en este artículo es sin perjuicio de la posibilidad de decretar la suspensión condicional del procedimiento.
+Lo dispuesto en este artículo es sin perjuicio de la posibilidad de decretar la suspensión condicional del procedimiento por un plazo no inferior a 6 ni superior a los 12 meses.
 
 ## Título III
 

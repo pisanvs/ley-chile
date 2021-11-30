@@ -2036,11 +2036,15 @@ Procedencia de los acuerdos reparatorios. El imputado y la víctima podrán conv
 
 Los acuerdos reparatorios sólo podrán referirse a hechos investigados que afectaren bienes jurídicos disponibles de carácter patrimonial, consistieren en lesiones menos graves o constituyeren delitos culposos.
 
-En consecuencia, de oficio o a petición del ministerio público, el juez negará aprobación a los acuerdos reparatorios convenidos en procedimientos que versaren sobre hechos diversos de los previstos en el inciso que antecede, o si el consentimiento de los que lo hubieren celebrado no apareciere libremente prestado, o si existiere un interés público prevalente en la continuación de la persecución penal. Se entenderá especialmente que concurre este interés si el imputado hubiere incurrido reiteradamente en hechos como los que se investigaren en el caso particular.
+Sin perjuicio de lo señalado en los incisos precedentes, los acuerdos reparatorios procederán también respecto de los delitos de los artículos 144 inciso primero, 146, 161-A, 161 B, 231, inciso segundo del 247, 284, 296, 297, 494 Nº 4 y 494 Nº 5, todos del Código Penal. Asimismo, procederán también respecto de los delitos contemplados en el decreto con fuerza de ley Nº 3, de 2006, que fija el texto refundido, coordinado y sistematizado de la ley Nº 19.039, de Propiedad Industrial, y en la ley Nº 17.336, de Propiedad Intelectual.
+
+En consecuencia, de oficio o a petición del ministerio público, el juez negará aprobación a los acuerdos reparatorios convenidos en procedimientos que versaren sobre hechos diversos de los previstos en los incisos segundo y tercero, o si el consentimiento de los que lo hubieren celebrado no apareciere libremente prestado, o si existiere un interés público prevalente en la continuación de la persecución penal. Se entenderá especialmente que concurre este interés si el imputado hubiere incurrido reiteradamente en hechos como los que se investigaren en el caso particular.
 
 #### Artículo 242
 
 Efectos penales del acuerdo reparatorio. Una vez cumplidas las obligaciones contraídas por el imputado en el acuerdo reparatorio o garantizadas debidamente a satisfacción de la víctima, el tribunal dictará sobreseimiento definitivo, total o parcial, en la causa, con lo que se extinguirá, total o parcialmente, la responsabilidad penal del imputado que lo hubiere celebrado.
+
+Cuando el imputado incumpliere de forma injustificada, grave o reiterada las obligaciones contraídas, la víctima podrá solicitar que el juez resuelva el cumplimiento de las obligaciones de conformidad al artículo siguiente o que se deje sin efecto el acuerdo reparatorio y se oficie al Ministerio Público a fin de reiniciar la investigación penal. En este último caso, el asunto no será susceptible de un nuevo acuerdo reparatorio.
 
 #### Artículo 243
 
@@ -2057,6 +2061,8 @@ Efectos subjetivos del acuerdo reparatorio. Si en la causa existiere pluralidad 
 Oportunidad para pedir y decretar la suspensión condicional del procedimiento o los acuerdos reparatorios. La suspensión condicional del procedimiento y el acuerdo reparatorio podrán solicitarse y decretarse en cualquier momento posterior a la formalización de la investigación. Si no se planteare en esa misma audiencia la solicitud respectiva, el juez citará a una audiencia, a la que podrán comparecer todos los intervinientes en el procedimiento.
 
 Una vez declarado el cierre de la investigación, la suspensión condicional del procedimiento y el acuerdo reparatorio sólo podrán ser decretados durante la audiencia de preparación del juicio oral.
+
+Sin perjuicio de lo señalado precedentemente, podrán, excepcionalmente, solicitarse y decretarse la suspensión condicional del procedimiento y los acuerdos reparatorios, aun cuando hubiere finalizado la audiencia de preparación del juicio oral y hasta antes del envío del auto de apertura al tribunal de juicio oral en lo penal. La solicitud se resolverá de conformidad a lo establecido en el artículo 280 bis.
 
 #### Artículo 246
 
@@ -2306,6 +2312,8 @@ Defensa oral del imputado. Si el imputado no hubiere ejercido por escrito las fa
 
 Comparecencia del fiscal y del defensor. La presencia del fiscal y del defensor del imputado durante la audiencia constituye un requisito de validez de la misma.
 
+Si en la audiencia se ventilare la aprobación de convenciones probatorias, procedimiento abreviado, suspensión condicional del procedimiento o un acuerdo reparatorio, o cualquier otra actuación en que la ley exigiere expresamente la participación del imputado, su presencia constituirá un requisito de validez de aquella.
+
 La inasistencia o el abandono injustificado de la audiencia por parte del fiscal deberá ser subsanada de inmediato por el tribunal, el que, además, pondrá este hecho en conocimiento del fiscal regional respectivo para que determine la responsabilidad del fiscal ausente, de conformidad a lo que disponga la ley orgánica constitucional del Ministerio Público. Si no compareciere el defensor, el tribunal declarará el abandono de la defensa, designará un defensor de oficio al imputado y dispondrá la suspensión de la audiencia por un plazo que no excediere de cinco días, a objeto de permitir que el defensor designado se interiorice del caso.
 
 Inciso Suprimido.
@@ -2448,6 +2456,18 @@ Asimismo, se podrá solicitar la declaración de peritos en conformidad con las 
 
 Para los efectos de lo establecido en los incisos anteriores, el juez de garantía citará a una audiencia especial para la recepción de la prueba anticipada.
 
+#### Artículo 280 bis
+
+Audiencia intermedia. Una vez fallado el recurso de apelación contra el auto de apertura del juicio oral o habiendo transcurrido el plazo para interponerlo, y antes de su envío al tribunal de juicio oral en lo penal competente, en conjunto con la solicitud de aplicación del procedimiento abreviado, la suspensión condicional del procedimiento, acuerdos reparatorios o el arribo de convenciones probatorias, se solicitará al juez de garantía, por una única vez, la realización de una nueva audiencia, a efectos de resolver la solicitud.
+
+La solicitud de nueva audiencia se realizará de común acuerdo entre los intervinientes que correspondan, de conformidad a lo previsto en el artículo 237, si la solicitud se tratare de la aplicación de una suspensión condicional del procedimiento; en el artículo 241, si se tratare de la aplicación de un acuerdo reparatorio; en el artículo 275, si se tratare de convenciones probatorias; o en el artículo 406, si se tratare de la aplicación de un procedimiento abreviado.
+
+La solicitud suspenderá el plazo de remisión del auto de apertura al tribunal de juicio oral en lo penal competente.
+
+El juez de garantía citará a la audiencia al fiscal, al imputado, al defensor, a la víctima y al querellante si lo hubiere, dentro del plazo de cinco días contados desde la solicitud.
+
+Finalizada la audiencia, el juez de garantía procederá conforme a las reglas generales. En el caso de arribarse a convenciones probatorias, el tribunal procederá a la dictación de un nuevo auto de apertura del juicio oral.
+
 ## Título III
 
 Juicio oral
@@ -2456,7 +2476,7 @@ Juicio oral
 
 #### Artículo 281
 
-Fecha, lugar, integración y citaciones. El juez de garantía hará llegar el auto de apertura del juicio oral al tribunal competente, dentro de las cuarenta y ocho horas siguientes al momento en que quedare firme.
+Fecha, lugar, integración y citaciones. El juez de garantía hará llegar el auto de apertura del juicio oral al tribunal competente, no antes de las veinticuatro horas ni después de las setenta y dos horas siguientes al momento en que quedare firme.
 
 También pondrá a disposición del tribunal de juicio oral en lo penal las personas sometidas a prisión preventiva o a otras medidas cautelares personales.
 
@@ -2481,6 +2501,8 @@ Suspensión de la audiencia o del juicio oral. El tribunal podrá suspender la a
 El juicio se suspenderá por las causas señaladas en el artículo 252. Con todo, el juicio seguirá adelante cuando la declaración de rebeldía se produjere respecto del imputado a quien se le hubiere otorgado la posibilidad de prestar declaración en el juicio oral, siempre que el tribunal estimare que su ulterior presencia no resulta indispensable para la prosecución del juicio o cuando sólo faltare la dictación de la sentencia.
 
 La suspensión de la audiencia o la interrupción del juicio oral por un período que excediere de diez días impedirá su continuación. En tal caso, el tribunal deberá decretar la nulidad de lo obrado en él y ordenar su reinicio.
+
+En aquellos casos en que, debido al número de imputados, o de querellantes, o de la prueba ofrecida, el juicio oral se extendiera por más de seis meses, el tribunal podrá suspender la audiencia hasta por tres veces adicionales a las dos señaladas en el inciso primero; y si en las mismas circunstancias el juicio oral se extendiera por más de un año, el tribunal podrá suspender la audiencia hasta por seis veces adicionales a las dos señaladas en el inciso primero. El plazo total de estas suspensiones no podrá extenderse por más de treinta días en el primer caso, ni de sesenta en el segundo.
 
 Cuando fuere necesario suspender la audiencia, el tribunal comunicará verbalmente la fecha y hora de su continuación, lo que se tendrá como suficiente citación.
 
@@ -2964,7 +2986,7 @@ En el caso de condena, el tribunal deberá resolver sobre las circunstancias mod
 
 #### Artículo 344
 
-Plazo para redacción de la sentencia. Al pronunciarse sobre la absolución o condena, el tribunal podrá diferir la redacción del fallo y, en su caso, la determinación de la pena hasta por un plazo de cinco días, fijando la fecha de la audiencia en que tendrá lugar su lectura. No obstante, si el juicio hubiere durado más de cinco días, el tribunal dispondrá, para la fijación de la fecha de la audiencia para su comunicación, de un día adicional por cada dos de exceso de duración del juicio. El transcurso de estos plazos sin que hubiere tenido lugar la audiencia citada, constituirá falta grave que deberá ser sancionada disciplinariamente. Sin perjuicio de ello, se deberá citar a una nueva audiencia de lectura de la sentencia, la que en caso alguno podrá tener lugar después del segundo día contado desde la fecha fijada para la primera. Transcurrido este plazo adicional sin que se comunicare la sentencia se producirá la nulidad del juicio, a menos que la decisión hubiere sido la de absolución del acusado. Si, siendo varios los acusados, se hubiere absuelto a alguno de ellos, la repetición del juicio sólo comprenderá a quienes hubieren sido condenados.
+Plazo para redacción de la sentencia. Al pronunciarse sobre la absolución o condena, el tribunal podrá diferir la redacción del fallo y, en su caso, la determinación de la pena hasta por un plazo de cinco días, fijando la fecha de la audiencia en que tendrá lugar su lectura. No obstante, si el juicio hubiere durado más de cinco días, el tribunal dispondrá, para la fijación de la fecha de la audiencia para su comunicación, de un día adicional por cada dos de exceso de duración del juicio. En ambos casos, si el vencimiento del plazo para la redacción del fallo coincidiere con un día domingo o festivo, el plazo se diferirá hasta el día siguiente que no sea domingo o festivo. El transcurso de estos plazos sin que hubiere tenido lugar la audiencia citada, constituirá falta grave que deberá ser sancionada disciplinariamente. Sin perjuicio de ello, se deberá citar a una nueva audiencia de lectura de la sentencia, la que en caso alguno podrá tener lugar después del segundo día contado desde la fecha fijada para la primera. Transcurrido este plazo adicional sin que se comunicare la sentencia se producirá la nulidad del juicio, a menos que la decisión hubiere sido la de absolución del acusado. Si, siendo varios los acusados, se hubiere absuelto a alguno de ellos, la repetición del juicio sólo comprenderá a quienes hubieren sido condenados.
 
 El vencimiento del plazo adicional mencionado en el inciso precedente sin que se diere a conocer el fallo, sea que se produjere o no la nulidad del juicio, constituirá respecto de los jueces que integraren el tribunal una nueva infracción que deberá ser sancionada disciplinariamente.
 
@@ -3148,13 +3170,13 @@ Recurso de Nulidad
 
 #### Artículo 372
 
-Del recurso de nulidad. El recurso de nulidad se concede para invalidar el juicio oral y la sentencia definitiva, o solamente ésta, por las causales expresamente señaladas en la ley.
+Del recurso de nulidad. El recurso de nulidad se concede para invalidar el juicio oral total o parcialmente junto con la sentencia definitiva, o sólo esta última, según corresponda, por las causales expresamente señaladas en la ley.
 
 Deberá interponerse, por escrito, dentro de los diez días siguientes a la notificación de la sentencia definitiva, ante el tribunal que hubiere conocido del juicio oral.
 
 #### Artículo 373
 
-Causales del recurso. Procederá la declaración de nulidad del juicio oral y de la sentencia:
+Causales del recurso. Procederá la declaración de nulidad total o sólo la parcial del juicio oral y de la sentencia, si el vicio hubiere generado efectos que son divisibles y subsanables por separado sólo respecto de determinados delitos o recurrentes:
 
 a) Cuando, en la cualquier etapa del procedimiento o en el pronunciamiento de la sentencia, se hubieren infringido sustancialmente derechos o garantías asegurados por la Constitución o por los tratados internacionales ratificados por Chile que se encuentren vigentes, y
 
@@ -3162,7 +3184,7 @@ b) Cuando, en el pronunciamiento de la sentencia, se hubiere hecho una errónea 
 
 #### Artículo 374
 
-Motivos absolutos de nulidad. El juicio y la sentencia serán siempre anulados:
+Motivos absolutos de nulidad. El juicio oral y la sentencia, o parte de éstos, serán siempre anulados:
 
 a) Cuando la sentencia hubiere sido pronunciada por un tribunal incompetente, o no integrado por los jueces designados por la ley; cuando hubiere sido pronunciada por un juez de garantía o con la concurrencia de un juez de tribunal de juicio oral en lo penal legalmente implicado, o cuya recusación estuviere pendiente o hubiere sido declarada por tribunal competente; y cuando hubiere sido acordada por un menor número de votos o pronunciada por menor número de jueces que el requerido por la ley, o con concurrencia de jueces que no hubieren asistido al juicio;
 
@@ -3252,7 +3274,7 @@ b) Si, respecto del recurso fundado en la causal del artículo 373, letra b), la
 
 Fallo del recurso. La Corte deberá fallar el recurso dentro de los veinte días siguientes a la fecha en que hubiere terminado de conocer de él.
 
-En la sentencia, el tribunal deberá exponer los fundamentos que sirvieren de base a su decisión; pronunciarse sobre las cuestiones controvertidas, salvo que acogiere el recurso, en cuyo caso podrá limitarse a la causal o causales que le hubieren sido suficientes, y declarar si es nulo o no el juicio oral y la sentencia definitiva reclamados, o si solamente es nula dicha sentencia, en los casos que se indican en el artículo siguiente.
+En la sentencia, el tribunal deberá exponer los fundamentos que sirvieren de base a su decisión; pronunciarse sobre las cuestiones controvertidas, salvo que acogiere el recurso, en cuyo caso podrá limitarse a la causal o causales que le hubieren sido suficientes, y declarar si es nulo o no total o parcialmente el juicio oral y la sentencia definitiva reclamados, o si solamente es nula dicha sentencia, en los casos que se indican en el artículo siguiente.
 
 El fallo del recurso se dará a conocer en la audiencia indicada al efecto, con la lectura de su parte resolutiva o de una breve síntesis de la misma.
 
@@ -3264,7 +3286,9 @@ La sentencia de reemplazo reproducirá las consideraciones de hecho, los fundame
 
 #### Artículo 386
 
-Nulidad del juicio oral y de la sentencia. Salvo los casos mencionados en el artículo 385, si la Corte acogiere el recurso anulará la sentencia y el juicio oral, determinará el estado en que hubiere de quedar el procedimiento y ordenará la remisión de los autos al tribunal no inhabilitado que correspondiere, para que éste disponga la realización de un nuevo juicio oral.
+Nulidad del juicio oral y de la sentencia. Salvo los casos mencionados en el artículo 385, si la Corte acogiere el recurso anulará total o parcialmente la sentencia y el juicio oral, determinará el estado en que hubiere de quedar el procedimiento y ordenará la remisión de los autos al tribunal no inhabilitado que correspondiere, para que éste disponga la realización de un nuevo juicio oral.
+
+En caso de que se declare la nulidad parcial del juicio oral y la sentencia, existiendo pluralidad de delitos o de imputados, la Corte deberá precisar a qué prueba, a qué hechos y a qué imputados afecta la declaración de nulidad parcial del juicio oral y la sentencia.
 
 No será obstáculo para que se ordene efectuar un nuevo juicio oral la circunstancia de haberse dado lugar al recurso por un vicio o defecto cometido en el pronunciamiento mismo de la sentencia.
 
@@ -3358,19 +3382,23 @@ Primeras actuaciones de la audiencia. Al inicio de la audiencia, el tribunal efe
 
 #### Artículo 395
 
-Resolución inmediata. Una vez efectuado lo prescrito en el artículo anterior, el tribunal preguntará al imputado si admitiere responsabilidad en los hechos contenidos en el requerimiento o si, por el contrario, solicitare la realización de la audiencia. Para los efectos de lo dispuesto en el presente inciso, el fiscal podrá modificar la pena requerida para el evento de que el imputado admitiere su responsabilidad.
+Resolución inmediata. Una vez efectuado lo prescrito en el artículo anterior, el tribunal preguntará al imputado si admite responsabilidad en los hechos contenidos en el requerimiento o si, por el contrario, solicitará la realización de la audiencia. Para los efectos de lo dispuesto en el presente inciso, en caso de que del imputado admitiere su responsabilidad, el fiscal podrá modificar la pena requerida y solicitar una pena inferior en un grado al mínimo de los señalados por la ley y en el caso de la multa, podrá solicitar una inferior al mínimo legal.
 
-En los casos de los delitos señalados en el artículo 449 del Código Penal, el fiscal podrá solicitar una pena inferior en un grado al mínimo de los señalados por la ley, debiendo considerar previamente lo establecido en las reglas 1a y 2a del artículo 449 del mismo cuerpo legal.
+Con todo, la regla señalada en el inciso anterior sobre la facultad del fiscal para modificar la pena, sólo será aplicable en la primera audiencia a la que se haya citado al imputado, o en la nueva audiencia a la que se le deba citar, cuando su no comparecencia se encuentre debidamente justificada.
+
+Si el imputado compareciere a una nueva audiencia, en razón de su inasistencia injustificada a la primera audiencia a la que se haya citado, su admisión de responsabilidad podrá ser considerada por el fiscal como suficiente para estimar que concurre la circunstancia atenuante del artículo 11, Nº 9, del Código Penal, sin perjuicio de las demás reglas que fueren aplicables para la determinación de la pena.
 
 Si el imputado admitiere su responsabilidad en el hecho, el tribunal dictará sentencia inmediatamente. En estos casos, el juez no podrá imponer una pena superior a la solicitada en el requerimiento, permitiéndose la incorporación de antecedentes que sirvieren para la determinación de la pena.
 
 #### Artículo 395 bis
 
-Preparación del juicio simplificado. Si el imputado no admitiere responsabilidad, el juez procederá, en la misma audiencia, a la preparación del juicio simplificado, el cual tendrá lugar inmediatamente, si ello fuere posible, o a más tardar dentro de quinto día.
+Preparación del juicio simplificado. Si el imputado no admitiere responsabilidad, el juez procederá en la misma audiencia e inmediatamente a la preparación del juicio simplificado, salvo que esta audiencia coincida con la del artículo 132, en cuyo caso la preparación del juicio podrá realizarse a más tardar dentro de quinto día.
 
 #### Artículo 396
 
-Realización del juicio. El juicio simplificado comenzará dándose lectura al requerimiento del fiscal y a la querella, si la hubiere. En seguida se oirá a los comparecientes y se recibirá la prueba, tras lo cual se preguntará al imputado si tuviere algo que agregar. Con su nueva declaración o sin ella, el juez pronunciará su decisión de absolución o condena, y fijará una nueva audiencia, para dentro de los cinco días próximos, para dar a conocer el texto escrito de la sentencia.
+Realización del juicio. El juicio simplificado deberá tener lugar en la misma audiencia en que se proceda con su preparación, si ello fuere posible, o a más tardar dentro de trigésimo día.
+
+El juicio simplificado comenzará dándose lectura al requerimiento del fiscal y a la querella, si la hubiere. En seguida, se oirá a los comparecientes y se recibirá la prueba, tras lo cual se preguntará al imputado si tuviere algo que agregar. Con su nueva declaración o sin ella, el juez pronunciará su decisión de absolución o condena, y fijará una nueva audiencia, para dentro de los cinco días próximos, para dar a conocer el texto escrito de la sentencia. Sin perjuicio de lo anterior, si el vencimiento del plazo para la redacción del fallo coincidiere con un día domingo o festivo, el plazo se diferirá hasta el día siguiente que no sea domingo o festivo.
 
 La audiencia no podrá suspenderse, ni aun por falta de comparecencia de alguna de las partes o por no haberse rendido prueba en la misma.
 
@@ -3445,6 +3473,8 @@ La existencia de varios acusados o la atribución de varios delitos a un mismo a
 #### Artículo 407
 
 Oportunidad para solicitar el procedimiento abreviado. Una vez formalizada la investigación, la tramitación de la causa conforme a las reglas del procedimiento abreviado podrá ser acordada en cualquier etapa del procedimiento, hasta la audiencia de preparación del juicio oral.
+
+Sin perjuicio de lo señalado en el inciso precedente, podrá solicitarse el procedimiento abreviado, aun cuando hubiere finalizado la audiencia de preparación del juicio oral y hasta antes del envío del auto de apertura al tribunal de juicio oral en lo penal. La solicitud se resolverá de conformidad a lo establecido en el artículo 280 bis.
 
 Si no se hubiere deducido aún acusación, el fiscal y el querellante, en su caso, las formularán verbalmente en la audiencia que el tribunal convocare para resolver la solicitud de procedimiento abreviado, a la que deberá citar a todos los intervinientes. Deducidas verbalmente las acusaciones, se procederá en lo demás en conformidad a las reglas de este Título.
 
