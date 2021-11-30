@@ -50,8 +50,14 @@ Mediante resolución del Director del Serviu respectivo, se determinarán los mo
 
 7. Para efectos de la imputación de los recursos comprometidos en el resuelvo anterior, se descontarán del Programa Regular del Fondo Solidario de Elección de Vivienda de las regiones del Biobío y Metropolitana 14.435,55 Unidades de Fomento, y 32.115,40 Unidades de Fomento, respectivamente, y 88.131,94 Unidades de Fomento a los recursos Sin Regionalizar identificados en la Circular Nº 1, de 25 de enero de 2021, del Subsecretario de Vivienda y Urbanismo.
 
+> **Nota.** Los literales a), b) y d) del numeral 2 de la Resolución 1866 Exenta, Vivienda, publicada el 30.11.2021, modifican los cuadros de los resuelvos 2, 5 y 7 de la presente norma, respectivamente, en la forma que la citada norma indica.
+
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
 
-.
+ANEXO ÚNICO
+
+NÓMINA DE PROYECTOS SELECCIONADOS LLAMADO EFECTUADO MEDIANTE RESOLUCIÓN Nº 325 EXENTA (V. Y U.), DE 2021, SELECCIÓN CIERRE 10 DE JUNIO DE 2021.
+
+> **Nota.** NOTA 1 El literal e) del numeral 2 de la Resolución 1866 Exenta, Vivienda, publicada el 30.11.2021, modifica el cuadro del presente Anexo Único, en la forma que la citada norma indica.
