@@ -8,7 +8,7 @@ Lo dispuesto en el artículo 90°, inciso segundo, del Código Sanitario, aproba
 
 Considerando:
 
-1. Que, se ha solicitado a este Ministerio la autorización para la comercialización de las marcas de productos de tabaco Marlboro, en sus variantes Exotic Zest (en cajetilla dura de 20 y 80 unidades de cigarrillos en cada una), comercializada por la empresa Philip Morris Chile Comercializadora Limitada, RUT N° 76.493.675-2.
+1. Que, se ha solicitado a este Ministerio la autorización para la comercialización de las marcas de productos de tabaco Marlboro, en sus variantes Exotic Zest (en cajetilla dura de 20 y 80 unidades de cigarrillos en cada una), comercializada por la empresa Philip Morris Chile Comercializadora Limitada, RUT N° 77.619.830-7.
 
 2. Que, evaluados los antecedentes aportados por dicha empresa y evacuado el informe técnico pertinente por parte de la Oficina de Tabaco de la División de Políticas Públicas Saludables y Promoción del Ministerio de Salud, se ha considerado que la solicitud en análisis es favorable.
 
