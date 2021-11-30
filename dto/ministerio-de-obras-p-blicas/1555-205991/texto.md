@@ -124,6 +124,8 @@ Acceso a Michaihue.
 
 . El tramo urbano de la Ruta O-680, Agua de La Gloria - El Queule - Hualqui, desde el límite urbano Metropolitano Norte de Concepción hasta la Ruta O-60, a través de: Ruta Chaimávida - Hualqui.
 
+. El sistema vial que interconecta los accesos a los puentes Bicentenario e Industrial, a través de: Avenida Ribera Sur, Violeta Parra y Avenida Ribera Sur.
+
 4º Declárase Caminos Públicos en las áreas urbanas de las siguientes Capitales de Provincia, dando continuidad a las rutas antes indicadas, a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 Chillán:
