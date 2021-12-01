@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento Nº 1037, de 29 de octubre de 2021, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 274, Rol de avalúo 1096-801, Comuna de Quillón, superficie 203 m2., para la obra: REPOSICIÓN RUTA 148 SECTOR: CRUCE RUTA 5 - PUENTE QUEIME, COMUNA DE QUILLÓN, PROVINCIA DE DIGUILLÍN, REGIÓN DE ÑUBLE. La comisión de peritos, integrada por VALERIA DEL CARMEN MARDONEZ LEMA, VALESKA CAROLINA ALÉ GOÑI y MARÍA PAMELA MAC-GUIRE ACEVEDO, fijó el valor de tasación con fecha 31 de marzo de 2020, acordándose la indemnización con su propietaria ALICIA DEL CARMEN PAREDES TORRES, en la cantidad total de $19.279.759.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
