@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1066, de 08 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 3-1, para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO COLLIPULLI - TEMUCO SECTOR: PASARELA PEATONAL LA HUALLIZADA KM. 630.500,00 A KM. 631.240,00, que figura a nombre de LEMONAO QUININAO MANUEL SEGUNDO, rol de avalúo 217-9, Comuna de PERQUENCO, REGION DE LA ARAUCANÍA, superficie 480 m2. La Comisión de Peritos nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº329, de 31 de Agosto de 2021, integrada por EVALDO ROBERTO CONTRERAS ROA, JORGE ESTEBAN CASAGRANDE SAAVEDRA y KARIN ALICIA ERNST ELIZALDE, mediante informe de tasación de 18 de octubre de 2021, fijó el monto de la indemnización provisional en la cantidad de S1.686.000 para el lote Nº3-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
