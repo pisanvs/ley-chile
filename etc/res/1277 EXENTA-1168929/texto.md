@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.277, del 8 de septiembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambali Nº 346, comuna de Chillán, Rol de avalúo Nº 00643-00020, de aparente dominio de Betanzo Morales Juan Carlos. La parte afecta a expropiación parcial de terreno es de 130,82 m2 y total de 57,77 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-069, para el proyecto "Mejoramiento Avenida Huambali comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, Constructor Civil don Ítalo Renzo Zerga Arancibia y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación en la suma de $40.805.703.-
+
+Director Serviu Región de Ñuble.
