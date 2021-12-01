@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 285, de fecha 19 de julio de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Patricia Elizabeth Tapia Gutiérrez, RUT N° 8.687.665-5, Concesión Marítima Menor, con vencimiento el 31 de diciembre de 2026, sobre un sector de terreno de playa en el lugar denominado Flamenco, comuna de Chañaral, Provincia de Chañaral, Región de Atacama, con una superficie total de 170.2 m2, la que fue tramitada con el SIABC N° 46.333. A modo referencial se señalan las siguientes coordenadas geográficas: Vértice A: Lat. 26°33'13.84"S Long. 70°40'55.62"W y Vértice D: Lat. 26°33'14.22"S Long. 70°40'55.71"W. El objeto consiste en construir una casa de veraneo familiar. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Alejandro León Solari, Teniente 1° LT., Capitán de Puerto de Chañaral.
