@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo de Marina 210, de fecha 28 de mayo de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se otorgó concesión marítima menor al señor Carlos Patricio Encina Aguilar, RUT: 11.676.561-6, con vencimiento 30 de junio de 2026, sobre un sector de terreno de playa, en el lugar el denominado Playa Los Gringos, comuna Constitución, Región del Maule, con una superficie de 348,16 metros2. La que fue tramitada con el SIABC N° 33015. A modo referencial se señala la siguiente coordenada geográfica: Latitud 35°19'35,11"S, Longitud 72°25'39,67"W. El objeto de esta concesión marítima, sobre el sector otorgado, consistente en amparar la construcción de un local comercial correspondiente a un restaurant. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Constitución. El presente extracto se encuentra visado por la autoridad marítima antes señalada.-
+
+Diego Aguilera Modrow, Capitán de Corbeta LT., Capitán de Puerto de Constitución.
