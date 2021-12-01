@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.736, del 26 de octubre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Collin 700 Int., comuna de Chillán, Rol de Avalúo Nº 00680-00019, de aparente dominio de Espinoza Quiroz Nita Paulina. La parte afecta a expropiación total de terreno es de 247,26 m2 y total de 192,56 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-018, para el proyecto "Mejoramiento Avenida Huambalí comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto don Mario Fabrizzio Bellolio Bostica, constructor civil don Ítalo Renzo Zerga Arancibia y por el ingeniero civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $141.805.754.-
+
+Director Serviu Región de Ñuble.
