@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.159, 24 de noviembre de 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación de un inmueble ubicado en Collao 1070 ST 4, Rol de Avalúo Nº 307-3, comuna de Concepción, de aparente dominio de Padilla Arredondo Ibar, superficie afecta expropiación parcial de terreno es de 56,49 m2 (Lote 118) y expropiación total de edificación de 8,25 m2, según Plano S8R-40165-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida PAR Vial Collao-General Novoa" comuna de Concepción, Región del Biobío, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Rodrigo Escobar Fernández, arquitecta Marcela Melo Rodríguez y arquitecta Daniela Cortez Moraga, según informe de fecha 25.05.2021, fijó monto provisional indemnización en $19.973.007 más una suma de $774.953, por concepto de reajuste del artículo 5º del DL 2186 de 1978, que dan la cifra de $20.747.960.-
+
+Director Serviu Región del Biobío.
