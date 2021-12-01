@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1128, de 08 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 67-A, 67-B y 67-C, para la obra: MEJORAMIENTO RUTA 1-45 SECTOR PUENTE NEGRO - LA RUFINA, que figuran a nombre de ORTEGA MUNOZ VICTORINO ARNOLDO, rol de avalúo 412-29, Comuna de SAN FERNANDO, REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficies 17, 19 y 10 m2 respectivamente. La Comisión de Peritos integrada por ANDRES RAINER SCHULZ VILLANUEVA, ALEJANDRO GREGORIO PADILLA HENRIQUEZ y MARLENE TERESA RÍOS MARCUELLO, mediante informe de tasación de 16 de diciembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $557.800 para el lote N°67-A, $515.600 para el lote N°67-B, y $864.000 para el lote N°67-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
