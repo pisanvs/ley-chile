@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 3.768 de fecha 24/11/2021, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pablo Neruda y Simón Bolívar/Imperial, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Sitio número 8 de la manzana siete, de la Población Dreves, Rol de avalúo: 1565-4, comuna de Temuco. La superficie a expropiar aproximada es de 409,02 metros cuadrados, de aparente dominio de María Elena Lambert Queupumil; Marianne Lucy Cerda Queupumil; María Elena Gumercinda Lambert Queupumil; Margot Juana Lambert Queupumil y Elizabeth Marianne Gómez Cerda. Comisión de Peritos integrada por don Italo Ignacio Cortés Rocco, Eduardo Antonio Yáñez Inzunza y Claudio Marcelo Pezo Muñoz, fijó monto de Indemnización Provisional en $166.020.000 según Informe N° 38-0A, de fecha 18.11.2021, pagadero Contado.
+
+Director Serviu Región de la Araucanía.
