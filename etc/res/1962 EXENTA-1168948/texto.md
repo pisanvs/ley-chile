@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 1.962 del 19 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí 198, comuna de Chillán, Rol de Avalúo N° 00697-00020, de aparente dominio de Rivera Fernández Sebastián Andrés. La parte afecta a expropiación total de terreno es de 171,46 m2 y total de 215,90 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-112, para el proyecto "Mejoramiento Avenida Huambalí, comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, Constructor Civil doña Lorena Elizabeth Gajardo Alarcón y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $88.106.068.-
+
+Director Serviu, Región de Ñuble.
