@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1207, de 11 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 47-B, 49-B y 52-A, para la obra: MEJORAMIENTO Y CONSTRUCCION CAMINO CURANILAHUE - NACIMIENTO POR BAJO LOS RIOS, que figuran a nombre de FORESTAL MININCO S.A., rol de avalúo 318-19, Comuna de NACIMIENTO, REGION DEL BIOBÍO, superficies 129, 229 y 92 m2 respectivamente. La Comisión de Peritos integrada por MARIA PAMELA MAC-GUIRE ACEVEDO, VALERIA DEL CARMEN MARDONEZ LEMA y DORY GISELA DONOSO SALGADO, mediante informe de tasación de 04 de diciembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $548.608 para el lote N°47-B, $795.308 para el lote N°49-B, y $259.984 para el lote N°52-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
