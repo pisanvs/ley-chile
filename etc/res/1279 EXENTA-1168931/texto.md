@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.279, del 8 de septiembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambali Nº 312 B, comuna de Chillán, Rol de avalúo Nº 00643-00029, de aparente dominio de Parra Pino José Luis. La parte afecta a expropiación parcial de terreno es de 155,64 m2 y total de 58,44 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-066, para el proyecto "Mejoramiento Avenida Huambali comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto don Mario Fabrizzio Bellolio Bostica, constructor civil don Ítalo Renzo Zerga Arancibia y por el ingeniero civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación en la suma de $61.814.945.-
+
+Director Serviu Región de Ñuble.
