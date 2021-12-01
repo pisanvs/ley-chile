@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.756, de 29 de octubre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí 266, comuna de Chillán, Rol de Avalúo Nº 00697-00029, de aparente dominio de Aedo Sepúlveda María Hortensia. La parte afecta a expropiación parcial de terreno es de 61,88 m2 y total de 89,12 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-043, para el proyecto "Mejoramiento Avenida Huambalí comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto doña Paola Loreto Martínez Perucca, Arquitecto doña Carolina del Pilar Zuloaga Sanhueza y por el Ingeniero Civil Industrial don Marcelo Esteban Moreno Venegas, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $34.643.207.-
+
+Director Serviu Región de Ñuble.
