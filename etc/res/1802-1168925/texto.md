@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 1.802, de fecha 18 de noviembre de 2021, del Serviu IV Región de Coquimbo, se ordenó expropiar parcialmente, por causa de utilidad pública, para la ejecución del proyecto "Mejoramiento Avenida Cuatro Esquinas Tramo I más calle Los Arrayanes, La Serena", ciudad de La Serena, conforme al artículo 51 ley 16.391 y DL 2.186/78, el inmueble singularizado como Lote 27, en plano de expropiación, ubicado en Cuatro Esquinas Nº 560, de la comuna de La Serena, Rol de avalúo Nº 964-27, de la comuna de La Serena, de aparente dominio de Sociedad de Inversiones Castillo y Compañía Limitada, superficie aprox. de 332,7 m2, Comisión de Peritos conformada por profesionales Miguel Rubio Vega, Francesca Vives Figueroa y Eduardo Tabilo González, según informe de fecha 1 de noviembre de 2021, fijó indemnización provisional en 3.784 UF.-, pagadero al contado.-
+
+Boris Reyes Pantoja, Director (S), Serviu Región de Coquimbo.
