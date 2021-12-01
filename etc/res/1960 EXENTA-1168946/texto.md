@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.960, del 19 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Diagonal Las Termas 216, comuna de Chillán, Rol de Avalúo Nº 00508-00016, de aparente dominio de Nunez Vásquez José Alonso. La parte afecta a expropiación total de terreno es de 180,43 m² y total de 96,94 m² de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-103, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, Arquitecto don Andrés Javier Tobar Beluzan, y por el Arquitecto don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $68.331.789-
+
+Director Serviu Región de Ñuble.
