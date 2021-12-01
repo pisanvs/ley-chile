@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 3.771 de fecha 24/11/2021, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pablo Neruda y Simón Bolívar/Imperial, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Propiedad ubicada en calle San Ernesto número 1151, antes número 498 de la Población Dreves, de una superficie aproximada de 770,44 metros cuadrados, comuna y ciudad de Temuco, Rol de avalúo: 1567-12, comuna de Temuco. La superficie a expropiar aproximada es de 91,96 metros cuadrados, de aparente dominio de Sociedad de Inversiones Liucura Limitada. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Eduardo Antonio Yáñez Inzunza y Claudio Marcelo Pezo Muñoz, fijó monto de Indemnización Provisional en $29.210.000 según Informe Nº 30-0A, de fecha 18.11.2021, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
