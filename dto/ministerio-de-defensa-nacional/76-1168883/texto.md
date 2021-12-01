@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 76, de fecha 18 de febrero de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Federación de Sindicatos de Trabajadores Buzos, Pescadores y Recolectores, RUT 65.754.080-3 concesión marítima menor, con vencimiento el 31 de diciembre de 2030, sobre un sector de terreno de playa, en el sector denominado El Dique, comuna Constitución, Provincia de Talca, Región del Maule, con una superficie total de 896.10 m2, la que fue tramitada con el SIABC Nº 32502, a modo referencial se señala la siguiente coordenada geográfica latitud 35º20'26.63" longitud 72º23'46.62". El objeto consiste en permitir la construcción de una sede destinada a las reuniones y actividades de la federación y habilitar terreno como refugio para embarcaciones y el plazo contemplado para su ejecución es de 30 días. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Constitución, el presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Diego Aguilera Modrow, Capitán de Corbeta LT., Capitán de Puerto de Constitución.
