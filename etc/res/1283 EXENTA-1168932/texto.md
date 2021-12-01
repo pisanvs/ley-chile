@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.283, del 9 de septiembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambali Nº 364, comuna de Chillán, Rol de avalúo Nº 00643-00025, de aparente dominio de Labrín Navarrete Juan Osvaldo. La parte afecta a expropiación total de terreno es de 218,51 m2 y total de 98,13 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-071, para el proyecto "Mejoramiento Avenida Huambali comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto don Mario Fabrizzio Bellolio Bostica, constructor civil don Ítalo Renzo Zerga Arancibia y por el ingeniero civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación en la suma de $87.373.857.-
+
+Director Serviu Región de Ñuble.
