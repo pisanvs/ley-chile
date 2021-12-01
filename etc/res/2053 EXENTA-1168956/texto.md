@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.053, de 17 de noviembre 2021, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Colón 8411 Bco. Encalada, Rol de Avalúo Nº 3522-2, comuna de Hualpén, de aparente dominio de Figueroa Rodríguez Juan Bautista, en una superficie de 233,26 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-34.997-2, para la ejecución de las obras del proyecto "Construcción Corredor de Transporte Público Colón, Perales-Alessandri", Tramo 4A, comuna de Hualpén", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Victoria García Silvera, por arquitecto Andrés Tobar Beluzán y por arquitecto Alexander Boye Trenit, según informe de fecha 31.08.2021, fijó monto provisional indemnización, más reajuste artículo 5º DL 2.186, en la suma de $42.677.028, pagadera de contado.-
+
+Director Serviu Región del Biobío.
