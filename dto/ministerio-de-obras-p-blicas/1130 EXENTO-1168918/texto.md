@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 1130, de 08 de noviembre de 2021, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº495, de 28 de junio de 2019, en la parte que se refiere al Convenio Directo de Precio, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización de los lotes de terreno Nºs 51 y 52 y modificó el numeral segundo que se refiere al nombre del propietario, expropiado con motivo de la obra: "Mejoramiento Ruta V-69, Sector Ralun - Cochamo, Comuna Cochamo", Provincia de Llanquihue, Región de Los Lagos, que figura actualmente a nombre de PATAGONIA INGENIERIA LTDA, Comuna de Cochamo, Región de Los Lagos. Consígnese judicialmente el monto provisional de la indemnización fijada mediante informe de tasación de 22 de julio de 2016, ascendente a la cantidad de $46.360, para el lote Nº51 y $1.125.200, para el lote Nº52. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
