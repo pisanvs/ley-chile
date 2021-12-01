@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 1.278, del 8 de septiembre de 2021, Serviu Region de Ñuble ordenó expropiación de inmueble ubicado en Huambali N° 370, comuna de Chillán, Rol de avalúo N° 00643-00011, de aparente dominio de Vergara Escobra Jorge Antonio. La parte afecta a expropiación parcial de terreno es de 193,84 m2 y total de 35,38 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano Sl6R-072, para el proyecto "Mejoramiento Avenida Huambali comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, Constructor Civil don Ítalo Renzo Zerga Arancibia y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación en la suma de $61.814.945.-
+
+Director Serviu Región de Ñuble.
