@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1055, de 08 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 1, 2 y 3, para la obra: SISTEMA DE AGUA POTABLE RURAL CHALACO, que figuran a nombre de VALENCIA CARMONA LASTENIA, VALENCIA CARMONA LASTENIA y SOC AGR GAN CHALACO LTDA, roles de avalúo 102-35, 102-35 y 102-2, Comuna de PETORCA, REGIÓN DE VALPARAÍSO, superficies 125, 905 y 1.167 m2. respectivamente. La Comisión de Peritos integrada por CAROLINA CLAUDIA VERDEJO DÍAZ, HANDY GHISLAINE CAMPOS SEPÚLVEDA y PATRICIA VERÓNICA ZAVALA CONTRERAS, mediante informe de tasación de 13 de octubre de 2021, fijó el monto de la indemnización provisional en la cantidad de $43.750, para el lote N°1, $316.750, para el lote N°2 y $408.450, para el lote N°3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
