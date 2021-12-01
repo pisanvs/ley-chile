@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.054, 17 de noviembre 2021, Serviu Región del Biobío ordenó la expropiación parcial de terreno y total de edificación del inmueble ubicado en Colón 8531 8543, Rol de Avalúo Nº 3524-2, comuna de Hualpén, de aparente dominio de Valenzuela Mella José M Suc. La superficie afecta expropiación parcial de terreno es de 101,43 m2 (Lote 53), y de 58,24 m2 de expropiación Total de edificación y cuyos linderos señalados en plano S8R-37633-2, para la ejecución de la obra Construcción Corredor Trasporte Público Colón, Perales-Alessandri, Tramo 4A. Región del Biobío, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión de Peritos, integrada por el arquitecto Victoria Eugenia García Silvera, por el arquitecto Andrés Javier Tobar Beluzán, por arquitecto Alexander Theodor Boye Trenit, que fijó el monto de la indemnización provisional por la expropiación en la suma de $18.685.412.- más una suma de $472.741 por concepto de reajuste del artículo 5º del DL 2.186 de 1978, lo que da un total de $19.158.153.-
+
+Director Serviu Región del Biobío.
