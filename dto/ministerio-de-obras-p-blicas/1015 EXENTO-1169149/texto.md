@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1015, de 29 de octubre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 7 y 8, para la obra: SISTEMA DE AGUA POTABLE RURAL VIÑA LA VEGA, que figuran a nombre de SOC. AGRICOLA NUEVA OVIEDO LTDA., roles de avalúo 203-181, Comuna de CABILDO, REGIÓN DE VALPARAÍSO, superficies 3.043 y 386 m2. respectivamente. La Comisión de Peritos integrada por HANDY GHISLAINE CAMPOS SEPULVEDA, PATRICIA ANGELICA MORALES RIVERA y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 14 de mayo de 2021, fijó el monto de la indemnización provisional en la cantidad de $25.840.685, para el lote N°7 y $833.400, para el lote N°8. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
