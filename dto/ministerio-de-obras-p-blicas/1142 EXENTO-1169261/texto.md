@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1142, de 08 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 135, para la obra: MEJORAMIENTO RUTA L-45, SECTOR EL PEÑASCO-RETEN LOS HUALLES, que figura a nombre de DE TOMAS LIO GUZMAN ANNA MARIA, rol de avalúo 554-719, Comuna de LINARES, REGION DEL MAULE, superficie 72 m2. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 24 de junio de 2020, fijó el monto de la indemnización provisional en la cantidad de $1.889.200 para el lote N°135. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
