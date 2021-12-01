@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1111, de 08 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 28-A1 y 28-B1, para la obra: MEJORAMIENTO CAMINO RUTA U-95, SECTOR COÑICO - PUERTO OCTAY, que figuran a nombre de LOEBEL KUSCHEL TERESA, roles de avalúo 308-17, Comuna de PUERTO OCTAY, REGIÓN DE LOS LAGOS, superficies 1.530 y 2.373 m2. respectivamente. La Comisión de Peritos integrada por NICOLAS ALEJANDRO ALARCON SANCHEZ, SONIA CATALINA GALLEGOS BLANCH y HANDY GHISLAINE CAMPOS SEPULVEDA, mediante informe de tasación de 01 de marzo de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.989.000, para el lote N°28-A1 y $5.226.400, para el lote N°28-B1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
