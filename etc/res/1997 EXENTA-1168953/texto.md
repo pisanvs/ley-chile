@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.997, del 23 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí Nº 294, comuna de Chillán, Rol de Avalúo Nº 00697-00032, de aparente dominio de Salvo Pinochet Erika de la Mercede. La parte afecta a expropiación parcial de terreno es de 46,98 m2 y total de 184,90 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-063, para el proyecto "Mejoramiento Avenida Huambalí comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por la Arquitecto doña Paola Loreto Martínez Perucca, Arquitecto doña Carolina del Pilar Zuloaga Sanhueza, y por el Ingeniero Civil Industrial don Marcelo Esteban Moreno Venegas, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $70.732.202.-
+
+Director Serviu Región de Ñuble.
