@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1057, de 08 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N°1, para la obra: SERVICIO DE AGUA POTABLE RURAL COLEGUAL, que figura a nombre de IBANEZ CARRILLO SANDRA LORENA, rol de avalúo 1431-162, Comuna de LLANQUIHUE, REGIÓN DE LOS LAGOS, superficie 81,55 m2. La Comisión de Peritos integrada por HANDY GHISLAINE CAMPOS SEPULVEDA, SERGIO JEREMIAS ORDENES SALINAS y NICOLAS ALEJANDRO ALARCON SANCHEZ, mediante informe de tasación de 08 de octubre de 2021, fijó el monto de la indemnización provisional en la cantidad de $309.890, para el lote N°1, La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
