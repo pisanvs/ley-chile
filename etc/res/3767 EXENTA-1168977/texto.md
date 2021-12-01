@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 3.767 de fecha 24/11/2021, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pablo Neruda y Simón Bolívar/Imperial, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Propiedad ubicada en calle León Gallo número 0322 y que corresponde al Lote número nueve - B, de una superficie de 667,48 metros cuadrados, resultante de la subdivisión del sitio 9 de la manzana 7 de la población Dreves de esta ciudad de Temuco, de diez metros de frente por noventa y un metros veinticinco centímetros de fondo, Rol de avalúo: 1565-14, comuna de Temuco. La superficie a expropiar aproximada es de 116,46 metros cuadrados, de aparente dominio de Paz Soledad Barrientos Henríquez. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Eduardo Antonio Yáñez Inzunza y Claudio Marcelo Pezo Muñoz, fijó monto de Indemnización Provisional en $35.640.000 según Informe N° 40-0A, de fecha 18.11.2021, pagadero Contado.
+
+Director Serviu Región de la Araucanía.
