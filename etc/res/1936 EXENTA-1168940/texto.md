@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.936 del 17 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Alonso de Ercilla 1079, comuna de Chillán, Rol de Avalúo Nº 00644-00009, de aparente dominio de Sandoval Bravo Luis Alberto y Otro. La superficie afecta a expropiación Parcial es de 809,23 m² de terreno, cuyos linderos particulares están enmarcados en el plano S16R-074, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, la Ingeniero Constructor doña Lorena Elizabeth Gajardo Alarcón, y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $152.447.406.-
+
+Director Serviu Región de Ñuble.
