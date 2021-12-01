@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Exenta N° 1.961 del 19 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí 220, comuna de Chillán, Rol de Avalúo N° 00697-00023, de aparente dominio de Fuentealba Bastías Rebe Eduardo. La parte afecta a expropiación parcial de terreno es de 67,24 m2 y total de 90,79 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-113, para el proyecto "Mejoramiento Avenida Huambalí comuna de Chillán", conforme artículo 51 Ley 16.391 y DL 2186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, Constructor doña Lorena Elizabeth Gajardo Alarcón y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $38.729.592.-
+
+Director Serviu, Región de Ñuble.
