@@ -52,17 +52,19 @@ Decreto:
 
 2. Modifícase la denominación y dependencia orgánica de las siguientes unidades:
 
-a. El Regimiento Reforzado N° 7 "Chacabuco", del Coronel Domingo Toro Herrera, con guarnición en Concepción, dependiente de la II División Motorizada, por Regimiento N° 6 "Chacabuco", del Coronel Marcial Pinto Agüero, con guarnición en Concepción, dependiente de la Brigada "Maule".
+a. El Regimiento Reforzado N° 7 "Chacabuco", del Coronel Domingo Toro Herrera, con guarnición en Concepción, dependiente de la II División Motorizada, porRegimiento N°6 "Chacabuco", del Coronel Marcial Pinto Agüero, con Guarnición en Concepción, dependiente de la II División Motorizada.
 
-b. El Regimiento de Infantería N° 9 "Chillán", del General Cornelio Saavedra, con guarnición en Chillán, dependiente de la II División Motorizada, por Regimiento N° 9 "Chillán", del Comandante Juan Antonio Varas Pinochet, con guarnición en Chillán, dependiente de la Brigada "Maule".
+b. El Regimiento de Infantería N° 9 "Chillán", del General Cornelio Saavedra, con guarnición en Chillán, dependiente de la II División Motorizada, por Regimiento N°9 "Chillán", del Comandante Juan Antonio Varas Pinochet, con Guarnición en Chillán, dependiente de la II División Motorizada.
 
-c. El Regimiento de Infantería N° 16 "Talca", del Coronel José Silvestre Urizar Garfias, con guarnición en Talca, dependiente de la III División de Montaña, por Regimiento N° 16 "Talca", del Coronel José Silvestre Urízar Garfias, con guarnición en Talca, dependiente de la Brigada "Maule".
+c. El Regimiento de Infantería N° 16 "Talca", del Coronel José Silvestre Urizar Garfias, con guarnición en Talca, dependiente de la III División de Montaña, por Regimiento N°16 "Talca", del Coronel José Silvestre Urizar Garfias, con Guarnición en Talca, dependiente de la II División Motorizada.
 
 3. Lo establecido en el presente decreto supremo, no afectará las plantas autorizadas del Ejército y no originará mayores gastos.
 
 4. La Brigada "Maule", desarrollará en forma centralizada los procesos de personal, administrativos, logísticos, instrucción y entrenamiento de los Regimientos N° 6 "Chacabuco", N° 9 "Chillán" y N° 16 "Talca", optimizando además, las operaciones de ayuda humanitaria, en el contexto de las operaciones militares distintas de la guerra (desastres y catástrofes), que se generen en las zonas jurisdiccionales de cada unidad regimentaría señalada.
 
 5. Facúltese al Comandante en Jefe del Ejército para nombrar a un oficial superior para que se desempeñe como Comandante de la Brigada "Maule".
+
+> **Nota.** El numeral 1° del Decreto 159, Defensa, publicado el 01.12.2021, modifica la presente norma en el sentido de indicar el cese de la Brigada "Maule", con asiento en la Guarnición de Concepción, dependiente de la II División Motorizada.
 
 Anótese, tómese razón, regístrese, comuníquese y publíquese en el Diario Oficial y en el Boletín Oficial del Ejército de Chile.- MICHELLE BACHELET JERIA, Presidenta de la República.- José Antonio Gómez Urrutia, Ministro de Defensa Nacional.
 
