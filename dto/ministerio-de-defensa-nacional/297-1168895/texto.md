@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 297, de fecha 6 de agosto de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Adrián Gilberto Muñoz Muñoz, RUT 15.644.942-3, Concesión Marítima Menor, con vencimiento 30 de junio de 2031, sobre un sector de playa y uso de mejora fiscal, en el lugar denominado Punta Coyumbué, Comuna de Curaco de Vélez, Provincia de Chiloé, Región de Los Lagos, con una superficie total de 163,8 m2, la que fue tramitada con el SIABC Nº 46.914. A modo referencial se señala la siguiente coordenada geográfica: Vértice A, Lat. 42º 23' 17,156" S, Long. 73º 39' 19,176" W. El objeto consiste en regularizar el uso de mejora fiscal existente, consistente en un palafito destinado a restaurante y 2 bodegas. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Achao. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Dennis Gallardo Salinas, Sargento 1° L (Seg.M.), Capitán de Puerto de Achao.
