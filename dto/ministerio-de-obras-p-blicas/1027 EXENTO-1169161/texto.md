@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1027, de 29 de octubre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 7 y 8. para la obra: AMPLIACION RUTA F-30-E, SECTOR CRUCE RUTA F-20 - CONCON, que figuran a nombre de CARLOS F. BONTEMPI PRIETO y BOMTEMPI PRIETO CARLOS Y OTROS, roles de avalúo 263-33 y 270-36, Comuna de QUINTERO, REGIÓN DE VALPARAÍSO, superficies 2.827 y 29.953 m2. respectivamente. La Comisión de Peritos integrada por JOSÉ ROGELIO ALFREDO REYES AZANCOT, SERGIO JEREMIAS ORDENES SALINAS y NICOLAS ALEJANDRO ALARCON SANCHEZ, mediante informe de tasación de 17 de marzo de 2021, fijó el monto de la indemnización provisional en la cantidad de $21.678.500 para el lote N°7 y $853.660.500, para el lote N°8. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2.186, de 1978.
+
+Fiscalía MOP.
