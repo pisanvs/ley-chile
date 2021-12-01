@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo de Marina 119, de fecha 9 de abril de 2021, de Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas. se otorgó concesión marítima menor a la empresa Inversiones CDM Ltda., RUT 76.117.290-5, con vencimiento 31 de diciembre de 2025, sobre un sector de playa de lago y fondo de lago, en el lugar denominado Piedras Bayas, comuna Curicó. Región del Maule, con una superficie de 75,76 metros2. La que fue tramitada con el SIABC Nº 33951. A modo referencial se señala la siguiente coordenada geográfica: Latitud 34º49'25,17"S. Longitud 72º03'54,72"W. El objeto de esta concesión marítima, sobre los sectores otorgados, es regularizar una mejora fiscal, consistente en un hangar sobre pilotes, para naves menores a 25 TRG. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Constitución. El presente extracto se encuentra visado por la autoridad marítima antes señalada.-
+
+Diego Aguilera Modrow, Capitán de Corbeta LT., Capitán de Puerto de Constitución.
