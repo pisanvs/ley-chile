@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 3.759 de fecha 24/11/2021, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pablo Neruda y Simón Bolívar/Imperial, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Inmueble ubicado en calle Uruguay número 1590, de la ciudad de Temuco, que corresponde al Lote Dos, el que a su vez es resultante de la subdivisión del resto del Lote Dos de mayor extensión de esta ciudad, Rol de avalúo: 1592-26, comuna de Temuco. La superficie a expropiar aproximada es de 114,30 metros cuadrados, de aparente dominio de Banco Santander-Chile. Comisión de Peritos integrada por don Italo Ignacio Cortés Rocco, Eduardo Antonio Yáñez Inzunza y Claudio Marcelo Pezo Muñoz, fijó monto de Indemnización Provisional en $64.990.000 según Informe N° 49-0A, de fecha 18.11.2021, pagadero Contado.
+
+Director Serviu Región de la Araucanía.
