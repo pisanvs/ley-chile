@@ -22,7 +22,7 @@ a) "Trabajador" a toda persona, sea empleado, obrero, aprendiz, servidor domést
 
 b) "Trabajadores independientes" a todos aquellos que ejecutan algún trabajo o desarrollan alguna actividad, industria o comercio, sea independientemente o asociados o en colaboración con otros, tengan o no capital propio y sea que en sus profesiones, labores u oficios predomine el esfuerzo intelectual sobre el físico o éste sobre aquél y que no estén sujetos a relación laboral con alguna entidad empleadora, cualquiera sea su naturaleza, derivada del Código del Trabajo o estatutos legales especiales, aun cuando estén afiliados obligatoria o voluntariamente a cualquier régimen de seguridad social;
 
-c) "INP", al Instituto de Normalización Previsional, como sucesor legal del ex - Servicio de Seguro Social y de las ex - Cajas de Previsión, fusionados en el mismo;
+c) "ISL", al Instituto de Seguridad Laboral que administra el seguro conforme a lo establecido en el artículo 10 de la ley;
 
 d) "Seguro", al Seguro Social contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales;
 
@@ -32,7 +32,7 @@ f) "Servicio" o "Servicios", a los Servicios de Salud;
 
 g) "Seremi", a la o las Secretaría(s) Regional (es) Ministerial(es) de Salud;
 
-h) "Organismos administradores", al Instituto de Normalización Previsional, a los Servicios de Salud, a las Secretarías Regionales Ministeriales de Salud y a las Mutualidades de Empleadores;
+h) "Organismos administradores", al Instituto de Seguridad Laboral y a las Mutualidades de Empleadores;
 
 i) "Administradores delegados" o "administradores delegados del seguro" a las entidades empleadoras que, en la forma y condiciones establecidas en la ley y en el presente reglamento, tomen a su cargo el otorgamiento de las prestaciones derivadas del seguro, exceptuadas las pensiones;
 
@@ -46,7 +46,9 @@ l) "ley", sin especificación de su número o desprovista la expresión de toda 
 
 El trabajador de pleno derecho quedará automáticamente cubierto por el Seguro.
 
-Sin perjuicio de lo anterior, la entidad empleadora que se encuentre adherida a una Mutualidad o que por el solo ministerio de la ley se encuentre afiliada al INP, deberá declarar al respectivo organismo administrador, a la totalidad de sus trabajadores y las contrataciones o términos de servicios, a través del instrumento que al efecto instruya la Superintendencia.
+Sin perjuicio de lo anterior, la entidad empleadora que se encuentre adherida a una Mutualidad o que por el solo ministerio de la ley se encuentre afiliada al ISL, deberá declarar al respectivo organismo administrador, a la totalidad de sus trabajadores y las contrataciones o términos de servicios, a través del instrumento que al efecto instruya la Superintendencia.
+
+La afiliación de los trabajadores independientes se regirá por lo dispuesto en el artículo 4º de la ley, en los artículos 88 y 89 de la ley Nº 20.225 y demás normativa aplicable.
 
 #### Artículo 3°
 
@@ -60,9 +62,7 @@ Igual procedimiento se observará en los casos en que cualquiera entidad emplead
 
 #### Artículo 5º
 
-El dueño de una empresa, obra o faena será subsidiariamente responsable de las obligaciones que impone el Seguro a sus contratistas en su calidad de entidades empleadoras. Igual responsabilidad afectará a los contratistas con las obligaciones de sus subcontratistas.
-
-La responsabilidad subsidiaria del dueño de una empresa, obra o faena operará, en el caso de los subcontratistas, sólo en subsidio de la responsabilidad de los contratistas.
+Derogado.
 
 #### Artículo 6°
 
@@ -74,7 +74,7 @@ Accidentes del trabajo y enfermedades profesionales
 
 #### Artículo 7°
 
-El trayecto directo, a que se refiere el inciso 2° del artículo 5° de la ley, es el que se realiza entre la habitación y el lugar de trabajo; o viceversa.
+El trayecto directo, a que se refiere el inciso 2° del artículo 5° de la ley, es el que se realiza entre la habitación y el lugar de trabajo; o viceversa, o entre dos lugares de trabajo correspondientes a distintos empleadores.
 
 La circunstancia de haber ocurrido el accidente en el trayecto directo deberá ser acreditada ante el respectivo organismo administrador mediante el correspondiente parte de Carabineros u otros medios igualmente fehacientes.
 
@@ -104,23 +104,25 @@ Administración del seguro
 
 El Seguro será administrado por:
 
-a) Los Servicios, las Seremi y el INP, respecto de los trabajadores de las entidades empleadoras que no estén adheridas a una Mutualidad;
+a) El ISL, respecto de los trabajadores de las entidades empleadoras y los trabajadores independientes que no estén adheridas a una Mutualidad;
 
-b) Las Mutualidades constituidas con arreglo a la ley y a su Estatuto Orgánico, respecto de los trabajadores de las entidades empleadoras miembros o adherentes de ellas; y
+b) Las Mutualidades constituidas con arreglo a la ley y a su Estatuto Orgánico, respecto de los trabajadores de las entidades empleadoras y los trabajadores independientes adherentes de ellas; y
 
 c) Los administradores delegados.
 
 #### Artículo 13°
 
-El INP cumplirá sus fines a través del Departamento de Accidentes del Trabajo y Enfermedades Profesionales, el cual tendrá a su cargo:
+Para el cumplimiento de sus fines, el ISL tendrá las siguientes funciones:
 
-a) determinar y conceder las prestaciones de orden económico establecidas en la ley en caso de accidentes del trabajo y enfermedades profesionales, en conformidad a lo establecido en los artículos 9ºy 10 de la ley.
+a) determinar y conceder las prestaciones establecidas en la ley en caso de accidentes del trabajo y enfermedades profesionales.
 
-b) organizar y mantener en coordinación con los Servicios y las Seremi, estadísticas completas sobre los diversos aspectos relacionados con la aplicación de la ley, en lo que se refiere a los afiliados al INP;
+La función señalada en este literal deberá ser ejercida, por medio de la celebración de los convenios de atención para el otorgamiento de prestaciones médicas, con organismos públicos y privados, de acuerdo a lo establecido en el artículo 10 de la ley;
 
-c) preparar la parte del proyecto de presupuesto del INP que se refiere al Fondo del Seguro de Accidentes del Trabajo y Enfermedades Profesionales;
+b) organizar y mantener estadísticas completas sobre los diversos aspectos relacionados con la aplicación de la ley, en lo que se refiere a los afiliados al ISL;
 
-d) proponer las medidas de fiscalización que podrá adoptar el INP en las materias que la ley o los reglamentos entregan a su competencia;
+c) preparar el proyecto de presupuesto del Fondo del Seguro de Accidentes del Trabajo y Enfermedades Profesionales que administra;
+
+d) Celebrar convenios de recaudación de cotizaciones y demás recursos que le correspondan, de acuerdo a lo establecido en el artículo 2º del decreto ley Nº 3.502, de 1980, administrar el producto de ellos y traspasar al Ministerio de Salud los aportes a que se refiere el artículo 21 de la ley;
 
 e) realizar los estudios que se le encomienden o estime convenientes en orden a perfeccionar el sistema de seguro;
 
@@ -128,35 +130,21 @@ f) organizar fuentes permanentes de información técnica tanto en lo nacional c
 
 g) disponer la suspensión del pago de las pensiones en los casos a que se refiere el artículo 42° de la ley; y,
 
-h) las demás funciones que, en razón de su especialidad, le asigne el Director del INP.
+h) las demás funciones que le señale la ley.
 
 #### Artículo 14°
 
-Las funciones relacionadas con el seguro que sean de orden administrativo serán coordinadas por el Departamento a que se refiere el artículo anterior.
+Derogado.
 
-#### Artículo 15°
+#### Artículo 15º
 
-Corresponderá, principalmente, a los Servicios:
+A los Servicios corresponderá, principalmente, la obligación de convenir el otorgamiento y de proporcionar las prestaciones médicas que el ISL les solicite, sujeto al pago de las tarifas establecidas, según los aranceles vigentes.
 
-a) Otorgar las prestaciones médicas a los afiliados a que se refiere el articulo 9º de la ley;
+Por su parte, a las Seremi, corresponderá, principalmente, lo siguiente:
 
-b) Administrar el producto de las cotizaciones y demás recursos que les corresponda o deban entregárseles en la forma y para los fines señalados en la ley y en los reglamentos;
+a) Ejercer las funciones de fiscalización que les atribuye la ley y sus reglamentos;
 
-c) Emitir los informes a que estuvieren obligados, al INP cuyos afiliados atiendan, y los antecedentes que sean necesarios para el otorgamiento de las prestaciones que a ellos correspondan y, con fines estadísticos y de control; y
-
-d) Desempeñar todas las funciones de atención médica que les encomiendan la ley y los reglamentos.
-
-Corresponderá, principalmente, a las Seremi:
-
-e) Ejercer las funciones de fiscalización que les atribuye la ley y sus reglamentos;
-
-f) Requerir de los demás organismos administradores, administradores delegados y organismos intermedios o de base, los antecedentes e informaciones para fines estadísticos, según lo prescribe el inciso tercero del artículo 76 de la ley;
-
-g) Administrar el producto de las cotizaciones y demás recursos que les corresponda o deban entregárseles en la forma y para los fines señalados en la ley y en los reglamentos;
-
-h) Emitir los informes a que estuvieren obligadas, en relación a los afiliados al INP; y
-
-i) Otorgar los subsidios por incapacidad temporal a los afiliados a que se refiere el artículo 9º de la ley.
+b) Requerir a los demás organismos administradores, administradores delegados y organismos intermedios o de base, los antecedentes e informaciones para fines estadísticos, según lo prescribe el inciso tercero del artículo 76 de la ley.
 
 #### Artículo 16°
 
@@ -168,11 +156,9 @@ Deberán dar cuenta, a lo menos anualmente, y a la Superintendencia, de las cond
 
 DEROGADO
 
-#### Artículo 18°
+#### Artículo 18º
 
-Las Seremi y los Servicios contabilizarán separadamente de sus propios recursos, e individualmente, las sumas que le corresponda percibir por aplicación de las disposiciones de la ley, debiendo destinarlas exclusivamente a los objetivos encomendados.
-
-Igualmente, los demás organismos administradores incluidos, los administradores delegados e intermedios o de base, llevarán contabilidad separada de sus ingresos y gastos.
+Todas las sumas de dinero que le corresponde percibir al Ministerio de Salud, por aplicación de lo dispuesto en el artículo 21 de la ley, se contabilizarán por separado para destinarlas exclusivamente a los objetivos que esta ley les encomienda.
 
 #### Artículo 19°
 
@@ -180,11 +166,15 @@ Derogado.-
 
 #### Artículo 20
 
-Los convenios que celebre el INP con los Servicios para el otorgamiento de las prestaciones médicas a los afiliados al INP, como sucesor de las ex - Cajas de Previsión, se regirán por las tarifas establecidas en los aranceles vigentes.
+El ISL podrá contratar el otorgamiento de las prestaciones médicas con los servicios de salud, las mutualidades de empleadores o con otros establecimientos de salud públicos o privados.
+
+Para los servicios de salud señalados en el artículo 16 del decreto con fuerza de ley Nº 1, de 2005, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 2.763, de 1979, y de las leyes Nº 18.933 y Nº 18.469, y para los establecimientos de salud experimental creados por los decretos con fuerza de la ley Nºs 30 y 31 de 2000, todos del Ministerio de Salud, será obligatorio convenir el otorgamiento y proporcionar tales prestaciones cuando se lo solicite el ISL, sujeto al pago de tarifas establecidas según los aranceles vigentes.
+
+Los convenios de atención celebrados por el ISL con los organismos públicos y privados se someterán a las normas de contratación general del Estado y a las modalidades, condiciones y aranceles que señale el reglamento al que se refiere el inciso final del artículo 10 de la ley.
 
 #### Artículo 21
 
-El INP administrará el Seguro en beneficio de los trabajadores dependientes cuyas entidades empleadoras no estén adheridas a una Mutualidad, así como de los trabajadores independientes no adheridos a aquéllas, otorgándoles las prestaciones médicas y pecuniarias que contempla la ley. Asimismo otorgará las pensiones de los trabajadores de las empresas con administración delegada.
+El ISL administrará el Seguro en beneficio de los trabajadores dependientes cuyas entidades empleadoras no estén adheridas a una Mutualidad, así como de los trabajadores independientes no adheridos a aquéllas, otorgándoles las prestaciones médicas, pecuniarias y preventivas que contempla la ley. Asimismo otorgará las pensiones de los trabajadores de las empresas con administración delegada.
 
 #### Artículo 22°
 
@@ -198,17 +188,17 @@ a) deberán poseer y mantener servicios médicos adecuados, con personal especia
 
 b) deberán realizar actividades permanentes y efectivas de prevención de accidentes del trabajo y enfermedades profesionales.
 
-Las Seremi fiscalizarán e informarán, al menos anualmente, la subsistencia de las condiciones indicadas en las letras anteriores al INP y a la Superintendencia;
+Las Seremi fiscalizarán e informarán, al menos anualmente, la subsistencia de las condiciones indicadas en las letras anteriores al ISL y a la Superintendencia;
 
 c) deberán otorgar beneficios iguales o superiores a los que conceda el delegante;
 
-d) no podrán otorgar ni pagar pensiones. Estas prestaciones se otorgarán y pagarán por el INP;
+d) no podrán otorgar ni pagar pensiones. Estas prestaciones se otorgarán y pagarán por el ISL;
 
-e) deberán constituir, para asegurar el fiel cumplimiento de las obligaciones que asumen, una garantía que consistirá en un depósito al contado y en dinero efectivo, hecho en el INP, equivalente a dos meses de las cotizaciones que les hubiere correspondido enterar en conformidad a la ley;
+e) deberán constituir, para asegurar el fiel cumplimiento de las obligaciones que asumen, una garantía que consistirá en un depósito al contado y en dinero efectivo, hecho en el ISL, equivalente a dos meses de las cotizaciones que les hubiere correspondido enterar en conformidad a la ley;
 
 f) deberán contar con el o los Comités Paritarios a que se refiere el artículo 66° de la ley;
 
-g) deberán incluir en la protección que otorguen, a la totalidad de sus trabajadores, para lo cual gestionarán la delegación ante el INP; y.
+g) deberán incluir en la protección que otorguen, a la totalidad de sus trabajadores, para lo cual gestionarán la delegación ante el ISL; y.
 
 h) no podrán deducir suma alguna del aporte a que se refiere el artículo 25° para gastos de administración.
 
@@ -220,7 +210,7 @@ El ingreso mínimo a que se refiere el inciso 1° del artículo 23° será el vi
 
 #### Artículo 25°
 
-El aporte que los administradores delegados deberán efectuar al INP, en cumplimiento de lo dispuesto en el artículo 72 de la ley, será el porcentaje que se establezca anualmente por decreto, calculado sobre la suma de las cotizaciones básica y adicional que les hubiere correspondido enterar si no hubieran tenido esa calidad.
+El aporte que los administradores delegados deberán efectuar al ISL, en cumplimiento de lo dispuesto en el artículo 72 de la ley, será el porcentaje que se establezca anualmente por decreto, calculado sobre la suma de las cotizaciones básica y adicional que les hubiere correspondido enterar si no hubieran tenido esa calidad.
 
 #### Artículo 26°
 
@@ -230,15 +220,15 @@ El mismo efecto señalado en el inciso anterior producirá la mora o el simple r
 
 #### Artículo 27°
 
-Revocada la delegación, el INP como organismo delegante y los Servicios, en su caso, asumirán respecto de los trabajadores afiliados, todas las obligaciones que les impone la ley. Igualmente, las entidades a quienes se hubiere revocado la delegación deberán efectuar todas las cotizaciones establecidas para el financiamiento del seguro.
+Revocada la delegación, el ISL como organismo delegante asumirá respecto de los trabajadores afiliados, todas las obligaciones que les impone el artículo 10 de la ley. Igualmente, las entidades a quienes se hubiere revocado la delegación deberán efectuar todas las cotizaciones establecidas para el financiamiento del seguro.
 
 Los subsidios e indemnizaciones que se estuvieren pagando al momento de la revocación, serán de responsabilidad de la entidad empleadora hasta su extinción.
 
 #### Artículo 28°
 
-Las entidades empleadoras que, cumpliendo con las exigencias legales y reglamentarias, ejercieren el derecho a ser administradores delegados, deberán solicitarlo por escrito al INP, acompañando los documentos justificativos del cumplimiento de los requisitos establecidos en el inciso 1° y en las letras a), f) y g) del artículo 23°.
+Las entidades empleadoras que, cumpliendo con las exigencias legales y reglamentarias, ejercieren el derecho a ser administradores delegados, deberán solicitarlo por escrito al ISL, acompañando los documentos justificativos del cumplimiento de los requisitos establecidos en el inciso 1° y en las letras a), f) y g) del artículo 23°.
 
-El INP elevará los antecedentes a la Superintendencia, quien resolverá con informe de la Seremi que corresponda.
+El ISL elevará los antecedentes a la Superintendencia, quien resolverá con informe de la Seremi que corresponda.
 
 La garantía a que se refiere la letra e) del artículo 23° deberá constituirse dentro de los 30 días siguientes a la fecha en que la Superintendencia otorgue su autorización, bajo sanción de caducidad de la misma.
 
@@ -248,19 +238,19 @@ El organismo delegante invertirá a garantía que se le depositare en los instru
 
 - **e)** y
 
-- **k)** del DL Nº 3.500, de 1980, conforme a las instrucciones que imparta la Superintendencia. Los reajustes que se produzcan incrementarán el monto de la garantía. Los intereses acrecerán el Fondo del Seguro administrado por el INP.
+- **k)** del artículo 45 del DL Nº 3.500, de 1980, conforme a las instrucciones que imparta la Superintendencia. Los reajustes que se produzcan incrementarán el monto de la garantía. Los intereses acrecerán el Fondo del Seguro administrado por el ISL.
 
 INCISO DEROGADO
 
 El administrador delegado tendrá derecho a la restitución de la garantía y sus reajustes en el evento de que por propia voluntad resolviere poner término a la delegación y estuviere al día en el cumplimiento de todos los requisitos y obligaciones.
 
-La voluntad de poner unilateralmente término a la delegación deberá ser comunicada al delegante, a lo menos, con 6 meses de anticipación. La restitución no comprenderá los intereses devengados y/o percibidos, los que acrecerán el fondo del seguro de accidentes del trabajo y enfermedades profesionales del INP.
+La voluntad de poner unilateralmente término a la delegación deberá ser comunicada al delegante, a lo menos, con 6 meses de anticipación. La restitución no comprenderá los intereses devengados y/o percibidos, los que acrecerán el fondo del seguro de accidentes del trabajo y enfermedades profesionales del ISL.
 
-Si se revocare la delegación, el capital, reajuste e intereses de la garantía constituida cederán a favor del INP y de los Servicios.
+Si se revocare la delegación, el capital, reajuste e intereses de la garantía constituida cederán a favor del ISL.
 
 #### Artículo 30°
 
-Los organismos intermedios o de base podrán ser autorizados por el INP y por las mutualidades para el otorgamiento de determinadas prestaciones del seguro, siempre que tengan un número de afiliados no inferior a 200, cuenten con personalidad jurídica y constituyan, en los términos señalados en los artículos 23° y 28° una garantía cuyo monto fijará el organismo administrador.
+Los organismos intermedios o de base podrán ser autorizados por el ISL y por las mutualidades para el otorgamiento de determinadas prestaciones del seguro, siempre que tengan un número de afiliados no inferior a 200, cuenten con personalidad jurídica y constituyan, en los términos señalados en los artículos 23° y 28° una garantía cuyo monto fijará el organismo administrador.
 
 La autorización a que se refiere el inciso anterior deberá ser acordada, en todo caso, por los Consejos Directivos y Directorios, según correspondiere, del Servicio, Cajas de Previsión o Mutualidades.
 
@@ -286,7 +276,7 @@ Respecto de la garantía que constituyan los organismos intermedios o de base re
 
 #### Artículo 34°
 
-Si por cualquiera circunstancia dejare de subsistir alguna de las condiciones señaladas en el artículo 30°, o si se deja de cumplir oportuna e íntegramente alguna de las prestaciones convenidas, se pondrá término inmediato al convenio celebrado con los organismos intermedios o de base. La decisión de ponerle término será adoptada por el Director del INP o por el Directorio de las Mutualidades, según corresponda.
+Si por cualquiera circunstancia dejare de subsistir alguna de las condiciones señaladas en el artículo 30°, o si se deja de cumplir oportuna e íntegramente alguna de las prestaciones convenidas, se pondrá término inmediato al convenio celebrado con los organismos intermedios o de base. La decisión de ponerle término será adoptada por el Director del ISL o por el Directorio de las Mutualidades, según corresponda.
 
 #### Artículo 35°
 
@@ -294,7 +284,7 @@ Cuando el término del convenio tuviere por causa el incumplimiento de las prest
 
 #### Artículo 36°
 
-El INP, los Servicios, las Seremi y las Mutualidades, no podrán destinar a los gastos de administración del Seguro Social contra riesgos de accidentes del trabajo y enfermedades profesionales una suma superior al 10% de los ingresos que les correspondan para este seguro.
+El ISL y las Mutualidades, no podrán destinar a los gastos de administración del Seguro Social contra riesgos de accidentes del trabajo y enfermedades profesionales una suma superior al 10% de los ingresos que les correspondan para este seguro.
 
 Corresponderá a la Superintendencia establecer las normas que servirán para calificar la propiedad de estos gastos, independientemente de aquellos relacionados con las demás actividades o funciones de cada organismo administrador.
 
@@ -332,35 +322,27 @@ Los presupuestos a que se refieren los incisos Anteriores estarán sujetos a la 
 
 Las Mutualidades deberán, además, formar con arreglo al Estatuto Orgánico una reserva adicional para atender el pago de las pensiones y sus futuros reajustes.
 
-#### Artículo 41°
+#### Artículo 41
 
-El Presidente de la República fijará anualmente, mediante decreto supremo:
+El ISL deberá aportar al Ministerio de Salud un porcentaje de sus ingresos con el objeto de financiar el desarrollo de las labores de inspección y prevención de riesgos profesionales, así como para el funcionamiento de la Comisión Médica de Reclamos.
 
-a) el porcentaje de las cotizaciones establecidas en las letras a) y b) del artículo 15° de la ley que el INP sucesor legal del ex -Servicio de Seguro Social debe entregar a los Servicios y a las Seremi según corresponda, conforme a lo prevenido en el inciso 1° del artículo 21° de la misma;
-
-b) el porcentaje de los ingresos que el INP como sucesor legal de las ex - Cajas de Previsión debe entregar a los Servicios y a las Seremi, según corresponda, para los fines señalados en el inciso segundo del artículo 21 de la ley.
+Mediante decreto dictado anualmente por el Ministerio del Trabajo y Previsión Social y suscrito por el Ministro de Salud, se establecerán el monto, las modalidades y condiciones para el traspaso de los aportes señalados en el inciso precedente.
 
 #### Artículo 42°
 
-Los excedentes que se produzcan en los fondos del seguro que el INP debe formar con arreglo a la ley serán distribuidos por el Presidente de la República entre este organismo y los Servicios y las Seremi.
-
-Esta distribución se hará por medio de decreto supremo que atenderá, para estos efectos, a las necesidades del INP, de los Servicios y de las Seremi, indicándose el destino que cada una de ellas dará a estos recursos.
-
-En el decreto deberá consultarse un porcentaje de los excedentes para el Fondo Especial de Rehabilitación de Alcohólicos creado por el artículo 24° de la ley.
-
-El decreto supremo a que se refiere esa disposición se dictará, previo informe de la Superintendencia, en el mes de noviembre de cada año, con el fin de que tales aportes sean incorporados en los presupuestos que para el año siguiente deben confeccionar las instituciones antes señaladas.
+Derogado.
 
 #### Artículo 43
 
-Los aportes que deba realizar el INP con cargo a sus excedentes, de conformidad con el decreto que dicte el Presidente de la República, deberá efectuarlos directamente a las entidades en él señaladas, por duodécimos presupuestarios y dentro de los primeros 10 días de cada mes.
+Derogado.
 
 #### Artículo 44°
 
-La Superintendencia, con ocasión de la revisión de los balances, procederá a determinar los ajustes de los aportes a que se refiere el inciso 3° del artículo 21° de la ley, estableciéndose, cuando procediere, las compensaciones necesarias en los presupuestos correspondientes al ejercicio siguiente a la fecha de la aprobación de los balances.
+Derogado.
 
 #### Artículo 45°
 
-En la distribución de excedentes que se realice de acuerdo con los artículos 42°, 43° y 44° de este reglamento, no se incluirán en forma alguna las mutualidades ni los administradores delegados.
+Derogado.
 
 #### Artículo 46
 
@@ -408,7 +390,7 @@ El monto de los subsidios será reajustado por los organismos administradores, c
 
 #### Artículo 53 bis
 
-La prórroga del período de subsidio a que se refiere el inciso segundo del artículo 31 de la ley podrá ser autorizada por la Mutualidad o la correspondiente Comisión de Medicina Preventiva e Invalidez (Compin), según sea el caso. El rechazo de la prórroga deberá ser fundado y puesto en conocimiento del interesado y del organismo administrador cuando corresponda, a más tardar dentro del plazo de 5 días hábiles, de emitida la resolución respectiva.
+La prórroga del período de subsidio a que se refiere el inciso segundo del artículo 31 de la ley podrá ser autorizada por el organismo administrador. El rechazo de la prórroga deberá ser fundado y puesto en conocimiento del interesado, a más tardar dentro del plazo de 5 días hábiles, de emitida la resolución respectiva.
 
 Los plazos señalados en el artículo 31 de la ley, regirán independientemente para cada enfermedad o accidente que sufra el trabajador, a menos que la segunda enfermedad o accidente sea consecuencia, continuación o evolución de la primera, en cuyo caso los períodos se computarán como uno solo.
 
@@ -536,6 +518,8 @@ f) Para que el trabajador pueda ser trasladado a un centro asistencial de su org
 
 g) Sin perjuicio de lo dispuesto precedentemente, el respectivo organismo administrador deberá instruir a sus entidades empleadoras adheridas o afiliadas para que registren todas aquellas consultas de trabajadores con motivo de lesiones, que sean atendidos en policlínicos o centros asistenciales, ubicados en el lugar de la faena y/o pertenecientes a las entidades empleadoras o con los cuales tengan convenios de atención. El formato del registro será definido por la Superintendencia.
 
+h) Las resoluciones que se pronuncien sobre el origen común o profesional de un accidente, deberán ser notificadas al trabajador y a la entidad empleadora.
+
 #### Artículo 72
 
 En caso de enfermedad profesional deberá aplicarse el siguiente procedimiento:
@@ -558,7 +542,7 @@ g) El organismo administrador deberá incorporar a la entidad empleadora a sus p
 
 Sin perjuicio de lo dispuesto en los artículos 71 y 72 anteriores, deberán cumplirse las siguientes normas y procedimientos comunes a Accidentes del Trabajo y Enfermedades Profesionales:
 
-a) El Ministerio de Salud, a través de las autoridades correspondientes, de acuerdo a lo establecido en el artículo 14 C del DL Nº 2.763, de 1979, establecerá los datos que deberá contener la "Denuncia Individual de Accidente del Trabajo" (DIAT) y la "Denuncia Individual de Enfermedad Profesional" (DIEP), para cuyo efecto, solicitará informe a la Superintendencia. El Ministerio de Salud, a través de las autoridades correspondientes, de acuerdo a lo establecido en el artículo 14 C del DL Nº 2.763, de 1979, y la Superintendencia establecerán, en conjunto, los formatos de las DIAT y DIEP, de uso obligatorio para todos los organismos administradores.
+a) El Ministerio de Salud, a través de las Seremi, establecerá los datos que deberá contener la "Denuncia Individual de Accidente del Trabajo" (DIAT) y la "Denuncia Individual de Enfermedad Profesional" (DIEP), para cuyo efecto, solicitará informe a la Superintendencia. El Ministerio de Salud, a través de las Seremi, y la Superintendencia establecerán, en conjunto, los formatos de las DIAT y DIEP, de uso obligatorio para todos los organismos administradores.
 
 b) Los organismos administradores deberán remitir a las Seremi la información a que se refiere el inciso tercero del artículo 76 de la ley, por trimestres calendarios, y en el formulario que establezca la Superintendencia.
 
@@ -576,9 +560,9 @@ h) La persona natural o la entidad empleadora que formula la denuncia será resp
 
 i) La simulación de un accidente del trabajo o de una enfermedad profesional será sancionada con multa, de acuerdo al artículo 80 de la ley y hará responsable, además, al que formuló la denuncia del reintegro al organismo administrador correspondiente de todas las cantidades pagadas por éste por concepto de prestaciones médicas o pecuniarias al supuesto accidentado del trabajo o enfermo profesional.
 
-#### Artículo 74
+#### Artículo 74º
 
-Los organismos administradores estarán obligados a llevar una base de datos -"Base de Datos Ley Nº 16.744"- con, al menos, la información contenida en la DIAT, la DIEP, los diagnósticos de enfermedad profesional, las incapacidades que afecten a los trabajadores, las indemnizaciones otorgadas y las pensiones constituidas, de acuerdo a la ley Nº 19.628 y a las instrucciones que imparta la Superintendencia.
+Corresponderá a la Superintendencia administrar y mantener actualizado el Sistema Nacional de Información de Seguridad y Salud en el Trabajo, en los términos establecidos en la letra g) del artículo 2º de la ley Nº 16.395.
 
 #### Artículo 75
 
@@ -598,23 +582,19 @@ c) Las Compin, para dictaminar, formarán un expediente con los datos y antecede
 
 d) Las Compin, en el ejercicio de sus funciones, podrán requerir a los distintos organismos administradores y a las personas y entidades que estimen pertinente, los antecedentes señalados en la letra c) anterior.
 
-e) Tratándose de accidentes de trabajadores de entidades empleadoras afiliadas al INP, las Compin deberán contar, necesariamente, entre los antecedentes, con la declaración hecha por el organismo administrador de que éste se produjo a causa o con ocasión del trabajo y con la respectiva DIAT.
-
-Las Compin deberán adoptar las medidas tendientes para recabar dichos antecedentes, no pudiendo negarse a efectuar una evaluación por falta de los mismos.
-
-f) Las resoluciones que emitan las Compin y las Mutualidades deberán contener los antecedentes, y ajustarse al formato, que determine la Superintendencia. En todo caso, dichas resoluciones deberán contener una declaración sobre las posibilidades de cambios en el estado de invalidez, ya sea por mejoría o agravación.
+e) Las resoluciones que emitan las Compin y las Mutualidades deberán contener los antecedentes, y ajustarse al formato, que determine la Superintendencia. En todo caso, dichas resoluciones deberán contener una declaración sobre las posibilidades de cambios en el estado de invalidez, ya sea por mejoría o agravación.
 
 Tales resoluciones deberán ser notificadas a los organismos administradores que corresponda y al interesado, a más tardar dentro del plazo de 5 días hábiles desde su emisión.
 
-g) El proceso de declaración, evaluación y/o reevaluación y los exámenes necesarios, no implicarán costo alguno para el trabajador.
+f) El proceso de declaración, evaluación y/o reevaluación y los exámenes necesarios, no implicarán costo alguno para el trabajador.
 
-h) Con el mérito de la resolución, los organismos administradores procederán a determinar las prestaciones que corresponda percibir al accidentado o enfermo, sin que sea necesaria la presentación de solicitud por parte de éste.
+g) Con el mérito de la resolución, los organismos administradores procederán a determinar las prestaciones que corresponda percibir al accidentado o enfermo, sin que sea necesaria la presentación de solicitud por parte de éste.
 
-i) Para los efectos de lo establecido en este artículo, las Compin estarán integradas, según sea el caso, por uno o más médicos con experiencia en relación a las incapacidades evaluadas y/o con experiencia en salud ocupacional.
+h) Para los efectos de lo establecido en este artículo, las Compin estarán integradas, según sea el caso, por uno o más médicos con experiencia en relación a las incapacidades evaluadas y/o con experiencia en salud ocupacional.
 
-j) En las Compin actuará un secretario, designado por el Secretario Regional Ministerial de la Seremi de la cual dependan, quien tendrá el carácter de ministro de fe para autorizar las actuaciones y resoluciones de ellas.
+i) En las Compin actuará un secretario, designado por el Secretario Regional Ministerial de la Seremi de la cual dependan, quien tendrá el carácter de ministro de fe para autorizar las actuaciones y resoluciones de ellas.
 
-k) De las resoluciones que dicten las Compin y las Mutualidades podrá reclamarse ante la Comisión Médica de Reclamos de Accidentes del Trabajo y de Enfermedades Profesionales conforme a lo establecido en el artículo 77 de la ley y en este reglamento.
+j) De las resoluciones que dicten las Compin y las Mutualidades podrá reclamarse ante la Comisión Médica de Reclamos de Accidentes del Trabajo y de Enfermedades Profesionales conforme a lo establecido en el artículo 77 de la ley y en este reglamento.
 
 #### Artículo 76 bis
 
@@ -660,7 +640,7 @@ Se entenderá interpuesto el reclamo o recurso a la fecha de la expedición de l
 
 #### Artículo 81°
 
-El término de 90 días hábiles establecidos por la ley para interponer el reclamo o deducir el recurso se contará desde la fecha en que se hubiere notificado la decisión o acuerdo en contra de los cuales se presenta. Si la notificación se hubiere hecho por carta certificada, el término se contará desde el tercer día de recibida en Correos.
+El término de 90 días hábiles establecidos por la ley para interponer el reclamo o deducir el recurso se contará desde la fecha en que se hubiere notificado la decisión o acuerdo en contra de los cuales se presenta.
 
 #### Artículo 82°
 
@@ -686,7 +666,7 @@ Los miembros de la Comere durarán cuatro años en sus funciones y podrán ser r
 
 Se considerará que un miembro está impedido de ejercer su cargo cuando no asista injustificadamente a tres sesiones continuadas y en todo caso, cuando ha tenido ausencias que superan el 50% de las sesiones realizadas durante 2 meses calendarios continuos. La certificación de estas circunstancias deberá ser efectuada por el secretario de la Comisión.
 
-Los cargos de integrantes de la Comere serán incompatibles con los de miembros de las Comisiones de Medicina Preventiva e Invalidez y de las Comisiones evaluadoras de incapacidades de las Mutualidades de Empleadores. Asimismo, serán incompatibles con la prestación de servicios a las Mutualidades, a las empresas con administración delegada y al INP.
+Los cargos de integrantes de la Comere serán incompatibles con los de miembros de las Comisiones de Medicina Preventiva e Invalidez y de las Comisiones evaluadoras de incapacidades de las Mutualidades de Empleadores. Asimismo, serán incompatibles con la prestación de servicios a las Mutualidades, a las empresas con administración delegada y al ISL.
 
 > **Nota.** El Art. Tercero del DTO 73, Trabajo, publicado el 07.03.2005, dispuso que las incompatibilidades que este inciso establece entrarán en vigor el primer día del sexto mes siguiente al de su publicación.
 
@@ -708,11 +688,11 @@ Los miembros de la Comere gozarán de una remuneración equivalente a un ingreso
 
 El Secretario de la Comere tendrá el carácter de ministro de fe para hacer la notificación de las resoluciones que ella pronuncie y para autorizar todas las actuaciones que le correspondan, en conformidad a la ley y al reglamento.
 
-Las notificaciones que sea preciso practicar se harán personalmente o mediante carta certificada o, casos excepcionales que determine la Comere, podrá solicitar a la Dirección del Trabajo que ésta encomiende a alguno de sus funcionarios la práctica de la diligencia, quien procederá con sujeción a las instrucciones que se le impartan, dejando testimonio escrito de su actuación.
+En los casos excepcionales que determine la Comere, podrá solicitar a la Dirección del Trabajo que ésta encomiende a alguno de sus funcionarios la práctica de la notificación personal, quien procederá con sujeción a las instrucciones que se le impartan, dejando testimonio escrito de su actuación.
 
 #### Artículo 89°
 
-Los gastos que demande el funcionamiento de la Comere serán de cargo del Ministerio de Salud, a través de las autoridades correspondientes, de acuerdo a lo establecido en el artículo 14 C del DL Nº 2.763, de 1979, y se imputarán a los fondos que les corresponda percibir por aplicación de la ley.
+Los gastos que demande el funcionamiento de la Comere serán de cargo del Ministerio de Salud, a través de las Seremi, y se imputarán a los fondos que les corresponda percibir por aplicación del artículo 21 de la ley.
 
 #### Artículo 90°
 
@@ -726,7 +706,7 @@ La competencia de la Superintendencia será exclusiva y sin ulterior recurso.
 
 #### Artículo 91°
 
-El recurso de apelación, establecido en el inciso 2° del artículo 77° de la ley, deberá interponerse directamente ante la Superintendencia y por escrito. El plazo de 30 días hábiles para apelar correrá a partir de la notificación de la resolución dictada por la Comere. En caso que la notificación se haya practicado mediante el envío de carta certificada, se tendrá como fecha de la notificación el tercer día de recibida en Correos.
+El recurso de apelación, establecido en el inciso 2° del artículo 77° de la ley, deberá interponerse directamente ante la Superintendencia y por escrito. El plazo de 30 días hábiles para apelar correrá a partir de la notificación de la resolución dictada por la Comere.
 
 #### Artículo 92
 
@@ -734,9 +714,19 @@ La Comere y la Superintendencia, en el ejercicio de sus funciones, podrán reque
 
 Los exámenes y traslados necesarios para resolver las reclamaciones y apelaciones presentadas ante la Comere o la Superintendencia serán de cargo del organismo administrador o de la respectiva empresa con administración delegada.
 
-#### Artículo 93
+#### Artículo 93º
 
-Para los efectos de la reclamación ante la Superintendencia a que se refiere el inciso tercero del artículo 77 de la ley, los organismos administradores deberán notificar al afectado, personalmente o por medio de carta certificada, todas las resoluciones que dicten, adjuntándole copia de ellas. En caso que la notificación se haya practicado mediante el envío de carta certificada, se tendrá como fecha de la notificación el tercer día de recibida en Correos.
+Las notificaciones que los organismos administradores deban practicar a las entidades empleadoras afiliadas a éstas, a los trabajadores dependientes de aquellas entidades o a los trabajadores independientes afiliados a éstas, podrán efectuarse mediante carta certificada, personalmente al trabajador o al representante legal de la entidad empleadora, según corresponda, o por correo electrónico a las entidades y trabajadores que consientan expresamente en ser notificados por esa vía y señalen una dirección electrónica para ese efecto.
+
+En este último caso, será obligación de los interesados, mantener actualizado su correo electrónico e informar oportunamente su voluntad de revocar su consentimiento o cualquier circunstancia que impida o dificulte su notificación.
+
+La notificación a los organismos administradores y a los trabajadores, de las resoluciones que las Compin y la Comere deben emitir de acuerdo con los artículos 58 y 77 de la ley, se regirán también por lo dispuesto en los incisos precedentes.
+
+Respecto de las entidades empleadoras que se encuentran adheridas a una mutualidad de empleadores, el domicilio al que deberá dirigirse la carta certificada, será el que éstas hubieran señalado en su solicitud de ingreso a aquélla, a menos que posteriormente hubiesen designado uno nuevo en comunicación especialmente destinada al efecto. Tratándose de las entidades empleadoras afiliadas al ISL, el domicilio será el que consignen éstas ante ese organismo.
+
+Las notificaciones por carta certificada se entenderán practicadas al tercer día de recibida en el Servicio de Correos y las efectuadas por correo electrónico, el día hábil siguiente a su despacho. A partir de entonces, se computarán los plazos para la interposición de los recursos o reclamaciones que procedan.
+
+Corresponderá a la Superintendencia de Seguridad Social impartir instrucciones de carácter general a los organismos administradores, entre otros aspectos, sobre la forma y oportunidad en que podrán obtener el consentimiento expreso de los interesados para ser notificados por correo electrónico; sobre cuál será el domicilio válido para la notificación, por carta certificada, a los trabajadores dependientes e independientes, y sobre la forma y oportunidad en que estos organismos deberán informar a las Compin y Comere las direcciones electrónicas a las que estas Comisiones deberán enviar sus notificaciones por correo electrónico.
 
 #### Artículo 94°
 
