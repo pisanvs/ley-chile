@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 1.800, de fecha 11 de noviembre de 2021, del Serviu IV Región de Coquimbo, se ordenó expropiar parcialmente, por causa de utilidad pública, para la ejecución del proyecto "Mejoramiento Avenida Cuatro Esquinas Tramo I más calle Los Arrayanes, La Serena", ciudad de La Serena, conforme al artículo 51 ley 16.391 y DL 2.186/78, el inmueble singularizado como lote 86, en plano de expropiación, ubicado en PC 53 LT 2 B1, de la comuna de La Serena, Rol de avalúo Nº 961-86, de la comuna de La Serena, de aparente dominio de Sociedad Gastronómica y de Turismo Martín Fierro Limitada, superficie aprox. de 280,2 m2. Comisión de Peritos conformada por profesionales Miguel Rubio Vega, Francesca Vives Figueroa y Eduardo Tabilo González, según informe de fecha 1 de noviembre de 2021, fijó indemnización provisional en 3622,4 UF.-, pagadero al contado.-
+
+Boris Reyes Pantoja, Director (S), Serviu Región de Coquimbo.
