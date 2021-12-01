@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1101, de 08 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 178 y 181, para la obra: MEJORAMIENTO RUTAS W-160; W-120, SECTOR HUICHA - CAULIN, que figuran a nombre de MIRANDA CASTRO CRISTIAN GUSTAVO y VIDAL GALLARDO ELIZARDO, roles de avalúo 1134-91 y 1134-16, Comuna de ANCUD, REGIÓN DE LOS LAGOS, superficies 200 y 1.409 m2. respectivamente. La Comisión de Peritos integrada por HANDY GHISLAINE CAMPOS SEPULVEDA, CAROLINA CLAUDIA VERDEJO DÍAZ y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 07 de mayo de 2021, fijó el monto de la indemnización provisional en la cantidad de $649.500, para el lote Nº178 y $2.520.500, para el lote Nº181. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
