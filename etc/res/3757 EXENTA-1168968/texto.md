@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 3.757 de fecha 24/11/2021, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pablo Neruda y Simón Bolívar/Imperial, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Retazo de inmueble de aparente propiedad fiscal colindante al poniente con Avenida Caupolicán, Rol de avalúo: sin antecedentes, comuna de Temuco. La superficie a expropiar aproximada es de 120,94 metros cuadrados, de aparente dominio de Fisco de Chile. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Eduardo Antonio Yáñez Inzunza y Claudio Marcelo Pezo Muñoz, fijó monto de Indemnización Provisional en $17.860.000 según Informe Nº 47-1, de fecha 18.11.2021, pagadero Contado.
+
+Director Serviu Región de la Araucanía.
