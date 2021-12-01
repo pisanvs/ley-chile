@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 2.120, de fecha 17 de noviembre de 2021, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno N° 18 para la ejecución Proyecto "Mejoramiento calle El Teniente, Barrio Industrial de Puerto Montt", Región de Los Lagos, que figura a nombre de Guenel Loncomilla Albino, Rol de avalúo según SII N° 2141-16, comuna de Puerto Montt, superficie 536,56 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher Guarda, Enrique Edgardo Hoelck Altmann y Raúl Palma Larrea designados por resolución exenta N° 820, de 7 de mayo de 2021, modificada por la resolución exenta N° 975, de 9 de junio de 2021, fijó con fecha 15 de junio de 2021, el valor provisional de la indemnización en la suma de $103.944.000. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley N° 2.186.-
+
+Director Regional Serviu Región de Los Lagos.
