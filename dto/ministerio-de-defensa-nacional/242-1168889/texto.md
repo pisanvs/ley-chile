@@ -1,0 +1,7 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+El decreto supremo N° 242, de fecha 15 de junio de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Sra. Sonia Hortensia Lagos Casanova, RUN 4.404.813-2, segunda Renovación de la concesión marítima menor, con vencimiento el 30 de junio de 2026, sobre un sector de terreno de playa, y uso de mejora fiscal, en un lugar denominado Playa Grande, comuna de Cartagena, Provincia de San Antonio, Región de Valparaíso, con una superficie total de 16.72 m2, la que fue tramitada con el SIABC N°47053. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto de esta concesión marítima, sobre el sector otorgado, es continuar amparando el uso de mejora fiscal existente, para destinarla a la venta de helados, bebidas analcohólicas, confites, golosinas, artículos de playa, como también arriendo de sillas y quitasoles. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de San Antonio. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+San Antonio, 14 de octubre de 2021.- Patricio Torres Peñafiel, Capitán de Fragata LT, Capitán de Puerto de San Antonio.
