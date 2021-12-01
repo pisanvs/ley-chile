@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.970 del 19 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí 380, comuna de Chillán, Rol de Avalúo Nº 00644-00006, de aparente dominio de Suc. Valdebenito Mendoza Irma de las. La parte afecta a expropiación parcial de terreno es de 144,90 m2 y total de 42,54 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-073, para el proyecto "Mejoramiento Avenida Huambalí comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, Constructor doña Lorena Elizabeth Gajardo Alarcón y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $50.014.907.-
+
+Director Serviu, Región de Ñuble.
