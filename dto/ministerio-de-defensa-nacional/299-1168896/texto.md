@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto Supremo N°299, del 6 agosto de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Sra. Andrea Ojeda Laso, RUT 9.384.192-1, Primera Renovación de Concesión Marítima Menor con vencimiento el 30 de junio de 2026, sobre un sector de playa y fondo de lago, en el lugar denominado Chihuaico, comuna de Villarrica, Provincia de Cautín, Región de la Araucanía con una superficie total de 73,51 m2, la que fue tramitada con el SIABC N° 40584. A modo referencial se señala la siguiente coordenada geográfica: Latitud S: 39°30'10,44"S; Longitud W: 72°13'09,32"W. El objeto consiste en amparar atracadero para el amarre de naves de embarcaciones menores y deportivas de uso particular. Las obras existentes consisten en un atracadero para el fin indicado anteriormente. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Lago Panguipulli. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Pablo Carrasco Rondanelli, Capitán de Corbeta LT, Capitán de Puerto Lago Panguipulli.
