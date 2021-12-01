@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 1109, de 08 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP Nº 206 de 1960, se expropió el lote de terreno Nº 31-A, para la obra: MEJORAMIENTO RUTA INTERLAGOS T-835, T-905 SECTOR CAYURRUCA - TRAPI -CRUCERO, COMUNA DE RIO BUENO, REGION DE LOS RIOS, que figura a nombre de LEGAL VERGARA PATRICIA LEONIL, rol de avalúo 508-178, Comuna de RIO BUENO, REGION DE LOS RÍOS, superficie 80 m2. La Comisión de Peritos integrada por MARIA SOLEDAD NUÑEZ ARROYO, PATRICIO FERNANDO CASAGRANDE ULLOA Y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de fecha 12 de septiembre de 2013, fijó el monto de la indemnización provisional en la cantidad de $516.100.- para el lote Nº31-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
