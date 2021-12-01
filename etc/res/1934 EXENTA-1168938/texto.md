@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.934 del 17 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí 232, comuna de Chillán, Rol de Avalúo Nº 00697-00025, de aparente dominio de González Sabra Gustavo Adolfo. La superficie afecta a expropiación Parcial es de 155,33 m² de terreno y la de expropiación Total de 12,36 m² de edificaciones, cuyos linderos particulares están enmarcados en el plano S16R-040, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, la Ingeniero Constructor doña Lorena Elizabeth Gajardo Alarcón, y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $30.358.708.-
+
+Director Serviu Región de Ñuble.
