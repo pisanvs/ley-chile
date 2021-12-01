@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 2.113, 22 de noviembre de 2021, Serviu Región del Biobío ordenó expropiación total de terreno y de edificación de un inmueble ubicado en Colón Esmeralda, Rol de Avalúo Nº 3511-4, comuna de Talcahuano, de aparente dominio de Briones Palma José, superficie afecta expropiación total de terreno es de 237,50 m2 (Lote 57) y expropiación de edificaciones de 0,00 m2, según Plano S8R 32966-3, para la ejecución de las obras del proyecto “Corredor Transporte Público Colón: Perales Alessandri” Tramo 3 de la comuna de Talcahuano, Región del Biobío, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecta Victoria García Silvera, arquitecto Andrés Tobar Beluzán y arquitecto Alexander Boye Trenit, según informe de fecha 08.09.2021, fijó monto provisional indemnización en $35.999.234 más una suma de $910.781, por concepto de reajuste del artículo 5º del DL 2.186 de 1978, que dan la cifra de $36.910.015.-
+
+Director Serviu Región del Biobío.
