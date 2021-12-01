@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 3.751, de fecha 24/11/2021, conforme al artículo 51 ley 16391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pablo Neruda y Simón Bolívar/Imperial, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Propiedad ubicada enfrente a la Avenida Caupolicán 0395, antes camino a Nueva Imperial, de Temuco, de una cabida aproximada de media hectárea, Rol de avalúo: 1803-7, comuna de Temuco. La superficie a expropiar aproximada es de 5.000 metros cuadrados, de aparente dominio de Sociedad Inmobiliaria e Inversiones IKMA S.A. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Eduardo Antonio Yáñez Inzunza, y Claudio Marcelo Pezo Muñoz, fijó monto de Indemnización Provisional en $1.647.000.000 según Informe Nº 42-0A, de fecha 18.11.2021, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
