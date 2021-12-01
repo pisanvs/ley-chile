@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.995, del 22 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Almirante Latorre 157, comuna de Chillán, Rol de Avalúo Nº 00520-00028, de aparente dominio de Benítez Solís Olivia del Carmen. La parte afecta a expropiación total de terreno es de 168,35 m2 y total de 109,58 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-149, para el proyecto "Mejoramiento Avenida Diagonal Las Termas comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por la Arquitecto doña Priscilla Andrea Encalada Rueda, Arquitecto doña Cecilia María Carrasco Verdugo y por el Constructor Civil don Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $62.920.281.-
+
+Director Serviu Región de Ñuble.
