@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.951, del 18 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Barros Arana 205, comuna de Chillán, Rol de Avalúo Nº 00508-00015, de aparente dominio de Bórquez Godoy Amada del Carmen. La superficie afecta a expropiación Total es de 384,67 m² de terreno y la de expropiación Total es de 169,06 m² de edificaciones, cuyos linderos particulares están enmarcados en el plano S16R-102, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, el Arquitecto don Andrés Javier Tobar Beluzán, y por el Ingeniero Civil Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $142.417.746.-
+
+Director Serviu Región de Ñuble.
