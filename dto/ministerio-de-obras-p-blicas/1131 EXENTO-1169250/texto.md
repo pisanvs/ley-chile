@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1131, de 08 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 5, 6 y 7, para la obra: MEJORAMIENTO RUTAS Y-150, Y-156 E Y-160, CRUCE RUTA 9 - GUARDERIA SARMIENTO Y LAGUNA AMARGA, que figuran a nombre de SUC JUAN GOIC ARBUNIC, roles de avalúo 1023-3, Comuna de TORRES DEL PAINE, REGIÓN DE MAGALLANES Y ANTÁRTICA CHILENA, superficies 702, 829 y 157 m2. respectivamente. La Comisión de Peritos integrada por BEATRIZ VERA MONTAÑA, HUGO JOSÉ MANSILLA CÁRDENAS y CAROLINA ULLOA ALVAREZ, mediante informe de tasación de 06 de abril de 2021, fijó el monto de la indemnización provisional en la cantidad de $968.058, para el lote N°5, $1.199.563, para el lote N°6 y $273.494, para el lote N°7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
