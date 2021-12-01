@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.957, del 19 de noviembre de 2021, rectificada por la resolución exenta Nº 1.981 de la misma fecha, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí 210, comuna de Chillán, Rol de Avalúo Nº 00697-00021, de aparente dominio de Baeza Utrera Manuel Suc. La superficie afecta a expropiación Parcial es de 138,59 m² de terreno y la de expropiación Total de 108,94 m² de edificaciones, cuyos linderos particulares están enmarcados en el plano Sl6R-167, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, la Ingeniero Constructor doña Lorena Elizabeth Gajardo Alarcón, y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $62.215.291.-
+
+Director Serviu Región de Ñuble.
