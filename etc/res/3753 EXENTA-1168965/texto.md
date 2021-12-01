@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 3.753, de fecha 24/11/2021, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pablo Neruda y Simón Bolívar/Imperial, Temuco”, Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Inmueble consistente en el Lote resultante A Uno de una superficie de 956,265 metros cuadrados, resultante de la subdivisión del inmueble ubicado en la Población de Temuco, calle Pedro León Gallo número 0202, de la comuna de Temuco, de una superficie de 1912,53 metros cuadrados, Rol de avalúo: 1564-1, comuna de Temuco. La superficie a expropiar aproximada es de 483,21 metros cuadrados, de aparente dominio de Elisa Sepúlveda Muñoz. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Eduardo Antonio Yáñez Inzunza y Claudio Marcelo Pezo Muñoz, fijó monto de Indemnización Provisional en $190.840.000 según informe N° 44-0A, de fecha 18.11.2021, pagadero Contado.
+
+Director Serviu Región de la Araucanía.
