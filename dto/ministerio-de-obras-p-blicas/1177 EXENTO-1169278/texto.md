@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1177, de 11 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 5, 6 y 7, para la obra: MEJORAMIENTO RUTA Q-80, CRUCE RUTA 5 MULCHEN - NEGRETE, que figuran a nombre de SEPÚLVEDA MENDOZA PATRICIO ALEJA Y, rol de avalúo 604-27, Comuna de MULCHEN, REGION DEL BIOBÍO, superficies 311, 112 y 256 m2 respectivamente. La Comisión de Peritos integrada por VALESKA CAROLINA ALÉ GOÑI, CONSUELO LORETO ZULOAGA SANHUEZA y GONZALO ANDRÉS SUAZO FIGUEROA, mediante informe de tasación de 24 de enero de 2021, fijó el monto de la indemnización provisional en la cantidad de $637.951 para el lote N°5, $278.256 para el lote N°6, y $387.564 para el lote N°7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
