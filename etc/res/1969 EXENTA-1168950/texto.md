@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.969, del 19 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Almirante Latorre 152-B Población Wicker, comuna de Chillán, Rol de Avalúo Nº 00520-00049, de aparente dominio de Astudillo Sepúlveda José Joaquín. La superficie afecta a expropiación Parcial es de 94,13 m² de terreno y la de expropiación Total es de 177,06 m² de edificaciones, cuyos linderos particulares están enmarcados en el plano Sl6R-150, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por la Arquitecto doña Priscilla Andrea Encalada Rueda, la Arquitecto doña Cecilia María Carrasco Verdugo, y por el Constructor Civil don Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $126.039.387.-
+
+Director Serviu Región de Ñuble.
