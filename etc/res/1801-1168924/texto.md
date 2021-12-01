@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 1.801, de fecha 18 de noviembre de 2021, del Serviu IV Región de Coquimbo, se ordenó expropiar parcialmente, por causa de utilidad pública, para la ejecución del proyecto "Mejoramiento Avenida Cuatro Esquinas Tramo I mas Calle Los Arrayanes, La Serena", ciudad de La Serena, conforme al artículo 51 ley 16.391 y DL 2.186/78, el inmueble singularizado como Lote 85, en plano de expropiación, ubicado en PC 53 LT 2 A, de la comuna de La Serena, Rol de avalúo N° 961-85, de la comuna de La Serena, de aparente dominio de Víctor Bahamondes Castillo y otra, superficie aprox. de 1259,6 m2. Comisión de Peritos conformada por profesionales Miguel Rubio Vega, Francesca Vives Figueroa y Eduardo Tabilo González, según informe de fecha 1 de noviembre de 2021, fijó indemnización provisional en 14.781,6 UF.-, pagadero al contado.-
+
+Boris Reyes Pantoja, Director (S), Serviu Región de Coquimbo.
