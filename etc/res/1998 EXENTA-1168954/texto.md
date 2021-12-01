@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.998, del 23 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Barros Arana Nº 219, comuna de Chillán, Rol de Avalúo Nº 00508-00017, de aparente dominio de Lillo Novoa Aldo. La parte afecta a expropiación total de terreno es de 192,00 m2 y total de 164,27 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-172, para el proyecto "Mejoramiento Avenida Diagonal Las Termas comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, Arquitecto don Andrés Javier Tobar Beluzan, y por el Ingeniero Civil don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $90.683.711.-
+
+Director Serviu Región de Ñuble.
