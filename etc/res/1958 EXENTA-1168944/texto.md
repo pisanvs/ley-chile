@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.958, del 19 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí 214, comuna de Chillán, Rol de Avalúo Nº 00697-00022, de aparente dominio de Sepúlveda Jiménez Myriam. La parte afecta a expropiación parcial de terreno es de 131,03 m2 y total de 134,43 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-059, para el proyecto "Mejoramiento Avenida Huambalí comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, Constructor doña Lorena Elizabeth Gajardo Alarcón, y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $77.076.523-
+
+Director Serviu Región de Ñuble.
