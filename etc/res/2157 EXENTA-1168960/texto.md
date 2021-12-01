@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.157, 24 de noviembre de 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno y de edificación de un inmueble ubicado en M Montt 249, Rol de Avalúo Nº 87-6, comuna de Concepción, de aparente dominio de Saez Jiménez Andrés S, superficie afecta expropiación parcial de terreno es de 30,02 m2 (Lote 3) y expropiación de edificaciones de 0,00 m2, según Plano S8R 41157-1, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada" comuna de Concepción, Región del Biobío, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecta Carolina Contreras Tapia, arquitecto Juan King Domínguez y arquitecto Felipe Castillo Parra, según informe de fecha 28.09.2021, fijó monto provisional indemnización en $6.931.697 más una suma de $90.112, por concepto de reajuste del artículo 5º del DL 2186 de 1978, que dan la cifra de $7.021.809.-
+
+Director Serviu Región del Biobío.
