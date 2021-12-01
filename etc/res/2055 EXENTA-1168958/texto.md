@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.055, de 17 de noviembre 2021, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Camino Club Militar 60 LT 2 Camino Al Venado, Rol de Avalúo Nº 10500-2, comuna de San Pedro de la Paz, de aparente dominio de Valenzuela Benavides Irene del R y Otros, en una superficie de 838,90 m2 de terreno y de 47,37 m2 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-41.428-1, para la ejecución de las obras del proyecto "Mejoramiento Pavimentación Avenida Camino El Venado, sector Andalué, comuna de San Pedro de la Paz", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por constructor civil Roxana Abarzúa Gajardo, por arquitecto Alberto Vallete Isla y por ingeniero civil Carlos Montecinos Galleguillos, según informe de fecha 09.10.2021, fijó monto provisional indemnización, más reajuste artículo 5º DL 2.186, en la suma de $213.771.768.-, pagadera de contado.-
+
+Director Serviu Región del Biobío.
