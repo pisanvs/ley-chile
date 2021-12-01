@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 1.763, de fecha 15 de noviembre de 2021, del Serviu IV Región de Coquimbo, se ordenó expropiar parcialmente, por causa de utilidad pública, para la ejecución del proyecto Parque Urbano Humedal El Culebrón de la comuna de Coquimbo, conforme al artículo 51 ley 16.391 y DL 2.186/78, el inmueble singularizado como Lote 3-A Laguna Negra, Sector Oriente, en plano de expropiación, ubicado en Avenida Costanera S/N, Humedal El Culebrón de la comuna de Coquimbo, Rol matriz de Avalúo N° 899-60, de la comuna de Coquimbo, de aparente dominio de Sociedad Mac Auliffe y Cia. Ltda., superficie Aprox. de 7.875,3 m2. Comisión de Peritos conformada por profesionales Jaime Rolando Jurgens Bittner, Miguel Eduardo Sebastián Rubio Vega y Enrique Alfredo Bustos Bernard, según informe de fecha 4 de noviembre de 2021, fijó indemnización provisional en 1.575,06 UF, pagadero al contado.-
+
+Óscar Gutiérrez Seguel, Director Serviu Región de Coquimbo.
