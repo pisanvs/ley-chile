@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto exento N° 635, de 14 de septiembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al señor Jorge Patricio Zlatar Parvex, RUT 5.398.453-3, concesión marítima menor, con vencimiento al 31 de diciembre del año 2026, sobre un sector de Porción de Agua de Mar, en el lugar denominado sector San Agustín-Huelmo, comuna de Calbuco, Provincia de Llanquihue, Región de Los Lagos, con una superficie total de 3 m2, la que fue tramitada con el SIABC N° 37.739. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 41°43'00,52" - 73°03'02,23". El objeto consiste en amparar la instalación y uso de tres boyas para naves deportivas menores de 25 TRG. Las obras consisten habilitar el espacio para la instalación de tres boyas y el plazo contemplado para su instalación es de 30 días. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Calbuco. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Jonathan Dimter Muñoz, Capitán de Corbeta LT, Capitán de Puerto de Calbuco.
