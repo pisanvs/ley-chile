@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 3.760 de fecha 24/11/2021, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pablo Neruda y Simón Bolívar/Imperial, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Inmueble denominado Lote Uno Guion B, ubicado actualmente con frente a calle Uruguay número mil quinientos cincuenta y cuatro de la comuna de Temuco, Rol de avalúo: 1592-23, comuna de Temuco. La superficie a expropiar aproximada es de 143,76 metros cuadrados, de aparente dominio de Mario Antonio Mariángel Valdebenito. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Eduardo Antonio Yáñez Inzunza y Claudio Marcelo Pezo Muñoz, fijó monto de Indemnización Provisional en $72.830.000 según Informe N° 50-0A, de fecha 18.11.2021, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
