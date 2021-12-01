@@ -56,13 +56,13 @@ Considerando:
 
 Resuelvo:
 
-1. Ámbito de aplicación. La presente resolución regula los requisitos y condiciones que deben cumplir aquellas personas que ingresan y egresan del país en virtud de lo dispuesto en el decreto supremo Nº 102, de 2020, del Ministerio del Interior y Seguridad Pública.
+1. Ámbito de aplicación. La presente resolución regula los requisitos y condiciones que deben cumplir aquellas personas que ingresan y egresan del país en virtud de lo dispuesto en el decreto supremo N° 295, de 2021, del Ministerio del Interior y Seguridad Pública.
+
+La validación del esquema completo de vacunación contra SARS-CoV-2 se regirá por lo dispuesto en la resolución exenta N° 994, de 2021, del Ministerio de Salud.
 
 ### I. DE LA DECLARACIÓN JURADA
 
 2. Obligatoriedad de la declaración. Dispóngase que todas las personas que ingresen al país deben completar el formulario de Declaración Jurada sobre condiciones de ingreso al país, aprobado en virtud de lo dispuesto en el numeral 9 de la resolución exenta Nº 997, de 2020, del Ministerio de Salud.
-
-Sin perjuicio de lo dispuesto precedentemente, estarán eximidos de dicha obligación los menores de dos años.
 
 3. Forma y plazo de la declaración. Dispóngase que todas las personas que ingresen al país, deberán completar la señalada declaración a través de un formulario electrónico disponible en el sitio www.c19.cl, hasta 48 horas antes del embarque al medio de transporte por medio del cual se ingrese al territorio nacional. Este formulario será considerado como documentación necesaria para el ingreso al país, en el que se indicará dónde se realizará el aislamiento a que se refiere el numeral siguiente, y será revisado por la autoridad sanitaria en el punto de ingreso.
 
@@ -74,7 +74,31 @@ Para quienes ingresen al país a través de pasos fronterizos terrestres o marí
 
 Para efectos de lo anterior, se entenderá que los 7 días se cumplen una vez transcurridas 168 horas desde el control de la aduana sanitaria en el paso fronterizo por el cual se hizo ingreso al país.
 
-Sin perjuicio de lo dispuesto en el párrafo primero, el aislamiento de aquellas personas que cuenten con su Pase de Movilidad será de 120 horas desde el control de la aduana sanitaria en el paso fronterizo por el cual se hizo ingreso al país.
+Las personas que cuenten con esquema de vacunación completo contra el SARS-CoV-2 validado por el Ministerio de Salud, así como los menores de 6 años y mayores de 2 años que viajen con ellos, podrán interrumpir anticipadamente el aislamiento del que trata el párrafo anterior, si se obtiene un resultado negativo para detección de coronavirus realizado en Chile con posterioridad al ingreso al país en un laboratorio autorizado por la autoridad sanitaria para tal efecto, siempre y cuando la persona cumpla con todos los demás requisitos establecidos en la presente resolución.
+
+Los menores de 2 años que viajen con alguna de las personas señaladas en el párrafo anterior, no deberán cumplir con el requisito de obtención de un resultado negativo para detección de coronavirus para que proceda la interrupción anticipada de su aislamiento, siempre y cuando la persona a la que acompañan cumpla con todos los demás requisitos establecidos en la presente resolución.
+
+4 bis. Sin perjuicio de lo establecido en el numeral anterior, los chilenos y extranjeros residentes que ingresen al territorio nacional, provenientes de los países que a continuación se señalan, deben cumplir con la medida de aislamiento por 7 días o hasta que abandonen el país, en caso de que su permanencia fuere menor a 7 días.
+
+Estarán sujetos a lo dispuesto en este numeral los chilenos y extranjeros residentes que hayan estado, en los 14 días previos a su ingreso al país, en al menos uno de los siguientes países:
+
+- Sudáfrica
+
+- Zimbabwe
+
+- Namibia
+
+- Botswana
+
+- Lesoto
+
+- Eswatini
+
+- Mozambique
+
+Quienes se encuentren en la situación descrita en el párrafo anterior, no podrán interrumpir la cuarentena o aislamiento, ni aun en los casos descritos en el numeral precedente.
+
+No podrán ingresar al país los extranjeros no residentes que provengan de los países indicados en el presente numeral.
 
 5. Prohibición de interacción. Los viajeros que ingresen a Chile no podrán interactuar con otras personas mientras dure su aislamiento, a excepción de quienes se encuentren en el domicilio indicado y de quien sea indispensable para su traslado desde el punto de entrada al país hasta su lugar de aislamiento.
 
@@ -100,7 +124,9 @@ b. No se permite el ingreso a este lugar de ninguna persona que no resida ahí, 
 
 a) El trayecto al lugar de cumplimiento del aislamiento deberá ser directo desde el lugar de ingreso al país, sin posibilidad de pernoctar ni interactuar con otras personas.
 
-b) No se podrán utilizar medios de transporte público, salvo que el vehículo sea utilizado exclusivamente por quienes viajaron, además del conductor.
+Quienes deban realizar el trayecto al lugar de cumplimiento del aislamiento mediante conexiones de vuelos nacionales, podrán realizarlos aun cuando no hayan recibido el resultado del examen para detección de coronavirus realizado al ingresar al territorio.
+
+b) No se podrán utilizar medios de transporte público, salvo que el vehículo sea utilizado exclusivamente por quienes viajaron, además del conductor. Podrán exceptuarse de esta medida aquellas personas que viajen en transporte aéreo y cuenten con esquema de vacunación completo contra el SARS-CoV-2 validado por el Ministerio de Salud y los menores de 6 años que viajen con ellos.
 
 c) En caso de que el lugar de aislamiento quede a más de dos horas del punto de ingreso al país, el conductor del medio de transporte también deberá aislarse en los términos señalados en el numeral 4.
 
@@ -108,9 +134,9 @@ d) Una vez arribado al lugar de aislamiento deberá dar aviso de su llegada y ub
 
 e) Deberá utilizarse mascarilla durante todo el trayecto.
 
-12. Del traslado a otra región. En caso de que el traslado sea a una región distinta a la de ingreso al país, en el paso fronterizo de entrada se le entregará un certificado de aislamiento, que actuará como salvoconducto para llegar a destino, en caso de control. El certificado de aislamiento señalado no exime a las personas de cumplir con lo indicado en el numeral anterior.
+12. Del traslado a otra región. En caso de que el traslado sea a una región distinta a la de ingreso al país, la declaración jurada presentada en el paso fronterizo de entrada actuará como salvoconducto para llegar a destino, en caso de control. Con todo, deberán observarse las normas dispuestas en el numeral anterior.
 
-13. De los contagiados o contactos estrechos. Aquel viajero que, dentro de los catorce días contados desde su ingreso al país, sea calificado como caso confirmado, probable o contacto estrecho, conforme a lo señalado en la resolución Nº 644, de 2021, del Ministerio de Salud, así como sus contactos estrechos, deberán todos ellos cumplir la medida de aislamiento correspondiente, en una residencia sanitaria o donde la autoridad sanitaria lo indique.
+13. De los contagiados o contactos estrechos. Aquel viajero que, dentro de los catorce días contados desde su ingreso al país, sea calificado como caso confirmado, probable o contacto estrecho, conforme a lo señalado en la resolución Nº 994, de 2021, del Ministerio de Salud, así como sus contactos estrechos, deberán todos ellos cumplir la medida de aislamiento correspondiente, en una residencia sanitaria o donde la autoridad sanitaria lo indique.
 
 ### III. DEL TEST PCR PARA SARS-COV-2 PARA INGRESAR AL PAÍS
 
@@ -120,7 +146,7 @@ e) Deberá utilizarse mascarilla durante todo el trayecto.
 
 16. Del plazo de la toma de muestra. En caso de ingresar vía aérea, la toma de muestra del Test PCR para SARS-CoV-2 no debe exceder las 72 horas antes del viaje, contadas desde el embarque al transporte en el que se ingresó al territorio nacional.
 
-Si el viaje desde el punto de origen hasta territorio chileno contempla la utilización de varios medios de transporte, las señaladas 72 horas se contarán desde el embarque al último de éstos. En caso de ingresar por vía terrestre, la toma de muestra del Test del que trata el párrafo precedente no debe exceder las 72 horas anteriores a la entrada al país.
+Si el viaje desde el punto de origen hasta territorio chileno contempla la utilización de varios medios de transporte, las señaladas 72 horas se contarán desde el embarque al último de éstos. En caso de retraso del vuelo se considerará el horario programado del vuelo, siempre y cuando este no supere las 24 horas de diferencia con el horario efectivo de despegue. En caso de ingresar por vía terrestre, la toma de muestra del Test del que trata el párrafo precedente no debe exceder las 72 horas anteriores a la entrada al país.
 
 17. Del certificado. El certificado del resultado del examen PCR del que trata este acápite deberá acompañarse como documento adjunto a la Declaración Jurada señalada en el numeral 2 de la presente resolución.
 
@@ -166,15 +192,15 @@ La empresa de transporte que efectúe el traslado del pasajero será responsable
 
 28. Excepción para españoles. No será exigible el seguro médico de viaje a que se refiere este acápite, a los nacionales del Reino de España no residentes en Chile que ingresen al país, siempre que porten los formularios E-CHL/09 y E-CH/11 vigentes. Lo anterior en cumplimiento del Convenio de Seguridad Social entre la República de Chile y el Reino de España suscrito en Madrid, España, promulgado mediante decreto supremo Nº 262, de 1998, del Ministerio de Relaciones Exteriores; y de los artículos 5 y 6 del Acuerdo Administrativo con el Reino de España para la aplicación del Convenio de Seguridad Social, promulgado mediante decreto supremo Nº 810, de 1998, del Ministerio de Relaciones Exteriores.
 
-29. Excepción. No será exigible el seguro médico de viaje a que se refiere este acápite, a las personas que ingresen al país de acuerdo con la letra b) del inciso segundo del artículo segundo del decreto supremo 102, de 2020, del Ministerio del Interior y Seguridad Pública.
+29. Excepción. No será exigible el seguro médico de viaje a que se refiere este acápite, a las personas que ingresen al país de acuerdo con la letra b) del inciso segundo del artículo tercero del decreto supremo N° 295, de 2021, del Ministerio del Interior y Seguridad Pública.
 
 ### V. DEL PERIODO DE SEGUIMIENTO AL VIAJERO
 
-30. Obligatoriedad. Dispóngase que toda persona que ingrese desde el extranjero, sin importar su nacionalidad, lugar de origen o región de destino en Chile, deberá someterse al periodo de Seguimiento al Viajero durante los 14 días siguientes a su ingreso al territorio nacional o hasta que abandone éste, en caso de que su permanencia fuere menor a 14 días.
+30. Obligatoriedad. Dispóngase que toda persona que ingrese desde el extranjero, sin importar su nacionalidad, lugar de origen o región de destino en Chile, deberá someterse al periodo de Seguimiento al Viajero durante los 10 días siguientes a su ingreso al territorio nacional o hasta que abandone éste, en caso de que su permanencia fuere menor a 10 días.
 
-31. Forma de cumplimiento. Para dar cumplimiento al programa del Seguimiento del Viajero, dichas personas deberán completar durante 14 días un formulario de reporte de síntomas y ubicación. Esto se llevará a cabo completando una encuesta de estado de salud en la plataforma electrónica dispuesta para estos efectos por la autoridad sanitaria. La persona recibirá, de forma diaria, un recordatorio para ingresar la información correspondiente a la referida plataforma.
+31. Forma de cumplimiento. Para dar cumplimiento al programa del Seguimiento del Viajero, dichas personas deberán completar durante 10 días un formulario de reporte de síntomas y ubicación. Esto se llevará a cabo completando una encuesta de estado de salud en la plataforma electrónica dispuesta para estos efectos por la autoridad sanitaria. La persona recibirá, de forma diaria, un recordatorio para ingresar la información correspondiente a la referida plataforma.
 
-32. De la aparición de síntomas. Aquella persona que, durante el periodo de 14 días de Seguimiento del Viajero presente los síntomas de los que trata el numeral 22 de la resolución exenta Nº 644, de 2021, del Ministerio de Salud, deberá continuar o permanecer en aislamiento, reportar sus síntomas según lo dispuesto en el numeral anterior y esperar el contacto de la autoridad sanitaria. En caso de que esta última determine que califica como caso positivo o probable, se deberá cumplir con lo dispuesto en el numeral 4 de esta resolución.
+32. De la aparición de síntomas. Aquella persona que, durante el periodo de 10 días de Seguimiento del Viajero presente los síntomas de los que trata el numeral 22 de la resolución exenta Nº 994, de 2021, del Ministerio de Salud, deberá continuar o permanecer en aislamiento, reportar sus síntomas según lo dispuesto en el numeral anterior y esperar el contacto de la autoridad sanitaria. En caso de que esta última determine que califica como caso positivo o probable, se deberá cumplir con lo dispuesto en el numeral 4 de esta resolución.
 
 En el caso que los síntomas señalados sean fiebre mayor a 37,8º C, pérdida brusca de olfato o pérdida brusca del gusto, el viajero deberá acudir a un centro asistencial a la brevedad, haciendo uso de su mascarilla y evitando utilizar el transporte público, cumpliendo con todas las medidas sanitarias que sean pertinentes.
 
@@ -194,9 +220,9 @@ En caso de que sea un extranjero no residente de manera regular en el país quie
 
 35. Del viajero en tránsito. Exclúyase de los requisitos de ingreso dispuestos en los acápites II, III, IV y V, a las personas que ingresen al territorio nacional con el solo fin de proseguir en tránsito a un país extranjero. Para estos casos la autoridad sanitaria podrá establecer requisitos específicos.
 
-36. De los tripulantes. Los chilenos y extranjeros residentes de manera regular en el país, que sean tripulantes de naves y aeronaves y los mecánicos o quienes cumplan otras labores operacionales en las mismas, que ingresen al territorio nacional, podrán exceptuarse de las medidas dispuestas en los acápites I, II, III y V, siempre y cuando su empleador cumpla con asegurar e informar a la autoridad sanitaria la realización de un Test RT-PCR para SARS-CoV-2 o un test antígeno -a lo menos cada 7 días- para cada persona que requiera esta excepción.
+36. De los tripulantes. Los chilenos y extranjeros residentes de manera regular en el país, que sean tripulantes de naves y aeronaves y los mecánicos o quienes cumplan otras labores operacionales en las mismas, que ingresen al territorio nacional, podrán exceptuarse de las medidas dispuestas en los acápites I, II, III y V, siempre y cuando cuenten con un esquema de vacunación completo contra el SARS-CoV-2 más una dosis de refuerzo recibida hace menos de 6 meses y validada por el Ministerio de Salud, o bien, cuando su empleador cumpla con asegurar e informar a la autoridad sanitaria la realización de un Test RT-PCR para SARS-CoV-2 o un test antígeno -a lo menos cada 7 días- para cada persona que requiera esta excepción.
 
-Los extranjeros no residentes de manera regular en el pa�s, que sean tripulantes de naves y aeronaves que ingresen al territorio nacional, estarán excluidos de los requisitos dispuestos en los acápites III y V.
+Los extranjeros no residentes de manera regular en el país, que sean tripulantes de naves y aeronaves que ingresen al territorio nacional, estarán excluidos de los requisitos dispuestos en los acápites I, III y V.
 
 37. Del personal asociado a carga. Exclúyase de los requisitos de ingreso dispuestos en los acápites II y V precedentes, al personal asociado a la carga desde y hacia al territorio nacional, que sea estrictamente necesario, así como el personal de relevo de dicha tripulación, los que se regirán por lo que se dispone a continuación:
 
