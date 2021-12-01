@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 3.770 de fecha 24/11/2021, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda v Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pablo Neruda y Simón Bolívar/Imperial, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote número Z de una superficie de 1633 metros cuadrados, con actual frente a la calle San Ernesto número 1135, proveniente de la fusión del lote 3 A, resto del lote 2 y lote 4, los que a su vez provienen del resto del sitio 1 manzana 5 del plano de la Población Dreves, ciudad de Temuco, Rol de avalúo: 1567-4, comuna de Temuco. La superficie a expropiar aproximada es de 94,57 metros cuadrados, de aparente dominio de Sociedad de Inversiones Liucura Limitada. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Eduardo Antonio Yáñez Inzunza y Claudio Marcelo Pezo Muñoz, fijó monto de Indemnización Provisional en $29.610.000 según Informe Nº 31-0A, de fecha 18.11.2021, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
