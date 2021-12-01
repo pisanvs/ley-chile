@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.011, de 12 de noviembre 2021, Serviu Región del Biobío ordenó expropiación parcial del inmueble ubicado en Avenida Collao N° 1295, Rol de Avalúo N° 320-5, comuna de Concepción, de aparente dominio de Careaga Cantero María José, en una superficie de 76,13 m2 y de edificación (total) de 28,94 m2, conforme al plano S8R-40.364-1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao/General Novoa, comuna de Concepción", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por el arquitecto Rodrigo Escobar Fernández, por la arquitecto Marcela Melo Rodríguez y por la arquitecto Daniela Cortez Moraga, según informe de fecha 20 de agosto 2021, fijó monto provisional indemnización, más reajuste del artículo 5° DL 2.186, es la suma de $36.850.159, pagadera de contado.-
+
+Director Serviu Región del Biobío.
