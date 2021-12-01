@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1135, de 08 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N°2, para la obra: CONSERVACIÓN RED VIAL REGION DE LOS LAGOS (2018 - 2020), PUENTE ROLECHA, que figura a nombre de FLORENTINA SEGUNDA ALMONACID BARRIA, según inscripción de dominio del Conservador de Bienes Raíces de Hualaihue, FS.142, N°207, CBR HUALAIHUE, AÑO 2014, Comuna de HUALAIHUE, REGIÓN DE LOS LAGOS, superficie 300 m2. La Comisión de Peritos integrada por ANDRES ECHEVERRIA CAMPO, LORENA ELIZABETH GAJARDO ALARCON y DORY GISELA DONOSO SALGADO, mediante informe de tasación de 28 de febrero de 2020, fijó el monto de la indemnización provisional en la cantidad de $1.932.850, para el lote N°2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
