@@ -1,0 +1,11 @@
+APRUEBA LAS MEDIDAS DE CONSERVACIÓN Y ORDENAMIENTO ADOPTADAS POR LA COMISIÓN PARA LA CONSERVACIÓN DE LOS RECURSOS VIVOS MARINOS ANTÁRTICOS, TEMPORADA 2021-2022
+
+Por resolución exenta N° 3.117, de 24 de noviembre de 2021, de esta Subsecretaría, apruébanse las siguientes Medidas de Conservación y Ordenamiento adoptadas por la Comisión para la Conservación de los Recursos Vivos Marinos Antárticos, correspondiente a la temporada 2021-2022, en la XL Reunión de la Comisión para la Conservación de los Recursos Vivos Marinos Antárticos, celebrada de manera virtual, desde el 18 al 29 de octubre de 2021:
+
+10-01 (2014), 10-02 (2016), 10-03 (2019), 10-04 (2018), 10-05 (2021), 10-06 (2016), 10-07 (2016), 10-08 (2017), 10-09 (2019), 10-10 (2019), 21-01 (2019), 21-02 (2019), 21-03 (2019), 22-01 (1986), 22-02 (1984), 22-03 (1990), 22-04 (2010), 22-05 (2008), 22-06 (2019), 22-07 (2013), 22-08 (2009), 22-09 (2012), 23-01 (2016), 23-02 (2016), 23-03 (2016), 23-04 (2016), 23-05 (2000), 23-06 (2019), 23-07 (2016), 24-01 (2019), 24-02 (2014), 24-04 (2017), 24-05 (2021), 25-02 (2018), 25-03 (2021), 26-01 (2019), 31-01 (1986), 31-02 (2007), 32-01 (2001), 32-02 (2017), 32-09 (2021), 32-18 (2006), 33-01 (1995), 33-02 (2021), 33-03 (2021), 41-01 (2021), 41-03 (2021), 41-04 (2021), 41-05 (2021), 41-06 (2021), 41-07 (2021), 41-08 (2021), 41-09 (2021), 41-10 (2021), 41-11 (2021), 42-01 (2021), 42-02 (2021), 51-01 (2010), 51-02 (2008), 51-03 (2008), 51-04 (2021), 51-06 (2019), 51-07 (2021), 91-01 (2004), 91-02 (2012), 91-03 (2009), 91-04 (2011), 91-05 (2016), r7/IX, r10/XII, r14/XIX, r15/XXII, r16/XIX, r17/XX, r18/XXI, r19/XXI, r20/XXII, r22/XXV, r23/XXIII, r25/XXV, r27/XXVII, r28/XXVII, r29/XXVIII, r30/XXVIII, r31/XXVIII, r32/XXIX, r33/XXX, r34/XXXI, y r35/XXXIV.
+
+El texto íntegro de las medidas antes señaladas se encuentra disponible en el sitio de dominio electrónico de la Subsecretaría de Pesca y Acuicultura, www.subpesca.cl.
+
+Valparaíso, 24 de noviembre de 2021.- Mónica Orellana Valdés, Subsecretaria de Pesca y Acuicultura (S).
+
+Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Daniela Bolbarán Pérez, Jefe Departamento Administrativo (S).
