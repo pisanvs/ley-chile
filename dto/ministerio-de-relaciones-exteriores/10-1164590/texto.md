@@ -12,9 +12,9 @@ Que, por decreto Nº 158, de 2018, de esta Secretaría de Estado, el señor Rodr
 
 Decreto:
 
-1. Destínase a prestar servicios en Chile en calidad de Adscripto, al señor Rodrigo Javier Fernández Gaete (RUN Nº 6.065.812-9), Embajador 1ª Categoría Exterior, a contar del 1 de abril de 2021.
+1. Destínase a prestar servicios en Chile en calidad de Adscripto, al Sr. Rodrigo Javier Fernández Gaete (RUN N° 6.065.812-9), Embajador 1ª Categoría Exterior, a contar del 19 de abril de 2021.
 
-2. El señor Fernández Gaete, cesará en sus funciones como Embajador de Chile en Israel, a contar del 1 de abril de 2021.
+2. El señor Fernández Gaete cesará en sus funciones como Embajador de Chile en Israel, a contar del 19 de abril de 2021.
 
 3. La persona antes individualizada, pasará de la Planta "A" Presupuesto en Moneda Extranjera, a la Planta "B" Presupuesto en Moneda Nacional.
 
