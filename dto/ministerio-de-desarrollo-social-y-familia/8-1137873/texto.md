@@ -42,7 +42,7 @@ A este efecto y para el cumplimiento de sus funciones y tareas, el Panel será i
 
 Tercero.- Desígnase como miembros del panel a las siguientes personas:
 
-1) Slaven Antonio Razmilic Burgos RUN 10.609.361-K, quien será su Coordinador.
+1) Rodrigo Osvaldo Valdés Pulido RUN 8.267.804-2". quien será su Coordinador.
 
 2) David Bravo Urrutia RUN 9.798.861-7.
 
@@ -56,15 +56,9 @@ Las personas designadas desempeñarán sus funciones ad honorem, a título perso
 
 En la primera sesión los integrantes del Panel establecerán un acuerdo para su funcionamiento el que será informado al Ministerio de acuerdo lo dispuesto en la letra b) del artículo siguiente.
 
-Cuarto.- Déjase constancia que el Coordinador del Panel convocará a las sesiones del mismo según lo establecido en el acuerdo de funcionamiento y en tal calidad le corresponderán, especialmente, las siguientes funciones:
+Cuarto.- Establézcase que el apoyo técnico y administrativo que se requiere para el funcionamiento del Panel será proporcionado por el Ministerio de Desarrollo Social y Familia a través de la Subsecretaría de Evaluación Social. Para estos efectos, la Subsecretaría de Evaluación Social podrá disponer de un (una) funcionario(a) de su dependencia que colabore en la labor de coordinación del panel.
 
-a) Dirigir y coordinar las reuniones de trabajo del Panel.
-
-b) Comunicar e informar al Ministerio de Desarrollo Social y Familia sobre el desarrollo de las tareas realizadas y los acuerdos logrados por el Panel.
-
-Quinto.- Establézcase que el apoyo técnico y administrativo que se requiere para el funcionamiento del Panel será proporcionado por el Ministerio de Desarrollo Social y Familia a través de la Subsecretaría de Evaluación Social.
-
-Sexto.- Déjase constancia que los gastos que se originen con ocasión de las labores del Panel, serán de cargo del presupuesto de la Subsecretaría de Evaluación Social.
+Quinto.- Déjase constancia que los gastos que se originen con ocasión de las labores del Panel, serán de cargo del presupuesto de la Subsecretaría de Evaluación Social.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Sebastián Sichel Ramírez, Ministro de Desarrollo Social y Familia.
 
