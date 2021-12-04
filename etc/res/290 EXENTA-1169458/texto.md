@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 290 EXENTA, DE 16 DE NOVIEMBRE DE 2021
+
+Por resolución exenta Nº 290, de 16 de noviembre de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Ñuble, se autorizó a la Escuela de Conductores Profesionales denominada "Servicios de Capacitación Nogal Chile SpA", de propiedad de la Sociedad del mismo nombre, RUT Nº 76.440.444-0, representada legalmente por Francisco Navarro Ruiz, cédula de identidad Nº 7.165.191-6 para impartir curso especial con Simulador de Inmersión Total, conducente a la obtención de licencia de conductor Clase A3 y A5, en su sede ubicada en calle Vega de Saldías Nº 1001, comuna de Chillán.-
+
+Bárbara Isabella Kopplin Lanata, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Ñuble.
