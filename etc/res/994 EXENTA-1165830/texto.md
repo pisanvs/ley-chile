@@ -52,13 +52,13 @@ CAPÍTULO I. DE LAS MEDIDAS SANITARIAS GENERALES
 
 ### I. Aduanas Sanitarias y controles sanitarios
 
-1. Sobre la instalación de aduanas sanitarias y controles sanitarios. Instrúyase a las Secretarías Regionales Ministeriales de Salud del país la instalación de aduanas sanitarias y realización de controles sanitarios en todos aquellos puntos de entrada al país, además de puertos, aeropuertos y terminales de buses que se encuentren en su región.
+1. Sobre la instalación de aduanas sanitarias y controles sanitarios. Instrúyase a las Secretarías Regionales Ministeriales de Salud del país la instalación de aduanas sanitarias y realización de controles sanitarios en todos aquellos puntos de entrada al país.
 
-2. De las aduanas sanitarias. Las aduanas sanitarias controlarán los Pasaportes Sanitarios. Será obligatoria la conservación y exhibición a la autoridad competente del Pasaporte Sanitario para las personas que los obtengan, ya sea de forma física o digital.
+2. De las aduanas sanitarias. Las aduanas sanitarias controlarán la Declaración Jurada de la que trata el Título I de la resolución exenta Nº 672, de 2021, del Ministerio de Salud, y los documentos requeridos para ingresar al país, según lo dispuesto en la normativa sanitaria.
 
-El Pasaporte Sanitario será necesario para todos los traslados interregionales, que se realicen en medios de transporte públicos, como buses, minibuses, trenes y aviones.
+Será obligatoria la conservación y exhibición a la autoridad competente de dicha Declaración Jurada para las personas que la obtenga, ya sea de forma física o digital.
 
-3. Sobre la exhibición del Pasaporte Sanitario a funcionarios de medios de transportes. No obstante, las facultades de fiscalización propias de la autoridad competente, los trabajadores y prestadores de servicios que laboren en empresas de transporte aéreo, marítimo, terrestre o ferroviario, deberán solicitar la exhibición del Pasaporte Sanitario a los pasajeros de todos los servicios interregionales que hayan sido abordados en recintos donde no esté implementada una aduana sanitaria. Solo podrá abordar al medio de transporte aquella persona que exhiba un Pasaporte Sanitario, y que acredite su identidad.
+### 3. Eliminado
 
 ### II. Sobre las medidas sanitarias en los Establecimientos de Larga Estadía de Adultos Mayores
 
@@ -71,6 +71,10 @@ Todos los residentes podrán recibir visitas de vínculos significativos, a peti
 5. Medidas en establecimientos dependientes del Sename. Instrúyase al Servicio Nacional de Menores tomar las medidas sanitarias que sean necesarias para evitar el contagio de los niños, niñas y adolescentes bajo su cuidado.
 
 Todos los residentes podrán recibir visitas de vínculos significativos, a petición del niño, niña o adolescente, o del visitante, adoptándose todos los resguardos que sean necesarios y cumpliéndose con las medidas sanitarias correspondientes al Paso aplicable.
+
+III bis. Sobre las medidas sanitarias en piscinas públicas.
+
+5 bis. Se deberá exigir el Pase de Movilidad habilitado de que trata el acápite XVI, a todas las personas que ingresen al recinto donde se encuentre una piscina pública, siendo responsable del cumplimiento de esta medida el dueño de dicho recinto.
 
 ### IV. Sobre las cuarentenas y aislamientos en razón de circunstancias epidemiológicas
 
@@ -242,6 +246,8 @@ f. Las personas que se encuentren en establecimientos de salud, las que se regir
 
 g. Las personas que se encuentran en una sala de clases en un establecimiento educacional, las que se regirán por la regulación complementaria dictada al efecto.
 
+h. Las personas que asistan a actividades sin interacción entre los asistentes, en que el aforo máximo permitido es mayor al 50% del aforo total definido.
+
 25. De los establecimientos de salud. Déjase constancia que las restricciones de aforo dispuestas para los lugares que atienden público, según se indica en el Capítulo II de esta resolución, no se aplican a los establecimientos asistenciales de salud, los que se rigen por sus normas particulares.
 
 26. De la atención presencial preferente en los lugares que indica. En aquellos lugares donde se realicen pagos en dinero en efectivo al público general, se estará a lo dispuesto en el Capítulo II, con las modificaciones que a continuación se señalan:
@@ -292,11 +298,11 @@ De acuerdo a lo dispuesto precedentemente, se podrán autorizar actividades o ev
 
 39. Del funcionamiento de los establecimientos de educación superior. Los establecimientos de educación superior podrán tener clases presenciales, independiente del Paso en que se encuentre la localidad que se trate.
 
-### XII. De las medidas relativas al transporte
+### XII. De las medidas relativas al transporte interregional e interurbano
 
 ### 40. Eliminado
 
-41. De la nómina de pasajeros. Dispóngase que los buses de transporte público de pasajeros que presten servicio interurbano e interregional y aeronaves deberán confeccionar y portar una nómina de los pasajeros que transportan. Dicha obligación será exigible en aquellos viajes por tierra cuya duración exceda las 2 horas y en todos los vuelos.
+41. De la nómina de pasajeros. Dispóngase que los buses de transporte público de pasajeros que presten servicio interurbano e interregional y aeronaves deberán confeccionar y portar una nómina de los pasajeros que transportan. Dicha obligación será exigible en aquellos viajes por tierra cuya extensión exceda los 200 kilómetros y en todos los vuelos.
 
 La nómina de la que trata el párrafo anterior deberá contener los nombres y apellidos de los pasajeros, su número de cédula de identidad o pasaporte y sus números de teléfono de contacto, así como el número de asiento utilizado por cada uno de ellos. Esta nómina estará, en todo caso, afecta a las disposiciones de las leyes Nº 19.628 y Nº 20.584, en lo que fuera aplicable.
 
@@ -315,6 +321,14 @@ Los buses interurbanos deberán detenerse en el camino para dar espacio a la ali
 Los pasajeros que ingresen a buses para realizar viajes interurbanos deberán previamente sanitizarse las manos.
 
 44. Frazadas y almohadas. El transportista no podrá poner a disposición de los pasajeros frazadas o almohadas en buses interurbanos o aviones.
+
+44 A. De la exigencia del Pase de Movilidad o Test PCR. Todas las personas que realicen viajes superiores a 200 kilómetros en medios de transporte público deberán contar con su Pase de Movilidad habilitado.
+
+Sin perjuicio de lo dispuesto precedentemente, quienes no cuenten con un Pase de Movilidad podrán realizar viajes superiores a 200 kilómetros en transporte público si cuentan con un resultado negativo en un Test PCR para SARS-CoV-2 realizado en Chile. La toma de muestra del Test PCR para SARS-CoV-2 no debe exceder las 72 horas antes de iniciar el viaje.
+
+No obstante lo anterior, lo dispuesto en el párrafo precedente no será aplicable a quienes cuenten con un Pase de Movilidad que no esté habilitado. Si el Pase de Movilidad estuviere suspendido en virtud de lo dispuesto en el numeral 61, se podrá hacer uso de lo dispuesto en el párrafo anterior.
+
+44 B. Sobre la exhibición de documentos a funcionarios de medios de transportes. Sin perjuicio de las facultades de fiscalización propias de la autoridad competente, los trabajadores y prestadores de servicios que laboren en empresas de transporte aéreo, marítimo, terrestre o ferroviario, deberán solicitar la exhibición del Pase de Movilidad y verificar que éste se encuentre habilitado o la exhibición del resultado negativo del Test PCR para SARS-CoV-2, según corresponda, a los pasajeros de todos los servicios superiores a 200 kilómetros. Asimismo, podrán solicitar los documentos que acrediten la identidad del pasajero.
 
 ### XIII. Medidas administrativas
 
@@ -394,7 +408,7 @@ La solicitud de la que trata este numeral deberá realizarse dentro de los 90 d�
 
 58. De los efectos del Pase de Movilidad. El Pase de Movilidad habilitado no afectará la movilidad de su titular, y producirá los efectos que explícitamente se señalen en los actos administrativos dictados por la autoridad sanitaria.
 
-Los efectos del Pase de Movilidad habilitado serán aplicables a menores de edad que no cuenten con esquema de vacunación completo, que estén en compañía de su padre, madre, tutor o curador, que sea titular de un Pase de Movilidad habilitado.
+Los efectos del Pase de Movilidad habilitado serán aplicables a menores de 12 años de edad que no cuenten con esquema de vacunación completo, que estén en compañía de su padre, madre, tutor o curador, que sea titular de un Pase de Movilidad habilitado.
 
 59. Sin perjuicio de lo dispuesto en el párrafo segundo del numeral anterior, los efectos del Pase de Movilidad de los padres, madres, tutores y curadores no alcanzarán a los menores de edad bajo su cuidado, para efectos de lo dispuesto en el inciso segundo del artículo primero del decreto supremo Nº 102, de 2020, del Ministerio del Interior y Seguridad Pública.
 
@@ -430,7 +444,7 @@ b. Espacio abierto o aire libre: aquel que no tiene techo o aquel que, teniendo 
 
 c. Espacio cerrado: aquel que tiene techo y más del 50% de su perímetro con muros.
 
-d. Actividades sin interacción entre asistentes: Son aquellas convocatorias de un grupo de personas a la misma hora en un determinado lugar, que no sea una residencia particular, en que se cumplen las siguientes condiciones copulativas:
+d. Actividades sin interacción entre asistentes: Son aquellas convocatorias de un grupo de personas a la misma hora en un determinado lugar, en que se cumplen las siguientes condiciones copulativas:
 
 i. Las personas mantienen una ubicación fija durante toda la duración de la actividad.
 
@@ -440,7 +454,11 @@ iii. No se consumen alimentos.
 
 iv. El uso de la mascarilla es permanente.
 
-e. Actividades con interacción entre asistentes: Son aquellas convocatorias de un grupo de personas a la misma hora en un determinado lugar, que no sea una residencia particular, en las que no se cumplen una o más de las condiciones señaladas en el literal anterior.
+En el caso que la convocatoria sea en una residencia particular, debe ser organizada por una persona que no sea residente de ella.
+
+e. Actividades con interacción entre asistentes: Son aquellas convocatorias de un grupo de personas a la misma hora en un determinado lugar, en las que no se cumplen una o más de las condiciones señaladas en el literal anterior.
+
+En el caso que la convocatoria sea en una residencia particular, debe ser organizada por una persona que no sea residente de ella.
 
 f. Restaurantes y lugares análogos: Es aquel establecimiento que cuenta con un giro comercial cuyo objeto sea el servicio de alimentación al público general, ya sea para llevar, o bien, que los asistentes permanezcan en una ubicación fija durante toda la prestación del servicio.
 
@@ -732,7 +750,7 @@ i. Los espacios cerrados deberán cumplir con norma estándar de ventilación.
 
 j. No obstante lo indicado en el literal b., si hay consumo de alimentos, los asistentes deben guardar una distancia de 1,5 metros entre sí.
 
-94. De las actividades con interacción entre asistentes. La realización de este tipo de actividades, que no se desarrollen en residencias particulares, deberá cumplir las siguientes reglas:
+94. De las actividades con interacción entre asistentes. La realización de este tipo de actividades, deberá cumplir las siguientes reglas:
 
 a. El aforo máximo será de 25 personas en espacios cerrados y de 100 personas en espacios abiertos.
 
@@ -747,6 +765,8 @@ e. En un mismo recinto, podrán realizarse simultáneamente más de una activida
 f. Los espacios cerrados deberán cumplir con la norma estándar de ventilación.
 
 g. Sin perjuicio de lo dispuesto en las letras a. y b., el aforo total no podrá exceder de 1 persona por cada 6 metros cuadrados de la superficie útil destinada al público.
+
+En el caso de una convocatoria en residencia particular, el organizador no residente será responsable de garantizar el cumplimiento de los literales anteriores durante la actividad.
 
 95. De los Centros de Día para Adulto Mayor. El funcionamiento de los Centros de Día para Adultos Mayores estará sujeto a las siguientes reglas:
 
@@ -846,7 +866,7 @@ i. En un mismo recinto, podrán realizarse simultáneamente más de una activida
 
 j. Los espacios cerrados deberán cumplir con norma estándar de ventilación.
 
-105. De las actividades con interacción entre asistentes. La realización de este tipo de actividades, que no se desarrollen en residencias particulares, deberá cumplir con las siguientes reglas:
+105. De las actividades con interacción entre asistentes. La realización de este tipo de actividades, deberá cumplir con las siguientes reglas:
 
 a. El aforo máximo será de 100 personas en espacios cerrados y de 250 personas en espacios abiertos.
 
@@ -861,6 +881,8 @@ e. En un mismo recinto, podrán realizarse simultáneamente más de una activida
 f. Los espacios cerrados deberán cumplir con norma estándar de ventilación.
 
 Sin perjuicio de lo dispuesto en las letras a. y b., el aforo total no podrá exceder de 1 persona por cada 4 metros cuadrados de la superficie útil destinada al público.
+
+En el caso de una convocatoria en residencia particular, el organizador no residente será responsable de garantizar el cumplimiento de los literales anteriores durante la actividad.
 
 106. De los Centros de Día para Adulto Mayor. El funcionamiento de los Centros de Día para Adultos Mayores estará sujeto a las siguientes reglas:
 
