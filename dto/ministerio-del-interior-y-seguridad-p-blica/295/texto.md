@@ -38,15 +38,9 @@ Dispóngase el cierre para el tránsito de personas, de todos los lugares habili
 
 De manera excepcional se permitirá el ingreso de extranjeros no residentes en el país, que cuenten con esquema completo de vacunación o que sean menores de 6 años, y cumplan con todos los requisitos señalados en la normativa sanitaria vigente, a través de los siguientes lugares habilitados:
 
-1. Aeropuertos Arturo Merino Benítez en la ciudad de Santiago, Diego de Aracena en la ciudad de Iquique, Andrés Sabella en la ciudad de Antofagasta y Presidente Carlos Ibáñez del Campo en la ciudad de Punta Arenas,
+1. Aeropuertos Arturo Merino Benítez en la ciudad de Santiago, Diego de Aracena en la ciudad de Iquique, Andrés Sabella en la ciudad de Antofagasta y Presidente Carlos Ibáñez del Campo en la ciudad de Punta Arenas, y
 
 2. Puertos habilitados para tales efectos.
-
-3. Pasos fronterizos terrestres de Futaleufú en la Región de Los Lagos; de Huemules y Jeinimeni en la Región de Aysén del General Carlos Ibáñez del Campo; y, de Integración Austral, en la Región de Magallanes y de la Antártica Chilena.
-
-4. Desde el 4 de enero de 2022, el paso fronterizo terrestre de Los Libertadores, en la Región de Valparaíso.
-
-5. Desde el 16 de febrero hasta el 28 de febrero de 2022, el paso fronterizo terrestre Cardenal Samoré, en la Región de Los Lagos, exclusivamente para el ingreso de personas que hayan salido del país por el paso fronterizo terrestre de Futaleufú, en la Región de Los Lagos, en las últimas 18 horas
 
 La medida excepcional dispuesta en el inciso primero no afectará a los nacionales chilenos, ni a los extranjeros residentes de manera regular en el territorio nacional, que ingresen al territorio nacional, quienes de conformidad con los protocolos e instrucciones de la autoridad, podrán ingresar al país sometiéndose a los procedimientos sanitarios pertinentes por los lugares habilitados individualizados en el inciso anterior.
 
@@ -102,19 +96,25 @@ Los bienes y las personas señaladas en el inciso precedente deberán observar l
 
 #### Artículo cuarto
 
-Eliminado.
+No obstante lo dispuesto en el artículo primero, dispóngase la prohibición de entrada al territorio nacional de los extranjeros no residentes de manera regular que hayan estado durante los últimos 14 días en alguno de los siguientes países:
+
+- Sudáfrica;
+
+- Zimbabwe;
+
+- Namibia;
+
+- Botswana;
+
+- Lesoto;
+
+- Eswatini, o
+
+- Mozambique.
 
 #### Artículo quinto
 
 Las medidas dispuestas en este decreto regirán a contar de las 00:00 horas del 1 de diciembre de 2021 y hasta el 31 de diciembre de 2021, periodo que podrá ser modificado en atención a la evolución que experimente el brote de nuevo coronavirus (2019-NCOV), en el territorio nacional.
-
-> **Nota.** El artículo segundo del Decreto 320, Interior, publicado el 31.12.2021, dispone extender hasta el 31 de enero de 2022 la vigencia del presente decreto. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
-
-> **Nota.** NOTA 1 El artículo segundo del Decreto 21, Interior, publicado el 31.01.2022, dispone extender hasta el 28 de febrero de 2022 la vigencia del presente decreto. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
-
-> **Nota.** NOTA 2 El artículo segundo del Decreto 34, Interior, publicado el 16.02.2022, dispone extender hasta el 31 de marzo de 2022 la vigencia del presente decreto. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
-
-> **Nota.** NOTA 3 El artículo único del Decreto 142, Interior, publicado el 31.03.2022, dispone extender hasta el 30 de abril de 2022 la vigencia del presente decreto. Lo anterior, sin perjuicio de eventuales modificaciones en atención a la evolución que experimente el brote de COVID-19 en el territorio nacional.
 
 #### Artículo sexto
 
