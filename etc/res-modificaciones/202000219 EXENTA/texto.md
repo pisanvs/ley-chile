@@ -24,7 +24,7 @@ Modifícase el artículo primero de la resolución administrativa exenta N° 1.8
 
 8. Secretaría Regional Ministerial de Ñuble
 
-11. Secretaría Regional Ministerial de la Araucanía:
+11. Secretaría Regional Ministerial de Economía, Fomento y Turismo, de la Región de la Araucanía::
 
 #### Artículo segundo
 
