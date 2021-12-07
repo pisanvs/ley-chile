@@ -1,0 +1,7 @@
+PROHÍBE CIRCULACIÓN DE VEHÍCULOS MOTORIZADOS EN LA VÍA/S QUE INDICA
+
+Por resolución exenta N° 417, de fecha 17 de noviembre de 2021, del Gobierno Regional del Biobío, se ha dispuesto la prohibición de la circulación de los vehículos motorizados en la Avenida Bernardo O'Higgins entre calles Irarrázabal y Cañete, de la comuna de Santa Juana, por un plazo de 90 días de acuerdo a la necesidad del momento, con la finalidad de realizar en dicha vía, la toma de exámenes del circuito práctico a los postulantes a obtener Licencias de Conducir clases "C" y/o "CR" a realizarse todos los días viernes hábiles y en horarios de 09:00 a 14:00 hrs. Los vehículos motorizados que en su trayecto tengan como vía de circulación las calles señaladas, deberán adoptar vías alternativas para el tránsito por el sector; y excepcionalmente podrán circular los vehículos de emergencia y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicado en dicho tramo. La resolución exenta con su texto íntegro se encuentra disponible en el sitio electrónico de "Gobierno Transparente", del Gobierno Regional del Biobío.
+
+Autoriza extracto.-
+
+Rodrigo Díaz Wörner, Gobernador Regional, Gobierno Regional del Biobío.
