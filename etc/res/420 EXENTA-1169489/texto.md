@@ -1,0 +1,7 @@
+PROHÍBE CIRCULACIÓN DE VEHÍCULOS MOTORIZADOS EN LA VÍA/S QUE SE INDICA
+
+Por resolución exenta N° 420, de fecha 17 de noviembre de 2021, del Gobierno Regional del Biobío, se dispuso la prohibición de circulación de vehículos motorizadas en calle Aníbal Pinto entre calle Castellón y O'Carrol, y calle O'Carrol entre Aníbal Pinto y Cruz, todos los días martes y viernes entre las 06.00 y las 14.00 horas, a contar de la fecha de la presente resolución y hasta el 25.05.2023, a fin de permitir la instalación de la Feria Libre de la comuna de Yumbel a cargo de la Municipalidad de Yumbel. Los vehículos motorizados que en su trayecto tengan como vía de circulación las vías afectadas, deberán adoptar vías alternativas para el tránsito por el sector. Excepcionalmente podrán circular en el tramo señalado, los vehículos de emergencia y aquellos vehículo que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicado en dicho tramo. La resolución exenta con su texto íntegro se encuentra disponible en el sitio electrónico de "Gobierno Transparente" del Gobierno Regional del Biobío.
+
+Autoriza extracto.-
+
+Rodrigo Díaz Wörner, Gobernador Regional, Gobierno Regional del Biobío.
