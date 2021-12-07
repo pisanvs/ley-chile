@@ -1,0 +1,7 @@
+PROHÍBE LA CIRCULACIÓN DE VEHÍCULOS MOTORIZADOS EN LA VÍA/S QUE SE INDICA
+
+Por resolución exenta N° 423, de fecha 17 de noviembre de 2021, del Gobierno Regional del Biobío se prohíbe la circulación de vehículos motorizados por calle Los Raulíes en el tramo comprendido entre calle Las Araucarias y calle Las Palmeras, a contar de la fecha de la presente resolución y hasta el día 5 de enero de 2022, a fin de permitir la ejecución del proyecto denominado "Programa de Pavimentación Participativa 30° Proceso de Selección, Grupo 3 y 4A", cuyo mandante es Serviu y adjudicada por la Empresa Constructora Tromer SpA. Los vehículos motorizados que en su trayecto tengan coma vía de circulación las calles señaladas, deberán adoptar vías alternativas para el tránsito por el sector; y respecto del Servicio de Transporte Público que utilicen la vía afectada en su recorrido habitual, deberá adoptar el desvío dispuesto al efecto por el municipio y aprobado por la Seremitt. La resolución exenta con su texto íntegro se encuentra disponible en el sitio electrónico de "Gobierno Transparente" del Gobierno Regional del Biobío.
+
+Autoriza extracto.-
+
+Rodrigo Díaz Wörner, Gobernador Regional, Gobierno Regional del Biobío.
