@@ -1,0 +1,35 @@
+AUTORIZA AMPLIACIÓN DEL ALCANCE DE LA ACREDITACIÓN DEL CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES CAPITOL GROUP SpA, A LOS PERFILES OCUPACIONALES QUE INDICA
+
+Núm. 312 exenta.- Santiago, 1 de diciembre de 2021.
+
+Visto:
+
+Lo dispuesto en la Ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo; en el Reglamento que regula la Comisión del Sistema Nacional de Certificación de Competencias Laborales, establecido por decreto supremo Nº 137, de 2008, del Ministerio del Trabajo y Previsión Social; en el Reglamento que regula la Acreditación de Centros de Evaluación y Certificación de Competencias Laborales y la Habilitación de Evaluadores, aprobado por decreto supremo Nº 29, de 2011, del Ministerio del Trabajo y Previsión Social; la resolución exenta Nº 1.068, de 2011, de la Subsecretaría del Trabajo, sobre aranceles del Sistema Nacional de Certificación de Competencias Laborales; la resolución Nº 281, de 26 de noviembre de 2020, de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, que aprueba el procedimiento de Ampliación de Alcance de Acreditación, para los Centros de Evaluación y Certificación de Competencias Laborales acreditados en el Sistema Nacional de Certificación de Competencias Laborales; la resolución exenta Nº 183, de 13 de agosto de 2021, de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, que acreditó a la sociedad Capitol Group SpA, como Centro de Evaluación y Certificación de Competencias Laborales; en la resolución exenta Nº 281, de 18 de noviembre de 2021, de esta Comisión, que cerró la etapa de evaluación de la solicitud de ampliación de alcance presentada por dicho Centro; el acuerdo Nº 964, de 2021, adoptado en la centésima trigésima quinta sesión ordinaria del directorio de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, celebrada con fecha 30 de noviembre de 2021; el Anexo de Acta de Compromiso suscrito por el Centro de Evaluación y Certificación de Competencias Laborales Capitol Group SpA; la resolución exenta Nº 63, de 2020, modificada por la resolución exenta Nº 327, de 31 de diciembre de 2020, ambas de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, que establece medidas de gestión interna en la Comisión, que deberá cumplir su personal, para hacer frente a la situación sanitaria relacionada con el brote de Coronavirus (Covid-19); la resolución Nº 7, de 2019, de la Contraloría General de la República; y las facultades que me confiere el artículo 9º de la ley Nº 20.267.
+
+Considerando:
+
+1. Que, la Comisión del Sistema Nacional de Certificación de Competencias Laborales, en adelante ChileValora o la Comisión, es un servicio público funcionalmente descentralizado, con personalidad jurídica y patrimonio propio, cuya función es la implementación de las acciones reguladas en la ley Nº 20.267.
+
+2. Que, mediante resolución exenta Nº 281, de 2020, la Comisión del Sistema Nacional de Certificación de Competencias Laborales, aprobó el Procedimiento de Ampliación de Alcance de Acreditación de los Centros de Evaluación y Certificación de Competencias Laborales acreditados en el Sistema Nacional de Certificación de Competencias Laborales.
+
+3. Que, mediante resolución exenta Nº 183, de 2021, la Comisión del Sistema Nacional de Certificación de Competencias Laborales, acreditó a la sociedad Capitol Group SpA, como Centro de Evaluación y Certificación de Competencias Laborales, por un plazo de 3 años, para prestar los servicios de evaluación y certificación de competencias laborales en los perfiles detallados en ese acto administrativo.
+
+4. Que, habiendo presentado una solicitud de ampliación de alcance de su acreditación, se ha determinado que el Centro de Evaluación y Certificación de Competencias Laborales Capitol Group SpA, cumple con los requisitos normativos para efectuar procesos de evaluación y certificación en los sectores, subsectores y perfiles ocupacionales solicitados, conforme se da cuenta en la resolución exenta Nº 281, de 2021, que cierra el proceso de evaluación de dicha solicitud.
+
+5. Que, mediante acuerdo Nº 964, de 2021, adoptado en su centésima trigésima quinta sesión ordinaria, celebrada con fecha 30 de noviembre del mismo año, el órgano colegiado de ChileValora resolvió autorizar la ampliación del alcance al Centro de Evaluación y Certificación de Competencias Laborales Capitol Group SpA a los perfiles ocupacionales detallados en el primer numeral de la parte resolutiva del presente acto administrativo.
+
+6. Que, con fecha 1 de diciembre de 2021, se formalizó el anexo de acta de compromiso suscrito por el Centro de Evaluación y Certificación de Competencias Laborales Capitol Group SpA, en que se compromete a cumplir las obligaciones, compromisos, prohibiciones, restricciones e inhabilidades que la ley Nº 20.267 y sus reglamentos establecen para asegurar la idoneidad, competencia e imparcialidad de los Centros de Evaluación y Certificación de Competencias Laborales.
+
+Resuelvo:
+
+1. Autorízase la ampliación del alcance de la acreditación del Centro de Evaluación y Certificación de Competencias Laborales Capitol Group SpA, RUT Nº 77.048.304-2, a los perfiles de Actuario(a) de Juzgado de Policía Local (P-8411-3411-001-V02), Encargado(a) de Permisos de Circulación (P-8411-3354-002-V01) e Inspector(a) de Rentas y Patentes Municipales (P-8411-3352-002-V02), todos del sector Administración Pública, subsector Municipal.
+
+2. Ingrésense los nuevos perfiles ocupacionales en el que se encuentra acreditado el Centro de Evaluación y Certificación de Competencias Laborales Capitol Group SpA, RUT Nº 77.048.304-2, a la ficha que de éste se mantiene en el Registro Nacional de Centros de Evaluación y Certificación de Competencias Laborales.
+
+3. Publíquese la presente resolución en el Diario Oficial, sin perjuicio que las futuras modificaciones de los códigos de los perfiles ocupacionales antes señalados, se notificarán a través del Registro Nacional de Unidades de Competencias Laborales y del Registro Nacional de Centros de Evaluación y Certificación de Competencias Laborales, sin necesidad de una nueva publicación.
+
+4. Téngase presente que, la ampliación de la acreditación concedida por el presente acto administrativo tendrá vigencia desde su publicación el Diario Oficial y durante el plazo que dure la acreditación del Centro.
+
+5. Impútense los ingresos recibidos por concepto de aranceles pagados por el Centro de Evaluación y Certificación de Competencias Laborales Capitol Group SpA por la solicitud de ampliación de alcance registrada con el ID SA-2021-13-14-011 en la plataforma informática habilitada para estos efectos, al subtítulo 07 "Ingresos de Operación", del presupuesto de la Comisión del Sistema Nacional de Certificación de Competencias Laborales para el año 2021.
+
+Anótese, notifíquese y publíquese en el Diario Oficial.- Francisco Silva Bafalluy, Secretario Ejecutivo, Comisión del Sistema Nacional de Certificación de Competencias Laborales.
