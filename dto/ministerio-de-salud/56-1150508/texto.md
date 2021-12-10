@@ -28,6 +28,8 @@ Decreto:
 
 > **Nota.** El numeral 1 del artículo único del Decreto 40, Salud, publicado el 28.12.2020, modifica el artículo primero transitorio, estableciendo que las disposiciones del presente reglamento comenzarán a regir el 1 de septiembre de 2021, salvo aquellas referidas a la capacitación, contempladas en el Título V, las que comenzarán a regir desde la publicación del presente reglamento, esto es, desde el 13.10.2020. Es por esta razón que solamente se visualiza el Título V, hasta que entren en vigencia los demás títulos de este reglamento.
 
+> **Nota.** NOTA 1 El numeral 1 del artículo único del Decreto 36, Salud, publicado el 10.12.2021, modifica la presente norma en el sentido de sustituir en el artículo primero transitorio, la frase "septiembre de 2021" por "marzo de 2022", estableciendo que las disposiciones del presente reglamento comenzarán a regir el 1 de marzo de 2022, salvo aquellas referidas a la capacitación, contempladas en el Título V, conforme lo dispone la referida disposición transitoria.
+
 #### Artículo único
 
 Apruébese el siguiente "Reglamento sobre la obligación de disponer de desfibriladores externos automáticos portátiles en los establecimientos que indica":
@@ -134,7 +136,7 @@ Los establecimientos educacionales podrán adquirir o renovar dichos equipos, en
 
 #### Artículo primero
 
-transitorio: Las disposiciones del presente reglamento comenzarán a regir el 1 de septiembre de 2021, salvo aquellas referida a la capacitación, contempladas en el Título V, las que comenzarán a regir desde la publicación del presente reglamento.
+transitorio: Las disposiciones del presente reglamento comenzarán a regir el 1 de marzo de 2022, salvo aquellas referida a la capacitación, contempladas en el Título V, las que comenzarán a regir desde la publicación del presente reglamento.
 
 #### Artículo segundo
 
