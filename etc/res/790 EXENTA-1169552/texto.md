@@ -1,0 +1,29 @@
+APRUEBA PROCEDIMIENTO DE TOMA DE MUESTRAS PARA EXÁMENES EN SERVICIO MÓVIL PLACA PATENTE LXWG-97 DE SENDA, REGIÓN DE VALDIVIA
+
+Núm. 790 exenta.- Santiago, 5 de abril de 2021.
+
+Vistos:
+
+El DFL Nº 1-19.653 que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.575, Ley Orgánica Constitucional de Bases Generales de la Administración del Estado; lo dispuesto en la Ley Nº 18.290 de Tránsito; el decreto Nº 6/2009 del Ministerio de Salud, que aprueba Reglamento sobre Manejo de Residuos de Establecimientos de Atención de Salud; lo establecido en el decreto Nº 218/1997, del Ministerio de Salud, que aprueba Reglamento de Servicios Privados de Traslado de enfermos; las facultades que me concede la ley Nº 20.065 sobre Modernización, Regulación Orgánica y Planta del personal del Servicio Médico Legal; la resolución exenta Nº 2.675/2018 sobre normativa técnico-pericial para toma de muestras de sangre y la realización de pericias toxicológicas sobre presencia y cuantificación de sustancias estupefacientes o sicotrópicas; la resolución exenta Nº 2.349/2020, que aprueba normativas técnico-periciales del Servicio Médico Legal sobre áreas que indica, y la resolución Nº 6/2019 de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón.
+
+Considerando:
+
+1. Que, el Servicio Médico Legal ha fijado los procedimientos de toma de muestra sanguínea para la práctica de exámenes de alcoholemias, estableciendo los procedimientos administrativos consustanciales a éste y velando por la seguridad, conservación e invulnerabilidad de las muestras que serán derivadas a este Servicio para su procesamiento, observando, además, las normas que constituyan la cadena de custodia y sigilo correspondiente a todo examen médico legal y el despacho oportuno y reservado de tos mismos a los Tribunales de Justicia, Ministerio Público u otros organismos competentes que lo soliciten.
+
+2. Que, el procedimiento para la toma de muestras de sangre y la realización de pericias toxicológicas sobre presencia y cuantificación de sustancias estupefacientes o sicotrópicas se encuentra regulado a través de la resolución exenta Nº 2.675-2018. Por otro lado, el procedimiento para la determinación de la dosis de alcohol en la sangre está compuesto por diversas etapas reguladas en el texto sobre instrucciones y Normativa Técnica sobre Exámenes de Alcoholemia, aprobado por resolución exenta Nº 2.349/2020.
+
+3. Que, se estima necesario e indispensable contar con establecimientos o servicios competentes, públicos y/o privados, es decir, Servicios de Asistencia Pública, Hospitales, Postas de Primeros Auxilios de los Servicios de Salud, Clínicas Privadas, así como también servicios móviles que estén capacitados para la toma de muestras sanguíneas para la realización de exámenes de alcoholemia, cumpliéndose con lo preceptuado en la normativa técnica correspondiente de este Servicio.
+
+4. Que, el Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol (Senda) de la Región de Valdivia, ha solicitado a este Servicio una aprobación técnica del área de laboratorios del Servicio Médico Legal de Valdivia, para desempeñar la toma de muestras, en una sede móvil, consistente en una ambulancia placa patente LXWG-97, que cuenta con las herramientas esenciales para realizar el procedimiento técnico y administrativo requerido, y con el personal adecuado capacitado previamente en la materia.
+
+5. Que, de conformidad a lo anteriormente expuesto, se realizó inspección técnica, emitiéndose el informe técnico respectivo del Departamento de Laboratorios del Servicio Médico Legal de Valdivia, con fecha 30 de marzo de 2021, el cual da cuenta del cumplimiento de los requisitos legales para la habilitación del servicio móvil, y el personal profesional y técnico adecuado para dar cumplimiento al proceso, acorde con lo estipulado en la normativa técnica indicada en el considerando Nº 2.
+
+Resuelvo:
+
+I. Apruébase el procedimiento de toma de muestras para la realización de exámenes de alcoholemia y toxicológicas en el Servicio Móvil apto para el procedimiento, ambulancia placa patente LXWG-97 de Senda de la Región de Valdivia.
+
+II. Estará a cargo del proceso en general el Sr. Renato Valenzuela Agüero, cédula nacional de identidad Nº 15.261.784-4, Coordinador Regional Senda Los Ríos, quien deberá velar por el cumplimiento de la normativa actualmente vigente y la debida remisión de las muestras al Servicio Médico Legal, pudiendo ser sucedido o reemplazado por otro profesional, debiendo realizarse previa comunicación al Servicio, para los fines pertinentes. Serán responsables del proceso de toma de muestra y participarán en el mismo los profesionales Dr. Cristóbal Daniel de la Fuente, cédula nacional de identidad Nº 16.583.734-7; Dra. Maeeth Scarpati Ochoa, cédula nacional de identidad Nº 27.041.259-9; Tens Fabián Cárdenas Calderón, cédula nacional de identidad Nº 17.229.176-7.
+
+III. Publíquese la presente resolución conforme a lo prescrito en la letra b) del artículo 48 de la ley Nº 19.880, que establece Bases de Procedimiento que rigen los actos de la Administración del Estado, en la edición del Diario Oficial más próxima y en el sitio electrónico de Gobierno Transparente del Servicio Médico Legal, a objeto de dar cumplimiento con lo dispuesto en el artículo 7 de la ley Nº 20.285 sobre Acceso a la información pública y en el artículo 51 de su Reglamento.
+
+Anótese, comuníquese y publíquese.- Gabriel Zamora Salinas, Director Nacional, Servicio Médico Legal.
