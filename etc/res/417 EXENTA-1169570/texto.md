@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 417, de fecha 31 de mayo de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Maule, se autorizó a la Escuela de Conductores Profesionales denominada Escuela de Conductores Profesionales y Servicios de Capacitación Patricio Osvaldo Guiñez Sandoval E.I.R.L., RUT N° 76.463.603-1, cuyo nombre de fantasía es "Fénix Chile E.I.R.L.", domiciliada en 2 Sur 4 Oriente N°1090, comuna de Talca, cuyo representante legal es Patricio Osvaldo Guiñez Sandoval, Cédula Nacional de Identidad Nº 9.663.264-9, cuyos planes y programas de enseñanza para impartir cursos A2, A3, A4 y A5 teórico y práctico fueron autorizados mediante resolución exenta N° 823, de 21 de julio de 2016, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones; a impartir los cursos conducentes a la obtención de la Licencia de Conductor Profesional Clases A2, A3, A4 y A5, en la modalidad e-learning, todos bajo el formato de ejecución asincrónico.-
+
+Carlos Miguel Palacios Maldonado, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Maule.
