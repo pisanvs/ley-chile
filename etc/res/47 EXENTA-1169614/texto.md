@@ -1,0 +1,5 @@
+SE APRUEBA "MODIFICACIÓN DE CONTRATO DE COMODATO", SUSCRITO EL 01.08.2021, ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA SUBSECRETARÍA DEL INTERIOR, RESPECTO DE LA OFICINA N° 910, DE PROPIEDAD DE ESTE INSTITUTO, UBICADA EN CALLE HUÉRFANOS N° 886, EN LA COMUNA Y CIUDAD DE SANTIAGO
+
+Por resolución exenta I N° 47, de 18 de noviembre de 2021, conforme a sus facultades delegadas el Jefe Departamento de Administración e Inmobiliaria, aprobó la "Modificación de Contrato de Comodato", suscrito el 01.08.2021, entre este Instituto y la Subsecretaría del Interior, en virtud del cual las partes acuerdan modificar el Contrato de Comodato, de fecha 14.05.2019, sancionado por la resolución exenta I N° 44, de 09.10.2019, en los términos establecidos en la Cláusula Segunda de la citada Res. Ex. I N° 47, de 2021.-
+
+Eduardo Cofré Arredondo, Jefe Departamento de Administración e Inmobiliaria IPS.
