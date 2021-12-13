@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LA LABOR DE "CONDUCTOR PROFESIONAL DE CARGAS GENERALES (PELIGROSAS)" PARA EL EMPLEADOR "TRANSPORTES JOSÉ JARA FIGUEROA"
+
+Por resolución exenta N° 496, de 26 de noviembre de 2021, el Director Nacional del Instituto de Previsión Social, aprobó la solicitud presentada por don José del Carmen Jara Lara, para calificar como Trabajo Pesado, la labor de "Conductor Profesional de Cargas Generales (Peligrosas)", ejecutada para el empleador "Transportes José Jara Figueroa", durante el periodo comprendido entre el 01.03.83 y el 30.04.92, correspondiendo aplicar una rebaja de edad de 1x5 (un año por cada cinco años de labores pesadas), beneficio que le permite impetrar su jubilación por vejez, con rebaja en la edad.- Patricio Coronado Rojo, Director Nacional.
+
+Carmen Gajardo Maturana, Jefa Unidad Gestión de Resoluciones Departamento Control Jurídico, División Jurídica, Instituto de Previsión Social.
