@@ -1,0 +1,5 @@
+SE APRUEBA "MODIFICACIÓN DE CONTRATO DE COMODATO", SUSCRITO EL 09.09.2021, ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL INSTITUTO DE SEGURIDAD LABORAL, RESPECTO DE PARTE DEL INMUEBLE UBICADO EN CALLE ATACAMA N° 443, DE LA CIUDAD DE COPIAPÓ, REGIÓN DE ATACAMA, PROPIEDAD DE ESTE INSTITUTO
+
+Por resolución exenta I N° 45, de 18 de noviembre de 2021, conforme a sus facultades delegadas el Jefe Departamento de Administración e Inmobiliaria, aprobó el documento "Modificación de Contrato de Comodato", entre este Instituto y el Instituto de Seguridad Laboral, mediante el cual las partes acordaron modificar la Cláusula Tercera y la Cláusula Sexta, N° 4, del contrato principal aprobado por resolución exenta N° 283, de 29.07.2011.-
+
+Eduardo Cofré Arredondo, Jefe Departamento de Administración e Inmobiliaria IPS.
