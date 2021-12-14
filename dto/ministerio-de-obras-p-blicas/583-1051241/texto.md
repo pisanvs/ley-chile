@@ -52,7 +52,7 @@ Ruta U-72, Osorno - Riachuelo - Crucero.
 
 Ruta U-88, U-90, Cruce Longitudinal - Purranque - Crucero - Hueyusca.
 
-Ruta U-150, Cruce Longitudinal (Puente Bulnes) - Pilauco - Osorno.
+Eliminado.
 
 Ruta U-775, U-51, Cruce Ruta U-99-V (Nochaco) - Rupanquito - Entre Lagos.
 
@@ -98,13 +98,13 @@ Ruta Costera: Ruta U-410, Bahía Mansa - Río Maicolpué.
 
 PUERTO MONTT:
 
-a- El tramo urbano de la Ruta 5, desde el límite urbano Norte hasta el límite urbano Surponiente; a través de: Petorca, Av. Parque Industrial y Ruta 5 a Chiloé.
+a. El tramo urbano de la Ruta 5, desde el límite urbano norte hasta límite urbano sur, a través de: Ruta 5.
 
-b- El Sistema Vial Urbano que une la Ruta 5 con la Ruta 7, desde Petorca hasta Av. Juan Soler Manfredini; a través de: Parque Industrial, Presidente Ibáñez, viaducto en proyecto, Maratón y Río Puelche.
+b. El sistema vial urbano que interconecta la Ruta 5 con la Ruta 7, a través de: Avda. Salvador Allende, Avda. Monseñor Ramón Munita, par vial Avda. Cuarta Terraza y Avda. Monseñor Ramón Munita, Avda. Monseñor Ramón Munita, Avda. Volcán Puntiagudo, Avda. Presidente Ibáñez, Viaducto, Maratón, Río Puelche, Avda. Juan Soler Manfredini, Avda. Inés Gallardo y Avda. Chamiza.
 
-c- El Sistema Vial Urbano que une la Ruta V-805 con la Ruta 7, desde el límite urbano Suroriente hasta el límite urbano Surponiente; a través de: Av. Trapén, Av. Chinquihue, Av. Pacheco Altamirano, Av. Angelmó, Av. Diego Portales, Av. Juan Soler Manfredini, Av. Inés Gallardo y Av. Chamiza.
+c. El sistema vial urbano que interconecta la Ruta 5 con Avda. Volcán Puntiagudo, a través de: Avda. Parque Industrial y Avda. Presidente Ibáñez.
 
-d- El tramo urbano de la Ruta 226, desde el límite urbano Poniente hasta Ruta 5 a Chiloé; a través de Av. El Tepual.
+d. Tramo urbano de la Ruta 226, desde Ruta 5 hasta el límite urbano poniente, través de: Avda. El Tepual.
 
 CASTRO:
 
@@ -120,13 +120,13 @@ a- El tramo urbano de la Ruta 5, desde el límite urbano Norte hasta el límite 
 
 b- El tramo urbano de la Ruta 215 CH, desde la Ruta 5 hasta el límite urbano Oriente; a través de Av. Alcalde Gustavo Fuchslocher.
 
-c- El tramo urbano de las Rutas U-16 y U-150, desde el límite urbano Norte hasta la Ruta 5; a través de Camino a Trumao, Héroes de La Concepción, Luis Cruz y Camino a Pilauco.
+c. El sistema vial urbano que interconecta la Ruta 5, con la Ruta U-160, desde el límite urbano oriente hasta el límite urbano norte, a través de Camino a Pilauco, calle Luis Cruz Martínez, Avda. Los Héroes de La Concepción.
 
 d- El tramo urbano de la Ruta U-55-V, desde la Ruta 5 hasta el límite urbano Sur; a través de Ruta U-55-V.
 
-e- El Sistema Vial Urbano que interconecta las Rutas U-40, U-22 y U-16 dentro de los límites urbanos; a través de: U-40, Independencia, Av. República, nuevo Puente San Pedro, Av. Juan Mackena, Av. Diego Portales, nuevo Puente Portales, Manuel Bulnes y Puente Bulnes. U-22 y Chorrillos. Y la conexión con Héroes de La Concepción a través de Victoria y nuevo Puente Algarrobo.
+e. El sistema vial urbano que interconecta las rutas U-40, U-220 y U-160. Desde el límite urbano norponiente hasta Camino a Pilauco, a través de: Bellavista, Avda. República, Nuevo Puente San Pedro, Avda. Juan Mackenna, Avda. Manuel Bulnes y Puente Bulnes, calle Baquedano, calle Ramón Freire y Puente Freire. Camino U-22 San Juan de la Costa y calle Chorrillos.
 
-f- El tramo urbano de la Ruta U-72, desde Av. República hasta el límite urbano Sur; a través de Bellavista y Av. Real.
+f. El sistema vial urbano que interconecta la ruta U-160 con la ruta U-720, desde Avda. Los Héroes de la Concepción hasta el límite urbano sur, a través de: calles Los Algarrobos, Puente Chaurakawin (Algarrobo), Avda. Victoria, Avda. República, Bellavista y Avda. Real.
 
 4º Declárese Caminos Públicos en las áreas urbanas de las siguientes Capitales de Comuna, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
