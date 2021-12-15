@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1262, de 25 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.16-A y 17-A, para la obra: SISTEMA DE AGUA POTABLE RURAL LAS HUELLAS, que figura a nombre de CASANOVA POBLETE FLORENTINA y PLACENCIA ROJAS OCTAVIO, roles de avalúo 249-64 y 249-9, Comuna de LOS LAGOS, REGION DE LOS RÍOS, superficies 183 y 886 m2 respectivamente. La Comisión de Peritos integrada por HANDY GHISLAINE CAMPOS SEPULVEDA, NICOLAS ALARCON SANCHEZ y SERGIO JEREMIAS ORDENES SALINAS, mediante informe de tasación de 08 de octubre de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.723.000 para el lote Nº16-A, y $7.994.000 para el lote Nº17-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
