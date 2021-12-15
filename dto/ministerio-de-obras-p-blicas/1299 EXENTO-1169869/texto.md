@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1299 de 25 de noviembre de 2021, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14º letra e) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 33-1 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR B SUBSECTOR 4: VARIANTE COIHUE - VARIANTE RENAICO, Región del Biobío, que figura a nombre de I MUNIC DE NEGRETE ESC F 1051, rol de avalúo 71-53 de la comuna de Negrete, superficie 1.732 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 204 de 18 de mayo de 2021, integrada por Rodrigo Alexis Escobar Fernández, Gabriel Antonio Pantoja Rivera y Diego Andrés Rozas Gallardo, mediante informe de tasación de 7 de julio de 2021, fijó el monto de la indemnización provisional en la cantidad de $116.290.000 para el lote Nº 33-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
