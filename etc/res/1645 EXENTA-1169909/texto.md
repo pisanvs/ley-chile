@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 1.645, de fecha 19 de mayo de 2021, se ordenó la expropiación, conforme a las normas del decreto ley N° 2.186, de 1978, del denominado Lote N° 8212-12, correspondiente al inmueble ubicado en calle Aguas Abajo 3745, departamento 34, Rol de Avalúo 8212-12, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Bernardo Antonio Aranguez Gavilán y Otros, con una superficie aproximada de 43,19 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Marta Brunet del sector Bajos de Mena". La Comisión de Peritos integrada por los señores Andrés Echeverria Campo, ingeniero agrónomo; Andrés Schulz Villanueva, arquitecto, y Carmen Ríos Marcuello, arquitecto, mediante Informe de fecha 1 de noviembre de 2020, fijó la indemnización provisional por causa de la referida expropiación en la suma de $19.787.652.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
