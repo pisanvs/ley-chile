@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 324, de 19 de agosto de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la señora Sara Victoria Cartagena Sepúlveda, RUT 9.340.730-K, concesión marítima menor, con vencimiento 30 de junio de 2030, sobre un sector de Terreno de Playa y Uso de Mejora Fiscal, en el lugar denominado Playa Blanca, comuna de Coronel, provincia de Concepción, Región de Biobío, con una superficie total de 191,54 m2, la que fue tramitada con el SIABC N° 44.246. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 37°03'53,429 S - 73°08'36,863 W. El objeto consiste en operar comercialmente la mejora fiscal como restaurante y sala de eventos. Las obras consisten en amparar la instalación y uso de un restaurante y sala de eventos. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Coronel. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
+
+Coronel, 30 de noviembre de 2021.- Alex Jeldres Curilemo, Teniente 1° LT, Capitán de Puerto de Coronel.
