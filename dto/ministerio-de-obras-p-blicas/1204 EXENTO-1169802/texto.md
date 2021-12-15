@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1204, de 11 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.32, 34 y 36, para la obra: REPOSICIÓN RUTA A-27, SAN MIGUEL AZAPA KM 12,000 AL KM 32,000, que figura a nombre de GUERRERO BRUNA RUTH DEL CARMEN, roles de avalúo 10666-17, 10666-19 y 10666-18, Comuna de ARICA, REGION DE ARICA Y PARINACOTA, superficies 22, 193 y 117 m2 respectivamente. La Comisión de Peritos integrada por ANGELICA YANETT SEURA ROJAS, PATRICIA ANGELICA MORALES RIVERA y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 23 de septiembre de 2016, fijó el monto de la indemnización provisional en la cantidad de $510.000 para el lote N°32, $8.271.000 para el lote N°34, y $4.805.000 para el lote N°36. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
