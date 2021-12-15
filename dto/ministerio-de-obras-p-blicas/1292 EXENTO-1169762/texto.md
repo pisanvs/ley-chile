@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP. N° 1292, de 25 de noviembre de 2021, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP N°566, de 22 de julio de 2020, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización de los lotes de terreno N°s 61-A y 62, y modificó el numeral segundo que se refiere al nombre del propietario, expropiado con motivo de la obra: MEJORAMIENTO Y CONSTRUCCIÓN CAMINO CURANILAHUE-NACIMIENTO POR BAJO DE LOS RIOS, REGIÓN DEL BIOBÍO, que figuran actualmente a nombre de CONSTR Y FERRETERIA NACIMIENTO LTDA, Comuna de Nacimiento, Región del Biobío. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 14 de noviembre de 2018 para el lote N°62 y 10 de julio de 2019 para el lote N°61-A, ascendente a la cantidad de $26.155.620.- para el lote N°61-A y $1.821.645.- para el lote N°62. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
