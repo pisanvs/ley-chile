@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.203, de 29 de noviembre de 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación de un inmueble ubicado en M. Montt 279 Aurora de Chile, Rol de Avalúo Nº 87-7, comuna de Concepción, de aparente dominio de Montoya Carrillo José Alberto y otros, superficie afecta a expropiación parcial de terreno es de 25,80 m2 (Lote 2) y expropiación total de edificaciones (a, b y c) de 180,24 m2, según Plano S8R 41156-1, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada", comuna de Concepción, Región del Biobío, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecta Carolina Contreras Tapia, arquitecto Juan King Domínguez y arquitecto Felipe Castillo Parra, según informe de fecha 28.09.2021, fijó monto provisional indemnización en $68.653.232, más una suma de $892.492, por concepto de reajuste del artículo 5º del DL 2.186 de 1978, que dan la cifra de $69.545.724.-
+
+Director Serviu Región del Biobío.
