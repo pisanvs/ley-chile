@@ -1,0 +1,7 @@
+RENOVACIÓN DE DESTINACIÓN MARÍTIMA
+
+Decreto exento N° 640, de fecha 14 de septiembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, para el Servicio Nacional de Pesca y Acuicultura, RUT: N° 60.701.002-1, Primera Renovación de Destinación Marítima, con vencimiento el 31 de diciembre de 2036, sobre un sector de fondo de mar y porción de agua, en el lugar denominado El Tomé, comuna de Los Vilos, Provincia de Choapa, Región de Coquimbo, con una superficie total de 513.114,89 m2, la que fue tramitada con el S.I.A.B.C. N° 38.831. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en continuar amparando un área de manejo y explotación de recursos bentónicos, según lo establecido en el Título IV, párrafo 3°, artículo 55 A de la ley N° 18.892, Ley General de Pesca y Acuicultura y sus modificaciones, y el DS. N° 355 del 12 de junio de 1995, del Ministerio de Economía, Fomento y Reconstrucción, Reglamento sobre área de manejo y exlotación de recursos bentónicos. La Destinación Marítima no contempla obras. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Los Vilos. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Los Vilos, 8 de octubre de 2021.- Patricio Sepúlveda Mora, Teniente 2° LT, Capitán de Puerto de Los Vilos.
