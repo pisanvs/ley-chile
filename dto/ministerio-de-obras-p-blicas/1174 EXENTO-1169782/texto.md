@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1174, de 11 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 188, 199 y 205, para la obra: MEJORAMIENTO RUTAS W-160; W-120, SECTOR HUICHA - CAULIN, que figuran a nombre de VIDAL GALLARDO ELIZARDO, ESCOBEDO ÁVILA MIGUEL ÁNGEL y NANCUCHEO JOSÉ RENE, roles de avalúo 1134-16, 1136-6 y 1137-65, Comuna de ANCUD, REGIÓN DE LOS LAGOS, superficies 187, 149 y 217 m2. respectivamente. La Comisión de Peritos integrada por HANDY GHISLAINE CAMPOS SEPÚLVEDA, CAROLINA CLAUDIA VERDEJO DÍAZ y YASCHALA MARIBEL YÁÑEZ RIFFO, mediante informe de tasación de 14 de mayo de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.322.900, para el lote N°188, $6.244.400, para el lote N°199 y $2.299.600, para el lote N°205. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
