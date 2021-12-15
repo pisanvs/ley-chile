@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 3.972 de fecha 06/12/2021, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Acceso La Lancha de Angol", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Inmueble ubicado en el lugar denominado Los Perales, comuna de Angol, Provincia de Malleco, Novena Región, Rol de avalúo: 1466-37, comuna de Angol. La superficie a expropiar aproximada es de 15,41 metros cuadrados, de aparente dominio de Jacqueline Hortensia Flores Pérez. Comisión de Peritos integrada por don Claudio Romo Sanhueza, Constanza Mihoevic González y Marcela Melo Rodríguez, fijó monto de Indemnización Provisional en $29.793.364 según Informe N° 05-0, de fecha 04.12.2021, pagadero Contado.
+
+Director Serviu Región de la Araucanía.
