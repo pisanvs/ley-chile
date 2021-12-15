@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1224 de 11 de noviembre de 2021, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14º letra e) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 61-1 para la obra: EMBALSE CONVENTO VIEJO, SEGUNDA ETAPA, FASE 3. CANAL SUR - TRAMO I. KM. 0.000,00 AL KM. 15.100,00, Región del Libertador General Bernardo O'Higgins, que figura a nombre de BECERRA VILLEGAS JUAN DE LA CRUZ, rol de avalúo 4-17 de la comuna de Lolol, superficie 177 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 326 de 31 de agosto de 2021, integrada por Gabriel Antonio Pantoja Rivera, Cristián Andrés Cáceres Vargas y Lorena Elizabeth Gajardo Alarcón, mediante informe de tasación de 30 de septiembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $5.664.000 para el lote Nº 61-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
