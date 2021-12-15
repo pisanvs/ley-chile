@@ -1,0 +1,7 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 329, del 27 de agosto de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, que coge parcialmente el recurso de reposición deducido en contra del decreto supremo N° 535, de 22 de octubre de 2013, a la sociedad Comercial Alejandra Arancibia Garrido y Arcadio Arancibia Pacheco Sociedad de Responsabilidad Ltda., Rut N° 76.065.592-9, ambos del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, y que concede otorga marítima menor, con vencimiento 30 de junio de 2023, sobre un sector de Terreno de Playa y mejora Fiscal, en el lugar denominado Playa Copiapina, en la comuna de Caldera, Provincia de Copiapó, Región de Atacama, con una superficie total de 981,92 m2, la que fue tramitada con el SIABC N° 33.299. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s):
+
+El objeto consiste en instalar un Centro Culinario Turístico, destinado principalmente a un restaurante-pub de turismo. Las obras consisten en la construcción de un restaurante pub de Turismo y el plazo contemplado para su ejecución es de 6 meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Caldera. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
+
+Caldera, 30 de noviembre de 2021.- Pablo Orrego Avendaño, Capitán de Corbeta LT, Capitán de Puerto de Caldera.
