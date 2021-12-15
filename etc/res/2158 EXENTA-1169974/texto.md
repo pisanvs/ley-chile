@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.158, 24 de noviembre 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno, ubicado en Avda. Ignacio Collao 1387 Lt 4 A, Rol de Avalúo Nº 320-339, comuna de Concepción, de aparente dominio de Sucesión Francisco Contreras Muñoz, la superficie a expropiar es de 89,47 m2 de terreno (Lote 140), dentro de polígono y linderos señalados plano de expropiación S8R-40.370-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida Par-Vial Collao- General Novoa" comuna de Concepción, Región del Biobío", conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Claudia Eugenia Marzullo García, por el Ingeniero Forestal Dory Gisela Donoso Salgado, por arquitecto Brogan Christopher Ulloa Pérez, según informe de fecha 03.06.2021, fijó monto provisional indemnización en la suma de $27.971.696.- más una suma de $1.068.519.-por concepto de reajuste del artículo 5º del DL 2186 de 1978, lo que da un total de $29.040.215.-
+
+Director Serviu Región del Biobío.
