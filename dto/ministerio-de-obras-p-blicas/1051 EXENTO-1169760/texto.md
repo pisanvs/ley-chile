@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 1051, de 08 de noviembre de 2021, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº508, de 28 de junio de 2019, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización de los lotes de terreno Nºs 39, 40 y 41, expropiados con motivo de la obra: "Mejoramiento Ruta 7. Sector: Puente Puñon - Puente Cisne, Comuna de Hualaihue, Provincia de Palena, Región de Los Lagos". Consígnese judicialmente el monto provisional de las indemnizaciones fijadas mediante tasación de 25 de agosto de 2013, ascendente a las cantidades de $53.000, para el lote Nº39, $37.500, para el lote Nº40 y $188.500, para el lote Nº41. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
