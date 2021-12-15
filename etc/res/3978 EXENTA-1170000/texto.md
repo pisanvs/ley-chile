@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 3.978, de fecha 06/12/2021, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012, de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pablo Neruda y Simón Bolívar/Imperial, Temuco", Serviu Región de la Araucanía, ordenó la expropiación parcial del bien raíz, denominado Inmueble consistente en el sitio número 69 del plano del loteo de la Población Pflaumer de esta ciudad, Rol de avalúo: 1571-6, comuna de Temuco. La superficie a expropiar aproximada es de 600 metros cuadrados, de aparente dominio de Compañía Inmobiliaria Licanco Sociedad Civil. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Eduardo Antonio Yáñez Inzunza y Claudio Marcelo Pezo Muñoz, fijó monto de Indemnización Provisional en $188.510.000 según Informe Nº 18-0A, de fecha 01.12.2021, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
