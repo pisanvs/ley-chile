@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP. N° 1.295, de 25 de noviembre de 2021, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP. N°778, de 27 de agosto de 2020, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización de los lotes de terreno N°s 43 y 46, y modificó el numeral segundo que se refiere al nombre del propietario, expropiado con motivo de la obra: MEJORAMIENTO Y CONSTRUCCIÓN CAMINO CURANILAHUE- NACIMIENTO POR BAJO DE LOS RIOS, REGIÓN DEL BIOBÍO, que figuran actualmente a nombre de AREVALO SALAZAR JUAN LORENZO, Comuna de Nacimiento, Región del Biobío. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 14 de noviembre de 2018, ascendente a la cantidad de $8.353.233.- para el lote N°43 y $7.933.368.- para el lote N°46. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
