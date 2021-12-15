@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 5.068 de 06 de diciembre de 2021, Serviu Región de Valparaíso, dispuesto expropiación conforme al artículo 51 ley 16.391 y decreto ley 2.186 de 1978, del inmueble signado como Departamento 44 del Block 13, Copropiedad A, Ubicado en Calle Los Niños N° 50, Población Villa Arauco, de la comuna de Viña del Mar, en el plano "Proyecto de Expropiaciones N° 1", para la Ejecución del Proyecto "Regeneración Conjunto Habitacional Villa Arauco"; Presunto Dominio de Luis Alejandro del Tránsito Muñoz Pizarro, rol avalúo 2145-134. Comisión Tasadora integrada por Álvaro Verdejo Vidal, Jorge Giacaman Valle e Ismael Allendes Marín; según informe de 2021 fijó monto indemnización provisional en $16.039.326.-, que será pagada al contado.-
+
+Director Serviu.
