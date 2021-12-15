@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1198, de 11 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 77 y 78, para la obra: MEJORAMIENTO CAMINOS VARIOS EN COMUNA DE COYHAIQUE, SECTOR CAMINO X-614 (PASARELA PINUER - PUENTE OSSES), que figuran a nombre de MACHIMAN AGUILA ANDREA SOLEDAD, roles de avalúo 1069-75, Comuna de COYHAIQUE, REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, superficies 412 y 1.120 m2. respectivamente. La Comisión de Peritos integrada por VALENTINA ANDREA CHACALTANA SIMS, PAULO ANDRÉS DIAZ VERGARA y RAYEN GUZMAN THEODULOZ, mediante informe de tasación de 17 de mayo de 2021, fijó el monto de la indemnización provisional en la cantidad de $8.839.000, para el lote Nº77 y $448.000, para el lote Nº78. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
