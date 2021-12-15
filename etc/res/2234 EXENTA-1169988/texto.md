@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2234, 1 de diciembre 2021, Serviu Región del Biobío ordenó expropiación parcial de un inmueble, ubicado en Maipú N° 2282, Rol de Avalúo N° 271-2, comuna de Concepción, de aparente dominio de Ejército de Chile, superficie de 19,16 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-41.415- 1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao / General Novoa" comuna de Concepción, conforme artículo 51 Ley N° 16.391 y D.L. N° 2.186. Comisión Peritos integrada por ingeniero civil Orlando Javier Paredes Vásquez, constructor Civil Ítalo Renzo Zerga Arancibia y arquitecto Guillermo Orlando Villafañe Feres, según informe de fecha 29.10.2021, fijó monto provisional indemnización en $12.049.550.-
+
+Director Serviu Región del Biobío.
