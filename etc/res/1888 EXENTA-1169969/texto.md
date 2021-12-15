@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.888, de 11 de noviembre de 2021, Serviu Región de Ñuble, ordenó expropiación de inmueble ubicado en Huambalí 252, comuna de Chillán, Rol de avalúo Nº 00697-00028, de aparente dominio de Comercial Multiservis Limitada. La parte afecta a expropiación parcial de terreno es de 193,43 m2 y total de 205,99 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-061, para el proyecto "Mejoramiento Avenida Huambalí, comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por la Arquitecto doña Paola Loreto Martínez Perucca, Arquitecto doña Carolina del Pilar Zuloaga Sanhueza y por el Ingeniero Civil don Marcelo Esteban Moreno Venegas, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $88.317.953.-
+
+Director Serviu Región de Ñuble.
