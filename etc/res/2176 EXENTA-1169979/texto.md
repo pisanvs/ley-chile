@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.176, de 26 de noviembre 2021, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Av. Ignacio Collao 1391 LT 5 A Collao, Rol de Avalúo Nº 320-340, comuna de Concepción, de aparente dominio de Llanos Silva Miguel Ángel, en una superficie de 24,99 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-40.371-1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao/General Novoa, comuna de Concepción", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Claudia Marzullo García, por ingeniero forestal Dory Donoso Salgado y por arquitecto Brogan Ulloa Pérez, según informe de fecha 3 de junio 2021, fijó monto provisional indemnización, en $7.580.960, más el reajuste del Art. 5 DL 2.186, dan la suma de $7.869.036, pagadera de contado.-
+
+Director Serviu Región del Biobío.
