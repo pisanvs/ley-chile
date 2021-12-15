@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 3.981, de fecha 06/12/2021, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pablo Neruda y Simón Bolívar/Imperial, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Predio que corresponde al resto de los sitios números siete y ocho del plano de subdivisión ubicado en la Población Dreves de esta ciudad, Rol de avalúo: 1571-39, comuna de Temuco. La superficie a expropiar aproximada es de 66,45 metros cuadrados, de aparente dominio de Fernando Aravena Salgado y Girona II SpA. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Eduardo Antonio Yáñez Inzunza y Claudio Marcelo Pezo Muñoz, fijó monto de indemnización provisional en $36.890.000 según Informe Nº 22-0A, de fecha 29.11.2021, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
