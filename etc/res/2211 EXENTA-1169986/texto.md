@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.211, de 29 de noviembre 2021, Serviu Región del Biobío ordenó expropiación parcial del inmueble ubicado Avda. Ignacio Collao 1371 LT 1 A Collao, Rol de avalúo N°320-336, comuna de Concepción, de aparente dominio de Villalobos Cabezas Ricardo Mauricio, en una superficie de 58,60 m2 de terreno, conforme al plano S8R-40.367-1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao/General Novoa, comuna de Concepción", conforme artículo 51 ley N°16.391 y D.L. N°2.186. Comisión Peritos integrada por constructor civil Roxana Abarzúa Gajardo, por arquitecto Alberto Vallette Isla y por ingeniero civil Carlos Montecinos Galleguillos, según informe de fecha 4 de octubre 2021, fijó monto provisional indemnización en la suma de $24.653.737, más el reajuste del artículo 5 del D.L. 2186, que dan la suma de $24.974.236, pagadera de contado.
+
+Director Serviu Región del Biobío.
