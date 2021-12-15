@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1336 de 25 de noviembre de 2021, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14º letra e) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 27 para la obra: CONEXIÓN VIAL RUTA 78 HASTA RUTA 68, Región Metropolitana de Santiago, que figura a nombre de INVERSIONES QUILDOS LTDA, rol de avalúo 2599-82 de la comuna de Pudahuel, superficie 11.703 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 277 de 10 de agosto de 2021, integrada por María Isabel de Jesús Ríos Marcuello, Marcela Alejandra Redard Ayala y Juan Armando Salas Urzúa, mediante informe de tasación de 20 de septiembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.105.691.863 para el lote Nº 27. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
