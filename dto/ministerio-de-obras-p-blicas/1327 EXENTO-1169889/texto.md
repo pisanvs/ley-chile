@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1327, de 25 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 1, 2 y 3, para la obra: CONSERVACION DE RIBERAS QUEBRADA LOS LOROS VALLE DEL COPIAPO, que figuran a nombre de SOC. AGRIC. SACRAMENTO Y CIA., roles de avalúo 63-1, Comuna de TIERRA AMARILLA, REGIÓN DE ATACAMA, superficies 3.653, 1.277 y 10.968 m2. respectivamente. La Comisión de Peritos integrada por XIMENA ELIANA PEÑALOZA HERRERO, LORETO ISABEL HERNANDEZ RÍOS y NORMAN ESTANISLAO CALDERON PONTIGGIA, mediante informe de tasación de 25 de octubre de 2021, fijó el monto de la indemnización provisional en la cantidad de $4.566.250, para el lote Nº1, $2.821.250, para el lote Nº2 y $88.824.267, para el lote Nº3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
