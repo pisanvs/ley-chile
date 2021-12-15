@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 2.230 de 1 de diciembre de 2021, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno 1-K en el Marco del Proyecto Expropiación en la Región de Los Lagos para la adquisición de los lotes de terrenos ubicados en calle La Gruta, comuna de Puerto Octay, Región de Los Lagos que figura a nombre de Víctor Hugo Ruiz Aguero, rol de avalúo según SII N° 154-161, comuna de Puerto Octay, superficie 10.000 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Ramón Schumacher Guarda, Juan Samuel Barrientos Bahamonde y Raúl Palma Larrea, designados por resolución exenta N° 2.034 de 8 de noviembre de 2021, rectificada por resolución exenta N° 2.121 de 17 de noviembre de 2021, fijó con fecha 25 de noviembre de 2021, el valor provisional de la indemnización en la suma de $95.000.000. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del DL N° 2.186.-
+
+Director Regional Serviu Región de Los Lagos.
