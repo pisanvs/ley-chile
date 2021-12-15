@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°1254 de 19 de noviembre de 2021, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N°850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N°15.840 y del DFL MOP N°206, de 1960, se expropió el lote de terreno N°3 para la obra: CONCESIÓN RUTA 5 SUR, TRAMO PUERTO MONTT - PARGUA SECTOR: ENLACE RETORNO SECTOR CUESTA GÓMEZ, Región de Los Lagos, que figura a nombre de MUÑOZ CHÁVEZ BERNARDITA DE LOUR, Rol de avalúo 2117-47 de la comuna de Puerto Montt, superficie 490 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N°276 de 10 de agosto de 2021, integrada por Jorge Esteban Casagrande Saavedra, Carlos Roberto Alarcón Villegas y Juan Andrés Tepper Lavanderos, mediante informe de tasación de 16 de septiembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $4.074.200 para el lote N°3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
