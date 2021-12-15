@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 3.984 de fecha 06/12/2021, conforme al artículo 51 Ley 16.391, D.L. 2.186/1978 y D.S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pablo Neruda y Simón Bolívar/Imperial, Temuco", Serviu Región de la Araucanía, ordenó la expropiación parcial del bien raíz denominado Lote A-Dos de una superficie de dos mil ciento cuarenta y dos coma veinte metros cuadrados, resultante de la subdivisión del lote A, de una superficie de cuatro mil cuatrocientos veintiocho coma noventa y tres metros cuadrados y que es parte de la subdivisión de una propiedad de mayor extensión, Rol de avalúo: 1565-13, comuna de Temuco. La superficie a expropiar aproximada es de 278,59 metros cuadrados, de aparente dominio de Cooperativa Agrícola y de Servicios Ltda.. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Eduardo Antonio Yáñez Inzunza y Claudio Marcelo Pezo Muñoz, fijó monto de indemnización provisional en $107.230.000 según Informe Nº 37-0A, de fecha 18.11.2021, pagadero contado.
+
+Director Serviu Región de la Araucanía.
