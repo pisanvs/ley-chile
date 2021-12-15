@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2173, 26 de noviembre de 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno y de edificación de un inmueble ubicado en Maipú 2306, Rol de Avalúo Nº 271-5, comuna de Concepción, de aparente dominio de Fisco Ejército de Chile, superficie afecta expropiación parcial de terreno es de 17,80 m2 (Lote 10) y expropiación de edificación de 0,00 m2, según Plano S8R 41.418-1, para la ejecución de las obras del proyecto “Mejoramiento Par Vial Collao-General Novoa” comuna de Concepción, Región del Biobío, conforme artículo 51 Ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por arquitecto Orlando Paredes Vásquez, constructor civil Ítalo Zerga Arancibia y arquitecto Guillermo Villafañe Feres, según informe de fecha 29.10.2021, fijó monto provisional indemnización en $11.225.004.
+
+Director Serviu Región del Biobío.
