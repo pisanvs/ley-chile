@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1344, de 02 de diciembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno E, para la obra: DISEÑO DE INGENIERIA MEJORAMIENTO Y AMPLIACION DE LA CAPACIDAD PRODUCTIVA SERVICIO AGUA POTABLE RURAL COLIUMO, que figura a nombre de MOSCOSO GARRIDO VERONICA ISABEL Y O, rol de avalúo 1462-13, Comuna de TOME, REGION DEL BIOBÍO, superficie 1.397 m2. La Comisión de Peritos integrada por TATIANA YAZMIN GUTIERREZ ORTIZ, PABLO ALEX MANSILLA ARAVENA y EVALDO ROBERTO CONTRERAS ROA, mediante informe de tasación de 28 de septiembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $35.753.500 para el lote E. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
