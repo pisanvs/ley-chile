@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.175, de 26 de noviembre 2021, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en calle M. Montt 281 Aurora de Chile, Rol de Avalúo Nº 87-8, comuna de Concepción, de aparente dominio de Lagos Mella Orlando Edgardo y Otros, en una superficie de 1,26 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-41.155-1, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción" comuna de Concepción", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecta Carolina Contreras Tapia, por arquitecto Juan Felipe King Domínguez y por arquitecto Felipe Castillo Parra, según informe de fecha 28 de septiembre de 2021, fijó monto provisional indemnización en $378.373, más reajuste del artículo 5º del DL 2186 de 1978, que dan la cifra de $383.292, pagadera de contado.-
+
+Director Serviu Región del Biobío.
