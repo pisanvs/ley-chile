@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°1193, de 11 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 5, para la obra: MEJORAMIENTO VARIANTE ZANJA, que figura a nombre de MORENO LINCOLEO MIGUEL, rol de avalúo 3208-48, Comuna de PADRE LAS CASAS, REGION DE LA ARAUCANÍA, superficie 132 m2. La Comisión de Peritos integrada por PABLO ALEJANDRO SEPULVEDA GOMEZ, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 09 de abril de 2021, fijó el monto de la indemnización provisional en la cantidad de $3.140.000 para el lote N°5. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
