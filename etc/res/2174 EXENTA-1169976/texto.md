@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.174, de 26 de noviembre 2021, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en calle Arrau Méndez 754, Rol de Avalúo Nº 1163-25, comuna de Concepción, de aparente dominio de Morales Flores Tránsito, en una superficie de 59,28 m2 de terreno y de 82,22 m2 de edificación (a y b), dentro de polígono y linderos señalados plano de expropiación S8R-38.144-1, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción" comuna de Concepción", conforme artículo 51 Ley N° 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecta Carolina Contreras Tapia, por arquitecto Juan Felipe King Domínguez y por arquitecto Felipe Castillo Parra, según informe de fecha 28 de septiembre de 2021, fijó monto provisional indemnización en $39.219.094, más reajuste del artículo 5º del DL 2.186 de 1978, que dan la cifra de $39.728.942, pagadera de contado.-
+
+Director Serviu Región del Biobío.
