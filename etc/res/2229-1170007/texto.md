@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N°2229 de 01 de diciembre de 2021, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno 1-J en el Marco del Proyecto Expropiación en la Región de Los Lagos para la adquisición de los lotes de terrenos ubicados en calle La Gruta, comuna de Puerto Octay, Región de Los Lagos que figura a nombre de Magdalena del Carmen Ruiz Aguero, rol de avalúo según Sii N° 154-160, comuna de Puerto Octay, superficie 20.000 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Ramón Schumacher Guarda, Juan Samuel Barrientos Bahamonde y Raúl Palma Larrea, designados por Resolución Exenta N° 2034 de 08 de noviembre de 2021, rectificada por Resolución Exenta N°2121 de 17 de noviembre de 2021, fijó con fecha 25 de noviembre de 2021, el valor provisional de la indemnización en la suma de $190.000.000. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del DL N° 2.186.-
+
+Director Regional Serviu Región de Los Lagos.
