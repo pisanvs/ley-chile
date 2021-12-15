@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1280, de 25 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.3, 8 y 9, para la obra: SISTEMA DE AGUA POTABLE RURAL BAJADA DE PIEDRA, que figura a nombre de LARRONDO JARA BERNANDO GALO, IBARRA RIOS JUAN ANDRES y RODRIGUEZ CHANDIA JUAN R. roles de avalúo 304-147, 305-206 y 305-87, Comuna de PITRUFQUEN, REGION DE LA ARAUCANÍA, superficies 2.105, 640 y 4.578 m2 respectivamente. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, YASCHALA MARIBEL YAÑEZ RIFFO y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 30 de agosto de 2021, fijó el monto de la indemnización provisional en la cantidad de $17.488.500 para el lote Nº3, $3.488.000 para el lote Nº8, y $24.034.500 para el lote Nº9. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
