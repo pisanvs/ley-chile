@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.204, de 29 de noviembre de 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno y de edificación de un inmueble ubicado en Collao 1399, Rol de Avalúo Nº 320-10, comuna de Concepción, de aparente dominio de Sánchez Mella Gabriela del Carmen, superficie afecta a expropiación parcial de terreno es de 71,39 m2 (Lote 142) y expropiación de edificación de 0,00 m2, según Plano S8R 40372-1, para la ejecución de las obras del proyecto "Mejoramiento PAR Vial Collao-General Novoa", comuna de Concepción, Región del Biobío, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Claudia Marzullo García; ingeniero forestal Dory Donoso Salgado y arquitecto Brogan Ulloa Pérez, según informe de fecha 03.06.2021, fijó monto provisional indemnización en $22.918.652 más una suma de $870.909, por concepto de reajuste del artículo 5º del DL 2.186 de 1978, que dan la cifra de $23.789.561.-
+
+Director Serviu Región del Biobío.
