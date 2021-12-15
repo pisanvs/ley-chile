@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) N° 864, de 28 de septiembre de 2020, modificado por Decreto M.O.P. (Exento) N°1310, de 25 de noviembre de 2021 y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. N°850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206, de 1960, se expropió el lote de terreno N°184-A, para la obra "MEJORAMIENTO RUTA K-705, SECTOR CR. RUTA K-715 - VILCHES ALTO", TRAMO KILÓMETRO 11,70000 A KM. 27,23000, COMUNA DE SAN CLEMENTE, REGIÓN DEL MAULE, que figura a nombre de TOLEDO ROCO FAUSTINO DANIEL Y OTROS, rol de avalúo 366-21, Comuna de SAN CLEMENTE, REGIÓN DEL MAULE, superficie 28 m2. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZÁLEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 23 de julio de 2018, fijó el monto de la indemnización provisional en la cantidad de $578.000.- para el lote 184-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
