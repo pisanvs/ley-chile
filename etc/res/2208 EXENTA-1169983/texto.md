@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.208, 29 de noviembre de 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno, ubicado Avda. Ignacio Collao 1379 LT 2 A Collao, Rol de Avalúo Nº 320-337, comuna de Concepción, de aparente dominio de Castillo Herrera Julio César y otros. La parte a expropiar tiene una superficie de 11,89 m2 de terreno (Lote 138) y de 0,00 m2 de expropiación de edificación y cuyos linderos señalados en el plano de expropiación S8R-40.368-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida Par- Vial Collao- General Novoa" comuna de Concepción, Región del Biobío, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el constructor civil Roxana Cecilia Abarzúa Gajardo, por arquitecto Alberto Adrián Vallette Isla, y por el Ingeniero Civil Carlos Alberto Montecinos Galleguillos, que fijó el monto de la indemnización provisional por la expropiación en la suma de $3.833.458.- más una suma de $49.835.-por concepto de reajuste del artículo 5º del DL 2.186 de 1978, lo que da un total de $3.883.293.- pagadera de contado.-
+
+Director Serviu Región del Biobío.
