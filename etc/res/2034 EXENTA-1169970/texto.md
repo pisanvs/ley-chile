@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 2.034, del 29 de noviembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Collin 710, comuna de Chillán, Rol de Avalúo N° 00680-00021, de aparente dominio de Banco de Crédito e Inversiones. La parte afecta a expropiación total de terreno es de 628,71 m2 y total de 628,71 m2 de edificación y cuyos linderos particulares, enmarcados en el plano S16R-164, para el proyecto "Mejoramiento Avenida Huambalí comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto don Mario Fabrizzio Bellolio Bostica, constructor civil don Ítalo Renzo Zerga Arancibia y por el ingeniero civil don Orlando Javier Paredes, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $347.662.799.-
+
+Director Serviu Región de Ñuble.
