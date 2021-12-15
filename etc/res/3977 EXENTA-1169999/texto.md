@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 3.977 de fecha 06/12/2021, conforme al artículo 51 ley 16.391, D.L. 2.186/1978 y D.S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pablo Neruda y Simón Bolívar/Imperial, Temuco", Serviu Región de la Araucanía, ordenó la expropiación parcial del bien raíz denominado Inmueble ubicado en calle Uruguay 1124 de la comuna de Temuco, Provincia de Cautín, Región de la Araucanía, Rol de avalúo: 1571-8, comuna de Temuco. La superficie a expropiar aproximada es de 306,50 metros cuadrados, de aparente dominio de Jorge Winston Vargas Martínez. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Eduardo Antonio Yáñez Inzunza y Claudio Marcelo Pezo Muñoz, fijó monto de indemnización provisional en $112.060.000 según Informe Nº 17-0A, de fecha 01.12.2021, pagadero contado.
+
+Director Serviu Región de la Araucanía.
