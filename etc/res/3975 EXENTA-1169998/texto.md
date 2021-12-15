@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución ex. N° 3.975 de fecha 06/12/2021, conforme al artículo 51 ley 16.391, DL. 2.186/1978 y DS. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Acceso La Lancha de Angol", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Inmueble denominado lote cuarenta y nueve con una superficie de doscientos dieciséis metros cuadrados, ubicado en calle Juan Pablo Segundo, número mil doscientos ochenta y ocho de la comuna de Angol, Rol de avalúo: 420-49, comuna de Angol. La superficie a expropiar aproximada es de 216,00 metros cuadrados, de aparente dominio de Luz Eugenia Aguilera Sáez. Comisión de Peritos integrada por don Claudio Romo Sanhueza, Constanza Mihoevic González y Marcela Melo Rodríguez, fijó monto de Indemnización Provisional en $38.255.592 según Informe N° 02-0, de fecha 04.12.2021, pagadero Contado.
+
+Director Serviu, Región de la Araucanía.
