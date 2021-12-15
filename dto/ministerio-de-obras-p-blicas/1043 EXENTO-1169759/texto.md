@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº1043, de 03 de noviembre de 2021, modificado por Decreto Exento MOP. Nº1312, de 25 de noviembre de 2021, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº924, de 30 de agosto de 2019, en la parte que se refiere al Convenio Directo de Precio, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº57-B, expropiado con motivo de la obra: "Reposición Pavimento Ruta 215-CH, Sector: Las Lumas - Entre Lagos, Comuna de Puyehue, Provincia de Osorno, Región de Los Lagos. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 16 de agosto de 2016, ascendente a la cantidad de $444.600, para el lote Nº57-B. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
