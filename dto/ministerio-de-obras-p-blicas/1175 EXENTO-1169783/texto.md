@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 1175, de 11 de noviembre de 2021, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº 206 de 1960, se expropió el lote de terreno Nº 19-A, para la obra: MEJORAMIENTO CONSTRUCCIÓN RUTA T-775, SECTOR CRUCE T-75 (PUERTO NUEVO), T-85 (QUILLAICO), LOTES 1 AL 35, que figura a nombre de PEZO SALVO BLANCA NELLY, rol de avalúo 59-404, Comuna de LAGO RANCO, REGION DE LOS RÍOS, superficie 91 m2. La Comisión de Peritos integrada por MARIA SOLEDAD NUÑEZ ARROYO, KARIN ALICIA ERNST ELIZALDE y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de fecha 01 de abril de 2015, fijó el monto de la indemnización provisional en la cantidad de $509.100.- para el lote Nº19-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
