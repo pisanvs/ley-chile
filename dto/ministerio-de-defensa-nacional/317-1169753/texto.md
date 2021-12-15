@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 317, de fecha 17 de agosto de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Dinko Gilberto Petricic Zamorano, RUT N° 9.447.362-4, Concesión Marítima Menor, con vencimiento el 30 de junio de 2026, sobre un sector de Terreno de Playa en el lugar denominado Quebrada Ánimas Viejas, Portofino, comuna de Chañaral, Provincia de Chañaral, Región de Atacama, con una superficie total de 1.000 m2, la que fue tramitada con el SIABC N° 38.368. A modo referencial se señalan las siguientes coordenadas geográficas: Vértice A: Lat. 26°31'05.06"S Long. 70°42'10.30'W y Vértice D: Lat. 26°31'05.47"S Long. 70°42'11.19W. El objeto consiste en amparar la construcción de un Complejo Turístico, y arriendo de cabañas. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Alejandro León Solari, Teniente 1° LT, Capitán de Puerto de Chañaral.
