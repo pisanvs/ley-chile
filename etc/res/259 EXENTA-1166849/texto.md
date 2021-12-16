@@ -24,7 +24,7 @@ Considerando:
 
 Resolución:
 
-1. Llámase a postulación regional, para el otorgamiento de subsidios del Título II del Programa de Protección del Patrimonio Familiar, destinados al acondicionamiento térmico de la vivienda, conforme a lo indicado en el Artículo 6 bis del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, para seleccionar mensualmente, hasta el 10 de diciembre, proyectos que cuenten con certificado de calificación hasta el 26 de noviembre del año 2021. Los recursos asignados para la selección de los proyectos postulantes en este llamado corresponden a 20.000 UF.
+1. Llámase a postulación regional, para el otorgamiento de subsidios del Título II del Programa de Protección del Patrimonio Familiar, destinados al acondicionamiento térmico de la vivienda, conforme a lo indicado en el artículo 6 bis del DS N° 255 (V. y U.), de 2006, y sus modificaciones, para seleccionar mensualmente proyectos que cuenten con Certificado de Calificación hasta el 10 de diciembre del presente año 2021. Los recursos asignados para la selección de los proyectos postulantes en este llamado corresponden a 20.000 UF.
 
 2. Los proyectos que se encuentren previamente ya calificados y cumplan con las condiciones de este llamado, podrán ser postulados y seleccionados a partir de la fecha de esta resolución, sin necesidad de esperar la publicación del llamado en el Diario Oficial.
 
