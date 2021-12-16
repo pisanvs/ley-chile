@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº 1.705 EXENTO, DE 7 DE DICIEMBRE DE 2021, DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley 20.903, por el presente decreto exento se modifican los convenios suscritos con la Corporación de Estudio, Capacitación y Empleo de la Cámara de la Producción y del Comercio de Concepción, cuyo objeto fue delegar la administración de los establecimientos educacionales Liceo Bicentenario de Excelencia Comercial Insuco, RBD 4534-9, Liceo Industrial de Concepción, RBD 4535-7 y Liceo Comercial Femenino Concepción, RBD 4536-5, cuyos convenios fueron aprobados, respectivamente, mediante los decretos Nº 1.228, Nº 1.227 y Nº 1.229, todos de 1996 y del Ministerio de Educación.
+
+Santiago, 7 de diciembre de 2021.- Jorge Poblete Aedo, Subsecretario de Educación.
