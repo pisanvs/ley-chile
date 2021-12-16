@@ -44,31 +44,49 @@ Decreto:
 
 ELEMENTOS DE LA ESENCIA DE LA CONCESIÓN
 
-- Tipo de servicio : Radiodifusión Sonora
+- Tipo de servicio : Radiodifusión
 
-en Frecuencia Modulada.
+Sonora
 
-- Zona de servicio : Localidad de San
+en Frecuencia
+
+Modulada.
+
+- Zona de servicio : Localidad
+
+de San
 
 Marcos-Chañaral
 
 Alto-Huaquelón,
 
-Región de Coquimbo.
+Región de
 
-Superficie delimitada
+Coquimbo.
 
-por una intensidad
+Superficie
 
-de campo mayor o
+delimitada
 
-igual que 54 dB (µV/m),
+por una
 
-referida al punto
+intensidad
 
-de emisión de la
+de campo
 
-señal.
+mayor o
+
+igual que
+
+54 dB (µV/m),
+
+referida al
+
+punto
+
+de emisión
+
+de la señal.
 
 - Período de la concesión : 25 años.
 
@@ -92,19 +110,31 @@ CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
 
 - Diagrama de Radiación : Direccional.
 
-- Ganancia : 8,01 dBd de ganancia
+- Ganancia : 8,01 dBd de
 
-máxima sin tilt y
+ganancia
 
--9,12 dBd de ganancia
+máxima sin
 
-en el plano horizontal.
+tilt y
+
+-9,12 dBd de
+
+ganancia
+
+en el plano
+
+horizontal.
 
 - Polarización : Vertical.
 
-- Tipo de antenas : Yagi de 2 elementos.
+- Tipo de antenas : Yagi de 2
 
-- Tilt eléctrico : 30º bajo la horizontal.
+elementos.
+
+- Tilt eléctrico : 30º bajo la
+
+horizontal.
 
 - Nº Antenas : 2.
 
@@ -124,37 +154,57 @@ conectores y otros : 1,4 dB.
 
 UBICACIÓN DE LAS INSTALACIONES
 
-- Ubicación del Estudio : Comercio Nº 665, comuna
+- Ubicación del Estudio : Comercio
 
-de Combarbalá, Región
+Nº 665,
+
+comuna de
+
+Combarbalá,
+
+Región
 
 de Coquimbo.
 
-- Coordenadas Geográficas : 31º10'34''
+- Coordenadas Geográficas : 31º10'34"
 
 Latitud Sur.
 
-71º00'25'' Longitud
+71º00'25"
 
-Oeste. Datum WGS84.
+Longitud
+
+Oeste.
+
+Datum WGS84.
 
 - Ubicación de la Planta
 
-Transmisora y Sistema : Cerro Huaquelón s/n,
+Transmisora y Sistema : Cerro
 
-Radiante comuna de Monte
+Radiante Huaquelón s/n,
 
-Patria, Región
+comuna de
+
+Monte
+
+Patria,
+
+Región
 
 de Coquimbo.
 
-- Coordenadas Geográficas : 30º52'20''
+- Coordenadas Geográficas : 30º52'26"
 
 Latitud Sur.
 
-71º05'20'' Longitud
+71º05'33"
 
-Oeste. Datum WGS 84.
+Longitud
+
+Oeste.
+
+Datum WGS 84.
 
 CARACTERÍSTICAS TÉCNICAS DEL RADIOENLACE ESTUDIO - PLANTA TRANSMISORA
 
@@ -168,7 +218,9 @@ CARACTERÍSTICAS TÉCNICAS DEL RADIOENLACE ESTUDIO - PLANTA TRANSMISORA
 
 - Tipo emisión : 180KF8EHF.
 
-- Antena : Yagi de 6 elementos,
+- Antena : Yagi de 6
+
+elementos,
 
 abertura lóbulo
 
@@ -176,17 +228,25 @@ principal 57.
 
 - Coordenadas etapa
 
-transmisora : 31º10'34'' Latitud Sur.
+transmisora : 31º10'34"
 
-71º00'25'' Longitud
+Latitud Sur.
 
-Oeste. Datum: WGS84.
-
-- Coordenadas etapa receptora: 30º52'20'' Latitud
-
-Sur. 71º05'20''
+71º00'25"
 
 Longitud Oeste.
+
+Datum: WGS84.
+
+- Coordenadas etapa receptora: 30º52'26"
+
+Latitud Sur.
+
+71º05'33"
+
+Longitud
+
+Oeste.
 
 Datum: WGS 84.
 
