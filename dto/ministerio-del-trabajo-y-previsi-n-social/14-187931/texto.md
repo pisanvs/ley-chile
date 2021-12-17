@@ -102,7 +102,7 @@ En caso de fallecimiento del afiliado se otorgará en el siguiente orden de prec
 
 5.- A quien acredite haber efectuado los gastos del funeral.
 
-d) Asignación por Catástrofe: Se podrá otorgar una asignación por situaciones de emergencias derivadas de sismos, inundaciones, incendios u otras similares, para casos debidamente calificados.
+d) Asignación por catástrofe: Se podrá otorgar una asignación por situaciones de emergencia derivadas de incendios, terremotos, inundaciones, trombas marinas u otras catástrofes naturales. Así mismo, podrán ser consideradas como tales, afectaciones derivadas de emergencias sanitarias, que no tengan un impacto en aspectos materiales, siempre que las disponibilidades presupuestarias lo permitan. Se considerará como requisito la comprobación de los daños y/o afectación, criterios que el Consejo Administrativo definirá para tal efecto.
 
 e) Asignación por Invalidez o Incapacidad: El Servicio de Bienestar podrá otorgar una asignación por invalidez o incapacidad física o mental, actual o sobreviniente, de los hijos o cónyuge del afiliado. Esta asignación podrá consistir en un bono anual o mensual, cuyo monto y periodicidad será determinado por el Consejo Administrativo, considerando para ello los antecedentes del caso.
 
@@ -110,11 +110,15 @@ Si quien deviniere en incapacidad o invalidez fuere el afiliado al Servicio de B
 
 f) Condonación: Las deudas que el afiliado fallecido tuviese con el Servicio de Bienestar, se entenderán condonadas automáticamente.
 
-g) Asignación de Escolaridad: El Servicio de Bienestar concederá una asignación de Escolaridad, siempre que las disponibilidades presupuestarias lo permitan, una vez al año, al afiliado y cargas familiares que estudien regularmente en algún establecimiento educacional del Estado o reconocido por éste, en los siguientes niveles:
+g) Asignación de escolaridad: El Servicio de Bienestar concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, una vez al año, el afiliado y cargas familiares que estudien regularmente en algún establecimiento educacional del Estado o reconocido por este, en todos los niveles que la ley de educación lo permita.
 
-kinder, enseñanza básica y media, centro de formación técnica, universitarios, institutos profesionales, y escuelas matrices de las Fuerzas Armadas.
+h) Becas de Estudio: El Servicio de Bienestar podrá asignar becas de estudio a los afiliados y sus cargas familiares, tanto para educación básica, media y superior, en establecimientos reconocidos por el Estado. Los cupos y presupuesto, así como los requisitos para postular, serán establecidos en su oportunidad por el Consejo Administrativo.
 
-h) Becas Educacionales: El Servicio de Bienestar podrá asignar becas a los afiliados y a sus cargas familiares que sigan estudios de enseñanza superior, en Universidades o Institutos Profesionales reconocidos por el Estado. Los requisitos para postular a este beneficio serán establecidos, en su oportunidad, por el Consejo Administrativo.
+i) Acuerdo de unión civil: Se otorgará una asignación a los afiliados que celebren el acuerdo de unión civil., si ambos estuvieran afiliados al Servicio de Bienestar, cada uno tendrá derecho al beneficio.
+
+j) Asignación por adopción: Se otorgará una asignación para los afiliados que acrediten la adopción de un niño o niña., si ambos padres estuvieran afiliados al Servicio de Bienestar, cada uno tendrá derecho al beneficio.
+
+k) Ayuda por enfermedad catastrófica o de alto costo: El Servicio de Bienestar podrá otorgar una asignación por enfermedad catastrófica o de alto costo a afiliados y sus cargas familiares, de acuerdo a la disponibilidad presupuestaria. Ayuda que deberá cumplir con criterios y respaldos definidos por el Consejo Administrativo, los que serán presentados en sesión de Consejo para su revisión y asignación según procedimiento previamente aprobado.
 
 Artículo Nº 10. El monto de cada uno de los beneficios, asignaciones y ayudas será fijado anualmente por el Consejo Administrativo, de acuerdo a las disponibilidades presupuestarias. Sin embargo, dichos montos no podrán exceder los cinco ingresos mínimos, no remuneracionales, mensuales por afiliado, en cada año calendario. Excepcionalmente, en casos debidamente calificados por el Consejo Administrativo, el monto de un determinado beneficio, asignación o ayuda, podrá fijarse en un valor superior al señalado y hasta un máximo de diez ingresos mínimos mensuales no remuneracionales, por afiliado en cada año calendario. Para ello se requerirá el acuerdo unánime de los integrantes del Consejo Administrativo presentes en la respectiva sesión, acuerdo que deberá consignarse en resolución fundada que acredite la calificación y necesidad del caso.
 
@@ -142,23 +146,49 @@ Artículo Nº 15. Los afiliados podrán impetrar los beneficios de asistencia m�
 
 T I T U L O VI
 
-De la atención social, cultural y deportiva
+De la atención social, cultural, deportiva y recreativa
 
-Artículo Nº 16. El Servicio de Bienestar propenderá al progreso social, cultural, educacional, deportivo y artístico de los afiliados y sus cargas familiares, utilizando al máximo los recursos y facilidades que otras entidades o la comunidad puedan proporcionarle.
+#### Artículo 16º
 
-Con este objeto, el Servicio de Bienestar podrá conceder ayudas a los jardines infantiles, colonias de vacaciones, hogares sociales, casinos del personal, clubes deportivos y en general otras actividades que propendan a los fines señalados en el inciso anterior y que beneficien directamente a sus afiliados.
+El Servicio de Bienestar propenderá al progreso social, cultural, educacional, deportivo, artístico y recreativo, de los afiliados y sus cargas familiares, de acuerdo con la disponibilidad presupuestaria, la que se utilizará al máximo, además de propiciar facilidades que se logren en convenio con otras entidades o que la comunidad pueda proporcionar, desglosándose las siguientes actividades:
+
+1) Proyectos concursables por afiliados, destinados a fortalecer la recreación y pertenencia de sus afiliados y cargas familiares.
+
+2) Ceremonias o encuentros de Becas, que permitan reconocer a los afiliados y sus cargas familiares.
+
+3) Actividades con afiliados que se acogen a jubilación, destinadas a fortalecer el vínculo del Servicio de Bienestar con sus afiliados.
+
+4) Actividades de reconocimiento por antigüedad, que permitan fortalecer y reconocer a los afiliados.
+
+5) Actividades con los afiliados, destinadas a fomentar el esparcimiento y clima laboral entre los afiliados.
+
+6) Conmemoración del día del trabajo, que permita reconocer el rol de los trabajadores afiliados.
+
+7) Conmemoración del día de la mujer y del hombre, destinadas a reconocer a las afiliadas y afiliados.
+
+8) Actividades artísticas, destinadas a fortalecer a los afiliados que participan en grupos folclóricos, festivales y/o otras.
+
+9) Actividades deportivas, destinadas al desarrollo de olimpiadas y/o encuentros deportivos para afiliados y sus cargas familiares.
+
+Con este objeto, el Servicio de Bienestar podrá conceder ayuda a los jardines infantiles, colonias vacacionales, hogares sociales, casinos del personal, clubes deportivos, y en general otras actividades que propendan a los fines señalados en el inciso anterior y/u otros que el Consejo determine, que vayan en beneficio directo de sus afiliados.
 
 Artículo Nº 17. El Servicio de Bienestar podrá celebrar la festividad de Navidad para sus afiliados y sus cargas familiares, de acuerdo a sus recursos financieros.
 
 El Consejo Administrativo anualmente fijará montos del presupuesto que deberán destinarse para lo señalado en el presente artículo y en el anterior.
 
-Artículo Nº 18. El Servicio de Bienestar podrá, además, administrar colonias, refugios, casas de huéspedes u otras instalaciones que le sean asignadas para el uso de sus beneficiarios, quedando expresamente excluida la facultad de contratar personal, la que corresponderá a la respectiva institución. Asimismo, podrá celebrar convenios con otros servicios de bienestar, con el objeto de hacer uso de las instalaciones que administren.
+Artículo Nº 18º: El Servicio de Bienestar podrá, además, administrar centros dependientes que sean asignados para el uso y beneficio de los afiliados, pudiendo asignar recursos siempre y cuando el presupuesto lo permita, para realizar adquisiciones y mejoras que permitan aumentar el beneficio para los afiliados y su grupo familiar, quedando expresamente excluida la facultad para contratar personal, la que corresponderá a la respectiva institución. Asimismo, podrá celebrar convenios con otros servicios de bienestar, con el objeto de hacer uso de las instalaciones que administren.
+
+#### Artículo 19º
+
+El Consejo Administrativo de Bienestar estará facultado para modificar y/o suspender la ejecución de actividades facultativas, por razones de fuerza mayor, tales como catástrofes naturales y/o pandemias, con el objeto de redestinar esos recursos a otros Ítems.
+
+Esta determinación no conllevará compensación alguna, para el socio que pudo haber sido beneficiado dentro de una u otro actividad del periodo suspendido.
 
 T I T U L O VII
 
 Disposiciones generales
 
-Artículo Nº 19. El derecho a solicitar los beneficios o ayudas que concede el Servicio de Bienestar, caducará luego de transcurridos seis meses del hecho constitutivo de la causal que se invoque para impetrarlo.
+Artículo Nº 20. El derecho a solicitar los beneficios o ayudas que concede el Servicio de Bienestar, caducará luego de transcurridos seis meses del hecho constitutivo de la causal que se invoque para impetrarlo.
 
 En el caso de los funcionarios que se acogen a jubilación, este plazo comenzará a regir desde la fecha en que se declara la calidad de tal, para los beneficios causados en el período comprendido entre estas fechas y la del cese de funciones.
 
