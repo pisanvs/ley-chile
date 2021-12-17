@@ -610,6 +610,8 @@ El Servicio de Bienestar además podrá prestar apoyo a los grupos y/u organizac
 
 Para esto, el Servicio de Bienestar establecerá un procedimiento o informativo en el cual se señalen las bases de postulación para el financiamiento de Iniciativas de Afiliados/as.
 
+Además, de acuerdo a las disponibilidades presupuestarias, el Servicio de Bienestar podrá contribuir al financiamiento de mantenciones o mejoras de los servicios dependientes, tales como jardines infantiles, recintos recreacionales y camping, que beneficien a sus afiliados/as y cargas reconocidas.
+
 #### Artículo 37º
 
 <!-- parte:10215558 -->
