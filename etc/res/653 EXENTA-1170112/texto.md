@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN N° 653 EXENTA, DEL 1 DICIEMBRE DE 2021
+
+Por resolución exenta Nº 653, del 1 diciembre del año 2021, del Gobierno Regional de Ñuble,
+
+- **1.-** Que, mediante solicitud N° 782, de fecha 30 de noviembre del año 2021, de la Municipalidad de Quillón, solicitando corte de tránsito vehicular en calle 18 de Septiembre entre las calles El Roble y Carreras, calle Carrera entre las calles 18 de Septiembre y San Martín, calle San Martín entre las calles Juan Paulino Flores y El Roble, comuna de Quillón, los días viernes 24 y 31 de diciembre del año 2021, desde las 07:00 horas hasta las 15:00 horas, con la finalidad de realizar actividad denominada "Feria de Productores y Emprendedores Locales".
+
+- **2.-** Que, el Gobierno Regional de Ñuble está de acuerdo con dicho corte de tránsito en la comuna de Quillón, de acuerdo a los términos que se indica: calle 18 de Septiembre entre las calles El Roble y Carreras, calle Carrera entre las calles 18 de Septiembre y San Martín, calle San Martín entre las calles Juan Paulino Flores y El Roble, comuna de Quillón, los días viernes 24 y 31 de diciembre del año 2021, desde las 07:00 horas hasta las 15:00 horas.
+
+- **3.-** Que, en consecuencia, existe una causa justificada en los términos del 113, del DFL Nº 1 de 2007, del Ministerio de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbese la circulación de todo tipo de vehículos en calle 18 de Septiembre entre las calles El Roble y Carreras, calle Carrera entre las calles 18 de Septiembre y San Martín, calle San Martín entre las calles Juan Paulino Flores y El Roble, comuna de Quillón, los días viernes 24 y 31 de diciembre del año 2021, desde las 07:00 horas hasta las 15:00 horas, con la finalidad de realizar actividad denominada "Feria de Productores y Emprendedores Locales".
+
+Anótese y publíquese.- Alicia Contreras Vielma, Gobernadora Regional (S), Gobierno Regional de Ñuble.
