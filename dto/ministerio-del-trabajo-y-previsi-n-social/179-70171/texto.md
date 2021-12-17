@@ -26,7 +26,7 @@ La administración del Servicio corresponderá al Consejo Administrativo integra
 
 a) El Jefe superior del Fondo Nacional de Salud o la persona que éste designe en su reemplazo, quien la presidirá.
 
-b) El Jefe del Subdepartamento de Administración y Desarrollo Organizacional o la persona que éste designe en su reemplazo.
+b) El/La Jefe de la División de Gestión y Desarrollo de Personas o la persona que éste designe en su reemplazo.
 
 c) Dos representantes de los afiliados, uno de los cuales será designado por la Asociación de funcionarios, cuando proceda, de acuerdo con lo dispuesto en el Inciso Tercero del Artículo 18º del Reglamento General.
 
@@ -36,7 +36,7 @@ El jefe del Servicio actuará como Secretario del Consejo, teniendo en él, dere
 
 Para ser elegido representante de los afiliados se requiere, además de los requisitos indicados en el Artículo 20º del Reglamento General:
 
-a) Ser afiliado del Servicio con una antigüedad no inferior a dos años, y
+a) Ser afiliado del Servicio con una antigüedad no inferior a un año, y
 
 b) No ser integrante de la Planta de Directivos del Fondo Nacional de Salud.
 
@@ -166,61 +166,53 @@ Otras Prestaciones
 
 #### Artículo 9º
 
-El Servicio podrá otorgar las siguientes ayudas en dinero o en especies no sujetas a restitución por las causales y de acuerdo con las modalidades que a continuación se indican:
+El Servicio podrá otorgar, en la medida que sus recursos lo permitan, y por una vez en el año calendario, las siguientes ayudas en dinero o en especies no sujetas a restitución por las causales y de acuerdo con las modalidades que a continuación se indican:
 
-a) Matrimonio: Se concederá una ayuda cuando el afiliado contraiga matrimonio. Si ambos contrayentes estuvieren afiliados, la ayuda se concederá a cada uno de ellos en forma independiente.
+a) Matrimonio: Se concederá una ayuda cuando el afiliado acredite haber contraído matrimonio o celebrado un acuerdo de unión civil. Si ambos contrayentes convivientes civiles estuvieren afiliados, la ayuda se concederá a cada uno de ellos en forma independiente.
 
-b) Nacimiento: Se concederá una ayuda por el nacimiento de cada hijo. Si ambos padres estuvieren afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente. c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
+b) Nacimiento: Se concederá una ayuda por el nacimiento o adopción de cada hijo del afiliado/a. Si ambos padres estuvieren afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente.
 
-En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
+c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
+
+En caso de Fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
 
 1º A la persona designada expresamente para tales efectos por el afiliado.
 
-2º Al cónyuge sobreviviente.
+2º Al cónyuge sobreviviente o al conviviente civil sobreviviente.
 
-3º A los hijos legítimos.
+3º A los hijos.
 
-4º A los hijos naturales.
+4º A los padres, cuya calidad se acredite por el respectivo certificado de nacimiento, a menos que la paternidad o maternidad haya sido determinada por sentencia firme en juicio de filiación, en cuyo caso éste quedará excluido.
 
-5º A los padres legítimos.
+5º A la persona que acredite haber efectuado los gastos del funeral.
 
-6º A la persona que acredite haber efectuado los gastos del funeral.
+d) Educación: Se concederá una asignación de escolaridad siempre que las disponibilidades presupuestarias lo permitan, a los afiliados y cargas familiares, que se encuentren cursando estudios regulares en los niveles pre-básico, básico, medio, técnico o de educación superior, en algún establecimiento del Estado o reconocido por éste.
 
-d) Educación: Se concederá una asignación de escolaridad siempre que las disponibilidades presupuestarias lo permitan, a los afiliados y cargas familiares, que se encuentren cursando estudios regulares en los niveles prebásico, medio, técnico o de educación superior, en algún establecimiento del Estado o reconocido por éste.
+e) Becas de Estudio: El Servicio de Bienestar podrá conceder una beca de estudio, siempre que las disponibilidades presupuestarias lo permitan, para el afiliado y/o sus cargas familiares, para el estímulo al buen rendimiento académico. Este beneficio está orientado a estimular la superación personal del socio y/o sus cargas, previo cumplimiento de requisitos de postulación.
 
-e) Becas de Estudio: El Servicio, siempre que sus disponibilidades presupuestarias lo permitan, podrá otorgar becas de estudio destinadas a complementar los gastos derivados de la educación de un afiliado o de sus hijos que constituyan cargas de familia. Este beneficio está orientado a estimular la superación personal del socio y/o sus cargas, previo cumplimiento de requisitos de postulación.
+f) Ayuda Médica: En caso de enfermedad grave calificada por el médico tratante como tal y/o tratamiento médico prolongado de alto costo, y/o por una situación médica que comprometa o altere significativamente la economía familiar. Todo lo anterior deberá ser informado por el/la Jefe de Servicio de Bienestar al Consejo Administrativo, para aprobación. Esta ayuda económica es complementaria de las prestaciones contempladas en el Artículo 8º.
 
-f) Ayuda Médica: En caso de enfermedad grave y tratamiento médico prolongado de alto costo, calificados como tales por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria de las prestaciones contempladas en el Artículo 8º.
-
-g) Catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves a consecuencia de incendios, terremotos, inundaciones u otras catástrofes. Se considerará como requisito la comprobación de los hechos por parte del Jefe del Servicio de Bienestar, o de la persona a quien él delegue esta facultad.
+g) Catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves que afecten sus vivienda, enseres domésticos u otros bienes, a consecuencia de incendios, terremotos, inundaciones u otras situaciones que provoquen gran destrucción o daño económico al afiliado. Se considerará como requisito la comprobación de los hechos por parte del/la Jefe del Servicio de Bienestar o de la persona a quien éste delegue esta facultad.
 
 h) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio por el concepto de préstamo que éste le hubiese otorgado.
 
-i) Alimentación: Se concederá una ayuda mensual por concepto de alimentación a los afiliados que se encuentren en un estado de necesidad, según lo determine el Consejo Administrativo, previo informe de la asistente social.
-
-El monto de las ayudas contempladas en las letras a), b), c), d), e), f), g), e i), será determinado por el Consejo Administrativo, conforme a lo señalado en la letra g) del artículo 29º del Reglamento General.
-
-NOTA:
-
-El DTO 78, Trabajo, artículo único letra
-
-- **a)** del Nº 2, incorporó una nueva letra a), pasando a ser las actuales letras b), c), d), e), f),
-
-- **g)** y
-
-- **h)** respectivamente.
+i) Ayudas asistenciales: Se concederá una ayuda de carácter económico a cada afiliado que presente una situación particular calificada de urgencia y/o extrema necesidad. Dicha calificación le entregará un profesional del área social o bien el/la Jefe del Servicio de Bienestar; quien a su vez presentará el caso al Consejo Administrativo para su aprobación si corresponde.
 
 #### Artículo 10º
 
-Para solicitar los beneficios señalados en las letras a), b), c),
+Para solicitar los beneficios señalados en las letras a), b), c), d), e) y h) del Artículo 9º, el afiliado o sus beneficiarios, según corresponda, deberán presentar una solicitud de ayuda acompañada del certificado respectivo emitido por la Oficina de Registro Civil e Identificación y/o el establecimiento educacional, según corresponda.
 
-- **e)** y
-
-- **h)** del Artículo 9º, el afiliado deberá presentar una solicitud de ayuda acompañada del certificado respectivo emitido por la Oficina de Registro Civil e Identificación y/o el establecimiento educacional, según corresponda.
+Cuando la ayuda de fallecimiento sea del afiliado, la solicitud debe ser presentada por el beneficiario, según orden de precedencia.
 
 #### Artículo 11º
 
-El Servicio podrá celebrar y financiar las Fiestas Patrias y Navidad, para los afiliados y sus cargas familiares, siempre que sus recursos presupuestarios lo permitan.
+El Servicio de Bienestar, en tanto su disponibilidad presupuestaria lo permita, podrá:
+
+- Patrocinar, organizar, financiar y/o subvencionar actividades culturales, deportivas, recreativas, educativas, artísticas y sociales que propendan optimizar el uso del tiempo libre de los afiliados y cargas familiares.
+
+- Promover, coordinar y financiar en especies o en dinero, celebraciones de Fiestas Patrias, Navidad, Aniversario, Día del Niño, Día de la Mujer, Día del Padre, Día de la Madre, Día del Trabajador, u otros aprobados por el Consejo Administrativo.
+
+- Otorgar a sus afiliados y cargas familiares, obsequios en especies o en dinero; en las ocasiones antes mencionadas, con la aprobación del Consejo Administrativo.
 
 Párrafo Tercero
 
@@ -228,35 +220,25 @@ De los Préstamos
 
 #### Artículo 12º
 
-El Servicio podrá conceder los préstamos no reajustables que a continuación se señalan, cuando sus recursos financieros lo permitan:
-
-a) Préstamos Médicos: Se otorgarán como complemento de las ayudas económicas a que se refiere el Artículo 8º de este Reglamento.
-
-b) Préstamos de Auxilio: Se otorgarán ante problemas económicos graves y otras causas justificadas, calificadas por el Consejo Administrativo.
-
-c) Préstamos Escolares: Se otorgarán una vez al año y estarán orientados a solventar gastos de matrícula, útiles y vestuario escolar de los hijos estudiantes que sean causantes de asignación familiar o bien para los propios afiliados.
-
-d) Préstamos Personales: Se otorgarán una vez al año con el objeto de propender al mejoramiento de las condiciones familiares y/o de trabajo de los afiliados.
-
-e) Préstamos Habitacionales: Se otorgarán para completar el ahorro previo, necesario para la adquisición de una vivienda; este mismo beneficio se podrá otorgar para la construcción, ampliación, reparación o término de la vivienda propia.
+El Servicio de Bienestar podrá conceder Préstamos de Auxilio no reajustables, cuando sus recursos financieros lo permitan y que se otorgarán ante problemas económicos, por urgencias, situaciones graves y otras causas justificadas, calificadas por el Consejo Administrativo.
 
 #### Artículo 13º
 
 Para conceder un Préstamo el Consejo Administrativo deberá considerar, especialmente, las posibilidades de recuperación de los dineros prestados. Además será requisito indispensable la constitución de la garantía de dos codeudores solidarios, que sean funcionarios de planta o a contrata de la Institución y su solvencia será calificada por dicho Consejo Administrativo.
 
-Para solicitar cualquier tipo de préstamos el afiliado deberá tener por lo menos seis meses de afiliación ininterrumpida al Servicio.
+Para solicitar un préstamo el afiliado deberá tener por lo menos seis meses de afiliación ininterrumpida al Servicio.
 
 #### Artículo 14º
 
-El reintegro de los préstamos señalados en el Artículo 12º, deberá hacerse en cuotas mensuales, iguales y sucesivas. Las referidas cuotas serán descontadas a partir del mes siguiente al de su otorgamiento.
+El reintegro del préstamo señalado en el artículo 12º, deberá hacerse en cuotas mensuales, iguales y sucesivas. Las referidas cuotas serán descontadas a partir del mes siguiente al de su otorgamiento.
 
-La tasa de interés que devengarán estos préstamos será determinada anualmente por el Consejo Administrativo, antes del inicio de cada ejercicio financiero, y consistirá en un porcentaje del interés corriente para operaciones no reajustables fijado por la Superintendencia de Bancos e Instituciones Financieras, vigente al día primero del mes en que se otorga el préstamo.
+La tasa de interés que devengará este préstamo será determinada anualmente por el Consejo Administrativo, antes del inicio de cada ejercicio financiero, y consistirá en un porcentaje del interés corriente para operaciones no reajustables fijado por la Superintendencia de Bancos e Instituciones Financieras, vigente al día primero del mes en que se otorga el préstamo.
 
-Para solicitar un nuevo préstamo de aquellos señalados por las letras b) y d) del Artículo 12º será necesario haber servido como mínimo el 80% de la deuda por el mismo concepto.
+Para solicitar un nuevo préstamo del Artículo 12º será necesario haber servido como mínimo el 80% de la deuda por el mismo concepto.
 
 #### Artículo 15º
 
-Las cuotas que el afiliado adeuda al Servicio de Bienestar por Préstamo o por concepto de Crédito de casas comerciales no podrán en ningún caso exceder del 30% de la remuneración imponible para pensiones del afiliado o de su pensión, según corresponda.
+Las cuotas que el afiliado adeuda al Servicio de Bienestar por Préstamo o por concepto de Crédito de casas comerciales no podrán en ningún caso exceder del 15% de la remuneración imponible para pensiones del afiliado o de su pensión, según corresponda.
 
 @
 
