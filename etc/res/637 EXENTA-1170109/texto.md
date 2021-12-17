@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN N° 637 EXENTA, DE FECHA 25 NOVIEMBRE DEL AÑO 2021
+
+Por resolución exenta N° 637, de fecha 25 noviembre del año 2021, del Gobierno Regional de Ñuble:
+
+- **1.-** Que, mediante oficio N° 321, de fecha 25 de noviembre del año 2021, presentado por Instituto Nacional de Deporte Región de Ñuble y organizado en conjunto con la Ilustre Municipalidad de Quillón, solicitando efectuar corte de tránsito vehicular el día domingo 5 de diciembre del año 2021, desde las 00:00 horas hasta las 15:00 horas, en calle 18 de Septiembre entre las calles El Roble y José Miguel Carrera, calles Juan Pablo Flores, Gabriela Mistral, Avendaño, Diego Portales, El Roble y 18 de Septiembre, de la comuna de Quillón, para realizar la actividad deportiva denominada "Cicletada Energízate Quillón".
+
+- **2.-** Que, el Gobierno Regional de Ñuble está de acuerdo con dicho corte de tránsito en la comuna de Quillón, de acuerdo a los términos que se indica: día domingo 5 de diciembre del año 2021, desde las 00:00 horas hasta las 15:00 horas, en calle 18 de Septiembre entre las calles El Roble y José Miguel Carrera, calles Juan Pablo Flores, Gabriela Mistral, Avendaño, Diego Portales, El Roble y 18 de Septiembre, de la comuna de Quillón.
+
+- **3.-** Que, en consecuencia, existe una causa justificada en los términos del 113, del DFL N° 1, de 2007, del Ministerio de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbese la circulación de todo tipo de vehículos el día domingo 5 de diciembre del año 2021, desde las 00:00 horas hasta las 15:00 horas, en calle 18 de Septiembre entre las calles El Roble y José Miguel Carrera, calles Juan Pablo Flores, Gabriela Mistral, Avendaño, Diego Portales, El Roble y 18 de Septiembre, de la comuna de Quillón, para realizar la actividad deportiva denominada "Cicletada Energízate Quillón".
+
+Anótese y publíquese.- Óscar Crisóstomo Llanos, Gobernador Regional, Gobierno Regional de Ñuble.
