@@ -112,13 +112,17 @@ Párrafo Primero Atención Médica y Odontológica
 
 #### Artículo 11°
 
-El Servicio de Bienestar, en la medida que sus recursos se lo permitan, otorgará a sus afiliados y cargas familiares ayudas de carácter médico y odontológico por los conceptos señalados en el artículo 15 del Reglamento General. Otorgará además una ayuda médica especial en caso de enfermedad grave y/o tratamiento médico prolongado de alto costo, que deba ser solventado por el afiliado, previo informe favorable de Asistente Social y del Médico Contralor del Servicio y acuerdo fundado del Consejo Administrativo.
+El Servicio de Bienestar, en la medida que sus recursos se lo permitan, otorgará a sus afiliados, las cargas legalmente reconocidas, como también sus cónyuges, hijos e hijas y padres y madres que vivan a expresas del afiliado, que sean beneficiarios de pensión básica solidaria de vejez o invalidez y, aquellos a los cuales se les ha otorgado la tuición legal o cuidado personal en favor del afiliado ayudas de carácter médico y odontológico por los conceptos señalados en el artículo 15 del Reglamento General. Otorgará además una ayuda médica especial en caso de enfermedad grave y/o tratamiento médico prolongado de alto costo, que deba ser solventado por el afiliado, previo informe favorable de Asistente Social y del Médico Contralor del Servicio y acuerdo fundado del Consejo Administrativo.
 
 Los afiliados tendrán derecho a obtener atención médica y dental a través de los profesionales y/o clínicas que administre el Servicio.
 
 #### Artículo 11º bis
 
 El Bienestar podrá financiar con cargo a sus propios recursos o disponibilidades presupuestarias, la contratación de seguros de vida y de salud para sus afiliados y/o sus cargas familiares que no sean cubiertas por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros.
+
+El Servicio de Bienestar podrá celebrar contratos y/o convenios con empresas destinados a obtener ventas al contado o a crédito de toda clase de bienes, mercaderías o servicios para satisfacer las necesidades de sus afiliados.
+
+Respecto de los contratos y/o convenios que celebre el Servicio de Bienestar, serán beneficiarios de los mismos, el afiliado, las cargas legalmente reconocidas y su grupo familiar, y en particular a aquellos que se refiere el inciso primero de este artículo.
 
 Párrafo Segundo Otras Prestaciones {ART. 12}
 
@@ -128,13 +132,13 @@ El Servicio de Bienestar podrá otorgar, conforme a sus disponibilidades presupu
 
 a) #Matrimonio del afiliado. Si ambos contrayentes fuesen afiliados se pagará a cada uno de ellos en forma independiente;
 
-b) Nacimiento de un hijo legítimo o natural, comprobado mediante instrumento público. Si ambos padres fuesen afiliados, cada uno de ellos tendrá derecho al beneficio en forma independiente. En caso de nacimientos múltiples, se duplicará el monto del subsidio;
+b) Nacimiento o adopción de un hijo o hija, comprobado mediante instrumento público. Si ambos padres fuesen afiliados, cada uno de ellos tendrá derecho al beneficio de forma independiente, y en caso de nacimientos o adopciones múltiples, se duplicará el monto del subsidio.
 
-c) Educación, en caso que el afiliado acredite tener cargas familiares que sigan cursos regulares en los niveles pre-básico, básico, medio, técnico o de educación superior; o que asistan regularmente a establecimientos de enseñanza especial, ya sea para ciegos, sordomudos, deficientes mentales u otros de naturaleza similar. Los establecimientos que impartan los referidos cursos regulares deberán ser del Estado o reconocidos por el Ministerio de Educación. A este beneficio, que se concederá una vez al año, también tendrá derecho el afiliado que se encuentre estudiando en alguno de los referidos establecimientos.
+c) Acuerdo de Unión Civil de la persona afiliada. Si ambos contrayentes estuviesen afiliados, el subsidio por Unión Civil se pagará a cada uno en forma separada.
 
 d) Fallecimiento del afiliado, su cónyuge o alguna de sus cargas familiares. Se otorgará también este beneficio por fallecimiento del hijo recién nacido, de hasta un mes de edad, aun cuando no haya sido reconocido como carga familiar del afiliado.
 
-En caso de fallecimiento del afiliado, el beneficio corresponderá a la persona designada por aquél, y a falta de designación, al cónyuge sobreviviente, a los hijos legítimos, a los hijos naturales, a sus padres legítimos y a sus padres naturales, según este orden de precedencia. Si no obstante lo anterior, no existieren beneficiarios, el Servicio podrá efectuar directamente el pago de los gastos de funeral hasta la concurrencia del subsidio o bien otorgar éste a la persona que acredite haberlos efectuado.
+En caso de fallecimiento de la persona afiliada el beneficio corresponderá a la persona designada por aquella, y a falta de designación, al cónyuge sobreviviente, a los hijos y a los padres, según este orden de precedencia, sin perjuicio de las causales de indignidad, a que se refieren los artículos 968 y siguientes del Código Civil, o de desheredamiento, contempladas en los artículos 1207 y siguientes del mismo Código, que les afecten. No obstante lo anterior, si no existiesen beneficiarios, el Servicio de Bienestar podrá efectuar directamente el pago de los gastos del funeral del causante afiliado hasta la concurrencia total del subsidio o bien otorgar éste a la persona que acredite haberlos efectuado.
 
 Tratándose de un hijo mortinato, el afiliado tendrá derecho a este beneficio, que será incompatible con el contemplado en la letra b) precedente, siempre y cuando haya tenido derecho a percibir por él asignación maternal;
 
@@ -148,17 +152,23 @@ En los casos de los subsidios señalados en las letras e) y f) precedentes, a pe
 
 Párrafo Tercero De los Préstamos {ARTS. 13-15}
 
-#### Artículo 13°
+#### Artículo 13º
 
-El Servicio podrá conceder, cuando sus recursos lo permitan, préstamos en dinero a sus afiliados, por las siguientes causales:
+El Servicio de Bienestar podrá conceder, cuando sus recursos lo permitan, préstamos en dinero a sus afiliados, por las siguientes causales, que afecten tanto al afiliado como a sus cargas legales o a su cónyuge, conviviente de unión civil, a sus hijos o hijas, sus ascendientes padres o madres, sean o no cargas legales:
 
-a) Médicos: para enterar la parte no cubierta por la ayuda concedida por el Servicio;
+a. Médicos: para pagar cuentas médicas, copagos de programas médicos, programas de pago asociados a diagnóstico, pago de presupuestos de exámenes y procedimientos o cualquier otro gasto médico cuyo pago se encuentre efectivamente acreditado.
 
-b) Dentales: para enterar la parte del gasto efectuado no cubierto por la ayuda concedida por el Servicio;
+b. Dentales: para pagar gastos derivados de presupuestos dentales de cualquier especialidad odontológica, radiografías, escáneres, intervenciones maxilofaciales, implantes y cualquier otro gasto de tipo odontológico, previa indicación del profesional tratante y cuyo pago se encuentre efectivamente acreditado.
 
-c) Escolares: se otorgarán para gastos de matrícula, cuotas de centros de padres y/o alumnos, cuotas de escolaridad o mensualidad y otros gastos de esta naturaleza debidamente acreditados, y gastos de útiles y de vestuario escolar, tanto de los hijos estudiantes reconocidos como carga familiar de los afiliados como de los mismos afiliados;
+c. Educacionales: se otorgarán para gastos de matrículas, aranceles, cuotas de centro de padres y otros gastos inherentes a la educación de los hijos o hijas del afiliado estudiante.
 
-d) Personales: se otorgarán a los afiliados en casos de emergencia económica fehacientemente acreditada por medio de informe socioeconómico, que requieran urgente atención a juicio del Consejo.
+d. Habitacionales o de Vivienda: para pagar arriendos, dividendos atrasados, ahorro previo para la adquisición de vivienda con o sin subsidio habitacional, y para pagar gastos inherentes a la mantención y/o reparación de la vivienda. Esta causal aplica solo para afiliados.
+
+e. Complementario de Salud: para cubrir las diferencias de copago, si es que el préstamo médico o dental no fuere suficiente para pagar la totalidad de la deuda originada por el tratamiento de salud.
+
+f. Personales de Emergencia Económica: en caso de emergencia económica fehacientemente acreditada por medio de Síntesis Social, que requiera atención a juicio del Consejo Administrativo, tales como fallecimiento, gastos de consumos básicos, cobranzas y embargos judiciales.
+
+g. Personales de Libre Disponibilidad: para cubrir imprevistos, deudas comerciales, bancarias, vacaciones, gastos de salud del cónyuge, conviviente civil, hijos o hijas, sean o no cargas familiares, y de otros integrantes del grupo familiar, entre otros.
 
 El Consejo Administrativo determinará anualmente los montos, plazos, el interés y la reajustabilidad aplicables a los préstamos, conforme a lo dispuesto en la Ley N° 18.010. El plazo que se fije no podrá ser superior a 24 meses para los préstamos señalados en las letras a),
 
@@ -174,15 +184,17 @@ Los afiliados tendrán derecho a impetrar, desde la fecha de su incorporación a
 
 El derecho a solicitar los beneficios que concede el Servicio de Bienestar caduca luego de transcurridos seis meses desde la fecha en que haya ocurrido el hecho constitutivo de la causal que se invoque para solicitarlos. En el caso de afiliados que dejen de ser funcionarios por acogerse a jubilación, el referido plazo comenzará a regir desde la fecha en que se conceda la jubilación, para los beneficios causados en el período comprendido entre esta fecha y la del cese de funciones.
 
-#### Artículo 15°
+#### Artículo 15º
 
-Para el otorgamiento de créditos en casas comerciales o similares, debe verificarse previamente que las sumas mensuales adeudadas por el afiliado al Servicio, por cualquier concepto, no excedan del 30% de su remuneración o pensión líquida, según sea el caso, entendiéndose por tal la que efectivamente perciba al optar al beneficio, y que la cuota que mensualmente deba pagar por el crédito solicitado no exceda del 15% de su remuneración líquida.
+Para el otorgamiento de préstamos y/o créditos debe verificarse que las sumas mensuales adeudadas por el afiliado al Servicio y/o terceros, no excedan el 15% del total de haberes para los afiliados en servicio activo, y del 30% de la pensión para los afiliados jubilados.
 
 ## Título V — Disposiciones Generales {ARTS. 16-20}
 
 #### Artículo 16°
 
-Para el otorgamiento de préstamos y créditos en casas comerciales o similares será necesaria la presentación previa de dos codeudores solidarios con más de un año de afiliación, cuya solvencia será calificada por el Consejo Administrativo. Dicha garantía deberá renovarse con la periodicidad que determine el Consejo, plazo que no podrá exceder de un año.
+Para el otorgamiento de préstamos y créditos en casas comerciales o similares será necesaria la presentación previa de dos codeudores solidarios con más de un año de afiliación, cuya solvencia será calificada por el Jefe o la Jefa del Servicio de Bienestar Minvu- Serviu. Dicha garantía deberá renovarse con la periodicidad que determine el Consejo, plazo que no podrá exceder de un año.
+
+Para el otorgamiento de créditos de casas comerciales será necesaria la contratación colectiva de un seguro de desvinculación a todo evento, cuya prima será de cargo del afiliado.
 
 #### Artículo 17°
 
