@@ -270,7 +270,9 @@ a) Con una cuota de incorporación que deberán pagar, por una sola vez, de un 5
 
 b) Los aportes que anualmente se consulten en el presupuesto del Servicio Local de Educación Pública de Barrancas, con sujeción a las normas legales y estatutarias vigentes.
 
-c) Con un aporte mensual de los afiliados/as, el que será de un 4% de la remuneración imponible de los afiliados/as. En el caso de afiliado jubilado su aporte mensual será del 2%.
+c) Con un aporte mensual de los afiliados/as, el que será de hasta un 4% de la remuneración imponible de los afiliados/as. En el caso de afiliados/as jubilados/as, su aporte mensual será de hasta un 3% de su jubilación.
+
+El porcentaje de descuento será definido anualmente por el Consejo Administrativo, lo que será informado a cada afiliado oportunamente.
 
 d) De los intereses que generen los préstamos que el Servicio de Bienestar otorgue.
 
