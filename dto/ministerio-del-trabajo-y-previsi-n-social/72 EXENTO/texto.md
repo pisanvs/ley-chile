@@ -62,7 +62,7 @@ Los representantes titulares y suplentes de los afiliados que sean elegidos por 
 
 #### Artículo 6°
 
-El Consejo Administrativo celebrará sesiones ordinarias y extraordinarias. Las sesiones ordinarias se realizarán a lo menos una vez cada dos meses, en el día y hora que fijen sus miembros en la primera sesión del año y serán citadas por el Jefe/a o Encargado/a del Servicio de Bienestar, por correo electrónico.
+El Consejo Administrativo celebrará sesiones ordinarias y extraordinarias. Las sesiones ordinarias se realizarán a lo menos una vez cada dos meses y serán citadas por el Jefe/a o Encargado/a del Servicio de Bienestar, por correo electrónico.
 
 A su vez, el Consejo sesionará extraordinariamente cuando el Presidente del Consejo convoque de oficio o a petición escrita de la mayoría de los miembros en ejercicio, o por acuerdo de éste. En esta sesión sólo podrán tratarse las materias contenidas en la citación, la que se hará en la misma forma señalada en el inciso precedente.
 
@@ -74,13 +74,13 @@ Del Financiamiento
 
 El Servicio de Bienestar obtendrá su financiamiento a través de los siguientes recursos:
 
-a) Una cuota de incorporación que deberán pagar los afiliados no superior al 2% de su remuneración mensual imponible para pensiones o de su pensión de jubilación, porcentaje que fijará anualmente el Consejo Administrativo;
+a) Una cuota de incorporación que deberán pagar los afiliados no superior al 2% de su remuneración mensual imponible para pensiones o de su pensión de jubilación, porcentaje que fijará el Consejo Administrativo;
 
 b) Con los aportes que anualmente se consulten en el presupuesto de la Agencia de Calidad de la Educación y que ésta aportará conforme a las disposiciones legales, reglamentarias y estatutarias vigentes;
 
-c) Con el aporte mensual de sus afiliados en servicio activo, cuyo monto no podrá ser superior a un 1% de las remuneraciones imponibles para pensiones y que fijará anualmente el Consejo Administrativo, la cual se pagará con la cuota de incorporación;
+c) Con el aporte mensual de sus afiliados en servicio activo, cuyo monto no podrá ser superior a un 2% de las remuneraciones imponibles para pensiones y que fijará el Consejo Administrativo, la cual se pagará con la cuota de incorporación;
 
-d) Con el aporte mensual de los afiliados jubilados de hasta un 1% de sus pensiones, que será fijado anualmente por el Consejo Administrativo, más la cantidad correspondiente al aporte institucional, la cual será de cargo del afiliado jubilado;
+d) Con el aporte mensual de los afiliados jubilados de hasta un 1,2% de sus pensiones, que será fijado por el Consejo Administrativo, más la cantidad correspondiente al aporte institucional, la cual será de cargo del afiliado jubilado;
 
 e) Con los intereses de los préstamos que otorgue el Servicio a sus afiliados;
 
@@ -184,9 +184,9 @@ e) Educación: Se concederá una asignación de escolaridad anual, por los afili
 
 f) Becas de Estudio: Se podrá conceder una ayuda económica en casos excepcionales destinada a complementar los gastos derivados de la educación del afiliado, o de sus cargas familiares.
 
-g) Ayuda Médica: Se podrán conceder ayudas por este concepto en caso de enfermedades que requieran tratamientos de alto costo y/o prolongados, tales como diálisis, implantes, trasplantes, quimioterapia, UCI, UTI, VIH.
+g) Ayuda Médica: Se podrán conceder ayudas por este concepto en caso de enfermedades que requieran tratamientos de alto costo y/o prolongados, calificadas como tal por el médico tratante.
 
-h) Catástrofe: Se concederá ayuda en dinero o especies, al afiliado que sufran daños graves en sus bienes por situaciones imprevistas o de fuerza mayor derivadas de accidentes, siniestros, catástrofes, fenómenos naturales, incendios, terremotos o inundaciones. Para acceder a este beneficio será necesario la comprobación del hecho que lo cause, por el Jefe del Servicio.
+h) Catástrofe: Se concederá ayuda en dinero o especies, al afiliado que sufran daños graves por situaciones imprevistas o de fuerza mayor derivadas de accidentes, siniestros, catástrofes, fenómenos naturales, incendios, terremotos o inundaciones. Para acceder a este beneficio será necesario la validación del hecho que lo cause, por el Jefe/a o Encargado/a del Servicio de Bienestar, según las definiciones que adopte el Consejo Administrativo.
 
 i) Condonación de Deudas: En caso de fallecimiento de un afiliado se entenderán automáticamente condonadas todas las deudas que tuviere con el Servicio.
 
@@ -250,7 +250,7 @@ Disposiciones Generales
 
 El personal de la Agencia de Calidad de la Educación, que se encontrare afiliado al Servicio de Bienestar con antelación a la fecha de dictación del presente decreto, se entenderá que cumple con las exigencias de antigüedad y permanencia que el Reglamento establece para la dación de beneficios y estará eximido de pagar la cuota de incorporación o afiliación.
 
-Los afiliados de bienestar tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el servicio de Bienestar a contar del mes siguiente de su ingreso, una vez aprobada la solicitud respectiva. Los demás beneficios podrán solicitarse tres meses después que el afiliado se incorpore al servicio, o dentro de los plazos especiales establecidos en el presente reglamento.
+Los afiliados de bienestar tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el servicio de Bienestar a contar del primer mes de cotización en el referido Servicio. Los demás beneficios podrán solicitarse después de tres meses de cotización en el Servicio de Bienestar, o dentro de los plazos especiales establecidos en el presente reglamento.
 
 #### Artículo 19
 
