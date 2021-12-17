@@ -1,0 +1,7 @@
+PROHÍBE CIRCULACIÓN DE VEHÍCULOS MOTORIZADOS EN LA VÍA/S QUE SE INDICA
+
+Por resolución exenta Nº 495, de fecha 3 de diciembre de 2021, del Gobierno Regional de Biobío, se dispuso la prohibición de circulación de vehículos motorizados en calle D. Portales entre A. Prat hasta San Martín, en calle Las Heras entre A. Prat hasta San Martín, en calle O'Higgins entre A. Prat y San Martín, en calle Rosas entre calle Carrera y San Martín, en calle San Martín en toda su extensión desde calle D. Portales hasta calle Rosas, el día 04/12/2021, en el horario comprendido entre las 06:00 horas hasta las 19:00 horas, a fin de facilitar el acceso a los participantes de la Fiesta Religiosa, y de esta manera evitar las aglomeraciones de los devotos religiosos. Los vehículos motorizados del Servido de Transporte Público que utilicen la vía afectada en su recorrido habitual, deberá adoptar el desvío dispuesto al efecto por el municipio y aprobado por la Seremitt. La resolución exenta con su texto íntegro se encuentra disponible en el sitio electrónico de "Gobierno Transparente" del Gobierno Regional del Biobío.
+
+Autoriza extracto.-
+
+Óscar Ferrel Bustos, Jefe División de Infraestructura y Transporte, Gobierno Regional del Biobío.
