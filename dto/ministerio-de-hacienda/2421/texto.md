@@ -70,6 +70,20 @@ La Contraloría no intervendrá ni informará los asuntos que por su naturaleza 
 
 De acuerdo con lo anterior, sólo las decisiones y dictámenes de la Contraloría General de la República serán los medios que podrán hacerse valer como constitutivos de la jurisprudencia administrativa en las materias a que se refiere al artículo 1°.
 
+#### Artículo 6° bis
+
+El Contralor General resolverá las contiendas de competencia que se susciten entre las autoridades políticas y administrativas nacionales, regionales, provinciales y comunales, previo informe del Contralor Regional de la región en la que se origina la contienda.
+
+El órgano o autoridad que se atribuya una competencia o falta de ella, sobre un asunto determinado, deberá presentar su petición por escrito al Contralor General. En ella deberá indicar con precisión la contienda producida, los hechos y los fundamentos de derecho que le sirven de sustento, señalando, en caso de corresponder, quien detentaría la competencia.
+
+#### Artículo 6° ter
+
+El Contralor General tendrá un plazo de cinco días hábiles para declarar la admisibilidad de la petición. Para los efectos de la resolución del procedimiento, se solicitará informe al o los otros órganos en conflicto y a la Contraloría Regional respectiva para que, en el plazo de diez días hábiles, hagan llegar al Contralor General las observaciones y antecedentes de hecho y de derecho que estimen pertinentes para resolver.
+
+#### Artículo 6° quáter
+
+Concluidas las diligencias y plazos señalados en el artículo anterior, el Contralor Regional tendrá veinte días hábiles para emitir su informe previo. Recibido dicho informe, el Contralor General, dentro del término de veinte días hábiles, resolverá la contienda de competencia dictando al efecto una resolución fundada en la cual se determinará el órgano o autoridad que tiene la potestad legal para ejercer la competencia en cuestión.
+
 #### Artículo 7°
 
 El Contralor General tendrá competencia exclusiva en la investigación, examen, revisión y determinación de todos los créditos y deudas del Fisco; en el examen y juzgamiento de todas las cuentas de los empleados que custodien, administren, recauden o inviertan rentas, fondos o bienes fiscales, municipales y de la Beneficencia Pública, o de toda persona o entidad que deba rendir sus cuentas a la Contraloría o que esté sometida a su fiscalización.

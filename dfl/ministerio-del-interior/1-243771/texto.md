@@ -52,7 +52,7 @@ l) Proponer al Presidente de la República, en forma reservada, con información
 
 Asimismo, el ministro del ramo o el jefe superior del servicio correspondiente informará al delegado presidencial regional antes de proponer al Presidente de la República la remoción de dichos funcionarios;
 
-m) Hacer presente a la autoridad administrativa competente del nivel central, con la debida oportunidad, las necesidades de la región;
+m) Hacer presente a la autoridad administrativa competente del nivel central, en coordinación y en conjunto con el gobernador regional y con la debida oportunidad, las necesidades de la región;
 
 n) Adoptar las medidas necesarias para la adecuada administración de los complejos fronterizos establecidos o que se establezcan en la región, en coordinación con los servicios nacionales respectivos;
 
@@ -63,6 +63,8 @@ o) Dictar las resoluciones e instrucciones que estime necesarias para el ejercic
 p) Cumplir las demás funciones que le asignen las leyes y las atribuciones que el Presidente de la República le delegue, incluida la de otorgar personalidad jurídica a las corporaciones y fundaciones que se propongan desarrollar actividades en el ámbito de la región , ejerciendo al efecto las facultades que señalan los artículos 546, 548, 561 y 562 del Código Civil.
 
 El delegado presidencial regional podrá delegar en los delegados presidenciales provinciales determinadas atribuciones, no pudiendo ejercer la competencia delegada sin revocar previamente la delegación.
+
+Con todo, el delegado presidencial regional deberá desempeñar su cargo dialogando con las autoridades locales y velando siempre por un respeto irrestricto a los planes de desarrollo comunales y regionales.
 
 > **Nota.** La referencia al N° 15 del Art. 32 de la Constitución Política debe entenderse hecha al N° 13 del mismo precepto del texto refundido, coordinado y sistematizado por Decreto 100, Interior, publicado el 22.09.2005.
 
@@ -220,7 +222,9 @@ De las Competencias
 
 Serán funciones generales del gobierno regional:
 
-a) Diseñar, elaborar, aprobar y aplicar las políticas, planes, programas y proyectos de desarrollo de la región en el ámbito de sus competencias, los que deberán ajustarse al presupuesto de la Nación y ser coherentes con la estrategia regional de desarrollo. Asimismo, en dicha labor deberá considerar los planes comunales de desarrollo;
+a) Diseñar, elaborar, aprobar y aplicar las políticas, planes, programas y proyectos de desarrollo de la región en el ámbito de sus competencias, los que deberán ajustarse al presupuesto de la Nación; a la estrategia regional de desarrollo y a los instrumentos de planificación comunal.
+
+El gobierno regional podrá convocar a los directores regionales de los servicios públicos que dependan o se relacionen con el Presidente de la República o a los secretarios regionales ministeriales para abordar la contribución sectorial en el cumplimiento de los planes, programas y proyectos de desarrollo de la región, según corresponda.
 
 b) Efectuar estudios, análisis y proposiciones relativos al desarrollo regional;
 
@@ -304,9 +308,9 @@ e) Promover y apoyar, en coordinación con los municipios, mediante la suscripci
 
 f) Promover la investigación científica y tecnológica, y fomentar el desarrollo de la educación superior y de enseñanza media técnico profesional en la región, en concordancia con la política regional de fomento de las actividades productivas.
 
-g) Elaborar y aprobar la Política Regional de Ciencia, Tecnología e Innovación para el Desarrollo, la que deberá contener, a lo menos:
+g) Elaborar y aprobar la Política Regional de Ciencia, Tecnología, Conocimiento e Innovación para el Desarrollo, la que deberá contener, a lo menos:
 
-i. Los lineamientos estratégicos que en materia de ciencia, tecnología e innovación se establezcan para la región, debiendo considerar al efecto la Estrategia Regional de Ciencia, Tecnología e Innovación para el Desarrollo propuesta por el Comité Regional de Ciencia, Tecnología e Innovación para el Desarrollo.
+i. Los lineamientos estratégicos que en materia de ciencia, tecnología, conocimiento e innovación se establezcan para la región, debiendo considerar al efecto la Estrategia Regional de Ciencia, Tecnología, Conocimiento e Innovación para el Desarrollo propuesta por el Comité Regional de Ciencia, Tecnología, Conocimiento e Innovación para el Desarrollo.
 
 ii. Los ámbitos de acción que abordará la respectiva política regional junto con sus principales objetivos, actividades, criterios y prioridades presupuestarias.
 
@@ -386,6 +390,8 @@ En virtud de dicha colaboración, el Presidente de la República transferirá, a
 
 Tales transferencias podrán realizarse de oficio o a solicitud de un gobierno regional.
 
+Para los efectos de lo dispuesto en esta ley, se entenderá por competencia toda facultad, función o atribución que posean los ministerios o servicios públicos para satisfacer las necesidades públicas establecidas en sus leyes orgánicas o en otras disposiciones legales, con excepción de la Ley de Presupuestos del Sector Público.
+
 #### Artículo 21 ter
 
 Se declarará inadmisible, sin más trámite, aquella solicitud de competencias que no se refiera a los ámbitos de ordenamiento territorial, fomento productivo y desarrollo social y cultural, a través de decreto exento, fundado, del Ministerio del Interior y Seguridad Pública dictado bajo la fórmula "por orden del Presidente de la República" y suscrito además por los Ministros de Hacienda y Secretario General de la Presidencia.
@@ -402,7 +408,17 @@ Una transferencia de competencias podrá incluir la adaptación, priorización y
 
 quinquies.- Toda transferencia de competencias deberá:
 
-a) Considerar la disponibilidad de recursos económicos y de personal necesario, según corresponda a la competencia que se transfiere y al presupuesto disponible que tenga para ella el ministerio o servicio que transfiere. Para ello, las comisiones de servicio que se realicen para efectos de lo dispuesto en el presente Párrafo estarán exceptuadas del plazo máximo fijado en los incisos primero y segundo del artículo 76 de la ley N° 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 29, del Ministerio de Hacienda, promulgado el año 2004 y publicado el año 2005. Asimismo, los recursos que correspondan se transferirán mediante convenios de transferencia, los que serán suscritos entre los gobiernos regionales y el respectivo organismo que tiene asignado dicho presupuesto, o serán asignados en las respectivas leyes de presupuestos del sector público.
+a) Considerar la disponibilidad de recursos económicos y de personal necesario, según corresponda a la competencia que se transfiere y al presupuesto disponible que tenga para ella el ministerio o servicio que transfiere.
+
+En caso que la transferencia de competencias sea temporal, el jefe superior del ministerio o servicio que transfiere la respectiva competencia podrá designar en comisión de servicio en el gobierno regional respectivo, hasta por un plazo equivalente al de la competencia transferida, a los funcionarios públicos que sean necesarios a solicitud del gobierno regional, según lo señalado en el párrafo anterior, para ejercitar la competencia transferida.
+
+Las comisiones de servicio que se realicen para estos efectos estarán exceptuadas del plazo máximo fijado en los incisos primero y segundo del artículo 76 de la ley N° 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda. En caso que la transferencia de competencias sea definitiva, la comisión de servicios sólo podrá extenderse hasta el plazo máximo fijado en dicha norma.
+
+Con todo, el ministerio o servicio que transfiera una o más competencias no podrá contratar empleos a contrata para desempeñar labores de similar naturaleza a las contenidas en las competencias transferidas.
+
+Asimismo, los recursos que correspondan para el ejercicio de la competencia serán transferidos mediante convenios celebrados al efecto, los que serán suscritos entre los gobiernos regionales y el respectivo órgano que tiene asignado dicho presupuesto, o serán asignados en las respectivas leyes de presupuestos del sector público.
+
+La evaluación de la ejecución de los recursos que se asignen para el cumplimiento de la competencia transferida, la realizará el Consejo de Evaluación de Competencias, el que, entre otros criterios, deberá contemplar la diversidad de las realidades específicas de cada región.
 
 b) Evitar la duplicidad o interferencia de funciones con otros órganos de la Administración del Estado.
 
@@ -442,7 +458,7 @@ v. Recibido el informe de la comisión con sus recomendaciones, el Comité Inter
 
 vi. Recibida la recomendación del Comité Interministerial, el Presidente de la República podrá aprobar o rechazar en forma fundada la transferencia en estudio mediante decreto supremo dictado por el Ministerio del Interior y Seguridad Pública, el que será suscrito además por el Ministro de Hacienda, el Ministro Secretario General de la Presidencia y el ministro que corresponda a la materia de la competencia.
 
-vii. En caso que no exista respuesta en el plazo de seis meses señalado en la letra C de este artículo, y esta demora sea representada por el respectivo gobierno regional, se entenderá que se rechaza la transferencia.
+vii. En caso de que, solicitada la competencia no se haya producido un pronunciamiento, ya sea favorable o desfavorable, por parte de la autoridad o no exista constancia de comunicación alguna con el gobierno regional en dicho sentido, en el plazo de seis meses señalado en el numeral ii. del literal C. de este artículo, y mientras esta circunstancia sea debidamente representada por el respectivo gobierno regional al Comité Interministerial de Descentralización, éste deberá responder expresa y fundadamente la solicitud efectuada.
 
 B. Procedimiento de transferencia iniciado de oficio por el Presidente de la República:
 
@@ -456,15 +472,29 @@ Sin perjuicio de lo anterior, el gobierno regional siempre podrá iniciar un nue
 
 C. Reglas comunes a los procedimientos iniciados de oficio o a solicitud:
 
-i. El decreto de transferencia establecerá la o las competencias y recursos que se transfieren; la indicación de ser la transferencia temporal o definitiva; la gradualidad con que aquélla se transfiere y las condiciones con que el gobierno regional deberá ejercerlas, mencionando si dicho ejercicio será exclusivo o compartido con el nivel central, delimitando en este último caso las acciones que a cada uno de los actores competa; la forma en que se hará el seguimiento al ejercicio de la transferencia efectuada; y, en general, todas las demás especificaciones necesarias para asegurar un adecuado ejercicio de las competencias transferidas.
+i. El decreto de transferencia establecerá la o las competencias y recursos que se transfieren; la indicación de ser la transferencia temporal o definitiva; la gradualidad con que aquélla se transfiere y las condiciones con que el gobierno regional deberá ejercerlas, mencionando si dicho ejercicio será exclusivo o compartido con el nivel central, delimitando en este último caso las acciones que a cada uno de los actores competa; la forma en que se hará el seguimiento al ejercicio de la transferencia efectuada; los mecanismos de evaluación, indicadores cualitativos y cuantitativos, así como las fuentes de información que permitan una correcta evaluación del ejercicio de la competencia transferida y, en general, todas las demás especificaciones necesarias para asegurar un adecuado ejercicio de las competencias transferidas.
 
 ii. El procedimiento contemplado en este artículo tendrá una duración máxima de seis meses contados desde la solicitud de un gobierno regional, en caso que se haya iniciado por este mecanismo, o desde la instrucción del Presidente para iniciarlo de oficio.
 
 iii. Un reglamento aprobado por decreto supremo dictado por el Ministerio del Interior y Seguridad Pública, el que será suscrito además por el Ministro de Hacienda y el Ministro Secretario General de la Presidencia, fijará las condiciones, plazos y demás materias concernientes al procedimiento de transferencia de competencias.
 
+D. Procedimiento de evaluación del ejercicio de las competencias transferidas:
+
+i. Luego de cumplido el período por el que hayan sido transferidas temporalmente una o más competencias por parte de un ministerio o servicio público, o luego de transcurridos tres años para el caso en que la o las competencias hayan sido transferidas de forma definitiva, un Consejo de Evaluación de Competencias, integrado por especialistas en descentralización, en forma paritaria por el gobierno central y los gobiernos regionales, actuando la Subsecretaría de Desarrollo Regional y Administrativo como secretaría ejecutiva, efectuará una evaluación objetiva e imparcial del ejercicio de las competencias, previo informe del gobierno regional y del ministerio respectivo. Esta evaluación considerará indicadores cualitativos y cuantitativos de medición y recomendaciones de mejora. Los mecanismos señalados precedentemente deberán ser incorporados en el decreto de transferencia de competencias.
+
+ii. Los indicadores que midan el ejercicio de la o las competencias transferidas podrán ser considerados, por el respectivo gobierno regional, dentro de los programas de mejoramiento de la gestión y las metas anuales que se establezcan para determinar los incrementos por desempeño institucional y desempeño colectivo a que se refiere la ley N° 19.553.
+
+iii. Para un mejor ejercicio por los gobiernos regionales de las competencias transferidas, el Consejo de Evaluación de Competencias propondrá, cuando corresponda, áreas de capacitación y asistencia técnica para consejeros y funcionarios de los gobiernos regionales.
+
+iv. Previa consulta a los gobiernos regionales, un reglamento aprobado mediante decreto supremo expedido por el Ministerio del Interior y Seguridad Pública, el que además será suscrito por los Ministros de Hacienda y Secretario General de la Presidencia, establecerá el procedimiento, la metodología y otros aspectos que resulten relevantes de la evaluación establecida en este literal.
+
+v. Los resultados que arroje dicha evaluación deberán ser remitidos por la Subsecretaría de Desarrollo Regional y Administrativo, dentro de los 30 días siguientes, al Presidente de la República, al Congreso Nacional y al gobierno regional respectivo.
+
 #### Artículo 21
 
-octies.- Toda transferencia temporal de competencias podrá ser revocada de oficio y fundadamente, si se constata la concurrencia de alguna de las siguientes causales:
+octies.- Las competencias transferidas de forma definitiva sólo podrán ser revocadas mediante una ley dictada al efecto.
+
+Toda transferencia temporal de competencias podrá ser revocada de oficio y fundadamente, si se constata la concurrencia de alguna de las siguientes causales:
 
 a) Incumplimiento de las condiciones que se hayan establecido para el ejercicio de la competencia transferida;
 
@@ -616,7 +646,7 @@ Si la tercera sesión extraordinaria convocada tampoco pudiere realizarse, asumi
 
 #### Artículo 24
 
-Corresponderá al gobernador regional, en su calidad de órgano ejecutivo del gobierno regional:
+Corresponderá al gobernador regional:
 
 a) Formular políticas de desarrollo de la región, considerando las políticas y planes comunales respectivos. Para ello deberá utilizar, entre otros, criterios orientados a reducir la pobreza, fomentar la creación de empleos y todos aquellos que estén destinados a promover el desarrollo de los habitantes de la región;
 
@@ -644,7 +674,7 @@ En todo caso, requerirá del acuerdo de éste para enajenar o gravar bienes raí
 
 l) Administrar, en los casos que determine la ley, los bienes nacionales de uso público;
 
-m) Coordinar, supervigilar o fiscalizar, según corresponda, a los servicios públicos que dependan o se relacionen con el gobierno regional respectivo;
+m) Coordinar, supervigilar o fiscalizar, según corresponda, a los servicios públicos que dependan o se relacionen con el gobierno regional respectivo. Asimismo, el gobernador regional podrá convocar a las secretarías regionales ministeriales y/o a las direcciones regionales de los servicios públicos para tratar sus políticas, estrategias, planes, programas y proyectos, que contribuyan al cumplimiento de los objetivos de la estrategia regional de desarrollo;
 
 n) Informar al consejo regional oportunamente respecto de las proposiciones de programas y proyectos a que se refiere el artículo 21, así como dar a conocer a las autoridades a que dicho precepto se refiere, el plan de desarrollo regional;
 
@@ -654,9 +684,17 @@ o) Promulgar, previo acuerdo del consejo regional, el plan regional de ordenamie
 
 p) Responder, dentro del plazo de veinte días hábiles y por escrito, los actos de fiscalización que realice el consejo en su conjunto y las informaciones solicitadas por los consejeros en forma individual;
 
-q) Asistir a cualquier sesión del consejo regional cuando lo estimare conveniente, pudiendo tomar parte en sus debates con preferencia para hacer uso de la palabra, pero sin derecho a voto. Durante la votación podrá, sin embargo, rectificar los conceptos emitidos por cualquier consejero regional al fundamentar su voto, derecho que deberá ser ejercido inmediatamente después de terminada la intervención del consejero cuyos conceptos desea rectificar. Este, a su vez, tendrá derecho a réplica inmediata;
+q) Presidir el consejo regional.
 
-r) Proponer al presidente del consejo, antes del inicio de la sesión respectiva, la inclusión de una o más materias en aquella. La comunicación se realizará en forma escrita al secretario ejecutivo. Sin perjuicio de ello, el intendente podrá hacer presente la urgencia para el despacho de una materia o iniciativa específica, mediante oficio que dirigirá al presidente del consejo. Dichos asuntos deberán ser incorporados en la tabla de la sesión inmediatamente siguiente. El presidente del consejo, con el acuerdo de los dos tercios de sus miembros en ejercicio, podrá desechar la petición de urgencia. Con todo, si existiere un plazo legal o reglamentario que obligue a resolver dentro de éste alguna materia o iniciativa, el consejo no podrá ejercer la facultad señalada;
+En las sesiones del consejo regional el gobernador regional tendrá derecho a voto. En los casos en que se produzca un empate en el resultado de las votaciones, el gobernador regional ejercerá el derecho de voto dirimente.
+
+r) Convocar al consejo regional y disponer la citación a las sesiones.
+
+Las citaciones al consejo regional deberán realizarse al menos con veinticuatro horas de anticipación a la fecha de su celebración. Sin perjuicio de lo anterior, podrá citarse al consejo regional en un plazo menor, con la aprobación de la unanimidad de los consejeros regionales en ejercicio.
+
+El gobernador regional elaborará la tabla de la sesión, la que comunicará a los consejeros regionales conjuntamente con la citación a la sesión.
+
+El gobernador regional, al inicio de la sesión, podrá proponer, mediante urgencias, la inclusión en la tabla de uno o más puntos de tabla para su despacho, señalando además, la razón de la inclusión. Los consejeros regionales podrán desechar dicha inclusión con los dos tercios de sus miembros en ejercicio. Con todo, si existiere un plazo legal o reglamentario que obligue a resolver dentro de éste alguna materia o iniciativa, el consejo no podrá rechazar la inclusión de ésta en la tabla.
 
 s) Solicitar al Presidente de la República, previo acuerdo del consejo regional, la transferencia de una o más competencias de los ministerios y servicios públicos creados para el cumplimiento de la función administrativa, según las normas establecidas en el Párrafo 2° del Capítulo II del Título Segundo de la presente ley;
 
@@ -688,7 +726,7 @@ El personal de estos servicios se regirá por el Estatuto Administrativo y demá
 
 El gobernador regional deberá informar trimestralmente al consejo regional los resultados de todos los sumarios administrativos finalizados, que hayan sido instruidos respecto de funcionarios del servicio administrativo del gobierno regional.
 
-El gobernador regional será el jefe superior de los directores de los servicios públicos que dependan o se relacionen con el gobierno regional.
+Los servicios públicos regionales creados conforme al artículo sexto transitorio de la ley N° 21.074 tendrán un Director Regional como superior jerárquico, el cual será nombrado por el gobernador regional.
 
 ### Párrafo 2°
 
@@ -838,71 +876,21 @@ Los consejeros regionales serán elegidos según las normas contenidas en el Cap
 
 #### Artículo 30 bis
 
-En su sesión constitutiva, el consejo regional elegirá de entre sus miembros, por mayoría absoluta de sus integrantes en ejercicio, en votación pública, a viva voz, en orden alfabético de los apellidos de los consejeros, un presidente, que permanecerá en su cargo durante un período de cuatro años. Dicha sesión constitutiva será presidida por el presidente del consejo, siempre que haya de continuar como consejero para el correspondiente período; a falta de éste, por aquel de los presentes que haya desempeñado más recientemente el cargo de presidente y, en último término, por el consejero en ejercicio de más edad. Sólo para efectos de la elección, dicho presidente accidental no podrá ejercer la facultad indicada en la letra e) del artículo 30 ter. En caso de no elegirse presidente en la primera votación, ésta se repetirá hasta en dos ocasiones adicionales. Con todo, si no fuere posible elegir presidente en la sesión constitutiva del respectivo cuadrienio, dicha elección deberá realizarse, con sujeción a las normas señaladas, en la sesión inmediatamente siguiente, y así sucesivamente hasta que ésta se verifique. Con todo, el período de cuatro años se contará desde la sesión constitutiva indicada.
-
-La designación del nuevo presidente será comunicada al Presidente de la República, a través del Ministerio del Interior y Seguridad Pública, al intendente y a las Cortes de Apelaciones con asiento en la región respectiva y al Presidente de cada rama del Congreso Nacional, por intermedio de su respectivo Secretario.
-
-El presidente del consejo cesará en su cargo si incurriere en alguna de las causales descritas en el artículo 40 de la presente ley, por remoción fundada acordada por los dos tercios de los consejeros en ejercicio, o por renuncia aprobada por la mayoría de los consejeros en ejercicio.
-
-La moción de remoción podrá ser presentada por no menos de un cuarto ni más de un tercio de los consejeros en ejercicio y será votada públicamente en la sesión ordinaria inmediatamente siguiente, la cual será presidida por aquel de los presentes que haya desempeñado más recientemente el cargo de presidente y, en último término, por el consejero en ejercicio de más edad.
-
-En caso de adoptarse el acuerdo de remoción, el que siempre deberá ser fundado, corresponderá, en la misma sesión ordinaria, elegir al nuevo presidente del consejo, el cual durará en el cargo hasta completar el período que restaba a quien sucede.
-
-Si la moción de remoción fuere rechazada, no podrá renovarse por los mismos hechos en que se fundó, salvo que se aportaren nuevos antecedentes o que se fundare en el incumplimiento de alguna de las obligaciones establecidas en el artículo siguiente.
-
-La renuncia deberá ser depositada por el presidente en la secretaría a que se refiere el artículo 43, la que se pondrá en votación de carácter público en la sesión ordinaria inmediatamente siguiente a la fecha de su presentación. La sesión en que se vote la renuncia será pública. Si la renuncia fuere aprobada, o si el presidente incurriere en alguna de las causales descritas en el artículo 40, el nuevo presidente elegido durará en dicho cargo hasta completar el período que restaba a quien sucede.
-
-En caso de ausencia o impedimento temporal del presidente del consejo, ejercerá dicha presidencia el consejero que en el acto se elija, quien se desempeñará como tal mientras dure la ausencia o impedimento. Con todo, si la ausencia o impedimento excediere de noventa días corridos contados desde la elección de quien lo supliere, se procederá a una nueva elección. Las elecciones de que trata este inciso se ajustarán a lo dispuesto en el inciso primero del presente artículo, en lo que procediere.
+Derogado.
 
 #### Artículo 30 ter
 
-Corresponderá al presidente del consejo regional:
+Corresponderá al gobernador regional en su calidad del presidente del consejo regional:
 
-a) Disponer la citación del consejo a sesiones, cuando proceda, y elaborar la tabla de la sesión, dando cumplimiento a lo dispuesto en la letra r) del artículo 24.
+a) Ordenar que se reciba la votación, fijar su orden y proclamar las decisiones del consejo.
 
-b) Abrir, suspender y levantar las sesiones en conformidad con el reglamento a que se refiere la letra a) del artículo 36.
+b) Mantener el orden en el recinto, pudiendo solicitar, si lo estima necesario, el auxilio de la fuerza pública.
 
-c) Presidir las sesiones y dirigir los debates.
+c) Mantener la correspondencia del consejo regional con las autoridades de nivel central, con el delegado presidencial regional, con las Cortes de Apelaciones con asiento en la región, con el Tribunal Electoral Regional y con la contraloría regional respectiva. La correspondencia con cualquier otro cuerpo o persona se llevará a efecto por el secretario a que se refiere el artículo 43, en nombre del consejo y por orden del presidente.
 
-d) Ordenar que se reciba la votación, fijar su orden y proclamar las decisiones del consejo, requiriéndose informe de la División de Análisis y Control de Gestión cuando así lo disponga el reglamento a que se refiere la letra a) del artículo 36.
+d) Actuar en representación del consejo en los actos de protocolo que corresponda.
 
-e) Ejercer el derecho de voto dirimente en los casos en se produzca un empate en el resultado de las votaciones.
-
-f) Mantener el orden en el recinto, pudiendo solicitar, si lo estima necesario, el auxilio de la fuerza pública.
-
-g) Mantener la correspondencia del consejo con el intendente, con las Cortes de Apelaciones con asiento en la región, con el Tribunal Electoral Regional y con la contraloría regional respectiva. La correspondencia con cualquier otro cuerpo o persona se llevará a efecto por el secretario a que se refiere el artículo 43, en nombre del consejo y por orden del presidente.
-
-h) Suscribir las actas de las sesiones, las comunicaciones oficiales que se dirijan a nombre del consejo o de algún consejero y los otros documentos que requieran su firma.
-
-i) Oficializar la comunicación acerca de la adopción de acuerdos del consejo sobre los siguientes instrumentos del gobierno regional, así como sus respectivas modificaciones:
-
-1) Plan de Desarrollo de la Región.
-
-2) Plan Regional de Ordenamiento Territorial.
-
-3) Planes Reguladores Comunales.
-
-4) Planes Reguladores Intercomunales.
-
-4 bis) Planos de Detalle.
-
-4 ter) Planes de Inversiones en Infraestructura de Movilidad y Espacio Público.
-
-5) Convenios de Programación.
-
-6) Convenios Territoriales.
-
-7) Reglamentos Regionales.
-
-8) Anteproyecto Regional de Inversiones.
-
-j) Suscribir, sólo para efectos de ratificar el acuerdo correspondiente del consejo regional, los actos administrativos que formalicen la aprobación de todos los instrumentos contemplados en la letra precedente, con excepción de los Convenios de Programación.
-
-k) Dar cuenta pública, en el mes de diciembre de cada año, tanto al intendente como al consejo, así como a los alcaldes de la región y a la comunidad regional, de las normas aprobadas, resoluciones adoptadas, acciones de fiscalización ejecutadas por el consejo y todo otro hecho relevante que deba ser puesto en conocimiento de las autoridades indicadas.
-
-l) Actuar en representación del consejo en los actos de protocolo que correspondan.
-
-m) Cuidar de la observancia del reglamento a que se refiere la letra a) del artículo 36.
+e) Cuidar de la observancia del reglamento a que se refiere la letra a) del artículo 36.
 
 #### Artículo 31
 
@@ -1010,7 +998,7 @@ o) Aprobar las solicitudes de transferencias de competencias que se realicen al 
 
 p) Aprobar la propuesta de proyecto de zonificación del borde costero de la región, así como las eventuales modificaciones a la zonificación vigente, en conformidad a lo dispuesto en el literal i) del artículo 17 de la presente ley, y
 
-q) Ejercer las demás atribuciones necesarias para el ejercicio de las funciones que la ley le encomiende.
+q) Ejercer las demás atribuciones necesarias para el ejercicio de las funciones que la ley le encomiende, así como aquellas atribuciones establecidas en virtud de la transferencia de competencias.
 
 Las atribuciones a que se refieren los literales b), c), c bis), d), e), f), l), m), n) y p) serán ejercidas por el consejo regional sobre la base de la respectiva proposición que efectúe el gobernador regional.
 
@@ -1023,6 +1011,10 @@ Si el consejo regional no se pronunciare dentro de los plazos establecidos, regi
 > **Nota.** NOTA 2 La numerales i y ii de la letra b) del N° 28 del Art. 1 de la Ley 21073, publicada el 22.02.2018, disponen la sustitución en la letra g) del presente artículo de las expresiones "intendente regional en su calidad de órgano ejecutivo del mismo" por "gobernador regional", e "intendente" por "gobernador regional", respectivamente. Sin embargo, al momento de su publicación, las frases a sustituir ya no existían en el texto, por cuanto la letra g) fue reemplazada conforme a lo establecido por la letra b) del N° 17 del Art. 1° de la Ley 21074, publicada el 15.02.2018.
 
 > **Nota.** NOTA 3 La letra c) del N° 28 del Art. 1 de la Ley 21073, publicada el 22.02.2018, dispuso el reemplazo de la palabra "intendente" por la expresión "gobernador regional" en la letra h) del presente artículo. Sin embargo, el señalado cambio ya había efectuado en conformidad con la letra d) del N° 17 del Art. 1° de la Ley 21074, publicada el 15.02.2018, disposición que adicionalmente establece que la letra h) pase a ser letra j).
+
+> **Nota.** NOTA 4 La letra d) del N° 28 del Art. 1 de la Ley 21073, publicada el 22.02.2018, dispuso en su primera parte el reemplazo de la expresión final ", y" por un punto y coma, en la letra i) el presente artículo. Sin embargo, el señalado cambio ya había sido efectuado en conformidad con la letra e) del N° 17 del Art. 1° de la Ley 21074, publicada el 15.02.2018, disposición que adicionalmente establece que la letra i) pase a ser letra k).
+
+> **Nota.** NOTA 5 La letra d) del N° 28 del Art. 1 de la Ley 21073, publicada el 22.02.2018, dispone agregar una nueva letra j) al presente artículo, pasando la actual letra j) a ser letra k), en los siguientes términos: "j) Agregar uno o más puntos en la tabla al inicio de la sesión del consejo. Para ello se requerirá la propuesta de un consejero regional, la que deberá ser aprobada por la unanimidad de dicho órgano, y". Sin embargo, la citada letra no se ha podido incorporar en el presente texto actualizado en razón de la reordenación de los literales que tuvo esta disposición, a partir de la modificación dispuesta previamente por la letra f) del N° 17 del Art. 1° de la Ley 21074, publicada el 15.02.2018, que ordena agregar los nuevos literales l), m), n), ñ), o) y p), pasando la letra j) vigente a ser letra q).
 
 #### Artículo 36 bis
 
@@ -1056,13 +1048,17 @@ Salvo que la ley exija un quórum distinto, los acuerdos del consejo se adoptar�
 
 #### Artículo 39
 
-Los consejeros regionales tendrán derecho a una dieta mensual de veinte unidades tributarias mensuales, la que se percibirá por la asistencia a la totalidad de las sesiones del consejo celebradas en el mes respectivo, disminuyéndose proporcionalmente según el número de inasistencias del consejero. Para los efectos anteriores, se considerarán tanto las sesiones ordinarias como las extraordinarias.
+Los consejeros regionales tendrán derecho a una dieta mensual de veinte unidades tributarias mensuales, la que se percibirá por la asistencia a la totalidad de las sesiones del consejo celebradas en el mes respectivo, disminuyéndose proporcionalmente según el número de inasistencias del consejero.
 
-El Presidente del consejo regional tendrá derecho a la misma dieta que perciben los consejeros regionales, incrementada en el 20%.
+Para los efectos anteriores, se considerarán tanto las sesiones ordinarias como las extraordinarias.
+
+Inciso eliminado
 
 El consejo acordará el número de sesiones ordinarias a realizar en el mes, debiendo efectuarse a lo menos dos.
 
-Asimismo, cada consejero regional tendrá derecho a percibir una dieta de cuatro unidades tributarias mensuales, con un máximo de doce en el mes, por la asistencia a cada sesión de comisión de las referidas en el artículo 37.
+Asimismo, cada consejero regional tendrá derecho a percibir una dieta de cuatro unidades tributarias mensuales, con un máximo de doce en el mes, por la asistencia a cada sesión e comisión de las referidas en el artículo 37.
+
+INCISO SUPRIMIDO.
 
 Para efectos de la percepción de la dieta y de la asignación adicional establecidas en los incisos precedentes, no serán consideradas como inasistencias aquellas que obedezcan a razones médicas o de salud que hayan sido debidamente acreditadas mediante certificado expedido por médico habilitado, presentado ante el consejo a través del secretario ejecutivo. Igualmente, para los efectos señalados y previo acuerdo del consejo, se podrá eximir a un consejero de la asistencia a sesión en razón del fallecimiento de un hijo, del cónyuge o conviviente civil, de un hermano y de sus padres.
 
@@ -1072,6 +1068,8 @@ Sin perjuicio de lo señalado, cada consejero tendrá derecho anualmente a una d
 
 Cuando un consejero regional se encuentre en el desempeño de cometidos en representación del gobierno regional o del consejo regional, y ello le signifique trasladarse fuera de su lugar de residencia habitual, tendrá derecho a pasajes o reembolsos por gastos de traslado y a una suma equivalente al viático que corresponde al gobernador regional, por conceptos de gastos de alimentación y de alojamiento, los que no requerirán rendición. Igual derecho tendrán los consejeros que deban trasladarse fuera de su lugar de residencia habitual para asistir a las sesiones del consejo y de las comisiones. El consejo regional sólo podrá encomendar el cumplimiento de tareas a sus miembros en la medida que exista disponibilidad presupuestaria, la que deberá certificar el jefe de división de administración y finanzas del gobierno regional.
 
+Incisos Eliminados.
+
 Con todo, los cometidos al extranjero que acuerde el consejo regional durante el año no podrán significar una disposición de recursos en cada gobierno regional que supere el 10% del total contemplado anualmente en su presupuesto en la asignación correspondiente para aplicación de este artículo. Lo anterior deberá ser certificado previamente por el jefe de la división de administración y finanzas del gobierno regional y, en todo caso, el cometido será dispuesto formalmente por el gobernador regional respectivo.
 
 Los consejeros regionales podrán afiliarse al sistema de pensiones de vejez, de invalidez y de sobrevivencia, de acuerdo a lo establecido en el decreto ley Nº3.500, por el solo hecho de asumir tales funciones. Para estos efectos, los consejeros se asimilarán al régimen de los trabajadores por cuenta ajena. Las obligaciones que para estos fines se imponen a los empleadores se radicarán en los respectivos gobiernos regionales. Las cotizaciones previsionales se calcularán sobre la base de las asignaciones mensuales que a los consejeros corresponda percibir en virtud de los incisos primero, segundo y cuarto.
@@ -1079,6 +1077,8 @@ Los consejeros regionales podrán afiliarse al sistema de pensiones de vejez, de
 Los consejeros regionales, por la actividad que realicen en tal condición, quedarán sujetos al seguro contra riesgo de accidentes del trabajo y enfermedades profesionales establecido en la ley Nº16.744, y gozarán de los beneficios que correspondan a la naturaleza de su cargo. El costo de este beneficio será de cargo del gobierno regional.
 
 El gobierno regional podrá financiar la capacitación de los consejeros regionales en materias de su competencia.
+
+> **Nota.** La letra b del N° 29 del Art. 1 de la Ley 21073, publicada el 22.02.2018, dispuso la sustitución en el presente artículo en los incisos séptimo, décimo y undécimo la palabra "intendente" por la expresión "gobernador regional", sin embargo la frase a sustituir no existe en este texto, por cuanto fue reemplazada por la Ley 21074 publicada el 15.02.2018, por lo que no se pudo efectuar la modificación.
 
 #### Artículo 39 bis
 
@@ -1146,43 +1146,23 @@ Para ello, durante la sesión de instalación a que se refiere el artículo 30 b
 
 ### Párrafo 3°
 
-Del Gobernador
+Del Gobernador Derogado
 
-#### Artículo 44
+#### Artículo 44°
 
-Sin perjuicio de las facultades que le corresponden de acuerdo al Título Primero de esta Ley, el gobernador tendrá a su cargo la administración superior de la respectiva provincia, en la esfera de atribuciones que corresponden al intendente en su calidad de órgano ejecutivo del gobierno regional, y presidirá el consejo económico y social provincial.
+Derogado.
 
-El gobernador ejercerá sus funciones con arreglo a la Constitución Política de la República, a las leyes, a los reglamentos supremos y a los reglamentos regionales.
+#### Artículo 45°
 
-#### Artículo 45
+Derogado.
 
-El gobernador, además de las atribuciones que el intendente pueda delegarle, ejercerá las siguientes:
+#### Artículo 46°
 
-a) Supervisar los programas y proyectos de desarrollo que los servicios públicos creados por ley efectúen en la provincia;
+Derogado.
 
-b) Proponer al intendente proyectos específicos de desarrollo de la provincia;
+#### Artículo 47°
 
-c) Asesorar a las municipalidades de su jurisdicción, especialmente en la elaboración y ejecución de programas y proyectos, cuando ellas lo soliciten;
-
-d) Promover la participación del sector privado en las actividades de desarrollo de la provincia;
-
-e) Disponer las medidas de coordinación necesarias para el desarrollo provincial y, especialmente, de los programas de infraestructura económica y social básica;
-
-f) Hacer presente al intendente o a los respectivos secretarios regionales ministeriales, con la debida oportunidad, las necesidades que observare en su territorio jurisdiccional;
-
-g) Dictar las resoluciones e instrucciones que estime necesarias para el ejercicio de sus atribuciones o de las que le delegue el intendente;
-
-h) Supervigilar los servicios públicos creados por ley para el cumplimiento de las funciones administrativas, que operen en la provincia, e
-
-i) Cumplir las demás funciones y ejercer las atribuciones que las leyes le asignen.
-
-#### Artículo 46
-
-El gobernador podrá constituir un comité técnico asesor con autoridades de los servicios públicos creados por ley que operen en la región.
-
-#### Artículo 47
-
-El gobernador deberá dar cuenta al consejo económico y social provincial, semestralmente, sobre la marcha de la administración en el nivel provincial y de la ejecución de los programas y proyectos que se desarrollen en la provincia.
+Derogado.
 
 ### Párrafo 4°
 
@@ -1254,11 +1234,11 @@ Los ministerios se desconcentrarán territorialmente mediante secretarías regio
 
 #### Artículo 62
 
-Cada secretaría regional ministerial estará a cargo de un secretario regional ministerial, quien, sin perjuicio de su condición de representante del o de los ministerios respectivos en la región, será colaborador directo del intendente, al que estará subordinado en todo lo relativo a la elaboración, ejecución y coordinación de las políticas, planes, presupuestos, proyectos de desarrollo y demás materias que sean de competencia del gobierno regional.
+Cada secretaría regional ministerial estará a cargo de un secretario regional ministerial, quien, sin perjuicio de su condición de representante del o de los ministerios respectivos en la región, será colaborador directo del delegado presidencial regional. Asimismo, cada secretario regional ministerial estará subordinado al delegado presidencial regional en las materias que sean de competencia de éste último.
 
 Un secretario regional ministerial podrá estar a cargo de más de una secretaría regional ministerial en una misma región, teniendo para todos los efectos legales y reglamentarios la calidad de funcionario del ministerio en que primeramente fue designado. No obstante, si la designación en dichos cargos fuese simultánea, la dependencia del funcionario deberá ser establecida en el instrumento que disponga su nombramiento. No serán aplicables en estos casos las normas de incompatibilidad a que se refiere el artículo 86 de la Ley Nº 18.834, sobre Estatuto Administrativo, y para los efectos de los beneficios que exijan el desempeño de 44 horas semanales, se considerará la suma de las horas semanales trabajadas en todas las secretarías regionales ministeriales a su cargo.
 
-Los secretarios regionales ministeriales serán nombrados por el Presidente de la República de entre las personas que figuren en una terna elaborada por el intendente respectivo, y oyendo al efecto al ministro del ramo.
+Los secretarios regionales ministeriales serán nombrados por el Presidente de la República de entre las personas que figuren en una terna elaborada por el delegado presidencial regional respectivo, y oyendo al efecto al ministro del ramo.
 
 #### Artículo 63
 
@@ -1270,7 +1250,7 @@ Para la aplicación de los recursos destinados a ordenamiento territorial, fomen
 
 A las secretarías regionales ministeriales corresponderá:
 
-a) Presentar al ministerio respectivo las prioridades regionales, para efectos de la formulación de las políticas nacionales, considerando la diversidad territorial y cultural de la región;
+a) Presentar al ministerio respectivo las prioridades regionales, para efectos de la formulación de las políticas nacionales, considerando la diversidad territorial y cultural de la región, en coherencia con su estrategia regional de desarrollo y los planes de desarrollo comunal respectivos;
 
 b) Informar a los ministros respectivos sobre las políticas, programas y proyectos de los gobiernos regionales y su coherencia con las políticas nacionales;
 
@@ -1282,9 +1262,13 @@ e) Llevar a cabo las tareas que sean propias de su respectivo ministerio, de acu
 
 f) Realizar tareas de coordinación, supervigilancia o fiscalización sobre todos los organismos de la Administración del Estado que dependan o se relacionen con el Presidente de la República y que integren su respectivo sector. En este ámbito deberá velar de forma especial por el cumplimiento de los convenios de programación y mandato a que se refieren los artículos 81, 81 bis y 81 ter, y por la debida aplicación de las políticas nacionales en la región;
 
-g) Cumplir las demás funciones que contemplen las leyes y reglamentos, y
+g) Coordinarse con el gobernador regional en relación con la aplicación en la región de las políticas, planes y programas del respectivo sector;
 
-h) Ejercer las atribuciones que se les deleguen por los ministros respectivos.
+h) Cumplir las demás funciones que contemplen las leyes y reglamentos, y
+
+i) Ejercer las atribuciones que se les deleguen por los ministros respectivos.
+
+j) Para el mejor desempeño de su función deberá tener permanentemente en consideración las estrategias de desarrollo regionales y comunales, velando que lo estipulado en este artículo se lleve a cabo como fruto de un diálogo fluido con las autoridades, los territorios y sus planes de desarrollo.
 
 #### Artículo 65
 
@@ -1292,23 +1276,13 @@ Habrá un órgano auxiliar del delegado presidencial regional, integrado por los
 
 #### Artículo 66
 
-La desconcentración territorial de los servicios públicos nacionales se hará mediante direcciones regionales o provinciales a cargo del respectivo director regional o provincial, quien dependerá jerárquicamente del director nacional del servicio. No obstante, para los efectos de la ejecución de las políticas, planes y programas de desarrollo regional aprobados y financiados por el gobierno regional, estarán subordinados al intendente a través del correspondiente secretario regional ministerial.
+La desconcentración territorial de los servicios públicos nacionales se hará mediante direcciones regionales o provinciales a cargo del respectivo director regional o provincial, quien dependerá jerárquicamente del director nacional del servicio.
+
+En relación a las políticas, planes y programas de desarrollo regional aprobados y financiados por el gobierno regional, los directores regionales deberán coordinarse con el gobernador regional respectivo.
 
 #### Artículo 67
 
 Derogado.
-
-#### Artículo 62
-
-Cada secretaría regional ministerial estará a cargo de un secretario regional ministerial, quien, sin perjuicio de su condición de representante del o de los ministerios respectivos en la región, será colaborador directo del intendente, al que estará subordinado en todo lo relativo a la elaboración, ejecución y coordinación de las políticas, planes, presupuestos, proyectos de desarrollo y demás materias que sean de competencia del gobierno regional.
-
-Un secretario regional ministerial podrá estar a cargo de más de una secretaría regional ministerial en una misma región, teniendo para todos los efectos legales y reglamentarios la calidad de funcionario del ministerio en que primeramente fue designado. No obstante, si la designación en dichos cargos fuese simultánea, la dependencia del funcionario deberá ser establecida en el instrumento que disponga su nombramiento. No serán aplicables en estos casos las normas de incompatibilidad a que se refiere el artículo 86 de la Ley Nº 18.834, sobre Estatuto Administrativo, y para los efectos de los beneficios que exijan el desempeño de 44 horas semanales, se considerará la suma de las horas semanales trabajadas en todas las secretarías regionales ministeriales a su cargo.
-
-Los secretarios regionales ministeriales serán nombrados por el Presidente de la República de entre las personas que figuren en una terna elaborada por el intendente respectivo, y oyendo al efecto al ministro del ramo.
-
-#### Artículo 66
-
-La desconcentración territorial de los servicios públicos nacionales se hará mediante direcciones regionales o provinciales a cargo del respectivo director regional o provincial, quien dependerá jerárquicamente del director nacional del servicio. No obstante, para los efectos de la ejecución de las políticas, planes y programas de desarrollo regional aprobados y financiados por el gobierno regional, estarán subordinados al intendente a través del correspondiente secretario regional ministerial.
 
 ### Párrafo 2°
 
@@ -1324,7 +1298,7 @@ b) Una División de Presupuesto e Inversión Regional, encargada de elaborar el 
 
 c) Una División de Administración y Finanzas, encargada de la gestión administrativa interna y de la provisión de los servicios generales del gobierno regional.
 
-d) Una División de Fomento e Industria, encargada de proponer, promover y ejecutar planes y programas de alcance regional, destinados a estimular el desarrollo de la ciencia, tecnología e innovación para el desarrollo y de nuevas capacidades empresariales, facilitando la incorporación de las nuevas tecnologías de la información que propenda a favorecer el crecimiento sostenido, integrado y sustentable de la región respectiva, proponiendo y promoviendo instrumentos de fomento productivo.
+d) Una División de Fomento e Industria, encargada de proponer, promover y ejecutar planes y programas de alcance regional, destinados a estimular el desarrollo de la ciencia, tecnología, conocimiento e innovación para el desarrollo y de nuevas capacidades empresariales, facilitando la incorporación de las nuevas tecnologías de la información que propenda a favorecer el crecimiento sostenido, integrado y sustentable de la región respectiva, proponiendo y promoviendo instrumentos de fomento productivo.
 
 e) Una División de Infraestructura y Transportes, encargada de proponer, promover y ejecutar planes y programas de alcance regional, en materia de obras de infraestructura y equipamiento regional; y gestión de transporte.
 
@@ -1338,11 +1312,11 @@ Los jefes de división serán de exclusiva confianza del gobernador regional y r
 
 #### Artículo 68 bis
 
-Cada gobierno regional tendrá un Comité Regional de Ciencia, Tecnología e Innovación para el Desarrollo, el que podrá ser constituido con participación ad honorem de integrantes de los sectores público y privado. Un reglamento del Ministerio de Interior y Seguridad Pública, suscrito además por el Ministro de Economía, Fomento y Turismo, establecerá las normas relativas a su integración y las modalidades de funcionamiento, así como las demás necesarias para su ordenado funcionamiento.
+Cada gobierno regional tendrá un Comité Regional de Ciencia, Tecnología, Conocimiento e Innovación para el Desarrollo, el que podrá ser constituido con participación ad honorem de integrantes de los sectores público y privado. Un reglamento del Ministerio de Interior y Seguridad Pública, suscrito además por el Ministro de Economía, Fomento y Turismo, establecerá las normas relativas a su integración y las modalidades de funcionamiento, así como las demás necesarias para su ordenado funcionamiento.
 
-El precitado Comité asesorará al gobierno regional en la identificación y formulación de las políticas y acciones que fortalezcan la ciencia, tecnología e innovación en la región, teniendo entre sus áreas de competencia aquellas que se encuentren relacionadas, entre otras, con la investigación científica, el capital humano y la innovación, así como la transferencia y difusión de tecnologías vinculadas a la innovación regionales. Este Comité elaborará una Estrategia Regional de Ciencia, Tecnología e Innovación, así como las medidas y orientaciones de mediano y largo plazo en dicho ámbito para el desarrollo en la región. A dicho efecto, deberá tener en cuenta el componente regional o macro zonal de la Estrategia que elabore el consejo asesor presidencial creado por el decreto supremo N° 177, del Ministerio de Economía, Fomento y Turismo, promulgado el año 2014 y publicado el año 2015, o la institucionalidad que lo reemplace.
+El precitado Comité asesorará al gobierno regional en la identificación y formulación de las políticas y acciones que fortalezcan la ciencia, tecnología, conocimiento e innovación en la región, teniendo entre sus áreas de competencia aquellas que se encuentren relacionadas, entre otras, con la investigación científica, el capital humano y la innovación, así como la transferencia y difusión de tecnologías vinculadas a la innovación regionales. Este Comité elaborará una Estrategia Regional de Ciencia, Tecnología, Conocimiento e Innovación, así como las medidas y orientaciones de mediano y largo plazo en dicho ámbito para el desarrollo en la región. A dicho efecto, deberá tener en cuenta el componente regional o macro zonal de la Estrategia que elabore el consejo asesor presidencial creado por el decreto supremo N° 177, del Ministerio de Economía, Fomento y Turismo, promulgado el año 2014 y publicado el año 2015, o la institucionalidad que lo reemplace.
 
-Los recursos contemplados en el Fondo de Innovación para la Competitividad a nivel regional deberán ser invertidos en el financiamiento de convenios con servicios públicos nacionales o regionales, o con universidades, con la finalidad de ejecutar programas, estudios o investigación en materias de innovación, emprendimiento, ciencia y tecnología.
+Los recursos contemplados en el Fondo de Innovación para la Competitividad a nivel regional deberán ser invertidos en el financiamiento de convenios con servicios públicos nacionales o regionales, o con universidades, con la finalidad de ejecutar programas, estudios o investigación en materias de innovación, conocimiento, emprendimiento, ciencia y tecnología.
 
 #### Artículo 68 ter
 
@@ -1366,15 +1340,15 @@ De la Unidad de Control
 
 quinquies.- El gobierno regional contará con una unidad de control, la que realizará la auditoría operativa interna del gobierno regional, con el objeto de fiscalizar la legalidad de sus actuaciones y controlar su ejecución financiera y presupuestaria.
 
-Dicha unidad dependerá del gobernador regional y colaborará directamente con el consejo regional en su función de fiscalización. La unidad de control emitirá informes trimestrales acerca del estado de avance del ejercicio presupuestario del gobierno regional, sobre el flujo de gastos comprometidos para el año presupuestario en curso y ejercicios presupuestarios posteriores, y respecto de los motivos por los cuales no fueron adjudicadas licitaciones públicas de relevancia regional. Del mismo modo, la unidad de control deberá dar respuesta por escrito a las consultas y peticiones que sean patrocinadas por, a lo menos, un tercio de los consejeros presentes en la sesión en que se trate dicha consulta o petición, y podrá asesorar al consejo en la definición y evaluación de las auditorías externas que se decida contratar, en virtud de lo dispuesto en la letra b) del artículo 36 bis.
+Dicha unidad dependerá del gobernador regional y colaborará directamente con el consejo regional en su función de fiscalización. La unidad de control emitirá informes trimestrales acerca del estado de avance del ejercicio presupuestario del gobierno regional, sobre el flujo de gastos comprometidos para el año presupuestario en curso y ejercicios presupuestarios posteriores, y respecto de los motivos por los cuales no fueron adjudicadas licitaciones públicas. Del mismo modo, la unidad de control deberá dar respuesta por escrito a las consultas y peticiones que sean patrocinadas por, a lo menos, un tercio de los consejeros presentes en la sesión en que se trate dicha consulta o petición, y podrá asesorar al consejo en la definición y evaluación de las auditorías externas que se decida contratar, en virtud de lo dispuesto en la letra b) del artículo 36 bis.
 
 La unidad de control deberá informar al gobernador regional y al consejo regional sobre las reclamaciones de terceros que hayan sido contratados por el gobierno regional para la adquisición de activos no financieros o la ejecución de iniciativas de inversión dentro de la región, o de servicios públicos o instituciones receptoras de transferencias establecidas en convenios con el gobierno regional.
 
-La unidad de control deberá representar al gobernador regional los actos del gobierno regional que estime ilegales. Dicha representación deberá efectuarse dentro de los diez días siguientes a aquel en que la unidad de control haya tomado conocimiento de los mencionados actos ilegales. El gobernador regional tendrá el plazo de treinta días para tomar las medidas administrativas que estime pertinentes, sin perjuicio de lo establecido en el artículo 175 del Código Procesal Penal.
+La unidad de control deberá representar al gobernador regional los actos del gobierno regional que estime ilegales. Dicha representación deberá efectuarse dentro de los diez días siguientes a aquel en que la unidad de control haya tomado formalmente conocimiento de los mencionados actos ilegales. El gobernador regional tendrá el plazo de treinta días para tomar las medidas administrativas que estime pertinentes, sin perjuicio de lo establecido en el artículo 175 del Código Procesal Penal.
 
-Si el gobernador regional no tomare las medidas administrativas necesarias para enmendar el acto representado, la unidad de control deberá remitir dicha información a la Contraloría General de la República.
+Si el gobernador regional no tomare las medidas administrativas necesarias para enmendar el acto representado, la unidad de control deberá remitir dicha información a la Contraloría General de la República e informar por escrito al consejo regional en la sesión inmediatamente siguiente al vencimiento del plazo señalado en el inciso anterior, mediante comunicación que el secretario ejecutivo deberá entregar a cada uno de los consejeros.
 
-El jefe de la unidad de control será nombrado por el gobernador regional respectivo, con acuerdo de los cuatro séptimos de los consejeros regionales en ejercicio, entre cualquiera de quienes integren la nómina propuesta mediante un procedimiento análogo al establecido para el nombramiento de Altos Directivos Públicos de segundo nivel jerárquico, siendo aplicables, en lo que correspondiere, las disposiciones del Párrafo 3° del Título VI de la ley Nº 19.882. Durará en su cargo cinco años, no pudiendo repostular en el mismo gobierno regional para un período consecutivo. El gobernador regional deberá definir el perfil profesional, el que deberá considerar las competencias y aptitudes que deberán cumplir los candidatos y los desafíos del cargo, y ser aprobado por los cuatro séptimos de los consejeros regionales en ejercicio.
+El jefe de la unidad de control será nombrado por el gobernador regional respectivo, con acuerdo de los cuatro séptimos de los consejeros regionales en ejercicio, entre cualquiera de quienes integren la nómina propuesta mediante el procedimiento establecido para el nombramiento de Altos Directivos Públicos de segundo nivel jerárquico, siendo aplicables, en lo que correspondiere, las disposiciones del Párrafo 3° del Título VI de la ley Nº 19.882. Durará en su cargo cinco años, no pudiendo repostular en el mismo gobierno regional para un período consecutivo. El gobernador regional deberá definir el perfil profesional, el que deberá considerar las competencias y aptitudes que deberán cumplir los candidatos y los desafíos del cargo, y ser aprobado por los cuatro séptimos de los consejeros regionales en ejercicio.
 
 A dicho cargo sólo podrán postular profesionales del área de la auditoría, o de alguna acorde con la función, o con especialidad en la materia que cuenten con un título profesional o grado académico de una carrera de a lo menos ocho semestres de duración, otorgado por una institución de educación superior del Estado o reconocida por éste, con al menos cinco años de experiencia profesional. El jefe de esta unidad sólo podrá ser removido en virtud de causales de cese de funciones aplicables a los funcionarios públicos. En caso de incumplimiento de sus funciones, en especial aquellas que dicen relación con la información presupuestaria y de flujos comprometidos que debe entregar trimestralmente, el sumario deberá ser instruido por la Contraloría General de la República, a solicitud del consejo regional.
 
@@ -1464,9 +1438,9 @@ a) Un programa de gastos de funcionamiento del gobierno regional, y
 
 b) Un programa de inversión regional, en el que se incluirán los recursos del Fondo Nacional de Desarrollo Regional que le correspondan y los demás que tengan por objeto el desarrollo de la región, incluidos los que se perciban por el gobierno regional conforme a lo dispuesto por el número 20 del artículo 19 de la Constitución Política de la República; así como los ingresos provenientes de las transferencias del artículo cuarto transitorio de la ley Nº 20.378, que crea un Subsidio Nacional para el Transporte Público Remunerado de Pasajeros y de las transferencias definidas en la Ley de Presupuestos del Sector Público.
 
-El proyecto de presupuesto del gobierno regional será propuesto por el intendente al consejo regional para su aprobación. El proyecto de presupuesto así aprobado será enviado al Ministerio de Hacienda, en conformidad con los plazos y procedimientos que éste establezca de acuerdo a lo dispuesto en el Decreto Ley N° 1.263, de 1975, sin perjuicio del ulterior ejercicio por el consejo regional de la atribución a que se refiere la letra e) del artículo 36.
+El proyecto de presupuesto del gobierno regional será propuesto por el gobernador regional al consejo regional para su aprobación. El proyecto de presupuesto así aprobado será enviado al Ministerio de Hacienda, en conformidad con los plazos y procedimientos que éste establezca de acuerdo a lo dispuesto en el Decreto Ley N° 1.263, de 1975, sin perjuicio del ulterior ejercicio por el consejo regional de la atribución a que se refiere la letra e) del artículo 36.
 
-En todo caso el calendario de formulación del Presupuesto del Sector Público a que se refiere el Decreto Ley N° 1.263, de 1975, contemplará una etapa de evaluación y discusión, entre el nivel central y cada una de las regiones, respecto del proyecto de presupuesto propuesto en conformidad a este artículo. Para estos efectos cada año el presidente del consejo y el intendente representarán al gobierno regional en dicha etapa.
+En todo caso el calendario de formulación del Presupuesto del Sector Público a que se refiere el Decreto Ley N° 1.263, de 1975, contemplará una etapa de evaluación y discusión, entre el nivel central y cada una de las regiones, respecto del proyecto de presupuesto propuesto en conformidad a este artículo. Para estos efectos cada año el gobernador regional representará al gobierno regional en dicha etapa.
 
 Los ministerios y servicios públicos, a través de los secretarios regionales ministeriales, y dentro de los sesenta días siguientes a la publicación de la Ley de Presupuestos, deberán informar a los gobiernos regionales y a los Senadores y Diputados de la respectiva región, la inversión y programas de gastos que realizarán en la región, desglosada por iniciativa, unidad territorial donde se desarrollará, monto de recursos comprometidos, beneficiarios y resultados esperados. Asimismo, deberán individualizar lo correspondiente a los convenios de programación y territoriales contemplados en los artículos 81 y 81 bis de la presente ley, respectivamente.
 
@@ -1517,6 +1491,8 @@ El gobernador regional someterá a la aprobación del consejo regional la propue
 Con todo, se requerirá la aprobación del consejo regional para proyectos de inversión e iniciativas cuyos montos de ejecución superen las 7.000 unidades tributarias mensuales. Asimismo, el financiamiento de estudios preinversionales o diseños que den origen a dichos proyectos e iniciativas deberá contar con la aprobación explícita del consejo regional.
 
 Un reglamento dictado por el Ministerio del Interior y Seguridad Pública, suscrito además por el Ministro de Hacienda, establecerá los procedimientos y requerimientos de información necesarios para el cumplimiento de lo dispuesto en este artículo y su congruencia con las normas presupuestarias nacionales, además del contenido que podrá darse a la descripción de directrices, prioridades y condiciones en que debe ejecutarse el presupuesto regional.
+
+> **Nota.** El N° 40 del Art. 1 de la Ley 21073, publicada el 22.02.2018, dispuso la sustitución en el presente artículo del vocablo "intendente" por la expresión "gobernador regional".sin embargo la frase a sustituir no existe en este texto, por cuanto fue reemplazada por la Ley 21074 publicada el 15.02.2018, por lo que no se pudo efectuar la modificación.
 
 #### Artículo 79
 
