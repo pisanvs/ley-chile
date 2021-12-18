@@ -42,11 +42,11 @@ Institución Ejército
 
 Grado Coronel
 
-Apellidos Araya Améstica
+Apellidos DEL FIERRO Lucar
 
-Nombre Pedro
+Nombre Enrique
 
-RUN 10.330.027-4
+RUN 12.584.549-5
 
 REGIÓN DE TARAPACÁ
 
@@ -92,13 +92,13 @@ REEMPLAZANTE
 
 Institución Fuerza Aérea
 
-Grado General de Brigada Aérea (A)
+Grado Coronel de Aviación (A)
 
-Apellidos Pizarro Aste
+Apellidos IGLESIS Larroquette
 
-Nombre Francisco
+Nombre Juan
 
-RUN 11.827.628-0
+RUN 12.468.452-8
 
 REGIÓN DE ATACAMA
 
@@ -146,11 +146,11 @@ Institución Ejército
 
 Grado Coronel
 
-Apellidos Sagas Díaz
+Apellidos RETAMAL Aedo
 
-Nombre Luis
+Nombre Felipe
 
-RUN 14.282.430-2
+RUN 12.722.380-7
 
 REGIÓN DE VALPARAÍSO
 
@@ -170,13 +170,13 @@ REEMPLAZANTE
 
 Institución Armada
 
-Grado Contraalmirante
+Grado Capitán de Navío
 
-Apellidos Lerdon Parra
+Apellidos GUTIÉRREZ Casas
 
-Nombre Juan
+Nombre Sebastián
 
-RUN 9.449.940-2
+RUN 10.826.426-8
 
 REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS
 
@@ -198,11 +198,11 @@ Institución Ejército
 
 Grado Coronel
 
-Apellidos Labra Salazar
+Apellidos BUSTAMANTE Sasmay
 
-Nombre Iván
+Nombre José
 
-RUN 11.840.950-7
+RUN 12.775.617-1
 
 REGIÓN DEL MAULE
 
@@ -212,11 +212,11 @@ Institución Ejército
 
 Grado General de Brigada
 
-Apellidos Grez Casanueva
+Apellidos STANGHER Quivira
 
-Nombre Mario
+Nombre Ricardo
 
-RUN 9.922.795-8
+RUN 10.761.645-4
 
 REEMPLAZANTE
 
@@ -224,11 +224,11 @@ Institución Ejército
 
 Grado Coronel
 
-Apellidos Ovando Alarcón
+Apellidos ALLIENDE Zúñiga
 
-Nombre Luis
+Nombre Gabriel
 
-RUN 9.717.338-9
+RUN 9.380.009-5
 
 REGIÓN DEL BIOBÍO
 
@@ -264,11 +264,11 @@ Institución Ejército
 
 Grado General de Brigada
 
-Apellidos Jaque Ávila
+Apellidos IRRIBARRA Flores
 
-Nombre Enrique
+Nombre Jean
 
-RUN 10.510.777-3
+RUN 10.555.766-3
 
 REEMPLAZANTE
 
@@ -290,23 +290,23 @@ Institución Ejército
 
 Grado General de Brigada
 
-Apellidos Curti Santibáñez
+Apellidos CUÉLLAR Loyola
 
-Nombre Lionel
+Nombre Luis
 
-RUN 10.376.992-2
+RUN 11.565.532-9
 
 REEMPLAZANTE
 
 Institución Ejército
 
-Grado General de Brigada
+Grado Coronel
 
-Apellidos Cuéllar Loyola
+Apellidos ABARZÚA Dasse
 
-Nombre Luis
+Nombre Javier
 
-RUN 11.565.532-9
+RUN 12.307.813-6
 
 REGIÓN DE LOS RÍOS
 
@@ -316,11 +316,11 @@ Institución Ejército
 
 Grado General de Brigada
 
-Apellidos Sánchez Cros
+Apellidos JAQUE Ávila
 
-Nombre Guillermo
+Nombre Enrique
 
-RUN 10.855.946-2
+RUN 10.510.777-3
 
 REEMPLAZANTE
 
@@ -338,27 +338,27 @@ REGIÓN DE LOS LAGOS
 
 TITULAR
 
-Institución Fuerza Aérea
-
-Grado General de Brigada Aérea (A)
-
-Apellidos Eguía Calvo
-
-Nombre Cristián
-
-RUN 7.763.816-4
-
-REEMPLAZANTE
-
 Institución Armada
 
 Grado Comodoro
 
-Apellidos Arenas Menares
+Apellidos ARENAS Menares
 
 Nombre Mauricio
 
 RUN 7.689.523-6
+
+REEMPLAZANTE
+
+Institución Fuerza Aérea
+
+Grado Coronel de Aviación (A)
+
+Apellidos FUENTES Niedbalski
+
+Nombre Rodrigo
+
+RUN 11.947.235-0
 
 REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO
 
@@ -402,15 +402,15 @@ RUN 10.549.329-0
 
 REEMPLAZANTE
 
-Institución Armada
+Institución Fuerza Aérea
 
-Grado Contraalmirante
+Grado General de Brigada Aérea (A)
 
-Apellidos Chávez Alvear
+Apellidos STANGE Muñoz
 
-Nombre Leonardo
+Nombre Miguel
 
-RUN 9.793.329-4
+RUN 10.643.480-8
 
 REGIÓN METROPOLITANA DE SANTIAGO
 
@@ -420,23 +420,23 @@ Institución Ejército
 
 Grado General de División
 
-Apellidos De la Cerda Rodríguez
+Apellidos VIAL Maceratta
 
-Nombre Cristóbal
+Nombre Cristian
 
-RUN 10.181.092-5
+RUN 11.840.650-8
 
 REEMPLAZANTE
 
 Institución Ejército
 
-Grado General de Brigada
+Grado General de División
 
-Apellidos Vial Maceratta
+Apellidos SEGURA Flores
 
-Nombre Cristian
+Nombre Rubén
 
-RUN 11.840.650-8.
+RUN 10.321.564-1.
 
 2.- Los Jefes de Fuerza dispondrán las medidas necesarias para el resguardo del orden público, durante estas elecciones en sus zonas jurisdiccionales y en todos los locales de votación a su cargo, quedando facultados para organizar las fuerzas asignadas a su mando.
 
