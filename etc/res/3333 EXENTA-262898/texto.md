@@ -770,6 +770,10 @@ ex Trelease Asparagaceae
 
 Zelkova spp. Ulmaceae
 
+1.1 Las semillas de Salvia divinorum, no tienen declaraciones adicionales, sin embargo éstas serán autorizadas mediante la emisión de una resolución caso a caso por la División de Protección Agrícola, Forestal y Semillas del SAG, la cual para emitirse deberá contar en forma previa con la autorización establecida en el artículo 9º de la ley 20.000 de 2005 y su Reglamento, aprobado mediante el decreto del Ministerio del Interior Nº 867 de 2007, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas.
+
+1.2 Las semillas de Salvia spp. deberán declarar la especie en el Certificado Fitosanitario (Independiente que los requisitos fitosanitarios se establezcan para el género).
+
 2. Las semillas de las especies ornamentales que a continuación se detallan, deben estar amparadas por el Certificado Fitosanitario emitido por la Organización Nacional de Protección Fitosanitaria del país de origen, el que debe contener las declaraciones adicionales que se señalan:
 
 ESPECIE FAMILIA DECLARACION ADICIONAL
