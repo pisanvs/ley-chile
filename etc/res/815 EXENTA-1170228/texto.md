@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 815 EXENTA, DE 14 DE DICIEMBRE DE 2021
+
+Por resolución exenta Nº 815, de 14 de diciembre de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Maule, se aprobó el gabinete técnico creado e instalado por la Ilustre Municipalidad de Yerbas Buenas, que tendrá su lugar de funcionamiento en Juan de Dios Puga s/n, Yerbas Buenas. Y se autorizó a la I. Municipalidad de Yerbas Buenas para otorgar licencias de conductor. La I. Municipalidad de Yerbas Buenas deberá suspender el otorgamiento de licencias de conductor, de acuerdo a lo señalado en el DFL Nº 1 de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija texto refundido, coordinado y sistematizado de la Ley de Tránsito y sus reglamentos. En todo caso la I. Municipalidad precedentemente individualizada deberá suspender el otorgamiento de Licencias de Conductor, en el evento de faltarle alguno de los requisitos que hicieron posible la presente autorización.-
+
+Pedro Fernando Orozco López, Secretario Regional Ministerial de Transportes y Telecomunicaciones (S) Región del Maule.
