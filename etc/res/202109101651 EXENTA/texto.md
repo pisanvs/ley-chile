@@ -1,0 +1,9 @@
+RESOLUCIÓN DE INICIO DEL PROCESO DE CONSULTA A PUEBLOS INDÍGENAS (PCPI)
+
+En el marco de la evaluación ambiental del Estudio de Impacto Ambiental (EIA) del proyecto "Sistema de Recolección y Tratamiento de Aguas Servidas de la Localidad de Lican Ray" y mediante resolución exenta N° 202109101651, de fecha 9 de diciembre de 2021, de la Dirección de la Región de La Araucanía del Servicio de Evaluación Ambiental, se ha ordenado la realización de un Proceso de Consulta a Pueblos Indígenas, el cual se llevará a efecto con los grupos humanos pertenecientes a los pueblos indígenas que se encuentren dentro de su área de influencia y que sean afectados directamente por aquel, de conformidad a los estándares contenidos en el Convenio N° 169 de la OIT sobre Pueblos Indígenas y Tribales en Países Independientes, el que se llevará a efecto con la Comunidad Indígena Rudecindo Ancalef y Comunidad Indígena Remigio Cabrapán Manquel, ambas de la localidad de Lican Ray en la comuna de Villarrica, Región de La Araucanía, esto, sin perjuicio que en el transcurso del proceso de evaluación se determinen impactos significativos sobre otros grupos humanos pertenecientes a pueblos indígenas, que hagan procedente su participación en el PCPI en curso.
+
+Los plazos, metodología, mecanismos, procedimientos y alcances de dicho proceso de consulta serán consensuados con los Grupos Humanos Pertenecientes a Pueblos Indígenas participantes del proceso de consulta.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido el siguiente link: https://seia.sea.gob.cl/archivos/2021/12/09/b56_RE_N_202109101651_Inicio_PCPI_PTAS_Lica n_Ray.pdf.-
+
+Berta Hott Alvarado, Directora Regional (S) del Servicio de Evaluación Ambiental de la Región de la Araucanía.
