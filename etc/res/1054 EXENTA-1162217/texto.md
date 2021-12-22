@@ -38,6 +38,8 @@ Resolución:
 
 2. Los recursos destinados para la selección de postulantes, por agrupación de provincias, son los siguientes:
 
+.
+
 3. Los procesos de selección se realizarán respecto de cada una de las fechas señaladas en el Resuelvo 1, de esta resolución. El número de proyectos seleccionados en cada provincia alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el resuelvo 2., incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones y ajustes que serán sancionados mediante resolución.
 
 4. Dispónese que, atendidas las circunstancias que afectan al país actualmente, los antecedentes de postulación de los proyectos podrán ser presentados en formato digital, debiendo cumplir con los requisitos y plazos establecidos en el presente llamado, los que serán validados por el Serviu en la forma que se dispondrá especialmente para ello y que será informada oportunamente a través de Resolución del Director del Serviu. Con todo, para proceder a la calificación del proyecto, el Serviu podrá solicitar la entrega en un solo acto de los antecedentes físicos del proyecto, con posterioridad a la selección, y en forma previa al inicio de obras.
