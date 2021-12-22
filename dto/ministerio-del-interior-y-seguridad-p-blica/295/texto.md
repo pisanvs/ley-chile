@@ -42,6 +42,8 @@ De manera excepcional se permitirá el ingreso de extranjeros no residentes en e
 
 2. Puertos habilitados para tales efectos.
 
+3. Pasos fronterizos terrestres de Futaleufú en la Región de Los Lagos; de Huemules y Jeinimeni en la Región de Aysén del General Carlos Ibáñez del Campo; y, de Integración Austral, en la Región de Magallanes y de la Antártica Chilena.
+
 La medida excepcional dispuesta en el inciso primero no afectará a los nacionales chilenos, ni a los extranjeros residentes de manera regular en el territorio nacional, que ingresen al territorio nacional, quienes de conformidad con los protocolos e instrucciones de la autoridad, podrán ingresar al país sometiéndose a los procedimientos sanitarios pertinentes por los lugares habilitados individualizados en el inciso anterior.
 
 Cualquier persona que ingrese al territorio nacional, deberá sujetarse a los protocolos e instrucciones de la autoridad y someterse a los procedimientos sanitarios que establezca la autoridad sanitaria.
