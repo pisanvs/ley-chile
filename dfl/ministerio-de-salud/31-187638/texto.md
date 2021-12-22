@@ -212,7 +212,7 @@ b) De profesionales funcionarios afectos a las leyes Nº 15.076 y Nº 19.664: 1.
 
 El remanente de horas se proveerá mediante empleos a contrata, sin que les sea aplicable la norma del inciso 2º del artículo 9º de la ley Nº 18.834.
 
-Los empleos a contrata del personal afecto a la ley 18.834, se proveerán mediante concurso, a excepción de los contratos por reemplazos originados en causas legales, los que podrán ser provistos mediante un proceso de selección.
+Los empleos a contrata del personal afecto a la ley N°18.834, se proveerán mediante procesos de selección. Los contratos por reemplazos originados en causas legales, podrán ser provistos mediante procesos de selección internos o abiertos, indistintamente.
 
 #### Artículo 22
 

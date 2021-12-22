@@ -304,8 +304,6 @@ Para verificar la información proporcionada por la Dirección del Trabajo se po
 
 7. Un reglamento expedido por el Ministerio del Trabajo y Previsión Social, el que además deberá ser suscrito por el Ministro de Hacienda, establecerá los procedimientos destinados a la definición de los objetivos o metas con sus correspondientes indicadores y ponderadores; los mecanismos necesarios para la implementación de la modalidad que se utilizará para el cumplimiento de las metas, las cuales podrán ser institucionales, colectivas, según áreas territoriales y/o funcionales, u otras que se definan; los mecanismos de consulta e información a los funcionarios y a las asociaciones de la Dirección del Trabajo; las normas transitorias para su aplicación y pago; los mecanismos de control, evaluación y verificación del cumplimiento de las metas que se hayan fijado con sus correspondientes indicadores y ponderadores; la forma de determinar los porcentajes a pagar anualmente; el calendario de elaboración, fijación y evaluación de las metas anuales; los procedimientos de reclamación; las causas, procedimientos de revisión y redefinición de metas, y toda otra norma necesaria para la adecuada aplicación del componente asociado a la evaluación de la calidad de servicio. Además, podrá fijar los contenidos mínimos para la elaboración del programa de mejoramiento de la calidad de los servicios prestados a los usuarios.
 
-> **Nota.** NOTA El artículo 47 de la ley 21526, publicada el 28.12.2022, establece que lo dispuesto en el presente numeral se aplicará a contar del año 2024.
-
 #### Artículo 11
 
 Deróganse los artículos 1 a 7 de la ley Nº 19.994.
@@ -327,8 +325,6 @@ Agrégase en el artículo 5 del decreto con fuerza de ley Nº 2, de 1967, del Mi
 #### Artículo 15
 
 Créase la Unidad de Atención a la Micro, Pequeña y Mediana Empresa al interior del Departamento de Relaciones Laborales de la Dirección del Trabajo, cuya función será gestionar de manera especializada las necesidades y requerimientos de la micro, pequeña y mediana empresa con el objeto de promover y facilitar el cumplimiento de la normativa laboral y de seguridad social. Para efectos de lo señalado en este artículo, se considerará la clasificación de empresas establecida en el artículo 505 bis del Código del Trabajo.
-
-La Dirección del Trabajo desarrollará, entre otras medidas, programas de cumplimiento asistido de la normativa laboral, a través de solicitudes de fiscalización voluntarias por parte de estas empresas, tendientes a prevenir o corregir infracciones laborales. En este último caso se otorgará el plazo de, a lo menos, cinco días hábiles para dar cumplimiento a la normativa, siempre que no se ponga en riesgo inminente la seguridad o la salud de los trabajadores. La Dirección del Trabajo deberá constatar que la empresa haya corregido la conducta infractora y, en caso de que esto no ocurra, aplicará las multas correspondientes, sin que resulte aplicable lo dispuesto en el artículo 506 ter del Código del Trabajo.
 
 DISPOSICIONES TRANSITORIAS
 

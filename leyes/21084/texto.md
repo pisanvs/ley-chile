@@ -18,7 +18,7 @@ Los funcionarios y funcionarias que perciban la bonificación por retiro estable
 
 Otórgase una bonificación adicional, por una sola vez, a los funcionarios y funcionarias de planta y a contrata del Senado, de la Cámara de Diputados y de la Biblioteca del Congreso Nacional, que perciban la bonificación por retiro del Título II de la ley N° 19.882, siempre que se encuentren afiliados al sistema de pensiones establecido en el decreto ley N° 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema, según lo dispuesto en su artículo 17, que a la fecha de postulación tengan veinte o más años de servicios, continuos o discontinuos, en las señaladas instituciones, y cumplan los demás requisitos que establece esta ley.
 
-Además, para tener derecho a la bonificación adicional, los funcionarios deberán haber cumplido o cumplir 60 años de edad, si son mujeres, o 65 años de edad si son hombres, entre el 1 de julio de 2014 y el 31 de diciembre de 2021, o haber cumplido dichas edades, según corresponda, al 30 de junio de 2014.
+Además, para tener derecho a la bonificación adicional, los funcionarios deberán haber cumplido o cumplir 60 años de edad, si son mujeres, o 65 años de edad si son hombres, entre el 1 de julio de 2014 y el 31 de diciembre de 2024, o haber cumplido dichas edades, según corresponda, al 30 de junio de 2014.
 
 Asimismo, para tener derecho a la bonificación adicional, los funcionarios y funcionarias deberán renunciar voluntariamente a todos los cargos y al total de horas que sirvan dentro de los plazos que señalen esta ley y su reglamento interno.
 
@@ -40,7 +40,7 @@ Al personal indicado en este artículo se le aplicará lo dispuesto en el artíc
 
 #### Artículo 5
 
-Podrán acceder a la bonificación adicional del artículo 2 hasta un total de 96 beneficiarios. Para el año 2018 se contemplarán 44 cupos. Para los años 2019 y 2020 se contemplarán, por cada anualidad, 26 cupos. Los cupos que no hubieren sido utilizados en cada anualidad incrementarán los del año inmediatamente siguiente. En el año 2021 se utilizarán los cupos que no hubieren sido ocupados en las anualidades anteriores.
+Podrán acceder a la bonificación adicional del artículo 2 hasta un total de 96 beneficiarios. Para el año 2018 se contemplarán 44 cupos. Para los años 2019 y 2020 se contemplarán, por cada anualidad, 26 cupos. Los cupos que no hubieren sido utilizados en cada anualidad incrementarán los del año inmediatamente siguiente. En el año 2021 se utilizarán los cupos que no hubieren sido ocupados en las anualidades anteriores. En los años 2022, 2023 y 2024 se utilizarán los cupos que no hubieren sido ocupados en las anualidades anteriores.
 
 La bonificación adicional ascenderá a los montos siguientes, según los años de servicio que el funcionario o funcionaria señalado en el artículo 2 haya prestado en las instituciones indicadas en ese artículo, a la fecha del cese de funciones y según el cargo de que es titular o aquel a que se encuentre asimilado a la siguiente categoría y nivel educacional, según corresponda:
 
@@ -60,7 +60,7 @@ La bonificación adicional no será imponible ni constituirá renta para ningún
 
 #### Artículo 7
 
-Podrán acceder a la bonificación adicional que establece el artículo 2 de esta ley, conjuntamente con otros beneficios de naturaleza homologable que se originen en una causal similar de otorgamiento y que hubieren sido otorgados por el Senado, la Cámara de Diputados o la Biblioteca del Congreso Nacional, los funcionarios y funcionarias de planta y a contrata de las instituciones a que se refiere el artículo 2, que hayan obtenido u obtengan pensión de invalidez regulada en el decreto ley N° 3.500, de 1980, entre el 1 de julio de 2014 y el 31 de diciembre de 2021; que cumplan 60 años de edad si son mujeres o 65 años de edad si son hombres, dentro de los tres años siguientes al cese en su cargo por obtención de la referida pensión o por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del mismo y que reúnan los demás requisitos para su percepción. En ningún caso las edades señaladas podrán cumplirse más allá del 31 de diciembre de 2021.
+Podrán acceder a la bonificación adicional que establece el artículo 2 de esta ley, conjuntamente con otros beneficios de naturaleza homologable que se originen en una causal similar de otorgamiento y que hubieren sido otorgados por el Senado, la Cámara de Diputados o la Biblioteca del Congreso Nacional, los funcionarios y funcionarias de planta y a contrata de las instituciones a que se refiere el artículo 2, que hayan obtenido u obtengan pensión de invalidez regulada en el decreto ley N° 3.500, de 1980, entre el 1 de julio de 2014 y el 31 de diciembre de 2024; que cumplan 60 años de edad si son mujeres o 65 años de edad si son hombres, dentro de los tres años siguientes al cese en su cargo por obtención de la referida pensión o por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del mismo y que reúnan los demás requisitos para su percepción. En ningún caso las edades señaladas podrán cumplirse más allá del 31 de diciembre de 2024.
 
 Para tener derecho a la bonificación adicional los funcionarios y funcionarias a que se refiere el inciso anterior, deberán tener veinte o más años de servicios continuos o discontinuos, en las instituciones a que se refiere el artículo 2 a la fecha del cese de funciones por cualquiera de las causales señaladas en el inciso anterior.
 
@@ -152,7 +152,7 @@ El bono por antigüedad será incompatible con la bonificación adicional que co
 
 #### Artículo 16
 
-Otórgase un bono por trabajo pesado, por una sola vez, a los funcionarios y las funcionarias de planta y a contrata del Senado, de la Cámara de Diputados y de la Biblioteca del Congreso Nacional que, entre la fecha de publicación de esta ley y el 31 de diciembre de 2021, perciban la bonificación por retiro del Título II de la ley N° 19.882 o se acojan a la bonificación adicional del artículo 2, siempre que al hacer efectiva su renuncia voluntaria, se encuentren realizando o acrediten haber realizado trabajos calificados como pesados.
+Otórgase un bono por trabajo pesado, por una sola vez, a los funcionarios y las funcionarias de planta y a contrata del Senado, de la Cámara de Diputados y de la Biblioteca del Congreso Nacional que, entre la fecha de publicación de esta ley y el 31 de diciembre de 2024, perciban la bonificación por retiro del Título II de la ley N° 19.882 o se acojan a la bonificación adicional del artículo 2, siempre que al hacer efectiva su renuncia voluntaria, se encuentren realizando o acrediten haber realizado trabajos calificados como pesados.
 
 La certificación de los trabajos pesados se efectuará conforme a las normas vigentes del respectivo régimen previsional.
 

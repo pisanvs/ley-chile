@@ -132,6 +132,10 @@ Los beneficios de esta ley serán incompatibles con cualquier otro beneficio de 
 
 Un reglamento expedido a través del Ministerio de Salud, y suscrito además por el Ministro de Hacienda, en un plazo máximo de seis meses, establecerá los procedimientos para la postulación y concesión de las bonificaciones señaladas, así como toda otra norma necesaria para el otorgamiento de dichos beneficios.
 
+#### Artículo 14
+
+Si el funcionario o funcionaria fallece entre la fecha de su postulación para acceder a los beneficios de esta ley y antes de percibirlos, y siempre que cumpla con los requisitos para acceder a los mismos, éstos serán transmisibles por causa de muerte. Este beneficio quedará afecto a los cupos que establece el artículo 4.
+
 #### Artículo transitorio
 
 El mayor gasto fiscal que represente la aplicación de esta ley durante su primer año presupuestario de vigencia se financiará con cargo al presupuesto del Ministerio de Salud. No obstante, el Ministerio de Hacienda, con cargo a la partida presupuestaria del Tesoro Público, podrá suplementar dicho presupuesto en la parte del gasto que no se pueda financiar con esos recursos. Para los años siguientes, los recursos se consultarán en las respectivas leyes de Presupuestos del Sector Público.".

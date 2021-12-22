@@ -134,7 +134,7 @@ Los funcionarios que se acojan a lo previsto en el inciso anterior deberán acom
 
 Un reglamento dictado por el Ministerio de Hacienda determinará el o los períodos de postulación a los beneficios y podrá establecer distintos plazos, y el procedimiento de otorgamiento de los beneficios. Asimismo, el reglamento determinará los procedimientos aplicables para la heredabilidad de los beneficios y establecerá las normas necesarias para la aplicación de esta ley.
 
-Si un funcionario fallece desde la fecha en que comunique su decisión de renunciar voluntariamente a su cargo de acuerdo al artículo 11, y antes de percibir la bonificación adicional o los beneficios de los artículos 9 y 10 según corresponda, y siempre que cumpla con los requisitos establecidos en esta ley para acceder a los mismos, éstos serán transmisibles por causa de muerte.
+Si un funcionario fallece habiendo postulado a los beneficios de esta ley, y antes de percibir la bonificación adicional o los beneficios de los artículos 9 y 10 según corresponda, y siempre que cumpla con los requisitos establecidos en esta ley para acceder a los mismos, éstos serán transmisibles por causa de muerte.
 
 #### Artículo 15
 
