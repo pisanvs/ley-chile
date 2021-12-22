@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN N° 1.383 EXENTA, DE 2021, DE ESTA SUBSECRETARÍA
+
+Por resolución N° 3.264, de 14 de diciembre de 2021, de esta Subsecretaría, modifíquese el numeral 3° de la resolución exenta N° 1.383, de 2021, que autorizó a Orizon S.A., para capturar 3.725 toneladas del recurso Jurel provenientes de la transferencia efectuada por Federación Rusa de conformidad con el párrafo 9° de la Medida de Conservación y Ordenamiento para Trachurus murphyi, MCO 01-2021, adoptada por la Comisión de la Organización Regional de Pesca del Pacífico Sur y aprobada mediante resolución exenta N° 575, de 2021, en el sentido de incorporar los siguientes barcos pesqueros a la nómina de naves autorizadas: Cazador, Don Manuel, Ruth.
+
+Valparaíso, 14 de diciembre de 2021.- Mónica Orellana Valdés, Subsecretaria de Pesca y Acuicultura (S).
