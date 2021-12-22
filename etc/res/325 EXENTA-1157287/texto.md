@@ -50,8 +50,6 @@ Los antecedentes que se presenten al Serviu para efectos de obtener la calificac
 
 6. Los recursos destinados a nivel nacional para la selección de las personas postulantes son los señalados en la siguiente tabla:
 
-.
-
 7. Podrán postular al presente llamado personas del Registro de Familias del Programa de Asentamientos Precarios, de 50 años o más, o que los cumplan durante esta anualidad, que estén afectas al impedimento de no acreditar núcleo familiar a que se refiere el literal h) del artículo 4 del DS Nº 49 (V. y U.), de 2011.
 
 8. Exímase a las familias inscritas en el Registro de Familias del Programa de Asentamientos Precarios, que sean incorporadas en proyectos habitacionales que participen de los procesos de selección convocados por la presente resolución, del cumplimiento del requisito de pertenecer al 40% más vulnerable de la población según el mecanismo de caracterización social vigente del Ministerio de Desarrollo Social y Familia, a que se refiere el inciso segundo del artículo 1 del DS Nº 49 (V. y U.), de 2011.
