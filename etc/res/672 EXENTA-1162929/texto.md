@@ -124,9 +124,7 @@ b. No se permite el ingreso a este lugar de ninguna persona que no resida ahí, 
 
 a) El trayecto al lugar de cumplimiento del aislamiento deberá ser directo desde el lugar de ingreso al país, sin posibilidad de pernoctar ni interactuar con otras personas.
 
-Quienes deban realizar el trayecto al lugar de cumplimiento del aislamiento mediante conexiones de vuelos nacionales, podrán realizarlos aun cuando no hayan recibido el resultado del examen para detección de coronavirus realizado al ingresar al territorio.
-
-b) No se podrán utilizar medios de transporte público, salvo que el vehículo sea utilizado exclusivamente por quienes viajaron, además del conductor. Podrán exceptuarse de esta medida aquellas personas que viajen en transporte aéreo y cuenten con esquema de vacunación completo contra el SARS-CoV-2 validado por el Ministerio de Salud y los menores de 6 años que viajen con ellos.
+b) No se podrán utilizar medios de transporte público, salvo que el vehículo sea utilizado exclusivamente por quienes viajaron, además del conductor. Podrán exceptuarse de esta medida aquellas personas que viajen en transporte aéreo y cuenten con esquema de vacunación completo contra el SARS-CoV-2 validado por el Ministerio de Salud, aun cuando no hayan recibido el resultado del examen para detección de coronavirus realizado al ingresar al país, así como los menores de 6 años que viajen con ellos.
 
 c) En caso de que el lugar de aislamiento quede a más de dos horas del punto de ingreso al país, el conductor del medio de transporte también deberá aislarse en los términos señalados en el numeral 4.
 
@@ -209,6 +207,8 @@ En el caso que los síntomas señalados sean fiebre mayor a 37,8º C, pérdida b
 33. Obligatoriedad. Dispóngase que toda persona que ingrese desde el extranjero, sin importar su nacionalidad, lugar de origen o región de destino en Chile, podrá ser seleccionada por la autoridad sanitaria, en el momento de su ingreso o hasta 14 días después de éste, para ser sometida a exámenes de detección directa para SARS-CoV-2 determinado por la autoridad sanitaria.
 
 Quienes obtengan un resultado positivo del testeo del que trata este numeral, deberán cumplir el aislamiento donde disponga la autoridad sanitaria, junto a sus contactos estrechos en caso de tenerlos.
+
+En el caso de extranjeros no residentes de manera regular que ingresen al país por pasos fronterizos terrestres habilitados, podrán ser sometidos a un test de antígenos para detección de coronavirus y, de ser positivo el resultado, la autoridad sanitaria podrá denegar la entrada al país.
 
 34. De la negativa. Si un chileno o extranjero residente de manera regular en el país no accediera a realizarse el examen, deberá permanecer en aislamiento, en el lugar que disponga la autoridad sanitaria para esos efectos, durante los 14 días siguientes a su ingreso al país, independiente del resultado negativo que pudiese tener un test PCR para SARS-CoV-2 realizado con anterioridad o posterioridad.
 
