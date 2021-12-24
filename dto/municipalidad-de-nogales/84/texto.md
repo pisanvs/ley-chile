@@ -290,7 +290,7 @@ Queda expresamente prohibido:
 
 12) Queda prohibido amarrar perros en árboles, postes, rejas, pilares, o en cualquier elemento ubicado en espacios públicos, que impida al normal tránsito peatonal o ponga en riesgo la seguridad de los mismos. De igual forma queda prohibido llevarlos atados y al lado de un vehículo en movimiento.
 
-13) Se prohíbe alimentar o depositar alimentos en las calles o lugares de uso público para el consumo por parte de los perros vagos o abandonados en el caso o hecho de ocurrir el vecino(a) que aviste estos hechos deberá denunciarlo a Carabineros de Chile o ante el Juzgado de Policía Local, solicitando la reserva de su identidad.
+13) Derogado.
 
 14) El no cumplimiento de esta normativa podrá ser denunciada por cualquier persona a Carabineros de Chile, Policía de Investigaciones o al Juzgado de Policía Local competente solicitando expresamente, si lo desea, la reserva de su identidad. Su contravención será sancionada con las sanciones que para este efecto se establezcan en la presente ordenanza.
 
