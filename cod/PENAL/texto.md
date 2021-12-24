@@ -4378,27 +4378,21 @@ El que defraudare o perjudicare a otro usando de cualquier engaño que no se hal
 
 #### Artículo 474
 
-El que incendiare edificio, tren de ferrocarril, buque u otro lugar cualquiera, causando la muerte de una o más personas cuya presencia allí pudo prever, será castigado con presidio mayor en su grado máximo a presidio perpetuo.
+El que incendiare edificio, aeronave, buque, plataforma naval, automóviles de dos o más plazas, camiones, instalaciones de servicios sanitarios, de almacenamiento o transporte de combustibles, de distribución o generación de energía eléctrica, portuaria, aeronáutica o ferroviaria, incluyendo las de trenes subterráneos, u otro lugar, medio de transporte, instalación o bien semejante, siempre que hubiere personas en su interior, causando la muerte de una o más personas cuya presencia allí pudo prever, será castigado con presidio mayor en su grado máximo a presidio perpetuo.
 
 La misma pena se impondrá cuando del incendio no resultare muerte sino mutilación de miembro importante o lesión grave de las comprendidas en el número 1° del artículo 397.
 
-Las penas de este artículo se aplicarán respectivamente en el grado inferior de ellas si a consecuencia de explosiones ocasionadas por incendios, resultare la muerte o lesiones graves de personas que se hallaren a cualquier distancia del lugar del siniestro.
-
 #### Artículo 475
 
-Se castigará al incendiario con presidio mayor en su grado medio a presidio perpetuo:
-
-1.° Cuando ejecutare el incendio en edificios, tren de ferrocarril, buque o lugar habitados o en que actualmente hubiere una o más personas, siempre que el culpable haya podido prever tal circunstancia.
-
-2° Si lo ejecutare en buques mercantes cargados con objetos explosivos o inflamables, en buques de guerra, arsenales, astilleros, almacenes, fábricas o depósitos de pólvora o de otras sustancias explosivas o inflamables, parques de artillería, maestranzas, museos, bibliotecas, archivos, oficinas o monumentos públicos u otros lugares análogos a los enumerados.
+El que incendiare edificio, aeronave, buque, plataforma naval, vehículos de transporte público de pasajeros, automóviles de dos o más plazas, camiones, instalaciones de servicios sanitarios, de almacenamiento o transporte de combustibles, de distribución o generación de energía eléctrica, portuaria, aeronáutica o ferroviaria, incluyendo las de trenes subterráneos, u otro lugar, medio de transporte, instalación o bien semejante, siempre que allí hubiere una o más personas y su presencia se pudiese prever, será castigado con presidio mayor en su grado medio a presidio perpetuo.
 
 #### Artículo 476
 
 Se castigará con presidio mayor en cualquiera de sus grados:
 
-1.° Al que incendiare un edificio destinado a servir de morada, que no estuviere actualmente habitado.
+1.° Al que incendiare un edificio o lugar destinado a servir de morada, que no estuviere actualmente habitado.
 
-2.º Al que dentro de poblado incendiare cualquier edificio o lugar, aun cuando no estuviere destinado ordinariamente a la habitación.
+2º Al que dentro de poblado ejecutare el incendio en edificio, aeronave, buque, plataforma naval, vehículos de transporte público de pasajeros, automóviles de dos o más plazas, camiones, instalaciones de servicios sanitarios, de almacenamiento o transporte de combustibles, de distribución o generación de energía eléctrica, portuaria, aeronáutica o ferroviaria, incluyendo las de trenes subterráneos, u otro lugar, medio de transporte, instalación o bien semejante, cuando no hubiere personas en su interior o su presencia no se pudiese prever.
 
 3.º Al que incendiare bosques, mieses, pastos, montes, cierros, plantíos o formaciones xerofíticas de aquellas definidas en la ley Nº 20.283.
 
