@@ -124,7 +124,7 @@ b) Tratándose de operaciones reajustables, pague el capital que se anticipa y l
 
 En las operaciones de crédito de dinero sólo podrán cobrarse los intereses asociados al capital insoluto, según condiciones pactadas. En caso de incumplimiento de las obligaciones contractuales el acreedor deberá restituir los montos que haya cobrado en exceso.
 
-Los pagos anticipados que sean inferiores al 20% del saldo de la obligación, requerirán siempre del consentimiento del acreedor.
+Los pagos anticipados que sean inferiores al 10% del saldo de la obligación, requerirán siempre del consentimiento del acreedor.
 
 El derecho a pagar anticipadamente en los términos de este artículo, es irrenunciable.
 

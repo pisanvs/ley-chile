@@ -296,24 +296,6 @@ Una vez perfeccionado el contrato, el proveedor estará obligado a enviar confir
 
 B.- Los proveedores de servicios de telecomunicaciones que realicen ofertas conjuntas deberán ofrecer individualmente cada uno de los servicios y planes que componen las mismas. De esta forma, no podrán atar, ligar o supeditar, bajo ningún modo o condición, la contratación de un servicio cualquiera a la contratación de otro.
 
-#### Artículo 12
-
-C.- Los proveedores de dispositivos móviles de información y telecomunicaciones deberán garantizar la interoperabilidad común entre los equipos y sus dispositivos de carga, a través de una interfaz de carga y protocolo de comunicación de carga compatibles.
-
-Los comercializadores de dispositivos móviles de información y telecomunicaciones deberán ofrecer a los consumidores la posibilidad de adquirir dichos productos con sus dispositivos de carga, o cada uno de ellos por separado, y no podrán atar, ligar o supeditar bajo modo o condición alguna la adquisición de uno de ellos a la del otro. Asimismo, deberán informar adecuada y oportunamente a los consumidores si el dispositivo de carga está o no incluido y sobre otras especificaciones relativas a los dispositivos de carga compatibles.
-
-Un reglamento dictado por el Ministerio de Economía, Fomento y Turismo establecerá las categorías o clases de dispositivos a los que se aplicará este artículo, las especificaciones técnicas para cada uno, la forma en que deberán cumplirse las obligaciones de información y demás obligaciones. Dentro de las clases o categorías de productos, el reglamento deberá al menos incluir a los dispositivos de telefonía móvil y ordenadores portátiles.
-
-El incumplimiento de lo dispuesto en los incisos primero y segundo será sancionado de conformidad a lo dispuesto en el artículo 24.
-
-#### Artículo 12
-
-D.- Los proveedores de vehículos motorizados nuevos deberán informar al consumidor, de manera clara e inequívoca, antes del perfeccionamiento del contrato de compraventa o de arrendamiento con opción de compra, aquellas exigencias obligatorias justificadas para mantener vigente la garantía voluntaria del vehículo. En el caso de que se exijan mantenciones obligatorias, se deberá informar el listado de todas éstas, incluyendo sus valores estimados, así como también una nómina de todos los talleres o establecimientos de servicio técnico autorizados donde se podrán realizar dichas mantenciones.
-
-Los fabricantes, importadores y proveedores de vehículos motorizados nuevos no podrán limitar la libre elección de servicios técnicos destinados a la mantención del bien, salvo que se trate de mantenciones que, por sus características técnicas específicas justificadas, deban ser realizadas por talleres o establecimientos de servicio técnico expresamente autorizados.
-
-El proveedor deberá proporcionar al consumidor otro vehículo de similares características mientras dure la reparación de un vehículo motorizado, cuando el ejercicio de la garantía legal o voluntaria conlleve privarlo de su uso por un término superior a cinco días hábiles.
-
 #### Artículo 13
 
 Los proveedores no podrán negar injustificadamente la venta de bienes o la prestación de servicios comprendidos en sus respectivos giros en las condiciones ofrecidas.
@@ -334,7 +316,7 @@ Cuando la contravención a lo dispuesto en los incisos anteriores no fuere const
 
 #### Artículo 15 bis
 
-Suprimido.
+Las disposiciones contenidas en los artículos 2 bis letra b), 58 y 58 bis serán aplicables respecto de los datos personales de los consumidores, en el marco de las relaciones de consumo, salvo que las facultades contenidas en dichos artículos se encuentren en el ámbito de las competencias legales de otro órgano.
 
 #### Artículo 15
 
@@ -478,10 +460,6 @@ Los proveedores de créditos que ofrezcan la modalidad de pago automático de cu
 
 > **Nota.** El presente artículo actualizado no contiene la modificación ordenada por la Ley 21236, por cuanto fue publicada el 09.06.2020 con anterioridad a la publicación del presente texto refundido.
 
-> **Nota.** NOTA 1 El artículo 6 de la Ley 21718, publicada el 29.11.2024, ordena modificar el inciso duodécimo del presente artículo, sustituyendo la expresión "cuarenta y cinco días" por "diez días" y agregando a continuación del punto y aparte que pasa a ser punto y seguido, el siguiente texto: "Si el acreedor hipotecario se niega a efectuar el respectivo alzamiento conforme a lo dispuesto en este inciso, deberá informar las causales del rechazo mediante respuesta fundada. Si los motivos no guardan relación con obligaciones directas o indirectas del deudor con el proveedor, se aplicará una multa de cinco unidades tributarias mensuales y, en caso de reincidencia, de diez unidades tributarias mensuales, según los procedimientos de la Comisión para el Mercado Financiero.". Sin embargo, dicha modificación no se incorpora en este texto actualizado, en razón de que el presente texto refundido no contempló las modificaciones ordenadas por la ley 21236, que en lo sustantivo, incorpora nuevos incisos reordenando la presente disposición.
-
-> **Nota.** NOTA 2 El artículo 11 de la Ley 21755, publicada el 11.07.2025, ordena eliminar el numeral 2 del artículo 6 de la Ley 21718. Dicho numeral incorporaba una modificación en el inciso duodécimo del presente artículo, la que sin embargo no fue incorporada en el presente texto debido a que en este texto refundido no se contempló previamente los cambios introducidos por la Ley 21236, que en lo sustantivo, reorganizó la disposición mediante la incorporación de nuevos incisos, reordanando el presente artículo. En consecuencia, la eliminación ordenada por la Ley 21755 no tiene efectos sobre el presente texto actualizado.
-
 #### Artículo 17
 
 E.- El consumidor afectado podrá solicitar la nulidad de una o varias cláusulas o estipulaciones que infrinjan el artículo 17 B. Esta nulidad podrá declararse por el juez en caso de que el contrato pueda subsistir con las restantes cláusulas o, en su defecto, el juez podrá ordenar la adecuación de las cláusulas correspondientes, sin perjuicio de la indemnización que pudiere determinar a favor del consumidor.
@@ -588,9 +566,9 @@ Para los efectos del presente artículo se considerará que es un solo bien aque
 
 #### Artículo 21
 
-El ejercicio de los derechos que contemplan los artículos 19 y 20 deberá hacerse efectivo ante el vendedor dentro de los seis meses siguientes a la fecha en que se haya recibido el producto, siempre que éste no se hubiere deteriorado por hecho imputable al consumidor. Si el producto se hubiere vendido con determinada garantía, prevalecerá el plazo por el cual ésta se extendió, si fuere mayor.
+El ejercicio de los derechos que contemplan los artículos 19 y 20 deberá hacerse efectivo ante el vendedor dentro de los tres meses siguientes a la fecha en que se haya recibido el producto, siempre que éste no se hubiere deteriorado por hecho imputable al consumidor. Si el producto se hubiere vendido con determinada garantía, prevalecerá el plazo por el cual ésta se extendió, si fuere mayor.
 
-El consumidor que, en el ejercicio de los derechos que contempla el artículo 20, opte por la reparación, podrá dirigirse, indistinta o conjuntamente, al vendedor, al fabricante o al importador. En caso de que, prestado el servicio de reparación, subsistieren las deficiencias que hagan al bien inapto para el uso o consumo a que se refiere la letra c) del señalado artículo, el consumidor podrá optar entre su reposición o la devolución de la cantidad pagada. Hecha la opción, el requerido no podrá derivar el reclamo.
+El consumidor que, en el ejercicio de los derechos que contempla el artículo 20, opte por la reparación, podrá dirigirse, indistinta o conjuntamente, al vendedor, al fabricante o al importador. Hecha la opción, el requerido no podrá derivar el reclamo. En caso de que, prestado el servicio de reparación, subsistieren las deficiencias que hagan al bien inapto para el uso o consumo a que se refiere la letra c) del señalado artículo, el consumidor podrá optar entre su reposición o la devolución de la cantidad pagada.
 
 Serán solidariamente responsables por los perjuicios ocasionados al consumidor, el proveedor que haya comercializado el bien o producto y el importador que lo haya vendido o suministrado.
 
@@ -762,19 +740,11 @@ El precio deberá indicarse de un modo claramente visible que permita al consumi
 
 Igualmente se enunciarán las tarifas de los establecimientos de prestación de servicios.
 
-Cuando se exhiban los bienes en vitrinas, anaqueles o estanterías, se deberá indicar allí sus respectivos precios. La misma información, además de las características y prestaciones esenciales de los productos o servicios, deberá ser indicada en los sitios de Internet y aplicaciones en que los proveedores exhiban los bienes o servicios que ofrezcan y que cumplan con las condiciones que determine el reglamento.
+Cuando se exhiban los bienes en vitrinas, anaqueles o estanterías, se deberá indicar allí sus respectivos precios. La misma información, además de las características y prestaciones esenciales de los productos o servicios, deberá ser indicada en los sitios de Internet en que los proveedores exhiban los bienes o servicios que ofrezcan y que cumplan con las condiciones que determine el reglamento.
 
 El monto del precio deberá comprender el valor total del bien o servicio, incluidos los impuestos correspondientes.
 
 Cuando el consumidor no pueda conocer por sí mismo el precio de los productos que desea adquirir, los establecimientos comerciales deberán mantener una lista de sus precios a disposición del público, de manera permanente y visible.
-
-Sin perjuicio de lo establecido precedentemente, los proveedores de servicios de telecomunicaciones deberán informar, a su costo, la existencia de planes que sean objetivamente mejores para el usuario, esto es, uno o más servicios al mismo precio o a un precio inferior, o los mismos servicios a un precio inferior.
-
-Esta comunicación se deberá efectuar en la boleta una vez que el plan haya entrado en servicio. También podrá realizarse de forma complementaria a través de correo electrónico al titular, previo consentimiento de este último, sin perjuicio de aquellos usuarios que han ejercido respecto de los proveedores de servicios de telecomunicaciones el derecho de suspensión de comunicación publicitaria.
-
-Los proveedores de servicios de telecomunicaciones deberán mantener actualizada la información sobre planes y precios en su página web y aplicaciones.
-
-Los referidos proveedores deberán promover todas las condiciones para que el usuario pueda ejercer su derecho de cambio de plan, y no podrán cobrar multa o recargo por ello.
 
 #### Artículo 31
 
