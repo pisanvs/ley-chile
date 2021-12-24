@@ -38,13 +38,15 @@ El Departamento podrá otorgar a los afiliados, sin cargo de restitución, por l
 
 a) De matrimonio: Se concederá al afiliado que contraiga matrimonio y se acreditará con el correspondiente certificado. Si ambos contrayentes fueran afiliados al Departamento, ambos tendrán el derecho a solicitar el beneficio íntegro en forma independiente;
 
-b) De nacimiento: Se concederá al afiliado que acredite, mediante el respectivo certificado, el nacimiento de cada hijo.
+b) De Nacimiento o adopción: Se concederá al afiliado que acredite el nacimiento o adopción de un hijo mediante el respectivo certificado o Resolución Judicial.
 
 Si ambos padres fueren afiliados al Departamento, cada uno tendrá el derecho a recibir el beneficio íntegro en forma independiente;
 
 c) De escolaridad: Se concederá por cada afiliado estudiante o por cada estudiante que constituya carga familiar de aquél, una vez cada año. Se acreditará la condición de estudiante mediante el correspondiente certificado de estudios.
 
-Para el efecto de este subsidio, se entenderá que son estudiantes quienes cursen regularmente estudios o actividades de pre-kinder, kindergarten, educación básica, media, diferencial, universitaria, técnica, superior o comercial, en algún establecimiento del Estado o reconocido por éste. Asimismo, podrán dar lugar a este beneficio los estudios de perfeccionamiento que realice el afiliado, tales como cursos de idiomas u otros similares destinados a incrementar o desarrollar su preparación cultural, previa calificación, según pautas que determine el Consejo Administrativo;
+Para el efecto de este subsidio, se entenderá que son estudiantes quienes cursen regularmente estudios o actividades en los niveles medio menor, medio mayor, prekinder y kindergarten de la educación parvularia, en educación básica, media, diferencial, universitaria, técnica, superior o comercial, en algún establecimiento del Estado o reconocido por éste. Asimismo, podrán dar lugar a este beneficio los estudios de perfeccionamiento que realice el afiliado, tales como cursos de idiomas u otros similares destinados a incrementar o desarrollar su preparación cultural, previa calificación según pautas que determine el Consejo Administrativo.
+
+En el caso de las cargas familiares que estén cursando los niveles medio menor y medio mayor, serán causantes del presente subsidio, quienes no reciban por parte de la Corporación Administrativa del Poder Judicial, otro beneficio fundado en la misma causa.
 
 d) Por fallecimiento: Procederá por el fallecimiento del socio o de alguna de sus cargas familiares. En caso de fallecimiento del socio, este subsidio se pagará, aun cuando el Departamento tenga contratado para sus afiliados un seguro de vida.
 
@@ -52,13 +54,13 @@ La defunción deberá acreditarse mediante el correspondiente certificado.
 
 En caso de fallecimiento del afiliado, este subsidio se pagará de acuerdo al siguiente orden de precedencia:
 
-1.- Cónyuge sobreviviente.
+1.- Cónyuge o Conviviente Civil sobreviviente.
 
 2.- Hijos.
 
 3.- Padres.
 
-La calidad de cónyuge sobreviviente, hijos o padres deberá acreditarse mediante los correspondientes certificados.
+La calidad de cónyuge o conviviente civil sobreviviente, hijos o padres deberá acreditarse mediante los correspondientes certificados.
 
 En caso de faltar los enumerados, se pagará a quienes sean beneficiarios de la posesión efectiva del afiliado.
 
@@ -74,11 +76,15 @@ f) De Navidad: Se otorgará este beneficio a todos los socios que estén afiliad
 
 g) Por catástrofe: Se otorgará este beneficio a los afiliados que lo soliciten a causa de los efectos de cualquier fenómeno de la naturaleza, tales como terremoto, maremoto, inundación u otro evento calificado; o por cualquier otra situación imprevista y que cause grave daño personal o material al afiliado o su grupo familiar, calificada por el Consejo Administrativo.
 
+h) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieran afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio.
+
 #### Artículo 5°
 
-El Departamento en la medida que su presupuesto lo permita podrá destinar recursos para el fomento, organización y financiamiento de programas de acción social que contribuyan, directa o indirectamente, a satisfacer las necesidades culturales, educativas, de capacitación personal, recreativas, deportivas y sociales de los afiliados y sus cargas familiares. El Consejo Administrativo determinará anualmente el monto de los recursos que se destinarán para estos efectos.
+El Departamento en la medida que su presupuesto lo permita podrá destinar recursos para el fomento, organización y financiamiento de programas de acción social que contribuyan, directa o indirectamente a satisfacer las necesidades culturales, educativas, de capacitación personal, recreativas, deportivas y sociales de los afiliados y sus cargas familiares. Asimismo, podrá concurrir al financiamiento de actividades de difusión del Departamento de Bienestar y de celebración de Navidad y Fiestas Patrias. El Consejo Administrativo determinará anualmente el monto de los recursos que se destinarán para estos efectos.
 
-El Departamento de Bienestar del Poder Judicial podrá, además, administrar bienes raíces que le sean donados, transferidos o entregados en concesión de uso gratuito; establecer campos deportivos, colonias de veraneo, refugios, casas de huéspedes u otras instalaciones que le sean asignadas para el uso de sus beneficiarios, quedando expresamente excluida de dicha facultad la de contratar personal, la que corresponderá a la respectiva institución. Asimismo, el Departamento podrá financiar con cargo a sus propios recursos la implementación o mejoramiento de los bienes raíces que le sean donados, transferidos o entregados en concesión de uso gratuito.
+El Departamento de Bienestar del Poder Judicial podrá, además, administrar bienes raíces que le sean donados, transferidos o entregados en concesión o en uso gratuito a la Corporación. Administrativa del Poder Judicial; establecer campos deportivos, colonias de veraneo, refugios, casas de huéspedes u otras instalaciones que le sean asignadas para el uso de sus beneficiarios, dichas instalaciones constituirán servicios dependientes del Departamento de Bienestar, quedando expresamente excluida de esta facultad, la de contratar personal, la que corresponderá a la Corporación Administrativa del Poder Judicial. La administración de estos bienes por parte del Departamento de Bienestar se hará luego que así se establezca por el acto formal correspondiente, documento que también establecerá que dicho Departamento percibirá los excedentes que pudiesen generarse por dicha administración.
+
+El Departamento de Bienestar podrá explotar comercialmente sus Servicios Dependientes, permitiendo su uso por terceras personas sin que ello impida o perjudique la utilización preferente de dichas instalaciones por parte de los afiliados y sus cargas familiares.
 
 #### Artículo 6°
 
@@ -108,7 +114,7 @@ Para conceder un préstamo se deberá considerar, especialmente, las posibilidad
 
 La entrega de los dineros por préstamos se efectuará en forma nominativa.
 
-Para el otorgamiento de un préstamo, cualquiera sea su naturaleza, será requisito previo la constitución de un codeudor solidario que tenga la suficiente capacidad de pago de acuerdo a las pautas fijadas por el Consejo Administrativo y a las exigencias o restricciones referidas al límite de descuentos por planilla. Sin embargo, tratándose de préstamos de monto igual o superior a cincuenta unidades de fomento, se requerirá la constitución de dos codeudores solidarios.
+Para el otorgamiento de un préstamo, cualquiera sea su naturaleza, será requisito previo la constitución de un codeudor solidario que tenga la suficiente capacidad. de pago de acuerdo a las pautas fijadas por el Consejo Administrativo y a las exigencias o restricciones referidas al límite de descuentos por planilla. En el caso de afiliados que soliciten un nuevo préstamo inferior a cincuenta unidades de fomento, pero que sumado al saldo de el o los vigentes excedan de dicho monto, deberán presentar como codeudor del nuevo préstamo a un afiliado diferente al o los que estén garantizando los préstamos ya otorgados. Tratándose de préstamos de monto igual o superior a cincuenta unidades de fomento se requerirá la constitución de dos codeudores solidarios.
 
 Los codeudores solidarios deberán ser socios del Departamento de Bienestar. Y cumplir con los requisitos establecidos en los números 1º), 2º) y 4º) del inciso tercero precedente.
 
@@ -188,7 +194,13 @@ e) Con las sumas provenientes de herencias, legados, donaciones y erogaciones vo
 
 f) Con las comisiones que perciba en virtud de los convenios que celebre con terceros para el otorgamiento de beneficios a los afiliados;
 
-g) Con el aporte que anualmente se consulta en el Presupuesto del Poder Judicial, que éste aportará con sujeción a las normas legales y estatutarias vigentes, y h) Con los demás bienes o recursos que el Departamento obtenga a cualquier título.
+g) Con el aporte que anualmente se consulta en el Presupuesto del Poder Judicial, que éste aportará con sujeción a las normas legales y estatutarias vigentes,
+
+h) Con los excedentes generados por sus Servicios Dependientes.
+
+i) Con los recursos que se generen de la inversión en instrumentos que otorguen rentabilidad y
+
+j) Con los demás bienes o recursos que el Departamento obtenga a cualquier título.
 
 El Consejo Administrativo del Departamento fijará el monto de las cotizaciones que deben efectuar los afiliados dentro de los límites señalados en las letras b) y c) del inciso primero de este artículo, mediante acuerdo adoptado por la mayoría absoluta de sus integrantes, el que entrará en vigencia en la oportunidad que en el mismo se indique, la que a lo menos será de seis meses desde la fecha en que se adopte.
 
@@ -218,9 +230,17 @@ El derecho a solicitar los beneficios que conceda el departamento caducará lueg
 
 En el caso de los funcionarios que se acogen a jubilación, este plazo comenzará a regir desde la fecha en que se declare la calidad de tal, para los beneficios causados en el período comprendido entre esta fecha y la del cese de sus funciones.
 
+#### Artículo 13 bis
+
+Eventualmente y previa aprobación del Consejo Administrativo, parte de los fondos del Departamento podrán ser invertidos en instrumentos que otorguen rentabilidad, en conformidad a lo dispuesto en el artículo 3° del DF N° 1.056 de 1975, previa autorización del Ministerio de Hacienda y sólo respecto de los excedentes estacionales de caja según lo dispuesto en el artículo 2° del DL N° 1.263 de 1975. Lo anterior con la finalidad de obtener mayores recursos que permitan aumentar los fondos en beneficio de los afiliados. El monto de los fondos y la forma en que serán depositados serán determinados anualmente por el Consejo Administrativo.
+
 #### Artículo 14°
 
-Los afiliados tendrán derecho a percibir los beneficios médicos que el Departamento otorga desde la fecha de incorporación. Los demás beneficios, podrán ser solicitados una vez transcurridos 5 meses desde la incorporación, o dentro de los plazos especiales establecidos en el presente reglamento.
+Los afiliados tendrán derecho a percibir los beneficios médicos y el subsidio por catástrofe que el Departamento otorga desde la fecha de incorporación. Los demás beneficios, podrán ser solicitados un vez transcurridos 5 meses desde la incorporación, o dentro de los plazo especiales establecidos en el presente reglamento.
+
+#### Artículo 15°
+
+Los integrantes del Consejo Administrativo y de las Comisiones Zonales deberán abstenerse de intervenir en razón de sus funciones de consejeros en todos aquellos asuntos en que tengan interés personal, o su cónyuge, conviviente civil y sus parientes por consanguinidad o afinidad hasta el segundo grado inclusive.
 
 #### Artículo transitorio
 
