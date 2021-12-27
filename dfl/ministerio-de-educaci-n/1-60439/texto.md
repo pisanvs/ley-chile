@@ -1158,7 +1158,7 @@ Para todos los efectos legales, el feriado de los profesionales de la educación
 
 #### Artículo 41 bis
 
-Los profesionales de la educación con contrato vigente al mes de diciembre, tendrán derecho a que éste se prorrogue por los meses de enero y febrero o por el período que medie entre dicho mes y el día anterior al inicio del año escolar siguiente, siempre que el profesional de la educación tenga más de seis meses continuos de servicios para el mismo municipio o corporación educacional municipal.
+Los profesionales de la educación con contrato vigente al 1 de diciembre, tendrán derecho a que éste se prorrogue por los meses de enero y febrero o por el período que medie entre dicho mes y el día anterior al inicio del año escolar siguiente, siempre que el profesional de la educación tenga más de seis meses continuos de servicios para el mismo municipio o corporación educacional municipal y Servicios Locales de Educación Pública.
 
 #### Artículo 42
 
@@ -1442,7 +1442,7 @@ Un reglamento, que deberá dictarse en el plazo de 120 días contados desde la f
 
 Asimismo el reglamento establecerá los procedimientos para interponer los recursos contemplados en la ley, que les permitan a los profesionales de la educación ejercer su derecho a recurrir respecto de los resultados de su evaluación.
 
-Podrán eximirse del proceso de evaluación docente establecido en los incisos anteriores, los profesionales de la educación a quienes les falten tres años o menos para cumplir la edad legal para jubilar, siempre que presenten la renuncia anticipada e irrevocable a su cargo, la que se hará efectiva al cumplirse la edad legal de jubilación por el sólo ministerio de la ley. En todo caso, estos profesionales tendrán derecho a la indemnización establecida en el artículo 73 y quedarán sujetos a lo prescrito en el artículo 74.
+Podrán eximirse del proceso de evaluación docente establecido en los incisos anteriores, los profesionales de la educación a quienes les falten tres años o menos para cumplir la edad legal para jubilar. Con todo, estos profesionales quedarán sujetos a lo prescrito en los artículos 73, 73 bis y 74 o en la ley de incentivo al retiro que se encuentre vigente. No podrá eximirse del proceso de evaluación docente el profesional de la educación que continúe en funciones, una vez cumplida la edad legal para jubilar.
 
 Aquellos profesionales de la educación que se encuentren reconocidos en los tramos experto I o II, en el Sistema de Desarrollo Profesional Docente, estarán exceptuados de la evaluación de desempeño docente a que se refiere este artículo.
 

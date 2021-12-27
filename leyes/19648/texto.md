@@ -4,7 +4,7 @@ Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguient
 
 Proyecto de Ley:
 
-''Artículo único.- Concédese, por única vez, la calidad de titulares de la dotación docente dependiente de un mismo Municipio, Corporación Educacional Municipal o Servicio Local de Educación a los profesionales de la educación parvularia, básica o media que, al 31 de julio de 2018, se encontraren incorporados a ella en calidad de contratados y que se hayan desempeñado como docentes de aula en la misma durante, a lo menos, tres años continuos o cuatro años discontinuos, por un mínimo de veinte horas cronológicas de trabajo semanal. La titularidad de las horas a contrata operará sólo respecto de aquellas contratadas en aula y sus correspondientes horas no lectivas.''.
+''Artículo único.- Concédese, por única vez, la calidad de titulares de la dotación docente dependiente de un mismo Municipio, Corporación Educacional Municipal o Servicio Local de Educación a los profesionales de la educación parvularia, básica o media que, al 31 de julio de 2021, se encontraren incorporados a ella en calidad de contratados y que se hayan desempeñado como docentes en la misma durante, a lo menos, tres años continuos o cuatro años discontinuos, por un mínimo de veinte horas cronológicas de trabajo semanal.''.
 
 Y por cuanto el Congreso Nacional ha rechazado las observaciones formuladas por el Ejecutivo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
