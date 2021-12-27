@@ -1,0 +1,9 @@
+ADJUDICA CONCESIÓN ONEROSA DIRECTA DE INMUEBLES FISCALES EN LA REGIÓN METROPOLITANA DE SANTIAGO, AL "FONDO DE INFRAESTRUCTURA S.A."
+
+Mediante decreto exento Nº E-488, de 20 de diciembre de 2021, el Ministerio de Bienes Nacionales adjudicó en concesión onerosa directa, al "Fondo de Infraestructura S.A.", RUT Nº 76.984.428-7, los inmuebles fiscales correspondientes a oficinas, situadas en los pisos 2, 3, 4, 5, 6, 7, 8 y 15, con los bienes comunes de uso y goce exclusivo, y bodegas y estacionamientos en segundo y tercer subterráneo, ubicados en el Edificio "StgoDowntown Siete" o Torre 7, con acceso principal por Avenida Alameda Libertador Bernardo O'Higgins Nº 1449, comuna de Santiago, provincia de Santiago, Región Metropolitana de Santiago, cuya individualización, roles del Servicio de Impuestos Internos, inscripciones de dominio y superficies, son las señaladas en el citado decreto. La concesión se otorga por un plazo de 30 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la concesión será de UF 11.389,03.
+
+La concesión se otorga para destinar los inmuebles para la ejecución del proyecto ofertado, consistente en la habilitación, mantención y administración a través del arrendamiento de oficinas a instituciones públicas. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
