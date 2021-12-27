@@ -90,13 +90,15 @@ Premios por participación destacada en Juegos Suramericanos, Juegos Panamerican
 
 #### Artículo 9º
 
-Tendrán derecho a un premio los deportistas que, obtengan medalla de oro en los Juegos Suramericanos y los que obtengan medallas de oro, plata o bronce en Juegos Panamericanos, Juegos Parapanamericanos, Panamericanos Específicos, Juegos Olímpicos, Juegos Paralímpicos y Campeonatos Mundiales.
+Tendrán derecho a un premio los deportistas que obtengan medalla de oro en los Juegos Suramericanos; los que obtengan medalla de oro, plata o bronce en Juegos Panamericanos, Parapanamericanos, Panamericanos Específicos y Campeonatos Mundiales; y, los deportistas que obtengan medalla de oro, plata, bronce y diploma en Juegos Olímpicos y Paralímpicos.
 
 Se incluye en esta categoría de premios las participaciones grupales en deportes individuales, tales como natación, atletismo, remo, ciclismo y otros. En estos casos, el monto del estímulo individual, al igual que los premios correspondientes a los deportes colectivos, se dividirá en partes iguales para cada uno de los deportistas que integren el grupo o equipo.
 
 #### Artículo 10º
 
 Los montos a que ascenderán los premios establecidos en este párrafo serán los siguientes:
+
+> **Nota.** El numeral 2 del artículo único, Deporte, publicado el 27.12.2021, modifica la presente norma en el sentido de reemplazar el literal c), por el siguiente "c) Juegos Olímpicos y Paralímpicos:"
 
 ### Párrafo 3º
 
