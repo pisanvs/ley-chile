@@ -96,8 +96,6 @@ Puntaje para comunas del Catastro Nacional de Equipamiento Comunitario y Obras M
 
 7. Los recursos disponibles para efectuar la selección de proyectos, que incluyen el monto del subsidio más la Asistencia Técnica respectiva, se distribuirán regionalmente según lo señalado en la siguiente tabla:
 
-.
-
 Con estos montos se determinará el número de postulantes que deberán presentar las carpetas de sus proyectos al Serviu. También tendrán que presentar sus carpetas los postulantes de la lista de espera a que se refiere el segundo párrafo del numeral 2 del artículo 27 del DS Nº 27 (V. y U.), de 2016, que para las selecciones de este llamado incluirán todos los proyectos hábiles.
 
 Si una vez concluido el proceso señalado quedaren recursos disponibles, se podrá redistribuir o incrementar los recursos señalados en la tabla precedente total o parcialmente, mediante resoluciones dictadas al efecto.
