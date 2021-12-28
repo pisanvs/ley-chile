@@ -34,8 +34,6 @@ Resuelvo:
 
 4. El saldo de recursos por región para postular proyectos en los próximos procesos de selección de este llamado será de 2.248.219,81 Unidades de Fomento. Este monto no será regionalizado y se distribuirá según el número de postulantes de cada región. Además, dicho monto podría disminuir si se efectuaran complementos a esta selección con las regiones que han tenido problemas de inicio de obras de otros proyectos de eficiencia energética.
 
-> **Nota.** El numeral 1° de Resolución 154 Exenta, Vivienda, publicada el 12.05.2023, modifica la presente norma en el sentido de rectificar errores de digitación, respecto del monto otorgado a beneficiarias indicadas en la referida resolución, de acuerdo a lo indicado en tabla que tiene inserta.
-
 Anótese, publíquese en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
