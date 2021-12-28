@@ -688,18 +688,6 @@ Obligado al pago. La tarifa deberá ser pagada por el ocupante de la propiedad, 
 
 Prestación regulada. Todas aquellas prestaciones de carácter sanitario efectuadas por el operador que no se encuentren reguladas en esta ley y se provean con características monopólicas, serán tarificadas de conformidad con este Título y el reglamento.
 
-#### Artículo 64 bis
-
-Sin perjuicio de lo establecido en la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo primero del decreto ley N° 825, de 1974, para los efectos de esta ley, se considerará que los servicios sanitarios rurales que los operadores presten a sus asociados, cooperados o socios, no se encontrarán gravados con el Impuesto al Valor Agregado. Para estos efectos, los nuevos operadores deberán encontrarse inscritos o incorporados en el Registro de operadores de servicios sanitarios rurales al último día del mes anterior a que comiencen a prestar tales servicios. A aquellos operadores que ya se encuentren prestando dichos servicios se les aplicará este tratamiento tributario desde el mes siguiente a aquel en que se incorporen al Registro.
-
-Tampoco se encontrarán gravados con Impuesto al Valor Agregado los servicios sanitarios rurales prestados entre operadores o asociaciones de operadores, siempre que éstos respondan exclusivamente a garantizar la continuidad del servicio, en los términos de la letra b) del artículo 40.
-
-Sin perjuicio de lo anterior, se encontrarán exentas de Impuesto al Valor Agregado las prestaciones de servicios sanitarios rurales o la venta de agua potable a los Cuerpos de Bomberos o sus Compañías, a los establecimientos educacionales municipales de educación prebásica, básica y media, reconocidos por el Ministerio de Educación, y a los bienes raíces municipales.
-
-Durante el mes de enero de cada año, el Ministerio deberá informar al Servicio de Impuestos Internos la nómina de operadores incorporados en el Registro de operadores de servicios sanitarios rurales, inscritos al 31 de diciembre del año anterior.
-
-Las operaciones realizadas por los operadores de servicios sanitarios rurales distintas a las señaladas en este artículo se regirán por las reglas generales del Impuesto al Valor Agregado, atendiendo a su naturaleza.
-
 ## Título VI
 
 INSTITUCIONALIDAD
@@ -1050,17 +1038,17 @@ La presente ley entrará en vigencia al mes siguiente de la publicación del reg
 
 Los comités y cooperativas de agua potable rural que se encuentren prestando servicios a la entrada en vigencia de esta ley se entenderán titulares de sus respectivas licencias, por el solo ministerio de la ley. Sin embargo, dentro de los dos años siguientes a la entrada en vigencia del reglamento de esta ley, los comités y cooperativas de agua potable rural existentes deberán solicitar su inscripción en el registro de operadores de servicios sanitarios rurales, para lo cual deberán acreditar la vigencia de su personalidad jurídica y la efectividad de estar prestando el servicio. Además, deberán especificar el área que sirven.
 
-En caso de que los comités o cooperativas que se encuentren operando a la fecha de entrada en vigencia de esta ley no hayan ingresado al registro de operadores de servicios sanitarios rurales en el plazo señalado en el inciso precedente, la Subdirección podrá incorporarlos dentro del plazo de los dos años siguientes al 20 de noviembre de 2022, siempre que acrediten los requisitos establecidos en el inciso anterior. La Subdirección notificará esta actuación a los comités y cooperativas, quienes tendrán un plazo de treinta días para reclamar su disconformidad respecto a su incorporación al registro de operadores, en cuyo caso no se entenderán registrados. Transcurrido dicho plazo sin formular reclamo, se entenderá que aceptan su incorporación al registro. Lo anterior no obstará a que sean los propios comités o cooperativas quienes soliciten su inscripción, en cuyo caso la Subdirección podrá brindar asistencia y acompañamiento en este proceso, en cuanto sea necesario. Cumplido el plazo adicional establecido, los efectos de sus licencias quedarán suspendidos hasta que se haga efectivo su registro.
+En caso de que los comités o cooperativas que se encuentren operando a la fecha de entrada en vigencia de esta ley no ingresen al registro de operadores de servicios sanitarios rurales en el plazo señalado en el inciso precedente, por motivos justificados a juicio de la Subdirección, se otorgará un plazo adicional de doce meses para su inscripción. Pasado dicho plazo adicional los efectos de sus licencias quedarán suspendidos, hasta que se haga efectivo su registro.
 
-Efectuada la inscripción en el registro, el Ministerio formalizará conjuntamente la licencia de distribución de agua potable y la de recolección de aguas servidas. Sin perjuicio de lo anterior, la operación de la etapa de recolección será exigible sólo una vez que esté aprobada la puesta en operación de las redes por la Subdirección.
+Los comités y cooperativas registrados conforme a los incisos anteriores, dentro de los dos años siguientes a la entrada en vigencia del reglamento de esta ley o dentro del plazo adicional de doce meses a que alude el inciso precedente, según corresponda, deberán acreditar el cumplimiento de los demás requisitos legales y reglamentarios necesarios para obtener una licencia.
 
-El Ministro de Obras Públicas otorgará el reconocimiento de las licencias conforme a lo dispuesto en los incisos precedentes, mediante decreto del Ministerio de Obras Públicas expedido bajo la fórmula "por orden del Presidente de la República", el que se publicará en el sitio electrónico del Ministerio y se notificará a las partes interesadas mediante correo electrónico a la dirección informada por el operador.
+Requerida la inscripción en el registro, el Ministerio formalizará conjuntamente la licencia de distribución de agua potable y la de recolección de aguas servidas. Sin perjuicio de lo anterior, la operación de la etapa de recolección será exigible sólo una vez que esté aprobada la puesta en operación de las redes por la Subdirección.
 
-Dentro del plazo indicado en el inciso segundo no podrán otorgarse concesiones de servicios sanitarios regulados por el decreto con fuerza de ley Nº 382, del Ministerio de Obras Públicas, promulgado el año 1988 y publicado el año 1989, en las áreas que estén siendo servidas por comités o cooperativas al momento de entrada en vigencia de esta ley.
+El Ministro de Obras Públicas otorgará el reconocimiento de las licencias conforme a lo dispuesto en los incisos precedentes, mediante decreto del Ministerio de Obras Públicas expedido bajo la fórmula "por orden del Presidente de la República", el que se publicará en el sitio electrónico del Ministerio y se notificará por carta certificada al operador.
 
-Las actuaciones y resoluciones que se requiera notificar a los comités y cooperativas para efectos de esta ley, se entenderán realizadas al correo electrónico que informen para efectos de su incorporación al registro de operadores, mientras no sea aplicable lo señalado en el inciso primero del artículo 46 de la ley N° 19.880.
+Dentro del plazo indicado en el inciso primero no podrán otorgarse concesiones de servicios sanitarios regulados por el decreto con fuerza de ley Nº 382, del Ministerio de Obras Públicas, promulgado el año 1988 y publicado el año 1989, en las áreas que estén siendo servidas por comités o cooperativas al momento de entrada en vigencia de esta ley.
 
-Los comités y cooperativas que hayan ingresado al registro de operadores tendrán preferencia para acceder al régimen de inversión pública y subsidios señalados en la presente ley.
+En caso de no darse cumplimiento oportuno a lo indicado en los incisos primero y segundo de este artículo, el Ministerio de Obras Públicas llamará a licitación de licencia.
 
 #### Artículo tercero
 
@@ -1068,11 +1056,9 @@ Los municipios que al momento de entrar en vigencia esta ley operen servicios de
 
 #### Artículo cuarto
 
-Para aquellos operadores clasificados en los segmentos Mediano o Mayor, según el artículo 70, a quienes hayan ingresado conforme a lo dispuesto en el inciso segundo del artículo segundo transitorio, la primera fijación tarifaria deberá efectuarse dentro del período de cinco años contado desde el 20 de noviembre de 2024, de conformidad al procedimiento establecido en esta ley y su reglamento. Para efectos de lo indicado anteriormente, la Superintendencia definirá, mediante resolución dictada a más tardar en el mes de noviembre del año 2023, un calendario regional de fijación tarifaria. La Subdirección de Servicios Sanitarios Rurales comunicará treinta días antes el listado oficial de licenciatarios clasificados en dichos segmentos.
+Para aquellos operadores a los que se haya otorgado licencia conforme a lo dispuesto en el inciso segundo del artículo segundo transitorio, la primera fijación tarifaria deberá efectuarse de conformidad al procedimiento establecido en esta ley y su reglamento. La primera fijación tarifaria será efectuada por la Superintendencia dentro del período de cinco años contado desde el 20 de noviembre del 2023. Para efectos de lo indicado anteriormente, la Superintendencia definirá, mediante resolución dictada dentro del segundo año de la entrada en vigencia de la ley, un calendario regional de fijación tarifaria.
 
-Respecto a los incrementos de tarifas que resulten de la primera fijación para los operadores que sean comités o cooperativas, el Ministerio de Obras Públicas deberá dictar hasta el 20 de noviembre de 2024 un reglamento que establezca el mecanismo de aplicación de tarifas, el que deberá ser gradual y progresivo durante el período de cinco años de vigencia de las mismas.
-
-Tratándose de aquellos operadores clasificados en el segmento Menor, según el artículo 70, la primera fijación tarifaria se iniciará por la Superintendencia una vez transcurrido el período de tres años contado desde el 20 de noviembre de 2024 para el caso de aquellos operadores que cuenten con más de 150 arranques, o cinco años contados desde igual fecha para el caso de aquellos operadores que cuenten con menos de 150 arranques, al momento de la publicación de esta ley.
+Respecto de los operadores que obtengan su licencia en el período intermedio, se aplicará el nivel tarifario que les corresponda, por el período que reste del ciclo tarifario que esté en curso.
 
 Con todo, a partir de la fecha de entrada en vigencia de la presente ley, en tanto no entre en vigencia la primera fijación tarifaria referida, los precios que podrán cobrar los servicios de agua potable y saneamiento rural y demás cobros sujetos a fijación de precios, de acuerdo a lo señalado en esta ley, serán los vigentes a dicha fecha con los reajustes o modificaciones que se establezcan mediante resolución fundada de la Subdirección, a proposición de los servicios sanitarios rurales.
 
@@ -1090,11 +1076,9 @@ Los comités de agua potable rural que se conviertan en cooperativas, las existe
 
 #### Artículo séptimo
 
-En el mismo plazo indicado en el inciso segundo del artículo segundo transitorio, la Subdirección de Servicios Sanitarios Rurales implementará un programa de regularización de obras y derechos de agua, de asistencia para la obtención de licencias, y de valoración técnica de los activos de los comités y cooperativas.
+En el mismo plazo indicado en el artículo segundo transitorio, la Subdirección de Servicios Sanitarios Rurales implementará un programa de regularización de obras y derechos de agua, de asistencia para la obtención de licencias, y de valoración técnica de los activos de los comités y cooperativas.
 
 En igual plazo, la Subdirección podrá asistir a los comités en el proceso de transferencia de los bienes y derechos que les traspasen las concesionarias de servicios sanitarios, en cumplimiento de los compromisos y acuerdos anteriores.
-
-Durante el período a que se refiere el inciso segundo del artículo segundo transitorio, la Subdirección realizará un proceso de capacitación y acompañamiento de los comités y cooperativas para la implementación de la ley. Por su parte, las capacitaciones que deba efectuar la Superintendencia en las materias de su competencia señaladas en esta ley deberá coordinarlas con la Subdirección.
 
 #### Artículo octavo
 
@@ -1136,11 +1120,11 @@ tercero.- Los actuales operadores que adquieran las licencias indefinidas, por e
 
 cuarto.- La Subdirección de Servicios Sanitarios Rurales iniciará sus funciones a partir de la entrada en vigencia de esta ley, salvo lo dispuesto en el artículo 81, de acuerdo al siguiente cronograma:
 
-a) La visación de proyectos de agua potable correspondientes a iniciativas de inversión, financiadas por otros organismos públicos, continuará siendo realizada por dichas entidades hasta el 20 de noviembre de 2023.
+a) La visación de proyectos de agua potable correspondientes a iniciativas de inversión, financiadas por otros organismos públicos, continuará siendo realizada por dichas entidades durante el primer año de vigencia de esta ley.
 
-b) La visación de proyectos de tratamiento y recolección de aguas servidas, para iniciativas financiadas por otros organismos públicos, continuará siendo realizada por dichas entidades hasta el 20 de noviembre de 2023.
+b) La visación de proyectos de tratamiento y recolección de aguas servidas, para iniciativas financiadas por otros organismos públicos, continuará siendo realizada por dichas entidades hasta cumplido el segundo año de vigencia de la ley.
 
-c) El artículo 81 será aplicable plenamente a partir del 20 de noviembre de 2023.
+c) El artículo 81 será aplicable plenamente a partir del tercer año de vigencia de la ley.
 
 #### Artículo decimo
 
@@ -1176,21 +1160,11 @@ d. Los cambios de grado que se produjeren por efecto del encasillamiento no ser�
 
 #### Artículo decimo
 
-noveno.- Los consejos consultivos a que se refiere el artículo 68 sesionarán por primera vez dentro del trimestre siguiente a la primera elección de sus representantes. En todo caso, la Subdirección deberá efectuar los llamados para las elecciones de los Consejos Consultivos Regionales a más tardar durante el año 2023, y para el Consejo Consultivo Nacional a más tardar el año 2024. Tratándose de los Consejos Consultivos Regionales, la Subdirección, con la finalidad de avanzar en forma progresiva en su implementación, deberá establecer un calendario de inicio del proceso eleccionario para las distintas regiones, el que se comunicará a los comités y cooperativas con una anticipación no inferior a sesenta días corridos. Tratándose del Consejo Consultivo Nacional, el inicio del proceso eleccionario deberá ser comunicado por la Subdirección con una anticipación no inferior a noventa días corridos. En ambos casos, estos plazos se contarán desde la publicación que señala el inciso siguiente.
+noveno.- El Consejo Consultivo al que se refiere el artículo 68 sesionará por primera vez dentro del plazo de dos años contado desde la entrada en vigencia de esta ley.".
 
-La Subdirección deberá notificar el inicio del proceso eleccionario de los consejos consultivos a que se refiere el artículo 68 mediante una publicación extractada que contenga los antecedentes necesarios para informar de éste, la que se efectuará, por una sola vez, en un diario de circulación nacional y en diarios de circulación regional en aquellas regiones en que exista dicho medio. Los mismos antecedentes deberán ser notificados a los comités y cooperativas que se hayan incorporado en el registro de operadores, en los plazos a que se refiere el inciso anterior, según corresponda, mediante correo electrónico dirigido a la dirección informada por éstos para su registro. Lo anterior será sin perjuicio de las demás medidas de difusión que deberá adoptar la Subdirección, conforme al reglamento.
+Artículo vigésimo.- La Superintendencia ejercerá las facultades fiscalizadoras establecidas en el artículo 85, que dicen relación con velar por el cumplimiento por parte de los entes fiscalizados, de las disposiciones legales y reglamentarias y normas técnicas, instrucciones, órdenes y resoluciones que se dicten relativas a la prestación de servicios sanitarios en el ámbito rural y la aplicación de las sanciones en caso de incumplimiento, a partir del 20 de noviembre del 2022, debiendo, en el mismo plazo, dictar los manuales de fiscalización que establezcan los procedimientos y criterios a aplicar por los fiscalizadores.
 
-Artículo vigésimo.- La Superintendencia ejercerá las facultades fiscalizadoras establecidas en el artículo 85, que dicen relación con velar por el cumplimiento, por parte de los entes fiscalizados, de las disposiciones legales y reglamentarias y normas técnicas, instrucciones, órdenes y resoluciones que se dicten relativas a la prestación de servicios sanitarios en el ámbito rural y la aplicación de las sanciones en caso de incumplimiento, conforme al siguiente calendario y a la clasificación dispuesta en el artículo 70:
-
-a) A partir del 20 de noviembre de 2024, para los operadores clasificados en el segmento Mayor;
-
-b) A partir del 20 de noviembre de 2025, para los operadores clasificados en el segmento Mediano, y
-
-c) A partir del 20 de noviembre de 2027, respecto de operadores clasificados en el segmento Menor.
-
-En los mismos plazos, la Superintendencia deberá dictar los manuales de fiscalización que establezcan los procedimientos y criterios a aplicar por los fiscalizadores, los que deberán ser fácilmente comprensibles por los usuarios y operadores, conforme a su clasificación.
-
-Mientras no se cumplan los plazos señalados en el inciso primero, la Superintendencia podrá realizar labores de preparación, tales como visitas preventivas, de diagnóstico de funcionamiento, capacitaciones o reuniones, en coordinación con la Subdirección, para los efectos de asegurar el cumplimiento de los fines y adecuada implementación de la ley.
+Exceptúase de lo dispuesto en el inciso anterior el ejercicio, por parte de la Superintendencia, de las facultades de fiscalización de situaciones de emergencia y la atención de reclamos de los usuarios derivados de dichas situaciones, como también la de requerir información a los entes fiscalizados que fuere necesaria para el ejercicio de sus funciones.
 
 Artículo vigésimo primero.- La obligación de otorgamiento de la factibilidad por parte de los servicios sanitarios rurales, establecida en el artículo 40, se aplicará a partir del segundo año de vigencia de la ley para los operadores de servicios clasificados por la Subdirección de Servicios Sanitarios Rurales como mayores y medianos, y a partir del tercer año para los operadores de servicios clasificados como menores.
 
