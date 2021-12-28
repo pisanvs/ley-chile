@@ -636,7 +636,19 @@ Bajo condiciones de operación normal no debe existir ruido desde las pastillas 
 
 d) Sistema de transmisión:
 
-El conjunto transmisión - diferencial deberá garantizar un arranque en pendiente de, al menos, 20% y una velocidad de 0 a 20 km/h en un tiempo inferior a 10 segundos, bajo una condición de máxima carga posible del vehículo (Gross Vehicle Weight - GVW).
+d.1) El sistema de transmisión de los buses deberá ser de tipo automática.
+
+d.2) El conjunto transmisión - diferencial deberá garantizar un arranque en pendiente de, al menos, 20% y una velocidad de 0 a 20 km/h en un tiempo inferior a 10 segundos, bajo una condición de máxima carga posible del vehículo (Gross Vehicle Weight - GVW).
+
+d.3) La transmisión de los buses deberá cumplir con las siguientes especificaciones mínimas:
+
+- La transmisión debe tener control electrónico.
+
+- Los vehículos dotados de motor de combustión interna deberán estar equipados con un retardador, pudiendo ser mecánico o hidráulico, con comando de activación electrónico.
+
+- Sistema de neutro en las paradas.
+
+- El mando debe estar en el puesto del conductor.
 
 e) Posición del motor:
 
