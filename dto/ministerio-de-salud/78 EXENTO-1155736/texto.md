@@ -28,9 +28,9 @@ Decreto:
 
 #### Artículo 1
 
-Determínase que la especialidad de medicina familiar dará derecho, durante el año 2021, a recibir la asignación de estímulo por competencias profesionales que concede el artículo 8° de la ley Nº 20.816.
+Determínase que la especialidad de medicina familiar dará derecho, durante el año 2021, a recibir la asignación de estímulo por competencias profesionales que concede el artículo 8º de la ley Nº 20.816.
 
-Las entidades administradoras de salud municipal que se indican a continuación, concederán dicha asignación a los médicos cirujanos que cuenten con esta especialidad, para lo que contarán con los siguientes recursos para ello, en atención al número de profesionales y de horas semanales contratadas, conforme a continuación se indica:
+Las entidades administradoras de salud municipal que se indican a continuación, concederán dicha asignación a los médicos cirujanos que cuenten con esta especialidad, para lo que contar�n con los siguientes recursos para ello, en atención al número de profesionales y de horas semanales contratadas, conforme lo que a continuación se indica:
 
 .
 
