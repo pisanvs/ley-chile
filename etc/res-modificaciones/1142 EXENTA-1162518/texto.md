@@ -28,9 +28,13 @@ Resolución:
 
 2. Establécese que la resolución exenta N° 316 (V. y U.), de 2021, se mantendrá vigente en todo aquello que no ha sido modificado por la presente resolución.
 
-3. Apruébanse las nóminas de postulantes seleccionados correspondientes al mes de junio de 2021, del llamado nacional dispuesto en el resuelvo 1 de la resolución exenta N° 316 (V. y U.), de 2021, del Programa de Subsidio de Arriendo de Vivienda regulado por el DS N° 52 (V. y U.), de 2013, en particular según lo establecido en su artículo 27, nóminas que se entenderán formar parte integrante de esta resolución, y fíjase en 13.343 el número de postulantes seleccionados de todo el país, los que se distribuyen regionalmente de acuerdo a la siguiente tabla:
+3. Apruébanse las nóminas de postulantes seleccionados correspondientes al mes de junio de 2021, del llamado nacional dispuesto en el resuelvo 1 de la resolución exenta N° 316 (V. y U.), de 2021, del Programa de Subsidio de Arriendo de Vivienda regulado por el DS N° 52 (V. y U.), de 2013, en particular según lo establecido en su artículo 27, nóminas que se entenderán formar parte integrante de esta resolución, y fíjase en 13.338 el número de postulantes seleccionados de todo el país, los que se distribuyen regionalmente de acuerdo a la siguiente tabla:
 
-4. El monto de recursos comprometidos en la selección de postulantes que por este acto se aprueba, del total destinado al financiamiento del llamado en condiciones especiales dispuesto en el resuelvo 16 de la resolución exenta N° 316 (V. y U.), de 2021, del Programa de Subsidio de Arriendo de Vivienda, es de 277.280,33 Unidades de Fomento, y el remanente para los siguientes seleccionados, es de 344.174,95 Unidades de Fomento, conforme lo indica en la siguiente tabla:
+.
+
+4. El monto de recursos comprometidos en la selección de postulantes que por este acto se aprueba, del total destinado al financiamiento del llamado en condiciones especiales dispuesto en el resuelvo 16 de la resolución exenta N° 316 (V. y U.), de 2021, del Programa de Subsidio de Arriendo de Vivienda, es de 277.196,54 Unidades de Fomento, y el remanente para los siguientes seleccionados, es de 338.996,47 Unidades de Fomento, conforme lo indica en la siguiente tabla:
+
+.
 
 (1) Monto establecido en el resuelvo 16 de la resolución exenta citada en el Visto c).
 

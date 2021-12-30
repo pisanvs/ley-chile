@@ -22,9 +22,11 @@ c) Los correos electrónicos de fecha 29 de julio y 3 de agosto de 2021, del Jef
 
 Resolución:
 
-1. Apruébanse las nóminas de postulantes seleccionados correspondientes al mes de julio de 2021, del llamado nacional dispuesto en el resuelvo 1. de la resolución exenta Nº 316, de este Ministerio, de 2021, del Programa de Subsidio de Arriendo de Vivienda regulado por el DS Nº 52 (V. y U.), de 2013, en particular según lo establecido en su artículo 27, nóminas que se entenderán formar parte integrante esta resolución, y fíjase en 9.515 el número de postulantes seleccionados de todo el país, los que se distribuyen regionalmente de acuerdo a la siguiente tabla:
+1. Apruébanse las nóminas de postulantes seleccionados correspondientes al mes de julio de 2021, del llamado nacional dispuesto en el resuelvo 1. de la resolución exenta Nº 316, de este Ministerio, de 2021, del Programa de Subsidio de Arriendo de Vivienda regulado por el DS Nº 52 (V. y U.), de 2013, en particular según lo establecido en su artículo 27, nóminas que se entenderán formar parte integrante esta resolución, y fíjase en 9.513 el número de postulantes seleccionados de todo el país, los que se distribuyen regionalmente de acuerdo a la siguiente tabla:
 
-2. El monto de recursos comprometidos en la selección de postulantes que por este acto se aprueba, del total destinado al financiamiento del llamado en condiciones especiales dispuesto en el resuelvo 16. de la resolución exenta Nº 316, de este Ministerio, de 2021, del Programa de Subsidio de Arriendo de Vivienda, es de 198.759,80 Unidades de Fomento, y el remanente para los siguientes seleccionados, es de 145.415,15 Unidades de Fomento, conforme lo indica en la siguiente tabla:
+.
+
+2. El monto de recursos comprometidos en la selección de postulantes que por este acto se aprueba, del total destinado al financiamiento del llamado en condiciones especiales dispuesto en el resuelvo 16. de la resolución exenta Nº 316, de este Ministerio, de 2021, del Programa de Subsidio de Arriendo de Vivienda, es de 198.727,33 Unidades de Fomento, y el remanente para los siguientes seleccionados, es de 140.269,14 Unidades de Fomento, conforme lo indica en la siguiente tabla:
 
 .
 
