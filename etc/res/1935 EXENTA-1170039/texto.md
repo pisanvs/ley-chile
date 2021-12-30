@@ -66,11 +66,11 @@ e) Certificado de Número, y Certificado de Informes Previos, emitido por la Dir
 
 f) Informe técnico del Serviu, relativo a las condiciones del terreno, incluyendo una descripción de su topografía, de las condiciones geotécnicas, de las servidumbres y/o gravámenes si existiesen, y en general de condiciones que pudieran afectar el desarrollo posterior del proyecto, indicando expresamente que el terreno cuenta con aptitud técnica y jurídica para su desarrollo, conforme a las disposiciones del presente llamado.
 
-g) Comprobante de ingreso de solicitud de aprobación de permiso de anteproyecto a la Dirección de Obras Municipales respectiva, de acuerdo a lo dispuesto en la letra b), del artículo 10, del DS Nº 49 (V. y U.), de 2011. Si el proyecto considera más de un predio, el anteproyecto deberá considerar la futura fusión de éstos y deberá acreditar la factibilidad de desarrollar el proyecto producida la fusión.
-
-h) Informe de localización del terreno, donde conste el cumplimiento de las distancias para el cálculo del puntaje a que alude la letra b. del punto 8.1 de esta resolución. En caso de no incluirse este informe no se otorgará puntaje por este concepto.
+g) Informe de localización del terreno, donde conste el cumplimiento de las distancias para el cálculo del puntaje a que alude la letra b. del punto 8.1 de esta resolución. En caso de no incluirse este informe no se otorgará puntaje por este concepto.
 
 Los restantes antecedentes podrán ser ingresados una vez seleccionado el proyecto, de acuerdo a lo dispuesto en el artículo 10 del DS Nº 49 (V. y U.), de 2011.
+
+Con todo, en el caso de los documentos indicados en las letras c), d) y e), Serviu podrá presentar el comprobante de solicitud en trámite, según corresponda.
 
 ### 5. Financiamiento:
 
