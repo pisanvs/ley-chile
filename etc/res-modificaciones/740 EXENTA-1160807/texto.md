@@ -34,9 +34,13 @@ Resolución:
 
 2. Establécese que la resolución exenta N° 536 (V. y U.), de 2021, se mantendrá vigente en todo aquello que no ha sido modificado por la presente resolución.
 
-3. Apruébanse las nóminas de postulantes seleccionados correspondientes al mes de mayo de 2021, del llamado nacional dispuesto en el número 1 de la resolución exenta N° 316, de este Ministerio, de 2021, del Programa de Subsidio de Arriendo de Vivienda regulado por el DS N° 52 (V. y U.), de 2013, en particular según lo establecido en su artículo 27, las nóminas que se entenderán formar parte integrante de esta resolución, y fíjase en 11.296 el número de postulantes seleccionados de todo el país, los que se distribuyen regionalmente de acuerdo a la siguiente tabla:
+3. Apruébanse las nóminas de postulantes seleccionados correspondientes al mes de mayo de 2021, del llamado nacional dispuesto en el número 1 de la resolución exenta N° 316, de este Ministerio, de 2021, del Programa de Subsidio de Arriendo de Vivienda regulado por el DS N° 52 (V. y U.), de 2013, en particular según lo establecido en su artículo 27, las nóminas que se entenderán formar parte integrante de esta resolución, y fíjase en 11.295 el número de postulantes seleccionados de todo el país, los que se distribuyen regionalmente de acuerdo a la siguiente tabla:
 
-4. El monto de recursos comprometidos en la selección de postulantes que por este acto se aprueba, del total destinado al financiamiento del llamado en condiciones especiales dispuesto en el número 16 de la resolución exenta N° 316, de este Ministerio, de 2021, del Programa de Subsidio de Arriendo de Vivienda, es de 233.596,72 Unidades de Fomento, y el remanente para los siguientes seleccionados, es de 621.455,28 Unidades de Fomento, conforme lo indica en la siguiente tabla:
+.
+
+4. El monto de recursos comprometidos en la selección de postulantes que por este acto se aprueba, del total destinado al financiamiento del llamado en condiciones especiales dispuesto en el número 16 de la resolución exenta N° 316, de este Ministerio, de 2021, del Programa de Subsidio de Arriendo de Vivienda, es de 233.578,99 Unidades de Fomento, y el remanente para los siguientes seleccionados, es de 616.193,01 Unidades de Fomento, conforme lo indica en la siguiente tabla:
+
+.
 
 5. Publíquese en un periódico de circulación nacional y en el sitio web de este Ministerio, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de postulantes seleccionados conforme al número 3 de esta resolución, las que deberán contener a lo menos el puntaje y el nombre de cada postulante beneficiado con su respectiva cédula de identidad y exhíbanse dichas nóminas en las oficinas de los Serviu.
 

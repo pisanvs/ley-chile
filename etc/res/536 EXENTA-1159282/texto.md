@@ -22,9 +22,11 @@ c) Los correos electrónicos de fecha 4 de mayo de 2021, del Jefe de División d
 
 Resolución:
 
-1. Apruébanse las nóminas de postulantes seleccionados correspondientes al mes de abril de 2021, del llamado nacional dispuesto en el número 1 de la resolución exenta Nº 316, de este Ministerio, de 2021, del Programa de Subsidio de Arriendo de Vivienda regulado por el DS Nº 52 (V. y U.), de 2013, en particular según lo establecido en su artículo 27, nóminas que se entenderán formar parte integrante de esta resolución, y fijase en 9.456 el número de postulantes seleccionados de todo el país, los que se distribuyen regionalmente de acuerdo a la siguiente tabla:
+1. Apruébanse las nóminas de postulantes seleccionados correspondientes al mes de abril de 2021, del llamado nacional dispuesto en el número 1 de la resolución exenta Nº 316, de este Ministerio, de 2021, del Programa de Subsidio de Arriendo de Vivienda regulado por el DS Nº 52 (V. y U.), de 2013, en particular según lo establecido en su artículo 27, nóminas que se entenderán formar parte integrante de esta resolución, y fijase en 9.452 el número de postulantes seleccionados de todo el país, los que se distribuyen regionalmente de acuerdo a la siguiente tabla:
 
-2. El monto de recursos comprometidos en la selección de postulantes que por este acto se aprueba, del total destinado al financiamiento del llamado en condiciones especiales dispuesto en el número 16 de la resolución exenta Nº 316, de este Ministerio, de 2021, del Programa de Subsidio de Arriendo de Vivienda, es de 194.948 Unidades de Fomento, y el remanente para los siguientes seleccionados, es de 855.052 Unidades de Fomento, conforme lo indica en la siguiente tabla:
+2. El monto de recursos comprometidos en la selección de postulantes que por este acto se aprueba, del total destinado al financiamiento del llamado en condiciones especiales dispuesto en el número 16 de la resolución exenta Nº 316, de este Ministerio, de 2021, del Programa de Subsidio de Arriendo de Vivienda, es de 194.852 Unidades de Fomento, y el remanente para los siguientes seleccionados, es de 849.772 Unidades de Fomento, conforme lo indica en la siguiente tabla:
+
+.
 
 (1) Monto establecido en el numeral 16 de la resolución exenta citada en el Visto c).
 
