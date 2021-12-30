@@ -168,13 +168,9 @@ c. Proyectos de ampliación de viviendas en copropiedad:
 
 20. Los recursos disponibles para efectuar la selección de proyectos serán los siguientes, los cuales fueron designados de acuerdo a lo indicado en el artículo 22 del DS Nº 27 (V. y U.), de 2016:
 
-.
-
 Los cuales se dispondrán de la siguiente manera para las distintas postulaciones:
 
 Segunda Selección:
-
-.
 
 Los cuales se dispondrán de la siguiente manera para las distintas postulaciones:
 
@@ -185,6 +181,8 @@ De existir saldos luego de la selección, estos quedarán a disposición de nive
 A los recursos anteriormente autorizados, agréguese 54.050,00 UF, los cuales serán distribuidos en ambas selecciones definidas por este llamado regional.
 
 De existir saldos, luego de realizar la selección, estos recursos pasarán al segundo cierre del presente llamado.
+
+De quedar saldos pendientes luego de la selección del primer cierre, pasarán al segundo cierre del llamado de condominios. La selección de ambos cierres se realizará por estricto orden de prelación.
 
 21. En todo aquello no regulado por el presente llamado, se aplicarán las disposiciones contenidas en el decreto supremo Nº 27 (V. y U.), de 2016.
 
