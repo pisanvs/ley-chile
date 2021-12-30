@@ -1,0 +1,5 @@
+FIJA NUEVA FECHA DE AUDIENCIA PARA ENTREGA DE LAS OFERTAS TÉCNICAS Y ECONÓMICAS DEL PROCESO DE OTORGAMIENTO Y RENOVACIÓN DE PERMISOS DE OPERACIÓN ABIERTO MEDIANTE RESOLUCIÓN Nº432 EXENTA, DE 2020
+
+Por resolución exenta Nº 755, de 23 de diciembre de 2021, la Superintendencia de Casinos de Juego fija nueva fecha de audiencia para entrega de las ofertas técnicas y económicas del proceso de otorgamiento y renovación de permisos de operación abierto mediante resolución exenta Nº 432, de 2020. Se fija como fecha de entrega de las ofertas técnicas y económicas el viernes 7 de enero de 2022, a las 09:30 hrs., en el Hotel Gran Palace, situado en calle Huérfanos Nº 1178, comuna de Santiago, Región Metropolitana.
+
+Santiago, 23 de diciembre de 2021.- Vivien Villagrán Acuña, Superintendenta de Casinos de Juego.
