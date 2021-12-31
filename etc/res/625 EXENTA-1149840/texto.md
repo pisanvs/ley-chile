@@ -54,7 +54,7 @@ Para efectos de la presente resolución, se entenderá por:
 
 - **e)** de la presente resolución, según sea el caso. Así, la empresa beneficiaria podrá tratarse de un contribuyente de la primera categoría que tribute, entre otros casos, conforme a cualquiera de los regímenes del artículo 14 de la Ley sobre Impuesto a la Renta (LIR) o al régimen de renta presunta establecido en el artículo 34 de la LIR, o bien de un pequeño contribuyente conforme al artículo 22 de la LIR.
 
-(vi) IFE Laboral: Bonificación mensual que se otorga al trabajador dependiente, previamente cesante, que comienza a prestar servicios bajo vínculo de dependencia y subordinación para con un nuevo empleador, en los términos del artículo 7º del Código del Trabajo, dentro de la época fijada en esta resolución. Esta bonificación se otorgará desde la fecha en que se conceda y se devengará, como máximo, hasta el mes de diciembre de 2021. Con todo, los trabajadores que sean beneficiarios de bonificaciones otorgadas respecto de postulaciones realizadas hasta el 14 de septiembre de 2021 inclusive, este beneficio se concederá por hasta 6 meses.
+(vi) IFE Laboral: Bonificación mensual que se otorga al trabajador dependiente, previamente cesante, que comienza a prestar servicios bajo vínculo de dependencia y subordinación para con un nuevo empleador, en los términos del artículo 7º del Código del Trabajo, dentro de la época fijada en esta resolución. Esta bonificación se otorgará desde la fecha en que se conceda y se devengará, como máximo, hasta el 31 de diciembre de 2021, para el caso de bonificaciones concedidas respecto de postulaciones realizadas entre el 16 de septiembre y el 31 octubre, ambos de 2021. Tratándose de bonificaciones concedidas respecto de postulaciones realizadas a contar del 1º noviembre de 2021, el beneficio se otorgará por un máximo de hasta tres meses, y la fecha de devengo máxima del mismo será el 31 de marzo de 2022. Con todo, los trabajadores que sean beneficiarios de bonificaciones otorgadas respecto de postulaciones realizadas hasta el 14 de septiembre de 2021 inclusive, este beneficio se concederá por hasta 6 meses.
 
 (vii) Gran Empresa o Grandes Empresas: empresa beneficiaria cuya Planilla de Referencia está compuesta por 200 o más trabajadores con contrato vigente al mes de julio de 2020.
 
@@ -80,7 +80,7 @@ b. Época y forma de postulación al beneficio.
 
 Época de postulación: La fecha de inicio de la postulación al beneficio será el 25 de septiembre de 2020. En el caso de las Grandes Empresas, la época de postulación cerrará el 15 de septiembre de 2021, esta fecha inclusive.
 
-Respecto de las demás empresas, la Época de Postulación cerrará el 31 de diciembre de 2021, fecha esta última tras la cual no estarán habilitadas nuevas postulaciones a las bonificaciones de la Línea Emergencia Laboral Reactivación COVID-19.
+Respecto de las demás empresas, la Época de Postulación cerrará el 31 de diciembre de 2021, fecha esta última tras la cual no estarán habilitadas nuevas postulaciones.
 
 Forma de postulación: La empresa que quiera acceder a la Bonificación a la Retención y/o a la Bonificación a la Contratación deberá postular a través del sitio web www.subsidioalempleo.cl, activando sólo una de las bonificaciones contempladas en la Línea por un mismo trabajador. El sistema informático habilitado por el Servicio Nacional de Capacitación y Empleo ("Sence") le informará a la empresa postulante si cumple con los requisitos establecidos en la presente resolución y en el decreto Nº 28 para acceder a las bonificaciones, así como también los trabajadores de su dependencia que cumplen con los requisitos establecidos en la presente resolución.
 
@@ -104,7 +104,7 @@ El derecho al pago del beneficio por cada trabajador se suspenderá en el evento
 
 (ii) Si el trabajador causante del beneficio se encuentra gozando de licencia médica, cualquiera fuere el motivo. Esta circunstancia será verificada por el Sence conforme a lo señalado en el inciso segundo del artículo sexto del decreto Nº 28.
 
-El beneficio sólo podrá otorgarse, como máximo, hasta el mes de diciembre de 2021. Con todo, el período de otorgamiento de las bonificaciones otorgadas respecto de postulaciones efectuadas hasta el 15 de septiembre de 2021 inclusive, será de hasta 8 o 10 meses, según sea el caso, contados desde la fecha de su concesión, salvo en el caso de operar la suspensión por acto de autoridad, en cuyo caso los pagos se retomarán de acuerdo a lo señalado en el número (i) anterior.
+Las bonificaciones a la Retención y a la Contratación se devengarán, como máximo, hasta el mes de diciembre de 2021. Con todo, el período de devengo de las bonificaciones otorgadas respecto de postulaciones efectuadas hasta el 15 de septiembre de 2021 inclusive, será de hasta 8 o 10 meses, según sea el caso, contados desde la fecha de su concesión, salvo en el caso de operar la suspensión por acto de autoridad, en cuyo caso los pagos se retomarán de acuerdo a lo señalado en el número (i) anterior.
 
 (iii) Si, habiéndose concedido el beneficio a la empresa beneficiaria, ésta no declaró y no pagó íntegramente las cotizaciones de seguridad social del trabajador causante del beneficio dentro de plazo legal. En este caso, se suspenderá el beneficio y, por tanto, no se pagarán las bonificaciones correspondientes al o los meses en que se haya verificado dicha circunstancia, reanudándose el pago del beneficio, retroactivamente si correspondiere, una vez que se verifique la declaración y pago de la totalidad de las cotizaciones de seguridad social.
 
@@ -280,37 +280,21 @@ a. Valor de la bonificación.
 
 Conforme a lo dispuesto en el numeral 4. del literal c) del artículo tercero del decreto Nº 28, el monto de esta bonificación corresponderá al (i) 50% de la remuneración bruta mensual imponible del trabajador al mes de la postulación, no pudiendo exceder de $200.000 mensuales para el caso de hombres de entre 24 y menores de 55 años; y (ii) 60% de la remuneración bruta mensual imponible del trabajador al mes de la postulación, no pudiendo exceder de $250.000 mensuales, para el caso de una trabajadora; una persona menor de 24 años; hombres desde 55 años; o una persona con discapacidad, calificada y certificada conforme lo establece el Título II de la ley Nº 20.422 y sus reglamentos; o personas que sean beneficiarias de una pensión de invalidez de cualquier régimen previsional, cualquiera sea su tipo, al momento de la postulación.
 
-b. Plazo de otorgamiento de la bonificación.
+b. El plazo de otorgamiento de esta bonificación estará sujeto a las siguientes reglas:
 
-La bonificación se otorgará, como máximo, hasta el mes de diciembre de 2021. Con todo, para los trabajadores que sean beneficiarios de bonificaciones otorgadas respecto de postulaciones realizadas hasta el 14 de septiembre de 2021 inclusive, este beneficio se concederá por hasta 6 meses.
+(i) La bonificación otorgada respecto de una postulación realizada hasta el 14 de septiembre de 2021 inclusive, se otorgará por hasta 6 meses;
+
+(ii) La bonificación otorgada respecto de una postulación realizada entre el 15 de septiembre y hasta el 31 de octubre inclusive, ambos de 2021, se otorgará hasta el 31 de diciembre de 2021; y
+
+(iii) La bonificación otorgada respecto de una postulación realizada a partir del 1º de noviembre de 2021, se otorgará por un máximo de hasta 3 meses.
+
+Con todo, la fecha de devengo máximo del IFE Laboral será el 31 de marzo de 2022.
 
 c. Requisitos respecto del trabajador beneficiario.
 
 La bonificación podrá ser solicitada directamente por el trabajador dependiente que cumpla, copulativamente, con los siguientes requisitos:
 
-i. Ser mayor de 18 años, y haber comenzado a prestar servicios bajo vínculo de subordinación y dependencia para con un nuevo empleador a partir del 1º de agosto de 2021, en los términos del artículo 7º y siguientes del Código del Trabajo, conforme a lo establecido en el siguiente cuadro:
-
-Periodo de inicio de la Periodo de
-
-nueva relación laboral postulación
-
-al beneficio
-
-Entre el 1º de agosto Durante septiembre
-
-y 30 de septiembre
-
-Entre el 1º de septiembre Entre el 1º al
-
-y 31 de octubre 31 de octubre
-
-Entre el 1º de octubre Entre el 1º al
-
-y el 30 de noviembre 30 de noviembre
-
-Entre el 1º de noviembre Entre el 1º al
-
-y el 31 de diciembre 31 de diciembre
+i. Ser mayor de 18 años, y haber comenzado a prestar servicios bajo vínculo de subordinación y dependencia para con un nuevo empleador, en los términos del artículo 7º y siguientes del Código del Trabajo, conforme a lo establecido en el siguiente cuadro:
 
 El trabajador beneficiario sólo podrá postular a esta bonificación durante el periodo de postulación al beneficio que corresponda con el inicio de la nueva relación laboral (en adelante, "Ventanas de Postulación").
 
@@ -356,21 +340,21 @@ ii. Si, habiéndose concedido la bonificación, no se declaran y no pagan dentro
 
 iii. Si, habiéndose concedido la bonificación, el trabajador beneficiario se encuentre gozando de licencia médica, cualquiera fuere su causa. Esta circunstancia será verificada por el Sence conforme a lo señalado en el inciso segundo del artículo sexto del decreto Nº 28.
 
-En todo caso, este beneficio sólo podrá otorgarse, como máximo, hasta el mes de diciembre de 2021. Con todo, para los trabajadores que sean beneficiarios de bonificaciones otorgadas respecto de postulaciones realizadas hasta el 14 de septiembre de 2021 inclusive, este beneficio se concederá por hasta 6 meses, sin perjuicio de que pueda operar la suspensión por acto de autoridad, en cuyo caso los pagos se retomarán de acuerdo a lo señalado en el número i. anterior.
+Con todo, el plazo de otorgamiento del IFE Laboral estará sujeto a las reglas señaladas en el literal b. anterior.
 
 h. Término anticipado y extinción de la bonificación.
 
 El otorgamiento de esta bonificación se terminará anticipadamente en el evento que el trabajador beneficiario deje de prestar servicios bajo vínculo de subordinación y dependencia con el empleador por el cual postuló al beneficio.
 
-Sin perjuicio de lo señalado, el IFE Laboral se extinguirá, en todo caso, por el cumplimiento del plazo de otorgamiento.
+Por su parte, el IFE Laboral se extinguirá por el cumplimiento del plazo de otorgamiento, o por haber sido otorgado por el número máximo de meses de beneficio señalado en el romanillo (ii) del literal b. anterior.
 
 El trabajador beneficiario tendrá derecho al pago de la bonificación hasta la fecha en que se verifique alguna de las causales de término anticipado o de extinción, según sea el caso. El Sence determinará, vía instructivo, las reglas que permitan implementar esta disposición.
 
 Primera disposición transitoria:
 
-Los trabajadores que sean beneficiarios de la bonificación al nuevo empleo otorgadas respecto de postulaciones realizadas hasta el 14 de septiembre de 2021 inclusive, estarán afectos a los términos y condiciones previstas en la presente resolución para el IFE Laboral, salvo en lo que respecta al requisito de cesantía del numeral iii. del Título VI., que no aplicará para dichos beneficios, y en lo relativo al plazo de otorgamiento del beneficio, que será de hasta 6 meses contados desde su concesión.
+Los trabajadores que sean beneficiarios de la bonificación al nuevo empleo otorgadas respecto de postulaciones realizadas hasta el 14 de septiembre de 2021 inclusive, estarán afectos a los términos y condiciones previstas en la resolución vigente al 28 de septiembre de 2021, salvo en lo que respecta al requisito de cesantía del numeral iii. del Título VI., que no aplicará para dicha bonificación, y en lo relativo al plazo de otorgamiento, que será de hasta 6 meses contados desde su concesión.
 
-Durante los meses de septiembre de 2021 a diciembre de 2021, las bonificaciones al empleo que perciban los trabajadores mencionados en el párrafo anterior ascenderán a los montos del IFE Laboral. Si después de dicha fecha el plazo de otorgamiento del beneficio continuare vigente, el monto a pagar será aquel originalmente contemplado para la bonificación al nuevo empleo de conformidad a la normativa vigente con anterioridad al 15 de septiembre de 2021.
+Durante el periodo de septiembre de 2021 y hasta el 31 de diciembre, ambos de 2021, los trabajadores que sean beneficiarios de la bonificación al nuevo empleo otorgadas respecto de postulaciones realizadas hasta el 15 de septiembre de 2021 inclusive, tendrán derecho a percibir este beneficio con los montos del IFE Laboral. No obstante, si el plazo de otorgamiento de la bonificación continuare vigente después del 31 de diciembre de 2021, el monto a pagar será aquel originalmente contemplado para la bonificación al nuevo empleo de conformidad a la normativa vigente con anterioridad al 15 de septiembre de 2021.
 
 4º Requiérase al Sence para que adopte las medidas inmediatas y de carácter urgente para convocar a las postulaciones de la "Línea Emergencia Laboral Reactivación Covid-19", a contar del 25 de septiembre de 2020, verificar las condiciones de acceso a las bonificaciones, efectuar los pagos y constatar las causales de término anticipado o de suspensión establecidas en el presente acto administrativo y en general las establecidas en el decreto Nº 28, de 2011, del Ministerio del Trabajo y Previsión Social.
 
