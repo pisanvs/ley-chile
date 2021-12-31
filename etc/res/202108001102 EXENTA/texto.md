@@ -1,0 +1,13 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "PLANTA DE PRODUCCIÓN DE PELLET DE MADERA"
+
+De conformidad con lo dispuesto en el artículo 94 del DS Nº40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta Nº 202108001102 de fecha 23 de diciembre de 2021, el Director (S) Regional del Servicio de Evaluación Ambiental de la Región del Biobío, ha resuelto dar inicio a un proceso de participación ciudadana por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley Nº 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto: "Planta de Producción de Pellet de Madera", cuyo proponente es Eléctrica Nueva Energía S.A.
+
+El Proyecto se sitúa en la Región del Biobío, provincia de Concepción, comuna de Coronel. El Proyecto constituye una modificación a un proyecto que cuenta con Resolución de Calificación Ambiental que tiene como objetivo materializar la construcción y operación de una planta elaboradora de pellet de madera de una capacidad de 250.000 toneladas de pellet al año, para lo cual se requiere aproximadamente de 1.650.000 m3 de biomasa al año, proveniente de las faenas agroforestales e industria maderera, las cuales proveerán de aserrines, astillas, virutas de proceso, lampazos y tapas, entre otros.
+
+Adicionalmente, se contempla implementar un sistema de control de emisiones de material particulado para la Caldera Nº 3 existente y Calificada Ambientalmente favorable, a través de la implementación de un Precipitador Electrostático (PPT) que permitirá reducir las emisiones de forma permanente. El proyecto presenta una vida útil de 30 años.
+
+Para conocimiento de la comunidad, cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del DS Nº 40/2012 y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental, de 20 días hábiles, contados a partir del día hábil siguiente de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Biobío, ubicada en calle Lincoyán 145, Concepción, en horario de atención entre las 08:30 a 13:30, en días hábiles de lunes a viernes, así como también podrá acceder a ella a través del sitio web https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=0c/9c/8599c83d1c8a07f02b8e094b6f795c1d4b58.-
+
+Nelson Cortés Matamala, Director (S) Regional, Servicio de Evaluación Ambiental Región del Biobío.
