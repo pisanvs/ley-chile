@@ -44,6 +44,8 @@ De manera excepcional se permitirá el ingreso de extranjeros no residentes en e
 
 3. Pasos fronterizos terrestres de Futaleufú en la Región de Los Lagos; de Huemules y Jeinimeni en la Región de Aysén del General Carlos Ibáñez del Campo; y, de Integración Austral, en la Región de Magallanes y de la Antártica Chilena.
 
+4. Desde el 4 de enero de 2022, el paso fronterizo terrestre de Los Libertadores, en la Región de Valparaíso.
+
 La medida excepcional dispuesta en el inciso primero no afectará a los nacionales chilenos, ni a los extranjeros residentes de manera regular en el territorio nacional, que ingresen al territorio nacional, quienes de conformidad con los protocolos e instrucciones de la autoridad, podrán ingresar al país sometiéndose a los procedimientos sanitarios pertinentes por los lugares habilitados individualizados en el inciso anterior.
 
 Cualquier persona que ingrese al territorio nacional, deberá sujetarse a los protocolos e instrucciones de la autoridad y someterse a los procedimientos sanitarios que establezca la autoridad sanitaria.
@@ -117,6 +119,8 @@ No obstante lo dispuesto en el artículo primero, dispóngase la prohibición de
 #### Artículo quinto
 
 Las medidas dispuestas en este decreto regirán a contar de las 00:00 horas del 1 de diciembre de 2021 y hasta el 31 de diciembre de 2021, periodo que podrá ser modificado en atención a la evolución que experimente el brote de nuevo coronavirus (2019-NCOV), en el territorio nacional.
+
+> **Nota.** El artículo segundo del Decreto 320, Interior, publicado el 31.12.2021, dispone extender hasta el 31 de enero de 2022 la vigencia del presente decreto. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
 
 #### Artículo sexto
 
