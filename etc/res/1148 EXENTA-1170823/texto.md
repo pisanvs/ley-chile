@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.148, de 14 de diciembre de 2021, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, del inmueble correspondiente a Departamento Nº 202, ubicado en Pasaje 21 ½ Norte Block Nº 1351 del Sector "B" de la Población Las Américas VIII Etapa, de Talca, Rol Avalúo Nº 1423-30 comuna Talca y sus derechos cuotativos, deslindes según plano expropiaciones, propietario aparente Gómez Saavedra Brayan Esteban. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Álvaro Hernán Vergara Mejías, ingeniero civil industrial; y Claudia Poblete Ramírez, arquitecto, según informe de tasación evacuado con fecha 30 de septiembre de 2021, fijo monto provisional indemnización en $14.785.041.-, monto que conforme dispuesto en el artículo 5º del DL 2.186, de 1978, fue reajustado a la suma de $15.228.590.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
