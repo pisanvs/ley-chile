@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 1.977 de fecha 16 de diciembre de 2021, del Serviu IV Región de Coquimbo, se ordenó expropiar parcialmente, por causa de utilidad pública, para la ejecución del proyecto "Mejoramiento Vías de Evacuación Localidades Costeras, Región de Coquimbo", conforme al artículo 51 ley 16.391 y DL 2186/78, el inmueble singularizado como Lote 3, en plano de expropiación, ubicado en Est Los Choros, comuna de La Higuera, rol de avalúo Nº 49-13, de aparente dominio de Comunidad Agrícola Los Choros, superficie aprox de 1694,91 m2. Comisión de Peritos conformada por profesionales Jaime Jurgens Bittner, Francesca Vives Figueroa y Eduardo Tabilo González, según informe de fecha 29 de octubre de 2021, fijó indemnización provisional en 340,677 UF, pagadero al contado.-
+
+Javier Vega Vilches, Director (S), Serviu Región de Coquimbo.
