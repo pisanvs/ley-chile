@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.415, 17 de diciembre de 2021, Serviu Región del Biobío ordenó expropiación total de terreno y total de edificación de un inmueble ubicado en Collao 1123 LT 2 MZ A, Rol de Avalúo N° 320-41, comuna de Concepción, de aparente dominio de Suc. Zarraga Ascencio Eutropia del Ca., superficie afecta expropiación total de terreno es de 169,84 m2 (Lote 129) y expropiación total de edificaciones (a, b y c) de 145,33 m2, según Plano S8R-40175-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida PAR Vial Collao-General Novoa" comuna de Concepción, Región del Biobío, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por constructor civil Roxana Abarzúa Gajardo, arquitecto Alberto Vallette Isla e ingeniero civil Carlos Montecinos Gallegos, según informe de fecha 17.11.2021, fijó monto provisional indemnización en $156.602.716.- más una suma de $407.167.-, por concepto de reajuste del artículo 5° del DL 2.186, de 1978, que dan la cifra de $157.009.883.-
+
+Director Serviu, Región del Biobío.
