@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.209, de 23 de diciembre de 2021 del Serviu Región de Ñuble, se rectifica la resolución exenta Nº 1.960 de fecha 19 de noviembre de 2021 de este Servicio que ordenó expropiación Total de inmueble ubicado en comuna de Chillán, Rol de Avalúo Nº 508-16, de aparente dominio de Núñez Vásquez José Alonso. Rectifícase la publicación de fecha 19 de noviembre de 2019 que corresponde a la resolución exenta Nº 1.960 de fecha 19.11.2021, en cuanto a la expropiación total del inmueble ubicado en Diagonal Las Termas 216, comuna de Chillán Rol de Avalúo Nº 508-16, debiendo reemplazarse el monto de la indemnización provisional por la expropiación de la suma $68.331.789.- por el monto correcto de la indemnización provisional por la expropiación, en la suma de $72.332.041.-
+
+Director Serviu Región de Ñuble.
