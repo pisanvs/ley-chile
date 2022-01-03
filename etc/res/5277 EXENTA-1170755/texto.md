@@ -1,0 +1,5 @@
+RECTIFICA DESTINACIÓN MARÍTIMA
+
+Resolución exenta Nº 5.277, de 29 de septiembre de 2021, rectifica el numeral 2, de la parte dispositiva del decreto exento Nº 462, del 2 de julio de 2021, del Ministerio de Defensa Nacional, que otorgó al Ministerio de Economía, Fomento y Turismo, Servicio Nacional de Pesca y Acuicultura, RUT Nº 60.701.002-1, primera renovación de destinación marítima, con vencimiento 30 de junio de 2036, sobre un sector de fondo de mar y porción de agua, en el lugar denominado Caleta Illapel, comuna de Canela, Provincia de Choapa, Región de Coquimbo, en todas las partes donde dice "73º", debe decir "71º". Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Los Vilos. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Patricio Sepúlveda Mora, Teniente 2º LT, Capitán de Puerto de Los Vilos.
