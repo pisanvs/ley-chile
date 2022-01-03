@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.461, 17 de diciembre de 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación de un inmueble ubicado en Los Lirios 55 LT 2 Esq G Novoa, Rol de Avalúo N° 307-842, comuna de Concepción, de aparente dominio de Novoa Novoa Marina del Carmen, superficie afecta expropiación parcial de terreno es de 15,75 m2 (Lote 120) y expropiación total de edificaciones (a y b) de 16,50 m2, según Plano S8R-40167-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida PAR Vial Collao-General Novoa" comuna de Concepción, Región del Biobío, conforme artículo 51 ley N° 16.391 y DL. N° 2.186. Comisión Peritos integrada por arquitecto Carolina Contreras Tapia, arquitecta Paola Martínez Perucca, arquitecto Carolina Zuloaga Sanhueza, según informe de fecha 26.10.2021, fijó monto provisional indemnización en $10.954.450 más una suma de $76.681, por concepto de reajuste del artículo 5° del DL 2186 de 1978, que dan la cifra de $11.031.131.
+
+Director Serviu, Región del Biobío.
