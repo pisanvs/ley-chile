@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 366, de fecha 14 de septiembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Blanca Edith Araya Araya, RUT N° 10.002.994-4, Concesión Marítima Menor, con vencimiento el 31 de diciembre de 2026, sobre un sector de terreno de playa en el lugar denominado Villa Alegre, comuna de Chañaral, Provincia de Chañaral, Región de Atacama, con una superficie total de 72 m2, la que fue tramitada con el SIABC N° 47.224. A modo referencial se señalan las siguientes coordenadas geográficas: Vértice A: Lat. 26°31'38.26"S Long. 70°42'23.97"W y Vértice D: Lat. 26°31'38.31"S Long. 70°42'24.25"W. El objeto consiste en Amparar la Construcción de una Casa para Destinarla a Veraneo Familiar. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Claudio Durán Roco, Sargento 1° L, Capitán de Puerto de Chañaral Subrogante.
