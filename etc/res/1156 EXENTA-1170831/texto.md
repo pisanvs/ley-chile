@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.156, de 14 de diciembre de 2021, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, del inmueble correspondiente a Departamento Nº 103, ubicado en Pasaje 21½ Norte Block Nº 1357 del Sector "B" de la Población Las Américas VIII Etapa, de Talca, Rol Avalúo N° 1423-39 comuna Talca y sus derechos cuotativos, deslindes según plano expropiaciones, propietario aparente Palma Carrasco Nelson Belisario. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Álvaro Hernán Vergara Mejías, ingeniero civil industrial; y Claudia Poblete Ramírez, arquitecto, según informe de tasación evacuado con fecha 30 de septiembre de 2021, fijó monto provisional indemnización en $13.190.037.-, monto que conforme a lo dispuesto en el artículo 5º del DL 2.186, de 1978, fue reajustado a la suma de $13.585.740.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
