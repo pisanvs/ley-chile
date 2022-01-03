@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.386, 15 de diciembre de 2021, Serviu Región del Biobío ordenó expropiación total de terreno y total de edificación de un inmueble ubicado en Gral. Novoa 1093 V Loncopan, Rol de Avalúo N° 307-37, comuna de Concepción, de aparente dominio de Vega Muñoz Sara, superficie afecta expropiación total de terreno es de 191,72 m2 (Lote 126) y expropiación total de edificaciones (a, b y c) de 83,07 m2, según Plano S8R-40173-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida PAR Vial Collao-General Novoa" comuna de Concepción, Región del Biobío, conforme artículo 51 ley N° 16.391 y DL. N° 2.186. Comisión Peritos integrada por arquitecto Carolina Contreras Tapia, arquitecto Brogan Ulloa Pérez y arquitecto Juan King Domínguez, según informe de fecha 21.10.2021, fijó monto provisional indemnización en $113.042.193 más una suma de $1.062.597, por concepto de reajuste del artículo 5° del DL 2186 de 1978, que dan la cifra de $114.104.790.-
+
+Director Serviu Región del Biobío.
