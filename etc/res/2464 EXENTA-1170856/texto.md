@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.464, de 17 de diciembre 2021, Serviu Región del Biobío ordenó expropiación total de un inmueble ubicado en Collao 1115 LT 1 MZA, Rol de Avalúo Nº 320-40, comuna de Concepción, de aparente dominio de Droguett Ramirez María Cecilia, en una superficie de 170,06 m2 de terreno y 211,86 m2 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-40.174-1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao/General Novoa, comuna de Concepción", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por constructor civil Roxana Abarzúa Gajardo, por arquitecto Alberto Vallette Isla y por ingeniero civil Carlos Montecinos Galleguillos, según informe de fecha 17 de noviembre 2021, fijó monto provisional indemnización, en $185.402.472, más el reajuste del Art. 5 DL 2.186, dan la suma de $185.884.518, pagadera de contado.-
+
+Director Serviu Región del Biobío.
