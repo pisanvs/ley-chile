@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.191, del 21 de diciembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí Nº 390, comuna de Chillán, Rol de Avalúo Nº 00644-00008, de aparente dominio de Sandoval Bravo Luis Alberto y otro. La superficie afecta a expropiación parcial de 413,12 m2 de terreno y expropiación total de 186,46 m2 de edificaciones, cuyos linderos particulares están enmarcados en el plano S16R-121, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión peritos integrada por el arquitecto don Alexander Theodor Boye Trenit, la ingeniero constructor doña Lorena Elizabeth Gajardo Alarcón y por el arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $164.320.574.-
+
+Director Serviu Región de Ñuble.
