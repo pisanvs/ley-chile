@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1256 de 25 de noviembre de 2021, de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c) y 14 letra e) del DFL MOP. N° 850 de 1997, se modificó Decreto MOP (Exento) N° 439 de 30 de junio de 2021; se autorizó Convenio Ad Referéndum de Indemnización Definitiva de Expropiación correspondiente a la expropiación para la EMPRESA DE TRANSPORTE DE PASAJEROS METRO S.A. del lote de terreno N° 94L7, para la obra PROYECTO LÍNEA 7 METRO S.A., COMUNA DE LAS CONDES, PROVINCIA DE SANTIAGO, REGIÓN METROPOLITANA DE SANTIAGO, acordándose con su propietaria, WALMART CHILE S.A., la indemnización, más su correspondiente reajuste, en la cantidad única y total de $3.059.142.682.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
