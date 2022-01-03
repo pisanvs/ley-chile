@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.196, del 22 de diciembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí Nº 192, comuna de Chillán, Rol de Avalúo Nº 00697-00018, de aparente dominio de Suc. Venegas Gacitúa Juan. La superficie afecta a expropiación parcial de 85,38 m2 de terreno, cuyos linderos particulares están enmarcados en el plano S16R-038, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión peritos integrada por el arquitecto don Alexander Theodor Boye Trenit, la ingeniero constructor doña Lorena Elizabeth Gajardo Alarcón y por el arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $15.631.009.-
+
+Director Serviu Región de Ñuble.
