@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.193, del 22 de diciembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí Nº 186, comuna de Chillán, Rol de Avalúo Nº 00697-00017, de aparente dominio de Suc. Montecinos Ortiz Auristela. La superficie afecta a expropiación parcial de 92,02 m2 de terreno y expropiación total de 74,89 m2 de edificaciones, cuyos linderos particulares están enmarcados en el plano S16R-037, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión peritos integrada por el arquitecto don Alexander Theodor Boye Trenit, la ingeniero constructor doña Lorena Elizabeth Gajardo Alarcón y por el arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $47.637.463.-
+
+Director Serviu Región de Ñuble.
