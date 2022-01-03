@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.523, 22 de diciembre de 2021, Serviu Región del Biobío ordenó a expropiación parcial de terreno y total de edificación ubicado en Collao 1415, Rol de Avalúo Nº 320-12, comuna de Concepción, de aparente dominio de Eschmann Sandrock Hugo Ewaldo. La parte a expropiar tiene una superficie afecta expropiación parcial es de 51,30 m2 de terreno (Lote 144) y de 34,22 m2 de expropiación total de edificación y cuyos linderos particulares, señalados en el plano S8R-40.374-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida Par - Vial Collao - General Novoa" comuna de Concepción, Región del Biobío, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Carolina Andrea Contreras, por arquitecto Brogan Christopher Ulloa Pérez y por arquitecto Juan Felipe King Domínguez, que fijó el monto de la indemnización provisional por la expropiación en la suma de $36.291.446.- más una suma de $341.140.- por concepto de reajuste del artículo 5º del DL 2.186 de 1978, lo que da un total de $36.632.586.-
+
+Director Serviu Región del Biobío.
