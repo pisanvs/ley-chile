@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.161, de 14 de diciembre de 2021, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, del inmueble correspondiente a departamento Nº 303, ubicado en Pasaje 21½ Norte Block Nº 1357 del Sector "B" de la Población Las Américas VIII Etapa, de Talca, Rol Avalúo Nº 1423-47, comuna Talca y sus derechos cuotativos, deslindes según plano expropiaciones, propietario aparente Fuentes Contardo Adrián Ulises. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Álvaro Hernán Vergara Mejías, ingeniero civil industrial; y Claudia Poblete Ramírez, arquitecto, según informe de tasación evacuado con fecha 30 de septiembre de 2021, fijó monto provisional indemnización en $14.252.055.-, monto que conforme a lo dispuesto en el artículo 5º del DL 2.186 de 1978 fue reajustado a la suma de $14.679.620.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
