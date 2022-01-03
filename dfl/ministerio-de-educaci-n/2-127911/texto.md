@@ -296,6 +296,120 @@ Los párvulos de 1º y 2º nivel de transición deberán tener, a lo menos, cuat
 
 > **Nota.** El artículo 2º de la LEY 20247, publicada el 24.01.2008, dispone que las modificaciones que introduce a la presente norma, rigen a contar del 1º de enero de 2008.
 
+#### Artículo 7º bis
+
+El proceso de admisión de los y las estudiantes que desarrollen los establecimientos que reciben subvención o aportes del Estado se realizará conforme a los principios de transparencia, educación inclusiva, accesibilidad universal, equidad y no discriminación arbitraria, considerando especialmente el derecho preferente de los padres a elegir el establecimiento educacional para sus hijos.
+
+Dicho proceso comprende una etapa de postulación y otra de admisión propiamente tal.
+
+La etapa de postulación se realizará directamente en los establecimientos educacionales de preferencia de los padres, madres o apoderados a través de un registro que pondrá a disposición del público el Ministerio de Educación. Sin perjuicio de lo anterior, los padres, madres o apoderados también podrán postular a dicho registro de forma remota. Las entrevistas que se realicen en esta etapa deberán ser solicitadas por los padres o apoderados, serán de carácter voluntario y tendrán una finalidad únicamente informativa y de conocimiento del proyecto educativo. Por consiguiente, se prohíbe que éstas constituyan una exigencia o requisito dentro de la etapa de postulación. Se prohíbe la exigencia de pruebas de admisión de cualquier tipo, u otro antecedente vinculado a su desempeño académico, condición socioeconómica o familiar, así como cualquier cobro por la postulación de los estudiantes.
+
+Los padres, madres y apoderados podrán solicitar información a los establecimientos educacionales sobre su proyecto educativo y el proceso de admisión.
+
+Los padres, madres y apoderados deberán inscribir a los postulantes en el registro señalado en el inciso tercero de este artículo. El sistema de registro entregará un comprobante a aquellos.
+
+Los padres, madres y apoderados postularán a más de un establecimiento educacional, pudiendo hacerlo en cualquiera de los lugares de postulación y deberán manifestar el orden de su preferencia en el registro señalado en el inciso tercero. Será condición necesaria para proceder a la postulación la adhesión y compromiso expreso por parte del padre, madre o apoderado al proyecto educativo declarado por el establecimiento y a su reglamento interno.
+
+El sistema de registro contendrá información relativa a la cantidad de cupos disponibles en los establecimientos para cada curso o nivel del año escolar correspondiente, así como información relativa al proyecto educativo y el reglamento interno de cada uno de ellos. Deberá especificar, además, si los establecimientos están adscritos al régimen de subvención escolar preferencial y cuentan con proyectos de integración escolar vigentes. Dicha información deberá ser entregada por cada sostenedor al Ministerio de Educación, en los plazos que señale el reglamento respectivo. El registro incorporará también la información de la ficha escolar del establecimiento educacional, regulada en el artículo 17 de la ley Nº18.956.
+
+Con el objeto de promover el conocimiento y la adhesión de los padres, madres o apoderados a los proyectos educativos de los establecimientos a los que postulan, los sostenedores de éstos podrán organizar encuentros públicos de información, previo a los procesos de postulación, en los que presentarán a la comunidad sus proyectos educativos. Los sostenedores deberán remitir al Ministerio de Educación información respecto a estas actividades, para que éste las difunda.
+
+Una vez finalizado el proceso de postulación, y para realizar el proceso de admisión que se señala en el artículo siguiente, el Ministerio de Educación informará a los establecimientos educacionales los criterios señalados en el inciso tercero del artículo 7º ter con los que cumple cada uno de los postulantes.
+
+#### Artículo 7º ter
+
+La etapa de admisión propiamente tal será realizada por los establecimientos educacionales.
+
+Todos los estudiantes que postulen a un establecimiento educacional deberán ser admitidos, en caso de que los cupos disponibles sean suficientes en relación al número de postulaciones.
+
+Sólo en los casos de que los cupos disponibles sean menores al número de postulantes, los establecimientos educacionales deberán aplicar un procedimiento de admisión aleatorio definido por éstos, de entre los mecanismos que ponga a su disposición el Ministerio de Educación, que deberán ser objetivos y transparentes. Dicho procedimiento de admisión deberá considerar los siguientes criterios de prioridad en orden sucesivo, para su incorporación directa a la lista de admisión del establecimiento:
+
+a) Existencia de hermanas o hermanos que postulen o se encuentren matriculados en el mismo establecimiento.
+
+b) Incorporación del 15% de estudiantes prioritarios, de conformidad al artículo 6º, letra a) ter.
+
+c) La condición de hijo o hija de un profesor o profesora, asistente de la educación, manipulador o manipuladora de alimentos o cualquier otro trabajador o trabajadora que preste servicios permanentes en el establecimiento educacional.
+
+d) La circunstancia de haber estado matriculado anteriormente en el establecimiento educacional al que se postula, salvo que el postulante hubiere sido expulsado con anterioridad del mismo.
+
+Si aplicando el procedimiento señalado en el inciso anterior, se presentara el caso que el número de postulantes que cumple con un mismo criterio es superior al número de vacantes que informa el establecimiento, se aplicará respecto de dichos postulantes el sistema de admisión aleatorio definido por el establecimiento.
+
+El Ministerio de Educación pondrá a disposición de los establecimientos educacionales un mecanismo para realizar el proceso de admisión, según lo dispuesto en el inciso anterior. Su uso será voluntario.
+
+Los establecimientos educacionales deberán informar al Ministerio de Educación el mecanismo aleatorio que aplicarán de conformidad a lo dispuesto en este artículo, así como el día, hora y lugar en que se desarrollará el proceso de admisión. Asimismo, deberán remitir copia de estos antecedentes a la Superintendencia. Una vez realizado dicho proceso, los establecimientos deberán informar, en listas separadas, el total de postulantes en el orden que cada uno de éstos ocupó en el proceso respectivo, de conformidad a lo establecido en el inciso tercero. Corresponderá especialmente a la Superintendencia de Educación la fiscalización de los procesos de admisión, pudiendo, al efecto, visitar los establecimientos educacionales durante las distintas etapas del proceso.
+
+Una vez recibida la información señalada en el inciso anterior, el Ministerio de Educación revisará que no se presenten admisiones de un mismo estudiante en distintos establecimientos educacionales y velará porque los cupos se vayan completando acorde a las prioridades de los padres, madres o apoderados, optimizando de manera que los postulantes queden en su más alta preferencia.
+
+En caso que el Ministerio de Educación tome conocimiento de antecedentes que puedan constituir una infracción, informará a la Superintendencia de Educación para que ejerza sus atribuciones de conformidad a la ley Nº20.529.
+
+La Superintendencia de Educación iniciará un procedimiento sancionatorio si el orden asignado a los estudiantes hace presumir razonablemente que el procedimiento de admisión ha sido realizado incurriendo en discriminaciones arbitrarias.
+
+Se considerará infracción grave, en los términos del artículo 76 de la ley Nº20.529, que el sostenedor informe un número de cupos menor que el de los estudiantes formalmente matriculados.
+
+Si durante el proceso de revisión de las listas de admisión de los establecimientos educacionales, el Ministerio de Educación constata que un postulante no hubiere sido admitido en ninguna de las opciones escogidas, procederá a registrar a dicho estudiante en el establecimiento educacional más cercano a su domicilio que cuente con cupos disponibles, salvo que hubiere sido expulsado de dicho establecimiento educacional, caso en el cual será registrado en el siguiente más cercano a su domicilio, y así sucesivamente. Con todo, los padres, madres o apoderados que se encuentren en esta situación siempre podrán acogerse a lo dispuesto en el inciso decimocuarto.
+
+Finalizado el procedimiento señalado en el presente artículo, el Ministerio de Educación enviará a los establecimientos educacionales sus listas de admisión finales para efectos que éstos comuniquen a los padres, madres y apoderados de la aceptación de los postulantes. En dicha comunicación se establecerá el plazo que tienen para manifestar su aceptación y matricular a los postulantes.
+
+Un reglamento del Ministerio de Educación regulará el sistema de registro señalado en el artículo precedente y establecerá el procedimiento de postulación y admisión de los y las estudiantes, así como la determinación de los cupos dentro del establecimiento educacional, considerando las debidas reservas para aquellos o aquellas que pudieran repetir de curso. En particular, definirá la forma en que se registrarán las postulaciones, los procesos mediante los cuales se irán completando las distintas listas de espera y los plazos para las distintas etapas. Asimismo, dicho reglamento establecerá la forma en que los establecimientos comunicarán al Ministerio de Educación y a los padres, madres y apoderados, la información requerida para el proceso de admisión y el resultado de dichos procesos.
+
+En caso de que los padres, madres o apoderados no hayan participado en los procesos de postulación, por cualquier causa, podrán solicitar a la Secretaría Regional Ministerial de Educación correspondiente que informe sobre los establecimientos educacionales que, luego de haber realizado el proceso de admisión regulado en el presente artículo, cuenten con cupos disponibles. Los padres, madres y apoderados deberán postular directamente en dichos establecimientos y éstos deberán cumplir con lo dispuesto en el inciso primero y quedarán sujetos a la prohibición señalada en el inciso tercero, ambos del artículo 7º bis.
+
+Estos establecimientos deberán registrar estas postulaciones e informarlas al Ministerio de Educación.
+
+#### Artículo 7º quáter
+
+Los establecimientos educacionales siempre podrán implementar entrevistas con los padres y apoderados de los estudiantes ya matriculados, con la finalidad de entregar operatividad real a la adhesión y compromiso con el proyecto educativo prescrito en el inciso sexto del artículo 7º bis.
+
+#### Artículo 7º
+
+quinquies.- El Ministerio de Educación excepcionalmente autorizará para establecer procedimientos especiales de admisión, a partir de 7º año de la educación general básica o el equivalente que determine la ley, a aquellos establecimientos educacionales cuyos proyectos educativos tengan por objeto principal desarrollar aptitudes que requieran una especialización temprana, o a aquellos cuyos proyectos educativos sean de especial o alta exigencia académica, siempre y cuando acrediten:
+
+a) Que cuentan con planes y programas propios destinados específicamente a la implementación de su proyecto educativo, el cual está destinado al desarrollo de aptitudes que requieran de una especialización temprana, o para la especial o alta exigencia académica.
+
+b) Que cuentan con una trayectoria y prestigio en el desarrollo de su proyecto educativo y resultados de excelencia. En el caso de establecimientos de especial o alta exigencia, se considerará el rendimiento académico destacado dentro de su región, su carácter gratuito y selectividad académica.
+
+c) Que cuentan con los recursos materiales y humanos necesarios y suficientes para el desarrollo de su proyecto educativo.
+
+d) Que cuentan con una demanda considerablemente mayor que sus vacantes.
+
+La referida autorización sólo podrá otorgarse para un 30% de sus vacantes, según sus características, de conformidad a lo dispuesto en los incisos siguientes.
+
+En el caso de los establecimientos de especial o alta exigencia, serán autorizados para desarrollar el procedimiento de admisión señalado en los artículos precedentes de entre aquellos postulantes que pertenezcan al 20% de los alumnos de mejor desempeño escolar del establecimiento educacional de procedencia, en la forma que determine el reglamento.
+
+Para el caso de los establecimientos educacionales cuyo proyecto educativo desarrolle aptitudes que requieran una especialización temprana, la mencionada autorización se pronunciará específicamente sobre las pruebas que pretenda aplicar el establecimiento, las que evaluarán exclusivamente las aptitudes señaladas y no medirán, directa o indirectamente, características académicas.
+
+Con todo, los antecedentes o pruebas a que se refieren los incisos anteriores no podrán considerar, directa o indirectamente, otras características, sean socioeconómicas, religiosas, culturales o de otra índole, que puedan implicar alguna discriminación arbitraria.
+
+Para obtener la autorización, el sostenedor interesado deberá presentar una solicitud fundada ante la Secretaría Regional Ministerial de Educación correspondiente, acompañando los antecedentes que la justifiquen, hasta el último día hábil de marzo del año anterior a aquel en que pretenda darle aplicación.
+
+La Secretaría Regional Ministerial de Educación dará curso a la solicitud presentada en tiempo y forma, enviando sus antecedentes y el informe que recaiga sobre ella al Ministerio de Educación. De no darse curso, el interesado tendrá un plazo de cinco días para rectificar la solicitud o acompañar los antecedentes correspondientes.
+
+Con el mérito de la solicitud, sus antecedentes y el informe de la Secretaría Regional Ministerial de Educación, el Ministerio de Educación resolverá la solicitud, mediante resolución fundada, en el plazo de noventa días. Dicha resolución será revisada en el plazo de noventa días por el Consejo Nacional de Educación.
+
+Se entenderá aceptada una solicitud cuando ésta fuere aprobada por el Ministerio de Educación y ratificada dicha decisión por la mayoría absoluta de los miembros en ejercicio del Consejo Nacional de Educación.
+
+Estando firme la resolución aprobatoria para adoptar un proceso de admisión especial, ella deberá ser renovada en el plazo de seis años, mediante el mismo procedimiento señalado previamente, manteniéndose su vigencia mientras se sustancie el respectivo procedimiento. Para el caso de los establecimientos educacionales de especial o alta exigencia, deberán demostrar especialmente que han continuado exhibiendo los estándares de excelencia en el rendimiento académico que justificaron la autorización.
+
+Los establecimientos educacionales señalados en este artículo deberán promover la integración y desarrollo armónico de todos sus estudiantes y no podrán, en caso alguno, generar diferencias en la composición de los cursos o niveles sobre la base del resultado del procedimiento de admisión de éstos.
+
+#### Artículo 7º
+
+sexies.- La infracción de lo establecido en los artículos 7º bis, 7º ter y 7º quinquies, será sancionada con multa de 50 UTM. En caso de reincidencia, el establecimiento deberá dar aplicación, en lo sucesivo, al mecanismo de admisión aleatorio y transparente que, al efecto, le proporcione el Ministerio de Educación.
+
+#### Artículo 7º
+
+septies.- Lo dispuesto en los artículos 7º bis, 7º ter, 7º quáter, 7º quinquies y 7º sexies no será aplicable a los establecimientos de educación especial diferencial. Tales establecimientos considerarán en sus procesos de admisión lo dispuesto en los artículos 9º y 9º bis.
+
+Dichos establecimientos, respecto a los estudiantes con necesidades educativas especiales, así como las escuelas artísticas tendrán un procedimiento de admisión determinado por ellos, el cual será desarrollado por cada establecimiento. Un reglamento expedido por el Ministerio de Educación determinará la coordinación entre los procesos de admisión realizados por dichos establecimientos educacionales y el proceso de admisión para los establecimientos de educación general.
+
+Se excluirá totalmente de los procesos regulados en los artículos precedentes y en los incisos anteriores de este artículo, la admisión a la modalidad educativa de adultos, a las aulas hospitalarias, a las escuelas cárceles y a aquellos establecimientos educacionales que impartan exclusivamente el nivel de educación parvularia. Sin perjuicio de lo anterior, los establecimientos educacionales que cuenten con cursos en el nivel de educación parvularia inferiores al primer nivel de transición, que impartan además el nivel de educación básica, deberán siempre aplicar el sistema de admisión desde el primer nivel de transición.
+
+#### Artículo 7°
+
+octies.- Los establecimientos que tengan el servicio de internado deberán considerar cupos especiales dentro del total de la matrícula disponible, para la postulación de las y los estudiantes de dentro y fuera de la comuna en que dichos internados se encuentren.
+
+Para acogerse a este servicio, cada establecimiento escolar con internado deberá indicar al Ministerio de Educación la cantidad de cupos especiales respecto del total de cupos, con al menos dos meses antes de la fecha de postulación.
+
 #### Artículo 8º
 
 Las solicitudes de los establecimientos educacionales de enseñanza básica y media y prebásica del Nivel de Transición, para obtener el beneficio de la subvención, serán resueltas por el Ministerio de Educación en un plazo máximo de 90 días contados desde la fecha de su ingreso.
