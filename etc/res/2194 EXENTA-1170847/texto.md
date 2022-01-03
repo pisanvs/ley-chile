@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.194, del 22 de diciembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí Nº 180, comuna de Chillán, Rol de Avalúo Nº 00697-00016, de aparente dominio de Díaz Urrea José Rafael. La superficie afecta a expropiación parcial de 120,81 m2 de terreno y expropiación total de 197,04 m2 de edificaciones, cuyos linderos particulares están enmarcados en el plano S16R-111, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, la ingeniero constructor doña Lorena Elizabeth Gajardo Alarcón y por el arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $94.757.881.-
+
+Director Serviu Región de Ñuble.
