@@ -72,6 +72,10 @@ h) Persona sorda: Aquella que, a partir de su funcionalidad auditiva reducida o 
 
 i) Comunidad sorda: Grupo de personas que constituyen una minoría lingüística y cultural, conformado principalmente por personas sordas y organizaciones de personas sordas de cualquier tipo, en la que también pueden participar las personas con discapacidad auditiva y las personas oyentes que comparten la lengua y la cultura de las personas sordas.
 
+j) Persona sordociega: aquella que, debido a sus funcionalidades auditivas y visuales reducidas o inexistentes, simultáneamente presentes, constituye una discapacidad única, que, al interactuar con diversas barreras presentes en el entorno, ve impedida o restringida su comunicación, movilización, participación plena y efectiva en la sociedad, acceso a la información y al entorno en igualdad de condiciones con las demás.
+
+k) Guía intérprete: persona que desempeña la función de intérprete y guía de las personas sordociegas, con amplios conocimientos de los sistemas de comunicación oficial ajustados a sus necesidades.
+
 ## Título I
 
 Derecho a la igualdad de oportunidades
@@ -93,6 +97,14 @@ Se entiende por exigencias de accesibilidad, los requisitos que deben cumplir lo
 Los ajustes necesarios son las medidas de adecuación del ambiente físico, social y de actitud a las carencias específicas de las personas con discapacidad que, de forma eficaz y práctica y sin que suponga una carga desproporcionada, faciliten la accesibilidad o participación de una persona con discapacidad en igualdad de condiciones que el resto de los ciudadanos.
 
 Conducta de acoso, es toda conducta relacionada con la discapacidad de una persona, que tenga como consecuencia atentar contra su dignidad o crear un entorno intimidatorio, hostil, degradante, humillante u ofensivo.
+
+#### Artículo 8 bis
+
+Las instituciones públicas y privadas establecerán las condiciones para que las personas con discapacidad puedan acceder, concurrir y comparecer ante ellas con intérpretes de lengua de señas o guías intérpretes, según sea el caso y corresponda, previa acreditación de esta condición.
+
+#### Artículo 8 ter
+
+El Estado promoverá, dentro del ámbito de sus competencias, de acuerdo con sus atribuciones, medios y presupuestos, la formación y capacitación continua de guías intérpretes, conforme a los estándares que determine el reglamento dictado para tal efecto por el Ministerio de Desarrollo Social y Familia.
 
 ### Párrafo 2°
 
@@ -251,6 +263,10 @@ El Estado reconoce y se obliga a promover, respetar y a hacer respetar, de confo
 #### Artículo 26 bis
 
 La enseñanza de la lengua de señas será realizada preferentemente por personas sordas calificadas. Un reglamento dictado por el Ministerio de Educación y el Ministerio de Desarrollo Social y Familia regulará las condiciones, requisitos y calificaciones necesarias para la enseñanza de la lengua de señas.
+
+#### Artículo 26 ter
+
+El Estado reconoce como sistemas de comunicación oficial la dactilología, el sistema braille, técnicas de orientación y movilidad y otros sistemas de comunicación alternativos reconocidos, según lo establecido en el reglamento dictado para estos efectos por el Ministerio de Educación y el Ministerio de Desarrollo Social y Familia. Las personas sordociegas serán libres de elegir el o los sistemas que deseen utilizar para comunicarse en su vida cotidiana.
 
 #### Artículo 27
 
@@ -560,6 +576,8 @@ h) Estudiar y proponer al Presidente de la República, por intermedio del Minist
 
 i) Realizar estudios sobre discapacidad y aquellos relativos al cumplimiento de sus fines, o bien, contratar los que estime necesarios de tal forma de contar periódicamente con un instrumento que permita la identificación y la caracterización actualizada, a nivel nacional y comunal, de la población con discapacidad, tanto en términos socioeconómicos como con respecto al grado de discapacidad que los afecta.
 
+Dichos estudios deberán considerar los diversos tipos de discapacidad existentes, de conformidad con lo dispuesto en el artículo 5. Asimismo, deberán considerar la sordoceguera como una discapacidad única, de manera de obtener los antecedentes suficientes que permitan el adecuado diseño, ejecución y evaluación de políticas, planes y programas.
+
 j) Velar por el cumplimiento de las disposiciones legales y reglamentarias relacionadas con la protección de los derechos de las personas con discapacidad. Esta facultad incluye la atribución de denunciar los posibles incumplimientos ante los organismos o instancias jurisdiccionales respectivas, y ejercer acciones y hacerse parte en aquellas causas en que estén afectados los intereses de las personas con discapacidad, de conformidad a la ley.
 
 Trimestralmente el Servicio Nacional de la Discapacidad deberá informar en su página web acerca de las acciones y prestaciones sociales que ejecute o coordine y que vayan a favor de las personas con discapacidad. Esta información deberá incluir el número de beneficiarios efectivos, los recursos públicos desembolsados y los resultados de las evaluaciones, si las hubiere.
@@ -823,6 +841,10 @@ El Registro Nacional de la Discapacidad a que se refiere el artículo 55 de esta
 #### Artículo quinto
 
 Todos los reglamentos a los que se refiere esta ley, deberán dictarse dentro del plazo de nueve meses, contado desde su publicación en el Diario Oficial. Lo anterior, no obsta exigir el cumplimiento de los derechos, garantías y obligaciones consagrados en esta ley.".
+
+#### Artículo sexto
+
+Los reglamentos a que hacen referencia los artículos 8 ter y 26 ter deberán dictarse dentro de los seis meses siguientes a la publicación de esta ley.
 
 Habiéndose cumplido con lo establecido en el Nº1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
