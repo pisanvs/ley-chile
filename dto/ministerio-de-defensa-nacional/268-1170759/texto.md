@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 268, de 7 de julio de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al señor Jorge Gutiérrez Villagrán, RUT 7.525.603-5, Primera Renovación de concesión marítima menor, con vencimiento el 30 de junio de 2026, sobre un sector de Fondo de mar, en el lugar denominado Caleta Lo Rojas, comuna de Coronel, provincia de Concepción, Región del Bío-Bío, con una superficie total de 25 m², la que fue tramitada con el SIABC Nº 45.421. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 37º01'29,16" S - 73º09'24,94" W. El objeto consiste en continuar amparando la instalación de un Poste de Amarre para naves menores. Las obras existentes consisten en un Poste de Amarre. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Coronel. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
+
+Coronel, 29 de noviembre de 2021.- Alex Jeldres Curilemo, Teniente 1º LT, Capitán de Puerto de Coronel.
