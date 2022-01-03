@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.369, 13 de diciembre de 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno ubicado en El Molino, Rol de Avalúo N° 551-3, comuna de Tomé, de aparente dominio de Forestal Arauco S.A. La parte a expropiar tiene una superficie de 7.493,45 m2 de terreno y de 0,0 m2 de expropiación de edificación, y cuyos linderos particulares, enmarcados en el polígono del plano S8R-39451-3, para la ejecución de las obras del proyecto "Construcción Espacio Público Dichato-Vegas de Coliumo, Tomé, Región del Biobío", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión de Peritos integrada por el Constructor Civil Ítalo Renzo Zerga Arancibia, por Arquitecto Paola Loreto Martínez Perucca, Ingeniero Civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación en la suma de $65.750.377.- pagadero de contado.-
+
+Director Serviu Región del Biobío.
