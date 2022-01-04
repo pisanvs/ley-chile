@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 1.876 EXENTO, DE 27 DE DICIEMBRE DE 2021, DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley 20.903, por el presente decreto exento se modifican los convenios suscritos entre el Ministerio de Educación y la Corporación de Estudio, Capacitación y Empleo de la Cámara de la Producción y del Comercio de Concepción, cuyo objeto fue delegar la administración de los establecimientos educacionales: Liceo Bicentenario de Excelencia Industrial de Tomé, RBD 4824-0, y Liceo Bicentenario de Excelencia Industrial Federico Schwager, RBD 4975-1, cuyos convenios fueron aprobados mediante los decretos N° 1.226 y N°1.225, ambos de 1996 y del Ministerio de Educación y sus modificaciones, respectivamente.-
+
+Jorge Poblete Aedo, Subsecretario de Educación.
