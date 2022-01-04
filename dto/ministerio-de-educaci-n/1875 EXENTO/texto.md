@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 1.875 EXENTO, DE 27 DE DICIEMBRE DE 2021, DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley 20.903, por el presente decreto exento se modifican los convenios suscritos entre el Ministerio de Educación y la Universidad Tecnológica Metropolitana, Utem, cuyo objeto fue delegar la administración de los establecimientos educacionales: Liceo Industrial de San Fernando, RBD 2443-0; Liceo Polivalente Emilia Toro de Balmaceda, RBD 8505-7 e Instituto Superior de Comercio Diego Portales Insuco, RBD 9058-1, cuyos convenios fueron aprobados mediante los decretos N° 1.295, de 1996, N° 48, de 1997, y N° 43, de 2012, todos del Ministerio de Educación, respectivamente y sus correspondientes modificaciones.
+
+Santiago, 27 de diciembre de 2021.- Jorge Poblete Aedo, Subsecretario de Educación.
