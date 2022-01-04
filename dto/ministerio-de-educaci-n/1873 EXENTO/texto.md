@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 1.873 EXENTO, DE 27 DE DICIEMBRE DE 2021, DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley 20.903, por el presente decreto exento se modifican los convenios suscritos entre el Ministerio de Educación y la Corporación Educacional Tecnológica de Chile, cuyo objeto fue delegar la administración de los establecimientos educacionales: Liceo Politécnico Pedro de Valdivia, RBD 9060-3 y Liceo Politécnico A-60 Presidente Manuel Montt, RBD 9061-1, cuyos convenios fueron aprobados mediante el decreto N° 1.173 y el decreto N° 1.172, ambos de 1996 y del Ministerio de Educación, respectivamente y sus correspondientes modificaciones.
+
+Santiago, 27 de diciembre de 2021.- Jorge Poblete Aedo, Subsecretario de Educación.
