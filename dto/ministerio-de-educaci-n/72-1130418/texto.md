@@ -88,7 +88,7 @@ Cancélase la personalidad jurídica a la Corporación Universidad del Pacífico
 
 #### Artículo 3°
 
-Lo dispuesto en los artículos previos regirá a partir del 31 de enero de 2022, sin perjuicio de que el Ministerio de Educación podrá, mediante resolución fundada, antes del vencimiento de dicha fecha, extender el plazo por un máximo de veinticuatro meses a aquellas sedes, carreras o programas que, por razones fundadas requieran seguir funcionando.
+Lo dispuesto en los artículos previos regirá a partir del 31 de julio de 2025, sin perjuicio de que el Ministerio de Educación podrá, mediante resolución fundada, antes del vencimiento de dicha fecha, extender el plazo, por una sola vez, a efectos de finalizar los procesos académicos y de titulación de los estudiantes de la Universidad del Pacífico.
 
 Con todo no podrá matricular nuevos alumnos para el año académico 2019 y siguientes.
 
