@@ -10,295 +10,561 @@ Que los decretos 156/90 y 141/97 antes señalados, deben adaptarse a las disposi
 
 D e c r e t o:
 
-1º Los fabricantes, armadores, importadores o sus
+1º Los fabricantes, armadores,
 
-representantes, de los vehículos motorizados livianos
+importadores o sus representantes,
 
-definidos en el decreto supremo Nº 211-91 del
+de los vehículos motorizados livianos
 
-Ministerio, que sean nuevos (sin uso), cuyos modelos
+definidos en el decreto
 
-hayan sido homologados por el Ministerio en los términos
+supremo Nº 211-91 del
 
-del número 2º del decreto supremo Nº 54-97, deberán
+Ministerio, que sean nuevos
 
-entregar a sus adquirentes, junto con cada unidad que
+(sin uso), cuyos modelos
 
-comercialicen, un Certificado de Homologación Individual
+hayan sido homologados por
 
-electrónico (en adelante "C.H.I.") que acredite dicha
+el Ministerio en los términos
 
-circunstancia respecto del vehículo de que se trate, de
+del número 2º del decreto
+
+supremo Nº 54-97, deberán
+
+entregar a sus adquirentes,
+
+junto con cada unidad que
+
+comercialicen, un
+
+Certificado de Homologación Individual
+
+electrónico (en adelante "C.H.I.") que
+
+acredite dicha circunstancia
+
+respecto del vehículo de que se trate, de
 
 acuerdo al número 5º del decreto Nº 54-97.
 
-2º Los C.H.I., deberán cumplir con el formato y con
+2º Los C.H.I., deberán cumplir con el formato y con las
 
-las características que defina mediante resolución el
+características que defina
 
-Ministerio y con la normativa vigente para la emisión de
+mediante resolución el Ministerio y
 
-documentos con firma electrónica avanzada. En el mismo
+con la normativa vigente para la emisión de
 
-acto administrativo se establecerá, además, el
+documentos con firma electrónica
 
-procedimiento de autorización para la emisión de C.H.I.,
+avanzada. En el mismo
 
-por parte de los fabricantes, armadores, importadores
+acto administrativo se establecerá,
+
+además, el procedimiento de
+
+autorización para la emisión de C.H.I.,
+
+por parte de los fabricantes,
+
+armadores, importadores
 
 o sus representantes.
 
-El Ministerio, a través del Centro de Control y
+El Ministerio, a través
 
-Certificación Vehicular, autorizará a los fabricantes,
+del Centro de Control y Certificación
 
-armadores, importadores o sus representantes la emisión
+Vehicular, autorizará a los fabricantes,
 
-del C.H.I., una vez que se verifique el cumplimiento de
+armadores, importadores o sus
 
-los formatos y características establecidos en la
+representantes la emisión del C.H.I.,
 
-resolución señalada precedentemente. La responsabilidad
+una vez que se verifique el
 
-por la correcta emisión del C.H.I. corresponderá al
+cumplimiento de los formatos y
 
-fabricante, armador, importador o a sus representantes.
+características establecidos en la
 
-Cualquier situación anómala en la emisión de un
+resolución señalada precedentemente. La
 
-C.H.I., cualquiera sea su origen o causa, deberá
+responsabilidad por la correcta
 
-informarse al referido Centro en las cuarenta y ocho
+emisión del C.H.I. corresponderá al
 
-horas siguientes al hecho y, si fuere el caso, hacerse
+fabricante, armador, importador o
+
+a sus representantes.
+
+Cualquier situación anómala en
+
+la emisión de un C.H.I., cualquiera
+
+sea su origen o causa, deberá
+
+informarse al referido Centro
+
+en las cuarenta y ocho horas siguientes
+
+al hecho y, si fuere el caso, hacerse
 
 la denuncia correspondiente.
 
-El Ministerio, a través del Centro de Control y
+El Ministerio, a través del
 
-Certificación Vehicular, junto con cada autorización
+Centro de Control y Certificación
 
-que entregue, asignará un código con el fin de que
+Vehicular, junto con cada autorización
 
-los C.H.I., cuenten con una identificación correlativa
+que entregue, asignará un código
 
-única al momento de ser emitidos. Las personas
+con el fin de que los C.H.I., cuenten
 
-autorizadas deberán entregar al Ministerio, en la
+con una identificación correlativa
 
-forma que éste defina, la relación de los Certificados
+única al momento de ser emitidos.
 
-emitidos y la información contenida en los mismos. Para
+Las personas autorizadas deberán
 
-estos efectos, el Ministerio deberá llevar un registro
+entregar al Ministerio, en la
+
+forma que éste defina, la relación
+
+de los Certificados emitidos y
+
+la información contenida en los
+
+mismos. Para estos efectos, el
+
+Ministerio deberá llevar un registro
 
 de los documentos que se hayan emitido.
 
-3º Los C.H.I. deberán señalar: la fecha en que se
+3º Los C.H.I. deberán señalar: la
 
-extienden; un número de código por modelo que entregará
+fecha en que se extienden; un número
 
-el Ministerio con motivo de la homologación; su
+de código por modelo que entregará
 
-numeración correlativa; la individualización de la
+el Ministerio con motivo de la
 
-unidad a que corresponde el documento; el número de
+homologación; su numeración
 
-identificación asignado a cada vehículo por su
+correlativa; la individualización de la
 
-fabricante (V.I.N.); su placa patente y su número de
+unidad a que corresponde el documento;
 
-motor; la constancia de cumplir el vehículo con las
+el número de identificación
 
-regulaciones que le son aplicables en lo relativo a
+asignado a cada vehículo por su
 
-emisiones y a aspectos constructivos; la vigencia del
+fabricante (V.I.N.); su placa
 
-Certificado que estará vinculada al último dígito de su
+patente y su número de motor; la
 
-placa patente de acuerdo al calendario del artículo 7º
+constancia de cumplir el vehículo con
 
-del decreto Nº 156, de 1990, en relación con el decreto
+las regulaciones que le son
 
-Nº 227, de 1994, ambos del Ministerio, y las demás
+aplicables en lo relativo a
 
-indicaciones propias de un documento de esta naturaleza.
+emisiones y a aspectos
 
-El C.H.I., emitido deberá ser enviado al correo u otro
+constructivos; la vigencia del
 
-medio electrónico que señale el adquirente del vehículo.
+Certificado que estará vinculada
 
-El archivo electrónico será suficiente para la obtención
+al último dígito de su placa patente
 
-del permiso de circulación correspondiente, sin perjuicio
-
-de la entrega de copias impresas al adquirente para
-
-portarlas en el vehículo, en caso que éste así lo
-
-requiera. El número de código a que se refiere esta
-
-disposición deberá también indicarse en el rótulo que
-
-deben llevar los vehículos de conformidad al inciso
-
-primero del artículo 3º del decreto supremo Nº 211-91
-
-antes referido. Los datos de la placa patente del
-
-vehículo y el período de vigencia del C.H.I., serán
-
-completados directamente por el emisor del mismo, junto
-
-con todos los demás datos incluidos en el Certificado.
-
-4º Los vehículos respecto de los cuales se acredite
-
-ante el Departamento del Tránsito y Transporte Público
-
-Municipal correspondiente, que están cubiertos por un
-
-Certificado de Homologación Individual vigente, quedarán
-
-liberados de revisión técnica y de gases para efectos de
-
-obtener permiso de circulación durante el período de
-
-validez del Certificado. La revisión técnica y de gases
-
-de los vehículos a que se refiere el inciso segundo del
+de acuerdo al calendario del
 
 #### Artículo 7º
 
-del decreto Nº 156, antes mencionado, deberá
+del decreto Nº 156,
 
-realizarse en un plazo no inferior a veinticuatro ni
+de 1990, en relación con el
 
-superior a treinta y seis meses contados desde el mes en
+decreto Nº 227, de 1994, ambos
 
-que se expidió ese documento y según corresponda de
+del Ministerio, y las demás indicaciones
 
-acuerdo al último dígito de su placa patente. No
+propias de un documento de esta naturaleza.
 
-obstante lo anterior, las revisiones técnicas, excluida
+El C.H.I., emitido deberá ser
 
-la de gases, respecto de taxis básicos, colectivos o de
+enviado al correo u otro medio
 
-turismo, vehículos escuela y de transporte escolar y, en
+electrónico que señale el adquirente
 
-general, las de los del inciso primero del artículo 7º
+del vehículo. El archivo electrónico
 
-del decreto recién aludido, deberán realizarse en un
+será suficiente para la obtención
 
-plazo de doce meses contados desde la fecha de
+del permiso de circulación
 
-expedición del C.H.I., y la de gases en un plazo de seis
+correspondiente, sin perjuicio
 
-meses contados en la misma forma.
+de la entrega de copias impresas
 
-5º No obstante lo señalado en el número 1º, cuando
+al adquirente para portarlas en el
 
-se trate de vehículos nuevos, de un mismo modelo,
+vehículo, en caso que éste así lo
 
-importados por una misma persona para la Región
+requiera. El número de código a que
 
-Metropolitana o para las regiones Quinta o Sexta en
+se refiere esta disposición deberá
 
-volúmenes que no excedan de tres vehículos en el período
+también indicarse en el rótulo que
 
-de un año, el C.H.I. será otorgado directamente por el
+deben llevar los vehículos de
 
-Ministerio a través del Centro de Control y
+conformidad al inciso primero del
 
-Certificación Vehicular del decreto supremo 54/97. Si
+#### Artículo 3º
 
-los mismos vehículos y en el mismo caso señalado
+del decreto supremo
 
-fueren importados para regiones distintas de las
+Nº 211-91 antes referido. Los
 
-indicadas, respecto de ellos podrá procederse, a
+datos de la placa patente del
 
-través de la revisión especial de gases del artículo
+vehículo y el período de vigencia
 
-7º del decreto supremo Nº 211, de 1992 del Ministerio.
+del C.H.I., serán completados
 
-En todo caso, los mismos vehículos podrán ampararse en
+directamente por el emisor del mismo,
 
-homologaciones ya realizadas respecto del modelo
+junto con todos los demás datos
 
-correspondiente, previo acuerdo con quien cuente con
+incluidos en el Certificado.
 
-el Certificado de Homologación de que se trate. Los
+4º Los vehículos respecto de
 
-vehículos de importación directa, en calidad de usados,
+los cuales se acredite ante el
 
-a los que no es aplicable el sistema de homologación,
+Departamento del Tránsito y
 
-deberán ser sometidos a la revisión especial de gases
+Transporte Público Municipal
+
+correspondiente, que están
+
+cubiertos por un Certificado de
+
+Homologación Individual vigente,
+
+quedarán liberados de revisión
+
+técnica y de gases para efectos de
+
+obtener permiso de circulación
+
+durante el período de validez del
+
+Certificado. La revisión técnica y
+
+de gases de los vehículos a que
+
+se refiere el inciso segundo del
+
+#### Artículo 7º
+
+del decreto Nº 156,
+
+antes mencionado, deberá
+
+realizarse en un plazo no
+
+inferior a veinticuatro ni
+
+superior a treinta y seis meses
+
+contados desde el mes en que se expidió
+
+ese documento y según corresponda de
+
+acuerdo al último dígito de su placa
+
+patente. Sin
+
+perjuicio de lo señalado
+
+precedentemente, los vehículos
+
+a que se refiere el inciso
+
+segundo del artículo 7°
+
+del decreto N° 156, antes
+
+mencionado, excluidas las
+
+motocicletas que se definen
+
+en el decreto supremo N°104, de
+
+2000, del Ministerio de
+
+Transportes y Telecomunicaciones,
+
+que efectúen las mantenciones
+
+recomendadas por los
+
+fabricantes en el manual de
+
+garantía y servicios y/o
+
+plan de mantenimiento
+
+o su equivalente en un
+
+taller autorizado por
+
+los fabricantes, armadores,
+
+importadores o sus
+
+respectivos representantes,
+
+de cada marca de vehículos y
+
+habilitados para emitir
+
+certificados de homologación
+
+individual electrónicos previo
+
+a su expiración, podrán
+
+optar hasta por dos veces
+
+consecutivas, a la extensión
+
+de su Certificado de
+
+Homologación Individual
+
+electrónico. Cada extensión
+
+tendrá una vigencia de
+
+doce meses, contada desde la
+
+fecha de expiración del
+
+último certificado
+
+emitido, postergándose
+
+correspondientemente
+
+el plazo para la respectiva
+
+revisión técnica.
+
+5º No obstante lo señalado
+
+en el número 1º, cuando se trate
+
+de vehículos nuevos, de un mismo
+
+modelo, importados por una
+
+misma persona para la Región
+
+Metropolitana o para las
+
+regiones Quinta o Sexta en
+
+volúmenes que no excedan
+
+de tres vehículos en el período
+
+de un año, el C.H.I. será
+
+otorgado directamente por el
+
+Ministerio a través del
+
+Centro de Control y
+
+Certificación Vehicular
+
+del decreto supremo 54/97. Si
+
+los mismos vehículos y en
+
+el mismo caso señalado
+
+fueren importados para
+
+regiones distintas de las
+
+indicadas, respecto de
+
+ellos podrá procederse, a
+
+través de la revisión
+
+especial de gases del artículo
+
+7º del decreto supremo Nº 211,
+
+de 1992 del Ministerio.
+
+En todo caso, los mismos
+
+vehículos podrán ampararse
+
+enhomologaciones ya realizadas
+
+respecto del modelo
+
+correspondiente, previo acuerdo
+
+con quien cuente con
+
+el Certificado de Homologación
+
+de que se trate. Los
+
+vehículos de importación directa,
+
+en calidad de usados,a los que
+
+no es aplicable el sistema
+
+de homologación,deberán ser
+
+sometidos a la revisión
+
+especial de gases
 
 a que se hizo referencia.
 
-6º Los vehículos nuevos del tipo pesado
+6º Los vehículos nuevos del
 
-a que se refieren los decretos supremos números
+tipo pesado
 
-82, de 1993 y 55, de 1994, del Ministerio,
+a que se refieren los decretos
 
-continuarán sujetos al procedimiento que les rige
+supremos números
+
+82, de 1993 y 55, de 1994,
+
+del Ministerio,
+
+continuarán sujetos al
+
+procedimiento que les rige
 
 en el presente.
 
-7º Los Departamentos del Tránsito y Transporte
+7º Los Departamentos
 
-Público Municipal deberán aceptar, alternativamente,
+del Tránsito y Transporte
 
-para el otorgamiento de permisos de circulación para
+Público Municipal deberán aceptar,
 
-los vehículos livianos nuevos del número 1º, la
+alternativamente, para el
 
-documentación actualmente exigible en el caso de
+otorgamiento de permisos de
 
-modelos de vehículos a los cuales el Ministerio les
+circulación para los vehículos
 
-haya asignado códigos para la emisión de certificados
+livianos nuevos del número
 
-de vehículo individual, de acuerdo al procedimiento
+1º, la documentación
 
-vigente, o los C.H.I. de la presente normativa.
+actualmente exigible en el
 
-8º Agrégase el siguiente párrafo segundo al inciso
+caso de modelos de
 
-primero del artículo 7º del decreto Nº 156, de 1990, del
+vehículos a los cuales
 
-Ministerio: "Sin embargo, la primera revisión técnica de
+el Ministerio les haya
 
-los vehículos indicados, que sean de modelos que hayan
+asignado códigos para la
 
-sido aprobados en el proceso de homologación a que se
+emisión de certificados
 
-refiere el decreto supremo Nº 54, de 1997, del
+de vehículo individual, de
 
-Ministerio de Transportes y Telecomunicaciones, excluida
+acuerdo al procedimiento
 
-la revisión de gases, se hará en el plazo de doce meses
+vigente, o los C.H.I. de
 
-contados desde el mes que se expidió el Certificado de
+la presente normativa.
 
-Homologación Individual del artículo 5º de ese decreto,
+8º Agrégase el siguiente
 
-y la de gases en el plazo de seis meses contados en la
+párrafo segundo al inciso
+
+primero del artículo 7º del
+
+decreto Nº 156, de 1990, del
+
+Ministerio: "Sin embargo, la
+
+primera revisión técnica de
+
+los vehículos indicados, que
+
+sean de modelos que hayan
+
+sido aprobados en el proceso
+
+de homologación a que se
+
+refiere el decreto supremo Nº
+
+54, de 1997, del
+
+Ministerio de Transportes y
+
+Telecomunicaciones, excluida
+
+la revisión de gases, se hará
+
+en el plazo de doce meses
+
+contados desde el mes que
+
+se expidió el Certificado de
+
+Homologación Individual del
+
+#### Artículo 5º
+
+de ese decreto,
+
+y la de gases en el plazo de
+
+seis meses contados en la
 
 misma forma.".
 
-9º Sustitúyese en el decreto Nº 141, de 1997, del
+9º Sustitúyese en el
 
-Ministerio, las expresiones "no inferior a doce ni
+decreto Nº 141, de 1997, del
 
-superior a veinticuatro meses" por "no inferior a
+Ministerio, las expresiones
 
-veinticuatro ni superior a treinta y seis meses".
+"no inferior a doce ni
 
-10º Derógase el decreto Nº 151, de 1997, del
+superior a veinticuatro
+
+meses" por "no inferior a
+
+veinticuatro ni superior
+
+a treinta y seis meses".
+
+10º Derógase el decreto
+
+Nº 151, de 1997, del
 
 Ministerio, sin tramitar.
 
