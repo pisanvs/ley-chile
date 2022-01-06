@@ -232,7 +232,7 @@ La disposición y capacidad de los edificios, equipos, estructuras y otros eleme
 
 3.1 Descripción General de la Obra
 
-El proyecto consiste en la construcción de una nueva S/E en torno a la actual S/E Casablanca. Además, incluye la instalación de un nuevo banco de autotransformadores monofásicos de 220/66 kV de capacidad de 150 MVA, con su respectiva unidad de reserva, la cual deberá contar con conexión automática. El patio de 220 kV de esta nueva S/E deberá ser en configuración interruptor y medio, con media diagonal construida para la conexión del equipo de transformación y espacio para al menos cuatro diagonales completas, de las cuales dos serán utilizadas por la Nueva Línea Nueva Alto Melipilla – Nueva Casablanca – La Pólvora – Agua Santa. Adicionalmente, el proyecto incluye el seccionamiento del circuito Nº 1 de la línea 2x66 kV Casablanca - Tap Algarrobo y la construcción de los enlaces en 66 kV a la S/E Nueva Casablanca desde las estructuras de seccionamiento. El patio de 66 kV será en configuración doble barra más transferencia con sus respectivos paños de conexión, uno para el transformador, uno para el enlace con la actual S/E Casablanca y otro para el enlace con el Tap Algarrobo, más espacio para, a lo menos, dos paños futuros.
+El proyecto consiste en la construcción de una nueva S/E en torno a la actual S/E Casablanca. Además, incluye la instalación de un nuevo banco de autotransformadores monofásicos de 220/66 kV de capacidad de 150 MVA, con su respectiva unidad de reserva, la cual deberá contar con conexión automática. El patio de 220 kV de esta nueva S/E deberá ser en configuración interruptor y medio, con media diagonal construida para la conexión del equipo de transformación y espacio para al menos cuatro diagonales completas, de las cuales dos serán utilizadas por la Nueva Línea Nueva Alto Melipilla – Nueva Casablanca – La Pólvora – Agua Santa. Adicionalmente, el proyecto incluye la construcción del enlace 2x66 kV a la actual S/E Casablanca. El patio de 66 kV será en configuración doble barra más transferencia con sus respectivos paños de conexión, uno para el transformador y dos para el enlace con la actual S/E Casablanca, más espacio para, a lo menos, dos paños futuros.
 
 Para el correcto diseño de la subestación se deben considerar las siguientes capacidades por barra:
 
@@ -272,9 +272,7 @@ Las instalaciones mínimas a considerar por el Adjudicatario, sin ser exhaustivo
 
 - Paño en 66 kV para equipo de transformación 220/66 kV, 150 MVA.
 
-- Un paño para el enlace con la S/E Casablanca.
-
-- Un paño para el enlace con el Tap Algarrobo.
+- Dos paños para el enlace con la S/E Casablanca.
 
 - Espacio disponible para dos paños futuros en 66 kV.
 
@@ -290,17 +288,21 @@ El espacio para las diagonales que alojarán la Nueva Línea 2x220 kV Nueva Alto
 
 Se entenderá que el "espacio disponible" destinado a las futuras obras quedará dentro del cerco perimetral de la subestación, limpio, nivelado, con adecuada accesibilidad para su mantenimiento y posterior uso, y deberá contar con las obras necesarias para permitir el escurrimiento y conducción de las aguas lluvia.
 
-3.4 Características Técnicas Mínimas del Seccionamiento del circuito Nº 1 de la línea 2x66 kV Casablanca - Tap Algarrobo.
+3.4 Características Técnicas Mínimas para los paños de Línea en la S/E Casablanca
 
-Se debe realizar el seccionamiento del circuito Nº 1 de la línea 2x66 kV Casablanca - Tap Algarrobo. Adicionalmente, se deben construir los enlaces necesarios para conectar las estructuras de seccionamiento a la Subestación Nueva Casablanca. Para realizar este seccionamiento y enlaces, se deben considerar los requerimientos operacionales asociados a la línea a seccionar y a las de enlace, es decir, los tiempos disponibles para realizar desconexiones y realizar trabajos con las líneas.
+El enlace 2x66 kV entre S/E Nueva Casablanca y la existente S/E Casablanca debe incluir la construcción de los paños en 66 kV en la actual Subestación Casablanca.
 
-Para el seccionamiento es necesario construir nuevas estructuras de seccionamiento o realizar modificaciones o refuerzos a las actuales estructuras o cualquier método que el adjudicatario considere, de modo que permitan realizar el seccionamiento a la línea.
+El Adjudicatario será el encargado de construir los paños en 66 kV destinados a la conexión del enlace entre S/E Casablanca y S/E Nueva Casablanca, de manera tal que permita la conexión de los paños a la subestación existente.
 
-Los nuevos tramos de líneas deben mantener o mejorar el estándar de diseño actual de la línea y no afectar la línea eléctrica de la zona en donde se realizará el seccionamiento.
+Se dispondrá de la extensión de barras, plataforma y malla de puesta a tierra para los dos paños de línea destinados a la conexión del enlace antes mencionado. El Adjudicatario será el encargado de hacer todas las obras necesarias para dicha conexión.
 
-Debido al cambio de trazado que se debe realizar a la línea, se debe tener en cuenta la eventual necesidad de considerar nuevas servidumbres para los tramos nuevos de líneas, además de los trámites medioambientales correspondientes.
+Para realizar cada una de las obras de la subestación descritas anteriormente, se debe considerar además la adquisición del terreno que se destinará a la construcción de la Nueva S/E Casablanca.
 
-Se deben considerar posibles desmontajes en los tramos de línea que no sean utilizados por el proyecto producto del seccionamiento en el circuito Nº 1 de la línea 2x66 kV Casablanca - Tap Algarrobo. Las estructuras que se desmonten deberán trasladarse a la instalación más cercana del propietario.
+Los conjuntos de aislación utilizados en subestaciones deberán ser de vidrio o porcelana y los aisladores de los equipos deberán ser de porcelana.
+
+Los equipos de protección, control, comunicaciones deben instalarse en casetas construidas para cada diagonal.
+
+La disposición y capacidad de los edificios, equipos, estructuras y otros elementos que conformen la subestación, deberá permitir que las expansiones futuras se realicen de manera adecuada, haciendo posible el ingreso ordenado y sin interferencias de futuras líneas y circuitos, evitando generar espacios ciegos que impidan la plena utilización de las barras.
 
 ### 4. NUEVA S/E LA PÓLVORA 220/110 KV
 
@@ -1718,11 +1720,11 @@ Los equipos de protección, control, comunicaciones deben instalarse en casetas 
 
 La disposición y capacidad de los edificios, equipos, estructuras y otros elementos que conformen la subestación, deberá permitir que las expansiones futuras se realicen de manera adecuada, haciendo posible el ingreso ordenado y sin interferencias de futuras líneas y circuitos, evitando generar espacios ciegos que impidan la plena utilización de las barras.
 
-### 25. S/E Quepe 2x66 kV
+### 25. S/E NUEVA METRENCO 220/66 KV
 
 25.1 Descripción General de la Obra
 
-El proyecto consiste en la construcción de una nueva S/E en un radio de 3 kms desde el cruce de las líneas 2x220 kV Cautín - Ciruelos y 2x66 kV Temuco - Loncoche, con un patio de 220 kV, en configuración interruptor y medio, que permita seccionar la línea 2x220 kV Cautín – Ciruelos y un patio de 66 kV, en configuración doble barra más transferencia, que seccione la línea 2x66 kV Temuco – Loncoche. Ambos patios serán conectados a través de la instalación de dos nuevos transformadores de 220/66 kV de capacidad de 60 MVA, los que no podrán compartir la misma diagonal. En el patio de 220 kV se deberá dejar espacio para al menos dos diagonales completas y en el patio de 66 kV se deberá dejar espacio para al menos cinco paños.
+El proyecto consiste en la construcción de una nueva S/E en un radio de 1,5 km desde el actual Tap Metrenco 66 kV, con un patio de 220 kV, en configuración interruptor y medio, que permita seccionar la línea 2x220 kV Cautín – Ciruelos y un patio de 66 kV, en configuración doble barra más transferencia, que seccione la línea 2x66 kV Temuco – Loncoche. Ambos patios serán conectados a través de la instalación de dos nuevos transformadores de 220/66 kV de capacidad de 60 MVA, los que no podrán compartir la misma diagonal. En el patio de 220 kV se deberá dejar espacio para al menos dos diagonales completas y en el patio de 66 kV se deberá dejar espacio para al menos cinco paños.
 
 Para el correcto diseño de la subestación se deben considerar las siguientes capacidades por barra:
 
@@ -1740,7 +1742,7 @@ Asimismo, respecto a la coordinación de las obras, será responsabilidad de los
 
 25.2 Ubicación de la Obra
 
-La nueva Subestación Nueva Metrenco deberá quedar ubicada en un radio de 3 kms desde el cruce de las líneas 2x220 kV Cautín - Ciruelos y 2x66 kV Temuco - Loncoche, al sur de la ciudad de Temuco. El Adjudicatario será el responsable de realizar los estudios correspondientes y establecer la mejor ubicación que satisfaga los requerimientos del proyecto.
+La nueva Subestación Nueva Metrenco deberá quedar ubicada en un radio de 1,5 km desde el actual Tap Metrenco en 66 kV, al sur de la ciudad de Temuco. El Adjudicatario será el responsable de realizar los estudios correspondientes y establecer la mejor ubicación que satisfaga los requerimientos del proyecto.
 
 25.3 Características Técnicas Mínimas del Seccionamiento de Línea de 2x220 kV y 2x66 kV
 
@@ -1868,11 +1870,11 @@ Los conjuntos de aislación utilizados en subestaciones deberán ser de vidrio o
 
 La disposición y capacidad de los edificios, equipos, estructuras y otros elementos que conformen la subestación, deberá permitir que las expansiones futuras se realicen de manera adecuada, haciendo posible el ingreso ordenado y sin interferencias de futuras líneas y circuitos, evitando generar espacios ciegos que impidan la plena utilización de las barras.
 
-### 27. Línea 2x66 kV Quepe - Enlace Imperial
+### 27. LÍNEA 2X66 KV NUEVA METRENCO – ENLACE IMPERIAL
 
 27.1 Descripción General de la Obra
 
-El proyecto consiste en la construcción de una nueva línea 2x66 kV, de aproximadamente 40 km de extensión, entre la S/E Nueva Metrenco y la Nueva S/E Enlace Imperial, con una capacidad de, a lo menos, 52 MVA por circuito, a 35° C con sol.
+El proyecto consiste en la construcción de una nueva línea 2x66 kV, de aproximadamente 30 km de extensión, entre la S/E Nueva Metrenco y la Nueva S/E Enlace Imperial, con una capacidad de, a lo menos, 52 MVA por circuito, a 35° C con sol.
 
 El proyecto incluye los respectivos paños de línea en las subestaciones mencionadas, como también todas las obras, modificaciones y labores necesarias para la ejecución y puesta en servicio, tales como comunicaciones, teleprotecciones, SCADA, obras civiles, montaje, pruebas de los nuevos equipos, adecuaciones en el patio de media tensión, entre otras.
 
@@ -1884,7 +1886,7 @@ Asimismo, respecto a la coordinación de las obras, será responsabilidad de los
 
 27.2 Ubicación de la Obra
 
-La Nueva Línea 2x66 kV Quepe - Enlace Imperial se encuentra ubicada en su totalidad en la Región de la Araucanía y comienza su recorrido en la comuna de Freire para terminar su trazado en la comuna de Nueva Imperial. El Adjudicatario será el responsable de realizar los estudios correspondientes y establecer la mejor opción de trazado que satisfaga los requerimientos del proyecto.
+La Nueva Línea 2x66 kV Nueva Metrenco – Enlace Imperial se encuentra ubicada en su totalidad en la Región de la Araucanía y comienza su recorrido en la comuna de Padre Las Casas para terminar su trazado en la comuna de Nueva Imperial. El Adjudicatario será el responsable de realizar los estudios correspondientes y establecer la mejor opción de trazado que satisfaga los requerimientos del proyecto.
 
 27.3 Características Técnicas Mínimas de la Línea
 
@@ -1914,13 +1916,13 @@ viento de 0,61 m/s
 
 La nueva línea de transmisión debe incluir la construcción del paño en 66 kV para la llegada de línea en la nueva S/E Nueva Metrenco, la construcción del paño en 66 kV para la llegada de la línea en la S/E Enlace Imperial y las obras comunes asociadas a estos paños.
 
-27.4.1 S/E Quepe 2x66 kV.
+27.4.1 S/E Nueva Metrenco 220/66 kV.
 
-Se dispondrá de la extensión de las barras, plataforma, malla de puesta a tierra, instalaciones comunes y servicios auxiliares para dos paños de línea destinadas a la conexión de la Nueva Línea 2x66 kV Quepe - Enlace Imperial. El Adjudicatario será el encargado de hacer todas las obras necesarias para dicha conexión y sus respectivos paños.
+Se dispondrá de la extensión de las barras, plataforma, malla de puesta a tierra, instalaciones comunes y servicios auxiliares para dos paños de línea destinadas a la conexión de la Nueva Línea 2x66 kV Nueva Metrenco – Enlace Imperial. El Adjudicatario será el encargado de hacer todas las obras necesarias para dicha conexión y sus respectivos paños.
 
 27.4.2 S/E Enlace Imperial 66/23 kV
 
-Se dispondrá de la extensión de las barras, plataforma, malla de puesta a tierra, instalaciones comunes y servicios auxiliares para dos paños de línea destinadas a la conexión de la Nueva Línea 2x66 kV Quepe - Enlace Imperial. El Adjudicatario será el encargado de hacer todas las obras necesarias para dicha conexión y sus respectivos paños.
+Se dispondrá de la extensión de las barras, plataforma, malla de puesta a tierra, instalaciones comunes y servicios auxiliares para dos paños de línea destinadas a la conexión de la Nueva Línea 2x66 kV Nueva Metrenco – Enlace Imperial. El Adjudicatario será el encargado de hacer todas las obras necesarias para dicha conexión y sus respectivos paños.
 
 28. NUEVA LÍNEA 2X66 KV NUEVA VALDIVIA – PICARTE, TENDIDO DEL PRIMER CIRCUITO
 
@@ -2131,18 +2133,6 @@ b) Nueva Línea 2x220 Nueva Nirivilo - Nueva Cauquenes: Corresponde a un 18,321%
 c) Nueva Línea 2x220 Nueva Cauquenes - Dichato: Corresponde a un 34,656% del V.A.T.T. con que el proyecto fue adjudicado.
 
 d) Nueva Línea 2x220 Dichato - Hualqui: Corresponde a un 20,420% del V.A.T.T. con que el proyecto fue adjudicado.
-
-> **Nota.** La letra a. del artículo primero del decreto 6T, Energía, publicado el 11.08.2022, modifica el plazo constructivo de la Obra Nueva S/E Pueblo Seco 154 kV, establecido en el imperativo 1º, en el sentido de prorrogar en 27 días corridos el plazo previsto para su cumplimiento.
-
-> **Nota.** NOTA 1 La letra b. del artículo primero del decreto 6T, Energía, publicado el 11.08.2022, modifica el plazo de cumplimiento del Hito Relevante Nº 5, establecido en el numeral 1 del imperativo 5º, en el sentido de prorrogar en 27 días corridos el plazo previsto para su cumplimiento, de forma tal que en definitiva éste deberá cumplirse a más tardar el 27 de septiembre de 2021.
-
-> **Nota.** NOTA 2 El número 2° del Decreto 5, Energía, publicado el 28.10.2022, modifica el resuelvo 5° de la presente norma, en el sentido de señalar que los plazos de cumplimiento de los Hitos Relevantes indicados en dicho resuelvo, para las obras S/E Nueva Metrenco 220/66 kV y Línea 2x66 kV Nueva Metrenco - Enlace Imperial, como asimismo, respecto a las mismas obras mencionadas, los plazos constructivos señalados en la tabla del resuelvo 1° del presente Decreto, se contabilizarán desde la publicación del citado decreto en el Diario Oficial.
-
-> **Nota.** NOTA 3 El numeral 2º del Decreto 4, Energía, publicado el 19.02.2025, dispone modificar la tabla inserta en el resuelvo 1º de la presente norma en el sentido de señalar que el plazo constructivo para la obra "S/E Nueva Casablanca 220/66 kV", así como también el plazo de cumplimiento del Hito Relevante Nº 5: Entrada en Operación, indicado en el literal e) del resuelvo 5º, corresponderá a 18 meses contabilizados desde la publicación del citado decreto en el Diario Oficial.
-
-> **Nota.** NOTA 4 El numeral 1 del artículo primero del Decreto 7, Energía, publicado el 08.07.2025, modifica la tabla inserta en el resuelvo 1° de la presente norma, respecto a la obra nueva denominada "Nueva S/E Lastarria 220/66 kV", en el sentido de reemplazar en la celda ubicada en la fila Nº 24 y en la columna denominada "Plazo Constructivo Meses", el guarismo "28" por "28 y 156 días corridos (22 de junio de 2022)".
-
-> **Nota.** NOTA 5 El numeral 2 del artículo primero del Decreto 7, Energía, publicado el 08.07.2025, modifica la tabla inserta en el número 1 del resuelvo 5° de la presente norma, respecto a la obra nueva denominada "Nueva S/E Lastarria 220/66 kV", en el sentido de reemplazar en la celda ubicada en la fila Nº 24 y en la columna denominada "Hito Nº 5 meses", el guarismo "28" por "28 y 156 días corridos (22 de junio de 2022)".
 
 Anótese, tómese razón y publíquese. - Por orden del Presidente de la República, Ricardo Irarrázabal Sánchez, Ministro de Energía (S).
 
