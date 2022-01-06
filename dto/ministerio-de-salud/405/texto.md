@@ -420,7 +420,7 @@ De las Listas de Psicotrópicos
 
 DROGAS: LISTA I
 
-ACETIL - N, N – DIETIL - LISERGAMIDA (ALD-52)
+ACETIL-N, N–DIETIL - LISERGAMIDA (ALD-52)
 
 DET N,N- dietiltriptamina
 
@@ -434,9 +434,9 @@ b,d pirano
 
 DMT N,N-dimetiltriptamina
 
-LISERGIDA (LSD, LSD 25) N,N-dietil-D-lisergamida
+LISERGIDA N,N-dietil-D-lisergamida
 
-(dietil-amida del ácido-D-
+(LSD, LSD 25) (dietil-amida del ácido-D-
 
 Lisérgico)
 
@@ -454,23 +454,25 @@ PSILOCIBINA 3-{2-) dimetil-amino)-etil}
 
 1H-indol-4-ol fosfato
 
-PSILOCINA, PSILOTSINA 3-(2-(dimetilamino)
+PSILOCINA, 3-(2-(dimetilamino)
 
-etil)-4-hidroxi-indol
+PSILOTSINA etil)-4-hidroxi-indol
 
 STP, DOM 2-amino-1-(2,5-dimetoxi
 
 -4-metil) fenil propano
 
-TETRAHIDROCANABINOLES 6a (10a), 6a (7), 7, 8, 9,
+TETRA- 6a (10a), 6a (7), 7, 8, 9,
 
-(todos los isómeros) 10, 9 (II)y sus variantes
+HIDROCANABINOLES 10, 9 (II)y sus variantes
 
-estereoquímicas
+(todos los estereoquímicas
 
-FENCICLIDINA y sus
+isómeros)
 
-análogos: 1-(1-fenilciclohexil)
+FENCICLIDINA 1-(1-fenilciclohexil)
+
+y sus análogos:
 
 piperidina
 
@@ -532,9 +534,9 @@ MDMA dl-3,4-metilenedioxi-N, alfa
 
 -dimetil-feniletilamina
 
-BROLAMFETAMINA DOB 2,5-Dimetoxi-4-br
+BROLAMFETAMINA 2,5-Dimetoxi-4-br
 
-omoamfetamina
+DOB omoamfetamina
 
 MDA 3,4-metilenodio
 
@@ -720,13 +722,41 @@ amino} – 3,
 
 3-dimethylbutanoate)
 
-METALILESCALINA: 4-metilaliloxi-3,5-dimetoxifenetilamina
+METALILESCALINA: 4-metilaliloxi-3,5-
+
+dimetoxifenetilamina
+
+MDDM - NN- DIMETIL-3,4-
+
+Metilendioxianfetamina
+
+6-APB 6-(2-aminopropyl)
+
+benzofurano
+
+2CB-Butterfly 8-Bromo-2,3,6,7-benzo-
+
+o 2CB-FLY dihidro-difuran-
+
+etilamina
+
+5-MAPB 5-(2-metilaminopropil)
+
+benzofurano
+
+4-APB 1-(1-benzofuran4-il)
+
+propan-2-amina
+
+MDAI 5,6-Metilendioxi-
+
+2-aminoindano.
 
 DROGAS: LISTA II
 
-AMFETAMINA (+-) -2-amino-1-fenilpropano y
+AMFETAMINA (+-) -2-amino-1-fenilpropano
 
-sus isómeros ópticos
+y sus isómeros ópticos
 
 DEXAMFETAMINA (+-) -2-amino-1-fenilpropano
 
@@ -918,143 +948,245 @@ La condición de venta de los productos que contengan estas drogas o sus sales e
 
 Drogas: Lista IV
 
-ACECARBROMAL N-acetil-N-bromodietilacetil-urea
+ACECARBROMAL N-acetil-N-bromodietilacetil
 
-ALPRAZOLAM 8-cloro-1-metil-6-fenil-4H-s-triazolo[4,3-a]
+-urea
+
+ALPRAZOLAM 8-cloro-1-metil-6-fenil-4H
+
+-s-triazolo[4,3-a]
 
 [1,4] benzodiacepina
 
-BENZFETAMINA N-bencil-N, à-dimetilfenetilamina
+BENZFETAMINA N-bencil-N, à-
 
-BROMAZEPAM 7-bromo-1,3-dihidro-5-(2-piridil)-2H-1,4-
+dimetilfenetilamina
 
-benzodiacepin-2-ona
+BROMAZEPAM 7-bromo-1,3-dihidro-
 
-BROMISOVAL à-bromo-á-dimetil-propanoilurea
-
-BUTALLYLONAL Acido 5(2-bromoalil)-5-sec-butil barbitúrico
-
-BUTOBARBITAL ácido 5-butil-5-etilbarbitúrico
-
-CAMAZEPAM 7-cloro-1,3-dihidro-3-hidroxi-1-metil-5-
-
-fenil-2H-1,4-benzodiacepin-2-ona
-
-dimetilcarbamato (éster)
-
-CARBROMAL N(-à-bromo-à-etil-butiril-urea)
-
-CLOBAZAM 7-cloro-1-metil-5-fenil-1H-1,5-
-
-benzodiacepin-2,4(3H,5H)-diona
-
-CLOBENZOREX (+)-N-(O-clorobenzil)-à-metilfenetilamina
-
-CONAZEPAM 5-(o-clorofenil)-1,3-dihidro-7-nitro-2H-1,4-
+5-(2-piridil)-2H-1,4-
 
 benzodiacepin-2-ona
 
-CLORALODOL 2-metil 4- (2,2,2-tricloro-1-hidroxietoxi)
+BROMISOVAL à-bromo-á-dimetil-
+
+propanoilurea
+
+BUTALLYLONAL Acido 5(2-bromoalil)-
+
+5-sec-butil barbitúrico
+
+BUTOBARBITAL ácido 5-butil-5-
+
+etilbarbitúrico
+
+CAMAZEPAM 7-cloro-1,3-dihidro-3-
+
+hidroxi-1-metil-5-
+
+fenil-2H-1,4-
+
+benzodiacepin-2-ona
+
+dimetilcarbamato
+
+(éster)
+
+CARBROMAL N(-à-bromo-à-etil-
+
+butiril-urea)
+
+CLOBAZAM 7-cloro-1-metil-5-
+
+fenil-1H-1,5-
+
+benzodiacepin-2,4
+
+(3H,5H)-diona
+
+CLOBENZOREX (+)-N-(O-clorobenzil)-à-
+
+metilfenetilamina
+
+CONAZEPAM 5-(o-clorofenil)-1,3-
+
+dihidro-7-nitro-2H-1,4-
+
+benzodiacepin-2-ona
+
+CLORALODOL 2-metil 4- (2,2,2-
+
+tricloro-1-hidroxietoxi)
 
 2-pentanol
 
-CLORALOSA 1,2-o (2,2,2-tricloro etilideno)-à- D
+CLORALOSA 1,2-o (2,2,2-tricloro
+
+etilideno)-à- D
 
 glucofuranosa
 
-CLORAZEPATO 7-cloro-2,3-dihidro-2-oxo-5-fenil-1H-1,4-
+CLORAZEPATO 7-cloro-2,3-dihidro-
 
-benzodiacepin-3-ácido carboxílico
+2-oxo-5-fenil-1H-1,4-
 
-CLORDIAZEPOXIDO 7-cloro-2-(metilamino)-5-fenil-3H-1,4-
+benzodiacepin-3-ácido
+
+carboxílico
+
+CLORDIAZEPOXIDO 7-cloro-2-(metilamino)-
+
+5-fenil-3H-1,4-
 
 benzodiacepin-4-óxido
 
-CLORFENTERMINA 1-(p-clorofenil)-2 metil-2-aminopropano
+CLORFENTERMINA 1-(p-clorofenil)-2 metil-
 
-CLOTIAZEPAM 5-(o-clorofenil)-7-etil-1,3-dihidro-1-metil-
+2-aminopropano
 
-2H-tieno[2,3-e]-1,4-diacepin-2-ona
+CLOTIAZEPAM 5-(o-clorofenil)-7-etil-1,
 
-CLOXAZOLAM 10-cloro-11b-(o-clorofenil)-2,3,7,11b-
+3-dihidro-1-metil-
 
-tetrahidrooxazolo[3,2d][1,4]benzodiacepin-
+2H-tieno[2,3-e]-1,4-
+
+diacepin-2-ona
+
+CLOXAZOLAM 10-cloro-11b-(o-clorofenil)-
+
+2,3,7,11b-
+
+tetrahidrooxazolo[3,2d]
+
+[1,4]benzodiacepin-
 
 6(5H)-ona
 
-DELORAZEPAM 7-cloro-5-(o-clorofenil)-1,3-dihidro-2H-1,4-
+DELORAZEPAM 7-cloro-5-(o-clorofenil)-
+
+1,3-dihidro-2H-1,4-
 
 benzodiacepin-2-ona
 
-DEXTROMETORFANO (+) 3-metoxi-N-metil-morfinano
+DEXTROMETORFANO (+) 3-metoxi-N-metil-
 
-DIAZEPAM 7-cloro-1,3-dihidro-1-metil-5-fenil-2H-1,4-
+morfinano
+
+DIAZEPAM 7-cloro-1,3-dihidro-1-
+
+metil-5-fenil-2H-1,4-
 
 benzodiacepin-2-ona
 
-ESTAZOLAM 8-cloro-6-fenil-4H-s-triazolo[4,3-a][1,4]
+ESTAZOLAM 8-cloro-6-fenil-4H-s-
+
+triazolo[4,3-a][1,4]
 
 benzodiacepina
 
-ETCLORVINOL 1-cloro-3-etil-1-penteno-4-in-3-ol
+ETCLORVINOL 1-cloro-3-etil-1-
+
+penteno-4-in-3-ol
 
 ETILANFETAMINA N-etil-à-metilfenetilamina
 
-ETINAMATO 1-carbamato de etinilciclohexanol
+ETINAMATO 1-carbamato de
 
-FENCANFAMINA N-etil-3-fenil-2-norbornanamina
+etinilciclohexanol
+
+FENCANFAMINA N-etil-3-fenil-2-
+
+norbornanamina
 
 FENILETINILCARBINOL
 
 CARBAMATO Etinil-bencil-carbamato
 
-FLUDIAZEPAM 7-cloro-5-(o-fluorofenil)-1,3-dihidro-1-
+FLUDIAZEPAM 7-cloro-5-(o-fluorofenil)
 
-metil-2H-1,4-benzodiacepin-2-ona
+-1,3-dihidro-1-
 
-FLUNITRAZEPAM 5-(o-fluorofenil)-1,3-dihidro-1-
+metil-2H-1,4-
+
+benzodiacepin-2-ona
+
+FLUNITRAZEPAM 5-(o-fluorofenil)-
+
+1,3-dihidro-1-
 
 metil-7-nitro-2H-
 
-1,4-benzodiacepin-2-ona
+1,4-benzodiacepin-2-
 
-FLURAZEPAM 7-cloro-1-[2-(dietilamino)etil]-
+ona
+
+FLURAZEPAM 7-cloro-1-[2-
+
+(dietilamino)etil]-
 
 5-(o-fluorofenil)-
 
-1,3-dihidro-2H-1,4-benzodiacepin-2-ona
+1,3-dihidro-2H-1,4-
 
-HALAZEPAM 7-cloro-1,3-dihidro-5-fenil-1-(2,2,2-
+benzodiacepin-2-ona
 
-trifluoroetil)-2H-1,4-benzodiacepin-2-ona
+HALAZEPAM 7-cloro-1,3-dihidro-5-
 
-HALOXAZOLAM 10-bromo-11b-(o-fluorofenil)-2,3,7,11b-
+fenil-1-(2,2,2-
 
-tetrahidrooxazolo[3,2-d][1,4]benzodiacepin-
+trifluoroetil)-2H-1,4-
+
+benzodiacepin-2-ona
+
+HALOXAZOLAM 10-bromo-11b-
+
+(o-fluorofenil)-2,3,7,11b-
+
+tetrahidrooxazolo[3,2-d]
+
+[1,4]benzodiacepin-
 
 6(5H)-ona
 
-HEPTABARBO Acido 5-ciclo-hep-1-enil-5-etil-barbitúrico
+HEPTABARBO Acido 5-ciclo-hep-1-
 
-HIDRATO DE CLORAL 2-2-2-tricloroetano 1-1-diol
+enil-5-etil-barbitúrico
 
-KETAZOLAM 11-cloro-8,12b-dihidro-2,8-dimetil
+HIDRATO DE CLORAL 2-2-2-tricloroetano
 
--12b-fenil-4H-[1,3]-oxazino-
+1-1-diol
 
-[3,2-d][1,4]benzodiacepin-
+KETAZOLAM 11-cloro-8,12b-dihidro-
+
+2,8-dimetil
+
+-12b-fenil-4H-[1,3]-
+
+oxazino-
+
+[3,2-d][1,4]
+
+benzodiacepin-
 
 4,7(6H)-diona
 
 LOFLAZEPATO DE
 
-ETILO etil 7-cloro-5-(o-fluorofenil)-
+ETILO etil 7-cloro-5-
 
-2,3-dihidro-2-oxo-1H-1,4-
+(o-fluorofenil)-
 
-benzodiacepin-3-carboxilato
+2,3-dihidro-2-oxo-
 
-LOPRAZOLAM 6-(o-clorofenil)-2,4-dihidro-2-
+1H-1,4-
+
+benzodiacepin-3-
+
+carboxilato
+
+LOPRAZOLAM 6-(o-clorofenil)-2,
+
+4-dihidro-2-
 
 [(4-metil-1-piperacinil)
 
@@ -1070,29 +1202,45 @@ LORAZEPAM 7-cloro-5-(o-clorofenil)-
 
 1,4-benzodiacepin-2-ona
 
-LORMETAZEPAM 7-cloro-5-(o-clorofenil)-
+LORMETAZEPAM 7-cloro-5-
 
-1,3-dihidro-3-hidroxi-1-
+(o-clorofenil)-
 
-metil-2H-1,4-benzodiacepin-2-ona
+1,3-dihidro-3-
 
-MEDAZEPAM 7-cloro-2,3-dihidro-1-metil-5-fenil-1H-1,4-
+hidroxi-1-
+
+metil-2H-1,4-
+
+benzodiacepin-2-ona
+
+MEDAZEPAM 7-cloro-2,3-dihidro-
+
+1-metil-5-fenil-1H-1,4-
 
 benzodiacepina
 
-MEFENOREX N-(3-cloropropil)-à-metil-fenetilamina
+MEFENOREX N-(3-cloropropil)-
+
+à-metil-fenetilamina
 
 METILPENTINOL 3-metil-1-pentil-3-ol
 
-METIPRILONA 3,3-dietil-5-metil-2,4-piperidino-diona
+METIPRILONA 3,3-dietil-5-metil-2,
 
-MIDAZOLAM 8-cloro-6-(o-fluorofenil)-1-
+4-piperidino-diona
+
+MIDAZOLAM 8-cloro-6-(o-
+
+fluorofenil)-1-
 
 metil-4H-imidazo[1,5-
 
 a][1,4]benzodiacepina
 
-N-ETILANFETAMINA dl-N, etil-alfa-metilfeniletilamina
+N-ETILANFETAMINA dl-N, etil-alfa-
+
+metilfeniletilamina
 
 NIMETAZEPAM 1,3-dihidro-1-metil-7-
 
@@ -1100,11 +1248,17 @@ nitro-5-fenil-2H-1,4-
 
 benzodiacepin-2-ona
 
-NITRAZEPAM 1,3-dihidro-7-nitro-5-fenil-
+NITRAZEPAM 1,3-dihidro-7-nitro-
 
-2H-1,4-benzodiacepin-2-ona
+5-fenil-
 
-NORDAZEPAM 7-cloro-1,3-dihidro-5-fenil-
+2H-1,4-benzodiacepin-
+
+2-ona
+
+NORDAZEPAM 7-cloro-1,3-dihidro-
+
+5-fenil-
 
 2H-1,4-benzodiacepin-2-
 
@@ -1116,59 +1270,89 @@ hidroxi-5-fenil-2H-1,4-
 
 benzodiacepin-2-ona
 
-OXAZOLAM 10-cloro-2,3,7,11b-tetrahidro-
+OXAZOLAM 10-cloro-2,3,7,11b-
 
-2-metil-11b-feniloxazolo
+tetrahidro-2-metil-
+
+11b-feniloxazolo
 
 [3,2-d][1,4]benzodiacepin-
 
 6(5H)-ona
 
-PEMOLINA 2-amino-5-fenil-2-oxazolina-4-ona
+PEMOLINA 2-amino-5-fenil-2-
 
-PINAZEPAM 7-cloro-1,3-dihidro-5-fenil-
+oxazolina-4-ona
 
-1-(2-propinil)-2H-1,4-
+PINAZEPAM 7-cloro-1,3-dihidro-
+
+5-fenil-1-(2-propinil)
+
+-2H-1,4-
 
 benzodiacepin-2-ona
 
-PIPRADROL à,à-difenil-2-piperidinametanol
+PIPRADROL à,à-difenil-2-
 
-PIROVALERONA 4'-metil-2-(1-pirrolidinil)valerofenona
+piperidinametanol
 
-PRAZEPAM 7-cloro-1-(ciclopropilmetil)-
+PIROVALERONA 4'-metil-2-(1-
+
+pirrolidinil)valerofenona
+
+PRAZEPAM 7-cloro-1-
+
+(ciclopropilmetil)-
 
 1,3-dihidro-5-fenil-
 
-2H-1,4-benzodiacepin-2-ona
+2H-1,4-benzodiacepin-
 
-PROPILHEXEDRINA N,à-dimetilciclohexanoctilamina
+2-ona
 
-PROBARBITAL Acido 5 etil-5-isopropil-barbitúrico
+PROPILHEXEDRINA N,à-
 
-PROLINTANO 1 fenil-2-pirrolidilpentano
+dimetilciclohexanoctilamina
 
-TEMAZEPAM 7-cloro-1,3-dihidro-3-
+PROBARBITAL Acido 5 etil-5-isopropil-
 
-hidroxi-1-metil-5-fenil-2H-
+barbitúrico
 
-1,4-benzodiacepin-2-ona
+PROLINTANO 1 fenil-2-
 
-TETRAZEPAM 7-cloro-5-(1-ciclohexen-1-
+pirrolidilpentano
+
+TEMAZEPAM 7-cloro-1,3-
+
+dihidro-3-hidroxi-1-
+
+metil-5-fenil-2H-
+
+1,4-benzodiacepin-2-
+
+ona
+
+TETRAZEPAM 7-cloro-5-(1-
+
+ciclohexen-1-
 
 il)-1,3-dihidro-1-metil-
 
-2h-1,4-benzodiacepin-2-ona
+2h-1,4-benzodiacepin-
+
+2-ona
 
 TRANILCIPROMINA 2 fenil ciclopropanamina
 
 TRIAZOLAM 8-cloro-6-(o-clorofenil)-
 
-1-metil-4H-s-triazolo[4,3-
+1-metil-4H-s-triazolo
 
-a][1,4]benzodiacepina
+[4,3-a][1,4]benzodiacepina
 
-VINILBITAL ácido 5-(1-metilbutil)-5-vinil-barbitúrico
+VINILBITAL ácido 5-(1-metilbutil)-
+
+5-vinil-barbitúrico
 
 BROTIZOLAM 2 - bromo - 4- (2 -
 
