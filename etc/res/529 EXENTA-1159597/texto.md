@@ -106,7 +106,7 @@ Asimismo, los propietarios beneficiados en el presente Llamado, podrán postular
 
 6.4 Para el caso de postulantes Adulto Mayor y postulantes en condición de Discapacidad acreditada, se exime del monto de ahorro exigido.
 
-7. El presupuesto disponible para la realización del presente llamado, asciende a 90.000 UF para un total de 300 viviendas aproximadamente, imputables al Programa Regular para el DS Nº 255/2006 de V. y U., año 2021 del Minvu. La desagregación de la cifra anterior corresponde a:
+7. El presupuesto disponible para la realización del presente llamado, asciende a 327.339 UF, para un total de 1.285 viviendas aproximadamente, imputables al Programa Regular para el DS Nº 255/2006 de V. y U., año 2021 del Minvu. La desagregación de la cifra anterior corresponde a:
 
 8. Para los proyectos de mejoramiento de baterías de viviendas pareadas y/o contiguas, que comparten muros medianeros y colindantes (ejemplo, 2 viviendas pareadas y/o grupos de entre 4 a 10 viviendas u otro similar) la distribución presupuestaria máxima a la que se puede optar, será según el cuadro indicado a continuación:
 
