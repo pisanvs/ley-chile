@@ -1,0 +1,73 @@
+FIJA VALOR DE LA UNIDAD DE FOMENTO Y DEL ÍNDICE VALOR PROMEDIO PARA LOS DÍAS COMPRENDIDOS ENTRE EL 10 DE ENERO DE 2022 Y 9 DE FEBRERO DE 2022
+
+El Banco Central de Chile, para los efectos previstos en el Capítulo II.B.3 "Sistemas de Reajustabilidad autorizados por el Banco Central de Chile (Acuerdo Nº 05-07-900105)" del Compendio de Normas Financieras, fija el valor de la "Unidad de Fomento" y del "Índice Valor Promedio" para los días comprendidos entre el 10 de enero de 2022 y 9 de febrero de 2022, en las cantidades que a continuación se indican.
+
+Valores de U.F. e I.V.P.
+
+Período del 10 de enero 2022 al 9 de febrero 2022
+
+Fecha U.F. I.V.P.
+
+10/01/2022 31.044,63 31.827,97
+
+11/01/2022 31.052,61 31.836,51
+
+12/01/2022 31.060,59 31.845,05
+
+13/01/2022 31.068,58 31.853,60
+
+14/01/2022 31.076,56 31.862,14
+
+15/01/2022 31.084,55 31.870,69
+
+16/01/2022 31.092,54 31.879,25
+
+17/01/2022 31.100,54 31.887,80
+
+18/01/2022 31.108,53 31.896,36
+
+19/01/2022 31.116,53 31.904,92
+
+20/01/2022 31.124,53 31.913,48
+
+21/01/2022 31.132,53 31.922,04
+
+22/01/2022 31.140,53 31.930,61
+
+23/01/2022 31.148,54 31.939,18
+
+24/01/2022 31.156,54 31.947,75
+
+25/01/2022 31.164,55 31.956,32
+
+26/01/2022 31.172,57 31.964,89
+
+27/01/2022 31.180,58 31.973,47
+
+28/01/2022 31.188,59 31.982,05
+
+29/01/2022 31.196,61 31.990,63
+
+30/01/2022 31.204,63 31.999,22
+
+31/01/2022 31.212,65 32.007,80
+
+01/02/2022 31.220,68 32.016,39
+
+02/02/2022 31.228,70 32.024,98
+
+03/02/2022 31.236,73 32.033,58
+
+04/02/2022 31.244,76 32.042,17
+
+05/02/2022 31.252,79 32.050,77
+
+06/02/2022 31.260,83 32.059,37
+
+07/02/2022 31.268,86 32.067,97
+
+08/02/2022 31.276,90 32.076,58
+
+09/02/2022 31.284,94 32.085,19
+
+Santiago, 7 de enero de 2022.- Juan Pablo Araya Marco, Ministro de Fe.
