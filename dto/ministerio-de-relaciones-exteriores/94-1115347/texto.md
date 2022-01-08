@@ -30,7 +30,7 @@ Créase la Comisión Asesora Presidencial Denominada Consejo de Ministros para e
 
 #### Artículo 2°
 
-El Consejo estará conformado por el Ministro de Relaciones Exteriores, quien lo presidirá, y los Ministros de Defensa Nacional, de Economía, Fomento y Turismo y del Medio Ambiente. En caso de ausencia o impedimento, serán reemplazados en sus funciones por su subrogante legal.
+El Consejo estará conformado por el Ministro de Relaciones Exteriores, quien lo presidirá, y los Ministros de Defensa Nacional, de Economía, Fomento y Turismo, del Medio Ambiente y de Ciencia, Tecnología, Conocimiento e Innovación. En caso de ausencia o impedimento, serán reemplazados en sus funciones por su subrogante legal.
 
 #### Artículo 3°
 
@@ -46,9 +46,11 @@ b) Proponer al Presidente de la República un Programa Oceánico que establezca 
 
 c) Prestar asesoría recomendando la creación de instancias de coordinación entre los organismos públicos que tengan competencias asociadas a la actividad oceánica.
 
-d) Identificar y proponer la realización de estudios y solicitar los antecedentes necesarios para la determinación del "Programa Oceánico Nacional".
+d) Identificar y proponer la realización de estudios y solicitar los antecedentes necesarios para la determinación del "Programa Oceánico Nacional" y asesorar a los respectivos órganos de la Administración del Estado en el seguimiento de su implementación.
 
-e) Servir de instancia de información, conocimiento y divulgación de mecanismos de cooperación con entidades públicas y privadas, nacionales e internacionales, a objeto de acceder y canalizar la cooperación científica, tecnológica y económica en relación con las materias oceánicas.
+e) Conocer e informar al Presidente de la República del estado de cumplimiento de los objetivos de la Política Nacional Oceánica y de la ejecución del Programa Oceánico Nacional.
+
+f) Servir de instancia de información, conocimiento y divulgación de mecanismos de cooperación con entidades públicas y privadas, nacionales e internacionales, a objeto de acceder y canalizar la cooperación científica, tecnológica y económica en relación con las materias oceánicas.
 
 #### Artículo 5°
 
@@ -70,9 +72,11 @@ b) Informar sobre la convocatoria del Consejo a sesionar, sea por iniciativa del
 
 c) Llevar las actas de las sesiones del Consejo y actuar como ministro de fe.
 
-d) Mantener información sistematizada y actualizada sobre las actividades oceánicas que se desarrollen a nivel nacional e internacional relacionadas con la Política oceánica Nacional.
+d) Mantener información sistematizada y actualizada sobre las actividades oceánicas que se desarrollen a nivel nacional e internacional relacionadas con la Política Oceánica Nacional.
 
-e) Realizar las demás tareas que el Consejo le encomiende, en el marco del propósito de la Comisión.
+e) Informar periódicamente al Consejo de la ejecución del Programa Oceánico y del cumplimiento de los objetivos de la Política Nacional Oceánica, conforme a los antecedentes que proporcionen los ministerios que integran el mismo u otros órganos de la Administración del Estado.
+
+f) Realizar las demás tareas que el Consejo le encomiende, en el marco del propósito de la Comisión.
 
 #### Artículo 7°
 
@@ -80,7 +84,7 @@ La Subsecretaría de Relaciones Exteriores prestará el apoyo técnico y adminis
 
 #### Artículo 8°
 
-El Consejo podrá invitar a representantes de organismos privados, organizaciones no gubernamentales, sociedad civil, organizaciones internacionales y/o expertos relevantes, cuya participación o colaboración estime conveniente para su buen funcionamiento, los cuales participarán sólo con derecho a voz y de forma no permanente y ad-honorem.
+El Consejo podrá invitar a representantes de organismos públicos, privados, organizaciones no gubernamentales, sociedad civil, organizaciones internacionales y/o expertos relevantes, cuya participación o colaboración estime conveniente para su buen funcionamiento, los cuales participarán sólo con derecho a voz y de forma no permanente y ad-honorem.
 
 #### Artículo 9°
 
@@ -89,6 +93,10 @@ Los integrantes del Consejo y de la Secretaría Ejecutiva desempeñarán sus lab
 #### Artículo 10°
 
 Los órganos de la Administración del Estado y sus funcionarios deberán prestar, dentro del ámbito de sus funciones y atribuciones, la colaboración que resulte pertinente para el logro de los objetivos del Consejo.
+
+#### Artículo 11°
+
+Los actos administrativos destinados a dar cumplimiento a los objetivos de la Política Oceánica Nacional y a la ejecución del Programa Oceánico Nacional serán expedidos por el o los Ministerios sobre cuyas competencias recaigan.
 
 Anótese, tómese razón, y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Heraldo Muñoz Valenzuela, Ministro de Relaciones Exteriores.- José Antonio Gómez Urrutia, Ministro de Defensa Nacional.- Luis Felipe Céspedes Cifuentes, Ministro de Economía, Fomento y Turismo.- Marcelo Mena Carrasco, Ministro del Medio Ambiente.
 
