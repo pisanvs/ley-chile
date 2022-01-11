@@ -42,7 +42,7 @@ La estructura interna del Ministerio de la Mujer y la Equidad de Género será l
 
 2. La Subsecretaria o Subsecretario.
 
-3. Los Departamentos de Reformas Legales, de Relaciones Internacionales, de Comunicaciones, los que dependerán directamente de la Ministra o Ministro; y el Departamento de Auditoría, dependiente de la Subsecretaria o Subsecretario.
+3. Los Departamentos de Reformas Legales, de Relaciones Internacionales, de Comunicaciones, los que dependerán directamente de la Ministra o Ministro; y el Departamento de Auditoría, dependiente de la Subsecretaria o Subsecretario. Y el Departamento de Equidad Laboral, Emprendimiento y Autonomía Económica, que dependerá de la División de Políticas de Igualdad.
 
 4. Las Divisiones Jurídica; de Políticas de Igualdad; Estudios y Capacitación en Género; Planificación y Control de Gestión; y Administración y Finanzas.
 
@@ -167,6 +167,18 @@ El Departamento de Auditoría tendrá, entre otras funciones, las de:
 1. Prestar asesoría técnica especializada a las autoridades del Ministerio en materias de auditoría y control interno, a objeto de evaluar y contribuir a la mejora de la eficacia de los procesos de administración;
 
 2. Prestar asesoría en la gestión de riesgos y control preventivo, proponiendo medidas necesarias para el fortalecimiento de la gestión del Ministerio de la Mujer y la Equidad de Género.
+
+#### Artículo 10 bis
+
+El Departamento de Equidad Laboral, Emprendimiento y Autonomía Económica estará a cargo, entre otras funciones, de:
+
+1. Estudiar y proponer el diseño de contenidos y orientaciones de las políticas, planes y programas, o sus modificaciones, en materias de equidad laboral, emprendimiento y autonomía económica en el marco de las funciones del Ministerio.
+
+2. Proponer medidas tendientes a velar por el fortalecimiento de la equidad laboral, la conciliación de la vida laboral, familiar y personal, y la corresponsabilidad en la educación, el cuidado y el desarrollo integral de los hijos e hijas conforme las políticas institucionales.
+
+3. Colaborar con los demás niveles jerárquicos del Ministerio de acuerdo a las instrucciones que se le impartan en materias de competencia de este departamento.
+
+4. Apoyar a la Subsecretaria o Subsecretario en la evaluación del cumplimiento de las políticas, planes o programas en materias de equidad laboral, emprendimiento y autonomía económica, y prestar asistencia técnica cuando sea requerida.
 
 ## Título V
 
