@@ -134,6 +134,14 @@ Artículo Nº 7: Los Permisos para instalar Quioscos, mobiliarios y construccion
 
 gaseosas y similares, semestral 1,5 UTM.
 
+1.5.- Instalación de Food Truck:
+
+- Día: 0,3 UTM.
+
+- Mes: 0,5 UTM.
+
+- Semestral: 1 UTM.
+
 Nota: Los citados puntos anteriores, además, están afectos a los derechos de aseo semestrales, según patentes comerciales.
 
 Los quioscos destinados a puestos varios y venta de completos, sándwiches, bebidas gaseosas y similares, deberán ceñirse estrictamente al horario de funcionamiento, según temporada:
@@ -280,11 +288,29 @@ Primera Corrida 15 UTM.
 
 12.7. Uso de Capilla del Cementerio para velatorio, diario 10% UTM.
 
-#### Artículo 13º
+#### Artículo 12 bis
 
-El Alcalde podrá, previo informe social, rebajar valores o eximir de pago de acuerdo al Art. 53 del DS 357, de 18/06/70, del Ministerio de Salud Pública.
+Toda persona, que acredite ser residente de la Comuna de Río Claro, podrá optar a las siguientes modalidades de pagos y descuentos para la adquisición de nichos y terrenos perpetuos:
 
-Toda intervención en el cementerio deberá ser autorizada por la Dirección de Obras.
+a) Pago al contado, se aplicará un 30% de descuento sobre el valor total del terreno o nicho.
+
+b) Pago entre 3 y 6 cuotas, se aplicará un 20% de descuento sobre el valor total del terreno o nicho.
+
+c) Pago entre 6 y 12 cuotas, se aplicará un 15% de descuento sobre el valor total del terreno o nicho.
+
+d) Pago entre 12 y 36 cuotas, sin descuento sobre el valor total del terreno o nicho.
+
+#### Artículo 13
+
+El Alcalde, previa aprobación del Concejo Municipal, podrá eximir de pago en la adquisición de nichos y terrenos hasta los 2 M2, a las personas que cumplan con los siguientes requisitos copulativos:
+
+a) Encontrarse el solicitante dentro del 40% más vulnerable según el Registro Social de Hogar o su símil.
+
+b) Acreditar domicilio dentro de la comuna de Río Claro.
+
+c) Contar con informe social, emitido por los profesionales de la Dirección de Desarrollo Comunitario de la Municipalidad de Río Claro, que acredite la necesidad de otorgar este beneficio extraordinario de gratuidad."
+
+De igual manera el Alcalde, previa aprobación del Concejo Municipal, podrá exceptuar de pago, en la adquisición de nichos y terrenos hasta los 2 M2, a aquellas personas consideradas ilustres o reconocidas por la comunidad de Río Claro.
 
 ## Título X — Otros Derechos Varios
 
@@ -301,6 +327,26 @@ Artículo Nº 14: Los siguientes Servicios pagarán los derechos que, en cada ca
 5.- Funcionamiento de Camping en riberas del Río Claro, dentro de la comuna, por semestre (6 meses consecutivos) temporada 1,5 UTM.
 
 6.- Derechos por fotocopias, cada una $25.-
+
+7.- Ocupación de espacio públicos para fines comerciales m2 diario 0,023 UTM.
+
+8.- Ocupación de bienes nacionales de uso público por remoción de pavimentos, reparación y reposición, confección o símiles, m2 diario 0,013 UTM.
+
+9.- Ocupación de bienes nacionales de uso público por actividad relacionada con alguna faena de construcción, instalaciones o símiles por m2 diario 0,013 UTM.
+
+El Alcalde, previa presentación de los antecedentes pertinentes, estará facultado para rebajar los derechos aplicables por concepto de ocupación de bienes nacionales de uso público, a las obras de infraestructura financiadas por el Estado, asimismo, cuando sean obras financiadas por los servicios de utilidad pública que correspondan a proyectos de inversión significativos para el desarrollo de la comuna. Los proyectos que dentro de esta categoría no se ejecuten en forma oportuna y se atrasen respecto a los plazos oficiales entregados para su ejecución, y que por ende incurran en un tiempo de ocupación mayor de vía pública injustificada, deberán pagar los derechos por los días excedidos y multas si corresponde según la tabla que indique la presente ordenanza.
+
+La ocupación de vía pública o reposición de aceras cuando sean de exigencia municipal, quedaran exentas del pago de derechos municipales.
+
+En los casos de detectar ocupación de bienes nacionales de uso público sin el permiso previo, se aplicará una multa de 0,5 UTM más el valor que corresponda aplicar de acuerdo a lo indicado en la Ordenanza desde el día que efectivamente se haya ocupado la vía o en último caso desde la fecha de notificación municipal respectiva.
+
+10.- Traslado material pétreo o símil en camión Tolva dentro de la Comuna, 0,7 UTM.
+
+11.- Servicio arriendo bus municipal por viaje dentro de la Región del Maule. Se deberá costear por el solicitante gasto combustible, peajes y gasto alimentación conductor diario equivalente a 0,5 UTM.
+
+Quedan exentos de pago servicios traslado relacionados con funerales, clubes de adulto mayor y viajes de clubes deportivos infantiles además de selecciones y/u organizaciones que representen a la comuna de Río Claro a nivel Regional, Nacional o Internacional.
+
+12.- Servicio extracción y disposición final domiciliaria camión limpia fosa, dentro de la comuna de Río Claro, máximo 2 m2, tendrá un valor de 0,5 UTM.
 
 ## Título XI — Derechos Municipales por Servicios Concesiones o Permisos Otorgados a través de la Dirección de Obras.
 
