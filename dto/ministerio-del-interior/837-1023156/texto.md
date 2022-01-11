@@ -320,7 +320,7 @@ Composición.
 
 La señalada Comisión estará conformada por los siguientes miembros, con derecho a voto:
 
-1. El Subsecretario del Interior, o quien éste designe, quien la presidirá.
+1. El Jefe del Departamento de Extranjería y Migración del Ministerio del Interior, quien la presidirá.
 
 2. Dos representantes del Ministerio del Interior.
 
@@ -366,7 +366,7 @@ De la Secretaría Técnica
 
 Funciones.
 
-El comisionado a que hace referencia el numeral 1. del inciso primero del artículo 26 del presente Reglamento dispondrá de una Secretaría Técnica, que asistirá a la Comisión de Reconocimiento de la Condición de Refugiado, la que estará integrada por personal a su cargo. Las funciones de esta Secretaría deberán determinarse en el reglamento interno que fije la referida Comisión, de conformidad con lo dispuesto en el artículo 22 Nº 7 de la ley Nº 20.430.
+El Jefe del Departamento de Extranjería y Migración dispondrá de una Secretaría Técnica, que asistirá a la Comisión de Reconocimiento de la Condición de Refugiado, la que estará integrada por personal a su cargo. Las funciones de esta Secretaría deberán determinarse en el reglamento interno que fije la referida Comisión, de conformidad con lo dispuesto en el artículo 22 Nº 7 de la ley Nº 20.430.
 
 ## Título IV
 
