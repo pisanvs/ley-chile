@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTAS CORRIENTES BANCARIAS BIPERSONALES SUBSIDIARIAS A LA CUENTA ÚNICA FISCAL DEL INSTITUTO DE PREVISIÓN SOCIAL, ABIERTAS EN LA OFICINA PRINCIPAL DEL BANCO DEL ESTADO DE CHILE, EN EL FUNCIONARIADO DEL DEPARTAMENTO DE FINANZAS DEL NIVEL CENTRAL, QUE SE INDICA
+
+Por resolución exenta N° 479, de 19 de noviembre de 2021, el Director Nacional del Instituto de Previsión Social delega facultad para operar cuentas corrientes bancarias bipersonales subsidiarias a la cuenta única fiscal del Instituto de Previsión Social, N°9006494, N°9006516, N°9006532, N°9006974, N°9007237, N°9007245, N°9007741, abiertas en la oficina principal del Banco del Estado de Chile, en el Funcionariado del Departamento de Finanzas del Nivel Central.-
+
+Patricio Coronado Rojo, Director Nacional del Instituto de Previsión Social.
