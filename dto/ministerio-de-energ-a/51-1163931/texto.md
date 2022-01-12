@@ -16,7 +16,7 @@ Vistos:
 
 6. Lo dispuesto en el decreto supremo Nº 88, de 2019, del Ministerio de Energía, que aprueba reglamento para medios de generación de pequeña escala, en adelante el "DS Nº 88";
 
-7. Lo dispuesto en el decreto supremo Nº 125, de 2019, del Ministerio de Energía, que aprueba reglamento de la coordinación y operación del Sistema Eléctrico Nacional, en adelante el "DS Nº 125";
+7. Lo dispuesto en el decreto supremo Nº 125, de 2017, del Ministerio de Energía, que aprueba reglamento de la coordinación y operación del Sistema Eléctrico Nacional, en adelante el "DS Nº 125";
 
 8. Lo dispuesto en el decreto supremo Nº 37, de 2019, del Ministerio de Energía, que aprueba el reglamento de los sistemas de transmisión y de la planificación de la transmisión;
 
@@ -64,13 +64,13 @@ a) El Coordinador Independiente del Sistema Eléctrico Nacional, en adelante e i
 
 b) Respecto de las observaciones, que emita o pueda emitir durante el proceso de conexión de proyectos de generación, el Coordinador deberá distinguir entre aquellas observaciones que guarden relación con las exigencias de seguridad del sistema de las que no, y postergar estas últimas para una etapa posterior a la energización del proyecto, de manera de acelerar la interconexión y puesta en servicio del mismo.
 
-c) Todo propietario u operador de unidades de generación que desee conectar dichas unidades al SEN, quedará automáticamente eximido de cumplir con los plazos de comunicación a que se refiere el artículo 25 del DS Nº 125, bastando para efectos de la conexión y operación de las unidades señaladas sólo la conformidad técnica del Coordinador.
+c) Todo propietario u operador de unidades de generación que desee conectar dichas unidades al SEN, quedará automáticamente eximido de cumplir con el plazo de aviso de interconexión a que se refiere el artículo 25 del DS Nº 125. Sin perjuicio de lo anterior, deberán cumplirse con las etapas y procedimientos contemplados en el artículo 72º-17 de la ley.
 
 d) El Coordinador podrá habilitar entradas en operación parciales de un proyecto de generación, sin perjuicio de que éste no haya sido presentado de esa manera en las etapas anteriores al proceso de conexión.
 
 2. Aceleración de la conexión de pequeños medios de generación distribuidos ("PMGD") y autodespacho de los medios de generación de pequeña escala
 
-a) Los interesados en conectar un PMGD y los propietarios u operadores de los mismos que deseen modificar sus condiciones de conexión y operación, conforme a los términos y condiciones del DS Nº 88, quedarán eximidos de cumplir con los plazos y procedimientos regulados en los artículos 12, 75 y 77, y aquellos establecidos en los párrafos 2 y 3 del Capítulo 4 del Título II, todos del mencionado reglamento, bastando para efecto de la conexión y operación de las unidades señaladas, la conformidad técnica de la empresa distribuidora y la remisión a la Superintendencia de la información relativa al cumplimiento de la norma técnica de conexión y operación (NTCO). Las empresas distribuidoras deberán dar las facilidades necesarias para que los proyectos se logren conectar en un plazo que no exceda de 10 días hábiles contado desde que el propietario presente ante la empresa distribuidora la notificación de conexión a la que se refiere el artículo 78 del DS Nº 88. Para estos efectos, el propietario u operador del PMGD y la empresa distribuidora podrán acordar la limitación horaria de sus inyecciones de energía y potencia para entrar en operación con anterioridad a que las obras adicionales, adecuaciones o ajustes estén totalmente ejecutados, cuando corresponda.
+a) Los interesados en conectar un PMGD y los propietarios u operadores de los mismos que deseen modificar sus condiciones de conexión y operación, conforme a los términos y condiciones del DS Nº 88, quedarán eximidos de cumplir con los plazos para las comunicaciones reguladas en los artículos 12 y 75, y de lo dispuesto en el párrafo 3 del Capítulo 4 del Título II, todos del mencionado reglamento. Sin perjuicio de lo anterior se deberá cumplir con las etapas y procedimientos regulados en el artículo 72º-17 de la Ley. Las empresas distribuidoras deberán dar las facilidades necesarias para que los proyectos se logren conectar en un plazo que no exceda de 10 días hábiles contado desde que el propietario presente ante la empresa distribuidora la notificación de conexión a la que se refiere el artículo 78 del DS Nº 88. Para estos efectos, el propietario u operador del PMGD y la empresa distribuidora podrán acordar la limitación horaria de sus inyecciones de energía y potencia para entrar en operación con anterioridad a que las obras adicionales, adecuaciones o ajustes estén totalmente ejecutados, cuando corresponda.
 
 b) Los propietarios, operadores o interesados en conectar un PMGD, que se hayan acogido a lo señalado en el literal anterior, podrán presentar ante la Superintendencia reclamos por controversias con la empresa distribuidora, resultantes de la aplicación del literal precedente, en cuyo caso deberán seguirse los procedimientos establecidos en el Título IV del DS Nº 88.
 
@@ -79,6 +79,8 @@ c) Los medios de generación de pequeña escala que a la fecha del presente decr
 3. Utilización de energía embalsada
 
 a) Reserva Hídrica: El Coordinador deberá informar periódicamente a la Comisión, a requerimiento de la misma, acerca del estado hidrológico en las cuencas con generación hidroeléctrica de embalse del SEN, a efectos de poder realizar un monitoreo permanente para la potencial necesidad de definir una reserva hídrica en los términos que señalan los artículos 291-11 y siguientes del Reglamento, en caso de que se prevea un déficit de abastecimiento. En tal caso, el Coordinador deberá proponer un monto de reserva hídrica que se sume a la reserva operacional que se señala a continuación.
+
+En su oportunidad, y si es del caso, el monto de la reserva hídrica se especificará a través de un decreto emitido en conformidad con lo previsto en el artículo 163º de la Ley General de Servicios Eléctricos, y en el artículo 291-11 del decreto supremo Nº 327, de 1997, del Ministerio de Minería, que fija el reglamento de la citada ley.
 
 b) Reserva Operacional: De acuerdo a lo señalado en el artículo 36 del DS Nº125, el Coordinador, en la programación de la operación, deberá garantizar la operación más económica para el conjunto de las instalaciones en un determinado horizonte de tiempo, preservando la seguridad y calidad de servicio del sistema eléctrico. Para estos efectos, en el proceso de programación de la operación y durante todo el periodo de vigencia del presente decreto, el Coordinador determinará el nivel de colocación de las energías y reservas y el uso óptimo de las instalaciones, considerando una reserva operacional que permita resguardar la seguridad de suministro y la seguridad de servicio en todo el horizonte de tiempo antes señalado. Adicionalmente, el Coordinador evitará utilizar en la operación normal las reservas de agua disponibles al 13 de agosto de 2021, fecha de emisión del Informe Técnico, y propenderá al menos a mantenerlas, con la finalidad de garantizar entre otros, la seguridad operativa y de abastecimiento del sistema eléctrico.
 
@@ -264,11 +266,11 @@ Corresponderá al Coordinador elaborar un procedimiento que permita determinar l
 
 El procedimiento señalado deberá considerar un costo marginal inferior al costo de falla en las siguientes situaciones:
 
-1) Horas de baja demanda del sistema, en que el suministro pudo ser completamente entregado sólo con generación térmica e hidroeléctrica no embalsable; y
+1) Horas de baja demanda del sistema, en que el suministro pudo ser completamente entregado sólo con generación térmica e hidroeléctrica no embalsable;
 
-2) Situaciones de congestión de tramos del sistema de transmisión que impliquen la existencia de zonas aisladas, sin restricción de consumo, con costo marginal desacoplado del resto del sistema, el que deberá ser inferior al costo de falla en el sistema aislado.
+2) Situaciones de congestión de tramos del sistema de transmisión que impliquen la existencia de zonas aisladas, sin restricción de consumo, con costo marginal desacoplado del resto del sistema, el que deberá ser inferior al costo de falla en el sistema aislado; y
 
-Sin perjuicio de lo anterior, el Coordinador podrá considerar en el procedimiento otras situaciones adicionales a las señaladas anteriormente.
+3) Horas en que el suministro pudo ser completamente entregado con la oferta de generación disponible en el sistema.
 
 Para estos efectos, el Coordinador podrá requerir a las empresas eléctricas y a los clientes no sometidos a regulación de precios toda la información que estime necesaria para desarrollar el procedimiento señalado. En particular, la información para la identificación de las horas de corte deberá ser aportada al Coordinador por las empresas distribuidoras que hayan debido aplicar los cortes de suministro señalados.
 
