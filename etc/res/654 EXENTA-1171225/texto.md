@@ -1,0 +1,7 @@
+PROHÍBE CIRCULACIÓN DE VEHÍCULOS MOTORIZADOS EN LA VÍA/S QUE SE INDICA
+
+Por resolución exenta N° 654, de fecha 31 de diciembre de 2021, del Gobierno Regional de Biobío, se dispuso la prohibición de circulación de vehículos motorizados respecto de una de las calzadas, de calle Rengo en el tramo comprendido entre calles Cruz y Prieto, de la comuna de Concepción, los días 08/01/2022 entre las 15:00 horas hasta las 19:00 horas; 09/01/2022 entre las 08:00 horas hasta las 19:00 horas, y 15/01/2022 entre las 15:00 horas hasta las 19:00 horas, a fin de llevar a cabo las obras referidas al desmontaje de grúa torre en la obra del edificio Rengo, ubicado en calle Rengo N° 1281, comuna de Concepción, y de esta manera facilitar la operación a los trabajadores. Los vehículos motorizados del Servicio de Transporte Público que utilicen la vía afectada en su recorrido habitual, deberán adoptar el desvío dispuesto al efecto por el municipio y aprobado por la Seremitt. La resolución exenta con su texto íntegro se encuentra disponible en el sitio electrónico de "Gobierno Transparente" del Gobierno Regional del Biobío.
+
+Autoriza extracto.-
+
+Óscar Ferrel Bustos, Jefe División de Infraestructura y Transporte, Gobierno Regional del Biobío.
