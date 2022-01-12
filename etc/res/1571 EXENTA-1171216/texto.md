@@ -1,0 +1,37 @@
+EXIME DE RESTRICCIÓN VEHICULAR DISPUESTA POR RESOLUCIÓN N° 1.883 EXENTA, DE 2020, DE SEREMITT VALPARAÍSO A FOLIOS DEL RNTPP QUE INDICA
+
+Núm. 31/8/1.571 exenta.- Valparaíso, 16 de noviembre de 2021.
+
+Visto:
+
+Lo dispuesto en los artículos 6° y 7° de la Constitución Política de la República; artículos 107º y 113° del DFL Nº 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija texto refundido, coordinado y sistematizado de la ley N° 18.290, de Tránsito; ley N° 18.059, que asigna al Ministerio de Transportes y Telecomunicaciones el carácter de organismo rector nacional de tránsito y le señala atribuciones, en armonía con el artículo 43º de la ley N° 18.287, que establece procedimiento ante los Juzgados de Policía Local; el decreto supremo Nº 255, de 1981, del Ministerio de Transportes y Telecomunicaciones; las resoluciones N°s. 59 de 1985 y 39 de 1992, todas ellas del Ministerio de Transportes y Telecomunicaciones; las resoluciones exentas N°s. 1.357 de 2003, 2.179 de 2003, 350 de 2004, 2.562 de 2004, 1.049 de 2005, 2.757 de 2005, 692 de 2006, 2.912 de 2006, 3.090 de 2006, 2.220 de 2007, 764 de 2008, 3.109 de 2008, 1.176 de 2009, 3.558 de 2009, 995 de 2010, 1.708 de 2010, 3.782 de 2010, 1.439 de 2011, 3.960 de 2011, 695 de 2012, 4.424 de 2012, 670 de 2013, 3.021 de 2013, 446 de 2014, 3.373 de 2014, 801 de 2015, 3.250 de 2015, 871 de 2016, 2.868 de 2016, 541 de 2017, 2.860 de 2017, 684 de 2018, 5.295 de 2018, 3.578, de 2019 y 1.883, de 2020, todas ellas de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso; la resolución exenta N° 3.739 de 2011, del Ministerio de Transportes y Telecomunicaciones; la ley N° 21.074 de Fortalecimiento de la Regionalización del país; el DFL N° 1-19.175 de 2005 del entonces Ministerio del Interior, que fija el texto refundido coordinado, sistematizado y actualizado de la Ley N° 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional; el DS N° 71 de 2019 del Ministerio del Interior y Seguridad Pública, que individualiza las competencias radicadas en el Ministerio de Transportes y Telecomunicaciones, a transferir a los Gobiernos Regionales de acuerdo a lo dispuesto en el artículo 5° transitorio de la ley N° 21.074; el DS N° 656, de 2019, del Ministerio del Interior y Seguridad Pública que fija las condiciones, plazos y demás materias concernientes al procedimiento de transferencia de competencias; el DS N° 36 del Ministerio del Interior y Seguridad Pública que transfiere competencias radicadas en el Ministerio de Transportes y Telecomunicaciones a que alude el artículo 1° del DS N° 71, de 2019, del Ministerio del Interior y Seguridad Pública, cual es, prohibir por causa justificada la circulación de todo vehículo o de tipos específicos de éstos por determinadas vías públicas a los Gobiernos Regionales que indica; la resolución N° 7, de 2019, de Contraloría General de la República; y la demás normativa que resulte aplicable.
+
+Considerando:
+
+1. Que, la Restricción Vehicular establecida en la resolución exenta N° 2.179 de 2003 cuya vigencia se encuentra prorrogada actualmente mediante resolución exenta N° 1.883 de 22/12/2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, ha permitido mitigar satisfactoriamente la congestión vial y la saturación de las vías en el Conglomerado del Gran Valparaíso, disminuyendo los tiempos de viaje, contribuyendo a una mejor calidad de vida de los habitantes y de los usuarios de transporte en esta zona, razón por la que resulta necesario continuar aplicando la restricción referida.
+
+2. Que, mediante resolución exenta N° 1.745, de 2019, del Ministerio de Transportes y Telecomunicaciones, se estableció el Cumplimiento de Condiciones de Operación y Utilización de Vías para Servicios de Transporte Público de Pasajeros prestados con buses, trolebuses y/o minibuses al interior del Gran Valparaíso.
+
+3. Que, por otra parte, resulta necesario mantener la restricción vehicular existente, para vehículos de alquiler inscritos bajo la modalidad de taxis colectivos, sean éstos urbanos o rurales, con la finalidad de evitar una sobreoferta de transporte público con bajas tasas de ocupación en el Conglomerado del Gran Valparaíso, situación que podría incidir negativamente sobre las condiciones de operación actualmente vigentes.
+
+4. Que, no obstante todo lo anterior, a consecuencia del cambio de algunos de los parámetros en las condiciones de demanda a consecuencia del Covid-19, y de la implementación del Plan Paso a Paso, se ha constatado a través de múltiples reclamos de vecinos del sector de Placilla, comuna de Valparaíso, que la regularidad de los servicios de transporte público menor, se ha vuelto insuficiente ya que existen demoras y tiempos de espera excesivos, que en algunos casos llegan hasta los 90 minutos, razón de hecho que hace necesaria la intervención de esta autoridad para efectos de proveer un servicio oportuno de transporte público para los vecinos del sector.
+
+5. Que, actualmente existen cuatro líneas que prestan servicios de Taxis Colectivos Urbanos que circulan desde y hacia Placilla, según consta en el Registro Nacional de Transporte Público, que lleva el Ministerio de Transportes y Telecomunicaciones, a saber:
+
+a) Folio N° 2619 correspondiente a la Sociedad de Transportes y Servicios Placilla Valparaíso Ltda., RUT N° 76.102.655-0, con domicilio en Avenida España N° 429, Placilla, comuna de Valparaíso, representada legalmente de manera conjunta o separada por don Ramiro Acevedo Pérez y don Carlos López Bernal, casilla de correo electrónico racamar@gmail.com.
+
+b) Folio N° 2692 correspondiente a Sociedad Transportes Público de Pasajeros Curauma-Valparaíso Ltda., RUT N° 76.050.483-1, con domicilio en Avenida Bernardo O'Higgins N° 536, Placilla Oriente, comuna de Valparaíso, representada legalmente por doña Claudia Ponce Jerez y don Luis Hernán Maldonado Sepúlveda, casilla de correo electrónico claudiaponcejerez@gmail.com.
+
+c) Folio N° 3322 correspondiente a Sociedad Transportes Green Wolf S.A., RUT N° 76.413.405-2, con domicilio en Octava Avenida N° 1681, Placilla Oriente, comuna de Valparaíso, representada legalmente por don Fabrizzio Lagazio Divasto, casilla de correo electrónico flagazio@gmail.com.
+
+d) Folio N° 3660 correspondiente a Sociedad Transportes Plaval Ltda., RUT N° 76.380.528-K, con domicilio en Avenida Obispo Valdés N° 820, Placilla de Peñuelas, comuna de Valparaíso, representada legalmente de manera conjunta por don Luis Hernán Maldonado Sepúlveda y don Francisco Nemesio Morales Concha, casilla de correo electrónico colectivosplacilla@gmail.com.
+
+6. Que, teniendo presente los argumentos expuestos precedentemente, y con el objeto de entregar a los habitantes del sector de Placilla un servicio de transporte público eficiente y eficaz,
+
+Resuelvo:
+
+1. Exímase de la restricción vehicular dispuesta en la resolución exenta Nº 2.179, de 2003, citada en el Visto, sus modificaciones posteriores y la prórroga dispuesta por resolución exenta N° 1.883/2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones a los servicios de Taxis Colectivos Urbanos que operan en Placilla individualizados en el Considerando N° 5 de esta resolución.
+
+2. Publíquese la presente resolución en el Diario Oficial.-
+
+Rodrigo Mundaca Cabrera, Gobernador Región de Valparaíso.
