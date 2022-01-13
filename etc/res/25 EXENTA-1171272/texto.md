@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCIÓN Nº 25 EXENTA, DE FECHA 6 DE ENERO DE 2021
+
+Por resolución exenta Nº 25, del 06.01.2021, del Gobierno Regional de La Araucanía,
+
+- **1.-** Que, mediante Ingreso E-250 de fecha 06.01.2021 de la empresa TEK Chile, sobre solicitud de suspensión en Media Calzada de tránsito en la Intersección de las calles Av. San Martín con Phillippi e Intersección de Lautaro con Blanco Encalada, comuna de Temuco, en el marco de trabajos de "Instalación de Semáforos en Intersección Av. San Martín con Phillippi; Intersección de Lautaro con Blanco Encalada e Intersección de Av. San Martín con calle Las Heras e integraciones con la UOCT".
+
+- **2.-** El Ord. Nº 825 de 25.11.2021 de la Municipalidad de Temuco, que aprueba croquis de señalización de trabajos en vía pública;
+
+- **3.-** El oficio Nº 30646/2021 de fecha 16.12.2021, de la Seremi de Transportes y Telecomunicaciones Araucanía, que remite informe técnico para corte de Media Calzada de tránsito en la Intersección de las calles Av. San Martín con Phillippi e Intersección de Lautaro con Blanco Encalada, comuna de Temuco, al Gobierno Regional de La Araucanía.
+
+- **4.-** Que, en consecuencia, existe una causa justificada en los términos del artículo 113 del DFL Nº 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito, para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbase, desde el día 12 de enero hasta el día 25 de febrero de 2022, ambas fechas inclusive, en horario de 08:00 horas hasta las 18:00 horas, la circulación de todo tipo de vehículos motorizados y, de acuerdo a lo establecido por el Municipio de Temuco y los antecedentes revisados por este Gobierno Regional, autorízase el corte de Media Calzada, en la intersección de la Av. San Martín con Phillippi y calle Lautaro con Blanco Encalada, en la comuna de Temuco, en el marco de los trabajos de ejecución de la obra "Instalación de Semáforos en Intersección Av. San Martín con Phillippi; Intersección de Lautaro con Blanco Encalada e Intersección de Av. San Martín con calle Las Heras e integraciones con la UOCT". Y remitiéndose estrictamente a lo indicado en el ordinario Nº 825 de la Municipalidad de Temuco.
+
+Anótese, comuníquese, publíquese y archívese.- Por orden de Sr. Gobernador Regional, Carlos Fuentes Concha, Jefe División Infraestructura y Transporte (S), Gobierno Regional de La Araucanía.
