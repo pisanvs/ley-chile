@@ -1,0 +1,5 @@
+EXTRACTO
+
+Con fecha 29 de diciembre de 2021, la Superintendencia de Educación dictó la resolución exenta Nº 830, que "Aprueba Manual de Cuentas para la Rendición de Recursos 2022", como material de apoyo para los sostenedores, con el objeto de proporcionar la información necesaria para que puedan realizar el proceso de rendición de cuentas de manera oportuna, eficiente y correcta, en la plataforma que esta Superintendencia dispone anualmente para ello. Un ejemplar del Manual de Rendición de Cuentas correspondiente al año 2022 se encontrará disponible en el Portal de Transparencia Financiera de la Superintendencia de Educación (https://ptf.supereduc.cl). Asimismo, la resolución exenta Nº 830, de 2021, de la Superintendencia de Educación, estará disponible íntegramente para la comunidad educativa en la página web institucional (www.supereduc.cl).-
+
+Miguel Zárate Carrazana, Jefe Departamento Normativo Fiscalía Superintendencia de Educación.
