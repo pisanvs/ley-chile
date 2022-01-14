@@ -28,19 +28,11 @@ Decreto:
 
 .
 
-14.
-
-.
-
 2º Derógase el decreto exento Nº 6, de 2010, del Ministerio de Salud.
 
 3º Déjase establecido que estas prestaciones de salud no pueden ser denegadas a ninguna persona migrante por carecer de documentos o permisos de residencia.
 
 4º Déjase establecido que los vacunatorios privados que han suscrito convenio, deben proporcionar gratuitamente las vacunas a los usuarios, en las mismas condiciones en que lo hacen los Servicios de Salud, es decir, la gratuidad debe aplicarse tanto a la vacuna misma como al proceso de vacunación.
-
-> **Nota.** El numeral 1 del artículo primero del Decreto 27 Exento, Salud, publicado el 30.06.2023, modifica la presente norma en el sentido de reemplazar el numeral 14 de la tabla de Vacunación Obligatoria contra Enfermedades Inmunoprevenibles de la Población del País, que hace referencia a las enfermedades invasoras por N. meningitidis, por el que la citada norma indica.
-
-> **Nota.** NOTA 1 El numeral 1 del Decreto 32 Exento, Salud, publicado el 29.05.2025, modifica la presente norma en el sentido de reemplazar en el numeral 10 "Hepatitis B", la población objetivo "Personas con diagnóstico de Insuficiencia Renal Crónica (IRC)" por "Personas con diagnóstico de Enfermedad Renal Crónica (ERC) Etapa 4".
 
 Anótese y publíquese.- Por orden del Presidente de la República, Enrique Paris Mancilla, Ministro de Salud.
 
