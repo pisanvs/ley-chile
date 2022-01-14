@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCIÓN Nº 40 EXENTA, DE FECHA 10 DE ENERO DE 2022
+
+Por resolución exenta Nº 40, del 10.01.2022, del Gobierno Regional de La Araucanía,
+
+- **1.-** Que, mediante Ingreso E-12252 de fecha 14.12.2021 de la agrupación Bike Red Machine, representada por Juan José Figueroa Ruiz, sobre solicitud para corte de circuito en Media Calzada, comprendido desde la ciudad de Cherquenco, varias calles del centro, hacia el Volcán Llaima en la Ruta S-31 hacia el oriente, rodeando el sendero Lago Quepe y retornando a la localidad de Cherquenco, comuna de Vilcún, en el marco de la realización de la actividad "Conquista el Volcán Llaima".
+
+- **2.-** La resolución exenta Nº 199 de fecha 05.01.22 del Jefe de Defensa Nacional de La Araucanía que autoriza la realización de la actividad en vía pública
+
+- **3.-** El Oficio Nº 522/2022 de fecha 07.01.2022, de la Seremi de Transportes y Telecomunicaciones Araucanía, que remite informe técnico para corte de Media Calzada de tránsito comprendido desde la ciudad de Cherquenco, varias calles del centro, hacia el Volcán Llaima en la Ruta S-31 hacia el oriente, rodeando el sendero Lago Quepe y retornando a la localidad de Cherquenco, comuna de Vilcún, al Gobierno Regional de La Araucanía.
+
+- **4.-** Que, en consecuencia, existe una causa justificada en los términos del artículo 113 del DFL Nº1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito, para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbase, el día 15 de enero de 2022 en horario de 09:00 a 18:00 hrs., la circulación de todo tipo de vehículos motorizados y, de acuerdo a lo establecido por el Jefe de Defensa Nacional de La Araucanía, y los antecedentes revisados por este Gobierno Regional, autorízase el corte de circuito en Media Calzada, comprendido desde la ciudad de Cherquenco, varias calles del centro, hacia el Volcán Llaima en la Ruta S-31 hacia el oriente, rodeando el sendero Lago Quepe y retornando a la localidad de Cherquenco, en la comuna de Vilcún, en el marco de la realización de la actividad "Conquista el Volcán Llaima".
+
+Anótese, comuníquese, publíquese y archívese.- Por orden de Sr. Gobernador Regional, Luis Loyola González, Jefe División Infraestructura y Transporte, Gobierno Regional de La Araucanía.
