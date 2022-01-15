@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 2.206 de 23 de diciembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí 767, comuna de Chillán, Rol de Avalúo N° 01797-00004, de aparente dominio de Acuna Aguilera Margarita del Car Y. La parte afecta a expropiación total de terreno es de 204,15 m2 y total de edificación 159,66 m2 cuyos linderos particulares, enmarcados en el plano S16R-124, para el proyecto "Mejoramiento Av. Huambalí, comuna de Chillán, Provincia de Diguillín, Región de Ñuble", conforme artículo 51 Ley 16.391 y D.L. 2186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, Ingeniero Constructor doña Lorena Elizabeth Gajardo Alarcón y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $139.621.574.-
+
+Director Serviu Región de Ñuble.
