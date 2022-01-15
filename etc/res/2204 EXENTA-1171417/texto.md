@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.204 de 23 de diciembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí 270, comuna de Chillán, Rol de Avalúo Nº 0697-00030, de aparente dominio de Sanhueza Álvarez Inés. La parte afecta a expropiación parcial de terreno es de 188,36 m2 y total de edificación 149,5 m2 cuyos linderos particulares, enmarcados en el plano S16R-124, para el proyecto "Mejoramiento Av. Huambalí, comuna de Chillán, Provincia de Diguillín, Región de Ñuble", conforme artículo 51 ley 16.391 y DL. 2186. Comisión Peritos integrada por la Arquitecto doña Paola Loreto Martínez Perucca, Arquitecto doña Carolina del Pilar Zuloaga Sanhueza y por el Ingeniero Civil Industrial don Marcelo Esteban Moreno Venegas, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $88.551.141.-
+
+Director Serviu Región de Ñuble.
