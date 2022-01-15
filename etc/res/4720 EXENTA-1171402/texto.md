@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.720, de fecha 23 de diciembre de 2021, se ordenó la expropiación parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 1, correspondiente al inmueble ubicado en Las Pataguas LTS 43 al 70, Rol de Avalúo Nº 105-53, de la comuna de San José de Maipo, Región Metropolitana, de aparente dominio de Inversiones Muñoz González Limitada, con una superficie aproximada de 35409,31 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Las Pataguas". La Comisión de Peritos integrada por los señores Jesús Díaz Pasmiño, Ingeniero Civil; Norman Calderón Pontiggia, Ingeniero Agrónomo y Patricia Zavala Contreras, Constructor Civil, mediante Informe de fecha 3 de diciembre de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $1.001.987.765, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
