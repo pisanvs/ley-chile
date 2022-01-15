@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 251, de fecha 25 de junio de 2021, el Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Gloria Ana Natividad Serrano Gimeno, RUT 4.284.058-0, Concesión Marítima Menor, con vencimiento el 30 de junio de 2026, sobre sector de Playa, Fondo de Lago y uso de mejora fiscal, en lugar Sector Coyahue, camino Pedregoso, comuna Villarrica, provincia de Cautín, Región de La Araucanía, con una superficie total de 120.08 m2 aproximados. La que fue tramitada con el SIABC Nº 40.993. A modo referencial se señalan las siguientes coordenadas UTM (m) 5.649.682,148 Norte, 739.439,286 Este. El objeto de la solicitud consiste en amparar rampa para el acceso de embarcaciones menores desde y hacia el lago. Las obras existentes consisten en una rampa para el acceso de embarcaciones menores desde y hacia el lago. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto del Lago de Villarrica. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Héctor Rojas Martín, Capitán de Corbeta LT, Capitán de Puerto Lago Villarrica.
