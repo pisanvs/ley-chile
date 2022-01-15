@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.677, 29 de diciembre de 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno y de edificación de un inmueble ubicado en Irarrázaval 2137, Rol de Avalúo Nº 351-12, comuna de Concepción, de aparente dominio de Pacheco Arenas Ricardo, superficie afecta expropiación parcial de terreno es de 77,69 m2 (Lote 168) y expropiación de edificaciones de 0,00 m2, según Plano S8R-40.382-1, para la ejecución de las obras del proyecto "Mejoramiento PAR Vial Collao-General Novoa" comuna de Concepción, Región del Biobío, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Carolina Contreras Tapia, arquitecto Brogan Ulloa Pérez y arquitecto Juan King Domínguez, según informe de fecha 21.10.2021, fijó monto provisional indemnización en $43.318.313 más una suma de $407.192, por concepto de reajuste del artículo 5º del DL 2.186, de 1978, que dan la cifra de $43.725.505.-
+
+Director Serviu Región del Biobío.
