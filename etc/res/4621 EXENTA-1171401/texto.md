@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.621, de fecha 20 de diciembre de 2021, se ordenó la expropiación parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote 1-A, correspondiente al inmueble ubicado en Diego Portales 1505 LT 1 -A, Rol de Avalúo Nº 3900-392, de la comuna de La Florida, Región Metropolitana, de aparente dominio de Comité Allegados Siglo XXI y otro, con una superficie aproximada de 1.498,59 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Diego Portales II". La Comisión de Peritos integrada por Javiera Villafañe Hormazábal, arquitecto; María Cristina Camus Palacios, arquitecto; y Mufida Abuawad Elias, arquitecto, mediante informe de fecha 25 de noviembre de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $366.439.480, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
