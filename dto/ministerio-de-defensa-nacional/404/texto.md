@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 404, de fecha 24 de septiembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Salmones Aysén S.A., RUT 76.650.680-1, concesión marítima menor con vencimiento el 30 de junio de 2031, sobre un sector de playa, porción de agua y fondo de mar en el lugar denominado Estero Huito, comuna de Calbuco, provincia de Llanquihue, Región de Los Lagos, con una superficie total de 905,558 m2, la que fue tramitada con el SIABC N° 40.340. A modo referencial se señala la siguiente coordenada geográfica: 41° 45' 12,63", 73° 09' 07,22". El objeto consiste en instalar y operar un salmoducto y una plataforma flotante, los cuales prestarán apoyo a la planta de proceso que la empresa posee en la zona. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Calbuco. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Capitán de Puerto de Calbuco.
