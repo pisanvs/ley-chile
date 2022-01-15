@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.679, 29 de diciembre de 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación ubicado en Collao 1425, Rol de Avalúo Nº 320-14, comuna de Concepción, de aparente dominio de Ramos Pazzaro Mario Luis Alberto. La parte a expropiar tiene una superficie afecta expropiación parcial es de 111,13 m2 de terreno (Lote 145) y de 341,76 m2 de expropiación total de edificación y cuyos linderos particulares, señalados en plano S8R-40.375-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida Par - Vial Collao- General Novoa" comuna de Concepción, Región del Biobío, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el arquitecto Carolina Andrea Contreras, por arquitecto Paola Loreto Martínez Perucca y por arquitecto Carolina del Pilar Zuloaga Sanhueza, que fijó el monto de la indemnización provisional por la expropiación en la suma de $208.373.323.- más una suma de $1.458.613.- por concepto de reajuste del artículo 5º del DL 2186 de 1978, lo que da un total de $209.831.936.-
+
+Director Serviu Región del Biobío.
