@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.650, 28 de diciembre de 2021, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación de un inmueble ubicado en A. Pinto 400, Rol de Avalúo Nº 162-8, comuna de Lota, de aparente dominio de Sanhueza Aguayo Juan Luis, superficie afecta expropiación parcial de terreno es de 8,27 m2 (Lote 3) y expropiación de edificaciones (a) de 115,66 m2, según Plano S8R-41397-2, para la ejecución de las obras del proyecto "Mejoramiento Red Centro de Lota y Vialidad Asociada" comuna de Lota, Región del Biobío, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por constructor civil Ítalo Zerga Arancibia, arquitecta Paola Martínez Perucca e ingeniero civil Orlando Paredes Vásquez, según informe de fecha 09.12.2021, fijó monto provisional indemnización en $43.425.465.
+
+Director Serviu Región del Biobío.
