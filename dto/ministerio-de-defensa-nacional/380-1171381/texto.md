@@ -1,0 +1,5 @@
+TRANSFERENCIA DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 380, del 24 de septiembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, deniega modificación del DS Nº 326, del año 2019 y autoriza transferencia total a la señora Fanny Ibelis Arévalo Trigo, RUT Nº 10.454.197-6, concesión marítima menor, con vencimiento el 31 de diciembre de 2023, sobre un sector de terreno de playa, en el lugar denominado Playa Copiapina, comuna de Caldera, provincia de Copiapó, Región de Atacama, con una superficie total de 360 m2, la que fue tramitada con el SIABC Nº 46.226. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): Vértice A: Latitud 27º03'56,51" Longitud W 70º49'45,15"; Tramo A-B. El objeto consiste en continuar amparando una casa de veraneo. Las obras existentes consisten en una casa de veraneo familiar. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Caldera. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
+
+Caldera, 23 de diciembre de 2021.- Pablo Orrego Avendaño, Capitán de Corbeta LT, Capitán de Puerto de Caldera.
