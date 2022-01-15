@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.678, 29 de diciembre de 2021, Serviu Región del Biobío ordenó la expropiación total de terreno y total de edificación ubicado en Gral. Novoa 1027 ST 21, Rol de Avalúo N° 307-7, comuna de Concepción, de aparente dominio de Vivallos Vivallos Custodio. La superficie afecta a expropiación total es de 201,87 m2 de terreno (Lote 121) y de 66,24 m2 de expropiación total de edificación (a) y cuyos linderos particulares, enmarcados en plano S8R-40168-4, para la ejecución de las obras del proyecto "Mejoramiento Avenida Par - Vial Collao - General Novoa", comuna de Concepción, Región del Biobío, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Rodrigo Alexis Escobar Fernández, por arquitecto Marcela Alejandra Melo Rodríguez y por arquitecto Daniela Andrea Cortés Moraga, que fijó el monto de la indemnización provisional por la expropiación en la suma de $112.494.385.-
+
+Director Serviu, Región del Biobío.
