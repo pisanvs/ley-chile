@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.189 del 21 de diciembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Francisco Ramírez 151 Chillancito, comuna de Chillán, Rol de Avalúo Nº 00494-00018, de aparente dominio de Rubilar Zúñiga Eliana del R. y Ot. La parte afecta a expropiación parcial de terreno es de 12,711 m2 y parcial de 65,112 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-185, para el proyecto "Mejoramiento Diego Portales-Francisco Ramírez Chillán, comuna de Chillán", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, Arquitecto don Andrés Javier Tobar Beluzan y por el Ingeniero Civil Industrial don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $35.768.144.-
+
+Director Serviu Región de Ñuble.
