@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.205 de 23 de diciembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí 749, comuna de Chillán, Rol de Avalúo N° 01797-00001, de aparente dominio de Molina Recabal Eugenia Verónica y O. La parte afecta a expropiación total de terreno es de 199,73 m2 y total de edificación 87,73 m2 cuyos linderos particulares, enmarcados en el plano S16R-123, para el proyecto "Mejoramiento Av. Huambalí, comuna de Chillán, Provincia de Diguillín, Región de Ñuble", conforme artículo 51 ley 16.391 y DL. 2186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, Ingeniero Constructor doña Lorena Elizabeth Gajardo Alarcón y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $83.470.464.-
+
+Director SERVIU Región de Ñuble.
