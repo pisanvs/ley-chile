@@ -1,0 +1,7 @@
+RENOVACIÓN CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nro. 341 de fecha 7 de septiembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a al Sr. Hugo Ambrosio Macchiavello Zerega, RUN Nro. 4.203.756-7, quinta renovación de concesión marítima menor, con vencimiento el 30 de junio de 2026, sobre un sector de terreno de playa, en el lugar denominado Caleta Yape, comuna de Iquique, Provincia de Iquique, Región de Tarapacá, con una superficie total de 1.890 m², la que fue tramitada con el SIABC Nro. 37.900. A modo referencial se señalan las siguientes coordenadas geográficas: 20º40'38.18"s 70º11'25.32"w 20º40'39.22"s 70º11'23.38"w 20°40'39.57s 70º11'23.55"w 20º40'39.26"s 70º11'24.59"w 20º40'39.91"s 70°11'25.01"w 20º40'39.53"s 70º11'25.94"w.
+
+El objeto de esta concesión marítima sobre el sector otorgado consiste en continuar amparando las obras existentes en el lugar, las que consisten en 5 viviendas destinadas a casa de veraneo familiar con instalaciones anexas.
+
+Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Patache. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
