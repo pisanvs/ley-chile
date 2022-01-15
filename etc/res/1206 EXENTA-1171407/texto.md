@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.206, de fecha 30 de diciembre de 2021, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, de inmueble ubicado en Blanco 706 710, Rol Nº 23-01, Comuna Constitución, superficie 475,30 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente Cáceres Zuniga Rosa y Otros. Comisión integrada por peritos Patricio Ulises Durán Marcos, Arquitecto; Rodrigo Antonio Silva Lazo, Constructor Civil, y Pedro Pablo Cruz Weston, Arquitecto; según informe de tasación evacuado con fecha 17 de noviembre de 2021, fijó monto provisional indemnización en $477.685.500.-, monto que conforme a lo dispuesto en el artículo 5º del DL 2.186, de 1978, fue reajustado a la suma de $480.073.930.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
