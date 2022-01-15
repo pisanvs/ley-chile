@@ -1,0 +1,13 @@
+SOLICITUD DE AMPLIACIÓN DE CONCESIÓN DE SERVICIOS SANITARIOS PARA ATENCIÓN DEL ÁREA DENOMINADA "SECTOR A - MALL AVDA. BALMACEDA", DE LA COMUNA DE LONCOCHE, REGIÓN DE LA ARAUCANÍA
+
+Por decreto número 220, del Ministerio de Obras Públicas, de fecha 27 de octubre de 2021, íntegramente tramitado el 13 de diciembre de 2021, se concedió a la Empresa Concesionaria de Servicios Sanitarios S.A. (Econssa Chile S.A.), RUT Nº 96.579.410-7, domiciliada para estos efectos en calle Monjitas número 392, piso 10, oficina 1003, Santiago, Región Metropolitana, ampliación de las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas para atender el área denominada "Sector A - Mall Avda. Balmaceda", de la comuna de Loncoche, Región de la Araucanía.
+
+El área de concesión o territorio operacional de los servicios de producción y distribución de agua potable y de recolección y disposición de aguas servidas, se encuentra identificada y delimitada en el plano denominado "Solicitud de Ampliación Territorio Operacional Loncoche - IX Región Contenido: Ampliación Territorio Operacional Loncoche detalle de lotes por sector y cuadros de coordenadas", que forma parte integrante del presente decreto. Se espera que en el primer establecimiento (2025) se considera la instalación de 1 arranque e igual número de uniones domiciliarias de alcantarillado, cantidad que se mantendrá constante, en ambos casos, hacia el final del período (año 2035).
+
+El servicio público de producción de agua potable para la localidad de Loncoche, incluida el área que se amplía por este decreto, será abastecido por las fuentes que se indican en el numeral 3.1, letra a) de la Ficha de Antecedentes Técnicos (FAT) sobre las cuales la concesionaria tiene los derechos que se individualizan en los respectivos informes de títulos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el artículo 26º del DS MOP Nº 1.199/04 y se encuentran afectos a la concesión. Todos los documentos indicados forman parte integrante del presente decreto.
+
+Las demás condiciones de prestación de los servicios otorgados en concesión son las establecidas en la Ficha de Antecedentes Técnicos (FAT) Nº SC 09 - 16 A, que forma parte integrante del presente decreto.
+
+Programa de desarrollo, nivel tarifario, garantías y otros en decreto extractado que se redujo a escritura pública con fecha 21 de diciembre de 2021, ante el Notario de la 8ª Notaría de Santiago, don Luis Ignacio Manquehual Mery y archivados en la Superintendencia de Servicios Sanitarios bajo el Nº SC 09 - 16 A.
+
+Santiago, diciembre de 2021.- David Peralta Anabalón, Superintendente de Servicios Sanitarios (S).
