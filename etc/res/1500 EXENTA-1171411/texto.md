@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº1.500, de 30 de diciembre 2021, de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 Ley 16.391, de inmueble denominado Fdo. La Granja El Culenar Maule, Rol Avalúo Nº 167-17, Comuna de Maule, superficie 356,53 m2, deslindes según plano expropiaciones, propietario aparente Reillan Canessa Aldo Ángel y otros. Comisión integrada por peritos Patricio Ulises Durán Marcos, Arquitecto; Rodrigo Antonio Silva Lazo, Constructor Civil y Pedro Pablo Cruz Weston, Arquitecto, según informe de fecha 14 diciembre de 2020, tasó lote en $6.417.540.-, se pagará de contado indemnización provisional debidamente reajustada conforme artículo 5 DL 2.186, siendo su valor la suma de $6.834.680.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
