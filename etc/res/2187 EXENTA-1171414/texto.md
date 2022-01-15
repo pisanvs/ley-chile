@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.187 del 21 de diciembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Hernando de Magallanes 515, comuna de Chillán, Rol de Avalúo Nº 00499-00022, de aparente dominio de Mario Canahuate Aedo Constructora Y. La parte afecta a expropiación parcial de terreno es de 623,655 m2, cuyos linderos particulares, enmarcados en el plano S16R-191, para el proyecto "Mejoramiento Diego Portales-Francisco Ramírez Chillán, comuna de Chillán", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, Arquitecto don Andrés Javier Tobar Beluzan y por el Ingeniero Civil Industrial don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $204.705.198.-
+
+Director Serviu Región de Ñuble.
