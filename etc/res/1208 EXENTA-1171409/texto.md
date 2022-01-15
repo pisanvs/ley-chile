@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.208 de fecha 30 de diciembre de 2021, de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Av. El Dique, Rol Nº 4-01 Comuna Constitución, superficie 289,71 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente García Arellano Rosa. Comisión integrada por peritos Patricio Ulises Durán Marcos, Arquitecto; Rodrigo Antonio Silva Lazo, Constructor Civil, y Pedro Pablo Cruz Weston, Arquitecto; según informe de tasación evacuado con fecha 17 de noviembre de 2021, fijó monto provisional indemnización en $74.966.700.-, monto que conforme a lo dispuesto en el artículo 5º del DL 2.186, de 1978, fue reajustado a la suma de $75.341.530.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
