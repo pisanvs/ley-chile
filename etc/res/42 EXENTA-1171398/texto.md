@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 042 de 6 de enero de 2022, Serviu Región de Valparaíso, se dispuso la rectificación de la resolución exenta Nº6278 de fecha 6 de noviembre de 2018 que ordenó la expropiación total del denominado lote 11 del Proyecto de Expropiaciones DRSP-Nº 12204 Mejoramiento y Prolongación Avenida Alemania, Tramo A, de la comuna de Valparaíso, según el al artículo 51 ley 16.391 y decreto ley 2.186 de 1978, ubicado en camino Cintura Nº2206, Cerro Toro, Población Valencia Sur, Valparaíso de Presunto Dominio de Erasmo Quintana Lobos, rol avalúo 2221-1-01. Comisión Tasadora integrada por Marcelo González Astengo, Carlos Palma Urrutia y Víctor Calvo Barrios, según nuevo informe de tasación de 30 de julio de 2019, se fijó monto indemnización provisional en $46.640.293, que será pagada al contado.-
+
+Director (S) Serviu.
