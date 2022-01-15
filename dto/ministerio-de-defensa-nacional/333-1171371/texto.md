@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 333, de fecha 7 de septiembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Centro de Estudios y Conservación del Patrimonio Natural, RUT 65.075.516-2, concesión marítima menor, con vencimiento 31 de diciembre de 2026, sobre un sector de playa, en el lugar denominado Estero Castro - Sector Sur Ten Ten, comuna de Castro, provincia de Chiloé, Región de Los Lagos, con una superficie total de 20.369,65 m2, la que fue tramitada con el SIABC Nº 48.051. A modo referencial se señala la siguiente coordenada geográfica: Vértice 1, Lat. 42º 28' 03,05" S, Long. 73º 45' 55,03" W. El objeto consiste en amparar la conservación y permitir nidación de aves playeras migratorias. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Castro. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Claudio Zúñiga Vásquez, Capitán de Corbeta LT, Capitán de Puerto de Castro.
