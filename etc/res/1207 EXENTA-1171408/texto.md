@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 1.207, de fecha 30 de diciembre de 2021, de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Av. Cementerio 30, Rol N° 4-25, Comuna Constitución, superficie 162,35 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente Ortiz Espinoza María Cecilia y otro. Comisión integrada por peritos Patricio Ulises Durán Marcos, Arquitecto; Rodrigo Antonio Silva Lazo, Constructor Civil, y Pedro Pablo Cruz Weston, Arquitecto; según informe de tasación evacuado con fecha 17 de noviembre de 2021, fijó monto provisional indemnización en $143.707.900.-, monto que conforme a lo dispuesto en el artículo 5° del DL 2.186, de 1978, fue reajustado a la suma de $144.426.440.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
