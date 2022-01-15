@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.649, de 28 de diciembre 2021, Serviu Región del Biobío ordenó expropiación total del inmueble ubicado en Gral. Novoa 1067 ST 27, Rol de Avalúo Nº 307-34, comuna de Concepción, de aparente dominio de Pérez Gallegos Héctor, en una superficie de 192,10 m2 de terreno y 148,46 m2 de edificación (a, b y c), conforme al plano S8R-40.171-1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao/General Novoa, comuna de Concepción", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el arquitecto Rodrigo Escobar Fernández, por la arquitecta Carolina Contreras Tapia, por el arquitecto Brogan Ulloa Pérez y por el arquitecto Juan Felipe King Domínguez, según informe de fecha 21 de octubre 2021, fijó monto provisional indemnización, más reajuste del artículo 5º DL 2.186, es la suma de $146.531.957, pagadera de contado.
+
+Director Serviu Región del Biobío.
