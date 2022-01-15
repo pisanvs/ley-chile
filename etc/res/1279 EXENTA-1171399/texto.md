@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1279 de 8 de septiembre de 2021 del Serviu Región de Ñuble, este Servicio ordenó expropiación parcial de inmueble ubicado en Avenida Huambalí Nº 312 B, comuna de Chillán, Rol de Avalúo Nº 643-29, de aparente dominio de Parra Pino José Luis. Rectifícase la publicación de fecha 1 de diciembre de 2021 que corresponde a la resolución exenta Nº 1279 de fecha 08.09.2021, en cuanto a la expropiación parcial del inmueble ubicado en Avenida Huambalí Nº 312 B, comuna de Chillán, Rol de Avalúo 643-29, que fijó el monto de la indemnización provisonal por la expropiación en la suma de $56.534.195, y no en la suma de $61.814.945 como erróneamente se indicó, debiendo reemplazarse la suma de $61.814.945 por la suma de $56.534.195 que corresponde al monto de la indemnización provisional de la expropiación.-
+
+Director SERVIU Región de Ñuble.
