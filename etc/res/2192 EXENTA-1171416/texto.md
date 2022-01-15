@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.192 del 21 de diciembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Diego Portales 256, comuna de Chillán, Rol de Avalúo Nº 00494-00026, de aparente dominio de Inversiones Cerro Blanco Limitada. La parte afecta a expropiación parcial de terreno es de 570,578 m2, cuyos linderos particulares, enmarcados en el plano S16R-187, para el proyecto "Mejoramiento Diego Portales-Francisco Ramírez Chillán, comuna de Chillán", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, Arquitecto don Andrés Javier Tobar Beluzan y por el Ingeniero Civil Industrial don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $207.862.367.-
+
+Director Serviu Región de Ñuble.
