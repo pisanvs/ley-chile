@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP. N° 1361, de 24 de diciembre de 2021, se modificó el numeral tercero del Decreto (Exento) MOP. N°1218, de 11 de noviembre de 2021, quedando de la siguiente forma: LA COMISIÓN de Peritos nombrada por Resolución S.R.M. Región Metropolitana de Santiago (Exenta) N°645, de 10 de julio de 2019, modificada por Resolución S.R.M. Región Metropolitana de Santiago (Exenta) N°747, de 13 de agosto de 2019, compuesta por los peritos NESTOR ALVARO ABELLO RODRIGUEZ, NORMAN ESTANISLAO CALDERON PONTIGGIA y ANGELICA YANETT SEURA ROJAS, mediante informe de tasación de fecha 10 de octubre de 2019, fijó el monto de la indemnización provisional en la cantidad de $919.200.- para el lote N°179-A, y $702.200.- para el lote N°179-D. Dichas cantidades estarán afectas al reajuste que determina el artículo 5° del Decreto Ley N°2186, de 1978, debiendo considerarse para su consignación judicial, lo dispuesto en el artículo 17° de este Decreto Ley.
+
+Fiscalía MOP.
