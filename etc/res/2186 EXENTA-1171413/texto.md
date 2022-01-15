@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 2.186 del 23 de diciembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Variante Collin 5, comuna de Chillán, Rol de Avalúo N° 0508-00020, de aparente dominio de Sandoval Figueroa María Leonor y OT. La parte afecta a expropiación parcial de terreno es de 137,53 m2 y total de edificación 158,51 m2 cuyos linderos particulares, enmarcados en el plano S16R-05, para el proyecto "Mejoramiento Av. Diagonal Las Termas, Chillán, comuna de Chillán, Región de Ñuble", conforme artículo 51 ley 16.391 y DL 2186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, Arquitecto don Andrés Javier Tobar Beluzan y por el Ingeniero Civil don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $95.578.269.-
+
+Director Serviu Región de Ñuble.
