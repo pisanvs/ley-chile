@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 1.975 de fecha 16 de diciembre de 2021, del Serviu V Región de Coquimbo, se ordenó expropiar parcialmente, por causa de utilidad pública, para la ejecución del proyecto "Mejoramiento Vías de Evacuación Localidades Costeras, Región de Coquimbo", conforme al artículo 51 ley 16391 y DL 2186/78, el inmueble singularizado como Lote 12, en plano de expropiación, ubicado en Resto del Fundo Conchalí, comuna de Los Vilos, Rol de avalúo N° 247-4, de aparente dominio de Inmobiliaria Los Vilos Limitada, superficie aprox. de 4998,830 m2. Comisión de Peritos conformada por profesionales Jaime Jurgens Bittner, Francesca Vives Figueroa y Eduardo Tabilo González, según informe de fecha 29 de octubre de 2021, fijó Indemnización provisional en 15.246,432 UF.-, pagadero al contado.
+
+Javier Vega Vilches, Director (S) Serviu Región de Coquimbo.
