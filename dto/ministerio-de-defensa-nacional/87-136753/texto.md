@@ -214,19 +214,33 @@ Cabos 1º 5%
 
 Personal Civil
 
-Empleados Civiles Grado 3 de encasillamiento 26%
+Empleados Civiles Grado 3 26%
 
-Empleados Civiles Grado 4 de encasillamiento 26%
+de encasillamiento
 
-Empleados Civiles Grado 5 de encasillamiento 26%
+Empleados Civiles Grado 4 26%
 
-Empleados Civiles Grado 6 de encasillamiento 26%
+de encasillamiento
 
-Empleados Civiles Grado 7 de encasillamiento 26%
+Empleados Civiles Grado 5 26%
 
-Empleados Civiles Grado 8 de encasillamiento 23%
+de encasillamiento
 
-Empleados Civiles Grado 9 de encasillamiento 20%
+Empleados Civiles Grado 6 26%
+
+de encasillamiento
+
+Empleados Civiles Grado 7 26%
+
+de encasillamiento
+
+Empleados Civiles Grado 8 23%
+
+de encasillamiento
+
+Empleados Civiles Grado 9 20%
+
+de encasillamiento
 
 m) Asignación de Alto Mando:
 
@@ -234,7 +248,9 @@ Consiste en una remuneración adicional imponible que se otorga a los Oficiales 
 
 General Director Titular 30%
 
-General Subdirector Titular y General Inspector 22%
+General Subdirector Titular 22%
+
+y General Inspector
 
 General 17%
 
@@ -244,13 +260,15 @@ El personal de Fila de Orden y Seguridad de la Planta fijada por la ley Nº 18.2
 
 El personal de Nombramiento Supremo de Orden y Seguridad, graduado, que haya prestado servicios como Comisario por un período no inferior a dos años, en Unidades Operativas, y por razones de su ascenso o propias del servicio sea destinado a una Repartición Operativa, tendrá derecho a percibir o continuar percibiendo la presente asignación.
 
-De igual forma el personal antes referido que además de cumplir con el requisito de tiempo señalado en el inciso anterior, haya prestado servicios por un período no inferior a un año en una Repartición Operativa y por razones de su ascenso o propias del servicio sea destinado a una Alta Repartición Operativa, continuará percibiendo la presente asignación. Del mismo modo, el personal que se encuentre percibiendo esta asignación policial al momento de ser destinado a la Academia de Ciencias Policiales o a la Escuela de Suboficiales, según corresponda, para realizar estudios tendientes a obtener los títulos de ''Oficial Graduado en Ciencias Policiales'' o ''Suboficial Graduado'', respectivamente, continuará percibiendo esta asignación mientras duren los referidos estudios; quedando afecto posteriormente a las incompatibilidades respectivas de este beneficio.
+De igual forma el personal antes referido que además de cumplir con el requisito de tiempo señalado en el inciso anterior, haya prestado servicios por un período no inferior a un año en una Repartición Operativa y por razones de su ascenso o propias del servicio sea destinado a una Alta Repartición Operativa, continuará percibiendo la presente asignación.
+
+Del mismo modo, el personal que se encuentre percibiendo esta asignación policial al momento de ser destinado a la Academia de Ciencias Policiales o a la Escuela de Suboficiales, según corresponda, para realizar estudios tendientes a obtener los títulos de ''Oficial Graduado en Ciencias Policiales'' o ''Suboficial Graduado'', respectivamente, continuará percibiendo esta asignación mientras duren los referidos estudios; quedando afecto posteriormente a las incompatibilidades respectivas de este beneficio.
 
 El personal que se encuentre percibiendo la asignación policial y sea aceptado para realizar un curso de especialidad o de perfeccionamiento en planteles institucionales o extra institucionales, tendrá derecho a continuar percibiendo esta asignación.
 
 Con todo, esta asignación sólo es compatible con los sobresueldos señalados en las letras a) y b) del artículo 48º del Estatuto.
 
-Para los efectos del reconocimiento de esta asignación serán considerados estamentos operativos las Unidades y Destacamentos no especializados ni declarados como tal, del nivel táctico u operativo, que ejecutan única y exclusivamente servicios policiales, de manera permanente y continua, entregándolos a la comunidad en forma directa, en las modalidades de turnos; patrullajes; vigilancias; investigación de hechos delictivos; y guardias de detenidos, denuncias y atención de público en general.
+Para los efectos del reconocimiento de esta asignación serán considerados estamentos operativos las Unidades y Destacamentos no especializados ni declarados como tal, del nivel táctico u operativo, que ejecutan principalmente servicios policiales, de manera permanente y continua, entregándolos a la comunidad en forma directa, en alguna de las siguientes modalidades: turnos; patrullajes; vigilancias; investigación de hechos delictivos; guardias de detenidos, denuncias y atención de público en general; controles y fiscalizaciones que por imperativo legal son de competencia de Carabineros de Chile; control y coordinación de procedimientos policiales y/o vigilancia mediante medios tecnológicos; y cumplimiento de órdenes judiciales y/o de requerimientos del Ministerio Público.
 
 De acuerdo a lo anterior, quedan comprendidos en la definición los siguientes Estamentos:
 
@@ -266,7 +284,7 @@ Además, son Altas Reparticiones y Reparticiones Operativas, las Jefaturas de Zo
 
 a) Para el personal de Nombramiento Supremo e Institucional de Orden y Seguridad de dotación de Unidades y Destacamentos Operativos, por la respectiva Repartición, bajo la fórmula ''Por Orden del General Director de Carabineros'', previa solicitud del interesado.
 
-b) El restante personal lo solicitará a la Dirección del Personal, la que verificará el cumplimiento de los requisitos habilitantes, y dictará, si procede, la resolución correspondiente, bajo la fórmula ''Por Orden del General Director de Carabineros''.
+b) El restante personal lo solicitará a la Dirección del Personal, la que verificará el cumplimiento de los requisitos habilitantes, y dictará, si procede, la resolución correspondiente, bajo la fórmula ''Por Orden del General Director de Carabineros'', comprendiendo entre éstas las respectivas Centrales de Comunicaciones.
 
 ñ) Asignación de Permanencia:
 
