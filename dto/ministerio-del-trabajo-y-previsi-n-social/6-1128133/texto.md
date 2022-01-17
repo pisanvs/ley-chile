@@ -44,11 +44,11 @@ a) Mayores de 18 años.
 
 b) Encontrarse cesante al momento de la postulación.
 
-c) Encontrarse dentro del 80% más vulnerable según el o los instrumentos de focalización definidos por la autoridad competente y que serán referidos por el Sence.
+c) Que cuenten con un tope de ingresos máximos de $1.200.000 (un millón doscientos mil pesos) brutos, como promedio de los últimos 12 meses, sean estos continuos o discontinuos.
 
-d) Que cuenten con un mínimo de 9 cotizaciones previsionales en los últimos 36 meses, continuas o discontinuas, y a lo menos, una cotización en los últimos 12 meses.
+d) Que cuenten con un mínimo de 3 cotizaciones previsionales en los últimos 36 meses, continuas o discontinuas.
 
-e) Las personas que deseen acceder al programa y que sean mayores de 18 y menores de 20 años, deberán contar con enseñanza media completa al momento de su postulación.
+e) Que cuenten con enseñanza media completa al momento de su postulación.
 
 Con todo, podrán postular las personas que se encuentren empleadas que, al momento de su postulación, cumplan con los requisitos establecidos en las letras a), c), d) y e), precedentes, y estén en riesgo de perder el empleo debido al impacto de la automatización de sus labores según lo establecido en el artículo 1º.
 
