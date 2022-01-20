@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.957 EXENTA, DE 22 DE DICIEMBRE DE 2021
+
+Resolución exenta Nº 1.957, de 22 diciembre de 2021, de la Secretaría Regional Ministerial de la Región de Los Lagos, aprueba Contrato Ad-Referéndum de Concesión Nº 4 para operar una Planta Revisora Clase AB en la comuna de Puerto Montt, una Planta Revisora clase AB en la comuna de Quellón y una Unidad Móvil, todas en la Región de Los Lagos, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través de la referida Secretaría Regional Ministerial y el concesionario "Inversiones Verosur SpA", con vigencia de diez años contados desde la publicación del presente extracto en el Diario Oficial.-
+
+Nicolás Maximiliano Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
