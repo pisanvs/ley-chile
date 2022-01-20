@@ -118,9 +118,9 @@ El préstamo podrá solicitarse en 2 meses, consecutivos o no consecutivos, dura
 
 Los beneficiarios no podrán recibir más de un préstamo mensual, hasta por el máximo de 3 meses que contempla el artículo precedente, sin importar el número de vehículos a los que se encuentren relacionados, ya sea en calidad de propietarios o meros tenedores inscritos, ni los registros en que éstos se encuentren inscritos. El préstamo se entregará a un beneficiario por vehículo.
 
-#### Artículo 11º
+#### Artículo 11°
 
-El préstamo total se restituirá en la Tesorería General de la República, a partir de septiembre de 2021, en cuotas mensuales de igual valor y sin intereses. Para estos efectos, el préstamo total expresado en Unidades de Fomento, se reajustará al valor de dicha unidad a la fecha de su pago. El préstamo se restituirá mediante una cuponera, que podrá ser electrónica, bajo la suscripción de un convenio de pago con la Tesorería General de la República. Para esos efectos, las cuotas serán las que se señalan a continuación:
+El préstamo total se restituirá en la Tesorería General de la República, a partir de septiembre de 2021, en cuotas mensuales de igual valor y sin intereses. Para estos efectos, el préstamo total expresado en Unidades de Fomento se reajustará al valor de dicha unidad a la fecha de su pago. El préstamo se restituirá mediante una cuponera, que podrá ser electrónica, bajo la suscripción de un convenio de pago con la Tesorería General de la República. Para esos efectos, las cuotas serán las que se señalan a continuación:
 
 a. Si el beneficiario solicita y recibe el préstamo en 1 mes, podrá pagarlo hasta en 16 cuotas.
 
@@ -128,9 +128,13 @@ b. Si el beneficiario solicita y recibe el préstamo en 2 meses, podrá pagarlo 
 
 c. Si el beneficiario solicita y recibe el préstamo en 3 meses, podrá pagarlo hasta en 40 cuotas.
 
-En caso de no pago dentro de plazo, las cuotas adeudadas y cuyo plazo de pago se encuentre vencido a la fecha respectiva se agregarán al cobro del permiso de circulación que les corresponda, siendo requerido el pago de dichas cuotas para la obtención del mismo. Para estos efectos, la Tesorería General de la República deberá comunicar al Ministerio de Transportes y Telecomunicaciones las cuotas no pagadas dentro de plazo por los beneficiarios, para que dicho ministerio se coordine con la Subsecretaría de Desarrollo Regional y Administrativo, del Ministerio del Interior y Seguridad Pública, para que ésta informe a las municipalidades del cobro adicional que deberán realizar en los respectivos permisos de circulación.
+En caso de no pago dentro de plazo, las cuotas adeudadas, y los préstamos estatales adeudados y no convenidos, cuyo plazo de pago se encuentre vencido a la fecha respectiva, se agregarán al cobro del permiso de circulación que les corresponda, siendo requerido el pago de dichas cuotas, o del saldo insoluto, para la obtención del mismo.
 
-En el evento en que no se puedan agregar las cuotas adeudadas al permiso de circulación, por pérdida o destrucción del vehículo, enajenación a un tercero u otra causa, o en el caso que habiendo sido agregadas no sean pagadas, la Tesorería General de la República, en representación del Fisco, estará facultada para realizar las acciones de cobranza judicial y extrajudicial que sean procedentes para obtener el reintegro del préstamo que haya sido otorgado de acuerdo a la ley.
+La Tesorería General de la República será la entidad encargada de recaudar las cuotas y los préstamos estatales adeudados, para efectos de informar el estado de las obligaciones de los beneficiarios, suscribirá un convenio con la Subsecretaría de Desarrollo Regional y Administrativo, y pondrá a disposición de las municipalidades, por la plataforma que dicha Subsecretaría determine, la información de las obligaciones adeudadas por los beneficiarios. Sólo los funcionarios municipales previamente autorizados por la Subsecretaría de Desarrollo Regional y Administrativo tendrán acceso a la plataforma señalada.
+
+Mientras no se acrediten los pagos pendientes, no podrá renovarse el permiso de circulación de un vehículo.
+
+En el evento de pérdida o destrucción del vehículo, enajenación a un tercero u otra causa que impida condicionar el otorgamiento del permiso de circulación al pago de la deuda, o en el caso que no sean pagadas, la Tesorería General de la República, en representación del Fisco, estará facultada para realizar las acciones de cobranza judicial y extrajudicial que sean procedentes para obtener el reintegro del préstamo que haya sido otorgado de acuerdo a la ley.
 
 Las acciones de cobranza que ejerza la Tesorería General de la República, en conformidad al inciso anterior, por sí o a través de terceros, se someterán a las reglas generales del Título V del Libro Tercero del Código Tributario. Para estos efectos, constituyen título ejecutivo, por el solo ministerio de la ley, las nóminas de beneficiarios en mora, emitidas bajo la firma del Tesorero Regional o Provincial que corresponda. El Tesorero General de la República determinará por medio de instrucciones internas la forma como deben prepararse las nóminas de beneficiarios en mora, como asimismo todas las actuaciones o diligencias administrativas que deban llevarse a efecto.
 
