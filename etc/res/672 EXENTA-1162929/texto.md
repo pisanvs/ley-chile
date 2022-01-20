@@ -66,7 +66,7 @@ La validación del esquema completo de vacunación contra SARS-CoV-2 se regirá 
 
 3. Forma y plazo de la declaración. Dispóngase que todas las personas que ingresen al país, deberán completar la señalada declaración a través de un formulario electrónico disponible en el sitio www.c19.cl, hasta 48 horas antes del embarque al medio de transporte por medio del cual se ingrese al territorio nacional. Este formulario será considerado como documentación necesaria para el ingreso al país, en el que se indicará dónde se realizará el aislamiento a que se refiere el numeral siguiente, y será revisado por la autoridad sanitaria en el punto de ingreso.
 
-Para quienes ingresen al país a través de pasos fronterizos terrestres o marítimos, y para casos calificados por la autoridad sanitaria, podrán, si así lo solicitan, completar de forma manuscrita el formulario de Declaración Jurada y presentarla en el punto de ingreso al país.
+En casos calificados por la autoridad sanitaria, podrán, si así lo solicitan, completar de forma manuscrita el formulario de Declaración Jurada y presentarla en el punto de ingreso al país.
 
 ### II. DE LAS CUARENTENAS O AISLAMIENTOS
 
@@ -74,7 +74,11 @@ Para quienes ingresen al país a través de pasos fronterizos terrestres o marí
 
 Para efectos de lo anterior, se entenderá que los 7 días se cumplen una vez transcurridas 168 horas desde el control de la aduana sanitaria en el paso fronterizo por el cual se hizo ingreso al país.
 
-Las personas que cuenten con esquema de vacunación completo contra el SARS-CoV-2 validado por el Ministerio de Salud, así como los menores de 6 años y mayores de 2 años que viajen con ellos, podrán interrumpir anticipadamente el aislamiento del que trata el párrafo anterior, si se obtiene un resultado negativo para detección de coronavirus realizado en Chile con posterioridad al ingreso al país en un laboratorio autorizado por la autoridad sanitaria para tal efecto, siempre y cuando la persona cumpla con todos los demás requisitos establecidos en la presente resolución.
+Cumpliendo con los demás requisitos establecidos en la presente resolución, si se obtiene un resultado negativo de test PCR o antígeno para SARS-CoV-2 tomado en un centro de salud mandatado por la autoridad sanitaria, realizado en Chile con posterioridad al ingreso al país, podrán interrumpir anticipadamente el aislamiento del que trata el párrafo anterior, las siguientes personas:
+
+a) Chilenos y extranjeros residentes de manera regular en Chile que cuenten con su pase de movilidad habilitado, así como los menores de 6 años y mayores de 2 años que viajen con ellos.
+
+b) Extranjeros no residentes que cuenten con su esquema de vacunación completo contra el SARS-CoV-2 validado por el Ministerio de Salud para el ingreso a Chile, así como los menores de 6 años y mayores de 2 años que viajen con ellos.
 
 Los menores de 2 años que viajen con alguna de las personas señaladas en el párrafo anterior, no deberán cumplir con el requisito de obtención de un resultado negativo para detección de coronavirus para que proceda la interrupción anticipada de su aislamiento, siempre y cuando la persona a la que acompañan cumpla con todos los demás requisitos establecidos en la presente resolución.
 
@@ -126,7 +130,7 @@ a) El trayecto al lugar de cumplimiento del aislamiento deberá ser directo desd
 
 b) No se podrán utilizar medios de transporte público, salvo que el vehículo sea utilizado exclusivamente por quienes viajaron, además del conductor. Podrán exceptuarse de esta medida aquellas personas que viajen en transporte aéreo y cuenten con esquema de vacunación completo contra el SARS-CoV-2 validado por el Ministerio de Salud, aun cuando no hayan recibido el resultado del examen para detección de coronavirus realizado al ingresar al país, así como los menores de 6 años que viajen con ellos.
 
-c) En caso de que el lugar de aislamiento quede a más de dos horas del punto de ingreso al país, el conductor del medio de transporte también deberá aislarse en los términos señalados en el numeral 4.
+c) Eliminada.
 
 d) Una vez arribado al lugar de aislamiento deberá dar aviso de su llegada y ubicación a la autoridad sanitaria en una plataforma electrónica dispuesta para estos efectos.
 
@@ -134,7 +138,7 @@ e) Deberá utilizarse mascarilla durante todo el trayecto.
 
 12. Del traslado a otra región. En caso de que el traslado sea a una región distinta a la de ingreso al país, la declaración jurada presentada en el paso fronterizo de entrada actuará como salvoconducto para llegar a destino, en caso de control. Con todo, deberán observarse las normas dispuestas en el numeral anterior.
 
-13. De los contagiados o contactos estrechos. Aquel viajero que, dentro de los catorce días contados desde su ingreso al país, sea calificado como caso confirmado, probable o contacto estrecho, conforme a lo señalado en la resolución Nº 994, de 2021, del Ministerio de Salud, así como sus contactos estrechos, deberán todos ellos cumplir la medida de aislamiento correspondiente, en una residencia sanitaria o donde la autoridad sanitaria lo indique.
+13. De los contagiados. Aquel viajero que, dentro de los siete días contados desde su ingreso al país, sea calificado como caso confirmado o probable, conforme a lo señalado en la resolución Nº 994, de 2021, del Ministerio de Salud, deberán todos ellos cumplir la medida de aislamiento correspondiente, en una residencia sanitaria o donde la autoridad sanitaria lo indique.
 
 ### III. DEL TEST PCR PARA SARS-COV-2 PARA INGRESAR AL PAÍS
 
@@ -170,7 +174,7 @@ Sin perjuicio de lo anterior, podrán continuar su aislamiento en un domicilio p
 
 23. Del resultado positivo persistente. En caso de aquellas personas que hayan estado contagiados por el virus SARS-CoV-2 durante el mes que precede a su embarque con destino al territorio nacional, y que además, 72 horas antes del embarque el resultado de su Test RT-PCR para SARS-CoV-2 persistiera como positivo, sólo podrán ingresar el país si cuentan con dos resultados positivos para el señalado Test.
 
-Para efectos de lo establecido en el párrafo anterior, la toma de muestra de uno de los Test RT-PCR para SARS-CoV-2 positivo deberá haberse realizado hasta 72 horas antes del embarque, y la toma de muestra del otro Test RT-PCR para SARS-CoV-2 cuyo resultado es positivo, deberá haberse realizado con más de 14 días de diferencia con la fecha de embarque, pero con menos de un mes desde el mismo.
+Para efectos de lo establecido en el párrafo anterior, la toma de muestra de uno de los Test RT-PCR para SARS-CoV-2 positivo deberá haberse realizado hasta 72 horas antes del embarque, y la toma de muestra del otro Test RT-PCR para SARS-CoV-2 cuyo resultado es positivo, deberá haberse realizado con más de 10 días de diferencia con la fecha de embarque, pero con menos de un mes desde el mismo.
 
 En caso de entrar vía terrestre, la toma de muestra del segundo Test RT-PCR para SARS-CoV-2 podrá haberse realizado hasta 72 horas antes del ingreso a Chile.
 
@@ -194,23 +198,23 @@ La empresa de transporte que efectúe el traslado del pasajero será responsable
 
 ### V. DEL PERIODO DE SEGUIMIENTO AL VIAJERO
 
-30. Obligatoriedad. Dispóngase que toda persona que ingrese desde el extranjero, sin importar su nacionalidad, lugar de origen o región de destino en Chile, deberá someterse al periodo de Seguimiento al Viajero durante los 10 días siguientes a su ingreso al territorio nacional o hasta que abandone éste, en caso de que su permanencia fuere menor a 10 días.
+30. Obligatoriedad. Dispóngase que toda persona que ingrese desde el extranjero, sin importar su nacionalidad, lugar de origen o región de destino en Chile, deberá someterse al periodo de Seguimiento al Viajero durante los 7 días siguientes a su ingreso al territorio nacional o hasta que abandone éste, en caso de que su permanencia fuere menor a 7 días.
 
-31. Forma de cumplimiento. Para dar cumplimiento al programa del Seguimiento del Viajero, dichas personas deberán completar durante 10 días un formulario de reporte de síntomas y ubicación. Esto se llevará a cabo completando una encuesta de estado de salud en la plataforma electrónica dispuesta para estos efectos por la autoridad sanitaria. La persona recibirá, de forma diaria, un recordatorio para ingresar la información correspondiente a la referida plataforma.
+31. Forma de cumplimiento. Para dar cumplimiento al programa del Seguimiento del Viajero, dichas personas deberán completar durante 7 días un formulario de reporte de síntomas y ubicación. Esto se llevará a cabo completando una encuesta de estado de salud en la plataforma electrónica dispuesta para estos efectos por la autoridad sanitaria. La persona recibirá, de forma diaria, un recordatorio para ingresar la información correspondiente a la referida plataforma.
 
-32. De la aparición de síntomas. Aquella persona que, durante el periodo de 10 días de Seguimiento del Viajero presente los síntomas de los que trata el numeral 22 de la resolución exenta Nº 994, de 2021, del Ministerio de Salud, deberá continuar o permanecer en aislamiento, reportar sus síntomas según lo dispuesto en el numeral anterior y esperar el contacto de la autoridad sanitaria. En caso de que esta última determine que califica como caso positivo o probable, se deberá cumplir con lo dispuesto en el numeral 4 de esta resolución.
+32. De la aparición de síntomas. Aquella persona que, durante el periodo de 7 días de Seguimiento del Viajero presente los síntomas de los que trata el numeral 22 de la resolución exenta Nº 994, de 2021, del Ministerio de Salud, deberá continuar o permanecer en aislamiento, reportar sus síntomas según lo dispuesto en el numeral anterior y esperar el contacto de la autoridad sanitaria. En caso de que esta última determine que califica como caso positivo o probable, se deberá cumplir con lo dispuesto en el numeral 4 de esta resolución.
 
 En el caso que los síntomas señalados sean fiebre mayor a 37,8º C, pérdida brusca de olfato o pérdida brusca del gusto, el viajero deberá acudir a un centro asistencial a la brevedad, haciendo uso de su mascarilla y evitando utilizar el transporte público, cumpliendo con todas las medidas sanitarias que sean pertinentes.
 
 ### VI. DE LOS TEST PARA SARS-COV-2
 
-33. Obligatoriedad. Dispóngase que toda persona que ingrese desde el extranjero, sin importar su nacionalidad, lugar de origen o región de destino en Chile, podrá ser seleccionada por la autoridad sanitaria, en el momento de su ingreso o hasta 14 días después de éste, para ser sometida a exámenes de detección directa para SARS-CoV-2 determinado por la autoridad sanitaria.
+33. Obligatoriedad. Dispóngase que toda persona que ingrese desde el extranjero, sin importar su nacionalidad, lugar de origen o región de destino en Chile, podrá ser seleccionada por la autoridad sanitaria, en el momento de su ingreso o hasta 7 días después de éste, para ser sometida a exámenes de detección directa para SARS-CoV-2 determinado por la autoridad sanitaria.
 
-Quienes obtengan un resultado positivo del testeo del que trata este numeral, deberán cumplir el aislamiento donde disponga la autoridad sanitaria, junto a sus contactos estrechos en caso de tenerlos.
+Quienes obtengan un resultado positivo del testeo del que trata este numeral, deberán cumplir el aislamiento donde disponga la autoridad sanitaria.
 
 En el caso de extranjeros no residentes de manera regular que ingresen al país por pasos fronterizos terrestres habilitados, podrán ser sometidos a un test de antígenos para detección de coronavirus y, de ser positivo el resultado, la autoridad sanitaria podrá denegar la entrada al país.
 
-34. De la negativa. Si un chileno o extranjero residente de manera regular en el país no accediera a realizarse el examen, deberá permanecer en aislamiento, en el lugar que disponga la autoridad sanitaria para esos efectos, durante los 14 días siguientes a su ingreso al país, independiente del resultado negativo que pudiese tener un test PCR para SARS-CoV-2 realizado con anterioridad o posterioridad.
+34. De la negativa. Si un chileno o extranjero residente de manera regular en el país no accediera a realizarse el examen, deberá permanecer en aislamiento, en el lugar que disponga la autoridad sanitaria para esos efectos, durante los 7 días siguientes a su ingreso al país, independiente del resultado negativo que pudiese tener un test PCR para SARS-CoV-2 realizado con anterioridad o posterioridad.
 
 En estos casos, los costos de la estadía deberán ser sufragados por el individuo.
 
@@ -228,11 +232,11 @@ Los extranjeros no residentes de manera regular en el país, que sean tripulante
 
 a) A los conductores extranjeros no residentes de manera regular en el país, que ingresen al territorio nacional, se les exigirá portar un resultado negativo de un Test PCR para SARS-CoV-2, el cual no debe exceder las 72 horas anteriores al inicio de viaje desde el punto de origen, según lo consignado en el manifiesto internacional de carga/declaración de tránsito aduanero.
 
-Cualquier conductor extranjero no residente de manera regular en el país podrá ser seleccionado, en forma aleatoria por la autoridad sanitaria, al momento de su ingreso, para ser sometido a un examen de detección directa para SARS-CoV-2 determinado por la autoridad sanitaria. Si este mismo conductor no accediera a realizarse el examen, deberá permanecer en aislamiento, en el lugar que disponga la autoridad sanitaria para esos efectos, durante los 14 días siguientes a su ingreso al país, independiente del resultado negativo que pudiese tener un test PCR para SARS-CoV-2 realizado con anterioridad o posterioridad. En caso de negarse a practicarse el señalado examen, se aplicará lo dispuesto en el Código Sanitario o en el Reglamento Sanitario Internacional.
+Cualquier conductor extranjero no residente de manera regular en el país podrá ser seleccionado, en forma aleatoria por la autoridad sanitaria, al momento de su ingreso, para ser sometido a un examen de detección directa para SARS-CoV-2 determinado por la autoridad sanitaria. Si este mismo conductor no accediera a realizarse el examen, deberá permanecer en aislamiento, en el lugar que disponga la autoridad sanitaria para esos efectos, durante los 7 días siguientes a su ingreso al país, independiente del resultado negativo que pudiese tener un test PCR para SARS-CoV-2 realizado con anterioridad o posterioridad. En caso de negarse a practicarse el señalado examen, se aplicará lo dispuesto en el Código Sanitario o en el Reglamento Sanitario Internacional.
 
 Los costos asociados a la estadía en el lugar donde cumple el aislamiento serán sufragados por la empresa extranjera de transporte internacional terrestre a cuyo nombre se encuentre habilitado el vehículo conducido por el conductor en cuestión.
 
-b) Los conductores chilenos y extranjeros residentes de manera regular en el país podrán ser seleccionados, en forma aleatoria por la autoridad sanitaria, al momento de su ingreso, para ser sometidos a un examen de detección directa para SARS-CoV-2 determinado por la autoridad sanitaria. Si estos mismos conductores no accedieran a realizarse el examen, deberán permanecer en asilamiento, en el lugar que disponga la autoridad sanitaria para esos efectos, durante los 14 días siguientes a su ingreso al país, independiente del resultado negativo que pudiese tener un test PCR para SARS-CoV-2 realizado con anterioridad o posterioridad.
+b) Los conductores chilenos y extranjeros residentes de manera regular en el país podrán ser seleccionados, en forma aleatoria por la autoridad sanitaria, al momento de su ingreso, para ser sometidos a un examen de detección directa para SARS-CoV-2 determinado por la autoridad sanitaria. Si estos mismos conductores no accedieran a realizarse el examen, deberán permanecer en asilamiento, en el lugar que disponga la autoridad sanitaria para esos efectos, durante los 7 días siguientes a su ingreso al país, independiente del resultado negativo que pudiese tener un test PCR para SARS-CoV-2 realizado con anterioridad o posterioridad.
 
 Los costos asociados a la estadía en el lugar donde cumple el aislamiento serán sufragados por la empresa extranjera de transporte internacional terrestre a cuyo nombre se encuentre habilitado el vehículo conducido por el conductor en cuestión.
 
