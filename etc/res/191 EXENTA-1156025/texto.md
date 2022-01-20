@@ -24,21 +24,41 @@ Lo dispuesto en la Ley Nº 18.575, Orgánica Constitucional de Bases Generales d
 
 Resolución:
 
-1. Establécese la siguiente estructura orgánica del Instituto de Salud Pública de Chile, la cual constará de una Dirección que trabajará con un consejo técnico, un gabinete, cinco unidades asesoras y siete departamentos, de acuerdo a la organización que se plantea a continuación:
+1. Establécese la siguiente ESTRUCTURA ORGÁNICA DEL INSTITUTO DE SALUD PÚBLICA DE CHILE, la cual constará de una Dirección que trabajará con un Consejo Técnico, un gabinete, siete unidades asesoras y seis departamentos, los que contarán con las FUNCIONES Y DELEGACIÓN de firma que se definirán a continuación.
 
-2. La Dirección del Instituto, la que estará a cargo de un Director, elegido de conformidad a las disposiciones de la ley Nº 19.882, a quien le corresponderá ejercer la jefatura superior del Instituto y tendrá su representación judicial y extrajudicial, con las facultades definidas en los artículos 59 del decreto con fuerza de ley Nº 1, del año 2005, que fija texto refundido, coordinado y sistematizado del decreto ley Nº 2.763, de 1979 y de las leyes Nº 18.933 y Nº 18.469 y 10 del decreto supremo N° 1.222, del año 1996, que contiene el reglamento de este Instituto.
+2. La DIRECCIÓN del Instituto, la que estará a cargo de un Director, elegido de conformidad a la disposiciones de la Ley Nº 19.882, a quien le corresponderá ejercer la jefatura superior del Instituto y tendrá su representación judicial y extrajudicial, con las facultades definidas en los artículos 59 del Decreto con Fuerza de Ley Nº 1, del año 2005, que fija texto refundido, coordinado y sistematizado del Decreto Ley Nº 2.763, de 1979 y de las leyes Nº 18.933 y Nº 18.469 y 10 del Decreto Supremo Nº 1.222, del año 1996, que contiene el reglamento de este Instituto.
 
-La Dirección del Instituto establecerá los objetivos de la organización, asignando responsabilidades para alcanzarlos. Asimismo, definirá la visión, misión y valores institucionales y el grado de calidad y aceptación de riesgos dentro de la misma.
+Para el debido cumplimiento de sus funciones, el Director del Instituto será asesorado por un Consejo Técnico, que será presidido por el Director y que estará integrado por las jefaturas de los departamentos y de las unidades asesoras, pudiendo convocar a otros funcionarios internos o externos, de ser necesario.
 
-Para el debido cumplimiento de sus funciones, el Director del Instituto será asesorado por un Consejo Técnico, que presidirá y que estará integrado por las jefaturas de los departamentos y de las unidades asesoras, pudiendo convocar a otros funcionarios internos o externos, de ser necesario. Este Consejo Técnico se reunirá a requerimiento de la Dirección, para considerar los asuntos que su presidente indique al elaborar la tabla respectiva, por parte de la jefatura de gabinete.
+Este Consejo Técnico se reunirá a requerimiento de la Dirección, para considerar los asuntos que su presidente indique al elaborar la tabla respectiva, por parte de la jefatura de gabinete. Asimismo, el Consejo Técnico tendrá la calidad de Comité de Emergencia y de Crisis, en caso de cualquier tipo de emergencia o calamidad pública. Para estos efectos, los objetivos del Comité de Emergencia y Crisis serán los siguientes:
 
-2.1 Dependerá de Dirección, un Gabinete, a cargo de una jefatura, a la cual se le delega la facultad de dictar providencias de mero trámite, fijar plazos a los requerimientos de la Dirección, fijar reuniones y requerir directamente a cualquier departamento, Subdepartamento, Sección u Oficina, informes, antecedentes u otros documentos que estime necesarios y pertinentes y fijar plazo para su respuesta. A esta jefatura le corresponderán las siguientes funciones:
+a) Planificar y coordinar acciones con organismos relacionados con el Instituto para dar respuestas oportunas frente a emergencias o catástrofes.
 
-a) Planificar, programar, coordinar y dirigir el apoyo administrativo que la Dirección requiera para el desempeño de sus funciones, pudiendo impartir instrucciones generales que tengan por objeto mejorar la gestión interna de la documentación institucional.
+b) Planificar y coordinar a los departamentos del Instituto para cumplir con las acciones que se establezcan, conforme al punto anterior.
 
-b) Recibir y atender a las autoridades, representantes de organizaciones, funcionarios y otras personas, de acuerdo con las pautas generales que el Director le indique.
+c) Asesorar a la dirección, departamentos y unidades del Instituto que lo necesiten, en temas relativos a este comité.
 
-c) Coordinar la comunicación con autoridades y jefaturas de instituciones externas, con los cuales se vincula la institución en el desarrollo de sus funciones.
+d) Desarrollar un plan de emergencias.
+
+El Director ejercerá como presidente del comité, quien podrá requerir el asesoramiento de personas expertas en temas específicos. La jefatura del Departamento Nacional y de Referencia en Salud Ambiental, por su parte, representará al Instituto en el Comité de Operaciones y Emergencias del Ministerio de Salud. En esta labor ejercerá como suplente la jefatura del Departamento Salud Ocupacional.
+
+La Secretaría del Comité estará a cargo de quien ejerza la coordinación de gestión del Departamento Nacional y de Referencia en Salud Ambiental, actuando como suplente la jefa de la Unidad de Comunicaciones e Imagen Institucional. Tendrá a su cargo las funciones que a continuación se enuncian:
+
+a) Administrar las actas y registros de las actividades del comité y mantener actualizado el listado de los datos de contacto de sus integrantes.
+
+b) Ser el punto de contacto con las entidades interesadas. Asimismo, deberá convocar las actividades del comité contenidas en el plan de emergencias, como también aquellas no planificadas, cuando sea necesario.
+
+c) Difundir al comité toda la información que sea de interés, como también consolidar información institucional para responder requerimientos de otros actores externos.
+
+d) Las demás funciones específicas que le sean asignadas en el plan de emergencias.
+
+2.1 Dependerá de Dirección, un GABINETE, a cargo de una jefatura, a la que le corresponderán las siguientes funciones:
+
+a) Apoyar en la labor administrativa que se deriva del funcionamiento de la gestión diaria que desarrolla la Dirección.
+
+b) Coordinar el trabajo y relaciones jerárquicas de las unidades que componen la Institución, tanto de las que dependen directamente, como los departamentos y asesores, requiriendo informes de compromiso de gestión y antecedentes al efecto.
+
+c) Coordinar la comunicación tanto con autoridades y funcionarios de instituciones externas, con los cuales se vincula la institución en el desarrollo de sus funciones.
 
 d) Organizar, programar, coordinar y administrar la agenda de actividades administrativas y reuniones internas como externas de la Dirección.
 
@@ -46,73 +66,181 @@ e) Coordinar el contenido, la forma y oportunidad en que se entrega la informaci
 
 f) Dar visto bueno a los actos administrativos que suscriba el Director.
 
-g) Supervisar las actividades y asegurar la adecuada gestión de los requerimientos asociados a Participación Ciudadana, Ley de Lobby y la Ley de Transparencia, sin perjuicio de las facultades de la jefatura de atención de Clientes y usuarios.
+g) Coordinar con la Unidad de Comunicaciones e Imagen Institucional, el desarrollo de ceremonias y otras actividades sociales en donde participe la Dirección.
 
-h) Dictar providencias de mero trámite.
+h) Efectuar el seguimiento de los acuerdos que se generen en el Consejo Técnico, así como de las otras tareas que el Director encomiende.
 
-i) Agilizar todas aquellas materias que el Director estime de relevancia.
+2.1.1 Dependerá de la Jefatura de Gabinete, un COORDINADOR TÉCNICO, que tendrá las siguientes funciones:
 
-j) Efectuar el seguimiento de los acuerdos que se generen en el Consejo Técnico, así como de las otras tareas que el Director encomiende.
+a) Efectuar acciones de coordinación entre los departamentos técnicos y la Dirección del Instituto.
 
-2.1.1 Suprimido.
+b) Ejercer el rol de facilitador de las relaciones laborales con las asociaciones de funcionarios, Jefaturas y la Dirección.
 
-2.2. Fiscalía, que será la unidad asesora de la Dirección que tendrá como función asesorar jurídica y judicialmente a la jefatura de Servicio, definir los criterios jurídicos que deba aplicar la institución en todas las materias de su competencia, y asesorar a los departamentos y unidades en la adopción de decisiones y políticas institucionales con el fin de incorporar el análisis de juridicidad en sus actuaciones.
+c) Realizar las actividades de coordinación que se requieran colegios profesionales y otras entidades afines, externas al Instituto.
 
-2.2.1 La jefatura de la Fiscalía tendrá delegada la firma de las siguientes actuaciones:
+2.2 La UNIDAD DE ASESORÍA JURÍDICA, que estará a cargo de una jefatura que tendrá delegada la firma de las siguientes actuaciones:
 
-a) Oficios que sean requeridos por los tribunales de justicia, Ministerio Público, Carabineros de Chile, Policía de Investigaciones, fiscalías militares y jefaturas jurídicas de otros órganos de la Administración del Estado, con excepción de la Contraloría General de la República y aquellos que estén especialmente delegados en otras áreas técnicas. Asimismo, podrá suscribir el oficio por el cual se derive un requerimiento de cualquier autoridad a la entidad competente, en aplicación del inciso segundo del artículo 14 de la ley N° 19.880.
+a) Oficios que sean requeridos por los Tribunales de Justicia, Ministerio Público, Carabineros de Chile, Policía de Investigaciones, Fiscalías Militares y jefaturas jurídicas de otros órganos de la Administración del Estado, salvo aquellos que estén especialmente delegados en otras áreas técnicas.
 
-b) Resoluciones que denieguen parcial o totalmente el acceso a la información pública, en el marco de la ley N° 20.285.
+b) Oficios enviados al Ministerio Público en que se denuncie la ocurrencia de hechos que pudieran ser constitutivos de delito, siempre que no se relacione con hechos verificados por el Subdepartamento de Inspecciones del Depto. Agencia Nacional de Medicamentos, en el ejercicio de sus funciones.
 
-c) Resoluciones que dicten sentencia en sumarios sanitarios y aquellas que se pronuncien sobre la solicitud de suspensión de los efectos de aquellas sentencias, así como también resolver los recursos de reposición.
+c) Resoluciones que denieguen totalmente el acceso a la información pública, en el marco de la Ley Nº 20.285.
 
-d) Resoluciones que se pronuncien sobre los recursos de reposición que se presenten contra actos emanados de este Instituto, así como las solicitudes de suspensión de los mismos, con excepción de las decisiones suscritas por la jefatura de Servicio del Instituto, las que serán resueltas por esa autoridad.
+d) En materia de sumarios sanitarios, dictar y modificar el acto administrativo por el cual se ordena la instrucción del proceso en cuestión, designar al funcionario que hará las veces de fiscal, y modificar dicha designación, cuando proceda. Asimismo, firmará las resoluciones que dicten sentencia en los sumarios sanitarios, aquellas que se pronuncien sobre la solicitud de suspensión de las mismas, así como resolver los recursos de reposición y cualquier otro tipo de impugnación, presentación o solicitud, a propósito de la sentencia dictada en dichos procesos. Respecto de lo anterior, se exceptúan las sentencias, recursos y demás presentaciones sobre aquellos procedimientos en que la sanción aplicable o aplicada sea la de cancelación de los permisos concedidos.
 
-e) Oficios que deban ser enviados a Contraloría General de la República para solicitar el retiro de actos administrativos que hayan sido enviadas a dicho ente de control para el trámite de toma de razón, así como aquellos que soliciten prórrogas para dar respuesta a un requerimiento desde dicha entidad.
+e) Resolver las solicitudes de invalidación, los recursos de reposición y otras impugnaciones, de todo tipo, que se presenten contra actos emanados de este Instituto, así como las solicitudes de suspensión contenidas en dichas presentaciones. Lo anterior, con excepción de la revisión cuya facultad se delega en las letras c) y d) del número 6.10 de la presente resolución.
 
-2.2.2 La Fiscalía estará conformada por las siguientes oficinas, con las funciones y delegaciones que se describen:
+2.2.1 Se delega también en los funcionarios de la Unidad de Asesoría Jurídica que ejerzan la labor de fiscalía en sumarios sanitarios, la facultad de suscribir los memorandos y oficios destinados a recabar información relacionada con la investigación que tienen a su cargo. Del mismo modo, estos funcionarios podrán dictar resoluciones que abran términos probatorios, resuelvan solicitudes de ampliaciones de plazos sobre los mismos y, en general, aquellas que sean necesarias para dar curso progresivo a los autos.
 
-2.2.2.1 Oficina Judicial y Convenios, que tiene la función de asumir la defensa judicial del Instituto y, en general, representar al Servicio ante los tribunales de justicia, con excepción de las responsabilidades que en esta materia tenga asignado el Subdepartamento de Gestión Financiera. Asimismo, es la responsable de gestionar los convenios que suscribe la institución con otras entidades, velando por la juridicidad de los mismos.
+2.2.2 Le corresponderán a la Unidad de Asesoría Jurídica, las siguientes funciones:
 
-2.2.2.2 Oficina Jurídica, cuya función es la de asesorar estratégicamente a la institución, proponiendo acciones y decisiones que consideren el cumplimiento de las normas sobre la Administración del Estado y respecto de la función pública en general, con énfasis en lo referido la juridicidad de las adquisiciones que requieren revisión de legalidad de acuerdo a los lineamientos de la Dirección, como también la asesoría en materia de procesos disciplinarios. Asimismo, es la responsable de gestionar las solicitudes que se realicen por los usuarios en relación con la Ley N° 20.285, sobre acceso a la información pública.
+a) Asesorar a la Dirección y a otras Jefaturas del Instituto en la aplicación de las normas legales, reglamentarias y otras disposiciones, emitiendo los informes que le sean requeridos.
 
-La jefatura de la Oficina Jurídica tendrá las siguientes delegaciones de firma, en el ámbito de la Ley N° 20.285:
+b) Redactar y revisar los proyectos de formalización de actos, contratos y convenios con personas naturales o jurídicas nacionales en que participe el Instituto y realizar las gestiones tendientes a materializarlos.
 
-a) Derivar directamente a los responsables las solicitudes de acceso a la información que se presenten al Instituto, en conformidad la ley N° 20.285.
+c) Intervenir en la elaboración de las resoluciones e instrucciones que deba aprobar la Dirección del Instituto, a requerimiento de ésta.
 
-b) Informar al Consejo para la Transparencia la prórroga de una respuesta que se efectúe al alero de la ley.
+d) Preparar los informes y las consultas a la Contraloría General de la República sobre la interpretación de normas legales y reglamentarias.
 
-c) Firmar las respuestas que se entreguen a los usuarios en el marco de la citada ley, con excepción de aquellas que denieguen total o parcialmente el acceso a la información.
+e) Asumir la defensa del Instituto en los juicios en que sea parte o en los asuntos en que tenga interés ante los tribunales de justicia o el Ministerio Público.
 
-2.2.2.3 Oficina de Asuntos Regulatorios, cuya función es la de velar por el cumplimiento de las disposiciones legales y reglamentarias referidas a la función de laboratorio nacional y de referencia, así como respecto de los productos sanitarios regulados por el Instituto y los establecimientos relacionados, elaborando los actos administrativos que le sean requeridos y participando en la elaboración de las propuestas regulatorias que emanen del Servicio. Esta oficina es, además, la responsable de la tramitación de los sumarios sanitarios regulados en el Libro X del Código Sanitario.
+2.3 La UNIDAD DE COMUNICACIONES E IMAGEN INSTITUCIONAL, que tendrá las siguientes funciones:
 
-La jefatura de la Oficina de Asuntos Regulatorios tendrá delegada la facultad de firmar la resolución que instruye los sumarios sanitarios, designar fiscal en ellos y citar a las respectivas audiencias. Por otro lado, los funcionarios de la Oficina de Asuntos Regulatorios que ejerzan como fiscales en el marco de los sumarios sanitarios, podrán suscribir las resoluciones que abran términos probatorios, los oficios que requieren información a otras entidades y, en general, resolver sobre todo aquello que permita dar curso progresivo a estos procedimientos.
+a) Asesorar a la Dirección en materias relacionadas con la comunicación entre el Instituto y público interno y externo.
 
-2.3. La Unidad de Comunicaciones y Participación Ciudadana será la unidad asesora de la Dirección que tiene como función la de asesorar a la Dirección en materias relacionadas con la comunicación entre el Instituto y público interno y externo, estando a cargo de preparar el contenido relativo a las actividades del Instituto para su difusión en medios de comunicación y en la página web institucional y de coordinar actividades de prensa.
+b) Preparar contenido relativo a las actividades del Instituto para su difusión en medios de comunicación.
 
-Por otra parte, será el área encargada de vigilar el adecuado cumplimiento de las normas vinculadas con el protocolo en cada una de las actividades públicas donde participe la Dirección y de diseñar el contenido de la cuenta pública institucional. Asimismo, esta unidad es la encargada de la gestión de la participación ciudadana, conforme al Título IV del decreto con fuerza de ley N° 1-19.653, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado y de administrar la plataforma que ha dispuesto la ley N° 20.730, que regula el lobby y las gestiones de interés particular, ejerciendo como punto de enlace para los sujetos pasivos del Instituto.
+c) Organizar conferencias de prensa y actividades similares, a requerimiento de la Dirección.
 
-2.4. La Unidad de Control de Gestión y Riesgos Institucionales será la unidad asesora de la Dirección que tiene como función colaborar en la formulación de los instrumentos de gestión y el control y seguimiento de las metas del Instituto, de sus departamentos y unidades dependientes, así como la implementación y seguimiento del programa de gestión de riesgos institucionales.
+d) Comunicar oportunamente a las autoridades correspondientes las informaciones relacionadas con el Instituto y con el sector salud, proponiendo o recomendando las acciones comunicacionales que sean pertinentes.
 
-2.5 Eliminado.
+e) Mantener contactos con las Unidades o Departamentos de Comunicaciones del Ministerio de Salud y de los demás organismos del Sistema Nacional de Servicios de Salud y de otras instituciones y entidades en lo referente a actividades o asuntos relacionados con la competencia del Instituto.
 
-2.6 Eliminado.
+f) Recabar de los distintos Departamentos del Instituto, la información que ella requiera, para el cumplimiento de sus funciones.
 
-2.7. La Unidad de Auditoría Interna será la unidad asesora de la Dirección que tiene como función prestar asesoría técnica especializada a la jefatura superior del servicio en materias de auditoría y control interno, a objeto de evaluar y contribuir a la mejora de la eficacia del proceso de administración, gestión de calidad y control preventivo, proponiendo medidas necesarias para el fortalecimiento de la gestión institucional.
+g) Vigilar el adecuado cumplimiento de las normas vinculadas con el protocolo en cada una de las actividades públicas donde participe la Dirección.
 
-A la jefatura de esta unidad se le delega la facultad de suscribir la resolución que aprueba los listados maestros de documentos del sistema de gestión de calidad institucional.
+h) Diseñar y producir los contenidos que serán publicados en la página web institucional.
 
-2.8 La Unidad de Sistemas de Información, dependiente de la Dirección, tiene los roles y responsabilidades relacionados con el diseño, desarrollo e implementación de los sistemas de información que respaldan los objetivos y operaciones de la institución. Estos consideran infraestructura y comunicaciones tecnológicas, continuidad operacional, seguridad de información, reingeniería de procesos en pro de la eficiencia, modelo y gobierno de datos, así como el cumplimiento de la Estrategia de Gobierno Digital 2030.
+i) Ser responsable de administrar la plataforma que ha dispuesto la Ley Nº 20.730, que regula el lobby y las gestiones de interés particular, ejerciendo como punto de enlace para los sujetos pasivos del Instituto.
 
-2.8.1 La Unidad de Sistemas de Información tendrá las siguientes oficinas:
+j) Ser el ente coordinador de la participación ciudadana, entendiéndose comprendido en este concepto los diálogos participativos, la organización del Consejo de la Sociedad Civil, y todas aquellas instancias afines.
 
-2.8.2 Procesos: Responsable de establecer los modelos operacionales para asegurar la eficiencia, trazabilidad y calidad a través de la homologación y simplificación de los procesos. Ello implica liderar, elaborar e implantar de manera integral todos los proyectos y requerimientos de carácter tecnológico que se originen en las diferentes áreas del Instituto. Siendo también responsable del soporte funcional de todos los sistemas de información del Instituto.
+k) Realizar las gestiones referentes a la participación ciudadana en relación a la cuenta pública institucional.
 
-2.8.3 Transformación Digital: Responsable de asegurar el cumplimiento de la estrategia digital institucional y del Estado, consolidando en todas las actividades de Instituto, el avance hacia la digitalización, la interoperabilidad e integración con otros sistemas e instituciones. Estará también a cargo de la actualización y mantención del catálogo de todas las prestaciones y servicios del Instituto.
+2.4 La UNIDAD DE PLANIFICACIÓN ESTRATÉGICA Y CONTROL DE GESTIÓN, la que tendrá las siguientes funciones:
 
-2.8.4 Datos: Responsable del diseño, arquitectura, modelo, construcción, integración, normalización y mantención de todos los datos de la institución, los generados internamente, así como los que se puedan capturar de otras instituciones tanto nacionales como internacionales. Le corresponderá, además, asegurar la calidad, buenas prácticas y disponibilidad de los datos con los cuales el Instituto genera sus actividades de vigilancia y gestión para cumplir su propósito, en estrecha coordinación con el Departamento de Vigilancia Sanitaria e Investigación.
+a) Conducir y coordinar el proceso de planificación estratégica institucional, y establecer su relación con el proceso presupuestario.
 
-2.8.5 Tecnología y Comunicaciones: Responsable de la arquitectura tecnológica para establecer la continuidad y eficiencia integral de los servicios del Instituto, a través de las plataformas, sistemas, ambientes de producción, topología de comunicaciones, soporte y mantención de éstos. Tendrá a su cargo también implantar las políticas de seguridad de información, continuidad operacional y externalización de servicios.
+b) Gestionar el alineamiento estratégico entre lo técnico y lo administrativo, orientado al cumplimiento del Plan de Desarrollo Estratégico Institucional y a los compromisos de gestión asociados a incentivos.
+
+c) Asesorar a la Dirección y a los Departamentos del Instituto de Salud Pública, en materias de gestión interna y externa.
+
+d) Generar y evaluar proyectos estratégicos (como son proyectos de expansión, de tecnología o de inversión, entre otros), para el desarrollo de la Institución.
+
+e) Apoyar metodológicamente el análisis de la cartera de bienes y servicios y la estructura de costos correspondiente.
+
+f) Velar por el cumplimiento y mejoramiento continuo de los procesos, a través del control de la gestión.
+
+g) Coordinar y entregar información que permita dar cuenta pública de la gestión institucional y responder respecto de los compromisos institucionales gubernamentales.
+
+h) Velar por el cumplimiento de la estrategia institucional, incorporando los planes particulares de cada departamento, en vías de lograr los objetivos y metas propuestas por la Dirección.
+
+2.5 La UNIDAD DE GESTIÓN DE LA CALIDAD, a la que corresponderán las funciones que a continuación se indican:
+
+a) Coordinar, controlar y apoyar los procesos de implementación, mantención y ampliación de certificaciones y acreditaciones del Sistema de Gestión de la Calidad institucional y la gestión de riesgo.
+
+b) Proponer a la alta dirección líneas de acción respecto al Sistema de Gestión de la Calidad.
+
+c) Mantener informada a la Dirección institucional respecto al desempeño del Sistema de Gestión Integrado.
+
+d) Coordinar y asesorar técnicamente la gestión del Comité Único de Riesgo, de Calidad y de Seguridad de la Información del Instituto de Salud Pública de Chile.
+
+e) Asesorar a los Departamentos y Unidades, que lo requieran, en temas relativos a la calidad.
+
+f) Apoyar y coordinar la gestión en materias de la calidad en el ámbito institucional, favoreciendo la interacción entre procesos operacionales y de soporte.
+
+g) Ser contraparte institucional con organismos externos -Instituto Nacional de Normalización, casas certificadoras y acreditadoras-, en el ámbito de la calidad.
+
+2.6 La UNIDAD DE RELACIONES INTERNACIONALES, a la que corresponderán las siguientes funciones:
+
+a) Asesorar, apoyar y actuar como enlace entre la Dirección, Departamentos y a las demás Unidades Asesoras en la definición de los lineamientos de cooperación internacional del Instituto.
+
+b) Velar por el cumplimiento de los compromisos adquiridos por el Instituto ante organismos internacionales, mediante el seguimiento de los convenios, declaraciones, acuerdos o proyectos.
+
+c) Coordinar con el Ministerio de Relaciones Exteriores las actividades que se deriven de los procesos de relación y cooperación internacional, según corresponda.
+
+d) Coordinar con la Oficina de Cooperación y Asuntos Internacionales del Ministerio de Salud, las actividades que se deriven de los procesos de relación y cooperación internacional, según corresponda.
+
+e) Generar y coordinar redes de cooperación entre las diversas instancias del sector público, centralizado o descentralizado, especializadas en asuntos internacionales o de cooperación.
+
+f) Actuar como enlace del Instituto en la celebración de convenios con entidades extranjeras, redactarlos -cuando proceda-, revisar su pertinencia, elaborar las resoluciones que aprueben dichos convenios -con el visto bueno de la Asesoría Jurídica-, y mantener un listado actualizado de los mismos, debiendo efectuar el seguimiento y control de las obligaciones contenidas en los compromisos suscritos.
+
+2.7 La UNIDAD DE AUDITORÍA INTERNA, la que cumplirá con las funciones que se mencionan a continuación:
+
+a) Evaluar en forma permanente el sistema de control interno institucional, efectuando las recomendaciones con el debido seguimiento, para el mejoramiento continuo de la institución.
+
+b) Planificar, programar, ejecutar, informar y realizar seguimiento de las auditorías planificadas y de contingencias, como así mismo a las auditorías gubernamentales y ministeriales.
+
+c) Verificar la existencia de adecuados sistemas de información, su confiabilidad y oportunidad.
+
+d) Visar los balances institucionales emitidos por el Subdepartamento de Gestión Financiera y el Servicio de Bienestar.
+
+e) Promover la coherencia de la política institucional y actividades de la Unidad de Auditoría Interna del Instituto, con aquellas emanadas de la Autoridad Presidencial, las orientaciones dadas por el Consejo de Auditoría Interna General de Gobierno (CAIGG) y respecto de la acción de otros organismos de Estado.
+
+f) Efectuar el seguimiento de los compromisos emanados de los informes de auditoría, aprobados por el Jefe de Servicio.
+
+g) Otorgar permanente y oportuno aseguramiento al proceso de gestión de riesgo de la institución, según las directrices entregadas por el Consejo de Auditoría.
+
+2.8 La UNIDAD TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIONES (TIC), la que estará compuesta por las siguientes secciones, detallándose a continuación sus funciones:
+
+2.8.1 Administración de Plataformas e Infraestructura Tecnológica:
+
+a) Controlar la plataforma tecnológica, en lo relacionado a hardware, software y comunicaciones, asegurando la disponibilidad y uso de la información, a través de respaldos oportunos y sistemáticos.
+
+b) Intervenir en las decisiones sobre la calidad y medios de tecnología de información que emplea la institución, participando en la selección e instalación de equipos.
+
+c) Coordinar y mantener la disponibilidad de la red de comunicación de la institución.
+
+d) Organizar, planificar, controlar y desarrollar la mantención de equipos e instalaciones de tipo correctivas que se realicen ante fallas imprevistas del sistema, velando por el restablecimiento de los elementos dañados en los plazos previstos.
+
+e) Ser el encargado de seguridad (niveles, entrega, mantención y operación de claves de acceso de las aplicaciones).
+
+2.8.2 Desarrollo, Soporte y Mantención de Sistemas:
+
+a) Liderar proyectos de tecnologías de la información en la institución.
+
+b) Planificar, controlar y evaluar la incorporación de tecnología en el Instituto.
+
+c) Asesorar a las áreas de negocio del Instituto en cuanto a la formulación de requerimientos o validaciones técnicas para proyectos internos o externos.
+
+d) Administrar toda la información de los proyectos e informar a los interesados los avances y documentación disponible del mismo.
+
+e) Coordinar, implementar, supervisar y controlar los proyectos internos.
+
+2.8.3 Control de Gestión y Planificación:
+
+a) Planificar, gestionar, dirigir, coordinar y evaluar las actividades de tecnologías de información y comunicaciones, en conjunto con la Jefatura de la Unidad.
+
+b) Coordinar acciones con otras áreas de tecnologías de información del sector público, a fin de facilitar la instrumentación de aplicaciones y herramientas que faciliten la gestión de los organismos.
+
+c) Supervisar y controlar los recursos y contratos externos.
+
+d) Apoyar a la jefatura en la planificación de los programas de capacitación y fiscalizar su cumplimiento.
+
+e) Definir políticas internas de TIC, controlar su cumplimiento e instrumentalizar la incorporación de mejoras en forma continua.
+
+2.8.4 Soporte a Usuarios y Mantención de Equipos e Impresoras:
+
+a) Ser responsable del equipamiento computacional (equipos estacionarios o notebooks) e impresoras, en cuanto a su funcionamiento, servicio técnico, ubicación, control y traslado.
+
+b) Ser responsable de atender y dar solución a los requerimientos de los usuarios recibidos a través del canal oficial de ayuda.
+
+c) Ser responsable del equipamiento de telefonía celular de la institución, en cuanto a su ubicación, asignación, habilitación y control.
+
+d) Ser responsable del control de contratos y servicios de continuidad operacional de la sección.
+
+e) Ser responsable del seguimiento del cumplimiento del plan de compras de la Unidad.
 
 3. Todos los jefes de Departamentos de este Instituto tendrán un COORDINADOR DE GESTIÓN que dependerá directamente de ellos, y que ejercerá como apoyo en el desarrollo de la estrategia departamental e institucional para el logro de los objetivos, desempeñando un rol orientador y de asesoría en materias relacionadas con el seguimiento de compromisos de gestión, disponiendo oportunamente de la información, optimizando los procesos relacionados con las áreas de soporte institucional y siendo responsables de la eficiencia de los recursos asignados. A estos profesionales les estarán asignadas las funciones que a continuación se mencionan:
 
@@ -144,9 +272,9 @@ a) Oficios y documentos dirigidos a los servicios públicos en las materias dele
 
 b) Oficios y comunicaciones dirigidos a las personas naturales o jurídicas que han contratado con el Instituto. No obstante, se excluyen aquellos oficios o comunicaciones que impliquen el término de los servicios, liberación de obligaciones o disminución de garantías.
 
-c) Eliminado.
+c) Resolver las solicitudes de devoluciones de arancel, cuando estas sean de montos iguales e inferiores a los $500.000.- (quinientos mil pesos), así como también aquellas que se funden en diferencias entre el arancel y el monto efectivamente pagado por el usuario, con independencia del monto.
 
-d) Eliminado.
+d) En el ámbito de compras públicas, firmar los oficios que deban ser enviados a Contraloría General de la República para solicitar el retiro de bases de licitaciones públicas que hayan sido enviadas a dicho ente de control para el trámite de toma de razón.
 
 5.1 El Departamento Administración y Finanzas estará integrado por las siguientes Unidades y Subdepartamentos:
 
@@ -166,7 +294,7 @@ f) Recibir, registrar, almacenar y gestionar la eliminación de los residuos tan
 
 5.3 UNIDAD DE MANTENCIÓN DE EQUIPOS DE LABORATORIO, cuya función es diseñar y ejecutar programas de mantención con énfasis en lo preventivo y reparación de los equipos médicos y de laboratorio, de refrigeración y climatización del Instituto, ejerciendo además seguimiento de los servicios contratados.
 
-5.4 Eliminado.
+5.4 OFICINA DE PARTES, cuyos funcionarios tendrán delegada la facultad de firmar las copias de actos y expedientes administrativos, que les sean requeridos para ser presentados ante tribunales de justicia, dando fe de que son copia fidedigna de su original. Esta oficina tendrá como función recibir, foliar, registrar, custodiar y despachar toda la documentación oficial que ingrese o salga del Instituto.
 
 5.5 SUBDEPARTAMENTO ABASTECIMIENTO, cuya jefatura tendrá delegada la firma de las siguientes actuaciones:
 
@@ -216,69 +344,71 @@ b) Realizar el seguimiento de las recepciones de las órdenes de compra relativa
 
 a) Declaración de vacancia de cargos por fallecimiento y el término de contrato por fallecimiento, informando de ello a la Dirección.
 
-b) Resoluciones sobre autorización, concesión o reconocimiento de los derechos y beneficios que siguen:
+b) Certificados relativos a:
 
-i. Licencias médicas y permiso post natal parental.
+i. La calidad de funcionario y antigüedad en la institución.
 
-ii. Reconocimiento, prórroga y término de asignaciones familiares.
+ii. Participación en cursos de capacitación interna.
 
-iii. Asignaciones de movilización, antigüedad y pérdida de caja.
+iii. Participación en cursos impartidos por la institución a usuarios externos.
 
-iv. Bonificación de escolaridad.
+iv. Prácticas laborales.
 
-v. Feriado legal, su anticipo, postergación o su acumulación al año siguiente.
+c) Autorización, concesión o reconocimiento, en su caso, de los derechos y beneficios que siguen:
 
-vi. Permisos con goce de remuneraciones hasta por 6 días hábiles en cada año calendario.
+i. Licencias por enfermedad y reposos maternales, paternales y permiso post natal parental.
 
-vii. Permisos por los días hábiles insertos entre dos feriados, o un feriado y un día sábado o domingo, según el caso, en tanto se recuperen con otra jornada y horas de trabajo.
+ii. Reconocimiento, prórroga y término de asignaciones familiares y prenatal.
 
-viii. Permisos por descanso preparatorio, fallecimiento, nacimiento, matrimonio o acuerdo de unión civil.
+iii. Asignaciones de movilización y pérdida de caja.
 
-ix. Horarios especiales y permiso de alimentación por hijo menor de dos años.
+iv. Asignación de antigüedad.
 
-x. Comisiones de servicio y cometidos funcionarios, previa instrucción de la Dirección.
+d) Resoluciones sobre:
 
-xi. Trabajos extraordinarios, sean estos remunerados o con tiempo compensatorio, previa autorización de la Jefatura Superior del Servicio o de la Jefatura del Departamento Administración y Finanzas.
+i. Feriado legal, su anticipo o postergación dentro del año respectivo o su acumulación al año siguiente.
 
-xii. Calificaciones ejecutoriadas.
+ii. Permisos con goce de remuneraciones hasta por 6 días hábiles en cada año calendario.
 
-xiii. Prórrogas de contrata.
+iii. Permisos por los días hábiles insertos entre dos feriados, o un feriado y un día sábado o domingo, según el caso, en tanto se recuperen con otra jornada y horas de trabajo.
 
-c) Contrataciones ad honorem de alumnos en práctica.
+iv. Horarios especiales.
 
-d) Oficios dirigidos a:
-
-i. La Contraloría General de la República para solicitar póliza de fidelidad funcionaria por manejo de valores fiscales y para conducir vehículos fiscales.
-
-ii. A Compin e Isapres, solicitando información sobre estado de licencias médicas.
+v. Comisiones de servicio dentro del territorio nacional, previa instrucción por escrito de la Dirección.
 
 5.6.1 El Subdepartamento Gestión y Desarrollo de Personas estará compuesto por la sala cuna y el jardín infantil, además de las siguientes Secciones y Unidades, que tendrán las funciones y delegación de firma, que a continuación se indican:
 
-5.6.2 Suprimido.
+5.6.2 Unidad de control de gestión:
+
+a) Coordinar, controlar, hacer seguimiento y ejecución de las Metas de Desempeño Colectivo, Plan Operativo, BGI y PMG, por Sección, del Subdepartamento.
+
+b) Organización de la información, elaboración de reportes, planes y programas de los distintos procesos asociados al Subdepartamento.
 
 5.6.3 Servicio de Bienestar:
 
 a) Otorgar beneficios de carácter médico y odontológico a sus afiliados y cargas familiares.
 
-b) Otorgar ayudas en dineros o especies, no sujetos a restitución por matrimonio, acuerdo de unión civil, nacimiento, adopción, fallecimiento, educación, becas de estudio, ayuda médica, incendio, catástrofe y desgravamen a sus afiliados y cargas familiares.
+b) Otorgar ayudas en dineros o especies, no sujetos a restitución por matrimonio, nacimiento, fallecimiento, educación, becas de estudio, ayuda médica, incendio, catástrofe y desgravamen a sus afiliados y cargas familiares.
 
 c) Otorgar préstamos a sus afiliados de carácter médico, auxilio y habitacional.
 
-d) Fomentar actividades que tiendan al progreso social, cultural, educacional, deportivo y artístico de sus afiliados y cargas familiares.
+d) Fomentar actividades que tiendan al progreso social, cultural, educacional, deportivo y artístico de sus afiliados y familiares.
 
-e) Gestionar convenios para sus afiliados y difusión de los mismos.
+e) Gestión de convenios para sus afiliados y difusión de los mismos.
 
-f) Proponer al Consejo Administrativo el proyecto de presupuesto de ingresos y gastos anuales como, asimismo, las medidas, proyectos, acuerdos, normas y procedimientos que requieran de su aprobación y que tiendan al mejor cumplimiento de los objetivos del Servicio de Bienestar. Someter a la aprobación del Consejo Administrativo el anteproyecto presupuestario y el balance anual, para remitirlos formalmente a la Suseso.
+f) Proponer al Consejo Administrativo el proyecto de presupuesto de ingresos y gastos anuales como, asimismo, las medidas, proyectos, acuerdos, normas y procedimientos que requieran de su aprobación y que tiendan al mejor cumplimiento de los objetivos del Servicio de Bienestar. Someter a la aprobación del Consejo Administrativo el anteproyecto presupuestario y el balance anual.
 
 g) Efectuar, conforme a los acuerdos del Consejo Administrativo todos los gastos y pagos que deba hacer el Servicio de Bienestar.
 
-h) Rendir cuenta cada vez que la Superintendencia de Seguridad Social, la Autoridad Institucional o el Consejo Administrativo lo precisen.
+h) Rendir cuenta cada vez que la Superintendencia de Seguridad Social, la Autoridad institucional o el Consejo Administrativo lo precisen.
 
 i) Atención individual de afiliados y afiliadas.
 
-j) Velar por el buen funcionamiento del Club Escolar, como unidad dependiente.
+j) Velar por el buen funcionamiento del Club Escolar y demás acciones de protección social.
 
-5.6.4 Compensaciones, que tendrá la función de efectuar el cálculo, liquidación y distribución de las remuneraciones del personal y cuya jefatura tendrá delegada la firma de las siguientes actuaciones:
+5.6.4 Compensaciones, que tendrá la función de efectuar el cálculo, liquidación y distribución de las remuneraciones del personal.
+
+5.6.4.1 La jefatura de la Sección Compensaciones tendrá delegada la firma de las siguientes actuaciones:
 
 a) Certificados de renta.
 
@@ -292,9 +422,11 @@ a) Proponer y preparar programas con el propósito de velar por una vida sana pa
 
 b) Mantener contacto, prestar apoyo y monitorear a aquellos funcionarios que se encuentren con necesidades asociadas a su condición de salud, económica o social.
 
-c) Coordinar y controlar el buen funcionamiento del Centro Médico y de las áreas Dental, Psicológica y Social Institucional.
+c) Elaborar programas en conjunto con el Servicio de Bienestar: recreativos, culturales y educativos para los funcionarios y funcionarias, ampliándolo a su grupo familiar cuando la situación lo permita.
 
-d) Proponer y ejecutar los programas de Inmunizaciones del personal.
+d) Coordinar y controlar el buen funcionamiento del Centro Médico, área Dental y Social Institucional.
+
+e) Proponer y ejecutar los programas de Inmunizaciones del personal: Influenza y hepatitis.
 
 5.6.6 Administración de Personal:
 
@@ -306,35 +438,31 @@ c) Practicar a los funcionarios las notificaciones a que den lugar las sanciones
 
 d) Mantener el sistema de control horario.
 
-5.6.6.1 La jefatura de la Sección Administración de Personal, tendrá delegadas la firma de las siguientes actuaciones:
-
-a) Firmar mediante firma electrónica simple, las declaraciones de intereses y patrimonio de los funcionarios y el envío de las mismas a la Contraloría General de la República.
-
-b) Certificados relativos a la calidad de funcionario y antigüedad en la institución.
+5.6.6.1 La jefatura de la Sección Administración de personal tendrá delegada la facultad de firmar mediante firma electrónica simple, las declaraciones de intereses y patrimonio de los funcionarios y el envío de las mismas a la Contraloría General de la República.
 
 5.6.7 Desarrollo Organizacional:
 
-a) Ser responsables de la aplicación de las normas en materia de gestión y desarrollo de personas, en lo relativo a gestión del desempeño, concursabilidad, reclutamiento y selección, programas de inducción, rol de jefaturas en dirección de equipos y ambientes laborales.
+a) Ser responsables de la implementación de las normas en materia de gestión y desarrollo de personas, en lo relativo a gestión del desempeño, concursabilidad, reclutamiento y selección, programas de inducción, rol de jefaturas en dirección de equipos y ambientes laborales.
 
-b) Diseñar y ejecutar programas de trabajo que contribuyan al mejoramiento de ambientes laborales y la promoción de la salud mental.
+b) Asesorar y apoyar a la jefatura del Subdepartamento en la implementación de políticas, planes y programas de trabajo de gestión de personas.
 
-c) Asesorar y apoyar a la jefatura del Subdepartamento en la implementación de políticas, planes y programas de trabajo de gestión y desarrollo de personas, con énfasis en la gestión del cambio.
-
-5.6.8 Formación y Capacitación, cuya jefatura tendrá delegada la facultad de firmar certificados correspondientes a participación en actividades de capacitación interna, prácticas profesionales y pasantías, teniendo la Sección las siguientes funciones:
+5.6.8 Formación y Capacitación:
 
 a) Liderar, planificar, organizar y coordinar las tareas administrativas requeridas para la ejecución de las actividades de capacitaciones internas y externas del Instituto.
 
 b) Proponer la planificación de actividades y presupuesto de capacitación para cada año.
 
-c) Ejecutar el presupuesto correspondiente a capacitación y coordinar actividades pertinentes al perfeccionamiento de funcionarios y funcionarias.
+c) Ejecutar el presupuesto correspondiente a capacitación y perfeccionamiento de los funcionarios.
 
 d) Coordinar las tareas y acciones del Comité Bipartito de capacitación institucional, para canalizar dudas, informaciones u otros que se requieran en forma recíproca y darle apoyo técnico en el funcionamiento de éste.
 
 e) Difundir los programas de capacitación del Servicio y coordinar y supervisar la ejecución de las actividades contempladas en ellos.
 
-f) Coordinar prácticas y pasantías.
+f) Coordinar prácticas y pasantías de la institución.
 
-g) Administrar las dependencias y equipos destinados para el desarrollo de actividades de capacitación.
+g) Coordinar visitas educativas de la institución.
+
+h) Administrar las dependencias y equipos destinados para el desarrollo de actividades de capacitación.
 
 5.7 SUBDEPARTAMENTO DE OPERACIONES E INFRAESTRUCTURA, el que estará compuesto por las siguientes Secciones, las que cumplirán con las labores que se señalan a continuación:
 
@@ -424,11 +552,35 @@ a) Cautelar el patrimonio y los activos de la institución, a través del regist
 
 b) Determinar la depreciación mensual y anual de los bienes sujetos a la normativa legal vigente.
 
-5.9 SUBDEPARTAMENTO ATENCIÓN A CLIENTES Y USUARIOS, cuya jefatura tendrá delegada las facultades de resolver las solicitudes de exención de arancel, previa instrucción emitida por la Dirección del Instituto y de suscribir la carta que comunica sobre la necesidad de formalizar la venta de las prestaciones relacionadas con exámenes de histocompatibilidad. Asimismo, podrá suscribir el acto administrativo que resuelva las solicitudes de devoluciones de arancel, cuando estas sean de montos iguales e inferiores a los $500.000.- (quinientos mil pesos), así como también aquellas que se funden en diferencias entre el arancel y el monto efectivamente pagado por el usuario, con independencia del monto. Dicho Subdepartamento estará compuesto de las siguientes Secciones y Oficinas, que tendrán las funciones y delegaciones que se indican a continuación:
+5.9 SUBDEPARTAMENTO ATENCIÓN A CLIENTES Y USUARIOS, cuya jefatura tendrá delegada las facultades de resolver las solicitudes de exención de arancel, previa instrucción emitida por la Dirección del Instituto y de suscribir la carta que comunica sobre la necesidad de formalizar la venta de las prestaciones relacionadas con exámenes de histocompatibilidad. Dicho Subdepartamento estará compuesto de las siguientes Secciones y Oficinas, que tendrán las funciones y delegaciones que se indican a continuación:
 
-5.9.1 Suprimido.
+5.9.1 Unidad de control de gestión:
 
-5.9.2 Gestión de Productos y Servicios:
+a) Coordinar, controlar, hacer seguimiento y ejecución de las Metas de Desempeño Colectivo, Plan Operativo, BGI y PMG, por Sección, del Subdepartamento.
+
+b) Organización de la información, elaboración de reportes, planes y programas de los distintos procesos asociados al Subdepartamento.
+
+5.9.2 Oficina de informaciones, reclamos y sugerencias (OIRS), cuya jefatura tendrá delegada la facultad de derivar directamente a los responsables las solicitudes de acceso a la información que se presenten al Instituto, en conformidad a la Ley Nº 20.285, sobre acceso a la información pública, informar la prórroga al Consejo para la Transparencia, respecto de cualquier trámite ante dicha entidad.
+
+5.9.2.1 La Oficina de informaciones, reclamos y sugerencias (OIRS) tendrá las siguientes funciones:
+
+a) Informar al cliente sobre la organización, competencia y funcionamiento del Instituto, formalidades y plazos de las presentaciones o solicitudes presentadas; la documentación y antecedentes que deben acompañarse a éstas; los procedimientos y su tramitación; y las demás indicaciones necesarias a fin de que el público tenga un acceso expedito y oportuno a sus diversas prestaciones y solicitudes, así como el resultado de éstas.
+
+b) Informar sobre la ubicación, competencia y horarios de las unidades de la Administración del Estado perteneciente a otros órganos, servicios o empresas relacionadas con las prestaciones que se requieran.
+
+c) Recibir y gestionar las sugerencias que los usuarios presenten ante ella, que tengan por objeto mejorar el funcionamiento del Servicio.
+
+d) Recibir y gestionar los reclamos que los usuarios presenten en relación al Instituto o respecto de alguno de sus funcionarios, que tengan por objeto representar deficiencias, abusos, faltas, omisiones o cualquier otra irregularidad que afecten al interés personal legítimo del reclamante.
+
+e) Dar respuesta en forma efectiva a las solicitudes de información presentadas por clientes, usuarios o beneficiarios, cumpliendo en forma y fondo con el espíritu de las leyes sobre acceso a la información pública y de procedimientos administrativos.
+
+f) Velar por la publicidad de los actos de la administración, verificando la publicación completa y oportuna de la información pública.
+
+g) Realizar encuestas y mediciones sobre la satisfacción de los usuarios respecto a la calidad de la atención y las expectativas de éstos al acercarse al organismo.
+
+h) Ser el espacio en el cual se difunda la Carta de Derechos Ciudadanos elaborada por la Institución.
+
+5.9.3 Gestión de Productos y Servicios:
 
 a) Informar y orientar a los clientes y usuarios sobre las prestaciones y trámites disponibles e informar acerca de los requisitos para solicitar dichas prestaciones.
 
@@ -436,21 +588,25 @@ b) Comercializar los bienes y servicios que el Instituto produce.
 
 c) Centralizar la custodia de los convenios de prestación de servicios suscritos, en el ámbito de su competencia, con otras entidades públicas y privadas.
 
-d) Revisar, numerar, anotar, custodiar y derivar toda la documentación asociada a las prestaciones que la institución comercializa ingresada por los clientes y usuarios, con exclusión de las facultades conferidas respecto de decomisos de medicamentos a la Sección Control de Comercio Nacional.
+d) Revisar, numerar, registrar, custodiar y derivar toda la documentación asociada a las prestaciones que la institución comercializa ingresada por los clientes y usuarios.
 
 e) Proporcionar al Subdepartamento de Gestión Financiera los cierres diarios, mensuales y anuales de las ventas de bienes y servicios con sus respectivos libros de ventas y centralizado de ventas.
 
 f) Notificar a los usuarios los oficios, resoluciones, certificados y otros documentos oficiales que son el resultado del trámite realizado por el Instituto.
 
-5.9.3 Oficina de Partes, cuyos funcionarios tendrán delegada la facultad de firmar las copias de actos y expedientes administrativos que les sean requeridos para ser presentados ante tribunales de justicia, dando fe de que son copia fidedigna de su original, y que tendrá las funciones de recibir, registrar, foliar, custodiar, actuar como ministro de fe y despachar toda la documentación oficial que ingrese o salga del Instituto, como también aquella resultante de una prestación.
+5.9.4 Gestión Documental:
 
-5.9.4 Cámara y Despacho:
+a) Centralizar, formalizar, registrar, custodiar y actuar como ministro de fe, respecto de toda la documentación resultante de una prestación.
+
+b) Gestionar la plataforma de contact center.
+
+5.9.5 Cámara y Despacho:
 
 a) Almacenar y custodiar los bienes institucionales que necesiten ser conservados en cámaras de frío.
 
 b) Realizar los despachos correspondientes a las ventas de bienes institucionales y de otros productos relacionados con el quehacer institucional.
 
-5.9.5 Gestión de Muestras:
+5.9.6 Gestión de Muestras:
 
 a) Recibir, registrar, conservar, resguardar y derivar las muestras clínicas y del ambiente enviadas al Instituto por los usuarios, beneficiarios, pacientes y clientes, según normativa establecida.
 
@@ -462,27 +618,11 @@ d) Recibir, registrar y resguardar los informes de resultados enviados por los l
 
 e) Informar al público sobre la tramitación y resultados de prestaciones asociadas a muestras clínicas y ambientales.
 
-5.9.6 Devoluciones y post venta:
+5.9.7 Devoluciones y post venta:
 
 a) Recibir y analizar solicitudes de devolución de arancel, generando las resoluciones que se pronuncien sobre las mismas, notificándolas.
 
 b) Gestionar las consultas de post venta relacionadas con la gestión administrativas de devolución.
-
-5.9.7. Gestión Ciudadana, cuya jefatura tendrá delegada la facultad de derivar directamente a los responsables las solicitudes que se presenten al Instituto, en conformidad a lo dispuesto en el decreto N° 680, de 1990, del Ministerio del Interior, relativo a las oficinas de información para el público usuario.
-
-5.9.7.1 La Sección Gestión Ciudadana tendrá las siguientes funciones:
-
-a) Informar a los clientes y usuarios sobre la organización, competencia y funcionamiento del Instituto, formalidades y plazos de las presentaciones o solicitudes presentadas; la documentación y antecedentes que deben acompañarse a éstas; los procedimientos y su tramitación; y las demás indicaciones necesarias a fin de que el público tenga un acceso expedito y oportuno a sus diversas prestaciones y solicitudes, así como el resultado de éstas.
-
-b) Informar sobre la ubicación, competencia y horarios de las unidades de la Administración del Estado perteneciente a otros órganos, servicios o empresas relacionadas con las prestaciones que se requieran.
-
-c) Recibir y gestionar las sugerencias que los usuarios presenten ante ella, que tengan por objeto mejorar el funcionamiento del Servicio.
-
-d) Recibir y gestionar los reclamos que los usuarios presenten en relación al Instituto o respecto de alguno de sus funcionarios, que tengan por objeto representar deficiencias, abusos, faltas, omisiones o cualquier otra irregularidad que afecten al interés personal legítimo del reclamante.
-
-e) Administrar el contact center institucional.
-
-f) Ser el espacio en el cual se difunda la Carta de Derechos Ciudadanos elaborada por la institución.
 
 6. DEPARTAMENTO AGENCIA NACIONAL DE MEDICAMENTOS, el que será dirigido por una jefatura de Departamento que tendrá delegada la firma en las siguientes actuaciones:
 
@@ -501,14 +641,6 @@ f) Oficiar al Ministerio de Salud para que se pronuncie en forma previa a la can
 g) Resolver las solicitudes de agotar stock de medicamentos.
 
 h) Instruir retiros del mercado de productos farmacéuticos y cosméticos.
-
-i) Suscribir los oficios a terceros relacionados con el control de serie y control de estantería.
-
-j) Resolver las presentaciones relativas a la obligación de entregar los informes periódicos de seguridad y plan de manejo de riesgo, así como lo solicitud de modificación de los mismos.
-
-k) Resoluciones que se pronuncien sobre cancelaciones voluntarias de registro sanitario, solicitadas por los propios titulares.
-
-l) Resoluciones por las que se rechaza una solicitud de alzamiento de una medida sanitaria adoptada por funcionarios del departamento.
 
 6.1 El Depto. Agencia Nacional de Medicamentos tendrá las siguientes Coordinaciones, Unidades y Subdepartamentos que se indicarán a continuación:
 
@@ -774,7 +906,7 @@ b) Evaluar las solicitudes de instalación, funcionamiento, modificación y tras
 
 c) Evaluar las solicitudes referentes al comercio electrónico de medicamentos.
 
-d) Llevar a cabo las pesquisas de los productos falsificados u otros ilegales y la investigación de decomisos por comercio ilegal, adoptando, cuando sea procedente, las medidas sanitarias previstas en el artículo 178 del Código Sanitario. Asimismo, le corresponderá recibir los decomisos de medicamentos, identificando los productos y anotando los antecedentes relacionados con cada uno de ellos.
+d) Llevar a cabo las pesquisas de los productos falsificados u otros ilegales y la investigación de decomisos por comercio ilegal, adoptando, cuando sea procedente, las medidas sanitarias previstas en el artículo 178 del Código Sanitario.
 
 e) Mantener un sistema de vigilancia a través de la recepción y evaluación de los Registros Oficiales de Elaboración de Preparados Farmacéuticos, que sean recibidos de los recetarios de farmacia por trimestre vencido.
 
@@ -840,55 +972,97 @@ c) Evaluar las solicitudes de modificaciones post validación del proceso de man
 
 d) Evaluar la mantención del proceso de validación del proceso de manufactura a través de la vigilancia sobre la vigencia de los certificados de cumplimiento de Buenas Prácticas de Manufactura y certificado de producto farmacéutico (CPP).
 
-7. Departamento Agencia Nacional de Dispositivos Médicos, el que es el encargado de garantizar la seguridad y el desempeño de los dispositivos médicos, incluyendo los dispositivos médicos de diagnóstico in vitro- utilizados en el país, a través de acciones de autorización, control, fiscalización y vigilancia en todas las etapas de su ciclo de vida, lo anterior con un enfoque de innovación en la gestión. Estará a cargo de una jefatura, que tendrá delegada la firma de las siguientes actuaciones:
+7. DEPARTAMENTO AGENCIA NACIONAL DE DISPOSITIVOS MÉDICOS, INNOVACIÓN Y DESARROLLO (ANDID), estará a cargo de una jefatura, que tendrá delegada la firma de las siguientes actuaciones:
 
-a) Resolver las solicitudes de evaluación de la conformidad de reactivos de diagnóstico in vitro.
+a) Documentos relativos a la postulación que se realice ante entidades que administran los fondos concursables destinados a estimular y promover el desarrollo de investigación científica y tecnológica. Lo anterior, siempre y cuando la postulación haya sido autorizada por escrito previamente por la Dirección.
 
-b) Resolver las solicitudes de inscripción o registro de dispositivos médicos incluyendo los dispositivos médicos de diagnóstico in vitro, sometidos a control obligatorio y su modificación.
+b) Resolver las solicitudes de evaluación de la conformidad de reactivos de diagnóstico in vitro.
 
-c) Resolver las solicitudes de revisión de antecedentes de dispositivos médicos incluyendo los dispositivos médicos de diagnóstico in vitro no sometidos a verificación de la conformidad obligatoria y su modificación.
+c) Resolver las solicitudes de inscripción o registro de dispositivos médicos sometidos a control obligatorio y su modificación.
 
-d) Resolver las solicitudes de certificados de exportación de dispositivos médicos incluyendo los dispositivos médicos de diagnóstico in vitro.
+d) Resolver las solicitudes de revisión de antecedentes de dispositivos médicos no sometidos a verificación de la conformidad obligatoria.
 
-e) Resolver las solicitudes de declaración de situación regulatoria de dispositivos médicos incluyendo los dispositivos médicos de diagnóstico in vitro.
+e) Firmar los certificados de exportación de dispositivos médicos.
 
-f) Resolver las solicitudes de autorización de instalación y funcionamiento de establecimientos de almacenamiento de dispositivos médicos incluyendo los dispositivos médicos de diagnóstico in vitro y Organismos Certificadores.
+f) Resolver las solicitudes de autorización de instalación y funcionamiento de bodegas de almacenamiento de dispositivos médicos.
 
-g) Emitir el oficio a los establecimientos que realizan prácticas radiológicas por el cual se remitan los informes derivados de la evaluación de infraestructura técnica o de las evaluaciones realizadas a través del Programa de Vigilancia.
+g) Emitir el oficio a los establecimientos de radioterapia por el cual se remitan los informes derivados de la evaluación de infraestructura técnica o de las evaluaciones realizadas a través del Programa de Vigilancia.
 
-h) Resolver las solicitudes de inscripción de fabricantes, exportadores, importadores o distribuidores de dispositivos médicos incluyendo los dispositivos médicos de diagnóstico in vitro y su modificación.
+h) Resolver las solicitudes de inscripción de fabricantes, exportadores, importadores o distribuidores de dispositivos médicos.
 
 i) Emitir los informes de cumplimiento de las obligaciones de tecnovigilancia.
 
-7.1 El Departamento Agencia Nacional de Dispositivos Médicos contará con los siguientes subdepartamentos, que a continuación se mencionan:
+7.1 El Departamento Agencia Nacional de Dispositivos Médicos, Innovación y Desarrollo tendrá a su cargo la biblioteca del Instituto y contará con los siguientes Subdepartamentos, que a continuación se mencionan:
 
-7.1.1 Registro y Autorizaciones: Al que le corresponderá conocer de las solicitudes de registro de dispositivos médicos, incluidos los dispositivos médicos de diagnóstico in vitro, así como también las autorizaciones de establecimientos del área y de ensayos clínicos que involucren este tipo de elementos.
+7.2 SUBDEPARTAMENTO AUTORIZACIÓN Y REGISTRO DE DISPOSITIVOS MÉDICOS, que estará compuesto de las siguientes Secciones que tendrán las funciones que a continuación se detallan:
 
-7.1.2 Vigilancia: que estará a cargo de las labores de tecnovigilancia, de fiscalización de las entidades que realizan la verificación de la conformidad y certificación de dispositivos médicos bajo control obligatorio, la vigilancia del punto de entrada. Además, estará a cargo de la supervisión de las exposiciones médicas en los campos de imagenología y radioterapia.
+7.2.1 Registro de dispositivos médicos:
 
-7.2 Eliminado.
+a) Evaluar las autorizaciones de importación de los dispositivos médicos que constituyen excepciones a la exigencia de registro sanitario.
 
-7.2.1 Eliminado.
+b) Evaluar las solicitudes de verificación de la conformidad de dispositivos médicos.
 
-7.2.2 Eliminado.
+c) Evaluar las solicitudes de revisión de antecedentes de los dispositivos médicos no sometidos a verificación de la conformidad obligatoria.
 
-7.2.3 Eliminado.
+d) Emitir los certificados de exportación de dispositivos médicos.
 
-7.3 Eliminado.
+e) Evaluar las solicitudes de inscripción o registro de dispositivos médicos sometidos a control obligatorio y su modificación.
 
-7.3.1 Eliminado.
+f) Evaluar las solicitudes de autorización de fabricación, importación y uso de dispositivos médicos en ensayos clínicos, ya sea con dispositivos médicos sin registro sanitario o con registro sanitario nacional, pero usado en una finalidad diferente a la autorizada y sus modificaciones.
 
-7.3.2 Eliminado.
+7.2.2 Registro de dispositivos médicos de diagnóstico in vitro:
 
-7.3.3 Eliminado.
+a) Evaluar las solicitudes de registros sanitarios y trámites asociados para dispositivos médicos de diagnóstico in vitro.
 
-7.4 Eliminado.
+b) Evaluar y resolver las solicitudes de autorización de fabricación, importación y uso de dispositivos médicos de diagnóstico in vitro en ensayos clínicos, ya sea con dispositivos médicos sin registro sanitario o con registro sanitario nacional, pero usado en una finalidad diferente a la autorizada y sus modificaciones.
 
-7.5 Eliminado.
+7.2.3 Autorización de establecimientos:
 
-7.5.1 Eliminado.
+a) Evaluar las solicitudes de autorización de las entidades que realizan la verificación de la conformidad y certificación de dispositivos médicos bajo control obligatorio.
 
-7.5.2 Eliminado.
+b) Autorizar los establecimientos que realizan actividades de almacenamiento de los dispositivos médicos.
+
+7.3 SUBDEPARTAMENTO VIGILANCIA SANITARIA Y POST-MERCADO, que estará compuesto de las siguientes Secciones que tendrán las funciones que se indican a continuación:
+
+7.3.1 Gestión de la información:
+
+a) Generar información veraz, oportuna y con respaldo científico, a partir del análisis de los resultados de la vigilancia proveniente de las diversas áreas técnicas de la institución, promoviendo el enfoque transversal de los problemas de salud pública y la difusión de los resultados.
+
+7.3.2 Tecnovigilancia:
+
+a) Gestionar y mantener el Sistema Nacional de Tecnovigilancia en el país.
+
+b) Verificar las importaciones de dispositivos médicos y realizar vigilancia en el punto de entrada.
+
+c) Ejercer la vigilancia sanitaria sobre los eventos adversos asociados al uso de los dispositivos médicos y dispositivos médicos de diagnóstico in vitro.
+
+7.3.3 Fiscalización:
+
+a) Fiscalizar a las entidades que realizan la verificación de la conformidad y certificación de dispositivos médicos bajo control obligatorio.
+
+7.4 SUBDEPARTAMENTO SALUD RADIOLÓGICA, que tendrá como función ejercer el rol de laboratorio nacional y de referencia, normalizador y supervisor en los campos de imagenología y radioterapia, estableciendo directrices para el control de los dispositivos médicos asociados a los equipos y fuentes emisoras de radiaciones empleadas en las prácticas radiológicas.
+
+7.5 SUBDEPARTAMENTO INNOVACIÓN, DESARROLLO, TRANSFERENCIA TECNOLÓGICA (I+D+T) Y ETESA, que estará compuesto por las siguientes Secciones que tendrán las funciones que se definen a continuación:
+
+7.5.1 Estudios y ETESA:
+
+a) Apoyar, impulsar y desarrollar en la institución estudios de investigación científica aplicada respecto de los principales problemas de salud de la población del país.
+
+b) Generar base de datos actualizadas con fondos concursables para investigación científica en el área de salud pública.
+
+c) Generar alianzas estratégicas con instituciones científicas nacionales e internacionales.
+
+d) Apoyar el desarrollo y edición de la Revista del Instituto de Salud Pública de Chile y promover publicación científica en revistas científicas de alto impacto.
+
+e) Apoyar la organización y desarrollo de las jornadas científicas de la institución.
+
+f) A través de la biblioteca, mediar en los procesos de adquisición de información y conocimiento de los funcionarios del Instituto, resguardando como patrimonio de la institución la ubicación, tratamiento, preservación y visualización de la información científico/documental; facilitando la actualización de contenidos de referencia, reduciendo tiempos de búsqueda y obtención de material asertivo.
+
+g) Promover la evaluación de nuevas y existentes tecnologías en salud en el ámbito de acción del Instituto de Salud Pública de Chile; incluyendo la evaluación de medicamentos, vacunas o inmunógenos, biopreparados, kits de diagnóstico, reactivos, equipos de laboratorios, dispositivos médicos y elementos de protección personal.
+
+7.5.2 Biotecnología:
+
+a) Desarrollar investigación aplicada y desarrollo tecnológico con impacto en la salud pública, aplicable al ámbito de las competencias del ISP.
 
 8. DEPARTAMENTO LABORATORIO BIOMÉDICO NACIONAL Y DE REFERENCIA, cuya jefatura tendrá delegada la firma de las siguientes actuaciones:
 
@@ -898,45 +1072,19 @@ b) Firmar certificado anual de participación en PEEC por cada participante.
 
 8.1 El Departamento Laboratorio Biomédico Nacional y de Referencia tendrá los siguientes Subdepartamentos que a continuación se indican:
 
-8.2 SUBDEPARTAMENTO GENÓMICA Y GENÉTICA MOLECULAR, el que estará formado por las Secciones que se señalan a continuación, las que tendrán las siguientes funciones:
+8.2 SUBDEPARTAMENTO GENÉTICA MOLECULAR, que tendrá como funciones:
 
-8.2.1 Genética de agentes infecciosos:
+a) Desarrollar e implementar protocolos de ensayos genéticos de laboratorio y mantención de una vigilancia molecular, de acuerdo programas y estrategias del Ministerio de Salud.
 
-a) Actuar como laboratorio nacional de referencia en el área de la vigilancia genómica de agentes infecciosos, de acuerdo a la normativa y estrategias del Ministerio de Salud.
+b) Mantener y administrar bases de datos genéticas de los principales agentes infecciosos presentes en el país.
 
-b) Desarrollar sistemas de RT-PCR y PCR en tiempo real para el diagnóstico rápido y oportuno de agentes infecciosos emergentes y de importancia para la salud pública del país.
+c) Compartir las bases de datos genéticas de los agentes de enfermedades transmitidas por alimentos y enfermedades emergentes.
 
-c) Implementar nuevos sistemas de secuenciación genómica para la caracterización genética de agentes emergentes y reemergentes.
+d) Caracterizar genéticamente enfermedades y/o agentes causales de importancia en salud pública.
 
-d) Realizar investigación aplicada en el ámbito de su competencia y de acuerdo a las necesidades que exija la salud pública nacional.
+e) Actuar como laboratorio nacional de referencia de entomología, de acuerdo a la normativa y estrategias del Ministerio de Salud.
 
-8.2.2 Genética humana:
-
-a) Actuar como laboratorio nacional de referencia en la caracterización genética de algunas enfermedades humanas, de acuerdo a la normativa y estrategias del Ministerio de Salud.
-
-b) Realizar, mediante sistemas de secuenciación genómica, la identificación de marcadores moleculares, asociados a enfermedades genéticas humanas, de importancia en salud pública.
-
-c) Realizar investigación aplicada en el ámbito de su competencia y de acuerdo a las necesidades que exija la salud pública nacional.
-
-8.2.3 Bioinformática y modelamiento molecular:
-
-a) Actuar como laboratorio nacional de referencia en los análisis bioinformáticos genómicos, de acuerdo a la normativa y estrategias del Ministerio de Salud.
-
-b) Desarrollar nuevos pipelines bioinformáticos que permitan el análisis oportuno de lecturas de secuenciación de agentes infecciosos emergentes y enfermedades humanas en diferentes plataformas.
-
-c) Organizar una plataforma que permita disponer de los datos genéticos de agentes infecciosos emergentes y enfermedades humanas.
-
-d) Realizar investigación aplicada en el ámbito de su competencia y de acuerdo a las necesidades que exija la salud pública nacional.
-
-8.2.4 Entomología y genética de vectores:
-
-a) Actuar como laboratorio nacional de referencia en el campo de la entomología, de acuerdo a la normativa y estrategias del Ministerio de Salud.
-
-b) Desarrollar e implementar protocolos de colecta y análisis de laboratorio de artrópodos vectores de acuerdo a los protocolos de referencia nacionales e internacionales.
-
-c) Determinar y caracterizar agentes infecciosos de importancia médica transmitidos por artrópodos vectores.
-
-d) Realizar investigación aplicada en el ámbito de su competencia y de acuerdo a las necesidades que exija la salud pública nacional".
+f) Realizar investigación aplicada de interés en salud pública en el ámbito de la genética Molecular.
 
 8.3 SUBDEPARTAMENTO DE ENFERMEDADES VIRALES, el que estará constituido por las Secciones que se indican a continuación, las que tendrán las siguientes funciones:
 
@@ -1120,17 +1268,13 @@ c) Realizar la fiscalización que la normativa establece en las materias de su c
 
 9.4 Subdepartamento de Producción de Insumos Especiales de Laboratorio, el que estará compuesto de las siguientes Secciones, que tendrán las funciones que a continuación se indican:
 
-9.4.1 Centro Productor Bioterio Santiago:
+9.4.1 Centro Productor de Animales de Laboratorios:
 
-a) Producir reactivos biológicos de la familia de CF1 y otras especies afines, para uso de los laboratorios de la institución, del sistema de vigilancia en salud pública y clientes externos.
+a) Producir reactivos biológicos, sangre y hemoderivados para uso de los laboratorios de la Institución, del sistema de vigilancia en salud pública y clientes externos.
 
-9.4.2 Centro Productor Bioterio Chena:
+9.4.2 Medios de Cultivo:
 
-a) Producir reactivos biológicos diferentes de CF1, huevos fértiles y embrionados, sangre y hemoderivados para uso de los laboratorios de la institución, del sistema de vigilancia en salud pública y clientes externos.
-
-9.4.3 Medios de Cultivo:
-
-a) Producir medios de cultivo y soluciones especializadas en el área biológica y microbiológica que permiten la ejecución de las funciones de los laboratorios del Instituto.
+a) Producir medios de cultivo y soluciones especializadas para la ejecución de las funciones de los laboratorios del Instituto.
 
 9.5 Subdepartamento de Ambiente y Alimentos, el que estará compuesto de las siguientes secciones, que tendrán las funciones que a continuación se indican:
 
@@ -1318,35 +1462,7 @@ b) Proveer y ejecutar el Programa de Evaluación Externa de la Calidad en Ensayo
 
 c) Realizar prestaciones analíticas, según demanda, para la medición de contaminantes químicos ambientales y marcadores biológicos de exposición laboral.
 
-11. Departamento Vigilancia Sanitaria e Investigación, que tiene como objetivo principal asesorar, recopilar, analizar y utilizar información relevante para proponer estrategias que garanticen el cumplimiento de la misión y funciones institucionales. Además, fomentará la realización de investigaciones que contribuyan al conocimiento científico, la innovación y a la mejora de la salud de la población. En particular, tendrá las siguientes funciones:
-
-1. Efectuar análisis avanzado de datos para la toma de decisiones, lo que contempla identificar tendencias y factores asociados a eventos de interés en vigilancia sanitaria, así como también detectar cambios en los patrones de ocurrencia, distribución y propagación de eventos bajo vigilancia, estimando riesgos asociados a actividades de vigilancia sanitaria, las que serán monitoreadas continuamente.
-
-2. Identificar necesidades de investigación e innovación relevantes para el país, en las áreas de competencia del Instituto. Asimismo, desarrollar y promover la generación de evidencia científica que respalde la toma de decisiones institucionales.
-
-3. Promover la colaboración con diversas entidades y potenciar el trabajo conjunto con los otros departamentos de este Servicio, además de brindar asistencia técnica para implementar, investigar y evaluar el Sistema de Vigilancia en Salud Pública.
-
-4. Facilitar la planificación en salud pública y definir, en conjunto con los otros departamentos, medidas de prevención y control de riesgos en materias de competencia del Instituto.
-
-5. Garantizar el seguimiento y la evaluación de intervenciones relacionadas con la vigilancia sanitaria y la investigación.
-
-6. Colaborar con el Ministerio de Salud en el desarrollo del sistema de vigilancia epidemiológica, en la formulación de políticas de salud pública y en la coordinación de acciones de vigilancia sanitaria entre los integrantes del Sistema de Salud.
-
-7. Coordinar la comunicación de los resultados de la vigilancia sanitaria al Ministerio de Salud, la comunidad, clientes internos y externos del Instituto, tanto a nivel nacional como internacional.
-
-8. Brindar asesoramiento a la jefatura superior del Instituto en temas relacionados con la vigilancia sanitaria e investigación.
-
-11.1 El Departamento Vigilancia Sanitaria e Investigación tendrá a su cargo la Biblioteca del Instituto y estará conformado por las Unidades y Subdepartamentos que se indican a continuación:
-
-11.2 Unidad de Apoyo, que tendrá a su cargo la gestión administrativa del Departamento, así como también los aspectos de gestión de las personas y de finanzas.
-
-11.3 Unidad de Bioestadística.
-
-11.4 Subdepartamento Investigación e Innovación, que será la responsable de la coordinación de proyectos de investigación, ensayos clínicos y demás iniciativas de dicha índole.
-
-11.5 Subdepartamento Desarrollo y Análisis Avanzado de Datos, que tendrá a su cargo la generación y análisis de datos de interés en salud pública, así como en la vigilancia sanitaria de las distintas materias que son de competencia de este Instituto.
-
-12. Delégase en todas las jefaturas de Departamento, Subdepartamento, Unidades, Secciones y Oficinas las siguientes facultades, en materia de personal:
+11. Delégase en todas las jefaturas de Departamento, Subdepartamento, Unidades, Secciones y Oficinas las siguientes facultades, en materia de personal:
 
 a) Conceder o denegar el uso de permiso administrativo, interferiado, permisos de salida y recuperables.
 
@@ -1354,15 +1470,15 @@ b) Autorizar el uso de horas compensatorias y cometidos funcionarios que no impl
 
 c) Autorizar el uso del derecho a feriado de sus subordinados, sobre los que ejercen supervisión directa, su postergación, así como su acumulación para el año siguiente.
 
-13. Delégase en todas las jefaturas de Departamento, Subdepartamento y Unidades, cuando corresponda, en el ámbito de la Ley Nº 20.285, sobre acceso a la información pública, la facultad de firmar el oficio o suscribir el correo electrónico, según proceda, para poner en conocimiento de terceros ajenos al Instituto, sobre la facultad que les asiste de oponerse a la entrega de información que sea requerida a este Servicio, conforme lo establecido en el artículo 20 del cuerpo legal antes aludido.
+12. Delégase en todas las jefaturas de Departamento, Subdepartamento y Unidades, cuando corresponda, en el ámbito de la Ley Nº 20.285, sobre acceso a la información pública, la facultad de firmar el oficio o suscribir el correo electrónico, según proceda, para poner en conocimiento de terceros ajenos al Instituto, sobre la facultad que les asiste de oponerse a la entrega de información que sea requerida a este Servicio, conforme lo establecido en el artículo 20 del cuerpo legal antes aludido.
 
-14. Delégase en cada una de las jefaturas de Departamento y Unidades, cuando corresponda, la facultad de dictar los siguientes actos administrativos en la tramitación de los procedimientos y expedientes que sean de su competencia, en el ámbito de la Ley Nº 19.880, de bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado:
+13. Delégase en cada una de las jefaturas de Departamento y Unidades, cuando corresponda, la facultad de dictar los siguientes actos administrativos en la tramitación de los procedimientos y expedientes que sean de su competencia, en el ámbito de la Ley Nº 19.880, de bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado:
 
 a) Abrir periodos de información pública (artículo 39).
 
 b) Declarar el desistimiento o renuncia de un derecho cuando no esté prohibida por la ley (artículo 42), así como el abandono del procedimiento (artículo 43).
 
-15. Delégase en cada una de las jefaturas de Subdepartamentos y Unidades, cuando corresponda, la facultad de dictar durante la tramitación de los procedimientos y expedientes que sean de su competencia, los siguientes actos administrativos, en el ámbito de la Ley Nº 19.880, de bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado:
+14. Delégase en cada una de las jefaturas de Subdepartamentos y Unidades, cuando corresponda, la facultad de dictar durante la tramitación de los procedimientos y expedientes que sean de su competencia, los siguientes actos administrativos, en el ámbito de la Ley Nº 19.880, de bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado:
 
 a) Verificar la calidad de apoderado de un solicitante (artículo 22).
 
@@ -1374,12 +1490,12 @@ d) Acumular o desacumular procedimientos (artículo 33).
 
 e) Abrir términos probatorios (artículo 35).
 
-16. Delégase en todas las jefaturas la potestad de dictar el acto administrativo a que se refiere el artículo 62 de la Ley Nº 19.880, que aprueba bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado, con el fin de aclarar los puntos dudosos u obscuros y rectificar los errores de copia, de referencia, de cálculos numéricos y, en general, los puramente materiales o de hechos que aparecieren de manifiesto. Esta facultad podrá ser ejercida en cualquier momento, de oficio o a petición de un tercero interesado, con la única limitación que el acto rectificado debe haber sido dictado por la misma jefatura que ejecuta la rectificación.
+15. Delégase en todas las jefaturas la potestad de dictar el acto administrativo a que se refiere el artículo 62 de la Ley Nº 19.880, que aprueba bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado, con el fin de aclarar los puntos dudosos u obscuros y rectificar los errores de copia, de referencia, de cálculos numéricos y, en general, los puramente materiales o de hechos que aparecieren de manifiesto. Esta facultad podrá ser ejercida en cualquier momento, de oficio o a petición de un tercero interesado, con la única limitación que el acto rectificado debe haber sido dictado por la misma jefatura que ejecuta la rectificación.
 
-17. Delégase en todos los funcionarios que han sido designados por la Dirección, en sus respectivas áreas de competencia, como responsables de responder requerimientos formulados a través de la Plataforma OIRS, la facultad de dar respuesta a las consultas recibidas y derivadas por dicho Sistema.
+16. Delégase en todos los funcionarios que han sido designados por la Dirección, en sus respectivas áreas de competencia, como responsables de responder requerimientos formulados a través de la Plataforma OIRS, la facultad de dar respuesta a las consultas recibidas y derivadas por dicho Sistema.
 
-18. Instrúyese a todas las jefaturas que tengan delegada la firma de actos administrativos, que deberán reportar mensualmente a su jefatura directa, respecto de la forma en que se ha ejercido dicha delegación.
+17. Instrúyese a todas las jefaturas que tengan delegada la firma de actos administrativos, que deberán reportar mensualmente a su jefatura directa, respecto de la forma en que se ha ejercido dicha delegación.
 
-19. Déjase sin efecto la resolución exenta Nº 2.460, del 13 de octubre de 2020, a contar de la fecha de publicación de la presente resolución en el Diario Oficial.
+18. Déjase sin efecto la resolución exenta Nº 2.460, del 13 de octubre de 2020, a contar de la fecha de publicación de la presente resolución en el Diario Oficial.
 
 Anótese, regístrese, comuníquese y publíquese su texto completo en la página web institucional y en el Diario Oficial.- Heriberto García Escorza, Director (S), Instituto de Salud Pública de Chile.
