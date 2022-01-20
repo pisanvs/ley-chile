@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN METROPOLITANA DE SANTIAGO, A LA "FUNDACIÓN PARA LA EDUCACIÓN TECNOLÓGICA ECO AGRO INDUSTRIAL PROFESOR JOSÉ RECABARREN (1898-1980)"
+
+Mediante decreto exento N° E-495 de 24 de diciembre de 2021, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "Fundación para la Educación Tecnológica Eco Agro Industrial Profesor José Recabarren (1898-1980)", R.U.T. N° 65.097.687-8, el inmueble fiscal singularizado como Lote 728-2, el cual forma parte del Lote N° 3, del plano de subdivisión de la parcela N° 150 de la Colonia Kennedy, ubicado en el kilómetro 44.160,00 al kilómetro 44.404,02 de la Concesión Internacional Ruta 5 tramo Santiago-Talca, Sector C, acceso Sur a Santiago, de la comuna de Paine, provincia de Maipo, Región Metropolitana de Santiago, enrolado en el Servicio de Impuestos Internos con el N° 946-2, amparado por inscripción a nombre del Fisco que rola a fs. 1008 vta. N° 1498, del Registro de Propiedad del Conservador de Bienes Raíces de Buin, correspondiente al año 2010, con una superficie de 12.732,00 m2. La concesión se otorga por un plazo de 20 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para destinar el inmueble para la construcción de un Establecimiento Educacional Técnico Profesional. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto, con su texto íntegro, se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Álvaro Lagos Kother, Encargado Unidad de Decretos, División Jurídica.
