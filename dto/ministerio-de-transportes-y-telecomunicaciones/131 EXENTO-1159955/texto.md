@@ -132,11 +132,13 @@ Sin perjuicio de la potencia máxima radiada de 25 W autorizada a esta concesió
 
 UBICACIÓN DE LAS INSTALACIONES
 
-- Ubicación del Estudio, : Teodoro Roosevelt Nº 1001,
+- Ubicación del Estudio, : Franklin D. Roosevelt Nº
 
-Planta Transmisora y Villa Puerto Nuevo, comuna
+Planta Transmisora y 1001,Villa Puerto Nuevo,
 
-Sistema Radiante de Coquimbo, Región de Coquimbo.
+Sistema Radiante comuna de Coquimbo,
+
+Región de Coquimbo.
 
 - Coordenadas geográficas : 29º 58' 22" Latitud Sur.
 
