@@ -1,0 +1,35 @@
+SUSPENDE PLAZO ESTABLECIDO PARA EL REEMPLAZO DE LOS TAXIS CANCELADOS DEL REGISTRO DE SERVICIOS DE TRANSPORTE DE PASAJEROS POR LOS MOTIVOS QUE INDICA, EN LA REGIÓN DE ATACAMA
+
+Núm. 4 exenta.- Copiapó, 6 de enero de 2022.
+
+Vistos:
+
+Lo dispuesto en la ley Nº 19.880, que establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; en la ley Nº 18.696, que modifica artículo 6 de la ley Nº 18.502, autoriza importación de vehículos que señala y establece normas sobre transporte de pasajeros; en el decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, Reglamento de los Servicios Nacionales de Transporte Público de Pasajeros; en el decreto supremo Nº 104, de 2020, del Ministerio del Interior y Seguridad Pública, que declara el estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile y sus modificaciones posteriores; en el decreto supremo Nº 4, de 2020, del Ministerio de Salud, Subsecretaría de Salud Pública, decreta alerta sanitaria por el período que se señala y otorga facultades extraordinarias que indica por emergencia de salud pública de importancia internacional (ESPII) por brote del nuevo coronavirus (2019-NCOV), prorrogado por el decreto Nº 52, de 16 de diciembre de 2021, del mismo ministerio; en el dictamen Nº 3.610, de 17 de marzo de 2020, de la Contraloría General de la República; en la resolución Nº 7, de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón, y la demás normativa que resulte aplicable.
+
+Considerando:
+
+1º Que, en virtud de lo dispuesto en el artículo 5, inciso 1º, del decreto supremo Nº 212, de 1992, citado en los Vistos, el Registro Nacional de Servicios de Transporte de Pasajeros está conformado por los Registros Regionales a cargo de cada una de las Secretarías Regionales Ministeriales de Transportes y Telecomunicaciones.
+
+2º Que, el artículo 73 bis, del decreto supremo Nº 212, de 1992, ya mencionado, regula el llamado procedimiento de reemplazo de los vehículos inscritos en el Registro Nacional de Servicios de Transporte de Pasajeros en las distintas modalidades de taxis, estableciendo al efecto un plazo de 18 meses para su tramitación, el cual se computa desde la fecha de cancelación del vehículo por haber excedido la antigüedad máxima o de la solicitud de cancelación del taxi inscrito que se reemplaza.
+
+3º Que, el dictamen Nº 3.610, de 2020, de la Contraloría General de la República, que imparte instrucciones ante el brote de Covid-19, coronavirus, establece, entre otras materias, en relación a los plazos de los procedimientos administrativos, que los jefes superiores de los servicios se encuentran facultados para suspender los plazos en los procedimientos administrativos o para extender su duración, atendida la situación de caso fortuito que representa el virus Covid-19, y el peligro de su propagación en la población. Agrega el dictamen que deberá considerarse especialmente la naturaleza de los actos terminales a que darán origen los procedimientos administrativos, pudiendo suspenderse los plazos respecto de algunos de ellos, pero siempre respetando la igualdad de trato entre los distintos interesados.
+
+4º Que, asimismo, se hace presente que, mediante el decreto supremo Nº 4, de 2020, el Ministerio de Salud decretó alerta sanitaria y otorgó facultades extraordinarias por la emergencia de salud pública de importancia internacional (ESPII) que implica el brote del nuevo coronavirus (2019- NCOV), el cual fue prorrogado por el decreto Nº 52, de 2021, del mismo ministerio.
+
+5º Que, en su oportunidad, a través del decreto supremo Nº 104, de 2020, del Ministerio del Interior y Seguridad Pública, se declaró el estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile.
+
+6º Que, como es de público conocimiento, se ha producido un retraso en la llegada de todo tipo de bienes al país producto de la pandemia mundial del Covid-19, lo que afecta la importación de los automóviles que Chile recibe a través de sus puertos y que vienen de diferentes países, y que se traduce en una falta de stock de unidades, provocando con ello una espera de meses para recibir un vehículo. Por lo anterior, quienes deben reemplazar sus taxis se encuentran actualmente imposibilitados de cumplir con los plazos que señala la normativa que regula la materia.
+
+7º Que, tomando en consideración los hechos antes descritos, las facultades conferidas a los Secretarios Regionales Ministeriales de Transportes y Telecomunicaciones para administrar los Registros Regionales de Servicios de Transporte de Pasajeros, los principios de eficiencia y eficacia establecidos en la Ley Nº 19.880, y lo dispuesto en el dictamen Nº 3.610, de marzo de 2020, de la Contraloría General de la República, se ha estimado necesario suspender el plazo de 18 meses regulado en el artículo 73 bis, del decreto supremo Nº 212, de 1992, que permite inscribir un nuevo vehículo en el Registro Nacional de Servicios de Transporte de Pasajeros, y que se computa desde la fecha que se ha cancelado un vehículo por haber excedido su antigüedad máxima o de la solicitud de cancelación del taxi inscrito que se reemplaza; lo anterior, por el periodo que dure la alerta sanitaria en el territorio chileno.
+
+8º Que, cabe hacer presente que esta medida busca ir en ayuda de todos los propietarios de vehículos que estuvieron inscritos en las distintas modalidades de taxis en el Registro Nacional de Servicios de Transporte de Pasajeros, y que actualmente se encuentran cancelados (por antigüedad o solicitud de cancelación), por cuanto a su respecto se encuentra corriendo el plazo de los 18 meses para efectuar su reemplazo por otros vehículos que nunca han tenido la calidad de taxis.
+
+9º Que, de acuerdo a lo dispuesto en el artículo 52, de la ley Nº 19.880, citada en el visto, la presente resolución surtirá sus efectos a contar de la fecha de la declaración del estado de alerta sanitaria y mantendrá su vigencia mientras aquella se mantenga declarada.
+
+Resuelvo:
+
+1. Suspéndase el plazo de 18 meses establecido en el procedimiento de reemplazo de los vehículos tipo taxi regulado en el artículo 73 bis, del decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, mientras se mantenga vigente el estado de alerta sanitaria en el territorio nacional.
+
+2. Atendido lo dispuesto en el artículo 52, de la ley Nº 19.880, la presente resolución surtirá sus efectos a contar de la fecha de la declaración del estado de alerta sanitaria.
+
+Anótese y publíquese.- Patricio Orlando Araya Vargas, Secretario Regional Ministerial de Transportes y Telecomunicaciones (S), Región de Atacama.
