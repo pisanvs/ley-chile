@@ -1,0 +1,43 @@
+AUTORIZA AMPLIAR PLAZO DE RENOVACIÓN AUTOMÁTICA DE LOS PRÉSTAMOS DOMICILIARIOS DE MATERIAL BIBLIOGRÁFICO Y OTROS QUE CONFORMEN COLECCIONES DE LAS BIBLIOTECAS PÚBLICAS DEPENDIENTES DEL SERVICIO NACIONAL DEL PATRIMONIO CULTURAL Y DE LOS MÓDULOS DEL PROGRAMA BIBLIOMETRO
+
+Núm. 2.079 exenta.- Santiago, 29 de diciembre de 2021.
+
+Vistos:
+
+La ley Nº 21.045, que crea el Ministerio de las Culturas, las Artes y el Patrimonio; el DFL Nº 35, del año 2017; el DFL Nº 5.200, de 1929; el decreto Nº 6.234, del año 1929, todos del Ministerio de Educación; la resolución Nº 7, del año 2019, de la Contraloría General de la República; las resoluciones exentas Nº 1.296, del2019 y Nº 95, de 2020, ambas del Servicio Nacional del Patrimonio Cultural; y el decreto exento Nº 3, de 2018, del Ministerio de las Culturas, las Artes y el Patrimonio.
+
+Considerando:
+
+1.- Que, mediante resolución exenta Nº 1.296, de fecha 13 de agosto de 2019, del Servicio Nacional del Patrimonio Cultural, se determinó la cantidad de ejemplares, plazo y renovación para el préstamo domiciliario de material bibliográfico y otros que conforman las coleccionesde las bibliotecas públicas dependientes del Servicio Nacional del Patrimonio Cultural, fijándose una renovación de préstamo por un periodo de días equivalentes al realizado por el préstamo inicial, y acotándolo a una sola renovación.
+
+2.- Que, el Reglamento del Programa Bibliometro indica en su numeral quinto que la duración de los préstamos de libros será por 14 días, y se podrá extender el plazo, solamente una vez, por 14 días más. El préstamo de revistas tendrá una duración de 7 días no renovables.
+
+3.- Que, nuestro país ha atravesado, desde marzo del año 2020, una crisis sanitaria producto de la propagación del virus COVID-19, en virtud del cual se ha decretado Estado de Excepción Constitucional de catástrofe por calamidad pública en el territorio nacional y Estado de emergencia sanitaria, razón por la cual este Servicio ha adoptado una serie de medidas tendientes a proteger la salud de funcionarios y público general, velando siempre por el correcto funcionamiento del Servicio.
+
+4.- Que, en atención a las medidas de aislamiento social y cuarentena decretada por la autoridad en distintas zonas del país, se vio alterado el normal funcionamiento de las dependencias de nuestro Servicio y la atención de los usuarios. Asimismo, muchos de éstos, ante el llamado a no salir de los hogares, podrían eventualmente tener retraso en la entrega del material bibliográfico en préstamo domiciliario de las bibliotecas públicas dependientes del Servicio Nacional del Patrimonio Cultural y de todos los módulos del Programa Bibliometro, tanto de aquellos emplazados en la Red de Metro de Santiago como la Red de Metro de Valparaíso.
+
+5.- Que, en este contexto y frente a las condiciones de salud pública, la imposibilidad de realizar la devolución de material bibliográfico no resulta atribuible a negligencia de los usuarios, sino que a una causa de fuerza mayor y de público conocimiento, razón por la cual este Servicio estimó necesario autorizar la renovación automática de todos los préstamos domiciliarios de las bibliotecas públicas dependientes del Servicio Nacional del Patrimonio Cultural y del Programa Bibliometro.
+
+6.- Que, lo anterior se formalizó mediante la dictación de la resolución exenta Nº 479, de fecha 26 de marzo del año 2020 11, del Servicio Nacional del Patrimonio Cultural, que autorizó la renovación automática de los préstamos domiciliarios de material bibliográfico y otros que conforman las colecciones de las bibliotecas públicas dependientes del Servicio Nacional del Patrimonio Cultural y del Programa Bibliometro efectuados desde el 1 de febrero del año 2020, entendiéndose renovados todos los préstamos ocurridos desde esa fecha, hasta el 30 de marzo de 2020.
+
+7.- Que, el plazo de devolución indicado en el considerando anterior fue ampliado mediante la dictación de las resoluciones exentas Nº 511, de fecha 13 de abril de 2020; Nº 576, de fecha 11 de mayo de 2020; Nº 896, de fecha 30 de julio de 2020; Nº 1.323, de fecha 9 de noviembre de 2020; Nº 25, de fecha 14 de enero de 2021 y Nº 871, de fecha 12 de julio de 2021, todas del Servicio Nacional del Patrimonio Cultural, atendido el estado en que se encontraba la crisis sanitaria a las fechas determinadas para la devolución. Estableciéndose, con el último acto administrativo citado, que los préstamos efectuados desde el 1 de febrero del año 2020 se entienden renovados hasta el 31 de diciembre del año 2021.
+
+8.- Que, pese a la paulatina normalización de los servicios, se estima altamente necesaria la renovación automática de los préstamos domiciliarios de material bibliográfico y otros que conforman las colecciones de las bibliotecas públicas dependientes del Servicio Nacional del Patrimonio Cultural y del Programa Bibliometro, considerando la baja tasa de devoluciones de libros efectuadas durante el año en curso, contando a la fecha, según lo informado por la Coordinación de Estudios de Biblioredes, un total de 152.312 ejemplares sin devolución.
+
+9.- Que, conforme a lo expuesto, se contempla, como primera medida, la proyección de una campaña comunicacional que permita informar respecto de los distintos horarios de atención de las bibliotecas públicas a lo largo del país, con el fin de propiciar la pronta devolución del material bibliográfico que aún se encuentra en poder de nuestros usuarios y usuarias.
+
+10.- Que, de manera complementaria a lo señalado en el considerando anterior, y a la luz de lo expresado en el presente acto administrativo, este Servicio estima pertinente ampliar el mentado plazo y autorizar la renovación automática de todos los préstamos domiciliarios de las bibliotecas públicas dependientes del Servicio Nacional del Patrimonio Cultural y del Programa Bibliometro efectuados desde el 1 de febrero de 2020, entendiéndose renovados todos los préstamos ocurridos desde esa fecha hasta el 30 de abril del año 2022, permitiéndose ampliar dicha renovación conforme se vaya normalizando el funcionamiento de nuestras dependencias.
+
+Resuelvo:
+
+1.- Autorícese la ampliación del plazo de renovación automática de los préstamos domiciliarios de material bibliográfico y otros que conforman las colecciones de las bibliotecas públicas dependientes del Servicio Nacional del Patrimonio Cultural y del Programa Bibliometro efectuados desde el 1 de febrero de 2020, entendiéndose renovados todos los préstamos ocurridos desde esa fecha, hasta el 30 de abril de 2022, por las razones expuestas en la parte considerativa del presente acto administrativo.
+
+2.- Aplíquese esta medida a todas las bibliotecas que conforman la Red de Bibliotecas Públicas, con el objeto de minimizar los riesgos asociados a la pandemia, con prescindencia de la administración o entidad que tenga a su cargo el funcionamiento de esta, dejando constancia de ello en el Sistema ALEPH y únicamente para efectos administrativos.
+
+3.- Certifíquese por parte de la Unidad de Estudios del Sistema Nacional de Bibliotecas Públicas el estado de avance en la normalización del funcionamiento de las bibliotecas públicas dependientes del Servicio Nacional del Patrimonio Cultural y de los módulos del Programa Bibliometro, así como también de las eventuales devoluciones que se haya verificado durante el periodo de renovación automática que mediante esta resolución se autoriza, con el fin de evaluar la ampliación de la renovación más allá del 30 de abril de 2022 y conforme se vayan desarrollando los hechos que han dado origen a esta medida.
+
+4.- Instrúyese al Sistema Nacional de Bibliotecas Públicas y al Departamento de Comunicaciones del Servicio Nacional del Patrimonio Cultural adoptar las medidas necesarias para llevar a cabo la campaña comunicacional que permita informar respecto de los distintos horarios de atención de las bibliotecas públicas a lo largo del país, con el fin de propiciar la pronta devolución del material bibliográfico que aún se encuentra en poder de nuestros usuarios y usuarias, conforme lo indicado en el considerando noveno del presente acto.
+
+5.- Publíquese la presente resolución en el Diario Oficial; en el portal de transparencia activa institucional, numeral 1. Actos y documentos publicados en Diario Oficial en la sección "Actos y documentos del organismo que hayan sido objeto de publicación en el Diario Oficial", y en los sitios web del Sistema Nacional de Bibliotecas Públicas y del Programa Bibliometro.
+
+Anótese, publíquese y comuníquese.- Javier Díaz González, Director Nacional (S), Servicio Nacional del Patrimonio Cultural.
