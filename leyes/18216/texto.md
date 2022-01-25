@@ -22,9 +22,13 @@ e) Expulsión, en el caso señalado en el artículo 34.
 
 f) Prestación de servicios en beneficio de la comunidad.
 
-No procederá la facultad establecida en el inciso precedente ni la del artículo 33 de esta ley, tratándose de los autores de los delitos consumados previstos en los artículos 141, incisos tercero, cuarto y quinto; 142, 150 A, 150 B, 361, 362, 372 bis, 390, 390 bis, 390 ter y 391 del Código Penal; en los artículos 8º, 9º, 10, 13, 14 y 14 D de la ley Nº17.798; o de los delitos o cuasidelitos que se cometan empleando alguna de las armas o elementos mencionados en las letras a), b), c), d) y e) del artículo 2º y en el artículo 3º de la citada ley Nº17.798, salvo en los casos en que en la determinación de la pena se hubiere considerado la circunstancia primera establecida en el artículo 11 del mismo Código.
+No procederá la facultad establecida en el inciso precedente ni la del artículo 33 de esta ley, tratándose de los autores de los delitos consumados previstos en los artículos 141, incisos tercero, cuarto y quinto; 142, 150 A, 150 B, 361, 362, 372 bis, 390, 390 bis, 390 ter y 391 del Código Penal; o de los delitos o cuasidelitos que se cometan empleando alguna de las armas o elementos mencionados en las letras a), b), c), d) y e) del artículo 2º y en el artículo 3º de la ley Nº17.798, salvo en los casos en que en la determinación de la pena se hubiere considerado la circunstancia primera establecida en el artículo 11 del mismo Código.
 
 En ningún caso podrá imponerse la pena establecida en la letra f) del inciso primero a los condenados por crímenes o simples delitos señalados por las leyes números 20.000, 19.366 y 18.403. No se aplicará ninguna de las penas sustitutivas contempladas en esta ley a las personas que hubieren sido condenadas con anterioridad por alguno de dichos crímenes o simples delitos en virtud de sentencia ejecutoriada, hayan cumplido o no efectivamente la condena, a menos que les hubiere sido reconocida la circunstancia atenuante prevista por el artículo 22 de la ley Nº 20.000.
+
+Tampoco podrán imponerse las penas establecidas en el inciso primero a los condenados por crímenes o simples delitos contemplados en la ley N° 17.798, salvo que les hubiere sido reconocida la circunstancia atenuante prevista en el artículo 17 C de dicho cuerpo legal.
+
+Tratándose de simples delitos previstos en dicha ley y no encontrándose en el caso del inciso anterior, sólo procederán las penas sustitutivas de reclusión parcial y libertad vigilada intensiva.
 
 Tampoco podrá el tribunal aplicar las penas señaladas en el inciso primero a los autores del delito consumado previsto en el artículo 436, inciso primero, del Código Penal, que hubiesen sido condenados anteriormente por alguno de los delitos contemplados en los artículos 433, 436 y 440 del mismo Código.
 

@@ -1850,11 +1850,9 @@ Otros medios técnicos de investigación. Cuando el procedimiento tuviere por ob
 
 #### Artículo 226 bis
 
-Técnicas especiales de investigación. Cuando la investigación de los delitos contemplados en la ley Nº17.798, en el artículo 190 de la ley Nº18.290 y en los artículos 442, 443, 443 bis, 447 bis, 448 bis y 456 bis A del Código Penal, lo hicieren imprescindible y existieren fundadas sospechas, basadas en hechos determinados, de la participación en una asociación ilícita, o en una agrupación u organización conformada por dos o más personas, destinada a cometer los hechos punibles previstos en estas normas, aun cuando ésta o aquella no configure una asociación ilícita, el Ministerio Público podrá aplicar las técnicas previstas y reguladas en los artículos 222 a 226, conforme lo disponen dichas normas.
+Técnicas especiales de investigación. Cuando la investigación de los delitos contemplados en el artículo 190 de la ley Nº18.290 y en los artículos 442, 443, 443 bis, 447 bis, 448 bis y 456 bis A del Código Penal, lo hicieren imprescindible y existieren fundadas sospechas, basadas en hechos determinados, de la participación en una asociación ilícita, o en una agrupación u organización conformada por dos o más personas, destinada a cometer los hechos punibles previstos en estas normas, aun cuando ésta o aquella no configure una asociación ilícita, el Ministerio Público podrá aplicar las técnicas previstas y reguladas en los artículos 222 a 226, conforme lo disponen dichas normas.
 
 Además, cumpliéndose las mismas condiciones establecidas en el inciso anterior y tratándose de los crímenes contemplados en los artículos 433, 434, inciso primero del 436 y 440 del Código Penal y de los delitos a que hace referencia el inciso precedente, el Ministerio Público podrá utilizar las técnicas especiales de investigación consistentes en entregas vigiladas y controladas, el uso de agentes encubiertos e informantes en la forma regulada por los artículos 23 y 25 de la ley Nº20.000, siempre que fuere necesario para lograr el esclarecimiento de los hechos, establecer la identidad y la participación de personas determinadas en éstos, conocer sus planes, prevenirlos o comprobarlos.
-
-Asimismo, cumpliéndose las condiciones señaladas en los incisos anteriores y tratándose de los delitos contemplados en la ley Nº17.798, podrán utilizarse, además, agentes reveladores.
 
 Para la utilización de las técnicas referidas en este artículo, el Ministerio Público deberá siempre requerir la autorización del juez de garantía.
 
@@ -3465,6 +3463,8 @@ Procedimiento abreviado
 #### Artículo 406
 
 Presupuestos del procedimiento abreviado. Se aplicará el procedimiento abreviado para conocer y fallar, los hechos respecto de los cuales el fiscal requiriere la imposición de una pena privativa de libertad no superior a cinco años de presidio o reclusión menores en su grado máximo ; no superior a diez años de presidio o reclusión mayores en su grado mínimo, tratándose de los ilícitos comprendidos en los párrafos 1 a 4 bis del título IX del Libro Segundo del Código Penal y en el artículo 456 bis A del mismo Código, con excepción de las figuras sancionadas en los artículos 448, inciso primero, y 448 quinquies de ese cuerpo legal, o bien cualesquiera otras penas de distinta naturaleza, cualquiera fuere su entidad o monto, ya fueren ellas únicas, conjuntas o alternativas.
+
+También se aplicará cuando el fiscal requiriere la imposición de una pena privativa de libertad no superior a diez años de presidio o reclusión mayores en su grado mínimo, tratándose de los ilícitos previstos en la ley N° 17.798, sobre control de armas.
 
 Para ello, será necesario que el imputado, en conocimiento de los hechos materia de la acusación y de los antecedentes de la investigación que la fundaren, los acepte expresamente y manifieste su conformidad con la aplicación de este procedimiento.
 

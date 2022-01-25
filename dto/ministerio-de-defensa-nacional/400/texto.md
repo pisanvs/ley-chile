@@ -16,7 +16,7 @@ Fíjase el siguiente texto refundido, coordinado y sistematizado de la ley N° 1
 
 ## Título I
 
-Control de armas y elementos similares
+Control y tenencia responsable de armas y elementos similares
 
 #### Artículo 1°
 
@@ -32,7 +32,11 @@ Quedan sometidos a este control:
 
 a) El material de uso bélico, entendiéndose por tal las armas, cualquiera sea su naturaleza, sus municiones, explosivos o elementos similares construidos para ser utilizados en la guerra por las fuerzas armadas, y los medios de combate terrestre, naval y aéreo, fabricados o acondicionados especialmente para esta finalidad;
 
-b).- Las armas de fuego, sea cual fuere su calibre, y sus partes, dispositivos y piezas;
+b) Las armas de fuego, sea cual fuere su calibre, y sus partes, dispositivos y piezas.
+
+Se entenderá por arma de fuego toda aquella que tenga cañón y que dispare, que esté concebida para disparar o que pueda adaptarse o transformarse para disparar municiones o cartuchos, aprovechando la fuerza de la expansión de los gases de la pólvora, o cualquier compuesto químico. El reglamento determinará las armas que se consideren adaptables o transformables para el disparo.
+
+Las armas de fuego se clasifican, conforme a su uso, en armas de defensa personal, de seguridad privada, deportivas, de caza mayor o menor, de control de fauna dañina, de caza submarina, de uso industrial, de colección, y de ornato o adorno, así como toda otra categoría que el reglamento señale;
 
 c).- Las municiones y cartuchos;
 
@@ -42,19 +46,37 @@ e).- Las sustancias químicas que esencialmente son susceptibles de ser usadas o
 
 f) Los fuegos artificiales, artículos pirotécnicos y otros artefactos de similar naturaleza, sus partes, dispositivos y piezas. En este caso no será aplicable lo dispuesto en los artículos 8º y 14 A;
 
-g) Las instalaciones destinadas a la fabricación, armaduría, prueba, almacenamiento o depósito de estos elementos, y
+g) Las instalaciones destinadas a la fabricación, armaduría, prueba, reparación, práctica o deporte, almacenamiento o depósito de estos elementos, y
 
 h) Las armas basadas en pulsaciones eléctricas, tales como los bastones eléctricos o de electroshock y otras similares.
 
-Para los efectos de este control, las autoridades a que se refiere el artículo 1º de esta ley podrán ingresar a los polígonos de tiro.
+#### Artículo 3
 
-#### Artículo 3°
+Ninguna persona podrá poseer o tener alguna de las siguientes armas, artefactos o municiones:
 
-Ninguna persona podrá poseer o tener armas largas cuyos cañones hayan sido recortados, armas cortas de cualquier calibre que funcionen en forma totalmente automática, armas de fantasía, entendiéndose por tales aquellas que se esconden bajo una apariencia inofensiva; armas de juguete, de fogueo, de balines, de postones o de aire comprimido adaptadas o transformadas para el disparo de municiones o cartuchos; artefactos o dispositivos, cualquiera sea su forma de fabricación, partes o apariencia, que no sean de los señalados en las letras a) o b) del artículo 2º, y que hayan sido creados, adaptados o transformados para el disparo de municiones o cartuchos; armas cuyos números de serie o sistemas de individualización se encuentren adulterados, borrados o carezcan de ellos; ametralladoras, subametralladoras; metralletas o cualquiera otra arma automática y semiautomática de mayor poder destructor o efectividad, sea por su potencia, por el calibre de sus proyectiles o por sus dispositivos de puntería.
+a) Armas largas cuyos cañones hayan sido recortados.
 
-Asimismo, ninguna persona podrá poseer, tener o portar artefactos fabricados sobre la base de gases asfixiantes, paralizantes o venenosos, de sustancias corrosivas o de metales que por la expansión de los gases producen esquirlas, ni los implementos destinados a su lanzamiento o activación, ni poseer, tener o portar bombas o artefactos explosivos o incendiarios.
+b) Armas cortas de cualquier calibre que funcionen en forma totalmente automática.
 
-Además, ninguna persona podrá poseer o tener armas de fabricación artesanal ni armas transformadas respecto de su condición original, sin autorización de la Dirección General de Movilización Nacional.
+c) Armas de fantasía, entendiéndose por tales aquellas que se esconden bajo una apariencia inofensiva.
+
+d) Armas de juguete, fogueo, balines, postones o aire comprimido, adaptadas o transformadas para el disparo de municiones o cartuchos.
+
+e) Armas artesanales o hechizas, artefactos o dispositivos, cualquiera sea su forma de fabricación, partes o apariencia, que no sean los señalados en las letras a) o b) del artículo 2, y que hayan sido creados, adaptados o transformados para el disparo de municiones o cartuchos.
+
+f) Armas cuyos números de serie o sistemas de individualización se encuentren adulterados, borrados o carezcan de ellos.
+
+g) Ametralladoras y subametralladoras, metralletas o cualquiera otra arma automática o semiautomática de mayor poder destructor o efectividad, sea por su potencia, por el calibre de sus proyectiles o por sus dispositivos de puntería.
+
+h) Silenciadores.
+
+i) Municiones perforantes, explosivas, incendiarias, adaptadas, de alto calibre y toda aquella que por su naturaleza no corresponda al uso civil, lo que será determinado por la Dirección General de Movilización Nacional, mediante resolución fundada.
+
+j) Dispositivos liberadores de automatismo, que permitan modificar los sistemas de disparo de las armas de semiautomática a automática.
+
+k) Armas transformadas respecto de su condición original, a menos que la Dirección General de Movilización Nacional lo autorice para fines exclusivamente deportivos y siempre que no implique una transformación estructural del arma.
+
+Asimismo, ninguna persona podrá poseer, tener o portar artefactos fabricados sobre la base de gases asfixiantes, paralizantes o venenosos, de sustancias corrosivas o de metales que por la expansión de los gases producen esquirlas, bombas o artefactos explosivos o incendiarios; ni los implementos específicamente adaptados para el lanzamiento o activación de cualquiera de estos elementos.
 
 Se exceptúa de estas prohibiciones a las Fuerzas Armadas y a Carabineros de Chile. La Policía de Investigaciones de Chile, Gendarmería de Chile y la Dirección General de Aeronáutica Civil, estarán exceptuadas sólo respecto de la tenencia y posesión de armas automáticas livianas y semiautomáticas, y de disuasivos químicos, lacrimógenos, paralizantes o explosivos y de granadas, hasta la cantidad que autorice el Ministro de Defensa Nacional, a proposición del Director del respectivo Servicio. Estas armas y elementos podrán ser utilizados en la forma que señale el respectivo Reglamento Orgánico y de Funcionamiento Institucional.
 
@@ -72,9 +94,9 @@ Prohíbese la fabricación, importación, comercialización, distribución, vent
 
 #### Artículo 4°
 
-Para fabricar, armar, transformar, importar o exportar las armas o elementos indicados en el artículo 2° y para hacer instalaciones destinadas a su fabricación, armaduría, almacenamiento o depósito, se requerirá autorización de la Dirección General de Movilización Nacional, la que se otorgará en la forma y condiciones que determine el reglamento.
+Para fabricar, armar, transformar, importar, internar, exportar o efectuar actividades de corretaje de las armas o elementos indicados en el artículo 2° y para hacer instalaciones destinadas a su fabricación, armaduría, almacenamiento o depósito, se requerirá autorización de la Dirección General de Movilización Nacional, la que se otorgará en la forma y condiciones que determine el reglamento.
 
-Ninguna persona, natural o jurídica, podrá poseer o tener las armas, elementos o instalaciones indicados en el artículo 2º, ni transportar, almacenar, distribuir o celebrar convenciones sobre dichas armas y elementos sin la autorización de la misma Dirección o de las autoridades a que se refiere el inciso siguiente dada en la forma que determine el reglamento. Sin embargo, tratándose de las armas y elementos establecidos en la letra a) del artículo 2°, esta autorización sólo podrá ser otorgada por la Dirección General de Movilización Nacional.
+Ninguna persona, natural o jurídica, podrá poseer o tener las armas, elementos o instalaciones indicados en el artículo 2, ni transportar, almacenar, distribuir, celebrar convenciones sobre dichas armas y elementos, o transbordarlas, sin la autorización de la misma Dirección o de las autoridades a que se refiere el inciso siguiente, otorgada en la forma que determine el reglamento. Sin perjuicio de lo anterior, las armas adaptables o transformables para el disparo señaladas en la letra b) del artículo 2, tales como armas de fogueo, de señales u otras, sólo podrán tenerse o poseerse para fines debidamente acreditados de adiestramiento canino profesional, control de fauna dañina, espectáculos públicos, filmaciones cinematográficas y artes escénicas, y otros similares que determine el reglamento. No obstante, tratándose de las armas y elementos establecidos en la letra a) del artículo 2, esta autorización sólo podrá ser otorgada por la Dirección General de Movilización Nacional.
 
 La autorización que exige el inciso anterior, con la excepción señalada, deberá otorgarse por las Comandancias de Guarnición de las Fuerzas Armadas o por la autoridad de Carabineros de Chile de mayor jerarquía, designadas en uno o en otro caso por el Ministro de Defensa Nacional, a proposición del Director General de Movilización Nacional, el que podrá también señalar para este efecto, a nivel local, y con las facultades que indica el reglamento, a otras autoridades militares o de Carabineros de Chile.
 
@@ -86,29 +108,45 @@ El Director General de Movilización Nacional podrá solicitar, por intermedio d
 
 El derecho a adquirir, almacenar y manipular explosivos por quienes laboran en faenas mineras será objeto de un reglamento especial dictado por el Ministerio de Defensa Nacional con la asesoría del Servicio Nacional de Geología y Minería.
 
-Las Fuerzas Armadas y Carabineros de Chile, estarán exceptuados de las autorizaciones y controles a que se refieren los incisos precedentes, como, asimismo, lo que las Fábricas y Maestranzas del Ejército, Astilleros y Maestranzas de la Armada y la Empresa Nacional de Aeronáutica produzcan para el uso de las Instituciones de la Defensa Nacional. Sin embargo, el Ministro de Defensa Nacional autorizará a dichas Empresas en lo relativo a la exportación de las armas y elementos indicados en el artículo 2°, y respecto de lo que produzcan para los particulares e industria bélica privada.
+Las Fuerzas Armadas, Carabineros de Chile y la Policía de Investigaciones de Chile estarán exceptuados de las autorizaciones y controles a que se refieren los incisos precedentes, como, asimismo, lo que las Fábricas y Maestranzas del Ejército, Astilleros y Maestranzas de la Armada y la Empresa Nacional de Aeronáutica produzcan para el uso de las Instituciones de la Defensa Nacional. Sin embargo, el Ministro de Defensa Nacional autorizará a dichas Empresas en lo relativo a la exportación de las armas y elementos indicados en el artículo 2°, y respecto de lo que produzcan para los particulares e industria bélica privada.
+
+La Dirección General de Movilización Nacional y las autoridades indicadas en el inciso tercero podrán, en virtud de una resolución fundada, denegar, suspender, condicionar o limitar las autorizaciones que exige esta ley.
 
 > **Nota.** El artículo 9° transitorio de la LEY 19047, publicada el 14.02.1991, dispuso que para los efectos del presente inciso, el Ministerio de Defensa Nacional deberá proceder a la dictación del reglamento especial de explosivos para las faenas mineras, en un plazo máximo de noventa días.
 
-#### Artículo 5°
+#### Artículo 4
 
-Toda arma de fuego que no sea de las señaladas en el artículo 3° deberá ser inscrita a nombre de su poseedor o tenedor ante las autoridades indicadas en el artículo anterior. En el caso de las personas naturales, la autoridad competente será la que corresponda a la residencia del interesado, y en el caso de las personas jurídicas, la del lugar en que se guarden las armas.
+A.- Previo al ingreso al país de armas de fuego o municiones, el consignatario o importador, según el caso, deberá informar a la Dirección General de Movilización Nacional sobre su origen, e incluirá tanto al fabricante como a los intermediarios que hubieren tenido el arma o municiones con anterioridad al referido ingreso. Dicha institución deberá entregar un certificado que acredite el cumplimiento de la diligencia antes referida, el que deberá ser presentado por el consignatario o importador, según corresponda, ante el Servicio Nacional de Aduanas al ingresar la mercancía.
 
-La Dirección General de Movilización Nacional llevará un Registro Nacional de las inscripciones de armas.
+Toda arma de fuego o munición que ingrese al país y que no cuente con el certificado previsto en este artículo será retenida por el Servicio Nacional de Aduanas y remitida a la autoridad fiscalizadora correspondiente, sin perjuicio de lo dispuesto en el inciso primero del artículo 23. El consignatario o importador, según el caso, podrá recuperar el arma de fuego o munición sólo una vez que haya informado satisfactoriamente a la Dirección General de Movilización Nacional sobre el origen e intermediarios del arma o municiones, y emitirá al efecto el certificado a que se refiere el inciso anterior, el que deberá ser presentado ante el Servicio Nacional de Aduanas para cursar la destinación aduanera.
+
+La Dirección General de Movilización Nacional, previo a autorizar la inscripción de un arma en el Registro Nacional de Inscripciones de Armas, deberá proceder a tomar muestras del efecto del disparo en los proyectiles y casquillos de balas o cartuchos, e incorporar la información a un sistema de identificación balística automatizada.
+
+El reglamento podrá establecer un sistema de trazabilidad complementario para todas las armas de fuego y municiones que sean fabricadas en el país o importadas.
+
+#### Artículo 5
+
+Toda arma de fuego que no sea de las señaladas en el artículo 3 deberá ser inscrita a nombre de su poseedor o tenedor ante las autoridades indicadas en el inciso tercero del artículo 4. En el caso de las personas naturales, la autoridad competente será la que corresponda a la residencia del interesado y, en el caso de las personas jurídicas, la del lugar en que se guarden las armas. La inscripción de armas de fuego sólo podrá ser realizada personalmente por su poseedor o tenedor y, en el caso de las personas jurídicas, por su representante legal. Solamente podrán inscribir armas personas jurídicas que se hayan constituido como federaciones deportivas nacionales, asociaciones o clubes que se encuentren afiliados a estas federaciones y aquellas que, sin estar afiliadas, se hayan constituido con la finalidad de impartir la práctica de tiro y que cuenten con polígonos o canchas de tiro o prueba que cumplan los requisitos que establezca el reglamento; coleccionistas; empresas de control de fauna dañina, o aquellas a que se refiere el decreto ley N° 3.607, de 1981. La Dirección General de Movilización Nacional calificará, mediante resolución dictada a requerimiento de la persona jurídica interesada, que ésta cumple con los requisitos establecidos en este inciso.
+
+La Dirección General de Movilización Nacional llevará un Registro Nacional de las Inscripciones de Armas, en el que se anotarán las adquisiciones de armas de fuego y sus transferencias a nombre de los poseedores o tenedores adquirentes una vez que éstos hayan cumplido los requisitos señalados en el artículo 5 A. Previa solicitud, la autoridad fiscalizadora correspondiente otorgará una guía de libre tránsito para el traslado del arma de fuego, a que se refiere la letra b) del artículo 2, al domicilio declarado en la transferencia autorizada.
 
 La inscripción sólo autoriza a su poseedor o tenedor para mantener el arma en el bien raíz declarado correspondiente a su residencia, a su sitio de trabajo o al lugar que se pretende proteger. Todo cambio del lugar autorizado deberá ser comunicado por el poseedor o tenedor de un arma inscrita a la autoridad fiscalizadora correspondiente.
 
 Las referidas autoridades sólo permitirán la inscripción del arma cuando, a su juicio, su poseedor o tenedor sea persona que, por sus antecedentes, haga presumir que cumplirá lo prescrito en el inciso anterior.
 
-El cumplimiento de lo dispuesto en el inciso tercero podrá ser verificado exclusivamente por las autoridades fiscalizadoras a que se refiere el artículo 1º de esta ley, dentro de su respectiva jurisdicción, y por los funcionarios de Carabineros de Chile, quienes deberán exhibir una orden escrita expedida por el Comisario a cuya jurisdicción corresponda el lugar autorizado para mantener el arma.
+El cumplimiento de lo dispuesto en los incisos tercero y séptimo será verificado por las autoridades fiscalizadoras a que se refiere el artículo 1 o por cualquier funcionario de las Fuerzas de Orden y Seguridad Pública, y deberá registrar de forma inmediata toda actuación realizada, así como los actos asociados a ella, conforme lo disponga el reglamento.
 
-Esta diligencia sólo podrá realizarse entre las ocho y las veintidós horas y no requerirá de aviso previo. La fiscalización referida no facultará a quien la practique para ingresar al domicilio del fiscalizado.
+La fiscalización sólo podrá realizarse entre las ocho y veintidós horas, ya sea en días hábiles o inhábiles, y no requerirá de aviso previo. La fiscalización no facultará a quien la practique para ingresar al lugar autorizado al que alude el inciso tercero. Sin perjuicio de lo anterior, cuando en dicho lugar se haya declarado mantener más de dos armas, se permitirá el ingreso a quien la practique, no obstante lo prescrito en los incisos siguientes, para el solo efecto de fiscalizar el cumplimiento de las medidas de seguridad establecidas en la ley y en el reglamento. Exceptúanse de estas restricciones las fiscalizaciones que realicen las Fuerzas de Orden y Seguridad Pública en el marco de actuaciones investigativas que le encomiende el Ministerio Público, o de aquellas previstas en los literales a), b) y c) del artículo 83 del Código Procesal Penal.
 
-El poseedor o tenedor estará obligado a exhibir el arma, presumiéndose que ésta no se encuentra en el lugar autorizado, en caso de negativa de aquél a mostrarla. Si el arma no es exhibida, se lo denunciará, a fin de que se investigue la eventual comisión de alguno de los delitos previstos en los artículos 11 ó 14 A. Si el poseedor o tenedor no es habido, no podrá practicarse la fiscalización.
+Con todo, en el caso de almacenes y depósitos e instalaciones destinadas a la fabricación, armaduría, reparación o pruebas; polígonos o canchas de tiro o prueba, y de organizaciones deportivas señaladas en el inciso primero, se podrá fiscalizar, sin previo aviso, las armas, municiones y demás elementos sujetos a control; el uso de ellas; sus permisos de transporte y padrones; las inscripciones y autorizaciones que correspondan; las nóminas de socios, instructores y alumnos, y verificar que los socios realicen las actividades deportivas efectivamente autorizadas. Esta diligencia podrá realizarse en el horario de funcionamiento del recinto, así como en el señalado en el inciso anterior.
 
-Sin perjuicio de lo anterior, si el poseedor o tenedor se ausentare del lugar autorizado para mantener el arma, podrá depositarla, por razones de seguridad, ante la autoridad contralora de su domicilio, la que, en la forma que disponga el reglamento, emitirá una guía de libre tránsito para su transporte, guarda y depósito.
+El poseedor o tenedor estará obligado a exhibir el arma. Si debiendo encontrarse el arma en el lugar autorizado, ésta no es exhibida, el fiscalizador deberá comunicar dicha circunstancia a la Dirección General de Movilización Nacional, la que procederá a la cancelación de la inscripción. Asimismo, el fiscalizador deberá realizar la denuncia correspondiente, a fin de que se investigue la eventual comisión de alguna de las infracciones o delitos previstos en esta ley. Este mismo procedimiento se deberá adoptar si se verificare que un arma se encuentra injustificadamente en un lugar distinto al autorizado.
 
-Asimismo, el poseedor o tenedor, previa solicitud fundada, será autorizado para transportar el arma de fuego al lugar que indique y mantenerla allí hasta por un plazo de sesenta días. La autorización deberá señalar los días específicos en que el arma podrá transportarse. Esta autorización será especialmente necesaria para llevar el arma de fuego a reparación, a evaluación ante el Banco de Pruebas de Chile y para las pruebas de tiro que sean necesarias para efectos de lo preceptuado en la letra c) del inciso primero del artículo 5º A y el inciso cuarto de la misma disposición. En caso de que el poseedor o tenedor, por cualquier circunstancia, requiera transportar el arma de fuego en día distinto del señalado en la autorización, podrá solicitar, por una sola vez, un permiso especial a la autoridad contralora correspondiente.
+Si el poseedor o tenedor no es habido, no podrá practicarse la fiscalización, sin perjuicio de que si ello ocurre por tres veces consecutivas en un lapso mínimo de cuarenta y cinco días, el fiscalizador cada vez dejará constancia escrita de la fiscalización fallida en el lugar autorizado y comunicará dicha circunstancia a la Dirección General de Movilización Nacional, la que iniciará un procedimiento administrativo destinado a declarar la cancelación de la inscripción, conforme a lo dispuesto en los incisos segundo y tercero del artículo 5 B. Además, deberá efectuar la denuncia correspondiente, a fin de que se investigue la eventual comisión de alguna de las infracciones o delitos previstos en esta ley.
+
+Si el poseedor o tenedor se ausentare del lugar autorizado para mantener el arma, podrá depositarla, por razones de seguridad, ante la autoridad contralora de su domicilio, la que, en la forma que disponga el reglamento, emitirá una guía de libre tránsito para su transporte, guarda y depósito.
+
+Asimismo, el poseedor o tenedor, previa solicitud fundada, será autorizado para transportar el arma de fuego al lugar que indique y mantenerla allí hasta por un plazo de sesenta días. La autorización deberá señalar los días específicos en que el arma podrá transportarse. Esta autorización será especialmente necesaria para llevar el arma de fuego a reparación, a evaluación ante el Banco de Pruebas de Chile y para las pruebas de tiro que sean necesarias para efectos de lo preceptuado en la letra c) del inciso primero del artículo 5º A y el inciso sexto de la misma disposición. En caso de que el poseedor o tenedor, por cualquier circunstancia, requiera transportar el arma de fuego en día distinto del señalado en la autorización, podrá solicitar, por una sola vez, un permiso especial a la autoridad contralora correspondiente. De la misma forma, el poseedor o tenedor de un arma de defensa personal, previa solicitud fundada en práctica de tiro, podrá ser autorizado, dos veces por año y por un plazo máximo de veinticuatro horas cada vez, para transportarla al lugar autorizado que indique para dicho efecto.
 
 Las solicitudes de transporte y libre tránsito a que hacen referencia los incisos precedentes podrán presentarse y concederse preferentemente por medios electrónicos, en la forma que determine el reglamento.
 
@@ -116,9 +154,15 @@ Las personas que al momento de inscribir un arma ante la autoridad fiscalizadora
 
 El transporte a que se refiere este artículo no constituirá porte de armas para los efectos del artículo 6º.
 
-En caso de fallecimiento de un poseedor o tenedor de arma de fuego inscrita, el heredero, legatario o la persona que tenga la custodia de ésta u ocupe el inmueble en el que el causante estaba autorizado para mantenerla, o aquél en que efectivamente ella se encuentre, deberá comunicar a la autoridad contralora la circunstancia del fallecimiento y la individualización del heredero, legatario o persona que, bajo su responsabilidad, tendrá la posesión provisoria de dicha arma y de sus municiones hasta que sea adjudicada, cedida o transferida a una persona que cumpla con los requisitos para inscribir el arma a su nombre. Si la adjudicación, cesión o transferencia no se hubiere efectuado dentro del plazo de noventa días, contado a partir de la fecha del fallecimiento, el poseedor tendrá la obligación de entregar el arma y sus municiones en una comandancia de guarnición de las Fuerzas Armadas o en una comisaría, subcomisaría o tenencia de Carabineros de Chile. La autoridad contralora procederá a efectuar la entrega a quien exhiba la inscripción, a su nombre, del arma de fuego depositada. La infracción de lo establecido en esta norma será sancionada con multa de 5 a 10 unidades tributarias mensuales. La posesión provisoria antes señalada no permitirá el uso del arma ni de sus municiones.
+En caso de fallecimiento de un poseedor o tenedor de arma de fuego inscrita, el heredero, legatario o la persona que tenga la custodia de ésta u ocupe el inmueble en el que el causante estaba autorizado para mantenerla, o aquél en que efectivamente ella se encuentre, deberá comunicar a la autoridad contralora la circunstancia del fallecimiento y la individualización del heredero, legatario o persona que, bajo su responsabilidad, tendrá la posesión provisoria de dicha arma y de sus municiones hasta que sea adjudicada, cedida o transferida a una persona que cumpla con los requisitos para inscribir el arma a su nombre. Si la adjudicación, cesión o transferencia no se hubiere efectuado dentro del plazo de noventa días, contado a partir de la fecha del fallecimiento, el poseedor tendrá la obligación de entregar el arma y sus municiones en una comandancia de guarnición de las Fuerzas Armadas, en una comisaría, subcomisaría o tenencia de Carabineros de Chile, o en una brigada o cuartel de la Policía de Investigaciones de Chile. La autoridad contralora procederá a efectuar la entrega a quien exhiba la inscripción, a su nombre, del arma de fuego depositada. La infracción de lo establecido en esta norma será sancionada con multa de 5 a 10 unidades tributarias mensuales. La posesión provisoria antes señalada no permitirá el uso del arma ni de sus municiones.
 
-La Dirección General de Movilización Nacional deberá requerir al Servicio de Registro Civil e Identificación, con una periodicidad al menos trimestral, la información correspondiente a las personas cuyas defunciones hubieren sido registradas durante el trimestre inmediatamente anterior por dicho Servicio, con el objeto de llevar a cabo las actuaciones que sean conducentes para regularizar, si fuere necesario, la posesión e inscripción de la o las armas inscritas a nombre de las personas cuya defunción se haya informado.
+La Dirección General de Movilización Nacional deberá requerir al Servicio de Registro Civil e Identificación, con una periodicidad al menos trimestral, la información correspondiente a las personas cuyas defunciones hubieren sido registradas durante el trimestre inmediatamente anterior por dicho Servicio, con el objeto de llevar a cabo las actuaciones que sean conducentes para regularizar, si fuere necesario, la posesión e inscripción de la o las armas inscritas a nombre de las personas cuya defunción se haya informado. El reglamento podrá establecer mecanismos más expeditos de entrega de información para cumplir lo dispuesto en este inciso.
+
+La Dirección General de Movilización Nacional deberá solicitar al Servicio de Impuestos Internos la información sobre término de giro de las personas jurídicas señaladas en el inciso primero.
+
+Toda persona jurídica, previo a su disolución, deberá ceder o transferir las armas de fuego que posea a una persona natural o jurídica que cumpla con los requisitos para inscribir el arma a su nombre, no obstante los deberes de información que establezca el reglamento respecto del destino de las armas previo a su disolución. Lo anterior es sin perjuicio de lo dispuesto en el inciso cuarto del artículo 23.
+
+> **Nota.** NOTA 1 El artículo segundo transitorio de la ley 21412, publicada el 25.01.2022, dispone que el nuevo inciso primero del presente artículo entrará en vigencia en la fecha de publicación del reglamento a que se refiere el artículo tercero transitorio de la citada ley.
 
 #### Artículo 5º
 
@@ -158,39 +202,57 @@ Si, por circunstancia sobreviniente, el poseedor o tenedor de un arma inscrita p
 
 Las armas de fuego que se encuentren inscritas a nombre de la persona respecto de la cual se hubiere decretado alguna de las medidas cautelares señaladas en la letra g) de este artículo y sus respectivas municiones o cartuchos serán retenidas provisoriamente por orden del tribunal respectivo y remitidas directamente al Depósito Central de Armas de Carabineros de Chile hasta el alzamiento de la medida cautelar correspondiente. Una vez que cese dicha medida, el poseedor o tenedor del arma de fuego inscrita podrá solicitar su devolución, conjuntamente con sus municiones o cartuchos, previo pago de los derechos que correspondan.
 
-#### Artículo 5º
+#### Artículo 5
 
-B.- El poseedor o tenedor de un arma inscrita que la tenga en un lugar distinto de aquel declarado para estos efectos, que se negase a exhibir el arma de conformidad con lo dispuesto en el artículo 5º o que no diese cumplimiento a lo establecido en el inciso cuarto del artículo 5º A será sancionado con multa de dos a diez unidades tributarias mensuales, a beneficio fiscal, que se impondrá por la Dirección General de Movilización Nacional mediante acto administrativo fundado. En caso de reincidencia, la multa se elevará al doble y la Dirección General de Movilización Nacional procederá a la cancelación de la inscripción. Para efectos de la reincidencia, no se considerarán aquellas sanciones cuya aplicación tenga una antigüedad superior a cinco años. Serán aplicables, a estos efectos, el procedimiento y demás normas contenidas en la ley Nº19.880.
+B.- Si, por circunstancia sobreviniente, el poseedor o tenedor de un arma inscrita pierde las calidades o aptitudes previstas en los literales a), b) o c), o se verifica lo señalado por el literal l) del artículo anterior, la Dirección General de Movilización Nacional deberá cancelar la respectiva inscripción, sin perjuicio de lo establecido en el artículo 5 C.
+
+En la resolución que decrete la cancelación de la inscripción, se le informará al poseedor o tenedor de su derecho a transferirla en un plazo perentorio no superior a noventa días contado desde su notificación a nombre de un tercero, quien a su vez deberá cumplir con los requisitos establecidos para la inscripción de armas de fuego. Vencido dicho plazo sin haber sido transferida, se procederá a su destrucción.
+
+En el acto de la notificación de la resolución anterior, la autoridad fiscalizadora procederá al retiro del arma para su custodia y depósito, en tanto se resuelve el destino de ella. El poseedor o tenedor estará obligado a entregarla y se presumirá que ésta no se encuentra en el lugar autorizado, en caso de negativa de aquél a su entrega. Si el arma no es entregada, se le denunciará, a fin de que se investigue la eventual comisión de alguna de las infracciones o delitos previstos en esta ley.
+
+El incumplimiento de cualquiera de las obligaciones previstas en los incisos quinto o final del artículo 5 A, será sancionado con multa de 5 a 10 unidades tributarias mensuales, y en caso de reiteración, con la cancelación de la inscripción.
+
+#### Artículo 5
+
+C.- Si el poseedor o tenedor de un arma de fuego inscrita es condenado por crimen o simple delito, o por infracción a la ley N° 20.066, que establece ley de violencia intrafamiliar, el tribunal ordenará la cancelación de todas sus inscripciones de armas de fuego en la sentencia definitiva. Dicha resolución deberá comunicarse a la Dirección General de Movilización Nacional en el plazo de veinticuatro horas contado desde que se encuentre firme o ejecutoriada para su cumplimiento.
+
+Si durante el procedimiento judicial a que se refiere el inciso anterior, se hubiere decretado alguna medida de protección o cautelar, o la suspensión condicional del procedimiento penal, que impida la tenencia, posesión o porte de armas de fuego, municiones o cartuchos, éstos serán retenidos provisoriamente, por orden del tribunal respectivo, y remitidos directamente a los depósitos señalados en el artículo 23, según corresponda. El tribunal deberá emitir esta misma orden en la resolución que cite a audiencia de preparación de juicio oral al haberse presentado acusación, y al dictarse sentencia condenatoria, en tanto ésta no se encuentre firme o ejecutoriada.
+
+Para tal efecto, el juez deberá ordenar en la misma resolución que decrete la medida de protección o cautelar, o la suspensión condicional del procedimiento penal; cite a audiencia de preparación de juicio oral, o dicte sentencia condenatoria, el retiro inmediato de dichas armas y municiones o cartuchos por parte de cualquiera de las policías, autorizándolas, en caso de negativa de entrega, a ingresar al lugar donde el arma se mantiene. Dicha resolución deberá comunicarse a la Dirección General de Movilización Nacional en el plazo de veinticuatro horas contado desde su dictación.
+
+Una vez que cese la medida cautelar o de protección, se decrete el sobreseimiento definitivo de la causa, o se dicte sentencia absolutoria y ésta se encuentre firme o ejecutoriada, el poseedor o tenedor del arma de fuego inscrita podrá solicitar su devolución, conjuntamente con sus municiones o cartuchos, previo pago de los derechos que correspondan. Dicha resolución deberá comunicarse a la Dirección General de Movilización Nacional en el plazo de veinticuatro horas contado desde su dictación.
+
+#### Artículo 5
+
+D.- Corresponderá a la Dirección General de Movilización Nacional velar por la regularidad de las inscripciones a que se refiere el artículo 5, y representará a las autoridades ejecutoras y contraloras cualquier situación ilegal o antirreglamentaria en las inscripciones autorizadas, para su inmediata corrección.
 
 #### Artículo 6º
 
-Ninguna persona podrá portar armas de fuego fuera de los lugares indicados en el artículo 5º sin permiso de las autoridades señaladas en el artículo 4º, las que podrán otorgarlo en casos calificados y en virtud de una resolución fundada, de acuerdo con los requisitos y modalidades que establezca la Dirección General de Movilización Nacional.
+Ninguna persona podrá portar armas de fuego fuera de los lugares indicados en el artículo 5º sin permiso de las autoridades señaladas en el inciso tercero del artículo 4º, las que podrán otorgarlo en casos calificados y en virtud de una resolución fundada, de acuerdo con los requisitos y modalidades que establezca la Dirección General de Movilización Nacional.
 
 El permiso durará un año como máximo y sólo autorizará al beneficiario para portar un arma. Estas autorizaciones se inscribirán en el Registro Nacional de Armas.
 
-No requerirá este permiso el personal señalado en el inciso cuarto del artículo 3º, sin perjuicio de lo que disponga la reglamentación institucional respectiva.
+No requerirá este permiso el personal señalado en el inciso tercero del artículo 3º, sin perjuicio de lo que disponga la reglamentación institucional respectiva. Asimismo, no requerirán este permiso, los aspirantes a oficiales de Carabineros ni los aspirantes a oficiales de la Policía de Investigaciones, que cursen tercer año en las Escuelas de Carabineros y de Investigaciones Policiales, durante la realización de las respectivas prácticas policiales.
 
-Asimismo, no requerirán este permiso, los aspirantes a oficiales de Carabineros ni los aspirantes a oficiales de la Policía de Investigaciones, que cursen tercer año en las Escuelas de Carabineros y de Investigaciones Policiales, durante la realización de las respectivas prácticas policiales.
+Los deportistas, cazadores y vigilantes privados que sean autorizados por la autoridad contralora y que cumplan con los requisitos señalados en el reglamento, podrán transportar y utilizar las armas en las actividades indicadas en la respectiva autorización, lo que no constituirá permiso de porte. Serán cazadores quienes cuenten con permiso de caza al día otorgado por el Servicio Agrícola y Ganadero, y deportistas, quienes se encuentren debidamente inscritos en las organizaciones deportivas señaladas en el inciso primero del artículo 5, y cumplan los demás requisitos que establezca el reglamento complementario de esta ley.
 
-Se exceptúan también los deportistas, los cazadores y los vigilantes privados que sean autorizados por la autoridad contralora y que cumplan con los requisitos señalados en el reglamento. Tendrán la calidad de cazadores aquellos que cuenten con permiso de caza al día otorgado por el Servicio Agrícola y Ganadero y los deportistas que se encuentren debidamente inscritos en clubes afiliados a federaciones cuyos socios utilicen armas como implementos deportivos. Estas autorizaciones no constituyen permiso de porte de armas y sólo habilitan para transportar y utilizar armas en las actividades indicadas.
+#### Artículo 7
 
-Corresponderá a la Dirección General de Movilización Nacional velar por la regularidad de las inscripciones a que se refiere el artículo 5º, representando a las autoridades señaladas en el inciso tercero del artículo 4º cualquier situación ilegal o antirreglamentaria en las inscripciones autorizadas, para su inmediata corrección.
+Las autoridades indicadas en el inciso tercero del artículo 4 no podrán conceder las autorizaciones y permisos ni aceptar las inscripciones que se establecen en los artículos 4, 5 y 6 de más de dos armas de fuego a nombre de una misma persona natural o jurídica. Exceptúanse las personas jurídicas inscritas como comerciantes autorizados para vender armas; las empresas de control de fauna dañina, o aquellas a que se refiere el decreto ley N° 3.607, de 1981.
 
-La Dirección General y las autoridades indicadas en el inciso anterior podrán, en virtud de una resolución fundada, denegar, suspender, condicionar o limitar las autorizaciones que exige esta ley.
+Las personas jurídicas que se hayan constituido con la finalidad de impartir la práctica de tiro y que cuenten con polígonos o canchas de tiro o prueba que cumplan los requisitos que establezca el reglamento, podrán inscribir hasta dos armas por cada miembro, y no podrán exceder de un total de veinte. Estas entidades sólo podrán adquirir municiones o cartuchos para las armas inscritas por ellas.
 
-#### Artículo 7°
+Las personas naturales o jurídicas autorizadas como coleccionistas quedan facultadas para mantener sus armas declaradas, con sus características y estado original y adoptarán las medidas de seguridad que se señalen en el reglamento. Sin perjuicio de lo anterior, el número máximo de armas de colección que podrá poseer una misma persona no podrá ser superior a diez, a menos que ellas se encuentren inutilizadas para el disparo. En este último caso podrán poseer un máximo total de cincuenta. No obstante, en atención a circunstancias calificadas, la Dirección General de Movilización Nacional, mediante resolución fundada, podrá autorizar excepcionalmente exceder el límite máximo de posesión de armas de colección, el que no podrá ser superior a veinte tratándose de armas aptas para el disparo. Esta autorización deberá ser solicitada anualmente por el interesado. En ningún caso la posesión de armas de colección autoriza a la compra de municiones o cartuchos.
 
-Las autoridades indicadas en el inciso tercero del artículo 4° no podrán conceder las autorizaciones y permisos ni aceptar las inscripciones que se establecen en los artículos 4°, 5° y 6° de más de dos armas de fuego a nombre de una misma persona.
+Para los efectos de lo dispuesto en esta ley, son armas de colección aquellas permitidas, nuevas o usadas, aptas o no para el disparo, que por su estética, diseño, lugar y año de fabricación, interés histórico, características especiales, línea secuencial de fabricación, mecanismos especiales u otras características distintivas, sean calificadas como tales por la Dirección General de Movilización Nacional. Las armas antiguas, esto es, fabricadas con anterioridad al año 1900, se considerarán siempre como de colección.
 
-Sin embargo por resolución fundada de la Dirección General de de Movilización Nacional, se podrán otorgar las referidas autorizaciones y los permisos e inscripciones de más de dos armas a personas jurídicas o a personas naturales debidamente calificadas.
+Los cazadores y deportistas podrán inscribir aquellas armas que correspondan a la naturaleza y clase de caza o deporte que efectúen, con un límite de seis, y no podrán ser semiautomáticas en el caso de cazadores.
 
-Se exceptúan de lo dispuesto en los incisos anteriores, las personas naturales o jurídicas que estuvieren inscritas como coleccionistas, cazadores, deportistas o comerciantes autorizados para vender armas, y las empresas que contraten vigilancia privada.
+La Dirección General de Movilización Nacional, por resolución fundada, podrá autorizar a deportistas calificados a poseer un número mayor de armas al señalado en el inciso anterior, por razones de exigencia profesional debidamente certificada, y no podrá en caso alguno superar un límite total de veinte armas.
 
-Las personas autorizadas como coleccionistas quedan facultadas para mantener sus armas declaradas, con sus características y estado original, debiendo adoptar las medidas de seguridad que se señalen en el reglamento.
+El reglamento establecerá las modalidades y limitaciones respecto a las autorizaciones, permisos e inscripciones a que se refieren los incisos anteriores y las medidas de seguridad que se deban adoptar. En todo caso, los lugares de depósitos de armas de las federaciones y de los clubes de tiro y caza, y las personas jurídicas autorizadas a poseer o tener más de dos armas de fuego, deberán contar en sus recintos con medidas de seguridad suficientes para el resguardo del lugar donde se depositan las armas. Dichos lugares estarán restringidos al personal autorizado y serán inaccesibles desde el sector habilitado para el público. Deberán contar con sistemas de alarmas y circuitos cerrados de televisión, y cumplir con toda otra condición que establezca el reglamento.
 
-Los cazadores podrán inscribir aquellas armas que correspondan a la naturaleza y clase de caza que efectúen, no pudiendo sus armas ser automáticas o semi automáticas.
-
-El reglamento establecerá las modalidades y limitaciones respecto a las autorizaciones, permisos e inscripciones a que se refieren los tres incisos anteriores.
+La Dirección General de Movilización Nacional podrá exceptuar de los límites señalados en este artículo a aquellas personas jurídicas sin fines de lucro, cuando la autorización se solicite respecto de armas de colección y siempre que ellas tengan por objeto la protección y difusión del patrimonio y se cumplan los demás requisitos que señale el reglamento. Se exceptúa de dicho límite al Servicio Nacional del Patrimonio Cultural.
 
 ## Título II — (ATRS. 8-17)
 
@@ -216,27 +278,27 @@ Los que poseyeren, tuvieren o portaren algunas de las armas o elementos señalad
 
 Los que poseyeren, tuvieren o portaren algunas de las armas o elementos señalados en las letras c) y e) del artículo 2º, sin las autorizaciones a que se refiere el artículo 4º, o sin la inscripción establecida en el artículo 5º, serán sancionados con presidio menor en su grado medio.
 
+Si el infractor tuviere algún permiso de los establecidos en el artículo 4 y en el reglamento de esta ley para los elementos señalados en los literales b) y c) del artículo 2, pero diferente a aquel cuya falta se sanciona en los incisos anteriores, o no hubiesen transcurrido más de seis meses desde la pérdida de vigencia de cualquiera de ellos, el tribunal podrá prescindir de toda pena, sin perjuicio de las sanciones administrativas que correspondan.
+
 Los que poseyeren o tuvieren alguno de los elementos señalados en la letra f) del artículo 2º, sin las autorizaciones a que se refiere el artículo 4°, serán sancionados con presidio menor en su grado mínimo o multa de 5 a 20 unidades tributarias mensuales.
 
-#### Artículo 9º
+#### Artículo 9
 
-A.- Será sancionada con una multa administrativa de 100 a 500 unidades tributarias mensuales, la persona autorizada que:
+A.- Será sancionada con la pena de presidio menor en su grado mínimo a medio y una multa de 100 a 500 unidades tributarias mensuales, la persona que, contando con la autorización respectiva, vendiere municiones o cartuchos a quien no fuere poseedor, tenedor o portador de un arma de fuego inscrita.
 
-1º Vendiere municiones o cartuchos a quien no fuere poseedor, tenedor o portador de un arma de fuego inscrita.
+Cuando la venta recaiga sobre municiones o cartuchos de un calibre distinto al autorizado a quien estuviere facultado como poseedor, tenedor o portador de un arma de fuego inscrita, o no se diere cumplimiento a las obligaciones previstas en el inciso cuarto del artículo 4, la sanción será de presidio menor en su grado mínimo y una multa de 100 a 500 unidades tributarias mensuales.
 
-2º Vendiere a quien fuere poseedor, tenedor o portador de un arma de fuego inscrita, municiones o cartuchos de un calibre distinto del autorizado para ésta.
+#### Artículo 9
 
-3º Vendiere municiones o cartuchos a quien fuere poseedor, tenedor o portador de un arma de fuego inscrita, sin dar cumplimiento a las obligaciones previstas en el inciso cuarto del artículo 4º.
+B.- La persona natural o jurídica autorizada para la venta de municiones y cartuchos en cuyo establecimiento comercial se realice cualquiera de las conductas señaladas en el artículo anterior, será sancionada con una multa administrativa de 100 a 500 unidades tributarias mensuales y, en caso de segunda sanción, con la cancelación del permiso.
 
-En caso de reincidencia, la multa será de 500 a 1.000 unidades tributarias mensuales.
-
-Si la infracción tuviere lugar por tercera vez, la sanción será la revocación de la autorización para vender armas. Si el vendedor fuere una sociedad de personas, la sanción establecida en este inciso afectará también a los socios de la misma. Si se tratare de una sociedad por acciones, la sanción establecida en este inciso afectará también a los accionistas que fueren dueños de más del 10% del interés social. En los dos casos anteriores, la sanción se aplicará asimismo a quienes administraren la respectiva sociedad.
+Si alguna de las conductas señaladas en el artículo anterior fuere realizada por la persona natural autorizada, o por alguno de los socios que ejerzan la administración en cualquier forma de la persona jurídica autorizada o posean en ella un interés social superior al 10 por ciento, se procederá administrativamente a la cancelación inmediata del permiso respectivo.
 
 #### Artículo 10
 
 Los que sin la competente autorización fabricaren, armaren, elaboraren, adaptaren, transformaren, importaren, internaren al país, exportaren, transportaren, almacenaren, distribuyeren, ofrecieren, adquirieren o celebraren convenciones respecto de los elementos indicados en las letras b), c), d) y e) del artículo 2º serán sancionados con la pena de presidio mayor en su grado mínimo.
 
-Si alguna de las conductas descritas en el inciso anterior se realizare respecto de los elementos a que se hace referencia en los incisos primero, segundo y tercero del artículo 3º, la pena será de presidio mayor en su grado mínimo a medio. Si las armas fueren material de uso bélico de la letra a) del artículo 2º o aquellas a que se hace referencia en el inciso final del artículo 3º, la pena será de presidio mayor en sus grados medio a máximo. Pero tratándose de artefactos incendiarios, explosivos, tóxicos, corrosivos o infecciosos cuyos componentes principales sean pequeñas cantidades de combustibles y otros elementos químicos de libre venta al público y de bajo poder expansivo, tales como las bombas molotov y otros artefactos similares, se impondrá únicamente la pena de presidio menor en su grado máximo.
+Si alguna de las conductas descritas en el inciso anterior se realizare respecto de los elementos a que se hace referencia en los incisos primero y segundo del artículo 3º, la pena será de presidio mayor en su grado mínimo a medio. Si las armas fueren material de uso bélico de la letra a) del artículo 2º o aquellas a que se hace referencia en el inciso final del artículo 3º, la pena será de presidio mayor en sus grados medio a máximo. Pero tratándose de artefactos incendiarios, explosivos, tóxicos, corrosivos o infecciosos cuyos componentes principales sean pequeñas cantidades de combustibles y otros elementos químicos de libre venta al público y de bajo poder expansivo, tales como las bombas molotov y otros artefactos similares, se impondrá únicamente la pena de presidio menor en su grado máximo.
 
 Los que sin la competente autorización fabricaren, armaren, elaboraren, adaptaren, transformaren, importaren, internaren al país, exportaren, transportaren, almacenaren, distribuyeren, ofrecieren, adquirieren o celebraren convenciones respecto de los elementos indicados en la letra f) del artículo 2 serán sancionados con la pena de presidio menor en su grado medio y multa de 10 a 20 unidades tributarias mensuales. En caso de que en la perpetración del delito se utilizaren establecimientos o locales, a sabiendas de su propietario o encargado, o no pudiendo éste menos que saberlo, el juez podrá decretar en la sentencia su clausura definitiva. Asimismo, durante el proceso judicial respectivo podrá decretar, como medida cautelar, la clausura temporal de dichos establecimientos o locales.
 
@@ -248,53 +310,57 @@ El incumplimiento grave de las condiciones impuestas en la autorización otorgad
 
 #### Artículo 10
 
-A.- El que, contando con la autorización a que se refiere el artículo 4º, entregare a un menor de edad alguno de los elementos señalados en las letras a), b), c), d) y e) del artículo 2º, será sancionado con la pena de presidio menor en su grado mínimo.
+A.- El que, contando con la autorización a que se refiere el artículo 4, entregare a un menor de edad alguno de los elementos señalados en las letras a), b), c), d) y e) del artículo 2, será sancionado con la pena de presidio menor en sus grados medio a máximo.
 
-La misma sanción se impondrá al que, teniendo dicha autorización, permitiere que un menor de edad a su cargo tenga en su poder alguno de los elementos antes mencionados.
+La misma sanción, disminuida en un grado, se impondrá al que, teniendo dicha autorización, permitiere que un menor de edad tenga en su poder alguno de los elementos antes mencionados.
 
-Se impondrá una multa administrativa de 3 a 7 unidades tributarias mensuales al poseedor autorizado de dichos elementos cuando, por su mera imprudencia, éstos quedaren en poder de un menor de edad que estuviere a su cargo. En caso de reincidencia, la sanción será la cancelación del permiso. Cancelado el permiso, el sancionado tendrá cinco días hábiles para entregar las armas o elementos respectivos a la Dirección General de Movilización Nacional, la que los destruirá. Transcurrido ese plazo sin haberse entregado el arma o los elementos, su posesión, porte o tenencia se considerarán ilegales y serán sancionados de conformidad a lo dispuesto en el artículo 9º de esta ley.
+Se impondrá una multa administrativa de 20 a 30 unidades tributarias mensuales y la cancelación del permiso, al poseedor autorizado de dichos elementos cuando, por su mera imprudencia o negligencia, éstos quedaren en poder de un menor de edad. El infractor sancionado tendrá cinco días hábiles para entregar las armas o elementos respectivos a la Dirección General de Movilización Nacional, la que los destruirá. Transcurrido ese plazo sin haberse entregado el arma o los elementos, su posesión, porte o tenencia se considerarán ilegales, y serán sancionados de conformidad a lo dispuesto en el artículo 9.
 
 Las sanciones dispuestas en este artículo son sin perjuicio de las que corresponda imponer al menor de edad mayor de catorce años, de conformidad con lo establecido en la ley Nº 20.084, por los delitos contemplados en la presente ley que cometiere con las armas de que ésta trata.
 
+#### Artículo 10
+
+B.- El que adultere, altere, borre o destruya el sistema de trazabilidad complementario de un arma de fuego o de municiones al que alude el inciso final del artículo 4 A, será sancionado con la pena de presidio menor en su grado medio.
+
 #### Artículo 11
 
-Los que teniendo el permiso para su posesión o tenencia, portaren o trasladaren armas de fuego de las señaladas en la letra b) del artículo 2º fuera de los lugares autorizados para su posesión o tenencia y sin alguno de los permisos establecidos en los artículos 5º y 6º serán sancionados con una multa administrativa de 7 a 11 unidades tributarias mensuales. En caso de reincidencia, la sanción será la cancelación del permiso. Cancelado el permiso, el sancionado tendrá cinco días hábiles para entregar las armas respectivas a la Dirección General de Movilización Nacional, la que las destruirá. Transcurrido ese plazo sin haberse entregado las armas, su posesión, porte o tenencia se considerarán ilegales y serán sancionados de conformidad a lo dispuesto en el artículo 9º de esta ley.
+Los que teniendo el permiso para su posesión o tenencia, portaren o trasladaren armas de fuego de las señaladas en la letra b) del artículo 2, municiones o cartuchos, fuera de los lugares autorizados para su posesión o tenencia y sin alguno de los permisos establecidos en los artículos 5 y 6, serán sancionados con una multa administrativa de 7 a 11 unidades tributarias mensuales y la cancelación del permiso. Cancelado el permiso, el infractor sancionado tendrá cinco días hábiles para entregar estos elementos a la Dirección General de Movilización Nacional, la que los destruirá. Transcurrido ese plazo sin haberse entregado las armas, municiones o cartuchos, su posesión, porte o tenencia se considerarán ilegales, y serán sancionados de conformidad a lo dispuesto en el artículo 9.
 
 #### Artículo 12°
 
-Los que cometieren los delitos sancionados en los artículos 9º y 10, con más de dos armas de fuego, sufrirán la pena superior en uno o dos grados a la señalada en dichos artículos.
+Los que cometieren los delitos sancionados en los artículos 9, 10, 13 y 14, con más de dos armas de fuego, sufrirán la pena superior en uno o dos grados a la señalada en dichos artículos.
 
 #### Artículo 13°
 
-Los que poseyeren o tuvieren alguna de las armas o elementos señalados en los incisos primero, segundo o tercero del artículo 3º serán sancionados con presidio menor en su grado máximo a presidio mayor en su grado mínimo.
+Los que poseyeren o tuvieren alguna de las armas o elementos señalados en los incisos primero o segundo del artículo 3º serán sancionados con presidio menor en su grado máximo a presidio mayor en su grado mínimo.
 
 Si dichas armas son material de uso bélico o aquellas señaladas en el inciso final del artículo 3º, la pena será de presidio mayor en su grado mínimo a medio.
-
-INCISO ELIMINADO.
 
 Los incisos anteriores no se aplicarán a quienes hayan sido autorizados en la forma y para los fines establecidos en el inciso primero del artículo 4°.
 
 #### Artículo 14º
 
-Los que portaren alguna de las armas o elementos señalados en los incisos primero, segundo o tercero del artículo 3º serán sancionados con presidio menor en su grado máximo a presidio mayor en su grado mínimo.
+Los que portaren alguna de las armas o elementos señalados en los incisos primero o segundo del artículo 3º serán sancionados con presidio menor en su grado máximo a presidio mayor en su grado mínimo.
 
 Si dichas armas son material de uso bélico o aquellas señaladas en el inciso final del artículo 3º, la pena será de presidio mayor en sus grados mínimo a medio.
 
-INCISO ELIMINADO.
-
 #### Artículo 14
 
-A.- Los que, teniendo las autorizaciones correspondientes, abandonaren armas o elementos sujetos al control de esta ley, incurrirán en la sanción administrativa de multa de 8 a 100 unidades tributarias mensuales, impuesta por la Dirección General de Movilización Nacional. En caso de reincidencia, la sanción será la cancelación del permiso. Las armas y elementos abandonados serán destruidos por la Dirección General de Movilización Nacional.
+A.- Los que, teniendo las autorizaciones correspondientes, abandonaren armas o elementos sujetos al control de esta ley, incurrirán en la sanción administrativa de multa de 8 a 100 unidades tributarias mensuales y la cancelación del permiso. Las armas y elementos abandonados serán destruidos por la Dirección General de Movilización Nacional.
 
-Se presumirá que existe abandono cuando no se haya comunicado a alguna de las autoridades indicadas en el artículo 4°, la pérdida o extravío de la especie dentro de los cinco días desde que se tuvo o pudo tenerse conocimiento de dicha pérdida o extravío. Si esta comunicación se hubiere efectuado ante Carabineros de Chile o la Policía de Investigaciones de Chile, estas instituciones deberán darla a conocer oportunamente a las mencionadas autoridades.
+La misma sanción se impondrá a quienes, teniendo las autorizaciones correspondientes, no denunciaren en la forma prevista en el artículo 173 del Código Procesal Penal el robo o hurto de armas o elementos sujetos al control de esta ley, o no comunicaren a alguna de las autoridades indicadas en el inciso tercero del artículo 4 su pérdida o extravío dentro de las cuarenta y ocho horas siguientes del hecho, o del momento en que se tuvo o pudo tener conocimiento de su robo, hurto, pérdida o extravío.
+
+La sola constancia ante la autoridad no eximirá de la obligación de denuncia del robo o hurto, prevista en el inciso anterior.
 
 #### Artículo 14
 
 B.- Constituye circunstancia agravante de los delitos de que trata esta ley dotar las armas o municiones, que se posean o tengan, de dispositivos, implementos o características que tengan por finalidad hacerlas más eficaces, ocasionar más daño o facilitar la impunidad del causante.
 
+Si los implementos a que se refiere el inciso anterior fueren de aquellos señalados en las letras h), i) y j) del artículo 3, no se impondrá al delito el grado mínimo o el mínimum de la pena que correspondería sin esa circunstancia.
+
 #### Artículo 14
 
-C.- En los delitos previstos en los artículos 9º y 13º, constituye circunstancia eximente la entrega voluntaria de las armas o elementos a las autoridades señaladas en el artículo 1º, sin que haya mediado actuación policial, judicial o del Ministerio Público de ninguna especie.
+C.- En los delitos previstos en los artículos 9, 13 y 14, el tribunal podrá prescindir de toda pena si el imputado procede a la entrega voluntaria de las armas o elementos a las autoridades señaladas en el artículo 1º, sin que haya mediado actuación policial, judicial o del Ministerio Público de ninguna especie.
 
 El Ministerio de Defensa Nacional, a través de la Dirección General de Movilización Nacional, y el Ministerio del Interior y Seguridad Pública, por medio de la Subsecretaría de Prevención del Delito, podrán diseñar, ejecutar, evaluar y difundir programas de incentivo para la entrega voluntaria de armas o elementos señalados en los artículos 2º y 3º. Dicha entrega deberá realizarse a las autoridades indicadas en el artículo 1º. Estos programas podrán ejecutarse a través de la autoridad fiscalizadora, de otros servicios públicos o de particulares.
 
@@ -316,6 +382,12 @@ E.- El que, sin la competente autorización, accionare, activare o disparare alg
 
 La pena privativa de libertad dispuesta en el inciso anterior se impondrá en su máximo cuando las conductas ahí señaladas turbaren gravemente la tranquilidad pública o infundieren temor en la población.
 
+#### Artículo 14
+
+F.- Serán solidariamente responsables de los efectos civiles de aquellos ilícitos en que se hubieren utilizado sus armas de fuego, quienes las hubieren abandonado, no hubieren comunicado o denunciado oportunamente su extravío, robo o hurto, y quienes no hubieren realizado las declaraciones a las que hace referencia el inciso tercero del artículo 5.
+
+En el caso de las personas jurídicas, la responsabilidad solidaria se extenderá tanto a aquella como a su representante legal.
+
 #### Artículo 15°
 
 Sin perjuicio de la sanción corporal o pecuniaria, la sentencia respectiva dispondrá, en todo caso, el comiso de las especies cuyo control se dispone por la presente ley, debiendo ellas ser remitidas a Arsenales de Guerra o al Depósito Central de Armas de Carabineros de Chile, según corresponda.
@@ -330,7 +402,7 @@ La misma obligación tendrá respecto de las resoluciones, oficios y providencia
 
 La infracción a lo dispuesto en los incisos anteriores será sancionada con las penas establecidas en el inciso segundo del artículo 246 del Código Penal.
 
-Sin perjuicio de lo anterior y de las facultades de supervigilancia y control de las armas que corresponden al Ministerio encargado de la Defensa Nacional o a organismos de su dependencia, Carabineros de Chile y la Policía de Investigaciones de Chile estarán interconectados con la base de datos sobre inscripciones y registro de armas que debe mantener la Dirección General de Movilización Nacional. Sólo tendrán acceso a ella los funcionarios de las instituciones indicadas hasta los niveles de Oficiales Superiores y Prefectos. El reglamento fijará las normas con arreglo a las cuales se consultará dicha base de datos debiendo, en todo caso, registrarse dicha consulta y resguardarse la reserva de los antecedentes contenidos en aquélla.
+Sin perjuicio de lo anterior y de las facultades de supervigilancia y control de las armas que corresponden al Ministerio encargado de la Defensa Nacional o a organismos de su dependencia, Carabineros de Chile y la Policía de Investigaciones de Chile estarán interconectados con la base de datos sobre inscripciones y registro de armas que debe mantener la Dirección General de Movilización Nacional y con toda otra base de datos regulada reglamentariamente en virtud de esta ley, con exclusión de las referidas a los registros de armas de fuego de las instituciones del Estado. Sólo tendrán acceso a ellas los funcionarios designados por dichas instituciones, siempre que la función que cumplan así lo exija; los fiscales del Ministerio Público a cargo de una investigación penal en curso, o pertenecientes a una unidad del Sistema de Análisis Criminal y Focos Investigativos, y los funcionarios de la Unidad de Análisis Financiero que se designen al efecto. Deberá utilizarse la información consultada exclusivamente para los fines propios de la institución. El reglamento fijará las normas con arreglo a las cuales se consultarán dichas bases de datos a las que podrán acceder de manera permanente las instituciones antes señaladas. En todo caso, deberá registrarse dicha consulta y resguardarse la reserva de los antecedentes contenidos en aquélla.
 
 #### Artículo 17°
 
@@ -340,15 +412,27 @@ Inciso Segundo. DEROGADO
 
 #### Artículo 17
 
-A.- El empleado público que violare o consintiere en que otro violare la obligación de reserva de la información contenida en la base de datos a que se refiere el inciso final del artículo 16º, será sancionado con la pena de reclusión menor en su grado máximo a reclusión mayor en su grado mínimo y con la inhabilitación absoluta temporal en su grado medio a perpetua para ejercer cargos y oficios públicos.
+A.- El empleado público que violare o consintiere en que otro violare la obligación de reserva de la información contenida en las bases de datos a que se refiere el inciso final del artículo 16º, será sancionado con la pena de reclusión menor en su grado máximo a reclusión mayor en su grado mínimo y con la inhabilitación absoluta temporal en su grado medio a perpetua para ejercer cargos y oficios públicos.
 
-El funcionario que utilizare la información contenida en dicha base de datos en beneficio propio o ajeno, en perjuicio de alguna persona, autoridad u organismo, o para ejercer presiones o amenazas, será sancionado con la pena de reclusión mayor en sus grados mínimo a máximo y con la inhabilitación absoluta y perpetua para ejercer cargos públicos.
+El funcionario que utilizare la información contenida en dichas bases de datos en beneficio propio o ajeno, en perjuicio de alguna persona, autoridad u organismo, o para ejercer presiones o amenazas, será sancionado con la pena de reclusión mayor en sus grados mínimo a máximo y con la inhabilitación absoluta y perpetua para ejercer cargos públicos.
 
 #### Artículo 17
 
 B.- Las penas por los delitos sancionados en esta ley se impondrán sin perjuicio de las que correspondan por los delitos o cuasidelitos que se cometan empleando las armas o elementos señalados en las letras a), b), c), d) y e) del artículo 2º y en el artículo 3º, de conformidad con lo dispuesto en el artículo 74 del Código Penal.
 
 Para determinar la pena en los delitos previstos en los artículos 8º, 9º, 10, 13, 14 y 14 D, y en todos los casos en que se cometa un delito o cuasidelito empleando alguna de las armas o elementos mencionados en el inciso anterior, el tribunal no tomará en consideración lo dispuesto en los artículos 65 a 69 del Código Penal y, en su lugar, determinará su cuantía dentro de los límites de cada pena señalada por la ley al delito, en atención al número y entidad de circunstancias atenuantes y agravantes, y a la mayor o menor extensión del mal producido por el delito. En consecuencia, el tribunal no podrá imponer una pena que sea mayor o menor a la señalada por la ley al delito, salvo lo dispuesto en los artículos 51 a 54, 72, 73 y 103 del Código Penal, en la ley Nº20.084 y en las demás disposiciones de esta ley y de otras que otorguen a ciertas circunstancias el efecto de aumentar o rebajar dicha pena.
+
+#### Artículo 17
+
+C.- Será circunstancia atenuante especial de responsabilidad penal, y permitirá rebajar la pena hasta en dos grados, la cooperación eficaz que conduzca al esclarecimiento de hechos investigados que sean constitutivos de alguno de los delitos previstos en esta ley o permita la identificación de sus responsables; o sirva para prevenir o impedir la perpetración o consumación de otros delitos de igual o mayor gravedad contemplados en esta ley.
+
+Tratándose del delito contemplado en el artículo 8, la reducción de la pena podrá comprender hasta tres grados.
+
+Se entiende por cooperación eficaz el suministro de datos o informaciones precisas, verídicas y comprobables, que contribuyan necesariamente a los fines señalados en el inciso primero.
+
+El Ministerio Público deberá expresar, en la formalización de la investigación o en su escrito de acusación, si la cooperación prestada por el imputado ha sido eficaz a los fines señalados en el inciso primero.
+
+La reducción de pena se determinará con posterioridad a la individualización de la sanción según las reglas de los artículos 12, 14 B y 17 B, y se practicará a todas las penas impuestas en aplicación de dichas disposiciones.
 
 ## Título III
 
@@ -361,6 +445,16 @@ Los delitos contemplados en esta ley serán de competencia de los tribunales ord
 #### Artículo 19°
 
 DEROGADO
+
+#### Artículo 19
+
+A.- Siempre que se decrete una suspensión condicional del procedimiento en una investigación por los delitos contemplados en esta ley, una de las condiciones que se deberá imponer será la prohibición de inscribir armas de fuego y su tenencia, posesión o porte, así como sus municiones o cartuchos, mientras la causa se encontrare suspendida condicionalmente.
+
+La suspensión condicional en los delitos previstos en esta ley sólo procederá si el responsable ha cooperado eficazmente con la investigación en los términos del artículo 17 C, lo que deberá declarar expresamente el fiscal del Ministerio Público en la audiencia correspondiente.
+
+#### Artículo 19
+
+B.- Para la investigación de los delitos previstos en esta ley serán aplicables las técnicas especiales del Título II de la ley N° 20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas, así como las medidas de protección que establece el Párrafo 2° de su Título III.
 
 #### Artículo 20°
 
@@ -378,11 +472,43 @@ e) Derogada.
 
 > **Nota.** El artículo 5º transitorio de la Ley 20014, publicada el 13.05.2005, dispone que la derogación de las letras d) y e), dispuesta por la letra b) del Nº 21, de su artículo 1º, rige, para la Región Metropolitana, a contar de del 16 de junio de 2005, según lo dispone el artículo 4º transitorio de la LEY 19940, publicada el 15.10.1999, a la cual se remite la norma en referencia.
 
+## Título IV
+
+De los registros de armas de fuego de las instituciones del Estado
+
+#### Artículo 20
+
+A.- Cada una de las instituciones que compongan las Fuerzas Armadas y de Orden y Seguridad Pública, Gendarmería de Chile y la Dirección General de Aeronáutica Civil, deberá mantener un Registro de Armas de Fuego, y dispondrán de sistemas de trazabilidad de sus armas y municiones. Para estos efectos, deberán ser registrados los elementos señalados en los literales
+
+- **b)** y
+
+- **c)** del artículo 2 y aquellos del literal
+
+- **a)** del mismo artículo que el reglamento determine, tales como fusiles de asalto; fusiles y carabinas semiautomáticas de uso militar; revólveres y pistolas semiautomáticas de uso militar; ametralladoras ligeras, y metralletas incluidas las pistolas ametralladoras.
+
+Las instituciones mencionadas en el inciso anterior, de forma previa a la inscripción de sus armas en el registro señalado en el inciso precedente, deberán proceder a tomar muestras del efecto del disparo en los proyectiles y casquillos de balas o cartuchos, e incorporar la información a un sistema de identificación balística automatizada.
+
+Un reglamento dictado por el Ministerio del Interior y Seguridad Pública, y además suscrito por el Ministro de Defensa Nacional, establecerá la regulación de los registros indicados en el inciso primero.
+
+## Título V
+
+Del Plan Anual de Fiscalización de Armas de Fuego
+
+#### Artículo 20
+
+B.- La Dirección General de Movilización Nacional conjuntamente con las autoridades fiscalizadoras y las Fuerzas de Orden y Seguridad Pública deberá elaborar y proponer anualmente un plan de fiscalización de las armas de fuego sujetas al control de esta ley, para ser aplicado en el año inmediatamente siguiente. Dicho plan será sancionado por resolución exenta conjunta del Ministerio del Interior y Seguridad Pública y del Ministerio de Defensa Nacional, y tendrá carácter de reservado.
+
+El plan definirá la acción de fiscalización coordinada que realizarán las autoridades a que se refiere el artículo 1 y los funcionarios de las Fuerzas de Orden y Seguridad Pública, según la distribución territorial que se establezca en él, y considerará los registros de inscripción, transferencias, hurtos, robos, pérdidas, extravíos y abandonos, fallecimientos, resultados de fiscalizaciones previas y sanciones impuestas; los informes de ingreso de armas al país; cifras de delitos cometidos con armas de fuego y su georreferenciación, y cualquier otra información de utilidad de que disponga la Dirección General de Movilización Nacional, o que le suministren los organismos públicos dentro de su competencia para estos efectos.
+
+Dicho plan deberá contar con indicadores cualitativos y cuantitativos de cumplimiento a efectos de su evaluación y mejora continua. Deberá evacuarse un informe anual con sus resultados, el que será elaborado por la Dirección General de Movilización Nacional conjuntamente con las autoridades fiscalizadoras y las Fuerzas de Orden y Seguridad Pública, y remitido al Ministro del Interior y Seguridad Pública y al Ministro de Defensa Nacional.
+
 DISPOSICIONES COMPLEMENTARIAS
 
 #### Artículo 21°
 
-La Dirección General de Movilización Nacional deberá colocar avisos en las Comandancias de Guarnición, en las Prefecturas de Carabineros, en las Oficinas de Correos y Telégrafos y en las Municipalidades, en que se informe al público sobre las prohibiciones, permisos, autorizaciones e inscripciones a que se refiere esta ley. Además, difundirá las disposiciones de esta ley a través de los medios de comunicación, de acuerdo a sus disponibilidades presupuestarias.
+La Dirección General de Movilización Nacional deberá colocar avisos en las Comandancias de Guarnición, en las Prefecturas de Carabineros de Chile, en las brigadas o cuarteles de la Policía de Investigaciones de Chile, en las Oficinas de Correos y Telégrafos y en las Municipalidades, en que se informe al público sobre las prohibiciones, permisos, autorizaciones e inscripciones a que se refiere esta ley. Además, difundirá las disposiciones de esta ley a través de los medios de comunicación, de acuerdo a sus disponibilidades presupuestarias.
+
+Toda persona natural o jurídica autorizada para comercializar armas de fuego deberá colocar avisos en los lugares habilitados para la comercialización, que contengan las obligaciones que les corresponden a los usuarios de armas, de conformidad a esta ley y a su reglamento. La Dirección General de Movilización Nacional, mediante resolución exenta, que deberá estar disponible de forma permanente en su sitio web institucional, establecerá el contenido de los avisos.
 
 #### Artículo 22°
 
@@ -400,7 +526,9 @@ Las armas de fuego y demás elementos de que trata esta ley que se incautaren, r
 
 En todo caso, las armas y demás elementos de que trata esta ley, respecto de los cuales no se haya decretado su comiso, y cuya situación no se encuentre expresamente regulada en los incisos precedentes, serán destruidos transcurridos cinco años contados desde su depósito en Arsenales de Guerra o en el Depósito Central de Armas de Carabineros de Chile.
 
-Sin perjuicio de lo establecido en los incisos segundo y cuarto, las armas y demás elementos a que hacen referencia dichos incisos podrán destinarse al uso de las Fuerzas Armadas y las Fuerzas de Orden y Seguridad, si así se dispusiere mediante decreto supremo del Ministerio de Defensa Nacional y del Interior y Seguridad Pública. Para estos efectos, una Comisión de Material de Guerra, compuesta por personal técnico de las Fuerzas Armadas y Carabineros de Chile, designada por decreto supremo suscrito por los Ministros de Defensa Nacional y del Interior y Seguridad Pública, a proposición del Director General de Movilización Nacional y el General Director de Carabineros, respectivamente, propondrá el armamento y demás elementos sujetos a control que se destinarán a dicho uso.
+Con todo, previo a la destrucción de las armas de fuego de conformidad a este artículo, así como de aquellas entregadas a la autoridad voluntariamente, se procederá a tomar muestras del efecto del disparo en sus proyectiles y casquillos de balas o cartuchos para su incorporación al sistema de identificación balística automatizada correspondiente.
+
+Sin perjuicio de lo establecido en los incisos segundo y cuarto, las armas y demás elementos a que hacen referencia dichos incisos podrán destinarse al uso de las Fuerzas Armadas y las Fuerzas de Orden y Seguridad, si así se dispusiere mediante decreto supremo del Ministerio de Defensa Nacional y del Interior y Seguridad Pública. Para estos efectos, una Comisión de Material de Guerra, compuesta por personal técnico de las Fuerzas Armadas y de las Fuerzas de Orden y Seguridad Pública, designada por decreto supremo suscrito por los Ministros de Defensa Nacional y del Interior y Seguridad Pública, a proposición del Director General de Movilización Nacional, del General Director de Carabineros de Chile y del Director General de la Policía de Investigaciones de Chile, respectivamente, propondrá el armamento y demás elementos sujetos a control que se destinarán a dicho uso.
 
 #### Artículo 24°
 
