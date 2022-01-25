@@ -1,0 +1,9 @@
+NOTIFICACIÓN RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA DECLARACIÓN DE IMPACTO AMBIENTAL (DIA) "AMPLIACIÓN CENTRAL DE GENERACIÓN A GAS TENO", CUYO PROPONENTE ES "INNOVACIÓN ENERGÍA S.A."
+
+Con fecha 13 de enero de 2022 se dictó la resolución exenta digital Nº 20220700112 del Director Regional del SEA de la Región del Maule, que resolvió dar inicio al proceso de participación ciudadana en la evaluación ambiental de la DIA del proyecto "Ampliación Central de Generación a Gas Teno", cuyo proponente es "Innovación Energía S.A". El proyecto tiene por objetivo aumentar la capacidad de generación eléctrica actual de la Central Eléctrica a Gas Teno, desde 44,7 MW hasta 55 MW, empleando gas licuado de petróleo (GLP), mediante el aumento en la cantidad de motores, desde 26 hasta 31 unidades generadoras. Se pretende desarrollar en la Región del Maule, provincia de Curicó, comuna de Teno, específicamente a dos kilómetros hacia el este de la ciudad de Teno y a doce kilómetros al norte de la ciudad de Curicó, en un terreno de propiedad de la filial del Titular, al interior de la misma superficie ya intervenida.
+
+El plazo legal para efectuar observaciones al proyecto en la plataforma electrónica www.sea.gob.cl del Servicio de Evaluación Ambiental, en dependencias del Servicio de Evaluación Ambiental o por medio del formulario electrónico de ingreso a la oficina de partes, link https://www.sea.gob.cl/oficina-de-partes-virtual será de 20 días hábiles y se contará desde la fecha de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido a través de la plataforma electrónica del Servicio de Evaluación Ambiental (www.sea.gob.cl).-
+
+Patricio Carrasco Tapia, Director Regional (S) del Servicio de Evaluación Ambiental Región del Maule.
