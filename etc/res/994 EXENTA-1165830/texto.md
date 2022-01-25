@@ -104,6 +104,8 @@ a. La persona vive o ha estado a menos de un metro de distancia, sin mascarilla 
 
 b. La persona vive o ha estado a menos de un metro de distancia, sin mascarilla o sin el uso correcto de mascarilla, de un caso probable o de un caso confirmado asintomático entre los 2 días antes y hasta 7 días después de la toma de muestra de test PCR o antígeno para SARS-CoV-2, tomado en un centro de salud mandatado por la autoridad sanitaria.
 
+No podrá obstaculizarse la concurrencia de una persona que cumpla con las condiciones para ser calificado como persona en alerta COVID-19 señalados en este numeral, a un centro de salud mandatado por la autoridad sanitaria u otro tipo de establecimiento, sean móviles o no, para la toma de muestra de antígeno para SARS-CoV-2
+
 9. Definición de contacto estrecho. En el caso de brotes confirmados y priorizados por la autoridad sanitaria, luego de la investigación epidemiológica, dicha autoridad podrá calificar como contacto estrecho a aquella persona que haya estado expuesta a un caso confirmado o probable con COVID-19, entre 2 días antes del inicio de síntomas y 7 días después del inicio de síntomas del enfermo.
 
 En el caso de una persona que no presente síntomas, el contacto deberá haberse producido entre 2 días antes de la toma de muestra del test PCR o prueba de antígenos para SARS-CoV-2 y durante los 7 días siguientes a dicha toma de muestra.
