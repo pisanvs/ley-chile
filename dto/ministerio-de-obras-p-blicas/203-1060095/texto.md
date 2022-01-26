@@ -392,7 +392,7 @@ Por otra parte, dejará sin efecto los derechos de aprovechamiento constituidos 
 
 #### Artículo 35
 
-La Dirección General de Aguas podrá declarar zona de prohibición para nuevas explotaciones, en conformidad con lo dispuesto en el artículo 63 del Código de Aguas, cuando se hayan constituido derechos de aprovechamiento de aguas que comprometen toda la disponibilidad determinada por la Dirección General de Aguas para la constitución de derechos de aprovechamiento tanto definitivos como provisionales.
+La Dirección General de Aguas podrá declarar zona de prohibición para nuevas explotaciones, en conformidad con lo dispuesto en el artículo 63 del Código de Aguas, cuando la demanda comprometida iguale o supere toda la disponibilidad determinada por la Dirección General de Aguas para la constitución de derechos de aprovechamiento tanto definitivos como provisionales.
 
 La Dirección General de Aguas publicará la resolución que declare zona de prohibición, por una sola vez en el Diario Oficial, los días primero o quince, o el primer día hábil siguiente si aquellos fueren feriados.
 
@@ -600,7 +600,7 @@ Corresponderá a la Dirección General de Aguas la calificación de las solicitu
 
 Para todos los efectos del presente Reglamento, se entenderá por:
 
-a) Demanda comprometida: Es la suma de los caudales de agua aprovechables por titulares de derechos de aprovechamiento constituidos o reconocidos y de derechos susceptibles de ser constituidos conforme a los artículos 3º, 4º y 6º transitorios de la ley 20.017.
+a) Demanda comprometida: Es la suma de los caudales de agua aprovechables por titulares de derechos de aprovechamiento constituidos o reconocidos y de derechos susceptibles de ser constituidos conforme a los artículos 147 bis inciso 3º del Código de Aguas y 3º, 4º y 6º transitorios de la ley 20.017.
 
 b) Interacción o interrelación: Conexión hidráulica entre dos fuentes de agua en régimen natural.
 
