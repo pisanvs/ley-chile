@@ -108,7 +108,11 @@ En este sentido, de presentarse dicho acuerdo por escrito, no será exigible baj
 
 7. Los recursos dispuestos para efectuar las asignaciones de subsidio mediante la facultad delegada en el resuelvo 6 precedente, serán los siguientes:
 
+.
+
 8. Las selecciones correspondientes a los llamados especiales autorizados por la presente resolución deberán efectuarse según lo dispuesto en el siguiente cuadro:
+
+.
 
 (*) Si las regiones lo estiman conveniente, podrán adicionar un nuevo cierre de selección, siempre respetando como fecha máxima la que se indica en el cuadro precedente. Las regiones que adicionen una nueva selección deberán informar por oficio las fechas a este Ministerio.
 
