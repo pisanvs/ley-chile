@@ -82,6 +82,8 @@ En este sentido, de presentarse dicho acuerdo por escrito, no será exigible baj
 
 16. Establézcase la distribución regional de recursos destinados a la selección de Condominios de viviendas, conforme lo dispuesto en el Capítulo III del DS N° 27, del año 2016, de acuerdo al siguiente cuadro:
 
+.
+
 En caso que, en alguna de las líneas de demanda antes individualizadas, el total de las postulaciones sean por un monto inferior a lo establecido en el cuadro anterior, los recursos restantes serán reasignados de manera automática a la línea de mayor demanda.
 
 17. En atención a lo dispuesto en el artículo 27 del DS N° 27 (V. y U.), de 2016, y el resuelvo 1 romano viii letra a) de la Res. Ex. N° 353, de 19 de marzo de 2021, se establece que en el proceso de Habilitación de las postulaciones se podrá definir una lista de espera de proyectos. En ese sentido, el monto total de financiamiento a subsidiar para proyectos en lista de espera, será al menos equivalente al 20% de los recursos disponibles para la región.
