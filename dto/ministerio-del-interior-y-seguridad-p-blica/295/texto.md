@@ -38,7 +38,7 @@ Dispóngase el cierre para el tránsito de personas, de todos los lugares habili
 
 De manera excepcional se permitirá el ingreso de extranjeros no residentes en el país, que cuenten con esquema completo de vacunación o que sean menores de 6 años, y cumplan con todos los requisitos señalados en la normativa sanitaria vigente, a través de los siguientes lugares habilitados:
 
-1. Aeropuertos Arturo Merino Benítez en la ciudad de Santiago, Diego de Aracena en la ciudad de Iquique, Andrés Sabella en la ciudad de Antofagasta y Presidente Carlos Ibáñez del Campo en la ciudad de Punta Arenas, y
+1. Aeropuertos Arturo Merino Benítez en la ciudad de Santiago, Diego de Aracena en la ciudad de Iquique, Andrés Sabella en la ciudad de Antofagasta y Presidente Carlos Ibáñez del Campo en la ciudad de Punta Arenas,
 
 2. Puertos habilitados para tales efectos.
 
@@ -100,27 +100,15 @@ Los bienes y las personas señaladas en el inciso precedente deberán observar l
 
 #### Artículo cuarto
 
-No obstante lo dispuesto en el artículo primero, dispóngase la prohibición de entrada al territorio nacional de los extranjeros no residentes de manera regular que hayan estado durante los últimos 14 días en alguno de los siguientes países:
-
-- Sudáfrica;
-
-- Zimbabwe;
-
-- Namibia;
-
-- Botswana;
-
-- Lesoto;
-
-- Eswatini, o
-
-- Mozambique.
+Eliminado.
 
 #### Artículo quinto
 
 Las medidas dispuestas en este decreto regirán a contar de las 00:00 horas del 1 de diciembre de 2021 y hasta el 31 de diciembre de 2021, periodo que podrá ser modificado en atención a la evolución que experimente el brote de nuevo coronavirus (2019-NCOV), en el territorio nacional.
 
 > **Nota.** El artículo segundo del Decreto 320, Interior, publicado el 31.12.2021, dispone extender hasta el 31 de enero de 2022 la vigencia del presente decreto. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
+
+> **Nota.** NOTA 1 El artículo segundo del Decreto 21, Interior, publicado el 31.01.2022, dispone extender hasta el 28 de febrero de 2022 la vigencia del presente decreto. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
 
 #### Artículo sexto
 
