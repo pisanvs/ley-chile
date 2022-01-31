@@ -80,7 +80,7 @@ Los proyectos deberán mantener todas las condiciones técnicas y de diseño pre
 
 14. Si producto de la tramitación municipal del proyecto o de un error en la información ingresada al sistema informático Rukan, hubiere que efectuar ajustes que impliquen una reducción o aumento en la cantidad de viviendas que no superen el 10% del total aprobado, no se requerirá modificar la presente resolución exenta y solo será necesaria la modificación del convenio correspondiente.
 
-15. Los montos asignados mediante la presente resolución exenta, ascendentes a 4.310.207 Unidades de Fomento, se imputarán a los recursos autorizados, para el año 2021, del Programa de Integración Social y Territorial.
+15. Los montos asignados mediante la presente resolución exenta, ascendentes a 4.417.346 Unidades de Fomento, se imputarán a los recursos autorizados, para el año 2021, del Programa de Integración Social y Territorial.
 
 Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
@@ -117,3 +117,5 @@ REGIONES DE O'HIGGINS, MAULE, ÑUBLE, BIOBÍO, LA ARAUCANÍA, LOS RÍOS, LOS LAG
 LLAMADO A CONCURSO 2021 DS Nº 19 (V. y U.), DE 2016
 
 ORDENADOS POR REGIÓN
+
+> **Nota.** NOTA 1 El numeral 3° de la resolución 101 exenta, Vivienda, publicada el 29.01.2022, modificó las nóminas de proyectos seleccionados aprobadas mediante la presente norma, en el sentido de eliminar, por renuncia de su Entidad Desarrolladora, los proyectos que indica.
