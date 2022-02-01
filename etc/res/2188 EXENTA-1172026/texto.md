@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.188, del 21 de diciembre de 2021, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Francisco Ramírez 153, comuna de Chillán, Rol de Avalúo Nº 00494-00019, de aparente dominio de Riquelme Saldívar María Alejandr Y. La parte afecta a expropiación parcial de terreno es de 11,675 m2 y total de 54,665 m2 de edificación y cuyos linderos particulares, enmarcados en el plano S16R-186, para el proyecto "Mejoramiento Diego Portales-Francisco Ramírez Chillan, comuna de Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, Arquitecto don Andrés Javier Tobar Beluzan y por el Ingeniero Civil Industrial don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación en la suma de $27.859.489.-
+
+Director Serviu Región de Ñuble.
