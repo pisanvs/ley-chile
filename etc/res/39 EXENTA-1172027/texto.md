@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.203, del 23 de diciembre de 2021, Serviu Región de Ñuble, la cual fue rectificada por la resolución exenta Nº 39 de fecha 13 de enero de 2022, se ordenó expropiación de inmueble ubicado en Huambalí 719, El Roble, comuna de Chillán, Rol de Avalúo Nº 01776-00004, de aparente dominio de Figueroa Albornoz Luis Alejandro. La parte afecta a expropiación parcial de terreno es de 32,80 m2 y total de edificación 40,16 m2 cuyos linderos particulares, enmarcados en el plano S16R-081, para el proyecto "Mejoramiento Av. Huambalí, comuna de Chillán, Provincia de Diguillín, Región de Ñuble", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, Ingeniero Constructor doña Lorena Elizabeth Gajardo Alarcón y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación en la suma de $27.834.275.-
+
+Director Serviu Región de Ñuble.
