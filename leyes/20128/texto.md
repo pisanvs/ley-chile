@@ -42,7 +42,7 @@ La Ley de Presupuestos deberá incluir anualmente el ítem correspondiente al Pr
 
 #### Artículo 5°
 
-Créase un Fondo de Reserva de Pensiones, en adelante "el Fondo de Reserva", destinado a complementar el financiamiento de obligaciones fiscales derivadas de la pensión básica solidaria de vejez, la pensión básica solidaria de invalidez, el aporte previsional solidario de vejez y el aporte previsional solidario de invalidez.
+Créase un Fondo de Reserva de Pensiones, en adelante "el Fondo de Reserva", destinado a complementar el financiamiento de obligaciones fiscales derivadas de la Pensión Garantizada Universal, la pensión básica solidaria de invalidez y el aporte previsional solidario de invalidez.
 
 #### Artículo 6°
 
@@ -60,21 +60,23 @@ c) Con los demás aportes que establezca la ley.
 
 Tratándose del aporte a que se refiere la letra a), éste deberá efectuarse sólo hasta el año en que los recursos acumulados en el Fondo de Reserva alcancen una cantidad equivalente a 900.000.000 de unidades de fomento. Una vez alcanzada esa cantidad se entenderá cumplida la obligación señalada, por lo que no procederá efectuar ningún aporte por concepto de esta letra.
 
+> **Nota.** El artículo cuarto de la Ley 21225, publicada el 02.04.2020, suspende la aplicación de lo dispuesto en la letra a) del presente artículo durante los años 2020 y 2021.
+
 #### Artículo 7°
 
 Sin perjuicio de lo dispuesto en el artículo 9°, los recursos del Fondo de Reserva tendrán por objeto exclusivo complementar el pago de las obligaciones a que se refiere el artículo 5° y sólo podrán ser utilizados para este objeto una vez transcurridos diez años desde la fecha de entrada en vigencia de esta ley.
 
-El Fondo de Reserva se extinguirá de pleno derecho si, habiendo transcurrido quince años a contar del año de entrada en vigencia de esta ley, los giros a efectuarse en un año calendario no superen el cinco por ciento de la suma del gasto en pensión básica solidaria de vejez, pensión básica solidaria de invalidez, aporte previsional solidario de vejez y aporte previsional solidario de invalidez consultado en la Ley de Presupuestos de dicho año.
+El Fondo de Reserva se extinguirá de pleno derecho si, habiendo transcurrido quince años a contar del año de entrada en vigencia de esta ley, los giros a efectuarse en un año calendario no superen el cinco por ciento de la suma del gasto en Pensión Garantizada Universal, pensión básica solidaria de invalidez y aporte previsional solidario de invalidez consultado en la Ley de Presupuestos de dicho año.
 
 Habiéndose extinguido el Fondo de Reserva en el caso indicado en el inciso anterior, deberá girarse en tal oportunidad el saldo existente en éste para el cumplimiento de su finalidad. Cualquier excedente que resulte luego de haber dado cumplimiento a lo dispuesto en este inciso, deberá enterarse al Fondo a que se refiere el artículo 10, mediante decreto supremo expedido por el Ministerio de Hacienda.
 
 Mediante reglamento dictado por el Ministerio de Hacienda, se establecerán los mecanismos, procedimientos, modalidades y demás normas necesarias para la aplicación de los recursos del Fondo de Reserva.
 
-El Ministerio de Hacienda deberá encargar cada tres años, a personas naturales o jurídicas u organismos públicos, la realización de un estudio actuarial que permita evaluar la sustentabilidad del Fondo de Reserva. Asimismo, este estudio deberá realizarse cada vez que se proponga una modificación al monto correspondiente a la pensión básica solidaria de vejez, pensión básica solidaria de invalidez, aporte previsional solidario de vejez y aporte previsional solidario de invalidez, exceptuando los reajustes automáticos a que estos beneficios estén sujetos de conformidad a las normas que los rigen. El resultado de estos estudios deberá formar parte de los antecedentes a que se refiere el artículo 14 de la ley N° 18.918, Orgánica Constitucional del Congreso Nacional.
+El Ministerio de Hacienda deberá encargar cada tres años, a personas naturales o jurídicas u organismos públicos, la realización de un estudio actuarial que permita evaluar la sustentabilidad del Fondo de Reserva. Asimismo, este estudio deberá realizarse cada vez que se proponga una modificación al monto correspondiente a la Pensión Garantizada Universal, pensión básica solidaria de invalidez y aporte previsional solidario de invalidez, exceptuando los reajustes automáticos a que estos beneficios estén sujetos de conformidad a las normas que los rigen. El resultado de estos estudios deberá formar parte de los antecedentes a que se refiere el artículo 14 de la ley N° 18.918, Orgánica Constitucional del Congreso Nacional.
 
 #### Artículo 8°
 
-El monto de los recursos del Fondo de Reserva que podrá ser utilizado anualmente, no deberá ser superior a un tercio de la diferencia producida entre el gasto total que corresponda efectuar en el año respectivo por concepto del pago de las obligaciones a que se refiere el artículo 5° y el gasto total efectuado por dicho concepto en el año 2008, debiendo este último actualizarse anualmente, de acuerdo a la variación que experimente el Indice de Precios al Consumidor.
+El monto de los recursos del Fondo de Reserva que podrá ser utilizado anualmente, no deberá ser superior a un 0,1% del Producto Interno Bruto del año anterior.
 
 #### Artículo 9°
 

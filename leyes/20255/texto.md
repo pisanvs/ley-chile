@@ -18,13 +18,13 @@ Definiciones
 
 #### Artículo 1°
 
-Créase un sistema de pensiones solidarias de vejez e invalidez, en adelante, "sistema solidario", complementario del sistema de pensiones a que se refiere el decreto ley N° 3.500, de 1980, en la forma y condiciones que el presente Título establece, el que será financiado con recursos del Estado. Este sistema solidario otorgará beneficios de pensiones básicas solidarias de vejez e invalidez y aportes previsionales solidarios de vejez e invalidez.
+Créase un sistema de pensiones solidarias de invalidez, en adelante, "sistema solidario", complementario del sistema de pensiones a que se refiere el decreto ley N° 3.500, de 1980, en la forma y condiciones que el presente Título establece, el que será financiado con recursos del Estado. Este sistema solidario otorgará beneficios de pensiones básicas solidarias de invalidez y aportes previsionales solidarios de invalidez.
 
 #### Artículo 2°
 
 Para los efectos de la presente ley, los conceptos que se indican a continuación tendrán los significados siguientes:
 
-a) Pensión básica solidaria de vejez, es aquella a la que podrán acceder las personas que cumplan con los requisitos establecidos en el artículo 3° de esta ley.
+a) Eliminada.
 
 b) Pensión básica solidaria de invalidez, es aquella a la que podrán acceder las personas que cumplan con los requisitos establecidos en el artículo 16 de esta ley.
 
@@ -32,9 +32,9 @@ c) Pensión base, aquella que resulte de sumar la pensión autofinanciada de ref
 
 d) Pensión máxima con aporte solidario, es aquel valor sobre el cual la pensión base no tiene aporte previsional solidario de vejez.
 
-e) Factor de ajuste, corresponderá al valor que se obtenga de dividir el monto de la pensión básica solidaria de vejez por el valor de la pensión máxima con aporte solidario.
+e) Eliminada.
 
-f) Complemento solidario para determinar el aporte previsional solidario de vejez, es la cantidad que resulte de restar de la pensión básica solidaria de vejez, el producto obtenido de multiplicar el factor de ajuste por la pensión base.
+f) Eliminada.
 
 g) Pensión autofinanciada de referencia para determinar la pensión base, es aquella que se calculará como una renta vitalicia inmediata del decreto ley N° 3.500, de 1980, sin condiciones especiales de cobertura, considerando la edad, el grupo familiar y el total del saldo acumulado en la cuenta de capitalización individual, que el beneficiario tenga a la fecha de pensionarse por vejez o invalidez de acuerdo al referido decreto ley, incluida, cuando corresponda, la o las bonificaciones establecidas en el artículo 74 más el interés real que haya devengado a dicha fecha. Para este cálculo se utilizará la tasa de interés promedio implícita en las rentas vitalicias de vejez, otorgadas de conformidad al decreto ley N° 3.500, de 1980, en los últimos seis meses inmediatamente anteriores a aquel en que el beneficiario se haya pensionado por vejez.
 
@@ -42,11 +42,11 @@ En el saldo señalado en el inciso anterior, no se incluirán las cotizaciones v
 
 El monto de la pensión autofinanciada de referencia se expresará en unidades de fomento al valor que tenga a la fecha en que el beneficiario se pensione por vejez.
 
-Con todo, el recálculo del complemento solidario y de la pensión final, se realizará en la misma oportunidad en que se reajuste la pensión básica solidaria de vejez o la pensión máxima con aporte solidario. De igual modo, se recalculará el complemento solidario y la pensión base cuando el beneficiario comience a percibir una nueva pensión de sobrevivencia de conformidad al decreto ley N° 3.500, de 1980, y cuando procediere otorgar una pensión de sobrevivencia a un beneficiario de aquellos establecidos en el artículo 5° del citado cuerpo legal, que hubiese adquirido dicha calidad en forma posterior a la fecha del cálculo original.
+Con todo, el recálculo del complemento solidario y de la pensión final, se realizará en la misma oportunidad en que se reajuste o incremente la pensión básica solidaria de vejez o la pensión máxima con aporte solidario. De igual modo, se recalculará el complemento solidario y la pensión base cuando el beneficiario comience a percibir una nueva pensión de sobrevivencia de conformidad al decreto ley N° 3.500, de 1980, y cuando procediere otorgar una pensión de sobrevivencia a un beneficiario de aquellos establecidos en el artículo 5° del citado cuerpo legal, que hubiese adquirido dicha calidad en forma posterior a la fecha del cálculo original.
 
-h) Pensión final, corresponde a la suma de la pensión base y el complemento solidario, a que se refiere el artículo 10 de la presente ley.
+h) Eliminada.
 
-i) Aporte previsional solidario de vejez, es el beneficio a que se refiere el Párrafo tercero del presente Título.
+i) Eliminada.
 
 j) Aporte previsional solidario de invalidez, es el beneficio a que se refiere el Párrafo quinto del presente Título.
 
@@ -56,17 +56,11 @@ Pensión Básica Solidaria de Vejez
 
 #### Artículo 3°
 
-Serán beneficiarias de la pensión básica solidaria de vejez, las personas que no tengan derecho a pensión en algún régimen previsional y que reúnan los requisitos siguientes:
-
-a) Haber cumplido sesenta y cinco años de edad.
-
-b) Integrar un grupo familiar perteneciente al 60% más pobre de la población de Chile conforme a lo establecido en el artículo 32 de esta ley.
-
-c) Acreditar residencia en el territorio de la República de Chile por un lapso no inferior a veinte años continuos o discontinuos, contados desde que el peticionario haya cumplido veinte años de edad; y, en todo caso, por un lapso no inferior a cuatro años de residencia en los últimos cinco años inmediatamente anteriores a la fecha de presentación de la solicitud para acogerse a los beneficios de este Título.
+Derogado.
 
 #### Artículo 4°
 
-Para los efectos de la letra b) del artículo anterior, se entenderá que componen un grupo familiar el eventual beneficiario y las personas que tengan respecto de aquél las siguientes calidades:
+Para los efectos de la letra b) del artículo 16, se entenderá que componen un grupo familiar el eventual beneficiario y las personas que tengan respecto de aquél las siguientes calidades:
 
 a) Su cónyuge o conviviente civil;
 
@@ -92,21 +86,17 @@ Asimismo, para las personas comprendidas en la definición de exiliados, conteni
 
 Las excepciones establecidas en los incisos precedentes serán aplicables, cuando corresponda, a las solicitudes para acceder a los beneficios de este Título y a la bonificación por hijo para las mujeres establecida en el Título III de esta ley.
 
-No obstante lo dispuesto en la letra c) del artículo 3° de esta ley, para el acceso a pensión básica solidaria de vejez, el lapso no inferior a veinte años continuos o discontinuos de residencia, establecido en dicha norma, se computará desde la fecha de nacimiento del peticionario, en el caso de chilenos que carezcan de recursos conforme a los mismos términos establecidos en el artículo 31 de la presente ley.
-
 #### Artículo 6°
 
-Para acceder a la pensión básica solidaria de vejez, las personas deberán presentar la correspondiente solicitud en el Instituto de Previsión Social, a partir del cumplimiento de la edad señalada en la letra a) del artículo 3° de esta ley.
+Derogado.
 
 #### Artículo 7°
 
-El monto de la pensión básica solidaria de vejez será, a contar del 1 de julio de 2009, de $75.000. Se devengará a contar de la fecha de la presentación de la solicitud señalada en el artículo anterior y será incompatible con cualquier otra pensión de algún régimen previsional.
+Derogado.
 
 #### Artículo 8°
 
-La pensión básica solidaria de vejez se reajustará automáticamente en el cien por ciento de la variación que experimente el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas, entre el mes anterior al último reajuste concedido y el mes en que dicha variación alcance o supere el diez por ciento.
-
-Con todo, si transcurren doce meses desde el último reajuste sin que la variación del referido índice alcance el diez por ciento, ella se reajustará en el porcentaje de variación que aquél hubiere experimentado en dicho período, en cuyo caso este último reajuste sustituirá al anteriormente indicado. El nuevo reajuste que corresponde aplicar, regirá a contar del primer día del mes siguiente a aquel en que se alcance la citada variación o se cumpla el periodo señalado, según el caso.
+Derogado
 
 Párrafo tercero
 
@@ -114,57 +104,35 @@ Aporte Previsional Solidario de Vejez
 
 #### Artículo 9°
 
-Serán beneficiarias del aporte previsional solidario de vejez, las personas que sólo tengan derecho a una o más pensiones regidas por el decreto ley N° 3.500, de 1980, siempre que cumplan los requisitos establecidos en las letras a), b) y c) del artículo 3° de la presente ley y que el monto de su pensión base sea inferior al valor de la pensión máxima con aporte solidario.
+Derogado.
 
-Se entenderá cumplido el requisito de la letra c) del artículo 3° de la presente ley, respecto de las personas que registren veinte años o más de cotizaciones en uno o más de los sistemas de pensiones en Chile.
+#### Artículo 9º bis
 
-Lo dispuesto en los incisos precedentes será aplicable a las personas que tengan derecho a una pensión de sobrevivencia conforme a lo dispuesto en la ley N°16.744.
+Derogado.
 
 #### Artículo 10
 
-Para los beneficiarios señalados en el artículo anterior, cuya pensión base sea de un valor inferior o igual a la pensión básica solidaria de vejez, el monto del aporte previsional solidario de vejez ascenderá a la cantidad que resulte de restar de la pensión final, la pensión o suma de pensiones que perciba de conformidad al decreto ley N° 3.500, de 1980.
-
-Cuando el saldo de la cuenta de capitalización individual del afiliado no alcanzare a financiar doce meses de pensión final, la pensión bajo la modalidad de retiro programado se ajustará al monto de la pensión final.
+Derogado.
 
 #### Artículo 11
 
-Para los beneficiarios señalados en el artículo 9°, cuya pensión base sea de un valor superior a la pensión básica solidaria de vejez pero inferior a la pensión máxima con aporte solidario, el monto del aporte previsional solidario de vejez se determinará según se encuentre en alguna de las situaciones siguientes:
-
-a) Si percibe una pensión bajo la modalidad de renta vitalicia de acuerdo al decreto ley N° 3.500, de 1980, el monto del referido aporte ascenderá al valor del complemento solidario.
-
-b) Si percibe una pensión bajo la modalidad de retiro programado de acuerdo al decreto ley N° 3.500, de 1980, el valor del aporte previsional solidario de vejez ascenderá al monto del complemento solidario corregido por un factor actuarialmente justo, determinado de acuerdo a lo que establezca la Superintendencia de Pensiones en norma de carácter general. Dicha norma será dictada previa consulta a la Superintendencia de Valores y Seguros. El aporte previsional solidario de vejez no podrá ser inferior al monto necesario para que, sumado a la pensión o pensiones que el beneficiario perciba de acuerdo al mencionado decreto ley, financie el valor de la pensión básica solidaria de vejez. La aplicación del factor actuarialmente justo deberá producir como resultado que el valor presente de los desembolsos fiscales estimados para la trayectoria del respectivo aporte previsional en la modalidad de retiro programado, sea equivalente al que se hubiese obtenido en la modalidad de renta vitalicia. Este factor deberá calcularse al momento de la determinación de la pensión autofinanciada de referencia, utilizando la tasa de interés promedio implícita en las rentas vitalicias de vejez, otorgadas en conformidad al decreto ley Nº 3.500, de 1980, en los últimos seis meses inmediatamente anteriores a aquél en que el beneficiario se haya pensionado por vejez.
-
-Cuando el saldo de la cuenta de capitalización individual del afiliado no alcanzare a financiar doce meses de pensión básica solidaria de vejez, la pensión bajo la modalidad de retiro programado se ajustará al monto de dicha pensión solidaria.
-
-Las reglas de cálculo a que se refieren el artículo 10 y los incisos precedentes se establecerán en el momento de acceder al beneficio y no serán modificadas ante alguna variación en el monto de la pensión base o de la pensión básica solidaria de vejez, sin perjuicio de que dichas variaciones modificarán el monto resultante del aporte previsional solidario de vejez de acuerdo a la regla de cálculo correspondiente.
+Derogado.
 
 #### Artículo 12
 
-Las personas señaladas en el artículo 9° para acceder al aporte previsional solidario de vejez, deberán presentar la correspondiente solicitud a partir del cumplimiento de la edad establecida en la letra a) del artículo 3° de esta ley.
-
-El aporte previsional solidario de vejez, se devengará a contar de la fecha de presentación de la solicitud señalada en el inciso anterior, siempre que el peticionario se encuentre pensionado por vejez o reciba una pensión de sobrevivencia, regidas por el decreto ley N° 3.500, de 1980, o a contar de la obtención de dichas pensiones, si las hubiere obtenido con posterioridad a la presentación de la referida solicitud, y en ambos casos se pagará mensualmente.
+Derogado.
 
 #### Artículo 13
 
-El valor de la pensión máxima con aporte solidario será, a contar del 1 de julio de 2011, de doscientos cincuenta y cinco mil pesos y se reajustará en la forma dispuesta en el artículo 8° de esta ley.
+Derogado.
 
 #### Artículo 14
 
-No obstante lo establecido en la letra g) del artículo 2° de la presente ley, respecto de las personas que se pensionen en virtud de lo dispuesto en el artículo 68 del decreto ley N° 3.500, de 1980, la pensión autofinanciada de referencia para determinar la pensión base, será calculada como una renta vitalicia inmediata sin condiciones especiales de cobertura, considerando la edad y el grupo familiar, ambas a la fecha de cumplimiento de 60 años para las mujeres y 65 para los hombres, y el total del saldo acumulado en la cuenta de capitalización individual que el beneficiario tenga a la fecha de pensionarse conforme al mencionado artículo 68, incluida, cuando corresponda, la o las bonificaciones establecidas en el artículo 74 de la presente ley más el interés real que haya devengado a la fecha en que cumpla sesenta años de edad. Para este cálculo se utilizará la tasa de interés promedio implícita en las rentas vitalicias de vejez, otorgadas de conformidad a dicho decreto ley, en los últimos seis meses inmediatamente anteriores a aquél en que el beneficiario se haya pensionado por vejez.
-
-El saldo señalado en el inciso anterior, se expresará en cuotas al valor que tenga a la fecha de obtención de la pensión y se le sumarán, si correspondiere, el monto de las cotizaciones previsionales que hubiere realizado con posterioridad a dicha fecha, expresadas también en cuotas. En dicho saldo, no se incluirán las cotizaciones voluntarias, los depósitos de ahorro previsional voluntario, los depósitos de ahorro previsional voluntario colectivo ni los depósitos convenidos del decreto ley N° 3.500, de 1980. Cuando el solicitante cumpla 60 años en el caso de las mujeres o 65 años en el de los hombres, la pensión autofinanciada de referencia se expresará en unidades de fomento al valor que tenga a la fecha de cumplimiento de dicha edad.
+Derogado.
 
 #### Artículo 15
 
-Las personas que se pensionen en virtud del artículo 68 bis del decreto ley N° 3.500, de 1980, que perciban una pensión o suma de pensiones otorgadas conforme a dicho decreto ley, de un monto inferior a la pensión básica solidaria de vejez, tendrán derecho a un complemento que permita alcanzar el valor de dicha pensión básica. Dicho complemento lo percibirán a la edad que resulte de restar a 65 el número de años de rebaja de edad legal para pensionarse conforme al citado artículo 68 bis y siempre que cumplan los requisitos señalados en las letras b) y c) del artículo 3° de la presente ley. Las personas beneficiarias del referido complemento lo percibirán hasta la misma fecha establecida en el inciso primero del artículo 23 y les serán aplicables los artículos 27 y 30, todos de esta ley.
-
-Los pensionados en virtud del artículo 68 bis del decreto ley N° 3.500, de 1980, cuando cumplan los requisitos establecidos en el artículo 9° de esta ley, tendrán derecho al aporte previsional solidario de vejez.
-
-Para los efectos del inciso anterior, la pensión autofinanciada de referencia para determinar el complemento solidario o la pensión final, se calculará como una renta vitalicia inmediata del decreto ley N° 3.500, de 1980, sin condiciones especiales de cobertura, considerando la edad, el grupo familiar y el total del saldo acumulado en la cuenta de capitalización individual, que el beneficiario tenga a la fecha de pensionarse por vejez de acuerdo al referido decreto ley, incluida, cuando corresponda, la o las bonificaciones establecidas en el artículo 74 de esta ley más el interés real que haya devengado a la misma fecha del saldo. Para este cálculo se utilizará la tasa de interés promedio implícita en las rentas vitalicias de vejez, otorgadas de conformidad al decreto ley N° 3.500, de 1980, en los últimos seis meses inmediatamente anteriores a aquél en que el beneficiario se haya pensionado por vejez.
-
-En el saldo señalado en el inciso anterior, no se incluirán las cotizaciones voluntarias, los depósitos de ahorro previsional voluntario, los depósitos de ahorro previsional voluntario colectivo ni los depósitos convenidos a que se refiere el decreto ley N° 3.500, de 1980.
-
-El monto de la pensión autofinanciada de referencia se expresará en unidades de fomento al valor que tenga a la fecha en que el beneficiario se pensione por vejez. Con todo, el recálculo del complemento solidario y de la pensión final, se realizará en la misma oportunidad en que se reajuste la pensión básica solidaria de vejez o la pensión máxima con aporte solidario.
+Derogado.
 
 ### Párrafo c — uarto
 
@@ -176,7 +144,7 @@ Serán beneficiarias de la pensión básica solidaria de invalidez, las personas
 
 a) Tener entre dieciocho años de edad y menos de sesenta y cinco años.
 
-b) Encontrarse en la situación señalada en la letra b) del artículo 3° de esta ley.
+b) Integrar un grupo familiar perteneciente al 80% más pobre de la población de Chile conforme a lo establecido en el artículo 32.
 
 c) Acreditar residencia en el territorio de la República de Chile por un lapso no inferior a cinco años en los últimos seis años inmediatamente anteriores a la fecha de presentación de la solicitud para acceder a la pensión básica solidaria de invalidez.
 
@@ -192,7 +160,7 @@ Para acceder a la pensión básica solidaria de invalidez, se deberá presentar 
 
 #### Artículo 19
 
-La pensión básica solidaria de invalidez total o parcial, será de igual valor al de la pensión básica solidaria de vejez, se devengará desde la fecha de presentación de la solicitud señalada en el artículo anterior y será incompatible con cualquier otra pensión de algún régimen previsional.
+La pensión básica solidaria de invalidez total o parcial, será de igual valor al de la Pensión Garantizada Universal, se devengará desde la fecha de presentación de la solicitud señalada en el artículo anterior y será incompatible con cualquier otra pensión de algún régimen previsional.
 
 Párrafo quinto
 
@@ -216,45 +184,27 @@ La solicitud para acceder al aporte señalado en el inciso anterior, podrá pres
 
 #### Artículo 22
 
-El beneficiario de la pensión básica solidaria de invalidez o del aporte previsional solidario de invalidez, que inicie o reinicie actividades laborales una vez devengado el respectivo beneficio, mantendrá su derecho a dicha pensión básica o aporte previsional solidario de invalidez en la forma que se indica a continuación:
-
-a) Al 100% de la pensión básica solidaria de invalidez o aporte previsional solidario de invalidez, para aquellos beneficiarios que perciben un ingreso laboral mensual igual o inferior a un ingreso mínimo mensual.
-
-b) Al resultado que se obtenga de multiplicar el monto de la pensión básica solidaria de invalidez o el aporte previsional solidario de invalidez, por la diferencia entre uno y el resultado de restar el ingreso laboral mensual que percibe el beneficiario menos un ingreso mínimo mensual dividido por el monto de dicho salario. Lo anterior, se aplicará a aquellos beneficiarios que perciban un ingreso laboral mensual superior a un ingreso mínimo mensual pero igual o inferior a dos veces el ingreso mínimo mensual.
-
-c) Las personas inválidas que perciban un ingreso laboral mensual superior a dos veces el ingreso mínimo mensual, dejarán de percibir la pensión básica solidaria de invalidez o el aporte previsional solidario de invalidez.
-
-Lo dispuesto en las letras b) y c) del inciso precedente, se aplicará con la siguiente gradualidad:
-
-a) Los beneficios se seguirán percibiendo en un cien por ciento, durante los dos primeros años en que el beneficiario perciba ingresos laborales, contados desde que hubiese iniciado o reiniciado actividades laborales una vez devengado el respectivo beneficio.
-
-b) Durante el tercer año en que el beneficiario perciba ingresos laborales, contado desde la misma fecha señalada en la letra anterior, sólo se aplicará el cincuenta por ciento de la reducción al beneficio a que aluden las letras b) y c) del inciso precedente, y sólo a contar del cuarto año se aplicará la totalidad de la reducción.
-
-Con todo, si el beneficiario deja de percibir ingresos laborales mensuales, el monto de dicha pensión o de su aporte previsional solidario de invalidez ascenderá al señalado en el artículo 19 ó 21 de esta ley, según corresponda, de acuerdo a lo que se establezca en el reglamento. En todo caso, los plazos establecidos en el inciso segundo se computarán nuevamente si el beneficiario deja de percibir ingresos por un plazo de dos años continuos.
-
-Las variaciones que experimente el ingreso laboral mensual que perciba el beneficiario harán variar el monto de la pensión básica solidaria de invalidez o de su aporte previsional solidario de invalidez de acuerdo a lo dispuesto en el presente artículo.
-
-Para los efectos de este artículo, se entenderá por ingresos laborales mensuales la suma de las remuneraciones y las rentas del trabajo que perciba el beneficiario de la pensión básica solidaria de invalidez o del aporte previsional solidario de invalidez.
+Derogado.
 
 #### Artículo 23
 
-El beneficiario de pensión básica solidaria de invalidez o del aporte previsional solidario de invalidez, en su caso, percibirá dicho beneficio hasta el último día del mes en que cumpla 65 años de edad. A contar de esa fecha podrá acceder a la pensión básica solidaria de vejez o al aporte previsional solidario de vejez, de acuerdo a las normas establecidas en los Párrafos segundo o tercero del presente Título.
+El beneficiario de pensión básica solidaria de invalidez o del aporte previsional solidario de invalidez, en su caso, percibirá dicho beneficio hasta el último día del mes en que cumpla 65 años de edad. A contar de esa fecha podrá acceder a la Pensión Garantizada Universal.
 
 Con todo, la pensión autofinanciada de referencia para el pensionado de invalidez en virtud del decreto ley N° 3.500, de 1980, se calculará de acuerdo a lo dispuesto en la letra g) del artículo 2° de esta ley. En este caso, el cálculo se hará a la fecha de obtención de la pensión de invalidez considerando la edad, grupo familiar y el saldo acumulado en la cuenta de capitalización individual a esa fecha e incluirá, cuando corresponda, la o las bonificaciones establecidas en el artículo 74 de la presente ley y los intereses que haya devengado a dicha fecha.
 
 #### Artículo 23 bis
 
-Sin perjuicio de lo señalado en el inciso primero del artículo 23, las personas que sean beneficiarias de la pensión básica solidaria de invalidez o del aporte previsional solidario de invalidez podrán, a contar de la fecha en que cumplan sesenta y cuatro años de edad, solicitar la pensión básica solidaria de vejez o el aporte previsional solidario de vejez, según corresponda. En este caso, la mencionada pensión de vejez o el aporte previsional solidario de vejez se devengarán a contar del día primero del mes siguiente al cumplimiento de los sesenta y cinco años de edad, siempre que los peticionarios reúnan los requisitos para ser beneficiarios de dicha pensión o aporte.
+Sin perjuicio de lo señalado en el inciso primero del artículo 23, las personas que sean beneficiarias de la pensión básica solidaria de invalidez o del aporte previsional solidario de invalidez podrán, a contar de la fecha en que cumplan sesenta y cuatro años de edad, solicitar la Pensión Garantizada Universal. En este caso, la mencionada Pensión Garantizada Universal se devengará a contar del día primero del mes siguiente al cumplimiento de los sesenta y cinco años de edad, siempre que los peticionarios reúnan los requisitos para ser beneficiarios de dicha pensión.
 
-Respecto de los beneficiarios de pensión básica solidaria de invalidez o del aporte previsional solidario de invalidez que no hayan solicitado las prestaciones de vejez en los plazos señalados en el inciso anterior y hasta el trimestre previo a que cumplan la edad señalada en la letra a) de artículo 3º, el Instituto de Previsión Social tramitará de oficio y según corresponda la solicitud de pensión básica solidaria de vejez o aporte previsional solidario de vejez, a que se refieren los artículos 6º y 12, respectivamente. Para lo anterior, el Instituto de Previsión Social utilizará los antecedentes del Sistema de Información de Datos Previsionales establecido en el artículo 56 y los que le proporcionen los organismos públicos y privados a que se refiere su inciso primero. En este caso, la mencionada pensión de vejez o el aporte previsional solidario de vejez, según corresponda, se devengarán en la oportunidad señalada en el inciso anterior, siempre que los peticionarios reúnan los requisitos para ser beneficiarios de dicha pensión o aporte.
+Respecto de los beneficiarios de pensión básica solidaria de invalidez o del aporte previsional solidario de invalidez que no hayan solicitado la Pensión Garantizada Universal en los plazos señalados en el inciso anterior y hasta el trimestre previo a que cumplan los 65 años de edad, el Instituto de Previsión Social tramitará de oficio y, si corresponde, la solicitud de Pensión Garantizada Universal. Para lo anterior, el Instituto de Previsión Social utilizará los antecedentes del Sistema de Información de Datos Previsionales establecido en el artículo 56 y los que le proporcionen los organismos públicos y privados a que se refiere su inciso primero. En este caso, la Pensión Garantizada Universal se devengará en la oportunidad señalada en el inciso anterior, siempre que los peticionarios reúnan los requisitos para ser beneficiarios de dicha pensión.
 
-Para las solicitudes que se tramiten de oficio, el Instituto de Previsión Social podrá requerir al titular de ella los antecedentes que sean necesarios para acreditar el cumplimiento de los requisitos para acceder a la pensión básica solidaria de vejez o al aporte previsional solidario de vejez, según corresponda. Si dentro del plazo de seis meses, contado desde que se efectuare el requerimiento, no se entregasen los antecedentes, la solicitud tramitada de oficio no producirá efecto alguno.
+Para las solicitudes que se tramiten de oficio, el Instituto de Previsión Social podrá requerir al titular de ella los antecedentes que sean necesarios para acreditar el cumplimiento de los requisitos para acceder a la Pensión Garantizada Universal. Si dentro del plazo de seis meses, contado desde que se efectuare el requerimiento, no se entregasen los antecedentes, la solicitud tramitada de oficio no producirá efecto alguno.
 
-Respecto de las personas que hayan percibido la pensión básica solidaria de invalidez o el aporte previsional solidario de invalidez durante un lapso de veinte años o más, sea en forma continua o discontinua, se entenderá cumplido el requisito de residencia establecido en la letra c) del artículo 3°.
+Respecto de las personas que hayan percibido la pensión básica solidaria de invalidez o el aporte previsional solidario de invalidez durante un lapso de veinte años o más, sea en forma continua o discontinua, se entenderá cumplido el requisito de residencia para acceder a la Pensión Garantizada Universal.
 
 Párrafo sexto
 
-De las normas comunes del Sistema Solidario de Vejez e Invalidez y otras disposiciones
+Otras disposiciones
 
 #### Artículo 24
 
@@ -268,7 +218,7 @@ Corresponderá a la Superintendencia de Pensiones, la supervigilancia y fiscaliz
 
 #### Artículo 26
 
-Las personas que gocen de la pensión básica solidaria de vejez o invalidez no causarán asignación familiar. No obstante, podrán ser beneficiarias de esta prestación en relación con sus descendientes que vivan a su cargo en los términos contemplados en el Sistema Único de Prestaciones Familiares.
+Las personas que gocen de la pensión básica solidaria de invalidez no causarán asignación familiar. No obstante, podrán ser beneficiarias de esta prestación en relación con sus descendientes que vivan a su cargo en los términos contemplados en el Sistema Único de Prestaciones Familiares.
 
 #### Artículo 27
 
@@ -298,7 +248,7 @@ En los casos señalados en las letras b) y c) del inciso precedente, el requerim
 
 #### Artículo 29
 
-El Instituto de Previsión Social podrá en cualquier oportunidad revisar el otorgamiento de los beneficios del sistema solidario de vejez e invalidez, y deberá ponerles término cuando haya concurrido alguna causal de extinción del beneficio.
+El Instituto de Previsión Social podrá en cualquier oportunidad revisar el otorgamiento de los beneficios del sistema solidario de invalidez, y deberá ponerles término cuando haya concurrido alguna causal de extinción del beneficio.
 
 Para efectos de la revisión del otorgamiento de los beneficios a que se refiere el inciso precedente, el Instituto de Previsión Social considerará el estado de cumplimiento de los requisitos correspondientes por parte del beneficiario, incluida la composición de su grupo familiar, a la fecha de la respectiva revisión.
 
@@ -316,11 +266,11 @@ Asimismo, no estarán obligados a realizar dicha cotización los pensionados se�
 
 #### Artículo 32
 
-Un reglamento dictado por el Ministerio del Trabajo y Previsión Social y suscrito por el Ministro de Hacienda, establecerá la forma de acreditar los requisitos establecidos para el otorgamiento de los beneficios del sistema solidario; determinará la forma en la cual se acreditará la composición del grupo familiar conforme al artículo 4° de esta ley; señalará el o los instrumentos técnicos de focalización y procedimientos que utilizará el Instituto de Previsión Social para determinar lo establecido en la letra b) del artículo 3° de la presente ley, considerando, a lo menos, el ingreso per cápita del grupo familiar. El o los instrumentos de focalización que se apliquen deberán ser los mismos para toda la población. Además, fijará el umbral de focalización que determinará quienes integran un grupo familiar perteneciente al 60 % más pobre de la población en Chile; la forma y circunstancias en que se harán efectivas las causales de extinción y suspensión de los beneficios del sistema solidario; los sistemas de control y evaluación que utilizará el Instituto de Previsión Social para excluir a los beneficiarios que no cumplan los requisitos establecidos en este Título, y las demás normas necesarias para la aplicación del Sistema de Pensiones Solidarias.
+Un reglamento dictado por el Ministerio del Trabajo y Previsión Social y suscrito por el Ministro de Hacienda, establecerá la forma de acreditar los requisitos establecidos para el otorgamiento de los beneficios del sistema solidario; determinará la forma en la cual se acreditará la composición del grupo familiar conforme al artículo 4° de esta ley; señalará el o los instrumentos técnicos de focalización y procedimientos que utilizará el Instituto de Previsión Social para determinar lo establecido en la letra b) del artículo 16 de la presente ley, considerando, a lo menos, el ingreso per cápita del grupo familiar. El o los instrumentos de focalización que se apliquen deberán ser los mismos para toda la población. Además, fijará el umbral de focalización que determinará quienes integran un grupo familiar perteneciente al 80 % más pobre de la población en Chile; la forma y circunstancias en que se harán efectivas las causales de extinción y suspensión de los beneficios del sistema solidario; los sistemas de control y evaluación que utilizará el Instituto de Previsión Social para excluir a los beneficiarios que no cumplan los requisitos establecidos en este Título, y las demás normas necesarias para la aplicación del Sistema de Pensiones Solidarias.
 
 #### Artículo 33
 
-A las personas pensionadas o imponentes de los regímenes de la Caja de Previsión de la Defensa Nacional y de la Dirección de Previsión de Carabineros de Chile, no les serán aplicables las disposiciones del sistema solidario, ni aun cuando además se encuentren afiliadas o afectas a otro régimen previsional.
+A las personas pensionadas o imponentes de los regímenes de la Caja de Previsión de la Defensa Nacional y de la Dirección de Previsión de Carabineros de Chile, no les serán aplicables las disposiciones del sistema solidario, ni de la Pensión Garantizada Universal, aun cuando además se encuentren afiliadas o afectas a otro régimen previsional.
 
 #### Artículo 34
 
@@ -344,17 +294,19 @@ Corresponderá a la Superintendencia de Seguridad Social la tuición y fiscaliza
 
 Las personas que sean beneficiarias del subsidio al que se refiere el artículo anterior podrán, a contar de la fecha en que cumplan diecisiete años de edad, solicitar la pensión básica solidaria de invalidez y la calificación de su invalidez, conforme a lo establecido en el artículo 17. En este caso, dicha pensión se devengará a partir de la fecha en que el beneficiario cumpla dieciocho años de edad, siempre que reúna los requisitos para que la pensión le sea otorgada.
 
+Con todo, en el caso de que las personas que sean beneficiarias del subsidio a que se refiere el artículo anterior, no soliciten la Pensión Básica Solidaria de Invalidez con anterioridad a la fecha en que cumplan 17 años y 6 meses de edad, el Instituto de Previsión Social deberá presentar la solicitud del referido beneficio solidario de invalidez, en representación del beneficiario. Las Comisiones Médicas de Invalidez establecidas en el artículo 11 del decreto ley N° 3.500, de 1980, se encontrarán facultadas para requerir de la respectiva Comisión de Medicina Preventiva e Invalidez, los antecedentes médicos necesarios para efectuar la calificación de invalidez del beneficiario, conforme a lo establecido en el artículo 17. La Superintendencia de Pensiones establecerá, mediante una norma de carácter general, la forma en que deberá tramitarse esta solicitud y el requerimiento de los antecedentes médicos.
+
 #### Artículo 36
 
-Los titulares de pensiones otorgadas conforme a las leyes N°s. 18.056; 19.123; 19.234; 19.980 y 19.992, podrán acceder a los beneficios del sistema solidario siempre que cumplan los requisitos establecidos en el presente Título, en lo que corresponde.
+Los titulares de pensiones otorgadas conforme a las leyes N°s. 18.056; 19.123; 19.234; 19.980 y 19.992, podrán acceder a la pensión básica solidaria de invalidez y a la Pensión Garantizada Universal, siempre que cumplan los requisitos correspondientes.
 
-Las personas que sólo perciban pensiones de las señaladas en el inciso anterior podrán acceder a un porcentaje de la pensión básica solidaria de vejez o invalidez si ésta última fuere de un monto superior al de la primera. El beneficio ascenderá al valor que resulte de restar de la referida pensión básica, la o las pensiones que perciba el pensionado de las leyes señaladas en el inciso anterior.
+Las personas que sólo perciban pensiones de las señaladas en el inciso anterior podrán acceder a un porcentaje de la Pensión Básica Solidaria de Invalidez o Pensión Garantizada Universal, si estas últimas fueren de un monto superior al de las primeras. El beneficio ascenderá al valor que resulte de restar de la referida pensión básica y Pensión Garantizada Universal, la o las pensiones que perciba el pensionado de las leyes señaladas en el inciso anterior.
 
-Las personas que perciban pensiones de las señaladas en el inciso primero podrán acceder al aporte previsional solidario de vejez, siempre que perciban pensión de vejez o sobrevivencia, del decreto ley N° 3.500, de 1980. En estos casos al monto del complemento solidario se le restará el valor de la o las pensiones señaladas en dicho inciso.
+Las personas que perciban pensiones de las señaladas en el inciso primero y además perciban pensión de vejez o sobrevivencia del decreto ley N° 3.500, de 1980, podrán acceder a la Pensión Garantizada Universal. En estos casos al monto de la Pensión Garantizada Universal se le restará el valor de la o las pensiones señaladas en dicho inciso.
 
-Las personas que perciban pensiones de las señaladas en el inciso primero y se encuentren percibiendo pensiones de algún régimen previsional administrado por el Instituto de Normalización Previsional, podrán acceder al aporte previsional solidario de vejez, el que ascenderá al monto que resulte de aplicar el artículo décimo transitorio de esta ley, deducidas las pensiones del inciso primero.
+Las personas que perciban pensiones de las señaladas en el inciso primero y se encuentren percibiendo pensiones de algún régimen previsional administrado por el Instituto de Normalización Previsional, podrán acceder a la Pensión Garantizada Universal deducidas las pensiones del inciso primero.
 
-Los abonos de tiempo a que se refiere el artículo 4° de la ley N° 19.234, se considerarán como tiempo cotizado para los efectos del inciso segundo del artículo 9° de la presente ley.
+Los abonos de tiempo a que se refiere el artículo 4° de la ley N° 19.234, se considerarán como tiempo cotizado para los efectos del cumplimiento del requisito de residencia para acceder a la Pensión Garantizada Universal.
 
 #### Artículo 37
 
@@ -564,7 +516,7 @@ La Superintendencia de Pensiones tendrá especialmente las siguientes funciones 
 
 1. Ejercer aquellas asignadas a la Superintendencia de Administradoras de Fondos de Pensiones en el decreto ley N° 3.500, de 1980, en el decreto con fuerza de ley N° 101, del mismo año, del Ministerio del Trabajo y Previsión Social y en otras normas legales y reglamentarias vigentes.
 
-2. Ejercer la supervigilancia y fiscalización del Sistema de Pensiones Solidarias que administra el Instituto de Previsión Social. Para tal efecto, la Superintendencia dictará las normas necesarias las que serán obligatorias para todas las instituciones o entidades que intervienen en el mencionado Sistema.
+2. Ejercer la supervigilancia y fiscalización del Sistema de Pensiones Solidarias y del otorgamiento y pago de la Pensión Garantizada Universal que administra el Instituto de Previsión Social. Para tal efecto, la Superintendencia dictará las normas necesarias las que serán obligatorias para todas las instituciones o entidades que intervienen en el mencionado Sistema.
 
 3. Fiscalizar al Instituto de Previsión Social respecto de los regímenes de prestaciones de las cajas de previsión y del Servicio de Seguro Social, que éste administre, con excepción de aquellas referidas a la ley N° 16.744.
 
@@ -585,6 +537,10 @@ La Superintendencia de Pensiones tendrá especialmente las siguientes funciones 
 11. Constituir y administrar el Registro de Asesores Previsionales.
 
 12. Asesorar al Ministerio del Trabajo y Previsión Social en la celebración y ejecución de convenios internacionales relativos a materias de previsión social, actuando como organismo de enlace de los mismos.
+
+13. Fiscalizar el funcionamiento de los servicios que el Instituto de Previsión Social hubiere subcontratado, cuando éstos sean relacionados con su giro en los ámbitos de competencia de la Superintendencia. Para efectos de lo anterior, podrá requerir el envío de información y documentación necesaria o bien tener acceso directamente a las dependencias y archivos del prestador de servicios.
+
+14. La Superintendencia de Pensiones podrá impartir instrucciones al Instituto de Previsión Social respecto del Sistema de Información de Datos Previsionales a que se refiere esta ley.
 
 #### Artículo 48
 
@@ -664,11 +620,15 @@ El Instituto de Previsión Social tendrá las siguientes funciones y atribucione
 
 9. Celebrar convenios con organismos públicos y privados para realizar tareas de apoyo en la tramitación e información respecto de los beneficios del Sistema Solidario.
 
+10. Conceder las Pensiones Garantizadas Universales, modificarlas, suspenderlas o cesarlas.
+
+11. Celebrar convenios con organismos públicos y privados para realizar tareas de apoyo en la tramitación, información y pago respecto de la Pensión Garantizada Universal.
+
 #### Artículo 56
 
 El Instituto de Previsión Social estará facultado para exigir tanto de los organismos públicos como de los organismos privados del ámbito previsional o que paguen pensiones de cualquier tipo, los datos personales y la información necesaria para el cumplimiento de sus funciones y realizar el tratamiento de los mencionados datos, especialmente para el establecimiento de un Sistema de Información de Datos Previsionales. Con todo, en el caso de los organismos privados la información que se requerirá deberá estar asociada al ámbito previsional.
 
-El Instituto deberá verificar el cumplimiento de los requisitos para acceder al sistema de pensiones solidarias, con todos los antecedentes que disponga el Sistema de Información de Datos Previsionales y los organismos públicos y privados a que se refiere el inciso precedente, los que estarán obligados a proporcionar los datos personales y antecedentes necesarios para dicho efecto.
+El Instituto deberá verificar el cumplimiento de los requisitos para acceder al sistema de pensiones solidarias y a las Pensiones Garantizadas Universales, con todos los antecedentes que disponga el Sistema de Información de Datos Previsionales y los organismos públicos y privados a que se refiere el inciso precedente, los que estarán obligados a proporcionar los datos personales y antecedentes necesarios para dicho efecto.
 
 Para los efectos antes señalados, no regirá lo establecido en el inciso segundo del artículo 35 del Código Tributario.
 
@@ -720,7 +680,7 @@ Los Centros de Atención Previsional Integral tendrán las siguientes funciones 
 
 2. Acoger a tramitación las solicitudes de otorgamiento de los beneficios que otorga el Instituto de Previsión Social e informar de su otorgamiento, modificación o cese.
 
-3. Informar y atender las consultas referidas al funcionamiento del Sistema de Pensiones establecido en el decreto ley N° 3.500, de 1980, y del Sistema de Pensiones Solidarias establecido en el Título I de esta ley. Asimismo, los Centros de Atención Previsional Integral estarán facultados para recibir y remitir a la Administradora de Fondos de Pensiones que corresponda para su tramitación, las reclamaciones que presenten los afiliados o sus beneficiarios de pensión de sobrevivencia.
+3. Informar y atender las consultas referidas al funcionamiento del Sistema de Pensiones establecido en el decreto ley N° 3.500, de 1980, al otorgamiento y pago de las Pensiones Garantizadas Universales y del Sistema de Pensiones Solidarias establecido en el Título I de esta ley. Asimismo, los Centros de Atención Previsional Integral estarán facultados para recibir y remitir a la Administradora de Fondos de Pensiones que corresponda para su tramitación, las reclamaciones que presenten los afiliados o sus beneficiarios de pensión de sobrevivencia.
 
 4. Emitir certificaciones relacionadas con los regímenes que administra el Instituto de Previsión Social y los beneficios que éste otorga.
 
@@ -782,15 +742,17 @@ Del Consejo Consultivo Previsional
 
 #### Artículo 66
 
-Créase un Consejo Consultivo Previsional cuya función será asesorar a los Ministros del Trabajo y Previsión Social y de Hacienda en las materias relacionadas con el Sistema de Pensiones Solidarias. En el cumplimiento de estas funciones deberá:
+Créase un Consejo Consultivo Previsional cuya función será asesorar a los Ministros del Trabajo y Previsión Social y de Hacienda en las materias relacionadas con el Sistema de Pensiones Solidarias y de la Pensión Garantizada Universal. En el cumplimiento de estas funciones deberá:
 
-a) Asesorar oportunamente sobre las propuestas de modificaciones legales de los parámetros del sistema solidario;
+a) Asesorar oportunamente sobre las propuestas de modificaciones legales de los parámetros del sistema solidario y Pensión Garantizada Universal;
 
 b) Asesorar oportunamente sobre las propuestas de modificaciones a los reglamentos que se emitan sobre esta materia;
 
 c) Asesorar acerca de los métodos, criterios y parámetros generales que incidan en el otorgamiento, revisión, suspensión y extinción de los beneficios, contenidos en los reglamentos a que se refiere el literal precedente, y
 
 d) Evacuar un informe anual que será remitido a los Ministros del Trabajo y Previsión Social y de Hacienda, y al Congreso Nacional, que contenga su opinión acerca del funcionamiento de la normativa a que se refieren los literales precedentes.
+
+Las opiniones, pronunciamientos, estudios y propuestas del Consejo deberán ser remitidos a los Ministros del Trabajo y Previsión Social y de Hacienda, y deberán ponerse a disposición del público en el plazo máximo de treinta días corridos después que se hayan entregado a las autoridades correspondientes, y no tendrán carácter vinculante.
 
 El Consejo será convocado por su Presidente a solicitud de cualquiera de los Ministros indicados en el inciso primero o de dos de sus integrantes. En todo caso, el Consejo podrá acordar la realización de sesiones periódicas y su frecuencia.
 
@@ -817,6 +779,14 @@ En todo caso, de no emitirse la opinión del Consejo dentro del plazo señalado 
 Para cumplir con sus labores, los consejeros deberán contar con todos los estudios y antecedentes técnicos que se tuvieron a la vista para tal efecto por parte de los Ministerios del Trabajo y Previsión Social y de Hacienda, los que deberán hacer entrega de los mismos.
 
 Sin perjuicio de lo anterior, la Subsecretaría de Previsión Social deberá poner a disposición del Consejo los antecedentes y estudios técnicos complementarios a los proporcionados de conformidad al inciso precedente, que requiera para el debido cumplimiento de sus funciones.
+
+El Consejo estará facultado para requerir a los organismos públicos la información necesaria para el cumplimiento de sus funciones, y éstos estarán obligados a entregarla, siempre que ella se encuentre disponible. El Consejo deberá mantener reserva de la información que reciba de dichos organismos. Con todo, accederá a los datos sólo de manera innominada. Asimismo, la información que reciba deberá ser de carácter indeterminado e indeterminable respecto a los datos personales. Entre otros, podrá requerir información a la Superintendencia de Pensiones, a la Superintendencia de Seguridad Social, a la Comisión para el Mercado Financiero, al Instituto de Previsión Social, a la Dirección de Presupuestos, al Ministerio de Desarrollo Social y Familia y al Instituto Nacional de Estadísticas. En este último caso deberá darse estricto cumplimiento, además, al secreto estadístico consagrado en el artículo 29 de la ley N° 17.374.
+
+El que infringiere la obligación de reserva establecida en el inciso anterior será sancionado con la pena de presidio menor en cualquiera de sus grados, sin perjuicio de la responsabilidad administrativa, cuando proceda.
+
+El Presidente del Consejo deberá implementar una política de tratamiento y uso de la información reservada.
+
+Para el desarrollo de sus funciones, el Consejo podrá invitar a expertos a dar testimonio y presentar su opinión ante los consejeros sobre las materias que éstos les requieran. Estas audiencias podrán ser públicas, según lo defina el propio Consejo.
 
 El Consejo contará con un Secretario nombrado por éste, el que será remunerado por la Subsecretaría de Previsión Social. El Secretario coordinará el funcionamiento del Consejo, realizando las labores que para tal efecto defina el reglamento.
 
@@ -872,7 +842,9 @@ Bonificación por hijo para las mujeres
 
 #### Artículo 74
 
-La mujer que cumpla con el requisito de permanencia establecido en la letra c) del artículo 3° de esta ley, y que sólo se encuentre afiliada al sistema de pensiones del decreto ley N° 3.500, de 1980, o sea beneficiaria de una pensión básica solidaria de vejez o que, sin ser afiliada a un régimen previsional perciba una pensión de sobrevivencia en los términos que se establece en los artículos siguientes, tendrá derecho, por cada hijo nacido vivo, a una bonificación en conformidad con las normas del presente Párrafo.
+La mujer que cumpla con el requisito de permanencia establecido en el inciso siguiente, y que sólo se encuentre afiliada al sistema de pensiones del decreto ley N° 3.500, de 1980, o sea beneficiaria de una Pensión Garantizada Universal, siempre que no esté afiliada a ningún régimen previsional, o que, sin ser afiliada a un régimen previsional perciba una pensión de sobrevivencia en los términos que se establece en los artículos siguientes, tendrá derecho, por cada hijo nacido vivo, a una bonificación en conformidad con las normas del presente Párrafo.
+
+Las beneficiarias deberán acreditar residencia en el territorio de la República de Chile por el lapso no inferior a veinte años continuos o discontinuos, contados desde que hayan cumplido veinte años de edad; y, en todo caso, por el lapso no inferior a cuatro años de residencia en los últimos cinco años inmediatamente anteriores a la fecha de presentación de la solicitud.
 
 #### Artículo 75
 
@@ -886,9 +858,9 @@ Para efectos de lo dispuesto en el inciso precedente, se aplicará una tasa de r
 
 A la mujer afiliada al sistema del decreto ley N° 3.500, de 1980, se le enterará la bonificación en la cuenta de capitalización individual en el mes siguiente a aquel en que cumpla los 65 años de edad.
 
-Respecto de la mujer que sea beneficiaria de pensión básica solidaria de vejez, el Instituto de Previsión Social le calculará una pensión autofinanciada de referencia, que se determinará según el procedimiento establecido en la letra g) del artículo 2° de la presente ley, considerando como su saldo la o las bonificaciones que por hijo nacido vivo le correspondan. El resultado de este cálculo incrementará su pensión básica solidaria.
+Respecto de la mujer que sea beneficiaria de Pensión Garantizada Universal, el Instituto de Previsión Social le calculará una pensión autofinanciada de referencia, que se determinará según el procedimiento establecido en la letra g) del artículo 2° de la presente ley, considerando como su saldo la o las bonificaciones que por hijo nacido vivo le correspondan. El resultado de este cálculo incrementará su Pensión Garantizada Universal.
 
-En el caso de una mujer que perciba una pensión de sobrevivencia, que se origine del sistema del decreto ley N° 3.500, de 1980, o que sea otorgada por el Instituto de Normalización Previsional, sin ser adicionalmente afiliada a cualquier régimen previsional, se procederá a incorporar la o las bonificaciones, en la misma forma indicada en el inciso precedente. En este caso, el monto resultante se sumará al aporte previsional solidario que le corresponda.
+En el caso de una mujer que perciba una pensión de sobrevivencia, que se origine del sistema del decreto ley N° 3.500, de 1980, o que sea otorgada por el Instituto de Normalización Previsional, sin ser adicionalmente afiliada a cualquier régimen previsional, se procederá a incorporar la o las bonificaciones, en la misma forma indicada en el inciso precedente. En este caso, el monto resultante se sumará a la Pensión Garantizada Universal que le corresponda.
 
 #### Artículo 77
 
@@ -2866,7 +2838,7 @@ Deróganse a contar de la fecha de la entrada en vigencia del Título I de la pr
 
 Las personas que a la fecha de entrada en vigencia del Título I de la presente ley perciban pensión mínima de vejez o invalidez con garantía estatal del Título VII del decreto ley N°3.500, de 1980, continuarán percibiendo dicha pensión garantizada. Sin embargo, podrán ejercer el derecho de opción a que se refiere el inciso final, en las mismas condiciones.
 
-Las personas que, a la fecha de la entrada en vigencia del Título I de la presente ley, tengan cincuenta años de edad o más y se encuentren afiliadas al sistema de pensiones establecido en el decreto ley N° 3.500, de 1980, podrán acceder a las pensiones mínimas de vejez e invalidez garantizadas según lo dispuesto en el Título VII de ese cuerpo legal, vigente antes de dicha fecha. Sin embargo, en cualquier época podrán optar por el sistema de pensiones solidarias establecido en la presente ley, de conformidad a las normas que le sean aplicables. Dicha opción podrá ejercerse por una sola vez.
+Las personas que, a la fecha de la entrada en vigencia del Título I de la presente ley, tengan cincuenta años de edad o más y se encuentren afiliadas al sistema de pensiones establecido en el decreto ley N° 3.500, de 1980, podrán acceder a las pensiones mínimas de vejez e invalidez garantizadas según lo dispuesto en el Título VII de ese cuerpo legal, vigente antes de dicha fecha. Sin embargo, en cualquier época podrán optar por la Pensión Garantizada Universal y el beneficio solidario de invalidez, de conformidad a las normas que le sean aplicables. Dicha opción podrá ejercerse por una sola vez.
 
 Los pensionados que, a la fecha de entrada en vigencia del Título I de la presente ley, sean beneficiarios de pensiones del decreto ley N° 3.500, de 1980, podrán ejercer el derecho de opción del inciso anterior en las mismas condiciones. En este caso, la pensión autofinanciada de referencia se determinará a la fecha de entrada en vigencia del Título I de la presente ley, conforme lo que establezca la Superintendencia de Pensiones, en una norma de carácter general.
 
@@ -2882,15 +2854,11 @@ No operará la garantía estatal de pensión mínima, a que se refiere el artíc
 
 #### Artículo noveno
 
-Las personas que se encuentren afectas a alguno de los regímenes previsionales administrados por el Instituto de Normalización Previsional, tendrán derecho a la pensión básica solidaria de vejez o invalidez, cuando no tengan derecho a pensión en algún sistema previsional, y siempre que cumplan los requisitos establecidos en los artículos 3° y 16, respectivamente, ambos de esta ley.
+Las personas que se encuentren afectas a alguno de los regímenes previsionales administrados por el Instituto de Normalización Previsional, tendrán derecho a la Pensión Garantizada Universal o pensión básica solidaria de invalidez, cuando no tengan derecho a pensión en algún sistema previsional, y siempre que cumplan los requisitos para ello.
 
 #### Artículo décimo
 
-Las personas que perciban pensión de vejez o jubilación, pensión de invalidez o pensión de sobrevivencia, a la fecha de entrada en vigencia del Título I de la presente ley, de cualquiera de los regímenes previsionales administrados por el Instituto de Normalización Previsional, o que obtengan dicha pensión o jubilación en el futuro de alguno de ellos, tendrán derecho al aporte previsional solidario de vejez establecido en el Párrafo tercero del Título I de esta ley, cuando la pensión base sea de un monto inferior al valor de la pensión máxima con aporte solidario que señala el artículo 13 de la presente ley, y siempre que cumplan con los requisitos establecidos en las letras a), b) y c) del artículo 3° de esta ley.
-
-El aporte previsional solidario de vejez a que tengan derecho las personas señaladas en el inciso anterior, se calculará de acuerdo a lo establecido en la letra f) del artículo 2° de la presente ley. Para ello, la pensión base corresponderá a la suma de cualquier pensión que perciba de alguno de los regímenes previsionales señalados en el inciso anterior, incluidas las bonificaciones de las leyes N°s 19.403, 19.539 y 19.953, según corresponda.
-
-Si las personas a que se refiere el inciso primero, además perciben pensión o pensiones del sistema establecido en el decreto ley N° 3.500, de 1980, el aporte previsional solidario de vejez a que tengan derecho, se calculará de acuerdo a lo establecido en los artículos 10 u 11 de esta ley, según corresponda. En este caso, la pensión base será la señalada en el inciso anterior más el monto de la pensión autofinanciada de referencia y el de las pensiones de sobrevivencia que el beneficiario perciba de conformidad a dicho decreto ley. Respecto de aquellos que, a la fecha de entrada en vigencia del Título I de la presente ley, se encuentren pensionados de vejez de acuerdo al mencionado decreto ley, la pensión autofinanciada de referencia se determinará a la data de entrada en vigencia del Título I de la presente ley, de acuerdo a lo que establezca la Superintendencia de Pensiones en una norma de carácter general.
+Derogado.
 
 Artículo undécimo.- Las personas inválidas que se encuentren afectas a alguno de los regímenes previsionales administrados por el Instituto de Normalización Previsional, tendrán derecho al aporte previsional solidario de invalidez establecido en el Párrafo quinto del Título I, cuando cumplan el requisito establecido en la letra a) del artículo 20 de la presente ley y tengan derecho a una pensión de invalidez otorgada de acuerdo a dichos regímenes, siempre que la suma del monto de dicha pensión más cualquier otra que perciba de cualquier régimen previsional, sea inferior a la pensión básica solidaria de invalidez.
 

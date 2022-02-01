@@ -1964,7 +1964,7 @@ Renta Vitalicia Inmediata es aquella modalidad de pensión que contrata un afili
 
 El contrato de seguro a que se refiere el inciso precedente deberá ajustarse a las normas generales que dicte la Superintendencia de Valores y Seguros y tendrá el carácter de irrevocable. Las mencionadas normas deberán resguardar la naturaleza previsional de este seguro y permitir una adecuada comparación de las ofertas de pensión. En forma previa a la emisión de estas normas la Superintendencia de Valores y Seguros consultará la opinión de la Superintendencia de Pensiones. En todo caso, para el cálculo de la renta deberá considerarse el total del saldo de la cuenta individual del afiliado, salvo que éste opte por retirar excedentes de libre disposición en conformidad al inciso sexto. El monto de la renta mensual que resulte de aplicar lo anterior, podrá ser constante o variable en el tiempo. Las rentas vitalicias constantes y la parte fija de las rentas vitalicias variables, deberán expresarse en unidades de fomento. El componente variable podrá expresarse en moneda de curso legal, en moneda extranjera o en un índice asociado a carteras de inversión que sea autorizado por la misma Superintendencia. En el caso de que la renta mensual pactada sea variable, el componente fijo de la renta vitalicia deberá cumplir con el requisito que establece el inciso siguiente, a menos que se trate de una pensión de vejez anticipada, en cuyo caso el componente fijo de la renta pactada deberá ser al menos equivalente al cien por ciento de la pensión máxima con aporte solidario.
 
-Por la modalidad de renta vitalicia inmediata sólo podrán optar aquellos afiliados que puedan contratar una renta que sea igual o mayor que la pensión básica solidaria de vejez.
+Por la modalidad de renta vitalicia inmediata sólo podrán optar aquellos afiliados que puedan contratar una renta que sea igual o mayor que tres unidades de fomento.
 
 El contrato de seguro de renta vitalicia se perfecciona mediante la aceptación por escrito del afiliado de la oferta de la Compañía de Seguros de Vida de su elección o la adjudicación en remate, debiendo el asegurador contratante remitir a la Administradora la póliza y demás antecedentes que acrediten el cumplimiento de lo dispuesto en el artículo 61 bis. Una vez que la Administradora reciba la póliza y dichos antecedentes, deberá traspasar a la Compañía los fondos de la cuenta individual del afiliado que sean necesarios para pagar la prima, previa certificación del cumplimiento del requisito establecido en el inciso anterior. Los plazos en los cuales deberán cumplirse los procedimientos señalados en este inciso, serán establecidos mediante una norma de carácter general que dictarán conjuntamente las Superintendencias de Administradoras de Fondos de Pensiones y de Valores y Seguros.
 
@@ -1984,13 +1984,13 @@ Los afiliados o beneficiarios de pensión que opten por contratar una renta vita
 
 #### Artículo 62 bis
 
-Renta Vitalicia Inmediata con Retiro Programado es aquella modalidad de pensión por la cual el afiliado contrata con una Compañía de Seguros de Vida una Renta Vitalicia Inmediata con una parte del saldo de la cuenta de capitalización individual, acogiéndose con la parte restante a la modalidad de Retiro Programado. En este caso, la pensión corresponderá a la suma de los montos percibidos por cada una de las modalidades. Sólo podrán optar por esta modalidad aquellos afiliados que puedan obtener una renta vitalicia inmediata que sea igual o mayor que la pensión básica solidaria de vejez.
+Renta Vitalicia Inmediata con Retiro Programado es aquella modalidad de pensión por la cual el afiliado contrata con una Compañía de Seguros de Vida una Renta Vitalicia Inmediata con una parte del saldo de la cuenta de capitalización individual, acogiéndose con la parte restante a la modalidad de Retiro Programado. En este caso, la pensión corresponderá a la suma de los montos percibidos por cada una de las modalidades. Sólo podrán optar por esta modalidad aquellos afiliados que puedan obtener una renta vitalicia inmediata que sea igual o mayor que tres unidades de fomento.
 
 Bajo esta modalidad de pensión tendrán derecho a retirar excedente de libre disposición los afiliados que obtengan una pensión mayor o igual a 12 unidades de fomento y al setenta por ciento del promedio de las remuneraciones percibidas y rentas declaradas, calculado según lo establecido en el artículo siguiente. Tratándose de afiliados declarados inválidos se considerará el setenta por ciento del ingreso base.
 
 No obstante lo establecido en el inciso tercero del artículo 23, los afiliados que seleccionen la modalidad de pensión definida en este artículo, y que contraten una Renta Vitalicia Inmediata constante que cumpla con los requisitos señalados en el inciso anterior, podrán optar por cualquiera de los Fondos de la Administradora, con aquella parte del saldo con la que se acogen a la modalidad de retiro programado.
 
-El afiliado podrá solicitar a su Administradora una disminución del monto a que tiene derecho a percibir bajo la modalidad de Retiro Programado. Asimismo, podrá solicitar que el monto percibido por Retiro Programado se ajuste, de modo tal que la suma de éste y aquél percibido por Renta Vitalicia, se iguale al cien por ciento del valor de la pensión básica solidaria de vejez, en el caso en que el afiliado no cumpla los requisitos para acceder al sistema de pensiones solidarias.
+El afiliado podrá solicitar a su Administradora una disminución del monto a que tiene derecho a percibir bajo la modalidad de Retiro Programado.
 
 Cuando el afiliado haya seleccionado la modalidad de Renta Vitalicia Inmediata con Retiro Programado, la Compañía de Seguros obligada al pago del aporte adicional, estará obligada a suscribir el contrato y a pagar una renta vitalicia no inferior al producto entre, la proporción del saldo de la cuenta de capitalización individual del trabajador que éste decida traspasar a la referida Compañía y el ciento por ciento de las pensiones de referencia establecidas en el artículo 56. Para este efecto, se considerará aquella parte del saldo de la cuenta de capitalización individual señalado en el inciso octavo del artículo 62.
 
@@ -2028,7 +2028,7 @@ Renta temporal es aquel retiro, convenido con la Administradora, que realiza el 
 
 Dicho cálculo deberá ajustarse anualmente, a contar de la fecha en que fue determinado por primera vez, y cada vez que por razones fundadas lo requieran conjuntamente las Superintendencias de Administradoras de Fondos de Pensiones y de Valores y Seguros.
 
-En todo caso, el afiliado podrá optar, durante el período de renta temporal, por retirar una suma inferior, como también por que su renta temporal mensual sea ajustada al cien por ciento del valor de la pensión básica solidaria de vejez, en el caso en que el afiliado no cumpla los requisitos para acceder al sistema de pensiones solidarias.
+En todo caso, el afiliado podrá optar, durante el período de renta temporal, por retirar una suma inferior, al monto correspondiente, reduciéndolo hasta un mínimo de 3 unidades de fomento. También podrá optar por que su renta temporal sea aumentada hasta 3 unidades de fomento, siempre que el afiliado no cumpla con los requisitos para acceder a la Pensión Garantizada Universal, y en el caso de ser menor de 65 años, que no cumpla con los requisitos para acceder a los beneficios solidarios de invalidez.
 
 El afiliado que hubiere contratado una renta vitalicia diferida mayor o igual a 12 unidades de fomento y al menos igual al setenta por ciento del promedio de sus remuneraciones percibidas y rentas declaradas, calculado según lo establecido en el artículo 63 o del ingreso base cuando se trate de afiliados declarados inválidos, y mientras la renta temporal que percibiere fuere mayor o igual a dicha renta vitalicia, podrá optar por disponer libremente del excedente de su cuenta de capitalización individual por sobre los fondos necesarios para financiar la renta temporal convenida con la Administradora.
 
@@ -2048,9 +2048,9 @@ Retiro Programado es aquella modalidad de pensión que obtiene el afiliado con c
 
 El capital necesario se calculará utilizando las bases técnicas y la tasa de interés a que se refiere el inciso cuarto del artículo 64, en la forma que señale la Superintendencia de Administradoras de Fondos de Pensiones, conjuntamente con la Superintendencia de Valores y Seguros, según lo establezca el reglamento. En todo caso, para el cálculo del capital necesario se utilizarán las tablas de mortalidad y expectativas de vida que para estos efectos establecerá la Superintendencia de Administradoras de Fondos de Pensiones conjuntamente con la Superintendencia de Valores y Seguros. Para efectos de evaluar la adecuación de las tablas de mortalidad vigentes, ambas Superintendencias deberán intercambiar anualmente las bases de datos sobre los pensionados acogidos a retiro programado y renta vitalicia, según corresponda.
 
-La anualidad que resulte de aplicar lo dispuesto en el inciso primero se pagará en doce mensualidades y se corregirá por un factor de ajuste, determinado de acuerdo a lo que establezca la Superintendencia en norma de carácter general, siempre que la pensión autofinanciada de referencia del afiliado sea superior a la pensión máxima con aporte solidario o que el afiliado no cumpla con los requisitos para acceder al sistema de pensiones solidarias. El citado factor deberá ser tal que permita suavizar los cambios en el monto de la pensión producto del recálculo del retiro programado.
+La anualidad que resulte de aplicar lo dispuesto en el inciso primero se pagará en doce mensualidades.
 
-En todo caso, el afiliado podrá optar por retirar una suma inferior, como también podrá optar porque el retiro mensual que efectúe sea ajustado al cien por ciento del valor de la pensión básica solidaria de vejez, en el caso en que el afiliado no cumpla los requisitos para acceder al sistema de pensiones solidarias.
+En todo caso, el afiliado podrá optar por retirar una suma inferior, con un mínimo de 3 unidades de fomento. También podrá optar por que su retiro programado sea aumentado hasta 3 unidades de fomento, siempre que el afiliado no cumpla con los requisitos para acceder a la Pensión Garantizada Universal, y en el caso de que sea menor de 65 años, que no cumpla con los requisitos para acceder a los beneficios solidarios de invalidez.
 
 El afiliado que haga uso de la opción de retiro programado, para quien el saldo de su cuenta de capitalización individual, a la fecha en que se determine el retiro a que se refiere el inciso primero, fuere superior al saldo mínimo requerido, podrá disponer libremente del excedente.
 
@@ -2064,17 +2064,15 @@ El capital necesario a que se refieren los dos incisos anteriores se calculará 
 
 > **Nota.** NOTA 1: El artículo 1º Transitorio de la LEY 19934, publicada 21.02.2004, dispone que las modificaciones al presente artículo entrarán en vigencia ciento ochenta días después de su publicación.
 
-> **Nota.** NOTA 2: El artículo trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que las modificaciones introducidas al presente artículo rigen a contar del primer día del séptimo mes siguiente al de su publicación.
-
 ### Párrafo 4º — De las Pensiones de Invalidez
 
 #### Artículo 65 bis
 
-Los afiliados declarados inválidos parciales que se encuentren en alguna de las situaciones descritas en las letras a) y b) del artículo 54, tendrán derecho a percibir pensiones de invalidez conforme al primer dictamen, cuyo monto estará expresado en Unidad de Fomento y será igual al ciento por ciento de la pensión de referencia establecida en el artículo 56. En caso que ésta fuere inferior al cien por ciento del valor de la pensión básica solidaria de vejez y siempre que el afiliado no cumpla los requisitos para acceder al sistema de pensiones solidarias, éste podrá optar por que su pensión se ajuste a la pensión básica solidaria utilizando fondos de su cuenta de capitalización individual.
+Los afiliados declarados inválidos parciales que se encuentren en alguna de las situaciones descritas en las letras a) y b) del artículo 54, tendrán derecho a percibir pensiones de invalidez conforme al primer dictamen, cuyo monto estará expresado en Unidad de Fomento y será igual al ciento por ciento de la pensión de referencia establecida en el artículo 56. En caso que ésta fuere inferior al cien por ciento del valor de la pensión básica solidaria de invalidez y siempre que el afiliado no cumpla los requisitos para acceder al sistema de pensiones solidarias, éste podrá optar por que su pensión se ajuste a la pensión básica solidaria utilizando fondos de su cuenta de capitalización individual.
 
 Tratándose de afiliados declarados inválidos parciales que no se encuentren en algunas de las situaciones señaladas en el artículo 54, tendrán derecho a percibir pensiones conforme al primer dictamen de invalidez bajo la modalidad de retiros programados, equivalentes al setenta por ciento de dicho retiro determinado en conformidad a lo señalado en el artículo 65. Esta pensión no estará afecta a las comisiones señaladas en el inciso segundo del artículo 29. Con todo, el afiliado no podrá optar por retirar excedentes de libre disposición mientras su pensión de invalidez no se pague de acuerdo a un segundo dictamen.
 
-Los afiliados declarados inválidos parciales, una vez ejecutoriado el segundo dictamen, podrán acogerse a alguna de las modalidades de pensión que señala el artículo 61. Sin embargo, para el financiamiento de la pensión, no podrá considerarse el saldo retenido, el que se destinará a recalcular el monto de la pensión que el afiliado estuviere percibiendo o a financiar una nueva pensión de acuerdo a lo establecido en el inciso sexto del artículo 69, cuando la invalidez sea declarada total, el afiliado cumpla la edad señalada en el artículo 3°, o se acoja a pensión de vejez en conformidad al artículo 68. Asimismo, podrá destinar el saldo para ajustar su pensión al cien por ciento del valor de la pensión básica solidaria de vejez, en el caso en que el afiliado no cumpla los requisitos para acceder al sistema de pensiones solidarias. Se entenderá por saldo retenido el treinta por ciento del saldo de la cuenta de capitalización individual a la fecha en que quedó ejecutoriado el segundo dictamen, incluido el Bono de Reconocimiento y su Complemento, si correspondiere. Para el cálculo del saldo retenido no se considerarán las cotizaciones realizadas durante el período transitorio, a que se refiere el inciso tercero del artículo 4°.
+Los afiliados declarados inválidos parciales, una vez ejecutoriado el segundo dictamen, podrán acogerse a alguna de las modalidades de pensión que señala el artículo 61. Sin embargo, para el financiamiento de la pensión, no podrá considerarse el saldo retenido, el que se destinará a recalcular el monto de la pensión que el afiliado estuviere percibiendo o a financiar una nueva pensión de acuerdo a lo establecido en el inciso sexto del artículo 69, cuando la invalidez sea declarada total, el afiliado cumpla la edad señalada en el artículo 3°, o se acoja a pensión de vejez en conformidad al artículo 68. Asimismo, podrá destinar el saldo para ajustar su pensión al cien por ciento del valor de la pensión básica solidaria de invalidez, en el caso en que el afiliado no cumpla los requisitos para acceder al sistema de pensiones solidarias. Se entenderá por saldo retenido el treinta por ciento del saldo de la cuenta de capitalización individual a la fecha en que quedó ejecutoriado el segundo dictamen, incluido el Bono de Reconocimiento y su Complemento, si correspondiere. Para el cálculo del saldo retenido no se considerarán las cotizaciones realizadas durante el período transitorio, a que se refiere el inciso tercero del artículo 4°.
 
 Los afiliados declarados inválidos parciales con derecho al pago de pensiones conforme a un segundo dictamen, no podrán retirar excedentes de libre disposición, según lo dispone el inciso sexto del artículo 62, el inciso sexto del artículo 64 y los incisos quinto y sexto del artículo 65, a menos que hagan uso de su saldo retenido conforme lo señala el inciso tercero de este artículo y según lo establecido en el inciso sexto del artículo 65.
 
@@ -2085,6 +2083,8 @@ Respecto del saldo retenido y para los efectos de la opción y asignación a un 
 > **Nota.** NOTA 1: El artículo 1º Transitorio de la LEY 19934, publicada 21.02.2004, dispone que las modificaciones al presente artículo entrarán en vigencia ciento ochenta días después de su publicación.
 
 > **Nota.** NOTA 2: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que las modificaciones introducidas al presente artículo rigen a contar del primer día del séptimo mes siguiente al de su publicación.
+
+> **Nota.** NOTA 3 El numeral 5 del artículo 2 de la ley 21.419, publicada el 31.01.2022, dispone lo siguiente: "Reemplázase en los incisos primero y tercero del artículo 65 bis la expresión "de vejez" por "de invalidez". Sin embargo, en el inciso tercero la expresión "de vejez" aparece dos veces en texto. Para determinar el alcance de esta modificación, se debe tener presente que en la tramitación legislativa del proyecto de la ley 21.419 los documentos hacen referencia a que la parte que se pretende reemplazar es la segunda vez que la expresión "de vejez" aparece, quedando sin cambiarse la frase "o se acoja a pensión de vejez en conformidad al artículo 68", lo cual es concordante con el contenido del señalado artículo 68, por el cual se establece una pensión de vejez, no de invalidez.
 
 ### Párrafo 5º — De las Pensiones de Sobrevivencia
 
@@ -2156,13 +2156,7 @@ Los afiliados podrán pensionarse en las condiciones prescritas en la presente l
 
 a) Obtener una pensión igual o superior al setenta por ciento del promedio de las remuneraciones imponibles percibidas y rentas declaradas, calculado según lo dispuesto en el artículo 63, y
 
-b) Obtener una pensión igual o superior al
-
-ochenta por ciento de la pensión máxima con aporte
-
-solidario, vigente a la fecha en que se acoja a
-
-pensión.
+b) Obtener una pensión igual o superior a doce unidades de fomento.
 
 Para los efectos de lo dispuesto en el inciso anterior, los afiliados que tuvieren derecho al Bono de Reconocimiento y a su complemento, si correspondiere, y pudieren financiar la pensión con el monto de éste o éstos más el saldo de su cuenta de capitalización individual, podrán ceder sus derechos sobre dichos documentos por el simple endoso en la forma que determine el reglamento o transfiriendo el Bono desmaterializado de acuerdo a lo dispuesto en los artículos 7 y 8 de la ley N 18.876. En estos casos, dichos documentos sólo se pagarán en las fechas de vencimiento indicadas en ellos.
 
@@ -2171,8 +2165,6 @@ También podrán pensionarse antes de cumplir las edades establecidas en el art�
 a) Obtener una pensión cuyo monto se ajuste a lo dispuesto en las letras a) y b) del inciso primero de este artículo. Para el cálculo de la pensión se utilizará el saldo efectivo de la cuenta de capitalización individual más el valor del Bono de Reconocimiento y su complemento, si correspondiere, actualizado a la fecha de la solicitud de la pensión y con la tasa de interés de actualización que fije la Superintendencia de Administradoras de Fondos de Pensiones, y
 
 b) Tener el saldo en su cuenta de capitalización individual suficiente como para financiar la pensión resultante una vez efectuado el cálculo señalado en la letra a) anterior hasta que cumpla la edad en que el Bono de Reconocimiento se haga exigible, esto es, superior o igual al flujo de pensiones que deban pagarse actualizadas con una tasa de interés fiscal que se determinará en la forma que establezca el reglamento.
-
-INCISO DEROGADO
 
 Los afiliados que cumplan con los requisitos señalados en el inciso primero de este artículo y ejerzan su derecho, no podrán pensionarse por invalidez y la Administradora quedará liberada de la obligación y responsabilidad que señala el artículo 54 respecto de las pensiones de sobrevivencia que éstos generen.
 
@@ -2216,7 +2208,7 @@ Asimismo, si una vez iniciado el pago de las pensiones se presentare un benefici
 
 #### Artículo 70 bis
 
-Todo afiliado que sea certificado como enfermo terminal por el Consejo Médico a que se refiere el artículo 70 ter tendrá derecho a percibir una pensión calculada como una renta temporal a doce meses, la que será pagada por la Administradora a que estuviera afiliado a la fecha del pago, con cargo al saldo de su cuenta de capitalización individual de cotizaciones obligatorias, una vez reservado el capital necesario para pagar las pensiones de sobrevivencia y la cuota mortuoria, cuando corresponda. El afiliado podrá solicitar reducir la renta temporal antes indicada hasta el valor de la pensión básica solidaria vigente para mayores de ochenta años, y, en este caso, la diferencia podrá ser retirada como excedente de libre disposición. Si determinada la reserva, el saldo fuese insuficiente para financiar una renta temporal de monto igual a la pensión básica solidaria vigente para los mayores de ochenta años, por un período de doce meses, el saldo de la cuenta individual se destinará a financiar la renta temporal del afiliado hasta el monto que sea necesario para tales efectos.
+Todo afiliado que sea certificado como enfermo terminal por el Consejo Médico a que se refiere el artículo 70 ter tendrá derecho a percibir una pensión calculada como una renta temporal a doce meses, la que será pagada por la Administradora a que estuviera afiliado a la fecha del pago, con cargo al saldo de su cuenta de capitalización individual de cotizaciones obligatorias, una vez reservado el capital necesario para pagar las pensiones de sobrevivencia y la cuota mortuoria, cuando corresponda. El afiliado podrá solicitar reducir la renta temporal antes indicada hasta el valor de la Pensión Garantizada Universal, y, en este caso, la diferencia podrá ser retirada como excedente de libre disposición. Si determinada la reserva, el saldo fuese insuficiente para financiar una renta temporal de monto igual a la Pensión Garantizada Universal, por un período de doce meses, el saldo de la cuenta individual se destinará a financiar la renta temporal del afiliado hasta el monto que sea necesario para tales efectos.
 
 El capital necesario para pagar las pensiones de sobrevivencia y la cuota mortuoria a que hace referencia el inciso primero se calculará de acuerdo con las normas contenidas en esta ley, en consideración a la expectativa de vida de los beneficiarios al término de la renta temporal, y a los porcentajes a que se refiere el artículo 58, respecto de la pensión de referencia, que se define a continuación:
 
@@ -2228,7 +2220,7 @@ c) En el caso de pensionados por invalidez parcial definitiva, la pensión de re
 
 d) Los pensionados por invalidez parcial transitoria, al momento de ser certificados como enfermos terminales, serán considerados inválidos totales y se les aplicará la regla de cálculo de la letra a).
 
-Los pensionados por vejez, vejez anticipada, invalidez total o sobrevivencia, que estén afectos a las modalidades de retiro programado, retiro programado con renta vitalicia inmediata y renta temporal con renta vitalicia diferida, en los dos últimos casos siempre que estén en goce de la renta temporal o el retiro programado respectivamente, y que presenten una condición de enfermo terminal, tendrán derecho a un recálculo de su pensión en los términos establecidos en el inciso primero. Para efectuar dicho recálculo, se considerará, además, la parte del saldo destinado a la aplicación del factor de ajuste a que se refiere el inciso tercero del artículo 65 de esta ley.
+Los pensionados por vejez, vejez anticipada, invalidez total o sobrevivencia, que estén afectos a las modalidades de retiro programado, retiro programado con renta vitalicia inmediata y renta temporal con renta vitalicia diferida, en los dos últimos casos siempre que estén en goce de la renta temporal o el retiro programado respectivamente, y que presenten una condición de enfermo terminal, tendrán derecho a un recálculo de su pensión en los términos establecidos en el inciso primero.
 
 Asimismo, podrán acogerse al derecho contemplado en este artículo los pensionados de conformidad a lo dispuesto en el Título V de la ley N° 16.744, que establece normas sobre accidentes del trabajo y enfermedades profesionales, cuyas prestaciones serán compatibles con los beneficios que contemple este cuerpo legal.
 
@@ -2386,11 +2378,13 @@ Otórgase la garantía del Estado a los aportes adicionales y a la contribución
 
 El monto de dicha garantía estatal será equivalente al ciento por ciento de la diferencia que faltare para completar el aporte adicional, la contribución y las pensiones de invalidez originadas por un primer dictamen, en caso de que por cesación de pagos o por la dictación de la resolución de liquidación de una Compañía de Seguros obligada al pago de dichos beneficios, éstos no pudieren ser enterados o pagados total y oportunamente, circunstancias que deberán ser certificadas por la Superintendencia de Pensiones. Para estos efectos el Estado podrá licitar un seguro que cubra los beneficios antes mencionados.
 
-En el caso de las rentas vitalicias que señala el artículo 61, la garantía del Estado será de un monto equivalente al cien por ciento de la pensión básica solidaria de vejez, en caso de que por cesación de pagos o por la dictación de la resolución de liquidación, las Compañías de Seguros no dieren cumplimiento a las obligaciones emanadas de los contratos celebrados con los afiliados en las condiciones señaladas en esta ley, o estas rentas pudieran ser pagadas con retraso, circunstancias que deberán ser certificadas por la Superintendencia de Valores y Seguros.
+En el caso de las rentas vitalicias que señala el artículo 61, la garantía del Estado será de un monto equivalente a:
+
+a) El valor de la renta vitalicia contratada, en los casos en que ésta sea igual o inferior a la Pensión Garantizada Universal.
+
+b) La suma entre la Pensión Garantizada Universal y el 75% de la diferencia entre la renta vitalicia contratada y la Pensión Garantizada Universal, cuando la pensión contratada fuere mayor a este último monto.
 
 La garantía estatal señalada en los incisos precedentes cubrirá aquella parte del aporte adicional, contribución, pensiones de invalidez originadas por el primer dictamen y rentas vitalicias, no pagadas por la Compañía de Seguros.
-
-Respecto de las rentas vitalicias de montos superiores a los señalados en el inciso tercero, la garantía del Estado cubrirá el setenta y cinco por ciento del exceso por sobre la básica solidaria de vejez.
 
 En todo caso, tratándose de rentas vitalicias, la garantía del Estado no podrá exceder, mensualmente y por cada pensionado o beneficiario, de cuarenta y cinco Unidades de Fomento, suma esta de la que se deducirá la cantidad correspondiente al pago parcial que se hubiere efectuado, en su caso.
 
@@ -2401,8 +2395,6 @@ En los casos en que la garantía estatal hubiere operado, el Estado repetirá en
 Los créditos de los pensionados en contra de una Compañía de Seguros gozarán del privilegio establecido en el N° 5 de la disposición legal a que se refiere el inciso anterior.
 
 > **Nota.** El artículo 5° de la LEY 18646 publicada en el Diario Oficial del 29.08.1987 establece que las modificaciones introducidas por la presente ley, entrarán en vigencia el día primero del mes siguiente a aquel en que se cumplan 120 días de publicada.
-
-> **Nota.** NOTA 1: El artículo segundo, inciso I de la LEY 18964, publicada en el Diario Oficial del 10.03.1990, establece que las modificaciones introducidas en éste artículo, entrarán en vigencia el día primero del quinto mes siguiente a aquel en que se publique en el Diario Oficial.
 
 > **Nota.** NOTA 2: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que las modificaciones introducidas al presente artículo rigen a contar del primer día del séptimo mes siguiente al de su publicación.
 
@@ -2446,17 +2438,13 @@ Todas las pensiones que establece este cuerpo legal estarán afectas a una cotiz
 
 Dicha cotización serán destinada a financiar prestaciones de salud y descontada por la entidad obligada al pago de la respectiva pensión para ser enterada en el Fondo Nacional de Salud.
 
-Aquellos afiliados pensionados bajo la modalidad de retiro programado o renta temporal que habiendo agotado el saldo de su cuenta de capitalización individual no tengan derecho al sistema de pensiones solidarias, podrán enterar la cotización a que alude el inciso primero, calculada sobre el monto de la pensión básica solidaria vigente que corresponda.
+Aquellos afiliados pensionados bajo la modalidad de retiro programado o renta temporal que habiendo agotado el saldo de su cuenta de capitalización individual no tengan derecho a la exención de la cotización de salud establecida en la ley N° 20.531, podrán enterar la cotización a que alude el inciso primero, calculada sobre el monto de la Pensión Garantizada Universal.
 
 > **Nota.** Las modificaciones introducidas por la ley 18482, en su artículo 8°, rigen a contar del 1° de enero de 1986.
-
-> **Nota.** NOTA 1: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que la modificación introducida al presente artículo rige a contar del primer día del séptimo mes siguiente al de su publicación.
 
 > **Nota.** NOTA 2 El Artículo 1 de la Ley 20531, publicada el 31.08.2011, dispone que a partir del 1 de noviembre de 2011 todas las pensiones que se encuentren percibiendo o que en el futuro perciban los beneficiarios del Sistema de Pensiones Solidarias de la ley Nº 20.255, estarán exentas de la cotización legal establecida por el presente artículo.
 
 > **Nota.** NOTA 3 El Artículo 2 de la Ley 20531, publicada el 31.08.2011, dispone que a contar del día 1 de diciembre de 2012, la cotización legal consagrada en este artículo, será de 5% para los pensionados del sistema de pensiones establecidos en las leyes N°s 16.744, 19.234, y en el presente Decreto, siempre que cumplan con los requisitos establecidos en las letras a) y c) del artículo 3º de la ley Nº 20.255 y que integren un grupo familiar perteneciente a los cuatro primeros quintiles de la población de Chile conforme al instrumento técnico de focalización señalado en el artículo 32 de la ley antes citada. Asimismo ordena que esta rebaja no será aplicable a las pensiones de los regímenes de la Caja de Previsión de la Defensa Nacional y de la Dirección de Previsión de Carabineros de Chile. Y, finalmente, consagra que los pensionados que sean beneficiarios del Sistema de Pensiones Solidarias se aplicarán las normas de exención de la referida cotización contenidas en el artículo 31 de la ley Nº 20.255 y en el artículo 1º de la referida ley N° 20531, según corresponda.
-
-> **Nota.** NOTA 4 El artículo segundo transitorio de la ley 20864, publicada el 15.10.2015, dispone que a contar del día 16.10.2015 y durante los doce meses siguientes, la cotización legal será del 3% para aquellos pensionados que cumplan los requisitos establecidos en el artículo 2º o segundo transitorio, ambos de la ley Nº20.531.
 
 #### Artículo 86
 
@@ -2586,9 +2574,7 @@ G.- Si las cantidades señaladas en el numeral i) del inciso primero del artícu
 
 #### Artículo 92
 
-H.- Al trabajador independiente señalado en el artículo 89, que sea beneficiario del aporte previsional solidario de vejez y no se encontrare al día en el pago de sus cotizaciones de pensiones, se le calculará un aporte previsional solidario reducido, para lo cual se considerará una pensión máxima con aporte solidario reducida, equivalente a la mitad de la suma de la pensión básica solidaria de vejez y de la pensión máxima con aporte solidario.
-
-La reducción a que se refiere el inciso anterior, sólo se aplicará por un número determinado de meses, contados desde que el trabajador independiente cumpla 65 años de edad. Para determinar los meses afectos a reducción, se considerará el monto total de cotizaciones de pensiones adeudadas, al que se le aplicará un interés real del 4% anual, desde el mes siguiente al que comenzaron a adeudarse y hasta la fecha en que cumpla 65 años de edad; este monto, se multiplicará por el factor de ajuste utilizado para el cálculo del aporte previsional solidario de vejez sin reducción, y el resultado que se obtenga se dividirá por la diferencia entre el aporte previsional solidario de vejez sin reducción y con reducción. El resultado que se obtenga corresponderá al número de meses durante el cual se aplicará la reducción que establece el inciso anterior. Con todo, si la cantidad que se obtuviere fuere superior a 60, se considerará esta última.
+H.- Derogado.
 
 #### Artículo 92
 
@@ -2700,9 +2686,7 @@ Los directores y apoderados de una Administradora, de sus filiales o de una soci
 
 11.- Fiscalizar los mercados primarios y secundarios en lo que se refiere a la participación de los Fondos de Pensiones, las Administradoras y las personas que, en razón de su cargo o posición, tengan acceso a información de las inversiones del Fondo, sin perjuicio de las atribuciones de la Superintendencia de Valores y Seguros.
 
-12. Informar a los afiliados respecto de sus derechos y obligaciones en relación con el sistema de pensiones, utilizando medios propios o a través de otras entidades, con el objeto de dar cobertura nacional a
-
-este servicio.
+12. Informar a los afiliados respecto de sus derechos y obligaciones en relación con el sistema de pensiones, utilizando medios propios o a través de otras entidades, con el objeto de dar cobertura nacional a este servicio.
 
 13.- Requerir que las personas naturales o jurídicas que, personalmente o en conjunto, sean controladoras de una Administradora conforme al artículo 97 de la ley N° 18.045, o posean individualmente más del diez por ciento de sus acciones, envíen a la Superintendencia información fidedigna acerca de su situación financiera. La Superintendencia, mediante normas generales, determinará la periodicidad y contenido de esta información, que no podrá exceder de la que exige la Superintendencia de Valores y Seguros a las sociedades anónimas abiertas.
 
@@ -2742,7 +2726,7 @@ La Administradora afectada podrá reclamar contra la designación del inspector 
 
 19. Supervisar administrativamente a las Comisiones Ergonómica y de Apelaciones de la ley N° 19.404 e impartir las normas operativas que se requieran para calificar labores como trabajos pesados. Asimismo, controlar que dichas Comisiones den debido cumplimiento a las funciones que les correspondan.
 
-20. Efectuar análisis de riesgos, supervisar la apropiada gestión de los mismos respecto de las Administradoras de Fondos de Pensiones y de la Sociedad Administradora de Fondos de Cesantía e impartir las instrucciones tendientes a que éstos corrijan las deficiencias que ella observare. Para efectos de lo anterior, la Superintendencia podrá requerir todos los datos y antecedentes que le permitan tomar debido conocimiento de la gestión de riesgos de las entidades antes señaladas.
+20. Efectuar análisis de riesgos, supervisar la apropiada gestión de los mismos respecto de las Administradoras de Fondos de Pensiones y de la Sociedad Administradora de Fondos de Cesantía e impartir las instrucciones tendientes a que éstas corrijan las deficiencias que la Superintendencia observare. Asimismo, efectuará un análisis de los riesgos operativos del Instituto de Previsión Social, supervisando la gestión de éstos. Para efectos de lo anterior, la Superintendencia podrá requerir todos los datos y antecedentes que le permitan tomar debido conocimiento de la gestión de riesgos de las entidades antes señaladas.
 
 > **Nota.** El Art. 2º de la LEY 18398, publicada el 24.01.1985, establece que las modificaciones introducidas por la misma, entrarán a regir 120 días después de su publicación.
 
@@ -2758,7 +2742,7 @@ La Administradora afectada podrá reclamar contra la designación del inspector 
 
 #### Artículo 94 bis
 
-La Superintendencia de Pensiones efectuará un análisis de riesgos y evaluará la gestión de los mismos, respecto de las entidades señaladas en el número 20 del artículo 94. La calidad de la gestión de riesgos se evaluará considerando aspectos tales como la fortaleza de sus sistemas de control de riesgos y su gobierno corporativo, el conocimiento y experiencia de su administración y la eficacia de las funciones de control interno y cumplimiento. El resultado de la evaluación se notificará a la respectiva entidad, será fundado y tendrá el carácter de reservado, de manera tal que ni la Superintendencia ni las entidades fiscalizadas podrán difundirlo públicamente. También serán reservados aquellos antecedentes en los que se base la evaluación y que no sean públicos.
+La Superintendencia de Pensiones efectuará análisis de riesgos y evaluará la gestión de ellos, respecto de las entidades señaladas en los números 17 y 20 del artículo 94. La calidad de la gestión de riesgos se evaluará considerando aspectos tales como la fortaleza de sus sistemas de control de riesgos y su gobierno corporativo, el conocimiento y experiencia de su administración y la eficacia de las funciones de control interno y cumplimiento, según la entidad de que se trate. El resultado de la evaluación se notificará a la respectiva entidad, será fundado y tendrá el carácter de reservado, de manera tal que ni la Superintendencia ni las entidades fiscalizadas podrán difundirlo públicamente. También serán reservados aquellos antecedentes en los que se base la evaluación y que no sean públicos.
 
 La Superintendencia, mediante norma de carácter general, establecerá la metodología y los procedimientos específicos para la evaluación de los riesgos de las entidades fiscalizadas.
 

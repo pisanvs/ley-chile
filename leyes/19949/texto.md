@@ -12,7 +12,7 @@ Créase el sistema de protección social denominado "Chile Solidario", en adelan
 
 #### Artículo 2º
 
-"Chile Solidario" considera acciones y prestaciones para familias y personas en situación de extrema pobreza, que consisten en apoyo psicosocial, acceso al subsidio familiar de la ley Nº 18.020, a la pensión básica solidaria de vejez o invalidez, al subsidio al pago de consumo de agua potable y de servicio de alcantarillado de aguas servidas de la ley Nº 18.778, y al subsidio pro retención escolar, de acuerdo a lo establecido por la ley Nº 19.873, sin perjuicio del acceso preferente a otras acciones o prestaciones que se implementen o coordinen a través de "Chile Solidario". Todo lo anterior conforme a las normas de esta ley y su reglamento.
+"Chile Solidario" considera acciones y prestaciones para familias y personas en situación de extrema pobreza, que consisten en apoyo psicosocial, acceso al subsidio familiar de la ley Nº 18.020, a la Pensión Garantizada Universal o pensión básica solidaria de invalidez, al subsidio al pago de consumo de agua potable y de servicio de alcantarillado de aguas servidas de la ley Nº 18.778, y al subsidio pro retención escolar, de acuerdo a lo establecido por la ley Nº 19.873, sin perjuicio del acceso preferente a otras acciones o prestaciones que se implementen o coordinen a través de "Chile Solidario". Todo lo anterior conforme a las normas de esta ley y su reglamento.
 
 > **Nota.** El Art. Primero Transitorio de la LEY 20255, publicada el 17.03.2008, dispuso que la modificación introducida en el presente artículo rige a contar del 1º de julio de 2008.
 
