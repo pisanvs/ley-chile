@@ -4,37 +4,25 @@ Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguient
 
 Proyecto de ley:
 
-## Título I
+#### Artículo 1°
 
-De la regulación común
+Regúlanse por esta ley las actividades a que ella se refiere y que recaen sobre los productos de tabaco para el consumo humano.
 
-#### Artículo 1º
+#### Artículo 2°
 
-Regúlanse por esta ley las actividades a que ella se refiere y que recaen sobre los productos de tabaco para consumo humano, los productos de tabaco recalentado, los Sistemas Electrónicos de Administración de Nicotina (SEAN), los Sistemas Electrónicos sin Nicotina (SESN), sus líquidos de vapeo y los accesorios de todos los anteriores, incluyendo todas sus partes e insumos.
+Para todos los efectos legales se entenderá por:
 
-#### Artículo 2º
+a) Publicidad del tabaco: Toda forma de promoción, comunicación, recomendación, propaganda, información o acción con el fin o el efecto de promover un producto hecho con tabaco o el consumo de tabaco;
 
-Para los efectos de esta ley se entenderá por:
+b) Industria tabacalera: Comprende a fabricantes, distribuidores mayoristas e importadores de productos de tabaco;
 
-a) Publicidad: Toda forma de promoción, comunicación, recomendación, propaganda, información o acción con el fin o el efecto de promover un producto hecho con tabaco o el consumo de tabaco, incluyendo sus accesorios, los SEAN y SESN, así como los líquidos de vapeo, realizada por cualquier medio.
+c) Productos de tabaco: los productos preparados totalmente o en parte utilizando como materia prima hojas de tabaco y destinados a ser fumados, chupados, mascados o aspirados;
 
-b) Industria: Comprende a fabricantes, distribuidores, mayoristas e importadores de productos hechos de tabaco, Sistemas Electrónicos de Administración de Nicotina (SEAN) y los Sistemas Electrónicos Sin Nicotina (SESN), así como los líquidos de vapeo, incluyendo sus accesorios.
+d) Espacio interior o cerrado: Aquel espacio cubierto por un techo o cerrado entre una o más paredes o muros, independientemente del material utilizado, de la existencia de puertas o ventanas y de que la estructura sea permanente o temporal, y
 
-c) Productos de tabaco: Los productos preparados totalmente o en parte utilizando como materia prima hojas de tabaco y destinados a ser fumados, chupados, mascados, inhalados, utilizados como rapé o consumidos en cualquier otra forma.
+e) Aditivo: Cualquier sustancia, con excepción de las hojas de tabaco u otra parte natural o no procesada de la planta de tabaco, utilizada en la preparación de un producto de tabaco y que esté presente en el producto final, aun cuando se hubiere alterado su forma, incluidos papel, filtros, impresos y adhesivos.
 
-d) Sistemas Electrónicos de Administración de Nicotina (también e indistintamente SEAN): Dispositivos electrónicos que no queman ni utilizan hojas de tabaco, sino que vaporizan mediante el calentamiento de una solución que el usuario inhala, la que contiene nicotina y eventualmente aromatizantes que pueden estar disueltos en propilenglicol o glicerina.
-
-e) Sistemas Electrónicos Sin Nicotina (también e indistintamente SESN): Dispositivos electrónicos que no queman ni utilizan hojas de tabaco, sino que vaporizan mediante el calentamiento una solución que el usuario inhala, la que contiene aromatizantes que pueden estar disueltos en propilenglicol o glicerina, pero que no contiene nicotina.
-
-Dentro de este grupo se identifica a los SESN de uso terapéutico, entendiéndose éstos como aquellos dispositivos de administración para formato herbal o líquido, de principios activos de uso terapéutico, y que cuentan con receta médica.
-
-f) Líquido de vapeo: Solución líquida contenida en un recipiente llenado previamente y cerrado o recargable, con o sin nicotina, para ser calentado y convertido en vapor por el SEAN o SESN.
-
-g) Accesorios: Todo elemento desarrollado con el fin principal de facilitar el consumo de productos de tabaco calentado o los SEAN y SESN, así como los componentes individuales que permiten su funcionamiento o el almacenamiento de estos elementos.
-
-h) Espacio interior o cerrado: Aquel espacio cubierto por un techo o cerrado entre una o más paredes o muros, independiente del material utilizado, de la existencia de puertas o ventanas y de que la estructura sea permanente o temporal.
-
-i) Aditivo: Cualquier sustancia, con excepción de las hojas de tabaco u otra parte natural o no procesada de la planta de tabaco, utilizada en la preparación de un producto de tabaco y que esté presente en el producto final, aun cuando se hubiere alterado su forma, incluido papel, filtros, impresos y adhesivos.
+> **Nota.** El Art. 2º de la LEY 20105, publicada el 16.05.2006, establece que las modificaciones introducidas al presente artículo entrarán en vigencia 90 días después de su publicación en el Diario Oficial.
 
 #### Artículo 3°
 
@@ -46,33 +34,29 @@ Del mismo modo, se prohíbe en programas transmitidos en vivo, por televisión o
 
 Asimismo, se prohíbe la publicidad en las señales internacionales de los medios de comunicación chilenos o de páginas de internet cuyos dominios correspondan a la terminación "punto cl".
 
-Se limitará la publicidad directa e indirecta de SEAN y SESN, sus líquidos de recarga, sus accesorios y los demás elementos de las marcas relacionadas con estos productos. El Ministerio de Salud, a través de un decreto supremo, establecerá las restricciones, las que podrán ser en relación con los lugares y advertencias en caso de publicidad física, y el horario, medios y advertencias en caso de publicidad por medios de comunicación.
+Las compañías tabacaleras deberán informar anualmente al Ministerio de Salud el detalle de donaciones efectuadas, así como de los gastos en que incurran en virtud de convenios con instituciones públicas, organizaciones deportivas, comunitarias, entidades académicas, culturales y organizaciones no gubernamentales.
 
-No se entenderá como publicidad la entrega de información gratuita sobre SESN de uso terapéutico, que contenga sus características principales, tales como indicaciones, dosificación, efectos adversos, contraindicaciones y, en general, toda la información necesaria para hacer su correcto uso.
+#### Artículo 4°
 
-Las compañías cuyos productos se encuentran regulados por esta ley deberán informar anualmente al Ministerio de Salud el detalle de donaciones efectuadas, y de los gastos en que incurran en virtud de convenios con instituciones públicas, organizaciones deportivas, comunitarias, entidades académicas, culturales y organizaciones no gubernamentales.
-
-#### Artículo 4º
-
-Se prohíbe la comercialización, el ofrecimiento, distribución o entrega a título gratuito, de los productos de tabaco o sus accesorios, a los menores de 18 años. Dicha prohibición se extiende también a los SEAN, SESN, sus accesorios y sus líquidos de vapeo.
-
-Se prohíbe la instalación y el uso de máquinas expendedoras automáticas de productos de tabaco, SEAN y SESN y/o sus accesorios.
+Se prohíbe la comercialización, el ofrecimiento, distribución o entrega a título gratuito de los productos de tabaco a las personas menores de 18 años de edad. Las máquinas expendedoras automáticas de este tipo de productos sólo podrán instalarse en establecimientos, lugares o recintos a los cuales, por disposición de la ley, no tengan acceso los menores de edad.
 
 Se prohíbe la venta de estos productos en aquellos lugares que se encuentren a menos de cien metros de distancia de los establecimientos de educación básica y media. La distancia se medirá desde cada puerta de acceso de los respectivos establecimientos, por aceras, calles y espacios de uso público.
 
-Se prohíbe la venta de productos de tabaco, SEAN y SESN y/o sus accesorios al interior de los establecimientos de salud, sean públicos o privados.
-
-Se prohíbe la venta, ofrecimiento, distribución o entrega a título gratuito de los productos de tabaco, SEAN y SESN y/o sus accesorios a personas menores de 18 años.
+Se prohíbe la venta de productos de tabaco al interior de los establecimientos de salud, sean públicos o privados.
 
 En ningún caso podrán venderse cigarrillos unitariamente o en paquetes que contengan una cantidad inferior a diez.
 
-#### Artículo 5º
+> **Nota.** El Art. 2º de la LEY 20105, publicada el 16.05.2006 establece que las modificaciones introducidas al presente artículo entrarán en vigencia 90 días después de su publicación en el Diario Oficial.
 
-Se prohíbe ofrecer o proporcionar cualquier compensación, directa o indirecta, por la compra de productos de tabaco, SEAN y SESN y/o sus accesorios, tales como donación, bonificación o reembolso en dinero en efectivo o el derecho a participar en un juego, sorteo o concurso, así como la distribución de dichos productos sin compensación monetaria.
+#### Artículo 5°
+
+Se prohíbe ofrecer o proporcionar cualquier compensación, directa o indirecta, por la compra de productos de tabaco, tales como la donación, bonificación o reembolso de dinero en efectivo o el derecho a participar en un juego, sorteo o concurso, así como la distribución de dichos productos sin compensación monetaria.
+
+> **Nota.** El Art. 2º de la LEY 20105, publicada el 16.05.2006 establece que las modificaciones introducidas al presente artículo entrarán en vigencia 90 días después de su publicación en el Diario Oficial.
 
 #### Artículo 6º
 
-Todo envase de los productos de tabaco, tabaco calentado y sus accesorios, sean nacionales o importados destinados a su distribución dentro del territorio nacional deberá contener una clara y precisa advertencia de los daños, enfermedades o efectos que, para la salud de las personas, implica su consumo o exposición al humo del tabaco. Esta advertencia tendrá una vigencia mínima de doce meses y máxima de veinticuatro meses, deberá ser diseñada por el Ministerio de Salud y establecida mediante decreto supremo de este Ministerio, la cual será impresa en las cajetillas o en cualquier envase y no podrá, en ningún caso, ser removible. En el caso de productos importados, deberá ser adherida de manera que no pueda ser despegada fácilmente.
+Todo envase de los productos de tabaco, sean nacionales o importados destinados a su distribución dentro del territorio nacional deberá contener una clara y precisa advertencia de los daños, enfermedades o efectos que, para la salud de las personas, implica su consumo o exposición al humo del tabaco. Esta advertencia tendrá una vigencia mínima de doce meses y máxima de veinticuatro meses, deberá ser diseñada por el Ministerio de Salud y establecida mediante decreto supremo de este Ministerio, la cual será impresa en las cajetillas o en cualquier envase y no podrá, en ningún caso, ser removible. En el caso de productos importados, deberá ser adherida de manera que no pueda ser despegada fácilmente.
 
 En el caso de los paquetes de cigarrillos o cigarros, bolsas o paquetes de productos de tabaco, esta advertencia deberá figurar en las dos caras principales y ocupar el 50% de cada una de ellas. La advertencia se colocará en la parte inferior de cada cara.
 
@@ -84,37 +68,33 @@ Si al entrar en vigencia las nuevas advertencias quedaran saldos en bodega con l
 
 Las advertencias sanitarias deberán estar siempre a la vista, en todos los puntos de venta de productos de tabaco.
 
-Los envases de SEAN, SESN, sus accesorios y líquidos de vapeo con y sin nicotina, sean nacionales o importados destinados a su distribución dentro del territorio nacional, deberán contener una clara y precisa advertencia en letras blancas con fondo negro en la cara principal, con las siguientes características:
-
-1. SEAN y sus accesorios: Tamaño 20% que contenga los siguientes textos: "Los sistemas electrónicos de administración de nicotina son potencialmente adictivos" y "Venta exclusiva para mayores de 18 años".
-
-2. Líquidos de vapeo con nicotina: Tamaño 20% que contenga los siguientes textos: "Este líquido de vapeo es potencialmente adictivo por contener nicotina" y "Venta exclusiva para mayores de 18 años".
-
-3. SESN, líquidos de vapeo sin nicotina y sus accesorios: Tamaño 10% que contenga el siguiente texto: "Venta exclusiva para mayores de 18 años".
+> **Nota.** El Artículo 2º de la LEY 20105, publicada el 16.05.2006 establece que las modificaciones introducidas al presente artículo entrarán en vigencia 90 días después de su publicación en el Diario Oficial.
 
 #### Artículo 7°
 
-Los planes y programas de estudio de la Educación General Básica y de la Educación Media de ambas modalidades deberán considerar objetivos y contenidos destinados a educar e instruir a los escolares sobre los daños que provoca en el organismo el consumo de productos de tabaco y la exposición al humo del mismo, así como el consumo de SEAN y SESN y la exposición a sus líquidos de vapeo, como también el carácter adictivo de éstos.
+Los planes y programas de estudio de la Educación General Básica y de la Educación Media de ambas modalidades deberán considerar objetivos y contenidos destinados a educar e instruir a los escolares sobre los daños que provoca en el organismo el consumo de productos de tabaco y la exposición al humo del mismo, como también el carácter adictivo de éstos.
 
-Habrá un plan nacional de educación referido a los daños generados por los productos establecidos en el inciso primero, el que deberá actualizarse al menos cada cinco años.
+Habrá un plan nacional de educación sobre el tabaco y sus daños, el que deberá actualizarse al menos cada cinco años.
+
+> **Nota.** El Artículo 2º de la LEY 20105, publicada el 16.05.2006 establece que las modificaciones introducidas al presente artículo entrarán en vigencia 90 días después de su publicación en el Diario Oficial.
 
 #### Artículo 8°
 
 Se prohíbe que en el nombre o propiedades asociadas a la marca de cigarros o cigarrillos se incluyan términos tales como light, suave, ligero, bajo en alquitrán, nicotina, monóxido de carbono u otros similares.
 
-En todo caso, no podrá inducirse a niños, niñas y adolescentes al consumo de productos de tabaco, SEAN y SESN o sus accesorios ni valerse de medios que se aprovechen de su credulidad. La venta de estos productos no podrá efectuarse mediante ganchos comerciales tales como regalos, concursos, juegos u otros elementos de atracción infantil.
+> **Nota.** El Art. 2º de la LEY 20105, publicada el 16.05.2006 establece que las modificaciones introducidas al presente artículo entrarán en vigencia 90 días después de su publicación en el Diario Oficial.
 
 #### Artículo 9º
 
-La casa matriz del fabricante o el importador de los productos de tabaco, así como de los SEAN y SESN, y sus líquidos de vapeo, deberán informar anualmente al Ministerio de Salud, según éste lo determine, sobre sus constituyentes y los aditivos que se incorporan a ellos, en calidad y cantidad, así como las sustancias utilizadas para el tratamiento de productos de tabaco, SEAN y SESN, y sus líquidos de vapeo. No podrán comercializarse los productos de tabaco, ni tampoco SEAN y SESN, y sus líquidos de vapeo, que contengan aditivos que no hayan sido previamente informados al Ministerio de Salud.
+La casa matriz del fabricante o el importador de los productos de tabaco deberán informar anualmente al Ministerio de Salud, según éste lo determine, sobre sus constituyentes y los aditivos que se incorporan a ellos, en calidad y cantidad, así como las sustancias utilizadas para el tratamiento del tabaco. No podrán comercializarse los productos de tabaco que contengan aditivos que no hayan sido previamente informados al Ministerio de Salud.
 
-El Ministerio de Salud podrá prohibir el uso de aditivos y sustancias que se incorporen al tabaco o a los SEAN y SESN, y sus líquidos de vapeo, en el proceso de fabricación de los productos a los que se refiere esta ley, destinados a ser comercializados en el territorio nacional, cuando tales aditivos y sustancias aumenten los niveles de adicción, daño o riesgo en los consumidores de dichos productos. Además, en los casos mencionados anteriormente, podrá establecer los límites máximos permitidos de las sustancias contenidas en ellos. Asimismo, fijará las normas sobre difusión de la información referida a los aditivos y sustancias incorporadas al tabaco o a los SEAN y SESN, y a sus líquidos de vapeo, y sus efectos en la salud de los consumidores.
+El Ministerio de Salud podrá prohibir el uso de aditivos y sustancias que se incorporen al tabaco en el proceso de fabricación de los productos a los que se refiere esta ley, destinados a ser comercializados en el territorio nacional, cuando tales aditivos y sustancias aumenten los niveles de adicción, daño o riesgo en los consumidores de dichos productos. Además, en los casos mencionados anteriormente, podrá establecer los límites máximos permitidos de las sustancias contenidas en los productos de tabaco. Asimismo, fijará las normas sobre difusión de la información referida a los aditivos y sustancias incorporadas al tabaco y sus efectos en la salud de los consumidores.
 
-Los envases de cigarrillos, de SEAN y SESN, y de sus líquidos de vapeo deberán expresar clara y visiblemente en una de sus caras laterales los principales componentes de este producto en los términos establecidos por el Ministerio de Salud.
+Los envases de cigarrillos deberán expresar clara y visiblemente en una de sus caras laterales los principales componentes de este producto en los términos establecidos por el Ministerio de Salud.
 
 #### Artículo 10
 
-Se prohíbe fumar o inhalar productos de tabaco, o SEAN y SESN, en los siguientes lugares:
+Se prohíbe fumar en los siguientes lugares:
 
 a) Todo espacio cerrado que sea un lugar accesible al público o de uso comercial colectivo, independientemente de quien sea el propietario o de quien tenga derecho de acceso a ellos.
 
@@ -134,7 +114,7 @@ d) Playas de mar, de río o lago, dentro de una faja de 80 metros de ancho medid
 
 #### Artículo 11
 
-Sin perjuicio de lo dispuesto en el artículo anterior, se prohíbe fumar o inhalar productos de tabaco o SEAN y SESN en los siguientes lugares, salvo en sus patios o espacios al aire libre:
+Sin perjuicio de lo dispuesto en el artículo anterior, se prohíbe fumar en los siguientes lugares, salvo en sus patios o espacios al aire libre:
 
 a) Establecimientos de educación superior, públicos y privados.
 
@@ -156,17 +136,9 @@ Para el caso de los lugares señalados en el inciso anterior, correspondientes a
 
 Se deberán habilitar, en los patios o espacios al aire libre, cuando ellos existan, lugares especiales para fumadores en los casos indicados en las letras f) y g) del inciso primero. Para dicho efecto, el director del establecimiento o el administrador general del mismo será responsable de establecer un área claramente delimitada, procurando siempre que el humo de tabaco que se genere no alcance las dependencias internas de los establecimientos de que se trate. Con todo, siempre el director del establecimiento o su administrador general podrá determinar que se prohíba fumar en lugares abiertos de los establecimientos que dirija o administre.
 
-#### Artículo 11 bis
-
-Se exceptuarán los SESN terapéuticos de las normas contenidas en los artículos 10 y 11, siempre que sean utilizados ante una necesidad médica imperativa, y el usuario porte la receta médica que indique su uso.
-
 #### Artículo 12
 
 Se prohíbe arrojar los filtros o las colillas de cigarrillos en la vía pública y en los patios o espacios al aire libre de los lugares señalados en el artículo anterior.
-
-#### Artículo 12
-
-DEROGADO.
 
 #### Artículo 13
 
@@ -174,55 +146,59 @@ DEROGADO.
 
 #### Artículo 14
 
-En los lugares de acceso público se deberán exhibir advertencias que prohíban fumar o inhalar productos de tabaco o SEAN y SESN, las cuales deberán ser notoriamente visibles y comprensibles.
+En los lugares de acceso público, se deberán exhibir advertencias que prohíban fumar, las cuales deberán ser notoriamente visibles y comprensibles.
 
-Los organismos administradores de la ley Nº 16.744, deberán colaborar con sus empresas adheridas asesorándolas respecto de los contenidos de la información que éstas presten a sus trabajadores y usuarios sobre los daños que provoca en el organismo el consumo de productos de tabaco o la exposición al humo de este producto, así como el consumo de SEAN y SESN y la exposición al vapeo de éstos, y acerca de los beneficios de adoptar estilos de vida y ambientes saludables.
+Los organismos administradores de la ley Nº 16.744, deberán colaborar con sus empresas adheridas asesorándolas respecto de los contenidos de la información que éstas presten a sus trabajadores y usuarios sobre los daños que provoca en el organismo el consumo de productos de tabaco o la exposición al humo de este producto y acerca de los beneficios de adoptar estilos de vida y ambientes saludables.
 
 #### Artículo 15
 
-La autoridad sanitaria fiscalizará el cumplimiento de esta ley y, en el caso de que procediere, llevará adelante el sumario sanitario correspondiente. Para esto se regirá por las normas establecidas en el Libro X del Código Sanitario, denominado "De los Procedimientos y Sanciones".
+La Autoridad Sanitaria fiscalizará el cumplimiento de la presente ley, y, en caso de constatar alguna infracción, denunciará el hecho ante el Juez de Policía Local competente, según lo dispuesto en el inciso tercero.
 
-Para el cumplimiento de lo dispuesto en la letra d) del artículo 10, la fiscalización corresponderá, además, a la policía marítima, fluvial y lacustre y, en caso de constatarse alguna infracción, ésta deberá ser comunicada a la autoridad sanitaria respectiva.
+Los inspectores de la municipalidad respectiva también fiscalizarán el cumplimiento de esta ley, y denunciarán ante los tribunales señalados en el inciso precedente las infracciones que constaten.
 
-En todos los casos regulados por este artículo se aplicarán las sanciones establecidas en el artículo 16.
+El juez de policía local que corresponda será el facultado para imponer la sanción correspondiente, y contra su resolución procederán los recursos que franquea la ley. El procedimiento se sujetará a lo establecido en la ley N°18.287.
 
-Cualquier persona podrá denunciar ante la autoridad sanitaria el incumplimiento de las obligaciones establecidas en los artículos 10, 11 y 12.
+Para el cumplimiento de lo dispuesto en la letra d) del artículo 10 la fiscalización corresponderá, además, a la policía marítima, fluvial y lacustre y, en caso de constatarse alguna infracción, ésta se deberá denunciar ante el juez señalado en el inciso primero.
+
+En caso alguno se podrá exigir el pago previo de la multa, que será siempre a beneficio municipal.
+
+Cualquier persona podrá denunciar el incumplimiento de las obligaciones establecidas en los artículos 10, 11 y 12.
 
 #### Artículo 16
 
 La infracción de las disposiciones de la presente ley será sancionada en conformidad a las reglas siguientes:
 
-1) Multa de 3 a 50 unidades tributarias mensuales, y de 30 a 300 unidades tributarias mensuales, si la infracción es cometida por una persona natural o jurídica perteneciente a la industria cuyos productos se regulan por esta ley, por la venta, la compra para vender, la comercialización en cualquier forma, la distribución, el transporte y el almacenaje de productos de tabaco, de cualquier forma, clase o naturaleza, así como SEAN y SESN, y sus líquidos de vapeo, y/o sus accesorios, que no cumplan con las obligaciones legales en materia sanitaria, aduanera, tributaria y de propiedad intelectual. En estos casos, la multa procederá sin perjuicio de las sanciones penales que pudieren corresponder. Además, en caso de reincidencia, se decretará la clausura del establecimiento, comercio o lugar donde se hubiere cometido la infracción por un período de quince días.
+1) Multa de 3 a 50 unidades tributarias mensuales, y de 30 a 300 unidades tributarias mensuales, si la infracción es cometida por una persona natural o jurídica perteneciente a la industria tabacalera, por la venta, la compra para vender, la comercialización en cualquier forma, la distribución, el transporte y el almacenaje de productos de tabaco, de cualquier forma, clase o naturaleza, que no cumplan con las obligaciones legales en materia sanitaria, aduanera, tributaria y de propiedad intelectual. En estos casos, la multa procederá sin perjuicio de las sanciones penales que pudieren corresponder. Además, en caso de reincidencia, se decretará la clausura del establecimiento, comercio o lugar donde se hubiere cometido la infracción por un período de quince días.
 
-2) Multa de 500 a 1.000 unidades tributarias mensuales y comiso de las especies objeto de la infracción, por la contravención de lo establecido en el inciso segundo del artículo 9º, utilizando aditivos o sustancias prohibidas por el Ministerio de Salud o excediendo los límites máximos permitidos de las sustancias contenidas en los productos de tabaco, SEAN y SESN, y sus líquidos de vapeo.
+2) Multa de 500 a 1.000 unidades tributarias mensuales y comiso de las especies objeto de la infracción, por la contravención de lo establecido en el inciso segundo del artículo 9º, utilizando aditivos o sustancias prohibidas por el Ministerio de Salud o excediendo los límites máximos permitidos de las sustancias contenidas en los productos de tabaco.
 
-3) Multa de 1 a 50 unidades tributarias mensuales, y de 101 a 500 unidades tributarias mensuales si la infracción es cometida por una persona natural o jurídica perteneciente a la industria cuyos productos se regulan por esta ley, además del comiso de los bienes materia de la infracción, en los siguientes casos:
+3) Multa de 1 a 50 unidades tributarias mensuales, y de 101 a 500 unidades tributarias mensuales si la infracción es cometida por una persona natural o jurídica perteneciente a la industria tabacalera, además del comiso de los bienes materia de la infracción, en los siguientes casos:
 
-a. Venta de productos de tabaco, sus accesorios, así como SEAN y SESN, y sus líquidos de vapeo, en lugares que se encuentren a menos de 100 metros de distancia de establecimientos de enseñanza básica y media, con infracción de lo dispuesto en el inciso tercero del artículo 4º. Además, en caso de reincidencia, se podrá decretar la clausura del establecimiento, comercio o lugar donde se cometió la infracción por un período de quince días.
+a. Venta de productos de tabaco en lugares que se encuentren a menos de 100 metros de distancia de establecimientos de enseñanza básica y media, con infracción de lo dispuesto en el inciso segundo del artículo 4º. Además, en caso de reincidencia, se podrá decretar la clausura del establecimiento, comercio o lugar donde se cometió la infracción por un período de quince días.
 
-b. Efectuar acciones de publicidad del tabaco, SEAN, SESN, sus líquidos de vapeo y sus accesorios, o elementos de la marca relacionados con dichos productos.
+b. Publicidad del tabaco o de elementos de la marca relacionados con dicho producto.
 
-c. Ofrecer o proporcionar cualquier compensación, directa o indirecta, por la compra de productos de tabaco, SEAN, SESN, sus líquidos de vapeo, y sus accesorios, en contravención a lo dispuesto en el artículo 5º.
+c. Ofrecer o proporcionar cualquier compensación, directa o indirecta, por la compra de productos de tabaco, en contravención a lo dispuesto en el artículo 5°.
 
-d. Transgredir las normas acerca de porcentajes de distribución de advertencias en productos de tabaco, SEAN, SESN, sus líquidos de vapeo, y sus accesorios, de conformidad con lo establecido en el inciso cuarto del artículo 6º.
+d. Transgredir las normas acerca de los porcentajes de distribución de advertencias en productos de tabaco, de conformidad con lo establecido en el inciso cuarto del artículo 6°.
 
 4) Multa de 101 a 500 unidades tributarias mensuales y comiso de las especies objeto de la infracción en los casos siguientes:
 
-a. Omitir en los envases de los productos de tabaco, SEAN, SESN, sus líquidos de vapeo y sus accesorios, nacionales o importados destinados a su distribución dentro del territorio nacional, la advertencia que establece el artículo 6º, o hacerlo con un diseño diverso, en lugares distintos o en proporción menor de los allí indicados.
+a. Omitir en los envases de los productos de tabaco nacionales o importados destinados a su distribución dentro del territorio nacional, la advertencia que establece el artículo 6º, o hacerlo con un diseño diverso, en lugares distintos o en proporción menor de los allí indicados.
 
-b. No expresar clara y visiblemente en una de las caras laterales de los envases de cigarrillos, de los SEAN y SESN, y sus líquidos de vapeo, los principales componentes del producto, en los términos establecidos por el Ministerio de Salud en conformidad al inciso tercero del artículo 9º.
+b. Efectuar acciones publicitarias de productos de tabaco, sean nacionales o importados destinados a su distribución dentro del territorio nacional, cualquiera sea la forma o el medio en que se realice, omitiendo la advertencia que establece el artículo 6º.
 
-c. Infringir las normas sobre difusión de la información referida a los aditivos y sustancias incorporadas a los productos de tabaco, a los SEAN y SESN, y sus líquidos de vapeo, y sus efectos en la salud de los consumidores establecidas en conformidad al artículo 9º.
+c. No expresar clara y visiblemente en una de las caras laterales de los envases de cigarrillos los principales componentes del producto, en los términos establecidos por el Ministerio de Salud en conformidad al inciso tercero del artículo 9º.
 
 d. Infringir las normas sobre difusión de la información referida a los aditivos y sustancias incorporadas al tabaco y sus efectos en la salud de los consumidores establecidas en conformidad al artículo 9º.
 
-5) Multa de 101 a 500 unidades tributarias mensuales, por no informar al Ministerio de Salud sobre los constituyentes y aditivos que se incorporan a los productos de tabaco, SEAN, SESN y sus líquidos de vapeo, o sobre las sustancias utilizadas para el tratamiento del tabaco, en conformidad al inciso primero del artículo 9º.
+5) Multa de 101 a 500 unidades tributarias mensuales, por no informar al Ministerio de Salud sobre los constituyentes y aditivos que se incorporan a los productos de tabaco, o sobre las sustancias utilizadas para el tratamiento del tabaco, en conformidad al inciso primero del artículo 9º.
 
-6) Multa de 3 a 50 unidades tributarias mensuales, y de 30 a 300 unidades tributarias mensuales si la infracción es cometida por una persona natural o jurídica perteneciente a la industria cuyos productos se regulan por esta ley, además del comiso de los bienes materia de la infracción, por comercializar, ofrecer, distribuir o entregar a título gratuito productos de tabaco, sus accesorios, así como SEAN y SESN, y sus líquidos de vapeo, a menores de 18 años de edad, en contravención a lo dispuesto en el inciso primero del artículo 4º. Además, en caso de reincidencia, se podrá decretar la clausura, por un período de quince días, del establecimiento, comercio o lugar donde se cometió la infracción.
+6) Multa de 3 a 50 unidades tributarias mensuales, y de 30 a 300 unidades tributarias mensuales si la infracción es cometida por una persona natural o jurídica perteneciente a la industria tabacalera, además del comiso de los bienes materia de la infracción, por comercializar, ofrecer, distribuir o entregar a título gratuito productos de tabaco a menores de 18 años de edad, en contravención a lo dispuesto en el inciso primero del artículo 4º. Además, en caso de reincidencia, se podrá decretar la clausura, por un período de quince días, del establecimiento, comercio o lugar donde se cometió la infracción.
 
 7) Multa de 50 a 250 unidades tributarias mensuales y comiso de las especies materia de la infracción, por incluir en el nombre o propiedades asociadas a la marca de cigarros o cigarrillos términos tales como light, suave, ligero, bajo en alquitrán, nicotina, monóxido de carbono u otros similares prohibidos en el artículo 8°.
 
-8) Multa de 10 a 100 unidades tributarias mensuales, por la instalación de máquinas expendedoras automáticas de productos de tabaco, SEAN, SESN y sus líquidos de vapeo, en establecimientos, lugares o recintos a los cuales no esté prohibido por disposición de la ley el acceso de los menores de edad, en contravención a lo dispuesto en el inciso segundo del artículo 4º. Además, en caso de reincidencia, se podrá decretar la clausura del establecimiento, comercio o lugar donde se cometió la infracción por un período de quince días.
+8) Multa de 10 a 100 unidades tributarias mensuales, por la instalación de máquinas expendedoras automáticas de productos de tabaco en establecimientos, lugares o recintos a los cuales no esté prohibido por disposición de la ley el acceso de los menores de edad, en contravención a lo dispuesto en el inciso primero del artículo 4º. Además, en caso de reincidencia, se podrá decretar la clausura del establecimiento, comercio o lugar donde se cometió la infracción por un período de quince días.
 
 9) Multa de 1 a 20 unidades tributarias mensuales, y de 10 a 50 unidades tributarias mensuales si la infracción es cometida por una persona natural o jurídica perteneciente a la industria tabacalera, además del comiso de los bienes materia de la infracción por vender cigarrillos unitariamente o en paquetes que contengan una cantidad inferior a diez.
 
@@ -230,13 +206,11 @@ d. Infringir las normas sobre difusión de la información referida a los aditiv
 
 a. DEROGADO.
 
-b. Infracción de las reglas sobre las advertencias que deben exhibirse relativas a la prohibición de fumar o inhalar productos de tabaco, SEAN, SESN, y sus líquidos de vapeo, en conformidad a lo dispuesto en el artículo 14.
+b. Infracción de las reglas sobre las advertencias que deben exhibirse relativas a la prohibición de fumar en conformidad a lo dispuesto en el artículo 14.
 
-11) Multa de 2 unidades tributarias mensuales aplicada por cada infractor, al dueño, director o administrador del establecimiento respectivo, por la transgresión de la prohibición de fumar o inhalar productos de tabaco, SEAN, SESN, y sus líquidos de vapeo, en lugares no autorizados. Con todo, el dueño, director o administrador podrá eximirse del pago de la multa acreditando que se conminó al fumador o inhalador a cumplir la ley o a abandonar el lugar y con posterioridad se formuló la denuncia respectiva a la autoridad fiscalizadora. En estos casos podrá solicitarse el auxilio de la fuerza pública para restablecer el imperio de la ley.
+11) Multa de 2 unidades tributarias mensuales aplicada por cada infractor, al dueño, director o administrador del establecimiento respectivo, por la transgresión de la prohibición de fumar en lugares no autorizados. Con todo, el dueño, director o administrador podrá eximirse del pago de la multa acreditando que se conminó al fumador a cumplir la ley o a abandonar el lugar y con posterioridad se formuló la denuncia respectiva a la autoridad fiscalizadora. En estos casos podrá solicitarse el auxilio de la fuerza pública para restablecer el imperio de la ley.
 
-12) Multa de 2 unidades tributarias mensuales aplicada a quien contravenga la prohibición de fumar o inhalar productos de tabaco, SEAN, SESN, y sus líquidos de vapeo, establecida en los artículos 10 y 11.
-
-13) Multa de 4 unidades tributarias mensuales, a quienes vendan, ofrezcan, distribuyan o entreguen a título gratuito productos de tabaco y sus accesorios, SEAN, SESN, y sus líquidos de vapeo a menores de edad.
+12) Multa de 1 a 4 unidades tributarias mensuales, aplicada al fumador que contravenga la prohibición de fumar establecida en los artículos 10, 11 y 12.
 
 Para determinar el monto de la multa a aplicar en conformidad al presente artículo, se tomarán en consideración las circunstancias de la infracción y, especialmente, la capacidad económica del infractor.
 
@@ -252,29 +226,7 @@ Para los efectos de comprobar la edad en caso de duda, a fin de evitar incurrir 
 
 En caso que la infracción sea cometida por un órgano de la Administración del Estado, la Autoridad Sanitaria deberá, además, poner el asunto en conocimiento del Órgano Público correspondiente para que adopte las medidas administrativas que correspondan, enviando copia de dicha comunicación al Subsecretario de Salud Pública, quien llevará un registro público de ellas.
 
-## Título II
-
-De los sistemas electrónicos de administración de nicotina y sin nicotina, y sus líquidos de vapeo
-
-#### Artículo 18
-
-Los empaques de SEAN, SESN y líquidos de vapeo, deberán incluir, al menos, la siguiente información en español:
-
-a) En los SEAN y SESN, se deberá indicar el nombre del fabricante, lugar de elaboración e instrucciones de armado, desarmado y mantenimiento.
-
-b) En los líquidos de vapeo, se deberá contener un manual u otro inserto que contenga información sobre el nombre del fabricante, lugar de elaboración, ingredientes y su concentración, instrucciones de uso, almacenamiento, conservación, carga, manipulación y contraindicaciones. Los líquidos de recarga deberán contener en su etiquetado sus ingredientes en orden decreciente de concentración.
-
-Respecto a los líquidos de vapeo que contengan nicotina, además, deberán indicar la concentración en miligramos o mililitros, y mencionar las contraindicaciones para las personas que fueren sensibles a la nicotina o a los productos que la contengan.
-
-Ninguno de los envases señalados anteriormente podrá sugerir que el producto es menos nocivo que otro, o que tiene efectos vitalizantes, energéticos, curativos, rejuvenecedores, naturales, ecológicos u otros positivos sobre la salud o el estilo de vida.
-
-#### Artículo 19
-
-Los recipientes de líquidos de vapeo deberán ser seguros y resistentes a la manipulación de menores de 18 años.
-
-#### Artículo 20
-
-La concentración de los líquidos de vapeo que contengan nicotina no podrá superar los 45 miligramos por mililitros.
+> **Nota.** El Art. 2º de la LEY 20105, publicada el 16.05.2006 establece que las modificaciones introducidas al presente artículo entrarán en vigencia 90 días después de su publicación en el Diario Oficial.
 
 Santiago, 22 de Septiembre de 1995.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Carlos Massad Abud, Ministro de Salud.- Sergio Molina Silva, Ministro de Educación.
 

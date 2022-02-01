@@ -4562,6 +4562,8 @@ Sufrirán la pena de multa de una a cuatro unidades tributarias mensuales:
 
 3.° El que ensuciare, arrojare o abandonare basura, materiales o desechos de cualquier índole en playas, riberas de ríos o de lagos, parques nacionales, reservas nacionales, monumentos naturales o en otras áreas de conservación de la biodiversidad declaradas bajo protección oficial.
 
+La pena consistirá en la prestación de servicios en beneficio de la comunidad consistente en la limpieza de playas, lagos o ríos. Esta pena se regulará conforme a lo dispuesto en los artículos 49, 49 bis, 49 ter, 49 quáter, 49 quinquies y 49 sexies, debiendo existir consentimiento previo del condenado. En caso de no haber consentimiento, se aplicará la pena de multa.
+
 4.° El que amenazare a otro con armas blancas y el que riñendo con otro las sacare, como no sea con motivo justo.
 
 5.° El que causare lesiones leves, entendiéndose por tales las que, en concepto del tribunal, no se hallaren comprendidas en el art. 399, atendidas la calidad de las personas y circunstancias del hecho. En ningún caso el tribunal podrá calificar como leves las lesiones cometidas en contra de las personas mencionadas en el artículo 5° de la Ley sobre Violencia Intrafamiliar, ni aquéllas cometidas en contra de las personas a que se refiere el inciso primero del artículo 403 bis de este Código.
