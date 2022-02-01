@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 390, de fecha 20 de septiembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Guillermo Antonio Vargas Peña, RUT Nº 10.015.728-4, concesión marítima menor, con vencimiento el 31 de diciembre de 2026, sobre un sector de Terreno de Playa en el lugar denominado Villa Alegre, comuna de Chañaral, Provincia de Chañaral, Región de Atacama, con una superficie total de 64 m², la que fue tramitada con el SIABC Nº 47.232. A modo referencial se señalan las siguientes coordenadas geográficas: Vértice A: Lat. 26º31'38.439"S Long. 70º42'24.913"W y Vértice D: Lat. 26º31'38.494"S Long. 70º42'25.196"W. El objeto consiste en amparar la construcción de una casa para destinarla a veraneo familiar. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Claudio Durán Roco, Sargento 1º L, Capitán de Puerto de Chañaral Subrogante.
