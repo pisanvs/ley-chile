@@ -1,0 +1,5 @@
+RENOVACIÓN CONCESIÓN MARÍTIMA MENOR
+
+Productos Químicos Algina Sociedad Anónima, RUT 80.761.800-8, ha presentado ante la Capitanía de Tierra del Fuego, solicitud de Renovación de Concesión Marítima Menor, la que fue otorgada por decreto supremo N° 378 del 20.09.2021, SIABC N° 40.371, sobre un sector de playa y fondo de mar, en el lugar denominado Banco Gómez, Canalizo Entrada Bahía Chilota, Comuna de Porvenir, Provincia de Tierra del Fuego, Región de Magallanes y Antártica Chilena, requiriendo una superficie total de 325,54 m2. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): Pto. A: 53°18'22,54" (S), 70°26'19,48" (W). El objeto de la concesión consiste en amparar dos tuberías de pvc, para succión y descarga de agua de mar, que se realizará en el proceso de lavado de algas en la planta de secado y derivados de algas marinas. Los antecedentes de la Concesión se encuentran a disposición del público en la Capitanía de Puerto de Tierra del Fuego. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Roberto Cabrera Vira, Sargento 1° L. (MN), Capitán de Puerto de Tierra del Fuego Subrogante.
