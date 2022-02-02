@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "COLBÚN S.A."
+
+Mediante decreto exento Nº 4, de 14 de enero de 2022, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Colbún S.A.", RUT Nº 96.505.760-9, el inmueble fiscal denominado "Candelaria", ubicado aproximadamente a 4,5 km. al norte de la intersección de la Ruta 5 con la Ruta 24, aproximadamente a 550 metros al oeste de Subestación Eléctrica María Elena, comuna de María Elena, provincia de Tocopilla, Región de Antofagasta, singularizado en el Plano Nº 02302-4.555-C.R., de una superficie total de 369,32 hectáreas, enrolado en el Servicio de Impuestos Internos bajo el Rol Nº 6700-65; amparado por la inscripción global a nombre del Fisco que rola a fojas 6 Nº 6 del Registro de Propiedad del año 1996, del Conservador de Bienes Raíces de María Elena. La concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la concesión para el período de estudios y construcción será de UF 11.600, y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La concesión se otorga para ejecutar proyecto de energía renovable (ERNC). El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
