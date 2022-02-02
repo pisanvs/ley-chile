@@ -110,6 +110,8 @@ El complemento de los montos de subsidios por los aportes del Gobierno Regional 
 
 20. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de proyectos seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional, o en el sitio web del Minvu.
 
+> **Nota.** El numeral 1 de la Resolución 2003 Exenta, Vivienda, publicada el 22.12.2021, modifica la presente norma en el sentido de reemplazar en la tabla inserta en su resuelvo 7., en la última fila correspondiente a la Región de Magallanes y de la Antártica Chilena, el guarismo "458" por "514".
+
 Anótese, publíquese y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
