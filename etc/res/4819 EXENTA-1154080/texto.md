@@ -238,7 +238,7 @@ La etapa de inscripción consiste en la declaración voluntaria, individual e in
 
 Sin perjuicio de lo anterior, al término del plazo de inscripción ordinaria, o extraordinaria si lo hubiera, y ante la imposibilidad de concretar la inscripción dentro de los plazos establecidos, los postulantes podrán presentar una apelación de inscripción, en los plazos y forma que la/s entidad/es responsable/s de la ejecución del proceso de selección determine/n, toda vez que se verifique el intento de gestión de esta y siempre que se refiera a circunstancias no imputables al postulante.
 
-Pueden inscribirse todas aquellas personas que hayan egresado de la Enseñanza Media o se encuentren cursando actualmente el último año de ésta, incluido los extranjeros que para dicho efecto hayan reconocido dicha calidad en nuestro país.
+Pueden inscribirse quienes hayan egresado de la Enseñanza Media o se encuentren cursando actualmente el último año de ésta, incluidos los extranjeros que para dicho efecto hayan reconocido dicha calidad en nuestro país. Sin perjuicio de lo anterior, para la aplicación de invierno, podrán inscribirse sólo quienes, a la fecha de inscripción, hayan egresado de la Enseñanza Media.
 
 Los postulantes de promociones anteriores que no registran notas en la plataforma de inscripción o el sistema dispuesto para este efecto, no podrán concretar su inscripción hasta que regularicen su situación ante el Ministerio de Educación.
 
@@ -324,7 +324,11 @@ b. Entregar, dentro de los plazos establecidos, los datos o documentos fidedigno
 
 c. Verificar que los antecedentes académicos disponibles en el portal estén correctos al momento de realizar la inscripción. Será responsabilidad del postulante solicitar al Ministerio de Educación, en los plazos establecidos y publicados en acceso.mineduc.cl, la regularización de dichos antecedentes, en caso de ser necesario.
 
-d. Pagar el arancel para la rendición de las pruebas, en caso que corresponda.
+d. Deberes de inscripción:
+
+d.1. Inscribir todas las pruebas de admisión universitaria obligatorias y al menos una prueba electiva. Sin perjuicio de lo anterior, los postulantes que cuenten con licencia de enseñanza media podrán inscribir una o más pruebas, ya sea de aquellas obligatorias o de aquellas electivas.
+
+d.2. Pagar el arancel para la rendición de la o las pruebas, en caso que corresponda.
 
 e. Presentarse a rendir las pruebas portando sólo su documento de identificación, su tarjeta de identificación, un lápiz grafito N° 2 o portaminas HB y goma de borrar. Opcionalmente podrá ingresar además con un destacador. Está estrictamente prohibido el ingreso y uso de calculadoras, celulares, máquinas fotográficas, tabletas u otros dispositivos electrónicos, así como el ingreso a los locales de aplicación con bolsos, mochilas, carteras, relojes digitales y cualquier otro elemento durante la rendición de las pruebas. Cabe señalar que, ni el Ministerio de Educación, ni la institución/es encomendada/s por la Subsecretaría de Educación Superior serán responsables por la eventual pérdida y/o daños de estos objetos una vez que los postulantes hayan ingresado al local de aplicación. Asimismo, el Ministerio de Educación podrá solicitar otros insumos necesarios, de acuerdo con lo que establezca la autoridad sanitaria al momento de la rendición.
 
@@ -389,6 +393,8 @@ Postulantes que rinden la prueba con nombre social: En atención a los principio
 Etapa de rendición de la prueba de admisión.
 
 La etapa de rendición de las pruebas se realizará a nivel nacional los días establecidos en el calendario oficial que se determine.
+
+Podrán implementarse instancias de rendición denominadas "aplicación regular" y "aplicación de invierno". El periodo de aplicación regular es aquel en el cual la prueba de admisión se rinde dentro del último trimestre o del primer trimestre de cada año. En tanto, el periodo de aplicación de invierno es aquel que se rinde dentro del segundo trimestre o tercer trimestre de cada año.
 
 Los locales de rendición designados para cada uno de los postulantes inscritos serán informados al postulante a través de la Plataforma Electrónica Única del Sistema de Acceso u otro mecanismo que determine la Subsecretaría de Educación Superior. Será responsabilidad de la institución/es encomendada/s de ejecutar las acciones del Sistema de Acceso, establecer los procedimientos para resolver problemas vinculados a la entrega de la información de la designación de los locales de rendición, así como también, de otros relacionados con las acciones que le han sido encomendadas.
 
@@ -466,7 +472,7 @@ Luego de la lectura, revisión y control de calidad de las pruebas rendidas, se 
 
 3. Deberá estimarse la dificultad de los ítems según la información de la prueba rendida, comparándola con la dificultad que muestre en el Banco de Ítems, el cual está calibrado. Se deberá realizar una regresión para asociar estas dos estimaciones de dificultad y decidir si se podrán "desanclar" ítems, con el fin de dar estabilidad a los parámetros estimados. Este método deberá ser certificado por un asesor, previamente acordado entre la Subsecretaría de Educación Superior y la institución encargada.
 
-4. Una vez obtenida la estimación de la dificultad de cada uno de los ítems de las formas de las pruebas, se procede a estimar la habilidad de los postulantes en cada prueba, para luego llevarla a una escala estándar, que considere la normalización estadística. Este método deberá ser certificado por un equipo experto externo, previamente acordado entre la Subsecretaría de Educación Superior y la institución encargada.
+4. Una vez obtenida la estimación de la dificultad de cada uno de los ítems de las formas de las pruebas, se procede a estimar la habilidad de los postulantes en cada prueba, para luego llevarla a una escala estándar, método que, hasta el proceso admisión 2022 considerará la normalización estadística y, desde el proceso de admisión 2023, deberá ser certificado por un equipo experto externo, previamente acordado entre la Subsecretaría de Educación Superior y la institución encargada de la ejecución de las acciones del Sistema de Acceso.
 
 5. Una vez realizados los controles de calidad internos, que deberán arrojar una coincidencia del 100% de los resultados de las dificultades de los ítems, de las habilidades estimadas para cada postulante al séptimo decimal y del puntaje estándar, se realizan las transformaciones que corresponda para calcular el puntaje de cada postulante en las pruebas rendidas, el que será posteriormente publicado.
 
@@ -562,13 +568,13 @@ Los interesados en postular a primer año de alguno de los programas de pregrado
 
 1. Inscribirse dentro de los plazos establecidos para la rendición de la prueba de admisión universitaria, cumpliendo con los requisitos que al efecto se soliciten, completando los formularios y etapas que para este fin se dispongan. Las particularidades de la etapa de inscripción se encuentran en el numeral 4.1.1.1 del presente instrumento.
 
-2. Rendir las pruebas de admisión universitarias obligatorias y al menos una electiva.
+2. Rendir las pruebas de admisión universitarias obligatorias y al menos una electiva. A contar del proceso de admisión 2023, quienes cuenten con licencia de enseñanza media, en cada instancia de rendición, podrán rendir una cualquiera de las pruebas, ya sea obligatorias o electivas.
 
 3. Cumplir con los requisitos de postulación de los programas de su interés. Cabe señalar que las universidades estarán facultadas para fijar requisitos de postulación más exigentes que los establecidos en los criterios de habilitación, como, por ejemplo, puntajes mínimos de postulación superiores al establecido en los criterios de habilitación. Asimismo, las universidades podrán exigir puntajes ponderados mínimos, ya sea por carreras en particular o para toda la institución en general. Si el postulante obtiene un puntaje ponderado inferior al mínimo exigido por una carrera o universidad en particular, su postulación a ésta quedará eliminada. Si el postulante obtiene un puntaje ponderado igual o superior al mínimo exigido para dicha carrera, esto no le garantiza la obtención de un cupo en ella, ya que debe someterse al proceso de selección de acuerdo con la ordenación de postulantes por carrera. Sin perjuicio de lo anterior y según se indica en el N° 2 del numeral 4.1.3, las universidades no podrán hacer más estricto el criterio de habilitación de ubicación del postulante dentro del 10% superior de la promoción, debido al factor de equidad en la admisión a educación superior que ha justificado la inclusión de ese criterio.
 
 4. Postular, dentro de los plazos públicamente establecidos, a las carreras y universidades adscritas al sistema de acceso, a través de la Plataforma Electrónica Única del Sistema de Acceso, en las fechas establecidas según el calendario oficial del proceso.
 
-El postulante podrá utilizar los puntajes obtenidos en las pruebas rendidas en el proceso de admisión anterior. En caso de tener pruebas de dos procesos vigentes, la postulación se realizará considerando automáticamente el mejor puntaje que resulte de ponderar separadamente las pruebas que rindió cada año. Es decir, en ningún caso, se calculará el puntaje ponderado utilizando una combinación de las pruebas rendidas en cada proceso.
+El postulante podrá utilizar los puntajes obtenidos en las pruebas rendidas en el proceso de admisión anterior. En caso de tener pruebas de dos procesos vigentes, la postulación se realizará considerando automáticamente el mejor puntaje que resulte de ponderar separadamente las pruebas que rindió en cada proceso de admisión. Es decir, en ningún caso, se calculará el puntaje ponderado utilizando una combinación de las pruebas rendidas en cada proceso. Sin perjuicio de lo anterior, a partir del proceso de admisión 2023, para efectos de la ponderación, la postulación se realizará considerando automáticamente el mayor puntaje obtenido en cada una de sus pruebas vigentes individualmente consideradas; en relación con esto último, en el proceso de admisión 2023, se considerarán los resultados obtenidos en las pruebas individuales del proceso de admisión 2022.
 
 Previo a la etapa de postulación y según lo determine el Comité de Acceso, las universidades adscritas al Sistema recibirán el puntaje obtenido por los inscritos en cada uno de los instrumentos generales de acceso (puntaje NEM, puntaje Ranking, pruebas de admisión universitaria obligatorias y electivas).
 
