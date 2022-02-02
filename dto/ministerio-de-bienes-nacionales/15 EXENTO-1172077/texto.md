@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "FAROL SOLAR SpA"
+
+Mediante decreto exento Nº 15, de 14 de enero de 2022, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Farol Solar SpA", RUT Nº 77.116.747-0, el inmueble fiscal denominado "Acceso Sur Mejillones", ubicado aproximadamente a 8,5 kilómetros al sureste de Mejillones, aproximadamente a 730 metros al este de la Ruta B-272, comuna de Mejillones, provincia de Antofagasta, Región de Antofagasta, singularizado en el Plano Nº 02102-9.348-C.R., de una superficie total de 36,14 hectáreas, enrolado en el Servicio de Impuestos Internos bajo el rol Nº 8000-9; amparado por la inscripción global a nombre del Fisco que rola a fojas 24 vta. Nº 27 del Registro de Propiedad del año 2016, del Conservador de Bienes Raíces de Mejillones. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción será de UF 5.843.-; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La concesión se otorga para ejecutar proyecto de Energía Renovable (ERNC). El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
