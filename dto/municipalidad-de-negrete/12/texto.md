@@ -82,35 +82,31 @@ Derechos relativos a urbanización y construcción
 
 Los servicios, concesiones o permisos relativos a la urbanización y construcción que se señalan, pagarán los derechos municipales que se detallan en conformidad a lo dispuesto en la Ley General de Urbanismo y Construcción.
 
-1.- Subdivisiones 3% del avalúo fiscal
+1.- Subdivisiones terreno. 3% del avalúo fiscal
 
-terreno.
-
-2.- Loteos 3% del avalúo fiscal
-
-terreno.
+2.- Loteos terreno. 3% del avalúo fiscal
 
 3.- Obras, ampliaciones 1,5% del presupuesto.
 
-4.- Alteraciones, reparaciones
+4.- Alteraciones, reparaciones 1,0% del presupuesto.
 
-obras menores y provisorias 1,0% del presupuesto.
+obras menores y provisorias
 
-5.- Obra nueva beneficiada con
+5.- Obra nueva beneficiada con exenta
 
-subsidio rural exenta
+subsidio rural
 
 6.- Regularizaciones 1,0% del presupuesto.
 
-7.- Plano tipo autorizado por el MINVU
+7.- Plano tipo autorizado 0,5% del presupuesto.
 
-0,5% del presupuesto.
+por el MINVU
 
 8.- Reconstrucción 1,0% del presupuesto.
 
-9.- Modificación de proyectos de edificación
+9.- Modificación de proyectos 1,0% del presupuesto.
 
-1,0% del presupuesto.
+de edificación
 
 10.- Devoluciones 1,0% del presupuesto.
 
@@ -118,27 +114,31 @@ subsidio rural exenta
 
 12.- Otros certificados 5% de una UTM
 
-13.- Colocación de andamios y cierros provisorios
+13.- Colocación de andamios y
 
-- Hasta 60 días por metro cuadrado diario
+cierros provisorios
 
-0,5% de una UTM
+- Hasta 60 días por metro 0,5% de una UTM
 
-- Por cada día adicional a 60 días
+cuadrado diario
 
-0,1% de una UTM
+- Por cada día adicional a 60 días 0,1% de una UTM
 
-14.- Extracción de áridos de predios particulares por
+14.- Extracción de áridos de predio 2,0% de 1 UTM
 
-metro cúbico 1,0% de una UTM
+particular por metro cúbico
 
-15.- Copia autorizada de plano regulador, por cada uno
+15.- Copia autorizada de plano 30% de una UTM
 
-incluye valor copia 30% de una UTM
+regulador, por cada uno
 
-16.- Copia autorizada por planos municipales, sin
+incluye valor copia
 
-incluir valor copia 5% de una UTM
+16.- Copia autorizada por planos 5% de una UTM
+
+municipales, sin
+
+incluir valor copia
 
 17.- Inscripción de contratista 25% de una UTM
 
