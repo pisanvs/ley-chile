@@ -1332,105 +1332,171 @@ Antonio Samoré y todo tipo de
 
 N. SUJETOS A LA JURISDICCION DE LA ADUANA DE PUERTO MONTT:
 
-Punto Habilitado Habilitación Operaciones aduaneras
+Punto Habilitado Habilitación Operaciones
 
-1.Puerto de Permanente Paso de personas
+aduaneras
 
-Puerto Montt y todo tipo de
+1.Puerto de Permanente Paso de
 
-operaciones aduaneras.
+Puerto Montt personas
 
-2.Puerto de Ancud Ocasional Paso de personas y
+y todo
 
-todo tipo de
+tipo
 
-operaciones aduaneras.
+de
 
-3.Puerto de Castro Ocasional Paso de personas
-
-y todo tipo de
-
-operaciones aduaneras.
-
-4.Aeropuerto Permanente Paso de personas
-
-Internacional y todo tipo de
-
-El Tepual operaciones aduaneras.
-
-5. Paso Permanente Paso de personas y
-
-Internacional todo tipo de operaciones
-
-Vicente aduaneras.
-
-Pérez
-
-Rosales
-
-6.Paso Vuriloche Temporal Paso de personas y
-
-41º13'S operaciones de admisión
-
-71º51'W y salida temporal de
-
-mercancías por
-
-turistas.
-
-7.Paso Río Manso Permanente Paso de personas
-
-41º31'S y todo tipo de
-
-71º51'W operaciones aduaneras.
-
-8. Paso Río Permanente Paso de personas
-
-Puelo Fluvial y todo tipo de
-
-42º06'S operaciones
-
-71º44'W aduaneras.
-
-9.Paso Futaleufú Permanente Paso de personas y todo
-
-43º11'S tipo de operaciones
-
-71º45'W aduaneras.
-
-10.Paso Río Encuentro Permanente Paso de personas y todo
-
-43º35'S tipo de operaciones
-
-71º45'W aduaneras.
-
-11.Panguipulli Permanente Paso de personas y
-
-todo tipo
-
-de operaciones
+operaciones
 
 aduaneras.
 
-12.Muelle en Isla Permanente Paso de personas,
+2.Puerto de Ancud Ocasional Paso de
 
-Quihua y todo tipo de
+personas
 
-operaciones aduaneras.
+y todo tipo
 
-13. Paso Huahum Temporal Paso de Personas
+de
 
-Fluvial (Rafting)"
+operaciones
 
-40°06' S
+aduaneras.
+
+3.Puerto de Castro Ocasional Paso de
+
+personas
+
+y todo
+
+tipo de
+
+operaciones
+
+aduaneras.
+
+4.Aeropuerto Permanente Paso de
+
+Internacional personas
+
+El Tepual y todo
+
+tipo de
+
+operaciones
+
+aduaneras.
+
+5. Paso Permanente Paso de
+
+Internacional personas y
+
+Vicente todo tipo de
+
+Pérez operaciones
+
+Rosales aduaneras.
+
+6.Paso Vuriloche Temporal Paso de
+
+41º13'S personas y
+
+71º51'W operaciones
+
+de admisión
+
+y salida
+
+temporal de
+
+mercancías
+
+por
+
+turistas.
+
+7.Paso Río Manso Permanente Paso de
+
+41º31'S personas y
+
+71º51'W todo tipo de
+
+operaciones
+
+aduaneras.
+
+8. Paso Río Permanente Paso de personas
+
+Puelo Fluvial y todo tipo
+
+42º06'S de
+
+71º44'W operaciones
+
+aduaneras.
+
+9.Paso Futaleufú Permanente Paso de
+
+43º11'S personas y todo
+
+71º45'W tipo de
+
+operacione
+
+saduaneras.
+
+10.Paso Río Permanente Paso de
+
+Encuentro personas y
+
+43º35'S todo tipo
+
+71º45'W de
+
+operaciones
+
+aduaneras.
+
+11.Panguipulli Permanente Paso de
+
+personas y
+
+todo tipo
+
+de
+
+operaciones
+
+aduaneras.
+
+12.Muelle en Isla Permanente Paso de
+
+Quihua personas,
+
+y todo
+
+tipo de
+
+operaciones
+
+aduaneras.
+
+13. Paso Huahum Temporal Paso de
+
+Fluvial Personas
+
+40°06' S (Rafting)"
 
 71°40' W
 
-14. Bahía de Chaitén Ocasional Paso de personas
+14. Bahía de Chaitén Ocasional Paso de
 
-42º54'43,79" S y todo tipo de
+42º54'43,79" S personas y
 
-72º42'03,35" W operaciones
+72º42'03,35" W todo tipo
+
+de
+
+operaciones
 
 aduaneras.
 
@@ -1438,11 +1504,15 @@ aduaneras.
 
 Skretting graneles
 
-41º 47' 10" S y líquidos, paso
+41º 47' 10" S y líquidos,
 
-73º 26' 43" W de personas, y
+73º 26' 43" W paso de
 
-todo tipo de
+personas,
+
+y todo
+
+tipo de
 
 operaciones
 
@@ -1450,9 +1520,23 @@ aduaneras.
 
 16. Puerto Punta Paso de personas
 
-Caullahuapi S.A. Permanente y todo tipo de
+Caullahuapi S.A. Permanente y todo tipo
+
+de
 
 operaciones
+
+aduaneras.
+
+17. Marina Oxxean Ocasional Paso de
+
+Puerto Montt personas
+
+y todo tipo
+
+de
+
+Operaciones
 
 aduaneras.
 
