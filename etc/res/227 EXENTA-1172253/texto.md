@@ -1,0 +1,9 @@
+ESTABLECE NÓMINA DE ESPECIES OBJETIVO, DE FAUNA ACOMPAÑANTE Y DE PESCA INCIDENTAL SOMETIDAS A LOS ARTÍCULOS 7°A, 7°B Y 7°C DE LA LEY GENERAL DE PESCA Y ACUICULTURA PARA LA PESQUERÍA DE BACALAO DE PROFUNDIDAD AL SUR DEL PARALELO 47° L.S., AÑO 2022
+
+Por resolución exenta N° 227, de 27 de enero de 2022, de esta Subsecretaría, establécese la nómina de especies objetivo, de fauna acompañante y de pesca incidental para la flota industrial que opera con palangre en la unidad de pesquería de Bacalao de profundidad comprendida entre el paralelo 47° L.S. y el límite sur de la Zona Económica Exclusiva de la Región de Magallanes y la Antártica Chilena, que se encuentran sometidas a un Plan de Reducción del Descarte y de la Captura de Pesca Incidental, autorizado mediante resolución exenta N° 745, de 2018, de conformidad con los artículos 7°A, 7°B y 7°C, de la Ley General de Pesca y Acuicultura, año 2022.
+
+Para los efectos antes señalados la nómina se divide en cuatro categorías de especies; especie objetivo (Tabla 1); especies de fauna acompañante sometidas a Cuota Global Anual de Captura (CGA), Licencia Transable de Pesca (LTP), o al Plan de Acción Nacional para la Conservación de Tiburones (PANT) y la res. ex. N° 2.063, de 2020, que estableció protocolos de devolución, según corresponda (Tabla 2); especies de fauna acompañante no administradas bajo cuotas globales anuales de captura o sometidas al Plan de Acción Nacional para la Conservación de Tiburones (PANT) y la res. ex. N° 2.063 de 2020, que estableció protocolos de devolución, según corresponda; (Tabla 3) y especies de pesca incidental (Tabla 4), según se detalla en la resolución extractada.
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 27 de enero de 2022.- Alicia Gallardo Lagno, Subsecretaria de Pesca y Acuicultura.
