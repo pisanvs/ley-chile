@@ -26,21 +26,9 @@ D e c r e t o:
 
 Declara Zona Típica y Pintoresca el pueblo de San Francisco de Chiu-Chiu, ubicado en la comuna de Calama, provincia de El Loa, II Región de Antofagasta.
 
-El área protegida queda constituida por el polígono A-B-C-D-E-F-G-A, de acuerdo a los siguientes tramos, según se indica en plano adjunto y que forma parte del presente decreto:
+El plano de límites oficial N° 015-2020, el cual se adjunta y forma parte del presente decreto, establece un área protegida de 17.844.557 m2 (1.784 hectáreas), en los siguientes términos:
 
-Tramo A - B, al suroeste con el sector denominado "Junta de los Ríos", donde desemboca el Río Salado en el Río Loa, continuado por el sureste por una línea recta trazada entre el punto anterior y el gentilar (cementerio) contenido en éste.
-
-Tramo B - C, línea imaginaria entre el gentilar (cementerio) y la antigua muralla edificada como límite en el pasado histórico de la comunidad.
-
-Tramo C - D, línea imaginaria entre la antigua muralla edificada como límite en el pasado histórico de la comunidad, hasta la zona arqueológica del "cementerio de los gentiles".
-
-Tramo D - E, límite noroeste de la zona arqueológica del "cementerio de los gentiles".
-
-Tramo E - F, zona arqueológica denominada "cementerio de los gentiles" con el límite noroeste del sector agrícola y habitacional de Chacras Viejas.
-
-Tramo F - G, al norte y al noroeste con el área vegetacional del borde oeste del Río Loa, incluyendo la actual población Cesario Castillo y la proyección futura de ésta.
-
-Tramo G - A, línea imaginaria entre la población Cesario Castillo (incluyendo la proyección futura de ésta) y área vegetacional con el sector denominado Junta de los Ríos.
+.
 
 Anótese y publíquese.- Por orden del Presidente de la República, Sergio Bitar Chacra, Ministro de Educación.
 
