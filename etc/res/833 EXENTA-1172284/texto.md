@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 833, de fecha 24 de noviembre de 2021, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, se autorizó a la Escuela de Conductores No Profesional denominada "Escuela de Conductores Tránsito Seguro E.I.R.L.", RUT N° 76.168.452-3, domiciliada en Av. Errázuriz 1053, 2° piso, comuna y ciudad de Santa Cruz, cuyo propietario es "Servicios de Capacitación Héctor Eduardo Poblete Pulido. E.I.R.L.", RUT Nº 76.168.452-3, a impartir los cursos conducentes a la obtención de la Licencia de Conductor No Profesional Clase B. Las horas pedagógicas autorizadas a la referida Escuela son 8 horas teóricas, 12 horas prácticas y 1 hora pedagógicas complementarias, con un total de 21 horas pedagógicas.-
+
+Hans Eugenio González González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
