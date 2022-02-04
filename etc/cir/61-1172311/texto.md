@@ -1,0 +1,9 @@
+INSTRUYE SOBRE EL ALCANCE DEL CUMPLIMIENTO DE LAS OBLIGACIONES DE LA LEY Nº19.913 Y DE LAS CIRCULARES DICTADAS POR LA UNIDAD DE ANÁLISIS FINANCIERO
+
+Extracto de circular de la Unidad de Análisis Financiero N° 61, de 30 de diciembre de 2021, que señala:
+
+De acuerdo con lo establecido en la ley Nº19.913, y en concordancia con la facultad legal expresada en la letra f) del artículo 2° del mismo cuerpo legal, en cuanto a impartir instrucciones de carácter general a las personas naturales y jurídicas que ejercen una actividad económica de aquellas que la propia ley señala en su artículo 3°, se han dictado las presentes instrucciones para ser cumplidas por las Oficinas de Representación de Bancos Extranjeros en Chile, buscando con ello un adecuado cumplimiento de las obligaciones de prevenir e impedir la mala utilización del sistema financiero, y de otros sectores de la actividad económica, para la comisión de los delitos de lavado de activos o financiamiento del terrorismo contemplados en el artículo 1º de la ley Nº19.913. Así, se instruye a las Oficinas de Representación de Bancos Extranjeros en Chile la inscripción en el Registro de Entidades Reportantes de la Unidad de Análisis Financiero; la designación de un oficial de cumplimiento; implementar los procedimientos de debida diligencia y conocimiento de clientes; reportar las operaciones sospechosas que adviertan en el ejercicio de su actividad; reportar las operaciones sospechosas por la identificación de personas naturales o jurídicas incluidas en las Listas de Resoluciones del Consejo de Seguridad de las Naciones Unidas; realizar capacitaciones sobre la materia a sus trabajadores(as), y crear y mantener registros especiales.
+
+El texto íntegro de esta circular se encuentra publicado en la página web de la Unidad de Análisis Financiero (www.uaf.cl).-
+
+Marcelo Alejandro Contreras Rojas, Director (S), Unidad de Análisis Financiero.
