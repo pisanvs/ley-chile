@@ -26,6 +26,8 @@ b) El Sub-Director de Administración y Finanzas.
 
 c) Dos representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios cuando proceda, de acuerdo con lo dispuesto en el inciso tercero del artículo 18° del Reglamento General.
 
+d) El Consejo Administrativo sesionará, además, con delegados de las regiones que no cuenten con representantes en el Consejo Administrativo. Esto, con el fin de que puedan canalizar inquietudes de los afiliados de dichas regiones a los representantes titulares del Consejo Administrativo. Estos delegados sólo tendrán derecho a voz y no a voto. Serán elegidos por los afiliados de cada región. De no haber interesados en participar, será el Consejo Administrativo del Servicio de Bienestar quien designará al delegado Regional. En la Octava Región, atendido el gran número de afiliados, se podrá elegir delegados Provinciales.
+
 Artículo N°3.- Para ser elegido representante de los afiliados en el Consejo Administrativo, se requiere cumplir con los siguientes requisitos:
 
 1° Ser afiliado al Bienestar con una antigüedad no inferior a dos años.
@@ -112,53 +114,17 @@ Otras prestaciones
 
 Párrafo segundo
 
-Artículo N°9.- Subsidios de Carácter Social, sin cargo de restitución que se otorgarán a los afiliados, por las causales que se indican: a) De matrimonio: Se otorgará al afiliado que
+Artículo N°9.- Subsidios de Carácter Social, sin cargo de restitución que se otorgarán a los afiliados, por las causales que se indican:
 
-contraiga matrimonio, acreditado con certificado. Si
+a) De matrimonio: Se otorgará al afiliado que contraiga matrimonio, acreditado con certificado. Si ambos cónyuges estuviesen afiliados al Bienestar, el subsidio se pagará a cada uno de ellos en forma independiente.
 
-ambos cónyuges estuviesen afiliados al Bienestar, el
+b) De nacimiento: Se otorgará al afiliado que lo acredite, mediante el respectivo certificado de nacimiento de cada hijo. Si ambos padres fueran afiliados al Bienestar, sólo podrá percibirlo aquel que lo declare carga familiar.
 
-subsidio se pagará a cada uno de ellos en forma
+c) De adopción: Se otorgará al afiliado que acredite mediante resolución judicial, la adopción del menor, en el plazo de seis (6) meses desde la dictación de la sentencia firme y ejecutoriada. Si ambos padres fuesen afiliados al Bienestar, sólo podrá percibirlo aquel que lo declare con carga familiar.
 
-independiente.
+d) De fallecimiento: Se pagará una ayuda por el fallecimiento del afiliado, conyuge y de cada una de sus cargas causantes de asignación familiar, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del recién nacido aun cuando no hubiere sido reconocido como carga familiar.
 
-b) De nacimiento: Se otorgará al afiliado que lo
-
-acredite, mediante el respectivo certificado de
-
-nacimiento de cada hijo. Si ambos padres fueran
-
-afiliados al Bienestar, sólo podrá percibirlo aquel que
-
-lo declare carga familiar.
-
-c) De adopción: Se otorgará al afiliado que
-
-acredite mediante resolución judicial, la adopción del
-
-menor, en el plazo de seis (6) meses desde la dictación
-
-de la sentencia firme y ejecutoriada. Si ambos padres
-
-fuesen afiliados al Bienestar, sólo podrá percibirlo
-
-aquel que lo declare con carga familiar.
-
-d) De fallecimiento: Se pagará una ayuda por el
-
-fallecimiento del afiliado,conyuge y de cada una de
-
-sus cargas causantes de asignación familiar,
-
-incluido el mortinato a partir del quinto mes de
-
-gestación y el fallecimiento del recién nacido aun
-
-cuando no hubiere sido reconocido como carga familiar.
-
-En caso de fallecimiento del afiliado, esta ayuda
-
-se otorgará en el siguiente orden de precedencia:
+En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
 
 1° A la persona expresamente designada para tales
 
@@ -174,101 +140,27 @@ efectos por el afiliado.
 
 gastos del funeral.
 
-e) De catástrofe: Se otorgará una ayuda en dinero o
+El bienestar podrá comprar un arreglo floral u otro tipo de ofrenda en caso de fallecimiento del afiliado, cónyuge, hijo, padres o de alguna de sus cargas legales, siempre que las disponibilidades presupuestarias lo permitan. La persona que acuda a los funerales en representación del Servicio de Bienestar, podrá rendir los gastos en que incurra por dicho cometido.
 
-en especies al afiliado que hubiere sufrido daños o
+e) De catástrofe: Se otorgará una ayuda en dinero o en especies al afiliado que hubiere sufrido daños o pérdida de sus bienes a consecuencia de alguna catástrofe mayor, como incendio, terremoto, inundación; situación que debe ser debidamente acreditada por un Asistente Social, y presentado por el Jefe del Servicio de Bienestar al Consejo Administrativo y aprobado con el acuerdo de los dos tercios de sus miembros.
 
-pérdida de sus bienes a consecuencia de alguna
+f) De desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que éste tuviere pendientes con el Bienestar por concepto de préstamos.
 
-catástrofe mayor, como incendio, terremoto, inundación;
+g) De educación: El Bienestar concederá una asignación de escolaridad, una vez al año, al afiliado y sus cargas familiares que se encuentren cursando estudios en los niveles pre-básico, básico, medio, técnico y superiores, en algún establecimiento del Estado o reconocido por éste; siempre que las disponibilidades presupuestarias lo permitan.
 
-situación que debe ser debidamente acreditada por un
+h) De ayuda médica: Se otorgará una ayuda en dinero o en especies, complementaria a las prestaciones contempladas en el artículo N°8 al afiliado, en caso de enfermedad grave y/o tratamiento prolongado y de alto costo del afiliado, de su conyuge, o de sus cargas, causantes de asignación familiar, situación que deberá ser calificada por un Asistente Social y presentado por el Jefe del Servicio de Bienestar al Consejo Administrativo y aprobado con el acuerdo de los dos tercios de los miembros del consejo.
 
-Asistente Social, y presentado por el Jefe del Servicio
+El monto de cada uno de los subsidios a que se refiere este artículo lo determinará anualmente el Consejo Administrativo, de acuerdo a la disponibilidad presupuestaria del Bienestar.".
 
-de Bienestar al Consejo Administrativo y aprobado con el
+i) De Vacaciones: Se otorgará una ayuda en dinero o en especie, al afiliado que hubiere solicitado y hecho efectivo su feriado legal.
 
-acuerdo de los dos tercios de sus miembros.
+j) Premio a la Excelencia Académica: Se otorgará una ayuda en dinero al afiliado e hijos de estos, que tengan la calidad de cargas familiares, que se encuentren cursando estudios básicos, medios o superiores, ya sea técnicos o universitarios y que presenten un rendimiento académico sobresaliente, de acuerdo a pauta especial preparada por el Servicio de Bienestar.
 
-f) De desgravamen: Al fallecimiento de un afiliado
+Se otorgará además una ayuda en dinero al trabajador afiliado que se haya titulado de una carrera técnica o universitaria, y al beneficiario que haya obtenido puntaje nacional PSU en el año anterior al periodo de la postulación.
 
-se entenderán condonadas automáticamente las deudas que
+k) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el Acuerdo de Unión Civil. Si ambos estuvieren afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio.
 
-éste tuviere pendientes con el Bienestar por concepto de
-
-préstamos.
-
-g) De educación: El Bienestar concederá una
-
-asignación de escolaridad, una vez al año, al afiliado y
-
-sus cargas familiares que se encuentren cursando
-
-estudios en los niveles pre-básico, básico, medio,
-
-técnico y superiores, en algún establecimiento del
-
-Estado o reconocido por éste; siempre que las
-
-disponibilidades presupuestarias lo permitan.
-
-h) De ayuda médica: Se otorgará una ayuda en dinero
-
-o en especies, complementaria a las prestaciones
-
-contempladas en el artículo N°8 al afiliado, en caso de
-
-enfermedad grave y/o tratamiento prolongado y de alto
-
-costo del afiliado, de su conyuge, o de sus cargas,
-
-causantes de asignación familiar, situación que
-
-deberá ser calificada por un Asistente Social y
-
-presentado por el Jefe del Servicio de Bienestar al
-
-Consejo Administrativo y aprobado con el acuerdo de
-
-los dos tercios de los miembros del consejo.
-
-El monto de cada uno de los subsidios a que se
-
-refiere este artículo lo determinará anualmente el
-
-Consejo Administrativo, de acuerdo a la disponibilidad
-
-presupuestaria del Bienestar.".
-
-i) De Vacaciones: Se otorgará una ayuda en dinero
-
-o en especie, al afiliado que hubiere solicitado y hecho
-
-efectivo su feriado legal.
-
-j) Premio a la Excelencia Académica: Se otorgará
-
-una ayuda en dinero al afiliado e hijos de estos, que
-
-tengan la calidad de cargas familiares, que se
-
-encuentren cursando estudios básicos, medios o
-
-superiores, ya sea técnicos o universitarios y que
-
-presenten un rendimiento académico sobresaliente, de
-
-acuerdo a pauta especial preparada por el Servicio de
-
-Bienestar.
-
-k) Acuerdo de Unión Civil: Se concederá una
-
-ayuda a los afiliados que celebren el Acuerdo de Unión
-
-Civil. Si ambos estuvieren afiliados al Servicio,
-
-cada uno de ellos tendrá derecho a este beneficio.
+l) Ayuda deportiva o cultural: Se otorgará una ayuda en dinero al afiliado que destaque en alguna disciplina deportiva o cultural y deba participar representando a la región o al país en campeonatos nacionales o internacionales relacionados a la disciplina que representa. Esta situación deberá ser certificada por la Federación de la disciplina deportiva respectiva o por la institución cultural que patrocine dicha actividad.
 
 Artículo N°10.- El Bienestar podrá otorgar préstamos sociales a sus afiliados, los que serán reajustables y cuando sus recursos lo permitan, por las siguientes causales; a) Médicos: Como suplemento a las prestaciones
 
@@ -290,6 +182,8 @@ Los montos máximos de los préstamos serán determinados en todos los casos por
 
 Artículo N°11.- El Bienestar podrá organizar y financiar la fiesta de navidad para los afiliados y sus cargas familiares siempre que las disponibilidades presupuestarias lo permitan.
 
+Cuando no sea posible ejecutar una Fiesta de Navidad, el Servicio de Bienestar podrá otorgar un Bono de Navidad a los afiliados que cumplan con los requisitos definidos por el Consejo Administrativo.
+
 ## Título V
 
 Disposiciones generales
@@ -303,6 +197,8 @@ Artículo N°14.- El Bienestar propenderá al progreso y bienestar económico, s
 Para el cumplimiento de este objetivo, el Bienestar podrá celebrar a través del Director General de la Corporación, previo acuerdo del Consejo Administrativo, convenios con personas naturales y/o jurídicas.
 
 Artículo N°15.- El Bienestar, podrá, previo acuerdo del Consejo Administrativo, y si las disponibilidades presupuestarias lo permiten, patrocinar, asesorar, y financiar actividades socio-culturales tales como grupos folklóricos, de danza, formación de coros, grupos de teatro y actividades deportivo-recreativas en general.
+
+El Servicio de Bienestar, previo acuerdo del Consejo Administrativo, y si las disponibilidades presupuestarias lo permiten, también podrá financiar la celebración del aniversario.
 
 Artículo N°16.- El derecho a solicitar los beneficios que concede el Bienestar, caducará luego de transcurrido seis meses desde la fecha en que haya ocurrido el hecho constitutivo de la causal que se invoque para solicitarlo.
 
