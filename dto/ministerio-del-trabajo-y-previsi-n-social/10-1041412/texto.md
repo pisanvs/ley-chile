@@ -24,7 +24,11 @@ Para tener derecho a la rebaja de la cotización legal de salud establecida en e
 
 1. Haber cumplido 65 años de edad;
 
-2. Tener un tiempo mínimo de residencia en el territorio de la República de Chile por el lapso no inferior a veinte años continuos o discontinuos, contados desde que el peticionario haya cumplido veinte años de edad; y, en todo caso, por el lapso no inferior a cuatro años de residencia en los últimos cinco años, inmediatamente anteriores a la fecha de la presentación de la solicitud; e
+2. Tener un tiempo mínimo de residencia en el territorio de la República de
+
+Chile según lo establecido en la letra c) del artículo 3° de la ley
+
+N°20.255; y,
 
 3. Integrar un grupo familiar perteneciente a los cuatro primeros quintiles de
 
@@ -32,9 +36,9 @@ la población de Chile.
 
 #### Artículo 3°
 
-Los requisitos señalados en el artículo anterior se acreditarán de la misma forma que se establece para el Sistema de Pensiones Solidarias en el decreto supremo N°23, de 2008, del Ministerio del Trabajo y Previsión Social y en sus modificaciones.
+Los requisitos señalados en los Nos.1 y 2 del artículo anterior se acreditarán de la misma forma que se establece para el Sistema de Pensiones Solidarias en el decreto supremo N°23, de 2008, del Ministerio del Trabajo y Previsión Social y en sus modificaciones.
 
-Para cumplir con el requisito indicado en el N°3 del artículo anterior, los pensionados a que se refiere dicho artículo, deberán tener un puntaje de focalización previsional igual o inferior al expresado en el artículo 35 del decreto supremo N° 23, de 2008, del Ministerio del Trabajo y Previsión Social, que aprueba el reglamento del sistema de pensiones solidarias establecido en la ley N° 20.255.
+Para cumplir con el requisito indicado en el N°3 del artículo anterior, los pensionados a que se refiere dicho artículo, deberán tener un puntaje de focalización previsional igual o inferior a 1.876 puntos.
 
 El puntaje de focalización previsional se obtendrá a través del Instrumento Técnico de Focalización señalado en el artículo 32° de la ley N° 20.255, y será calculado de conformidad al inciso final del artículo 33° del decreto supremo N° 23, de 2008, del Ministerio del Trabajo y Previsión Social.
 
