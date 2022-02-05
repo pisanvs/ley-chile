@@ -82,27 +82,7 @@ b) Extranjeros no residentes que cuenten con su esquema de vacunación completo 
 
 Los menores de 2 años que viajen con alguna de las personas señaladas en el párrafo anterior, no deberán cumplir con el requisito de obtención de un resultado negativo para detección de coronavirus para que proceda la interrupción anticipada de su aislamiento, siempre y cuando la persona a la que acompañan cumpla con todos los demás requisitos establecidos en la presente resolución.
 
-4 bis. Sin perjuicio de lo establecido en el numeral anterior, los chilenos y extranjeros residentes que ingresen al territorio nacional, provenientes de los países que a continuación se señalan, deben cumplir con la medida de aislamiento por 7 días o hasta que abandonen el país, en caso de que su permanencia fuere menor a 7 días.
-
-Estarán sujetos a lo dispuesto en este numeral los chilenos y extranjeros residentes que hayan estado, en los 14 días previos a su ingreso al país, en al menos uno de los siguientes países:
-
-- Sudáfrica
-
-- Zimbabwe
-
-- Namibia
-
-- Botswana
-
-- Lesoto
-
-- Eswatini
-
-- Mozambique
-
-Quienes se encuentren en la situación descrita en el párrafo anterior, no podrán interrumpir la cuarentena o aislamiento, ni aun en los casos descritos en el numeral precedente.
-
-No podrán ingresar al país los extranjeros no residentes que provengan de los países indicados en el presente numeral.
+4 bis. Eliminado.
 
 5. Prohibición de interacción. Los viajeros que ingresen a Chile no podrán interactuar con otras personas mientras dure su aislamiento, a excepción de quienes se encuentren en el domicilio indicado y de quien sea indispensable para su traslado desde el punto de entrada al país hasta su lugar de aislamiento.
 
