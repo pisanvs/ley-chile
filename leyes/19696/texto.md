@@ -3002,7 +3002,7 @@ Decisión absolutoria y medidas cautelares personales. Comunicada a las partes l
 
 #### Artículo 348
 
-Sentencia condenatoria. La sentencia condenatoria fijará las penas y se pronunciará sobre la eventual aplicación de alguna de las penas sustitutivas a la privación o restricción de libertad previstas en la ley.
+Sentencia condenatoria. La sentencia condenatoria fijará todas las penas principales y accesorias que corresponda imponer, con indicación específica de cada una de ellas, y se pronunciará sobre la eventual aplicación de alguna de las penas sustitutivas a la privación o restricción de libertad previstas en la ley.
 
 La sentencia que condenare a una pena temporal deberá expresar con toda precisión el día desde el cual empezará ésta a contarse y fijará el tiempo de detención, prisión preventiva y privación de libertad impuesta en conformidad a la letra a) del artículo 155 que deberá servir de abono para su cumplimiento. Para estos efectos, se abonará a la pena impuesta un día por cada día completo, o fracción igual o superior a doce horas, de dichas medidas cautelares que hubiere cumplido el condenado.
 

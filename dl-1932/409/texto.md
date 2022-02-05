@@ -20,7 +20,7 @@ Decreto-ley:
 
 o Toda persona que haya sufrido cualquier clase de condena y reuna las condiciones que señala esta ley, tendrá derecho después de dos años de haber cumplido su pena, si es primera condena, y de cinco años, si ha sido condenado dos o más veces, a que por decreto supremo, de carácter confidencial, se le considere como si nunca hubiere delinquido para todos los efectos legales y administrativos y se le indulten todas las penas accesorias a que estuviere condenado.
 
-Cuando la persona hubiere sido condenada a la pena temporal del artículo 39 bis, de conformidad con el artículo 372, ambos del Código Penal, el derecho a que se refiere el inciso anterior sólo se podrá ejercer transcurridos diez años desde el cumplimiento de la pena, sin importar el número de condenas que dicha persona tuviere.
+No obstará al efecto señalado en el inciso anterior que el condenado se encontrare cumpliendo la pena de inhabilitación perpetua prevista en el inciso segundo del artículo 372 del Código Penal, o la pena de inhabilitación perpetua prevista en el artículo 403 quáter del Código Penal. En tales casos la eliminación de los antecedentes a que diere lugar la concesión del beneficio señalado en el inciso anterior nunca implicará la eliminación de las inscripciones de las respectivas penas de inhabilitación perpetua, las que permanecerán anotadas en la Sección de Inhabilitaciones Perpetuas del Registro Seccional de Inhabilitaciones.
 
 El decreto que concede este beneficio se considerará como una recomendación del S. Gobierno al Senado para los efectos de la rehabilitación a que se refiere el número 2.o del artículo 9.o de la Constitución Política.
 

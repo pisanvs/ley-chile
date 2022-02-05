@@ -732,6 +732,10 @@ En caso que la Superintendencia de Educación disponga la sanción de revocació
 
 Los establecimientos de educación de las Instituciones de la Defensa Nacional que impartan educación media se regirán, en cuanto a su reconocimiento oficial, por las normas de este párrafo.
 
+#### Artículo 51 bis
+
+Sin perjuicio de sus demás facultades, las secretarías regionales ministeriales de educación, para los efectos de la comprobación del cumplimiento de los requisitos para obtener Reconocimiento Oficial del Estado por Establecimientos Educacionales, y la Superintendencia de Educación, para los efectos de la fiscalización del cumplimiento y mantención de los requisitos para obtener Reconocimiento Oficial, deberán consultar al Servicio de Registro Civil e Identificación si los docentes y el personal asistente de la educación de un establecimiento educacional presentan anotaciones relativas a los delitos señalados en el literal g) del artículo 46, en el Registro General de Condenas o en el Registro Seccional de Inhabilitaciones, establecidos por el decreto ley Nº 645, de 1925, del Ministerio de Justicia. Para los mismos efectos, deberán consultar al Servicio de Registro Civil e Identificación si el representante legal y el administrador de la entidad sostenedora de un establecimiento educacional presentan anotaciones relativas a los delitos señalados en el literal a) del artículo 46 en el Registro General de Condenas o en el Registro Seccional de Inhabilitaciones.
+
 ## Título III
 
 Reconocimiento oficial del Estado a las instituciones de educación superior

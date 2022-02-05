@@ -512,13 +512,11 @@ Las penas de inhabilitación especial perpetua y temporal para algún cargo u of
 
 #### Artículo 39 bis
 
-Las penas de inhabilitación absoluta perpetua o temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad, prevista en el artículo 372 de este Código, produce:
+La pena de inhabilitación absoluta perpetua para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad, prevista en el artículo 372, produce:
 
 1º La privación de todos los cargos, empleos, oficios y profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad que tenga el condenado.
 
-2º La incapacidad para obtener los cargos, empleos, oficios y profesiones mencionados, perpetuamente cuando la inhabilitación es perpetua, y si la inhabilitación es temporal, la incapacidad para obtenerlos, antes de transcurrido el tiempo de la condena de inhabilitación, contado desde que se hubiere dado cumplimiento a la pena principal, obtenido libertad condicional en la misma, o iniciada la ejecución de alguna de las penas de la ley Nº 18.216 como sustitutiva de la pena principal.
-
-La pena de inhabilitación absoluta temporal de que trata este artículo tiene una extensión de tres años y un día a diez años y es divisible en la misma forma que las penas de inhabilitación absoluta y especial temporales.
+2º La incapacidad para obtener los cargos, empleos, oficios y profesiones mencionados perpetuamente.
 
 #### Artículo 39 ter
 
@@ -3332,9 +3330,9 @@ Los maestros o encargados en cualquier manera de la educación o dirección de l
 
 Los comprendidos en el artículo anterior y cualesquiera otros condenados por la comisión de los delitos previstos en los dos párrafos precedentes en contra de un menor de edad, serán también condenados a las penas de interdicción del derecho de ejercer la guarda y ser oídos como parientes en los casos que la ley designa, y de sujeción a la vigilancia de la autoridad durante los diez años siguientes al cumplimiento de la pena principal. Esta sujeción consistirá en informar a Carabineros cada tres meses su domicilio actual. El incumplimiento de esta obligación configurará la conducta establecida en el artículo 496 Nº 1 de este Código.
 
-El que cometiere cualquiera de los delitos previstos en los artículos 362, 365 bis, 366 bis, 366 quáter, 366 quinquies y 372 bis, en contra de un menor de catorce años de edad, será condenado además a la pena de inhabilitación absoluta perpetua para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad. La misma pena se aplicará a quien cometiere cualquiera de los delitos establecidos en los artículos 142 y 433 N° 1° de este Código, cuando alguna de las víctimas hubiere sufrido violación y fuere menor de catorce años.
+El que cometiere cualquiera de los delitos previstos en los artículos 361, 362, 363, 365 bis, 366, 366 bis, 366 quáter, 366 quinquies, 367, 367 ter y 372 bis en contra de un menor de edad será condenado, además, a la pena de inhabilitación absoluta perpetua para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad. La misma pena se aplicará a quien cometiere cualquiera de los delitos establecidos en los artículos 142 y 433 Nº 1º, cuando alguna de las víctimas hubiere sufrido violación y fuere menor de edad.
 
-Si alguno de los delitos señalados en los artículos 361, 363, 365 bis, 366, 366 quáter, 366 quinquies, 367, 367 ter y 372 bis se cometiere en contra de un menor de edad pero mayor de catorce años, el culpable será condenado además a la pena de inhabilitación absoluta temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad, en cualquiera de sus grados. La misma pena se impondrá a quien cometiere cualquiera de los delitos establecidos en los artículos 142 y 433, N° 1°, de este Código, cuando alguna de las víctimas hubiere sufrido violación y fuere menor de edad pero mayor de catorce años.
+En los casos del inciso anterior, los fiscales del Ministerio Público, de conformidad con lo dispuesto en el literal g) del artículo 259 del Código Procesal Penal, deberán solicitar la pena de inhabilitación cuando formularen acusación, y el tribunal en caso de dictar sentencia condenatoria deberá imponerla de forma específica, de conformidad con lo dispuesto en el artículo 348 del Código Procesal Penal. Si la sentencia condenatoria no cumpliere con esta exigencia, el fiscal siempre deberá deducir recurso en conformidad a la ley.
 
 #### Artículo 372 bis
 
@@ -3618,7 +3616,7 @@ El que cometiere cualquiera de los delitos contemplados en los párrafos 1, 3 y 
 
 quinquies.-
 
-Las condenas dictadas en virtud del artículo anterior deberán inscribirse en la respectiva sección del Registro General de Condenas, establecido en el decreto ley N° 645, de 1925, del Ministerio de Justicia, sobre el Registro General de Condenas.
+Las condenas dictadas en virtud del artículo anterior deberán inscribirse en la respectiva sección del Registro General de Condenas, establecido en el decreto ley N° 645, de 1925, del Ministerio de Justicia, sobre el Registro Seccional de Inhabilitaciones.
 
 #### Artículo 403
 
