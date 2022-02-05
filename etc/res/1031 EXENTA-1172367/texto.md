@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante la resolución exenta Nº1.031, de fecha 30 de diciembre de 2021, de esta Secretaría Regional Ministerial, se aprobaron los Planes y programas conducentes a la obtención de Licencia de Conductor No Profesional o Clase B, a la Escuela de Conductores denominada "Escuela de Conductores Santa Paz", de propiedad de "Otros Tipos de Enseñanza N.C.P. Jorge Figueroa E.I.R.L.", Rut. Nº77.232.489-8. La escuela de Conductores tendrá como Director a Jorge Ignacio Figueroa Montenegro, Cédula Nacional de Identidad 17.499.197-9, y su sede estará ubicada en Camino Internacional Nº1330, comuna de Pucón, Región de La Araucanía. Las horas pedagógicas autorizadas a la referida escuela es de 8 pedagógicas teóricas y 12 horas prácticas, con un total de 20 horas pedagógicas.-
+
+Claudina Teresa Uribe Bórquez, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de la Araucanía.
