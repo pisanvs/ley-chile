@@ -160,6 +160,8 @@ o) Traslado de enfermos;
 
 p) Insumos necesarios para el otorgamiento de las prestaciones de las letras b), d), g), h), i), j), m), precedentes.
 
+El Consejo Administrativo otorgará como beneficio, el reembolso de vacunas prescritas por un médico y destinadas a la mantención de la salud, siempre que exista disponibilidad presupuestaria y su otorgamiento no afecte la concesión de los demás beneficios médicos señalados en las letras del inciso primero precedente. Este beneficio será imputado al ítem de medicamentos, según la cantidad de la dosis.
+
 El Consejo determinará, a lo menos anualmente los porcentajes que serán de cargo del Bienestar y los montos máximos que se aplicarán para cada tipo de ayuda. Los porcentajes que se determinen para estas ayudas se otorgarán de acuerdo al arancel de Fonasa nivel 1 y dependiendo de la disponibilidad presupuestaria del Bienestar.
 
 #### Artículo 11
@@ -203,6 +205,10 @@ h) De ayuda médica: Se otorgará una ayuda en dinero o en especie, complementar
 i) De vacaciones: Se otorgará una ayuda en dinero o en especie, al afiliado que hubiere solicitado y hecho efectivo su feriado legal.
 
 j) Acuerdo de Unión Civil: Se otorgará a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieren afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio.
+
+k) Bono de Navidad: Se podrá otorgar una ayuda en dinero con ocasión de la Navidad, a todos los afiliados que al mes de noviembre cumplieran 6 meses de afiliación. El monto y la fecha de pago se determinarán en la última sesión anual del Consejo Administrativo".
+
+l) De ayuda social: Se otorgará una ayuda en dinero o en especie, en caso de estado de necesidad urgente del afiliado o de sus cargas familiares, o de situaciones imprevistas que les causen un daño económico grave. El hecho que sirve de fundamento para otorgar este beneficio deberá ser debidamente acreditado por un Asistente Social, presentado por el Jefe del Servicio de Bienestar al Consejo Administrativo; debiendo aprobarse la respectiva ayuda, mediante el acuerdo de dos tercios de sus miembros. Cuando exista un hecho público y notorio de emergencia o necesidad, no se requerirá la calificación de un profesional del área social para la aprobación del beneficio, pudiendo otorgarse en consideración a los antecedentes del caso, y mediante pronunciamiento fundado del Consejo Administrativo acordado por dos tercios de sus miembros.
 
 #### Artículo 12
 
