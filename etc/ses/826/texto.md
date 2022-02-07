@@ -1294,13 +1294,7 @@ La persona que designe la Comisión de Patentes y Disciplina, hará visitas peri
 
 #### Artículo 123
 
-Los caballos en que un preparador posea un porcentaje en su propiedad superior a un tercio, a quien se le haya retirado la patente por actuaciones fraudulentas o dolosas, que esté suspendido del ejercicio de su profesión, que haya sido declarado defaulter o que se encuentre inscrito en el Libro de Suspensiones o de Forfeits, no podrán correr, ser traspasados ni arrendados, mientras la sanción se encuentre vigente.
-
-Si el preparador fuere copropietario de un tercio caballo en una proporción inferior a ésta, el fina sangre podrá ser inscrito para correr por los demás propietarios, con colores distintos al del preparador suspendido.
-
-La oficina de Stud Book deberá informar a los hipódromos, respecto de un preparador que haya incurrido en alguna de las actuaciones mencionadas en el inciso primero del presente artículo, qué proporción tiene éste en el dominio de los caballos en que aparezcan como copropietarios y que hayan sido inscritos para participar en una carrera.
-
-> **Nota.** En el Diario Oficial del 11.08.2007 se publicó nuevamente ésta modificación.
+Derogado.
 
 #### Artículo 124
 
@@ -2328,9 +2322,7 @@ Durante una reunión de carreras, en un recinto hípico, con exclusión de los c
 
 #### Artículo 267
 
-Se deberán someter al proceso de toma de muestras para el control de doping los caballos que ocupen el primer lugar en una carrera. En las carreras Clásicas y Especiales, esta obligación será para los caballos que ocupen los cuatro primeros lugares. Sin perjuicio de lo anterior, se realizará el análisis de muestras en forma aleatoria, determinado por sorteo, de acuerdo con las normas que establezca el "Reglamento de Control de la Medicamentación y Drogas" a que se refiere el Artículo 256 anterior. Adicionalmente, la Junta de Comisarios tendrá la facultad de ordenar el control de doping de cualquiera de los caballos participantes en una carrera.
-
-Corresponderá al Consejo Superior de la Hípica decidir sobre el número de muestras que deberá analizar el Laboratorio Oficial, sobre la base del total extraído en cada reunión de carreras.
+Se deberán someter al proceso de toma de muestras para el control de doping los caballos que ocupen el primer lugar en una carrera. En las carreras Clásicas y Especiales, esta obligación podrá recaer además en los caballos que ocupen los siguientes tres primeros lugares, de acuerdo con las normas que establezca el "Reglamento de Control de la Medicación y Drogas" a que se refiere el artículo 256 anterior. Adicionalmente, la Junta de Comisarios tendrá la facultad de ordenar el control de doping de cualquiera de los caballos participantes en una carrera. Corresponderá al Consejo Superior de la Hípica Nacional decidir sobre el número de muestras que deberá analizar el Laboratorio Oficial, sobre la base del total extraído en cada reunión de carreras.
 
 #### Artículo 268
 
@@ -2355,8 +2347,6 @@ En caso de detectarse la presencia confirmada de una droga no incluida en el Reg
 #### Artículo 271
 
 Informado un doping positivo de la primera muestra, el caballo quedará inmediatamente impedido de participar en una carrera pública, sin perjuicio de lo cual el Preparador podrá inscribir caballos a su nombre, a la espera del pronunciamiento definitivo del Consejo Superior de la Hípica.
-
-En este caso, para el Preparador que tenga calidad de Propietario, no aplicará lo establecido en el artículo 123 del presente Reglamento, mientras no se dicte la sanción definitiva.
 
 #### Artículo 272
 
@@ -2454,9 +2444,9 @@ No obstante, en aquellas carreras en que su uso se encuentre regulado, las sanci
 
 #### Artículo 289
 
-Se considerará como reincidencia la detección de cualquier droga, medicamento o sustancia prohibida dentro de los periodos indicados, aplicándose la pena que corresponda a la clase detectada, incrementada en la forma que se indica precedentemente.
+Se considerará como reincidencia la detección de cualquier droga, medicamento o sustancia prohibida dentro de los periodos indicados, aplicándose la pena que corresponda a la clase detectada, incrementada en la forma que se indica precedentemente. No obstante lo anterior, en aquellos casos que se encuentre permitido el uso de Fenilbutazona y Furosemida, la detección de dichas sustancias en niveles sancionables de acuerdo al presente Reglamento no será considerada como causal de reincidencia para la detección de aquellas sustancias clasificadas con penalidades Tipo A, B, C o D, sin perjuicio de que la sanción por detección de Fenilbutazona y Furosemida operará como causal de reincidencia entre ambas, y, además, se acumularán a las sanciones que correspondan a la detección de otras sustancias en la misma muestra. Ante la detección de múltiples sustancias clasificadas con penalidades Tipo A, B, C o D en la misma muestra de un mismo ejemplar, se aplicará íntegramente la sanción que corresponda a la sustancia que tenga asociada la penalidad más alta de entre aquellas detectadas en el mismo ejemplar, agravada con las multas pecuniarias que correspondan a las otras sustancias detectadas.
 
-La detección en más de una oportunidad de un doping positivo en una misma reunión de carreras, se considerará como una reincidencia.
+La detección en más de una oportunidad de un doping positivo en una misma reunión de carreras, se considerará una reincidencia
 
 #### Artículo 290
 
@@ -2503,6 +2493,8 @@ El caballo quedará suspendido de participar en carreras cuando una muestra de o
 Cuando la muestra positiva del equino contenga sustancias reguladas, en las concentraciones superiores a las establecidas en el Reglamento de Control de Medicamentación y Drogas, el caballo deberá ser evaluado por el Servicio Médico Veterinario Oficial para ser autorizado a participar en carreras. En este caso, las sanciones y los períodos de reposo para el equino serán los siguientes:
 
 .
+
+> **Nota.** El numeral 1° de la Resolución 77 Exenta, Hacienda, publicada el 03.02.2022, modifica la resolución exenta Nº 719, de 31 de diciembre de 2021, del Ministerio de Hacienda, que ratifica y sanciona modificaciones al Reglamento de Carreras de Chile cuyo texto refundido fue aprobado por acuerdo del Consejo Superior de la Hípica Nacional, en sesiónNº 826, de fecha 7 de septiembre de 1994, publicado en el Diario Oficial el 17 de marzo de 1995, en el sentido de reemplazar en la última columna del cuadro del artículo 295 del Reglamento de Carreras de Chile, el guarismo "Fenilbutazona > 100 ng/ml" por "Furosemida > 100 ng/ml
 
 #### Artículo 296
 
@@ -2557,6 +2549,8 @@ b) Suplantación, falsificación de identidad, adulteración de edad o cualquier
 #### Artículo 304
 
 La Junta de Comisarios sancionará con multa al preparador que presente a un animal con herraje antirreglamentario. El Servicio Médico Veterinario Oficial corregirá dicho herraje. En caso de nuevas reincidencias, la Junta de Comisarios pasará los antecedentes al directorio, para la aplicación de las sanciones que del caso procedan.
+
+En el caso de aquellos caballos que dada su figuración en carrera deban someterse a control de doping, serán objeto de una revisión a sus herraduras por parte del salivarium respectivo, y en el evento que se compruebe que el caballo corrió utilizando herraduras antirreglamentarias deberá informarlo al Consejo Superior de la Hípica Nacional, y el preparador será sancionado en conformidad al artículo 285 del Reglamento de Carreras. Asimismo, será obligación del salivarium respectivo sacar una de las piezas de las cuatro que no cumpla con la reglamentación, y enviarla al Consejo Superior de la Hípica Nacional como medio de prueba de la infracción.
 
 ## Título VI
 
