@@ -50,7 +50,7 @@ e) La oferta técnica y económica presentada por el adjudicatario de la concesi
 
 f) El decreto de adjudicación respectivo.
 
-2.- En caso de discrepancia en la interpretación del contrato, primará lo dispuesto en las bases de licitación y sus circulares aclaratorias, por sobre lo establecido en la oferta presentada por el adjudicatario de la concesión, salvo el caso en que ésta contenga aspectos superiores a lo exigido en las bases de licitación y sus circulares aclaratorias, lo que será calificado por el DGOP.
+2.- En caso de discrepancia en la interpretación del contrato, primará lo dispuesto en las bases de licitación y sus circulares aclaratorias, por sobre lo establecido en la oferta presentada por el adjudicatario de la concesión, salvo el caso en que ésta contenga aspectos superiores a lo exigido en las bases de licitación y sus circulares aclaratorias, lo que será calificado por el DGC.
 
 #### Artículo 3º
 
@@ -76,7 +76,7 @@ Dichos servicios podrán ser instalados en bienes nacionales de uso público, te
 
 8) Director : Director del Servicio que corresponda.
 
-9) DGOP: Director General de Obras Públicas o Dirección General de Obras Públicas, según corresponda.
+9) DGC: Director General de Concesiones de Obras Públicas o Dirección General de Concesiones de Obras Públicas, según corresponda.
 
 10) Financista (s): Persona natural o jurídica o grupo de ellas que permiten y facilitan a la sociedad concesionaria, ya sea a través de créditos directos o con fianzas, avales, garantías o cualquiera otra caución, el financiamiento de una determinada obra de infraestructura pública por el sistema de concesión.
 
@@ -84,7 +84,7 @@ Dichos servicios podrán ser instalados en bienes nacionales de uso público, te
 
 12) Grupo licitante: Conjunto de personas naturales o jurídicas que se presentan a una licitación acompañando una sola oferta, siendo la responsabilidad de cada uno de ellos indivisible y solidaria.
 
-13) Idea de Iniciativa Privada: Conjunto de documentos que en virtud de lo dispuesto en artículo 2° del DS MOP Nº 900 de 1996, presenta un particular, de acuerdo con lo señalado en este Reglamento.
+13) Idea de Iniciativa Privada: Conjunto de documentos que, en virtud de lo dispuesto en el artículo 2° del DS MOP Nº 900, de 1996, presenten personas naturales o jurídicas, de acuerdo con lo señalado en este Reglamento.
 
 14) Ley de Concesiones: DFL MOP Nº 164, de 1991, con las modificaciones contenidas en la Ley 19.252 de 1993 y 19.460 de 1996, cuyo Texto Refundido, Coordinado y Sistematizado fue fijado en el DS MOP Nº 900, de 1996. El articulado de referencia de este Reglamento se realiza al DS MOP Nº 900 de 1996.
 
@@ -94,7 +94,7 @@ Dichos servicios podrán ser instalados en bienes nacionales de uso público, te
 
 17) Oferta: El conjunto de documentos que forman las ofertas técnica y económica del licitante, incluida la documentación complementaria y los antecedentes generales.
 
-18) Postulante: Persona natural o jurídica o conjunto de ellas que postula ante el Ministerio de Obras Públicas la ejecución de obras públicas mediante el sistema de concesión.
+18) Postulante: Persona natural, jurídica, o conjunto de éstas, que presenta ante el Ministerio de Obras Públicas una Idea de Iniciativa Privada para la ejecución de obras públicas mediante el sistema de concesiones.
 
 19) Precalificado: Persona natural o jurídica o conjunto de ellas, interesada en la licitación de una obra pública por el sistema de concesión, que ha cumplido los requisitos establecidos por las bases de precalificación.
 
@@ -104,21 +104,25 @@ Dichos servicios podrán ser instalados en bienes nacionales de uso público, te
 
 22) Presupuesto oficial de la obra: es el valor total de la obra estimado por el MOP e incluido en las bases de licitación.
 
-23) Prospecto de inversión: Documento elaborado por el MOP que resume las características técnicas de la obra que se desea entregar en concesión, las condiciones del servicio que se prestará y los montos aproximados de inversión.
+23) Proponente: Postulante cuya Idea de Iniciativa Privada ha sido declarada de interés público.
 
-24) Servicios básicos: Todos aquellos que comprenden el objeto específico de la concesión y que sean imprescindibles y por los cuales el concesionario está autorizado a cobrar la tarifa.
+24) Proposición: Conjunto de documentos, estudios, informes y antecedentes que, en virtud de lo dispuesto en el artículo 2° del DS MOP Nº 900, de 1996, presenta un Proponente, una vez terminada la Etapa de Proposición establecida en el artículo 7° del presente Reglamento.
 
-25) Servicios complementarios: Los servicios adicionales, útiles y necesarios, que el concesionario esté autorizado a prestar y por los cuales podrá cobrar un precio a los usuarios, en virtud del contrato de concesión y del artículo 7º, letra j) del DS MOP Nº 900 de 1996.
+25) Prospecto de inversión: Documento elaborado por el MOP que resume las características técnicas de la obra que se desea entregar en concesión, las condiciones del servicio que se prestará y los montos aproximados de inversión.
 
-26) Servicios especiales obligatorios: Cualesquiera otros servicios establecidos con carácter obligatorio en las bases de licitación. Estos podrán ser onerosos o gratuitos, según se determine en las bases de licitación.
+26) Servicios básicos: Todos aquellos que comprenden el objeto específico de la concesión y que sean imprescindibles y por los cuales el concesionario está autorizado a cobrar la tarifa.
 
-27) Sistema tarifario o estructura tarifaria: Conjunto de tarifas cobradas por los servicios básicos prestados por el concesionario.
+27) Servicios complementarios: Los servicios adicionales, útiles y necesarios, que el concesionario esté autorizado a prestar y por los cuales podrá cobrar un precio a los usuarios, en virtud del contrato de concesión y del artículo 7º, letra j) del DS MOP Nº 900 de 1996.
 
-28) Sobres de oferta: Sobre, paquete, bulto u otro envoltorio en que son entregadas la oferta técnica y económica en las condiciones determinadas por las bases de licitación.
+28) Servicios especiales obligatorios: Cualesquiera otros servicios establecidos con carácter obligatorio en las bases de licitación. Estos podrán ser onerosos o gratuitos, según se determine en las bases de licitación.
 
-29) Sociedad concesionaria: La sociedad constituida por el adjudicatario, con la que se entenderá celebrado el contrato de concesión, y cuyo objeto será la ejecución, reparación, conservación y explotación de obras públicas fiscales, en la forma y condiciones determinadas en las bases de licitación. También denominada concesionario.
+29) Sistema tarifario o estructura tarifaria: Conjunto de tarifas cobradas por los servicios básicos prestados por el concesionario.
 
-30) Tarifa: Contraprestación del servicio básico prestado por el concesionario, regulado en el contrato de concesión.
+30) Sobres de oferta: Sobre, paquete, bulto u otro envoltorio en que son entregadas la oferta técnica y económica en las condiciones determinadas por las bases de licitación.
+
+31) Sociedad concesionaria: La sociedad constituida por el adjudicatario, con la que se entenderá celebrado el contrato de concesión, y cuyo objeto será la ejecución, reparación, conservación y explotación de obras públicas fiscales, en la forma y condiciones determinadas en las bases de licitación. También denominada concesionario.
+
+32) Tarifa: Contraprestación del servicio básico prestado por el concesionario, regulado en el contrato de concesión.
 
 ## Título II
 
@@ -130,159 +134,259 @@ Proyectos de Iniciativa Privada.
 
 1.- De acuerdo a lo dispuesto en el artículo 2º inciso 2º y siguientes del DS MOP Nº 900 de 1996, las personas naturales o jurídicas podrán postular ante el Ministerio de Obras Públicas la ejecución, reparación o conservación de obras públicas, a cambio de su explotación, mediante el sistema de concesión, siempre que la obra no esté, al momento de la presentación, siendo estudiada por el MOP para ser ejecutada mediante este mismo sistema. Para estos efectos, el MOP pondrá a disposición de los interesados, en los meses de enero y julio de cada año, un registro de los proyectos seleccionados para su explotación por el sistema de concesión. Serán eliminados de dicho registro los proyectos que no hayan sido licitados dentro del plazo de 5 años contados desde su incorporación, salvo que el MOP fundamente su mantenimiento.
 
-2.- Esta postulación se cumplirá de acuerdo al procedimiento establecido en los artículos siguientes y comprenderá dos etapas. En la primera, en adelante Presentación, el postulante entregará el proyecto para que el MOP evalúe si es de interés público. En el caso de que exista, en principio, interés público en el proyecto presentado, se iniciará una segunda etapa, en adelante Proposición, en la que el postulante acompañará los estudios considerados por el Ministerio para evaluar la idea de iniciativa privada.
+2.- Esta postulación se cumplirá de acuerdo al procedimiento establecido en los artículos siguientes y comprenderá dos etapas: la primera se denominará "Etapa de Presentación", en la que el Postulante entregará el proyecto a la DGC para que ésta evalúe si es de interés público. Para declarar la existencia de interés público, el Ministerio deberá requerir informe al Consejo de Concesiones, de acuerdo con lo dispuesto en la letra a) del inciso séptimo del artículo 1º bis del DS MOP Nº 900, de 1996. En caso que exista interés público en la Idea de Iniciativa Privada presentada, y una vez que se haya dado cumplimiento a lo dispuesto en los numerales 1 y 2 del artículo 7° de este Reglamento, se iniciará una segunda etapa denominada "Etapa de Proposición", en la cual el Proponente desarrollará los estudios requeridos por la DGC para evaluar dicha idea, y finalmente presentar la Proposición.
 
-#### Artículo 5º
+3.- Las notificaciones que la DGC deba realizar al Postulante o Proponente, tanto en la etapa de Presentación como en la de Proposición, según corresponda, serán realizadas conforme a lo establecido en el artículo 46 de la ley Nº 19.880.
 
-Primera Etapa, Presentación.
+4.- Los plazos que deba cumplir el Proponente que dependan de la revisión de un documento por parte de la DGC se suspenderán a contar de la fecha de ingreso del documento en la oficina de partes de la DGC y se reanudarán en la fecha en que la DGC notifique al Proponente el resultado de esa revisión.
 
-1.- La Presentación del proyecto contendrá, a lo menos, y en el orden señalado, los siguientes antecedentes:
+#### Artículo 5°
 
-a) Nombre o razón social, domicilio, teléfono, fax y representante legal. Si el postulante es una persona jurídica, deberá acompañar los antecedentes que acrediten su existencia legal y facultades de representación de sus mandatarios.
+Etapa de Presentación.
 
-b) Rol Unico Tributario en el caso de personas jurídicas o Cédula de Identidad en el caso de personas naturales.
+1.- La Idea de Iniciativa Privada que se presente contendrá, a lo menos, y en el orden señalado, los siguientes antecedentes:
 
-c) Nombre y tipo de proyecto.
+a) Nombre, domicilio, teléfono y correo electrónico si el Postulante es una persona natural. Si se trata de una persona jurídica, deberá señalar su razón social, domicilio, teléfono y correo electrónico, e individualizar a su representante legal, indicando sus datos de contacto (teléfono y correo electrónico). Además, deberá acompañar los antecedentes que acrediten tanto su existencia legal como las facultades de representación de sus mandatarios, ambos con certificación de vigencia no superior a 6 meses contados desde la fecha de presentación.
 
-d) Ubicación geográfica y área de influencia.
+b) Rol único tributario, en el caso de personas jurídicas, o cédula nacional de identidad o número de pasaporte, esto último en caso que se trate de extranjero que no cuente con dicha cédula, en el caso de personas naturales, debiendo acompañar copia autorizada ante notario del documento respectivo.
 
-e) Estimación de demandas y su tasa de crecimiento anual indicando el porcentaje de varianza esperada.
+c) Nombre, objeto específico y tipología del proyecto.
 
-f) Terreno, propiedad del mismo y necesidad de expropiación.
+d) Descripción general del proyecto, su justificación, beneficios e identificación del o los organismos públicos que tendrían competencia en el proyecto, incluyendo los potenciales mandantes.
 
-g) Descripción de las obras y del servicio que se prestaría en concesión.
+e) Ubicación geográfica y área de influencia del proyecto, así como una justificación de su concordancia con los planes reguladores comunales, intercomunales y metropolitanos y su contribución al desarrollo territorial.
 
-h) Inversión presupuestada y costos de operación, incluyendo el porcentaje de varianza esperada en cada caso.
+f) Estimación de demandas y su tasa de crecimiento anual para un escenario definido como base, un escenario optimista y un escenario pesimista, junto a una descripción de la metodología y supuestos utilizados.
 
-i) Análisis financiero a nivel de perfil.
+g) Terrenos donde se emplazaría el proyecto, señalando si su propiedad es pública o privada y las eventuales necesidades de expropiación.
 
-j) Evaluación social a nivel de perfil incluyendo las alternativas no tarificadas que tenga el servicio que se propone.
+h) Descripción de las obras previstas realizar y su justificación técnica, y descripción de los servicios que se prestarían en virtud del contrato de concesión.
 
-k) Riesgo asociado a la iniciativa, entendido éste como la complementariedad o competitividad de la iniciativa con los proyectos actualmente en estudio o ejecución, tanto por el MOP como por otros organismos públicos.
+i) Inversión presupuestada y costos de operación, identificando los distintos ítems de inversiones y costos involucrados para un escenario definido como base, uno optimista y uno pesimista, junto a una descripción de la metodología y supuestos utilizados.
 
-l) Condiciones económicas que podría tener el contrato de concesión, tales como nivel tarifario, plazo de la concesión, pagos al Fisco o nivel de subsidio.
+j) Análisis financiero a nivel de perfil del proyecto, el cual al menos deberá considerar las siguientes variables:
 
-m) Análisis ambiental general orientado a la determinación de la necesidad de realizar una evaluación de Impacto Ambiental, según las normas contenidas en la Ley Nº 19.300, sobre Bases Generales del Medio Ambiente.
+. Flujo de caja para la vida del proyecto en frecuencia anual, para los escenarios de demanda, costos de operación e inversiones solicitados en las letras f) e i) del presente numeral.
 
-n) Solicitud del postulante en la que señale si acepta o no que el MOP amplíe el plazo para el desarrollo de los estudios de su proposición.
+. Estimación de las tasas de descuento debidamente justificada.
 
-o) Anexos: Cualquier otro antecedente del proyecto que el postulante considere útil o necesario para su evaluación.
+. Indicadores económicos preliminares del proyecto para distintos escenarios de demanda, contemplando escenarios de costos operacionales e inversiones para proyectos, tales como: Valor Actual Neto (VAN), Tasa Interna de Retorno (TIR) y Período de Recuperación de la Inversión (PRI) simple.
 
-2.- Cada uno de los citados antecedentes deberá estar debidamente respaldado y fundamentado, indicando las fuentes de información utilizadas.
+. Otros indicadores que el Postulante considere pertinentes.
 
-3.- Las comunicaciones o notificaciones que el MOP realice tanto en esta etapa como en la de proposición serán dirigidas al domicilio indicado por el postulante, mediante carta certificada, fax o cualquier otro medio que permita dejar constancia de su recepción.
+k) Evaluación social a nivel de perfil, incluyendo las alternativas no tarificadas que tenga el servicio que se propone, de acuerdo a los precios sociales y tasa de descuento social vigentes al momento de la entrega de la Idea de Iniciativa Privada, determinados por el Ministerio de Desarrollo Social y Familia. Al menos deberá considerar los siguientes elementos:
 
-4.- La Presentación se entregará, en un original y dos copias, conforme a las Instrucciones para la Presentación de Proyectos de Iniciativa Privada, elaboradas por el MOP, en la oficina de partes de la Dirección General de Obras Públicas, dónde se registrará la fecha y hora de entrega. También podrán realizarse presentaciones en las oficinas de partes de las Secretarías Regionales Ministeriales del MOP, las que deberán remitir los antecedentes, en el plazo de 5 días, al DGOP.
+. Identificación y justificación de la metodología de evaluación social que aplica.
 
-5.- El MOP revisará en el plazo de 10 días, desde la presentación, si los antecedentes acompañados se ajustan a lo establecido en el presente Reglamento y lo comunicará al postulante. En el caso que se comprobare que los antecedentes están incompletos, el postulante deberá entregar los faltantes en la oficina de partes de la DGOP o en las Secretarías Regionales Ministeriales del MOP, para lo cual tendrá un plazo adicional de 5 días desde la recepción de la notificación. Dichas Secretarías enviarán la documentación en el plazo señalado en el inciso anterior. En el caso de que estos nuevos antecedentes no sean presentados dentro de plazo, se tendrá por no efectuada la Presentación.
+. Situación sin proyecto: estimación de línea base de demanda y oferta, estimación de beneficios y costos, tanto sociales como económicos.
 
-6.- Dependiendo del monto de la inversión presupuestada, el MOP clasificará las presentaciones en las siguientes tres categorías:
+. Optimización de la situación actual y alternativas de solución.
 
-A) Proyectos que tengan una inversión estimada de hasta 300.000 UF
+. Situación con proyecto: identificación de los efectos del proyecto, cuantificación de los beneficios y costos sociales del proyecto, y evaluación social preliminar del proyecto.
 
-B) Proyectos con una inversión estimada desde más de 300.000 UF hasta 800.000 UF
+. Metodología de cálculo de los precios sociales en caso de no contar con estimaciones del Ministerio de Desarrollo Social y Familia.
 
-C) Proyectos con una inversión estimada de más de 800.000 UF.
+. Análisis de sensibilidad para escenario de desvíos identificados.
 
-#### Artículo 6º
+. Síntesis de resultados de la evaluación social: VAN, TIR, costo/producto costo/impacto, entre otros.
 
-Evaluación de la Presentación y Respuesta.
+. Otros indicadores que el Postulante considere pertinentes.
 
-1.- Para evaluar si existe, en principio, interés público en el proyecto presentado, el MOP podrá consultar los antecedentes con el Ministerio de Hacienda, MIDEPLAN u otros ministerios u organismos públicos competentes. No obstante, en el caso de que se trate de una obra pública de aquellas a que se refiere el inciso segundo del artículo 39° del DS MOP Nº 900 de 1996, previa la respuesta al postulante, será necesario contar con un informe del ministerio, servicio público, municipio, empresa pública u organismo del Estado de cuya competencia dependa la obra a que se refiere el proyecto.
+l) Descripción de los factores de riesgo que a juicio del Postulante podrían afectar la normal tramitación de la Idea de Iniciativa Privada y/o su futura licitación, así como también los factores de riesgo del proyecto.
 
-2.- Dentro del plazo de 45 días, contado desde la recepción de la Presentación en la DGOP o desde la recepción de los antecedentes faltantes si los hubiere, el DGOP dirigirá, al domicilio del postulante, un oficio de respuesta en que le indicará si existe o no, en principio, interés público en la idea presentada. En caso afirmativo, dicho oficio no implica el reconocimiento de derecho alguno del postulante sobre la presentación, ni la aprobación de la misma, sino sólo un interés de conocerla en detalle, sin responsabilidad ulterior para el MOP. No obstante lo anterior, este plazo de respuesta podrá ampliarse cuando se trate de las obras públicas a que se refiere el inciso segundo del artículo 39° del DS MOP Nº 900 de 1996.
+m) Condiciones económicas asociadas al contrato de concesión, tales como nivel tarifario, plazo de la concesión, pagos al Fisco, nivel de subsidio u otros aportes del Estado.
 
-3.- El oficio de respuesta, en que el MOP le comunica al postulante que existe, en principio, interés público en la idea presentada contendrá, a lo menos, lo siguiente:
+n) Análisis territorial y ambiental general orientado a la determinación de la necesidad de realizar una evaluación de impacto ambiental, según las normas contenidas en la ley N° 19.300, sobre Bases Generales del Medio Ambiente.
 
-a) Estudios mínimos a entregar en la etapa de Proposición, su forma y especificaciones;
+o) El plazo estimado que requiere para el desarrollo de los estudios mínimos en una eventual Etapa de Proposición y si requerirá la ampliación de plazo que establece el inciso 4° del artículo 2° del DS MOP Nº 900, de 1996. Asimismo, en caso que el Postulante lo estime pertinente, podrá proponer al MOP la ejecución de la Etapa de Proposición en subetapas, en vista y consideración de la facultad del MOP contemplada en el artículo 2º del DS MOP Nº 900, de 1996.
 
-b) Plazo para la entrega, en su caso, de los informes parciales y del informe final. El plazo para la entrega de este último no podrá exceder de 180 días;
+p) Estudios mínimos que considera pertinente realizar en la Etapa de Proposición, junto a una descripción detallada de sus términos de referencia, especificaciones, el plazo estimado para ejecutarlos y una valorización preliminar de cada uno de ellos. En caso de proponer subetapas, deberá indicar lo señalado anteriormente respecto de cada una de ellas.
 
-c) Designación de un inspector fiscal del proyecto que representará al Ministerio ante el postulante en esta etapa;
+q) Descripción general de la normativa aplicable y factibilidad jurídica del proyecto, considerando, entre otros factores, sus características sectoriales, zona de implementación y áreas de influencia.
 
-d) Forma, cuantía y condiciones de la garantía de seriedad a que se refiere el N°3 del artículo 0 del presente Reglamento.
+r) Cualquier otro antecedente de la Idea de Iniciativa Privada que el Postulante considere útil o necesario aportar para la evaluación de la misma.
 
-4.- Las personas naturales o jurídicas podrán volver a presentar la misma idea, aun cuando fuere rechazada por el MOP; sin embargo, en las siguientes presentaciones, el MOP tendrá el plazo de un año para responder.
+2.- Cada uno de los citados antecedentes deberá estar debidamente respaldado y fundamentado, indicando las fuentes de información utilizadas, y ser acompañado de conformidad con el o los formularios, guías o instructivos que, al efecto, se aprueben mediante una resolución de la DGC.
 
-#### Artículo 7º
+3.- La Idea de Iniciativa Privada se presentará en el formato que establezcan los instructivos, guías o formularios que establezca la DGC mediante resolución, los cuales se pondrán a disposición de los interesados. La fecha de presentación de la Idea de Iniciativa Privada será la fecha de su ingreso a la oficina de partes de la DGC.
+
+4.- Dependiendo del monto de la inversión presupuestado en la Idea de Iniciativa Privada para un escenario base, en conformidad a lo exigido en la letra i) del númeral 1 anterior, la DGC clasificará los proyectos en las siguientes tres categorías:
+
+Categoría "A" : Proyectos que tengan una inversión estimada de hasta 300.000 UF.
+
+Categoría "B" : Proyectos con una inversión estimada mayor a 300.000 UF y de hasta 800.000 UF.
+
+Categoría "C" : Proyectos con una inversión estimada mayor a 800.000 UF.
+
+#### Artículo 6°
+
+Evaluación de la Presentación y Respuesta del Ministerio de Obras Públicas.
+
+1.- La DGC realizará un examen de admisibilidad de la presentación de la Idea de Iniciativa Privada dentro del plazo de 10 días contado desde el ingreso del formulario correspondiente, en el que verificará que ésta contenga los aspectos mínimos exigidos en el numeral 1 del artículo anterior y que haya sido ingresada en conformidad a los numerales 2 y 3 del mismo artículo, debiendo examinar además que no esté siendo estudiada por el MOP, según lo prescrito en el numeral 1 del artículo 4° del presente Reglamento, pudiendo ocurrir alguna de las siguientes situaciones:
+
+a) Si se comprobare que la presentación no cumple con los requisitos establecidos para el examen de admisibilidad, se le otorgará al Postulante un plazo de 5 días, contado desde la notificación correspondiente, a fin que pueda completar los antecedentes o subsanar su presentación, con indicación de que si así no lo hiciere, se tendrá por no efectuada la presentación de la Idea de Iniciativa Privada.
+
+b) Si la DGC determinare que la presentación cumple con los requisitos exigidos, comunicará dicha situación al Postulante, informando que se acoge a tramitación la presentación de Idea de Iniciativa Privada.
+
+2.- La DGC tendrá un plazo de 30 días, contado desde la notificación de la comunicación al Postulante de que la Idea de Iniciativa Privada ha sido aceptada a trámite, para evaluar la suficiencia y coherencia de los documentos y antecedentes presentados. De acuerdo a dicha evaluación, la DGC de manera fundada podrá desestimarla tempranamente por no cumplir con los criterios señalados. En cambio, si la DGC determinare que los documentos son suficientes y coherentes, procederá de manera inmediata a realizar las consultas reguladas en el siguiente numeral de este artículo.
+
+3.- Para evaluar si existe interés público en la Idea de Iniciativa Privada presentada, la DGC podrá consultar dichos antecedentes con el Ministerio de Hacienda para que informe la disponibilidad presupuestaria, el Ministerio de Desarrollo Social y Familia u otros ministerios u organismos públicos competentes. No obstante, en el caso que se trate de una obra pública de aquellas a que se refiere el inciso segundo del artículo 39° del DS MOP Nº 900, de 1996, será necesario consultar al ministerio, servicio público, municipio, empresa pública u organismo de la Administración del Estado de cuya competencia dependa la obra a que se refiere la Idea de Iniciativa Privada. Si transcurridos 60 días contados desde la fecha de notificación del oficio mediante el cual se realicen las consultas, no se contare con la opinión de la o las entidades consultadas, la DGC continuará con la tramitación de la Idea de Iniciativa Privada. En caso de no recibirse dentro de ese plazo la opinión del ministerio, servicio público, municipio, empresa pública u organismo de la Administración del Estado de cuya competencia dependa la obra a que se refiere la Idea de Iniciativa Privada, se entenderá que no existe interés en conocer la idea en detalle.
+
+4.- Una vez transcurrido el plazo de 60 días desde la última notificación a las entidades consultadas en conformidad al numeral anterior, la DGC tendrá 15 días para rechazar fundadamente la Idea de Iniciativa Privada o para emitir un informe al Ministro de Obras Públicas, para efectos de lo dispuesto en el numeral siguiente, el que describirá los antecedentes de la Idea de Iniciativa Privada analizada.
+
+5.- Dentro del plazo de 45 días contado desde la recepción del informe a que se refiere el numeral anterior, el Ministro de Obras Públicas requerirá al Consejo de Concesiones un informe sobre la Idea de Iniciativa Privada, la que deberá ser revisada en la sesión ordinaria o extraordinaria más próxima, en conformidad al artículo 101° del presente Reglamento. Durante el proceso de revisión y análisis de la Idea de Iniciativa Privada, el referido Consejo tendrá acceso a la información solicitada por la DGC conforme al numeral 3 del presente artículo y podrá solicitar mayores antecedentes a la DGC. El Consejo de Concesiones se deberá pronunciar de manera favorable o negativa sobre la existencia de interés público en la Idea de Iniciativa Privada en evaluación y emitir su informe con los fundamentos de su pronunciamiento en un plazo de 60 días contado desde que el informe fue requerido al Consejo, dando aplicación a los criterios establecidos en el artículo 102° de este Reglamento. En caso que el Consejo no emitiere su informe, se entenderá para todos los efectos que es desfavorable.
+
+6.- Dentro de un plazo de 30 días contado desde la fecha en que el Consejo de Concesiones emita su pronunciamiento, la DGC deberá remitir al Ministerio de Hacienda y al Ministerio de Desarrollo Social y Familia los antecedentes de la Idea de Iniciativa Privada y el acta en que consta el pronunciamiento del referido Consejo.
+
+7.- Una vez cumplidos los plazos y etapas administrativas descritas en los numerales anteriores de este artículo, y dentro del plazo de 150 días contado desde la fecha del informe del Consejo de Concesiones, pero en ningún caso después de un año contado desde la fecha de presentación de la Idea de Iniciativa Privada, la DGC declarará de manera fundada y a través de un acto administrativo si existe interés público en la Idea de Iniciativa Privada, lo que deberá ser notificado al Postulante. En ningún caso la dictación de un acto administrativo favorable implicará el reconocimiento de un derecho del Postulante sobre el desarrollo y resultado del procedimiento, sino que sólo una manifestación de interés por conocer sus detalles, sin responsabilidad ulterior para el MOP.
+
+8.- El acto administrativo que contenga la respuesta en que la DGC comunica al Postulante que existe interés público en la idea presentada deberá considerar, a lo menos, lo siguiente:
+
+a) La declaración de interés público en la Idea de Iniciativa Privada presentada.
+
+b) Los estudios que deberán ser entregados durante la Etapa de Proposición junto con las observaciones y nuevas exigencias a los términos de referencias, especificaciones y plazos de los estudios propuestos en conformidad a la letra p) del numeral 1 del artículo 5° del presente Reglamento. Si procede, según lo indicado en el artículo 2° del DS MOP Nº 900, de 1996, la definición de la cantidad y especificación de cada subetapa en que será abordado el desarrollo de estos estudios.
+
+c) El plazo para la entrega, en su caso, de los estudios, de los informes parciales para cada subetapa, si las hubiera, y de la Proposición.
+
+d) La designación de un inspector fiscal que representará a la DGC ante el Postulante en esta etapa.
+
+e) La forma, cuantía y condiciones de la garantía de seriedad a que se refiere la letra a) del numeral 1 del artículo 7º del presente Reglamento. Si la Etapa de Proposición se desarrolla en subetapas, se podrán entregar garantías sucesivas para caucionar cada una de éstas, en cuyo caso cada garantía será por el total del monto caucionado indicado en la letra a) del numeral 1 del artículo 7º del presente Reglamento.
+
+#### Artículo 7°
 
 Etapa de Proposición.
 
-1.- En el plazo de 5 días, contado desde la recepción del oficio de respuesta, el postulante podrá solicitar una ampliación del plazo de entrega de los estudios propuestos por el MOP, ya sea solicitando el máximo de hasta 180 días, cuando fuere menor o un plazo mayor de hasta 2 años, a través de una comunicación escrita dirigida al Director General de Obras Públicas, siempre que haya solicitado la ampliación en su Presentación. El MOP tendrá un plazo de 10 días desde la solicitud para comunicar al postulante si amplía o no el plazo para el desarrollo de los estudios, a través de oficio dirigido a su domicilio o al fax indicado por el postulante en su presentación. Esta decisión no será susceptible de recurso alguno.
+1.- Dentro del plazo de 30 días contado desde la notificación del acto administrativo que declaró la Idea de Iniciativa Privada como de interés público, el Proponente deberá entregar a la DGC:
 
-2.- Durante esta etapa, el MOP podrá exigir al postulante la realización de estudios adicionales.
+a) La garantía exigida en el acto administrativo que declaró la existencia de interés público en la Idea de Iniciativa Privada, según el numeral 8 del artículo 6° de este Reglamento, con el objeto de caucionar las obligaciones de realizar y concluir los estudios en los plazos requeridos, como también la suficiencia de los mismos y la obligación de presentar la Proposición conforme a los numerales 6 y 7 del presente artículo.
 
-3.- Dentro del plazo de 30 días desde la recepción del oficio de respuesta, el postulante deberá entregar una garantía de seriedad que garantice la obligación de terminar los estudios en el plazo indicado y la suficiencia de los mismos. La cuantía de la garantía será de 1.000 UF en los proyectos de Categoría A, 3.000 UF en los proyectos de Categoría B y 5.000 UF en los proyectos de Categoría C. El plazo de la misma deberá ser igual al de entrega de los estudios más 60 días. Dicha garantía será devuelta dentro de los 30 días siguientes al de la entrega de los estudios correspondientes. El MOP hará efectiva dicha garantía en el caso que los estudios no sean entregados oportunamente o ellos no cumplan con la forma y especificaciones que establece el oficio a que se hace referencia en el inciso 3º del artículo anterior. En este caso, la decisión de hacerla efectiva será fundada y comunicada al postulante.
+La cuantía de la garantía será de 1.000 UF en los proyectos de Categoría A; 3.000 UF en los proyectos de Categoría B y 5.000 UF en los proyectos de Categoría C.
 
-4.- El postulante deberá presentar la Proposición en la oficina de partes de la DGOP dentro del plazo fijado, adjuntando copia del oficio de respuesta del MOP señalado en el inciso tercero del artículo 6° precedente. Transcurrido el plazo señalado sin que se presentare la Proposición, se entiende que el interesado se desiste de su postulación la que podrá ser asumida por el MOP o quedará disponible para nuevas presentaciones.
+El plazo de vigencia de la garantía, si se exige solamente una, deberá ser igual al plazo de entrega de la Proposición, más 120 días. En la eventualidad que el plazo de entrega se modifique, el Proponente deberá mantenerla vigente en las mismas condiciones señaladas anteriormente.
 
-5.- La Proposición deberá contener los estudios ejecutados así como todos los antecedentes señalados en el inciso primero del artículo 5° del presente Reglamento, debidamente actualizados.
+Si el Proponente opta por entregar una garantía para caucionar cada subetapa, dichas garantías deberán entregarse sucesivamente, de forma que siempre exista una garantía que se encuentre vigente. El plazo de vigencia de cada una de éstas deberá ser igual al plazo de duración de la subetapa correspondiente, más 60 días, con excepción de la última, caso en el cual deberá ser igual al plazo de entrega de la Proposición, más 120 días. En la eventualidad que el plazo de una subetapa se modifique, el Proponente deberá mantener la garantía correspondiente vigente en las mismas condiciones señaladas anteriormente.
 
-#### Artículo 8º
+Si el Proponente cumple con las obligaciones caucionadas, la garantía será devuelta dentro de los 30 días siguientes a la respuesta de la DGC a la Proposición o, en el caso de subetapas, una vez que la DGC haya manifestado su voluntad de continuar con la subetapa siguiente y que se haya comprobado la validez y suficiencia de la nueva garantía para la subetapa siguiente. Por el contrario, si el Proponente no cumple con las obligaciones establecidas en el presente artículo, la DGC podrá hacer efectiva dicha garantía, lo que deberá ser comunicado con anticipación al Proponente junto con sus fundamentos. Los montos obtenidos mediante el cobro de la garantía de seriedad pertenecerán al MOP sin que éste deba acreditar perjuicios por el incumplimiento del Proponente.
+
+b) Los términos de referencia, especificaciones y plazos estimados de los estudios a desarrollar, debidamente ajustados a las observaciones y exigencias contenidas en el acto administrativo regulado en la letra b) del numeral 8 del artículo 6° del presente Reglamento. Asimismo, deberá presentar una valorización de cada uno de los estudios a realizar junto con los antecedentes que la sustentan.
+
+2.- La DGC, en un plazo de 15 días contado desde la presentación del Proponente, emitirá un pronunciamiento sobre la garantía y la propuesta a las que se refieren las letras a) y b) del numeral anterior:
+
+a) Si el pronunciamiento es positivo, la DGC deberá señalar al Proponente que ejecute los estudios según los ajustes realizados y fijará el valor máximo de un eventual reembolso respecto de cada uno de ellos, dando así inicio a la Etapa de Proposición. Si los estudios se desarrollan en subetapas, en este pronunciamiento la DGC determinará el valor máximo a reembolsar de aquellos estudios que se realizarán en la primera subetapa. Para determinar el valor máximo de un eventual reembolso de los estudios, la DGC aplicará criterios de mercado.
+
+b) Si el Proponente no cumple con lo exigido en el numeral anterior o el pronunciamiento de la DGC fuere negativo, se tendrá por no iniciada la Etapa de Proposición y se rechazará la Idea de Iniciativa Privada, procediéndose a la devolución de la garantía dentro de los 30 días siguientes a dicho pronunciamiento.
+
+c) En caso de haberse cumplido lo exigido en el numeral anterior, pero la DGC tuviese observaciones, ésta pondrá, por una vez, tales observaciones en conocimiento del Proponente, a fin que las subsane en un plazo de 15 días contado desde la correspondiente notificación. Si el Proponente no subsana las observaciones dentro de ese plazo, se tendrá por no iniciada la Etapa de Proposición y se rechazará la Idea de Iniciativa Privada, procediéndose a la devolución de la garantía dentro de los 30 días siguientes a que la DGC comunique que no se subsanaron las observaciones.
+
+3.- Durante la Etapa de Proposición, la DGC podrá exigir al Proponente, de forma fundada, la realización de estudios adicionales, los cuales no podrán abordar materias previstas en los estudios mínimos. El Proponente, en un plazo de 30 días contado desde la correspondiente notificación de exigencia de realizar estudios adicionales, deberá presentar los términos de referencia, especificaciones y una valorización de cada uno de los estudios a desarrollar junto con los antecedentes que los sustentan. La DGC se pronunciará sobre la presentación del Proponente en un plazo de 15 días contado desde la recepción de los antecedentes, definiendo el valor máximo del reembolso respecto de cada uno de los estudios.
+
+4.- El Proponente deberá entregar los estudios mínimos y adicionales dando estricto cumplimiento a las condiciones, requisitos, especificaciones y plazos establecidos en este artículo y en el artículo anterior del presente Reglamento, como también una justificación detallada que acredite los costos incurridos en cada uno de los estudios. Si la Etapa de Proposición se desarrolla en subetapas, al término de cada una de ellas el Proponente, dando cumplimiento a las normas citadas, deberá entregar los informes parciales y la justificación de gastos de los estudios realizados. Asimismo, deberá actualizar el presupuesto, programación, especificaciones y términos de referencia de los estudios de la subetapa siguiente.
+
+5.- La DGC se pronunciará sobre la aceptación o rechazo del o los estudios en la respuesta a la Proposición, regulada en el artículo 9° del presente Reglamento. Si la Etapa de Proposición es desarrollada en subetapas, al término de cada una de ellas y una vez recibidos los informes parciales y documentación en conformidad al numeral anterior, la DGC, en un plazo de 30 días, deberá comunicar al Proponente si acepta o rechaza los estudios e informes parciales, pudiendo ocurrir cualquiera de las siguientes situaciones:
+
+a) En caso que se rechace alguno de los estudios y/o informes parciales, se pondrá término a la Etapa de Proposición y se podrá hacer efectiva la garantía.
+
+b) Si los estudios y/o informes parciales son aceptados y la DGC manifiesta la voluntad de continuar con la subetapa siguiente, se pronunciará sobre la actualización de los estudios que se deberán ejecutar en la subetapa que se inicia, su programación, especificaciones, términos de referencia, condiciones de contratación y el valor máximo eventualmente a reembolsar de los mismos.
+
+c) Si los estudios son aceptados, pero la DGC decide no continuar con la subetapa siguiente, pondrá fin a la Etapa de Proposición, decisión que se deberá fundar en los resultados de los estudios.
+
+6.- El Proponente deberá presentar los estudios y/o informes parciales de cada subetapa y la Proposición a la DGC dentro del plazo y de acuerdo a las exigencias y condiciones establecidas en el acto administrativo que declara la existencia de interés público, y de conformidad a lo dispuesto en el numeral 7 del presente artículo. Transcurrido el plazo señalado sin que se presentaren dichos estudios, informes parciales o Proposición, se entenderá que el interesado desiste de su Idea de Iniciativa Privada, poniendo término la DGC a la Etapa de Proposición, y la obra pública propuesta podrá ser asumida por el MOP o quedará disponible para nuevas presentaciones. Asimismo, la DGC podrá hacer efectiva la garantía en conformidad a lo prescrito en la letra a) del numeral 1 de este artículo.
+
+7.- La Proposición deberá contener todos los elementos técnicos, económicos, financieros y jurídicos que sustentan la viabilidad del proyecto, los que deberán estar relacionados con los antecedentes señalados en el numeral 1 del artículo 5° del presente Reglamento, debidamente actualizados, además de la totalidad de los estudios ejecutados según lo requerido por la DGC en el acto administrativo contemplado en el numeral 8 del artículo 6° antes referido y en el presente artículo.
+
+8.- Conforme lo requiera el principio de coordinación entre los órganos de la Administración del Estado, la DGC podrá compartir con otros órganos los estudios, los informes y la Proposición desarrollados por el Proponente. En particular, la DGC podrá compartir con el Ministerio de Hacienda los antecedentes entregados por el Proponente relativos al modelo de negocios y los aspectos económicos, financieros y presupuestarios de la Idea de Iniciativa Privada. Además, la DGC podrá divulgar los antecedentes que fundadamente se requiera para permitir la participación ciudadana en la gestión pública conforme a lo establecido en el Título IV de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado está fijado en el decreto con fuerza de ley N° 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia.
+
+#### Artículo 8°
 
 Reembolso de los Estudios.
 
-1.- El MOP podrá ofrecer al postulante, el reembolso de todo o parte de los costos de los estudios que debió realizar para su proposición.
+1.- El MOP podrá reembolsar al Proponente el total o parte del costo de los estudios realizados en la Etapa de Proposición, en virtud de lo comunicado al Proponente conforme a los artículos 6° y 7° del presente Reglamento.
 
-2.- Una vez realizados los estudios, el postulante podrá solicitar el reembolso de todo o parte de ellos. El MOP determinará los montos afectos a reembolso, para lo cual el postulante entregará al MOP, en el plazo de 30 días contados desde la fecha de recepción del oficio de respuesta señalado en el artículo anterior, un presupuesto del valor de los estudios mínimos. Respecto de los estudios adicionales, el postulante deberá entregar al MOP, en el plazo de 30 días desde que fueran solicitados, el presupuesto con el valor de éstos.
+2.- En caso que el MOP aprobare la Proposición y no licitare el proyecto o lo licitare por un sistema distinto del sistema de concesiones, reembolsará el valor acreditado de los costos de los estudios realizados hasta por el valor máximo determinado por la DGC en conformidad al artículo 7º del presente Reglamento, respecto de cada estudio mínimo realizado y aprobado. En este caso, el reembolso será realizado en el plazo máximo de dieciocho meses desde la notificación al Proponente de la aprobación de la Proposición.
 
-3.- El MOP valorará, tanto los estudios mínimos como los estudios adicionales, a criterio de mercado, y resolverá para cada caso, sin ulterior recurso, sobre el valor que pudiere llegar a reembolsar, en el plazo de 20 días desde que fuera presentado el presupuesto respectivo. Cuando se trate de estudios adicionales exigidos por el MOP durante la etapa de proposición, el porcentaje de los mismos a reembolsar será del 100%.
+3.- En caso de licitarse y adjudicarse el proyecto derivado de la Idea de Iniciativa Privada por el sistema de concesiones, el adjudicatario de la concesión reembolsará el valor acreditado de los costos con el tope del valor máximo determinado por la DGC en conformidad al artículo 7º del presente Reglamento, respecto de cada estudio mínimo realizado y aprobado. El reembolso se realizará en la forma, modo y plazo que establezcan las Bases de Licitación respectivas, según lo dispuesto en el artículo 2º del DS MOP Nº 900, de 1996.
 
-4.- El reembolso, si lo hubiere, será realizado en el plazo máximo de 120 días desde que dichos estudios sean entregados y recibidos conformes, salvo que el MOP apruebe la Proposición y decida llamar a licitación el proyecto, ya sea por el sistema de concesión, en cuyo caso se aplicará lo señalado en el número 5 de este artículo, o por un sistema distinto del de concesión, en cuyo caso deberá pagar los estudios realizados en el plazo de 120 días desde que realice el llamado. En todo caso, realizado el reembolso o el pago del valor de los estudios, éstos se entenderán transferidos al MOP.
+4.- Si la Proposición es aprobada, pero el proyecto no se adjudicare en uno o dos procesos de licitación realizados bajo el sistema de concesiones de obras públicas, el MOP podrá reembolsar, directamente, el valor acreditado de los costos de los estudios realizados hasta por el valor máximo determinado en conformidad al artículo 7º del presente Reglamento. En este caso, el reembolso se realizará dentro del plazo de un año contado desde la última resolución de la DGC que declare desierta la licitación o declare inadmisibles todas las ofertas presentadas.
 
-5.- El MOP reembolsará el total del costo de los estudios mínimos y adicionales, que debió realizar el postulante para su proposición, cuando el proyecto sea adjudicado de acuerdo al procedimiento establecido en el presente Reglamento. Cuando el proyecto sea licitado por el sistema de concesión, el reembolso será de cargo del adjudicatario de la concesión. La forma, modo y plazo de este reembolso se establecerá en las bases de licitación. El reembolso será realizado directamente por el MOP, según lo señalado en el inciso tercero, si la licitación convocada no se perfecciona por falta de adjudicación o por cualquier otra causa en uno o dos llamados, en el plazo de 90 días desde que se resuelva la no perfección del contrato de concesión.
+5.- Si la Proposición fuere rechazada, o la DGC diere término a la Etapa de Proposición según lo establecido en las letras a) o c) del numeral 5 del artículo 7° del presente Reglamento, o en razón del incumplimiento por parte del Proponente de sus obligaciones, el Proponente no tendrá derecho a reembolso alguno respecto de los estudios mínimos. Sin perjuicio de lo anterior, el MOP podrá reembolsar el valor acreditado de los costos de los estudios mínimos realizados y aprobados que fundadamente requiera que le sean transferidos en propiedad, hasta por el valor máximo determinado en conformidad al artículo 7º del presente Reglamento, respecto de cada estudio. En estos casos la DGC deberá pronunciarse sobre el reembolso en el acto administrativo en que rechace la Proposición o dé término a la Etapa de Proposición, y el reembolso, si lo hubiere, se realizará dentro del plazo de un año contado desde la notificación de ese acto al Proponente.
 
-6.- El reembolso, si lo hubiere, se entenderá sin perjuicio del premio a que pudiere tener derecho el postulante de una idea de iniciativa privada cuando ésta es licitada por el sistema de concesión, según lo señalado en el artículo 10° del presente Reglamento.
+6.- En todos los casos en que se hayan exigido estudios adicionales, se reembolsará el valor acreditado de los costos de dichos estudios aprobados, hasta el valor máximo determinado por la DGC en conformidad al numeral 3 del artículo 7º del presente Reglamento. El reembolso será realizado por el adjudicatario o el MOP, según corresponda, conforme a lo dispuesto en los numerales anteriores.
 
-#### Artículo 9º
+7.- El reembolso, si lo hubiere, se entenderá sin perjuicio del premio a que pudiere tener derecho el Proponente de una Idea de Iniciativa Privada cuando ésta sea licitada por el sistema de concesiones, según lo establecido en el artículo 10° del presente Reglamento.
+
+8.- Cuando sin haberse aceptado la Proposición se comprometiere el reembolso por parte del MOP, los estudios y los proyectos a los que éstos se refieren se entenderán transferidos en propiedad al MOP desde la notificación del acto administrativo que comprometa el reembolso respectivo.
+
+#### Artículo 9°
 
 Respuesta a la Proposición.
 
-1.- El MOP responderá fundadamente la Proposición dentro del plazo legal establecido en el artículo 2 inciso 2º del DS MOP Nº 900 de 1996, remitiendo previamente los antecedentes al Ministerio de Hacienda para su conocimiento.
+1.- La DGC se pronunciará fundadamente sobre la aprobación o rechazo de la Proposición dentro del plazo de 90 días contado desde que ésta sea presentada, según lo dispuesto en la letra c) del numeral 8 del artículo 6°, y en los numerales 6 y 7 del artículo 7°, debiendo notificar su decisión al Proponente. Tratándose de Ideas de Iniciativa Privada relativas a las obras públicas a que se refiere el inciso segundo del artículo 39° del DS MOP Nº 900, de 1996, la DGC deberá obtener la opinión favorable del ministerio, servicio público, municipio, empresa pública u organismo de la Administración del Estado de cuya competencia dependa la obra, en forma previa a aprobar la Proposición.
 
-2.- En la etapa de Proposición, la iniciativa del proyecto seguirá perteneciendo al postulante hasta la respuesta del MOP sobre su aceptación o rechazo. Si la Proposición es aceptada, ésta se entenderá transferida al Ministerio de Obras Públicas a cambio del premio en la evaluación de la oferta, aunque el postulante no se presente a la licitación de que se trate. En las bases de licitación se dejará constancia de la identidad del postulante y del premio a que éste tiene derecho en la evaluación de la oferta.
+2.- Adicionalmente, en el mismo acto la DGC se deberá pronunciar sobre la aceptación o rechazo de los estudios desarrollados en la Etapa de Proposición. No obstante, si la Proposición se desarrolló en subetapas y la DGC se pronunció sobre la aceptación de los estudios al término de cada una de ellas, no será necesario repetir tal pronunciamiento.
 
-3.- Dentro del plazo de 1 año contado desde la aprobación de la proposición el MOP llamará a licitación pública el proyecto de concesión. El proceso de licitación se entenderá iniciado cuando el MOP llame a precalificación del proyecto según lo señalado en el artículo 13° del presente Reglamento o cuando se realice el llamado a la licitación.
+3.- Teniendo en consideración los numerales anteriores, si la DGC no acepta algunos de los estudios realizados por el Proponente, deberá rechazar la Proposición. Si la totalidad de los estudios son aceptados, la DGC aceptará o rechazará la Proposición, en forma fundada.
 
-4.- Si la Proposición es rechazada, la iniciativa se mantendrá como de propiedad del postulante hasta por un plazo de 3 años, y no podrá ser objeto de licitación por concesión sin antes notificar dicha situación al mismo, con el objeto que pueda concurrir a la licitación y optar al premio que le corresponda en la evaluación de su oferta. La no concurrencia a la licitación del postulante, debidamente notificado mediante oficio dirigido al domicilio indicado en su presentación, implicará su renuncia a todos los derechos como impulsor de dicha iniciativa.
+4.- La DGC deberá comunicar al Ministerio de Hacienda la aprobación o rechazo de la Proposición de una Idea de Iniciativa Privada dentro del plazo de 5 días contado desde la fecha del acto administrativo que realizó dicha declaración, acompañando los antecedentes del proyecto.
 
-#### Artículo 10º
+5.- En la Etapa de Proposición, la Idea de Iniciativa Privada seguirá perteneciendo al Proponente hasta la notificación de la decisión de la DGC de aceptar la Proposición, momento en el cual se entenderá transferida al Ministerio. La propiedad de la Idea de Iniciativa Privada, del proyecto derivado de ésta y de los estudios que la sustentan, se entenderá transferida al Ministerio a cambio del premio en la evaluación de la oferta, aunque el Proponente no se presente a la licitación de que se trate, o del reembolso a que se refiere el numeral 2 del artículo 8º del presente Reglamento, en caso que el proyecto no se licitare bajo el sistema de concesiones de obras públicas, en ambos casos, desde la aprobación de la Proposición. En las Bases de Licitación se dejará constancia de la identidad del Proponente y del premio al cual éste tiene derecho en la evaluación de su oferta.
+
+6.- Dentro del plazo de un año desde la aprobación de la Proposición, la DGC convocará a una licitación pública que tendrá por objeto la adjudicación del contrato de concesión que contemple la ejecución y explotación de las obras previstas por el proyecto. El proceso de licitación se entenderá iniciado cuando se realice la publicación del correspondiente llamado a licitación. Sin embargo, en el caso que la DGC llame a precalificación del proyecto según lo establecido en el artículo 13º del presente Reglamento, el proceso se entenderá iniciado con la publicación de este llamado.
+
+7.- Si la Proposición es rechazada, el proyecto no podrá ser objeto de licitación por el sistema de concesiones dentro de los tres años siguientes a la comunicación del rechazo, a menos que previamente se notifique al Proponente la decisión de licitarla, con el objeto de que pueda concurrir a la licitación y optar al premio que le corresponda en la evaluación de su oferta, el que se determinará según lo dispuesto en el artículo 10° del presente Reglamento. La falta de concurrencia a la licitación del Proponente debidamente notificado implicará su renuncia a todos los derechos sobre el premio como promotor de dicha iniciativa. En caso de licitarse el proyecto, la DGC realizará los reembolsos que correspondan conforme a lo establecido en el artículo 8º del presente Reglamento.
+
+#### Artículo 10°
 
 Premio en la Evaluación de la Oferta.
 
-1.- El postulante, cuya proposición haya sido aceptada, podrá presentarse a la licitación acompañando toda la documentación solicitada en las bases de licitación y la copia del oficio de respuesta que acredita la aceptación de la misma. Para la determinación del premio a que tendrá derecho se utilizarán las categorías mencionadas en el artículo 5º del presente Reglamento; no obstante, la inclusión definitiva del proyecto en una categoría será realizada por el MOP una vez aceptada la Proposición, en función del presupuesto oficial de la obra, incluyendo el valor actualizado de los eventuales pagos al Estado por la infraestructura preexistente, si éstos son contemplados en las bases. Dicho presupuesto deberá constar en las bases de licitación.
+1.- Si la Proposición hubiere sido aprobada, el Proponente podrá presentarse a la licitación acompañando toda la documentación solicitada en las Bases de Licitación y una copia del acto administrativo que acredite dicha aprobación. El MOP determinará el premio a que tendrá derecho el Proponente sobre la base de las categorías definidas en conformidad al numeral 4 del artículo 5º del presente Reglamento, una vez aceptada la Proposición, en función del presupuesto oficial de la obra, incluyendo el valor actualizado de los eventuales pagos al Estado por la infraestructura preexistente, si éstos son contemplados en las bases. Dicho presupuesto deberá constar en las Bases de Licitación.
 
-2.- El porcentaje de premio al que tendrá derecho el postulante será de 3% en los proyectos de Categoría C, 6% en los de Categoría B y 8% en los de Categoría A.
+2.- El porcentaje de premio al que tendrá derecho el Proponente será de un 3% en los proyectos de Categoría C, un 6% en los de Categoría B y un 8% en los de Categoría A.
 
-3.- El puntaje de la oferta económica del postulante se incrementará en la cantidad que resulte de ponderar dicho puntaje por el porcentaje del premio, según el procedimiento de evaluación establecido en las bases de licitación.
+3.- El puntaje de la oferta económica del Proponente se incrementará en la cantidad que resulte de ponderar dicho puntaje por el porcentaje del premio, según el procedimiento de evaluación establecido en las bases de licitación.
 
-4.- El postulante podrá presentarse también a la licitación formando parte de un grupo licitante, cediendo expresamente el premio señalado en el presente artículo, a dicho grupo oferente.
+4.- El Proponente podrá presentarse también a la licitación formando parte de un grupo licitante. En tal caso, deberá ceder expresamente el premio señalado en el presente artículo a dicho grupo oferente.
+
+#### Artículo 10º bis
+
+Reunión de una Idea de Iniciativa Privada con una Iniciativa Pública.
+
+1.- Durante la Etapa de Proposición la DGC podrá disponer la realización de estudios sobre la conveniencia de licitar conjuntamente el proyecto a que se refiere la Idea de Iniciativa Privada con un proyecto correspondiente a una iniciativa pública. Para tales efectos, la DGC comunicará su intención al Proponente, quien dentro del plazo de 5 días siguiente a la notificación podrá solicitar la suspensión de los plazos establecidos para los estudios mínimos y adicionales que se encuentre desarrollando, hasta que la DGC se pronuncie sobre la decisión a que se refiere el numeral 2 siguiente. Sin perjuicio de lo anterior, la DGC, de oficio, podrá disponer fundadamente la suspensión de los estudios mínimos y adicionales que se encuentre desarrollando el Proponente. La DGC podrá encargar que los estudios sobre la conveniencia de licitar conjuntamente el proyecto a que se refiere la Idea de Iniciativa Privada con un proyecto correspondiente a una iniciativa pública sean desarrollados por el Proponente como estudios adicionales conforme a lo establecido en el numeral 3 del artículo 7º del presente Reglamento.
+
+2.- Si sobre la base de los estudios referidos en el numeral 1 anterior la DGC determinare fundadamente la conveniencia de licitar conjuntamente el proyecto a que se refiere la Idea de Iniciativa Privada con un proyecto correspondiente a una iniciativa pública, comunicará su decisión al Proponente para que éste, dentro del plazo de 15 días siguiente a la notificación de la decisión de la DGC, comunique a la DGC si optará por continuar los estudios de su Idea de Iniciativa Privada hasta la formulación de la Proposición, o si se desistirá de su Idea de Iniciativa Privada.
+
+3.- Si el Proponente decidiere desistir de su Idea de Iniciativa Privada conforme a lo establecido en el numeral 2 anterior, la DGC, dentro de los 60 días siguientes a la recepción de la comunicación del Proponente, dará por terminada la Idea de Iniciativa Privada, devolverá al Proponente la garantía de seriedad, y se comprometerá el reembolso del valor acreditado de los costos de los estudios mínimos y adicionales realizados y aprobados, hasta por el valor máximo determinado por la DGC en conformidad al artículo 7º del presente Reglamento, respecto de cada unos esos estudios, aplicándose lo dispuesto en el artículo 8º numeral 8 del presente Reglamento. El reembolso se deberá realizar dentro del plazo de un año contado desde la resolución que lo comprometa.
+
+4.- Si el Proponente decidiere continuar los estudios de su Idea de Iniciativa Privada hasta la formulación de la Proposición, una vez que ésta sea aprobada el premio que la DGC otorgará al Proponente en la licitación se determinará del siguiente modo:
+
+Donde:
+
+POEIP: Presupuesto oficial estimado de las obras de la Idea de Iniciativa Privada.
+
+InfPIP: Valor de la infraestructura preexistente de la Idea de Iniciativa Privada.
+
+POEIPca: Presupuesto oficial estimado de las obras de la iniciativa pública.
+
+InfPIPca: Valor de la infraestructura preexistente de la iniciativa pública.
+
+PIP: Premio de la Idea de Iniciativa Privada, determinado de conformidad al numeral 2 del artículo 10° del Reglamento.
+
+5.- En el caso referido en el numeral anterior se aplicará lo dispuesto en el numeral 5 del artículo 9º, y el reembolso de los estudios se regulará por el artículo 8º, ambos del presente Reglamento.
 
 #### Artículo 11º
 
-Atribuciones del Director General de Obras Públicas.
+Determinación de Proyectos Iguales o Diferentes.
 
-1.- El Director General de Obras Públicas será la autoridad que establecerá, cuando corresponda, si un proyecto presentado es igual o distinto a otro que haya sido presentado con anterioridad o que esté incluido en los planes de inversión del MOP.
-
-2.- Los postulantes podrán apelar, en el plazo de 10 días desde que fueran notificados, de la decisión en esta materia ante el Ministro de Obras Públicas, quien resolverá la controversia en el plazo de 90 días.
+La DGC establecerá, cuando corresponda y mediante resolución fundada, si un proyecto ingresado es igual o distinto a otro que haya sido presentado con anterioridad o que esté incluido en los planes de inversión del MOP.
 
 #### Artículo 12º
 
-Licitación de los Proyectos de Iniciativa Privada. Particularidades.
+Cesión de una Idea de Iniciativa Privada.
 
-1.- La licitación de los proyectos de iniciativa privada se llevará a cabo conforme al procedimiento establecido en el Título III del presente Reglamento.
+1.- El Postulante o Proponente podrá ceder su Idea de Iniciativa Privada.
 
-2.- No obstante, el MOP podrá modificar dicho procedimiento en el sentido siguiente:
+2.- La cesión sólo producirá efectos respecto del MOP una vez que sea aceptada por la DGC mediante una resolución. Para tales efectos, el cesionario deberá notificar la cesión a la DGC conforme las reglas generales, acompañando una copia autorizada de la escritura pública en que conste la cesión íntegra de la Idea de Iniciativa Privada. En la escritura pública deberá efectuarse la cesión de todos los derechos y obligaciones de que sea titular el cedente en su calidad de Postulante o Proponente, y, en particular, de todos los derechos respecto de los estudios y proyectos. Por su parte, el cesionario deberá aceptar para sí todas las obligaciones que correspondían al cedente.
 
-a) Una vez realizado el llamado a licitación el MOP podrá exigir al postulante o grupo en el que se incluya que, en el plazo determinado en las bases de licitación, entregue una oferta económica conforme al procedimiento señalado en las mismas. En todo caso el postulante deberá incluir en su presentación la garantía de seriedad de la oferta.
-
-b) La Comisión de Apertura recibirá y abrirá, en el mismo acto, la oferta económica presentada.
-
-c) Con una anticipación mínima de 60 días antes de la apertura de las ofertas a que se refiere el artículo 21° del presente Reglamento, el MOP dará a conocer el contenido de la oferta económica a todos los licitantes interesados en el proyecto, mediante publicación en algún diario de circulación nacional o mediante carta certificada, dirigida a todos los precalificados, en el caso de que el procedimiento se hubiera iniciado con precalificación de licitantes, a que se refiere el artículo 13° del presente Reglamento o a todos los que hayan comprado bases de licitación en el caso de que no haya habido precalificación.
-
-d) La oferta económica del postulante será considerada como la oferta mínima de la licitación posterior, la que se llevará a cabo por el procedimiento establecido en el Título III del presente Reglamento y lo señalado en las bases de licitación.
-
-e) A la licitación pública respectiva podrán acudir todos los licitantes que cumplan los requisitos establecidos en la Ley de Concesiones, en el presente Reglamento y en las bases de licitación, incluido el postulante. Este último deberá presentar en este acto la misma oferta económica o una oferta que obtenga mejor puntaje de acuerdo con la fórmula establecida en las bases de licitación. En caso de no presentar dicha oferta, el MOP podrá hacer efectiva la garantía de seriedad a que se refiere la letra a) de este mismo numeral. Los demás licitantes solamente podrán presentar ofertas económicas que mejoren la oferta mínima publicada por el MOP.
+3.- Conjuntamente con la notificación de la cesión al MOP, el cesionario deberá entregar la garantía correspondiente para sustituir aquella entregada por el cedente. En el caso en que la Propuesta se realice en subetapas y el cedente haya optado por entregar una garantía para caucionar cada subetapa, el cesionario deberá seguir el mismo esquema de entrega de garantías ordenado para el cedente.
 
 ## Título III
 
@@ -306,13 +410,13 @@ La Precalificación de Proyectos.
 
 Del Llamado a Licitación.
 
-1.- El llamado a licitación es el acto por el cual el Director General de Obras Públicas, por sí o mediante delegación en el Director del Servicio o en los Secretarios Regionales Ministeriales de las regiones donde se realice el proyecto, invita a los interesados para que, sujetándose a las bases de licitación, formulen ofertas.
+1.- El llamado a licitación es el acto por el cual el Director General de Concesiones de Obras Públicas, por sí o mediante delegación en el Director del Servicio o en los Secretarios Regionales Ministeriales de las regiones donde se realice el proyecto, invita a los interesados para que, sujetándose a las bases de licitación, formulen ofertas.
 
 2.- El llamado a licitación contendrá, a lo menos, la materia u objeto de la concesión, el plazo y lugar para el retiro de las bases y la fecha, hora y lugar de entrega de las ofertas técnica y económica. Los llamados a licitación se publicarán al menos por una vez en el Diario Oficial y otra en un diario de circulación nacional. No obstante, cuando haya habido precalificación del proyecto y solamente puedan presentar ofertas los licitantes precalificados, se entenderá ya efectuado el llamado público.
 
 3.- En todo caso, el MOP deberá cumplir con lo dispuesto en el artículo 13º letra g) del D.S. MOP N° 294, de 1984, y en el artículo 5º del DS MOP Nº 900. Para tal efecto remitirá:
 
-a) Al Ministerio de Hacienda las bases de licitación y el Prospecto de Inversión, a fin de que se aprueben formalmente sus términos. Si dentro de los 30 días desde el ingreso de las mismas en la oficina de partes del Ministerio de Hacienda no se reciben observaciones en la oficina de partes de la Dirección General de Obras Públicas, se entenderán aprobados los documentos de licitación por parte de ese Ministerio. El plazo antes fijado se suspenderá cada vez que el Ministerio de Hacienda efectúe observaciones o solicite información al MOP.
+a) Al Ministerio de Hacienda las bases de licitación y el Prospecto de Inversión, a fin de que se aprueben formalmente sus términos. Si dentro de los 30 días desde el ingreso de las mismas en la oficina de partes del Ministerio de Hacienda no se reciben observaciones en la oficina de partes de la Dirección General de Concesiones de Obras Públicas, se entenderán aprobados los documentos de licitación por parte de ese Ministerio. El plazo antes fijado se suspenderá cada vez que el Ministerio de Hacienda efectúe observaciones o solicite información al MOP.
 
 Para efectos de la aprobación del Ministerio de Hacienda, el MOP deberá acompañar a las bases los estudios y demás documentos que respaldan o fundamentan el contenido de las bases de licitación
 
@@ -362,7 +466,7 @@ h) Condiciones económicas de la concesión.
 
 i) Multas y sanciones por incumplimiento del contrato de concesión.
 
-j) Si se trata de un proyecto de iniciativa privada, la identidad del postulante y premio al que tiene derecho en la evaluación de la oferta y reembolso de los costos de los estudios, si procede.
+j) Si se trata de un proyecto de iniciativa privada, la identidad del Proponente y premio al que tiene derecho en la evaluación de la oferta y reembolso de los costos de los estudios, si procede.
 
 k) Especificación de la obra que se entrega en concesión así como de las obras adicionales, incluidas en las bases de licitación, para la operatividad de la misma y requerimientos técnicos mínimos para su diseño, ejecución y conservación y para la explotación del servicio, según corresponda, así como las exigencias ambientales que afectan al proyecto.
 
@@ -378,7 +482,7 @@ o) Toda otra estipulación que sea necesario o conveniente incluir en virtud de 
 
 Consultas y Aclaraciones sobre las Bases de Licitación.
 
-1.- Las consultas serán formuladas al Director General de Obras Públicas o a quién hubiera realizado el llamado. El documento correspondiente deberá ser ingresado a la oficina de partes de la Dirección General de Obras Públicas, Servicio o Secretarías Regionales Ministeriales competentes en el plazo señalado en las bases de licitación.
+1.- Las consultas serán formuladas al Director General de Concesiones de Obras Públicas o a quién hubiera realizado el llamado. El documento correspondiente deberá ser ingresado a la oficina de partes de la Dirección General de Concesiones de Obras Públicas, Servicio o Secretarías Regionales Ministeriales competentes en el plazo señalado en las bases de licitación.
 
 2.- Tanto las respuestas a las consultas formuladas por los licitantes, como las aclaraciones, rectificaciones, enmiendas o adiciones que el MOP quiera hacer a las bases de licitación, serán incluidas en comunicaciones denominadas circulares aclaratorias, dirigidas a todos los licitantes, con una antelación mínima de 10 días a la fecha de apertura de la oferta técnica. Si el MOP efectúa modificaciones en un plazo menor a 10 días, se deberá cambiar la fecha de recepción y apertura de la oferta técnica a una fecha a lo menos 10 días posterior a la última modificación. Las circulares aclaratorias deberán ser puestas a disposición de los licitantes en el lugar indicado en las bases de licitación.
 
@@ -450,9 +554,9 @@ Apertura de las Ofertas.
 
 1.- Las ofertas serán recibidas en acto público por la Comisión de Apertura en el día, hora y lugar indicado para este efecto en las bases de licitación.
 
-2.- En caso de postergación de la fecha de recepción y apertura de las ofertas, todos los derechos y obligaciones de la DGOP y de los oferentes se entenderán prorrogados hasta la nueva fecha de recepción y apertura de las ofertas, debiendo constituirse en dicha oportunidad las garantías que correspondan, cuando procediera.
+2.- En caso de postergación de la fecha de recepción y apertura de las ofertas, todos los derechos y obligaciones de la DGC y de los oferentes se entenderán prorrogados hasta la nueva fecha de recepción y apertura de las ofertas, debiendo constituirse en dicha oportunidad las garantías que correspondan, cuando procediera.
 
-3.- La Comisión de Apertura estará formada, a lo menos, por el Director General de Obras Públicas o su representante, el Jefe Superior de la Dirección del MOP que corresponda a las obras a ejecutar o su representante y los Secretarios Regionales Ministeriales de la región o regiones en que se desarrollará el proyecto o la persona que él o ellos designen. Las bases de licitación podrán considerar miembros adicionales.
+3.- La Comisión de Apertura estará formada, a lo menos, por el Director General de Concesiones de Obras Públicas o su representante, el Jefe Superior de la Dirección del MOP que corresponda a las obras a ejecutar o su representante y los Secretarios Regionales Ministeriales de la región o regiones en que se desarrollará el proyecto o la persona que él o ellos designen. Las bases de licitación podrán considerar miembros adicionales.
 
 4.- En el acto de apertura se procederá a recepcionar las ofertas técnicas y económicas y a abrir solamente el sobre de la oferta técnica de cada licitante y a verificar si se han incluido todos los antecedentes solicitados.
 
@@ -468,7 +572,7 @@ Apertura de las Ofertas.
 
 Comisión de Evaluación de las Ofertas.
 
-1.- La Comisión de Evaluación de las ofertas estará formada, a lo menos, por un profesional representante del Director General de Obras Públicas, uno del Jefe del Servicio que corresponda a la obra, uno del Ministro de Obras Públicas y uno designado por el Ministro de Hacienda. Las bases de licitación podrán contemplar la designación de miembros adicionales.
+1.- La Comisión de Evaluación de las ofertas estará formada, a lo menos, por un profesional representante del Director General de Concesiones de Obras Públicas, uno del Jefe del Servicio que corresponda a la obra, uno del Ministro de Obras Públicas y uno designado por el Ministro de Hacienda. Las bases de licitación podrán contemplar la designación de miembros adicionales.
 
 2.- Los miembros de la Comisión calificarán las ofertas en forma independiente y tendrán un plazo fijo, establecido en las bases de licitación, concordante con la magnitud de la obra, su complejidad o la documentación que se haya exigido en la oferta.
 
@@ -476,7 +580,7 @@ Comisión de Evaluación de las Ofertas.
 
 Estudio y Evaluación de las Ofertas Técnicas.
 
-1.- Los aspectos técnicos sobre los que deberá pronunciarse la Comisión de Evaluación serán los indicados en las bases de licitación. Para estos efectos, cada uno de sus integrantes asignará a los aspectos a evaluar una nota de 1 a 7, sin decimales, según su propio criterio y fundamentada en un formulario especial elaborado por la DGOP.
+1.- Los aspectos técnicos sobre los que deberá pronunciarse la Comisión de Evaluación serán los indicados en las bases de licitación. Para estos efectos, cada uno de sus integrantes asignará a los aspectos a evaluar una nota de 1 a 7, sin decimales, según su propio criterio y fundamentada en un formulario especial elaborado por la DGC.
 
 2.- La nota final obtenida por los oferentes corresponderá al promedio ponderado de todas las notas asignadas a cada uno de los aspectos, según las ponderaciones indicadas en las bases de licitación, calculadas con un solo decimal.
 
@@ -500,7 +604,7 @@ Estudio y Evaluación de las Ofertas Técnicas.
 
 Aclaraciones de la Oferta.
 
-El DGOP, de oficio o a solicitud de la Comisión de Evaluación, y con el Visto Bueno del Ministro de Obras Públicas, podrá requerir de los oferentes, hasta antes de la apertura de la oferta económica, aclaraciones, rectificaciones por errores de forma u omisiones, y la entrega de antecedentes, con el objeto de clarificar y precisar el correcto sentido y alcance de la oferta, evitando que alguna sea descalificada por aspectos formales en su evaluación técnica, y velando siempre por el principio de transparencia del proceso y de igualdad de los licitantes. El Director General, con el Visto Bueno del Ministro de Obras Públicas, será quien determine si los errores u omisiones pueden ser subsanados mediante este procedimiento y podrá, si lo estima necesario, postergar la fecha de apertura de la oferta económica.
+El DGC, de oficio o a solicitud de la Comisión de Evaluación, y con el Visto Bueno del Ministro de Obras Públicas, podrá requerir de los oferentes, hasta antes de la apertura de la oferta económica, aclaraciones, rectificaciones por errores de forma u omisiones, y la entrega de antecedentes, con el objeto de clarificar y precisar el correcto sentido y alcance de la oferta, evitando que alguna sea descalificada por aspectos formales en su evaluación técnica, y velando siempre por el principio de transparencia del proceso y de igualdad de los licitantes. El Director General, con el Visto Bueno del Ministro de Obras Públicas, será quien determine si los errores u omisiones pueden ser subsanados mediante este procedimiento y podrá, si lo estima necesario, postergar la fecha de apertura de la oferta económica.
 
 #### Artículo 25º
 
@@ -534,17 +638,17 @@ Evaluación de Oferta Económica.
 
 1.- La Comisión de Evaluación verificará si los antecedentes presentados en la oferta económica se ajustan a las bases de licitación y asignará un puntaje a las mismas, considerando los factores señalados en el artículo 7º del DS MOP Nº 900 de 1996, evaluados según el sistema establecido en las bases de licitación.
 
-2.- En caso de licitaciones originadas por iniciativas privadas se aplicará al resultado de la evaluación el premio a que tiene derecho el postulante, si éste hubiere presentado oferta.
+2.- En caso de licitaciones originadas por iniciativas privadas se aplicará al resultado de la evaluación el premio a que tiene derecho el Proponente, si éste hubiere presentado oferta.
 
-3.- La Comisión de Evaluación levantará un Acta de Calificación, que será firmada por todos los integrantes de la misma, en la que establecerá el orden de los licitantes en función del puntaje final obtenido. Dicha acta será entregada al DGOP dentro del plazo máximo de 30 días, desde la apertura de la oferta económica.
+3.- La Comisión de Evaluación levantará un Acta de Calificación, que será firmada por todos los integrantes de la misma, en la que establecerá el orden de los licitantes en función del puntaje final obtenido. Dicha acta será entregada al DGC dentro del plazo máximo de 30 días, desde la apertura de la oferta económica.
 
 #### Artículo 28º
 
 Adjudicación.
 
-1.- Dentro del periodo de validez de la oferta, el Director General de Obras Públicas comunicará por escrito al licitante que obtuvo el puntaje mayor, mediante carta certificada, la intención de adjudicarle la concesión, acompañando copia del acta de adjudicación, firmada por el DGOP y con el visto bueno del Ministerio de Hacienda, e informará asimismo si se aceptaron servicios complementarios a la concesión y las condiciones que les serían aplicables. Esa comunicación confirmará oficialmente al oferente favorecido la intención de la DGOP de adjudicarle el contrato; sin perjuicio de que éste se entenderá adjudicado con la publicación del correspondiente decreto supremo en el Diario Oficial. El adjudicatario deberá, en el plazo que indique dicha comunicación, renovar la garantía de seriedad de la oferta por el plazo que se determine y mantenerla vigente hasta que sea entregada la garantía de construcción o explotación según corresponda. En caso de incumplimiento de esta obligación, el adjudicatario no podrá constituir la sociedad concesionaria, el MOP hará efectiva la garantía, y se aplicará lo dispuesto en el artículo 32° del presente Reglamento.
+1.- Dentro del periodo de validez de la oferta, el Director General de Concesiones de Obras Públicas comunicará por escrito al licitante que obtuvo el puntaje mayor, mediante carta certificada, la intención de adjudicarle la concesión, acompañando copia del acta de adjudicación, firmada por el DGOP y con el visto bueno del Ministerio de Hacienda, e informará asimismo si se aceptaron servicios complementarios a la concesión y las condiciones que les serían aplicables. Esa comunicación confirmará oficialmente al oferente favorecido la intención de la DGC de adjudicarle el contrato; sin perjuicio de que éste se entenderá adjudicado con la publicación del correspondiente decreto supremo en el Diario Oficial. El adjudicatario deberá, en el plazo que indique dicha comunicación, renovar la garantía de seriedad de la oferta por el plazo que se determine y mantenerla vigente hasta que sea entregada la garantía de construcción o explotación según corresponda. En caso de incumplimiento de esta obligación, el adjudicatario no podrá constituir la sociedad concesionaria, el MOP hará efectiva la garantía, y se aplicará lo dispuesto en el artículo 32° del presente Reglamento.
 
-2.- El DGOP con el Visto Bueno del Ministro de Hacienda podrá desestimar fundadamente todas las ofertas presentadas, sin que proceda recurso o reclamación sobre esta decisión y sin indemnización alguna para los licitantes.
+2.- El DGC con el Visto Bueno del Ministro de Hacienda podrá desestimar fundadamente todas las ofertas presentadas, sin que proceda recurso o reclamación sobre esta decisión y sin indemnización alguna para los licitantes.
 
 ## Título IV
 
@@ -602,7 +706,7 @@ De la Sociedad Concesionaria, su Constitución y Requisitos.
 
 Suscripción y Protocolización.
 
-Dentro del plazo fatal fijado por las bases de licitación, que en todo caso no podrá ser inferior a 60 días, contados desde la publicación en el Diario Oficial del decreto supremo de adjudicación del contrato de concesión, el adjudicatario procederá a suscribir ante notario tres transcripciones del decreto supremo de adjudicación de la concesión, en señal de aceptación de su contenido, debiendo protocolizarse ante el mismo notario uno de sus ejemplares. Una de las transcripciones referidas será entregada para su archivo, en el plazo adicional de 15 días, contados desde la protocolización, al Departamento de Concesiones de la Dirección General de Obras Públicas y la otra a la Fiscalía del Ministerio de Obras Públicas conjuntamente con una copia autorizada de la protocolización. Las bases de licitación podrán establecer transcripciones adicionales y sus destinatarios. Las transcripciones suscritas en la forma señalada harán fe respecto de toda persona y tendrán mérito ejecutivo sin necesidad de reconocimiento previo.
+Dentro del plazo fatal fijado por las bases de licitación, que en todo caso no podrá ser inferior a 60 días, contados desde la publicación en el Diario Oficial del decreto supremo de adjudicación del contrato de concesión, el adjudicatario procederá a suscribir ante notario tres transcripciones del decreto supremo de adjudicación de la concesión, en señal de aceptación de su contenido, debiendo protocolizarse ante el mismo notario uno de sus ejemplares. Una de las transcripciones referidas será entregada para su archivo, en el plazo adicional de 15 días, contados desde la protocolización, al Departamento de Concesiones de la Dirección General de Concesiones de Obras Públicas y la otra a la Fiscalía del Ministerio de Obras Públicas conjuntamente con una copia autorizada de la protocolización. Las bases de licitación podrán establecer transcripciones adicionales y sus destinatarios. Las transcripciones suscritas en la forma señalada harán fe respecto de toda persona y tendrán mérito ejecutivo sin necesidad de reconocimiento previo.
 
 #### Artículo 32º
 
@@ -614,9 +718,9 @@ Sanciones en Caso de Incumplimiento.
 
 a) Realizar una nueva licitación pública conforme al presente Reglamento y a las bases que se establezcan para tal efecto.
 
-b) Realizar una licitación privada entre los licitantes que presentaron ofertas en la licitación original, excluido el adjudicatario cuya asignación se dejó sin efecto. Dicha licitación será convocada por el Director General de Obras Públicas, o por el Director o Secretario Regional Ministerial en el que éste hubiere delegado, mediante carta certificada u otro medio que él mismo determine, dirigida al representante del licitante, dentro de los 15 días siguientes a la publicación del decreto supremo en que se deje sin efecto la asignación realizada. En esta licitación sólo podrán participar los licitantes cuyas ofertas hayan sido declaradas técnicamente aceptables en la licitación original, los cuales podrán presentar una nueva oferta económica que mejore su oferta anterior. La presentación de las ofertas, su contenido, las garantías que correspondan, así como la apertura y evaluación de las mismas, se regirán por el presente Reglamento y la convocatoria respectiva, pudiendo establecerse en ella las aclaraciones, rectificaciones o precisiones que se estimen convenientes.
+b) Realizar una licitación privada entre los licitantes que presentaron ofertas en la licitación original, excluido el adjudicatario cuya asignación se dejó sin efecto. Dicha licitación será convocada por el Director General de Concesiones de Obras Públicas, o por el Director o Secretario Regional Ministerial en el que éste hubiere delegado, mediante carta certificada u otro medio que él mismo determine, dirigida al representante del licitante, dentro de los 15 días siguientes a la publicación del decreto supremo en que se deje sin efecto la asignación realizada. En esta licitación sólo podrán participar los licitantes cuyas ofertas hayan sido declaradas técnicamente aceptables en la licitación original, los cuales podrán presentar una nueva oferta económica que mejore su oferta anterior. La presentación de las ofertas, su contenido, las garantías que correspondan, así como la apertura y evaluación de las mismas, se regirán por el presente Reglamento y la convocatoria respectiva, pudiendo establecerse en ella las aclaraciones, rectificaciones o precisiones que se estimen convenientes.
 
-3.- El DGOP, con el Visto Bueno del Ministro de Hacienda, en ambas opciones, podrá desestimar fundadamente todas las ofertas presentadas, sin que proceda recurso o reclamación sobre esta decisión y sin que los licitantes tenga derecho a indemnización alguna.
+3.- El DGC, con el Visto Bueno del Ministro de Hacienda, en ambas opciones, podrá desestimar fundadamente todas las ofertas presentadas, sin que proceda recurso o reclamación sobre esta decisión y sin que los licitantes tenga derecho a indemnización alguna.
 
 #### Artículo 33º
 
@@ -652,7 +756,7 @@ Garantía de Construcción.
 
 Garantía de Explotación.
 
-1.- La sociedad concesionaria estará obligada a entregar al MOP la garantía de explotación, en el plazo, forma y cuantía establecidos en las bases de licitación. En todo caso, la garantía tendrá una vigencia igual al periodo de explotación, más 12 meses como mínimo. No obstante, la sociedad concesionaria podrá optar por entregar documentos de garantía cuya vigencia sea menor, siempre que ello sea aceptado por el DGOP y cada documento sea entregado antes del vencimiento del anterior; el DGOP estará facultado para cobrar la garantía vigente en el caso de que ésta no se haya renovado con una antelación mínima de 10 días. El plazo del último documento será lo que reste de la etapa de explotación más 12 meses, como mínimo.
+1.- La sociedad concesionaria estará obligada a entregar al MOP la garantía de explotación, en el plazo, forma y cuantía establecidos en las bases de licitación. En todo caso, la garantía tendrá una vigencia igual al periodo de explotación, más 12 meses como mínimo. No obstante, la sociedad concesionaria podrá optar por entregar documentos de garantía cuya vigencia sea menor, siempre que ello sea aceptado por el DGC y cada documento sea entregado antes del vencimiento del anterior; el DGC estará facultado para cobrar la garantía vigente en el caso de que ésta no se haya renovado con una antelación mínima de 10 días. El plazo del último documento será lo que reste de la etapa de explotación más 12 meses, como mínimo.
 
 2.- El MOP no otorgará la autorización de puesta en servicio provisorio de la obra, si no se da cumplimiento a la obligación de entregar la garantía de explotación.
 
@@ -682,7 +786,7 @@ De los Pagos Previstos en el Contrato.
 
 4.- Los pagos que deba realizar el Fisco se efectuarán mediante Vale Vista o Cheque Nominativo, extendidos a nombre de la sociedad concesionaria o de quién corresponda legalmente.
 
-5.- Los pagos que la sociedad concesionaria deba realizar al Fisco se harán mediante Vale Vista a nombre del DGOP.
+5.- Los pagos que la sociedad concesionaria deba realizar al Fisco se harán mediante Vale Vista a nombre del DGC.
 
 6.- Cuando el Fisco tenga que pagar el IVA a la sociedad concesionaria no se contemplará reajuste entre la fecha de la facturación al Fisco y la fecha de pago de las facturas establecida en las bases de licitación.
 
@@ -710,9 +814,11 @@ b) Fiscalizar el cumplimiento de las especificaciones y normas técnicas sobre l
 
 c) Fiscalizar el cumplimiento del plan de trabajo propuesto por la sociedad concesionaria;
 
-d) Fiscalizar el cumplimiento de las normas de seguridad; e) Fiscalizar el cumplimiento de las normas de calidad;
+d) Fiscalizar el cumplimiento de las normas de seguridad;
 
-f) Entregar a la DGOP los reportes que esta Dirección solicite en relación a la gestión de la concesión durante la etapa de construcción;
+e) Fiscalizar el cumplimiento de las normas de calidad;
+
+f) Entregar a la DGC los reportes que esta Dirección solicite en relación a la gestión de la concesión durante la etapa de construcción;
 
 g) Revisar la Información estadística entregada por la sociedad concesionaria;
 
@@ -736,7 +842,7 @@ Funciones y Atribuciones del Inspector Fiscal en la Etapa de Explotación.
 
 Durante la etapa de explotación, el inspector fiscal fiscalizará el contrato de concesión y tendrá todas las funciones y atribuciones que señalen las bases de licitación, con al menos las siguientes:
 
-a) Entregar a la DGOP los reportes que esta Dirección solicite relativos a la gestión de la concesión;
+a) Entregar a la DGC los reportes que esta Dirección solicite relativos a la gestión de la concesión;
 
 b) Realizar los análisis pertinentes de los antecedentes que debe entregar la sociedad concesionaria;
 
@@ -778,7 +884,7 @@ Recursos.
 
 1.- Las órdenes o resoluciones escritas que en el curso de la concesión dicte el inspector fiscal, sea sobre las obras u otros aspectos que se relacionen con el contrato de concesión podrán reponerse, por escrito, dentro de los 5 días hábiles siguientes de recibida la notificación, ante el mismo inspector fiscal que las dictó. A estos efectos se entenderá recibida cuando conste en el Libro de Obras, o se haya enviado por cualquier medio que permita tener constancia de su recepción. Dentro de los 5 días hábiles siguientes, éste se pronunciará sobre la reposición solicitada, manteniendo a firme la orden o resolución, modificándola o dejándola sin efecto.
 
-2.- Una vez resuelta la reposición, la sociedad concesionaria podrá apelar ante el Director General de Obras Públicas, dentro de un plazo de 3 días hábiles, a contar de la fecha en que hubiera sido recibida la notificación. A estos efectos se entenderá recibida cuando conste en el Libro de Obras, o se haya enviado por cualquier medio que permita tener constancia de su recepción. El Director resolverá la apelación, en un plazo no mayor de 10 días hábiles, contados desde su recepción en la oficina de partes, pudiendo decretar orden de no innovar.
+2.- Una vez resuelta la reposición, la sociedad concesionaria podrá apelar ante el Director General de Concesiones de Obras Públicas, dentro de un plazo de 3 días hábiles, a contar de la fecha en que hubiera sido recibida la notificación. A estos efectos se entenderá recibida cuando conste en el Libro de Obras, o se haya enviado por cualquier medio que permita tener constancia de su recepción. El Director resolverá la apelación, en un plazo no mayor de 10 días hábiles, contados desde su recepción en la oficina de partes, pudiendo decretar orden de no innovar.
 
 3.- En ningún caso la interposición de la reposición o de la apelación suspenderán los efectos de la resolución u orden reclamada, cuando ésta comprometa la seguridad del usuario, la continuidad en la prestación del servicio o la calidad de la obra ofrecida.
 
@@ -848,7 +954,7 @@ Adquisiciones y Expropiaciones.
 
 1.- La sociedad concesionaria podrá adquirir para el Fisco los terrenos necesarios para realizar las obras de acuerdo con los planos establecidos en los proyectos aprobados, aplicándose lo dispuesto en el inciso primero del artículo 15° del DS MOP Nº 900 de 1996. En todo caso, las bases de licitación señalarán el procedimiento para la adquisición de los bienes.
 
-2.- El inspector fiscal mantendrá un registro actualizado de todos los bienes y derechos afectos a la concesión. Serán bienes afectos a la concesión todos aquellos bienes y derechos adquiridos por el concesionario, a cualquier título, durante la concesión, y que sean calificados como tales por el MOP. La reposición o renovación de bienes se someterá a la autorización de la Dirección General de Obras Públicas, la que se pronunciará sobre la solicitud presentada por el concesionario en el plazo de 30 días, contados desde la fecha de la recepción de la pertinente solicitud en la oficina de partes de la DGOP.
+2.- El inspector fiscal mantendrá un registro actualizado de todos los bienes y derechos afectos a la concesión. Serán bienes afectos a la concesión todos aquellos bienes y derechos adquiridos por el concesionario, a cualquier título, durante la concesión, y que sean calificados como tales por el MOP. La reposición o renovación de bienes se someterá a la autorización de la Dirección General de Concesiones de Obras Públicas, la que se pronunciará sobre la solicitud presentada por el concesionario en el plazo de 30 días, contados desde la fecha de la recepción de la pertinente solicitud en la oficina de partes de la DGC.
 
 3.- El MOP, a través del inspector fiscal, mantendrá informada a la sociedad concesionaria acerca del estado del proceso expropiatorio.
 
@@ -920,7 +1026,7 @@ Cumplimiento de Plazo.
 
 1. -El concesionario está obligado a concluir las obras y ponerlas en servicio en las fechas y plazos totales o parciales que se indiquen en las bases de licitación o en las determinadas en su oferta, según corresponda. Las bases de licitación indicarán sanciones y/o multas a beneficio del MOP por los incumplimientos, según el caso.
 
-2.- Si durante la construcción de la obra se produjeran atrasos ocasionados por caso fortuito o fuerza mayor, la sociedad concesionaria deberá presentar al inspector fiscal su justificación por escrito, dentro de los siguientes 30 días desde que se hayan producido y, en todo caso, dentro del plazo vigente; cumplido este periodo no se aceptará justificación alguna. El DGOP, previo informe del inspector fiscal, analizará las razones invocadas por el concesionario para justificar el atraso, y decidirá la aceptación o rechazo de la ampliación de plazo.
+2.- Si durante la construcción de la obra se produjeran atrasos ocasionados por caso fortuito o fuerza mayor, la sociedad concesionaria deberá presentar al inspector fiscal su justificación por escrito, dentro de los siguientes 30 días desde que se hayan producido y, en todo caso, dentro del plazo vigente; cumplido este periodo no se aceptará justificación alguna. El DGC, previo informe del inspector fiscal, analizará las razones invocadas por el concesionario para justificar el atraso, y decidirá la aceptación o rechazo de la ampliación de plazo.
 
 3.- Cuando el retraso en el cumplimiento de los plazos parciales o del total, fuere imputable al Fisco, el concesionario gozará de un aumento en el plazo de la construcción igual al período de entorpecimiento o paralización, sin perjuicio de las compensaciones que procedan.
 
@@ -954,11 +1060,11 @@ f) El uso y goce sobre bienes nacionales de uso público o fiscales destinados a
 
 Autorización de Puesta en Servicio Provisoria.
 
-1.- El concesionario podrá solicitar la puesta en servicio provisoria, total o parcial de la obra, si así lo estipulan las bases de licitación. El DGOP deberá aprobar o rechazar la puesta en servicio provisoria en un plazo máximo de 30 días, contados desde la fecha de presentación de la solicitud.
+1.- El concesionario podrá solicitar la puesta en servicio provisoria, total o parcial de la obra, si así lo estipulan las bases de licitación. El DGC deberá aprobar o rechazar la puesta en servicio provisoria en un plazo máximo de 30 días, contados desde la fecha de presentación de la solicitud.
 
-2.- Para estos efectos, el concesionario deberá presentar su solicitud en la oficina de partes de la DGOP, acompañando todos los documentos que hayan sido exigidos en las bases de licitación para la puesta en servicio, tales como garantía de explotación, seguros que correspondan a ésta etapa, Reglamento del Servicio de la Obra, entre otros.
+2.- Para estos efectos, el concesionario deberá presentar su solicitud en la oficina de partes de la DGC, acompañando todos los documentos que hayan sido exigidos en las bases de licitación para la puesta en servicio, tales como garantía de explotación, seguros que correspondan a ésta etapa, Reglamento del Servicio de la Obra, entre otros.
 
-3.- Cumplidas las condiciones anteriores y en el caso que la obra sea aprobada, el DGOP, mediante resolución, autorizará la puesta en servicio provisoria del total o parte de la obra si así lo establecen las bases de licitación, comenzando la etapa de explotación.
+3.- Cumplidas las condiciones anteriores y en el caso que la obra sea aprobada, el DGC, mediante resolución, autorizará la puesta en servicio provisoria del total o parte de la obra si así lo establecen las bases de licitación, comenzando la etapa de explotación.
 
 #### Artículo 56º
 
@@ -966,15 +1072,15 @@ Puesta en Servicio Definitiva.
 
 1.- La sociedad concesionaria deberá solicitar la recepción de la puesta en servicio definitiva de la obra dentro del plazo establecido en las bases de licitación, el que no podrá ser superior a 1 año, a contar de la autorización de la puesta en servicio provisoria de la totalidad de la obra. Las bases de licitación podrán establecer requisitos y condiciones para autorizar dicha puesta en servicio.
 
-2.- Solicitada por el concesionario la autorización de puesta en servicio definitiva, se designará una Comisión integrada por tres personas: un representante del Director General de Obras Públicas, otro del Servicio correspondiente y una última designada por el Ministro de Obras Públicas.
+2.- Solicitada por el concesionario la autorización de puesta en servicio definitiva, se designará una Comisión integrada por tres personas: un representante del Director General de Concesiones de Obras Públicas, otro del Servicio correspondiente y una última designada por el Ministro de Obras Públicas.
 
 3.- Dentro de los 10 días corridos, contados desde la recepción de la solicitud de puesta en servicio definitiva, se citará al concesionario para la inspección de la obra. Comprobado el estado satisfactorio de las obras e instalaciones y su correspondencia con el proyecto y demás especificaciones técnicas aprobadas, se levantará el acta correspondiente. Si las obras se encontraren incompletas o defectuosas, ello se hará constar en el acta, la que contendrá una descripción pormenorizada de las omisiones o defectos observados y se procederá conforme a lo estipulado en los artículos 47º y 48º de este Reglamento. Dicha acta será firmada por los miembros de la Comisión y el representante de la sociedad concesionaria y se extenderá por triplicado, quedando un ejemplar en poder de la sociedad concesionaria.
 
-4.- El concesionario no podrá poner en servicio definitivo la obra hasta que las omisiones o defectos sean subsanados a satisfacción de la Comisión, en los plazos establecidos en el acta. En caso de fallas graves, el Director General de Obras Públicas podrá cesar la puesta en servicio provisorio autorizada y, en consecuencia, el cobro de tarifas, sin perjuicio de las demás sanciones que procedan.
+4.- El concesionario no podrá poner en servicio definitivo la obra hasta que las omisiones o defectos sean subsanados a satisfacción de la Comisión, en los plazos establecidos en el acta. En caso de fallas graves, el Director General de Concesiones de Obras Públicas podrá cesar la puesta en servicio provisorio autorizada y, en consecuencia, el cobro de tarifas, sin perjuicio de las demás sanciones que procedan.
 
-5.- En caso de fallas menos graves, el DGOP podrá extender la puesta en servicio provisoria de la obra. La autorización señalará los plazos límites otorgados para subsanar o completar las obras o instalaciones, sin perjuicio de las sanciones que puedan aplicarse.
+5.- En caso de fallas menos graves, el DGC podrá extender la puesta en servicio provisoria de la obra. La autorización señalará los plazos límites otorgados para subsanar o completar las obras o instalaciones, sin perjuicio de las sanciones que puedan aplicarse.
 
-6.- La puesta en servicio definitiva será autorizada mediante Resolución del DGOP y en ella deberá constar el monto total de la inversión realizada por el concesionario.
+6.- La puesta en servicio definitiva será autorizada mediante Resolución del DGC y en ella deberá constar el monto total de la inversión realizada por el concesionario.
 
 #### Artículo 57º
 
@@ -1076,7 +1182,7 @@ Transferencia de Acciones y Otras Modificaciones.
 
 3.- El Ministerio de Obras Públicas autorizará al adjudicatario las transferencias voluntarias de las acciones de la sociedad concesionaria, siempre que se cumplan los siguientes requisitos: a) se venda o transfiera a una sola persona, natural o jurídica, un paquete accionario único, total e indivisible igual o superior al 51% del capital social; b) que los eventuales compradores cumplan los requisitos para ser licitantes en la licitación que dio lugar al contrato de concesión, salvo que las bases de licitación establezcan otro procedimiento. El MOP autorizará o denegará la transferencia en el plazo de 30 días desde que fuera solicitado. En el caso de que no se responda en dicho plazo, la transferencia se entenderá autorizada siempre que ella sea conforme a derecho.
 
-4.- La sociedad concesionaria deberá solicitar además, a la Dirección General de Obras Públicas, autorización expresa para los siguientes actos:
+4.- La sociedad concesionaria deberá solicitar además, a la Dirección General de Concesiones de Obras Públicas, autorización expresa para los siguientes actos:
 
 a) Modificación de los Estatutos de la sociedad concesionaria.
 
@@ -1084,7 +1190,7 @@ b) Todo acto jurídico y contrato regulado por el artículo 15º del DS MOP Nº 
 
 c) Otros actos que puedan establecer las bases de licitación.
 
-5.- La Dirección General de Obras Públicas se pronunciará, mediante resolución, sobre la solicitud de autorización en el plazo de 60 días, contados desde la fecha de la recepción de la pertinente solicitud en la oficina de partes de la DGOP. En el caso de que no se responda en dicho plazo, la autorización se entenderá concedida siempre que el acto que se autoriza sea conforme a derecho.
+5.- La Dirección General de Concesiones de Obras Públicas se pronunciará, mediante resolución, sobre la solicitud de autorización en el plazo de 60 días, contados desde la fecha de la recepción de la pertinente solicitud en la oficina de partes de la DGC. En el caso de que no se responda en dicho plazo, la autorización se entenderá concedida siempre que el acto que se autoriza sea conforme a derecho.
 
 #### Artículo 66º
 
@@ -1092,13 +1198,13 @@ Transferencia de la Concesión.
 
 1.- El concesionario podrá transferir la concesión, en conformidad a lo dispuesto en el artículo 21º del DS MOP Nº 900 de 1996.
 
-2.- Para estos efectos el concesionario deberá presentar una solicitud al MOP, a través de la oficina de partes de la DGOP, individualizando al cesionario y las circunstancias de la cesión.
+2.- Para estos efectos el concesionario deberá presentar una solicitud al MOP, a través de la oficina de partes de la DGC, individualizando al cesionario y las circunstancias de la cesión.
 
 3.- Para los efectos de lo dispuesto en el último inciso del artículo 21° del DS MOP Nº 900 de 1996 se entenderá que cumplen los requisitos establecidos en las bases de licitación aquellas personas que, habiéndose licitado la obra pública con una precalificación previa, cumplen los requisitos de las bases de precalificación correspondientes, aun cuando no hubieran sido inscritos en el registro de precalificación.
 
 4.- El MOP exigirá una garantía de seriedad del cesionario igual a la que hubieren fijado como garantía de seriedad del contrato las bases de licitación, la que deberá acompañar la solicitud de cesión. El cesionario entregará las garantías de construcción y explotación del contrato, según se trate de la etapa de construcción o explotación y según las disposiciones de los artículos 33º, 34º y 35º del presente Reglamento, una vez perfeccionado el decreto supremo que autorice la cesión, devolviéndose la garantía de seriedad en el plazo de 30 días desde su perfeccionamiento.
 
-5.- La autorización para transferir la concesión se otorgará mediante resolución en el plazo máximo de 60 días, a contar del ingreso de la solicitud en la oficina de la partes de la DGOP y se formalizará a través de un decreto supremo que autorice la cesión, que contendrá las características del nuevo concesionario. Este se dictará una vez acreditado el cumplimiento de los requisitos exigidos en el artículo 21° del DS MOP Nº 900 de 1996.
+5.- La autorización para transferir la concesión se otorgará mediante resolución en el plazo máximo de 60 días, a contar del ingreso de la solicitud en la oficina de la partes de la DGC y se formalizará a través de un decreto supremo que autorice la cesión, que contendrá las características del nuevo concesionario. Este se dictará una vez acreditado el cumplimiento de los requisitos exigidos en el artículo 21° del DS MOP Nº 900 de 1996.
 
 #### Artículo 67º
 
@@ -1116,7 +1222,7 @@ Modificaciones de las Obras y Servicios y de Otros Aspectos Contractuales
 
 Atribuciones del MOP.
 
-1.- Durante la etapa de construcción, el MOP, a propuesta del DGOP o de la sociedad concesionaria, podrá sustituir obras o realizar obras adicionales, siempre que no impliquen modificación en las condiciones económicas del contrato. Para ello utilizará uno de los siguientes procedimientos:
+1.- Durante la etapa de construcción, el MOP, a propuesta del DGC o de la sociedad concesionaria, podrá sustituir obras o realizar obras adicionales, siempre que no impliquen modificación en las condiciones económicas del contrato. Para ello utilizará uno de los siguientes procedimientos:
 
 a) Sustituir obras incluidas dentro del contrato por otras distintas que tengan valores equivalentes. Las bases de licitación determinarán un porcentaje máximo del presupuesto oficial de la obra, no superior al 5% de la misma, que podrá ser compensado.
 
@@ -1132,15 +1238,15 @@ Modificación de las Obras y Servicios por Interés Público.
 
 1.- El Ministerio de Obras Públicas, desde que se perfeccione el contrato, podrá modificar, por razones de interés público, las características de las obras y servicios contratados y, como consecuencia, deberá compensar al concesionario con las indemnizaciones necesarias en caso de perjuicio.
 
-2.- Para ello el DGOP, a través del inspector fiscal, comunicará al concesionario las obras y servicios que corresponde modificar, las que deberán ser valoradas conforme al procedimiento indicado en las bases de licitación .
+2.- Para ello el DGC, a través del inspector fiscal, comunicará al concesionario las obras y servicios que corresponde modificar, las que deberán ser valoradas conforme al procedimiento indicado en las bases de licitación .
 
 3.- No será necesario compensar dichas obras en los casos en que las modificaciones sean compensadas disminuyendo otras obras previstas en las bases de licitación.
 
-4.- El Director General de Obras Públicas, con el Visto Bueno del Ministro de Obras Públicas y del Ministro de Hacienda, por razones de urgencia, podrá exigir la modificación de las obras y servicios desde el momento que lo estime conveniente, aunque esté pendiente la determinación sobre la indemnización.
+4.- El Director General de Concesiones de Obras Públicas, con el Visto Bueno del Ministro de Obras Públicas y del Ministro de Hacienda, por razones de urgencia, podrá exigir la modificación de las obras y servicios desde el momento que lo estime conveniente, aunque esté pendiente la determinación sobre la indemnización.
 
 5.- El Ministerio de Obras Públicas podrá exigir nuevas garantías para la construcción de estas obras.
 
-6.- Las bases de licitación establecerán el monto máximo de la inversión que el concesionario puede estar obligado a realizar en virtud de lo dispuesto en los incisos anteriores, así como el plazo máximo dentro del cual el Ministerio podrá ordenar la modificación de las obras en concesión. Si las bases nada dicen a este respecto, el monto máximo de estas nuevas inversiones no podrá exceder el 15% del monto total de la inversión inicial efectuada por el concesionario, incluidas las sucesivas etapas, en el evento de que las bases de licitación hubieran previsto que la inversión o construcción se realizara por etapas. En el caso de que la modificación sea exigida durante el periodo de construcción y no sea posible determinar la inversión que realizará el concesionario, para determinar el monto máximo se utilizará el presupuesto oficial de la obra, salvo acuerdo expreso por escrito de la sociedad concesionaria, en cuyo caso se podráexceder dicho monto. El MOP no podrá requerir las modificaciones en una fecha posterior al cumplimiento de la mitad del plazo total de la concesión, salvo que así lo hubiesen dispuesto las bases de licitación o los casos de expreso acuerdo por escrito de la sociedad concesionaria.
+6.- Las bases de licitación establecerán el monto máximo de la inversión que el concesionario puede estar obligado a realizar en virtud de lo dispuesto en los incisos anteriores, así como el plazo máximo dentro del cual el Ministerio podrá ordenar la modificación de las obras en concesión. Si las bases nada dicen a este respecto, el monto máximo de estas nuevas inversiones no podrá exceder el 15% del monto total de la inversión inicial efectuada por el concesionario, incluidas las sucesivas etapas, en el evento de que las bases de licitación hubieran previsto que la inversión o construcción se realizara por etapas. En el caso de que la modificación sea exigida durante el periodo de construcción y no sea posible determinar la inversión que realizará el concesionario, para determinar el monto máximo se utilizará el presupuesto oficial de la obra, salvo acuerdo expreso por escrito de la sociedad concesionaria, en cuyo caso se podrá exceder dicho monto. El MOP no podrá requerir las modificaciones en una fecha posterior al cumplimiento de la mitad del plazo total de la concesión, salvo que así lo hubiesen dispuesto las bases de licitación o los casos de expreso acuerdo por escrito de la sociedad concesionaria.
 
 7.- Las modificaciones de las obras y servicios así como de las condiciones económicas del contrato de concesión, se harán mediante decreto supremo fundado, expedido por el Ministerio de Obras Públicas, el que deberá llevar, además, la firma del Ministro de Hacienda.
 
@@ -1208,7 +1314,7 @@ Efectos por la Destrucción de la Obra.
 
 2.- No obstante, las bases de licitación podrán establecer la concurrencia del Fisco a la reparación de los daños, siempre que éstos se hayan producido por caso fortuito o fuerza mayor.
 
-3.- La calificación del caso fortuito o fuerza mayor invocada será efectuada por el Director General de Obras Públicas, quien se pronunciará mediante una resolución fundada.
+3.- La calificación del caso fortuito o fuerza mayor invocada será efectuada por el Director General de Concesiones de Obras Públicas, quien se pronunciará mediante una resolución fundada.
 
 #### Artículo 76º
 
@@ -1280,7 +1386,7 @@ Facultades del Interventor.
 
 Rendición de Cuentas.
 
-El concesionario o su sucesor legal podrá solicitar rendición de cuentas del período de la intervención. El Fisco, a través del Ministerio de Obras Públicas, remitirá a su término un informe al concesionario o a su sucesor legal, de las actividades desarrolladas por el interventor, a objeto de ponerle en conocimiento de lo acontecido durante dicho período. Este informe será preparado por la Dirección General de Obras Públicas.
+El concesionario o su sucesor legal podrá solicitar rendición de cuentas del período de la intervención. El Fisco, a través del Ministerio de Obras Públicas, remitirá a su término un informe al concesionario o a su sucesor legal, de las actividades desarrolladas por el interventor, a objeto de ponerle en conocimiento de lo acontecido durante dicho período. Este informe será preparado por la Dirección General de Concesiones de Obras Públicas.
 
 #### Artículo 83º
 
@@ -1366,11 +1472,13 @@ a) Cuando proceda la aplicación de una multa igual o superior a 500 unidades tr
 
 b) Cuando se solicite la suspensión de la concesión, en virtud de alguna de las causas establecidas en el artículo 26° del DS MOP Nº 900 de 1996.
 
-c) Cuando se haya producido una causal de extinción del contrato por incumplimiento grave del concesionario d) Cuando el concesionario abandone la obra o interrumpa injustificadamente el servicio.
+c) Cuando se haya producido una causal de extinción del contrato por incumplimiento grave del concesionario
+
+d) Cuando el concesionario abandone la obra o interrumpa injustificadamente el servicio.
 
 e) En aquellos casos contemplados en el contrato de concesión o en que el MOP estime conveniente la intervención de la Comisión.
 
-2.- El DGOP solicitará la intervención al Presidente de la Comisión Conciliadora, poniendo en su conocimiento todos los antecedentes en que fundamenta su solicitud y señalará la causal invocada.
+2.- El DGC solicitará la intervención al Presidente de la Comisión Conciliadora, poniendo en su conocimiento todos los antecedentes en que fundamenta su solicitud y señalará la causal invocada.
 
 #### Artículo 88º
 
@@ -1470,7 +1578,7 @@ Concesiones Otorgadas a Solicitud de Otros Organismos del Estado.
 
 3.- El convenio deberá ser firmado antes del llamado a licitación, y en él se podrá establecer a quién corresponde sufragar los gastos de la licitación y adjudicación así como asumir las obligaciones económicas derivadas del contrato de concesión.
 
-4.- En todo caso, la entidad pública que suscribió el convenio deberá aprobar las bases de licitación con anterioridad al llamado a licitación. Si dentro de los 30 días corridos desde el ingreso de las bases en las oficinas de dicho organismo, no se reciben observaciones en la oficina de partes de la Dirección General de Obras Públicas, se entenderán aprobados los documentos de licitación por parte del organismo respectivo.
+4.- En todo caso, la entidad pública que suscribió el convenio deberá aprobar las bases de licitación con anterioridad al llamado a licitación. Si dentro de los 30 días corridos desde el ingreso de las bases en las oficinas de dicho organismo, no se reciben observaciones en la oficina de partes de la Dirección General de Concesiones de Obras Públicas, se entenderán aprobados los documentos de licitación por parte del organismo respectivo.
 
 #### Artículo 97º
 
@@ -1508,9 +1616,11 @@ Reclamos de los Usuarios.
 
 #### Artículo 100°
 
-Consejo de Concesiones de Obras Públicas
+Consejo de Concesiones.
 
-La designación de los consejeros se efectuará mediante una resolución del Ministerio de Obras Públicas. Dentro de un plazo de 10 días desde su notificación, deberán formalizar su aceptación mediante comunicación escrita ingresada en la Oficina de Partes del Ministerio de Obras Públicas, en la que además deberá señalar su domicilio y correo electrónico, para el efecto de ser notificados de las citaciones a Consejo.
+La designación de los integrantes del Consejo de Concesiones se efectuará mediante resolución del Ministerio de Obras Públicas. Para efectos de la designación de los consejeros referidos en los números 1 y 2 del artículo 1º bis de la Ley de Concesiones de Obras Públicas, el Ministro de Hacienda deberá comunicar al Ministro de Obras Públicas, previo a la dictación de la referida resolución, el nombre de la persona que ambos designarán en conjunto, y/o el o los nombres de los consejeros que designará en forma independiente, según corresponda.
+
+Dentro de un plazo de 10 días desde su notificación, los integrantes designados deberán formalizar su aceptación mediante comunicación escrita ingresada en la Oficina de Partes del MOP, en la que además deberán señalar su domicilio y correo electrónico, para el efecto de ser notificados de las citaciones a Consejo.
 
 #### Artículo 101°
 
@@ -1586,9 +1696,19 @@ cumplimiento de sus funciones.
 
 #### Artículo 102°
 
-Criterios para la Calificación de Proposiciones
+Criterios para la Declaración de Existencia de Interés Público.
 
-Para la calificación de las postulaciones de proyectos de iniciativa privada el Ministerio de Obras Públicas considerará la rentabilidad social preliminar asociada al proyecto, su concordancia con los planes reguladores comunales, intercomunales y metropolitanos y la contribución al desarrollo territorial o las medidas de corrección y/o mitigación propuestas si no concordara. Se considerará la postulación si constituye un aporte original a la infraestructura pública, en relación con otros proyectos que hayan sido elaborados por el Estado o presentados por particulares para su realización a través del sistema de concesión, o un aporte innovador desde el punto de vista del diseño, la tecnología o gestión del proyecto. También podrán considerarse las implicancias del uso de los factores de licitación señalados en las letras d), i) y k) del artículo 7° de la Ley de Concesiones y, en general, la ausencia o la necesidad de subsidio al proyecto.
+La DGC y el Consejo de Concesiones considerarán para evaluar la existencia de interés público en las Ideas de Iniciativa Privadas presentadas, al menos los siguientes criterios:
+
+a) La rentabilidad social preliminar asociada al proyecto.
+
+b) La concordancia del proyecto con los planes reguladores comunales, intercomunales y metropolitanos.
+
+c) La contribución del proyecto al desarrollo territorial de su área de influencia.
+
+d) La ausencia o necesidad de subsidio al proyecto, o la existencia de pagos ofrecidos al Estado.
+
+e) La originalidad del proyecto en materia de infraestructura pública, en relación con otros proyectos que hayan sido elaborados por el Estado o presentados por particulares para su realización a través del sistema de concesiones, o un aporte innovador desde el punto de vista del diseño, la tecnología o gestión del proyecto.
 
 #### Artículo 103º
 
@@ -1618,11 +1738,11 @@ Toda aclaración, rectificación o modificación que se introduzca a las Bases d
 
 10. El concesionario no podrá adjudicar la licitación al postulante cuya oferta no cumpla con las condiciones y requisitos establecidos en las Bases de Licitación y podrá rechazar todas las ofertas por las causales que se establezcan en las Bases. El acto de adjudicación deberá ser notificado por escrito al MOP, a través del respectivo Inspector Fiscal.
 
-11. En caso que, adjudicada la licitación, se requieran aumentos o disminuciones de las cantidades contratadas, no será necesaria una nueva licitación, siempre que no se altere el objeto del contrato y los fines específicos de la licitación, que así lo hubieran permitido las bases, y exista la imposibilidad práctica de desagregar la ejecución o la responsabilidad sobre la obra o servicio contratado, todo lo cual deberá ser previamente informado al MOP y aprobado por este Ministerio a través del Director General de Obras Públicas.
+11. En caso que, adjudicada la licitación, se requieran aumentos o disminuciones de las cantidades contratadas, no será necesaria una nueva licitación, siempre que no se altere el objeto del contrato y los fines específicos de la licitación, que así lo hubieran permitido las bases, y exista la imposibilidad práctica de desagregar la ejecución o la responsabilidad sobre la obra o servicio contratado, todo lo cual deberá ser previamente informado al MOP y aprobado por este Ministerio a través del Director General de Concesiones de Obras Públicas.
 
 12. Los concesionarios deberán mantener a disposición del MOP, para los fines de fiscalización, todos los antecedentes de los procedimientos de licitación pública a que se refiere este artículo.
 
-13. De verificarse algún vicio en el procedimiento o incumplimiento de alguna de las obligaciones prescritas en este artículo y/o en el contrato de concesión relativa a este mismo tema, el Director General de Obras Públicas ordenará dejar sin efecto la licitación y aplicará al concesionario las multas que establezcan las bases de licitación del contrato de concesión.
+13. De verificarse algún vicio en el procedimiento o incumplimiento de alguna de las obligaciones prescritas en este artículo y/o en el contrato de concesión relativa a este mismo tema, el Director General de Concesiones de Obras Públicas ordenará dejar sin efecto la licitación y aplicará al concesionario las multas que establezcan las bases de licitación del contrato de concesión.
 
 14. Dejado sin efecto el procedimiento de licitación, el concesionario deberá iniciar uno nuevo, de conformidad a lo establecido en el presente artículo.
 
@@ -1696,7 +1816,7 @@ Serán sancionados con multa de 20 a 3.500 unidades tributarias mensuales los co
 
 Sobre el pago al concesionario en caso de término anticipado de la concesión
 
-1. Para los efectos de lo dispuesto en el inciso primero del artículo 28 ter. de la Ley de Concesiones, la etapa de construcción, se entenderá que se extiende desde la publicación en el Diario Oficial del Decreto Supremo de adjudicación hasta la fecha de la resolución emitida por el Director General de Obras Públicas que autoriza la puesta en servicio provisoria de la totalidad de las obras.
+1. Para los efectos de lo dispuesto en el inciso primero del artículo 28 ter. de la Ley de Concesiones, la etapa de construcción, se entenderá que se extiende desde la publicación en el Diario Oficial del Decreto Supremo de adjudicación hasta la fecha de la resolución emitida por el Director General de Concesiones de Obras Públicas que autoriza la puesta en servicio provisoria de la totalidad de las obras.
 
 2. Dentro de los 20 días siguientes a la publicación del decreto que ponga término anticipado a la concesión, el concesionario presentará por escrito al Ministerio de Obras Públicas una oferta de negociación de acuerdo a lo que establezcan las bases de licitación, las cuales en todo caso deberán contemplar lo establecido en el artículo 28 ter de la Ley de Concesiones.
 
@@ -1830,7 +1950,7 @@ Procedimiento ante el Panel Técnico
 
 2. Presentada una discrepancia al Panel Técnico, el secretario abogado la pondrá en conocimiento de sus integrantes, dentro de las veinticuatro horas siguientes.
 
-Adicionalmente, presentada una discrepancia, el secretario abogado la pondrá en conocimiento del Director General de Obras Públicas del Ministerio de Obras Públicas, o de la sociedad concesionaria respectiva según corresponda, dentro del plazo de tres días siguientes, a objeto de que esta última individualice la persona y el domicilio, dentro de la ciudad de Santiago, a la cual deberán practicarse las notificaciones que correspondieren.
+Adicionalmente, presentada una discrepancia, el secretario abogado la pondrá en conocimiento del Director General de Concesiones de Obras Públicas del Ministerio de Obras Públicas, o de la sociedad concesionaria respectiva según corresponda, dentro del plazo de tres días siguientes, a objeto de que esta última individualice la persona y el domicilio, dentro de la ciudad de Santiago, a la cual deberán practicarse las notificaciones que correspondieren.
 
 3. Informada la recepción de la discrepancia, el Presidente del Panel convocará a una sesión especial, que deberá efectuarse dentro de los cinco días hábiles siguientes a la presentación de la discrepancia.
 
@@ -1974,7 +2094,7 @@ Cuando las sociedades concesionarias o los adjudicatarios opten por acogerse a l
 
 1.- Los postulantes que hayan presentado proyectos de iniciativa privada antes de la vigencia del presente Reglamento, de acuerdo a lo dispuesto en el artículo 2° del DS MOP Nº 900 de 1996, se regirán por lo dispuesto en el D.S. Nº 240 de 1991. En el caso de proyectos que estuvieren en etapa de presentación y que el MOP declarara que no existe interés público en el proyecto, el postulante podrá realizar una nueva presentación en base a las normas contenidas en este Reglamento, rigiendo al respecto los plazos y normas establecidos en el mismo. En el caso de proyectos que estuvieren en la etapa de proposición, que no hayan sido aceptados por el MOP, el postulante seguirá conservando la iniciativa como de su propiedad. No obstante, si en el plazo de 3 años el MOP decidiera llamar el proyecto a licitación por el sistema de concesión, el postulante tendrá los derechos reconocidos en el presente reglamento.
 
-2.- En todo caso, los postulantes que hayan presentado proyectos de iniciativa privada, de acuerdo a lo dispuesto en el artículo 2° del DS MOP Nº 900 de 1996, podrán acogerse a las disposiciones del presente Reglamento mediante carta dirigida al Director General de Obras Públicas.
+2.- En todo caso, los postulantes que hayan presentado proyectos de iniciativa privada, de acuerdo a lo dispuesto en el artículo 2° del DS MOP Nº 900 de 1996, podrán acogerse a las disposiciones del presente Reglamento mediante carta dirigida al Director General de Concesiones de Obras Públicas.
 
 #### Artículo 3º
 
