@@ -52,7 +52,7 @@ c) Rehabilitación: la voluntad exhibida por el condenado, mediante el sometimie
 
 d) Conducta: espíritu participativo, sentido de responsabilidad en el comportamiento personal, tanto en la unidad penal como durante los traslados, y, en general, cualquier otro comportamiento que revelare la disposición a que se refiere el inciso primero.
 
-Asimismo, para los efectos de la calificación de que trata esta ley, podrá atenderse al nivel de integración y apoyo familiar del condenado, si lo tuviere, y al nivel de adaptación social demostrado en uso de beneficios intrapenitenciarios.
+Asimismo, para los efectos de la calificación de que trata esta ley, deberá atenderse al nivel de integración y apoyo familiar del condenado, si lo tuviere, y al nivel de adaptación social demostrado en uso de beneficios intrapenitenciarios cuando se le hubieren otorgado.
 
 Tratándose de la calificación del comportamiento correspondiente al período mencionado en el artículo 9º, sólo se atenderá a los factores descritos en las letras c) y d) precedentes.
 
@@ -114,7 +114,7 @@ Procedimiento de calificación. Para calificar el comportamiento de las personas
 
 A fin de efectuar la calificación necesaria, la Comisión tendrá a la vista el libro de vida de cada condenado, además de las calificaciones efectuadas por el Tribunal de Conducta de cada establecimiento. Podrá también recabar informe de los miembros de dicho Tribunal, así como disponer entrevistas personales con los condenados.
 
-Asimismo, la Comisión podrá tener en consideración informes sociales y psicológicos relativos a los condenados, especialmente elaborados para los fines de la presente ley. Para estos efectos podrá encomendar la práctica de dichos informes a profesionales que se desempeñen en entidades públicas.
+Asimismo, la Comisión deberá tener en consideración informes sociales y psicológicos relativos a las personas condenadas, elaborados previamente para la postulación a algún beneficio intrapenitenciario o a la libertad condicional. En caso de no contar con ellos, deberá solicitar informes elaborados especialmente para los fines de la presente ley, los que deberán ser confeccionados por profesionales que se desempeñen en Gendarmería de Chile.
 
 #### Artículo 14
 
@@ -136,11 +136,7 @@ Para la procedencia del beneficio previsto en este artículo, será antecedente 
 
 #### Artículo 16
 
-Condenados en reclusión parcial. La reducción de condena de que tratan los artículos 2º y 3º de la presente ley favorecerá también a los condenados que cumplieren la pena sustitutiva de reclusión parcial.
-
-Para estos efectos, constituirá comportamiento sobresaliente del condenado el cumplimiento cabal del régimen de ejecución correspondiente a dicha pena sustitutiva.
-
-La calificación de la conducta y el procedimiento de obtención de la reducción de condena de que trata el presente artículo, se sujetará íntegramente a lo dispuesto en el Título II de esta ley.
+Derogado.
 
 ## Título IV
 
@@ -158,7 +154,7 @@ c) La persona hubiere delinquido durante el cumplimiento de su condena, o estand
 
 d) Se trate de personas condenadas a presidio perpetuo, sea simple o calificado;
 
-e) El condenado hubiere cometido algún delito al que la ley asigna como pena máxima el presidio perpetuo, a menos que en la sentencia condenatoria se hubiere aplicado a su respecto alguna de las circunstancias atenuantes previstas en los artículos 72 y 73 del Código Penal;
+e) El condenado hubiere cometido algún delito al que la ley asigna como pena máxima el presidio perpetuo, o alguno de los delitos perpetrados en contra de una víctima menor de edad, sancionados en los artículos 141, inciso final, y 142, inciso final, ambos en relación con la violación; los artículos 150 B y 150 E, ambos en relación con los artículos 361, 362 y 365 bis; los artículos 361, 362, 363, 365 bis, 366, 366 bis, 366 quáter, 366 quinquies, 367, 367 ter y 374 bis; el artículo 411 quáter, en relación con la explotación sexual; y el artículo 433, N° 1, en relación con la violación, todos del Código Penal, a menos que en la sentencia condenatoria se hubiere aplicado a su respecto la circunstancia atenuante prevista en el artículo 73 de dicho Código;
 
 f) El condenado hubiere obtenido el beneficio establecido en esta ley con anterioridad, y
 
