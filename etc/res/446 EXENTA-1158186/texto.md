@@ -50,6 +50,8 @@ Para efectos del presente llamado, las tipologías señaladas en el párrafo pre
 
 2. Los recursos involucrados por Región, para la selección de postulantes según alternativa, son los siguientes:
 
+.
+
 3. El número de proyectos seleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de ser financiados con los recursos previstos en la tabla inserta en el resuelvo 2., para cada alternativa señalada, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones y/o ajustes de marco presupuestario que serán aprobados mediante resolución.
 
 ### 4. Postulación:
