@@ -60,7 +60,7 @@ m) Los correos electrónicos de fecha 4 y 5 de mayo de 2021, que dan cuenta de l
 
 Resuelvo:
 
-1. Autorízase a los beneficiarios del subsidio habitacional del DS N° 1 (V. y U.), de 2011, que regula el Sistema Integrado de Subsidio Habitacional, en la modalidad de adquisición en la alternativa individual, a aplicarlo en una región distinta a la de postulación sin acreditar el cumplimiento de los requisitos que exige su artículo 27 inciso segundo, dentro del plazo de 10 meses siguientes a la publicación de la presente resolución, el que será prorrogable en caso que se extienda más allá de dicho plazo la vigencia del estado de excepción constitucional de catástrofe por calamidad pública conforme al DS N° 104, del Ministerio del Interior y Seguridad Pública.
+1. Autorízase a los beneficiarios del subsidio habitacional del DS Nº 1 (V. y U.), de 2011, que regula el Sistema Integrado de Subsidio Habitacional, en la modalidad de adquisición de vivienda en la alternativa individual, a aplicarlo en una región distinta a la de postulación, sin acreditar el cumplimiento de los requisitos que exige su artículo 27 inciso segundo, hasta el 31 de marzo de 2023, plazo que podrá ser prorrogado debido a la emergencia sanitaria por el brote de Coronavirus 2019 (COVID-19) y sus variantes.
 
 2. En el caso de beneficiarios de un subsidio habitacional del DS N° 1 (V. y U.), de 2011, que apliquen su subsidio a la adquisición de viviendas de un Proyecto de Integración Social, seleccionado a través del DS N° 19 (V. y U.), de 2016, emplazado en una región diferente a la de postulación, la reserva, incorporación o postulación a dicho proyecto en el sistema computacional, deberá efectuarse dentro del plazo señalado en el numeral anterior.
 
