@@ -150,7 +150,7 @@ a. Solicitar los antecedentes necesarios para efectuar el análisis del comporta
 
 b. Asignar los casos al equipo de fiscalizadores que tenga a su cargo, de acuerdo al monitoreo y gestionando la apertura del Expediente del prestador a investigar.
 
-c. Instruir el inicio de la fiscalización mediante resolución.
+c) Instruir el inicio de la fiscalización mediante Oficio Ordinario.
 
 d. Dictar el acto administrativo fundado que aplica las medidas provisionales, en los casos que se ha delegado la facultad.
 
@@ -170,7 +170,7 @@ a. Solicitar, a quien tenga delegada esta función, los antecedentes necesarios 
 
 b. Asignar los casos al equipo de fiscalizadores que tenga a su cargo, de acuerdo al monitoreo y gestionando la apertura del Expediente del prestador a investigar.
 
-c. Instruir el inicio de la fiscalización mediante resolución.
+c) Instruir el inicio de la fiscalización mediante Oficio Ordinario.
 
 d. Dictar el acto administrativo fundado que aplica las medidas provisionales, en los casos en que se le ha delegado la facultad.
 
@@ -244,6 +244,8 @@ Origen de la Fiscalización. La fiscalización podrá originarse como resultado 
 
 También podrá originarse por la denuncia formal interpuesta por terceros, o de oficio, ante requerimiento de alguna otra instancia que presente algún fundamento que la justifique.
 
+Asimismo, podrá iniciarse un procedimiento de fiscalización ágil en contra de prestadores, sean personas naturales o jurídicas, que no presenten ex ante de su selección una Solicitud Ciudadana Escalable, alertas de sistema emanadas de la División de Contraloría o del Departamento de Programación Financiera o que posean alerta informada por otras unidades del negocio en la emisión y/o pago de bonos de atención de salud (BAS).
+
 #### Artículo 18
 
 Competencia para fiscalizar. En el caso de los prestadores que registren lugar de atención en la Región Metropolitana y/o en la VI Región, el procedimiento de fiscalización será competencia de el/la Jefe(a) del Departamento de Contraloría MLE.
@@ -272,13 +274,15 @@ b. Etapa de fiscalización.
 
 #### Artículo 21
 
-Etapa de fiscalización. La fiscalización se iniciará mediante la notificación formal al prestador de la resolución que así lo disponga, dictada por el/la Jefe(a) del Departamento Contraloría MLE o por el/la Jefe(a) del Departamento Contraloría Zonal, según sea el caso.
+Etapa de fiscalización. La fiscalización se iniciará mediante la notificación formal al prestador del Oficio Ordinario que así lo disponga, dictada por el/la Jefe(a) del Departamento Contraloría MLE o por el/la Jefe(a) del Departamento Contraloría Zonal, según sea el caso.
 
-Mediante el mismo acto, se podrán solicitar antecedentes clínicos al prestador, el cual tendrá un plazo de tres días, contados desde la notificación de la resolución, para hacer llegar lo requerido por el Fonasa.
+Mediante el mismo acto, se podrán solicitar antecedentes clínicos al prestador, el cual tendrá un plazo de tres días, contados desde la notificación del Oficio Ordinario, para hacer llegar lo requerido por el Fonasa.
 
 #### Artículo 22
 
 Visita inspectiva. Se realizará visita inspectiva en los casos en donde exista uno o más lugares de atención registrados, cuando se requiera autorización sanitaria para el otorgamiento de las prestaciones, cuando exista necesidad de equipamiento específico para otorgar prestaciones, cuando se efectúa una denuncia y en los casos en que el prestador no sea habido, es decir, cuando el prestador no haya respondido ninguna de las comunicaciones formales que se le hayan enviado ni se haya podido establecer contacto alguno con él.
+
+Del mismo modo, se realizará visita inspectiva en aquellos casos que se haya iniciado un procedimiento de fiscalización ágil.
 
 En la visita inspectiva se podrán revisar antecedentes clínicos y toda documentación que sea pertinente para verificar el cumplimiento de la normativa que regula la Modalidad de Libre Elección.
 
@@ -288,9 +292,11 @@ Toda visita inspectiva deberá ser registrada en un "acta de visita", donde se r
 
 Informe de fiscalización y fin de la etapa. Una vez analizados los antecedentes clínicos previamente solicitados y los hallazgos de la visita inspectiva, si se hubiere verificado, el/la fiscalizador(a) a cargo del caso evacuará un "Informe de Fiscalización", mediante el cual propondrá a el/la Jefe(a) del Departamento Contraloría MLE (Nivel Central) o el/la Jefe(a) del Departamento Contraloría Zonal, según corresponda, continuar o no con la siguiente etapa del procedimiento.
 
-En el evento de encontrarse hallazgos que no ameriten la formulación de cargos, se deberá notificar formalmente el cierre de la fiscalización al prestador, a través de una Resolución de el/la Jefe(a) del Departamento Contraloría MLE (Nivel Central) o el/la Jefe(a) del Departamento Contraloría Zonal, según corresponda, informando claramente las irregularidades encontradas para que sean subsanadas, y solicitando el reintegro de las prestaciones objetadas, si procediere.
+En el evento de encontrarse hallazgos que no ameriten la formulación de cargos, se deberá notificar formalmente el cierre de la fiscalización al prestador, a través de un acto administrativo de el/la Jefe(a) del Departamento Contraloría MLE (Nivel Central) o el/la Jefe(a) del Departamento Contraloría Zonal, según corresponda, informando claramente las irregularidades encontradas para que sean subsanadas, y solicitando el reintegro de las prestaciones objetadas, si procediere. En el evento de ordenarse reintegros, el acto administrativo respectivo deberá ser una resolución.
 
-En el caso de no constatarse irregularidad alguna, se deberá notificar formalmente el cierre de la fiscalización al prestador, a través de una Resolución de el/la Jefe(a) del Departamento Contraloría MLE (Nivel Central) o el/la Jefe(a) del Departamento Contraloría Zonal, según corresponda.
+En el caso de no constatarse irregularidad alguna, se deberá notificar formalmente el cierre de la fiscalización al prestador, a través de un acto administrativo de el/la Jefe(a) del Departamento Contraloría MLE (Nivel Central) o el/la Jefe(a) del Departamento Contraloría Zonal, según corresponda.
+
+En el caso de fiscalizaciones ágiles, en el evento que se detecten hechos que constituyen una eventual infracción a la normativa que rige la Modalidad de Libre Elección, se podrá ampliar la muestra a fiscalizar, solicitando antecedentes adicionales y continuando con el procedimiento de fiscalización.
 
 Finalmente, si se detectan hechos que constituyan una eventual infracción a la normativa que rige la Modalidad de Libre Elección, se propondrá la formulación de cargos al prestador.
 
@@ -298,13 +304,13 @@ Finalmente, si se detectan hechos que constituyan una eventual infracción a la 
 
 Medidas provisionales. Iniciado el procedimiento de fiscalización, Fonasa podrá adoptar, de oficio o a petición de parte y mediante resolución fundada, las medidas provisionales que estime oportunas, para asegurar la eficacia de la decisión que pudiera recaer, si existiesen elementos de juicio suficientes para ello.
 
-Sin embargo, antes de la iniciación del procedimiento de fiscalización, Fonasa, de oficio o a petición de parte, en los casos de urgencia y para la protección provisional de los intereses implicados, podrá adoptar las medidas correspondientes. Estas medidas provisionales deberán ser confirmadas, modificadas o levantadas en la resolución que dé inicio a la fiscalización, la que deberá dictarse dentro de los quince días siguientes a la adopción de la medida.
+Sin embargo, antes de la iniciación del procedimiento de fiscalización, Fonasa, de oficio o a petición de parte, en los casos de urgencia y para la protección provisional de los intereses implicados, podrá adoptar las medidas correspondientes. Estas medidas provisionales deberán ser confirmadas, modificadas o levantadas en el acto administrativo que dé inicio a la fiscalización, la que deberá dictarse dentro de los quince días siguientes a la adopción de la medida.
 
 En todo caso, las medidas a que se refiere el inciso anterior, quedarán sin efecto si no se inicia el procedimiento en dicho plazo, o cuando la decisión de iniciación no contenga un pronunciamiento expreso acerca de las mismas.
 
 Las medidas provisionales podrán ser alzadas o modificadas durante la tramitación del procedimiento, de oficio o a petición de parte, en virtud de circunstancias sobrevinientes o que no pudieron ser tenidas en cuenta en el momento de su adopción.
 
-En todo caso, las medidas de que trata este artículo, se extinguirán con la eficacia de la resolución administrativa que ponga fin al procedimiento correspondiente.
+En todo caso, las medidas de que trata este artículo, se extinguirán con la eficacia del acto administrativo que ponga fin al procedimiento correspondiente.
 
 c. Etapa de formulación de cargos.
 
@@ -328,39 +334,41 @@ Asimismo, en el caso que la Comisión respectiva detectare alguna irregularidad 
 
 #### Artículo 28
 
-Criterios para determinar la propuesta de la Comisión de Sanción Zonal o Comisión de Sanción del Nivel Central. Para efectos de proponer a la autoridad una sanción proporcionada y racional en relación a las infracciones acreditadas durante el procedimiento, la Comisión respectiva seguirá los siguientes criterios.
+Criterios para determinar la propuesta de la Comisión de Sanción Zonal o Comisión de Sanción del Nivel Central. Para efectos de proponer a la autoridad una sanción proporcionada y racional en relación a las infracciones acreditadas durante el procedimiento, la Comisión respectiva seguirá los siguientes criterios:
 
 a. Para la propuesta de aplicación de multas y reintegros. En caso de producirse más de una infracción, se propondrá una multa que ascenderá a la suma de los montos que correspondan a cada una de ellas, considerándose el monto bruto asociado a las prestaciones para las que se emitió un BAS, más aquellas infracciones a las normativas que no tengan un BAS asociado, respetando el tope máximo legal de 500 Unidades de Fomento.
 
-. Multa para infracción con BAS asociado. Se propondrá aplicar multa en relación al monto bruto de las prestaciones que presenten infracción, más la propuesta de ordenar el reintegro al Fonasa de los montos asociados al Fondo de Ayuda Médica (FAM) de las prestaciones no otorgadas.
+- Multa para infracción con BAS asociado. Se propondrá aplicar multa en relación al monto bruto de las prestaciones que presenten infracción, más la propuesta de ordenar el reintegro al Fonasa de los montos asociados al Fondo de Ayuda Médica (FAM) de las prestaciones no otorgadas.
 
-. Multa para infracción sin BAS asociado. Se propondrá una multa de 10 Unidades de Fomento por cada infracción detectada. En estos casos no se propondrá ordenar el reintegro de fondos al Fonasa.
+- Multa para infracción sin BAS asociado. Se propondrá una multa de 10 Unidades de Fomento por cada infracción detectada. En estos casos no se propondrá ordenar el reintegro de fondos al Fonasa.
 
-. Multa para la infracción de "cobro particular". Cuando exista denuncia y se identifique a los beneficiarios afectados, se solicitará la devolución de los montos al beneficiario y la confección del programa o emisión del BAS respectivo. Sumado a lo anterior, se propondrá la aplicación de multa, a beneficio fiscal, en relación al monto bruto de las prestaciones con irregularidad. En este caso, no se propondrá ordenar el reintegro de fondos al Fonasa.
+- Multa para la infracción de "cobro particular". Cuando exista denuncia y se identifique a los beneficiarios afectados, se solicitará la devolución de los montos al beneficiario y la confección del programa o emisión del BAS respectivo. Sumado a lo anterior, se propondrá la aplicación de multa, a beneficio fiscal, en relación al monto bruto de las prestaciones con irregularidad. En este caso, no se propondrá ordenar el reintegro de fondos al Fonasa.
 
-. Multa para la infracción de "Honorarios adicionales por sobre el valor establecido". Se propondrá la aplicación de multa a beneficio fiscal, acorde al monto bruto de las prestaciones que presenten infracción, además de solicitar la devolución al beneficiario de los honorarios cobrados en forma adicional. En este caso, no se propondrá ordenar el reintegro de fondos al Fonasa si las prestaciones fueron debidamente otorgadas.
+- Multa para la infracción de "Honorarios adicionales por sobre el valor establecido". Se propondrá la aplicación de multa a beneficio fiscal, acorde al monto bruto de las prestaciones que presenten infracción, además de solicitar la devolución al beneficiario de los honorarios cobrados en forma adicional. En este caso, no se propondrá ordenar el reintegro de fondos al Fonasa si las prestaciones fueron debidamente otorgadas.
 
 b. Para la propuesta de aplicación de cancelación, suspensión y amonestación. La Comisión definirá la gravedad de la sanción propuesta de acuerdo al mérito de cada caso e infracciones cometidas, teniendo en consideración los siguientes criterios agravantes y/o atenuantes:
 
-. La existencia, o no, de resoluciones administrativas firmes derivadas de procedimientos sancionatorios previos, por infracción a la normativa que regula la Modalidad de Libre Elección del Fonasa.
+- La existencia, o no, de resoluciones administrativas firmes derivadas de procedimientos sancionatorios previos, por infracción a la normativa que regula la Modalidad de Libre Elección del Fonasa.
 
-. Relación del infractor, ya sea mediante representación legal o participación en sociedad, con otros prestadores que hayan sido previamente sancionados.
+- Relación del infractor, ya sea mediante representación legal o participación en sociedad, con otros prestadores que hayan sido previamente sancionados.
 
-. Colaboración sustancial del prestador con la Administración durante los procedimientos de fiscalización y aplicación de sanción.
+- Colaboración sustancial del prestador con la Administración durante los procedimientos de fiscalización y aplicación de sanción.
 
-. Cantidad de infracciones detectadas y su reiteración.
+- Cantidad de infracciones detectadas y su reiteración.
 
-. Beneficio económico obtenido con la infracción.
+- Beneficio económico obtenido con la infracción.
 
-. La existencia o no de intencionalidad en la conducta del infractor.
+- La existencia o no de intencionalidad en la conducta del infractor.
 
-. Capacidad económica del infractor.
+- Capacidad económica del infractor.
 
-. Perjuicio a los beneficiarios del Seguro Público.
+- Perjuicio a los beneficiarios del Seguro Público.
 
-. Perjuicio fiscal.
+- Perjuicio fiscal.
 
-. Oferta geográfica de prestadores disponibles para la entrega de prestaciones con dificultad de acceso para una población determinada (por ejemplo: oncólogos, neurocirujanos, radioterapia, etc.).
+- Oferta geográfica de prestadores disponibles para la entrega de prestaciones con dificultad de acceso para una población determinada (por ejemplo: oncólogos, neurocirujanos, radioterapia, etc.).
+
+Sin perjuicio de lo anterior, los criterios enumerados en la letra b) precedente también podrán ser utilizados para agravar o atenuar la entidad de la sanción o medida propuesta si esta se refiere a la aplicación de multas y/o la orden de reintegros".
 
 #### Artículo 29
 

@@ -3098,7 +3098,7 @@ d) Firmar oficios dirigidos a la Superintendencia de Salud informando el cumplim
 
 2º En el Jefe del Departamento Contraloría MLE las siguientes facultades:
 
-a) Instruir el inicio de la fiscalización mediante resolución respecto de las personas naturales o jurídicas inscritas en la Base de Prestadores MLE y que registren domicilio en la Región Metropolitana o en la Región del Libertador General Bernardo O'Higgins; dictar el acto administrativo mediante el cual se cierra la etapa de fiscalización, solicitando el reintegro de las prestaciones objetadas, si procediere; dictar el acto administrativo mediante el cual se le formulan cargos al prestador; y dictar el acto administrativo fundado que aplica las medidas provisionales.
+a) Instruir el inicio de la fiscalización mediante acto administrativo respecto de las personas naturales o jurídicas inscritas en la Base de Prestadores MLE y que registren domicilio en la Región Metropolitana o en la Región del Libertador General Bernardo O'Higgins; dictar el acto administrativo mediante el cual se cierra la etapa de fiscalización, solicitando el reintegro de las prestaciones objetadas, si procediere; dictar el acto administrativo mediante el cual se le formulan cargos al prestador; y dictar el acto administrativo fundado que aplica las medidas provisionales.
 
 b) Autorizar programas y órdenes de atención cuya vigencia haya caducado en los términos establecidos en las normas técnicas administrativas para la aplicación del arancel que se encontrare vigente, así como programas y órdenes de atención con enmendaduras y roturas y que no se ajusten a los términos establecidos en las normas técnicas administrativas para la aplicación del arancel que se encontrare vigente.
 
@@ -3602,9 +3602,7 @@ b) Informar el retraso de depósito y otros errores de entidades delegadas al re
 
 5º En el Jefe del Departamento Contraloría de las Direcciones Zonales las siguientes facultades:
 
-a) Instruir el inicio de la fiscalización mediante resolución respecto de las personas naturales o jurídicas inscritas en la Base de Prestadores MLE y que registren domicilio en el territorio de su competencia; dictar el acto administrativo mediante el cual se cierra la etapa de fiscalización, solicitando el reintegro de las prestaciones objetadas, si procediere; dictar el acto administrativo mediante el cual se le formulan cargos al prestador; y dictar el acto administrativo fundado que aplica las medidas provisionales.
-
-b) Solicitar antecedentes clínicos y administrativos a prestadores.
+a) Instruir el inicio de la fiscalización mediante acto administrativo respecto de las personas naturales o jurídicas inscritas en la Base de Prestadores MLE y que registren domicilio en el territorio de su competencia; dictar el acto administrativo mediante el cual se cierra la etapa de fiscalización, solicitando el reintegro de las prestaciones objetadas, si procediere; dictar el acto administrativo mediante el cual se le formulan cargos al prestador; y dictar el acto administrativo fundado que aplica las medidas provisionales.
 
 c) Autorizar pagos de bonos de atención de salud que no cumplen con la vigencia administrativa establecidas en las Normas Técnicas y Administrativas, que no se encuentren prescritos.
 
