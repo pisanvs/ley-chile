@@ -1,0 +1,31 @@
+RENUEVA LA ACREDITACIÓN DEL CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES BUREAU VERITAS CERTIFICATION CHILE S.A.
+
+Núm. 48 exenta.- Santiago, 3 de febrero de 2022.
+
+Vistos:
+
+La Ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo; el Reglamento de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, establecido por decreto supremo Nº 137 de 2008, del Ministerio del Trabajo y Previsión Social; el Reglamento que regula la Acreditación de Centros de Evaluación y Certificación de Competencias Laborales y la Habilitación de Evaluadores, aprobado por decreto supremo Nº 29 de 2011, del Ministerio del Trabajo y Previsión Social; la resolución exenta Nº 1.068 de 2011, de la Subsecretaría del Trabajo, sobre aranceles del Sistema Nacional de Certificación de Competencias Laborales; la resolución exenta Nº 198 de fecha 1º de agosto de 2019, de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, que aprobó la nueva versión de Procedimiento para la Renovación de la Acreditación de Centros de Evaluación y Certificación de Competencias Laborales; la resolución exenta Nº 33, de 3 de febrero de 2019, de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, que acreditó a la sociedad Bureau Veritas Certification Chile S.A., como Centro de Evaluación y Certificación de Competencias Laborales; la solicitud presentada por la sociedad Bureau Veritas Certification Chile S.A., registrada con el ID SR-2021-13-15-006 en la plataforma informática habilitada para estos efectos; en la resolución exenta Nº 33 de 24 de enero de 2022, de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, que cerró la evaluación de la solicitud de renovación presentada por el Centro de Evaluación y Certificación de Competencias Laborales Bureau Veritas Certification Chile S.A.; en el acuerdo Nº 989 de 2022 adoptado por el órgano colegiado de la Comisión en la centésima trigésima sexta sesión ordinaria celebrada el 25 de enero del mismo año; el acta de compromiso de 3 de febrero de 2022, suscrita por la sociedad Bureau Veritas Certification Chile S.A.; en la resolución exenta Nº 63 de 18 de marzo de 2020, modificada por la resolución exenta Nº 327, de 31 de diciembre de 2020, ambas de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, que establece medidas de gestión interna en la Comisión, que deberá cumplir su personal, para hacer frente a la situación sanitaria relacionada con el brote de Coronavirus (COVID-19); la resolución Nº 7 de 2019, de la Contraloría General de la República, que establece normas sobre Exención del trámite de Toma de Razón; y las facultades que me confiere el artículo 9º de la ley Nº 20.267.
+
+Considerando:
+
+1. Que, a la Comisión del Sistema Nacional de Certificación de Competencias Laborales, en adelante la Comisión o ChileValora, servicio público creado por ley Nº 20.267, le corresponde la facultad de acreditar la condición de Centro de Evaluación y Certificación de Competencias Laborales habilitado para emitir certificados de competencias laborales, la que se otorgará por un plazo de tres años, sin perjuicio de revocarla anticipadamente, en los casos previstos en la ley.
+
+2. Que, conforme a ello, mediante resolución exenta Nº 33, de 3 de febrero de 2019, la Comisión acreditó a la sociedad Bureau Veritas Certification Chile S.A. como Centro de Evaluación y Certificación de Competencias Laborales, por el periodo de 3 años, contados desde la notificación del acto administrativo respectivo.
+
+3. Que, habiendo presentado una solicitud renovación de su acreditación para un nuevo periodo, se ha determinado que la sociedad Bureau Veritas Certification Chile S.A. cumple con los requisitos normativos para continuar efectuando procesos de evaluación y certificación en los sectores, subsectores y perfiles solicitados, conforme se da cuenta en la resolución exenta Nº 33, de 2022, que cierra el proceso de evaluación de dicha solicitud.
+
+4. Que, mediante Acuerdo Nº 989 de 2022, adoptado en la centésima trigésima sexta sesión ordinaria, de 25 de enero de 2021, el órgano colegiado de la Comisión resolvió renovar la acreditación a la solicitante, como Centro de Evaluación y Certificación de Competencias Laborales, por un nuevo período, desde el 4 de febrero de 2022 hasta el 4 de febrero de 2025, ambas fechas inclusive.
+
+5. Que, con fecha 3 de febrero, la sociedad Bureau Veritas Certification Chile S.A., suscribió un Acta de Compromiso, en que se compromete a cumplir las obligaciones, compromisos, prohibiciones, restricciones e inhabilidades que la ley Nº 20.267 y sus reglamentos establecen para asegurar la idoneidad, competencia e imparcialidad de los Centros de Evaluación y Certificación de Competencias Laborales.
+
+Resuelvo:
+
+1. Renuévese la acreditación de la sociedad Bureau Veritas Certification Chile S.A., RUT Nº 99.526.160-K, como Centro de Evaluación y Certificación de Competencias Laborales, con domicilio en la ciudad de Santiago, por el período comprendido entre el 4 de febrero de 2022 y el 4 de febrero de 2025, ambas fechas inclusive, para prestar sus servicios de evaluación y certificación de competencias laborales en los perfiles ocupacionales de los siguientes sectores y subsectores:
+
+2. Páguese por parte del Centro el arancel correspondiente al primer año de mantención, dentro del plazo de 15 días hábiles contados desde la notificación de la presente resolución.
+
+3. Publíquese la presente resolución de renovación de acreditación en el Diario Oficial, sin perjuicio que las futuras modificaciones de códigos de perfiles ocupacionales se notificarán a través del Registro Nacional de Unidades de Competencias Laborales y del Registro Nacional de Centros de Evaluación y Certificación de Competencias Laborales.
+
+4. Ingrésese la nueva vigencia de la acreditación del Centro en el Registro de Centros de Evaluación y Certificación de Competencias Laborales, una vez que se acredite por parte de éste el pago del arancel y se publique esta resolución en el Diario Oficial.
+
+Anótese, notifíquese y publíquese en el Diario Oficial.- Francisco Silva Bafalluy, Secretario Ejecutivo, Comisión del Sistema Nacional de Certificación de Competencias Laborales.
