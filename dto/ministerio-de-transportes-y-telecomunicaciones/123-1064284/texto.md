@@ -42,49 +42,59 @@ En los plazos establecidos en el artículo 5º del presente decreto, las motocic
 
 1) Dispositivo de Retención de Pasajero:
 
-1.1. National Standard of the People's Republic of China, GB 20075/2006, Passenger Hand-Holds on Motorcycles.
+1.1. Directiva 2009/79/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, relativa a los dispositivos de retención para pasajeros de los vehículos de motor de dos ruedas.
 
-1.2. Anexo XIII del Reglamento Delegado (UE) Nº 44/2014 de la Comisión, que complementa el Reglamento (UE) Nº 168/2013 del Parlamento Europeo y del Consejo con respecto a los requisitos de fabricación y los requisitos generales de homologación de los vehículos de dos o tres ruedas y los cuatriciclos.
+1.2. National Standard of the People's Republic of China, GB 20075/2006, Passenger Hand-Holds on Motorcycles.
+
+1.3. Anexo XIII del Reglamento Delegado (UE) Nº 44/2014 de la Comisión, que complementa el Reglamento (UE) Nº 168/2013 del Parlamento Europeo y del Consejo con respecto a los requisitos de fabricación y los requisitos generales de homologación de los vehículos de dos o tres ruedas y los cuatriciclos.
 
 2) Retrovisor:
 
-2.1. CFR 49_571 National Highway Traffic Safety Administration, Department of Transportation (NHTSA) Unites States of America, Standard No. 111; Rearview mirrors.
+2.1. Capítulo 4 de la Directiva 97/24/CE, del Parlamento Europeo y del Consejo, de 17 de junio de 1997, relativa a determinados elementos y características de los vehículos de motor de dos o tres ruedas.
 
-2.2. Reglamento Nº 81 de la Comisión Económica para Europa de las Naciones Unidas (CEPE); Prescripciones uniformes sobre la homologación de retrovisores de los vehículos de motor de dos ruedas, con o sin sidecar, respecto a la instalación de dichos retrovisores en el manillar.
+2.2. CFR 49_571 National Highway Traffic Safety Administration, Department of Transportation (NHTSA) Unites States of America, Standard No. 111; Rearview mirrors.
 
-2.3. National Standard of the People's Republic of China, GB/T 17352/2010; Performance and installation requirements of rear views mirrors for motorcycles and mopeds.
+2.3. Reglamento Nº 81 de la Comisión Económica para Europa de las Naciones Unidas (CEPE); Prescripciones uniformes sobre la homologación de retrovisores de los vehículos de motor de dos ruedas, con o sin sidecar, respecto a la instalación de dichos retrovisores en el manillar.
 
-2.4. Anexo X del Reglamento Delegado (UE) Nº 3/2014 de la Comisión, de 24 de octubre de 2013, que complementa el Reglamento (UE) Nº 168/2013 del Parlamento Europeo y del Consejo relativo a los requisitos de seguridad funcional para la homologación de los vehículos de dos o tres ruedas y los cuatriciclos.
+2.4. National Standard of the People's Republic of China, GB/T 17352/2010; Performance and installation requirements of rear views mirrors for motorcycles and mopeds.
+
+2.5. Anexo X del Reglamento Delegado (UE) Nº 3/2014 de la Comisión, de 24 de octubre de 2013, que complementa el Reglamento (UE) Nº 168/2013 del Parlamento Europeo y del Consejo relativo a los requisitos de seguridad funcional para la homologación de los vehículos de dos o tres ruedas y los cuatriciclos.
 
 3) Desempeño de Frenos:
 
-3.1. CFR 49_571 National Highway Traffic Safety Administration, Department of Transportation (NHTSA) Unites States of America; Standard No. 122; Motorcycle brake systems.
+3.1. Directiva 93/14/CEE del Consejo, de 5 de abril de 1993, relativa al frenado de los vehículos de motor de dos o tres ruedas.
 
-3.2. Reglamento Nº78 de la Comisión Económica para Europa de las Naciones Unidas (CEPE/ONU); Disposiciones uniformes sobre la homologación de vehículos de las categorías L1, L2, L3, L4 y L5 con relación al frenado [2015/145], del Reglamento Nº 78 de la Comisión Económica para Europa de las Naciones Unidas (CEPE).
+3.2. CFR 49_571 National Highway Traffic Safety Administration, Department of Transportation (NHTSA) Unites States of America; Standard No. 122; Motorcycle brake systems.
 
-3.3. Global Technical Regulation (RTM) CEPE/ONU Nº3; Motorcycle brake systems.
+3.3. Reglamento Nº78 de la Comisión Económica para Europa de las Naciones Unidas (CEPE/ONU); Disposiciones uniformes sobre la homologación de vehículos de las categorías L1, L2, L3, L4 y L5 con relación al frenado [2015/145], del Reglamento Nº 78 de la Comisión Económica para Europa de las Naciones Unidas (CEPE).
 
-3.4. National Standard of the People's Republic of China, GB 20073/2006; Performance and measurement method for braking of motorcycles and mopeds.
+3.4. Global Technical Regulation (RTM) CEPE/ONU Nº3; Motorcycle brake systems.
 
-3.5. Anexo III del Reglamento Delegado (UE) Nº 3/2014 de la Comisión, de 24 de octubre de 2013, que complementa el Reglamento (UE) Nº 168/2013 del Parlamento Europeo y del Consejo relativo a los requisitos de seguridad funcional para la homologación de los vehículos de dos o tres ruedas y los cuatriciclos.
+3.5. National Standard of the People's Republic of China, GB 20073/2006; Performance and measurement method for braking of motorcycles and mopeds.
+
+3.6. Anexo III del Reglamento Delegado (UE) Nº 3/2014 de la Comisión, de 24 de octubre de 2013, que complementa el Reglamento (UE) Nº 168/2013 del Parlamento Europeo y del Consejo relativo a los requisitos de seguridad funcional para la homologación de los vehículos de dos o tres ruedas y los cuatriciclos.
 
 4) Depósito de Combustible:
 
-4.1. National Standard of the People's Republic of China, GB/T 19482/2004; Safety property requirements and test method for fuel tanks for motorcycles and mopeds.
+4.1. Capítulo 6 de la Directiva 97/24/CE, del Parlamento Europeo y del Consejo, de 17 de junio de 1997, relativa a determinados elementos y características de los vehículos de motor de dos o tres ruedas.
 
-4.2. Anexo IX del Reglamento Delegado (UE) Nº 44/2014 de la Comisión, que complementa el Reglamento (UE) Nº 168/2013 del Parlamento Europeo y del Consejo con respecto a los requisitos de fabricación y los requisitos generales de homologación de los vehículos de dos o tres ruedas y los cuatriciclos.
+4.2. National Standard of the People's Republic of China, GB/T 19482/2004; Safety property requirements and test method for fuel tanks for motorcycles and mopeds.
+
+4.3. Anexo IX del Reglamento Delegado (UE) Nº 44/2014 de la Comisión, que complementa el Reglamento (UE) Nº 168/2013 del Parlamento Europeo y del Consejo con respecto a los requisitos de fabricación y los requisitos generales de homologación de los vehículos de dos o tres ruedas y los cuatriciclos.
 
 5) Mandos, Testigos e Indicadores:
 
-5.1. CFR 49_571 National Highway Traffic Safety Administration, Department of Transportation (NHTSA) Unites States of America; Standard No. 123; Motorcycle controls and displays.
+5.1. Directiva 2009/80/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, relativa a la identificación de los mandos, testigos e indicadores de los vehículos de motor de dos o tres ruedas.
 
-5.2. Reglamento Nº 60 de la Comisión Económica para Europa de las Naciones Unidas (CEPE/ONU); Prescripciones uniformes relativas a la homologación de ciclomotores y motocicletas de dos ruedas en lo que concierne a los mandos accionados por el conductor, incluida la identificación de los mandos, luces testigo e indicadores.
+5.2. CFR 49_571 National Highway Traffic Safety Administration, Department of Transportation (NHTSA) Unites States of America; Standard No. 123; Motorcycle controls and displays.
 
-5.3. National Standard of the People's Republic of China, GB/T 15365/2008; Symbols for controls, indicators and tell tales for motorcycle and mopes.
+5.3. Reglamento Nº 60 de la Comisión Económica para Europa de las Naciones Unidas (CEPE/ONU); Prescripciones uniformes relativas a la homologación de ciclomotores y motocicletas de dos ruedas en lo que concierne a los mandos accionados por el conductor, incluida la identificación de los mandos, luces testigo e indicadores.
 
-5.4. Global Technical Regulation (RTM) CEPE/ONU Nº12; Global technical regulation concerning the location, identification and operation of motorcycle controls, tell-tales and indicators.
+5.4. National Standard of the People's Republic of China, GB/T 15365/2008; Symbols for controls, indicators and tell tales for motorcycle and mopes.
 
-5.5. Anexo VIII del Reglamento Delegado (UE) Nº 3/2014 de la Comisión, de 24 de octubre de 2013, que complementa el Reglamento (UE) Nº168/2013 del Parlamento Europeo y del Consejo relativo a los requisitos de seguridad funcional para la homologación de los vehículos de dos o tres ruedas y los cuatriciclos.
+5.5. Global Technical Regulation (RTM) CEPE/ONU Nº12; Global technical regulation concerning the location, identification and operation of motorcycle controls, tell-tales and indicators.
+
+5.6. Anexo VIII del Reglamento Delegado (UE) Nº 3/2014 de la Comisión, de 24 de octubre de 2013, que complementa el Reglamento (UE) Nº168/2013 del Parlamento Europeo y del Consejo relativo a los requisitos de seguridad funcional para la homologación de los vehículos de dos o tres ruedas y los cuatriciclos.
 
 6) Luces:
 
