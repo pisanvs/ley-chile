@@ -50,6 +50,12 @@ Una Comisión Especial designada por el Presidente de la República lo asesorar�
 
 El decreto supremo que otorgue la pensión por gracia podrá señalar las condiciones o requisitos especiales de plazo u otras exigencias a que se subordine la vigencia del beneficio.
 
+#### Artículo transitorio
+
+Podrán invocar la causal contenida en la letra b) del artículo 2º, durante el año 2022, los menores de edad o las personas hasta los 24 años de edad si se mantienen como estudiantes regulares, en cualquier nivel, en instituciones o establecimientos educacionales reconocidos por el Estado, cuyos cuidadores legales hayan fallecido por causa del COVID-19, a contar de marzo de 2020, de acuerdo a la forma y condiciones que establezca un decreto del Ministerio del Interior y Seguridad Pública, suscrito además por los Ministerios de Hacienda, de Desarrollo Social y Familia y de Salud.
+
+El otorgamiento de este beneficio no será incompatible con ningún otro beneficio o prestación de seguridad social.
+
 JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada, Miembro de la Junta de Gobierno.- CESAR MENDOZA DURAN, General Director de Carabineros, Miembro de la Junta de Gobierno.- CESAR RAUL BENAVIDES ESCOBAR, Teniente General de Ejército, Miembro de la Junta de Gobierno.- JAVIER LOPETEGUI TORRES, General de Aviación, Comandante en Jefe de la Fuerza Aérea y Miembro de la Junta de Gobierno, subrogante.- MARIO MAC KAY JARAQUEMADA, General Subdirector, General Director de Carabineros y Miembro de la Junta de Gobierno subrogante.
 
 Por cuanto he tenido a bien aprobar la precedente ley, la sanciono y la firmo en señal de promulgación.
