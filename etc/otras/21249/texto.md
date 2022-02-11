@@ -106,7 +106,7 @@ Si los beneficiarios de esta ley hubiesen sido objeto de cortes o suspensiones d
 
 #### Artículo 9
 
-Sin perjuicio del plazo establecido en el artículo 2, los beneficiarios señalados en los artículos 3 y 4 tendrán un plazo de 30 días adicionales para el solo efecto de acogerse a lo dispuesto en el artículo 2.
+Sin perjuicio del plazo establecido en el artículo 2, los beneficiarios señalados en los artículos 3 y 4 tendrán un plazo de 90 días adicionales para el solo efecto de acogerse a lo dispuesto en el artículo 2.
 
 Quince días antes del vencimiento del plazo establecido en el inciso primero del artículo 1, las empresas deberán remitir a los clientes finales la información correspondiente al monto de su deuda y a los beneficios a los que se pueden acoger de conformidad a esta ley.
 
