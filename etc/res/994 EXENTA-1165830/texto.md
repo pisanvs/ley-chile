@@ -562,7 +562,7 @@ a. En espacios cerrados, el público asistente deberá contar con un Pase de Mov
 
 b. Las mesas deberán estar separadas entre sí por una distancia mínima de dos metros lineales, medidos desde sus bordes.
 
-c. En espacios cerrados, solo podrá haber un máximo de dos personas por mesa.
+c. En espacios cerrados, solo podrá haber un máximo de dos personas por mesa. En el caso de adultos acompañados por menores de edad, estos últimos no se considerarán en el número máximo, siempre que el total de personas no sea mayor a 5.
 
 d. En espacios cerrados, la ventilación deberá cumplir con la norma estándar de ventilación.
 
