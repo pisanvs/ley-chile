@@ -2516,6 +2516,10 @@ Las personas que indiquen un domicilio falso o inexistente en un procedimiento d
 
 El adquirente de un vehículo, que no cumpla con la obligación establecida en el inciso cuarto del artículo 42, o que indique domicilio falso o inexistente, será sancionado con multa de 3 a 50 unidades tributarias mensuales. Asimismo, si no diera cumplimiento a la obligación establecida en el inciso final del mismo artículo, será sancionado con multa de 3 a 5 unidades tributarias mensuales.
 
+La infracción de la prohibición establecida en el número 3 del artículo 160 será sancionada con multa de media unidad tributaria mensual a dos unidades tributarias mensuales. La reincidencia será sancionada con multa de dos a cuatro unidades tributarias mensuales.
+
+En los casos señalados en el inciso anterior, la mercadería será decomisada. Los elementos perecibles serán distribuidos entre los establecimientos de caridad o asistencia de la comuna respectiva, según lo establezcan las ordenanzas municipales correspondientes. Los demás elementos serán destruidos según lo dispongan las mismas ordenanzas.
+
 Al que transporte cargas peligrosas sin ajustarse a las normas reglamentarias que rigen la actividad, se le aplicará una multa de 5 a 20 unidades tributarias mensuales, respectivamente.
 
 En casos calificados, por resolución fundada, el Juez podrá imponer una multa de monto inferior a las señaladas, atendidas las condiciones en que se cometió el hecho denunciado o la capacidad económica del infractor.
