@@ -120,7 +120,7 @@ b) en otros cruces, justo antes de la intersección;
 
 46) Vehículo: Medio motorizado o no motorizado con el cual, sobre el cual o por el cual toda persona u objeto puede transportarse o ser transportado por una vía. Quedan excluidas de esta definición aquellas ayudas técnicas que permitan a personas con movilidad reducida o infantes, transportarse o ser transportados, tales como sillas de ruedas, motorizadas o no, coches para bebé y otros similares;
 
-47) Vehículo de emergencia: El perteneciente a Carabineros de Chile e Investigaciones, al Cuerpo de Bomberos, a las brigadas forestales de la Corporación Nacional Forestal, a las Fuerzas Armadas y las ambulancias de las instituciones fiscales o de los establecimientos particulares que tengan el respectivo permiso otorgado por la autoridad competente;
+47) Vehículo de emergencia: El perteneciente a Carabineros de Chile e Investigaciones, al Cuerpo de Bomberos, a las brigadas forestales de la Corporación Nacional Forestal, a las Fuerzas Armadas, al Servicio de Seguridad, Salvamento y Extinción de Incendios de la Dirección General de Aeronáutica Civil y las ambulancias de las instituciones fiscales o de los establecimientos particulares que tengan el respectivo permiso otorgado por la autoridad competente;
 
 48) Vehículo de locomoción colectiva: Vehículo motorizado, destinado al uso público, para el transporte remunerado de personas, exceptuados los taxis que no efectúen servicio colectivo;
 
@@ -264,7 +264,7 @@ Clase D: Para conducir maquinarias automotrices como tractores, sembradoras, cos
 
 Clase E: Para conducir vehículos a tracción animal, como carretelas, coches, carrozas y otros similares.
 
-Clase F: Para conducir vehículos motorizados de las Fuerzas Armadas, Carabineros de Chile, Policía de Investigaciones de Chile, de Gendarmería de Chile y Bomberos de Chile.
+Clase F: Para conducir vehículos motorizados de las Fuerzas Armadas, Carabineros de Chile, Policía de Investigaciones de Chile, de Gendarmería de Chile, del Servicio de Seguridad, Salvamento y Extinción de Incendios de la Dirección General de Aeronáutica Civil y Bomberos de Chile.
 
 El Ministerio de Transportes y Telecomunicaciones establecerá, mediante Reglamento, los cursos, exigencias y requisitos especiales que deberá exigir la Academia Nacional de Bomberos a sus postulantes, para otorgarles el certificado que los habilite para solicitar la licencia de conductor clase F.
 
@@ -848,7 +848,7 @@ El remolque de vehículos motorizados deberá efectuarse en las condiciones que 
 
 #### Artículo 62
 
-Los vehículos deberán reunir las características técnicas de construcción, dimensiones y condiciones de seguridad, comodidad, presentación y mantenimiento que establezca el Ministerio de Transportes y Telecomunicaciones, y no podrán exceder los pesos máximos permitidos por el Ministerio de Obras Públicas. En el caso específico de los vehículos pertenecientes a los Cuerpos de Bomberos, las características técnicas y pesos máximos permitidos deberán considerar a lo menos la necesidad de su adecuada y oportuna intervención en el auxilio de incendios y otros siniestros, sus especiales características funcionales y su flujo de circulación.
+Los vehículos deberán reunir las características técnicas de construcción, dimensiones y condiciones de seguridad, comodidad, presentación y mantenimiento que establezca el Ministerio de Transportes y Telecomunicaciones, y no podrán exceder los pesos máximos permitidos por el Ministerio de Obras Públicas. En el caso específico de los vehículos pertenecientes a los Cuerpos de Bomberos y de aquellos utilizados por el Servicio de Seguridad, Salvamento y Extinción de Incendios de la Dirección General de Aeronáutica Civil, las características técnicas y pesos máximos permitidos deberán considerar a lo menos la necesidad de su adecuada y oportuna intervención en el auxilio de incendios y otros siniestros, sus especiales características funcionales y su flujo de circulación.
 
 No podrán transitar los vehículos que excedan los pesos máximos permitidos.
 
@@ -986,7 +986,7 @@ El Ministerio de Transportes y Telecomunicaciones podrá determinar otras reglas
 
 Los vehículos motorizados deberán estar equipados, ajustados o carburados de modo que el motor no emita materiales o gases contaminantes en un índice superior a los permitidos.
 
-Quedarán exceptuados de lo dispuesto en el inciso anterior los vehículos pertenecientes a los Cuerpos de Bomberos.
+Quedarán exceptuados de lo dispuesto en el inciso anterior los vehículos pertenecientes a los Cuerpos de Bomberos y aquellos utilizados por el Servicio de Seguridad, Salvamento y Extinción de Incendios de la Dirección General de Aeronáutica Civil.
 
 Cuando Carabineros constate técnicamente que un vehículo ha superado dichos índices, podrá retirarlo de la circulación, poniéndolo a disposición del tribunal competente en los lugares habilitados por las Municipalidades, de los cuales únicamente podrá retirarlo con autorización del Juez, que la otorgará con el objeto de que el infractor solucione el problema de contaminación denunciado. En estos casos se aplicará el Artículo 156 de esta Ley.
 
@@ -2773,6 +2773,12 @@ Los conductores a que se refieren los incisos primero y segundo de este artícul
 Los titulares de licencias de conductor Clase A-1 otorgadas con anterioridad al 8 de marzo de 1997 y que mantengan su vigencia a la fecha de publicación de esta ley, podrán obtener directamente la licencia profesional Clase A-3. Asimismo, los titulares de licencias de conductor Clase A-2 otorgadas con anterioridad al 8 de marzo de 1997 y que mantengan su vigencia a la fecha de publicación de esta ley, podrán obtener directamente las licencias profesionales clases A-3 y A-5.
 
 En los casos aludidos en el inciso anterior, deberá acreditarse haber aprobado un curso de capacitación en la forma que determine el Ministerio de Transportes y Telecomunicaciones.
+
+#### Artículo transitorio
+
+Durante el primer año de vigencia de la presente ley, no será exigible a los conductores de los vehículos empleados por el Servicio de Seguridad, Salvamento y Extinción de Incendios de la Dirección General de Aeronáutica Civil, el contar con la licencia especial Clase F.
+
+> **Nota.** El numeral 5° de la Ley 21416, publicada el 14.02.2022, agrega un artículo transitorio nuevo a la presente norma, razón por la cual se ha incorporado a continuación del artículo 5° transitorio, al no señalarse lugar ni número que corresponde de acuerdo al texto publicado.
 
 Tómese razón, regístrese, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- René Cortázar Sanz, Ministro de Transportes y Telecomunicaciones.- Carlos Maldonado Curti, Ministro de Justicia.
 
