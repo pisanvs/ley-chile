@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº 153 EXENTO, DE 03.02.2022, DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la Ley 20.903, por el presente decreto exento se modifican los convenios suscritos con la Fundación Nacional del Comercio para la Educación - Comeduc, cuyo objeto fue delegar la administración de los establecimientos educacionales Liceo Técnico José María Narbona, RBD 9064-6, Liceo Técnico Clelia Clavel Dinator, RBD 8504-9, Liceo Comercial Luis Correa Prieto, RBD 8502-2, Liceo Técnico de Rancagua, RBD 2102-4; cuyos convenios fueron aprobados mediante los decretos N°s. 295, 296, 293, de 2002 y 299, de 2003, todos del Ministerio de Educación.- Santiago, 3 de febrero de 2022.-
+
+León Paul Castro, Subsecretario de Educación (S).
