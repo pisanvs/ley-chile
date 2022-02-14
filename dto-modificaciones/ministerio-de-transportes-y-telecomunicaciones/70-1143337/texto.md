@@ -76,7 +76,7 @@ La verificación del factor de transmisión regular de la luz y demás condicion
 
 #### Artículo 2°
 
-El presente decreto entrará en vigencia una vez publicado en el Diario Oficial. No obstante lo anterior, respecto de las Plantas de Revisión Técnica, la verificación del factor de transmisión regular de la luz grabado en el vidrio comenzará a efectuarse transcurridos veinte meses a contar de su publicación.
+El presente decreto entrará en vigencia una vez publicado en el Diario Oficial. No obstante lo anterior, respecto de las Plantas de Revisión Técnica, la verificación del factor de transmisión regular de la luz grabado en el vidrio comenzará a efectuarse transcurridos veintiséis meses a contar de su publicación.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
 

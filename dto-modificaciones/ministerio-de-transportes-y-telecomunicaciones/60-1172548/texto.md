@@ -1,0 +1,63 @@
+MODIFICA LOS DECRETOS SUPREMOS N° 22, DE 2006, Y N° 70, DE 2019, AMBOS DEL MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES, EN LOS SENTIDOS QUE INDICA
+
+Núm. 60.- Santiago, 16 de septiembre de 2021.
+
+Visto:
+
+Lo dispuesto en el artículo 32°, numeral 6°, de la Constitución Política de la República; en el decreto ley N° 557, de 1974, del Ministerio del Interior, que crea el Ministerio de Transportes; en el decreto con fuerza de ley N° 279, de 1960, del Ministerio de Hacienda, que fija normas sobre atribuciones del Ministerio de Economía en materia de transportes y reestructuración de la Subsecretaría de Transportes; en el decreto con fuerza de ley N° 343, de 1953, del Ministerio de Hacienda, que determina organización y atribuciones de la Subsecretaría de Transportes; en la ley N° 18.059, que asigna al Ministerio de Transportes y Telecomunicaciones el carácter de organismo rector nacional de tránsito y le señala atribuciones; en la Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, N° 18.575, cuyo texto refundido, coordinado y sistematizado fue fijado por el DFL N° 1-19.653, de 2000, del Ministerio Secretaría General de la Presidencia; en el decreto con fuerza de ley N° 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito; en la ley N° 21.147, que modifica el numeral 1 del artículo 75 de la Ley de Tránsito, relativo al uso de vidrios oscuros o polarizados en vehículos motorizados; en el decreto con fuerza de ley N° 3, de 2019, del Ministerio de Economía, Fomento y Turismo, que fija el texto refundido, coordinado y sistematizado de la ley N° 19.496, que establece normas sobre protección de los derechos de los consumidores; en la resolución N° 98, de 1986, del Ministerio de Transportes y Telecomunicaciones, que establece Clasificación Pullman para vehículos que indica y fija requisitos de dicha clasificación; en el decreto supremo N° 211, de 1991, que establece normas sobre emisiones de vehículos motorizados livianos; en el decreto supremo N° 38, de 1992, que reglamenta el transporte remunerado de escolares; en el decreto supremo N° 54, de 1994, que establece normas de emisión aplicables a vehículos motorizados medianos que indica; en el decreto supremo N° 55, de 1994, que establece normas de emisión aplicables a vehículos motorizados pesados que indica; en el decreto supremo N° 156, de 1990, que reglamenta revisiones técnicas y la autorización y funcionamiento de las plantas revisoras; en el decreto supremo N° 26, de 2000, que establece elementos de seguridad aplicables a vehículos motorizados; en el decreto supremo N° 38, de 2003; que crea y reglamenta el registro nacional de servicios de transporte remunerado de escolares; en el decreto supremo N° 22, de 2006, que dispone requisitos que deben cumplir los sistemas de frenos, luces, señalizadores, aparatos sonoros, vidrios, dispositivos de emergencia y rueda de repuesto con que deberán contar los vehículos motorizados; fija características a casco para ciclistas y reglamenta uso de teléfono celular en vehículos motorizados; en el decreto supremo N° 70, de 2019, que modifica en la forma que indica el decreto supremo N° 22, de 2006, todos del Ministerio de Transportes y Telecomunicaciones; en la resolución N° 48, de 2000, que dicta normas sobre elementos de seguridad de los vehículos livianos de pasajeros y comerciales, de Ministerio de Transportes y Telecomunicaciones; en el decreto supremo N° 4, del 5 de febrero de 2020, del Ministerio de Salud, que decreta alerta sanitaria por el período que se señala y otorga facultades extraordinarias que indica por Emergencia de Salud Pública de Importancia Internacional (ESPII) por brote del nuevo coronavirus (2019-NCOV), y sus modificaciones; en el decreto supremo N° 104, de 2020, del Ministerio del Interior y Seguridad Pública y sus modificaciones; los decretos supremos N° 37, de 1 de junio de 2020, y N° 14, de 23 de febrero de 2021, ambos del Ministerio de Transportes y Telecomunicaciones, que modifican el decreto supremo N° 70, de 2019, del mismo Ministerio, en la forma que indica; el oficio N° 18548 3CV, de 13 de agosto de 2021, de la División de Normas y Operaciones de la Subsecretaría de Transportes; la Carta S/N° de fecha 20 de agosto de 2021, de la Asociación Chilena de Empresas de Servicio de Revisión Vehicular; en la resolución N° 7, de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón y, en la demás normativa que resulte aplicable.
+
+Considerando:
+
+1.- Que, la ley N° 18.059, asigna al Ministerio de Transportes y Telecomunicaciones el carácter de Organismo Normativo Nacional, en materia de tránsito por calles, caminos y demás vías públicas o abiertas al uso público, facultándolo para dictar las normas necesarias en esta materia, para coordinar, evaluar y controlar su cumplimiento.
+
+2.- Que, de conformidad a lo dispuesto en el artículo 62 del decreto con fuerza de ley N° 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito, en adelante indistintamente "la Ley de Tránsito", los vehículos deberán reunir las características técnicas de construcción, dimensiones y condiciones de seguridad, comodidad, presentación y mantenimiento que establezca el Ministerio de Transportes y Telecomunicaciones.
+
+3.- Que, en conformidad con la ley N° 21.147, se modificó el párrafo primero, del número 1, del artículo 75 de la Ley de Tránsito, contemplando la dictación de un reglamento relativo al uso de vidrios oscuros o polarizados en vehículos motorizados. Así, mediante decreto supremo N° 70, de 2019, del Ministerio de Transportes y Telecomunicaciones, publicado en el Diario Oficial el 11 de marzo de 2020, se modificó el decreto supremo N° 22, de 2006, del mismo Ministerio, y se reglamentó el uso de vidrios de seguridad oscuros o polarizados en vehículos, a través de láminas.
+
+4.- Que, el decreto supremo N° 70, de 2019, ya citado, en su artículo 2 estableció que "El presente decreto entrará en vigencia una vez publicado en el Diario Oficial. No obstante, lo anterior, respecto de las Plantas de Revisión Técnica, la verificación del factor de transmisión regular de la luz grabado en el vidrio comenzará a efectuarse transcurridos seis meses a contar de su publicación.".
+
+5.- Que, razones asociadas a la crisis sanitaria provocada por la pandemia producto del virus del COVID-l9, obligaron a los países a la adopción de medidas de resguardo de la salud, que significaron restricciones de desplazamiento y afectaron el normal desarrollo de las actividades productivas y comerciales, es que mediante los decretos supremos N° 37 de 1 de junio de 2020 y N° 14 de 23 de febrero de 2021, se prorrogó el inicio de la verificación en las plantas de revisión técnica del factor de transmisión regular de la luz grabado en los vidrios, con ocasión de las revisiones periódicas, quedando fijado su inicio transcurridos veinte meses contados desde la publicación en el Diario Oficial del referido decreto supremo N° 70, de 2019, lo que ocurrirá el 11 de noviembre de 2021.
+
+6.- Que, sin perjuicio de lo anterior, habiéndose evaluado las distintas disposiciones introducidas por el citado decreto supremo N° 70, de 2019, a la luz del mercado existente, tanto en materia de láminas oscuras y/o polarizadas, como en el ámbito del instrumental y/o equipamiento apto para medir el índice de transparencia o factor de transmisión regular de la luz del conjunto vidrio/lámina, ha llevado a replantear la conveniencia de efectuar dichas mediciones en vehículos pesados, más aún habida consideración de lo señalado en la resolución N° 98, de 1986, del Ministerio de Transportes y Telecomunicaciones, que establece Clasificación Pullman para vehículos que indica y fija requisitos de dicha clasificación.
+
+7.- Que, en efecto, la medición factor de transmisión regular de la luz del conjunto vidrio/lámina en vehículos pesados significaría que las plantas revisoras debieran contar con elementos que permitan a los mecánicos revisores trabajar en altura, con los correspondientes riesgos que ello significa; por lo que tal exigencia podría implicar la contratación de seguros laborales y otros casos que redundarían, además, en las tarifas de este servicio.
+
+8.- Que, la instalación de láminas oscuras o polarizadas en los vidrios laterales o lunetas de los vehículos pesados, dada la altura de éstos, no afectan una adecuada visual del conductor, ni su fiscalización durante la conducción, en relación a su atención a las condiciones del tránsito.
+
+9.- Que, asimismo, en el caso de los vehículos de transporte escolar, regulados en el decreto supremo N° 38, de 2003, del Ministerio de Transportes y Telecomunicaciones, si bien es cierto que la total transparencia de los vidrios de seguridad brinda la certeza de que los pasajeros puedan ser perfectamente visibles desde el exterior, no es menos cierto que la flexibilización de la norma, en términos de permitir cierto grado de oscurecimiento, permitiría cumplir con el debido cuidado y protección de los escolares, a la vez acceder a otros beneficios que eventualmente pueda otorgar el uso de láminas, tales como el control de la temperatura y/o del traspaso de rayos UV en caso de contar con filtro, al interior del vehículo.
+
+10.- Que, los instaladores de láminas son quienes se encuentran en mejor posición para acreditar que las láminas que utilicen en el servicio que brindan, cumplan con los factores regulares de trasmisión de la luz que establece este decreto y/o cuenten con una certificación de inflamabilidad necesaria.
+
+11.- Que, a mayor abundamiento, mediante Carta S/N° de fecha 20 de agosto de 2021, don Luis Arellano Sanhueza, en representación de la Asociación Chilena de Empresas de Servicio de Revisión Vehicular, expuso, entre otros aspectos, sobre las dificultades advertidas por sus asociados para encontrar y adquirir equipamiento que cumpla con los requerimientos de este Ministerio, habida consideración que la pandemia global ha afectado negativamente la posibilidad de gestionar en forma ágil la obtención de equipos de muestra o testeo para la realización de pruebas, lo cual es previo a la planificación de una implementación y capacitación del personal técnico de las plantas revisoras.
+
+12.- Que, consecuentemente, se procederá a modificar los decretos supremos N° 22, de 2006 y N° 70, de 2019, ambos del Ministerio de Transportes y Telecomunicaciones.
+
+Decreto:
+
+#### Artículo 1°
+
+Modifícase el artículo 16° del decreto supremo N° 22, de 2006, del Ministerio de Transportes y Telecomunicaciones, en los siguientes términos:
+
+a) Elimínase en el inciso segundo, la expresión "livianos, medianos y pesados".
+
+b) Reemplázase en el inciso segundo la frase "Las láminas instaladas en la luneta trasera de los vehículos no podrán obstaculizar la plena visual de la superficie luminosa efectiva de la tercera luz de freno." por la siguiente "Las láminas instaladas en la luneta trasera de los vehículos livianos y medianos no podrán obstaculizar la plena visual de la superficie luminosa efectiva de la tercera luz de freno.".
+
+c) Elimínase el inciso tercero, pasando, por tanto, el actual inciso cuarto a ser el nuevo inciso tercero y así sucesivamente.
+
+d) Reemplázase en el actual inciso cuarto, que pasa a ser el nuevo inciso tercero, la "TABLA FACTORES MÍNIMOS DE TRANSMISIÓN REGULAR DE LA LUZ", por la siguiente:
+
+"TABLA FACTORES MÍNIMOS DE TRANSMISIÓN REGULAR DE LA LUZ
+
+e) Reemplázase el actual inciso quinto, que pasa a ser el nuevo inciso cuarto, por el siguiente:
+
+"El instalador de la(s) lámina(s) será responsable que el conjunto vidrio/lámina cumpla con los factores de transmisión regular de la luz que establece este decreto; asimismo, será responsable que las láminas que instale cuenten con una certificación de flamabilidad necesaria, aplicándose al respecto las normas relativas a las obligaciones de los proveedores dispuestas en la ley N° 19.496, que establece normas sobre protección de los derechos de los consumidores.".
+
+f) Elimínase el actual inciso sexto y final.
+
+#### Artículo 2°
+
+Reemplázase en el artículo 2°, del decreto supremo N° 70, de 2019, del Ministerio de Transportes y Telecomunicaciones, la expresión "veinte meses" por "veintiséis meses".
+
+Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Ximena Betancour Muñoz, Subsecretaria de Transportes (S).

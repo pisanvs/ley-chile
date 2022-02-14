@@ -150,9 +150,7 @@ Los buses que cumplan con el artículo 7º del Decreto Supremo Nº 122 de 1992 d
 
 Los vidrios de los vehículos livianos, medianos y pesados, definidos en los Decretos Supremos Nºs. 211, de 1991, y 54 y 55, de 1994, todos del Ministerio de Transportes y Telecomunicaciones deberán cumplir con las normas de seguridad que se describen en la Resolución Nº 48, de 2000, del mismo Ministerio. Dicha exigencia será obligatoria para los vehículos cuyo año de fabricación anotado en el Registro Nacional de Vehículos Motorizados del Servicio de Registro Civil e Identificación, sea 2007 o posterior. Los vehículos, cualquiera sea el año de fabricación anotado en el Registro Nacional de Vehículos Motorizados del Servicio de Registro Civil e Identificación y que de fábrica cuenten con vidrios de seguridad que cumplan con alguna de las normas de la Resolución 48/2000 citada y cuyo texto disponga la posibilidad de usar vidrios oscurecidos, podrán utilizar estos últimos siempre que se trate de vidrios distintos al parabrisas y de los vidrios de las puertas delanteras, cuando se trate de vehículos livianos y medianos, y de los de visión directa del conductor, en el caso de los vehículos pesados.
 
-Los vehículos livianos, medianos y pesados que cuenten con espejos exteriores en ambos lados de la carrocería, podrán contar con vidrios oscuros o polarizados, a través de la instalación de láminas no reflectivas, ni metálicas, ni espejadas, adheridas en la superficie interna de los vidrios, siempre que no se trate del parabrisas, ni de aquellos vidrios oscurecidos que de fábrica estén permitidos, conforme al inciso anterior. Las láminas deberán adherirse en un solo paño por vidrio e instalarse de modo que no queden imperfecciones o cualquier otro elemento que dificulte la plena visual. Las láminas instaladas en la luneta trasera de los vehículos no podrán obstaculizar la plena visual de la superficie luminosa efectiva de la tercera luz de freno. Las láminas no podrán ser de color ámbar, amarillo, rojo, o azul, ni de cualquiera de sus matices.
-
-Se exceptúan de la aplicación de la norma del inciso anterior, los vehículos de transporte de escolares regulados en el decreto supremo N° 38 de 2003, del Ministerio de Transportes y Telecomunicaciones, que Crea y Reglamenta el Registro Nacional de Servicios de Transporte Remunerado de Escolares.
+Los vehículos que cuenten con espejos exteriores en ambos lados de la carrocería, podrán contar con vidrios oscuros o polarizados, a través de la instalación de láminas no reflectivas, ni metálicas, ni espejadas, adheridas en la superficie interna de los vidrios, siempre que no se trate del parabrisas, ni de aquellos vidrios oscurecidos que de fábrica estén permitidos, conforme al inciso anterior. Las láminas deberán adherirse en un solo paño por vidrio e instalarse de modo que no queden imperfecciones o cualquier otro elemento que dificulte la plena visual. Las láminas instaladas en la luneta trasera de los vehículos livianos y medianos no podrán obstaculizar la plena visual de la superficie luminosa efectiva de la tercera luz de freno. Las láminas no podrán ser de color ámbar, amarillo, rojo, o azul, ni de cualquiera de sus matices.
 
 El conjunto vidrio/lámina deberá tener un factor de transmisión regular de la luz o índice de transparencia entendiéndose como tal el nivel de transmisión luminosa, expresado en porcentaje (cociente entre el flujo luminoso transmitido y el flujo incidente, multiplicado por 100), según se dispone en la tabla que a continuación se indica, dependiendo del tipo de vehículo y vidrio de que se trate, valor que deberá ser grabado en la lámina mediante la incorporación de un sello en relieve e indeleble en el que se indicará, además, el nombre y RUT del instalador, de modo que esta información pueda ser leída desde el exterior del vehículo.
 
@@ -160,29 +158,7 @@ TABLA FACTORES MÍNIMOS DE TRANSMISIÓN REGULAR DE LA LUZ
 
 .
 
-El instalador de la(s) lámina(s) deberá entregar al interesado un certificado digital, el que podrá contar con firma electrónica avanzada, el cual deberá portarse al interior del vehículo, que indique, a lo menos, la siguiente información:
-
-1. Placa patente única del vehículo en el que instaló la(s) lámina(s).
-
-2. Emisor y N° de certificado de flamabilidad de la lámina.
-
-3. Certificación, en caso de contar con filtro UV.
-
-4. El factor de transmisión regular de la luz del conjunto vidrio/lámina.
-
-5. Razón social o nombre del instalador, según se trate de personas jurídicas o naturales.
-
-6. Rol único tributario o cédula nacional de identidad del instalador, según se trate de personas jurídicas o naturales.
-
-7. Domicilio, dirección de correo electrónico y teléfono de contacto del instalador.
-
-8. Fecha de instalación de la(s) lámina(s).
-
-9. Vidrios a los cuales se les instaló la lámina.
-
-10. Firma y timbre del instalador.
-
-Lo anterior, es sin perjuicio de las obligaciones de los proveedores dispuestas en la ley N° 19.496, que establece normas sobre protección de los derechos de los consumidores.
+El instalador de la(s) lámina(s) será responsable que el conjunto vidrio/lámina cumpla con los factores de transmisión regular de la luz que establece este decreto; asimismo, será responsable que las láminas que instale cuenten con una certificación de flamabilidad necesaria, aplicándose al respecto las normas relativas a las obligaciones de los proveedores dispuestas en la ley N° 19.496, que establece normas sobre protección de los derechos de los consumidores.
 
 #### Artículo 16° bis
 
