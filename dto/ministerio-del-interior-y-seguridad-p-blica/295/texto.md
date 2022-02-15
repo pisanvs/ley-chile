@@ -46,6 +46,8 @@ De manera excepcional se permitirá el ingreso de extranjeros no residentes en e
 
 4. Desde el 4 de enero de 2022, el paso fronterizo terrestre de Los Libertadores, en la Región de Valparaíso.
 
+5. Desde el 16 de febrero hasta el 28 de febrero de 2022, el paso fronterizo terrestre Cardenal Samoré, en la Región de Los Lagos, exclusivamente para el ingreso de personas que hayan salido del país por el paso fronterizo terrestre de Futaleufú, en la Región de Los Lagos, en las últimas 18 horas
+
 La medida excepcional dispuesta en el inciso primero no afectará a los nacionales chilenos, ni a los extranjeros residentes de manera regular en el territorio nacional, que ingresen al territorio nacional, quienes de conformidad con los protocolos e instrucciones de la autoridad, podrán ingresar al país sometiéndose a los procedimientos sanitarios pertinentes por los lugares habilitados individualizados en el inciso anterior.
 
 Cualquier persona que ingrese al territorio nacional, deberá sujetarse a los protocolos e instrucciones de la autoridad y someterse a los procedimientos sanitarios que establezca la autoridad sanitaria.
@@ -109,6 +111,8 @@ Las medidas dispuestas en este decreto regirán a contar de las 00:00 horas del 
 > **Nota.** El artículo segundo del Decreto 320, Interior, publicado el 31.12.2021, dispone extender hasta el 31 de enero de 2022 la vigencia del presente decreto. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
 
 > **Nota.** NOTA 1 El artículo segundo del Decreto 21, Interior, publicado el 31.01.2022, dispone extender hasta el 28 de febrero de 2022 la vigencia del presente decreto. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
+
+> **Nota.** NOTA 2 > El artículo segundo del Decreto 34, Interior, publicado el 16.02.2022, dispone extender hasta el 31 de marzo de 2022 la vigencia del presente decreto. Lo anterior, sin perjuicio que éste pueda ser modificado, en atención a la evolución que experimente el brote de COVID-19, en el territorio nacional.
 
 #### Artículo sexto
 
