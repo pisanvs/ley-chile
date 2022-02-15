@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 451 de fecha 5 de noviembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Carlos Alberto Gallardo Vásquez, RUT Nº 15.976.313-7, Concesión Marítima Menor, con vencimiento el 31 de diciembre de 2026, sobre un sector de terreno de playa en el lugar denominado Flamenco, comuna de Chañaral, Provincia de Chañaral, Región de Atacama, con una superficie total de 375 m2, la que fue tramitada con el SIABC Nº 39.056. A modo referencial se señalan las siguientes coordenadas geográficas: Vértice A: Lat. 26º34'8.85"S Long. 70º40'54.56"W y Vértice D: Lat. 26º34'9.30"S Long. 70º40'54.74"W. El objeto consiste en amparar la construcción de una casa para destinarla a veraneo familiar. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Nicolás Soto Contreras, Teniente 1º LT, Capitán de Puerto de Chañaral.
