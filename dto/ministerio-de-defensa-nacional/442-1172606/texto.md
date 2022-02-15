@@ -1,0 +1,5 @@
+SEGUNDA RENOVACIÓN CON MODIFICACIÓN CONCESIÓN MARÍTIMA MAYOR
+
+DS N° 442, 5 noviembre 2021, Ministerio de Defensa Nacional otorgó a Jorge Eduardo Araneda Philp, chileno, viudo, factor de comercio, RUT 6.191.696-2 domiciliado Ranco N° 49-B, Viña del Mar, segunda renovación con modificación concesión marítima mayor, SIABC N° 39930, sector playa, playa Reñaca (sector cinco), comuna Viña del Mar, Provincia y Región de Valparaíso, superficie 234 m2. Objeto: Continuar amparando sector playa destinado explotación comercial con infraestructura y equipos atención público temporada verano; construcción mirador abierto libre acceso público y cúpula cristal transparente destinada cafetería-bar todo el año e instalación jardines y muretes, coordenada inicial vértice "A" latitud 32°58'14,165"S. y longitud 071°32'42,733"O. Antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto Valparaíso.-
+
+Visación Capitán de Puerto de Valparaíso, Capitán de Fragata LT Ricardo Barrios Iturría.
