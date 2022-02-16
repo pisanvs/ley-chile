@@ -1,0 +1,5 @@
+PROHÍBE CIRCULACIÓN DE VEHÍCULOS MOTORIZADOS EN LA VÍA/S QUE SE INDICA
+
+Por resolución exenta Nº 212, de fecha 3 de febrero de 2022, del Gobierno Regional del Biobío, se modificó Res. Ex. Nº 686 de 31/12/2021 del Gobierno Regional del Biobío, en el sentido de señalar que se prohíbe la circulación de vehículos motorizados en calle Freire, entre calle La Concepción y calle Bulnes; y calle Bulnes, entre calle Freire y calle Irarrázabal, a contar del día 02/02/2022 desde las 9:00 horas y hasta el día 06/02/2022 hasta las 17:00 horas, a fin de facilitar el acceso a "Feria Costumbrista del Choclo Año 2022" y la consecuente instalación de escenario y usos de calzada para tránsito peatonal. Los vehículos motorizados del Servicio de Transporte Público que utilicen la vía afectada en su recorrido habitual, deberán adoptar el desvío dispuesto al efecto por el municipio y aprobado por la Seremitt. La resolución exenta con su texto íntegro se encuentra disponible en el sitio electrónico de "Gobierno Transparente" del Gobierno Regional del Biobío.
+
+Autoriza extracto.- Óscar Ferrel Bustos, Jefe División de Infraestructura y Transporte, Gobierno Regional del Biobío.
