@@ -1,0 +1,5 @@
+APRUEBA CONTRATO DE ARRENDAMIENTO DE FECHA 15.12.2021, SUSCRITO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA SOCIEDAD CHILENA INVERSIONES RIVALCA LIMITADA, RESPECTO DE LA PROPIEDAD DE ESTE INSTITUTO UBICADA EN CALLE 21 DE MAYO Nº 385, COMUNA Y CIUDAD DE ARICA, REGIÓN ARICA Y PARINACOTA
+
+Por resolución exenta I Nº 3, de 25 de enero de 2022, el Jefe del Departamento Administración e Inmobiliaria del Instituto de Previsión Social, aprueba el "Contrato de Arrendamiento", suscrito con fecha 15 de diciembre de 2021, entre el Instituto de Previsión Social e Inversiones Rivalca Limitada, RUT Nº76.577.170-6, por medio del cual este Instituto entrega en arriendo a la citada parte arrendataria, la superficie de 96,90 mts2, correspondiente al "lote A," o "local 1", del inmueble ubicado en calle 21 de Mayo Nº 385, comuna y ciudad de Arica.-
+
+Eduardo Cofré Arredondo, Jefe del Departamento Administración e Inmobiliaria.
