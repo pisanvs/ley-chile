@@ -1,0 +1,5 @@
+PROHÍBE CIRCULACIÓN DE VEHÍCULOS MOTORIZADOS EN LA VÍA/S QUE SE INDICA
+
+Por resolución exenta Nº 213, de fecha 3 de febrero de 2022, del Gobierno Regional del Biobío, se dispuso la prohibición de circulación de vehículos motorizados en calle Manera entre calles Avenida Matta (poniente) y Arturo Prat todos los días martes y jueves entre las 8:30 y las 11:00 horas, a contar de la fecha de la presente resolución y hasta el 25 de mayo de 2023, a fin de implementar un circuito para toma de exámenes prácticos para conducción Clase C y CR. Los vehículos motorizados que en su trayecto utilicen la vía afectada, deberán adoptar vías alternativas para el tránsito por el sector. La resolución exenta con su texto íntegro se encuentra disponible en el sitio electrónico de "Gobierno Transparente" del Gobierno Regional del Biobío.
+
+Autoriza extracto.- Óscar Ferrel Bustos, Jefe División de Infraestructura y Transporte, Gobierno Regional del Biobío.
