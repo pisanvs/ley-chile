@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LA ACTIVIDAD DE "CONDUCTOR (CAMIÓN DE CARGA)" DESARROLLADA PARA LOS EMPLEADORES "TRANSPORTES LOS CONQUISTADORES S.A." Y "TRANSPORTES TRAMACA CARGO LTDA. EN CONTINUIDAD DE GIRO"; Y COMO TRABAJO NO PESADO, LA LABOR DE "CONDUCTOR (LOCOMOCIÓN COLECTIVA)", DESARROLLADA PARA LOS EMPLEADORES "JOSÉ MANUEL PINTO ZAMORANO" Y "GLADYS PÉREZ AGUILERA"
+
+Por resolución exenta Nº 15, de 14 de enero de 2022, el Director Nacional del Instituto de Previsión Social, califica como Trabajo Pesado, la labor de "Conductor (Camión de Carga)" desempeñada para los empleadores "Transportes Los Conquistadores S.A.", y "Transportes Tramaca Cargo Ltda. en continuidad de giro", correspondiendo aplicar una rebaja de edad de 1x5 (un año por cada cinco años de labores pesadas), beneficio que le permite impetrar su jubilación por vejez, con rebaja en la edad y rechaza la solicitud de calificar como Trabajo Pesado la labor de "Conductor (Locomoción Colectiva)" desempeñada para los empleadores "José Manuel Pinto Zamorano" y "Gladys Pérez Aguilera".-
+
+Patricio Coronado Rojo, Director Nacional.
