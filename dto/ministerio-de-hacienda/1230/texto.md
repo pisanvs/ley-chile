@@ -20,15 +20,17 @@ Habilítanse los puntos que se indican, en forma permanente, temporal u ocasiona
 
 A. SUJETOS A LA JURISDICCION DE LA ADUANA DE ARICA:
 
-Punto Habilitado Habilitación Operaciones
+Punto Habilitación Operaciones
 
-aduaneras
+Habilitado aduaneras
 
-1.Puerto de Arica Permanente Paso de
+1.Puerto Permanente Paso de
 
-personas y
+de Arica personas
 
-todo tipo de
+y todo
+
+tipo de
 
 operaciones
 
@@ -36,9 +38,11 @@ aduaneras.
 
 2.Aeropuerto Permanente Paso de
 
-Internacional personas y
+Internacional personas
 
-Chacalluta todo tipo de
+Chacalluta y todo
+
+tipo de
 
 operaciones
 
@@ -46,9 +50,11 @@ aduaneras.
 
 3.Estación Permanente Paso de
 
-Ferrocarril personas y
+Ferrocarril personas
 
-Arica-Tacna todo tipo de
+Arica-Tacna y todo
+
+tipo de
 
 operaciones
 
@@ -56,9 +62,11 @@ aduaneras.
 
 4.Estación Permanente Paso de
 
-Ferrocarril personas y
+Ferrocarril personas
 
-Arica-La Paz todo tipo de
+Arica-La Paz y todo
+
+tipo de
 
 operaciones
 
@@ -66,45 +74,51 @@ aduaneras.
 
 5.Paso Visviri Permanente Paso de
 
-17º35'S personas y
+17º35'S personas
 
-69º28'W todo tipo de
+69º28'W y todo
+
+tipo de
 
 operaciones
 
 aduaneras.
 
-6.Paso Portezuelo Permanente Paso de
+6.Paso Permanente Paso de
 
-de Tambo personas y
+Portezuelo personas
 
-Quemado todo tipo de
+de Tambo y todo
+
+Quemado tipo de
 
 18º16'S operaciones
 
 69º04'W aduaneras
 
-7.Paso Concordia Permanente Paso de
+7.Paso Permanente Paso de
 
-18º18'S personas y
+Concordia personas
 
-70º19'W odo tipo de
+18º18'S y todo
+
+70º19'W tipo de
 
 operaciones
 
 aduaneras.
 
-8.Paso Laguna Permanente Paso de
+8.Paso Permanente Paso de
 
-Blanca/El Ayro funcionario,
+Laguna funcionario,
 
-17º39'23"S técnicos y
+Blanca/ técnicos y
 
-69º40'34"W trabajadores
+El Ayro trabajadores
 
-así como
+17º39'23"S así como
 
-vehículos,
+69º40'34"W vehículos,
 
 maquinarias,
 
@@ -1080,171 +1094,319 @@ líquidos y gaseosos
 
 K. SUJETOS A LA JURISDICCION DE LA ADUANA DE TALCAHUANO:
 
-Punto Habilitado Habilitación Operaciones aduaneras
+Punto Habilitación Operaciones
 
-1.Aeródromo General Ocasional Paso de personas
+Habilitado aduaneras
 
-Freire (Curicó) y todo tipo de
+1.Aeródromo Ocasional Paso de
 
-operaciones aduaneras.
+General personas
 
-2.Paso Vergara Temporal Paso de personas y
+Freire y todo
 
-35º12'S operaciones de admisión
+(Curicó) tipo de
 
-70º31'W y salida temporal de
+operaciones
 
-mercancías por
+aduaneras.
+
+2.Paso Temporal Paso de
+
+Vergara personas y
+
+35º12'S operaciones
+
+70º31'W de admisión
+
+y salida
+
+temporal de
+
+mercancías
+
+por
 
 turistas.
 
-3.Paso Pehuenche Permanente Paso de personas
+3.Paso Permanente Paso de
 
-35º58'S y todo tipo de
+Pehuenche personas
 
-70º23'W operaciones aduaneras.
+35º58'S y todo
 
-4.Aeródromo General Ocasional Paso de personas
+70º23'W tipo de
 
-Bernardo O'Higgins y todo tipo de
+operaciones
 
-(Chillán) operaciones aduaneras.
+aduaneras.
 
-5.Puerto de Lirquén Permanente Paso de personas y
+4.Aeródromo Ocasional Paso de
 
-todo tipo de
+General personas
 
-operaciones aduaneras.
+Bernardo y todo
 
-6.Puerto de Penco Permanente Paso de personas y
+O'Higgins tipo de
 
-todo tipo de
+(Chillán) operaciones
 
-operaciones aduaneras.
+aduaneras.
 
-7.Molo 500 Base Naval Ocasional Paso de personas y
+5.Puerto Permanente Paso de
 
-todo tipo de
+de Lirquén personas
 
-operaciones aduaneras.
+y todo
 
-8.Puerto de Permanente Paso de personas y
+tipo de
 
-San Vicente todo tipo de
+operaciones
 
-operaciones aduaneras.
+aduaneras.
 
-9.Puerto de Permanente Paso de personas y
+6.Puerto Permanente Paso de
 
-Talcahuano todo tipo de
+de Penco personas
 
-operaciones aduaneras.
+y todo
 
-10.Muelle Huachipato Permanente Paso de personas y
+tipo de
 
-todo tipo de
+operaciones
 
-operaciones aduaneras.
+aduaneras.
 
-11.Aeropuerto Carriel Permanente Paso de personas y
+7.Molo 500 Ocasional Paso de
 
-Sur (Concepción) todo tipo de
+Base personas y
 
-operaciones aduaneras.
+Naval todo tipo
 
-12.Puerto de Coronel Permanente Paso de personas
+de operaciones
 
-y todo tipo de
+aduaneras.
+
+8.Puerto de Permanente Paso de
+
+San Vicente personas
+
+y todo
+
+tipo de
+
+operaciones
+
+aduaneras.
+
+9.Puerto de Permanente Paso de
+
+Talcahuano personas
+
+y todo
+
+tipo de
+
+operaciones
+
+aduaneras.
+
+10.Muelle Permanente Paso de
+
+Huachipato personas
+
+y todo
+
+tipo de
+
+operaciones
+
+aduaneras.
+
+11.Aeropuerto Permanente Paso de
+
+Carriel todo tipo
+
+Sur de personas
+
+(Concepción) y operaciones
+
+aduaneras.
+
+12.Puerto de Permanente Paso de
+
+Coronel personas
+
+y todo
+
+tipo de
 
 operaciones
 
 aduaneras
 
-13.Puerto de Lota Ocasional Paso de personas y
+13.Puerto Ocasional Paso de
 
-operaciones de
+de Lota personas y
 
-exportación y
+operaciones
 
-rancho de naves.
+de exportación
 
-14.Paso Pichachén Permanente Paso de personas y
+y rancho
 
-30º27'S todo tipo de
+de naves.
 
-71º07'W operaciones aduaneras.
+14.Paso Permanente Paso de
 
-15.Paso Copahue Temporal Paso de personas y
+Pichachén personas
 
-37º49'S operaciones de admisión
+30º27'S y todo
 
-71º07'W y salida temporal de
+71º07'W tipo de
 
-mercancías por
-
-turistas.
-
-16.Lonquimay Permanente Paso de personas y
-
-todo tipo de
-
-operaciones aduaneras.
-
-17.Paso Pino Hachado Permanente Paso de personas y todo
-
-38º40'S tipo de operaciones
-
-70º53'W aduaneras, controladas
-
-en punto Lonquimay.
-
-18.Aeródromo Permanente Paso de personas
-
-Manquehue y todo tipo de
-
-operaciones aduaneras.
-
-19.Paso Icalma Permanente Paso de personas y todo
-
-36º50'S tipo de operaciones
-
-71º16'W aduaneras, controladas
-
-en punto Lonquimay.
-
-20.Pucón Permanente Paso de personas y todo
-
-tipo de operaciones
+operaciones
 
 aduaneras.
 
-21.Paso Mamuil Malal Permanente Paso de personas y todo
+15.Paso Temporal Paso de
 
-39º35'S tipo de operaciones
+Copahue personas y
 
-71º27'W aduaneras, controladas
+37º49'S operaciones
 
-en punto Pucón.
+71º07'W de admisión
 
-22.Terminal Marítimo Ocasional Paso de personas y todo
+y salida
 
-Escuadrón tipo de operaciones
+temporal de
 
-aduaneras de graneles
+mercancías
 
-líquidos y rancho de
+por turistas.
 
-naves.
+16.Lonquimay Permanente Paso de
 
-23.Paso Buta Mallin Permanente Paso de personas e
+personas
+
+y todo
+
+tipo de
+
+operaciones
+
+aduaneras.
+
+17.Paso Pino Permanente Paso de
+
+Hachado personas
+
+38º40'S y todo
+
+70º53'W tipo de
+
+operaciones
+
+aduaneras,
+
+controladas
+
+en punto
+
+Lonquimay.
+
+18.Aeródromo Permanente Paso de
+
+Manquehue personas
+
+y todo
+
+tipo de
+
+operaciones
+
+aduaneras.
+
+19.Paso Permanente Paso de
+
+Icalma personas
+
+36º50'S y todo
+
+71º16'W tipo de
+
+operaciones
+
+aduaneras,
+
+controladas
+
+en punto
+
+Lonquimay.
+
+20.Pucón Permanente Paso de
+
+personas y
+
+todo tipo
+
+de operaciones
+
+aduaneras.
+
+21.Paso Permanente Paso de
+
+Mamuil personas
+
+Malal y todo
+
+39º35'S tipo de
+
+71º27'W operaciones
+
+aduaneras,
+
+controladas
+
+en punto
+
+Pucón.
+
+22.Terminal Ocasional Paso de
+
+Marítimo personas
+
+Escuadrón y todo
+
+tipo de
+
+operaciones
+
+aduaneras
+
+de graneles
+
+líquidos
+
+y rancho
+
+de naves.
+
+23.Paso Buta Permanente Paso de
+
+Mallin personas e
 
 37º12'24" importación,
 
-71º07'06" exportación y
+71º07'06" exportación
 
-tránsito de graneles
+y tránsito
 
-líquidos y gaseosos.
+de graneles
+
+líquidos
+
+y gaseosos.
 
 24. Paso de Temporal Paso de
 
@@ -1271,6 +1433,12 @@ aduaneras
 Industrial de importación
 
 Cabo Froward y exportación.
+
+27. Estación Permanente Importación
+
+de Medición de gas
+
+Recinto natural.
 
 L. SUJETOS A LA JURISDICCION DE LA ADUANA DE VALDIVIA:
 
