@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 96 EXENTA, DE 11 DE ENERO DE 2022
+
+Mediante resolución exenta Nº 96, de 11 de enero de 2022, el Servicio Nacional de Capacitación y Empleo, declara el cese a contar del 19 de diciembre de 2021, de la inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "Instituto Formador de Capacitación y Nivelación IFCN Miguel Adolfo Rivas Pérez E.I.R.L. (Instituto Formador de Capacitación y Nivelación IFCN Miguel Adolfo Rivas Pérez E.I.R.L.)", Rut. 76.461.302-3 contenida en la resolución exenta Nº 1721 de 13 de abril de 2015, por cuanto dejó de cumplir con el requisito establecido en el Nº 2, del Art. 21 de la ley 19.518.
+
+Santiago, 11 de enero de 2022.- Andrea del Carmen Contreras Cuéllar, Jefa del Departamento de Desarrollo y Regulación de Mercado Servicio Nacional de Capacitación y Empleo.
