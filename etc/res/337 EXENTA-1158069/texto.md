@@ -162,8 +162,4 @@ Los honorarios correspondientes a la tabla precedente se pagarán según lo esta
 
 27. En todo aquello no regulado por el presente llamado, se aplicarán las disposiciones contenidas en el decreto supremo N° 27 (V. y U.), de 2016.
 
-> **Nota.** El número 1º de la Resolución 283 Exenta, Vivienda, publicada el 16.03.2022, modifica la presente norma en el sentido de disminuir los recursos disponibles para efectuar la selección de proyectos, establecidos en el Resuelvo 13 de la presente resolución, en la forma que indica el cuadro inserto de la citada norma.
-
-> **Nota.** NOTA 1 La letra A) de la Resolución 368 Exenta, Vivienda, publicada el 08.04.2022, modifica la presente norma en el sentido de disminuir los recursos disponibles para efectuar la selección de proyectos, establecidos en el Resuelvo 13 de la presente resolución, en la forma que indica el cuadro inserto de la citada norma.
-
 Anótese, publíquese en el Diario Oficial y archívese.- Manuel José Errázuriz Tagle, Secretario Regional Ministerial Metropolitano de Vivienda y Urbanismo.
