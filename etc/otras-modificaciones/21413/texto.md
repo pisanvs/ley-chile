@@ -48,6 +48,6 @@ Agrégase el siguiente párrafo segundo en el numeral 3.° del artículo 494 del
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 
-Santiago, 24 de enero de 2021.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- María Teresa Valenzuela Bravo, Ministra de Salud (S).- Alfonso Vargas Lyng, Ministro de Defensa Nacional (S).- Hernán Larraín Fernández, Ministro de Justicia y Derechos Humanos.- Javier Naranjo Solano, Ministro del Medio Ambiente.
+Santiago, 24 enero 2022.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- María Teresa Valenzuela Bravo, Ministra de Salud (S).- Alfonso Vargas Lyng, Ministro de Defensa Nacional (S).- Hernán Larraín Fernández, Ministro de Justicia y Derechos Humanos.- Javier Naranjo Solano, Ministro del Medio Ambiente.
 
 Transcribo para su conocimiento Ley Nº 21.413 - 24 enero de 2022.- Por orden de la Subsecretaria de Salud Pública.- Saluda atentamente a Ud., Marcelo Pacheco Olivares, Jefe (S) de la División Jurídica, Ministerio de Salud.
