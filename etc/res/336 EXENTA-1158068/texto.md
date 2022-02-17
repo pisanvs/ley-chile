@@ -34,11 +34,7 @@ Plazos para 1º proceso postulación y selección:
 
 Plazos para 2º proceso postulación y selección:
 
-.
-
 Plazos para 3º proceso postulación y selección:
-
-.
 
 Del mismo modo, el período de presentación de Proyectos podrá extenderse dentro del plazo de Revisión y Calificación de Proyectos, para el 2º y 3º proceso de postulación y selección.
 
