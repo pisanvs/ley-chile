@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 45 EXENTA, DE 5 DE ENERO DE 2022
+
+Mediante resolución exenta N° 45, de 5 de enero de 2022, el Servicio Nacional de Capacitación y Empleo, declara el cese a contar del 17 de diciembre de 2021, de la inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "Servicios de Capacitación Josías Miguel Brown Fuenzalida E.I.R.L (Servicios de Capacitación Josías Miguel Brown Fuenzalida E.I.R.L.)", RUT 76.055.686-6, contenida en la resolución exenta N° 6.873, de 14 de julio de 2010, por cuanto dejó de cumplir con el requisito establecido en el N° 2, del Art. 21 de la ley 19.518.
+
+Santiago, 5 de enero de 2022.- Andrea del Carmen Contreras Cuéllar, Jefe del Departamento de Desarrollo y Regulación de Mercado, Servicio Nacional de Capacitación y Empleo.
