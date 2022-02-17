@@ -38,7 +38,7 @@ c) Los correos electrónicos de fecha 18 de febrero y 8 de marzo de 2021, que da
 
 Resolución:
 
-1. Autorízase al Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Tarapacá a realizar un Llamado Regional en Condiciones Especiales, a través del Programa de Protección del Patrimonio Familiar, regulado por el DS N° 255 (V. y U.), de 2006, destinado a la atención de condominios de viviendas sociales y/o económicas en las proporciones que estime la región, por un máximo de 220.000 U.F., las cuales se deducirán del programa de subsidios para la Región de Tarapacá destinados a Condominios de Viviendas Sociales, DS N° 255 (V. y U.), de 2006.
+1. Autorízase al Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Tarapacá a realizar un Llamado Regional en Condiciones Especiales, a través del Programa de Protección del Patrimonio Familiar, regulado por el DS N° 255 (V. y U.), de 2006, destinado a la atención de condominios de viviendas sociales y/o económicas en las proporciones que estime la región, por un máximo de 228.407,21 U.F., las cuales se deducirán del programa de subsidios para la Región de Tarapacá destinados a Condominios de Viviendas Sociales, DS N° 255 (V. y U.), de 2006.
 
 2. El llamado deberá exigir la acreditación de la condición de suelo salino, o bien, dirigirse específicamente a zonas en que dicha condición esté acreditada institucionalmente. Deberá emplear como monto máximo de subsidio unitario por unidad habitacional hasta 272 U.F., financiamiento que deberá estar dirigido a obras en bienes comunes pudiendo considerar como parte de ellas las partidas dirigidas a la reposición de elementos constructivos de los bienes exclusivos cuando las obras en bienes comunes los afecten.
 
@@ -84,7 +84,7 @@ g. De lo establecido en las letras c) y d) del artículo 21, respecto a la prese
 
 h. De lo establecido en el artículo 47, letras c), d) y f), correspondiente al Reglamento de Copropiedad y Acta de Asamblea que designa al Comité de Administración, al presidente, y al administrador, y que aprueba proyectos en bienes comunes en conformidad a la ley N° 19.537, respectivamente.
 
-9. Se deberán establecer dos fechas de selección de proyectos, cuyos plazos máximos serán el 30 de septiembre y el 30 de noviembre, ambos de 2021.
+9. Se deberán establecer tres fechas de selección de proyectos, cuyos plazos máximos serán el 30 de septiembre de 2021, 30 de noviembre de 2021 y 15 de febrero de 2022.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
