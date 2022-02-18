@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN N° 138 EXENTA, DE FECHA 11 DE FEBRERO DE 2022
+
+Por resolución exenta N° 138, del 11.02.2022, del Gobierno Regional de La Araucanía,
+
+- **1.-** Que, mediante Ingreso E-664 de fecha 03.02.2022 de la Municipalidad de Temuco, sobre solicitud de suspensión total de tránsito en calle Los Avellanos, entre calles Volcán Villarrica y Estero Tricao, en el marco de la actividad "Feria Itinerante Labranza";
+
+- **2.-** El oficio N° 3070/2022 de fecha 03.02.2022, de la Seremi de Transportes y Telecomunicaciones Araucanía que remite informe técnico para corte total de calzada en calle Los Avellanos, entre calles Volcán Villarrica y estero Tricao, Labranza, comuna de Temuco, al Gobierno Regional de La Araucanía. 3. La resolución exenta N° 238 de fecha 10.02.2022 del Jefe de la Defensa Nacional de la Región de la Araucanía que autoriza la actividad de carácter pública denominada "Feria Itinerante" para los días jueves 10, 17, y 24 de febrero de 2022.
+
+- **4.-** Que, en consecuencia, existe una causa justificada en los términos del artículo 113 del DFL N° 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito, para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbase, para los días jueves 10, 17 y 24 de febrero de 2022 desde las 06:00 hasta las 18:00 hrs., la circulación de todo tipo de vehículos motorizados y, de acuerdo a lo establecido por el Jefe de la Defensa Nacional de La Araucanía, la 2da Comisaría de Carabineros de Temuco y los antecedentes revisados por este Gobierno Regional, Autorízase el corte Total Momentáneo de calle Los Avellanos, entre calle Volcán Villarrica y Estero Tricao, sector Labranza, comuna de Temuco, en el marco de la actividad "Feria Itinerante".
+
+Anótese, comuníquese, publíquese y archívese.- Por orden del Sr. Gobernador Regional, Carlos Fuentes Concha, Jefe de División de Infraestructura y Transportes (S), Gobierno Regional de La Araucanía.
