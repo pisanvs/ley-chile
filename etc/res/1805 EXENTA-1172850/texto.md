@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN EXENTA N° 1.805/2021 DE 17 DE NOVIEMBRE DE 2021
+
+Mediante resolución exenta N° 1.805/2021, de 17 de noviembre de 2021, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, autorizó a la Escuela de Conductores Profesionales denominada "Todo Transporte Ltda.", RUT N° 78.809.580-5, domiciliada en calle Urmeneta N° 1071, comuna de Puerto Montt, provincia de Llanquihue, Región de Los Lagos, cuyo representante legal es Juan Carlos Widemann Guarda, cédula de identidad Nº 8.567.497-8, cuyos planes y programas fueron autorizados mediante resolución exenta N° 660, de 2010, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, a impartir los cursos conducentes a la obtención de la Licencia de Conductor Profesional Clase A2 y A4 regular, en la modalidad e-learning, bajo el formato de ejecución sincrónico.-
+
+Nicolás Maximiliano Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
