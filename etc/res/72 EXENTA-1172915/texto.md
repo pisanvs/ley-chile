@@ -1,0 +1,7 @@
+EXTRACTO
+
+Gobierno Regional Aysén, por Res. Ex. Nº 72 de 20 de enero de 2022, prohibió circulación vehículos relativas a la actividad denominada "Corre con un Bombero 7 km" en la ciudad de Pto. Aysén, y autorizó a la I. Municipalidad de Aysén para realizar las siguientes intervenciones en vía pública:
+
+- La actividad recorrerá 7 kilómetros iniciando en frontis del Polideportivo 21 de Abril calle Benigno Díaz hacia el sur hasta calle Constantino Kalstrom prosiguiendo por ésta, para luego doblar hacia la izquierda corriendo por ruta CH-240 pasando por el puente Ibáñez, en dirección al norte continuando por Avenida Eusebio Ibar donde doblarán hacia la derecha iniciando el retorno frente a la Segunda Compañía de Bomberos en calle Las Golondrinas para tomar nuevamente Eusebio Ibar al sur, continuando su marcha por calle Sargento Aldea hasta calle Arturo Prat, siguiendo el contorno de plaza de Armas de Aysén por calle Teniente Merino, para proseguir en calle Juan Dougnac, virando a la derecha en calle Carrera, luego ruta CH-240 al sur, ingresando a calle Andrés Dattwyler, posteriormente Alcalde Chindo Vera, a la derecha por calle Yussef Laibe, finalizando en calle Benigno Díaz nuevamente, en el frontis del Polideportivo 21 de Abril de la comuna de Aysén, desde las 19:00 hrs. hasta las 21:00 hrs. del día 19 de enero de 2022.
+
+Francisco Lara Acevedo, Gobernador Regional (S), Gobierno Regional de Aysén.- Ximena Gutiérrez Jaramillo, Asesor Jurídico, Gobierno Regional de Aysén.
