@@ -566,7 +566,7 @@ c. En espacios cerrados, solo podrá haber un máximo de dos personas por mesa. 
 
 d. En espacios cerrados, la ventilación deberá cumplir con la norma estándar de ventilación.
 
-No se podrá consumir alimentos dentro de espacios cerrados de centros comerciales.
+En espacios cerrados dentro de centros comerciales sólo se podrá consumir alimentos en lugares habilitados para ello, tales como patios de comida, casinos de trabajadores o restaurantes. Los patios de comidas y restaurantes deberán cumplir con las disposiciones establecidas para estos últimos.
 
 79. De los gimnasios y análogos. El funcionamiento de gimnasios estará sujeto a las siguientes reglas:
 
