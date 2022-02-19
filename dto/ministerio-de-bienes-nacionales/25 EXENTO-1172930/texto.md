@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "CANADIAN SOLAR LIBERTADOR SOLAR HOLDING SpA"
+
+Mediante decreto exento Nº 25 de 24 de enero de 2022, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Canadian Solar Libertador Solar Holding SpA", RUT Nº 77.205.552-8, del inmueble fiscal denominado "Salar de Imilac 2", ubicado aproximadamente a 18 km. al suroeste de la intersección de la Ruta B-241 con la Ruta B-55, en el sector de Salar de Imilac, comuna de Antofagasta, provincia de Antofagasta, Región de Antofagasta, singularizado en el Plano Nº 02101-9.380-C.R., de una superficie total de 692,13 hectáreas, enrolado en el Servicio de Impuestos Internos bajo el Rol Nº 49000-12; I.D. Catastral 1278430; amparado por la inscripción global a nombre del Fisco que rola a fojas 3497 vta. Nº 3775 del Registro de Propiedad del año 2014, del Conservador de Bienes Raíces de Antofagasta. La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Periodo de Estudios y Construcción será de UF 49.487; y para el Período de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La concesión se otorga para ejecutar proyecto de Energía Renovable (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Gerardo Sanz de Undurraga, Jefe División Jurídica.
