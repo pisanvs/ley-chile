@@ -20,9 +20,11 @@ I.- Déjese sin efecto el decreto exento Nº 151, de fecha 19 de junio de 2018, 
 
 II.- Establécese que el (la) Secretario(a) Regional Ministerial de Bienes Nacionales de la Región de Aysén del General Carlos Ibáñez del Campo, grado 4º EUR de la Planta de Directivos, para el caso de ausencia o impedimento de éste, será subrogado en el siguiente orden:
 
-1.- Secretario(a) Regional Ministerial del Ministerio del Medio Ambiente de la Región de Aysén del General Carlos Ibáñez del Campo.
+1.- Ana Lorena Paganini Román, RUT 10.567.738-3, actual Profesional a Contrata con función directiva, asimilada a grado 8 EUR.
 
-2.- Secretario(a) Regional Ministerial del Ministerio de Economía, Fomento y Turismo de la Región de Aysén del General Carlos Ibáñez del Campo.
+2.- Secretario(a) Regional Ministerial del Ministerio del Medio Ambiente de la Región de Aysén del General Carlos Ibáñez del Campo.
+
+3.- Secretario(a) Regional Ministerial del Ministerio de Economía, Fomento y Turismo de la Región de Aysén del General Carlos Ibáñez del Campo.
 
 III.- Por razones impostergables de buen servicio, los(as) funcionarios(as) que ocupan los cargos señalados en los numerales 1 al 2 del presente decreto, según el orden de prelación establecido, asumirán de inmediato sus funciones sin esperar total tramitación del presente decreto, en caso de producirse algún impedimento, por cualquier motivo, para que el (la) Secretario(a) Regional Ministerial titular desempeñe su cargo.
 
