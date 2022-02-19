@@ -20,7 +20,7 @@ I.- Establécese que el cargo de Secretario(a) Regional Ministerial de Bienes Na
 
 1.- Eileen Karin Herdener Becker, RUT Nº 13.113.100-3, actual Profesional a Contrata con función directiva, asimilada a grado 9 EUR.
 
-2.- Ana María Schulthess Bravo, RUT Nº 7.469.845-K, actual Profesional de Planta, grado 7 EUR.
+2.- Daniel Fernando Candia Cabrera, RUT. N°17.263.105-3, actual Profesional a Contrata con función directiva, asimilado a grado 9 E.U.R.
 
 3.- Secretario(a) Regional Ministerial de Salud, Región de la Araucanía.
 
