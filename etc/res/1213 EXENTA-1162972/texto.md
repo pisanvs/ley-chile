@@ -80,6 +80,8 @@ c) Se permitirá la postulación de personas en calidad de arrendatarios u ocupa
 
 9) El presupuesto disponible para este llamado a postulación nacional extraordinaria en condiciones especiales para el desarrollo de proyectos en su modalidad Título I, Mejoramiento del Entorno; Título II, Mejoramiento de la Vivienda; y Título III, Ampliación de la Vivienda, del Programa de Protección del Patrimonio Familiar regulado por el DS N° 255 (V. y U.), de 2006, en los casos de las viviendas afectadas por plagas de xilófagos, será el siguiente:
 
+.
+
 Dicho presupuesto global incluye el monto del subsidio más el monto de la asistencia técnica respectiva.
 
 10) Se podrá otorgar un monto mayor de subsidio respecto a lo señalado en el artículo 6, del DS N° 255 (V. y U.), 2006, dada la necesidad de financiar las reparaciones más complejas que se pueden dar en estos casos. Este mayor monto de subsidio para la intervención de la vivienda podrá incrementarse si la cubierta está constituida por asbesto cemento y deba ser reemplazado, como también si existen personas con discapacidad. Los montos de subsidios para este llamado serán los indicados según lo señalado en la siguiente tabla:
