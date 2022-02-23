@@ -1,0 +1,31 @@
+ACLARA VIGENCIA DE LO DISPUESTO Y FACULTADO EN EL OFICIO SUPERIR Nº 11653 DE 7 DE JULIO DE 2020. PAGOS DE REPARTO DE FONDOS EN LA FORMA QUE INDICA
+
+Núm. 468 exenta.- Santiago, 3 de febrero de 2022.
+
+Vistos:
+
+Las facultades que le confiere a la Superintendencia de Insolvencia y Reemprendimiento la ley Nº 20.720, en adelante "la ley", que sustituyó el régimen concursal por una Ley de Reorganización y Liquidación de Activos de Empresas y Personas; lo dispuesto en el DFL Nº 1-19.653 de 17 de noviembre de 2001, Texto Refundido, Coordinado y Sistematizado de la Ley Nº 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado; en la ley Nº 19.880 que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado; en la ley Nº 21.379 que modifica y complementa la ley Nº 21.226, para reactivar y dar continuidad al Sistema de Justicia; en el decreto Nº 52 de 16 de diciembre de 2021, del Ministerio de Salud, publicado en el Diario Oficial el 24 de diciembre de 2021, que prorroga la vigencia del decreto Nº 4 de 2020, del Ministerio de Salud, que decreta Alerta Sanitaria por el periodo que se señala y otorga facultades extraordinarias que indica por emergencia de Salud Pública de Importancia Internacional por brote del nuevo Coronavirus (2019-NCOV); en la resolución Nº 7 de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón; en la resolución exenta Nº 43 de 14 de enero de 2021, del Ministerio de Salud, que dispone medidas sanitarias que indica por brote de Covid-19 y establece nuevo plan "Paso a Paso"; y en la resolución exenta RA Nº 120949/40/2021 de la Superintendencia de Insolvencia y Reemprendimiento.
+
+Considerando:
+
+1º. Que, la Superintendencia de Insolvencia y Reemprendimiento, en adelante la "Superintendencia", es una persona jurídica de derecho público, creada por la ley Nº 20.720, como un servicio público descentralizado con personalidad jurídica y patrimonio propio, que se relaciona con el Presidente de la República a través del Ministerio de Economía, Fomento y Turismo, y tiene como función supervigilar y fiscalizar las actuaciones de los liquidadores, veedores, martilleros concursales, administradores de la continuación de las actividades económicas del deudor, asesores económicos de insolvencia y de toda persona que por ley quede sujeta a su supervigilancia y fiscalización.
+
+2º. Que, la ley Nº 20.720 de Reorganización y Liquidación de Activos de Empresas y Personas, en su artículo 337, dispone que para el cumplimiento de sus funciones, la Superintendencia tendrá las atribuciones y deberes que allí señala, otorgándole en su numeral 2 la facultad de "Interpretar administrativamente las leyes, reglamentos y demás normas que rigen a los fiscalizados, sin perjuicio de las facultades jurisdiccionales que correspondan a los tribunales competentes" y en su numeral 4 la facultad de "Impartir a los Veedores, Liquidadores, administradores de la continuación de las actividades económicas, Martilleros Concursales que se sometan voluntariamente al control de la Superintendencia y asesores económicos de insolvencias, instrucciones de carácter obligatorio sobre las materias sometidas a su control y, en especial, fijar normas para la presentación de informes, estados de avance y cuentas provisorias o definitivas que deban presentar los fiscalizados.".
+
+3º. Que, mediante Oficio Superir Nº 11653 de 7 de julio de 2020, esta Superintendencia en uso de sus facultades indicadas en el considerando que precede y con ocasión de la crisis sanitaria mundial y nacional producida por la pandemia del virus Covid-19, excepcionalmente facultó a los liquidadores proceder al pago de los repartos de fondos mediante transferencia electrónica, depósito bancario o por medio de emisión de vale vista bancario electrónico, según la opción que estime pertinente el respectivo acreedor, en la forma indicada en los números 1 y siguientes del referido oficio, por el periodo que dure la emergencia sanitaria.
+
+4º. Que, una vez terminado el estado de excepción constitucional de catástrofe, por calamidad pública, declarado en el territorio chileno mediante el decreto supremo Nº 104, de 18 de marzo de 2020, del Ministerio del Interior y Seguridad Pública y sus prórrogas hasta el 31 de marzo de 2022, será necesario conservar las medidas sanitarias dispuestas en virtud de la Alerta Sanitaria decretada en todo el territorio de la República, mediante decreto N° 4 de 5 de febrero de 2020, del Ministerio de Salud y sus modificaciones y prórrogas, siendo la última por decreto Nº 52 de 16 de diciembre de 2021, del Ministerio de Salud, hasta el 31 de marzo de 2022, para enfrentar la amenaza a la salud pública por la propagación a nivel mundial del Nuevo Coronavirus 2019 (2019- NCOV).
+
+5º. Que, en virtud de lo expuesto en el considerando que precede, es necesario precisar que la vigencia de lo dispuesto y facultado excepcionalmente en el Oficio Superir Nº 11653 de 7 de julio de 2020, por el periodo que dure la emergencia sanitaria, debe entenderse, para estos efectos, que es hasta el término de la Alerta Sanitaria decretada en todo el territorio de la República, mediante decreto Nº 4 de 5 de febrero de 2020, de la Subsecretaría de Salud Pública y sus modificaciones y prórrogas, siendo la última por decreto Nº 52 de 16 de diciembre de 2021, del Ministerio de Salud, hasta el 31 de marzo de 2022.
+
+6º. Que, en atención a las consideraciones de hecho y de derecho expuestas precedentemente,
+
+Resuelvo:
+
+1. Aclárese, que el oficio Superir Nº 11653 de 7 de julio de 2020, regirá mientras se mantenga vigente la Alerta Sanitaria decretada en todo el territorio de la República.
+
+### 2. Publíquese, en extracto, la presente resolución en el Diario Oficial
+
+3. Notifíquese la presente resolución a los sujetos fiscalizados y funcionarios de esta Superintendencia, mediante correo electrónico y publíquese en la página web institucional.
+
+Anótese, comuníquese, notifíquese, publíquese y archívese.- Johana Álvarez Ahumada, Superintendenta de Insolvencia y Reemprendimiento (S).
