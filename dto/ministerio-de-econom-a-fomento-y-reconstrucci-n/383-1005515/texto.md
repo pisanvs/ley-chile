@@ -36,6 +36,8 @@ Asimismo, y según lo dispuesto en el inciso 3º del artículo 69 bis de la Ley 
 
 Las disposiciones del presente reglamento y su cumplimiento, se establecen sin perjuicio de otras obligaciones de carácter ambiental o general que el titular deba cumplir en virtud de la ley u otros reglamentos.
 
+La acuicultura de pequeña escala no quedará sometida a las disposiciones del presente reglamento, y se regirá por las disposiciones especiales que para dicha actividad se dicten.
+
 #### Artículo 2º
 
 Definiciones.

@@ -26,6 +26,8 @@ Las disposiciones del presente reglamento se aplicarán a las actividades de cul
 
 Los centros de acopio y los centros de faenamiento quedarán sujetos, en lo pertinente, a las normas de los Títulos I, II, III, IV y V del presente reglamento y a las demás, sólo en cuanto se remitan a ellas sus regulaciones específicas. Los centros de faenamiento quedarán sometidos, asimismo, a las normas del Título VIII del presente reglamento.
 
+La acuicultura de pequeña escala solo quedará sometida a las disposiciones establecidas en los Títulos II, III y V, con excepción de los artículos 20 bis y 20 ter. También quedará sometida a los artículos 10 inciso 3º y 13 a 16 del presente reglamento. En lo demás, la acuicultura de pequeña escala quedará sometida a sus disposiciones específicas.
+
 #### Artículo 2º
 
 Para los efectos del presente Reglamento se dará a los siguientes términos los significados que se indican:

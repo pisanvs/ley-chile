@@ -40,6 +40,8 @@ Disposiciones generales
 
 Las organizaciones de pescadores artesanales legalmente constituidas que sean titulares de áreas de manejo y explotación de recursos bentónicos en virtud de la celebración de un convenio de uso con el Servicio Nacional de Pesca y Acuicultura, podrán realizar en ellas actividades de acuicultura, sometiéndose a las normas de la Ley General de Pesca y Acuicultura, a lo dispuesto en el presente Reglamento y en lo que corresponda, a los DS Nº 355 de 1995 y sus modificaciones, Reglamento de Áreas de Manejo y Explotación de Recursos Bentónicos y Nº 319 de 2001, y sus modificaciones, Reglamento de Medidas de Protección, Control y Erradicación de Enfermedades de Alto Riesgo para las Especies Hidrobiológicas, ambos del actual Ministerio de Economía, Fomento y Turismo. Además deberán someterse, en la forma prevista en el presente reglamento, a lo dispuesto en el DS Nº 320 de 2001, del Ministerio de Economía, Fomento y Reconstrucción, Reglamento Ambiental para la Acuicultura, y cuando corresponda, al sistema de evaluación de impacto ambiental.
 
+La acuicultura de pequeña escala no quedará sometida a las disposiciones del presente reglamento, y se regirá por las disposiciones especiales que para dicha actividad se dicten.
+
 #### Artículo 2º
 
 Definiciones. Para efectos del presente reglamento se entenderá por:

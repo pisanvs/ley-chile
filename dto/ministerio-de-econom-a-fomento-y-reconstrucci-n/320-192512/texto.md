@@ -22,6 +22,8 @@ Disposiciones Generales
 
 Las disposiciones del presente Reglamento se aplicarán a todo tipo de actividad de acuicultura, ya sea que ésta se someta al régimen de concesiones de acuicultura, de autorizaciones o requiera simplemente de su inscripción en el registro nacional de acuicultura, en los términos previstos en el artículo 67 de la Ley General de Pesca y Acuicultura. Asimismo, todo aquel que realice actividades de acuicultura quedará sujeto al cumplimiento de las medidas de protección ambiental, que de forma general o particular, se establezcan para un área geográfica, de acuerdo con lo dispuesto en los artículos 74 y 87 de dicha Ley, sin perjuicio de lo dispuesto en otros cuerpos legales o reglamentarios.
 
+La acuicultura de pequeña escala no quedará sometida a las disposiciones del presente reglamento, y se regirá por las disposiciones especiales que para dicha actividad se dicten.
+
 #### Artículo 2º
 
 Para los efectos del presente Reglamento, se entenderá por:
@@ -54,9 +56,15 @@ p) Información ambiental (INFA): Informe de los antecedentes ambientales de un 
 
 q) Servicio: Servicio Nacional de Pesca y Acuicultura.
 
-r) Sistema de producción extensivo: Cultivo de recursos hidrobiológicos cuya alimentación se realiza en forma natural o con escasa intervención antrópica.
+r) Sistema de producción extensivo; cultivo de recursos hidrobiológicos cuya alimentación no requiere de suministro antrópico.
 
-s) Sistema de producción intensivo: Cultivo de recursos hidrobiológicos cuya alimentación se basa principalmente en dietas suministradas antrópicamente y/o en la fertilización de las aguas en que se realiza.
+s) Sistema de producción intensivo: cultivo de recursos hidrobiológicos cuya alimentación es suministrada de manera antrópica y/o que requiera la fertilización de las aguas en que se realiza. Este tipo de sistema comprende el sistema de cultivo intensivo con alimento natural e intensivo con alimento formulado.
+
+El sistema de cultivo intensivo con alimento natural corresponde a aquel sistema cuya alimentación se basa en dietas naturales sin formular.
+
+El sistema de cultivo intensivo con alimento formulado corresponde a aquel sistema cuya alimentación se basa en dietas formuladas.
+
+En el caso que un centro de cultivo tenga más de un sistema de producción será considerado para su clasificación aquel sistema más estricto.
 
 t) Subsecretaría: Subsecretaría de Pesca y Acuicultura.
 
