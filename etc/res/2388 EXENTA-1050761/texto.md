@@ -18,7 +18,11 @@ Resuelvo:
 
 1. Muestréese y analícese por los inspectores de la Oficina SAG correspondiente, las partidas de bebidas alcohólicas o vinagres con fines comerciales que se importen al país y que no estén acogidas a algún reconocimiento de los señalados en el numeral segundo de lo resolutivo, para verificar sus condiciones de potabilidad, genuinidad y asegurar el cumplimiento de la normativa, pudiendo las muestras ser captadas en el puerto de ingreso o, a solicitud del importador, en el almacén particular de destino. Si en esta acción, el producto ha sido calificado como "Apto para Importar", el Boletín de Análisis de Importación tendrá una vigencia de 24 meses.
 
-2. Exclúyanse de lo establecido en la presente resolución, las partidas de bebidas alcohólicas con fines comerciales que provengan de países con los cuales Chile tenga convenios comerciales vigentes que consideren el reconocimiento y validación de los análisis realizados en el país de origen de estos productos, excepto en casos debidamente calificados.
+2. Exclúyanse de lo establecido en la presente resolución, las partidas de bebidas alcohólicas con fines comerciales que:
+
+a. Provengan de países con los cuales Chile tenga Acuerdos comerciales vigentes que consideren el reconocimiento de la similaridad de los productos y que consideren la validación de los análisis realizados en el país de origen de estos productos, excepto en casos debidamente calificados, o bien,
+
+b. Correspondan a productos que cuenten con la correspondiente inscripción en el Registro de Bebidas Alcohólicas del SAG y respecto de los cuales, mediante un acto administrativo, en base a la información técnica intercambiada con la autoridad competente del país de origen, el Servicio ha reconocido dicho producto como similar y en consecuencia puede aplicar condiciones distintas al resto de los mercados para el proceso de importación.
 
 3. Para el solo efecto de esta resolución, considérense partidas con fines comerciales, aquellas partidas de bebidas alcohólicas o vinagres que superen los 30 litros.
 
