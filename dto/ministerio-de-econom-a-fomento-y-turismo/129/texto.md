@@ -538,6 +538,8 @@ De la actividad de acuicultura
 
 Los titulares de inscripciones, autorizaciones y concesiones de acuicultura o quienes éstos designen, deberán entregar la información a que se refiere el presente reglamento de la manera que pasa a expresarse.
 
+La acuicultura de pequeña escala no quedará sometida a las disposiciones del presente reglamento, y se regirá por las disposiciones especiales que para dicha actividad se dicten.
+
 #### Artículo 7º
 
 <!-- parte:9393594 -->
