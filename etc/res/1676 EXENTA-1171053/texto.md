@@ -78,6 +78,8 @@ Resolución:
 
 10º Instrúyase que, los beneficiarios de la presente resolución exenta podrán aplicar los beneficios indicados en cualquier región del país.
 
-11º Publíquese un extracto de la presente resolución exenta en el Diario Oficial, mediante el cual se aprobarán las nóminas de los beneficiarios seleccionados. La difusión de dichas nóminas podrá realizarse en un periódico de circulación regional o nacional, o en el sitio web del Minvu o del Serviu, durante los 15 días posteriores a la publicación de esta resolución exenta.
+11° impútese un total de 67.450 Unidades de Fomento a los recursos asignados para el año presupuestario 2021, al Programa Habitacional Fondo Solidario de Elección de Vivienda regulado por el DS N° 49 (V. y U.) de 2011 y sus modificaciones.
+
+12º Publíquese un extracto de la presente resolución exenta en el Diario Oficial, mediante el cual se aprobarán las nóminas de los beneficiarios seleccionados. La difusión de dichas nóminas podrá realizarse en un periódico de circulación regional o nacional, o en el sitio web del Minvu o del Serviu, durante los 15 días posteriores a la publicación de esta resolución exenta.
 
 Anótese, comuníquese y publíquese en la página web del Minvu.- Francisca Bustos Contreras, Secretaria Ministerial Metropolitana de Vivienda y Urbanismo Subrogante.
