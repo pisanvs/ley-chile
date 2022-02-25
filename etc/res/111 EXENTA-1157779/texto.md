@@ -232,6 +232,8 @@ Los honorarios correspondientes al PHS se pagarán con cargo a los recursos de a
 
 > **Nota.** NOTA 1 El numeral 1° de la Resolución 277 Exenta, Vivienda, publicada el 14.07.2021, modifica la fecha de entrega de la carta de la programación establecida en la tabla 1 del resuelvo 5 de la presente norma en en los términos que la citada norma indica.
 
+> **Nota.** NOTA 2 La letra a) del numeral 1° de la Resolución 52 Exenta, Vivienda, publicada el 25.02.2022, modifica el resuelvo 5° de la presente norma, en el sentido de fijar como plazos máximos de selección los siguientes: 30 de septiembre de 2021; 30 de noviembre de 2021 y 15 de febrero de 2022.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Carlos Prieto Rojas, Secretario Regional Ministerial de Vivienda y Urbanismo Región de Tarapacá.
 
 ANEXO 1
