@@ -608,7 +608,7 @@ De la Comisión Nacional del Cáncer.- La Comisión Nacional del Cáncer tiene c
 
 Los miembros de la Comisión serán nombrados por decreto del Ministro de Salud, de conformidad con la elección que hubiere efectuado cada entidad de acuerdo al artículo 62 del presente reglamento y durarán tres años en sus funciones. Su elección o designación podrá renovarse consecutivamente solo una vez.
 
-Los miembros de la Comisión no recibirán remuneración alguna por el desempeño de sus funciones en la Comisión Nacional del Cáncer.
+Los miembros de la Comisión no recibirán remuneración alguna por el desempeño de sus funciones en la Comisión Nacional del Cáncer, sin perjuicio de lo cual, la Subsecretaría de Salud Pública podrá financiar los gastos de traslado y hospedaje debidamente rendidos de los comisionados que concurran desde regiones diferentes a la Metropolitana para su participación en la Comisión. Dicho financiamiento no podrá exceder de un viaje mensual por comisionado, salvo que la Subsecretaría de Salud Pública comunique por escrito la necesidad de concurrencia presencial a más de una sesión mensual.
 
 #### Artículo 52
 
