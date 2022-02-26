@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 2.322 EXENTA, DE 19 DE AGOSTO DE 2021
+
+Por resolución exenta N° 2.322, de 19 de agosto de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Región Metropolitana, se modificó resolución exenta N° 8.187, de 11 de diciembre de 2019, de la misma Secretaría Regional Ministerial, que aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Jorge Guillermo Schreiner Zollner Escuela de Conductores E.I.R.L.", RUT N° 76.954.761-4, ubicada en Camino Chicureo N° 847, comuna de Colina, a contar de su total tramitación y sólo en sentido de aprobar la designación de Director de dicha sede, siendo este el señor Juan Pablo Valdivia Allende, RUT N° 9.868.616-9. En todo lo no modificado, se mantienen íntegramente vigentes las demás estipulaciones aprobadas por resolución exenta N° 8.187, de 11 de diciembre de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.-
+
+Eddy Nelson Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
