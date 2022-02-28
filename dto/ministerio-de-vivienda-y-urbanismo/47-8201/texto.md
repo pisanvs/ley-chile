@@ -40,7 +40,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Acera»: parte de una vía destinada principalmente para circulación de peatones, separada de la circulación de vehículos.
 
-«Alteración»: cualquier supresión o adición que afecte a un elemento de la estructura o de las fachadas de un edificio y las obras de restauración, rehabilitación o remodelación de edificaciones.
+«Alteración»: Obras que implican cualquier supresión o adición que afecte a un elemento de la estructura o de las fachadas de una edificación existente y las obras de restauración, rehabilitación o remodelación de esas edificaciones.
 
 «Altura de edificación»: la distancia vertical, expresada en metros, entre el suelo natural y un plano paralelo superior al mismo.
 
@@ -89,6 +89,8 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 «Calle ciega»: la que tiene acceso solamente a una vía.
 
 «Calzada»: parte de una vía destinada a la circulación de vehículos motorizados y no motorizados.
+
+«Cambio de destino»: cambiar el destino de una vivienda existente a otro destino o actividad permitida por el uso de suelo establecido por el respectivo instrumento de planificación territorial o, excepcionalmente, por otra normativa legal.
 
 «Capacidad máxima de edificación»: margen volumétrico máximo construible en cada predio, resultado de la aplicación de las normas sobre línea de edificación, rasantes, distanciamientos, alturas, coeficientes de ocupación de suelo, constructibilidad, densidad y demás normas urbanísticas, con sus respectivas normas de beneficios especiales en cada caso.
 
@@ -164,7 +166,9 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Edificación colectiva»: la constituida por unidades funcionales independientes, tales como departamentos, oficinas y locales comerciales, esté o no acogida a la ley de copropiedad inmobiliaria o a otras leyes especiales.
 
-«Edificación continua»: la emplazada a partir de los deslindes laterales opuestos o concurrente de un mismo predio y ocupando todo el frente de éste, manteniendo un mismo plano de fachada con la edificación colindante y con la altura que establece el instrumento de planificación territorial
+«Edificación continua»: la emplazada a partir de los deslindes laterales opuestos o concurrente de un mismo predio y ocupando todo el frente de éste, manteniendo un mismo plano de fachada con la edificación colindante y con la altura que establece el instrumento de planificación territorial.
+
+«Edificación existente»: edificio que cuenta con permiso y recepción definitiva o aquel construido con anterioridad a la entrada en vigencia de la ley Nº 4.563.
 
 «Edificación pareada»: la que corresponde a dos edificaciones emplazadas a partir de un deslinde común, manteniendo una misma línea de fachada, altura y longitud de pareo. Las fachadas no pareadas deberán cumplir con las normas previstas para la edificación aislada.
 
@@ -272,7 +276,9 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Modificación de proyecto»: variantes, alteraciones o cambios que se solicite introducir a un proyecto o a una obra de construcción entre la fecha del permiso y la recepción definitiva de las obras, signifiquen o no un aumento de superficie, o cambios en la clasificación o destino de las construcciones.
 
-"Montacarga": aparato elevador, que se desplaza a lo largo de rieles guía, destinado exclusivamente al transporte de carga, provisto de una cabina, plataforma o similar, cuya botonera de control está fuera de ésta.
+«Modificación del destino o actividad»: variar el destino o actividad establecida en el permiso de edificación concedido, a otro destino o actividad permitida por el uso de suelo admitido en el respectivo instrumento de planificación territorial, mediante un permiso de obra menor, reconstrucción, reparación, alteración o ampliación.
+
+«Montacarga»: aparato elevador, que se desplaza a lo largo de rieles guía, destinado exclusivamente al transporte de carga, provisto de una cabina, plataforma o similar, cuya botonera de control está fuera de ésta.
 
 «Monumento Nacional»: edificio, conjunto o área declarada como tal conforme a la ley Nº 17.288 sobre Monumentos Nacionales, mediante decreto del Ministerio de Educación.
 
@@ -304,7 +310,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Obra gruesa habitable»: construcción techada y lateralmente cerrada, con piso o radier afinado, dotada de, a lo menos, un recinto de baño habilitado, con puerta, y en el caso de viviendas, dotada, además, con un recinto de cocina habilitado.
 
-«Obra menor»: modificación de edificaciones existentes que no alteran su estructura, con excepción de las señaladas en el artículo 5.1.2. de esta Ordenanza, y las ampliaciones que se ejecuten por una sola vez o en forma sucesiva en el tiempo, hasta alcanzar un máximo de 100 m² de superficie ampliada.
+«Obra menor»: Obras al interior o en la fachada de una edificación existente que no alteran su estructura, y que implican el aumento o disminución de la carga de ocupación; el cambio de destino o la modificación del destino o actividad; y las ampliaciones que se ejecuten por una sola vez o en forma sucesiva en el tiempo, hasta alcanzar un máximo de 100 m² de superficie ampliada.
 
 «Obra nueva»: la que se construye sin utilizar partes o elementos de alguna construcción preexistente en el predio.
 
@@ -362,15 +368,11 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Proyecto»: conjunto de antecedentes de una obra que incluye planos, memorias, especificaciones técnicas y, si correspondiere, presupuestos.
 
-«Proyecto no residencial»: aquel en que el destino de infraestructura, de equipamiento y/o de actividades productivas es superior al 30% de la superficie total edificada y aquel en el cual el destino de vivienda es inferior al 70% de la superficie total edificada.
-
-«Proyecto residencial»: aquel en que el destino habitacional es superior al 70% de la superficie total edificada.
-
 «Publicidad»: acción que se realiza a través de medios de difusión para promover la venta de inmuebles.
 
 «Puerta de escape»: puerta de salida que forma parte de un sistema de evacuación.
 
-"Rampa mecánica": instalación motorizada para el trasporte de personas en que la superficie de transporte permanece paralela a la dirección del movimiento, y es ininterrumpida.
+«Rampa mecánica»: instalación motorizada para el trasporte de personas en que la superficie de transporte permanece paralela a la dirección del movimiento, y es ininterrumpida.
 
 «Rasante»: recta imaginaria que, mediante un determinado ángulo de inclinación, define la envolvente teórica dentro de la cual puede desarrollarse un proyecto de edificación.
 
@@ -378,21 +380,21 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Reconstrucción»: DEROGADO.
 
-«Reconstrucción de un inmueble»: volver a construir total o parcialmente un edificio o reproducir una construcción preexistente o parte de ella que formalmente retoma las características de la versión original.
+«Reconstrucción de una edificación»: Obras cuyo fin es volver a construir o reproducir total o parcialmente una edificación que contó con permiso y recepción definitiva o que fue construida con anterioridad a la entrada en vigencia de la ley Nº 4.563, y que formalmente retoma las características de la versión original.
 
 «Red vial básica»: conjunto de vías existentes, que por su especial importancia para el transporte urbano, pueden ser reconocidas como tales en los instrumentos de planificación territorial.
 
 «Red vial estructurante»: conjunto de vías existentes o proyectadas, que por su especial importancia para el desarrollo del correspondiente centro urbano, deben ser definidas por el respectivo instrumento de planificación territorial.
 
-"Registro de la Ley Nº 20.296": el Registro Nacional de Instaladores, Mantenedores y Certificadores de Ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, creado por la ley Nº 20.296.
+«Registro de la Ley Nº 20.296»: el Registro Nacional de Instaladores, Mantenedores y Certificadores de Ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, creado por la ley Nº 20.296.
 
-"Registro de Proyectos Inmobiliarios": Registro público y electrónico, contemplado en el artículo 7° quáter de la ley N° 18.168, implementado y mantenido por la Subsecretaría de Telecomunicaciones en su página web, para efectos de la inscripción de los proyectos inmobiliarios.
+«Registro de Proyectos Inmobiliarios»: Registro público y electrónico, contemplado en el artículo 7° quáter de la ley N° 18.168, implementado y mantenido por la Subsecretaría de Telecomunicaciones en su página web, para efectos de la inscripción de los proyectos inmobiliarios.
 
 «Rehabilitación de un inmueble»: recuperación o puesta en valor de una construcción, mediante obras y modificaciones que, sin desvirtuar sus condiciones originales, mejoran sus cualidades funcionales, estéticas, estructurales, de habitabilidad o de confort.
 
 «Remodelación de un inmueble»: modificación interior o exterior de una construcción para adecuarla a nuevas condiciones de uso mediante transformación, sustracción o adición de elementos constructivos o estructurales, conservando los aspectos sustanciales o las fachadas del inmueble original.
 
-«Reparación»: renovación de cualquier parte de una obra que comprenda un elemento importante para dejarla en condiciones iguales o mejores que las primitivas, como la sustitución de cimientos, de un muro soportante, de un pilar, cambio de la techumbre.
+«Reparación»: Obras en una edificación existente que implican la renovación de cualquier parte de un elemento de su estructura, para dejarla en condiciones iguales o mejores que las primitivas; tales como la sustitución de cimientos, de un muro soportante, de un pilar o cambio de la techumbre.
 
 «Restauración de un inmueble»: trabajo destinado a restituir o devolver una edificación, generalmente de carácter patrimonial cultural, a su estado original, o a la conformación que tenía en una época determinada.
 
@@ -700,7 +702,7 @@ DE LAS SANCIONES
 
 5. Negar el acceso a las obras a los funcionarios de la Dirección de Obras Municipales, al Revisor Independiente o al inspector técnico.
 
-6. Cambiar el destino de una edificación sin el correspondiente permiso.
+6. Cambiar el destino de una vivienda sin la respectiva autorización o modificar el uso o destino sin mediar el correspondiente permiso o aprobación.
 
 7. La falta de profesionales competentes responsables de la supervisión, construcción o inspección de la obra.
 
@@ -713,6 +715,8 @@ DE LAS SANCIONES
 11. Emplear materiales o elementos industriales defectuosos que contravengan las disposiciones de esta Ordenanza.
 
 12. Ejecución de una obra en disconformidad con los planos, especificaciones y demás antecedentes del permiso aprobado.
+
+13. El incumplimiento por parte del propietario de presentar a la Dirección de Obras Municipales el expediente a que se refiere el número 1 del artículo 5.1.2. de esta Ordenanza, a excepción de las obras con destino vivienda.
 
 Las multas se aplicarán a quienes resulten responsables de la infracción, de acuerdo a la sentencia dictada al efecto por el Juez de Policía Local correspondiente.
 
@@ -727,6 +731,8 @@ DISPOSICIONES COMUNES A LOS PERMISOS DE URBANIZACIÓN Y EDIFICACION.
 El Director de Obras Municipales concederá el permiso de urbanización o edificación si los antecedentes acompañados cumplen con el Instrumento de Planificación Territorial y demás disposiciones de la Ley General de Urbanismo y Construcciones y la presente Ordenanza, previo pago de los derechos que procedan, sin perjuicio de las facilidades de pago contempladas en la citada Ley General.
 
 En cada caso el cumplimiento de las disposiciones señaladas en el inciso anterior se verificará sobre la base de los antecedentes que bajo su responsabilidad hubiere acompañado el interesado y los profesionales competentes que suscriben la solicitud.
+
+Con el permiso de urbanización o edificación se aprobará a su vez el uso o destino que se les dará a las obras, el cual será concordante con el uso del suelo establecido en el respectivo Instrumento de Planificación Territorial. No podrá cambiarse el destino de vivienda sin previa autorización, así como tampoco podrá modificarse el uso o destino aprobado sin mediar un nuevo permiso o autorización conforme lo dispuesto en el artículo 116º de la Ley General de Urbanismo y Construcciones.
 
 Las solicitudes y trámites para la obtención de certificados, autorizaciones y permisos de que trata esta Ordenanza, y los actos y demás documentos de las Direcciones de Obras Municipales, podrán ser efectuados o expedidos mediante medios electrónicos. En tal caso la Dirección de Obras Municipales respectiva y los interesados deberán cumplir con lo dispuesto en la Ley Nº 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, su reglamento y las normas técnicas vigentes sobre la materia, sin perjuicio del cumplimiento de todos los requisitos que para cada actuación establece esta Ordenanza.
 
@@ -803,6 +809,8 @@ m) Exigencias de plantaciones y obras de ornato en las áreas afectas a utilidad
 n) El límite urbano o de extensión urbana.
 
 o) Declaratoria de postergación de permisos, señalando el plazo de vigencia y el Decreto o Resolución correspondiente.
+
+6. Identificación de la resolución aprobatoria del Informe de Mitigación de Impacto Vial del loteo que dio origen al lote o del certificado que dé cuenta de su aprobación por silencio positivo, cuando el loteo haya debido elaborar dicho informe.
 
 En el Certificado de Informaciones Previas, el Director de Obras Municipales podrá exigir que se acompañe a la solicitud de permiso un informe sobre calidad del subsuelo, de acuerdo al artículo 5.1.15. de esta Ordenanza.
 
@@ -997,6 +1005,70 @@ f. Número y fecha del Certificado de Informaciones Previas que sirvió de base 
 g. Normas especiales a las cuales se acoge.
 
 Sin perjuicio de lo anterior, la Dirección de Obras, en el mismo plazo de sesenta días, deberá informar de tales actuaciones al Concejo Municipal y a las Juntas de Vecinos de la unidad vecinal correspondiente; asimismo, se deberá mantener a disposición de cualquier persona que lo requiera, los antecedentes completos relacionados con dichas aprobaciones o permisos.
+
+## Capítulo 5
+
+DISPOSICIONES COMUNES A LOS PERMISOS DE URBANIZACIÓN Y EDIFICACIÓN PARA PROYECTOS EN RELACIÓN CON LOS INFORMES DE MITIGACIÓN DE IMPACTO VIAL.
+
+De las mitigaciones directas
+
+#### Artículo 1
+
+5.1. Los proyectos a que se refiere este Capítulo, que conlleven crecimiento urbano por extensión o por densificación y que ocasionen impactos relevantes sobre la movilidad local, deberán presentar y aprobar un IMIV, conforme a lo establecido en los artículos 170 al 174 y al reglamento a que se refiere el artículo 171, todos de la Ley General de Urbanismo y Construcciones.
+
+Para efectos de determinar si los proyectos a que se refiere este artículo deben elaborar un IMIV, se deberá registrar, en el sistema electrónico, creado para estos efectos, la información que determina el reglamento del Ministerio de Transportes y Telecomunicaciones, suscrito por el Ministerio de Vivienda y Urbanismo.
+
+A la solicitud de permiso de urbanización, de edificación o a las autorizaciones correspondientes, en los casos de los proyectos a que se refiere el inciso primero de este artículo, se deberá acompañar el comprobante de ingreso del Informe de Mitigación o, el certificado emitido por el sistema que acredite que el proyecto no requiere de dicho informe. Cuando éste deba elaborarse, la resolución que lo apruebe será requisito para el otorgamiento del correspondiente permiso o autorización.
+
+Será responsabilidad del interesado ingresar ante la Dirección de Obras Municipales el acto administrativo mediante el cual se apruebe el Informe de Mitigación. Si ello no se efectúa dentro del plazo para pronunciarse sobre la solicitud de permiso, el Director de Obras Municipales deberá dejar constancia de ese requisito pendiente al emitir el Acta de
+
+Observaciones. Dicha observación deberá ser subsanada por el interesado dentro del plazo dispuesto en el inciso final del artículo 1.4.9 de esta Ordenanza o, en su defecto, deberá acreditar mediante documento emitido por el Sistema de Evaluación de Impacto en la Movilidad que dicho informe continúa en trámite de evaluación, conforme a los plazos establecidos en el decreto supremo Nº 30, de 2017, del Ministerio de Transportes y Telecomunicaciones y suscrito
+
+también por el Ministerio de Vivienda y Urbanismo, que aprueba el Reglamento sobre mitigación de impactos al sistema de movilidad local derivados de proyectos de crecimiento urbano.
+
+Producida esta última circunstancia, el Director de Obras Municipales podrá, por una segunda y última vez y dentro del plazo de 15 días desde el ingreso del referido documento emitido por el SEIM, observar la falta de aprobación del IMIV, entendiéndose que el interesado tendrá, excepcionalmente, un nuevo plazo de 60 días para subsanar esa observación.
+
+De la vigencia de los Informes de Mitigación de Impacto Vial
+
+#### Artículo 1
+
+5.2. La resolución que apruebe los Informes de Mitigación tendrá una vigencia de tres años contados desde la fecha que haya sido notificada su aprobación o certificación en caso de silencio positivo a que se refiere el artículo 172 de la Ley General, según sea el caso.
+
+Una vez obtenido el permiso de edificación y/o de loteo emitidos por la Dirección de Obras Municipales, la vigencia de la resolución o certificación, según sea el caso, se extenderá hasta completar, como máximo, un total de diez años para efectos de solicitar la recepción definitiva de las obras de edificación y/o loteo.
+
+Si vencido ese plazo no se solicita la recepción definitiva o, si habiendo sido solicitada ésta, es rechazada por un acto administrativo firme, el titular del proyecto deberá presentar un nuevo Informe de Mitigación y cumplir las medidas que se dispongan al aprobarlo para obtener la recepción definitiva.
+
+Lo señalado en este artículo no será aplicable a las etapas con mitigaciones parciales ya ejecutadas y recepcionadas, cuando la resolución aprobatoria del Informe de Mitigación las hubiere considerado.
+
+De las recepciones definitivas y parciales de los proyectos que contemplen mitigaciones directas y/o estudios, proyectos, obras y medidas aprobados para materializar Aportes al Espacio Público
+
+#### Artículo 1
+
+5.3. Las Direcciones de Obras Municipales no podrán cursar la recepción definitiva de proyectos que hayan aprobado un Informe de Mitigación de Impacto Vial sin que el interesado acredite la ejecución de las medidas contenidas en la resolución que lo apruebe o garantice su ejecución, conforme se establece en el artículo 1.5.4. de esta Ordenanza.
+
+En caso que dicha resolución haya considerado etapas con mitigaciones parciales, la recepción de cada etapa requerirá de la ejecución conforme de sus respectivas mitigaciones directas o del otorgamiento de la caución que garantice la respectiva etapa, en los casos que corresponda.
+
+El certificado de recepción definitiva que emita la Dirección de Obras Municipales deberá consignar las medidas de mitigación directas que hubieren sido garantizadas.
+
+Lo señalado en este artículo será, también, aplicable a los casos en que la Municipalidad respectiva haya aprobado materializar los Aportes al Espacio Público en estudios, proyectos, obras y medidas conforme a los incisos segundo y siguientes del artículo 179 de la Ley General de Urbanismo y Construcciones.
+
+De las garantías de ejecución de las mitigaciones directas consideradas en un Informe de Mitigación de Impacto Vial y de los estudios, proyectos, obras y medidas aprobadas para materializar Aportes al Espacio Público
+
+#### Artículo 1
+
+5.4. Para las recepciones definitivas de proyectos que conforme a este Capítulo hayan aprobado un Informe de Mitigación de Impacto Vial, las Direcciones de Obras Municipales deberán aceptar que se garantice la ejecución de las mitigaciones directas a ejecutar, cuando la resolución que aprobó el Informe de Mitigación de Impacto Vial así lo permita.
+
+En estos casos, el interesado en caucionar alguna medida deberá presentar los proyectos y presupuestos aprobados por los organismos competentes, pudiendo la Dirección de Obras Municipales incrementar el valor a garantizar, por resolución fundada, hasta en un 50%, considerando imprevistos y costos administrativos de contratación e inspección de las obras. Para estos efectos el interesado deberá señalar las medidas y/u obras por ejecutar, el plazo de ejecución y los demás antecedentes a que se refiere este inciso.
+
+Las garantías podrán consistir, indistintamente, en una boleta bancaria o una póliza de seguro cuya vigencia exceda en 60 días al plazo para la ejecución o al de la prórroga si la hubiere.
+
+Las garantías caucionarán la correcta ejecución de las mitigaciones directas dentro del año siguiente a la recepción definitiva de la edificación respectiva y/o del loteo, según sea el caso, pudiendo renovarse este plazo una sola vez, por igual periodo. En estos casos, el Director de Obras Municipales deberá dejar constancia que las mitigaciones directas se encuentran garantizadas al cursar la recepción definitiva.
+
+Las instituciones bancarias o aseguradoras que hayan emitido el respectivo documento de garantía pagarán los valores garantizados con el solo mérito del certificado que otorgue el Director de Obras Municipales señalando que las medidas no se ejecutaron dentro de este plazo, debiendo dichos valores destinarse a la ejecución de las mitigaciones directas que hubieren sido garantizadas.
+
+Si las mitigaciones directas que estuvieren caucionadas en la respectiva garantía no se ejecutasen dentro de los plazos antes indicados, la Municipalidad deberá dar inicio a la ejecución de las medidas en un plazo máximo de 1 año contado desde el pago de los valores caucionados, directamente o a través de otros órganos de la Administración del Estado, en este último caso, previa suscripción del respectivo convenio.
+
+Lo dispuesto en este artículo será, también, aplicable a los casos que se haya aprobado por la Municipalidad respectiva materializar los Aportes al Espacio Público a través de estudios, proyectos, obras y medidas, a que se refiere el artículo 179 de la Ley General de Urbanismo y Construcciones.
 
 ## Título 2
 
@@ -1667,6 +1739,8 @@ Para la fijación y aplicación de dichos usos de suelo, éstos se agrupan en lo
 Las antenas con sus soportes y elementos rígidos con sus elementos adicionales se entenderán complementarias a los usos de suelo residencial, equipamiento, actividades productivas, infraestructura y área verde. En el caso del uso de suelo espacio público sólo se podrán localizar donde lo autorice la respectiva Municipalidad.
 
 Los destinos de salas cuna y jardines infantiles se entenderán siempre admitidos en las zonas con usos de suelo residencial y/o en las que se permita cualquiera clase de equipamiento. Para efectos de su autorización, se deberá cumplir con las restantes normas urbanísticas establecidas en el plan regulador. En caso que en la zona en que se emplacen se establezca más de una norma urbanística se deberá aplicar la más restrictiva.
+
+Para los efectos de la elaboración del informe previo favorable que alude el artículo 58 de la Ley General de Urbanismo y Construcciones, el Director de Obras Municipales deberá corroborar que la actividad económica que se desea implementar en el respectivo predio es concordante con el uso de suelo establecido en el instrumento de planificación territorial vigente. La solicitud de este informe se resolverá en el plazo de 7 días y será remitido a la unidad de rentas y patentes del municipio.
 
 #### Artículo 2
 
@@ -2772,15 +2846,7 @@ INCISO FINAL DEROGADO.
 
 #### Artículo 2
 
-4.3. Los proyectos residenciales y los proyectos no residenciales que consulten en un mismo predio 250 o más y 150 o más estacionamientos, respectivamente, requerirán de un Estudio de Impacto sobre el Sistema de Transporte Urbano.
-
-El Ministerio de Vivienda y Urbanismo, mediante resolución, aprobará la metodología conforme a la cual deberá elaborarse y evaluarse el Estudio de Impacto sobre el Sistema de Transporte Urbano.
-
-A la solicitud de permiso de edificación de los proyectos a que se refiere el inciso primero se deberá acompañar un Estudio de Impacto sobre el Sistema de Transporte Urbano aprobado por la Secretaría Regional Ministerial de Transportes y Telecomunicaciones respectiva. Asimismo, podrá solicitarse el permiso acompañando un certificado emitido por la referida autoridad regional, en el que conste que se ingresaron todos los antecedentes requeridos por la resolución exenta Nº 2.379, de 2003, del Ministerio de Vivienda y Urbanismo, para el análisis integral del referido Estudio y que éste fue admitido a trámite. El acto administrativo mediante el cual se apruebe el Estudio de Impacto sobre el Sistema de Transporte Urbano será requisito para el otorgamiento del correspondiente permiso por parte de la Dirección de Obras Municipales.
-
-La Dirección de Obras Municipales, de acuerdo al resultado del Estudio de Impacto sobre el Sistema de Transporte Urbano, establecerá las mitigaciones que el propietario deberá efectuar en la vialidad afectada por el proyecto. Asimismo, no podrán cursar la recepción definitiva del proyecto sin que el interesado acredite la ejecución de las medidas de mitigación correspondientes, o el otorgamiento de una caución que las garantice, previa autorización de la Seremi Regional de Transportes y Telecomunicaciones, de conformidad a lo dispuesto en el artículo 173 de la Ley General de Urbanismo y Construcciones, en la resolución de aprobación del Estudio de Impacto sobre el Sistema de Transporte Urbano o del Informe Vial Básico, según corresponda.
-
-Lo señalado en los dos incisos precedentes también será aplicable a los proyectos referidos en los artículos 4.5.4, 4.8.3 y 4.13.4 de esta Ordenanza.
+4.3. Derogado.-
 
 #### Artículo 2
 
@@ -2918,7 +2984,7 @@ Sin perjuicio de lo establecido en el inciso tercero del artículo 2.6.1. de est
 
 Los distanciamientos mínimos y rasantes que contempla el artículo 2.6.3. y las normas sobre las mismas materias contenidas en ordenanzas locales, no serán aplicables a las partes de una construcción que se acojan a las disposiciones de este artículo.
 
-En las edificaciones aisladas, pareadas o continuas, los muros medianeros o de adosamiento podrán contemplar vanos, siempre que se cuente con autorización del propietario del predio vecino y no se afecten las condiciones de seguridad o las normas urbanísticas o las exigencias derivadas del artículo 2.4.3. de esta Ordenanza. Dichos vanos deberán estar contemplados en el proyecto de estructuras.
+En las edificaciones aisladas, pareadas o continuas, los muros medianeros o de adosamiento podrán contemplar vanos, siempre que se cuente con autorización del propietario del predio vecino y no se afecten las condiciones de seguridad o las normas urbanísticas. Dichos vanos deberán estar contemplados en el proyecto de estructuras.
 
 Los estacionamientos abiertos cubiertos podrán construirse adosados a los deslindes en toda su longitud, excepto en los antejardines, siempre que la altura de su cubierta, en cualquier punto de ella, no exceda de 2,50 m. Estos estacionamientos no requerirán contar con muro de adosamiento.
 
@@ -3454,13 +3520,21 @@ El anteproyecto aprobado mantendrá su vigencia por el plazo indicado en el art�
 
 3. Planos de los proyectos de urbanización, debidamente firmados por los profesionales competentes, incluyendo, cuando el proyecto consulte tales instalaciones, los correspondientes a redes de agua potable y alcantarillado de aguas servidas y aguas lluvias, redes de electrificación, alumbrado público, gas, pavimentación y sus obras complementarias, plantaciones y obras de ornato, y obras de defensa del terreno, todos ellos con sus respectivas especificaciones técnicas.
 
-Tratándose de proyectos de loteo o de loteo con construcción simultánea que deban registrarse en el Registro de Proyectos Inmobiliarios, se presentará el proyecto de telecomunicaciones junto con sus planos y respectivas especificaciones técnicas, suscritos por el proyectista de telecomunicaciones.
+Tratándose de Decreto 10, VIVIENDA
+
+#### Artículo primero
+
+N° 3, 3.1 y 3.2
+
+D.O. 28.11.2018proyectos de loteo o de loteo con construcción simultánea que deban registrarse en el Registro de Proyectos Inmobiliarios, se presentará el proyecto de telecomunicaciones junto con sus planos y respectivas especificaciones técnicas, suscritos por el proyectista de telecomunicaciones.
 
 4. Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, para la densidad propuesta, emitido por la empresa de servicios sanitarios correspondiente. De no existir empresa de servicios sanitarios en el área se deberá presentar un proyecto de agua potable y alcantarillado, aprobado por la autoridad respectiva.
 
 5. Memoria explicativa del loteo.
 
-Deberán adjuntarse sus memorias explicativas y sus especificaciones técnicas.
+6. Comprobante de ingreso del Informe de Mitigación de Impacto Vial o, el certificado que acredite que el proyecto no requiere de dicho informe, en ambos casos emitidos por el sistema electrónico.
+
+En los casos que sea obligatorio la elaboración de un Informe de Mitigación de Impacto Vial, será requisito para otorgar el permiso de loteo que se acompañe la resolución que apruebe el Informe de Mitigación de Impacto Vial o, la certificación del silencio positivo de acuerdo al artículo 64 de la ley N° 19.880, según sea el caso.
 
 #### Artículo 3
 
@@ -3522,6 +3596,10 @@ plano indicando sus características.
 
 5. Los antecedentes se presentarán al Director de Obras Municipales correspondiente, quién resolverá respecto a la división y al permiso de urbanización conforme al procedimiento general. En el caso de proyectos que deban someterse a evaluación ambiental por disposición de la Ley de Bases Generales del Medio Ambiente, deberá presentarse la resolución favorable de la Comisión Regional respectiva.
 
+En los casos que los proyectos a que se refiere este artículo generen crecimiento urbano por extensión o densificación, a la solicitud que se presente a la Dirección de Obras Municipales se deberá acompañar el comprobante de ingreso del Informe de Mitigación de Impacto Vial o, el certificado que acredite que el proyecto no requiere de dicho informe, emitido en ambos casos por el sistema electrónico.
+
+Los proyectos a que se refiere este artículo deberán conectarse con al menos una vía pública, conforme a lo previsto en el artículo 2.2.4. Bis. de esta Ordenanza.
+
 Aperturas de nuevas vías de tránsito público en subdivisiones o loteos existentes.
 
 #### Artículo 3
@@ -3553,6 +3631,12 @@ Para la determinación de los derechos municipales se estará al procedimiento i
 6. Presupuesto de las modificaciones, cuando proceda.
 
 7. Fotocopia de los permisos que se solicita modificar.
+
+8. En caso de modificaciones de proyecto de loteos que cuenten con Informe de Mitigación de Impacto Vial aprobado, se deberá acompañar un certificado, emitido a través del correspondiente sistema electrónico, que verifique la suficiencia de las mitigaciones directas consideradas en dicho Informe para el proyecto modificado, o la certificación del silencio positivo de acuerdo al artículo 64 de la ley N° 19.880, según sea el caso. En caso que las mitigaciones directas consideradas no sean suficientes para el proyecto modificado, se deberá acompañar el comprobante de ingreso del Informe de Mitigación de Impacto Vial. En este último caso, será requisito para aprobar la modificación de proyecto que se acompañe a la Dirección de Obras la resolución que lo apruebe, o la certificación del silencio positivo de acuerdo al artículo 64 de la ley N° 19.880, según sea el caso.
+
+En los casos que se modifique un proyecto que cuente con un certificado emitido por el sistema que señale que no requirió de dicho informe, se deberá acompañar un certificado que acredite que el proyecto modificado no requiere de dicho informe. En caso contrario, se deberá acompañar el comprobante de ingreso del Informe de Mitigación de Impacto Vial. En este último caso, será requisito para aprobar la modificación de proyecto que se acompañe a la Dirección de Obras la resolución que lo apruebe o, la certificación del silencio positivo de acuerdo al artículo 64 de la ley N° 19.880, según sea el caso.
+
+En los casos de los dos párrafos precedentes el Director de Obras Municipales deberá constatar que las modificaciones cuya suficiencia verifica el certificado o se solicitó verificar, en el caso del silencio positivo, sean idénticas a las contenidas en la solicitud de modificación presentadas ante su Dirección.
 
 Una vez aprobados, y para todos los efectos legales, los nuevos antecedentes reemplazarán a los documentos originales.
 
@@ -3734,6 +3818,8 @@ En los certificados de urbanización que se extiendan de acuerdo a lo dispuesto 
 
 En los loteos con construcción simultánea y en los Loteos D.F.L. Nº 2, las Direcciones de Obras podrán autorizar que se garantice la ejecución de las obras de urbanización pendientes, siempre que las obras de edificación respectivas hayan sido ejecutadas y las edificaciones puedan habilitarse independientemente.
 
+Lo dispuesto en este artículo no será aplicable a las garantías de las mitigaciones directas de los proyectos que hayan aprobado un Informe de Mitigación de Impacto Vial, las cuales se regirán por lo dispuesto en el artículo 1.5.4. de esta Ordenanza.
+
 ## Capítulo 4
 
 DE LA RECEPCION DE LAS OBRAS, Y SUS TRANSFERENCIAS E INSCRIPCIONES
@@ -3748,9 +3834,7 @@ DE LA RECEPCION DE LAS OBRAS, Y SUS TRANSFERENCIAS E INSCRIPCIONES
 
 3. Certificado de ejecución de las redes y obras complementarias de agua potable y alcantarillado de aguas servidas y aguas lluvia cuando corresponda, emitido por la respectiva empresa de servicio público sanitario que corresponda.
 
-4. Certificado de ejecución de las redes y obras
-
-complementarias de electrificación y alumbrado público, emitido por la empresa de servicio público de distribución de energía eléctrica que corresponda.
+4. Certificado de ejecución de las redes y obras complementarias de electrificación y alumbrado público, emitido por la empresa de servicio público de distribución de energía eléctrica que corresponda.
 
 5. Certificado de ejecución de las redes de gas y sus obras complementarias, emitido por la empresa de servicio público de gas, cuando proceda.
 
@@ -3759,6 +3843,8 @@ complementarias de electrificación y alumbrado público, emitido por la empresa
 7. Planos y certificados de ejecución de las obras complementarias de urbanización, emitidos por las instituciones competentes, cuando se trate de modificaciones de los cursos de agua o de las redes de alta tensión, entre otras.
 
 8. Certificado de ejecución de las plantaciones y obras de ornato, emitido por la Municipalidad respectiva.
+
+9. En el caso de proyectos que hayan aprobado un Informe de Mitigación de Impacto Vial, se deberá acompañar la documentación que acredite la ejecución de las medidas contenidas en la resolución que lo aprobó o la boleta bancaria o póliza de seguro que garantice su ejecución, en su caso. Cuando se hayan considerado etapas con mitigaciones parciales, deberá acreditarse la ejecución de la respectiva etapa o la existencia de la boleta bancaria o póliza de seguro que la garantice.
 
 A la solicitud de recepción definitiva deberá adjuntarse, además, el plano de loteo definitivo o de la división afecta a utilidad pública, según corresponda, que incluirá todas las modificaciones que se hayan introducido al plano aprobado durante la ejecución de las obras y que incluirá las servidumbres que hayan considerado las obras por recibirse.
 
@@ -5610,15 +5696,7 @@ No corresponderá a las Direcciones de Obras Municipales exigir ni verificar el 
 
 #### Artículo 4
 
-5.4. Las solicitudes de permiso para construir o destinar edificios existentes a locales escolares, que consulten una capacidad superior a 720 alumnos, deberán acompañarse de un estudio sobre el impacto que ellos puedan generar en el barrio o sector donde se proyecten localizar.
-
-El estudio estará destinado a identificar, evaluar y proponer soluciones ante los efectos negativos que el proyecto pueda generar sobre la estructura urbanística y ambiental del respectivo sector o barrio.
-
-Para la finalidad señalada en el inciso anterior, el estudio comprenderá, entre otras, las siguientes materias:
-
-1. Accesibilidad vehicular y peatonal actual y futura del sector, suponiendo el funcionamiento del establecimiento en las horas habituales de entrada y salida de los usuarios.
-
-2. Efectos de la contaminación acústica desde el local escolar hacia el exterior, derivados de su localización, tomando como base el nivel de ruidos actual y futuro.
+5.4. Derogado.-
 
 #### Artículo 4
 
@@ -6502,9 +6580,7 @@ discapacidad.
 
 #### Artículo 4
 
-8.3. La dotación mínima de estacionamientos será la contemplada en el respectivo Instrumento de Planificación Territorial. En caso que éste no tuviere disposición al respecto, deberá adjuntarse un Estudio de Tránsito que evalúe los posibles impactos sobre la vialidad circundante. La cantidad de estacionamientos para personas con discapacidad corresponderá al 50% de la cantidad de espacios libres previstos en el proyecto destinado a espectadores en silla de ruedas, con un mínimo de 2 estacionamientos, los que estarán conectados a la ruta accesible a través de la franja de circulación segura señalada. Su diseño y demarcación será conforme señala el artículo 2.4.2. de esta Ordenanza
-
-Las instalaciones que contemplen una carga de ocupación superior a 1.000 personas deberán adjuntar el estudio señalado en el inciso anterior, considerando el área de influencia que tendrían los automóviles en los eventos de plena ocupación.
+8.3. La dotación mínima de estacionamientos será la contemplada en el respectivo Instrumento de Planificación Territorial. La cantidad de estacionamientos para personas con discapacidad corresponderá al 50% de la cantidad de espacios libres previstos en el proyecto destinado a espectadores en silla de ruedas, con un mínimo de 2 estacionamientos, los que estarán conectados a la ruta accesible a través de la franja de circulación segura señalada. Su diseño y demarcación será conforme señala el artículo 2.4.2. de esta Ordenanza.
 
 #### Artículo 4
 
@@ -6842,7 +6918,7 @@ Las edificaciones construidas o que se construyan al interior de terminales de s
 
 #### Artículo 4
 
-13.4. Los terminales de servicios de locomoción colectiva urbana, con excepción de los terminales externos, terminales de vehículos y depósitos de vehículos de las categorías A1, A2 y B1, requerirán de un Estudio de Impacto sobre el Sistema de Transporte Urbano, el que se deberá acompañar a la solicitud de permiso de edificación del proyecto que se origine con motivo del emplazamiento del terminal, suscrito por un profesional especialista y aprobado por el Ministerio de Transportes y Telecomunicaciones.
+13.4. Derogado.-
 
 #### Artículo 4
 
@@ -7258,15 +7334,31 @@ Tratándose de regularizaciones de edificaciones construidas con anterioridad al
 
 1.2. El permiso no será necesario cuando se trate de:
 
-1. Obras de carácter no estructural al interior de una vivienda.
+1. Obras de carácter no estructural al interior o en la fachada de una edificación existente, las cuales pueden incluir la modificación de instalaciones o de tabiques no soportantes, siempre que no impliquen la ampliación de superficie, modificación de la carga de ocupación, cambio de destino o la modificación del destino o actividad.
+
+Para estos casos, al finalizar las respectivas obras, se deberá presentar un expediente a la Dirección de Obras Municipales que contendrá los siguientes documentos y antecedentes, suscritos por el propietario y el arquitecto:
+
+a) Planos del proyecto.
+
+b) Especificaciones técnicas.
+
+c) Planos de las instalaciones que se incorporan o modifican, incluyendo los certificados de recepción de éstas por la autoridad competente, cuando corresponda.
+
+d) Informe del arquitecto, identificando la normativa legal, reglamentaria y técnica aplicable al proyecto, señalando que éste no altera la estructura de la edificación y que las obras fueron ejecutadas de conformidad a dicho proyecto.
+
+e) Fotocopia del comprobante de pago al día de la patente profesional del arquitecto.
+
+Solo si este expediente contiene todos y cada uno de los documentos y antecedentes señalados en el párrafo anterior, y existe correspondencia entre ellos, el Director de Obras Municipales procederá a su archivo en el expediente del permiso de la edificación en la que se efectúan estas obras, o en una sección creada para estos fines en el catastro de obras de urbanización y edificación, en caso de no existir expediente de permiso. En caso contrario, cuando falte alguno de los documentos y antecedentes requeridos, o no haya correspondencia entre éstos, el ingreso de este expediente será rechazado, emitiendo el respectivo comprobante de rechazo timbrado y fechado indicando el motivo del rechazo. En este trámite no procederá emitir el Acta de observaciones señalada en el artículo 1.4.9. de esta Ordenanza General.
+
+Las edificaciones con destino vivienda estarán exentas de la obligación de presentar el expediente que se refiere este numeral.
 
 2. Elementos exteriores sobrepuestos que no requieran cimientos.
 
-3. Cierros interiores.
+3. Cierros interiores o muros divisorios que separan dos propiedades distintas, cierros exteriores frente al espacio público, sin perjuicio del cumplimiento de la altura, porcentajes de transparencia y otras características señaladas en el respectivo Plan Regulador Comunal.
 
 4. Obras de mantención.
 
-5. Instalaciones interiores adicionales a las reglamentariamente requeridas, sin perjuicio del cumplimiento de las normas técnicas que en cada caso correspondan, tales como: instalaciones de computación, telefonía, música, iluminación decorativa, aire acondicionado, alarmas, controles de video, y otras.
+5. Instalaciones interiores adicionales a las reglamentariamente requeridas o exteriores en una edificación existente tales como: instalaciones de computación, telefonía, música, iluminación decorativa, aire acondicionado, alarmas, controles de video, y otras de similar naturaleza; sin perjuicio del cumplimiento de las normas técnicas que en cada caso correspondan. Asimismo, comprende las instalaciones exteriores en una vivienda para el servicio de ésta, tratándose de paneles solares térmicos, paneles solares fotovoltaicos u otras instalaciones de generación de energía.
 
 6. Piscinas privadas a más de 1,5 m del deslinde con predios vecinos.
 
@@ -7281,6 +7373,10 @@ c) Autorización del Ministerio de Transportes y Telecomunicaciones, en conformi
 d) Instrumento en que conste el cumplimiento de los requisitos establecidos por la Dirección General de Aeronáutica Civil, cuando corresponda.
 
 La instalación de antenas adosadas a edificios existentes no requerirá del mencionado aviso.
+
+8. La ejecución de obras de jardinería y ornato en predios privados, incluida su correspondiente solución de riego, siempre que no correspondan a las obras de urbanización señaladas en el artículo 3.2.11. de esta Ordenanza.
+
+En todos los casos previstos en este artículo, la ejecución de las obras que no requieren permiso del Director de Obras Municipales, no exime al propietario del cumplimento de todas y cada una de las normas legales, reglamentarias o técnicas aplicables a estas obras, así como tampoco lo exime de la obligación de contar con los profesionales competentes o técnicos responsables que señale esa misma normativa.
 
 #### Artículo 5
 
@@ -7324,7 +7420,7 @@ Todos los documentos anteriores, se archivarán conjuntamente con el respectivo 
 
 En estos casos, se deberá pagar el derecho municipal establecido en el número 2 del artículo 130º de la Ley General de Urbanismo y Construcciones.
 
-B. Cuando las obras menores correspondan a modificaciones de edificaciones existentes que no alteren su estructura, con excepción de las señaladas en el artículo 5.1.2. de esta Ordenanza, el permiso será otorgado por el Director de Obras Municipales, en un plazo máximo de 15 días, contra la presentación de una fotocopia del Certificado de Informaciones Previas y una declaración simple del profesional competente que las hubiere proyectado, en cuanto a que éstas cumplen con la normativa vigente, describiendo las obras, indicando el presupuesto y acompañando un croquis de su ubicación, todo lo cual se archivará conjuntamente con el respectivo expediente de edificación. En estos casos, se deberá pagar el derecho municipal establecido en el número 3 del artículo 130º de la Ley General de Urbanismo y Construcciones.
+B. Cuando las obras correspondan a obras menores, el permiso será otorgado por el Director de Obras Municipales, en un plazo máximo de 15 días, contra la presentación de una fotocopia del Certificado de Informaciones Previas y una declaración simple del profesional competente que las hubiere proyectado, en cuanto a que éstas cumplen con la normativa vigente, describiendo las obras, indicando el presupuesto y acompañando un croquis de su ubicación, todo lo cual se archivará conjuntamente con el respectivo expediente de edificación. En estos casos, se deberá pagar el derecho municipal establecido en el número 3 del artículo 130º de la Ley General de Urbanismo y Construcciones.
 
 2. Permiso de Obra Menor de ampliaciones de viviendas sociales y de regularización de edificaciones anteriores al 31 de julio de 1959:
 
@@ -7892,6 +7988,8 @@ Se incorporará además una Memoria de Accesibilidad del proyecto suscrita por e
 
 15. Proyecto de telecomunicaciones junto con sus planos y respectivas especificaciones técnicas, suscritos por el proyectista de telecomunicaciones, cuando se trate de proyectos de edificación que deban registrarse en el Registro de Proyectos Inmobiliarios.
 
+16. Comprobante de ingreso del Informe de Mitigación de Impacto Vial o del certificado que acredite que el proyecto no requiere de dicho informe, en ambos casos emitido por el sistema electrónico.
+
 Los niveles y superficies declaradas serán responsabilidad del profesional competente suscriptor del proyecto.
 
 En los dibujos de las plantas, cortes y elevaciones se empleará la escala 1:50. Si la planta del edificio tiene una longitud mayor de 50 m dicha escala podrá ser 1:100. En caso justificado se admitirán planos a otra escala.
@@ -7901,6 +7999,8 @@ Respecto de los antecedentes identificados con los números 7., 8., 10. y 11. de
 Las solicitudes de permiso de edificación de las construcciones industriales, de equipamiento, turismo y poblaciones, ubicadas fuera de los límites urbanos, deberán acompañar además de los antecedentes que señala este artículo, los informes favorables de la Secretaría Regional del Ministerio de Vivienda y Urbanismo y del Servicio Agrícola Ganadero.
 
 Se entienden incluidos en el permiso de edificación todas las autorizaciones o los permisos necesarios para la ejecución de una obra, tales como permisos de demolición, instalación de faenas, instalación de grúas y similares, cuando se hayan adjuntado los antecedentes respectivos.
+
+En los casos que sea obligatorio la elaboración de un Informe de Mitigación de Impacto Vial, será requisito para otorgar el permiso que se acompañe a la Dirección de Obras la resolución que lo apruebe o, la certificación del silencio positivo de acuerdo al artículo 64 de la ley N° 19.880, según sea el caso.
 
 #### Artículo 5
 
@@ -8377,6 +8477,8 @@ Junto a la solicitud de recepción definitiva de la obra se acompañará el lega
 6. Declaración de instalaciones de calefacción, central de agua caliente y aire acondicionado, emitida por el instalador, cuando proceda.
 
 7. Certificados de ensaye de los hormigones empleados en la obra, de acuerdo con las normas oficiales, cuando proceda.
+
+8. En el caso de proyectos que hayan aprobado un Informe de Mitigación de Impacto Vial, se deberá ingresar la documentación que acredite la ejecución de las medidas correspondientes o la boleta bancaria o póliza de seguro en el caso que la garantice su ejecución. Cuando se hayan considerado etapas con mitigaciones parciales, deberá acreditarse su ejecución o la existencia de la boleta bancaria o póliza de seguro que garantice la respectiva etapa, en los casos que corresponda.
 
 Lo señalado en el párrafo anterior será, también, exigible cuando se haya aprobado materializar los Aportes al Espacio Público a través de estudios, proyectos, obras y medidas conforme a los incisos segundo y siguientes del artículo 179 de la Ley General de Urbanismo y Construcciones.
 
