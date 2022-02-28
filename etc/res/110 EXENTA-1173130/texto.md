@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 110 EXENTA, DE 2022
+
+Por resolución exenta Nº 110, de 16 de febrero de 2022, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Atacama, autorizó el funcionamiento del terminal no urbano de Servicios de Transporte Público de Pasajeros, ubicado en Ruta 5 Longitudinal Norte (Acceso Sur) Nº 01500, comuna de Copiapó, a la concesionaria, Empresa Construcciones y Aplicaciones Contractal Limitada, representada legalmente por don Claudio Eugenio Atal Ramos. El concesionario del Terminal No Urbano precedentemente individualizado, deberá dar cumplimiento a lo establecido en los decretos Nº 499/86 y 438/88, ambos de la Ilustre Municipalidad de Copiapó, que crean, modifican y complementan respectivamente la Ordenanza Sobre Terminales de Locomoción Colectiva No Urbana de la comuna de Copiapó.-
+
+Vittorio Ghiglino Bianchi, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región de Atacama.
