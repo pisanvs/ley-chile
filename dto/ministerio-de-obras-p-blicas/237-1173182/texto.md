@@ -1,0 +1,13 @@
+AMPLIACIÓN DE CONCESIONES DE SERVICIOS SANITARIOS PARA ATENCIÓN DEL ÁREA DENOMINADA "SECTOR A", DE LA COMUNA DE PITRUFQUÉN, REGIÓN DE LA ARAUCANÍA
+
+Por decreto número 237, del Ministerio de Obras Públicas, de fecha 25 de noviembre de 2021, íntegramente tramitado el 15 de febrero de 2022, se concedió a la Empresa Concesionaria de Servicios Sanitarios S.A. (Econssa Chile S.A.), RUT Nº 96.579.410-7, domiciliada para estos efectos en calle Monjitas número 392, piso 10, oficina 1003, Santiago, Región Metropolitana, ampliación de las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas para atender el área denominada "Sector A", de la comuna de Pitrufquén, Región de la Araucanía.
+
+El área de concesión o territorio operacional de los servicios de producción y distribución de agua potable y de recolección y disposición de aguas servidas, corresponderá a un área de aproximadamente 41,76 hectáreas, que se encuentra identificada y delimitada en el plano denominado "Solicitud de Ampliación Territorio Operacional Pitrufquén - IX Región Contenido: Sector de Ampliación Territorio Operacional Pitrufquén detalle de lotes por sector y cuadros de coordenadas", que forma parte integrante del presente decreto. Se espera que en el primer establecimiento (2025) se considera la instalación de 1.647 arranques de agua potable y 1.629 uniones domiciliarias de alcantarillado, cantidad que aumentará a 1.735, en ambos casos, hacia el final del período (año 2035).
+
+El servicio público de producción de agua potable para la localidad de Loncoche, incluida el área que se amplía por este decreto, será abastecido por las fuentes que se indican en el numeral 3.1, letra a) de la Ficha de Antecedentes Técnicos (FAT). Sobre las cuales la concesionaria tiene los derechos que se individualizan en los respectivos informes de títulos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el artículo 26º del DS MOP Nº 1.199/04 y se encuentran afectos a la concesión. Todos los documentos indicados forman parte integrante del presente decreto.
+
+Las demás condiciones de prestación de los servicios otorgados en concesión son las establecidas en la Ficha de Antecedentes Técnicos (FAT) Nº SC 09 - 04-A, que forma parte integrante del presente decreto.
+
+Programa de desarrollo, nivel tarifario, garantías y otros en decreto extractado que se redujo a escritura pública con fecha 16 de febrero de 2022, ante el Notario de la 8ª Notaría de Santiago, don Luis Ignacio Manquehual Mery y archivados en la Superintendencia de Servicios Sanitarios bajo el Nº SC 09 - 04 A.
+
+Santiago, febrero de 2022.- David Peralta Anabalón, Superintedente de Servicios Sanitarios (S).
