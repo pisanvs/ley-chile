@@ -568,9 +568,9 @@ sociedades de profesionales, y que ejerzan su
 
 profesión en ellas otorgando prestaciones,
 
-deberán estar inscritos en el Rol de la
+no necesariamente deberán estar inscritos
 
-Modalidad de libre elección.
+en el Rol de la Modalidad de libre elección.
 
 d) Los profesionales para atender a sus
 
@@ -1046,7 +1046,7 @@ f) Tratándose de las prestaciones otorgadas en situaciones de emergencia o urge
 
 a) Los valores de las prestaciones consignados en el arancel, incluyen los honorarios profesionales y la totalidad de los insumos corrientes que se utilicen. Dichos valores no incluyen los medicamentos, los insumos y elementos expresamente señalados en contrario en el arancel y aquellos insumos específicamente necesarios para procedimientos o intervenciones, tales como arteriografías, angioplastías, procedimientos endoscópicos de especialidades, etc.
 
-b) Se entenderán incluidos en el honorario profesional, la confección de la ficha clínica, todas las explicaciones e instructivos necesarios para efectuar cualquier prestación y el informe de la misma, cuando corresponda.
+b) Se entenderán incluidos en el honorario profesional, la confección de la ficha clínica, todas las explicaciones e instructivos necesarios para efectuar cualquier prestación y el informe de la misma educación, cuando corresponda.
 
 c) Para tener derecho a recargo por horario inhábil, las prestaciones deben ser efectuadas en conformidad a lo establecido en el artículo 7º del arancel.
 
@@ -1078,21 +1078,19 @@ e) Cuando las instituciones o entidades al realizar determinadas prestaciones, d
 
 Asimismo, en la circunstancia anterior, el beneficiario deberá dejar constancia por escrito de su opción. Excepcionalmente, esta renuncia podrá ser presentada por un representante del beneficiario.
 
-f) El cobro del código 01-01-003 por parte de instituciones que tengan inscrito dicho código, procederá exclusivamente cuando las atenciones hayan sido efectuadas por profesionales que cumplan con los requisitos establecidos en el punto 7.1.5.
+f) El cobro por parte del prestador, debe efectuarse dentro del plazo de dos años contados desde la fecha de emisión, ya que en caso contrario, el Fondo rechazará su pago.
 
-g) El cobro por parte del prestador, debe efectuarse dentro del plazo de dos años contados desde la fecha de emisión, ya que en caso contrario, el Fondo rechazará su pago.
+g) Para cobrar prestaciones de laboratorio, imagenología, órtesis y prótesis, prescritas por médico tratante, u otros profesionales autorizados, las respectivas prescripciones debidamente timbradas por el cajero emisor, serán custodiadas por el prestador que cobra las prestaciones señaladas, por un período no inferior a cinco años. De consecuencia, no se exigirá al prestador adjuntar dichos documentos a la cobranza de órdenes tradicionales o electrónicas, sin perjuicio que FONASA, en procesos de fiscalización pueda requerir tales prescripciones.
 
-h) Para cobrar prestaciones de laboratorio, imagenología, órtesis y prótesis, prescritas por médico tratante, u otros profesionales autorizados, las respectivas prescripciones debidamente timbradas por el cajero emisor, serán custodiadas por el prestador que cobra las prestaciones señaladas, por un período no inferior a cinco años. De consecuencia, no se exigirá al prestador adjuntar dichos documentos a la cobranza de órdenes tradicionales o electrónicas, sin perjuicio que FONASA, en procesos de fiscalización pueda requerir tales prescripciones.
-
-i) Los Servicios de Salud cuyos hospitales cuenten con servicios de pensionado para otorgar prestaciones de salud en la modalidad de libre elección, deberán conservar en la historia clínica del paciente, el original del formulario de declaración de elección de la modalidad de atención.
+h) Los Servicios de Salud cuyos hospitales cuenten con servicios de pensionado para otorgar prestaciones de salud en la modalidad de libre elección, deberán conservar en la historia clínica del paciente, el original del formulario de declaración de elección de la modalidad de atención.
 
 El formulario, al menos, debe considerar en forma clara los siguientes datos: identificación del beneficiario, nombre completo y R.U.T., Modalidad de Atención por la que se está optando, nombre del profesional que realizará las prestaciones, firma y R.U.T. del aceptante y fecha del documento.
 
-j) El Fondo pagará únicamente las órdenes o bonos de atención que cumplan los requisitos señalados y por prestaciones efectivamente realizadas. No obstante lo cual, el Director del Fondo o en quien haya delegado esta facultad, podrá autorizar el pago de órdenes que no se ajusten totalmente a esta normativa.
+i) El Fondo pagará únicamente las órdenes o bonos de atención que cumplan los requisitos señalados y por prestaciones efectivamente realizadas. No obstante lo cual, el Director del Fondo o en quien haya delegado esta facultad, podrá autorizar el pago de órdenes que no se ajusten totalmente a esta normativa.
 
-k) Las entidades y establecimientos, en ningún caso podrán cobrar por prestaciones efectuadas por profesionales cuyo registro en el rol, haya sido objeto de suspensión o cancelación, mediante el procedimiento sancionatorio establecido en el Art 143 del Libro II, mientras tales medidas se encuentren vigentes.
+j) Las entidades y establecimientos, en ningún caso podrán cobrar por prestaciones efectuadas por profesionales cuyo registro en el rol, haya sido objeto de suspensión o cancelación, mediante el procedimiento sancionatorio establecido en el Art 143 del Libro II, mientras tales medidas se encuentren vigentes.
 
-l) El Fondo Nacional de Salud, no autorizará la inscripción de ningún prestador que no tenga capacidad para realizar con sus propios medios las prestaciones que desea inscribir.
+k) El Fondo Nacional de Salud, no autorizará la inscripción de ningún prestador que no tenga capacidad para realizar con sus propios medios las prestaciones que desea inscribir.
 
 7. GRUPO 01 CONSULTAS, VISITAS MÉDICAS, TELECONSULTA Y TELEREHABILITACIÓN
 
@@ -1132,7 +1130,7 @@ El prestador debe tomar todas las medidas de seguridad de la información para q
 
 Para efectos de la Modalidad Libre Elección las especialidades médicas deberán ser certificadas, de acuerdo a lo establecido en el numeral 2.3 de esta Normativa.
 
-7.1.3 "Consulta de Medicina General" (cód. 01-01-001):
+7.1.3 "Consulta Medicina General" (cód. 01-01-001):
 
 Es la atención profesional otorgada por un médico a un paciente, en las condiciones establecidas en el punto 7.1.1 anterior.
 
@@ -1182,7 +1180,7 @@ a) Las prestaciones del grupo 01 sub grupo 08, serán excluyentes entre sí, con
 
 b) Las siguientes prestaciones se autorizan para atenciones remotas a partir de la primera consulta y tendrán una duración mínima de 10 minutos, a excepción del código 01-08-212 y 01-08-213, los que deberán tener una duración mínima de 30 minutos.
 
-- Teleconsulta Médica General 01-08-001
+- Teleconsulta Medicina General 01-08-001
 
 - Teleconsulta Médica de Especialidad en Dermatología 01-08-201
 
@@ -1526,7 +1524,7 @@ Los frascos de toma de muestra de los hemocultivos automatizados y cultivos de c
 
 q) La determinación de Streptococcus Grupo B/ agalactie en embarazadas por cultivo con medio selectivo y/o enriquecido 03-06-099, se realiza en muestras de fluidos secreción perineal o vaginorectal y debe sembrarse en medios enriquecidos especiales para el crecimiento de esta bacteria.
 
-r) La prestación Virus Papiloma Humano por PCR con genotipificación de papiloma de alto riesgo de Ca Cérvico Uterino tipos 16 y 18 código 03-06-123, podrá ser efectuada solo en laboratorios validados en técnica PCR, incluye insumos para la toma de muestra (cepillado cervical).
+r) La prestación Virus Papiloma Humano por PCR con genotipificación de papiloma de alto riesgo de Ca Cérvico Uterino tipos 16 y 18 código 03-06-123, podrá ser efectuada solo en laboratorios validados en técnica PCR, incluye insumos para la toma de muestra (cepillado cervical). Esta prestación puede ser presentada a cobro por Laboratorios Clínicos o de Anatomía Patológica.
 
 s) La prestación Reacción cutánea a alérgenos (incluye el valor de los alérgenos) código 03-07-024, que se realiza en el antebrazo, corresponde a la emisión de un BAS por prestación, salvo en excepciones en que se realice en ambos antebrazos, se podrá emitir el código 03-07-024 X 2, dicha indicación deberá encontrarse consignada en la orden médica correspondiente, sin embargo, el Fondo establecerá máximos anuales, en virtud de lo señalado en el artículo 6.1, letra i), de estas normas.
 
@@ -1540,19 +1538,33 @@ w) Linfocitos T (CD3, CD4, CD8). Técnica Citometría de Flujo Cód. 03-05-091: 
 
 x) Natural Killers (CD16, CD56). Técnica Citometría de Flujo Cód. 03-05-092: Determinación de subpoblaciones de linfocitos natural killers CD16 y CD56 por citometría de flujo. Código incluye la determinación de CD16 y CD56 no corresponde cobro unitario.
 
-y) FISH en frotis frescos de médula ósea, sangre, concentrado de células plasmáticas seleccionadas o corte de tejido en parafina, búsqueda de alteraciones adquiridas Cód. 03-04-011: Estudio y análisis de un tipo celular por hibridación in situ con fluorescencia (FISH). Prestación se debe realizar solo en laboratorios validados técnica FISH. Incluye procedimiento de obtención de un tipo celular, pre tratamiento con pepsina u otro, desparafinización en caso de corte de tejido. Esta prestación no tiene recargo horario.
+y) Estudio de deleciones y duplicaciones por amplificación múltiple de sondas dependiente de ligación (MLPA) (1 o varios genes) Cód. 03-04-009: Estudio de rearreglos genómicos por análisis en la variación del número de copias de un gen o región genómica por amplificación múltiple de sondas ligadas (MLPA). Código solo aplica para el estudio con la técnica MLPA no procede homologación para otras técnicas.
 
-z) Estudio de deleciones y duplicaciones por amplificación múltiple de sondas dependiente de ligación (MLPA) (1 o varios genes) Cód. 03-04-009: Estudio de rearreglos genómicos por análisis en la variación del número de copias de un gen o región genómica por amplificación múltiple de sondas ligadas (MLPA). Código solo aplica para el estudio con la técnica MLPA no procede homologación para otras técnicas.
+z) Estudio de deleciones y duplicaciones por amplificación múltiple de sondas dependiente de ligación (MLPA) más estudio de metilación o segundo set de sondas (1 o varios genes) Cód. 03-04-010: Estudio de rearreglos genómicos por análisis en la variación del número de copias de un gen o región genómica con imprinting o metilación alelo especíofica por amplificación múltiple de sondas ligadas (MLPA) o dos set de sondas. Código solo aplica para el estudio con la técnica MLPA no procede homologación para otras técnicas.
 
-aa) Estudio de deleciones y duplicaciones por amplificación múltiple de sondas dependiente de ligación (MLPA) más estudio de metilación o segundo set de sondas (1 o varios genes) Cód. 03-04-010: Estudio de rearreglos genómicos por análisis en la variación del número de copias de un gen o región genómica con imprinting o metilación alelo especíofica por amplificación múltiple de sondas ligadas (MLPA) o dos set de sondas. Código solo aplica para el estudio con la técnica MLPA no procede homologación para otras técnicas.
+aa) VIH, Genotipificación Antivirales Cód. 03-06-109: Identificación por secuenciación de patrón de resistencia a drogas triterapia anti VIH Identificación de genotipos del virus VIH. Prestación se debe realizar solo en laboratorios validados en técnica PCR secuenciación. Incluye múltiples drogas mínimo 3.
 
-bb) VIH, Genotipificación Antivirales Cód. 03-06-109: Identificación por secuenciación de patrón de resistencia a drogas triterapia anti VIH Identificación de genotipos del virus VIH. Prestación se debe realizar solo en laboratorios validados en técnica PCR secuenciación. Incluye múltiples drogas mínimo 3.
+bb) Hormona tiroestimulante, neonatal, código 03-02-097, determinación cuantitativa del nivel de la hormona tiroestimulante en gotas de sangre seca, prestación dirigida a RN menores de 28 días. Esta prestación se encuentra incluida en la pesquisa neonatal, por tanto, no procede su cobro simultáneo.
+
+cc) Perfil de aminoácidos y acilcarnitinas, código 03-02-098, determinación del perfil de aminoácidos y acilcarnitinas en gotas de sangre seca. Esta prestación se encuentra incluida en la pesquisa neonatal, por tanto, no procede su cobro simultáneo.
+
+dd) Pesquisa neonatal ampliada código 03-02-099, prestación dirigida a RN menores de 28 días. El valor incluye la determinación de los parámetros: perfil de aminoácidos y acilcarnitinas, succinilacetona, hormona tiroestimulante, biotinidasa, galactosa total, galactosa-1-fosfato uridiltransferasa,17-hidroxiprogesterona y tripsina inmunoreactiva en gotas de sangre seca. No procede cobro por separado.
+
+ee) Screening de mucopolisacáridos código 03-09-046, determinación de la presencia, concentración y tipos de glicosaminoglicanos excretados en orina, incluye determinación cualitativa de glicosaminoglicanos (GAGSs) en orina, mediante tinción específica sobre papel filtro, determinación cuantitativa de GAGS en orina por método colorimétrico mediante la utilización de estándar de GAGS y cromatografía en capa fina de los GAGS excretados en orina con 1 corrida cromatografía en 6 solventes distintos y tinción específica. Se incluye el análisis de controles normales y patológicos.
+
+ff) Estudio inmunológico de diabetes (determinación de anticuerpos anti células de islotes (ICA), auto anticuerpo insulina nativa (IAA), anti antígeno de insulinoma-2 (IA2) y anti glutamato descarboxilasa (GADA), código 03-05-106, prestación que incorpora la determinación simultánea de anticuerpos ICA, IAA, IA2 y GADA.
+
+gg) Cariotipo molecular (Hibridación Genómica Comparativa en Micromatrices) 60K, código 03-04-016, análisis de variaciones en el número de copias de oligonucleótidos, incluye 60.000 oligonucleótidos representativos del genoma completo, incluye la extracción de ADN.
+
+hh) La prestación Hemoglobina glicada, A1c, test rápido en el lugar de asistencia (incluye toma de muestra sangre capilar) código 03-01-116, las técnicas conocidas como Pruebas de Laboratorio en el lugar de Asistencia (POCT), sólo pueden ser inscritas por prestadores institucionales y requieren de la supervisión y control del equipamiento y toma de muestra por parte del personal profesional del laboratorio que las inscriba y de la capacitación a cada uno de los operadores no especialistas en laboratorio clínico POCT.
 
 9.3.- LABORATORIOS DE ANATOMÍA PATOLÓGICA.
 
 Las prestaciones del grupo 08 solo serán otorgadas a partir de la presente resolución por establecimientos que cuente con la Autorización de la Secretaría Regional Ministerial de funcionamiento, según normativa vigente, deberá contar con un médico especialista en Anatomía Patológica, debiendo dar cumplimiento a lo dispuesto en el punto 2, 3 y 4 de esta norma.
 
 Los establecimientos de salud en las que se realizan estudios histopatológicos y citopatológicos en general, mediante Técnicas Histológicas corrientes o especiales, corresponden a los actuales códigos 08-01-002 al 08-01-008 y 08-01-011 al 08-01-012. Los laboratorios de Anatomía Patológica, deberán informar sistema y tiempo de almacenamiento de láminas y tacos.
+
+La prestación Hibridación in situ en corte de tejido en parafina, búsqueda de alteraciones código 08-01-013, corresponde a la técnica molecular de hibridación in situ con fluorescencia o plata o cromógeno por cada mutación específica en tejidos, incorpora cualquiera de las técnicas de hibridación en tejido FISH (Hibridación Fluorescente), DISH (Hibridación In Situ Dual con plata) o CISH (Hibridación In Situ Dual con Cromógeno). El cobro de esta prestación es por cada una de las técnicas señaladas.
 
 Deberán contar con sistemas de información, manuales o computacionales, de solicitudes, registro y resultado de exámenes que aseguren la debida confidencialidad, trazabilidad y resguardo de los datos sensibles que comprendan:
 
@@ -1806,15 +1818,15 @@ f) Para la emisión de prescripción médica, el médico tratante deberá regist
 
 Deberá el prestador mantener la orden médica por un plazo no inferior a 5 años, desde la fecha de cobro de la prestación.
 
-e) El código arancelario, 06-01-101, Evaluación Kinesiológica Integral, en atención ambulatoria, no requiere que la orden médica señale expresamente la evaluación integral por parte del profesional, sin embargo, para acceder al cobro de la prestación deberá contar con la prescripción médica, que señala la derivación terapéutica por parte del profesional tratante, en los casos de atención cerrada, esta prestación requiere de una orden de derivación médica y/o indicación en la Ficha Clínica.
+g) El código arancelario, 06-01-101, Evaluación Kinesiológica Integral, en atención ambulatoria, no requiere que la orden médica señale expresamente la evaluación integral por parte del profesional, sin embargo, para acceder al cobro de la prestación deberá contar con la prescripción médica, que señala la derivación terapéutica por parte del profesional tratante, en los casos de atención cerrada, esta prestación requiere de una orden de derivación médica y/o indicación en la Ficha Clínica.
 
-g) Eventualmente, si un paciente requiere prolongar un tratamiento kinesiológico ambulatorio, el médico tratante deberá extender una nueva orden médica, excepto para los beneficiarios inscritos en el Registro Nacional de Discapacidad y que pertenezcan a FONASA, quienes podrán acceder a estas prestaciones sin tope de atenciones.
+h) Eventualmente, si un paciente requiere prolongar un tratamiento kinesiológico ambulatorio, el médico tratante deberá extender una nueva orden médica, excepto para los beneficiarios inscritos en el Registro Nacional de Discapacidad y que pertenezcan a FONASA, quienes podrán acceder a estas prestaciones sin tope de atenciones.
 
-h) No corresponde el cobro de la prestación código 06-01-022 (Masoterapia) en pacientes con patología respiratoria.
+i) No corresponde el cobro de la prestación código 06-01-022 (Masoterapia) en pacientes con patología respiratoria.
 
-i) Sólo cuando se trate de prestaciones diferentes incluidas en un mismo código, se acepta el cobro de códigos repetidos en un mismo Bono de Atención de Salud (BAS).
+j) Sólo cuando se trate de prestaciones diferentes incluidas en un mismo código, se acepta el cobro de códigos repetidos en un mismo Bono de Atención de Salud (BAS).
 
-l) Durante el periodo de vigencia de Alerta Sanitaria decretada por el Ministerio de Salud, en relación a Covid-19, las prestaciones efectuadas por profesionales Kinesiólogos, podrán ser efectuadas y presentadas a cobro con los códigos que a continuación se detallan:
+k) Durante el periodo de vigencia de Alerta Sanitaria decretada por el Ministerio de Salud, en relación a Covid-19, las prestaciones efectuadas por profesionales Kinesiólogos, podrán ser efectuadas y presentadas a cobro con los códigos que a continuación se detallan:
 
 12.1.1.- Definiciones.
 
@@ -1824,13 +1836,15 @@ a) Evaluación Kinesiológica Integral código 06-01-101. Atención destinada a 
 
 Esta prestación deberá, ser efectuada de forma independiente, asimismo, deberá ser efectuada en días distintos al inicio de las sesiones de tratamiento. Se considera una evaluación inicial para programar las terapias o procedimientos y el cobro de una segunda evaluación, para finalizar tratamiento. La continuación del tratamiento no podrá incluir cobro de nuevas evaluaciones.
 
-b) Atención Kinesiológica Integral Ambulatoria o Domiciliaria código 06-01-102. Atención destinada a desarrollar, mantener, mejorar o recuperar el movimiento y la función de una persona en cualquier condición de salud a lo largo del curso de la vida, así como, la prevención de disfunciones a través de la prescripción, supervisión y facilitación de ejercicio terapéutico, entrenamiento funcional de ayudas técnicas y prótesis, más aplicación de terapias manuales, instrumentales o agentes físicos y otras estrategias terapéuticas que el avance de la ciencia y tecnología lo permita, siempre que estas cuenten con estudios clínicos que avalen su ejecución en concordancia con los lineamientos Ministeriales vigentes. El uso de las diferentes estrategias terapéuticas estará en relación al diagnóstico médico de derivación y las necesidades de cada beneficiario. También se considera que estas prestaciones pueden ser entregadas en domicilio, esta prestación, no incluye la evaluación integral del profesional.
+b) Atención Kinesiológica Integral Ambulatoria código 06-01-105 y Atención Kinesiológica Integral Domiciliaria código 06-01-106, esta última a efectuar en el domicilio del paciente. Atenciones destinadas a desarrollar, mantener, mejorar o recuperar el movimiento y la función de una persona en cualquier condición de salud a lo largo del curso de la vida, así como, la prevención de disfunciones a través de la prescripción, supervisión, autocuidado y facilitación de ejercicio terapéutico, entrenamiento funcional de ayudas técnicas y prótesis, más aplicación de terapias manuales, instrumentales o agentes físicos y otras estrategias terapéuticas que el avance de la ciencia y tecnología lo permita, siempre que estas cuenten con estudios clínicos que avalen su ejecución en concordancia con los lineamientos ministeriales vigentes. El uso de las diferentes estrategias terapéuticas estará en relación con el diagnóstico médico de derivación y las necesidades de cada beneficiario. Estas prestaciones no incluyen la evaluación integral del profesional. Estos códigos arancelarios requieren de derivación del médico profesional tratante. Ambas prestaciones incluyen los insumos y equipamiento necesarios para entregar la atención integral al beneficiario.
 
 c) Atención Kinesiológica Integral en Pacientes hospitalizados código 06-01-103. Es un conjunto de prestaciones que incluye todos los procedimientos de kinesiterapia que deba realizar el profesional a un beneficiario hospitalizado, en una prestación, con excepción de las evaluaciones. Incluye prestaciones de rehabilitación física, respiratoria, entre otras. Esta prestación se realiza en unidades de médico-quirúrgico, baja o mediana complejidad. Excepto pacientes UPC (Unidad Paciente Crítico).
 
 d) Atención Kinesiológica Integral UPC (Intensivo e Intermedio) código 06-01-104. Es un conjunto de prestaciones que incluye todos los procedimientos de kinesiterapia que deba realizar el profesional a un beneficiario que permanece en unidad de paciente crítico en una prestación, ya sea, con algún sistema de ventilación mecánica (invasiva o no invasiva), con excepción de las evaluaciones. Incluye la conexión y adaptación del ventilador mecánico invasivo o no invasivo al usuario, destete, extubación, asistencia a intubación, fijaciones, rehabilitación de vía aérea artificial (Traqueostomía), prueba de tolerancia Ortostática, otros. Además de las prestaciones de rehabilitación intensiva y precoz.
 
-k) a) Para el cobro de las prestaciones del grupo 06 sub grupo 01, los profesionales deberán disponer de los registros que avalen la ejecución de las prestaciones otorgadas, ya que en su defecto el Fondo presumirá que éstas no han sido efectuadas. Para ello se tendrá presente lo que sigue:
+12.1.2 Otras generalidades prestaciones grupo 06 subgrupo 01.
+
+a) Para el cobro de las prestaciones del grupo 06 sub grupo 01, los profesionales deberán disponer de los registros que avalen la ejecución de las prestaciones otorgadas, ya que en su defecto el Fondo presumirá que éstas no han sido efectuadas. Para ello se tendrá presente lo que sigue:
 
 Registros en atención ambulatoria
 
@@ -1846,27 +1860,13 @@ Registros en atención hospitalizada
 
 Tratándose de atenciones otorgadas en forma hospitalizada, los registros se efectuarán por el kinesiólogo en la ficha clínica del paciente, o en el sistema de registros que el centro asistencial disponga para estos efectos.
 
-l) Las personas con discapacidad, que se encuentren inscritas en el Registro Nacional de Discapacidad y que sean beneficiarios de Fonasa, podrán acceder a prestaciones en Kinesiología sin tope de atenciones anuales", también se consideran los menores de 6 años, que sean acreditados por el Servicio Nacional de la Discapacidad (SENADIS), que valide la condición de discapacidad del menor, con la documentación definida por ese Servicio para estos efectos.
+b) Las personas con discapacidad, que se encuentren inscritas en el Registro Nacional de Discapacidad y que sean beneficiarios de Fonasa, podrán acceder a prestaciones en Kinesiología sin tope de atenciones anuales", también se consideran los menores de 6 años, que sean acreditados por el Servicio Nacional de la Discapacidad (SENADIS), que valide la condición de discapacidad del menor, con la documentación definida por ese Servicio para estos efectos.
 
-m) Durante periodos de vigencia de Alerta Sanitaria decretada por el Ministerio de Salud por el Covid-19, las prestaciones de Kinesiología podrán ser realizadas en forma remota manteniendo registro de estas prestaciones en los mismos términos que una atención presencial, a través de tecnologías de la información y telecomunicaciones entre un paciente y un profesional kinesiólogo que se encuentran en lugares geográficos distintos y que pueden interactuar entre sí en tiempo real (sincrónica).
+c) Durante periodos de vigencia de Alerta Sanitaria decretada por el Ministerio de Salud por el Covid-19, las prestaciones de Kinesiología podrán ser realizadas en forma remota manteniendo registro de estas prestaciones en los mismos términos que una atención presencial, a través de tecnologías de la información y telecomunicaciones entre un paciente y un profesional kinesiólogo que se encuentran en lugares geográficos distintos y que pueden interactuar entre sí en tiempo real (sincrónica).
 
-n) Durante períodos de vigencia de Alerta Sanitaria decretada por el Ministerio de Salud, Fonasa autorizará que las prestaciones de Terapia Ocupacional se puedan otorgar en forma remota (teleconsulta) manteniendo registro de estas prestaciones en los mismos términos que una atención presencial.
+d) Durante períodos de vigencia de Alerta Sanitaria decretada por el Ministerio de Salud, Fonasa autorizará que las prestaciones de Terapia Ocupacional se puedan otorgar en forma remota (teleconsulta) manteniendo registro de estas prestaciones en los mismos términos que una atención presencial.
 
-Los códigos autorizados son:
-
-Código Glosa
-
-0601001 Evaluación kinesiológica: muscular, articular, postural, neurológica y funcional (máximo 2 por tratamiento).
-
-0601024 * Reeducación motriz (ejercicios terapéuticos para recuperación muscular, capacidad de trabajo, coordinación, gimnasia ortopédica, reeducación funcional, de marcha) (individual y por sesión, mínimo 30 minutos) (proc. aut.).
-
-0601026 * Técnicas de relajación (entrenamiento autógeno Schultz - Jacobson o similar) (proc. aut.).
-
-0601028 Entrenamiento cardiorrespiratorio funcional.
-
-0601029 Atención kinesiológica integral.
-
-Para el código 0601001 (Evaluación kinesiológica: muscular, articular. postural, neurológica y funcional (máximo 2 por tratamiento), se autoriza su realización vía atención remota de la primera consulta, si la orden médica así lo explicita.
+Para el código 06-01-105 Atención Kinesiológica Integral Ambulatoria, se autoriza su realización vía atención remota de la primera consulta, si la orden médica así lo explicita.
 
 Así mismo, el prestador es responsable de que la prestación se realice en un ambiente privado y dedicado exclusivamente para ello. Queda prohibido realizarla en lugares de acceso público donde la privacidad del beneficiario se pueda ver comprometida.
 
@@ -1880,7 +1880,7 @@ Los límites financieros establecidos para las atenciones aranceladas del grupo 
 
 a) Evaluación Kinesiológica Integral código 06-01-101, contempla un máximo de 2 evaluaciones por tratamiento médico, cada una contempla una duración de 45 minutos. Estableciéndose un máximo de 6 evaluaciones por año por beneficiario.
 
-b) Atención Kinesiológica Integral Ambulatoria o Domiciliaria código 06-01-102, contempla una prestación diaria y se establece un límite máximo de hasta 30 prestaciones anuales por beneficiario. Cada prestación integral contempla una duración de 45 minutos.
+b) Las prestaciones Atención Kinesiológica Integral Ambulatoria código 06-01-105 y Atención Kinesiológica Integral Domiciliaria código 06-01-106, contemplan una prestación diaria y se establece un límite máximo de hasta 30 prestaciones anuales por beneficiario (consideradas dentro de los límites anuales del grupo 06 subgrupo 01). Cada prestación integral contempla una duración de 45 minutos.
 
 c) Atención Kinesiológica Integral en Pacientes hospitalizados código 06-01-103, se considera un máximo de 2 prestaciones diarias, durante el periodo de hospitalización. Cada prestación contempla una duración de 30 minutos.
 
@@ -1952,7 +1952,7 @@ e) Las prestaciones del grupo 06 sub grupo 08, para kinesiología, se regirán p
 
 - Telerehabilitación Evaluación Kinesiológica Integral código 06-08-101, contempla 2 evaluaciones por tratamiento médico indicado, cada una contempla una duración de 45 minutos, dichos límites financieros, se encuentran contenidos en los límites financieros establecidos para el código 06-01-101, es decir, independientemente de la modalidad de atención, ya sea, telerehabilitación o presencial el Fondo pagará solo 2 evaluaciones por tratamiento médico prescrito.
 
-- Telerehabilitación Atención Kinesiológica Integral 06-08-102 contempla una prestación diaria y se establece un límite máximo de hasta 30 prestaciones anuales por beneficiario, las que, estarán contenidas en los límites financieros del código 06-01-102, es decir, independiente de la modalidad de atención la sumatoria de las atenciones de los códigos 06-01-102 y 06-08-102 tendrán un máximo de 30 prestaciones anuales por beneficiario.
+- Telerehabilitación Atención Kinesiológica Integral 06-08-102 contempla una prestación diaria y se establece un límite máximo de hasta 30 prestaciones anuales por beneficiario, las que estarán contenidas en los límites financieros de los códigos 06-01-105 y 06-01-106, es decir, independiente de la modalidad de atención la sumatoria de las atenciones de los códigos 06-01-105, 06-01-106 y 06-08-102 tendrán un máximo de 30 prestaciones anuales por beneficiario.
 
 Cada prestación integral contempla una duración de 45 minutos.
 
@@ -2006,13 +2006,11 @@ Estas prestaciones corresponden a los códigos arancelarios desde el 07-02-201 a
 
 - La Prueba de compatibilidad por unidad de glóbulos rojos estudiada (proc. aut.) código 07-02-203, será realizada por la UMT.
 
-- La prestación Fenotipificación otros grupos sanguíneos por unidad de glóbulos rojos producido código 07-02-204, corresponde a estudio realizado al donante por el Centro de Sangre.
+- La prestación Fenotipificación otros antígenos de grupos sanguíneos por unidad de glóbulos rojos producido código 07-02-204, corresponde a estudio realizado al donante por el Centro de Sangre.
 
-- La prestación Grupos menores. Tipificación o determinación de otros sistemas sanguíneos (Kell, Duffy, Kidd y otros) c/u. Código 07-02-208, es el estudio pre transfusional realizado por la UMT.
+- La prestación Grupos menores. Tipificación o detección de otros antígenos de sistemas sanguíneos (Kell, Duffy, Kidd y otros) c/u. Código 07-02-208, es el estudio pre transfusional realizado por la UMT.
 
 - La Genotipificación D variante (incluye D parcial y débil) código 07-02-206 solo puede ser cobrada por prestadores que realicen la prestación mediante técnica de Biología Molecular.
-
-- La prestación Subgrupo ABO y Rh fenotipo - genotipo Rh, c/u código 07-02-209, corresponde al estudio del sub grupo ABO, realizado previo a una transfusión.
 
 13.4.- Procedimientos Transfusionales.
 
@@ -2027,6 +2025,42 @@ Corresponde a la transfusión de componentes sanguíneos, el cobro de acto trans
 Los procedimientos transfusionales, durante su administración, efectuados tanto en atención abierta como atención cerrada, deberán ser controladas por profesional especialista, tecnólogo médico o médico responsable.
 
 Los procedimientos transfusionales corresponden a los códigos arancelarios desde el 07-02-301 al 07-02-309.
+
+13.5 PROCURAMIENTO DE TEJIDOS
+
+Estas prestaciones deberán regirse por lo establecido en la Ley 19.451 vigente y sus modificaciones posteriores, que indica "Los establecimientos asistenciales públicos y privados, que efectúen trasplantes de órganos, deberán cumplir con las exigencias generales y particulares, según el tipo de órgano que se trasplante".
+
+- Procesamiento de Amnios código 07-04-001, análisis y preparación de amnios para uso en humanos, incluye almacenamiento e insumos para el análisis.
+
+- Procuramiento de Amnios código 07-04-002, considera los exámenes, sala de procedimientos, insumos y preparación para el procesamiento de amnios donado por embarazadas con parto por cesárea.
+
+- Procuramiento de Piel de Donante Cadáver (DC), código 07-04-003 extracción de piel de un donante fallecido.
+
+- Procesamiento de Piel de Donante Cadáver (DC) código 07-04-004, análisis y preparación de piel para uso en humanos.
+
+- Procuramiento de Piel de Donante Vivo (DV) código 07-04-005, considera piel donada en cirugía reconstructiva.
+
+- Procesamiento de Piel de Donante Vivo (DV) código 07-04-006, análisis y preparación de piel para uso en humanos.
+
+- Procuramiento de Homoinjertos (Válvulas Cardíacas y Segmentos Vasculares) código 07-04-007, extracción y tallado de homoinjertos en pabellón.
+
+- Procesamiento de Homoinjertos (Válvulas Cardíacas y Segmentos Vasculares) código 07-04-008, análisis de viabilidad de válvulas y segmentos vasculares. Incluye tallado y almacenamiento.
+
+- Procuramiento de Tejido óseo de Donante Vivo (DV), código 07-04-009, considera exámenes y preparación para procesamiento de tejido óseo que es donado secundario a cirugía traumatológica.
+
+- Procuramiento de Tejido óseo de Donante Cadáver (DC), código 07-04-010, extracción de tejido óseo en pabellón de donante fallecido.
+
+- Procesamiento de Tejido óseo Granulado código 07-04-011, análisis, preparación y radioesterilización de tejido óseo en formato granulado para uso en humanos.
+
+- Procesamiento de Tejido óseo Congelado código 07-04-012, análisis y preparación de tejido óseo congelado para uso en humanos.
+
+- Procesamiento de Tejido óseo Liofilizado, código 07-04-013 análisis, preparación y radioesterilización de tejido óseo en formato liofilizado para uso en humanos.
+
+Las codificaciones precedentes incluyen en su valor recurso humano especializado, todos los insumos necesarios para el procesamiento, procuramiento y su almacenamiento, exámenes de laboratorio y el pabellón o sala de procedimientos respectivo, según corresponda.
+
+Cabe señalar que el procuramiento de los tejidos deberá ser realizado en pabellón, con técnica aséptica y por profesionales calificados y capacitados, tal como lo indica la Norma Técnica para el Procuramiento, Preservación e Implante de Tejidos, 2018 del Minsal y sus modificaciones posteriores
+
+Las codificaciones que anteceden sólo podrán estar asociadas a problemas de salud que conllevan la utilización de tejidos, intervenciones quirúrgicas o procedimientos asociados a: Cirugías cardiovasculares, Escoliosis, Artrosis de cadera, Fisura labio palatina, trauma ocular grave u otras patologías corneales, Gran Quemado, Politraumatizado, Cáncer, patologías genéticas que cursan con deformaciones o daños físicos, entre otros. El diagnóstico deberá estar contenido en la ficha clínica del paciente.
 
 14. PSIQUIATRÍA (GRUPO 09 SUBGR. 01).
 
@@ -2132,6 +2166,10 @@ El prestador es responsable de que la prestación sea realizada por el profesion
 
 El prestador debe tomar todas las medidas de seguridad de la información para que esta interacción directa médico beneficiario se realice de forma segura cuidando la privacidad de éste y mantener el resguardado y el registro de la ficha clínica (Ley 20.584 Derechos y Deberes del paciente).
 
+Evaluaciones de nivel intelectual, desarrollo y funciones otros profesionales y psicólogo.
+
+Test Amse, código 09-02-021, prestación dirigida a población beneficiaria menor o igual a 18 años 11 meses 29 días, para su realización requiere de orden de derivación del profesional tratante. Esta prestación podrá ser efectuada por profesionales de salud con habilidades clínicas en la evaluación de personas con autismo o con entrenamiento mínimo en la aplicación del instrumento, Terapeuta Ocupacional, Psicólogo, Fonoaudiólogo, Medico Familiar, Psiquiatra o Neurólogo. Incluye la aplicación del Test en consulta, para el desarrollo de la prestación los profesionales deberán contar con el equipamiento, infraestructura e insumos necesarios para la aplicación de la prueba.
+
 15.3 Emisión de Órdenes de Atención.
 
 a) Para la emisión de Bonos deAtención de Salud de prestaciones 0902002 y 0902003 requerirán de una orden emitida por el profesional tratante.
@@ -2226,7 +2264,9 @@ e)Las prestaciones de evaluación y rehabilitación habla y lenguaje, códigos, 
 
 f)Las personas con discapacidad, que se encuentren inscritas en el Registro Nacional de Discapacidad y que sean beneficiarios de Fonasa, podrán acceder a prestaciones en Fonoaudiología sin tope de atenciones anuales, también se consideran los menores de 6 años, que sean acreditados por el Servicio Nacional de la Discapacidad (SENADIS), que valide la condición de discapacidad del menor, con la documentación definida por ese Servicio para estos efectos.
 
-g) La prestación Evaluación clínica de la deglución, código 13-03-007, evalúa la integridad del mecanismo deglutorio en pacientes con alteraciones de origen mecánico, neurológico de base o adquirida (Por ACV, TEC, demencias, Parkinson u otro tipo de condiciones neurodegenerativas), con el objetivo de favorecer una alimentación segura y eficaz por vía oral que permita la hidratación y nutrición del usuario, valorando el riesgo de aspiración y/o penetración hacia la vía aérea. Considera dentro de la prestación los insumos correspondientes a guantes de látex (par), gasa, suero fisiológico 100 ml., jeringa de 20 ml., azul de metileno, yogurt, galletas (1 paquete), espesante, botella de agua, colorante alimentario, bandeja reutilizable, vaso plástico, entre otros. Esta prestación podrá ser efectuada en box de consulta, atención cerrada y domicilio. Se considera una prestación por año por beneficiario, prestación que contempla una duración de 40 minutos.
+g) La prestación Evaluación clínica de la deglución, código 13-03-007, evalúa la integridad del mecanismo deglutorio en pacientes con alteraciones de origen mecánico, neurológico de base o adquirida (Por ACV, TEC, demencias, Parkinson u otro tipo de condiciones neurodegenerativas), con el objetivo de favorecer una alimentación segura y eficaz por vía oral que permita la hidratación y nutrición del usuario, valorando el riesgo de aspiración y/o penetración hacia la vía aérea. Considera dentro de la prestación los insumos correspondientes a guantes de látex (par), gasa, suero fisiológico 100 ml., jeringa de 20 ml., azul de metileno, yogurt, galletas (1 paquete), espesante, botella de agua, colorante alimentario, bandeja reutilizable, vaso plástico, entre otros. Esta prestación podrá ser efectuada en box de consulta, atención cerrada y domicilio, prestación que contempla una duración de 40 minutos.
+
+Adicionalmente la prestación código 13-03-007, podrá ser otorgada por Fonoaudiólogo como apoyo durante el procedimiento radiológico Video fluoroscopia para el estudio de la deglución (04-01-073), para estos efectos el Médico especialista en Imagenología u Otorrinolaringólogo, deberá solicitar la colaboración del profesional durante el procedimiento, consignándolo en la ficha clínica, cuando se trate de atención cerrada. Para los casos en los cuales el examen se realice en atención ambulatoria, requerirá de una orden médica emitida por dichos especialistas.
 
 h) La prestación Rehabilitación de la deglución código 13-03-006; busca la rehabilitación de la deglución por vía oral, favoreciendo una alimentación eficaz y segura, otorgando mecanismos de protección de la vía aérea y sus complicaciones asociadas, lo anterior a través de estrategias terapéuticas tales como ejercicios, maniobras, adaptaciones de consistencias para la alimentación, entre otras. Indicada para el tratamiento de la disfagia, deglución atípica u otras alteraciones del proceso deglutorio, ya sea por causa mecánica, neurológica o adquirida. Considera dentro de la prestación los insumos correspondientes a guantes de látex (par), gasa, cuchara de metal, espesante, entre otros. Esta prestación podrá ser efectuada en box de consulta, atención cerrada y domicilio. Contempla un máximo de 30 prestaciones por año por beneficiario, con una duración mínima de 30 minutos.
 
@@ -2315,6 +2355,14 @@ a) En caso de efectuarse en un solo acto un procedimiento diagnóstico o terapé
 b) En los procedimientos diagnósticos y terapéuticos, que no tengan contemplado los honorarios de anestesia y en los cuales se requiera anestesia general o regional, el uso de ésta deberá ser fundamentado por el médico tratante en el Programa respectivo, de acuerdo a lo señalado en la letra a) del punto 20 y en letra a.1) del punto 3.3.
 
 c) El médico tratante deberá llevar registros, ya sea en una ficha clínica y/o en un protocolo operatorio de los procedimientos diagnósticos o terapéuticos que realice.
+
+d) Toma de biopsia con aguja bajo visión ecográfica de la Mama (Biopsia Core) código 20-01-025, prestación dirigida para población beneficiaria de 15 años y más, debe ser realizada por Médico especialista en Imagenología, en instituciones que cuenten con sala de procedimientos radiológicos, requiere de orden médica de derivación del profesional tratante, incluye aguja y pistola para la muestra, anestésico local e insumos para la toma de muestra, ecografía mamaria bilateral código 0404012, imágenes e informe radiológico del procedimiento en concordancia con el informe de anatomía patológica, debiendo entregarse los informes de ambas áreas de análisis. Para su realización debe contar con consentimiento informado.
+
+Esta prestación no incluye en su valor las muestras histológicas, estos cobros deben regirse según la codificación en el arancel vigente de las prestaciones del grupo 08, asimismo, no incluye el Clip de Titanio en caso de requerirse para marcar la zona. Se restringe su realización cuando existan infecciones de la zona susceptible a biopsiar.
+
+e) Termocoagulación de zonas cerebrales con radiofrecuencia o ultrasonido focalizado con técnica estereotáxica para el tratamiento de enfermedad de Parkinson, temblor esencial, psicocirugía y otros, código 11-03-043, requiere orden médica de derivación. Para realizar la prestación, dependiendo de la técnica, debe disponerse de pabellón de alta complejidad, preferencialmente de neurocirugía o de resonador magnético, según sea radiofrecuencia o ultrasonido focalizado.
+
+f) Instilación vesical (incluye colocación de sonda y Mycobacterium Bovis para instilación intravesical proc. aut.) código 19-01-036, código arancelario que exceptúa a beneficiarios con Tuberculosis y/o inmunodeprimidos. Para su realización requiere orden médica de un especialista en urología, la prestación del código arancelario 19-01-019, es excluyente con este código arancelario.
 
 17.3 Hemodiálisis y Peritoneodiálisis.
 
@@ -2664,9 +2712,9 @@ e.2) Los profesionales que se inscriban, deberán efectuar estas prestaciones, e
 
 e.3) La prestación 12-01-027, tendrá valor único y no estará afecta a recargo horario, siendo independiente al nivel de inscripción del profesional o entidad que las otorgue, y considera un máximo anual de 2 prestaciones, por año calendario, por beneficiario.
 
-e.4) Las entidades y profesionales que cobren la prestación 12-01-027, deberán disponer del registro de las atenciones otorgadas, para cuando les sea requerido por el Fondo. Para ese efecto, deberán mantener registros actualizados de los pacientes en control, con las actividades efectuadas y
+e.4) Las entidades y profesionales que cobren la prestación 12-01-027, deberán disponer del registro de las atenciones otorgadas, para cuando les sea requerido por el Fondo. Para ese efecto, deberán mantener registros actualizados de los pacientes en control, con las actividades efectuadas y las fechas de atención respectivas.
 
-las fechas de atención respectivas.
+f) Paquimetría código 12-01-045, prestación realizada por profesional Tecnólogo Médico con mención en oftalmología y optometría, deberá contar con el equipamiento e infraestructura necesaria para el desarrollo de la prestación, incluye el uso de anestesia tópica en colirio. El procedimiento bilateral contempla la entrega del informe y requiere de orden médica del profesional tratante.
 
 19. CIRUGÍA (GRUPOS 11 AL 21)
 
@@ -2990,6 +3038,12 @@ seguridad 1
 
 23-01-081 Audífonos 2
 
+CODIGO GLOSA MAX. ANUAL
+
+2301073 Monitor de glicemia 1
+
+2301074 Sensor (Monitoreo Continuo Glucosa) 24
+
 b) El Fondo Nacional de Salud, podrá establecer otros límites financieros máximos, de acuerdo a lo establecido en el punto 6.1 letra i) de estas normas.
 
 24. TRASLADOS (Grupo 24).
@@ -3302,9 +3356,15 @@ el art. 53 del D.S. 369/85, del Ministerio de
 
 Salud.
 
-. Los medicamentos e insumos utilizados durante la
+. Los medicamentos, insumos, material de
 
-Hospitalización.
+osteosíntesis utilizados durante la
+
+intervención quirúrgica y la
+
+hospitalización. El PAD de Endoprótesis
+
+total de hombro, incluye la endoprótesis.
 
 . Todas las prestaciones necesarias, para resolver
 
@@ -3334,7 +3394,7 @@ d) Para las intervenciones quirúrgicas, en las cuales por razones técnicas es 
 
 27.4 Valorización de otras cirugías:
 
-a) En aquellas prestaciones PAD, cuyas cirugías trazadoras son susceptibles de realizarse en forma bilateral, la definición del precio final consideró el costo de la bilateralidad, por tanto cuando un mismo equipo y en el mismo acto quirúrgico, practique en forma bilateral la cirugía que conforma el PAD, sólo corresponderá valorizar el 100% de la prestación correspondiente al Grupo 25.
+a) En aquellas prestaciones PAD, cuyas cirugías trazadoras son susceptibles de realizarse en forma bilateral, la definición del precio final consideró el costo de la bilateralidad, por tanto cuando un mismo equipo y en el mismo acto quirúrgico, practique en forma bilateral la cirugía que conforma el PAD, sólo corresponderá valorizar el 100% de la prestación correspondiente al Grupo 25. En aquellas prestaciones PAD cuyas trazadoras no consideren la bilateralidad y en el mismo acto quirúrgico, el mismo equipo practique en forma bilateral la cirugía, se deberá valorizar el PAD al 100% y la segunda incisión con el código de la trazadora en un programa complementario al 50%.
 
 b) En este caso, tampoco proceden cobros de diferencias por ningún concepto al beneficiario, ni por día cama, derecho de pabellón, arsenalera, medicamentos o insumos.
 
@@ -3351,6 +3411,40 @@ d) En los casos de hospitalización y tratamiento, por patología diferente, no 
 A. Prestaciones Grupo 25 Subgrupo 01
 
 a) Procede el cobro de las prestaciones del Grupo 25, sólo cuando la resolución del diagnóstico se efectúa a través de la prestación identificada como trazadora para cada PAD.
+
+Las prestaciones que a continuación se detallan, se rigen por lo establecido en el numeral 27.1, 27.2, 27.3 y 27.4 de esta norma y según las siguientes especificaciones:
+
+- Luxofractura cerrada de tobillo con osteosíntesis código 25-01-054, prestación efectuada por médico especialista en Traumatología y Ortopedia incluye en su valor, exámenes preoperatorios, elementos de osteosíntesis (placas y tornillos), bota de descarga, pabellón de cirugía mayor.
+
+- Fractura de clavícula con osteosíntesis código 25-01-055, prestación efectuada por médico especialista en Traumatología y Ortopedia, incluye en su valor, exámenes preoperatorios, elementos de osteosíntesis (placas y tornillos), cabestrillo simple, pabellón de cirugía mayor.
+
+- Las prestaciones de los códigos 25-01-056 retiro de material de osteosíntesis de mayor complejidad y 25-01-057 retiro de material de osteosíntesis de menor complejidad incluyen en su valor exámenes preoperatorios, prestación que debe ser realizada por especialista en Traumatología y Ortopedia, en pabellón de cirugía mayor.
+
+- Cirugía Bariátrica por By Pass Gástrico código 25-01-058 y Cirugía Bariátrica por Manga Gástrica código 25-01-059 incluyen en su valor, día cama, exámenes de laboratorio e imagenología, instrumental de laparoscopia y todos los insumos, y medicamentos específicos a dichas cirugías, debiendo ser efectuadas en pabellón de cirugía mayor. Prestaciones para ser otorgadas en beneficiarios entre 18 y 65 años que cumplan con los siguientes criterios respecto del Índice de Masa Corporal (IMC):
+
+* Sobre 40 con o sin morbilidad asociada.
+
+* Entre 35 y 40 con morbilidad asociada (1 criterio mayor + 1 menor o 3 menores).
+
+* Entre 30 y 35 en caso de ser portador de DM2 de difícil manejo (o 2 criterios mayores + 1 menor).
+
+Quienes accedan a estas prestaciones, deberán cumplir con el protocolo operatorio que corresponda, no presentar contraindicaciones para la cirugía y contar con evaluación psicológica emitida por Psiquiatra o Psicólogo, la cual debe constar en la ficha clínica del beneficiario.
+
+Contraindicaciones absolutas para acceder a las prestaciones 25-01-058 y 25-01-059: Dependencia a drogas y/o embarazadas*Beneficiarios que cursen una Psicosis activa o depresión severa no compensada.
+
+- Prolapso Rectal Tratamiento Quirúrgico Vía Abdominal código 25-01-060, considera pabellón de alta complejidad y Prolapso Rectal: Tratamiento Quirúrgico Vía Rectal código 25-01-061, deberán ser realizadas por médico con especialidad coloproctología.
+
+- La prestación Tratamiento Quirúrgico Incontinencia Urinaria de Esfuerzo Femenina código 25-01-062, deberá ser efectuada por médico especialista en urología o ginecología, e incluye los insumos necesarios para esta intervención (cintas, agujas, mallas) independiente de la técnica quirúrgica.
+
+- Tratamiento Quirúrgico Estrabismo Mayores de 9 años código 25-01-063, debe ser efectuada por médico cirujano con especialidad en oftalmología.
+
+- Tratamiento Quirúrgico Otitis Serosa Mucositis Timpánica Mixiosis Timpánica código 25-01-064, prestación efectuada por médico cirujano con especialidad en otorrinolaringología.
+
+- Implantación de Estimulador Cerebral Profundo para la enfermedad de Parkinson (incluye el dispositivo) código 25-01-065, prestación a ser efectuada por Médico Especialista en Neurocirugía, acompañado de un equipo de neurólogos y médicos especialistas, incluye en su valor el generador, electrodos, dispositivos e insumos necesarios para la función del generador.
+
+- Trasplante de Córnea código 25-01-066, prestación destinada al reemplazo o reparación de una córnea alterada con nueva córnea de donante fallecido, debe ser realizada por médico cirujano con especialidad en Oftalmología. La prestación 25-01-066 es unilateral, es decir, por cada ojo. Prestación que debe regirse por lo establecido en la Ley 19.451 vigente y sus modificaciones posteriores. Esta prestación incluye fármacos, tales como Acetato de prednisolona al 1% a lo menos para 9 meses, aciclovir oral para todo el año, colirio de dexametasona al 1% asociado a tobramicina al 0,3%, fluorometolona al 1% solución oftálmica, para al menos tres meses, lágrimas artificiales, ofloxacino al 0,3% moxifloxacino colirio, voriconazol, según indicación médica.
+
+- La prestación Reparación Prenatal de Espina Bífida, código 25-01-067, solo podrá ser realizada en el feto, requiere de orden médica y será efectuada por especialista en Neurología y un Multiequipo disciplinario (Neurocirugía, Ginecología y Obstetricia, Medicina Fetal), será efectuada solo en Establecimientos de Salud de Alta Complejidad, requiere Pabellón de Cirugía Mayor y Unidades de Neonatología, puede requerir incubadora. Los Fármacos específicos están incluidos en la prestación. No se considera criterio de exclusión la presencia de cicatriz uterina por cesárea previa. Esta prestación excluye a pacientes con cuello < de 25mm, IMC > 35, incompetencia cervical o con cerclaje, placenta previa, parto prematuro idiopático previo < de 37 semanas, sero positivo para HIV, Hepatitis B o anomalía uterina severa, condición médica materna que contraindique la cirugía o anestesia general.
 
 B. Prestaciones Grupo 25 Subgrupo 02
 
@@ -3494,73 +3588,21 @@ Quirúrgica en el tiempo que
 
 lo determine su Médico
 
-Tratante.
+Tratante. Incluye el
 
-. La prestación Reparación
+estudio histopatológico
 
-Prenatal de Espina Bífida,
+corriente de biopsia
 
-código 25-02-023, solo podrá
+diferida por cada muestra
 
-ser realizada en el feto,
+y/o tejido, código 08-01-008,
 
-requiere de orden médica
+en los casos en que el
 
-y será efectuada por especialista
+cirujano tratante lo
 
-en Neurología y un Multiequipo
-
-disciplinario (Neurocirugía,
-
-Ginecología y Obstetricia,
-
-Medicina Fetal), será efectuada
-
-solo en Establecimientos de
-
-Salud de Alta Complejidad,
-
-requiere Pabellón de Cirugía
-
-Mayor y Unidades de Neonatología,
-
-puede requerir incubadora. Los
-
-Fármacos específicos están
-
-incluidos en la prestación.
-
-No se considera criterio de
-
-exclusión la presencia de
-
-cicatriz uterina por cesárea
-
-previa.
-
-Esta prestación excluye a
-
-pacientes con cuello < de 25mm,
-
-IMC > 35, incompetencia
-
-cervical o con cerclaje,
-
-placenta previa, parto
-
-prematuro idiopático previo
-
-< de 37 semanas, sero positivo
-
-para HIV, Hepatitis B o
-
-anomalía uterina severa,
-
-condición médica materna
-
-que contraindique la cirugía
-
-o anestesia general.
+indique.
 
 . La prestación Crosslinking
 
@@ -3591,6 +3633,110 @@ un límite financiero vida
 de 2 prestaciones por
 
 beneficiario.
+
+- Hospitalización Domiciliaria Básica Paciente Agudo Adulto y Pediátrico código 25-02-029, esta prestación es una alternativa a la hospitalización tradicional, ejecutada por un equipo integral, mediante el funcionamiento diario en horario establecido, otorgando cuidados en el domicilio a beneficiarios con diagnóstico médico definido y condición clínica estable en fase aguda, o bien que se encuentren cursando una patología aguda con indicación de manejo proporcional, y con una estancia promedio acotada a no más de 7 días (extensible a un máximo de 10 días). Lo anterior, con el fin de garantizar la continuidad del proceso de hospitalización. Para acceder a esta prestación, se requiere de indicación por parte del médico tratante desde el establecimiento público o privado, donde se encuentre internado el beneficiario, el que debe contar con convenio con una institución que se hará cargo de la hospitalización domiciliaria del beneficiario, asimismo, requiere de consentimiento informado.
+
+Todas las prestaciones del grupo 02, son excluyentes con este código arancelario, cada PAD código 25-02-029 corresponde a las prestaciones proporcionadas equivalentes a un día de Hospitalización domiciliaria, incluyendo en su valor el manejo de paciente con diagnóstico de tipo médico o quirúrgico estable, que puede continuar plan terapéutico en domicilio.
+
+El prestador jurídico que inscriba este código arancelario deberá establecer un convenio con una institución dedicada a estos fines, la que deberá contar con los recursos humanos necesarios para el desarrollo de la prestación y dar cumplimiento a las exigencias de infraestructura, equipamiento y servicios de apoyo a la gestión clínica establecidos en la normativa y reglamentación vigente, de acuerdo a la cartera de servicios informada por el prestador.
+
+Criterios generales para acceder a esta prestación:
+
+1.- Requiere de Indicación de Médico tratante desde el Hospital o Clínica de origen.
+
+2.- Beneficiarios con una patología aguda, clínicamente estables (estabilidad clínica y hemodinámica) y susceptibles de tratar en domicilio, por un tiempo definido.
+
+3.- Beneficiarios que cuenten con condiciones sociosanitarias adecuadas en el domicilio o institución que alberga al usuario en Hospitalización Domiciliaria, tales como soporte de servicios básicos cubiertos (luz, agua potable y buenas condiciones sanitarias), incluyendo sistema de comunicación telefónica.
+
+4.- Debe contar con red familiar, red social o tutor responsable a cargo del cuidado en domicilio las 24 horas del día. El tutor es la "Persona responsable de entregar al usuario los cuidados según las indicaciones del equipo de HD. El tutor debe otorgar al usuario los cuidados básicos (alimentación, higiene) y clínicos de baja complejidad (control de temperatura, administración de fármacos vía oral y otros según patología). Es además el nexo entre el equipo clínico siendo responsable de responder el teléfono para recibir indicaciones del equipo clínico y/o realizar llamadas en caso de dudas o emergencias para recibir asistencia. Es decir, debe ser capaz de seguir indicaciones médicas y contribuir a la continuidad de los cuidados.
+
+5.- Deberá quedar formalizada la aceptación por parte de usuario, tutor y/o familiar de acceder a la modalidad de Hospitalización Domiciliaria, mediante la firma de documento de consentimiento informado.
+
+6.- El domicilio deberá encontrarse dentro del radio geográfico de acción definido por el establecimiento en convenio, considerando la accesibilidad y tiempo de desplazamiento desde y hacia el hospital o clínica.
+
+La prestación incorpora en su valor 2 visitas médicas durante la hospitalización (ingreso/egreso), 1 atención de enfermería al día, hasta 2 sesiones de kinesiología integral al día, según indicación médica, oxigenoterapia hasta 3 lt/m (naricera). Antibióticos de primera línea, AINES, bomba de protones y protector cutáneo, curación simple de heridas (incluye insumos), 1 sesión de teleconsulta médica, más una de teleconsulta de enfermería o según indicación médica, 1 telerehabilitación de kinesiología. En caso de que requiera una administración programada de medicamentos EV cada 6 u 8 horas, este proceso podrá cobrarse como visita de enfermería adicional, mediante la codificación 26-01-002 Atención integral de enfermería en domicilio (atención mínima de 45') (solo para mayores de 55 años), sin importar el rango etario. Considera beneficiarios con hasta 2 dispositivos, tales como: vía venosa, sonda Foley, esta prestación en lo relativo a atención médica y de enfermería e insumos de uso general, se rige por lo establecido en el numeral 8 letra I.1) y I.4) de estas normas.
+
+En los casos en que, durante el periodo de permanencia del paciente en hospitalización domiciliaria, se requiera cambio o instalación de vía venosa, también podrá cobrarse como visita de enfermería adicional al PAD, mediante la codificación 26-01-002 sin importar el rango etario, sin embargo, para estos casos los insumos se encuentran incluidos, de igual manera, ante la indicación de instalación o extracción de sonda Foley, los insumos se encuentran incluidos.
+
+Por otro lado, si durante el proceso se requiere de una visita médica adicional, debe cobrarse mediante el código de atención domiciliaria 01-01-004. Visitas médicas y profesionales en número mayor a lo estipulado en esta normativa, indicarían una reevaluación de la indicación de hospitalización domiciliaria.
+
+Los criterios de exclusión relativos a la prestación 25-02-029, consideran las siguientes situaciones:
+
+. Inestabilidad Hemodinámica del beneficiario.
+
+. No cumple con requisitos generales señalados precedentemente.
+
+. No cumple con requisitos clínicos para Hospitalización Domiciliaria.
+
+. Beneficiarios cuyos cuidados superen las capacidades técnicas y/o profesionales de la Unidad de Hospitalización Domiciliaria.
+
+. Beneficiarios en los que no se ha concluido el estudio o el diagnóstico no está claro.
+
+. Beneficiarios crónicos sin condición aguda, que requieran de atención especializada de manera hospitalización prolongada, con posibilidad de resolución por otros programas de atención domiciliaria, como cuidados paliativos, de dependencia severa, de asistencia ventilatoria, entre otros.
+
+. Problemas biopsicosociales como: ausencia de cuidador responsable e incapacidad de comunicarse con la unidad de HD; tutor no apto para el cuidado de un tercero; entorno riesgoso para el usuario y/o equipo de salud; domicilio no cuenta con servicios básicos en hogar.
+
+. Rechace la atención domiciliaria o en general no cumpla con cualquiera de los requisitos de inclusión señalados.
+
+Este código arancelario no incluye en su valor:
+
+. El traslado del paciente desde y hacia la Clínica u Hospital, ni tampoco el traslado para exámenes radiológicos y ecográficos.
+
+. Manejo avanzado de heridas.
+
+. Ortesis, prótesis y medias anti embólicas.
+
+. Nutrición parenteral.
+
+. Pañales, fajas, útiles de aseo y perfumería.
+
+. Exámenes radiológicos, ecográficos y de laboratorio.
+
+. No incluye medicamentos de uso crónico, suplementos alimenticios, vitaminas, antibióticos de segunda y tercera línea
+
+. Nutrición enteral.
+
+El prestador deberá contar con Ficha Clínica del beneficiario, que contenga: hoja de ingreso Médico, hoja de Ingreso de Enfermería, indicaciones diarias, evolución clínica por profesionales de la salud que asisten al paciente, control de parámetros clínicos, copia de consentimiento informado, epicrisis y documentación al alta: La documentación mínima que se debe adjuntar al alta y entregar al paciente/tutor es:
+
+. Epicrisis.
+
+. Evaluación final de enfermería.
+
+. Evaluación final de otro profesional si procede (Ejemplo: kinesiología).
+
+. Derivación a otro establecimiento, por ejemplo, re-hospitalización.
+
+Las complicaciones que pudiese presentar la persona, durante la hospitalización en su domicilio y que sean derivadas del tratamiento médico o quirúrgico, efectuados en el Hospital o Clínica de origen, serán de responsabilidad de dicho establecimiento. Sin embargo, el paciente o su tutor podrán determinar si regresa a dicho establecimiento u otro de su conveniencia. En caso de presentar un evento que requiera de una atención de urgencia inmediata dentro de este proceso, el paciente deberá ser trasladado al Servicio de Urgencia público o privado más cercano a la brevedad por su familia.
+
+- Test de Levodopa código 25-02-030, prestación que considera una duración aproximada de 3 horas, incluye en su valor RNM, PET-CT, día cama de observación y puede ser efectuada por médicos Neurólogos, Neurocirujanos.
+
+- Evaluación Diagnóstica Complementaria personas del espectro autista hasta los 18 años código 25-02-025, prestación que se realiza en instituciones e incluye atención profesional integral por Terapeuta Ocupacional, Fonoaudiólogo, Psicólogo con formación y experiencia en el ámbito de desarrollo infantil y el espectro autista. Esta prestación requiere derivación por médico y confirmación diagnóstica por psiquiatra y neurólogo infantil.
+
+Para su aplicación, requiere contar con un espacio idóneo con la infraestructura, equipamiento e insumos que correspondan, acordes al nivel de gravedad y grupo etario, que permita realizar la evaluación directa al niño, niña o adolescente como con su familia. Incluye informe de evaluación y recomendaciones para la intervención.
+
+- PAD Tratamiento mensual personas del espectro autista códigos 25-02-026, 25-02-027 y 25-02-028.
+
+Para acceder a estos códigos arancelarios se requiere de orden médica con confirmación diagnóstica de psiquiatra o neurólogo, quienes determinan el diagnóstico e indican el tratamiento de rehabilitación integral. Estas prestaciones integrales mensuales, se deben realizar en instituciones de salud e incluyen la atención profesional por Terapeuta Ocupacional, Fonoaudiólogo y Psicólogo, con formación y experiencia en el ámbito de desarrollo infantil y el espectro autista.
+
+El prestador deberá contar con la infraestructura idónea, con los equipamientos e insumos pertinentes, acordes a los pacientes y el grupo etario, así como también, para la atención de familiares y realización de actividades grupales por parte del equipo multidisciplinario.
+
+Estos códigos arancelarios incluyen en su valor un plan de intervención que incluye al menos la definición de objetivos en diferentes dimensiones, planteando actividades con frecuencias, plazos y profesionales a cargo, además de la evaluación mensual de avances, también en caso necesario, al menos 1 intervención psicosocial y una consulta a distancia mensual. Asimismo, deberán mantener la coordinación intersectorial con el establecimiento educacional, quedando establecido por medio de un informe que incorpore los avances de los objetivos de acuerdo con el plan de intervención. El informe de egreso deberá incluir las acciones realizadas, avances y recomendaciones de continuidad.
+
+El prestador deberá evaluar si la intensidad de las prestaciones contenidas en estos PAD, son las requeridas por los niños, niñas y adolescentes con dicho diagnóstico, según su grupo etario. De lo contrario, si estas se plantean en menor cuantía para el tratamiento, se sugiere utilizar las prestaciones individuales por cada profesional. En caso de requerirse una mayor cantidad de prestaciones, pueden ser complementadas con prestaciones individuales de Terapeuta Ocupacional, Fonoaudiólogo o Psicólogo, según códigos arancelarios vigentes.
+
+Cada PAD de tratamiento mensual integral constará de:
+
+. Tratamiento personas del espectro autista hasta los 5 años código 25-02-026, considera población beneficiaria menor o igual a 5 años 11 meses 29 días, incluye al menos 6 atenciones, pudiendo ser realizadas por profesionales Terapeutas Ocupacionales o Fonoaudiólogos, distribuidas en el mes según requerimientos clínicos de los beneficiarios, asimismo, incluye hasta 1 atención de Psicólogo por mes.
+
+. Tratamiento personas del espectro autista de 6 a 12 años código 25-02-027, considera población beneficiaria mayor o igual a 6 años y menor o igual a 12 años 11 meses 29 días, incluye al menos 5 atenciones, pudiendo ser otorgadas por profesionales Terapeutas Ocupacionales o Fonoaudiólogos, distribuidas en el mes según requerimientos clínicos de los beneficiarios, asimismo, incluye al menos 1 atención de Psicólogo al mes.
+
+. Tratamiento personas del espectro autista de 13 hasta 18 años código 25-02-028, considera población beneficiaria mayor o igual a 13 años y menor o igual a 18 años 11 meses 29 días, incorpora al menos 3 atenciones, pudiendo ser realizadas por profesionales Terapeutas Ocupacionales o Fonoaudiólogos, distribuidas en el mes según requerimientos clínicos de los beneficiarios, asimismo, incluye 2 atenciones de Psicólogo al mes.
+
+- Las prestaciones Procuramiento de Córneas de Donante Cadáver (DC) por Paro Cardiorrespiratorio (PCR) código 25-02-031 y Procuramiento de Córneas de Donante Cadáver (DC) por Muerte Encefálica (ME) código 25-02-032, podrán ser efectuadas en Unidades de Anatomía Patológica o en la Unidad del Paciente, siempre que el lugar reúna las condiciones de infraestructura para realizar el procuramiento sin quiebre de la técnica aséptica.
+
+- Procesamiento de Córnea código 25-02-033 por cada ojo, incluye todos los insumos, incluso aquellos de tipo quirúrgico, tales como cuchilletes, así como también, el líquido de preservación.
+
+Las prestaciones, relacionadas a Procuramiento y Procesamiento de Córneas, deberán regirse por lo establecido en la Ley 19.451 vigente y sus modificaciones posteriores y a la Norma Técnica para el Procuramiento, Preservación e Implante de Córneas, Mayo de 2021, Ministerio de Salud y el paciente debe formar parte de la lista de espera para acceder a trasplante. Estos códigos arancelarios incluyen todos los insumos necesarios, exámenes de laboratorio y pabellón o sala de procedimientos respectivo, según corresponda. El cumplimiento de los estándares establecidos para el procuramiento de cada uno de los tejidos contemplados en la presente normativa, constituyen un aspecto crucial para la generación de tejidos aptos para su uso clínico, tal como lo indica la Norma Técnica para el Procuramiento, Preservación e Implante de Tejidos, 2018
 
 d) Eliminado.
 
@@ -3661,8 +3807,6 @@ c) Disposiciones específicas.
 D) Prestaciones trazadoras
 
 Las prestaciones identificadas como trazadoras para los PAD corresponden a las que se detallan a continuación:
-
-.
 
 27.6 Normas Específicas
 
@@ -3996,7 +4140,7 @@ La restricción en cuanto a edad, irá desde los 7 meses a 72 meses de edad.
 
 El límite financiero será de 2 prestaciones como Máximo Anual (desde los 7 a 72 meses de edad del niño) pudiendo comprarse a nombre del menor beneficiario, accediendo de manera espontánea o derivado por algún miembro del equipo de salud. En aquellos casos de sospecha de alergias alimentarias o alguna patología del niño(a), deberá derivarse inmediatamente a médico pediatra.
 
-27.7 "PAD programa Cardiovascular Grupo 25 sub Grupo 04"
+27.7 PAD PROGRAMA CEREBROVASCULAR GRUPO 25 SUBGRUPO 04
 
 Generalidades
 
@@ -4066,43 +4210,13 @@ Los PAD de los códigos 2504103 Angiografía Diagnóstica Cerebral, 2505936 Angi
 
 28.1 Definiciones:
 
-a) "Atención Médica de Emergencia o Urgencia": Es toda prestación o conjunto de prestaciones que sean otorgadas, en atención cerrada o ambulatoria, a una persona que se encuentra en condición de salud o cuadro clínico de emergencia o urgencia hasta que se encuentre estabilizada.
-
-En el caso de pacientes trasladados desde otro centro asistencial público o privado, solamente se considerará atención médica de emergencia o urgencia en el caso de que el centro asistencial que remite al paciente carezca de las condiciones para estabilizarlo, lo que debe ser certificado por el encargado autorizado de la unidad de urgencia que lo remite, quedando excluidos los traslados decididos por terceros ajenos al establecimiento público o privado donde está recibiendo la primera atención.
-
-No se considerará atención médica de emergencia o urgencia, la que requiera un paciente portador de una patología terminal en etapa de tratamiento sólo paliativo, cuando esta atención sea necesaria para enfrentar un cuadro patológico derivado del curso natural de la enfermedad o de dicho tratamiento."
-
-b) "Emergencia o Urgencia": Es toda condición de salud o cuadro clínico que implique estado de riesgo vital o riesgo de secuela funcional grave para una persona y, por ende, requiere atención médica inmediata e impostergable.
-
-La condición de salud o cuadro clínico de emergencia o urgencia debe ser determinado en la primera atención médica en que la persona sea atendida, ya sea en una unidad de urgencia pública o privada, por el diagnóstico efectuado por un médico cirujano de acuerdo con un protocolo dictado por el Ministerio de Salud y aprobado por decreto suscrito bajo la fórmula "Por Orden del Presidente de la República". Dicha condición de salud o cuadro clínico deberá ser certificada por el médico que la diagnosticó."
-
-c) "Certificación de estado de emergencia o urgencia": Es la declaración escrita y firmada por un médico cirujano en una unidad de urgencia, pública o privada, dejando constancia que una persona determinada, identificada con su nombre completo, Rut y sistema de seguridad social de salud, se encuentra en condición de salud o cuadro clínico de emergencia o urgencia de conformidad con el protocolo sobre la materia dictado por el Ministerio de Salud, diagnóstico probable y la fecha y hora de la atención.
-
-Dentro de las primeras tres horas de emitida la certificación de urgencia, el centro asistencial avisará este hecho, por el medio más expedito, al Servicio de Salud del que es beneficiario el enfermo, o a quien sea su delegado para esta función, el cual podrá siempre acceder al paciente y/o solicitar información adicional."
-
-d) "Paciente estabilizado": Aquel que, habiendo estado en una situación de emergencia o urgencia, se encuentra en estado de equilibrio de sus funciones vitales o ha superado el riesgo de secuela funcional grave de modo que, aun cursando alguna patología no resuelta o parcialmente solucionada, está en condiciones de ser trasladado, dentro del establecimiento, a otro centro asistencial o a su domicilio, sin poner en riesgo su vida o la evolución de su enfermedad.
-
-El Servicio de Salud al que compete atender al enfermo, o su delegado, podrá siempre acceder al paciente para constatar su condición de estabilización y, de ser ese el caso, impetrar su traslado al centro asistencial de la red de salud que determine o a su domicilio, si aún ello no se ha dispuesto, asumiendo la responsabilidad del traslado.
-
-La estabilización del paciente deberá certificarse por el médico tratante, ya sea en la unidad de emergencia o en la de hospitalización a que hubiera sido ingresado, indicando la fecha y hora en que ello ha ocurrido, y se avisará este hecho inmediatamente, por el medio más expedito, al Servicio de Salud correspondiente, o a quien éste hubiese delegado la función."
-
-e) "Pago Asociado Atención de Emergencia": Es la atención o conjunto de prestaciones que se otorga a una persona, desde que su condición de salud o cuadro clínico de emergencia ha sido debidamente certificada por un médico cirujano, en una unidad de emergencia privada, hasta que el paciente se encuentra estabilizado.
+a) "Pago Asociado Atención de Emergencia": Es la atención o conjunto de prestaciones que se otorga a una persona, desde que su condición de salud o cuadro clínico de emergencia ha sido debidamente certificada por un médico cirujano, en una unidad de emergencia privada, hasta que el paciente se encuentra estabilizado.
 
 En estos casos, se prohíbe a los prestadores exigir a los beneficiarios dinero, cheques u otros instrumentos financieros para garantizar el pago o condicionar de cualquier otra forma dicha atención.
 
 Una vez certificada la estabilización, termina la responsabilidad legal financiera de FONASA con el prestador, ya que estando el paciente fuera de riesgo de muerte, e independientemente de su gravedad, se entiende que puede ser trasladado a otro establecimiento asistencial, momento en que el beneficiario tiene el derecho a decidir por la modalidad en la que desea seguir atendiéndose, lo que condicionará la forma de financiamiento de las atenciones post estabilización.
 
-f) Unidad de Urgencia:
-
-Para efectos de la aplicación del Arancel, se entiende por unidad de urgencia, al servicio de atención médico quirúrgico, ubicado en las instalaciones de un establecimiento de salud, cuya dotación de médicos, enfermeras y/o matronas, otros profesionales de salud y personal auxiliar de enfermería, aseguran la atención permanente y preferente las 24 horas del día y los 365 días del año, de pacientes cuya gravedad y estado crítico puedan implicar riesgo vital y eventuales secuelas.
-
-Estos servicios deben contar con la infraestructura y el equipamiento que permitan atenciones de emergencia o urgencia de alta, mediana y baja complejidad, con médicos especialistas, servicios de apoyo diagnóstico y terapéutico las 24 horas (laboratorio, imagenología y banco de sangre), unidades de cuidado intensivo y de tratamiento intermedio propias o red de derivación expedita.
-
-El Ministerio de Salud efectuará la acreditación de las Unidades de Emergencia de los establecimientos de salud privados de nivel nacional.
-
-g) "Secuela grave": Es la pérdida definitiva de la función del órgano o extremidad afectada.
-
-h) Tratándose de atenciones otorgadas por médico en un servicio de urgencia de establecimiento privado, en la que el profesional establece que la condición de salud o cuadro clínico del beneficiario no constituye riesgo vital y/o secuela funcional grave para la persona, se entenderá que el pago de la respectiva atención no corresponde al marco establecido por la Ley N° 18.469, modificada por la Ley N° 19.650, por lo que su cobro se realizará a través del código 01-01-001 consulta médica.
+b) Tratándose de atenciones otorgadas por médico en un servicio de urgencia de establecimiento privado, en la que el profesional establece que la condición de salud o cuadro clínico del beneficiario no constituye riesgo vital y/o secuela funcional grave para la persona, se entenderá que el pago de la respectiva atención no corresponde al marco establecido por la Ley N° 18.469, modificada por la Ley N° 19.650, por lo que su cobro se realizará a través del código 01-01-001 Consulta Medicina General.
 
 En los casos de atención médica de emergencia o urgencia consideradas tales de conformidad con lo establecido en el artículo 3º del D.S. Nº 369 de 1985, el Fondo Nacional de Salud pagará directamente al prestador público o privado el valor de las prestaciones que haya otorgado a sus beneficiarios -, hasta que se encuentren estabilizados,- de acuerdo a los mecanismos dispuestos en los Libros I y II del DFL Nº1 de 2005, del Ministerio de Salud. De este modo, la atención de emergencia o urgencia se considerará otorgada en modalidad de libre elección o en modalidad institucional, según se trate de establecimiento privado o público, respectivamente, y según el tipo de convenio que mantenga vigente el prestador con FONASA o con los Servicios de Salud.
 
@@ -4146,7 +4260,7 @@ Para los códigos 2803939 "PAE Trombectomía mecánica infarto cerebral" y 28034
 
 .
 
-* Estas prestaciones PAE no podrán cobrarse en forma conjunta con las prestaciones PAE Clase 201, 202, 203, 204, 205, 301, 302, 303, 304, 305 y 401. Asimismo, tampoco podrán cobrarse en forma conjunta con las prestaciones PAD 2504103, 2505936, 2505937, 2505939, 2505940, 2505941 y 2505456.
+* Estas prestaciones PAE no podrán cobrarse en forma conjunta con las prestaciones PAD 2504103, 2505936, 2505937, 2505939, 2505940, 2505941 y 2505456.
 
 ** Las prestaciones PAE grupo 28 sub grupo 03 están sujetas a las mismas normas que rigen las demás prestaciones PAE, y su cobertura comprende desde el ingreso al centro asistencial hasta la estabilización del paciente.
 
@@ -4532,7 +4646,7 @@ a) Atención Integral de Nutricionistas (código 26-02-001)
 
 a.1 Es la atención otorgada a un beneficiario por un profesional nutricionista en su consulta privada o en un local destinado para estos efectos de un establecimiento asistencial privado (hospital, clínica o centro de salud), debiendo cumplir con los requisitos establecidos en la Resolución Exenta que regula el procedimiento de suscripción de convenios para la Modalidad Libre Elección.
 
-a.2.- La atención integral de nutricionista será indicada por médico tratante mediante prescripción médica, tratándose de segunda o tercera atención integral de nutricionistas, no requiere de orden médica dentro del año. Las atenciones están destinadas a pacientes sin restricción por edad, siempre que tengan riesgo cardiovascular modificable con dieta y que presenten obesidad o sobrepeso, según criterios de Índice de Masa Corporal (I.M.C.).
+a.2.- La atención integral de nutricionista será indicada por médico tratante mediante prescripción médica, tratándose de segunda o tercera atención integral de nutricionistas, no requiere de orden médica dentro del año. Las atenciones están destinadas a pacientes sin restricción por edad, siempre que tenga diagnosticada algunas de las siguientes enfermedades o condiciones modificables y mejoras con dieta: Riesgo cardiovascular en obesidad o sobrepeso criterios IMC; Enfermedades asociadas a ingesta de Gluten (Enfermedad Celiaca y Sensibilidad no celiaca al Gluten), Alergias por ingesta (Proteína de la leche de la vaca; trigo, maní, entre otras).
 
 a.3 Requisitos técnico administrativos:
 
@@ -4603,6 +4717,44 @@ c) Las prestaciones del grupo 26 sub grupo 08, serán excluyentes entre sí con 
 d) El código arancelario 26-08-201, contiene 3 sesiones, una evaluación al inicio, un control y una evaluación al término.
 
 e) El límite financiero del código 26-08-201, corresponde a la sumatoria de las prestaciones 26-02-001 y 26-08-201, las cuales corresponden a un total de 3 prestaciones por año por beneficiario.
+
+29.3 ATENCIONES INTEGRALES DE MATRONERÍA (GRUPO 26 SUBGRUPO 03)
+
+Este grupo contempla las atenciones otorgadas por profesionales de Matronería, en su consulta privada o en un local destinado para estos efectos de un establecimiento asistencial privado (hospital, clínica o centro de salud), debiendo cumplir con los requisitos establecidos en la resolución exenta que regula el procedimiento de suscripción de convenios para la Modalidad Libre Elección, las que se rigen por lo establecido en los puntos 2, 3 y 4 de esta normativa y corresponde a las atenciones integrales otorgadas por profesional matrona o matrón, en lo que respecta a la salud sexual y reproductiva de las personas a lo largo de su ciclo vital y a la mujer o persona con capacidad de gestar en todas las etapas de su gestación, comprendiendo tanto la atención prenatal, puerperio normal y además la preparación para el parto.
+
+Atención Integral de Matronería en Salud Obstétrica y Perinatal código 26-03-001, prestación que comprende la atención por profesional matrona o matrón, del embarazo normal, control de puerperio, recién nacido y la ejecución de acciones derivadas del diagnóstico y tratamiento médico del embarazo patológico, considera el conjunto de atenciones que se requieran dentro del período de embarazo, puerperio y la atención del recién nacido otorgadas por el profesional. Asimismo, considera la elaboración de un plan de atención prenatal en conjunto con la persona gestante, de acuerdo con sus necesidades, que considere el control de la evolución normal de la gestación, la detección de factores de riesgo y pesquisa de patologías propias de la gestación y concomitantes que permitan la derivación oportuna a niveles de mayor complejidad cuando corresponda.
+
+Esta prestación, requiere de orden médica de derivación, manteniendo la coordinación constante con el equipo tratante. Considera una duración de 45 min.
+
+En aquellos casos, en que la persona curse un embarazo con sospecha o diagnóstico de riesgo obstétrico y perinatal (según Guía Perinatal Minsal 2015), embarazo gemelar o múltiple, deberá ser controlada en conjunto con médico especialista en Ginecología y Obstetricia seleccionado por la persona gestante, considerando lo señalado en el punto 27.6 letra a) de esa normativa. Para ello, el profesional de matronería, deberá mantener una coordinación e información constante con la persona gestante de sus opciones de atención y de su derivación oportuna.
+
+Se debe considerar que esta prestación no incluye en su valor, las prestaciones de los siguientes códigos arancelarios 20-01-009, 20-04-010, 20-04-011 y 20-04-012.
+
+La atención de puerperio y Recién Nacido están destinadas en un contexto ambulatorio, después del alta de su parto.
+
+Atención Integral de Matronería en Salud Sexual y Reproductiva código 26-03-002, atención profesional otorgada por Matrona o Matrón que comprende el conjunto de atenciones otorgadas a las personas usuarias que requieran atención en las distintas etapas de su salud reproductiva y sexual, tales como: salud ginecológica integral, salud sexual integral, salud reproductiva (preconcepcional), regulación de fertilidad y atención ginecológica a mujeres o personas en etapa de climaterio (esta etapa no considera la indicación de terapia de reemplazo hormonal, que debe ser indicada por médico especialista en Ginecología y Obstetricia).
+
+Esta prestación no requiere orden médica para su realización, contempla una duración de 45 min.
+
+La prestación 26-03-002, no considera en su valor la prestación 20-01-015, asimismo, tampoco considera los implantes subcutáneos ni su inserción.
+
+29.4 ATENCIONES INTEGRALES DE ACUPUNTURA (GRUPO 26 SUBGRUPO 09)
+
+Este grupo contempla las atenciones otorgadas en atención abierta, las que se rigen por lo establecido en los puntos 2, 3 y 4 de esta normativa.
+
+Los profesionales que inscriban esta prestación deberán dar cumplimiento a lo dispuesto en el decreto Nº123 del Minsal y contar con la infraestructura e insumos pertinentes para proveer la atención, asimismo, el lugar de atención deberá contar con resolución sanitaria vigente.
+
+La atención integral de acupuntura considera los códigos arancelarios 26-09-001 y 26-09-002, se debe considerar que estos no corresponden a la atención de punción seca.
+
+Atención Integral de Acupuntura por profesional de la Salud (por sesión) código 26-09-001, prestación que puede ser otorgada por profesionales de Nivel Superior de la Salud (médico, enfermera, matrona, tecnólogo médico, kinesiólogo, terapeuta ocupacional, fonoaudiólogo) y que posean el título de Acupunturista, debidamente certificado en el Registro Nacional de Prestadores de la Superintendencia de Salud.
+
+Atención Integral de Acupuntura por Técnico de profesiones auxiliares de salud (por sesión) código 26-09-002, esta prestación podrá ser otorgada por Técnico nivel superior u otro profesional no de salud que posean el título de Acupunturista, debidamente certificado en el Registro Nacional de Prestadores de la Superintendencia de Salud.
+
+En la ejecución de las prestaciones 26-09-001 y 26-09-002 se consideran las siguientes técnicas: acupuntura, aurículo terapia, terapia umbilical, terapia abdominal, terapia podal, manopuntura, craneopuntura, electroacupuntura, sangría, moxibustión, ventosas, masaje terapéutico, laserpuntura, magnetoterapia, recomendaciones en fitoterapia y alimentación. La utilización de una o varias de estas técnicas dentro de cada sesión, dependerá de la situación particular de cada paciente. Esta prestación considera una duración de 45 minutos e incluye todos los insumos necesarios para su desarrollo, tales como algodón, sabanillas, alcohol, agujas y extras como chinchetas, semillas, moxa.
+
+Ambas prestaciones requieren orden médica del profesional tratante y solo se podrá acceder a ella si se presentan las siguientes condiciones: dolor crónico de origen oncológico y dolor crónico osteomuscular cuyo diagnóstico sea Lumbago Crónico o Artrosis de Rodilla en mayores de 15 años.
+
+Si un profesional en convenio requiere realizar sesiones de acupuntura y además alguna de las prestaciones ya inscritas de su profesión, sólo podrá realizarlas en sesiones diferentes, debidamente registradas en la ficha clínica y con la correspondiente prescripción médica cuando corresponda.
 
 30. INFRACCIONES.
 
@@ -4765,5 +4917,7 @@ II. La presente Resolución entrará en vigencia a contar del primer día hábil
 > **Nota.** NOTA 6 El numeral 13° del artículo primero de la Resolución 436, Salud, publicada el 11.05.2021, dispone eliminar las letras f), g), h), i), j) y k) del N° 8 de la presente norma, que han pasado a ser m), n), ñ), o), p) y q), sin embargo, el numeral 12 al determinar la remuneración no considera la letra e) existente en el texto con anterioridad. Es por esta razón que se mantienen dos literales e) y asimismo, no se han eliminado los literales más arriba señalados.
 
 > **Nota.** NOTA 7 El numeral 33° del artículo primero de la Resolución 436, Salud, publicada el 11.05.2021, dispone incorporar las letras j) y k) nuevas, a continuación de la letra i), en el numeral 17.4 "Otros Procedimientos" de la presente norma. No obstante, la citada norma únicamente incluye el texto de la letra j) omitiéndose la letra k).
+
+> **Nota.** NOTA 8 El numeral 4 de la Resolución 208 Exenta, Salud, publicada el 26.02.2022, dispone modificar la glosa en la tabla del numeral 7.1.1 de la presente norma donde señala código 0101001 glosa "Consulta médica electiva" por "Consulta Medicina General".
 
 Anótese, archívese y publíquese.- Jaime Mañalich Muxi, Ministro de Salud.
