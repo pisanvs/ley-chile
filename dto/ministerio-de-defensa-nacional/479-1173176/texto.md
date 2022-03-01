@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 479, del 22 de septiembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorga al señor Luis Olcay Vallejos, RUN N° 4.623.431-6, Concesión Marítima Menor, con vencimiento el 31 de diciembre de 2026, sobre un sector de terreno de Playa, en el lugar denominado Caleta Obispo, comuna de Caldera, provincia de Copiapó y Región de Atacama, con una superficie total de 600 m², la que fue tramitada con el SIABC N° 46.980. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): Vértice 1: Latitud 26°44'16,59"S Longitud 70°44'13,41"W Tramo 1-2. El objeto de esta concesión marítima, sobre el sector otorgado, consiste en continuar amparando y usufructuando la construcción existente de una casa habitación para veraneo familiar. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Caldera, 8 de febrero de 2022.- Cristián Paredes Porras, Teniente 1° LT, Capitán de Puerto de Caldera.
