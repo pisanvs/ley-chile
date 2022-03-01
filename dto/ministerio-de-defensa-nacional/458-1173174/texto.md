@@ -1,0 +1,7 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+El decreto supremo N° 458 de fecha 22 de noviembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Sra. Marisol del Carmen Arriola Muñoz, RUN. 9.782.715-k, Tercera Renovación de la concesión marítima menor, con vencimiento el 31 de diciembre de 2026, sobre un sector de playa, en un lugar denominado Playa Grande, comuna de Cartagena, Provincia de San Antonio, Región de Valparaíso, con una superficie total de 15 m², la que fue tramitada con el SIABC N° 38894. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto de esta concesión marítima, en el sector otorgado, es continuar usufructuando y amparando la construcción existente de un kiosco de material sólido para la venta de confites, golosinas, bebidas analcohólicas, arriendo de quitasoles y sillas de playa a los turistas y público en general. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de San Antonio. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+San Antonio, 31 de enero de 2022.- Cristhian León Zabala, Capitán de Corbeta LT, Capitán de Puerto de San Antonio.
