@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº18, de 31 de enero de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, artículo 10º de la Ley Nº18.772, se expropió para la Empresa de Transporte de Pasajeros Metro S.A., el lote de terreno Nº 292L7, para la obra: PROYECTO LINEA 7 METRO S.A., que figura a nombre de DIGUILLIN DESARROLLO SPA, rol de avalúo 30-34, Comuna de PROVIDENCIA, REGION METROPOLITANA DE SANTIAGO, superficie 252,17 m2. La Comisión de Peritos integrada por SOLANGE ALEJANDRA LAGOS DIAZ, JUAN ARMANDO SALAS URZUA y GUSTAVO EDUARDO PICERO GARCIA, mediante informe de tasación de 28 de mayo de 2021, fijó el monto de la indemnización provisional en la cantidad de $855.094.400 para el lote Nº292L7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
