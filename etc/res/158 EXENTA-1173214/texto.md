@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta N° 158, de 3 de febrero de 2022, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, se aprueba el Gabinete técnico de la Ilustre Municipalidad de Quinchao, cuyo domicilio estará ubicado en calle Amunátegui N° 18, ciudad de Achao, comuna de Quinchao, Región de Los Lagos, por cumplir los requisitos exigidos en la normativa. Asimismo, se autorizó a la Ilustre Municipalidad de Quinchao, para otorgar licencias de conductor conforme a las disposiciones del DFL N° 1, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito y sus reglamentos. La Municipalidad precedentemente individualizada deberá suspender el otorgamiento de licencias de conductor, en el evento de faltarle algunos de los requisitos que hicieron posible la presente autorización.-
+
+Nicolás Maximiliano Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
