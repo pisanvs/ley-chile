@@ -1,0 +1,15 @@
+ASÍGNENSE RECURSOS Y SELECCIÓNASE A LAS COPROPIEDADES QUE SE INDICAN, EN EL LLAMADO A POSTULACIÓN PARA EL DESARROLLO DE PROYECTOS DE MEJORAMIENTO DE VIVIENDAS Y BARRIOS, REGULADOS POR EL DS 27 (V. Y U.), DE 2016, CAPÍTULO TERCERO, PROYECTOS PARA CONDOMINIOS DE VIVIENDAS SOCIALES, DISPUESTO MEDIANTE LA RESOLUCIÓN Nº 336 EXENTA (V. Y U.), DE FECHA 1 DE ABRIL DE 2021 PARA LA REGIÓN METROPOLITANA, QUE SE DESTINARÁN AL FINANCIAMIENTO DE LOS PROYECTOS SELECCIONADOS
+
+Mediante resolución exenta Nº 182 de fecha 15.02.2022, la Secretaría Ministerial Metropolitana de Vivienda y Urbanismo, procedió a asignar recursos y seleccionar a las copropiedades que indica dicho acto, respecto del llamado a postulación en condiciones especiales para el Programa de Mejoramiento de Viviendas y Barrios Capítulo III, proyectos para Condominios de Viviendas Sociales para la Región Metropolitana, contenido en Res. Ex. Nº 336 de esta Secretaría Ministerial, conforme a solicitud contenida en Of. Nº 389 de fecha 28 de enero de 2022, del Departamento de Estudios, de la Subdirección de Vivienda y Equipamiento del Serviu Metropolitano, en el que se calificó favorablemente todas las factibilidades de los 236 proyectos ingresados para la postulación correspondiente al llamado ya citado; y que se tuvo a la vista el Acta de la Sesión de la Comisión Evaluadora de asignación del primer proceso de selección de CVE 2021, de fecha 14 de febrero de 2022. Se procedió a la asignación de recursos para la tercera selección de postulantes correspondientes al llamado 2021, para el desarrollo de proyectos de Condominios de Viviendas Sociales, pertenecientes a la cartera de la Demanda General, Programa de Recuperación de Barrios y Plan Integral (Bajos de Mena), que se destinarán al financiamiento de los subsidios y al pago de los servicios de asistencia técnica, según la distribución que se señala a continuación:
+
+Demanda General:
+
+Programa de Recuperación de Barrios 2014-2020.
+
+Plan Integral:
+
+Se estableció, asimismo, el puntaje de corte de la selección, imputándose el monto total de 864.425,49 UF, asignados en esta resolución exenta, de las cuales 789.924,04 UF corresponden a subsidio directo y 74.501,45 UF, corresponden a Asistencia Técnica, a los recursos autorizados a la Región Metropolitana, para el Programa de Mejoramiento de Viviendas y Barrios del año 2021, ordenando la publicación de un extracto de la resolución en el Diario Oficial.
+
+Posteriormente, por Res. Ex. Nº 193, de fecha 22.02.2022, esta Secretaría Ministerial rectificó la resolución Ex. Nº 182, en el sentido de modificar los antecedentes de la distribución, quedando como se indicó precedentemente. El texto íntegro de ambas resoluciones, que contiene el detalle de los proyectos y comunidades beneficiadas, se encuentra disponible en portal de transparencia activa de esta institución https://www.portaltransparencia.cl/PortalPdT/directorio-de-organismos-regulados/?org=AP025.
+
+Anótese, notifíquese y publíquese.- Francisca Bustos Contreras, Secretaria Ministerial Metropolitana de Vivienda y Urbanismo Subrogante.
