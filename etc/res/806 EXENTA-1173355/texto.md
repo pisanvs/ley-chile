@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 806 EXENTA, DE 17 DE NOVIEMBRE DE 2021
+
+Por resolución exenta N° 806, de 17 de noviembre de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Ríos, se autorizó a la Escuela de Conductores "Todo Transportes Ltda.", RUT 78.809.580-5, domiciliada en calle Arauco N° 465, comuna de Valdivia, representada legalmente por don Juan Carlos Widemann Guarda, cédula de identidad N° 8.567.497-8, cuyos planes y programas fueron autorizados mediante resolución exenta N° 574, de 16 de abril de 1996, del Ministerio de Transportes y Telecomunicaciones, a impartir los cursos conducentes a la obtención de la Licencia de Conductor no Profesional o Clase B, en la modalidad e-learning.-
+
+Marcela Cecilia Villenas Obreque, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Los Ríos.
