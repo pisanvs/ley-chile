@@ -2220,9 +2220,9 @@ Será castigado con presidio militar menor en cualquiera de sus grados o con la 
 
 2° El que por negligencia inexcusable diere lugar a la evasión de prisioneros, o a la de presos o detenidos cuya custodia o conducción le estuviere confiada;
 
-3° El que sin incurrir en desobediencia o en el delito previsto en el artículo 294, deje de cumplir sus deberes militares.
+3° Derogado.
 
-INCISO FINAL.- DEROGADO.-
+> **Nota.** NOTA 1 Por Sentencia del Tribunal Constitucional, publicada el 04.03.2022, el N° 3 del presente artículo fue declarado inconstitucional por aplicación del Art. 93 N° 7 de la Constitución Política de la República, debiendo considerarse como derogado a contar de la fecha de publicación de la sentencia.
 
 #### Artículo 299 bis
 
