@@ -82,7 +82,7 @@ Otórgase a la Subsecretaría de Salud Pública facultades extraordinarias para 
 
 12. Realizar importación directa de medicamentos, insumos y dispositivos médicos que sean necesarios para el cumplimiento de las facultades que se entregan al sector salud mediante este decreto. En dicho contexto, podrá en el caso de productos importados, y en virtud de prácticas internacionales de comercio, eximirse de una o más obligaciones contenidas en la ley 19.886.
 
-13. Realizar la transferencia de dominio, a título gratuito, de bienes muebles adquiridos para hacer frente la epidemia de Covid-19, a aquellos servicios públicos que ejecuten acciones de salud relacionadas directamente con la utilización de dichos bienes. La transferencia se realizará mediante resolución exenta de la Subsecretaría, sin más trámite. Dicha resolución deberá individualizar en forma detallada el o los bienes a enajenar y el Servicio adquirente del dominio.
+13. Realizar la transferencia de dominio, a título gratuito, de bienes muebles adquiridos para hacer frente la epidemia de Covid-19, a aquellos servicios públicos que ejecuten acciones de salud relacionadas directamente con la utilización de dichos bienes. Asimismo, se podrá realizar la transferencia de dominio, a título gratuito, de dichos bienes muebles, a aquellos servicios públicos que promuevan el desarrollo de actividades académicas, científicas, de investigación o innovación, y que sean útiles en el ámbito de la salud, en los casos en que no se puedan continuar empleando, ya sea por renovación o utilización de otras alternativas. La transferencia se realizará mediante resolución exenta de la Subsecretaría, sin más trámite. Dicha resolución deberá individualizar en forma detallada el o los bienes a enajenar y el Servicio adquirente del dominio.
 
 14. Aceptar transferencias de dominio a título gratuito, de bienes muebles destinados a hacer frente a la epidemia de COVID-19. La aceptación se realizará mediante resolución exenta de la Subsecretaría, sin más trámite, la cual deberá individualizar en forma detallada el o los bienes aceptados.
 
@@ -116,7 +116,7 @@ Otórgase a la Subsecretaría de Redes Asistenciales facultades extraordinarias 
 
 13. Disponer el precio máximo a pagar por parte de la población general de determinados dispositivos médicos, elementos e insumos sanitarios, así como de prestaciones de salud y servicios sanitarios, como asimismo, todos los bienes y servicios necesarios para atender las necesidades sanitarias en la red asistencial de salud.
 
-14. Realizar la transferencia de dominio, a título gratuito, de bienes muebles adquiridos para hacer frente la epidemia de Covid-19, a aquellos servicios públicos que ejecuten acciones de salud relacionadas directamente con la utilización de dichos bienes. La transferencia se realizará mediante resolución exenta de la Subsecretaría, sin más trámite. Dicha resolución deberá individualizar en forma detallada el o los bienes a enajenar y el Servicio adquirente del dominio.
+14. Realizar la transferencia de dominio, a título gratuito, de bienes muebles adquiridos para hacer frente la epidemia de Covid-19, a aquellos servicios públicos que ejecuten acciones de salud relacionadas directamente con la utilización de dichos bienes. Asimismo, se podrá realizar la transferencia de dominio, a título gratuito, de dichos bienes muebles, a aquellos servicios públicos que promuevan el desarrollo de actividades académicas, científicas, de investigación o innovación, y que sean útiles en el ámbito de la salud, en los casos en que no se puedan continuar empleando, ya sea por renovación o utilización de otras alternativas. La transferencia se realizará mediante resolución exenta de la Subsecretaría, sin más trámite. Dicha resolución deberá individualizar en forma detallada el o los bienes a enajenar y el Servicio adquirente del dominio.
 
 15. Aceptar transferencias de dominio a título gratuito, de bienes muebles destinados a hacer frente a la epidemia de COVID-19. La aceptación se realizará mediante resolución exenta de la Subsecretaría, sin más trámite, la cual deberá individualizar en forma detallada el o los bienes aceptados.
 
@@ -306,7 +306,7 @@ Lo anterior, de conformidad con lo señalado en los convenios que previamente se
 
 #### Artículo 10º
 
-Los efectos de este decreto tendrán vigencia hasta el 30 de septiembre de 2021, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que estas no mejoren.
+Los efectos de este decreto tendrán vigencia hasta el 31 de marzo de 2022, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que estas no mejoren.
 
 #### Artículo 11º
 
