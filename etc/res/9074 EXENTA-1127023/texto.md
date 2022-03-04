@@ -154,7 +154,7 @@ Para la descripción Taxonómica deberá utilizarse la nomenclatura de organismo
 
 10.1.2.2 Metodología de identificación y caracterización del microorganismo.
 
-Señalar la metodología y criterios utilizados para la identificación, reconocidos a nivel científico internacional (como morfología, bioquímica, serología, identificación molecular, etc.). Las técnicas y procedimientos empleados deben permitir la caracterización precisa del microorganismo.
+Señalar la metodología y criterios utilizados para la identificación del microorganismo, la que podrá corresponder a metodologías reconocidas por el Servicio, o bien, a una reconocida a nivel científico internacional (como morfología, bioquímica, serología, identificación molecular, etc.). Las técnicas y procedimientos empleados deben permitir la caracterización precisa del microorganismo.
 
 10.1.2.3 Nombres comunes.
 
@@ -236,7 +236,9 @@ Cuando corresponda, describir las estrategias de manejo adecuadas.
 
 . Determinación de microorganismos contaminantes o impurezas relevantes, cuando corresponda.
 
-En el caso que las metodologías analíticas utilizadas no se encuentren reconocidas internacionalmente, se deberá acompañar, además, su descripción y las validaciones de laboratorio correspondientes.
+Los métodos analíticos utilizados para estos efectos pueden corresponder a los oficialmente reconocidos por el Servicio a través de resolución, o bien, a metodologías reconocidas internacionalmente. Para ambos casos no será necesario presentar la descripción y validación de los métodos.
+
+En el caso de utilizar metodologías distintas a las señaladas en el inciso anterior, se deberá acompañar, además, su descripción y las validaciones de laboratorio correspondientes.
 
 10.3.2. Métodos de análisis para residuos. Indicar los métodos de detección y cuantificación, adjuntando su descripción, de los microorganismos activos y los metabolitos relevantes (especialmente toxinas), en el interior o en la superficie de las plantas cultivadas, en alimentos y piensos, en tejidos y líquidos corporales animales y humanos, en el suelo, en el agua y en el aire, cuando corresponda.
 
@@ -254,7 +256,7 @@ En el caso que las metodologías analíticas utilizadas no se encuentren reconoc
 
 10.6. Efectos sobre la salud humana.
 
-Los documentos que respalden este punto, podrán ser estudios generados por o para el productor del microorganismo y/o subproductos metabólicos que va a ser evaluado, desarrollados según directrices o protocolos internacionalmente reconocidos, documentos de organismos gubernamentales extranjeros o artículos de fuentes científicas indexadas que permitan evaluar los posibles efectos adversos sobre mamíferos e indirectamente en la salud humana.
+Los documentos que respalden este punto, podrán ser estudios generados por o para el productor del microorganismo y/o subproductos metabólicos que va a ser evaluado, de acuerdo a los protocolos oficialmente reconocidos por el Servicio a través de resolución u otros desarrollados a través metodologías y directrices internacionalmente reconocidas, o bien, documentos de organismos gubernamentales extranjeros o artículos de fuentes científicas indexadas que permitan evaluar los posibles efectos adversos sobre mamíferos e indirectamente en la salud humana.
 
 Proveer información sobre la capacidad conocida del microorganismo respecto a:
 
@@ -310,7 +312,7 @@ Se requerirá de información en detalle cuando existan metabolitos relevantes (
 
 10.8. Efectos en los organismos no objetivo.
 
-Los documentos que respalden este punto podrán ser estudios generados por o para el productor del microorganismo y/o subproductos metabólicos que va a ser evaluado, desarrollados según directrices o protocolos internacionalmente reconocidos, documentos de organismos gubernamentales extranjeros o artículos de fuentes científicas indexadas, que permitan evaluar los efectos adversos sobre organismos no objetivos en ambiente acuático y terrestre.
+Los documentos que respalden este punto podrán ser estudios generados por o para el productor del microorganismo y/o subproductos metabólicos que va a ser evaluado de acuerdo a los protocolos oficialmente reconocidos por el Servicio a través de resolución u otros desarrollados a través metodologías y directrices internacionalmente reconocidas, o bien, documentos de organismos gubernamentales extranjeros o artículos de fuentes científicas indexadas, que permitan evaluar los efectos adversos sobre organismos no objetivos en ambiente acuático y terrestre.
 
 Si el microorganismo no provoca efectos tóxicos o no es patógeno o infeccioso respecto a los vertebrados o los vegetales, solo será necesario indicar la reacción con los organismos no objetivo de mayor sensibilidad en cada ámbito.
 
@@ -402,7 +404,9 @@ Indicar el contenido del o de los microorganismos en el producto formulado y con
 
 11.2.3.6 Determinar y cuantificar los residuos, si corresponde.
 
-En el caso que las metodologías analíticas utilizadas no se encuentren reconocidas internacionalmente, se deberá acompañar, además, su descripción y las validaciones de laboratorio correspondientes.
+Los métodos analíticos utilizados para estos efectos pueden corresponder a los oficialmente reconocidos por el Servicio a través de resolución, o bien, a metodologías reconocidas internacionalmente. Para ambos casos no será necesario presentar la descripción y validación de los métodos.
+
+En el caso de utilizar metodologías distintas a las señaladas en el inciso anterior, se deberá acompañar, además, su descripción y las validaciones de laboratorio correspondientes.
 
 11.2.4 Coformulantes.
 
@@ -476,7 +480,7 @@ Para la determinación utilizar metodología de la Unión Europea, OCDE, OCSPP d
 
 11.5. Datos sobre la aplicación.
 
-Este punto deberá venir respaldado por los resultados de los ensayos de eficacia oficiales en original y firmados por el investigador, efectuados mediante protocolos universalmente aceptados en que se demuestre la eficacia del plaguicida, cuya autorización se solicita, para los fines a los cuales se recomienda. Indicando el número de la muestra, fecha y número de resolución que autorizó el ingreso de la muestra experimental o bien por la certificación de eficacia en original.
+Este punto deberá venir respaldado por los resultados de los ensayos de eficacia oficiales en original y firmados por el investigador, efectuados mediante protocolos de eficacia realizados de acuerdo a metodologías validadas por el Servicio a través de resolución, o bien, de acuerdo a protocolos universalmente aceptados en que se demuestre la eficacia del plaguicida para los fines a los cuales se recomienda, bajo los criterios establecidos por el SAG. Se debe complementar el análisis estadístico, con el cálculo del porcentaje de eficacia, presentando la fórmula correspondiente, considerando los valores de eficacia establecidos por la FAO. Se debe indicar el número de la muestra, fecha y número de resolución que autorizó el ingreso de la muestra experimental, o bien, por la certificación de eficacia en original.
 
 11.5.1. Ámbito de aplicación.
 
@@ -540,7 +544,7 @@ Informar sobre datos de residuos del producto formulado o de sus toxinas asociad
 
 11.9 Efectos sobre la salud humana.
 
-Proveer estudios referidos a aspectos toxicológicos del producto formulado, con el objeto de evaluar los posibles efectos adversos. Estos estudios deberán ser generados por o para el productor del producto formulado que va a ser evaluado, desarrollados según directrices o protocolos internacionalmente reconocidos.
+Proveer estudios referidos a aspectos toxicológicos del producto formulado, con el objeto de evaluar los posibles efectos adversos. Estos estudios deberán ser generados por o para el productor del producto formulado que va a ser evaluado, de acuerdo a los protocolos oficialmente reconocidos por el Servicio a través de resolución u otros desarrollados a través metodologías y directrices internacionalmente reconocidas.
 
 En caso contrario, podrá presentar un informe técnico que proporcione un análisis del comportamiento del producto formulado a partir de los estudios o datos disponibles del microorganismo conjuntamente con la información de los efectos de los coformulantes. Dicho informe técnico, deberá ser emitido por un profesional con competencia en el área.
 
@@ -582,7 +586,7 @@ El Servicio podrá requerir información adicional cuando existan metabolitos re
 
 11.10. Efectos en los organismos no objetivo.
 
-Proveer estudios referidos a los efectos sobre organismos no objetivos del producto formulado, con el objeto de evaluar los posibles efectos adversos. Estos estudios deberán ser generados por o para el productor del producto formulado que va a ser evaluado, desarrollados según directrices o protocolos internacionalmente reconocidos.
+Proveer estudios referidos a los efectos sobre organismos no objetivos del producto formulado, con el objeto de evaluar los posibles efectos adversos. Estos estudios deberán ser generados por o para el productor del producto formulado que va a ser evaluado, de acuerdo a los protocolos y directrices oficialmente reconocidos por el Servicio a través de resolución u otros desarrollados a través metodologías y directrices internacionalmente reconocidas.
 
 En caso contrario, podrá presentar un informe técnico que proporcione un análisis del comportamiento del producto formulado a partir de los estudios o datos disponibles del microorganismo conjuntamente con la información de los efectos de los coformulantes. Dicho informe técnico, deberá ser emitido por un profesional con competencia en el área.
 
