@@ -50,7 +50,7 @@ Decreto:
 
 #### Artículo primero
 
-Dispónganse, a partir de la publicación del presente decreto en el Diario Oficial y hasta el 31 de marzo de 2022, las medidas que se señalan en los artículos siguientes, con el objeto de evitar, manejar, disminuir o superar los déficits de generación que se puedan producir en el Sistema Eléctrico Nacional, preservando con ello la seguridad del señalado sistema.
+Dispónganse, a partir de la publicación del presente decreto en el Diario Oficial y hasta el 30 de septiembre de 2022, las medidas que se señalan en los artículos siguientes, con el objeto de evitar, manejar, disminuir o superar los déficits de generación que se puedan producir en el Sistema Eléctrico Nacional, preservando con ello la seguridad del señalado sistema.
 
 Las medidas señaladas se orientarán, principalmente, a reducir los impactos del déficit para los usuarios, a incentivar y fomentar el aumento de capacidad de generación en el SEN, a estimular o premiar el ahorro voluntario y a aminorar los costos económicos que dicho déficit pueda ocasionar al país.
 
@@ -121,6 +121,114 @@ Las empresas generadoras de centrales térmicas que utilicen GNL deberán realiz
 Las empresas generadoras que presenten indisponibilidades de generación asociadas a falta de combustibles en la central generadora, deberán informar detalladamente al Coordinador las razones de dicha falta, en la forma y plazo que determine el Coordinador. Además, las señaladas empresas deberán acreditar ante el Coordinador que han efectuado los mayores esfuerzos contractuales para disponer de combustible para la operación permanente de la central. Por último, el Coordinador deberá tomar todas las medidas necesarias para que las indisponibilidades queden adecuadamente reflejadas en el cálculo de la remuneración por potencia de suficiencia de las respectivas instalaciones.
 
 La Comisión y la Superintendencia, respecto de las medidas señaladas en el presente artículo, en todo lo que resulte aplicable, deberán priorizar y agilizar la tramitación de los permisos o autorizaciones que les corresponda otorgar, en la medida que ello permita reducir, evitar, manejar, disminuir o superar los déficits de generación que se puedan producir en el SEN.
+
+El Coordinador, en virtud de la facultad legal conferida en el inciso cuarto del artículo 72º-2 de la LGSE, deberá requerir a los Coordinados información actualizada de las condiciones comerciales, físicas y operacionales referidas a la operación de las unidades generadoras.
+
+El Coordinador deberá resguardar la información respecto de la que concurra alguna de las causales de secreto o reserva que establece la Constitución Política de la República y la ley o que su publicidad, comunicación o conocimiento afecte el derecho de las personas, especialmente en el ámbito de su vida privada o derechos de carácter comercial o económico.
+
+9. Diseño e implementación de esquema de adquisición y logística de diésel (en adelante, "Diésel de Seguridad")
+
+a) Determinación del consumo histórico de diésel. El Coordinador deberá determinar para cada unidad generadora térmica que opere con diésel, el consumo histórico promedio mensual del insumo primario en m3/día, para cada uno de los meses entre marzo y septiembre, ambos incluidos, para cuyo efecto utilizará el monto despachado promedio mensual del mes respectivo en el año 2021. Luego, el Coordinador deberá, para cada mes, determinar el consumo histórico promedio mensual sistémico del combustible en m3/día. A continuación, el Coordinador determinará el mayor valor del cálculo sistémico entre los meses anteriormente señalados, el que se definirá "Diésel Base Mensual".
+
+b) Estimación de los requerimientos de diésel en el SEN. El Coordinador, dentro de los 3 días hábiles siguientes a la publicación del decreto supremo Nº 1, de 2022, del Ministerio de Energía, en el Diario Oficial, y a partir del escenario crítico de consumo de diésel del Estudio de Seguridad de Abastecimiento más actualizado, deberá realizar una proyección de la cantidad de diésel promedio mensual en m³/día, para cada mes, que requerirá el SEN durante la vigencia del presente decreto, para minimizar la probabilidad de racionamiento eléctrico. La cantidad de diésel indicado anteriormente se denominará "Diésel Mensual Requerido por el Sistema". El Coordinador podrá actualizar los cálculos anteriores en la forma y oportunidad que se determine en el procedimiento contenido en el literal c) siguiente, la que sólo podrá ser efectuada con valores al alza.
+
+El Coordinador, para efectos de determinar el Diésel Mensual Requerido por el Sistema, podrá realizar desagregaciones por zona considerando restricciones de logística o almacenamiento del diésel, informadas por las empresas o a través de otras fuentes de información, y además deberá considerar las restricciones propias del SEN u otras restricciones que pudiesen afectar el diésel requerido en cada zona, con el objetivo de asegurar el abastecimiento y seguridad del suministro eléctrico.
+
+Una vez definidas las desagregaciones por zonas, el Coordinador deberá determinar el Diésel Base Mensual en cada una de ellas, y luego determinará la diferencia, en cada mes y zona, entre las siguientes componentes: (x) Diésel Mensual Requerido por el Sistema, y (z) Diésel Base Mensual. A continuación, el Coordinador determinará el Diésel de Seguridad, para cada zona, como el máximo valor de la diferencia mensual por zona indicada anteriormente.
+
+c) Asignación del Diésel de Seguridad. El Coordinador deberá llevar a cabo un proceso de provisión de Diésel de Seguridad (en adelante, "Proceso de Provisión de Combustible"), cuyo objetivo es proveer un mecanismo para que las unidades generadoras que lo requieran, y operen con combustible diésel, presenten disponibilidad de combustible hasta el término del presente decreto.
+
+Para efectos de lo anterior, dentro de los 10 días hábiles siguientes a la publicación del decreto supremo Nº 1, de 2022, del Ministerio de Energía, en el Diario Oficial, el Coordinador deberá establecer, coordinar y comunicar a los coordinados un procedimiento que contenga el diseño del Proceso de Provisión de Combustible. El procedimiento deberá incorporar, al menos, (i) calendario del proceso, (ii) Diésel de Seguridad requerido por el sistema con una desagregación por zona, si es que corresponde dicha desagregación, y (iii) Diésel Base Mensual por cada unidad generadora.
+
+El procedimiento del Proceso de Provisión de Combustible definido en el párrafo anterior deberá ser comunicado por correo electrónico a la Comisión, la que podrá realizar observaciones en un plazo de 5 días hábiles contado desde la comunicación. Una vez recibidas las observaciones por parte de la Comisión o vencido el plazo de 5 días antes señalado, el Coordinador deberá incorporar en el procedimiento del Proceso de Provisión de Combustible dichas observaciones, si corresponde, y enviar el documento final a la Comisión dentro de los 2 días hábiles siguientes. La Comisión deberá aprobar dicho documento en un plazo de 1 día hábil. A continuación, el Coordinador tendrá un plazo de 15 días hábiles para desarrollar y finalizar el Proceso de Provisión de Combustible.
+
+Con todo, solo podrán participar del Proceso de Provisión de Combustible del Diésel de Seguridad aquellos propietarios, arrendatarios, usufructuarios o quien opere a cualquier título unidades generadoras térmicas que utilicen como insumo el combustible diésel (en adelante "Potenciales Participantes"). A su vez, la cantidad máxima con la que podrán participar los Potenciales Participantes con cada una de sus unidades generadoras que utilicen como insumo el combustible diésel corresponderá mensualmente a la diferencia entre: (x) diésel necesario para generar con potencia máxima durante un día, y (z) Diésel Base Mensual correspondiente a cada unidad.
+
+A su turno, para participar del Proceso de Provisión de Combustible, los Potenciales Participantes deberán informar al Coordinador, por cada unidad generadora que utilice como insumo el combustible diésel, en los plazos y formatos que éste establezca en el Proceso de Provisión de Combustible, al menos, la siguiente información:
+
+i. El precio del diésel comprometido. Este precio deberá tener tanto un componente fijo como un componente variable.
+
+. Componente Fijo: deberá considerar, al menos, los costos fijos de los recursos utilizados para almacenar, disponer y transportar el Diésel de Seguridad a la respectiva unidad generadora, según corresponda. Los costos deberán ser identificados en el Proceso de Provisión de Combustible.
+
+. Componente Variable: componente de costo variable, de acuerdo con la normativa vigente, del Diésel de Seguridad, para cada unidad generadora, que deberá informarse en el Proceso de Provisión de Combustible.
+
+ii. La cantidad máxima diaria y promedio mensual de Diésel de Seguridad comprometido. Dicho monto deberá ser comunicado en m3/día y su equivalente en MWh, y desagregado por unidad generadora.
+
+iii. Eventuales restricciones de logística de distribución de combustible.
+
+Considerando la información indicada anteriormente, el Coordinador deberá asignar el Diésel de Seguridad, al menor costo, considerando las eventuales restricciones de logística y otras que pudiera definir en el Proceso de Provisión de Combustible. En particular, para efectos de determinar el costo de los Potenciales Participantes en el Proceso de Provisión de Combustible, y realizar la asignación, el Coordinador deberá sumar, para cada unidad generadora, el componente de costo fijo dividido en la cantidad promedio mensual de Diésel de Seguridad en MWh a que hace referencia el punto ii. del párrafo anterior, resultando un monto en US$/MWh, y el componente de costo variable en US$/MWh.
+
+Asimismo, el Coordinador deberá verificar en el Proceso de Provisión de Combustible que las cantidades de diésel asignadas no supere la cantidad de Diésel de Seguridad por zona, si es que corresponde hacer dicha desagregación.
+
+Una vez asignado el Diésel de Seguridad, los propietarios, arrendatarios, usufructuarios o quien opere a cualquier título unidades generadoras a los que se les haya asignado dicho combustible, deberán informar al Coordinador los contratos de suministro de combustible en los plazos y formatos que éste indique.
+
+El Diésel de Seguridad deberá estar disponible para ser utilizado en el SEN dentro de los 20 días hábiles siguientes a la finalización del Proceso de Provisión de Combustible, y deberá culminar con la fecha de término de vigencia del presente decreto. El periodo indicado anteriormente se definirá como "Periodo con Disponibilidad de Diésel de Seguridad".
+
+El Coordinador deberá llevar un registro del uso de Diésel de Seguridad de cada una de las unidades generadoras.
+
+d) Costos y remuneración del Diésel de Seguridad. El Coordinador deberá mensualmente, con ocasión del cálculo de los balances de transferencias económicas de energía, realizar un cuadro de pago dispuesto especialmente para la remuneración del componente de costos fijos de la provisión del Diésel de Seguridad. Adicionalmente, se considerarán aquellos costos fijos incurridos para disponer de volúmenes de Diésel de Seguridad que hayan sido asignados por el mecanismo señalado en el literal c) anterior y que no fueron utilizados en la operación real del SEN.
+
+El monto resultante señalado en el párrafo anterior deberá ser asignado mensualmente a todas las empresas generadoras que efectúan retiros de energía del sistema a prorrata de sus retiros físicos de energía.
+
+Con todo, en el caso de las unidades generadoras que pueden operar con gas natural o diésel, para acceder al reconocimiento de los costos indicados en el primer párrafo del presente literal, los propietarios, arrendatarios, usufructuarios o quien opere a cualquier título de aquellas unidades generadoras deberán acreditar al Coordinador que los consumos de diésel se producen una vez agotados todos sus esfuerzos comerciales por disponer de gas natural.
+
+El cálculo antes señalado deberá realizarse durante todo el Periodo con Disponibilidad de Diésel de Seguridad. El cuadro de pago señalado en el párrafo primero del presente literal corresponderá a un cuadro de pago único, debidamente identificado en el Informe de Valorización de Transferencias Económicas, el cual dará origen a una instrucción de pago independiente de los demás pagos.
+
+10. Fortalecimiento de las reglas de reconocimiento de potencia en caso de indisponibilidad de combustible.
+
+El Coordinador deberá establecer un reconocimiento diferenciado de la disponibilidad de combustible, a que hace referencia el artículo 29 del decreto supremo Nº 62, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, para efectos de determinar la Potencia de Suficiencia de Unidades Generadoras Térmicas para los meses del año 2022 en que se encuentre vigente el presente decreto. En particular, deberá diferenciar el cálculo considerando el Periodo con Disponibilidad de Diésel de Seguridad respecto del resto del año 2022. Para efectos del cálculo del Balance de potencia, excepcionalmente se deberá considerar esta forma de determinación de la Disponibilidad del Insumo Principal (en adelante, "DIP") y aplicar dicho resultado para el año de cálculo correspondiente al año 2022, en el periodo que se encuentre vigente el presente decreto, no debiendo considerar la ventana móvil de 5 años anteriores.
+
+Para lo anterior, deberá establecer en la determinación del DIP para las unidades generadoras térmicas dos componentes: (i) DIP de estrechez y (ii) DIP resto del año.
+
+El DIP de estrechez para el mes "j" se determinará en los meses contenidos en el Periodo con Disponibilidad de Diésel de Seguridad a través de la siguiente expresión:
+
+Donde:
+
+DLCi : Proporción de la hora i en que la unidad generadora estuvo en el estado operativo de desconexión con limitación de combustible ("EO DLC"), durante el mes j.
+
+LCi : Proporción de la hora i en que la unidad generadora estuvo en el estado operativo de limitación de combustible ("EO LC"), durante el mes j.
+
+Plimi : Potencia limitada de la unidad generadora debido a restricciones en el suministro de combustible, en la hora i del mes j.
+
+Pmax : Potencia máxima de la unidad generadora.
+
+i : Hora del mes contenido en el Periodo con Disponibilidad de Diésel de Seguridad.
+
+HTj : Número total de horas del mes j contenido en el Periodo con Disponibilidad de Diésel de Seguridad, descontadas las horas en que la unidad estuvo en Mantenimiento Mayor, si corresponde. A su vez, deberá considerarse el caso de que entre en operación una unidad generadora durante el mesj.
+
+Así, el Coordinador para calcular el DIPestrechezj deberá considerar los EO LC y EO DLC, y la proporción de la potencia limitada respecto de la potencia máxima; y las horas totales del mes j contenido en el Periodo de Diésel de Seguridad. A continuación, el Coordinador deberá determinar mensualmente la disponibilidad de combustible para dicho periodo. Luego, el Coordinador determinará el DIP estrechez como el menor valor de la disponibilidad calculada mensualmente (DIP estrechezj), durante el Periodo con Disponibilidad de Diésel de Seguridad.
+
+A su turno, el Coordinador deberá calcular el DIP resto-del-año a partir de la siguiente expresión:
+
+Donde:
+
+DLCi : Proporción de la hora i en que la unidad generadora estuvo en el EO DLC, durante el Periodo sin Disponibilidad de Diésel de Seguridad.
+
+LCi : Proporción de la hora i en que la unidad generadora estuvo en el EO LC, durante el Periodo sin Disponibilidad de Diésel de Seguridad.
+
+Plimi : Potencia limitada de la unidad generadora debido a restricciones en el suministro de combustible, en la hora i, durante el Período sin Disponibilidad de Diésel de Seguridad.
+
+Pmax : Potencia máxima de la unidad generadora.
+
+i : Hora contenida en el Período sin Disponibilidad de Diésel de Seguridad.
+
+HT : Número total de horas del Período sin Disponibilidad de Diésel de Seguridad, descontadas las horas en que la unidad estuvo en mantenimiento mayor, si correspondiere. A su vez, deberá considerarse el caso de que entre en operación una unidad generadora en el periodo de cálculo.
+
+Así, el Coordinador para calcular el DIPresto-del-año deberá considerar los estados operativos de limitación de combustible (LC) y desconexión con limitación de combustible (DLC), y la proporción de la potencia limitada respecto de la potencia máxima; y las horas totales del Periodo sin Disponibilidad de Diésel de Seguridad.
+
+Una vez realizado lo anterior, el Coordinador calculará para cada unidad el DIP mediante la siguiente expresión:
+
+Donde:
+
+Para el caso de una unidad generadora térmica que pueden operar con gas o diésel, su disponibilidad de combustible se determinará de acuerdo con la siguiente expresión:
+
+Donde:
+
+DIP : Disponibilidad determinada de acuerdo con la expresión definida en el presente numeral.
+
+DIA : Menor disponibilidad media del insumo alternativo de la unidad generadora, determinada en los periodos en los que no se dispone de insumo principal para dicha unidad generadora. Esta se deberá determinar de forma análoga al cálculo del DIP, es decir, se deberá considerar una componente de estrechez y una de resto del año, además de la potencia máxima que corresponda.
+
+Finalmente, para aquellas unidades generadoras que declaren no contar con stock de combustible, y que luego del evento el correspondiente coordinado informe disponibilidad de combustible, el Coordinador podrá hacer pruebas que permitan verificar dicha información. Los costos de operación asociados a la verificación en que se incurra serán de cargo del propietario, arrendatario, usufructuario o quien opere a cualquier título la unidad generadora correspondiente.
 
 #### Artículo tercero
 
@@ -232,7 +340,7 @@ Para cada periodo de registro, se entenderá como consumo normal de un cliente d
 
 Para efectos de lo señalado en el inciso anterior, el consumo de energía facturado por la totalidad de los generadores en igual periodo del último año sin racionamiento se establecerá igual al consumo base total determinado por la distribuidora dentro del periodo de registro correspondiente. El monto a compensar por cada generador a la empresa distribuidora será el que resulte de prorratear el déficit total a compensar en función de la demanda diaria prevista a que se refiere el artículo 291-18 del Reglamento, ajustado proporcionalmente, de modo de considerar sólo la porción del suministro sujeta a regulación de precios que el generador mantiene con la empresa distribuidora.
 
-Las empresas generadoras que operan en el SEN deberán pagar a sus clientes distribuidores, en la proporción en que estos últimos efectúen a su vez suministros sometidos a fijación de precios, y a sus clientes finales sometidos a regulación de precios, cada kilowatt-hora de déficit que efectivamente los haya afectado, a razón de 556,971 pesos por kilowatt-hora de déficit. El déficit será determinado sobre la base de sus consumos normales. Para estos efectos, la empresa generadora que reciba la información de déficit señalada precedentemente, aplicará en la siguiente factura un descuento igual al valor de este déficit, valorizado al precio indicado.
+Las empresas generadoras que operan en el SEN deberán pagar a sus clientes distribuidores, en la proporción en que estos últimos efectúen a su vez suministros sometidos a fijación de precios, y a sus clientes finales sometidos a regulación de precios, cada kilowatt-hora de déficit que efectivamente los haya afectado, a razón de 253,575 pesos por kilowatt-hora de déficit. El déficit será determinado sobre la base de sus consumos normales. Para estos efectos, la empresa generadora que reciba la información de déficit señalada precedentemente, aplicará en la siguiente factura un descuento igual al valor de este déficit, valorizado al precio indicado.
 
 Se entenderá que un cliente sometido a regulación de precios de una empresa distribuidora, o un cliente final sometido a regulación de precios de una empresa generadora ha sido afectado, cuando producto de la imposición de las cuotas de racionamiento, los primeros hayan sufrido cortes programados de suministro o los segundos hayan sufrido reducciones involuntarias de suministro. Asimismo, se entenderá que los clientes han sido afectados cuando se hubieren producido cortes de suministro que, originados en la situación de insuficiencia de oferta a nivel de generación que motiva la dictación del presente decreto, no hubieren sido programados.
 
