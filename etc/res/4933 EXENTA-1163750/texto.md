@@ -78,6 +78,18 @@ Resuelvo:
 
 4.1.1. Declaraciones adicionales
 
+.
+
+4.1.2 Los tratamientos aplicados para el control de insectos de la madera indicados en el resuelvo Nº 5, deberán ser consignados en el campo de tratamientos, sección III del certificado fitosanitario.
+
+4.1.2.1 Para la madera secada en horno (KD) se debe indicar el espesor de la madera (expresado en mm), la duración del tratamiento (expresada en horas) y que el contenido de humedad pos tratamiento es igual o inferior a 20%.
+
+4.1.2.2 Para la madera fumigada se debe indicar producto, dosis (expresada en gr/m³), temperatura (expresada en ºC) y tiempo de exposición del tratamiento (expresado en horas).
+
+4.1.2.3 Para la madera con tratamiento térmico (HT) se debe indicar temperatura (expresada en ºC) y tiempo de exposición del tratamiento (expresado en horas).".
+
+4.1.3. La madera seca en horno (KD) o con tratamiento térmico (HT) de cualquier especie u origen no requiere de las declaraciones adicionales indicada en el resuelvo Nº 4.1.1.
+
 4.2. Se aceptará para cada tipo de madera especificada en el cuadro del Resuelvo 4.1.1 de la presente resolución, como Declaración Adicional alternativa, que:
 
 4.2.1. La/s plaga/s no está(n) presentes en el país de origen o,
@@ -86,7 +98,7 @@ Resuelvo:
 
 4.3. El envío debe encontrarse descortezado y libre de contaminantes tales como moluscos, suelo, ramas, ramillas, conos, hojas u otros restos vegetales susceptibles de transportar plagas.
 
-4.4. Cuando se utilicen envases para transportar la madera, éstos deben ser de primer uso, cerrados, resistentes a la manipulación y etiquetados o rotulados de acuerdo con la normativa SAG vigente.
+4.4. Cuando se utilicen envases como cajas, pallets u otro que se pudiera utilizar para embarques pequeños, tales como muestras de madera, éstos deben ser de primer uso, cerrados, resistentes a la manipulación y etiquetados o rotulados con la siguiente información mínima: país de origen, nombre o código del productor, especie vegetal.
 
 5. Para los tipos de madera que se señalan en el cuadro del Resuelvo 4.1.1 se aceptarán como tratamientos fitosanitarios las siguientes alternativas:
 
@@ -152,7 +164,11 @@ Fuente: NIMF 15 Anexo 1 (2018)
 
 9. Los durmientes de madera y madera para durmiente simplemente aserrada se excluyen de esta resolución, ya que sus requisitos se establecen por origen y especie.
 
-10. Tanto los medios de transporte (camiones) como contenedores, bodegas de naves paletas aéreas u otros, deben ser sellados por la ONPF del país exportador y el número del sello oficial deberá estar consignado en el Certificado Fitosanitario.
+10. Tanto los medios de transporte (camiones) como contenedores, bodegas de naves, paletas aéreas u otros, deberán ser sellados.
+
+Se aceptará como sello o precinto, el de la ONPF del país de origen o procedencia, de la agencia naviera, de aduanas o de otra entidad reconocida y supervisado oficialmente por la ONPF del país exportador o procedencia; el cual deberá incluirse en el certificado fitosanitario, excepto que existan acuerdos bilaterales.
+
+El sello o precinto deberá llegar intacto a Chile, en caso contrario será causal de rechazo, situación que podrá ser analizada por el Servicio, a solicitud de la ONPF exportadora.
 
 11. Cada envío será inspeccionado por el Servicio, en el punto de entrada para la verificación física y documental de los requisitos fitosanitarios establecidos para su importación. Ante la detección de plagas cuarentenarias distintas a las exigidas en la presente resolución, listadas en la resolución Nº 3.080 de 2003 y sus modificaciones, o no listadas que sean potencialmente cuarentenarias, de acuerdo a Evaluación de Riesgo, se podrá determinar la aplicación de medidas fitosanitarias de manejo del riesgo identificado.
 
