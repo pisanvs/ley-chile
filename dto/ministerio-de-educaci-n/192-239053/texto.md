@@ -66,7 +66,7 @@ La autoevaluación y la elaboración del portafolio es una actividad personal. S
 
 La entrega de información falsa, copiada o elaborada por terceros determinará que la evaluación del docente sea objetada, debiendo el docente repetir su evaluación al año siguiente, sin perjuicio de las sanciones que establece el artículo 72 letra b) del DFL Nº 1, de 1996, de Educación, que fija el texto refundido, coordinado y sistematizado de la Ley 19.070, que aprobó el Estatuto de los Profesionales de la Educación y de las leyes que lo complementan y modifican.
 
-Corresponderá al Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas (CPEIP) calificar si corresponde o no la objeción.
+Corresponderá al Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas (CPEIP) calificar si corresponde o no la objeción. La Subsecretaría de Educación, a través del Centro, dictará el acto administrativo que establezca la objeción.
 
 #### Artículo 6º
 
@@ -80,7 +80,7 @@ b) Los docentes durante su primer año de ejercicio profesional en un establecim
 
 Se podrá a solicitud del docente suspender la evaluación para el año inmediatamente siguiente, en los casos que a continuación se señalan:
 
-a) Por razones de fuerza mayor;
+a) Por razones de fuerza mayor o caso fortuito;
 
 b) Cuando el docente ha sido trasladado de establecimiento o de curso, con fecha posterior al 30 de abril del año en evaluación;
 

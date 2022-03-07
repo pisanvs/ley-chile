@@ -1104,11 +1104,11 @@ Este complemento no será considerado para el cálculo de las otras asignaciones
 
 #### Artículo 106°
 
-La asignación de experiencia se aplicará sobre la Remuneración Básica Mínima Nacional y consiste en un porcentaje de ésta, de acuerdo a los años de servicio docentes que acredite el profesional de la educación, cuyos montos corresponden a un 6.76%, los dos primeros años y a un 6,66% por cada dos años adicionales, con un tope máximo de un 100%, para aquellos profesionales que totalicen treinta años de servicios
+La asignación de experiencia se aplicará sobre la Remuneración Básica Mínima Nacional y consiste en un porcentaje de ésta, de acuerdo a los años de servicio docentes que acredite el profesional de la educación, cuyos montos corresponden a un 3,38%, los dos primeros años y a un 3,33% por cada dos años adicionales, con un tope máximo de un 50%, para aquellos profesionales que totalicen treinta años de servicios.
 
 #### Artículo 107°
 
-El tiempo computable para los efectos de percibir esta asignación corresponderá a servicios docentes efectivos, continuos o discontinuos, prestados tanto en el sector público como en el particular, no pudiendo computarse los servicios paralelos desempeñados durante el mismo período. Los períodos inferiores a dos años incrementarán el bienio siguiente.
+El tiempo computable para los efectos de percibir esta asignación corresponderá a servicios docentes efectivos, continuos o discontinuos, prestados en establecimientos educacionales de los niveles de educación parvularia, básica y media, sean estos públicos o particulares, no pudiendo computarse los servicios paralelos desempeñados durante el mismo período. Los períodos inferiores a dos años incrementarán el bienio siguiente.
 
 #### Artículo 108°
 
