@@ -74,13 +74,15 @@ En casos calificados por la autoridad sanitaria, podrán, si así lo solicitan, 
 
 Para efectos de lo anterior, se entenderá que los 7 días se cumplen una vez transcurridas 168 horas desde el control de la aduana sanitaria en el paso fronterizo por el cual se hizo ingreso al país.
 
-Cumpliendo con los demás requisitos establecidos en la presente resolución, si se obtiene un resultado negativo de test PCR o antígeno para SARS-CoV-2 tomado en un centro de salud mandatado por la autoridad sanitaria, realizado en Chile con posterioridad al ingreso al país, podrán interrumpir anticipadamente el aislamiento del que trata el párrafo anterior, las siguientes personas:
+Cumpliendo con los demás requisitos establecidos en la presente resolución, podrán eximirse del aislamiento del que trata este numeral, las siguientes personas:
 
-a) Chilenos y extranjeros residentes de manera regular en Chile que cuenten con su pase de movilidad habilitado, así como los menores de 6 años y mayores de 2 años que viajen con ellos.
+a) Chilenos y extranjeros residentes de manera regular en Chile que cuenten con su pase de movilidad habilitado.
 
-b) Extranjeros no residentes que cuenten con su esquema de vacunación completo contra el SARS-CoV-2 validado por el Ministerio de Salud para el ingreso a Chile, así como los menores de 6 años y mayores de 2 años que viajen con ellos.
+b) Extranjeros no residentes que cuenten con su esquema de vacunación completo contra el SARS-CoV-2 validado por el Ministerio de Salud para el ingreso a Chile.
 
-Los menores de 2 años que viajen con alguna de las personas señaladas en el párrafo anterior, no deberán cumplir con el requisito de obtención de un resultado negativo para detección de coronavirus para que proceda la interrupción anticipada de su aislamiento, siempre y cuando la persona a la que acompañan cumpla con todos los demás requisitos establecidos en la presente resolución.
+Los menores de 2 años que viajen con alguna de las personas señaladas en el párrafo anterior se eximirán del aislamiento, siempre y cuando la persona a la que acompañan cumpla con los demás requisitos establecidos en la presente resolución.
+
+Todo lo anterior aplica sin perjuicio de lo dispuesto en el numeral 33 de la presente resolución.
 
 4 bis. Eliminado.
 
@@ -110,9 +112,9 @@ a) El trayecto al lugar de cumplimiento del aislamiento deberá ser directo desd
 
 b) No se podrán utilizar medios de transporte público, salvo que el vehículo sea utilizado exclusivamente por quienes viajaron, además del conductor. Podrán exceptuarse de esta medida aquellas personas que viajen en transporte aéreo y cuenten con esquema de vacunación completo contra el SARS-CoV-2 validado por el Ministerio de Salud, aun cuando no hayan recibido el resultado del examen para detección de coronavirus realizado al ingresar al país, así como los menores de 6 años que viajen con ellos.
 
-c) Eliminada.
+c) Eliminado.
 
-d) Una vez arribado al lugar de aislamiento deberá dar aviso de su llegada y ubicación a la autoridad sanitaria en una plataforma electrónica dispuesta para estos efectos.
+d) Eliminado.
 
 e) Deberá utilizarse mascarilla durante todo el trayecto.
 
@@ -176,15 +178,13 @@ La empresa de transporte que efectúe el traslado del pasajero será responsable
 
 29. Excepción. No será exigible el seguro médico de viaje a que se refiere este acápite, a las personas que ingresen al país de acuerdo con la letra b) del inciso segundo del artículo tercero del decreto supremo N° 295, de 2021, del Ministerio del Interior y Seguridad Pública.
 
-### V. DEL PERIODO DE SEGUIMIENTO AL VIAJERO
+### V. Eliminado
 
-30. Obligatoriedad. Dispóngase que toda persona que ingrese desde el extranjero, sin importar su nacionalidad, lugar de origen o región de destino en Chile, deberá someterse al periodo de Seguimiento al Viajero durante los 7 días siguientes a su ingreso al territorio nacional o hasta que abandone éste, en caso de que su permanencia fuere menor a 7 días.
+### 30. Eliminado
 
-31. Forma de cumplimiento. Para dar cumplimiento al programa del Seguimiento del Viajero, dichas personas deberán completar durante 7 días un formulario de reporte de síntomas y ubicación. Esto se llevará a cabo completando una encuesta de estado de salud en la plataforma electrónica dispuesta para estos efectos por la autoridad sanitaria. La persona recibirá, de forma diaria, un recordatorio para ingresar la información correspondiente a la referida plataforma.
+### 31. Eliminado
 
-32. De la aparición de síntomas. Aquella persona que, durante el periodo de 7 días de Seguimiento del Viajero presente los síntomas de los que trata el numeral 22 de la resolución exenta Nº 994, de 2021, del Ministerio de Salud, deberá continuar o permanecer en aislamiento, reportar sus síntomas según lo dispuesto en el numeral anterior y esperar el contacto de la autoridad sanitaria. En caso de que esta última determine que califica como caso positivo o probable, se deberá cumplir con lo dispuesto en el numeral 4 de esta resolución.
-
-En el caso que los síntomas señalados sean fiebre mayor a 37,8º C, pérdida brusca de olfato o pérdida brusca del gusto, el viajero deberá acudir a un centro asistencial a la brevedad, haciendo uso de su mascarilla y evitando utilizar el transporte público, cumpliendo con todas las medidas sanitarias que sean pertinentes.
+### 32. Eliminado
 
 ### VI. DE LOS TEST PARA SARS-COV-2
 
@@ -222,7 +222,7 @@ Los costos asociados a la estadía en el lugar donde cumple el aislamiento será
 
 c) Los conductores pertenecientes a la condición de reciprocidad, de nacionales argentinos y extranjeros residentes en dicho país, cuyo tránsito se efectúe entre los pasos fronterizos de Integración Austral y San Sebastián, quedarán exentos de los acápites II, III y V precedentes.
 
-38. De las excepciones autorizadas por la autoridad sanitaria. La autoridad sanitaria, mediante resolución, podrá autorizar el término anticipado del aislamiento a personas que cuenten con un esquema de vacunación completo contra el SARS-CoV-2, por razones de urgencias médicas, emergencias, u otras razones calificadas tales como integrar delegaciones oficiales o el cumplimiento de funciones esenciales para la adecuada marcha del país. Para ello se deberá contar con un resultado negativo de un Test PCR para SARS-CoV-2 cuya toma de muestra haya sido efectuada en territorio nacional posterior al ingreso al país.
+38. De las excepciones autorizadas por la autoridad sanitaria. La autoridad sanitaria, mediante resolución, podrá autorizar el término anticipado del aislamiento a personas que cuenten con un esquema de vacunación completo contra el SARS-CoV-2, por razones de urgencias médicas, emergencias, u otras razones calificadas tales como integrar delegaciones oficiales o el cumplimiento de funciones esenciales para la adecuada marcha del país. Para ello se deberá contar con un resultado negativo de un Test PCR para SARS-CoV-2 o antígeno cuya toma de muestra haya sido efectuada en territorio nacional posterior al ingreso al país.
 
 38 bis. De los cruceros. Se permite la recalada de cruceros en los puertos del país, sujeto a las siguientes reglas:
 
@@ -233,6 +233,8 @@ b. Para los posteriores descensos en puertos nacionales, los pasajeros deberán 
 c. Para descender en cualquier puerto, los pasajeros deberán tener su esquema de vacunación validado, según lo dispuesto en la resolución exenta Nº 994, de 2021, del Ministerio de Salud.
 
 d. Todos los pasajeros deberán cumplir con lo dispuesto en los acápites I, IV y V de esta resolución.
+
+38 ter. Del paso fronterizo Cardenal Samoré y Futaleufú. Las personas que ingresen al territorio nacional conforme a lo dispuesto en el numeral 5 del artículo primero, del decreto supremo Nº 295, de 2021, del Ministerio del Interior y Seguridad Pública, se les excluirá de los requisitos de la presente resolución. De igual forma, desde el 16 de febrero y hasta el 28 de febrero de 2022, se excluirá a los chilenos y extranjeros residentes que hayan salido del país por el paso fronterizo terrestre de Futaleufú e ingresado por el paso fronterizo Cardenal Samoré, ambos ubicados en la Región de Los Lagos, en las últimas 18 horas.
 
 ### VII. INCUMPLIMIENTO Y SANCIONES
 
