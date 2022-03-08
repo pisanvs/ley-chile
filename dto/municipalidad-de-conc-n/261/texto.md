@@ -1,0 +1,41 @@
+INSTRUYE INICIO DE PROCEDIMIENTO DE INVALIDACIÓN DEL DECRETO ALCALDICIO QUE INDICA Y DESIGNA INSTRUCTOR
+
+Núm. 261.- Concón, 4 de febrero de 2022.
+
+Vistos:
+
+Lo dispuesto en los artículos 118, 121 y 122 de la Constitución Política de la República vigente; los artículos 12°, 20°, 49 bis, 49 ter, 49 quáter y 49 quinquies, 56° y 63° letra c) de la ley N° 18.695, Orgánica Constitucional de Municipalidades; lo dispuesto en la ley N° 20.922; las disposiciones de la ley N° 19.880, que "Establece Bases de los Procedimientos Administrativos que rigen los actos de los órganos de la Administración del Estado"; las disposiciones de la ley N° 18.883 Estatuto Administrativo para funcionarios Municipales; el Reglamento N° 1, de fecha 19 de noviembre de 2019, que modifica planta de personal de la Municipalidad de Concón; el decreto alcaldicio N° 1.848, de 22 de septiembre de 2020, que Aprueba el Reglamento sobre concursos públicos de la Municipalidad de Concón; jurisprudencia administrativa de la Contraloría General de la República aplicable; el memorándum N° 2, de 25 de enero de 2022, de la Dirección de Asesoría Jurídica de la I. Municipalidad de Concón y lo previsto en Sentencia de Proclamación de Alcaldes Rol N° 299, de fecha 29 de junio de 2021, del Tribunal Electoral Regional de Valparaíso.
+
+Considerando:
+
+1.- Que, en virtud de lo dispuesto en la letra c) del artículo 49 ter de la ley N° 18.695, se procedió con fecha 14 de mayo de 2021 a los llamados a concurso mediante decreto alcaldicio N° 1.099, para proveer los cargos, en lo que interesa, de Director de Cultura, grado 8, Código DIR-G08-02.
+
+2.- Que, con fecha 25 de junio de 2021, mediante el decreto registrado N° 1.274 se resolvió el mencionado concurso, proveyéndose el cargo respectivo, nombrando a contar del 25 de junio de 2021 a doña Marcela Santibáñez Torres.
+
+3.- Que, el memorándum N° 2, de fecha 25 de enero de 2022, que contiene informe jurídico de la Dirección de Asesoría Jurídica respecto a la legalidad del decreto alcaldicio N° 1.099, de 14 de mayo y del decreto registrado N° 1.274, ambos correspondientes al año 2021. Asimismo, verificar ciertas irregularidades denunciadas cometidas en ese procedimiento concursal.
+
+4.- Que, el memorándum de la Dirección de Asesoría Jurídica N° 2, de 25 de enero de 2022, informa respecto de las ilegalidades en la dictación del decreto registrado N° 1.274, de 2021, mediante el cual se nombra a la señora Marcela Santibáñez Torres, puesto que, a partir de los antecedentes tenidos a la vista, consta que con fecha 27 de mayo de 2021 la postulante señora Nélida Pozo Kudo, presentó al momento de postular vía correo electrónico conforme a las bases, documento Word que contiene copia de su cédula de identidad, a fin de que pudiera darse por acreditada, en el concurso público de la especie, su calidad de ciudadana, por lo que, de acuerdo al acta de concurso público de fecha 9 de junio de 2021, su eliminación del concurso por "no presentar cédula de identidad, por lo cual la postulante resulta fuera de bases", no es conforme a derecho.
+
+5.- Que, el inciso segundo del artículo 16 de la ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, prescribe que "Todas las personas que cumplan con los requisitos correspondientes tendrán el derecho de postular en igualdad de condiciones a los empleos de la Administración del Estado, previo concurso". Consagrando con ello, el principio de igualdad que debe imperar en todo concurso público, al asegurar, mediante idénticas exigencias, las mismas oportunidades a todos y cada uno de los participantes del mismo, lo que no se concretaría, si a un determinado postulante se omite el cumplimiento de uno de los requisitos que, en las respectivas bases, se han establecido como exigibles para todos, respecto del cual consta su cumplimiento según los antecedentes tenidos a la vista.
+
+6.- Que, a mayor abundamiento, el inciso final del artículo 15 de la ley N° 18.883, indica que, "Todas las personas que cumplan con los requisitos correspondientes tendrán el derecho a postular en igualdad de condiciones". Consagrando con ello, el principio de igualdad de condiciones que debe aplicarse en todos los certámenes que se desarrollen por las entidades comunales.
+
+7.- Que, lo precedentemente expuesto eventualmente contraviene los artículos 16 de la ley N° 18.575 y 15 inciso segundo de la ley N° 18.883, transgresión a la normativa aplicable, que conlleva afectar los principios de objetividad, transparencia e igualdad de los oponentes que deben cumplir los órganos de la Administración del Estado, originándose una diferencia arbitraria o discriminatoria en contra de la señora Nélida Pozo Kudo, según se detalla en el citado memorándum de la Dirección de Asesoría Jurídica.
+
+8.- Que, a su vez, cabe tener presente lo señalado en la jurisprudencia de la Contraloría General de la República que dispone en su dictamen N° 52.627, de 2007, en relación con la oportunidad en que deben presentarse los documentos que acrediten que las personas que participan en un concurso público, cumplen los requisitos respectivos, señaló que ésta no puede ser otra que aquélla en que presentan su postulación. A su vez, la reiterada jurisprudencia contenida, entre otros, en el dictamen N° 16.430, de 2007, ha indicado que el legislador ha establecido que todos los candidatos a un empleo público participarán en el proceso concursal de que se trate, en igualdad de condiciones y conforme a procedimientos técnicos y objetivos, por lo que la aplicación de ellos debe ser uniforme e imparcial para todos los postulantes.
+
+9.- Que, por ello, y considerando que el referido decreto alcaldicio adoleció de vicios insubsanables que afectaron su legalidad, procede que la Municipalidad de Concón inicie el procedimiento invalidatorio correspondiente conforme al artículo 53 de la ley N° 19.880, a objeto de investigar las irregularidades denunciadas y oír los descargos de las partes interesadas.
+
+10.- Que, el decreto registrado N° 1.274, fue dictado el día 25 de junio de 2021, por lo que esta autoridad edilicia se encuentra dentro del plazo para iniciar un procedimiento invalidatorio de dicho acto. Asimismo, resulta del todo procedente conforme al artículo 2° de la ley N° 19.880, que las Municipalidades puedan ejercer la potestad invalidatoria contenida en el referido cuerpo normativo.
+
+Decreto:
+
+1.- Instrúyase procedimiento de invalidación del decreto registrado N° 1.274, de 25 de junio de 2021, dictado por la Ilustre Municipalidad de Concón, con arreglo a lo dispuesto en el artículo 53 de la ley N° 19.880, que Establece Bases de los Procedimientos Administrativos que rigen los actos de los órganos de la Administración del Estado.
+
+2.- Desígnese instructor a don Sebastián Alonso Astuya Chaparro, Director de Asesoría Jurídica de la I. Municipalidad de Concón, grado 5, planta profesional, quien se entenderá en comisión de servicios para todos los efectos del referido procedimiento de invalidación.
+
+3.- Notifíquese, ya sea personalmente o por medio de carta certificada, por la Secretaria Municipal, del contenido del presente decreto alcaldicio, a todos los interesados, para que, en uso de la audiencia establecida en el artículo 53 de la ley N° 19.880 formule, en un plazo de 5 días, las alegaciones, reclamaciones o impugnaciones que consideren procedentes en defensa de sus intereses y a fin que ejerzan su derecho a ser oídos.
+
+4.- Publíquese el presente decreto alcaldicio a través de una inserción en el Diario Oficial, con la finalidad de que los interesados conozcan el inicio del procedimiento de invalidación, atendido a lo dispuesto en el artículo 48 de la ley N° 19.880, que establece bases de los Procedimientos Administrativos que rigen los Actos de los órganos de la Administración del Estado, y que en el plazo de 5 días hábiles, contados desde la respectiva publicación, formulen sus alegaciones, reclamaciones o impugnaciones que consideren procedentes en defensa de sus intereses.
+
+Anótese, comuníquese, transcríbase y dese cuenta.- Freddy Ramírez Villalobos, Alcalde.
