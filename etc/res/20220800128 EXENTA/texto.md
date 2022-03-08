@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL "AMPLIACIÓN TEMPORAL RELLENO SANITARIO"
+
+De conformidad a lo dispuesto en el inciso final del artículo 91 del DS 40/12 Minsegpres (Reglamento del SEIA), se comunica a toda persona, natural o jurídica, que hubiera presentado observaciones durante la evaluación ambiental de la Declaración de Impacto Ambiental del proyecto "Ampliación Temporal Relleno Sanitario", sometido al Sistema de Evaluación de Impacto Ambiental por su titular, Hidronor Chile S.A., que por resolución exenta N° 20220800128, de fecha 11 de febrero de 2021, la Comisión de Evaluación de la Región del Biobío calificó desfavorablemente el proyecto individualizado. Estas personas, naturales o jurídicas, disponen de un plazo de 30 días, contados desde la presente notificación, para presentar recurso de reclamación ante el Comité de Ministros, de conformidad al artículo 29 de la ley N° 20.417, que modificó la ley N° 19.300.
+
+El texto íntegro de la resolución antes individualizada y su anexo Participación Ciudadana puede ser conocido en el sitio web www.sea.gob.cl y en las oficinas de la Dirección Regional del SEA de Biobío, ubicada en Lincoyán N° 145, Concepción, en las Ilustres Municipalidades de Florida, ubicada en Arturo Prat N° 675, comuna de Florida, y Concepción, ubicada en O'Higgins N° 525, comuna de Concepción, en horarios de oficina. Además podrá acceder a la resolución a través del sitio web www.sea.gob.cl.-
+
+Silvana Suanes Araneda, Secretaria, Comisión de Evaluación Región del Biobío.
