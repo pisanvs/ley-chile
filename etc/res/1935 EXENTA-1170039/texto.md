@@ -44,9 +44,9 @@ Para la aplicación de los subsidios que se otorgan, regirán supletoriamente la
 
 2. En tal sentido, se efectuará proceso de selección con los proyectos presentados hasta el día 28 de diciembre de 2021, ubicados total o parcialmente en los territorios de las comunas o áreas que se indican en la siguiente tabla, en las regiones que corresponden:
 
-3. El monto de recursos para la selección de proyectos postulantes al presente llamado alcanzará la cifra de hasta 20.000 Unidades de Fomento. El número de proyectos seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos señalados, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, sin perjuicio de efectuarse ajustes de los recursos disponibles del programa 2021.
+3. El monto de recursos para la selección de proyectos postulantes al presente llamado alcanzará la cifra de hasta 180.810 Unidades de Fomento. El número de proyectos seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos señalados, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, sin perjuicio de efectuarse ajustes de los recursos disponibles del programa 2021.
 
-Para los efectos de imputar los recursos de esta resolución, se considerará un monto promedio de subsidio de construcción, correspondiente a la unidad de vivienda de 2 dormitorios, de 1.435 Unidades de Fomento, incluidos los recursos destinados al pago de la Asistencia Técnica y Fiscalización Técnica de Obras.
+Para los efectos de imputar los recursos de esta resolución, se considerará un monto promedio de subsidio de construcción, correspondiente a la unidad de vivienda de 2 dormitorios, de 1.304 Unidades de Fomento, incluidos los recursos destinados al pago de la Asistencia Técnica y Fiscalización Técnica de Obras.
 
 ### 4. Postulación:
 
