@@ -44,7 +44,7 @@ Exímanse de toma de razón los actos administrativos del Ministerio de Obras P�
 
 #### Artículo 2°
 
-La exención de toma de razón precedente regirá hasta el 30 de junio de 2021.
+La exención de toma de razón precedente regirá hasta el 31 de marzo de 2022.
 
 #### Artículo 3°
 
