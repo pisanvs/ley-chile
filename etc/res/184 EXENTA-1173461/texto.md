@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta N° 184, de 10 de febrero de 2022, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, se aprueba el Gabinete Técnico de la Ilustre Municipalidad de Chonchi, cuyo domicilio estará ubicado en calle Pedro Aguirre Cerda N° 290, comuna de Chonchi, Región de Los Lagos, por cumplir los requisitos exigidos en la normativa. Asimismo, se autorizó a la Ilustre Municipalidad de Chonchi para otorgar licencias de conductor conforme las disposiciones del DFL N° 1, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito y sus reglamentos. La Municipalidad precedentemente individualizada deberá suspender el otorgamiento de licencias de conductor, en el evento de faltarle algunos de los requisitos que hicieron posible la presente autorización.-
+
+Luis Américo Toledo Mora, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos (S).
