@@ -430,7 +430,7 @@ c. Espacio cerrado: aquel que tiene techo y más del 50% de su perímetro con mu
 
 d. Actividades sin interacción entre asistentes: Son aquellas convocatorias de un grupo de personas a la misma hora en un determinado lugar, en que se cumplen las siguientes condiciones copulativas:
 
-i. Las personas mantienen una ubicación fija durante toda la duración de la actividad.
+i. Si existen butacas o bancas fijas, las personas deben mantener una ubicación fija durante toda la actividad.
 
 ii. Los asistentes mantienen un metro lineal de distancia durante toda la duración de la actividad, o si existen asientos fijos e individuales, se dejará libre un asiento entre dos que puedan ocuparse.
 
@@ -848,15 +848,15 @@ En el caso de una actividad que se realice en lugar abierto, en una localidad qu
 
 104. De las actividades sin interacción entre los asistentes, cuando el recinto no tiene infraestructura previa con butacas o bancas fijas. Para la realización de este tipo de actividades se deberán seguir las siguientes reglas:
 
-a. La ubicación de los asistentes deberá ser permanente.
+a. Eliminado.
 
-b. Las personas deberán guardar una distancia de un metro entre sí.
+b. Eliminado.
 
-c. El aforo máximo, si todos los asistentes cuentan con Pase de Movilidad habilitado, será 5.000 personas en espacios abiertos y de 1.000 personas en espacios cerrados.
+c. Eliminado.
 
-d. Con todo, el aforo máximo no podrá superar de 1 persona cada 2 metros cuadrados de superficie útil.
+d. El cálculo del aforo debe considerar 2 personas por metro cuadrado, tanto en espacios abiertos como cerrados.
 
-e. Si uno o más de los asistentes no tiene Pase de Movilidad habilitado, no se podrá realizar este tipo de actividades en espacios cerrados, y en espacios abiertos el aforo dispuesto en el literal c se reducirá a 500 personas en espacios abiertos y a 250 personas en espacios cerrados.
+e. Todos los asistentes deberán contar con su Pase de Movilidad habilitado.
 
 f. Podrán consumirse alimentos.
 
@@ -868,9 +868,11 @@ i. En un mismo recinto, podrán realizarse simultáneamente más de una activida
 
 j. Los espacios cerrados deberán cumplir con norma estándar de ventilación.
 
-k. El o los organizadores de la actividad deberán informar si se exigirá o no Pase de Movilidad habilitado para el ingreso al recinto, tanto a los asistentes como a los trabajadores.
+k. Eliminado.
 
 En el caso de una actividad que se realice en lugar abierto, en una localidad que retrocede al Paso anterior dos semanas antes del día en que se lleva a cabo la actividad, se permitirá la asistencia del público que, al momento de la entrada en vigencia del retroceso de Paso, ya contaba con su ticket, aun cuando el número total de ellas exceda el aforo permitido para el día de la actividad. No se permitirá la asistencia del público que, con posterioridad a la entrada en vigencia del retroceso de Paso, adquiere tickets y ello conlleva exceder el aforo máximo al día de la actividad.
+
+En aquellas actividades que estimen una convocatoria de 5.000 personas o más, estará prohibida la venta o consumo de alimentos y bebidas, debiendo los asistentes mantener el uso permanente de mascarilla. Además, los organizadores de éstas deberán solicitar la autorización de la autoridad sanitaria, para lo cual deberán acreditar el cumplimiento de lo establecido en este numeral.
 
 105. De las actividades con interacción entre asistentes. La realización de este tipo de actividades, deberá cumplir con las siguientes reglas:
 
