@@ -388,7 +388,7 @@ En caso de fallecimiento en naufragio, éste se acreditará por certificado expe
 
 Determinada la pensión de montepío se concederá en la siguiente forma: a la viuda, o el viudo inválido, en su caso, y a los hijos legítimos, el total de la pensión, correspondiendo al primero un cincuenta por ciento (50%) y a los hijos legítimos el otro cincuenta por ciento (50%).
 
-El padre y la madre del imponente por los cuales éste haya estado percibiendo asignación familiar, concurrirán en el montepío, conjuntamente con la cónyuge y los hijos, con una cuota total equivalente a la que corresponda a un hijo legítimo. El aumento que signifique la presente disposición se hará con cargo al Fondo Común de Beneficios.
+El padre y la madre del imponente por los cuales éste haya estado percibiendo asignación familiar, concurrirán en el montepío, conjuntamente con el cónyuge sobreviviente y los hijos, con una cuota total equivalente a la que corresponda a un hijo legítimo. El aumento que signifique la presente disposición se hará con cargo al Fondo Común de Beneficios.
 
 Si la pensión de montepío que se concede al cónyuge o hijos legítmos cesare por alguna de las causales señaladas en el artículo 35° aquella acrecerá y se distribuirá, proporcionalmente, entre los demás beneficiarios.
 

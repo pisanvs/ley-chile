@@ -74,7 +74,7 @@ Los impedimentos para contraerlo derivados de la adopción se establecen por las
 
 #### Artículo 7º
 
-El cónyuge sobreviviente no podrá contraer matrimonio con el imputado contra quien se hubiere formalizado investigación por el homicidio de su marido o mujer, o con quien hubiere sido condenado como autor, cómplice o encubridor de ese delito.
+El cónyuge sobreviviente no podrá contraer matrimonio con el imputado contra quien se hubiere formalizado investigación por el homicidio de su cónyuge, o con quien hubiere sido condenado como autor, cómplice o encubridor de ese delito.
 
 #### Artículo 8º
 
@@ -350,7 +350,7 @@ El matrimonio termina:
 
 4º Por sentencia firme de divorcio, y
 
-5° Por sentencia firme que acoge la solicitud de rectificación de sexo y nombre por razón de identidad de género.
+5° Por voluntad del cónyuge de la persona que ha obtenido la rectificación de la ley Nº 21.120, en aplicación de lo dispuesto en el artículo 19 de dicho cuerpo legal.
 
 ### Párrafo 2º
 
@@ -638,7 +638,7 @@ De la ley aplicable y del reconocimiento de las sentencias extranjeras
 
 #### Artículo 80
 
-Los requisitos de forma y fondo del matrimonio serán los que establezca la ley del lugar de su celebración. Así, el matrimonio celebrado en país extranjero, en conformidad con las leyes del mismo país, producirá en Chile los mismos efectos que si se hubiere celebrado en territorio chileno, siempre que se trate de la unión entre un hombre y una mujer.
+Los requisitos de forma y fondo del matrimonio serán los que establezca la ley del lugar de su celebración. Así, el matrimonio celebrado en país extranjero, en conformidad con las leyes del mismo país, producirá en Chile los mismos efectos que si se hubiere celebrado en territorio chileno.
 
 Sin embargo, podrá ser declarado nulo de conformidad a la ley chilena, el matrimonio celebrado en país extranjero que se haya contraído en contravención a lo dispuesto en los artículos 5º, 6º y 7º de esta ley.
 

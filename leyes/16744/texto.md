@@ -58,13 +58,11 @@ El Presidente de la República queda facultado para decidir la oportunidad, fina
 
 Afiliación.
 
-#### Artículo 4°
+#### Artículo 4
 
-La afiliación de un trabajador, hecha en una Caja de Previsión para los demás efectos de seguridad social, se entenderá hecha, por el ministerio de la ley, para este seguro, salvo que la entidad empleadora para la cual trabaje se encuentre adherida a alguna Mutualidad.
+Para los efectos de este seguro, todos los empleadores se entenderán afiliados al Instituto de Seguridad Laboral respecto de la totalidad de sus trabajadores, salvo que se adhieran a alguna mutualidad de empleadores.
 
-Respecto de los trabajadores de contratistas o subcontratistas, deberán observarse, además, las siguientes reglas:
-
-El dueño de la obra, empresa o faena, será, subsidiariamente, responsable de las obligaciones que, en materia de afiliación y cotización, afecten a sus contratistas respecto de sus trabajadores. Igual responsabilidad afectará al contratista en relación con las obligaciones de sus subcontratistas.
+Lo dispuesto en el inciso anterior también se aplicará a los trabajadores independientes afectos al seguro de esta ley.
 
 ## Título II
 
@@ -106,27 +104,23 @@ Con todo, los afiliados podrán acreditar ante el respectivo organismo administr
 
 Administración
 
-#### Artículo 8°
+#### Artículo 8
 
-La Administración del Seguro estará a cargo del Servicio de Seguro Social, del Servicio Nacional de Salud, de las Cajas de Previsión y de las Mutualidades de Empleadores, en conformidad a las reglas contenidas en los artículos siguientes.
+La administración del seguro estará a cargo del Instituto de Seguridad Laboral o de las mutualidades de empleadores, según corresponda, en adelante denominados los organismos administradores
 
 #### Artículo 9°
 
-Respecto de los afiliados en el Servicio de Seguro Social, el seguro será administrado por éste, correspondiendo al Servicio Nacional de Salud otorgarles las prestaciones médicas y los subsidios por incapacidad temporal, sin perjuicio de las demás funciones que le encomienda la presente ley.
+Derogado.
 
-El Servicio Nacional de Salud cumplirá sus funciones a través de sus servicios técnicos, quienes proveerán los medios y el personal para realizar las obligaciones que le encomienda la presente ley. Un comité asesor propondrá la política de acción, las normas y los programas y la repartición del presupuesto para sus fines específicos.
+#### Artículo 10
 
-El Servicio de Seguro Social cumplirá sus funciones a través del Departamento de Accidentes del Trabajo y Enfermedades Profesionales, que se crea con la presente ley y cuya organización administrativa interna será determinada por un Reglamento que deberá dictar el Presidente de la República.
+El Instituto de Seguridad Laboral administrará este seguro, incluida la realización de actividades de prevención de riesgos de accidentes del trabajo y enfermedades profesionales, respecto de las entidades empleadoras afiliadas a él, de sus trabajadores y de los trabajadores independientes que corresponda.
 
-El Presidente de la República queda facultado para modificar la Planta del Servicio Nacional de Salud, cuando lo estime necesario para que esta institución amplíe sus servicios de prevención y rehabilitación.
+El Instituto de Seguridad Laboral podrá contratar el otorgamiento de las prestaciones médicas con los servicios de salud, las mutualidades de empleadores o con otros establecimientos de salud públicos o privados.
 
-#### Artículo 10°
+Para los servicios de salud señalados en el artículo 16 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979, y de las leyes N° 18.933 y N° 18.469, y para los establecimientos de salud experimental creados por los decretos con fuerza de ley Nos 29, 30 y 31, de 2000, todos del Ministerio de Salud, será obligatorio convenir el otorgamiento y proporcionar tales prestaciones cuando se lo solicite el Instituto de Seguridad Laboral, sujeto al pago de tarifas establecidas según los aranceles vigentes.
 
-Respecto de los afiliados en otras Cajas de Previsión, administrará este seguro el respectivo organismo previsional en que estén afiliados.
-
-Estos organismos, en caso de carecer de adecuados servicios médicos propios, podrán contratar el otorgamiento de las prestaciones médicas. No obstante, para el Servicio Nacional de Salud será obligatorio convenir el otorgamiento de tales prestaciones, con las Cajas que lo soliciten, sujeto ello al pago de las tarifas que fijará periódicamente.
-
-El Presidente de la República queda facultado para modificar las plantas del personal de los organismos que, para otorgar tales prestaciones, opten por instalar sus propios Servicios Médicos o ampliar los existentes. En la provisión de los cargos que se creen en virtud de este facultad deberán observarse las normas que sobre ascensos contiene el Estatuto Administrativo.
+Los convenios de atención celebrados por el Instituto de Seguridad Laboral con los organismos públicos y privados se someterán a las normas de contratación general del Estado y a las modalidades, condiciones y aranceles que señale un reglamento emanado del Ministerio del Trabajo y Previsión Social, suscrito por los ministros de Salud y de Hacienda.
 
 #### Artículo 11°
 
@@ -248,15 +242,11 @@ Respecto de las Mutualidades, el estatuto orgánico de ellas deberá establecer 
 
 > **Nota.** NOTA 1: El Art. 21 de la LEY 19578, publicada el29.07.1998, dispuso que las Mutualidades de Empleadores deberán formar y mantener un Fondo de Contingencia y, además, deberán ajustarse a las normas de composición de activos representativos de la reserva de pensiones prevista en el presente artículo, según las reglas que indica y las instrucciones que al efecto imparta la Superintendencia de Seguridad Social, ello con la finalidad de financiar los mejoramientos extraordinarios de pensiones que se conceden en la referida ley y los beneficios pecuniarios extraordinarios que se establezcan a futuro, conforme a su Art. 20.
 
-#### Artículo 21°
+#### Artículo 21
 
-Mediante decreto supremo se determinará la proporción en que se distribuirá, entre el Servicio de Seguro Social y el Servicio Nacional de Salud, el producto de las cotizaciones que aquél recaude para este seguro.
+El Instituto de Seguridad Laboral deberá aportar al Ministerio de Salud un porcentaje de sus ingresos con el objeto de financiar el desarrollo de las labores de inspección y prevención de riesgos profesionales, así como para el funcionamiento de la Comisión Médica de Reclamos.
 
-Los demás organismos administradores, con excepción de las Mutualidades de Empleadores, deberán, además, entregar al Servicio Nacional de Salud un determinado porcentaje de sus ingresos, el que será determinado, respecto de cada cual, por el Presidente de la República, para que esta institución lo dedique exclusivamente al financiamiento de sus labores de inspección, prevención de riesgos profesionales, rehabilitación y reeducación de inválidos.
-
-Los excedentes que se produzcan en cada ejercicio, en los fondos respectivos de las diversas cajas de previsión serán distribuidos de acuerdo con las normas que establezca el reglamento, debiéndose aportar por duodécimos presupuestarios y haciéndose los ajustes que correspondan de acuerdo a sus balances anuales.
-
-> **Nota.** El artículo 8° de la LEY 18754, publicada el 28.10.1988, dispuso que las modificaciones introducidas a este artículo, entrarán en vigencia el día primero del mes subsiguiente al de su publicación.
+Mediante decreto dictado anualmente por el Ministerio del Trabajo y Previsión Social y suscrito por el Ministro de Salud, se establecerán el monto, las modalidades y condiciones para el traspaso de los aportes señalados en el inciso precedente.
 
 #### Artículo 22°
 
@@ -264,9 +254,9 @@ DEROGADO.
 
 > **Nota.** El artículo 97 de la LEY 18768, publicada el 29.12.1988, dispuso que la derogación del presente artículo entrará en vigencia a contar del primer día del mes siguiente al de su publicación.
 
-#### Artículo 23°
+#### Artículo 23
 
-Todas las sumas que corresponda percibir al Servicio Nacional de Salud, por aplicación de lo dispuesto en la presente ley, se contabilizarán por separado y este organismo deberá destinarlas exclusivamente a los objetivos que esta ley le encomienda.
+Todas las sumas de dinero que le corresponda percibir al Ministerio de Salud por aplicación de lo dispuesto en esta ley se contabilizarán por separado, para destinarlas exclusivamente a los objetivos que esta ley le encomienda.
 
 #### Artículo 24°
 
@@ -292,7 +282,7 @@ Definiciones
 
 #### Artículo 25°
 
-Para los efectos de esta ley se entenderá por "entidad empleadora" a toda empresa, institución, servicio o persona que proporcione trabajo: y por "trabajador" a toda persona, empleado u obrero, que trabaje para alguna empresa, institución, servicio o persona.
+Para los efectos de esta ley se entenderá por "entidad empleadora" a toda empresa, institución, servicio o persona que proporcione trabajo: y por "trabajador" a toda persona que preste servicios por cuenta propia o como dependiente para alguna entidad empleadora.
 
 #### Artículo 26°
 
@@ -440,27 +430,27 @@ Si el accidente o enfermedad produjere la muerte del afiliado, o si fallece el i
 
 #### Artículo 44°
 
-La cónyuge superviviente mayor de 45 años de edad, o inválida de cualquiera edad, tendrá derecho a una pensión vitalicia equivalente al 50% de la pensión básica que habría correspondido a la víctima si se hubiere invalidado totalmente, o de la pensión básica que percibía en el momento de la muerte.
+El cónyuge superviviente mayor de 45 años de edad, o inválido de cualquier edad, tendrá derecho a una pensión vitalicia equivalente al 50% de la pensión básica que habría correspondido a la víctima si se hubiere invalidado totalmente, o de la pensión básica que percibía en el momento de la muerte.
 
-Igual pensión corresponderá a la viuda menor de 45 años de edad, por el período de un año, el que se prorrogará por todo el tiempo durante el cual mantenga a su cuidado hijos legítimos que le causen asignación familiar. Si al término del plazo o de su prórroga hubiere cumplido los 45 años de edad, la pensión se transformará en vitalicia.
+Igual pensión corresponderá a la viuda o viudo menor de 45 años de edad, por el período de un año, el que se prorrogará por todo el tiempo durante el cual mantenga a su cuidado hijos legítimos que le causen asignación familiar. Si al término del plazo o de su prórroga hubiere cumplido los 45 años de edad, la pensión se transformará en vitalicia.
 
 Cesará su derecho si contrajere nuevas nupcias.
 
-Sin embargo, la viuda que disfrutare de pensión vitalicia y contrajere matrimonio tendrá derecho a que se le pague, de una sola vez, el equivalente a dos años de su pensión.
+Sin embargo, la viuda o viudo que disfrutare de pensión vitalicia y contrajere matrimonio tendrá derecho a que se le pague, de una sola vez, el equivalente a dos años de su pensión.
 
 #### Artículo 45°
 
-La madre de los hijos naturales del causante, soltera o viuda, que hubiere estado viviendo a expensas de éste hasta el momento de su muerte, tendrá también derecho a una pensión equivalente al 30% de la pensión básica que habría correspondido a la víctima si se hubiere invalidado totalmente o de la pensión básica que perciba en el momento de la muerte, sin perjuicio de las pensiones que correspondan a los demás derecho-habientes.
+La madre de los hijos del causante, soltera o viuda, que hubiere estado viviendo a expensas de éste hasta el momento de su muerte, tendrá también derecho a una pensión equivalente al 30% de la pensión básica que habría correspondido a la víctima si se hubiere invalidado totalmente o de la pensión básica que perciba en el momento de la muerte, sin perjuicio de las pensiones que correspondan a los demás derecho-habientes.
 
 Para tener derecho a esta pensión el causante debió haber reconocido a sus hijos con anterioridad a la fecha del accidente o del diagnóstico de la enfermedad.
 
 La pensión será concedida por el mismo plazo y bajo las mismas condiciones que señala el artículo anterior respecto de la pensión por viudez.
 
-Cesará el derecho si la madre de los hijos naturales del causante que disfrute de pensión vitalicia, contrajere nuevas nupcias, en cuyo caso tendrá derecho también a que se le pague de una sola vez, el equivalente a dos años de su pensión.
+Cesará el derecho si la madre de los hijos del causante que disfrute de pensión vitalicia, contrajere nuevas nupcias, en cuyo caso tendrá derecho también a que se le pague de una sola vez, el equivalente a dos años de su pensión.
 
 #### Artículo 46°
 
-El viudo inválido que haya vivido a expensas de la cónyuge afiliada, tendrá derecho a pensión en idénticas condiciones que la viuda inválida.
+Derogado.
 
 #### Artículo 47°
 
@@ -882,7 +872,7 @@ En caso de pérdida o naufragio de una nave, de muerte por sumersión o por otro
 
 Agrégase el siguiente inciso a continuación del inciso primero del artículo 33° de la ley N° 6.037:
 
-"El padre y la madre del imponente, por los cuales éste haya estado percibiendo asignación familiar, concurrirán en el montepío, conjuntamente con la cónyuge y los hijos, con una cuota total equivalente a la que corresponda a un hijo legítimo."
+"El padre y la madre del imponente, por los cuales éste haya estado percibiendo asignación familiar, concurrirán en el montepío, conjuntamente con el cónyuge sobreviviente y los hijos, con una cuota total equivalente a la que corresponda a un hijo legítimo."
 
 #### Artículo 94°
 

@@ -68,7 +68,7 @@ La mera circunstancia de participación en la propiedad de las empresas no confi
 
 Las empresas que cumplan lo dispuesto en el inciso cuarto serán solidariamente responsables del cumplimiento de las obligaciones laborales y previsionales emanadas de la ley, de los contratos individuales o de instrumentos colectivos.
 
-Las cuestiones suscitadas por la aplicación de los incisos anteriores se sustanciarán por el juez del trabajo, conforme al Párrafo 3° del Capítulo II del Título I del Libro V de este Código, quien resolverá el asunto, previo informe de la Dirección del Trabajo, pudiendo requerir además informes de otros órganos de la Administración del Estado. El ejercicio de las acciones judiciales derivadas de la aplicación del inciso cuarto, así como la sentencia definitiva respectiva, deberán, además, considerar lo dispuesto en el artículo 507 de este Código.
+Las cuestiones suscitadas por la aplicación de los incisos anteriores se sustanciarán por el juez del trabajo, conforme al Párrafo 3° del Capítulo II del Título I del Libro V de este Código, quien para resolver el asunto podrá solicitar informe de la Dirección del Trabajo o de otros órganos de la Administración del Estado, la que procederá siempre a petición del trabajador. El ejercicio de las acciones judiciales derivadas de la aplicación del inciso cuarto, así como la sentencia definitiva respectiva, deberán, además, considerar lo dispuesto en el artículo 507 de este Código.
 
 Los trabajadores de todas las empresas consideradas como un solo empleador podrán constituir uno o más sindicatos que los agrupen, o mantener sus organizaciones existentes; podrán, asimismo, negociar colectivamente con todas las empresas que han sido consideradas como un empleador, o bien con cada una de ellas. Los sindicatos interempresa que agrupen exclusivamente a trabajadores dependientes de empresas que hayan sido declaradas como un solo empleador podrán presentar proyectos de contrato colectivo, siendo obligatorio para el empleador negociar con dichos sindicatos. En todos estos casos, la presentación y tramitación de los proyectos de contrato colectivo se regirán por las normas establecidas en el Título IV del Libro IV de este Código.
 
@@ -846,7 +846,7 @@ La infracción a esta prohibición será sancionada con la restitución obligato
 
 En el contrato podrá establecerse la cantidad que el trabajador asigne para la mantención de su familia.
 
-La mujer casada puede percibir hasta el cincuenta por ciento de la remuneración de su marido, declarado vicioso por el respectivo Juez de Letras del Trabajo.
+El cónyuge puede percibir hasta el cincuenta por ciento de la remuneración del otro cónyuge, declarado vicioso por el respectivo Juez de Letras del Trabajo.
 
 En los casos de los incisos anteriores, el empleador estará obligado a efectuar los descuentos respectivos y pagar las sumas al asignatario.
 
@@ -3458,6 +3458,10 @@ Este permiso se podrá utilizar, a elección del trabajador, en el día del matr
 
 El trabajador deberá dar aviso a su empleador con treinta días de anticipación y presentar dentro de los treinta días siguientes a la celebración el respectivo certificado de matrimonio o de acuerdo de unión civil del Servicio de Registro Civil e Identificación.
 
+#### Artículo 207 ter
+
+Los derechos que correspondan a la madre trabajadora referidos a la protección a la maternidad regulados en este Título, serán aplicables a la madre o persona gestante, con independencia de su sexo registral por identidad de género. A su vez, los derechos que se otorgan al padre en el presente Título, también serán aplicables al progenitor no gestante.
+
 #### Artículo 208
 
 Las infracciones a las disposiciones de este título se sancionarán con multa de catorce a setenta unidades tributarias mensuales en vigor a la fecha de cometerse la infracción, multa que se duplicará en caso de reincidencia.
@@ -5638,6 +5642,24 @@ Las audiencias se desarrollarán en su totalidad ante el juez de la causa, el qu
 
 Sin embargo, en los juzgados de letras que cuenten con un juez y un secretario, y sólo cuando la Corte de Apelaciones respectiva no ejerza la atribución que le confiere el artículo 47 del Código Orgánico de Tribunales, el juez, cuando hubiere retardo en el despacho de los asuntos sometidos al conocimiento del tribunal o cuando el mejor servicio judicial así lo exigiere, podrá autorizar al secretario abogado, para que, en calidad de suplente, asuma en todo el curso del juicio. En este caso, se entenderá para todos los efectos legales que el juez falta en su despacho, y sólo aquél podrá presidir la audiencia, dictar el fallo y llevar a cabo todas las actuaciones que correspondan, aplicándose a su respecto lo señalado en el inciso primero.
 
+#### Artículo 427 bis
+
+Sin perjuicio de lo dispuesto en el artículo anterior, el juez podrá autorizar la comparecencia remota por videoconferencia de cualquiera de las partes que así lo solicite, a una o varias de las audiencias judiciales de su competencia que se verifiquen presencialmente en el tribunal, si cuentan con los medios idóneos para ello y si, en su opinión, dicha forma de comparecencia resultare suficientemente eficaz y no causare indefensión.
+
+La parte interesada deberá solicitar comparecer por esta vía hasta dos días antes de la realización de la audiencia, ofreciendo algún medio de contacto oportuno, tales como número de teléfono o correo electrónico, a efectos de que el tribunal coordine la realización de la audiencia. Si no fuere posible contactar a la parte interesada a través de los medios ofrecidos tras tres intentos, de lo cual se deberá dejar constancia, se entenderá que no ha comparecido a la audiencia.
+
+La comparecencia remota de la parte se realizará desde cualquier lugar, con auxilio de algún medio tecnológico compatible con los utilizados por el Poder Judicial e informados por su Corporación Administrativa. Adicionalmente, para el caso en que la parte se encontrare fuera de la región en que se sitúa el tribunal, la comparecencia remota también podrá realizarse en dependencias de cualquier otro tribunal, si éste contare con disponibilidad de medios electrónicos y dependencias habilitadas. La Corte Suprema deberá regular mediante auto acordado la forma en que se coordinará y se hará uso de dichas dependencias.
+
+La constatación de la identidad de la parte que comparece de forma remota se deberá efectuar inmediatamente antes de la audiencia, de manera remota ante el ministro de fe o el funcionario que determine el tribunal respectivo, mediante la exhibición de su cédula de identidad o pasaporte, de lo que se dejará registro.
+
+Con todo, la absolución de posiciones y las declaraciones de peritos y testigos y otras actuaciones que el juez determine, sólo podrán rendirse en dependencias del tribunal.
+
+La disponibilidad y correcto funcionamiento de los medios tecnológicos de las partes que comparezcan remotamente en dependencias ajenas al Poder Judicial será de responsabilidad de aquellas. Con todo, la parte podrá alegar entorpecimiento si el mal funcionamiento de los medios tecnológicos no fuera atribuible a ella. En caso de acoger dicho incidente, el tribunal fijará un nuevo día y hora para la continuación de la audiencia, sin que se pierda lo obrado con anterioridad a dicho mal funcionamiento. En la nueva audiencia que se fije, el tribunal velará por la igualdad de las partes en el ejercicio de sus derechos.
+
+Será también aplicable a los Juzgados de Letras del Trabajo y a los Juzgados de Cobranza Laboral y Previsional, el funcionamiento extraordinario del artículo 47 D del Código Orgánico de Tribunales.
+
+> **Nota.** El inciso segundo del artículo duodécimo transitorio de la ley 21394, publicada el 30.11.2021, dispone que, durante el periodo de un año contado desde la entrada en vigencia señalada en el inciso primero de la citada norma transitoria, las disposiciones contenidas en el presente artículo regirán en los tiempos y territorios en que las disposiciones del artículo decimosexto transitorio no fueren aplicables, de conformidad a la extensión temporal o territorial que conforme a dicho artículo disponga la Corte Suprema.
+
 #### Artículo 428
 
 Los actos procesales serán públicos y deberán realizarse con la celeridad necesaria, procurando concentrar en un solo acto aquellas diligencias en que esto sea posible.
@@ -5736,7 +5758,7 @@ Con todo, si en cualquier región del país la cercanía y conectividad de las c
 
 #### Artículo 440
 
-Las resoluciones en que se ordene la comparecencia personal de las partes, que no hayan sido expedidas en el curso de una audiencia, se notificarán por carta certificada.
+Las resoluciones en que se ordene la comparecencia personal de las partes, que no hayan sido expedidas en el curso de una audiencia, se notificarán conforme a lo dispuesto en el artículo 442. Con todo, si el demandado no hubiere realizado ninguna actuación en juicio, estas resoluciones le serán notificadas por carta certificada al domicilio en que hubiere sido emplazado de conformidad a los artículos 436 o 437, según corresponda.
 
 Las notificaciones por carta certificada se entenderán practicadas al quinto día siguiente a la fecha de entrega de la carta en la oficina de correos, de lo que se dejará constancia.
 
@@ -5750,7 +5772,7 @@ Las restantes resoluciones se entenderán notificadas a las partes desde que se 
 
 #### Artículo 442
 
-Salvo la primera notificación al demandado, las restantes podrán ser efectuadas, a petición de la parte interesada, en forma electrónica o por cualquier otro medio que ésta señale. En este caso, se dejará debida constancia de haberse practicado la notificación en la forma solicitada.
+Salvo la primera notificación al demandado, las restantes deberán ser efectuadas al medio de notificación electrónico que el abogado patrocinante y el mandatario judicial establezcan en su primera presentación en juicio, siempre que el juez lo califique como expedito y eficaz, bajo apercibimiento de serles notificadas por el estado diario todas las resoluciones que se dicten en lo sucesivo en el proceso. En este caso, se dejará debida constancia de haberse practicado la notificación en la forma solicitada.
 
 #### Artículo 443
 
@@ -6328,7 +6350,7 @@ Del procedimiento monitorio
 
 #### Artículo 496
 
-Respecto de las contiendas cuya cuantía sea igual o inferior a diez ingresos mínimos mensuales, sin considerar, en su caso, los aumentos a que hubiere lugar por aplicación de los incisos quinto y séptimo del artículo 162; y de las contiendas a que se refiere el artículo 201 de este Código, se aplicará el procedimiento que a continuación se señala.
+Respecto de las contiendas cuya cuantía sea igual o inferior a quince ingresos mínimos mensuales, sin considerar, en su caso, los aumentos a que hubiere lugar por aplicación de los incisos quinto y séptimo del artículo 162; y de las contiendas a que se refiere el artículo 201 de este Código, se aplicará el procedimiento que a continuación se señala.
 
 #### Artículo 497
 

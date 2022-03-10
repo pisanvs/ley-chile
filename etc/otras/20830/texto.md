@@ -96,8 +96,6 @@ Los acuerdos de unión civil o contratos equivalentes, no constitutivos de matri
 
 6ª. Los actos auténticos en que conste la terminación de uno de estos acuerdos serán reconocidos en Chile, en conformidad con la legislación chilena vigente en esta materia.
 
-Los matrimonios celebrados en el extranjero por personas del mismo sexo serán reconocidos en Chile como acuerdos de unión civil si cumplen con las reglas establecidas en esta ley, y sus efectos serán los mismos del referido acuerdo.
-
 #### Artículo 13
 
 Los convivientes civiles que hayan celebrado el acuerdo o contrato de unión equivalente en territorio extranjero se considerarán separados de bienes, a menos que al momento de inscribirlo en Chile pacten someterse a la comunidad prevista en el artículo 15 de esta ley, dejándose constancia de ello en dicha inscripción.

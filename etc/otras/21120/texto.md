@@ -82,7 +82,7 @@ DE LA RESERVA DE LOS PROCEDIMIENTOS Y DE LA INFORMACIÓN VINCULADA A ELLOS. Los 
 
 ## Título III
 
-DEL PROCEDIMIENTO ADMINISTRATIVO DE RECTIFICACIÓN DE LA INSCRIPCIÓN RELATIVA AL SEXO Y NOMBRE SOLICITADA POR PERSONA MAYOR DE EDAD SIN VÍNCULO MATRIMONIAL VIGENTE
+DEL PROCEDIMIENTO ADMINISTRATIVO DE RECTIFICACIÓN DE LA INSCRIPCIÓN RELATIVA AL SEXO Y NOMBRE SOLICITADA POR PERSONA MAYOR DE EDAD
 
 #### Artículo 9°
 
@@ -92,13 +92,13 @@ Los documentos de identificación y cualquier otro instrumento público o privad
 
 #### Artículo 10
 
-DEL ÓRGANO COMPETENTE Y DE LA SOLICITUD. En caso de que el solicitante sea mayor de edad y no tenga vínculo matrimonial vigente, será competente para conocer de su solicitud el Servicio de Registro Civil e Identificación. La solicitud podrá ser presentada ante cualquier oficina de dicho Servicio, sin importar cuál sea el domicilio o residencia del solicitante.
+DEL ÓRGANO COMPETENTE Y DE LA SOLICITUD. En caso de que el solicitante sea mayor de edad, será competente para conocer de su solicitud el Servicio de Registro Civil e Identificación. La solicitud podrá ser presentada ante cualquier oficina de dicho Servicio, sin importar cuál sea el domicilio o residencia del solicitante.
 
 Al momento de presentar la persona interesada la solicitud de rectificación, el Oficial del Servicio de Registro Civil e Identificación deberá informar al solicitante acerca de los efectos jurídicos de la aceptación de la solicitud.
 
 #### Artículo 11
 
-TRAMITACIÓN DE LA SOLICITUD DE RECTIFICACIÓN. Recibida la solicitud a que se refiere el artículo 9° de esta ley, el Oficial del Servicio de Registro Civil e Identificación deberá verificar la identidad del solicitante a través de la cédula de identidad vigente o, en caso que fuere necesario, de la huella dactilar o de acuerdo al procedimiento previsto en el artículo 92 del decreto con fuerza de ley N° 2.128, que aprueba reglamento orgánico del Servicio de Registro Civil, del Ministerio de Justicia, de 1930. Asimismo, verificará que el solicitante no tenga vínculo matrimonial vigente, que sea mayor de edad y, en caso de los extranjeros, que cumplan los requisitos contemplados en el artículo 7° de esta ley.
+TRAMITACIÓN DE LA SOLICITUD DE RECTIFICACIÓN. Recibida la solicitud a que se refiere el artículo 9° de esta ley, el Oficial del Servicio de Registro Civil e Identificación deberá verificar la identidad del solicitante a través de la cédula de identidad vigente o, en caso que fuere necesario, de la huella dactilar o de acuerdo al procedimiento previsto en el artículo 92 del decreto con fuerza de ley N° 2.128, que aprueba reglamento orgánico del Servicio de Registro Civil, del Ministerio de Justicia, de 1930. Asimismo, verificará que el solicitante sea mayor de edad y, en caso de los extranjeros, que cumplan los requisitos contemplados en el artículo 7° de esta ley.
 
 Además, el Oficial del Servicio de Registro Civil e Identificación citará, en el más breve plazo posible, al solicitante y a dos testigos hábiles, a una audiencia especial. En ella, el solicitante y los testigos declararán, bajo promesa o juramento, que el primero conoce todos los efectos jurídicos que implica el acogimiento de la solicitud de rectificación de su partida de nacimiento en lo relativo a su sexo y nombre. Para estos efectos, no serán testigos hábiles las personas enumeradas en el artículo 16 de la Ley de Matrimonio Civil, contenida en el artículo primero de la ley N° 19.947.
 
@@ -110,27 +110,17 @@ En un plazo máximo de cuarenta y cinco días, contado desde la presentación de
 
 Sólo procederá el rechazo de la solicitud por no haber acreditado el requirente su identidad o por no haberse verificado la declaración del solicitante y de los testigos hábiles en los términos indicados en el inciso segundo anterior.
 
-El Director Nacional del Servicio de Registro Civil e Identificación declarará inadmisible la solicitud únicamente cuando concurra una de las siguientes causales:
-
-a) La formulare una persona que no hubiere alcanzado la mayoría de edad.
-
-b) La formulare una persona con vínculo matrimonial no disuelto. Para ello, al momento de dictar la orden de servicio que resolverá la solicitud administrativa, confirmará que el solicitante no se encuentra ligado por vínculo matrimonial no disuelto.
+El Director Nacional del Servicio de Registro Civil e Identificación declarará inadmisible la solicitud únicamente cuando la formulare una persona que no hubiere alcanzado la mayoría de edad.
 
 En caso de inadmisibilidad de la solicitud, el Servicio de Registro Civil e Identificación deberá informar al solicitante de los procedimientos judiciales que establece la presente ley.
 
 ## Título IV
 
-DE LOS PROCEDIMIENTOS JUDICIALES DE RECTIFICACIÓN DE LA INSCRIPCIÓN RELATIVA AL SEXO Y NOMBRE
-
-### Párrafo 1°
-
-De la solicitud de rectificación de la partida de nacimiento de las personas mayores de catorce y menores de dieciocho años de edad
+DEL PROCEDIMIENTO ADMINISTRATIVO DE RECTIFICACIÓN DE LA INSCRIPCIÓN RELATIVA AL SEXO Y NOMBRE SOLICITADA POR PERSONA MENOR DE EDAD
 
 #### Artículo 12
 
 DE LA SOLICITUD DE RECTIFICACIÓN DE LA PARTIDA DE NACIMIENTO DE LAS PERSONAS MAYORES DE CATORCE Y MENORES DE DIECIOCHO AÑOS. Las personas mayores de catorce y menores de dieciocho años de edad podrán solicitar la rectificación del sexo y nombre con que aparezcan individualizadas en su partida de nacimiento para que sea coincidente con su identidad de género. Con todo, una vez que alcancen la mayoría de edad, podrán requerir una nueva rectificación en conformidad a los procedimientos que correspondan.
-
-Las personas mayores de dieciséis y menores de dieciocho años con vínculo matrimonial vigente que quieran solicitar la rectificación de que trata esta ley podrán efectuar dicha solicitud personalmente de conformidad al procedimiento establecido en el Párrafo 2° del presente Título.
 
 Los documentos de identificación y cualquier otro instrumento público o privado que se emitan una vez llevada a cabo la rectificación de que trata esta ley deberán reconocer y respetar el nuevo sexo y nombre del mayor de catorce y menor de dieciocho años.
 
@@ -190,31 +180,29 @@ El tribunal, en la sentencia definitiva que acoja la solicitud, ordenará al Ser
 
 El Servicio de Registro Civil e Identificación procederá sólo en virtud de una sentencia firme. Una vez practicadas las rectificaciones y subinscripciones señaladas en el inciso anterior, se emitirán los nuevos documentos de identidad, de conformidad a lo establecido en esta ley.
 
-### Párrafo 2°
+## Título IV — BIS
 
-De la solicitud de rectificación de las personas con vínculo matrimonial vigente
+DE LA SOLICITUD DE DISOLUCIÓN DEL VÍNCULO MATRIMONIAL
 
 #### Artículo 18
 
-DEL TRIBUNAL COMPETENTE. Tratándose de solicitudes de personas con vínculo matrimonial vigente, sean o no mayores de edad, conocerá la solicitud el tribunal con competencia en materias de familia correspondiente al domicilio de cualquiera de los cónyuges, a elección del solicitante.
+DE LA NOTIFICACIÓN O INFORMACIÓN AL CÓNYUGE. El tribunal que acoja la solicitud de rectificación de una persona con vínculo matrimonial vigente, ordenará que la resolución judicial que acoge la solicitud sea notificada a su cónyuge. Asimismo, cuando se acoja una solicitud administrativa de rectificación de una persona con vínculo matrimonial vigente, el Servicio de Registro Civil e Identificación informará de la rectificación a su cónyuge.
 
 #### Artículo 19
 
-DE LA TRAMITACIÓN DE LA SOLICITUD. La solicitud de rectificación efectuada por personas con vínculo matrimonial vigente deberá ser fundada, exponiendo con claridad y precisión los antecedentes de hecho y los fundamentos de derecho en que se apoya, con indicación precisa de las peticiones concretas que se someten al pronunciamiento del tribunal e individualizando al cónyuge no solicitante.
+DE LA SOLICITUD DE DISOLUCIÓN DEL VÍNCULO MATRIMONIAL. El o la cónyuge de la persona que ha obtenido la rectificación de la presente ley, podrá concurrir al tribunal con competencia en materias de familia correspondiente al domicilio de cualquiera de los cónyuges, a fin de solicitar que ordene la disolución del vínculo matrimonial. La solicitud se podrá formular dentro del plazo de seis meses contado desde la notificación o información señalada en el artículo anterior.
 
-Si la solicitud cumple todos los requisitos legales, el juez citará a los cónyuges a la audiencia preparatoria, ordenando que sean notificados en conformidad a las reglas generales.
+El procedimiento se tramitará de conformidad con las reglas de los incisos siguientes y las disposiciones del Título III de la ley N° 19.968, que crea los Tribunales de Familia.
+
+Recibida la solicitud, el juez la admitirá a tramitación y citará a los cónyuges a audiencia preparatoria de juicio.
 
 Los cónyuges tendrán derecho a demandar compensación económica de conformidad a las disposiciones del Párrafo 1° del Capítulo VII de la Ley de Matrimonio Civil, contenida en el artículo primero de la ley N° 19.947, y del Párrafo 4° del Título III de la ley N° 19.968.
 
-El juez se pronunciará en la sentencia definitiva sobre la solicitud de rectificación y, en caso de acogerla, en el mismo acto declarará la terminación del matrimonio en virtud de la causal del numeral 5° del artículo 42 de la citada Ley de Matrimonio Civil, y regulará sus efectos. Asimismo, resolverá cualquier otra materia que se hubiere ventilado en el procedimiento.
+El juez se pronunciará en la sentencia definitiva con el solo mérito de la solicitud, procediendo en el mismo acto a declarar la terminación del matrimonio en virtud de la causal del numeral 5° del artículo 42 de la Ley de Matrimonio Civil, y regulará sus efectos. Asimismo, resolverá cualquier otra materia que se hubiere ventilado en el procedimiento.
 
 En virtud de la causal de término del matrimonio establecida en el numeral 5° del artículo 42 de la referida Ley de Matrimonio Civil, los comparecientes se entenderán para todos los efectos legales como divorciados.
 
 Los efectos personales y patrimoniales derivados de la terminación del matrimonio regulados en la sentencia definitiva podrán ser impugnados de acuerdo con el régimen de recursos aplicable a los asuntos contenciosos en materias de familia.
-
-El tribunal, en la sentencia definitiva que acoja la solicitud, ordenará al Servicio de Registro Civil e Identificación la rectificación de la partida de nacimiento y de matrimonio, oficiando para tales efectos a que se proceda al cambio de sexo y de nombre, o sólo del sexo, según corresponda, y que se efectúen las respectivas subinscripciones al margen.
-
-El Servicio de Registro Civil e Identificación procederá sólo en virtud de una sentencia firme. Una vez practicadas las rectificaciones y subinscripciones señaladas en el inciso anterior, se emitirán los nuevos documentos de identidad, de conformidad a lo establecido en esta ley.
 
 ## Título V
 
@@ -266,7 +254,7 @@ Toda información o comunicación entre instituciones, ya sean públicas o priva
 
 DE LOS EFECTOS DE LA RECTIFICACIÓN DE LA PARTIDA DE NACIMIENTO. Una vez efectuadas las modificaciones y subinscripciones a las que se refiere el artículo anterior, la persona interesada deberá ser reconocida e identificada conforme a su identidad de género.
 
-Las imágenes, fotografías, soportes digitales, datos informáticos o cualquier otro instrumento con los que las personas figuren en registros públicos y privados deberán ser coincidentes con dicha identidad.
+Las imágenes, fotografías, soportes digitales, datos informáticos o cualquier otro instrumento con los que las personas figuren en registros públicos y privados deberán ser coincidentes con dicha identidad. La partida de nacimiento del hijo o hija del padre o madre que haya realizado la rectificación deberá consignar dicho cambio.
 
 Lo anterior es sin perjuicio de lo dispuesto en el inciso tercero del artículo 2° de la ley Nº 20.609, que establece medidas contra la discriminación.
 

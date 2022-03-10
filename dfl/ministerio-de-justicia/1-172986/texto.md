@@ -184,9 +184,11 @@ Derogado.
 
 #### Artículo 31
 
-Parentesco por afinidad es el que existe entre una persona que está o ha estado casada y los consanguíneos de su marido o mujer.
+Parentesco por afinidad es el que existe entre una persona que está o ha estado casada y los consanguíneos de su cónyuge.
 
-La línea y el grado de afinidad de una persona con un consanguíneo de su marido o mujer, se califican por la línea y grado de consanguinidad de dicho marido o mujer con el dicho consanguíneo. Así, un varón está en primer grado de afinidad, en la línea recta, con los hijos habidos por su mujer en anterior matrimonio; y en segundo grado de afinidad, en la línea transversal, con los hermanos de su mujer.
+La línea y el grado de afinidad de una persona con un consanguíneo de su cónyuge, se califican por la línea y grado de consanguinidad de dicho cónyuge con el referido consanguíneo. Así, uno de los cónyuges está en primer grado de afinidad, en la línea recta, con los hijos habidos por su cónyuge en anterior matrimonio, y en segundo grado de afinidad, en la línea transversal, con los hermanos de su cónyuge.
+
+Las leyes u otras disposiciones que hagan referencia a las expresiones marido y mujer, marido o mujer, se entenderán aplicables a todos los cónyuges, sin distinción de sexo, orientación sexual o identidad de género.
 
 #### Artículo 32
 
@@ -198,7 +200,9 @@ Tienen el estado civil de hijos respecto de una persona aquellos cuya filiación
 
 #### Artículo 34
 
-Derogado.
+Los padres y las madres de una persona son sus progenitores, respecto de los cuales se ha determinado una relación de filiación. Se entenderán como tales a su madre y/o padre, sus dos madres, o sus dos padres.
+
+Las leyes u otras disposiciones que hagan referencia a las expresiones padre y madre, o bien, padre o madre, u otras semejantes, se entenderán aplicables a todos los progenitores, sin distinción de sexo, identidad de género u orientación sexual, salvo que por el contexto o por disposición expresa se deba entender lo contrario.
 
 #### Artículo 35
 
@@ -210,7 +214,7 @@ Derogado.
 
 #### Artículo 37
 
-La filiación de los hijos puede no encontrarse determinada respecto de su padre, de su madre o de ambos.
+La filiación de los hijos puede no encontrarse determinada respecto de uno de sus progenitores, o de ambos.
 
 #### Artículo 38
 
@@ -226,7 +230,7 @@ Derogado.
 
 #### Artículo 41
 
-Los hermanos pueden serlo por parte de padre y de madre, y se llaman entonces hermanos carnales; o sólo por parte de padre, y se llaman entonces hermanos paternos; o sólo por parte de madre, y se llaman entonces hermanos maternos.
+Los hermanos pueden serlo de simple o doble conjunción. Los que sean por parte de ambos progenitores se llaman entonces hermanos de doble conjunción, y los que lo sean sólo por parte de uno de ellos, se llaman entonces hermanos de simple conjunción.
 
 #### Artículo 42
 
@@ -238,7 +242,7 @@ Los parientes serán citados, y comparecerán a ser oídos, verbalmente, en la f
 
 #### Artículo 43
 
-Son representantes legales de una persona el padre o la madre, el adoptante y su tutor o curador.
+Son representantes legales de una persona uno o ambos progenitores, el adoptante y su tutor o curador.
 
 #### Artículo 44
 
@@ -316,7 +320,7 @@ DE LAS PERSONAS
 
 ## Título I
 
-DE LAS PERSONAS EN CUANTO A SU NACIONALIDAD Y DOMICILIO
+DE LAS PERSONAS, EN CUANTO A SU NOMBRE, NACIONALIDAD Y DOMICILIO
 
 ### 1. División de las personas
 
@@ -342,7 +346,29 @@ La ley no reconoce diferencias entre el chileno y el extranjero en cuanto a la a
 
 Las personas se dividen, además, en domiciliadas y transeúntes.
 
-§ 2. Del domicilio en cuanto depende de la residencia y del ánimo de permanecer en ella
+### 2. Nombre de las personas
+
+#### Artículo 58 bis
+
+Nombre es el conjunto de palabras que sirve legalmente para identificar a una persona. Está formado por el o los nombres propios, y por el o los apellidos con que se encuentre individualizada en su respectiva inscripción de nacimiento.
+
+#### Artículo 58 ter
+
+El primer apellido del o los progenitores se transmitirá a sus hijos, conforme el orden que, según los casos, se determine en aplicación de las reglas siguientes:
+
+1. En la inscripción de nacimiento del primero de los hijos comunes, los progenitores determinarán, de común acuerdo, el orden de transmisión de sus respectivos primeros apellidos, que valdrá para todos sus hijos comunes. En caso de no manifestarse acuerdo al momento de inscribir al primero de los hijos comunes, se entenderá su voluntad de que el orden de los apellidos sea determinado mediante sorteo ante el Oficial del Registro Civil.
+
+2. En toda inscripción de nacimiento en que al tiempo de la inscripción quede determinada la filiación del nacido respecto de ambos progenitores, el oficial del Registro Civil procederá según el orden de los apellidos fijado en la inscripción de nacimiento del primero de los hijos comunes de dichas personas; y si no tuvieren más hijos comunes, según el orden que se determine al practicarse la inscripción, de conformidad a lo dispuesto en la regla precedente.
+
+3. En la inscripción de nacimiento de un hijo cuya filiación al tiempo de la inscripción quede determinada sólo respecto de uno de los progenitores, se inscribirá al nacido con el respectivo primer apellido de dicho progenitor. En este caso, cuando con posterioridad obrare determinación de la filiación no determinada al tiempo de la inscripción de nacimiento, si hubiere otro u otros hijos comunes de dichos progenitores, se estará al orden de los apellidos fijado en la inscripción de nacimiento del primero de sus hijos comunes. Si, por el contrario, no hubiere más hijos comunes de dichos progenitores, el primer apellido del progenitor que quedó determinado al momento de la inscripción de nacimiento antecederá al otro apellido, a menos que, no habiendo el hijo alcanzado la mayoría de edad, los progenitores manifiesten, de común acuerdo, su voluntad de que se proceda con el orden inverso.
+
+Con todo, para aplicar las reglas señaladas en el inciso anterior, previamente el oficial del Registro Civil deberá verificar si existieren en los registros hijos inscritos a nombre de cada uno de los progenitores.
+
+Fijado en la inscripción de nacimiento el orden de los apellidos del primero de los hijos comunes, los demás hijos que dos progenitores tengan en común deberán inscribirse siempre con el mismo orden de apellidos, conforme a las disposiciones del presente artículo.
+
+Las inscripciones de nacimiento y las manifestaciones del acuerdo de los progenitores, respecto del orden de los apellidos, se practicarán de conformidad con lo dispuesto en el presente artículo, y en la forma que determine el reglamento.
+
+§ 3. Del domicilio en cuanto depende de la residencia y del ánimo de permanecer en ella
 
 #### Artículo 59
 
@@ -398,7 +424,7 @@ Se podrá en un contrato establecer de común acuerdo un domicilio civil especia
 
 El domicilio parroquial, municipal, provincial o relativo a cualquier otra sección del territorio, se determina principalmente por las leyes y ordenanzas que constituyen derechos y obligaciones especiales para objetos particulares de gobierno, policía y administración en las respectivas parroquias, comunidades, provincias, etc., y se adquiere o pierde conforme a dichas leyes u ordenanzas. A falta de disposiciones especiales en dichas leyes u ordenanzas, se adquiere o pierde según las reglas de este título.
 
-§ 3. Del domicilio en cuanto depende de la condición o estado civil de la persona
+§ 4. Del domicilio en cuanto depende de la condición o estado civil de la persona
 
 #### Artículo 71
 
@@ -406,7 +432,7 @@ Derogado.
 
 #### Artículo 72
 
-El que vive bajo patria potestad sigue el domicilio paterno o materno, según el caso, y el que se halla bajo tutela o curaduría, el de su tutor o curador.
+El que vive bajo patria potestad sigue el domicilio de quien la ejerza, y el que se halla bajo tutela o curaduría, el de su tutor o curador.
 
 #### Artículo 73
 
@@ -608,7 +634,7 @@ DEL MATRIMONIO
 
 #### Artículo 102
 
-El matrimonio es un contrato solemne por el cual un hombre y una mujer se unen actual e indisolublemente, y por toda la vida, con el fin de vivir juntos, de procrear, y de auxiliarse mutuamente.
+El matrimonio es un contrato solemne por el cual dos personas se unen actual e indisolublemente, y por toda la vida, con el fin de vivir juntos, de procrear, y de auxiliarse mutuamente.
 
 #### Artículo 103
 
@@ -628,7 +654,7 @@ Los que hayan cumplido dieciocho años no estarán obligados a obtener el consen
 
 #### Artículo 107
 
-Los que no hubieren cumplido dieciocho años no podrán casarse sin el consentimiento expreso de sus padres; si faltare uno de ellos, el del otro padre o madre; o a falta de ambos, el del ascendiente o de los ascendientes de grado más próximo.
+Los que no hubieren cumplido dieciocho años no podrán casarse sin el consentimiento expreso de sus progenitores; si faltare uno de ellos, el del otro; o a falta de ambos, el del ascendiente o de los ascendientes de grado más próximo.
 
 En igualdad de votos contrarios preferirá el favorable al matrimonio.
 
@@ -652,7 +678,7 @@ A falta de dichos padre, madre o ascendientes, será necesario al que no haya cu
 
 En defecto de los anteriormente llamados, dará al menor el consentimiento para el matrimonio el oficial del Registro Civil que deba intervenir en su celebración. Si éste tuviere alguna de las razones contempladas en el artículo 113 para oponerse al matrimonio, lo comunicará por escrito al juez de letras de la comuna o agrupación de comunas para los efectos señalados en el artículo 112.
 
-Si se tratare de un hijo cuya filiación aún no ha sido determinada respecto de ninguno de sus padres, el consentimiento para el matrimonio lo dará su curador general. A falta de éste, será aplicable lo dispuesto en el inciso anterior.
+Si se tratare de un hijo cuya filiación aún no ha sido determinada respecto de ninguno de sus progenitores, el consentimiento para el matrimonio lo dará su curador general. A falta de éste, será aplicable lo dispuesto en el inciso anterior.
 
 #### Artículo 112
 
@@ -736,7 +762,7 @@ Para la confección de este inventario se dará a dichos hijos un curador especi
 
 #### Artículo 125
 
-Habrá lugar al nombramiento de curador aunque los hijos no tengan bienes propios de ninguna clase en poder del padre o madre. Cuando así fuere, deberá el curador especial testificarlo.
+Habrá lugar al nombramiento de curador aunque los hijos no tengan bienes propios de ninguna clase en poder del cónyuge que quisiere volver a casarse. Cuando así fuere, deberá el curador especial testificarlo.
 
 #### Artículo 126
 
@@ -766,13 +792,13 @@ OBLIGACIONES Y DERECHOS ENTRE LOS CONYUGES
 
 #### Artículo 131
 
-Los cónyuges están obligados a guardarse fe, a socorrerse y ayudarse mutuamente en todas las circunstancias de la vida. El marido y la mujer se deben respeto y protección recíprocos.
+Los cónyuges están obligados a guardarse fe, a socorrerse y ayudarse mutuamente en todas las circunstancias de la vida. Asimismo, se deben respeto y protección recíprocos.
 
 #### Artículo 132
 
 El adulterio constituye una grave infracción al deber de fidelidad que impone el matrimonio y da origen a las sanciones que la ley prevé.
 
-Cometen adulterio la mujer casada que yace con varón que no sea su marido y el varón casado que yace con mujer que no sea su cónyuge.
+Comete adulterio la persona casada que yace con otra que no sea su cónyuge.
 
 #### Artículo 133
 
@@ -780,7 +806,7 @@ Ambos cónyuges tienen el derecho y el deber de vivir en el hogar común, salvo 
 
 #### Artículo 134
 
-El marido y la mujer deben proveer a las necesidades de la familia común, atendiendo a sus facultades económicas y al régimen de bienes que entre ellos medie.
+Ambos cónyuges deben proveer a las necesidades de la familia común, atendiendo a sus facultades económicas y al régimen de bienes que entre ellos medie.
 
 El juez, si fuere necesario, reglará la contribución.
 
@@ -788,7 +814,9 @@ El juez, si fuere necesario, reglará la contribución.
 
 Por el hecho del matrimonio se contrae sociedad de bienes entre los cónyuges, y toma el marido la administración de los de la mujer, según las reglas que se expondrán en el título De la sociedad conyugal.
 
-Los que se hayan casado en país extranjero se mirarán en Chile como separados de bienes, a menos que inscriban su matrimonio en el Registro de la Primera Sección de la Comuna de Santiago, y pacten en ese acto sociedad conyugal o régimen de participación en los gananciales, dejándose constancia de ello en dicha inscripción.
+Lo dispuesto en el inciso anterior no será aplicable a los matrimonios celebrados entre personas del mismo sexo, las que, por el hecho del matrimonio, se entenderán separadas totalmente de bienes, sin perjuicio de la facultad de optar por el régimen de participación en los gananciales en las capitulaciones matrimoniales, o de sustituirlo por éste durante la vigencia del matrimonio, en conformidad a lo dispuesto en el artículo 1723.
+
+Los que se hayan casado en país extranjero se mirarán en Chile como separados de bienes, a menos que inscriban su matrimonio en el Registro de la Primera Sección de la Comuna de Santiago, y pacten en ese acto sociedad conyugal o régimen de participación en los gananciales, dejándose constancia de ello en dicha inscripción. Tratándose de matrimonios entre personas del mismo sexo casadas en país extranjero, sólo podrán pactar el régimen de participación en los gananciales.
 
 #### Artículo 136
 
@@ -998,7 +1026,7 @@ Si la mujer separada de bienes confiere al marido la administración de alguna p
 
 #### Artículo 163
 
-Al marido y a la mujer separados de bienes se dará curador para la administración de los suyos en todos los casos en que siendo solteros necesitarían de curador para administrarlos.
+A los cónyuges separados de bienes se dará curador para la administración de los suyos en todos los casos en que siendo solteros necesitarían de curador para administrarlos.
 
 #### Artículo 164
 
@@ -1086,9 +1114,9 @@ La adopción, los derechos entre adoptante y adoptado y la filiación que pueda 
 
 #### Artículo 180
 
-La filiación es matrimonial cuando existe matrimonio entre los padres al tiempo de la concepción o del nacimiento del hijo.
+La filiación es matrimonial cuando existe matrimonio entre los progenitores al tiempo de la concepción o del nacimiento del hijo.
 
-Es también filiación matrimonial la del hijo cuyos padres contraen matrimonio con posterioridad a su nacimiento, siempre que la paternidad y la maternidad hayan estado previamente determinadas por los medios que este Código establece, o bien se determinen por reconocimiento realizado por ambos padres en el acto del matrimonio o durante su vigencia, en la forma prescrita por el artículo 187. Esta filiación matrimonial aprovechará, en su caso, a la posteridad del hijo fallecido.
+Es también filiación matrimonial la del hijo cuyos progenitores contraen matrimonio con posterioridad a su nacimiento, siempre que la filiación haya estado previamente determinada por los medios que este Código establece respecto de quienes contraen matrimonio, o bien se determine por reconocimiento realizado por ambos progenitores en el acto del matrimonio o durante su vigencia, en la forma prescrita por el artículo 187. Esta filiación matrimonial aprovechará, en su caso, a la posteridad del hijo fallecido.
 
 En los demás casos, la filiación es no matrimonial.
 
@@ -1104,7 +1132,7 @@ La acreditación de la filiación determinada se realizará conforme con las nor
 
 #### Artículo 182
 
-El padre y la madre del hijo concebido mediante la aplicación de técnicas de reproducción humana asistida son el hombre y la mujer que se sometieron a ellas.
+La filiación del hijo que nazca por la aplicación de técnicas de reproducción humana asistida, quedará determinada respecto de las dos personas que se hayan sometido a ellas.
 
 No podrá impugnarse la filiación determinada de acuerdo a la regla precedente, ni reclamarse una distinta.
 
@@ -1120,7 +1148,7 @@ En los demás casos la maternidad se determina por reconocimiento o sentencia fi
 
 #### Artículo 184
 
-Se presumen hijos del marido los nacidos después de la celebración del matrimonio y dentro de los trescientos días siguientes a su disolución o a la separación judicial de los cónyuges.
+Tratándose de cónyuges de distinto sexo, se presumen hijos del marido los nacidos después de la celebración del matrimonio y dentro de los trescientos días siguientes a su disolución o a la separación judicial de los cónyuges.
 
 No se aplicará esta presunción respecto del que nace antes de expirar los ciento ochenta días subsiguientes al matrimonio, si el marido no tuvo conocimiento de la preñez al tiempo de casarse y desconoce judicialmente su paternidad. La acción se ejercerá en el plazo y forma que se expresa en los artículos 212 y siguientes. Con todo, el marido no podrá ejercerla si por actos positivos ha reconocido al hijo después de nacido.
 
@@ -1132,9 +1160,9 @@ La paternidad así determinada o desconocida podrá ser impugnada o reclamada, r
 
 #### Artículo 185
 
-La filiación matrimonial queda determinada por el nacimiento del hijo durante el matrimonio de sus padres, con tal que la maternidad y la paternidad estén establecidas legalmente en conformidad con los artículos 183 y 184, respectivamente.
+La filiación matrimonial queda determinada por el nacimiento del hijo durante el matrimonio de sus progenitores, con tal que la maternidad o la paternidad de ambos estén establecidas legalmente en conformidad con los artículos 183 y 184, respectivamente.
 
-Tratándose del hijo nacido antes de casarse sus padres, la filiación matrimonial queda determinada por la celebración de ese matrimonio, siempre que la maternidad y la paternidad estén ya determinadas con arreglo al artículo 186 o, en caso contrario, por el último reconocimiento conforme a lo establecido en el párrafo siguiente.
+Tratándose del hijo nacido antes de casarse sus progenitores, la filiación matrimonial queda determinada por la celebración de ese matrimonio, siempre que la maternidad o la paternidad de ambos estén ya determinadas con arreglo al artículo 186 o, en caso contrario, por el último reconocimiento conforme a lo establecido en el párrafo siguiente.
 
 La filiación matrimonial podrá también determinarse por sentencia dictada en juicio de filiación, que se subinscribirá al margen de la inscripción de nacimiento del hijo.
 
@@ -1144,13 +1172,13 @@ matrimonial
 
 #### Artículo 186
 
-La filiación no matrimonial queda determinada legalmente por el reconocimiento del padre, la madre o ambos, o por sentencia firme en juicio de filiación.
+La filiación no matrimonial queda determinada legalmente por el reconocimiento de uno de los progenitores, o de ambos, o por sentencia firme en juicio de filiación.
 
 #### Artículo 187
 
-El reconocimiento del hijo tendrá lugar mediante una declaración formulada con ese determinado objeto por el padre, la madre o ambos, según los casos:
+El reconocimiento del hijo tendrá lugar mediante una declaración formulada con ese determinado objeto por alguno de sus progenitores o ambos, según los casos:
 
-1º. Ante el Oficial del Registro Civil, al momento de inscribirse el nacimiento del hijo o en el acto del matrimonio de los padres;
+1º. Ante el Oficial del Registro Civil, al momento de inscribirse el nacimiento del hijo o en el acto del matrimonio de los progenitores;
 
 2º. En acta extendida en cualquier tiempo, ante cualquier oficial del Registro Civil;
 
@@ -1158,13 +1186,13 @@ El reconocimiento del hijo tendrá lugar mediante una declaración formulada con
 
 4º. En acto testamentario.
 
-Si es uno solo de los padres el que reconoce, no será obligado a expresar la persona en quien o de quien tuvo al hijo.
+Si es uno solo de los progenitores el que reconoce, no será obligado a expresar la persona en quien o de quien tuvo al hijo.
 
 El reconocimiento que no conste en la inscripción de nacimiento del hijo, será subinscrito a su margen.
 
 #### Artículo 188
 
-El hecho de consignarse el nombre del padre o de la madre, a petición de cualquiera de ellos, al momento de practicarse la inscripción del nacimiento, es suficiente reconocimiento de filiación.
+El hecho de consignarse el nombre de alguno de los progenitores, a petición de cualquiera de ellos, al momento de practicarse la inscripción del nacimiento, es suficiente reconocimiento de filiación.
 
 > **Nota.** El N° 1 del Artículo 1° de la Ley 20030, publicada el 05.07.2005, deroga los incisos segundo, tercero y cuarto de la presente norma.
 
@@ -1286,21 +1314,21 @@ Sin embargo, se restituirán al padre o madre todos los derechos de los que est�
 
 #### Artículo 204
 
-La acción de reclamación de la filiación matrimonial corresponde exclusivamente al hijo, al padre o a la madre.
+La acción de reclamación de la filiación matrimonial corresponde exclusivamente al hijo, o a cualquiera de sus progenitores.
 
-En el caso de los hijos, la acción deberá entablarse conjuntamente contra ambos padres.
+En el caso de los hijos, la acción deberá entablarse conjuntamente contra ambos progenitores.
 
-Si la acción es ejercida por el padre o la madre, deberá el otro progenitor intervenir forzosamente en el juicio, so pena de nulidad.
+Si la acción es ejercida por uno de sus progenitores, el otro deberá intervenir forzosamente en el juicio, so pena de nulidad.
 
 #### Artículo 205
 
-La acción de reclamación de la filiación no matrimonial corresponde sólo al hijo contra su padre o su madre, o a cualquiera de éstos cuando el hijo tenga determinada una filiación diferente, para lo cual se sujetarán a lo dispuesto en el artículo 208.
+La acción de reclamación de la filiación no matrimonial corresponde sólo al hijo contra alguno de sus progenitores, o a cualquiera de éstos cuando el hijo tenga determinada una filiación diferente, para lo cual se sujetarán a lo dispuesto en el artículo 208.
 
 Podrá, asimismo, reclamar la filiación el representante legal del hijo incapaz, en interés de éste.
 
 #### Artículo 206
 
-Si el hijo es póstumo, o si alguno de los padres fallece dentro de los ciento ochenta días siguientes al parto, la acción podrá dirigirse en contra de los herederos del padre o de la madre fallecidos, dentro del plazo de tres años, contados desde su muerte o, si el hijo es incapaz, desde que éste haya alcanzado la plena capacidad.
+Si el hijo es póstumo, o si alguno de los progenitores fallece dentro de los ciento ochenta días siguientes al parto, la acción podrá dirigirse en contra de los herederos del progenitor fallecido, dentro del plazo de tres años, contados desde su muerte o, si el hijo es incapaz, desde que éste haya alcanzado la plena capacidad.
 
 #### Artículo 207
 
@@ -1440,25 +1468,27 @@ Mientras una nueva subinscripción relativa al cuidado personal no sea cancelada
 
 2. En el establecimiento del régimen y ejercicio del cuidado personal, se considerarán y ponderarán conjuntamente los siguientes criterios y circunstancias:
 
-a) La vinculación afectiva entre el hijo y sus padres, y demás personas de su entorno familiar.
+a) La vinculación afectiva entre el hijo y sus progenitores, y demás personas de su entorno familiar.
 
-b) La aptitud de los padres para garantizar el bienestar del hijo y la posibilidad de procurarle un entorno adecuado, según su edad.
+b) La aptitud de los progenitores para garantizar el bienestar del hijo y la posibilidad de procurarle un entorno adecuado, según su edad.
 
-c) La contribución a la mantención del hijo mientras estuvo bajo el cuidado personal del otro padre, pudiendo hacerlo.
+c) La contribución a la mantención del hijo mientras estuvo bajo el cuidado personal del otro progenitor, pudiendo hacerlo.
 
-d) La actitud de cada uno de los padres para cooperar con el otro, a fin de asegurar la máxima estabilidad al hijo y garantizar la relación directa y regular, para lo cual considerará especialmente lo dispuesto en el inciso quinto del artículo 229.
+d) La actitud de cada uno de los progenitores para cooperar con el otro, a fin de asegurar la máxima estabilidad al hijo y garantizar la relación directa y regular, para lo cual considerará especialmente lo dispuesto en el inciso quinto del artículo 229.
 
-e) La dedicación efectiva que cada uno de los padres procuraba al hijo antes de la separación y, especialmente, la que pueda seguir desarrollando de acuerdo con sus posibilidades.
+e) La dedicación efectiva que cada uno de los progenitores procuraba al hijo antes de la separación y, especialmente, la que pueda seguir desarrollando de acuerdo con sus posibilidades.
 
 f) La opinión expresada por el hijo.
 
 g) El resultado de los informes periciales que se haya ordenado practicar.
 
-h) Los acuerdos de los padres antes y durante el respectivo juicio.
+h) Los acuerdos de los progenitores antes y durante el respectivo juicio.
 
-i) El domicilio de los padres.
+i) El domicilio de los progenitores.
 
 j) Cualquier otro antecedente que sea relevante atendido el interés superior del hijo.
+
+En ningún caso el establecimiento del régimen del cuidado personal podrá fundarse en razón de la raza o etnia, la nacionalidad, la orientación sexual, la identidad o expresión de género, la apariencia personal o cualquier otra categoría que resulte discriminatoria.
 
 #### Artículo 226
 
@@ -1938,7 +1968,7 @@ Podrán rechazarse los antedichos documentos, aun cuando conste su autenticidad 
 
 #### Artículo 308
 
-Los antedichos documentos atestiguan la declaración hecha por los contrayentes de matrimonio, por los padres, padrinos u otras personas en los respectivos casos, pero no garantizan la veracidad de esta declaración en ninguna de sus partes.
+Los antedichos documentos atestiguan la declaración hecha por los contrayentes de matrimonio, por los progenitores, padrinos u otras personas en los respectivos casos, pero no garantizan la veracidad de esta declaración en ninguna de sus partes.
 
 Podrán, pues, impugnarse, haciendo constar que fue falsa la declaración en el punto de que se trata.
 
@@ -1950,7 +1980,7 @@ La filiación, a falta de partida o subinscripción, sólo podrá acreditarse o 
 
 #### Artículo 310
 
-La posesión notoria del estado de matrimonio consiste principalmente en haberse tratado los supuestos cónyuges como marido y mujer en sus relaciones domésticas y sociales; y en haber sido la mujer recibida en ese carácter por los deudos y amigos de su marido, y por el vecindario de su domicilio en general.
+La posesión notoria del estado de matrimonio consiste principalmente en haberse tratado los supuestos cónyuges como tales en sus relaciones domésticas y sociales; y en haber sido uno de los cónyuges recibido en ese carácter por los deudos y amigos del otro, y por el vecindario de su domicilio en general.
 
 #### Artículo 311
 
@@ -6114,7 +6144,7 @@ Habiendo un solo ascendiente en el grado más próximo, sucederá éste en todos
 
 Si el difunto no hubiere dejado descendientes, ni ascendientes, ni cónyuge, le sucederán sus hermanos.
 
-Entre los hermanos de que habla este artículo se comprenderán aun los que solamente lo sean por parte de padre o de madre; pero la porción del hermano paterno o materno será la mitad de la porción del hermano carnal.
+Entre los hermanos de que habla este artículo se comprenderán los de simple y doble conjunción, pero la porción de los primeros será la mitad que la que corresponda a los segundos.
 
 #### Artículo 991
 
@@ -6124,7 +6154,7 @@ Derogado.
 
 A falta de descendientes, ascendientes, cónyuge y hermanos, sucederán al difunto los otros colaterales de grado más próximo, sean de simple o doble conjunción, hasta el sexto grado inclusive.
 
-Los colaterales de simple conjunción, esto es, los que sólo son parientes del difunto por parte de padre o por parte de madre, tendrán derecho a la mitad de la porción de los colaterales de doble conjunción, esto es, los que a la vez son parientes del difunto por parte de padre y por parte de madre. El colateral o los colaterales del grado más próximo excluirán siempre a los otros.
+Los colaterales de simple conjunción, esto es, los que sólo son parientes del difunto por parte de uno de los progenitores, tendrán derecho a la mitad de la porción de los colaterales de doble conjunción, esto es, los que a la vez son parientes del difunto por parte de ambos progenitores. El colateral o los colaterales del grado más próximo excluirán siempre a los otros.
 
 #### Artículo 993
 
@@ -6132,9 +6162,9 @@ Derogado.
 
 #### Artículo 994
 
-El cónyuge separado judicialmente, que hubiere dado motivo a la separación por su culpa, no tendrá parte alguna en la herencia abintestato de su mujer o marido.
+El cónyuge separado judicialmente, que hubiere dado motivo a la separación por su culpa, no tendrá parte alguna en la herencia abintestato de su cónyuge.
 
-Tampoco sucederán abintestato los padres del causante si la paternidad o maternidad ha sido determinada judicialmente contra su oposición, salvo que mediare el restablecimiento a que se refiere el artículo 203.
+Tampoco sucederán abintestato los progenitores del causante si la paternidad o maternidad ha sido determinada judicialmente contra su oposición, salvo que mediare el restablecimiento a que se refiere el artículo 203.
 
 #### Artículo 995
 
@@ -6174,7 +6204,7 @@ El testamento es un acto más o menos solemne, en que una persona dispone del to
 
 #### Artículo 1000
 
-Toda donación o promesa que no se haga perfecta e irrevocable sino por la muerte del donante o promisor, es un testamento, y debe sujetarse a las mismas solemnidades que el testamento. Exceptúanse las donaciones o promesas entre marido y mujer, las cuales, aunque revocables, podrán hacerse bajo la forma de los contratos entre vivos.
+Toda donación o promesa que no se haga perfecta e irrevocable sino por la muerte del donante o promisor, es un testamento, y debe sujetarse a las mismas solemnidades que el testamento. Exceptúanse las donaciones o promesas entre cónyuges, las cuales, aunque revocables, podrán hacerse bajo la forma de los contratos entre vivos.
 
 #### Artículo 1001
 
@@ -7706,7 +7736,7 @@ Si el difunto ha tenido parte en una sociedad, y por una cláusula del contrato 
 
 #### Artículo 1255
 
-Tendrán derecho de asistir al inventario el albacea, el curador de la herencia yacente, los herederos presuntos testamentarios o abintestato, los legatarios, los socios de comercio, los fideicomisarios y todo acreedor hereditario que presente el título de su crédito. Las personas antedichas podrán ser representadas por otras que exhiban escritura pública o privada en que se les cometa este encargo, cuando no lo fueren por sus maridos, tutores, curadores o cualesquiera otros legítimos representantes.
+Tendrán derecho de asistir al inventario el albacea, el curador de la herencia yacente, los herederos presuntos testamentarios o abintestato, los legatarios, los socios de comercio, los fideicomisarios y todo acreedor hereditario que presente el título de su crédito. Las personas antedichas podrán ser representadas por otras que exhiban escritura pública o privada en que se les cometa este encargo, cuando no lo fueren por sus cónyuges, tutores, curadores o cualesquiera otros legítimos representantes.
 
 Todas estas personas tendrán derecho de reclamar contra el inventario en lo que les pareciere inexacto.
 
@@ -10420,7 +10450,9 @@ DE LAS CONVENCIONES MATRIMONIALES Y DE LA SOCIEDAD CONYUGAL
 
 Se conocen con el nombre de capitulaciones matrimoniales las convenciones de carácter patrimonial que celebren los esposos antes de contraer matrimonio o en el acto de su celebración.
 
-En las capitulaciones matrimoniales que se celebren en el acto del matrimonio, sólo podrá pactarse separación total de bienes o régimen de participación en los gananciales.
+En las capitulaciones matrimoniales que se celebren en el acto del matrimonio, sólo podrá pactarse separación total de bienes o régimen de participación en los gananciales. Tratándose de cónyuges del mismo sexo se estará a lo dispuesto en el inciso siguiente.
+
+Los esposos del mismo sexo podrán celebrar capitulaciones matrimoniales, pero en caso alguno podrán pactar el régimen de sociedad conyugal.
 
 #### Artículo 1716
 
@@ -10960,7 +10992,7 @@ Los cónyuges podrán, con sujeción a lo dispuesto en el artículo 1723 de ese 
 
 #### Artículo 1792
 
-2. En el régimen de participación en los gananciales los patrimonios del marido y de la mujer se mantienen separados y cada uno de los cónyuges administra, goza y dispone libremente de lo suyo. Al finalizar la vigencia del régimen de bienes, se compensa el valor de los gananciales obtenidos por los cónyuges y éstos tienen derecho a participar por mitades en el excedente.
+2. En el régimen de participación en los gananciales los patrimonios de los cónyuges se mantienen separados y cada uno de los cónyuges administra, goza y dispone libremente de lo suyo. Al finalizar la vigencia del régimen de bienes, se compensa el valor de los gananciales obtenidos por los cónyuges y éstos tienen derecho a participar por mitades en el excedente.
 
 Los principios anteriores rigen en la forma y con las limitaciones señaladas en los artículos siguientes y en el párrafo I del Título VI del Libro Primero del Código Civil.
 
@@ -12642,7 +12674,7 @@ En los casos en que se suceda por líneas y con derecho de representación, toda
 
 #### Artículo 2049
 
-Concurriendo hijos concebidos o nacidos en matrimonio con hijos nacidos antes del matrimonio de sus padres, se contará la edad de estos últimos desde el día del matrimonio. Concurriendo entre sí hijos nacidos antes del matrimonio, se contará la edad de cada uno de ellos desde el día de su nacimiento.
+Concurriendo hijos concebidos o nacidos en matrimonio con hijos nacidos antes del matrimonio de sus progenitores, se contará la edad de estos últimos desde el día del matrimonio. Concurriendo entre sí hijos nacidos antes del matrimonio, se contará la edad de cada uno de ellos desde el día de su nacimiento.
 
 #### Artículo 2050
 
@@ -13882,7 +13914,7 @@ Hay dolo en el que hace la apuesta, si sabe de cierto que se ha de verificar o s
 
 #### Artículo 2262
 
-Lo pagado por personas que no tienen la libre administración de sus bienes, podrá repetirse en todo caso por los respectivos padres de familia, tutores o curadores.
+Lo pagado por personas que no tienen la libre administración de sus bienes, podrá repetirse en todo caso por quien tenga la patria potestad, tutores o curadores.
 
 #### Artículo 2263
 
@@ -14190,7 +14222,7 @@ Queda a la prudencia del juez determinar si el menor de dieciséis años ha come
 
 Toda persona es responsable no sólo de sus propias acciones, sino del hecho de aquellos que estuvieren a su cuidado.
 
-Así el padre, y a falta de éste la madre, es responsable del hecho de los hijos menores que habiten en la misma casa.
+Así los progenitores son responsables del hecho de los hijos menores que habiten en la misma casa.
 
 Así el tutor o curador es responsable de la conducta del pupilo que vive bajo su dependencia y cuidado.
 
@@ -14200,7 +14232,7 @@ Pero cesará la obligación de esas personas si con la autoridad y el cuidado qu
 
 #### Artículo 2321
 
-Los padres serán siempre responsables de los delitos o cuasidelitos cometidos por sus hijos menores, y que conocidamente provengan de mala educación, o de los hábitos viciosos que les han dejado adquirir.
+Los progenitores serán siempre responsables de los delitos o cuasidelitos cometidos por sus hijos menores, y que conocidamente provengan de mala educación, o de los hábitos viciosos que les han dejado adquirir.
 
 #### Artículo 2322
 
@@ -15640,6 +15672,84 @@ Las rectificaciones ordenadas administrativamente estarán exentas de impuesto.
 
 Estas rectificaciones se practicarán de acuerdo con lo dispuesto en el artículo 104 del Reglamento Orgánico del Registro Civil, aprobado por Decreto con Fuerza de Ley N.º 2.128, de 10 de agosto de 1930.
 
+#### Artículo 17 bis
+
+Toda persona mayor de edad podrá, por una sola vez, y en la forma que dispone el presente artículo, solicitar ante el Servicio de Registro Civil e Identificación el cambio de orden de apellidos determinados en su inscripción de nacimiento.
+
+La solicitud a que se refiere el inciso anterior deberá indicar el nuevo orden de los apellidos con los que quiere ser identificada la persona requirente, así como la petición expresa de rectificar los registros con que se le hubiera identificado en el Servicio de Registro Civil e Identificación, cualquiera sea el soporte en que éstos se conserven en dicho Servicio.
+
+Tratándose de extranjeros, sólo podrán solicitar el cambio del orden de sus apellidos para efectos de la emisión o para la rectificación de sus documentos chilenos, cumpliendo los requisitos establecidos en esta ley y acompañando documentación que acredite su permanencia en Chile. Para ello, deberán inscribir previamente su nacimiento en la oficina de Santiago del Servicio de Registro Civil e Identificación.
+
+Sin perjuicio de lo señalado en los incisos precedentes, no podrán solicitar el cambio de orden de los apellidos de que trata el presente artículo, las personas que se encontraren actualmente procesadas o formalizadas, o existieren a su respecto órdenes de arresto o detención pendientes o se encontraren sujetas a otras medidas cautelares personales, o hubieren sido condenadas por crimen o simple delito que merezca pena aflictiva, sin perjuicio de la posibilidad de efectuar el correspondiente requerimiento en conformidad a las normas contenidas en la ley N° 17.344, que autoriza cambio de nombres y apellidos en los casos que indica y modifica ley N° 4.808, sobre Registro Civil, cuyo texto refundido, coordinado y sistematizado fue fijado por el artículo 4° del decreto con fuerza de ley N° 1, de 2000, del Ministerio de Justicia, siempre que no se trate de personas condenadas por alguno de los delitos establecidos en los Párrafos V y VI del Título Séptimo del Libro Segundo del Código Penal.
+
+Ingresada la solicitud ante el Servicio de Registro Civil e Identificación, se procederá a verificar la identidad del solicitante a través de la cédula de identidad vigente o, en caso de que fuere necesario, de la huella dactilar, o de acuerdo al procedimiento previsto en el artículo 92 del decreto con fuerza de ley N° 2.128, de 1930, del Ministerio de Justicia, que aprueba el reglamento orgánico del Servicio de Registro Civil. En el caso del solicitante extranjero, se verificará que cumpla con los requisitos señalados en los incisos tercero y cuarto del presente artículo.
+
+Del mismo modo, el Director Nacional del Servicio de Registro Civil e Identificación oficiará a Carabineros de Chile, a la Policía de Investigaciones de Chile y al Ministerio Público, con el objeto de que informen si el requirente se encuentra actualmente procesado o formalizado, o tuviere condenas pendientes, o existieren a su respecto órdenes de arresto o detención pendientes o se encontrare sujeto a otras medidas cautelares personales. A su vez, el Director Nacional del Servicio de Registro Civil e Identificación dispondrá que se revise la información del Registro General de Condenas y del Prontuario, regulados en el decreto ley N° 645, de 1925, del Ministerio de Justicia, con objeto de verificar si el solicitante registra condenas, de lo cual se deberá dejar constancia en el expediente de la solicitud.
+
+Una vez que cuente con los informes a que alude el inciso precedente, el Director Nacional del Servicio de Registro Civil e Identificación deberá dictar la correspondiente orden de servicio, la que podrá acoger, rechazar o declarar inadmisible la solicitud. Además de las circunstancias dispuestas en los incisos precedentes, la solicitud será rechazada cuando el requirente no acredite su identidad o el cumplimiento de los requisitos indicados en el presente artículo. Las resoluciones contendrán la decisión, que será fundada. De conformidad con lo dispuesto en el inciso cuarto del artículo 41 de la ley N° 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado, las resoluciones expresarán los recursos que contra la misma procedan, órgano administrativo o judicial ante el que hubieran de presentarse y plazo para interponerlos, sin perjuicio de que los interesados puedan ejercitar cualquier otro que estimen oportuno.
+
+El Director Nacional del Servicio de Registro Civil e Identificación declarará inadmisible la solicitud realizada por una persona que no hubiere alcanzado la mayoría de edad o cuando el solicitante se encontrare actualmente procesado o formalizado, o existieren a su respecto órdenes de arresto o detención pendientes o se encontrare sujeto a otras medidas cautelares personales, o hubiere sido condenado por crimen o simple delito que merezca pena aflictiva, caso en el cual deberá informarle acerca del procedimiento contenido en la ley N° 17.344. Asimismo, declarará inadmisible la solicitud cuando el solicitante hubiere sido condenado por alguno de los delitos establecidos en los Párrafos V y VI del Título Séptimo del Libro Segundo del Código Penal, no procediendo en este caso el procedimiento contenido en la ley N° 17.344.
+
+#### Artículo 17 ter
+
+Acogida la solicitud del requirente, el Servicio de Registro Civil e Identificación procederá a practicar las modificaciones y subinscripciones pertinentes, tras lo cual se emitirán los nuevos documentos identificatorios.
+
+Para tales efectos, se citará a la persona interesada para que concurra de manera personal a retirar los nuevos documentos de identidad, los que reemplazarán, para todos los efectos legales, a los documentos de identidad anteriores.
+
+Los documentos de identidad originales no podrán ser usados, solicitados o exhibidos bajo ninguna circunstancia y en ninguna entidad pública o privada, sin perjuicio de lo dispuesto en la ley N° 19.628, sobre protección de la vida privada.
+
+La rectificación de la partida de nacimiento y de los documentos de identificación no afectará el número del rol único nacional del solicitante, el cual se mantendrá para todos los efectos legales.
+
+El cambio del orden de los apellidos sólo operará respecto del solicitante, sin que resulte extensivo a los ascendientes, y no alterará la filiación. Por su parte, el cambio del orden de los apellidos del solicitante provocará el cambio del respectivo apellido de transmisión a los hijos menores de edad, debiendo procederse por igual respecto de todos ellos. Sin perjuicio de lo anterior, si el solicitante tuviere uno o más hijos mayores de 14 y menores de 18 años de edad, éstos deberán manifestar su consentimiento, mediante declaración escrita extendida ante el Oficial del Servicio de Registro Civil e Identificación, caso en el cual también se deberá proceder por igual respecto de todos los hijos menores de edad. Cuando en tales términos corresponda proceder con el cambio del respectivo apellido de transmisión a los hijos menores de edad, el Director Nacional del Servicio de Registro Civil e Identificación, en la orden de servicio por la que acoja la solicitud de cambio del orden de los apellidos del solicitante, además deberá ordenar las correspondientes rectificaciones en las partidas de nacimiento de todos los hijos menores de edad, procediéndose con las modificaciones, subinscripciones pertinentes, emisión de nuevos documentos identificatorios e informes a instituciones, de conformidad con las reglas del presente artículo.
+
+Los hijos mayores de edad de quien obtenga el cambio del orden de sus apellidos por el procedimiento de esta ley o mediante el procedimiento de la ley N° 17.344, que autoriza el cambio de nombres y apellidos, podrán solicitar ante el Servicio de Registro Civil e Identificación el cambio del respectivo apellido de transmisión, caso en el cual se procederá con la rectificación en la partida de nacimiento; modificaciones, subinscripciones pertinentes, emisión de nuevos documentos identificatorios e informes a instituciones, de conformidad con las reglas del presente artículo.
+
+El Servicio de Registro Civil e Identificación informará de la rectificación de la partida de nacimiento y de la emisión de nuevos documentos, especialmente, a las siguientes instituciones, cuando corresponda:
+
+a) Al Servicio Electoral.
+
+b) Al Servicio de Impuestos Internos.
+
+c) A la Tesorería General de la República.
+
+d) A la Policía de Investigaciones de Chile.
+
+e) A Carabineros de Chile.
+
+f) A Gendarmería de Chile.
+
+g) A la Superintendencia de Salud, a fin de que ésta informe a la Institución de Salud Previsional en la cual cotice el o la solicitante, la que deberá consignar el nuevo orden de los apellidos del cotizante registrado por dicha institución.
+
+h) A la Superintendencia de Pensiones, a fin de que ésta informe a la respectiva Administradora de Fondos de Pensiones o al Instituto de Previsión Social, según donde cotice el o la solicitante, del cambio de orden de sus apellidos, el que deberá ser registrado por la respectiva institución previsional.
+
+i) Al Fondo Nacional de Salud, a fin de que éste registre el cambio de orden de los apellidos de la persona solicitante.
+
+j) Al Ministerio de Educación.
+
+k) Al Consejo de Rectores de las Universidades Chilenas (CRUCH).
+
+l) A la Corporación de Universidades Privadas (CUP).
+
+m) Al Consejo de Instituciones Privadas de Formación Superior (CONIFOS).
+
+n) A las asociaciones de notarios, conservadores y archiveros judiciales, para que éstas informen a sus asociados del cambio de orden de los apellidos de la persona solicitante.
+
+ñ) A los municipios.
+
+La persona interesada podrá solicitar fundadamente al Servicio de Registro Civil e Identificación que se informe de la rectificación de la partida de nacimiento y de la emisión de nuevos documentos a otra institución pública o privada, indicando las razones que justifican dicha comunicación.
+
+Toda información o comunicación entre instituciones, sean públicas o privadas, deberá ser tratada conforme a la ley N° 19.628, sobre protección de la vida privada.
+
+#### Artículo 17 quáter
+
+Los efectos jurídicos de la rectificación del orden de los apellidos del solicitante realizada en virtud de lo dispuesto en los artículos 17 bis y 17 ter precedentes, serán oponibles a terceros desde el momento en que se extienda la inscripción rectificada en conformidad al artículo 104 del decreto con fuerza de ley N° 2.128, de 1930, del Ministerio de Justicia, que aprueba el reglamento orgánico del Servicio de Registro Civil. Una vez rectificada la partida, el solicitante que haya obtenido el cambio de orden de sus apellidos sólo podrá usar en el futuro, en todas sus actuaciones, sus apellidos en la forma en que han sido rectificados. Sin perjuicio de lo anterior, la rectificación correspondiente se publicará a costa del solicitante, en extracto en el Diario Oficial de los días 1 o 15 del mes o al día siguiente hábil si no circulare en esas fechas. El extracto contendrá necesariamente la individualización del solicitante y la indicación de los apellidos que usará.
+
+La rectificación en la partida de nacimiento no afectará la titularidad de los derechos y obligaciones patrimoniales que pudieran corresponder a la persona con anterioridad a la inscripción del cambio, ni afectará las provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, las que se mantendrán inmodificables.
+
+La rectificación en la partida de nacimiento tampoco afectará las garantías, derechos y las prestaciones de salud u otras que pudieran corresponder a la persona con anterioridad a la inscripción del cambio.
+
+El uso de los apellidos en el orden primitivo y la utilización de los apellidos en la forma en que han sido rectificados para eximirse, impedir, dificultar o eludir el cumplimiento de cualquier obligación, serán sancionados con la pena de presidio menor en su grado mínimo.
+
 #### Artículo 18
 
 Sólo podrán pedir rectificación de una inscripción las personas a que ésta se refiera, sus representantes legales o sus herederos.
@@ -15786,7 +15896,7 @@ Las partidas de nacimiento deberán contener, además de las indicaciones comune
 
 2.º El sexo del recién nacido;
 
-3.º El nombre y apellido del nacido, que indique la persona que requiere la inscripción;
+3º El o los nombres del nacido, que indique la persona que requiere la inscripción, y el o los apellidos del nacido que correspondan, de conformidad con las disposiciones del Párrafo 2 del Título I del Libro I del Código Civil. Tratándose de la inscripción de un nacido cuya filiación no se encuentre determinada, se inscribirá con el o los apellidos que indique la persona que requiere la inscripción;
 
 4.º Los nombres, apellidos, nacionalidad, profesión u oficio y domicilio de los padres, o los del padre o madre que le reconozca o haya reconocido. Se dejará constancia de los nombres y apellidos de la madre, aunque no haya reconocimiento, cuando la declaración del requirente coincida con el comprobante del médico que haya asistido al parto, en lo concerniente a las identidades del nacido y de la mujer que lo dio a luz.
 
@@ -15848,7 +15958,7 @@ El Oficial del Registro Civil manifestará, también, a los contrayentes, que pu
 
 Las inscripciones de matrimonios celebrados ante un oficial del Registro Civil , sin perjuicio de las indicaciones comunes a toda inscripción, deberán contener:
 
-1.º El nombre y apellidos paterno y materno de cada uno de los contrayentes y el lugar en que se celebre;
+1.º El nombre y apellidos de cada uno de los contrayentes y el lugar en que se celebre;
 
 2.º El lugar y fecha de su nacimiento;
 
@@ -15878,8 +15988,6 @@ Las inscripciones de matrimonios celebrados ante un oficial del Registro Civil ,
 
 Si alguno de los contrayentes no supiere o no pudiere firmar, se dejará testimonio de esta circunstancia, sin perjuicio de lo dispuesto en el número 5.º del artículo 12.
 
-> **Nota.** El Art. final de la LEY 19947, publicada el 17.05.2004, establece que las modificaciones efectuadas a este artículo entrarán en vigencia seis meses después de su publicación.
-
 #### Artículo 40
 
 Son requisitos esenciales de la inscripción de un matrimonio, los indicados en los números 1 del artículo 12, y 1, 7 y 14 del artículo 39.
@@ -15894,7 +16002,7 @@ En el caso de las entidades religiosas reconocidas por el artículo 20 de la ley
 
 2º La fecha y el lugar de la celebración del matrimonio;
 
-3º El nombre y los apellidos paterno y materno de los contrayentes, así como sus números de cédula de identidad;
+3º El nombre y los apellidos de los contrayentes, así como sus números de cédula de identidad;
 
 4º La fecha y el lugar de nacimiento de los contrayentes;
 
@@ -15915,8 +16023,6 @@ En el caso de las entidades religiosas reconocidas por el artículo 20 de la ley
 Si alguno de los contrayentes no supiere o no pudiere firmar, se dejará testimonio de esta circunstancia.
 
 Deberá adjuntarse al acta el documento que acredite la personería del ministro de culto respectivo.
-
-> **Nota.** El Art. final de la LEY 19947, publicada el 17.05.2004, establece que la incorporación de este artículo entrará en vigencia seis meses después de su publicación.
 
 #### Artículo 40 ter
 
@@ -16066,11 +16172,15 @@ Toda persona tiene derecho a usar los nombres y apellidos con que haya sido indi
 
 Sin perjuicio de los casos en que las leyes autorizan la rectificación de inscripciones del Registro Civil, o el uso de nombres y apellidos distintos de los originarios a consecuencia de una legitimación, legitimación adoptiva o adopción, cualquiera persona podrá solicitar, por una sola vez, que se la autorice para cambiar sus nombres o apellidos, o ambos a la vez, en los casos siguientes:
 
-a) Cuando unos u otros sean ridículos, risibles o la menoscaben moral o materialmente;
+a) Cuando unos u otros sean ridículos, risibles o la menoscaben moral o materialmente.
 
-b) Cuando el solicitante haya sido conocido durante más de cinco años, por motivos plausibles, con nombres o apellidos, o ambos, diferentes de los propios, y
+b) Cuando el solicitante haya sido conocido durante más de cinco años, por motivos plausibles, con nombres o apellidos, o ambos, diferentes de los propios.
 
 c) En los casos de filiación no matrimonial o en que no se encuentre determinada la filiación, para agregar un apellido cuando la persona hubiera sido inscrita con uno solo o para cambiar uno de los que se hubieren impuesto al nacido, cuando fueren iguales.
+
+d) Cuando el solicitante desee invertir el orden de los apellidos fijado en su inscripción de nacimiento.
+
+e) Cuando el solicitante desee usar uno u otro apellido de un ascendiente en línea recta hasta el segundo grado.
 
 En los casos en que una persona haya sido conocida durante más de cinco años, con uno o más de los nombres propios que figuran en su partida de nacimiento, el titular podrá solicitar que se supriman en la inscripción, en la de su matrimonio y en las de nacimiento de sus descendientes menores de edad, en su caso, el o los nombres que no hubiere usado.
 
@@ -16080,7 +16190,9 @@ Si se tratare de un menor de edad que careciere de representante legal o, si ten
 
 #### Artículo 2
 
-º Será juez competente para conocer de las gestiones a que se refiere la presente ley, el Juez de Letras de Mayor o Menor Cuantía en lo Civil del domicilio del peticionario.
+º Será juez competente para conocer de las gestiones a que se refiere la presente ley, el Juez de Letras en lo Civil del domicilio del peticionario.
+
+El tribunal, al proveer la solicitud de una persona mayor de 18 años de edad, le informará del procedimiento administrativo para solicitar el cambio del orden de los apellidos ante el Servicio de Registro Civil e Identificación, regulado en los artículos 17 bis, 17 ter y 17 quáter de la ley N° 4.808, sobre Registro Civil.
 
 La solicitud correspondiente deberá publicarse en extracto en el Diario Oficial de los días 1º ó 15 de cada mes, o al día siguiente hábil si dicho Diario no apareciere en las fechas indicadas.
 
@@ -16090,9 +16202,9 @@ Dentro del término de treinta días, contados desde la fecha del aviso, cualqui
 
 Si no hubiere oposición, el tribunal procederá con conocimiento de causa, previa información sumaria.
 
-En todo caso será obligatorio oír a la Dirección General del Registro Civil e Identificación.
+En todo caso será obligatorio oír a la Dirección General del Registro Civil e Identificación. La Dirección deberá informar si el solicitante registra condenas, los datos de las partidas de nacimiento de cada uno de sus hijos, los datos de su cónyuge o de la persona con quien se encuentre unida por acuerdo de unión civil, y todo otro antecedente que resultare relevante. Asimismo, el tribunal requerirá informe de Carabineros de Chile, de la Policía de Investigaciones de Chile y del Ministerio Público, con el objeto de que informen si el solicitante se encuentra actualmente procesado o formalizado, o tuviere condenas pendientes, o existieren a su respecto órdenes de arresto o detención pendientes o se encontrare sujeto a otras medidas cautelares personales.
 
-No se autorizará el cambio de nombre o apellido o supresión de nombres propios si el respectivo extracto de filiación que como parte de su informe remitirá la Dirección, apareciere que el solicitante se encuentra actualmente procesado o ha sido condenado por crimen o simple delito que merezca pena aflictiva, a menos que en este último caso hubieren transcurrido más de diez años contados desde la fecha en que quedó ejecutoriada la sentencia de condena y se encuentre cumplida la pena.
+No se autorizará el cambio de nombre o apellido o supresión de nombres propios si del respectivo extracto de filiación que como parte de su informe remitirá la Dirección, y de los informes de Carabineros de Chile, de la Policía de Investigaciones de Chile y del Ministerio Público, apareciere que el solicitante se encuentra actualmente procesado o formalizado, o existen a su respecto órdenes de arresto o detención pendientes o se encuentra sujeto a otras medidas cautelares personales, o ha sido condenado por crimen o simple delito que merezca pena aflictiva, a menos que, en este último caso, hubieren transcurrido más de diez años contados desde la fecha en que quedó ejecutoriada la sentencia de condena y se encuentre cumplida la pena. En ningún caso se autorizará el cambio o supresión cuando el solicitante hubiere sido condenado por alguno de los delitos establecidos en los Párrafos V y VI del Título Séptimo del Libro Segundo del Código Penal, sin que proceda en este caso el procedimiento contenido en esta ley. Tampoco se autorizará el cambio o supresión cuando, de los antecedentes que obran en el proceso, el juez aprecie que existe riesgo de que se pueda afectar la seguridad de otras personas, o que existe riesgo de que se pueda afectar el desarrollo de procesos pendientes, o que existe riesgo de que se puedan cometer fraudes.
 
 No será necesaria la publicación a que se refiere el inciso segundo del presente artículo, ni se admitirá oposición en el caso del inciso tercero del artículo 1º.
 
@@ -16104,6 +16216,8 @@ La publicación que deba efectuarse en el Diario Oficial será gratuita.
 
 Para estos efectos, tratándose de personas nacidas en el extranjero y cuyo nacimiento no está inscrito en Chile, será necesario proceder previamente a la inscripción del nacimiento en el Registro de la Primera Sección de la comuna de Santiago.
 
+Cuando el tribunal autorice el cambio de nombres o apellidos, o de ambos a la vez, o la supresión, de una persona que hubiere sido condenada por crimen o simple delito que merezca pena aflictiva, en la misma sentencia ordenará al Servicio de Registro Civil e Identificación que proceda a actualizar los datos del solicitante contenidos en el Registro General de Condenas y el Prontuario, regulados en el decreto ley N° 645, de 1925, del Ministerio de Justicia.
+
 #### Artículo 4
 
 º Una vez modificada la partida de nacimiento, la persona que haya cambiado su nombre o apellidos de acuerdo con lo que establecen los artículos anteriores sólo podrá usar, en el futuro, en todas sus actuaciones, su nuevo nombre propio o apellidos, en la forma ordenada por el juez.
@@ -16112,9 +16226,11 @@ El cambio de apellido no podrá hacerse extensivo a los padres del solicitante, 
 
 Si el solicitante es casado o tiene descendientes menores de edad, deberá pedir también, en el mismo acto en que solicite el cambio de su apellido, la modificación pertinente en su partida de matrimonio y en las partidas de nacimiento de sus hijos.
 
+El cambio del orden de los apellidos, que se autorice con arreglo al literal d) del artículo 1° sólo operará respecto del solicitante, sin que resulte extensivo a los ascendientes, y no alterará la filiación. Por su parte, el cambio del orden de los apellidos del solicitante provocará el cambio del respectivo apellido de transmisión a los hijos menores de edad, debiendo procederse por igual respecto de todos ellos. Sin perjuicio de lo anterior, si el solicitante tuviere uno o más hijos mayores de 14 y menores de 18 años de edad, éstos deberán manifestar su consentimiento mediante declaración escrita extendida ante el tribunal, caso en el cual también se deberá proceder por igual respecto de todos los hijos menores de edad. Para estos efectos, el solicitante deberá pedir también, en el mismo acto en que solicite el cambio del orden de sus apellidos, la modificación pertinente en las partidas de nacimiento de sus hijos menores de edad, debiendo manifestarse el consentimiento de todos los hijos mayores de 14 y menores de 18 años de edad, si fuere el caso. En la sentencia que autorice el cambio de orden de los apellidos, el tribunal informará de la posibilidad de solicitar el cambio del respectivo apellido de transmisión por los hijos mayores de edad de quien obtuvo el cambio de orden de los apellidos, ante el Servicio de Registro Civil e Identificación, conforme lo dispuesto en el inciso sexto del artículo 17 ter de la ley N° 4.808, sobre Registro Civil.
+
 #### Artículo 5
 
-º El uso malicioso de los primitivos nombres o apellidos y la utilización fraudulenta del nuevo nombre o apellido para eximirse del cumplimiento de obligaciones contraídas con anterioridad al cambio de ellos, serán sancionados con la pena de presidio menor en su grado mínimo.
+º El uso de los primitivos nombres o apellidos y la utilización del nuevo nombre o apellido para eximirse, impedir, dificultar o eludir el cumplimiento de cualquier obligación, serán sancionados con la pena de presidio menor en su grado mínimo.
 
 #### Artículo 6
 
@@ -17080,7 +17196,7 @@ En el caso de los incisos segundo y tercero del artículo 5.º, se procederá a 
 
 #### Artículo 17
 
-Los bienes que a virtud de una transacción se reconozcan en favor de personas que sustenten derechos a la herencia, se estimarán para todos los efectos de esta ley, como adquiridos por sucesión por causa de muerte.
+Los bienes que a virtud de una transacción se reconozcan en favor de personas que sustenten derechos a la herencia y las sumas que tengan derecho a recibir los beneficiarios de seguros de vida con ocasión de la muerte del asegurado, se estimarán para todos los efectos de esta ley, como adquiridos por sucesión por causa de muerte.
 
 También se considerarán adquiridos por sucesión por causa de muerte los bienes dado en pago a título de renta vitalicia a personas que, a la fecha de la delación de la herencia, sean herederos del rentista, siempre que el instrumento constitutivo de la pensión se haya suscrito dentro de los cinco años anteriores a la fecha del fallecimiento del causante. El impuesto se devengará al fallecimiento del causante, se calculará sobre el valor total de los bienes dados en pago por la renta vitalicia, con deducción del impuesto que se hubiere pagado por la constitución de la renta vitalicia y se pagará de acuerdo con las normas de esta ley.
 
@@ -17122,7 +17238,7 @@ Quedan derogadas todas las disposiciones legales que establezcan exenciones no c
 
 #### Artículo 20
 
-Las disposiciones de la presente ley no afectarán a los seguros de vida, a las cuotas mortuorias, ni a los desgravámenes hipotecarios establecidos en forma de seguro de vida.
+Las disposiciones de la presente ley no afectarán al seguro de invalidez y sobrevivencia señalado en el decreto ley N° 3.500, de 1980, a las cuotas mortuorias, ni a los desgravámenes hipotecarios establecidos en forma de seguro de vida.
 
 ## Capítulo III
 
@@ -17426,7 +17542,9 @@ INCISO DEROGADO
 
 #### Artículo 54
 
-Los notarios no podrán autorizar las escrituras públicas de adjudicaciones de bienes hereditarios o de enajenaciones o disposiciones en común, que hagan los asignatarios, ni los Conservadores inscribirlas, sin que en ellas se inserte el comprobante de pago de impuesto, a menos que la adjudicación se hubiere hecho en juicios de partición constituidos legalmente o que los asignatarios hubieren otorgado garantía para el pago de la contribución.
+Las compañías de seguros no podrán pagar sumas debidas por contratos de seguros de vida sin contar previamente con el comprobante de pago del impuesto.
+
+Asimismo, los notarios no podrán autorizar las escrituras públicas de adjudicaciones de bienes hereditarios o de enajenaciones o disposiciones en común, que hagan los asignatarios, ni los Conservadores inscribirlas, sin que en ellas se inserte el referido comprobante, a menos que la adjudicación se hubiere hecho en juicios de partición constituidos legalmente o que los asignatarios hubieren otorgado garantía para el pago de la contribución.
 
 Para que gocen del privilegio de este artículo, los compromisos particionales deberán ser ejercidos por abogados que nombre la justicia ordinaria, o cuyo nombramiento sea sometido a su aprobación para los efectos del impuesto de herencia, si no lo debiere prestar por otra causa.
 
@@ -17534,7 +17652,7 @@ Se exceptúan de lo dispuesto en este artículo aquellos casos en que el Servici
 
 #### Artículo 70
 
-La inobservancia de lo que dispone el artículo 54 constituirá a los notarios en codeudores solidarios del impuesto, sin perjuicio de una multa de un 10% a un 100% de una unidad tributaria anual.
+La inobservancia de lo que dispone el artículo 54 constituirá a los notarios y las compañías de seguros en codeudores solidarios del impuesto, sin perjuicio de una multa de un 10% a un 100% de una unidad tributaria anual.
 
 #### Artículo 71
 

@@ -96,9 +96,9 @@ Los causantes no darán derecho a más de una asignación familiar por cada uno 
 
 Corresponderá percibir la asignación familiar y la maternal, por regla general, al beneficiario a cuyas expensas viva el causante.
 
-Las asignaciones familiares causadas por hijos menores se pagarán directamente a la madre con la cual vivan, si ésta lo solicitare, no requiriendo para ello el consentimiento del beneficiario.
+Las asignaciones familiares causadas por hijos menores se pagarán directamente al padre o madre con el que vivan, si éste lo solicitare, no requiriendo para ello el consentimiento del beneficiario.
 
-Igualmente procederá el pago directo a la cónyuge, a los causantes mayores de edad o a la persona a cuyo cargo se encuentre el causante, siempre que lo soliciten, no requiriendo para ello el consentimiento del beneficiario.
+Igualmente procederá el pago directo al cónyuge, a los causantes mayores de edad o a la persona a cuyo cargo se encuentre el causante, siempre que lo soliciten, no requiriendo para ello el consentimiento del beneficiario.
 
 Los empleadores y las entidades pagadoras de las asignaciones familiares, no podrán rechazar las solicitudes a que se refieren los incisos precedentes.
 
@@ -112,7 +112,7 @@ Las personas a que se refiere la letra g) del artículo 2º ejercerán el referi
 
 #### Artículo 9°
 
-Si el beneficiario, pudiendo hacerlo, se rehusare a impetrar de la respectiva institución el derecho a la asignación familiar o a la maternal y/o su pago, éstas podrán ser solicitadas por la persona a cuyo cargo se encuentre el causante, o por la cónyuge, en su caso.
+Si el beneficiario, pudiendo hacerlo, se rehusare a impetrar de la respectiva institución el derecho a la asignación familiar o a la maternal y/o su pago, éstas podrán ser solicitadas por la persona a cuyo cargo se encuentre el causante, o por el cónyuge, en su caso.
 
 #### Artículo 10°
 
