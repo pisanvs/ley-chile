@@ -36,13 +36,19 @@ Decreto:
 
 Estudio:
 
-- Dirección : Vergara N°198, Angol,
+- Dirección : Vergara N°198,
 
-Región de la Araucanía.
+Angol, Región
 
-- Coordenadas Geográficas : 37°48'03" Latitud Sur;
+de la Araucanía.
 
-72°42'41" Longitud Oeste.
+- Coordenadas Geográficas : 37°48'03"
+
+Latitud Sur;
+
+72°42'41"
+
+Longitud Oeste.
 
 Datum WGS 84.
 
@@ -50,17 +56,25 @@ Sistema Radiante:
 
 - Polarización : Vertical.
 
-- Tipo de antena : Yagi 3 elementos, con tilt
+- Tipo de antena : Yagi 3 elementos,
 
-eléctrico de 14,5 bajo la
+con tilt eléctrico
+
+de 14,5 bajo la
 
 horizontal.
 
-- Ganancia antena : 7,75 dBd de ganancia
+- Ganancia antena : 7,75 dBd de
 
-máxima sin tilt y 2,25 dBd
+ganancia
 
-en el plano horizontal.
+máxima sin
+
+tilt y 2,25
+
+dBd en el
+
+plano horizontal.
 
 - Nº antenas : 4.
 
@@ -84,29 +98,43 @@ Potencia)
 
 Radioenlace Estudio - Planta:
 
-- Frecuencia : 324,1 MHz.
+- Frecuencia : 305,8 MHz.
 
 - Potencia : 10 Watts.
 
 - Tipo de emisión : 180KF8EHF.
 
-- Tipo de antena : Yagi 6 elementos, abertura
+- Tipo de antena : Yagi 6 elementos,
 
-lóbulo 53°, con 10 dBd
+abertura lóbulo
 
-de ganancia máxima y
+53°, con 10 dBd
 
-polarización horizontal.
+de ganancia
 
-- Coordenadas Transmisor : 37°48'03" Latitud Sur;
+máxima y
 
-72°42'41" Longitud Oeste.
+polarización
+
+horizontal.
+
+- Coordenadas Transmisor : 37°48'03"
+
+Latitud Sur;
+
+72°42'41"
+
+Longitud Oeste.
 
 Datum WGS 84.
 
-- Coordenadas Receptor : 37°49'13" Latitud Sur;
+- Coordenadas Receptor : 37° 49' 13"
 
-72°41'13" Longitud Oeste.
+Latitud Sur;
+
+772° 41' 37"
+
+Longitud Oeste.
 
 Datum WGS 84.
 
