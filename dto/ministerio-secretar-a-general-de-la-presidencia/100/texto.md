@@ -1808,7 +1808,7 @@ Corresponderá al Presidente de la República, o a los órganos que éste determ
 
 Del estatuto de los Convencionales Constituyentes.
 
-A los integrantes de la Convención les será aplicable lo establecido en los artículos 51, con excepción de los incisos primero y segundo; 58, 59, 60 y 61.
+A los integrantes de la Convención les será aplicable lo establecido en los artículos 51, con excepción de los incisos primero y segundo; 58, 59, 60 y 61. Sin perjuicio de lo dispuesto en el artículo 60, los convencionales constituyentes podrán renunciar a su cargo cuando hechos graves afecten severamente su desempeño o pongan en riesgo el funcionamiento de la Convención Constitucional, y así lo califique el Tribunal Calificador de Elecciones.
 
 A contar de la proclamación del Tribunal Calificador de Elecciones, los funcionarios públicos, con excepción de los mencionados en el inciso tercero del artículo 132, así como los trabajadores de las empresas del Estado, podrán hacer uso de un permiso sin goce de remuneraciones mientras sirvan a la Convención, en cuyo caso no les serán aplicables lo señalado en el inciso primero del artículo 58 de la Constitución.
 
