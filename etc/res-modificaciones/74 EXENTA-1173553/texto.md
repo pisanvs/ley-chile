@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN N° 441 EXENTA, DE 22.10.2021, QUE DELEGÓ LA FACULTAD PARA OPERAR CUENTAS CORRIENTES COMERCIALES DEL INSTITUTO DE PREVISIÓN SOCIAL, ABIERTAS EN LA OFICINA PRINCIPAL DEL BANCO DEL ESTADO DE CHILE, EN EL FUNCIONARIADO DEL DEPARTAMENTO DE FINANZAS DEL NIVEL CENTRAL, EN EL SENTIDO QUE INDICA
+
+Por resolución exenta N° 74, de 18 de febrero de 2022, el Director Nacional del Instituto de Previsión Social, modificó la resolución exenta N° 441, de 22 de octubre de 2021, aprobada por la Superintendencia de Pensiones por oficio ordinario N° 30233, de 27.10.2021, mediante la cual, el Jefe de Servicio delegó en los funcionarios del IPS que se indican, las facultades en las cuentas corrientes comerciales del Nivel Central, abiertas en la Oficina Principal del Banco del Estado de Chile, singularizadas en su Resuelvo N° 2, según se señala en su resuelvo N° 1.-
+
+Patricio Coronado Rojo, Director Nacional.
