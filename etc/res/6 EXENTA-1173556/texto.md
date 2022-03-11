@@ -1,0 +1,5 @@
+SE APRUEBA DOCUMENTO "ACLARACIÓN MODIFICACIÓN DE CONVENIO DE COLABORACIÓN Y CONTRATO DE COMODATO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA UNIVERSIDAD DE CHILE", SUSCRITO CON FECHA 10.06.2021
+
+Por resolución exenta I N° 6, de 9 de febrero de 2022, el Jefe Departamento de Administración e Inmobiliaria conforme sus facultades delegadas aprobó el documento "Aclaración Modificación de Convenio de Colaboración y Contrato de Comodato entre el Instituto de Previsión Social y la Universidad de Chile", suscrito con fecha 10.06.2021, cuyo objetivo fue aclarar, de común acuerdo, el sentido y alcance de la modificación del convenio de colaboración y contrato de comodato a que se refiere la cláusula primera, efectuada mediante instrumento privado de fecha 07.08.2020, reducido a escritura pública con fecha 30.11.2020, ante don Octavio Francisco Gutiérrez López, Notario Público Titular de la Trigésima Notaría de Santiago, como se indicara en la Cláusula Segunda de la presente resolución.-
+
+Eduardo Cofre Arredondo, Jefe Departamento de Administración e Inmobiliaria.
