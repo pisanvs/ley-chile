@@ -1,0 +1,9 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO "PARQUE FOTOVOLTAICO SAN ISIDRO"
+
+De conformidad a lo dispuesto en los artículos 94 y 95 del decreto supremo Nº 40 de 2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se informa a las personas -naturales y jurídicas- que presentaron observaciones durante el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental (DIA) del proyecto "Parque Fotovoltaico San Isidro", cuyo titular es Solek Chile Services SpA, que éste ha sido calificado favorablemente por la Comisión de Evaluación de la Región de Valparaíso, mediante la resolución exenta Nº 20220500142 (RCA), de fecha 1 de marzo de 2022.
+
+De igual modo, se informa a todas las personas -naturales y jurídicas- que hayan realizado observaciones ciudadanas a la DIA del proyecto "Parque Fotovoltaico San Isidro", y que estimen que éstas no han sido debidamente consideradas en los fundamentos de la citada RCA, que disponen de un plazo de 30 días hábiles, contados desde la presente notificación, para presentar un recurso de reclamación ante el Director Ejecutivo, de conformidad a los artículos 20 y 30 bis de la ley Nº 19.300 sobre Bases Generales del Medio Ambiente.
+
+El texto íntegro de la RCA citada puede ser conocido en el expediente de evaluación de la DIA del proyecto "Parque Fotovoltaico San Isidro" en el sitio web www.sea.gob.cl y a través del siguiente enlace: https://validador.sea.gob.cl/validar/2155287850 y el Anexo de participación ciudadana con la consideración de las observaciones ciudadanas se encuentra disponible en el siguiente enlace: https://seia.sea.gob.cl/archivos/2022/03/02/ANEXO_PAC_RCA_DIA_San_Isidro_V_0_18022022_plm_sft_firmado.pdf.-
+
+Paola La Rocca Mattar, Directora Regional, Servicio de Evaluación Ambiental Región de Valparaíso.
