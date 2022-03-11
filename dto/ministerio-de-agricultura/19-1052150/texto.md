@@ -122,7 +122,7 @@ vigencia de no más de 180 días.
 
 Los laboratorios que soliciten la inscripción deben contar con la infraestructura, equipos, materiales y reactivos, según el tipo de laboratorio y tipo de producto al que postula, de conformidad con los Reglamentos Específicos que se establezcan por producto o tipo de producto.
 
-#### Artículo 7°
+#### Artículo 7º
 
 En el caso de los laboratorios de ensayo, éstos deben contar con un sistema de gestión de calidad, el cual garantice la validez y confiabilidad de los resultados. Dicho sistema debe estar basado en Buenas Prácticas de Laboratorio, el que debe considerar, a lo menos, lo siguiente:
 
@@ -132,7 +132,7 @@ ii. Croquis del laboratorio: en el que se identifiquen los equipos del laborator
 
 iii. Listado y manuales o fichas técnicas de los equipos e instrumentos existentes en el laboratorio; manuales correspondientes;
 
-iv. Procedimientos de uso de equipos e instrumentos si fuesen distintos o adicionales a los
+iv. Procedimientos de uso de equipos e instrumentos si fuesen distintos o adicionales a los descritos en los manuales correspondientes;
 
 v. Calendario de mantención de equipos e instrumentos;
 
@@ -146,21 +146,19 @@ ix. Procedimientos de validación de los análisis o ensayos, cuando corresponda
 
 x. Procedimientos de higiene y limpieza de equipos y materiales;
 
-xi. Procedimiento para eliminación de residuos y material contaminado, cuando corresponda; y
+xi. Procedimiento para eliminación de residuos y material contaminado, cuando corresponda, y
 
 xii. Planes de contingencia y procedimientos de emergencia, cuando corresponda.
 
 Para acreditar el cumplimiento de estos requisitos, el laboratorio solicitante deberá acompañar copia simple del/los documentos que contengan los antecedentes señalados en los numerales precedentes.
 
-El Laboratorio de Calibración que realice su función mediante la calibración de magnitudes, deberá estar acreditado o encontrarse en proceso de acreditación de la Norma ISO 17.025, versión vigente, aprobada por resolución exenta N° 877, de 2005, del Ministerio de Economía, Fomento y Reconstrucción, publicada en el Diario Oficial del 21 de diciembre de 2005, denominada Requisitos Generales para la Competencia de los Laboratorios de Ensayo y Calibración, o la norma que la reemplace. Lo anterior se acreditará por el laboratorio solicitante al momento de la postulación o renovación, acompañando copia simple de los documentos que demuestren que se encuentra acreditado bajo la norma ya señalada o que está en proceso de acreditación, según corresponda.
+El Laboratorio de Calibración que realice su función mediante la calibración de magnitudes, deberá estar acreditado o encontrarse en proceso de acreditación de la Norma ISO 17.025, versión vigente, aprobada por resolución exenta Nº 877, de 2005, del Ministerio de Economía, Fomento y Reconstrucción, publicada en el Diario Oficial del 21 de diciembre de 2005, denominada Requisitos Generales para la Competencia de los Laboratorios de Ensayo y Calibración, o la norma que la reemplace. Lo anterior se acreditará por el laboratorio solicitante al momento de la postulación o renovación, acompañando copia simple de los documentos que demuestren que se encuentra acreditado bajo la norma ya señalada o que está en proceso de acreditación, según corresponda.
 
-El Laboratorio de Calibración que realice su función mediante patrones deberá contar con un sistema de gestión de calidad basado en la Norma Chilena NCh-ISO 17.043:2011. Lo anterior se acreditará por el laboratorio solicitante al momento de la postulación mediante el manual de calidad a que se refiere el número i) del inciso primero de este artículo.
+El Laboratorio de Calibración que realice su función mediante muestras de resultado conocido deberá contar con un sistema de gestión de calidad basado en la Norma Chilena NCh-ISO 17.043:2011. Lo anterior se acreditará por el laboratorio solicitante al momento de la postulación mediante el manual de calidad a que se refiere el número i) del inciso primero de este artículo.
 
 Los laboratorios de ensayo arbitrador deberán estar acreditados en un sistema de gestión de laboratorios reconocido internacionalmente, que garantice la validez y confiabilidad de los resultados, lo que deberá ser demostrado por el laboratorio solicitante al momento de la postulación, acompañando copia simple de los documentos que comprueben que se encuentra acreditado en el sistema de gestión ya señalado. Asimismo, los laboratorios de ensayo arbitrador deberán participar en rondas internacionales de laboratorios, lo que se acreditará acompañando copia del informe de, a lo menos, una ronda internacional de laboratorios.
 
-Para efecto de análisis sobre productos que sean importados al país, el Servicio podrá considerar como Laboratorio de Ensayo o Laboratorio de Ensayo Arbitrador, el laboratorio que realice el análisis de las características del producto en origen, siempre y cuando esté bajo la supervisión del organismo oficial de control del respectivo país y se encuentre inscrito en el registro a que se refiere el artículo 7° de la ley.
-
-De acuerdo a lo dispuesto en los artículos 12 y 14 de la ley, el Servicio deberá supervisar el cumplimiento de las disposiciones que establece la ley y sus reglamentos en materia de obtención, conservación y envío de muestras de productos.
+Para efecto de análisis sobre productos que sean importados al país y sin perjuicio de lo previsto en la normativa aduanera de Chile, el Servicio podrá considerar como Laboratorio de Ensayo o Laboratorio de Ensayo Arbitrador, el laboratorio que realice el análisis de las características del producto en origen, siempre y cuando esté bajo la supervisión del organismo oficial de control del respectivo país y se encuentre inscrito en el registro a que se refiere el artículo 7º de la ley. De acuerdo a lo dispuesto en los artículos 12 y 14 de la ley, el Servicio deberá supervisar el cumplimiento de las disposiciones que establece la ley y sus reglamentos en materia de obtención, conservación y envío de muestras de productos.
 
 #### Artículo 8°
 
@@ -196,7 +194,7 @@ i) Responsable técnico: En caso que el Laboratorio de Calibración realice su f
 
 Para acreditar la experiencia deberá presentarse una declaración jurada indicando la institución, lugar y período en que el responsable técnico se ha desempeñado en metrología y/o calibración de equipos, según corresponda.
 
-En caso que el Laboratorio de Calibración realice su función mediante patrones, el responsable técnico deberá contar con conocimiento en inferencia estadística. Para acreditar dichos conocimientos, deberá acompañarse una certificación emanada de una institución de educación reconocida por el Estado, o por una entidad reconocida por el Servicio, que incluya al menos un curso en esta materia.
+En caso que el Laboratorio de Calibración realice su función mediante muestras de resultado conocido, el responsable técnico deberá contar con conocimiento en inferencia estadística. Para acreditar dichos conocimientos, deberá acompañarse una certificación emanada de una institución de educación reconocida por el Estado, o por una entidad reconocida por el Servicio, que incluya al menos un curso en esta materia.
 
 ii) Analista: Deberá tener experiencia de a lo menos tres años en la ejecución de los análisis a los que postula el laboratorio.
 
@@ -308,13 +306,19 @@ g. Cumplir con los Reglamentos Específicos que se
 
 establezcan por producto o tipo de producto.
 
+Adicionalmente, los laboratorios de ensayo arbitrador tendrán la obligación de notificar al Servicio dentro de un plazo no mayor a 48 horas las siguientes situaciones mediante correo electrónico:
+
+1. En caso de que no pueda analizar la contramuestra, las razones que imposibilitaron la ejecución de los análisis.
+
+2. Comunicar la información relativa a los arbitrajes realizados.
+
 ## Título IV
 
 Notificación de los resultados de los análisis
 
 #### Artículo 13º
 
-Una vez recepcionado el resultados de los análisis por el agroindustrial o intermediario, éste deberá notificar a los interesados a través de los correos electrónicos y/o mensajes de texto, señalados en la guía de recepción. En su defecto, la notificación podrá realizarse de forma presencial en dependencias del agroindustrial o intermediario, donde se dejará constancia escrita de ello; o bien mediante carta certificada dirigida al domicilio indicado en la Guía de Recepción, en cuyo caso la notificación se entenderá practicada transcurridos tres días desde su recepción por la oficina de correos.
+Una vez recepcionados los resultados de los análisis deberán ser notificados por los agroindustriales o intermediarios a los interesados a través de los correos electrónicos o mediante mensajería instantánea de texto, a través de los medios que el productor indique, señalados en la Guía de Despacho. En su defecto, la notificación podrá realizarse de forma presencial en dependencias del agroindustrial o intermediario, donde se dejará constancia escrita de ello; o bien mediante carta certificada dirigida al domicilio indicado en la Guía de Recepción, en cuyo caso la notificación se entenderá practicada transcurridos tres días desde su recepción por la oficina de correos.
 
 ## Título V
 
