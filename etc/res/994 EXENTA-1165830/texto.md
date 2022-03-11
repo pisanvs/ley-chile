@@ -872,7 +872,7 @@ k. Eliminado.
 
 En el caso de una actividad que se realice en lugar abierto, en una localidad que retrocede al Paso anterior dos semanas antes del día en que se lleva a cabo la actividad, se permitirá la asistencia del público que, al momento de la entrada en vigencia del retroceso de Paso, ya contaba con su ticket, aun cuando el número total de ellas exceda el aforo permitido para el día de la actividad. No se permitirá la asistencia del público que, con posterioridad a la entrada en vigencia del retroceso de Paso, adquiere tickets y ello conlleva exceder el aforo máximo al día de la actividad.
 
-En aquellas actividades que estimen una convocatoria de 5.000 personas o más, estará prohibida la venta o consumo de alimentos y bebidas, debiendo los asistentes mantener el uso permanente de mascarilla. Además, los organizadores de éstas deberán solicitar la autorización de la autoridad sanitaria, para lo cual deberán acreditar el cumplimiento de lo establecido en este numeral.
+En aquellas actividades que estimen una convocatoria de 5.000 personas o más, estará prohibida la venta o consumo de alimentos y bebidas, debiendo los asistentes mantener el uso permanente de mascarilla, excepto en aquellas zonas destinadas exclusivamente al consumo de alimentos y bebidas. Además, los organizadores de éstas deberán solicitar la autorización de la autoridad sanitaria, para lo cual deberán acreditar el cumplimiento de lo establecido en este numeral.
 
 105. De las actividades con interacción entre asistentes. La realización de este tipo de actividades, deberá cumplir con las siguientes reglas:
 
