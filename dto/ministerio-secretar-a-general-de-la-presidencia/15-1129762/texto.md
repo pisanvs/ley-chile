@@ -126,7 +126,7 @@ f) Las demás funciones y atribuciones que la ley le otorgue.
 
 #### Artículo 9°
 
-De la Subrogación. El (La) Defensor(a) de la Niñez, cuando exista una causa que le imposibilite el ejercicio de sus funciones, como el uso de feriados, licencias médicas, permisos, o bien cualquier otro motivo de similar naturaleza, será subrogado(a), en primer orden, por el Director(a) de la Unidad de Protección de Derechos y Representación Judicial. En caso de ausencia o impedimento de éste, el (la) Defensor(a) será subrogado(a), en este orden, por el (la) Director(a) de la Unidad de Promoción y Difusión de Derechos y el (la) Director(a) de la Unidad de Estudios y Gestión.
+De la Subrogación. El (La) Defensor(a) de la Niñez, cuando exista una causa que le imposibilite el ejercicio de sus funciones, como el uso de feriados, licencias médicas, permisos, o bien cualquier otro motivo de similar naturaleza, será subrogado(a), en primer orden, por el Director(a) de la Unidad de Protección de Derechos y Representación Judicial. En caso de ausencia o impedimento de éste, el (la) Defensor(a) será subrogado(a), en este orden, por el (la) Director(a) de la Unidad de Promoción y Difusión de Derechos, el (la) Director(a) de la Unidad de Estudios, Publicaciones y Estadística, y el (la) Director(a) de la Unidad de Gestión Institucional.
 
 Sin perjuicio del orden dado en el inciso anterior, el (la) Defensor(a) podrá, mediante resolución fundada, establecer un orden distinto entre los mismos Directores mencionados para la subrogación en el ejercicio de sus funciones.
 
@@ -180,11 +180,11 @@ Mediante resolución del (la) Defensor(a) de la Niñez, se establecerán las reg
 
 De la integración y elección de los miembros del Consejo Consultivo. El Consejo Consultivo estará compuesto por 13 integrantes, los cuales serán designados en la forma detallada a continuación:
 
-a) 3 personas, designadas por el (la) Defensor(a), de una nómina propuesta de consuno por el (la) Director(a) de la Unidad de Estudios y Gestión, el (la) Director(a) de la Unidad de Protección de Derechos y Representación Judicial y el (la) Director(a) de la Unidad de Promoción y Difusión de Derechos, que pertenezcan a alguna organización de la sociedad civil inscrita en el Registro previsto en el artículo 12.
+a) 3 personas, designadas por el (la) Defensor(a), de una nómina propuesta de consuno por el (la) Director(a) de la Unidad de Estudios, Publicaciones y Estadística, el (la) Director(a) de la Unidad de Gestión Institucional, el (la) Director(a) de la Unidad de Protección de Derechos y Representación Judicial y el (la) Director(a) de la Unidad de Promoción y Difusión de Derechos, que pertenezcan a alguna organización de la sociedad civil inscrita en el Registro previsto en el artículo 12.
 
-b) 3 personas, designadas por el (la) Defensor(a), de una nómina propuesta de consuno por el (la) Director(a) de la Unidad de Estudios y Gestión, el (la) Director(a) de la Unidad de Protección de Derechos y Representación Judicial y el (la) Director(a) de la Unidad de Promoción y Difusión de Derechos, que pertenezcan a alguna de las universidades reconocidas por el Estado y acreditadas, inscritas en el Registro previsto en el artículo 12.
+b) 3 personas, designadas por el (la) Defensor(a), de una nómina propuesta de consuno por el (la) Director(a) de la Unidad de Estudios, Publicaciones y Estadística, el (la) Director(a) de la Unidad de Gestión Institucional, el (la) Director(a) de la Unidad de Protección de Derechos y Representación Judicial y el (la) Director(a) de la Unidad de Promoción y Difusión de Derechos, que pertenezcan a alguna de las universidades reconocidas por el Estado y acreditadas, inscritas en el Registro previsto en el artículo 12.
 
-c) 7 niños, niñas y adolescentes, designados por el (la) Defensor(a), de una nómina propuesta de consuno por el (la) Director(a) de la Unidad de Estudios y Gestión, el (la) Director(a) de la Unidad de Protección de Derechos y Representación Judicial y el (la) Director(a) de la Unidad de Promoción y Difusión de Derechos, que pertenezcan a alguna organización de NNA inscrita en el Registro previsto en el artículo 12.
+c) 7 niños, niñas y adolescentes, designados por el (la) Defensor(a), de una nómina propuesta de consuno por el (la) Director(a) de la Unidad de Estudios, Publicaciones y Estadística, el (la) Director(a) de la Unidad de Gestión Institucional, el (la) Director(a) de la Unidad de Protección de Derechos y Representación Judicial y el (la) Director(a) de la Unidad de Promoción y Difusión de Derechos, que pertenezcan a alguna organización de NNA inscrita en el Registro previsto en el artículo 12.
 
 Los miembros del Consejo Consultivo durarán dos años en sus cargos y no podrán ser reelegidos inmediatamente, ejerciendo sus cargos ad honorem.
 
@@ -254,7 +254,9 @@ a) Unidad de Promoción y Difusión de Derechos.
 
 b) Unidad de Protección de Derechos y Representación Judicial.
 
-c) Unidad de Estudios y Gestión.
+c) Unidad de Estudios, Publicaciones y Estadísticas.
+
+d) Unidad de Gestión Institucional.
 
 Cada Unidad será dirigida por un(a) Director(a), quien será el (la) responsable de cumplir los objetivos de la Unidad y dar cumplimiento a todas las funciones asignadas a ésta.
 
@@ -268,7 +270,7 @@ b) Propiciar y fortalecer el conocimiento de los derechos y garantías de los NN
 
 Las funciones de la Unidad de Promoción y Difusión de Derechos son las siguientes:
 
-a) Analizar, en forma permanente, las políticas públicas vigentes y en formulación, velando para que en estas se tengan en consideración los derechos de los niños, niñas y adolescentes y sus necesidades.
+a) Eliminado.
 
 b) Elaborar y proponer recomendaciones a los órganos del Estado que tengan por objeto la integración de las necesidades de los niños, niñas y adolescentes en las políticas públicas vigentes y en aquellas que se encuentren en fase de diseño e implementación, considerando el enfoque de género y de derechos humanos, entre otros.
 
@@ -312,7 +314,7 @@ k) Establecer el proceso y gestión de casos al interior de la Defensoría, con 
 
 #### Artículo 25°
 
-De la Unidad de Estudios y Gestión. Los objetivos de la Unidad de Estudios y Gestión, son los siguientes:
+De la Unidad de Estudios, Publicaciones y Estadísticas. Los objetivos de la Unidad de Estudios, Publicaciones y Estadísticas, son los siguientes:
 
 a) Realizar estudios y proyectos que permitan evaluar y describir adecuaciones para el fortalecimiento permanente del actuar estatal desde el enfoque de derechos de NNA.
 
@@ -322,11 +324,11 @@ c) Propender al efectivo vínculo y trabajo conjunto con los organismos internac
 
 d) Propender a que las políticas públicas y la legislación del Estado, especialmente cuando estén referidas o vinculadas a los derechos de los NNA, integren en su diseño, implementación y seguimiento, el enfoque de derechos humanos de NNA.
 
-e) Gestionar, de manera eficiente, los recursos financieros, humanos y materiales de la Defensoría, considerando perfiles técnicos de alto nivel que permitan la concreción de los objetivos y acciones previstas en favor de la infancia.
+e) Eliminado.
 
-f) Definir y aplicar en la Defensoría un sistema interno de control de gestión que permita efectuar el seguimiento de la actuación de los demás órganos del Estado, personas jurídicas vinculadas a la promoción o protección de los derechos de NNA y organizaciones que con sus acciones pudieran afectarlos.
+f) Eliminado.
 
-Las funciones de la Unidad de Estudios y Gestión, son las siguientes:
+Las funciones de la Unidad de Estudios, Publicaciones y Estadísticas, son las siguientes:
 
 a) Efectuar estudios que tiendan a obtener información y datos útiles para fortalecer el actuar estatal en la generación de políticas públicas que integren de manera efectiva y eficiente el enfoque de derechos de NNA.
 
@@ -338,15 +340,31 @@ d) Establecer vínculos con organismos internacionales dedicados a la promoción
 
 e) Preparar, sistematizar y difundir información relevante, que permita favorecer la adopción o mejora de procesos de trabajo en favor de la promoción por parte de los órganos de la Administración del Estado, y que se vincule a la elaboración, por parte de dichos órganos, de procesos, protocolos y políticas públicas que promuevan la protección y respeto de los derechos y garantías de NNA.
 
-f) Establecer un sistema tecnológico que permita gestionar el desempeño de todas y todos los funcionarios de la Defensoría, verificando así el cumplimiento efectivo de las funciones asignadas por la Ley.
+f) Analizar, en forma permanente, las políticas públicas vigentes y en formulación, velando para que en estas se tengan en consideración los derechos de los NNA y sus necesidades.
 
 g) Establecer una estructura estadística que permita realizar análisis y reportes periódicos acerca de la situación de los derechos de NNA en el país.
 
-h) Diseñar e implementar procesos de control de gestión interna de la Defensoría.
+h) Eliminado.
 
-i) Diseñar e implementar en la Defensoría, procesos internos de seguimiento efectivo de la actuación, en la efectiva protección y promoción de los derechos humanos de NNA, por parte de los órganos del Estado, de las personas jurídicas que tengan por objeto la promoción o protección de derechos de los NNA y de las organizaciones que puedan afectar con sus acciones tales derechos.
+i) Eliminado.
 
 j) Colaborar, dentro del marco de la legislación vigente, con los demás órganos del Estado e instituciones vinculadas directamente con NNA, en el análisis y mejoras de las bases de datos actualmente existentes respecto de NNA, recomendando mecanismos que permitan contar con información estadística fidedigna, actualizada y cualitativamente relevante para favorecer la promoción y respeto de los derechos y garantías de NNA.
+
+#### Artículo 25 bis
+
+Unidad de Gestión Institucional. Los objetivos de la Unidad de Gestión Institucional son los siguientes:
+
+a) Gestionar, de manera eficiente, los recursos financieros, humanos y materiales de la Defensoría, considerando perfiles técnicos de alto nivel que permitan la concreción de los objetivos y acciones previstas en favor de la infancia.
+
+b) Definir y aplicar en la Defensoría un sistema interno de control de gestión que permita efectuar el seguimiento de la actuación de los demás Órganos del Estado, personas jurídicas vinculadas a la promoción o protección de los derechos de NNA y organizaciones que con sus acciones pudieran afectarlos.
+
+Las funciones de la Unidad de Gestión Institucional son las siguientes:
+
+a) Establecer un sistema tecnológico que permita gestionar el desempeño de todas y todos los funcionarios de la Defensoría, verificando así el cumplimiento efectivo de las funciones asignadas por la ley.
+
+b) Diseñar e implementar procesos de control de gestión interna de la Defensoría.
+
+c) Diseñar e implementar en la Defensoría, procesos internos de seguimiento efectivo de la actuación, en la efectiva protección y promoción de los derechos humanos de NNA, por parte de los Órganos del Estado, de las personas jurídicas que tengan por objeto la promoción o protección de derechos de los NNA y de las organizaciones que puedan afectar con sus acciones tales derechos.
 
 ## Título Quinto
 
