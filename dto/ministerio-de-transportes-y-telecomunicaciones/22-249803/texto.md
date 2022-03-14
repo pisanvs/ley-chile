@@ -240,15 +240,21 @@ El casco protector exigible a los conductores de bicicletas y sus acompañantes 
 
 #### Artículo 19º
 
-Se entenderá por sistema de "manos libres" para teléfonos celulares, a aquel que permite al conductor sostener, en forma directa, una conversación a través de él, posibilitando que ambas manos se mantengan en el volante del vehículo, sin descuidar la conducción de éste.
+Para la aplicación de lo dispuesto en el artículo 199 Nº 5 del decreto con fuerza de ley Nº 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.290, de Tránsito, se incluirá toda acción que signifique una manipulación, esto es, operar con una o ambas manos, un dispositivo de telefonía móvil o cualquier otro artefacto electrónico o digital, en contravención a lo dispuesto en el presente artículo, cuando se haya iniciado la conducción del vehículo, lo anterior incluye el caso de encontrarse un conductor con el vehículo detenido en un signo pare o luz roja con el fin de desplazarse en la vía.
 
-Además, el teléfono celular deberá portarse en un lugar que impida su desplazamiento durante la marcha, o su proyección en caso de accidente. La ubicación del aparato deberá ser tal que no obstaculice la visión del panel de instrumentos del vehículo, ni interfiera con la operación segura del mismo.
+Para estos efectos, se entenderá por sistema de "manos libres" para dispositivos de telefonía móvil o cualquier otro artefacto electrónico o digital, aquel que permite al conductor utilizar dicho dispositivo o artefacto posibilitando que ambas manos se mantengan en el manubrio del vehículo o posibilitando mantener libres ambas manos si el vehículo no cuenta con manubrio; en cualquier caso, sin descuidar la conducción del vehículo.
 
-No se entenderá por sistemas de "manos libres" aquéllos tales como:
+Se permite el uso de dispositivos de telefonía móvil o cualquier otro artefacto electrónico o digital que colabore o guíe la conducción, siempre que su uso no vulnere lo dispuesto en este artículo.
 
-a. Cualquier sistema de sujeción del teléfono celular a la altura del oído del conductor,
+Además, los dispositivos de telefonía móvil o cualquier otro artefacto electrónico o digital deberán portarse en un lugar que impida su desplazamiento durante la marcha, o su proyección en caso de siniestro. La ubicación de estos dispositivos o artefactos deberá ser tal que no obstaculice la visión del panel de instrumentos del vehículo, ni la visión directa del conductor, ni interfiera con la operación segura del vehículo.
 
-b. Que el conductor sostenga el teléfono celular con su hombro, contra su cabeza.
+No se entenderá por sistemas de "manos libres" para dispositivos de telefonía móvil o cualquier otro artefacto electrónico o digital, aquellos tales como:
+
+a. Cualquier sistema de sujeción de éstos a la altura del oído del conductor.
+
+b. Aquellos que para su uso requieran que el conductor los sostenga con su hombro, contra su cabeza o con otras partes del cuerpo, tales como sujeto sobre sus piernas o en su muñeca.
+
+c. Aquellos que el conductor deba manipular con una o ambas manos, ya sea para sostener una conversación, enviar mensajería o audios o utilizar aplicaciones en dichos dispositivos o artefactos.
 
 #### Artículo 20º
 
