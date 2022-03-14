@@ -238,7 +238,7 @@ El puntaje correspondiente al ámbito Intersectorialidad se asignará a cada pos
 
 21. Corresponderá a cada Serviu generar un procedimiento que permita cautelar el cumplimiento de las condiciones establecidas en la presente resolución, y las restricciones y requisitos establecidos en el DS. N°10 (V. y U.), de 2015. Si se detectare cualquier infracción al respecto, se estará a lo establecido en el artículo 65 del DS. N°10 (V. y U.), de 2015.
 
-22. Los recursos involucrados para la selección ascienden a un total de 751.575 U.F. y su distribución regional, será la siguiente:
+22. Los recursos involucrados en la selección ascienden a un total de 298.611,004 UF y su distribución nacional será la siguiente:
 
 Los montos indicados en el cuadro anterior podrán disminuir o aumentar con cargo a los recursos asignados para el Programa de Habitabilidad Rural del año 2021, por resolución del Ministro de Vivienda y Urbanismo, como también podrá determinarse su redistribución por región.
 
