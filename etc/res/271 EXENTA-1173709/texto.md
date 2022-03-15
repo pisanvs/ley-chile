@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 271 del 8 de marzo de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Francisco Ramírez 141, comuna de Chillán, Rol de Avalúo Nº 00494-00073, de aparente dominio de Arteaga Riquelme María Eugenia. La parte afecta a expropiación parcial de terreno es de 6710, m2 y parcial de 28,272 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-189, para el proyecto "Mejoramiento Diego Portales-Francisco Ramírez, Chillán, Comuna de Chillán, Región de Ñuble", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, Arquitecto don Andrés Javier Tobar Beluzan y por el Arquitecto don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $13.776.396.-
+
+Director Serviu Región de Ñuble.
