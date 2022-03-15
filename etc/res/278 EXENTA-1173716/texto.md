@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 278 del 8 de marzo de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí 879 El Roble, comuna de Chillán, Rol de Avalúo Nº 001848-00002, de aparente dominio de Serviu. La parte afecta a expropiación parcial de terreno es de 23,53 m2 , cuyos linderos particulares, enmarcados en el plano S16R-133, para el proyecto "Mejoramiento Av. Huambalí, Provincia de Diguillín Región de Ñuble", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, Ingeniero Constructor doña Lorena Elizabeth Gajardo Alarcón y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $4.278.474.-
+
+Director Serviu Región de Ñuble.
