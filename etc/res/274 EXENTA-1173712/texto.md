@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 274 del 8 de marzo de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en calle Huambalí 891, comuna de Chillán, Rol de Avalúo Nº 001848-00004, de aparente dominio de Ibáñez Jara Manuel René. La parte afecta a expropiación parcial de terreno es de 29,84 m2, cuyos linderos particulares, enmarcados en el plano S16R-135, para el proyecto "Mejoramiento Av. Huambalí, comuna de Chillán Región de Ñuble", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, Ingeniero Constructor Lorena Elizabeth Gajardo Alarcón y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $13.663.736.-
+
+Director Serviu Región de Ñuble.
