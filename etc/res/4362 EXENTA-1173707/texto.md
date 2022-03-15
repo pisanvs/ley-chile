@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.362, de fecha 7 de diciembre de 2021, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 8212-21, correspondiente al inmueble ubicado en Flor de Quillén 01675 DP 31, Rol de Avalúo Nº 8212-21, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Elizabeth del Pilar Abarca Salas, con una superficie aproximada de 42,95 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Regeneración del Conjunto Habitacional Marta Brunet del Sector Bajos de Mena". La Comisión de Peritos integrada por los señores Eric Ehrenfeld Allera, Arquitecto; Constanza González Vergara, Arquitecto e Ingrid Von Osten Yáñez, Ingeniero Civil, mediante Informe de fecha 6 de noviembre de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $19.774.880, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
