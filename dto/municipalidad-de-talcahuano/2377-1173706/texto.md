@@ -1,0 +1,5 @@
+EXTRACTO DECRETOS EXPROPIACIÓN JAIME REPULLO
+
+Mediante decreto alcaldicio N° 2.377 de 30.11.2021, modificado por el decreto N° 2.552 de 22.12.2021, ambos de la I. Municipalidad dé Talcahuano, se dispone expropiación parcial, conforme al Art. 65 letra g) de la ley N° 18.695 Orgánica Constitucional de Municipalidades, de los inmuebles Rol de Avalúo N° 1994-1 (Lote 1); N° 1994-1 (Lote 2) y N° 1993-13, todos de la comuna de Talcahuano, para dar cumplimiento al Plan Regulador Comunal de Talcahuano. El texto íntegro de los decretos se encuentra publicado en la página web municipal https://www.portaltransparencia.cl/PortalPdT/directorio-de-organismos-regulados/?org=MU313&pagina=58959074. Para ver la modificación, presionar el enlace "expandir".-
+
+Henry Leonardo Campos Coa, Alcalde.- Juan Guillermo Rivera Contreras, Secretario Municipal.
