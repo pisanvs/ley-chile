@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 279 del 8 de marzo de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Los Alerces 804 El Roble, comuna de Chillán, Rol de Avalúo Nº 001862-00001, de aparente dominio de San Martín Carrasco María Cristina. La parte afecta a expropiación parcial de terreno es de 3,80 m2 , cuyos linderos particulares, enmarcados en el plano S16R-136, para el proyecto "Mejoramiento Av. Huambalí, Provincia de Diguillín Región de Ñuble", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, Ingeniero Constructor doña Lorena Elizabeth Gajardo Alarcón y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $3.003.217.-
+
+Director Serviu Región de Ñuble.
