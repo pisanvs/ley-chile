@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 1356, de 23 de diciembre de 2021, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº289, de 27 de abril de 2018, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización de los lotes de terreno Nºs. 126 y 128, y modificó el numeral segundo que se refiere al nombre del propietario, expropiado con motivo de la obra: CAMINO REPOSICION PAV. RUTA K-25, SECTOR MOLINA - LOS ROBLES, TRAMO KILOMETRO 0,90000 AL KM. 14,66293, que figuran actualmente a nombre de OLAVE BOBADILLA ADELINA Y OTROS, Comuna de Rio Claro, Región del Maule. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 09 de agosto de 2013, ascendente a la cantidad de $840.200.- para el lote Nº126 y $2.263.600 para el lote Nº128. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
