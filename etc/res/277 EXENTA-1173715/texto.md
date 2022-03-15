@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 277 del 8 de marzo de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en calle Avda. Reino de Chile 1205 Equip. Municipal, comuna de Chillán de Viejo, Rol de Avalúo Nº 00781-00010, de aparente dominio de Ilustre Municipalidad de Chillán. La parte afecta a expropiación parcial de terreno es de 5,54 m2 , cuyos linderos particulares, enmarcados en el plano S16R-139, para el proyecto "Mejoramiento Av. Huambalí, Provincia de Diguillín Región de Ñuble", conforme artículo 51 Ley 16.391 y DL 2186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, Ingeniero Constructor doña Lorena Elozabeth Gajardo Alarcón y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $3.140.107.-
+
+Director Serviu Región de Ñuble.
