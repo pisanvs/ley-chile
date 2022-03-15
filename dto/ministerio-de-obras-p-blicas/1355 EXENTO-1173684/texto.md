@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 1355, de 23 de diciembre de 2021, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº505, de 28 de junio de 2019, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº127, y modificó el numeral segundo que se refiere al nombre del propietario, expropiado con motivo de la obra: CAMINO REPOSICIÓN PAV. RUTA K-25, SECTOR MOLINA - LOS ROBLES, TRAMO KILOMETRO 0,90000 A KM. 14,66293, RIO CLARO, PROVINCIAS CURICO - TALCA, REGIÓN DEL MAULE, que figuran actualmente a nombre de OLAVE BOBADILLA RAMON LUIS, Comuna de RIO CLARO, Región del Maule. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 09 de agosto de 2013, complementado por acta de 30 de noviembre de 2017, ascendente a la cantidad de $839.000.- para el lote Nº127. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
