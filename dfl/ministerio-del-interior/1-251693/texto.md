@@ -142,6 +142,8 @@ k) La promoción de la igualdad de oportunidades entre hombres y mujeres, y
 
 l) El desarrollo de actividades de interés común en el ámbito local.
 
+m) La promoción de los derechos de los niños, niñas y adolescentes, la prevención de vulneraciones de derechos y la protección general de los mismos.
+
 #### Artículo 5º
 
 <!-- parte:8402338 -->
