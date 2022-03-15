@@ -1,0 +1,7 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N°441, de fecha 5 de noviembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Sr. Héctor Torres Delgadillo, RUN 6.134.470-5, concesión marítima menor, con vencimiento el día 30 de junio de 2031, sobre un sector de playa de río, en el lugar denominado Sector Norte Las Dunas, localidad de Puerto Saavedra, comuna de Saavedra, provincia de Cautín, Región de la Araucanía, con una superficie total de 121,63 m2, la que fue tramitada con el SIABC N° 46.172. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en amparar la instalación de un local de comida, teniendo como base una estructura metálica, adjuntando un baño y una cocina, para implementarlo como una cafetería montada en una construcción tipo palafito. Las obras consisten en la construcción de un local de comida sobre una estructura de palafito y el plazo contemplado para su ejecución es de 60 días. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Carahue. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Pablo Valdés Rodríguez, Sargento 1° L. (Seg. M), Armada de Chile, Capitán de Puerto de Carahue.
