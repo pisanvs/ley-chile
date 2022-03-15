@@ -104,9 +104,11 @@ Del Subsistema de Protección Integral de la Infancia - Chile Crece Contigo
 
 #### Artículo 9º
 
-Créase el subsistema de Protección Integral de la Infancia, denominado "Chile Crece Contigo", cuyo objetivo es acompañar el proceso de desarrollo de los niños y niñas que se atiendan en el sistema público de salud, desde su primer control de gestación y hasta su ingreso al sistema escolar, en el primer nivel de transición o su equivalente.
+Créase el subsistema de Protección Integral de la Infancia, denominado "Chile Crece Contigo", cuyo objetivo es acompañar el proceso de desarrollo de los niños y niñas que se atiendan en el sistema público de salud, desde su primer control de gestación y hasta que cumplan los 18 años de edad.
 
-Asimismo, el subsistema podrá acompañar el proceso de desarrollo de los niños y niñas que se encuentren matriculados en los establecimientos educacionales públicos hasta el primer ciclo de enseñanza básica, a través de los programas incorporados en la Ley de Presupuestos del Sector Público de cada año.
+Asimismo, el subsistema podrá acompañar el proceso de desarrollo de los niños y niñas que se encuentren matriculados en los establecimientos educacionales públicos hasta que cumplan los 18 años de edad, a través de los programas incorporados en la Ley de Presupuestos del Sector Público de cada año.
+
+El Subsistema tendrá dentro de sus beneficiarios a los niños, niñas y adolescentes, cuyo adulto significativo se encuentre privado de libertad. También serán beneficiarios los cuidadores de aquellos niños, niñas y adolescentes.
 
 #### Artículo 10
 

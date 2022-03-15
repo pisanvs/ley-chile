@@ -18,7 +18,7 @@ Créase el Ministerio de Desarrollo Social y Familia como la Secretaría de Esta
 
 El Ministerio de Desarrollo Social y Familia colaborará también con el Presidente de la República en el diseño, implementación y coordinación de políticas, planes y programas destinados a brindar protección social a aquellas personas o grupos y familias que, sin ser vulnerables, pueden verse enfrentados a contingencias o eventos adversos, que podrían conducirlos a una situación de vulnerabilidad. Dichas políticas, planes y programas propenderán a evitar que los destinatarios pasen a una condición de vulnerabilidad en los términos de esta ley.
 
-Asimismo, el Ministerio de Desarrollo Social y Familia velará por los derechos de los niños con el fin de promover y proteger su ejercicio de acuerdo con el Sistema de Garantías de Derechos de la Niñez y en conformidad con la Constitución Política de la República y las leyes.
+Asimismo, el Ministerio de Desarrollo Social y Familia velará por los derechos de los niños con el fin de promover y proteger su ejercicio de acuerdo con el Sistema de Garantías y Protección Integral de los Derechos de la Niñez y Adolescencia y en conformidad con la Constitución Política de la República y las leyes.
 
 El Ministerio de Desarrollo Social y Familia velará por la coordinación, consistencia y coherencia de las políticas, planes y programas en materia de equidad o desarrollo social, a nivel nacional y regional, desde un enfoque familiar y de integración social, en los casos que corresponda. Se entenderá por enfoque familiar la implementación de políticas sociales que pongan foco en las familias y en su entorno territorial, social y sociocultural. Asimismo, el Ministerio de Desarrollo Social y Familia velará por que dichos planes y programas se implementen en forma descentralizada o desconcentrada, en su caso, preservando la coordinación con otros servicios públicos.
 
@@ -172,7 +172,7 @@ h) Colaborar con el Ministerio de Relaciones Exteriores, dentro del ámbito o es
 
 #### Artículo 3° ter
 
-Un reglamento dictado por el Ministerio de Desarrollo Social y Familia y suscrito, además, por los Ministros de Hacienda y de Justicia y Derechos Humanos fijará estándares para los organismos colaboradores y los programas de las líneas de acción contempladas en el numeral 3) del artículo 4° de la ley N° 20.032, sea que dichos programas se ejecuten por los mencionados organismos colaboradores o directamente por órganos del Estado. Para tales efectos, la Subsecretaría de la Niñez será la encargada de proponer los mencionados estándares.
+Un reglamento dictado por el Ministerio de Desarrollo Social y Familia y suscrito, además, por los Ministros de Hacienda y de Justicia y Derechos Humanos fijará estándares para los organismos colaboradores y los programas de las líneas de acción contempladas en el artículo 18 de la ley que crea el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia, sea que dichos programas se ejecuten por los mencionados organismos colaboradores o directamente por órganos del Estado. Para tales efectos, la Subsecretaría de la Niñez será la encargada de proponer los mencionados estándares.
 
 Este reglamento no será aplicable para los programas de reinserción para adolescentes infractores de la ley penal.
 
@@ -204,13 +204,25 @@ La Subsecretaría de Evaluación Social estará a cargo del Subsecretario de Eva
 
 #### Artículo 6°
 
-La Subsecretaría de Servicios Sociales estará a cargo del Subsecretario de Servicios Sociales, quien será su jefe superior. En particular le corresponderá colaborar especialmente con el Ministro en el ejercicio de las funciones establecidas en las letras a), en el marco de las atribuciones vigentes de dicha Subsecretaría y en coordinación con la Subsecretaría de Evaluación Social, ñ) a excepción del Subsistema de Protección Integral a la Infancia "Chile Crece Contigo", establecido en el Título II de la ley N° 20.379, o), p), q), r), s), u) y x) del artículo 3°. Le corresponderá, además, la coordinación de los servicios públicos dependientes y de los sometidos a la supervigilancia del Presidente de la República por medio del Ministerio de Desarrollo Social y Familia.
+La Subsecretaría de Servicios Sociales estará a cargo del Subsecretario de Servicios Sociales, quien será su jefe superior. En particular le corresponderá colaborar especialmente con el Ministro en el ejercicio de las funciones establecidas en las letras a), en el marco de las atribuciones vigentes de dicha Subsecretaría y en coordinación con la Subsecretaría de Evaluación Social, ñ) a excepción del Subsistema de Protección Integral a la Infancia "Chile Crece Contigo", establecido en el Título II de la ley N° 20.379,
+
+- **o)** y p), a excepción del Servicio Nacional de Protección Especializada a la Niñez y Adolescencia, q), r), s),
+
+- **u)** y
+
+- **x)** del artículo 3°. Le corresponderá, además, la coordinación de los servicios públicos dependientes y de los sometidos a la supervigilancia del Presidente de la República por medio del Ministerio de Desarrollo Social y Familia, a excepción del Servicio Nacional de Protección Especializada a la Niñez y Adolescencia.
 
 La Subsecretaría de Servicios Sociales tendrá también a su cargo la dirección administrativa de las Secretarías Regionales Ministeriales de Desarrollo Social y Familia y la administración y servicio interno del Ministerio.
 
 #### Artículo 6° bis
 
-La Subsecretaría de la Niñez estará a cargo del Subsecretario de la Niñez, quien será su jefe superior. En particular, le corresponderá colaborar con el Ministro en el ejercicio de las funciones contenidas en las letras a) y ñ), especialmente en lo relacionado con el Subsistema de Protección Integral a la Infancia "Chile Crece Contigo", y en las letras e), t), u), w) y x), todas del artículo 3°, sólo en las materias vinculadas a la niñez. Le corresponderá, además, colaborar con el Ministro en el ejercicio de las funciones establecidas en el artículo 3º bis.
+La Subsecretaría de la Niñez estará a cargo del Subsecretario de la Niñez, quien será su jefe superior. En particular, le corresponderá colaborar con el Ministro en el ejercicio de las funciones contenidas en las letras
+
+- **a)** y ñ), especialmente en lo relacionado con el Subsistema de Protección Integral a la Infancia "Chile Crece Contigo", en las letras
+
+- **o)** y p), en lo relacionado con el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia, y en las letras e), t), u),
+
+- **w)** y x), todas del artículo 3°, sólo en las materias vinculadas a la niñez. Le corresponderá, además, colaborar con el Ministro en el ejercicio de las funciones establecidas en el artículo 3º bis y la coordinación del Servicio Nacional de Protección Especializada a la Niñez y Adolescencia, sometido a la supervigilancia del Presidente de la República por medio del Ministerio de Desarrollo Social y Familia.
 
 #### Artículo 7°
 

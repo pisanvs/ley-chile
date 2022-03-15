@@ -414,6 +414,8 @@ En caso de renuncia del abogado patrocinante o de abandono de hecho de la defens
 
 La obligación señalada en el inciso primero no regirá tratándose de los procedimientos establecidos en el Título IV. En estos casos, las partes podrán comparecer y actuar sin necesidad de mandatario judicial ni de abogado patrocinante, salvo que el juez lo estime necesario.
 
+Tratándose de los procedimientos señalados en los párrafos 1º y 2° del Título IV de esta ley, la intervención del abogado del niño, niña o adolescente será obligatoria y su omisión se sancionará con la nulidad de todo lo obrado.
+
 #### Artículo 19
 
 Representación. En todos los asuntos de competencia de los juzgados de familia en que aparezcan involucrados intereses de niños, niñas, adolescentes, o incapaces, el juez deberá velar porque éstos se encuentren debidamente representados.
@@ -458,13 +460,13 @@ El ministro de fe dará aviso de esta notificación a ambas partes el mismo día
 
 Cuando la demanda deba notificarse a persona cuya individualización o domicilio sean difíciles de determinar, el juez dispondrá que se practique por cualquier medio idóneo que garantice la debida información del notificado, para el adecuado ejercicio de sus derechos.
 
-Las restantes notificaciones se practicarán por el estado diario, salvo que se trate de las sentencias definitivas y de las resoluciones en que se ordene la comparecencia personal de las partes que no hayan sido expedidas en el curso de alguna de las audiencias, las que serán notificadas por carta certificada.
-
-Las notificaciones por carta certificada se entenderán practicadas desde el tercer día siguiente a aquél en que fueron expedidas.
+Las restantes notificaciones se practicarán por el estado diario electrónico, sin perjuicio de lo dispuesto en el inciso séptimo.
 
 Excepcionalmente, y por resolución fundada, el juez podrá ordenar que la notificación se practique por personal de Carabineros o de la Policía de Investigaciones.
 
-Los patrocinantes de las partes, en la primera actuación que realicen en el proceso, deberán indicar otra forma de notificación que elijan para sí, que el juez califique como expedita y eficaz, bajo apercibimiento de serles notificadas por el estado diario todas las resoluciones que se dicten en lo sucesivo en el proceso.
+Los abogados patrocinantes y los mandatarios judiciales de las partes, en la primera actuación que realicen en el proceso, deberán indicar otra forma de notificación electrónica que elijan para sí, que el juez califique como expedita y eficaz, bajo apercibimiento de serles notificadas por el estado diario electrónico todas las resoluciones que se dicten en lo sucesivo en el proceso. El medio de notificación indicado por las partes será aplicable también respecto de las sentencias definitivas y las resoluciones en que se ordene la comparecencia personal de las partes que no hayan sido expedidas en el curso de alguna de las audiencias. Con todo, si el demandado no hubiere realizado ninguna actuación en juicio o si las partes no hubieren designado un medio de notificación electrónico cuando comparecieren, conforme a lo dispuesto en el inciso final del artículo 18, estas resoluciones serán notificadas por carta certificada.
+
+Las notificaciones por carta certificada se entenderán practicadas desde el tercer día siguiente a aquel en que fueron expedidas, de lo que se dejará constancia. La notificación electrónica se entenderá practicada desde el momento de su envío.
 
 #### Artículo 24
 
@@ -750,6 +752,22 @@ El juez podrá eximir a la parte de comparecer personalmente, lo que deberá hac
 
 Del mismo modo, el demandado que tuviere su domicilio en un territorio jurisdiccional distinto de aquél en que se presentó la demanda, podrá contestarla y demandar reconvencionalmente, por escrito, ante el juez con competencia en materias de familia de su domicilio, sin perjuicio de la designación de un representante para que comparezca en su nombre en las audiencias respectivas.
 
+#### Artículo 60 bis
+
+De la comparecencia voluntaria de las partes a audiencia por videoconferencia. El juez podrá autorizar la comparecencia remota por videoconferencia de cualquiera de las partes que así lo solicite, a una o varias de las audiencias judiciales de su competencia que se verifiquen presencialmente en el tribunal, si cuenta con los medios idóneos para ello y si, en su opinión, dicha forma de comparecencia resultare eficaz y no causare indefensión.
+
+La parte interesada deberá solicitar comparecer por esta vía hasta dos días antes de la realización de la audiencia, ofreciendo algún medio de contacto oportuno, tales como número de teléfono o correo electrónico, a efectos de que el tribunal coordine la realización de la audiencia. Si no fuere posible contactar a la parte interesada a través de los medios ofrecidos tras tres intentos, de lo cual se deberá dejar constancia, se entenderá que no ha comparecido a la audiencia.
+
+La comparecencia remota de la parte se realizará desde cualquier lugar, con auxilio de algún medio tecnológico compatible con los utilizados por el Poder Judicial e informados por su Corporación Administrativa. Adicionalmente, para el caso en que la parte se encontrare fuera de la región en que se sitúa el tribunal, la comparecencia remota también podrá realizarse en dependencias de cualquier otro tribunal, si éste contare con disponibilidad de medios electrónicos y dependencias habilitadas. La Corte Suprema deberá regular mediante auto acordado la forma en que se coordinará y se hará uso de dichas dependencias.
+
+La constatación de la identidad de la parte que comparece de forma remota se deberá efectuar inmediatamente antes de la audiencia, de manera remota ante el ministro de fe o el funcionario que determine el tribunal respectivo, mediante la exhibición de su cédula de identidad o pasaporte, de lo que se dejará registro. Con todo, la declaración de parte, testigos y peritos y otras actuaciones que el juez determine sólo podrá rendirse en dependencias del tribunal.
+
+La disponibilidad y correcto funcionamiento de los medios tecnológicos de las partes que comparezcan remotamente en dependencias ajenas al Poder Judicial será de su responsabilidad. Con todo, la parte podrá alegar entorpecimiento si el mal funcionamiento de los medios tecnológicos no fuera atribuible a ella. En caso de acoger dicho incidente, el tribunal fijará un nuevo día y hora para la continuación de la audiencia, sin que se pierda lo obrado con anterioridad a dicho mal funcionamiento. En la nueva audiencia que se fije, el tribunal velará por la igualdad de las partes en el ejercicio de sus derechos.
+
+Lo dispuesto en los incisos anteriores es sin perjuicio de la modalidad de funcionamiento excepcional a través de audiencias remotas, por razones de buen servicio judicial, regulado en el artículo 47 D del Código Orgánico de Tribunales.
+
+> **Nota.** NOTA 1 El inciso segundo del artículo duodécimo transitorio de la ley 21394, publicada el 30.11.2021, dispone que, durante el periodo de un año contado desde la entrada en vigencia señalada en el inciso primero de la citada norma transitoria, las disposiciones contenidas en el artículo 60 bis de la presente norma, regirán en los tiempos y territorios en que las disposiciones del artículo decimosexto transitorio no fueren aplicables, de conformidad a la extensión temporal o territorial que conforme dicho artículo disponga la Corte Suprema.
+
 #### Artículo 61
 
 Audiencia preparatoria. En la audiencia preparatoria se procederá a:
@@ -836,6 +854,14 @@ Practicada la prueba, el juez podrá solicitar a un miembro del consejo técnico
 
 Finalmente, las partes formularán, oralmente y en forma breve, las observaciones que les merezca la prueba y la opinión del miembro del consejo técnico, así como sus conclusiones, de un modo preciso y concreto, con derecho a replicar respecto de las conclusiones argumentadas por las demás.
 
+#### Artículo 64 bis
+
+En los divorcios de mutuo acuerdo, cumplidos los requisitos señalados en el artículo 55 de la ley Nº 19.947, que establece nueva ley de matrimonio civil, el tribunal podrá acceder de plano a la demanda si las partes así lo solicitan y acompañan en ese acto los documentos necesarios para acoger la pretensión.
+
+Para lo dispuesto en el inciso anterior, las partes, a través del sistema de tramitación electrónica del Poder Judicial, deberán acompañar los documentos fundantes de su solicitud y, para efectos de lo dispuesto en el inciso final del artículo 55 de la citada ley, dos declaraciones juradas de testigos que permitan acreditar que no ha existido por parte de los cónyuges reanudación de la vida en común con ánimo de permanencia. De la misma forma, y sin perjuicio de la prueba documental que pudiera presentarse, podrá acreditarse el tiempo de cese de la convivencia, tratándose de un matrimonio celebrado con anterioridad a la fecha de entrada en vigencia de la ley N° 19.947.
+
+Las declaraciones juradas a que hace referencia el inciso anterior podrán ser suscritas mediante firma electrónica simple.
+
 #### Artículo 65
 
 Sentencia. Una vez concluido el debate, el juez comunicará de inmediato su resolución, indicando los fundamentos principales tomados en consideración para dictarla. Excepcionalmente, cuando la audiencia de juicio se hubiere prolongado por más de dos días, podrá postergar la decisión del caso hasta el día siguiente hábil, lo que se indicará a las partes al término de la audiencia, fijándose de inmediato la oportunidad en que la decisión será comunicada.
@@ -902,7 +928,7 @@ de los derechos de los niños, niñas o adolescentes
 
 #### Artículo 68
 
-Procedimiento de aplicación de medidas de protección. En los casos en que la ley exige o autoriza la intervención judicial para adoptar las medidas de protección jurisdiccionales establecidas en la ley, tendientes a la protección de los derechos de los niños, niñas o adolescentes cuando éstos se encontraren amenazados o vulnerados, se aplicará el procedimiento contenido en el presente Párrafo. En lo no previsto por éste, se aplicarán las normas del Título III.
+Procedimiento de aplicación de medidas de protección. En los casos en que la ley exige o autoriza la intervención judicial para adoptar las medidas de protección jurisdiccionales establecidas en la ley que crea el Sistema Integral de Protección y Garantías de los Derechos de la Niñez y Adolescencia, tendientes a la protección de los derechos de los niños, niñas o adolescentes cuando éstos se encontraren amenazados o vulnerados, se aplicará el procedimiento contenido en el presente Párrafo. En lo no previsto por éste, se aplicarán las normas del Título III.
 
 La intervención judicial será siempre necesaria cuando se trate de la adopción de medidas que importen separar al niño, niña o adolescente de uno o ambos padres o de quienes lo tengan legalmente bajo su cuidado.
 
@@ -1224,7 +1250,9 @@ De los actos judiciales no contenciosos
 
 Del procedimiento aplicable. Los actos judiciales no contenciosos cuyo conocimiento corresponda a los jueces de familia se regirán por las normas de la presente ley y, en lo no previsto en ellas, por el Libro IV del Código de Procedimiento Civil, a menos que resulten incompatibles con la naturaleza de los procedimientos que esta ley establece, particularmente en lo relativo a la exigencia de oralidad.
 
-La solicitud podrá ser presentada por escrito y el juez podrá resolverla de plano, a menos que considere necesario oír a los interesados. En este último caso, citará a una audiencia, a la que concurrirán con todos sus antecedentes, a fin de resolver en ella la cuestión no contenciosa sometida a su conocimiento.
+La solicitud podrá ser presentada por escrito y el juez podrá resolverla de plano, a menos que considere necesario oír a los interesados. En este último caso, citará a una audiencia, a la que concurrirán con todos sus antecedentes, a fin de resolver en ella la cuestión no contenciosa sometida a su conocimiento. El interesado podrá solicitar del tribunal que se le autorice a comparecer a esta audiencia por vía remota por videoconferencia, según lo dispuesto en el artículo 60 bis de esta ley.
+
+> **Nota.** NOTA 2 El inciso segundo del artículo duodécimo transitorio de la ley 21394, publicada el 30.11.2021, dispone que, durante el periodo de un año contado desde la entrada en vigencia señalada en el inciso primero de la citada norma transitoria, las disposiciones contenidas en el artículo 60 bis de la presente norma, regirán en los tiempos y territorios en que las disposiciones del artículo decimosexto transitorio no fueren aplicables, de conformidad a la extensión temporal o territorial que conforme dicho artículo disponga la Corte Suprema.
 
 ### Párrafo 4º — Procedimiento Contravencional ante los Tribunales de Familia
 
@@ -1314,6 +1342,8 @@ DE LA MEDIACION FAMILIAR
 
 Mediación. Para los efectos de esta ley, se entiende por mediación aquel sistema de resolución de conflictos en el que un tercero imparcial, sin poder decisorio, llamado mediador, ayuda a las partes a buscar por sí mismas una solución al conflicto y sus efectos, mediante acuerdos.
 
+La mediación, con acuerdo de las partes, se podrá realizar vía remota mediante videoconferencia según lo dispuesto en el artículo 109 bis, si el mediador contare con los medios tecnológicos para ello. Ambas partes podrán comparecer remotamente, o bien, una de ellas podrá hacerlo de manera remota y la otra en las dependencias del mediador o del Centro de Mediación, si así lo convinieren.
+
 > **Nota.** El artículo 7º de la LEY 20286, publicada el 15.09.2008, dispone que las modificaciones introducidas por el numeral 44) del artículo 1º regirán transcurridos noventa días desde su publicación.
 
 #### Artículo 104
@@ -1378,7 +1408,7 @@ Una vez realizadas las actuaciones a que se refieren los artículos precedentes,
 
 #### Artículo 108
 
-Citación a la sesión inicial de mediación. El mediador designado fijará una sesión inicial de mediación. A ésta citará, conjunta o separadamente, a los adultos involucrados en el conflicto, quienes deberán concurrir personalmente, sin perjuicio de la comparecencia de sus abogados.
+Citación a la sesión inicial de mediación. El mediador designado fijará una sesión inicial de mediación. A ésta citará, conjunta o separadamente, a los adultos involucrados en el conflicto, quienes deberán concurrir personalmente o vía remota por videoconferencia, según corresponda, sin perjuicio de la comparecencia de sus abogados.
 
 La primera sesión comenzará con la información a los participantes acerca de la naturaleza y objetivos de la mediación, los principios que la informan y el valor jurídico de los acuerdos a que puedan llegar.
 
@@ -1392,6 +1422,22 @@ Si el requerido, citado por una sola vez, no acude a la primera sesión de media
 
 > **Nota.** El artículo 7º de la LEY 20286, publicada el 15.09.2008, dispone que las modificaciones introducidas por el numeral 44) del artículo 1º regirán transcurridos noventa días desde su publicación.
 
+#### Artículo 109 bis
+
+Mediación por vía remota mediante videoconferencia. La mediación que se efectuare por vía remota mediante videoconferencia se realizará de conformidad a lo dispuesto en este artículo y a las demás normas del Título V que no resulten contradictorias.
+
+El mediador dispondrá de un medio de contacto que asegure la adecuada comunicación con las partes y que permita la oportuna y efectiva entrega y recepción de la información necesaria para la conducción del proceso de mediación remota.
+
+En la víspera de la sesión de mediación, las partes proporcionarán al mediador algún medio de contacto oportuno, tales como número de teléfono o correo electrónico, para efectos de intercambiar información y para la coordinación de las sesiones que pudieran tener lugar; y deberán remitir por escrito al mediador el acuerdo para la realización de la mediación vía remota. Las partes que concurran vía remota deberán previamente remitirle al mediador copia de su cédula de identidad al medio de contacto que aquel les hubiere indicado.
+
+Al inicio de la sesión, el mediador deberá verificar la identidad de las partes y solicitar que éstas ratifiquen su voluntad de llevar adelante el proceso de mediación remota por videoconferencia. A su vez, el mediador deberá constatar, sea mediante preguntas o la exhibición del entorno, que las partes que concurren vía remota se encuentran en un lugar adecuado para participar de la sesión de mediación que cumpla con las condiciones de idoneidad y privacidad suficientes, así como también, que no se encuentran presentes terceras personas ajenas al proceso.
+
+El mediador deberá prestar especial atención a que el intercambio de información entre las partes se realice de manera fluida y clara sin ningún tipo de coacción externa. El mediador estará siempre facultado para poner término o suspender un proceso de mediación seguido por vía remota si observare que el mismo no se pudiere realizar en conformidad a los principios de la mediación.
+
+Si hubiere mal funcionamiento de los medios tecnológicos, el mediador dispondrá la suspensión de la sesión y fijará un nuevo día y hora para su continuación en la fecha más próxima posible. Lo anterior es sin perjuicio de lo dispuesto en el inciso final del artículo 111.
+
+Las sesiones de mediación no podrán ser grabadas, captadas, interceptadas, divulgadas ni reproducidas por las partes, el mediador ni por terceras personas, por ningún medio material, digital o de comunicación masiva. Tampoco se podrán fotografiar imágenes o documentos de la sesión. La infracción a lo dispuesto en este artículo será sancionada de acuerdo a las penas establecidas en el artículo 161 - A del Código Penal.
+
 #### Artículo 110
 
 Duración de la mediación. El proceso de mediación no podrá durar más de sesenta días, contados desde que se comunica al mediador su designación por parte del juzgado de familia.
@@ -1404,7 +1450,7 @@ Durante ese plazo, podrán celebrarse todas las sesiones que el mediador y las p
 
 #### Artículo 111
 
-Acta de mediación. En caso de llegar a acuerdo sobre todos o algunos de los puntos sometidos a mediación, se dejará constancia de ello en un acta de mediación, la que, luego de ser leída por los participantes, será firmada por ellos y por el mediador, quedando una copia en poder de cada una de las partes.
+Acta de mediación. En caso de llegar a acuerdo sobre todos o algunos de los puntos sometidos a mediación, se dejará constancia de ello en un acta de mediación, la que, luego de ser leída por los participantes, será firmada por ellos y por el mediador, quedando una copia en poder de cada una de las partes. En caso que la mediación se verificare vía remota por videoconferencia, el acta podrá ser firmada mediante firma electrónica simple o avanzada.
 
 El acta deberá ser remitida por el mediador al tribunal para su aprobación en todo aquello que no fuere contrario a derecho, pudiendo el juez en todo caso, subsanar los defectos formales que tuviera, respetando en todo momento la voluntad de las partes expresada en dicha acta. Aprobada por el juez, tendrá valor de sentencia ejecutoriada.
 
@@ -1419,6 +1465,8 @@ Se entenderá que la mediación se frustra si alguno de los participantes, citad
 Registro de mediadores. La mediación que regula el presente Título sólo podrá ser conducida por las personas inscritas en el Registro de Mediadores que mantendrá, permanentemente actualizado, el Ministerio de Justicia a través de las Secretarías Regionales Ministeriales, con las formalidades establecidas en el reglamento.
 
 En dicho Registro, deberá individualizarse a todos los mediadores inscritos y consignarse el ámbito territorial en que prestarán servicios. Éste deberá corresponder, a lo más, al territorio jurisdiccional de una Corte de Apelaciones o de varias, siempre que se encuentren en una misma región y a lo menos, a todo el territorio jurisdiccional de un tribunal de primera instancia con competencia en asuntos de familia. Además, si corresponde, se señalará su pertenencia a una institución o persona jurídica.
+
+El mediador podrá llevar adelante el proceso de mediación siempre que se encuentre adscrito, en virtud de lo señalado en el inciso anterior, al territorio jurisdiccional del tribunal competente para conocer del conflicto.
 
 El Ministerio de Justicia proporcionará a las Cortes de Apelaciones la nómina de los mediadores habilitados en su respectivo territorio jurisdiccional. Asimismo, deberá mantener en su página web dicha nómina, la cual deberá ordenar a los mediadores por comunas y contener los datos básicos de cada uno de ellos.
 

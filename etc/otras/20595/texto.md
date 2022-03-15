@@ -50,9 +50,9 @@ Otros Usuarios del Subsistema. Sin perjuicio de lo establecido en el inciso prim
 
 (a) Tener 65 o más años de edad, vivir solo o con una persona y estar en situación de pobreza. Para la calificación de condición de pobreza no se considerarán los beneficios que le hayan sido otorgados de conformidad a la ley N° 20.255;
 
-(b) Las personas en situación de calle;
+(b) Las personas en situación de calle mayores de edad. Los niños, niñas y adolescentes en situación de calle estarán a cargo del Servicio Nacional de Protección Especializada a la Niñez y Adolescencia;
 
-(c) Los menores de edad, cuyo adulto significativo se encuentre privado de libertad. También serán beneficiarios los cuidadores de tales menores.
+(c) Eliminado.
 
 Las referidas personas podrán acceder a todas las acciones y prestaciones contempladas en el Subsistema, de acuerdo a lo establecido en la presente ley.
 
