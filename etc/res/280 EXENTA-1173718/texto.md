@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 280 del 8 de marzo de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Avenida La Concepción Nº324, comuna de Chillán, Rol de Avalúo Nº 00492-00019, de aparente dominio de Rodríguez Inostroza Carmen Gloria. La parte afecta a expropiación total de terreno es de 201,036 m2 y total 70,614m2, cuyos linderos particulares, enmarcados en el plano S16R-183, para el proyecto "Mejoramiento Diego Portales-Francisco Ramírez, Chillán, Comuna de Chillán, Región de Ñuble", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, Arquitecto Andrés Javier Tobar Beluzán y por el Ingeniero Civil Industrial don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $126.691.512.-
+
+Director Serviu Región de Ñuble.
