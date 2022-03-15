@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 272 del 8 de marzo de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Francisco Ramírez 298, comuna de Chillán, Rol de Avalúo Nº 00497-00098, de aparente dominio de Escoas SpA. La parte afecta a expropiación parcial de terreno es de 126,289 m2 y total de 40,645 m2 de edificación y, cuyos linderos particulares, enmarcados en el plano S16R-190, para el proyecto "Mejoramiento Diego Portales-Francisco Ramírez, Chillan, Comuna de Chillán, Región de Ñuble", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, Arquitecto don Andrés Javier Tobar Beluzan y por el Arquitecto don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $72.491.634.-
+
+Director Serviu Región de Ñuble.
