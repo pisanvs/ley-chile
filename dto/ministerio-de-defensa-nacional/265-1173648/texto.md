@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 265, de 7 de julio de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Ilustre Municipalidad de Calbuco, RUT 69.220.600-2, concesión marítima menor, con vencimiento 31 de diciembre de 2030, sobre un sector de Playa, en el lugar denominado Sector 11, Punta Chucagua, comuna de Calbuco, Provincia de Llanquihue, Región de Los Lagos, con una superficie total de 3.840,69 m², la que fue tramitada con el SIABC N° 44.449. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 41° 46' 01,06" S - 73° 8' 29,29'' W. El objeto de esta concesión marítima, sobre el sector otorgado, consiste en la habilitación y uso de un paseo peatonal, miradores, áreas verdes y ciclovías. Las obras consisten en habilitar el espacio como paseo peatonal, mirador y áreas verdes. El plazo contemplado para su ejecución es de 34 meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Calbuco. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Capitán de Puerto de Calbuco.
