@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 391, de 20 de septiembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Ilustre Municipalidad de Calbuco, RUT 69.220.600-2, concesión marítima menor, con vencimiento 30 de junio del año 2031, sobre un sector de Playa de mar, en el lugar denominado Sector Ocho Torreón, Noreste Punta la Picuta, comuna de Calbuco, Provincia de Llanquihue, Región de Los Lagos, con una superficie total de 1.387,07 m2, la que fue tramitada con el SIABC Nº 44.617. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): "41° 46' 02,63" S - 73° 7' 47,03" W. El objeto de esta concesión marítima, sobre el sector otorgado consiste en habilitar y usar un paseo peatonal, miradores, áreas verdes y ciclovías. Las obras consisten en habilitar el espacio como paseo peatonal, miradores, áreas verdes y ciclovías. El plazo contemplado para su ejecución es de 36 meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Calbuco.
+
+El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
