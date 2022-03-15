@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 500, 23 de febrero de 2022, Serviu Región del Biobío ordenó el desistimiento de expropiación del inmueble ubicado en Irarrazabal 497, Rol de Avalúo Nº 351-14, comuna de Concepción, de aparente dominio de Valenzuela Iribarren Suc., superficie afecta a desistimiento de expropiación parcial de terreno de 11,79 m2 y expropiación de edificaciones total de 103,27 m2 (a+b), Polígono de 1º nivel= a (44,57 m2) y Polígono de 2º nivel= b (58,70 m2), según plano S8R 41449-3, cuyos deslindes particulares se indican en el plano precitado, para la ejecución de las obras del proyecto "Mejoramiento PAR Vial Collao-General Novoa" comuna de Concepción, Región del Biobío. El monto total, respecto del cual se solicitará la devolución de dinero al Tribunal por concepto de desistimiento de la expropiación, arroja la suma de $58.038.856.-
+
+Director Serviu Región del Biobío.
