@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº16, de 20 de enero de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960 y artículo 12º, de la ley Nº18.777, se expropió para la Empresa de Servicios Sanitarios San Isidro S.A. (ESSSI S.A), el lote de terreno A, para la obra: RECINTO PEAS LOS ROBLES, que figura a nombre de FRANCISCO MARTIN HUALA, inscrito en el Registro de Propiedad Fs. 1986 v, Nº1998, año 2000, CBR Temuco, Comuna de TEMUCO, REGION DE LA ARAUCANÍA, superficie 224 m2. La Comisión de Peritos integrada por CLAUDIO ALEJANDRO ROMO SANHUEZA, ARTURO OSVALDO CANTOS OYARZUN y CONSTANZA VICTORIA NILDA MIHOEVIC GONZALEZ, mediante informe de tasación de 06 de agosto de 2021, fijó el monto de la indemnización provisional en la cantidad de $6.066.412 para el lote A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
