@@ -1,0 +1,7 @@
+OTORGAMIENTO DE DESTINACIÓN MARÍTIMA PARA A.M.E.R.B.
+
+Decreto exento Nº 40, del 7 de enero de 2022, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Ministerio de Economía, Fomento y Turismo, Subsecretaria de Pesca y Acuicultura, para el Servicio Nacional de Pesca y Acuicultura, RUT Nº 60.701.002-1, segunda renovación de destinación marítima, con vencimiento el 31 de diciembre de 2036, sobre un sector de porción de agua y fondo de mar, en el lugar denominado Bajo Quihua, comuna de Calbuco, Provincia de Llanquihue, Región de Los Lagos, superficie 696.900 m², la que fue tramitada con el SIABC Nº 37.149. A modo de referencia se señalan las siguientes coordenadas geográficas:
+
+El objeto de esta destinación marítima en los sectores otorgados, es continuar amparando un Área de Manejo y Explotación de Recursos Bentónicos, según lo establecido en el título IV, párrafo 3º, artículo 55 A de la Ley Nº 18.892, Ley General de Pesca y Acuicultura y sus modificaciones; y el DS Nº 355 del 12 de junio de 1995, del Ministerio de Economía, Fomento y Reconstrucción, Reglamento sobre Áreas de Manejo y Explotación de Recursos Bentónicos.
+
+Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Calbuco. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
