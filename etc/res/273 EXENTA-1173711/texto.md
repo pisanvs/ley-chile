@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 273 del 8 de marzo de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en calle Huambalí 1299, comuna de Chillán, Rol de Avalúo Nº 00785-00011, de aparente dominio de Muñoz Muñoz Matías René. La parte afecta a expropiación parcial de terreno es de 2,54 m2, cuyos linderos particulares, enmarcados en el plano S16R-140, para el proyecto "Mejoramiento Av. Huambalí, comuna de Chillán Región de Ñuble", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, Ingeniero Constructor Lorena Elizabeth Gajardo Alarcón y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $1.561.466.-
+
+Director Serviu Región de Ñuble.
