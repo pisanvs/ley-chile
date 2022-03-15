@@ -1,0 +1,5 @@
+NOTIFICA RESOLUCIÓN EXENTA N° 2022/PA/04/020 DE FECHA 21 DE FEBRERO DE 2022 QUE DESIGNA FISCAL
+
+La Superintendencia de Educación, por resolución exenta N° 2022/PA/04/020, de fecha 21 de febrero de 2022, del Encargado de Fiscalización de la Dirección Regional de la Superintendencia de Educación de la Región de Coquimbo, designa fiscal instructora en proceso administrativo ordenado instruir en contra del establecimiento educacional Colegio Montegrande, RBD 13437, de la comuna de La Serena, de la sostenedora Sociedad Educacional Pizarro y Pastene &, RUT N° 77.211.060-K, representada legalmente por doña María Inés Pizarro Castillo, RUT N° 6.672.474-3. Resolviendo: 1. Desígnese Fiscal Instructora a doña Claudia Astudillo Aguirre, correo electrónico: claudia.astudillo@supereduc.cl, funcionaria de la Superintendencia de Educación, quien será responsable de la tramitación de este proceso, de formular cargos, de investigar los hechos, solicitar informes, ponderar las pruebas y disponer toda otra diligencia que dé curso al procedimiento.-
+
+Manuel Castillo Álvarez, Encargado de Fiscalización, Dirección Regional, Superintendencia de Educación, Región de Coquimbo.
