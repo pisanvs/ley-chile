@@ -1,0 +1,7 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 417, de 22 de octubre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Alejandro Alfonso Tapia Castillo, RUN 4.477.714-2, concesión marítima menor, con vencimiento 31 de diciembre de 2026, sobre un sector de terreno de playa y uso de mejora fiscal, en el lugar denominado Caleta Angosta, comuna de Huasco, Provincia de Huasco, Región de Atacama, con una superficie total de 1120,60 m2, la que fue tramitada con el SIABC Nº 46.062. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s):
+
+El objeto consiste en regularizar las mejoras fiscales correspondientes a dos construcciones existentes destinadas a vivienda familiar. Las obras consisten en 2 construcciones de estructura soportante de madera, con terminaciones económicas y sencillas, en buen estado de conservación y el plazo contemplado para su ejecución es de 7 años. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Huasco. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Gonzalo Barría Sepúlveda, Teniente 1º LT, Capitán de Puerto, Capitanía de Puerto de Huasco.
