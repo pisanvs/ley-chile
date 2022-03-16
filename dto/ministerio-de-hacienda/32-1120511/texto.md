@@ -108,7 +108,7 @@ Corresponderá al Director Nacional de Aduanas establecer, mediante resolución,
 
 #### Artículo 12
 
-Las personas que se encuentren operando como entidades certificadoras ante el Servicio Nacional de Aduanas a la fecha de publicación del presente Reglamento deberán dar cumplimiento a lo establecido en éste, dentro del plazo de 36 meses contados desde la fecha de su publicación, el cual podrá ser prorrogado por un plazo adicional de hasta 6 meses.
+Las personas que se encuentren operando como entidades certificadoras ante el Servicio Nacional de Aduanas a la fecha de publicación del presente Reglamento deberán dar cumplimiento a lo establecido en éste, dentro del plazo de 48 meses contados desde la fecha de su publicación, el cual podrá ser prorrogado por un plazo adicional de hasta 6 meses.
 
 > **Nota.** La Resolución 3336 Exenta, Hacienda, publicada el 19.07.2019, modificas la presente norma en el sentido de prorrogar el plazo al que se refiere el presente artículo para cumplir con los requisitos que éste establece, por 2 meses a contar del 9 de julio de 2019, para las empresas indicadas en el Anexo de la citada norma.
 
