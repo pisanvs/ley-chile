@@ -18,7 +18,7 @@ Considerando:
 
 5°. Que, mediante sesiones efectuadas el 4, 11 y 25 de agosto, así como en la del 1 de septiembre, el Consejo Nacional de Educación analizó la propuesta y antecedentes acompañados por el Ministerio de Educación y, por unanimidad de sus miembros y en ejercicio de sus facultades, por medio de resolución exenta N° 176, de 10 de septiembre de 2021 ejecutándose el Acuerdo N° 101/2021, aprobó la propuesta de Plan de Estudio de 1° y 2° año básico para la asignatura de Lengua y Cultura de los Pueblos Originarios Ancestrales;
 
-6°. Que, dando cumplimiento a lo establecido en el inciso quinto del artículo 31 de la Ley General de Educación, es necesario dictar el presente decreto;
+6°. Que, dando cumplimiento a lo establecido en el inciso quinto del artículo 31 de la Ley General de Educación, es necesario dictar la presente resolución;
 
 Resuelvo:
 
@@ -60,11 +60,11 @@ Por otra parte, los establecimientos con JEC, como los sin JEC, que implementar�
 
 #### Artículo 2°
 
-Téngase presente que el Plan de estudio de acuerdo con las Bases Curriculares que en este decreto se aprueban, rige desde el año escolar 2021, según los plazos determinados por esta Secretaría de Estado, gradualidad de implementación indicada en el decreto supremo N° 97, de 2020, del Ministerio de Educación.
+Téngase presente que el Plan de estudio de acuerdo con las Bases Curriculares que en esta resolución se aprueban, rige desde el año escolar 2021, según los plazos determinados por esta Secretaría de Estado, gradualidad de implementación indicada en el decreto supremo N° 97, de 2020, del Ministerio de Educación.
 
 #### Artículo 3°
 
-Declárase "oficial" la edición del Ministerio de Educación de los planes de estudio correspondientes a las asignaturas de aprendizaje aprobados en el presente decreto, que el Ministerio de Educación pondrá a disposición de todos los establecimientos educacionales de educación media del país, a través de su página web (www.mineduc.cl).
+Declárase "oficial" la edición del Ministerio de Educación de los planes de estudio correspondientes a las asignaturas aprobadas en la presente resolución, que el Ministerio de Educación pondrá a disposición de todos los establecimientos educacionales de educación media del país, a través de su página web (www.mineduc.cl).
 
 Anótese y publíquese.- Raúl Figueroa Salas, Ministro de Educación.
 
