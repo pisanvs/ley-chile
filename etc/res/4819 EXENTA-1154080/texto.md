@@ -210,9 +210,17 @@ iii. Si un postulante rindió exámenes libres, su Puntaje Ranking se asignará 
 
 iv. Si un postulante cursó parte de la enseñanza media en el extranjero y cuenta con Puntaje NEM, se le asignará su Puntaje NEM como Puntaje Ranking en aquellos cursos aprobados en el extranjero. Este puntaje será asociado a un contexto educativo. Luego su Puntaje Ranking será el promedio ponderado por la cantidad de cursos aprobados en los distintos contextos educativos, como fue descrito anteriormente."
 
-3. Prueba de admisión universitaria de Matemáticas:
+3. Pruebas de admisión universitaria de Matemáticas:
 
-Destinada a medir los conocimientos y competencias necesarias para un adecuado desempeño académico, es de carácter obligatorio para la postulación establecida en este capítulo.
+Destinada a medir los conocimientos y competencias necesarias para un adecuado desempeño académico, es de carácter obligatorio para la postulación establecida en este capítulo. A partir de la aplicación regular del proceso de admisión 2023, será reemplazada por las pruebas de Competencia Matemática 1 y de Competencia Matemática 2:
+
+3.1) Prueba de Competencia Matemática 1:
+
+Es de carácter obligatorio para la postulación establecida en este capítulo.
+
+3.2) Prueba de Competencia Matemática 2:
+
+Será utilizada como un requisito obligatorio para la postulación centralizada a partir del proceso de admisión 2023, de los programas de estudios correspondientes a las carreras genéricas determinadas por el Comité Técnico de Acceso del Subsistema Universitario y además de otras carreras según lo determine cada universidad adscrita al Sistema de Acceso e informe a la Subsecretaría de Educación Superior dentro de los plazos establecidos por esta última.
 
 4. Prueba de admisión universitaria de Comprensión Lectora:
 
@@ -238,7 +246,7 @@ La etapa de inscripción consiste en la declaración voluntaria, individual e in
 
 Sin perjuicio de lo anterior, al término del plazo de inscripción ordinaria, o extraordinaria si lo hubiera, y ante la imposibilidad de concretar la inscripción dentro de los plazos establecidos, los postulantes podrán presentar una apelación de inscripción, en los plazos y forma que la/s entidad/es responsable/s de la ejecución del proceso de selección determine/n, toda vez que se verifique el intento de gestión de esta y siempre que se refiera a circunstancias no imputables al postulante.
 
-Pueden inscribirse quienes hayan egresado de la Enseñanza Media o se encuentren cursando actualmente el último año de ésta, incluidos los extranjeros que para dicho efecto hayan reconocido dicha calidad en nuestro país. Sin perjuicio de lo anterior, para la aplicación de invierno, podrán inscribirse sólo quienes, a la fecha de inscripción, hayan egresado de la Enseñanza Media.
+Pueden inscribirse todas aquellas personas que hayan egresado de la Enseñanza Media o se encuentren cursando actualmente el último año de ésta, incluido los extranjeros que para dicho efecto hayan reconocido dicha calidad en nuestro país.
 
 Los postulantes de promociones anteriores que no registran notas en la plataforma de inscripción o el sistema dispuesto para este efecto, no podrán concretar su inscripción hasta que regularicen su situación ante el Ministerio de Educación.
 
@@ -248,7 +256,7 @@ Aquellos postulantes que hayan experimentado un cambio de nombre y/o apellido en
 
 Documentos válidos para realizar la inscripción: Los documentos de identificación válidos para realizar la inscripción son la cédula nacional chilena de identidad, el pasaporte y el Identificador Provisional Escolar (IPE). Sin perjuicio de lo anterior, previa evaluación de la situación, la Subsecretaría de Educación Superior y la institución encargada de la ejecución de las acciones del Sistema de Acceso podrán definir documentos y/o procedimientos de identificación alternativos, los cuales deberán ser informados en la o las plataformas digitales correspondientes. En caso de haberse inscrito con IPE, los postulantes deberán regularizar su situación, a fin de contar con cédula nacional de identidad o pasaporte según lo que se establezca en el calendario oficial del proceso.
 
-Tarjeta de identificación: Todo postulante debe constatar que la información ingresada en el sistema de inscripción por internet corresponda con sus datos efectivos y, después de pagar el arancel de rendición e imprimir el comprobante de pago a través de alguna de las formas autorizadas, deberá imprimir su tarjeta de identificación, siguiendo los pasos indicados. La tarjeta será exigida junto con el documento de identificación (Cédula Nacional de Identidad chilena o Pasaporte) al momento de rendir la Prueba de Transición para la Admisión Universitaria.
+Tarjeta de identificación: Todo postulante debe constatar que la información ingresada en el sistema de inscripción por internet corresponda con sus datos efectivos y, después de pagar el arancel de rendición e imprimir el comprobante de pago a través de alguna de las formas autorizadas, deberá imprimir su tarjeta de identificación, siguiendo los pasos indicados. La tarjeta será exigida junto con el documento de identificación (Cédula Nacional de Identidad chilena o Pasaporte) al momento de rendir la prueba de admisión universitaria.
 
 En el caso que el postulante necesite realizar un cambio de la comuna de rendición y/o en una o ambas pruebas electivas a rendir, incluso después de la impresión de la tarjeta de identificación, podrá ingresar al sistema hasta el cierre de los archivos y realizar las modificaciones correspondientes. Realizadas las modificaciones pertinentes, el postulante deberá imprimir una nueva tarjeta de identificación. El sistema registra todas las modificaciones ingresados por los postulantes, razón por la cual, una vez efectuado un cambio, la tarjeta de identificación anterior pierde toda validez.
 
@@ -286,7 +294,7 @@ k. La única información válida para efectos del puntaje obtenido en las prueb
 
 l. En caso de existir una duda razonable sobre los puntajes obtenidos en la prueba de admisión universitaria por parte del postulante, éste puede solicitar la verificación de los mismos. Esta solicitud debe hacerse siguiendo los procedimientos que la institución/es encomendada/s para la ejecución de las acciones del Sistema de Acceso defina para estos efectos, durante los días establecidos en el Calendario Oficial, publicado en acceso.mineduc.cl. Asimismo, si existe una duda razonable sobre los resultados de la selección, podrá solicitar la verificación de estos en la fecha informada en el Calendario Oficial.
 
-m. Para los requerimientos, inquietudes y dudas respecto de los antecedentes académicos de enseñanza media, el órgano oficial que entrega información académica, para los postulantes de la promoción del año, promociones anteriores, alumnos con exámenes libres y extranjeros, será el Ministerio de Educación, siguiendo los procedimientos que se establezcan para estos efectos. Por otro lado, los requerimientos con relación a aspectos generales del proceso de admisión tales como el proceso de inscripción a las pruebas, su aplicación y resultados, la postulación y selección, deberán ser resueltos por la institución/es encomendada/s para ejecutar las acciones del Sistema de Acceso. No corresponderá a la institución/es encomendada/s resolver temas relacionados con datos académicos del postulante, como tampoco los relacionados a beneficios estudiantiles estatales tales como gratuidad, becas y créditos que deberán ser consultados directamente al Ministerio de Educación.
+m. Para los requerimientos, inquietudes y dudas respecto de los antecedentes académicos de enseñanza media, el �rgano oficial que entrega información académica, para los postulantes de la promoción del año, promociones anteriores, alumnos con exámenes libres y extranjeros, será el Ministerio de Educación, siguiendo los procedimientos que se establezcan para estos efectos. Por otro lado, los requerimientos con relación a aspectos generales del proceso de admisión tales como el proceso de inscripción a las pruebas, su aplicación y resultados, la postulación y selección, deberán ser resueltos por la institución/es encomendada/s para ejecutar las acciones del Sistema de Acceso. No corresponderá a la institución/es encomendada/s resolver temas relacionados con datos académicos del postulante, como tampoco los relacionados a beneficios estudiantiles estatales tales como gratuidad, becas y créditos que deberán ser consultados directamente al Ministerio de Educación.
 
 Los Derechos y Deberes de los postulantes son los siguientes:
 
@@ -324,11 +332,7 @@ b. Entregar, dentro de los plazos establecidos, los datos o documentos fidedigno
 
 c. Verificar que los antecedentes académicos disponibles en el portal estén correctos al momento de realizar la inscripción. Será responsabilidad del postulante solicitar al Ministerio de Educación, en los plazos establecidos y publicados en acceso.mineduc.cl, la regularización de dichos antecedentes, en caso de ser necesario.
 
-d. Deberes de inscripción:
-
-d.1. Inscribir todas las pruebas de admisión universitaria obligatorias y al menos una prueba electiva. Sin perjuicio de lo anterior, los postulantes que cuenten con licencia de enseñanza media podrán inscribir una o más pruebas, ya sea de aquellas obligatorias o de aquellas electivas.
-
-d.2. Pagar el arancel para la rendición de la o las pruebas, en caso que corresponda.
+d. Pagar el arancel para la rendición de las pruebas, en caso que corresponda.
 
 e. Presentarse a rendir las pruebas portando sólo su documento de identificación, su tarjeta de identificación, un lápiz grafito N° 2 o portaminas HB y goma de borrar. Opcionalmente podrá ingresar además con un destacador. Está estrictamente prohibido el ingreso y uso de calculadoras, celulares, máquinas fotográficas, tabletas u otros dispositivos electrónicos, así como el ingreso a los locales de aplicación con bolsos, mochilas, carteras, relojes digitales y cualquier otro elemento durante la rendición de las pruebas. Cabe señalar que, ni el Ministerio de Educación, ni la institución/es encomendada/s por la Subsecretaría de Educación Superior serán responsables por la eventual pérdida y/o daños de estos objetos una vez que los postulantes hayan ingresado al local de aplicación. Asimismo, el Ministerio de Educación podrá solicitar otros insumos necesarios, de acuerdo con lo que establezca la autoridad sanitaria al momento de la rendición.
 
@@ -350,7 +354,7 @@ m. No promover, participar, ejecutar o encubrir acto alguno que entorpezca o imp
 
 n. Realizar las postulaciones respetando todas las disposiciones generales y específicas de cada universidad, todo acto contrario anula las postulaciones afectadas, sin derecho a reclamo posterior.
 
-o. Informarse directamente a través de la Subsecretaría de Educación Superior del Ministerio de Educación sobre los beneficios estudiantiles que otorga este organismo, asociados a los puntajes de las Pruebas de admisión universitaria o las pruebas de transición de selección universitaria.
+o. Informarse directamente a través de la Subsecretaría de Educación Superior del Ministerio de Educación sobre los beneficios estudiantiles que otorga este organismo, asociados a los puntajes de las pruebas de admisión universitaria.
 
 Los demás deberes que les asignan la ley o reglamentos vigentes y el presente documento.
 
@@ -358,7 +362,7 @@ Las condiciones de participación en el proceso de admisión a la educación uni
 
 El postulante, al participar en el proceso, acepta que infringir sus normas genera las siguientes consecuencias:
 
-El incumplimiento de alguno de los deberes antes señalados, así como toda acción que altere o impida el normal desarrollo de las distintas etapas del proceso de admisión, perjudique o pueda perjudicar a los participantes, infrinja la obligación de rendir las pruebas en forma personal y sin ayuda o cualquier sustracción o difusión no autorizada de todo o parte del contenido de las pruebas de admisión universitaria o las pruebas de transición de selección universitaria, significará la exclusión inmediata del proceso en curso de admisión a las universidades adscritas al Sistema de Acceso y no podrá participar en el proceso de admisión inmediatamente posterior.
+El incumplimiento de alguno de los deberes antes señalados, así como toda acción que altere o impida el normal desarrollo de las distintas etapas del proceso de admisión, perjudique o pueda perjudicar a los participantes, infrinja la obligación de rendir las pruebas en forma personal y sin ayudas o cualquier sustracción o difusión no autorizada de todo o parte del contenido de las pruebas de admisión universitaria, significará la exclusión inmediata del proceso en curso de admisión a las universidades adscritas al Sistema de Acceso y no podrá participar en el proceso de admisión inmediatamente posterior.
 
 Asimismo, si en la rendición los documentos de identificación y/o la tarjeta de identificación no coinciden con el postulante, al igual que en los casos anteriores, significará exclusión inmediata del proceso en curso y no podrá participar en el proceso de admisión inmediatamente posterior.
 
@@ -388,7 +392,7 @@ Si la solicitud no cumple con los requisitos exigidos será rechazada y, para to
 
 La definición de los ajustes, adecuaciones o apoyos será resuelta por la institución encargada de la aplicación de la prueba, en atención a la evaluación efectuada por un Equipo Técnico Interdisciplinario que asesora este proceso y que está conformado por al menos 12 académicos y profesionales especializados en el apoyo a estudiantes en situación de discapacidad de instituciones de Educación Superior, invitados en atención a su currículo y área de especialidad, del Servicio Nacional de la Discapacidad, y de la Unidad de Educación Especial del Ministerio de Educación.
 
-Postulantes que rinden la prueba con nombre social: En atención a los principios orientadores del reconocimiento y protección de la identidad de género, desde el año 2018 las personas que utilizan en razón de su identidad de género, un nombre social distinto al nombre legal o registral, pueden solicitar utilizar dicho nombre social para la rendición de las pruebas. Para ello, en la ficha de inscripción a la prueba de admisión universitaria o en la prueba de transición de selección universitaria, debe solicitar utilizar su nombre social y, posteriormente, deberá enviar a la institución encargada de la aplicación de la prueba, sus antecedentes y documentación correspondiente. Dicho nombre social será con el que se le identificará en la lista de llamado de la sala en que le corresponda rendir la prueba. El nombre legal seguirá figurando en los documentos oficiales y en todos los sistemas para efectos de inscripción, entrega de puntajes, selección y matrícula.
+Postulantes que rinden la prueba con nombre social: En atención a los principios orientadores del reconocimiento y protección de la identidad de género, desde el año 2018 las personas que utilizan, en razón de su identidad de género, un nombre social distinto al nombre legal o registral, pueden solicitar utilizar dicho nombre social para la rendición de las pruebas. Para ello, en la ficha de inscripción a la prueba de admisión universitaria, debe solicitar utilizar su nombre social y, posteriormente, deberá enviar a la institución encargada de la aplicación de la prueba, sus antecedentes y documentación correspondiente. Dicho nombre social será con el que se le identificará en la lista de llamado de la sala en que le corresponda rendir la prueba. El nombre legal seguirá figurando en los documentos oficiales y en todos los sistemas para efectos de inscripción, entrega de puntajes, selección y matrícula.
 
 Etapa de rendición de la prueba de admisión.
 
@@ -598,15 +602,17 @@ La selección de postulantes se efectúa entre quienes obtienen los mejores dese
 
 Cada universidad será responsable de asignar a los puntajes de cada instrumento de acceso las ponderaciones que estime convenientes para sus carreras, respetando los siguientes mínimos:
 
-1. Puntaje de la Prueba de admisión universitaria de Matemáticas: ponderación mínima de 10%.
+1. Puntaje de la prueba de Competencia Matemática 1: ponderación mínima de 10%.
 
-2. Puntaje de la Prueba de admisión universitaria de Comprensión Lectora: ponderación mínima de 10%.
+2. Puntaje de la prueba de Competencia Lectora: ponderación mínima de 10%.
 
-3. Puntaje de alguna de las pruebas electivas: ponderación mínima de 10%. <sc-.1 10=""></sc-.1>
+3. Puntaje de alguna de las pruebas de Ciencias o Historia y Ciencias Sociales: ponderación mínima de 10%.
 
 4. Puntaje NEM: ponderación mínima de 10%.
 
 5. Puntaje Ranking: ponderación mínima de 10%.
+
+En el caso de la prueba de Competencia Matemática 2, las universidades serán las responsables de determinar si asignarán una ponderación, sin que exista mínimo establecido, a los programas de estudios correspondientes a las carreras genéricas determinadas por el Comité Técnico de Acceso del Subsistema Universitario y de las otras carreras informadas por las propias universidades a la Subsecretaría de Educación Superior dentro de los plazos dispuestos por esta última.
 
 Luego del proceso de postulación descrito en el numeral 4.1.5, la selección de estudiantes a las universidades adscritas al Sistema de Acceso se realizará previa ordenación decreciente de los postulantes a cada carrera de acuerdo con su puntaje ponderado. El puntaje ponderado es el puntaje con que se postula a las carreras de interés. Para calcularlo se necesitan los puntajes obtenidos por los postulantes en los instrumentos de acceso requeridos, junto con las ponderaciones de la carrera de interés.
 
@@ -741,5 +747,9 @@ Por su parte, los postulantes a quienes se les haya asignado puntaje en la PSU d
 Con todo, los postulantes que rindan la prueba de transición de Historia y Ciencias Sociales no podrán extender para el proceso 2021 el mecanismo de reemplazo de puntaje que el Consejo de Rectores aplicó tras la suspensión de la rendición de la PSU de Historia, Geografía y Ciencias Sociales.
 
 2) Los postulantes del proceso de admisión 2021 a quienes se les haya asignado puntaje en la PSU de Historia, Geografía y Ciencias Sociales en el proceso de admisión 2020, podrán rendir sólo la Prueba de Transición de Historia y Ciencias Sociales en el proceso de admisión 2021, sin necesidad de rendir las otras pruebas, considerando que podrán utilizar los resultados obtenidos en las PSU obligatorias rendidas en el proceso de admisión 2020.
+
+#### Artículo cuarto
+
+En virtud de lo dispuesto en el artículo segundo, numeral 4.1.5., párrafo tercero, para los procesos de admisión 2023 y 2024, se permitirá, en el caso de los programas de estudio que tengan como requisito obligatorio la utilización de la Prueba de Competencia Matemática 2, la postulación con el puntaje obtenido en la Prueba de admisión universitaria de Matemáticas vigente, o el puntaje obtenido en la prueba de Competencia Matemática 1 junto a la de Competencia Matemática 2. Por su parte, para los referidos procesos de admisión, en los casos de los programas de estudio que no tengan como requisito obligatorio la utilización de la Prueba de Competencia Matemática 2, se permitirá la postulación con el puntaje obtenido en la Prueba de admisión universitaria de Matemáticas vigente, o el puntaje obtenido en la Prueba de Competencia Matemática 1.
 
 Anótese, notifíquese y publíquese en el Diario Oficial.- Juan Eduardo Vargas Duhart, Subsecretario de Educación Superior.
