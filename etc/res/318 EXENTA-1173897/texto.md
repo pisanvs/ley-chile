@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 318, de fecha 3 de febrero de 2022, de esta Secretaría Regional, se aprobaron los planes y programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores "EDC San Luis SpA" cuyo nombre de fantasía es "EDC San Luis", RUT N° 76.641.031-6, cuyos representantes legales son el señor Larry Richard Veas Araya, cédula de identidad Nº10.913.110-5 y Joselyn Natalia Veas Castillo, cédula de identidad Nº17.515.452-3, cuyo director es el señor Larry Richard Veas Araya. La Escuela de Conductores estará ubicada en Avenida Pedro de Valdivia N° 3474, Local 43B, comuna de Ñuñoa, Región Metropolitana de Santiago. Las horas pedagógicas autorizadas a la referida Escuela son ocho horas teóricas y trece horas prácticas, con un total de veintiuno horas pedagógicas.-
+
+Alfredo Andrés Quezada Martínez, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
