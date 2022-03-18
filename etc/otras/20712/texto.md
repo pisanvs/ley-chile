@@ -344,6 +344,10 @@ Tratándose de rescates que no sean pagados en dinero efectivo, deberán ser val
 
 La administradora y los partícipes podrán acordar que la solicitud de rescate sea cursada en una fecha posterior a la de su presentación, de conformidad a lo establecido en su reglamento interno.
 
+#### Artículo 38 bis
+
+Las cuotas de fondos mutuos o de inversión de partícipes fallecidos que no hayan sido registradas a nombre de los respectivos herederos o legatarios dentro del plazo de diez años contado desde el fallecimiento del partícipe respectivo, serán rescatadas por la administradora del fondo de conformidad a los términos, condiciones y plazos establecidos en los respectivos reglamentos internos para el rescate de cuotas. Estos dineros serán entregados a la Junta Nacional de Cuerpos de Bomberos de Chile para su posterior distribución a los Cuerpos de Bomberos del país. Para el cumplimiento de lo anterior las administradoras deberán informar a la Comisión para el Mercado Financiero, en el mes de marzo de cada año, la fecha de defunción de los partícipes, las cuotas rescatadas y los valores entregados a la Junta Nacional de Cuerpos de Bomberos de Chile en el año anterior.
+
 #### Artículo 39
 
 Determinación del valor cuota. Para efectos de determinar el valor a pagar a los aportantes que soliciten el rescate de cuotas del fondo, se utilizará el "valor cuota" definido por el Reglamento.
@@ -699,6 +703,10 @@ El reparto de beneficios deberá efectuarse dentro de los 180 días siguientes a
 Los dividendos devengados que la administradora no hubiere pagado o puesto a disposición de los aportantes, dentro del plazo antes indicado, se reajustarán de acuerdo a la variación que experimente la unidad de fomento entre la fecha en que éstos se hicieron exigibles y la de su pago efectivo, y devengarán intereses corrientes para operaciones reajustables por el mismo período. Dichos reajustes e intereses serán de cargo de la administradora que haya incumplido la obligación de distribución y, cuando dicho incumplimiento se haya producido por causas imputables a ella, no podrá deducirlos como gastos conforme a lo dispuesto en el artículo 31 de la Ley sobre Impuesto a la Renta, sin que se aplique en este caso lo establecido en el artículo 21 de la misma.
 
 Los dividendos serán pagados a quienes se encuentren inscritos a la medianoche del quinto día hábil anterior a la fecha en que se deba efectuar el pago en el Registro de Aportantes que deberá llevar la administradora. Los dividendos deberán pagarse en dinero, salvo que el reglamento interno establezca la opción a los aportantes de recibirlos total o parcialmente en cuotas liberadas del mismo fondo, representativo de una capitalización equivalente. En este último caso, se aplicará respecto de tales cuotas lo dispuesto en el artículo 17 Nº 6, de la Ley sobre Impuesto a la Renta.
+
+#### Artículo 80 bis
+
+Los dividendos y demás beneficios en efectivo no cobrados por los respectivos partícipes dentro del plazo de cinco años contado desde la fecha de pago determinada por la administradora del respectivo fondo de inversión serán entregados a la Junta Nacional de Cuerpos de Bomberos de Chile para su posterior distribución a los Cuerpos de Bomberos del país. Para ello la administradora del fondo deberá, una vez transcurrido el plazo de un año contado desde que los dineros no hubieren sido cobrados por los partícipes respectivos, mantenerlos en depósitos a plazo reajustables, debiendo entregar dichos dineros, con sus respectivos reajustes e intereses, si los hubiere, a la Junta Nacional de Cuerpos de Bomberos de Chile. Para el cumplimiento de lo anterior, las administradoras deberán informar a la Comisión para el Mercado Financiero, en el mes de marzo de cada año, los dividendos y demás beneficios en efectivo entregados a la Junta Nacional de Cuerpos de Bomberos de Chile, así como una lista actualizada de los dividendos acordados pagar a los partícipes con sus respectivas fechas y los valores no cobrados en cada fondo al cierre del año anterior.
 
 #### Artículo 81
 
