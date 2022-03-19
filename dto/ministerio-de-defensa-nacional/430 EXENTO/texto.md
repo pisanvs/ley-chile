@@ -18,27 +18,11 @@ Documento Valor
 
 Salvoconducto $ 800
 
-Solicitud de Pasaporte $ 500
-
-Certificado de Registro $ 800
-
-Certificado de Viajes $ 800
-
-Constancia Pérdida de Documento $ 500
-
-Certificado de Vigencia $ 800
-
-Certificado de Residencia $ 800
-
 Tarjeta Desembarque Tripulante Marítimo $ 800
-
-Tarjeta Extranjero Infractor $ 800
 
 Libreta Tripulante Terrestre $ 800
 
 Fotocopia Certificada $ 300
-
-> **Nota.** El Decreto 3702 Exento, Interior, publicado el 14.01.2012, modifica la presente norma, en el sentido de señalar que la exención del cobro de la "Tarjeta de Tripulante Terrestre" se aplicará a todos los transportistas, en todos los pasos fronterizos del territorio nacional.
 
 Anótese, comuníquese y publíquese en el Diario Oficial y en el Boletín Oficial de la Policía de Investigaciones de Chile.- Por orden de la Presidenta de la República, José Goñi Carrasco, Ministro de Defensa Nacional.- Andrés Velasco Brañes, Ministro de Hacienda.
 
