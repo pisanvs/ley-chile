@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 119, de fecha 1 de marzo de 2022, de esta Secretaría Regional, se aprobó el programa de enseñanza conducente a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores denominada "Capacitaciones Marcos Guerrero Moreno E.I.R.L.", con nombre de fantasía Marisa Conductores E.I.R.L., cuyo representante legal es don Marcos del Carmen Guerrero Moreno. La Escuela de Conductores tendrá como Director a don Marcos del Carmen Guerrero Moreno, y su sede estará ubicada en Av. España N° 43, comuna de Rancagua. Las horas pedagógicas autorizadas a la referida Escuela son 10 horas teóricas, 12 horas prácticas y 10 horas pedagógicas complementarias, con un total de 32 horas pedagógicas.-
+
+Hans Eugenio González González, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región del Libertador General Bernardo O'Higgins.
