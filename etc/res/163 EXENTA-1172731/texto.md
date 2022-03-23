@@ -66,6 +66,8 @@ Los postulantes extranjeros, que postularon al Primer Llamado Nacional del año 
 
 6°.- Para postular al llamado a que se refiere el número 1° de esta resolución, los postulantes, sus cónyuges o convivientes civiles deberán acreditar que cumplen con el siguiente ahorro mínimo exigido para el tramo y modalidad a que postulen:
 
+.
+
 El ahorro deberá estar depositado al 31 de marzo de 2022 en alguna de las cuentas o instrumento de ahorro a que se refiere el artículo 8 del DS N° 1 (V. y U.), de 2011. Asimismo, deberán acreditar una antigüedad mínima de la cuenta de ahorro de 12 meses, contados desde el día primero del mes siguiente al de la fecha de apertura hasta el último día del mes anterior al de la postulación.
 
 Si entre el último día del mes anterior al de la postulación y la fecha de entrega de la información de ahorro por los medios que señala el DS N° 1 (V. y U.), de 2011, se hubiesen efectuado giros o cargos en la cuenta de ahorro, el beneficiario deberá contar, como mínimo, con el ahorro acreditado al último día del mes anterior al de la postulación, expresado en U.F., a la fecha de entrega de la certificación de ahorro.
