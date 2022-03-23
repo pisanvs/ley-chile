@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCIÓN N° 208 EXENTA, DE FECHA 9 DE MARZO DE 2022
+
+Por resolución exenta N° 208, del 09.03.2022, del Gobierno Regional de la Araucanía.
+
+- **1.-** Que, mediante ingreso E-2134 de fecha 02.03.2022 de la empresa Constructora Vensur SpA, sobre solicitud de corte media calzada alternada en calle General Lagos, entre calle Antonio Varas y Claro Solar, en la comuna de Temuco, en el marco de los trabajos de "Arranque agua potable Liceo España".
+
+- **2.-** El Ord. N° 133 de 16 .02.2022 de la Municipalidad de Temuco, que aprueba croquis de señalización de trabajos en vía pública.
+
+- **3.-** El oficio N° 5777/2022 de fecha 08.03.2022, de la Seremi de Transportes y Telecomunicaciones Araucanía que remite informe técnico para corte de media calzada alternada momentáneo de tránsito en calle General Lagos, entre calle Antonio Varas y Claro Solar, en la comuna de Temuco, al Gobierno Regional de la Araucanía.
+
+- **4.-** Que, en consecuencia, existe una causa justificada en los términos del artículo 113 del DFL N° 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito, para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbase, para los fines de semana del 11 al 13 de marzo de 2022, 18 al 20 de marzo de 2022 y 25 al 27 de marzo de 2022 la circulación de todo tipo de vehículos motorizados y, de acuerdo a lo establecido por el Municipio de Temuco y los antecedentes revisados por este Gobierno Regional, autorízase el corte de media calzada, en calle General Lagos, entre calle Antonio Varas y Claro Solar, en la comuna de Temuco, para los siguientes fines de semana: día viernes 11 de marzo de 2022 desde las 20:00 horas hasta el domingo 13 de marzo de 2022 a las 23:59 horas; día viernes 18 de marzo de 2022 desde las 20:00 horas hasta el domingo 20 de marzo de 2022 a las 23:59 horas, y el día viernes 25 de marzo de 2022 desde las 20:00 horas hasta el domingo 27 de marzo de 2022 a las 23:59 horas, en el marco de los trabajos de ejecución de la obra "Arranque agua potable Liceo España" y remitiéndose estrictamente a lo indicado en el ordinario N° 133 de la Municipalidad de Temuco.
+
+Anótese, comuníquese, publíquese y archívese.- Por orden del Sr. Gobernador Regional, Luis Loyola González, Jefe División Infraestructura y Transporte, Gobierno Regional de la Araucanía.
