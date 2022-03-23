@@ -114,7 +114,7 @@ Otras Prestaciones
 
 El Servicio, en la medida que los recursos lo permitan, podrá otorgar las siguientes ayudas en dineros o en especies no sujetas a restitución por las causales y de acuerdo a las modalidades que a continuación se indican:
 
-a) Matrimonio: Se concederá una ayuda, por una sola vez, cuando el afiliado contraiga matrimonio. Si ambos contrayentes fueren afiliados, cada uno de ellos tendrá derecho a la ayuda;
+a) Matrimonio o Acuerdo de Unión Civil : Se concederá una ayuda, por una sola vez, cuando el afiliado contraiga matrimonio. Si ambos contrayentes fueren afiliados, cada uno de ellos tendrá derecho a la ayuda;
 
 b) Nacimiento: Se concederá una ayuda por el nacimiento de cada hijo. Este beneficio se otorgará también en caso que ambos padres estén afiliados al Servicio;
 
@@ -122,7 +122,7 @@ c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de
 
 1º A la persona designada expresamente por el afiliado para tal efecto,
 
-2º Al o la cónyuge sobreviviente,
+2º Al o la cónyuge sobreviviente, o al conviviente civil
 
 3º A los hijos,
 
@@ -136,7 +136,7 @@ e) Becas de Estudio: En caso de extrema necesidad económica, así calificada po
 
 asignación familiar;
 
-f) Ayuda médica: Beneficio que se otorga en casos de enfermedades catastróficas o tratamientos prolongados, enfermedades graves o enfermedades sin diagnóstico definido, así calificados por el profesional del Servicio de Bienestar previa comprobación de todos los antecedentes que debe presentar el afiliado. Cabe señalar que a este beneficio se podrá acceder después de que el afiliado agote las posibilidades de préstamo médico, haga uso de su sistema de salud y posterior reembolso del seguro complementario. Beneficio para el afiliado y sus cargas acreditadas, una vez por año y por enfermedad, no pudiendo ser complementaria entre categoría. Será la Jefa del Servicio de Bienestar quien estará facultada de aprobar o rechazar la solicitud a través del Informe Social, para luego informar al Consejo, con todos los antecedentes que fundamentan su resolución.
+f) Ayuda médica: Beneficio que se otorga en casos de enfermedades catastróficas o tratamientos prolongados, enfermedades graves o enfermedades sin diagnóstico definido, así calificados por el profesional del Servicio de Bienestar previa comprobación de todos los antecedentes que debe presentar el afiliado. Cabe señalar que a este beneficio se podrá acceder después de que el afiliado agote las posibilidades de préstamo médico, haga uso de su sistema de salud y posterior reembolso del seguro complementario. Beneficio para el afiliado y sus cargas acreditadas, una vez por año y por enfermedad, no pudiendo ser complementaria entre categoría. Será la Jefatura del Servicio de Bienestar quien estará facultada de aprobar o rechazar la solicitud a través del Informe Social, para luego informar al Consejo, con todos los antecedentes que fundamentan su resolución.
 
 g) ) Catástrofe: Se concederá ayuda en dinero o en especies al afiliado que sufriere daños graves por situaciones imprevistas y fortuitas derivadas de accidentes, catástrofes, fenómenos naturales, incendios, movimientos telúricos, inundaciones o cualquier otro siniestro.
 
@@ -146,7 +146,7 @@ h) Bono Habitacional: De acuerdo a los programas habitacionales, aprobados por e
 
 i) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio por concepto de préstamos que éste le hubiese otorgado.
 
-j) Acuerdo de Unión Civil: Se concederá una ayuda cuando el afiliado contraiga Acuerdo de Unión Civil. Si ambos contrayentes fueren afiliados, cada uno de ellos tendrá derecho a solicitar dicha ayuda.
+j) Suprimida.
 
 k) Adopción: Se concederá una ayuda en caso de adopción de cada hijo. Este beneficio se otorgará también en caso que ambos padres estén afiliados al Servicio, debiendo cada uno de ellos solicitar dicha ayuda.
 
@@ -206,6 +206,8 @@ d) Préstamo de Emergencia: Se otorgará por problemas económicos graves y otra
 
 Para conceder un préstamo, el Consejo deberá considerar especialmente las posibilidades de recuperación de los dineros prestados, sin perjuicio que esta consideración la pueda delegar dicho Consejo en el Jefe de Bienestar cuando lo estime pertinente y por el tiempo que considere necesario. Además será requisito indispensable la constitución de la garantía de dos codeudores solidarios que sean funcionarios de planta o a contrata de la institución y su solvencia será calificada por dicho Consejo.
 
+Los codeudores solidarios podrán serlo hasta completar un monto máximo de 36 UF.
+
 #### Artículo 17º
 
 El reintegro de los préstamos señalados en el artículo 15º deberá realizarse en cuotas mensuales, iguales y sucesivas. Dichas cuotas serán descontadas a contar del mes siguiente al del otorgamiento del crédito y el número de ellas no podrá exceder de una respecto de la letra d), de 12 respecto de las letras a) y c), de 36 cuotas respecto de la letra b).
@@ -220,7 +222,9 @@ Disposiciones Generales
 
 #### Artículo 19º
 
-Los afiliados y sus beneficiarios tendrán derecho a percibir los beneficios médicos que otorgue el Servicio al mes subsiguiente de aprobada su solicitud de incorporación a Bienestar y por catástrofe, a contar del mes siguiente al de su afiliación. Los demás beneficios podrán solicitarse cuatro meses después de su ingreso al servicio, o dentro de los plazos especiales que se fijen en este Reglamento.
+Los afiliados/as y sus beneficiarios/as tendrán derecho a percibir los beneficios médicos que otorgue el Servicio al mes siguiente de descontado el primer aporte a Bienestar y, en caso de catástrofe, a contar del mes siguiente al de su afiliación.
+
+Los demás beneficios de carácter monetario brindados por el Servicio de Bienestar, podrán solicitarse desde el cuarto mes contados desde el ingreso al Servicio, o dentro de los plazos especiales que se fijen en el presente Reglamento, con la excepción de aquellos beneficios que sean de pago directo por el funcionario/a, caso en el cual el plazo se computará a partir del mes siguiente de aprobada su solicitud".
 
 #### Artículo 20º
 
