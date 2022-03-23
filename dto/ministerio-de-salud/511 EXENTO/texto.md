@@ -24,41 +24,79 @@ Decreto
 
 1º.- Decláranse Normas Oficiales de la República de Chile las siguientes:
 
-_NCh 3254:2011 - Ropa de Protección de Alta Visibilidad –
+_NCh 3254:2011 - Ropa de Protección de
+
+Alta Visibilidad –
 
 Requisitos y Ensayos.
 
-_ISO 16602:2007 - Protective clothing for protection against
+_ISO 16602:2007 - Protective clothing
 
-chemicals - Classification, labelling and
+for protection
+
+against chemicals -
+
+Classification,
+
+labelling and
 
 performance.
 
-_ISO 27065:2004 - Protective clothing - Performance
+_ISO 27065:2017 - Protective clothing -
 
-requirements for protective clothing worn
+Performance
 
-by operators applying liquid pesticides.
+requirements for
 
-_ISO 13982-1:2004 - Protective clothing for use against solid
+protective clothing
 
-particulates - Part 1: Performance
+worn by operators
 
-requeriments for chemical protective
+applying pesticides
 
-clothing providing protection to the full
+and for re-entry
 
-body against airborne solid particulates
+workers.
 
-(type 5 clothing).
+_ISO 13982-1:2004 - Protective clothing
 
-_ISO 13982-2:2004 - Protective clothing for use against solid
+for use against solid
 
-particulates - Part 2: Test method of
+particulates
 
-determination of inward leakage of
+- Part 1: Performance
 
-aerosols fine particles into suits.
+requeriments for
+
+chemical protective
+
+clothing providing
+
+protection to
+
+the full body against
+
+airborne solid
+
+particulates (type 5
+
+clothing).
+
+_ISO 13982-2:2004 - Protective clothing
+
+for use against
+
+solid particulates
+
+- Part 2: Test method
+
+of determination
+
+of inward leakage
+
+of aerosols fine
+
+particles into suits.
 
 2º.- El presente decreto se publicará en el Diario Oficial. Las normas que en él se identifican tendrán vigencia a partir de la fecha de su publicación. El texto íntegro de las normas oficiales que se aprueban por este acto será publicado en los documentos oficiales del Instituto Nacional de Normalización.
 
