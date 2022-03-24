@@ -1,0 +1,7 @@
+MODIFICA RESOLUCIÓN N° DN-2111/2021 EXENTA, QUE DEJÓ SIN EFECTO LA RESOLUCIÓN NÚMERO 565 EXENTA DE 2020 Y TODAS SUS MODIFICACIONES DEL SERVICIO NACIONAL DE PESCA Y ACUICULTURA REFUNDIENDO LAS MEDIDAS QUE DE DICHA RESOLUCIÓN SE MANTIENEN VIGENTE, ESTABLECIÓ QUE LAS RESOLUCIONES EXENTAS NÚMEROS 1.461 Y 1.501 SE MANTIENEN VIGENTES Y DEJÓ SIN EFECTO LA RESOLUCIÓN 236 EXENTA, AMBAS DE 2021 Y TODAS DE ESTE SERVICIO, EN LOS TÉRMINOS QUE INDICA
+
+Por resolución exenta número DN-00519/2022, de 10 de marzo de 2022, se modificó la resolución exenta N° DN-2111/2021 de fecha 5 de noviembre de 2021, ambas de este Servicio, que incorporó medidas en materia de descanso sanitario, permanencia en centros de acopio, muestreos en plantas de proceso y en el marco de programas específicos de vigilancia, y otras medidas en el marco del Programa de Vigilancia, Detección y Control de A. Catenella.
+
+El texto íntegro de la resolución indicada, se encuentra publicada con esta fecha, en el sitio de dominio electrónico del Servicio Nacional de Pesca y Acuicultura, y en el sitio de dominio electrónico de la Subsecretaría de Pesca y Acuicultura.-
+
+Claudio Báez Beltrán, Director Nacional, Servicio Nacional de Pesca y Acuicultura.
