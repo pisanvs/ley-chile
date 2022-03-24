@@ -62,6 +62,20 @@ Para los efectos de la presente resolución, se entenderá por:
 
 2.19 Vivero: Lugar o conjunto de instalaciones en el cual se multiplican o reproducen plantas para plantar (a partir de yemas, estacas, esquejes, meristemas, semillas, bulbos, rizomas y otras estructuras geófitas), ya sea mediante métodos tradicionales (siembra, plantación en suelo o sustrato) o por micropropagación (siembra o plantación en geles u otros medios de cultivo), para después de criadas ser trasplantadas a su lugar definitivo. Sinónimo: Criadero de plantas.
 
+2.20 Autenticidad varietal: Correspondencia entre la identidad de la variedad en relación al material vegetal inicial, la cual se corrobora mediante análisis moleculares.
+
+2.21 Perfil genético molecular: Conjunto de secuencias de ADN (o variaciones en dichas secuencias) o variantes alélicas, que permiten diferenciar e identificar un individuo o un grupo de individuos del resto de su especie y/o variedad.
+
+2.22 Variedad con antecedentes conocidos: A efectos de aplicación de esta resolución, considera a las variedades con inscripción definitiva incluidas en el registro de variedades protegidas (RVP), es decir, que cuentan con sus pruebas de distinción, homogeneidad y estabilidad terminadas y aprobadas, y las variedades incluidas en el RVFC, que lleva el Servicio Agrícola y Ganadero.
+
+2.23 Lotes: Conjunto de plantas en el mismo estado equivalente en fenología y fisiología, bajo el mismo manejo agronómico y con condiciones sanitarias óptimas.
+
+2.24 Inscripción Provisoria: Inscripción transitoria o provisional a la espera de los resultados de los dos años de ensayo de control oficial por parte del Servicio.
+
+2.25 Planta In vitro: Planta propagada en condiciones asépticas, cuyas respuestas morfogénicas y fisiológicas corresponden a un ambiente de crecimiento controlado.
+
+2.26 Etapa Banco Germoplasma In vitro: Etapa que podría formarse a partir de material vegetal inicial o postulante (In vitro), que constituye el material vegetal de reserva de cada variedad de las cuales se extraerá material de propagación vegetal que dará origen a las siguientes etapas.
+
 ### 3. Organismo Certificador
 
 El Servicio a través de la División Semillas, es el organismo oficial responsable de dictar las Normas Generales y Específicas, procedimientos y controlar su cumplimiento, por los cuales se regirá el proceso de Certificación de Semillas y Plantas Frutales.
@@ -94,11 +108,15 @@ Se considerarán variedades frutales inscritas en el Registro antes mencionado, 
 
 4.3.1 Solicitud de inscripción en el RVFC.
 
-4.3.2 Descripción varietal correspondiente, de acuerdo a los caracteres considerados en las Directrices de la Pauta Oficial de la Unión Internacional para la Protección de las Obtenciones Vegetales (UPOV). En el caso que dicha descripción sea presentada en forma incompleta, la inscripción en el citado registro quedará en estado "provisoria".
+4.3.2 Descripción varietal, de acuerdo a los caracteres considerados en las Directrices de la Pauta Oficial de la Unión Internacional para la Protección de las Obtenciones Vegetales (UPOV).
+
+Para aquellas variedades que no cuenten con la descripción varietal o bien que la misma no contenga todos los caracteres exigidos, y cuenten con un perfil genético molecular realizado por Laboratorios Oficiales dependientes del Ministerio de Agricultura o Laboratorios Autorizados por el Servicio podrán inscribirse de forma provisoria durante 5 años en el citado registro; posterior a este tiempo, si no se han realizado las descripciones varietales en campo no podrá seguir comercializando la variedad en forma provisoria.
+
+No será exigida la descripción varietal para aquellas "variedades con antecedentes conocidos.
 
 4.3.3 Si la inscripción corresponde a una variedad inscrita en el Registro de Variedades Protegidas, además, deberá adjuntar la autorización del titular o su representante.
 
-4.3.4 En los casos en que la norma específica lo determine, será necesario presentar un protocolo de identificación genético-molecular validado por el Servicio.
+4.3.4 En los casos en que la norma específica lo determine, será necesario presentar un perfil genético-molecular del material vegetal inicial, el cual deberá ser realizado en los Laboratorios Oficiales dependientes del Ministerio de Agricultura o Laboratorios Autorizados por el Servicio de acuerdo Reglamento Específico para la autorización de laboratorios de análisis y ensayo.
 
 ### 5. De la aprobación y cancelación en los registros
 
@@ -130,6 +148,8 @@ Las plantas que conforman cada etapa del proceso de certificación deberán cump
 
 El número de etapas del proceso de Certificación de Semillas y Plantas Frutales y su secuencia será determinada en cada resolución específica.
 
+Con relación al origen del material vegetal y las distancias de aislación, el Servicio podrá realizar una evaluación del nivel de riesgo y las medidas de mitigación correspondientes en cada etapa del proceso, para el ingreso de materiales al proceso de certificación.
+
 ### 7. Requisitos del Proceso
 
 Con el objeto de mantener la identidad de la variedad, en relación al material de origen, y garantizar la calidad y sanidad de las plantas, el viverista deberá cumplir los siguientes requisitos:
@@ -150,15 +170,21 @@ Con el objeto de mantener la identidad de la variedad, en relación al material 
 
 7.1.7 La extracción de material de propagación vegetal para el establecimiento de las distintas etapas del proceso de Certificación, se efectuará a partir de plantas libres de las plagas establecidas en las resoluciones específicas. Dicha actividad deberá realizarse siempre bajo la supervisión del Servicio. Las resoluciones especificas detallarán las acciones a realizar por parte del Servicio para verificar el estado fitosanitario de cada planta(s) inscrita(s) en una solicitud de Certificación de Semillas y Plantas Frutales.
 
-7.2 De pureza varietal
+7.2 Varietales:
 
-7.2.1 Las pruebas de comprobación varietal, se llevarán a cabo en las plantas establecidas para este efecto en la Etapa de Comprobación Varietal, en el estado fisiológico que corresponda, de acuerdo a las directrices establecidas por la UPOV y durante al menos dos temporadas productivas de la respectiva variedad.
+7.2.1 Las pruebas de comprobación varietal, se llevarán a cabo en las plantas establecidas para este efecto en la Etapa de Comprobación Varietal, en el estado fisiológico que corresponda, de acuerdo a las directrices establecidas por la UPOV y durante al menos dos temporadas productivas. No obstante, en las Variedades con antecedentes conocidos no será necesario realizarlas por el método mencionado.
 
 7.2.2 El propietario del vivero deberá mantener la pureza varietal durante todas las etapas. Por tal motivo, deberá realizar permanentemente la depuración o limpieza con el objetivo de eliminar plantas fuera de tipo.
 
-7.2.3 El propietario/a del vivero sólo podrá vender plantas certificadas, siempre que se hayan completado todas las comprobaciones varietales y exista plena coincidencia entre la descripción varietal y los resultados de las comprobaciones realizadas en campo.
+7.2.3 El propietario/a del vivero podrá comercializar plantas certificadas, siempre que se hayan completado todas las comprobaciones varietales y exista plena coincidencia entre la descripción varietal y los resultados de las comprobaciones realizadas en campo.
 
-7.2.4 Las directrices para la identificación de las plantas en cada etapa productiva, serán establecidas por el Servicio en cada resolución específica.
+7.2.4 Sin perjuicio de lo anterior, respecto de las variedades sin antecedentes conocidos, que están a la espera de la comprobación varietal y que cuenten con un perfil genético-molecular, podrán comercializarse de forma provisoria. Para ello, deberán indicar en la etiqueta de Certificación su condición de provisoria y de acuerdo a lo establecido en el numeral 9.8.
+
+7.2.5 Para validar la autenticidad varietal a través de un análisis de perfil genético-molecular en las variedades con y sin antecedentes conocidos, los interesados deberán realizar tales análisis al momento de ingresar su solicitud y previo a la venta de plantas o portainjertos certificados.
+
+7.2.6 La autenticidad varietal se debe realizar a través de análisis moleculares en los laboratorios oficiales, siendo estos los laboratorios que pertenezcan al Ministerio de Agricultura o funcionen en alguno de sus servicios dependientes o autónomos relacionados con el Gobierno a través del citado Ministerio o los Laboratorios que cuenten con la Autorización de Terceros otorgada por el Servicio.
+
+7.2.7 El Servicio realizará el análisis técnico correspondiente para determinar la cantidad de muestras representativas a fin de validar la autenticidad varietal de los lotes a certificar, de acuerdo a lo dispuesto en la Guía Proceso de Certificación de Plantas Frutales.
 
 ### 8. Solicitud de Certificación de Semillas y Plantas Frutales
 
@@ -220,6 +246,8 @@ Las etiquetas deben contener la siguiente información:
 
 9.7 Mes y año de producción.
 
+9.8 Si la variedad corresponde a una inscripción provisoria.
+
 El material de propagación vegetal o plantas extraídas desde la Etapa de Banco de Germoplasma, Etapa Fundación, Etapa Preincremento e Incremento, será identificado con etiquetas de color blanco.
 
 Las plantas certificadas serán identificadas con etiquetas de color azul. El productor de plantas certificadas no podrá vender sus plantas certificadas sin etiquetas. El plazo de validez de las etiquetas de plantas certificadas será de un año. Una vez vencido este plazo, se deberán revalidar los análisis del material reproductivo para su comercialización. De resultar positivos a las plagas contenidas en las Normas Específicas por especies o grupo de especies, el material será rebajado de categoría a corriente.
@@ -235,5 +263,7 @@ Las tarifas serán fijadas por resolución y puestas a disposición de los inter
 12. Derógase la resolución exenta Nº 372, de 16 de enero de 2014, que establece Normas Generales de Certificación de Semillas Agrícolas y Plantas Frutales.
 
 13. La presente resolución entrará en vigencia el primer día hábil del mes siguiente de su Publicación.
+
+> **Nota.** La letra a del numeral 1.4 del numero 1° de la Resolución 1302 Exenta, Agricultura, publicada el 24.03.2022, modifica la presente norma en el sentido de reemplazar el cuadro indicado en el inciso primero, donde se agrega la nueva Etapa "Banco de Germoplasma In vitro (BGV)
 
 Anótese, comuníquese y publíquese.- Guillermo Federico Aparicio Muñoz, Jefe División Semillas.
