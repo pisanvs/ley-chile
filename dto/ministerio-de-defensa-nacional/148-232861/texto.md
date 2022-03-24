@@ -24,6 +24,8 @@ Disposiciones generales
 
 2.2 La comparecencia de los presuntos infractores ante la Dirección General de Aeronáutica Civil, en adelante la Dirección General, en el proceso infraccional, será personal. Sin embargo, podrán hacerlo por intermedio de apoderados cuando conste su poder en escritura pública o documento privado suscrito ante Notario.
 
+Cuando la Dirección General lo disponga de oficio o a solicitud de los presuntos infractores, las actuaciones del proceso podrán realizarse por medios electrónicos que permitan su adecuada recepción, registro y control.
+
 2.3 Las notificaciones que deban practicarse conforme al procedimiento infraccional se efectuarán por carta certificada, entendiéndose practicada al tercer día de haber sido recibida por la Oficina de Correos que corresponda. Las notificaciones a los titulares de licencia aeronáutica serán hechas, de conformidad a lo dispuesto en el inciso anterior, al domicilio que registren en su hoja de vida o a otro que pudiere ser determinado por algún medio acreditable.
 
 Las notificaciones podrán, también, hacerse de modo personal por medio de un empleado o funcionario de la Dirección General de Aeronáutica Civil, el cual deberá dejar copia íntegra del acto o resolución que se notifica en el domicilio del interesado, dejando constancia de tal hecho.
@@ -46,9 +48,11 @@ Las notificaciones podrán, también, hacerse de modo personal por medio de un e
 
 - **e)** El grado de peligrosidad causado;
 
-- **f)** La edad, instrucción y experiencia del infractor, y
+- **f)** La edad, instrucción y experiencia del infractor,
 
-- **g)** La conducta anterior, reincidencia, indisciplina y negligencia del infractor.
+- **g)** La conducta anterior, reincidencia, indisciplina y negligencia del infractor,
+
+- **h)** la colaboración eficaz con la investigación, a través de la autodenuncia o el aporte de antecedentes nuevos en el proceso que hayan sido determinantes para acreditar los hechos materia de la investigación.
 
 ## Capítulo 3
 
@@ -74,11 +78,11 @@ El desistimiento de la denuncia no pone fin al procedimiento infraccional.
 
 3.4 El procedimiento infraccional será de oficio cuando la Dirección General, a través de cualquiera de los órganos que la conforman, en ejercicio de sus facultades legales y sin que medie denuncia formal al respecto, tome conocimiento de un acto u omisión que pudiere constituir infracción al Código Aeronáutico, a la legislación, reglamentación o a la normativa aeronáutica.
 
-3.5 La investigación infraccional se iniciará mediante una resolución que ordenará la comparecencia personal a declarar del presunto infractor, y que podrá contener las demás diligencias que adopte la autoridad aeronáutica.
+3.5 La investigación se iniciará mediante una resolución que dispondrá las diligencias que la autoridad aeronáutica estime pertinentes para la determinación de los hechos y la responsabilidad infraccional.
 
 3.6 Cuando la Dirección General recibiere una denuncia respecto a una conducta que pudiere revestir caracteres de delito, o así se apareciere durante el procedimiento infraccional, remitirá los antecedentes respectivos al Tribunal competente, suspendiéndose la investigación, sin perjuicio de adoptar las medidas que sean necesarias para resguardar la seguridad de las operaciones.
 
-3.7 La declaración del denunciado o de las personas involucradas en los hechos investigados deberá prestarse personalmente ante la Autoridad Aeronáutica.
+3.7 La declaración del denunciado o de las personas involucradas en los hechos investigados deberá prestarse personalmente ante la Autoridad Aeronáutica, de forma presencial o por medios electrónicos.
 
 Si no se prestare tal declaración, las resoluciones que se dictaren en la Investigación Infraccional se tendrán por notificadas personalmente al rebelde en la misma fecha en que se pronunciaren.
 
@@ -94,7 +98,7 @@ b) La relación precisa y clara de los hechos constitutivos de infracción al C�
 
 c) La formulación del cargo con expresión de la disposición o normativa que se habría infringido;
 
-d) La indicación del plazo que tiene el afectado para formular sus descargos, el cual será de 15 días desde notificada la resolución.
+d) La indicación del plazo que tiene el afectado para formular sus descargos, el cual será de 5 días contados desde la notificación de la resolución dictada al efecto. En casos debidamente calificados, podrá prorrogarse el mismo por otros 5 días, siempre que la prórroga haya sido solicitada antes del vencimiento del plazo.
 
 3.10 El sobreseimiento será resuelto por la Dirección General de oficio o a petición del interesado, en cualquiera de los siguientes casos, cuando:
 
@@ -110,17 +114,17 @@ d) La indicación del plazo que tiene el afectado para formular sus descargos, e
 
 Por el sobreseimiento se termina el procedimiento infraccional.
 
-3.11 La resolución que formule cargos será notificada al presunto infractor, quien dispondrá de un plazo de 15 días para formular por escrito sus descargos, debiendo acompañar a éste todos los antecedentes y medios probatorios que pretenda hacer valer. En el mismo escrito podrá solicitar que se abra un término probatorio de 5 días hábiles.
+3.11 La resolución que formule los cargos será notificada al presunto infractor, quien dispondrá del plazo señalado en la letra d) del numeral 3.9, para formular sus descargos, debiendo acompañar a este todos los antecedentes y medios probatorios que pretenda hacer valer. En el mismo escrito podrá solicitar se abra un término probatorio de 5 días hábiles, que podrá ser prorrogable por otros 5 días, siempre que la prórroga haya sido solicitada antes del vencimiento.
 
 3.12 Formulados los descargos o vencido el plazo fijado en el artículo anterior, o el probatorio en su caso, la investigación infraccional quedará en estado de ser resuelta.
 
-Por una sola vez y antes de la resolución que cierra la investigación, la Dirección General podrá decretar las medidas para mejor resolver que estime pertinentes, lo que deberá notificarse al presunto infractor.
+Antes de la resolución que cierra la investigación, la Dirección General podrá decretar las medidas para mejor resolver que estime pertinentes, las que deberán ser notificadas al presunto infractor, dentro de los plazos previstos en el artículo 45 la Ley N° 19.880.
 
 3.13 En mérito de los antecedentes que obren en el expediente respectivo, la Dirección General procederá, si no hubiere mérito para sobreseer, a declarar cerrada la investigación infraccional, determinando la responsabilidad que corresponda al infractor y aplicándole la sanción respectiva.
 
 3.14 La resolución que imponga sanción al infractor podrá ser objeto de un Recurso de Reposición administrativo ante la Dirección General, o bien, de un Recurso de Reclamación ante el Comandante en Jefe de la Fuerza Aérea de Chile en los casos previstos en el artículo 188 del Código Aeronáutico.
 
-Tanto el recurso de reposición como el de reclamación señalados deberán ser interpuestos por escrito dentro del plazo de 15 días contados desde la notificación de la resolución que impone la sanción. La interposición de cualquiera de estos recursos suspenderá los efectos de lo resuelto por la Dirección General.
+El recurso de reposición deberá ser interpuesto dentro del plazo de 5 días contados desde la notificación de la resolución de término que imponga la sanción. El recurso de reclamación se interpondrá en los casos y en el plazo señalado en el artículo 188 del Código Aeronáutico, pudiendo presentarse en el mismo escrito y en subsidio del recurso de reposición.
 
 3.15 La resolución que imponga una multa tendrá mérito ejecutivo, sirviendo de título suficiente una copia suya autorizada por el Director General de Aeronáutica Civil. Además, en tanto no se pague la multa, quedará ipso facto suspendido el permiso o licencia.
 
