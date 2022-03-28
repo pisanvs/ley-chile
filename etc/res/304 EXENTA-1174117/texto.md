@@ -1,0 +1,51 @@
+PRÓRROGA DE POSTERGACIÓN DE PERMISOS DE EDIFICACIONES, RESPECTO DE LA MODIFICACIÓN EN CURSO AL PLAN REGULADOR COMUNAL DE LA COMUNA DE PROVIDENCIA, MODIFICACIÓN N° 6, POR LAS RAZONES QUE INDICA
+
+Núm. 304 exenta.- Santiago, 17 de marzo de 2022.
+
+Vistos:
+
+Lo dispuesto, en la ley N° 16.391 de 1965, que crea el Ministerio de la Vivienda y Urbanismo; en la ley N° 19.880, que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; en el DFL N° 458 de 1975, que establece la Ley General de Urbanismo y Construcciones; en el DS N° 47 de 1992, que establece la Ordenanza General de Urbanismo y Construcciones; en el DL N° 1.305 (V. y U.) de 1975, que Reestructura y Regionaliza el Ministerio de la Vivienda y Urbanismo; las facultades conferidas en el DS N° 397 (V. y U) de 1976, que Fija el Reglamento Orgánico de las Secretarías Ministeriales de Vivienda y Urbanismo; y en la resolución exenta RA en trámite que prorroga la suplencia de la infrascrita como Jefa del Departamento de Planes y Programas a partir del 1 de marzo de 2022 y el decreto exento RA N° 272/35/2021 que establece el orden de subrogación en esta Seremi y la resolución N° 7, de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón, y
+
+Considerando:
+
+1. Que, mediante oficio Alc. N° 999, de fecha 18 de febrero de 2022, dirigido a esta Secretaría Ministerial, el Sr. Alcalde (S) de la comuna de Providencia, ha solicitado la prórroga por un plazo de 3 meses, de la postergación selectiva de los permisos de construcción actualmente vigente en el territorio de la comuna de Providencia, correspondiente a dos zonas definidas especialmente para estos efectos, en base al agrupamiento de las zonas normativas del Plan Regulador Comunal (PRC) que abarcan la totalidad del territorio de la comuna, y que están relacionadas con la Modificación en curso al PRC de Providencia del año 2007, singularizada como "Modificación N° 6, Ajustes Uso de Suelo PRCP 2007".
+
+2. Que, según lo preceptuado en el artículo 117 de la Ley General de Urbanismo y Construcciones (LGUC) y en el artículo 1.4.18 de su Ordenanza General (OGUC), ante la solicitud presentada por el Municipio, por medio del oficio Alc. N° 6581, de fecha 24 de noviembre de 2021, de la Sra. Alcaldesa de Providencia, se emitió informe favorable a la postergación de permisos solicitada, mediante oficio N° 3.634, de esta Seremi, de fecha 15 de diciembre de 2021, luego de lo cual la autoridad comunal dictó el decreto exento N° 1.902, de fecha 17 de diciembre de 2021, que dispuso la postergación de permisos, la cual empezó a regir desde su publicación en el Diario Oficial, lo que ocurrió con fecha 27 de diciembre de 2021, entrando entonces en vigencia la postergación de permisos aludida, que se ha extendido por 3 meses, hasta el 27 de marzo de 2022.
+
+3. Que, antes del término de su vigencia inicial, por medio del oficio Alc. N° 999, de fecha 18 de febrero de 2022, del Alcalde (S) de la comuna de Providencia, el Municipio solicitó una prórroga por un periodo de tres meses, lo que se encuentra dentro del plazo máximo legal posible de postergación de permisos de 12 meses; el cual deberá tramitarse antes de su vencimiento, lo que ocurre el día 27 de marzo de 2022, que como ya se señaló, es la fecha de vencimiento de la postergación inicial.
+
+4. Que, la citada postergación de permisos de edificación vigente actualmente por tres meses, fue dispuesta en forma selectiva en cuanto al territorio y también en cuanto a los usos de suelo y actividades específicas que afecta. Así, para la Zona 1 se postergaron los permisos para el uso de suelo "residencial", en lo que corresponda a la actividad de "apart hotel", en tanto para el uso de suelo de equipamiento, en las actividades de black kitchen, dark kitchen, cocinas fantasmas, cocinas negras, restaurantes virtuales y los modelos de negocio que consisten en un espacio en que se habilitan distintas cocinas en las que se elabora comida para despacho a domicilio. Por otra parte, en la Zona 2, se postergaron los permisos para el uso de suelo de equipamiento, en las actividades de black kitchen, dark kitchen, cocinas fantasmas, cocinas negras, restaurantes virtuales y los modelos de negocio que consisten en un espacio en que se habilitan distintas cocinas en las que se elabora comida para despacho a domicilio. Las zonas definidas para la postergación de permisos se identificaron y se graficaron, diferenciadas por colores, en el plano denominado "Plano de Postergación Selectiva de Permisos de Edificación según destino de uso de suelo", escala 1:5.000, de fecha 30 de noviembre de 2021, suscrito por la Asesora Urbanista y presentado por el Municipio, para estos efectos, en su solicitud original.
+
+Actualmente, se solicita autorizar la prórroga de la postergación de permisos de edificación que se encuentra vigente, tal como se definiera inicialmente, en los siguientes casos:
+
+a. En la Zona 1, conforme al Plano de Postergación Selectiva de Permisos antes individualizado, que comprende el territorio de las zonas de uso de suelo del Plan Regulador Comunal indicadas como UpR y Er, UpR y E, UpR y ECr, UpEC, UpAP e Ir y la Zona de Equipamiento de escala Metropolitana ZE (Zona Especial Ex CCU), para las actividades de los usos de suelo residencial, específicamente en el caso de la actividad de apart hotel, y para las actividades de equipamiento que se indicaron (black kitchen, dark kitchen, cocinas fantasmas, cocinas negras, restaurantes virtuales y los modelos de negocio que consisten en un espacio en que se habilitan distintas cocinas en las que se elabora comida para despacho a domicilio), anteriormente.
+
+b. En la Zona 2, conforme al Plano de Postergación Selectiva de Permisos antes aludido, que comprende el territorio de las zonas de uso de suelo del Plan Regulador Comunal indicadas como UR y UpR y E-CC, para las actividades de los usos de suelo equipamiento que se indicaron (black kitchen, dark kitchen, cocinas fantasmas, cocinas negras, restaurantes virtuales y los modelos de negocio que consisten en un espacio en que se habilitan distintas cocinas en las que se elabora comida para despacho a domicilio).
+
+5. Que, mediante memorándum N° 20, de fecha 10 de marzo de 2022, del Jefe subrogante del Departamento de Desarrollo Urbano e Infraestructura de esta Secretaría Ministerial, dirigido a la Jefa subrogante de la Sección Jurídica, ha estimado atendible la preocupación municipal por preservar las áreas involucradas, para que se consoliden a futuro con las normas contenidas en el proyecto de modificación al PRC, que se encuentra avanzando en las distintas instancias del procesa de formulación y trámite de aprobación de la iniciativa, y por lo tanto se considera recomendable atender lo solicitado por el Municipio, procediendo a sancionar la respectiva prórroga de postergación de permisos de edificación.
+
+6. Que, se ha acreditado de manera suficiente el requisito de caso necesario y los demás antecedentes fundantes de su petición, con los siguientes documentos:
+
+. Oficio Alc. N° 6.581, de fecha 24 de noviembre de 2021, de Alcaldesa de la comuna de Providencia.
+
+. Oficio N° 3.634 de la Seremi, de fecha 15 de diciembre de 2021.
+
+. Decreto exento N° 1.902, de fecha 17 de diciembre de 2021, de la Alcaldesa de la comuna de Providencia.
+
+. Publicación en el Diario Oficial, de fecha 27 de diciembre de 2021, del decreto exento N° 1.902 antes indicado.
+
+. Oficio Alc. N° 999, de fecha 18 de febrero de 2022, del Alcalde (S) de la comuna de Providencia a Seremi Minvu RM.
+
+### 7. Que, de conformidad a lo expuesto:
+
+Resuelvo:
+
+1. Prorrógase, por un período de tres meses el plazo de postergación de los permisos de edificación dictada por el decreto exento N° 1.902, de fecha 17 de diciembre de 2021, que dispuso la postergación de permisos, publicado en el Diario Oficial con fecha 27 de diciembre de 2021, para las zonas: Zona 1, permisos para el uso de suelo "residencial", en lo que corresponda a la actividad de "apart hotel", en tanto para el uso de suelo de equipamiento, en las actividades de black kitchen, dark kitchen, cocinas fantasmas, cocinas negras, restaurantes virtuales y los modelos de negocio que consisten en un espacio en que se habilitan distintas cocinas en las que se elabora comida para despacho a domicilio. Por otra parte, en la Zona 2 permisos para el uso de suelo de equipamiento, en las actividades de black kitchen, dark kitchen, cocinas fantasmas, cocinas negras, restaurantes virtuales y los modelos de negocio que consisten en un espacio en que se habilitan distintas cocinas en las que se elabora comida para despacho a domicilio.
+
+2. Notifíquese lo resuelto a la I. Municipalidad de Providencia, sirviendo la presente resolución exenta como suficiente y atento oficio remisor.
+
+3. Publíquese por el Municipio la presente resolución exenta en el Diario Oficial, así como también en alguno de los diarios de mayor circulación en la comuna.
+
+> **Nota.** El número 1° de la Resolución 351 Exenta, Vivienda, publicada el 28.06.2022, prorroga por un período de tres meses el plazo de postergación de los permisos de edificación dictado por la presente norma, para las zonas: Zona 1, permisos para el uso de suelo "residencial", en lo que corresponda a la actividad de "apart hotel", en tanto para el uso de suelo de equipamiento, en las actividades de black kitchen, dark kitchen, cocinas fantasmas, cocinas negras, restaurantes virtuales y los modelos de negocio que consisten en un espacio en que se habilitan distintas cocinas en las que se elabora comida para despacho a domicilio. Por otra parte, en la Zona 2 permisos para el uso de suelo de equipamiento, en las actividades de black kitchen, dark kitchen, cocinas fantasmas, cocinas negras, restaurantes virtuales y los modelos de negocio que consisten en un espacio en que se habilitan distintas cocinas en las que se elabora comida para despacho a domicilio.
+
+Anótese, comuníquese y cúmplase.- Francisca Bustos Contreras, Secretaria Ministerial Metropolitano de Vivienda y Urbanismo Subrogante.
