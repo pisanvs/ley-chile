@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL ESTUDIO DE IMPACTO AMBIENTAL PROYECTO "PARQUE EÓLICO VIENTO SUR"
+
+De conformidad a lo dispuesto en el del artículo 95 y en el inciso final del artículo 91 del DS Nº 40/2012 MMA (Reglamento del SEIA), se comunica a toda persona, natural o jurídica, que hubiera presentado observaciones durante la evaluación ambiental del Estudio de Impacto Ambiental del proyecto "Parque Eólico Viento Sur", sometido al Sistema de Evaluación de Impacto Ambiental por su titular, Arauco Bioenergía S.A., que por resolución exenta Nº 202208101120, de fecha 10 de marzo de 2022, la Comisión de Evaluación de la Región del Biobío calificó favorablemente el proyecto individualizado. Estas personas, naturales o jurídicas, disponen de un plazo de 30 días hábiles, contados desde la presente notificación, para presentar recurso de reclamación ante el Comité de Ministros, de conformidad a lo dispuesto en los artículos 20 y 29 de la ley Nº 19.300.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA del Biobío, ubicada en Lincoyán Nº 145, Concepción. Además, podrá acceder a la resolución a través del sitio web www.sea.gob.cl.-
+
+Silvana Suanes Araneda, Secretaria, Comisión de Evaluación Región del Biobío.
