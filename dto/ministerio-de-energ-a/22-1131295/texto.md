@@ -52,7 +52,9 @@ Esta concesión se otorga por plazo indefinido.
 
 #### Artículo 9°
 
-El plazo de inicio de los trabajos será dentro de los 12 meses contados desde la fecha de reducción a escritura pública del presente decreto de concesión, y el plazo para su terminación será de 12 semanas, a contar de la fecha de inicio de los trabajos hasta la terminación total de las obras. Los plazos para la terminación por etapas y secciones se desarrollarán de manera simultánea, de acuerdo con el siguiente detalle:
+El plazo de inicio de los trabajos será dentro de los 54 meses contado desde la fecha de reducción a escritura pública del presente decreto de concesión, y el plazo para su terminación será de 12 semanas, a contar de la fecha de inicio de los trabajos hasta la terminación total de las obras. Los plazos para la terminación por etapas y secciones se desarrollarán de manera simultánea, de acuerdo con el siguiente detalle:
+
+> **Nota.** El número 1° del Decreto 92, Energía, publicado el 28.03.2022, dispuso modificar el presente artículo, en el sentido de reemplazar la frase "El plazo de inicio de los trabajos será dentro de los 12 meses contados desde la fecha de reducción a escritura pública del presente decreto de concesión" por la siguiente: "El plazo de inicio de los trabajos será dentro de los 32 meses contados desde la fecha de reducción a escritura pública del presente decreto de concesión". No obstante lo anterior, el artículo 1° del Decreto 62 Exento, Energía, publicado el 28.03.2022, de igual fecha que el citado decreto, dispuso reemplazar la frase "El plazo de inicio de los trabajos será dentro de los 32 meses contados desde la fecha de reducción a escritura pública del presente decreto de concesión", por la siguiente: "El plazo de inicio de los trabajos será dentro de los 54 meses contado desde la fecha de reducción a escritura pública del presente decreto de concesión", razón por la cual se entiende como la versión vigente del presente texto actualizado.
 
 #### Artículo 10°
 
