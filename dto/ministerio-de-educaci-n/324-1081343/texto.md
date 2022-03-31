@@ -38,7 +38,7 @@ La definición de los enfoques, cobertura curricular y de áreas de conocimiento
 
 #### Artículo 5º
 
-El contenido del Programa contemplará la realización de acciones formativas consistentes en programas de postítulo destinados a profesionales de la educación de Primer Ciclo de enseñanza básica que se desempeñan en establecimientos educacionales subvencionados, de la misma región en que se impartirá la especialización, o en una región próxima a aquella.
+El contenido del Programa contemplará la realización de acciones formativas consistentes en programas de postítulo destinados a profesionales de la educación que se desempeñen de Primer Ciclo de enseñanza básica que se desempeñan en establecimientos educacionales subvencionados, de la misma región en que se impartirá la especialización, o en una región próxima a aquella.
 
 #### Artículo 6º
 
@@ -48,33 +48,43 @@ Sin perjuicio de lo anterior, y con el objeto de propender a la igualdad de acce
 
 #### Artículo 7º
 
-Para la selección de los participantes, el Ministerio de Educación, a través del CPEIP extenderá invitación a los profesores de educación básica del país.
+Para la selección de los participantes, el Ministerio de Educación, a través del CPEIP extenderá invitación a los profesores y educadores del país, que se desempeñen en el primer ciclo de educación básica, de conformidad a lo indicado en los artículos siguientes.
 
-#### Artículo 8º
+#### Artículo 8°
 
-Los profesores, para ser seleccionados deberán cumplir con los siguientes requisitos:
+Los postulantes deberán cumplir con los siguientes requisitos copulativos:
 
-1. Tener el título de Profesor de Educación Básica.
+1. Desempeñarse en establecimientos educacionales regidos por el decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación.
 
-2. Desempeñarse en establecimientos educacionales regidos por el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación.
+2. Tener título de profesor de Educación Básica, profesor de Educación Diferencial y/o Educador de Párvulos.
 
-3. Ejercer la función docente en el Primer Ciclo de Enseñanza Básica.
+3. Ejercer la función docente en el Primer Ciclo de Educación Básica.
 
-4. Tener un mínimo de seis años de experiencia profesional.
+4. Tener un mínimo de dos años de experiencia profesional.
 
-5. Contar con el patrocinio del sostenedor, o administrador del establecimiento donde se desempeña, conforme a lo establecido en el literal b) del inciso primero del artículo 13 del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación.
+5. Contar con el patrocinio del sostenedor, o administrador del establecimiento donde se desempeña, conforme a lo establecido en la letra b) del inciso primero del artículo 13 del decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación, Estatuto Docente.
 
-6. No contar con una mención.
+6. No contar con una mención en el Primer Ciclo de Educación Básica, que haya sido obtenida a través de la participación en acciones formativas financiadas con recursos provenientes del Ministerio de Educación, o a través de becas otorgadas por éste.
 
-#### Artículo 9º
+#### Artículo 9°
 
-El Ministerio de Educación otorgará una beca consistente en un monto de dinero por cada profesor participante en el programa de postítulo, el que se transferirá directamente a la universidad. El monto de los recursos a transferir será determinado anualmente por el Ministerio de Educación, a través del CPEIP, de acuerdo a la disponibilidad que para estos efectos se establezca en la Ley de Presupuesto de cada año, y comprenderá además, si procediere, alojamiento, traslado y alimentación, sumas que se transferirán a través de las Secretarías Regionales Ministeriales de Educación.
+El Ministerio de Educación otorgará un monto de dinero por cada docente participante en el programa de postítulo, el que se transferirá directamente a la universidad que lo imparte. El monto de los recursos a transferir será determinado anualmente por el Ministerio de Educación, a través del CPEIP, de acuerdo con la disponibilidad que para estos efectos se establezca en la Ley de Presupuestos de cada año.
 
-rtículo 10: En el caso que la demanda de matrícula exceda la cantidad de vacantes, se deberán considerar los siguientes criterios de prioridad para seleccionar a los postulantes:
+Sin perjuicio de lo anterior, en aquellos casos que sea necesario financiar el traslado, alojamiento y alimentación, a los docentes, el CPEIP determinará y transferirá los montos correspondientes a través de las Secretarías Regionales Ministeriales de Educación.
 
-1. Trabajar en un establecimiento con alta concentración de alumnos prioritarios, o en establecimientos rurales uni, bi o tri docentes o en multigrados o en situación de aislamiento, o con alta concentración de estudiantes de ascendencia indígena o multicultural, o con alta concentración de estudiantes con necesidades educativas especiales. Se entenderá por alumnos prioritarios aquellos definidos en el artículo 2º de la ley Nº 20.248, y por establecimientos de alta concentración de alumnos prioritarios, aquéllos cuya concentración sea igual o superior al 60%, calculada de acuerdo a lo establecido en el decreto Nº 208, de 2011, del Ministerio de Educación, o aquel que en el futuro lo reemplace.
+Para efectos de la selección de los postulantes, estos serán ordenados de acuerdo con el puntaje que les sea asignado conforme a lo siguiente:
 
-Se entenderá que un establecimiento educacional tiene alta concentración de estudiantes con necesidades educativas especiales, cuando dicho establecimiento imparta la modalidad de educación especial o desarrolle un Proyecto de Integración Escolar; por su parte se considerarán de alta concentración de alumnos con ascendencia indígena o multicultural, aquellos establecimientos educacionales que tengan una matrícula con al menos un 20% de alumnos con dicha calidad.
+#### Artículo 10
+
+En el caso que la demanda de matrícula exceda la cantidad de vacantes, se deberán considerar los siguientes criterios de prioridad para seleccionar a los postulantes:
+
+1. Trabajar en un establecimiento con alta concentración de alumnos prioritarios, o en establecimientos rurales uni, bi o tri docentes o en multigrados o en situación de aislamiento, o con alta concentración de estudiantes de ascendencia indígena o multicultural, o con alta concentración de estudiantes con necesidades educativas especiales. Se entenderá por alumnos prioritarios aquellos definidos en el artículo 2º de la ley Nº 20.248, y por establecimientos de alta concentración de alumnos prioritarios, aquéllos cuya concentración sea igual o superior al 60%, calculada considerando el promedio de la matrícula de los alumnos prioritarios en relación al promedio de la matrícula del total de los alumnos del establecimiento educacional, ambas registradas en el respectivo establecimiento de marzo a diciembre del año inmediatamente anterior.
+
+Se entenderá que un establecimiento educacional tiene alta concentración de estudiantes con necesidades educativas especiales, cuando dicho establecimiento imparta la modalidad de educación especial o desarrolle un Proyecto de Integración Escolar; mediante convenio firmado con el Ministerio de Educación; por su parte se considerarán de alta concentración de alumnos con ascendencia indígena o multicultural, aquellos establecimientos educacionales que tengan una matrícula con al menos un 20% de alumnos con dicha calidad, obtenida a través del sistema de gestión de datos que opere el Ministerio de Educación.
+
+Por su parte, los establecimientos multigrado y establecimientos uni, bi y tri docentes serán aquellos que se encuentren ingresados como tales en el sistema de gestión de datos que opere el Ministerio de Educación.
+
+Se entenderá en situación de aislamiento, aquellos establecimientos educacionales que se encuentren ubicados en localidades aisladas determinadas según el índice que establece el decreto N° 975, de 2018, del Ministerio del Interior, que aprueba reglamento que fija la política nacional sobre zonas rezagadas en materia social o aquellos establecimientos educacionales que se encuentren ubicados a más de 5 kilómetros lineales del establecimiento educacional más cercano, conforme lo determina anualmente el Ministerio de Educación.
 
 2. Desempeñarse en un establecimiento que se encuentre bajo el promedio nacional del sistema de evaluación regulado en los párrafos 2º y 3º del título II de la ley Nº 20.529.
 

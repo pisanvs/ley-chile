@@ -1,4 +1,4 @@
-REGLAMENTA PROGRAMA DE BECAS DE ESPECIALIZACION EN SUBSECTORES DE MATEMATICAS Y COMPRENSION DE LA NATURALEZA EN LA FORMA QUE SEÑALA
+REGLAMENTA PROGRAMA DE BECAS DE ESPECIALIZACION EN LA FORMA QUE SEÑALA
 
 Núm. 133.- Santiago, 24 de junio de 2005.- Considerando:
 
@@ -32,7 +32,7 @@ Las asignaturas de aprendizaje materia del programa, así como los contenidos de
 
 #### Artículo 5º
 
-El Programa contemplará la realización de acciones formativas consistentes en programas de postítulo, destinados a profesionales de la educación básica que se desempeñan en establecimientos educacionales subvencionados en la misma región donde se ubica la Universidad encargada del perfeccionamiento, o en una región próxima.
+El Programa contemplará la realización de acciones formativas consistentes en programas de postítulo, destinados a profesionales de la educación básica que se desempeñan en Segundo Ciclo de Educación Básica, establecimientos educacionales subvencionados en la misma región donde se ubica la Universidad encargada del perfeccionamiento, o en una región próxima.
 
 #### Artículo 6º
 
@@ -42,27 +42,29 @@ Sin perjuicio de lo anterior, y con el objeto de propender a la igualdad de acce
 
 #### Artículo 7°
 
-Para la selección de los participantes de los cursos de Perfeccionamiento, el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, a través de las Universidades acreditadas, extenderá una invitación a todos los profesores de educación básica del país, que cumplan con los requisitos señalados en el artículo 2 a que se inscriban en la Universidad con todos los antecedentes solicitados.
+Para la selección de los participantes de los cursos de Perfeccionamiento, el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, a través de las Universidades acreditadas, extenderá una invitación a todos los profesores de educación básica del país, que cumplan con los requisitos señalados en el artículo 2° del presente reglamento, sin perjuicio de lo señalado en los artículos siguientes.
 
-#### Artículo 8º
+#### Artículo 8°
 
-Los profesionales de la educación, para ser seleccionados deberán cumplir con los siguientes requisitos:
+Los postulantes deberán cumplir con los siguientes requisitos copulativos:
 
-1. Poseer el título de profesor de educación básica.
+1. Poseer el título de profesor de Educación Básica, Profesor de Enseñanza Media, Profesor de Educación Diferencial y/o Educador de Educación Diferencial.
 
-2. Ejercer la función docente en el segundo ciclo básico.
+2. Ejercer la función docente en la asignatura que imparte el postítulo, en el segundo ciclo de Educación Básica.
 
-3. Tener un mínimo de seis años de experiencia profesional.
+3. Tener un mínimo de dos años de experiencia profesional.
 
-4. No contar con una mención.
+4. No contar con una mención en el ciclo y en la asignatura del postítulo, que haya sido obtenida a través de la participación en acciones formativas financiadas con recursos provenientes del Ministerio de Educación, o a través de becas otorgadas por éste.
 
-5. Contar con el patrocinio del sostenedor o administrador del establecimiento donde se desempeña, conforme a lo establecido en el literal b) del inciso primero del artículo 13 del decreto con fuerza de ley Nº 1 de 1996, del Ministerio de Educación.
+5. Contar con el patrocinio del sostenedor, o administrador del establecimiento donde se desempeña, conforme a lo establecido en la letra b) del inciso primero del artículo 13 del decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación.
 
-#### Artículo 9º
+#### Artículo 9°
 
-El Ministerio de Educación otorgará una beca consistente en un monto en dinero, por cada docente participante del programa de postítulo, a través de transferencia directa a la Universidad. El monto de los recursos a transferir será determinado anualmente por el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, de acuerdo a la disponibilidad que para estos efectos se establezca en la Ley de Presupuesto y comprenderá además, si correspondiere, alojamiento, traslado y alimentación, sumas que se transferirán a través de las Secretarías Regionales Ministeriales de Educación.
+El Ministerio de Educación otorgará un monto de dinero por cada docente participante en el programa de postítulo, el que se transferirá directamente a la Universidad que lo imparte. El monto de los recursos a transferir será determinado anualmente por el Ministerio de Educación, a través del CPEIP, de acuerdo con la disponibilidad que para estos efectos se establezca en la Ley de Presupuestos de cada año.
 
-Inciso Eliminado.
+Sin perjuicio de lo anterior, en aquellos casos que sea necesario financiar el traslado, alojamiento y alimentación de los docentes, el CPEIP determinará y transferirá los montos correspondientes a través de las Secretarías Regionales Ministeriales de Educación.
+
+Para efectos de la selección de los postulantes, estos serán ordenados de acuerdo al puntaje que les sea asignado conforme a lo siguiente:
 
 #### Artículo 10
 
@@ -70,11 +72,17 @@ En el caso que la demanda de matrícula exceda la cantidad de vacantes, se deber
 
 1. Trabajar en un establecimiento con alta concentración de alumnos prioritarios, o en establecimientos rurales uni, bi o tri docentes o en multigrados o en situación de aislamiento, o con alta concentración de estudiantes de ascendencia indígena o multicultural, o con alta concentración de estudiantes con necesidades educativas especiales.
 
-Se entenderá por alumnos prioritarios aquellos definidos en el artículo 2º de la ley Nº 20.248, y por establecimientos de alta concentración de alumnos prioritarios, aquéllos cuya concentración sea igual o superior al 60%, calculada de acuerdo a lo establecido en el decreto Nº 208, de 2011, del Ministerio de Educación, o aquel que en el futuro lo reemplace.
+Se entenderá por alumnos prioritarios aquellos definidos en el artículo 2° de la ley N° 20.248, y por establecimientos de alta concentración de alumnos prioritarios, aquéllos cuya concentración sea igual o superior al 60%, calculada considerando el promedio de la matrícula de los alumnos prioritarios en relación al promedio de la matrícula del total de los alumnos del establecimiento educacional, ambas registradas en el respectivo establecimiento de marzo a diciembre del año inmediatamente anterior.
 
-Se entenderá que un establecimiento educacional tiene alta concentración de estudiantes con necesidades educativas especiales, cuando dicho establecimiento imparta la modalidad de educación especial o desarrolle un Proyecto de Integración Escolar; por su parte se considerarán de alta concentración de alumnos con ascendencia indígena o multicultural, aquellos establecimientos educacionales que tengan una matrícula con al menos un 20% de alumnos con dicha calidad.
+Se entenderá que un establecimiento educacional tiene alta concentración de estudiantes con necesidades educativas especiales, cuando dicho establecimiento imparta la modalidad de educación especial o desarrolle un Proyecto de Integración Escolar mediante convenio firmado con el Ministerio de Educación; por su parte se considerarán de alta concentración de alumnos con ascendencia indígena o multicultural, aquellos establecimientos educacionales que tengan una matrícula con al menos un 20% de alumnos con dicha calidad, obtenida a través del sistema de gestión de datos que opere el Ministerio de Educación.
+
+Por su parte, los establecimientos multigrado y establecimientos uni, bi y tri docentes serán aquellos que se encuentren ingresados como tales en el sistema de gestión de datos que opere el Ministerio de Educación.
+
+Se entenderá en situación de aislamiento, aquellos establecimientos educacionales que se encuentren ubicados en localidades aisladas determinadas según el índice que establece el decreto N° 975, de 2018, del Ministerio del Interior, que aprueba reglamento que fija la política nacional sobre zonas rezagadas en materia social o aquellos establecimientos educacionales que se encuentren ubicados a más de 5 kilómetros lineales del establecimiento educacional más cercano, conforme lo determina anualmente el Ministerio de Educación.
 
 2. Desempeñarse en un establecimiento que se encuentre bajo el promedio nacional del sistema de evaluación regulado en los párrafos 2º y 3º del título II de la ley Nº 20.529.
+
+3. El grado de relación entre la función que ejerce el profesional en el establecimiento y los contenidos del programa, curso o actividad de formación al cual postula, lo que será definido de acuerdo con las características de cada uno de ellos y publicado en la correspondiente convocatoria.
 
 #### Artículo 11º
 
