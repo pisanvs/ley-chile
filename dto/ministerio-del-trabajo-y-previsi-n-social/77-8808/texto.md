@@ -152,7 +152,7 @@ De las Asignaciones
 
 El Bienestar podrá otorgar, dentro de sus posibilidades presupuestarias, asignaciones o ayudas económicas sin cargo de restitución a sus afiliados por las causales, hasta por los montos y de acuerdo a las modalidades que a continuación se indican:
 
-1.- Matrimonio del afiliado: Hasta un ingreso mínimo. Si el matrimonio se celebra entre afiliados, ambos contrayentes podrán solicitar el beneficio íntegro;
+1.- Matrimonio o acuerdo de unión civil del afiliado: Hasta un ingreso mínimo. Si el matrimonio o acuerdo de unión civil se celebra entre afiliados, ambos contrayentes podrán solicitar el beneficio íntegro;
 
 2.- Nacimiento: Hasta un ingreso mínimo por nacimiento de cada hijo. Si ambos padres fueren afiliados, sólo uno de ellos tendrá derecho a percibir el beneficio;
 
@@ -160,7 +160,7 @@ El Bienestar podrá otorgar, dentro de sus posibilidades presupuestarias, asigna
 
 En caso de fallecimiento del afiliado, el beneficio le corresponderá a quien éste haya designado como beneficiario. A falta de dicha designación se observará el siguiente orden de precedencia,
 
-- **a)** cónyuge sobreviviente,
+- **a)** Cónyuge o conviviente civil sobreviviente,
 
 - **b)** hijos legítimos;
 
