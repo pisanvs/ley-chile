@@ -1,0 +1,39 @@
+PRORROGA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA POR EL PERIODO QUE INDICA
+
+Núm. 141.- Santiago, 24 de marzo de 2022.
+
+Vistos:
+
+Lo establecido en los artículos 19 Nº 1, 32 Nº 5, 39, 42 y 43 del decreto supremo N° 100 del Ministerio Secretaría General de la Presidencia, del año 2005, que fija el texto refundido, coordinado y sistematizado de la Constitución Política de la República; en el artículo 8 de la ley Nº 18.415 orgánica constitucional de Estados de Excepción; en el decreto con fuerza de ley Nº 1-19.653 del Ministerio Secretaría General de la Presidencia, del año 2000, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575 orgánica constitucional de bases generales de la Administración del Estado; en la ley Nº 21.325 de Migración y Extranjería; en el decreto supremo Nº 296, del Ministerio del Interior y Seguridad Pública, del año 2021, que aprueba el reglamento de la ley Nº 21.325; en el decreto supremo Nº 342, del Ministerio de Relaciones Exteriores, del año 2004, que promulga la Convención de las Naciones Unidas contra la delincuencia organizada transnacional y sus protocolos contra el tráfico ilícito de migrantes por tierra, mar y aire y para prevenir, reprimir y sancionar la trata de personas, especialmente mujeres y niños; en el decreto supremo Nº 1.364 del Ministerio del Interior y Seguridad Pública, del año 2018, que establece disposiciones relativas al uso de la fuerza en las intervenciones policiales para el mantenimiento del orden público; en la circular Nº 1.832 del General Director de Carabineros de Chile, del año 2019, Uso de la Fuerza: Actualiza instrucciones al respecto; en la Orden General Nº 2.635 del General Director de Carabineros, del año 2019, Protocolos para el mantenimiento del orden público: Aprueba nuevo texto y deroga normativa que indica, y sus modificaciones posteriores; en el decreto supremo Nº 8 del Ministerio de Defensa Nacional, del año 2020, que establece las reglas de uso de la fuerza para las Fuerzas Armadas en los estados de excepción constitucional que indica; en el decreto supremo Nº 4 del Ministerio de Defensa Nacional, del año 2020, que Aprueba Política de Defensa Nacional de Chile Edición 2020; en el decreto supremo N° 35 del Ministerio del Interior y Seguridad Pública, del año 2022, que declara estado de excepción constitucional de emergencia en las zonas del territorio nacional que indica; en los decretos supremos N°s. 40 y 138, ambos del Ministerio del Interior y Seguridad Pública, del año 2022, que prorrogan la declaración de estado de excepción constitucional de emergencia; en el oficio Gabinete Presidencial N° 381, de fecha 22 de marzo del año 2022, que somete a consideración del H. Congreso Nacional la prórroga del estado de excepción constitucional de emergencia; el Of. Nº 17.305 de la H. Cámara de Diputados, de fecha de 23 de marzo del año 2022; y en la resolución Nº 7 de la Contraloría General de la República, del año 2019.
+
+Considerando:
+
+1. Que, como es de público conocimiento, ha existido aumento de los flujos migratorios mixtos hacia Chile, principalmente por la llegada masiva de población a través de pasos no habilitados. Esto se explica, entre otros motivos, por las restricciones a canales regulares y seguros de ingreso, las restricciones establecidas por la situación sanitaria y la ausencia de medidas adecuadas para ofrecer protección internacional a las personas que cumplan los requisitos establecidos en la normativa vigente.
+
+2. Que esta llegada masiva de personas migrantes y con necesidades de protección internacional ha demandado por parte del Estado de medidas adicionales para asegurar la protección de las comunidades, por un lado, mediante la vigilancia adecuada de las fronteras y la minimización de la comisión de ilícitos; y, por otro lado, acciones para proteger la vida y la integridad de las personas que ingresan al territorio nacional.
+
+3. Que, mediante el decreto supremo Nº 35 del Ministerio del Interior y Seguridad Pública, de fecha 15 de febrero del año 2022, se declaró estado de excepción constitucional de emergencia en las zonas allí indicadas por un término de 15 días, atendiendo a lo dispuesto en el artículo 42 de la Constitución Política de la República.
+
+4. Que, a través de los decretos supremos N°s. 40 y 138, ambos del Ministerio del Interior y Seguridad Pública, del año 2022, se prorrogó el estado de excepción constitucional de emergencia señalado precedentemente.
+
+5. Que el estado de excepción constitucional de emergencia ha permitido disponer de medidas especiales de colaboración entre las Fuerzas Armadas y las Fuerzas de Orden y Seguridad, logrando aumentar la presencia del Estado tanto en las fronteras como en las comunidades de acogida en las zonas fronterizas para fortalecer la prevención y detección de ilícitos en estos territorios.
+
+6. Que, sumado a lo anterior, la declaración de estado de excepción constitucional de emergencia ha permitido la generación de una estrategia de coordinación de medios humanos, logísticos y técnicos que contribuyen a facilitar la detección de graves ilícitos asociados al crimen organizado.
+
+7. Que, pese a las medidas dispuestas para fortalecer el despliegue de las Fuerzas Armadas y de Orden y Seguridad en las fronteras, los hechos que fundamentaron la declaración y prórroga del estado de excepción subsisten. Así, se requiere extender la declaración de estado de excepción constitucional de emergencia por 15 días adicionales, con el objeto de facilitar la adopción de medidas urgentes para la protección de las comunidades de acogida y de las personas migrantes y con necesidades de protección internacional.
+
+8. Que, en consecuencia, se envió al H. Congreso Nacional el oficio Gabinete Presidencial N° 381, con fecha 22 de marzo del año en curso, para requerir su acuerdo para prorrogar el estado de excepción constitucional de emergencia por un plazo adicional de 15 días a contar del vencimiento del periodo previsto en el artículo primero del decreto supremo N° 138 del Ministerio del Interior y Seguridad Pública, del año 2022, en cumplimiento de lo establecido en el artículo 42 de la Constitución Política.
+
+9. Que, a través del oficio N° 17.305 de la H. Cámara de Diputados, de fecha 23 de marzo del año en curso, se comunicó a S.E. el Presidente de la República la aprobación del H. Congreso Nacional a la solicitud efectuada.
+
+10. Que de conformidad a los fundamentos expuestos se hace necesaria la dictación del correspondiente acto administrativo.
+
+Decreto:
+
+1. Prorrógase el estado de excepción constitucional de emergencia declarado mediante decreto supremo N° 35 del Ministerio del Interior y Seguridad Pública, del año 2022, declarando como zonas afectadas las provincias de Arica y Parinacota, en la Región de Arica y Parinacota, excluyendo el radio urbano de la ciudad de Arica; la provincia de Tamarugal, en la Región de Tarapacá; y la provincia de El Loa, en la Región de Antofagasta, excluyendo el radio urbano de la ciudad de Calama; por un plazo adicional de 15 días a contar del vencimiento del período previsto en el decreto supremo N° 138 del Ministerio del Interior y Seguridad Pública, del año 2022.
+
+2. Renuévase, por el mismo período, las designaciones de los Jefes de la Defensa Nacional en las zonas señaladas en el artículo anterior de los miembros de las Fuerzas Armadas individualizados en el decreto supremo N° 35 del Ministerio del Interior y Seguridad Pública, del año 2022.
+
+Anótese, tómese razón, comuníquese y publíquese.- GABRIEL BORIC FONT, Presidente de la República.- Izkia Siches Pastén, Ministra del Interior y Seguridad Pública.- Antonia Urrejola Noguera, Ministra de Relaciones Exteriores.- Maya Fernández Allende, Ministra de Defensa Nacional.
+
+Lo que transcribo a Ud. para su conocimiento.- Atentamente, Manuel Zacarías Monsalve Benavides, Subsecretario del Interior.
