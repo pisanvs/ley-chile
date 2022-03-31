@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta N° 638, de fecha 2 de marzo de 2022, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se autoriza a Escuela de Conductores No Profesionales o Clase B denominada "Colmacar", domiciliada en Berta Correa N° 1658, comuna de Huechuraba, cuya propietaria es la señora Johana Natalia Ruiz Cordero, Cédula de Identidad N° 15.236.055-K, y cuyo Programa de Enseñanza fue aprobado mediante resolución exenta N° 3.477, de 27 de mayo de 2014, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, a impartir el curso conducente a la obtención de la Licencia de Conductor Clase B, en la modalidad e-learning.-
+
+Alfredo Andrés Quezada Martínez, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
