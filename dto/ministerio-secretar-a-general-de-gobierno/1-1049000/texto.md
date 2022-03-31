@@ -30,7 +30,7 @@ Capítulo I.- Del Catastro de Organizaciones de Interés Público
 
 Son organizaciones de interés público aquellas personas jurídicas sin fines de lucro, cuya finalidad es la promoción del interés general en materia de derechos ciudadanos, asistencia social, educación, salud, medio ambiente, o cualquiera otra de bien común, en especial las que recurran al voluntariado y que se encuentren inscritas en el Catastro de Organizaciones de Interés Público.
 
-Las organizaciones comunitarias funcionales, juntas de vecinos y uniones comunales constituidas conforme a la ley N° 19.418, y las comunidades y asociaciones indígenas reguladas en la ley N° 19.253, tendrán el carácter de organizaciones de interés público por el solo ministerio de la ley.
+Las organizaciones comunitarias funcionales, juntas de vecinos y uniones comunales constituidas conforme a la ley N° 19.418, las asociaciones de consumidores constituidas conforme a la ley Nº 19.496 y las comunidades y asociaciones indígenas reguladas en la ley N° 19.253, tendrán el carácter de organizaciones de interés público por el solo ministerio de la ley.
 
 #### Artículo 3
 
@@ -58,15 +58,15 @@ La solicitud de inscripción deberá contener, a lo menos, la siguiente informac
 
 a) Identificación de la organización, incluyendo nombre, domicilio, teléfono y, si lo tuviera, correo electrónico.
 
-b) Identificación del(los) representante(s) legal(es), incluyendo nombre, cédula de identidad, domicilio y copia autorizada de la personería.
+b) Copia íntegra autorizada y actualizada de los Estatutos de la organización, junto a certificado de vigencia de personalidad jurídica sin fines de lucro emitido por la autoridad competente.
 
-c) Declaración jurada simple, en la cual el representante legal de la organización solicitante declare que ésta tiene la calidad de organización de interés público, salvo que la misma tenga dicha calidad por el solo ministerio de la ley.
+c) Identificación del(los) representante(s) legal(es), incluyendo nombre, cédula de identidad, domicilio y copia autorizada de la personería.
 
-d) Solicitud de que se reconozca la calidad de organización de voluntariado, cuando corresponda, sin perjuicio de lo indicado en el artículo 9° del presente Reglamento.
+d) Declaración jurada simple, en la cual el representante legal de la organización solicitante declare que ésta tiene la calidad de organización de interés público, salvo que la misma tenga dicha calidad por el solo ministerio de la ley.
+
+e) Solicitud de que se reconozca la calidad de organización de voluntariado, cuando corresponda, sin perjuicio de lo indicado en el artículo 9° del presente Reglamento.
 
 La inscripción en el Registro Nacional de Personas Jurídicas sin Fines de Lucro será verificada por el Consejo con la información que le proporcione el Servicio del Registro Civil e Identificación, sin desmedro de lo señalado en la Disposición Primera Transitoria del presente Reglamento.
-
-Sin perjuicio de lo anterior, en casos calificados, el Consejo podrá requerir, fundadamente, copia autorizada de los Estatutos de la organización solicitante y de sus modificaciones, si las hubiere.
 
 #### Artículo 6
 
@@ -234,7 +234,7 @@ Lo anterior, sin perjuicio de que dicho Secretario Ejecutivo deba proveer, de of
 
 #### Artículo 22
 
-Los miembros del Consejo Nacional y de los Consejos Regionales del Fondo que sean representantes de las organizaciones de interés público y los designados por el Presidente de la República o por el Intendente, en su caso, se renovarán cada dos años.
+Los miembros del Consejo Nacional y de los Consejos Regionales del Fondo que sean representantes de las organizaciones de interés público y los designados por el Presidente de la República o por el Gobernador Regional, en su caso, se renovarán cada dos años.
 
 Los consejeros no recibirán remuneración o dieta de especie alguna por su participación en los mismos, sin perjuicio de los recursos que se destinen para solventar los gastos de transporte, alimentación y alojamiento que se deriven de su concurrencia a las sesiones de dichos consejos.
 
@@ -264,7 +264,7 @@ b) El Secretario Regional Ministerial de Gobierno. Con todo, en la Región Metro
 
 c) El Secretario Regional Ministerial de Desarrollo Social.
 
-d) Dos miembros designados por el Intendente con acuerdo del Consejo Regional.
+d) Dos miembros designados por el Gobernador Regional con acuerdo del Consejo Regional.
 
 En el proceso de elección de los representantes indicados en la letra a), deberá también elegirse al menos a tres miembros suplentes, definiéndose su orden de prelación.
 
@@ -286,7 +286,7 @@ Respecto de la participación proporcional de los distintos tipos de asociacione
 
 #### Artículo 27
 
-El Presidente de cada Consejo Regional del Fondo será elegido por el Intendente Regional respectivo de entre los cinco representantes señalados en la letra a) del artículo 24 del presente Reglamento.
+El Presidente de cada Consejo Regional del Fondo será elegido por el Gobernador Regional respectivo de entre los cinco representantes señalados en la letra a) del artículo 24 del presente Reglamento.
 
 En tanto el Presidente del Consejo Regional no sea designado o en caso de ausencia del titular, se designará entre sus miembros y por mayoría simple a un Presidente provisorio.
 
