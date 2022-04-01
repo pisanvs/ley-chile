@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.026, de fecha 16 de noviembre de 2021, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 8202-47, correspondiente al inmueble ubicado en Reloj de Sol 3745 Depto. 33, Rol de Avalúo Nº 8202-47, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Catril Antihuala Ana María, con una superficie aproximada de 42,98 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Marta Brunet del sector Bajos de Mena". La Comisión de Peritos integrada por los señores Gabriela Majluf Magluf, Arquitecto; Víctor Hugo Aceval Corbalán, Arquitecto y Felipe José Valdés González, Ingeniero Agrónomo, mediante Informe de fecha 27 de septiembre de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $22.929.891, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
