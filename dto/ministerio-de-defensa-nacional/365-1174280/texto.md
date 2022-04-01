@@ -1,0 +1,7 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 365, de fecha 14 de septiembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la señora Guillermina Molina Alcocer, RUN N° 5.331.866-5, Sr. Juan Panadés Molina, RUN N° 10.169.611-1, y Sra. Sandra Panadés Molina, RUN N° 8.799.842-8, segunda renovación de concesión marítima menor, con vencimiento 31 de diciembre de 2026, sobre un sector de terreno de playa, en el lugar denominado Balneario Hornitos, comuna de Mejillones, Provincia y Región de Antofagasta, con una superficie total de 400 m², la que fue tramitada con el SIABC N° 37141. A modo referencial deslinda y mide: al Norte, con terreno de playa, en 20 mts.; al Sur con terreno de playa, sitio N° 15, en 20 mts., al Este con terreno fiscal, en 20 mts., y al Oeste con terreno de playa, en 20 mts. (Avda. Hornitos).
+
+El objeto consiste en continuar destinando la mejora fiscal como casa de veraneo familiar. Las obras existentes consisten en una casa. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Mejillones. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Marcelo González González, Capitán de Corbeta LT, Capitán de Puerto de Mejillones.
