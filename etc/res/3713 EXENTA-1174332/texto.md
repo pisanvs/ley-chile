@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.713, de fecha 25 de octubre de 2021, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186, de 1978, del denominado lote Nº 8203-40 correspondiente al inmueble ubicado en calle Reloj de Sol 3663, Depto. 14, Rol de Avalúo 8203-40, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Adasme Cáceres Carmen Rita, con una superficie aproximada de 43,19 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Marta Brunet del sector Bajos de Mena". La Comisión de Peritos integrada por los señores Carmen Ríos Marcuello, ingeniero civil, Juan Roberto Honorato Errázuriz, ingeniero civil, y Carolina Claudia Verdejo Díaz, ingeniero agrónomo, mediante informe de fecha 10 de septiembre de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $23.214.212.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186, de 1978.-
+
+Directora Serviu Metropolitano.
