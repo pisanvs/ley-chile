@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 11, de 13 de enero de 2022, se modificó el numeral segundo del Decreto Exento MOP. Nº197, de 22 de abril de 2021, en la parte que se refiere al rol de avalúo respecto del lote Nº54 y al nombre del aparente propietario y rol de avalúo de los lotes Nºs 55 y 56, quedando de la siguiente forma: lote Nºs 54, 55 y 56, figuran a nombre de LATUF SANFUENTES JOSE MIGUEL, según rol de avalúo 104-23, comuna de MACHALI, superficies 1.907, 1.788 y 1.262 m2 respectivamente. Compleméntese el informe de tasación emitido el 06 de mayo de 2019, mediante acta de 06 de octubre de 2021 del Jefe de Subdepto. de Expropiaciones de la Dirección de Vialidad, Región de O'Higgins. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Región del Maule. Fiscalía MOP.
