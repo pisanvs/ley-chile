@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.708, de fecha 25 de octubre de 2021, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº8202-27, correspondiente al inmueble ubicado en Reloj de Sol 3733 departamento 13, Rol de Avalúo 8202-27, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Viviana Elizabeth Roa Ibáñez y otros, con una superficie aproximada de 42,98 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Marta Brunet del sector Bajos de Mena". La Comisión de Peritos integrada por los señores María Isabel Ríos Marcuello, Arquitecta, Sócrates Félix Leporati Nerón, Ingeniero Civil y Carmen Alarcón Montecinos, Ingeniero Constructor, mediante Informe de fecha 23 de septiembre de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $22.652.087.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Directora Serviu Metropolitano.
