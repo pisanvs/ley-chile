@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°20, de 17 de febrero de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c) y 14° letra e) del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, y artículo 12° de la ley N° 18.777, se expropió para la Empresa ESSBIO S.A. el lote de terreno N° 1, para la obra: NUEVA PLANTA ELEVADORA DE AGUA DEL SISTEMA DE INTERCONEXIÓN QUILLÓN -FLORIDA, que figura a nombre de FORESTAL CELCO S.A., rol de avalúo 1095-41, Comuna de QUILLON, REGION DE ÑUBLE, superficie 1.648,21 m2. La Comisión de Peritos integrada por PATRICIA CECILIA PALACIOS GONZALEZ, LEONARDO EUGENIO FASCE CASANUEVA y ALEXANDER THEODOR BOYE TRENIT, mediante informe de tasación de 16 de agosto de 2021, fijó el monto de la indemnización provisional en la cantidad de $10.927.044 para el lote N°1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
