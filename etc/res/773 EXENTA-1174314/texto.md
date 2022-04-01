@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 773 de fecha 15 de marzo de 2022 de Dirección del Serviu Metropolitano, se deja sin efecto resolución exenta N° 4181, de fecha 28 de agosto de 2019, de la subdirección de Administración y Finanzas del Serviu Metropolitano que dispuso la expropiación del inmueble ubicado Av. Juanita 01700 LT 2 A, Rol de Avalúo N° 2980-182, de la Comuna de Puente Alto, individualizado en el Plano de Expropiación como Lote N° TER-P1, de aparente dominio de Inmobiliaria Costa Azul S.A., monto de la indemnización a pagar la suma de $3.663.845.689, por no resultar prioritario para el sistema de Transporte Público del proyecto denominado "Terminales de Transporte Público 2019", por no ser en definitiva necesaria dicha expropiación para la adquisición del inmueble antes individualizado.-
+
+Directora Serviu Metropolitano.
