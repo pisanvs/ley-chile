@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.697, de fecha 25 de octubre de 2021, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 8203-24 correspondiente al inmueble ubicado en calle Reloj de Sol 3637 Depto. 34, Rol de Avalúo 8203-24, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Herrera Rojas, Verónica del Carmen, con una superficie aproximada de 43,19 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Marta Brunet del sector Bajos de Mena". La Comisión de Peritos integrada por los señores Carmen Ríos Marcuello, Ingeniero Civil, Juan Roberto Honorato Errázuriz, Ingeniero Civil, y Carolina Claudia Verdejo Díaz, Ingeniero Agrónomo, mediante informe de fecha 10 de septiembre de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $23.051.712.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Directora Serviu Metropolitano.
