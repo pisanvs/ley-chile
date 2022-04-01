@@ -752,6 +752,8 @@ MDAI 5,6-Metilendioxi-
 
 2-aminoindano.
 
+N - Etil Heptedrona 2- (etilamino) -1-fenylheptan-1-ona
+
 DROGAS: LISTA II
 
 AMFETAMINA (+-) -2-amino-1-fenilpropano
