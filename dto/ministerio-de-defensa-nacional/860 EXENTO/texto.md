@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto exento Nº 860, de 13.Dic.2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a nombre de Carlos Felipe Juan Morandé Arthur, C.I. 6.379.638-7, concesión marítima menor, con vencimiento 31.Dic.2026, sobre un sector de porción de agua, en el lugar denominado sector Bahía Coique - Lago Ranco, comuna de Futrono, provincia del Ranco, Región de Los Ríos, con una superficie de 0,16 m², la que fue tramitada con el SIABC Nº 34478. A modo referencial se señala la siguiente coordenada geográfica, Lat. 40º08'29,19" S; Log. 72º27'39,53" W, datum DWG 84. El objeto es amparar la instalación y uso de una boya de amarre para embarcación menor de uso recreativo. Los antecedentes de la concesión se encuentran a disposición del público en la Capitanía de Puerto de Lago Ranco. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Luis Romero Morales, Teniente 1º LT, Capitán de Puerto de Lago Ranco.
