@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.718, de fecha 25 de octubre de 2021, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 8203-18, correspondiente al inmueble ubicado en Reloj de Sol 3637 Depto. 22, Rol de Avalúo Nº 8203-18, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Huenteñanco Manquean María Isabel del Carmen, con una superficie aproximada de 42,98 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Marta Brunet del sector Bajos de Mena". La Comisión de Peritos integrada por los señores Gabriela Majluf Magluf, Arquitecto; Víctor Hugo Aceval Corbalán, Arquitecto y Felipe José Valdés González, Ingeniero Agrónomo, mediante Informe de fecha 27 de septiembre de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $21.957.016, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
