@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 467, del 22 de noviembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Orizon S.A., R.U.T. N° 96.929.960-7, primera renovación de concesión marítima menor, con vencimiento el 31 de diciembre de 2026, sobre un sector de Fondo de Mar, en el lugar denominado Playa Blanca, La Herradura, Comuna de Coquimbo, Provincia de Elqui, Región de Coquimbo la que fue tramitada con el S.I.A.B.C. N° 38.075. A modo referencial se señala la siguiente coordenada geográfica: L-29°57'53,06" S - G-71°21'40,04" W. El objeto consiste en continuar amparando una cañería conductora de combustible y una cañería conductora de cables eléctricos. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Coquimbo. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Coquimbo, 9 de marzo de 2022.- Manuel Hidalgo Alfaro, Teniente 1° LT, Capitán de Puerto de Coquimbo, Subrogante.
