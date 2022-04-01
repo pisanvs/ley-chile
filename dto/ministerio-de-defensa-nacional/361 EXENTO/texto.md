@@ -1,0 +1,7 @@
+DESTINACIÓN MARÍTIMA
+
+Decreto exento Nº 361, de fecha 25 de mayo de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Ministerio de Obras Públicas, para la Dirección de Obras Portuarias, RUT: 61.202.000-0, Destinación Marítima, con vencimiento mientras se cumpla con el objeto, sobre un sector de terreno de playa y playa, en el lugar denominado Totoralillo Centro, comuna de Coquimbo, Provincia de Elqui, Región de Coquimbo, con una superficie total de 2.063,71 m2, la que fue tramitada con el SIABC Nº 37.828. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en construir infraestructura de apoyo a la pesca artesanal, de acuerdo al plano DOP Nº 6511 y al anteproyecto de las obras. Las obras consisten en la construcción de boxes, servicios higiénicos, mejoramiento del atracadero, entre otras obras terrestres complementarias, y el plazo contemplado para su ejecución es de 12 meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Coquimbo. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Víctor Herrera Atela, Capitán de Corbeta LT, Capitán de Puerto de Coquimbo.
