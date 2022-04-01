@@ -28,11 +28,13 @@ Definiciones
 
 Para los efectos de esta ley, salvo que la naturaleza del texto implique otro significado, se entenderá:
 
-1°) Por "venta", toda convención independiente de la designación que le den las partes, que sirva para transferir a título oneroso el dominio de bienes corporales muebles, bienes corporales inmuebles, excluidos los terrenos, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos, como, asimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta.
+1°) Por "venta", toda convención independiente de la designación que le den las partes, que sirva para transferir a título oneroso el dominio de bienes corporales muebles, bienes corporales inmuebles construidos, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos, como, asimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta. Los terrenos no se encontrarán afectos al impuesto establecido en esta ley.
 
 2°) Por "servicio", la acción o prestación que una persona realiza para otra y por la cual percibe un interés, prima, comisión o cualquiera otra forma de remuneración, siempre que provenga del ejercicio de las actividades comprendidas en los N°s. 3 y 4, del artículo 20, de la Ley sobre Impuesto a la Renta.
 
-3°) Por "vendedor" cualquier persona natural o jurídica, incluyendo las comunidades y las sociedades de hecho, que se dedique en forma habitual a la venta de bienes corporales muebles e inmuebles, sean ellos de su propia producción o adquiridos de terceros. Corresponderá al Servicio de Impuestos Internos calificar, a su juicio exclusivo, la habitualidad. Para efectos de la venta de inmuebles, se presumirá que existe habitualidad cuando entre la adquisición o construcción del bien raíz y su enajenación transcurra un plazo igual o inferior a un año. Con todo, no se considerará habitual la enajenación de inmuebles que se efectúe como consecuencia de la ejecución de garantías hipotecarias así como la enajenación posterior de inmuebles adjudicados o recibidos en pago de deudas y siempre que exista una obligación legal de vender dichos inmuebles dentro de un plazo determinado; y los demás casos de ventas forzadas en pública subasta autorizadas por resolución judicial. La transferencia de inmuebles efectuada por contribuyentes con giro inmobiliario efectivo, podrá ser considerada habitual.
+Tratándose de un servicio que comprenda conjuntamente prestaciones tanto afectas como no afectas o exentas del impuesto establecido en esta ley, sólo se gravarán aquellas que, por su naturaleza, se encuentren afectas. En consecuencia, cada prestación será gravada, o no, de forma separada y atendiendo a su naturaleza propia, para lo cual se deberá determinar el valor de cada una independientemente. No obstante, si un servicio comprende un conjunto de prestaciones tanto afectas, como no afectas o exentas, que no puedan individualizarse unas de otras, se afectará con el impuesto de esta ley la totalidad de dicho servicio. Para efectos de la determinación de los valores respectivos el Servicio de Impuestos Internos podrá aplicar lo establecido en el artículo 64 del Código Tributario.
+
+3°) Por "vendedor" cualquier persona natural o jurídica, incluyendo las comunidades y las sociedades de hecho, que se dedique en forma habitual a la venta de bienes corporales muebles e inmuebles, sean ellos de su propia producción o adquiridos de terceros. Corresponderá al Servicio de Impuestos Internos calificar la habitualidad. Con todo, no se considerará habitual la enajenación de inmuebles que se efectúe como consecuencia de la ejecución de garantías hipotecarias así como la enajenación posterior de inmuebles adjudicados o recibidos en pago de deudas y siempre que exista una obligación legal de vender dichos inmuebles dentro de un plazo determinado; y los demás casos de ventas forzadas en pública subasta autorizadas por resolución judicial.
 
 Se considera también "vendedor" al productor, fabricante o vendedor habitual de bienes corporales inmuebles que venda materias primas o insumos que, por cualquier causa, no utilice en sus procesos productivos.
 
@@ -58,6 +60,10 @@ En los casos a que se refiere el inciso anterior, la Dirección podrá, para los
 
 Asimismo, la Dirección a su juicio exclusivo, podrá imponer a los vendedores o prestadores de servicios exentos, la obligación de retener, declarar y pagar el tributo que corresponda a los adquirentes afectos o a determinadas personas que importen desde los recintos de Zonas Francas.
 
+La Dirección podrá disponer, mediante una o más resoluciones fundadas, que los emisores de tarjetas de pago con provisión de fondos, débito, crédito u otros sistemas de pago análogos retengan el total o una parte de los impuestos contemplados en esta ley, respecto de todo o parte de las operaciones realizadas por prestadores domiciliados o residentes en el extranjero que no se hayan sujetado al régimen de tributación simplificada establecido en el párrafo 7° bis y que se solucionen por su intermedio.
+
+En el caso de ventas de bienes corporales muebles ubicados fuera del territorio nacional, la Dirección podrá autorizar, a solicitud de parte, mediante una o más resoluciones fundadas, que el vendedor o el intermediario retenga y entere en arcas fiscales, en forma anticipada, el impuesto que afectará su importación, cuando dichos bienes tengan por destino el territorio nacional y sean comprados por personas domiciliadas o residentes en Chile que no tengan la calidad de contribuyentes del Título II de esta ley. Para este efecto, será aplicable el régimen simplificado establecido en el párrafo 7° bis.
+
 > **Nota.** NOTA: 1 Estas modificaciones rigen, según los incisos 1° y 2°, del artículo 3°, del DL 2312, de 1978, a contar del 1° de septiembre de 1978, sin perjuicio de que aquellas disposiciones que por ser tanto en el antiguo como en el nuevo texto del DL 825, de naturaleza y efectos esencialmente similares, se entiendan vigentes sin solución de continuidad. Las modificaciones referidas se aplicarán a contar del 1° de septiembre de 1978, a aquellas operaciones por las cuales se emita factura o boleta a contar de esa fecha, siempre que la entrega de las especies, o el pago de la remuneración en caso de servicios, no haya sido anterior a dicha fecha.
 
 > **Nota.** NOTA: 2 Esta modificación rige a contar del día 1° del mes siguiente a su publicación en el Diario Oficial, afectando a las ventas y demás operaciones que se efectúen desde dicha fecha. (DL 2694, publicado en el D. Oficial de 13 de junio de 1979, artículo 2°).
@@ -81,6 +87,16 @@ Asimismo, se entenderán ubicados en territorio nacional los bienes corporales m
 El impuesto establecido en esta ley gravará los servicios prestados o utilizados en el territorio nacional, sea que la remuneración correspondiente se pague o perciba en Chile o en el extranjero.
 
 Se entenderá que el servicio es prestado en el territorio nacional cuando la actividad que genera el servicio es desarrollada en Chile, independientemente del lugar donde éste se utilice.
+
+Tratándose de los servicios del artículo 8 letra n) que sean prestados en forma digital, se presumirá que el servicio es utilizado en el territorio nacional si, al tiempo de contratar dichos servicios o realizar los pagos correspondientes a ellos, concurriesen al menos dos de las siguientes situaciones:
+
+i. Que la dirección IP del dispositivo utilizado por el usuario u otro mecanismo de geolocalización indiquen que este se encuentra en Chile;
+
+ii. Que la tarjeta, cuenta corriente bancaria u otro medio de pago utilizado para el pago se encuentre emitido o registrado en Chile;
+
+iii. Que el domicilio indicado por el usuario para la facturación o la emisión de comprobantes de pago se encuentre ubicado en el territorio nacional; o,
+
+iv. Que la tarjeta de módulo de identidad del suscriptor (SIM) del teléfono móvil mediante el cual se recibe el servicio tenga como código de país a Chile.
 
 #### Artículo 6°
 
@@ -108,7 +124,7 @@ Asimismo se considerará venta la primera enajenación de los vehículos automó
 
 Los Notarios no podrán autorizar ningún documento ni las firmas puestas en él, tratándose de un contrato afecto al impuesto que grava la operación establecida en el inciso anterior, sin que se les acredite previamente el pago del mismo, debiendo dejar constancia de este hecho en el instrumento respectivo. A su vez, el Servicio de Registro Civil e Identificación no inscribirá en su Registro de Vehículos Motorizados ninguna transferencia de los vehículos señalados, si no constare, en el Título respectivo el hecho de haberse pagado el impuesto;
 
-b) Los aportes a sociedades y otras transferencias de dominio de bienes corporales muebles e inmuebles, efectuados por vendedores, que se produzcan con ocasión de la constitución, ampliación o modificación de sociedades, en la forma que lo determine, a su juicio exclusivo, la Dirección Nacional de Impuestos Internos;
+b) Los aportes a sociedades y otras transferencias de dominio de bienes corporales muebles e inmuebles, efectuados por vendedores, que se produzcan con ocasión de la constitución, ampliación o modificación de sociedades, en la forma que lo determine, la Dirección Nacional de Impuestos Internos;
 
 c) Las adjudicaciones de bienes corporales muebles e inmuebles de su giro, realizadas en liquidaciones de sociedades civiles y comerciales. Igual norma se aplicará respecto de las sociedades de hecho y comunidades, salvo las comunidades hereditarias y provenientes de la disolución de la sociedad conyugal;
 
@@ -118,13 +134,17 @@ Igualmente serán considerados como ventas los retiros de bienes corporales mueb
 
 Lo establecido en el inciso anterior será aplicable, del mismo modo, a toda entrega o distribución gratuita de bienes corporales muebles e inmuebles que los vendedores efectúen con iguales fines.
 
+No se considerarán comprendidas en esta letra, las entregas gratuitas a que se refiere el N° 3 del artículo 31 de la Ley sobre Impuesto a la Renta que cumplan con los requisitos que para cada caso establece la citada disposición. El contribuyente respectivo no perderá el derecho al uso del crédito fiscal por el impuesto que se le haya recargado en la adquisición de los bienes respectivos ni se aplicarán las normas de proporcionalidad para el uso del crédito fiscal que establece esta ley.
+
 Los impuestos que se recarguen en razón de los retiros a que se refiere esta letra, no darán derecho al crédito establecido en el artículo 23°.
 
 e) Los contratos de instalación o confección de especialidades y los contratos generales de construcción;
 
-f) La venta de establecimientos de comercio y, en general, la de cualquier otra universalidad que comprenda bienes corporales muebles e inmuebles de su giro. Este tributo no se aplicará a la cesión del derecho de herencia;
+f) La venta de establecimientos de comercio y, en general, la de cualquier otra universalidad que comprenda bienes corporales muebles e inmuebles de su giro o que formen parte del activo inmovilizado del contribuyente, estos últimos, siempre que cumplan los requisitos señalados en la letra m) del presente artículo. Este tributo no se aplicará a la cesión del derecho de herencia;
 
-g) El arrendamiento, subarrendamiento, usufructo o cualquiera otra forma de cesión del uso o goce temporal de bienes corporales muebles, inmuebles amoblados, inmuebles con instalaciones o maquinarias que permitan el ejercicio de alguna actividad comercial o industrial y de todo tipo de establecimientos de comercio;
+g) El arrendamiento, subarrendamiento, usufructo o cualquiera otra forma de cesión del uso o goce temporal de bienes corporales muebles, inmuebles amoblados, inmuebles con instalaciones o maquinarias que permitan el ejercicio de alguna actividad comercial o industrial y de todo tipo de establecimientos de comercio.
+
+Para calificar que se trata de un inmueble amoblado o un inmueble con instalaciones o maquinarias que permitan el ejercicio de alguna actividad comercial o industrial se deberá tener presente que los bienes muebles o las instalaciones y maquinarias sean suficientes para su uso para habitación u oficina, o para el ejercicio de la actividad industrial o comercial, respectivamente. Para estos efectos, el Servicio, mediante resolución, determinará los criterios generales y situaciones que configurarán este hecho gravado;
 
 h) El arrendamiento, subarrendamiento o cualquier otra forma de cesión del uso o goce temporal de marcas, patentes de invención, procedimientos o fórmulas industriales y otras prestaciones similares;
 
@@ -134,11 +154,21 @@ j) Las primas de seguros de las cooperativas de servicios de seguros, sin perjui
 
 k) SUPRIMIDA
 
-l) Los contratos de arriendo con opción de compra que recaigan sobre bienes corporales inmuebles realizados por un vendedor. Para estos efectos, se presumirá que existe habitualidad cuando entre la adquisición o construcción del bien raíz y la fecha de celebración del contrato transcurra un plazo igual o inferior a un año;
+l) Los contratos de arriendo con opción de compra que recaigan sobre bienes corporales inmuebles realizados por un vendedor;
 
 m) La venta de bienes corporales muebles e inmuebles que formen parte del activo inmovilizado de la empresa, siempre que, por estar sujeto a las normas de este título, el contribuyente haya tenido derecho a crédito fiscal por su adquisición, importación, fabricación o construcción.
 
-No obstante lo dispuesto en el párrafo precedente, no se considerará, para los efectos del presente artículo, la venta de bienes corporales muebles que formen parte del activo inmovilizado de la empresa, efectuada después de transcurrido un plazo de treinta y seis meses contado desde su adquisición, importación, fabricación o término de construcción, según proceda, siempre que dicha venta haya sido efectuada por o a un contribuyente acogido a lo dispuesto en el artículo 14 ter de la ley sobre Impuesto a la Renta, a la fecha de dicha venta.
+No obstante lo dispuesto en el párrafo precedente, no se considerará, para los efectos del presente artículo, la venta de bienes corporales muebles que formen parte del activo inmovilizado de la empresa, efectuada después de transcurrido un plazo de treinta y seis meses contado desde su adquisición, importación, fabricación o término de construcción, según proceda, siempre que dicha venta haya sido efectuada por o a un contribuyente acogido a lo dispuesto en el artículo 14 letra D) de la ley sobre Impuesto a la Renta, a la fecha de dicha venta.
+
+n) Los siguientes servicios remunerados realizados por prestadores domiciliados o residentes en el extranjero:
+
+1. La intermediación de servicios prestados en Chile, cualquiera sea su naturaleza, o de ventas realizadas en Chile o en el extranjero siempre que estas últimas den origen a una importación;
+
+2. El suministro o la entrega de contenido de entretenimiento digital, tal como videos, música, juegos u otros análogos, a través de descarga, streaming u otra tecnología, incluyendo para estos efectos, textos, revistas, diarios y libros;
+
+3. La puesta a disposición de software, almacenamiento, plataformas o infraestructura informática; y
+
+4. La publicidad, con independencia del soporte o medio a través del cual sea entregada, materializada o ejecutada.
 
 ### Párrafo 2°
 
@@ -186,7 +216,7 @@ c) La sociedad o la comunidad, en los casos contemplados en la letra c) del art�
 
 d) El aportante, en el caso de aportes a sociedades;
 
-e) El beneficiario del servicio, si la persona que efectúa la prestación residiere en el extranjero;
+e) El beneficiario del servicio que sea un contribuyente del impuesto de este Título, siempre que la prestación sea realizada por un prestador domiciliado o residente en el extranjero;
 
 f) Los contratistas o subcontratistas en el caso de los contratos a que se refiere la letra e) del artículo 8°, y
 
@@ -207,42 +237,6 @@ c) La sociedad o la comunidad, en los casos contemplados en la letra c) del art�
 d) El aportante, en el caso de aportes a sociedades, y
 
 e) Las personas indicadas en la letra h) del artículo 8°, que serán tenidos como vendedores para todos los efectos de esta ley, por las operaciones allí señaladas.
-
-#### Artículo 13°
-
-Sólo estarán exentas del impuestos establecido en este Título:
-
-A.- Las ventas y demás operaciones que recaigan sobre los siguientes bienes:
-
-1.- Productos del sector primario proveniente de la agricultura, ganadería, explotación de bosques, caza, pesca y minería, que sean vendidos por el respectivo productor o cooperativas formadas por productores y mientras no hayan sufrido elaboración o tratamiento que, a juicio exclusivo de la Dirección Nacional de Impuestos Internos, no sea indispensable para su conservación en estado natural, y sin perjuicio de lo dispuesto en el N° 2. Esta exención comprenderá las transferencias de aguas termales, sin sabor ni color, y de vino siempre que, en este último caso, las operaciones de transformación realizadas por el productor no pasen más allá de la vinificación y el producto sea vendido a elaboradores;
-
-2.- Pan, leche, sea en estado natural, desecada, condensada, evaporada o en polvo, alimentos de sustitución láctea; agua potable, frutas y verduras frescas, papas, cebollas, ajos, trigo, maíz, porotos, lentejas, garbanzos, arvejas, arroz, huevos, ganado, aves, sal, harinas de cereales o de legumbres; carne fresca, congelada o deshidratada; pescado, algas marinas, mariscos y crustáceos frescos y congelados destinado al consumo humano, excepto ostras, langostas y centollas; textos y cuadernos escolares, libros, diarios y revistas destinados a la lectura;
-
-3.- Los productos afectos a los impuestos especiales establecidos en los párrafos 2°, 3° y 4° del Título III de esta ley, excepto en el caso previsto en el inciso 2° del artículo 39°;
-
-4.- La energía eléctrica y el gas combustible, que pagarán el impuesto del Título IV;
-
-5.- Las especies o productos afectos a los impuestos establecidos en la ley N° 11.741, sobre Impuesto a los Cigarros, Cigarrillos y Tabacos Manufacturados;
-
-6.- Las especies transferidas a título de regalía a los trabajadores por sus respectivos empleadores, cuando ésta sea razonable a juicio exclusivo del Servicio de Impuestos Internos, y
-
-7.- El suministro de comidas y bebidas analcohólicas que se haga al personal de instituciones fiscales, semifiscales o de administración autónoma o de establecimientos comerciales, industriales y mineros, siempre que se proporcionen durante la jornada de trabajo en locales ubicados dentro de las mismas instituciones o establecimientos. Esta misma exención se aplicará respecto del suministro de comidas y bebidas analcohólicas que se haga a los alumnos en los colegios.
-
-Estarán también exentos los pensionados, cuya finalidad exclusiva sea la de proporcionar hospedaje y comida a alumnos universitarios.
-
-B.- Las especies que se importen:
-
-1.- Directamente por el Ministerio de Defensa Nacional, como asimismo por las instituciones y empresas dependientes o no de dicha Secretaría de Estado, que desarrollen funciones relativas a la defensa nacional, resguardo del orden y seguridad públicos y/o policiales, y siempre que correspondan a maquinaria bélica, armamento, elementos o partes para su fabricación o armaduría, municiones y otros pertrechos;
-
-3.- Por las representaciones de naciones extranjeras acreditadas en el país, y las instituciones u organismos internacionales a que Chile pertenezca, y los diplomáticos y funcionarios internacionales, de acuerdo con los convenios suscritos por Chile.
-
-C.- Las especies que se internen:
-
-1.- Por los pasajeros o personas visitantes para su propio uso durante su estada en Chile, y siempre que se trate de efectos personales y vehículos para su movilización en el país, y
-
-2.- Transitoriamente al país en admisión temporal, almacenes francos, en depósito aduanero, en tránsito temporal u otra destinación aduanera semejante.
-
-D.- Las especies exportadas en su venta al exterior.
 
 ### Párrafo 4°
 
@@ -292,15 +286,15 @@ Asimismo, estarán exentas las importaciones que constituyan donaciones y socorr
 
 9.- Los productores, en los casos que así lo declare la Dirección de Impuestos Internos por resolución fundada, y siempre que se trate de materias primas que estén destinadas a la producción, elaboración o fabricación de especies destinadas a la exportación.
 
-10.- Los inversionistas, sean estos establecidos, residentes o domiciliados en el país o aquellos que califiquen como inversionistas extranjeros y las empresas receptores de inversión extranjera, conforme a lo establecido en el artículo 3° de la ley marco para la inversión extranjera directa en Chile, respecto de los bienes de capital importados que destinen al desarrollo, exploración o explotación en Chile de proyectos mineros, industriales, forestales, de energía, de infraestructura, de telecomunicaciones, de investigación o desarrollo tecnológico, médico o científico, entre otros, que impliquen inversiones por un monto igual o superior a cinco millones de dólares de los Estados Unidos de Norteamérica.
+10.- Las personas naturales o jurídicas, sean éstas residentes o domiciliadas en el país o aquellos que califiquen como inversionistas extranjeros y las empresas receptores de inversión extranjera, conforme a lo establecido en el artículo 3° de la ley marco para la inversión extranjera directa en Chile, respecto de los bienes de capital importados que se destinen al desarrollo, exploración o explotación en Chile de proyectos mineros, industriales, forestales, de energía, de infraestructura, de telecomunicaciones, de investigación o desarrollo tecnológico, médico o científico, entre otros, que impliquen inversiones por un monto igual o superior a cinco millones de dólares de los Estados Unidos de Norteamérica.
 
-La exención a que se refiere este número, se aplicará únicamente respecto de la importación de bienes de capital que se destinen a proyectos de inversión que, por sus características de desarrollo, generen ingresos afectos, no afectos o exentos del impuesto establecido en el Título II de esta ley transcurridos, al menos, doce meses contados desde la internación al país o adquisición en Chile de los primeros bienes de capital cuya exención de Impuesto al Valor Agregado se solicite, o desde la dictación de la respectiva resolución de calificación ambiental otorgada por el Servicio de Evaluación Ambiental conforme lo dispuesto en la ley Nº 19.300, o desde el otorgamiento de la concesión de uso oneroso de terreno otorgado por el Ministerio de Bienes Nacionales conforme a lo establecido en el decreto ley Nº 1939 de 1977.
+La exención a que se refiere este número, se aplicará únicamente respecto de la importación de bienes de capital que se destinen a proyectos de inversión que, por sus características de desarrollo, generen ingresos afectos, no afectos o exentos del impuesto establecido en el Título II de esta ley transcurridos, al menos, dos meses contados desde la internación al país o adquisición en Chile de los primeros bienes de capital cuya exención de Impuesto al Valor Agregado se solicite, o desde la dictación de la respectiva resolución de calificación ambiental otorgada por el Servicio de Evaluación Ambiental conforme lo dispuesto en la ley Nº 19.300, o desde el otorgamiento de la concesión de uso oneroso de terreno otorgado por el Ministerio de Bienes Nacionales conforme a lo establecido en el decreto ley Nº 1939 de 1977.
 
-Para el otorgamiento de la exención a que se refiere este número, el inversionista deberá presentar una solicitud ante el Ministerio de Hacienda, debiendo cumplir para tales efectos con los requisitos establecidos en este número. En el caso de los inversionistas extranjeros, deberán acompañar a esta solicitud el certificado de inversionista extranjero a que se refiere el artículo 4° de la ley marco para la inversión extranjera directa en Chile.
+Para el otorgamiento de la exención a que se refiere este número, el peticionario deberá presentar una solicitud ante el Ministerio de Hacienda, debiendo cumplir para tales efectos con los requisitos establecidos en este número.
 
 El Ministerio de Hacienda deberá pronunciarse respecto de la referida solicitud dentro del plazo de sesenta días corridos, contado desde la fecha en que se reciban todos los antecedentes necesarios para verificar el cumplimiento de los requisitos señalados. Si no lo hiciere al término de dicho plazo, la solicitud del contribuyente se entenderá aprobada y dicho Ministerio deberá, sin más trámite, proceder a la emisión de una resolución en que se otorgue el beneficio, dentro del plazo de cinco días hábiles contado desde la fecha en que venció el plazo de sesenta días mencionado.
 
-En caso que se presente una nueva solicitud de exención respecto de bienes de capital destinados a proyectos que se realicen por etapas, o que tengan por objeto complementar o expandir un proyecto de inversión sobre el cual se haya otorgado la exención en una etapa inicial, bastará, para que el Ministerio de Hacienda extienda dicha exención a los nuevos bienes de capital, que se acompañe copia de la resolución que haya otorgado la exención original y los antecedentes que permitan acreditar que se trata de distintas etapas de un mismo proyecto o de proyectos complementarios o de expansión.
+En caso que se presente una nueva solicitud de exención respecto de bienes de capital destinados a proyectos que se realicen por etapas, o que tengan por objeto complementar o expandir un proyecto de inversión sobre el cual se haya otorgado la exención, bastará, para que el Ministerio de Hacienda extienda dicha exención a los nuevos bienes de capital, que se acompañe copia de la resolución que haya otorgado la exención original y los antecedentes que permitan acreditar que se trata de distintas etapas , proyectos de expansión, una complementación del proyecto o en caso que se deba cambiar un bien por otro de idéntica naturaleza y valor a consecuencia de que el bien importado resulte defectuoso y que el vendedor lo reemplace o de proyectos complementarios o de expansión.
 
 Facúltase al Ministerio de Hacienda para que, mediante decreto supremo, precise las características de los bienes de capital y proyecto de inversión a que se refiere el presente número, así como la forma y procedimiento en que deberán presentarse los antecedentes que deban acompañarse para efectuar el análisis de la solicitud de exención a que se refiere este numeral.
 
@@ -364,7 +358,7 @@ No procederán las exenciones del presente número cuando en los locales en que 
 
 Las comisiones que perciban los Servicios Regionales y Metropolitano de Vivienda y Urbanización sobre los créditos hipotecarios que otorguen a los beneficiarios de subsidios habitacionales y las comisiones que perciban las Instituciones de Previsión en el otorgamiento de créditos hipotecarios a sus imponentes.
 
-7) Los ingresos que no constituyen renta según el artículo 17° de la Ley de la Renta y los afectos al impuesto adicional establecido en el artículo 59° de la misma ley, salvo que respecto de estos últimos se trate de servicios prestados en Chile y gocen de una exención de dicho impuesto por aplicación de las leyes o de los convenios para evitar la doble imposición en Chile;
+7) Los ingresos que no constituyen renta según el artículo 17° de la Ley de la Renta y los afectos al impuesto adicional establecido en el artículo 59° de la misma ley, salvo que respecto de estos últimos se trate de servicios prestados o utilizados en Chile y gocen de una exención de dicho impuesto por aplicación de las leyes o de los convenios para evitar la doble imposición en Chile;
 
 8) Los ingresos mencionados en los artículos 42° y 48° de la Ley de la Renta;
 
@@ -392,15 +386,17 @@ d) Derechos y comisiones que se devenguen en trámites obligatorios para el reto
 
 14) Las primas o desembolsos de contratos de reseguro;
 
-15) Las primas de contratos de seguro de vida reajustable, y
+15) Las primas de contratos de seguro de vida reajustable;
 
 16) Los ingresos percibidos por la prestación de servicios a personas sin domicilio ni residencia en Chile, siempre que el Servicio Nacional de Aduanas califique dichos servicios como exportación.
 
 La exención procederá respecto de aquellos servicios que sean prestados total o parcialmente en Chile para ser utilizados en el extranjero.
 
-17) Los ingresos en moneda extranjera percibidos por empresas hoteleras registradas ante el Servicio de Impuestos Internos con motivo de servicios prestados a turistas extranjeros sin domicilio o residencia en Chile, y
+17) Los ingresos en moneda extranjera percibidos por empresas hoteleras y contribuyentes que arrienden inmuebles amoblados registrados ante el Servicio de Impuestos Internos con motivo de servicios prestados a turistas extranjeros sin domicilio o residencia en Chile;
 
-18) Las comisiones de administración de cotizaciones voluntarias, depósitos de ahorro previsional voluntario, depósitos de ahorro previsional voluntario colectivo y de depósitos convenidos, efectuados en planes de ahorro previsional voluntario debidamente autorizados en conformidad a lo establecido por el Artículo 20 y siguientes del decreto ley Nº 3.500, de 1980, que perciban las instituciones debidamente autorizadas para su administración.
+18) Las comisiones de administración de cotizaciones voluntarias, depósitos de ahorro previsional voluntario, depósitos de ahorro previsional voluntario colectivo y de depósitos convenidos, efectuados en planes de ahorro previsional voluntario debidamente autorizados en conformidad a lo establecido por el Artículo 20 y siguientes del decreto ley Nº 3.500, de 1980, que perciban las instituciones debidamente autorizadas para su administración, y
+
+19) Las prestaciones de salud establecidas por ley, financiadas por el Fondo Nacional de Salud (FONASA) y aquellas financiadas por Instituciones de Salud Previsional (ISAPRES), pero hasta el monto del arancel FONASA en que se encuentre inscrito el prestador respectivo. Asimismo, la exención será aplicable a las cotizaciones obligatorias para salud, calculadas sobre la remuneración o renta imponible para efectos previsionales, conforme a lo establecido en el artículo 16 del Decreto Ley 3.500 de 1980.
 
 F.- La venta de una vivienda efectuada al beneficiario de un subsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, los contratos generales de construcción y los contratos de arriendo con opción de compra, cuando tales ventas, contratos o arriendos con opción de compra hayan sido financiados en definitiva, en todo o parte, por el referido subsidio. Para estos efectos, se considerará también como beneficiario de un subsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, a la persona natural o jurídica que adquiera o encargue la construcción de un bien corporal inmueble para venderlo o entregarlo en arriendo con opción de compra al beneficiario de un subsidio habitacional otorgado por dicho Ministerio, siempre que lo anterior conste en el contrato respectivo, debiendo aplicarse el impuesto al valor agregado en caso contrario. En este caso, si la venta o el contrato de arriendo con opción de compra posteriores no se celebran con beneficiarios de tales subsidios, deberá aplicarse el impuesto al valor agregado conforme a las reglas que corresponda según el caso, sin que proceda la exención establecida en el número 11, de la letra E, del artículo 12; y la venta a un tercero de una vivienda entregada en arrendamiento con opción de compra al beneficiario de un subsidio habitacional otorgado por el mismo Ministerio, cuando la opción de compra sea financiada, en todo o parte, por el señalado subsidio.
 
@@ -430,21 +426,21 @@ Estarán liberadas del impuesto de este Título las siguientes empresas e instit
 
 6) Las siguientes instituciones, por los servicios que presten a terceros:
 
-a) El Servicio de Seguro Social;
+a) Derogada.
 
-b) El Servicio Médico Nacional de Empleados;
+b) Derogada.
 
-c) El Servicio Nacional de Salud;
+c) Derogada.
 
 d) La Casa de Moneda de Chile por la confección de cospeles, billetes, monedas y otras especies valoradas.
 
 De la misma exención gozarán las personas que efectúen dicha elaboración total o parcial, por encargo de la Casa de Moneda de Chile, solamente respecto de las remuneraciones que perciban por dicho trabajo;
 
-e) El Servicio de Correos y Telégrafos, excepto cuando preste servicios de télex, y
+e) La Empresa de Correos de Chile. y
 
 f) Derogada.
 
-7) Las personas naturales o jurídicas que en virtud de un contrato o una autorización sustituyan a las instituciones mencionadas en las letras a), b) y c) del número anterior, en la prestación de los beneficios establecidos por ley, y
+7) Los Servicios de Salud y las personas naturales o jurídicas que en virtud de un contrato o una autorización los sustituyan en la prestación de los beneficios establecidos por ley; y
 
 8) La Polla Chilena de Beneficencia y la Lotería de Concepción por los intereses, primas, comisiones u otras formas de remuneraciones que paguen a personas naturales o jurídicas en razón de negocios, servicios o prestaciones de cualquier especie.
 
@@ -474,7 +470,7 @@ El Servicio de Impuestos Internos, sin embargo, podrá autorizar en casos califi
 
 3°.- El monto de los impuestos, salvo el de este Título.
 
-Los rubros señalados en los números precedentes se entenderán comprendidos en el valor de la venta o del servicio prestado aun cuando se facturen o contabilicen en forma separada, y se presumirá que están afectos al impuesto de este Título, salvo que se demuestre fehacientemente, a juicio exclusivo del Servicio de Impuestos Internos, que dichos rubros corresponden o acceden a operaciones exentas o no gravadas con este tributo.
+Los rubros señalados en los números precedentes se entenderán comprendidos en el valor de la venta o del servicio prestado aun cuando se facturen o contabilicen en forma separada, y se presumirá que están afectos al impuesto de este Título, salvo que se demuestre fehacientemente, ante el Servicio de Impuestos Internos, que dichos rubros corresponden o acceden a operaciones exentas o no gravadas con este tributo.
 
 No formarán parte de la base imponible el impuesto de este Título, los de los Párrafos 1°, 3° y 4° del Título III, el establecido en el Decreto Ley N° 826, de 1974, sobre impuesto a los Alcoholes y Bebidas Alcohólicas, y aquellos que se fijen en virtud de la facultad contenida en el artículo 48, sobre impuestos específicos a los combustibles, que graven la misma operación.
 
@@ -488,7 +484,7 @@ a) En las importaciones, el valor aduanero de los bienes que se internen o, en s
 
 Para determinar el impuesto que afecta la operación establecida en el inciso segundo de la letra a) del artículo 8º, se considerará la misma base imponible de las importaciones menos la depreciación por uso. Dicha depreciación ascenderá a un diez por ciento por cada año completo transcurrido entre el 1º de enero del año del modelo y el momento en que se pague el impuesto, salvo que en el valor aduanero ya se hubiese considerado rebaja por uso, caso en el cual sólo procederá depreciación por los años no tomados en cuenta;
 
-b) En los casos contemplados en la letra d) del artículo 8° el valor que el propio contribuyente tenga asignado a los bienes o sobre el valor que tuvieren los mismos en plaza, si este último fuere superior, según lo determine el Servicio de Impuestos Internos, a su juicio exclusivo;
+b) En los casos contemplados en la letra d) del artículo 8° el valor que el propio contribuyente tenga asignado a los bienes o sobre el valor que tuvieren los mismos en plaza, si este último fuere superior, según lo determine el Servicio de Impuestos Internos;
 
 c) En los contratos a que se refiere la letra e) del artículo 8°, el valor total del contrato incluyendo los materiales.
 
@@ -496,7 +492,7 @@ En los contratos de construcción de obras de uso público cuyo precio se pague 
 
 d) En el caso contemplado en la letra f) del artículo 8°, el valor de los bienes corporales muebles e inmuebles comprendidos en la venta, sin que sea admisible deducir de dicho valor el monto de las deudas que puedan afectar a tales bienes.
 
-Si la venta de las universalidades a que se refiere el inciso anterior se hiciere por suma alzada, el Servicio de Impuestos Internos tasará, para los efectos de este impuesto, el valor de los diferentes bienes corporales muebles e inmuebles del giro del vendedor comprendidos en la venta.
+Si la venta de las universalidades a que se refiere el inciso anterior se hiciere por suma alzada, el Servicio de Impuestos Internos tasará, para los efectos de este impuesto, el valor de los diferentes bienes corporales muebles e inmuebles del giro del vendedor o que formen parte de su activo inmovilizado, en la medida que hayan dado derecho a crédito fiscal en su adquisición, importación, fabricación o construcción, comprendidos en la venta.
 
 Lo dispuesto en el inciso anterior será aplicable, asimismo, respecto de todas aquellas convenciones en que los interesados no asignaren un valor determinado a los bienes corporales muebles e inmuebles que enajenen o el fijado fuere notoriamente inferior al corriente en plaza;
 
@@ -506,11 +502,11 @@ Sin embargo, el impuesto no se aplicará al valor de la propina que por disposic
 
 f) Tratándose de peluquerías y salones de belleza no formará parte de la base imponible el porcentaje adicional establecido en el artículo 6° de la ley N° 9.613, de 7 de Julio de 1950, y sus modificaciones posteriores, y
 
-g) En el caso de venta de bienes corporales inmuebles usados, en cuya adquisición no se haya soportado impuesto al valor agregado, realizada por un vendedor habitual, la base imponible será la diferencia entre los precios de venta y compra. Para estos efectos deberá reajustarse el valor de adquisición del inmueble de acuerdo con el porcentaje de variación que experimente el índice de precios al consumidor en el período comprendido entre el mes anterior al de la adquisición y el mes anterior a la fecha de la venta.
+g) En el caso de venta de bienes corporales inmuebles, en cuya adquisición no se haya soportado impuesto al valor agregado, realizada por un vendedor habitual, la base imponible será la diferencia entre los precios de venta y compra. Para estos efectos deberá reajustarse el valor de adquisición del inmueble de acuerdo con el porcentaje de variación que experimente el índice de precios al consumidor en el período comprendido entre el mes anterior al de la adquisición y el mes anterior a la fecha de la venta.
 
-Con todo, en la determinación de la base imponible a que se refiere el párrafo anterior deberá descontarse del precio de compra y del precio de venta, el valor del terreno que se encuentre incluido en ambas operaciones. Para estos efectos, el vendedor podrá deducir del precio de venta como valor máximo asignado al terreno, el valor comercial de éste a la fecha de la operación. Efectuada esta deducción, el vendedor deberá deducir del precio de adquisición del inmueble una cantidad equivalente al porcentaje que representa el valor comercial asignado al terreno en el precio de venta.
+Con todo, en la determinación de la base imponible a que se refiere el párrafo anterior deberá descontarse del precio de compra y del precio de venta, el valor del terreno que se encuentre incluido en ambas operaciones. Para estos efectos, el vendedor deberá deducir del precio de venta el valor comercial de éste a la fecha de la operación. Efectuada esta deducción, el vendedor deberá deducir del precio de adquisición del inmueble una cantidad equivalente al porcentaje que representa el valor comercial del terreno en el precio de venta.
 
-El Servicio podrá tasar el valor comercial asignado al terreno, de conformidad con lo dispuesto en el artículo 64 del Código Tributario.
+El Servicio podrá tasar el valor asignado al terreno, de conformidad con lo dispuesto en el artículo 64 del Código Tributario.
 
 h) Tratándose de los servicios de conservación, reparación y explotación de una obra de uso público prestados por el concesionario de ésta y cuyo precio se pague con la concesión temporal de la explotación de dicha obra, la base imponible estará constituída por los ingresos mensuales totales de explotación de la concesión, deducidas las cantidades que deban imputarse, en la proporción que se determine en el decreto o contrato que otorgue la concesión, al pago de la construcción de la obra respectiva. La parte facturada que no sea base imponible del impuesto, no será considerada operación exenta o no gravada para los efectos de la recuperación del crédito fiscal.
 
@@ -524,15 +520,13 @@ i) En los contratos a que se refiere la letra l) del artículo 8º, el valor de 
 
 #### Artículo 17°
 
-En el caso de arrendamiento de inmuebles amoblados, inmuebles con instalaciones o maquinarias que permitan el ejercicio de alguna actividad comercial o industrial, y de todo tipo de establecimientos o de comercio que incluya un bien raíz, podrá deducirse de la renta, para los efectos de este párrafo, una cantidad equivalente al 11% anual del avalúo fiscal del inmueble propiamente tal, o la proporción correspondiente si el arrendamiento fuere parcial o por períodos distintos de un año.
+En el caso de arrendamiento de inmuebles amoblados, inmuebles con instalaciones o maquinarias que permitan el ejercicio de alguna actividad comercial o industrial, y de todo tipo de establecimientos o de comercio que incluya un bien raíz, deberá deducirse de la renta, para los efectos de este párrafo, una cantidad equivalente al 11% anual del avalúo fiscal del inmueble propiamente tal, o la proporción correspondiente si el arrendamiento fuere parcial o por períodos distintos de un año.
 
-Tratándose de la venta de bienes inmuebles gravados por esta ley, podrá deducirse del precio estipulado en el contrato el monto total o la proporción que corresponda, del valor de adquisición del terreno que se encuentre incluído en la operación. En el caso de los contratos de arriendo con opción de compra de bienes corporales inmuebles, podrá deducirse del monto de cada cuota, incluyendo la opción de compra, la proporción correspondiente al valor de adquisición del terreno que se encuentre incluido en la operación, la que resultará de calcular la proporción que representa el valor de adquisición del terreno en el valor total del contrato. Para estos efectos, deberá reajustarse el valor de adquisición del terreno de acuerdo con el porcentaje de variación experimentado por el índice de precios al consumidor en el período comprendido entre el mes anterior al de la adquisición y el mes anterior al de la fecha del contrato. La deducción que en definitiva se efectúe por concepto del terreno, no podrá ser superior al doble del valor de su avalúo fiscal determinado para los efectos de la ley N° 17.235, salvo que la fecha de adquisición del mismo haya precedido en no menos de tres años a la fecha en que se celebre el contrato de venta o de promesa de venta, en cuyo caso se deducirá el valor efectivo de adquisición reajustado en la forma indicada precedentemente.
+Tratándose de la venta de bienes inmuebles gravados por esta ley, deberá deducirse del precio estipulado en el contrato el monto total o la proporción que corresponda, del valor de adquisición del terreno que se encuentre incluído en la operación. En el caso de los contratos de arriendo con opción de compra de bienes corporales inmuebles, podrá deducirse del monto de cada cuota, incluyendo la opción de compra, la proporción correspondiente al valor de adquisición del terreno que se encuentre incluido en la operación, la que resultará de calcular la proporción que representa el valor de adquisición del terreno en el valor total del contrato. Para estos efectos, deberá reajustarse el valor de adquisición del terreno de acuerdo con el porcentaje de variación experimentado por el índice de precios al consumidor en el período comprendido entre el mes anterior al de la adquisición y el mes anterior al de la fecha del contrato.
 
 No obstante, en reemplazo del valor de adquisición del terrreno podrá rebajarse el avalúo fiscal de éste, o la proporción que corresponda, cuando el terreno se encuentre incluído en la operación.
 
 Para estos efectos, el contribuyente podrá solicitar una nueva tasación, la cual se sujetará a las normas de la ley N° 17.235, sin perjuicio de la vigencia que tenga el nuevo avalúo para los efectos del Impuesto Territorial, pero deberán excluirse las construcciones que den derecho a crédito fiscal. El Servicio fijará mediante resolución el procedimiento para solicitar esta nueva tasación.
-
-No obstante lo dispuesto en el inciso segundo de este artículo, el Servicio de Impuestos Internos, en aquellos casos en que hayan transcurrido menos de tres años entre la adquisición del terreno y la venta o promesa de venta del bien inmueble gravado podrá autorizar, en virtud de una resolución fundada, que se deduzca del precio estipulado en el contrato, el valor efectivo de adquisición del terreno, reajustado de acuerdo con el procedimiento indicado en el inciso segundo, sin aplicar el límite del doble del valor del avalúo fiscal, considerando para estos efectos el valor de los terrenos de ubicación y características similares, al momento de su adquisición.
 
 En las facturas que deban emitirse por los pagos que se efectúen en cumplimiento de alguno de los contratos señalados en el inciso segundo de este artículo, deberá indicarse separadamente el valor del terreno determinado de acuerdo con las normas precedentes, en la forma pactada a la fecha de celebrarse el contrato de venta o de arriendo con opción de compra del inmueble. Cuando no exista esta constancia en el contrato de venta, se presumirá que en cada uno de los pagos correspondientes se comprenderá parte del valor del terreno en la misma proporción que se determine respecto del total del precio de la operación a la fecha del contrato.
 
@@ -550,7 +544,7 @@ En estos casos, y en los del artículo 19, se aplicará lo dispuesto en la letra
 
 #### Artículo 19°
 
-Cuando se dieren en pago de un servicio bienes corporales muebles o inmuebles, se tendrá como precio del servicio, para los fines del impuesto de este Título, el valor que las partes hubieren asignado a los bienes transferidos o el que, en su defecto, fijare el Servicio de Impuestos Internos, a su juicio exclusivo.
+Cuando se dieren en pago de un servicio bienes corporales muebles o inmuebles, se tendrá como precio del servicio, para los fines del impuesto de este Título, el valor que las partes hubieren asignado a los bienes transferidos o el que, en su defecto, fijare el Servicio de Impuestos Internos.
 
 En los casos a que se refiere este artículo, el beneficiario del servicio será tenido como vendedor de los bienes para los efectos de la aplicación del impuesto cuando proceda.
 
@@ -564,13 +558,19 @@ El impuesto a pagarse se determinará, estableciendo la diferencia entre el déb
 
 Respecto de las importaciones, el impuesto se determinará aplicando la tasa sobre el valor de la operación señalado en la letra a) del artículo 16° y teniendo presente, cuando proceda, lo dispuesto en el inciso final de ese mismo artículo.
 
+En aquellos casos en que no pueda determinarse el débito fiscal del contribuyente por falta de antecedentes o cualquiera otra circunstancia imputable al contribuyente, el Servicio, mediante resolución fundada, podrá tasar el impuesto a pagar, tomando como base los márgenes observados para contribuyentes de similar actividad, negocio, segmento o localidad.
+
+En la determinación del impuesto a pagar, el Servicio deberá estimar un monto de crédito fiscal imputable a un monto estimado como débito fiscal, conforme a los parámetros señalados u otros que permitan hacer una estimación razonable del monto a pagar en cada uno de los periodos tributarios en cuestión. Si la imposibilidad de determinar el débito fiscal proviene de caso fortuito o fuerza mayor, el contribuyente dispondrá de un plazo de 6 meses para reunir los antecedentes que le permitan realizar la declaración de los períodos tributarios involucrados de conformidad al artículo 35 de la Ley sobre Impuesto a la Renta, para lo cual deberá presentar ante el Servicio de Impuestos Internos una petición en la forma que este determine mediante resolución. Los plazos de prescripción se entenderán aumentados por igual tiempo. No podrán acogerse a este procedimiento los contribuyentes que se encuentren formalizados, querellados o sancionados por delito tributario.
+
+Con todo, cuando el contribuyente fundadamente señale que no está en condiciones de determinar su impuesto a pagar, podrá solicitar al Servicio de Impuestos Internos que efectúe la tasación a que se refiere el inciso cuarto de este artículo.
+
 #### Artículo 21°
 
 Del impuesto determinado, o débito fiscal, se deducirán los impuestos de este Título correspondientes a:
 
 1°.- Las bonificaciones y descuentos otorgados a los compradores o beneficiarios del servicio sobre operaciones afectas, con posterioridad a la facturación;
 
-2°.- Las cantidades restituidas a los compradores o beneficiarios del servicio en razón de bienes devueltos y servicios resciliados por los contratantes, siempre que correspondan a operaciones afectas y la devolución de las especies o resciliación del servicio se hubiere producido dentro del plazo de tres meses establecido en el inciso segundo del artículo 70°. Igual procedimiento corresponderá aplicar por las cantidades restituídas cuando una venta o arriendo con opción de compra de bienes corporales inmuebles, gravadas con esta ley, queden sin efecto por resolución, resciliación, nulidad u otra causa; pero el plazo de tres meses para efectuar la deducción del impuesto se contará desde la fecha en que se produzca la resolución, o desde la fecha de la escritura pública de resciliación y, en el caso que la venta o arriendo con opción de compra quede sin efecto por sentencia judicial, desde la fecha que ésta se encuentre ejecutoriada, y
+2°.- Las cantidades restituidas a los compradores o beneficiarios del servicio en razón de bienes devueltos y servicios resciliados por los contratantes, siempre que correspondan a operaciones afectas y la devolución de las especies o resciliación del servicio se hubiere producido dentro del plazo de seis meses establecido en el inciso segundo del artículo 70°. Igual procedimiento corresponderá aplicar por las cantidades restituídas cuando una venta o arriendo con opción de compra de bienes corporales inmuebles, gravadas con esta ley, queden sin efecto por resolución, resciliación, nulidad u otra causa; pero el plazo de seis meses para efectuar la deducción del impuesto se contará desde la fecha en que se produzca la resolución, o desde la fecha de la escritura pública de resciliación y, en el caso que la venta o arriendo con opción de compra quede sin efecto por sentencia judicial, desde la fecha que ésta se encuentre ejecutoriada, y
 
 3°.- Las sumas devueltas a los compradores por los depósitos a que se refiere el número 2° del artículo 15°, cuando ellas hayan sido incluidas en el valor de venta afecto a impuesto.
 
@@ -578,7 +578,7 @@ Del impuesto determinado, o débito fiscal, se deducirán los impuestos de este 
 
 #### Artículo 22°
 
-Sin perjuicio de lo dispuesto en el artículo anterior, los contribuyentes que hubiesen facturado indebidamente un débito fiscal superior al que corresponda de acuerdo con las disposiciones de esta ley, deberán considerar los importes facturados para los efectos de la determinación del débito fiscal del período tributario, salvo cuando dentro de dicho período hayan subsanado el error, emitiendo nota de crédito extendida de acuerdo a lo dispuesto en el artículo 57°.
+Sin perjuicio de lo dispuesto en el artículo anterior, los contribuyentes que hubiesen facturado indebidamente un débito fiscal superior al que corresponda de acuerdo con las disposiciones de esta ley, deberán considerar los importes facturados para los efectos de la determinación del débito fiscal del período tributario, salvo cuando dentro de dicho período o a más tardar el período siguiente hayan subsanado el error, emitiendo nota de crédito extendida de acuerdo a lo dispuesto en el artículo 57°.
 
 La nota de crédito emitida con arreglo a lo dispuesto en el referido artículo también será requisito indispensable para que los contribuyentes puedan obtener la devolución de impuestos pagados en exceso por errores en la facturación del débito fiscal.
 
@@ -594,7 +594,7 @@ Los contribuyentes afectos al pago del tributo de este Título tendrán derecho 
 
 2°.- No procede el derecho al crédito fiscal por la importación o adquisición de bienes o la utilización de servicios que se afecten a hechos no gravados por esta ley o a operaciones exentas o que no guarden relación directa con la actividad del vendedor.
 
-3°.- En el caso de importación o adquisición de bienes o de utilización de servicios que se afecten o destinen a operaciones gravadas y exentas, el crédito se calculará en forma proporcional, de acuerdo con las normas que establezca el Reglamento.
+3°.- En el caso de importación o adquisición de bienes o de utilización de servicios que se afecten o destinen a operaciones gravadas y operaciones exentas o a hechos no gravados por esta ley, el crédito se calculará en forma proporcional, de acuerdo con las normas que establezca el Reglamento.
 
 4°.- No darán derecho a crédito las importaciones, arrendamiento con o sin opción de compra y adquisiciones de automóviles, station wagons y similares y de los combustibles, lubricantes, repuestos
 
@@ -608,6 +608,8 @@ a) Con un cheque nominativo, vale vista nominativo o transferencia electrónica 
 
 b) Haber anotado por el librador al extender el cheque o por el banco al extender el vale vista, en el reverso del mismo, el número del rol único tributario del emisor de la factura y el número de ésta. En el caso de transferencias electrónicas de dinero, esta misma información, incluyendo el monto de la operación, se deberá haber registrado en los respaldos de la transacción electrónica del banco.
 
+El contribuyente deberá aportar los antecedentes que acrediten las circunstancias de las letras a) y b) precedentes, dentro del plazo de un mes contado desde la fecha de notificación del requerimiento realizado por el Servicio de Impuestos Internos. En caso que no dé cumplimiento a lo requerido, previa certificación del Director Regional respectivo, se presumirá que la factura es falsa o no fidedigna, no dando derecho a la utilización del crédito fiscal mientras no se acredite que dicha factura es fidedigna.
+
 Con todo, si con posterioridad al pago de una factura ésta fuese objetada por el Servicio de Impuestos Internos, el comprador o beneficiario del servicio perderá el derecho al crédito fiscal que ella hubiere originado, a menos que acredite a satisfacción de dicho Servicio, lo siguiente:
 
 a) La emisión y pago del cheque, vale vista o transferencia electrónica, mediante el documento original o fotocopia de los primeros o certificación del banco, según corresponda, con las especificaciones que determine el Director del Servicio de Impuestos Internos.
@@ -618,11 +620,15 @@ c) Que la factura cumple con las obligaciones formales establecidas por las leye
 
 d) La efectividad material de la operación y de su monto, por los medios de prueba instrumental o pericial que la ley establece, cuando el Servicio de Impuestos Internos así lo solicite.
 
-No obstante lo dispuesto en los incisos segundo y tercero, no se perderá el derecho a crédito fiscal, si se acredita que el impuesto ha sido recargado y enterado efectivamente en arcas fiscales por el vendedor.
+No obstante lo dispuesto en los incisos segundo, tercero y cuarto, no se perderá el derecho a crédito fiscal, si se acredita que el impuesto ha sido recargado y enterado efectivamente en arcas fiscales por el vendedor.
 
-Lo dispuesto en los incisos segundo y tercero no se aplicará en el caso que el comprador o beneficiario del servicio haya tenido conocimiento o participación en la falsedad de la factura.
+Lo dispuesto en los incisos segundo, tercero y cuarto no se aplicará en el caso que el comprador o beneficiario del servicio haya tenido conocimiento o participación en la falsedad de la factura.
 
-6°.- El derecho a crédito fiscal para el adquirente o contratante por la parte del impuesto al valor agregado que la empresa constructora recupere en virtud de lo prescrito en el artículo 21 del decreto ley N° 910, de 1975, procederá sólo para contribuyentes que se dediquen a la venta habitual de bienes corporales inmuebles.
+6°.- Cuando los contribuyentes que se dediquen a la venta habitual de bienes corporales inmuebles o las empresas constructoras, no puedan determinar la procedencia del crédito fiscal conforme a los números 1 al 3 de este artículo, en el período tributario en que adquirieron o construyeron los bienes, deberán aplicar las siguientes reglas:
+
+a) El impuesto soportado será considerado provisionalmente como crédito fiscal del período correspondiente; y
+
+b) El crédito fiscal provisional deberá ser ajustado en cada periodo en que se realicen operaciones no gravadas o exentas, adicionando, debidamente reajustado, al débito fiscal de dicho período, el monto equivalente al impuesto soportado en la adquisición o construcción de la o las unidades que se transfieren en dichas operaciones.
 
 7º.- El impuesto recargado en facturas emitidas en medios distintos del papel, de conformidad al artículo 54, dará derecho a crédito fiscal para el comprador o beneficiario en el período en que hagan el acuse de recibo o se entiendan recibidas las mercaderías entregadas o el servicio prestado, conforme a lo establecido en el inciso primero del artículo 9º de la ley Nº 19.983, que regula la transferencia y otorga mérito ejecutivo a la copia de la factura. Esta limitación no regirá en el caso de prestaciones de servicios, ni de actos o contratos afectos en los que, por aplicación de lo dispuesto en el artículo 55, la factura deba emitirse antes de concluirse la prestación de los servicios o de la entrega de los bienes respectivos.
 
@@ -642,7 +648,7 @@ Del crédito calculado con arreglo a las normas del artículo anterior, deberán
 
 Por otra parte, deberá sumarse al crédito fiscal el impuesto que conste en las notas de débito recibidas y registradas durante el mes, por aumentos del impuesto ya facturado.
 
-No obstante lo dispuesto en los incisos precedentes y en el artículo anterior, los contribuyentes podrán efectuar los ajustes señalados o deducir el crédito fiscal del débito fiscal o recuperar este crédito en el caso de los exportadores, dentro de los dos períodos tributarios siguientes a aquel que se indica en dichas normas, sólo cuando las respectivas notas de crédito y débito o las facturas, según corresponda, se reciban o se registren con retraso.
+No obstante lo dispuesto en los incisos precedentes y en el artículo anterior, los contribuyentes podrán efectuar los ajustes señalados o deducir el crédito fiscal del débito fiscal o recuperar este crédito en el caso de los exportadores, dentro de los dos períodos tributarios siguientes a aquel que se indica en dichas normas, sólo cuando las respectivas notas de crédito y débito, las facturas o comprobantes de ingreso del impuesto tratándose de importaciones, según corresponda, se reciban o se registren con retraso, por cualquier hecho no imputable al contribuyente.
 
 #### Artículo 25°
 
@@ -662,15 +668,13 @@ El Presidente de la República estará facultado para hacer extensiva la reajust
 
 #### Artículo 27 bis
 
-Los contribuyentes gravados con el impuesto del Título II de esta ley y los exportadores que tengan remanentes de crédito fiscal, determinados de acuerdo con las normas del artículo 23, durante seis períodos tributarios consecutivos como mínimo originados en la adquisición de bienes corporales muebles o inmuebles destinados a formar parte de su activo fijo o de servicios que deban integrar el valor de costo de éste, podrán imputar ese remanente acumulado en dichos períodos, debidamente reajustado de conformidad con lo dispuesto en el artículo 27, a cualquier clase de impuesto fiscal, incluso de retención, y a los derechos, tasas y demás gravámenes que se perciban por intermedio de las Aduanas u optar porque dicho remanente les sea reembolsado por la Tesorería General de la República. En el caso que en los seis o más períodos tributarios señalados se originen créditos fiscales en adquisiciones distintas a las anteriores o en utilizaciones de servicios de los no señalados precedentemente, el monto de la la imputación o de la devolución se determinará aplicando al total del remanente acumulado, el porcentaje que represente el Impuesto al Valor Agregado soportado por adquisiciones de bienes corporales muebles o inmuebles destinados al Activo Fijo o de servicios que se integran al costo de éste, en relación al total del crédito fiscal de los seis o más períodos tributarios.
+Los contribuyentes gravados con el impuesto del Título II de esta ley y los exportadores que tengan remanentes de crédito fiscal, determinados de acuerdo con las normas del artículo 23, durante dos períodos tributarios consecutivos como mínimo originados en la adquisición de bienes corporales muebles o inmuebles destinados a formar parte de su activo fijo o de servicios que deban integrar el valor de costo de éste, podrán imputar ese remanente acumulado en dichos períodos, debidamente reajustado de conformidad con lo dispuesto en el artículo 27, a cualquier clase de impuesto fiscal, incluso de retención, y a los derechos, tasas y demás gravámenes que se perciban por intermedio de las Aduanas u optar porque dicho remanente les sea reembolsado por la Tesorería General de la República. En el caso que en los dos o más períodos tributarios señalados se originen créditos fiscales en adquisiciones distintas a las anteriores o en utilizaciones de servicios de los no señalados precedentemente, el monto de la la imputación o de la devolución se determinará aplicando al total del remanente acumulado, el porcentaje que represente el Impuesto al Valor Agregado soportado por adquisiciones de bienes corporales muebles o inmuebles destinados al Activo Fijo o de servicios que se integran al costo de éste, en relación al total del crédito fiscal de los dos o más períodos tributarios. Tratándose de bienes corporales inmuebles, se entenderán como destinados a formar parte de su activo fijo, desde el momento en que la obra o cada una de sus etapas es recibida conforme por quien la encargó. En caso que el contribuyente haya obtenido devoluciones durante el desarrollo de la obra, deberá, al término de la misma, presentar, a requerimiento del Servicio, el certificado de recepción definitiva, y acreditar su incorporación efectiva al activo inmovilizado.
 
-Los contribuyentes señalados en el inciso anterior, restituirán las sumas recibidas mediante los pagos efectivos que realicen en Tesorería por concepto del Impuesto al Valor Agregado, generado en la operaciones normales que efectúen a contar del mes siguiente del período al cual esas sumas corresponden. En el caso de que en cualquiera de los períodos tributarios siguientes existan operaciones exentas o no gravadas, deberán adicionalmente restituir las sumas equivalentes a las cantidades que resulten de aplicar la tasa de impuesto establecida en el artículo 14°, que se determine de multiplicar las operaciones totales del mes por la proporción de operaciones gravadas usada para determinar el crédito fiscal en el mes de adquisición del activo fijo que originó la devolución y restar de dicho resultado las operaciones afectas del mes. A los contribuyentes que no hayan realizado ventas o prestaciones de servicios en dicho período de seis o más meses, se les determinará en el primer mes en que tengan operaciones si han importado o adquirido bienes corporales muebles o inmuebles o recibido servicios afectado a operaciones gravadas, no gravadas o exentas aplicándose la proporcionalidad que establece el reglamento, debiendo devolver el exceso, correspondiente a las operaciones exentas o no gravadas, debidamente reajustado en conformidad al artículo 27°, adicionándolo al débito fiscal en la primera declaración del Impuesto al Valor Agregado. De igual forma, deberá devolverse el remanente de crédito obtenido por el contribuyente, o la parte que proceda, cuando se haya efectuado una imputación u obtenido una devolución superior a la que corresponda de acuerdo a la ley o a su reglamento, y en el caso de término de giro de la empresa. Las devoluciones a que se tengan derecho por las exportaciones, se regirán por lo dispuesto en el artículo 36°.
+Los contribuyentes señalados en el inciso anterior, restituirán las sumas recibidas mediante los pagos efectivos que realicen en Tesorería por concepto del Impuesto al Valor Agregado, generado en la operaciones normales que efectúen a contar del mes siguiente del período al cual esas sumas corresponden. En el caso de que en cualquiera de los períodos tributarios siguientes existan operaciones exentas o no gravadas, deberán adicionalmente restituir las sumas equivalentes a las cantidades que resulten de aplicar la tasa de impuesto establecida en el artículo 14°, que se determine de multiplicar las operaciones totales del mes por la proporción de operaciones gravadas usada para determinar el crédito fiscal en el mes de adquisición del activo fijo que originó la devolución y restar de dicho resultado las operaciones afectas del mes. A los contribuyentes que no hayan realizado ventas o prestaciones de servicios en dicho período de dos o más meses, se les determinará en el primer mes en que tengan operaciones si han importado o adquirido bienes corporales muebles o inmuebles o recibido servicios afectado a operaciones gravadas, no gravadas o exentas aplicándose la proporcionalidad que establece el reglamento, debiendo devolver el exceso, correspondiente a las operaciones exentas o no gravadas, debidamente reajustado en conformidad al artículo 27°, adicionándolo al débito fiscal en la primera declaración del Impuesto al Valor Agregado. De igual forma, deberá devolverse el remanente de crédito obtenido por el contribuyente, o la parte que proceda, cuando se haya efectuado una imputación u obtenido una devolución superior a la que corresponda de acuerdo a la ley o a su reglamento, y en el caso de término de giro de la empresa. Las devoluciones a que se tengan derecho por las exportaciones, se regirán por lo dispuesto en el artículo 36°.
 
 Para hacer efectiva la imputación a que se refieren los incisos anteriores, los contribuyentes deberán solicitar al Servicio de Tesorerías que se les emita un Certificado de Pago por una suma de hasta el monto de los créditos acumulados, expresados en unidades tributarias. Dicho certificado, que se extenderá en la forma y condiciones que establezca el Reglamento, será nominativo, intransferible a terceras personas y a la vista, y podrá fraccionarse en su valor para los efectos de realizar las diversas imputaciones que autoriza la presente disposición.
 
-Para obtener la devolución del remanente de crédito fiscal, los contribuyentes que opten por este procedimiento, deberán presentar una solicitud ante el Servicio de Impuestos Internos, a fin de que éste verifique y certifique, en forma previa a la devolución por la Tesorería General de la República, la correcta constitución de este crédito. El Servicio de Impuestos Internos deberá pronunciarse dentro del plazo de 60 días contado desde la fecha en que reciba los antecedentes correspondientes. Si no lo hiciere al término de dicho plazo, la solicitud del contribuyente se entenderá aprobada y el Servicio de Tesorerías deberá proceder a la devolución del remanente de crédito fiscal que corresponda, dentro del plazo de cinco días hábiles contado desde la fecha en que se le presente la copia de la referida solicitud debidamente timbrada por el Servicio de Impuestos Internos.
-
-INCISO DEROGADO
+Para obtener la devolución del remanente de crédito fiscal, los contribuyentes que opten por este procedimiento, deberán presentar una solicitud ante el Servicio de Impuestos Internos, a fin de que éste verifique y certifique, en forma previa a la devolución por la Tesorería General de la República, la correcta constitución de este crédito. El Servicio de Impuestos Internos deberá pronunciarse dentro del plazo de 20 días contado desde la fecha en que reciba los antecedentes correspondientes. Si no lo hiciere al término de dicho plazo, la solicitud del contribuyente se entenderá aprobada y el Servicio de Tesorerías deberá proceder a la devolución del remanente de crédito fiscal que corresponda, dentro del plazo de cinco días hábiles contado desde la fecha en que se le presente la copia de la referida solicitud debidamente timbrada por el Servicio de Impuestos Internos. No será aplicable el procedimiento establecido en el artículo 80 y siguientes para el procedimiento de devolución que establece este artículo.
 
 La infracción consistente en utilizar cualquier procedimiento doloso encaminado a efectuar imputaciones y obtener devoluciones improcedentes o superiores a las que realmente corresponda, se sancionará en conformidad con lo dispuesto en los incisos segundo y tercero del N° 4 del artículo 97 del Código Tributario, según se trate de imputaciones o devoluciones.
 
@@ -688,7 +692,7 @@ Los contribuyentes señalados en este artículo restituirán los impuestos corre
 
 Para hacer efectiva la imputación a que se refieren los incisos anteriores, los contribuyentes deberán solicitar al Servicio de Tesorerías que se les emita un Certificado de Pago por una suma de hasta el monto de los créditos acumulados, expresados en unidades tributarias mensuales. Dicho certificado, que se extenderá en la forma y condiciones que fije el Servicio de Tesorerías, mediante resolución, será nominativo, intransferible a terceros y a la vista, y podrá fraccionarse en su valor para los efectos de realizar las diversas imputaciones que autoriza la presente disposición.
 
-Para obtener la devolución de los impuestos recargados en las facturas pendientes de pago, los contribuyentes que opten por este procedimiento deberán presentar una solicitud ante el Servicio de Impuestos Internos a fin de que éste verifique y certifique, en forma previa a la devolución por la Tesorería General de la República, que los respectivos tributos hayan sido declarados y enterados en arcas fiscales oportunamente, y que éstos se encuentran al día en el pago de sus obligaciones tributarias. El Servicio de Impuestos Internos deberá pronunciarse dentro del plazo de 60 días contado desde la fecha en que reciba los antecedentes correspondientes. Si no lo hiciere al término de dicho plazo, la solicitud del contribuyente se entenderá aprobada y el Servicio de Tesorerías deberá proceder a la devolución del remanente de crédito fiscal que corresponda, dentro del plazo de cinco días hábiles contado desde la fecha en que se le presente la copia de la referida solicitud debidamente timbrada por el Servicio de Impuestos Internos.
+Para obtener la devolución de los impuestos recargados en las facturas pendientes de pago, los contribuyentes que opten por este procedimiento deberán presentar una solicitud ante el Servicio de Impuestos Internos, conforme a los artículos 80 y siguientes a fin de que éste verifique y certifique, en forma previa a la devolución por la Tesorería General de la República, que los respectivos tributos hayan sido declarados y enterados en arcas fiscales oportunamente, y que éstos se encuentran al día en el pago de sus obligaciones tributarias.
 
 Para hacer uso del beneficio establecido en el presente artículo, el Acuerdo de Reorganización debe haber sido aprobado mediante resolución firme y ejecutoriada. La Superintendencia de Insolvencia y Reemprendimiento remitirá al Servicio de Impuestos Internos copia de los Acuerdos de Reorganización que se hallen en dicho estado, en la forma y plazo que dicha Superintendencia fije, mediante resolución.
 
@@ -714,7 +718,7 @@ pequeños contribuyentes
 
 #### Artículo 29°
 
-Los pequeños comerciantes, artesanos y pequeños prestadores de servicios que vendan o realicen prestaciones al consumidor y que determine la Dirección Nacional de Impuestos Internos, a su juicio exclusivo, pagarán el impuesto de este Título sobre la base de una cuota fija mensual que se determinará por decreto supremo por grupos de actividades o contribuyentes, considerando factores tales como el monto efectivo o estimado de ventas o prestaciones, el índice de rotación de las existencias de mercaderías, el valor de las instalaciones u otros que puedan denotar el volumen de operaciones.
+Los pequeños comerciantes, artesanos y pequeños prestadores de servicios que vendan o realicen prestaciones al consumidor y que determine la Dirección Nacional de Impuestos Internos, pagarán el impuesto de este Título sobre la base de una cuota fija mensual que se determinará por decreto supremo por grupos de actividades o contribuyentes, considerando factores tales como el monto efectivo o estimado de ventas o prestaciones, el índice de rotación de las existencias de mercaderías, el valor de las instalaciones u otros que puedan denotar el volumen de operaciones.
 
 El monto de la cuota fija mensual establecida para cada grupo de actividades o contribuyentes podrá ser modificado por decreto supremo.
 
@@ -730,7 +734,7 @@ La Dirección Nacional de Impuestos Internos podrá exonerar del impuesto de est
 
 #### Artículo 32°
 
-Todo vendedor o prestador de servicios acogido al régimen de excepción establecido en este párrafo podrá ser reclasificado por el Servicio de Impuestos Internos, a su juicio exclusivo, teniendo en cuenta las variaciones de los factores señalados en el artículo 29°.
+Todo vendedor o prestador de servicios acogido al régimen de excepción establecido en este párrafo podrá ser reclasificado por el Servicio de Impuestos Internos, teniendo en cuenta las variaciones de los factores señalados en el artículo 29°.
 
 #### Artículo 33°
 
@@ -744,6 +748,54 @@ No podrán continuar acogidos al régimen de tributación simplificada los vende
 
 No podrán acogerse al régimen simplificado del presente párrafo las personas jurídicas.
 
+### Párrafo 7° — bis
+
+Del régimen simplificado para contribuyentes no domiciliados ni residentes en Chile
+
+#### Artículo 35
+
+A.- Los contribuyentes no domiciliados ni residentes en Chile que presten servicios gravados conforme al artículo 8°, letra n), para ser utilizados en el territorio nacional por personas naturales que no son contribuyentes de los impuestos establecidos en esta ley, quedarán sujetos al régimen de tributación simplificada que tratan los artículos siguientes. Asimismo, los contribuyentes no domiciliados ni residentes en Chile podrán solicitar al Servicio de Impuestos Internos sujetarse a este régimen de tributación simplificada por la prestación de otros servicios a las referidas personas naturales.
+
+#### Artículo 35
+
+B.- El Director, estará facultado para, eximir total o parcialmente a los contribuyentes del presente régimen de las obligaciones dispuestas en el artículo 51, mediante normas de carácter general, y, asimismo, de las obligaciones establecidas en el Párrafo 2° del Título IV del Libro Primero del Código Tributario, o bien, para sustituirlas por otros procedimientos que constituyan un trámite simplificado.
+
+#### Artículo 35
+
+C.- Los contribuyentes sujetos a lo establecido en el régimen de este Párrafo 7° bis no tendrán derecho a crédito fiscal y se encontrarán liberados de la obligación de emitir documentos tributarios por sus operaciones.
+
+#### Artículo 35
+
+D.- Los contribuyentes sujetos a lo establecido en el régimen de este Párrafo 7° bis deberán recargar a la contraprestación recibida por los servicios afectos, el impuesto de esta ley, el que se calculará aplicando a dicha contraprestación la tasa establecida en el artículo 14.
+
+El impuesto que estos contribuyentes deberán pagar se determinará sobre la base de la suma de los impuestos recargados conforme al inciso primero, por los servicios prestados en el período tributario respectivo. Para estos efectos, se entenderá por "período tributario" un periodo de uno o tres meses seguidos, a elección del contribuyente.
+
+#### Artículo 35
+
+E.- Los contribuyentes sujetos a lo establecido en el régimen de este Párrafo 7° bis deberán declarar en forma simplificada y pagar los impuestos devengados en un período tributario, hasta el día 20 del primer mes siguiente.
+
+La declaración y pago del impuesto se realizará electrónicamente, a través del portal o mecanismo digital que el Servicio de Impuestos Internos habilite al efecto, estando facultado con ese objeto para disponer y requerir información en idiomas distintos al español.
+
+#### Artículo 35
+
+F.- El Director, mediante norma de general aplicación, establecerá los procedimientos necesarios para la determinación y pago del impuesto en moneda extranjera.
+
+De igual forma, el Director podrá autorizar que la determinación y pago del impuesto se realice en moneda nacional, cuando la operación se efectúe en moneda extranjera. Para determinar la paridad cambiaria entre la moneda nacional y la moneda extranjera, se estará al tipo de cambio a la fecha de pago del impuesto según la información que publique el Banco Central de Chile en conformidad a lo dispuesto en el número 6 del Capítulo I del Compendio de Normas de Cambios Internacionales. Si la moneda extranjera en que se efectuará el pago no es una de aquellas informada por el Banco Central, el impuesto que corresponda pagar en el extranjero en dicha divisa deberá primeramente ser calculado en su equivalente en dólares de los Estados Unidos de América, de acuerdo a la paridad entre ambas monedas, para luego convertirse a su equivalente en pesos chilenos de la forma ya indicada.
+
+#### Artículo 35
+
+G.- En los casos de descuentos, anulación, rescisión, terminación o resolución de servicios, el contribuyente que hubiere devuelto al consumidor del servicio el impuesto respectivo, podrá descontar del monto del impuesto que le correspondería pagar en el periodo tributario en que aquellas situaciones se hayan producido, o los periodos tributarios posteriores si en el mismo periodo tributario no correspondiera realizar un pago o si el que procede fuera menor.
+
+#### Artículo 35
+
+H.- No será aplicable lo dispuesto en el Párrafo 3º del Título IV, ni las demás disposiciones de esta ley en lo que no sean compatibles con la naturaleza del régimen establecido en el presente párrafo.
+
+#### Artículo 35
+
+I.- El Servicio de Impuestos Internos podrá utilizar todos los medios de fiscalización tecnológicos de que disponga para verificar el cumplimiento de las obligaciones tributarias que digan relación con los hechos gravados establecidos en el artículo 8 letra n) u otros en que se autorice el régimen simplificado establecido en el artículo 35 A, y que sean prestados digitalmente, independientemente del lugar o jurisdicción donde la información respectiva se encuentre alojada.
+
+Asimismo, el Servicio podrá solicitar, fundadamente, a los contribuyentes sujetos a lo establecido en el régimen de este Párrafo 7° bis, que entreguen información que tengan disponible sobre la identificación de los vendedores o prestadores de servicios respecto de los que intermedian y de las cantidades que se paguen o pongan a disposición de dichos vendedores o prestadores.
+
 ### Párrafo 8°
 
 De los exportadores
@@ -754,7 +806,7 @@ Los exportadores tendrán derecho a recuperar el impuesto de este Título que se
 
 Para determinar la procedencia del impuesto a recuperar se aplicarán las normas del artículo 25°.
 
-Los exportadores que realicen operaciones gravadas en este Título podrán deducir el impuesto a que se refiere el inciso primero de este artículo, en la forma y condiciones que el párrafo 6° señala para la imputación del crédito fiscal. En caso que no hagan uso de este derecho, deberán obtener su reembolso en la forma y plazos que determine, por decreto supremo, el Ministerio de Economía, Fomento y Reconstrucción, el que deberá llevar la firma del Ministro de Hacienda, previo informe favorable del Instituto de Promoción de Exportaciones.
+Los exportadores que realicen operaciones gravadas en este Título podrán deducir el impuesto a que se refiere el inciso primero de este artículo, en la forma y condiciones que el párrafo 6° señala para la imputación del crédito fiscal. En caso que no hagan uso de este derecho, deberán obtener su reembolso conforme a los artículos 80 y siguientes, en forma anticipada o posterior a la exportación de acuerdo a lo que se determine mediante decreto supremo, emitido por el Ministro de Hacienda, previo informe técnico del Servicio de Impuestos Internos.
 
 Los prestadores de servicios que efectúen transporte terrestre de carga y aéreo de carga y pasajeros desde el exterior hacia Chile y viceversa, gozarán respecto de estas operaciones del mismo tratamiento indicado en los incisos anteriores, al igual que aquellos que presten servicios a personas sin domicilio o residencia en el país, que sean calificados como exportación de conformidad a lo dispuesto en el N° 16 letra E, del artículo 12. Igualmente podrán acceder a los beneficios de este artículo los prestadores de servicios siempre que éstos sean prestados y utilizados íntegramente en el extranjero, y hubiesen estado afectos al Impuesto al Valor Agregado de haberse prestado o utilizado en Chile. Lo anterior, sólo en la medida que en el país en que se hayan prestado o utilizado los servicios se aplique un impuesto interno de idéntica o similar naturaleza al establecido en esta ley, circunstancia que se acreditará en la forma y condiciones que determine el Servicio de Impuestos Internos. También se considerarán exportadores los prestadores de servicios que efectúen transporte de carga y de pasajeros entre dos más puntos ubicados en el exterior, respecto del ingreso obtenido por dicha prestación que deba declararse en Chile para efectos tributarios.
 
@@ -1014,7 +1066,7 @@ Las sanciones contempladas en el N° 10 del artículo 97° del Código Tributari
 
 #### Artículo 54
 
-Las facturas, facturas de compra, guías de despacho, liquidaciones facturas y notas de débito y crédito que deban emitir los contribuyentes, consistirán exclusivamente en documentos electrónicos emitidos en conformidad a la ley, sin perjuicio de las excepciones legales pertinentes. Las boletas de ventas y servicios se podrán emitir, a elección del contribuyente, en formato electrónico o en papel. En el caso del sector silvoagropecuario, de la pesca artesanal, y de la pequeña minería y pirquineros, las guías de despacho se podrán emitir, a elección del contribuyente, como documento electrónico o en papel. Adicionalmente, los contribuyentes que sólo emitan documentos en papel podrán emitir guías de despacho que no importen ventas por este mismo medio. Con todo, los comprobantes o recibos generados en transacciones pagadas a través de medios electrónicos tendrán el valor de boleta de ventas y servicios, tratándose de contribuyentes que hayan optado por emitir dichas boletas en formato papel, en la forma y condiciones que determine el Servicio de Impuestos Internos mediante resolución. Tratándose de contribuyentes que hayan optado por emitir boletas electrónicas de ventas y servicios en que el pago de la respectiva transacción se efectúe por medios electrónicos, ambos sistemas tecnológicos deberán estar integrados en la forma que establezca el Servicio de Impuestos Internos mediante resolución, de forma tal que el uso del medio de pago electrónico importe necesariamente la generación de la boleta electrónica de ventas y servicios por el contribuyente respectivo.
+Las facturas, facturas de compra, guías de despacho, boletas de ventas y servicios, liquidaciones facturas y notas de débito y crédito que deban emitir los contribuyentes, consistirán exclusivamente en documentos electrónicos emitidos en conformidad a la ley, sin perjuicio de las excepciones legales pertinentes. En el caso del sector silvoagropecuario, de la pesca artesanal, y de la pequeña minería y pirquineros, las guías de despacho se podrán emitir, a elección del contribuyente, como documento electrónico o en papel. Adicionalmente, Con todo, los comprobantes o recibos generados en transacciones pagadas a través de medios electrónicos tendrán el valor de boleta de ventas y servicios, en la forma y condiciones que determine el Servicio de Impuestos Internos mediante resolución. Tratándose de contribuyentes que emitan boletas electrónicas de ventas y servicios en que el pago de la respectiva transacción se efectúe por medios electrónicos, ambos sistemas tecnológicos deberán estar integrados en la forma que establezca el Servicio de Impuestos Internos mediante resolución, de forma tal que el uso del medio de pago electrónico importe necesariamente la generación de la boleta electrónica de ventas y servicios por el contribuyente respectivo.
 
 Tratándose de contribuyentes que desarrollen su actividad económica en un lugar geográfico sin cobertura de datos móviles o fijos de operadores de telecomunicaciones que tienen infraestructura, o sin acceso a energía eléctrica o en un lugar decretado como zona de catástrofe conforme a la ley Nº 16.282, no estarán obligados a emitir los documentos señalados en el inciso primero en formato electrónico, pudiendo siempre optar por emitirlos en papel. Para estos efectos, el Servicio de Impuestos Internos, de oficio o a petición de parte, dictará una o más resoluciones, según sea necesario, debiendo individualizar al contribuyente o grupo de contribuyentes que se encuentren en alguna de las situaciones referidas, solicitando a los organismos técnicos respectivos informar las zonas geográficas del territorio nacional que no cuentan con los servicios o suministros respectivos y el plazo durante el cual dicha situación se mantendrá o debiese mantenerse. Dicha información deberá ser entregada por los organismos referidos en forma periódica conforme lo solicite el Servicio de Impuestos Internos. Presentada la solicitud de que trata este inciso y mientras ésta no sea resuelta, el Servicio de Impuestos Internos deberá autorizar el timbraje de los documentos tributarios que sean necesarios para el desarrollo del giro o actividad del contribuyente. En todo caso, transcurridos treinta días sin que la solicitud sea resuelta por el Servicio de Impuestos Internos, ésta se entenderá aceptada en los términos planteados por el contribuyente. Con todo, tratándose de lugares decretados como zona de catástrofe por terremoto o inundación, la resolución del Servicio de Impuestos Internos deberá ser dictada de oficio y dentro de los cinco días hábiles siguientes a la publicación en el Diario Oficial del decreto de catástrofe respectivo, debiendo en dicho caso autorizar el uso de facturas en papel debidamente timbradas que el contribuyente mantenga en reserva o autorizar el timbraje de facturas, según sea el caso.
 
@@ -1023,6 +1075,10 @@ Los documentos tributarios que, de acuerdo a los incisos anteriores, puedan ser 
 La copia impresa en papel de los documentos electrónicos a que se refiere el inciso primero, tendrá el valor probatorio de un instrumento privado emanado de la persona bajo cuya firma electrónica se transmitió, y se entenderá cumplida a su respecto la exigencia de timbre y otros requisitos de carácter formal que las leyes requieren para los documentos tributarios emitidos en soporte de papel.
 
 > **Nota.** El artículo primero transitorio de la Ley 20727, publicada el 31.01.2014, en su texto modificado por el Art. noveno transitorio de la Ley 20780, publicada el 29.09.2014, dispuso las siguientes fechas especiales, contadas desde su publicación, para la aplicación de la obligación de emitir facturas y otros documentos electrónicos, contenida en este articulo:En treinta meses, respecto de empresas de menor tamaño, definidas en la ley Nº 20.416, que de acuerdo a instrumentos de planificación territorial estén domiciliadas en zonas urbanas.En treinta y seis meses, respecto de empresas de menor tamaño domiciliadas en zonas rurales; y de microempresas, igualmente definidas en la ley Nº 20.416, domiciliadas en zonas urbanas.En cuarenta y ocho meses, respecto de microempresas domiciliadas en zonas rurales. La disposición relativa al valor de los comprobantes o recibos que se emitan en el caso de transacciones pagadas por medios electrónicos, establecida en el inciso primero del presente artículo, entrará en vigencia en el plazo de un año contado desde la publicación.
+
+> **Nota.** NOTA 1 El literal iii. del N° 24 del artículo tercero de la Ley N° 21.210, publicada el 24.02.2020, modifica el inciso primero del presente artículo, en el sentido de eliminar la oración "Los contribuyentes que sólo emitan documentos en papel podrán emitir guías de despacho que no importen ventas por este mismo medio." incorporado por la letra c) del artículo 3° de la Ley N° 21.131, publicada el 16.01.2019. Sin embargo, el artículo único de la Ley N° 21.203, publicada el 21.01.2020, modificó el referido literal c) del artículo 3°, y por consiguiente, el presente artículo, incorporando oraciones que incluyen a la modificada, con la expresión en su inicio: "Adicionalmente,". En consecuencia, en el texto actualizado del inciso primero de esta disposición se elimina la citada oración conforme a lo ordenado, manteniendo el término "Adicionalmente,".
+
+> **Nota.** NOTA 2 El numeral 4 del artículo 3 de la Ley 21256, publicada el 02.09.2020, modificó el inciso primero del artículo vigésimo noveno transitorio de la ley 21210, que establece la entrada en vigor de las modificaciones que dicha norma ordena en el presente artículo, en el sentido de que se reemplazó la frase "seis meses después de la publicación de la presente ley en el Diario Oficial" por "diez meses después de la entrada en vigencia de la presente ley".
 
 #### Artículo 55°
 
@@ -1074,9 +1130,13 @@ Los duplicados de las facturas y los originales de las boletas a que se refiere 
 
 De los libros y registros.
 
-#### Artículo 59°
+#### Artículo 59
 
-Los vendedores y prestadores de servicios afectos a los impuestos de los Títulos II y III, con excepción de los que tributen de acuerdo con el párrafo 7° del Título II, deberán llevar los libros especiales que determine el Reglamento, y registrar en ellos todas sus operaciones de compras, ventas y servicios utilizados y prestados. El reglamento señalará, además las especificaciones que deberán contener los libros mencionados.
+Los documentos tributarios electrónicos emitidos o recibidos por vendedores o prestadores de servicios afectos a los impuestos de esta ley serán registrados en forma automatizada y cronológica por el Servicio de Impuestos Internos, respecto de cada contribuyente, en un libro especial electrónico denominado "Registro de Compras y Ventas", mediante el sistema tecnológico que dicho Servicio disponga para tales efectos.
+
+Por dicho medio, los contribuyentes deberán registrar respecto de cada período tributario, en la forma que determine la Dirección Nacional del Servicio de Impuestos Internos mediante resolución, tanto la información relativa a documentos tributarios no electrónicos como aquella relativa a documentos tributarios electrónicos cuyo detalle no requiere ser informado al Servicio de Impuestos Internos, ya sea que respalden operaciones afectas, no afectas o exentas de Impuesto al Valor Agregado o los demás impuestos de esta ley.
+
+La Dirección Nacional del Servicio de Impuestos Internos podrá requerir, mediante resolución fundada, el registro de otros antecedentes adicionales, en cuanto sean necesarios para establecer con exactitud el impuesto al valor agregado que corresponda.
 
 #### Artículo 60°
 
@@ -1084,21 +1144,17 @@ Los contribuyentes afectos al impuesto al valor agregado, con excepción de los 
 
 Los importadores deberán, igualmente, abrir cuentas especiales en su contabilidad para registrar los impuestos pagados en sus importaciones y los tributos recargados en sus ventas.
 
-#### Artículo 61°
+#### Artículo 61
 
-Los vendedores y prestadores de servicios afectos al régimen especial de tributación establecido en el párrafo 7° del Título II, deberán llevar un libro especial, en la forma que determine el Reglamento, para el registro diario de todas sus compras, ventas y servicios utilizados y prestados, incluyendo aquellos que recaigan sobre bienes o servicios exentos.
-
-La Dirección Nacional del Servicio de Impuestos Internos podrá liberar a los contribuyentes a que se refiere este artículo de la obligación antes señalada, o sustituirla por otro medio de control que estime más expedito.
+La Dirección Nacional del Servicio de Impuestos Internos podrá liberar, por resolución fundada, a los contribuyentes vendedores y prestadores de servicios afectos al régimen especial de tributación establecido en el párrafo 7° del Título II, de las obligaciones señaladas en los artículos precedentes.
 
 #### Artículo 62°
 
-Los libros exigidos en el presente párrafo deberán ser mantenidos permanentemente en el negocio o establecimiento, debiendo anotarse en ellos, día a día, las operaciones cuyo registro se ordena en los artículos anteriores.
-
-El incumplimiento de lo dispuesto en el inciso precedente hará incurrir al infractor en las sanciones contempladas en los números 6° y 7° del artículo 97° del Código Tributario, sin necesidad de la notificación previa exigida en la última de dichas disposiciones.
+Derogado.
 
 #### Artículo 63°
 
-El Servicio de Impuestos Internos podrá eximir, total o parcialmente, de las obligaciones establecidas en este Párrafo a los contribuyentes que empleen sistemas especiales de contabilidad cuando, a su juicio exclusivo, tales sistemas permitan establecer con exactitud los impuestos adeudados.
+El Servicio de Impuestos Internos podrá eximir, total o parcialmente, de lo dispuesto en este Párrafo a los contribuyentes que empleen sistemas especiales de contabilidad cuando, tales sistemas permitan establecer con exactitud los impuestos adeudados.
 
 ### Párrafo 4°
 
@@ -1106,15 +1162,17 @@ De la declaración y pago del impuesto
 
 #### Artículo 64°
 
-Los contribuyentes afectos a la presente ley deberán pagar en la Tesorería Comunal respectiva, o en las Oficinas Bancarias autorizadas por el servicio de Tesorerías, hasta el día 12 de cada mes, los impuestos devengados en el mes anterior, con excepción del impuesto establecido en el artículo 49°, el que se regirá por las normas de ese precepto.
+Los contribuyentes afectos a la presente ley deberán pagar en la Tesorería Comunal respectiva, o en las Oficinas Bancarias autorizadas por el servicio de Tesorerías, hasta el día 12 de cada mes, los impuestos devengados en el mes anterior.
 
 En el mismo acto deberán presentar una declaración jurada del monto total de las operaciones realizadas en el mes anterior, incluso las exentas de impuesto. No obstante, cuando se trate de las ventas a que se refiere el artículo 41°, la declaración deberá ser presentada en el Servicio de Impuestos Internos.
 
-Sin perjuicio de lo dispuesto en el inciso primero del presente artículo y en el artículo 1° del decreto N° 1.001, de 2006, del Ministerio de Hacienda, los contribuyentes que a continuación se indican podrán postergar el pago íntegro del impuesto al valor agregado devengado en un respectivo mes, hasta dos meses después de las fechas de pago señaladas en las precitadas disposiciones, a condición que al momento de la postergación no presenten morosidad reiterada en el pago del Impuesto al Valor Agregado o en el impuesto a la renta salvo que la deuda respectiva se haya pagado o se encuentre sujeta a un convenio de pago vigente. Para estos efectos, se considerará que el contribuyente presenta morosidad reiterada cuando adeude a lo menos los impuestos correspondientes a tres períodos tributarios dentro de un período cualquiera de doce meses, en el caso del impuesto al valor agregado, o respecto de dos años tributarios consecutivos en el caso del impuesto a la renta:
+Sin perjuicio de lo dispuesto en el inciso primero del presente artículo y en el artículo 1° del decreto número 1.001, de 2006, del Ministerio de Hacienda, los contribuyentes acogidos a lo dispuesto en la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta o acogidos al régimen general de contabilidad completa o simplificada, cuyo promedio anual de los ingresos de su giro no supere las 100.000 unidades de fomento en los últimos tres años calendario, podrán postergar el pago íntegro del impuesto al valor agregado devengado en un respectivo mes, hasta dos meses después de las fechas de pago señaladas en las precitadas disposiciones, siempre que cumplan los siguientes requisitos:
 
-a. Contribuyentes acogidos a lo dispuesto en la letra A del artículo 14 ter de la ley sobre impuesto a la renta.
+1. Que se encuentren inscritos para ser notificados vía correo electrónico por el Servicio de Impuestos Internos conforme al artículo 11 del Código Tributario, salvo que se trate de contribuyentes que desarrollen su actividad económica en un lugar geográfico sin cobertura de datos móviles o fijos de operadores de telecomunicaciones que tienen infraestructura, o sin acceso a energía eléctrica o en un lugar decretado como zona de catástrofe conforme a la ley número 16.282;
 
-b. Contribuyentes acogidos al régimen general de contabilidad completa o simplificada, cuyo promedio anual de los ingresos de su giro no supere las 100.000 unidades de fomento en los últimos tres años calendario.
+2. Que al momento de la postergación no presenten morosidad reiterada en el pago del impuesto al valor agregado o en el impuesto a la renta, salvo que la deuda respectiva se encuentre pagada o sujeta a un convenio de pago vigente. Para estos efectos, se considerará que el contribuyente presenta morosidad reiterada cuando adeude a lo menos los impuestos correspondientes a tres períodos tributarios en los últimos 36 meses, en el caso del impuesto al valor agregado, o respecto a un año tributario, en el mismo período, en el caso del impuesto a la renta.
+
+3. Que, al momento de la postergación, hayan presentado a lo menos, en tiempo y forma, la declaración mensual de impuesto al valor agregado de los 36 períodos precedentes y la declaración anual de impuesto a la renta de los 3 años tributarios precedentes.
 
 Para efectos de lo dispuesto en los incisos precedentes, el Servicio de Impuestos Internos establecerá la forma y procedimientos en que se hará efectiva la postergación a que se refiere el inciso anterior. Con todo, en estos casos no podrá prorrogarse la obligación de declarar el impuesto.
 
@@ -1129,6 +1187,8 @@ Igual procedimiento se adoptará en aquellos casos en que las especies se retire
 El Servicio de Impuestos Internos podrá autorizar el pago del Impuesto al Valor Agregado, que se devengue en la primera venta en el país de vehículos destinados al transporte de pasajeros con capacidad de más de 15 asientos, incluído el del conductor, en cuotas iguales mensuales, trimestrales o semestrales; pero dentro de un plazo máximo de sesenta meses, contado desde la fecha de emisión de la factura respectiva. Para estos efectos, el adquirente será sujeto del Impuesto al Valor Agregado que corresponda pagarse por la primera transferencia en el país de los citados vehículos, no obstante que la emisión de los ocumentos que procedan subsistirá como obligación del vendedor, pero sin cargar suma alguna por concepto del respectivo gravamen en la factura que acredite la venta y sin perjuicio de su derecho a recuperar el crédito fiscal del período respectivo de otros débitos, de cualquier clase de impuesto fiscal, incluso de retención, y de los derechos, tasas y demás gravámenes que se perciban por intermedio de las Aduanas, o como impuesto provisional voluntario de los referidos en el artículo 88 de la Ley sobre Impuesto a la Renta. Las cuotas de impuesto que se determinen deberán expresarse en unidades tributarias mensuales, considerando un interés mensual de 0,5%, y se solucionarán al valor que éstas tengan a la fecha de pago de cada cuota. El Servicio de Impuestos Internos podrá exigir las garantías personales o reales que estime conveniente para el debido resguardo de los intereses fiscales, en la aplicación de lo dispuesto en este inciso.
 
 > **Nota.** El artículo 1º del DTO 1001, Hacienda, publicado el 12.10.2006, amplia, hasta el día 20 de cada mes, los plazos de Declaración y Pago de los impuestos, a que se refiere la presente norma, respecto de los contribuyentes que presenten las declaraciones de los impuestos correspondientes a través de internet, y que cumplan con los requisitos que en ella se indican.
+
+> **Nota.** NOTA 1 El artículo 5° de la Ley N° 21256, publicada el 02.09.2020, modifica el presente artículo en el sentido de reemplazar transitoriamente las palabras: "dos meses" por "tres meses", señalado en su inciso tercero, a partir del mes siguiente de la publicación de la referida ley y hasta el 31 de diciembre de 2021.
 
 #### Artículo 65°
 
@@ -1160,19 +1220,19 @@ Otras disposiciones
 
 #### Artículo 69°
 
-Las personas que realicen operaciones gravadas con el impuesto de la presente ley, con excepción del que afecta a las importaciones, deberán cargar a los compradores o beneficiarios del servicio, en su caso, una suma igual al monto del respectivo gravamen, aun cuando sean dichos compradores o beneficiarios, quienes, en conformidad con esta ley, deban enterar el tributo en arcas fiscales. El impuesto deberá indicarse separadamente en las facturas, salvo en aquellos casos en que la Dirección Nacional de Impuestos Internos autorice su inclusión.
-
-Tratándose de boletas, el impuesto deberá incluirse en el precio, con excepción de las emitidas por los contribuyentes señalados en la letra e) del artículo 16°, en las cuales se indicará separadamente el impuesto, previa autorización del Servicio de Impuestos Internos. Asimismo, en el caso de las boletas a que se refiere el inciso tercero del artículo 56°, el impuesto deberá indicarse separadamente.
+Las personas que realicen operaciones gravadas con el impuesto de la presente ley, con excepción del que afecta a las importaciones, deberán cargar a los compradores o beneficiarios del servicio, en su caso, una suma igual al monto del respectivo gravamen, aun cuando sean dichos compradores o beneficiarios, quienes, en conformidad con esta ley, deban enterar el tributo en arcas fiscales. El impuesto deberá indicarse separadamente en las facturas y boletas, salvo en aquellos casos en que la Dirección Nacional de Impuestos Internos autorice su inclusión.
 
 El recargo del impuesto se hará efectivo aun cuando los precios de los bienes y servicios hayan sido fijados por la autoridad, en virtud de disposiciones legales o reglamentarias.
 
 Con todo, el impuesto recargado no será considerado para los efectos de calcular otros recargos legales que puedan afectar al precio de las especies o servicios.
 
+> **Nota.** El numeral 4 del artículo 3 de la Ley 21256, publicada el 02.09.2020, modificó el inciso primero del artículo vigésimo noveno transitorio de la ley 21210, que establece la entrada en vigor de las modificaciones que dicha norma ordena en el presente artículo, en el sentido de que se reemplazó la frase "seis meses después de la publicación de la presente ley en el Diario Oficial" por "diez meses después de la entrada en vigencia de la presente ley".
+
 #### Artículo 70°
 
 En los casos en que una venta quede sin efecto por resolución, resciliación, nulidad u otra causa, el Servicio de Impuestos Internos, a petición del interesado, anulará la orden que haya girado, no aplicará el tributo correspondiente o procederá a su devolución, si hubiere sido ya ingresado en arcas fiscales.
 
-Lo establecido en el inciso anterior no tendrá aplicación cuando hubieren transcurrido más de tres meses entre la entrega y la devolución de las especies que hayan sido objeto del contrato, salvo en los casos en que la venta quede sin efecto por sentencia judicial. La devolución o no aplicación del impuesto a que se refiere el inciso primero deberá solicitarse dentro de los treinta días siguientes a la fecha en que la venta quede sin efecto.
+Lo establecido en el inciso anterior no tendrá aplicación cuando hubieren transcurrido más de seis meses entre la entrega y la devolución de las especies que hayan sido objeto del contrato, salvo en los casos en que la venta quede sin efecto por sentencia judicial. La devolución o no aplicación del impuesto a que se refiere el inciso primero deberá solicitarse dentro de los treinta días siguientes a la fecha en que la venta quede sin efecto.
 
 Lo dispuesto en este artículo no regirá respecto a los tributos establecidos en el Título II, artículo 40 y Párrafo 3° del Título III, caso en el cual habrá lugar a aplicar la norma del número 2° del artículo 21.
 
@@ -1249,6 +1309,62 @@ La mayor existencia de los productos a que se refieren las letras a), b) y c) de
 Las pérdidas en las existencias de productos gravados por esta ley, ocasionadas por caso fortuito o fuerza mayor, deberán ser comunicadas oportunamente por el afectado y constatadas por un funcionario del Servicio de Impuestos Internos designado al efecto.
 
 El Servicio de Impuestos Internos calificará las pérdidas por casos fortuitos o de fuerza mayor declaradas por el contribuyente para los efectos de autorizar la rebaja de dichas pérdidas en los libros de contabilidad exigidos y eximirlo del tributo respectivo.
+
+### Párrafo 6°
+
+Procedimiento general para solicitar la devolución o recuperación de los impuestos de esta ley
+
+#### Artículo 80°
+
+Los contribuyentes deberán solicitar la devolución o recuperación de los impuestos de que trata esta ley, en los casos en que ello sea procedente, conforme las reglas del presente párrafo.
+
+#### Artículo 81°
+
+Las solicitudes a que se refiere el artículo anterior se presentarán ante el Servicio de Impuestos Internos, en la forma que éste determine mediante resolución.
+
+Dentro de los cinco días siguientes a la presentación de la solicitud, el Servicio deberá, alternativamente:
+
+a) Autorizar o denegar, total o parcialmente, la devolución o recuperación solicitada, mediante resolución fundada; o
+
+b) Resolver fundadamente someter la solicitud, total o parcialmente, al procedimiento de fiscalización especial previa, establecido en el artículo 83°.
+
+El Servicio podrá realizar revisiones posteriores de las devoluciones autorizadas, de acuerdo con las normas del Código Tributario.
+
+Con todo, el Servicio podrá utilizar las facultades que le confieren los artículos 8° ter, 8° quáter y 59 bis del Código Tributario, y podrá denegar la devolución en la parte que corresponda a débitos fiscales no enterados efectivamente, sin perjuicio que proceda el crédito fiscal de acuerdo a esta ley.
+
+#### Artículo 82°
+
+El Servicio de Impuestos Internos deberá comunicar a la brevedad y por medios electrónicos al Servicio de Tesorería las decisiones que adopte respecto de las solicitudes presentadas, así como del inicio de alguna de las actuaciones a que se refiere el artículo siguiente.
+
+La devolución o recuperación de los impuestos que corresponda será efectuada por el Servicio de Tesorería, en el plazo máximo de cinco días contados desde la comunicación a que se refiere el inciso anterior.
+
+Si, vencido el plazo establecido en el artículo precedente el Servicio de Impuestos Internos no se pronunciare, se entenderá aprobada la solicitud y el Servicio de Tesorería procederá a materializar la devolución con el solo mérito de la solicitud presentada por el contribuyente.
+
+#### Artículo 83°
+
+El Servicio de Impuestos Internos podrá disponer una fiscalización especial previa de todo o parte de las operaciones que fundan la solicitud de devolución o recuperación del contribuyente cuyo plazo no será superior a 45 días, salvo en los casos a que se refieren las letras b) y d) del artículo 59 bis del Código Tributario.
+
+Sin perjuicio de lo anterior, para resolver una fiscalización especial previa sobre una petición de devolución a que se refiere el artículo 36, además de las circunstancias establecidas en las letras b) y d) del artículo 59 bis del Código Tributario, el Servicio podrá considerar las siguientes situaciones:
+
+i. Que el contribuyente se encuentre inconcurrente a una notificación del Servicio, relativa a la fiscalización del impuesto al valor agregado.
+
+ii. Que los débitos fiscales, créditos fiscales o impuestos que se solicita recuperar no guarden relación con la solicitud efectuada.
+
+iii. Que, en base a los antecedentes registrados en el Servicio, existan indicios fundados para estimar que los débitos fiscales, créditos fiscales o impuestos cuya devolución o recuperación se solicita no son reales o efectivos, o que hagan necesario efectuar constataciones previas antes de resolver la solicitud.
+
+iv. Se trate de contribuyentes en contra de los cuales el Servicio hubiere iniciado una investigación administrativa por delito tributario, se hubiere deducido acción penal o notificado denuncia por infracción sancionada con multa y pena corporal.
+
+Dentro del plazo de 5 días establecido en el artículo 81°, el Servicio deberá resolver si someterá la solicitud, total o parcialmente, al procedimiento de fiscalización especial previa establecido en este artículo. En caso que el Servicio resuelva que procederá dicho procedimiento, deberá notificar la resolución al contribuyente dentro de un plazo de 10 días, contado desde que se recibió la solicitud, requiriendo los antecedentes que estime necesarios para realizar una fiscalización. El contribuyente deberá acompañar dichos antecedentes mediante un expediente electrónico que se habilite por el Servicio, dentro del plazo de 10 días desde recibida la notificación. Si el contribuyente no aportare los antecedentes requeridos dentro de plazo, la solicitud se tendrá por no presentada.
+
+Dentro del plazo de 25 días contado desde que se reciban la totalidad de los antecedentes requeridos, el Servicio deberá resolver si autoriza o deniega, en ambos casos total o parcialmente, la solicitud. En caso que sea procedente, el Servicio podrá emitir una citación, liquidación o giro, de acuerdo a las normas establecidas en el Código Tributario.
+
+#### Artículo 84°
+
+Lo dispuesto en el presente párrafo es sin perjuicio de las actuaciones de fiscalización que, conforme a sus atribuciones legales, pueda efectuar o deducir el Servicio dentro de los plazos de prescripción.
+
+#### Artículo 85°
+
+Salvo disposición en contrario, el contribuyente que perciba una cantidad mayor a la que en derecho corresponda deberá reintegrar la parte indebidamente percibida, reajustada previamente conforme al inciso primero del artículo 53 del Código Tributario, sin perjuicio de los intereses y sanciones respectivos, procediendo el giro inmediato y sin trámite previo, respecto de sumas registradas de los documentos tributarios electrónicos emitidos y recibidos o sumas contabilizadas, como también por las cantidades que hubieren sido devueltas o imputadas y en relación con las cuales se haya interpuesto acción penal por delito tributario.
 
 ## Título VI
 
