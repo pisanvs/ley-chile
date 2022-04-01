@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.695, de fecha 25 de octubre de 2021, se ordenó la expropiación, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 8203-22, correspondiente al inmueble ubicado en calle Reloj de Sol 3637, Depto. 32, Rol de avalúo 8203-22, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Sáez Charrier, Matilde Inés, con una superficie aproximada de 42,98 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Marta Brunet del sector Bajos de Mena". La Comisión de Peritos, integrada por los señores Carmen Ríos Marcuello, Ingeniero Civil; Juan Roberto Honorato Errázuriz, Ingeniero Civil, y Carolina Claudia Verdejo Díaz, Ingeniero Agrónomo, mediante informe de fecha 10 de septiembre de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $23.185.335.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
