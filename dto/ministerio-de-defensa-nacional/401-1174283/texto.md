@@ -1,0 +1,7 @@
+TRANSFERENCIA DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 401 de 24 de septiembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, correspondiente al SIABC N° 46.155, se autorizó transferencia de concesión marítima menor a Guerrero SpA, RUT N° 77.093.176-2, otorgada mediante decreto supremo N° 295 de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, sobre un sector de playa, con el objeto de continuar amparando la construcción existente de un local comercial denominado Restaurant "Entremar" con una superficie total de 318,90 Mts.², y que se encuentra ubicado en el lugar denominado Av. Del Mar, Bahía de Coquimbo, comuna de La Serena, Provincia de Elqui, Región de Coquimbo, con vencimiento al 30 de junio de 2027. Las obras existentes corresponden a una mejora particular y la concesión abarca una superficie total de 318,90 Mts.².
+
+Los antecedentes del decreto referido se encuentran a disposición del público en la Capitanía Puerto de Coquimbo. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Coquimbo, 9 de marzo de 2022.- Manuel Hidalgo Alfaro, Teniente 1° LT, Capitán de Puerto de Coquimbo, Subrogante.
