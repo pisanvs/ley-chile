@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº23, de 02 de marzo de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, artículo 14º de la Ley Nº21.082, de 2018, se expropió para la Empresa Fondo de Infraestructura S.A. el lote de terreno Nº 1, para la obra: TERMINALES DEL SISTEMA DE TRANSPORTE PUBLICO METROPOLITANO (RED), TERMINAL DE BUSES LO BLANCO, que figura a nombre de FANEADORA DE CARNES RV LTDA, rol de avalúo 7089-53, Comuna de LA PINTANA, REGION METROPOLITANA DE SANTIAGO, superficie 10.000 m2. La Comisión de Peritos integrada por RODRIGO ALEXIS ESCOBAR FERNANDEZ, MONICA DEL CARMEN CONEJEROS RUDLOFF y VICTOR EDUARDO ARAYA MADARIAGA, mediante informe de tasación de 07 de diciembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.096.440.000 para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
