@@ -34,7 +34,9 @@ INSPECCIÓN PROVINCIAL DEL TRABAJO DE IQUIQUE
 
 Ciudad : Iquique
 
-Jurisdicción : Iquique, Huara, Camiña, Colchane,
+Jurisdicción : Iquique, Huara,
+
+Camiña, Colchane,
 
 Pica
 
@@ -62,7 +64,9 @@ Inspección Provincial del Trabajo de Antofagasta
 
 Ciudad : Antofagasta
 
-Jurisdicción : Antofagasta, Sierra Gorda, Mejillones,
+Jurisdicción : Antofagasta, Sierra
+
+Gorda, Mejillones,
 
 Taltal
 
@@ -72,7 +76,9 @@ Inspección Provincial del Trabajo de El Loa
 
 Ciudad : Calama
 
-Jurisdicción : Calama, San Pedro de Atacama, Ollagüe
+Jurisdicción : Calama, San Pedro de Atacama,
+
+Ollagüe
 
 Mod. atención : Permanente
 
@@ -114,7 +120,9 @@ Inspección Provincial del Trabajo de Copiapó
 
 Ciudad : Copiapó
 
-Jurisdicción : Copiapó, Tierra Amarilla, Caldera
+Jurisdicción : Copiapó, Tierra Amarilla,
+
+Caldera
 
 Mod. atención : Permanente
 
@@ -130,9 +138,11 @@ Inspección Provincial del Trabajo de Huasco
 
 Ciudad : Vallenar
 
-Jurisdicción : Vallenar, Alto del Carmen, Huasco,
+Jurisdicción : Vallenar,
 
-Freirina
+Alto del Carmen,
+
+Huasco, Freirina
 
 Mod. atención : Permanente
 
@@ -174,7 +184,9 @@ Inspección Provincial del Trabajo de Limarí
 
 Ciudad : Ovalle
 
-Jurisdicción : Ovalle, Río Hurtado, Combarbalá, Monte
+Jurisdicción : Ovalle, Río Hurtado,
+
+Combarbalá, Monte
 
 Patria, Punitaqui
 
@@ -184,7 +196,9 @@ Inspección Provincial del Trabajo de Choapa
 
 Ciudad : Illapel
 
-Jurisdicción : Illapel, Salamanca, Los Vilos, Canela
+Jurisdicción : Illapel, Salamanca,
+
+Los Vilos, Canela
 
 Mod. atención : Permanente
 
@@ -234,7 +248,11 @@ Inspección Provincial del Trabajo de Valparaíso
 
 Ciudad : Valparaíso
 
-Jurisdicción : Valparaíso, Juan Fernández, Isla de Pascua
+Jurisdicción : Valparaíso,
+
+Juan Fernández,
+
+Isla de Pascua
 
 Mod. atención : Permanente
 
@@ -242,7 +260,9 @@ Inspección Provincial del Trabajo de Rapa Nui
 
 Comuna : Isla de Pascua.
 
-Jurisdicción : Sector Insular de la Región de Valparaíso.
+Jurisdicción : Sector Insular de la Región de
+
+Valparaíso.
 
 Mod. atención : Permanente.
 
@@ -250,9 +270,13 @@ Inspección Provincial del Trabajo de San Felipe
 
 Ciudad : San Felipe
 
-Jurisdicción : San Felipe, Putaendo, Santa María,
+Jurisdicción : San Felipe, Putaendo,
 
-Panquehue, Llaillay, Catemu
+Santa María,
+
+Panquehue, Llaillay,
+
+Catemu
 
 Mod. atención : Permanente
 
@@ -260,9 +284,11 @@ Inspección Provincial del Trabajo de Quillota
 
 Ciudad : Quillota
 
-Jurisdicción : Quillota, La Cruz, La Calera, Nogales,
+Jurisdicción : Quillota, La Cruz,
 
-Hijuelas
+La Calera,
+
+Nogales, Hijuelas
 
 Mod. atención : Permanente
 
@@ -270,9 +296,13 @@ Inspección Provincial del Trabajo de San Antonio
 
 Ciudad : San Antonio
 
-Jurisdicción : San Antonio, Cartagena, El Tabo, El
+Jurisdicción : San Antonio, Cartagena,
 
-Quisco, Algarrobo, Santo Domingo
+El Tabo, El Quisco,
+
+Algarrobo, Santo
+
+Domingo
 
 Mod. atención : Permanente
 
@@ -280,7 +310,9 @@ Inspección Provincial del Trabajo de Los Andes
 
 Ciudad : Los Andes
 
-Jurisdicción : Los Andes, San Esteban, Calle Larga,
+Jurisdicción : Los Andes, San Esteban,
+
+Calle Larga,
 
 Rinconada de Los Andes
 
@@ -290,7 +322,9 @@ Inspección Provincial del Trabajo de Petorca
 
 Ciudad : La Ligua
 
-Jurisdicción : Petorca, La Ligua, Cabildo, Zapallar,
+Jurisdicción : Petorca, La Ligua,
+
+Cabildo, Zapallar,
 
 Papudo
 
@@ -300,7 +334,9 @@ Inspección Comunal del Trabajo de Viña del Mar
 
 Ciudad : Viña del Mar
 
-Jurisdicción : Viña del Mar, Concón, Quintero, Puchuncaví
+Jurisdicción : Viña del Mar, Concón,
+
+Quintero, Puchuncaví
 
 Mod. atención : Permanente
 
@@ -308,7 +344,9 @@ Inspección Provincial del Trabajo de Marga Marga
 
 Ciudad : Quilpué
 
-Jurisdicción : Quilpué, Villa Alemana, Limache, Olmué
+Jurisdicción : Quilpué, Villa Alemana,
+
+Limache, Olmué
 
 Mod. atención : Permanente
 
@@ -342,7 +380,17 @@ Ciudad : Valparaíso
 
 Jurisdicción
 
-Conciliación : Concón, Quintero, Puchuncaví, Isla de Pascua, Juan Fernández, Valparaíso, Viña del Mar.
+Conciliación : Concón, Quintero,
+
+Puchuncaví,
+
+Isla de Pascua,
+
+Juan Fernández,
+
+Valparaíso,
+
+Viña del Mar.
 
 Mediación : Todas las comunas de la región.
 
@@ -354,9 +402,13 @@ Inspección Provincial del Trabajo de Rancagua
 
 Ciudad : Rancagua
 
-Jurisdicción : Rancagua, San Francisco de Mostazal,
+Jurisdicción : Rancagua, San Francisco
 
-Codegua, Machalí, Olivar, Coltauco, Coínco
+de Mostazal, Codegua,
+
+Machalí, Olivar,
+
+Coltauco, Coínco
 
 y Doñihue
 
@@ -366,9 +418,9 @@ Inspección Provincial del Trabajo de Colchagua
 
 Ciudad : San Fernando
 
-Jurisdicción : San Fernando, Chimbarongo, Placilla,
+Jurisdicción : San Fernando, Chimbarongo,
 
-Nancagua
+Placilla, Nancagua
 
 Mod. atención : Permanente
 
@@ -376,7 +428,9 @@ Inspección Provincial del Trabajo de Cardenal Caro
 
 Ciudad : Pichilemu
 
-Jurisdicción : Pichilemu, Navidad, Litueche, La Estrella,
+Jurisdicción : Pichilemu, Navidad,
+
+Litueche, La Estrella,
 
 Marchigüe, Paredones
 
@@ -386,15 +440,21 @@ Inspección Comunal del Trabajo de Rengo
 
 Ciudad : Rengo
 
-Jurisdicción : Rengo, Malloa, Quinta de Tilcoco, Requínoa
+Jurisdicción : Rengo, Malloa, Quinta
+
+de Tilcoco, Requínoa
 
 Mod. atención : Permanente
 
-Inspección Comunal del Trabajo de San Vicente de Tagua Tagua
+Inspección Comunal del Trabajo de San Vicente de
+
+Tagua Tagua
 
 Ciudad : San Vicente de Tagua Tagua
 
-Jurisdicción : San Vicente, Pichidegua, Peumo
+Jurisdicción : San Vicente, Pichidegua,
+
+Peumo
 
 Mod. atención : Permanente
 
@@ -402,9 +462,11 @@ Inspección Comunal del Trabajo de Santa Cruz
 
 Ciudad : Santa Cruz
 
-Jurisdicción : Santa Cruz, Lolol, Chépica, Pumanque,
+Jurisdicción : Santa Cruz, Lolol, Chépica,
 
-Palmilla y Peralillo
+Pumanque, Palmilla y
+
+Peralillo
 
 Mod. atención : Permanente
 
@@ -430,9 +492,11 @@ Inspección Provincial del Trabajo de Talca
 
 Ciudad : Talca
 
-Jurisdicción : Talca, Pelarco, Río Claro, San Clemente,
+Jurisdicción : Talca, Pelarco, Río Claro,
 
-San Rafael, Curepto, Pencahue, Maule
+San Clemente, San Rafael,
+
+Curepto, Pencahue, Maule
 
 Mod. atención : Permanente
 
@@ -440,7 +504,9 @@ Inspección Provincial del Trabajo de Curicó
 
 Ciudad : Curicó
 
-Jurisdicción : Curicó, Teno, Romeral, Hualañé, Licantén,
+Jurisdicción : Curicó, Teno, Romeral,
+
+Hualañé, Licantén,
 
 Vichuquén, Rauco
 
@@ -450,7 +516,9 @@ Inspección Provincial del Trabajo de Linares
 
 Ciudad : Linares
 
-Jurisdicción : Linares, Yerbas Buenas, Colbún, Longaví
+Jurisdicción : Linares, Yerbas Buenas,
+
+Colbún, Longaví
 
 Mod. atención : Permanente
 
@@ -500,9 +568,13 @@ Inspección Provincial del Trabajo de Concepción
 
 Ciudad : Concepción
 
-Jurisdicción : Concepción, Hualqui, Chiguayante, San
+Jurisdicción : Concepción, Hualqui,
 
-Pedro de la Paz, Florida, Penco
+Chiguayante,
+
+San Pedro de la Paz,
+
+Florida, Penco
 
 Mod. atención : Permanente
 
@@ -514,11 +586,17 @@ Inspección Provincial del Trabajo de Biobío
 
 Ciudad : Los Ángeles
 
-Jurisdicción : Los Ángeles, Cabrero, Tucapel, Antuco,
+Jurisdicción : Los Ángeles, Cabrero,
 
-Quilleco, Santa Bárbara, Quilaco, Mulchén,
+Tucapel, Antuco,
 
-Negrete, Nacimiento, Laja, San Rosendo,
+Quilleco, Santa Bárbara,
+
+Quilaco, Mulchén,
+
+Negrete, Nacimiento,
+
+Laja, San Rosendo,
 
 Alto Biobío, Yumbel
 
@@ -528,7 +606,9 @@ Inspección Provincial del Trabajo de Arauco
 
 Ciudad : Lebu
 
-Jurisdicción : Lebu, Los Álamos, Cañete, Contulmo, Tirúa
+Jurisdicción : Lebu, Los Álamos, Cañete,
+
+Contulmo, Tirúa
 
 Mod. atención : Permanente
 
@@ -600,7 +680,13 @@ Ciudad : Concepción
 
 Jurisdicción
 
-Conciliación : Chiguayante, Concepción, Florida, Hualpén, Hualqui, San Pedro de la Paz, Talcahuano.
+Conciliación : Chiguayante, Concepción,
+
+Florida, Hualpén,
+
+Hualqui, San Pedro de
+
+la Paz, Talcahuano.
 
 Mediación : Todas las comunas de la región.
 
@@ -612,9 +698,13 @@ Inspección Provincial del Trabajo de Temuco
 
 Ciudad : Temuco
 
-Jurisdicción : Temuco, Vilcún, Melipeuco, Cunco, Nueva
+Jurisdicción : Temuco, Vilcún, Melipeuco,
 
-Imperial, Pto. Saavedra, Padre Las Casas,
+Cunco, Nueva Imperial,
+
+Pto. Saavedra,
+
+Padre Las Casas,
 
 Cholchol y Carahue
 
@@ -624,9 +714,11 @@ Inspección Provincial del Trabajo de Malleco
 
 Ciudad : Angol
 
-Jurisdicción : Angol, Los Sauces, Purén, Renaico,
+Jurisdicción : Angol, Los Sauces, Purén,
 
-Traiguén, Lumaco, Collipulli, Ercilla
+Renaico, Traiguén, Lumaco,
+
+Collipulli, Ercilla
 
 Mod. atención : Permanente
 
@@ -634,7 +726,9 @@ Inspección Comunal del Trabajo de Victoria
 
 Ciudad : Victoria
 
-Jurisdicción : Victoria, Curacautín, Lonquimay
+Jurisdicción : Victoria, Curacautín,
+
+Lonquimay
 
 Mod. atención : Permanente
 
@@ -650,7 +744,9 @@ Inspección Comunal del Trabajo de Villarrica
 
 Ciudad : Villarrica
 
-Jurisdicción : Villarrica, Pucón, Curarrehue
+Jurisdicción : Villarrica, Pucón,
+
+Curarrehue
 
 Mod. atención : Permanente
 
@@ -658,9 +754,11 @@ Inspección Comunal del Trabajo de Pitrufquén
 
 Ciudad : Pitrufquén
 
-Jurisdicción : Teodoro Schmidt, Toltén, Pitrufquén,
+Jurisdicción : Teodoro Schmidt, Toltén,
 
-Gorbea, Freire
+Pitrufquén, Gorbea,
+
+Freire
 
 Mod. atención : Permanente
 
@@ -668,7 +766,9 @@ Inspección Comunal del Trabajo de Lautaro
 
 Ciudad : Lautaro
 
-Jurisdicción : Lautaro, Perquenco, Galvarino
+Jurisdicción : Lautaro, Perquenco,
+
+Galvarino
 
 Mod. atención : Permanente
 
@@ -702,7 +802,17 @@ Ciudad : Temuco
 
 Jurisdicción
 
-Conciliación : Carahue, Cholchol, Cunco, Melipeuco, Nueva Imperial, Padre Las Casas, Puerto Saavedra, Temuco, Vilcún.
+Conciliación : Carahue, Cholchol,
+
+Cunco, Melipeuco,
+
+Nueva Imperial,
+
+Padre Las Casas,
+
+Puerto Saavedra,
+
+Temuco, Vilcún.
 
 Mediación. Todas las comunas de la región.
 
@@ -714,7 +824,9 @@ Inspección Provincial del Trabajo de Puerto Montt
 
 Ciudad : Puerto Montt
 
-Jurisdicción : Puerto Montt, Calbuco, Maullín, Hualaihué
+Jurisdicción : Puerto Montt, Calbuco,
+
+Maullín, Hualaihué
 
 Mod. atención : Permanente
 
@@ -722,9 +834,13 @@ Inspección Provincial del Trabajo de Osorno
 
 Ciudad : Osorno
 
-Jurisdicción : Osorno, San Pablo, Puerto Octay,
+Jurisdicción : Osorno, San Pablo,
 
-Purranque, Río Negro, San Juan de la
+Puerto Octay,
+
+Purranque, Río Negro,
+
+San Juan de la
 
 Costa, Puyehue
 
@@ -750,9 +866,13 @@ Inspección Provincial del Trabajo de Chiloé
 
 Ciudad : Castro
 
-Jurisdicción : Castro, Dalcahue, Curaco de Vélez,
+Jurisdicción : Castro, Dalcahue,
 
-Quinchao, Puqueldón, Chonchi, Queilén
+Curaco de Vélez,
+
+Quinchao, Puqueldón,
+
+Chonchi, Queilén
 
 Mod. atención : Permanente
 
@@ -760,9 +880,11 @@ Inspección Comunal del Trabajo de Puerto Varas
 
 Ciudad : Puerto Varas
 
-Jurisdicción : Puerto Varas, Los Muermos, Fresia,
+Jurisdicción : Puerto Varas, Los Muermos,
 
-Llanquihue, Frutillar, Cochamó
+Fresia, Llanquihue,
+
+Frutillar, Cochamó
 
 Mod. atención : Permanente
 
@@ -804,9 +926,13 @@ Inspección Provincial del Trabajo de Coyhaique
 
 Ciudad : Coyhaique
 
-Jurisdicción : Coyhaique, Chile Chico, Río Ibáñez,
+Jurisdicción : Coyhaique, Chile Chico,
 
-Cochrane, Villa O'Higgins, Tortel
+Río Ibáñez,
+
+Cochrane, Villa O'Higgins,
+
+Tortel
 
 Mod. atención : Permanente
 
@@ -822,9 +948,9 @@ Inspección Comunal del Trabajo de Cisnes
 
 Ciudad : Puerto Cisnes
 
-Jurisdicción : Puerto Cisnes, Lago Verde, Guaitecas
+Jurisdicción : Puerto Cisnes, Lago Verde,
 
-(Melinka)
+Guaitecas(Melinka)
 
 Mod. atención : Permanente
 
@@ -858,9 +984,9 @@ Inspección Provincial del Trabajo de Magallanes
 
 Ciudad : Punta Arenas
 
-Jurisdicción : Punta Arenas, Río Verde, Laguna Blanca,
+Jurisdicción : Punta Arenas, Río Verde,
 
-San Gregorio
+Laguna Blanca, San Gregorio
 
 Mod. atención : Permanente
 
@@ -908,11 +1034,11 @@ Inspección Comunal del Trabajo Santiago Sur
 
 Ciudad : Santiago
 
-Jurisdicción : La Cisterna, Lo Espejo, San Ramón, San
+Jurisdicción : La Cisterna, Lo Espejo, San Ramón,
 
-Miguel, San Joaquín, La Granja, Pedro
+San Miguel, San Joaquín,
 
-Aguirre Cerda
+Pedro Aguirre Cerda.
 
 Mod. atención : Permanente
 
@@ -920,7 +1046,9 @@ Inspección Provincial del Trabajo de Cordillera
 
 Ciudad : Puente Alto
 
-Jurisdicción : Puente Alto, Pirque, San José de Maipo
+Jurisdicción : Puente Alto, Pirque,
+
+San José de Maipo
 
 Mod. atención : Permanente
 
@@ -936,7 +1064,19 @@ Inspección Comunal del Trabajo Santiago Sur Oriente
 
 Ciudad : Santiago
 
-Jurisdicción : Ñuñoa, Macul, Peñalolén, La Reina
+Jurisdicción : Ñuñoa, Peñalolén, La Reina
+
+Modalidad de
+
+atención : Permanente
+
+Inspección Comunal del Trabajo Santiago Sur Oriente
+
+Ciudad : Santiago
+
+Jurisdicción : Ñuñoa, Macul,
+
+Peñalolén, La Reina
 
 Mod. atención : Permanente
 
@@ -952,11 +1092,27 @@ Inspección Provincial del Trabajo de Maipo
 
 Ciudad : San Bernardo
 
-Jurisdicción : San Bernardo, Calera de Tango, El Bosque,
+Jurisdicción : San Bernardo,
+
+Calera de Tango,
+
+El Bosque,
 
 La Pintana
 
 Mod. atención : Permanente
+
+Inspección Comunal del Trabajo de La Florida
+
+Ciudad : Santiago
+
+Jurisdicción : La Florida, Macul,
+
+La Granja
+
+Modalidad de
+
+atención : Permanente
 
 Inspección Comunal del Trabajo de La Florida
 
@@ -970,7 +1126,9 @@ Inspección Comunal del Trabajo Santiago Oriente
 
 Ciudad : Santiago
 
-Jurisdicción : Las Condes, Vitacura, Lo Barnechea
+Jurisdicción : Las Condes, Vitacura,
+
+Lo Barnechea
 
 Mod. atención : Permanente
 
@@ -980,11 +1138,19 @@ Ciudad : Santiago
 
 Jurisdicción
 
-Conciliación : La Reina, Las Condes, Lo Barnechea, Macul, La Florida, Ñuñoa,
+Conciliación : La Reina, Las Condes,
 
-Peñalolén, Providencia, Vitacura.
+Lo Barnechea,
 
-Mediación : Todas las comunas de la Región Metropolitana Oriente.
+Macul, La Florida,
+
+Ñuñoa, Peñalolén,
+
+Providencia, Vitacura.
+
+Mediación : Todas las comunas de la Región Metropolitana
+
+Oriente.
 
 Mod. atención : Permanente.
 
@@ -1002,9 +1168,11 @@ Inspección Provincial del Trabajo de Talagante
 
 Ciudad : Talagante
 
-Jurisdicción : Talagante, Peñaflor, El Monte, Isla de
+Jurisdicción : Talagante, Peñaflor,
 
-Maipo, Padre Hurtado
+El Monte, Isla de Maipo,
+
+Padre Hurtado
 
 Mod. atención : Permanente
 
@@ -1012,7 +1180,11 @@ Inspección Provincial del Trabajo de Melipilla
 
 Ciudad : Melipilla
 
-Jurisdicción : Melipilla, Alhué, María Pinto, Curacaví,
+Jurisdicción : Melipilla, Alhué,
+
+María Pinto,
+
+Curacaví,
 
 San Pedro
 
@@ -1022,7 +1194,9 @@ Inspección Comunal del Trabajo Santiago Norte
 
 Ciudad : Santiago
 
-Jurisdicción : Independencia, Renca, Conchalí, Recoleta,
+Jurisdicción : Independencia, Renca,
+
+Conchalí, Recoleta,
 
 Huechuraba
 
@@ -1040,9 +1214,13 @@ Inspección Comunal del Trabajo Santiago Poniente
 
 Ciudad : Santiago
 
-Jurisdicción : Quinta Normal, Lo Prado, Cerro Navia,
+Jurisdicción : Quinta Normal, Lo Prado,
 
-Pudahuel, Estación Central
+Cerro Navia,
+
+Pudahuel,
+
+Estación Central
 
 Mod. atención : Permanente
 
@@ -1050,7 +1228,9 @@ Inspección Comunal del Trabajo Norte-Chacabuco
 
 Ciudad : Santiago
 
-Jurisdicción : Quilicura, Lampa, Colina, Tiltil
+Jurisdicción : Quilicura, Lampa,
+
+Colina, Tiltil
 
 Mod. atención : Permanente
 
@@ -1068,13 +1248,25 @@ Ciudad : Santiago
 
 Jurisdicción
 
-Conciliación : Cerro Navia, Colina, Conchalí, Estación Central, Huechuraba,
+Conciliación : Cerro Navia, Colina,
 
-Independencia, Lampa, Lo Prado, Pudahuel, Quilicura, Quinta
+Conchalí, Estación
 
-Normal, Recoleta, Renca, Santiago, Tiltil.
+Central, Huechuraba,
 
-Mediación : Todas las comunas de la Región Metropolitana Poniente.
+Independencia, Lampa,
+
+Lo Prado, Pudahuel,
+
+Quilicura, Quinta
+
+Normal, Recoleta, Renca,
+
+Santiago, Tiltil.
+
+Mediación : Todas las comunas de la Región
+
+Metropolitana Poniente.
 
 Mod. atención : Permanente.
 
@@ -1084,7 +1276,9 @@ Inspección Provincial del Trabajo de Valdivia
 
 Ciudad : Valdivia
 
-Jurisdicción : Valdivia, Corral, Máfil, Los Lagos,
+Jurisdicción : Valdivia, Corral,
+
+Máfil, Los Lagos,
 
 Futrono, Paillaco
 
@@ -1094,7 +1288,9 @@ Inspección Provincial del Trabajo del Ranco
 
 Ciudad : La Unión
 
-Jurisdicción : La Unión, Río Bueno, Lago Ranco
+Jurisdicción : La Unión, Río Bueno,
+
+Lago Ranco
 
 Mod. atención : Permanente
 
@@ -1102,9 +1298,9 @@ Inspección Provincial del Trabajo de Lanco
 
 Ciudad : Lanco
 
-Jurisdicción : Lanco, San José de la Mariquina,
+Jurisdicción : Lanco, San José de la
 
-Panguipulli
+Mariquina, Panguipulli
 
 Mod. atención : Permanente
 
@@ -1124,13 +1320,29 @@ Jurisdicción : Panguipulli
 
 Mod. atención : Permanente
 
+Inspección comunal del Trabajo
+
+de Futrono (i), dependiente de la
+
+Inspección Provincial del Ranco:
+
+Comuna : Futrono
+
+Localidad : Futrono
+
+Jurisdicción : Futrono
+
+Mod. Atención : Intermitente.
+
 XV REGIÓN DE ARICA Y PARINACOTA
 
 Inspección Provincial del Trabajo de Arica
 
 Ciudad : Arica
 
-Jurisdicción : Arica, Camarones, Putre, General Lagos
+Jurisdicción : Arica, Camarones,
+
+Putre, General Lagos
 
 Mod. atención : Permanente
 
@@ -1148,15 +1360,21 @@ Inspección Provincial del Trabajo de Ñuble
 
 Ciudad : Chillán.
 
-Jurisdicción : Chillán, Coihueco, Coelemu, Pinto, San Ignacio,
+Jurisdicción : Chillán, Coihueco, Coelemu, Pinto,
 
-El Carmen, Pemuco,Yungay, Bulnes, Quillón,
+San Ignacio, El Carmen,
 
-Ránquil, Portezuelo, Treguaco, Cobquecura,
+Pemuco,Yungay, Bulnes,
 
-Quirihue, Ninhue, Chillán Viejo y San
+Quillón, Ránquil,
 
-Nicolás.
+Portezuelo, Treguaco,
+
+Cobquecura, Quirihue,
+
+Ninhue, Chillán Viejo
+
+y San Nicolás.
 
 Mod. atención : Permanente.
 
@@ -1164,7 +1382,9 @@ Inspección Comunal del Trabajo de San Carlos
 
 Ciudad : San Carlos.
 
-Jurisdicción : San Carlos, Ñiquén, San Fabián.
+Jurisdicción : San Carlos, Ñiquén,
+
+San Fabián.
 
 Mod. atención : Permanente.
 
