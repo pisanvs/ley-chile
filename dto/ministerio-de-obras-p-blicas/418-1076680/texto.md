@@ -34,7 +34,7 @@ NCh 3202-2010 Instalaciones domiciliarias de agua potable - Instalación de sist
 
 NCh 2313/28-2009 Aguas residuales - Métodos de análisis - Parte 28: Determinación de nitrógeno Kjeldahl - Método potenciométrico con digestión previa.
 
-NCh 1105-2009 Ingeniería sanitaria - Alcantarillado de aguas residuales - Diseño y cálculo de redes.
+NCh 1105-2009 Derogada.
 
 NCh 2313/15-2009 Aguas residuales - Métodos de análisis - Parte 15: Determinación de fósforo total.
 
