@@ -20,6 +20,22 @@ El total de aportes para gastos de administración corresponde al 0,16% de los b
 
 5.- El Presupuesto del Fondo Único de Prestaciones Familiares y Subsidios de Cesantía y su Anexo, para el ejercicio del año 2021, serán los siguientes:
 
+.
+
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, María José Zaldívar Larraín, Ministra del Trabajo y Previsión Social.- Ignacio Briones Rojas, Ministro de Hacienda.
 
 Lo que transcribo a usted para su conocimiento.- Pedro Pizarro Cañas, Subsecretario de Previsión Social.
+
+.
+
+PRESUPUESTO DE GASTO DEL SISTEMA DE SUBSIDIOS DE CESANTÍA PARA LA DETERMINACIÓN DEL ANEXO AÑO 2021
+
+(miles de pesos)
+
+.
+
+PRESUPUESTO DEL GASTO DEL SISTEMA DE SUBSIDIOS MATERNALES PARA LA DETERMINACIÓN DEL ANEXO 2021
+
+(miles de pesos)
+
+.
