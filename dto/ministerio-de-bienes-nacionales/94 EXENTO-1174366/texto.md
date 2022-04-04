@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "AGRUPACIÓN DE MUJERES CUMPLIR SUEÑOS TRAZADOS ANTOFAGASTA"
+
+Mediante decreto exento Nº E-94, de 10 de marzo de 2022, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa, a "Agrupación de Mujeres Cumplir Sueños Trazados Antofagasta", RUT Nº 65.022.288-1, el inmueble fiscal ubicado en Ruta 1 con calle 3-A, Nº 14735, Sector Norte de la ciudad de Antofagasta, La Portada, comuna y provincia de Antofagasta, Región de Antofagasta; enrolado en el Servicio de Impuestos Internos con el Nº 17011-1; inscrito a nombre del Fisco a fs. 3509 vta. Nº 3776 del Registro de Propiedad del Conservador de Bienes Raíces de Antofagasta, correspondiente al año 2014; singularizado en el Plano Nº 02101-9.136-C.U.; con una superficie de 7.893,32 m2. La Concesión se otorga por un plazo de 20 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión será de UF 1068.
+
+La Concesión se otorga para destinar el inmueble al desarrollo de un proyecto productivo consistente en la construcción de un Centro Comercial (locales de venta al detalle tipo mercado o feria), que contempla 40 locales, además de baños, camarines, cocina, áreas administrativas y sala multiuso, el que deberá ejecutarse dentro del plazo de cinco años, contado desde la fecha de suscripción del contrato de concesión. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+María José Armisén Yáñez, Jefa de División Jurídica.
