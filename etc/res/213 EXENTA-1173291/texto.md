@@ -34,11 +34,19 @@ Resolución:
 
 1º Apruébase la nómina de los seis proyectos habitacionales elegibles, presentados al llamado a postulación en condiciones especiales para proyectos del Programa de Integración Social y Territorial, en dos terrenos de propiedad del Serviu Metropolitano, ubicados en Ciudad Parque Bicentenario de la comuna de Cerrillos, dispuesto por el Resuelvo 1., de la resolución exenta Nº 843, de fecha 19 de julio de 2021, de esta Secretaría Ministerial y su modificación. Los puntajes obtenidos por los seis proyectos elegibles en el proceso de evaluación realizado por la Comisión Evaluadora, se detallan en el siguiente cuadro:
 
+.
+
 2º Selecciónese el proyecto habitacional del Programa de Integración Social y Territorial elegible denominado "Condominio Viento Norte", Código de Proyecto Nº 168975 presentado por la Entidad Desarrolladora "Vías Gestión y Asesorías SpA", a desarrollarse en el Macro Lote F2, de Ciudad Parque Bicentenario de la comuna de Cerrillos, por haber obtenido el puntaje ponderado más alto entre los tres proyectos elegibles presentados en el respectivo terreno, y por cumplir con todos los requisitos y las condiciones establecidas en la resolución exenta que llamó al Concurso.
+
+.
 
 3º Selecciónese el proyecto habitacional del Programa de Integración Social y Territorial elegible denominado "Condominio Viento Sur", Código de Proyecto Nº 168976 presentado por la Entidad Desarrolladora "Vías Gestión y Asesorías SpA", a desarrollarse en el Macro Lote F3, de la Ciudad Parque Bicentenario de la comuna de Cerrillos, por haber obtenido el puntaje ponderado más alto entre los tres proyectos elegibles presentados en el respectivo terreno, y por cumplir con todos los requisitos y las condiciones establecidas en la resolución exenta que llamó al Concurso.
 
+.
+
 4º Dispóngase una lista de espera, con los cuatro proyectos señalados en la siguiente tabla, por obtener un puntaje final ponderado menor que los proyectos seleccionados y por cumplir con los requisitos obligatorios señalados en el llamado. La vigencia de dicha lista de espera será de 180 días a partir de la total tramitación de la presente resolución exenta. Posteriormente, ambos proyectos serán eliminados del concurso definitivamente.
+
+.
 
 5º Recházase dos proyectos presentados por las Entidades Desarrolladoras singularizadas en la siguiente nómina:
 
