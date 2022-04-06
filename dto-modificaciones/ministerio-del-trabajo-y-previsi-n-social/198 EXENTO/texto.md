@@ -58,7 +58,7 @@ Además, el Jefe del Servicio de Bienestar integrará el Consejo Administrativo 
 
 #### Artículo 5º
 
-Los dos representantes electos de los afiliados serán escogidos por votación directa, secreta y en un solo acto. Cada afiliado tendrá derecho a votar por un solo candidato, en caso que haya hasta cinco candidatos; y por dos candidatos en caso que haya más de cinco. Serán elegidos como representantes titulares, los candidatos que obtengan las dos más altas mayorías.
+Los dos representantes electos de los afiliados serán escogidos por votación directa, secreta y en un solo acto. Serán elegidos como representantes titulares, los candidatos que obtengan las dos más altas mayorías. Cada afiliado tendrá derecho a votar por un solo candidato
 
 Se entenderán elegidos suplentes y reemplazarán a los titulares de acuerdo al orden de precedencia que hubieren obtenido en la votación, los candidatos que tengan la tercera y cuarta mayoría.
 
@@ -194,7 +194,7 @@ El Servicio de Bienestar podrá conceder, cuando sus recursos presupuestarios lo
 
 a) Matrimonio: Se concederá una ayuda a cada afiliado que contraiga matrimonio. Si ambos contrayentes son afiliados al Servicio se concederá este beneficio a cada uno en forma independiente.
 
-b) Nacimiento: Se otorgará una ayuda por el nacimiento de cada hijo. Si ambos padres son afiliados al Servicio, cada uno tendrá derecho a este beneficio en forma independiente.
+b) Nacimiento o Adopción: Se otorgará una ayuda por el nacimiento o adopción de cada hijo. Si ambos padres son afiliados al Servicio, cada uno tendrá derecho a este beneficio en forma independiente. En caso de nacimientos o adopciones múltiples, se otorgarán tantas ayudas, como hijos nazcan o adopten. En el caso de la adopción, la ayuda podrá solicitarse una vez que se haya otorgado la tuición para la adopción del menor.
 
 c) Mortinato: El afiliado percibirá esta ayuda que será equivalente a la de nacimiento, en el caso de mortinato a partir del 5º mes de gestación.
 
@@ -223,6 +223,12 @@ g) Becas de estudio: Se concederá a aquellos afiliados que cursen carreras téc
 h) Vacaciones: Se podrá conceder anualmente, por una sola vez, una bonificación al afiliado que tenga derecho y haga uso de sus vacaciones legales, una vez dictada la resolución respectiva que conceda el correspondiente feriado legal.
 
 i) Catástrofe: Se concederá una ayuda al afiliado que sufra daños graves a consecuencia de incendios, inundaciones u otras catástrofes. Se considerará como requisito la solicitud de un informe elaborado por el afiliado.
+
+j) Acuerdo de Unión Civil: Se concederá una ayuda a cada afiliado que celebre el Acuerdo de Unión Civil. Si ambos convivientes son afiliados al Servicio, se concederá este beneficio a cada uno en forma independiente. Para otorgar la ayuda descrita, se exigirá el certificado respectivo, emitido por la Oficina del Registro Civil e Identificación.
+
+k) Bono de alimentación: Se podrá otorgar bonos de alimentación a los afiliados y/o sus cargas familiares reconocidas, conforme a su situación económica, nivel de ingresos, estamento, entre otras variables, calificadas por el Consejo Administrativo o por quien este designe.
+
+l) Bono de Cumpleaños: Se podrá otorgar una vez al año un bono de cumpleaños a todos/as los/as afiliados/as al Servicio de Bienestar y/o sus cargas familiares reconocidas. Para otorgar el beneficio descrito, se exigirá el certificado respectivo, emitido por la Oficina del Registro Civil e Identificación.
 
 Para otorgar las ayudas descritas en las letras a), b), c), d) y e), se exigirán los correspondientes certificados que acrediten las circunstancias de matrimonio, nacimiento, fallecimiento o escolaridad según sea el caso.
 
