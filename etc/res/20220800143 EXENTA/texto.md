@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO "SUBESTACIÓN LA SEÑORAZA 220/66 KV"
+
+De conformidad a lo dispuesto en el artículo 95 y en el inciso final del artículo 91 del DS N° 40/2012 MMA (Reglamento del SEIA), se comunica a toda persona, natural o jurídica, que hubiera presentado observaciones durante la evaluación ambiental de la Declaración de Impacto Ambiental del proyecto "Subestación La Señoraza 220/66 kV", sometido al Sistema de Evaluación de Impacto Ambiental por su titular, Sociedad Austral de Transmisión Troncal S.A., que por resolución exenta N° 20220800143, de fecha 8 de marzo de 2022, la Comisión de Evaluación de la Región del Biobío calificó favorablemente el proyecto individualizado. Estas personas, naturales o jurídicas, disponen de un plazo de 30 días hábiles, contados desde la presente notificación, para presentar recurso de reclamación ante el Comité de Ministros, de conformidad a lo dispuesto en los artículos 20 y 29 de la ley N° 19.300.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA del Biobío, ubicada en Lincoyán N°145, Concepción. Además, podrá acceder a la resolución a través del sitio web www.sea.gob.cl.-
+
+Silvana Suanes Araneda, Secretaria Comisión de Evaluación Región del Biobío.
