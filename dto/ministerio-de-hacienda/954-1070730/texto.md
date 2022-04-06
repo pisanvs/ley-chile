@@ -40,19 +40,21 @@ d) Las demás tareas que la Presidenta de la República le encomiende para el cu
 
 En caso que las recomendaciones o propuestas de políticas o regulación incidan o se relacionen con el ejercicio de las facultades del Banco Central de Chile, se procederá de conformidad con lo previsto en el artículo 19 de su Ley Orgánica Constitucional, por intermedio del Ministro de Hacienda.
 
-#### Artículo 3º
+#### Artículo 3°
 
 La Comisión estará integrada por los siguientes miembros:
 
-a) El Ministro de Hacienda, quien la presidirá;
+a) El/La Ministro/a de Hacienda, quien la presidirá;
 
-b) El Ministro de Desarrollo Social;
+b) El/La Ministro/a de Desarrollo Social y Familia;
 
-c) El Ministro de Economía, Fomento y Turismo;
+c) El/La Ministro/a de Economía, Fomento y Turismo;
 
-d) El Ministro de Educación, y
+d) El/La Ministro/a de Educación;
 
-e) El Ministro del Trabajo y Previsión Social;
+e) El/La Ministro/a del Trabajo y Previsión Social; y,
+
+f) El/La Ministro/a de la Mujer y la Equidad de Género.
 
 En caso de ausencia o impedimento de alguno de los miembros de la Comisión, asistirá a la sesión el subrogante legal, o el representante que designe el respectivo Ministro, de lo que deberá informarse a la Comisión o la Secretaría Técnica. Asimismo, los miembros de la Comisión podrán asistir acompañados por asesores o funcionarios, en la forma que indique el reglamento interno de funcionamiento referido en el artículo 6º.
 
@@ -62,7 +64,7 @@ De los acuerdos adoptados por los miembros de la Comisión, de lo planteado por 
 
 La Comisión podrá invitar a participar a otros funcionarios de la Administración del Estado, así como a personalidades de reconocida competencia de los ámbitos político, social, científico, empresarial o académico pertenecientes al sector privado, si lo estimare conveniente para el cumplimiento de su cometido.
 
-Asimismo, serán invitados permanentes de la Comisión, los Superintendentes de Bancos e Instituciones Financieras, de Valores y Seguros, de Pensiones, de Seguridad Social, el Director del Servicio Nacional del Consumidor, el Director del Instituto de Previsión Social y el Director del Fondo de Solidaridad e Inversión Social, quienes podrán asistir acompañados por asesores o funcionarios, en la forma que indique el reglamento interno de funcionamiento referido en el artículo 6º.
+Asimismo, serán invitados permanentes de la Comisión, el presidente de la Comisión para el Mercado Financiero, los Superintendentes de Pensiones, de Seguridad Social, y de Insolvencia y Reemprendimiento, el Director del Servicio Nacional del Consumidor, el Director del Instituto de Previsión Social, el Director del Fondo de Solidaridad e Inversión Social y el Director Nacional del Instituto Nacional de la Juventud, quienes podrán asistir acompañados por asesores o funcionarios, en la forma que indique el reglamento interno de funcionamiento referido en el artículo 6°.
 
 Por su parte, en conformidad a lo previsto por el artículo 4º del Artículo Primero de la ley 18.840 Orgánica Constitucional del Banco Central de Chile, con ocasión de las sesiones que celebre la Comisión, se solicitará contar con la asesoría permanente del Banco Central en todas las materias que digan relación con sus funciones, para lo cual se invitará a asistir a dichas sesiones al Presidente del Banco, quien en caso de impedimento podrá designar un representante.
 
@@ -74,7 +76,7 @@ La conducción de la Comisión corresponderá a su Presidente, quien impulsará 
 
 #### Artículo 6º
 
-La Comisión sesionará al menos una vez por año y cada vez que lo soliciten tres de los cinco miembros o el Ministro de Hacienda.
+La Comisión sesionará al menos una vez por año y cada vez que lo soliciten cuatro de los seis miembros o el Ministro de Hacienda.
 
 En su sesión constitutiva, la Comisión determinará las normas para su funcionamiento y adopción de acuerdos, las que se constarán en un Reglamento Interno.
 
