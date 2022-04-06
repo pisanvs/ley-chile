@@ -46,7 +46,7 @@ El Fisco y cualquiera de las instituciones del sector público podrán concurrir
 
 #### Artículo 5°
 
-Cuando por causa de utilidad pública, o de interés social o nacional deban expropiarse derechos de aprovechamiento en un cauce natural o artificial, separados de los inmuebles o actividades a que se hallaren destinados, se entenderá que dicha expropiación afecta a todos los usuarios, asociados o comuneros, según los casos, en proporción a la cantidad de agua que a cada uno corresponda en dicho cauce.
+Derogado.
 
 #### Artículo 6°
 

@@ -44,23 +44,105 @@ Atendida su naturaleza, las aguas son muebles, pero destinadas al uso, cultivo o
 
 ## Título II
 
-DEL DOMINIO Y APROVECHAMIENTO DE LAS AGUAS
+DEL APROVECHAMIENTO DE LAS AGUAS Y SUS FUNCIONES
 
-#### Artículo 5°
+#### Artículo 5
 
-Las aguas son bienes nacionales de uso público y se otorga a los particulares el derecho de aprovechamiento de ellas, en conformidad a las disposiciones del presente código.
+Las aguas, en cualquiera de sus estados, son bienes nacionales de uso público. En consecuencia, su dominio y uso pertenece a todos los habitantes de la nación.
 
-#### Artículo 6°
+En función del interés público se constituirán derechos de aprovechamiento sobre las aguas, los que podrán ser limitados en su ejercicio, de conformidad con las disposiciones de este Código.
 
-El derecho de aprovechamiento es un derecho real que recae sobre las aguas y consiste en el uso y goce de ellas, con los requisitos y en conformidad a las reglas que prescribe este Código.
+Para estos efectos, se entenderán comprendidas bajo el interés público las acciones que ejecute la autoridad para resguardar el consumo humano y el saneamiento, la preservación ecosistémica, la disponibilidad de las aguas, la sustentabilidad acuífera y, en general, aquellas destinadas a promover un equilibrio entre eficiencia y seguridad en los usos productivos de las aguas.
 
-El derecho de aprovechamiento sobre las aguas es de dominio de su titular, quien podrá usar, gozar y disponer de él en conformidad a la ley.
+El acceso al agua potable y el saneamiento es un derecho humano esencial e irrenunciable que debe ser garantizado por el Estado.
+
+No se podrán constituir derechos de aprovechamiento en glaciares.
+
+En el caso de los territorios indígenas, el Estado velará por la integridad entre tierra y agua, y protegerá las aguas existentes para beneficio de las comunidades indígenas, de acuerdo a las leyes y a los tratados internacionales ratificados por Chile y que se encuentren vigentes.
+
+#### Artículo 5 bis
+
+Las aguas cumplen diversas funciones, principalmente las de subsistencia, que incluyen el uso para el consumo humano, el saneamiento y el uso doméstico de subsistencia; las de preservación ecosistémica, y las productivas.
+
+Siempre prevalecerá el uso para el consumo humano, el uso doméstico de subsistencia y el saneamiento, tanto en el otorgamiento como en la limitación al ejercicio de los derechos de aprovechamiento.
+
+Se entenderá por usos domésticos de subsistencia, el aprovechamiento que una persona o una familia hace del agua que ella misma extrae, con el fin de utilizarla para satisfacer sus necesidades de bebida, aseo personal, la bebida de sus animales y cultivo de productos hortofrutícolas indispensables para su subsistencia.
+
+La autoridad deberá siempre velar por la armonía y el equilibrio entre la función de preservación ecosistémica y la función productiva que cumplen las aguas.
+
+La Dirección General de Aguas se sujetará a la priorización dispuesta en el inciso segundo cuando disponga la reducción temporal del ejercicio de los derechos de aprovechamiento o la redistribución de las aguas, de conformidad con lo dispuesto en los artículos 17, 62, 314 y demás normas pertinentes de este Código. Con todo, la autoridad deberá considerar la diversidad geográfica y climática del país, la disponibilidad efectiva de los recursos hídricos y la situación de cada cuenca hidrográfica.
+
+Cuando se concedan derechos de agua para el consumo humano y el saneamiento, solo podrá utilizarse dicha agua para fines distintos en la medida que se destinen a un uso no consuntivo y prevalezca la preferencia del consumo humano y el saneamiento.
+
+Tratándose de solicitudes realizadas por un comité o una cooperativa de servicio sanitario rural, y siempre que no excedan de 12 litros por segundo, durante la tramitación de la solicitud definitiva, la Dirección General de Aguas podrá autorizar transitoriamente, mediante resolución, la extracción del recurso hídrico por un caudal no superior al indicado. Para ello, la Dirección deberá efectuar una visita a terreno y confeccionar un informe técnico que respalde el caudal autorizado transitoriamente y dictará una resolución fundada al respecto dentro del plazo de noventa días, contado desde la presentación de la solicitud. Esta autorización se mantendrá vigente durante la tramitación de la solicitud definitiva, la que no podrá exceder de un año, prorrogable por una sola vez.
+
+#### Artículo 5 ter
+
+Para asegurar el ejercicio de las funciones de subsistencia y de preservación ecosistémica, el Estado podrá constituir reservas de aguas disponibles, superficiales o subterráneas, de conformidad con lo dispuesto en el artículo 147 bis.
+
+Sin perjuicio de lo anterior, como consecuencia del término, caducidad, extinción o renuncia de un derecho de aprovechamiento, las aguas quedarán libres para ser reservadas por el Estado, de conformidad con lo dispuesto en este artículo, y para la constitución de nuevos derechos sobre ellas.
+
+Sobre dichas reservas, la Dirección General de Aguas podrá constituir derechos de aprovechamiento para los usos de la función de subsistencia.
+
+Las aguas reservadas podrán ser entregadas a prestadores de servicios sanitarios para garantizar el consumo humano y el saneamiento. Para efectos del proceso de fijación de tarifas establecido en el decreto con fuerza de ley N° 70, de 1988, del Ministerio de Obras Públicas, se considerará que las aguas entregadas en virtud del presente artículo son aportes de terceros y tienen un costo igual a cero.
+
+Sin perjuicio de lo dispuesto en este artículo, las prestadoras de servicios sanitarios mantendrán la obligación de garantizar la continuidad y calidad del servicio, planificando y ejecutando las obras necesarias para ello, incluidas las de prevención y mitigación que correspondiere.
+
+#### Artículo 5 quáter
+
+La solicitud y el otorgamiento de derechos de aprovechamiento sobre aguas reservadas, para los usos de la función de subsistencia, se sujetarán, en lo que sea compatible con su objeto, al procedimiento contenido en el Párrafo I del Título I del Libro Segundo.
+
+#### Artículo 5
+
+quinquies.- Los derechos de aprovechamiento que se otorguen sobre aguas reservadas podrán transferirse, siempre que se mantenga el uso para el cual fueron originariamente concedidos y las transferencias sean informadas a la Dirección General de Aguas.
+
+Los derechos de aprovechamiento constituidos sobre aguas reservadas adquiridos por sucesión por causa de muerte o por cualquier otro modo derivativo, se transmiten o transfieren, según sea el caso, con las mismas cargas, gravámenes, limitaciones y restricciones que afectan al derecho adquirido originariamente, en todas sus sucesivas transferencias o transmisiones. Ello deberá constar en las respectivas inscripciones conservatorias.
+
+Estos derechos de aprovechamiento se extinguirán, por resolución del Director General de Aguas, si su titular no realiza las obras para utilizar las aguas de conformidad con los plazos y suspensiones indicados en el artículo 6 bis, las usa para un fin diverso para aquel que han sido otorgadas, o cede su uso a cualquier otro título.
+
+La extinción a la que hace referencia el inciso anterior podrá ser objeto de los recursos de reconsideración y reclamación dispuestos en los artículos 136 y 137. Estos recursos no suspenderán el cumplimiento de la resolución, sin perjuicio que, en el caso del recurso de reclamación, la Corte de Apelaciones respectiva ordene lo contrario.
+
+#### Artículo 6
+
+El derecho de aprovechamiento es un derecho real que recae sobre las aguas y consiste en el uso y goce temporal de ellas, de conformidad con las reglas, requisitos y limitaciones que prescribe este Código. El derecho de aprovechamiento se origina en virtud de una concesión, de acuerdo a las normas del presente Código o por el solo ministerio de la ley.
+
+El derecho de aprovechamiento que se origina en una concesión será de treinta años, el que se concederá de conformidad con los criterios de disponibilidad de la fuente de abastecimiento y/o de sustentabilidad del acuífero, según corresponda. En caso que la autoridad considere que el derecho de aprovechamiento deba otorgarse por un plazo menor, deberá justificar dicha decisión por resolución fundada.
+
+La duración del derecho de aprovechamiento se prorrogará por el solo ministerio de la ley y sucesivamente, a menos que la Dirección General de Aguas acredite, mediante una resolución fundada, el no uso efectivo del recurso o que existe una afectación a la sustentabilidad de la fuente que no ha podido ser superada con las herramientas que dispone el inciso quinto de este artículo. Esta prórroga se hará efectiva en la parte utilizada de las aguas en consideración a lo dispuesto en el artículo 129 bis 9, inciso primero, sin que pueda exceder el plazo establecido en el inciso anterior.
+
+El titular podrá solicitar anticipadamente la prórroga de su derecho dentro de los diez años previos a su vencimiento, la cual será evaluada por la Dirección General de Aguas en consideración a los criterios indicados en los incisos primero y tercero del presente artículo. Otorgada la prórroga, el periodo prorrogado se regirá por las normas de este artículo y comenzará a regir desde la fecha de aprobación de la solicitud de prórroga anticipada. En caso de rechazarse la solicitud de prórroga anticipada, el derecho de aprovechamiento continuará estando vigente por el tiempo que le restare desde su otorgamiento, aplicándose al efecto lo establecido en el inciso precedente y las demás disposiciones pertinentes de este Código.
+
+De existir riesgo de que el ejercicio de los derechos de aprovechamiento de aguas pueda generar una grave afectación al acuífero o a la fuente superficial de donde se extrae o, en caso de que este riesgo se haya materializado, la Dirección General de Aguas aplicará lo dispuesto en los artículos 17 y 62, según corresponda. En caso de persistir esta situación, suspenderá el ejercicio de todos aquellos derechos que provocan el riesgo o afectación, lo cual, en el caso de los derechos que se encuentren en situación de ser objeto de prórroga, deberá ser considerado en la ponderación a que se refiere el inciso tercero, a objeto de determinar la continuidad. Ésta podrá incluso ser parcial.
+
+Para efectos de la ponderación del riesgo o de la afectación descritos en el inciso anterior, se considerará especialmente el resguardo de las funciones de subsistencia, consumo humano, saneamiento y preservación ecosistémica, de conformidad con lo dispuesto en el artículo 5 bis.
 
 Si el titular renunciare total o parcialmente a su derecho de aprovechamiento, deberá hacerlo mediante escritura pública que se inscribirá o anotará, según corresponda, en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces competente. El Conservador de Bienes Raíces informará de lo anterior a la Dirección General de Aguas, en los términos previstos por el artículo 122. En todo caso, la renuncia no podrá ser en perjuicio de terceros, en especial si disminuye el activo del renunciante en relación con el derecho de prenda general de los acreedores.
+
+#### Artículo 6 bis
+
+Los derechos de aprovechamiento se extinguirán total o parcialmente si su titular no hace uso efectivo del recurso en los términos dispuestos en el artículo 129 bis 9°. En el caso de los derechos de aprovechamiento consuntivos el plazo de extinción será de cinco años, y en el caso de aquellos de carácter no consuntivos será de diez años. Estos plazos de extinción comenzarán a correr desde la publicación de la resolución que los incluya por primera vez en el listado de derechos de aprovechamiento afectos al pago de patente por no uso, de conformidad a lo dispuesto en el artículo 129 bis 7°. A este procedimiento de extinción se le aplicará lo dispuesto en el artículo 134 bis.
+
+La contabilización de los plazos indicados en el inciso primero se suspenderá mientras dure la tramitación de los permisos necesarios para construir las obras a que se refiere el inciso primero del artículo 129 bis 9 y que deban ser otorgados por la Dirección General de Aguas o por la Dirección de Obras Hidráulicas, incluyendo la tramitación de los ajustes a que se refiere el inciso tercero del artículo 156. Las solicitudes de traslado del ejercicio del derecho de aprovechamiento y las de cambio de punto de captación de éste no quedarán comprendidas en la referida suspensión, salvo cuando dichas solicitudes se deban presentar a consecuencia del cumplimiento de un trámite exigido para la recepción de las obras por parte de la Dirección General de Aguas o en otros casos calificados determinados por resolución fundada de esa Dirección, donde se compruebe la diligencia del solicitante.
+
+Asimismo, la Dirección General de Aguas, a petición del titular del derecho de aprovechamiento, podrá suspender este plazo hasta por un máximo de cuatro años cuando, respecto de la construcción de las obras necesarias para la utilización del recurso, se encuentre pendiente la obtención de una resolución de calificación ambiental, exista una orden de no innovar dictada en algún litigio pendiente ante la justicia ordinaria, o se hallen en curso otras tramitaciones que requieran autorizaciones administrativas. Lo dispuesto en este inciso regirá en la medida que en dichas solicitudes se encuentre debidamente justificada la necesidad de la suspensión, y siempre que se acredite por parte del titular la realización de gestiones, actos u obras de modo sistemático, ininterrumpido y permanente, destinadas a aprovechar el recurso hídrico en los términos contenidos en la solicitud del derecho.
+
+A su vez, la contabilización de los plazos descritos en el inciso primero se suspenderá en caso que el titular del derecho de aprovechamiento justifique ante la autoridad administrativa que no ha podido construir las obras para hacer un uso efectivo del recurso por circunstancias de caso fortuito o fuerza mayor, debidamente acreditadas, y mientras ellas persistan.
+
+Todo cambio de uso de un derecho de aprovechamiento deberá ser informado a la Dirección General de Aguas en los términos que ésta disponga. El incumplimiento de este deber de informar será sancionado con una multa a beneficio fiscal de segundo a tercer grado inclusive, en conformidad con lo dispuesto en el artículo 173 ter.
+
+Sin perjuicio de lo anterior, en caso de constatar que el ejercicio de uno o más derechos de aprovechamiento de aguas, luego de un cambio de uso, causa una grave afectación al acuífero o a la fuente superficial de donde se extrae, la Dirección General de Aguas aplicará lo dispuesto en los incisos quinto y sexto del artículo 6.
+
+Para los efectos de este artículo, se entenderá por cambio de uso aquel que se realiza entre distintas actividades productivas, tales como la agropecuaria, la minería, la industria o la generación eléctrica, entre otras.
+
+La resolución que declare extinguido el derecho de aprovechamiento podrá ser objeto del recurso de reconsideración regulado en el artículo 136, en cuyo caso se suspenderá su cumplimiento, y del recurso de reclamación dispuesto en el artículo 137, en conformidad al procedimiento de extinción establecido en el artículo 134 bis.
 
 #### Artículo 7°
 
 El derecho de aprovechamiento se expresará en volumen por unidad de tiempo.
+
+En el caso de aguas superficiales, el derecho de aprovechamiento se constituirá en la forma que establece este Código, considerando las variaciones estacionales de caudales a nivel mensual. En el título respectivo siempre deberá indicarse los caudales máximos autorizados a nivel mensual.
+
+Tratándose de aguas subterráneas, el derecho de aprovechamiento se constituirá en la forma que establece este Código. En el título respectivo siempre deberá indicarse el caudal máximo instantáneo y el volumen total anual, conforme a los criterios establecidos en el Reglamento de Aguas Subterráneas.
 
 #### Artículo 8°
 
@@ -96,7 +178,7 @@ La extracción o restitución de las aguas se hará siempre en forma que no perj
 
 #### Artículo 15°
 
-El dominio del derecho de aprovechamiento no consuntivo no implica, salvo convención expresa entre las partes, restricción a la libre disposición de los derechos consuntivos.
+El uso y goce que confiere el derecho de aprovechamiento no consuntivo no implica, salvo convención expresa entre las partes, restricción al ejercicio de los derechos consuntivos.
 
 #### Artículo 16°
 
@@ -107,6 +189,14 @@ Los demás son de ejercicio eventual.
 #### Artículo 17°
 
 Los derechos de aprovechamiento de ejercicio permanente facultan para usar el agua en la dotación que corresponda, salvo que la fuente de abastecimiento no contenga la cantidad suficiente para satisfacerlos en su integridad, en cuyo caso el caudal se distribuirá en partes alícuotas.
+
+De existir una junta de vigilancia, se aplicará lo dispuesto en los artículos 266, 274 y siguientes.
+
+Cuando no exista una junta de vigilancia que ejerza la debida jurisdicción y si la explotación de las aguas superficiales por algunos usuarios ocasionare perjuicios a los otros titulares de derechos, la Dirección General de Aguas, de oficio o a petición de uno o más afectados, podrá establecer la reducción temporal del ejercicio de los derechos de aprovechamiento, a prorrata de ellos.
+
+En aquellos casos en que dos o más juntas de vigilancia ejerzan jurisdicción en la misma fuente de abastecimiento, por encontrarse ésta seccionada, la Dirección General de Aguas podrá ordenar una redistribución de aguas entre las distintas secciones, cuando una de estas organizaciones se sienta perjudicada por las extracciones que otra realice y así lo solicite fundadamente.
+
+Esta medida podrá ser dejada sin efecto cuando los titulares de derechos de aprovechamiento lo soliciten o cuando a juicio de la Dirección General de Aguas hubieren cesado las causas que la originaron.
 
 #### Artículo 18°
 
@@ -126,19 +216,21 @@ Los derechos de ejercicio alternado son aquellos en que el uso del agua se distr
 
 ## Título III
 
-DE LA ADQUISICIÓN DEL DERECHO DE APROVECHAMIENTO
+DE LA CONSTITUCIÓN DEL DERECHO DE APROVECHAMIENTO
 
 #### Artículo 20°
 
-El derecho de aprovechamiento se constituye originariamente por acto de autoridad. La posesión de los derechos así constituidos se adquiere por la competente inscripción.
+El derecho de aprovechamiento se constituye originariamente por acto de autoridad. La posesión de los derechos así constituidos se adquiere por la competente inscripción en el Conservador de Bienes Raíces correspondiente. El titular de un derecho de aprovechamiento inscrito podrá disponer de él con los requisitos y en las formas prescritas en este Código y demás disposiciones legales.
 
-Exceptúanse los derechos de aprovechamiento sobre las aguas que corresponden a vertientes que nacen, corren y mueren dentro de una misma heredad, como asimismo, sobre las aguas de lagos menores no navegables por buques de más de cien toneladas, de lagunas y pantanos situados dentro de una sola propiedad y en las cuales no existan derechos de aprovechamiento constituidos a favor de terceros, a la fecha de vigencia de este Código. La propiedad de estos derechos de aprovechamiento pertenece, por el solo ministerio de la ley, al propietario de las riberas.
+Exceptúanse los derechos de aprovechamiento sobre las aguas que corresponden a vertientes que nacen, corren y mueren dentro de una misma heredad, como, asimismo, sobre las aguas de lagos menores no navegables por buques de más de cien toneladas, de lagunas y pantanos situados dentro de una sola propiedad y en las cuales no existan derechos de aprovechamiento constituidos en favor de terceros, a la fecha de vigencia de este Código. Se reconoce el derecho real de uso y goce sobre dichas aguas al propietario de las riberas. Esta facultad se extingue, por el solo ministerio de la ley, en caso que el predio se subdivida o no se mantenga la condición descrita de las aguas, indistintamente. Los titulares de los predios subdivididos gozarán de un derecho preferente ante la solicitud de un tercero para solicitar la constitución del derecho de aprovechamiento en la parte proporcional que corresponda al predio adjudicado. Dicha preferencia tendrá la duración de un año, contado desde la fecha de la inscripción de la subdivisión.
 
 Se entiende que mueren dentro de la misma heredad las vertientes o corrientes que permanentemente se extinguen dentro de aquélla sin confundirse con otras aguas, a menos que caigan al mar.
 
+Excepcionalmente y con la sola finalidad de satisfacer las necesidades humanas de bebida y los usos domésticos de subsistencia, cualquier persona podrá extraer aguas provenientes de las vertientes, de las nacientes cordilleranas o de cualquier forma de recarga natural que aflore superficialmente, sin que esta extracción reporte utilidad económica alguna, salvo de aquellas fuentes descritas en el inciso segundo, en la medida que en el área no exista un sistema de agua potable concesionada o rural, u otra red para abastecer de agua potable a la población. En todo caso, si el ejercicio de este derecho causare un perjuicio superior al beneficio que reporta, deberá de inmediato suspenderse.
+
 #### Artículo 21°
 
-La transferencia, transmisión y la adquisición o pérdida por prescripción de los derechos de aprovechamiento se efectuará con arreglo a las disposiciones del Código Civil, salvo en cuanto estén modificadas por el presente Código.
+La transferencia, transmisión y la adquisición o pérdida por prescripción de los derechos de aprovechamiento se efectuará con arreglo a las disposiciones del Código Civil, salvo en cuanto estén modificadas por el presente Código. Las inscripciones que procedan se efectuarán en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces competente.
 
 #### Artículo 22°
 
@@ -162,9 +254,9 @@ El derecho de aprovechamiento comprenderá la concesión de los terrenos de domi
 
 Abandonados estos terrenos o destinados a un fin distinto, volverán a su antigua condición.
 
-#### Artículo 27°
+#### Artículo 27
 
-Cuando sea necesario disponer la expropiación de derechos de aprovechamiento para satisfacer menesteres domésticos de una población por no existir otros medios para obtener el agua, deberá dejarse al expropiado la necesaria para iguales fines.
+El Ministerio de Obras Públicas podrá expropiar derechos de aprovechamiento tanto para satisfacer menesteres domésticos de una población como para satisfacer la conservación de los recursos hídricos, cuando no existan otros medios para obtener el agua. Para ello deberá dejarse al expropiado el agua necesaria para satisfacer sus usos domésticos de subsistencia. En ambos casos deberá aplicarse el procedimiento establecido en el decreto ley N° 2.186 de 1978, que aprueba la Ley Orgánica de Procedimiento de Expropiaciones, o la norma que la reemplace.
 
 #### Artículo 28°
 
@@ -224,13 +316,13 @@ Embalse es la obra artificial donde se acopian aguas.
 
 #### Artículo 37°
 
-El dueño de un derecho de aprovechamiento podrá construir canales a sus expensas, en suelo propio o ajeno, con arreglo a las normas del presente Código.
+El titular de un derecho de aprovechamiento podrá construir canales a sus expensas, en suelo propio o ajeno, con arreglo a las normas del presente Código.
 
 #### Artículo 38°
 
-Las organizaciones de usuarios o el propietario exclusivo de un acueducto que extraiga aguas de una corriente natural, estarán obligados a construir y mantener, a su costa, a lo menos una bocatoma con compuertas de cierre y descarga y un canal que permita devolver las aguas o su exceso al cauce de origen, además de los dispositivos que permitan controlar y aforar el agua que se extrae y un sistema de transmisión instantánea de la información que se obtenga al respecto. Esta información deberá ser siempre entregada a la Dirección General de Aguas cuando ésta la requiera. El Servicio, por resolución fundada, determinará los plazos y las condiciones técnicas para cumplir dicha obligación.
+Las organizaciones de usuarios o el propietario exclusivo de un acueducto que extraiga aguas de una corriente natural, estarán obligados a construir y mantener, a su costa, a lo menos una bocatoma con compuertas de cierre y descarga y un canal que permita devolver las aguas o su exceso al cauce de origen, además de los dispositivos que permitan controlar y aforar el agua que se extrae y un sistema de transmisión instantánea de la información que se obtenga al respecto. Esta información deberá ser siempre entregada a la Dirección General de Aguas cuando ésta la requiera, la que, por resolución fundada, determinará los plazos y las condiciones técnicas para cumplir dicha obligación.
 
-La autoridad dictará un reglamento en que se expliciten los plazos, criterios y condiciones necesarios para aplicar las resoluciones fundadas dispuestas en el inciso anterior.
+La autoridad dictará un reglamento en que se expliciten los plazos, criterios y condiciones necesarios para aplicar las resoluciones fundadas dispuestas en el inciso anterior. Ante el incumplimiento de las medidas a que se refiere el inciso anterior, la Dirección General de Aguas, mediante resolución fundada, impondrá las sanciones que establecen los artículos 173 y siguientes.
 
 4.- De la concesión de cauces de uso público para conducir aguas de aprovechamiento particular
 
@@ -274,7 +366,7 @@ DE LOS DERRAMES Y DRENAJES DE AGUA
 
 Constituyen derrames las aguas que quedan abandonadas después de su uso, a la salida del predio.
 
-Se presume el abandono de estas aguas desde que el dueño del derecho de aprovechamiento hace dejación de ellas, en los linderos de la propiedad, sin volver a aprovecharlas.
+Se presume el abandono de estas aguas desde que el titular del derecho de aprovechamiento hace dejación de ellas, en los linderos de la propiedad, sin volver a aprovecharlas.
 
 #### Artículo 44°
 
@@ -294,9 +386,15 @@ La existencia de un título respecto al uso de derrames, no importa limitación 
 
 Constituyen un sistema de drenaje todos los cauces naturales o artificiales que sean colectores de aguas que se extraigan con el objeto de recuperar terrenos que se inundan periódicamente, desecar terrenos pantanosos o vegosos y deprimir niveles freáticos cercanos a la superficie.
 
+No podrán construirse sistemas de drenaje en las zonas de turberas existentes e identificadas por el Ministerio del Medio Ambiente en el Inventario Nacional de Humedales, en la provincia de Chiloé y en las Regiones de Aysén del General Carlos Ibáñez del Campo y de Magallanes y de la Antártica Chilena. La Dirección General de Aguas delimitará el área en la cual se entenderán prohibidos los sistemas de drenaje.
+
+Excepcionalmente, y en la medida que cuenten con una resolución de calificación ambiental, podrán desarrollarse proyectos públicos y privados de conectividad vial en fajas acotadas, con el trazado menos invasivo para dichas zonas y con obras que permitan un flujo de las aguas que asegure la mantención de dichos sistemas ecológicos.
+
+A las aguas extraídas de sistemas de drenaje les serán aplicables las normas establecidas en el artículo 129 bis.
+
 #### Artículo 48°
 
-Son beneficiarios del sistema de drenaje todos aquellos que lo utilizan para desaguar sus predios y de este modo aprovechar las aguas provenientes de los mismos, quienes deberán informar las características del sistema, la ubicación de la captación y el caudal drenado a la Dirección General de Aguas.
+Son beneficiarios del sistema de drenaje todos aquellos que lo utilizan para desaguar sus predios y de este modo aprovechar las aguas provenientes de los mismos. Estos beneficiarios deberán informar las características del sistema, la ubicación de la captación y el caudal drenado a la Dirección General de Aguas.
 
 #### Artículo 49°
 
@@ -342,11 +440,35 @@ DE LAS AGUAS SUBTERRÁNEAS
 
 1.- Normas generales
 
+#### Artículo 55° bis
+
+Acuífero es una formación geológica que contiene o ha contenido agua bajo la superficie de la tierra y posee la capacidad de almacenar y transmitir agua.
+
+Sin perjuicio de la titularidad del dominio de este subsuelo, las aguas subterráneas contenidas en él son bienes nacionales de uso público a las que se tiene acceso en conformidad a las disposiciones del presente Código.
+
+Se entenderá por Sector Hidrogeológico de Aprovechamiento Común, un acuífero o parte de un acuífero cuyas características hidrológicas espaciales y temporales permiten una delimitación para efectos de su evaluación hidrogeológica o gestión en forma independiente.
+
+#### Artículo 55° ter
+
+Cuando se realicen actos u obras en el suelo o subsuelo que puedan menoscabar la disponibilidad de las aguas subterráneas o deterioren su calidad, en contravención a la normativa vigente, serán plenamente aplicables las facultades de policía y vigilancia de la Dirección General de Aguas, aunque estos actos u obras no tengan por finalidad aprovechar aguas subterráneas.
+
 #### Artículo 56°
 
-Cualquiera puede cavar en suelo propio pozos para las bebidas y usos domésticos, aunque de ello resulte menoscabarse el agua de que se alimente algún otro pozo; pero si de ello no reportare utilidad alguna, o no tanta que pueda compararse con el perjuicio ajeno, será obligado a cegarlo.
+Cualquiera puede cavar en suelo propio pozos para las bebidas y usos domésticos de subsistencia, aunque de ello resulte menoscabarse el agua de que se alimente algún otro pozo; pero si de ello no reportare utilidad alguna, o no tanta que pueda compararse con el perjuicio ajeno, será obligado a cegarlo.
 
-Corresponde a los dueños de pertenencias mineras, dentro de ellas, el derecho de aprovechamiento de las aguas halladas en sus labores, mientras conserven el dominio de sus pertenencias y en la medida necesaria para la respectiva explotación.
+El mismo derecho, en iguales condiciones, podrán ejercer los servicios sanitarios rurales para hacer uso de aguas subterráneas destinadas al consumo humano, las que podrán extraer de pozos cavados en el suelo propio de la organización, de algunos de los integrantes de ella, o en terrenos del Estado, previa autorización en todos los casos señalados. Sin perjuicio de lo anterior, los prestadores de servicios sanitarios rurales que caven pozos y se beneficien de ellos deberán informar a la Dirección General de Aguas la existencia y la ubicación de dichas obras.
+
+Quienes exploten estos pozos podrán extraer un volumen de agua subterránea igual o inferior al que determine la Dirección General de Aguas para cada cuenca, y siempre que estén destinados íntegra y exclusivamente a usos domésticos de subsistencia.
+
+#### Artículo 56 bis
+
+Las aguas halladas por los concesionarios mineros en las labores de exploración y de explotación minera podrán ser utilizadas por éstos, en la medida que sean necesarias para las faenas de explotación y sean informadas para su registro a la Dirección General de Aguas, dentro de noventa días corridos desde su hallazgo. Deberán indicar su ubicación y volumen por unidad de tiempo y las actividades que justifican dicha necesidad. En caso de haber aguas sobrantes, igualmente deberán informarlas. El uso y goce de estas aguas se extinguirá por el cierre de la faena minera, por la caducidad o extinción de la concesión minera, porque dejen de ser necesarias para esa faena o porque se destinen a un uso distinto.
+
+El uso y goce de las aguas referido en el inciso anterior no podrá poner en peligro la sustentabilidad de los acuíferos en conformidad con lo dispuesto en el artículo 5 bis, o los derechos de terceros, lo cual deberá ser verificado por la Dirección General de Aguas, la que deberá emitir un informe técnico en el plazo de noventa días corridos, contado desde la recepción de la información señalada en el inciso anterior. El referido informe deberá considerar la evaluación ambiental a la que se refiere el inciso cuarto de este artículo. Dicho plazo podrá ser prorrogado solo por una vez y justificadamente. En caso que se verificare una grave afectación de los acuíferos o a los derechos de terceros a consecuencia de estos aprovechamientos, la Dirección General de Aguas limitará su uso.
+
+La Dirección General de Aguas, por resolución, determinará las formas, requisitos y periodicidad en que se deberá entregar la información, incluyendo un procedimiento simplificado para la minería artesanal y pequeña minería, de conformidad con lo establecido en el inciso segundo del artículo 142 del Código de Minería.
+
+Lo expresado en el presente artículo, no obsta que en la exploración o explotación se aplique la correspondiente evaluación ambiental, conforme a la ley N° 19.300 y su reglamento, como también respecto de su seguimiento y fiscalización, con el propósito de evaluar la sustentabilidad de la explotación del recurso.
 
 #### Artículo 57°
 
@@ -364,7 +486,9 @@ Sin perjuicio de lo dispuesto en el inciso anterior, y siempre que se haya otorg
 
 El terreno ajeno sólo se podrá explorar previo acuerdo con el dueño del predio, y en bienes nacionales con la autorización de la Dirección General de Aguas.
 
-No se podrán efectuar exploraciones en terrenos públicos o privados de zonas que alimenten áreas de vegas y de los llamados bofedales en las Regiones de Tarapacá y de Antofagasta, sino con autorización fundada de la Dirección General de Aguas, la que previamente deberá identificar y delimitar dichas zonas.
+No se podrán efectuar exploraciones en terrenos públicos o privados de zonas que alimenten áreas de vegas, pajonales y bofedales en las regiones de Arica y Parinacota, de Tarapacá, de Antofagasta, de Atacama y de Coquimbo, sin la autorización fundada de la Dirección General de Aguas, la que previamente deberá identificar y delimitar dichas zonas.
+
+Asimismo, no se podrán efectuar exploraciones en terrenos públicos o privados de zonas que correspondan a sectores acuíferos que alimenten humedales, que hayan sido declarados por el Ministerio del Medio Ambiente como ecosistemas amenazados, ecosistemas degradados o sitios prioritarios, en la medida que esa declaración, en coordinación con la Dirección General de Aguas, contenga entre sus fundamentos que la estructura y el funcionamiento de dicho humedal está dado por los recursos hídricos subterráneos que lo soportan. Con posterioridad a esa declaración, la Dirección General de Aguas delimitará el área de terrenos públicos o privados en los cuales no se podrán efectuar exploraciones para los fines de este artículo.
 
 #### Artículo 58° bis
 
@@ -376,7 +500,7 @@ La preferencia consagrada en el inciso anterior, sólo podrá ejercerse dentro d
 
 #### Artículo 59°
 
-La explotación de aguas subterráneas deberá efectuarse en conformidad a normas generales, previamente establecidas por la Dirección General de Aguas.
+La explotación de aguas subterráneas deberá efectuarse en conformidad a normas generales, previamente establecidas por la Dirección General de Aguas, las que deberán tener un interés principal en lograr el aprovechamiento sustentable de los recursos hídricos subterráneos.
 
 #### Artículo 60°
 
@@ -384,23 +508,35 @@ Comprobada la existencia de aguas subterráneas, el interesado podrá solicitar 
 
 #### Artículo 61°
 
-La resolución que otorgue el derecho de aprovechamiento de aguas subterráneas establecerá el área de protección en la cual se prohibirá instalar obras similares.
+La resolución que otorgue el derecho de aprovechamiento de aguas subterráneas establecerá un área de protección en la cual se prohibirá instalar obras similares, la que se constituirá como una franja paralela a la captación subterránea y en torno a ella. La dimensión de la franja o radio de protección será de 200 metros, medidos en terreno. En casos justificados se podrá autorizar una franja o radio superior a los metros indicados, como en los casos de los pozos pertenecientes a un servicio sanitario rural o a una cooperativa de servicio sanitario rural.
 
 #### Artículo 62°
 
-Si la explotación de aguas subterráneas por algunos usuarios afectare la sustentabilidad del acuífero u ocasionare perjuicios a los otros titulares de derechos, la Dirección General de Aguas, de oficio o a petición de uno o más afectados, podrá establecer la reducción temporal del ejercicio de los derechos de aprovechamiento, a prorrata de ellos, mediante resolución fundada.
+Si la explotación de aguas subterráneas produce una degradación del acuífero o de una parte de él, al punto que afecte su sustentabilidad, la Dirección General de Aguas, si así lo constata, de oficio o a petición de uno o más afectados, deberá limitar el ejercicio de los derechos de aprovechamiento en la zona degradada, a prorrata de ellos, de conformidad a sus atribuciones legales.
 
-Esta medida quedará sin efecto cuando los solicitantes reconsideren su petición o cuando a juicio de dicha Dirección hubieren cesado las causas que la originaron.
+Se entenderá que se afecta la sustentabilidad del acuífero cuando con el volumen de extracción actual se produce un descenso sostenido o abrupto de sus niveles freáticos.
+
+Sin perjuicio de lo dispuesto en el inciso primero, si la explotación de aguas subterráneas por algunos usuarios ocasionare perjuicios a los otros titulares de derechos, la Dirección General de Aguas, de oficio o a petición de parte, podrá establecer la reducción temporal del ejercicio de los derechos de aprovechamiento, a prorrata de ellos, mediante resolución fundada.
+
+Esta medida quedará sin efecto cuando a juicio de dicha Dirección hubieren cesado las causas que la originaron.
 
 #### Artículo 63°
 
 La Dirección General de Aguas podrá declarar zonas de prohibición para nuevas explotaciones, mediante resolución fundada en la protección de acuífero, la cual se publicará en el Diario Oficial.
 
-La declaración de una zona de prohibición dará origen a una comunidad de aguas formada por todos los usuarios de aguas subterráneas comprendidos en ella.
+La declaración de una zona de prohibición dará origen a una comunidad de aguas formada por todos los usuarios de aguas subterráneas comprendidos en ella, quienes deberán organizarla de conformidad con lo indicado en el inciso primero del artículo 196, dentro del plazo de un año. Toda vez que dicha comunidad se origina por el solo mérito de la ley, no se podrá promover cuestión sobre su existencia conforme a lo señalado en el artículo 188. Transcurrido este plazo sin que la comunidad de aguas se haya organizado, la Dirección General de Aguas no podrá autorizar cambios de punto de captación en dicha zona respecto de aquellas personas que no se hayan hecho parte en el proceso de organización de la comunidad.
 
-Las zonas que correspondan a acuíferos que alimenten vegas y los llamados bofedales de las Regiones de Tarapacá y de Antofagasta se entenderán prohibidas para mayores extracciones que las autorizadas, así como para nuevas explotaciones, sin necesidad de declaración expresa. La Dirección General de Aguas deberá previamente identificar y delimitar dichas zonas.
+Las zonas que correspondan a acuíferos que alimenten vegas, pajonales y bofedales de las regiones de Arica y Parinacota, de Tarapacá, de Antofagasta, de Atacama y de Coquimbo se entenderán prohibidas para mayores extracciones que las autorizadas, así como para nuevas explotaciones, sin necesidad de declaración expresa.
 
-Sin perjuicio de lo dispuesto en el inciso anterior, la Dirección General de Aguas podrá alzar la prohibición de explotar, de acuerdo con el procedimiento indicado en el artículo siguiente.
+Lo dispuesto en el inciso anterior también se aplica a aquellas zonas que corresponden a sectores acuíferos que alimentan humedales que hayan sido declarados por el Ministerio del Medio Ambiente como ecosistemas amenazados, ecosistemas degradados, sitios prioritarios o humedales urbanos declarados en virtud de la ley N° 21.202, en la medida que dicha declaración, en coordinación con la Dirección General de Aguas, contenga entre sus fundamentos los recursos hídricos subterráneos que los soportan. Con posterioridad a esa declaración, la Dirección General de Aguas delimitará el área en la cual se entenderán prohibidas mayores extracciones que las autorizadas, así como nuevas explotaciones.
+
+Ante la solicitud de cambio de punto de captación de los derechos de aprovechamiento que queden comprendidos en la zona de prohibición, la Dirección General de Aguas podrá denegarla o autorizarla, total o parcialmente, si la situación hidrogeológica del acuífero presenta descensos significativos y sostenidos que puedan poner en riesgo su sustentabilidad, implica un grave riesgo de intrusión salina o afecta derechos de terceros. Si el Servicio no contare con toda la información pertinente, podrá requerir al peticionario los estudios o antecedentes necesarios para mejor resolver. La información que respalde dicho cambio de punto de captación tendrá carácter público.
+
+En ningún caso se podrá autorizar el cambio de punto de captación a quien tenga litigios pendientes, en calidad de demandado, relativos a extracción ilegal de aguas en la misma zona de prohibición.
+
+Las resoluciones dictadas con motivo de este artículo se entenderán notificadas desde su publicación en el Diario Oficial, la que se efectuará los días primero o quince de cada mes o el primer día hábil siguiente, si aquellos fueren feriados.
+
+A excepción de lo dispuesto en los incisos tercero y cuarto, la Dirección General de Aguas podrá alzar la prohibición de explotar, de acuerdo con el procedimiento indicado en el artículo siguiente.
 
 #### Artículo 64°
 
@@ -408,31 +544,73 @@ La autoridad deberá dictar una nueva resolución sobre la mantención o alzamie
 
 #### Artículo 65°
 
-Serán áreas de restricción aquellos sectores hidrogeológicos de aprovechamiento común en los que exista el riesgo de grave disminución de un determinado acuífero, con el consiguiente perjuicio de derechos de terceros ya establecidos en él.
+Serán áreas de restricción aquellos sectores hidrogeológicos de aprovechamiento común en los que exista el riesgo de grave disminución de un determinado acuífero o de su sustentabilidad, con el consiguiente perjuicio de derechos de terceros ya establecidos en él.
 
 Cuando los antecedentes sobre la explotación del acuífero demuestren la conveniencia de declarar área de restricción de conformidad con lo dispuesto en el inciso anterior, la Dirección General de Aguas deberá así decretarlo. Esta medida también podrá ser declarada a petición de cualquier usuario del respectivo sector, si concurren las circunstancias que lo ameriten.
 
-Será aplicable al área de restricción lo dispuesto en el artículo precedente.
+Será aplicable al área de restricción lo dispuesto en el artículo precedente y la limitación a la autorización de los cambios de punto de captación indicada en el inciso quinto del artículo 63.
 
 La declaración de un área de restricción dará origen a una comunidad de aguas formada por todos los usuarios de aguas subterráneas comprendidas en ella.
 
+Alzada el área de restricción, la Dirección General de Aguas, para la constitución de nuevos derechos sobre las aguas subterráneas, de acuerdo con lo dispuesto en los artículos 5, 5 bis y 6, preferirá al titular del derecho de aprovechamiento constituido provisionalmente, en función del orden de prelación en que se hubieren ingresado las solicitudes que dieron origen a dichos derechos provisionales. Con todo, siempre prevalecerá respecto de cualquier otra preferencia o consideración el uso para el consumo humano, de subsistencia y saneamiento.
+
 #### Artículo 66°
 
-La Dirección General de Aguas podrá otorgar provisionalmente derechos de aprovechamiento en aquellas zonas que haya declarado de restricción. En dichas zonas, la citada Dirección limitará prudencialmente los nuevos derechos pudiendo incluso dejarlos sin efecto en caso de constatar perjuicios a los derechos ya constituidos.
+Declarada un área de restricción en uno o más sectores del acuífero o en su totalidad, la Dirección General de Aguas no podrá otorgar derechos de aprovechamiento definitivos. De modo excepcional, y previo informe técnico de disponibilidad a nivel de la fuente de abastecimiento, sólo podrá conceder derechos provisionales en la medida que no se afecten derechos preexistentes y/o la sustentabilidad del acuífero o de uno o más sectores de él.
 
-Sin perjuicio de lo establecido en el inciso primero del artículo 67, y no siendo necesario que anteriormente se haya declarado área de restricción, previa autorización de la Dirección General de Aguas, cualquier persona podrá ejecutar obras para la recarga artificial de acuíferos, teniendo por ello la preferencia para que se le constituya un derecho de aprovechamiento provisional sobre las aguas subterráneas derivadas de tales obras y mientras ellas se mantengan.
+El informe técnico a que refiere el inciso anterior deberá considerar la opinión de las comunidades de agua existentes en la zona.
+
+La Dirección General de Aguas siempre podrá limitar, total o parcialmente, e incluso dejar sin efecto estos derechos. Podrá, a su vez, suspender total o parcialmente su ejercicio, en caso que se constate una afectación temporal a la sustentabilidad del acuífero o perjuicios a los derechos de aprovechamiento ya constituidos, mientras estas situaciones se mantengan.
+
+#### Artículo 66° bis
+
+Sin perjuicio de otros permisos regulados en este Código, previo informe favorable de la Dirección General de Aguas sobre la no afectación a extracciones de agua para consumo humano y aspectos relativos a la calidad de las aguas, cualquier persona podrá ejecutar obras para recargar artificialmente un acuífero.
+
+Se entenderá por recarga natural el flujo o caudal de agua que alimenta un acuífero proveniente de aguas pluviales, corrientes, detenidas o subterráneas, que no sea a consecuencia de la intervención humana.
+
+No requerirá del informe a que se refiere el inciso primero la obra de recarga de aguas lluvias, que para estos efectos se considerará recarga natural.
+
+La recarga artificial de aguas podrá realizarse para distintos fines, tales como resguardar la preservación ecosistémica, incluyendo la mejora o mantención de la sustentabilidad del acuífero; evitar la intrusión salina; aprovechar la capacidad depuradora del subsuelo; infiltrar agua desalinizada o residuos líquidos regulados por la normativa ambiental; o aprovechar la capacidad de almacenamiento y conducción de los acuíferos para posteriormente posibilitar la reutilización de estas aguas.
+
+El titular de un derecho de aprovechamiento que haya efectuado las obras a que se refiere el inciso primero y que desee reutilizar las aguas infiltradas, sea en el mismo u otro punto del acuífero, podrá solicitar a la Dirección General de Aguas que le autorice a ejercer su derecho sobre la mayor parte de las aguas recargadas que, de acuerdo al análisis técnico de los antecedentes presentados, considere las pérdidas propias del proceso, la sustentabilidad del acuífero y los derechos de terceros.
+
+La solicitud a la que se refiere el inciso anterior contendrá las especificaciones técnicas de la obra; la información sobre el sector hidrogeológico del acuífero que permita justificar la cantidad de agua que se pretende extraer; los puntos de recarga y aquellos desde los cuales se pretende extraer las aguas; y un sistema de medición y de transmisión de la información en ambos puntos, la que se tramitará de conformidad a lo dispuesto en el Título I del Libro Segundo.
+
+La Dirección General de Aguas con el propósito de emitir el informe respectivo, deberá oír a las organizaciones de usuarios interesadas.
+
+#### Artículo 66° ter
+
+Si el proyecto de recarga artificial utiliza aguas provenientes desde una fuente ajena a la cuenca o tiene por objeto aumentar la disponibilidad para constituir nuevos derechos, deberá contar con la aprobación de la Dirección General de Aguas. La solicitud deberá tramitarse en los términos que establecen los artículos 130 y siguientes.
+
+#### Artículo 66° quáter
+
+No se podrá operar obra alguna de recarga artificial con perjuicio de terceros. El responsable será obligado a la indemnización de perjuicios.
+
+Las obras urgentes que sea necesario construir o modificar para evitar los daños a que se refiere el inciso anterior serán de cargo de quien se encuentre operando el proyecto de recarga, sin perjuicio de sus acciones para repetir en contra del causante del perjuicio.
 
 #### Artículo 67°
 
-Los derechos de aprovechamiento otorgados de acuerdo al artículo anterior, se podrán transformar en definitivos una vez transcurridos cinco años de ejercicio efectivo en los términos concedidos, y siempre que los titulares de derechos ya constituidos no demuestren haber sufrido daños. Lo anterior no será aplicable en el caso del inciso segundo del artículo 66, situación en la cual subsistirán los derechos provisionales mientras persista la recarga artificial.
+Cuando la suma de los derechos de aprovechamiento definitivos y provisionales existentes en un área de restricción comprometa toda la disponibilidad determinada en los respectivos estudios técnicos, dicha área deberá ser declarada como zona de prohibición para nuevas explotaciones, de acuerdo con lo dispuesto en el artículo 63.
 
-La Dirección General de Aguas declarará la calidad de derechos definitivos a petición de los interesados y previa comprobación del cumplimiento de las condiciones establecidas en el inciso precedente.
+En caso que los antecedentes técnicos señalen que el efecto sobre la sustentabilidad no obedece a razones ocasionales, sino que a una situación de carácter permanente, también deberá declararse zona de prohibición.
 
-Los titulares de los derechos de aprovechamiento, provisionales o definitivos, concedidos tanto en zonas declaradas de prohibición como en áreas de restricción, deberán instalar y mantener un sistema de medición de caudales y volúmenes extraídos, de control de niveles freáticos y un sistema de transmisión de la información que se obtenga al respecto. Esta información deberá ser siempre entregada a la Dirección General de Aguas cuando ésta la requiera. El Servicio, por resolución fundada, determinará los plazos y las condiciones técnicas para cumplir dicha obligación, pudiendo comenzar por aquellos concedidos provisionalmente o por aquellos que extraigan volúmenes superiores a la media.
+La Dirección General de Aguas podrá revisar, en cualquier momento, las circunstancias que dieron origen a la declaración de área de restricción; sin embargo, transcurridos cinco años contados desde la citada declaración, será obligatorio para el Servicio reevaluar dichas circunstancias. En caso de comprobar que la disponibilidad está comprometida, de conformidad a lo indicado precedentemente, dicha área se declarará zona de prohibición.
+
+De conformidad con lo dispuesto en el artículo 63, al declarar una zona de prohibición de nuevas explotaciones, la Dirección General de Aguas no podrá constituir nuevos derechos de aprovechamiento, ya sean definitivos o provisionales, y deberá prohibir cualquier nueva explotación de derechos o de aquella parte de ellos que no se hubiesen explotado con anterioridad a dicha declaración. Adicionalmente, el Servicio deberá reevaluar la situación de sustentabilidad del Sector Hidrogeológico de Aprovechamiento Común y, consecuentemente, podrá ejercer las atribuciones descritas en el inciso anterior. Lo dispuesto en este inciso es sin perjuicio de lo señalado en el artículo 62.
+
+Los titulares de los derechos de aprovechamiento concedidos, tanto en zonas declaradas de prohibición como en áreas de restricción, deberán instalar y mantener un sistema de medición de caudales y volúmenes extraídos, de control de niveles freáticos y un sistema de transmisión de la información que se obtenga. Los titulares, por sí o por medio de las Comunidades de Aguas Subterráneas, serán responsables de transmitir la información que se recabe a la Dirección General de Aguas. El Servicio, mediante resolución fundada, determinará los plazos y condiciones para cumplir dicha obligación, y deberá comenzar siempre por aquellos concedidos provisionalmente.
+
+Ante el incumplimiento de estas medidas, la Dirección General de Aguas, mediante resolución fundada, impondrá las sanciones que establecen los artículos 173 y siguientes.
+
+#### Artículo 67 bis
+
+La declaración o el alzamiento de las zonas de restricción y de prohibición, se publicarán en el sitio web institucional y en el Diario Oficial, los días primero o quince de cada mes o el primer día hábil siguiente, si aquéllos fueren feriados.
 
 #### Artículo 68°
 
-La Dirección General de Aguas podrá exigir la instalación y mantención de sistemas de medición de caudales, de volúmenes extraídos y de niveles freáticos en las obras, además de un sistema de transmisión de la información que se obtenga al respecto y requerir la información que se obtenga. En el caso de los derechos de aprovechamiento no consuntivos, esta exigencia se aplicará también en la obra de restitución al acuífero. La Dirección General, por resolución fundada, determinará los plazos y las condiciones técnicas para cumplir la obligación dispuesta en este artículo.
+La Dirección General de Aguas podrá exigir la instalación y mantención de sistemas de medición de caudales, de volúmenes extraídos y de niveles estáticos o dinámicos en las obras, además de un sistema de transmisión de la información que se obtenga. En el caso de los derechos de aprovechamiento no consuntivos esta exigencia se aplicará también en la obra de restitución al acuífero. La Dirección General, por resolución fundada, determinará los plazos y las condiciones técnicas para cumplir la obligación dispuesta en este artículo.
+
+Ante el incumplimiento de las medidas a que se refiere el inciso anterior, la Dirección General de Aguas, mediante resolución fundada, impondrá las multas y sanciones que establecen los artículos 173 y siguientes.
 
 ## Título VII
 
@@ -452,7 +630,7 @@ Las servidumbres legales no podrán aprovecharse en fines distintos de aquellos 
 
 #### Artículo 71°
 
-Si hubiere desacuerdo en cuanto al monto de la indemnización, resolverá el Juez, con informe de peritos, pudiendo autorizar la constitución sólo una vez pagada la suma que fije provisionalmente para responder de la indemnización que se determine en definitiva.
+Si hubiere desacuerdo en cuanto al monto de la indemnización, resolverá el Juez, con informe de peritos, debiendo autorizar la constitución sólo una vez pagada la suma que fije provisionalmente para responder de la indemnización que se determine en definitiva.
 
 #### Artículo 72°
 
@@ -616,21 +794,21 @@ e) De otras servidumbres necesarias para ejercer el derecho de aprovechamiento
 
 #### Artículo 96°
 
-El dueño de los derechos de aprovechamiento que no lo sea de las riberas, terrenos o cauces en que deba usar, extraer, descargar o dividir las aguas, podrá construir en el predio sirviente las obras necesarias para el ejercicio de su derecho, tales como presas, bocatomas, descargas, estribos, centrales hidroeléctricas, casas de máquinas u otras, pagando al dueño del predio, embalse u otra obra, el valor del terreno que ocupare por las obras, más las indemnizaciones que procedan, en la forma establecida en los artículos 71 y 82.
+El titular de los derechos de aprovechamiento que no sea dueño de las riberas, terrenos o cauces en que deba usar, extraer, descargar o dividir las aguas, podrá construir en el predio sirviente las obras necesarias para el ejercicio de su derecho, tales como presas, bocatomas, descargas, estribos, centrales hidroeléctricas, casas de máquinas u otras, pagando al dueño del predio, embalse u otra obra, el valor del terreno que ocupare por las obras, más las indemnizaciones que procedan, en la forma establecida en los artículos 71 y 82.
 
 #### Artículo 97°
 
-El ejercicio de las servidumbres que está facultado a imponer el dueño de un derecho de aprovechamiento no consuntivo, se sujetará, además de las que corresponda según la clase de servidumbre, a las reglas siguientes:
+El ejercicio de las servidumbres que está facultado a imponer el titular de un derecho de aprovechamiento no consuntivo, se sujetará, además de las que corresponda según la clase de servidumbre, a las reglas siguientes:
 
 1. Cuando su ejercicio pueda producir perturbaciones en el libre escurrimiento de las aguas, deberá mantenerse un cauce alternativo que lo asegure y colocarán y mantendrán corrientes para su adecuado manejo a las compuertas que requiera el desvío de las aguas, según fueren las necesidades del predio sirviente y el funcionamiento de las instalaciones para el uso no consuntivo;
 
-2. La construcción y conservación de puentes, canoas, sifones y demás obras y las limpias del acueducto, serán de cuenta del dueño del derecho de aprovechamiento no consuntivo, en la sección del cauce comprendida entre el punto en que el agua se toma y aquel en que se restituye, cuando sea necesario construir un cauce de desvío;
+2. La construcción y conservación de puentes, canoas, sifones y demás obras y las limpias del acueducto, serán de cuenta del titular del derecho de aprovechamiento no consuntivo, en la sección del cauce comprendida entre el punto en que el agua se toma y aquel en que se restituye, cuando sea necesario construir un cauce de desvío;
 
 3. Sin permiso de los titulares de derechos de aprovechamiento consuntivo no podrá detenerse el curso de las aguas;
 
 4. Deberá evitarse, en todo caso, los golpes y mermas de agua, y
 
-5. El dueño de los derechos no consuntivos, no podrá impedir que el titular del consuntivo varíe el rumbo de un acueducto o cierre la bocatoma en épocas de limpia y cuando los trabajos en el canal lo hagan necesario.
+5. El titular de los derechos no consuntivos, no podrá impedir que el titular del consuntivo varíe el rumbo de un acueducto o cierre la bocatoma en épocas de limpia y cuando los trabajos en el canal lo hagan necesario.
 
 #### Artículo 98°
 
@@ -686,7 +864,7 @@ h) De la servidumbre para investigar
 
 #### Artículo 107°
 
-Los interesados en desarrollar las mediciones e investigaciones de los recursos hidráulicos, y los que deseen efectuar los estudios de terreno a que se refiere el artículo 151 podrán ingresar a terrenos de propiedad particular, previa constitución de las servidumbres correspondientes.
+Los interesados en desarrollar las mediciones e investigaciones de los recursos hidrológicos o hidrogeológicos, y los que deseen efectuar los estudios de terreno a que se refiere el artículo 151 podrán ingresar a terrenos de propiedad particular, previa constitución de las servidumbres correspondientes.
 
 i) De las servidumbres voluntarias
 
@@ -740,25 +918,17 @@ Se perfeccionarán por escritura pública los actos y contratos traslaticios de 
 
 Deberán inscribirse en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces:
 
-1. Los títulos constitutivos de una organización de usuarios;
+1. Los instrumentos públicos que contengan el acto formal del otorgamiento definitivo de un derecho de aprovechamiento, así como las que contengan la renuncia a tales derechos;
 
-2. Los acuerdos y resoluciones que causen ejecutoria y que determinen los derechos de cada comunero en las gestiones realizadas ante la Justicia Ordinaria para el reconocimiento de las comunidades, en conformidad al Título III, párrafo 1°, del Libro II;
+2. Los actos y contratos que constituyan títulos traslaticios de dominio de los derechos de aprovechamiento a que se refieren los números anteriores;
 
-3. Los documentos que acrediten la alteración de la distribución de los derechos de aprovechamiento sometidos al régimen de organización de usuarios;
+3. Los actos, resoluciones e instrumentos señalados en el artículo 688 del Código Civil en el caso de transmisión por causa de muerte de los derechos de aprovechamiento;
 
-4. Las escrituras públicas que contengan el acto formal del otorgamiento definitivo de un derecho de aprovechamiento, así como las que contengan la renuncia a tales derechos;
-
-5. Los actos y contratos que constituyan títulos traslaticios de dominio de los derechos de aprovechamiento a que se refieren los números anteriores;
-
-6. Los actos, resoluciones e instrumentos señalados en el artículo 688 del Código Civil en el caso de transmisión por causa de muerte de los derechos de aprovechamiento;
-
-7. Las resoluciones judiciales ejecutoriadas que reconozcan la existencia de un derecho de aprovechamiento, y
-
-8. Los derechos de cada comunero o de cada miembro de una Asociación de Canalistas que consten en los títulos constitutivos o acuerdos o resoluciones a que se refieren los números 1 y 2 de este artículo.
+4. Las resoluciones judiciales ejecutoriadas que reconozcan la existencia de un derecho de aprovechamiento.
 
 #### Artículo 115°
 
-El dueño de un derecho de aprovechamiento que extraiga sus aguas de la corriente natural, independientemente de otro derecho y que haya sido incluido en la constitución de la respectiva junta de vigilancia, podrá inscribir ese derecho en el Registro de Aguas del Conservador de Bienes Raíces, mediante el correspondiente certificado de la Dirección General de Aguas. Efectuada dicha inscripción, los actos y contratos traslaticios de dominio de esos derechos, su transmisión, como también la constitución y tradición de derechos reales sobre ellos, quedarán sometidos a las disposiciones de los dos artículos siguientes.
+Derogado.
 
 #### Artículo 115 bis
 
@@ -778,7 +948,7 @@ Podrán inscribirse en los Registros de Hipotecas y Gravámenes y de Interdiccio
 
 #### Artículo 117°
 
-La tradición de los derechos de aprovechamiento inscritos se efectuará por la inscripción del título en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces.
+La tradición de los derechos de aprovechamiento se efectuará por la inscripción del título en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces.
 
 La constitución y la tradición de los derechos reales constituidos sobre ellos, se efectuará por la inscripción de su título en el Registro de Hipotecas y Gravámenes de Aguas del Conservador de Bienes Raíces respectivo.
 
@@ -794,9 +964,9 @@ Sin perjuicio de las inscripciones que procedan, los Conservadores deberán anot
 
 Las inscripciones originarias y las transferencias contendrán los siguientes datos:
 
-1. El nombre del dueño del derecho de aprovechamiento;
+1. El nombre del titular del derecho de aprovechamiento;
 
-2. La individualización del canal por donde se extraen las aguas de la corriente natural y la ubicación de su bocatoma o la individualización de la captación de aguas subterráneas y la ubicación de su dispositivo;
+2. La individualización del canal por donde se extraen las aguas de la corriente natural y la ubicación de su bocatoma o la individualización de la captación de aguas subterráneas y la ubicación de su dispositivo expresados en coordenadas UTM con indicación del datum y huso, y complementariamente, en los casos que fuere posible, una relación de los puntos de referencia permanentes y conocidos;
 
 3. La individualización de la fuente de la que proceden las aguas;
 
@@ -808,7 +978,7 @@ Las inscripciones originarias y las transferencias contendrán los siguientes da
 
 #### Artículo 120°
 
-La Dirección General de Aguas, sin perjuicio de la facultad de los interesados para ello, podrá requerir de los Conservadores de Bienes Raíces la anotación de los derechos que correspondan a los respectivos canales, de conformidad a lo dispuesto en el artículo 114 y de las sentencias ejecutoriadas que alteren la distribución de las aguas en los cauces naturales, al margen de las respectivas inscripciones originarias de las organizaciones de usuarios y de las comunidades de aguas organizadas ante la Justicia Ordinaria.
+La Dirección General de Aguas, sin perjuicio de la facultad de los interesados para ello, podrá requerir de los Conservadores de Bienes Raíces la anotación de los derechos que correspondan a los respectivos canales, de conformidad a lo dispuesto en el artículo 114 y de las sentencias ejecutoriadas que alteren la distribución de las aguas en los cauces naturales, al margen de las respectivas inscripciones de los derechos de aprovechamiento de aguas afectados.
 
 #### Artículo 121°
 
@@ -822,13 +992,11 @@ En dicho catastro, que estará constituido por los archivos, registros e inventa
 
 En especial, en el Catastro Público de Aguas existirá un Registro Público de Derechos de Aprovechamiento de Aguas, el cual deberá ser mantenido al día, en el sitio web institucional, utilizando entre otras fuentes, la información que emane de escrituras públicas y de inscripciones que se practiquen en los Registros de los Conservadores de Bienes Raíces.
 
-Para los efectos señalados en el inciso anterior, los conservadores de bienes raíces deberán enviar a la Dirección General de Aguas, dentro de los treinta días siguientes a la fecha del acto que se realice ante ellos y en la forma que determine el reglamento del Catastro Público de Aguas del Ministerio de Obras Públicas, la información de las inscripciones relativas a los derechos de aprovechamiento de aguas y sus antecedentes, y de las inscripciones de las organizaciones de usuarios de aguas y sus antecedentes. El incumplimiento de esta obligación por parte de los conservadores será sancionado según lo previsto en el artículo 440 del Código Orgánico de Tribunales.
+Para los efectos señalados en el inciso anterior, los conservadores de bienes raíces deberán enviar a la Dirección General de Aguas, dentro de los treinta días siguientes a la fecha del acto que se realice ante ellos y en la forma que determine el reglamento del Catastro Público de Aguas del Ministerio de Obras Públicas, la información de las inscripciones relativas a los derechos de aprovechamiento de aguas y sus antecedentes. El incumplimiento de esta obligación por parte de los conservadores será sancionado según lo previsto en el artículo 440 del Código Orgánico de Tribunales.
 
-La Dirección General de Aguas, para cada una de las Regiones del país, dictará las resoluciones que contengan los derechos de agua registrados en el Catastro Público de Aguas. Dichas resoluciones se publicarán en el Diario Oficial los días quince de enero, quince de abril, quince de julio o quince de octubre de cada año, o el primer día hábil inmediato si aquéllos fueran feriados. La última publicación se realizará en el plazo de cuatro años, contado desde la entrada en vigencia de esta ley.
+Sin perjuicio de lo señalado en este artículo y de lo establecido en el artículo 150 inciso segundo, los titulares de derechos de aprovechamiento de aguas, cualquiera sea el origen de éstos, deberán inscribirlos en el Registro Público de Derechos de Aprovechamiento de Aguas, bajo el apercibimiento de sanción establecida en los artículos 173 y siguientes. Con relación a los derechos de aprovechamiento que no se encuentren inscritos en el Registro Público de Derechos de Aprovechamiento de Aguas, no se podrá realizar respecto de ellos acto alguno ante la Dirección de Aguas ni la Superintendencia de Servicios Sanitarios. Los titulares de derechos de aprovechamiento de aguas, cuyos derechos reales se encuentren en trámite de inscripción en el Registro Público de Derechos de Aprovechamiento de Aguas, podrán participar en los concursos públicos a que llame la Comisión Nacional de Riego de acuerdo con la ley N° 18.450, que aprobó normas para el fomento de la inversión privada en obras de riego y drenaje, pero la orden de pago del Certificado de Bonificación al Riego y Drenaje, sólo podrá cursarse cuando el beneficiario haya acreditado con la exhibición de copia autorizada del registro ya indicado, que sus derechos se encuentran inscritos.
 
-Sin perjuicio de lo señalado en este artículo y de lo establecido en el artículo 150 inciso segundo, los titulares de derechos de aprovechamiento de aguas, cualquiera sea el origen de éstos, deberán inscribirlos en el Registro Público de Derechos de Aprovechamiento de Aguas. Con relación a los derechos de aprovechamiento que no se encuentren inscritos en el Registro Público de Derechos de Aprovechamiento de Aguas, no se podrá realizar respecto de ellos acto alguno ante la Dirección de Aguas ni la Superintendencia de Servicios Sanitarios. Los titulares de derechos de aprovechamiento de aguas, cuyos derechos reales se encuentren en trámite de inscripción en el Registro Público de Derechos de Aprovechamiento de Aguas, podrán participar en los concursos públicos a que llame la Comisión Nacional de Riego de acuerdo con la ley N° 18.450, que aprobó normas para el fomento de la inversión privada en obras de riego y drenaje, pero la orden de pago del Certificado de Bonificación al Riego y Drenaje, sólo podrá cursarse cuando el beneficiario haya acreditado con la exhibición de copia autorizada del registro ya indicado, que sus derechos se encuentran inscritos.
-
-La Dirección General de Aguas deberá informar, al menos, dos veces al año a las organizaciones de usuarios respectivas todas las inscripciones, subinscripciones y anotaciones que se hayan practicado en el Registro a que se refiere el inciso primero, y que sean consecuencia de la información que le hayan hecho llegar los Conservadores de Bienes Raíces.
+La Dirección General de Aguas deberá publicar en el sitio web institucional la información contenida en el Catastro Público de Aguas y la actualizará periódicamente.
 
 Los Registros que la Dirección General de Aguas debe llevar en virtud de lo dispuesto en el presente artículo, no reemplazarán en caso alguno los Registros que los Conservadores de Bienes Raíces llevan en virtud de lo dispuesto en los artículos 112, 114 y 116 de este Código. Asimismo, los Registros que aquel servicio lleva, en caso alguno acreditarán posesión inscrita ni dominio sobre los derechos de aprovechamiento de aguas o de los derechos reales constituidos sobre ellos.
 
@@ -874,7 +1042,7 @@ En lo demás regirán para las acciones posesorias sobre aguas las disposiciones
 
 #### Artículo 129°
 
-El dominio sobre los derechos de aprovechamiento se extingue por la renuncia señalada en el inciso tercero del artículo 6º y, además, por las causas y en las formas establecidas en el derecho común.
+Los derechos de aprovechamiento se extinguen por la renuncia señalada en el inciso final del artículo 6º y, además, por las causas y en las formas establecidas en el derecho común.
 
 ## Título X
 
@@ -886,21 +1054,45 @@ Si de la ejecución de obras de recuperación de terrenos húmedos o pantanosos 
 
 #### Artículo 129 bis
 
-1°- Al constituir los derechos de aprovechamiento de aguas, la Dirección General de Aguas velará por la preservación de la naturaleza y la protección del medio ambiente, debiendo para ello establecer un caudal ecológico mínimo, el cual sólo afectará a los nuevos derechos que se constituyan, para lo cual deberá considerar también las condiciones naturales pertinentes para cada fuente superficial.
+1°- Respecto de los derechos de aprovechamiento de aguas por otorgar, la Dirección General de Aguas velará por la preservación de la naturaleza y la protección del medio ambiente. Para ello establecerá un caudal ecológico mínimo, para lo cual deberá considerar también las condiciones naturales pertinentes para cada fuente superficial.
 
-Un reglamento, que deberá llevar la firma de los Ministros del Medio Ambiente y Obras Públicas, determinará los criterios en virtud de los cuales se establecerá el caudal ecológico mínimo. El caudal ecológico mínimo no podrá ser superior al veinte por ciento del caudal medio anual de la respectiva fuente superficial.
+Un reglamento, que deberá llevar la firma de los ministros del Medio Ambiente y de Obras Públicas, determinará los criterios en virtud de los cuales se establecerá el caudal ecológico mínimo. El caudal ecológico mínimo no podrá ser superior al 20 por ciento del caudal medio anual de la respectiva fuente superficial.
 
-En casos calificados, y previo informe favorable del Ministerio del Medio Ambiente, el Presidente de la República podrá, mediante decreto fundado, fijar caudales ecológicos mínimos diferentes, sin atenerse a la limitación establecida en el inciso anterior, no pudiendo afectar derechos de aprovechamiento existentes. El caudal ecológico que se fije en virtud de lo dispuesto en el presente inciso, no podrá ser superior al cuarenta por ciento del caudal medio anual de la respectiva fuente superficial.
+En casos calificados, y previo informe favorable del Ministerio del Medio Ambiente, el Presidente de la República podrá fijar caudales ecológicos mínimos diferentes, mediante decreto fundado, sin atenerse a la limitación establecida en el inciso anterior. El caudal ecológico que se fije en virtud de lo dispuesto en el presente inciso no podrá ser superior al 40 por ciento del caudal medio anual de la respectiva fuente superficial.
+
+La Dirección General de Aguas podrá establecer un caudal ecológico mínimo respecto de aquellos derechos existentes en las áreas declaradas bajo protección oficial de la biodiversidad, como los parques nacionales, reservas nacionales, reservas de región virgen, monumentos naturales, santuarios de la naturaleza, los humedales de importancia internacional y los sitios prioritarios de primera prioridad.
+
+Sin perjuicio de lo dispuesto en los incisos anteriores, la Dirección General de Aguas siempre podrá establecer, en el nuevo punto de extracción, un caudal ecológico mínimo en la resolución que autorice el traslado del ejercicio del derecho de aprovechamiento de aguas superficiales. Podrá, a su vez, en su calidad de organismo sectorial con competencia ambiental y en el marco de la evaluación ambiental de un proyecto, proponer un caudal ecológico mínimo o uno superior al mínimo establecido en el momento de la constitución del o los derechos de aprovechamiento de aguas superficiales en aquellos casos en que éstos se aprovechen en las obras a que se refieren los literales a), b) y c) del artículo 294. Con todo, la resolución de calificación ambiental no podrá establecer un caudal ambiental inferior al caudal ecológico mínimo definido por la Dirección General de Aguas.
 
 #### Artículo 129 bis
 
-2°- La Dirección General de Aguas podrá ordenar la inmediata paralización de las obras o labores que se ejecuten en los cauces naturales de aguas corrientes o detenidas que no cuenten con la autorización competente y que pudieran ocasionar perjuicios a terceros, para lo cual podrá requerir el auxilio de la fuerza pública en los términos establecidos en el artículo 138 de este Código, previa autorización del juez de letras competente en el lugar en que se realicen dichas obras. Estas resoluciones se publicarán en el sitio web institucional.
+1 A.- Al solicitarse un derecho de aprovechamiento de aguas o mientras se tramita dicha solicitud, el titular podrá declarar que las aguas serán aprovechadas en su propia fuente sin requerirse su extracción, ya sea para fines de conservación ambiental, o para el desarrollo de un proyecto de turismo sustentable, recreacional o deportivo.
+
+Sin perjuicio de lo señalado en el inciso tercero del artículo 129 bis 2, podrán concederse derechos de aprovechamiento in situ o no extractivos fuera de aquellas áreas que se encuentren declaradas bajo protección oficial para la protección de biodiversidad, ya sea porque la Dirección General de Aguas acredita que la no extracción de estas aguas benefician a dichas áreas de protección oficial o porque el Ministerio del Medio Ambiente ha declarado zona protegida el área donde se concede el derecho de aprovechamiento. El titular no podrá solicitar que se modifique esta modalidad no extractiva de este derecho de aprovechamiento, salvo que el Ministerio del Medio Ambiente declare que el área donde se concedió ha dejado de ser protegida y la Dirección General de Aguas así lo autorice.
+
+Igualmente se podrá solicitar a esa Dirección un derecho de aprovechamiento in situ o no extractivo para el desarrollo de un proyecto de turismo sustentable, recreacional o deportivo, lo cual deberá haberse declarado de ese modo en la memoria explicativa de que da cuenta el numeral 7 del artículo 140, o por acto posterior acompañando dicha memoria actualizada. La solicitud deberá cumplir con lo dispuesto en el reglamento dictado al efecto, el que establecerá las condiciones que debe contener la solicitud cuya finalidad sea el desarrollo de los proyectos descritos y que impliquen no extraer las aguas, la justificación del caudal requerido, los puntos de la fuente natural donde se realizará el aprovechamiento y los plazos para desarrollar la iniciativa. El titular no podrá solicitar que se modifique esta modalidad no extractiva de este derecho de aprovechamiento, salvo que no habiendo desarrollado el proyecto en cuestión, acredite el pago de una multa a beneficio fiscal ante la Tesorería General de la República, en un monto equivalente a la suma de las patentes por no uso expresadas en unidades tributarias mensuales, que hubiese debido pagar desde la fecha de afectación del derecho para estos fines, debidamente capitalizada según la tasa de interés máximo convencional aplicable a operaciones reajustables en moneda nacional. Lo anterior, con un recargo del 5 por ciento.
+
+Respecto de los derechos existentes, para acogerse al beneficio establecido en el artículo 129 bis 9 por el cambio de la modalidad de aprovechamiento preexistente a una de carácter no extractiva, como las mencionadas en el inciso primero; su titular deberá obtener la autorización de la Dirección General de Aguas. El Reglamento señalado en el inciso precedente regulará también el procedimiento para el caso de la solicitud de modificación del modo de aprovechamiento al que se refiere este artículo.
+
+Los derechos que se constituyan en función de lo dispuesto en el presente artículo, así como los que se acojan al cambio de modalidad de aprovechamiento, deberán dejar expresa constancia de ello en el correspondiente título que se inscribirá en el Registro del Conservador de Bienes Raíces y en el Catastro Público de Aguas.
+
+#### Artículo 129 bis
+
+2°- La Dirección General de Aguas podrá ordenar la inmediata paralización de las obras o labores que se ejecuten en los cauces naturales de aguas corrientes o detenidas que afectaren la cantidad o la calidad de éstas o que no cuenten con la autorización competente y que pudieran ocasionar perjuicios a terceros, para lo cual podrá requerir el auxilio de la fuerza pública en los términos establecidos en el artículo 138 de este Código, previa autorización del juez de letras competente en el lugar en que se realicen dichas obras. Estas resoluciones se publicarán en el sitio web institucional.
 
 Asimismo, en las autorizaciones que otorgue la Dirección General de Aguas referidas a modificaciones o a nuevas obras en cauces naturales que signifiquen una disminución en la recarga natural de los acuíferos, dispondrá las medidas mitigatorias apropiadas. De no cumplirse dichas medidas, el Servicio aplicará las sanciones correspondientes, pudiendo ejercer las atribuciones dispuestas en el artículo 172 de este Código.
 
+Sin perjuicio de lo establecido en los artículos anteriores, no podrán otorgarse derechos de aprovechamiento en las áreas declaradas bajo protección oficial para la protección de la biodiversidad, como los parques nacionales, reserva nacional, reserva de regiones vírgenes, monumento natural, santuario de la naturaleza, los humedales de importancia internacional y aquellas zonas contempladas en los artículos 58 y 63, a menos que se trate de actividades compatibles con los fines de conservación del área o sitios referidos, lo que deberá ser acreditado mediante informe del Ministerio del Medio Ambiente.
+
+Los derechos de aprovechamiento ya existentes en las áreas indicadas en el inciso anterior sólo podrán ejercerse en la medida que ello sea compatible con la actividad y fines de conservación de éstas. La contravención a lo dispuesto en este inciso se sancionará de conformidad con lo establecido en el artículo 173.
+
+Sin perjuicio de lo señalado en los incisos anteriores, y en caso de que exista actividad turística en alguno de los lugares descritos en este artículo, podrán constituirse derechos de aprovechamiento a favor de la Corporación Nacional Forestal para que ésta haga uso de ellos en la respectiva área protegida.
+
 #### Artículo 129 bis
 
-3°- La Dirección General de Aguas deberá establecer una red de estaciones de control de calidad, cantidad y niveles de las aguas tanto superficiales como subterráneas en cada cuenca u hoya hidrográfica. La información que se obtenga deberá ser pública y deberá proporcionarse a quien la solicite.
+3°- La Dirección General de Aguas deberá establecer y mantener una red de estaciones de control de calidad, cantidad y niveles de las aguas tanto superficiales como subterráneas y de los glaciares y nieves en cada cuenca u hoya hidrográfica. La información que se obtenga deberá ser pública y actualizada, sin perjuicio de su publicación en la página web de la Dirección.
+
+Para los efectos de esta ley, se entenderá por calidad, al menos, los parámetros físicos y químicos del recurso hídrico.
 
 ## Título XI
 
@@ -908,11 +1100,11 @@ DEL PAGO DE UNA PATENTE POR LA NO UTILIZACION DE LAS AGUAS
 
 #### Artículo 129 bis
 
-4°- Los derechos de aprovechamiento no consuntivos de ejercicio permanente respecto de los cuales su titular no haya construido las obras señaladas en el inciso primero del artículo 129 bis 9, estarán afectos, en la proporción no utilizada de sus respectivos caudales, al pago de una patente anual a beneficio fiscal. La patente se regirá por las siguientes reglas:
+4°- Los derechos de aprovechamiento no consuntivos de ejercicio permanente respecto de los cuales su titular no haya construido las obras señaladas en el inciso primero del artículo 129 bis 9, estarán afectos, en la proporción no utilizada de sus respectivos caudales, al pago de una patente anual a beneficio fiscal.
 
-1.- En el caso de derechos de aprovechamiento no consuntivos cuyos puntos de captación se ubiquen entre las Regiones Primera y Décima, con excepción de la provincia de Palena:
+1.- La patente se regirá por las siguientes reglas:
 
-a) En los primeros cinco años, la patente será equivalente, en unidades tributarias mensuales, al valor que resulte de la siguiente operación aritmética:
+a) En los primeros cinco años contados desde la fecha en que se constituya, reconozca o autorice el derecho de aprovechamiento de aguas, la patente será equivalente, en unidades tributarias mensuales, al valor que resulte de la siguiente operación aritmética:
 
 Valor anual de la patente en UTM=0.33xQxH.
 
@@ -920,23 +1112,15 @@ El factor Q corresponderá al caudal medio no utilizado expresado en metros cúb
 
 b) Entre los años sexto y décimo inclusive, la patente calculada de conformidad con la letra anterior se multiplicará por el factor 2, y
 
-c) Desde el año undécimo en adelante, se multiplicará por el factor 4.
+c) Entre los años undécimo y décimo quinto inclusive, la patente calculada de conformidad con la letra a) precedente se multiplicará por el factor 4, y en los quinquenios siguientes su monto se calculará duplicando el factor anterior, y así sucesivamente.
 
-2.- En el caso de derechos de aprovechamiento no consuntivos cuyos puntos de captación se ubiquen en la provincia de Palena y en las Regiones Undécima y Duodécima:
+d) El titular de un derecho de aprovechamiento constituido con anterioridad a la publicación de esta ley que no haya construido las obras descritas en el inciso primero del artículo 129 bis 9, habiendo transcurrido diez años contados desde dicha fecha de publicación, quedará afecto a la extinción de su derecho de aprovechamiento en aquella parte no efectivamente utilizada, de conformidad con las disposiciones y las suspensiones señaladas en el artículo 6 bis y sujeto al procedimiento descrito en el artículo 134 bis. Sin perjuicio de los plazos de las suspensiones establecidos en el artículo 6 bis, la contabilización del plazo para abrir el expediente administrativo de extinción del derecho se suspenderá por todo el tiempo que dure la tramitación de los permisos necesarios para construir las obras que deban ser otorgados por la Dirección General de Aguas y/o la Dirección de Obras Hidráulicas, incluyendo los ajustes a que se refiere el inciso tercero del artículo 156. Las solicitudes de traslado del ejercicio del derecho de aprovechamiento y las de cambio de punto de captación de él no quedarán comprendidas en la referida suspensión, salvo que deban presentarse a consecuencia del cumplimiento de un trámite exigido para la recepción de las obras por parte de la Dirección General de Aguas o en otros casos calificados determinados por resolución fundada de esa Dirección, donde se compruebe la diligencia del solicitante.
 
-a) En los primeros cinco años, la patente será equivalente, en unidades tributarias mensuales, al valor que resulte de la siguiente operación aritmética:
-
-Valor anual de la patente en UTM=0.22xQxH.
-
-b) Entre los años sexto y décimo inclusive, la patente calculada de conformidad con la letra anterior se multiplicará por el factor 2, y
-
-c) Desde el año undécimo en adelante, se multiplicará por el factor 4.
-
-3.- Para los efectos del cálculo de la patente establecida en el presente artículo, si la captación de las aguas se hubiere solicitado realizar a través de un embalse, el valor del factor H corresponderá, en todo caso, al desnivel entre la altura máxima de inundación y el punto de restitución expresado en metros.
+2.- Para los efectos del cálculo de la patente establecida en el presente artículo, si la captación de las aguas se hubiere solicitado realizar a través de un embalse, el valor del factor H corresponderá, en todo caso, al desnivel entre la altura máxima de inundación y el punto de restitución expresado en metros.
 
 En todos aquellos casos en que el desnivel entre los puntos de captación y restitución resulte inferior a 10 metros, el valor del factor H, para los efectos de esa operación, será igual a 10.
 
-4.- Estarán exentos del pago de patente aquellos derechos de aprovechamiento cuyos volúmenes medios por unidad de tiempo, expresados en el acto de constitución original, sean inferiores a 100 litros por segundo, en las Regiones Primera a Metropolitana, ambas inclusive, y a 500 litros por segundo en el resto de las Regiones.
+Para los efectos de la contabilización de los plazos de no utilización de las aguas, éstos comenzarán a regir a contar del 1 de enero del año siguiente al de la fecha de publicación de la ley N° 20.017, salvo que se trate de derechos de aprovechamientos que se constituyan, autoricen o reconozcan con posterioridad a esa fecha.
 
 #### Artículo 129 bis
 
@@ -944,31 +1128,23 @@ En todos aquellos casos en que el desnivel entre los puntos de captación y rest
 
 La patente a que se refiere este artículo se regirá por las siguientes normas:
 
-a) En los primeros cinco años, los derechos de ejercicio permanente, cuyas aguas pertenezcan a cuencas hidrográficas situadas en las Regiones Primera a Metropolitana, ambas inclusive, pagarán una patente anual cuyo monto será equivalente a 1,6 unidades tributarias mensuales, por cada litro por segundo.
-
-Respecto de los derechos de aprovechamiento cuyas aguas pertenezcan a cuencas hidrográficas situadas en las Regiones Sexta a Novena, ambas inclusive, la patente será equivalente a 0,2 unidades tributarias mensuales, por cada litro por segundo, y para las situadas en las Regiones Décima, Undécima y Duodécima, ascenderá a 0,1 unidad tributaria mensual por cada litro por segundo.
+a) En los primeros cinco años, los derechos de ejercicio permanente pagarán una patente anual cuyo monto será equivalente a 1,6 unidades tributarias mensuales por cada litro por segundo.
 
 b) Entre los años sexto y décimo inclusive, la patente calculada de conformidad con la letra anterior se multiplicará por el factor 2, y
 
-c) Desde el año undécimo en adelante, se multiplicará por el factor 4.
+c) Entre los años undécimo y décimo quinto inclusive, la patente calculada de conformidad con la letra a) precedente se multiplicará por el factor 4, y en los quinquenios siguientes su monto se calculará duplicando el factor anterior, y así sucesivamente.
 
-Para los efectos de la contabilización de los plazos de no utilización de las aguas, éstos comenzarán a regir a contar del 1 de enero del año siguiente al de la fecha de publicación de esta ley. En el caso de derechos de aprovechamiento que se constituyan o reconozcan con posterioridad a tal fecha, los plazos se computarán desde la fecha de su constitución o reconocimiento.
+d) El titular de un derecho de aprovechamiento constituido con anterioridad a la publicación de esta ley, que no haya construido las obras descritas en el inciso primero del artículo 129 bis 9, habiendo transcurrido cinco años contados desde la fecha de publicación de esta ley, quedará afecto a la extinción de su derecho de aprovechamiento en aquella parte no efectivamente utilizada, de conformidad con las disposiciones y las suspensiones señaladas en el artículo 6 bis y sujeto al procedimiento descrito en el artículo 134 bis. Sin perjuicio de los plazos de las suspensiones establecidos en el artículo 6 bis, la contabilización del plazo para abrir el expediente administrativo de extinción del derecho se suspenderá por todo el tiempo que dure la tramitación de los permisos necesarios para construir las obras, que deban ser otorgados por la Dirección General de Aguas y/o la Dirección de Obras Hidráulicas, incluyendo los ajustes a que se refiere el inciso tercero del artículo 156. Las solicitudes de traslado del ejercicio del derecho de aprovechamiento y las de cambio de punto de captación de él no quedarán comprendidas en la referida suspensión, salvo cuando deban presentarse a consecuencia del cumplimiento de un trámite exigido para la recepción de las obras por parte de la Dirección General de Aguas.
 
-Estarán exentos del pago de patente aquellos derechos de aprovechamiento cuyos volúmenes medios por unidad de tiempo, expresados en el acto de constitución original, sean inferiores a 10 litros por segundo, en las Regiones Primera a Metropolitana, ambas inclusive, y a 50 litros por segundo en el resto de las Regiones.
+Para los efectos de la contabilización de los plazos de no utilización de las aguas, de que dan cuenta los literales a), b) y c) anteriores, éstos comenzarán a regir a contar del 1 de enero del año siguiente al de la fecha de publicación de la ley N° 20.017, a menos que se trate de derechos de aprovechamiento que se constituyan o reconozcan con posterioridad a tal fecha, caso en el cual los plazos se computarán desde la fecha de su constitución o reconocimiento.
 
 #### Artículo 129 bis
 
 6°- Los derechos de aprovechamiento de ejercicio eventual, que no sean utilizados total o parcialmente, pagarán un tercio del valor de la patente asignada a los derechos de ejercicio permanente.
 
-Estarán exentos del pago de patente aquellos derechos de aprovechamiento no consuntivos de ejercicio eventual cuyos volúmenes medios por unidad de tiempo, expresados en el acto de constitución original, sean inferiores a 300 litros por segundo, en las Regiones Primera a Metropolitana, ambas inclusive, y a 1.500 litros por segundo en el resto de las Regiones.
-
-También estarán exentos del pago de patente aquellos derechos de aprovechamiento consuntivos de ejercicio eventual cuyos volúmenes medios por unidad de tiempo, expresados en el acto de constitución original, sean inferiores a 30 litros por segundo, en las Regiones Primera a Metropolitana, ambas inclusive, y a 150 litros por segundo en el resto de las Regiones.
-
-Finalmente, estarán exentos del pago de patente aquellos derechos de aprovechamiento de ejercicio eventual, cualquiera sea su caudal, que sean de propiedad fiscal.
-
 #### Artículo 129 bis
 
-7°- El pago de la patente se efectuará dentro del mes de marzo de cada año, en cualquier banco o institución autorizados para recaudar tributos. La Dirección General de Aguas publicará la resolución que contenga el listado de los derechos sujetos a esta obligación, en las proporciones que correspondan. El listado deberá contener: la individualización del propietario, la naturaleza del derecho, el volumen por unidad de tiempo involucrado en el derecho y la capacidad de las obras de captación, la fecha y número de la resolución de la Dirección General de Aguas o de la sentencia judicial que otorgó el derecho y la individualización de su inscripción en el Registro de Aguas del Conservador de Bienes Raíces respectivo en el caso en que estos datos se encuentren en poder de la autoridad. La publicación será complementada mediante mensaje radial de un extracto de ésta, en una emisora con cobertura territorial del área correspondiente. Esta publicación se efectuará el 15 de enero de cada año o el primer día hábil inmediato si aquél fuere feriado, en el Diario Oficial y en forma destacada en un diario o periódico de la provincia respectiva y, si no lo hubiere, en uno de la capital de la Región correspondiente.
+7°- El pago de la patente se efectuará dentro del mes de marzo de cada año, en cualquier banco o institución autorizados para recaudar tributos. La Dirección General de Aguas publicará la resolución que contenga el listado de los derechos sujetos a esta obligación, en las proporciones que correspondan. El listado deberá contener: la individualización del propietario, la naturaleza del derecho, el volumen por unidad de tiempo involucrado en el derecho y la capacidad de las obras de captación, la fecha y número de la resolución de la Dirección General de Aguas o de la sentencia judicial que otorgó el derecho y la individualización de su inscripción en el Registro de Aguas del Conservador de Bienes Raíces respectivo en el caso en que estos datos se encuentren en poder de la autoridad. La publicación será complementada mediante mensaje radial de un extracto de ésta, en una emisora con cobertura territorial del área correspondiente. Esta publicación se efectuará el 15 de enero de cada año o el primer día hábil inmediato si aquél fuere feriado, en el Diario Oficial y en forma destacada en el sitio web institucional y en un diario o periódico de la provincia respectiva y, si no lo hubiere, en uno de la capital de la Región correspondiente.
 
 Esta publicación se considerará como notificación suficiente para los efectos de lo dispuesto en el artículo 129 bis 10.
 
@@ -980,21 +1156,23 @@ Sin perjuicio de lo señalado en el presente artículo, el pago de la patente se
 
 #### Artículo 129 bis
 
-9°- Para los efectos del artículo anterior, el Director General de Aguas no podrá considerar como sujetos al pago de la patente a que se refieren los artículos 129 bis 4, 129 bis 5 y 129 bis 6, aquellos derechos de aprovechamiento para los cuales existan obras de captación de las aguas. En el caso de los derechos de aprovechamiento no consuntivos, deberán existir también las obras necesarias para su restitución.
+9°- Para los efectos del artículo anterior, el Director General de Aguas no podrá considerar como sujetos al pago de la patente a que se refieren los artículos 129 bis 4, 129 bis 5 y 129 bis 6, aquellos derechos de aprovechamiento para los cuales existan obras de captación de las aguas. Se entenderá por obras de captación de aguas superficiales, aquellas que permitan incorporarlas a los canales y a otras obras de conducción, aun cuando tales obras sean de carácter temporal y se renueven periódicamente. Tratándose de aguas subterráneas, se entenderá por obras de captación aquéllas que permitan su alumbramiento, tales como, bombas de extracción, instalaciones mecánicas, instalaciones eléctricas y tuberías, entre otras. En ambos casos, dichas obras deberán ser suficientes y aptas para la efectiva utilización de las aguas, capaces de permitir su captación o alumbramiento, y su restitución al cauce, en el caso de los derechos de aprovechamiento no consuntivos.
 
 El no pago de patente a que se refiere el inciso anterior se aplicará en proporción al caudal correspondiente a la capacidad de captación de tales obras.
 
-Asimismo, el Director General de Aguas no podrá considerar como sujetos al pago de la patente a que se refieren los artículos 129 bis 4, 129 bis 5 y 129 bis 6, aquellos derechos de aprovechamiento permanentes que, por decisión de la organización de usuarios correspondiente, hubieran estado sujetos a turno o reparto proporcional.
+Estarán exentos del pago de la patente a la que se refiere este Título:
 
-También estarán exentos del pago de la patente la totalidad o una parte de aquellos derechos de aprovechamiento que son administrados y distribuidos por una organización de usuarios en un área en la que no existan hechos, actos o convenciones que impidan, restrinjan o entorpezcan la libre competencia.
+1. Aquellos derechos de aprovechamiento de aguas inscritos a nombre de un comité u otra asociación de agua potable rural o de servicios sanitarios rurales, según corresponda, destinados al servicio sanitario rural mediante contratos, circunstancias que deberá certificar el administrador del servicio o, cuando corresponda, la Dirección de Obras Hidráulicas.
 
-Para acogerse a la exención señalada en el inciso anterior, será necesario que el Tribunal de Defensa de la Libre Competencia, a petición de la respectiva organización de usuarios o de algún titular de un derecho de aprovechamiento que forme parte de una organización de usuarios y previo informe de la Dirección General de Aguas, y de conformidad con lo dispuesto en los artículos 17 C y 18 de la ley Nº 19.911, declare que en el área señalada en el inciso anterior, no existen hechos, actos o convenciones que impidan, restrinjan o entorpezcan la libre competencia. Esta declaración podrá ser dejada sin efecto por el mismo Tribunal, si existe un cambio en las circunstancias que dieron origen a la exención. Esta exención regirá una vez que haya sido declarada por el Tribunal de Defensa de la Libre Competencia y no tendrá efecto retroactivo.
+2. Aquellos derechos de aprovechamiento que posean las empresas de servicios públicos sanitarios y que se encuentren afectos a su respectiva concesión, hasta la fecha en que, de acuerdo con su programa de desarrollo, deben comenzar a utilizarse, circunstancias que deberá certificar la Superintendencia de Servicios Sanitarios.
 
-La declaración efectuada de conformidad con lo dispuesto en el inciso anterior, deberá ser comunicada a la Dirección General de Aguas para la determinación que ésta debe efectuar de conformidad con lo dispuesto en el artículo 129 bis 8.
+3. Aquellos derechos de aprovechamiento de aguas de los que sean titulares las comunidades agrícolas definidas en el artículo 1 del decreto con fuerza de ley N° 5, de 1967, del Ministerio de Agricultura.
 
-El Director de Aguas no podrá considerar como sujetos al pago de la patente a que se refieren los artículos 129 bis 4, 129 bis 5 y 129 bis 6, aquellos derechos de aprovechamiento que posean las empresas de servicios públicos sanitarios y que se encuentren afectos a su respectiva concesión, hasta la fecha que, de acuerdo con su programa de desarrollo, deben comenzar a utilizarse, circunstancias que deberá certificar la Superintendencia de Servicios Sanitarios.
+4. Aquellos derechos de aprovechamiento destinados a fines no extractivos, de conformidad con lo dispuesto en el artículo 129 bis 1 A y su reglamento. Este reglamento definirá el plazo para desarrollar los proyectos a que se refiere el inciso primero de ese artículo, cumplido el cual, y no habiéndose desarrollado el referido proyecto, dejará de aplicar la exención que se regula en esta disposición.
 
-Para los efectos de este artículo, se entenderá por obras de captación de aguas superficiales, aquellas que permitan incorporarlas a los canales y a otras obras de conducción, aún cuando tales obras sean de carácter temporal y se renueven periódicamente. Tratándose de aguas subterráneas, se entenderá por obras de captación aquéllas que permitan su alumbramiento.
+5. Aquellos derechos de aprovechamiento de ejercicio eventual, cualquiera sea su caudal, que sean de propiedad fiscal.
+
+6. Aquellos de los que sean titulares indígenas o comunidades indígenas, entendiendo por tales los regulados en el artículo 5 de este Código, y considerados en los artículos 2 y 9 de la ley N° 19.253, respectivamente.
 
 #### Artículo 129 bis
 
@@ -1004,91 +1182,73 @@ La interposición del recurso de reclamación señalado en el artículo 137, no 
 
 #### Artículo 129 bis
 
-11°- Si el titular del derecho de aprovechamiento no pagare la patente dentro del plazo indicado en el artículo 129 bis 7, se iniciará un procedimiento judicial para su cobro.
+11°- Si el titular del derecho de aprovechamiento no pagare la patente dentro del plazo indicado en el artículo 129 bis 7, se iniciará un procedimiento judicial para efectuar un remate público de ese derecho.
 
 La ejecución de la obligación de pagar la patente sólo podrá hacerse efectiva sobre la parte no utilizada del respectivo derecho de aprovechamiento.
 
-#### Artículo 129 bis
-
-12°- Antes del 1 de junio de cada año, el Tesorero General de la República enviará a los juzgados competentes la nómina de los derechos de aprovechamiento de aguas, cuyas patentes no hayan sido pagadas, especificando su titular y el monto adeudado para iniciar el procedimiento. La nómina constituirá título ejecutivo y deberá indicar a lo menos: nombre del titular, fecha de constitución y número del acto administrativo que otorgó el derecho, la parte que está afecta a tributo y resolución respectiva e inscripción en el Registro de Aguas del Conservador de Bienes Raíces y en el Catastro Público de Aguas, si se tuviese esta última. La Dirección General de Aguas deberá velar por el cumplimiento de esta disposición y prestará su colaboración a la Tesorería General de la República.
-
-Será juez competente para conocer del juicio ejecutivo el de la comuna donde tenga su oficio el Conservador de Bienes Raíces en cuyo Registro se encuentren inscritos los derechos de aprovechamiento. En caso de no estar inscritos tales derechos, la Dirección General de Aguas podrá subrogarse en los derechos del titular no inscrito, sólo para los efectos de proceder a su inscripción en el Registro de Propiedad del conservador que sea competente, a costa del particular. Si hubiere más de uno, lo será el que estuviere de turno al tiempo de la recepción de la nómina a que se refiere el inciso anterior. Será aplicable a este juicio, en lo que corresponda, lo dispuesto en el artículo 458 del Código de Procedimiento Civil.
+La referida acción prescribirá en el plazo de tres años, contado desde el 1 de abril del año en que debió pagarse la patente.
 
 #### Artículo 129 bis
 
-13°- El juez despachará el mandamiento de ejecución y embargo, sobre la parte no utilizada del derecho de aprovechamiento, mediante una providencia que estampará en un documento independiente a la nómina indicada en el artículo anterior.
+12°- Antes del 1 de junio de cada año, el Tesorero General de la República enviará a los juzgados competentes la nómina de los derechos de aprovechamiento de aguas, cuyas patentes no hayan sido pagadas, especificando su titular y el monto adeudado para iniciar el procedimiento de cobranza. La nómina tendrá mérito ejecutivo y deberá indicar a lo menos: nombre del titular, fecha de constitución y número del acto administrativo que otorgó el derecho, la parte que está afecta a tributo y resolución respectiva e inscripción en el Registro de Aguas del Conservador de Bienes Raíces y en el Catastro Público de Aguas, si se tuviesen estas dos últimas. Dentro de los treinta días siguientes de iniciado el proceso judicial, la Tesorería General de la República enviará copia de dichas nóminas, con la constancia de haber sido presentada al tribunal, a la Dirección General de Aguas, la que deberá velar por el cumplimiento de esta disposición y prestará su colaboración a la Tesorería General de la República, pudiendo actuar como tercero coadyuvante en estos procedimientos.
 
-Este podrá dirigirse contra todos los deudores a la vez y no será susceptible de recurso alguno.
+Mientras no se haya dado cumplimiento al trámite señalado en el inciso anterior, el pago de la patente vencida deberá hacerse con un recargo del 10 por ciento del monto adeudado, más un interés penal del 1,5 por ciento mensual por cada mes o fracción de mes, en caso de mora del pago del todo o parte que adeudare. Este interés se calculará sobre el monto reajustado.
 
-El embargo sólo podrá recaer en la parte del derecho de aprovechamiento afecto al pago de las patentes que se adeuden.
+Recibida la nómina, el juez dictará una resolución decretando el remate, la que deberá ser notificada al deudor por el recaudador fiscal del Servicio de Tesorerías, de conformidad a sus facultades legales, en especial aquellas dispuestas en el artículo 171 del Código Tributario. Si el domicilio se encontrare en áreas urbanas, dicha notificación será realizada mediante carta certificada. Efectuada la notificación y transcurrido el plazo que el deudor tiene para oponerse a la ejecución sin que lo hubiere hecho o, habiendo deducido oposición, ésta fuere rechazada, el juez dictará una resolución señalando día y hora para el remate y ordenará que su publicación junto a la nómina de los derechos a subastar se realice en dos días distintos en un diario o periódico de la provincia respectiva y, si no lo hubiere, en uno de la capital de la región correspondiente, con independencia de su soporte, sea éste impreso, digital o electrónico. Corresponderá a la Tesorería General de la República efectuar estas publicaciones y cubrir sus gastos.
+
+El remate no podrá efectuarse antes de los treinta días siguientes a la fecha del último aviso.
+
+Las omisiones o errores en que la Tesorería General de la República haya incurrido en la nómina referida en el inciso primero podrán ser rectificados antes del remate, a solicitud de cualquiera que tenga interés en ello o de la Dirección General de Aguas.
+
+El juez procederá con conocimiento de causa. Las rectificaciones se publicarán de igual forma que la publicación original y el remate se postergará para una fecha posterior en treinta días, a lo menos, a la última publicación.
+
+El secretario del tribunal dará testimonio en los autos de haberse publicado el aviso en la forma y oportunidad señaladas.
+
+Será juez competente para conocer de este procedimiento el de la comuna donde tenga su oficio el Conservador de Bienes Raíces en cuyo Registro se encuentren inscritos los derechos de aprovechamiento o el de la comuna en que se encuentre ubicada la captación, en caso de no estar inscrito. En caso de no estar inscritos tales derechos, la Dirección General de Aguas podrá subrogarse en los derechos del titular no inscrito, sólo para los efectos de proceder a su inscripción en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces competente. Los notarios, conservadores, archiveros y oficiales civiles estarán obligados a proporcionar preferentemente las copias, inscripciones y anotaciones que les pida, para estos efectos, el Director General de Aguas. El valor de sus actuaciones lo percibirán a medida que los ejecutados enteren en Tesorería las respectivas costas de cobranza. En caso de no estar inscritos tales derechos, la Dirección General de Aguas podrá subrogarse en los derechos del titular no inscrito, sólo para los efectos de proceder a su inscripción en el Registro de Propiedad del conservador que sea competente, a costa del particular. Si hubiere más de uno, lo será el que estuviere de turno al tiempo de la recepción de la nómina a que se refiere el inciso anterior.
 
 #### Artículo 129 bis
 
-14°- La notificación de encontrarse en mora, así como el requerimiento de pago, se harán a la persona que figure como propietaria del derecho de aprovechamiento en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces respectivo y podrán dirigirse contra uno o varios deudores a la vez, mediante el envío de carta certificada al domicilio del deudor.
-
-La notificación y el requerimiento señalados en el inciso anterior se entenderán realizados por la publicación de la resolución que contenga el requerimiento de pago en el Diario Oficial el día primero o quince de cada mes o el primer día hábil inmediatamente siguiente si aquéllos fueren feriados, y, en forma destacada, en un diario o periódico de la provincia respectiva y, si no lo hubiere, en uno de la capital de la Región correspondiente. El costo de esta publicación será de cargo de la Tesorería General de la República.
-
-La parte del derecho de aprovechamiento o el derecho de aprovechamiento de aguas objeto de la patente adeudada se entenderá embargado por el solo ministerio de la ley, desde el momento en que se efectúe el requerimiento de pago.
-
-#### Artículo 129 bis
-
-15°- El deudor podrá oponerse a la ejecución dentro del plazo de treinta días hábiles contado desde la fecha de las publicaciones señaladas en el artículo anterior.
+12 A.- El deudor podrá oponerse a la ejecución dentro del plazo de quince días hábiles, contado desde la fecha de la notificación señalada en el artículo 129 bis 12.
 
 La oposición sólo será admisible cuando se funde en alguna de las siguientes excepciones:
 
-1º Pago de la deuda, siempre que conste por escrito;
+1. Pago de la deuda, siempre que conste por escrito.
 
-2º Prescripción de la deuda;
+2. Prescripción de la deuda.
 
-3º Remisión de la deuda;
+3. Que se encuentren pendientes de resolución algunos de los recursos a que se refiere el artículo 129 bis 10. En este caso, y mientras se encuentre pendiente la resolución de dichos recursos, se suspenderá el procedimiento.
 
-4º Cosa juzgada, o
+4. Que el pago de la patente se encuentre suspendido por aplicación de lo dispuesto en el inciso final del artículo 129 bis 7.
 
-5º Que se encuentren pendientes de resolución algunos de los recursos a que se refiere el artículo 129 bis 10. En este caso, y mientras se encuentre pendiente la resolución de dichos recursos, se suspenderá el procedimiento.
+La oposición se tramitará en forma incidental, pero si las excepciones no reúnen los requisitos exigidos en el inciso anterior se rechazarán de plano. El recurso de apelación que se interponga en contra de la resolución que rechace las excepciones se concederá en el solo efecto devolutivo. El tribunal de segunda instancia sólo podrá ordenar la suspensión de la ejecución cuando la oposición se funde en el pago de la deuda que conste en un antecedente escrito o en que se encuentren pendientes de resolución algunos de los recursos a que se refiere el artículo 129 bis 10. La apelación que se interponga en contra de la resolución que acoja las excepciones se concederá en ambos efectos.
 
-6º Que el pago de la patente se encuentre suspendida por aplicación del inciso final del artículo 129 bis 7.
-
-La oposición se tramitará en forma incidental, pero si las excepciones no reúnen los requisitos exigidos en el inciso anterior, se rechazará de plano. El recurso de apelación que se interponga en contra de la resolución que rechace las excepciones se concederá en el solo efecto devolutivo. El tribunal de segunda instancia sólo podrá ordenar la suspensión de la ejecución cuando la oposición se funde en el pago de la deuda que conste en un antecedente escrito o en que se encuentren pendientes de resolución algunos de los recursos a que se refiere el artículo 129 bis 10. La apelación que se interponga en contra de la resolución que acoja las excepciones, se concederá en ambos efectos.
-
-Si se acogieren parcialmente las excepciones, proseguirá la ejecución por el monto que determine el tribunal, en conformidad a lo dispuesto en el artículo siguiente. Si los recursos a los que alude el número 5º del presente artículo son acogidos, el tribunal dispondrá el archivo de los antecedentes. En caso contrario, continuará con la tramitación del procedimiento de remate.
+Si se acogieren parcialmente las excepciones, proseguirá la ejecución por el monto que determine el tribunal. Si los recursos a los que alude el número 3 del presente artículo son acogidos, el tribunal dispondrá el archivo de los antecedentes. En caso contrario, continuará con la tramitación del procedimiento de remate.
 
 #### Artículo 129 bis
 
-16°- Si transcurriere el plazo que el deudor tiene para oponerse a la ejecución sin que lo hubiere hecho o, habiendo deducido oposición, ésta fuere rechazada, el juez dictará una resolución señalando día y hora para el remate, la que se publicará, junto a la nómina de derechos a subastar, por una sola vez en un diario o periódico de la provincia respectiva y, si no lo hubiere, en uno de la capital de la Región correspondiente. La nómina, además se difundirá mediante mensaje radial en una emisora con cobertura territorial del área pertinente. El costo de estas publicaciones será de cargo de la Tesorería General de la República.
+13°- El mínimo de la subasta será el valor de las patentes adeudadas, o la parte que corresponda. El titular del derecho podrá liberarlo pagando dicho valor, con el recargo del 100 por ciento de éste.
 
-El juez dispondrá, previo informe de la Dirección General de Aguas y teniendo a la vista las peticiones de los posibles interesados, que el caudal correspondiente a los derechos de aprovechamiento a rematar, sea subastado fraccionándolo en tantas partes como estime conveniente, debiendo comenzar la subasta por la cuota menor.
+Para tomar parte en el remate, todo postor deberá rendir caución suficiente a beneficio fiscal, calificada por el tribunal sin ulterior recurso, para asegurar el pago de los derechos de aprovechamiento rematados. La garantía será equivalente al 10 por ciento de la suma adeudada, o la parte que corresponda, y subsistirá hasta que se otorgue la escritura definitiva de adjudicación.
 
-El remate no podrá efectuarse antes de los treinta días siguientes a la fecha del aviso.
+Si el adjudicatario no enterare el precio de la subasta dentro del plazo de quince días contado desde la fecha del remate, la adjudicación quedará sin efecto por el solo ministerio de la ley y el juez hará efectiva la garantía a beneficio fiscal. En ese mismo acto, el juez ordenará cancelar total o parcialmente las correspondientes inscripciones del Registro de Propiedad de Aguas del Conservador de Bienes Raíces competente y enviará copia de dicha resolución a la Dirección General de Aguas. La deuda se entenderá extinta una vez inscrita la cancelación ordenada por el juez. Por el solo ministerio de la ley quedarán libres las aguas para ser reservadas de conformidad con el artículo 5 ter o disponibles para la constitución de nuevos derechos de aprovechamiento de conformidad con las normas generales, priorizando los usos de subsistencia y preservación eco-sistémica.
 
-Los errores u omisiones en la publicación señalada en el inciso primero podrán ser rectificados antes del remate, a solicitud de cualquiera que tenga interés en ello o de la Dirección General de Aguas. El juez resolverá con conocimiento de causa. Las rectificaciones se publicarán en igual forma que la publicación original y el remate se postergará para una fecha posterior en treinta días, a lo menos, a la última publicación.
+Si la suma obtenida del remate excediere lo adeudado por concepto de patentes, gastos y costas, el remanente será entregado al ejecutado, una vez descontado el recargo, gastos y costas asociados al remate.
 
-El secretario del tribunal dará testimonio en los autos de haberse publicado los avisos en la forma y oportunidad señaladas.
+La venta en remate se hará por el tribunal que corresponda y a ella podrán concurrir el Fisco, representado para estos efectos por el abogado del Servicio de Tesorerías, las instituciones del sector público y cualquier persona, natural o jurídica, en igualdad de condiciones. El Fisco podrá imputar al precio del remate el monto adeudado por concepto de patentes.
 
-El mínimo de la subasta será el valor de las patentes adeudadas, o la parte que corresponda, y el titular del derecho podrá liberarlo pagando dicho valor más un treinta por ciento del mismo.
+En aquellos casos en que no se presentaren postores el día señalado para el remate, el juez deberá proceder de conformidad con lo dispuesto en el inciso tercero. En aquellos casos en que el Fisco se adjudique el derecho de aprovechamiento de aguas y su representante manifieste que lo hace en favor de un servicio público para el desarrollo de un proyecto específico o para los fines contemplados en el artículo 5 bis, el derecho de aprovechamiento de las aguas podrá asignarse a dicho servicio a excepción de la Dirección General de Aguas. En caso contrario, se procederá de conformidad con lo dispuesto en el inciso tercero.
 
-Todo postor, para tomar parte en el remate, deberá rendir caución suficiente a beneficio fiscal, calificada por el tribunal, sin ulterior recurso, para responder que se llevará a efecto el pago de los derechos de aprovechamiento rematados. La garantía será equivalente al diez por ciento de la suma adeudada, o la parte que corresponda, y subsistirá hasta que se otorgue la escritura definitiva de adjudicación.
-
-Si el adjudicatario no enterare el precio de la subasta dentro del plazo de quince días contado desde la fecha del remate, la adjudicación quedará sin efecto por el solo ministerio de la ley y el juez hará efectiva la garantía a beneficio fiscal, ordenando que los derechos de aprovechamiento sean nuevamente sacados a remate.
-
-Si el producido excediere lo adeudado por concepto de patentes, gastos y costas, el remanente será entregado al ejecutado.
-
-La venta en remate se hará por el martillero designado por el tribunal que corresponda y a ella podrán concurrir, el Fisco, las instituciones del sector público y cualquier persona, todos en igualdad de condiciones. El Fisco podrá imputar al precio del remate, el monto adeudado por concepto de patentes. Si el Fisco o cualquiera de las instituciones del sector público se adjudican el derecho de aprovechamiento, deberán renunciar al mismo, de conformidad con lo dispuesto en el inciso final del artículo 6º en un plazo máximo de dos meses, contados desde la inscripción de la adjudicación en el Conservador de Bienes Raíces respectivo. Si el Fisco no inscribiere la renuncia dentro de dos meses contados desde la fecha de adjudicación, el juez respectivo podrá, a petición de cualquier interesado, ordenar a nombre del Fisco, la inscripción de la renuncia, en el Registro de Aguas correspondiente. En este caso, las aguas quedarán libres para la constitución de nuevos derechos de aprovechamiento de conformidad a las normas generales.
-
-Será aplicable lo dispuesto en el artículo 2428 del Código Civil y el artículo 492 del Código de Procedimiento Civil al procedimiento de remate del derecho de aprovechamiento. Sin perjuicio de lo anterior, el Fisco tendrá preferencia para cobrar la patente adeudada con el producto del remate sobre todo otro acreedor.
+Será aplicable al procedimiento de remate del derecho de aprovechamiento lo dispuesto en los artículos 2428 del Código Civil y 492 del Código de Procedimiento Civil. Sin perjuicio de lo anterior, el Fisco tendrá preferencia sobre todo otro acreedor para cobrar la patente adeudada con el producto del remate.
 
 #### Artículo 129 bis
 
-17°- Los demás procedimientos relativos al remate, al acta correspondiente, a la escritura de adjudicación y a su inscripción, se regirán por las disposiciones del Código de Procedimiento Civil relativas a la subasta de bienes inmuebles embargados.
+14°- Los demás procedimientos relativos al remate, al acta correspondiente, a la escritura de adjudicación y a su inscripción, se regirán por las disposiciones del Código de Procedimiento Civil relativas a la subasta de bienes inmuebles embargados, pero los plazos allí establecidos no serán fatales para el Fisco, cuando actúe como adjudicatario.
+
+> **Nota.** El N° 57 del artículo 1° de la ley 21435, publicada el 06.04.2022, suprimió el artículo 129 bis 14 original; el N° 58 de la misma disposición reenumeró y modificó el primitivo artículo 129 bis 17 como nuevo 129 bis 14.
 
 #### Artículo 129 bis
 
-18°- Si no se presentaren postores en el día señalado para el remate, la Dirección General de Aguas solicitará al tribunal que el derecho de aprovechamiento se ponga por una segunda vez a remate, esta vez sin el mínimo señalado en el inciso sexto del artículo 129 bis 16.
-
-Si puesto a remate el derecho de aprovechamiento en la forma señalada en el inciso anterior, tampoco se presentaren postores, el juez adjudicará el derecho de aprovechamiento al Fisco, a nombre del Ministerio de Bienes Nacionales, el que deberá renunciar al mismo, de conformidad con lo dispuesto en el inciso final del artículo 6º en un plazo máximo de dos meses, contados desde la inscripción de la adjudicación en el Conservador de Bienes Raíces respectivo. Si el Fisco no inscribiere la renuncia dentro de dos meses contados desde la fecha de adjudicación, el juez respectivo podrá, a petición de cualquier interesado, ordenar a nombre del Fisco la inscripción de la renuncia en el Registro de Aguas correspondiente. En este caso, las aguas quedarán libres para la constitución de nuevos derechos de aprovechamiento de conformidad a las normas generales.
-
-#### Artículo 129 bis
-
-19°- Una cantidad igual al 75% del producto neto de las patentes por no utilización de los derechos de aprovechamiento y de lo recaudado en los remates de estos últimos, será distribuida, a contar del ejercicio presupuestario correspondiente al cuarto año posterior al de publicación de esta ley, entre las regiones y comunas del país en la forma que a continuación se indica:
+15°- Una cantidad igual al 75% del producto neto de las patentes por no utilización de los derechos de aprovechamiento y de lo recaudado en los remates de estos últimos, será distribuida, a contar del ejercicio presupuestario correspondiente al cuarto año posterior al de publicación de la ley N° 20.017, entre las regiones y comunas del país en la forma que a continuación se indica:
 
 a) El 65% de dichos producto neto y recaudación por remates se incorporará a la cuota del Fondo Nacional de Desarrollo Regional que anualmente le corresponda, en el Presupuesto Nacional, a la Región donde tenga su oficio el Conservador de Bienes Raíces en cuyo Registro se encuentren inscritos los derechos de aprovechamiento.
 
@@ -1100,19 +1260,25 @@ La Ley de Presupuestos incluirá, en los presupuestos de los Gobiernos Regionale
 
 Para los efectos de este artículo, se entenderá por producto neto las cantidades que resulten de restar a la recaudación bruta, obtenida de la aplicación de las patentes que establecen los artículos 129 bis 4, 129 bis 5 y 129 bis 6, las sumas imputadas al pago de impuestos fiscales en la forma dispuesta en el artículo siguiente, ambos valores correspondientes al período de doce meses, contado hacia atrás desde el mes de junio del año anterior al de vigencia de la Ley de Presupuestos que incluya la distribución que proceda de acuerdo a esta disposición.
 
+> **Nota.** El N° 57 del artículo 1° de la ley 21435, publicada el 06.04.2022, suprimió el artículo 129 bis 15 original; el N° 59 de la misma disposición reenumeró y modificó el primitivo artículo 129 bis 19, como nuevo 129 bis 15.
+
 #### Artículo 129 bis
 
-20°- El valor de las patentes no se considerará como gasto tributario para efectos de la determinación de la base imponible del impuesto de Primera Categoría de la Ley sobre Impuesto a la Renta. Sin perjuicio de ello, a dicho monto no le será aplicable lo dispuesto en el artículo 21 de dicha ley.
+16°- El valor de las patentes no se considerará como gasto tributario para efectos de la determinación de la base imponible del impuesto de Primera Categoría de la Ley sobre Impuesto a la Renta. Sin perjuicio de ello, a dicho monto no le será aplicable lo dispuesto en el artículo 21 de dicha ley.
 
 Los titulares de derechos de aprovechamiento podrán deducir del monto de sus pagos provisionales obligatorios de la Ley sobre Impuesto a la Renta, las cantidades mensuales que paguen por concepto de patentes en los años anteriores a aquél en que se inicie la utilización de las aguas. El remanente que resultare de esta imputación, por ser inferior el pago provisional obligatorio o por no existir la obligación de hacerlo en dicho período, podrá imputarse a cualquier otro impuesto fiscal de retención o recargo de declaración mensual y pago simultáneo que deba pagarse en la misma fecha, y el saldo que aún quede podrá imputarse a los mismos impuestos indefinidamente en los meses siguientes, hasta su total agotamiento, reajustado en la forma que prescribe el artículo 27 del decreto ley N° 825, de 1974.
 
+> **Nota.** El texto del presente artículo, originalmente establecido como artículo 129 bis 20, ha sido reenumerado como 129 bis 16, como consecuencia de las modificaciones introducidas por los numerales 57, 58, 59 y 60 del artículo 1° de la ley 21435, publicada el 06.04.2022.
+
 #### Artículo 129 bis
 
-21°- Respecto a los derechos de aprovechamiento no consuntivos, podrán imputarse en conformidad al artículo anterior, todos los pagos efectuados durante los ocho años anteriores a aquél en que se inicie la utilización de las aguas.
+17°- Respecto a los derechos de aprovechamiento no consuntivos, podrán imputarse en conformidad al artículo anterior, todos los pagos efectuados durante los ocho años anteriores a aquél en que se inicie la utilización de las aguas.
 
 Respecto a los derechos de aprovechamiento consuntivos, podrán imputarse asimismo todos los pagos efectuados durante los seis años anteriores a aquél en que se inicie la utilización de las aguas.
 
-Si el derecho de aprovechamiento fuere adquirido mediante remate de conformidad con lo dispuesto en los artículos 142 a 147, y 129 bis 16 y 129 bis 17 del presente Código, la cantidad pagada, debidamente reajustada, por concepto de precio del referido derecho por el titular del mismo podrá ser imputada al pago de la patente señalada en los artículos 129 bis 4, 129 bis 5 y 129 bis 6. Un reglamento determinará la forma de efectuar la imputación señalada en el presente inciso.".
+Si el derecho de aprovechamiento fuere adquirido mediante remate de conformidad con lo dispuesto en los artículos 129 bis 11 y siguientes y artículos 142 y siguientes del presente Código, la cantidad pagada, debidamente reajustada, por concepto de precio del referido derecho por el titular del mismo podrá ser imputada al pago de la patente señalada en los artículos 129 bis 4, 129 bis 5 y 129 bis 6. Un reglamento determinará la forma de efectuar la imputación señalada en el presente inciso.
+
+> **Nota.** El N° 57 del artículo 1° de la ley 21435, publicada el 06.04.2022, suprimió el artículo 129 bis 17 original; el N° 60 de la misma disposición reenumeró y modificó el primitivo artículo 129 bis 21, como nuevo 129 bis 17.
 
 # Libro Segundo
 
@@ -1126,19 +1292,21 @@ DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
 #### Artículo 130°
 
-Toda cuestión o controversia relacionada con la adquisición o ejercicio de los derechos de aprovechamiento y que de acuerdo con este código sea de competencia de la Dirección General de Aguas, deberá presentarse ante la oficina de este servicio del lugar, o ante el Gobernador respectivo.
+Toda cuestión o controversia relacionada con la adquisición o ejercicio de los derechos de aprovechamiento y que de acuerdo con este código sea de competencia de la Dirección General de Aguas, deberá presentarse ante la oficina de este servicio del lugar o en el sitio web institucional, o ante el Gobernador respectivo.
 
-La presentación y su tramitación se efectuará de acuerdo a las disposiciones de este párrafo, sin perjuicio de las normas particulares contenidas en los párrafos siguientes.
+La presentación y su tramitación se efectuará de acuerdo a las disposiciones de este párrafo, sin perjuicio de las normas particulares contenidas en este Código.
+
+Recibida una solicitud por parte del delegado presidencial provincial respectivo, o en la oficina de la Dirección General de Aguas, el funcionario a cargo deberá entregar un comprobante de ingreso; procederá a registrar inmediatamente la solicitud en el sitio web institucional, y anexará todos los antecedentes.
 
 #### Artículo 131°
 
-Toda presentación que afecte o pueda afectar a terceros deberá publicarse, a costa del interesado, dentro de treinta días contados desde la fecha de su recepción por una sola vez en el Diario Oficial los días primero o quince de cada mes o el primer día hábil inmediato si aquéllos fueren feriados, y en forma destacada en un diario de Santiago.
+La Dirección General de Aguas tendrá el plazo de treinta días, contado desde la emisión del comprobante de ingreso señalado en el artículo anterior, para revisar si cumple con los requisitos formales según el tipo de solicitud de que se trate y si se han acompañado los antecedentes en que se sustenta. De cumplirse las señaladas exigencias, se declarará admisible la solicitud.
 
-Las presentaciones que no correspondan a la Región Metropolitana se publicarán, además, en un diario o periódico de la provincia respectiva y si no hubiere, en uno de la capital de la región correspondiente.
+Si de la revisión de los antecedentes se advierte el incumplimiento de alguna de las exigencias, se declarará inadmisible la solicitud, y se comunicará dicha situación al solicitante. En la comunicación se señalarán los antecedentes que hayan sido omitidos o que requieran complemento. El solicitante podrá acompañarlos o complementarlos dentro del plazo de treinta días, contado desde la notificación de la comunicación anterior. En caso de que los antecedentes fueren insuficientes o no fueren presentados dentro del plazo, se desechará la solicitud de plano, lo que pondrá fin al procedimiento.
 
-La presentación se publicará íntegramente o en un extracto que contendrá, a lo menos, los datos necesarios para su acertada inteligencia.
+Declarada admisible dicha solicitud, deberá publicarse a costa del interesado, dentro de los treinta días contados desde la fecha de su admisibilidad y por una sola vez, un extracto en el Diario Oficial los días primero o quince de cada mes o el primer día hábil inmediato si aquéllos fueren feriados, e íntegramente en el sitio web institucional de la Dirección General de Aguas.
 
-La solicitud o extracto se comunicará, a costa del interesado, además, por medio de tres mensajes radiales. Estos mensajes deberán emitirse dentro del plazo que establece el inciso primero de este artículo. El Director General de Aguas determinará, mediante resolución, las radioemisoras donde deben difundirse los mensajes aludidos que deberán cubrir el sector que involucre el punto de la respectiva solicitud tales como la ubicación de la bocatoma, el punto donde se desea captar el agua y el lugar donde se encuentra la aprobación de la obra hidráulica, entre otros, además, de los días y horarios en que deben emitirse, como asimismo sus contenidos y la forma de acreditar el cumplimiento de dicha exigencia.
+La solicitud o extracto se comunicará, a costa del interesado, además, por medio de tres mensajes radiales. Estos mensajes deberán emitirse dentro del plazo que establece el inciso tercero de este artículo. El Director General de Aguas determinará, mediante resolución, las radioemisoras donde deben difundirse los mensajes aludidos que deberán cubrir el sector que involucre el punto de la respectiva solicitud tales como la ubicación de la bocatoma, el punto donde se desea captar el agua y el lugar donde se encuentra la aprobación de la obra hidráulica, entre otros, además, de los días y horarios en que deben emitirse, como asimismo sus contenidos y la forma de acreditar el cumplimiento de dicha exigencia.
 
 Excepcionalmente, el jefe de la oficina del lugar o el Gobernador, según el caso, dispondrá la notificación personal cuando aparezca de manifiesto la individualidad de la o las personas afectadas con la presentación y siempre que el número de éstas no haga dificultosa la medida.
 
@@ -1161,6 +1329,36 @@ Si dentro de los plazos previstos en el artículo anterior, no se hubiere deduci
 La Dirección General de Aguas, de oficio o a petición de parte y dentro del plazo de treinta días contados desde la recepción de los antecedentes que le enviaren los Gobernadores o desde la contestación de la oposición o desde el vencimiento del plazo para oponerse o para contestar la oposición, según sea el caso, podrá, mediante resolución fundada, solicitar las aclaraciones, decretar las inspecciones oculares y pedir los informes correspondientes para mejor resolver.
 
 Reunidos los antecedentes solicitados, la Dirección General de Aguas deberá emitir un informe técnico y dictar resolución fundada que dirima la cuestión sometida a su consideración, en un plazo máximo de cuatro meses, a partir del vencimiento del plazo de 30 días a que se refiere el inciso anterior.
+
+#### Artículo 134° bis
+
+Respecto de los derechos de aprovechamiento de aguas consuntivos que han sido incorporados en el listado de patentes por no uso durante cinco años o más y los no consuntivos durante diez años o más y que, por tanto, se encuentran en condición de ser sometidos a un procedimiento de extinción, de conformidad con lo preceptuado en los artículos 6 bis, 129 bis 4, 129 bis 5 y 129 bis 9, inciso primero, la Dirección General de Aguas aplicará el siguiente procedimiento:
+
+1. Anualmente dictará una resolución que contenga el listado de los derechos de aprovechamiento de aguas cuyos titulares no han hecho uso efectivo del recurso en los términos dispuestos en el encabezado de este artículo. Dicho listado deberá contener la enunciación clara y precisa del derecho de aprovechamiento sobre el cual recae el procedimiento, en los términos dispuestos en el inciso primero del artículo 129 bis 7, y especificará la proporción del caudal afecto al proceso de extinción y los listados de cobro de patentes en los que ha sido incorporado. Esta resolución se publicará en el sitio web institucional.
+
+2. La resolución indicada se notificará al titular del derecho de aprovechamiento de aguas, antes del 10 de enero de cada año, por carta certificada dirigida a su domicilio, en caso de que se cuente con esta información, o a la dirección de correo electrónico que el titular hubiere registrado especialmente para efectos de notificaciones o comunicaciones con el Servicio. La notificación mediante carta certificada se entenderá practicada a contar del tercer día siguiente a su recepción en la oficina de correos que corresponda y la efectuada mediante correo electrónico se entenderá practicada al tercer día desde su envío. Sin perjuicio de lo anterior, para efectos del cómputo del plazo para el procedimiento de extinción se estará a lo dispuesto en el numeral 4 y siguientes. Si esta notificación no ha podido realizarse por alguno de los medios indicados, sea por ignorarse el domicilio del titular o por no haber éste registrado una casilla de correo electrónico, la publicación en el Diario Oficial a que se refiere el numeral siguiente se entenderá como notificación suficiente.
+
+3. La Dirección General de Aguas publicará en el Diario Oficial, el 15 de enero del mismo año a que se refiere el numeral anterior o el día hábil siguiente, el listado de los derechos de aprovechamiento de aguas contenidos en la resolución a que se refiere el numeral 1.
+
+4. El titular del derecho de aprovechamiento de aguas que está siendo objeto del procedimiento de extinción tendrá el plazo de treinta días, contado desde la publicación contemplada en el numeral anterior, para oponerse a dicho procedimiento, y aportará toda la prueba que considere necesaria y pertinente para acreditar el uso efectivo del recurso o encontrarse dentro de otras circunstancias eximentes previstas por este Código. Además, el titular podrá solicitar diligencias pertinentes, entendiéndose por tales aquellas destinadas a probar la existencia de las obras de aprovechamiento, diligencias a las que la Dirección General de Aguas deberá acceder en consideración a su pertinencia. El plazo indicado se prorrogará por treinta días, a petición del titular del derecho afectado.
+
+5. Dentro de los treinta días siguientes al vencimiento del plazo indicado en el número anterior o de su prórroga, la Dirección General de Aguas podrá solicitar aclaraciones, decretar inspecciones oculares, pedir informes o realizar cualquier otra diligencia para mejor resolver.
+
+6. La Dirección General de Aguas para desarrollar las diligencias probatorias solicitadas o decretadas tendrá el plazo de treinta días, contado desde el vencimiento del término indicado en el número anterior o de su prórroga, y podrá extenderlo justificadamente y por una sola vez por treinta días adicionales.
+
+7. Completadas las diligencias a las que se refieren los números 4, 5 y 6, el funcionario a cargo del procedimiento tendrá el plazo de treinta días para emitir un informe técnico, en el que analizará las cuestiones sometidas a su conocimiento relativas a la procedencia o no de la extinción del derecho de aprovechamiento por la no utilización efectiva del recurso, en los términos señalados en este artículo, y propondrá un pronunciamiento al Director General de Aguas.
+
+8. El Director General de Aguas, por resolución fundada, resolverá el expediente de extinción de un derecho de aprovechamiento, pronunciándose única y exclusivamente sobre si procede o no la extinción. Para adoptar esta resolución tendrá el plazo de quince días contado desde que se emitió el informe técnico a que se refiere el número anterior. Esta resolución se notificará según lo dispuesto en los incisos primero y segundo del artículo 139, o en su defecto a la dirección de correo electrónico que el titular hubiere registrado en su primera presentación en este procedimiento o en cualquier otro momento dentro de él. Sin perjuicio de lo anterior, y para el solo efecto de publicidad de terceros, la resolución se publicará en la página web institucional. Contra esta resolución procederán los recursos de reconsideración y de reclamación establecidos respectivamente en los artículos 136 y 137, y se suspenderán por su interposición los efectos del acto recurrido.
+
+9. En lo no regulado en este inciso se estará a lo dispuesto en el procedimiento general del Título I del Libro Segundo de este Código.
+
+El recurso de reclamación respecto de la resolución que extingue un derecho de aprovechamiento de aguas, conforme al artículo 137 de este Código, se sujetará a lo dispuesto en el Título XVIII del Libro I del Código de Procedimiento Civil, con las siguientes particularidades:
+
+a) El reclamante señalará en su escrito, con precisión, el acto, omisión o circunstancia en que se funda el reclamo, la norma legal que se supone infringida, las razones por las que no se ajusta a la ley, los reglamentos o demás disposiciones que le sean aplicables y podrá ofrecer prueba, especificando lo que se quiere probar y cómo se quiere probar el uso efectivo del recurso o encontrarse dentro de otras circunstancias eximentes.
+
+b) La Corte rechazará de plano el reclamo si éste se presenta fuera de plazo. En caso de declararlo admisible, dará traslado por diez días, y notificará por la vía que se estime más rápida y eficiente esta resolución al Director General de Aguas. Evacuado el traslado o teniéndosele por evacuado en rebeldía, la Corte podrá abrir un término de prueba, si así lo estima necesario, el que se regirá por las reglas de los incidentes que contempla el artículo 90 del Código de Procedimiento Civil, y serán admisibles los medios de prueba a que se refiere el artículo 341 de ese Código.
+
+Una vez que la resolución de extinción a que se refiere el numeral 8 se encuentre ejecutoriada, la Dirección General de Aguas deberá comunicarla, dentro de los quince días siguientes a los respectivos conservadores de bienes raíces, por la vía que estime más rápida y eficiente, para que practiquen las cancelaciones e inscripciones que procedan.
 
 #### Artículo 135°
 
@@ -1188,7 +1386,7 @@ Los recursos de reconsideración y reclamación no suspenderán el cumplimiento 
 
 El cumplimiento de las resoluciones de la Dirección General de Aguas será de cargo de aquellos que deban ejecutarlas.
 
-El Director General de Aguas, por sí o por delegado, podrá requerir del Intendente o Gobernador respectivo el auxilio de la fuerza pública, con facultades de allanamiento y descerrajamiento para el cumplimiento de las resoluciones que dicte en el ejercicio de las atribuciones que le confiere el presente título.
+El Director General de Aguas, por sí o por delegado, podrá requerir el auxilio de la fuerza pública, con facultades de allanamiento y descerrajamiento para el cumplimiento de las resoluciones que dicte en el ejercicio de las atribuciones que le confiere el presente título.
 
 En caso de incumplimiento o cumplimiento parcial de las resoluciones a que se refieren los incisos precedentes, el Servicio dictará una resolución que aplicará la multa correspondiente y, en caso de proceder, ordenará la ejecución de las medidas, acciones u obras que correspondan por parte del mismo Servicio o por parte de la Dirección de Obras Hidráulicas o cualquier otro servicio dependiente del Ministerio de Obras Públicas.
 
@@ -1200,7 +1398,7 @@ Las resoluciones de la Dirección General de Aguas se notificarán en el domicil
 
 En la primera presentación el interesado deberá designar un domicilio dentro de los límites urbanos del lugar en que funcione la oficina donde se haya efectuado la presentación, designación que se considerará subsistente mientras no haga otra, aun cuando de hecho lo haya cambiado.
 
-Si no se hace esta designación la resolución se entenderá notificada desde la fecha de su dictación.
+Si no se hace esta designación la resolución se entenderá notificada desde la fecha de su dictación. Sin perjuicio de lo señalado en los incisos precedentes, la Dirección General de Aguas deberá comunicar la resolución a la dirección de correo electrónico que las partes hubieren registrado en su primera presentación. Dicha comunicación deberá ser enviada por la Dirección General de Aguas y suscrita mediante firma electrónica avanzada.
 
 2.- Normas Especiales
 
@@ -1210,17 +1408,21 @@ a.- De la constitución del derecho de aprovechamiento
 
 La solicitud para adquirir el derecho de aprovechamiento deberá contener:
 
-1. El nombre, cédula nacional de identidad o rol único tributario y demás antecedentes para individualizar al solicitante. El nombre del álveo de las aguas que se necesita aprovechar, su naturaleza, esto es, si son superficiales o subterráneas, corrientes o detenidas, y la provincia en que estén ubicadas o que recorren.
+1. El nombre, cédula nacional de identidad o rol único tributario y demás antecedentes para individualizar al solicitante. El nombre del álveo, el acuífero o el Sector Hidrogeológico de Aprovechamiento Común desde donde provengan las aguas que se necesita aprovechar, su naturaleza, esto es, si son superficiales o subterráneas, corrientes o detenidas, y la provincia en que estén ubicadas o que recorren.
 
 Tratándose de aguas subterráneas, se precisará la comuna en que se ubicará la captación y el área de protección que se solicita;
 
 2. El uso que se le dará a las aguas solicitadas.
 
-3. La cantidad de agua que se necesita extraer, expresada en medidas métricas y de tiempo. Tratándose de aguas subterráneas, deberá indicarse el caudal máximo que se necesita extraer en un instante dado, expresado en medidas métricas y de tiempo, y el volumen total anual que se desea extraer desde el acuífero, expresado en metros cúbicos;
+3. La cantidad de agua que se necesita aprovechar, expresada en medidas métricas y de tiempo. Tratándose de aguas subterráneas, deberá indicarse el caudal máximo que se necesita aprovechar en un instante dado, expresado en medidas métricas y de tiempo, y el volumen total anual que se desea aprovechar desde el acuífero, expresado en metros cúbicos;
 
 4. El o los puntos donde se desea captar el agua.
 
 Si la captación se efectúa mediante un embalse o barrera ubicado en el álveo, se entenderá por punto de captación aquél que corresponda a la intersección del nivel de aguas máximas de dicha obra con la corriente natural.
+
+En el caso de los derechos a que se refiere el artículo 129 bis 1 A, se indicarán los puntos de la fuente natural donde se realizará su aprovechamiento.
+
+En todos estos casos, los puntos deberán ser expresados en coordenadas UTM con indicación del datum y huso y, complementariamente, en relación a los puntos de referencia permanentes y conocidos, en los casos que fuere posible.
 
 En el caso de los derechos no consuntivos, se indicará, además, el punto de restitución de las aguas y la distancia y desnivel entre la captación y la restitución;
 
@@ -1228,7 +1430,7 @@ En el caso de los derechos no consuntivos, se indicará, además, el punto de re
 
 6. La naturaleza del derecho que se solicita, esto es, si es consuntivo o no consuntivo, de ejercicio permanente o eventual, continuo o discontinuo o alternado con otras personas, y
 
-7. En el caso que se solicite, en una o más presentaciones, un volumen de agua superior a las cantidades indicadas en los incisos finales de los artículos 129 bis 4 y 129 bis 5, el solicitante deberá acompañar una memoria explicativa en la que se señale la cantidad de agua que se necesita extraer, según el uso que se le dará. Para estos efectos, la Dirección General de Aguas dispondrá de formularios que contengan los antecedentes necesarios para el cumplimiento de esta obligación. Dicha memoria se presentará como una declaración jurada sobre la veracidad de los antecedentes que en ella se incorporen.
+7. El solicitante deberá acompañar una memoria explicativa en la que se señale la cantidad de agua que se necesita aprovechar, según el uso que se le dará. Para estos efectos, la Dirección General de Aguas dispondrá de formularios con los antecedentes necesarios para el cumplimiento de esta obligación, pudiendo diferenciar la situación descrita en el artículo 129 bis 1 A, las extracciones de volúmenes inferiores a 10 litros por segundo y demás casos. Dicha memoria se presentará como una declaración jurada sobre la veracidad de los antecedentes que en ella se incorporen.
 
 #### Artículo 141°
 
@@ -1242,11 +1444,13 @@ Si no se presentaren oposiciones dentro del plazo se constituirá el derecho med
 
 Si dentro del plazo de seis meses contados desde la presentación de la solicitud, se hubieren presentado dos o más solicitudes sobre las mismas aguas y no hubiere recursos suficientes para satisfacer todos los requerimientos, la Dirección General de Aguas, una vez reunidos los antecedentes que acrediten la existencia de aguas disponibles para la constitución de nuevos derechos sobre ellas, citará a un remate de estos derechos. Las bases de remate determinarán la forma en que se llevará a cabo dicho acto.
 
-La citación se hará mediante un aviso, publicado en extracto en un matutino de Santiago y en un diario o periódico de la comuna, provincia o capital de la región en que se encuentra ubicada la sección de la corriente o la fuente natural en la que se solicitó la concesión de derechos.
+La citación se hará mediante un aviso, publicado en extracto en un diario o periódico de la provincia o capital de la región en que se encuentra ubicada la sección de la corriente o la fuente natural en la que se solicitó la concesión de derechos. Asimismo la citación será publicada en el sitio web institucional y en el Diario Oficial.
 
 En dicho aviso se indicarán la fecha, hora y lugar de la celebración de la subasta, debiendo mediar, a lo menos, diez días entre la última publicación y el remate. La Dirección General de Aguas comunicará por carta certificada los antecedentes antes señalados, a los solicitantes que dentro del plazo establecido en el inciso primero del presente artículo, hubieren presentado solicitudes sobre las mismas aguas involucradas en el remate. La misma notificación podrá efectuarla a la respectiva organización de usuarios. En estos avisos y las comunicaciones señaladas, la Dirección General de Aguas deberá señalar el área que queda comprometida, desde el punto de vista de la disponibilidad para la constitución de nuevos derechos de aprovechamiento de aguas una vez que se adjudiquen los derechos involucrados en el remate. La omisión del envío de la carta certificada a que se refiere el presente inciso no invalidará el remate respectivo, sin perjuicio de hacer efectiva la responsabilidad del funcionario que incurrió en tal omisión.
 
 El remate deberá llevarse a cabo cuando estén resueltas todas las oposiciones a que se refiere el inciso 2° del artículo anterior. El Director General de Aguas podrá ordenar la acumulación de los procesos.
+
+El procedimiento de remate de que dan cuenta los incisos anteriores no podrá aplicarse a los casos en que las solicitudes presentadas se refieran a los usos de la función de subsistencia. La preferencia para la constitución de los derechos de aprovechamiento originados en dichas solicitudes se aplicará considerando la relación existente entre el caudal solicitado y el uso equivalente, respecto de una misma persona, de conformidad con la normativa en vigor.
 
 #### Artículo 143°
 
@@ -1274,7 +1478,7 @@ Sin perjuicio de lo dispuesto en el inciso anterior, quien obtenga en el remate 
 
 La Dirección General de Aguas podrá de oficio ofrecer en remate público el otorgamiento de derechos de aprovechamiento que estén disponibles y que no hayan sido solicitados.
 
-Para estos efectos, deberá publicar avisos en la forma dispuesta en el artículo 142° y en el mismo plazo establecido en el artículo 132° podrán presentarse oposiciones.
+Para estos efectos, deberá publicar avisos en la forma dispuesta en el artículo 142° y en el plazo de treinta días podrán presentarse oposiciones.
 
 Si vencido el plazo no se presentaren oposiciones o bien si éstas fueren denegadas, la Dirección llevará a efecto el remate, de acuerdo a las normas establecidas en este Título.
 
@@ -1288,53 +1492,61 @@ En dicha acta se dejará constancia expresa del acuerdo entre el adjudicatario y
 
 °- El derecho de aprovechamiento de aguas se constituirá mediante resolución de la Dirección General de Aguas, o bien, mediante decreto supremo del Presidente de la República, en el caso previsto en el artículo 148.
 
-El Director General de Aguas si no se dan los casos señalados en el inciso primero del artículo 142, podrá, mediante resolución fundada, limitar el caudal de una solicitud de derechos de aprovechamiento, si manifiestamente no hubiera equivalencia entre la cantidad de agua que se necesita extraer, atendidos los fines invocados por el peticionario en la memoria explicativa señalada en el Nº 6 del artículo 140 de este Código, y los caudales señalados en una tabla de equivalencias entre caudales de agua y usos, que refleje las prácticas habituales en el país en materia de aprovechamiento de aguas. Dicha tabla será fijada mediante decreto supremo firmado por los Ministros de Obras Públicas, Minería, Agricultura y Economía.
+El Director General de Aguas si no se dan los casos señalados en el inciso primero del artículo 142, podrá, mediante resolución fundada, limitar el caudal de una solicitud de derechos de aprovechamiento, si manifiestamente no hubiera equivalencia entre la cantidad de agua que se necesita extraer, atendidos los fines invocados por el peticionario en la memoria explicativa señalada en el N° 7 del artículo 140 de este Código, y los caudales señalados en una tabla de equivalencias entre caudales de agua y usos, que refleje las prácticas habituales en el país en materia de aprovechamiento de aguas. Dicha tabla será fijada mediante decreto supremo firmado por los Ministros de Obras Públicas, Minería, Agricultura y Economía.
 
-Asimismo, cuando sea necesario reservar el recurso para el abastecimiento de la población por no existir otros medios para obtener el agua, o bien, tratándose de solicitudes de derechos no consuntivos y por circunstancias excepcionales y de interés nacional, el Presidente de la República podrá, mediante decreto fundado, con informe de la Dirección General de Aguas, disponer la denegación parcial de una petición de derecho de aprovechamiento. Este decreto se publicará por una sola vez en el Diario Oficial, el día primero o quince de cada mes, o el primer día hábil inmediatamente siguiente si aquéllos fueran feriados.
+Asimismo, cuando sea necesario reservar el recurso para satisfacer los usos de la función de subsistencia o para fines de preservación ecosistémica, de conformidad con el artículo 5 ter, el Presidente de la República podrá reservar el recurso hídrico, mediante decreto fundado, previo informe de la Dirección General de Aguas. Igualmente, por circunstancias excepcionales y de interés nacional, podrá disponer la denegación parcial o total de solicitudes de derechos de aprovechamiento, sean éstas para usos consuntivos o no consuntivos. Este decreto se publicará por una sola vez en el Diario Oficial, el día primero o quince de cada mes, o el primer día hábil inmediatamente siguiente si aquéllos fueran feriados, y en el sitio web institucional de la Dirección. Esta facultad se ejercerá por el Ministro de Obras Públicas, quien firmará el respectivo decreto "Por orden del Presidente de la República".
 
-Si en razón de la disponibilidad de agua no es posible constituir el derecho de aprovechamiento en las condiciones solicitadas, el Director General de Aguas podrá hacerlo en cantidad o con características diferentes, siempre que conste el consentimiento del interesado. Así, por ejemplo, será posible constituirlo en calidad de eventual o discontinuo, habiendo sido solicitado como permanente o continuo.
+Si no existe disponibilidad para otorgar los derechos de aprovechamiento en la forma solicitada, el Director General de Aguas podrá hacerlo en la cantidad o con características diferentes, y podrá incluso denegar total o parcialmente las solicitudes respectivas, según corresponda.
 
-Sin perjuicio de lo dispuesto en los artículos 22, 65, 66, 67, 129 bis 1 y 141 inciso final, procederá la constitución de derechos de aprovechamiento sobre aguas subterráneas, siempre que la explotación del respectivo acuífero sea la apropiada para su conservación y protección en el largo plazo, considerando los antecedentes técnicos de recarga y descarga, así como las condiciones de uso existentes y previsibles, todos los cuales deberán ser de conocimiento público.
+Sin perjuicio de lo dispuesto en los artículos 22, 65, 66, 67, 129 bis 1 y 141 inciso final, procederá la constitución de derechos de aprovechamiento sobre aguas subterráneas, siempre que la explotación del respectivo acuífero sea la apropiada para su sustentabilidad, conservación y protección en el largo plazo, considerando los antecedentes técnicos de recarga y descarga, así como las condiciones de uso existentes, todos los cuales deberán ser de conocimiento público.
 
 #### Artículo 147 ter
 
-°- El afectado por un decreto del Presidente de la República que disponga la denegación parcial de una petición de derecho de aprovechamiento podrá reclamar ante la Corte de Apelaciones de Santiago, dentro del plazo de treinta días contado desde la fecha de su publicación. Será aplicable a esta reclamación el procedimiento establecido en el artículo 137.
+°- El afectado por un decreto del Presidente de la República que disponga la denegación total o parcial de una petición de derecho de aprovechamiento podrá reclamar ante la Corte de Apelaciones de Santiago, dentro del plazo de treinta días contado desde la fecha de su publicación. Será aplicable a esta reclamación el procedimiento establecido en el artículo 137.
+
+#### Artículo 147° quáter
+
+Excepcionalmente, el Presidente de la República, en atención a lo dispuesto en el inciso segundo del artículo 5 bis y fundado en el interés público, podrá constituir derechos de aprovechamiento aun cuando no exista disponibilidad. Para ello, deberá contar con un informe previo y favorable de la Dirección General de Aguas, que justifique tanto que se constituyen con la sola finalidad de garantizar el consumo humano, saneamiento o el uso doméstico de subsistencia, como que no ha sido posible la aplicación de otras normas de este Código o que éstas no han sido efectivas. Esta facultad se ejercerá por el Ministro de Obras Públicas, quien firmará el decreto respectivo "Por orden del Presidente de la República", y se aplicarán a los beneficiarios las limitaciones del artículo 5 quinquies.
 
 #### Artículo 148°
 
-El Presidente de la República podrá, en el caso del inciso primero del artículo 142, con informe de la Dirección General de Aguas y por circunstancias excepcionales y de interés general, constituir directamente el derecho de aprovechamiento.
+El Presidente de la República podrá, previo informe de la Dirección General de Aguas, constituir directamente el derecho de aprovechamiento prescindiendo del procedimiento de constitución consagrado en este Código, con el fin de satisfacer usos domésticos de subsistencia de población o para la conservación del recurso. De igual forma podrá constituirlo directamente por circunstancias excepcionales y de interés general cuando en conformidad con lo señalado en el inciso primero del artículo 142 se hubieren presentado dos o más solicitudes sobre las mismas aguas y no hubiere recursos suficientes para satisfacer todos los requerimientos. En este último caso, se podrá dar preferencia a organizaciones sin fines de lucro, velando por el interés público.
+
+El decreto deberá contener lo dispuesto en el artículo 149 y se aplicarán las limitaciones establecidas en el artículo 5 quinquies, y en caso de concederse a prestadores de servicios sanitarios los incisos cuarto y quinto del artículo 5 ter. Finalmente, corresponderá a la Dirección General de Aguas realizar la inscripción en el correspondiente registro del Conservador de Bienes Raíces y en el Catastro Público de Aguas de esa misma Dirección, en conformidad a lo dispuesto en el artículo 150.
 
 #### Artículo 149°
 
 El acto administrativo en cuya virtud se constituye el derecho contendrá:
 
-1. El nombre del adquirente;
+1. El nombre del titular, cédula nacional de identidad o rol único tributario y demás antecedentes para individualizarlo.
 
-2. El nombre del álveo o individualización de la comuna en que se encuentre la captación de las aguas subterráneas que se necesita aprovechar y el área de protección;
+2. El nombre del álveo, acuífero o Sector Hidrogeológico de Aprovechamiento Común y/o individualización de la comuna en que se encuentre la captación de las aguas subterráneas que se necesita aprovechar y el área de protección;
 
-3. La cantidad de agua que se autoriza extraer, expresada en la forma prevista en el artículo 7º de este Código;
+3. La cantidad de agua que se autoriza extraer, expresada en la forma prevista en el artículo 7º de este Código, o la cantidad que se autorice a no extraer de conformidad con lo dispuesto en el artículo 129 bis 1 A.
 
-4. El o los puntos precisos donde se captará el agua y el modo de extraerla;
+4. El o los puntos precisos donde se captará el agua y el modo de extraerla. En el caso de lo dispuesto en el artículo 129 bis 1 A, los puntos de la fuente natural donde se realizará el aprovechamiento. Tanto en estos casos, como en lo dispuesto en el numeral siguiente, dichos puntos deberán ser expresados en coordenadas UTM con indicación del datum y huso.
 
-5. El desnivel y puntos de restitución de las aguas si se trata de usos no consuntivos;
+5. La distancia, el desnivel y la distancia entre el punto de captación y el punto de restitución de las aguas si se trata de usos no consuntivos.
 
-6. Si el derecho es consuntivo o no consuntivo, de ejercicio permanente o eventual, continuo o discontinuo o alternado con otras personas, y
+6. El uso específico, como el dispuesto para el caso de las concesiones sobre aguas reservadas.
 
-7. Otras especificaciones técnicas relacionadas con la naturaleza especial del respectivo derecho y las modalidades que lo afecten, con el objetivo de conservar el medio ambiente o proteger derechos de terceros.
+7. La extensión temporal del derecho de aprovechamiento.
 
-Sin perjuicio de lo dispuesto en el inciso segundo del artículo 147 bis, el derecho de aprovechamiento constituido de conformidad al presente artículo, no quedará en modo alguno condicionado a un determinado uso y su titular o los sucesores en el dominio a cualquier título podrán destinarlo a los fines que estimen pertinentes.
+8. Si el derecho es consuntivo o no consuntivo, de ejercicio permanente o eventual, continuo o discontinuo o alternado con otras personas, y
+
+9. Otras especificaciones técnicas relacionadas con la naturaleza especial del respectivo derecho y las modalidades que lo afecten, con el objetivo de conservar el medio ambiente o proteger derechos de terceros.
+
+Sin perjuicio de lo dispuesto en los incisos quinto, sexto y séptimo del artículo 6 bis, el derecho de aprovechamiento quedará condicionado a su uso en los casos en que la ley lo disponga expresamente.
 
 #### Artículo 150°
 
-La resolución que otorgue el derecho se reducirá a escritura pública que suscribirán el interesado y el funcionario que se designe al efecto y una copia de ella deberá inscribirse en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces competente.
-
-La Dirección General de Aguas deberá registrar toda resolución por la cual se constituya un derecho, en conformidad a lo dispuesto en el artículo 122°.
+Previo a dictarse el acto administrativo de constitución del derecho, la Dirección General de Aguas requerirá al interesado que deposite los fondos necesarios para que la Dirección proceda a solicitar la inscripción de la resolución que otorga el derecho. Consignados los recursos, la Dirección General de Aguas dictará la resolución correspondiente, la que, una vez que quede firme y ejecutoriada, procederá a inscribirla, mediante copia autorizada, dentro de los quince días siguientes, en el Conservador de Bienes Raíces y en el Catastro Público de Aguas al que se refiere el artículo 122. Este mismo procedimiento se aplicará para las regularizaciones de derechos de aprovechamientos de que trata el artículo segundo transitorio de este Código.
 
 b. De la construcción, modificación, cambio y unificación de bocatomas
 
 #### Artículo 151°
 
-Toda solicitud de construcción, modificación, cambio y unificación de bocatomas, deberá expresar, además de la individualización del peticionario, la ubicación precisa de las obras de captación en relación a puntos de referencia conocidos, la manera de extraer el agua y los títulos que justifiquen el dominio de los derechos de aprovechamiento que se captarán con las obras que se pretende ejecutar.
+Toda solicitud de construcción, modificación, cambio y unificación de bocatomas, deberá expresar, además de la individualización del peticionario, la ubicación precisa de las obras de captación, en coordenadas UTM o en relación a puntos de referencia permanentes y conocidos, la manera de extraer el agua y los títulos que justifiquen el derecho del particular para usar y gozar de las aguas que se captarán con las obras que se pretende ejecutar.
 
 El interesado podrá ingresar a un predio ajeno en la forma prevista en el artículo 107°, para efectuar los estudios de terreno necesarios para la elaboración del proyecto de obras.
 
@@ -1374,6 +1586,8 @@ Terminadas las obras, el interesado comunicará este hecho a la Dirección.
 
 Si las obras merecieran reparos, la Dirección General de Aguas ordenará que el interesado haga las modificaciones o las obras complementarias que determine dentro del plazo que fijará al efecto.
 
+Si las obras no coincidieran con el punto preciso de la captación y/o de la restitución de las aguas determinados en la resolución que otorga el derecho de aprovechamiento, en la que lo reconoce o en la que aprueba su traslado, la Dirección, a solicitud de su titular, ajustará los puntos georreferenciados del derecho a las obras, en la medida que este ajuste no perjudique o menoscabe derechos de terceros. En caso contrario, se aplicará lo dispuesto en el artículo 163.
+
 #### Artículo 157°
 
 Cumplidos todos los trámites y requisitos indicados en los artículos anteriores, la Dirección General de Aguas procederá a dictar la resolución de aprobación de las obras.
@@ -1384,11 +1598,15 @@ c. Del cambio de fuente de abastecimiento
 
 #### Artículo 158°
 
-La Dirección General de Aguas estará facultada para cambiar la fuente de abastecimiento, el cauce y el lugar de entrega de las aguas de cualquier usuario, a petición de éste o de terceros interesados, cuando así lo aconseje el más adecuado empleo de ellas.
+La Dirección General de Aguas estará facultada para, dentro de una misma corriente o cuenca, cambiar la fuente de abastecimiento, ya sea en el cauce o en el sector hidrogeológico de aprovechamiento común, y el punto de restitución del titular del derecho de aprovechamiento de aguas, a petición de éste o de terceros interesados, cuando así lo aconseje el más adecuado empleo de ellas.
+
+Si la solicitud se refiere al cambio de fuente de abastecimiento de una cuenca a otra, la Dirección General de Aguas antes de resolver deberá evaluar el interés público comprometido en dicho traslado de derechos, en virtud de lo dispuesto en el inciso segundo del artículo 5 bis.
 
 #### Artículo 159°
 
-El cambio de fuente de abastecimiento sólo podrá efectuarse si las aguas de reemplazo son de igual cantidad, de variación semejante de caudal estacional, de calidad similar y siempre que la sustitución no cause perjuicio a los usuarios.
+El cambio de fuente de abastecimiento sólo podrá efectuarse si las aguas de reemplazo son de igual cantidad, de variación semejante de caudal estacional, de calidad similar y siempre que la sustitución no cause perjuicio a los usuarios, no comprometa la función de subsistencia o el interés público y se haya demostrado la directa interrelación entre las aguas, en el caso de que la solicitud se refiera a un cambio de fuente superficial a subterránea o desde una fuente subterránea a una superficial.
+
+En caso que el cambio de fuente tenga su origen en la recarga artificial de un acuífero, deberá aplicarse lo dispuesto en el artículo 66 bis, en lo que sea pertinente.
 
 #### Artículo 160°
 
@@ -1410,9 +1628,11 @@ d. Del traslado del ejercicio de los derechos de aprovechamiento
 
 #### Artículo 163°
 
-Todo traslado del ejercicio de los derechos de aprovechamiento en cauces naturales deberá efectuarse mediante una autorización del Director General de Aguas, la que se tramitará en conformidad al párrafo 1° de este Título.
+Todo traslado del ejercicio de los derechos de aprovechamiento de aguas superficiales en cauces naturales y todo cambio de punto de captación definitivo de derechos de aprovechamiento de aguas subterráneas deberá efectuarse mediante una autorización del Director General de Aguas, la que se tramitará en conformidad al párrafo 1° de este Título.
 
-Si la solicitud fuera legalmente procedente, no se afectan derechos de terceros y existe disponibilidad del recurso en el nuevo punto de captación, la Dirección General de Aguas deberá autorizar el traslado.
+Si la solicitud fuera legalmente procedente, no se afectan derechos de terceros y existe disponibilidad del recurso en el nuevo punto de captación, la Dirección General de Aguas deberá autorizar el traslado o cambio de punto de captación definitivo, según corresponda.
+
+Con todo, el o los nuevos puntos de captación mantendrán la naturaleza, uso y características del derecho de aprovechamiento. En consecuencia, los traslados de ejercicio o los cambios de punto de captación no constituyen nuevos derechos. No obstante, les será aplicable lo dispuesto en el inciso final del artículo 129 bis 1.
 
 e. De la formación de roles provisionales de usuarios por la Dirección General de Aguas
 
@@ -1454,7 +1674,7 @@ Las personas naturales o jurídicas que desearen efectuar las modificaciones a q
 
 Cuando se trate de obras de regularización o defensa de cauces naturales, los proyectos respectivos deberán contar, además, con la aprobación de la Dirección de Obras Hidráulicas del Ministerio de Obras Públicas.
 
-Quedan exceptuados de los trámites y requisitos establecidos en los incisos precedentes los servicios dependientes del Ministerio de Obras Públicas, así como los proyectos financiados por servicios públicos que cuenten con la aprobación técnica de la Dirección de Obras Hidráulicas. Estos servicios deberán remitir los proyectos definitivos de las obras a la Dirección General de Aguas para su conocimiento e inclusión en el Catastro Público de Aguas, dentro del plazo de seis meses, contado desde la recepción final de la obra.
+Quedan exceptuados de los trámites y requisitos establecidos en los incisos precedentes los servicios dependientes del Ministerio de Obras Públicas, así como los proyectos financiados por servicios públicos que cuenten con la aprobación técnica de la Dirección de Obras Hidráulicas. Estos servicios deberán informar a la Dirección General de Aguas las características generales de las obras y ubicación del proyecto antes de iniciar su construcción y remitir los proyectos definitivos de las obras para su conocimiento e inclusión en el Catastro Público de Aguas, dentro del plazo de seis meses, contado desde la recepción final de la obra.
 
 #### Artículo 172°
 
@@ -1470,7 +1690,7 @@ La Dirección General de Aguas fiscalizará el cumplimiento de las normas de est
 
 Para el cumplimiento de su labor, la Dirección podrá iniciar un procedimiento sancionatorio de oficio cuando tomare conocimiento de hechos que puedan constituir infracciones de dichas normas, por denuncia de un particular, por medio de una autodenuncia, o a requerimiento de otro servicio del Estado.
 
-Las denuncias se presentarán ante la Dirección General de Aguas de la región o de la provincia correspondiente y deberán señalar el lugar y fecha de presentación y la individualización completa del denunciante, quien deberá suscribirla personalmente, o por su mandatario o representante habilitado. Las denuncias también podrán ser presentadas en la forma que determine la Dirección General de Aguas, mediante resolución fundada. En todo caso, la denuncia deberá contener una descripción de los hechos concretos que se estiman constitutivos de infracción, el lugar y las referencias suficientes para determinar su locación, la fecha probable de su comisión, las normas infringidas si las conociera el denunciante, y la individualización del presunto infractor, en caso de que pudiera identificarlo.
+Las denuncias se presentarán ante la Dirección General de Aguas de la región o de la provincia correspondiente y deberán señalar el lugar y fecha de presentación y la individualización completa del denunciante, quien deberá suscribirla personalmente, o por su mandatario o representante habilitado. Las denuncias también podrán ser presentadas en la forma que determine la Dirección General de Aguas, mediante resolución fundada, privilegiando medios electrónicos. En todo caso, la denuncia deberá contener una descripción de los hechos concretos que se estiman constitutivos de infracción, el lugar y las referencias suficientes para determinar su locación, la fecha probable de su comisión, las normas infringidas si las conociera el denunciante, y la individualización del presunto infractor, en caso de que pudiera identificarlo.
 
 La Dirección deberá declarar admisible la denuncia cuando cumpla con los requisitos señalados en el inciso anterior, esté revestida de seriedad y tenga mérito suficiente. Si la denuncia no contiene una descripción del hecho denunciado y el lugar de su comisión, será archivada, sin perjuicio de la facultad de la Dirección de proceder de oficio.
 
@@ -1478,7 +1698,7 @@ Declarada admisible la denuncia, se abrirá el expediente del procedimiento sanc
 
 #### Artículo 172 ter
 
-Dentro del plazo de quince días contado desde la apertura del expediente, la Dirección efectuará una inspección a terreno, debiendo notificar del motivo de la actuación en ese mismo acto. El presunto infractor deberá entregar todas las facilidades para que se lleve a cabo el referido proceso de inspección y no podrá negarse, de manera injustificada, a proporcionar la información que le sea requerida. Las inspecciones a que se refiere el presente artículo en lugares que constituyan una habitación actualmente ocupada, cuyo ocupante se haya opuesto a la realización de la inspección, de lo que deberá dejarse constancia por escrito, podrán también realizarse con auxilio de la fuerza pública, previa autorización del juez de letras competente en el territorio jurisdiccional del lugar donde se fiscaliza, quien la podrá conceder de inmediato a solicitud del Servicio, sin forma de juicio, a través del medio más expedito.
+En el caso de los procedimientos de fiscalización iniciados por denuncia, dentro del plazo de quince días contado desde la apertura del expediente, la Dirección efectuará una inspección a terreno, debiendo notificar del motivo de la actuación en ese mismo acto. El presunto infractor deberá entregar todas las facilidades para que se lleve a cabo el referido proceso de inspección y no podrá negarse, de manera injustificada, a proporcionar la información que le sea requerida. Las inspecciones a que se refiere el presente artículo en lugares que constituyan una habitación actualmente ocupada, cuyo ocupante se haya opuesto a la realización de la inspección, de lo que deberá dejarse constancia por escrito, podrán también realizarse con auxilio de la fuerza pública, previa autorización del juez de letras competente en el territorio jurisdiccional del lugar donde se fiscaliza, quien la podrá conceder de inmediato a solicitud del Servicio, sin forma de juicio, a través del medio más expedito.
 
 En ejercicio de la labor fiscalizadora, el personal de la Dirección deberá siempre informar al sujeto fiscalizado de la materia específica objeto de la fiscalización y de la normativa pertinente, realizando las diligencias estrictamente indispensables y proporcionales al objeto de la fiscalización. El personal fiscalizador deberá, además, guardar reserva de aquellos antecedentes y documentos que no tengan el carácter de públicos. Los fiscalizados podrán denunciar conductas abusivas de los funcionarios ante sus superiores jerárquicos, sin perjuicio de las sanciones penales que correspondan.
 
@@ -1540,7 +1760,7 @@ Para las sanciones dispuestas en los artículos 172 y 173, el monto de la multa 
 
 2. Hasta el 75%:
 
-a) Si las infracciones se cometen en las zonas establecidas en los artículos 63, 65, 282 y 314 del presente Código.
+a) Si las infracciones se cometen en las zonas declaradas como área de restricción o zona de prohibición, en acuíferos o sectores hidrogeológicos de aprovechamiento común sujetos a una reducción temporal del ejercicio, en ríos declarados agotados, o en cauces intervenidos producto de una declaración de escasez.
 
 b) Si la infracción cometida perjudica gravemente el cauce, y siempre que no sea constitutiva de los hechos sancionados en el artículo 172.
 
@@ -1702,11 +1922,13 @@ El comparendo se celebrará con los interesados que asistan, si son dos o más y
 
 No podrá organizarse una comunidad de aguas ante el Juez si existe otra organización ya constituida en la obra común, que tenga la misma jurisdicción.
 
-La Dirección General de Aguas podrá participar y comprometer recursos en la organización de una comunidad de aguas desde la iniciación de la gestión judicial hasta su inscripción en el Registro de Propiedad de Aguas.
+La Dirección General de Aguas podrá participar y comprometer recursos en la organización de una comunidad de aguas desde la iniciación de la gestión judicial hasta su inscripción en el Catastro Público de Aguas.
 
 #### Artículo 189°
 
 En el comparendo a que se refiere el artículo anterior, los interesados harán valer los títulos o antecedentes que sirvan para establecer sus derechos en el agua o la obra común. A falta de acuerdo, el Juez resolverá sin más antecedentes que los acompañados.
+
+Sin perjuicio de lo anterior, en el caso de aquellos titulares de derechos que hayan iniciado el proceso de regularización ante la Dirección General de Aguas, en conformidad con los procedimientos a que se refieren los artículos 2 y 5 transitorios de este Código, podrán acompañar al tribunal un certificado emitido por esa Dirección que acredite que han iniciado dicho proceso. En caso de que el juez resuelva que la presentación de uno o más de estos interesados es suficiente para determinar su incorporación a la comunidad, se registrará bajo un rol de miembros provisionales con los mismos derechos y deberes del resto de los comuneros. El interesado dejará esa condición de provisional una vez que la Dirección General de Aguas resuelva su solicitud de regularización. Si esa Dirección rechaza la regularización, el interesado será eliminado del registro de miembros provisionales y no será incorporado como comunero.
 
 Cuando el Tribunal no alcance a conocer de las materias tratadas en este artículo en una sola audiencia, continuará en los días hábiles inmediatos hasta concluir.
 
@@ -1750,15 +1972,11 @@ No podrán, sin embargo, decretarse en estos juicios medidas precautorias que im
 
 Las comunidades se entenderán organizadas por su registro en la Dirección General de Aguas.
 
-Este registro es igualmente necesario para modificar sus estatutos.
-
-Efectuado el registro a que se refiere el inciso 1° se podrá practicar la inscripción mencionada en el artículo 114, números 1 y 2.
-
-Las comunidades de aguas que hayan cumplido con este requisito gozarán de personalidad jurídica y les serán aplicables las disposiciones del Título XXXIII del Libro I del Código Civil, con excepción de los artículos 560, 562, 563 y 564.
+Las comunidades de aguas que hayan cumplido con este requisito gozarán de personalidad jurídica y les serán aplicables las disposiciones del Título XXXIII del Libro I del Código Civil, con excepción de los artículos 562, 563 y 564.
 
 #### Artículo 197°
 
-Las cuestiones sobre preferencias que aleguen los dueños de derechos de aprovechamiento, no impedirán la organización de la comunidad. El Juez resolverá la forma en que dichos interesados se incorporarán a ella, tomando en cuenta exclusivamente los títulos y antecedentes que hagan valer.
+Las cuestiones sobre preferencias que aleguen los titulares de derechos de aprovechamiento, no impedirán la organización de la comunidad. El Juez resolverá la forma en que dichos interesados se incorporarán a ella, tomando en cuenta exclusivamente los títulos y antecedentes que hagan valer.
 
 La resolución judicial que reconozca la existencia de la comunidad y los derechos de los comuneros se reducirá a escritura pública, conjuntamente con los estatutos si hubiere acuerdo sobre ellos, la que deberá ser firmada por el Juez o por la persona que él designe.
 
@@ -1810,7 +2028,7 @@ No obstante, en lo referente a la administración de los canales y a la distribu
 
 #### Artículo 201°
 
-Serán bienes comunes los recursos pecuniarios y de otra naturaleza con que contribuyan los dueños de los derechos de aprovechamiento, el producto de las multas y los bienes que se adquieran a cualquier título para los fines de la organización.
+Serán bienes comunes los recursos pecuniarios y de otra naturaleza con que contribuyan los titulares de los derechos de aprovechamiento, el producto de las multas y los bienes que se adquieran a cualquier título para los fines de la organización.
 
 #### Artículo 202°
 
@@ -1836,7 +2054,7 @@ No se podrán inscribir dichas mutaciones mientras no se practiquen las inscripc
 
 #### Artículo 206°
 
-Los comuneros extraerán el agua por medio de dispositivos que permitan aforarla, tales como compuertas, marcos partidores u otros. Éstos serán autorizados por el directorio.
+Los comuneros extraerán el agua por medio de dispositivos que permitan aforarla, tales como compuertas, marcos partidores, bombas u otros. Éstos serán autorizados por el directorio.
 
 #### Artículo 207°
 
@@ -1844,7 +2062,7 @@ Si dos o más comuneros extrajeren aguas en común por un mismo dispositivo, el 
 
 Si requeridas a este efecto, no lo hicieren dentro del plazo de treinta días, el directorio efectuará el nombramiento.
 
-Dichos comuneros podrán constituirse en comunidad de aguas independiente, asociación de canalistas o en cualquiera otra organización que convengan.
+Dichos comuneros podrán constituirse en comunidad de aguas independiente, o asociación de canalistas, según corresponda.
 
 #### Artículo 208°
 
@@ -2194,7 +2412,7 @@ La reforma de los estatutos sólo podrá acordarse en junta extraordinaria, por 
 
 #### Artículo 250°
 
-La comunidad termina por la reunión de todos los derechos de agua en manos de un mismo dueño.
+La comunidad termina por la reunión de todos los derechos de agua en manos de un mismo titular.
 
 #### Artículo 251°
 
@@ -2238,7 +2456,7 @@ La constitución de la asociación y sus estatutos se hará por escritura públi
 
 Son aplicables igualmente a las asociaciones de canalistas y a las otras organizaciones de usuarios, las disposiciones del párrafo 1° de este Título, en cuanto sean compatibles con su naturaleza y no contradigan lo dispuesto en sus estatutos.
 
-A las primeras también les son aplicables las disposiciones del Título XXXIII, del Libro I, del Código Civil, con excepción de los artículos 560, 562, 563 y 564.
+A las primeras también les son aplicables las disposiciones del Título XXXIII, del Libro I, del Código Civil, con excepción de los artículos 562, 563 y 564.
 
 #### Artículo 259°
 
@@ -2246,7 +2464,7 @@ Quienes no hayan sido incluidos en la asociación u organización de usuarios po
 
 #### Artículo 260°
 
-Formarán el patrimonio de estas entidades, los recursos pecuniarios y de otra naturaleza con que contribuyan los dueños de los derechos de aprovechamiento, el producto de las multas y los bienes que adquieran a cualquier título para los fines de la organización.
+Formarán el patrimonio de estas entidades, los recursos pecuniarios y de otra naturaleza con que contribuyan los titulares de los derechos de aprovechamiento, el producto de las multas y los bienes que adquieran a cualquier título para los fines de la organización.
 
 #### Artículo 261°
 
@@ -2254,7 +2472,7 @@ También podrán organizarse en la forma establecida en este párrafo, los que e
 
 #### Artículo 262°
 
-La organización termina por la reunión de todos los derechos de agua en manos de un mismo dueño y por las causales que indiquen los estatutos.
+La organización termina por la reunión de todos los derechos de agua en manos de un mismo titular y por las causales que indiquen los estatutos.
 
 ### 4. De las Juntas de Vigilancia
 
@@ -2276,9 +2494,9 @@ El extracto indicado en el inciso anterior, deberá contener las siguientes menc
 
 3.- El o los cauces o la sección del cauce, acuíferos o fuente natural sobre la que tiene jurisdicción.
 
-4.- Enumeración de canales sometidos a su jurisdicción, con indicación de sus derechos de aprovechamiento en el cauce o fuente natural, expresados conjuntamente en acciones y en volumen por unidad de tiempo.
+4.- Enumeración de canales sometidos a su jurisdicción, con indicación de sus derechos de aprovechamiento en el cauce o fuente natural, expresados conjuntamente en acciones y en volumen por unidad de tiempo y las coordenadas de sus bocatomas expresados en coordenadas UTM, con indicación del datum y huso y, complementariamente, en los casos que fuere posible, una relación de los puntos de referencia permanentes y conocidos.
 
-5.- Enumeración de usuarios individuales que capten directamente del cauce natural, a través de una bocatoma, con indicación de sus derechos de aprovechamiento, expresados conjuntamente en acciones y en volumen por unidad de tiempo.
+5.- Enumeración de usuarios individuales que capten directamente del cauce natural, a través de una bocatoma, con indicación de sus derechos de aprovechamiento, expresados conjuntamente en acciones y en volumen por unidad de tiempo y las coordenadas de sus bocatomas o puntos de captación de aguas subterráneas, expresados en coordenadas UTM, con indicación del datum y huso y, complementariamente, en los casos que fuere posible, una relación de los puntos de referencia permanentes y conocidos.
 
 6.- El número de miembros que formará el directorio, o el número de administradores, según el caso.
 
@@ -2492,6 +2710,38 @@ Comprobada la denuncia, el reclamante tendrá derecho a ser reembolsado de los g
 
 Si continuaren los errores, faltas o abusos denunciados, la Dirección General de Aguas podrá solicitar a la Justicia Ordinaria que decrete la intervención por dicho organismo en la distribución de las aguas, por períodos que no excedan de noventa días, con todas las facultades de los respectivos directorios o administradores. Esas facultades serán ejercidas por la o las personas que designe la Dirección General de Aguas.
 
+### 6. Planes Estratégicos de Recursos Hídricos en Cuencas
+
+#### Artículo 293 bis
+
+Cada cuenca del país deberá contar con un Plan Estratégico de Recursos Hídricos tendiente a propiciar la seguridad hídrica en el contexto de las restricciones asociadas al cambio climático, el cual será público. Dicho plan será actualizado cada diez años o menos, y deberá considerar a lo menos los siguientes aspectos:
+
+1. La modelación hidrológica e hidrogeológica de la cuenca.
+
+2. Un balance hídrico que considere los derechos constituidos y usos susceptibles de regularización; la disponibilidad de recursos hídricos para la constitución de nuevos derechos, y el caudal susceptible de ser destinado a fines no extractivos.
+
+3. Un plan de recuperación de los acuíferos cuya sustentabilidad, en cuanto a cantidad y calidad físico química, se encuentre afectada.
+
+4. Un plan para hacer frente a las necesidades futuras de recursos hídricos con preferencia en el consumo humano. Una evaluación por cuenca de la disponibilidad de implementar e innovar en nuevas fuentes para el aprovechamiento y la reutilización de aguas, con énfasis en soluciones basadas en la naturaleza, tales como, la desalinización de agua de mar, la reutilización de aguas grises y servidas, la recarga artificial de acuíferos, la cosecha de aguas lluvias y otras. Dicha evaluación incluirá un análisis de costos de las distintas alternativas, la identificación de los potenciales impactos ambientales y sociales para una posterior evaluación, y las proyecciones de demanda para consumo humano a diez años.
+
+5. Un programa quinquenal para la ampliación, instalación, modernización y/o reparación de las redes de estaciones fluviométricas, meteorológicas, sedimentométricas, y la mantención e implementación de la red de monitoreo de calidad de las aguas, de niveles de pozos, embalses, lagos, glaciares y rutas de nieve.
+
+6. Adicionalmente, en el evento de que se hayan establecido en la cuenca los planes de manejo a los que hace referencia el artículo 42 de la ley N° 19.300, deberán incorporarse al respectivo Plan Estratégico de Recursos Hídricos.
+
+El referido Plan deberá ser consistente con las políticas para el manejo, uso y aprovechamiento sustentables de los recursos naturales renovables a los que hace referencia la letra a) del artículo 71 de la ley N° 19.300.
+
+Un reglamento dictado por el Ministerio de Obras Públicas establecerá el procedimiento y los requisitos específicos para confeccionar los Planes Estratégicos de Recursos Hídricos en cuencas.
+
+#### Artículo 293 ter
+
+Créase un Fondo para la Investigación, Innovación y Educación en Recursos Hídricos, dependiente del Ministerio de Obras Públicas, que se ejecutará a través de la Dirección General de Aguas. El fondo estará destinado a financiar las investigaciones necesarias para la adopción de medidas para la gestión de recursos hídricos y, en particular, para la elaboración, implementación y seguimiento de los planes estratégicos de recursos hídricos en cuencas, establecidos en el artículo 293 bis y se distribuirá entre las regiones del país, para la elaboración de dichos planes.
+
+Este fondo estará constituido por los aportes que se consulten cada año en la Ley de Presupuestos del Sector Público.
+
+Anualmente se desarrollará un concurso público por medio del cual se efectuará la selección de las investigaciones y estudios que se postulen para ser financiados con cargo al fondo. El reglamento establecerá la composición del jurado, las bases generales, el procedimiento y la forma de postulación al concurso en base a criterios de distribución preferentemente regional. En todo caso, las postulaciones deberán expresar a lo menos los fines, componentes, acciones, presupuestos de gastos, estados de avance y los indicadores de verificación de éstos.
+
+Para efectos de la selección, la Dirección General de Aguas llevará a cabo una evaluación técnica y económica de los proyectos que postulen. Esta evaluación, cuyos resultados serán públicos, se efectuará sobre la base de los criterios de elegibilidad que anualmente aprueba la Dirección General de Aguas, que deberá considerar, al menos, los efectos de la investigación o estudios a nivel nacional, regional o comunal, la población que beneficia o impacta, la situación social o económica del respectivo territorio y el grado de accesibilidad para la comunidad.
+
 # Libro Tercero
 
 ## Título I
@@ -2508,9 +2758,9 @@ b) Los acueductos que conduzcan más de dos metros cúbicos por segundo;
 
 c) Los acueductos que conduzcan más de medio metro cúbico por segundo, que se proyecten próximos a zonas urbanas, y cuya distancia al extremo más cercano del límite urbano sea inferior a un kilómetro y la cota de fondo sea superior a 10 metros sobre la cota de dicho límite, y
 
-d) Los sifones y canoas que crucen cauces naturales.
+d) Los sifones y canoas que cumplan con las características señaladas en las letras b) o c) precedentes que crucen cauces naturales.
 
-Quedan exceptuados de cumplir los trámites y requisitos a que se refiere este artículo, los Servicios dependientes del Ministerio de Obras Públicas, los cuales deberán remitir los proyectos de obras a la Dirección General de Aguas dentro del plazo de seis meses contado desde la recepción final de la obra, para su conocimiento, informe e inclusión en el Catastro Público de Aguas.
+Quedan exceptuados de cumplir los trámites y requisitos a que se refiere este artículo, los Servicios dependientes del Ministerio de Obras Públicas. Estos Servicios deberán informar a la Dirección General de Aguas las características generales de las obras y ubicación del proyecto antes de iniciar su construcción y remitir los proyectos definitivos para su conocimiento e inclusión en el Catastro Público de Aguas, dentro del plazo de seis meses, contado desde la recepción final de la obra.
 
 #### Artículo 295°
 
@@ -2544,29 +2794,31 @@ La Dirección General de Aguas es un servicio dependiente del Ministerio de Obra
 
 La Dirección General de Aguas tendrá las atribuciones y funciones que este código le confiere, y, en especial, las siguientes:
 
-a) Planificar el desarrollo del recurso en las fuentes naturales, con el fin de formular recomendaciones para su aprovechamiento y arbitrar las medidas necesarias para prevenir y evitar el agotamiento de los acuíferos;
+a) Planificar el desarrollo del recurso en las fuentes naturales, con el fin de formular recomendaciones para su aprovechamiento y arbitrar las medidas necesarias para prevenir y evitar el agotamiento de los acuíferos en concordancia con los planes estratégicos de cuencas señalados en el artículo 293 bis;
 
 b) Investigar, medir el recurso y monitorear tanto su calidad como su cantidad, en atención a la conservación y protección de las aguas. Para ello deberá:
 
-1. Mantener y operar el servicio hidrométrico nacional, el que incluye tanto mediciones de cantidad como calidad de aguas, y proporcionar y publicar la información correspondiente.
+1. Mantener y operar el servicio hidrométrico nacional, el que incluye tanto mediciones de cantidad como calidad de aguas, y proporcionar y publicar la información correspondiente. Asimismo, mantener y operar la red de monitoreo e inventario de glaciares y nieves, el que incluye tanto mediciones de volumen y acumulación, como sus características y ubicación, debiendo proporcionar y publicar la información correspondiente, conforme al reglamento dictado al efecto.
 
 2. Encomendar a empresas u organismos especializados los estudios e informes técnicos que estime conveniente y la construcción, implementación y operación de las obras de medición e investigación que se requiera.
 
-3. Propender a la coordinación de los programas de investigación que corresponda a las entidades del sector público y a las privadas que realicen esos trabajos con financiamiento parcial del Estado.
+3. Coordinar los programas de investigación e inversión que corresponda a las entidades del sector público y a las privadas que realicen esos trabajos con financiamiento parcial del Estado. Un reglamento establecerá el procedimiento, modalidad y plazos en que las respectivas entidades informarán a la Dirección General de Aguas sobre las inversiones, los llamados a concurso, las investigaciones y los informes finales de éstas.
+
+La negativa o el incumplimiento de la entrega de la información solicitada se estimará como una grave vulneración del principio de probidad administrativa, sin perjuicio de las demás sanciones y responsabilidades que procedan.
 
 Para la realización de estas funciones la Dirección General de Aguas deberá constituir las servidumbres a que se refiere el artículo 107;
 
 4. Corresponderá a la Dirección General de Aguas declarar la alerta de amenaza asociada al recurso hídrico, informando el nivel y cobertura del mismo, y comunicarla de manera oportuna y suficiente al Servicio Nacional de Prevención y Respuesta ante Desastres, en la forma que determinen los protocolos generados para estos efectos.
 
+5. Reevaluar las circunstancias que dan origen a una declaración de agotamiento, a un área de restricción o a una zona de prohibición, así como aquellas que justifiquen una reducción temporal del ejercicio de los derechos.
+
 c) Ejercer la policía y vigilancia de las aguas en los cauces naturales de uso público y acuíferos; impedir, denunciar o sancionar la afectación a la cantidad y la calidad de estas aguas, de conformidad al inciso primero del artículo 129 bis 2 y los artículos 171 y siguientes; e impedir que en éstos se construyan, modifiquen o destruyan obras sin la autorización previa del servicio o autoridad a quien corresponda aprobar su construcción o autorizar su demolición o modificación;
 
 d) Impedir que se extraigan aguas de los mismos cauces y en los acuíferos sin título o en mayor cantidad de lo que corresponda.
 
-e) Supervigilar el funcionamiento de las organizaciones de usuarios, de acuerdo con lo dispuesto en este Código.
+e) Supervigilar el funcionamiento de las organizaciones de usuarios y brindarles la asesoría técnica y legal para su constitución y operación, de acuerdo con lo dispuesto en este Código.
 
 f) Requerir directamente el auxilio de la fuerza pública, con facultades de allanamiento y descerrajamiento, para efectos del ejercicio de las atribuciones señaladas en los literales b), número 1; c) y d) de este artículo. El requerimiento deberá ser presentado por el director regional correspondiente.
-
-Para el ejercicio de la atribución dispuesta en el número 1 del literal b) de este artículo, el auxilio de la fuerza pública podrá requerirse sólo en caso de que se acredite la negativa a la solicitud de acceso que previamente haya efectuado el personal de la Dirección General de Aguas con el objeto de realizar trabajos de mantención y operación del servicio hidrométrico nacional.
 
 #### Artículo 299 bis
 
@@ -2575,6 +2827,10 @@ Los funcionarios de la Dirección General de Aguas que ejecuten labores de fisca
 #### Artículo 299 ter
 
 La Dirección General de Aguas, mediante resolución fundada, podrá ordenar la paralización de obras en caso de acreditarse fehacientemente la extracción de aguas en un punto no reconocido o constituido de conformidad a la ley. Asimismo, podrá ordenar el cegamiento de un pozo una vez que la resolución se encuentre ejecutoriada. Para cumplir con estas finalidades, el Director General de Aguas, o los Directores Regionales, podrán ejercer las facultades contenidas en el artículo 138 de este Código.
+
+#### Artículo 299 quáter
+
+La Dirección General de Aguas deberá publicar periódicamente la información que recabe en el ejercicio de sus funciones, de manera de facilitar el acceso a ésta y su comprensión.
 
 #### Artículo 300°
 
@@ -2612,7 +2868,7 @@ En las causas civiles en que sea parte o tenga relación o interés la Direcció
 
 #### Artículo 303°
 
-Si con motivo de la construcción y operación de obras hidráulicas se alterasen los caudales en cauces naturales, la Dirección General de Aguas podrá aforar sus corrientes, solicitar antecedentes y dirimir las dificultades que se presenten con motivo de su distribución entre los dueños de derechos de aprovechamiento de dichos cauces, pudiendo establecer las medidas que deben adoptar los usuarios para su adecuado ejercicio. El incumplimiento de estas medidas será sancionado por la Dirección General de Aguas con una multa cuya cuantía podrá variar entre el segundo y el cuarto grado.
+Si con motivo de la construcción y operación de obras hidráulicas se alterasen los caudales en cauces naturales, la Dirección General de Aguas podrá aforar sus corrientes, solicitar antecedentes y dirimir las dificultades que se presenten con motivo de su distribución entre los titulares de derechos de aprovechamiento de dichos cauces, pudiendo establecer las medidas que deben adoptar los usuarios para su adecuado ejercicio. El incumplimiento de estas medidas será sancionado por la Dirección General de Aguas con una multa cuya cuantía podrá variar entre el segundo y el cuarto grado.
 
 #### Artículo 304°
 
@@ -2646,7 +2902,45 @@ Si ello no se efectuare en los plazos que determine, dictará una resolución fu
 
 #### Artículo 307 bis
 
-La Dirección General de Aguas podrá exigir la instalación de sistemas de medición a los titulares de derechos de aprovechamiento de aguas superficiales u organizaciones de usuarios que extraigan aguas directamente desde cauces naturales de uso público. En el caso de los derechos no consuntivos, será obligatoria la instalación de sistemas de medición de caudal instantáneo, tanto en el punto de captación como en el punto de restitución, esto cuando el titular haya construido las obras necesarias para su uso. Dicho sistema deberá permitir que se obtenga, almacene y transmita a la Dirección General de Aguas la información indispensable para el control y medición del caudal instantáneo, efectivamente extraído y -en los usos no consuntivos- restituido, desde la fuente natural. El Servicio, por medio de una resolución fundada, determinará los plazos y las condiciones técnicas para cumplir dicha obligación.
+La Dirección General de Aguas podrá exigir la instalación de sistemas de medición de caudales extraídos, del caudal ecológico contemplado en el artículo 129 bis 1 y un sistema de transmisión de la información que se obtenga, de conformidad con las normas que establezca el Servicio, a los titulares de derechos de aprovechamiento de aguas superficiales u organizaciones de usuarios que extraigan aguas directamente desde cauces naturales de uso público. Además, en el caso de los derechos no consuntivos, esta exigencia se aplicará también en la obra de restitución.
+
+Dicho sistema deberá permitir que se obtenga y transmita a la Dirección General de Aguas la información indispensable para el control y medición del caudal instantáneo, efectivamente extraído y, en los usos no consuntivos, restituido, desde la fuente natural.
+
+Ante el incumplimiento de las medidas a que se refieren los incisos anteriores, así como lo dispuesto en los artículos 38, 67 y 68, la Dirección General de Aguas, mediante resolución fundada, impondrá una multa a beneficio fiscal de segundo a tercer grado, en conformidad con lo dispuesto en el artículo 173 ter. Lo anterior, sin perjuicio de las sanciones penales que correspondan.
+
+#### Artículo 307 ter
+
+Es deber de la Dirección General de Aguas evaluar los proyectos de obras hidráulicas que se sometan a su consideración, y emitir su informe técnico en base a los antecedentes que aporte el solicitante y demás información que se requiera para mejor resolver.
+
+Los titulares de proyectos de obras que presenten las solicitudes a que se refieren los artículos 151, 171 y 294 y siguientes, podrán requerir que la Dirección General de Aguas designe de manera aleatoria un perito del Registro de Peritos Externos a cargo de dicha Dirección, para que elabore un informe de pre revisión del correspondiente proyecto.
+
+La Dirección General de Aguas, mediante resolución, determinará los contenidos mínimos que deberán contener los informes de los peritos externos, en la que diferenciará los casos de los proyectos referidos a bocatomas, los proyectos de modificaciones que señala el artículo 171 y los proyectos de obras mayores, y determinará para cada categoría los costos del peritaje. Asimismo, en dicha resolución se fijarán los requisitos, inhabilidades e incompatibilidades a que deberán ceñirse dichos peritos externos para inscribirse y permanecer en el registro. Deberá evitarse el conflicto de interés.
+
+No podrán inscribirse en el señalado registro:
+
+a) Las personas condenadas por delitos ambientales.
+
+b) Los infractores de la legislación sobre libre competencia.
+
+c) Las personas jurídicas condenadas por los delitos señalados en la ley N° 20.393, sobre responsabilidad penal de las personas jurídicas.
+
+d) Los condenados por delitos de soborno, cohecho, e infractores de la ley N° 19.913, sobre lavado y blanqueo de activos.
+
+e) Los condenados por los delitos contemplados en la ley N° 20.066, que establece la Ley de Violencia Intrafamiliar.
+
+Sin perjuicio de lo anterior, no podrán actuar como peritos externos en una solicitud determinada:
+
+1. Los relacionados con el solicitante, en virtud de lo dispuesto en el artículo 100 de la ley N° 18.045, sobre Mercado de Valores.
+
+2. Los que hubieren participado en la preparación de la solicitud sobre la cual deberá pronunciarse la Dirección General de Aguas.
+
+3. Los que hayan mantenido una relación laboral con el solicitante durante los últimos cinco años o la mantengan al momento de la designación.
+
+Los gastos que irroguen las actuaciones efectuadas por peritos externos serán siempre de cargo del solicitante, quien deberá consignar los fondos necesarios a la Dirección General de Aguas, en forma previa a la designación, dentro del plazo que ésta fije al efecto. Una vez ejecutado el encargo, lo que se acreditará con los informes respectivos, el Servicio pagará los servicios realizados.
+
+Los informes técnicos y sus conclusiones elaboradas por un perito externo no serán vinculantes para la autoridad, de modo que la Dirección General de Aguas resolverá en definitiva la cuestión sometida a su consideración conforme a la evaluación y ponderación que ella efectúe de la información y antecedentes que constituyan el caso respectivo. Asimismo, la decisión y los fundamentos en que un caso haya sido resuelto por la Dirección General de Aguas no constituirá necesariamente precedente para la resolución de un caso similar o equivalente que esté conociendo o conozca en el futuro.
+
+Los peritos externos serán solidariamente responsables con el titular del proyecto de obras hidráulicas por los daños y perjuicios que se ocasionen o provengan de fallas, errores, defectos u omisiones de sus informes en la medida que éstos hayan sido aprobados por la Dirección General de Aguas y las obras construidas no tengan diferencias con el proyecto aprobado respecto de lo señalado en dicho informe.
 
 Título final
 
@@ -2700,29 +2994,31 @@ Para los efectos del artículo 13° se reputan derechos de aprovechamiento consu
 
 3. Los derechos ejercidos con la calidad de consuntivos durante cinco años, sin contradicción de terceros.
 
-#### Artículo 314°
+#### Artículo 314
 
-El Presidente de la República, a petición o con informe de la Dirección General de Aguas, podrá, en épocas de extraordinaria sequía, declarar zonas de escasez por períodos máximos de seis meses, no prorrogables.
+El Presidente de la República, a petición y con informe de la Dirección General de Aguas, podrá declarar zonas de escasez hídrica ante una situación de severa sequía por un período máximo de un año, prorrogable sucesivamente, previo informe de la citada Dirección, para cada período de prórroga.
 
-La Dirección General de Aguas calificará, previamente, mediante resolución, las épocas de sequía que revistan el carácter de extraordinarias.
+La Dirección General de Aguas calificará previamente, mediante resolución, los criterios que determinan el carácter de severa sequía.
 
-Declarada la zona de escasez, y no habiendo acuerdo de los usuarios para redistribuir las aguas, la Dirección General de Aguas podrá hacerlo respecto de las disponibles en las fuentes naturales, para reducir al mínimo los daños generales derivados de la sequía. Podrá, para ello, suspender las atribuciones de las Juntas de Vigilancia, como también los seccionamientos de las corrientes naturales que estén comprendidas dentro de la zona de escasez.
+Declarada la zona de escasez hídrica, con el objeto de reducir al mínimo los daños generales derivados de la sequía, especialmente para garantizar el consumo humano, saneamiento o el uso doméstico de subsistencia, de conformidad con lo dispuesto en el inciso segundo del artículo 5 bis, la Dirección General de Aguas podrá exigir, para estos efectos, a la o las juntas de vigilancia respectivas la presentación de un acuerdo de redistribución, dentro del plazo de quince días corridos contado desde la declaratoria de escasez. Este acuerdo deberá contener las condiciones técnicas mínimas y las obligaciones y limitaciones que aseguren que en la redistribución de las aguas, entre todos los usuarios de la cuenca, prevalezcan los usos para el consumo humano, saneamiento o el uso doméstico de subsistencia, precaviendo la comisión de faltas graves o abusos.
 
-Una vez declarada la zona de escasez y por el mismo período señalado en el inciso primero de este artículo, la Dirección General de Aguas podrá autorizar extracciones de aguas superficiales o subterráneas desde cualquier punto sin necesidad de constituir derechos de aprovechamiento de aguas y sin la limitación del caudal ecológico mínimo establecido en el artículo 129 bis 1. También podrá otorgar cualquiera de las autorizaciones señaladas en el Título I del Libro Segundo de este Código.
+De aprobarse el acuerdo por la Dirección General de Aguas, las juntas de vigilancia deberán darle cumplimiento dentro del plazo de cinco días corridos contado desde su aprobación, y su ejecución será oponible a todos los usuarios de la respectiva cuenca. En caso de que exista un acuerdo previo de las juntas de vigilancia que cumpla con todos estos requisitos y que haya sido aprobado por el Servicio con anterioridad a la declaratoria de escasez, se procederá conforme a éste, debiendo ser puesto en marcha dentro del plazo de cinco días corridos contado desde la declaratoria.
 
-Para los efectos señalados en los incisos anteriores, y lo dispuesto en el artículo siguiente, la Dirección General de Aguas adoptará las medidas sin sujeción a las normas establecidas en el Título I del Libro Segundo de este Código.
+Con todo, aquellas asociaciones de canalistas o comunidades de aguas que al interior de sus redes de distribución abastezcan a prestadores de servicios sanitarios deberán adoptar las medidas necesarias para que, con la dotación que les corresponda por la aplicación del acuerdo de distribución, dichos prestadores reciban el caudal o los volúmenes requeridos para garantizar el consumo humano, saneamiento o el uso doméstico de subsistencia.
 
-Los decretos supremos y las resoluciones de la Dirección General de Aguas que se dicten en virtud de las facultades conferidas en los incisos anteriores, se cumplirán de inmediato, sin perjuicio de la posterior toma de razón por la Contraloría General de la República.
+En caso de que las juntas de vigilancia no presentaren el acuerdo de redistribución dentro del plazo contemplado en el inciso tercero o no diesen cumplimiento a lo indicado precedentemente, el Servicio podrá ordenar el cumplimiento de esas medidas o podrá disponer la suspensión de sus atribuciones, como también de los seccionamientos de las corrientes naturales que estén comprendidas dentro de la zona de escasez, para realizar directamente la redistribución de las aguas superficiales y/o subterráneas disponibles en la fuente, con cargo a las juntas de vigilancia respectivas. La Dirección General de Aguas podrá liquidar y cobrar mensualmente los costos asociados a ésta. Lo anterior, sin perjuicio de que las juntas de vigilancia podrán presentar a consideración de la Dirección General de Aguas el acuerdo a que se refieren los incisos tercero y cuarto.
 
-Todo aquel titular de derechos que reciba menor proporción de aguas que la que le correspondería de conformidad a las disponibilidades existentes, tendrá derecho a ser indemnizado por el Fisco.
+Sin perjuicio de lo anterior, la Dirección General de Aguas podrá autorizar extracciones de aguas superficiales o subterráneas destinadas con preferencia a los usos de consumo humano, saneamiento o al uso doméstico de subsistencia y la ejecución de las obras en los cauces necesarias para ello desde cualquier punto sin necesidad de constituir derechos de aprovechamiento de aguas, sin sujeción a las normas establecidas en el Título I del Libro Segundo y sin la limitación del caudal ecológico mínimo establecido en el artículo 129 bis 1. Las autorizaciones que se otorguen en virtud de este inciso estarán vigentes mientras esté en vigor el decreto de escasez respectivo.
+
+Todo aquel titular de derechos que reciba menor proporción de aguas que la que le correspondería de conformidad a las disponibilidades existentes, tendrá derecho a ser indemnizado por quien corresponda. Sólo tendrán derecho a ser indemnizados por el Fisco aquellos titulares de derechos de aprovechamiento que reciban una menor proporción de aguas que aquella que les correspondería de aplicarse por la Dirección General de Aguas las atribuciones que se le confieren en el inciso sexto. En ningún caso procederá indemnización si dicha menor proporción fuere a consecuencia de la priorización del consumo humano, el saneamiento y el uso doméstico de subsistencia, en los términos que señala este artículo.
 
 Esta declaración de zona de escasez no será aplicable a las aguas acumuladas en embalses particulares.
 
 #### Artículo 315°
 
-En las corrientes naturales o en los cauces artificiales en que aún no se hayan constituido organizaciones de usuarios, de acuerdo con las disposiciones de este código, la Dirección General de Aguas, podrá, a petición de parte, hacerse cargo de la distribución en zonas declaradas de escasez.
+En las corrientes naturales o en los cauces artificiales en que aún no se hayan constituido legalmente organizaciones de usuarios, por no encontrarse éstas debidamente registradas, de acuerdo con las disposiciones de este Código, la Dirección General de Aguas podrá, de oficio o a petición de parte, alternativamente, instruir a los usuarios la redistribución de las aguas o hacerse cargo de la distribución en zonas declaradas de escasez.
 
-En tal caso, las personas designadas con dicho objeto por la Dirección, actuarán con todas las atribuciones que la ley confiere a los directores o administradores de dichos organismos, según corresponda, siendo aplicable lo dispuesto en el artículo 275°.
+En tal caso, las personas designadas con dicho objeto por la Dirección, actuarán con todas las atribuciones que la ley confiere a los directores o administradores de dichos organismos, según corresponda, siendo aplicable lo dispuesto en el artículo 275, con cargo a dichos usuarios.
 
 #### Artículo 316°
 
@@ -2744,17 +3040,19 @@ Para resolver sobre la solicitud, el juez solicitará informe al Conservador de 
 
 #### Artículo 2°
 
-Los derechos de aprovechamiento inscritos que estén siendo utilizados por personas distintas de sus titulares a la fecha de entrar en vigencia este código, podrán regularizarse cuando dichos usuarios hayan cumplido cinco años de uso ininterrumpido, contados desde la fecha en que hubieren comenzado a hacerlo, en conformidad con las reglas siguientes:
+Los usos actuales de las aguas que estén siendo aprovechados a la fecha de entrar en vigencia este código, podrán regularizarse cuando dichos usuarios y sus antecesores en posesión del derecho hayan cumplido cinco años de uso ininterrumpido, contados desde la fecha en que hubieren comenzado a hacerlo, en conformidad con las reglas siguientes:
 
 a) La utilización deberá haberse efectuado libre de clandestinidad o violencia, y sin reconocer dominio ajeno;
 
 b) La solicitud se elevará a la Dirección General de Aguas ajustándose en la forma, plazos y trámites a lo prescrito en el párrafo 1° del Título I del Libro II de este código;
 
-c) Los terceros afectados podrán deducir oposición mediante presentación que se sujetará a las reglas señaladas en la letra anterior, y
+c) Los terceros afectados podrán deducir oposición mediante presentación que se sujetará a las reglas señaladas en la letra anterior.
 
-d) Vencidos los plazos legales, la Dirección General de Aguas remitirá la solicitud y todos los antecedentes más la oposición, si la hubiere, al Juez de Letras en lo Civil competente, quien conocerá y fallará de acuerdo al procedimiento establecido en el artículo 177 y siguientes de este código.
+d) Reunidos todos los antecedentes, la Dirección General de Aguas, previo a resolver, deberá consultar a la organización de usuarios respectiva, en caso que ésta exista, su opinión fundada sobre características del uso y su antigüedad, la que podrá responder dentro de los treinta días hábiles siguientes a su notificación. La respuesta de la organización no será vinculante para el Servicio.
 
-El mismo procedimiento se aplicará en los casos de las personas que, cumpliendo todos los requisitos indicados en el inciso anterior, solicitaren inscribir derechos de aprovechamiento no inscritos, y aquellos que se extraen en forma individual de una fuente natural.
+e) La Dirección General de Aguas emitirá un informe técnico y dictará una resolución fundada que reconocerá los derechos de aprovechamiento que cumplan con los requisitos descritos en este artículo, y señalará las características esenciales del derecho de aprovechamiento. En caso contrario, denegará la solicitud. A la resolución que reconozca el derecho de aprovechamiento le será aplicable lo dispuesto en el artículo 150.
+
+Las organizaciones de usuarios legalmente constituidas podrán presentar solicitudes de regularización en representación de sus usuarios que cumplan individualmente los requisitos para ello, cuando cuenten con autorización expresa de los usuarios de aguas interesados en someterse al procedimiento.
 
 #### Artículo 3°
 
@@ -2768,17 +3066,21 @@ Si la expropiación hubiere sido parcial, o si habiendo sido total se le hubiere
 
 #### Artículo 5°
 
-La determinación e inscripción de los derechos de aprovechamiento provenientes de predios expropiados total o parcialmente o adquiridos a cualquier título por aplicación de las leyes N°s 15.020 y 16.640, podrá efectuarse de acuerdo con las reglas siguientes:
+Sin perjuicio de lo señalado en el artículo 2 transitorio, la determinación e inscripción de los derechos de aprovechamiento provenientes de predios expropiados total o parcialmente o adquiridos a cualquier título por aplicación de las leyes N°s 15.020 y 16.640, podrá efectuarse de acuerdo con las reglas siguientes:
 
-1.- El Servicio Agrícola y Ganadero determinará, en forma proporcional a la extensión regada, los derechos de aprovechamiento que corresponden a cada predio asignado, a la reserva, a la parte que se hubiere excluido de la expropiación y a la que se hubiere segregado por cualquier causa cuando ello fuere procedente. Cuando la dotación que tenga el predio expropiado total o parcialmente fuere insuficiente para efectuar una adecuada distribución de las aguas, el Servicio podrá incorporar a ella otros derechos de que disponga.
+1. La solicitud se presentará ante la Dirección General de Aguas; declarada admisible, se remitirán los antecedentes al Servicio Agrícola y Ganadero.
 
-2.- La determinación de los derechos a que se refiere el número anterior se hará mediante resolución exenta, que deberá publicarse en extracto en el Diario Oficial e inscribirse en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces competente.
+Deberá acreditarse la existencia y extensión de los derechos de aprovechamiento de aguas expropiados, la relación entre tales derechos y la superficie regada, y la circunstancia de que no existan otros derechos de aprovechamiento asignados al mismo predio. Para lo anterior, la Dirección General de Aguas podrá requerir al Servicio Agrícola y Ganadero para que informe acerca de dichas circunstancias en referencia a cada predio asignado, a la reserva, a la parte que se hubiere excluido de la expropiación y a la que se hubiere segregado por cualquier causa cuando ello fuere procedente. Lo anterior, en forma proporcional a la extensión efectivamente regada a la fecha de la expropiación. Este informe no tendrá carácter vinculante.
 
-3.- Los interesados podrán reclamar de la resolución del Servicio Agrícola y Ganadero dentro del plazo de 60 días corridos desde la fecha de su publicación en el Diario Oficial, ante el Juez de Letras Civil competente, quien conocerá y fallará de acuerdo con el procedimiento establecido en los artículos 177 y siguientes de este Código.
+Previo a resolver, la Dirección General de Aguas podrá solicitar las aclaraciones, decretar las inspecciones oculares y pedir los informes correspondientes para mejor resolver, de conformidad con el inciso segundo del artículo 135.
 
-4.- Los propietarios de los predios comprendidos en la resolución a que se refiere el número 2 podrán inscribir a su nombre los derechos de aprovechamiento establecidos para tales predios con la sola presentación de la inscripción de dominio del inmueble. En este caso, la inscripción de la aludida resolución será suficiente para determinar la cantidad de derechos que corresponde a cada predio y no regirá lo establecido en el artículo 1° transitorio de este Código.
+2. La regularización de los derechos a que se refiere este artículo se hará mediante resolución de la Dirección General de Aguas, la que deberá cumplir con los requisitos establecidos en el artículo 149. Esta resolución deberá publicarse en extracto en el Diario Oficial para efectos de su notificación, y en su contra procederán los recursos establecidos en los artículos 136 y 137.
 
-El Servicio Agrícola y Ganadero podrá requerir la inscripción de los derechos de aprovechamiento a que se refiere este artículo y comprometer recursos en ello.
+3. A la resolución que determine el derecho de aprovechamiento de conformidad con estas reglas le será aplicable lo dispuesto en el artículo 150.
+
+4. En el evento en que el Servicio Agrícola y Ganadero hubiere determinado los derechos que proporcionalmente correspondieren a los predios a los que se refiere el presente artículo, mediante resolución exenta publicada en el Diario Oficial e inscrita en el Conservador de Bienes Raíces competente, los propietarios de dichos predios podrán inscribir a su nombre los derechos de aprovechamiento establecidos para tales predios con la sola presentación de la inscripción de dominio del inmueble, dentro de los dos años siguientes a la publicación de esta ley. Vencido el plazo, tendrá que realizar el trámite a que se refiere este artículo. En este caso, la inscripción de la aludida resolución será suficiente para determinar la cantidad de derechos que corresponde a cada predio y no regirá lo establecido en el artículo 1 transitorio de este Código.
+
+Esta regularización no será aplicable a aquellos predios expropiados por las leyes N° 15.020 y 16.640 que a la fecha de la expropiación no contaban con derechos de aprovechamiento.
 
 #### Artículo 6°
 
@@ -2786,37 +3088,17 @@ Los derechos de aprovechamiento otorgados provisionalmente de acuerdo a las norm
 
 #### Artículo 7°
 
-Las solicitudes de concesión de mercedes de agua que se encuentran actualmente pendientes, deberán ajustarse en su contenido y tramitación a lo dispuesto en el párrafo 2°, del Título I, del Libro II, si no se hubieren efectuado las publicaciones a que se refiere el artículo 252 del código que se deroga.
-
-En aquellos casos en que tales publicaciones ya se hubieren efectuado a la fecha de entrar en vigencia este cuerpo legal, continuará corriendo el plazo de oposición establecido en el artículo 253 del anterior código, debiendo el procedimiento posterior ajustarse a las normas indicadas en el inciso precedente. Para los efectos de lo dispuesto en el inciso 3° del artículo 141, el plazo en él indicado se contará desde los sesenta días siguientes a la fecha de su entrada en vigencia, sin que los peticionarios necesiten efectuar nuevas presentaciones.
-
-La Dirección General de Aguas deberá publicar avisos que informen sobre las solicitudes pendientes, a lo menos con 10 días de anterioridad al vencimiento de los sesenta días antes mencionados.
+En el Registro de Aguas del Conservador de Bienes Raíces se inscribirán las escrituras públicas que contengan la resolución de concesión definitiva a la que se refiere el artículo 266° del Código de Aguas aprobado por decreto con fuerza de ley N° 162, de 1969, otorgadas con posterioridad a la vigencia de dicho Código.
 
 #### Artículo 8°
 
-En el Registro de Aguas del Conservador de Bienes Raíces se inscribirán las escrituras públicas que contengan la resolución de concesión definitiva a la que se refiere el artículo 266° del Código de Aguas aprobado por decreto con fuerza de ley N° 162, de 1969, otorgadas con posterioridad a la vigencia de dicho Código.
+Hasta que no se dicten las disposiciones legales referentes a la conservación y protección de las aguas, corresponderá a la Dirección General de Aguas aplicar la política sobre la materia y coordinar las funciones que, de acuerdo a la legislación vigente, correspondan a los distintos organismos y servicios públicos.
 
 #### Artículo 9°
 
-Hasta que no se dicten las disposiciones legales referentes a la conservación y protección de las aguas, corresponderá a la Dirección General de Aguas aplicar la política sobre la materia y coordinar las funciones que, de acuerdo a la legislación vigente, correspondan a los distintos organismos y servicios públicos.
+La Dirección General de Aguas, a petición de la Comisión Nacional de Riego y previo informe de la Dirección de Obras Hidráulicas, otorgará derechos de aprovechamiento en las obras de riego construidas por el Estado, total o parcialmente terminadas, en la medida que exista disponibilidad, respetando el artículo 5 bis.
 
 #### Artículo 10°
-
-Se faculta al Servicio Nacional de Obras Sanitarias, a la Empresa Metropolitana de Obras Sanitarias y a la Empresa de Obras Sanitarias de Valparaíso, para continuar aprovechando las aguas que utilicen efectivamente a la fecha de entrar en vigencia este código y sobre las cuales no tengan derechos constituidos, sin perjuicio de los derechos de terceros.
-
-Facúltase a la Dirección General de Aguas para que dentro del plazo de dos años contados desde la vigencia de este código les otorgue los derechos de aprovechamiento respectivos de acuerdo al procedimiento contemplado en el párrafo I del Título I del Libro II.
-
-El aprovechamiento efectivo se acreditará solamente con la existencia de obras aparentes en actual funcionamiento.
-
-#### Artículo 11°
-
-La Dirección General de Aguas, a petición de la Comisión Nacional de Riego y previo informe de la Dirección de Riego, otorgará derechos de aprovechamiento en las obras de riego construidas por el Estado y total o parcialmente terminadas.
-
-#### Artículo 12°
-
-Toda solicitud que, de conformidad con el Código de Aguas, cuyo texto sistematizado se aprobó por decreto con fuerza de ley N° 162, de 1969, del Ministerio de Justicia, tuviere un procedimiento judicial o administrativo especial, continuará rigiéndose hasta su término por dichas normas, pero los derechos que ella origine se regirán por el presente código.
-
-#### Artículo 13°
 
 El actual Registro de Aguas que llevan los Conservadores de Bienes Raíces constituirá el Registro de Aguas establecido por el artículo 112 del presente código.
 
