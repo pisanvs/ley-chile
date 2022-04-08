@@ -134,8 +134,6 @@ Una vez dictada la resolución exenta de proyectos hábiles seleccionados corres
 
 12. Los recursos disponibles para efectuar la selección de proyectos será el siguiente:
 
-.
-
 13. Considerando los recursos establecidos en el Resuelvo precedente, se identifica los montos que serán destinados a la selección de: Condominios Sociales que conforman la demanda general del programa; Condominios Sociales insertos en conjuntos habitacionales que, en virtud de las resoluciones exentas citadas en el Visto 7 y 8 de la presente resolución exenta, se encuentran en los barrios seleccionados por el Programa de Recuperación de Barrios y, Condominios Sociales de Interés Regional:
 
 .
