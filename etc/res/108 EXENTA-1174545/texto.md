@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 108, de fecha 10 de marzo de 2022, de esta Secretaría Regional, se aprobaron los planes y programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la denominada "Escuela de Conductores Profesionales ICP Chile SpA" nombre de fantasía "ICP Chile SpA", RUT N° 76.819.989-2, de propiedad de la sociedad del mismo nombre. La Escuela de Conductores tendrá como Director a don Erwin Rodrigo Millapan Campusano, y su sede estará ubicada en calle Los Carreras N° 657, Oficina 406, en la comuna de La Serena. Las horas pedagógicas autorizadas a la referida Escuela son 10 teóricas, 12 prácticas, con un total de 22 horas pedagógicas.-
+
+Juan Fuentes Isla, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Coquimbo.
