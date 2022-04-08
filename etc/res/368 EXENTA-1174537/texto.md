@@ -1,0 +1,11 @@
+DEJA SIN EFECTO RESOLUCIÓN Nº 283 EXENTA DE FECHA 10 DE MARZO DE 2022 DE ESTA SECRETARÍA MINISTERIAL POR MOTIVOS QUE INDICA Y MODIFICA LAS RESOLUCIONES Nº 336 Y 337 EXENTAS, AMBAS DE FECHA 1 DE ABRIL DE 2021, LLAMADO A POSTULACIÓN 2021 EN CONDICIONES ESPECIALES PARA EL DESARROLLO DE PROYECTOS DEL PROGRAMA DE MEJORAMIENTO DE VIVIENDAS Y BARRIOS CAPÍTULO TERCERO, PROYECTOS PARA CONDOMINIOS DE VIVIENDAS SOCIALES Y ECONÓMICAS, PARA LA REGIÓN METROPOLITANA
+
+Mediante la resolución exenta Nº 368, de fecha 31 de marzo de 2022, esta Secretaría Ministerial de Vivienda y Urbanismo, dejó sin efecto su resolución exenta Nº 283, de fecha 10 de marzo de 2022, por existir en ella errores de numeración y tipográficos que dificultaban su comprensión. Junto con ello, procedió a modificar sus resoluciones exentas Nºs. 336 y 337, ambas de fecha 1 de abril de 2021, que disponen llamados a postulación en condiciones especiales para el desarrollo de proyectos del Programa de Mejoramiento de Viviendas y Barrios, regulado por el DS Nº 27 (V. y U.), de 2016, Cap. III, líneas de atención a Condominios de Viviendas Sociales y Económicas, respectivamente, conforme lo dispuesto por la Comisión Evaluadora de Asignación de Llamado, la cual en sesión de fecha 10 de febrero de 2022 estableció la necesidad de traspasar recursos de una línea de atención a la otra, al existir excedentes de recursos. Dichas modificaciones dicen relación con lo siguiente:
+
+A) Se disminuyen, los recursos disponibles para efectuar la selección de proyectos, establecidos en el resuelvo 13., de la citada resolución exenta Nº 337, de 2021, de esta Secretaría Ministerial, según el siguiente cuadro:
+
+B) Se aumentan, los recursos disponibles para efectuar la selección de proyectos, establecidos en el resuelvo 12, de la citada resolución exenta Nº 336, de 2021, de esta Secretaría Ministerial, según el siguiente cuadro:
+
+El texto íntegro de la resolución exenta extractada, que contiene el detalle de lo expuesto precedentemente, se encuentra disponible en el portal de transparencia activa de esta institución https://www.portaltransparencia.cl/PortalPdT/directorio-de-organismos-regulados/?org=AP025.
+
+Anótese, comuníquese, publíquese.- Francisca Bustos Contreras, Secretaria Ministerial Metropolitana de Vivienda y Urbanismo Subrogante.
