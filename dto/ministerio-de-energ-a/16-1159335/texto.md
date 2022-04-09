@@ -98,9 +98,11 @@ Octavo. El gas que transportará el gasoducto cumplirá con las especificaciones
 
 <!-- parte:10225115 -->
 
-Noveno. Las obras se iniciarán una vez transcurrido dos meses de la fecha de reducción a escritura pública del presente decreto. El plazo de la construcción de las obras será el que se indica a continuación en la Tabla 8.
+Noveno. Las obras se iniciarán una vez transcurrido dos meses de la fecha de reducción a escritura pública del presente decreto. El plazo de la construcción de las obras será el que se indica a continuación en la tabla 8.
 
-Tabla 8. Cronograma de avance físico de las obras.
+Tabla 8. Cronograma de avance físico de las obras
+
+.
 
 #### Artículo décimo
 
