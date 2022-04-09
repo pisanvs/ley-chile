@@ -938,9 +938,13 @@ Tanto en la sentencia como en su ejecución el Tribunal podrá, atendidas las ci
 
 Cuando no concurran todos los requisitos que se exigen en el caso del núm. 8.° del art. 10 para eximir de responsabilidad, se observará lo dispuesto en el art. 490.
 
-#### Artículo 72
+ART.72.
 
-En los casos en que aparezcan responsables en un mismo delito individuos mayores de dieciocho años y menores de esa edad, se aplicará a los mayores la pena que les habría correspondido sin esta circunstancia, aumentada en un grado, si éstos se hubieren prevalido de los menores en la perpetración del delito, pudiendo esta circunstancia ser apreciada en conciencia por el juez.
+Cuando el delito sea cometido con la intervención de una o más personas menores de dieciocho años de edad y mayores de catorce, se excluirá el mínimum o el grado mínimo de la pena señalada, según corresponda, respecto de los imputados mayores de edad que hubieren participado en él.
+
+Asimismo, se aumentará en un grado la pena al mayor de dieciocho años de edad cuando el crimen o simple delito sea cometido o perpetrado con la intervención de una o más personas menores de catorce años de edad.
+
+El consentimiento dado por el menor de dieciocho años no eximirá al mayor de esta edad de la aplicación de las reglas previstas en los incisos precedentes.
 
 #### Artículo 73
 
@@ -3702,13 +3706,15 @@ Si se pusiere en peligro la vida del afectado o si éste fuere menor de edad, la
 
 Las mismas penas de los incisos anteriores, junto con la de inhabilitación absoluta temporal para cargos u oficios públicos en su grado máximo, se impondrá si el hecho fuere ejecutado, aun sin ánimo de lucro, por un funcionario público en el desempeño de su cargo o abusando de él. Para estos efectos se estará a lo dispuesto en el artículo 260.
 
+Por entrada ilegal se entenderá el paso de fronteras sin haber cumplido los requisitos necesarios para entrar legalmente a Chile.
+
 #### Artículo 411 ter
 
 El que promoviere o facilitare la entrada o salida del país de personas para que ejerzan la prostitución en el territorio nacional o en el extranjero, será castigado con la pena de reclusión menor en su grado máximo y multa de veinte unidades tributarias mensuales.
 
 #### Artículo 411 quáter
 
-El que mediante violencia, intimidación, coacción, engaño, abuso de poder, aprovechamiento de una situación de vulnerabilidad o de dependencia de la víctima, o la concesión o recepción de pagos u otros beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra capte, traslade, acoja o reciba personas para que sean objeto de alguna forma de explotación sexual, incluyendo la pornografía, trabajos o servicios forzados, servidumbre o esclavitud o prácticas análogas a ésta, o extracción de órganos, será castigado con la pena de reclusión mayor en sus grados mínimo a medio y multa de cincuenta a cien unidades tributarias mensuales.
+El que mediante violencia, intimidación, coacción, engaño, abuso de poder, aprovechamiento de una situación de vulnerabilidad o de dependencia de la víctima, o la concesión o recepción de pagos u otros beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra capte, traslade, acoja o reciba personas para que sean objeto de alguna forma de explotación sexual, incluyendo la pornografía, trabajos o servicios forzados, servidumbre o esclavitud o prácticas análogas a ésta, o extracción de órganos, será castigado con la pena de reclusión mayor en cualquiera de sus grados y multa de cincuenta a cien unidades tributarias mensuales.
 
 Si la víctima fuere menor de edad, aun cuando no concurriere violencia, intimidación, coacción, engaño, abuso de poder, aprovechamiento de una situación de vulnerabilidad o de dependencia de la víctima, o la concesión o recepción de pagos u otros beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra, se impondrán las penas de reclusión mayor en su grado medio y multa de cincuenta a cien unidades tributarias mensuales.
 
