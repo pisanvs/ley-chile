@@ -62,9 +62,11 @@ El trazado terrestre del gasoducto corresponde a una zona de Clase 3, de acuerdo
 
 Octavo. El gas que transportará el gasoducto cumplirá con las especificaciones de la Norma Chilena NCh2264:2014 "Gas natural - Especificaciones", o la disposición que la reemplace.
 
-Noveno. Las obras se iniciarán una vez transcurrido dos meses de la fecha de reducción a escritura pública del presente decreto. El plazo de la construcción de las obras será el que se indica a continuación en la Tabla 8.
+Noveno. Las obras se iniciarán una vez transcurrido dos meses de la fecha de reducción a escritura pública del presente decreto. El plazo de la construcción de las obras será el que se indica a continuación en la tabla 8.
 
-Tabla 8. Cronograma de avance físico de las obras.
+Tabla 8. Cronograma de avance físico de las obras
+
+.
 
 Décimo. Para el gasoducto se ha considerado una inversión aproximada de 5,5 millones de dólares de los Estados Unidos de América y una vida útil del proyecto de 30 años.
 
