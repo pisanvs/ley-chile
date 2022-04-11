@@ -1,0 +1,15 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA DECLARACIÓN DE IMPACTO AMBIENTAL DEL PROYECTO: "AMPLIACIÓN TRANQUE ESTACIONAL CEREZOS DEL VALLE"
+
+De conformidad con lo dispuesto en el artículo 94 del DS N° 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se notifica que mediante la resolución exenta N° 20220600160, de fecha 29 de marzo de 2022, de la Dirección Regional del Servicio de Evaluación Ambiental de la Región del Libertador General Bernardo O'Higgins, se ha resuelto dar inicio a un proceso de participación ciudadana, por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19.300, en el marco del procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto "Ampliación Tranque Estacional Cerezos del Valle" (en adelante, "Proyecto"), presentada por don Jorge Pedro Nitsche Meli, en representación de Cerezos del Valle SpA (en adelante, "Proponente"), formalizada al Sistema de Evaluación de Impacto Ambiental (en adelante, "SEIA") con fecha 22 de noviembre de 2021.
+
+El Proyecto se ubicará en la comuna de Lolol, perteneciente a la provincia de Colchagua, Región del Libertador General Bernardo O'Higgins.
+
+Conforme a la descripción del Proyecto la tipología en virtud de la cual ingresa al SEIA corresponde a aquellas contempladas en el artículo 3° del DS N° 40/2012 del Ministerio del Medio Ambiente, Reglamento del SEIA, en específico el literal a.1: "Presas cuyo muro tenga una altura superior a cinco metros (5 m) medidos desde el coronamiento hasta el nivel del terreno natural, en el plano vertical que pasa por el eje de éste y que soportará el embalse de las aguas, o que generen un embalse con una capacidad superior a cincuenta mil metros cúbicos (50.000 m³)" debido a que el Proyecto tendrá un muro de 10 m y un volumen de 214.768 m³.
+
+Cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del DS N° 40/2012, el cual, señala que "(...) las personas que intervengan tendrán los derechos y obligaciones establecidos en los artículos 90 y 91" (Derecho a formular observaciones) y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental de 20 días hábiles (señalado en el artículo 94 inciso tercero), contados a partir del día siguiente de la presente publicación del presente extracto.
+
+El texto íntegro de la resolución resuelve dar inicio a un proceso de participación ciudadana, puede ser conocido en la Dirección Regional del Servicio de Evaluación Ambiental, ubicada en calle Campos N° 241, piso 7, Rancagua, o en el siguiente link:
+
+https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=95/de/ff72bd7ce5cb941 edba0f70a63280e56b77a.
+
+Pedro Pablo Miranda Acevedo, Director Regional del Servicio de Evaluación Ambiental, Región del Libertador General Bernardo O'Higgins.
