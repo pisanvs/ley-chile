@@ -236,6 +236,12 @@ d. Todos los pasajeros deberán cumplir con lo dispuesto en los acápites I, IV 
 
 38 ter. Del paso fronterizo Cardenal Samoré y Futaleufú. Las personas que ingresen al territorio nacional conforme a lo dispuesto en el numeral 5 del artículo primero, del decreto supremo Nº 295, de 2021, del Ministerio del Interior y Seguridad Pública, se les excluirá de los requisitos de la presente resolución. De igual forma, desde el 16 de febrero y hasta el 28 de febrero de 2022, se excluirá a los chilenos y extranjeros residentes que hayan salido del país por el paso fronterizo terrestre de Futaleufú e ingresado por el paso fronterizo Cardenal Samoré, ambos ubicados en la Región de Los Lagos, en las últimas 18 horas.
 
+38 quáter. Exclúyase de la aplicación de lo dispuesto en los párrafos II, III y IV de esta resolución a las personas que ingresen al territorio nacional por los pasos fronterizos terrestres habilitados según el decreto supremo N° 295, de 2021, del Ministerio del Interior y Seguridad Pública, y que hayan salido del país dentro de las últimas 24 horas.
+
+Para efectos de lo anterior, las personas interesadas deberán solicitar a la autoridad competente el permiso de 24 horas al momento de egresar y exhibirlo a la misma autoridad al momento de ingresar.
+
+El plazo de 24 horas será contado desde la hora de salida consignada en el permiso referido en el párrafo anterior.
+
 ### VII. INCUMPLIMIENTO Y SANCIONES
 
 39. Trasládase a lugares especialmente habilitados para el cumplimiento de medidas de aislamiento a:
