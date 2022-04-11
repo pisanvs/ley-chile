@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN N° 6, DE 07.03.2018, QUE DEJÓ SIN EFECTO LAS RESOLUCIONES QUE INDICA Y DELEGÓ FACULTADES EN MATERIAS DE CONTRATACIÓN PÚBLICA, CONVENIOS DE COLABORACIÓN, CONTRATOS DE COMODATO, ADMINISTRACIÓN DE INMUEBLES, GASTOS DE REPRESENTACIÓN Y GASTOS DEL SERVICIO DE BIENESTAR DEL IPS, EN LAS JEFATURAS DE LA SUBDIRECCIÓN DE SISTEMAS DE INFORMACIÓN Y DE ADMINISTRACIÓN Y DEL DEPARTAMENTO DE ADMINISTRACIÓN E INMOBILIARIA DEL INSTITUTO DE PREVISIÓN SOCIAL, EN LOS TÉRMINOS QUE SEÑALA
+
+Por resolución exenta N° 93, de 3 de marzo de 2022, el Director Nacional del Instituto de Previsión Social, modifica resolución N° 6, de 07.03.2018, que dejó sin efecto las Resoluciones que indica y delegó facultades en materias de Contratación Pública, Convenios de Colaboración, Contratos de Comodato, Administración de Inmuebles, Gastos de Representación y Gastos del Servicio de Bienestar del IPS, en las jefaturas de la Subdirección de Sistemas de Información y de Administración y del Departamento de Administración e Inmobiliaria del Instituto de Previsión Social, en los términos que señala.-
+
+Patricio Coronado Rojo, Director Nacional del Instituto de Previsión Social.
