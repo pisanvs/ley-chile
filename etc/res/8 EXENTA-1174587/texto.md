@@ -1,0 +1,5 @@
+APRUEBA EL DOCUMENTO "ANEXO MODIFICACIÓN DE CONTRATO DE ARRENDAMIENTO", SUSCRITO CON FECHA 28.02.2022, ENTRE ESTE INSTITUTO DE PREVISIÓN SOCIAL Y LA EMPRESA OBRAS MENORES EN CONSTRUCCIÓN ROLANDO ALFREDO CASTILLO LARA E.I.R.L., RESPECTO DEL INMUEBLE INSTITUCIONAL UBICADO EN CALLE ALMIRANTE JUAN JOSÉ LATORRE N° 2748 AL N° 2796, DE LA COMUNA Y REGIÓN DE ANTOFAGASTA
+
+Por resolución exenta DAI I N° 8, de 14 de marzo de 2022, el ex Jefe del Departamento de Administración e Inmobiliaria, aprueba el documento "Anexo Modificación de Contrato de Arrendamiento", suscrito con fecha 28.02.2022, entre el Instituto de Previsión Social y la Empresa Obras Menores en Construcción Rolando Alfredo Castillo Lara E.I.R.L., respecto del inmueble institucional ubicado en calle Almirante Juan José Latorre N° 2748 Al N° 2796, de la comuna y Región de Antofagasta.-
+
+Nicolás Fernández Abdala, Jefe (S) Departamento de Administración e Inmobiliaria.
