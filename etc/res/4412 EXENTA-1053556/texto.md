@@ -18,7 +18,7 @@ Resuelvo:
 
 1. Establézcanse los siguientes requisitos fitosanitarios para naves de transporte marítimo, tales como naves de carga, pesqueras, de turismo, científicas y de pasajeros, que hayan zarpado o permanecido en áreas con presencia de Lymantria dispar Asiática (Vnukovskij) y Lymantria dispar Japónica (Motschulsky) (Lepidoptera, Lymantriidae) - Polilla Gitana Raza Asiática (PGRA), durante los últimos 24 meses, contados desde el momento de arribo de la nave a puerto chileno.
 
-2. Los requisitos se aplicarán para las naves que proceden de puertos ubicados en el noreste y extremo oriental de Asia, entre los 60° y 20° de latitud norte y que hayan permanecido en los siguientes períodos de vuelo de la hembra de PGRA:
+2. Los requisitos se aplicarán para las naves que proceden de puertos ubicados en el noreste y extremo oriental de Asia, y que hayan permanecido en los siguientes períodos de vuelo de la hembra de PGRA:
 
 Las áreas señaladas previamente podrán ser modificadas por el Servicio, en base a nuevos antecedentes sobre la distribución y período de vuelo de las hembras.
 
@@ -49,7 +49,5 @@ La copia de este documento debe ser proporcionada por el representante de la nav
 10. Las infracciones a las normas de la presente resolución serán sancionadas de acuerdo al decreto ley N° 3.557, de 1980, sobre Protección Agrícola y la Ley N° 18.755 Orgánica del Servicio.
 
 11. La presente resolución comenzará a regir 6 meses después de su publicación en el Diario Oficial y no aplicará para las naves que hayan permanecido en áreas con presencia de PGRA con fecha anterior a dicha publicación.
-
-> **Nota.** El 1.1 del numeral 1° de la Resolución 8870 Exenta, agricultura, publicado el 09.12.2015, modifica la presente norma en el sentido de sustituir la frase "Norte de China" por "China".
 
 Anótese, comuníquese y publíquese.- Aníbal Ariztía Reyes, Director Nacional.
