@@ -64,7 +64,21 @@ Tabla N° 2: Información recopilada por la Ficha Básica de Emergencia Hídrica
 
 ### IV. Vigencia y actualización de la información
 
-La información recopilada a través de la Ficha Básica de Emergencia Hídrica (FIBEH) tendrá una vigencia de 12 meses a partir de la fecha de encuestaje. Sin embargo, ésta podrá ser actualizada por el ciudadano vía plataforma web a través del uso de Clave Única; vía actualización de bases administrativas como el Registro Social de Hogares (RSH) o, también vía presencial en la Municipalidad en donde se encuentra ubicado el hogar.
+La información recopilada a través de la Ficha Básica de Emergencia Hídrica (FIBEH) tendrá una vigencia de 12 meses a partir de la fecha de encuestaje. Sin perjuicio de lo anterior, la actualización de la información contenida en la ficha realizada con anterioridad a la fecha de vencimiento del plazo ya referido, permitirá extender su vigencia pro doce meses, contado desde la fecha de la respectiva actualización.
+
+La información contenida en la Ficha Básica de Emergencia Hídrica, podrá ser actualizada o validada de la siguiente manera:
+
+a) Por el ciudadano, concurriendo presencialmente a las dependencias de la Municipalidad de la comuna en la que se encuentra ubicado el hogar respectivo;
+
+b) Automáticamente, al generarse una actualización de las bases administrativas de las que se provee el Registro Social de Hogares incorporadas en el sistema SISE;
+
+c) Por el equipo de emergencias de la Municipalidad, la Secretaría Regional Ministerial de Desarrollo Social y Familia, respectivas, o por el Nivel Central del Ministerio de Desarrollo Social y Familia, de la siguiente forma:
+
+1.- A través de una visita en terreno al domicilio del hogar encuestado;
+
+2.- En forma remota, vía llamado telefónico, en cuyo caso, el/la funcionario/a a cargo del proceso deberá verificar la identidad del/la encuestado/a, a quien se le aplicarán al menos dos preguntas de seguridad extraídas de la información consignada en el Sistema SISE, a fin de comprobar que se trata de una persona mayor de edad perteneciente al hogar respectivo. Una vez verificada la identidad de la persona encuestada, se procederá a la validación de los datos contenidos en la FIBEH asociada al hogar en el Sistema, y se registrará la información requerida en el "Acta de Registro Validación FIBEH", según formato contenido en Anexo N° 3.
+
+Si durante la llamada de validación, el/la funcionario/a a cargo del proceso detectara la existencia de algún dato desactualizado o inconsistente, deberá coordinar con el entrevistado una visita en terreno al domicilio del hogar encuestado para efectos de realizar un re-encuestaje.
 
 V. ¿Dónde se aplica la Ficha Básica de Emergencia Hídrica (FIBEH)?
 
@@ -301,6 +315,8 @@ b) En el caso de haber recibido un dispositivo móvil para la aplicación del in
 Anexo N° 1: Acta de Distribución de Folios
 
 Anexo N° 2: Acta de Distribución de Dispositivos Móviles
+
+Anexo N° 3
 
 Tercero: Remítase copia digital del presente acto administrativo al Gabinete de la Ministra de Desarrollo Social y Familia, a las Secretarías Regionales Ministeriales de Desarrollo Social y Familia; a la División de Focalización, a la Fiscalía y a la Oficina de Partes; al Ministerio del Interior y Seguridad Pública, a la Oficina Nacional de Emergencia, ONEMI, a las Municipalidades, Gobernaciones e Intendencias.
 
