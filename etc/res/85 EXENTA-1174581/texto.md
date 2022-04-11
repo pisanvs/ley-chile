@@ -1,0 +1,5 @@
+SE DELEGA EN LA JEFATURA DEL DEPARTAMENTO DE COBRANZA INSTITUCIONAL, DEPENDIENTE DE LA SUBDIRECCIÓN DE SISTEMAS DE INFORMACIÓN Y ADMINISTRACIÓN DEL INSTITUTO DE PREVISIÓN SOCIAL Y EN LOS FUNCIONARIOS QUE SE INDIVIDUALIZAN, LAS FACULTADES QUE SE SEÑALAN Y DEJA SIN EFECTO LA RESOLUCIÓN EXENTA N° 10, DE 12.01.21 Y SU MODIFICACIÓN APROBADA POR RESOLUCIÓN EXENTA N° 218, DE 01.06.2021, AMBAS DE ESTA DIRECCIÓN NACIONAL
+
+Por resolución exenta N° 85, de 28 de febrero de 2022, el Director Nacional del Instituto de Previsión Social, delega en la Jefatura del Departamento de Cobranza Institucional y en los funcionarios que se individualizan, las facultades que se señalan y deja sin efecto la resolución exenta N° 10, de 12.01.21 y su modificación aprobada por resolución exenta N° 218, de 01.06.2021.-
+
+Patricio Coronado Rojo, Director Nacional del Instituto de Previsión Social.
