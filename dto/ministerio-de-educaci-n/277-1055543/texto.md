@@ -46,7 +46,7 @@ Del Departamento de Derechos Intelectuales
 
 #### Artículo 5º
 
-El Departamento de Derechos Intelectuales que establece el artículo 90º de la ley Nº 17.336, tendrá a su cargo el Registro de la Propiedad Intelectual, la atención de las consultas e informes que formulen o soliciten los particulares y los servicios públicos y el asesoramiento del Gobierno en todo lo relativo a derechos de autor, derechos conexos y materias afines.
+El Departamento de Derechos Intelectuales que establece el artículo 90° de la ley N° 17.336, tendrá a su cargo el Registro de la Propiedad Intelectual, la atención al público y la respuesta de las consultas que le formulen los usuarios en todo lo relativo al registro y otras materias de su competencia.
 
 #### Artículo 6º
 
