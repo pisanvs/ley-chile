@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 136 EXENTA, DE 13 DE JULIO DE 2021
+
+Por resolución exenta Nº 136, de 13 de julio de 2021, de esta Secretaría Regional, se otorgó reconocimiento oficial a la Escuela de Conductores Profesionales denominada "Servicios de Capacitación Nogal Chile SpA", de propiedad de la sociedad del mismo nombre, RUT 76.440.444-0, representada legalmente por Francisco Navarro Ruiz, cédula de identidad Nº 7.165.191-6 para impartir cursos conducentes a la obtención de licencias de conductor profesional clase A2, A3, A4 y A5. La Escuela de Conductores estará ubicada en Calle Vega de Saldías Nº 1001, y su taller mecánico en Avenida Collín Nº12, ambos de la comuna de Chillán.- }
+
+Javier Eduardo Parra González, Secretario Regional Ministerial de Transportes y Telecomunicaciones (S) Región de Ñuble.
