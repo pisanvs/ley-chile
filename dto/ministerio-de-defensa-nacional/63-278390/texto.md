@@ -40,15 +40,7 @@ AVIACIÓN CORPORATIVA: La explotación o utilización no comercial de aeronaves 
 
 CARGA: Todos los bienes que se transporten en una aeronave, excepto el correo, los suministros y el equipaje acompañado o extraviado.
 
-Carga o correo de alto riesgo: La carga o el correo presentado por una entidad desconocida (agente no acreditado) o que exhibe indicios de manipulación indebida, se considerará de alto riesgo si, además, se cumple uno de los criterios siguientes:
-
-- **a)** hay información específica de inteligencia (de un riesgo) que indica que la carga o el correo representa una amenaza para la aviación civil; o
-
-- **b)** la carga o el correo presenta anomalías que suscitan sospecha; o
-
-- **c)** la naturaleza de la carga o del correo es tal que es improbable que con las medidas de seguridad de base se detecten artículos prohibidos que puedan poner en peligro la aeronave.
-
-Independientemente de que la carga o el correo provengan de una entidad conocida o desconocida, el envío puede considerarse como de alto riesgo atendiendo a información específica de inteligencia (de riesgo) de un Estado, al respecto.
+CARGA O CORREO DE ALTO RIESGO: Carga o correo que, según información de inteligencia específica, se considera que constituye una amenaza para la aviación civil o presenta anomalías o indicios de manipulación indebida que suscitan sospecha.
 
 Carga y correo de transbordo: La carga y el correo que salen en una aeronave distinta de aquella en la que llegaron.
 
@@ -86,7 +78,7 @@ SEGURIDAD: Protección de la aviación civil contra los actos de interferencia i
 
 TRABAJOS AÉREOS: Operaciones de aeronave en la que ésta se aplica a servicios especializados tales como agricultura, construcción, fotografía, levantamiento de planos, observaciones y patrulla, búsqueda y salvamento, anuncios aéreos, etc.
 
-VERIFICACIÓN DE ANTECEDENTES: Verificación de la identidad y la experiencia de una persona, incluyendo cualquier antecedente penal, cuando esté legalmente permitido, como parte de la evaluación de la idoneidad de un individuo para aplicar un control de seguridad y/o para tener acceso sin escolta a una zona de seguridad restringida.
+VERIFICACIÓN DE ANTECEDENTES: Verificación de la identidad y la experiencia de una persona, incluyendo antecedentes penales, y cualquier otra información relacionada con la seguridad que sea pertinente para evaluar la idoneidad de la persona, de conformidad con la legislación nacional.
 
 VERIFICACIÓN DE SEGURIDAD DE AERONAVE: Inspección del interior de una aeronave a la que los pasajeros puedan haber tenido acceso, así como de la bodega con el fin de descubrir objetos sospechosos, armas, explosivos u otros artefactos, objetos o sustancias peligrosas.
 
@@ -101,6 +93,8 @@ CAPÍTULO 2: PRINCIPIOS GENERALES
 2.1.2 La Dirección General de Aeronáutica Civil (DGAC) es la autoridad aeronáutica encargada de elaborar y aplicar normas, métodos, procedimientos e instrucciones para salvaguardar la aviación civil contra los actos de interferencia ilícita, controlando su cumplimiento y teniendo presente la seguridad, la regularidad y la eficiencia de los vuelos, tanto nacionales como internacionales.
 
 2.1.3 La DGAC establecerá las normas, disposiciones, métodos y procedimientos técnicos necesarios con el propósito de: a) proteger la seguridad de los pasajeros, la tripulación, el personal de tierra y el público en general en todos los asuntos relacionados con la salvaguardia de la aviación civil frente a actos de interferencia ilícita; y b) permitir dar una respuesta rápida a cualquier amenaza creciente a la seguridad.
+
+2.1.4 La DGAC dentro de sus facultades establecerá, controlará y aplicará las respectivas disposiciones para que se otorgue una adecuada protección a la información delicada de seguridad de la aviación.
 
 2.2 Aplicación
 
@@ -130,9 +124,9 @@ CAPÍTULO 3: ORGANIZACION
 
 3.1.1 La Dirección General de Aeronáutica Civil (DGAC) establecerá y aplicará un programa Nacional de Seguridad de la Aviación Civil, para salvaguardar las operaciones de la aviación civil contra actos de interferencia ilícita, mediante normas y procedimientos, que tomen en cuenta la seguridad, regularidad y eficiencia de los vuelos.
 
-3.1.2 La Sección Seguridad de Aviación de la DGAC es la responsable de la preparación, ejecución y cumplimiento del Programa Nacional de Seguridad de la Aviación Civil.
+3.1.2 La DGAC será responsable de la preparación, ejecución y mantenimiento del Programa Nacional de Seguridad de la Aviación Civil.
 
-3.1.3 La DGAC evaluará constantemente, en conjunto con las autoridades nacionales pertinente, el grado y la naturaleza de amenaza para la aviación civil en todo el territorio nacional, estableciendo y aplicando políticas y procedimientos para ajustar en consecuencia, los aspectos pertinentes del Programa Nacional de Seguridad de la Aviación Civil basándose en una evaluación de riesgos de seguridad de la aviación.
+3.1.3 La DGAC evaluará constantemente, en conjunto con las autoridades nacionales pertinente, el grado y la naturaleza de amenaza para la aviación civil en todo el territorio nacional y espacio aéreo sobre el mismo, estableciendo y aplicando políticas y procedimientos para ajustar en consecuencia, los aspectos pertinentes del Programa Nacional de Seguridad de la Aviación Civil basándose en una evaluación de riesgos de seguridad de la aviación.
 
 3.1.4 La DGAC definirá y asignará tareas a sus dependencias, explotadores de aeropuertos y aeronaves, entidades involucradas y responsables de la implementación de los diversos aspectos del Programa Nacional de Seguridad de la Aviación Civil y coordinará dichas actividades con otras autoridades del Estado.
 
@@ -144,7 +138,11 @@ CAPÍTULO 3: ORGANIZACION
 
 3.1.8 La DGAC pondrá a disposición de los explotadores de aeropuertos y aeronaves que operan en su territorio y otras entidades interesadas, una versión por escrito de las partes pertinentes del Programa Nacional de Seguridad de la Aviación Civil y/o de la información o directrices pertinentes que les permitan satisfacer los requisitos de dicho programa.
 
-3.1.9 La DGAC elaborará e implantará un sistema de certificación de instructores y programas de instrucción en concordancia con el Programa Nacional de Seguridad de la Aviación Civil.
+3.1.8 bis La DGAC establecerá y pondrá en práctica procedimientos para compartir con explotadores de aeropuertos, explotadores de aeronaves, proveedores de servicios de tránsito aéreo u otras entidades interesadas, dentro de su competencia y según corresponda, de forma eficiente y oportuna, la información pertinente que les ayude a efectuar evaluaciones eficaces del riesgo de seguridad de la aviación en sus operaciones.
+
+3.1.9 La DGAC elaborará y aplicará un Programa Nacional de Instrucción y un Sistema de Certificación, que asegure que los instructores estén calificados en las diferentes disciplinas, en concordancia con el Programa Nacional de Seguridad de la Aviación Civil.
+
+3.1.10 La DGAC establecerá medidas para que el personal de todas las entidades que intervengan o sean responsables de la ejecución de los distintos aspectos del Programa Nacional de Seguridad de la Aviación Civil, así como todos aquellos que estén autorizados para tener acceso sin escolta a la parte aeronáutica, reciban instrucción inicial y recurrente de concientización en seguridad de la aviación.
 
 3.2 Operaciones Aeroportuarias
 
@@ -162,9 +160,17 @@ Los explotadores del transporte aéreo comercial deberán aplicar y mantener act
 
 3.4 Control de Calidad
 
-3.4.1 El personal que aplique los controles de seguridad en la aviación civil será objeto de verificación de antecedentes, conforme al ordenamiento legal vigente y según los procedimientos de selección.
+3.4.1 La DGAC establecerá medidas para que:
+
+- **a)** se lleven a cabo verificaciones de antecedentes en el caso de personas que apliquen controles de seguridad, de personas con acceso sin escolta a zonas de seguridad restringidas y personas con acceso a información delicada de seguridad de la aviación, antes de que asuman sus funciones o tengan acceso a dichas zonas o información;
+
+- **b)** se apliquen a las mencionadas personas, verificaciones de antecedentes periódicas a intervalos establecidos en el Programa Nacional de Seguridad de la Aviación Civil; y,
+
+- **c)** se les niegue inmediatamente la capacidad de aplicar controles de seguridad, el acceso sin escolta a zonas de seguridad restringidas y el acceso a información delicada de seguridad de la aviación a las personas que se consideren no aptas a raíz de toda verificación de antecedentes
 
 3.4.2 El personal que aplique los controles de seguridad deberá tener todas las competencias requeridas para desempeñar sus funciones y deberá recibir instrucción apropiada de conformidad con los requisitos del Programa Nacional de Seguridad de la Aviación Civil y el Programa Nacional de Instrucción y que se mantengan actualizados los registros apropiados. La DGAC establecerá normas de actuación pertinentes y se introducirán evaluaciones iniciales y periódicas para mantener dichas normas.
+
+El personal que aplique los controles de seguridad deberá ser correctamente seleccionado y contará con todas las competencias requeridas para cumplir con sus funciones, además de recibir la instrucción apropiada en conformidad con los requisitos contemplados en el Programa Nacional de Seguridad de la Aviación Civil y el Programa Nacional de Instrucción de Seguridad de la Aviación Civil, debiendo mantener actualizado sus registros. La DGAC establecerá normas de actuación pertinentes implementando evaluaciones iniciales y periódicas para mantener dichas normas.
 
 3.4.3 El personal que lleve a cabo las operaciones de inspección, deberá haber sido objeto de certificación, de conformidad con los requisitos del Programa Nacional de Seguridad de la Aviación Civil a fin de garantizar el cumplimiento uniforme y fiable de las normas de actuación.
 
@@ -180,6 +186,12 @@ La autoridad aeronáutica designará a los inspectores para efectuar auditorías
 
 3.4.8 Ocurrido un acto de interferencia ilícita, la DGAC revaluará los controles y procedimientos de seguridad y adoptará las medidas necesarias para subsanar los puntos débiles, a fin de evitar la repetición de los hechos, e informará a la OACI acerca de tales medidas.
 
+3.4.9 La DGAC deberá velar porque cada una de las entidades responsables de la ejecución de los elementos pertinentes del Programa Nacional de Seguridad de la Aviación Civil verifique periódicamente que la aplicación de las medidas de seguridad de la aviación que han sido encomendadas a proveedores externos de servicios cumpla con el programa de seguridad de la aviación de la entidad.
+
+3.5 Proveedores de servicios de tránsito aéreo.
+
+La DGAC establecerá y aplicará disposiciones de seguridad apropiadas al servicio de tránsito aéreo que opera en el territorio nacional, para satisfacer los requisitos del Programa Nacional de Seguridad de la Aviación Civil.
+
 CAPÍTULO 4: MEDIDAS PREVENTIVAS DE SEGURIDAD
 
 4.1 Objetivo
@@ -194,17 +206,19 @@ La Dirección General de Aeronáutica Civil adoptará medidas para evitar que se
 
 4.2.2 La DGAC establecerá en cada aeródromo que preste servicio a la aviación civil, zonas de seguridad restringidas, basándose en la evaluación de riesgos de seguridad que realicen las autoridades nacionales competentes.
 
-4.2.3 La DGAC establecerá sistemas de identificación de personas y vehículos para impedir el acceso no autorizado a las zonas de la parte aeronáutica y las zonas de seguridad restringidas. Verificará la identidad en los puntos de inspección designados, antes de permitir el acceso a las zonas de la parte aeronáutica y a las zonas de seguridad restringidas.
+4.2.3 La DGAC establecerá y aplicará sistemas de identificación de personas y vehículos para impedir el acceso no autorizado a las zonas de la parte aeronáutica y las zonas de seguridad restringidas. Se otorgará acceso únicamente a las personas que deban ingresar a dichas zonas por necesidad operacional u otro motivo legítimo. Se verificará, en los puestos de inspección designados, la identidad de las personas y autorización antes de permitir el acceso a las zonas de la parte aeronáutica y a las zonas de seguridad restringidas.
 
-4.2.4 La DGAC verifica los antecedentes de las personas que soliciten autorización para acceder sin escolta a las zonas de seguridad restringidas, antes de autorizar el acceso a estas zonas, debiendo realizar dicha verificación en forma periódica.
+4.2.4 Suprimido.
 
-4.2.5 En las zonas de seguridad restringidas, la autoridad aeronáutica supervisará la circulación de personas hacia y desde las aeronaves para impedir el acceso no autorizado a las mismas.
+4.2.5 En las zonas de seguridad restringidas, la autoridad aeronáutica supervisará la circulación de personas y vehículos hacia y desde las aeronaves para impedir el acceso no autorizado a las mismas.
 
 Inciso Eliminado.
 
-4.2.6 La DGAC establecerá que se inspeccione y se apliquen controles de seguridad a las personas que no sean pasajeros, así como a los artículos que transporten, antes de ingresar a las zonas de seguridad restringidas de los aeródromos.
+4.2.6 La DGAC establecerá medidas para que se inspeccione a las personas que no sean pasajeros, así como a los artículos que transporten, antes de ingresar a las zonas de seguridad restringidas.
 
 4.2.7 La DGAC establecerá que se inspeccione o se apliquen otros controles de seguridad apropiados a los vehículos a los que se conceda acceso a las zonas de seguridad restringidas, junto con los artículos contenidos en los mismos. Lo anterior, de conformidad con la evaluación de riesgos llevada a cabo por las autoridades competentes.
+
+4.2.8 La DGAC establecerá medidas para que se utilicen métodos de inspección apropiados que permitan detectar la presencia de explosivos y artefactos explosivos que personas que no sean pasajeros lleven consigo o en los artículos que transporten. Cuando dichos métodos no se apliquen de forma continua, se utilizarán de manera imprevista con el propósito de evitar actos de interferencia ilícita.
 
 4.3 Medidas relativas a las Aeronaves
 
@@ -228,7 +242,9 @@ Equipaje de Mano
 
 4.4.1 La Dirección General de Aeronáutica Civil establecerá las medidas necesarias para que se inspeccione a los pasajeros y su equipaje de mano antes que se embarquen en una aeronave que salga de una zona de seguridad restringida.
 
-4.4.2 La autoridad aeronáutica controlará que en las operaciones de transporte aéreo comercial que efectúen trasbordos, los pasajeros y su equipaje de mano puedan ser inspeccionados antes de que se embarquen en una aeronave.
+4.4.1 bis La DGAC establecerá medidas para que se empleen métodos adecuados de inspección, capaces de detectar la presencia de explosivos y artefactos explosivos que los pasajeros lleven sobre su persona o en el equipaje de mano. Cuando estos métodos no se apliquen de forma continua, se utilizarán de manera imprevista con el propósito de evitar actos de interferencia ilícita.
+
+4.4.2 La autoridad aeronáutica controlará que en las operaciones de transporte aéreo comercial que efectúen trasbordos, los pasajeros y su equipaje de mano puedan ser inspeccionados antes de que se embarquen en una aeronave, a menos que haya establecido un proceso de validación y se utilicen procedimientos permanentes, en colaboración con otro Estado, para garantizar que dichos pasajeros y su equipaje de mano hayan sido inspeccionados en el punto de origen y luego hayan estado protegidos contra interferencias no autorizadas, desde el punto de la inspección en el aeropuerto de origen, hasta su embarque en la aeronave de salida en el aeropuerto de transbordo.
 
 4.4.3 La DGAC establecerá medidas para que los pasajeros y el equipaje de mano que hayan sido objeto de inspección estén protegidos contra interferencias, desde el punto de inspección hasta que se embarquen en su aeronave. Si esos pasajeros y su equipaje de mano se mezclan o entran en contacto con otras personas sin inspección, deberán ser sometidos a una nueva inspección antes de embarcarse en una aeronave, según lo indiquen las circunstancias.
 
@@ -242,7 +258,7 @@ Equipaje de Mano
 
 4.5.3 Los explotadores de transporte aéreo comercial no transportarán equipaje de personas que no estén a bordo de la aeronave, salvo que ese equipaje esté identificado como equipaje no acompañado y sea sometido a una inspección apropiada por parte de la autoridad aeronáutica.
 
-4.5.4 La autoridad aeronáutica exigirá que el equipaje de bodega destinado al trasbordo, se inspeccione antes de cargarse en una aeronave que realice operaciones de transporte aéreo comercial.
+4.5.4 La autoridad aeronáutica exigirá que el equipaje de bodega destinado al trasbordo, se inspeccione antes de cargarse en una aeronave que realice operaciones de transporte aéreo comercial, a menos que haya establecido un proceso de validación y se utilicen procedimientos permanentes, en colaboración con otro Estado, para garantizar que ese equipaje de bodega haya sido inspeccionado en el punto de origen y luego haya estado protegido contra interferencias no autorizadas, desde el punto de inspección en el aeropuerto de origen, hasta su carga en la aeronave de salida en el aeropuerto de transbordo.
 
 4.5.5 Los explotadores de transporte aéreo comercial deberán transportar únicamente artículos del equipaje de bodega identificados individualmente como equipaje acompañado o no acompañado e inspeccionados de conformidad con las normas pertinentes y cuyo posterior transporte haya sido aceptado por el explotador. Se deberá mantener registros de que ese equipaje cumple con estos criterios y está autorizado para ser transportado en ese vuelo.
 
@@ -258,13 +274,13 @@ otros Artículos
 
 4.6.3 Los explotadores aéreos deberán verificar que la carga y el correo que se transporten en una aeronave comercial, estén protegidas de interferencias no autorizadas, desde el punto en que se aplica la inspección u otros controles de seguridad hasta la salida de la aeronave.
 
-4.6.4 Los explotadores no aceptarán transportar carga en una aeronave que realiza operaciones de transporte aéreo comercial, a menos que un agente acreditado o entidad aprobada por la DGAC confirme y demuestre que se aplican controles o inspección de seguridad. Si no es posible confirmar o demostrar la aplicación de dichos controles, la carga y el correo serán objeto de inspección por un agente acreditado o una entidad aprobada por la DGAC.
+4.6.4 Los explotadores no aceptarán transportar carga ni correo en una aeronave que realiza operaciones de transporte aéreo comercial, a menos que un agente acreditado, un expedidor reconocido o una entidad aprobada por la DGAC confirme y demuestre que se aplican controles o inspección de seguridad. Respecto de la carga y el correo acerca de los cuales un agente acreditado, un expedidor reconocido o una entidad aprobada por la DGAC no puedan confirmar o demostrar la aplicación de dichos controles de seguridad, serán objeto de inspección.
 
-4.6.5 La Dirección General de Aeronáutica Civil exigirá que el aprovisionamiento de a bordo y los suministros y piezas de repuesto que deban ser transportados en vuelos comerciales, se sometan a controles de seguridad apropiados y se protejan desde ese momento hasta que se los cargue en la aeronave.
+4.6.5 La Dirección General de Aeronáutica Civil exigirá que el aprovisionamiento de a bordo y los suministros y piezas de repuesto que deban ser transportados en vuelos comerciales, se sometan a controles de seguridad apropiados, los que podrán incluir un proceso o inspección de seguridad en la cadena de suministro, y se protejan desde ese momento hasta que se los cargue en la aeronave.
 
 4.6.6 La DGAC establecerá medidas de seguridad reforzadas a la carga y el correo de alto riesgo, para atenuar las amenazas conexas.
 
-4.6.7 La DGAC exigirá que las mercancías y los suministros que se introduzcan en las zonas de seguridad restringidas sean objeto de controles de seguridad apropiados, que pueden incluir la inspección.
+4.6.7 La DGAC exigirá que las mercancías y los suministros que se introduzcan en las zonas de seguridad restringidas sean objeto de controles de seguridad apropiados, que podrán incluir un proceso o inspección de seguridad en la cadena de suministro.
 
 4.6.8 La carga y el correo que hayan sido objeto de inspección dispondrá de un sello y de una declaración de seguridad, ya sea en formato electrónico o por escrito, a lo largo de la cadena de suministro segura.
 
@@ -300,6 +316,10 @@ Pasajeros
 
 4.8.3 Las medidas de seguridad en la parte pública de los aeropuertos serán coordinadas entre los distintos organismos competentes, de conformidad con los párrafos 3.1.5, 3.2.2 y 3.2.3 del presente Reglamento y se definirán en el Programa Nacional de Seguridad de la Aviación Civil las responsabilidades para la seguridad de la parte pública de los aeropuertos.
 
+4.9 Medidas relativas a las Ciberamenazas.
+
+4.9.1 La DGAC establecerá medidas para que los explotadores y entidades definidos en el Programa Nacional de Seguridad de la Aviación Civil identifiquen sus sistemas de tecnología de la información y las comunicaciones y datos críticos que se empleen para los fines de la aviación civil, y que en función de una evaluación de riesgos elaboren y lleven a la práctica las medidas que correspondan para protegerlos de interferencia ilícita.
+
 CAPÍTULO 5: MÉTODOS PARA HACER FRENTE A LOS ACTOS DE INTERFERENCIA ILÍCITA
 
 5.1 Prevención
@@ -313,6 +333,8 @@ CAPÍTULO 5: MÉTODOS PARA HACER FRENTE A LOS ACTOS DE INTERFERENCIA ILÍCITA
 5.1.4 La Autoridad Aeronáutica dispondrá que en los aeródromos se preparen Planes de Contingencia y se asignen los recursos para salvaguardar a la aviación civil contra actos de interferencia ilícita. De igual forma, los planes de contingencia de la red aeronáutica, se verificarán con regularidad.
 
 5.1.5 La DGAC requerirá a las Fuerzas de Orden y Seguridad Pública y a las Fuerzas Armadas, personal capacitado y calificado, que se desplace rápidamente a los aeródromos que presten servicios a la aviación civil, para colaborar cuando se sospeche que pueda ocurrir u ocurra un acto de interferencia ilícita en la aviación civil.
+
+5.1.6 El Programa Nacional de Seguridad de la Aviación Civil definirá los procesos de notificación, en forma expedita y oportuna a las autoridades que corresponda, señalando toda la información relativa a incidentes de interferencia ilícita y sus actos preparatorios, tomando en cuenta la adecuada protección a la información de seguridad de la aviación.
 
 5.2 Respuesta
 
