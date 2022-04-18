@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 57 de 24 de marzo de 2022, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 7, Rol de avalúo 619-351, comuna de San Ignacio, superficie 914 m2., para la obra MEJORAMIENTO CAMINO BÁSICO INTERMEDIO RUTA N-773, SECTOR LOS TILOS, COMUNAS DE SAN IGNACIO, BULNES, PROVINCIA DE DIGUILLÍN, REGIÓN DE ÑUBLE. La comisión de peritos, integrada por VALERIA DEL CARMEN MARDONEZ LEMA, GONZALO ANDRÉS SUAZO FIGUEROA y MARÍA PAMELA MAC-GUIRE ACEVEDO, fijó el valor de tasación con fecha 17 de octubre de 2019, acordándose la indemnización con su propietaria JOVINA SUSANA RIFFO MIRANDA, en la cantidad de $5.690.314.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
