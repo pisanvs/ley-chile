@@ -1,0 +1,5 @@
+ACOGE RECURSO DE REPOSICIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Por decreto N°571, de fecha 29 de septiembre de 2016, el Ministerio de Defensa otorgó a Winston Edgardo Mettifogo Barraza renovación concesión marítima menor, sobre un sector de Playa, en el lugar denominado Balneario de Tongoy, Bahía de Tongoy, comuna de Coquimbo, provincia de Elqui, Región de Coquimbo, estableciéndose en ella la renta a pagar; se interpuso reposición en contra de esa resolución en cuanto a la renta, porque el factor aplicado al modelo de cálculo no corresponde a la legislación vigente. Por DS N°532, de fecha 21 de diciembre de 2021, se acoge dicho recurso modificándose el decreto N°571, respecto a la renta anual a pagar. Los antecedentes se encuentran a disposición del público en la Capitanía de Puerto de Tongoy. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Luis Jeldres Sepúlveda, Sargento 1° L (Seg. M.), Capitán de Puerto de Tongoy.
