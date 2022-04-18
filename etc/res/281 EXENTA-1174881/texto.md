@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 281 del 08 de marzo de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambali 1099, comuna de Chillán, Rol de Avalúo N° 00687-00006, de aparente dominio de Inostroza Mardones Marisa Angélica. La parte afecta a expropiación parcial de terreno es de 2,62 m2, cuyos linderos particulares, enmarcados en el plano S16R-137 para el proyecto "Mejoramiento Avenida Huambali, comuna de Chillán", conforme artículo 51 ley 16.391 y DL. 2186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, Ingeniero Constructor Lorena Elizabeth Gajardo Alarcón y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $1.950.054.-
+
+Director Serviu Región de Ñuble.
