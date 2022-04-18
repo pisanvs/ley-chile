@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 32 de 24 de marzo de 2022, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 190 y 192, Rol de avalúo 735-41, comuna de Parral, superficies 39.206 y 5.702 m2. respectivamente, para la obra CONSTRUCCIÓN RUTA PRECORDILLERANA SECTOR RUTA L-535- COLVINDO Y 4 PUENTES, COMUNA DE PARRAL, PROVINCIA DE LINARES, REGIÓN DEL MAULE. La comisión de peritos, integrada por PATRICIO ULISES DURÁN MARCOS, PAULA SOLEDAD GONZÁLEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, fijó el valor de tasación con fecha 30 de marzo de 2021, acordándose la indemnización con su propietaria SOCIEDAD AGRÍCOLA DEL CARMEN LIMITADA, en la cantidad de $159.520.061.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
