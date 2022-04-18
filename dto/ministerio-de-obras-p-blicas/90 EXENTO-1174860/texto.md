@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 90 de 30 de marzo de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 74-2 para la obra: CONCESION RUTA 160, TRAMO TRES PINOS - ACCESO NORTE A CORONEL. TRAMO B, SECTOR IV: CURANILAHUE - TRES PINOS. SUBTRAMO: KM. 92.700,00 - KM. 103.100,00, Región del Biobío, que figura a nombre de FORESTAL ARAUCO S.A., rol de avalúo 501-17 de la comuna de Curanilahue, superficie 1.018 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 369 de 5 de noviembre de 2020, integrada por Evaldo Roberto Contreras Roa, Karin Alicia Ernst Elizalde y María Paulina De la Cuadra Becker, mediante informe de tasación de 3 de diciembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $1.940.800 para el lote N° 74-2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
