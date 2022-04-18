@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 59 de 24 de marzo de 2022, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 63, Rol de avalúo 2126-1, comuna de Puerto Montt, superficie 47 m2., para la obra MEJORAMIENTO CBI RUTA V-860, SECTOR CRUCE RUTA V-60 (FIN PAVIMENTO) - CRUCE RUTA V-840, COMUNA DE PUERTO MONTT, PROVINCIA DE LLANQUIHUE, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por LEOPOLDO RAMÓN SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA y JUAN SAMUEL BARRIENTOS BAHAMONDE, fijó el valor de tasación con fecha 29 de marzo de 2019, acordándose la indemnización con su propietario SERGIO ALEJANDRO NÚÑEZ DIMTER, en la cantidad de $443.253.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
