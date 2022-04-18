@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 33 de 24 de marzo de 2022, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 5, Rol de avalúo 9260-3, comuna de Valparaíso, superficie 691 m2., para la obra CONSTRUCCIÓN ENLACE EL VERGEL RUTA 60-CH (CAMINO LA PÓLVORA) COMUNA, PROVINCIA Y REGIÓN DE VALPARAÍSO. La comisión de peritos, integrada por ENRIQUE ANDRÉS RAMOS GUZMÁN, JUAN ARMANDO SALAS URZÚA Y NORMAN ESTANISLAO CALDERÓN PONTIGGIA, fijó el valor de tasación con fecha 06 de agosto de 2018, acordándose la indemnización con su propietaria ESTACIÓN DE SERVICIO INGLESA S.A., en la cantidad de $81.230.322.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+Fiscalía MOP.
