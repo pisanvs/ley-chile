@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 45 de 24 de marzo de 2022, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno 32-D y 34-A, Rol de avalúo 555-858, comuna de Paillaco, superficies 20 y 244 m2. respectivamente, para la obra MEJORAMIENTO CAMINO ITROPULLI - SAN PEDRO, RUTAS T-695 Y T-699, COMUNA DE PAILLACO, PROVINCIA DE VALDIVIA, REGIÓN DE LOS RÍOS. La comisión de peritos, integrada por MARÍA SOLEDAD NÚÑEZ ARROYO, YASCHALA MARIBEL YÁÑEZ RIFFO y PATRICIO FERNANDO CASAGRANDE ULLOA, fijó el valor de tasación con fecha 16 de mayo de 2016, acordándose la indemnización con su propietaria CARMEN IGNACIA CATALÁN VILLANUEVA, en la cantidad de $2.776.905.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
