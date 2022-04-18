@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 172, del 10 de febrero de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en calle Huambalí 761, comuna de Chillán, Rol de Avalúo Nº 001797-00003, de aparente dominio de Astudillo Vásquez Teresa Olga. La parte afecta a expropiación total de terreno es de 201,49 m2 y total de 70,18 m2 de edificación cuyos linderos particulares, enmarcados en el plano S16R-85, para el proyecto "Mejoramiento Av. Huambalí, comuna de Chillán, Región de Ñuble", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, Ingeniero Constructor Lorena Elizabeth Gajardo Alarcón y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $80.141.493.-
+
+Director Serviu Región de Ñuble.
