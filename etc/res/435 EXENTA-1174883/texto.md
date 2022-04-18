@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 435, de 28 de marzo de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí N° 885, El Roble, comuna de Chillán, Rol de Avalúo N° 001848-00003, de aparente dominio de Jaque Vásquez Margarita de las M. La superficie afecta a expropiación parcial de 27,63 m² (Lote 103) de terreno y expropiación total de 52,3 m² de edificaciones, cuyos linderos particulares están enmarcados en el plano S16R-134, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, la Ingeniero Constructor doña Lorena Elizabeth Gajardo Alarcón y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $31.994.122.-
+
+Director Serviu, Región de Ñuble.
