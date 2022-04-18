@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 436, del 28 de marzo de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí Nº 873, comuna de Chillán, Rol de Avalúo Nº 001848-00001, de aparente dominio de Carrasco Zapata Rosa Eliana. La superficie afecta a expropiación parcial de 25,68 m² (Lote 101) de terreno y expropiación total de 52,1 m² de edificaciones, cuyos linderos particulares están enmarcados en el plano S16R-170, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, la Ingeniero Constructor doña Lorena Elizabeth Gajardo Alarcón y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $31.987.661.-
+
+Director Serviu Región de Ñuble.
