@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 44 de 24 de marzo de 2022, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 4, Rol de avalúo 1138-52, comuna de Ancud, superficie 234 m2., para la obra CONSERVACIÓN DE LA RED VIAL REGIÓN DE LOS LAGOS (2018-2020), PUENTE EL TURQUITO, RUTA W-160, COMUNA DE ANCUD, PROVINCIA DE CHILOÉ, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por ANDRÉS ECHEVERRÍA CAMPO, LORENA ELIZABETH GAJARDO ALARCÓN y DORY GISELA DONOSO SALGADO, fijó el valor de tasación con fecha 10 de febrero de 2020, acordándose la indemnización con su propietaria MARÍA TERESA MALDONADO VALLE, en la cantidad de $3.208.679.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
