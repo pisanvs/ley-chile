@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 54 de 24 de marzo de 2022, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 13, Rol de avalúo 70-73, comuna de Galvarino, superficie 271 m2., para la obra MEJORAMIENTO RUTA S-192 GALVARINO - RUCATRARO, COMUNA DE GALVARINO, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por EVALDO ROBERTO CONTRERAS ROA, YASCHALA MARIBEL YÁÑEZ RIFFO y PABLO ALEX MANSILLA ARAVENA, fijó el valor de tasación con fecha 09 de enero de 2021, acordándose la indemnización con su propietario PATRICIO HERNÁN KHER CASTRO en la cantidad de $4.294.727.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
