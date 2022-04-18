@@ -1,0 +1,5 @@
+MODIFICACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto exento N°884, de fecha 21 de diciembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Ramón Ángel Millaldeo Antiñanco, RUT 8.647.784-K, modificación de la concesión marítima menor otorgada mediante decreto supremo Nº 215 del 20 de mayo de 2019, con vencimiento al 30 de junio de 2024. La modificación requerida consiste en reemplazar el párrafo 8 letra a) de la parte resolutiva del decreto Nº215 del 20 de mayo de 2019 en cuanto a que las obras e instalaciones proyectadas deberán iniciarse dentro de los 60 días siguientes a la fecha de suscripción del acta de entrega de la concesión y quedar terminadas a más tardar al 1 de diciembre de 2023. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Quellón. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Quellón, 28 de marzo de 2022.- Ricardo Henríquez Kremer, Capitán de Corbeta LT, Capitán de Puerto de Quellón.
