@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 434, del 28 de marzo de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Alonso de Ercilla Nº 623, comuna de Chillán, Rol de Avalúo Nº 001606-00020, de aparente dominio de Otárola Rodríguez Claudio Alejan y. La superficie afecta a expropiación parcial de 22,31 m² (Lote 55) de terreno, cuyos linderos particulares están enmarcados en el plano S16R-157, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por la Arquitecto doña Priscilla Andrea Encalada Rueda, la Arquitecto doña Cecilia María Carrasco Verdugo y por el Constructor Civil don Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $5.927.335.-
+
+Director Serviu Región de Ñuble.
