@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 91 de 30 de marzo de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 276 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR A SUBSECTOR 2: RUTA 5 - PUENTE COIHUE, Región del Biobío, que figura a nombre de FORESTAL DONA ALICIA LTDA, rol de avalúo 1900-38 de la comuna de Los Ángeles, superficie 245 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 415 de 24 de septiembre de 2021, integrada por Rodrigo Alexis Escobar Fernández, Loreto Isabel Hernández Ríos y Handy Ghislaine Campos Sepúlveda, mediante informe de tasación de 18 de noviembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.494.500 para el lote N° 276. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
