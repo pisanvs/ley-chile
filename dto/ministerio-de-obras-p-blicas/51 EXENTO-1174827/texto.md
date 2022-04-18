@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 51 de 24 de marzo de 2022, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno 14-C y 16-B, Rol de avalúo 211-40, comuna de Lumaco, superficies 175 y 162 m2. respectivamente, para la obra MEJORAMIENTO RUTA R-444 LOS SAUCES LUMACO POR LAS ROZAS, COMUNAS DE LOS SAUCES Y LUMACO, PROVINCIA DE MALLECO, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por EVALDO ROBERTO CONTRERAS ROA, PABLO ALEJANDRO SEPÚLVEDA GÓMEZ y YASCHALA MARIBEL YÁÑEZ RIFFO, fijó el valor de tasación con fecha 22 de octubre de 2018, acordándose la indemnización con su propietaria YAMILET DEL CARMEN MELIN MILCHIO, en la cantidad de $1.743.784.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
