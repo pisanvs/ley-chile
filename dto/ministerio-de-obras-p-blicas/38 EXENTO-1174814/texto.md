@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 38 de 24 de marzo de 2022, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 67, Rol de avalúo 640-42, comuna de Lonquimay, superficie 1.366 m2., para la obra MEJORAMIENTO RUTA S-61 SECTOR: MELIPEUCO-ICALMA. COMUNAS DE MELIPEUCO Y LONQUIMAY, PROVINCIAS DE CAUTÍN Y MALLECO, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por MARÍA SOLEDAD NÚÑEZ ARROYO, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YÁÑEZ RIFFO, fijó el valor de tasación con fecha 15 de febrero de 2021, acordándose la indemnización con su propietario NELSON RAFAEL TORRES CALLUQUEO, en la cantidad de $10.322.231.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
