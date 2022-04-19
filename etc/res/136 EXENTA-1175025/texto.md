@@ -1,0 +1,5 @@
+PUBLICACIÓN DE CIERRE DE CALLES EN LA REGIÓN DE LOS RÍOS
+
+De acuerdo con el formato y lo instruido por el Ministerio de Transportes y Telecomunicaciones, el Gobierno Regional de Los Ríos publica las resoluciones exentas N°s. 38, 63, 59, 39, 99, 110, 24, 113, 55, 102, 105, 64, 65, 50, 29, 90, 36, 37, 35, 52, 57, 109, 103, 56, 98, 69, 104, 43, 53, 159, 112, 181, 111, 92, 152, 153, 154, 155, 121, 188, 136, 84, 243, 302, 157, 139, 106, 91, 122, 185, 186, 189, 187, 160, 289, 100, 101, 247, 107, 194, 195, 196, 248, 211, 116, 134, 180, 190, 208, 197, 203, 192, 246, 222, 213, 230, 220, 223, 219, 284, 214, 277, 244, 245, 229, 287, 285, 231, 235, 335, 286, 299, 384, 385, 386, 387, 424, 264, 262, 378, 261, 300, 338, 353, 380, 379, 376, 382, 305, 291, 410, 351, 409, 334, 352, 411, 412, 329, 413, 331, 414, 428, 440, 449, 429, 430, 442, 389, 390, 431, 437, 436, 432, 463, 441, 433, 435, 443, 424, 444, 426, 445, 448 y 446. En las fechas descritas, prohibió la circulación de vehículos por las vías que se indican y por los motivos que se señalan en el siguiente cuadro:
+
+Luis Cuvertino Gómez, Gobernador Regional de Los Ríos.
