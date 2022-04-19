@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 908 EXENTA, DE 11 DE MARZO DE 2022
+
+Mediante resolución exenta Nº 908, de 11 de marzo de 2022, el Servicio Nacional de Capacitación y Empleo declara el cese, a contar del 22 de noviembre de 2021, de la inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "Getsemani López Prestación de Servicios de Capacitación Nortesurcap E. (Getsemani López Prestación de Servicios de Capacitación Nortesurcape.)", RUT 76.588.764-K, contenida en la resolución exenta Nº 118 de 10 de enero de 2017, por cuanto dejó de cumplir con el requisito establecido en el Nº 3 del Art. 21 de la ley 19.518.
+
+Santiago, 11 de marzo de 2022.- Andrea del Carmen Contreras Cuéllar, Jefe del Departamento de Desarrollo y Regulación de Mercado, Servicio Nacional de Capacitación y Empleo.
