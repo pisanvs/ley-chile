@@ -38,7 +38,7 @@ Personas sujetos de protección.
 
 Las disposiciones de la ley Nº 20.430 y del presente reglamento se aplicarán a los solicitantes de la condición de refugiado y a los refugiados, desde que se encuentren en el territorio nacional.
 
-Para estos efectos, se entenderá por "solicitante de la condición de refugiado" todo extranjero que se encuentre en el territorio nacional y cuya solicitud de reconocimiento de la condición de refugiado haya sido formalizada, de acuerdo con lo establecido en el artículo 37 bis del presente reglamento.
+Para estos efectos, se entenderá por "solicitante de la condición de refugiado" todo extranjero que se encuentre en el territorio nacional y cuya solicitud de reconocimiento de la condición de refugiado haya sido formalizada, de acuerdo con lo establecido en el artículo 37 del presente reglamento.
 
 ## Capítulo II
 
@@ -234,7 +234,7 @@ De la Obtención del Estatuto
 
 Reconocimiento de la condición de refugiado.
 
-Se reconocerá la condición de refugiado a los extranjeros que, habiendo formalizado la solicitud respectiva en conformidad al artículo 37 bis del presente reglamento, se encuentren en alguna de las situaciones previstas en el artículo 2º de la ley Nº 20.430.
+Se reconocerá la condición de refugiado a los extranjeros que, habiendo formalizado la solicitud respectiva en conformidad al artículo 37 del presente reglamento, se encuentren en alguna de las situaciones previstas en el artículo 2º de la ley Nº 20.430.
 
 ## Capítulo II
 
@@ -320,7 +320,7 @@ Composición.
 
 La señalada Comisión estará conformada por los siguientes miembros, con derecho a voto:
 
-1. El Jefe del Departamento de Extranjería y Migración del Ministerio del Interior, quien la presidirá.
+1. El Subsecretario del Interior, o quien éste designe, quien la presidirá.
 
 2. Dos representantes del Ministerio del Interior.
 
@@ -366,7 +366,7 @@ De la Secretaría Técnica
 
 Funciones.
 
-El Jefe del Departamento de Extranjería y Migración dispondrá de una Secretaría Técnica, que asistirá a la Comisión de Reconocimiento de la Condición de Refugiado, la que estará integrada por personal a su cargo. Las funciones de esta Secretaría deberán determinarse en el reglamento interno que fije la referida Comisión, de conformidad con lo dispuesto en el artículo 22 Nº 7 de la ley Nº 20.430.
+El comisionado a que hace referencia el numeral 1. del inciso primero del artículo 26 del presente Reglamento dispondrá de una Secretaría Técnica, que asistirá a la Comisión de Reconocimiento de la Condición de Refugiado, la que estará integrada por personal a su cargo. Las funciones de esta Secretaría deberán determinarse en el reglamento interno que fije la referida Comisión, de conformidad con lo dispuesto en el artículo 22 Nº 7 de la ley Nº 20.430.
 
 ## Título IV
 
@@ -448,9 +448,7 @@ La solicitud de reconocimiento de la condición de refugiado deberá presentarse
 
 #### Artículo 37
 
-Datos del solicitante.
-
-La presentación escrita o el formulario respectivo, deberán contener, a lo menos, los siguientes datos:
+Datos del solicitante. Se entenderá formalizada la solicitud una vez que el interesado realice la presentación escrita o complete el formulario respectivo que deberán contener, a lo menos, los siguientes datos:
 
 a. Nombres y apellidos del solicitante;
 
@@ -458,7 +456,7 @@ b. Lugar y fecha de nacimiento;
 
 c. Sexo;
 
-d. Nacionalidad, salvo en el caso previsto en el numeral 3 del artículo 2° del presente Reglamento;
+d. Nacionalidad; salvo en el caso previsto en el numeral 3 del artículo 2º del presente Reglamento;
 
 e. Documento utilizado para ingresar al país;
 
@@ -478,19 +476,11 @@ l. Indicación de las pruebas documentales o de otro tipo que pueda aportar a la
 
 m. Firma del interesado.
 
-En caso que el solicitante no pueda acreditar su identidad por carecer de documentos, se extenderá la solicitud con el nombre que señala, previo registro de filiación en el Servicio de Registro Civil e Identificación.
+En caso que el solicitante no pueda acreditar su Identidad por carecer de documentos, se extenderá la solicitud con el nombre que señala, previo registro de filiación en el Servicio de Registro Civil e Identificación.
 
 #### Artículo 37 bis
 
-Formalización de la solicitud.
-
-Una vez presentada la solicitud a que se refiere el artículo anterior, ésta se entenderá formalizada, sólo si ella guarda relación con alguno de los motivos establecidos en el artículo 2° de la ley N° 20.430, en cuyo caso se procederá a notificar al interesado, el inicio del procedimiento conducente al reconocimiento de la condición de refugiado y el otorgamiento de la visa de residente temporario, establecida en el artículo 42 de este reglamento.
-
-En el evento que en la solicitud aparezca claramente que la misma no guarda relación alguna con los motivos que hacen procedente el reconocimiento de la condición de refugiado, establecidos en el artículo 2° de la ley N° 20.430, la autoridad migratoria deberá evacuar un informe, dentro del plazo de 10 días, contado desde la presentación de la misma.
-
-A partir del informe señalado en el inciso anterior, el Subsecretario del Interior podrá resolver, mediante resolución fundada, la no formalización de la solicitud de reconocimiento de la condición de refugiado, por resultar ésta manifiestamente carente de fundamento, conforme a lo establecido en el artículo 41, inciso quinto, de la ley N°19.880. Esta facultad podrá ser delegada en el Director Nacional de Migraciones.
-
-En contra de esta resolución podrán interponerse los recursos administrativos establecidos en la ley N° 19.880, sin perjuicio de los demás medios de impugnación que considere el ordenamiento jurídico vigente.
+Derogado.
 
 ### Párrafo 2º — Tramitación de la solicitud
 
@@ -534,7 +524,7 @@ La Secretaría Técnica de la Comisión de Reconocimiento deberá recopilar info
 
 Visación de residencia.
 
-Una vez formalizada la solicitud de reconocimiento de la condición de refugiado, conforme a lo establecido en el artículo 37 bis del presente reglamento, el Servicio Nacional de Migraciones, extenderá al peticionario y a los miembros de su familia, que lo acompañen, una visación de residente temporario, en la condición de titular, por el plazo de ocho meses. Esta visación podrá prorrogarse, previa solicitud del interesado, por periodos iguales hasta que la solicitud que da origen al beneficio sea resuelta de manera definitiva por la autoridad correspondiente.
+Una vez formalizada la solicitud de reconocimiento de la condición de refugiado, conforme a lo establecido en el artículo 37 del presente reglamento, el Servicio Nacional de Migraciones, extenderá al peticionario y a los miembros de su familia, que lo acompañen, una visación de residente temporario, en la condición de titular, por el plazo de ocho meses. Esta visación podrá prorrogarse, previa solicitud del interesado, por periodos iguales hasta que la solicitud que da origen al beneficio sea resuelta de manera definitiva por la autoridad correspondiente.
 
 Para efectos de determinar quiénes son los miembros de la familia a quienes se les extenderá el visado señalado anteriormente, se estará a lo dispuesto en el artículo 9° de la ley N° 20.430.
 
