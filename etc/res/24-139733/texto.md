@@ -8,11 +8,9 @@ Nº 11/85 y Nº 507/97, ambos del Ministerio de Salud,
 
 R e s u e l v o:
 
-1.- El modelo de listado a que se refiere el
+1.- El modelo de listado a que se refiere el artículo 59 bis del D.S. Nº 212/92, mediante el cual todo servicio interurbano de transporte de pasajeros con recorridos de más de cinco horas de duración tiene la obligación de confeccionar un listado con la nómina de pasajeros que transporta, será el denominado "Nómina de Pasajeros" y deberá ser llenado a través de una planilla digital o a través de una planilla escrita a mano, que se incluye como anexo a esta resolución y que se entiende formar parte de ella.
 
-#### Artículo 59 bis
-
-del D.S. Nº 212/92, mediante el cual todo servicio interurbano de transporte de pasajeros con recorridos de más de cinco horas de duración tiene la obligación de confeccionar un listado con la nómina de pasajeros que transporta, será el denominado "Nómina de Pasajeros" y deberá ser llenado a través de una planilla digital o a través de una planilla escrita a mano, que se incluye como anexo a esta resolución y que se entiende formar parte de ella.
+Cualquiera sea la modalidad en la que se confeccione la Nómina de Pasajeros, la información contenida en ella deberá ser ingresada en formato digital, a la aplicación dispuesta por la Subsecretaría de Transportes para dicho efecto, en un plazo máximo de 24 horas, contados desde la fecha y hora de llegada al destino de cada viaje o recorrido.
 
 2.- El servicio deberá requerir a cada pasajero todos los datos que considera la referida nómina. Si el pasajero se niega a proporcionar uno o más de los datos solicitados el servicio se limitará a consignar en la nómina esta situación.
 
