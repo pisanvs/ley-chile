@@ -1,0 +1,9 @@
+CERTIFICADO Nº 183
+
+Certifico: Que por escritura pública de fecha 11 de diciembre de 2020, otorgada en la Cuarta Notaría de Santiago de don Cosme Fernando Gomila Gatica, con domicilio en Paseo Ahumada Nº 341, cuarto piso, comuna de Santiago, se redujo el acta de la junta extraordinaria de accionistas de Chilena Consolidada Seguros Generales S.A., celebrada con fecha 29 de octubre de 2020, ante el Notario Público Suplente don Jorge Lobos Díaz, complementada por escritura pública de fecha 3 de mayo de 2021, otorgada en la Cuadragésima Quinta Notaría de Santiago del Notario Público Interino don Gino Beneventi Alfaro y por escritura pública de fecha 29 de julio de 2021, otorgada en la Cuadragésima Tercera Notaría de Santiago, del Notario Público don Juan Ricardo San Martín Urrejola, se acordó la reforma de estatutos de dicha entidad.
+
+Que por resolución exenta Nº 2.027, de fecha 29 de marzo de 2022, de la Comisión para el Mercado Financiero, se aprobó la reforma de estatutos de Chilena Consolidada Seguros Generales S.A., que consiste en:
+
+Aumentar el capital social de $37.803.423.148, dividido en 128.502.577 acciones sin valor nominal, de las cuales 104.303.754 acciones se encuentran íntegramente suscritas y pagadas a $52.803.423.172 dividido en 166.232.731 acciones sin valor nominal. Este aumento de capital se hará efectivo con la suscripción y pago de 24.198.823 acciones que deberán suscribirse y pagarse en el plazo de tres años a contar del 10 de enero de 2020 y mediante la emisión de 37.730.154 acciones sin valor nominal, correspondiente a $15.000.000.024, a ser suscritas y pagadas en el plazo de 3 años a contar del día 29 de octubre de 2020. Se modifican los artículos quinto y único transitorio. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 31 de marzo de 2022.- Por orden del Consejo de la Comisión para el Mercado Financiero, Gerardo Bravo Riquelme, Secretario General.
