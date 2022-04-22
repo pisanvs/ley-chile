@@ -98,6 +98,10 @@ r) Emitir certificados de antigüedad, relación de servicios y otros atingentes
 
 s) Suscribir certificados con información de remuneraciones del personal del establecimiento.
 
+t) Otorgar permisos a los Directores de las Asociaciones de Funcionarios en conformidad a lo dispuesto en el artículo 31 de la ley 19.296 que establece normas sobre Asociaciones de Funcionarios de la Administración del Estado y;
+
+u) Autorizar los descansos reparatorios a que se refiere el artículo 3 de la ley 21.409, que establece un descanso reparatorio para las trabajadoras y los trabajadores de la salud que indica, en reconocimiento a la labor desempeñada durante la pandemia por covid-19.
+
 2.- EN MATERIAS RELATIVAS A LOS RECURSOS FÍSICOS Y FINANCIEROS, PROCEDIMIENTOS CONTABLES, PRESUPUESTARIOS Y PATRIMONIALES:
 
 a) Aprobar, mediante resolución exenta, el presupuesto, traspasos y modificaciones a nivel de ítems, asignaciones y sub-asignaciones de los subtítulos aprobados por el Subdirector de Recursos Físicos y Financieros del Servicio para el establecimiento, exceptuando las asignaciones realizadas mediante glosas presupuestarias.
