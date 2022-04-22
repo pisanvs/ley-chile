@@ -46,7 +46,7 @@ Las personas que postulen como titulares vía internet a través de los medios e
 
 2. Las postulaciones se recibirán a partir de la fecha de publicación en el Diario Oficial de la presente resolución y hasta el 29 de octubre de 2021. Se realizarán selecciones en los meses de julio, septiembre y noviembre, con las familias que hubieren efectuado válidamente su postulación en el período indicado. Las familias que no sean consideradas en una selección continuarán postulando y serán contempladas en la siguiente hasta el último proceso respectivo.
 
-3. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de 1.868.980 Unidades de Fomento.
+3. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de 2.338.690 Unidades de Fomento.
 
 4. La cantidad de familias a seleccionar se distribuirán regionalmente según la tabla que se presenta a continuación, pudiendo practicarse redistribuciones o modificaciones de recursos que serán sancionadas mediante resolución:
 
