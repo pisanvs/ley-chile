@@ -20,7 +20,7 @@ Aspectos Generales
 
 #### Artículo 1º
 
-Del Registro Público de Mediadores y Árbitros. Créase el Registro Público de Mediadores y Árbitros de Propiedad Intelectual, en adelante "el Registro", que llevará el Consejo Nacional de la Cultura y las Artes, en adelante "el Consejo", de acuerdo a lo establecido en el inciso segundo del artículo 100 bis de la ley Nº 17.336, sobre Propiedad Intelectual.
+Del Registro Público de Mediadores y Árbitros. Créase el Registro Público de Mediadores y Árbitros de Propiedad Intelectual, en adelante "el Registro", que llevará el Ministerio de las Culturas, las Artes y el Patrimonio, en adelante "el Ministerio", de acuerdo a lo establecido en el inciso segundo del artículo 100 bis de la ley Nº 17.336, sobre Propiedad Intelectual.
 
 Párrafo Segundo
 
@@ -28,15 +28,15 @@ Sobre el Registro Público de Mediadores y Árbitros de Propiedad Intelectual
 
 #### Artículo 2º
 
-Sobre el Registro. El Registro será único y su conformación y administración estará a cargo del Consejo Nacional de la Cultura y las Artes.
+Sobre el Registro. El Registro será único y su conformación y administración estará a cargo del Ministerio de las Culturas, las Artes y el Patrimonio.
 
 #### Artículo 3º
 
-Obligaciones del Consejo. Para los efectos de lo dispuesto en el artículo anterior, el Consejo deberá:
+Obligaciones del Ministerio. Para los efectos de lo dispuesto en el artículo anterior, el Ministerio deberá:
 
 1. Elaborar y mantener permanentemente actualizado el Registro Público de Mediadores y Árbitros de Propiedad Intelectual.
 
-2. Poner en conocimiento de todas las Cortes de Apelaciones del país la nómina de los mediadores y árbitros inscritos. En todo caso, el Consejo deberá comunicarles de toda nueva inscripción, suspensión o eliminación que afecte a mediadores y árbitros habilitados para ejercer sus funciones.
+2. Poner en conocimiento de todas las Cortes de Apelaciones del país la nómina de los mediadores y árbitros inscritos. En todo caso, el Ministerio deberá comunicarles de toda nueva inscripción, suspensión o eliminación que afecte a mediadores y árbitros habilitados para ejercer sus funciones.
 
 3. Mantener a disposición de las personas interesadas una nómina actualizada de los mediadores y árbitros inscritos, pudiendo utilizar para ello medios electrónicos u otros que aseguren a la comunidad su conocimiento y acceso a nivel nacional.
 
@@ -52,27 +52,27 @@ Requisitos de Inscripción. Serán inscritos en el Registro quienes soliciten su
 
 #### Artículo 5º
 
-Solicitud de Inscripción. Las personas interesadas en inscribirse en el Registro deberán presentar una solicitud ante el Consejo, debiendo completar el correspondiente formulario de "Solicitud de Inscripción", acompañando los antecedentes que allí se indiquen y que permitan la acreditación de los requisitos señalados en el artículo anterior. El formulario de "Solicitud de Inscripción" deberá diseñarse ajustándose a los requerimientos del presente Reglamento y se encontrará disponible en el sitio web del Consejo Nacional de la Cultura y las Artes, pudiendo además ser retirado materialmente en las oficinas del nivel central y direcciones regionales del Consejo Nacional de la Cultura y las Artes.
+Solicitud de Inscripción. Las personas interesadas en inscribirse en el Registro deberán presentar una solicitud ante el Ministerio, debiendo completar el correspondiente formulario de "Solicitud de Inscripción", acompañando los antecedentes que allí se indiquen y que permitan la acreditación de los requisitos señalados en el artículo anterior. El formulario de "Solicitud de Inscripción" deberá diseñarse ajustándose a los requerimientos del presente Reglamento y se encontrará disponible en el sitio web del Ministerio de las Culturas, las Artes y el Patrimonio, pudiendo además ser retirado materialmente en las oficinas del nivel central y Secretarías Regionales Ministeriales del Ministerio de las Culturas, las Artes y el Patrimonio.
 
 #### Artículo 6º
 
-Revisión de la Solicitud de Inscripción. El Consejo procederá a la revisión de la solicitud y los antecedentes presentados, debiendo pronunciarse dentro de los veinte días hábiles siguientes a su recepción, para lo cual dictará una resolución en la que aceptará o rechazará la solicitud. En el caso de rechazarse la inscripción del solicitante en el Registro, la resolución deberá ser siempre fundada. Tanto la aceptación como el rechazo de la inscripción en el Registro deberá comunicarse al interesado por escrito, mediante carta certificada dirigida al domicilio que el interesado hubiere indicado en el formulario de "Solicitud de Inscripción" o a otro designado con posterioridad por el solicitante. Las notificaciones por carta certificada se entenderán practicadas a contar del tercer día siguiente a su recepción en la oficina de Correos que corresponda. Las notificaciones podrán, también, hacerse de modo personal por medio de un empleado del Consejo, quien dejará copia íntegra del acto o resolución que se notifica en el domicilio del interesado, dejando constancia de tal hecho.
+Revisión de la Solicitud de Inscripción. El Ministerio procederá a la revisión de la solicitud y los antecedentes presentados, debiendo pronunciarse dentro de los veinte días hábiles siguientes a su recepción, para lo cual dictará una resolución en la que aceptará o rechazará la solicitud. En el caso de rechazarse la inscripción del solicitante en el Registro, la resolución deberá ser siempre fundada. Tanto la aceptación como el rechazo de la inscripción en el Registro deberá comunicarse al interesado por escrito, mediante carta certificada dirigida al domicilio que el interesado hubiere indicado en el formulario de "Solicitud de Inscripción" o a otro designado con posterioridad por el solicitante. Las notificaciones por carta certificada se entenderán practicadas a contar del tercer día siguiente a su recepción en la oficina de Correos que corresponda. Las notificaciones podrán, también, hacerse de modo personal por medio de un empleado del Ministerio, quien dejará copia íntegra del acto o resolución que se notifica en el domicilio del interesado, dejando constancia de tal hecho.
 
 #### Artículo 7º
 
-Del Rechazo a la Solicitud de Inscripción. La resolución que rechazare la solicitud de inscripción al Registro podrá ser impugnada ante el Consejo, de acuerdo a las reglas generales contenidas en el artículo 59 y siguientes de la ley Nº 19.880.
+Del Rechazo a la Solicitud de Inscripción. La resolución que rechazare la solicitud de inscripción al Registro podrá ser impugnada ante el Ministerio, de acuerdo a las reglas generales contenidas en el artículo 59 y siguientes de la ley Nº 19.880.
 
 #### Artículo 8º
 
-Deber de Información. Los mediadores y árbitros inscritos tendrán la obligación de informar oportunamente al Consejo de todo cambio en sus antecedentes personales o laborales que fueren de interés para la debida actualización del Registro.
+Deber de Información. Los mediadores y árbitros inscritos tendrán la obligación de informar oportunamente al Ministerio de todo cambio en sus antecedentes personales o laborales que fueren de interés para la debida actualización del Registro.
 
 #### Artículo 9º
 
-Suspensión de la Inscripción. La inscripción en el Registro podrá suspenderse a solicitud del propio mediador o árbitro, cuando éste comunicare su determinación al Consejo, indicando el período por el cual requiere se mantenga ésta.
+Suspensión de la Inscripción. La inscripción en el Registro podrá suspenderse a solicitud del propio mediador o árbitro, cuando éste comunicare su determinación al Ministerio, indicando el período por el cual requiere se mantenga ésta.
 
 #### Artículo 10º
 
-Cancelación de la Inscripción. El Consejo procederá a cancelar la inscripción de los mediadores y árbitros inscritos y eliminarlos del Registro en los siguientes casos:
+Cancelación de la Inscripción. El Ministerio procederá a cancelar la inscripción de los mediadores y árbitros inscritos y eliminarlos del Registro en los siguientes casos:
 
 1. Fallecimiento del mediador o árbitro.
 
@@ -80,7 +80,7 @@ Cancelación de la Inscripción. El Consejo procederá a cancelar la inscripció
 
 3. Pérdida del título profesional.
 
-La eliminación la hará el Consejo de oficio o a petición de parte, sujetándose a las normas contenidas en el artículo 3 y siguientes de la ley Nº 19.880.
+La eliminación la hará el Ministerio de oficio o a petición de parte, sujetándose a las normas contenidas en el artículo 3 y siguientes de la ley Nº 19.880.
 
 #### Artículo 11º
 
@@ -148,7 +148,7 @@ Término Anticipado del Arbitraje. Si por cualquier razón el arbitraje terminar
 
 #### Artículo 18º
 
-De la Publicidad. El Consejo deberá mantener a disposición del público los honorarios de que trata este título y el Registro de los Laudos y Acuerdos de Mediación a que hace referencia el inciso 9º del artículo 100 ter de la ley Nº 17.336, pudiendo utilizar para ello medios electrónicos u otros que aseguren a la comunidad su conocimiento y acceso.
+De la Publicidad. El Subsecretaría de las Culturas y las Artes deberá mantener a disposición del público los honorarios de que trata este título y el Registro de los Laudos y Acuerdos de Mediación a que hace referencia el inciso 9º del artículo 100 ter de la ley Nº 17.336, pudiendo utilizar para ello medios electrónicos u otros que aseguren a la comunidad su conocimiento y acceso.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Joaquín Lavín Infante, Ministro de Educación.- Juan Andrés Fontaine Talavera, Ministro de Economía, Fomento y Turismo.
 
