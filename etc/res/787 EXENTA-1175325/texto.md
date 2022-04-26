@@ -1,0 +1,9 @@
+ESTABLECE NÓMINA DE ESPECIES OBJETIVO, DE FAUNA ACOMPAÑANTE Y DE PESCA INCIDENTAL SOMETIDAS A LOS ARTÍCULOS 7° A, 7° B Y 7° C DE LA LEY GENERAL DE PESCA Y ACUICULTURA PARA PESQUERÍA ARTESANAL DE ANCHOVETA ENTRE LAS REGIONES DE ATACAMA Y COQUIMBO, AÑO 2022
+
+Por resolución exenta N° 787, de 20 de abril de 2022, de esta Subsecretaría, establécese la nómina de especies objetivo, de fauna acompañante y de pesca incidental para la pesquería artesanal de Anchoveta, en el área marítima de las Regiones de Atacama y Coquimbo, que se encuentran sometidas al Plan de Reducción del Descarte y de la Captura de Pesca Incidental, autorizado mediante resolución exenta N° 1.468 de 2021, de conformidad con el Artículo 7° A, 7° B y 7° C de la Ley General de Pesca y Acuicultura, año 2022.
+
+Para los efectos antes señalados, la nómina se divide en cuatro categorías de especies: especie objetivo (Tabla 1); especies de fauna acompañante (FA) sometidas a cuota global anual de captura (CGA) o Régimen Artesanal de Extracción (RAE), según corresponda (Tabla 2); especies de fauna acompañante (FA) no administradas con cuota global anual de captura (sin CGA), sujetas a regulación de arte/aparejo para su extracción entre Arica y Los Lagos por res. ex. 3.917/2019 o al Plan de Acción Nacional para la Conservación de Tiburones (PANT) y la res. ex. N° 2.063 de 2020 que estableció protocolos de devolución de condrictios, según corresponda (Tabla 3) y especies de pesca incidental (Tabla 4), distinguiendo en cada categoría las especies que tienen prohibición de descarte y aquellas cuya devolución es obligatoria, según se detalla en la resolución extractada.
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 20 de abril de 2022.- Julio Salas Gutiérrez, Subsecretario de Pesca y Acuicultura.
