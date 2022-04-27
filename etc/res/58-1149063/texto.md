@@ -680,8 +680,6 @@ d) Si la inversión fue a través de deuda, enviar comprobante de pago del impue
 
 3º Establézcase que las normas aprobadas en este Acuerdo, entrarán en vigor al momento de tramitarse totalmente la resolución que lo ejecute. Sin perjuicio de lo anterior, todos aquellos Fondos que hayan ingresado su postulación antes de la entrada en vigor de estas normas, pero que todavía no han firmado su contrato de apertura de línea de Crédito, se regirán por las normas que se encontraban vigentes al momento de ingresar su postulación. Dichos Fondos podrán acogerse a estas nuevas normas voluntariamente, si es que así lo manifiestan expresamente y por escrito, y si hacen los ajustes necesarios para adecuarse a la nueva normativa."
 
-> **Nota.** La Resolución 73, Economía, publicada el 12.08.2022, que modifica el numeral II de la Resolución 33, Economía, publicada el 27.04.2022, que a su vez en el literal f) del número I modifica la presente norma en el sentido de incorporar en el numeral 12 del artículo 1° un nuevo literal d), dispone que dicha modificación se exigirá a las Administradoras que postulen por primera vez al Programa, no siéndole aplicable a aquellas que administren, o hayan administrado, al menos un Fondo que actualmente participe o haya participado en alguno de los Programas de capital de riesgo de Corfo.
-
 2.- Se deja sin efecto la resolución Nº 45 de 2020, de Corfo, que ejecutaba originalmente el Acuerdo Nº 301 de 2020, del Comité de Capital de Riesgo, en virtud de lo indicado en los considerandos del presente acto administrativo.
 
 Anótese, comuníquese, tómese razón y publíquese en el Diario Oficial.- Luis Felipe Oliva Díaz, Gerente de Inversión y Financiamiento.
