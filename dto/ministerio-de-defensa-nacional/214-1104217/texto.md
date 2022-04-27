@@ -100,7 +100,7 @@ El Director General del Territorio Marítimo y de Marina Mercante.
 
 ñ.- Embarcación deportiva:
 
-La nave especial que en razón de sus características, está destinada exclusivamente a fines deportivos o recreativos, incluyendo veleros, lanchas a motor, motos de agua y similares.
+La nave especial que en razón de sus características, está destinada exclusivamente a fines deportivos o recreativos, incluyendo veleros, lanchas a motor, motos de agua y similares, pudiendo ser arrendada o cedida a cualquier título.
 
 o.- Embarcación deportiva costera:
 
@@ -194,9 +194,9 @@ La Dirección General del Territorio Marítimo y de Marina Mercante, a través d
 
 Sin perjuicio de lo dispuesto en el presente reglamento, por resolución fundada del Director General, previa investigación sumaria administrativa, podrá cancelarse una licencia deportiva náutica o de buceo deportivo, a quienes no sean considerados idóneos por carecer, a la fecha de la investigación, de los conocimientos mínimos necesarios para operar con seguridad una embarcación deportiva, equipos y técnicas de buceo o hayan perdido de manera irreversible las condiciones físicas compatibles con el ejercicio de la actividad.
 
-#### Artículo 11°
+#### Artículo 11º
 
-Las licencias y certificaciones deportivas náuticas y de buceo deportivo otorgadas en otros países o por asociaciones internacionales, podrán ser reconocidas para los extranjeros o convalidadas para los nacionales, de acuerdo a su equivalencia, según condiciones que establezca el Director General, mediante resolución fundada.
+Las licencias y certificaciones deportivas náuticas y de buceo deportivo otorgadas en otros países o por asociaciones internacionales, podrán ser reconocidas para los chilenos y extranjeros, de acuerdo a su equivalencia, según las condiciones que establezca el Director General mediante una resolución fundada.
 
 ## Título II
 
@@ -488,19 +488,21 @@ Las normas sobre construcción que deben cumplir las embarcaciones deportivas me
 
 Zarpe y arribo de embarcaciones deportivas
 
-#### Artículo 33°
+#### Artículo 33º
 
-Las embarcaciones deportivas, sean nacionales o extranjeras, que zarpen o recalen del extranjero, estarán sujetas a las normas establecidas en el Reglamento de Recepción y Despacho de Naves.
+Las embarcaciones deportivas, sean nacionales o extranjeras, que zarpen hacia el extranjero o recalen desde este, estarán sujetas a las normas establecidas en el Reglamento de Recepción y Despacho de Naves.
 
-#### Artículo 34°
+#### Artículo 34º
 
-Las embarcaciones deportivas que emprendan una navegación cuya duración no exceda de 24 horas y retornen al mismo puerto de zarpe, sin tocar puertos extranjeros, no requerirán autorización de zarpe.
+Las embarcaciones deportivas nacionales que emprendan una navegación en aguas jurisdiccionales chilenas, se regirán exclusivamente por lo estipulado en el presente reglamento y no requerirán autorización de zarpe.
 
-No obstante lo anterior, los operadores de una embarcación deportiva o artefacto náutico, podrán informar a la Autoridad Marítima local o a la entidad náutica deportiva correspondiente, las particularidades de su navegación, cuando estimen que por razones de seguridad, sea pertinente que tengan conocimiento de sus desplazamientos, informándose previamente sobre la normativa nacional o local que establece medidas de seguridad específica de la actividad a desarrollar.
+El Capitán o Patrón de la embarcación deportiva deberá informar al club de yates, club de deportes náuticos o entidad náutica deportiva desde donde zarpe, su intención de movimiento. En caso que no existan los anteriores establecimientos, el Capitán o Patrón, deberá informar a la brevedad a la Autoridad Marítima local, su intención de movimiento, asociado al sentido de seguridad propia y compromiso con la salvaguarda de la vida humana en el mar.
+
+El Capitán o Patrón tendrá en todo momento plena responsabilidad del zarpe, la navegación y la recalada, tanto respecto de su embarcación como de la seguridad de sus tripulantes y/o pasajeros.
 
 #### Artículo 35°
 
-Toda embarcación deportiva cuya navegación exceda de 24 horas y/o recale a un puerto distinto al de origen, requerirá autorización de zarpe y comunicación de arribo dirigida a la Autoridad Marítima competente o a la correspondiente entidad náutica deportiva. Para tal efecto, tanto la solicitud de zarpe como la comunicación del arribo, podrá efectuarse por radio, teléfono, fax, correo electrónico o cualquier otro medio idóneo. No será necesario que el Capitán o Patrón se apersone ante la Autoridad Marítima, a menos que ésta así lo exija, fundada en razones que incidan en la seguridad de la navegación o de la tripulación.
+Derogado.
 
 #### Artículo 36°
 
@@ -832,19 +834,19 @@ Para desarrollar estas actividades de instrucción, se deberá contar con la aut
 
 DISPOSICIONES TRANSITORIAS
 
-#### Artículo primero
+Derogado.
 
-Las licencias deportivas náuticas de navegación o de buceo obtenidas conforme al decreto supremo N° 87, de 1997, del Ministerio de Defensa Nacional, que se encuentren vigentes a la fecha de publicación del presente reglamento, mantendrán su vigencia hasta la fecha en ellas indicada. Sin embargo, deberán substituirse o renovarse de conformidad con las disposiciones del presente reglamento.
+#### Artículo PRIMERO
 
-#### Artículo segundo
+Derogado.
 
-El buceador deportivo autónomo que haya obtenido su licencia conforme al decreto supremo N° 87, de 1997, del Ministerio de Defensa Nacional, será asimilado a la licencia de buceador deportivo autónomo intermedio o avanzado, previa acreditación de un mínimo de 20 o 60 inmersiones, respectivamente. De lo contrario, será asimilado a la de buceador deportivo autónomo básico.
+#### Artículo SEGUNDO
 
-#### Artículo tercero
+Derogado.
 
-Los actuales buceadores deportivos autónomos, que estén ejerciendo como instructores en las entidades de capacitación de buceo deportivo, podrán continuar cumpliendo dicha actividad por el plazo de un año, desde la publicación del presente reglamento. Dentro de este plazo, deberán convalidar su licencia con la de Instructor de Buceo Deportivo. Para tal efecto, deberán dar cumplimiento al artículo 42° letra e.- del presente reglamento, en lo que a inmersiones se refiere y haber participado como instructor en a lo menos 5 cursos de buceo deportivo, lo que será comprobado por parte de la Autoridad Marítima, mediante la verificación de las actas de inicio de curso registradas ante ella.
+#### Artículo TERCERO
 
-Asimismo, los actuales buceadores deportivos autónomos, que participen en calidad de guías, en las actividades de buceo guiado, descritas en el artículo 51°, podrán continuar desarrollando dichas actividades por el plazo de un año, desde la publicación del presente reglamento. Dentro de este plazo, deberán convalidar su licencia con la de Instructor de Buceo Deportivo. Para tal efecto, deberán dar cumplimiento al artículo 42° letra e.- del presente reglamento, en lo que a inmersiones se refiere y haber participado como instructor en a lo menos 5 actividades de buceo guiado, lo que será comprobado por parte de la Autoridad Marítima, mediante la verificación de los informes de buceo guiado registrados ante ella.
+Derogado.
 
 #### Artículo segundo
 
