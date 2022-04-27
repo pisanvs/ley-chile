@@ -692,8 +692,6 @@ La Administradora, para complementar lo antes citado, deberá adjuntar a cada ac
 
 3° Establézcase que las normas aprobadas en este Acuerdo entrarán en vigor al momento de tramitarse totalmente la resolución que lo ejecute. Sin perjuicio de lo anterior, todos aquellos Fondos que hayan ingresado su postulación antes de la entrada el vigor de estas normas, pero que todavía no han firmado su contrato para participar en el Programa, se regirán por las normas que se encontraban vigentes al momento de ingresar su postulación. Dichos Fondos podrán acogerse a estas nuevas normas voluntariamente, si es que así lo manifiestan expresamente y por escrito, y si hacen los ajustes necesarios para adecuarse a la nueva normativa.".
 
-> **Nota.** La Resolución 74, Economía, publicada el 12.08.2022, que modifica el numeral II de la Resolución 31, Economía, publicada el 27.04.2022, que a su vez en el literal f) del número I modifica la presente norma en el sentido de incorporar en el numeral 12 un nuevo literal e), dispone que dicha modificación se exigirá a las Administradoras que postulen por primera vez al Programa, no siéndole aplicable a aquellas que administren, o hayan administrado, al menos un Fondo que actualmente participe o haya participado en alguno de los Programas de capital de riesgo de Corfo.
-
 Anótese, comuníquese, tómese razón y publíquese en el Diario Oficial.- Luis Felipe Oliva Díaz, Gerente de Inversión y Financiamiento.
 
 CONTRALORÍA GENERAL DE LA REPÚBLICA
