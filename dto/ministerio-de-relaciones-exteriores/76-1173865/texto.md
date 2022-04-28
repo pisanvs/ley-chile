@@ -6,7 +6,7 @@ La ley 21.080, que modifica diversos cuerpos legales con el objeto de modernizar
 
 Considerando:
 
-1. Que, entre los días 13 a 26 de julio, el Sr. Ministro de Relaciones Exteriores deberá dirigirse hasta Washington, Estados Unidos de América, a fin de participar de reuniones de trabajo con autoridades locales. Luego, se trasladará hasta Seúl, Corea del Sur, con el objeto de reunirse con el Canciller y el Ministro de Comercio de dicho país y, finalmente, viajará hasta Ciudad de México, lugar en que sostendrá reuniones con el Canciller de dicho país y donde participará de la reunión de la Comunidad de Estados Latinoamericanos y Caribeños (Celac), cuya presidencia pro témpore está a cargo de México.
+1. Que, entre los días 13 a 29 de julio, el Sr. Ministro de Relaciones Exteriores deberá dirigirse hasta Washington, Estados Unidos de América, a fin de participar de reuniones de trabajo con autoridades locales. Luego, se trasladará hasta Seúl, Corea del Sur, con el objeto de reunirse con el Canciller y el Ministro de Comercio de dicho país. En seguida, viajará hasta Ciudad de México, lugar en que sostendrá reuniones con el Canciller de dicho país y donde participará de la reunión de la Comunidad de Estados Latinoamericanos y Caribeños (Celac), cuya presidencia pro témpore está a cargo de México. Finalmente, se dirigirá hasta Perú, con el propósito de participar de la Transmisión de Mando Presidencial.
 
 2. Que, la solicitud de la presente comisión de servicios no se ajustó a los plazos establecidos en el Instructivo Presidencial N° 2, del 11 de febrero de 2019, debido a que la agenda del viaje fue confirmada en los últimos días.
 
@@ -14,11 +14,11 @@ Considerando:
 
 Decreto:
 
-1. Desígnese en comisión de servicios, por el término de 14 días, desde el 13 y hasta el 26 de julio de 2021, al Sr. Andrés Allamand Zavala (RUN N° 5.002.921-2), Ministro de Relaciones Exteriores, a fin de viajar a Washington, Estados Unidos de América; Seúl, Corea del Sur y Ciudad de México, México, con el objeto de participar de diversas reuniones.
+1. Desígnese en comisión de servicios, por el término de 17 días, desde el 13 y hasta el 29 de julio de 2021, al Sr. Andrés Allamand Zagala (RUN Nº 5.002.921-2), Ministro de Relaciones Exteriores, a fin de viajar a Washington, Estados Unidos de América; Seúl, Corea del Sur; Ciudad de México, México, con el objeto de reunirse con diversas autoridades; y a Lima, Perú, donde participará de la Transmisión de Mando Presidencial.
 
-2. Durante el desempeño de la presente comisión, el Sr. Ministro, tendrá derecho a los siguientes viáticos, que se devengarán en forma proporcional a los días efectivamente servidos. Los días 13 y 26 de julio de 2021 no tendrá derecho a viáticos, por cuanto los horarios de los vuelos que utilizará no habilitan dicho beneficio.
+2. Durante el desempeño de la presente comisión, el Sr. Ministro tendrá derecho a los siguientes viáticos, que se devengarán en forma proporcional a los días efectivamente servidos. Los días 13 y 29 de julio de 2021 no tendrá derecho a viáticos, por cuanto los horarios de los vuelos que utilizará no habilitan dicho beneficio.
 
-. Estados Unidos de América:
+. Washington, Estados Unidos de América:
 
 US$ 478,21.- diarios, por 4 con pernoctar (del 14 al 17 de julio de 2021 en Washington) y
 
@@ -30,11 +30,17 @@ US$ 502,32.- diarios, por 3 días con pernoctar (19, 20 y 21 de julio de 2021).
 
 . Ciudad de México, México:
 
-US$ 437,60.- diarios, por 3 días con pernoctar (del 22 al 24 de julio de 2021)
+US$ 437,60.- diarios, por 4 días con pernoctar (del 22 al 25 de julio de 2021)
 
-US$ 175,04.- diarios, por 1 día correspondiente al 40% por concepto de alimentación (25 de julio de 2021).
+US$ 175,04.- diarios, por 1 día correspondiente al 40% por concepto de alimentación (26 de julio de 2021).
 
-3. El Sr. Ministro tendrá derecho a pasajes con cargo al presupuesto del Ministerio de Relaciones Exteriores por el tramo Santiago - Washington - Seúl - Ciudad de México - Santiago.
+. Lima, Perú:
+
+US$ 185,30 por 2 días correspondiente al 40% por concepto de alimentación (27 y 28 de julio de 2021).
+
+En Lima no tendrá derecho al pago del 60% correspondiente al alojamiento con cargo a esta Secretaría de Estado, por cuando los costos asociados a dicho concepto serán de cargo del presupuesto de Giras Presidenciales.
+
+3. El Sr. Ministro tendrá derecho a pasajes con cargo al presupuesto del Ministerio de Relaciones Exteriores por el tramo Santiago - Washington - Seúl - Ciudad de México - Lima - Santiago.
 
 4. El Sr. Ministro continuará percibiendo su remuneración en moneda nacional.
 
@@ -48,13 +54,31 @@ Secretaría y Administración General y Servicio Exterior
 
 Viáticos 21 01 004
 
-US$ 5.098,92.-
+US$ 5.907,12.-
 
 Servicios Generales Pasajes y Fletes
 
-US$ 12.985.- 22 08 007
+US$ 12.500,84.- 22 08 007.
 
-Presupuesto de Mingab.
+2. Impútese el mayor gasto que irrogue la presente modificación al ítem que se indica del año presupuestario vigente.
+
+3. Abónese el menor gasto que irrogue la presente modificación al ítem que se indica del año presupuestario vigente.
+
+### 4. En todo lo demás rige plenamente el decreto Nº 76, de 2021
+
+PRESUPUESTO CORRIENTE EN MONEDA EXTRANJERA CONVERTIDA A DÓLARES DEL MINISTERIO DE RELACIONES EXTERIORES
+
+Secretaría y Administración General y Servicio Exterior
+
+Viáticos 21 01 004
+
+US$ 808,2.-
+
+Servicios Generales Pasajes y Fletes
+
+US$ -484,16.- 22 08 007
+
+Presupuesto de MINGAB.
 
 Regístrese, tómese razón, comuníquese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República de Chile.- Carolina Valdivia Torres, Ministra de Relaciones Exteriores (S).
 
