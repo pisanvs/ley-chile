@@ -358,6 +358,14 @@ mediante resolución del gobierno
 
 regional respectivo.
 
+#### Artículo 8 quáter
+
+Sin perjuicio de lo dispuesto en el artículo 8, las municipalidades podrán celebrar convenios con la Tesorería General de la República para que ésta efectúe el pago a proveedores de servicios concesionados de recolección de residuos sólidos domiciliarios, directamente con cargo a la recaudación de impuesto territorial de beneficio municipal correspondiente a la respectiva comuna y, en caso de ser insuficiente, con cargo a la participación mensual de la respectiva comuna en el fondo a que se refiere el artículo 38 del decreto ley N° 3.063, de 1979, sobre rentas municipales, cuyo texto refundido y sistematizado fue fijado por el decreto N° 2.385, de 1996, del Ministerio del Interior. La Tesorería General de la República deberá informar a la Subsecretaría de Desarrollo Regional y Administrativo dentro de los treinta días siguientes a la suscripción de dicho convenio.
+
+Con todo, en el caso de municipalidades que no hayan suscrito los convenios de conformidad con el inciso anterior, los proveedores de los servicios concesionados podrán solicitar a la Tesorería General de la República el pago de las facturas emitidas y no objetadas por parte del municipio, y que se encuentren impagas por un plazo mayor a treinta días contado desde su aceptación. La Tesorería General de la República deberá comunicar por oficio al municipio la solicitud de pago recibida, con el objeto de que éste pueda suscribir el convenio dentro del plazo de treinta días corridos contado desde la recepción del oficio. Si el municipio no suscribiere el convenio en dicho plazo, la Tesorería General de la República enviará los antecedentes al jefe de la unidad de control de la municipalidad respectiva, y será aplicable lo dispuesto en el inciso segundo del artículo 81. De esta forma, los proveedores recibirán el pago con cargo a los montos pendientes de distribuir para la respectiva municipalidad, según lo señalado en el inciso precedente, con prioridad según la fecha de presentación de la solicitud. En caso de no alcanzar los fondos para pagar el total de las facturas adeudadas, éstas quedarán pendientes para ser pagadas con prioridad al mes siguiente, y así sucesivamente. En ningún caso podrá imputarse responsabilidad alguna al Fisco sobre pagos municipales pendientes.
+
+Las municipalidades podrán subrogarse en los proveedores de servicios concesionados de recolección de residuos sólidos domiciliarios, en aquellos casos en que, por cualquier razón, éstos tuvieren deudas con trabajadores por prestaciones laborales o previsionales impagas.
+
 #### Artículo 9º
 
 Las municipalidades deberán actuar, en todo caso, dentro del marco de los planes nacionales y regionales que regulen la respectiva actividad.
@@ -692,7 +700,9 @@ b) Asesorar al alcalde en la administración financiera de los bienes municipale
 
 5.- Controlar la gestión financiera de las empresas municipales;
 
-6.- Efectuar los pagos municipales, manejar la cuenta bancaria respectiva y rendir cuentas a la Contraloría General de la República, y
+6.- Efectuar los pagos municipales, manejar la cuenta bancaria respectiva y rendir cuentas a la Contraloría General de la República.
+
+Tratándose del pago a proveedores de servicios concesionados de recolección de residuos sólidos domiciliarios, se estará a lo dispuesto en el artículo 8 quáter.
 
 7.- Recaudar y percibir los ingresos municipales y fiscales que correspondan.
 
