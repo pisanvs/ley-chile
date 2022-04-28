@@ -1,0 +1,5 @@
+OTORGA EXCEPCIÓN DE CAMBIO DE SUJETO DEL IVA EN LA VENTA DE BERRIES Y OTORGA LA CALIDAD DE AGENTE RETENEDOR DEL IVA RESPECTO DE LAS COMPRAS DE BERRIES QUE A SU VEZ EFECTÚE A TERCEROS VENDEDORES
+
+La VII Dirección Regional Talca del SII, por resolución Ex. Nº 198, de fecha 29-03-2022, concede, a la contribuyente Comercializadora Mafles SpA, RUT Nº 76.222.522-0, a contar del día primero del mes siguiente de la fecha de esta publicación, la Excepción del régimen de Cambio de Sujeto de Derecho del Impuesto al Valor Agregado en la Venta de Berries y además se otorga la calidad de Agente Retenedor del Impuesto al Valor Agregado, respecto de las compras de berries que, a su vez, efectúe a terceros vendedores, de acuerdo a la facultad establecida en el dispositivo N° 12 de la resolución exenta SII N° 55 del 02/06/2015, modificada por la resolución exenta SII Nº 58 del 19/05/2006, de la Dirección Nacional.
+
+Talca, 29 de marzo de 2022.- Mario González Zúñiga, Director Regional.
