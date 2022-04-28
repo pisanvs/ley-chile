@@ -44,59 +44,101 @@ Ruta H-210, Cruce H-10 - Cruce H-30.
 
 Ruta H-27, Carretera Presidente Eduardo Frei Montalva (Carretera El Cobre), Cruce Ruta 5 - H-263.
 
+Ruta H-38, Cruce H-30 - Coinco - Cruce H-50 (Quinta de Tilcoco).
+
+Ruta H-40, Cruce Ruta 5 - Olivar - Cruce H-38 (Coinco).
+
+Ruta H-50, Cruce Ruta 5 (Rosario) - Plaza Quinta de Tilcoco.
+
+Ruta H-56, Cruce Ruta 66 (San Vicente) Guacarhue Cruce H-60 (Quinta de Tilcoco).
+
+Ruta H-60, Cruce Ruta 5 (Rengo) - Cruce H-50 (Quinta de Tilcoco).
+
+Ruta H-790, Cruce Ruta 66 (El Carmen) - Las Balsas Cruce Ruta 66 (El Manzano).
+
 3º Declárense caminos públicos en las áreas urbanas de las siguientes capitales de provincia, dando continuidad a las rutas antes indicadas, a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 RANCAGUA:
 
-* El tramo urbano de la Ruta 5, Longitudinal Sur,
+* El tramo urbano de la Ruta 5,
 
-desde el límite urbano Norte hasta el límite
+Longitudinal Sur, desde el
 
-urbano Sur, a través de Carretera Longitudinal
+límite urbano Norte hasta
 
-5 Sur.
+el límite urbano Sur, a
 
-* El tramo urbano de la Ruta H-30, desde el límite
+través de Carretera
 
-urbano Oriente hasta su intersección con la
+Longitudinal 5 Sur.
 
-Carretera Longitudinal 5 Sur, a través de Río
+* El tramo urbano de la
 
-Loco, Costanera Norte Río Cachapoal.
+Ruta H-30, desde el límite
 
-* El sistema vial denominado Camino Longitudinal
+urbano Oriente hasta su
 
-Antiguo, desde límite urbano norte hasta límite
+intersección con la
 
-urbano suroriente.
+Carretera Longitudinal
+
+5 Sur, a través de Río
+
+Loco, Costanera
+
+Norte Río Cachapoal.
+
+* El sistema vial denominado
+
+Camino Longitudinal Antiguo,
+
+desde límite urbano norte
+
+hasta límite urbano suroriente.
 
 PICHILEMU:
 
-* El tramo urbano del nuevo trazado propuesto para
+* El tramo urbano del nuevo
 
-la Ruta I-500, Pichilemu-Cahuil, desde el
+trazado propuesto para
 
-límite urbano Norte hasta el límite urbano
+la Ruta I-500, Pichilemu-Cahuil,
 
-Sur, a través de Ruta Costera Propuesta (MOP).
+desde el límite urbano Norte
+
+hasta el límite urbano
+
+Sur, a través de Ruta Costera
+
+Propuesta (MOP).
 
 SAN FERNANDO:
 
-* El tramo urbano de la Ruta 5, Longitudinal Sur,
+* El tramo urbano de la Ruta 5,
 
-desde el límite urbano Norte hasta el límite
+Longitudinal Sur, desde el
 
-urbano Sur, a través de Ruta 5 Sur, incluyendo
+límite urbano Norte hasta
 
-el desnivel que la interconecta con la Ruta I-
+el límite urbano Sur, a través
 
-50 San Fernando - Pichilemu.
+de Ruta 5 Sur, incluyendo
 
-* El tramo urbano de la Ruta I-50 San Fernando -
+el desnivel que la interconecta
 
-Pichilemu, desde el desnivel que la
+con la Ruta I-50
 
-interconecta con la Ruta 5, Longitudinal Sur,
+San Fernando - Pichilemu.
+
+* El tramo urbano de la Ruta
+
+I-50 San Fernando -
+
+Pichilemu, desde el desnivel
+
+que la interconecta
+
+con la Ruta 5, Longitudinal Sur,
 
 hasta el límite urbano Sur.
 
@@ -104,81 +146,163 @@ hasta el límite urbano Sur.
 
 BUCALEMU:
 
-* La interconexión vial de la Ruta I-502, Cahuil -
+* La interconexión vial de
 
-Bucalemu con la Ruta I-72, Cruce Ruta I-50
+la Ruta I-502, Cahuil -
 
-(Paniahue) - Santa Cruz - Bucalemu, desde el
+Bucalemu con la Ruta I-72,
 
-límite urbano Norte hasta el límite urbano
+Cruce Ruta I-50 (Paniahue)
 
-Poniente, a través de Camino a Cahuil, Av.
+- Santa Cruz - Bucalemu,
 
-Caledonio Pastenes y Camino a Paredones.
+desde el límite urbano
+
+Norte hasta el límite urbano
+
+Poniente, a través de
+
+Camino a Cahuil, Av.
+
+Caledonio Pastenes
+
+y Camino a Paredones.
 
 PERALILLO:
 
-* El tramo urbano de la Ruta I-50 San Fernando -
+* El tramo urbano de la
 
-Pichilemu, desde el límite urbano Nororiente
+Ruta I-50 San Fernando -
 
-hasta el límite urbano Surponiente, a través
+Pichilemu, desde el límite
 
-de calle Javier Errázuriz y calle Caupolicán.
+urbano Nororiente hasta
+
+el límite urbano Surponiente,
+
+a través de calle Javier
+
+Errázuriz y calle Caupolicán.
 
 PUMANQUE:
 
-* El tramo urbano de la Ruta I-60, Cruce Ruta
+* El tramo urbano de la Ruta
 
-90 (Ex Ruta I-50 - Población) - Cruce Ruta
+I-60, Cruce Ruta 90 (Ex Ruta
 
-I-72 (La Quesería), desde el límite urbano
+I-50 - Población) - Cruce Ruta
 
-norte al límite urbano sur, a través del
+I-72 (La Quesería), desde
 
-sistema vial urbano de las calles Av. Cura
+el límite urbano norte
 
-Cornejo, Av. Rosario, calle Luis Barahona,
+al límite urbano sur, a
 
-Av. Manuel Rodríguez, Av. Bernardo O'Higgins
+través del sistema vial
+
+urbano de las calles Av.
+
+Cura Cornejo, Av. Rosario,
+
+calle Luis Barahona,
+
+Av. Manuel Rodríguez, Av.
+
+Bernardo O'Higgins
 
 y Av. 11 de Septiembre.
 
 Mostazal:
 
-* El sistema vial que interconecta la Ruta 5
+* El sistema vial
 
-con la Ruta H-10, a través de: Fundo Peuco
+que interconecta la Ruta 5
 
-y Avenida Independencia, hasta el límite
+con la Ruta H-10, a través
+
+de: Fundo Peuco y Avenida
+
+Independencia, hasta el límite
 
 urbano sur.
 
 Graneros:
 
-* El tramo urbano de la Ruta H-10, desde límite
+* El tramo urbano de la Ruta
 
-urbano norte hasta el límite urbano sur, a
+H-10, desde límite urbano
 
-través de Camino Longitudinal Antiguo.
+norte hasta el límite
+
+urbano sur, a través de
+
+Camino Longitudinal Antiguo.
 
 REQUÍNOA
 
-. El sistema vial urbano que interconecta
+. El sistema vial urbano que
 
-la Ruta 5 con la Ruta H-410
+interconecta la
 
-(Rol propuesto), a través de: Calle
+Ruta 5 con la Ruta H-410
 
-sin nombre (conocida como Los Lirios),
+(Rol propuesto), a través
 
-Manuel Rodríguez (H-406) y Conexión
+de: Calle sin nombre
 
-Propuesta (calle sin nombre).
+(conocida como Los Lirios),
+
+Manuel Rodríguez (H-406)
+
+y Conexión Propuesta
+
+(calle sin nombre).
 
 SANTA CRUZ:
 
 . Sistema Vial que interconecta las rutas I-72, I-86 y 90, a través de Rafael Casanova, Avda. Ramón Sanfurgo, Bernardo O'Higgins, J.J. Carvacho, Avda. Circunvalación y By Pass Santa Cruz proyectados.
+
+. Coinco (Cruz de Chillehue):
+
+El sistema vial urbano que interconecta las rutas H-38, H-40 y H-590. Desde el límite urbano norte, a través de: Camino a Doñihue, Camino Copequén, Bernardo O'Higgins, Francisco Díaz Muñoz, Camino a Chillehue y Camino a la Viña y Los Ajos.
+
+. Coinco (Copequén):
+
+El tramo urbano de la Ruta H-40. Desde el límite urbano norponiente hasta el límite urbano oriente, a través de Regidor Heriberto Alvear, Calle a la Isla y Calle El Arenal.
+
+. Las Cabras:
+
+El sistema vial urbano que interconecta el camino H-790 desde límite urbano Nororiente hasta límite urbano Suroriente comenzando y terminando en Ruta 66, pasando por las calles Avenida Estadio, Avenida El Estero, Avenida Las Balsas y Avenida Llallauquén.
+
+. Olivar:
+
+Tramo urbano de camino H-40 Localidad de Olivar Alto: entre límite urbano Oriente y límite urbano Poniente, pasando por Av. Bernardo O'Higgins.
+
+Tramo urbano de camino H-40 Localidad de Olivar Bajo: entre límite urbano Oriente y límite urbano Poniente, pasando por Av. Bernardo O'Higgins.
+
+. Quinta de Tilcoco (Guacarhue):
+
+El tramo urbano de la Ruta H-56, desde el límite urbano norponiente hasta el límite urbano suroriente, a través de Calle Cardenal José María Caro.
+
+. Quinta de Tilcoco:
+
+El sistema vial urbano que interconecta la Ruta H-50 con la Ruta H-60, a través de Av. Tomás Argomedo.
+
+El sistema vial urbano que interconecta la Ruta H-56 con Av. Tomás Argomedo, a través de El Arenal.
+
+El sistema vial urbano que interconecta la Ruta H-38 con Av. Tomás Argomedo, a través de Las Hijuelas.
+
+. Rengo:
+
+El sistema vial urbano que interconecta la Ruta H-60 con la Ruta 5, a través de Av. Riquelme.
+
+. Rengo (Esmeralda):
+
+El tramo urbano del camino H-50, a través de Ruta H-50, Camino a Rosario Quinta de Tilcoco.
+
+. Rengo (Rosario):
+
+El sistema vial urbano que interconecta la Ruta H-50 con la Ruta 5, a través de Camino a Quinta de Tilcoco.
 
 5º Las calles o avenidas declaradas caminos públicos en el presente decreto sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
