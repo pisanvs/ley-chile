@@ -30,7 +30,7 @@ b) Los correos electrónicos de fecha 4 y 9 de marzo de 2022, que dan cuenta de 
 
 Resolución:
 
-1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado. En tal sentido, se efectuarán procesos de selección en cada cierre, con los proyectos calificados para dichos efectos hasta los días 5 de mayo, 5 de julio, 28 de julio, 30 de agosto, 27 de octubre y 15 de diciembre, todos de 2022, o hasta agotar la totalidad de los recursos dispuestos para cada región, provincia o comuna convocada, según corresponda.
+1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado. En tal sentido, se efectuarán procesos de selección en cada cierre, con los proyectos calificados para dichos efectos hasta los días 5 de mayo, 25 de agosto y 15 de diciembre, todos de 2022, o hasta agotar la totalidad de los recursos dispuestos para cada región, provincia o comuna convocada, según corresponda.
 
 Para participar de cada cierre, además de contar con el Certificado de Calificación respectivo, se requerirá haber ingresado el proyecto al Serviu, a lo menos 30 días hábiles antes de cada fecha indicada en el inciso anterior, lo que constará en el respectivo Certificado de Proyecto Ingresado.
 
