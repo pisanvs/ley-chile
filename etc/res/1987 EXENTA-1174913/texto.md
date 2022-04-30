@@ -40,4 +40,4 @@ Establézcase el calendario de los períodos de inscripción, aplicación, cierr
 
 Archívese copia del presente acto administrativo conjuntamente con la resolución exenta Nº 294, de 2022, de la Subsecretaría de Educación Superior.
 
-Anótese, archívese, notifíquese y publíquese en la página web del Ministerio de Educación y en el Diario Oficial con cargo al Ministerio de Educación.- Mónica Figueroa Huencho, Subsecretaria de Educación Superior.
+Anótese, archívese, notifíquese y publíquese en la página web del Ministerio de Educación y en el Diario Oficial con cargo al Ministerio de Educación. Verónica Figueroa Huencho, Subsecretaria de Educación Superior.
