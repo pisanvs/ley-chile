@@ -1174,7 +1174,7 @@ En estas normas y en su aplicación deberá otorgarse especial prioridad a los n
 
 #### Artículo 69
 
-Los contribuyentes que de acuerdo con las normas generales de la Ley sobre Impuesto a la Renta, declaren sus rentas efectivas, determinadas mediante contabilidad completa y tributen conforme a las normas del impuesto de primera categoría así como también los contribuyentes del Impuesto Global Complementario, que declaren igual tipo de rentas, podrán descontar de sus respectivos impuestos las sumas donadas a Universidades e Institutos Profesionales estatales y particulares reconocidos por el Estado, siempre que éstas se encuentren comprendidas en la declaración respectiva.
+Los contribuyentes que de acuerdo con las normas generales de la Ley sobre Impuesto a la Renta, declaren sus rentas efectivas, determinadas mediante contabilidad completa y tributen conforme a las normas del impuesto de primera categoría así como también los contribuyentes del Impuesto Global Complementario, que declaren igual tipo de rentas, podrán descontar de sus respectivos impuestos las sumas donadas a Universidades, Institutos Profesionales y Centros de Formación Técnica estatales y particulares reconocidos por el Estado, siempre que éstas se encuentren comprendidas en la declaración respectiva.
 
 No obstante lo anterior, las empresas donde el Estado, sus empresas y organismos, tengan una participación igual o superior al 50%, no podrán acogerse a los beneficios que establece este artículo.
 
