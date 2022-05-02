@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 539, del 22 de abril de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambaly 755, comuna de Chillán, Rol de Avalúo N° 001797-00002, de aparente dominio de Pinilla Campos Gladys del Pilar y O. La parte afecta a expropiación total de terreno es de 210,61 m2 y total de edificación de 118,4 cuyos linderos particulares, enmarcados en el plano S16R-084, para el proyecto "Mejoramiento Avenida Huambaly, comuna de Chillán Región de Ñuble", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, la Ingeniero Constructor Lorena Elizabeth Gajardo Alarcón, y por el Arquitecto Industrial don Rodrigo Alexis Escobar Fernández; que fijó el monto de la indemnización provisional por la expropiación, en la suma de $94.946.615.-
+
+Director Serviu Región de Ñuble.
