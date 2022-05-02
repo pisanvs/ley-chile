@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 310, de fecha 17 de agosto de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Nancy Alejandra Gahona Rivera, RUT Nº 15.028.972-6, Concesión Marítima Menor con uso de mejora fiscal, con vencimiento el 30 de junio de 2026, sobre un sector de Terreno de Playa en el lugar denominado Flamenco, comuna de Chañaral, Provincia de Chañaral, Región de Atacama, con una superficie total de 290 m2, la que fue tramitada con el SIABC Nº 46.200. A modo referencial se señalan las siguientes coordenadas geográficas: Vértice A: Lat. 26º33'15.92"S Long. 70º40'55.95"W y Vértice D: Lat. 26º33'16.61"S Long. 70º40'55.75"W. El objeto consiste en destinar la construcción existente a casa de veraneo familiar. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Chañaral, 28 de marzo de 2022.- Nicolás Soto Contreras, Teniente 1º LT, Capitán de Puerto de Chañaral.
