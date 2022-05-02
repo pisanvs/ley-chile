@@ -1,0 +1,7 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 486, de 29 de noviembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Camilo Vega Pérez de Arce, RUN 19.738.941-9, concesión marítima menor, con vencimiento el 31 de diciembre de 2026, sobre un sector de terreno de playa y uso de mejora fiscal, en el lugar denominado Las Hualtatas, comuna de Huasco, Provincia de Huasco, Región de Atacama, con una superficie total de 1.173,56 m2, la que fue tramitada con el SIABC N°46059. A modo referencial se señala(n) la(s) siguiente(s) coordenada(s) geográfica(s):
+
+El objeto consiste en facilitar el uso y goce de una mejora fiscal de 54 m2, como vivienda para ser utilizada en temporada de vacaciones y fines de semana y el resto de la superficie será utilizada para uso recreacional y de esparcimiento familiar. Las obras consisten en una construcción de estructura soportante de madera, emplazada sobre palafitos, de diseño sencillo y económico, en buen estado de conservación y el plazo contemplado para su ejecución es de 3 meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Huasco. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Gonzalo Barría Sepúlveda, Teniente 1° LT, Capitán de Puerto de Huasco.
