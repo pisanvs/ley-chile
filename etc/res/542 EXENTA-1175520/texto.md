@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 542, del 22 de abril de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Los Nogales 14, comuna de Chillán, Rol de Avalúo N° 00507-00009, de aparente dominio de Fuentes Ortega Floripa de las Merce. La parte afecta a expropiación parcial de terreno es de 40,13 m2, cuyos linderos particulares, enmarcados en el plano S16R-171, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, comuna de Chillán Región de Ñuble", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por la Arquitecto doña Priscilla Andrea Encalada Rueda, Arquitecto doña Cecilia María Carrasco Verdugo y por el Constructor Civil don Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $27.305.624.-
+
+Director Serviu Región de Ñuble.
