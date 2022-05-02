@@ -1,0 +1,7 @@
+RENOVACIÓN DE DESTINACIÓN MARÍTIMA
+
+Decreto supremo Nº 729, de fecha 27 de octubre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, para el Servicio Nacional de Pesca, Rut. Nº 60.701.002-1, Primera Renovación de Destinación Marítima, con vencimiento el 31 de diciembre de 2036, sobre un sector de fondo de mar y porción de agua, en el lugar denominado La Arena Sector B, comuna de Hualaihué, Provincia de Palena, Región de Los Lagos, con una superficie total de 35.833,72 m², la que fue tramitada con el SIABC Nº 40.321. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en los sectores otorgados, es continuar amparando un área de manejo y explotación de los recursos bentónicos, según lo establecido en el Título IV, Párrafo 3º, Art. 55 A, de la Ley Nº 18.892, Ley General de Pesca y Acuicultura, y sus modificaciones, y el DS Nº 355, del 12 de junio de 1995, del Ministerio de Economía, Fomento y Reconstrucción, Reglamento sobre Áreas de Manejo y Explotación de Recursos Bentónicos. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Río Negro Hornopirén. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Marcelo Vega Contreras, Suboficial L. (Seg.M.), Capitán de Puerto de Río Negro Hornopirén.
