@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 540, del 22 de abril de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambaly 707, comuna de Chillán, Rol de Avalúo N° 001766-00002, de aparente dominio de Ortega Villalobos María. La parte afecta a expropiación parcial de terreno es de 28,18 m2, cuyos linderos particulares, enmarcados en el plano S16R-168, para el proyecto "Mejoramiento Avenida Huambaly, comuna de Chillán Región de Ñuble", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, Constructor Civil don Italo Renzo Zerga Arancibia y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $8.302.854.-
+
+Director Serviu Región de Ñuble.
