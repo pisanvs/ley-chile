@@ -1,0 +1,9 @@
+ADJUDICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "ENEL GREEN POWER CHILE S.A."
+
+Mediante decreto exento N° 136, de 14 de abril de 2022, el Ministerio de Bienes Nacionales adjudicó en propuesta pública a "Enel Green Power Chile S.A.", RUT N° 76.412.562-2, la concesión onerosa del inmueble fiscal denominado "Sector Laberinto", ubicado en el Sector Subestación Laberinto, aproximadamente a 200 metros al norte de la Subestación Laberinto, comuna de Sierra Gorda, provincia de Antofagasta, Región de Antofagasta, compuesto por los Lotes A, B y C; enrolados en el Servicio de Impuestos Internos bajo los roles N° 6202-1, 6202-2 y 6202-3, respectivamente; amparado por las inscripciones globales a nombre del Fisco que rolan a fs. 1381 N° 1640, del Registro de Propiedad correspondiente al año 1982, para el Lote A, y a fs. 1640 N° 2575-A, del Registro de Propiedad correspondiente al año 1990, ambas del Conservador de Bienes Raíces de Antofagasta; singularizados en el Plano N° 02103-9.326-C.R.; con una superficie total de 2.180,66 ha. La Concesión se otorga por un plazo de 40 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión para el Periodo de Estudios y de Construcción será de UF 62.879; y para el Periodo de Operación será la misma antes señalada, más la Renta Variable Anual aplicable.
+
+La Concesión se otorga para desarrollar un proyecto de energía renovable (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+María José Armisén Yáñez, Jefa de División Jurídica.
