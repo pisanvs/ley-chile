@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 80, de 30 de marzo de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c) y 14° letra e) del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206 de 1960; artículo 10 de la ley N° 18.772, se expropió para la EMPRESA DE TRANSPORTE DE PASAJEROS METRO S.A., el lote de terreno N° 201L6, para la obra: PROYECTO LÍNEA 6 LAS CONDES - CERRILLOS SECTOR: AV. SALVADOR ALLENDE - AV. SUIZA, que figura a nombre de INMOB. E INVERS. LO ERRÁZURIZ LTDA., rol de avalúo 601-4, Comuna de CERRILLOS, REGIÓN METROPOLITANA DE SANTIAGO, superficie 311 m2. La Comisión de Peritos integrada por CARLOS ALBERTO MONTECINOS GALLEGUILLOS, VICTORIA ADRIANA BLANCO COSTA e ITSANG LU CHEN, mediante informe de tasación de 08 de julio de 2019, fijó el monto de la indemnización provisional en la cantidad de $17.416.000.- para el lote N° 201L6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2186, de 1978.
+
+Fiscalía MOP.
