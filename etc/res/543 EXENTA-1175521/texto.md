@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 543, del 22 de abril de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Alonso de Ercilla 1745, Sarita Gajardo, comuna de Chillán, Rol de Avalúo N° 001606-00012, de aparente dominio de Leiva Sepúlveda Verónica Patricia. La parte afecta a expropiación parcial de terreno es de 27,57 m2, cuyos linderos particulares, enmarcados en el plano S16R-175, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, comuna de Chillán, Región de Ñuble", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por la Arquitecto doña Priscilla Andrea Encalada Rueda, Arquitecto doña Cecilia María Carrasco Verdugo y por el Constructor Civil don Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $6.699.089-
+
+Director Serviu Región de Ñuble.
