@@ -1,0 +1,7 @@
+DESTINACIÓN MARÍTIMA
+
+Decreto supremo Nº 645 de fecha 14 de septiembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, para el Servicio Nacional de Pesca, RUT Nº 60.701.002-1, Destinación Marítima con vencimiento el 30 de junio de 2036, sobre un sector de Fondo de Mar y porción de Agua, en el lugar denominado El Cisne, comuna de Hualaihué, Provincia de Palena, Región de Los Lagos, con una superficie total de 10.570.000 m², la que fue tramitada con el SIABC Nº 38.206. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en Operar un área de manejo y permitir la explotación de los recursos bentónicos existentes en el lugar, según lo establecido en el Título IV, Párrafo 3º, Art. 55 A, de la ley Nº 18.892, Ley General de Pesca y Acuicultura y sus Modificaciones, y el DS Nº 355, del 12 de junio de 1995, del Ministerio de Economía, Fomento y Reconstrucción, Reglamento sobre Área de Manejo y Explotación de Recursos Bentónicos. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Río Negro Hornopirén. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Marcelo Vega Contreras, Suboficial L. (Seg.M.), Capitán de Puerto de Río Negro Hornopirén.
