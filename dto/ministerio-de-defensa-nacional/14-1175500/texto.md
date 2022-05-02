@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo de marina 14, de fecha 7 de enero de 2022, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se otorgó concesión marítima menor al señor Cristian Alejandro Salazar Díaz, RUT: 13.354.133-0, con vencimiento 31 de diciembre de 2026, sobre un sector de terreno de playa, en el lugar denominado Playa Los Gringos, comuna Constitución, Región del Maule, con una superficie de 310,21 metros². La que fue tramitada con el SIABC N° 37685. A modo referencial se señala la siguiente coordenada geográfica: Latitud 35° 19' 33,67" S, Longitud 72° 25' 34,31" W. El objeto de esta concesión marítima, sobre el sector otorgado, consistente en amparar la construcción de un restaurant. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Constitución. El presente extracto se encuentra visado por la autoridad marítima antes señalada.-
+
+Diego Aguilera Modrow, Capitán de Corbeta LT, Capitán de Puerto de Constitución.
