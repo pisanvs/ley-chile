@@ -1,0 +1,39 @@
+MODIFICA DECRETO SUPREMO Nº 14T, DE 2018, DEL MINISTERIO DE ENERGÍA, QUE FIJA DERECHOS Y CONDICIONES DE EJECUCIÓN Y EXPLOTACIÓN DE LA OBRA NUEVA DENOMINADA: "NUEVA S/E SECCIONADORA ALGARROBAL 220 KV", PERTENECIENTE AL SISTEMA DE TRANSMISIÓN NACIONAL A LA EMPRESA ADJUDICATARIA QUE INDICA
+
+Núm. 13T.- Santiago, 17 de noviembre de 2021.
+
+Vistos:
+
+Lo dispuesto en la Ley Nº 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado, en adelante e indistintamente "Ley Nº 19.880" o "LBPA"; en el decreto ley Nº 2.224, de 1978, del Ministerio de Minería, que crea el Ministerio de Energía y la Comisión Nacional de Energía; en el decreto con fuerza de ley Nº 4/20.018, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 1, de Minería, de 1982, Ley General de Servicios Eléctricos, en materia de energía eléctrica, en adelante e indistintamente "Ley General de Servicios Eléctricos" o "LGSE"; en el decreto exento Nº 422, de 2017, modificado por el decreto exento Nº 23, de 2018, ambos del Ministerio de Energía, que fija Plan de Expansión del Sistema de Transmisión Nacional para los doce meses siguientes, en adelante e indistintamente el "Decreto Nº 422/2017"; en la resolución exenta Nº 518, de 2017, modificada por las resoluciones exentas Nº 720, de 2017, Nº 56 y Nº 158, ambas de 2018, todas de la Comisión Nacional de Energía, en adelante e indistintamente "CNE", que aprueba las bases de licitación de las obras nuevas contempladas en el decreto Nº 422/2017, en adelante e indistintamente las "Bases" o las "Bases de Licitación"; en el decreto supremo Nº 14T, de 2018, del Ministerio de Energía, que fija derechos y condiciones de ejecución y explotación de la obra nueva denominada: "Nueva S/E Seccionadora Algarrobal 220 kV", perteneciente al Sistema de Transmisión Nacional a la empresa adjudicataria que indica, en adelante e indistintamente el "Decreto Nº 14T/2018"; en el decreto exento Nº 157, de 2019, del Ministerio de Energía; en la resolución ministerial exenta Nº 51, de 2021, del Ministerio de Energía, que acoge solicitud de ampliación de plazo, por motivos de fuerza mayor o caso fortuito, respecto del Hito Relevante Nº 5 de la obra nueva "Nueva S/E Seccionadora Algarrobal 220 kV", en adelante e indistintamente la "Resolución Exenta Nº 51/2021"; en la resolución Nº 7, de 2019, de la Contraloría General de la República; y
+
+Considerando:
+
+1. Que, de acuerdo con lo dispuesto en los artículos 99 y siguientes de la Ley General de Servicios Eléctricos, en su texto vigente antes de la dictación de la Ley Nº 20.936, esta Secretaría de Estado, mediante el decreto exento Nº 422/2017, fijó el Plan de Expansión del Sistema de Transmisión Nacional para el período 2016-2017, contemplando en el número 1.1, del artículo segundo, la obra nueva denominada "Nueva Subestación Seccionadora Algarrobal 220 kV", en adelante e indistintamente la "Obra" o el "Proyecto".
+
+2. Que, de acuerdo con lo establecido en el artículo 96º de la LGSE, en su texto vigente antes de la dictación de la Ley Nº 20.936, el Coordinador Independiente del Sistema Eléctrico Nacional, en adelante el "Coordinador", efectuó el proceso de licitación pública internacional del Proyecto, conforme a los plazos y términos fijados en el decreto Nº 422/2017 y en las Bases de Licitación.
+
+3. Que, a través del decreto Nº 14T/2018, publicado en el Diario Oficial con fecha 30 de noviembre de 2018, esta Secretaría de Estado fijó a Engie Energía Chile S.A., los derechos de ejecución y explotación de la Obra, fijando asimismo las condiciones y términos para su ejecución y explotación.
+
+4. Que, por medio de instrumento privado de 12 de diciembre de 2018, Engie Energía Chile S.A. cedió y transfirió a Edelnor Transmisión S.A. los derechos de ejecución y explotación de la Obra contenidos en el decreto Nº 14T/2018, quien aceptó la posición del cedente para todos los efectos legales y se obligó a cumplir con todas las obligaciones que se deriven para Engie Energía Chile S.A. de dicho decreto, del proceso de licitación de la Obra, los contenidos de la propuesta y de las normas aplicables pertinentes.
+
+5. Que, considerando la cesión de derechos referida en el considerando precedente, mediante decreto exento Nº 157, de 2019, del Ministerio de Energía, publicado en el Diario Oficial de 8 de agosto de 2019, se cambió la titularidad de la empresa adjudicataria de los derechos de ejecución y explotación de la Obra, reemplazando a Engie Energía Chile S.A. por Edelnor Transmisión S.A.
+
+6. Que, las condiciones y términos para la correcta ejecución del Proyecto, se encuentran específicamente contenidos en el imperativo 3º, numeral 1, del decreto Nº 14T/2018, el que estableció los siguientes Hitos Relevantes del Proyecto: (a) Hito Relevante Nº 1: "Estudio que determina las especificaciones de detalle del Proyecto" (en adelante "Hito Nº 1"); (b) Hito Relevante Nº 2: "Emisión de las órdenes de Compra de Suministros, Obtención de la Resolución de Calificación Ambiental, Permisos Sectoriales y Seguros Contratados" (en adelante "Hito Nº 2"); (c) Hito Relevante Nº 3: "Construcción de las fundaciones" (en adelante "Hito Nº 3"); (d) Hito Relevante Nº 4: "Prueba de Equipos" (en adelante "Hito Nº 4"); y, (e) Hito Relevante Nº 5: "Fin del período de Puesta en Servicio" (en adelante "Hito Nº 5"). Asimismo, se indicó que el Hito Nº 5 deberá cumplirse dentro de los 24 meses siguientes, contados desde la publicación del decreto Nº 14T/2018 en el Diario Oficial.
+
+7. Que, en mérito de lo señalado en el considerando anterior, el cumplimiento del Hito Nº 5 debía verificarse a más tardar el 30 de noviembre de 2020.
+
+8. Que, Edelnor Transmisión S.A. solicitó a este Ministerio declarar que han ocurrido hechos constitutivos de fuerza mayor o caso fortuito que habrían impactado la ejecución del Proyecto y el cumplimiento del Hito Nº 5 previsto en el decreto Nº 14T/2018, retraso que le sería inimputable, y en mérito del cual solicitó una prórroga de 224 días corridos, ello conforme a los antecedentes de hecho y fundamentos de derecho que expuso en su oportunidad.
+
+9. Que, mediante resolución exenta Nº 51/2021, esta Secretaría de Estado acogió la solicitud de Edelnor Transmisión S.A., declarando la concurrencia de la fuerza mayor o caso fortuito por un plazo de 224 días corridos que habrían afectado el cumplimiento del Hito Relevante Nº 5 de la obra nueva "Nueva Subestación Seccionadora Algarrobal 220 kV".
+
+10. Que, en razón de lo expuesto anteriormente, corresponde modificar el decreto Nº 14T/2018, en el sentido de prorrogar en 224 días corridos el plazo previsto para el cumplimiento del Hito Nº 5 del Proyecto.
+
+Decreto:
+
+Primero: Modifícase el plazo de cumplimiento del Hito Relevante Nº 5 del Proyecto "Nueva S/E Seccionadora Algarrobal 220 kV", establecido en el párrafo final del literal e) del numeral 1. del imperativo 3º y el plazo indicado en el párrafo primero del imperativo 5º, todos del decreto Nº 14T/2018, en el sentido de prorrogar en 224 días corridos la fecha de cumplimiento del referido hito, de forma tal que en definitiva éste deberá cumplirse a más tardar el 12 de julio de 2021.
+
+Segundo: En todo lo no modificado expresamente por el presente acto administrativo, se mantienen íntegramente vigentes e inalteradas todas y cada una de las disposiciones del decreto Nº 14T/2018, del Ministerio de Energía.
+
+Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Juan Carlos Jobet Eluchans, Ministro de Energía.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., María Fernanda Riveros Inostroza, Jefa División Jurídica, Subsecretaría de Energía.
