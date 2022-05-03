@@ -1,0 +1,7 @@
+NOTIFICA RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL PARQUE FOTOVOLTAICO SAN RAMÓN
+
+De conformidad con lo dispuesto en el artículo 91 del DS N°40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica a las personas naturales y jurídicas que presentaron observaciones conforme a lo establecido en el artículo 30 bis de la Ley N° 19.300 durante el proceso de participación ciudadana de la Declaración de Impacto Ambiental "Parque Fotovoltaico San Ramón", sometido al Sistema de Evaluación Ambiental por su titular, San Ramón Solar SpA, que por resolución exenta N°202213001233, de fecha 18 de abril de 2022, la Comisión de Evaluación de la Región Metropolitana, calificó favorablemente el proyecto singularizado. Estas personas naturales y jurídicas disponen de 30 días hábiles, contados desde la presente notificación, para presentar recurso de reclamación ante el Director Ejecutivo, de conformidad a lo dispuesto en los artículos 20 y 30 bis de la Ley N°19.300 sobre Bases Generales del Medio Ambiente.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en el sitio web: www.sea.gob.cl o en el siguiente enlace: https://validador.sea.gob.cl/validar/2155567950.-
+
+Arturo Farías Alcaíno, Director (S) Regional, Servicio de Evaluación Ambiental, Secretario Comisión de Evaluación Región Metropolitana de Santiago.
