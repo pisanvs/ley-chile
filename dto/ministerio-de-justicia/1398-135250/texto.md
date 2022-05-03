@@ -18,13 +18,13 @@ C) Centro Penitenciario Femenino (CPF);
 
 D) Unidad Especial de Alta Seguridad (UEAS);
 
-E) Unidad de Cuidados Especiales (UCE);
+E) Suprimido;
 
-F) Centro Penitenciario de Menores (CPM);
+F) Suprimido;
 
 G) Centro de Educación y Trabajo (CET);
 
-H) Centro Abierto (CA).
+H) Suprimido.
 
 > **Nota.** El DTO 486, Justicia, publicado el 11.08.2005, modifica la presente norma, en el sentido que a contar de esta fecha se denominará: "Centro de Educación y Trabajo Camino La Pólvora, con domicilio el ubicado en Camino La Pólvora Nº 665, Cerro Florida, Valparaíso, y operará con el RUT Nº 61.969.000-1.
 
