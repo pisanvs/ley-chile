@@ -84,7 +84,7 @@ a.- Categoría Todo Competidor o Absoluta, para los efectos de la presente Resol
 
 b.- Categoría Juvenil, para los efectos de la presente Resolución Complementaria, corresponde a aquellas competiciones de deporte convencional o deporte paralímpico, de categoría inmediatamente anterior a la Categoría Todo Competidor.
 
-Sin perjuicio de la categoría y monto que les asigne esta resolución, los logros obtenidos por deportistas juveniles en su último año de en competición en dicha categoría, tendrán una vigencia de dos años a partir de la fecha del logro, en el Sistema de Becas.
+Sin perjuicio de la categoría y monto que les asigne esta resolución, los logros obtenidos por deportistas juveniles en su último año de competición en dicha categoría, tendrán en el Sistema de Becas una vigencia de dos años a partir de la fecha del logro. Lo anterior, siempre y cuando la modalidad deportiva en la cual compite el o la deportista, no sea una categoría transitoria de aquellas señaladas en el Anexo IV de esta resolución.
 
 #### Artículo 6
 
@@ -132,11 +132,15 @@ Requisitos específicos para Modalidades Individuales en Deporte Convencional.
 
 Requisitos específicos que deben cumplir los logros en Modalidades Individuales Convencionales, del Ciclo Olímpico de verano o invierno, en categoría Todo Competidor y Juvenil, para el ingreso al Sistema de Becas:
 
+Tratándose de logros obtenidos en Campeonatos Mundiales que no cumplan con el requisito de cantidad mínima de países participantes exigidos en la prueba, previo informe de la Asesoría Técnica del Alto Rendimiento, se podrá autorizar el ingreso o permanencia, según corresponda, de un deportista al Sistema de Becas en virtud del mérito y proyección deportiva del logro obtenido.
+
 #### Artículo 11
 
 Requisitos específicos para Modalidades Colectivas en Deporte Convencional.
 
 Requisitos específicos que deben cumplir los logros en Modalidades Colectivas Convencionales, del Ciclo Olímpico de verano o invierno, en categoría Todo Competidor y Juvenil, para el ingreso al Sistema de Becas:
+
+Tratándose de logros obtenidos en Campeonatos Mundiales que no cumplan con el requisito de cantidad mínima de países participantes exigidos en la prueba, previo informe de la Asesoría Técnica del Alto Rendimiento, se podrá autorizar el ingreso o permanencia, según corresponda, de un deportista al Sistema de Becas en virtud del mérito y proyección deportiva del logro obtenido.
 
 #### Artículo 12
 
@@ -144,11 +148,15 @@ Requisitos específicos para Modalidades Individuales en Deporte Paralímpico.
 
 Requisitos específicos que deben cumplir los logros en Modalidades Individuales Paralímpicas, del Ciclo Paralímpico de verano o invierno, en categoría Todo Competidor y Juvenil, para el ingreso al Sistema de Becas:
 
+Tratándose de logros obtenidos en Campeonatos Mundiales que no cumplan con el requisito de cantidad mínima de países participantes exigidos en la prueba, previo informe de la Asesoría Técnica del Alto Rendimiento, se podrá autorizar el ingreso o permanencia, según corresponda, de un deportista al Sistema de Becas en virtud del mérito y proyección deportiva del logro obtenido.
+
 #### Artículo 13
 
 Requisitos específicos para Modalidades Colectivas en Deporte Paralímpico.
 
 Requisitos específicos que deben cumplir los logros en Modalidades Colectivas Paralímpicas, del Ciclo Paralímpico de verano o invierno, en categoría Todo Competidor y Juvenil, para el ingreso al Sistema de Becas:
+
+Tratándose de logros obtenidos en Campeonatos Mundiales que no cumplan con el requisito de cantidad mínima de países participantes exigidos en la prueba, previo informe de la Asesoría Técnica del Alto Rendimiento, se podrá autorizar el ingreso o permanencia, según corresponda, de un deportista al Sistema de Becas en virtud del mérito y proyección deportiva del logro obtenido.
 
 #### Artículo 14
 
@@ -300,6 +308,8 @@ Modalidad Priorizada en prueba no convocada en Mega Eventos del Ciclo Olímpico 
 
 Tabla aplicable exclusivamente a la modalidad priorizada por el Ministerio del Deporte.
 
+Para que los logros individualizados precedentemente habiliten el ingreso y permanencia en el Sistema de Becas, deberán ser obtenidos en competencias correspondientes a la categoría todo competidor.
+
 ### VII. DEL CUERPO TÉCNICO
 
 #### Artículo 23
@@ -331,6 +341,8 @@ En caso de ser aceptada la modificación, ésta tendrá efecto a partir del prim
 Requisitos que debe cumplir el Cuerpo Técnico.
 
 En el caso del Entrenador, deberá acreditar su formación profesional, técnica o federativa, nacional o internacional, y en el caso del preparador(a) físico(a), deberá contar con un título profesional o técnico de nivel superior, otorgado por una institución de educación superior del área de la actividad física y/o ciencias del deporte.
+
+No podrán ingresar al Sistema de Becas los entrenadores y preparadores físicos que se encuentren denunciados en aplicación del protocolo general para la prevención y sanción de conductas de acoso sexual, abuso sexual, discriminación y maltrato aprobado por decreto supremo Nº22 del año 2020 del Ministerio del Deporte.
 
 #### Artículo 26
 
