@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 135 EXENTA, DE 25 DE ENERO DE 2022
+
+Mediante resolución exenta N° 135, de fecha 25 de enero de 2022, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, se modificó la resolución exenta Nº 924, de 6 de julio de 2020, en el sentido de modificar su resuelvo Nº 1 que aprobó el programa de enseñanza conducente a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores Puerto Varas, cuyo propietario es la sociedad "Escuela de Conductores de Puerto Varas SpA", RUT 77.414.531-1, y cuyo representante legal es don Juan José Flores Uribe, RUT 11.431.034-4, siendo este último además su Director. Su sede está ubicada en calle La Paz N°940, en la comuna de Puerto Varas. Las horas pedagógicas autorizadas a la referida escuela son 8 teóricas y 12 prácticas, con un total de 20 horas pedagógicas.-
+
+Luis Américo Toledo Mora, Secretario Regional Ministerial de Transportes y Telecomunicaciones (S) Región de Los Lagos.
