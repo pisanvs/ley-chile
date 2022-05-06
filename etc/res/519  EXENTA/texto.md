@@ -1,0 +1,5 @@
+PUBLICACIÓN DE CIERRE DE CALLES EN LA REGIÓN DE LOS RÍOS
+
+De acuerdo con el formato y lo instruido por el Ministerio de Transportes y Telecomunicaciones, el Gobierno Regional de Los Ríos publica las resoluciones exentas mes de marzo Nos 1.356, 1.357, 1.432, 1.433, 1.442, 1.449, 1.450, 1.451, 1.452, 1.465, 1.471, 1.472, 1.478, 1.479, 1.480, 1.481, 1.482; mes de abril: N os 1.515 y 1.589, 1.530, 1.559, 1.560, 1.574, 1.598, 1.617, 1.627, 1.639, 1.660, 1.662, 1.663, 1.677, 1.678, 1.682, 1.698, 1.710, 1.712, 1.713, 1.714, 1.715, 1.717, 1.718, 1.720, 1.752-1.926, 1.753, 1.759, 1.769, 1.770, 1.787, 1.790, 1.794, 1.796, 1.808, 1.809-1.865, 1.817, 1.819, 1.870, 1.929, 1.928, 1.950 y 1.968; en las fechas descritas, prohibió la circulación de vehículos por las vías que se indican y por los motivos que se señalan en el siguiente cuadro:
+
+Luis Cuvertino Gómez, Gobernador Regional Los Ríos.
