@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN Nº 821 EXENTA, DE FECHA 23 DE DICIEMBRE DE 2021, QUE APRUEBA PLAN ANUAL DE FISCALIZACIÓN AÑO 2022, DE LA SUPERINTENDENCIA DE EDUCACIÓN, EN LOS TÉRMINOS QUE INDICA
+
+Con fecha 28 de abril de 2022, la Superintendencia de Educación dictó la resolución exenta Nº 295, que "Modifica resolución exenta Nº 821, de fecha 23 de diciembre de 2021, que Aprueba Plan Anual de Fiscalización año 2022, de la Superintendencia de Educación, en los términos que indica", la cual contiene las modificaciones a las instrucciones de planificación de las actividades de fiscalización para el año 2022 a los sostenedores de establecimientos educacionales reconocidos oficialmente y del nivel de educación parvularia que no cuentan con reconocimiento oficial o autorización de funcionamiento. La resolución referida comenzará a regir desde su publicación en extracto en el Diario Oficial y estará disponible íntegramente en la página web institucional www.supereduc.cl..-
+
+Rodrigo Cerda O., Jefe Departamento Fiscalización Procesos Educativos.
