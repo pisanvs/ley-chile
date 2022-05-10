@@ -28,11 +28,11 @@ Considerando:
 
 Resuelvo:
 
-1. Desígnase a la Sra. Loreto Neumann Santander, cédula nacional de identidad N° 13.284.354-6, Coordinadora Jurídica del Ministerio de Hacienda, en calidad de miembro titular del Comité para la Fijación de Límites a las Tasas de Intercambio.
+1. Desígnase al Sr. Juan Pablo Loyola Mellado, cédula nacional de identidad Nº 17.408.214-6, Asesor de la Coordinación de Mercado de Capitales del Ministerio de Hacienda, en calidad de miembro titular del Comité para la Fijación de Límites a las Tasas de Intercambio.
 
-2. Desígnase al Sr. Gonzalo Eduardo Arriaza Guíñez, cédula nacional de identidad N° 15.372.195-5, Asesor de la Coordinación de Mercado de Capitales del Ministerio de Hacienda, en calidad de miembro subrogante del Comité para la Fijación de Límites a las Tasas de Intercambio.
+2. Desígnase a la Sra. Daniela Buchuk Gómez, cédula nacional de identidad Nº 16.366.572-7, Asesora del Ministerio de Hacienda, en la Coordinación de Finanzas y Asuntos Internacionales, en calidad de miembro subrogante del Comité para la Fijación de Límites a las Tasas de Intercambio.
 
-3. Desígnase al Sr. Luis Alberto Ramón Marambio Mancilla, cédula nacional de identidad Nº 19.300.091-6, asesor de la Coordinación Jurídica del Ministerio de Hacienda, en calidad de secretario técnico del Comité para la Fijación de Límites a las Tasas de Intercambio. Sin perjuicio de lo anterior, y para casos excepcionales de ausencia o impedimento temporal, este será reemplazado, para la sesión respectiva, por otro funcionario del Ministerio de Hacienda, designado por el Coordinador de Mercado de Capitales del Ministerio de Hacienda por comunicación escrita a los integrantes del Comité en la cual se individualice a la persona reemplazante; o por acuerdo unánime de los miembros presentes en la sesión respectiva.
+3. Desígnase al Sr. Diego Veroiza Avello, cédula nacional de identidad Nº 19.729.618-6, Asesor de la Coordinación de Mercado de Capitales del Ministerio de Hacienda, en calidad de Secretario Técnico del Comité para la Fijación de Límites a las Tasas de Intercambio. Sin perjuicio de lo anterior, y para casos excepcionales de ausencia o impedimento del Sr. Diego Veroiza Avello, este será reemplazado, para la sesión respectiva, por otro funcionario del Ministerio de Hacienda, previa comunicación por escrito, dirigida a los integrantes del Comité, por parte del Coordinador de Mercado de Capitales del Ministerio de Hacienda, en la cual se individualice debidamente a la persona reemplazante.
 
 ### 4. Derogado
 
