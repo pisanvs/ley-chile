@@ -380,9 +380,7 @@ Veda extractiva por especie o por sexo en un área determinada. Esta veda sólo 
 
 b) Prohibición de captura temporal o permanente de especies protegidas por convenios internacionales de los cuales Chile es parte.
 
-c) Fijación de cuotas anuales de captura por especie en un área determinada o cuotas globales de captura. Estas cuotas globales de captura se podrán determinar por períodos de hasta tres años, debiendo siempre establecerse la magnitud anual. En el evento que no se capture la totalidad en un determinado año no se podrá traspasar al año siguiente.
-
-Podrán establecerse fundadamente las siguientes deducciones a la cuota global de captura:
+c) Fijación de cuotas anuales de captura por especie en un área determinada o cuotas globales de captura. Estas cuotas globales de captura se podrán determinar por períodos de hasta tres años, debiendo siempre establecerse la magnitud anual. En el evento que no se capture la totalidad en un determinado año no se podrá traspasar al año siguiente. Podrán establecerse fundadamente las siguientes deducciones a la cuota global de captura:
 
 - Cuota para investigación: Se podrá deducir para fines de investigación hasta un 2% de la cuota global de captura para cubrir necesidades de investigación. Para lo anterior, la Subsecretaría deberá informar al Consejo Nacional de Pesca los proyectos de investigación para el año calendario siguiente y las toneladas requeridas para cada uno de ellos. Dicho listado deberá publicarse en la página de dominio electrónico de la Subsecretaría.
 
@@ -427,6 +425,8 @@ En aquellas pesquerías de especies pelágicas pequeñas en que las especies con
 En los casos en que la cuota de fauna acompañante se haya agotado y exista remanente sin capturar de la cuota de la especie objetivo, la Subsecretaría podrá autorizar la continuidad de la operación en la región u organización correspondiente, autorizando que el Servicio impute la captura de la especie minoritaria a la especie dominante, en una proporción de uno es a tres, con un límite equivalente al 25% de la cuota global de captura que se haya fijado para la especie minoritaria.
 
 En el caso de aquellas pesquerías pelágicas pequeñas en que las especies constituyan una pesquería mixta y que se encuentren sometidas a un programa o plan de conformidad con el artículo 7º A, se podrá autorizar que la totalidad o un porcentaje de las capturas efectuadas en cualquiera de dichas especies sean imputadas, en forma conjunta, a la sumatoria de las cuotas globales que al efecto se establezcan. Para los efectos antes indicados, se permitirá el desembarque de los recursos previa certificación de éstos.
+
+Sin perjuicio de lo señalado en los incisos anteriores, si por efecto de las marejadas o de cualquier otro fenómeno climático que se produzca en el mar, se causare el varado de algas, las medidas de administración que hayan sido dictadas respecto de dichos recursos podrán contemplar excepciones respecto de las vedas o cuotas sobre ellos.
 
 #### Artículo 4°
 
@@ -1535,6 +1535,8 @@ El Servicio Nacional de Pesca deberá, en el mes de junio de cada año, caducar 
 a) Si el pescador artesanal o su embarcación no realizan actividades pesqueras extractivas por tres años sucesivos, salvo caso fortuito o fuerza mayor debidamente acreditados.
 
 En el evento que se configure una causal de caso fortuito o fuerza mayor, ésta deberá ser invocada ante el Servicio antes del vencimiento del plazo establecido en el inciso anterior, en cuyo caso el Servicio podrá autorizar la ampliación del plazo en hasta un año, contado desde el vencimiento del plazo de tres años antes indicado.
+
+Sin perjuicio de lo anterior, se considerarán caso fortuito o fuerza mayor las marejadas que hayan impedido la actividad extractiva, lo que se acreditará con un certificado de la Autoridad Marítima que dé cuenta del cierre de los puertos de la región por ese motivo, por el plazo que dicha circunstancia se haya producido.
 
 Se entenderá por captura lo informado en el formulario de desembarque, debidamente recepcionado por el Servicio, conforme al artículo 63 de esta ley.
 
