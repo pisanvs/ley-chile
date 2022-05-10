@@ -1,0 +1,9 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL "LÍNEA DE TRANSMISIÓN RÍO TOLTÉN - NUEVA RÍO TOLTÉN"
+
+De conformidad con lo dispuesto en los artículos 94 y 95 del decreto supremo Nº 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica a las personas naturales y jurídicas que presentaron observaciones ciudadanas durante la evaluación ambiental de la Declaración de Impacto Ambiental (DIA) del proyecto "Línea de Transmisión Río Toltén - Nueva Río Toltén", sometido al Sistema de Evaluación de Impacto Ambiental por el titular Sociedad Anónima Transmisora Valle Allipén, que mediante resolución exenta Nº 20220900135 (RCA) de fecha 25 de abril de 2022, la Comisión de Evaluación Ambiental de la Región de la Araucanía calificó desfavorablemente el proyecto individualizado.
+
+De igual modo, se informa a todas las personas -naturales y jurídicas- que hayan realizado observaciones ciudadanas a la DIA del proyecto "Línea de Transmisión Río Toltén - Nueva Río Toltén", y que estimen que éstas no han sido debidamente consideradas en los fundamentos de la citada RCA, que disponen de un plazo de 30 días hábiles, contados desde la presente notificación, para presentar un recurso de reclamación ante el Director Ejecutivo del Servicio de Evaluación Ambiental (SEA), de conformidad a los artículos 20 y 30 bis de la ley Nº 19.300 sobre Bases Generales del Medio Ambiente.
+
+Se hace presente que el texto íntegro de la resolución antes individualizada, y el expediente administrativo del proyecto, puede ser conocido a través del sitio www.sea.gob.cl.-
+
+Andrea Flies Lara, Directora Regional del Servicio de Evaluación Ambiental de la Región de la Araucanía.
