@@ -14,197 +14,7 @@ Resuelvo:
 
 1.1. Para su ingreso al país el polen deberá estar amparado por un Certificado Fitosanitario Oficial del país de origen, en original, el que deberá incluir las siguientes declaraciones adicionales, según la especie:
 
-Especie Declaración adicional que debe
-
-ser especificada en el
-
-Certificado Fitosanitario
-
-Actinidia spp. Pseudomonas syringae pv.
-
-actinidiae, exepto biovar 3,
-
-no está presente en (indicar
-
-país de origen]).
-
-Aquilegia spp. Sin declaración adicional.
-
-Capsicum annum Sin declaración adicional.
-
-Corylus avellana Sin declaración adicional.
-
-Cydonia oblonga Sin declaración adicional.
-
-Eucalyptus spp. Sin declaración adicional.
-
-Erybotria japonica Sin declaración adicional.
-
-Fragaria spp. El material debe proceder de
-
-plantas madres que han sido
-
-inspeccionadas durante el último
-
-período de crecimiento y
-
-encontradas, mediante técnicas
-
-de diagnóstico adecuadas, libres
-
-de Rapberry ringspot virus
-
-(RpRSV) y Tomato black ring
-
-virus (TBRV), indicándose en el
-
-Certificado Fitosanitario la
-
-técnica analítica utilizada en
-
-cada caso.
-
-Juglans regia El material debe proceder de
-
-plantas madres que han sido
-
-inspeccionadas durante el último
-
-período de crecimiento y
-
-encontradas, mediante técnicas
-
-de diagnóstico adecuadas, libres
-
-de Cherry leaf roll virus
-
-(CLRV), indicándose en el
-
-Certificado Fitosanitario la
-
-técnica analítica utilizada en
-
-cada caso.
-
-Juglans spp. Sin declaración
-
-adicional.(excepto J. regia)
-
-Lycopersicum
-
-esculentum Sin declaración adicional.
-
-Lycopodium spp. Sin declaración adicional.
-
-Malus spp. Sin declaración adicional.
-
-Nicotiana tabacum Sin declaración adicional.
-
-Persea americana El material debe proceder de
-
-plantas madres que han sido
-
-inspeccionadas durante el
-
-último período de crecimiento
-
-y encontradas, mediante técnicas
-
-de diagnóstico adecuadas, libres
-
-de Avocado sunblotch viroid
-
-(ASBVd), indicándose en el
-
-Certificado Fitosanitario la
-
-técnica analítica utilizada en
-
-cada caso.
-
-Pinus spp. Sin declaración adicional.
-
-Prunus avium El material debe proceder de
-
-plantas madres que han sido
-
-inspeccionadas durante el último
-
-período de crecimiento y
-
-encontradas, mediante técnicas
-
-de diagnóstico adecuadas,
-
-libres de Cherry leaf roll virus
-
-(CLRV) y Tomato bushy stunt
-
-virus (TBSV), indicándose en el
-
-Certificado Fitosanitario la
-
-técnica analítica utilizada en
-
-cada caso.
-
-Prunus serotina El material debe proceder de
-
-plantas madres que han sido
-
-inspeccionadas durante el último
-
-período de crecimiento y
-
-encontradas, mediante técnicas
-
-de diagnóstico adecuadas, libres
-
-de Cherry leaf roll virus
-
-(CLRV), indicándose en el
-
-Certificado Fitosanitario la
-
-técnica analítica utilizada en
-
-cada caso.
-
-Prunus spp. (excepto Sin declaración adicional.
-
-P. avium y
-
-P. serotina)
-
-Pyrus spp. Sin declaración adicional.
-
-Rubus spp. El material debe proceder de
-
-plantas madres que han sido
-
-inspeccionadas durante el último
-
-período de crecimiento y
-
-encontradas, mediante técnicas
-
-de diagnóstico adecuadas, libres
-
-de Rapsberry ringspot virus
-
-(RpRSV), indicándose en el
-
-Certificado Fitosanitario la
-
-técnica analítica utilizada en
-
-cada caso.
-
-Vaccinium spp. Sin declaración adicional.
-
-Viola spp. Sin declaración adicional.
-
-Vitis spp. Sin declaración adicional.
+.
 
 2. Se aceptará como declaración adicional alternativa que el polen proviene de un país libre de la plaga.
 
@@ -215,5 +25,13 @@ Vitis spp. Sin declaración adicional.
 5. Para países con presencia de Pseudomonas syringae pv. actinidiae, excepto biovar 3, que deseen exportar polen de Actinidia spp. a Chile, se requerirá que la Organización Nacional de Protección Fitosanitaria (ONPF) del país exportador envíe, previamente, información oficial referente a las medidas de control, vigilancia y regulaciones asociadas a la plaga en el país, y especificaciones sobre el método de obtención del polen y sobre tratamientos fitosanitarios de control de la enfermedad, en caso de aplicar alguno.
 
 Una vez evaluada la información enviada por la ONPF interesada, y si ésta es suficiente y acorde a lo requerido, el SAG autorizará la importación de polen desde dicho origen mediante la emisión de una resolución caso a caso, previa solicitud por parte del importador.
+
+6. El ingreso de polen al país de las especies señaladas en esta resolución y los respectivos trámites de importación, sólo podrán realizarse en la Oficina SAG de Comercio Exterior situada en el Aeropuerto Internacional Arturo Merino Benítez, de la ciudad de Santiago, Región Metropolitana.
+
+7. Cada partida será inspeccionada y muestreada por el Servicio en el punto de ingreso para verificar el cumplimiento de las declaraciones adicionales y requisitos fitosanitarios establecidos en esta norma.
+
+Ante la detección de plagas cuarentenarias listadas en la resolución N° 3.080 de 2003, o no listadas que sean identificadas como plagas cuarentenarias de acuerdo a un Análisis de Riesgo de Plagas (ARP), estén o no solicitadas como declaración adicional en esta norma, se evaluará la aplicación de medidas fitosanitarias, acordes con el riesgo fitosanitario identificado.
+
+8. El importador deberá declarar la condición genética de los Materiales Modificados Genéticamente por Biotecnología Moderna y cumplir con las normativas del Servicio Agrícola y Ganadero que establecen los requisitos para la internación e introducción al medio ambiente de este tipo de materiales.
 
 Anótese, comuníquese y publíquese.- Dionisio Faulbaum Mayorga, Director Nacional.
