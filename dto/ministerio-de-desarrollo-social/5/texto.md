@@ -20,59 +20,53 @@ Apruébase el siguiente Reglamento que regula el subsidio de calefacción de la 
 
 Disposiciones generales
 
-#### Artículo 1º
+#### Artículo 1°
 
-El "Subsidio de Calefacción" será administrado por el Fondo de Solidaridad e Inversión Social, en adelante "Fosis", al que le corresponderá, especialmente, verificar el cumplimiento de los requisitos para acceder a él, concederlo y extinguirlo.
+Del Subsidio.- El Subsidio de Calefacción, en adelante "Subsidio", consistirá en una prestación monetaria directa de cargo fiscal, destinada a atender a las familias de la Región de Aysén del General Carlos Ibáñez del Campo, que cumplan con los requisitos señalados en el presente reglamento. Este subsidio será entregado directamente a las familias por medio de transferencias no rendibles, y será compatible con cualquier otro bono o subsidio que otorgue el Estado. Para los efectos de este reglamento se entenderá familia en los términos de la letra d) del artículo 3° del decreto supremo N° 22, de 2015, del Ministerio de Desarrollo Social.
 
-Para estos efectos, el Fosis utilizará la información que se desprenda por aplicación del Instrumento de Caracterización Socioeconómica a que se refiere el artículo 5º de la ley Nº 20.379, y cualquier otra información disponible a que tenga acceso en el Registro de Información Social del Ministerio de Desarrollo Social y Familia.
-
-Corresponderá al Fosis dictar el o los actos administrativos a que diere lugar el Subsidio de Calefacción.
-
-Para efectos de financiamiento durante el año 2020 se regirá por lo dispuesto en la Partida 21, Capítulo 02, Programa 01, Subtítulo 33, Ítem 01, Asignación 002 Programa de Desarrollo Social, glosas 11 y 12 de la ley Nº 21.192, Ley de Presupuestos del Sector Público correspondiente al año 2020, y para los años siguientes, por lo que dispongan las leyes de presupuestos para el Sector Público respectivas.
+El financiamiento del Subsidio se regirá por lo que, para estos efectos, dispongan las leyes de presupuestos del Sector Público del año respectivo.
 
 #### Artículo 2°
 
-Para los efectos del presente Reglamento, se entenderá por:
+Administración.- El Subsidio será administrado por el Ministerio de Desarrollo Social y Familia, a través de la Subsecretaría de Servicios Sociales, a la que le corresponderá su concesión y su pago, sea este directamente o a través de las instituciones a que se refiere el artículo 9°, con las cuales ésta celebre convenios para ello. Además, corresponderá a dicha Subsecretaría de Estado dictar el o los actos administrativos a que diere lugar el Subsidio.
 
-a) Subsidio: El subsidio de calefacción a que se refiere la respectiva Ley de Presupuestos para el Sector Público en la Partida 21, Capítulo 02, Programa 01, Subtítulo 33, Ítem 01, Asignación 002, y que tiene por finalidad la atención de familias de la Región de Aysén del General Carlos Ibáñez del Campo.
+#### Artículo 3°
 
-b) Beneficiarios: Aquellas familias a que se refiere el artículo 5º del presente Reglamento. Para estos efectos se entenderá familia en los términos de la letra d) del artículo 3º del decreto supremo Nº 22, de 2015, del Ministerio de Desarrollo Social."
-
-c) Derogado.
-
-d) Calificación Socioeconómica: Ordenación de las unidades de análisis que forman parte del Registro Social de Hogares, que podrá ser estratificada por quintiles, deciles, percentiles o tramos, en función de los ingresos de los integrantes de la unidad de análisis y otros atributos que sean necesarios, lo cual se expresará en términos de puntaje o indicador.
-
-#### Artículo 3º
-
-El Subsidio de Calefacción consiste en una prestación monetaria directa de cargo fiscal, destinada a atender a familias de la Región de Aysén, que cumplan con los requisitos señalados en el presente Reglamento. Este subsidio será entregado directamente a los usuarios por medio de transferencias no rendibles, y será compatible con cualquier otro bono o subsidio que otorgue el Estado.
+Verificación de los requisitos.- La verificación del cumplimiento de los requisitos establecidos por este reglamento para tener derecho al Subsidio, corresponderá a la Subsecretaría de Evaluación Social, organismo que, para estos efectos, podrá usar los datos que se desprendan por aplicación del Instrumento de Caracterización Socioeconómica a que se refiere el artículo 5° de la ley N° 20.379, y cualquier otra información disponible a que tenga acceso en el Registro de Información Social.
 
 ## Título II
 
 Focalización, beneficiarios y requisitos del Subsidio de Calefacción
 
-#### Artículo 4º
+#### Artículo 4°
 
-Focalización.- Este bono será focalizado preferentemente en familias que pertenezcan hasta el tramo 80 según la Calificación Socioeconómica a que se refiere el artículo 33° del decreto supremo Nº 22, de 2015, del Ministerio de Desarrollo Social.
+Focalización.- Este Subsidio será focalizado preferentemente a familias hasta el cuarto quintil de vulnerabilidad, según Calificación Socioeconómica del artículo 5° de la ley N° 20.379, regulada a través del reglamento aprobado por el decreto supremo N° 22, de 2015, del entonces Ministerio de Desarrollo Social, Subsecretaría de Servicios Sociales.
 
-#### Artículo 5º
+#### Artículo 5°
 
-Beneficiarios.- Podrán ser beneficiarios del Subsidio de Calefacción, aquellas familias que tengan domicilio en la Región de Aysén y que al primer día hábil del mes de marzo del año de otorgamiento del beneficio pertenezcan preferentemente hasta el tramo 80 según la Calificación Socioeconómica a que se refiere el artículo 33º del decreto supremo Nº 22, de 2015, del Ministerio de Desarrollo Social. Para tal efecto, el tramo 80 corresponde al cuarto quintil de vulnerabilidad a que alude la Glosa respectiva asociada a la Asignación 002 "Programa de Desarrollo Social" del Subtítulo 33, ítem 01, de la Partida 21, Capítulo 02, Programa 01 de la Ley de Presupuestos del Sector Público del año respectivo.
+Potenciales Beneficiarios. Podrán ser beneficiarias del Subsidio aquellas familias que tengan domicilio en la Región de Aysén del General Carlos Ibáñez del Campo y que, al primer día hábil del mes de enero del año de otorgamiento del Subsidio, pertenezcan a hogares hasta el cuarto quintil de vulnerabilidad, según la Calificación Socioeconómica a que se refiere el artículo 33° del decreto supremo N° 22, de 2015, del entonces Ministerio de Desarrollo Social, y según el orden de prelación para el otorgamiento del Subsidio que establece el artículo siguiente, lo que deberá ajustarse a la respectiva disponibilidad presupuestaria.
 
-#### Artículo 6º
+#### Artículo 6°
 
-Podrán ser seleccionados preferentemente, aquellos beneficiarios que de acuerdo a la calificación socioeconómica del artículo 33 del decreto Nº 22, de 2015, del Ministerio de Desarrollo Social, se encuentren en los tramos inferiores de dicha calificación hasta el tramo 80. En este caso su selección como beneficiarios deberá ajustarse a la respectiva disponibilidad presupuestaria. En el caso de que los potenciales beneficiarios superen la disponibilidad presupuestaria, el ajuste se realizará priorizando a los beneficiarios según ingreso equivalente corregido, construido a partir de lo señalado en el artículo 34 del decreto supremo Nº 22, de 2015, del Ministerio de Desarrollo Social y definido en el artículo 1º de la resolución exenta Nº 68, de 2018, de la Subsecretaría de Evaluación Social y sus modificaciones, o la resolución que la reemplace.
+Orden de Prelación. Para el otorgamiento del Subsidio, la selección de las familias que cumplan con los requisitos del artículo precedente deberá ajustarse a la respectiva disponibilidad presupuestaria, para cuyos efectos se aplicará el siguiente orden de prelación:
 
-En caso de producirse empate en la prelación con el mecanismo antes señalado se dirimirá considerando, en el siguiente orden, lo siguiente:
+a) Familias que sean participantes del Subsistema de Promoción y Protección Social "Seguridades y Oportunidades" creado por el artículo 1° de la ley N° 20.595;
 
-a) Número de menores de edad que componen la familia.
+b) Familias que tengan en su hogar algún participante del programa de Sistema Nacional de Cuidados;
 
-b) Número de adultos mayores que componen la familia.
+c) Familias que cuenten en su composición con al menos una persona en situación de dependencia moderada o severa, o inscrita en el Registro Nacional de Discapacidad;
 
-c) Presencia de personas con dependencia severa en la familia.
+d) Familias que cuenten en su composición con al menos un niño, niña o adolescente;
 
-d) Presencia de personas con dependencia moderada en la familia.
+e) Familias que cuenten en su composición con al menos un/a adulto/a mayor;
 
-Cada familia sólo tendrá derecho a un Subsidio de Calefacción.
+f) Familias que cuenten con mujeres jefas de hogar.
+
+Si una vez efectuada la selección de los hogares beneficiarios según el orden de prelación establecido precedentemente, aún existiera disponibilidad presupuestaria, las familias que cumpliendo con los requisitos del artículo 5° de este reglamento y que no se encuentren consideradas en la prelación escrita precedentemente, se ordenarán de mayor a menor vulnerabilidad según el tramo de la Calificación Socioeconómica de su respectivo hogar, debiendo seleccionar a los hogares según tramo de mayor a menor vulnerabilidad.
+
+Si, por el contrario, ocurriera que las familias potenciales beneficiarias que pertenezcan a un tramo determinado, hayan superado la disponibilidad presupuestaria, la selección de beneficiarios se realizará priorizando a las familias cuyo hogar de acuerdo a su ingreso equivalente corregido, construido a partir de lo señalado en el artículo 34 del reglamento aprobado por el decreto supremo N° 22, de 2015, del entonces Ministerio de Desarrollo Social, y definido en la respectiva resolución que determine el procedimiento y metodología de cálculo de la Calificación Socioeconómica.
+
+Cada familia solo tendrá derecho a un Subsidio de Calefacción.
 
 ## Título III
 
@@ -80,43 +74,35 @@ Monto y pago del Subsidio de Calefacción
 
 #### Artículo 7°
 
-Monto: El Subsidio será de un monto único de $100.000, el cual se concederá por una sola vez a los beneficiarios, en conformidad a lo dispuesto en el Título II del presente Reglamento.
+Monto: El Subsidio corresponderá a un monto único de cien mil pesos ($100.000), y se podrá conceder una sola vez a las familias beneficiarias seleccionadas en conformidad a lo dispuesto en el Título II del presente Reglamento, a través del proceso de selección correspondiente al año presupuestario respectivo.
 
 #### Artículo 8°
 
-Concesión: Para efectos de su concesión, previa verificación de los requisitos que lo hacen procedente, el Director Ejecutivo del Fosis dictará uno o más actos administrativos los que deberán contener:
+Concesión: La Subsecretaría de Servicios Sociales dictará uno o más actos administrativos a través de los cuales concederá y ordenará el pago del Subsidio, los que deberán contener, al menos, la siguiente información:
 
-1.- Nómina de Beneficiarios.
+a) Nombre completo del/a jefe/a del hogar de la familia beneficiaria. su RUN y domicilio dentro de la Región de Aysén del General Carlos Ibáñez del Campo, y
 
-2.- El nombre completo del Receptor de Pago, su número de cédula de identidad y domicilio dentro de la Región de Aysén.
-
-3.- El monto a pagar.
+b) Identificador de la familia según hogar según el Registro Social de Hogares.
 
 #### Artículo 9°
 
-Pago y Entidad Pagadora: El pago del Subsidio será de responsabilidad de Fosis, el que de conformidad con sus facultades legales podrá, para este efecto, suscribir uno o más convenios con el Instituto de Previsión Social o con otras entidades públicas o privadas que cuenten con amplia cobertura territorial en la Región de Aysén.
+Pago y Entidad Pagadora: El pago del Subsidio será de responsabilidad de la Subsecretaría de Servicios Sociales, la que de conformidad con sus facultades legales podrá para este efecto, suscribir uno o más convenios con el Instituto de Previsión Social o con otras entidades públicas o privadas que cuenten con amplia cobertura territorial en la Región de Aysén del General Carlos Ibáñez del Campo.
 
-Dicho pago deberá efectuarse dentro de los 60 días siguientes a la fecha de su concesión, y podrá realizarse mediante transferencia electrónica de fondos, depósito en cuenta bancaria, vale vista o pago presencial.
+Dicho pago deberá efectuarse dentro de los sesenta (60) días corridos siguientes a la fecha de su concesión, y podrá realizarse mediante transferencia electrónica de fondos, depósito en cuenta bancaria, vale vista o pago presencial.
 
-Para tal efecto, se contemplan gastos administrativos para la implementación del pago del Subsidio, hasta un 18% máximo anual del monto total de los recursos asignados para gastos de administración en la Glosa que corresponda a la Asignación 002 del Ítem 01, del Subtítulo 33 correspondiente a la Partida 21, Capítulo 02, Programa 01, en la respectiva Ley de Presupuestos para el Sector Público.
+Respecto de los gastos de administración necesarios para la implementación del pago del Subsidio, podrá disponerse hasta un 5% máximo anual del monto total de los recursos asignados para su pago.
 
 #### Artículo 10º
 
-Receptor de pago.- El pago del Subsidio se efectuará al integrante de la familia beneficiaria que corresponda, de acuerdo a la información que se desprenda por aplicación del Instrumento de caracterización Socioeconómica a que se refiere el artículo 5º de la Ley Nº 20.379.
+Receptor de pago.- El pago del Subsidio se efectuará al jefe/a de hogar de la familia beneficiaria que corresponda, de acuerdo con la información que se desprenda por aplicación del Instrumento de caracterización Socioeconómica a que se refiere el artículo 5º de la Ley Nº 20.379.
 
-#### Artículo 11°
+#### Artículo 11
 
-Cambio de receptor de pago: En caso de enfermedad, o cualquier otro impedimento del receptor del pago, cuya ocurrencia haya sido comunicada al Fosis, y que por su naturaleza impida a éste percibir el pago del subsidio, éste podrá ser pagado a cualquier integrante de la familia beneficiaria, previa aplicación de las reglas de prelación a que se refiere el artículo precedente.
-
-Para este mismo efecto, en aquellos casos en que el procedimiento dispuesto en el inciso precedente no pueda ser aplicado, el subsidio podrá ser pagado a cualquier persona mayor de edad que cuente con un poder simple otorgado para este efecto por quien tiene derecho a percibir el pago, el que deberá ser visado por el Director Ejecutivo del Fosis, o por la persona en que éste delegue dicha facultad.
-
-Para este efecto el Director Ejecutivo del Fosis, deberá dictar el acto administrativo correspondiente, en que se autorice la modificación del receptor de pago para el caso que corresponda.
-
-Igual procedimiento aplicará en caso de fallecimiento del receptor de pago, previa acreditación de este hecho mediante la presentación ante el Fosis del certificado de defunción que expida el Servicio de Registro Civil e Identificación.
+Cambio de receptor de pago.- En caso de enfermedad, o cualquier otro impedimento que por su naturaleza impida el cobro del Subsidio por parte del receptor del pago, éste podrá ser pagado a cualquier integrante mayor de edad de la familia beneficiaria que forme parte del Registro Social de Hogares, debiendo comunicarse la ocurrencia de dicho impedimento a la Subsecretaría de Servicios Sociales a través de la presentación de un poder simple otorgado para este efecto, por quien tenga derecho a percibir el pago, ante la Secretaría Regional Ministerial de Desarrollo Social y Familia de la Región de Aysén del General Carlos Ibáñez del Campo. Una vez presentado el poder, la Subsecretaría de Servicios Sociales notificará la situación a la entidad pagadora, para que el pago se realice a la persona autorizada mediante el poder.
 
 #### Artículo 12°
 
-Reclamaciones: Para efectos de las reclamaciones a que dé lugar el subsidio, se aplicará lo dispuesto en la ley N° 19.880. Estas reclamaciones podrán ser presentadas en la Oficina Regional del Fosis en la Región de Aysén y serán resueltas por su Director Ejecutivo.
+Reclamaciones: Para efectos de las reclamaciones a que dé lugar el subsidio, se aplicará lo dispuesto en la ley N° 19.880. Estas reclamaciones podrán ser presentadas en la Secretaría Regional Ministerial de Desarrollo Social y Familia de la Región de Aysén del General Carlos Ibáñez del Campo y serán resueltas por el/la Subsecretario/a de Servicios Sociales.
 
 #### Artículo 13°
 
@@ -125,6 +111,10 @@ La percepción indebida de este subsidio conllevará las responsabilidades admin
 #### Artículo 14°
 
 Extinción: El derecho al cobro de subsidio se extinguirá transcurridos seis meses desde la fecha de su concesión, según corresponda.
+
+#### Artículo transitorio
+
+El financiamiento del Subsidio durante el año 2022, se regirá por lo dispuesto en la partida 21, capítulo 01, programa 01, subtítulo 24, ítem 01, asignación 322 subsidio a la calefacción, glosa 17, de la ley N° 21.395, de presupuestos del Sector Público correspondiente al año 2022.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Joaquín Lavín Infante, Ministro de Desarrollo Social.
 
