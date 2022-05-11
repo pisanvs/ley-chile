@@ -38,7 +38,7 @@ Resolución:
 
 ### 1. Llamado a Concurso y Plazo para presentar proyectos:
 
-1.1. Llámase a partir del día de la publicación de la presente resolución en el Diario Oficial, hasta las 14:00 horas del martes 31 de mayo de 2022, a postulación al Programa de Integración Social y Territorial, regulado por el DS N° 19 (V. y U.), de 2016, para proyectos sin inicio de obras, período en que las Entidades Desarrolladoras ingresarán directamente a los Serviu respectivos los proyectos habitacionales, con la documentación y antecedentes exigidos por dicho reglamento y por esta resolución.
+1.1. Llámase a partir del día de la publicación de la presente resolución en el Diario Oficial, hasta las 14:00 horas del lunes 01 de agosto de 2022, a postulación al Programa de Integración Social y Territorial, regulado por el DS N° 19 (V. y U.), de 2016, para proyectos sin inicio de obras, período en que las Entidades Desarrolladoras ingresarán directamente a los Serviu respectivos los proyectos habitacionales, con la documentación y antecedentes exigidos por dicho reglamento y por esta resolución.
 
 1.2. Previo a la fecha indicada, las Entidades Desarrolladoras deberán ingresar los datos del proyecto, a través de los medios electrónicos que el Ministerio de Vivienda y Urbanismo (Minvu) disponga para estos efectos (Rukan).
 
@@ -50,27 +50,33 @@ Resolución:
 
 La cantidad de cupos de subsidio y recursos que se dispondrán para este Llamado son los que se señalan a continuación:
 
+.
+
 ### 3. Precio de las viviendas, montos de subsidio y bonos:
 
-3.1. Viviendas destinadas a familias vulnerables
+3.1 Viviendas destinadas a familias vulnerables
 
-En el caso de las viviendas destinadas a familias vulnerables, se deberá considerar como mínimo que un 25% del total de viviendas del proyecto sea de un precio de hasta 1.100 UF o 1.200 UF, de acuerdo a lo indicado en el del DS N° 19.
+Se deberá destinar como mínimo un 25% de las viviendas del proyecto a familias vulnerables. Los precios de vivienda y montos de subsidios corresponderán a los señalados en la siguiente tabla, que además modifica la zona de emplazamiento para las comunas del Gran Santiago.
 
-3.2. Viviendas destinadas a familias de sectores medios
+.
 
-En el caso de las viviendas destinadas a familias de sectores medios, se deberá considerar:
+3.2 Viviendas destinadas a familias de sectores medios
 
-1. Como mínimo, que un 15% del total de viviendas del proyecto, sean de un precio entre las 1.400 UF y las 1.600 UF o entre 1.500 UF y las 1.700 UF, según su emplazamiento (ver cuadro de más abajo).
+a. Los montos de subsidio para las familias de sectores medios, así como los porcentajes de viviendas del proyecto, serán los señalados en el siguiente cuadro de acuerdo a los rangos de precio de vivienda y comunas indicadas a continuación:
 
-2. Que hasta un 60% del total de las viviendas del proyecto, sean de un rango de precio de más de 1.600 UF y hasta 2.400 UF, o de más de 1.700 UF y hasta 2.800 UF según su emplazamiento (ver cuadro de más abajo).
+.
 
-3. Los montos de subsidio para familias de sectores medios, de acuerdo a los rangos de precio de vivienda y su emplazamiento, serán los siguientes:
+b. Las comunas excluidas del cuadro precedente mantendrán los precios de vivienda y montos de subsidio según Emplazamiento de la Vivienda, de acuerdo a la tabla inserta en la letra b) del artículo 3° del DS N°19 (V. y U.), de 2016.
 
 3.3. El monto del Bono de Integración Social para las familias de sectores medios será el indicado en la siguiente tabla, de acuerdo al porcentaje de familias vulnerables que considere el proyecto; los requisitos para su obtención y aplicación serán aquellos establecidos en el artículo 4°, letra b), del DS N° 19.
 
-3.4. Porcentaje máximo de venta de viviendas sin aplicación de subsidios:
+Los montos de bono de integración social indicados en la tabla precedente, podrán ser aplicados sólo a proyectos aprobados que se encuentren emplazados en las comunas establecidas en cuadro inserto en el resuelvo 3.2. Las comunas excluidas de este cuadro deberán considerar los montos de bono de integración, de acuerdo a la tabla detallada en la letra b) del artículo 4° del DS N°19 (V. y U.), de 2016.
 
-Los porcentajes de vivienda para venta sin aplicación de subsidio y cuyo precio exceda de los máximos indicados en el artículo 7° letra a) del DS N° 19, que podrán considerar los proyectos que se desarrollen en terrenos emplazados en alguna de las 16 zonas que aplican para este Llamado, serán los siguientes:
+3.4 Porcentaje máximo de venta de viviendas sin aplicación de subsidios:
+
+Los proyectos que se desarrollen en algunas de las 26 zonas definidas en las resoluciones exentas Nº 1.219 de 2020, Nº.466 y Nº1.414 de 2021, todas de Vivienda y Urbanismo, de acuerdo a la letra c) del artículo 7º del DS Nº19 (V. y U.), de 2016, podrán considerar porcentajes de vivienda para venta sin aplicación de subsidio cuyo precio exceda de los máximos indicados en la letra a) del artículo 7º del decreto precitado, según lo indicado en la siguiente tabla:
+
+.
 
 3.5. Los porcentajes considerados en la tabla precedente deberán calcularse respecto del total de viviendas del proyecto.
 
@@ -262,14 +268,62 @@ La asignación de los subsidios que se hayan reservado será sancionada por reso
 
 Solo se permitirá la postulación de un integrante del grupo familiar que comparta el mismo instrumento de caracterización socioeconómica. Dicho Instrumento no podrá ser invocado si ya ha sido utilizado para acreditar núcleo familiar en postulaciones a otros programas de subsidio habitacional de este Ministerio.
 
-14. Homologación en Proyectos Seleccionados en llamados realizados durante el año 2021
+14. Homologación en Proyectos Seleccionados en llamados realizados durante los años 2019, 2020 y 2021.
 
-Los proyectos seleccionados en llamados realizados durante el año 2021, que se emplacen en algunas de las comunas o zonas de comunas determinadas para el presente Llamado y que se detallan en la tabla inserta en el numeral 2.1 de esta resolución, podrán considerar los precios máximos, montos de subsidio base para sectores medios y bono de integración social, indicados en el resuelvo 3. de la presente resolución.
+14.1. Proyectos vigentes
 
-Las Entidades Desarrolladoras cuyos proyectos resultaron seleccionados en llamados realizados durante el año 2021, que se emplacen en alguna de las comunas o zonas de comunas determinadas para el presente Llamado, detalladas en la tabla inserta en el numeral 2.1 de esta resolución, y que hayan sido renunciados formalmente al Serviu respectivo con anterioridad a la fecha de publicación de esta resolución en el Diario Oficial, podrán reevaluar sus proyectos considerando los precios máximos, montos de subsidio base para sectores medios y bono de integración social indicados en el resuelvo 3. de la presente resolución y retractarse de la renuncia, lo que deberá ser informado formalmente al Serviu respectivo, para lo cual dispondrán de 10 días hábiles, contados a partir de la publicación de esta la presente resolución en el Diario Oficial.
+Los proyectos seleccionados en llamados realizados en el año 2019, mediante la resolución exenta Nº 822, (V. y U.) y las resoluciones exentas Nº 438, Nº 640, Nº 791, Nº 1.509, de los Secretarios Regionales Ministeriales de las regiones de Atacama, Antofagasta, Valparaíso y Araucanía respectivamente, podrán aplicar los nuevos precios máximos de vivienda para familias vulnerables y montos de subsidio, indicados en el resuelvo 3.1 de la presente resolución.
 
-Los proyectos que se acojan a la alternativa señalada en el inciso precedente, recobrarán su vigencia y dispondrán de 15 días hábiles para suscribir el convenio respectivo, contados a partir de la fecha de ingreso de la notificación formal de la Entidad Desarrolladora al Serviu, de la retracción a su renuncia.
+Los proyectos seleccionados en llamados realizados durante los años 2020 y 2021, mediante las resoluciones exentas Nº 208 (V. y U.), de 2020, Nº 935 y Nº 1058 y su modificación, ambas de 2020, del Secretario Regional Ministerial Metropolitano; y las resoluciones exentas Nº 246 y Nº 1.516 y su modificación (V. y U.), de 2021, Nº 258 y Nº 308, de los Secretarios Regionales Ministeriales de las regiones del Maule y Araucanía respectivamente y las resoluciones exentas Nº 405, Nº 843 y Nº 905 del Secretario Regional Ministerial Metropolitano, todas de 2021, podrán considerar los precios máximos de vivienda y montos de subsidio para familias vulnerables indicados en el resuelvo 3.1 de la presente resolución. Para las viviendas destinadas a sectores medios podrán considerar los precios máximos, montos de subsidio y bono de integración social para las comunas indicadas en el resuelvo 3.2; para el resto de las comunas, se mantendrán los precios de vivienda, montos de subsidios y bono de integración, según Emplazamiento de la Vivienda, de acuerdo a la tabla inserta en la letra b) del artículo 3º del DS Nº 19 (V. y U.), de 2016.
+
+En el caso de los proyectos en terrenos de propiedad del Serviu aprobados en los años 2019, 2020 y 2021, la posibilidad de acogerse a la homologación será autorizada mediante resolución del Director del Serviu, previa solicitud de la Entidad Desarrolladora, adjuntando los antecedentes que la respalden fundada en aumentos de costo que afecten al proyecto. En la resolución señalada deberán fijarse los precios y montos de subsidios, teniendo como máximo, los señalados en los párrafos anteriores según año de selección.
+
+Para aplicar lo indicado en este resuelvo, los proyectos no deberán contar con recepción municipal de obras al 31 de marzo de 2022.
+
+14.2. Proyectos renunciados
+
+Las Entidades Desarrolladoras cuyos proyectos resultaron seleccionados en los llamados realizados durante los años 2020 y 2021, mediante las resoluciones exentas Nº 208 (V. y U.), de 2020, Nº 935 y Nº1.058 y su modificación, ambas de 2020, del Secretario Regional Ministerial Metropolitano; y las resoluciones exentas Nº 246 y Nº 1.516 y su modificación (V. y U.), de 2021, Nº 258 y Nº 308, de los Secretarios Regionales Ministeriales de las regiones del Maule y Araucanía respectivamente y las resoluciones exentas Nº 405, Nº 843 y Nº 905 del Secretario Regional Ministerial Metropolitano, todas de 2021, que se emplacen en alguna de las comunas o zonas de comunas determinadas para el presente llamado, detalladas en la tabla inserta en el resuelvo 2. de esta resolución, y que hayan sido renunciados formalmente al Serviu respectivo por las Entidades Desarrolladoras, con anterioridad a la fecha de publicación de esta resolución en el Diario Oficial, podrán reevaluar sus proyectos considerando los precios máximos de vivienda para familias vulnerables y de sectores medios, montos de subsidio y bono de integración social indicados en el resuelvo 3. de la presente resolución y retractarse de la renuncia.
+
+Las Entidades Desarrolladoras, para dejar sin efecto la renuncia, deberán enviar una carta, suscrita por el representante legal, al Serviu respectivo hasta el 31 de mayo de 2022, acompañando una declaración, donde indique que el proyecto ha sido evaluado por una empresa constructora que se encuentre inscrita en el Registro Nacional de Contratistas del Minvu, de acuerdo a lo señalado en el resuelvo 4.2 de esta resolución, en lo que corresponda, o cuya inscripción se encuentra en trámite, en cuyo caso la inscripción deberá estar vigente al momento del inicio de las obras, lo que será verificado por Serviu.
+
+Los proyectos cuya renuncia haya quedado sin efecto, y cumplan con los requisitos señalados, dispondrán de 20 días hábiles para suscribir el convenio respectivo, contados a partir de la fecha de ingreso de la notificación formal de la Entidad Desarrolladora al Serviu, de la retracción a su renuncia.
+
+Esta disposición podrá aplicarse a proyectos seleccionados en llamados realizados durante los años 2020 y 2021 sin inicio de obras o que cuenten con hasta un 25% de avance físico de obras a la fecha de notificación formal al Serviu, lo que deberá ser verificado en terreno por el Serviu respectivo, corroborando que mantenga las condiciones con las cuales resultaron aprobados.
+
+14.3. Aplicación de nuevas condiciones
+
+Los nuevos precios de vivienda, montos de subsidio y bonos de integración expresados anteriormente en los resuelvos 14.1 y 14.2, serán aplicados solo a actuaciones aun no realizadas y/o a los efectos aún no producidos, entendiéndose como tal, subsidios no presentados a cobro ante el Serviu por la Entidad Desarrolladora.
+
+Tampoco será posible aumentar el precio de la vivienda ni otorgar mayor monto de subsidio a familias de sectores medios que ya cuenten con un compromiso pactado con la Entidad Desarrolladora.
+
+Para los proyectos sin inicio de obras, tanto vigentes como renunciados que se retracten, deberán iniciarlas hasta el 30 de noviembre de 2022.
+
+### 15. Estacionamientos
+
+Con el objetivo de asegurar una cantidad equitativa de estacionamientos para viviendas destinadas a familias vulnerables, cada proyecto deberá disponer un número proporcional al porcentaje de viviendas destinadas a dichas familias, que deberá calcularse en función de la cuota de estacionamientos establecida en la normativa correspondiente.
+
+Los estacionamientos destinados a familias vulnerables, resultantes del cálculo señalado en el párrafo anterior, deberán estar incluidos dentro del precio de viviendas indicado en el resuelvo 3.1. de la presente resolución. En caso de que en un proyecto se haya reservado la totalidad de estacionamientos dispuestos para familias vulnerables, éstas podrían adquirir estacionamientos destinados a sectores medios, considerando el precio establecido para ese segmento.
+
+En el caso de viviendas destinadas a familias de sectores medios, el precio de los estacionamientos no podrá superar el porcentaje del precio de la vivienda a adquirir señalado a continuación:
+
+1. Estacionamientos en superficie: precio máximo equivalente al 6% del precio de la vivienda a adquirir.
+
+2. Estacionamientos subterráneos: precio máximo equivalente al 10% del precio de la vivienda a adquirir.
+
+Las Entidades Desarrolladoras no podrán obligar al beneficiario o interesado en adquirir una vivienda, a comprar un estacionamiento o bodega en conjunto con la vivienda.
+
+Estas disposiciones se aplicarán a los proyectos que sean seleccionados en virtud del presente llamado y a aquellos que se acojan a lo señalado en el resuelvo 14 de esta resolución, de acuerdo con lo siguiente:
+
+1. Familias vulnerables: los estacionamientos deberán estar incluidos dentro del precio de las viviendas para todos los proyectos seleccionados en llamados realizados a partir del año 2020.
+
+2. Sectores Medios: para proyectos seleccionados a partir del año 2022 y para proyectos de los años 2020 y 2021.
+
+### 16. Préstamo de Enlace
+
+Una vez que se acredite lo indicado en el artículo 28º del DS Nº19 (V. y U.), de 2016, el Serviu podrá otorgar un préstamo de enlace a la empresa constructora a cargo del proyecto por un monto máximo de 300 UF por vivienda. El préstamo deberá ser entregado en dos cuotas, la primera al momento de acreditar el inicio de obras del proyecto, y la segunda, una vez que Serviu verifique en terreno que el proyecto cuenta con más de un 15% de avance de las obras.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
+
+.
