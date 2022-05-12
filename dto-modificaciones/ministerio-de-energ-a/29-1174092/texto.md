@@ -61,3 +61,25 @@ De la misma forma, el Coordinador deberá elaborar un procedimiento de valorizac
 Anótese, publíquese y tómese razón.- GABRIEL BORIC FONT, Presidente de la República.- Julio Andrés Esteban Maturana Franca, Ministro de Energía (S).
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Olvido García Rodríguez, Jefa División Jurídica (S), Subsecretaría de Energía.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División de Infraestructura y Regulación
+
+Cursa con alcances el decreto N° 29, de 2022, del Ministerio de Energía
+
+N° E209119/2022.- Santiago, 2 de mayo de 2022.
+
+La Contraloría General ha dado curso al instrumento del epígrafe –publicado previamente en el Diario Oficial del día 24 de marzo de 2022, en virtud de la autorización otorgada mediante la resolución exenta N° 2.507, de 2007, de este origen–, que modifica el decreto N° 51, de 2021, del Ministerio de Energía –que decreta medidas preventivas que indica de acuerdo a lo dispuesto en el artículo 163° de la Ley General de Servicios Eléctricos–, teniendo presente lo manifestado en la minuta explicativa remitida por correo electrónico, de fecha 11 de abril de 2022, emanado de la División Jurídica de la antedicha cartera de Estado.
+
+Por otra parte, cabe precisar que el referido decreto N° 51 –además de la modificación mencionada en el numeral 3° del documento en estudio– fue rectificado mediante el decreto N° 87, de 2021, del aludido ministerio, aspecto que se ha omitido consignar.
+
+Finalmente, en atención a lo indicado en los párrafos precedentes, esa cartera deberá publicar este oficio de alcance en el precitado diario, informando de ello a la Coordinación Nacional de Seguimiento y Apoyo al Cumplimento de la División de Auditoría de este organismo de control.
+
+Saluda atentamente a Ud., Jorge Andrés Bermúdez Soto, Contralor General de la República.
+
+Al señor
+
+Ministro de Energía
+
+Presente.
