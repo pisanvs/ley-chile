@@ -1,0 +1,5 @@
+SE APRUEBA "ANEXO MODIFICACIÓN DE CONVENIO DE COLABORACIÓN Y CONTRATO DE COMODATO", SUSCRITO ENTRE ESTE INSTITUTO DE PREVISIÓN SOCIAL Y LA DELEGACIÓN PRESIDENCIAL PROVINCIAL DE TOCOPILLA, RESPECTO DEL INMUEBLE DE PROPIEDAD DE ESTE INSTITUTO CORRESPONDIENTE A PARTE DEL LOTE N° 3, EDIFICACIÓN CON ACCESO POR CALLE BOLÍVAR N° 1218, DE LA COMUNA DE TOCOPILLA, REGIÓN DE ANTOFAGASTA
+
+Por resolución exenta I N° 10, de 1 de abril de 2022, el Jefe (S) del Departamento Administración e Inmobiliaria del Instituto de Previsión Social, aprobó el documento "Anexo Modificación de Convenio de Colaboración y Contrato de Comodato", suscrito el 25 de febrero de 2022, entre este Instituto de Previsión Social y la Delegación Presidencial Provincial de Tocopilla.- Nicolás Fernández Abdala, Jefe (S) Departamento Administración e Inmobiliaria.
+
+Carmen Gajardo Maturana, Jefa Unidad Gestión de Resoluciones, Instituto de Previsión Social.
