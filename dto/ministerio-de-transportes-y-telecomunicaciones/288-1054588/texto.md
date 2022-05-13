@@ -44,19 +44,41 @@ Decreto:
 
 ELEMENTOS DE LA ESENCIA DE LA CONCESIÓN
 
-- Tipo de servicio : Radiodifusión Sonora en Frecuencia
+- Tipo de servicio : Radiodifusión
+
+Sonora en
+
+Frecuencia
 
 Modulada.
 
-- Zona de servicio : Localidad de Iquique, I Región.
+- Zona de servicio : Localidad
 
-Superficie delimitada por una
+de Iquique,
 
-intensidad de campo mayor o igual
+I Región.
 
-que 54 dB (μV/m), referida
+Superficie
 
-al punto de emisión de la señal.
+delimitada
+
+por una
+
+intensidad de
+
+campo mayor
+
+o igual
+
+que 54 dB
+
+(μV/m), referida
+
+al punto de
+
+emisión de
+
+la señal.
 
 - Período de la concesión : 25 años.
 
@@ -74,9 +96,17 @@ CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
 
 - Diagrama de Radiación : Omnidireccional.
 
-- Ganancia : 3 dBd de ganancia máxima y -19
+- Ganancia : 3 dBd de
 
-dBd de ganancia en el plano
+ganancia
+
+máxima y
+
+-19 dBd de
+
+ganancia en
+
+el plano
 
 horizontal.
 
@@ -84,7 +114,9 @@ horizontal.
 
 - Tipo de antenas : Anillos.
 
-- Tilt eléctrico : 16,9º bajo la horizontal.
+- Tilt eléctrico : 16,9º bajo
+
+la horizontal.
 
 - Nº antenas : 4.
 
@@ -98,13 +130,21 @@ conectores y otros : 2,3 dB.
 
 UBICACIÓN DE LAS INSTALACIONES
 
-- Ubicación del estudio : Diego Barros Arana Nº 1436,
+- Ubicación del estudio : Diego Barros
 
-Iquique, I Región.
+Arana Nº 1436,
 
-- Coordenadas geográficas : 20º13'17" Latitud Sur.
+Iquique,
 
-70º08'36" Longitud Oeste.
+I Región.
+
+- Coordenadas geográficas : 20º13'17"
+
+Latitud Sur.
+
+70º08'36"
+
+Longitud Oeste.
 
 Datum PSAD56.
 
@@ -112,13 +152,15 @@ Datum PSAD56.
 
 transmisora y sistema
 
-radiante : Cerro Tarapacá, Iquique, I Región.
+radiante : Cerro Tarapacá,
 
-- Coordenadas geográficas : 20º21'07" Latitud Sur.
+Iquique, I Región.
 
-70º06'33" Longitud Oeste.
+- Coordenadas geográficas : 20°21'03" Sur;
 
-Datum PSAD56.
+70°06'35" Oeste,
+
+datum WGS 84
 
 CARACTERÍSTICAS TÉCNICAS DEL RADIOENLACE ESTUDIO - PLANTA TRANSMISORA
 
@@ -138,19 +180,23 @@ CARACTERÍSTICAS TÉCNICAS DEL RADIOENLACE ESTUDIO - PLANTA TRANSMISORA
 
 - Coordenadas etapa
 
-transmisora : 20º13'17" Latitud Sur.
+transmisora : 20º13'17"
 
-70º08'36" Longitud Oeste.
+Latitud Sur.
+
+70º08'36"
+
+Longitud Oeste.
 
 Datum: PSAD56.
 
 - Coordenadas etapa
 
-receptora : 20º21'07" Latitud Sur.
+receptora : 20°21'03" Sur;
 
-70º06'33" Longitud Oeste.
+70°06'35" Oeste,
 
-Datum: PSAD56.
+datum WGS 84
 
 4.- El presente decreto de renovación deberá publicarse en el Diario Oficial dentro del plazo de 30 días hábiles, contados desde que la Subsecretaría le notifique a la concesionaria que el decreto fue totalmente tramitado por la Contraloría General de la República. La no publicación de éste dentro del plazo indicado, producirá la extinción de la concesión por el solo ministerio de la ley.
 
