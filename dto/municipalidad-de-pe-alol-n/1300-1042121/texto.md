@@ -114,7 +114,11 @@ Consulta popular. Los vecinos tendrán derecho a ser consultados respecto de los
 
 #### Artículo 14
 
-Las instancias de participación tienen por objeto la intervención de todos los vecinos de la comuna de Peñalolén en la vida política, económica, cultural y social de ésta, dando cumplimiento a su rol de canal inmediato de participación ciudadana en los asuntos públicos. Así, las instancias de participación generarán espacios de consulta, informe, sugerencias y de formulación de propuestas, permitiendo que los vecinos de la comuna de Peñalolén intervengan efectivamente en la gestión municipal, permitiendo la co-gestión de los asuntos relevantes para la comunidad mediante un trabajo conjunto del municipio con la comunidad.
+Las instancias de participación tienen por objeto la intervención de todos los vecinos y vecinas de la comuna de Peñalolén en la vida política, económica, cultural y social de ésta, dando cumplimiento a su rol de canal inmediato de participación ciudadana en los asuntos públicos.
+
+Así, las instancias de participación generarán espacios de consulta, información, sugerencias y de formulación de propuestas, facilitando que los vecinos y vecinas intervengan efectivamente en la gestión municipal, promoviendo la co-gestión de los asuntos relevantes para los habitantes de la comuna mediante un trabajo conjunto y colaborativo del municipio con la comunidad.
+
+Para ello el municipio facilitará el desarrollo de instancias y mecanismos, de difusión y consulta, los cuales podrán ser realizados de forma tanto presencial como remota, garantizando el cumplimiento de los principios establecidos en la presente Ordenanza y el derecho de las personas a participar con igualdad de oportunidades.
 
 #### Artículo 15
 
@@ -517,6 +521,46 @@ Son responsabilidades de la Municipalidad relativas a este Título:
 4. Generar espacios de capacitación al personal técnico administrativo de la municipalidad para que se conviertan en impulsores y ejecutores directos de la Ordenanza desde las funciones y responsabilidades que le competen.
 
 5. Evaluar permanentemente con el personal municipal y con las organizaciones del municipio el cumplimiento efectivo de la presente Ordenanza.
+
+Disposiciones Transitorias
+
+#### Artículo primero
+
+Instancias de Participación Ciudadana en los Procedimientos de Elaboración o Modificación de los Instrumentos de Planificación Territorial. En caso de que las autoridades sanitarias del país mantengan el estado de emergencia sanitaria por el brote de Coronavirus, sugiriendo y/o prohibiendo la congregación de personas, y para efectos de dar la continuidad mínima necesaria a los servicios públicos que se prestan, como es el caso del desarrollo de las actividades de participación y consulta ciudadana establecidos en el artículo 28 octies y el artículo 43 de la Ley General de Urbanismo y Construcciones (LGUC), se desarrollarán procedimientos remotos de participación y consulta, los que se detallarán a continuación.
+
+#### Artículo segundo
+
+En el marco de los procedimientos establecidos por la normativa legal vigente para la formulación y aprobación de los instrumentos de planificación urbana y de sus modificaciones, las Audiencias Públicas y Exposiciones serán parte de sus procesos de participación Ciudadana.
+
+#### Artículo tercero
+
+Las Audiencias Públicas y Exposiciones se podrán desarrollar en forma presencial o virtual o telemática, debiendo el Municipio definir previamente la modalidad a realizar, dictando el correspondiente acto administrativo que así lo disponga y los procedimientos de participación ciudadana a desarrollar, según sea el caso.
+
+#### Artículo cuarto
+
+El procedimiento virtual o telemático de Participación Ciudadana será válido para el conocimiento, presentación, exposición y formulación de observaciones por parte de la comunidad, debiendo el Municipio garantizar la plena convocatoria y el fácil acceso a las plataformas virtuales para llevar a cabo alguno de estos procesos con la comunidad, según lo resuelto previamente.
+
+#### Artículo quinto
+
+El proceso de Participación Ciudadana que considere la realización de Audiencias Públicas virtuales o telemáticas y Exposiciones virtuales o telemáticas, deberá someterse a las siguientes reglas:
+
+a. Se utilizarán las plataformas digitales más adecuadas para la correcta notificación, información, reunión, presentación y exposición de las propuestas a la comunidad;
+
+b. Las principales características del Instrumento de Planificación Territorial y su Memoria Explicativa, en conformidad a lo establecido en el número 1 del artículo 43 de la Ley General de Urbanismo y Construcciones y el número 1 del artículo 2.1.11 de su Ordenanza, estarán a disposición de la comunidad en las plataformas digitales dispuestas al efecto, con la finalidad de que los vecinos puedan acceder en cualquier momento y desde cualquier medio digital a su contenido.
+
+En estos avisos se indicará la página o link en donde los vecinos interesados podrán conectarse para asistir a las audiencias públicas a que se refiere la letra siguiente.
+
+c. Las Audiencias Públicas se efectuarán en formato virtual o telemática, en donde los vecinos podrán interactuar y/o participar haciendo consultas referidas a la propuesta del instrumento de Planificación Territorial presentada por la Municipalidad, o por la autoridad que corresponda.
+
+Se expondrá de forma permanente, el proyecto Instrumento de Planificación Territorial a la comunidad, integrados por los documentos señalados en el artículo 42 de la Ley General de Urbanismo y Construcciones y artículo 2.1.10 de su Ordenanza, es decir, con los planos y documentos respectivos, además de la evaluación ambiental estratégica, los que podrán ser descargados desde la plataforma digital establecida al efecto.
+
+d. La etapa de formulación de dudas, consultas y observaciones a la propuesta del instrumento o de la Modificación de este, según se trate, serán efectuadas por los vecinos, previa identificación, en la plataforma digital correspondiente, en una sección creada al efecto.
+
+e. Las aprobaciones y Sesiones del Concejo Municipal, y las sesiones del Consejo Económico y Social de la Comuna para efectos de la elaboración y/o modificación de un Instrumento de Planificación Territorial, podrán ser llevadas a cabo de manera virtual o telemática según la normativa vigente.
+
+#### Artículo sexto
+
+En todo lo no previsto en este procedimiento, deberá estarse a lo dispuesto en el artículo 43 de la Ley General de Urbanismo y Construcciones, y artículo 2.1.11 de su Ordenanza; y, supletoriamente, a la Sección III de esta Ordenanza.
 
 Disposición final.- Los infractores a las limitaciones y prohibiciones contenidas en la presente Ordenanza, serán denunciados al Juzgado de Policía Local de Peñalolén, el que podrá aplicar multas desde una hasta cinco Unidades Tributarias Mensuales. Lo anterior es sin perjuicio de las responsabilidades civiles y penales que correspondieren.
 
