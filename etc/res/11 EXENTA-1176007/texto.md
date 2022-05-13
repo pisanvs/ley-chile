@@ -1,0 +1,5 @@
+APRUEBA DOCUMENTO "MODIFICACIÓN DE CONTRATO DE ARRIENDO", SUSCRITO EL 05.04.2022, CON DOÑA OTILIA BENAVENTE CONTRERAS, QUE MODIFICA EL CONTRATO DE ARRIENDO, DE 17.11.1992, RECAÍDO SOBRE PARTE DEL INMUEBLE UBICADO EN CALLE ANÍBAL PINTO N° 383, ESQUINA GANA, DE LA COMUNA DE MULCHÉN , REGIÓN DEL BIOBÍO, APROBADO POR RESOLUCION N° 12 EXENTA, DE 29.01.1993, DEL EX INSTITUTO DE NORMALIZACIÓN PREVISIONAL, ACTUAL INSTITUTO DE PREVISIÓN SOCIAL
+
+Por resolución exenta I N° 11, de 14 de abril de 2022, el Jefe (S) del Departamento Administración e lnmobiliaria del Instituto de Previsión Social, aprobó el documento "Modificación de Contrato de Arriendo", suscrito el 5 de abril de 2022, entre el Instituto de Previsión Social y doña Otilia Benavente Contreras.-
+
+Nicolás Fernández Abdala, Jefe (S) Departamento Administración e Inmobiliaria.
