@@ -270,6 +270,10 @@ Sin perjuicio de lo anterior, las personas que ingresen al país antes de dicha 
 
 ### XI. DISPOSICIONES TRANSITORIAS
 
+Primer transitorio. Excepción a la obligatoriedad del seguro médico. Suspéndase desde el 16 al 31 de mayo del año 2022, ambos días inclusive, la exigibilidad del seguro médico de viaje dispuesto en el acápite V, a quienes ingresen al territorio nacional por los pasos fronterizos terrestres habilitados establecidos por resolución del Servicio Nacional de Migraciones por razones humanitarias.
+
+### XI. DISPOSICIONES TRANSITORIAS
+
 Primer Transitorio. Excepción a la obligatoriedad del seguro médico. Suspéndase desde el 1 al 15 de mayo del año 2022, ambos días inclusive, la exigibilidad del seguro médico de viaje dispuesto en el acápite V, a quienes ingresen al territorio nacional por los pasos fronterizos terrestres habilitados establecidos por resolución del Servicio Nacional de Migraciones por razones humanitarias.
 
 2° Déjase sin efecto la resolución exenta Nº 672, de 2021, que Establece plan "Fronteras Protegidas", del Ministerio de Salud.
