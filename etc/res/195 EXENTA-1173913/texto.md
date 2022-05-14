@@ -38,15 +38,9 @@ e. Salud Pública.
 
 2. Autorízase a la Corporación Nacional de Certificación de Especialidades Farmacéuticas (Conacef), como entidad certificadora de las siguientes especialidades bioquímicas, de prestadores individuales de salud:
 
-a. Farmacia Clínica.
+a. Laboratorio Clínico
 
-b. Farmacia Hospitalaria.
-
-c. Laboratorio Clínico.
-
-d. Laboratorio Forense.
-
-e. Salud Pública.
+b. Salud Pública
 
 3. Déjase constancia que, concluido el plazo de 5 años, desde la publicación de la presente resolución, la Corporación Nacional de Certificación de Especialidades Farmacéuticas (Conacef) deberá acreditar ante el Ministerio de Salud el mantenimiento de las condiciones que justificaron su autorización.
 
