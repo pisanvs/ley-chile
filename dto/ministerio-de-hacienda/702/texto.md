@@ -742,7 +742,7 @@ Tratándose de la participación en una junta de accionistas de una sociedad an�
 
 #### Artículo 104
 
-De conformidad a lo dispuesto en el artículo 59 de la ley, la citación a la junta de accionistas se efectuará por medio de un aviso destacado que se publicará, a lo menos, por tres veces en días distintos en el periódico del domicilio social o en el Diario Oficial, según corresponda. Los avisos de citación a juntas de accionistas deberán publicarse dentro de los 20 días anteriores a la fecha de su celebración. El primer aviso no podrá publicarse con menos de 15 días de anticipación a la junta.
+De conformidad a lo dispuesto en el artículo 59 de la ley, la citación a la junta de accionistas se efectuará por medio de un aviso destacado que se publicará, a lo menos, por tres veces en días distintos en el periódico del domicilio social o en el Diario Oficial, según corresponda. Los avisos de citación a juntas de accionistas deberán publicarse dentro de los 20 días anteriores a la fecha de su celebración. El primer aviso no podrá publicarse con menos de 10 días de anticipación a la junta.
 
 El aviso deberá señalar la naturaleza de la junta y el lugar, fecha y hora de su celebración y en caso de junta extraordinaria, las materias a ser tratadas en ella. Los avisos de la segunda citación a junta deberán cumplir con todos los requisitos señalados en los incisos anteriores.
 
