@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 491, del 7 de abril de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Pasaje 1 Sur N° 800, comuna de Chillán, Rol de Avalúo N° 01766-00001, de aparente dominio de Rodríguez Arias Herminda del C. La superficie afecta a expropiación parcial de 75,00 m² (Lote 75) de terreno, cuyos linderos particulares están enmarcados en el plano S16R-077, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por el Arquitecto Mario Fabrizzio Bellolio Bostica, el Constructor Civil Ítalo Renzo Zerga Arancibia, y el Ingeniero Civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $20.370.950.-
+
+Director Serviu Región de Ñuble.
