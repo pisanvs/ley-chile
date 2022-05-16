@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 101 de 28 de abril de 2022, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 10, Rol de avalúo 604-91, comuna de Mulchén, superficie 151 m2., para la obra MEJORAMIENTO RUTA Q-80, CRUCE RUTA 5 MULCHÉN - NEGRETE, COMUNAS DE MULCHÉN Y NEGRETE, PROVINCIA DE BIOBÍO, REGIÓN DEL BIOBÍO. La comisión de peritos, integrada por VALESKA CAROLINA ALÉ GOÑI, CONSUELO LORETO ZULOAGA SANHUEZA y GONZALO ANDRÉS SUAZO FIGUEROA, fijó el valor de tasación con fecha 24 de enero de 2021, acordándose la indemnización con su propietario ÁNGEL EUGENIO HERNÁNDEZ CHAVARRIGA, en la cantidad de $2.578.438.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
