@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 119 de 28 de abril de 2022, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 201, Rol de avalúo 1137-74, comuna de Ancud, superficie 238 m2., para la obra MEJORAMIENTO RUTAS W-160; W-120, SECTOR HUICHA - CAULÍN, COMUNA DE ANCUD, PROVINCIA DE CHILOÉ, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por HANDY GHISLAINE CAMPOS SEPÚLVEDA, CAROLINA CLAUDIA VERDEJO DÍAZ y YASCHALA MARIBEL YÁÑEZ RIFFO, fijó el valor de tasación con fecha 14 de mayo de 2021, acordándose la indemnización con su propietaria CARMEN CECILIA MUÑOZ ARENTSEN, en la cantidad de $2.048.002.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
