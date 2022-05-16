@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 99 de 28 de abril de 2022, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 24, Rol de avalúo 80-42, comuna de Los Lagos, superficie 297 m2., para la obra MEJORAMIENTO CBI RUTA T-525 LAS HUELLAS Y RUTA T-661 QUIMAN ALTO (LAS HUELLAS), COMUNAS DE FUTRONO Y LOS LAGOS, PROVINCIAS DE VALDIVIA Y RANCO, REGIÓN DE LOS RÍOS. La comisión de peritos, integrada por YASCHALA MARIBEL YÁÑEZ RIFFO, MARÍA SOLEDAD NÚÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, fijó el valor de tasación con fecha 09 de septiembre de 2020, acordándose la indemnización con su propietaria RUTH ELIANA FIGUEROA BRIONES, en la cantidad de $7.168.391.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
