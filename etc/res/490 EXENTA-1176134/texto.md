@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 490, del 7 de abril de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambaly N° 701, comuna de Chillán, Rol de avalúo N° 01776-00001, de aparente dominio de San Martín Bravo Blanca Lidia. La superficie afecta a expropiación parcial de 34,60 m² (lote 77) de terreno y expropiación total de 35,62 m² de edificaciones, cuyos linderos particulares están enmarcados en el plano S16R-079, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por el Arquitecto Mario Fabrizzio Bellolio Bostica, el Constructor Civil Ítalo Renzo Zerga Arancibia y el Ingeniero Civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $36.023.995.-
+
+Director Serviu Región de Ñuble.
