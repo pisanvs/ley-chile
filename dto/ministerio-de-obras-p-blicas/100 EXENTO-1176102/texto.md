@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 100 de 28 de abril de 2022, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 151-A1, Rol de avalúo 153-187, comuna de Quemchi, superficie 839 m2., para la obra MEJORAMIENTO RUTA W-175 SECTOR: LINAO - QUEMCHI, COMUNA DE QUEMCHI, PROVINCIA DE CHILOÉ, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada SONIA CATALINA GALLEGOS BLANCH, ANDRÉS ECHEVERRÍA CAMPO y YASCHALA MARIBEL YÁÑEZ RIFFO, fijó el valor de tasación con fecha 16 de abril de 2020, acordándose la indemnización con su propietaria ANDREA ALEJANDRA GONZÁLEZ PAREDES, en la cantidad de $4.235.149.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
