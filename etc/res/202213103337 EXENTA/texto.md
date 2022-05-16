@@ -1,0 +1,17 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "PATIO RODRIGO DE ARAYA"
+
+De conformidad con lo dispuesto en el artículo 94 del DS N° 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta N° 202213103337, del Servicio de Evaluación Ambiental de la Región Metropolitana, del 9 de mayo de 2022, se ha resuelto dar inicio a un proceso de participación ciudadana, por un plazo de 20 días hábiles de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del proyecto "Patio Rodrigo de Araya", cuyo titular es Patio Residencial SpA.
+
+Que, conforme a la descripción y naturaleza del proyecto "Patio Rodrigo de Araya", que hace obligatorio su ingreso al SEIA, es pertinente señalar que es un proyecto que consiste en la construcción de dos edificios de 12 pisos de altura de uso residencial con 3 niveles subterráneos. Se proyectan 468 viviendas y 75 unidades de bodegas storage con un total de 3.364 m² de capacidad de almacenamiento, se contempla también una placa comercial en el primer y segundo nivel con un total de 21 locales comerciales. La construcción considera una superficie total edificada de 39.135,49 m² en una Zona Residencial Mixta de Alta Densidad (ZU-12, Subzona 4), sobre una superficie neta de 8.001,74 m². El Proyecto considera un total 248 estacionamientos, de los cuales 235 para vehículos livianos (163 para viviendas y 25 para visitas), 13 estacionamientos de 35 m² para camiones, 20 para los locales comerciales, y 27 para bodegas. Se incluyen en el total, 12 unidades para personas con movilidad reducida y 228 estacionamientos para bicicletas. El Proyecto se ubica en Av. Vicuña Mackenna N° 2545, Rodrigo de Araya N° 50-70 y Tchaikovski N° 2530, comuna de San Joaquín, provincia de Santiago, Región Metropolitana.
+
+Que, esta Dirección Regional estima que, en concordancia con lo indicado por la jurisprudencia, resulta importante tener presente el enriquecimiento que la participación ciudadana puede aportar en la evaluación de los impactos ambientales de un proyecto, incorporando aspectos sociales y equilibrando los intereses de todos los actores que participan en el procedimiento de evaluación ambiental. Por tanto, dado el actual criterio existente en materia de participación ciudadana, existen justificaciones fundadas para proceder a otorgar la apertura de un período de Participación Ciudadana en el Proyecto "Patio Rodrigo de Araya".
+
+En virtud de lo anterior, y conforme al artículo 30° bis de la ley 19.300; y los artículos 94 y 95 del Reglamento del Sistema de Evaluación de Impacto Ambiental, la comunidad podrá realizar observaciones a la Declaración dentro de un plazo de 20 días hábiles, contados desde la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en:
+
+. Dirección Regional del SEA, ubicada en calle Miraflores N° 178, piso 3, Santiago.
+
+. Sitio web www.sea.gob.cl.
+
+Arturo Farías Alcaíno, Director Regional (S), Servicio de Evaluación Ambiental Región Metropolitana de Santiago.
