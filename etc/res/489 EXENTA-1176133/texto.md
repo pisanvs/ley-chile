@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 489, del 7 de abril de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí Nº 610 Villa Madrid, comuna de Chillán, Rol de Avalúo Nº 01981-00017, de aparente dominio de Garrido Pino Cristian Pablo. La superficie afecta a expropiación parcial de 12,65 m2 (Lote 73) de terreno y expropiación parcial de 17,72 m 2 de edificaciones, cuyos linderos particulares están enmarcados en el plano S16R-075, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 Ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por el Arquitecto Mario Fabrizzio Bellolio Bostica, el Constructor Civil Ítalo Renzo Zerga Arancibia y el Ingeniero Civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $14.372.046.-
+
+Director Serviu Región de Ñuble.
