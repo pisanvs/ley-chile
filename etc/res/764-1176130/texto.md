@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 764, de fecha 4 de mayo de 2022, del Serviu IV Región de Coquimbo, se ordenó expropiar parcialmente, por causa de utilidad pública, para la ejecución del proyecto "Mejoramiento Vías de Evacuación Localidades Costeras, Región de Coquimbo", conforme al artículo 51 ley 16.391 y DL 2.186/78, el inmueble singularizado como Lote 6, en plano de expropiación, ubicado en Totoralillo Lote D, comuna de Coquimbo, Rol de Avalúo Nº 876-416, de aparente dominio de Inversiones Totoralillo S.A., superficie Aprox. de 934,120 m2. Comisión de Peritos conformada por profesionales Jaime Jurgens Bittner, Francesca Vives Figueroa y Eduardo Tabilo González, según informe de fecha 31 de marzo de 2022, fijó indemnización provisional en 831,367 UF, pagadero al contado.-
+
+Verónica Ibacache Parraguez, Directora (S) Serviu Región de Coquimbo.
