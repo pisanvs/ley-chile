@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 386, de fecha 20 de septiembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a GTD Teleductos S.A., RUT 88.983.600-8, primera renovación de concesión marítima menor con vencimiento el día 31 de diciembre de 2026, sobre un sector de terreno de playa, en el lugar denominado Sector Norte de Cerro Quelenquehué, comuna de Quemchi, provincia de Chiloé y Región de Los Lagos, con una superficie total de 26,08 m2., la que fue tramitada con el SIABC Nº 47.973. A modo referencial se señala la siguiente coordenada geográfica: Latitud (S) 41º59'27,51"- Longitud (W) 73º30'15,92". El objeto de esta concesión marítima en el sector otorgado es continuar amparando la instalación de una cañería conductora y protectora de fibra óptica y su respectiva cámara de recepción. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Ancud. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Felipe Ortega Álvarez, Teniente 2º LT, Capitán de Puerto de Ancud.
