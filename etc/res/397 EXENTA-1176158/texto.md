@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN N° 397 EXENTA, DE FECHA 11 DE MAYO DE 2022
+
+Por resolución exenta N° 397, del 11.05.2022, del Gobierno Regional de la Araucanía,
+
+- **1.-** Que, mediante ingreso E-4107 de fecha 28.04.2022 de la Constructora Inmobiliaria y Comercializadora ICO SpA, sobre solicitud de suspensión en media calzada de tránsito en la calle Sendero del Bosque intersección Sendero de las Estrellas, comuna de Temuco, en el marco de las obras "Demolición de bandejón y reposición de calzada". El Ord. N° 399 de 25.04.2022 de la Municipalidad de Temuco, que aprueba croquis de señalización de trabajos en vía pública;
+
+- **3.-** El oficio N° 12043/2022 de fecha 10.05.2022, de la Seremi de Transportes y Telecomunicaciones Araucanía, que remite informe técnico para corte de Media Calzada de tránsito en la calle Sendero del Bosque intersección Sendero de las Estrellas, comuna de Temuco, al Gobierno Regional de la Araucanía.
+
+- **4.-** Que, en consecuencia, existe una causa justificada en los términos del artículo 113 del DFL N° 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito, para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbase, para los días 16 de mayo de 2022 hasta el 30 de junio de 2022, en horario de 8:00 a 18:30 horas, la circulación de todo tipo de vehículos motorizados y de acuerdo a lo establecido por el Municipio de Temuco y los antecedentes revisados por este Gobierno Regional. Autorízase el corte de media calzada, en calle Sendero del Bosque intersección Sendero de las Estrellas, comuna de Temuco, en el marco de los trabajos de ejecución de la Obra "Demolición de bandejón y reposición de calzada", y remitiéndose estrictamente a lo indicado en el ordinario N° 399 de la Municipalidad de Temuco.
+
+Anótese, comuníquese, publíquese y archívese.- Por orden del Sr. Gobernador Regional, Luis Loyola González, Jefe División Infraestructura y Transporte, Gobierno Regional de la Araucanía.
