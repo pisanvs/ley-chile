@@ -1,0 +1,49 @@
+RECONOCE DE OFICIO HUMEDAL URBANO DESEMBOCADURA DEL RÍO LLUTA
+
+Núm. 427 exenta.- Santiago, 29 de abril de 2022.
+
+Vistos:
+
+Lo dispuesto en el artículo 70 letra z) de la ley N° 19.300, sobre Bases Generales del Medio Ambiente; en la ley N° 21.202, que Modifica diversos cuerpos legales con el objetivo de proteger los humedales urbanos; en el decreto supremo N° 15, de 2020, del Ministerio del Medio Ambiente, que establece Reglamento de la ley N° 21.202, que Modifica diversos cuerpos legales con el objetivo de proteger los humedales urbanos; en la resolución N° 62, de 22 de enero de 2021, de este Ministerio, que Da Inicio al Proceso de Declaración de Oficio de los Humedales Urbanos que indica; en la resolución exenta N° 789, de 2 de agosto de 2021, que Amplía Plazo para Reconocimiento de Oficio de Humedales Urbanos que Indica; en la resolución exenta N° 1.241, de 29 de octubre de 2021, que Amplía Plazo para Reconocimiento de Oficio de Humedales Urbanos que Indica; en la resolución exenta N° 1.553, de 31 de diciembre de 2021, que Amplía Plazo para Reconocimiento de Oficio de Humedales Urbanos que Indica; en la resolución exenta N° 328, de 2022, del Ministerio del Medio Ambiente, Extiende aplicación de las medidas extraordinarias de visación de documentos del Ministerio del Medio Ambiente - Subsecretaría del Medio Ambiente, a raíz de la alerta sanitaria por brote de coronavirus (COVID-19); en el memorándum N° 183/2022, de 18 de abril de 2022, de la División de Recursos Naturales y Biodiversidad; en los demás antecedentes que constan en el expediente administrativo; en la resolución N° 7, de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón, y
+
+Considerando:
+
+1. Que, el artículo 1° de la ley N° 21.202 establece que tiene por objeto proteger los Humedales Urbanos declarados por el Ministerio del Medio Ambiente, de oficio o a petición del municipio respectivo, entendiendo por tales todas aquellas extensiones de marismas, pantanos y turberas, o superficies cubiertas de aguas, sean estas de régimen natural o artificial, permanentes o temporales, estancadas o corrientes, dulce, salobres o saladas, incluidas las extensiones de agua marina, cuya profundidad en marea baja no exceda los seis metros y que se encuentren total o parcialmente dentro del límite urbano.
+
+2. Que, el procedimiento de declaración de humedales urbanos de oficio se encuentra regulado en el artículo 13 y siguientes del DS N° 15, de 2020, del Ministerio del Medio Ambiente, que establece Reglamento de la ley N° 21.202, que Modifica diversos cuerpos legales con el objetivo de proteger los humedales urbanos ("Reglamento").
+
+3. Que, con la resolución N° 62, de 22 de enero de 2021, que Da Inicio al Proceso de Declaración de Oficio por el Ministerio del Medio Ambiente de los Humedales Urbanos que Indica ("Resolución N° 62"), se inició el primer proceso de declaración de humedales urbanos de oficio respecto de los 33 humedales que en dicha resolución se indican. Asimismo, dicha resolución da cuenta de la cartografía propuesta por este Ministerio para cada humedal.
+
+4. Que, con la publicación de la resolución N° 62 en el Diario Oficial el 2 de febrero de 2021, comenzó el transcurso del plazo de 15 días hábiles para la recepción de antecedentes contemplado en el artículo 13 del Reglamento. Se estimó como información pertinente aquella recibida dentro de plazo y relacionada con las circunstancias que habilitan a este Ministerio para declarar determinado humedal como Humedal Urbano según lo establecido en el artículo 1° de la ley N° 21.202, esto es, que corresponda efectivamente a un humedal y que se encuentre, total o parcialmente, ubicado dentro del límite urbano.
+
+5. Que, mediante memorándum 183/2022, la División de Recursos Naturales y Biodiversidad solicitó la declaración del Humedal Urbano Desembocadura del río Lluta, considerado en el listado de 33 humedales contenido en la resolución N° 62.
+
+6. Que, el humedal Desembocadura del río Lluta, según consta en el documento denominado "Ficha Descriptiva de Humedal Urbano a ser Declarado de Oficio por el Ministerio del Medio Ambiente" ("Ficha Descriptiva"), es un humedal marino intermareal, ubicado en la comuna de Arica, Región de Arica y Parinacota, que posee una superficie preliminar aproximada de 541 hectáreas y que se ubica parcialmente dentro del límite urbano.
+
+7. Que, para efectos de seleccionar los Humedales Urbanos a ser incluidos en el primer proceso de declaración de oficio por parte del Ministerio del Medio Ambiente, se consideró el cumplimiento de, al menos, alguno de los siguientes criterios: i) que el ecosistema presente altos niveles de amenaza actual y/o proyectada; ii) que el ecosistema constituya hábitat para especies de flora y/o fauna clasificadas en categoría de amenaza, para especies endémicas o migratorias; y, iii) que constituyan áreas de relevancia en términos culturales, sociales y turísticos o de provisión de servicios ecosistémicos esenciales a nivel local.
+
+8. Que, según consta en la Ficha Descriptiva, el humedal Desembocadura del río Lluta fue considerado en el presente proceso de declaratoria de oficio por cuanto es un ecosistema que presenta altos niveles de amenaza por la presión inmobiliaria y ha experimentado pérdida de cobertura vegetacional y contaminación del suelo por el uso agrícola; constituye hábitat de especies clasificadas en categoría de amenaza como el comesebo de los tamarugales (Conirostrum tamarugense), el gaviotín chico (Sternula lorata), el Pejerrey (Basilichthys semotilus), todas clasificadas como "En Peligro", el Murciélago coludo de Kalinowski (Mormopterus kalinowskii), y el camarón de río del norte (Cryphiops caementarius), ambas clasificadas como "Vulnerable"; y constituye un área de alto valor patrimonial, así como de recreación y turismo para los habitantes de la ciudad de Arica.
+
+9. Que, según da cuenta la denominada "Ficha Análisis Técnico Declaratoria de Humedal Urbano de Oficio por el Ministerio del Medio Ambiente" ("Ficha Técnica"), respecto del humedal Desembocadura del río Lluta se recibieron 19 presentaciones de antecedentes adicionales dentro de plazo, de conformidad a lo dispuesto en el artículo 13 del Reglamento, de las cuales 9 fueron consideradas como pertinentes para el análisis técnico dado que consistían en información referente a elementos que dan cuenta de la existencia del humedal y a su delimitación. Las restantes presentaciones consisten en información sobre la necesidad de desarrollar actividades agrícolas en el área, la existencia de oposiciones a la declaración y posibles afectaciones de eventuales proyectos de ampliación de la vía férrea. Adicionalmente se recibió una presentación de información del Ministerio de Transportes y Telecomunicaciones, sobre la eventual existencia de proyectos de ampliación de la vía férrea del Ferrocarril Arica - Tacna, propiedad del Perú y eventuales desarrollos logísticos (portuarios y aeroportuarios) en el sector norte de la desembocadura del río Lluta.
+
+10. Que, el artículo 8° del Reglamento dispone que la delimitación de los humedales deberá considerar al menos uno de los siguientes criterios: (i) presencia de vegetación hidrófita; (ii) presencia de suelos hídricos con mal drenaje o sin drenaje; y/o, (iii) régimen hidrológico de saturación ya sea permanente o temporal que genera condiciones de inundación periódica.
+
+11. Que, en atención al cumplimiento de los criterios de delimitación relativos a la presencia de vegetación hidrófita y un régimen hidrológico de saturación ya sea permanente o temporal que genera condiciones de inundación periódica, según da cuenta la Ficha Técnica, se estimó necesaria la modificación de los límites propuestos para este humedal en la cartografía original, pasando de 541 hectáreas a 481,8 hectáreas, dando lugar a la cartografía oficial.
+
+12. Que todos aquellos antecedentes que se han tenido en consideración para la presente declaración se encuentran contenidos en el expediente respectivo, publicado en la página del Ministerio https://humedaleschile.mma.gob.cl/procesos-de-­oficio/. Asimismo, en dicho expediente se contiene la cartografía oficial del Humedal Urbano Desembocadura del río Lluta.
+
+Resuelvo:
+
+1° Declárese como Humedal Urbano, para efectos de lo dispuesto en la ley N° 21.202, el humedal denominado Desembocadura del río Lluta, ubicado en la comuna de Arica, Región de Arica y Parinacota, que posee una superficie aproximada de 481,8 hectáreas.
+
+2° Establézcase los límites del Humedal Urbano Humedal Desembocadura del río Lluta, representados en la cartografía oficial, y que se detallan en coordenadas referenciales UTM según Datum WGS 84, huso 19 sur y son las siguientes:
+
+Para todos los efectos legales, la cartografía oficial, autorizada por el Subsecretario del Medio Ambiente como ministro de fe, forma parte integrante de la presente resolución y puede ser consultada en las dependencias del Ministerio del Medio Ambiente, así como en el siguiente enlace https://humedaleschile.mma.gob.cl/wp-­content/uploads/2022/04/Cartografia_Rio_Lluta.pdf.
+
+3° Infórmese que la presente resolución es reclamable ante el Tribunal Ambiental competente de conformidad a lo dispuesto en el artículo 14 del Reglamento, dentro del plazo de 30 días contado desde su publicación en el Diario Oficial.
+
+4° Publíquese la presente resolución en el Diario Oficial y en la página electrónica del Ministerio del Medio Ambiente.
+
+Anótese, comuníquese, publíquese y archívese.- María Heloísa Rojas Corradi, Ministra del Medio Ambiente.
+
+Lo que transcribo para Ud. para los fines que estime pertinente.- Maximiliano Proaño U., Subsecretario del Medio Ambiente.
