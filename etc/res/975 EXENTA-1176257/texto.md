@@ -1,0 +1,5 @@
+RECTIFICA RESOLUCIÓN N° E-2022-117 EXENTA, DE ESTA SUBSECRETARÍA
+
+Por resolución exenta N° 975, de 13 de mayo de 2022, de esta Subsecretaría, rectifícase la resolución exenta N° E-2022-117, que autorizó a Instituto de Fomento Pesquero, para efectuar una pesca de investigación, de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Evaluación y Seguimiento de la Situación Sanitaria de Peces Silvestres en Agua Dulce y Mar, 2021-2022", en el sentido de reemplazar la letra a) del numeral 4.- por la siguiente: "a.- Autorizar durante la presente pesca de investigación la captura con retención permanente de un total de 125 ejemplares por 21 zonas de muestreo, de acuerdo con lo indicado en la letra b) del numeral 1 de la Res. Ex. N° 885 de 2022, de las especies señaladas en la resolución extractada".
+
+Valparaíso, 13 de mayo de 2022.- Por orden del Sr. Subsecretario de Pesca y Acuicultura, Javier Rivera Vergara, Jefe de Gabinete.
