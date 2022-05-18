@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 452, de fecha 4 de mayo de 2022, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Región de Antofagasta, se aprobó los planes y programas de enseñanza y se autorizó a impartir el curso conducente a obtención de Licencia de Conductor Clase B, en modalidad e-learning, para la comuna de Calama a la Escuela de Conductores "Escuela de Conductores Profesionales El Loa SpA", de propiedad de la sociedad del mismo nombre, RUT Nº77.035.376-9, domiciliada en Avenida Turi Nº 2283, Villa Caspana, comuna de Calama, cuyo representante legal es don Domingo Cristian Sanhueza Rebolledo. Las horas pedagógicas autorizadas a la referida Escuela son de 8 teóricas, 12 prácticas, con un total de 20 horas pedagógicas. La correcta funcionalidad de plataforma tecnológica computacional LMS, estará siempre sujeta a auditorías, controles y fiscalizaciones que sean procedentes. La misma autorización, en copia fidedigna, deberá estar a disposición de los postulantes y alumnos del establecimiento.-
+
+Romina Daniela Vera Butt, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Antofagasta.
