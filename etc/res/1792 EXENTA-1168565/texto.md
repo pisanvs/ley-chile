@@ -76,7 +76,7 @@ Los proyectos deberán mantener todas las condiciones técnicas y de diseño pre
 
 14. Si producto de la tramitación municipal del proyecto o de un error involuntario en la información ingresada al sistema informático Rukan, hubiere que efectuar ajustes que impliquen una reducción o aumento en la cantidad de viviendas que no superen el 10% del total aprobado, no se requerirá modificar la presente resolución y solo será necesaria la modificación del convenio correspondiente.
 
-15. Los montos asignados mediante la presente resolución, ascendentes a 6.430.855 Unidades de Fomento, se imputarán a los recursos autorizados, para el año 2021, del Programa de Integración Social y Territorial.
+15. Los montos asignados mediante la presente resolución, ascendentes a 6.240.218 Unidades de Fomento, se imputarán a los recursos autorizados, para el año 2021, del Programa de Integración Social y Territorial.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
@@ -114,4 +114,6 @@ LLAMADO A CONCURSO 2021 D.S. Nº 19 (V. y U.), DE 2016
 
 ORDENADOS POR REGIÓN
 
-> **Nota.** NOTA 1 Los numerales 1° y 2° de la resolución 101 exenta, Vivienda, publicada el 29.01.2022, modifican la nómina de proyectos seleccionados y la lista de espera aprobadas mediante la presente norma, de la forma que la citada norma indica.
+> **Nota.** NOTA 1 Los numerales 1° y 2° de la Resolución 101 Exenta, Vivienda, publicada el 29.01.2022, modifican la nómina de proyectos seleccionados y la lista de espera aprobadas mediante la presente norma, de la forma que la citada norma indica.
+
+> **Nota.** NOTA 2 El número 1° de la Resolución 623 Exenta, Vivienda, publicada el 20.05.2022, modifica el presente Anexo en el sentido de eliminar de las nóminas de proyectos seleccionados, por renuncia de su Entidad Desarrolladora, los proyectos que indica de acuerdo a lo dispuesto en la tabla inserta de la citada norma.
