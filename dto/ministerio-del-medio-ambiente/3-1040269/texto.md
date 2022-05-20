@@ -226,7 +226,7 @@ Tabla 2. Concentraciones máximas de metales en lodos para aplicación al suelo
 
 Cuando las concentraciones totales de Cadmio, Mercurio, Plomo y Selenio superan los valores de 20, 4, 100 y 20 mg/kg, respectivamente, se deberá demostrar que estos lodos no son peligrosos, de acuerdo a lo establecido en el DS N°148 de 12 de junio de 2003, del Ministerio de Salud.
 
-El compost producido con lodos provenientes de plantas de tratamiento de efluentes líquidos de la industria hortofrutícola deberá cumplir las exigencias establecidas en el presente Título.
+El compost y digestato producto del compostaje o digestión anaeróbica de lodos provenientes de plantas de tratamiento de efluentes de la industria procesadora de frutas y hortalizas, que cumplan con los requisitos establecidos en las Normas Chilenas 2880:2015, Compost - Requisitos de Calidad y clasificación, y 3375:2015, Digestato - Requisitos de Calidad, respectivamente, o las que las reemplacen, no deberán cumplir con las exigencias establecidas en el presente Título.
 
 #### Artículo 13
 
