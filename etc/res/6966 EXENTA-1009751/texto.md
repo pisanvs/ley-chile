@@ -52,17 +52,11 @@ c) 11,7 - 12,7 GHz espacio - Tierra
 
 17,3 - 17,8 GHz Tierra - espacio
 
-d) 17,8 - 18,6 GHz espacio - Tierra
+d) 17,8 - 21,2 GHz espacio - Tierra
 
-18,8 - 19,3 GHz espacio - Tierra
+27,5 - 31,0 GHz Tierra - espacio
 
-27,5 - 29,1 GHz Tierra - espacio
-
-29,5 - 30,0 GHz Tierra - espacio
-
-e) 19,7 - 21,2 GHz espacio - Tierra
-
-29,5 - 31,0 GHz Tierra - Espacio
+e) Eliminado.
 
 Nota 1: Lo anterior, sin perjuicio de lo establecido en el cuadro de atribución de bandas de frecuencias del Plan General de Uso del Espectro Radioeléctrico, en especial para las bandas 10,70 - 11,7 GHz y 18,8 - 19,3 GHz que deberán coordinarse con los enlaces del servicio fijo, los cuales para efectos de disminuir las eventuales interferencias con el servicio fijo satelital solo serán autorizados fuera de zonas urbanas. En el caso de las permisionarias de servicio limitado de televisión por satélite que emplea múltiples estaciones terrenas receptoras, será de su responsabilidad tomar medidas para evitar interferencias que pudieran causar los enlaces punto a punto que existan a la fecha de la instalación de la respectiva estación terrena receptora y no reclamará protección respecto de dichos enlaces punto a punto.
 
@@ -70,7 +64,7 @@ Nota 2: De acuerdo a lo establecido en el Plan General de Uso del Espectro Radio
 
 Nota 3: Conforme a lo establecido en el Plan General de Uso del Espectro Radioeléctrico, está permitida la utilización de la banda 17,3 - 17,8 GHz para los enlaces Tierra - espacio del servicio fijo por satélite, que opera a título secundario en la banda 12,2 - 12,7 GHz (espacio - Tierra), a condición de no interferir a los enlaces de conexión del servicio de radiodifusión por satélite.
 
-Nota 4. En la banda 27,5 - 28,35 GHz (Tierra - espacio) solo se autorizará estaciones terrenas de pasarela (o Gateway). Además, dichas estaciones terrenas deberán estar ubicadas fuera de zonas urbanas consolidadas y no deberán causar interferencias perjudiciales a los servicios fijos o móviles en zonas urbanas consolidadas o industriales, que se autoricen al amparo de la resolución exenta Nº 836, de 2020, de la Subsecretaría de Telecomunicaciones.
+Nota 4. En la banda 27,5 - 28,35 GHz (Tierra - espacio) solo se autorizará estaciones terrenas de pasarela (o Gateway) y otras estaciones terrenas de similares características, en cuanto a los tamaños de antenas y ubicación geográfica. Además, dichas estaciones terrenas deberán estar ubicadas fuera de zonas urbanas consolidadas y no deberán causar interferencias perjudiciales a los servicios fijos o móviles en zonas urbanas consolidadas o industriales, que se autoricen al amparo de la resolución exenta Nº 836, de 2020, de la Subsecretaría de Telecomunicaciones.
 
 #### Artículo 3º
 
