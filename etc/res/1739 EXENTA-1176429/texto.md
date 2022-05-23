@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 1.739, de fecha 20 de abril de 2022, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se modifica la resolución exenta Nº 732, de 13 de febrero de 2015, que aprueba programa de enseñanza para obtención de licencia de conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Huelén 2", cuya propietaria es Patricia Pía Veas Araya, RUT N° 10.394.312-4, en el sentido de incorporar a continuación de la expresión "tendrá su lugar de funcionamiento en Av. José Manuel Balmaceda N° 4149, Local 2-g, comuna de Renca" la expresión: "y en su sede ubicada en Santos Dumont N° 738, local 3, comuna de Recoleta, cuya directora es Patricia Pia Veas Araya, RUT N° 10.394.312-4".-
+
+Roberto Alexis Santa Cruz González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
