@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN N° 430 EXENTA, DE FECHA 17 DE MAYO DE 2022
+
+Por resolución exenta N° 430, del 17.05.2022, del Gobierno Regional de La Araucanía,
+
+- **1.-** Que, mediante los ingresos E-4037 y E-4151 de fecha 27.04.22 y 29.04.22, respectivamente de la empresa Constructora Mauricio Gutiérrez E.I.R.L., sobre solicitud de suspensión de media calzada de tránsito, desde los días 16 de mayo de 2022, hasta el día 30 de junio de 2022, en horario de 08:00 a 18:00 horas, en calle La Anunciación N° 0406 con calle Basílica, comuna de Temuco, en el marco de la actividad "Rotura y reposición de calzada Parque Residencial Quilacoya". El Ord. N° 397 de 22.04.2022 de la Municipalidad de Temuco que aprueba croquis de señalización de trabajos en vía pública;
+
+- **3.-** El oficio N° 12046/2022 de fecha 10.05.2022, de la Seremi de Transportes y Telecomunicaciones Araucanía que remite informe técnico para corte de Media Calzada de tránsito en la calle La Anunciación N° 0406 con calle Basílica, comuna de Temuco, al Gobierno Regional de La Araucanía.
+
+- **4.-** Que, en consecuencia, existe una causa justificada en los términos del artículo 113 del DFL N° 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito, para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbase, para los días 16 de mayo de 2022, hasta el 30 de junio de 2022, en horario de 08:00 a 18:00 horas, la circulación de todo tipo de vehículos motorizados y, de acuerdo a lo establecido por el Municipio de Temuco y los antecedentes revisados por este Gobierno Regional. Autorízase el corte de media calzada, en calle La Anunciación N° 0406 con calle Basílica, comuna de Temuco, en el marco de los trabajos de ejecución de la Obra "Rotura y reposición de calzada Parque Residencial Quilacoya" y, remitiéndose estrictamente a lo indicado en el ordinario N° 397 de la Municipalidad de Temuco.
+
+Anótese, comuníquese, publíquese y archívese.- Por orden del Sr. Gobernador Regional, Luis Loyola González, Jefe División Infraestructura y Transporte, Gobierno Regional de la Araucanía.
