@@ -1,0 +1,11 @@
+AUTORIZA A WSP AMBIENTAL S.A. PARA REALIZAR PESCA DE INVESTIGACIÓN QUE INDICA
+
+Por resolución exenta Nº E-2022-137 de fecha 20/04/2022 de esta Subsecretaría, autorízase a WSP Ambiental S.A. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto "Caracterización Marina asociada al Proyecto Modificación de Proyecto Técnico, Centro de Engorda de Salmónidos, Seno Elisa, Sureste de Punta Lememorca, Región de Aysén del Gral. Carlos Ibáñez del Campo".
+
+El objetivo de la pesca de investigación que por la presente resolución se autoriza, consiste en caracterizar el fitoplancton, zooplancton y macrofauna bentónica en el área de estudio.
+
+La pesca de investigación se efectuará en un período de 18 meses, contados desde la fecha de publicación de la presente resolución, de conformidad con lo establecido en el artículo Nº 174 de la Ley General de Pesca y Acuicultura, se desarrollará en el Seno Elisa, sureste de Punta Lememorca, comuna Aysén, Región de Aysén del General Carlos Ibáñez del Campo.
+
+La peticionaria designa como persona responsable de la presente pesca de investigación a don Juan Ríos Correa.
+
+Valparaíso, 20 de abril de 2022.- Julio Salas Gutiérrez, Subsecretario de Pesca y Acuicultura.
