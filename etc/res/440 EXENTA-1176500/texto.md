@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN N° 440 EXENTA, DE FECHA 18 DE MAYO DE 2022
+
+Por resolución exenta N°440, del 18.05.2022, del Gobierno Regional de La Araucanía,
+
+- **1.-** Que, mediante los Ingreso E-3919 de fecha 21.04.22, la empresa Constructora Socem Ltda., sobre solicitud de suspensión total de calzada, en Av. General Urrutia, entre Ruta S-95T y calle Felipe Manquel, sector de Lican-Ray, comuna de Villarrica, desde la publicación del extracto de la presente resolución exenta en el Diario Oficial, hasta el día 31 de diciembre de 2022, en horario de 8:00 a 20:00 horas, en el marco de la actividad "Mejoramiento de Av. General Urrutia, Lican Ray". El Ord. N°34 de 28.04.2022 de la Municipalidad de Villarrica que aprueba croquis de señalización de trabajos en vía pública;
+
+- **3.-** El oficio N° 12049/2022 de fecha 10.05.2022, de la Seremi de Transportes y Telecomunicaciones Araucanía que remite informe técnico para corte total de calzada de tránsito en Av. General Urrutia, entre Ruta S-95T y calle Felipe Manquel, sector de Lican-Ray, comuna de Villarrica, al Gobierno Regional de La Araucanía.
+
+- **4.-** Que, en consecuencia, existe una causa justificada en los términos del artículo 113 del DFL N°1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito, para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbase, desde la publicación del extracto de la presente resolución exenta en el Diario Oficial, hasta el día 31 de diciembre de 2022, en horario de 8:00 a 20:00 horas, la circulación de todo tipo de vehículos motorizados y, de acuerdo a lo establecido por el Municipio de Villarrica y los antecedentes revisados por este Gobierno Regional. Autorízase el corte total de calzada, en Av. General Urrutia, entre Ruta S-95T y calle Felipe Manquel, sector de Lican-Ray, comuna de Villarrica, en el marco de los trabajos de ejecución de la Obra "Mejoramiento de Av. General Urrutia, Lican Ray", y remitiéndose estrictamente a lo indicado en el ordinario N° 34 de la Municipalidad de Villarrica.
+
+Anótese, comuníquese, publíquese y archívese.- Por orden del Sr. Gobernador Regional, Luis Loyola González, Jefe División Infraestructura y Transporte, Gobierno Regional de La Araucanía.
