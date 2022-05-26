@@ -882,9 +882,9 @@ El Certificado de Aeronavegabilidad se transfiere con la aeronave para la cual f
 
 2.15.1 A menos que se renuncie a él, sea caducado, suspendido o que la DGAC establezca una fecha de término diferente, los Certificados de Aeronavegabilidad tendrán la vigencia que se indica:
 
-a) Los Certificados de Aeronavegabilidad Estándar tendrán una vigencia de hasta veinticuatro (24) meses, como se indique en el mismo, siempre que el explotador garantice y pueda demostrar la Aeronavegabilidad de la aeronave, ejecutando su mantenimiento o alteraciones según lo establecido por este Reglamento y la aeronave permanezca matriculada en el país. No obstante lo anterior y por razones técnicas, la vigencia de estos certificados podrá ser extendida o restringida por la DGAC;
+a) Los Certificados de Aeronavegabilidad Estándar tendrán una vigencia de hasta nueve (9) años, como se indique en el mismo, siempre que el explotador garantice y pueda demostrar la Aeronavegabilidad de la aeronave, ejecutando su mantenimiento o alteraciones según lo establecido por este Reglamento y la aeronave permanezca matriculada en el país. No obstante lo anterior y por razones técnicas, la vigencia de estos certificados podrá ser extendida o restringida por la DGAC;
 
-b) Los Certificados de Aeronavegabilidad Especiales, excepto los Permisos Especiales de Vuelo, tendrán una vigencia de hasta doce (12) meses, como se indique en el mismo, siempre que el explotador garantice y pueda demostrar la Aeronavegabilidad de la aeronave, ejecutando su mantenimiento o alteraciones de acuerdo a lo establecido por este Reglamento y la aeronave permanezca matriculada en el país; y
+b) Los Certificados de Aeronavegabilidad Especiales, excepto los Permisos Especiales de Vuelo, tendrán una vigencia de hasta nueve (9) años, como se indique en el mismo, siempre que el explotador garantice y pueda demostrar la Aeronavegabilidad de la aeronave, ejecutando su mantenimiento o alteraciones de acuerdo a lo establecido por este Reglamento y la aeronave permanezca matriculada en el país; y
 
 c) Un Permiso Especial de Vuelo tendrá vigencia por el período de tiempo especificado en el mismo y mientras el explotador cumpla con las limitaciones técnicas y operacionales que se establezcan en él.
 
