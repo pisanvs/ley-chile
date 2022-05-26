@@ -40,7 +40,7 @@ Las naves se clasifican en mercantes y especiales y, según su porte, en naves m
 
 Son naves mercantes las que sirven al transporte, sea nacional o internacional.
 
-Son naves especiales las que se emplean en servicios, faenas o finalidades específicas, con características propias para las funciones a que están destinadas, tales como remolcadores, pesqueros, dragas, barcos científicos o de recreo, etcétera.
+Son naves especiales las que se emplean en servicios, faenas o finalidades específicas, con características propias para las funciones a que están destinadas, tales como remolcadores, pesqueras, dragas, barcos científicos o de recreo, etcétera.
 
 Son naves mayores aquellas de más de cincuenta toneladas de registro grueso, y naves menores, las de cincuenta o menos toneladas de registro grueso.
 
@@ -270,6 +270,10 @@ La navegación en aguas sometidas a la jurisdición nacional es controlada por l
 
 La navegación, según la zona donde se efectúe, es marítima, regional, fluvial, lacustre y de bahía, y deberá sujetarse a las normas profesionales, técnicas y de seguridad que prescriba la reglamentación.
 
+Con todo, como norma básica de seguridad, el uso de piloto automático solo podrá realizarse bajo la estricta observancia del capitán o patrón de la nave, o quien la tenga a su mando.
+
+Para tal efecto, toda nave a la cual le sean aplicables las disposiciones de esta ley y que cuente con piloto automático, deberá disponer de una cámara de vigilancia y un sistema de grabación, la que registrará que la persona responsable de su conducción presta la debida atención a las condiciones externas de la nave. La Autoridad Marítima establecerá las normas técnicas que deberá cumplir dicho sistema de vigilancia.
+
 #### Artículo 30
 
 Corresponde a la Dirección supervigilar la aplicación de las normas nacionales e internacionales sobre señalización marítima y, con la asesoría del Instituto Hidrográfico de la Armada, determinar la ubicación y características de los medios de señalización.
@@ -348,9 +352,7 @@ DEROGADO
 
 #### Artículo 44
 
-El armador u operador de una nave serán civil y solidariamente responsables de las transgresiones a las normas de esta ley, cometidas por el capitán en el ejercicio de sus funciones, con las excepciones que en ella misma se establecen, sin perjuicio de la responsabilidad del dueño de la nave cuando corresponda.
-
-> **Nota.** El artículo SEXTO, de la LEY 18680, publicada el 11.01.1988, dispone que las modificaciones que introduce a la presente norma, entrarán en vigencia seis meses después de su publicación.
+El armador u operador de una nave serán civil y solidariamente responsables de las transgresiones a las normas de esta ley, cometidas por el capitán en el ejercicio de sus funciones, con las excepciones que en ella misma se establecen, sin perjuicio de la responsabilidad del dueño de la nave cuando corresponda, especialmente cuando se trate de accidentes que ocasionen lesiones o pérdidas de vidas humanas, daños materiales a terceros, o perjuicios de tipo ambiental.
 
 #### Artículo 45
 
