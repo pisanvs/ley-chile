@@ -52,6 +52,8 @@ R e s u e l v o:
 
 > **Nota.** NOTA 1: El Art. 1º del DTO 130, Vivienda, publicado el 08.11.2004, modifica la presente norma en el sentido de sustituir en el terreno delimitado por la línea poligonal A-B-C-D-E-F-G-H-I-J-K-A que se ubica en el Sector de Avenida Tobalaba y calle Las Higueras, la normativa correspondiente al " Area RI-2" reemplazándola por la del " Area E-AB4" y la del " Area U-Vev4" , de conformidad a lo graficado en el Plano MPRCLF-1/2004, escala 1:2.000, denominado " Modificación Plan Regulador Comunal de La Florida".
 
+> **Nota.** NOTA 2 El Artículo primero del Decreto 20, Vivienda, publicado el 27.05.2022, modifica la presente norma en el sentido de sustituir la normativa aplicable al terreno delimitado por la línea poligonal cerrada definida por los puntos A-B-C-D-A, singularizado como Sitio Nº 7 de la manzana C del loteo denominado "Quintas Residenciales Chacra Las Perdices", Rol SII Nº6150-1, de una superficie de 4.360 m2 de propiedad del Servicio de Vivienda y Urbanización Metropolitano, ubicado en María Cristina Nº 6681, comuna de La Florida, correspondiente a la zona E-AB1 Aislada Baja Densidad Nº 1 y E-AM1 Aislada Media Densidad Nº 1; U-Vev 2, Uso preferente vivienda y equipamiento Nº 2, y U-Vev 3, Uso preferente vivienda y equipamiento Nº 3, reemplazándola por una nueva zona denominada "Zona Residencial Mixta - María Cristina", que posee normas de edificación y uso de suelo de forma conjunta, cuya sigla será "ZRM-MC", que se indica en los artículos segundo, tercero y cuarto del citado decreto, de conformidad a lo señalado en la Memoria Explicativa y sus anexos, en los Estudios de Factibilidad, Estudios Complementarios y a lo graficado en el plano MPRCLF-2 / 2019, denominado "Modificación del Plan Regulador Comunal de La Florida -Art. 50 LGUC Sector María Cristina María Cristina Nº 6681", confeccionado a escala 1:1.000 por la Secretaría Ministerial Metropolitana de Vivienda y Urbanismo, que modifica el plano PRLF-1 de "Edificación" y PRLF-2 de "Usos de Suelo" del Plan Regulador Comunal de La Florida, todos documentos que por la citada norma se aprueban.
+
 #### Artículo primero
 
 Apruébase la modificación al Plan Regulador Comunal de La Florida, conforme a lo establecido en la Memoria Explicativa, Estudio de Factibilidad de Agua Potable y Alcantarillado, Ordenanza Local y Planos denominados PRLF-1 de edificación, PRLF-2 de Zonas de Uso de Suelo y PRLF-3 de Vialidad, a escala 1:5000, confeccionados por la Municipalidad de La Florida, antecedentes que por la presente resolución se aprueban.
@@ -358,7 +360,7 @@ Zonas. Para los efectos de la aplicación del presente Plan Regulador y su Orden
 
 Áreas de Usos de Suelo, cuya sigla corresponde a la letra "U".
 
-En segundo lugar, por zonas que poseen normas de edificación y de usos en forma conjunta, que son las siguientes: Zonas de Equipamiento de Áreas Verdes, que se designan en el Plano con la sigla "AV"; Zonas de Equipamiento Deporte, cuya sigla en Plano corresponde a las letras ED; Zonas Especiales, que se indican en el Plano con la sigla "ESP"; Zonas de Resguardo de Equipamiento de Infraestructura, que se designan con la sigla "RI"; Zonas de Restricción, cuya sigla será la letra "R"; Zona de Protección Ecológica con Desarrollo Controlado, señalada en el Plano con la sigla "PEDC-3", los Inmuebles de Conservación Histórica, cuya sigla en el Plano será las letras "ICH" las Zonas del Sector Centro cuyas siglas en elplano serán Z-AA1; Z-AA2; Z-AA+CB/CM; Z- AA+CM y Z-AM, las que se encuentran graficadas en el plano PRLF-1/07 y PRLF-2/07 y las Zonas Residenciales Mixtas, cuya sigla será ZRM-DT, las que se encuentran graficadas en los planos PRLF-1 "Edificación" y PRLF-2 "Usos de Suelo.
+En segundo lugar, por zonas que poseen normas de edificación y de usos en forma conjunta, que son las siguientes: Zonas de Equipamiento de Áreas Verdes, que se designan en el Plano con la sigla "AV"; Zonas de Equipamiento Deporte, cuya sigla en Plano corresponde a las letras ED; Zonas Especiales, que se indican en el Plano con la sigla "ESP"; Zonas de Resguardo de Equipamiento de Infraestructura, que se designan con la sigla "RI"; Zonas de Restricción, cuya sigla será la letra "R"; Zona de Protección Ecológica con Desarrollo Controlado, señalada en el Plano con la sigla "PEDC-3", los Inmuebles de Conservación Histórica, cuya sigla en el Plano será las letras "ICH" las Zonas del Sector Centro cuyas siglas en el plano serán Z-AA1; Z-AA2; Z-AA+CB/CM; Z- AA+CM y Z-AM, las que se encuentran graficadas en el plano PRLF-1/07 y PRLF-2/07 y las Zonas Residenciales Mixtas, cuyas siglas serán ZRM-DT y ZRM-MC, las que se encuentran graficadas en los planos PRLF-1 "Edificación" y PRLF-2 "Usos de Suelo".
 
 #### Artículo 26
 
@@ -397,6 +399,8 @@ VER DIARIO OFICIAL DE 17.08.2001, PAGINA 14.
 > **Nota.** NOTA 2 El artículo Único Nº 6 del Decreto 461 Exento, M. DE LA FLORIDA, publicado el 09.02.2015, modifica la presente norma en el sentido de reemplazar en el cuadro, las filas que en ella indica.
 
 > **Nota.** NOTA 3 El artículo 3° del Decreto 27, M. DE LA FLORIDA, publicado el 19.06.2017, modifica la presente norma en el sentido de agregar al final del cuadro, una nueva zona que en ella indica.
+
+> **Nota.** NOTA 4 Los números 3.1 y 3.2 del artículo tercero del Decreto 20, Vivienda, publicado el 27.05.2022, modifica el cuadro inserto en el presente artículo, correspondiente a las "Zonas con Normas de Edificación y Uso de Suelo Conjunta", en el siguiente sentido que la citada norma indica.
 
 ### 2. De los Usos de Suelo y Normas Específicas
 
@@ -1655,6 +1659,12 @@ Máxima Libre
 10. Zonas Residenciales Mixtas
 
 .
+
+ZRM-MC Zona Residencial Mixta - María Cristina
+
+*Para los usos de suelo Espacio Público y Área Verde, regirá lo señalado en los artículos 2.1.30 y 2.1.31 de la OGUC, respectivamente.
+
+**A = Aislado.
 
 11. Disposiciones sobre Propaganda
 
