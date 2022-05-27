@@ -188,7 +188,9 @@ n) Informar técnicamente los planes, proyectos y programas correspondientes al 
 
 o) Autorizar modificaciones de áreas de riesgo, previo estudio fundado suscrito por un profesional especialista, y previo informe favorable del Ministerio de Obras Públicas, o sus órganos dependientes, en caso que tales áreas hubieren sido establecidas por estudios de dichas entidades. En caso de obras a que se refiere el artículo 116 bis D) de la Ley General de Urbanismo y Construcciones, dicho informe deberá ser evacuado por la citada autoridad en un plazo máximo de 15 días hábiles, contado desde la recepción del requerimiento respectivo. Transcurrido dicho plazo sin que hubiere pronunciamiento, se entenderá que no existen observaciones que formular.
 
-Las facultades de las letras h), i), j), k), l) , m), ñ) y o), precedentes, deberán entenderse en concordancia con lo que se dispone en el artículo 24° de este cuerpo legal;
+p) Resguardar que los instrumentos de planificación territorial contemplen criterios de integración e inclusión social y urbana, conforme a lo dispuesto en el numeral 17 del artículo 2 de la ley N° 16.391. La Ordenanza General de Urbanismo y Construcciones determinará el procedimiento y la forma en que se ejercerá esta facultad.
+
+Las facultades establecidas en las letras h), i), j), k), l), m), ñ), o) y p) deberán entenderse en concordancia con lo que dispone el artículo 24.
 
 De la División de Política Habitacional.
 
@@ -394,15 +396,17 @@ Las Secretarías Ministeriales Regionales y Metropolitana tendrán como misión 
 
 Deberán velar, además, por el estricto cumplimiento por parte de los Servicios Regionales y Metropolitano de Vivienda y Urbanización en sus respectivas jurisdicciones, de todos los planes, normas e instrucciones impartidas por el Ministerio y, especialmente, porque sus inversiones se ajusten estrictamente a los presupuestos aprobados para cada uno de ellos.
 
-#### Artículo 24°
+#### Artículo 24
 
-Corresponderá a cada Secretaría Ministerial, en su jurisdicción, el ejercicio de las facultades señaladas en las letras h), i), j), k), l), m), ñ) y
+Corresponderá a cada Secretaría Ministerial, en su jurisdicción, el ejercicio de las facultades señaladas en las letras h), i), j), k), l), m), ñ),
 
-- **o)** del artículo 12° y letras
+- **o)** y
+
+- **p)** del artículo 12 y en letras
 
 - **f)** y
 
-- **g)** del artículo 13° del presente decreto ley, cuando el Ministro de Vivienda y Urbanismo determine que cuentan con unidades competentes para realizar estas actividades.
+- **g)** del artículo 13, cuando el Ministerio de Vivienda y Urbanismo determine que cuentan con unidades competentes para realizar estas actividades.
 
 Asimismo, les corresponderá otorgar permisos y recepciones definitivas de construcciones en zonas declaradas afectadas por catástrofe, en los casos especiales que contempla la Ley General de Urbanismo y Construcciones. Para tal efecto podrán nombrar delegados que cumplan dichas funciones en las localidades afectadas, con las mismas competencias que el Secretario Regional Ministerial en esta materia.
 

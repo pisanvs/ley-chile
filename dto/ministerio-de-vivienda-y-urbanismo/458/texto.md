@@ -262,9 +262,19 @@ Definiciones
 
 #### Artículo 27°
 
-Se entenderá por Planificación Urbana, para los efectos de la presente ley, el proceso que se efectúa para orientar y regular el desarrollo de los centros urbanos en función de una política nacional, regional y comunal de desarrollo socio-económico.
+Se entenderá por Planificación Urbana, para los efectos de la presente ley, el proceso que se efectúa para orientar y regular el desarrollo de los centros urbanos en función de una política nacional, regional y comunal de desarrollo social, económico, cultural y medioambiental, la que debe contemplar, en todos sus niveles, criterios de integración e inclusión social y urbana.
 
 Los objetivos y metas que dicha política nacional establezca para el desarrollo urbano serán incorporados en la planificación urbana en todos sus niveles.
+
+En los nuevos planes reguladores intercomunales y comunales, en las modificaciones integrales o actualizaciones que deban efectuarse de los existentes conforme al artículo 28 sexies y en los planes seccionales que establezcan normas para zonas residenciales en comunas en las que no exista plan regulador comunal, se deberán contemplar normas urbanísticas u otras exigencias o disposiciones que resguarden o incentiven la construcción, habilitación o reconstrucción de viviendas destinadas a beneficiarios de los programas habitacionales del Estado, también denominadas viviendas de interés público.
+
+Las viviendas de interés público corresponden a aquellas viviendas destinadas a hogares que, en atención a su condición de vulnerabilidad socioeconómica o derivada de otros factores, requieren apoyos estatales u otras medidas de colaboración o impulso que les permitan acceder a una solución habitacional adecuada, sea ésta temporal o definitiva. En esta categoría se encuentran tanto los proyectos que financie, impulse o fomente el Ministerio mediante los programas habitacionales, como también aquellos proyectos destinados a la población referida en el inciso precedente que sean impulsados por cooperativas de vivienda, personas jurídicas sin fines de lucro o por otros órganos de la Administración del Estado, en el marco de sus funciones y competencias.
+
+Con el objeto de evitar o revertir la segregación urbana de las viviendas de interés público, especialmente de aquellas destinadas a las familias más vulnerables, las disposiciones que se incluyan en los planes reguladores deberán promover el acceso equitativo de la población a bienes públicos urbanos relevantes, tales como la cercanía a ejes estructurantes de movilidad, el acceso a servicios de transporte público o la disponibilidad de áreas verdes o equipamientos de interés público, como educación, salud, servicios, comercio, deporte y cultura.
+
+En la incorporación de normas de resguardo o de incentivo en los planes reguladores deberá garantizarse la participación de la comunidad. Asimismo, las referidas normas deberán ser coherentes con los antecedentes de diagnóstico que formen parte de la respectiva memoria explicativa, con el objeto que el instrumento de planificación territorial permita enfrentar, de manera efectiva y oportuna, el déficit habitacional existente.
+
+La Ordenanza General podrá establecer mecanismos de reporte y seguimiento periódico, con el objeto de revisar si las disposiciones para enfrentar el déficit habitacional y para resguardar o promover la integración social y urbana, incluidas en el respectivo plan por el gobierno regional o la municipalidad, están generando los efectos esperados o si requieren ser ajustadas o modificadas por dichos órganos antes de la siguiente actualización que corresponda efectuar conforme al artículo 28 sexies.
 
 ## Capítulo II
 
@@ -434,7 +444,11 @@ Se entenderá por Planificación Urbana Intercomunal aquella que regula el desar
 
 Cuando esta unidad sobrepase los 500.000 habitantes, le corresponderá la categoría de área metropolitana para los efectos de su planificación.
 
-La Planificación Urbana Intercomunal se realizará por medio del Plan Regulador Intercomunal o del Plan Regulador Metropolitano, en su caso, instrumentos constituidos por un conjunto de normas y acciones para orientar y regular el desarrollo físico del área correspondiente.
+La Planificación Urbana Intercomunal se realizará por medio del Plan Regulador Intercomunal o del Plan Regulador Metropolitano, en su caso, instrumentos constituidos por un conjunto de normas y acciones para orientar y regular el desarrollo físico del área correspondiente y para resguardar y promover la integración social y el acceso equitativo a bienes y servicios públicos urbanos relevantes.
+
+A los referidos planes les corresponde resguardar que la infraestructura pública de escala intercomunal sea aprovechada de manera eficiente y equitativa, mediante disposiciones que promuevan la integración social y urbana en torno a ejes de transporte público o equipamientos relevantes.
+
+En cumplimiento de lo anterior, los nuevos planes reguladores intercomunales o metropolitanos, o bien sus actualizaciones o modificaciones, podrán establecer incentivos en las normas urbanísticas aplicables en sectores que dichos planes identifiquen como zonas de buena accesibilidad a bienes y servicios públicos urbanos relevantes, condicionando tales incentivos a la incorporación de un porcentaje de viviendas de interés público.
 
 Las dispoposiciones de los artículos siguientes, referentes al Plan Regulador Intercomunal, regirán igualmente para los Planes Reguladores Metropolitanos.
 
@@ -496,13 +510,15 @@ De la Planificación Urbana Comunal
 
 #### Artículo 41°
 
-Se entenderá por Planificación Urbana Comunal aquella que promueve el desarrollo armónico del territorio comunal, en especial de sus centros poblados, en concordancia con las metas regionales de desarrollo económico-social.
+Se entenderá por Planificación Urbana Comunal aquella que promueve el desarrollo armónico del territorio comunal, en especial de sus centros poblados, en concordancia con las metas regionales de desarrollo social, económico, cultural y medioambiental y que incorpora disposiciones que resguardan y promueven la integración social y el acceso equitativo a bienes y servicios públicos urbanos.
 
 La planificación urbana comunal se realizará por medio del Plan Regulador Comunal.
 
 El Plan Regulador es un instrumento constituido por un conjunto de normas sobre adecuadas condiciones de higiene y seguridad en los edificios y espacios urbanos, y de comodidad en la relación funcional entre las zonas habitacionales, de trabajo, equipamiento y esparcimiento.
 
 Sus disposiciones se refieren al uso del suelo o zonificación, localización del equipamiento comunitario, estacionamiento, jerarquización de la estructura vial, fijación de límites urbanos, densidades y determinación de prioridades en la urbanización de terrenos para la expansión de la ciudad, en función de la factibilidad de ampliar o dotar de redes sanitarias y energéticas, y demás aspectos urbanísticos.
+
+Con todo, para la promoción de la integración e inclusión urbana, los destinos de establecimientos de larga estadía para el adulto mayor, centros diurnos para el adulto mayor, establecimientos deportivos de escala barrial, jardines infantiles y salas cunas se entenderán como complementarios a cualquier destino del uso residencial, incluyendo la vivienda, y por tanto siempre admitidos en zonas que el plan regulador comunal defina con dicho uso de suelo.
 
 #### Artículo 42°
 
@@ -566,11 +582,17 @@ Las modificaciones al Plan Regulador Comunal se sujetarán, en lo pertinente, al
 
 Sin embargo, respecto de las enmiendas que incidan en las materias que se indican a continuación, las municipalidades aplicarán lo dispuesto en los numerales 1 al 6 del inciso segundo del artículo 43 y en los incisos tercero a quinto del mismo artículo y, una vez aprobadas tales enmiendas por el concejo, serán promulgadas por decreto alcaldicio:
 
-1.- Localización del equipamiento vecinal en los barrios o sectores;
+1.- Localización del equipamiento vecinal en los barrios o sectores.
 
-2.- Ajustes en los trazados de los pasajes y de las vías locales o de servicio que tengan un informe favorable de la autoridad regional o metropolitana competente en materia urbanística, y
+2.- Ajustes en los trazados de los pasajes y de las vías locales o de servicio que tengan un informe favorable de la autoridad regional o metropolitana competente en materia urbanística.
 
 3.- Disposiciones varias relativas a las condiciones de edificación y urbanización dentro de los márgenes que establezca la Ordenanza General de esta ley.
+
+4.- Establecimiento de condiciones para la utilización de la capacidad máxima de edificación admitida en una zona con uso de suelo residencial o en parte de ésta, tales como la incorporación de viviendas de interés público u otras exigencias destinadas a promover el acceso equitativo por parte de la población a bienes públicos urbanos relevantes.
+
+5.- Establecimiento de incentivos normativos, respetando los márgenes referidos en el numeral 3, en sectores que ya admiten el uso de suelo residencial y cuyos indicadores y estándares de desarrollo urbano sean deficitarios conforme a los parámetros que establezca la Ordenanza General. Tales incentivos deberán quedar condicionados a la incorporación de viviendas de interés público y al cumplimiento de exigencias adicionales que tengan por objeto la puesta en valor o la revitalización de dicho sector, tales como la ejecución de obras específicas en el espacio público o la obligación de destinar parte de lo edificado a ciertos destinos que beneficien a la comunidad.
+
+6.- Establecimiento de incentivos normativos, respetando los márgenes referidos en el numeral 3, en sectores que ya admiten el uso de suelo residencial y cuyo potencial de densificación podría aumentarse en atención a los bienes públicos urbanos existentes o como consecuencia de las inversiones que los órganos de la Administración del Estado realizan o realizarán en materia de movilidad, transporte público, áreas verdes o equipamientos de interés público. Tales incentivos deberán quedar condicionados a la incorporación de viviendas de interés público, sin perjuicio del establecimiento de otras condiciones adicionales destinadas a promover el acceso equitativo por parte de la población a bienes públicos urbanos relevantes.
 
 #### Artículo 46
 
@@ -860,85 +882,61 @@ d) Instalación de casetas para teléfono público y refugio en paraderos de loc
 
 De las expropiaciones
 
-### Párrafo 1° — .- Disposiciones Generales
-
 #### Artículo 83
 
 Las expropiaciones que realicen las municipalidades en virtud de una declaratoria de utilidad pública se sujetarán al procedimiento contemplado en el decreto ley Nº 2.186, de 1978, Ley Orgánica de Procedimiento de Expropiaciones.
 
 #### Artículo 84
 
-DEROGADO
-
-#### Artículo 85
-
-DEROGADO
-
-#### Artículo 86
-
-DEROGADO
-
-### Párrafo 2° — .- De la Expropiación Parcial
-
-#### Artículo 87
-
-DEROGADO
-
-#### Artículo 88
-
 Tratándose de expropiaciones parciales se deducirá o imputará del monto de la indemnización el cambio de valor que adquiera la parte no expropiada como consecuencia de las inversiones que realice el Estado vinculadas con dicha expropiación, o del plan o instrumento de planificación que declaró la utilidad pública.
 
-#### Artículo 89
-
-DEROGADO
-
-#### Artículo 90°
+#### Artículo 85°
 
 La Municipalidad podrá vender en pública subasta, los terrenos sobrantes que hubiere adquirido en cualquiera forma con motivo de la aplicación de este Capítulo. También podrá dar opción a los propietarios colindantes para adquirir estos terrenos, previo informe de la Dirección de Obras Municipales, la que a su vez fijará el precio de ellos, tomando como base el valor de la expropiación o adquisición, reajustado al valor comercial. Cuando se trate de apropiaciones de retazos en favor de un mismo expropiado, los valores de aquéllas serán determinados en forma análoga a los de la expropiación.
 
-### Párrafo 3° — .- Del Pago de la Expropiación
-
-#### Artículo 91
-
-DEROGADO
-
-#### Artículo 92
-
-DEROGADO
-
-#### Artículo 93
-
-DEROGADO
-
-#### Artículo 94
-
-DEROGADO
-
-### Párrafo 4° — .- De los fondos para el pago de las expropiaciones
-
-#### Artículo 95
-
-DEROGADO
-
-#### Artículo 96
-
-DEROGADO
-
-#### Artículo 97
-
-DEROGADO
-
-#### Artículo 98
-
-DEROGADO
-
-#### Artículo 99
+#### Artículo 86
 
 Mientras una municipalidad no haga efectiva la expropiación de los terrenos declarados de utilidad pública de acuerdo a lo prescrito en el artículo 59, la parte afectada de dichos inmuebles estará exenta del pago de contribuciones.
 
 Para hacer efectiva esta exención, el interesado deberá acompañar al Servicio de Impuestos Internos un certificado de informaciones previas que acredite qué parte del predio se encuentra declarada de utilidad pública en virtud del instrumento de planificación respectivo.
 
-### Párrafo 5° — .- Del pago de las expropiaciones en Viviendas Económicas
+## Capítulo VIII
+
+De la regeneración de barrios o conjuntos habitacionales de viviendas sociales altamente segregados o deteriorados
+
+#### Artículo 87
+
+El Ministerio de Vivienda y Urbanismo, atendida la necesidad de realizar una renovación integral de sectores afectados por un elevado déficit habitacional cuantitativo o cualitativo y una fuerte segregación urbana, podrá acogerse a las disposiciones especiales contenidas en los artículos siguientes, cuando impulse procesos de regeneración de barrios o de conjuntos habitacionales de viviendas sociales.
+
+La regeneración de barrios o conjuntos habitacionales altamente deteriorados o irrecuperables requiere la aprobación de una estrategia de intervención, denominada Plan Maestro de Regeneración, compuesto por acciones y obras tendientes a dar respuesta a las problemáticas diagnosticadas, mediante la rehabilitación, construcción o reconstrucción de viviendas; la dotación de equipamiento comunitario y áreas verdes; el mejoramiento del estándar de urbanización; la gestión de la movilidad habitacional y la organización comunitaria, entre otras.
+
+#### Artículo 88
+
+El Plan Maestro de Regeneración corresponde a una herramienta de gestión pública, impulsada y reglamentada por el Ministerio de Vivienda y Urbanismo y que debe formularse en conjunto con la comunidad y la municipalidad. Atendida la necesidad de que las acciones y obras allí contenidas puedan concretarse con la mayor rapidez, eficiencia y eficacia posibles, se requiere que su aprobación esté vinculada a los siguientes efectos normativos sobre el territorio a intervenir:
+
+a) El Plan Maestro de Regeneración que se ejecute sobre un sector respecto del cual el Servicio Regional de Vivienda y Urbanización hubiere adquirido la totalidad de los inmuebles existentes, podrá contemplar la eliminación o reemplazo de espacios públicos existentes. En tal caso, éstos quedarán desafectados del uso público como consecuencia de la publicación del Plan y serán subrogados por las nuevas circulaciones, plazas y parques que se construirán, transfiriéndose los espacios que se desafectan al Servicio Regional de Vivienda y Urbanización respectivo, para que los destine a la ejecución de las obras que contempla el Plan.
+
+Las superficies que el Plan destine a circulaciones, plazas y parques se considerarán incorporadas al dominio nacional de uso público, una vez que la dirección de obras municipales efectúe la recepción definitiva de las correspondientes obras de urbanización, en línea con lo establecido en la letra a) del artículo 135. Asimismo, efectuada la recepción definitiva, las superficies destinadas a circulaciones, plazas y parques pasarán automáticamente a ser parte del plan regulador de la comuna, en línea con lo establecido en el artículo 69.
+
+b) El Plan Maestro de Regeneración podrá contemplar la modificación de las normas urbanísticas aplicables, con el objeto de viabilizar la reconstrucción de las viviendas existentes y las demás obras de regeneración barrial. En tal caso, el Plan Maestro corresponderá a la imagen objetivo y memoria explicativa de esta modalidad excepcional de modificación del plan regulador comunal y deberá incluir, además, el nuevo cuadro normativo aplicable.
+
+Para que el Plan Maestro genere los efectos señalados en las letras precedentes, se requiere que sea publicado en el Diario Oficial, previa aprobación del concejo municipal y promulgación mediante decreto alcaldicio.
+
+#### Artículo 89
+
+En aquellos sectores protegidos bajo la categoría de Zona Típica o Zona de Conservación Histórica, o en alguna de las categorías que las reemplacen, deberán resguardarse los valores y atributos por los cuales dichas zonas fueron protegidas. En consecuencia, en tales áreas de protección de recursos de valor patrimonial cultural no podrán implementarse Planes Maestros de Regeneración.
+
+#### Artículo 90
+
+En el marco de la elaboración o ejecución del Plan Maestro de Regeneración, los Servicios Regionales de Vivienda y Urbanización podrán requerir a la dirección de obras municipales respectiva la evaluación conjunta, en un solo expediente, de algunas o todas las autorizaciones o permisos necesarios para configurar la nueva forma urbana que contemple el referido Plan Maestro. En consecuencia, podrá resolverse, en un solo acto, la desafectación al régimen de copropiedad inmobiliaria de los condominios existentes, la fusión y/o subdivisión de inmuebles, el otorgamiento del o los correspondientes permisos para la ejecución de las obras de edificación y/o de urbanización y cualquier otro acto administrativo necesario para viabilizar la renovación del sector.
+
+En línea con lo anterior, las inscripciones, anotaciones y archivos de planos para dejar constancia de la desafectación al régimen de copropiedad inmobiliaria, de la fusión y/o subdivisión de inmuebles o de cualquier otro acto previo al otorgamiento del o los correspondientes permisos de edificación o de urbanización, podrán efectuarse, de manera sucesiva y en el orden que corresponda, una vez aprobadas todas las solicitudes ingresadas ante la dirección de obras municipales.
+
+En consecuencia, para el otorgamiento del o los permisos de edificación y/o de urbanización de las obras que contemple el Plan Maestro no se requerirá acreditar que se han efectuado las correspondientes inscripciones, anotaciones y archivos de planos ante el Conservador de Bienes Raíces, el Servicio de Impuestos Internos u otro órgano con competencias en la materia, sin perjuicio que el inicio de las obras requerirá el ingreso de las mencionadas solicitudes ante dichos órganos, y que la recepción definitiva de tales obras quedará condicionada a la acreditación de que los referidos trámites han sido efectuados.
+
+#### Artículo 91
+
+Si durante la ejecución de las obras contempladas en el Plan Maestro de Regeneración, falleciere alguno de los beneficiarios, el Servicio Regional de Vivienda y Urbanización podrá autorizar que las obras continúen hasta su finalización y recepción definitiva, aun cuando se encuentren en trámite los procedimientos de posesión efectiva e identificación de los sustitutos de los beneficiarios fallecidos.
 
 #### Artículo 100
 
@@ -1766,7 +1764,7 @@ Las viviendas ya construidas por las ex Corporaciones de la Vivienda, de Servici
 
 Los edificios ya construídos, que al ser alterados o reparados se transformen en viviendas de una superficie edificada no superior a 140 metros cuadrados por unidad de vivienda, podrán acogerse a los beneficios, franquicias y exenciones de las viviendas económicas y se considerarán como tales para todos los efectos legales, siempre que reúnan las características, requisitos y condiciones que se determinan en este Título, en el decreto con fuerza de ley N° 2, de 1959, en el Reglamento Especial de Viviendas Económicas y en los casos que corresponda, además, cumplan los requisitos de la ley N° 6.071 y su Ordenanza. El permiso de alteración o reparación, una vez aprobado por la Dirección de Obras Municipales, deberá reducirse a escritura pública en la forma y condiciones que determina el artículo 18° del decreto con fuerza de ley N° 2, de 1959.
 
-En las viviendas económicas podrá también instalarse un pequeño comercio, sin perder las franquicias otorgadas por el decreto con fuerza de ley N° 2, de 1959, del Ministerio de Hacienda, cuyo texto definitivo fue fijado por el decreto supremo N° 1.101, de 1960, del Ministerio de Obras Públicas, siempre que su principal destino subsista como habitacional. Con todo, no podrán acogerse a la disposición anterior los comercios que tengan por objeto el expendio y/o venta de bebidas alcohólicas, el establecimiento de juegos electrónicos, salones de pool, juegos de azar, la exhibición de videos u otros que provoquen ruidos u olores molestos y demás cuyo giro esté prohibido por ordenanzas locales o municipales.
+En las viviendas económicas podrá también instalarse un pequeño comercio, sin perder las franquicias otorgadas por el decreto con fuerza de ley N° 2, de 1959, del Ministerio de Hacienda, cuyo texto definitivo fue fijado por el decreto supremo N° 1.101, de 1960, del Ministerio de Obras Públicas, siempre que su principal destino subsista como habitacional. Con todo, no podrán acogerse a la disposición anterior los comercios que tengan por objeto el expendio y/o venta de bebidas alcohólicas, el establecimiento de juegos electrónicos, salones de pool, juegos de azar, la exhibición de videos u otros que provoquen ruidos u olores molestos y demás cuyo giro esté prohibido por ordenanzas locales o municipales. Las ordenanzas locales o municipales no podrán limitar la presencia de jardines infantiles, establecimientos de larga estadía y centros diurnos de adulto mayor.
 
 En las viviendas económicas podrá consultarse el funcionamiento de pequeños talleres artesanales o el ejercicio de una actividad profesional, si su principal destino subsiste como habitacional.
 
@@ -1795,6 +1793,8 @@ a) 20% del total de la superficie construida en los conjuntos habitacionales de 
 b) 30% del total de la superficie edificada en los conjuntos habitacionales formados exclusivamente por edificios de departamentos de 3 o más pisos.
 
 La limitación de los porcentajes antes señalados no regirá en las zonas en que el Plan Regulador admite los destinos a que se refiere este artículo.
+
+La falta de concordancia entre los destinos admitidos en el inciso primero y los permitidos por el plan regulador no será causal para la denegación o caducidad de las patentes municipales requeridas para el funcionamiento de tales destinos. No podrán acogerse a esta disposición los comercios que tengan por objeto el expendio y/o venta de bebidas alcohólicas, el establecimiento de juegos electrónicos, salones de pool, juegos de azar, la exhibición de videos u otros que provoquen ruidos molestos.
 
 #### Artículo 166
 
@@ -1982,17 +1982,27 @@ En estos casos deberá considerarse el área de influencia total del proyecto pa
 
 #### Artículo 184
 
-Los planes reguladores comunales podrán otorgar incentivos en las normas urbanísticas aplicadas en todo o parte de su territorio condicionados al desarrollo de espacios públicos o al mejoramiento de los ya existentes, a la materialización, reparación o mejoramiento de equipamientos públicos, a la instalación o incorporación de obras de arte en el espacio público o al cumplimiento de otras condiciones que induzcan o colaboren en el mejoramiento de los niveles de integración social y sustentabilidad urbana.
+Los planes reguladores comunales podrán otorgar incentivos en las normas urbanísticas aplicadas en todo o parte de su territorio condicionados al desarrollo de proyectos de viviendas de interés público, de espacios públicos o de espacios privados abiertos al uso o tránsito público; al mejoramiento de los espacios públicos ya existentes; a la materialización, reparación o mejoramiento de equipamientos públicos; a la instalación o incorporación de obras de arte en el espacio público; a la incorporación de equipamiento y obras que aporten al cuidado ambiental y a la eficiencia energética; a la incorporación de viviendas de interés público o usos de suelo en los proyectos o al cumplimiento de otras condiciones que induzcan o colaboren en el mejoramiento de los niveles de integración social y sustentabilidad urbana.
 
-El cumplimiento de las condiciones anteriores será requisito para la recepción de los proyectos, aplicándoseles lo dispuesto en el artículo 173.
+El cumplimiento de las condiciones anteriores será requisito para la recepción de los proyectos que se acojan a los incentivos de normas urbanísticas, aplicándoseles lo dispuesto en el artículo 173.
 
-La aprobación de un plan con estos incentivos dejará sin aplicación en el territorio planificado los artículos 63, 107, 108 y 109 de esta ley.
+El plan regulador comunal deberá precisar el área en que dichos incentivos serán aplicables. La aprobación de un plan con estos incentivos dejará sin aplicación en dicho sector los artículos 63, 107, 108 y 109.
+
+Con todo, en aquellos sectores protegidos bajo la categoría de Zona Típica o Zona de Conservación Histórica, o en alguna de las categorías que las reemplacen, necesariamente deberán respetarse las normas urbanísticas que el plan regulador establezca o hubiere establecido para resguardar los valores y atributos por los cuales dichas zonas fueron protegidas. En consecuencia, en tales áreas de protección de recursos de valor patrimonial cultural, no podrán establecerse incentivos normativos.
 
 #### Artículo 184 bis
 
-Las viviendas sociales que resulten de la aplicación de los incentivos permitidos en los artículos precedentes o en otras normas se identificarán en los respectivos permisos de edificación y recepciones municipales, y sólo podrán ser adquiridas u ocupadas por personas que cumplan los requisitos relativos a los programas habitacionales específicos a que correspondan esas viviendas o los de los programas que los reemplacen.
+Las viviendas de interés público que resulten de la aplicación de las condiciones, exigencias, beneficios o incentivos referidos en los artículos 27, 34, 45, 183 y 184 o en otras normas legales, deberán quedar singularizadas en los respectivos permisos de edificación y recepciones municipales.
 
-Dichas viviendas quedarán sujetas a la prohibición de ser transferidas a personas que no paguen total o parcialmente el precio con el subsidio referido al programa habitacional específico original, o al que lo reemplace.
+Cuando las viviendas a que hace referencia el inciso anterior estén destinadas a beneficiarios de programas públicos para la adquisición del dominio, en los contratos de compraventa que sirvan de título para constituir el dominio de manera originaria sobre tales viviendas se deberá dejar constancia que el comprador es beneficiario del programa habitacional del Estado que corresponda.
+
+Las viviendas referidas en el inciso anterior cuyo precio haya sido pagado exclusivamente mediante apoyo estatal y el ahorro mínimo exigido, si correspondiere éste, sólo podrán ser vendidas posterior y sucesivamente a personas que sean beneficiarias de algún apoyo estatal para la adquisición del dominio y siempre que haya transcurrido el plazo de la prohibición de celebrar actos y contratos que le sea aplicable, conforme a lo establecido en el artículo 29 de la ley N° 17.635. Respecto de estos contratos de compraventa también será aplicable lo señalado en el inciso precedente.
+
+El beneficiario no podrá vender ni enajenar la vivienda antes del cumplimiento del plazo de la referida prohibición de celebrar actos y contratos, sino con autorización del Director Regional del Servicio de Vivienda y Urbanización respectivo. En caso de acceder a la solicitud, el Director Regional deberá condicionar su otorgamiento a la restitución del o de los subsidios recibidos, debidamente reajustados conforme a los índices o indicadores que la legislación contemple a la fecha de la restitución. Sólo en casos debidamente justificados y por resolución fundada, el mencionado Director Regional podrá autorizar la venta y enajenación de la vivienda antes del vencimiento del plazo de la prohibición sin requerir la restitución referida.
+
+Sin perjuicio de lo señalado en el inciso precedente, el Director Regional respectivo también podrá autorizar la venta y enajenación de una vivienda afecta a prohibición en razón del subsidio recibido, sin requerir la restitución de éste, bajo las siguientes condiciones copulativas: a) que la vivienda sea transferida a un beneficiario del mismo programa que otorgó subsidio al vendedor o del programa equivalente que lo reemplace, o bien, a un beneficiario de un programa destinado a hogares con mayor vulnerabilidad que la del vendedor, y b) que el vendedor destine el precio de esa enajenación a la compra de otra vivienda. Este mecanismo de movilidad habitacional se regirá por las normas reglamentarias dictadas por el Ministerio de Vivienda y Urbanismo.
+
+Lo señalado en los dos incisos precedentes será aplicable tanto a las viviendas referidas en el inciso primero como a cualquier otra vivienda financiada total o parcialmente con recursos del Estado.
 
 ## Capítulo V
 

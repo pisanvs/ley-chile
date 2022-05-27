@@ -16,7 +16,7 @@ Créase el Ministerio "de la Vivienda y Urbanismo", al cual corresponderán las 
 
 #### Artículo 2°
 
-El Ministerio tendrá a su cargo la política habitacional del país y la coordinación de las instituciones que se relacionen con el Gobierno por su intermedio, y, en especial, ejercerá las siguientes funciones:
+El Ministerio tendrá a su cargo la política habitacional y urbana del país y la coordinación de las instituciones que se relacionen con el Gobierno por su intermedio, y, en especial, ejercerá las siguientes funciones:
 
 1°- Elaborar los planes de viviendas urbanas y rurales, equipamiento comunitario y desarrollo urbano;
 
@@ -40,13 +40,19 @@ El Ministerio tendrá a su cargo la política habitacional del país y la coordi
 
 11°- Divulgar los planes de construcción de viviendas, a través de exposiciones u otros medios e investigar la opinión de los usuarios de viviendas;
 
-12°- Fomentar la organización y desarrollo de cooperativas de viviendas, los sistemas de autoconstrucción y todo lo relacionado con ellos;
+12°.- Fomentar la organización y desarrollo de comités habitacionales y cooperativas de viviendas, los sistemas de autoconstrucción y todo lo relacionado con ellos;
 
 13°- Fomentar y estimular el ahorro y el crédito destinados a fines habitacionales;
 
-14°- Reglamentar y supervigilar las transaciones y el corretaje de bienes ráices urbanos y viviendas rurales, siempre que éstos se ofrezcan al público como unidades de conjuntos habitacionales o loteos; lo anterior se entenderá sin perjuicio de las facultades que le corresponden al Ministerio de Economia, Fomento y Reconstrucción en la reglamentación, tuición y supervigilancia del ejercicio de la profesión de Corredor de Propiedades y de Productos, y
+14°- Reglamentar y supervigilar las transaciones y el corretaje de bienes ráices urbanos y viviendas rurales, siempre que éstos se ofrezcan al público como unidades de conjuntos habitacionales o loteos; lo anterior se entenderá sin perjuicio de las facultades que le corresponden al Ministerio de Economia, Fomento y Reconstrucción en la reglamentación, tuición y supervigilancia del ejercicio de la profesión de Corredor de Propiedades y de Productos;
 
-15°- En general, conocer y estudiar todos los asuntos, materias y problemas relacionados con la vivienda, obras de equipamiento comunitario y desarrollo urbano.
+15°.- Implementar políticas y programas habitacionales cuyo objetivo sea enfrentar el déficit en vivienda y desarrollo urbano de las familias más vulnerables y que promuevan e induzcan de forma idónea a la integración e inclusión social y urbana, fomentando el emplazamiento de viviendas con óptimos estándares constructivos de calidad, objeto de cualquier tipo de subsidio, en sectores con adecuados indicadores y estándares de calidad de vida y desarrollo urbano. Todo lo anterior, conforme a los parámetros que establezca la Ordenanza General de Urbanismo y Construcciones y los decretos que regulen los programas habitacionales destinados a las familias vulnerables, de sectores emergentes y medios, incorporando en todos ellos una perspectiva de género;
+
+16°.- Implementar políticas de suelo, estableciendo medidas que tengan por objeto reducir y contener el déficit habitacional y urbano y que propicien la construcción y disponibilidad de viviendas de interés público, mediante la adquisición, destinación o habilitación normativa de terrenos para el otorgamiento de soluciones habitacionales definitivas o transitorias; el impulso de procesos de regeneración de barrios o conjuntos habitacionales altamente segregados o deteriorados; o el fomento de procesos de reconversión o rehabilitación de edificaciones que presenten obsolescencia funcional, entre otras medidas;
+
+17°.- Resguardar que los instrumentos de planificación territorial contemplen criterios de integración e inclusión social y urbana, mediante normas urbanísticas u otras exigencias o disposiciones que resguarden o incentiven la construcción, habilitación o reconstrucción de viviendas destinadas a familias vulnerables, de sectores emergentes y medios y que promuevan el acceso equitativo por parte de la población a bienes públicos urbanos relevantes, tales como la cercanía a ejes estructurantes de movilidad, el acceso a servicios de transporte público o la disponibilidad de áreas verdes o equipamientos de interés público, como educación, salud, servicios, comercio, deporte y cultura, entre otras medidas, y
+
+18°- En general, conocer y estudiar todos los asuntos, materias y problemas relacionados con la vivienda, obras de equipamiento comunitario y desarrollo urbano.
 
 #### Artículo 3°
 
