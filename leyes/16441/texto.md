@@ -76,11 +76,11 @@ En la ejecución de las resoluciones judiciales, el Juez de la causa ordenará s
 
 #### Artículo 13°
 
-En los delitos contemplados en los Títulos VII y IX del Libro Segundo del Código Penal, cometidos por naturales de la Isla y en el territorio de ella, se impondrá la pena inferior en un grado al mínimo de los señalados por la ley para el delito de que sean responsables.
+Derogado.
 
 #### Artículo 14°
 
-En aquellos casos en que el Tribunal deba aplicar penas de presidio, reclusión o prisión podrá disponer que hasta dos tercios de ellas puedan cumplirse fuera del establecimiento carcelario, fijando en la sentencia las condiciones de trabajo y residencia que deba llevar el condenado y el tiempo por el cual se concede este beneficio, el que podrá suspenderse o revocarse por el Juez, de oficio o a petición de parte, por medio de una resolución fundada, que se apoye en el incumplimiento de las condiciones impuestas.
+Derogado.
 
 #### Artículo 15°
 
