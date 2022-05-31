@@ -34,6 +34,8 @@ h) Coordinador/a Macroeconómico/a
 
 i) Asesor/a Legislativo.
 
+j) Asesor Macroeconómico de la Subsecretaría de Hacienda.
+
 2. Regístrese, a contar de la fecha de publicación en el Diario Oficial, en los Registros de Agenda Pública señalados en la Ley del Lobby, la información pertinente a los sujetos pasivos establecidos precedentemente.
 
 3. Publíquese el presente acto administrativo en el Diario Oficial, en conformidad al artículo 48 letra b) de la Ley N° 19.880, que Establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado, y publíquese en los sitios electrónicos indicados en el artículo 9° de la ley N° 20.730.
