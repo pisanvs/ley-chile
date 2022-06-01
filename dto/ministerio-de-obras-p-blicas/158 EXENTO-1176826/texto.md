@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº158, de 04 de mayo de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 7, para la obra: MEJORAMIENTO CBI IMPERIAL CARAHUE POR EL BAJO, que figura a nombre de PIUTRIN QUINILEN CLARA S., rol de avalúo 603-256, Comuna de NUEVA IMPERIAL, REGION DE LA ARAUCANÍA, superficie 524 m2. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, HANDY GHISLAINE CAMPOS SEPULVEDA y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 30 de abril de 2021, fijó el monto de la indemnización provisional en la cantidad de $2.481.200 para el lote Nº7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
