@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 202 de 5 de mayo de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 104 para la obra: MEJORAMIENTO RUTA NAHUELBUTA. SECTOR A. SUBSECTOR 2: RUTA 5 - PUENTE COIHUE, Región del Bio Bío, que figura a nombre de RAVANAL VILLA RAMON, rol de avalúo 1563-14 de la comuna de Los Ángeles, superficie 1.743 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 411 de 24 de septiembre de 2021, integrada por Víctor Marcelo Soto Troncoso, Andrés Rainer Schulz Villanueva y Gustavo Sebastián Fonseca Cruces, mediante informe de tasación de 15 de noviembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $12.756.050 para el lote N° 104. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
