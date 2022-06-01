@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº140, de 04 de mayo de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.2 y 4, para la obra: MEJORAMIENTO VARIANTE ZANJA, que figuran a nombre de GONZALEZ CURIQUEO ARMANDO Y OTRO y GONZALEZ CURIQUEO ARMANDO Y OTRO, roles de avalúo 3208-49 y 3208-49, Comuna de PADRE LAS CASAS, REGION DE LA ARAUCANÍA, superficies 1.100 y 806 m2 respectivamente. La Comisión de Peritos integrada por PABLO ALEJANDRO SEPULVEDA GOMEZ, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informes de tasación de fecha 09 de abril de 2021, fijó el monto de la indemnización provisional en la cantidad de $6.415.000.- para el lote Nº2, y $5.622.850.- para el lote Nº4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
