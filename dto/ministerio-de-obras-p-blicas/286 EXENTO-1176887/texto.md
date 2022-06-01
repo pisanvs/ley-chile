@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 286, de 24 de mayo de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c) y 14° letra e) del DFL. MOP. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N° 206 de 1960; artículo 10 de la Ley N° 18.772, se expropió para la EMPRESA DE TRANSPORTE DE PASAJEROS METRO S.A., el lote de terreno N° 300L7, para la obra: PROYECTO LÍNEA 7 METRO S.A., que figura a nombre de FLORES GONZALEZ EMELINA Y OTS, Rol de avalúo 4159-16, Comuna de CERRO NAVIA, REGIÓN METROPOLITANA DE SANTIAGO, superficie 162 m2. La Comisión de Peritos integrada por PATRICIA VERONICA ZAVALA CONTRERAS, PAOLA ANDREA VAN DE WYNGARD SOTO y PATRICIA ANGELICA MORALES RIVERA, mediante informe de tasación de fecha 03 de diciembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $112.775.000.- para el lote N° 300L7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
