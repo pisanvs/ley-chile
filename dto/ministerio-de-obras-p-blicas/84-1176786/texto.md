@@ -1,0 +1,13 @@
+AMPLIACIÓN DE CONCESIÓN DE SERVICIOS SANITARIOS PARA ATENCIÓN DEL ÁREA DENOMINADA "SECTOR VISTA EL GOLF", DE LA COMUNA DE TEMUCO, REGIÓN DE LA ARAUCANÍA
+
+Por decreto número 84, del Ministerio de Obras Públicas, de fecha 13 de agosto de 2020, íntegramente tramitado el 29 de abril de 2022, se concedió a la Empresa Concesionaria de Servicios Sanitarios S.A. (Econssa Chile S.A.), RUT Nº 96.579.410-7, domiciliada para estos efectos en calle Monjitas número 392, piso 10, oficina 1003, Santiago, Región Metropolitana, ampliación de las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas para atender el área denominada "Vista El Golf", de la comuna de Temuco, Región de la Araucanía.
+
+El área de concesión o territorio operacional de los servicios de producción y distribución de agua potable y de recolección y disposición de aguas servidas, se encuentra identificada y delimitada en el plano denominado "Solicitud de Concesión Territorio Operacional de Agua Potable y Aguas Servidas Sector Vista El Golf, Temuco Contenido: Sector de Ampliación Territorio Operacional Planta General", que forma parte integrante del presente decreto. Se espera que en el primer establecimiento (2024) contar con 250 arranques de agua potable y 250 uniones domiciliarias de alcantarillado, los que aumentarán a 510, en ambos casos, hacia el final del periodo (año 2034).
+
+El servicio público de producción de agua potable del sector que se amplía por este decreto, será abastecido por las fuentes que se indican en el numeral 3.1, letra a), de la respectiva Ficha de Antecedentes Técnicos (FAT), sobre las cuales la concesionaria tiene los derechos que se individualizan en los respectivos informes de títulos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el Art. 26º del DS MOP Nº 1.199/04, y se encuentran afectos a la concesión. Todos los documentos indicados forman parte integrante del presente decreto.
+
+Las demás condiciones de prestación de los servicios otorgados en concesión, son las establecidas en la Ficha de Antecedentes Técnicos (FAT) Nº SC-09-29-F, que forma parte integrante del presente decreto.
+
+Programa de desarrollo, nivel tarifario, garantías y otros en decreto extractado que se redujo a escritura pública con fecha 10 de mayo de 2022, ante el Notario de la 8ª Notaría de Santiago, don Luis Ignacio Manquehual Mery y archivados en la Superintendencia de Servicios Sanitarios bajo el Nº SC 09-29 F.
+
+Santiago, mayo de 2022.- Jorge Rivas Chaparro, Superintendente de Servicios Sanitarios.
