@@ -12,33 +12,7 @@ En todo caso, el Ministerio de Transporte y Telecomunicaciones podrá modificar 
 
 2. Junto con entregarse los certificados de revisión técnica y/o de verificación de emisiones, cuando los exámenes den resultado de ''aprobado'', la planta revisora deberá adherir en cada caso en el parabrisas del vehículo, distintivos numerados, en lugares adyacentes en que no se obstaculice la visión del conductor. Los distintivos serán otorgados correlativamente y sus características serán las que fije el Ministerio de Transportes y Telecomunicaciones.
 
-3. Las revisiones técnicas de los vehículos de transporte escolar se efectuarán cada cinco meses dentro de un año calendario, según sea el último dígito de la patente única del vehículo y de acuerdo con el calendario siguiente:
-
-Ultimo dígito de la patente Meses en que
-
-única corresponde practicar la
-
-revisión
-
-0, 2, 4, 6, 8 febrero y julio
-
-1, 3, 5, 7, 9 marzo y agosto
-
-Excepcionalmente, en 2001 las revisiones técnicas de los vehículos de transporte escolar se efectuarán según sea el último dígito de la patente única del vehículo y de acuerdo con el calendario siguiente:
-
-Ultimo dígito de la patente Meses en que
-
-única corresponde practicar la
-
-revisión
-
-0, 2, 4, 6, 8 marzo y julio
-
-1, 3, 5, 7, 9 abril y agosto
-
-Junto con entregarse el certificado de revisión técnica respectivo, la planta revisora adherirá en el parabrisas del vehículo, un distintivo especial numerado, con las características que señale el Ministerio de Transportes y Telecomunicaciones, el que se ubicará en un lugar que no obstaculice la visión del conductor.
-
-4. El Nº 1 del presente decreto regirá paulatinamente a contar del 1º de abril del año 2001 y el día 1º de los meses siguientes, de acuerdo al calendario de dicho número. Así, en la fecha primeramente mencionada deberán hacer su primera revisión cuatrimestral los vehículos cuya patente termine en 1, 5 y 9, y así sucesivamente.
+3. El Nº 1 del presente decreto regirá paulatinamente a contar del 1º de abril del año 2001 y el día 1º de los meses siguientes, de acuerdo al calendario de dicho número. Así, en la fecha primeramente mencionada deberán hacer su primera revisión cuatrimestral los vehículos cuya patente termine en 1, 5 y 9, y así sucesivamente.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de La República.- Patricio Tombolini Véliz, Ministro de Transportes y Telecomunicaciones Subrogante.
 
