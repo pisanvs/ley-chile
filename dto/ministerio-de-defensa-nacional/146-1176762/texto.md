@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 146 de fecha 27 de abril de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas otorgó a nombre de Puerto Oxxean Chacabuco S.A., RUT 76.908.980-2 primera renovación de concesión marítima menor con vencimiento el 30 de junio de 2031, sobre un sector de terreno de playa en el lugar denominado Puerto y Bahía Chacabuco, comuna y Región de Aysén del General Carlos Ibáñez del Campo, con una superficie total de 1.509 m2, la que fue tramitada con el SIABC 37.189. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en continuar amparando la construcción de una explanada de concreto para ser usada como patio de operaciones portuarias y similares. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chacabuco. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
