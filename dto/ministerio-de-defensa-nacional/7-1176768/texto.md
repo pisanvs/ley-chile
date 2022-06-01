@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 7, de 7 de enero de 2022, el Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Lidia de Lourdes Cárdenas Vera, RUN 10.836.193-K, y a Patricia Maribel Cárdenas Vera, RUN 8.840.182-4, concesión marítima menor, con vencimiento el 31 de diciembre de 2026, sobre un sector de playa, en el lugar denominado Costanera de Achao, comuna de Quinchao, Provincia de Chiloé, Región de Los Lagos, con una superficie total de 300 m2, la que fue tramitada con el SIAB N° 34.079. A modo referencial se señala la siguiente coordenada geográfica: 42°28'07,79"S; 73°29'32,36"W (WGS-84). El objeto consiste en amparar la construcción existente de un restaurante y hospedería. Las obras consisten en una construcción ya existente utilizada como restaurante y hospedería. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Achao. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Dennis Gallardo Salinas, Suboficial L (Seg. M.), Capitán de Puerto de Achao.
