@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº152, de 04 de mayo de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.12-A y 13-A, para la obra: MEJORAMIENTO CBI IMPERIAL CARAHUE POR EL BAJO, que figura a nombre de CAYUPI CHEUQUECOI DOMINGO SEGU, rol de avalúo 606-405, Comuna de NUEVA IMPERIAL, REGION DE LA ARAUCANÍA, superficies 11 y 49 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, HANDY GHISLAINE CAMPOS SEPULVEDA y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 06 de septiembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.671.800 para el lote Nº12-A, y $1.112.200 para el lote Nº13-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
