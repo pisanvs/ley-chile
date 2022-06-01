@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 283, de 19 de mayo de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c) y 14º letra e) del DFL. MOP. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº 206 de 1960; artículo 10 de la Ley Nº 18.772, se expropió para la EMPRESA DE TRANSPORTE DE PASAJEROS METRO S.A., el lote de terreno Nº 322L7, para la obra: PROYECTO LÍNEA 7 METRO S.A., que figura a nombre de DIAZ OLIVARES PABLO FRANCISCO Y OTR, rol de avalúo 3131-35, Comuna de QUINTA NORMAL, REGION METROPOLITANA DE SANTIAGO, superficie 12,99 m2. La Comisión de Peritos integrada por los peritos RAUL ANTONIO BENITEZ URRUTIA, ANGELICA YANETT SEURA ROJAS y FELIPE JOSE VALDES GONZALEZ, mediante informe de tasación de fecha 20 de mayo de 2021, fijó el monto de la indemnización provisional en la cantidad de $5.072.700.- para el lote Nº322L7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
