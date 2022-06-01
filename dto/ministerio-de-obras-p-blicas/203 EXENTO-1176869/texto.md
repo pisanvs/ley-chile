@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°203 de 5 de mayo de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 289 para la obra: MEJORAMIENTO RUTA NAHUELBUTA. SECTOR A. SUBSECTOR 2: RUTA 5 - PUENTE COIHUE, Región del Bío Bío, que figura a nombre de CENTRO EMPRESARIAL APIALAN S.A., rol de avalúo 1554-259 de la comuna de Los Ángeles, superficie 398 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 416 de 24 de septiembre de 2021, integrada por Rodrigo Alexis Escobar Fernández, Loreto Isabel Hernández Ríos y Handy Ghislaine Campos Sepúlveda, mediante informe de tasación de 18 de noviembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $9.154.000 para el lote N° 289. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
