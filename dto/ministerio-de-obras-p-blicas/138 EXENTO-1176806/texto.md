@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº138, de 04 de mayo de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.55 y 60, para la obra: MEJORAMIENTO CBI IMPERIAL CARAHUE POR EL BAJO, que figura a nombre de SUC. RAIN PIUTRIN FLOR MARIA y ANCAMIL RUCAN JUAN BELISARIO, roles de avalúo 259-96 y 259-50, Comuna de CARAHUE, REGION DE LA ARAUCANÍA, superficies 94 y 77 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, HANDY GHISLAINE CAMPOS SEPULVEDA y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 23 de agosto de 2021, fijó el monto de la indemnización provisional en la cantidad de $699.200 para el lote Nº55, y $350.300 para el lote Nº60. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
