@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.700, de 19 de mayo 2022, Serviu Región del Biobío ordenó la expropiación parcial del inmueble ubicado en Camino El Venado 2055 Lt A Sec. Laguna Chica, Rol de Avalúo Nº 12108-74, comuna de San Pedro de la Paz, de aparente dominio de Inmob. e Inversiones Independencia Ltda., en una superficie de 421,26 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-41.429-1, para la ejecución de las obras del proyecto "Mejoramiento Pavimentación Avenida Camino El Venado, sector Andalué, comuna de San Pedro de la Paz", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por constructor civil Roxana Abarzúa Gajardo, por arquitecto Alberto Vallete Isla y por ingeniero civil Carlos Montecinos Galleguillos, según informe de fecha 08.04.2022, fijó monto provisional indemnización, más reajuste artículo 5º DL 2.186, en la suma de $95.974.010, pagadera de contado.-
+
+Director Serviu Región del Biobío.
