@@ -760,9 +760,9 @@ De la Jornada Extraordinaria
 
 Se entiende por jornada extraordinaria la que excede del máximo legal o de la pactada contractualmente, si fuere menor.
 
-Las partes podrán pactar horas extraordinarias sin sujeción al máximo establecido en el artículo 42 del decreto ley N° 2.200, de 1978.
+Las partes podrán pactar horas extraordinarias sin sujeción al máximo establecido en el artículo 31 del Código del Trabajo, siempre respetando los descansos mínimos establecidos en el artículo 116 del mismo cuerpo legal.
 
-Las horas extraordinarias se pagarán con un recargo del cincuenta por ciento sobre el sueldo convenido y deberán liquidarse y pagarse conjuntamente con las remuneraciones ordinarias de conformidad a lo dispuesto en el artículo 212 del Código del Trabajo.
+Las horas extraordinarias se pagarán con un recargo del cincuenta por ciento sobre el sueldo convenido y deberán liquidarse y pagarse conjuntamente con las remuneraciones ordinarias de conformidad a lo dispuesto en el artículo 32 del Código del Trabajo.
 
 #### Artículo 82
 
@@ -786,7 +786,7 @@ De los Descansos
 
 #### Artículo 84
 
-El Capitán, los Oficiales y Tripulantes a bordo de naves se encuentran exceptuados del descanso dominical y de días festivos de conformidad a lo dispuesto en el número 5° del artículo 49 del decreto ley N° 2.200 de 1978.
+El Capitán, los Oficiales y Tripulantes a bordo de naves se encuentran exceptuados del descanso dominical y de días festivos de conformidad a lo dispuesto en el número 5° del artículo 38 del Código del Trabajo.
 
 En los días domingo o festivos no se exigirá a la dotación otros trabajos que aquellos que no pueden postergarse y que sean indispensables para el servicio, seguridad, higiene y limpieza de la nave.
 
@@ -798,23 +798,49 @@ La dotación de la nave tendrá un día de descanso a la semana en compensación
 
 Si por razones de seguridad no pudiere otorgarse los descansos compensatorios, éstos se concederán acumulados una vez que la nave se encuentre fondeada en el puerto de matrícula o en el puerto que convengan las partes.
 
-Cuando se acumule más de un día de descanso en la semana, por aplicación de lo dispuesto en el inciso primero de este artículo, las partes podrán acordar una especial forma de distribución o de remuneración de los días de descanso que excedan de uno semanal. En este último caso la remuneración no podrá ser inferior a la prevista en el artículo 43 del decreto ley N° 2.200, de 1978.
+Cuando se acumule más de un día de descanso en la semana, por aplicación de lo dispuesto en el inciso primero de este artículo, las partes podrán acordar una especial forma de distribución o de remuneración de los días de descanso que excedan de uno semanal. En este último caso la remuneración no podrá ser inferior a la prevista en el artículo 32 del Código del Trabajo.
 
-## Título VII — (Arts. 86-88)
+#### Artículo 85 bis
 
-Del Cuadro Regulador de Trabajo y del Reglamento Interno
+La dotación de la nave tendrá un descanso mínimo de diez horas, dentro de cada periodo de veinticuatro horas.
+
+Las horas de descanso podrán agruparse, previo acuerdo de las partes, en dos períodos como máximo, uno de los cuales deberá ser de, al menos, ocho horas ininterrumpidas, y el intervalo entre dos períodos consecutivos de descanso no podrá exceder de catorce horas.
+
+En caso de suspensión del período de descanso a que se refiere este artículo, para garantizar la seguridad inmediata del buque, de las personas a bordo o de la carga o para socorrer a otros buques o personas que corran peligro en el mar, tan pronto como sea factible, una vez establecida la normalidad, el capitán o quien lo reemplace deberá velar por que se conceda un período adecuado de descanso a todo marino que haya trabajado durante su horario normal de descanso. A su vez, los ejercicios de lucha contra incendios y salvamento y otros ejercicios similares deberán realizarse de forma que perturben lo menos posible los períodos de descansos y que no provoquen fatiga u otra afectación al trabajador.
+
+## Título VII
+
+Del Registro de Horas Diarias de Trabajo y Descanso
+
+#### Artículo 85 ter
+
+El empleador deberá registrar las horas diarias de trabajo y descanso a través de un formato entregado por la Dirección del Trabajo, conforme lo dispuesto en los incisos cuarto y final del artículo 115 del Código del Trabajo, incorporados por la ley Nº 21.376.
+
+## Título VIII — (Arts. 86-88)
+
+## Título VIII
+
+Del Cuadro Regulador de Trabajo, del Reglamento Interno y de los contratos de trabajo, de embarco y convenios colectivos
 
 #### Artículo 86
 
-El cuadro regulador de trabajo, tanto en la mar como en puerto, dentro de los límites de la jornada legal y de acuerdo con las modalidades del artículo 199 del Código del Trabajo, será preparado y firmado por el Capitán, visado por la Autoridad Marítima para establecer su concordancia con este reglamento y fijado en un lugar de la nave, de libre y fácil acceso.
+El cuadro regulador de trabajo, tanto en la mar como en puerto, dentro de los límites de la jornada legal y de acuerdo con las modalidades del artículo 115 del Código del Trabajo, será preparado y firmado por el Capitán, visado por la Autoridad Marítima para establecer su concordancia con este reglamento y fijado en un lugar de la nave, de libre y fácil acceso.
+
+En el caso de naves que realicen viajes entre puertos nacionales e internacionales, deberán, además, llevar un ejemplar en lengua inglesa del cuadro regulador, que se deberá fijar junto a la versión en castellano.
 
 Las modificaciones al cuadro regulador, que fuere indispensable introducir durante el viaje, serán anotadas en el diario de la nave y comunicadas a la Autoridad Marítima para su aprobación o sanción de las alteraciones injustificadas que se hubieren hecho.
 
 #### Artículo 87
 
-Corresponderá al empleador dictar el respectivo reglamento interno, en conformidad a los artículos 82 y siguientes del decreto ley N° 2.200, de 1978, cualquiera sea el número de componentes de la dotación de la nave.
+Corresponderá al empleador dictar el respectivo reglamento interno, en conformidad a lo dispuesto en el Capítulo I, Título III del Libro I del Código del Trabajo, cualquiera sea el número de componentes de la dotación de la nave.
 
 El reglamento interno deberá fijarse a lo menos en dos sitios visibles de cada nave, de libre y fácil acceso.
+
+#### Artículo 87 bis
+
+El armador deberá mantener un ejemplar del contrato de trabajo y del contrato de embarco a bordo de la nave, inclusive en aquellos casos en que el empleador haya sido autorizado por la Dirección del Trabajo a centralizar la documentación laboral y previsional, conforme lo dispuesto en el inciso sexto del artículo 9 del Código del Trabajo.
+
+En el caso de las naves cuya ruta contemple puertos internacionales, el empleador deberá, además, mantener a bordo un modelo de contrato de trabajo y un modelo de contrato de embarco en lengua inglesa. En caso de existir convenio colectivo vigente, se deberá, además, mantener a bordo un ejemplar de dicho instrumento junto a una copia en lengua inglesa de las partes del documento que traten materias que puedan ser objeto de inspecciones por parte del Estado rector del puerto respectivo.
 
 #### Artículo 88
 
