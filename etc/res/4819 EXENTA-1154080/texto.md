@@ -570,13 +570,15 @@ Por su parte, los Programas Especiales de Acceso de carácter específico, es de
 
 4.1.3.- Criterios de habilitación
 
-Tendrán derecho a postular centralizadamente aquellas personas que cumplan con los siguientes criterios de habilitación copulativos:
+Tendrán derecho a postular centralizadamente aquellas personas que cuenten con pruebas de admisión universitarias vigentes, esto es, que hayan rendido las pruebas obligatorias y al menos una electiva del proceso en curso, o del proceso de admisión inmediatamente anterior, considerando el cumplimiento de lo dispuesto en el numeral 4.1.1.1, además de cumplir con alguno de los siguientes criterios de habilitación:
 
-1. Cuenten con pruebas de admisión universitarias vigentes, esto es, que hayan rendido las pruebas obligatorias y al menos una electiva del proceso en curso, o del proceso de admisión inmediatamente anterior, y
+1. Para los postulantes de los procesos de admisión 2023 y 2024, deben contar con un puntaje promedio entre la mejor combinación de resultados obtenidos en las pruebas obligatorias vigentes, igual o superior a 458 puntos.
 
-2. Tengan un puntaje promedio entre las pruebas de admisión universitaria de Matemáticas y Comprensión Lectora de 450 puntos o más; o quienes tengan un promedio de notas de la educación media que los ubiquen dentro del 10% superior de su promoción en su establecimiento educacional, sin considerar su año de egreso. Las universidades no podrán modificar ni hacer más estricto este último criterio (ubicación dentro del 10% superior).
+Sin perjuicio de lo anterior, para el proceso de admisión 2023, los postulantes con puntajes vigentes recuperados del proceso de admisión 2022, se encontrarán habilitados si obtuvieron 450 puntos o más en dicho proceso bajo la escala y metodología vigente hasta el proceso de admisión 2022. Asimismo, se habilitarán quienes hayan obtenido menos de 450 puntos en el proceso de admisión 2022 bajo la escala y metodología vigente hasta el proceso de admisión 2022, pero dicho puntaje sea igual o mayor a 458 al ser transformado a la escala y metodología vigente desde el proceso de admisión 2023.
 
-Lo anterior es sin perjuicio de los requisitos para la admisión universitaria y matrícula de postulantes a carreras y programas de pedagogía, establecidos en el artículo trigésimo sexto transitorio de la ley N° 20.903.
+2. Quienes tengan un promedio de notas de la educación media que los ubique dentro del 10% superior de su promoción en su establecimiento educacional, sin considerar su año de egreso. Las universidades no podrán modificar ni hacer más estricto este último criterio.
+
+Lo anterior es sin perjuicio de los requisitos para la admisión universitaria y matrícula de postulantes a carreras y programas de pedagogía, establecidos en el literal b) del artículo 27 bis de la ley N° 20.129 y en el artículo trigésimo sexto transitorio de la ley N° 20.903.
 
 4.1.4. Vacantes, Sobrecupos y Cupos Supernumerarios
 
@@ -776,7 +778,7 @@ Con todo, los postulantes que rindan la prueba de transición de Historia y Cien
 
 #### Artículo cuarto
 
-En virtud de lo dispuesto en el artículo segundo, numeral 4.1.5., párrafo tercero, para los procesos de admisión 2023 y 2024, se permitirá, en el caso de los programas de estudio que tengan como requisito obligatorio la utilización de la Prueba de Competencia Matemática 2, la postulación con el puntaje obtenido en la Prueba de admisión universitaria de Matemáticas vigente, o el puntaje obtenido en la prueba de Competencia Matemática 1 junto a la de Competencia Matemática 2. Por su parte, para los referidos procesos de admisión, en los casos de los programas de estudio que no tengan como requisito obligatorio la utilización de la Prueba de Competencia Matemática 2, se permitirá la postulación con el puntaje obtenido en la Prueba de admisión universitaria de Matemáticas vigente, o el puntaje obtenido en la Prueba de Competencia Matemática 1.
+En virtud de lo dispuesto en el artículo segundo, numeral 4.1.5., párrafo tercero, para los procesos de admisión 2023 y 2024, se considerará para la postulación con la prueba de Competencia Matemática 1 el puntaje más alto obtenido entre la prueba de admisión universitaria de Matemáticas vigente o el puntaje obtenido en la prueba de Competencia Matemática 1. Por su parte, se considerará para la postulación a carreras que requieran la prueba de Competencia Matemática 2, el puntaje más alto obtenido entre la prueba de admisión universitaria de Matemáticas vigente o el puntaje obtenido en la prueba de Competencia Matemática 2.
 
 #### Artículo quinto
 
