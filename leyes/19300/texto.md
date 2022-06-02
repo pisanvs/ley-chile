@@ -542,7 +542,7 @@ En caso que la Declaración de Impacto Ambiental hubiese sido objeto de aclaraci
 
 #### Artículo 30 bis
 
-Las Direcciones Regionales o el Director Ejecutivo, según corresponda, podrán decretar la realización de un proceso de participación ciudadana por un plazo de veinte días, en las Declaraciones de Impacto Ambiental que se presenten a evaluación y se refieran a proyectos que generen cargas ambientales para las comunidades próximas. Todo ello, siempre que lo soliciten a lo menos dos organizaciones ciudadanas con personalidad jurídica, a través de sus representantes, o como mínimo diez personas naturales directamente afectadas. Esta solicitud deberá hacerse por escrito y presentarse dentro del plazo de 10 días, contado desde la publicación en el Diario Oficial del proyecto sometido a Declaración de Impacto Ambiental de que se trate.
+Las Direcciones Regionales o el Director Ejecutivo, según corresponda, podrán decretar la realización de un proceso de participación ciudadana por un plazo de veinte días, en las Declaraciones de Impacto Ambiental que se presenten a evaluación y se refieran a proyectos que generen cargas ambientales para las comunidades próximas. Todo ello, siempre que lo soliciten a lo menos dos organizaciones ciudadanas con personalidad jurídica, a través de sus representantes, o como mínimo diez personas naturales directamente afectadas. Esta solicitud deberá hacerse por escrito y presentarse dentro del plazo de treinta días, contado desde la publicación en el Diario Oficial del proyecto sometido a Declaración de Impacto Ambiental de que se trate.
 
 Si durante el procedimiento de evaluación de la Declaración de Impacto Ambiental, ésta hubiese sido objeto de aclaraciones, rectificaciones o ampliaciones que afecten sustantivamente los impactos ambientales del proyecto, el organismo competente deberá abrir una nueva etapa de participación ciudadana, esta vez por diez días, período en el cual se suspenderá de pleno derecho el plazo de tramitación de la Declaración de Impacto Ambiental. El Reglamento deberá precisar qué tipo de aclaraciones, rectificaciones o ampliaciones, según el tipo de proyecto o actividad, serán consideradas como modificaciones sustantivas a los proyectos.
 
@@ -776,13 +776,15 @@ De la certificación, rotulación y etiquetado
 
 #### Artículo 48 ter
 
-Corresponderá al Ministerio del Medio Ambiente otorgar certificados, rótulos o etiquetas a personas naturales o jurídicas públicas o privadas, respecto de tecnologías, procesos, productos, bienes, servicios o actividades, que sean voluntariamente solicitados y cumplan con los criterios de sustentabilidad y contribución a la protección del patrimonio ambiental del país, de acuerdo a los requisitos que establezca el reglamento.
+Corresponderá al Ministerio del Medio Ambiente otorgar certificados, rótulos o etiquetas a personas naturales o jurídicas públicas o privadas, respecto de tecnologías, procesos, productos, bienes, servicios o actividades, que sean voluntariamente solicitados u obligatoriamente requeridos y cumplan con los criterios de sustentabilidad y contribución a la protección del patrimonio ambiental del país, de acuerdo a los requisitos que establezca el reglamento.
 
-Asimismo, el reglamento deberá determinar el procedimiento al cual se sujetará el otorgamiento de los certificados, rótulos y etiquetas. El Ministerio podrá encomendar a entidades técnicas la verificación del cumplimiento de los requisitos que señale el reglamento. La acreditación, autorización y control de dichas entidades se regirá por lo dispuesto en el reglamento a que hace referencia el artículo 3º, letra c), de la Ley Orgánica de la Superintendencia del Medio Ambiente.
+Asimismo, el reglamento deberá determinar el procedimiento al cual se sujetará el otorgamiento de los certificados, rótulos y etiquetas.
 
-Dicha Superintendencia será la encargada de fiscalizar el debido cumplimiento de las disposiciones de que trata este artículo.
+Será de cargo del solicitante del certificado, rótulo o etiqueta adjuntar a su petición un informe favorable de cumplimiento de los requisitos que el reglamento señale, emitido por aquellas entidades que la Superintendencia del Medio Ambiente autorice según lo dispuesto en el artículo 3 literal v) de su ley orgánica.
 
-La infracción de esta normativa será sancionada de conformidad a lo dispuesto en el Título III de la ley orgánica de la Superintendencia del Medio Ambiente, encontrándose ésta facultada, además, para revocar el certificado, rótulo o etiqueta como sanción. Sin perjuicio de lo anterior, la falsificación o utilización maliciosa de los certificados, rótulos o etiquetas será sancionada según lo establecido en los artículos 193, 194 y 196, según corresponda, del Código Penal.
+Dicha Superintendencia será la encargada de fiscalizar el debido cumplimiento de las disposiciones de que trata este artículo, en los casos que corresponda.
+
+La infracción de esta normativa será sancionada de conformidad a lo dispuesto en el Título III de la ley orgánica de la Superintendencia del Medio Ambiente, encontrándose ésta facultada, además, para revocar el certificado, rótulo o etiqueta como sanción. Sin perjuicio de lo anterior, la falsificación o utilización maliciosa de los certificados, rótulos o etiquetas será sancionada según lo establecido en los artículos 193, 194 y 196, según corresponda, del Código Penal. El reglamento definirá el procedimiento que se aplicará en estos casos.
 
 ### Párrafo 7°
 
