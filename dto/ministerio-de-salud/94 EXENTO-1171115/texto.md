@@ -32,6 +32,8 @@ Decreto:
 
 3. La Mesa Técnica estará integrada por representantes de las siguientes instituciones:
 
+.
+
 4. La Mesa Técnica definirá las acciones y normas que le permitirán funcionar de manera flexible y eficaz.
 
 5. Las instituciones que integran la Mesa Técnica y sus funcionarios(as) colaborarán en el cumplimiento del objetivo previsto en el numeral 2 del presente decreto.
