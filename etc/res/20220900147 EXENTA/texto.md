@@ -1,0 +1,13 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO "PLAN DE CIERRE ANTIGUO VERTEDERO MUNICIPAL COMUNA DE VILLARRICA"
+
+De conformidad con lo dispuesto en el artículo 94 del DS N° 40/2012, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta N° 20220900147 de fecha 24 de mayo de 2022, la Directora Regional del Servicio de Evaluación Ambiental de la Región de la Araucanía (SEA Araucanía), ha resuelto dar inicio a un proceso de participación ciudadana, por un plazo de 20 días hábiles, en el proceso de evaluación de impacto ambiental de la Declaración de Impacto Ambiental del proyecto "Plan de Cierre Antiguo Vertedero Municipal Comuna de Villarrica", cuyo titular es la Ilustre Municipalidad de Villarrica, y el cual se emplazaría en la comuna de Villarrica, Provincia de Cautín, Región de la Araucanía.
+
+Por lo anterior, cualquier persona natural o jurídica interesada, podrá realizar observaciones al proyecto según lo dispuesto en el Art. 95 del DS N° 40/2012, en relación con los artículos 94 y 91, del mismo cuerpo legal, y tendrá un plazo legal de 20 días hábiles contados desde el día hábil siguiente a la fecha de la presente publicación para efectuarlas, de acuerdo con lo establecido en el artículo 30 bis de la ley N° 19.300 sobre Bases Generales del Medio Ambiente. Las observaciones deberán ser ingresadas al SEA, a través del acceso al proyecto en el Portal Ciudadano del Servicio de Evaluación Ambiental disponible en el siguiente link: www.sea.gob.cl/participacion-ciudadana-y-consulta-indigena o a través de la Oficina de Partes del Servicio de Evaluación Ambiental, en el siguiente enlace: https://www.sea.gob.cl/oficina-de-partes-virtual o en dependencias del Servicio ubicadas en calle España Nº 460, piso 11, Temuco.
+
+Se hace presente que el texto íntegro de la resolución antes individualizada, y del expediente administrativo del proyecto, puede ser conocido en:
+
+. Sitio web www.sea.gob.cl.
+
+Finalmente, se debe señalar que el proyecto "Plan de Cierre Antiguo Vertedero Municipal Comuna de Villarrica", origina la apertura de esta Participación Ciudadana, por cuanto su tipología de ingreso a evaluación genera cargas ambientales, en conformidad a los artículos 3 y 94 del DS N° 40/2012.-
+
+Andrea Flies Lara, Directora Regional del Servicio de Evaluación Ambiental de la Región de la Araucanía.
