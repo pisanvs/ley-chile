@@ -3328,6 +3328,18 @@ Retracto de un contrato de seguro celebrado a distancia. En los contratos de seg
 
 Este derecho no podrá ser ejercido si se hubiere verificado un siniestro, ni en el caso de los contratos de seguro cuyos efectos terminen antes del plazo señalado en el inciso precedente.
 
+#### Artículo 538 bis
+
+Seguros asociados a productos o servicios financieros. Con ocasión del otorgamiento, renegociación o repactación de productos o servicios financieros, no se podrá contratar en el mismo acto o de manera conjunta seguros distintos de aquellos que tengan por objeto asegurar el pago de la deuda al acreedor o la protección de los bienes dados en garantía, los cuales serán determinados por la Comisión para el Mercado Financiero mediante norma de carácter general.
+
+Serán nulos de pleno derecho los seguros que se contraten en contravención con lo señalado en el inciso primero.
+
+Lo dispuesto en los incisos anteriores no será aplicable si dichos seguros son ratificados por el contratante del producto o servicio financiero, sin mediar mandato al acreedor, dentro del plazo de 30 días desde su suscripción. Sólo podrá cobrarse prima por estos seguros desde la fecha de su ratificación.
+
+En tal caso, los riesgos serán de cargo del asegurador desde la fecha que establezca la póliza, o en su defecto, desde el momento de la ratificación.
+
+La ratificación deberá realizarse por escrito, personalmente o por correo electrónico u otro medio equivalente, y deberá constar de forma expresa y clara la voluntad de estar ratificando la contratación del seguro, junto con especificarse que se trata de un seguro voluntario que no dice relación con el otorgamiento, renegociación o repactación de las operaciones contratadas.
+
 #### Artículo 539
 
 Otras causales de ineficacia del contrato. El contrato de seguro es nulo si el asegurado, a sabiendas, proporciona al asegurador información sustancialmente falsa al prestar la declaración a que se refiere el número 1° del artículo 524 y se resuelve si incurre en esa conducta al reclamar la indemnización de un siniestro.
