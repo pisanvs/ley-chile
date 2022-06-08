@@ -76,7 +76,7 @@ iii. Del impedimento de la letra h) del artículo 4, establecido para personas q
 
 iv. Del requisito de acreditar disponibilidad de terreno libre de hipotecas y gravámenes, establecido en el numeral 1 de la letra j) del artículo 3.
 
-v. De lo señalado en el inciso segundo del artículo 7 del DS N° 49 (V. y U.), de 2011, permitiéndose la postulación de grupos organizados sin acreditación de personalidad jurídica.
+v. De lo señalado en el inciso segundo del artículo 7 del DS N� 49 (V. y U.), de 2011, permitiéndose la postulación de grupos organizados sin acreditación de personalidad jurídica.
 
 vi. De lo establecido en el artículo 14 del DS N° 49 (V. y U.), de 2011, respecto de la participación en proceso de selección solo de proyectos calificados, permitiéndose la postulación con proyectos creados en el Banco de Postulaciones de la plataforma Umbral.
 
@@ -84,7 +84,7 @@ vi. De lo establecido en el artículo 14 del DS N° 49 (V. y U.), de 2011, respe
 
 4. El número de familias seleccionadas alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos previstos para el llamado que por esta resolución se autoriza, incluidos sus respectivos servicios de asistencia técnica, fiscalización técnica de obras y los subsidios complementarios, si corresponde.
 
-5. Mediante resolución de la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de Tarapacá, que se deberá publicar en el Diario Oficial, se aprobará la nómina de las familias integrantes de los proyectos seleccionados, la que deberá ser informada a la División de Política Habitacional de este Ministerio a más tardar el día 30 de septiembre de 2022. La difusión de dicha nómina deberá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+5. Mediante resolución de la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de Tarapacá, que se deberá publicar en el Diario Oficial, se aprobará la nómina de las familias integrantes de los proyectos seleccionados, la que deberá ser informada a la División de Política Habitacional de este Ministerio a más tardar el día 30 de junio de 2022. La difusión de dicha nómina deberá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
 Anótese, publíquese y archívese.- Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
 
