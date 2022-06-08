@@ -1,0 +1,9 @@
+NOTIFICACIÓN RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA DECLARACIÓN DE IMPACTO AMBIENTAL (DIA) "EL CHARCO", CUYO PROPONENTE ES "SOCIEDAD AGRÍCOLA Y COMERCIAL EL PIHUELO SpA"
+
+Con fecha 30 de mayo de 2022, se dictó la resolución exenta digital N° 202207001103 del Director Regional del SEA Maule, que resolvió dar inicio al proceso de participación ciudadana en la evaluación ambiental de la DIA del proyecto "El Charco", cuyo proponente es "Sociedad Agrícola y Comercial El Pihuelo SpA". El proyecto consiste en la instalación de un plantel de engorda de cerdos que considera las actividades de recepción, estadía y engorda con un total 12 galpones para alojar a 22.200 animales, incluyendo un sistema de tratamiento de purines consistente en un biodigestor anaeróbico, sistema de riego, área de disposición, etc.; todo lo anterior en una superficie de 75 hectáreas. Se pretende emplazar en la Región del Maule, provincia de Curicó, comuna de Sagrada Familia, en un sector rural distante 4 km al norte de la Ruta K-40, a 12 Km al sureste de la localidad de Villa Prat y a 17 Km al norte de la ciudad de San Rafael.
+
+El plazo legal para efectuar observaciones al proyecto en la plataforma electrónica www.sea.gob.cl del Servicio de Evaluación Ambiental o por medio del formulario electrónico de ingreso a la oficina de partes, en el link https://www.sea.gob.cl/oficina-de-partes-virtual será de 20 días hábiles y se contará desde la fecha de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido a través de la plataforma electrónica del Servicio de Evaluación Ambiental (www.sea.gob.cl.).-
+
+René Alejandro Christen Fernández, Director Regional del Servicio de Evaluación Ambiental, Región del Maule.
