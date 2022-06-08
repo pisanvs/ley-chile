@@ -1,0 +1,5 @@
+RESOLUCIÓN QUE ESTABLECE LOS MECANISMOS FÍSICOS, DESTINADOS A MODIFICAR LAS CONDICIONES DE OXÍGENO DEL ÁREA DE SEDIMENTACIÓN Y FIJA LOS REQUISITOS Y CONDICIONES PARA SU USO, DE CONFORMIDAD AL DS N° 320 DE 2001, DE ESTE MINISTERIO
+
+Por resolución exenta N° 1.141, de 31 de mayo de 2022, de esta Subsecretaría, se autorizan los mecanismos físicos, destinados a modificar las condiciones de oxígeno del área de sedimentación, para concesiones de acuicultura, y establece los requisitos y condiciones que deben cumplir en su ejecución, de conformidad al artículo 8 bis del DS N° 320 de 2001, de este Ministerio, en la forma que indica la resolución extractada y publicada íntegramente en las páginas www.subpesca.cl y www.sernapesca.cl.
+
+Valparaíso, 31 de mayo de 2022.- Julio Salas Gutiérrez, Subsecretario de Pesca y Acuicultura.
