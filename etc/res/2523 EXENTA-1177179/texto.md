@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 2.523, de fecha 25 de mayo de 2022, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Región Metropolitana de Santiago, se autoriza a Escuela de Conductores No Profesionales o Clase B denominada "Astudillo y Blanco Limitada" cuyo nombre de fantasía es "Colón Ltda.", RUT Nº 76.573.920-9, domiciliada en Avenida Balmaceda Nº 461, comuna de San Bernardo, cuyo representante legal es el señor Nicolás Blanco Castro, cuyo Programa de Enseñanza fue aprobado mediante resolución exenta Nº 1.941, de 21 de abril de 2016, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, a impartir el curso conducente a la obtención de la Licencia de Conductor Clase B, en la modalidad e-learning. La correcta funcionalidad de la plataforma tecnológica computacional LMS, estará siempre sujeta a las auditorías, controles y fiscalizaciones que sean procedentes. La misma autorización, en copia fidedigna, deberá estar a disposición de los postulantes y alumnos del establecimiento.-
+
+Roberto Alexis Santa Cruz González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
