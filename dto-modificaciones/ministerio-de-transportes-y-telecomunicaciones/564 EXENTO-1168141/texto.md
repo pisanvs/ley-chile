@@ -38,7 +38,7 @@ m) El oficio Ord. Nº 19.590/GFDT Nº 457 de fecha 18.12.2020, de la Subsecretar
 
 - **g)** de los Vistos.
 
-n) El decreto supremo Nº 144 de 2006, del Ministerio de Transportes y Telecomunicaciones, que otorgó la concesión y sus modificaciones posteriores.
+n) El decreto supremo Nº 143 de 2006, del Ministerio de Transportes y Telecomunicaciones, que otorgó la concesión y sus modificaciones posteriores.
 
 Considerando:
 
@@ -58,15 +58,15 @@ Decreto:
 
 Modifícase la concesión de Servicio Público de Transmisión de Datos, a la empresa Luzparral S.A., Nº 96.866.680-0 con domicilio en Aníbal Pinto Nº1101, Comuna de Parral, Región del Maule, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes.
 
-1. Autorízase a la concesionaria a instalar, operar y explotar los sistemas que a continuación se indican, a fin de proveer el Servicio de Conectividad en los Establecimientos Educacionales Subvencionados (EES) de la Región del Maule, que pertenezcan a la Zona 48, adjudicada a ella en el marco del Concurso Público "Conectividad para la Educación 2030", Código: FDT-2019-04, en los términos que exigen las Bases de Concurso y el Proyecto Comprometido y asignado, así como lo que en definitiva sea autorizado.
+1. Autorízase a la concesionaria a instalar, operar y explotar los sistemas que a continuación se indican, a fin de proveer el Servicio de Conectividad en los Establecimientos Educacionales Subvencionados (EES) de la Región del Ñuble, que pertenezcan a la Zona 48, adjudicada a ella en el marco del Concurso Público "Conectividad para la Educación 2030", Código: FDT-2019-04, en los términos que exigen las Bases de Concurso y el Proyecto Comprometido y asignado, así como lo que en definitiva sea autorizado.
 
-1.1 Instalar, operar y explotar radioenlaces de microondas Punto a Punto en la Región del Maule, correspondiente a la red de transporte, según se indica a continuación:
+1.1 Instalar, operar y explotar radioenlaces de microondas Punto a Punto en la Región del Maule y de Ñuble, correspondiente a la red de transporte, según se indica a continuación:
 
-1.2 Instalar, operar y explotar radioenlaces de microondas Punto a Punto en la Región del Maule, correspondiente a la red de acceso, según se indica a continuación:
+1.2 Instalar, operar y explotar radioenlaces de microondas Punto a Punto en la Región de Ñuble, correspondiente a la red de acceso, según se indica a continuación:
 
 2. Las interconexiones a las redes públicas existentes, serán a través de medios propios o de terceros debidamente autorizados.
 
-3. Ampliar la zona de servicio a las comunas de Coihueco, Pinto, San Carlos y San Fabián, en la Región del Maule.
+3. Ampliar la zona de servicio a las comunas de Coihueco, Pinto, San Carlos y San Fabián, en la Región de Ñuble.
 
 4. El servicio objeto de la presente concesión deberá prestarse con estricto apego a la normativa de calidad que al efecto contemple la ley Nº 18.168, sus modificaciones y demás normas reglamentarias y/o técnicas vigentes, como asimismo aquellas que exigencias de calidad, operación y supervisión del Servicio de Conectividad para los EES que pertenezcan a la Zona 48 descritas en la resolución exenta Nº 458, de 2021, de la Subsecretaría de Telecomunicaciones.
 
