@@ -112,17 +112,21 @@ A los órganos de la Administración del Estado a los que se refiere el artícul
 
 La aplicación gradual del artículo 1º de la ley Nº 21.180 se realizará respecto de las materias comprendidas en las siguientes fases:
 
-1) Fase 1: Las comunicaciones oficiales entre los órganos de la Administración serán registradas en una plataforma electrónica destinada al efecto, en virtud de lo dispuesto en el inciso sexto del artículo 19 de la ley Nº 19.880.
+1) Fase de Preparación: Cada órgano de la Administración deberá identificar y describir las etapas de los procedimientos administrativos que desarrolla, y en particular la necesidad de notificación en cada uno de ellos.
 
-2) Fase 2: Las notificaciones se practicarán por medios electrónicos, en virtud de lo dispuesto en los artículos 30 y 46 de la ley Nº 19.880.
+La División de Gobierno Digital del Ministerio Secretaría General de la Presidencia entregará las orientaciones técnicas respecto de esta fase.
 
-3) Fase 3: El ingreso de las solicitudes, formularios o documentos, se hará mediante documentos electrónicos o por medio de formatos electrónicos a través de las plataformas de los órganos de la Administración del Estado, en virtud de lo dispuesto en el inciso cuarto del artículo 18, y en el inciso cuarto del artículo 30 de la ley Nº 19.880.
+2) Fase 1: Las comunicaciones oficiales entre los órganos de la Administración serán registradas en una plataforma electrónica destinada al efecto, en virtud de lo dispuesto en el inciso sexto del artículo 19 de la ley Nº 19.880.
 
-4) Fase 4: El procedimiento administrativo deberá constar en expedientes electrónicos, en virtud de lo dispuesto en el inciso segundo del artículo 1º, en el artículo 5º, en el inciso cuarto del artículo 16 bis, en los incisos tercero y sexto del artículo 18, en el artículo 19 y en el artículo 25 inciso final de la ley Nº 19.880.
+3) Fase 2: Las notificaciones se practicarán por medios electrónicos, en virtud de lo dispuesto en los artículos 30 y 46 de la ley Nº 19.880.
 
-5) Fase 5: Las solicitudes, formularios o escritos presentados en soporte de papel serán digitalizados e ingresados al expediente electrónico inmediatamente por el funcionario correspondiente, en virtud de lo dispuesto en los artículos 18 y 19 bis de la ley Nº 19.880.
+4) Fase 3: El ingreso de las solicitudes, formularios o documentos, se hará mediante documentos electrónicos o por medio de formatos electrónicos a través de las plataformas de los órganos de la Administración del Estado, en virtud de lo dispuesto en el inciso cuarto del artículo 18, y en el inciso cuarto del artículo 30 de la ley Nº 19.880.
 
-6) Fase 6: Aplicación del principio de interoperabilidad, en virtud de lo dispuesto en los incisos segundo y quinto del artículo 16 bis de la ley Nº 19.880.
+5) Fase 4: El procedimiento administrativo deberá constar en expedientes electrónicos, en virtud de lo dispuesto en el inciso segundo del artículo 1º, en el artículo 5º, en el inciso cuarto del artículo 16 bis, en los incisos tercero y sexto del artículo 18, en el artículo 19 y en el artículo 25 inciso final de la ley Nº 19.880.
+
+6) Fase 5: Las solicitudes, formularios o escritos presentados en soporte de papel serán digitalizados e ingresados al expediente electrónico inmediatamente por el funcionario correspondiente, en virtud de lo dispuesto en los artículos 18 y 19 bis de la ley Nº 19.880.
+
+7) Fase 6: Aplicación del principio de interoperabilidad, en virtud de lo dispuesto en los incisos segundo y quinto del artículo 16 bis de la ley Nº 19.880.
 
 #### Artículo 7º
 
@@ -130,11 +134,7 @@ Gradualidad
 
 La implementación de las disposiciones introducidas por el artículo 1º de la ley Nº 21.180 a la ley Nº 19.880 se sujetará a la siguiente gradualidad considerando los grupos establecidos en el artículo 5º de este decreto con fuerza de ley, y las fases señaladas en el artículo precedente, de acuerdo a la siguiente tabla:
 
-Para los efectos de lo dispuesto en este artículo, el año 1 de implementación se entenderá como el período que va desde la entrada en vigencia de la ley Nº 21.180 hasta el 31 de diciembre de ese mismo año. A partir del año 2, se computará el período que va desde el 1 de enero al 31 de diciembre de cada año; salvo la última anualidad, cuyo cómputo se realizará hasta el día 11 de noviembre de 2024.
-
-En caso de que la entrada en vigencia de la ley Nº 21.180 se produzca durante el año 2022, el primer año comprenderá a los años 1 y 2 señalados en el inciso primero de este artículo; el segundo año comprenderá al año 3; y el tercer año comprenderá al año 4 hasta el día 11 de noviembre de 2024.
-
-Lo dispuesto en el artículo 3º se aplicará gradualmente según lo señalado en los incisos precedentes y, para estos efectos, los numerales 1, 2, 3 y 4 de dicho artículo estarán comprendidos dentro de las fases 1, 2, 4 y 6 respectivamente.
+Lo dispuesto en el artículo 3º se aplicará gradualmente según lo señalado en el inciso precedente y, para estos efectos, los numerales 1, 2, 3 y 4 de dicho artículo estarán comprendidos dentro de las fases 1, 2, 4 y 6 respectivamente.
 
 #### Artículo transitorio
 
