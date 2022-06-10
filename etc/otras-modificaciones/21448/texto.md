@@ -46,6 +46,6 @@ b) Reemplázase en el párrafo final del numeral 7 de su inciso final la expresi
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 
-Santiago, 25 de abril de 2021.- GABRIEL BORIC FONT, Presidente de la República.- Kenneth Giorgio Jackson Drago, Ministro Secretario General de la Presidencia.
+Santiago, 25 de abril de 2022.- GABRIEL BORIC FONT, Presidente de la República.- Kenneth Giorgio Jackson Drago, Ministro Secretario General de la Presidencia.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Macarena Lobos Palacios, Subsecretaria General de la Presidencia.
