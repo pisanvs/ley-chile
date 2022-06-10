@@ -54,8 +54,6 @@ Considerando:
 
 Resuelvo:
 
-> **Nota.** El numeral 30 del Capítulo II de la Resolución 1400 Exenta, Salud, publicada el 30.09.2022, dispone el reemplazo de la presente norma, sin perjuicio que las resoluciones que disponen las medidas sanitarias que indican por brote de COVID-19, de 2020, 2021 y 2022, de la misma cartera, y sus modificaciones, seguirán vigentes en lo que no fueran contrarias a esta resolución.
-
 1º Apruébase el siguiente Plan "Seguimos Cuidándonos Paso a Paso":
 
 CAPÍTULO I. DE LAS MEDIDAS SANITARIAS GENERALES
@@ -76,9 +74,9 @@ ii. Aduanas Sanitarias y controles sanitarios
 
 2. Sobre la instalación de aduanas sanitarias y controles sanitarios. Instrúyase a las Secretarías Regionales Ministeriales de Salud del país la instalación de aduanas sanitarias y realización de controles sanitarios en todos aquellos puntos de entrada al país.
 
-3. De las aduanas sanitarias. Las aduanas sanitarias controlarán los documentos requeridos para ingresar al país, según lo dispuesto en la normativa sanitaria.
+3. De las aduanas sanitarias. Las aduanas sanitarias controlarán la Declaración Jurada de la que trata el Título II de la resolución exenta Nº 495, de 2022, del Ministerio de Salud o aquella que la reemplace; y los documentos requeridos para ingresar al país, según lo dispuesto en la normativa sanitaria.
 
-Será obligatoria la conservación y exhibición a la autoridad competente de los documentos requeridos para ingresar al país, ya sea de forma física o digital.
+Será obligatoria la conservación y exhibición a la autoridad competente de dicha Declaración Jurada para las personas que la obtenga, ya sea de forma física o digital.
 
 iii. Sobre las medidas sanitarias en los Establecimientos de Larga Estadía de Adultos Mayores
 
@@ -98,7 +96,7 @@ v. Sobre las cuarentenas y aislamientos debido a circunstancias epidemiológicas
 
 a. La persona cuenta con un resultado positivo para SARS-CoV-2 en un test PCR.
 
-b. La persona presenta un resultado positivo en una prueba de antígenos para SARS-CoV-2.
+b. La persona presenta un resultado positivo en una prueba de antígenos para SARS-CoV-2, tomado en un centro de salud mandatado, para estos efectos, por la autoridad sanitaria.
 
 7. Aislamiento de personas contagiadas. Dispóngase que las personas diagnosticadas con COVID-19 según lo dispuesto en el numeral anterior deben cumplir un aislamiento de acuerdo con los siguientes criterios:
 
@@ -118,9 +116,9 @@ Se entenderá como búsqueda activa de casos COVID-19 aquel proceso en virtud de
 
 a. La persona vive o ha estado a menos de un metro de distancia, sin mascarilla o sin el uso correcto de mascarilla, de un caso probable o de un caso confirmado sintomático entre los 2 días antes y hasta 7 días después del inicio de síntomas del caso.
 
-b. La persona vive o ha estado a menos de un metro de distancia, sin mascarilla o sin el uso correcto de mascarilla, de un caso confirmado asintomático entre los 2 días antes y hasta 7 días después de la toma de muestra de test PCR o antígeno para SARS-CoV-2.
+b. La persona vive o ha estado a menos de un metro de distancia, sin mascarilla o sin el uso correcto de mascarilla, de un caso confirmado asintomático entre los 2 días antes y hasta 7 días después de la toma de muestra de test PCR o antígeno para SARS-CoV-2, tomado en un centro de salud mandatado por la autoridad sanitaria.
 
-No podrá obstaculizarse la concurrencia de una persona que cumpla con las condiciones para ser calificado como persona en alerta COVID-19 señalados en este numeral, a un centro de salud u otro tipo de establecimiento, sean móviles o no, para la toma de muestra de antígeno para SARS-CoV-2.
+No podrá obstaculizarse la concurrencia de una persona que cumpla con las condiciones para ser calificado como persona en alerta COVID-19 señalados en este numeral, a un centro de salud mandatado por la autoridad sanitaria u otro tipo de establecimiento, sean móviles o no, para la toma de muestra de antígeno para SARS-CoV-2.
 
 10. Definición de contacto estrecho. En el caso de conglomerados, es decir, una o más personas sospechosas de enfermedad sin vínculo epidemiológico comprobado o brotes confirmados y priorizados por la autoridad sanitaria, luego de la investigación epidemiológica, dicha autoridad podrá calificar como contacto estrecho a aquella persona que haya estado expuesta a un caso confirmado o probable con COVID-19, entre 2 días antes del inicio de síntomas y 7 días después del inicio de síntomas del enfermo.
 
@@ -154,9 +152,9 @@ b. Aquella persona que presenta una infección respiratoria aguda grave que requ
 
 c. Aquella persona que sea considerada como contacto estrecho, según lo dispuesto en el numeral 10, y que además tenga, al menos, un síntoma de aquellos descritos en el numeral 16.
 
-Toda persona que se encuentre en alguna de las circunstancias descritas precedentemente deberá realizarse un test PCR para SARS-CoV-2 o prueba de antígenos para SARS-CoV-2.
+Toda persona que se encuentre en alguna de las circunstancias descritas precedentemente deberá realizarse un test PCR para SARS-CoV-2 o prueba de antígenos para SARS-CoV-2, tomado en un centro de salud mandatado, para estos efectos, por la autoridad sanitaria.
 
-13. Caso sospechoso de reinfección. Si una persona presenta un resultado positivo para test PCR para SARS-CoV-2 o prueba de antígenos para SARS-CoV-2, desde 60 días después de haber sido caracterizada como un caso confirmado, se considerará como caso sospechoso de reinfección, y se tratará como caso confirmado para todos sus fines. Será facultad de la autoridad sanitaria determinar, por criterios epidemiológicos, un período de tiempo distinto al dispuesto en este numeral para categorizar el caso como sospechoso de reinfección.
+13. Caso sospechoso de reinfección. Si una persona presenta un resultado positivo para test PCR para SARS-CoV-2 o prueba de antígenos para SARS-CoV-2, tomado en un centro de salud mandatado por la autoridad sanitaria, desde 60 días después de haber sido caracterizada como un caso confirmado, se considerará como caso sospechoso de reinfección, y se tratará como caso confirmado para todos sus fines. Será facultad de la autoridad sanitaria determinar, por criterios epidemiológicos, un período de tiempo distinto al dispuesto en este numeral para categorizar el caso como sospechoso de reinfección.
 
 14. Definición de caso probable. Se entenderá por caso probable aquel caso sospechoso conforme al numeral 12 de la presente resolución, con resultado de test PCR o antígeno para SARS-CoV-2 negativo o indeterminado o sin test diagnóstico, pero que cuenta con una tomografía computarizada de tórax con imágenes características de COVID-19 definidas así por un médico en la conclusión diagnóstica.
 
@@ -342,15 +340,29 @@ xiv. Del Pase de Movilidad
 
 45. Requisitos. Las personas podrán obtener el Pase de Movilidad cumpliendo copulativamente los siguientes requisitos:
 
-a. Haber completado el esquema de vacunación contra SARS-CoV-2 en Chile hace al menos 14 días. En el caso de la vacunación en el extranjero, se entenderá que están totalmente vacunados quienes presenten el respectivo comprobante de vacunación completa contra SARS-CoV-2, conforme al país donde hubiesen sido administradas. Será facultad de la autoridad sanitaria definir la incorporación de refuerzos al esquema de vacunación referido en el presente literal.
+a. Haber completado el esquema de vacunación contra SARS-CoV-2 en Chile hace al menos 14 días. En el caso de la vacunación en el extranjero, se estará a lo dispuesto en el numeral 46 de esta resolución. Será facultad de la autoridad sanitaria definir la incorporación de refuerzos al esquema de vacunación referido en el presente literal.
 
 b. No estar afecto a la medida de aislamiento en virtud de lo dispuesto en los numerales 7, 8 y 11 de esta resolución, o por cualquiera de las causales dispuestas en la resolución exenta Nº 495, de 2022, del Ministerio de Salud, o la que la reemplace.
 
 c. No haber sido sancionado en virtud del libro X del Código Sanitario por infracción a las disposiciones señaladas en el literal anterior.
 
-Para acreditar el cumplimiento de dichos requisitos el solicitante deberá obtener un certificado de vacunación contra el SARS-CoV-2, el que está disponible en el sitio web https://mevacuno.gob.cl//. En el caso de vacunación en el extranjero, el certificado de vacunación emitido en el país que fue administrada equivaldrá, para todos los efectos, al pase de movilidad habilitado.
+Para acreditar el cumplimiento de dichos requisitos el solicitante deberá obtener un certificado de vacunación contra el SARS-CoV-2, el que está disponible en el sitio web https://mevacuno.gob.cl//.
 
-### 46. Eliminado
+46. De la validación en Chile del esquema de vacunación en el extranjero. Se entenderá que se cumple con el requisito dispuesto en el literal a) del numeral 45 quienes hayan completado su esquema de vacunación en el extranjero, y acrediten dicha situación a través del procedimiento establecido por la autoridad sanitaria, en el sitio web https://mevacuno.gob.cl//.
+
+El solicitante deberá cumplir, además, con los siguientes requisitos:
+
+a) Haber sido inoculado con una vacuna contra el SARS-CoV-2 que haya sido autorizada por alguna de las siguientes agencias o entidades:
+
+i) Instituto de Salud Pública de Chile (ISP).
+
+ii) Organización Mundial de la Salud (OMS).
+
+iii) Administración de Alimentos y Medicamentos de los Estados Unidos (FDA)
+
+iv) Agencia Europea de Medicamentos (EMA).
+
+b) Adjuntar un documento de identificación personal y toda la información referente a la vacuna recibida. En caso de que estos documentos no se encuentren en el idioma castellano o inglés, deberá acompañarse una traducción autorizada en alguno de esos idiomas.
 
 47. De los efectos del Pase de Movilidad. El Pase de Movilidad habilitado no afectará la movilidad de su titular, y producirá los efectos que explícitamente se señalen en los actos administrativos dictados por la autoridad sanitaria.
 
@@ -362,15 +374,13 @@ Sin perjuicio de lo dispuesto en el párrafo anterior, los efectos del Pase de M
 
 49. De la suspensión. La autoridad sanitaria podrá disponer como medida sanitaria, en casos justificados, la suspensión de la utilización del Pase de Movilidad. Para estos efectos, será aplicable lo dispuesto en el inciso segundo del artículo 178 del Código Sanitario.
 
-50. Exigencia en eventos masivos. El o los organizadores de eventos en los que se espere una concurrencia masiva de público deberán vender o entregar las entradas en forma nominada, las que serán intransferibles.
+50. Exigencia en eventos masivos. El o los organizadores de eventos en los que se espere una concurrencia masiva de público deberán vender o entregar las entradas en forma nominada, las que serán intransferibles y se exigirá, como condición para el ingreso al recinto, la exhibición del Pase de Movilidad habilitado y un documento que acredite que la identidad de la persona coincide con aquella de la entrada, en su caso, conforme el numeral 48 precedente.
 
-Para el ingreso al recinto se exigirá la exhibición del Pase de Movilidad habilitado o; en el caso de quienes no cuenten con un pase de movilidad y no están afectos a la medida de aislamiento prevista en la presente resolución o en la resolución exenta N° 495, de 12 abril de 2022, del Ministerio de Salud, un resultado negativo en test PCR para SARS-Cov-2 realizado en Chile y cuya muestra no exceda las 24 horas previas al ingreso.
-
-La exhibición de los documentos señalados precedentemente, será exigible también para los trabajadores del evento.
+La exhibición del Pase de Movilidad y del documento que acredite la identidad, será exigible también para los trabajadores del evento.
 
 Todo lo anterior deberá ser informado a los asistentes en forma previa y durante el evento.
 
-Por último, con al menos 24 horas de antelación al evento, el o los organizadores deberán consultar con la autoridad sanitaria regional el estado del Pase de Movilidad de los asistentes, siendo responsables de que sólo accedan al evento las personas con Pase de Movilidad o resultado negativo en un test PCR, en los términos exigidos en el inciso segundo precedente.
+Por último, con al menos 24 horas de antelación al evento, el o los organizadores deberán consultar con la autoridad sanitaria regional el estado del Pase de Movilidad de los asistentes, siendo responsables de que sólo las personas con Pase de Movilidad vigente accedan al evento.
 
 El o los organizadores deberán disponer de una nómina incluyendo nombres y apellidos de los participantes, su número de cédula de identidad o pasaporte y sus números de teléfono de contacto, así como el número de asiento utilizado por cada uno de ellos, en caso de butacas fijas. Esta nómina estará, en todo caso, afecta a las disposiciones de las leyes Nº 19.628 y Nº 20.584, en lo que fuera aplicable.
 
@@ -452,7 +462,7 @@ Para el cálculo del aforo se considerarán las personas que trabajan en el luga
 
 En el caso de recintos cerrados donde se realicen eventos culturales y que presenten un aforo habitual igual o menor a 350 personas, tales como salas, teatros y cines, se permitirá un 100% de aforo. Si dichas actividades cuentan con un aforo habitual mayor a 350 y menor a 1000 personas, el aforo máximo dependerá del riesgo que presenta cada actividad. Se considerarán actividad de Bajo Riesgo aquellas donde no se permita comer ni beber durante el espectáculo, se ventile entre una función y otra, no se permita que los asistentes canten o alcen la voz, los asistentes permanezcan en asientos fijos previamente delimitados, y la duración del evento no exceda las dos horas. En las actividades de Bajo Riesgo el aforo máximo será de un 100%. Se considerarán actividades de Alto Riesgo donde no se pueda cumplir al menos una de las características establecidas para las actividades de Bajo Riesgo. En las actividades de Alto Riesgo el aforo máximo será de un 75%. Si el recinto donde se realiza la actividad cultural presenta un aforo habitual mayor a 1000 personas, el aforo máximo será de un 75% independiente del riesgo que presente cada actividad. El aforo habitual estará determinado por el total de asientos fijos disponibles.
 
-67. De los aforos en eventos masivos. El aforo máximo para los eventos masivos estará determinado por la capacidad del recinto, la que será definida por la autoridad sanitaria y será requisito para la autorización del evento. En el caso de recintos cuya capacidad supere las 10.000 personas, se establecerá como aforo máximo el 85% de su capacidad en espacios abiertos y el 75% de su capacidad en espacios cerrados.
+67. De los aforos en eventos masivos. El aforo máximo para los eventos masivos será de máximo 10.000 asistentes, según la capacidad del recinto, la cual será definida por la autoridad sanitaria y será requisito para la autorización del evento.
 
 En el caso de un evento masivo que se realice en una localidad que retrocede a una Fase más restrictiva dos semanas antes del día en que se lleva a cabo el evento, se permitirá la asistencia del público que, al momento del anuncio de la entrada en vigencia de la nueva Fase, ya contaba con su ticket, aun cuando el número total de ellas exceda el aforo permitido para el día de la actividad. No se permitirá la asistencia de público que, con posterioridad a la entrada en vigencia de la nueva Fase, adquiera tickets y ello conlleve exceder el aforo máximo al día del evento.
 
