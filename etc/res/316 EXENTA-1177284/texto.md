@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 316, de fecha 3 de febrero de 2022, de esta Secretaría Regional, se aprobaron los planes y programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores "Morales y Veas Limitada" cuyo nombre de fantasía es "Juntos al Volante 2 Ltda.", RUT N° 77.329.533-6, cuyos representantes legales son el señor Felipe Andrés Veas Moreno y Félix Eugenio Morales Soto, cuyo director es el señor Félix Eugenio Morales Soto, RUT N° 13.497.783-3. La Escuela de Conductores estará ubicada en Avenida Pedro Fontova N° 7280, Local 215, comuna de Huechuraba, Región Metropolitana de Santiago. Las horas pedagógicas autorizadas a la referida Escuela son ocho horas teóricas y trece horas prácticas, con un total de veintiuno horas pedagógicas.-
+
+Alfredo Andrés Quezada Martínez, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
