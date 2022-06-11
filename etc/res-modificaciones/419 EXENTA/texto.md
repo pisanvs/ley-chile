@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN N° 82 EXENTA, DE 15.03.2019, QUE DELEGA FACULTAD DE FIRMAR A NIVEL NACIONAL, LOS CERTIFICADOS DE RENTA QUE DEBE EMITIR EL INSTITUTO DE PREVISIÓN SOCIAL, PARA EFECTOS DE LA DECLARACIÓN DE IMPUESTO A LA RENTA DE SUS PENSIONADOS Y MONTEPIADAS EN CUMPLIMIENTO DE NORMATIVA LEGAL, EN LOS FUNCIONARIOS DE LA DIVISIÓN BENEFICIOS QUE SE INDICAN
+
+Por resolución exenta N° 491, de 25 de noviembre de 2021, el Director Nacional del Instituto de Previsión Social, modificó el resuelvo 1° de la resolución exenta N° 82, de fecha 15.03.2019, que delegó, en los funcionarios de la División Beneficios que indica, la facultad de firmar a nivel nacional, los certificados de renta que debe emitir el IPS, para efectos de la declaración de impuesto a la renta de sus pensionados y montepiadas, en el sentido de eliminar de la nómina al funcionario don Javier Pávez Alviña, RUT: 6.443.174- 9.-
+
+Patricio Coronado Rojo, Director Nacional.
