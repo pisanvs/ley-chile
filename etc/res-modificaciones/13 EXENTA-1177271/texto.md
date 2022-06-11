@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN N° 66 EXENTA, DE 03.11.2015, Y DESIGNA NUEVOS ADMINISTRADORES DE CONTRATO DE ARRIENDO DEL INMUEBLE UBICADO EN CALLE SAN MARTÍN N° 220, COMUNA DE LOS MUERMOS, REGIÓN DE LOS LAGOS Y DEJA SIN EFECTO RESOLUCION I N° 17 EXENTA, DE 18.06.2019
+
+Por resolución exenta I N° 13, de 3 de mayo de 2022, el Director Nacional del Instituto de Previsión Social, que dejó sin efecto la resolución exenta I N° 17, de 18 de junio de 2019 y modificó el resuelvo 2°, de la resolución exenta N° 66, de 03.11.2015, que aprobó el contrato de arriendo del inmueble ubicado en calle San Martín N° 220, comuna de Los Muermos, Región de Los Lagos, en el sentido de designar como administradoras de dicho contrato, a las funcionarias del Capri Puerto Montt, Andrea Manzano Olivares, como titular y a Marcelo Cárdenas González, como suplente, quienes tendrán las facultades y responsabilidades que se indican.-
+
+Nicolás Fernández Abdala, Jefe (S) Departamento Administración e Inmobiliaria.
