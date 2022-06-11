@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN N° 279 EXENTA, DE 16.06.2016, QUE AUTORIZÓ A LA JEFATURA QUE SE INDICA, DEL DEPARTAMENTO GESTIÓN DE PAGOS DEPENDIENTE DE LA DIVISIÓN BENEFICIOS DEL INSTITUTO DE PREVISIÓN SOCIAL, PARA SUSCRIBIR A TRAVÉS DE FIRMA DIGITAL SIMPLE, LAS CONSTANCIAS QUE SE SEÑALAN, EN EL SENTIDO QUE SE INDICA
+
+Por resolución exenta N° 502, de 7 de diciembre de 2021, el Director Nacional del Instituto de Previsión Social, modificó la resolución exenta N° 279, de 16 de junio de 2016, que autorizó a la Jefatura de la Unidad Control de Procesos y Emisiones del Subdepartamento Procesos y Emisión de Pagos dependiente del Departamento Gestión de Pagos de la División Beneficios del Instituto de Previsión Social, Sr. Javier Antonio Pavez Alviña, RUN: 6.443.174-9, para suscribir, a través de la modalidad de firma digital simple, los documentos que se indican, en el sentido de reemplazar su resuelvo 1°, por el que indica.-
+
+Patricio Coronado Rojo, Director Nacional.
