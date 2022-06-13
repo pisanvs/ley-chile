@@ -32,7 +32,7 @@ e) Daño Ambiental: toda pérdida, disminución, detrimento o menoscabo signific
 
 f) Declaración de Impacto Ambiental: el documento descriptivo de una actividad o proyecto que se pretende realizar, o de las modificaciones que se le introducirán, otorgado bajo juramento por el respectivo titular, cuyo contenido permite al organismo competente evaluar si su impacto ambiental se ajusta a las normas ambientales vigentes;
 
-g) Desarrollo Sustentable: el proceso de mejoramiento sostenido y equitativo de la calidad de vida de las personas, fundado en medidas apropiadas de conservación y protección del medio ambiente, de manera de no comprometer las expectativas de las generaciones futuras;
+g) Desarrollo sustentable: el proceso de mejoramiento sostenido y equitativo de la calidad de vida de las personas, fundado en medidas apropiadas de conservación y protección del medio ambiente, considerando el cambio climático de manera de no comprometer las expectativas de las generaciones futuras;
 
 h) Educación Ambiental: proceso permanente de carácter interdisciplinario, destinado a la formación de una ciudadanía que reconozca valores, aclare conceptos y desarrolle las habilidades y las actitudes necesarias para una convivencia armónica entre seres humanos, su cultura y su medio bio-físico circundante;
 
@@ -114,7 +114,7 @@ En todo caso, siempre deberán someterse a evaluación ambiental estratégica lo
 
 La elaboración de las políticas y planes deberá contemplar las etapas de diseño y aprobación.
 
-En la etapa de diseño, el organismo que dictará la política o plan, deberá considerar los objetivos y efectos ambientales del instrumento, así como los criterios de desarrollo sustentable de los mismos. Durante esta etapa se deberá integrar a otros órganos de la administración del Estado vinculados a las materias objeto de la política o plan, así como otros instrumentos relacionados con ellos, a fin de garantizar la actuación coordinada de las entidades públicas involucradas en los proyectos afectados por la política o plan. En el caso señalado en el inciso segundo, se deberán siempre considerar los instrumentos relacionados con capacidad vial elaborados por la autoridad competente.
+En la etapa de diseño, el organismo que dictará la política o plan, deberá considerar criterios de desarrollo sustentable, objetivos ambientales y efectos ambientales derivados de los factores críticos de decisión, los que incluirán la mitigación y adaptación al cambio climático, según corresponda. Durante esta etapa se deberá integrar a otros órganos de la administración del Estado vinculados a las materias objeto de la política o plan, así como otros instrumentos relacionados con ellos, a fin de garantizar la actuación coordinada de las entidades públicas involucradas en los proyectos afectados por la política o plan. En el caso señalado en el inciso segundo, se deberán siempre considerar los instrumentos relacionados con capacidad vial elaborados por la autoridad competente.
 
 En la etapa de aprobación, se deberá elaborar un anteproyecto de política o plan que contendrá un informe ambiental, que será remitido al Ministerio del Medio Ambiente para sus observaciones, para luego ser sometido a consulta pública por parte del organismo responsable.
 
@@ -133,6 +133,22 @@ d) Forma de publicidad de la política o plan, así como su reformulación poste
 #### Artículo 7º quáter
 
 La etapa de aprobación de la política o plan, culminará con una resolución del Ministerio sectorial, en la cual se señalará el proceso de elaboración de la política o plan desde su etapa de diseño, la participación de los demás organismos del Estado, la consulta pública realizada y la forma en que ha sido considerada, el contenido del informe ambiental y las respectivas consideraciones ambientales y de desarrollo sustentable que debe incorporar la política o plan para su dictación, así como los criterios e indicadores de seguimiento destinados a controlar la eficacia del plan o política, y los criterios e indicadores de rediseño que se deberán considerar para la reformulación de dicho plan o política en el mediano o largo plazo.
+
+### Párrafo 1º — ter
+
+Del Programa de Regulación Ambiental
+
+#### Artículo 7°
+
+quinquies.- El Ministerio del Medio Ambiente establecerá un programa de regulación ambiental que contenga los criterios de sustentabilidad y las prioridades programáticas en materia de políticas, planes y programas para la elaboración y revisión de los instrumentos de gestión ambiental y de gestión del cambio climático, en el ámbito de sus competencias.
+
+Dicho programa se fundamentará en antecedentes sobre el estado de la situación ambiental del país, las evidencias de impactos ambientales nacionales, regionales o locales y los objetivos y metas establecidos en la Estrategia Climática de Largo Plazo y la Contribución Determinada a Nivel Nacional. Asimismo, podrá señalar indicadores que permitan evaluar el progreso en la elaboración y revisión de los instrumentos respectivos.
+
+El Ministerio del Medio Ambiente podrá requerir a los demás órganos de la Administración del Estado competentes la información y antecedentes que sean necesarios para la elaboración del programa.
+
+El programa deberá publicarse en el Diario Oficial y mantenerse permanentemente a disposición de la ciudadanía.
+
+El programa será dictado mediante resolución exenta del Ministerio del Medio Ambiente, a lo menos cada dos años. El Ministro del Medio Ambiente, anualmente, dará cuenta pública en la sala de ambas cámaras del Congreso Nacional sobre el estado de avance de dicho programa. Los presidentes de la Cámara de Diputados y del Senado, respectivamente, citarán a una sesión especial para dicho efecto.
 
 ### Párrafo 2°
 
@@ -620,15 +636,17 @@ De las Normas de Calidad Ambiental y de la Preservación de la Naturaleza y Cons
 
 #### Artículo 32
 
-Mediante decreto supremo, que llevará las firmas del Ministro del Medio Ambiente y del Ministro de Salud, se promulgarán las normas primarias de calidad ambiental. Estas normas serán de aplicación general en todo el territorio de la República y definirán los niveles que originan situaciones de emergencia. El Ministerio de Salud podrá solicitar fundadamente al Ministerio del Medio Ambiente la dictación de una norma primaria de calidad, la que deberá dictarse dentro de un plazo que no podrá exceder de cinco años, a menos que dentro de tal plazo indique las razones técnicas para no acoger la solicitud.
+Mediante decreto supremo, que llevará las firmas del Ministro del Medio Ambiente y del Ministro de Salud, se promulgarán las normas primarias de calidad ambiental. Estas normas serán de aplicación general en todo el territorio de la República y definirán los niveles que originan situaciones de emergencia. El Ministerio de Salud podrá solicitar fundadamente al Ministerio del Medio Ambiente la dictación de una norma primaria de calidad, la que deberá dictarse dentro de un plazo que no podrá exceder de cuatro años, a menos que dentro de tal plazo indique las razones técnicas para no acoger la solicitud.
 
 Mediante decreto supremo que llevará las firmas del Ministro del Medio Ambiente y del ministro competente según la materia de que se trate, se promulgarán las normas secundarias de calidad ambiental.
 
 Un reglamento establecerá el procedimiento a seguir para la dictación de normas de calidad ambiental, que considerará a lo menos las siguientes etapas: análisis técnico y económico, desarrollo de estudios científicos, consultas a organismos competentes, públicos y privados, análisis de las observaciones formuladas y una adecuada publicidad. Establecerá además los plazos y formalidades que se requieran para dar cumplimiento a lo dispuesto en este artículo y los criterios para revisar las normas vigentes.
 
-Toda norma de calidad ambiental será revisada por el Ministerio del Medio Ambiente a lo menos cada cinco años, aplicando el mismo procedimiento antes señalado.
+Toda norma de calidad ambiental será revisada por el Ministerio del Medio Ambiente a lo menos cada cuatro años, aplicando el mismo procedimiento antes señalado.
 
 La coordinación del proceso de generación de las normas de calidad ambiental, y la determinación de los programas y plazos de cumplimiento de las mismas, corresponderá al Ministerio del Medio Ambiente.
+
+Toda persona o agrupación de personas tendrá derecho a solicitar fundadamente la dictación de normas primarias o secundarias de calidad ambiental respecto de contaminantes que a la fecha de la solicitud no se encuentren regulados mediante instrumentos de gestión ambiental vigentes. El Ministerio del Medio Ambiente deberá dar respuesta fundada dentro del plazo de treinta días contado desde la presentación de la solicitud.
 
 #### Artículo 33
 
@@ -684,6 +702,8 @@ Las normas de emisión se establecerán mediante decreto supremo, que llevará l
 
 Corresponderá al Ministerio del Medio Ambiente proponer, facilitar y coordinar la dictación de normas de emisión, para lo cual deberá sujetarse a las etapas señaladas en el artículo 32, inciso tercero, y en el respectivo reglamento, en lo que fueren procedentes, considerando las condiciones y características ambientales propias de la zona en que se aplicarán, pudiendo utilizar las mejores técnicas disponibles, como criterio para determinar los valores o parámetros exigibles en la norma, cuando corresponda.
 
+Toda persona o agrupación de personas tendrá derecho a solicitar fundadamente la dictación de normas de emisión respecto de fuentes que a la fecha de la solicitud no se encuentren reguladas mediante instrumentos de gestión ambiental vigentes. El Ministerio del Medio Ambiente deberá dar respuesta fundada dentro del plazo de treinta días contado desde la presentación de la solicitud.
+
 ### Párrafo 6°
 
 De los Planes de Manejo, Prevención o
@@ -722,7 +742,7 @@ Esta declaración tendrá como fundamento las mediciones, realizadas o certifica
 
 Mediante decreto supremo del Ministerio del Medio Ambiente, que llevará además la firma del ministro sectorial que corresponda, se establecerán planes de prevención o de descontaminación, cuyo cumplimiento será obligatorio en las zonas calificadas como latentes o saturadas, respectivamente.
 
-La elaboración de estos planes y su proposición a la autoridad competente para su establecimiento corresponderá al Ministerio del Medio Ambiente, previo informe de la Secretaría Regional Ministerial respectiva. Para estos efectos se seguirá el mismo procedimiento y etapas establecidos en el inciso tercero del artículo 32 de la presente ley.
+La elaboración de estos planes y su proposición a la autoridad competente para su establecimiento corresponderá al Ministerio del Medio Ambiente, previo informe de la Secretaría Regional Ministerial respectiva. Para estos efectos se seguirá el mismo procedimiento y etapas establecidos en el inciso tercero del artículo 32 de la presente ley el que no podrá exceder el plazo de cuatro años contado desde la publicación del decreto supremo que declaró la zona como latente o saturada.
 
 #### Artículo 45
 
@@ -745,6 +765,8 @@ g) La estimación de sus costos económicos y sociales, y
 h) La proposición, cuando sea posible, de mecanismos de compensación de emisiones.
 
 Las actividades contaminantes ubicadas en zonas afectas a planes de prevención o descontaminación, quedarán obligadas a reducir sus emisiones a niveles que permitan cumplir los objetivos del plan en el plazo que al efecto se establezca.
+
+Los Planes de Prevención contemplarán además medidas que se harán efectivas en caso de declararse la misma zona geográfica como saturada por los contaminantes que estuvieren latentes. Dichas medidas se mantendrán vigentes hasta la dictación del respectivo plan de descontaminación.
 
 #### Artículo 46
 
@@ -906,7 +928,7 @@ Cuando los proyectos o actividades excedan el monto señalado, el proceso de sel
 
 El Fondo de Protección Ambiental estará formado por:
 
-a) Herencias, legados y donaciones, cualquiera sea su origen. En el caso de las donaciones, ellas estarán exentas del trámite de insinuación;
+a) Herencias, legados y donaciones, cualquiera sea su origen. Para estos efectos, las donaciones al Ministerio del Medio Ambiente destinadas al Fondo de Protección Ambiental se regirán por lo dispuesto en el artículo 4° de la ley N° 19.896, siéndoles aplicables los beneficios tributarios del artículo 37 del decreto ley N° 1.939 que establece normas sobre adquisición, administración y disposición de bienes del Estado;
 
 b) Recursos destinados para este efecto, en la Ley de Presupuestos de la Nación;
 
@@ -998,11 +1020,11 @@ z) Asumir todas las demás funciones y atribuciones que la ley le encomiende.
 
 ### Párrafo 2º
 
-Del Consejo de Ministros para la Sustentabilidad, Naturaleza y Funciones
+Del Consejo de Ministros para la Sustentabilidad y el Cambio Climático, Naturaleza y Funciones
 
 #### Artículo 71
 
-Créase el Consejo de Ministros para la Sustentabilidad, presidido por el Ministro del Medio Ambiente e integrado por los Ministros de Agricultura; de Hacienda; de Salud; de Economía, Fomento y Reconstrucción; de Energía; de Obras Públicas; de Vivienda y Urbanismo; de Transportes y Telecomunicaciones; de Minería, y de Planificación.
+Créase el Consejo de Ministros para la Sustentabilidad y el Cambio Climático, presidido por el Ministro del Medio Ambiente e integrado por los Ministros de Agricultura; de Hacienda; de Salud; de Economía, Fomento y Turismo; de Energía; de Obras Públicas; de Vivienda y Urbanismo; de Transportes y Telecomunicaciones; de Minería; de Desarrollo Social y Familia; de Educación, y de Ciencia, Tecnología, Conocimiento e Innovación.
 
 En caso de ausencia o impedimento del Presidente, éste será reemplazado por el Ministro que corresponda según el orden establecido en el inciso anterior.
 
@@ -1022,15 +1044,17 @@ f) Pronunciarse sobre los proyectos de ley y actos administrativos que se propon
 
 #### Artículo 72
 
-El Consejo de Ministros para la Sustentabilidad celebrará sesiones cuando lo convoque su Presidente. El quórum para sesionar será de seis consejeros y los acuerdos se adoptarán por la mayoría absoluta de los asistentes. En caso de empate, decidirá el voto del Ministro Presidente o quien lo reemplace. El Consejo en su primera sesión determinará las normas para su funcionamiento. El Consejo deberá sesionar al menos dos veces al año.
+El Consejo de Ministros para la Sustentabilidad y el Cambio Climático celebrará sesiones cuando lo convoque su Presidente. El quórum para sesionar será de seis consejeros y los acuerdos se adoptarán por la mayoría absoluta de los asistentes. En caso de empate, decidirá el voto del Ministro Presidente o quien lo reemplace. El Consejo en su primera sesión determinará las normas para su funcionamiento. El Consejo deberá sesionar al menos dos veces al año.
+
+Las sesiones del Consejo de Ministros para la Sustentabilidad y el Cambio Climático deberán ser transmitidas en directo por el medio más idóneo y, además, grabadas y publicadas íntegramente en un plazo máximo de veinticuatro horas en la plataforma que se disponga para dicho efecto en el sitio oficial del Ministerio del Medio Ambiente, bajo los mecanismos de transparencia activa que dispone la ley. Adicionalmente, las actas de la sesión deberán ser publicadas en la misma plataforma en el plazo de diez días hábiles.
 
 #### Artículo 73
 
-El Consejo de Ministros para la Sustentabilidad podrá sesionar en las dependencias del Ministerio del Medio Ambiente, el que proporcionará los medios materiales para su funcionamiento. El Consejo contará con el apoyo de un funcionario del Ministerio del Medio Ambiente, propuesto por el Ministro del ramo y aprobado por el Consejo, quien actuará como Secretario del mismo, correspondiéndole levantar actas de las sesiones respectivas.
+El Consejo de Ministros para la Sustentabilidad y el Cambio Climático podrá sesionar en las dependencias del Ministerio del Medio Ambiente, el que proporcionará los medios materiales para su funcionamiento. El Consejo contará con el apoyo de un funcionario del Ministerio del Medio Ambiente, propuesto por el Ministro del ramo y aprobado por el Consejo, quien actuará como Secretario del mismo, correspondiéndole levantar actas de las sesiones respectivas.
 
-Los acuerdos del Consejo de Ministros para la Sustentabilidad que deban materializarse mediante actos administrativos que conforme al ordenamiento jurídico deben dictarse a través de una Secretaría de Estado, serán expedidos a través del Ministerio del Medio Ambiente.
+Los acuerdos del Consejo de Ministros para la Sustentabilidad y el Cambio Climático que deban materializarse mediante actos administrativos que conforme al ordenamiento jurídico deben dictarse a través de una Secretaría de Estado, serán expedidos a través del Ministerio del Medio Ambiente.
 
-Los acuerdos del Consejo de Ministros para la Sustentabilidad serán obligatorios para los organismos de la Administración del Estado al cual estén dirigidos, incurriendo en responsabilidad administrativa los funcionarios que no den cumplimiento a los mismos.
+Los acuerdos del Consejo de Ministros para la Sustentabilidad y el Cambio Climático serán obligatorios para los organismos de la Administración del Estado al cual estén dirigidos, incurriendo en responsabilidad administrativa los funcionarios que no den cumplimiento a los mismos.
 
 ### Párrafo 3º
 
@@ -1064,29 +1088,31 @@ c) Colaborar con los municipios respectivos en materia de gestión ambiental
 
 ### Párrafo 4º
 
-De los Consejos Consultivos
+Del Consejo Nacional para la Sustentabilidad y el Cambio Climático y de los Consejos Consultivos Regionales
 
 #### Artículo 76
 
-Habrá un Consejo Consultivo del Ministerio del Medio Ambiente presidido por el Ministro del Medio Ambiente e integrado por:
+Habrá un Consejo Nacional para la Sustentabilidad y el Cambio Climático integrado por:
 
-a) Dos científicos, propuestos en quina por el Consejo de Rectores de las Universidades Chilenas.
+a) Dos científicos, uno de los cuales será experto en materia de cambio climático, propuestos en quina por el Consejo de Rectores de las Universidades Chilenas.
 
-b) Dos representantes de organizaciones no gubernamentales sin fines de lucro que tengan por objeto la protección del medio ambiente.
+b) Dos representantes de organizaciones no gubernamentales sin fines de lucro que tengan por objeto la protección del medio ambiente, uno de los cuales será experto en materia de cambio climático.
 
-c) Dos representantes de centros académicos independientes que estudien o se ocupen de materias ambientales.
+c) Dos representantes de centros académicos independientes que estudien o se ocupen de materias ambientales, uno de los cuales será experto en materia de cambio climático.
 
-d) Dos representantes del empresariado, propuestos en quina por la organización empresarial de mayor representatividad en el país.
+d) Dos representantes del empresariado, uno de los cuales pertenecerá al sector energía.
 
 e) Dos representantes de los trabajadores, propuestos en quina por la organización sindical de mayor representatividad en el país.
 
 f) Un representante del Presidente de la República.
 
-Los consejeros serán nombrados por el Presidente de la República por un período de dos años, el que podrá prorrogarse por una sola vez. Un reglamento establecerá el funcionamiento del Consejo.
+g) Dos representantes de organizaciones de jóvenes que tengan por objeto la protección del medio ambiente.
+
+Los consejeros serán nombrados de manera paritaria por el Presidente de la República por un período de dos años, el que podrá prorrogarse por una sola vez. Un reglamento establecerá el funcionamiento del Consejo.
 
 #### Artículo 77
 
-Corresponderá al Consejo Consultivo absolver las consultas que le formule el Ministerio del Medio Ambiente y el Consejo de Ministros para la Sustentabilidad, emitir opiniones sobre los anteproyectos de ley y decretos supremos que fijen normas de calidad ambiental, de preservación de la naturaleza y conservación del patrimonio ambiental, planes de prevención y de descontaminación, regulaciones especiales de emisiones y normas de emisión que les sean sometidos a su conocimiento. Asimismo, podrá pronunciarse, de oficio, sobre temas ambientales de interés general y ejercer todas las demás funciones que le encomiende el Ministerio y la ley.
+Corresponderá al Consejo Consultivo absolver las consultas que le formule el Ministerio del Medio Ambiente y el Consejo de Ministros para la Sustentabilidad y el Cambio Climático, emitir opiniones sobre los anteproyectos de ley y decretos supremos que fijen normas de calidad ambiental, de preservación de la naturaleza y conservación del patrimonio ambiental, instrumentos de gestión del cambio climático, planes de prevención y de descontaminación, regulaciones especiales de emisiones y normas de emisión que les sean sometidos a su conocimiento. Asimismo, podrá pronunciarse, de oficio, sobre temas ambientales de interés general y ejercer todas las demás funciones que le encomiende el Ministerio y la ley.
 
 #### Artículo 78
 
@@ -1102,7 +1128,7 @@ d) Dos representantes de los trabajadores.
 
 e) Un representante del Ministro del Medio Ambiente.
 
-Los consejeros serán nombrados por el Intendente a proposición del Secretario Regional Ministerial del Medio Ambiente, previa consulta a las respectivas organizaciones o sindicatos más representativos de la región. Respecto de los científicos, éstos serán propuestos por las universidades o institutos profesionales establecidos en la región, si no las hubiere, los designará libremente el Intendente Regional. Los consejeros durarán en sus funciones por un período de dos años, el que podrá prorrogarse por una sola vez. Un Reglamento establecerá el funcionamiento de estos Consejos.
+Los consejeros serán nombrados de manera paritaria por el Intendente a proposición del Secretario Regional Ministerial del Medio Ambiente, previa consulta a las respectivas organizaciones o sindicatos más representativos de la región. Respecto de los científicos, éstos serán propuestos por las universidades o institutos profesionales establecidos en la región, si no las hubiere, los designará libremente el Intendente Regional. Los consejeros durarán en sus funciones por un período de dos años, el que podrá prorrogarse por una sola vez. Un Reglamento establecerá el funcionamiento de estos Consejos.
 
 Corresponderá al Consejo Consultivo Regional absolver las consultas que le formulen el Intendente, el Gobierno Regional y el Secretario Regional Ministerial del Medio Ambiente. Asimismo, podrá pronunciarse, de oficio, sobre temas ambientales de interés general y ejercer todas las demás funciones que le encomiende el Ministerio y la ley.
 

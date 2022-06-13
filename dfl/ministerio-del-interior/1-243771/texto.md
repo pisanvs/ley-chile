@@ -256,13 +256,15 @@ Para el cumplimiento de esta función, el gobierno regional podrá celebrar conv
 
 k) Elaborar y aprobar los planes de inversiones en infraestructura de movilidad y espacio público asociados al o a los planes reguladores metropolitanos o intercomunales existentes en la región, con consulta a las respectivas municipalidades.
 
+o) Coparticipar con el Comité Regional para el cambio climático en la elaboración y aprobación de los instrumentos para la gestión del cambio climático a nivel regional.
+
 > **Nota.** La letra b) del N° 6 del artículo 1° de la ley 21.074, publicada el 15.02.2018, modifica el presente artículo en el sentido de intercalar nuevas letras b), c), d) y e) y desplazar las letras b) a j) prexistentes, las que pasan a ser f) a n); sin embargo, esta disposición no se pronuncia respecto de la letra k) ubicada a continuación de la j) que pasó a ser n), que no estaba en el texto original y que fue agregada por el artículo 4° N° 1 b) de la ley 20.958. Dado que no ha sido modificada expresamente, en esta actualización se mantiene en el lugar y con la letra que ya tenía, y como además la letra g) original ha pasado a ser k), han quedando dos letras k) en este artículo.
 
 #### Artículo 17
 
 Serán funciones del gobierno regional en materia de ordenamiento territorial:
 
-a) Elaborar y aprobar el plan regional de ordenamiento territorial en coherencia con la estrategia regional de desarrollo y la política nacional de ordenamiento territorial, previo informe favorable de los ministros que conforman la Comisión Interministerial de Ciudad, Vivienda y Territorio establecida en el párrafo quinto de este literal.
+a) Elaborar y aprobar el plan regional de ordenamiento territorial en coherencia con la estrategia regional de desarrollo, la política nacional de ordenamiento territorial, la estrategia climática de largo plazo y el plan de acción regional de cambio climático, previo informe favorable de los ministros que conforman la Comisión Interministerial de Ciudad, Vivienda y Territorio, establecida en el párrafo quinto de este literal.
 
 El plan regional de ordenamiento territorial es un instrumento que orienta la utilización del territorio de la región para lograr su desarrollo sustentable a través de lineamientos estratégicos y una macro zonificación de dicho territorio. También establecerá, con carácter vinculante, condiciones de localización para la disposición de los distintos tipos de residuos y sus sistemas de tratamientos y condiciones para la localización de las infraestructuras y actividades productivas en zonas no comprendidas en la planificación urbanística, junto con la identificación de las áreas para su localización preferente. El incumplimiento de las condiciones provocará la caducidad de las autorizaciones respectivas, sin perjuicio de las demás consecuencias que se establezcan. El plan reconocerá, además, las áreas que hayan sido colocadas bajo protección oficial, de acuerdo con lo dispuesto en la legislación respectiva.
 
@@ -363,6 +365,8 @@ j) Aprobar las banderas, escudos e himnos regionales, en conformidad con el regl
 k) Diseñar, elaborar, aprobar y ejecutar políticas, planes, programas y proyectos dentro de su territorio, y
 
 l) Ejercer las demás atribuciones necesarias para el ejercicio de las funciones que las leyes le encomienden.
+
+m) Coparticipar con el Comité Regional para el cambio climático en la elaboración y aprobación de los instrumentos para la gestión del cambio climático a nivel regional.
 
 #### Artículo 20 bis
 

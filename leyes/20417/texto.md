@@ -1030,7 +1030,21 @@ t) Fiscalizar el cumplimiento de las demás normas e instrumentos de carácter a
 
 u) Proporcionar asistencia a sus regulados para la presentación de planes de cumplimiento o de reparación, así como para orientarlos en la comprensión de las obligaciones que emanan de los instrumentos individualizados en el artículo 2º de esta ley.
 
-v) Las demás funciones y atribuciones que le asigne la ley.
+v) Administrar un mecanismo de evaluación y verificación de cumplimiento respecto de criterios de sustentabilidad y contribución a la protección del patrimonio ambiental del país, de conformidad con lo dispuesto en el artículo 48 ter de la ley N° 19.300, así como de excedencias, reducciones o absorciones de emisiones obtenidas mediante la implementación de proyectos realizados al efecto.
+
+Para estos efectos, la Superintendencia administrará un sistema de acreditación de personas naturales y jurídicas que realicen estas evaluaciones y verificaciones. El Reglamento determinará los requisitos, condiciones y procedimientos necesarios para su administración y funcionamiento, el que deberá, a lo menos, considerar la incompatibilidad absoluta entre el ejercicio de labores de evaluación y verificación y las de consultoría para la elaboración de proyectos de reducción o absorción de emisiones.
+
+Las infracciones a este literal se sancionarán de conformidad con lo dispuesto en el Título III de la presente ley, encontrándose la Superintendencia facultada, además, para revocar el certificado, rótulo o etiqueta como sanción.
+
+w) Administrar un mecanismo de evaluación y verificación de cumplimiento, respecto de criterios de sustentabilidad y contribución a la protección del patrimonio ambiental del país, de conformidad con lo dispuesto en el artículo 48 ter de la ley Nº 19.300.
+
+Para estos efectos, la Superintendencia administrará un sistema de acreditación de personas naturales y jurídicas que realicen estas evaluaciones y verificaciones. El reglamento determinará los requisitos, condiciones y procedimientos necesarios para su administración y funcionamiento.
+
+Las infracciones derivadas de este sistema, así como de las personas acreditadas, se sancionarán de conformidad con lo dispuesto en el Título III de la presente ley.
+
+w) Las demás funciones y atribuciones que le asigne la ley.
+
+> **Nota.** El artículo 47 N° 1 de la ley 21.455, publicada el 13.06.2022, modificó el presente artículo en el sentido de incorporar una nueva letra v), pasando la actual v) a ser w). Sin embargo, el artículo 18 de la ley 21.368, publicada el 13.08.2021, previamente había incorporado un literal v), nuevo, pasando el entonces literal v) a ser w). Por consiguiente, conforme a las normas citadas, en el presente texto actualizado han quedado dos literales w). Cabe advertir la similitud de contenido entre las letras v) agregadas por ambas leyes.
 
 ### Párrafo 2º
 
@@ -1358,7 +1372,7 @@ f) Incumplir las medidas adoptadas por la superintendencia en virtud de lo dispu
 
 g) El incumplimiento de las leyes, reglamentos y demás normas relacionadas con las descargas de residuos líquidos industriales.
 
-h) El incumplimiento de las Normas de Emisión, cuando corresponda.
+h) El incumplimiento de las Normas de Emisión y de las Normas de Emisión de Gases de Efecto Invernadero.
 
 i) El incumplimiento de los planes de recuperación, conservación y gestión de especies establecidos en la ley Nº 19.300.
 

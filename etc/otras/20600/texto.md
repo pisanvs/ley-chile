@@ -72,7 +72,7 @@ a) Primer Tribunal Ambiental, con asiento en la comuna de Antofagasta, y con com
 
 b) Segundo Tribunal Ambiental, con asiento en la comuna de Santiago, y con competencia territorial en las regiones de Valparaíso, Metropolitana de Santiago, del Libertador General Bernardo O'Higgins y del Maule.
 
-c) Tercer Tribunal Ambiental, con asiento en la comuna de Valdivia, y con competencia territorial en las regiones del Biobío, de La Araucanía, de Los Ríos, de Los Lagos, de Aysén del General Carlos Ibáñez del Campo, y de Magallanes y de la Antártica Chilena.
+c) Tercer Tribunal Ambiental, con asiento en la comuna de Valdivia, y con competencia territorial en las regiones de Ñuble, del Biobío, de La Araucanía, de Los Ríos, de Los Lagos, de Aysén del General Carlos Ibáñez del Campo, y de Magallanes y de la Antártica Chilena.
 
 #### Artículo 6º
 
@@ -266,7 +266,11 @@ Será competente para conocer de esta reclamación el Tribunal Ambiental que eje
 
 En los casos de los numerales 5) y 6) del presente artículo no se podrá ejercer la potestad invalidatoria del artículo 53 de la ley Nº 19.880 una vez resueltos los recursos administrativos y jurisdiccionales o transcurridos los plazos legales para interponerlos sin que se hayan deducido.
 
-9) Conocer de los demás asuntos que señalen las leyes.
+9) Conocer de las reclamaciones que se interpongan en contra de los decretos supremos que establezcan las normas de emisión de gases de efecto invernadero. Será competente el tribunal que en primer lugar se avoque a su consideración, excluyendo la competencia de los demás.
+
+10) Conocer de las reclamaciones que se interpongan en contra de las resoluciones que se pronuncien sobre la procedencia de un proyecto de reducción o absorción de emisiones de gases de efecto invernadero. Será competente para conocer de esta reclamación el Tribunal Ambiental del lugar en que se haya dictado la referida resolución.
+
+11) Conocer de los demás asuntos que señalen las leyes.
 
 ## Título III
 
@@ -293,6 +297,10 @@ De las partes. Los organismos de la Administración del Estado y las personas na
 6) En el caso del número 7), cualquier persona que considere que los actos administrativos que dicten los Ministerios o servicios públicos para la ejecución o implementación de las normas de calidad, emisión y planes de prevención o descontaminación, infrinjan la ley, las normas y los objetivos de los instrumentos señalados.
 
 7) En el caso del número 8), quien hubiese solicitado la invalidación administrativa o el directamente afectado por la resolución que resuelva el procedimiento administrativo de invalidación.
+
+8) En el caso del número 9), cualquier persona que considere que los decretos que tal numeral menciona no se ajustan a la ley.
+
+9) En el caso del número 10), las personas naturales o jurídicas directamente afectadas por la resolución del Ministerio del Medio Ambiente.
 
 En los procedimientos que se regulan en esta ley será aplicable lo dispuesto en el artículo 23 del Código de Procedimiento Civil. Se presumirá que las municipalidades y el Estado tienen el interés actual en los resultados del juicio que dicha norma exige.
 
@@ -352,7 +360,7 @@ Recursos. En estos procedimientos sólo serán apelables las resoluciones que de
 
 El plazo para la interposición de la apelación será de diez días contado desde la notificación de la resolución respectiva.
 
-En contra de la sentencia definitiva dictada en los procedimientos relativos a las materias que son de la competencia de los Tribunales Ambientales, establecidas en los numerales 1), 2), 3), 5), 6), 7) y 8) del artículo 17, procederá sólo el recurso de casación en el fondo, en conformidad a lo dispuesto en el artículo 767 del Código de Procedimiento Civil.
+En contra de la sentencia definitiva dictada en los procedimientos relativos a las materias que son de la competencia de los Tribunales Ambientales, establecidas en los numerales 1), 2), 3), 5), 6), 7), 8), 9) y 10) del artículo 17, procederá sólo el recurso de casación en el fondo, en conformidad a lo dispuesto en el artículo 767 del Código de Procedimiento Civil.
 
 Además, en contra de la sentencia definitiva dictada en los procedimientos señalados en el inciso anterior, procederá el recurso de casación en la forma, en conformidad a lo dispuesto en el artículo 768 del Código de Procedimiento Civil, sólo por las causales de los números 1, 4, 6 y 7 de dicho artículo. Asimismo, procederá este recurso cuando en la sentencia definitiva se hubiere omitido alguno de los requisitos establecidos en el artículo 25 de esta ley; o cuando la sentencia haya sido pronunciada con infracción manifiesta de las normas sobre apreciación de la prueba conforme a las reglas de la sana crítica.
 

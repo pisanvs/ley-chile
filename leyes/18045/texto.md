@@ -136,7 +136,7 @@ De la información continua y reservada
 
 #### Artículo 10
 
-Las entidades inscritas en el Registro de Valores quedarán sujetas a esta ley y a sus normas complementarias y deberán proporcionar la información que establece la ley a la Comisión y al público en general con la periodicidad, publicidad y en la forma que la Comisión determine por norma de carácter general.
+Las entidades inscritas en el Registro de Valores quedarán sujetas a esta ley y a sus normas complementarias y deberán proporcionar a la Comisión y al público en general, la información exigida por esta ley y por la Comisión, de conformidad a una norma de carácter general emitida por esta última. Dicha norma deberá exigir, a lo menos, información referida a los impactos ambientales y de cambio climático de las entidades inscritas, incluyendo la identificación, evaluación y gestión de los riesgos relacionados con esos factores, junto a las correspondientes métricas. La Comisión deberá especificar la forma, la publicidad y la periodicidad de la información a entregar por parte de las entidades inscritas, la que al menos será anual. En la elaboración de la citada normativa, la Comisión considerará estándares o recomendaciones nacionales o internacionales sobre la materia.
 
 Asimismo, y sin perjuicio de lo dispuesto en el inciso anterior, las entidades comprendidas en él deberán divulgar en forma veraz, suficiente y oportuna todo hecho o información esencial respecto de ellas mismas y de sus negocios en el momento en que éste ocurra o llegue a su conocimiento. El directorio o administrador de cada entidad deberá implementar políticas, procedimientos, sistemas y controles con el objeto de asegurar dicha divulgación y evitar que se filtre información esencial mientras no haya ocurrido la referida divulgación.
 
@@ -546,13 +546,19 @@ g) Normas que regulen los sistemas de transacción de valores, con el objeto de 
 
 h) Normas que aseguren un tratamiento justo y no arbitrario para todos los corredores que operen en ellas.
 
-Todas las normas internas que adopten las bolsas en relación a sus operaciones como tales, deberán ser previamente aprobadas por la Comisión, la que estará facultada para rechazarlas, modificarlas o suprimirlas, mediante resolución fundada.
+i) Normas que establezcan las estructuras tarifarias de interconexión, u otras condiciones aplicables a sus participantes o a terceras bolsas.
+
+Todas las normas internas que adopten las bolsas en relación a sus operaciones como tales, deberán ser previamente aprobadas por la Superintendencia, la que estará facultada para rechazarlas, modificarlas o suprimirlas, mediante resolución fundada.
 
 #### Artículo 44 bis
 
 Las bolsas de valores deberán establecer entre sí, sistemas expeditos de comunicación e información en tiempo real respecto de las transacciones de valores que se realicen en cada una de ellas, sin que puedan comercializar o reproducir estas informaciones, salvo autorización expresa de la bolsa que las origina.
 
-Las bolsas de valores convendrán sistemas de comunicación, información, entrega de dineros y títulos; uniformidad de procedimientos y demás que sean convenientes a fin de facilitar el cierre de operaciones entre corredores de distintas bolsas, permitiendo al público inversionista la mejor ejecución de sus órdenes e instando por la existencia de un mercado equitativo, competitivo, ordenado y transparente.
+Asimismo, las bolsas deberán establecer mecanismos de interconexión en tiempo real, con calce vinculante y automático entre distintas bolsas de valores, de manera que permitan la mejor ejecución de las órdenes de los inversionistas, incluyendo aquellas que provengan de terceras bolsas. La Comisión establecerá, mediante norma de carácter general, los sistemas de negociación que deberán interconectarse de manera vinculante, así como la forma, condiciones, requisitos técnicos, de comunicación, de seguridad y cualquier otro que deban cumplir los mecanismos de interconexión, las bolsas y sus participantes, para efectos de implementar esta norma, velando siempre por el adecuado funcionamiento del mercado financiero.
+
+La Comisión, al momento de evaluar la aprobación de las normas de las bolsas que establezcan las estructuras tarifarias de interconexión, u otras condiciones aplicables a sus participantes o a terceras bolsas, deberá propender siempre a la búsqueda de un mercado equitativo, competitivo, ordenado y transparente.
+
+Sin perjuicio de lo dispuesto en el inciso final del artículo 44, la Comisión, en caso que considere que una o más condiciones establecidas en el reglamento de una bolsa de valores sean discriminatorias o afecten la libre competencia, rechazará, mediante resolución fundada, la solicitud de aprobación de dicha reglamentación. La resolución deberá contener un plazo prudente para que la bolsa respectiva subsane las observaciones de la Comisión, el que comenzará a correr desde que la referida resolución sea notificada a la bolsa de valores. En caso que la bolsa no corrija la situación en el plazo indicado, la Comisión podrá proceder de acuerdo al Título IV del decreto ley Nº 3.538, del Ministerio de Hacienda, de 1980, cuyo texto fue reemplazado por el artículo primero de la ley Nº 21.000, que crea la Comisión para el Mercado Financiero. Para efectos de lo establecido en el presente inciso, la Comisión podrá requerir del informe técnico de la Fiscalía Nacional Económica, la que deberá remitir dicho informe a más tardar dentro del plazo de noventa días de solicitado por la Comisión.
 
 #### Artículo 45
 

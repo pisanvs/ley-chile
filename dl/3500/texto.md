@@ -1606,7 +1606,7 @@ Las Administradoras deberán contar con políticas de inversión para cada uno d
 
 La Administradora deberá remitir copia de la política de solución de conflictos de interés a la Comisión de Usuarios y a la Superintendencia, y asimismo deberá publicarla en su sitio web.
 
-La Superintendencia establecerá mediante norma de carácter general las materias mínimas que deberán contemplar las políticas a que se refiere el inciso primero, la oportunidad y periodicidad con la que deberán ser revisadas y la forma en que serán comunicadas a la Superintendencia y público en general.
+La Superintendencia establecerá mediante norma de carácter general las materias mínimas que deberán contemplar las políticas a que se refiere el inciso primero, la oportunidad y periodicidad con la que deberán ser revisadas y la forma en que serán comunicadas a la Superintendencia y público en general. Adicionalmente, dicha norma deberá exigir, como materia mínima a incorporar en las respectivas políticas, la forma en que las administradoras incorporan factores ambientales, en particular información referida a los impactos ambientales y al cambio climático, en su estrategia, gobierno corporativo, gestión de riesgos y decisiones de inversión y diversificación. Para estos efectos, la Superintendencia considerará estándares o recomendaciones nacionales o internacionales sobre la materia.
 
 En todo caso, la política de solución de conflictos de interés deberá referirse, a lo menos, a las siguientes materias:
 
@@ -1636,7 +1636,7 @@ g) Las demás que sobre estas materias le encomiende el directorio de la Adminis
 
 El Comité de Inversión y de Solución de Conflictos de Interés deberá estar integrado por tres directores de la Administradora, dos de los cuales deberán tener el carácter de autónomo según lo señalado en el artículo 156 bis, designados en su caso por el directorio, el que además determinará quién de estos últimos lo presidirá. El Comité deberá dejar constancia en acta de sus deliberaciones y acuerdos.
 
-> **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el presente artículo regirá a contar del primer día del séptimo mes siguiente al de su publicación.
+> **Nota.** El artículo trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el presente artículo regirá a contar del primer día del séptimo mes siguiente al de su publicación.
 
 #### Artículo 50 bis
 

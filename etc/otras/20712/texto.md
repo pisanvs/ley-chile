@@ -422,7 +422,7 @@ e) Política de Votación: normas que regirán el actuar de la administradora en
 
 f) Política de Gastos: normas que establecerán aquellos gastos y cobros que serán de cargo del fondo.
 
-Estas políticas deberán ser consistentes y coherentes con aquellas normas que se definan en cuanto a la rescatabilidad de la cuota, al pago de la misma y al tipo de inversionistas a los que está dirigido el fondo.
+Estas políticas deberán ser consistentes y coherentes con aquellas normas que se definan en cuanto a la rescatabilidad de la cuota, al pago de la misma y al tipo de inversionistas a los que está dirigido el fondo. A su vez, las mencionadas políticas deberán incluir la información que la Comisión para el Mercado Financiero exija mediante norma de carácter general, la que deberá requerir, a lo menos, la forma en que se incorporan factores ambientales, en particular información referida a los impactos ambientales y al cambio climático, en su estrategia, gobierno corporativo, gestión de riesgos y decisiones de inversión y diversificación. Para estos efectos, la Comisión considerará estándares o recomendaciones nacionales o internacionales sobre la materia.
 
 #### Artículo 49
 

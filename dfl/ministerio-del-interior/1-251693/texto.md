@@ -1194,15 +1194,7 @@ h) Otorgar subvenciones y aportes, para financiar actividades comprendidas entre
 
 i) Transigir judicial y extrajudicialmente;
 
-j) Suscribir los convenios de
-
-programación a que se refieren los
-
-artículos 8º bis y 8º ter y
-
-celebrar los convenios y
-
-contratos que involucren montos iguales o superiores al equivalente a 500 unidades tributarias mensuales, y que requerirán el acuerdo de la mayoría absoluta del concejo; no obstante, aquellos que comprometan al municipio por un plazo que exceda el período alcaldicio, requerirán el acuerdo de los dos tercios de dicho concejo. Asimismo, suscribir los convenios sobre aportes urbanos reembolsables que regula la Ley General de Urbanismo y Construcciones;
+j) Suscribir los convenios de programación a que se refieren los artículos 8º bis y 8º ter y celebrar los convenios y contratos que involucren montos iguales o superiores al equivalente a 500 unidades tributarias mensuales, y que requerirán el acuerdo de la mayoría absoluta del concejo; no obstante, aquellos que comprometan al municipio por un plazo que exceda el período alcaldicio, requerirán el acuerdo de los dos tercios de dicho concejo. Asimismo, suscribir los convenios sobre aportes urbanos reembolsables que regula la Ley General de Urbanismo y Construcciones;
 
 k) Otorgar concesiones municipales, renovarlas y ponerles término. En todo caso, las renovaciones sólo podrán acordarse dentro de los seis meses que precedan a su expiración, aún cuando se trate de concesiones reguladas en leyes especiales;
 
@@ -1220,7 +1212,7 @@ p) Fijar el horario de funcionamiento de los establecimientos de expendio de beb
 
 Estos acuerdos del concejo deberán ser fundados;
 
-q) Otorgar patentes a las salas de cine destinadas a la exhibición de producciones cinematográficas de contenido pornográfico. En este caso, el acuerdo deberá adoptarse por la mayoría simple de los miembros del concejo. El alcalde oirá previamente a la junta de vecinos correspondiente, y
+q) Otorgar patentes a las salas de cine destinadas a la exhibición de producciones cinematográficas de contenido pornográfico. En este caso, el acuerdo deberá adoptarse por la mayoría simple de los miembros del concejo. El alcalde oirá previamente a la junta de vecinos correspondiente;
 
 r) Otorgar la autorización a que se refiere el párrafo segundo de la letra c) del artículo 5º, previo informe de las direcciones o unidades de tránsito y de obras municipales y de la unidad de Carabineros y el Cuerpo de Bomberos de la comuna, siempre que la solicitud sea suscrita por a lo menos el 80 por ciento de los propietarios de los inmuebles o de sus representantes o moradores autorizados cuyos accesos se encuentren ubicados al interior de la calle, pasaje o conjunto habitacional urbano o rural que será objeto de cierre. La solicitud de cierre deberá señalar su forma de administración. La autorización deberá ser fundada, especificar el lugar de instalación de los dispositivos de cierre o control; las restricciones a vehículos, peatones o a ambos, en su caso, y los horarios en que se aplicará. La municipalidad podrá revocarla en cualquier momento cuando así lo solicite, a lo menos, el 50 por ciento de los referidos propietarios o sus representantes.
 
@@ -1238,7 +1230,9 @@ Un reglamento expedido por el Ministerio del Interior y Seguridad Pública deter
 
 Toda solicitud de cierre o de implementación de medidas de control de acceso en calles y pasajes que, cumpla con los requisitos establecidos en los párrafos precedentes, y cuente con un ingreso o salida que acceda o enfrente una o más vías de la red vial básica, requerirá de un informe técnico favorable de la secretaría regional ministerial de Transportes y Telecomunicaciones respectiva. Un reglamento expedido por el Ministerio de Transportes y Telecomunicaciones establecerá el procedimiento para solicitar el informe por la respectiva secretaría regional ministerial y las condiciones para otorgarlo.
 
-Si los organismos encargados de evacuar informes para el establecimiento de cierres o la implementación de medidas de control de acceso en los términos precedentes no lo hicieren dentro de los sesenta días siguientes al despacho de la solicitud, se entenderá que se manifiestan a favor de ella.
+Si los organismos encargados de evacuar informes para el establecimiento de cierres o la implementación de medidas de control de acceso en los términos precedentes no lo hicieren dentro de los sesenta días siguientes al despacho de la solicitud, se entenderá que se manifiestan a favor de ella, y
+
+s) Aprobar todos aquellos informes que le sean requeridos a la municipalidad en virtud de la Ley Marco Cambio Climático.
 
 Las materias que requieren el acuerdo del concejo serán de iniciativa del alcalde. Sin perjuicio de lo anterior, si el alcalde incurriere en incumplimiento reiterado y negligente de las obligaciones señaladas en el inciso segundo del artículo 56, podrá ser requerido por el concejo para que presente el o los proyectos que correspondan dentro de un tiempo prudencial. En caso de que el alcalde persista en la omisión, su conducta podrá ser considerada como causal de notable abandono de deberes, para los efectos de lo previsto en la letra
 
