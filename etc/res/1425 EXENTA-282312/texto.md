@@ -34,7 +34,7 @@ El servicio será operado mediante el empleo de un sistema de radiocomunicacione
 
 #### Artículo 3°
 
-La canalización en las bandas destinadas al servicio será a 25 kHz según se indica a continuación. Las frecuencias están asociadas a la estación base de la red, y corresponden a la frecuencia central de los respectivos canales.
+La canalización en las bandas destinadas al servicio será a 25 kHz según se indica a continuación. Las frecuencias están asociadas a la estación base de la red, y corresponden a la frecuencia central del canal cuando ocupa todo el ancho de banda, sin embargo, el permisionario podrá implementar canales con canalización menor, dentro del mismo ancho de banda, en la medida que las emisiones no interfieran a los canales adyacentes.
 
 N° del Recepción Transmisión N° del Recepción Transmisión
 
