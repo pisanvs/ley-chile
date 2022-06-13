@@ -644,7 +644,7 @@ d.3) La transmisión de los buses deberá cumplir con las siguientes especificac
 
 - La transmisión debe tener control electrónico.
 
-- Los vehículos dotados de motor de combustión interna deberán estar equipados con un retardador, pudiendo ser mecánico o hidráulico, con comando de activación electrónico.
+- Los vehículos dotados de motor de combustión interna, y largo mayor o igual a 11 metros, deberán estar equipados con un retardador, pudiendo ser mecánico o hidráulico, con comando de activación electrónico.
 
 - Sistema de neutro en las paradas.
 
