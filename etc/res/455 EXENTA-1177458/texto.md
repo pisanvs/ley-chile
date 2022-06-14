@@ -1,0 +1,7 @@
+EXTRACTO
+
+Gobierno Regional Aysén, por Res. Ex. N° 455 de 21 abril 2022, prohibió circulación vehículos relativas a la actividad denominada "Celebración del Día de la Tierra", en la ciudad de Coyhaique y autorizó a la I. Municipalidad de Coyhaique, a través de la Dirección de Medio Ambiente y Servicios Comunales, en conjunto con la Seremi de Medio Ambiente, Injuv, Cámara Chile de la Construcción, Corporación Ciudades, Fecunda Patagonia, Cicleayque, Fundación Juntos por Aysén, para realizar la siguiente intervención en vía pública:
+
+- Prohibición de circulación de tránsito vehicular en Av. Campo de Hielo entre Glaciar San Rafael y Glaciar Neón tomando la calle Glaciar Nef, entre calle Hielos de la Patagonia entre Circunvalación Escuela Agrícola y pasaje Villa Los Glaciales, con motivo de la realización de la actividad "Celebración del Día de la Tierra" en la que se realizarán actividades como recorrido en bicicleta, reciclaje, operativos de limpieza, educación ambiental, hermoseamiento de plaza ubicada en Villa Los Glaciales entre otras actividades, la cual se desarrollará el día 23 de abril desde las 9:00 hrs. hasta las 14:00 hrs.
+
+Andrea Macías Palma, Gobernadora Regional, Gobierno Regional de Aysén.- Javier González Jara, Jefe Unidad Jurídica, Gobierno Regional de Aysén.
