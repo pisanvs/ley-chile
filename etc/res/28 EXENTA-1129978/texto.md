@@ -186,7 +186,7 @@ El Director tendrá bajo su dependencia directa los siguientes Departamentos:
 
 ### I. Departamento Comunicaciones Estratégicas
 
-### II. Departamento Experiencia de Usuarios
+### II. Derogado
 
 ### III. Departamento Proyectos Estratégicos y Control de Gestión
 
@@ -238,31 +238,13 @@ m) Transmitir y aportar a una mejor comprensión de los objetivos institucionale
 
 n) Dar cumplimiento a las demás tareas encomendadas por el Director.
 
-### Párrafo 3°
+### Párrafo 3° — Derogado
 
 DEL DEPARTAMENTO EXPERIENCIA DE USUARIOS
 
-#### Artículo 9
+#### Artículo 9°
 
-Serán funciones del Departamento Experiencia de Usuarios las siguientes:
-
-a) Proponer al Director la política, estrategias, lineamientos, metodologías, actividades y soluciones necesarias para incorporar la Experiencia de los Usuarios en el Servicio, de acuerdo a los objetivos y misión de la institución.
-
-b) Velar que las divisiones, departamentos, direcciones y unidades del Fondo desarrollen una acción coordinada y sistemática de un modo transversal en la ejecución de la experiencia del servicio definida, de tal manera que los productos, servicios y procesos sean diseñados e implementados para satisfacer las necesidades y expectativas de los usuarios.
-
-c) Contribuir a la generación de capacidades, competencias y habilidades en materia de experiencia de usuarios en el Servicio.
-
-d) Proponer y realizar estudios, investigaciones y análisis de información de fuentes internas y/o externas, que permitan conocer la satisfacción, necesidades, percepciones, expectativas y perfiles de los usuarios, identificando desafíos y oportunidades para la mejora continua de su experiencia.
-
-e) Diseñar, evaluar y coordinar la escalabilidad de soluciones para mejorar la experiencia de usuarios en los distintos productos, servicios y procesos del Fondo.
-
-f) Gestionar y coordinar el Comité de Experiencia de Usuarios, así como velar por su correcto y oportuno funcionamiento.
-
-g) Colaborar con las demás divisiones, departamentos, direcciones y unidades del Fondo en las materias que sean de su competencia.
-
-h) Asesorar y proponer al Director respecto de las demás materias que sean de competencia del Departamento.
-
-i) Dar cumplimiento a las demás tareas encomendadas por el Director.
+Derogado.
 
 ### Párrafo 4°
 
@@ -1250,7 +1232,19 @@ h) Levantar, analizar y documentar los procesos para la toma de decisiones, gene
 
 i) Colaborar con las demás Divisiones y Departamentos del Fondo Nacional de Salud, en las materias que sean de su competencia.
 
-j) Dar cumplimiento a todas las tareas que encomiende el Jefe de la División.
+j) Velar que las divisiones, departamentos, direcciones y unidades del Fondo desarrollen una acción coordinada y sistemática de un modo transversal en la ejecución de la experiencia del servicio definida, de tal manera que los productos, servicios y procesos sean diseñados e implementados para satisfacer las necesidades y expectativas de los usuarios.
+
+k) Contribuir a la generación de capacidades, competencias y habilidades en materia de experiencia de usuarios en el Servicio.
+
+l) Proponer y realizar estudios, investigaciones y análisis de información de fuentes internas y/o externas, que permitan conocer la satisfacción, necesidades, percepciones, expectativas y perfiles de los usuarios, identificando desafíos y oportunidades para la mejora continua de su experiencia.
+
+m) Diseñar, evaluar y coordinar la escalabilidad de soluciones para mejorar la experiencia de usuarios en los distintos productos, servicios y procesos del Fondo.
+
+n) Gestionar y coordinar el Comité de Experiencia de Usuarios, así como velar por su correcto y oportuno funcionamiento.
+
+o) Colaborar con las demás divisiones, departamentos, direcciones y unidades del Fondo en las materias que sean de su competencia.
+
+p) Dar cumplimiento a todas las tareas que encomiende el Jefe de la División.
 
 ## Título Octavo
 
