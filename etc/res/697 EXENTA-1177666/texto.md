@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 697, del 1 de junio de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Los Boldos N° 802 Esq. Huambalí El Roble, comuna de Chillán, Rol de Avalúo N° 01814-00002, de aparente dominio de Lara Garrido María Eugenia. La superficie afecta a expropiación Parcial de terreno es de 55,64 m² (Lote 92) y Total de edificación (a) es de 78,08 m², cuyos linderos particulares están enmarcados en el plano S16R-088, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por la Arquitecto Paola Loreto Martínez Perucca, la Arquitecto Carolina del Pilar Zuloaga Sanhueza y el Ingeniero Civil Industrial Marcelo Esteban Moreno Venegas, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $47.663.987.-
+
+Director Serviu Región de Ñuble.
