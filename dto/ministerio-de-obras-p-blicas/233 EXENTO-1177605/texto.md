@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 233 de 19 de mayo de 2022, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14º letra e) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 5 para la obra: CONCESIÓN RUTA 66, CAMINO DE LA FRUTA, SECTOR B SUBSECTOR: RUTA 66: ENLACE LAS ARAÑAS - LAS BRISAS DE SANTO DOMINGO, Región Metropolitana de Santiago, que figura a nombre de FUENTES CID CELZO IVAN, rol de avalúo 17-187 de la comuna de San Pedro, superficie 921 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 545 de 25 de noviembre de 2021, integrada por Idema Violeta Riffo Salgado, Felipe Antonio Suckel Figueroa y Víctor Hugo Escobar Uribe, mediante informe de tasación de 18 de enero de 2022, fijó el monto de la indemnización provisional en la cantidad de $70.226.000 para el lote Nº 5. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
