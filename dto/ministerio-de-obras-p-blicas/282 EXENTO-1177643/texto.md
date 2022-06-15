@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº282, de 19 de mayo de 202, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº1-A, para la obra: CONSERVACIÓN SEGURIDAD VIAL EN ZONA DE ESCUELA RUTA 66, que figura a nombre de CENTRO COMERCIAL PIEDRA DEL SOL SPA, rol de avalúo 1800-20, Comuna de SANTO DOMINGO, REGIÓN DE VALPARAÍSO, superficie 788,36 m2. La Comisión de Peritos integrada por ROBERTO SEBASTIÁN HERNÁNDEZ, RAMÓN ENRIQUE DOMINGO LABARCA y LORETO HERNÁNDEZ RÍOS, mediante informe de tasación de 16 de octubre de 2018, fijó el monto de la indemnización provisional en la cantidad de $41.895.080, para el lote Nº1-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
