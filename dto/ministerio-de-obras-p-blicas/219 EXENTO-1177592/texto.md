@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 219, de 19 de mayo de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 4, 5 y 6, para la obra: SISTEMA DE AGUA POTABLE RURAL EL ASIENTO, que figura a nombre de MONDACA MOYA MARÍA EUGENIA y ÁLVAREZ AUDOCIO DEL ROSARIO, roles de avalúo 207-6 y 207-67, Comuna de ALHUE, REGIÓN METROPOLITANA DE SANTIAGO, superficies 180,62, 181,06 y 144 m2 respectivamente. La Comisión de Peritos integrada por TATIANA GUTIÉRREZ ORTIZ, PABLO ALEX MANSILLA ARAVENA y PATRICIA VERÓNICA ZAVALA CONTRERAS, mediante informe de tasación de 18 de octubre de 2021, fijó el monto de la indemnización provisional en la cantidad de $559.922 para el lote N° 4, $586.086 para el lote N° 5, y $532.800 para el lote N° 6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
