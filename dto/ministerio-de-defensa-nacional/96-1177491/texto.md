@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 96, de fecha 31 de enero de 2022, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a María Isabel Echeverría Castillo, RUT N° 9.930.018-3, Concesión Marítima Menor, con vencimiento el 31 de diciembre de 2026, sobre un sector de Terreno de Playa, en el lugar denominado Flamenco, comuna de Chañaral, Provincia de Chañaral, Región de Atacama, con una superficie total de 386.83 m², la que fue tramitada con el SIABC N° 44454. A modo referencial se señalan las siguientes coordenadas geográficas: Vértice A: Lat. 26°34'25.25" S Long. 70°41'00.22" W y Vértice D: Lat. 26°34'24.30" S Long. 70°41'01.22" W. El objeto consiste en amparar la instalación de una construcción existente para destinarla a casa de veraneo familiar. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Nicolás Soto Contreras, Teniente 1° LT, Capitán de Puerto de Chañaral.
