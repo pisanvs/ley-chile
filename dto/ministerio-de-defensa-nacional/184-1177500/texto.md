@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 184, de fecha 4 de marzo de 2022, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Transbordadora Austral Broom S.A., RUT 82.074.900-6, concesión marítima menor, con vencimiento el día 30 de junio de 2031, sobre un sector de porción de agua, en el lugar denominado Primera Angostura, sector de Punta Delgada, comuna de San Gregorio, Provincia de Magallanes, Región de Magallanes y Antártica Chilena, con una superficie total de 0,785 m2, la que fue tramitada con el SIABC N° 46.795. A modo referencial se señala la siguiente coordenada geográfica. Latitud 52°27'43,76" S, Longitud 69°32'53,25" W. El objeto de esta concesión marítima, sobre el sector otorgado, consiste en amparar el fondeo de una boya de amarre para embarcaciones de hasta 200 TRG.
+
+Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Punta Delgada. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
