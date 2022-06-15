@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 644, del 20 de mayo de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Pasaje 1 Sur N° 801, comuna de Chillán, Rol de Avalúo N° 01760-00011, de aparente dominio de Rubilar Caballero Mario. La superficie afecta a expropiación Parcial de terreno es de 38,26 m² (Lote 74) y Parcial de edificación (a) es de 24,59 m², cuyos linderos particulares están enmarcados en el plano S16R-076, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por el arquitecto Mario Fabrizzio Bellolio Bostica, el constructor civil Ítalo Renzo Zerga Arancibia y el ingeniero civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $27.954.497.-
+
+Director Serviu Región de Ñuble.
