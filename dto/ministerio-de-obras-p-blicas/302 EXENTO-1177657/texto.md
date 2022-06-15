@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 302 de 24 de mayo de 2022, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 1, Rol de avalúo 3300-4, comuna de Temuco, superficie 137 m2., para la obra MEJORAMIENTO ACCESO PORTAL SAN FRANCISCO - TEMUCO, DE KM. 0,42231 A KM. 0,73323, COMUNA DE TEMUCO, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por YASCHALA MARIBEL YÁÑEZ RIFFO, PAULA ANDREA LAGOS CARRASCO y EVALDO ROBERTO CONTRERAS ROA, fijó el valor de tasación con fecha 19 de marzo de 2014, acordándose la indemnización con su propietaria VERÓNICA DEL CARMEN NAHUEL MILLAVIL, en la cantidad de $1.724.205.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
