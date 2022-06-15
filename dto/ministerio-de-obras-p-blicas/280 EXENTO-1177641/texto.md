@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº280, de 19 de mayo de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs 164, 165 y 166, para la obra: MEJORAMIENTO RUTA V-69 SECTOR: COCHAMO - PUENTE PUCHEGUIN, que figuran a nombre de GUTIERREZ GUTIERREZ LUTGARDA MAU Y, rol de avalúo 151-12, Comuna de COCHAMO, REGIÓN DE LOS LAGOS, superficies 982, 434 y 115 m2. respectivamente. La Comisión de Peritos integrada por NICOLAS ALEJANDRO ALARCON SANCHEZ, SONIA CATALINA GALLEGOS BLANCH y DORY GISELA DONOSO SALGADO, mediante informe de tasación de 09 de junio de 2021, fijó el monto de la indemnización provisional en la cantidad de $2.766.000, para el lote Nº164, $1.574.800, para el lote Nº165 y $221.400, para el lote Nº166. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
