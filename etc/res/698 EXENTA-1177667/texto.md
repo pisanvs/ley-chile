@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 698, del 1 de junio de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Los Boldos Nº 801, comuna de Chillán, Rol de Avalúo Nº 01805-00007, de aparente dominio de Corp Iglesia de los Adventistas del. La superficie afecta a expropiación Parcial de terreno es de 52,92 m² (Lote 91) y Parcial de edificación (a) es de 80,72 m², cuyos linderos particulares están enmarcados en el plano S16R-125, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por la Arquitecto Paola Loreto Martínez Perucca, la Arquitecto Carolina del Pilar Zuloaga Sanhueza y el Ingeniero Civil Industrial Marcelo Esteban Moreno Venegas, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $55.204.487.-
+
+Director Serviu Región de Ñuble.
