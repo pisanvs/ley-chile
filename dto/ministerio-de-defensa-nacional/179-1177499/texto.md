@@ -1,0 +1,7 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 179, de fecha 10 de marzo de 2022, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Salmones Antártica S.A., RUT N° 86.100.500-3, concesión marítima menor, con vencimiento el 31 de diciembre de 2031, sobre un sector de Playa de Mar, Porción de Agua y Uso de Mejora Fiscal, en el lugar denominado sector Changüitad, Isla Quinchao, comuna de Curaco de Vélez, Provincia de Chiloé, Región de Los Lagos, con una superficie total de 876,16 m², la que fue tramitada con el SIABC Nº 47.980. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto de esta concesión marítima, sobre los sectores otorgados, es de mantención y operación de un atracadero flotante y Plataforma (losa de hormigón), facilitando la operación y conectividad de las actividades desarrolladas por centro de cultivo de salmónidos, por un período de 10 años. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Achao. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Dennis Gallardo Salinas, Suboficial L (Seg.M.), Capitán de Puerto de Achao.
