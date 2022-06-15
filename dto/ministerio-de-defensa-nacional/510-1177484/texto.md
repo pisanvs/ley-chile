@@ -1,0 +1,7 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 510, de fecha 13 de diciembre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la señora Stanka Zlatar Varas, RUN N° 4.906.771-2, primera renovación de concesión marítima mayor, con vencimiento 31 de diciembre de 2036, sobre un sector de terreno de playa, en el lugar denominado Caleta El Horno, comuna de Mejillones, provincia y Región de Antofagasta, con una superficie total de 567.22 m2, la que fue tramitada con el SIABC N° 40539. A modo referencial deslinda y mide: al Norte, con terreno de playa, en 17,90 mts.; al Sur con terreno de playa, en 20,70 mts., al Este con terreno de playa, sitio N° 161, en 32,20 mts, y al Oeste con terreno de playa (recinto de Carabineros de Chile), en 29 mts.
+
+El objeto consiste en continuar usufructuando y amparando la construcción existente de una casa para veraneo familiar. Las obras existentes consisten en una casa de veraneo. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Mejillones. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Marcelo González González, Capitán de Corbeta LT, Capitán de Puerto de Mejillones.
