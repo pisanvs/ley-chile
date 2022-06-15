@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 645, del 20 de mayo de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambaly Nº 713, comuna de Chillán, Rol de Avalúo Nº 01776-00003, de aparente dominio de Sepúlveda Ceballo Clarisa Aurora. La superficie afecta a expropiación parcial de terreno es de 29,06 m² (Lote 79) y parcial de edificación (a) es de 80,91 m², cuyos linderos particulares están enmarcados en el plano S16R-080, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el arquitecto Mario Fabrizzio Bellolio Bostica, el constructor civil Ítalo Renzo Zerga Arancibia y el ingeniero civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $46.410.559.-
+
+Director Serviu Región de Ñuble.
