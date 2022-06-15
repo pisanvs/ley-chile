@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto (Exento) MOP N° 273 de 19 de mayo de 2022, se modificó el numeral segundo del Decreto (Exento) MOP N° 99 de 26 de marzo de 2021, que se refiere al nombre del propietario, y se dejaron sin efecto los numerales 3°, 4°, 5° y 6° del Decreto (Exento) MOP N° 99 de 26 de marzo de 2021, en la parte que se refiere al Convenio Directo de Precio, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N° 147, expropiado con motivo de la obra: "Mejoramiento Camino Básico Intermedio Maquehue - Boroa - Puente Ragñintuleufu, comunas de Padre Las Casas y Nueva Imperial, Provincia de Cautín, Región de la Araucanía", que figura actualmente a nombre de COLIHUINCA COLLIPAN VICENTE GALV, Comuna de Nueva Imperial, Región de la Araucanía. Consígnese judicialmente el monto provisional de la indemnización fijada mediante informe de tasación de 21 de octubre de 2019, ascendente a la cantidad de $4.892.250, para el lote N° 147. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186 de 1978.
+
+Fiscalía MOP.
