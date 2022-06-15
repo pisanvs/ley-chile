@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto (Exento) MOP N° 274 de 19 de mayo de 2022, se modificó el numeral segundo que se refiere al nombre del propietario del Decreto (Exento) MOP N° 204 de 22 de abril de 2021, y se dejaron sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto (Exento) MOP N° 204 de 22 de abril de 2021, en la parte que se refiere al Convenio Directo de Precio, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N° 115, expropiado con motivo de la obra: "Mejoramiento Camino Básico Intermedio Maquehue - Boroa - Puente Ragñintuleufu, comunas de Padre Las Casas y Nueva Imperial, Provincia de Cautín, Región de la Araucanía", que figura actualmente a nombre de HUERALAF ANCALAF SOFIA, Comuna de Padre Las Casas, Región de la Araucanía. Consígnese judicialmente el monto provisional de la indemnización fijada mediante informe de tasación de 21 de octubre de 2019, ascendente a la cantidad de $7.179.750, para el lote N° 115. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186 de 1978.
+
+Fiscalía MOP.
