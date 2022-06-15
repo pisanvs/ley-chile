@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 621, del 13 de mayo de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en A de Ercilla Nº 611, comuna de Chillán, Rol de Avalúo Nº 01606-00018, de aparente dominio de Pinto Varela Carlos Mauricio. La superficie afecta a expropiación parcial de terreno (Lote 53) es de 6,22 m² y total de edificación es de 16,44 m², cuyos linderos particulares están enmarcados en el plano S16R-155, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por la arquitecto doña Priscilla Andrea Encalada Rueda, la arquitecto doña Cecilia María Carrasco Verdugo y por el constructor civil don Fernando Iván Cerda Espinosa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $8.588.398.-
+
+Director Serviu Región de Ñuble.
