@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 218, de 19 de mayo de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10º letra c), 14° letra e) y 105° del DFL. MOP. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL. MOP. N° 206 de 1960, se expropió el lote de terreno N° 9, para la obra: DISEÑO DE OBRAS FLUVIALES Y MANEJO DE CAUCE EN LA QUEBRADA DE PAIPOTE, que figura a nombre de SOC CONTRACTUAL MINERA ATACAMA K, Rol de avalúo 7182-15, Comuna de COPIAPÓ, REGIÓN DE ATACAMA, superficie 13.062 m2. La Comisión de Peritos integrada por JUAN ANDRES TEPPER LAVANDEROS, ANDRES ECHEVERRIA CAMPO y ARTURO PAULINO PERALTA MORALES, mediante informe de tasación de 02 de noviembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $182.868.000, para el lote N° 9. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
