@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 295 de 24 de mayo de 2022, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 1-A, Rol de avalúo 2211-436, comuna de Hualaihué, superficie 252 m2., para la obra CONSERVACIÓN RED VIAL REGIÓN DE LOS LAGOS (2018 - 2020), PUENTE CHEÑUE, COMUNA DE HUALAIHUÉ, PROVINCIA DE PALENA, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por ANDRÉS ECHEVERRÍA CAMPO, LORENA ELIZABETH GAJARDO ALARCÓN y DORY GISELA DONOSO SALGADO, fijó el valor de tasación con fecha 28 de febrero de 2020, acordándose la indemnización con su propietaria MARÍA SOLEDAD DE LA CUADRA IZQUIERDO, en la cantidad de $1.641.557.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
