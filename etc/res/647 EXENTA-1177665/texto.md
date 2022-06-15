@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 647, del 20 de mayo de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambaly Nº 781, comuna de Chillán, Rol de Avalúo Nº 01805-00002, de aparente dominio de Franco Álvarez Elizabeth T. La superficie afecta a expropiación Parcial de terreno es de 29,42 m2 (Lote 90), cuyos linderos particulares están enmarcados en el plano S16R-087, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 Ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por la Arquitecto Paola Loreto Martínez Perucca, la Arquitecto Carolina del Pilar Zuloaga Sanhueza y el Ingeniero Civil Industrial Marcelo Esteban Moreno Venegas, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $7.098.434.-
+
+Director Serviu Región de Ñuble.
