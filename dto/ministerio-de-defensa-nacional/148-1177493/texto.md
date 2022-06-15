@@ -1,0 +1,7 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 148, de fecha 4 de marzo de 2022, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Empresa Pesquera Apiao S.A., RUT Nº 84.764.200-9, concesión marítima menor, con vencimiento el 30 de junio de 2031, sobre un sector de Playa de Mar, en el lugar denominado La Planchada, Canal Hudson, Isla Quinchao, comuna Curaco de Vélez, Provincia de Chiloé, Región de Los Lagos, con una superficie total de 830,0 m2, la que fue tramitada con el SIABC Nº 48.034. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en operar un sector de playa de mar como patio de trabajo, para el armado y acondicionamiento de materiales de fondeo, long-line con sus respectivas boyas y colectores, permitiendo además, realizar operaciones de carga y descarga de materiales y recursos hidrobiológicos, desde y hacia los centros de acuicultura que la empresa posee en el sector. No se realizarán obras en el lugar concesionado. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Achao. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Dennis Gallardo Salinas, Suboficial L (Seg. M.), Capitán de Puerto de Achao.
