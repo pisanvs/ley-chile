@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 253, de 19 de mayo de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 3 y 16, para la obra: MEJORAMIENTO RUTA Q-80, CRUCE RUTA 5 MULCHEN - NEGRETE, que figura a nombre de SOCIEDAD AGRÍCOLA Y FORESTAL NIT y NAVARRETE ROJAS JOSÉ DE LA ROSA Y O, roles de avalúo 605-36 y 603-47, Comuna de MULCHEN, REGIÓN DEL BIOBÍO, superficies 307 y 165 m2 respectivamente. La Comisión de Peritos integrada por VALESKA CAROLINA ALÉ GOÑI, CONSUELO LORETO ZULOAGA SANHUEZA y GONZALO ANDRÉS SUAZO FIGUEROA, mediante informe de tasación de 24 de enero de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.545.856 para el lote N° 3, y $535.625 para el lote N° 16. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
