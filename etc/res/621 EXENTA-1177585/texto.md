@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 621/2022, de 23 de mayo de 2022, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, se modifican las resoluciones exentas N° 1.513 y N° 1.514, de la misma Secretaría Regional Ministerial, sustituyendo sus Resuelvo N° 1, pasando a aprobar planes y programas y reconocer oficialmente a la Escuela de Conductores Profesionales o Clase A "IPV Calbuco SpA" o "IPV Formación y Capacitación SpA", de propiedad de la sociedad Formación Integral y Capacitación IPV SpA, RUT: 76.680.567-1, representada legalmente por Marcelo Alexander Stuardo Zapata, cédula nacional de identidad N° 15.222.888-0, para impartir cursos conducentes a la obtención de licencias de conductor profesional Clases A2, A3, A4 y A5, en su sede ubicada en Pedro Félix N° 611, y clases de mecánica en la misma dirección, de la comuna de Calbuco.-
+
+Pablo Walterio Joost Winkler, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región de Los Lagos.
