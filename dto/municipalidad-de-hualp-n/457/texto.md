@@ -1,0 +1,37 @@
+POSTERGA PERMISOS DE SUBDIVISIÓN, LOTEOS, URBANIZACIÓN PREDIAL Y DE CONSTRUCCIONES EN POLÍGONOS QUE INDICA
+
+Núm. 457.- Hualpén, 27 de mayo de 2022.
+
+Vistos:
+
+El expediente de solicitud de reconocimiento del Humedal Urbano Price, presentado por la Municipalidad de Hualpén en la Seremi del Medio Ambiente de la Región del Biobío, mediante oficio N°0881 de fecha 16.08.2021; resolución exenta N°1.105 de fecha 23.09.2021 de Secretario Regional Ministerial del Medio Ambiente de la Región del Biobío, que declara admisible la solicitud de reconocimiento de Humedal Urbano Price, presentada por la Municipalidad de Hualpén; Of. Ord. N°041 de fecha 12.01.2022 de Alcalde de Municipalidad de Hualpén, que solicita al Secretario Regional Ministerial de Vivienda y Urbanismo de la Región del Biobío, un Informe Previo y Favorable, respecto de la postergación de la entrega de permisos en el Humedal Urbano Price; informe Técnico de Asesor Urbanista de Hualpén, de fecha 11.01.2021, que establece la necesidad de postergar el otorgamiento de permisos de subdivisión, loteo o urbanización predial y de construcciones sobre los terrenos del Humedal Urbano Price; Informe Previo de fecha 20.01.2022 del Departamento de Desarrollo Urbano e Infraestructura de la Seremi Minvu de la Región del Biobío, que recomienda al Seremi de Vivienda y Urbanismo de la Región del Biobío, que la solicitud de postergación de permisos en el "Humedal Urbano Price" sea informada favorablemente; Of. Ord. N°231/DDUI N°84 de fecha 24.01.2022 de Secretario Regional Ministerial de Vivienda y Urbanismo de la Región del Biobío que informa favorablemente le postergación de permisos en el Humedal Urbano Price de la comuna de Hualpén; resolución exenta N°97 de fecha 04.02.2022 del Ministro del Medio Ambiente, que amplía el plazo para concluir el procedimiento de reconocimiento del Humedal Urbano Price hasta el día 04 de mayo de 2022; resolución exenta N°444 de fecha 03.05.2022 del Ministro del Medio Ambiente, que amplía por segunda vez el plazo para concluir el procedimiento de reconocimiento del Humedal Urbano Price hasta el día 17 de junio del 2022; decreto alcaldicio N° 78 de fecha 18.05.1982 que aprueba Plan Regulador de Talcahuano vigente para la comuna de Hualpén; artículo 117 de la Ley General de Urbanismo y Construcciones; artículo 1.4.18 de la Ordenanza General de Urbanismo y Construcciones; artículo 3° de la Ley N°21.202; circular Ord. N°0427, DDU 444 de fecha 28.10.2020 de la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo; artículos 1, 12, 56, 63 y siguientes de la Ley N° 18.695 Orgánica Constitucional de Municipalidades.
+
+Considerando:
+
+1. Que se encuentra en tramitación el reconocimiento del Humedal Urbano Price de la Comuna de Hualpén, en la Seremi del Medio Ambiente de la Región del Biobío, según consta en resolución exenta N°1105 de fecha 23.09.2021 del Secretario Regional Ministerial del Medio Ambiente.
+
+2. Que mediante resolución exenta N° 97 de fecha 04.02.2022, el Ministro del Medio Ambiente amplió hasta el 4 de mayo del 2022, el plazo para concluir el reconocimiento de once Humedales Urbanos en Chile, entre los cuales se encuentra el Humedal Urbano Price.
+
+3. Que mediante resolución exenta N°444 de fecha 03.05.2022, el Ministro del Medio Ambiente amplió por segunda vez, hasta el 17 de junio de 2022, el plazo para concluir el reconocimiento de nueve Humedales Urbanos en Chile, entre los cuales se encuentra el Humedal Urbano Price.
+
+4. Que mientras se desarrolla y concluye el proceso de reconocimiento, este Municipio estima necesario postergar los permisos de subdivisión, loteos, urbanización predial y de construcciones en el Humedal Urbano Price, por cuanto la solicitud de reconocimiento se propuso sobre dos polígonos: el polígono 1 que se encuentra mayoritariamente sobre la zona SE-2 del plan regulador de Talcahuano de 1982, al que le aplican las condiciones urbanísticas de la zona ZVN del Plan Regulador Metropolitano de Concepción, zona que sin embargo no tiene una categoría de protección oficial; y el polígono 2 que se emplaza mayoritariamente sobre la zona S-11 del plan regulador de Talcahuano de 1982 que permite los destinos de vivienda y equipamiento y establece además normas urbanísticas que permiten, por citar las principales, una ocupación de suelo de sesenta por ciento, constructibilidad y altura máxima de edificación libres y densidad habitacional bruta máxima de ciento noventa habitantes por hectárea, condiciones que no otorgan la debida protección a los servicios ecosistémicos que presta el Humedal Price.
+
+5. Que la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región del Biobío informó favorablemente la postergación de los permisos de subdivisión, loteos, urbanización predial y de construcciones en el Humedal Urbano Price, estableciendo criterios de evaluación en amparo de la Circular Ord. N°0427, DDU 444 de fecha 28.10.2020 de la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo y el cumplimiento de ellos por parte de la Municipalidad de Hualpén, según consta en informe técnico que acompaño a su Ord. N°231/DDUIN°84 de fecha 24.01.2022.
+
+Decreto:
+
+1. Postérguense por el plazo de tres meses los permisos de subdivisión, loteos, urbanización predial y de construcciones:
+
+a. En "Polígono 1 (1- 2- 3- 4- 5- 6- 7- 8- 9- 10- 11- 12- 13- 14- 15- 16- 17- 18- 19- 20- 21- 22- 23- 24- 25- 26- 27- 28- 29- 1)", para las zonas SE-2 y S-11 del Plan Regulador Comunal de Talcahuano de 1982, vigente en la comuna de Hualpén. La vigencia de la postergación y eventual prórroga, comenzarán desde la fecha de publicación en el Diario Oficial del presente decreto.
+
+b. En "Polígono 2 (1- 2- 3- 4- 5- 6- 7- 8- 9- 10- 11- 12- 13- 14- 15- 1)", para las zonas S-2 y S-11 del Plan Regulador Comunal de Talcahuano de 1982, vigente en la comuna de Hualpén. La vigencia de la postergación y eventual prórroga, comenzarán desde la fecha de publicación en el Diario Oficial del presente decreto.
+
+2. Ordénese en caso de ser necesario, que el citado plazo de tres meses podrá ser prorrogado de conformidad con lo dispuesto en el artículo 117 de la Ley General de Urbanismo y Construcciones.
+
+3. Ordénese a la Dirección de Administración y Finanzas a publicar el presente decreto municipal en el Diario Oficial de Chile, gasto que deberá ser imputado al presupuesto municipal vigente.
+
+4. Publíquese el presente decreto municipal en la página web del Municipio y procédase a la exhibición de la misma resolución y del plano respectivo, en dependencias de esta Municipalidad.
+
+> **Nota.** El N° 1 de la Resolución 694 Exenta, Vivienda, publicada el 15.09.2022, prorroga por 9 meses o hasta la fecha en que se declare como humedal urbano al humedal "Price" por parte del Ministerio del Medio Ambiente, siempre que no exceda dicho lapso, el plazo de postergación de los permisos de subdivisión, loteo o urbanización predial y de construcciones, dispuesto por el presente decreto alcaldicio, respecto de los terrenos localizados en la propuesta del citado humedal, presentada por la Municipalidad de Hualpén.
+
+Anótese, comuníquese y archívese.- Miguel Ángel Rivera Morales, Alcalde.- Nelson Cuevas Muñoz, Secretario Municipal.
