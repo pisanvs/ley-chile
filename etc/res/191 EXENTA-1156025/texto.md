@@ -102,7 +102,7 @@ c) Intervenir en la elaboración de las resoluciones e instrucciones que deba ap
 
 d) Preparar los informes y las consultas a la Contraloría General de la República sobre la interpretación de normas legales y reglamentarias.
 
-e) Asumir la defensa del Instituto en los juicios en que sea parte o en los asuntos en que tenga interés ante los tribunales de justicia o el Ministerio Público.
+e) Asumir la defensa del Instituto en los juicios en que sea parte o en los asuntos en que tenga interés ante los tribunales de justicia o el Ministerio Público, con excepción de las facultades que en esta materia tenga el Subdepto. Gestión Financiera.
 
 2.3 La UNIDAD DE COMUNICACIONES E IMAGEN INSTITUCIONAL, que tendrá las siguientes funciones:
 
@@ -641,6 +641,10 @@ f) Oficiar al Ministerio de Salud para que se pronuncie en forma previa a la can
 g) Resolver las solicitudes de agotar stock de medicamentos.
 
 h) Instruir retiros del mercado de productos farmacéuticos y cosméticos.
+
+i) Suscribir los oficios a terceros relacionados con el control de serie y control de estantería.
+
+j) Resolver las presentaciones relativas a la obligación de entregar los informes periódicos de seguridad y plan de manejo de riesgo, así como lo solicitud de modificación de los mismos.
 
 6.1 El Depto. Agencia Nacional de Medicamentos tendrá las siguientes Coordinaciones, Unidades y Subdepartamentos que se indicarán a continuación:
 
@@ -1268,13 +1272,17 @@ c) Realizar la fiscalización que la normativa establece en las materias de su c
 
 9.4 Subdepartamento de Producción de Insumos Especiales de Laboratorio, el que estará compuesto de las siguientes Secciones, que tendrán las funciones que a continuación se indican:
 
-9.4.1 Centro Productor de Animales de Laboratorios:
+9.4.1 Centro Productor Bioterio Santiago:
 
-a) Producir reactivos biológicos, sangre y hemoderivados para uso de los laboratorios de la Institución, del sistema de vigilancia en salud pública y clientes externos.
+a) Producir reactivos biológicos de la familia de CF1 y otras especies afines, para uso de los laboratorios de la institución, del sistema de vigilancia en salud pública y clientes externos.
 
-9.4.2 Medios de Cultivo:
+9.4.2 Centro Productor Bioterio Chena:
 
-a) Producir medios de cultivo y soluciones especializadas para la ejecución de las funciones de los laboratorios del Instituto.
+a) Producir reactivos biológicos diferentes de CF1, huevos fértiles y embrionados, sangre y hemoderivados para uso de los laboratorios de la institución, del sistema de vigilancia en salud pública y clientes externos.
+
+9.4.3 Medios de Cultivo:
+
+a) Producir medios de cultivo y soluciones especializadas en el área biológica y microbiológica que permiten la ejecución de las funciones de los laboratorios del Instituto.
 
 9.5 Subdepartamento de Ambiente y Alimentos, el que estará compuesto de las siguientes secciones, que tendrán las funciones que a continuación se indican:
 
