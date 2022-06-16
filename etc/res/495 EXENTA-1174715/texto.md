@@ -68,7 +68,7 @@ Dispóngase que en Alerta Nivel 3 se prohibirán los viajes provenientes y dirig
 
 ### II. DE LA DECLARACIÓN JURADA
 
-4. Obligatoriedad de la declaración. Dispóngase que todas las personas que ingresen al país deben completar la Declaración Jurada sobre condiciones de ingreso al país, independiente del Nivel de Alerta dispuesto por la autoridad.
+4. Obligatoriedad de la declaración. Dispóngase que todas las personas mayores de 6 años de edad que ingresen al país deben completar la Declaración Jurada sobre condiciones de ingreso al país, independiente del Nivel de Alerta dispuesto por la autoridad.
 
 5. Forma y plazo de la declaración. Dispóngase que todas las personas que ingresen al país deben completar la referida Declaración Jurada a través de un formulario electrónico disponible en el sitio www.c19.cl, hasta 48 horas antes de su embarque al medio de transporte por medio del cual prevean el ingreso al territorio nacional. Este formulario será considerado como documentación necesaria para el ingreso al país. La Declaración Jurada indicará dónde deberá realizarse la cuarentena o aislamiento a que se refiere el numeral siguiente y; será revisado por la autoridad sanitaria en el punto de ingreso al país.
 
@@ -76,15 +76,15 @@ En casos calificados por la autoridad sanitaria y a solicitud de parte interesad
 
 ### III. DE LAS CUARENTENAS O AISLAMIENTOS
 
-6. Obligatoriedad de cuarentena o aislamiento. Dispóngase que en Alerta Nivel 1, sólo las personas que al tiempo de ingresar al territorio nacional correspondan a un caso confirmado de COVID-19, deberán cumplir con la medida de cuarentena o aislamiento por 7 días o hasta que abandonen el país, en el caso que su permanencia fuere menor a 7 días. Lo anterior, de acuerdo con las reglas generales previstas en la resolución exenta N° 494, de 2022, del Ministerio de Salud.
+6. Obligatoriedad de cuarentena o aislamiento. Dispóngase que en Alerta Nivel 1, sólo las personas que, al tiempo de ingresar al territorio nacional correspondan a un caso confirmado de COVID-19, deberán cumplir con la medida de aislamiento por 7 días en una residencia sanitaria o en el lugar que la autoridad sanitaria determine. Lo anterior, de acuerdo con las reglas generales previstas en la resolución exenta N° 494, de 2022, del Ministerio de Salud.
 
-Dispóngase que en Alerta Nivel 2, todas las personas que ingresen al territorio nacional y no cuenten con la validación del esquema completo de vacunación contra SARS-CoV-2, deben cumplir con la medida de cuarentena o aislamiento por 7 días o hasta que abandone el país, en el caso que su permanencia fuere menor a 7 días. Lo anterior, de acuerdo con las reglas generales previstas en la resolución exenta N° 494, de 2022, del Ministerio de Salud. Con independencia del estado del esquema de vacunación, las personas que al tiempo de ingresar al territorio nacional correspondan a un caso confirmado con COVID-19, deberán cumplir su cuarentena o aislamiento en una residencia sanitaria.
+Dispóngase que en Alerta Nivel 2, todas las personas que ingresen al territorio nacional y no cuenten con la validación del esquema completo de vacunación contra SARS-CoV-2, deberán cumplir con la medida de cuarentena en una residencia sanitaria o en el lugar que la autoridad sanitaria determine, por 7 días o hasta que abandonen el país, en el caso que su permanencia fuere menor a 7 días. Lo anterior, de acuerdo con las reglas generales previstas en la resolución exenta N° 494, de 2022, del Ministerio de Salud. Con independencia del estado del esquema de vacunación, las personas que, al tiempo de ingresar al territorio nacional correspondan a un caso confirmado con COVID-19, deberán cumplir su aislamiento en una residencia sanitaria o en el lugar que la autoridad sanitaria determine.
 
-Dispóngase que en Alerta Nivel 3, todas las personas que ingresen al territorio nacional provenientes de lugares donde se sospeche o confirme la presencia de una variante preocupante (VOC), determinados por resolución del Ministerio de Salud, y/o no cuente con la validación del esquema completo de vacunación contra SARS-CoV-2, deben cumplir con la medida de cuarentena o aislamiento en residencias sanitarias por 7 días o hasta que abandone el país, en el caso que su permanencia fuere menor a 7 días. Con independencia del estado del esquema de vacunación, las personas que al tiempo de ingresar al territorio nacional correspondan a un caso confirmado con COVID-19 o contacto estrecho, deberán cumplir su cuarentena o aislamiento en una residencia sanitaria.
+Dispóngase que en Alerta Nivel 3, todas las personas que ingresen al territorio nacional y no cuenten con la validación del esquema completo de vacunación contra SARS-CoV-2, deben cumplir con la medida de cuarentena en residencias sanitarias por 7 días o hasta que abandonen el país, en el caso que su permanencia fuere menor a 7 días. Con independencia del estado del esquema de vacunación, las personas que al tiempo de ingresar al territorio nacional correspondan a un caso confirmado con COVID-19, deberán cumplir su cuarentena o aislamiento en una residencia sanitaria o en el lugar que la autoridad sanitaria determine.
 
-Para efecto de los tres párrafos anteriores, se entenderá que los 7 días se cumplirán una vez transcurridas 168 horas desde el control de la aduana sanitaria en el paso fronterizo por el cual la persona hizo ingreso al país.
+Para efectos de los párrafos anteriores, se entenderá que los 7 días se cumplirán una vez transcurridas 168 horas desde el control de la aduana sanitaria en el paso fronterizo por el cual la persona hizo ingreso al país.
 
-Los casos en que la persona no cuenten con la validación del esquema completo de vacunación contra SARS-CoV-2 o sea contacto estrecho, podrán dar término a la cuarentena o aislamiento antes de los 7 días, con la notificación del resultado negativo del test PCR para SARS-CoV-2.
+Las personas que no cuenten con la validación del esquema completo de vacunación contra SARS-CoV-2, podrán dar término a la cuarentena o aislamiento antes de los 7 días, con la notificación del resultado negativo del test PCR para SARS-CoV-2 realizado luego de su ingreso al país.
 
 En los casos de personas que correspondan a un caso confirmado de COVID-19, a circunstancia de contar con un resultado negativo en un test de PCR para SARS-CoV-2 no eximirá a la persona del cumplimiento total de la cuarentena o aislamiento dispuesto en este numeral
 
@@ -150,7 +150,7 @@ Para dichos efectos, deberá exigir la presentación del test PCR para SARS-CoV-
 
 20. De las sanciones. Ante el incumplimiento de lo señalado en los numerales 14 y/o 15 por un pasajero residente de manera regular en Chile, la autoridad sanitaria podrá sancionarlo acorde al Libro X del Código Sanitario y deberá cumplir el aislamiento que trata el numeral 6 de la presente resolución, en el lugar que disponga la autoridad sanitaria, debiendo el infractor sufragar los costos de la estadía.
 
-21. Excepción de contar con un resultado negativo de un test PCR para SARS-CoV-2. Dispóngase que en Alerta Nivel 1 se recomendará que las personas cuenten, al momento de abordar un medio de transporte con destino al territorio nacional y en el punto de entrada al país, con un resultado negativo de un test de antígeno para SARS-CoV-2.
+21. Excepción de contar con un resultado negativo de un test PCR para SARS-CoV-2. Dispóngase que en Alerta Nivel 1, por regla general, se recomendará que las personas cuenten, al momento de abordar un medio de transporte con destino al territorio nacional y en el punto de entrada al país, con un resultado negativo de un test PCR para SARS-CoV-2.
 
 En aquellos pasos fronterizos terrestres que no sea factible realizar un test PCR para SARS-CoV-2, se podrá utilizar un test de antígeno para detectar casos positivos de COVID-19.
 
@@ -174,15 +174,7 @@ La empresa de transporte que efectúe el traslado del pasajero hacia el territor
 
 ### V. DEL SEGURO MÉDICO
 
-25. Obligatoriedad. Dispóngase que las personas no residentes de manera regular en el país sólo podrán ingresar al territorio nacional si cuentan con un seguro médico de viaje vigente para todo el tiempo de estadía en el país, según lo declarado al momento de su ingreso, que cubra aquellos gastos que pudiese ocasionar la asistencia médica de urgencia o la atención hospitalaria de urgencia durante toda su estancia en el país, su repatriación por motivos médicos o por defunción y, cualquier otro gasto originado por COVID-19.
-
-26. Cobertura mínima. El monto mínimo de cobertura para las prestaciones de salud deberá ser de US $30.000.
-
-27. De la extensión. Será responsabilidad del viajero extender la vigencia del seguro en el caso de prolongar su estadía por sobre el tiempo declarado al momento de su ingreso al país.
-
-28. Del certificado. El certificado de este seguro deberá acompañarse como documento adjunto a la Declaración Jurada señalada en el numeral 4 de la presente resolución.
-
-29. Excepción para españoles. No será exigible el seguro médico de viaje a que se refiere este acápite a los nacionales del Reino de España no residentes en Chile que ingresen al país, siempre que porten los formularios E-CHL/09 y E-CH/11 vigentes. Lo anterior en cumplimiento del Convenio de Seguridad Social con España, promulgado mediante el decreto Nº 262, de 1998, del Ministerio de Relaciones Exteriores y; los artículos 5 y 6 del Acuerdo Administrativo con el Reino de España para la aplicación del Convenio De Seguridad Social, promulgado mediante el decreto supremo Nº 810, de 1998, del Ministerio de Relaciones Exteriores.
+Eliminado.
 
 ### VI. DE LOS TEST PARA SARS-COV-2
 
@@ -204,9 +196,9 @@ En caso que una persona no residente de manera regular en el país se niegue a p
 
 ### VIII. DE LAS EXCEPCIONES
 
-33. Del viajero en tránsito. Exclúyase de los requisitos de ingreso dispuestos en los acápites III, IV y V, a las personas que ingresen al territorio nacional con el sólo fin de proseguir en tránsito a un país extranjero. Para estos casos la autoridad sanitaria podrá establecer requisitos específicos.
+33. Del viajero en tránsito. Exclúyase de los requisitos de ingreso dispuestos en los acápites III y IV, a las personas que ingresen al territorio nacional con el sólo fin de proseguir en tránsito a un país extranjero. Para estos casos la autoridad sanitaria podrá establecer requisitos específicos.
 
-34. De los tripulantes. Los residentes de manera regular en el país que sean tripulantes de naves y aeronaves y, los mecánicos o quienes cumplan otras labores operacionales en las mismas, que ingresen al territorio nacional, podrán exceptuarse de las medidas dispuestas en los acápites II, III y IV, siempre y cuando cuenten con un esquema de vacunación completo contra el SARS-CoV-2 más una dosis de refuerzo recibida hace menos de 6 meses y validada por el Ministerio de Salud; o bien, cuando su empleador cumpla con asegurar e informar a la autoridad sanitaria la realización de un test RT-PCR para SARS-CoV-2 o un test antígeno -a lo menos cada 7 días- para cada persona que requiera esta excepción.
+34. De los tripulantes. Los residentes de manera regular en el país que sean tripulantes de naves y aeronaves y, los mecánicos o quienes cumplan otras labores operacionales en las mismas, que ingresen al territorio nacional, podrán exceptuarse de las medidas dispuestas en los acápites II, III, IV y VI, siempre y cuando cuenten con un esquema de vacunación completo contra el SARS-CoV-2 más una dosis de refuerzo recibida hace menos de 6 meses y validada por el Ministerio de Salud; o bien, cuando su empleador cumpla con asegurar e informar a la autoridad sanitaria la realización de un test RT-PCR para SARS-CoV-2 o un test antígeno -a lo menos cada 7 días- para cada persona que requiera esta excepción.
 
 35. Del personal asociado a carga. Exclúyase de los requisitos de ingreso dispuestos en los acápites III y V precedentes al personal asociado a la carga desde y hacia al territorio nacional, que sea estrictamente necesario, así como el personal de relevo de dicha tripulación, los que se regirán por lo que se dispone a continuación:
 
@@ -230,9 +222,9 @@ b. Para los posteriores descensos en puertos nacionales, los pasajeros deberán 
 
 c. Para descender en cualquier puerto, los pasajeros deberán tener su esquema de vacunación validado, según lo dispuesto en la resolución exenta Nº 494, de 2022, del Ministerio de Salud.
 
-d. Todos los pasajeros deberán cumplir con lo dispuesto en los acápites I y V de esta resolución.
+d. Todos los pasajeros deberán cumplir con lo dispuesto en el acápite I de esta resolución.
 
-38. Exclúyase de la aplicación de lo dispuesto en los párrafos III, IV y V de esta resolución a las personas que ingresen al territorio nacional por los pasos fronterizos terrestres habilitados y que hayan salido del país dentro de las últimas 24 horas.
+38. Exclúyase de la aplicación de lo dispuesto en los párrafos III y IV de esta resolución a las personas que ingresen al territorio nacional por los pasos fronterizos terrestres habilitados y que hayan salido del país dentro de las últimas 24 horas.
 
 Para efectos de lo anterior, las personas interesadas deberán solicitar a la autoridad competente el permiso de 24 horas al momento de egresar y exhibirlo a la misma autoridad al momento de ingresar.
 
