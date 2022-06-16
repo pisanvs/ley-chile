@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 2.525, de fecha 25 de mayo de 2022, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Región Metropolitana de Santiago, se autoriza a Escuela de Conductores No Profesionales o Clase B denominada "El Buen Conductor SpA", RUT Nº 76.987.703-7, domiciliada en Ciruelillo Nº 854, comuna de La Florida, cuya representante legal es la señora Bárbara Lissette Carvajal Araneda, cuyo Programa de Enseñanza fue aprobado mediante resolución exenta Nº 239, de 11 de febrero de 2022, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, a impartir el curso conducente a la obtención de la Licencia de Conductor Clase B, en la modalidad e-learning. La correcta funcionalidad de la plataforma tecnológica computacional LMS, estará siempre sujeta a las auditorías, controles y fiscalizaciones que sean procedentes. La misma autorización, en copia fidedigna, deberá estar a disposición de los postulantes y alumnos del establecimiento.-
+
+Roberto Alexis Santa Cruz González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
