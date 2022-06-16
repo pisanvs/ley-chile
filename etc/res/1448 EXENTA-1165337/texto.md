@@ -78,13 +78,15 @@ x) Que, para efectos del otorgamiento de los subsidios adicionales a que haya lu
 
 Resolución:
 
-1. Delégase en los Secretarios Regionales Ministeriales de Vivienda y Urbanismo de todas las regiones del país la facultad del inciso segundo del artículo 8º del DS Nº 10 (V. y U.), de 2015, que reglamenta el Programa de Habitabilidad Rural, para el solo efecto de asignar subsidios adicionales a proyectos de la Modalidad de Construcción de Viviendas Nuevas, hasta por un 7% del valor del contrato, tratándose de la tipología de Construcción en Sitio del Residente, y hasta por un 5% para la tipología de Construcción de Conjunto habitacional, conforme a los porcentajes según región y tipología, establecidos en los oficios citados en los considerandos o) al t) precedentes, y hasta por un 20% del valor del contrato, tratándose de proyectos de Mejoramiento y Ampliación de Viviendas Existentes y Equipamientos Comunitarios, conforme a los lineamientos que sobre la materia se entreguen en la circular a que se refiere el Resuelvo 3 siguiente.
+1. Delégase en los Secretarios Regionales Ministeriales de Vivienda y Urbanismo de todas las regiones del país la facultad del inciso segundo del artículo 8° del DS N° 10 (V. y U.), de 2015, que reglamenta el Programa de Habitabilidad Rural, para el solo efecto de asignar subsidios adicionales a proyectos de la modalidad de Construcción de Viviendas Nuevas, en sus tipologías de Construcción en Sitio del Residente y Construcción de Conjunto Habitacional, y a proyectos de Mejoramiento y Ampliación de Viviendas Existentes y Equipamientos Comunitarios, conforme a los parámetros y lineamientos que sobre la materia se entreguen en la circular a que se refiere el Resuelvo 3 siguiente.
 
-2. En ambas modalidades indicadas en el resuelvo precedente, el beneficio se entregará a los proyectos que se encuentren en etapa de evaluación, que sean aprobados durante el año 2021, o que hayan sido aprobados anteriormente, con o sin inicio de obras.
+2. En ambas modalidades indicadas en el resuelvo precedente, el beneficio se entregará a los proyectos que se encuentren en etapa de evaluación, que sean aprobados a partir de la presente resolución, o que hayan sido aprobados anteriormente, con o sin inicio de obras.
 
 3. Por oficio circular del Subsecretario de Vivienda y Urbanismo, se informará de los parámetros a utilizar para la determinación específica del porcentaje del contrato que se entregará como subsidio adicional, aplicable a cada proyecto según lo indicado en los resuelvos anteriores, y se informará de los demás aspectos prácticos para la asignación del subsidio adicional a los proyectos que califiquen.
 
 4. Instrúyese a los Serviu requerir a las Seremi, según lo dispuesto en los resuelvos anteriores y en la medida que cuente con recursos para ello, el otorgamiento de subsidios adicionales del inciso segundo del artículo 8º del DS Nº 10 (V. y U.), de 2015, y gestionar las modificaciones contractuales que sean pertinentes, en los términos indicados, a objeto de propender al inicio de las obras en el menor tiempo posible.
+
+Para agilizar el procedimiento de aplicación de los subsidios adicionales que se asignen, el Serviu podrá establecer los mecanismos de incorporación de dichos recursos al contrato, a los presupuestos aprobados; y disponer sus formas de pago, resguardando en todo caso que estos se utilicen efectivamente para el financiamiento de las obras correspondientes.
 
 Anótese, publíquese y comuníquese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
